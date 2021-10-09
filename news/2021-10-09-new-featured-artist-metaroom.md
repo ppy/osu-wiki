@@ -25,7 +25,7 @@ Behind the scenes, [Lugu](https://osu.ppy.sh/users/12851847) from the Mappers' G
 Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1589495) hosted by [Lugu](https://osu.ppy.sh/users/12851847) from the video above!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/206/METADATA%20--%20PINK%20ORIGINS/METAROOM%20-%20PINK%20ORIGINS.mp3" type="audio/mpeg">
 </audio>
 
 ### METAROOM - SPIKEY BOI
@@ -33,7 +33,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1589495) hosted by 
 Or try out [the osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1424830) that introduced **METAROOM** to the game!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/206/SWEET%20GENESIS/METAROOM%20-%20SPIKEY%20BOI.mp3" type="audio/mpeg">
 </audio>
 
 ### METAROOM - WORM RAVE
@@ -41,13 +41,13 @@ Or try out [the osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1424830) that 
 If you're brave enough, try [this beatmap](LINK) created by you! (Warning: some editor assembly required.)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/206/SWEET%20GENESIS/METAROOM%20-%20WORM%20RAVE.mp3" type="audio/mpeg">
 </audio>
 
 ### METAROOM - .ANGEL
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/206/.ANGEL/METAROOM%20-%20.ANGEL.mp3" type="audio/mpeg">
 </audio>
 
 ---
