@@ -1,6 +1,5 @@
 ---
-outdated: true
-outdated_since: a92869bad198adeb411099cc45da9aaf71893c2a
+no_native_review: true
 ---
 
 # Mise en forme
@@ -321,6 +320,23 @@ Les titres de section ne doivent pas sauter un niveau de titre (c'est-à-dire ne
 
 *Remarque : Sur le site web, les niveaux de rubrique 4 et 5 n'apparaîtront pas dans la table des matières. Ils ne peuvent pas non plus faire l'objet d'un lien direct.*
 
+### Identifiants personnalisés
+
+Il est possible de redéfinir l'identifiant d'une section, qui est utilisé pour y accéder directement. Les identifiants personnalisés doivent être utilisés dans le cas où ceux générés automatiquement sont trop longs ou contiennent des signes de ponctuation ou des images complexes :
+
+```markdown
+## Mon délai de réflexion est passé. Comment puis-je faire appel ? {#appel}
+
+## Raisons de restriction communes et cooldowns {#raisons-communes}
+```
+
+Cette fonction peut également être utilisée pour baliser une partie spécifique de l'article qui n'a pas de titre. Utilisez-la avec parcimonie :
+
+```markdown
+> Voilà, c'est fait ! Vous êtes sur la bonne voie pour devenir un champion du rythme d'osu!
+{#citation-tutoriel}
+```
+
 ## Listes
 
 Les listes ne doivent pas dépasser 4 niveaux d'indentation et ne doivent pas comporter de ligne vide entre chaque élément.
@@ -611,7 +627,7 @@ Il existe deux types de liens d'image : en ligne et de référence. Exemples :
 ```markdown
 ![][flag_AU]
 
-[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
 ```
 
 Les images doivent utiliser le style de lien en ligne. Les références aux liens de référence doivent être placées en bas de l'article.

@@ -401,6 +401,9 @@ Abbreviations for user groups are used throughout this log:
 - 2021-09-06: Moved [Stefan](https://osu.ppy.sh/users/626907) from **GMT** to **osu! Alumni**
 - 2021-09-07: Removed [Alter-](https://osu.ppy.sh/users/4980256) from **Project Loved Team**
 - 2021-09-14: Moved [Clobohne](https://osu.ppy.sh/users/499343) from **GMT** to **osu! Alumni**
+- 2021-09-25: Moved [Seto Kousuke](https://osu.ppy.sh/users/2857314) from **NAT** to **osu! Alumni**
+- 2021-09-27: Added [UberFazz](https://osu.ppy.sh/users/8646059) to **NAT**
+- 2021-09-27: Added [Uberzolik](https://osu.ppy.sh/users/1314547) to **NAT**
 
 ### Beatmap Nominators
 
@@ -410,12 +413,22 @@ Abbreviations for user groups are used throughout this log:
 - 2021-09-10: Added [D0UG](https://osu.ppy.sh/users/13806900) to **Probationary BN**
 - 2021-09-13: Added [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) to **Probationary BN**
 - 2021-09-17: Added [DakeDekaane](https://osu.ppy.sh/users/1425253) to **Probationary BN**
+- 2021-09-23: Added [Iceluin](https://osu.ppy.sh/users/3558897) to **BN**
+- 2021-09-23: Added [Dada](https://osu.ppy.sh/users/9119507) to **BN**
+- 2021-09-26: Added [duski](https://osu.ppy.sh/users/6506484) to **Probationary BN**
+- 2021-09-28: Added [Froskya](https://osu.ppy.sh/users/4230454) to **Probationary BN**
 
 #### Moves
 
 - 2021-09-02: Moved [gevbiivi5](https://osu.ppy.sh/users/7140680) from **BN** to **Probationary BN**
 - 2021-09-04: Moved [Mirea](https://osu.ppy.sh/users/8404646) from **Probationary BN** to **BN**
 - 2021-09-04: Moved [mrowswares](https://osu.ppy.sh/users/9558549) from **Probationary BN** to **BN**
+- 2021-09-19: Moved [Riana](https://osu.ppy.sh/users/1997633) from **Probationary BN** to **BN**
+- 2021-09-21: Moved [Lacrima](https://osu.ppy.sh/users/4915649) from **Probationary BN** to **BN**
+- 2021-09-26: Moved [Idealism](https://osu.ppy.sh/users/3869519) from **Probationary BN** to **BN**
+- 2021-09-27: Moved [mnyui](https://osu.ppy.sh/users/14261540) from **Probationary BN** to **BN**
+- 2021-09-27: Moved [Kyle Y](https://osu.ppy.sh/users/3565813) from **Probationary BN** to **BN**
+- 2021-09-27: Moved [FuJu](https://osu.ppy.sh/users/10773882) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -423,5 +436,11 @@ Abbreviations for user groups are used throughout this log:
 - 2021-09-02: Removed [X a v y](https://osu.ppy.sh/users/3738344) from **Probationary BN**
 - 2021-09-07: Removed [pimp](https://osu.ppy.sh/users/328615) from **Probationary BN**
 - 2021-09-10: Removed [Stefan](https://osu.ppy.sh/users/626907) from **BN**
+- 2021-09-19: Removed [Bibbity Bill](https://osu.ppy.sh/users/4446810) from **BN**
+- 2021-09-21: Removed [Du5t](https://osu.ppy.sh/users/6053071) from **BN**
+- 2021-09-23: Removed [Mimari](https://osu.ppy.sh/users/14339830) from **BN**
+- 2021-09-23: Removed [Sonnyc](https://osu.ppy.sh/users/11771) from **BN**
+- 2021-09-27: Removed [UberFazz](https://osu.ppy.sh/users/8646059) from **BN**
+- 2021-09-27: Removed [Uberzolik](https://osu.ppy.sh/users/1314547) from **BN**
 
-<!-- last update: 2021-09-18 13:00 added dakedekaane to probo bn -->
+<!-- last update: 2021-09-28 16:00 added Froskya to probo bn -->
