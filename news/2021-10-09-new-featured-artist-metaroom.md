@@ -25,7 +25,7 @@ Behind the scenes, [Lugu](https://osu.ppy.sh/users/12851847) from the Mappers' G
 Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1589495) hosted by [Lugu](https://osu.ppy.sh/users/12851847) from the video above!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/202/Songs/tokiwa%20-%20Wasurena%20feat.%20Sennzai.mp3" type="audio/mpeg">
+    <source src="LINK" type="audio/mpeg">
 </audio>
 
 ### METAROOM - SPIKEY BOI
