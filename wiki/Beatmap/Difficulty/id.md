@@ -17,18 +17,13 @@ Sebuah **tingkat kesulitan beatmap** adalah sebuah level permainan yang tersimpa
 
 Dari perspektif pendengar, sebuah tingkat kesulitan dapat memperkuat lagu dengan menambahkan satu atau beberapa set sampel audio, atau [*hitsound*](/wiki/Beatmapping/Hitsound) yang berfungsi sebagai umpan balik saat sedang bermain.
 
-<!-- TODO: this description of visuals needs to be improved:
-  - a separate section;
-  - a very small paragraph on every key component, including those from Beatmap#overview;
--->
-
 [Komponen visual](/wiki/Beatmap) dari sebuah tingkat kesulitan berbeda dengan polanya, dan dapat memberikan pengalaman tambahan selama bermain. Komponen visual tersebut sebagian besar dapat dinonaktifkan melalui menu [*visual setting*](/wiki/Visual_Settings). Sementara itu, beberapa diantaranya seperti [*storyboard*](/wiki/Storyboard) atau [*custom skin*](/wiki/Skinning) dari sebuah beatmap secara keseluruhan, sebagian besar komponen visual tersebut dapat bervariasi pada masing-masing tingkat kesulitan (contohnya, bagian [kiai](/wiki/Kiai_time) dan [warna kombo](/wiki/Glossary/Combo_colour)).
 
 ## Nama-nama tingkat kesulitan
 
 *Lihat juga: [Penamaan Tingkat Kesulitan](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu beatmap. Definisi tiap-tiap tingkat kesulitan beserta panduan tata cara pemakaiannya dapat dilihat pada laman [Ranking Criteria](/wiki/Ranking_Criteria) masing-masing mode permainan.
+Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu beatmap. Definisi tiap-tiap tingkat kesulitan beserta panduan tata cara pemakaiannya dapat dilihat pada laman [*ranking criteria*](/wiki/Ranking_Criteria) masing-masing mode permainan.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
