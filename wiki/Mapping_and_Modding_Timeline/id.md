@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 4f8d54a3fc70074630230b88709f573a969c9320
+---
+
 # Sejarah mapping dan modding
 
 Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berkembang seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini ditujukan sebagai suatu bentuk dokumentasi terhadap berbagai perubahan yang terjadi dari masa ke masa dan sebagai acuan bagi mereka yang ingin mencetuskan ide-ide baru terkait mapping dan modding ke depannya.
@@ -486,7 +491,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
-[flag_FR]: /wiki/shared/flag/FR.gif "Perancis"
+[flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
 [flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
+---
+
 # osu! wiki 贡献指南
 
 感谢你有兴趣让 osu! wiki 变得更好！现在，为 osu! wiki 作贡献，需要花费更多地时间和精力。这篇快速指南假设你是没有使用过 GitHub 和了解过 osu! wiki 贡献工作流的新人。如果你已经有使用 GitHub 的经验，你可以跳过这个指南，遵循一般的特性-分支（feature-branch）工作流来为仓库添加新的内容。
@@ -44,7 +49,7 @@
 
 3. 这不是个大问题。只是你无法修改已经被修改的文件，这意味你的仓库落后于最新的提交。
 
-4. 为了解决这个问题，请看[常见问题——我的分支过期了！](/wiki/osu!_wiki/Contribution_guide/Common_Issues#我的分支过期了！)。
+4. 为了解决这个问题，请看[常见问题——我的分支过期了！](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork)。
 
 5. 当你完成了第 4 步，请转到 [在线编辑或本地编辑](#在线编辑或本地编辑)。
 
