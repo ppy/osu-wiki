@@ -89,19 +89,19 @@ Botão na barra de formatação: ![Opções de tamanho de fonte](img/font-size.p
 
 ### Spoiler
 
-*Não confundir com Caixa de Spoiler.*
+*Não confundir com [Caixa de Spoiler](#caixa-de-spoiler).*
 
 ```
 [spoiler]texto[/spoiler]
 ```
 
-A tag ```[spoiler]```é usada para cobrir informações sensíveis com uma tarja preta, onde o texto só será revelado se for realçado. Se essa tag for aninhada com a tag [`[color]`](#cores), a tarja preta não será afetada. Porém, o texto escondido pela tarja ainda será colorido, mesmo não estando legível.
+A tag `[spoiler]` é usada para cobrir informações sensíveis com uma tarja preta, onde o texto só será revelado se for realçado. Se essa tag for aninhada com a tag [`[color]`](#cores), a tarja preta não será afetada. Porém, o texto escondido pela tarja ainda será colorido, mesmo não estando legível.
 
 Essa tag é geralmente usada para prevenir que informações críticas/sensíveis de uma série de televisão, filme ou outras mídias seja revelada. Também é utilizada para efeitos cômicos ou para ênfase.
 
 ### Caixa
 
-*Não confundir com Caixa de Spoiler.*
+*Não confundir com [Caixa de Spoiler](#caixa-de-spoiler).*
 
 ```
 [box=NAME]
@@ -135,7 +135,7 @@ texto
 [/quote]
 ```
 
-A tag `[quote]`é usada para formatar citações longas de maneira elegante (também conhecidos como blocos de citação) através do uso de indentações, cores, negrito, e destacando o texto através de uma linha vertical rosa. O conteúdo da citação deve ser informado entre as tags de abertura e de fechamento, enquanto o argumento `NAME` especifica o autor da citação (este argumento é opcional). O texto nas citações irá exibir espaços em branco e quebras de linha.
+A tag `[quote]` é usada para formatar citações longas de maneira elegante (também conhecidos como blocos de citação) através do uso de indentações, cores, negrito, e destacando o texto através de uma linha vertical rosa. O conteúdo da citação deve ser informado entre as tags de abertura e de fechamento, enquanto o argumento `NAME` especifica o autor da citação (este argumento é opcional). O texto nas citações irá exibir espaços em branco e quebras de linha.
 
 *Observação: O argumento `NAME` deve estar sempre cercado por aspas (`"`).*
 
@@ -169,7 +169,7 @@ A tag `[centre]` é usada para centralizar um texto. Ela é usada geralmente par
 [url=LINK]texto[/url]
 ```
 
-A tag `[url]`é usada para transformar textos comuns em links.
+A tag `[url]` é usada para transformar textos comuns em links.
 
 *Nota: Essa tag não é necessária para aqueles que nõa desejam dar nomes customizados aos seus links, já que o editor de fórum processa automaticamente as URLs como links.* 
 
@@ -213,7 +213,7 @@ Botões na barra de formatação: ![Botão de lista](img/list.png "Lista")    ![
 [img]ADDRESS[/img]
 ```
 
-A tag `[img]`é usada para incluir imagens online em postagens nos fóruns do osu!. Para usar a tag, usuários precisam inserir links diretos para a imagem (representado pelo argumento `ADDRESS` acima) postada na internet. Caminhos locais (como `C:\Usuarios\Name\Imagens\imagem.jpg`) **não irão funcionar**.
+A tag `[img]` é usada para incluir imagens online em postagens nos fóruns do osu!. Para usar a tag, usuários precisam inserir links diretos para a imagem (representado pelo argumento `ADDRESS` acima) postada na internet. Caminhos locais (como `C:\Usuarios\Name\Imagens\imagem.jpg`) **não irão funcionar**.
 
 *Observação: A URL de um site **não** é a mesma coisa que o endereço de uma imagem.*
 
@@ -280,6 +280,10 @@ A tag `[google]` é uma tag desatualizada que já foi usada nos fóruns do osu! 
 A tag redirecionava os usuários à página de pesquisa do Google através de suas próprias contas, o que significa que os resultados não eram os mesmos para todos, tendo em vista que o Google personaliza os resultados por usuário. Da mesma forma, isso também significava que alguns resultados não apareciam para usuários devido a restrições de linguagem ou posição geográfica.
 
 ### Lucky
+
+```
+[lucky]busca desejada[/lucky]
+```
 
 A tag `[lucky]` é uma tag desatualizada que já foi usada nos fóruns do osu! para direcionar à pesquisas do Google utilizando a funcionalidade "Estou com sorte" com o texto especificado entre as tags. A busca gerada através dessa tag não era a mesma para todos devido à natureza da funcionalidade e também devido a restrições de linguagem ou posição geográfica.
 
