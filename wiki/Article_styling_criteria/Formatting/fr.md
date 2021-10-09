@@ -1,6 +1,5 @@
 ---
-outdated: true
-outdated_since: a92869bad198adeb411099cc45da9aaf71893c2a
+no_native_review: true
 ---
 
 # Mise en forme
@@ -320,6 +319,23 @@ Les titres de section doivent utiliser les niveaux 2 à 5. L'en-tête de section
 Les titres de section ne doivent pas sauter un niveau de titre (c'est-à-dire ne pas passer d'un titre de niveau 2 à un titre de niveau 4) et ne doivent pas contenir de formatage ou de liens.
 
 *Remarque : Sur le site web, les niveaux de rubrique 4 et 5 n'apparaîtront pas dans la table des matières. Ils ne peuvent pas non plus faire l'objet d'un lien direct.*
+
+### Identifiants personnalisés
+
+Il est possible de redéfinir l'identifiant d'une section, qui est utilisé pour y accéder directement. Les identifiants personnalisés doivent être utilisés dans le cas où ceux générés automatiquement sont trop longs ou contiennent des signes de ponctuation ou des images complexes :
+
+```markdown
+## Mon délai de réflexion est passé. Comment puis-je faire appel ? {#appel}
+
+## Raisons de restriction communes et cooldowns {#raisons-communes}
+```
+
+Cette fonction peut également être utilisée pour baliser une partie spécifique de l'article qui n'a pas de titre. Utilisez-la avec parcimonie :
+
+```markdown
+> Voilà, c'est fait ! Vous êtes sur la bonne voie pour devenir un champion du rythme d'osu!
+{#citation-tutoriel}
+```
 
 ## Listes
 
