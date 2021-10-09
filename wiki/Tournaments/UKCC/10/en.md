@@ -219,7 +219,7 @@ Saturday, 2 October 2021:
 | **spook** ![][flag_GB] | **5** | 2 | ![][flag_GB] RndGuy | [#1](https://osu.ppy.sh/community/matches/91804343) |
 | **p4905** ![][flag_GB] | **5** | 4 | ![][flag_GB] idealnettles | [#1](https://osu.ppy.sh/community/matches/91806834) |
 | swankitydankity ![][flag_IE] | 2 | **5** | ![][flag_GB] **aeniko** | [#1](https://osu.ppy.sh/community/matches/91807575) |
-| **Plasma** ![][flag_GB] | **4** | 0 | ![][flag_GB] Kathalshame | [#1](https://osu.ppy.sh/community/matches/91806656) |
+| **Plasma** ![][flag_GB] | **4** | 0 | ![][flag_GB] Kathalshame | [#1](https://osu.ppy.sh/community/matches/91806656) ¹ |
 | weezer ![][flag_GB] | 1 | **5** | ![][flag_GB] **Aistre** | [#1](https://osu.ppy.sh/community/matches/91810328) |
 | **Ophiz** ![][flag_IE] | **5** | 0 | ![][flag_GB] Akiba | [#1](https://osu.ppy.sh/community/matches/91816900) |
 | **pedeko** ![][flag_HK] | **0** | -1 | ![][flag_GB] Kwichi- | *forfeit* |
@@ -227,6 +227,8 @@ Saturday, 2 October 2021:
 | HonourBound ![][flag_GB] | 1 | **5** | ![][flag_GB] **Gazzzaa** | [#1](https://osu.ppy.sh/community/matches/91824821) |
 | **Defex** ![][flag_GB] | **0** | -1 | ![][flag_GB] Rinnu | *forfeit* |
 | **FuzzyL** ![][flag_GB] | **5** | 3 | ![][flag_GB] Striiker | [#1](https://osu.ppy.sh/community/matches/91831519) |
+
+¹ Kathalshame left before the last map, Kathalshame eliminated.
 
 Sunday, 3 October 2021:
 
@@ -248,7 +250,9 @@ Sunday, 3 October 2021:
 | **Checha** ![][flag_BR] | **5** | 1 | ![][flag_GB] Defex | [#1](https://osu.ppy.sh/community/matches/91871404) |
 | **Aistre** ![][flag_GB] | **5** | 3 | ![][flag_GB] Cornfield | [#1](https://osu.ppy.sh/community/matches/91874338) |
 | Zyphox ![][flag_GB] | 4 | **5** | ![][flag_GB] **Reshamen** | [#1](https://osu.ppy.sh/community/matches/91922449) |
-| FuzzyL ![][flag_GB] | 0 | **2** | ![][flag_GB] **spook** | [#1](https://osu.ppy.sh/community/matches/91881112) |
+| FuzzyL ![][flag_GB] | 0 | **2** | ![][flag_GB] **spook** | [#1](https://osu.ppy.sh/community/matches/91881112) ¹ |
+
+¹ FuzzyL left mid-match, FuzzyL eliminated.
 
 ### Round of 32
 
