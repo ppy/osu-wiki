@@ -30,7 +30,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1589495) hosted by 
 
 ### METAROOM - SPIKEY BOI
 
-Or try out [the osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1424830)  that introduced **METAROOM** to the game!
+Or try out [the osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1424830) that introduced **METAROOM** to the game!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
