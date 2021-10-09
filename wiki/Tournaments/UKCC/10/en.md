@@ -228,7 +228,7 @@ Saturday, 2 October 2021:
 | **Defex** ![][flag_GB] | **0** | -1 | ![][flag_GB] Rinnu | *forfeit* |
 | **FuzzyL** ![][flag_GB] | **5** | 3 | ![][flag_GB] Striiker | [#1](https://osu.ppy.sh/community/matches/91831519) |
 
-¹ Kathalshame left before the last map, Kathalshame eliminated.
+¹ Kathalshame left before the last map.
 
 Sunday, 3 October 2021:
 
@@ -252,7 +252,7 @@ Sunday, 3 October 2021:
 | Zyphox ![][flag_GB] | 4 | **5** | ![][flag_GB] **Reshamen** | [#1](https://osu.ppy.sh/community/matches/91922449) |
 | FuzzyL ![][flag_GB] | 0 | **2** | ![][flag_GB] **spook** | [#1](https://osu.ppy.sh/community/matches/91881112) ¹ |
 
-¹ FuzzyL left mid-match, FuzzyL eliminated.
+¹ FuzzyL left mid-match.
 
 ### Round of 32
 
