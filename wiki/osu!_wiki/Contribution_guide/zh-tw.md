@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
+---
+
 # osu! wiki 貢獻指南
 
 感謝你有興趣讓 osu!wiki 變得更好！這篇快速指南是為那些沒有用過 Github 或貢獻過 osu!wiki 的人而寫的。如果你已經有使用 Github 的經驗，可以跳過這篇指南並遵循常見的特性分支工作流程來為 osu!wiki 添加新內容。
@@ -43,7 +48,7 @@
 
 3. 這不算什麼大問題，只要你不要編輯到已經修改的檔案，但你落後的 commits 越多，情況就越不可能發生。
 
-4. 為了解決這個問題，請參見常見問題中的[我的分支過期了！](/wiki/osu!_wiki/Contribution_guide/Common_Issues#my-branch-is-out-of-date!)。
+4. 為了解決這個問題，請參見常見問題中的[我的分支過期了！](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork)。
 
 5. 完成第4步後，繼續閱讀[在本機或線上編輯](#editing-online-or-locally)。
 

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 4f8d54a3fc70074630230b88709f573a969c9320
+---
+
 # Calendrier de mapping et de modding
 
 Les systèmes de mapping et de modding sont en constante amélioration. Le **calendrier de mapping et de modding** vise à documenter les plus grands changements apportés au système et à servir d'outil de référence lorsque les utilisateurs intègrent de nouvelles modifications.
@@ -485,7 +490,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 [flag_CN]: /wiki/shared/flag/CN.gif "Chine"
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"

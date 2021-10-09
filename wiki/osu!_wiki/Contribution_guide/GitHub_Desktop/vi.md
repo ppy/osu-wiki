@@ -32,7 +32,7 @@ no_native_review: true
 Tuy việc phân nhánh không bắt buộc, nhưng nó [được khuyến nghị với khá nhiều lý do](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Ví dụ:
 
 - Phân nhánh cô lập các thay đổi logic khác nhau: bạn có thể làm việc với nhiều bài viết cũng như được đánh giá và merge một cách riêng biệt.
-- Nếu các thay đổi nằm ngoài nhánh `master`, bạn có thể [đồng bộ chúng an toàn](/wiki/osu!_wiki/Contribution_guide/Common_Issues#branch-của-tôi-đã-lỗi-thời!) mà không gặp xung đột khi merge.
+- Nếu các thay đổi nằm ngoài nhánh `master`, bạn có thể [đồng bộ chúng an toàn](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork) mà không gặp xung đột khi merge.
 
 1. Nhấn vào trình đơn thả xuống `Current branch` ở menu trên cùng.
 

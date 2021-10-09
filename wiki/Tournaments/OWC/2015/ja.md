@@ -388,7 +388,7 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
 [flag_AU]: /wiki/shared/flag/AU.gif "オーストラリア"
 [flag_BR]: /wiki/shared/flag/BR.gif "ブラジル"
 [flag_CA]: /wiki/shared/flag/CA.gif "カナダ"
-[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_CN]: /wiki/shared/flag/CN.gif "中華人民共和国"
 [flag_DE]: /wiki/shared/flag/DE.gif "ドイツ"
 [flag_ES]: /wiki/shared/flag/ES.gif "スペイン"
 [flag_FI]: /wiki/shared/flag/FI.gif "フィンランド"

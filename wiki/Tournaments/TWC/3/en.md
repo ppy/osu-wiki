@@ -386,7 +386,7 @@ This competition has come to an end and resulted in the following podium:
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy "
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MO]: /wiki/shared/flag/MO.gif "Macau"

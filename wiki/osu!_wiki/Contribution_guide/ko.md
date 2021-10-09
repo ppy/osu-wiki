@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
+---
+
 # osu! wiki 기여 가이드
 
 osu! wiki 개선에 관심을 가져주셔서 감사합니다! 이 빠른 시작 가이드는 GitHub 및 osu! wiki workflow를 사용해 본 적이 없는 신규 사용자를 위해 제작되었습니다. GitHub를 사용해 본 경험이 있는 경우, 이 가이드를 건너뛰고, feature-branch workflow 방식으로 이 레포지토리에 컨텐츠를 업데이트 해주시면 감사하겠습니다.
@@ -44,7 +49,7 @@ osu! wiki 개선에 관심을 가져주셔서 감사합니다! 이 빠른 시작
 
 3. 이것은 그다지 문제를 일으키지는 않을 것입니다; 엄청나게 오래된 버전이 아니고서야, 이미 수정된 파일을 수정할 가능성이 낮기 때문입니다.
 
-4. 이 문제를 해결하기 위해서, [흔히 발생하는 문제: 제 branch가 오래됐습니다!](/wiki/osu!_wiki/Contribution_guide/Common_Issues#제-branch가-오래됐습니다!)를 참고해 주세요.
+4. 이 문제를 해결하기 위해서, [흔히 발생하는 문제: 제 branch가 오래됐습니다!](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork)를 참고해 주세요.
 
 5. Step 4를 완료 했다면, [온라인 또는 로컬에서 편집](#온라인-또는-로컬에서-편집)으로 이어서 진행해 주세요.
 
