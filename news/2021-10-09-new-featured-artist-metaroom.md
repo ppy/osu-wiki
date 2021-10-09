@@ -52,9 +52,9 @@ If you're brave enough, try [this beatmap](LINK) created by you! (Warning: some 
 
 ---
 
-Congratulations!!! You're the 1,000,000th person to read one of osu!'s Featured Artist announcements! Head on over to [**METAROOM**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/206) to claim your prize: 15 pre-timed beatmap templates of awesome music!!!
+Congratulations! You're the 1,000,000th person to read one of osu!'s Featured Artist announcements! Head on over to [**METAROOM**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/206) to claim your prize: 15 pre-timed beatmap templates of awesome music!
 
-Anyways, THAT'S ALL FOR CAPS LOCK WEEK. We'll calm things down with a caps-less artist next Wednesday, so keep track of the [@osugame Twitter](https://twitter.com/osugame) for all our relevant and not-so-relevant updates.
+Imagine a genre of music that's the polar opposite of **METAROOM**'s sound. That'll be our next Featured Artist, so keep track of the [@osugame Twitter](https://twitter.com/osugame) for all our relevant and not-so-relevant updates.
 
 See you then!
 
