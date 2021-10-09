@@ -114,19 +114,19 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 ### Qualifiers
 
 - NoMod
-  1. [LiSA - Confidence Driver \[Assurance\] (Skyflame)](https://osu.ppy.sh/beatmapsets/1597778#osu/3263082)
-  2. [IRON ATTACK! - INEXPERIENCE \[EXTRA STAGE\] (DeviousPanda)](https://osu.ppy.sh/beatmapsets/1597785#osu/3263098)
-  3. [Mio Yamazaki - Byoushin Zenkai Girl \[Collab Extra\] (Deca/mnyui)](https://osu.ppy.sh/beatmapsets/1597860#osu/3263248)
-  4. [Camellia - Heartless being \[Expert\] (Mir)](https://osu.ppy.sh/beatmapsets/1597801#osu/3263131)
+  - [LiSA - Confidence Driver (Skyflame) \[Assurance\]](https://osu.ppy.sh/beatmapsets/1597778#osu/3263082)
+  - [IRON ATTACK! - INEXPERIENCE (DeviousPanda) \[EXTRA STAGE\]](https://osu.ppy.sh/beatmapsets/1597785#osu/3263098)
+  - [Mio Yamazaki - Byoushin Zenkai Girl (Deca) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1597860#osu/3263248)
+  - [Camellia - Heartless being (Mir) \[Expert\]](https://osu.ppy.sh/beatmapsets/1597801#osu/3263131)
 - Hidden
-  1. [BUTAOTOME - Sharekoube \[Extreme\] (Moph)](https://osu.ppy.sh/beatmapsets/1597784#osu/3263097)
-  2. [ZUN - Primodrial Beat ~ Pristine Beat \[Extra Stage\] (Halfslashed)](https://osu.ppy.sh/beatmapsets/1597824#osu/3263174)
-- Hard Rock
-  1. [Nakamura Meiko - Dispel \[play persona 4 golden\] (Yogurtt)](https://osu.ppy.sh/beatmapsets/1597607#osu/3262706)
-  2. [Lime - Ophelia \[Hamlet\] (Kloyd)](https://osu.ppy.sh/beatmapsets/1597825#osu/3263175)
-- Double Time
-  1. [Ito Kanako - Koko ni Iru kara \[Insane\] (ImpurePug)](https://osu.ppy.sh/beatmapsets/1597789#osu/3263112)
-  2. [-45 - NyanNyatothep \[Gothic Horror\] (Dada)](https://osu.ppy.sh/beatmapsets/1597755#osu/3263028)
+  - [BUTAOTOME - Sharekoube (Moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1597784#osu/3263097)
+  - [ZUN - Primodrial Beat \~ Pristine Beat (Halfslashed) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1597824#osu/3263174)
+- HardRock
+  - [Nakamura Meiko - Dispel (Yogurtt) \[Cataclysm\]](https://osu.ppy.sh/beatmapsets/1597607#osu/3262706)
+  - [Lime - Ophelia (Kloyd) \[Hamlet\]](https://osu.ppy.sh/beatmapsets/1597825#osu/3263175)
+- DoubleTime
+  - [Ito Kanako - Koko ni Iru kara (ImpurePug) \[Insane\]](https://osu.ppy.sh/beatmapsets/1597789#osu/3263112)
+  - [-45 - NyanNyatothep (Dada) \[Gothic Horror\]](https://osu.ppy.sh/beatmapsets/1597755#osu/3263028)
 
 ## Ruleset
 
