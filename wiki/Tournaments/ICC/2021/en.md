@@ -73,7 +73,7 @@ Listed below are the players who were admitted into the Group stage along with t
 
 ### Finals
 
-**[Download the mappack here! (xxx MB)](xxx)**
+**[Download the mappack here! (144 MB)](https://drive.google.com/u/0/uc?id=1pC_tzYe-pfkRSE-71XAosA8vSCLI4Nx2&export=download)**
 
 - NoMod
   - [KOTOKO - Art as Heart (Nana Abe) \[Pastel Love Melody\]](https://osu.ppy.sh/beatmapsets/1267314#fruits/2633788)
