@@ -38,7 +38,7 @@ Or try out [the osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1424830) that 
 
 ### METAROOM - WORM RAVE
 
-If you're brave enough, try [this beatmap](LINK) created by you! (Warning: some editor assembly required.)
+If you're brave enough, try [this beatmap](https://assets.ppy.sh/artists/206/SWEET%20GENESIS/METAROOM%20-%20WORM%20RAVE.osz) created by you! (Warning: some editor assembly required.)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/206/SWEET%20GENESIS/METAROOM%20-%20WORM%20RAVE.mp3" type="audio/mpeg">
