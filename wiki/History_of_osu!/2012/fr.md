@@ -1,4 +1,4 @@
-# L'histoire d'osu! 2012
+# L'histoire d'osu! en 2012
 
 ## Septembre
 
@@ -8,7 +8,7 @@ osu! et sa communauté ont célébré le 5e anniversaire d'osu ! le 17/09/2012. 
 
 Liens :
 
-- [Cinq ans d'osu! (fil du forum)](https://osu.ppy.sh/community/forums/topics/98349)
+- [Five Years of osu! (fil du forum)](https://osu.ppy.sh/community/forums/topics/98349)
 
 ## Octobre
 
@@ -59,7 +59,7 @@ Le 13/11/2012, le classement **osu!mania a été mis en place avec le classement
 
 Liens :
 
-- [reset des scores osu!mania (fil du forum)](https://osu.ppy.sh/community/forums/topics/105564)
+- [osu!mania score reset (fil du forum)](https://osu.ppy.sh/community/forums/topics/105564)
 
 ---
 
