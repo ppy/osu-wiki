@@ -99,8 +99,8 @@ Liens :
 
 ---
 
-Le 2012-12-25, c'était un joyeux Noël pour ceux qui le célèbrent. Une nouvelle version de [bancho](/wiki/Bancho_(server)) a été publiée qui "réduit la quantité de trafic envoyée lors de la connexion. Cela signifie que vous devriez bénéficier de temps de connexion 95% plus rapides". Comme il s'agit d'une occasion spéciale, osu!direct a été activé pour tout le monde pour la journée.
+Le 25/12/2012, c'était un joyeux Noël pour ceux qui le célèbrent. Une nouvelle version de [bancho](/wiki/Bancho_(server)) a été publiée qui "réduit la quantité de trafic envoyée lors de la connexion. Cela signifie que vous devriez bénéficier de temps de connexion 95% plus rapides". Comme il s'agit d'une occasion spéciale, osu!direct a été activé pour tout le monde pour la journée.
 
 Links:
 
-- [Merry Christmas (bancho changes + free osu!direct) (Forum thread)](https://osu.ppy.sh/community/forums/posts/2005499)
+- [Merry Christmas (bancho changes + free osu!direct) (fil du forum)](https://osu.ppy.sh/community/forums/posts/2005499)
