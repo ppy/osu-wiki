@@ -28,7 +28,7 @@
 While branching is technically optional, it is [highly recommended for a couple of reasons](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). To name a few:
 
 - Branches isolate different logical changes from each other: you can work on more than one article and have them reviewed and merged separately.
-- When your changes are outside of the `master` branch, you can [safely sync it](/wiki/osu!_wiki/Contribution_guide/Common_Issues#my-branch-is-out-of-date!) without merge conflicts.
+- When your changes are outside of the `master` branch, you can [safely sync it](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork) without merge conflicts.
 
 1. Click on the `Current branch` dropdown located at the top of the menu.
 

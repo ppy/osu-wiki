@@ -32,7 +32,7 @@ no_native_review: true
 Mientras que la ramificación es técnicamente opcional, es [altamente recomendable por un par de razones](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Para nombrar unas cuantas:
 
 - Las ramificaciones aislan diferentes cambios lógicos unos de otros: puedes trabajar en más de un artículo y tenerlos revisados y unidos de manera separada.
-- Cuando tus cambios están fuera de tu ramificación `master`, puedes [sincronizarlo de manera segura](/wiki/osu!_wiki/Contribution_guide/Common_Issues#¡mi-ramificación-está-desactualizada!) sin conflictos de unión.
+- Cuando tus cambios están fuera de tu ramificación `master`, puedes [sincronizarlo de manera segura](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork) sin conflictos de unión.
 
 1. Haz click en la opción desplegable `Current branch` localizado en la parte de arriba del menú.
 

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: a4e45cf0738ff0ce2327cba8b9efe89d53e1ef9f
+---
+
 # Perintah Pengelolaan Klien Turnamen
 
 Berikut ini adalah perintah yang disediakan untuk mengatur ruangan turnamen multiplayer:
