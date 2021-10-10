@@ -447,7 +447,7 @@ Saturday, 11 September 2021:
 | Singapore ![][flag_SG] | 5 | **6** | ![][flag_PE] **Peru** | [#1](https://osu.ppy.sh/community/matches/90713398) |
 | China ![][flag_CN] | 5 | **6** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/90730667) |
 | **France** ![][flag_FR] | **6** | 5 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/90735710) |
-| **Russian Federation B** ![][flag_RU] | **0** | -1 | ![][flag_AU] Austria | **Spain** |
+| **Russian Federation B** ![][flag_RU] | **0** | -1 | ![][flag_AU] Austria | *forfeit* |
 | **Russian Federation** ![][flag_RU] | **6** | 3 | ![][flag_CA] Canada B | [#1](https://osu.ppy.sh/community/matches/90750093) |
 | **Canada** ![][flag_CA] | **6** | 5 | ![][flag_PL] Poland B | [#1](https://osu.ppy.sh/community/matches/90754244) |
 
