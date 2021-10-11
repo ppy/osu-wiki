@@ -34,7 +34,7 @@ The **Old Map Fantasy World Cup** (***OMFWC***) was a country-based 4v4 double-e
 
 ## Organisation
 
-The Old Map Fantasy World Cup is run by various community members.
+The Old Map Fantasy World Cup was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
