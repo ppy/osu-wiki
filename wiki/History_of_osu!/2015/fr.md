@@ -116,14 +116,14 @@ Quelques jours plus tard (19 novembre 2015), peppy a mis à jour les utilisateur
 > - Tous les utilisateurs qui ont été ciblés jusqu'à présent ont utilisé le même mot de passe pendant plus de trois ans.
 > - Beaucoup ont utilisé un mot de passe très simple ou ont partagé le mot de passe avec d'autres services.
 > - Tous les utilisateurs compromis ont eu au moins un autre compte compromis dans le passé.
-> 
+>
 > Néanmoins, je continue à prendre des mesures :
-> 
+>
 > - J'ai élargi la liste des mots de passe courants et je réinitialise de force les mots de passe des utilisateurs qui les possèdent.
 > - Nous sommes en alerte et prêts à aider les utilisateurs qui rencontrent des difficultés.
 > - Nous avons mis en place des procédures pour les utilisateurs dont l'adresse e-mail n'est pas valide afin qu'ils puissent récupérer leur compte avec succès.
 > - Nous travaillons à l'ajout d'un support à deux facteurs (email pour l'instant) au client d'osu!. Cela devrait apparaître très bientôt.
-> 
+>
 > Nous avons beaucoup de comptes à réinitialiser de force en raison de la faiblesse des mots de passe et, en raison d'un personnel d'assistance limité, nous échelonnerons le "déploiement" de ces réinitialisations au cours des prochaines semaines.
 
 — peppy, "20151119" [[40]][r]
