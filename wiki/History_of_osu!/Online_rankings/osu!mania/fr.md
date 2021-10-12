@@ -17,4 +17,4 @@ tags:
 
 # L'histoire des classements du mode osu!mania
 
-TVoici la liste des joueurs reconnus comme ayant atteint le rang 1 dans le [classement mondial](https://osu.ppy.sh/rankings/mania/performance) de [osu!mania](/wiki/Game_mode/osu!mania).
+Voici la liste des joueurs reconnus comme ayant atteint le rang 1 dans le [classement mondial](https://osu.ppy.sh/rankings/mania/performance) de [osu!mania](/wiki/Game_mode/osu!mania).
