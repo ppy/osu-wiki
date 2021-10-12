@@ -163,7 +163,6 @@ Cependant, même si les développeurs officiels d'osu! n'ont pas eu l'intention 
 
 Le 1er avril 2016, de nombreux joueurs d'osu! ont eu la surprise de découvrir qu'ils avaient soudainement et inexplicablement reçu un tag [osu!supporter](https://osu.ppy.sh/home/support) alors qu'ils n'en avaient jamais acheté ni reçu en cadeau. Le tag de supporter qui a été donné aux joueurs était entièrement fonctionnel et agissait comme un tag de supporter ordinaire ; cependant, le changement a été annulé le jour suivant [[51,52,53,54,55,56,57]][r].
 
-
 ### Spinning osu! cookie on website
 
 Dans le cadre de la poignée de blagues du poisson d'avril 2016, le [osu! cookie](/wiki/Brand_identity_guidelines) du site web d' osu! tournait occasionnellement de 180 degrés dans le sens des aiguilles d'une montre, puis repartait rapidement à la verticale de 180 degrés dans la même direction [[58,59,60,61]][r].

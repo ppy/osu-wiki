@@ -16,7 +16,7 @@ tags:
 
 # L'histoire des classements
 
-Les premières versions d'osu! constituaient une expérience isolée, sans classement en ligne, jusqu'au [6 octobre 2007] (https://osu.ppy.sh/community/forums/topics/15?n=29), date à laquelle la prise en charge des classements publics en ligne a été ajoutée pour [osu!](/wiki/Game_mode/osu!). Depuis lors, tous les [modes de jeu](/wiki/Game_mode) ont reçu leur propre [classement en ligne](https://osu.ppy.sh/rankings/osu/performance).
+Les premières versions d'osu! constituaient une expérience isolée, sans classement en ligne, jusqu'au [6 octobre 2007](https://osu.ppy.sh/community/forums/topics/15?n=29), date à laquelle la prise en charge des classements publics en ligne a été ajoutée pour [osu!](/wiki/Game_mode/osu!). Depuis lors, tous les [modes de jeu](/wiki/Game_mode) ont reçu leur propre [classement en ligne](https://osu.ppy.sh/rankings/osu/performance).
 
 De nombreux joueurs ont occupé la première place dans chaque mode de jeu selon différents systèmes de classement. Le système actuel utilisé par tous les modes de jeu pour les classements en ligne est [ppv2](/wiki/Performance_points/ppv2).
 
