@@ -55,7 +55,7 @@
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Изключително модераторско присъствие и ангажираност (30k+ kills) |
 | ![][flag_DE] [MoonShade](https://osu.ppy.sh/users/273649) | Разработва революционно удобство за Анимирана История (SGL) |
 | ![][flag_PL] [iys](https://osu.ppy.sh/users/322480) | Mikuia.tv - osu! Twitch бот инструмент |
-| ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) |Бот препоръчващ бийтмапове |
+| ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) | Разработи Бот препоръчващ бийтмапове |
 
 ### Март
 
