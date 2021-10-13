@@ -27,7 +27,7 @@ We'd usually post every ranked map featuring a new artist below, but considering
 Try out [this osu! beatmap](https://osu.ppy.sh/beatmapsets/1436423) hosted by [Shirahane Suou](https://osu.ppy.sh/users/10820856)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/207/heart%20to%20heart/solfa%20feat.%20yanaginagi%20-%20Mizu%20no%20Naka%20no%20Kumo.mp3" type="audio/mpeg">
 </audio>
 
 ### solfa feat. Chata - Miracle infinity
@@ -39,7 +39,7 @@ Check out any of these maps:
 - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/894271) hosted by [Volta](https://osu.ppy.sh/users/4154071)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/207/chronicle%20%7Edog%20side%7E/solfa%20feat.%20Chata%20-%20Miracle%20infinity.mp3" type="audio/mpeg">
 </audio>
 
 ### solfa feat. Ceui - brand new day
@@ -47,7 +47,7 @@ Check out any of these maps:
 Experience [this osu! + osu!taiko hybrid mapset](https://osu.ppy.sh/beatmapsets/110305) hosted by [Little](https://osu.ppy.sh/users/2099102)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/207/chronicle%20%7Edog%20side%7E/solfa%20feat.%20Ceui%20-%20brand%20new%20day.mp3" type="audio/mpeg">
 </audio>
 
 ### solfa feat. Shimotsuki Haruka - leap in your mind
@@ -59,7 +59,7 @@ If you're looking for something higher on the difficulty spectrum, any of these 
 - [12 difficulties](https://osu.ppy.sh/beatmapsets/911281) hosted by [Dored](https://osu.ppy.sh/users/10284894)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/207/Songs/solfa%20feat.%20Shimotsuki%20Haruka%20-%20leap%20in%20your%20mind.mp3" type="audio/mpeg">
 </audio>
 
 ### solfa feat. Aoba Ringo - Itsuwari no Hana
@@ -67,7 +67,7 @@ If you're looking for something higher on the difficulty spectrum, any of these 
 Try [this marathon map](https://osu.ppy.sh/beatmapsets/905554) hosted by [Lasse](https://osu.ppy.sh/users/896613)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/207/chronicle%20-the%20moon-/solfa%20feat.%20Aoba%20Ringo%20-%20Itsuwari%20no%20Hana.mp3" type="audio/mpeg">
 </audio>
 
 ### solfa feat. nao - Kako to Mirai no Memory
@@ -75,7 +75,7 @@ Try [this marathon map](https://osu.ppy.sh/beatmapsets/905554) hosted by [Lasse]
 Take a break with this [simple mapset](https://osu.ppy.sh/beatmapsets/323787) hosted by [KaedekaShizuru](https://osu.ppy.sh/users/2248417)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/207/explorer/solfa%20feat.%20nao%20-%20Kako%20to%20Mirai%20no%20Memory.mp3" type="audio/mpeg">
 </audio>
 
 ---
