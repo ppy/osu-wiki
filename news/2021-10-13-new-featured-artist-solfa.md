@@ -18,7 +18,7 @@ We'd usually post every ranked map featuring a new artist below, but considering
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/207/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/207/release_showcase.mp4?2021" type="video/mp4" preload="none">
     </video>
 </div>
 
