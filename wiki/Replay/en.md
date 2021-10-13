@@ -151,6 +151,8 @@ It currently works in `Solo` only when given the game over screen.
 Viewing a failed play does not work with the [No Fail(NF)](/wiki/Game_modifier/No_Fail)/[Relax(RL)](/wiki/Game_modifier/Relax)/[Auto Pilot(AP)](/wiki/Game_modifier/Autopilot) game modifier because it is impossible to fail.
 Using the [Perfect(PF)](/wiki/Game_modifier/Perfect) game modifier would forcefully quick-retry instead of failing the player.
 
+If there was a retry streak, it will be lost once entering the Failed replay state.
+
 ### Multi
 
 ![](img/Replay_Multi.jpg "Left is the original Multi play and right is an exported Multi replay")
