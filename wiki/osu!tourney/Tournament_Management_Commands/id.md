@@ -34,7 +34,7 @@ Berikut ini adalah perintah yang disediakan untuk mengatur ruangan turnamen mult
 - `!mp kick <username>` - Mengeluarkan pemain dari ruangan.
 - `!mp password [<password>]` - Mengubah kata sandi ruangan. Kata sandi akan dihapus jika `<password>` tidak diberikan.
 - `!mp addref <username> [<username>] …` - Menambahkan wasit ke ruangan. Wasit yang dapat ditambahkan maksimal 8. Hanya pembuat ruangan yang dapat menambahkan wasit.
-  - Wasit harus bergabung ke ruangan dalam game, atau dengan memasuki saluran obrolan ruangan melalui `/join #mp_<room_id>` di IRC.
+  - Wasit wajib bergabung ke ruangan dalam game, atau dengan memasuki saluran obrolan ruangan melalui `/join #mp_<room_id>` di IRC.
   - Wasit dapat mengelola ruangan seperti pembuat ruangan, namun mereka tidak dapat menambahkan atau menghapus wasit lain itu sendiri.
   - [Klien osu!tourney](/wiki/osu!tourney) akan menunjukkan ruang obrolan untuk wasit.
 - `!mp removeref <username> [<username>] …` - Menghapus hak wasit dari ruangan. Hanya pembuat ruangan yang dapat menghapus hak wasit.
