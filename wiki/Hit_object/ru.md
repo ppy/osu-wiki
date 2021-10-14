@@ -7,7 +7,7 @@ tags:
 
 *Игровые объекты* - это элементы [карты](/wiki/Beatmap), с которыми игрок может взаимодействовать, и которые влияют на результат игры. Каждый [игровой режим](/wiki/Game_mode) имеет свой собственный набор элементов, отличающий его от других режимов (термины без перевода не имеют аналога в русском языке):
 
-| osu! | osu!taiko | osu!catch | osu!mania |
+| [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
 | [Ноты](/wiki/Hit_object/Hit_circle) (hit circles) | Ноты (hit circles) | Фрукты (fruits) | Ноты (notes) |
 | [Слайдеры](/wiki/Hit_object/Slider) (sliders) | Драмроллы (drumrolls) | Цепочки фруктов (fruit trails) | Холд-ноты (hold notes) |
