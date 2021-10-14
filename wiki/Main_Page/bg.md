@@ -36,7 +36,7 @@ no_native_review: true
 
 Всичко от кликане върху кръгове, удряне на барабани, хващане на плодове до игра на синтезатор: ключови елементи, концепция, механики и конкурентна игра.
 
-[Режими на игра](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
+[Видове игра](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
 [Бийтмап](/wiki/Beatmap) • [Трудност](/wiki/Beatmap/Difficulty) • [Уцели обект](/wiki/Hit_object) • [Модове](/wiki/Game_modifier) • [Резултат](/wiki/Score) • [Повторение](/wiki/Replay) • [Медали](/wiki/Medals) • [Мултиплеър](/wiki/Multi)
 
@@ -71,11 +71,11 @@ no_native_review: true
 
 Прочети политиката и правилата, които пазят osu! и неговата общност от лицензирани песни, мултимедийно съдържание до правилата в чат и форум.
 
-[Правила](/wiki/Rules) • [Правила на Поведение за Сътрудници](/wiki/Contributor_Code_of_Conduct) • [Правила на Поведение при създаване и редактиране](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Правила](/wiki/Rules) • [Правила на Поведение за Сътрудници](/wiki/Contributor_Code_of_Conduct) • [Правила на Поведение при Създаване и Редактиране](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
-Медийни регламенти: [Указания за ползване на медия](/wiki/Rules/Content_Usage_Guidelines) • [Explicit content](/wiki/Rules/Explicit_Content) • [Правила за музикално съдържание](/wiki/Rules/Song_Content_Rules) • [Съображения за визуално съдържание](/wiki/Rules/Visual_Content_Considerations)
+Медийни регламенти: [Указания за Употреба на Медия](/wiki/Rules/Content_Usage_Guidelines) • [Explicit Съдържание](/wiki/Rules/Explicit_Content) • [Правила за музикално съдържание](/wiki/Rules/Song_Content_Rules) • [Съображения за визуално съдържание](/wiki/Rules/Visual_Content_Considerations)
 
-[Страници с Условия](/wiki/Legal): [Условия за Ползване](/wiki/Legal/Terms) • [Поверителност](/wiki/Legal/Privacy) • [Авторско право (DMCA)](/wiki/Legal/Copyright) • [Лицензирана музика](/wiki/Legal/Music_Licensing)
+[Страници с Условия](/wiki/Legal): [Условия за ползване](/wiki/Legal/Terms) • [Поверителност](/wiki/Legal/Privacy) • [Авторско право (DMCA)](/wiki/Legal/Copyright) • [Лицензирана музика](/wiki/Legal/Music_Licensing)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -84,11 +84,11 @@ no_native_review: true
 
 Отговори за чести въпроси и решения на общи проблеми се намират тук.
 
-[Помощен център](/wiki/Help_Centre) • [Производителност](/wiki/Performance_Troubleshooting) • [Акаунти(поддръжка)](/wiki/People/The_Team/Account_support_team) • [Помощен форум](https://osu.ppy.sh/forum/5)
+[Помощен Център](/wiki/Help_Centre) • [Производителност](/wiki/Performance_Troubleshooting) • [Поддръжка на Профили](/wiki/People/The_Team/Account_support_team) • [Помощен Форум](https://osu.ppy.sh/forum/5)
 
 Профилни ограничения: [Заглушен](/wiki/Silence) • [Профилни ограничения](/wiki/Help_Centre/Account_Restrictions)
 
-Вашата част: [Как и с какво да помогна](/wiki/How_you_can_help!) • [Докладвай лошо поведение](/wiki/Reporting_Bad_Behaviour) • [Докладвай нередност](/wiki/Reporting_Bad_Behaviour/Abuse) • [Докладвай измама(игра с хак)](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play)
+Вашата част: [Как и с какво да помогна](/wiki/How_you_can_help!) • [Докладвай лошо поведение](/wiki/Reporting_Bad_Behaviour) • [Докладвай нередност](/wiki/Reporting_Bad_Behaviour/Abuse) • [Докладвай измама (игра с хак)](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -106,9 +106,9 @@ no_native_review: true
 
 # Хора
 
-osu! нямаше да съществува без всички потребители, помагащи с разработка, поддръжка и управление на общност: техните усилия, време и решения поддържащи играта жива и просперираща. 
+osu! нямаше да съществува без всички потребители, помагащи с разработка, поддръжка и управление на общност: техните усилия, време и решения поддържащи играта жива и просперираща.
 
-[Екип](/wiki/People/The_Team): [Разработчици](/wiki/People/The_Team/Developers) • [Глобален Модераторси Екип](/wiki/People/The_Team/Global_Moderation_Team) • [Екип Поддръжка](/wiki/People/The_Team/Support_Team) • [Екип оценяващ номинации](/wiki/People/The_Team/Nomination_Assessment_Team) • [Бийтмап Номинатори](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Възпитаници](/wiki/People/The_Team/osu!_Alumni) • [Екип Проект Обичани](/wiki/People/The_Team/Project_Loved_Team)
+[Екип](/wiki/People/The_Team): [Разработчици](/wiki/People/The_Team/Developers) • [Глобален Модераторси Екип](/wiki/People/The_Team/Global_Moderation_Team) • [Екип Поддръжка](/wiki/People/The_Team/Support_Team) • [Екип Оценяващ Номинатори](/wiki/People/The_Team/Nomination_Assessment_Team) • [Бийтмап Номинатори](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Възпитаници](/wiki/People/The_Team/osu!_Alumni) • [Екип Проект Обичани](/wiki/People/The_Team/Project_Loved_Team)
 
 Организатори: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
@@ -121,7 +121,7 @@ osu! нямаше да съществува без всички потребит
 
 Взаимодействай с osu! чрез други приложения и медии или помогни за бъдещия растеж.
 
-[API](/wiki/osu!api) • [Бот акаунт](/wiki/Bot_account) • [Указания за Идентичност](/wiki/Brand_identity_guidelines) • [osu!dev Дискорд сървър](/wiki/osu!dev_Discord_server)
+[API](/wiki/osu!api) • [Бот Профил](/wiki/Bot_account) • [Указания за Идентичност](/wiki/Brand_identity_guidelines) • [osu!dev Дискорд сървър](/wiki/osu!dev_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -132,7 +132,7 @@ osu! нямаше да съществува без всички потребит
 
 [История на osu!](/wiki/History_of_osu!) • [История на osu! Уики](/wiki/History_of_osu!/osu!_wiki) • [Бийтмап създаване/редактиране - история](/wiki/Mapping_and_Modding_Timeline) • [Априлски Шеги](/wiki/History_of_osu!/April_Fools)
 
-[Карта на сайта](/wiki/Sitemap) • [Указания за принос](/wiki/osu!_wiki/Contribution_guide) • [Критерии за оформяне на Страница](/wiki/Article_Styling_Criteria) • [Критерии за оформяне на Новини](/wiki/News_Styling_Criteria)
+[Карта на сайт](/wiki/Sitemap) • [Указания за принос](/wiki/osu!_wiki/Contribution_guide) • [Критерии за оформяне на Страница](/wiki/Article_Styling_Criteria) • [Критерии за оформяне на Новини](/wiki/News_Styling_Criteria)
 
 </div>
 </div>
