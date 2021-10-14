@@ -141,7 +141,7 @@ To access this screen, fail the map by draining the healthbar completely, or fai
 In the game over screen, press the `F1` key to replay the currently failed play.
 The replay ends when the screen darkens, with the osu!logo in the middle, rather than the game over screen.
 
-If you want to save your failed play as a replay just press `F2` in the game over screen to do so.
+To save your failed play as a replay, press `F2` in the game over screen.
 
 Due to the non-standard replay screen, use the `Esc` key to return to Song Selection.
 Trying to restart the beatmap to directly play the beatmap again in this state is not possible.
