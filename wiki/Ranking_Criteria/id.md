@@ -109,7 +109,7 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 
 #### Romanisasi
 
-- **Nama seorang artis harus diromanisasi sesuai dari urutan yang tertulis di kolom unicode, kecuali jika terdapat nama alternatif untuk diromanisasi yang disediakan oleh artis.**
+- **Ketika meromanisasi nama dari seorang artis itu sendiri dan tidak ada romanisasi resmi yang tersedia, wajib diromanisasi sesuai dengan urutan yang tertera seperti pada bidang unicode.**
 - **Kata serap dari bahasa lain harus menggunakan kata-kata aslinya ketika sedang diromanisasi.**
 - **Ketika sebuah lagu menggunakan kata-kata berulang dalam judul atau artis yang satu dalam unicode, dan yang lainnya sebagai romanisasi dasar, kolom romanisasi harus menggunakan romanisasi yang disediakan dan menghapus duplikatnya.**
 - **Umlaut harus diromanisasi menjadi dua huruf yang sama: `ü` menjadi `ue`, `ö` menjadi `oe`, `ä` menjadi `ae` dan `ß` menjadi `ss`.**
@@ -146,11 +146,10 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 
 ### Diperbolehkan
 
-Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang biasanya tidak jelas bahkan setelah membaca seluruh bagian ranking criteria ini.
+Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang biasanya tidak jelas bahkan setelah membaca seluruh bagian ranking criteria ini. Jika terdapat beberapa opsi yang tersedia untuk metadata lagu, aturan standarisasi di atas akan diprioritaskan dari bagian Ranked dan Loved.
 
 - **Untuk lagu di mana komposer dan penyanyi adalah orang yang berbeda, penyanyi dapat dicantumkan setelah nama komposer atau circle/grup dengan indikator `feat.`.**
-- **Jika seorang artis telah memberikan terjemahan resmi untuk namanya, itu dapat digunakan dalam kolom romanisasi artis.** Romanisasi resmi dapat digunakan untuk ejaan nama artis, tetapi urutan nama harus mengikuti aturan yang ada.
-- **Jika judul lagu Unicode memiliki terjemahan atau romanisasi resmi yang disediakan oleh artis, salah satunya dapat digunakan di kolom judul yang diromanisasi.**
+- **Jika unicode pada sebuah judul lagu maupun artis memiliki terjemahan atau romanisasi resmi yang disediakan oleh artis, itu dapat digunakan pada bidang romanisasi masing-masing. Jika kedua terjemahan dan romanisasi tersedia, keduanya dapat digunakan.**
 - **Jika lagu mapset dikontribusikan oleh beberapa artis, mereka dapat dicantumkan dengan tanda koma di antaranya.** Jika ada 3 atau lebih artis yang berkontribusi dan mereka bukan bagian dari grup berlabel resmi, `Various Artists` atau nama deskriptif lainnya dapat digunakan sebagai gantinya.
 - **Untuk Remix/Cover, artis asli boleh digunakan di kolom artis, selama kolom judul diubah untuk menunjukkan dengan jelas bahwa lagu tersebut di-remix.** Penanda ini harus berada dalam tanda kurung dan berisi Remix/Artis cover diikuti dengan deskriptor.
 
