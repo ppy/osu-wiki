@@ -5,7 +5,7 @@ outdated_since: ea5cceced4dbd81d528eb86ae2777947acc739b9
 
 # Project Loved
 
-**Project Loved** est la plateforme de vote qui fait la promotion des beatmaps catégorisé Il est géré principalement par l'[équipe Project Loved](/wiki/People/Project_Loved_Team).
+**Project Loved** est la plateforme de vote qui fait la promotion des beatmaps catégorisé Il est géré principalement par l'[équipe Project Loved](/wiki/People/The_Team/Project_Loved_Team).
 
 ## Déplacer une beatmap en Loved
 
@@ -18,7 +18,7 @@ Les membres de l'équipe  Project Loved, appelés **capitaines**, nomment régul
 - [liste osu!/osu!taiko/osu!catch](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit)
 - [liste osu!mania](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit)
 
-Remarque: si votre accès à Google Forms est limité, vous pouvez également contacter l’un des [membres de l'équipe Project Loved](/wiki/People/Project_Loved_Team#team-members) pour avoir une map soumise en votre nom.*
+Remarque: si votre accès à Google Forms est limité, vous pouvez également contacter l’un des [membres de l'équipe Project Loved](/wiki/People/The_Team/Project_Loved_Team#team-members) pour avoir une map soumise en votre nom.*
 
 Les maps nominées sont ensuite postées sur le [forum Project Loved](https://osu.ppy.sh/community/forums/120), où les membres de la communauté peuvent voter s'ils veulent que le mapset soit loved ou non. Les cartes atteignant un pourcentage spécifié de votes «Oui» à la fin du vote seront déplacées dans la catégorie Loved.
 

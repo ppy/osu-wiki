@@ -146,7 +146,7 @@ Aqui estão algumas dicas avançadas no planeamento de intervalos usando atalhos
 
 Para jogabilidade intuitiva, seus beatmaps devem ter um bom "Beat Spacing"(Espaçamento de batidas)! Em geral, batidas que estão perto de umas das outras na timeline devem estar perto no beatmap, e vice-versa. Isto serve para assegurar um fluxo da sincronização harmônica da música com o beatmap, fazendo os mapas muito mais agradáveis.
 
-A maneira mais simples de assegurar que o espaçamento de batidas está correto nos seus beatmaps é utilizando a função ping da ferramenta do editor [Distance Snap](/wiki/Distance_Snap), que poderá ser encontrada no canto superior direito do editor. A distância relativa entre notas pode ser ajustada usando a roda do mouse. Se você se acostumar a usar o Distance Snap para toda a música, é garantido um espaçamento de batida correto!
+A maneira mais simples de assegurar que o espaçamento de batidas está correto nos seus beatmaps é utilizando a função ping da ferramenta do editor [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap), que poderá ser encontrada no canto superior direito do editor. A distância relativa entre notas pode ser ajustada usando a roda do mouse. Se você se acostumar a usar o Distance Snap para toda a música, é garantido um espaçamento de batida correto!
 
 ### Como eu adiciono mais níveis de dificuldades na música?
 

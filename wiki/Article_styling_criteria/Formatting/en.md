@@ -484,7 +484,7 @@ There are two types of links: inline and reference. Inline has two styles.
 The following is an example of both inline styles:
 
 ```markdown
-[Game Modifiers](/wiki/Game_Modifiers)
+[Game Modifiers](/wiki/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -521,7 +521,7 @@ Wiki links must not use redirects and must not have a trailing forward slash (`/
 Bad examples include the following:
 
 ```markdown
-[Article styling criteria](/wiki/ASC)
+[Article styling criteria](/wiki/Article_styling_criteria)
 [Developers](/wiki/Developers/)
 [Developers](/wiki/Developers/#game-client-developers)
 ```

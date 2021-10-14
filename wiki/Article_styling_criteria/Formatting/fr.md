@@ -486,7 +486,7 @@ Il existe deux types de liens : en ligne et de référence. Les liens en ligne o
 Voici un exemple des deux styles en ligne :
 
 ```markdown
-[Modificateurs de jeu](/wiki/Game_Modifiers)
+[Modificateurs de jeu](/wiki/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -525,7 +525,7 @@ Les liens wiki ne doivent pas utiliser de redirections et ne doivent pas comport
 Les mauvais exemples sont les suivants :
 
 ```markdown
-[Critères de style des articles](/wiki/ASC)
+[Critères de style des articles](/wiki/Article_styling_criteria)
 [Developers](/wiki/Developers/)
 [Developers](/wiki/Developers/#game-client-developers)
 ```

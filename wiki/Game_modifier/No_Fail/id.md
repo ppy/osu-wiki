@@ -26,7 +26,7 @@ tags:
 
 ## Deskripsi
 
-*Perhatian: Penggunaan mod No Fail akan mengurangi jumlah [Performance Point](/wiki/Performance_Points) yang dapat diraih sebesar 10%.*
+*Perhatian: Penggunaan mod No Fail akan mengurangi jumlah [Performance Point](/wiki/Performance_points) yang dapat diraih sebesar 10%.*
 
 Mod **No Fail** adalah sebuah [game modifier](/wiki/Game_modifier) yang mencegah pemain untuk gagal dalam suatu [beatmap](/wiki/Beatmap). Menggunakan mod No Fail akan menyebabkan pemain mustahil untuk gagal dalam sebuah [beatmap](/wiki/Beatmap), bahkan jika [life bar](/wiki/Glossary/Health_bar) sudah kosong. Tetapi, jika pemain tidak mendapatkan skor apapun pada beatmap tersebut, play tersebut yang *akan* gagal, sebagai gantinya.
 

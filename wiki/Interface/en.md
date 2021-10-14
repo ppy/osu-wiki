@@ -91,7 +91,7 @@ This area displays **information on the beatmap difficulty currently selected.**
 
 - **Length**: The total length of the beatmap, from start to finish and including breaks. Not to be confused with [drain time](/wiki/Gameplay/Drain_time).
 - **BPM**: The BPM of the beatmap. If (like in the lower picture) there are two BPMS and one in parentheses, this means that the BPM changes throughout the song. It shows the slowest and fastest BPMs, and the value in parentheses is the BPM at the start of the beatmap.
-- **Objects**: The total amount of [hit objects](/wiki/Hit_Objects) in the beatmap.
+- **Objects**: The total amount of [hit objects](/wiki/Hit_object) in the beatmap.
 - **Circles**: The total amount of hit circles in the beatmap.
 - **Sliders**: The total amount of sliders in the beatmap.
 - **Spinners**: The total amount of spinners in the beatmap.

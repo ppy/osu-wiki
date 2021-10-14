@@ -83,7 +83,7 @@ Vous trouverez ci-dessous une liste de toutes les commandes de BanchoBot :
 !stats <nom d'utilisateur>
 ```
 
-`!stats` affiche les statistiques de jeu de l'utilisateur saisi et son statut actuel. La sortie dépend du [mode de jeu](/wiki/Game_Modes) que l'utilisateur saisi a joué en dernier, bien que BanchoBot n'affichera pas le mode de jeu d'où proviennent les statistiques. Si on lui demande d'afficher les statistiques d'un utilisateur qui n'a jamais joué à osu!, BanchoBot répondra par `User not found`, même si l'utilisateur existe. Un exemple d'envoi de cette commande est montré ci-dessous :
+`!stats` affiche les statistiques de jeu de l'utilisateur saisi et son statut actuel. La sortie dépend du [mode de jeu](/wiki/Game_mode) que l'utilisateur saisi a joué en dernier, bien que BanchoBot n'affichera pas le mode de jeu d'où proviennent les statistiques. Si on lui demande d'afficher les statistiques d'un utilisateur qui n'a jamais joué à osu!, BanchoBot répondra par `User not found`, même si l'utilisateur existe. Un exemple d'envoi de cette commande est montré ci-dessous :
 
 ```
 13:01 pippi: !stats peppy

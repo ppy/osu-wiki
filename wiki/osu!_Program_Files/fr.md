@@ -37,7 +37,7 @@ Apparaît quand vous avez utilisé le service de téléchargement "osu!direct" a
 
 Apparaît quans vous exportez une beatmap ou un skin depuis osu! au moins une fois. **Le dossier contient les .osz et les .osk exportés depuis le jeu.**
 
-Le format des beatmaps est `{Artiste} - {Titre}` en format .osz, qui peut être ouvert avec osu! ou un programme d'archivage comme WinRAR. Le format des skins est `{Nom_du_skin}` en format .osk, et utilise le nom affiché dans osu!, réglable dans le [skin.ini](/wiki/Skinning/Skin.ini). **Exemples:** "Various Artists - osu! Stream Compilation.osz" ou osu! new skin template.osk".
+Le format des beatmaps est `{Artiste} - {Titre}` en format .osz, qui peut être ouvert avec osu! ou un programme d'archivage comme WinRAR. Le format des skins est `{Nom_du_skin}` en format .osk, et utilise le nom affiché dans osu!, réglable dans le [skin.ini](/wiki/Skinning/skin.ini). **Exemples:** "Various Artists - osu! Stream Compilation.osz" ou osu! new skin template.osk".
 
 ### Localisation
 

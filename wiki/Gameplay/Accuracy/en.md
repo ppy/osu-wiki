@@ -2,7 +2,7 @@
 
 <!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
 
-Accuracy is a percentile measurement of a player's ability to hit [hit objects](/wiki/Hit_object) on time. There are three types of accuracy that a player can have: the beatmap's accuracy, which is dependent on hit scores gained; the player's overall accuracy, which is weighed to allow better scores to stand out more; and the player's [Performance Points (pp)](/wiki/Performance_Points) accuracy, which is dependent on the submitted score's accuracy.
+Accuracy is a percentile measurement of a player's ability to hit [hit objects](/wiki/Hit_object) on time. There are three types of accuracy that a player can have: the beatmap's accuracy, which is dependent on hit scores gained; the player's overall accuracy, which is weighed to allow better scores to stand out more; and the player's [Performance Points (pp)](/wiki/Performance_points) accuracy, which is dependent on the submitted score's accuracy.
 
 ## Game modes
 
@@ -57,7 +57,7 @@ Due to the way the [DT](/wiki/Game_modifier/Double_time) (Double Time) and [HT](
 
 #### Error
 
-`Error` will always display two values that represent how far off the early hits were on average and how far off the late hits were on average. The higher the [Overall Difficulty](/wiki/Beatmapping/Overall_Difficulty) value of the beatmap is, the lower the error values will have to be to do well when playing the beatmap.
+`Error` will always display two values that represent how far off the early hits were on average and how far off the late hits were on average. The higher the [Overall Difficulty](/wiki/Beatmapping/Overall_difficulty) value of the beatmap is, the lower the error values will have to be to do well when playing the beatmap.
 
 #### Unstable rate
 

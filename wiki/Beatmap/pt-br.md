@@ -21,9 +21,9 @@ Um *beatmap* (às vezes chamado de *beatmapset*) é um conjunto de níveis de jo
 
 ## Dificuldade
 
-*Artigo principal: [Dificuldade](/wiki/beatmap/Difficulty)*
+*Artigo principal: [Dificuldade](/wiki/Beatmap/Difficulty)*
 
-Uma *dificuldade* é um arquivo com a [extensão `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) que descreve a localização de *hit objects*, *hitsounds*, e efeitos especiais como [kiai time](/wiki/Kiai_time). Ele também contém [configurações de dificuldade](/wiki/beatmap_editor/Song_Setup#difficulty) e outros parâmetros que afetam a *gameplay* diretamente. Dificuldades de um *beatmap* têm estruturas diferentes e às vezes pode ser jogado em apenas um [modo de jogo](/wiki/Game_mode). O sistema de [classificação de estrelas](/wiki/beatmapping/Star_rating) é usado para visualizar o nível de habilidade necessária para cada dificuldade.
+Uma *dificuldade* é um arquivo com a [extensão `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) que descreve a localização de *hit objects*, *hitsounds*, e efeitos especiais como [kiai time](/wiki/Kiai_time). Ele também contém [configurações de dificuldade](/wiki/beatmap_editor/Song_Setup#difficulty) e outros parâmetros que afetam a *gameplay* diretamente. Dificuldades de um *beatmap* têm estruturas diferentes e às vezes pode ser jogado em apenas um [modo de jogo](/wiki/Game_mode). O sistema de [classificação de estrelas](/wiki/Beatmapping/Star_rating) é usado para visualizar o nível de habilidade necessária para cada dificuldade.
 
 ## Envio
 

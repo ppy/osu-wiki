@@ -6,7 +6,7 @@ outdated: true
 
 В osu! есть множество горячих клавиш, которые можно использовать как в игре, так и в режиме ожидания на любом игровом экране. Все они перечислены в списке следующим далее.
 
-**Заметка:** некоторые из комбинаций можно поменять в [настройках](/wiki/options)! Используемые в данном списке сочетания клавиш установлены по умолчанию.
+**Заметка:** некоторые из комбинаций можно поменять в [настройках](/wiki/Options)! Используемые в данном списке сочетания клавиш установлены по умолчанию.
 
 ## Общие
 
@@ -62,7 +62,7 @@ outdated: true
 
 ## Выбор песен
 
-Заметка: Не все из них работают на экране выбора песен во время [мультиплеера](/wiki/multi).
+Заметка: Не все из них работают на экране выбора песен во время [мультиплеера](/wiki/Multi).
 
 - `Alt` + `Стрелка вверх`: Увеличить громкость
 - `Alt` + `Стрелка вниз`: Уменьшить громкость
@@ -72,12 +72,12 @@ outdated: true
 - `F3`: Настройки карты
 - `F5`: Переиндексировать карты (может показать диалог)
 - `Shift` + `Delete`: Удалить выбранную карту
-- `Ctrl` + `1`: Переключиться в [osu!](/wiki/osu!)
-- `Ctrl` + `2`: Переключиться в [osu!taiko](/wiki/osu!taiko)
-- `Ctrl` + `3`: Переключиться в [osu!catch](/wiki/osu!catch)
-- `Ctrl` + `4`: Переключиться в [osu!mania](/wiki/osu!mania)
-- `Ctrl` + `Enter`: Сыграть выбранную карту с модом [Auto](/wiki/Auto)
-- `Ctrl` + `Shift` + `Enter`: Сыграть выбранную карту с модом [Cinema](/wiki/Cinema)
+- `Ctrl` + `1`: Переключиться в [osu!](/wiki/Disambiguation/osu!)
+- `Ctrl` + `2`: Переключиться в [osu!taiko](/wiki/Game_mode/osu!taiko)
+- `Ctrl` + `3`: Переключиться в [osu!catch](/wiki/Game_mode/osu!catch)
+- `Ctrl` + `4`: Переключиться в [osu!mania](/wiki/Game_mode/osu!mania)
+- `Ctrl` + `Enter`: Сыграть выбранную карту с модом [Auto](/wiki/Game_modifier/Auto)
+- `Ctrl` + `Shift` + `Enter`: Сыграть выбранную карту с модом [Cinema](/wiki/Game_modifier/Cinema)
 - `Ctrl` + `A`: Включить/выключить мод Auto
 - `Ctrl` + `F3`: Увеличить скорость osu!mania (работает только в режиме osu!mania)
   - или: `Ctrl` + `+`
@@ -103,27 +103,27 @@ outdated: true
 
 - Справка снизу предполагает, что никакие моды не выбраны в данный момент.
 - Некоторые моды требуют двойного нажатия на кнопку.
-- `Q`: [Easy](/wiki/Easy_mod)
-- `W`: [No Fail](/wiki/No_Fail)
-- `E`: [Half Time](/wiki/Half_Time)
+- `Q`: [Easy](/wiki/Game_modifier/Easy)
+- `W`: [No Fail](/wiki/Game_modifier/No_Fail)
+- `E`: [Half Time](/wiki/Game_modifier/Half_Time)
 
 ---
 
-- `A`: [Hard Rock](/wiki/Hard_Rock)
-- `S`: [Sudden Death](/wiki/Sudden_Death)
-- `S`, затем `S`: [Perfect](/wiki/Perfect)
-- `D`: [Double Time](/wiki/Double_Time)
-- `D`, затем `D`: [Nightcore](/wiki/Nightcore)
+- `A`: [Hard Rock](/wiki/Game_modifier/Hard_Rock)
+- `S`: [Sudden Death](/wiki/Game_modifier/Sudden_Death)
+- `S`, затем `S`: [Perfect](/wiki/Game_modifier/Perfect)
+- `D`: [Double Time](/wiki/Game_modifier/Double_Time)
+- `D`, затем `D`: [Nightcore](/wiki/Game_modifier/Nightcore)
 - `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, и osu!catch)
-  - эта кнопка будет включать/выключать [Fade In](/wiki/Fade_In) для osu!mania
+  - эта кнопка будет включать/выключать [Fade In](/wiki/Game_modifier/Fade_In) для osu!mania
 - `F`, затем `F`: [Hidden](/wiki/Hidden) (только в osu!mania)
-- `G`: [Flashlight](/wiki/Flashlight)
+- `G`: [Flashlight](/wiki/Game_modifier/Flashlight)
 
 ---
 
-- `X`: [Relax](/wiki/Relax)
-- `C`: [Auto Pilot](/wiki/Auto_Pilot)
-- `V`: [Spun Out](/wiki/Spun_Out)
+- `X`: [Relax](/wiki/Game_modifier/Relax)
+- `C`: [Auto Pilot](/wiki/Game_modifier/Autopilot)
+- `V`: [Spun Out](/wiki/Game_modifier/Spun_Out)
 - `B`: Auto
 - `B`, затем `B`: Cinema
 
@@ -265,7 +265,7 @@ outdated: true
 
 ### Тайминг
 
-- `T`: Отбить [BPM](/wiki/BPM)/оффсет
+- `T`: Отбить [BPM](/wiki/Beatmapping/Beats_per_minute)/оффсет
   - Вы должны нажимать на кнопку с постоянной скоростью.
 - `Shift`, настраивая BPM/offset: 4x-кратная скорость
 - `Ctrl` + `B`: Сбросить текущую точку тайминга
