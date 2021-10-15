@@ -101,7 +101,7 @@ Configuration files configure the initial settings for osu! to work. The files c
 
 ### .exe (Application)
 
-The main component. Click on it to start-up (only applies to Windows.) The .exe files are safe to open assuming the player used the osu!installer downloaded from the official website to install osu!.
+The main component. Click on it to start-up (only applies to Windows). The .exe files are safe to open assuming the player used the osu!installer downloaded from the official website to install osu!.
 
 osu!.exe (Start-up osu!)
 
