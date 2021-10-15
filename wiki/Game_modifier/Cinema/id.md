@@ -12,7 +12,7 @@ tags:
 ![Ikon mod CM](/wiki/shared/mods/CM.png "Ikon mod Cinema (CM)")
 
 *Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*\
-*Berbeda konteks dengan [Cinematography](https://en.wikipedia.org/wiki/Cinematography "Wikipedia").*
+*Berbeda konteks dengan [Cinematography](https://en.wikipedia.org/wiki/Cinematography).*
 
 ## Tentang
 

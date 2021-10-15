@@ -1,6 +1,6 @@
 # Orang-orang
 
-Berikut ini merupakan daftar artikel-artikel yang membahas seputar orang-orang dan kelompok-kelompok pengguna khusus yang terdapat di lingkungan osu!.
+Berikut ini merupakan daftar artikel yang membahas seputar sosok-sosok penting dan kelompok-kelompok pengguna khusus yang osu! miliki.
 
 - [Kontributor komunitas](Community_Contributors)
 - [Tim](The_Team)

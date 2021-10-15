@@ -20,15 +20,18 @@ La Project Loved Team se compose principalement de *capitaines* pour chaque [mod
 
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983)
+- ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
 - ![][flag_US] [Wixonater](https://osu.ppy.sh/users/10083084)
 
 ### osu!taiko
 
 - ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861)
+- ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910)
+- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
 - ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438)
 - ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563)
 - ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
-- ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344)
 
 ### osu!catch
 
@@ -41,7 +44,6 @@ La Project Loved Team se compose principalement de *capitaines* pour chaque [mod
 
 - ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750)
 - ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
-- ![][flag_US] [Alter-](https://osu.ppy.sh/users/4980256)
 - ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
 - ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)
 
@@ -104,6 +106,7 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont fait partie de la Pr
 - ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767)
 - ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878)
 - ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)
+- ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344)
 - ![][flag_FR] [Yuzeyun](https://osu.ppy.sh/users/481582)
 
 ### Capitaines osu!catch
@@ -118,6 +121,7 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont fait partie de la Pr
 
 - ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852)
+- ![][flag_US] [Alter-](https://osu.ppy.sh/users/4980256)
 - ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992)
 - ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
@@ -141,9 +145,10 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont fait partie de la Pr
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Chine"
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_EC]: /wiki/shared/flag/EC.gif "Equateur"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hongrie"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italie"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
@@ -153,9 +158,10 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont fait partie de la Pr
 [flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turquie"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"

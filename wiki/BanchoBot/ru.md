@@ -18,7 +18,7 @@ tags:
 
 **BanchoBot** *(БанчоБот)*, иногда называемый просто *Банчо*, — чат-бот в osu!, созданный для помощи игрокам в чате и показывающий игровые оповещения (например, о количестве повторных попыток или о перезапуске сервера). Помимо этого, он обеспечивает работу [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). Автором бота является [Echo](https://osu.ppy.sh/users/431).
 
-Кроме того, у бота есть собственные профили в [osu!](https://osu.ppy.sh/users/3) и [Twitter](https://twitter.com/banchoboat "Twitter").
+Кроме того, у бота есть собственные профили в [osu!](https://osu.ppy.sh/users/3) и [Twitter](https://twitter.com/banchoboat).
 
 ## Команды
 

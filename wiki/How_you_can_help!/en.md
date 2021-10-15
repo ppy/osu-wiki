@@ -10,7 +10,7 @@ Below are just a few of the ways you can help out in the community:
 
 [The wiki](https://github.com/ppy/osu-wiki) is our official knowledge base that contains anything and everything about osu!. And as such, the wiki is always looking for more contributors to help keep the site up-to-date with fresh, new knowledge or translations.
 
-If you are a newcomer to the osu! wiki, you can read more about it in the [osu! wiki Contribution Guide](/wiki/osu!_wiki_Contribution_Guide).
+If you are a newcomer to the osu! wiki, you can read more about it in the [osu! wiki contribution guide](/wiki/osu!_wiki/Contribution_guide).
 
 ## Help keep osu! friendly and safe
 

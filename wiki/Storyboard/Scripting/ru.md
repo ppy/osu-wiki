@@ -11,7 +11,7 @@ outdated_since: 048320d762fbf8472b04389126e719d219bc41f3
 
 ## Обзор
 
-Для понимания основ скриптинга можно посмотреть видеообзор от [Doomsday](https://osu.ppy.sh/users/18983): [osu! - Storyboard Scripting for Beginners (12:22)](https://www.youtube.com/watch?v=UJ1YLDs-bZg "YouTube").
+Для понимания основ скриптинга можно посмотреть видеообзор от [Doomsday](https://osu.ppy.sh/users/18983): [osu! - Storyboard Scripting for Beginners (12:22)](https://www.youtube.com/watch?v=UJ1YLDs-bZg).
 
 ## Полная спецификация
 

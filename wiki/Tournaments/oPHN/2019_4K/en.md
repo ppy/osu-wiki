@@ -46,10 +46,10 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/902235)
-- [YouTube](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live "YouTube")
-- [Twitch](https://www.twitch.tv/osuliveph "Twitch")
-- [Challonge](https://challonge.com/oPHN4K19 "Challonge")
-- [osu! Philippines Tournament Discord server](https://discord.gg/9ZUMmwS "Discord")
+- [YouTube](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
+- [Twitch](https://www.twitch.tv/osuliveph)
+- [Challonge](https://challonge.com/oPHN4K19)
+- [osu! Philippines Tournament Discord server](https://discord.gg/9ZUMmwS)
 
 ## Participants
 
@@ -64,7 +64,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ### Finals week 1
 
-**[Download the mappack here! (84.9 MB)](https://drive.google.com/file/d/1FGo-7Xy2ZhTaM_pJtdmzVOltKLF2KmlK/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (84.9 MB)](https://drive.google.com/file/d/1FGo-7Xy2ZhTaM_pJtdmzVOltKLF2KmlK/view?usp=sharing)**
 
 - FreeMod
   - Terminal11 - Odd22 (Lenfried-) \[Choof's Masochist (LN Fix)\]
@@ -87,7 +87,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ### Semifinals
 
-**[Download the mappack here! (87.8 MB)](https://drive.google.com/file/d/1fJ0kgr4ksQRWspKQFGTAVp0OO2vmDqVJ/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (87.8 MB)](https://drive.google.com/file/d/1fJ0kgr4ksQRWspKQFGTAVp0OO2vmDqVJ/view?usp=sharing)**
 
 - FreeMod
   - [ZYTOKINE - DESIRE DREAM feat. itori - FELT Remix (\_underjoy) \[Melancholia\]](https://osu.ppy.sh/beatmapsets/836634#mania/1751934)
@@ -108,7 +108,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ### Quarterfinals
 
-**[Download the mappack here! (78.7 MB)](https://drive.google.com/file/d/1SMpxVMp6QIgC8C9iDDVKwMmaVOV8Xbso/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (78.7 MB)](https://drive.google.com/file/d/1SMpxVMp6QIgC8C9iDDVKwMmaVOV8Xbso/view?usp=sharing)**
 
 - FreeMod
   - [Night Tempo - Nemure (Valedict) \[Rest\]](https://osu.ppy.sh/beatmapsets/562937#mania/1190462)
@@ -129,7 +129,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ### Group stage
 
-**[Download the mappack here! (55.5 MB)](https://drive.google.com/open?id=1tlpvcpfwlgApNVwTJIGWJhe14gpwZ3ox "Google Drive")**
+**[Download the mappack here! (55.5 MB)](https://drive.google.com/open?id=1tlpvcpfwlgApNVwTJIGWJhe14gpwZ3ox)**
 
 - FreeMod
   - [Lime - Stargazer (Kamikaze) \[Astral\]](https://osu.ppy.sh/beatmapsets/946116#mania/1975568)
@@ -148,7 +148,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ### Play-offs
 
-**[Download the mappack here! (59.5 MB)](https://drive.google.com/open?id=1Uc0IFaJgOpycbwdJqW_SxbOcsJ02PfqT "Google Drive")**
+**[Download the mappack here! (59.5 MB)](https://drive.google.com/open?id=1Uc0IFaJgOpycbwdJqW_SxbOcsJ02PfqT)**
 
 - FreeMod
   - [yuikonnu - Shinkai Shoujo (juankristal) \[Shoujo\]](https://osu.ppy.sh/beatmapsets/493322#mania/1050663)
@@ -165,7 +165,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ### Qualifiers
 
-**[Download the mappack here! (13.9 MB)](https://drive.google.com/open?id=1gHJYaBUaqzX-ZOlOLZSv3sHAKzSoMnf3 "Google Drive")**
+**[Download the mappack here! (13.9 MB)](https://drive.google.com/open?id=1gHJYaBUaqzX-ZOlOLZSv3sHAKzSoMnf3)**
 
 - FreeMod
   - [hirota - idea (Lenfried-) \[Afterthought\]](https://osu.ppy.sh/beatmapsets/977516#mania/2045910)
@@ -177,7 +177,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ### Semifinals
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjtQACfYU88yQ746ZJ-UY-kbdn_3_gtF6ewz6xtp6OoeB1Jh1zZ8DIMgxM3kvyfB6o-leJjjOqm08I/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjtQACfYU88yQ746ZJ-UY-kbdn_3_gtF6ewz6xtp6OoeB1Jh1zZ8DIMgxM3kvyfB6o-leJjjOqm08I/pubhtml)
 
 | Saturday, 2019-06-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -191,7 +191,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Quarterfinals
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPGzvuwEUIjD0cORSXGf_jnYMOy6AZB-a8LrUUVGjur5XcPPoAeTt3mulsYl6GZU0u7Ndftu922CTB/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPGzvuwEUIjD0cORSXGf_jnYMOy6AZB-a8LrUUVGjur5XcPPoAeTt3mulsYl6GZU0u7Ndftu922CTB/pubhtml)
 
 | Saturday, 2019-06-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -205,7 +205,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Group stage
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSdgCT4CH9eo8qFgAWTBj5AafXFJXyaL9FLxxQvuC-TSDaOXy5n4_sSc4jDyNtGI3KoZSZPk4w4Dmzx/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSdgCT4CH9eo8qFgAWTBj5AafXFJXyaL9FLxxQvuC-TSDaOXy5n4_sSc4jDyNtGI3KoZSZPk4w4Dmzx/pubhtml)
 
 | Thursday, 2019-06-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -245,7 +245,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Play-offs
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvo5Nn4awVWc7jCwnLXH1cMMUGAYwghXnlxIUFq5iA32yLKQOS5nKyVgh16Zv3G8ZyUgl-G1TTOj9b/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvo5Nn4awVWc7jCwnLXH1cMMUGAYwghXnlxIUFq5iA32yLKQOS5nKyVgh16Zv3G8ZyUgl-G1TTOj9b/pubhtml)
 
 | Friday, 2019-06-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -274,7 +274,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Qualifiers
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/15lbiVX9pzeWakCHoy7p_cYnjCnltKG7C1BXSazZA0xQ/edit?usp=sharing "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/15lbiVX9pzeWakCHoy7p_cYnjCnltKG7C1BXSazZA0xQ/edit?usp=sharing)
 
 ## Ruleset
 

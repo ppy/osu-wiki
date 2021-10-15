@@ -54,10 +54,10 @@ Corgi Cup IV: September 2017 was run by various community members.
 
 ## Links
 
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1JXx3-np43KRkHLvhWCNblOf2EYXkpnMoMyZRNhiHOZc/edit?usp=sharing "Google Sheets")
-- [Livestream](https://twitch.tv/Doomsday "Twitch")
-- [Discord](https://discord.gg/doomscord "Discord")
-- [Challonge](https://challonge.com/CorgiCup4 "Challonge")
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1JXx3-np43KRkHLvhWCNblOf2EYXkpnMoMyZRNhiHOZc/edit?usp=sharing)
+- [Livestream](https://twitch.tv/Doomsday)
+- [Discord](https://discord.gg/doomscord)
+- [Challonge](https://challonge.com/CorgiCup4)
 
 ## Participants
 

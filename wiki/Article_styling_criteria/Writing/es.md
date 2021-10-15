@@ -7,7 +7,7 @@ no_native_review: true
 
 *Para los estándares de formato, ver: [Criterios para el estilo del artículo/formato](../Formatting)*
 
-*Aviso: Este artículo utiliza [RFC 2119](https://tools.ietf.org/html/rfc2119 "IETF Tools") para describir los niveles de exigencia.*
+*Aviso: Este artículo utiliza [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.*
 
 Todos los artículos en inglés deben usar un inglés sencillo.
 
@@ -129,7 +129,7 @@ Las marcas comerciales no deben ir seguidas de la marca comercial o de los símb
 
 ### Formato de la fecha
 
-Los formatos que se encuentran en [Wikipedia:Manual de Estilo/Fechas y números & Formatos](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats "Wikipedia") son todos formatos de fecha aceptados. El formato de la fecha debe ser consistente en todo el artículo.
+Los formatos que se encuentran en [Wikipedia:Manual de Estilo/Fechas y números & Formatos](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats) son todos formatos de fecha aceptados. El formato de la fecha debe ser consistente en todo el artículo.
 
 El formato de fecha "AAAA-MM-DD" sólo debe ser usado en tablas.
 
@@ -212,7 +212,7 @@ Los títulos de usuario que incluyan `osu!` como parte del nombre del título de
 - `osu! Alumni`
 - `osu! Champion`
 
-Para todos los demás términos, osu! debe ser tratado como un [sustantivo calificativo](https://en.wikipedia.org/wiki/Noun_adjunct "Wikipedia"). Esto significa añadir un espacio entre osu! y el sustantivo que modifica. Los ejemplos incluyen:
+Para todos los demás términos, osu! debe ser tratado como un [sustantivo calificativo](https://en.wikipedia.org/wiki/Noun_adjunct). Esto significa añadir un espacio entre osu! y el sustantivo que modifica. Los ejemplos incluyen:
 
 - `osu! tournaments`
 - `osu! community`
@@ -305,7 +305,7 @@ Preferir: Los Beatmap Nominators pueden nominar tu beatmap.
 
 ## Gramática y sintaxis
 
-Los artículos deben preferir el uso de una [gramática y sintaxis más simple](https://www.thepunctuationguide.com/british-versus-american-style.html "The Punctuation Guide").
+Los artículos deben preferir el uso de una [gramática y sintaxis más simple](https://www.thepunctuationguide.com/british-versus-american-style.html).
 
 ### Contracciones
 
@@ -329,7 +329,7 @@ Se debe usar la coma en serie, también conocida como la coma de Oxford o Harvar
 
 ### Citas lógicas
 
-Consulte [el Manual de Estilo de Wikipedia para citas lógicas](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside "Wikipedia").
+Consulte [el Manual de Estilo de Wikipedia para citas lógicas](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside).
 
 Del Manual de Estilo de Wikipedia:
 
@@ -337,4 +337,4 @@ Del Manual de Estilo de Wikipedia:
 
 ## Pronunciación
 
-La pronunciación escrita debe utilizar el [Alfabeto Fonético Internacional](https://en.wikipedia.org/wiki/Help:IPA/English "Wikipedia").
+La pronunciación escrita debe utilizar el [Alfabeto Fonético Internacional](https://en.wikipedia.org/wiki/Help:IPA/English).

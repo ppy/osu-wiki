@@ -51,11 +51,11 @@ The osu! Z-Tournament 2018 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/735631)
-- [Discord server](https://discord.gg/29RmHDQ "Discord")
-- [Livestream](https://www.twitch.tv/ztournament "Twitch")
-- [General spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT24OMXj6iKV2XeAHADas4JtTGi1E_dAfxeiAMt4-j_smF62yWz92H03LUrLkLjltk9M6zHz7iQSHlk/pubhtml "Google Sheets")
-- [Ruleset](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing "Google Docs")
-- [Mappools](https://docs.google.com/spreadsheets/d/1enUr9idRE7cAlAIEXoWVaIhBedvGOu3vKEGzLNLcUDU/edit?usp=sharing "Google Sheets")
+- [Discord server](https://discord.gg/29RmHDQ)
+- [Livestream](https://www.twitch.tv/ztournament)
+- [General spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT24OMXj6iKV2XeAHADas4JtTGi1E_dAfxeiAMt4-j_smF62yWz92H03LUrLkLjltk9M6zHz7iQSHlk/pubhtml)
+- [Ruleset](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing)
+- [Mappools](https://docs.google.com/spreadsheets/d/1enUr9idRE7cAlAIEXoWVaIhBedvGOu3vKEGzLNLcUDU/edit?usp=sharing)
 
 ## Participants
 

@@ -54,10 +54,10 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 ## 相关链接
 
 - [论坛讨论帖](https://osu.ppy.sh/community/forums/topics/1106843)
-- [Twitch 直播间](https://www.twitch.tv/osulive "Twitch")
-- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 发起的 [竞猜](https://pickem.hwc.hr/tournaments/41 "hwchr's pick'em")
-- [Challonge](https://challonge.com/MWC4K2020 "Challonge") 赛程表
-- Google Sheets **[统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWEX_lsC7Kre0jDtZgHzTvTbmCztws2lm0egFDe4oPNt4LeaJwWCLfdwAgkKpWORp4UplgtPwxxBIS/pubhtml "Google Sheets")**
+- [Twitch 直播间](https://www.twitch.tv/osulive)
+- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 发起的 [竞猜](https://pickem.hwc.hr/tournaments/41)
+- [Challonge](https://challonge.com/MWC4K2020) 赛程表
+- Google Sheets **[统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWEX_lsC7Kre0jDtZgHzTvTbmCztws2lm0egFDe4oPNt4LeaJwWCLfdwAgkKpWORp4UplgtPwxxBIS/pubhtml)**
 
 ## 参赛选手
 

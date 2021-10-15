@@ -52,10 +52,10 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1051009)
-- [NPC Discord server](https://discord.gg/Zjb3jR9 "Discord")
-- [Livestream](https://www.twitch.tv/npc_tournaments "Twitch")
-- [Challonge bracket](https://challonge.com/wne60mu5 "Challonge")
-- **[Statistic sheet](https://docs.google.com/spreadsheets/d/1j8fp6zK0Z9cQWv-xwqFfEmvsrHIzqRnru7kovr2P05o/edit?usp=sharing "Google Sheets")**
+- [NPC Discord server](https://discord.gg/Zjb3jR9)
+- [Livestream](https://www.twitch.tv/npc_tournaments)
+- [Challonge bracket](https://challonge.com/wne60mu5)
+- **[Statistic sheet](https://docs.google.com/spreadsheets/d/1j8fp6zK0Z9cQWv-xwqFfEmvsrHIzqRnru7kovr2P05o/edit?usp=sharing)**
 
 ## Participants
 
@@ -552,12 +552,12 @@ Sunday, 7 June 2020:
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
-[flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SV]: /wiki/shared/flag/SV.gif "El salvador"
+[flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
+[flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

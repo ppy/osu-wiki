@@ -44,7 +44,7 @@ The OUKT1 was run by various community members
 ## Links
 
 - [Fourm thread](https://osu.ppy.sh/community/forums/topics/165077)
-- [Challonge page](https://challonge.com/UKosu "Challonge")
+- [Challonge page](https://challonge.com/UKosu)
 
 ## Participants
 
@@ -67,7 +67,7 @@ The OUKT1 was run by various community members
 
 ### Finals
 
-**[Download the mappack here! (98 MB)](https://drive.google.com/open?id=11lIJSeyRMWucvYUK_RGKCC8aX8De62gf "Google Drive")**
+**[Download the mappack here! (98 MB)](https://drive.google.com/open?id=11lIJSeyRMWucvYUK_RGKCC8aX8De62gf)**
 
 - NoMod
   - [Yousei Teikoku - Wahrheit (Saten) \[Saten\]](https://osu.ppy.sh/beatmapsets/53923#osu/164183)
@@ -92,7 +92,7 @@ The OUKT1 was run by various community members
 
 ### Semifinals
 
-**[Download the mappack here! (149 MB)](https://drive.google.com/open?id=1jqVKiYmtOHIwlLJE1JMdWX9kcvnA4oeY "Google Drive")**
+**[Download the mappack here! (149 MB)](https://drive.google.com/open?id=1jqVKiYmtOHIwlLJE1JMdWX9kcvnA4oeY)**
 
 - NoMod
   - [Celldweller - So Long Sentiment (Metal Remix) (Kei) \[Snep&Kei's Sentiment\]](https://osu.ppy.sh/beatmapsets/43415#osu/139240)
@@ -116,7 +116,7 @@ The OUKT1 was run by various community members
 
 ### Quarterfinals
 
-**[Download the mappack here! (86 MB)](https://drive.google.com/open?id=1rulzK-5qWuuDHvVBPXcaFOPtUrF4sC6q "Google Drive")**
+**[Download the mappack here! (86 MB)](https://drive.google.com/open?id=1rulzK-5qWuuDHvVBPXcaFOPtUrF4sC6q)**
 
 - NoMod
   - [Saiya - Remote Control (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/53857#osu/164020)
@@ -140,7 +140,7 @@ The OUKT1 was run by various community members
 
 ### Round of 16
 
-**[Download the mappack here! (114 MB)](https://drive.google.com/open?id=14X9ntsTRQMbxl7zeUPlCQc2UVYQn9PpG "Google Drive")**
+**[Download the mappack here! (114 MB)](https://drive.google.com/open?id=14X9ntsTRQMbxl7zeUPlCQc2UVYQn9PpG)**
 
 - NoMod
   - [LeaF - Calamity Fortune (Flower) \[SCV's Lunatic\]](https://osu.ppy.sh/beatmapsets/96103#osu/261725)
@@ -262,7 +262,7 @@ Saturday, 7 December 2013
 
 ### Tournament rules
 
-- This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets have been determined by seeding via [osu!TP](https://web.archive.org/web/20131113173042/http://osutp.net/info "Internet Archive - osu!tp"). (There is one exception here, as someone took the place of a higher seed player.)
+- This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets have been determined by seeding via [osu!TP](https://web.archive.org/web/20131113173042/http://osutp.net/info). (There is one exception here, as someone took the place of a higher seed player.)
 - The tournaments shall have a map pool for each phase of the tournament. The next map pool in the tournament shall be announced following the end of the preceding round until the Finals. (no more matches)
 - Each map pool will have 6-8 no mod picks, 2 mod picks and 1 tiebreaker. The mod brackets shall be Hidden/Double Time/Hard Rock. Two maps for each.
 - Each player may only pick 1 map from each mod pool to try and encourage variety in the match. For example: P1 picks a HD map, he cant pick from the HD pool again. P2 may however pick a HD map.

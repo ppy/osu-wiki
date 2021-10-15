@@ -52,11 +52,11 @@ The UK Community Cup 7 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/940042?n=1)
-- [Challonge](https://challonge.com/ukcc7 "Challonge")
-- [Discord](https://discord.gg/EtsU7Cw "Discord")
-- [Livestream](https://twitch.tv/osuukcc "Twitch")
+- [Challonge](https://challonge.com/ukcc7)
+- [Discord](https://discord.gg/EtsU7Cw)
+- [Livestream](https://twitch.tv/osuukcc)
 - [Pick'em page](https://pickem.hwchr.com/tournaments/15) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1ubY1Oci0HaH-rny6IKbqlRszPzquwSm9n4fwwnqn5yA/edit#gid=0 "Google Sheets")
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1ubY1Oci0HaH-rny6IKbqlRszPzquwSm9n4fwwnqn5yA/edit#gid=0)
 
 ## Participants
 

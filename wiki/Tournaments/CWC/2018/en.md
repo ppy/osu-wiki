@@ -48,8 +48,8 @@ The osu!catch World Cup 2018 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/739799)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR5x7_6IHe-c0J8ktzA7fW3MKh8iZFuZhwYmiYPlvmkjOivZK20SpxGUeVwNgXDdI_Udhc3v9hpl4jG/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR5x7_6IHe-c0J8ktzA7fW3MKh8iZFuZhwYmiYPlvmkjOivZK20SpxGUeVwNgXDdI_Udhc3v9hpl4jG/pubhtml)**
 
 ## Participants
 
@@ -124,7 +124,7 @@ The osu!catch World Cup 2018 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (92 MB)](https://zirox.s-ul.eu/1AdCcIdv "s-ul")**
+**[Download the mappack here! (92 MB)](https://zirox.s-ul.eu/1AdCcIdv)**
 
 - NoMod
   - [+a / Alfakyun. x Camellia - calling \(alienflybot\) \[Sync\]](https://osu.ppy.sh/beatmapsets/649285#fruits/1556545)
@@ -150,7 +150,7 @@ The osu!catch World Cup 2018 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (102 MB)](http://www.mediafire.com/file/8zg9b3gf7kwq4nr/CWC2018%20-%20QF%20Mappack.zip "MediaFire")**
+**[Download the mappack here! (102 MB)](http://www.mediafire.com/file/8zg9b3gf7kwq4nr/CWC2018%20-%20QF%20Mappack.zip)**
 
 - NoMod
   - [Function Phantom - Euclid \(Ascendance\) \[Axiom\]](https://osu.ppy.sh/beatmapsets/729321#fruits/1539487)
@@ -176,7 +176,7 @@ The osu!catch World Cup 2018 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (99 MB)](http://www.mediafire.com/file/8adzvcvqjxydxw9/CWC2018%20-%20RO16%20Mappack.zip "MediaFire")**
+**[Download the mappack here! (99 MB)](http://www.mediafire.com/file/8adzvcvqjxydxw9/CWC2018%20-%20RO16%20Mappack.zip)**
 
 - NoMod
   - [Hiroyuki Sawano feat. Mika Kobayashi - Bios \(wairo\) \[Furely's Overdose\]](https://osu.ppy.sh/beatmapsets/728912#fruits/1599347)
@@ -202,7 +202,7 @@ The osu!catch World Cup 2018 was run by various community members.
 
 ### Group stage
 
-**[Download the mappack here! (77 MB)](https://mega.nz/#!09kkXCAR!J4oF2QmrLA1RoLgErpqUHBaCul5SFNXAJKnIoo812jc "MEGA")**
+**[Download the mappack here! (77 MB)](https://mega.nz/#!09kkXCAR!J4oF2QmrLA1RoLgErpqUHBaCul5SFNXAJKnIoo812jc)**
 
 - NoMod
   - [Black Hole - Pluto \(Ascendance\) \[Reimu's Another\]](https://osu.ppy.sh/beatmapsets/680437#fruits/1439325)
@@ -528,7 +528,7 @@ Sunday, 10 June 2018:
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
@@ -538,4 +538,4 @@ Sunday, 10 June 2018:
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VN]: /wiki/shared/flag/VN.gif "Venezuela"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

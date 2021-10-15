@@ -54,7 +54,7 @@ Actuellement, les principaux projets d'osu! sont hébergés sur GitHub et tout l
 
 #### osu!
 
-*Pour des informations détaillées sur les contributions au projet osu!, voir : [Contributors of the `osu` repository](https://github.com/ppy/osu/graphs/contributors "GitHub")*
+*Pour des informations détaillées sur les contributions au projet osu!, voir : [Contributors of the `osu` repository](https://github.com/ppy/osu/graphs/contributors)*
 
 - ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022)
 - ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163)
@@ -64,7 +64,7 @@ Actuellement, les principaux projets d'osu! sont hébergés sur GitHub et tout l
 
 #### osu!framework
 
-*Pour des informations détaillées sur les contributions au projet osu!framework, voir : [Contributors of the `osu-framework` repository](https://github.com/ppy/osu-framework/graphs/contributors "GitHub")*
+*Pour des informations détaillées sur les contributions au projet osu!framework, voir : [Contributors of the `osu-framework` repository](https://github.com/ppy/osu-framework/graphs/contributors)*
 
 - ![][flag_SA] [frenzibyte](https://osu.ppy.sh/users/14210502)
 - ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732)
@@ -74,7 +74,7 @@ Actuellement, les principaux projets d'osu! sont hébergés sur GitHub et tout l
 
 #### osu!web
 
-*Pour des informations détaillées sur les contributions au projet osu!web, voir : [Contributors of the `osu-web` repository](https://github.com/ppy/osu-web/graphs/contributors "GitHub")*
+*Pour des informations détaillées sur les contributions au projet osu!web, voir : [Contributors of the `osu-web` repository](https://github.com/ppy/osu-web/graphs/contributors)*
 
 - ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 - ![][flag_ID] [GPR](https://osu.ppy.sh/users/10721349)
@@ -93,7 +93,7 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont abandonné les effor
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Développeur du client |
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australie"
-[flag_BY]: /wiki/shared/flag/BY.gif "Bélarus"
+[flag_BY]: /wiki/shared/flag/BY.gif "Biélorussie"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CN]: /wiki/shared/flag/CN.gif "Chine"
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
@@ -102,8 +102,8 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont abandonné les effor
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
-[flag_SA]: /wiki/shared/flag/SA.gif "Arabie Saoudite"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_SA]: /wiki/shared/flag/SA.gif "Arabie saoudite"
 [flag_SK]: /wiki/shared/flag/SK.gif "Slovaquie"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
 [flag___]: /wiki/shared/flag/__.gif

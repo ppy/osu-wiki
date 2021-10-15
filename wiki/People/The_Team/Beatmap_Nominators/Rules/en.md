@@ -24,15 +24,13 @@ Sustained behaviour in conflict with these expectations is grounds for dismissal
 
 ### Requirements
 
-Multiple activities available to Beatmap Nominators can be peformed to gain activity: nominating, [quality assurance](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) (QA) checking, and nomination resetting. These can be mixed and matched to meet the equivalent of your gamemode's minimum requirement.
-
-Activity is measured in nominations, meaning that each nomination is worth one point of activity. Each QA check is equal to 1/4 the activity of a nomination. Resetting beatmaps is taken into account but to a lesser extent, and it has no set ratio compared to nominations.
+Beatmap Nominator activity is primarily measured by nominations. Resetting beatmaps is taken into account but to a lesser extent, and it has no set ratio compared to nominations.
 
 Each mode has its own required minimum for monthly activity.
 
-- osu!, osu!taiko, osu!catch: equivalent of 3 nominations.
-- osu!mania: equivalent of 2 nominations.
-- Hybrid: equivalent of 3 nominations, with at least 1 per proficient gamemode.
+- osu!, osu!taiko, osu!catch: 3 nominations.
+- osu!mania: 2 nominations.
+- Hybrid: 3 nominations, with at least 1 per proficient gamemode.
 
 ## Nomination
 

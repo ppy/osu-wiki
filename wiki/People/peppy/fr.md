@@ -13,6 +13,6 @@ tags:
 
 - **[Site web](https://ppy.sh/)**
 - [blog de ppy](https://blog.ppy.sh/)
-- [GitHub](https://github.com/peppy "GitHub")
-- [Twitter](https://twitter.com/ppy "Twitter")
-- [Twitch](https://www.twitch.tv/ppy "Twitch")
+- [GitHub](https://github.com/peppy)
+- [Twitter](https://twitter.com/ppy)
+- [Twitch](https://www.twitch.tv/ppy)

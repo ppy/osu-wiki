@@ -20,7 +20,7 @@ Deskripsi beatmap yang terkenal seringkali terdapat:
 
 ### Gambar
 
-Banyak deskripsi beatmap yang terdapat setidaknya satu gambar (sering juga terdapat animasi [GIF](https://id.wikipedia.org/wiki/Graphics_Interchange_Format "Wikipedia") di dalamnya), yang digunakan untuk meng-ekspresikan dan mengilustrasi kreator, musik, dan/atau beatmap agar mencolok. Mereka juga bisa mendapatkan tempat judul atau header untuk menambahkan bakat dan kualitas. Untuk belajar bagaimana cara menambahkan gambar menggunakan BBCode, silahkan lihat [tutorial menambahkan gambar menggunakan BBCode](/wiki/BBCode#image).
+Banyak deskripsi beatmap yang terdapat setidaknya satu gambar (sering juga terdapat animasi [GIF](https://id.wikipedia.org/wiki/Graphics_Interchange_Format) di dalamnya), yang digunakan untuk meng-ekspresikan dan mengilustrasi kreator, musik, dan/atau beatmap agar mencolok. Mereka juga bisa mendapatkan tempat judul atau header untuk menambahkan bakat dan kualitas. Untuk belajar bagaimana cara menambahkan gambar menggunakan BBCode, silahkan lihat [tutorial menambahkan gambar menggunakan BBCode](/wiki/BBCode#image).
 
 ### Difficulty section
 

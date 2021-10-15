@@ -1,13 +1,12 @@
 ---
-outdated: true
-outdated_since: a92869bad198adeb411099cc45da9aaf71893c2a
+no_native_review: true
 ---
 
 # Mise en forme
 
 *Pour les normes de rédaction, voir : [Critères de style des articles/Rédaction](../Writing)*
 
-*Note : Cet article utilise [RFC 2119](https://tools.ietf.org/html/rfc2119 "Outils IETF") pour décrire les niveaux d'exigence.*
+*Note : Cet article utilise [RFC 2119](https://tools.ietf.org/html/rfc2119) pour décrire les niveaux d'exigence.*
 
 ## Locales
 
@@ -63,7 +62,7 @@ Dans certains cas, il est permis de différer le contenu :
 
 ## Page de garde
 
-La page de garde doit être placée tout en haut du fichier. Elle est écrite en [YAML](https://fr.wikipedia.org/wiki/YAML#Exemple "Article sur le YAML sur Wikipédia") et décrit des informations supplémentaires sur l'article. Elle doit être entourée de trois traits d'union (`---`) sur les lignes qui la précèdent et la suivent, et d'une ligne vide avant l'intitulé du titre.
+La page de garde doit être placée tout en haut du fichier. Elle est écrite en [YAML](https://fr.wikipedia.org/wiki/YAML#Exemple) et décrit des informations supplémentaires sur l'article. Elle doit être entourée de trois traits d'union (`---`) sur les lignes qui la précèdent et la suivent, et d'une ligne vide avant l'intitulé du titre.
 
 ### Articles nécessitant une aide
 
@@ -116,7 +115,7 @@ no_native_review: true
 
 *Voir aussi : [Noms de dossiers](#noms-de-dossiers) et [Titres](#titres)*
 
-Les titres des articles doivent être au singulier et utiliser la casse. Pour plus de détails, consulter l'[article sur les conventions de dénomination de Wikipédia](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals) "Wikipédia (en anglais)").
+Les titres des articles doivent être au singulier et utiliser la casse. Pour plus de détails, consulter l'[article sur les conventions de dénomination de Wikipédia](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals)).
 
 Les titres des articles doivent correspondre au nom du dossier dans lequel ils se trouvent (les espaces peuvent remplacer les traits de soulignement (`_`) le cas échéant). Si le nom du dossier change, le titre de l'article doit être modifié en conséquence et vice versa.
 
@@ -299,7 +298,7 @@ L'italique peut également être utilisé pour accenter un ou plusieurs mots ou 
 
 Toutes les rubriques doivent respecter la casse.
 
-Les rubriques doivent utiliser le style [ATX (dièse)](https://github.github.com/gfm/#atx-headings "GitHub") et doivent être précédées et suivies d'une ligne vide. Le titre est une exception lorsqu'il se trouve sur la première ligne. Dans ce cas, il suffit de laisser une ligne vide après le titre.
+Les rubriques doivent utiliser le style [ATX (dièse)](https://github.github.com/gfm/#atx-headings) et doivent être précédées et suivies d'une ligne vide. Le titre est une exception lorsqu'il se trouve sur la première ligne. Dans ce cas, il suffit de laisser une ligne vide après le titre.
 
 Les rubriques ne doivent pas dépasser un niveau d'en-tête de 5 et ne doivent pas être utilisées pour styliser ou formater le texte.
 
@@ -320,6 +319,23 @@ Les titres de section doivent utiliser les niveaux 2 à 5. L'en-tête de section
 Les titres de section ne doivent pas sauter un niveau de titre (c'est-à-dire ne pas passer d'un titre de niveau 2 à un titre de niveau 4) et ne doivent pas contenir de formatage ou de liens.
 
 *Remarque : Sur le site web, les niveaux de rubrique 4 et 5 n'apparaîtront pas dans la table des matières. Ils ne peuvent pas non plus faire l'objet d'un lien direct.*
+
+### Identifiants personnalisés
+
+Il est possible de redéfinir l'identifiant d'une section, qui est utilisé pour y accéder directement. Les identifiants personnalisés doivent être utilisés dans le cas où ceux générés automatiquement sont trop longs ou contiennent des signes de ponctuation ou des images complexes :
+
+```markdown
+## Mon délai de réflexion est passé. Comment puis-je faire appel ? {#appel}
+
+## Raisons de restriction communes et cooldowns {#raisons-communes}
+```
+
+Cette fonction peut également être utilisée pour baliser une partie spécifique de l'article qui n'a pas de titre. Utilisez-la avec parcimonie :
+
+```markdown
+> Voilà, c'est fait ! Vous êtes sur la bonne voie pour devenir un champion du rythme d'osu!
+{#citation-tutoriel}
+```
 
 ## Listes
 
@@ -593,7 +609,7 @@ Le protocole `https` doit être utilisé, sauf si le site ne le prend pas en cha
 Il n'y a pas de différences visuelles entre les liens externes et les liens Web d'osu!. Pour cette raison, le nom du site web doit être inclus dans le texte du titre. Voir l'exemple suivant :
 
 ```markdown
-*Pour plus d'informations sur la théorie musicale, voir : [Théorie de la musique](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_musique "Wikipédia")*
+*Pour plus d'informations sur la théorie musicale, voir : [Théorie de la musique](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_musique)*
 ```
 
 ## Images
@@ -611,7 +627,7 @@ Il existe deux types de liens d'image : en ligne et de référence. Exemples :
 ```markdown
 ![][flag_AU]
 
-[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
 ```
 
 Les images doivent utiliser le style de lien en ligne. Les références aux liens de référence doivent être placées en bas de l'article.
@@ -632,7 +648,7 @@ Les images doivent utiliser le format JPG en qualité 8 (80 ou 80%, selon le pro
 
 Les images doivent être inférieures à 1 mégaoctet, sinon elles ne se chargeront pas. La réduction d'échelle et l'utilisation du format JPG à 80 % permettent presque toujours de respecter la taille limite.
 
-Toutes les images doivent être optimisées autant que possible. Utilisez [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive "GitHub") pour compresser les images JPEG. Par souci de cohérence, utilisez la commande suivante pour jpeg-archive :
+Toutes les images doivent être optimisées autant que possible. Utilisez [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) pour compresser les images JPEG. Par souci de cohérence, utilisez la commande suivante pour jpeg-archive :
 
 ```sh
 jpeg-recompress -am smallfry <input> <output>
@@ -725,7 +741,7 @@ Les icônes de drapeau situées à côté des liens utilisateur doivent être s�
 
 ### Icônes de drapeaux
 
-*Pour une liste d'icônes de drapeaux, voir : [issue \#328](https://github.com/ppy/osu-wiki/issues/328 "GitHub")*
+*Pour une liste d'icônes de drapeaux, voir : [issue \#328](https://github.com/ppy/osu-wiki/issues/328)*
 
 Les icônes de drapeau utilisent le code à deux lettres (en majuscules) et se terminent par `.gif`. Lorsque vous ajoutez un drapeau en ligne, utilisez ce format :
 
@@ -733,7 +749,7 @@ Les icônes de drapeau utilisent le code à deux lettres (en majuscules) et se t
 ![](/wiki/shared/flag/xx.gif)
 ```
 
-Où `xx` est le code pays à deux lettres [ISO 3166-2](https://fr.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipédia") du drapeau.
+Où `xx` est le code pays à deux lettres [ISO 3166-2](https://fr.wikipedia.org/wiki/ISO_3166-1_alpha-2) du drapeau.
 
 Le nom complet du pays doit être ajouté dans le texte du titre. Le code du pays dans le texte alternatif est facultatif, mais doit être appliqué à toutes les icônes de drapeau dans l'article.
 

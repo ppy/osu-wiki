@@ -57,8 +57,8 @@ The {TITLE} is run by various community members.
 ## Links
 
 - [Discussion thread]({THREAD_LINK})
-- [Livestream]({LIVESTREAM_LINK} "Website name")
-- **[Statistics sheet]({SHEET_LINK} "Website name")**
+- [Livestream]({LIVESTREAM_LINK})
+- **[Statistics sheet]({SHEET_LINK})**
 
 ## Participants
 
@@ -148,4 +148,5 @@ example header structure:
 Add flag references here.
 Use https://megaapplepi.github.io/flag-wiki-osu/ for usage of flag references.
  -->
+
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

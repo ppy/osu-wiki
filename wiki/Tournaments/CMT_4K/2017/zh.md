@@ -38,8 +38,8 @@
 
 ## 比赛直播间
 
-Bilibili 直播平台：[aiyulu](http://live.bilibili.com/10183 "Bilibili")（主直播），[Ookura Asahi](http://live.bilibili.com/272810 "Bilibili")（副直播），[Rasis](http://live.bilibili.com/5333 "Bilibili")（备用）。
-Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu "Twitch")。
+Bilibili 直播平台：[aiyulu](http://live.bilibili.com/10183)（主直播），[Ookura Asahi](http://live.bilibili.com/272810)（副直播），[Rasis](http://live.bilibili.com/5333)（备用）。
+Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 ![CMT4K2017 podium](img/podium.png)
 
@@ -47,7 +47,7 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu "Twitch")。
 
 ### 决赛、总决赛
 
-[**点此下载全部**](https://1drv.ms/users/s!AuGED5b9f0uloUllsnHx59aQyaoa "OneDrive")
+[**点此下载全部**](https://1drv.ms/users/s!AuGED5b9f0uloUllsnHx59aQyaoa)
 
 - FreeMod
   - [Various Artist - Jungdongjin's 5th LN Pack (Jungdongjin) \[nanahira -Tsukitourou\]](https://osu.ppy.sh/beatmapsets/617068#mania/1301846)
@@ -71,7 +71,7 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu "Twitch")。
 
 ### 半决赛
 
-[**点此下载全部**](https://1drv.ms/users/s!Akj69f-fUdi3hSV0mmh3EYXWfOwz "OneDrive")
+[**点此下载全部**](https://1drv.ms/users/s!Akj69f-fUdi3hSV0mmh3EYXWfOwz)
 
 - FreeMod
   - Mick Gordon - Cyberdemon \[Lazarus\]
@@ -95,7 +95,7 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu "Twitch")。
 
 ### 四分之一决赛
 
-[**点此下载全部**](https://1drv.ms/users/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx "OneDrive")
+[**点此下载全部**](https://1drv.ms/users/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)
 
 - FreeMod
   - [DJ Genki feat. yukacco - Candy Star (PiraTom) \[Noodle Star\]](https://osu.ppy.sh/beatmapsets/587375#mania/1243769)
@@ -117,7 +117,7 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu "Twitch")。
 
 ### 16强
 
-[**点此下载全部**](https://1drv.ms/users/s!AuGED5b9f0uloSM2ivgLojrSLnxT "OneDrive")
+[**点此下载全部**](https://1drv.ms/users/s!AuGED5b9f0uloSM2ivgLojrSLnxT)
 
 - FreeMod
   - [senya - Shinrabansho ni furete (souzirou1000) \[Insane(LN)\]](https://osu.ppy.sh/beatmapsets/586947#mania/1242917)
@@ -139,7 +139,7 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu "Twitch")。
 
 ### 小组赛
 
-[**点此下载全部**](https://1drv.ms/users/s!AuGED5b9f0uloSC-zNJGthpjbLkb "OneDrive")
+[**点此下载全部**](https://1drv.ms/users/s!AuGED5b9f0uloSC-zNJGthpjbLkb)
 
 - FreeMod
   - [Ryu\* Vs. L.E.D.-G - PARADISE LOST (Spy) \[CS'Another\]](https://osu.ppy.sh/beatmapsets/553390#mania/1171750)
@@ -167,7 +167,7 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu "Twitch")。
 
 ### 测试赛
 
-[**点此下载全部**](https://1drv.ms/users/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g "OneDrive")
+[**点此下载全部**](https://1drv.ms/users/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)
 
 - FreeMod
   - [Shiki – Endless Dream (Shoegazer) \[pompom’s Another\]](https://osu.ppy.sh/beatmapsets/263929#mania/601737)

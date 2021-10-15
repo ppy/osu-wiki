@@ -47,7 +47,7 @@ El país campeón del torneo anterior es ![][flag_JP] **Japón**.
 ## Links
 
 - [Tema de Discusion (Solo en inglés)](https://osu.ppy.sh/community/forums/topics/279723)
-- [osu! Taiko World Cup 2015 en Twitch](https://www.twitch.tv/osulive "Twitch")
+- [osu! Taiko World Cup 2015 en Twitch](https://www.twitch.tv/osulive)
 
 ## Set de Reglas
 
@@ -109,7 +109,7 @@ El país campeón del torneo anterior es ![][flag_JP] **Japón**.
 
 5. Las fases siguiente serán de Doble Eliminacion, Esto significa que los ganadores automaticamente irán a la siguiente fase y los que pierden serán movido a la zona de perdedores.
 
-6. Basado en [este grafico](https://puu.sh/bUq5V/f1066103b0.png "puush"), Las fases están descritas de esta manera:
+6. Basado en [este grafico](https://puu.sh/bUq5V/f1066103b0.png), Las fases están descritas de esta manera:
 
    | Stage | Partida (Identificador) |
    | :-- | :-- |
