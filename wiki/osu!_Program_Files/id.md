@@ -16,7 +16,7 @@ Secara umum, osu! terinstal pada lokasi berikut ini:
 
 ### Chat
 
-Folder ini hanya muncul apabila anda menggunakan "/savelog" di [Chat Console](/wiki/Chat_Console) atau jika anda mengaktifkan "Simpan catatan(log) pesan pribadi secara otomatis" di Pilihan.
+Folder ini hanya muncul apabila anda menggunakan "/savelog" di [Chat Console](/wiki/Chat_Console) atau jika anda mengaktifkan "Simpan catatan(log) pesan pribadi secara otomatis" di Pengaturan.
 
 Struktur nama berkas ini adalah `{Nama_Tab}-{TTTTBBHH}-{JJMMSS}` dalam format .txt, yang pada dasarnya boleh dibuka melalui aplikasi *text editor* pilihan(Notepad, contohnya). Berikut adalah contoh nama berkas yang tersimpan:
 
@@ -28,11 +28,11 @@ Folder Downloads menyimpan beatmap yang di download melalui osu!direct (ittem [o
 
 ### Exports
 
-Folder Exports muncul ketika pemain menggunakan fungsi [Ekspor Sebagai .osk pada Pilihan](/wiki/Options) atau [Ekspor Map... pada Beatmap Editor"](/wiki/Beatmap_Editor/Menu). Folder tersebut akan menyimpan beatmap dan skin yang pemain ekspor dari osu!.
+Folder Exports muncul ketika pemain menggunakan fungsi [Ekspor Sebagai .osk pada Pengaturan](/wiki/Options) atau [Ekspor Map... pada Beatmap Editor"](/wiki/Beatmap_Editor/Menu). Folder tersebut akan menyimpan beatmap dan skin yang pemain ekspor dari osu!.
 
 ### Localisation
 
-Folder ini muncul ketika pemain telah beralih pilihan bahasa melalui Pilihan. Folder ini menyimpan berkas teks yang telah diterjemahkan yang dapat digunakan untuk mengubah teks Bahasa Inggris dengan bahasa yang dipilih oleh pemain. Berkas teks yang diterjemahkan akan terbuat ketika pemain mengubah pilihan bahasa.
+Folder ini muncul ketika pemain telah beralih pilihan bahasa melalui Pengaturan. Folder ini menyimpan berkas teks yang telah diterjemahkan yang dapat digunakan untuk mengubah teks Bahasa Inggris dengan bahasa yang dipilih oleh pemain. Berkas teks yang diterjemahkan akan terbuat ketika pemain mengubah pilihan bahasa.
 
 ### Replays
 
@@ -48,7 +48,7 @@ Struktur nama berkas ini adalah `{Nama pemain lokal} - {Artis} - {Judul Lagu} {[
 
 ### Screenshots
 
-Folder Screenshots menyimpan berkas tangkapan layar osu! yang dibuat oleh pemain. Secara umum, format berkas tangkapan layar yang disimpan adalah `.jpg`, namun pemain dapat mengubah format berkas menjadi `.png` melalui menu Pilihan.
+Folder Screenshots menyimpan berkas tangkapan layar osu! yang dibuat oleh pemain. Secara umum, format berkas tangkapan layar yang disimpan adalah `.jpg`, namun pemain dapat mengubah format berkas menjadi `.png` melalui menu Pengaturan.
 
 *Catatan: Untuk membuat tangkapan layar, tekan tombol screenshot (Secara pengaturan bawaan, tombol F12).*
 
@@ -95,7 +95,7 @@ Berkas-berkas database adalah basis data yang dibutuhkan osu! untuk berfungsi de
 Berkas-berkas konfigurasi yang digunakan untuk mengkonfigurasi pengaturan awal osu! sehingga dapat berjalan. Berkas-berkas tersebut dapat dibuka dengan *text editor*.
 
 - `osu!.cfg`: Menyimpan informasi keamanan tentang berkas osu! dan versi yang saat ini digunakan. Berkas ini jangan pernah diubah secara manual.
-- `osu!.<nama pengguna sistem operasi>.cfg`: Menyimpan data [Pilihan](/wiki/Options) dan pengaturan game lainnya. Lihat [Berkas Konfigurasi Pengguna](/wiki/osu!_Program_Files/User_Configuration_File).
+- `osu!.<nama pengguna sistem operasi>.cfg`: Menyimpan data [Pengaturan](/wiki/Options) dan pengaturan game lainnya. Lihat [Berkas Konfigurasi Pengguna](/wiki/osu!_Program_Files/User_Configuration_File).
 
 ### .exe (Aplikasi)
 
