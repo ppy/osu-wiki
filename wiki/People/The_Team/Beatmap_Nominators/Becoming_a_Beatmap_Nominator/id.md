@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: fc7d528c2108d6af5ca7a70d53c62baa266fcfb6
+---
+
 # Menjadi seorang Beatmap Nominator
 
 Para pengguna yang tertarik untuk bergabung dengan [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) harus melalui proses lamaran yang diawasi oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
