@@ -619,13 +619,13 @@ Top 10 qualification results:
 
 - In the event there are 128 signups, those with the lowest global rank will be unable to participate (unless the tournament is expanded).
 - The structure of the tournament will be:
-  - Two qualifications rounds where 32 players progress
+  - Two qualification rounds where 32 players progress
   - Double Elimination Bracket
 - To be able to participate, players must have an **![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag or be able to provide proof of residency to the hosts.**
 - Matches will be **Head to Head** and **ScoreV2**.
-- Ranks and Qualifications placements are used to calculate seeding. Once the tournament starts, your rank is locked and will not affect your seed.
+- Ranks and qualification placements are used to calculate seeding. Once the tournament starts, your rank is locked and will not affect your seed.
 - All staff (apart from the Hosts, Mappool Selectors and Referees) are allowed to participate in the tournament.
-- All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the discord server or during matches (this includes homophobia, racism and toxicity) will result in a **ban** and will be **blacklisted** from participating from future UKCC tournaments.
+- All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the Discord server or during matches (this includes homophobia, racism and toxicity) will result in a **ban** and offenders will be **blacklisted** from participating from future UKCC tournaments.
 - ***Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.***
 - Players are **required** to join the public Discord server so that they are contactable by other players and staff. If a player can't be contacted or is not responding to messages through Discord, in-game messages, or forum PMs, contact the staff.
 - Mappools are to be released the Monday before a stage is due to happen.

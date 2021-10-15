@@ -31,7 +31,7 @@ The **UK Community Cup 5** (***UKCC5***) was a British 1v1 double-elimination os
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter and profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge.png "UKCC5 winner badge")
 
@@ -721,11 +721,11 @@ Sunday, 1 July 2018:
   1. Two single elimination rounds where 32 players progress
   2. Group stage where 16 players progress
   3. Double elimination bracket
-- To be able to participate, players must have an **![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag or be able to provide proof of residency to the hosts.**
+- To be able to participate, players must have a **![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag, or be able to provide proof of residency to the hosts.**
 - Matches will be **Head to Head** and **ScoreV2**.
-- Ranks and Qualifications placements are used to calculate seeding. Once the tournament starts, your rank is locked and will not affect your seed.
+- Ranks and qualification placements are used to calculate seeding. Once the tournament starts, your rank is locked and will not affect your seed.
 - All staff (apart from the Hosts, Mappool Selectors and Referees) are allowed to participate in the tournament.
-- All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the discord server or during matches (this includes homophobia, racism and toxicity) will result in a **ban** and will be **blacklisted** from participating from future UKCC tournaments.
+- All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the Discord server or during matches (this includes homophobia, racism and toxicity) will result in a **ban** and will be **blacklisted** from participating from future UKCC tournaments.
 - ***Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.***
 - Players are **required** to join the public Discord server so that they are contactable by other players and staff. If a player can't be contacted or is not responding to messages through Discord, in-game messages, or forum PMs, contact the staff.
 - Mappools are to be released the Monday before a stage is due to happen.
@@ -762,7 +762,7 @@ Sunday, 1 July 2018:
 ### Picking
 
 - Players have **2 minutes** to pick a map. Failure to pick a map within this time limit results in pick choice being passed to the opposing player.
-- For Freemod picks, players must select any combination of the following mods: **Hidden, HardRock**.
+- For FreeMod picks, players must select any combination of the following mods: **Hidden, HardRock**.
 - Failed scores will count.
 
 ### Tiebreakers
