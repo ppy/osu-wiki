@@ -5,7 +5,7 @@ tags:
 
 # Artistes associés
 
-Les **artistes associés** sont des artistes musicaux qui ont collaboré avec osu! pour mettre à disposition une sélection de leurs titres afin qu'ils puissent être utilisés dans les [beatmaps](/wiki/Beatmap) et comme musique de fond lors des retransmissions en direct de la osu!'s World Cup live.
+Les **artistes associés** sont des artistes musicaux qui ont collaboré avec osu! pour mettre à disposition une sélection de leurs titres afin qu'ils puissent être utilisés dans les [beatmaps](/wiki/Beatmap) et comme musique de fond lors des retransmissions en direct de la [osu! World Cup](/wiki/Tournaments#osu!-world-cup) live.
 
 La [liste des artistes associés](https://osu.ppy.sh/beatmaps/artists) du site présente chaque artiste impliqué. La page de chaque artiste contient des informations générales sur sa musique et une liste de ses morceaux sous licence pour osu!, accompagnés de fichiers `.osz` préprogrammés pour le beatmapping.
 
