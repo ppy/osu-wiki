@@ -39,6 +39,7 @@ Karena itu, menggunakan mod Half Time bisa menyebabkan peningkatan dalam skor ma
 ### osu!catch
 
 Pada [osu!catch](/wiki/Game_mode/osu!catch), tempo lagu dan kecepatan catcher yang kamu miliki akan melambat sesuai dengan nilai-nilai yang telah disebutkan pada mode-mode permainan sebelumnya. Tetapi mod ini *juga* mengurangi kecepatan pemain. Seluruh objek [fruit](/wiki/Hit_object/Fruit), [drop](/wiki/Hit_object/Juice_stream#drop), [droplet](/wiki/Hit_object/Juice_stream#droplet) dan [banana](/wiki/Hit_object/Banana) tetap sama.
+
 ## Trivia
 
 - Saat mod Half Time dinyalakan, nilai `Length`, `BPM`, dan `Objects` akan mempunyai warna biru muda dengan nilai baru yang telah ditingkatkan. (Digambarkan di bawah.)
