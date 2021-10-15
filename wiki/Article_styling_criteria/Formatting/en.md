@@ -521,7 +521,7 @@ Wiki links must not use redirects and must not have a trailing forward slash (`/
 Bad examples include the following:
 
 ```markdown
-[Article styling criteria](/wiki/Article_styling_criteria)
+[Article styling criteria](/wiki/ASC)
 [Developers](/wiki/Developers/)
 [Developers](/wiki/Developers/#game-client-developers)
 ```
@@ -530,8 +530,8 @@ Good examples include the following:
 
 ```markdown
 [Article styling criteria](/wiki/Article_styling_criteria)
-[Developers](/wiki/Developers)
-[Developers](/wiki/Developers#game-client-developers)
+[Developers](/wiki/People/The_Team/Developers)
+[Developers](/wiki/People/The_Team/Developers#game-client-developers)
 ```
 
 ##### Sub-article links
