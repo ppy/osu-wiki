@@ -8,7 +8,7 @@ tags:
 
 ![OMFWC banner](img/banner.png)
 
-The **Old Map Fantasy World Cup** (***OMFWC***) is a country-based 4v4 double-elimination osu! tournament hosted by ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519). It is the first instalment of the Old Map Fantasy.
+The **Old Map Fantasy World Cup** (***OMFWC***) was a country-based 4v4 double-elimination osu! tournament hosted by ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519). It was the first instalment of the Old Map Fantasy.
 
 ## Tournament schedule
 
@@ -34,7 +34,7 @@ The **Old Map Fantasy World Cup** (***OMFWC***) is a country-based 4v4 double-el
 
 ## Organisation
 
-The Old Map Fantasy World Cup is run by various community members.
+The Old Map Fantasy World Cup was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -118,7 +118,151 @@ The Old Map Fantasy World Cup is run by various community members.
 | ![][flag_US] | **United States B** | **[BoshyMan741](https://osu.ppy.sh/users/4830687)**, [ConsumerOfBean](https://osu.ppy.sh/users/6293158), [Leftoverss](https://osu.ppy.sh/users/4665746), [toybot](https://osu.ppy.sh/users/2848604), [-Tynamo](https://osu.ppy.sh/users/3638962), [YoshiLover456](https://osu.ppy.sh/users/6843383), [Unique](https://osu.ppy.sh/users/6204231), [saiyo](https://osu.ppy.sh/users/2709574) |
 | ![][flag_UY] | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Rebo](https://osu.ppy.sh/users/6942259), [Raby](https://osu.ppy.sh/users/5218320), [Madozito](https://osu.ppy.sh/users/4054429), [Kazuki K](https://osu.ppy.sh/users/6407282), [Scramzi](https://osu.ppy.sh/users/6425836) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] **United States** (**[AIREU](https://osu.ppy.sh/users/1650010)**, [im a fancy lad](https://osu.ppy.sh/users/4908650), [Woey](https://osu.ppy.sh/users/3792472), [Utami](https://osu.ppy.sh/users/7512553), [kablaze](https://osu.ppy.sh/users/3043603), [fieryrage](https://osu.ppy.sh/users/3533958), [WillCookie](https://osu.ppy.sh/users/6404488), [stackerjoe](https://osu.ppy.sh/users/7279141)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] **South Korea** (**[Luscent](https://osu.ppy.sh/users/2688581)**, [Nopekjk](https://osu.ppy.sh/users/4585186), [FlyingTuna](https://osu.ppy.sh/users/9224078), [flansl](https://osu.ppy.sh/users/673549), [Maiaz](https://osu.ppy.sh/users/6916642), [worst hr player](https://osu.ppy.sh/users/14106450), [Karuna](https://osu.ppy.sh/users/8775024), [\_Suyong](https://osu.ppy.sh/users/7295276)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] **Poland** (**[Bartek22830](https://osu.ppy.sh/users/6404027)**, [WubWoofWolf](https://osu.ppy.sh/users/39828), [Rafis](https://osu.ppy.sh/users/2558286), [twoj stary](https://osu.ppy.sh/users/3543130), [TWOJA STARA](https://osu.ppy.sh/users/8170186), [ChomikBox](https://osu.ppy.sh/users/12408961), [Wilchq](https://osu.ppy.sh/users/2021758), [Malteser](https://osu.ppy.sh/users/5218178)) |
+
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [Renard - Rainbow Dash Likes Girls (Stay Gay Pony Girl) (ztrot) \[Holy Shit! It's Rainbow Dash!!\]](https://osu.ppy.sh/beatmapsets/57255#osu/172662)
+  - [xi - FREEDOM DiVE (Nakagawa-Kanon) \[Another\]](https://osu.ppy.sh/beatmapsets/39804#osu/126645)
+  - [Noisia - Groundhog (Beat Juggle) (Takuma) \[SPIN'S TAG!!\]](https://osu.ppy.sh/beatmapsets/12448#osu/47359)
+  - [t+pazolite - Of course You Need And Need And Need And Need And Need Me (CSY the corrupt) \[Corruption\]](https://osu.ppy.sh/beatmapsets/54004#osu/164432)
+  - [Blind Stare - Shotgun Symphony+ (awp) \[Impossibly Intense\]](https://osu.ppy.sh/beatmapsets/7671#osu/32570)
+  - [Hatsune Miku - Angel Dream (Zekira) \[Taiko Inner Oni (Tatsujin)\]](https://osu.ppy.sh/beatmapsets/12882#osu/48154)
+- Hidden
+  - [O-Life Japan - Greenwich in the Sky (JesusYamato) \[0108 style\]](https://osu.ppy.sh/beatmapsets/31710#osu/109637)
+  - [Basshunter - Ievan Polkka Trance Remix (Teara) \[BeuKirby\]](https://osu.ppy.sh/beatmapsets/10406#osu/66246)
+  - [Savage Garden - I Want You (mtmcl) \[Ridiculous\]](https://osu.ppy.sh/beatmapsets/4548#osu/24428)
+  - [Anant - Grade Eyes - Lock Wind Arrangement (Full Ver) (bodokevin) \[Insane\]](https://osu.ppy.sh/beatmapsets/52192#osu/159662)
+- HardRock
+  - [Team Nekokan - Can't Defeat Airman (Blue Dragon) \[Holy Shit! It's Airman!!\]](https://osu.ppy.sh/beatmapsets/24313#osu/104229)
+  - [Lion - four pieces of heaven (Sprosive) \[AnotheR\]](https://osu.ppy.sh/beatmapsets/52192#osu/159662)
+  - [BoA - Duvet Remix (Saturos-fangirl) \[Losing\]](https://osu.ppy.sh/beatmapsets/7053#osu/30871)
+- DoubleTime & HardRock
+  - [Bowling for Soup - 1985 (Rolled) \[Hito's Insane\]](https://osu.ppy.sh/beatmapsets/2140#osu/19467)
+- DoubleTime
+  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/28107#osu/93842)
+  - [Humanoid - MENDES (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/beatmapsets/21928#osu/75831)
+  - [NicoNicoDouga - Night Of Commands feat. YuGiOh (vytalibus) \[Start!!!!\]](https://osu.ppy.sh/beatmapsets/4823#osu/26397)
+  - [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/16457#osu/58970)
+  - [2MB - Healing Vision - Angelic Mix - (James) \[Insane\]](https://osu.ppy.sh/beatmapsets/1190#osu/12450)
+- Easy
+  - [sampling masters MEGA VS Seiryu - VOX UP (DeeN) \[Sp's Darkness\]](https://cdn.discordapp.com/attachments/414934337981644811/892115833470476348/sampling_masters_MEGA_VS_Seiryu_-_VOX_UP.osz)
+  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (ignorethis) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/40123#osu/139457)
+- Flashlight
+  - [Akita Neru - Gotya Gotya Uruse\~! (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/22182#osu/76638)
+  - [SHIKI - Pure Ruby (Glass) \[Another\]](https://osu.ppy.sh/beatmapsets/20908#osu/82604)
+- Tiebreaker
+  - **[Various Artists - Approved Maps Compilation (AgarSanik) \[Nostalgia\]](https://osu.ppy.sh/beatmapsets/1271587#osu/2642431)**
+
+### Finals
+
+- NoMod
+  - [Tune Up! - Ravers Fantasy (Speed mix) (Louis Cyphre) \[TAG\~IV\]](https://osu.ppy.sh/beatmapsets/45269#osu/141423)
+  - [DragonForce - Fallen World (Jenny) \[Legend\]](https://osu.ppy.sh/beatmapsets/46238#osu/144026)
+  - [Last Note. - Setsuna Trip (val0108) \[DoKo style\]](https://osu.ppy.sh/beatmapsets/58604#osu/177493)
+  - [ZiGZaG HACKER - V\^3 (Hello World) (rustbell) \[2010 MEMORIES\]](https://osu.ppy.sh/beatmapsets/365053#osu/841599)
+  - [System of a Down - Vicinity of Obscenity (Larto) \[Impossible\]](https://osu.ppy.sh/beatmapsets/13768#osu/50712)
+  - [IOSYS - Usatei (Kaeldori) \[dksslqj x cnf\]](https://cdn.discordapp.com/attachments/414934369166163978/795835965238804500/IOSYS_-_Usatei.osz)
+- Hidden
+  - [Asriel - Tsuioku no Chikai (wcx19911123) \[Yuka\]](https://osu.ppy.sh/beatmapsets/35348#osu/115606)
+  - [Susumu Hirasawa - Aurora 2 (NachoPiggy) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10978#osu/49206)
+  - [Shiki - Air (MegaManEXE) \[lol\]](https://osu.ppy.sh/beatmapsets/11485#osu/43845)
+  - [Star\_Dolphin - RetroPoktan (Star\_Dolphin) \[Insane\]](https://osu.ppy.sh/beatmapsets/19047#osu/67141)
+- HardRock
+  - [Yousei Teikoku - Senketsu no Chikai (Saten) \[Insanity v1\]](https://cdn.discordapp.com/attachments/414934369166163978/889495888857276576/Yousei_Teikoku_-_Senketsu_no_Chikai.osz)
+  - [Hatsune Miku - Tadiu Jinkaku (v4\_mizuki) \[Hard \^q\^\]](https://cdn.discordapp.com/attachments/414934369166163978/795833279055528006/Hatsune_Miku_-_Tadiu_Jinkaku.osz)
+  - [Magical Trick Society - Phoenix Wright \~ Objection! (eyup) \[Insane\]](https://osu.ppy.sh/beatmapsets/131#osu/292)
+- DoubleTime & HardRock
+  - [Beyonce feat. Jay-Z - Crazy in Love (kingcobra52) \[CrazEEeee\]](https://osu.ppy.sh/beatmapsets/11999#osu/46401)
+- DoubleTime
+  - [Family Mart Jingle (deepsea) \[Family Mart is Your Home\]](https://osu.ppy.sh/beatmapsets/9400#osu/37658)
+  - [Kokuyasou - UroboroS-Infinity (Kite) \[Insane\]](https://osu.ppy.sh/beatmapsets/29257#osu/97134)
+  - [Wayne Lytle - Pipe Dream (Tanmak) \[Insane\]](https://osu.ppy.sh/beatmapsets/9850#osu/38912)
+  - [Hanazawa Kana - Renai Circulation (Full ver.) (DJPop) \[TAG2\]](https://osu.ppy.sh/beatmapsets/12563#osu/48874)
+- Easy
+  - [kemu - Ikasama Life Game (a3272509123) \[Skystar\]](https://osu.ppy.sh/beatmapsets/59792#osu/187501)
+  - [TOMOSUKE - Macuilxochitl (Sprosive) \[Extreme\]](https://osu.ppy.sh/beatmapsets/40371#osu/128132)
+- Flashlight
+  - [KOTOKO - Wing my Way (Nekomiya Nono) \[v2b\]](https://osu.ppy.sh/beatmapsets/12035#osu/46827)
+  - [Sul Woondo - Twist of Love (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/56819#osu/171622)
+- Tiebreaker
+  - **[Various Artists - jubeat Boss Stages Compilation (kiddly) \[Extreme\]](https://osu.ppy.sh/beatmapsets/37558#osu/120706)**
+
+### Semifinals
+
+- NoMod
+  - [IOSYS - Hiroshi Urara Jinja Chounai Kai (Zapy) \[Insane\]](https://cdn.discordapp.com/attachments/414934337981644811/887022128430469160/IOSYS_-_Hiroshi_Urara_Jinja_Chounai_Kai.osz)
+  - [wac - neu (Nakagawa-Kanon) \[Music (OMF Edit)\]](https://cdn.discordapp.com/attachments/414934337981644811/887022165193551893/wac_-_neu.osz)
+  - [EZFG - Hurting for a Very Hurtful Pain (tutuhaha) \[Dance\]](https://osu.ppy.sh/beatmapsets/46848#osu/145669)
+  - [Renard - The Club (jericho2442) \[Pure MADNESS!!!!\]](https://osu.ppy.sh/beatmapsets/28156#osu/93981)
+  - [Robert Prince - At Doom's Gate (AdvanceBoy) \[NIGHTMARE!! (OMF Edit)\]](https://cdn.discordapp.com/attachments/414934337981644811/886921041933402113/Robert_Prince_-_At_Dooms_Gate.osz)
+  - [Katou Emiri - Kenka Yohou no Jikan dayo (Mimuki232) \[RoxKyuubi's Insane\]](https://osu.ppy.sh/beatmapsets/7182#osu/34760)
+- Hidden
+  - [DJ Sharpnel - Siin (Vibty99) \[Insane\]](https://osu.ppy.sh/beatmapsets/8400#osu/34551)
+  - [A. Tanaka. M. Matsuda - Ooparts (awp) \[Ultimate\]](https://osu.ppy.sh/beatmapsets/5239#osu/26153)
+  - [Tatsh - Xepher-Long Version (Aeon) \[Aeon (OMF Edit)\]](https://cdn.discordapp.com/attachments/414934337981644811/887022356894195782/Tatsh_-_Xepher-Long_Version.osz)
+- HardRock
+  - [Hatsune Miku - Sakura Zensen Ijou Nashi (Lalarun) \[Ijou Nashi\]](https://osu.ppy.sh/beatmapsets/32021#osu/104945)
+  - [AFI - Miss Murder (Mashley) \[Insane\]](https://osu.ppy.sh/beatmapsets/34441#osu/111933)
+- DoubleTime & HardRock
+  - [Nickelback - Animals (Rolled) \[Hard\]](https://osu.ppy.sh/beatmapsets/1871#osu/17022)
+- DoubleTime
+  - [Minibosses - Castlevania (m980) \[owc Finals\]](https://cdn.discordapp.com/attachments/414934337981644811/887022295346995230/Minibosses_-_Castlevania.osz)
+  - [SUPER STAR -MITSURU- - ALL MY TURN (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/beatmapsets/30877#osu/101713)
+  - [Rihanna ft. Jay-Z - Umbrella (Agent Spin Here) \[Insane\]](https://osu.ppy.sh/beatmapsets/9873#osu/38971)
+  - [Owl City - Hello Seattle (Remix) (JauiPlaY) \[Goodbye\]](https://osu.ppy.sh/beatmapsets/41893#osu/136556)
+- Easy
+  - [IA - Six Trillion Years and Overnight Story (NatsumeRin) \[108\]](https://osu.ppy.sh/beatmapsets/51245#osu/157861)
+  - [Megurine Luka - Blue Amber (-Upari) \[Upari\]](https://osu.ppy.sh/beatmapsets/44807#osu/140390)
+- Flashlight
+  - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (Aleks719) \[Hard\]](https://osu.ppy.sh/beatmapsets/65853#osu/193436)
+  - [Weird Al Yankovic - Hardware Store (kingcobra52) \[Impossible\]](https://osu.ppy.sh/beatmapsets/2042#osu/18682)
+- Tiebreaker
+  - **[Susumu Hirasawa - KIRBY Mix Compilation (Gcode) \[KIRBY Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/28158#osu/96684)**
+
+### Quarterfinals
+
+**[Download the mappack here! (144 MB)](https://drive.google.com/file/d/1crqvNgm_rRah-cwWgtwUXrR-GUXQaZyJ/view?usp=sharing)**
+
+- NoMod
+  - [dBu - Shoujyo Gensou Senritsukyoku \~ Necro Fantasia (Aliza Margaretha) \[Normal+ (OMF Edit)\]](https://cdn.discordapp.com/attachments/414934337981644811/884321180239163392/dBu_-_Shoujyo_Gensou_Senritsukyoku__Necro_Fantasia.osz)
+  - [Hatsune Miku - Hyper LATiON (Lan wings) \[Die (OMF Edit)\]](https://cdn.discordapp.com/attachments/414934337981644811/884030191138123786/Hatsune_Miku_-_Hyper_LATiON.osz)
+  - [Beatdrop - Phase 1 (rickyboi) \[SHD\]](https://osu.ppy.sh/beatmapsets/54511#osu/168031)
+  - [paraoka - boot (Laurier) \[108\]](https://osu.ppy.sh/beatmapsets/50479#osu/171256)
+  - [Aquaelie - Xi - Touhou Medley\~Condensed Special (lukewarmholiday) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/6059#osu/28380)
+  - [M2U - BlythE (Osuka) (ziin) \[Maniac\]](https://osu.ppy.sh/beatmapsets/26932#osu/94944)
+- Hidden
+  - [t+pazolite - Luv-Lab-Poison 22ate! (Xgor) \[Xtreme\]](https://osu.ppy.sh/beatmapsets/9029#osu/38426)
+  - [NAOKI feat. Aleisha G - A Brighter Day (Jerrysr) \[Madness\]](https://osu.ppy.sh/beatmapsets/16956#osu/60777)
+  - [Johannes Brahms - Impromptus No.18 (AngelHoney) \[Challenging\]](https://osu.ppy.sh/beatmapsets/13991#osu/51439)
+- HardRock
+  - [Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)
+  - [Ayumi Hamasaki - Evolution (Time Is Pop) (Aqua92) \[Larto's Insane\]](https://osu.ppy.sh/beatmapsets/4685#osu/28137)
+- DoubleTime & HardRock
+  - [hitomi - Go My Way (Mifune24) \[Insane\]](https://osu.ppy.sh/beatmapsets/661#osu/3629)
+- DoubleTime
+  - [Beautiful Day - V3 (ignorethis) \[yaya's Insane\]](https://osu.ppy.sh/beatmapsets/4622#osu/36524)
+  - [Tatsh feat. Tsukiko - Floating Darkness (Natteke) \[Collab\]](https://osu.ppy.sh/beatmapsets/22173#osu/76612)
+  - [Inoue Marina - Pieces of Sweet Stars (whymeman) \[S.t.a.r.S\]](https://osu.ppy.sh/beatmapsets/8436#osu/34657)
+- Easy
+  - [Hiroyuki Sawano feat. Mika Kobayashi - Bios (goodbye) \[LKs' Another\]](https://osu.ppy.sh/beatmapsets/43674#osu/137766)
+  - [Caravan Palace - Dragons (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/46733#osu/145361)
+- Flashlight
+  - [IOSYS - Miracle-Hinacle (vincerio) \[Miracle-Lolicle\]](https://osu.ppy.sh/beatmapsets/20210#osu/71842)
+  - [07th Expansion - the executioner (Natteke) \[Hard\]](https://osu.ppy.sh/beatmapsets/27146#osu/91198)
+- Tiebreaker
+  - **[Various Artist - osu! Miku Compilation (JappyBabes) \[Marathon (OMF Edit)\]](https://zntz.s-ul.eu/UW0j5Qfw)**
 
 ### Round of 16
 
@@ -213,6 +357,8 @@ The Old Map Fantasy World Cup is run by various community members.
 
 ### Qualifiers
 
+**[Download the mappack here! (61 MB)](https://cdn.discordapp.com/attachments/414934337981644811/874338198485106729/Qualifiers_Mappack.7z)**
+
 - NoMod
   - [Susumu Hirasawa - The Secret of The Flowers of Phenomenon (jesus1412) \[Insane\]](https://osu.ppy.sh/beatmapsets/70247#osu/201974)
   - [O-Life Japan - Yakujinsama no Couple Dance (AngelHoney) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/16990#osu/95954)
@@ -233,6 +379,151 @@ The Old Map Fantasy World Cup is run by various community members.
   - [Pendulum - The Vulture (La Cataline) \[Insane\]](https://osu.ppy.sh/beatmapsets/24163#osu/82249)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 2 October 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/91801182) |
+
+Sunday, 3 October 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **7** | 3 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/91865778) |
+
+### Finals
+
+Saturday, 25 September 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/91456788) |
+| Finland ![][flag_FI] | 4 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/91460744) |
+
+Sunday, 26 September 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/91517880) |
+| Poland ![][flag_PL] | 1 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/91532008) |
+
+### Semifinals
+
+Saturday, 18 September 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ![][flag_KR] | 4 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/91098751) |
+| United Kingdom ![][flag_GB] | 2 | **6** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/91105128) |
+| **Hong Kong** ![][flag_HK] | **6** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/91110899) |
+| **United States** ![][flag_US] | **6** | 1 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/91118282) |
+| Brazil ![][flag_BR] | 3 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/91118278) |
+
+Sunday, 19 September 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States B ![][flag_US] | 5 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/91141152) |
+| **Hong Kong** ![][flag_HK] | **6** | 3 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/91145501) |
+| France ![][flag_FR] | 4 | **6** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/91167258) [#2](https://osu.ppy.sh/community/matches/91168915) |
+
+### Quarterfinals
+
+The stats of the Quarterfinals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1NmiTdcg6cNe1-IfB5WS-UVJSCzacshCGVyisr9kj3zo/edit#gid=150418322).
+
+Friday, 10 September 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Indonesia ![][flag_ID] | 4 | **6** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/90664912) |
+
+Saturday, 11 September 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Singapore ![][flag_SG] | 5 | **6** | ![][flag_PE] **Peru** | [#1](https://osu.ppy.sh/community/matches/90713398) |
+| China ![][flag_CN] | 5 | **6** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/90730667) |
+| **France** ![][flag_FR] | **6** | 5 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/90735710) |
+| **Russian Federation B** ![][flag_RU] | **0** | -1 | ![][flag_AU] Austria | *forfeit* |
+| **Russian Federation** ![][flag_RU] | **6** | 3 | ![][flag_CA] Canada B | [#1](https://osu.ppy.sh/community/matches/90750093) |
+| **Canada** ![][flag_CA] | **6** | 5 | ![][flag_PL] Poland B | [#1](https://osu.ppy.sh/community/matches/90754244) |
+
+Sunday, 12 September 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Taiwan** ![][flag_TW] | **6** | 5 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/90776350) |
+| **France** ![][flag_FR] | **6** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/90795660) |
+| Hong Kong ![][flag_HK] | 2 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/90798956) |
+| **Romania** ![][flag_RO] | **6** | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/90799071) |
+| United Kingdom ![][flag_GB] | 5 | **6** | ![][flag_FI] **Finland** | [#1](https://osu.ppy.sh/community/matches/90802153) |
+| **South Korea** ![][flag_KR] | **6** | 5 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/community/matches/90802301) |
+| **Canada** ![][flag_CA] | **6** | 2 | ![][flag_RU] Russian Federation B | [#1](https://osu.ppy.sh/community/matches/90805086) |
+
+Monday, 13 September 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **6** | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/90822624) |
+
+Wednesday, 15 September 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Russian Federation** ![][flag_RU] | **6** | 4 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/90954061) |
+
+### Round of 16
+
+The stats of the Round of 16 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1knfHHDBpr755Zw2F7N2xuCchmphp71uLbiTTHhFyouQ/edit?usp=sharing).
+
+Saturday, 4 September 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Australia** ![][flag_AU] | **6** | 0 | ![][flag_AR] Argentina B | [#1](https://osu.ppy.sh/community/matches/90349827) |
+| **Thailand** ![][flag_TH] | **6** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/90370589) |
+| **Romania** ![][flag_RO] | **6** | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/90370929) |
+| **Japan** ![][flag_JP] | **6** | 5 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/90370226) |
+| **Austria** ![][flag_AT] | **6** | 1 | ![][flag_HK] Hong Kong B | [#1](https://osu.ppy.sh/community/matches/90373397) |
+| France B ![][flag_FR] | 4 | **6** | ![][flag_ES] **Spain** | [#1](https://osu.ppy.sh/community/matches/90381476) |
+| **Brazil B** ![][flag_BR] | **6** | 0 | ![][flag_FI] Finland B | [#1](https://osu.ppy.sh/community/matches/90385407) |
+| **Chile** ![][flag_CL] | **6** | 1 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/90385405) |
+| **Sweden** ![][flag_SE] | **6** | 2 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/90385403) |
+| **Argentina** ![][flag_AR] | **0** | -1 | ![][flag_CZ] Czechia | *forfeit* |
+| **Peru** ![][flag_PE] | **0** | -1 | ![][flag_SK] Slovakia | *forfeit* |
+| Italy ![][flag_IT] | 5 | **6** | ![][flag_DE] **Germany B** | [#1](https://osu.ppy.sh/community/matches/90385591) |
+| **Poland B** ![][flag_PL] | **6** | 4 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/90389224) |
+| **Canada B** ![][flag_CA] | **6** | 2 | ![][flag_UY] Uruguay | [#1](https://osu.ppy.sh/community/matches/90396245) |
+
+Sunday, 5 September 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Canada B** ![][flag_CA] | **6** | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/90407086) |
+| **United States** ![][flag_US] | **6** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/90409718) |
+| China ![][flag_CN] | 3 | **6** | ![][flag_US] **United States B** | [#1](https://osu.ppy.sh/community/matches/90411955) |
+| **Hong Kong** ![][flag_HK] | **6** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/90417905) |
+| **Australia** ![][flag_AU] | **6** | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/90426376) |
+| Japan ![][flag_JP] | 5 | **6** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/90426159) |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/90428611) |
+| **Germany** ![][flag_DE] | **6** | 0 | ![][flag_NL] Netherlands B | [#1](https://osu.ppy.sh/community/matches/90431069) |
+| Spain ![][flag_ES] | -1 | **0** | ![][flag_AT] **Austria** | *forfeit* |
+| France ![][flag_FR] | 3 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/90431565) |
+| **United Kingdom** ![][flag_GB] | **6** | 0 | ![][flag_RU] Russian Federation B | [#1](https://osu.ppy.sh/community/matches/90433161) |
+| Countryless ![][flag___] | 0 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/90433506) |
+| Russian Federation ![][flag_RU] | 4 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/90433508) |
+| **Argentina** ![][flag_AR] | **6** | 2 | ![][flag_DE] Germany B | [#1](https://osu.ppy.sh/community/matches/90442198) |
+| **Poland B** ![][flag_PL] | **6** | 5 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/90442195) |
+| **Peru** ![][flag_PE] | **6** | 1 | ![][flag_BR] Brazil B | [#1](https://osu.ppy.sh/community/matches/90451042) |
+
+Monday, 6 September 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Canada ![][flag_CA] | 2 | **6** | ![][flag_FI] **Finland** | [#1](https://osu.ppy.sh/community/matches/90491610) |
 
 ### Round of 32
 
