@@ -64,7 +64,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
   - **...lower than 2:30**, the lowest difficulty of each included keymode cannot be harder than a Normal, **OR** each keymode must provide a spread starting at least 3 difficulty levels below the highest difficulty.
   - **...between 2:30 and 3:15**, the lowest difficulty of each included keymode cannot be harder than a Hard, **OR** each keymode must provide a spread starting at least 2 difficulty levels below the highest difficulty.
   - **...between 3:15 and 4:00**, the lowest difficulty of each included keymode cannot be harder than an Insane, **OR** each keymode must provide a spread starting at least 1 difficulty level below the highest difficulty.
-- For difficulties above the lowest required difficulty level, the formed spread cannot skip any difficulty levels and there cannot be any drastically large difficulty gaps between any two difficulties. On difficulties Insane and harder, a proper spread is defined by relative difficulty gaps similar to those formally defined between lower difficulties.
+- On difficulties Insane and harder, a proper spread is defined by relative difficulty gaps similar to those formally defined between lower difficulties.
 
 ### Guidelines
 
