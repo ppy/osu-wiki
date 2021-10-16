@@ -9,7 +9,7 @@ Les reports accidentels sont ignorés. Les utilisateurs qui envoient délibéré
 | Nature de l'infraction | Point de contact |
 | :-- | :-- |
 | Messages privés offensants | **Aucun** : [ignorez l'utilisateur](/wiki/Chat_Console#la-liste-des-commandes). Pour un effet permanent, utilisez la liste d'ignorés du jeu située dans les [options](/wiki/Options). |
-| Infractions liées au modding et/ou au mapping | NAT, via le site web [NAT/BN Management] (https://bn.mappersguild.com/reports) |
+| Infractions liées au modding et/ou au mapping | NAT, via le site web [NAT/BN Management](https://bn.mappersguild.com/reports) |
 | Comportement inapproprié d'un membre de la [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) ou de la [GMT](/wiki/People/The_Team/Global_Moderation_Team). | L'[équipe de support aux comptes](/wiki/People/The_Team/Account_support_team) à [support@ppy.sh](mailto:support@ppy.sh) |
 | Abus sexuel ou mauvais comportement extrême | Voir [Signaler un abus](/wiki/Reporting_Bad_Behaviour/Abuse) |
 
