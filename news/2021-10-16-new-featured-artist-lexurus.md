@@ -15,7 +15,7 @@ We rounded up **11** relaxing yet captivating tracks for you to slap some beatma
 **Lexurus**'s sound is familiar to anyone who keeps an eye on osu!'s drum & bass scene. If you're not in the loop however, you're lucky — you can indulge in the ephemeral feeling of listening to **Lexurus** for the first time. See what that's like through drum & bass aficionado [Strategas](https://osu.ppy.sh/users/2971837)'s newest beatmap in this video, then check out the other previews below!
 
 <div align="center">
-    <video width="95%" controls>
+    <video width="100%" controls>
         <source src="https://assets.ppy.sh/artists/208/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
@@ -25,7 +25,7 @@ We rounded up **11** relaxing yet captivating tracks for you to slap some beatma
 Experience [the beatmap above](https://osu.ppy.sh/beatmapsets/1572918) for yourself!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/208/Take%20Me%20Away/Lexurus%20-%20Take%20Me%20Away.mp3" type="audio/mpeg">
 </audio>
 
 ### About You (feat. Luna)
@@ -33,19 +33,19 @@ Experience [the beatmap above](https://osu.ppy.sh/beatmapsets/1572918) for yours
 Try out [this beatmap](https://osu.ppy.sh/beatmapsets/903055) hosted by [Niva](https://osu.ppy.sh/users/197805) from **Lexurus**'s High Tea Music collection!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/208/Lexurus%20-%20About%20You%20-%20Static%20Groove/Lexurus%20-%20About%20You%20(feat.%20Luna).mp3" type="audio/mpeg">
 </audio>
 
 ### Magnify (feat. Rhode)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/208/Waveline/Lexurus%20-%20Magnify%20(feat.%20Rhode).mp3" type="audio/mpeg">
 </audio>
 
-### Crystalize
+### Out Of Love (feat. Leah Rye) 
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/208/Out%20Of%20Love/Lexurus%20-%20Out%20Of%20Love%20(feat.%20Leah%20Rye).mp3" type="audio/mpeg">
 </audio>
 
 ---
