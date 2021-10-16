@@ -82,3 +82,5 @@ If you were a Beatmap Nominator before, these requirements apply unless you have
 | Standard | 60 days | `ModScore` greater than 0 over 60 days |
 | Activity | 30 days | `ModScore` irrelevant, but 8 mods in 60 days |
 | Good | 30 days | `ModScore` greater than 0 over 30 days |
+
+Former Beatmap Nominators who resigned on good terms within the past year will become full members immediately upon rejoining.

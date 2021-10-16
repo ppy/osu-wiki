@@ -5,8 +5,6 @@ tags:
   - Easy
   - mod
   - game modifier
-outdated: true
-outdated_since: 6b8516026e4a60ca416f3f5569887e4d548cce5e
 ---
 
 # Easy (mod)
@@ -44,7 +42,7 @@ Di [osu!](wiki/Game_Modes/osu!), mod Easy menurunkan setengah dari [circle size 
 
 ![Gameplay EZ pada standard](img/EZ-comparison-osu.jpg "Perbandingan antara permainan biasa (kiri) dan permainan dengan mod Easy (kanan) pada osu!")
 
-Meskipun demikian, perlu diingat bahwa banyak pemain yang menganggap bahwa penggunaan mod Easy dapat membantu dalam mengurangi kesulitan dari beatmap, terutama yang berintensitas tinggi. Argumen untuk hal ini adalah bahwa penurunan approach rate justru menciptakan kekacauan, dan situasi ini menyebabkan pemain sulit untuk membaca karena kecepatan sebenarnya dari beatmap tersebut tidak divisualisasikan dengan baik (ditampilkan di bawah).
+Meskipun demikian, perlu diingat bahwa banyak pemain yang menganggap bahwa penggunaan mod Easy dapat membantu dalam mengurangi kesulitan dari beatmap, terutama yang berintensitas tinggi. Argumen untuk hal ini adalah bahwa penurunan approach rate justru menciptakan kekacauan, dan situasi ini menyebabkan pemain sulit untuk membaca karena kecepatan sebenarnya dari beatmap tersebut tidak divisualisasikan dengan baik (ditampilkan di atas).
 
 *Catatan: Poin-poin yang disebutkan di atas diuraikan pada "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)", sebuah permohonan fitur untuk meningkatkan mod ini.*
 

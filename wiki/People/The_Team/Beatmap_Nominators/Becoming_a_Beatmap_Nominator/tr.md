@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmap Aday Gösterici olma
 
 [Beatmap Aday Göstericilere](/wiki/People/The_Team/Beatmap_Nominators) katılmak isteyen kullanıcıların [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) tarafından yönetilen bir başvuru sürecinden geçmesi gerekir. Başvurular [NAT websitesi](http://bn.mappersguild.com/) üzerinden yürütülür.
