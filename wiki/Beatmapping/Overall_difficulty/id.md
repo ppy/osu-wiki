@@ -29,7 +29,7 @@ Jika pemain menekan hit object diluar dari 50 hit window, itu akan dihitung seba
 
 ## Sliders dan spinners
 
-Di [osu!](/wiki/Game_mode/osu!), sliders akan memberikan 300 selama mereka hit dalam 50 hit window. Ini terkadang disebut sebagai *slideracc* dan dihapus di dalam ScoreV2<!-- TODO: link -->.
+Di [osu!](/wiki/Game_mode/osu!), sliders akan memberikan 300 selama mereka hit dalam 50 hit window. Ini terkadang disebut sebagai *slideracc* dan dihapus di dalam [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
 Overall difficulty juga berefek pada spinner, dimana mereka harus memutar lebih untuk mengisi pengukur pada waktunya. Di [osu!taiko](/wiki/Game_mode/osu!taiko), denden juga membutuhkan hit yang lebih banyak untuk diselesaikan. Spin per detik sangat dibutuhkan untuk menyelesaikan spinner, yang dimana akan dijelaskan dengan rumus berikut:
 

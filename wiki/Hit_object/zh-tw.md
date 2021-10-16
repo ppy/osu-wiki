@@ -9,7 +9,7 @@ no_native_review: true
 
 *打擊物件*是玩家在遊玩[圖譜](/wiki/Beatmap)時能夠互動的元件。每個[遊戲模式](/wiki/Game_mode)都有其專屬的打擊物件，以給予獨一無二的遊戲體驗。關於每個遊戲模式中的打擊物件的概覽，請見下表：
 
-| osu! | osu!taiko | osu!catch | osu!mania |
+| [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
 | [打擊圓圈](/wiki/Hit_object/Hit_circle) | 打擊圓圈 | [水果](/wiki/Hit_object/Fruit) | 音符 |
 | [滑條](/wiki/Hit_object/Slider) | 連打 | [果汁](/wiki/Hit_object/Juice_stream) | 長條 |
