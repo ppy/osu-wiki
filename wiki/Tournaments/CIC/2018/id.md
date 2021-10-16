@@ -47,9 +47,9 @@ tags:
 ## Tautan Terkait
 
 - [Topik diskusi](https://osu.ppy.sh/community/forums/topics/780969)
-- [CIC 2018 Discord](http://discord.gg/dKcVbWE "Discord")
-- [Siaran langsung](https://www.twitch.tv/osuindonesia "Twitch")
-- [Bagan Challonge](https://challonge.com/CIC2018 "Challonge")
+- [CIC 2018 Discord](http://discord.gg/dKcVbWE)
+- [Siaran langsung](https://www.twitch.tv/osuindonesia)
+- [Bagan Challonge](https://challonge.com/CIC2018)
 
 ## Peserta
 
@@ -70,7 +70,7 @@ tags:
 
 ### Final
 
-**[Unduh mappack disini! (125 MB)](https://ritsu.s-ul.eu/ll4eK9XS "s-ul")**
+**[Unduh mappack disini! (125 MB)](https://ritsu.s-ul.eu/ll4eK9XS)**
 
 - NoMod
   - [Studio EIM - Crescent Moon Island Boss Theme (Emiru) \[Keaghan\]](https://osu.ppy.sh/beatmapsets/817364#fruits/1714006)
@@ -99,7 +99,7 @@ tags:
 
 ### Semifinal
 
-**[Unduh mappack disini! (110 MB)](https://ritsu.s-ul.eu/Si0ewAh0 "s-ul")**
+**[Unduh mappack disini! (110 MB)](https://ritsu.s-ul.eu/Si0ewAh0)**
 
 - NoMod
   - [NeLiME - CODE NAME : GAMMA (Hareimu) \[Chaos\]](https://osu.ppy.sh/beatmapsets/815067#fruits/1709451)
@@ -127,7 +127,7 @@ tags:
 
 ### Perempat Final
 
-**[Unduh mappack disini! (88 MB)](https://ritsu.s-ul.eu/xdic7Hmq "s-ul")**
+**[Unduh mappack disini! (88 MB)](https://ritsu.s-ul.eu/xdic7Hmq)**
 
 - NoMod
   - [OISHII - PIZZA PLAZA (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/767009#fruits/1612277)
@@ -151,7 +151,7 @@ tags:
 
 ### Babak 16 Besar
 
-**[Unduh mappack disini! (64 MB)](http://ritsu.s-ul.eu/7tEXfmjV "s-ul")**
+**[Unduh mappack disini! (64 MB)](http://ritsu.s-ul.eu/7tEXfmjV)**
 
 - NoMod
   - [40mP feat.yuikonnu - Ame to Asphalt (-wwwww) \[Downpour\]](https://osu.ppy.sh/beatmapsets/658705#fruits/1395111)
@@ -172,7 +172,7 @@ tags:
 
 ### Babak Grup
 
-**[Unduh mappack disini! (79 MB)](http://ritsu.s-ul.eu/ZNs2PEAy "s-ul")**
+**[Unduh mappack disini! (79 MB)](http://ritsu.s-ul.eu/ZNs2PEAy)**
 
 - NoMod
   - [SMiLE.dk - GOLDEN SKY (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/749378#fruits/1578433)

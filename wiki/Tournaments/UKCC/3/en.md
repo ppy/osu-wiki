@@ -39,10 +39,10 @@ The UK Community Cup 3 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/589295?n=1)
-- [Bracket spreadsheet](https://docs.google.com/spreadsheets/d/1ZpBZEMRNdjIINOwxY3qJ52W6cNiXuGOaOIfQM_fAZXU/edit?usp=sharing "Google Sheets")
-- [Discord](https://discord.gg/EtsU7Cw "Discord")
-- [Livestream](https://twitch.tv/osuukcc "Twitch")
-- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1WZEaRaGKC9i67Sa68eaW-fEw6wXTpfklMgyzczr7JJ4/edit?usp=sharing "Google Sheets")
+- [Bracket spreadsheet](https://docs.google.com/spreadsheets/d/1ZpBZEMRNdjIINOwxY3qJ52W6cNiXuGOaOIfQM_fAZXU/edit?usp=sharing)
+- [Discord](https://discord.gg/EtsU7Cw)
+- [Livestream](https://twitch.tv/osuukcc)
+- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1WZEaRaGKC9i67Sa68eaW-fEw6wXTpfklMgyzczr7JJ4/edit?usp=sharing)
 
 ## Participants
 
@@ -294,7 +294,7 @@ Sunday, 10 September 2017:
 
 ### Finals
 
-#### Winner Finals
+#### Winners Finals
 
 Saturday, 12 August 2017:
 
@@ -310,7 +310,7 @@ Saturday, 12 August 2017:
 | --: | :-: | :-: | :-- |
 | **Karthy** ![][flag_GB] | **7** | 1 | ![][flag_GB] helix |
 
-#### Loser Finals
+#### Losers Finals
 
 Sunday, 13 August 2017:
 

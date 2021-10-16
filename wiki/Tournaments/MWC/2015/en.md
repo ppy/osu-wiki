@@ -50,7 +50,7 @@ The osu!mania 4K World Cup 2015 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/345431)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Livestream](https://www.twitch.tv/osulive)
 
 ## Participants
 
@@ -114,7 +114,7 @@ The osu!mania 4K World Cup 2015 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-**[Download the mappack here!](https://www.mediafire.com/download/3z76r2xd707sl2n/MWC_4K_2015_Finals.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/3z76r2xd707sl2n/MWC_4K_2015_Finals.rar)**
 
 - FreeMod
   - [LeaF - LeaF Style Super Shredder (Cherry Blossom) \[Fullerene's 4K Shredder\]](https://osu.ppy.sh/beatmapsets/179779#mania/443034)
@@ -140,7 +140,7 @@ The osu!mania 4K World Cup 2015 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here!](https://www.mediafire.com/download/mwzkd8fx1hb8973/MWC_4K_2015_Semifinals.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/mwzkd8fx1hb8973/MWC_4K_2015_Semifinals.rar)**
 
 - FreeMod
   - [you - Hold Angel (Shoegazer) \[Insane\]](https://osu.ppy.sh/beatmapsets/292422#mania/763511)
@@ -164,7 +164,7 @@ The osu!mania 4K World Cup 2015 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here!](https://www.mediafire.com/download/0dhr36bhyp8lzwb/MWC_4K_2015_Quarter_Finals.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/0dhr36bhyp8lzwb/MWC_4K_2015_Quarter_Finals.rar)**
 
 - FreeMod
   - [xi - Garyou Tensei (LNP-) \[4K MX\]](https://osu.ppy.sh/beatmapsets/210610#mania/530544)
@@ -186,7 +186,7 @@ The osu!mania 4K World Cup 2015 was run by various community members.
 
 ### Round of 16
 
-**[Download the map pack here!](https://www.mediafire.com/download/a2deedhozg0wzcm/MWC_4K_2015_Round_of_16_.rar "MediaFire")**
+**[Download the map pack here!](https://www.mediafire.com/download/a2deedhozg0wzcm/MWC_4K_2015_Round_of_16_.rar)**
 
 - FreeMod
   - [Junk - Qualia (Mashiro-Fang) \[S.Star's 4K MX\]](https://osu.ppy.sh/beatmapsets/177155#mania/432217)
@@ -208,7 +208,7 @@ The osu!mania 4K World Cup 2015 was run by various community members.
 
 ### Group stage
 
-**[Download the map pack here!](https://www.mediafire.com/download/ea93b8bb99w1vt5/MWC_4K_2015_Group_Stage.rar "MediaFire")**
+**[Download the map pack here!](https://www.mediafire.com/download/ea93b8bb99w1vt5/MWC_4K_2015_Group_Stage.rar)**
 
 - FreeMod
   - [Qrispy Joybox - snow prism (LNP-) \[MX\]](https://osu.ppy.sh/beatmapsets/186096#mania/487578)

@@ -53,10 +53,10 @@ Yaz's Summer Cup 2021 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1335239)
-- [Challonge](https://challonge.com/YSC2021 "Challonge")
-- [Discord](https://discord.gg/brQzjbb "Discord")
-- [Livestream](https://www.twitch.tv/summer_cup_osu "Twitch")
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1TnWnJybwGGLriorS9LkhrTJvq0D0yVbQBR3YF-flY7E/edit?usp=sharing "Google Sheets")
+- [Challonge](https://challonge.com/YSC2021)
+- [Discord](https://discord.gg/brQzjbb)
+- [Livestream](https://www.twitch.tv/summer_cup_osu)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1TnWnJybwGGLriorS9LkhrTJvq0D0yVbQBR3YF-flY7E/edit?usp=sharing)
 
 ## Participants
 
@@ -67,7 +67,7 @@ Yaz's Summer Cup 2021 was run by various community members.
 | 33-48 | ![][flag_PL] [Mastasz](https://osu.ppy.sh/users/1876565), ![][flag_RU] [Dizick](https://osu.ppy.sh/users/5014197), ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837), ![][flag_US] [Venpris](https://osu.ppy.sh/users/8861593), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_SE] [Saika0k1](https://osu.ppy.sh/users/4316633), ![][flag_AR] [Pein](https://osu.ppy.sh/users/2212941), ![][flag_LV] [Akolibed](https://osu.ppy.sh/users/9269034), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106), ![][flag_PL] [Aldrouch](https://osu.ppy.sh/users/5575135), ![][flag_US] [Spev](https://osu.ppy.sh/users/9047729), ![][flag_AU] [GranDSenpaiu](https://osu.ppy.sh/users/3997580), ![][flag_AU] [Vivace](https://osu.ppy.sh/users/3698691), ![][flag_RU] [Leva\_Russian](https://osu.ppy.sh/users/5199332), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) |
 | 49-64 | ![][flag_US] [AlmightyDoor](https://osu.ppy.sh/users/11715109), ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_US] [-Arko](https://osu.ppy.sh/users/8802914), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761), ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458), ![][flag_US] [FlashoFoSho](https://osu.ppy.sh/users/4755314), ![][flag_GB] [Kerantina](https://osu.ppy.sh/users/7516484), ![][flag_BR] [Astris](https://osu.ppy.sh/users/6173856), ![][flag_AU] [Arbusion](https://osu.ppy.sh/users/11469447), ![][flag_US] [Jakson](https://osu.ppy.sh/users/8788058), ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_JP] [haga1115](https://osu.ppy.sh/users/6574823), ![][flag_UY] [Rebo](https://osu.ppy.sh/users/6942259), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_PL] [gogos19](https://osu.ppy.sh/users/12009458), ![][flag_JP] [\_tottoko\_](https://osu.ppy.sh/users/8354698) |
 
-See the [participants sheet](https://docs.google.com/spreadsheets/d/1TnWnJybwGGLriorS9LkhrTJvq0D0yVbQBR3YF-flY7E/edit#gid=395382951 "Google Sheets") for a list of all initial participants.
+See the [participants sheet](https://docs.google.com/spreadsheets/d/1TnWnJybwGGLriorS9LkhrTJvq0D0yVbQBR3YF-flY7E/edit#gid=395382951) for a list of all initial participants.
 
 ## Podium
 
@@ -114,7 +114,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (146 MB)](https://drive.google.com/file/d/1y_rLtnc3TOfFtt5NVZBlE-yhQ23I0e2L/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (146 MB)](https://drive.google.com/file/d/1y_rLtnc3TOfFtt5NVZBlE-yhQ23I0e2L/view?usp=sharing)**
 
 - NoMod
   - [Masa - Kitsune no Yomeiri (Roll\_Pan) [Crazy]](https://osu.ppy.sh/beatmapsets/352624#osu/777074)
@@ -171,7 +171,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (132 MB)](https://drive.google.com/file/d/1fnkDSXNKZR6dwZ8kbaXskqc0i9hXeMAl/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (132 MB)](https://drive.google.com/file/d/1fnkDSXNKZR6dwZ8kbaXskqc0i9hXeMAl/view?usp=sharing)**
 
 - NoMod
   - [wowaka - Unhappy Refrain (BarkingMadDog) [EX Extreme]](https://osu.ppy.sh/beatmapsets/1075607#osu/2250670)
@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (124 MB)](https://drive.google.com/file/d/1xRN7xsz4SgXg_5Il6-SDDYJ2okCfzgCC/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (124 MB)](https://drive.google.com/file/d/1xRN7xsz4SgXg_5Il6-SDDYJ2okCfzgCC/view?usp=sharing)**
 
 - NoMod
   - [TUYU - Namikare (SnowNiNo\_) [Withering Tears]](https://osu.ppy.sh/beatmapsets/1115515#osu/2330438)
@@ -229,7 +229,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (101 MB)](https://drive.google.com/file/d/1tkiSuUoZpbVq5ZsCGOO1cqDofcyOvQCi/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (101 MB)](https://drive.google.com/file/d/1tkiSuUoZpbVq5ZsCGOO1cqDofcyOvQCi/view?usp=sharing)**
 
 - NoMod
   - [Yousei Teikoku - Dea x Crisis (Lasse) [Despair]](https://osu.ppy.sh/beatmapsets/1338846#osu/2773398)
@@ -255,7 +255,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 64
 
-**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/13gy2vUQbhedD0Sh-1jnA9gzZjC3kuU86/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/13gy2vUQbhedD0Sh-1jnA9gzZjC3kuU86/view?usp=sharing)**
 
 - NoMod
   - [Mimori Suzuko - Light for Knight (-Brethia) [Destiny]](https://osu.ppy.sh/beatmapsets/801337#osu/1682101)
@@ -281,7 +281,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (65 MB)](https://drive.google.com/file/d/1QZh0Ge9NS9uBu3kHvwLQlWf00dznMeZP/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (65 MB)](https://drive.google.com/file/d/1QZh0Ge9NS9uBu3kHvwLQlWf00dznMeZP/view?usp=sharing)**
 
 - NoMod
   - [Powerless feat. Sennzai - Unrequited (VINXIS) [Reunion]](https://osu.ppy.sh/beatmapsets/543109#osu/1162811)
@@ -675,7 +675,7 @@ Monday, 5 July 2021:
 
 ### Qualifiers
 
-See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1TnWnJybwGGLriorS9LkhrTJvq0D0yVbQBR3YF-flY7E/edit#gid=2137675509 "Google Sheets") for a list of all qualification results.
+See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1TnWnJybwGGLriorS9LkhrTJvq0D0yVbQBR3YF-flY7E/edit#gid=2137675509) for a list of all qualification results.
 
 ## Ruleset
 

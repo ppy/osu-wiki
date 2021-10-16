@@ -48,9 +48,9 @@ The Taiko Wars was run by various osu!taiko community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/813794)
-- [Livestream](https://www.twitch.tv/osutaikowars "Twitch")
-- [oTW Discord server](https://discord.gg/7bWjmq2 "Discord")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS1OEnywzQlI4425prcLcfxFoWCaSDGnfDpOXJZ5jRq-CP6E3OTSz0m8SVW4cMKF2i6c_dyrh4yZF3O/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osutaikowars)
+- [oTW Discord server](https://discord.gg/7bWjmq2)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS1OEnywzQlI4425prcLcfxFoWCaSDGnfDpOXJZ5jRq-CP6E3OTSz0m8SVW4cMKF2i6c_dyrh4yZF3O/pubhtml)**
 
 ## Participants
 
@@ -83,7 +83,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 5
 
-**[Download the mappack here! (132 MB)](https://mega.nz/#!GnhFwIiJ!6TMyxm-mKf7Q_EEdYdA44s1VQ0Qs5kXdR1HLrzswnYs "MEGA")**
+**[Download the mappack here! (132 MB)](https://mega.nz/#!GnhFwIiJ!6TMyxm-mKf7Q_EEdYdA44s1VQ0Qs5kXdR1HLrzswnYs)**
 
 - NoMod
   - [Zekk - Sugary Daydream (TKS) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/578489#taiko/1224835)
@@ -114,7 +114,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 4
 
-**[Download the mappack here! (65 MB)](https://mega.nz/#!a2IHjQTJ!isJzTngQGr6mxJPGpctb3jQzLcGUrMadI_vvDHPtDnQ "MEGA")**
+**[Download the mappack here! (65 MB)](https://mega.nz/#!a2IHjQTJ!isJzTngQGr6mxJPGpctb3jQzLcGUrMadI_vvDHPtDnQ)**
 
 - NoMod
   - [Hino Isuka - Bloody Scarlet Nightmare (nananass) \[Blood\]](https://osu.ppy.sh/beatmapsets/691110#taiko/1462572)
@@ -140,7 +140,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 3
 
-**[Download the mappack here! (59 MB)](https://mega.nz/#!2vwGCSCY!v7DWcVkE0WERJfqmRwY5At_RctlZM9duhxA_4HyIFAM "MEGA")**
+**[Download the mappack here! (59 MB)](https://mega.nz/#!2vwGCSCY!v7DWcVkE0WERJfqmRwY5At_RctlZM9duhxA_4HyIFAM)**
 
 - NoMod
   - [Hiro - VERTeX (Nwolf) \[Apex\]](https://osu.ppy.sh/beatmapsets/856990#taiko/1790210)
@@ -164,7 +164,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 2
 
-**[Download the mappack here! (49 MB)](https://mega.nz/#!zyJVHICL!OoNBJWGGqW4I18SINy5RrqDkmhY6l6X4zahaBj7etuA "MEGA")**
+**[Download the mappack here! (49 MB)](https://mega.nz/#!zyJVHICL!OoNBJWGGqW4I18SINy5RrqDkmhY6l6X4zahaBj7etuA)**
 
 - NoMod
   - [DJ Mass MAD Izm - shakunetsu Beach Side Bunny (Kagami Yuki) \[Kagami's Taiko\]](https://osu.ppy.sh/beatmapsets/196311#taiko/465665)

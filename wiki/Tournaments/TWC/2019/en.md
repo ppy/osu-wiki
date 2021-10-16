@@ -48,8 +48,8 @@ The osu!taiko World Cup 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/881546)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTbRHUw1tLZ0o4PpmjLh02Nea4L_uxdZMbBRqfoTAOPkx5O9xocPVCvoNyt_uYzcyXJtHKY47PrkZHX/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTbRHUw1tLZ0o4PpmjLh02Nea4L_uxdZMbBRqfoTAOPkx5O9xocPVCvoNyt_uYzcyXJtHKY47PrkZHX/pubhtml)**
 
 ## Participants
 
@@ -544,7 +544,7 @@ Sunday, 21 April 2019:
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"

@@ -2,7 +2,7 @@
 
 *For the formatting standards, see: [Article style criteria/Formatting](../Formatting)*
 
-*Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119 "IETF Tools") to describe requirement levels.*
+*Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.*
 
 All English articles must use plain English.
 
@@ -124,7 +124,7 @@ Trademarks must not be followed by the trademark or registered trademark symbols
 
 ### Date formatting
 
-The formats found in [Wikipedia:Manual of Style/Dates and numbers § Formats](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats "Wikipedia") are all accepted date formats. Date formatting should be consistent throughout the entire article.
+The formats found in [Wikipedia:Manual of Style/Dates and numbers § Formats](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats) are all accepted date formats. Date formatting should be consistent throughout the entire article.
 
 The `YYYY-MM-DD` date format should only be used in tables.
 
@@ -207,7 +207,7 @@ User titles that include `osu!` as part of the title name must be capitalised. E
 - `osu! Alumni`
 - `osu! Champion`
 
-For all other terms, osu! must be treated as a [qualifying noun](https://en.wikipedia.org/wiki/Noun_adjunct "Wikipedia"). This means adding a space between osu! and the noun it modifies. Examples include:
+For all other terms, osu! must be treated as a [qualifying noun](https://en.wikipedia.org/wiki/Noun_adjunct). This means adding a space between osu! and the noun it modifies. Examples include:
 
 - `osu! tournaments`
 - `osu! community`
@@ -299,7 +299,7 @@ Prefer: Beatmap Nominators can nominate your beatmap.
 
 ## Grammar and syntax
 
-Articles should prefer using simpler [American grammar and syntax](https://www.thepunctuationguide.com/british-versus-american-style.html "The Punctuation Guide").
+Articles should prefer using simpler [American grammar and syntax](https://www.thepunctuationguide.com/british-versus-american-style.html).
 
 ### Contractions
 
@@ -323,7 +323,7 @@ The serial comma, also known as the Oxford or Harvard comma, must be used.
 
 ### Logical quotations
 
-Refer to [Wikipedia's Manual of Style for logical quotations](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside "Wikipedia").
+Refer to [Wikipedia's Manual of Style for logical quotations](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside).
 
 From Wikipedia's Manual of Style:
 
@@ -331,4 +331,4 @@ From Wikipedia's Manual of Style:
 
 ## Pronunciation
 
-Written pronunciation must use the [International Phonetic Alphabet](https://en.wikipedia.org/wiki/Help:IPA/English "Wikipedia").
+Written pronunciation must use the [International Phonetic Alphabet](https://en.wikipedia.org/wiki/Help:IPA/English).

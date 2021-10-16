@@ -83,7 +83,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # Про вікі
 
-[Карта сайту](/wiki/Sitemap) • [Керівництво по внеску](/wiki/osu!_wiki_Contribution_Guide) • [Критерії оформлення статей](/wiki/Article_Styling_Criteria) • [Критерії оформлення новин](/wiki/News_Styling_Criteria)
+[Карта сайту](/wiki/Sitemap) • [Керівництво по внеску](/wiki/osu!_wiki/Contribution_guide) • [Критерії оформлення статей](/wiki/Article_Styling_Criteria) • [Критерії оформлення новин](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

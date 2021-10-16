@@ -1,6 +1,6 @@
 # Internet Relay Chat
 
-*Untuk informasi lebih lanjut, lihat: [Internet Relay Chat (Wikipedia)](https://id.wikipedia.org/wiki/IRC "Wikipedia")*
+*Untuk informasi lebih lanjut, lihat: [Internet Relay Chat (Wikipedia)](https://id.wikipedia.org/wiki/IRC)*
 
 **Internet Relay Chat**, dikenal juga sebagai IRC, adalah sebuah protokol standar yang sering digunakan untuk mengobrol dengan banyak pengguna lain yang tersedia.
 
@@ -39,14 +39,14 @@ Pada dasarnya, beberapa klien IRC memberitahumu ketika seorang pengguna bergabun
 
 | IRC client | Deskripsi |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/ "GitHub") | Cek "Hide join and part messages" dibawah `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6)  |
-| [ircII](http://www.eterna.com.au/ircii/ "ircII") | Ketik `IGNORE * CRAP` |
-| [Irssi](https://irssi.org "Irssi") | Ketik `/ignore * JOINS PARTS QUITS` |
-| [Weechat](https://weechat.org/ "Weechat") | Ketik `/filter add joinquit * irc_join,irc_part,irc_quit *` |
-| [KVIrc](https://www.kvirc.net/ "KVIrc") | (Merujuk ke [the KVIrc wiki page](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages "GitHub")) |
-| [mIRC](https://www.mirc.com/ "mIRC") | Buka pengaturan mIRC (`Tools` -> `Options`, atau `Alt` + `O`), pilih `IRC`, tekan `Events...`  dan pilih `Hide` untuk bergabung dan pergi |
-| [Quassel IRC](https://quassel-irc.org/ "Quassel IRC") | Klik kanan di dalam chat dan pilih Joins/Parts/Quits di "Hide Events" menu |
-| [XChat](http://xchat.org/ "XChat") | Ketik `/set irc_conf_mode 1` |
+| [HexChat](https://hexchat.github.io/) | Cek "Hide join and part messages" dibawah `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6)  |
+| [ircII](http://www.eterna.com.au/ircii/) | Ketik `IGNORE * CRAP` |
+| [Irssi](https://irssi.org) | Ketik `/ignore * JOINS PARTS QUITS` |
+| [Weechat](https://weechat.org/) | Ketik `/filter add joinquit * irc_join,irc_part,irc_quit *` |
+| [KVIrc](https://www.kvirc.net/) | (Merujuk ke [the KVIrc wiki page](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages)) |
+| [mIRC](https://www.mirc.com/) | Buka pengaturan mIRC (`Tools` -> `Options`, atau `Alt` + `O`), pilih `IRC`, tekan `Events...`  dan pilih `Hide` untuk bergabung dan pergi |
+| [Quassel IRC](https://quassel-irc.org/) | Klik kanan di dalam chat dan pilih Joins/Parts/Quits di "Hide Events" menu |
+| [XChat](http://xchat.org/) | Ketik `/set irc_conf_mode 1` |
 
 ## Pertanyaan yang sering diajukan (FAQ)
 
@@ -82,4 +82,4 @@ Pengguna yang terhubung melalui klien osu! atau website tidak akan mempunyai pre
 
 ### Seseorang mengirim pesan, tetapi mereka tidak ada dalam daftar pengguna kanal!
 
-Mereka menggunakan [versi web chat](https://osu.ppy.sh/community/chat) atau terhubung melalui klien [osu!lazer](https://github.com/ppy/osu "GitHub").
+Mereka menggunakan [versi web chat](https://osu.ppy.sh/community/chat) atau terhubung melalui klien [osu!lazer](https://github.com/ppy/osu).

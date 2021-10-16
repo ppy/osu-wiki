@@ -121,7 +121,7 @@ Le **Mapping With Rewards** est un concours de mapping dans lequel les mappeurs 
 
 #### A Labour of Love
 
-**A Labour of Love** est un concours par équipe couvrant plusieurs disciplines artistiques dans lequel les équipes participantes sont chargées de remixer/réarranger une musique largement connue au sein de la communauté d'osu!, de créer une beatmap à partir de la musique remixée, et de concevoir un storyboard/une vidéo d'arrière-plan originale comme accompagnement visuel de la beatmap. Comme [indiqué par ce tweet](https://twitter.com/ppy/status/1333362145224843264 "Twitter"), le concours s'inspire de [l'événement BMS OF FIGHTERS](https://www.bmsoffighters.net/ "BMS OF FIGHTERS") et d'autres concours similaires.
+**A Labour of Love** est un concours par équipe couvrant plusieurs disciplines artistiques dans lequel les équipes participantes sont chargées de remixer/réarranger une musique largement connue au sein de la communauté d'osu!, de créer une beatmap à partir de la musique remixée, et de concevoir un storyboard/une vidéo d'arrière-plan originale comme accompagnement visuel de la beatmap. Comme [indiqué par ce tweet](https://twitter.com/ppy/status/1333362145224843264), le concours s'inspire de [l'événement BMS OF FIGHTERS](https://www.bmsoffighters.net/) et d'autres concours similaires.
 
 | Numéro du concours | Musique remixée | ![Couronne en or][GCrown] (Vainqueur général) | ![Couronne d'argent][SCrown] (Deuxième place générale) | Gagnant du vote communautaire | Résultats |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -190,7 +190,7 @@ Le *osu! Beatmap Blueprints Contest* est un concours unique organisé pour comm�
 
 #### osu!idol
 
-L'**osu!idol** est un concours de chant dans lequel les participants de toute la communauté s'affrontent pour créer la meilleure reprise de musique (en solo ou avec un partenaire) à travers plusieurs étapes de jugement et de vote communautaire. Le concours porte le nom de la franchise [Idols](https://fr.wikipedia.org/wiki/Idol_(franchise) "Wikipédia") et s'inspire principalement de divers concours de chant télévisés.
+L'**osu!idol** est un concours de chant dans lequel les participants de toute la communauté s'affrontent pour créer la meilleure reprise de musique (en solo ou avec un partenaire) à travers plusieurs étapes de jugement et de vote communautaire. Le concours porte le nom de la franchise [Idols](https://fr.wikipedia.org/wiki/Idol_(franchise)) et s'inspire principalement de divers concours de chant télévisés.
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Musique gagnante | Résultats |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -367,6 +367,14 @@ La **Newspaper Cup** est un concours de mapping similaire à la Pending Cup, mai
 
 ² La catégorie "Instrumentale" offre aux mappeurs un choix de cinq chansons différentes à mapper : Umeboshi Chazuke - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, Nagakawa Koutarou - Hakata Tonkotsu Ramens, et roop - Chatblanc.
 
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
+[GCrown]: /wiki/shared/crown-gold.png "Première place"
+[SCrown]: /wiki/shared/crown-silver.png "Seconde place"
+[BCrown]: /wiki/shared/crown-bronze.png "Troisième place"
+
 [flag_AE]: /wiki/shared/flag/AE.gif "Émirats arabes unis"
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
 [flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
@@ -375,35 +383,35 @@ La **Newspaper Cup** est un concours de mapping similaire à la Pending Cup, mai
 [flag_BG]: /wiki/shared/flag/BG.gif "Bulgarie"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
 [flag_BY]: /wiki/shared/flag/BY.gif "Biélorussie"
-[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
+[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_CZ]: /wiki/shared/flag/CZ.gif "République tchèque"
+[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Tchéquie"
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_DK]: /wiki/shared/flag/DK.gif "Danemark"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonie"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italie"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
 [flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
 [flag_LT]: /wiki/shared/flag/LT.gif "Lituanie"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
 [flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
 [flag_PA]: /wiki/shared/flag/PA.gif "Panama"
 [flag_PE]: /wiki/shared/flag/PE.gif "Pérou"
-[flag_PH]: /wiki/shared/flag/PH.gif "Phillipines"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
 [flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
@@ -412,11 +420,3 @@ La **Newspaper Cup** est un concours de mapping similaire à la Pending Cup, mai
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
-
-[osu!]: /wiki/shared/mode/osu.png "osu!"
-[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
-[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
-[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
-[GCrown]: /wiki/shared/crown-gold.png "Première place"
-[SCrown]: /wiki/shared/crown-silver.png "Seconde place"
-[BCrown]: /wiki/shared/crown-bronze.png "Troisième place"

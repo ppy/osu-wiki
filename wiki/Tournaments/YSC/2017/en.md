@@ -56,10 +56,10 @@ Yaz's Summer Cup 2017 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/607572)
-- [Challonge](https://challonge.com/YSC2017 "Challonge")
-- [Discord](https://discord.gg/brQzjbb "Discord")
-- [Livestream](https://www.twitch.tv/summer_cup_osu "Twitch")
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0HuGtlHUHEV0MqQR-I0l7AgkQdygjjNmw "Google Sheets")
+- [Challonge](https://challonge.com/YSC2017)
+- [Discord](https://discord.gg/brQzjbb)
+- [Livestream](https://www.twitch.tv/summer_cup_osu)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0HuGtlHUHEV0MqQR-I0l7AgkQdygjjNmw)
 
 ## Participants
 
@@ -82,7 +82,7 @@ Yaz's Summer Cup 2017 was run by various community members.
 | Group O | ![][flag_US] **[Monko2k](https://osu.ppy.sh/users/4852013)**, ![][flag_US] **[Smoothie World](https://osu.ppy.sh/users/1855540)**, ![][flag_NL] [Timpai](https://osu.ppy.sh/users/5054798), ![][flag_RU] [ncuh](https://osu.ppy.sh/users/2891734) |
 | Group P | ![][flag_ES] **[Betwin](https://osu.ppy.sh/users/1968481)**, ![][flag_GB] **[Helix](https://osu.ppy.sh/users/3322597)**, ![][flag_GB] [TopSp1n](https://osu.ppy.sh/users/7657761), ![][flag_EG] [KupcaH](https://osu.ppy.sh/users/7844575) |
 
-See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0HuGtlHUHEV0MqQR-I0l7AgkQdygjjNmw/pubhtml?gridlines=false "Google Sheets") for a list of all 128 initial participants.
+See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0HuGtlHUHEV0MqQR-I0l7AgkQdygjjNmw/pubhtml?gridlines=false) for a list of all 128 initial participants.
 
 ## Podium
 

@@ -78,7 +78,9 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 - **[Guest difficulty](/wiki/Beatmap/Guest_difficulty) creators, storyboarders, skinners and hitsounders must be added to the tags of a beatmap.** This is to give credit where credit is due and help others identify the main contributors of any given beatmap. Usernames containing single characters separated by spaces must have the spaces replaced with underscores.
 - **[Primary metadata sources](/wiki/Beatmap/Primary_metadata_source) must be used as references for metadata.** Do not modify metadata from primary sources except to comply with formatting and standardisation rules below. If no sources are available, use what is most common and recognizable.
 - **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. A song's sole artist cannot be a fictional character or program unless it is the artist's alias.
-- **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, web site, community etc.** If the song was featured or tied to a media after it was released, the source field should not be used. If a song has multiple potential sources, any option is valid. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
+- **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, event, etc.** This also applies if the song was featured or tied to a media after it was released, but is primarily known due to that source. If a song has multiple potential sources, any option is valid. 
+  - For remixes, arrangements, or covers based upon the original song, the source of the original song should be used.
+  - Website names may be used as sources when the song is tied to specific cultural phenomena related to the platform, or the song is composed as a website theme/background song.
   - In cases where a [song compilation](/wiki/Beatmapping/Song_compilation)/remix/medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field (unless the compilation is prominently tied to a source itself).
   - `osu!` itself should never be used in the source field except in cases where the track was specifically created for osu! (also known as an osu! original), such as commissioned tournament tiebreaker tracks.
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
@@ -107,7 +109,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 #### Romanisation
 
-- **An artist's name is to be romanised in the order it is printed in the unicode field, unless an alternative order for the romanised name is provided by the artist.**
+- **When romanising an artist's name yourself and no official romanisation is available, it must be romanised in the order it is printed in the unicode field.**
 - **Loan words from other languages have to use the original words in their stead when attempting to romanise them.**
 - **When a song uses repeat words in the title or in the artist where one is in unicode, and the other as a basic romanisation, the romanised field must use the provided romanisation only and remove the duplicate word.**
 - **Umlauts must be romanised into two-letter equivalents: `ü` to `ue`, `ö` to `oe`, `ä` to `ae` and `ß` to `ss`.**
@@ -122,6 +124,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 ### Guidelines
 
 - **When a song is covered or remixed and has metadata varying from the original song, use common sense to determine whether the variation was a mistake or an intentional artist choice.**
+- **If multiple metadata options are available, priority should be given to the option which is most easily recognisable and traceable back to the original song or source.** Official romanisations and translations are preferred for romanised fields so long as they are easily found and commonly recognised.
 
 #### Technical
 
@@ -144,11 +147,10 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 ### Allowances
 
-This category contains explicit allowance statements of concepts and rules that are not commonly straightforward even after reading this whole section of the ranking criteria.
+This category contains explicit allowance statements of concepts and rules that are not commonly straightforward even after reading this whole section of the ranking criteria. In cases where there are multiple options available for a song's metadata, the above standardisation rules for the Ranked and Loved sections take priority.
 
 - **For songs where the composer(s) and singer(s) are different people, the singer(s) may be listed after the composer(s) or circle/group name following a `feat.` indicator.**
-- **If an artist has provided an official translation for their name, this may be used in the romanised artist field.** Official romanisation may be used for the spelling of an artist's name, but the name order must follow the related rule.
-- **If a Unicode Song title has either an official translation or romanisation provided by the artist, either or may be used in the romanised title field.**
+- **If a Unicode song title or artist has an official translation or romanisation provided by the artist, it may be used in the respective romanised field. If both a translation and romanisation are available, either may be used.**
 - **If a beatmap's track was contributed to by multiple artists, they may be listed with commas inbetween.** If there are 3 or more contributing artists and they are not part of one officially labelled group, `Various Artists` or other descriptive artist labels may be used instead.
 - **For Remixes/Covers, the original artist may be used in the artist field, as long as the title field is modified to clearly show that the song is remixed.** This marker should all be in parentheses and contain the Remix/Cover artist followed by descriptor.
 
@@ -178,7 +180,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **A beatmap may only contain one song file used by all difficulties.** Multiple song files within a single beatmap are unsupported and result in unexpected behaviour with preview times, metadata, etc.
 - **A song's audio file and hitsound files must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes and should not be encoded to a bit rate higher than their original files.
 - **Beatmaps must be hitsounded.** Hitnormals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.
-  - **For osu!mania beatmaps containing only difficulties Insane or above, additions are not required.**
+  - **osu!mania beatmaps do not require hitsound additions.** This is to allow for easier approachability to osu!mania mappers of different upbringings. It is still highly recommended to add hitsounds to improve the feel of your beatmaps. In cases where hitsounds are not used, *no* additions may be placed, and *no* sample control points should be used (ie. to adjust volume).
 - **All clicked objects must have audible [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound).** osu!mania difficulties are exempt from this because of the mode's rhythm construction.
 - **[Active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound) must use the `.wav` or `.ogg` file formats.** `.mp3` files have slight delays, and therefore are reserved only for longer [passive hitsounds](/wiki/Beatmapping/Hitsound#passive-hitsound), such as ambient noises.
 - **[Active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound) cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hitsound feedback is synchronized to a song effectively. The default skin's `normal-hitfinish.wav` has a slight delay, but still can be used as a custom hitsound.

@@ -1,6 +1,6 @@
 # osu! wiki maintenance
 
-*See also: [osu! wiki contribution guide](/wiki/osu!_wiki_Contribution_Guide)*
+*See also: [osu! wiki contribution guide](/wiki/osu!_wiki/Contribution_guide)*
 
 This article describes technical or administrative aspects of the osu! wiki. It also covers maintenance procedures, which are required to keep it fresh—perhaps you may [help with one of them](#routines). For all discussions related to the wiki, use the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/osu!dev_Discord_server).
 
@@ -72,7 +72,7 @@ Some features are not directly related to the osu! website, but may be useful fo
 
 *Note: the [osu-wiki status](https://clayton.cc/osu-wiki-status/en) website shows a list of all articles in need of maintenance, broken down by category.*
 
-The wiki relies on input from the osu! community. You can help the maintainers and other contributors by doing your part. For information on how to do that, read the [contribution guide](/wiki/osu!_wiki_Contribution_Guide). If at any point you feel stuck, ask for help in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/osu!dev_Discord_server).
+The wiki relies on input from the osu! community. You can help the maintainers and other contributors by doing your part. For information on how to do that, read the [contribution guide](/wiki/osu!_wiki/Contribution_guide). If at any point you feel stuck, ask for help in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/osu!dev_Discord_server).
 
 ### Translations
 

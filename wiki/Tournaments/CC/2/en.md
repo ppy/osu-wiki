@@ -49,9 +49,9 @@ Corgi Cup: September 2016 was run by various community members.
 
 ## Links
 
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1TeeqOfm75tENFZ0ERlLEa1Zyu3H0bnugFngq8vK5Drs/edit?usp=sharing "Google Sheets")
-- [Livestream](https://twitch.tv/Doomsday "Twitch")
-- [Discord](https://discord.gg/doomscord "Discord")
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1TeeqOfm75tENFZ0ERlLEa1Zyu3H0bnugFngq8vK5Drs/edit?usp=sharing)
+- [Livestream](https://twitch.tv/Doomsday)
+- [Discord](https://discord.gg/doomscord)
 
 ## Participants
 

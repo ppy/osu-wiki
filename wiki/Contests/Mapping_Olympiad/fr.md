@@ -56,7 +56,7 @@ Dans l'osu! Mapping Olympiad, les réscompenses sont octroyées sous formes d'un
 
 ## Points
 
-Un classement plus détaillé est disponible sur [Google Sheets](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing "Google Spreadsheet").
+Un classement plus détaillé est disponible sur [Google Sheets](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing).
 
 | Mappeur(s) | Points |
 | :-- | :-- |
@@ -70,16 +70,16 @@ Un classement plus détaillé est disponible sur [Google Sheets](https://docs.go
 - [Sujet du concours sur le forum](https://osu.ppy.sh/community/forums/topics/822857)
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
-[flag_CA]: /wiki/shared/flag/CA.gif "Cananda"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CN]: /wiki/shared/flag/CN.gif "Chine"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italie"
-[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud" 
-[flag_PH]: /wiki/shared/flag/PH.gif "Phillipines"
+[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"

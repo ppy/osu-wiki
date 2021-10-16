@@ -55,5 +55,5 @@ tags:
 - ![][flag_US] Shannon "[iShipxx](https://osu.ppy.sh/users/7546335)" Chen
 - ![][flag_US] Victor "[lalipo](https://osu.ppy.sh/users/2584801)" Stolle
 
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
-[flag_US]: /wiki/shared/flag/US.gif "美國"
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_US]: /wiki/shared/flag/US.gif

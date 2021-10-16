@@ -1,6 +1,6 @@
 # Internet Relay Chat
 
-*Подробнее об IRC: [Internet Relay Chat (Википедия)](https://ru.wikipedia.org/wiki/Internet_Relay_Chat "Wikipedia")*
+*Подробнее об IRC: [Internet Relay Chat (Википедия)](https://ru.wikipedia.org/wiki/Internet_Relay_Chat)*
 
 **Internet Relay Chat** (**IRC**, также **ирк**) — протокол прикладного уровня для обмена сообщениями в режиме реального времени.
 
@@ -39,14 +39,14 @@
 
 | IRC-клиент | Настройка |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/ "GitHub") | Зайдите в `Settings` -> `Preferences` -> `Chatting` -> `General` и отметьте галочку `Hide join and part messages` |
-| [ircII](http://www.eterna.com.au/ircii/ "ircII") | Напишите `IGNORE * CRAP` |
-| [Irssi](https://irssi.org "Irssi") | Напишите `/ignore * JOINS PARTS QUITS` |
-| [Weechat](https://weechat.org/ "Weechat") | Напишите `/filter add joinquit * irc_join,irc_part,irc_quit *` |
-| [KVIrc](https://www.kvirc.net/ "KVIrc") | См. [справку по KVIrc](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages "GitHub") |
-| [mIRC](https://www.mirc.com/ "mIRC") | В настройках (`Tools` -> `Options`, либо `Alt` + `O`) выберите пункт `IRC`, нажмите кнопку `Events...` и выберите `Hide` для типов Joins и Parts |
-| [Quassel IRC](https://quassel-irc.org/ "Quassel IRC") | Кликните правой клавишей мыши по чату, откройте пункт `Hide Events` и выберите `Joins/Parts/Quits` |
-| [XChat](http://xchat.org/ "XChat") | Напишите `/set irc_conf_mode 1` |
+| [HexChat](https://hexchat.github.io/) | Зайдите в `Settings` -> `Preferences` -> `Chatting` -> `General` и отметьте галочку `Hide join and part messages` |
+| [ircII](http://www.eterna.com.au/ircii/) | Напишите `IGNORE * CRAP` |
+| [Irssi](https://irssi.org) | Напишите `/ignore * JOINS PARTS QUITS` |
+| [Weechat](https://weechat.org/) | Напишите `/filter add joinquit * irc_join,irc_part,irc_quit *` |
+| [KVIrc](https://www.kvirc.net/) | См. [справку по KVIrc](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages) |
+| [mIRC](https://www.mirc.com/) | В настройках (`Tools` -> `Options`, либо `Alt` + `O`) выберите пункт `IRC`, нажмите кнопку `Events...` и выберите `Hide` для типов Joins и Parts |
+| [Quassel IRC](https://quassel-irc.org/) | Кликните правой клавишей мыши по чату, откройте пункт `Hide Events` и выберите `Joins/Parts/Quits` |
+| [XChat](http://xchat.org/) | Напишите `/set irc_conf_mode 1` |
 
 ## FAQ
 
@@ -80,4 +80,4 @@
 
 ### Человек пишет в чат, но я не вижу его ник в списке пользователей на канале
 
-Он отправляет сообщения через [веб-чат](https://osu.ppy.sh/community/chat) или [osu!lazer](https://github.com/ppy/osu "GitHub").
+Он отправляет сообщения через [веб-чат](https://osu.ppy.sh/community/chat) или [osu!lazer](https://github.com/ppy/osu).

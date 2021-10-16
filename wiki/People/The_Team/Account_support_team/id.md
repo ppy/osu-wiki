@@ -47,4 +47,4 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
 - [Permintaan data](/wiki/Legal/Privacy#data-controller) dan masalah privasi.
-- [Permintaan penghapusan akun](/wiki/Legal/Privacy#your-rights-and-control) secara **permanen** bagi penduduk Uni Eropa (Cakupan [GDPR](https://id.wikipedia.org/wiki/Regulasi_Umum_Perlindungan_Data "Wikipedia")).
+- [Permintaan penghapusan akun](/wiki/Legal/Privacy#your-rights-and-control) secara **permanen** bagi penduduk Uni Eropa (Cakupan [GDPR](https://id.wikipedia.org/wiki/Regulasi_Umum_Perlindungan_Data)).

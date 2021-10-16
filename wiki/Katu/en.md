@@ -28,8 +28,8 @@ Katu comes from the Nintendo DS game [Elite Beat Agents](/wiki/iNiS_games), whic
 
 ## Gameplay in iNiS games
 
-- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs "YouTube")
-- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI "YouTube")
+- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs)
+- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI)
 
 ## Other game modes
 

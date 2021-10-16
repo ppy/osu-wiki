@@ -2,7 +2,7 @@
 
 ![Screenshot of a beatmap that contains explicit content](img/explicit-tag.jpg "An example of a beatmap that is being marked with the 'explicit' tag.")
 
-Mappers are able to declare whether the content of their beatmap is *explicit* by using a check box in the [genre and language popup](/wiki/Beatmap/Genre_and_language) on the website. This feature has a few expectations and rules governing its use.
+Mappers are able to declare whether the content of their beatmap is *explicit* by ticking the `Explicit Content` checkbox found in the [genre and language popup menu](/wiki/Beatmap/Genre_and_language) on the corresponding beatmap's web listing. This feature has a few expectations and rules governing its use.
 
 Regardless of the nature of the audio, make sure it also complies with the [general song content rules](/wiki/Rules/Song_Content_Rules).
 
@@ -25,4 +25,4 @@ In addition, vivid and sustained discussion of controversial topics or anything 
 - Depiction/discussion of violent consequences in gory detail
 - Extremely overt sexual references or allusions to sexual acts
 
-A good way of discerning if something should be tagged as explicit or not is if any major audio streaming services have it listed as such on their own platforms. [Spotify](https://www.spotify.com "Spotify") is an excellent place to start.
+A good way of discerning if something should be tagged as explicit or not is if any major audio streaming services have it listed as such on their own platforms. [Spotify](https://www.spotify.com) is an excellent place to start.

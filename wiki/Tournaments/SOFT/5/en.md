@@ -58,9 +58,9 @@ The Springtime Osu!mania Free-for-all Tournament 5 offered a $250 minimum cash p
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1232110)
-- [Livestream](https://www.twitch.tv/osusoft "Twitch")
-- [SOFT Discord server](https://discord.gg/qd575a3 "Discord")
-- [Challonge](https://challonge.com/SOFT5 "Challonge")
+- [Livestream](https://www.twitch.tv/osusoft)
+- [SOFT Discord server](https://discord.gg/qd575a3)
+- [Challonge](https://challonge.com/SOFT5)
 
 ## Participants
 
@@ -617,7 +617,7 @@ Sunday, 14 March 2021:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/110aVysi6hBh6BAXs1_UJUaA5od589SXUSLJzc4Xcamk/edit?usp=sharing "Google Sheets").
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/110aVysi6hBh6BAXs1_UJUaA5od589SXUSLJzc4Xcamk/edit?usp=sharing).
 
 ## Ruleset
 

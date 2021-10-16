@@ -157,7 +157,7 @@ You may also wish to check for any jammed or damaged buttons on your peripherals
 
 **You will need to extract the pack into your Songs directory.**
 
-Most beatmap packs come in a `.rar` file format, which means they are a compressed archive of beatmap files. You will need to extract them using your utility of choice (we recommend [7-Zip](https://7-zip.org "7zip")) to your 'Songs' directory first.
+Most beatmap packs come in a `.rar` file format, which means they are a compressed archive of beatmap files. You will need to extract them using your utility of choice (we recommend [7-Zip](https://7-zip.org)) to your 'Songs' directory first.
 
 Once all of the `.osz` files from the archive are in the `Songs` directory, hitting `F5` at the song selection menu will refresh the game's beatmap cache and load your new songs into the game.
 

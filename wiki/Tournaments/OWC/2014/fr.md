@@ -50,7 +50,7 @@ Pour chaque participant :
 
 ## Retransmission des matchs
 
-La plupart des matchs sont diffusés et disponibles pour une lecture différée sur Twitch [à cette adresse](https://www.twitch.tv/osulive "Twitch").
+La plupart des matchs sont diffusés et disponibles pour une lecture différée sur Twitch [à cette adresse](https://www.twitch.tv/osulive).
 
 ## Équipes
 
@@ -118,7 +118,7 @@ Le graphique suivant met en évidence les équipes qui se sont qualifiées pour 
 
 ![OWC 2014 brackets](img/bracket.jpg)
 
-Pour un aperçu des résultats des matchs des poules, consultez [ce site](https://owc.nicarim.pw/results/view/3 "Nicarim").
+Pour un aperçu des résultats des matchs des poules, consultez [ce site](https://owc.nicarim.pw/results/view/3).
 
 ### Poules
 
@@ -257,7 +257,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 ### Poules
 
-**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar "MediaFire")**
+**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
 
 - NoMod
   - [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/125303#osu/318975)
@@ -287,7 +287,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 ### Huitièmes de finale
 
-**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar "MediaFire")**
+**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
 
 - NoMod
   - [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/122605#osu/315260)
@@ -317,7 +317,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 ### Quarts de finale
 
-**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar "MediaFire")**
+**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
 
 - NoMod
   - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
@@ -347,7 +347,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 ### Demi-finales
 
-**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar "MediaFire")**
+**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
 
 - NoMod
   - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/134151#osu/338682)
@@ -377,7 +377,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 ### Finales
 
-**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar "MediaFire")**
+**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
 
 - NoMod
   - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/beatmapsets/59049#osu/214248)
@@ -443,7 +443,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
    2. Le responsable d'une équipe, le *capitaine*, doit être spécifié.
       - Il n'existe aucune distinction joueurs « permanents » / joueurs « remplaçants ».
 2. Chaque équipe doit représenter un pays. Tous les joueurs constituant l'équipe doivent provenir de ce pays, comme doivent l'attester leurs drapeaux dans leur pages de profil.
-3. L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng "Google Forms"). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) avec, pour sujet, « OWC Registration ».
+3. L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) avec, pour sujet, « OWC Registration ».
    - Les capitaines ont la possibilité de modifier leur équipe pendant la phase d'inscription ; il est alors nécessaire de [prévenir la direction](https://osu.ppy.sh/home/messages/users/71366).
    - Les capitaines recevront un message de confirmation si leur inscription a bien été reçue. Les équipes sont alors placées dans une liste d'attente.
 4. Pour assurer la présence d'équipes sérieuses au sein de la compétition, tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés. Ainsi, la direction se réserve le droit de refuser des inscriptions si :
@@ -473,7 +473,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 1. Les phases organisées après les poules sont à double élimination. À la fin de chaque phase, les vainqueurs poursuivent le tournoi principal ; les perdants rejoignent le tournoi secondaire et s'affrontent pour rester dans la course, une deuxième défaite étant synonyme d'élimination définitive.
 
-2. Les matchs sont répartis selon [ce graphique](https://puu.sh/bUq5V/f1066103b0.png "puush") et sont identifiés selon la nomenclature suivante :
+2. Les matchs sont répartis selon [ce graphique](https://puu.sh/bUq5V/f1066103b0.png) et sont identifiés selon la nomenclature suivante :
 
    | Phase | ID du match |
    | :-- | :-- |

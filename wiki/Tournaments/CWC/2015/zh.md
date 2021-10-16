@@ -105,9 +105,9 @@ outdated: true
 ## 外部链接
 
 - [讨论帖](https://osu.ppy.sh/community/forums/topics/316279)
-- **[小组赛统计](https://owc.nicarim.pw/results/view/5 "Nicarim")**
-- [队长 Showcase (YouTube)](https://www.youtube.com/playlist?list=PLFsdDKrKpj7thvR58LRWxBPso4__aDUMp "YouTube")
-- [osu! Catch the Beat World Cup 2015 官方 Twitch 直播室](https://www.twitch.tv/osulive "Twitch")
+- **[小组赛统计](https://owc.nicarim.pw/results/view/5)**
+- [队长 Showcase (YouTube)](https://www.youtube.com/playlist?list=PLFsdDKrKpj7thvR58LRWxBPso4__aDUMp)
+- [osu! Catch the Beat World Cup 2015 官方 Twitch 直播室](https://www.twitch.tv/osulive)
 
 ![CWC 2015 podium](img/podium.jpg)
 
@@ -200,7 +200,7 @@ outdated: true
 
 ### 16 强赛
 
-**[Download the mappack here!](https://www.mediafire.com/download/sn1i72g5fq1fhnb/CWC_2015_Round_of_16.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/sn1i72g5fq1fhnb/CWC_2015_Round_of_16.rar)**
 
 - NoMod
   - [KAZAHA - Sajin no kanata he (Drafura) \[Rain\]](https://osu.ppy.sh/beatmapsets/158706#fruits/388088)
@@ -229,7 +229,7 @@ outdated: true
 
 ### 小组赛
 
-**[Download the mappack here!](https://www.mediafire.com/download/2vadd4tk50y1mz1/CWC_2015_Group_Stage.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/2vadd4tk50y1mz1/CWC_2015_Group_Stage.rar)**
 
 - NoMod
   - [sasakure.UK - Jack-the-Ripper (Sprosive) \[JackHasCome!\]](https://osu.ppy.sh/beatmapsets/23907#fruits/81560)
@@ -454,7 +454,7 @@ Sunday, 10\. May 2015
 
 5. 在双淘汰赛的阶段，赢的一方将会晋级到胜组下一场的比赛，而输的一方将进入败组。
 
-6. 基于[此表](https://puu.sh/bUq5V/f1066103b0.png "puush")，比赛分成下面的阶段：
+6. 基于[此表](https://puu.sh/bUq5V/f1066103b0.png)，比赛分成下面的阶段：
 
    | 阶段 | 比赛 ID |
    | :-- | :-- |

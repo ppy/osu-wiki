@@ -84,7 +84,7 @@ Organizacje: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # O wiki osu!
 
-[Mapa strony](/wiki/Sitemap) • [Poradnik dot. współtworzenia wiki](/wiki/osu!_wiki_Contribution_Guide) • [Kryteria stylu artykułów](/wiki/Article_Styling_Criteria) • [Kryteria stylu aktualności](/wiki/News_Styling_Criteria)
+[Mapa strony](/wiki/Sitemap) • [Poradnik dot. współtworzenia wiki](/wiki/osu!_wiki/Contribution_guide) • [Kryteria stylu artykułów](/wiki/Article_Styling_Criteria) • [Kryteria stylu aktualności](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

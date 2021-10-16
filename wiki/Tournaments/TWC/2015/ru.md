@@ -49,7 +49,7 @@ outdated: true
 ## Ссылки
 
 - [Тема на форуме](https://osu.ppy.sh/community/forums/topics/279723)
-- [osu! Taiko World Cup 2015 на Twitch](https://www.twitch.tv/osulive "Twitch")
+- [osu! Taiko World Cup 2015 на Twitch](https://www.twitch.tv/osulive)
 
 ## Правила
 
@@ -108,9 +108,9 @@ outdated: true
 4. Первые две команды в каждой группе проходят в следующий этап.
    1. В зависимости от количества команд, возможны изменения.
 
-5. Дальнейшие этапы проводятся по [системе с двойным утешением](https://ru.wikipedia.org/wiki/Олимпийская_система_с_выбыванием_после_двух_поражений "Wikipedia"): выигравшая команда переходит в следующий этап, проигравшая попадает в сетку проигравших.
+5. Дальнейшие этапы проводятся по [системе с двойным утешением](https://ru.wikipedia.org/wiki/Олимпийская_система_с_выбыванием_после_двух_поражений): выигравшая команда переходит в следующий этап, проигравшая попадает в сетку проигравших.
 
-6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png "puush"), the stages are split up into the following:
+6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
    | Этап | ID матча |
    | :-- | :-- |

@@ -5,6 +5,7 @@ The following chat commands are provided for remote management of multiplayer to
 - `!mp make <name>` - Creates a tournament room with the specified name. A maximum of 4 such rooms may be created.
   - This room is special in that it is not closed when all players have left the room, and it is password protected from players joining this room themselves.
   - When the room is finished, use `!mp close` to close the room.
+- `!mp name <title>` - Updates the room name.
 - `!mp invite <username>` - Invites a player to the room.
   - Note that this does *not* bypass any private message blocks available in the osu! client, so your tournament staff will need to tell players to disable "Block private messages from non-friends" in the osu! options.
 - `!mp lock` - Locks the room so that players can’t change their team and slot.
@@ -33,7 +34,7 @@ The following chat commands are provided for remote management of multiplayer to
 - `!mp kick <username>` - Kicks the player from the room.
 - `!mp password [<password>]` - Changes the password of the room. The password will be removed if `<password>` is not provided.
 - `!mp addref <username> [<username>] …` - Adds a referee to the room. A maximum of 8 referees may be added. Only the creator of the room can add a referee.
-  - Referees must join the room lobby in-game, or by entering the room's chat channel through `/join #mp_<room_id>` in IRC.
+  - Referees must join the room in-game, or by entering the room's chat channel through `/join #mp_<room_id>` in IRC.
   - Referees can manage the room like the creator, however they cannot add or remove other referees themselves.
   - The [osu!tourney client](/wiki/osu!tourney) will show the room chat for referees.
 - `!mp removeref <username> [<username>] …` - Removes a referee from the room. Only the creator of the room can remove a referee.

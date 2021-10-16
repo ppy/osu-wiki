@@ -43,7 +43,7 @@ The Royal Danish osu!Cup 2014 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/179395)
-- [Challonge brackets](https://challonge.com/OSUDK "Challonge")
+- [Challonge brackets](https://challonge.com/OSUDK)
 
 ## Participants
 

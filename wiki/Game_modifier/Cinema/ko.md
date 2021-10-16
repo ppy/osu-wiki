@@ -13,7 +13,7 @@ no_native_review: true
 ![CM 모드 아이콘](/wiki/shared/mods/CM.png "시네마 (CM) 모드 아이콘")
 
 *모든 모드의 목록을 확인하려면 [여기](/wiki/Game_modifier)를 눌러주세요.*\
-*[시네마토그래피](https://en.wikipedia.org/wiki/Cinematography "위키피디아")와 혼동하지 말아주세요.*
+*[시네마토그래피](https://en.wikipedia.org/wiki/Cinematography)와 혼동하지 말아주세요.*
 
 ## 시네마 모드
 

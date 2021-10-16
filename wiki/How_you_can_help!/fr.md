@@ -8,7 +8,7 @@ Ci-dessous voici quelques moyens d'aider la communauté :
 
 L'[osu!wiki](https://github.com/ppy/osu-wiki) est notre principale base de connaissance sur osu!, celui-ci traite de beaucoup de sujets différents et permet aux joueurs de trouver la réponse à leur question. De plus, le wiki cherche toujours des contributeurs pour aider à maintenir le site à jour avec des nouveaux sujets ou traductions d'articles du wiki.
 
-Si vous êtes nouveau sur l'osu!wiki, vous pouvez en savoir plus sur le [guide pour contribuer à celui-ci](/wiki/osu!_wiki_Contribution_Guide).
+Si vous êtes nouveau sur l'osu!wiki, vous pouvez en savoir plus sur le [guide pour contribuer à celui-ci](/wiki/osu!_wiki/Contribution_guide).
 
 ## Aider à maintenir une ambiance saine sur osu!
 

@@ -51,10 +51,10 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/788769)
-- [RDOC Discord server](https://discord.gg/JhBkmzE "Discord")
-- [Livestream](https://www.twitch.tv/royaldanishosucup "Twitch")
-- [Challonge brackets](https://challonge.com/rdoc2018 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/19z2AC5TN80G0eaQGs_6yVsTgfu5d9Huy5Q7EiibZnuQ "Google Sheets")**
+- [RDOC Discord server](https://discord.gg/JhBkmzE)
+- [Livestream](https://www.twitch.tv/royaldanishosucup)
+- [Challonge brackets](https://challonge.com/rdoc2018)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/19z2AC5TN80G0eaQGs_6yVsTgfu5d9Huy5Q7EiibZnuQ)**
 
 ## Participants
 

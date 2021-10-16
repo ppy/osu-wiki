@@ -51,9 +51,9 @@ The osu! TV Size Tournament 2018 was run by various osu! community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/684745)
-- [otst! Discord server](https://discord.gg/hdXQNG6 "Discord")
-- [Livestream](https://twitch.tv/osu_otst "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRD_BDZNHkPsW_kA_01j5t_Op8A-p7dcOMHylq2bN-I6JA0b7fPXx0h3joibUhcbnshJwlKJ6f5L8n1/pubhtml "Google Sheets")**
+- [otst! Discord server](https://discord.gg/hdXQNG6)
+- [Livestream](https://twitch.tv/osu_otst)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRD_BDZNHkPsW_kA_01j5t_Op8A-p7dcOMHylq2bN-I6JA0b7fPXx0h3joibUhcbnshJwlKJ6f5L8n1/pubhtml)**
 
 ## Participants
 
@@ -161,7 +161,7 @@ This competition has come to an end and resulted in the following podium:
 
 *This mappool was played in Finals and Grand Finals.*
 
-**[Download the mappack here! (100 MB)](https://i.patyye.me/OTST-Finals-Mappool.zip "Patyye")**
+**[Download the mappack here! (100 MB)](https://i.patyye.me/OTST-Finals-Mappool.zip)**
 
 - NoMod
   - [Twin-Tails - Twintail Dreamer! (Hollow Wings) \[HW's EX\]](https://osu.ppy.sh/beatmapsets/244964#osu/660264)
@@ -206,7 +206,7 @@ This competition has come to an end and resulted in the following podium:
   - [YUC'e - Future Candy (Sing) \[Cocaine\]](https://osu.ppy.sh/beatmapsets/584985#osu/1238016)
 - DoubleTime
   - [Traktion - Metropolis (Original Mix) (Damnae) \[Damnae's Insane\]](https://osu.ppy.sh/beatmapsets/359549#osu/812689)
-  - [Remixed by DJ Command - Mermaid girl -Akiba Koubou MIX- (Priti) \[Another\]](https://i.patyye.me/mmgirl.osz "Patyye")
+  - [Remixed by DJ Command - Mermaid girl -Akiba Koubou MIX- (Priti) \[Another\]](https://i.patyye.me/mmgirl.osz)
   - [Susumu Hirasawa - Switched-On Lotus (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10977#osu/43827)
 - FreeMod
   - [IOSYS - Marisa wa Taihen na Kanbu de Tomatte Ikimashita (DJPop) \[Love\]](https://osu.ppy.sh/beatmapsets/10143#osu/39825)
