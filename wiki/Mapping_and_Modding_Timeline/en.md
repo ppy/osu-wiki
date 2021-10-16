@@ -14,7 +14,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 - **2007-10-29:**: Forum thread icons were standardized for the ranking process.
   - A `star` (![star icon](/wiki/shared/icon/star.gif)) icon marked good maps that need more work.
   - A `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icon marked beatmaps considered for ranking.
-  - A `heart` (![heart icon](/wiki/shared/icon/heart.gif)) icon marked ranked beatmaps. These could only be placed after a beatmap was bubbled, ensuring two nominations per beatmap.
+  - A `heart` (![heart icon](/wiki/shared/icon/heart.gif)) icon marked ranked beatmaps. These could only be placed after a beatmap was [bubbled](/wiki/Modding/Bubble), ensuring two nominations per beatmap.
   - A `nuke` (![nuke icon](/wiki/shared/icon/nuke.gif)) icon marked beatmaps that could not be ranked under any circumstances. <!-- https://osu.ppy.sh/forum/t/619 + missing info on flame/nuke -->
 
 **200 beatmaps** were ranked in 2007.
