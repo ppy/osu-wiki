@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 938d93592b43a91eee5a596bd4be6b5f838cce1a
+---
+
 # Ranking criteria
 
 *Untuk ranking criteria [mode permainan](/wiki/Game_mode) yang spesifik, kunjungi: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania)*
@@ -78,8 +83,11 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 - **Pembuat [guest difficulty](/wiki/Beatmap/Guest_difficulty), storyboard, skin dan hitsound harus ditambahkan ke tags beatmap.** Hal ini bertujuan memberikan pengakuan dan membantu orang lain mengidentifikasi kontributor utama dari beatmap. Nama pengguna yang berisi karakter tunggal dipisahkan oleh spasi harus mengganti spasi dengan garis bawah.
 - **[Sumber metadata utama](/wiki/Beatmap/Primary_metadata_source) harus dijadikan referensi metadata.** Jangan mengubah metadata dari sumber utama kecuali untuk mematuhi aturan pemformatan dan standardisasi di bawah. Jika tidak ada sumber yang tersedia, gunakan sumber yang paling umum dan dapat dikenali.
 - **Artis lagu harus dapat dilacak ke orang yang ada.** Jika tidak ada orang yang tercatat sebagai artis, gunakan `Unknown Artist`. Artis tunggal sebuah lagu tidak boleh merupakan suatu karakter atau program fiksi kecuali jika itu adalah alias artis.
-- **Anda harus menggunakan kolom Sumber jika lagu berasal atau terkait langsung dengan media lain seperti video game, film, serial, dll.** Nama situs web, nama album, atau BMS bukan sumber yang dapat digunakan. Jika lagu itu masuk atau terikat ke media lain setelah dirilis, kolom sumber bersifat opsional. `osu!` dapat digunakan sebagai sumber untuk konten Featured Artist osu!. Jika sebuah lagu memiliki beberapa sumber yang dapat digunakan, opsi apa pun valid. Untuk remix, aransemen, atau cover berdasarkan lagu aslinya, sumber lagu asli diterapkan dengan cara yang sama.
-  - Dalam kasus [kompilasi lagu](/wiki/Beatmapping/Song_compilation)/remix/medley/dll. yang memiliki lagu tanpa sumber yang sama, sumber harus diletakkan di tags, bukan di kolom sumber.
+- **Anda harus menggunakan kolom Sumber/*Source* jika lagu berasal atau terkait langsung dengan media lain seperti video game, film, serial, acara, dll.** Hal ini juga berlaku jika lagu tersebut ditampilkan atau dikaitkan dengan sebuah media setelah dirilis, tetapi utamanya diketahui karena dari sumbernya. Jika sebuah lagu memiliki banyak sumber yang berpotensi, opsi apa pun valid.
+  - Bagi remix, aransemen, atau kover yang berdasarkan lagu aslinya, sumber dari lagu aslinya harus digunakan.
+  - Nama situs web dapat digunakan sebagai sumber, ketika lagu dikaitkan dengan fenomena budaya tertentu yang berhubungan dengan *platform*, atau lagu tersebut disusun/*composed* sebagai lagu tema/latar belakang dari situs web.
+  - Dalam kasus [kompilasi lagu](/wiki/Beatmapping/Song_compilation)/remix/medley/dll. yang memiliki lagu tanpa sumber yang sama, sumber harus diletakkan di tags, bukan di kolom sumber (kecuali kompilasi secara jelas terkait dengan sumber itu sendiri).
+  - `osu!` tidak boleh digunakan sebagai sumber/*source*, kecuali jika musik dibuat khusus untuk osu! (dikenal juga sebagai osu! original), seperti pembuatan musik untuk tiebreaker dalam suatu turnamen.
 - **Metadata yang melebihi batas kolom (81 karakter) harus disingkat.** Mulailah dengan menghilangkan penanda tambahan dan jika masih tidak cukup, tunjukkan bahwa judul telah disingkat menggunakan `...` di tempat yang masuk akal.
 - **Jika artis atau judul disingkat agar sesuai dengan batas kolom, informasi yang dihilangkan harus ditambahkan ke tags.**
 - **Jika lagu tersebut merupakan lagu terlisensi di pustaka featured artist, `featured artist` harus ditambahkan ke tags.**
@@ -106,7 +114,7 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 
 #### Romanisasi
 
-- **Nama artis harus diromanisasi sesuai urutan yang tertulis di kolom unicode.**
+- **Ketika meromanisasi nama dari seorang artis itu sendiri dan tidak ada romanisasi resmi yang tersedia, wajib diromanisasi sesuai dengan urutan yang tertera seperti pada bidang unicode.**
 - **Kata serap dari bahasa lain harus menggunakan kata-kata aslinya ketika sedang diromanisasi.**
 - **Ketika sebuah lagu menggunakan kata-kata berulang dalam judul atau artis yang satu dalam unicode, dan yang lainnya sebagai romanisasi dasar, kolom romanisasi harus menggunakan romanisasi yang disediakan dan menghapus duplikatnya.**
 - **Umlaut harus diromanisasi menjadi dua huruf yang sama: `ü` menjadi `ue`, `ö` menjadi `oe`, `ä` menjadi `ae` dan `ß` menjadi `ss`.**
@@ -120,6 +128,7 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 ### Pedoman
 
 - **Jika sebuah lagu di-cover atau di-remix dan memiliki metadata yang berbeda dari lagu aslinya, gunakan akal sehat untuk menentukan apakah variasi tersebut adalah kesalahan atau pilihan artis yang disengaja.**
+- **Jika metadata tersedia dalam beberapa opsi, prioritas harus diberikan kepada opsi yang paling mudah dikenali dan dapat dilacak kembali ke lagu atau sumber aslinya.** Romanisasi dan terjemahan resmi lebih baik diletakkan ke bidang romanisasi selama mudah ditemukan dan dikenali secara umum.
 
 #### Teknis
 
@@ -142,11 +151,10 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 
 ### Diperbolehkan
 
-Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang biasanya tidak jelas bahkan setelah membaca seluruh bagian ranking criteria ini.
+Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang biasanya tidak jelas bahkan setelah membaca seluruh bagian ranking criteria ini. Jika terdapat beberapa opsi yang tersedia untuk metadata lagu, aturan standarisasi di atas akan diprioritaskan dari bagian Ranked dan Loved.
 
 - **Untuk lagu di mana komposer dan penyanyi adalah orang yang berbeda, penyanyi dapat dicantumkan setelah nama komposer atau circle/grup dengan indikator `feat.`.**
-- **Jika seorang artis telah memberikan terjemahan resmi untuk namanya, itu dapat digunakan dalam kolom romanisasi artis.** Romanisasi resmi dapat digunakan untuk ejaan nama artis, tetapi urutan nama harus mengikuti aturan yang ada.
-- **Jika judul lagu Unicode memiliki terjemahan atau romanisasi resmi yang disediakan oleh artis, salah satunya dapat digunakan di kolom judul yang diromanisasi.**
+- **Jika unicode pada sebuah judul lagu maupun artis memiliki terjemahan atau romanisasi resmi yang disediakan oleh artis, itu dapat digunakan pada bidang romanisasi masing-masing. Jika kedua terjemahan dan romanisasi tersedia, keduanya dapat digunakan.**
 - **Jika lagu mapset dikontribusikan oleh beberapa artis, mereka dapat dicantumkan dengan tanda koma di antaranya.** Jika ada 3 atau lebih artis yang berkontribusi dan mereka bukan bagian dari grup berlabel resmi, `Various Artists` atau nama deskriptif lainnya dapat digunakan sebagai gantinya.
 - **Untuk Remix/Cover, artis asli boleh digunakan di kolom artis, selama kolom judul diubah untuk menunjukkan dengan jelas bahwa lagu tersebut di-remix.** Penanda ini harus berada dalam tanda kurung dan berisi Remix/Artis cover diikuti dengan deskriptor.
 
@@ -175,8 +183,8 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 - **File audio beatmap harus menggunakan format file `.mp3` atau` .ogg` dan memiliki bit rate rata-rata tidak lebih dari 192kbps.**
 - **Beatmap hanya dapat berisi satu file lagu yang digunakan oleh semua tingkat kesulitan.** Beberapa file lagu dalam satu set beatmap tidak didukung dan menghasilkan perilaku yang tidak terduga dengan waktu pratinjau, metadata, dll.
 - **File audio lagu dan file hitsound harus memiliki kualitas yang wajar.** Cobalah untuk menemukan file sumber kualitas tertinggi yang tersedia daripada mengambil file dari situs web video streaming. Lagu harus dinormalisasi ke volume rilis aslinya dan tidak boleh di-encode ke bit rate yang lebih tinggi dari file aslinya.
-- **Beatmap harus terhitsound.** Hitnormals memberikan umpan balik kepada pemain, dan additions (peluit, tepuk tangan, dan penutup) memberi aksen pada bagian penting dari musik.
-  - **Untuk beatmap osu!mania yang hanya berisi tingkat kesulitan Insane atau lebih tinggi, additions tidak diperlukan.**
+- **Beatmap wajib memiliki hitsound.** Hitnormal memberikan umpan balik kepada pemain, dan additions (peluit, tepuk tangan, dan penutup) memberi aksen pada bagian penting dari musik.
+  - **beatmap pada osu!mania tidak memerlukan hitsound additions.** Hal ini untuk memudahkan para mapper osu!mania dari berbagai latar belakang untuk didekati dengan lebih mudah. Masih sangat disarankan untuk menambahkan hitsound untuk meningkatkan nuansa beatmap Anda. Jika hitsound tidak digunakan, maka addition dan *sample control point* tidak boleh ditambahkan.
 - **Semua objek yang diklik harus memiliki suara [hitsound aktif](/wiki/Beatmapping/Hitsound#active-hitsound).** Beatmap osu!mania dikecualikan dari ini karena konstruksi ritme mode ini.
 - **[Hitsound aktif](/wiki/Beatmapping/Hitsound#active-hitsound) harus menggunakan format file `.wav` atau` .ogg`.** File `.mp3` memiliki sedikit tundaan, dan oleh karena itu hanya digunakan untuk [hitsound pasif](/wiki/Beatmapping/Hitsound#passive-hitsound), seperti suara ambient.
 - **[Hitsound aktif](/wiki/Beatmapping/Hitsound#active-hitsound) tidak boleh memiliki tundaan lebih dari 5 milidetik.** "Tundaan" disini merupakan puncak suara daripada awal suara. Hal ini memastikan umpan balik hitsound tersinkron dengan lagu secara efektif. `normal-hitfinish.wav` skin default mengalami sedikit tundaan, namun masih dapat digunakan sebagai hitsound kustom.
