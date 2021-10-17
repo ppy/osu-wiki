@@ -6,7 +6,14 @@ tags:
 
 # Bubble
 
-The **bubble** (![Bubble icon](/wiki/shared/icon/bubble.gif)) was a forum post icon used by the members of the [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*) and [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*). Being the next step of the old ranking system after a [proto-bubble](/wiki/Modding/Proto-bubble), a regular bubble meant that a [beatmap](/wiki/Beatmap) was ready to be ranked from the BAT's point of view. Bubbled beatmaps would be eventually checked by another BAT member, and [ranked](/wiki/Beatmap/Category#ranked) or [approved](/wiki/Beatmap/Category#approved) as long as only minor changes to the map were required.
+The **bubble** (![Bubble icon](/wiki/shared/icon/bubble.gif)) was a forum post icon used by the members of the following modding teams involved in the [beatmap ranking process](/wiki/Beatmap_ranking_procedure):
+
+- [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*)
+- [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*)
+- [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*)
+- [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*)
+
+Being the next step of the old ranking system after a [proto-bubble](/wiki/Modding/Proto-bubble), a regular bubble meant that a [beatmap](/wiki/Beatmap) was ready to be ranked from the modder's point of view. Bubbled beatmaps would be eventually checked by another member of the BAT or BN and [ranked](/wiki/Beatmap/Category#ranked) or [approved](/wiki/Beatmap/Category#approved) as long as only minor changes to the map were required.
 
 In the modern [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure), the equivalent of a bubble is the first nomination<!-- TODO: nomination article link --> given by a [beatmap nominator](/wiki/People/The_Team/Beatmap_Nominators).
 
@@ -18,7 +25,7 @@ Bubbles were introduced by ![][flag_AU] [peppy](/wiki/People/peppy) on October 2
 
 On October 3, 2010, the MAT received the permissions to use the bubble icon, alongside the BAT<!-- internal reference: https://osu.ppy.sh/community/forums/topics/38403 -->. This essentially deprecated the [proto-bubbles](/wiki/Modding/Proto-bubble), and both teams had been primarily using regular bubbles since.
 
-After the [beatmap discussion system](/wiki/Beatmap_Discussion) was fully implemented<!-- TODO: when? -->, the forum-based beatmap management controls were phased out, with bubbles being naturally replaced by nominations<!-- TODO: nomination article link -->.
+After the [beatmap discussion system](/wiki/Beatmap_Discussion) was fully implemented and became the main interface for modding in November 2017, the forum-based beatmap management controls were phased out, with bubbles being naturally replaced by nominations<!-- TODO: nomination article link -->.
 
 ## Mechanics
 
@@ -30,7 +37,9 @@ Bubbled beatmaps' threads were listed on the first pages of the [Pending Beatmap
 
 ### Requirements
 
-In order to be bubbled, a beatmap's [star priority](/wiki/Modding/Star_priority) had to be at least 8. Later, this threshold was increased to 12<!-- internal source: https://osu.ppy.sh/community/forums/posts/280845 -->. The requirement for a beatmap to be considered for the [Ranked](/wiki/Beatmap/Category#ranked) category was to have a single bubble. Beatmaps going for the [Approved](/wiki/Beatmap/Category#approved) category had to have two consecutive bubbles placed by two different BAT members.
+- In order to be bubbled, a beatmap's [star priority](/wiki/Modding/Star_priority) had to be at least 8. Later, this threshold was increased to 12<!-- internal source: https://osu.ppy.sh/community/forums/posts/280845 -->.
+- The requirement for a beatmap to be considered for the [Ranked](/wiki/Beatmap/Category#ranked) category was to have a single bubble.
+- Beatmaps going for the [Approved](/wiki/Beatmap/Category#approved) category had to have two consecutive bubbles placed by two different BAT members. On June 2, 2017, this threshold was changed to a single bubble<!-- internal source: https://osu.ppy.sh/community/forums/topics/631077?start=6050796 -->.
 
 ### Bubble pop
 
