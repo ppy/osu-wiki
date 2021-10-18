@@ -11,9 +11,10 @@ Currently the osu! Community Meetings are being chaired by [peppy](https://osu.p
 The osu! Community Meetings are currently hosted on a Discord Stage on the [osu!dev Discord](https://discord.gg/ppy), and simulcasted on [https://www.twitch.tv/ppy](https://www.twitch.tv/ppy). Each meeting is currently scheduled to last about an hour, taking place every other Sunday 01:00 UTC. 
 
 Everyone is welcome to join. If you have a question or have something to add to the discussion, you can raise your hand on the Discord Stage to join the queue, or write a message on the relevant Discord thread if you are not comfortable speaking. In addition, we kindly ask that you observe the following guidelines:
-* Make sure you are verified on the server if you are interested in joining the discussions. 
-* Plan your talking points ahead of time, and keep them as concise as possible.
-* Try to only bring up issues which affect the larger community, not just you. 
+
+- Make sure you are verified on the server if you are interested in joining the discussions. 
+- Plan your talking points ahead of time, and keep them as concise as possible.
+- Try to only bring up issues which affect the larger community, not just you. 
 
 This is to ensure that we can efficiently answer as many questions from the community as possible. The aim is ~5 minutes per question.
 
