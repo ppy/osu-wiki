@@ -13,8 +13,6 @@ Forum -> Category (e.g; osu!) -> Section (e.g; development) -> Subforums (e.g; c
 
 One of ther main functions of the forums is to assist with [beatmap moderation](/wiki/Modding) where users get feedback and help to improve their beatmaps. 
 
-
-
 <!-- TODO: needs more on what the forums are and their purpose within osu!, maybe explain the purpose of each category, brief rundown of concepts relating to the forums: user groups, user rights, formatting, etc -->
 
 <!-- TODO: Links -->
