@@ -11,7 +11,7 @@ tags:
 
 *ヒットオブジェクト*とは、[ビートマップ](/wiki/Beatmap)のゲームプレイ中にプレイヤーが触れることのできる要素のことです。各[ゲームモード](/wiki/Game_mode)には独自のヒットオブジェクトが用意されており、ゲームプレイ体験を変化させます。各ゲームモードのヒットオブジェクトの概要については、以下の表を参照してください。
 
-| osu! | osu!taiko | osu!catch | osu!mania |
+| [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
 | [ヒットサークル](/wiki/Hit_object/Hit_circle) | ヒットサークル | [フルーツ](/wiki/Hit_object/Fruit) | ノーツ |
 | [スライダー](/wiki/Hit_object/Slider) | ドラムロール | [ジュースストリーム](/wiki/Hit_object/Juice_stream) | ホールドノーツ |

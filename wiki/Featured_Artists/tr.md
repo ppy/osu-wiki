@@ -5,7 +5,7 @@ tags:
 
 # Featured artistler
 
-**Featured artistler** kendi parçalarından oluşturulan bir müzik derlemesinin [beatmaplerde](/wiki/Beatmap) ve osu!'nun Dünya Kupası canlı yayınlarıdaki arkaplan müziklerinde kullanılması için osu! ile birlikte çalışan müzik sanatçılarıdır.
+**Featured artistler** kendi parçalarından oluşturulan bir müzik derlemesinin [beatmaplerde](/wiki/Beatmap) ve [osu! World Cup](/wiki/Tournaments#osu!-world-cup) canlı yayınlarıdaki arkaplan müziklerinde kullanılması için osu! ile birlikte çalışan müzik sanatçılarıdır.
 
 Web sayfasının [featured artist listesi](https://osu.ppy.sh/beatmaps/artists) ilgili her sanatçıyı sergiler. Her bir sanatçının sayfası onların müzikleri hakkında genel bilgiye ve beatmap oluşturma için önceden zamanlanmış `.osz` dosyalarının eşlik ettiği osu!'da kullanılması için lisanslanmış parçalarının bir listesine ev sahipliği yapar.
 
