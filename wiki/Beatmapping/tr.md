@@ -21,9 +21,9 @@ Eğer herhangi bir nedenden dolayı şarkı seçiminde listeli değilse, beatmap
 
 ### Şarkı Kurulumu (Song Setup)
 
-*Ana sayfa: [Şarkı Kurulumu](/wiki/Song_Setup)*
+*Ana sayfa: [Şarkı Kurulumu](/wiki/Beatmap_Editor/Song_Setup)*
 
-Yeni bir [map seti](/wiki/mapset) oluştururken, diğer başka beatmap düzenleyici kısımlarından önce her zaman bu pencereyi görürsünüz.
+Yeni bir [map seti](/wiki/Beatmap) oluştururken, diğer başka beatmap düzenleyici kısımlarından önce her zaman bu pencereyi görürsünüz.
 
 Başka bir [zorluk](/wiki/Beatmap/Difficulty) oluşturmadan önce bu bilgi kutucuğunu doldurmalısınız.
 Bu, set içerisindeki tüm zorluklar için metaverinin tutarlı olmasını sağlayacaktır.
@@ -34,21 +34,21 @@ Sonraki adım beatmapinize zamanlama eklemek olacak.
 
 ### Zamanlama (Timing)
 
-*Ana sayfa: [Zamanlama](/wiki/Timing)*
+*Ana sayfa: [Zamanlama](/wiki/Beatmap_Editor/Timing)*
 
 **Zamanlama çok önemlidir!**
 Hatalı zamanlanan mapler derecelendirme için dikkate alınmayacaktır.
-Herhangi bir [vuruş objesi](/wiki/Hit_Objects) eklemeden önce zamanlamanızın mükemmel olduğundan emin olmalısınız.
+Herhangi bir [vuruş objesi](/wiki/Hit_object) eklemeden önce zamanlamanızın mükemmel olduğundan emin olmalısınız.
 
 Eğer zamanlamanızdan şüpheliyseniz, önce yardım için bir mod ile iletişime geçin, ya da şarkınızı [Beatmap Yardım forumuna](https://osu.ppy.sh/community/forums/10) gönderin.
 Bu ilerleyen vakitlerde sizi (ve modding topluluğunu) büyük güçlüklerden kurtaracaktır.
 
 ### Oluştur (Compose)
 
-*Ana sayfa: [Oluştur](/wiki/Compose)*
+*Ana sayfa: [Oluştur](/wiki/Beatmap_Editor/Compose)*
 
 Beatmap düzenleyicinin oluştur sekmesi muhtemelen beatmap oluştururken zamanınızın büyük çoğunluğunu harcayacağınız yerdir.
-Burası vuruş objelerini görsel olarak yerleştirebileceğiniz ve [vuruş seslerini](/wiki/hit_sounds) açıp kapayabileceğiniz yerdir.
+Burası vuruş objelerini görsel olarak yerleştirebileceğiniz ve [vuruş seslerini](/wiki/Beatmapping/Hitsound) açıp kapayabileceğiniz yerdir.
 
 ### Dizayn (Design)
 

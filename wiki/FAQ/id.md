@@ -351,11 +351,11 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 
 ## Performance Point
 
-*Penjelasan lebih lanjut: [Performance Point](/wiki/Performance_Points)*
+*Penjelasan lebih lanjut: [Performance Point](/wiki/Performance_points)*
 
 Performance point(pp) merupakan suatu nilai yang digunakan untuk mengukur kemampuan seorang pemain relatif terhadap rekam jejak permainan dari pemain yang bersangkutan. Masing-masing mode permainan memiliki mekanisme perhitungan pp-nya tersendiri, namun pada dasarnya **semakin sulit suatu beatmap, semakin besar pula pp yang dapat kamu raih dari beatmap tersebut**. Untuk dapat memperoleh pp, kamu harus senantiasa menantang dirimu untuk dapat memainkan dan menguasai beatmap-beatmap dengan tingkat kesulitan yang terus meningkat seiring waktu. Harap diingat bahwa nilai pp yang kamu miliki berlaku secara terpisah per mode permainan; pp yang kamu dapatkan dari bermain beatmap osu!catch hanya akan berpengaruh pada nilai pp osu!catch kamu dan lain sebagainya.
 
-Untuk informasi yang lebih mendalam seputar pp, harap kunjungi laman [Performance Point](/wiki/Performance_Points).
+Untuk informasi yang lebih mendalam seputar pp, harap kunjungi laman [Performance Point](/wiki/Performance_points).
 
 ---
 

@@ -31,7 +31,7 @@
 
 ### Ebenen
 
-- Alle Storyboard Sprites werden unterhalb dem Skin und der [Hit Objekte](/wiki/Hit_Objects) platziert.
+- Alle Storyboard Sprites werden unterhalb dem Skin und der [Hit Objekte](/wiki/Hit_object) platziert.
   - Daher ist selbst die "höchste"(Foreground) Ebene im Storyboard immer noch niedriger als der Lebensbalken, die Circle/Slider/Spinner, der Cursor, etc.
 - Es gibt vier Storyboard Ebenen, die in steigender Reihenfolge an Priorität zunehmen:
   - Background

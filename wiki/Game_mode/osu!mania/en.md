@@ -82,7 +82,7 @@ Health bar regeneration occurs slowly while holding the hold note(s). Depending 
 
 ## Play Styles
 
-*Refer to [Play Styles page under osu!mania](/wiki/Play_Styles#osu-mania).*
+*Refer to [Play Styles page under osu!mania](/wiki/Play_style#osu-mania).*
 
 ## Controls
 

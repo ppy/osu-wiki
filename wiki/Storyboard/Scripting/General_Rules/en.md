@@ -31,7 +31,7 @@
 
 ### Layers
 
-- All storyboard sprites are placed below the skin and [hit objects](/wiki/Hit_Objects).
+- All storyboard sprites are placed below the skin and [hit objects](/wiki/Hit_object).
   - So, even the "highest"(Foreground) layer in the storyboard will always be behind the HP bar, the circles/sliders/spinners, the cursor, etc.
 - There are four Storyboard layers, in increasing order of priority:
   - Background
