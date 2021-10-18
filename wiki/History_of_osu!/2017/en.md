@@ -77,7 +77,7 @@ Links:
 
 ## August
 
-[Wisp X](https://osu.ppy.sh/beatmaps/artists/16) and [OISHII](https://osu.ppy.sh/beatmaps/artists/17) were announced as new featured artists. osu!idol 2017 auditions opened. The osu! Coffee Hour was introduced as a pod cast. An overhaul for [Yuzu's](/wiki/Yuzu) new look was opened as a fanart contest.
+[Wisp X](https://osu.ppy.sh/beatmaps/artists/16) and [OISHII](https://osu.ppy.sh/beatmaps/artists/17) were announced as new featured artists. osu!idol 2017 auditions opened. The osu! Coffee Hour was introduced as a pod cast. An overhaul for [Yuzu's](/wiki/Mascots#-yuzu) new look was opened as a fanart contest.
 
 Links:
 

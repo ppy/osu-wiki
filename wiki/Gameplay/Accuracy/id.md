@@ -2,7 +2,7 @@
 
 <!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
 
-Akurasi adalah suatu pengukur konsistensi pemain untuk menekan [hit object](/wiki/Hit_object). Terdapat tiga jenis akurasi yang dimiliki pemain: akurasi keseluruhan pada beatmap, yang bergantung pada hit skor dari keseluruhan hit object yang diperoleh; akurasi keseluruhan pemain, yang ditimbang untuk memungkinkan skor yang lebih baik dan menonjol; dan akurasi [Performance Point (pp)](/wiki/Performance_Points) pada pemain, yang bergantung pada akurasi skor yang terkirim.
+Akurasi adalah suatu pengukur konsistensi pemain untuk menekan [hit object](/wiki/Hit_object). Terdapat tiga jenis akurasi yang dimiliki pemain: akurasi keseluruhan pada beatmap, yang bergantung pada hit skor dari keseluruhan hit object yang diperoleh; akurasi keseluruhan pemain, yang ditimbang untuk memungkinkan skor yang lebih baik dan menonjol; dan akurasi [Performance Point (pp)](/wiki/Performance_points) pada pemain, yang bergantung pada akurasi skor yang terkirim.
 
 ## Mode permainan
 
@@ -57,7 +57,7 @@ Sebab saat mod [DT](/wiki/Game_modifier/Double_time) (Double Time) dan [HT](/wik
 
 #### Error
 
-`Error` akan selalu menampilkan dua nilai yang mewakili seberapa jauh hit yang lebih dahulu dari rata-rata dan seberapa jauh hit yang lebih lambat dari rata-rata. Semakin besar nilai [Overall Difficulty](/wiki/Beatmapping/Overall_Difficulty) dari suatu beatmap, semakin kecil nilai kesalahan yang harus dilakukan saat bermain beatmap.
+`Error` akan selalu menampilkan dua nilai yang mewakili seberapa jauh hit yang lebih dahulu dari rata-rata dan seberapa jauh hit yang lebih lambat dari rata-rata. Semakin besar nilai [Overall Difficulty](/wiki/Beatmapping/Overall_difficulty) dari suatu beatmap, semakin kecil nilai kesalahan yang harus dilakukan saat bermain beatmap.
 
 #### Unstable Rate
 

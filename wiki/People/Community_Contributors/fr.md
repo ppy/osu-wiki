@@ -25,7 +25,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 | ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Développement et maintenance de [osu!stats](https://osustats.ppy.sh/) et d'un certain nombre d'utilitaires utiles pour le beatmapping, le modding et le jeu en général. |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Performances exceptionnelles dans les tests de correction de bugs et de fonctionnalités et dans le traitement des demandes d'assistance des utilisateurs. |
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | Plus de 3 ans de travail silencieux à s'occuper inlassablement du [beatmap packing](https://osu.ppy.sh/beatmaps/packs) et plusieurs années de gestion des beatmap charts. |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Des années et des années de service, y compris la conception du skin original, l'avancement du [storyboarding](/wiki/Storyboards) en tant qu'art et motivation. |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Des années et des années de service, y compris la conception du skin original, l'avancement du [storyboarding](/wiki/Storyboard) en tant qu'art et motivation. |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Gestion et modération de la communauté au début et énormes contributions au cours de son temps. |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Premier gérant de communauté et modérateur global, qui a placé la barre très haut pour les [GMT](/wiki/People/The_Team/Global_Moderation_Team) à suivre. |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | Premier staff manager et BAT manager et a formé à lui seul une équipe de modération de beatmaps d'élite à partir de rien. |

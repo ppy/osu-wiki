@@ -18,7 +18,7 @@ no_native_review: true
 
    ![](img/online-editing.jpg "Nhấn vào biểu tượng hình bút chì trên GitHub sẽ đưa bạn tới trình soạn thảo web")
 
-5. Giờ bạn có thể thực hiện các thay đổi. Bạn hãy bám sát [Tiêu chí tạo kiểu bài viết](/wiki/ASC) nhất có thể.
+5. Giờ bạn có thể thực hiện các thay đổi. Bạn hãy bám sát [Tiêu chí tạo kiểu bài viết](/wiki/Article_styling_criteria) nhất có thể.
 
 6. Đi tới phần [Lưu và commit](#lưu-và-commit).
 

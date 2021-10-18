@@ -42,7 +42,7 @@ Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](htt
 
 1. Di dalam folder tempat kamu mengkloning repo, arahkan ke file yang akan kamu sunting dan nama folder yang digunakan biasanya mengacu juga pada nama artikel, sedangkan file `.md` adalah terjemahannya.
 2. Setelah kamu menemukan file yang benar, buka menggunakan editor teks favoritmu.
-3. Kamu sekarang dapat membuat perubahan yang akan kamu lakukan. Saat melakukan penyuntingan, mohon ikuti [Kriteria Penyusunan Artikel](/wiki/ASC) sebisa mungkin.
+3. Kamu sekarang dapat membuat perubahan yang akan kamu lakukan. Saat melakukan penyuntingan, mohon ikuti [Kriteria Penyusunan Artikel](/wiki/Article_styling_criteria) sebisa mungkin.
 4. Lanjutkan ke tahap [Melakukan commit dan push](#melakukan-commit-dan-push).
 
 ### Memindahkan file yang ada

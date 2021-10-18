@@ -18,7 +18,7 @@ Le **test mode** est une fonctionnalité de l'[éditeur de beatmap](/wiki/Beatma
 Jouer une beatmap en test mode diffère du jeu normal, car il ne soumet aucun score, n'affiche aucun classement, ne permet pas aux utilisateurs d'échouer les beatmaps, et affiche toujours les informations suivantes sur le côté gauche de l'écran :
 
 - L'actuel [timestamp](/wiki/Modding/Timestamp) de la beatmap
-- Le [SB load](/wiki/Beatmap_editor/SB_load)
+- Le [SB load](/wiki/Beatmap_Editor/SB_Load)
 - Le nombre total de 300s, 100s, 50s et de miss obtenus
 - Le pourcentage de hit qui sont mal placés
 - Le délai moyen (en millisecondes) dans lequel les hits mal placés sont en retard
