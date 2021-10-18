@@ -86,7 +86,7 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 | Eigenschaften | Auflösung im Fenstermodus | Auflösung im Vollbildmodus |
 | :-- | :-- | :-- |
 | Standard | 800 x 600, 1024 x 768 | 800 x 600, 1024 x 768 |
-| Breitbild | 1024 x 600, _Ihre Bildschirmauflösung_ (Randlos) \[Standard\] | _Ihre Bildschirmauflösung_ (native) \[Standard\] |
+| Breitbild | 1024 x 600, *Ihre Bildschirmauflösung* (Randlos) \[Standard\] | *Ihre Bildschirmauflösung* (native) \[Standard\] |
 
 - **Vollbildmodus** (osu! nimmt Ihren ganzen Bildschirm ein. Kann die Latenzzeit verringern.)
 
