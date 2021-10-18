@@ -1,7 +1,5 @@
 # osu! Community Meetings
 
-![](img/logo.png "osu!academy logo")
-
 The **osu! Community Meetings** are a fortnightly drop-in surgery hosted by the [osu! team](/wiki/People/The_Team). The primary aim of these meetings is to give anyone a chance to have their say, and get an immediate response.
 
 In the past, the osu! team used to host regular community meetings where everyone was welcome to talk. With the scale of the game today, this is no longer feasible, but through Discord a queueing system of sorts has been implemented where questions can be addressed one at a time.
@@ -20,6 +18,14 @@ Everyone is welcome to join. If you have a question or have something to add to 
 This is to ensure that we can efficiently answer as many questions from the community as possible. The aim is ~5 minutes per question.
 
 The next osu! Community Meeting is scheduled to take place on: **October 31st 2021 (Sunday 01:00 UTC)**
+
+## Frequently Asked Questions
+
+This sections aims to address some common questions that have frequently cropped up and answered in previous community meetings, so that more time can be spent answering other questions.
+
+**When will osu!lazer be released?**
+The current scope is owhegiowehgiowe
+For more information, please refer to [osu!community #X](yt&t=123s), [osu!community #Y](yt&t=727s), 
 
 ## Archives
 
