@@ -28,7 +28,7 @@ This sections aims to address some common questions that have frequently cropped
 
 ### When will changes to pp/performance points be made?
 
-The development team is hoping to make more regular changes to performance points by folding in contributions made from the community in the form of osu-performance pull requests on GitHub. Based on feedback from previous surveys on the topic, it is likely changes will happen at least twice a year for modes that have active contribution and development happenin
+The development team is hoping to make more regular changes to performance points by folding in contributions made from the community in the form of osu-performance pull requests on GitHub. Based on feedback from previous surveys on the topic, it is likely changes will happen at least twice a year for modes that have active contribution and development happening.
 
 ### When will osu!lazer be released?
 
