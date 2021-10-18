@@ -18,7 +18,7 @@ Haga clic en la canción, esto abrirá el [editor de beatmap](/wiki/Beatmap_Edit
 
 ### Configuración de la canción
 
-*Ver también: [Configuración de la canción](/wiki/Song_Setup)*
+*Ver también: [Configuración de la canción](/wiki/Beatmap_Editor/Song_Setup)*
 
 Al crear un nuevo [mapset](/wiki/Beatmap), siempre verás este cuadro antes que cualquier otra cosa del editor de beatmaps.
 
@@ -31,18 +31,18 @@ El siguiente paso es agregar tiempo a tu beatmap.
 
 ### Tiempo
 
-*Ver también: [Tiempo](/wiki/Timing)*
+*Ver también: [Tiempo](/wiki/Beatmap_Editor/Timing)*
 
 **¡El tiempo es vital!**
 Los mapas cronometrados incorrectamente no serán considerados para el ranking.
-Debes asegurarte de que tu tiempo sea perfecto antes de agregar cualquier [objeto de golpeo](/wiki/Hit_Objects).
+Debes asegurarte de que tu tiempo sea perfecto antes de agregar cualquier [objeto de golpeo](/wiki/Hit_object).
 
 Si tiene dudas sobre el tiempo, ponte primero en contacto con un mod para obtener ayuda o envía tu canción al [foro de ayuda de Beatmap](https://osu.ppy.sh/community/forums/10).
 Esto te ahorrará a ti (y a la comunidad de modding) muchas molestias más adelante.
 
 ### Componer
 
-*Ver también: [Componer](/wiki/Compose)*
+*Ver también: [Componer](/wiki/Beatmap_Editor/Compose)*
 
 La pestaña de composición del editor de beatmaps es donde probablemente pasarás la mayor parte de tu tiempo de beatmapping.
 Es donde puedes colocar visualmente objetos de golpeo y alternar sus [sonidos de golpeo](/wiki/Beatmapping/Hitsound)

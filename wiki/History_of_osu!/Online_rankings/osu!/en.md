@@ -377,11 +377,11 @@ The following is a list of the longest consecutive days a player has held the ra
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2010-10-03 | 2011-01-20 | 109 |
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"

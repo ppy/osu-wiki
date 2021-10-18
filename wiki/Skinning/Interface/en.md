@@ -1878,7 +1878,7 @@ Notes:
 
 Notes:
 
-- This element is used in [multi](/wiki/multi) only.
+- This element is used in [multi](/wiki/Multi) only.
 
 ## Score entry
 

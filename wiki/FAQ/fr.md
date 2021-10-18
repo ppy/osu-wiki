@@ -371,11 +371,11 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 
 ## Points de Performance
 
-*Explication complète: [Performance Points](/wiki/Performance_Points)*
+*Explication complète: [Performance Points](/wiki/Performance_points)*
 
 Les points de performance(pp) est une métrique de classement visant à être plus pertinente par rapport au contexte d'un jeu continuel tel qu'osu!. Elle vise à mettre en valeur les compétences du joueur plutôt que le temps joué. Les points de performance sont énormément basés sur la difficulté de la map, déterminé par un algorithme unique à chaque mode de jeu. Basé sur la difficulté seule, chaque score se verra attribué un classement et un valeur de pp. Le rang de performance est beaucoup basé sur les performances de maps individuelles. Le meilleur moyen de l'améliorer est de faire de bons scores sur des musiques difficiles, et jouer beaucoup de musiques. sachez que les modes de jeu sont séparés; jouer osu!, osu!taiko, osu!catch, ou osu!mania augmentera votre montant de pp pour ce mode de jeu uniquement.
 
-Pour les questions concernant les pp, veuillez d'abord consulter [la page du wiki sur les pp](/wiki/Performance_Points).
+Pour les questions concernant les pp, veuillez d'abord consulter [la page du wiki sur les pp](/wiki/Performance_points).
 
 ---
 

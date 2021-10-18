@@ -25,7 +25,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 | ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Développement et maintenance de [osu!stats](https://osustats.ppy.sh/) et d'un certain nombre d'utilitaires utiles pour le beatmapping, le modding et le jeu en général. |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Performances exceptionnelles dans les tests de correction de bugs et de fonctionnalités et dans le traitement des demandes d'assistance des utilisateurs. |
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | Plus de 3 ans de travail silencieux à s'occuper inlassablement du [beatmap packing](https://osu.ppy.sh/beatmaps/packs) et plusieurs années de gestion des beatmap charts. |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Des années et des années de service, y compris la conception du skin original, l'avancement du [storyboarding](/wiki/Storyboards) en tant qu'art et motivation. |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Des années et des années de service, y compris la conception du skin original, l'avancement du [storyboarding](/wiki/Storyboard) en tant qu'art et motivation. |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Gestion et modération de la communauté au début et énormes contributions au cours de son temps. |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Premier gérant de communauté et modérateur global, qui a placé la barre très haut pour les [GMT](/wiki/People/The_Team/Global_Moderation_Team) à suivre. |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | Premier staff manager et BAT manager et a formé à lui seul une équipe de modération de beatmaps d'élite à partir de rien. |
@@ -193,7 +193,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 [flag_AU]: /wiki/shared/flag/AU.gif "Australie"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
 [flag_BG]: /wiki/shared/flag/BG.gif "Bulgarie"
-[flag_BY]: /wiki/shared/flag/BY.gif "Bélarus"
+[flag_BY]: /wiki/shared/flag/BY.gif "Biélorussie"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
@@ -202,7 +202,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
 [flag_GR]: /wiki/shared/flag/GR.gif "Grèce"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hongrie"
@@ -214,7 +214,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"

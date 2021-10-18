@@ -51,7 +51,7 @@ Sektioner: ([Komponera](/wiki/Beatmap_Editor/Compose) • [Designa](/wiki/Beatma
 
 # Personer
 
-[Teamet](/wiki/People/The_Team) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Språk moderatorer](/wiki/People/Language_Moderators) • [Nomineringsbedömningsteamet](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Supportteam](/wiki/People/Support_Team)
+[Teamet](/wiki/People/The_Team) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Språk moderatorer](/wiki/People/Language_Moderators) • [Nomineringsbedömningsteamet](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Supportteam](/wiki/People/The_Team/Support_Team)
 
 </div>
 </div>

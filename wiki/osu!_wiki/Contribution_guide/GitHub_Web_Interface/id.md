@@ -14,13 +14,13 @@
 
    ![](img/online-editing.jpg "Mengeklik ikon pensil ini di GitHub akan mengirim anda ke editor web")
 
-5. Kamu sekarang dapat membuat penyuntingan yang hendak kamu lakukan. Saat membuat perubahan, mohon ikuti [Kriteria Penyusunan Artikel](/wiki/ASC) sebisa mungkin.
+5. Kamu sekarang dapat membuat penyuntingan yang hendak kamu lakukan. Saat membuat perubahan, mohon ikuti [Kriteria Penyusunan Artikel](/wiki/Article_styling_criteria) sebisa mungkin.
 
 6. Lanjutkan ke tahap [Menyimpan dan melakukan commit](#menyimpan-dan-melakukan-commit).
 
 ### Memindahkan file
 
-*Peringatan: Hal ini **tidak disarankan** karena kamu hanya dapat memindahkan satu file dalam satu waktu! Hal ini dapat membuat beberapa commit "bodoh" yang dapat menandai peninjau untuk [menutup atau menghentikan pull request kamu](/wiki/osu!_wiki/Contribution_guide/Common_Issues#seseorang-mengatakan-kepada-saya-untuk-meninggalkan-pesan-commit-yang-lebih-berarti!)!*
+*Peringatan: Hal ini **tidak disarankan** karena kamu hanya dapat memindahkan satu file dalam satu waktu! Hal ini dapat membuat beberapa commit "bodoh" yang dapat menandai peninjau untuk [menutup atau menghentikan pull request kamu](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits)!*
 
 1. Cari file yang akan kamu pindahkan dan buka.
 
@@ -56,7 +56,7 @@
 
 ### Menghapus file
 
-*Peringatan: Hal ini **tidak disarankan** karena kamu hanya dapat memindahkan satu file dalam satu waktu! Hal ini dapat membuat beberapa commit "bodoh" yang dapat menandai peninjau untuk [menutup atau menghentikan pull request kamu](/wiki/osu!_wiki/Contribution_guide/Common_Issues#seseorang-mengatakan-kepada-saya-untuk-meninggalkan-pesan-commit-yang-lebih-berarti!)!*
+*Peringatan: Hal ini **tidak disarankan** karena kamu hanya dapat memindahkan satu file dalam satu waktu! Hal ini dapat membuat beberapa commit "bodoh" yang dapat menandai peninjau untuk [menutup atau menghentikan pull request kamu](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits)!*
 
 1. Buka menu kode di fork kamu.
 2. Arahkan ke folder tempat file akan diunggah.

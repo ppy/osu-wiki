@@ -368,11 +368,11 @@ Det finns två olika tangentbindningar, *Symmetrisk* och *Vänster till Höger*.
 
 ## Prestanda
 
-*Fullständig förklaring: [Performance Points](/wiki/Performance_Points)*
+*Fullständig förklaring: [Performance Points](/wiki/Performance_points)*
 
 Prestanda (pp) är ett prestationsmått med syfte till att vara relevant i kontext för ett kontinuerligt spel som osu!. Dess målsättning är att skifta fokus från att vara antalet tid spelat till att reflektera den egentliga skickligheten hos spelaren. Prestanda baseras kraftigt på hur svår en beatmap är, beräknad av en unik algoritm för varje spelläge. Grundat på endast denna svårighetsgrad värderas varje prestation som sedan får ett pp-värde. Prestanda är i överlag baserad på prestationer i individuella beatmaps. Det enklaste sättet att förbättras är att få höga antal poäng på svåra låtar, och genom att spela genom flera låtar. Notera att spellägena räknas separat; att spela osu!, osu!taiko, osu!catch eller osu!mania höjer pp-värdet för respektive spelläge.
 
-För frågor angående pp, var god läs [wiki-sidan för pp först](/wiki/Performance_Points).
+För frågor angående pp, var god läs [wiki-sidan för pp först](/wiki/Performance_points).
 
 ---
 

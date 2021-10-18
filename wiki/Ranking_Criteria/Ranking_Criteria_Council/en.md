@@ -8,7 +8,7 @@ This project discontinued use of the [Ranking Criteria subforum](https://osu.ppy
 
 ## Initial members
 
-Members of the Ranking Criteria Council were hand-picked to represent different regions of players and mappers, mimicking membership of the [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate).
+Members of the Ranking Criteria Council were hand-picked to represent different regions of players and mappers, mimicking membership of the [Triumvir Conglomerate](/wiki/Modding/BAT_Managers#triumvir-conglomerate).
 
 ### osu! members
 
@@ -163,9 +163,9 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CZ]: /wiki/shared/flag/CL.gif "Czech Republic"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"

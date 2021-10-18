@@ -18,13 +18,13 @@ no_native_review: true
 
    ![](img/online-editing.jpg "El hacer click en éste ícono de lápiz en GitHub te mandará al editor online")
 
-5. Ahora puedes hacer cambios. Cuando haces cambios, sigue el [Criterio de Estilo de Artículos](/wiki/Article_Styling_Criteria) tanto como puedas.
+5. Ahora puedes hacer cambios. Cuando haces cambios, sigue el [Criterio de Estilo de Artículos](/wiki/Article_styling_criteria) tanto como puedas.
 
 6. Continua en [Guardando y haciendo un 'commit'](#guardando-y-haciendo-un-'commit').
 
 ### Moviendo archivos
 
-*Precaución: Ésto **no es recomendable** porque solo puedes mover un archivo a la vez. Esto puede crear múltiples 'commits' "tontos" los cuales pueden causar que, !los revisadores [cierren o estanquen tu 'pull request'](/wiki/osu!_wiki/Contribution_guide/Common_Issues#¡alguien-me-dijo-que-use-mensajes-de-'commits'-con-significado!)!*
+*Precaución: Ésto **no es recomendable** porque solo puedes mover un archivo a la vez. Esto puede crear múltiples 'commits' "tontos" los cuales pueden causar que, !los revisadores [cierren o estanquen tu 'pull request'](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits)!*
 
 1. Navega al archivo que quieras mover y ábrelo.
 
@@ -60,7 +60,7 @@ no_native_review: true
 
 ### Eliminando archivos
 
-*Precaución: Ésto **no es recomendable** porque solo puedes eliminar un archivo a la vez. Esto puede crear múltiples 'commits' "tontos" los cuales pueden causar que, !los revisadores [cierren o estanquen tu 'pull request'](/wiki/osu!_wiki/Contribution_guide/Common_Issues#¡alguien-me-dijo-que-use-mensajes-de-'commits'-con-significado!)!*
+*Precaución: Ésto **no es recomendable** porque solo puedes eliminar un archivo a la vez. Esto puede crear múltiples 'commits' "tontos" los cuales pueden causar que, !los revisadores [cierren o estanquen tu 'pull request'](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits)!*
 
 1. Abre la pestaña de código (<>code) en tu bifurcación.
 2. Navega al archivo que quieras eliminar y ábrelo.

@@ -484,7 +484,7 @@ There are two types of links: inline and reference. Inline has two styles.
 The following is an example of both inline styles:
 
 ```markdown
-[Game Modifiers](/wiki/Game_Modifiers)
+[Game Modifiers](/wiki/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -530,8 +530,8 @@ Good examples include the following:
 
 ```markdown
 [Article styling criteria](/wiki/Article_styling_criteria)
-[Developers](/wiki/Developers)
-[Developers](/wiki/Developers#game-client-developers)
+[Developers](/wiki/People/The_Team/Developers)
+[Developers](/wiki/People/The_Team/Developers#game-client-developers)
 ```
 
 ##### Sub-article links
@@ -621,7 +621,7 @@ There are two types of image links: inline and reference. Examples:
 ```markdown
 ![][flag_AU]
 
-[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 ```
 
 Images should use the inline linking style. References to reference links must be placed at the bottom of the article.

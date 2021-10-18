@@ -1,46 +1,42 @@
 ---
-outdated: true
+no_native_review: true
 ---
 
-# Discord RPC
+# Discord Rich Presence
 
-Depuis le 31-10-2017, Discord RPC est stable !
+Depuis le 31/10/2017, Discord Rich Presence a maintenant fait son chemin vers la version stable !
 
 ## Qu'est-ce que cela signifie ?
 
-Cela signifie que vous pouvez maintenant annoncer et rejoindre des parties multijoueurs d'osu! depuis vos serveurs Discord, mais aussi voir les beatmaps auxquelles vos amis jouent, et même leur demander de rejoindre leur parties ! Enfin, vous pouvez aussi regarder les joueurs en pleine partie.
+Cela signifie que vous pouvez désormais annoncer et rejoindre des parties multijoueurs sur osu! à partir de serveurs Discord, voir ce à quoi vos amis jouent sur osu! et même demander à rejoindre des parties en cours ! Vous pouvez également observer les personnes avec lesquelles vous partagez des serveurs.
 
-## Comment ça marche ?
+## Comment cela fonctionne-t-il ?
 
-- **Vérifiez bien qu'osu! est à jour en démarrant le jeu.** Discord RPC ne fonctionne qu'à partir de la version spéciale Halloween d'osu! et n'importe quelle version qui s'ensuit - ça ne fonctionnera **pas** si votre jeu n'est pas à jour.
-- Assurez-vous que Discord détecte bien osu! lorsque ce dernier est démarré -  il est généralement détecté automatiquement, si ce n'est pas le cas ajoutez le jeu sur Discord dans `Paramètres` -> `Activité de jeu`.
-- Activez l'option `Affiche le jeu en tant que message de statut` dans la section `Activité de jeu`. Cela permet d'afficher le jeu auquel vous jouez sous votre pseudo Discord, mais elle n'est pas obligatoire pour rejoindre la partie d'un autre joueur.
-- Créez un salon multijoueur, allez sur le serveur Discord de votre choix puis cliquez sur cette icône (![le bouton vert avec un plus derrière](img/shiny-green-button.jpg)). Ce bouton vert peut prendre un peu de temps à s'afficher si vous venez de démarrer le jeu.
+- Cette nouvelle activité fantaisiste sur Discord ne **fonctionne qu'avec la version spéciale d'Halloween du jeu et toutes les nouvelles versions à venir** - elle ne **fonctionnera pas du tout** si vous ne faites pas cela.
+- Assurez-vous que Discord détecte osu! comme un jeu enregistré sur votre système - il le fait généralement par défaut, donc vous ne devriez pas avoir à vous en soucier. Vous pouvez vérifier cela dans la section `Paramètres de l'application` -> `Status d'activité` du menu des options de Discord.
+- Activez l'option `Affiche l'activité en cours en tant que message de statut` dans l'onglet `Status d'activité`. Cette option n'est pas nécessaire pour rejoindre les jeux annoncés par d'autres, mais elle est nécessaire pour annoncer les vôtres.
+- Commencez n'importe quelle partie multijoueur, rendez-vous sur votre Discord locale et cliquez sur cette icône : ![le bouton vert brillant devant le signe plus](img/shiny-green-button.jpg). Cela peut prendre quelques secondes pour apparaître si vous venez juste de commencer une partie.
 
-Voici une [vidéo de démonstration](https://assets.ppy.sh/media/halloween-2017/themoon.mp4)
+Voici une [vidéo](https://assets.ppy.sh/media/halloween-2017/themoon.mp4) en action.
 
-Si vous avez un salon multijoueur avec mot de passe, les personnes utilisant votre invitation Discord n'ont pas à entrer le mot de passe. Du multijoueur en un clic, zéro tracas !
+Si vous créez une salle avec un mot de passe, les personnes qui utilisent votre invitation n'ont pas besoin de saisir quoi que ce soit. Des parties privées en un clic, sans souci !
 
-## Rejoindre un salon
+## Rejoindre une salle
 
-Vous pouvez cliquer sur le profil Discord de n'importe qui jouant à osu! afin de voir ce qu'il fait. Si vous êtes amis avec cette personne sur Discord, vous pouvez demander à rejoindre son salon multijoueur grâce au bouton `Demander à rejoindre` !
+Vous pouvez également cliquer sur les profils Discord de tous ceux qui jouent à osu! et avec qui vous partagez un serveur, et voir ce qu'ils font en un clin d'œil. Si vous êtes ami avec eux sur Discord, vous pouvez même leur demander de rejoindre leur match multijoueur en cours.
 
 ![](img/join.jpg)
 
-## Regarder une partie
+## Spectateurs
 
-Un bouton `Regarder` apparaît si votre ami est en cours de partie, il permet de regarder la partie de votre ami ! Vous ne manquerez plus de regarder vos amis perdre !
+Ce bouton changera automatiquement pour vous permettre d'observer les personnes qui jouent des maps en ce moment, alors ne manquez plus jamais vos amis en train de rater la même musique à plusieurs reprises !
 
 ![](img/spectate.jpg)
 
-## Problèmes fréquents
+## Problèmes connus
 
-Si vous envoyez des invitations osu! trop souvent sur Discord, vous pourriez vous retrouver avec une erreur qui ressemble à cela:
+Si vous envoyez trop souvent des invitations Discord Rich Presence, vous pouvez être temporairement confronté à une erreur de Discord qui ressemble à ceci :
 
 ![](img/slow-down.jpg)
 
-C'est parfaitement normal, attendez quelques minutes et vous pourrez continuer à envoyer des invitations.
-
-## Trivia
-
-- Sujet original: [Discord RPC - join multiplayer (and more) from Discord!](https://osu.ppy.sh/community/forums/topics/659856) par [Ephemeral](https://osu.ppy.sh/users/102335)
+C'est parfaitement normal et plus trompeur de la part de Discord qu'autre chose. Attendez quelques minutes, et vous devriez pouvoir envoyer des invitations à nouveau.

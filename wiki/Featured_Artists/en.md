@@ -5,7 +5,7 @@ tags:
 
 # Featured artists
 
-**Featured artists** are music artists that have worked with osu! to make a selection of their tracks available for use in [beatmaps](/wiki/Beatmap) and background music in osu!'s World Cup<!-- TODO: "World Cup" should be able to link somewhere --> live streams.
+**Featured artists** are music artists that have worked with osu! to make a selection of their tracks available for use in [beatmaps](/wiki/Beatmap) and background music in the [osu! World Cup](/wiki/Tournaments#osu!-world-cup) live streams.
 
 The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist. Each artist's page houses general information about their music and a list of their tracks licensed for use in osu! accompanied by pre-timed `.osz` files for beatmapping.
 
@@ -32,7 +32,7 @@ New featured artists are announced weekly on osu!'s [news feed](https://osu.ppy.
 
 ## Community usage
 
-Beatmappers are encouraged to create maps for featured artist tracks. These tracks are provided with [timing](/wiki/Beatmap_Editor/Timing) data and are already cleared for use within osu!, allowing users to immediately jump into mapping without worry. The work-in-progress development build of osu!, dubbed [osu!lazer](https://github.com/ppy/osu/releases)<!-- TODO: wiki link -->, will mark these maps prominently in-game.
+Beatmappers are encouraged to create maps for featured artist tracks. These tracks are provided with [timing](/wiki/Beatmap_Editor/Timing) data and are already cleared for use within osu!, allowing users to immediately jump into mapping without worry. The work-in-progress development build of osu!, dubbed [osu!lazer](https://github.com/ppy/osu/releases)<!-- TODO: wiki link needs own page -->, will mark these maps prominently in-game.
 
 All mapping contests published on the [community contest listing](https://osu.ppy.sh/community/contests), such as the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) and the [Mapping Olympiad](/wiki/Contests#osu!-mapping-olympiad), require participants to map featured artist songs. Some community-run contests utilise these songs as well.
 

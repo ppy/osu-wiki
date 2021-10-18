@@ -441,7 +441,7 @@ Monday, 27 April 2020:
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lithuenia"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

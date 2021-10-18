@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
 ---
 
 # Guía de Contribución de la osu! wiki
@@ -48,7 +50,7 @@ Si, durante cualquier parte, estás confundido y/o necesitas ayuda adicional, si
 
 3. Esto no es un gran problema; ésto es, si no vas a editar un archivo que ya fue modificado, lo cual es poco probable, más 'commits' estarás por detrás.
 
-4. Para solucionar esto, ve a la sección [¡Mi bifurcación está desactualizada!](/wiki/osu!_wiki/Contribution_guide/Common_Issues#my-branch-is-out-of-date!) en el artículo de Problemas Comunes.
+4. Para solucionar esto, ve a la sección [¡Mi bifurcación está desactualizada!](/wiki/osu!_wiki/Contribution_guide/Best_practices#my-branch-is-out-of-date!) en el artículo de Problemas Comunes.
 
 5. Una vez que hayas completado el paso 4, continúa en [Editando en línea o localmente](#editando-en-línea-o-localmente).
 

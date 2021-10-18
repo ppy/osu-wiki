@@ -80,7 +80,7 @@ Daftar perintah BanchoBot selengkapnya adalah sebagai berikut:
 !stats <nama pemain>
 ```
 
-`!stats` menampilkan data statistik dari seorang pemain. Hasil yang keluar tergantung dari [mode permainan](/wiki/Game_Modes) yang terakhir pemain tersebut mainkan, meskipun BanchoBot tidak akan menampilkan dari mana statistik mode permainan tersebut berasal. Jika kamu mencoba menanyakan tentang pemain yang tidak pernah bermain di osu!, BanchoBot akan menanggapi dengan `User not found`, meskipun pemain tersebut memang ada. Berikut contoh hasil dari perintah tersebut:
+`!stats` menampilkan data statistik dari seorang pemain. Hasil yang keluar tergantung dari [mode permainan](/wiki/Game_mode) yang terakhir pemain tersebut mainkan, meskipun BanchoBot tidak akan menampilkan dari mana statistik mode permainan tersebut berasal. Jika kamu mencoba menanyakan tentang pemain yang tidak pernah bermain di osu!, BanchoBot akan menanggapi dengan `User not found`, meskipun pemain tersebut memang ada. Berikut contoh hasil dari perintah tersebut:
 
 ```
 13:01 pippi: !stats peppy
@@ -123,7 +123,7 @@ Terdapat 7 status yang dapat ditampilkan oleh perintah `!stats`: Editing, Idle, 
 !faq list
 ```
 
-`!faq` menampilkan isi entri. Alternatifnya, argumen `list` juga dapat digunakan untuk melihat seluruh daftar entri yang tersedia. Secara umum, BanchoBot akan menanggapinya menggunakan bahasa Inggris, tapi kamu juga bisa meminta supaya BanchoBot menanggapinya menggunakan bahasa yang berbeda dengan mengawali entri dengan [kode bahasa](/wiki/Article_Styling_Criteria#locales). Berikut contoh hasil dari perintah tersebut:
+`!faq` menampilkan isi entri. Alternatifnya, argumen `list` juga dapat digunakan untuk melihat seluruh daftar entri yang tersedia. Secara umum, BanchoBot akan menanggapinya menggunakan bahasa Inggris, tapi kamu juga bisa meminta supaya BanchoBot menanggapinya menggunakan bahasa yang berbeda dengan mengawali entri dengan [kode bahasa](/wiki/Article_styling_criteria#locales). Berikut contoh hasil dari perintah tersebut:
 
 ```
 13:03 pippi: !faq peppy

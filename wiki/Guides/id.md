@@ -33,7 +33,6 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 - [Cara menggunakan Offset Wizard](How_to_Use_the_Offset_Wizard)
 - [Mencari dan Mengunduh Beatmap](Searching_and_Downloading_Beatmaps)
 - [Pembelian Tablet](Tablet_Purchase)
-- [Tips dan Trik untuk Mengembangkan Kemampuan Bermain](Tips_and_Tricks_on_Skill_Improvement)
 
 ## Membuat skin
 

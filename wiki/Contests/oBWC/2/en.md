@@ -112,7 +112,7 @@ Grand Final song: **[Zekk](https://osu.ppy.sh/beatmaps/artists/76) - Let Me Hear
 
 | Team 1 |  |  | Team 2 | Entries |
 | --: | :-: | :-: | :-- | :-- |
-| Argentina ![][flag_AR] | 3 | **4** | ![][flag_GB] **United Kingdom**  | [#1](https://osu.ppy.sh/beatmapsets/1280480#osu/2659858), [#2](https://osu.ppy.sh/beatmapsets/1280467#osu/2659837) |
+| Argentina ![][flag_AR] | 3 | **4** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/beatmapsets/1280480#osu/2659858), [#2](https://osu.ppy.sh/beatmapsets/1280467#osu/2659837) |
 
 3rd Place Final song: **[Cranky](https://osu.ppy.sh/beatmaps/artists/23) - Flugel**
 
@@ -304,9 +304,9 @@ Song: **[MDK](https://osu.ppy.sh/beatmaps/artists/61) - Press Start**
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
