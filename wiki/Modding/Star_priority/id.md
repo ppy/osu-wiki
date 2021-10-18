@@ -13,7 +13,7 @@ Star priority mempunyai dua arti:
    - Sebuah bintang kudosu dapat diberikan oleh pengguna ke beatmap mana pun, sebuah bintang kudosu yang diberikan harus dibayar dengan satu kudosu.
    - Rasio konversi sebelumnya adalah tiga kudosu untuk satu bintang kudosu yang meningkatkan Star Priority menjadi dua.
    - Semakin tinggi star prioritynya, semakin tinggi posisi utas beatmap pada subforum Works in Progress atau Pending.
-   - Diperlukan setidaknya 12 star priority agar sebuah beatmap dapat di bubbled atau di ranked.
+   - Diperlukan setidaknya 12 star priority agar sebuah beatmap dapat di [bubbled](/wiki/Modding/Bubble) atau di ranked.
 2. Suatu sistem untuk menentukan apakah suatu Permintaan Fitur diinginkan oleh komunitas.
    - Semakin tinggi star prioritynya, semakin cepat permintaan tersebut mendapat perhatian.
    - Pengguna yang sedang memiliki osu! supporter saat pemungutan suara dapat memberikan sebuah bintang berwarna merah muda (![Kudosu](/wiki/shared/Kudos.png)) yang meningkatkan Star Priority masing-masing 2, sedangkan pengguna yang tidak memiliki osu! supporter dapat memberikan sebuah bintang berwarna biru (![Star](/wiki/shared/icon/star.gif)) yang masing-masing hanya memiliki nilai 1. Pengguna dapat memberikan beberapa bintang tergantung pada seberapa banyak sisa vote mereka.

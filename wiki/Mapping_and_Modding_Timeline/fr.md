@@ -19,7 +19,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 - **29/07/2007 :**: Les icônes des fils de discussion du forum ont été normalisées pour le processus de classement.
   - Une icône `star` (![l'icône star](/wiki/shared/icon/star.gif)) marquait les bonnes beatmaps qui nécessitent plus de travail.
   - Une icône `bubble` (![l'icône bubble](/wiki/shared/icon/bubble.gif)) marquait les beatmaps prises en compte pour le classement.
-  - Une icône `heart` (![l'icône heart](/wiki/shared/icon/heart.gif)) marquait les beatmaps classées. Ces icônes ne pouvaient être placées qu'après qu'une beatmap ait été mis en bulle, assurant ainsi deux nominations par beatmap.
+  - Une icône `heart` (![l'icône heart](/wiki/shared/icon/heart.gif)) marquait les beatmaps classées. Ces icônes ne pouvaient être placées qu'après qu'une beatmap ait été mis en [bulle](/wiki/Modding/Bubble), assurant ainsi deux nominations par beatmap.
   - Une icône `nuke` (![Icône nuke](/wiki/shared/icon/nuke.gif)) marquait les beatmaps qui ne pouvaient en aucun cas être classées. 
 
 **200 beatmaps** ont été classées en 2007.
