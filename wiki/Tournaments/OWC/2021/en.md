@@ -52,6 +52,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1420416)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/73) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Statistics spreadsheet]()
 
 ## Participants
 
@@ -109,7 +110,59 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 | ![][flag_UY] | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Rebo](https://osu.ppy.sh/users/6942259), [Kazuki K](https://osu.ppy.sh/users/6407282), [FDX](https://osu.ppy.sh/users/8987016), [Rondro](https://osu.ppy.sh/users/9293124), [Saphity](https://osu.ppy.sh/users/5382216), [El Milanga](https://osu.ppy.sh/users/12264918), [Raby](https://osu.ppy.sh/users/5218320) |
 | ![][flag_VN] | **Vietnam** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [Ui chan](https://osu.ppy.sh/users/5449433), [- Mel -](https://osu.ppy.sh/users/9829680), [kiethao](https://osu.ppy.sh/users/2283137), [\[sin\]](https://osu.ppy.sh/users/11021073), [\[Boy\]DaLat](https://osu.ppy.sh/users/8266808), [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [Liyuchi](https://osu.ppy.sh/users/3275495) |
 
+## Match schedule: Round of 32
+
+### Saturday, October 23, 2021
+
+| Team A | | | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| South Korea | ![][flag_KR] | ![][flag_UA] | Ukraine | Oct 23 (Sat) 11:00 UTC | Oct 23 (Sat) 20:00 UTC+9 | Oct 23 (Sat) 14:00 UTC+3 |
+| Hong Kong | ![][flag_HK] | ![][flag_TR] | Turkey | Oct 23 (Sat) 12:00 UTC | Oct 23 (Sat) 20:00 UTC+8 | Oct 23 (Sat) 15:00 UTC+3 |
+| Russian Federation | ![][flag_RU] | ![][flag_CN] | China | Oct 23 (Sat) 13:00 UTC | Oct 23 (Sat) 16:00 UTC+3 | Oct 23 (Sat) 21:00 UTC+8 |
+| United Kingdom | ![][flag_GB] | ![][flag_SG] | Singapore | Oct 23 (Sat) 14:00 UTC | Oct 23 (Sat) 15:00 UTC+1 | Oct 23 (Sat) 22:00 UTC+8 |
+| Indonesia | ![][flag_ID] | ![][flag_MX] | Mexico | Oct 23 (Sat) 15:00 UTC | Oct 23 (Sat) 22:00 UTC+7 | Oct 23 (Sat) 10:00 UTC-5 |
+| Chile | ![][flag_CL] | ![][flag_AR] | Argentina | Oct 23 (Sat) 16:00 UTC | Oct 23 (Sat) 12:00 UTC-4 | Oct 23 (Sat) 13:00 UTC-3 |
+| United States | ![][flag_US] | ![][flag_UY] | Uruguay | Oct 23 (Sat) 17:00 UTC | Oct 23 (Sat) 12:00 UTC-5 | Oct 23 (Sat) 14:00 UTC-3 |
+
+### Sunday, October 24, 2021
+
+| Team A | | | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Brazil | ![][flag_BR] | ![][flag_PH] | Philippines | Oct 24 (Sun) 02:00 UTC | Oct 23 (Sat) 23:00 UTC-3 | Oct 24 (Sun) 10:00 UTC+8 |
+| Japan | ![][flag_JP] | ![][flag_MY] | Malaysia | Oct 24 (Sun) 11:00 UTC | Oct 24 (Sun) 20:00 UTC+9 | Oct 24 (Sun) 19:00 UTC+8 |
+| Australia | ![][flag_AU] | ![][flag_NO] | Norway | Oct 24 (Sun) 12:00 UTC | Oct 24 (Sun) 22:00 UTC+10 | Oct 24 (Sun) 14:00 UTC+2 |
+| Romania | ![][flag_RO] | ![][flag_TW] | Taiwan | Oct 24 (Sun) 13:00 UTC | Oct 24 (Sun) 16:00 UTC+3 | Oct 24 (Sun) 21:00 UTC+8 |
+| Poland | ![][flag_PL] | ![][flag_CZ] | Czech Republic | Oct 24 (Sun) 14:00 UTC | Oct 24 (Sun) 16:00 UTC+2 | Oct 24 (Sun) 16:00 UTC+2 |
+| Sweden | ![][flag_SE] | ![][flag_NL] | Netherlands | Oct 24 (Sun) 15:00 UTC | Oct 24 (Sun) 17:00 UTC+2 | Oct 24 (Sun) 17:00 UTC+2 |
+| France | ![][flag_FR] | ![][flag_FI] | Finland | Oct 24 (Sun) 16:00 UTC | Oct 24 (Sun) 18:00 UTC+2 | Oct 24 (Sun) 19:00 UTC+3 |
+| Canada | ![][flag_CA] | ![][flag_ES] | Spain | Oct 24 (Sun) 17:00 UTC | Oct 24 (Sun) 13:00 UTC-4 | Oct 24 (Sun) 19:00 UTC+2 |
+| Germany | ![][flag_DE] | ![][flag_AT] | Austria | Oct 24 (Sun) 18:00 UTC | Oct 24 (Sun) 20:00 UTC+2 | Oct 24 (Sun) 20:00 UTC+2 |
+
 ## Mappools
+
+### Round of 32
+
+- NoMod
+  - [Imy - Divine's Game (Nao Tomori) \[Extra\]](https://osu.ppy.sh/beatmapsets/1604377#osu/3276259)
+  - [Noah - Primal scream (wakaba) \[ahh\]](https://osu.ppy.sh/beatmapsets/1604632#osu/3276724)
+  - [THE BINARY mido - Ego mo Id mo Tanjun ni (kuyusu) \[moph's Extra\]](https://osu.ppy.sh/beatmapsets/1268824#osu/2692632)
+  - [F Rabbeat - Be With U (Altai) \[Don't Just Stand There...\]](https://osu.ppy.sh/beatmapsets/1604642#osu/3276740)
+  - [Laur - Nostalgic Blood of the Strife (Zelq) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1257525#osu/2613076)
+- Hidden
+  - [Sound Souler - Bubble Flower (Keqing) \[Serenity\]](https://osu.ppy.sh/beatmapsets/1604543#osu/3276559)
+  - [Ueda Kana & Koshimizu Ami & Kugimiya Rie - Netsuretsu Kangei Wonderland (Mirash) \[Delisha vs Mirash's Mahjong Soul 1v1 Grand Finals \[BO9\]](https://osu.ppy.sh/beatmapsets/1604477#osu/3276441)
+- HardRock
+  - [jippusu - Mushikui Saikede Rhythm (Amamiya Yuko) \[RLC\]](https://osu.ppy.sh/beatmapsets/87547#osu/240689)
+  - [P4koo - Makes Me Wonder (Alvearia) \[Ex\]](https://osu.ppy.sh/beatmapsets/1514096#osu/3099848)
+- DoubleTime
+  - [Chata - Harukaze Dance (Yogurtt) \[Flowers\]](https://osu.ppy.sh/beatmapsets/1604602#osu/3276673)
+  - [felys feat. Natsukawa Yoko - Celsus (LONG VERSION) (Elcheer) \[Insane\]](https://osu.ppy.sh/beatmapsets/1604680#osu/3276823)
+  - [ZUN - Toragara no Bishamonten (Halfslashed) \[Insane\]](https://osu.ppy.sh/beatmapsets/1381135#osu/3276774)
+- FreeMod
+  - [Lime - Tsukuyomi (kisata) \[Special\]](https://osu.ppy.sh/beatmapsets/1604480#osu/3276444)
+  - [ovEnola - Noose (Cut Ver.) (BOUYAAA) \[Death\]](https://osu.ppy.sh/beatmapsets/1348020#osu/2791506)
+- Tiebreaker
+  - [DJ SHARPNEL - FAKE PROMISE (Nana Abe) \[NISEMONO\]](https://osu.ppy.sh/beatmapsets/1604660#osu/3276769)
 
 ### Qualifiers
 
@@ -127,6 +180,12 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 - DoubleTime
   - [Ito Kanako - Koko ni Iru kara (ImpurePug) \[Insane\]](https://osu.ppy.sh/beatmapsets/1597789#osu/3263112)
   - [-45 - NyanNyatothep (Dada) \[Gothic Horror\]](https://osu.ppy.sh/beatmapsets/1597755#osu/3263028)
+
+## Match results
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1a-8_wfVLTUtUFMwgGyMoC1lJxssyIcOgW__LOnusAQA/edit?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQBhccsajYTGnE49STTsDHaMmiDQiAO-FRV5RI6youhzCXIekwxldlOcb8lwEgpDlRDXOVxe2JzuEk0/pubhtml).
 
 ## Ruleset
 
