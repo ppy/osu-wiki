@@ -114,9 +114,9 @@ Note: Tout ne fonctionne pas en mode [multi](/wiki/Multi) dans l'écran de séle
 - `S`, puis `S`: [Perfect](/wiki/Game_modifier/Perfect)
 - `D`: [Double Time](/wiki/Game_modifier/Double_Time)
 - `D`, puis `D`: [Nightcore](/wiki/Game_modifier/Nightcore)
-- `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, et osu!catch)
+- `F`: [Hidden](/wiki/Game_modifier/Hidden) (osu!, osu!taiko, et osu!catch)
   - cela activera [Fade In](/wiki/Game_modifier/Fade_In) pour osu!mania
-- `F`, puis `F`: [Hidden](/wiki/Hidden) (seulement pour osu!mania)
+- `F`, puis `F`: [Hidden](/wiki/Game_modifier/Hidden) (seulement pour osu!mania)
 - `G`: [Flashlight](/wiki/Game_modifier/Flashlight)
 
 ---
@@ -129,13 +129,13 @@ Note: Tout ne fonctionne pas en mode [multi](/wiki/Multi) dans l'écran de séle
 
 ---
 
-- `3`: [3K](/wiki/3K) (seulement pour osu!mania)
-- `4`: [4K](/wiki/4K) (seulement pour osu!mania)
-- `5`: [5K](/wiki/5K) (seulement pour osu!mania)
-- `6`: [6K](/wiki/6K) (seulement pour osu!mania)
-- `7`: [7K](/wiki/7K) (seulement pour osu!mania)
-- `8`: [8K](/wiki/8K) (seulement pour osu!mania)
-- `9`: [9K](/wiki/9K) (seulement pour osu!mania)
+- `3`: [3K](/wiki/Game_modifier/xK) (seulement pour osu!mania)
+- `4`: [4K](/wiki/Game_modifier/xK) (seulement pour osu!mania)
+- `5`: [5K](/wiki/Game_modifier/xK) (seulement pour osu!mania)
+- `6`: [6K](/wiki/Game_modifier/xK) (seulement pour osu!mania)
+- `7`: [7K](/wiki/Game_modifier/xK) (seulement pour osu!mania)
+- `8`: [8K](/wiki/Game_modifier/xK) (seulement pour osu!mania)
+- `9`: [9K](/wiki/Game_modifier/xK) (seulement pour osu!mania)
 
 ## En jeu
 
@@ -179,7 +179,7 @@ Ces raccourcis fonctionnent n'importe où dans l'éditeur de beatmap :
 - `F1`: Basculer vers le mode [composition](/wiki/Beatmap_Editor/Compose)
 - `F2`: Basculer vers le mode [design](/wiki/Beatmap_Editor/Design)
 - `F3`: Basculer vers le mode [timing](/wiki/Beatmap_Editor/Timing)
-- `F4`: Ouvre le [setup de chanson](/wiki/Song_Setup) (ouvre une fenêtre de dialogue)
+- `F4`: Ouvre le [setup de chanson](/wiki/Beatmap_Editor/Song_Setup) (ouvre une fenêtre de dialogue)
 - `F5`: Entrer en mode de test.
 - `F6`: Ouvre le panneau du setup de timing.
 

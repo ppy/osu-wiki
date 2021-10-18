@@ -51,7 +51,7 @@ El Gráfico de rendimiento es un gráfico que muestra el rendimiento del jugador
 
 Al pasar el cursor sobre el gráfico de rendimiento, se muestra un mensaje de información con *Error* y *Unstable rate*.
 
-Debido a la forma en que se implementan los mods [DT](/wiki/Game_modifier/Double_time) y [HT](/wiki/Game_modifier/Half_Time), los valores de error e inestabilidad se multiplicarán por el mismo factor que la canción. Para obtener los valores verdaderos al jugar DT, divida los resultados por 1.5. Del mismo modo, multiplique los resultados por 1,33 al jugar HT.
+Debido a la forma en que se implementan los mods [DT](/wiki/Game_modifier/Double_Time) y [HT](/wiki/Game_modifier/Half_Time), los valores de error e inestabilidad se multiplicarán por el mismo factor que la canción. Para obtener los valores verdaderos al jugar DT, divida los resultados por 1.5. Del mismo modo, multiplique los resultados por 1,33 al jugar HT.
 
 #### Error
 

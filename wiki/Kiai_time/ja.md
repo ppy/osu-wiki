@@ -19,6 +19,6 @@ tags:
 
 ## osu!taiko
 
-[osu!taiko](/wiki/Game_Modes/osu!taiko)のビートマップでは、気合いのセクションは20%以上の[スコア](/wiki/Score)を与えます。
+[osu!taiko](/wiki/Game_mode/osu!taiko)のビートマップでは、気合いのセクションは20%以上の[スコア](/wiki/Score)を与えます。
 
 <!-- TODO: Add links -->

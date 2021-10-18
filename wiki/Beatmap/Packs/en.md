@@ -7,7 +7,7 @@ outdated: true
 
 # Beatmap packs
 
-A beatmaps pack is a `.zip` file containing beatmaps. The name of the pack is based on what they contain (e.g. `Approved Beatmap Pack #7` would only contain [approved](/wiki/approved) beatmaps).
+A beatmaps pack is a `.zip` file containing beatmaps. The name of the pack is based on what they contain (e.g. `Approved Beatmap Pack #7` would only contain [approved](/wiki/Beatmap/Category#approved) beatmaps).
 
 It is worth noting that the most packs are:
 

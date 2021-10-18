@@ -18,7 +18,7 @@ Cirklarna är på nedre skärmen, och en berättelse visas på övre skärmen. V
 
 *Fullständig förklaring: [osu!](/wiki/Game_mode/osu!)*
 
-Även om de flesta spelare inte har en touch-skärm, är spelet gjord med hänsyn för att kunna spelas med en vanlig mus, och även andra kreativa apparater som inmatningsmetod. Information om olika spelstilar kan hittas i [spelstilar](/wiki/Play_Styles)-sidan. Det finns vissa låtar som tar spelandet med en mus till gränsen av vad som är möjligt, men alla rankade och godkända beatmaps har testats och (de flesta) kan klaras av med bara en mus.
+Även om de flesta spelare inte har en touch-skärm, är spelet gjord med hänsyn för att kunna spelas med en vanlig mus, och även andra kreativa apparater som inmatningsmetod. Information om olika spelstilar kan hittas i [spelstilar](/wiki/Play_style)-sidan. Det finns vissa låtar som tar spelandet med en mus till gränsen av vad som är möjligt, men alla rankade och godkända beatmaps har testats och (de flesta) kan klaras av med bara en mus.
 
 #### Spelets grunder
 
