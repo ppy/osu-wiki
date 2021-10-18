@@ -62,8 +62,8 @@ Aturan dan pedoman secara keseluruhan berlaku untuk setiap jenis tingkat kesulit
 - **Jika terdapat beberapa key mode dalam satu set beatmap, indikator key mode wajib dicantumkan pada setiap tingkat kesulitan. Jika tidak, key mode tidak perlu dicantumkan.**
 - **Jika [drain time](/wiki/Gameplay/Drain_time) dari setiap kesulitan...**
   - **...lebih rendah dari durasi 2:30**, kesulitan paling rendah dari setiap *keymode* tidak boleh lebih susah dari Normal, ATAU setiap *keymode* wajib memasukkan *spread* setidaknya 3 tingkat kesulitan di bawah kesulitan paling tinggi.
-  - **...diantara durasi 2:30 dan 3:15**, kesulitan paling rendah dari setiap *keymode* tidak boleh lebih susah dari Hard, ATAU setiap *keymode* wajib memasukkan *spread* setidaknya 2 tingkat kesulitan di bawah kesulitan paling tinggi.
-  - **...diantara durasi 3:15 dan 4:00**, kesulitan paling rendah dari setiap *keymode* tidak boleh lebih susah dari Insane, ATAU setiap *keymode* wajib memasukkan *spread* setidaknya 1 tingkat kesulitan di bawah kesulitan paling tinggi.
+  - **...di antara durasi 2:30 dan 3:15**, kesulitan paling rendah dari setiap *keymode* tidak boleh lebih susah dari Hard, ATAU setiap *keymode* wajib memasukkan *spread* setidaknya 2 tingkat kesulitan di bawah kesulitan paling tinggi.
+  - **...di antara durasi 3:15 dan 4:00**, kesulitan paling rendah dari setiap *keymode* tidak boleh lebih susah dari Insane, ATAU setiap *keymode* wajib memasukkan *spread* setidaknya 1 tingkat kesulitan di bawah kesulitan paling tinggi.
 - Pada kesulitan Insane dan lebih tinggi, *spread* yang tepat ditentukan oleh gap-gap kesulitan yang relatif serupa, dengan yang didefinisikan secara formal antara kesulitan yang lebih rendah.
 
 ### Pedoman
