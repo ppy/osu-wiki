@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 938d93592b43a91eee5a596bd4be6b5f838cce1a
----
-
 # Ranking criteria
 
 *Untuk ranking criteria [mode permainan](/wiki/Game_mode) yang spesifik, kunjungi: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania)*
@@ -47,14 +42,15 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 
 ### Peraturan
 
-- **Semua mode permainan dalam sebuah beatmap harus membentuk sebuah spread dimulai dari tingkat kesulitan terendah yang ditentukan oleh [drain time](/wiki/Gameplay/Drain_time) lagu tersebut.** Untuk tingkat kesulitan di atas tingkat kesulitan terendah yang diperlukan, spread tidak dapat melewati tingkat kesulitan mana pun dan tidak boleh ada perbedaan kesulitan yang sangat besar antara dua tingkat kesulitan mana pun.
-- **Setiap tingkat kesulitan harus patuh terhadap ranking criteria khusus tingkat kesulitan modenya.** Lihat ranking criteria [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania) untuk informasi lebih lanjut.
+- **Semua mode permainan dalam sebuah beatmap wajib membentuk sebuah spread dimulai dari tingkat kesulitan terendah yang ditentukan oleh [drain time](/wiki/Gameplay/Drain_time) lagu tersebut.** Untuk tingkat kesulitan di atas tingkat kesulitan terendah yang diperlukan, spread tidak dapat melewati tingkat kesulitan mana pun dan tidak boleh ada perbedaan kesulitan yang sangat besar antara dua tingkat kesulitan mana pun.
+- **Setiap tingkat kesulitan harus patuh terhadap ranking criteria khusus tingkat kesulitan modenya.** Lihat ranking criteria [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](/wiki/Ranking_Criteria/osu!mania) untuk informasi lebih lanjut.
 - **Setiap tingkat kesulitan dalam sebuah beatmap harus memiliki [drain time](/wiki/Gameplay/Drain_time) minimum 30 detik.**
 - **Jika [drain time](/wiki/Gameplay/Drain_time) dari tiap tingkat kesulitan itu...**
   - **...kurang dari 3:30**, tingkat kesulitan terendah dari setiap mode permainan yang disertakan tidak bisa lebih sulit dari Normal.
   - **...antara 3:30 dan 4:15**, tingkat kesulitan terendah dari setiap mode permainan yang disertakan tidak bisa lebih sulit dari Hard.
   - **...antara 4:15 dan 5:00**, kesulitan terendah dari setiap mode permainan yang disertakan tidak bisa lebih sulit dari Insane.
   - **Kesulitan di bawah tingkat kesulitan tertinggi dapat menggabungkan break times dengan drain time untuk memenuhi persyaratan di atas.** Hal ini tidak berlaku untuk tingkat kesulitan dengan drain time kurang dari 30 detik. Penilaian mengenai kesesuaian elemen permainan yang digunakan untuk tingkat kesulitan terendah Hard dan Insane tergantung pada anggota [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) untuk mode permainan masing-masing.
+  - **beatmap osu!mania terikat oleh serangkaian ambang batas *drain time* dan aturan *spread* yang berbeda dengan mode permainan lainnya, yang telah ditentukan dalam [ranking criteria osu!mania](/wiki/Ranking_Criteria/osu!mania).**
 - **Nama tingkat kesulitan dalam beatmap secara jelas harus progresif dan akurat menunjukkan tingkat kesulitan masing-masing, kecuali:**
   - Tingkat kesulitan tertinggi dari setiap mode permainan.
   - Tingkat kesulitan tertinggi dari setiap mode permainan dengan tingkat kesulitan yang serupa, hanya berlaku untuk kesulitan Insane dan Extra (misalnya, tingkat kesulitan Insane dari set ENHIIII atau kesulitan Extra dari set ENHIIXXX).
