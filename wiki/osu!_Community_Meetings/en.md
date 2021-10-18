@@ -22,36 +22,6 @@ This is to ensure that we can efficiently answer as many questions from the comm
 
 Please also understand that questions that have been answered before or that are especially generic may not be chosen for discussion, especially with meetings often running overtime to try and answer as many as possible.
 
-## Frequently Asked Questions
-
-This sections aims to address some common questions that have frequently cropped up and answered in previous community meetings, so that more time can be spent answering other questions.
-
-### When will changes to pp/performance points be made?
-
-The development team is hoping to make more regular changes to performance points by folding in contributions made from the community in the form of osu-performance pull requests on GitHub. Based on feedback from previous surveys on the topic, it is likely changes will happen at least twice a year for modes that have active contribution and development happening.
-
-### When will osu!lazer be released?
-
-osu!lazer does not have a specific "release date". The developers intend to gradually port over existing features from osu!stable and add new ones as development progresses over time, until there is a natural migration of dedicated players from one version of the game to the other. If you were present for the migration of the old osu! website to the new version, the end result will be similar to that.
-
-As it stands as of the time of writing (2021-10-18), osu!lazer is already fully accessible and entirely playable in both multiplayer and singleplayer, with rudimentary score submission (but not leaderboards, yet) enabled. The editor for osu! mode is also quite functional. The development team encourages anyone interested to [download osu!lazer](https://github.com/ppy/osu/releases) and try it for themselves to see where things are at.
-
-### How will the differences in gameplay and "feel" between osu!lazer and osu!stable be handled?
-
-osu!lazer currently features a "classic" mod which aims to adjust the gameplay experience to be as similar to osu!stable as possible, including specific options to toggle various changes on and off. This will be the main way in which people who prefer older osu! gameplay will experience things.
-
-For any instances where the game feels unusual or "bad" to play, one should first check to see whether they're using compatability mode and to try and isolate the problem down to something the developers can actually act on, then post the problem as an issue on the [osu! lazer GitHub repo](https://github.com/ppy/osu/issues).
-
-### What will be skinnable in osu!lazer?
-
-Most UI elements and screens (song select, etc) with the exception of the main menu and some low-level elements (individual checkboxes, etc). Some of this functionality is not yet implemented, but the groundwork for it has been laid down much earlier in the development process.
-
-### Are there any plans to make getting into mapping easier, like changing the Ranking Criteria?
-
-The developers are currently aware that the Ranking Criteria in particular is a very hefty and technically complicated document to read, and have identified it as something open to change and simplification in the very near future. To note, the developers themselves do not have explicit authority over the Ranking Criteria, as such changes are often made and discussed by the modding and mapping community first over in the [Ranking Criteria forum](https://osu.ppy.sh/community/forums/87).
-
-Any user can raise any perceived issue with the Ranking Criteria in the forum listed above, no matter how large the change may be. If this is something that interests you, please get involved!
-
 ## Archives
 
 The first osu! Community Meeting was hosted on September 19th 2021. All meetings have been and will continue to be recorded on YouTube, along with an accompanying summary document.
