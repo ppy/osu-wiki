@@ -30,7 +30,7 @@ tags:
 
 ## Deskripsi
 
-Mod **Easy** adalah sebuah [game modifier](/wiki/Game_modifier) yang mencoba meringankan kesulitan pada sebuah [beatmap](/wiki/Beatmaps). Cara kerja mod ini adalah dengan mengurangi setengah dari semua pengaturan kesulitan dari beatmap yang dipilih.
+Mod **Easy** adalah sebuah [game modifier](/wiki/Game_modifier) yang mencoba meringankan kesulitan pada sebuah [beatmap](/wiki/Beatmap). Cara kerja mod ini adalah dengan mengurangi setengah dari semua pengaturan kesulitan dari beatmap yang dipilih.
 
 Di semua [mode permainan](/wiki/Game_mode) kecuali [osu!taiko](/wiki/Game_mode/osu!taiko), mod Easy akan memberikan dua "nyawa" tambahan kepada pemain saat sedang bermain jika [life bar](/wiki/Glossary/Health_bar) mereka turun ke 0 (habis). Saat kasus tersebut terjadi, permainan akan berhenti sejenak untuk mengisi ulang life bar ke sekitar 80% dan menghapus satu "nyawa" dari jumlah nyawa pemain. Tidak akan ada suara yang diputar selama efek ini.
 
@@ -68,7 +68,7 @@ Di  [osu!mania](/wiki/Game_mode/osu!mania), efeknya sama seperti di osu!taiko, k
 
 ## Trivia
 
-- Saat menonton sebuah tayangan ulang di mana nyawa tambahan tersebut digunakan, tidak akan ada animasi pengisian ulang health dan tayangan ulang akan tetap berlanjut seolah-olah pemain sedang bermain menggunakan mod [No Fail](/wiki/Game_modifier/No_fail).
+- Saat menonton sebuah tayangan ulang di mana nyawa tambahan tersebut digunakan, tidak akan ada animasi pengisian ulang health dan tayangan ulang akan tetap berlanjut seolah-olah pemain sedang bermain menggunakan mod [No Fail](/wiki/Game_modifier/No_Fail).
 - Di mode [Multi](/wiki/Multi), efek "nyawa" tidak akan bekerja di mode tim [Tag Co-op atau Tag Team Vs.](/wiki/Multi#tag-coop-tag-team-vs).
 - Mod Easy akan membatalkan mod [Hard Rock](/wiki/Game_modifier/Hard_Rock) secara otomatis, dan sebaliknya.
 

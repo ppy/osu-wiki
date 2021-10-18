@@ -10,7 +10,7 @@ tags:
 *Pour la santé en tant que mécanisme de gameplay, voir : [Santé](/wiki/Beatmapping/Health)*\
 *Pour les règles concernant le taux de drain de vie, voir : [Critères de classement](/wiki/Ranking_Criteria)*.
 
-Le **taux de drain de vie** (***HP***) est un paramètre de difficulté d'une [beatmap](/wiki/Beatmap) qui contrôle la quantité de [santé](/wiki/Beatmapping/Health) qui est perdue passivement à cause du [drain de vie](/wiki/Beatmapping/Health_drain). Il affecte également le degré de pénalisation du joueur lorsqu'il manque des notes et la quantité de santé qu'il récupère en touchant avec précision les [objets](/wiki/Hit_Objects).
+Le **taux de drain de vie** (***HP***) est un paramètre de difficulté d'une [beatmap](/wiki/Beatmap) qui contrôle la quantité de [santé](/wiki/Beatmapping/Health) qui est perdue passivement à cause du [drain de vie](/wiki/Beatmapping/Health_drain). Il affecte également le degré de pénalisation du joueur lorsqu'il manque des notes et la quantité de santé qu'il récupère en touchant avec précision les [objets](/wiki/Hit_object).
 
 Le taux de drain de vie va de 0 à 10, où 10 est le plus punitif et 0 le plus indulgent.
 

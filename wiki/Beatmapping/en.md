@@ -21,9 +21,9 @@ Click on the song, this will open the [beatmap editor](/wiki/Beatmap_Editor) and
 
 ### Song Setup
 
-*Main page: [Song Setup](/wiki/Song_Setup)*
+*Main page: [Song Setup](/wiki/Beatmap_Editor/Song_Setup)*
 
-When making a new [mapset](/wiki/mapset), you will always see this dialog before any other parts of the beatmap editor.
+When making a new [mapset](/wiki/Beatmap), you will always see this dialog before any other parts of the beatmap editor.
 
 You should fill out this information before creating another [difficulty](/wiki/Beatmap/Difficulty).
 This will ensure that the metadata will be consistent across all of the difficulties in the set.
@@ -34,18 +34,18 @@ The next step is to add timing to your beatmap.
 
 ### Timing
 
-*Main page: [Timing](/wiki/Timing)*
+*Main page: [Timing](/wiki/Beatmap_Editor/Timing)*
 
 **Timing is vital!**
 Incorrectly timed maps will not be considered for ranking.
-You must make sure that your timing is perfect before adding any [hit objects](/wiki/Hit_Objects).
+You must make sure that your timing is perfect before adding any [hit objects](/wiki/Hit_object).
 
 If you are in doubt about timing, contact a mod for help first, or submit your song into the [Beatmap Help forum](https://osu.ppy.sh/community/forums/10).
 This will save you (and the modding community) a lot of hassle later on.
 
 ### Compose
 
-*Main page: [Compose](/wiki/Compose)*
+*Main page: [Compose](/wiki/Beatmap_Editor/Compose)*
 
 The compose tab of the beatmap editor is where you will probably spend a majority of your time beatmapping.
 It is where you can visually place hit objects and toggle their [hitsounds](/wiki/Beatmapping/Hitsound).

@@ -174,7 +174,7 @@ Esta base de dados contém as pontuações alcançadas localmente.
 | Long | Data do replay, em Windows ticks |
 | Int | Deve sempre ser 0xffffffff (-1). |
 | Long | ID da pontuação online |
-| Double | Informação adicional de mod. Presente apenas se [Target Practice](/wiki/Game_Modifiers#special.1) está ativado |
+| Double | Informação adicional de mod. Presente apenas se [Target Practice](/wiki/Game_modifier#special.1) está ativado |
 
 #### Informação adicional de mod
 

@@ -381,11 +381,11 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 
 ## Performance Points
 
-*Full explanation: [Performance Points](/wiki/Performance_Points)*
+*Full explanation: [Performance Points](/wiki/Performance_points)*
 
 Performance points(pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the actual skill of the player. Performance points is heavily based on map difficulty, determined by a unique algorithm in every game mode. Based on this difficulty alone, each of the scores will be rated and assigned a pp value. Performance rank is predominantly based on performance on individual maps. The easiest way to improve it is to score high on difficult songs, and playing more songs. Do note that game modes are counted separately; playing osu!, osu!taiko, osu!catch, or osu!mania will raise the pp for the respective game mode.
 
-For any questions regarding pp, please refer to the [wiki page for pp first](/wiki/Performance_Points).
+For any questions regarding pp, please refer to the [wiki page for pp first](/wiki/Performance_points).
 
 ---
 

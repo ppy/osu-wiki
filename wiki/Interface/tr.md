@@ -94,7 +94,7 @@ Bu bölüm **seçilen beatmap zorluğunun bilgisini** görüntüler. Varsayılan
 
 - **Uzunluk**: Beatmapin toplam uzunluğudur, molalar dahil baştan sona. [Akış süresi (drain time)](/wiki/Gameplay/Drain_time) ile karıştırılmamalıdır.
 - **BPM**: Beatmapin BPM'idir (dakika başı vuruş sayısı). Eğer (bir alttaki resimde olduğu gibi) biri parantez içinde iki BPM varsa, bu şarkı boyunca BPM'in değiştiğini gösterir. Bunlar en yavaş ve en hızlı BPM'leri gösterir, ve parantez içindeki değer ise beatmapin başlangıcındaki BPM'dir.
-- **Objeler**: Beatmap içerisindeki toplam [vuruş objesi](/wiki/Hit_Objects) sayısı.
+- **Objeler**: Beatmap içerisindeki toplam [vuruş objesi](/wiki/Hit_object) sayısı.
 - **Circle sayısı**: Beatmap içerisindeki toplam vuruş çemberi sayısı.
 - **Slider sayısı**: Beatmap içerisindeki toplam slider sayısı.
 - **Spinner sayısı**: Beatmap içerisindeki toplam spinner sayısı.

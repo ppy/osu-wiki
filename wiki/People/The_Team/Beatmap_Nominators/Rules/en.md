@@ -13,7 +13,7 @@ Sustained behaviour in conflict with these expectations is grounds for dismissal
 ## Conduct
 
 - **Do not follow any unfinalized rules or amendments.**
-- **Abide by the [osu! Community Rules](/wiki/Rules) and the [Code of Conduct for Modding and Mapping](/wiki/Ranking_Criteria/Code_of_Conduct) at all times.** As a Beatmap Nominator, your behaviour should serve as a positive example to other members of the community. Infringing upon the Code of Conduct may result in you being placed on a temporary probation, or in extreme cases, removal from the Beatmap Nominators.
+- **Abide by the [osu! Community Rules](/wiki/Rules) and the [Code of Conduct for Modding and Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) at all times.** As a Beatmap Nominator, your behaviour should serve as a positive example to other members of the community. Infringing upon the Code of Conduct may result in you being placed on a temporary probation, or in extreme cases, removal from the Beatmap Nominators.
 - **Do not partake or participate in paid modding, ranking OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any osu! team (BN, NAT or otherwise) involved in the [ranking process](/wiki/Beatmap_ranking_procedure).
 
 ## Activity

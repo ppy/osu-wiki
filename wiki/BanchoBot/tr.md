@@ -78,7 +78,7 @@ Tüm BanchoBot komutlarının bir listesi aşağıda mevcuttur:
 !stats <kullanıcı adı>
 ```
 
-`!stats` belirtilen kullanıcının oyun istatistiklerini ve mevcut durumunu görüntüler. Komut yanıtı belirtilen kullanıcının en son oynadığı [oyun moduna](/wiki/Game_Modes) bağlıdır, ancak BanchoBot bu istatistiklerin hangi oyun moduna ait olduğunu göstermez. Eğer hiç osu! oynamamış bir kullanıcının istatistikleri görüntülenmek istenirse, kullanıcı mevcut olsa bile BanchoBot `User not found` şeklinde yanıt verir. Bu komutun ve gelen yanıtın bir örneği aşağıdadır:
+`!stats` belirtilen kullanıcının oyun istatistiklerini ve mevcut durumunu görüntüler. Komut yanıtı belirtilen kullanıcının en son oynadığı [oyun moduna](/wiki/Game_mode) bağlıdır, ancak BanchoBot bu istatistiklerin hangi oyun moduna ait olduğunu göstermez. Eğer hiç osu! oynamamış bir kullanıcının istatistikleri görüntülenmek istenirse, kullanıcı mevcut olsa bile BanchoBot `User not found` şeklinde yanıt verir. Bu komutun ve gelen yanıtın bir örneği aşağıdadır:
 
 ```
 13:01 pippi: !stats peppy
