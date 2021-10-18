@@ -75,7 +75,7 @@ In the centre is the actual playfield. The playfield is made up of two parts: li
 
 ![Storyboard Timeline](/wiki/shared/SE_STM.jpg "This shows the timeline for transformations of the selected sprite.")
 
-The [design](/wiki/Design) timeline is located underneath the `Design` tab.
+The [design](/wiki/Beatmap_Editor/Design) timeline is located underneath the `Design` tab.
 
 ### Timeline
 
@@ -101,7 +101,7 @@ If there is a transformation, that transformation is lighted with it's colour. I
 
 ![Timing Timeline](img/TT.jpg "Timing Timeline")
 
-The timing timeline is located underneath the [`Timing`](/wiki/Timing) tab.
+The timing timeline is located underneath the [`Timing`](/wiki/Beatmap_Editor/Timing) tab.
 
 ### Timing Timeline
 

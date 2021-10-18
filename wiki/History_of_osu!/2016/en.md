@@ -24,7 +24,7 @@ Links:
 
 The Oculus Rift as a "supported" input method was announced as an 2016 April Fools joke.
 
-[Maria](/wiki/Maria) joins the stage with [pippi](/wiki/pippi) and [Yuzu](/wiki/Yuzu) as osu!mania's new postergirl. The osu!taiko World Cup 2016 concluded with Japan being victorious against Taiwan.
+[Maria](/wiki/Maria) joins the stage with [pippi](/wiki/pippi) and [Yuzu](/wiki/Mascots#-yuzu) as osu!mania's new postergirl. The osu!taiko World Cup 2016 concluded with Japan being victorious against Taiwan.
 
 Links:
 
@@ -34,7 +34,7 @@ Links:
 
 ## May
 
-The first osu! remix contest begins with the challenge of remixing nekodex's "circles!". From Polygon, Keiichi Yano, one of the leading minds behind games like Elite Beat Agents, has given praise towards osu! for its community that wants to share beatmaps they create. [Aspire](/wiki/Aspire) returns due to overwhelming demand.
+The first osu! remix contest begins with the challenge of remixing nekodex's "circles!". From Polygon, Keiichi Yano, one of the leading minds behind games like Elite Beat Agents, has given praise towards osu! for its community that wants to share beatmaps they create. [Aspire](/wiki/Contests/Aspire) returns due to overwhelming demand.
 
 Links:
 

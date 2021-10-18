@@ -17,7 +17,7 @@ outdated_since: 266a07fc271ddfef0dfd369697733a2c5835a124
 
 ## Timing
 
-Nilai OD yang paling tinggi memiliki waktu paling pendek untuk menyelesaikan [hit objects](/wiki/Hit_Objects), baik secara umum maupun dalam mendapatkan skor yang tinggi. Besar dari hit window, berpusat pada waktu tepat hit object, dijelaskan dengan tabel berikut:
+Nilai OD yang paling tinggi memiliki waktu paling pendek untuk menyelesaikan [hit objects](/wiki/Hit_object), baik secara umum maupun dalam mendapatkan skor yang tinggi. Besar dari hit window, berpusat pada waktu tepat hit object, dijelaskan dengan tabel berikut:
 
 | Skor | Hit window |
 | --: | :-- |

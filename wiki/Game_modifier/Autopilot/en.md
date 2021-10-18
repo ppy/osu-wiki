@@ -32,6 +32,6 @@ The **Autopilot** mod is a [game modifier](/wiki/Game_modifier) for the [osu!](/
 
 The Autopilot mod also disables the in-game interface, thus hiding the [score](/wiki/Score), [combo](/wiki/Beatmapping/Combo), and misses, although this can be re-enabled by pressing `Shift`+`Tab`.
 
-Additionally, the spins per minute (SPM) value performed by the Autopilot mod is similar to the spins per minute performed by the [Spun Out](/wiki/Game_modifier/Spun_out) mod, thus the player cannot increase the SPM by spinning the spinner with their cursor.
+Additionally, the spins per minute (SPM) value performed by the Autopilot mod is similar to the spins per minute performed by the [Spun Out](/wiki/Game_modifier/Spun_Out) mod, thus the player cannot increase the SPM by spinning the spinner with their cursor.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

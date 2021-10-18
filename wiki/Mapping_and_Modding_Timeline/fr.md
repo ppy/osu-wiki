@@ -51,7 +51,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Février
 
-- **04/02/2009 :** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) a été promu premier [BAT manager](/wiki/Modding/Bat_Managers). 
+- **04/02/2009 :** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) a été promu premier [BAT manager](/wiki/Modding/BAT_Managers). 
   - Son rôle principal était d'organiser la promotion de nouvelles BAT et d'améliorer l'activité/la compétence des BAT actuelles. 
 
 ### Mars
@@ -125,7 +125,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Juillet
 
-- **22/07/2012 :** La première itération des [points de performance](/wiki/Performance_Points) connue sous le nom de [ppv1](/wiki/Performance_Points/ppv1) a été mise en place, remplaçant les classements par score total classé.
+- **22/07/2012 :** La première itération des [points de performance](/wiki/Performance_Points) connue sous le nom de [ppv1](/wiki/Performance_points/ppv1) a été mise en place, remplaçant les classements par score total classé.
 
 ### Août
 
@@ -227,7 +227,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Août
 
-- **25/08/2015 :** Les beatmaps qualifiées ne récompensent plus les joueurs avec des [points de performance](/wiki/Performance_Points).
+- **25/08/2015 :** Les beatmaps qualifiées ne récompensent plus les joueurs avec des [points de performance](/wiki/Performance_points).
   - Cette mesure a été prise en réponse aux nombreuses plaintes concernant la perte de points de performance sur les beatmaps qualifiées.
   - La tension entre les joueurs et les QAT a été soulagée après ce changement.
 - **26/08/2015 :** Les disqualifications anonymes des QAT ont été supprimées.

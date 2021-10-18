@@ -19,7 +19,7 @@ Klik musik, kemudian otomatis akan terbuka [beatmap editor](/wiki/Beatmap_Editor
 
 ### Song Setup
 
-*Lihat juga: [Song Setup](/wiki/Song_Setup)*
+*Lihat juga: [Song Setup](/wiki/Beatmap_Editor/Song_Setup)*
 
 Ketika akan membuat [mapset](/wiki/Beatmap) baru, Kamu akan melihat dialog ini sebelum menemukan bagian lain yang terdapat di beatmap editor.
 
@@ -32,18 +32,18 @@ Langkah selanjutnya adalah mengisi waktu kedalam beatmap kamu.
 
 ### Timing
 
-*Lihat juga: [Timing](/wiki/Timing)*
+*Lihat juga: [Timing](/wiki/Beatmap_Editor/Timing)*
 
 **Waktu itu penting!**
 Beatmap yang memiliki waktu yang salah tidak dapat dipertimbangkan untuk mendapatkan status ranked pada beatmapnya.
-Kamu harus sudah yakin waktu kamu sudah sempurna sebelum menambahkan [hit objects](/wiki/Hit_Objects).
+Kamu harus sudah yakin waktu kamu sudah sempurna sebelum menambahkan [hit objects](/wiki/Hit_object).
 
 Jika kamu tidak bisa menentukan waktu, kontak seorang mod untuk mendapatkan bantuan, atau mengirimkan musik kamu ke [Beatmap Help forum](https://osu.ppy.sh/community/forums/10).
 Ini akan membantu kamu (dan komunitas modding) dari kesulitan yang ada.
 
 ### Compose
 
-*Lihat juga: [Compose](/wiki/Compose)*
+*Lihat juga: [Compose](/wiki/Beatmap_Editor/Compose)*
 
 Compose tab di dalam beatmap editor adalah tempat menghabiskan sebagian besar waktu kamu untuk membuat beatmap.
 Ini adalah tempat kamu meletakaan hit object secara visual dan mengatur beberapa [hitsounds](/wiki/Beatmapping/Hitsound)

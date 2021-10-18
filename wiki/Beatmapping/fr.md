@@ -24,9 +24,9 @@ Cliquez sur la chanson, cela ouvrira la fenêtre de l'[éditeur de beatmap](/wik
 
 ### Configuration de la chanson
 
-*Main page: [Configuration de la chanson](/wiki/Song_Setup)*
+*Main page: [Configuration de la chanson](/wiki/Beatmap_Editor/Song_Setup)*
 
-En faisant un nouveau [mapset](/wiki/mapset), vous verrez toujours cette boîte de dialogue avant toute autre partie de l'éditeur de beatmap.
+En faisant un nouveau [mapset](/wiki/Beatmap), vous verrez toujours cette boîte de dialogue avant toute autre partie de l'éditeur de beatmap.
 
 Vous devez renseigner ces informations avant de créer une autre [difficulté](/wiki/Beatmap/Difficulty).
 
@@ -39,11 +39,11 @@ L'étape suivante consiste à ajouter un timing à votre beatmap.
 
 ### Timing
 
-*Page principale : [Timing](/wiki/Timing)*
+*Page principale : [Timing](/wiki/Beatmap_Editor/Timing)*
 
 **Le timing est vital!**
 Les beatmaps mal synchronisées ne seront pas prises en compte pour le classement.
-Vous devez vous assurer que votre timing est parfait avant d’ajouter des [hit objects](/wiki/Hit_Objects).
+Vous devez vous assurer que votre timing est parfait avant d’ajouter des [hit objects](/wiki/Hit_object).
 
 Si vous avez des doutes sur le timing, contactez d'abord un mod pour obtenir de l'aide, ou soumettez votre chanson au [Forum d'aide sur les Beatmap](https://osu.ppy.sh/community/forums/10).
 
@@ -51,11 +51,11 @@ Cela vous (ainsi que les gens qui vérifieront votre beatmap) évitera beaucoup 
 
 ### Composer
 
-*Page principale : [Composer](/wiki/Compose)*
+*Page principale : [Composer](/wiki/Beatmap_Editor/Compose)*
 
 L'onglet Composer de l'éditeur de beatmap est l'endroit où vous passerez probablement la majorité de votre temps à composer.
 
-C’est également ici que vous pouvez placer des hit objects et gérer leurs [hitsounds](/wiki/hit_sounds).
+C’est également ici que vous pouvez placer des hit objects et gérer leurs [hitsounds](/wiki/Beatmapping/Hitsound).
 
 ### Conception
 

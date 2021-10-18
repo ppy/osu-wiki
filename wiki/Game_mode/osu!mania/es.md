@@ -84,7 +84,7 @@ Mientras estás sujetando la(s) nota(s) sostenida(s) hay una pequeña regeneraci
 
 ## Estilos de juego
 
-*Refiérase a [Página de estilos de juego de osu!mania](/wiki/Play_Styles#osu-mania).*
+*Refiérase a [Página de estilos de juego de osu!mania](/wiki/Play_style#osu-mania).*
 
 ## Controles
 

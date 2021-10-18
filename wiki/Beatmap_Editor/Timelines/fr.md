@@ -75,7 +75,7 @@ Au centre se trouve le terrain de jeu proprement dit. Le terrain de jeu est comp
 
 ![Timeline du storyboard](/wiki/shared/SE_STM.jpg "Cela montre la timeline pour les transformations du sprite sélectionné.")
 
-La timeline [design](/wiki/Design) est située sous l'onglet `Design`.
+La timeline [design](/wiki/Beatmap_Editor/Design) est située sous l'onglet `Design`.
 
 ### Timeline
 
@@ -101,7 +101,7 @@ S'il y a une transformation, celle-ci est éclairée par sa couleur. De plus, el
 
 ![Timeline du Timing](img/TT-FR.png "Timeline du Timing")
 
-La timeline du [timing](/wiki/Timing) est située sous l'onglet `Timing`.
+La timeline du [timing](/wiki/Beatmap_Editor/Timing) est située sous l'onglet `Timing`.
 
 ### Timeline du Timing
 
