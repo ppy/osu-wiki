@@ -1,15 +1,11 @@
 <!-- 
-  - Use [x] to complete checkboxes.
-  - Remove items that are irrelevant.
+  - Use [x] to complete the items
+  - Remove the items unrelated to your work
+  - Add any relevant information you consider useful
+  - If there are no reviewers for your language, please mention it explicitly
 -->
 
-### Details
+# Self-check
 
-- **Summary:** ...
-- **Additional information:** ...
-
-### Self-check area
-
-- [ ] Changes are tested against the [contribution checklist](https://osu.ppy.sh/wiki/osu!_wiki/Contribution_guide#self-check)
-- [ ] <!-- Translations only -->Reviewed [by a fluent speaker](https://osu.ppy.sh/wiki/osu!_wiki/Contribution_guide#review)
-- [ ] <!-- Translations only -->I won't be able to find any reviewers
+- [ ] The changes are tested against the [contribution checklist](https://osu.ppy.sh/wiki/osu!_wiki/Contribution_guide#self-check)
+- [ ] *(translations only)* The changes are reviewed [by a fluent speaker](https://osu.ppy.sh/wiki/osu!_wiki/Contribution_guide#review)
