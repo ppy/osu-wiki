@@ -83,7 +83,7 @@ No Nintendo *DS* esse é um jeito bom de se arranhar a sua tela, especialmente e
 
 ## Estilos de Jogo
 
-*[Consulte a página 'Estilos de Jogo' do osu!](/wiki/Play_Styles).*
+*[Consulte a página 'Estilos de Jogo' do osu!](/wiki/Play_style).*
 
 ## Controles
 

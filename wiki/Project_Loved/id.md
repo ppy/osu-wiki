@@ -5,7 +5,7 @@ outdated_since: 4374cc74effc623b50c0810086911cce5cbf129e
 
 # Project Loved
 
-**Project Loved** adalah platform/wadah pemungutan suara yang mempromosikan beatmap ke kategori [Loved](/wiki/Beatmap/Category#loved). Program ini dijalankan oleh [Project Loved Team](/wiki/People/Project_Loved_Team).
+**Project Loved** adalah platform/wadah pemungutan suara yang mempromosikan beatmap ke kategori [Loved](/wiki/Beatmap/Category#loved). Program ini dijalankan oleh [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team).
 
 ## Mengkategorikan sebuah beatmap menjadi Loved
 
@@ -20,7 +20,7 @@ Anggota Project Loved Team yang bergelar **kapten** secara teratur mencalonkan b
 - [Daftar osu!taiko](https://docs.google.com/spreadsheets/d/1Nk96z_xat_7ypsDF1sCTDO4i_CnHarcrCbGoTmgwHHE/edit)
 - [Daftar osu!mania](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit)
 
-*Catatan: Jika kamu tidak bisa mengakses Formulir Google ini, kamu dapat menghubungi para [anggota Project Loved Team](/wiki/People/Project_Loved_Team#team-members) untuk mengirimkan map tersebut tentunya dengan namamu.*
+*Catatan: Jika kamu tidak bisa mengakses Formulir Google ini, kamu dapat menghubungi para [anggota Project Loved Team](/wiki/People/The_Team/Project_Loved_Team#team-members) untuk mengirimkan map tersebut tentunya dengan namamu.*
 
 Mapset yang dinominasikan kemudian dikirimkan ke [forum Project Loved](https://osu.ppy.sh/community/forums/120), di mana komunitas osu! dapat memilih apakah mereka ingin mapset itu layak untuk mendapat Loved atau tidak. Map yang mencapai persentase di ambang tertentu dari suara "Ya", pada waktu akhir jajak pendapat mereka akan dipindahkan ke kategori Loved.
 

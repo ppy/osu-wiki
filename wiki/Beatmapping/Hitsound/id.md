@@ -7,7 +7,7 @@ tags:
 
 # Hitsound
 
-*Lihat juga: [Menambah Kustom Hitsounds](/wiki/Guides/Adding_Custom_Hitsounds)*
+*Lihat juga: [Menambah Kustom Hitsounds](/wiki/Guides/Using_custom_hitsounds)*
 
 **Hitsound** adalah efek suara yang dimainkan ketika sedang dalam gameplay osu!, spesifiknya ketika pemain berinteraksi dengan [hit object](/wiki/Hit_Objects). Hitsound biasanya digunakan untuk memberikan umpan balik suara kepada pemain untuk membantu mereka dalam menilai [akurasi](/wiki/Gameplay/Accuracy) yang terkait dengan lagu tersebut.
 

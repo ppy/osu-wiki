@@ -407,7 +407,6 @@
 "starting_a_beatmap_project":             "Guides/Starting_a_Beatmap_Project"
 "tablet_purchase":                        "Guides/Tablet_Purchase"
 "buying_a_tablet":                        "Guides/Tablet_Purchase"
-"tips_and_tricks_on_skill_improvement":   "Guides/Tips_and_Tricks_on_Skill_Improvement"
 "videos_from_youtube":                    "Guides/Videos_from_YouTube"
 
 "guides/changing_the_title_text":         "Beatmap/Title_Text#changing-title-text"
@@ -799,8 +798,9 @@
 "wiki_help":                                        "osu!_wiki/Maintenance#routines"
 "osu!wiki_contribution_guide":                      "osu!_wiki/Contribution_guide"
 "owcg":                                             "osu!_wiki/Contribution_guide"
-"osu!wiki_contribution_guide/common_issues":        "osu!_wiki/Contribution_guide/Common_Issues"
-"owcg/common_issues":                               "osu!_wiki/Contribution_guide/Common_Issues"
+"osu!_wiki/Contribution_guide/Common_Issues":       "osu!_wiki/Contribution_guide/Best_practices"
+"osu!wiki_contribution_guide/common_issues":        "osu!_wiki/Contribution_guide/Best_practices"
+"owcg/common_issues":                               "osu!_wiki/Contribution_guide/Best_practices"
 "osu!wiki_contribution_guide/github_web_interface": "osu!_wiki/Contribution_guide/GitHub_Web_Interface"
 "owcg/github_web_interface":                        "osu!_wiki/Contribution_guide/GitHub_Web_Interface"
 "osu!wiki_contribution_guide/github_desktop":       "osu!_wiki/Contribution_guide/GitHub_Desktop"
@@ -808,7 +808,7 @@
 
 # moved in #6138
 "osu!_wiki_Contribution_Guide":                       "osu!_wiki/Contribution_guide"
-"osu!_wiki_Contribution_Guide/Common_Issues":         "osu!_wiki/Contribution_guide/Common_Issues"
+"osu!_wiki_Contribution_Guide/Common_Issues":         "osu!_wiki/Contribution_guide/Best_practices"
 "osu!_wiki_Contribution_Guide/GitHub_Desktop":        "osu!_wiki/Contribution_guide/GitHub_Desktop"
 "osu!_wiki_Contribution_Guide/GitHub_Web_Interface":  "osu!_wiki/Contribution_guide/GitHub_Web_Interface"
 

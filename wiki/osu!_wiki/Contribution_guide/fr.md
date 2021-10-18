@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
+---
+
 # Guide de contribution au osu! wiki
 
 Merci de votre intérêt pour aider à rendre le wiki osu! meilleur ! Ce guide de démarrage rapide est destiné aux nouveaux arrivants qui n'ont jamais travaillé avec GitHub et les workflow de contribution du wiki d'osu! avant. Si vous avez déjà utilisé GitHub, n'hésitez pas à ignorer ce guide et à suivre le flux de travaux commun aux branches de fonctionnalités pour les mises à jour de contenu dans ce référentiel.
@@ -44,7 +49,7 @@ Si, à un moment quelconque, vous êtes confus et/ou avez besoin d’une aide su
 
 3. Ce n'est pas vraiment un problème; autrement dit, si vous ne modifiez pas un fichier qui a déjà été modifié, il est peu probable que vous soyez en retard.
 
-4. Pour résoudre ce problème, voir [Ma branche est obsolète ! section de l'article sur les problèmes courants](/wiki/osu!_wiki/Contribution_guide/Common_Issues#ma-branche-n'est-plus-à-jour!).
+4. Pour résoudre ce problème, voir [Ma branche est obsolète ! section de l'article sur les problèmes courants](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork).
 
 5. Lorsque vous avez terminé l’étape 4, passez à [Modification en ligne ou localement](#edition-en-ligne-ou-localement).
 

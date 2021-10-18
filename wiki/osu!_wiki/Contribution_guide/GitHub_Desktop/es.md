@@ -32,7 +32,7 @@ no_native_review: true
 Mientras que la ramificación es técnicamente opcional, es [altamente recomendable por un par de razones](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Para nombrar unas cuantas:
 
 - Las ramificaciones aislan diferentes cambios lógicos unos de otros: puedes trabajar en más de un artículo y tenerlos revisados y unidos de manera separada.
-- Cuando tus cambios están fuera de tu ramificación `master`, puedes [sincronizarlo de manera segura](/wiki/osu!_wiki/Contribution_guide/Common_Issues#¡mi-ramificación-está-desactualizada!) sin conflictos de unión.
+- Cuando tus cambios están fuera de tu ramificación `master`, puedes [sincronizarlo de manera segura](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork) sin conflictos de unión.
 
 1. Haz click en la opción desplegable `Current branch` localizado en la parte de arriba del menú.
 
@@ -46,7 +46,7 @@ Mientras que la ramificación es técnicamente opcional, es [altamente recomenda
 
 1. En el archivo en el que has clonado el repositorio, navega al archivo que quieres editar. Los artículos están organizados por el nombre de las carpetas siendo el nombre de los artículos y los archivos `.md` siendo las traducciones.
 2. Una vez que has encontrado el archivo correcto, ábrelo usando tu editor de texto favorito.
-3. Ahora puedes hacer tus cambios. Cuando haces cambios, sigue el [Criterio de Estilo de Artículos](/wiki/Article_Styling_Criteria) tanto como puedas.
+3. Ahora puedes hacer tus cambios. Cuando haces cambios, sigue el [Criterio de Estilo de Artículos](/wiki/Article_styling_criteria) tanto como puedas.
 4. Continua en [Haciendo 'commits' y 'pushes'](#haciendo-'commits'-y-'pushes').
 
 ### Moviendo archivos existentes

@@ -517,8 +517,8 @@ HTML-комментарии<!-- TODO: написать объяснение по
 
 ```markdown
 [Критерии оформления статей](/wiki/Article_styling_criteria)
-[Разработчики](/wiki/Developers)
-[Разработчики](/wiki/Developers#game-client-developers)
+[Разработчики](/wiki/People/The_Team/Developers)
+[Разработчики](/wiki/People/The_Team/Developers#game-client-developers)
 ```
 
 ##### Ссылки на вложенные статьи
@@ -596,7 +596,7 @@ HTML-комментарии<!-- TODO: написать объяснение по
 ```markdown
 ![][flag_CH]
 
-[flag_CH]: /wiki/shared/flag/CH.gif
+[flag_CH]: /wiki/shared/flag/CH.gif "Швейцария"
 ```
 
 Как и в случае с текстом, используйте встроенные ссылки для изображений, которые встречаются один раз. Выносные ссылки на изображения должны быть перечислены в конце статьи.

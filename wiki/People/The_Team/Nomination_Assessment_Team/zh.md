@@ -50,7 +50,8 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | 瑞典语 | 构造，沟通 |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | 评估，构造，沟通 |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | 构造 |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | 葡萄牙语 | 评估，构造，沟通 |
+| ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  | 评估 |
+| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | 西班牙语，法语 | 评估 |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | 荷兰语 | 评估 |
 | ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | 波兰语 | 评估 |
 
@@ -77,7 +78,6 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | 评估 |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "比利时"
-[flag_BR]: /wiki/shared/flag/BR.gif "巴西"
 [flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "阿尔及利亚"
 [flag_ES]: /wiki/shared/flag/ES.gif "西班牙"

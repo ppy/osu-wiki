@@ -580,7 +580,7 @@ Sunday, 11 August 2019:
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_KW]: /wiki/shared/flag/KW.gif "Kuwait"
 [flag_KZ]: /wiki/shared/flag/KZ.gif "Kazakhstan"
-[flag_MN]: /wiki/shared/flag/MN.gif "Monaco"
+[flag_MN]: /wiki/shared/flag/MN.gif "Mongolia"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"

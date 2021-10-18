@@ -28,7 +28,7 @@
 While branching is technically optional, it is [highly recommended for a couple of reasons](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). To name a few:
 
 - Branches isolate different logical changes from each other: you can work on more than one article and have them reviewed and merged separately.
-- When your changes are outside of the `master` branch, you can [safely sync it](/wiki/osu!_wiki/Contribution_guide/Common_Issues#my-branch-is-out-of-date!) without merge conflicts.
+- When your changes are outside of the `master` branch, you can [safely sync it](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork) without merge conflicts.
 
 1. Click on the `Current branch` dropdown located at the top of the menu.
 
@@ -42,7 +42,7 @@ While branching is technically optional, it is [highly recommended for a couple 
 
 1. In the folder you cloned the repo into, navigate to the file you want to edit. The articles are organized by the folder names being the article names and the `.md` files being the locales.
 2. Once you find the correct file, open it using your favorite text editor.
-3. You can now make your changes. When making changes, follow the [Article Styling Criteria](/wiki/ASC) as closely as you can.
+3. You can now make your changes. When making changes, follow the [Article Styling Criteria](/wiki/Article_styling_criteria) as closely as you can.
 4. Continue to [Committing and pushing](#committing-and-pushing).
 
 ### Moving existing files

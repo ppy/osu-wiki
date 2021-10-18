@@ -4,7 +4,7 @@ no_native_review: true
 
 # 准确度
 
-准确度是对玩家准时击中[物件](/wiki/Hit_object)的能力的百分数评估。玩家有三种准确度：谱面的准确度，这取决于所得的命中分数；总准确度，它是为让更好的得分更加突出而权衡的；[Performance Points (pp)](/wiki/Performance_Points)准确度，它取决于提交的得分的准确度。
+准确度是对玩家准时击中[物件](/wiki/Hit_object)的能力的百分数评估。玩家有三种准确度：谱面的准确度，这取决于所得的命中分数；总准确度，它是为让更好的得分更加突出而权衡的；[Performance Points (pp)](/wiki/Performance_points)准确度，它取决于提交的得分的准确度。
 
 ## 游戏模式
 
@@ -59,7 +59,7 @@ no_native_review: true
 
 #### Error
 
-`Error` 将永远显示两个值，代表提前击打和延迟击打时间的平均值。谱面的 [Overall Difficulty](/wiki/Beatmapping/Overall_Difficulty) 值越高，游玩谱面时得到好的分数所需要的 Error 值也越低。
+`Error` 将永远显示两个值，代表提前击打和延迟击打时间的平均值。谱面的 [Overall Difficulty](/wiki/Beatmapping/Overall_difficulty) 值越高，游玩谱面时得到好的分数所需要的 Error 值也越低。
 
 #### Unstable rate
 

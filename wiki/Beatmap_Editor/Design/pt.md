@@ -25,6 +25,6 @@ O **Editor de Storyboard** é uma seção do [Editor de Beatmap](/wiki/Beatmap_E
 
 ## Limitações
 
-- Não tem suporte a efeitos sonoros, isso não é um grande problema já que efeitos sonoros podem distrair jogadores, especialmente se eles estão próximos de [Hit Objects](/wiki/Hit_Objects). Uso de efeitos sonoros deve ser feitos apenas por mappers experientes e com a aprovação dos membros do BAT.
+- Não tem suporte a efeitos sonoros, isso não é um grande problema já que efeitos sonoros podem distrair jogadores, especialmente se eles estão próximos de [Hit Objects](/wiki/Hit_object). Uso de efeitos sonoros deve ser feitos apenas por mappers experientes e com a aprovação dos membros do BAT.
 - Sem suporte para loop ou trigger.
 - Sem comandos de cor ou Move-X/Move-Y.

@@ -28,7 +28,7 @@ no_native_review: true
 
 *提醒：此 Mod 已無法使用。*
 
-**Fade Out** 是 [osu!mania](/wiki/Game_mode/osu!mania) 專用的 Mod。旨在創造與 [Fade In](/wiki/Game_modifier/Fade_In) 類似的體驗，但與 Fade In 相反，音符會在打擊前逐漸淡出。此 Mod 已被[Hidden](/wiki/Game_Modifier/Hidden) 取代。
+**Fade Out** 是 [osu!mania](/wiki/Game_mode/osu!mania) 專用的 Mod。旨在創造與 [Fade In](/wiki/Game_modifier/Fade_In) 類似的體驗，但與 Fade In 相反，音符會在打擊前逐漸淡出。此 Mod 已被[Hidden](/wiki/Game_modifier/Hidden) 取代。
 
 Hidden Mod 和 Fade Out Mod 的功能相同。
 

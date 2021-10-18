@@ -25,7 +25,7 @@ Ten zbiór zasad to podstawa, dzięki której społeczność osu! jest przyjazny
 6. **Bądź świadom tego, co udostępniasz innym, zwłaszcza gdy ta treść może być niepokojąca lub obsceniczna.** Jeżeli musisz zastanawiać się dwa razy nad tym, czy coś jest odpowiednie, to prawdopodobnie to nie jest. Unikaj treści zawierających szybkie, migoczące światła, brutalność, przemoc itp.
 7. **Pilnuj, by wysyłane przez ciebie linki prowadziły do legalnych i wiarygodnych stron** Strony udostępniające oglądanie treści wideo bez odpowiednich zezwoleń (licencjonowane takie jak Animelab czy Crunchyroll są w porządku), czy jakiekolwiek nielegalne oprogramowanie nie są akceptowane i nie chcemy ich na naszym czacie. Rozgłaszanie transmisji w serwisie Twitch dla innych gier jest w porządku, ale TYLKO na kanale `#videogames`.
 8. **Nie rozgłaszaj innych serwerów czatowych, włączając w to serwery/grupy na Discord, Teamspeak czy Skype.** Głównym tematem na czacie w osu! jest właśnie osu! i nie powinno się udostępniać linków do zewnętrznych serwerów. Jeżeli to koniecznie, zrób to poprzez prywatną wiadomość.
-9. **Na kanałach o określonym języku można rozmawiać tylko w tym języku (angielski dla #english, chiński dla #chinese itd.).** Jeżeli język na danym kanale nie został określony (bądź nie jest możliwy do wywnioskowania z nazwy kanału), to jest to zawsze angielski. Kanały `#lobby` i `#help` są wielojęzyczne, w przeciwieństwie do reszty. *Członkowie [moderacji](/wiki/People/Global_Moderation_Team) nie muszą przestrzegać tej zasady podczas swojej pracy.*
+9. **Na kanałach o określonym języku można rozmawiać tylko w tym języku (angielski dla #english, chiński dla #chinese itd.).** Jeżeli język na danym kanale nie został określony (bądź nie jest możliwy do wywnioskowania z nazwy kanału), to jest to zawsze angielski. Kanały `#lobby` i `#help` są wielojęzyczne, w przeciwieństwie do reszty. *Członkowie [moderacji](/wiki/People/The_Team/Global_Moderation_Team) nie muszą przestrzegać tej zasady podczas swojej pracy.*
 
 ## Zasady dot. forum
 
@@ -39,7 +39,7 @@ Ten zbiór zasad to podstawa, dzięki której społeczność osu! jest przyjazny
 
 ## Zasady dot. przesyłania beatmap
 
-Te zasady dotyczą wyłącznie beatmap udostępnionych poprzez [system przesyłania beatmap](/wiki/Submission). Wątki są tworzone przez klient gry automatycznie, gdy beatmapa zostanie przesłana poprzez [edytor](/wiki/editor).
+Te zasady dotyczą wyłącznie beatmap udostępnionych poprzez [system przesyłania beatmap](/wiki/Submission). Wątki są tworzone przez klient gry automatycznie, gdy beatmapa zostanie przesłana poprzez [edytor](/wiki/Beatmap_Editor).
 
 Treściwy zbiór zasad dotyczących tworzenia beatmap znany jest jako [kryteria rankingowe](/wiki/Ranking_Criteria).
 

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
+---
+
 # Panduan kontribusi osu! wiki
 
 Terima kasih atas minatnya untuk membuat osu! wiki tempat yang lebih baik! Panduan ini ditujukan untuk pendatang baru yang belum pernah bekerja dengan GitHub dan belum mengenal alur kerja kontribusi osu! wiki sebelumnya. Jika kamu sudah memiliki pengalaman menggunakan GitHub, kamu bisa melewati panduan ini dan langsung mengikuti alur kerja *feature-branch* untuk pembaruan konten di repositori ini.
@@ -44,7 +49,7 @@ Jika, kamu kebingunan di beberapa bagian dari artikel ini dan/atau membutuhkan b
 
 3. Kesalahan di atas bukan masalah besar, kecuali, jika kamu akan menyunting file yang sudah disunting sebelumnnya dan berkemungkinan besar branch kamu tertinggal dengan semakin banyaknya commit yang dibuat oleh orang lain terhadap file tersebut.
 
-4. Untuk mengatasi ini, lihat [Bagian branch saya belum diperbarui! dalam artikel Masalah Umum.](/wiki/osu!_wiki/Contribution_guide/Common_Issues#branch-saya-belum-diperbarui!).
+4. Untuk mengatasi ini, lihat [Bagian branch saya belum diperbarui! dalam artikel Masalah Umum.](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork).
 
 5. Ketika kamu telah selesai mengikuti langkah 4, lanjutkan ke tahap [Menyunting dari daring ataupun luring](#menyunting-dari-daring-ataupun-luring).
 

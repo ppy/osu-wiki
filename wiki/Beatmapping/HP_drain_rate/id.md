@@ -10,7 +10,7 @@ tags:
 *Untuk health sebagai mekanisme dalam gameplay, silakan lihat: [Health](/wiki/Beatmapping/Health)*\
 *Untuk peraturan sekitar penggunaan HP drain rate, silakan lihat: [Ranking criteria](/wiki/Ranking_Criteria)*
 
-**HP drain rate** (***HP***) adalah pengaturan kesulitan [beatmap](/wiki/Beatmap) yang mengontrol seberapa banyak [health](/wiki/Beatmapping/Health) yang berkurang secara pasif terhadap [health drain](/wiki/Beatmapping/Health_drain). Itu juga memberikan efek seberapa berat seorang pemain dihukum ketika kehilangan not dan seberapa banyak health yang didapatkan kembali ketika mengenai [hit objects](/wiki/Hit_Objects) dengan tepat sasaran.
+**HP drain rate** (***HP***) adalah pengaturan kesulitan [beatmap](/wiki/Beatmap) yang mengontrol seberapa banyak [health](/wiki/Beatmapping/Health) yang berkurang secara pasif terhadap [health drain](/wiki/Beatmapping/Health_drain). Itu juga memberikan efek seberapa berat seorang pemain dihukum ketika kehilangan not dan seberapa banyak health yang didapatkan kembali ketika mengenai [hit objects](/wiki/Hit_object) dengan tepat sasaran.
 
 Rentang HP dimulai dari 0 sampai 10, di mana 10 adalah skala yang paling berat dan 0 yang paling ringan.
 

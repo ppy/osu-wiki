@@ -34,6 +34,6 @@ tags:
 
 또한, 오토 파일럿 모드는 인게임 인터페이스를 비활성화 합니다. 따라서 [점수](/wiki/Score), [콤보](/wiki/Beatmapping/Combo), 그리고 미스를 숨기며, 'Shift'+'Tab' 키를 누름으로써 다시 활성화 시킬 수 있습니다.
 
-추가로, 스핀의 분당 회전수(SPM)의 값은 [스펀 아웃](/wiki/Game_modifier/Spun_out) 모드에 의한 분당 회전수와 유사하므로 플레이어가 직접 커서를 이용해 회전하여 SPM을 증가시킬 수 없습니다.
+추가로, 스핀의 분당 회전수(SPM)의 값은 [스펀 아웃](/wiki/Game_modifier/Spun_Out) 모드에 의한 분당 회전수와 유사하므로 플레이어가 직접 커서를 이용해 회전하여 SPM을 증가시킬 수 없습니다.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

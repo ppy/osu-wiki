@@ -19,7 +19,7 @@ BanchoBot's `!faq` command has been open to public for [translation](https://doc
 
 osu!mania now support vertical flip (upside-down), making gameplay similar to that of DDR/o2jam. Skinning now supports double-resolution sprites when the window width was greater than 1600 pixels. To add support to a skin, add images with double the width/height containing the `@2x` suffix before the file extension (eg: `cursor@2x.png`).
 
-Ranking support for [Hidden](/wiki/HD) and [FadeIn](/wiki/FI) mods in osu!mania and lastly, less widescreen limitations in the editor when it comes to placement and selection.
+Ranking support for [Hidden](/wiki/HD) and [FadeIn](/wiki/Game_modifier/Fade_In) mods in osu!mania and lastly, less widescreen limitations in the editor when it comes to placement and selection.
 
 Links:
 
@@ -51,7 +51,7 @@ Links:
 
 This month's updates were mostly made up of patching up the previous major update, but that doesn't mean that was the end! First, it was the initial implementation of "Collections" support that will replace the long-standing "Favourites A/B", making it simple for player to put in their favourite beatmaps in one "Collections" and able to share it with others by transferring the "Collections" rather than "Favourites A/B".
 
-Game modes can now be easily switched at song selection by using `Ctrl` + `1`, `2`, `3`, or `4`. A new game modifier was added specially for osu!mania, [Random](/wiki/RD). Some adjustment has been made on Multi's "Quick Join" button behaviour to direct you to a room with respect to your average pp against the room pp's deviation.
+Game modes can now be easily switched at song selection by using `Ctrl` + `1`, `2`, `3`, or `4`. A new game modifier was added specially for osu!mania, [Random](/wiki/Game_modifier/Random). Some adjustment has been made on Multi's "Quick Join" button behaviour to direct you to a room with respect to your average pp against the room pp's deviation.
 
 For beatmap replays, stale-standing comment has been switched to moving [nico-style](https://en.wikipedia.org/wiki/Nico_Nico_Douga) comment style and comment colour can now be customised (for osu!supporters only).
 

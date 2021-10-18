@@ -7,7 +7,7 @@ tags:
 
 # Hitsound
 
-*Voir aussi : [Ajouter des hitsounds personnalisés](/wiki/Guides/Adding_Custom_Hitsounds)*.
+*Voir aussi : [Ajouter des hitsounds personnalisés](/wiki/Guides/Using_custom_hitsounds)*.
 
 Les **hitsounds** sont les sons qu'osu! joue en réponse aux frappes de l'utilisateur lorsqu'il interagit avec les [objets](/wiki/Hit_Objects). Les hitsounds sont généralement utilisés pour donner un retour auditif au joueur afin de l'aider à évaluer sa [précision](/wiki/Gameplay/Accuracy) par rapport à la beatmap.
 

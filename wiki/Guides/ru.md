@@ -32,7 +32,6 @@
 - [Как использовать оффсет-мастер в osu!](How_to_Use_the_Offset_Wizard)
 - [Поиск и скачивание карт](Searching_and_Downloading_Beatmaps)
 - [Покупка графического планшета](Tablet_Purchase)
-- [Советы и рекомендации по улучшению своих навыков игры в osu!](Tips_and_Tricks_on_Skill_Improvement)
 
 ## Создание скинов
 
