@@ -104,7 +104,7 @@ If your `skin.ini` does not specify a `Version`, it will default to this version
 
 If your skin folder does not contain a `skin.ini` file, it will default to this version.
 
-- **Never** use this when trying to distribute skins! (a new skin version could break the skin for what version it was entended for).
+- **Never** use this when distributing skins! (if a new skin version releases, a skin with its version set to `latest` might break).
 - Always uses the latest version the game supports.
 
 ### User
