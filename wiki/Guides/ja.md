@@ -37,7 +37,6 @@ no_native_review: true
 - [オフセットウィザードの使用方法](How_to_Use_the_Offset_Wizard)
 - [ビートマップの検索とダウンロード](Searching_and_Downloading_Beatmaps)
 - [タブレットの購入](Tablet_Purchase)
-- [スキル向上のヒントとコツ](Tips_and_Tricks_on_Skill_Improvement)
 
 ## スキニング
 

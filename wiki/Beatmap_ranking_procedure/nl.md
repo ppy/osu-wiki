@@ -28,7 +28,7 @@ Het wordt aanbevolen om eerst mods te ontvangen voordat je nominaties aanvraagt 
 
 ## Kwalificatie
 
-Beatmaps die twee nominaties krijgen worden verplaatst naar de [Gekwalificeerd](/wiki/Beatmap/Category#qualified)-beatmapcategorie voor minstens 7 dagen. Gekwalificeerde beatmaps hebben ranglijsten, maar belonen spelers niet met [prestatiepunten (pp)](/wiki/Performance_Points).
+Beatmaps die twee nominaties krijgen worden verplaatst naar de [Gekwalificeerd](/wiki/Beatmap/Category#qualified)-beatmapcategorie voor minstens 7 dagen. Gekwalificeerde beatmaps hebben ranglijsten, maar belonen spelers niet met [prestatiepunten (pp)](/wiki/Performance_points).
 
 Deze beatmapcategorie bestaat om beatmaps een grotere belangstelling te geven aan de osu! community zodat eventuele problemen hopelijk ontdekt worden. Problemen kunnen gemeld worden aan de leden van de BNs en NAT van de beatmappagina. In tegenstelling tot Pending (In Afwachting)-beatmaps kunnen Gekwalificeerde beatmaps niet meer aangepast worden door de maker. Feedback kan dus enkel toegepast worden na een [nominatiereset](#nomination-resets).
 

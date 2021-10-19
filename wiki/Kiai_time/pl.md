@@ -8,7 +8,7 @@ outdated: true
 
 ![Znaczek Czasu Kiai w Edytorze.](img/Kiai_Time_edit.jpg "Znaczek Czasu Kiai w Edytorze.")
 
-**Czas Kiai** jest umieszczany przez [twórcę mapy](/wiki/Beatmapping) między dwoma [miejscami](/wiki/Beatmap_Editor/Timing) w [beatmapie](/wiki/Beatmap). Czas Kiai łatwo zauważyć, ponieważ wraz z jego rozpoczęciem pojawia się gwiezdna fontanna, a ekran oraz [elementy beatmapy](/wiki/Hit_Objects) zaczynają migać zgodnie z [rytmem](/wiki/Beatmap_Editor/Timing) piosenki. Gdy Czas Kiai jest aktywny, z kursora będą wylatywały gwiazdki przy każdym naciśnięciu kółka, przeciągnięciu slidera oraz kręceniu spinnerem.
+**Czas Kiai** jest umieszczany przez [twórcę mapy](/wiki/Beatmapping) między dwoma [miejscami](/wiki/Beatmap_Editor/Timing) w [beatmapie](/wiki/Beatmap). Czas Kiai łatwo zauważyć, ponieważ wraz z jego rozpoczęciem pojawia się gwiezdna fontanna, a ekran oraz [elementy beatmapy](/wiki/Hit_object) zaczynają migać zgodnie z [rytmem](/wiki/Beatmap_Editor/Timing) piosenki. Gdy Czas Kiai jest aktywny, z kursora będą wylatywały gwiazdki przy każdym naciśnięciu kółka, przeciągnięciu slidera oraz kręceniu spinnerem.
 
 ## Czas Kiai w mapowaniu
 

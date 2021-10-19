@@ -58,7 +58,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 # コミュニティ
 
-[トーナメント](/wiki/Tournaments) • [スキニング](/wiki/Skinning) • [プロジェクト](/wiki/Projects) • [ガイド](/wiki/Guides) • [osu!dev Discordサーバー](/wiki/osu!dev_Discord_server) • [ご協力のお願い](/wiki/How_You_Can_Help!) • [用語集](/wiki/Glossary)
+[トーナメント](/wiki/Tournaments) • [スキニング](/wiki/Skinning) • [プロジェクト](/wiki/Projects) • [ガイド](/wiki/Guides) • [osu!dev Discordサーバー](/wiki/osu!dev_Discord_server) • [ご協力のお願い](/wiki/How_you_can_help!) • [用語集](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -83,7 +83,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 # wikiについて
 
-[サイトマップ](/wiki/Sitemap) • [コントリビューションガイド](/wiki/osu!_wiki/Contribution_guide) • [記事のスタイリング基準](/wiki/Article_Styling_Criteria) • [ニュースのスタイリング基準](/wiki/News_Styling_Criteria)
+[サイトマップ](/wiki/Sitemap) • [コントリビューションガイド](/wiki/osu!_wiki/Contribution_guide) • [記事のスタイリング基準](/wiki/Article_styling_criteria) • [ニュースのスタイリング基準](/wiki/News_Styling_Criteria)
 
 </div>
 </div>
