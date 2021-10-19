@@ -59,7 +59,7 @@ Komponenty: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Podzielnik beatu](/wiki/Bea
 
 # Społeczność
 
-[Turnieje](/wiki/Tournaments) • [Tworzenie skórek](/wiki/Skinning) • [Projekty](/wiki/Projects) • [Poradniki](/wiki/Guides) • [Serwer Discord osu!dev](/wiki/osu!dev_Discord_server) • [Jak możesz pomóc?](/wiki/How_You_Can_Help!) • [Słownik](/wiki/Glossary)
+[Turnieje](/wiki/Tournaments) • [Tworzenie skórek](/wiki/Skinning) • [Projekty](/wiki/Projects) • [Poradniki](/wiki/Guides) • [Serwer Discord osu!dev](/wiki/osu!dev_Discord_server) • [Jak możesz pomóc?](/wiki/How_you_can_help!) • [Słownik](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -84,7 +84,7 @@ Organizacje: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # O wiki osu!
 
-[Mapa strony](/wiki/Sitemap) • [Poradnik dot. współtworzenia wiki](/wiki/osu!_wiki/Contribution_guide) • [Kryteria stylu artykułów](/wiki/Article_Styling_Criteria) • [Kryteria stylu aktualności](/wiki/News_Styling_Criteria)
+[Mapa strony](/wiki/Sitemap) • [Poradnik dot. współtworzenia wiki](/wiki/osu!_wiki/Contribution_guide) • [Kryteria stylu artykułów](/wiki/Article_styling_criteria) • [Kryteria stylu aktualności](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

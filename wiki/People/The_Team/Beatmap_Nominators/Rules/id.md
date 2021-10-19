@@ -5,7 +5,7 @@ outdated_since: d2a93c7e0e135bbf0a1944230cab0a334b2ef58f
 
 # Aturan bagi Beatmap Nominator
 
-Aturan yang tercantum di sini mempengaruhi apa yang [Beatmap Nominators](/wiki/People/Beatmap_Nominators) bisa dan tidak bisa lakukan saat menominasi beatmap, juga untuk mengatur pola perilaku umum yang diharapkan dari mereka. Aturan-aturan ini adalah hasil diskusi dari [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) dan telah memperhitungkan umpan balik dari Beatmap Nominator berdasarkan proposal mereka.
+Aturan yang tercantum di sini mempengaruhi apa yang [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) bisa dan tidak bisa lakukan saat menominasi beatmap, juga untuk mengatur pola perilaku umum yang diharapkan dari mereka. Aturan-aturan ini adalah hasil diskusi dari [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) dan telah memperhitungkan umpan balik dari Beatmap Nominator berdasarkan proposal mereka.
 
 Beatmap Nominator memiliki alat untuk menominasi beatmap dan membentuk dunia osu! dengan cara mempromosikan konten baru agar dimasukkan ke dalam daftar resmi, dan dengan alasan ini mereka harus selalu mematuhi aturan. Melanggar salah satu dari ini dapat membuat Beatmap Nominator tersebut dihapus dari Beatmap Nominator. Pelanggaran aturan tersebut dapat dilaporkan ke anggota Nomination Assessment Team secara langsung.
 

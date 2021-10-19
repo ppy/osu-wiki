@@ -14,6 +14,7 @@ outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
 | Obecna, domyślna ścieżka | Stara ścieżka |
 | :-- | :-- |
 | C:\Users\\\<Username\>\AppData\Local\osu! | C:\Program Files\osu! / C:\Program Files(x86)\osu! (dla 7 64-bit lub 8) |
+
 > "C:" jest twoim dyskiem z zainstalowanym osu!.
 
 ## Foldery
@@ -93,7 +94,7 @@ Pliki .db przechowują dane beatmap, które tylko osu!.exe/osu!test.exe może wy
 Pliki konfiguracyjne konfigurują wstępne ustawienia osu! do pracy. Pliki te mogą zostać otworzone przy użyciu Notatnika.
 
 - osu!.cfg (logiczna konfiguracja osu!)
-- osu!.{YOUR PC NAME}.cfg ("Ekran [Opcji](/wiki/Options)". Zawiera także [zlekceważone/ciekawe zmienne i osobiste informacje](/wiki/osu!_Program_Files/User_configuration_file))
+- osu!.{YOUR PC NAME}.cfg ("Ekran [Opcji](/wiki/Options)". Zawiera także [zlekceważone/ciekawe zmienne i osobiste informacje](/wiki/osu!_Program_Files/User_Configuration_File))
   - {YOUR PC NAME}: Nazwa twojego konta PC. Powiedzmy, że nazwa twojego konta PC to "HelloWorld", plik .cfg będzie się nazywał, osu!.HelloWorld.cfg.
 
 ### .exe (aplikacja)

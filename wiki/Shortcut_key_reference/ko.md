@@ -114,9 +114,9 @@ Note: [멀티플레이](/wiki/Multi) 곡 선택 화면에서는 일부 키가 �
 - `S`, `S`: [Perfect](/wiki/Game_modifier/Perfect)
 - `D`: [Double Time](/wiki/Game_modifier/Double_Time)
 - `D`, `D`: [Nightcore](/wiki/Game_modifier/Nightcore)
-- `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, osu!catch)
-  - [Fade In](/wiki/Fade_In) (osu!mania)
-- `F`, `F`: [Hidden](/wiki/Hidden) (osu!mania 전용)
+- `F`: [Hidden](/wiki/Game_modifier/Hidden) (osu!, osu!taiko, osu!catch)
+  - [Fade In](/wiki/Game_modifier/Fade_In) (osu!mania)
+- `F`, `F`: [Hidden](/wiki/Game_modifier/Hidden) (osu!mania 전용)
 - `G`: [Flashlight](/wiki/Game_modifier/Flashlight)
 
 ---
@@ -129,13 +129,13 @@ Note: [멀티플레이](/wiki/Multi) 곡 선택 화면에서는 일부 키가 �
 
 ---
 
-- `3`: [3K](/wiki/3K) (osu!mania 전용)
-- `4`: [4K](/wiki/4K) (osu!mania 전용)
-- `5`: [5K](/wiki/5K) (osu!mania 전용)
-- `6`: [6K](/wiki/6K) (osu!mania 전용)
-- `7`: [7K](/wiki/7K) (osu!mania 전용)
-- `8`: [8K](/wiki/8K) (osu!mania 전용)
-- `9`: [9K](/wiki/9K) (osu!mania 전용)
+- `3`: [3K](/wiki/Game_modifier/xK) (osu!mania 전용)
+- `4`: [4K](/wiki/Game_modifier/xK) (osu!mania 전용)
+- `5`: [5K](/wiki/Game_modifier/xK) (osu!mania 전용)
+- `6`: [6K](/wiki/Game_modifier/xK) (osu!mania 전용)
+- `7`: [7K](/wiki/Game_modifier/xK) (osu!mania 전용)
+- `8`: [8K](/wiki/Game_modifier/xK) (osu!mania 전용)
+- `9`: [9K](/wiki/Game_modifier/xK) (osu!mania 전용)
 
 ## 게임 플레이
 

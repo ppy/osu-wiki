@@ -52,7 +52,7 @@
 
 Die Idee dahinter, weshalb ein Storyboard anstatt eines Videos benutzt werden sollte, liegt daran an **die Möglichkeit es nach Situation dynamisch ans Gameplay anzupassen**. osu! zeigt entweder nur die Pass oder die Fail Ebene an, welches von der Performance des Spielers abhängt. Diese Status werden daher auch als "Fail-Status" und als "Pass-Status" bezeichnet.
 
-Der Status **vor der ersten spielbaren Sequenz** (z. B. bevor der erste [Circle/Slider/Spinner](/wiki/Hit_Objects) erscheint)
+Der Status **vor der ersten spielbaren Sequenz** (z. B. bevor der erste [Circle/Slider/Spinner](/wiki/Hit_object) erscheint)
 
 - ist immer der Pass-Status. Die Fail Ebene wird daher nie angezeigt. Es wird empfohlen weder die Pass Ebene, noch die Fail Ebene an diesem Punkt zu verwenden, da man nicht wirklich vom "passen" oder "failen sprechen kann.
 
