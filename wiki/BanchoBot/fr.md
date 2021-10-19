@@ -83,7 +83,7 @@ Vous trouverez ci-dessous une liste de toutes les commandes de BanchoBot :
 !stats <nom d'utilisateur>
 ```
 
-`!stats` affiche les statistiques de jeu de l'utilisateur saisi et son statut actuel. La sortie dépend du [mode de jeu](/wiki/Game_Modes) que l'utilisateur saisi a joué en dernier, bien que BanchoBot n'affichera pas le mode de jeu d'où proviennent les statistiques. Si on lui demande d'afficher les statistiques d'un utilisateur qui n'a jamais joué à osu!, BanchoBot répondra par `User not found`, même si l'utilisateur existe. Un exemple d'envoi de cette commande est montré ci-dessous :
+`!stats` affiche les statistiques de jeu de l'utilisateur saisi et son statut actuel. La sortie dépend du [mode de jeu](/wiki/Game_mode) que l'utilisateur saisi a joué en dernier, bien que BanchoBot n'affichera pas le mode de jeu d'où proviennent les statistiques. Si on lui demande d'afficher les statistiques d'un utilisateur qui n'a jamais joué à osu!, BanchoBot répondra par `User not found`, même si l'utilisateur existe. Un exemple d'envoi de cette commande est montré ci-dessous :
 
 ```
 13:01 pippi: !stats peppy
@@ -146,7 +146,7 @@ Il y a un total de 7 statuts qui peuvent être affichés par la commande `!stats
 !report <utilisateur> <raison>
 ```
 
-`!report` notifie les membres de la [Global Moderation Team](/wiki/Global_Moderation_Team) du comportement inapproprié d'un utilisateur. Si un utilisateur a des espaces dans son nom d'utilisateur, remplacez-les par des traits de soulignement (par exemple, `nom d'utilisateur super cool` devient `nom_d'utilisateur_super_cool`). Pour signaler un modérateur, contactez l'[équipe d'assistance aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Un exemple de signalement d'un utilisateur normal par BanchoBot est présenté ci-dessous :
+`!report` notifie les membres de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) du comportement inapproprié d'un utilisateur. Si un utilisateur a des espaces dans son nom d'utilisateur, remplacez-les par des traits de soulignement (par exemple, `nom d'utilisateur super cool` devient `nom_d'utilisateur_super_cool`). Pour signaler un modérateur, contactez l'[équipe d'assistance aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Un exemple de signalement d'un utilisateur normal par BanchoBot est présenté ci-dessous :
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

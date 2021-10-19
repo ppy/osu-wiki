@@ -8,7 +8,7 @@ tags:
 
 *For regulations surrounding circle size, see: [Ranking criteria](/wiki/Ranking_Criteria)*
 
-**Circle size** (***CS***) is a [beatmap](/wiki/Beatmap) difficulty setting that affects the size of [hit objects](/wiki/Hit_Objects). Circle size values range from 0 to 10, but only values from 2 to 7 can be chosen in the [beatmap editor](/wiki/Beatmap_Editor). Other values can be used by manually editing the [.osu file](/wiki/osu!_File_Formats/Osu_(file_format)) of a map.
+**Circle size** (***CS***) is a [beatmap](/wiki/Beatmap) difficulty setting that affects the size of [hit objects](/wiki/Hit_object). Circle size values range from 0 to 10, but only values from 2 to 7 can be chosen in the [beatmap editor](/wiki/Beatmap_Editor). Other values can be used by manually editing the [.osu file](/wiki/osu!_File_Formats/Osu_(file_format)) of a map.
 
 ## osu!
 

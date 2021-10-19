@@ -20,4 +20,4 @@ Le kiai time est le plus souvent utilisé pour la "partie la plus forte d'une ch
 
 ## osu!taiko
 
-Sur les beatmaps du mode [osu!taiko](/wiki/Game_Modes/osu!taiko), les sections kiai donnent 20 % de [score](/wiki/Score) en plus.
+Sur les beatmaps du mode [osu!taiko](/wiki/Game_mode/osu!taiko), les sections kiai donnent 20 % de [score](/wiki/Score) en plus.

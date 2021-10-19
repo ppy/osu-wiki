@@ -102,7 +102,7 @@ Approach Rate 通常缩写为"**AR**"。
 
 ![OD 细节总表](img/ODTable.png "OD 细节总表")
 
-**注意：** osu! 的判定系统不允许[圆圈在其前一个物件被击打前或其判定时间结束](/wiki/Hit_Objects)（即 miss 该物件）前被击中。在低 OD 的情况下，一个圆圈的判定时间可能与其他物件重叠，因此你可能在完全正确的时间击打某个物件而由于其前面的物件判定时间未结束而导致 miss。
+**注意：** osu! 的判定系统不允许[圆圈在其前一个物件被击打前或其判定时间结束](/wiki/Hit_object)（即 miss 该物件）前被击中。在低 OD 的情况下，一个圆圈的判定时间可能与其他物件重叠，因此你可能在完全正确的时间击打某个物件而由于其前面的物件判定时间未结束而导致 miss。
 
 ### 星数评价(Approximate Difficulty Rating)
 
@@ -120,7 +120,7 @@ Approach Rate 通常缩写为"**AR**"。
 
 #### 音效选择(Sample Set Selection)
 
-你可以在这里设定适合谱面 osu! 自带的音效，Normal 或 Soft 或 Drum.你也可以选择开启自定义音效([自定义音效对应表](/wiki/Custom_Sample_Overrides),必须先把音效文件放在谱面所在文件夹).
+你可以在这里设定适合谱面 osu! 自带的音效，Normal 或 Soft 或 Drum.你也可以选择开启自定义音效([自定义音效对应表](/wiki/Guides/Custom_Sample_Overrides),必须先把音效文件放在谱面所在文件夹).
 
 #### 音效音量大小(Sample Set Volume)
 

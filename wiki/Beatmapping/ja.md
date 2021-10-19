@@ -146,7 +146,7 @@ A couple of rules of thumb are:
 
 直感的なプレイのためにビートマップはよいビートの隙間を持つべきです。一般的にタイムライン上で互いに近いBeatは、配置上でも近くなるべきで、逆も同様です。これは調和したビートマップによって曲の流れを保証し、ビートマップをより楽しくさせることに繋がります。
 
-この感覚を維持させる簡単な方法は[Distance Snap](/wiki/Distance_Snap)をEditorで使用することです。オブジェクト間の距離はマウスホイールを使用することで調整することができ、それを使っている限りは間隔が常に同じになります。
+この感覚を維持させる簡単な方法は[Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)をEditorで使用することです。オブジェクト間の距離はマウスホイールを使用することで調整することができ、それを使っている限りは間隔が常に同じになります。
 
 ### 曲に難易度を追加するには?
 
@@ -188,7 +188,7 @@ A couple of rules of thumb are:
 
 ### どうやってビートマップにストーリーボードを入れるの?
 
-"Design"タブをクリックしてSBE ([Storyboard Editor](/wiki/Design))に移動してください。
+"Design"タブをクリックしてSBE ([Storyboard Editor](/wiki/Beatmap_Editor/Design))に移動してください。
 
 ## キーボードのショートカットキー
 
@@ -268,4 +268,4 @@ A couple of rules of thumb are:
 | `Mouse Wheel` | 前後に進める。 |
 | `Ctrl` + `Alt` + `Mouse Wheel` | ゲームフィールドにいる間、配置/選択されたモードを変える。 |
 | `Ctrl` + `Mouse Wheel` | snap divisor(1/1~1/16まで)の変数を変える。 |
-| `Alt` + `Mouse Wheel` | [Distance Snap](/wiki/Distance_Snap)の変数を変える。タイムラインの上にいる間ならタイムラインを拡大/縮小する。 |
+| `Alt` + `Mouse Wheel` | [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)の変数を変える。タイムラインの上にいる間ならタイムラインを拡大/縮小する。 |

@@ -35,8 +35,8 @@ Obecnie, każda z tych sekcji posiada po 4 zestawy.
 
 Medale Skill są obecnie podzielone na trzy grupy: Combo, High Ranker oraz Star-based.
 
-Medale **The Combo** są przyznawane za uzyskanie specyficznego [combo](/wiki/combo) w trybie osu! na dowolnej beatmapie.
-Uzyskanie takiego samego combo w trybach [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch) czy [osu!mania](/wiki/osu!mania) nie będzie zaliczać się na medal.
+Medale **The Combo** są przyznawane za uzyskanie specyficznego [combo](/wiki/Disambiguation/Combo) w trybie osu! na dowolnej beatmapie.
+Uzyskanie takiego samego combo w trybach [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch) czy [osu!mania](/wiki/Game_mode/osu!mania) nie będzie zaliczać się na medal.
 
 Dla medali 1000 i 2000 combo zaleca się wyszukiwanie beatmap zatwierdzonych zamiast rankingowych.
 Jednakże, **nie próbuj szukać bądź grać beatmap nierankingowych!**
@@ -49,7 +49,7 @@ Medale The High Ranker są przyznawane za osiągnięcie konkretnej pozycji w ran
 
 Medale Star-based są podzielone na dwie grupy: *Pass* oraz *S*.
 Medale *Pass* są przyznawane za ukończenie dowolnej beatmapy o konkretnej liczbie gwiazdek.
-Medale *S* są przyznawane za uzyskanie [pełnego combo](/wiki/FC) wraz z oceną S na dowolnej beatmapie o konkretnej liczbie gwiazdek.
+Medale *S* są przyznawane za uzyskanie [pełnego combo](/wiki/Full_combo) wraz z oceną S na dowolnej beatmapie o konkretnej liczbie gwiazdek.
 Trudność beatmapy zostanie zaokrąglona do najbliższej pełnej liczbie gwiazdek i zostanie przyznany medal.
 Użycie modyfikacji utrudniających bądź ułatwiających rozgrywkę jest dozwolone.
 Beatmapa musi także posiadać status rankingowej bądź zatwierdzonej.

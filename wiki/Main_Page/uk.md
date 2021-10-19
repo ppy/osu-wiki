@@ -58,7 +58,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # Ком\'юніті
 
-[Турніри](/wiki/Tournaments) • [Створення скінів](/wiki/Skinning) • [Проекти](/wiki/Projects) • [Гайди](/wiki/Guides) • [osu!dev Discord сервер](/wiki/osu!dev_Discord_server) • [Як ви можете допомогти](/wiki/How_You_Can_Help!) • [Глосарій](/wiki/Glossary)
+[Турніри](/wiki/Tournaments) • [Створення скінів](/wiki/Skinning) • [Проекти](/wiki/Projects) • [Гайди](/wiki/Guides) • [osu!dev Discord сервер](/wiki/osu!dev_Discord_server) • [Як ви можете допомогти](/wiki/How_you_can_help!) • [Глосарій](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -83,7 +83,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # Про вікі
 
-[Карта сайту](/wiki/Sitemap) • [Керівництво по внеску](/wiki/osu!_wiki/Contribution_guide) • [Критерії оформлення статей](/wiki/Article_Styling_Criteria) • [Критерії оформлення новин](/wiki/News_Styling_Criteria)
+[Карта сайту](/wiki/Sitemap) • [Керівництво по внеску](/wiki/osu!_wiki/Contribution_guide) • [Критерії оформлення статей](/wiki/Article_styling_criteria) • [Критерії оформлення новин](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

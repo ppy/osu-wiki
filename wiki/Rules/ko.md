@@ -39,7 +39,7 @@ outdated: true
 
 ## 비트맵 등록에 관한 규칙
 
-이 규칙은 게임 내 [Beatmap Submission System](/wiki/Submission)을 이용해 제출한 비트맵에 엄격하게 적용됩니다. 스레드는 [에디터](/wiki/editor)를 이용해 제출했을 때 osu! 클라이언트에 의해 생성됩니다.
+이 규칙은 게임 내 [Beatmap Submission System](/wiki/Submission)을 이용해 제출한 비트맵에 엄격하게 적용됩니다. 스레드는 [에디터](/wiki/Beatmap_Editor)를 이용해 제출했을 때 osu! 클라이언트에 의해 생성됩니다.
 
 비트맵 구성에 관련된 자세한 규칙들은 [Ranking Criteria](/wiki/Ranking_Criteria)에서 알아보실 수 있습니다.
 

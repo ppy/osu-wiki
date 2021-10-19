@@ -19,6 +19,6 @@ Kiai time is most commonly used for the "strongest part of a song" which is usua
 
 ## osu!taiko
 
-On [osu!taiko](/wiki/Game_Modes/osu!taiko) beatmaps, kiai sections give 20% more [score](/wiki/Score).
+On [osu!taiko](/wiki/Game_mode/osu!taiko) beatmaps, kiai sections give 20% more [score](/wiki/Score).
 
 <!-- TODO: Add links -->

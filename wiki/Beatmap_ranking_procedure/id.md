@@ -24,7 +24,7 @@ Sangat dianjurkan untuk menerima mod sebelum meminta nominasi dari BN, lima hype
 
 ## Kualifikasi
 
-Beatmap yang memiliki 2 nominasi dari masing-masing mode permainan yang ada akan dipindahkan ke kategori beatmap [Qualified](/wiki/Beatmap/Category#qualified) selama 7 hari. Qualified beatmap memiliki papan skor tapi tidak akan menghasilkan [performance points](/wiki/Performance_Points). Ketika beatmap berada di Qualified setidaknya selama 7 hari, [antrian ranking](Ranking_queue) dapat memindahkannya ke [Ranked](#ranked).
+Beatmap yang memiliki 2 nominasi dari masing-masing mode permainan yang ada akan dipindahkan ke kategori beatmap [Qualified](/wiki/Beatmap/Category#qualified) selama 7 hari. Qualified beatmap memiliki papan skor tapi tidak akan menghasilkan [performance points](/wiki/Performance_points). Ketika beatmap berada di Qualified setidaknya selama 7 hari, [antrian ranking](Ranking_queue) dapat memindahkannya ke [Ranked](#ranked).
 
 Kategori ini ada untuk memberikan tanggapan-tanggapan dari Komunitas osu! dengan harapan potensi masalah dapat ditemukan. Masalah tersebut dapat dilaporkan kepada anggota BN atau NAT pada halaman diskusi beatmap. Berbeda dengan Pending beatmap, Qualified beatmap tidak dapat diperbarui oleh pembuat. Oleh karena itu, umpan balik atau kritik dapat diterapkan setelah meminta sebuah [pengulangan nominasi](#pengulangan-nominasi).
 

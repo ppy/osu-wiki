@@ -60,7 +60,7 @@ Peningkatan gameplay lebih baik dengan hadirnya combo fire, bar HP, mouse trail,
 
 ![](img/2007-09_05.jpg "Pengumuman berita di situs web game")
 
-Beberapa saat setelah rilis secara publik, mod bermain pertama, [Easy](/wiki/EZ) dan [No Fail](/wiki/NF), ditambahkan, serta bagian istirahat (yang sampai sekarang telah diabaikan dan hilang). Sejumlah besar perubahan dengan cepat membuat osu! terlihat lebih seperti permainan ritme komersial.
+Beberapa saat setelah rilis secara publik, mod bermain pertama, [Easy](/wiki/Disambiguation/EZ) dan [No Fail](/wiki/Game_modifier/No_Fail), ditambahkan, serta bagian istirahat (yang sampai sekarang telah diabaikan dan hilang). Sejumlah besar perubahan dengan cepat membuat osu! terlihat lebih seperti permainan ritme komersial.
 
 ![](img/easy.png "Easy (v1)") ![](img/no_fail.png "No Fail (v1)")
 
@@ -80,7 +80,7 @@ Layar pemilihan lagu mulai mendapat perhatian, dengan pengelompokan tingkat kesu
 
 ## November
 
-Peringkat baru, SS, ditambahkan ke sistem peringkat, menggantikan peringkat S dalam kasus-kasus dimana kesempurnaan (100%) tercapai. Mod [No Video](/wiki/NV) dan [Hidden](/wiki/HD) diperkenalkan, dan SH (S silver) dan SSH (SS silver). Untuk pertama kalinya, pemain dapat mengatur dan menetapkan set sampel normal dan soft per bagian waktu (timing section). File `.osz` sekarang bisa dimuat dengan mengklik tombol mouse dua kali, atau menyeretnya ke ikon osu!.
+Peringkat baru, SS, ditambahkan ke sistem peringkat, menggantikan peringkat S dalam kasus-kasus dimana kesempurnaan (100%) tercapai. Mod [No Video](/wiki/Game_modifier/No_Video) dan [Hidden](/wiki/Game_modifier/Hidden) diperkenalkan, dan SH (S silver) dan SSH (SS silver). Untuk pertama kalinya, pemain dapat mengatur dan menetapkan set sampel normal dan soft per bagian waktu (timing section). File `.osz` sekarang bisa dimuat dengan mengklik tombol mouse dua kali, atau menyeretnya ke ikon osu!.
 
 ![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
 
