@@ -1,6 +1,6 @@
 # osu! Community Meetings
 
-The **osu! Community Meetings** are a fortnightly questions and answers panel hosted by the [osu! team](/wiki/People/The_Team). The primary aim of these meetings is to give anyone a chance to speak directly with the developers and people responsible for managing the community to raise issues for discussion or further consideration.
+The **osu! Community Meetings** are a fortnightly discussion panel hosted by the [osu! team](/wiki/People/The_Team). The primary aim of these meetings is to give anyone a chance to speak directly with the developers and people responsible for managing the community to raise issues for discussion or further consideration.
 
 Long ago in the game's distant past, the osu! team used to host regular community meetings where everyone was welcome to talk. With the scale of the game today, this is no longer feasible, but through Discord a queueing system of sorts has been implemented where questions can be addressed one at a time. If you are interested in asking questions, please make sure you've read through the FAQ listed below, just in case your question has already been asked and answered!
 
@@ -14,13 +14,11 @@ The osu! Community Meetings are currently hosted on a Discord Stage on the [osu!
 
 Everyone is welcome to join! If you have a question or have something to add to the discussion, you can raise your hand on the Discord Stage to join the queue, or write a message on the relevant Discord thread if you are not comfortable speaking, which will be read out loud and answered. In addition, before asking a question, please observe the following guidelines:
 
-- Make sure you are verified on the server if you are interested in joining the discussions. 
 - Plan your talking points ahead of time, and keep them as concise as possible.
 - Try to only bring up issues which affect the larger community, not just you. 
+- Verification on osu!dev is not necessary, but may increase your chances of being selected for questions during Q&A sessions.
 
-This is to ensure that as many questions from the community as possible can be answered efficiently. The aim is ~5 minutes per question.
-
-Please also understand that questions that have been answered before or that are especially generic may not be chosen for discussion, especially with meetings often running overtime to try and answer as many as possible.
+We aim to take no more than 5 minutes per question, so please understand that questions that have been answered before or that are especially generic may not be chosen for discussion.
 
 ## Archives
 
@@ -31,8 +29,8 @@ The first osu! Community Meeting was hosted on September 19, 2021. All meetings 
 | Meeting # | Link | Summary |
 | :-: | :-- | :-- |
 | 0 | [September 19, 2021](https://www.youtube.com/watch?v=-LjNll8VYTM) | N/A |
-| 1 | October 3, 2021 | [Meeting notes](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) |
-| 2 | [October 17, 2021](https://www.twitch.tv/videos/1178911162) | [Meeting notes](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) |
+| 1 | [October 3, 2021](https://youtu.be/MxyAGgAy82k) | [Meeting notes](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) |
+| 2 | [October 17, 2021](https://youtu.be/UrYfhVelOgE) | [Meeting notes](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) |
 
 ## Related links
 
