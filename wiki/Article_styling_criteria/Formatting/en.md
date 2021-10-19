@@ -484,7 +484,7 @@ There are two types of links: inline and reference. Inline has two styles.
 The following is an example of both inline styles:
 
 ```markdown
-[Game Modifiers](/wiki/Game_modifier)
+[Game modifier](/wiki/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```

@@ -15,13 +15,11 @@ outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 
 被提交到网站上的谱面会依照其最近活动情况、提名状态、及流行度被分入不同的谱面类别中：
 
-- [谱面](#谱面)
-  - [谱面类别](#谱面类别)
-    - [Graveyard](#graveyard)
-    - [Work in Progress 和 Pending](#work-in-progress-和-pending)
-    - [Qualified](#qualified)
-    - [Ranked](#ranked)
-    - [Loved](#loved)
+- [Graveyard](#graveyard)
+- [Work in Progress 和 Pending](#work-in-progress-和-pending)
+- [Qualified](#qualified)
+- [Ranked](#ranked)
+- [Loved](#loved)
 
 ### Graveyard
 

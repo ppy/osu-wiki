@@ -10,9 +10,9 @@ Les utilisateurs rencontrant des **problèmes** avec ce client devraient lire le
 
 ## Articles liés
 
-- [Mise en place](/wiki/osu!tourney/Setup/ "Mise en place")
-- [Utilisation en multijoueur](/wiki/osu!tourney/Multiplayer_Usage/ "Création et gestion de sessions multijoueur")
-- [Liste des commandes](/wiki/osu!tourney/Tournament_Management_Commands/ "Commandes de gestion du tournoi")
-- [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
-- [Diagnostic](/wiki/osu!tourney/Troubleshooting/ "Diagnostic")
+- [Mise en place](/wiki/osu!tourney/Setup)
+- [Utilisation en multijoueur](/wiki/osu!tourney/Multiplayer_Usage)
+- [Liste des commandes](/wiki/osu!tourney/Tournament_Management_Commands)
+- [Skinning](/wiki/osu!tourney/Skinning)
+- [Diagnostic](/wiki/osu!tourney/Troubleshooting)
 - [Official tournament support](/wiki/Tournaments/Official_support)

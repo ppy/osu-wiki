@@ -16,13 +16,11 @@ outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 
 온라인으로 제출된 비트맵은 최근 활동, 지명 상태, 인기도에 따라 카테고리별로 정렬되게 됩니다.
 
-- [비트맵](#비트맵)
-  - [비트맵 카테고리](#비트맵-카테고리)
-    - [무덤에 감](#무덤에-감)
-    - [보류 중 & 작업 중](#보류-중--작업-중)
-    - [Qualified](#qualified)
-    - [Ranked](#ranked)
-    - [Loved](#loved)
+- [무덤에 감](#무덤에-감)
+- [보류 중 & 작업 중](#보류-중-&-작업-중)
+- [Qualified](#qualified)
+- [Ranked](#ranked)
+- [Loved](#loved)
 
 ### 무덤에 감
 

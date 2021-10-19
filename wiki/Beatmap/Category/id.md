@@ -15,14 +15,12 @@ Beatmap-beatmap yang dibuat untuk satu berkas lagu yang sama pada umumnya akan s
 
 Beatmap-beatmap yang telah diunggah ke situs osu! terbagi ke dalam beberapa kategori status berdasarkan tingkat aktivitas, status nominasi, dan popularitas dari beatmap-beatmap yang bersangkutan sebagai berikut:
 
-- [Beatmap](#beatmap)
-  - [Status beatmap](#status-beatmap)
-    - [Graveyard](#graveyard)
-    - [Work in Progress dan Pending](#work-in-progress-dan-pending)
-    - [Qualified](#qualified)
-    - [Ranked](#ranked)
-    - [Approved](#approved)
-    - [Loved](#loved)
+- [Graveyard](#graveyard)
+- [Work in Progress dan Pending](#work-in-progress-dan-pending)
+- [Qualified](#qualified)
+- [Ranked](#ranked)
+- [Approved](#approved)
+- [Loved](#loved)
 
 ### Graveyard
 

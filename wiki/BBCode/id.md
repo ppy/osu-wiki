@@ -49,7 +49,7 @@ Tombol pada toolbar: ![Tombol Italic](img/italic.png "Italic")
 [u]teks[/u]
 ```
 
-Tag `[u]` atau *garis bawah* digunakan untuk penekanan teks dengan garis horizontal di bawah teks (yaitu menggaris bawahi). Garis horizontal dapat dipengaruhi oleh tag lain seperti penggunaan tag [huruf tebal](#bold) dan penggunaan tag [huruf miring](#italic)`.
+Tag `[u]` atau *garis bawah* digunakan untuk penekanan teks dengan garis horizontal di bawah teks (yaitu menggaris bawahi). Garis horizontal dapat dipengaruhi oleh tag lain seperti penggunaan tag [huruf tebal](#bold) dan penggunaan tag [huruf miring](#italic).
 
 ### Strikethrough
 

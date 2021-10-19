@@ -15,13 +15,11 @@ Beatmapler, **[beatmap setlerinin](/wiki/Beatmap)** bir parçası olarak yapıl�
 
 Çevrimiçi gönderilen beatmapler son etkinliğine, aday gösterim durumuna, ve popülaritesine göre kategorilere ayrılır:
 
-- [Beatmapler](#beatmapler)
-  - [Beatmap kategorileri](#beatmap-kategorileri)
-    - [Mezarlıkta](#mezarlıkta)
-    - [Yapım Aşamasında ve Beklemede](#yapım-aşamasında-ve-beklemede)
-    - [Nitelikli](#nitelikli)
-    - [Dereceli](#dereceli)
-    - [Sevilen](#sevilen)
+- [Mezarlıkta](#mezarlıkta)
+- [Yapım Aşamasında ve Beklemede](#yapım-aşamasında-ve-beklemede)
+- [Nitelikli](#nitelikli)
+- [Dereceli](#dereceli)
+- [Sevilen](#sevilen)
 
 ### Mezarlıkta
 
