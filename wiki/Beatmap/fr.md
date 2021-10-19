@@ -20,7 +20,7 @@ Une **beatmap** (parfois appelée *beatmapset*) est un ensemble de niveaux ([dif
 
 *Article principal: [Difficultés](/wiki/Beatmap/Difficulty)*
 
-Une *difficulté* est un fichier avec [l'extension `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) qui décrit le positionnement des éléments d'une beatmap, des hitsounds et d'effets spéciaux comme le [kiai time](/wiki/Kiai_time). Elle contient également des [paramètres de difficulté](/wiki/Beatmap_Editor/Song_Setup#difficulty) et d'autres paramètres qui affectent directement le jeu. Les difficultés d'une beatmap ont des structures différentes et peuvent parfois n'être jouées que dans un seul [mode de jeu](/wiki/Game_mode). Le système de [notation par étoile](/wiki/Beatmapping/Star_rating) est utilisé pour se donner une idée du niveau requis pour jouer une difficulté.
+Une *difficulté* est un fichier avec [l'extension `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) qui décrit le positionnement des éléments d'une beatmap, des hitsounds et d'effets spéciaux comme le [kiai time](/wiki/Kiai_time). Elle contient également des [paramètres de difficulté](/wiki/Beatmap_Editor/Song_Setup#difficulté) et d'autres paramètres qui affectent directement le jeu. Les difficultés d'une beatmap ont des structures différentes et peuvent parfois n'être jouées que dans un seul [mode de jeu](/wiki/Game_mode). Le système de [notation par étoile](/wiki/Beatmapping/Star_rating) est utilisé pour se donner une idée du niveau requis pour jouer une difficulté.
 
 ## Publication
 
@@ -44,14 +44,14 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}`
 
 Une beatmap publiée appartient à une des catégories suivantes, qui peut changer avec le temps:
 
-- [Cimetière](Category#graveyard)
-- [En cours / En attente](Category#work-in-progress-and-pending)
-- [Qualifiée](Category#qualified)
-- [Classée](Category#ranked)
-- [Approuvée](Category#approved)
+- [Cimetière](Category#cimetière)
+- [En cours / En attente](Category#work-in-progress-et-en-attente)
+- [Qualifiée](Category#qualifiée)
+- [Classée](Category#classée)
+- [Approuvée](Category#approuvée)
 - [Aimée](Category#loved)
 
-Certaines catégories ont des [critères de publication](/wiki/Ranking_Criteria) et permettent aux beatmaps d'avoir des [classements](#leaderboards) permanents ou non. La méthode la plus utilisée pour y arriver est la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure), tandis que la deuxième option est de passer la beatmap en [loved](Category#loved).
+Certaines catégories ont des [critères de publication](/wiki/Ranking_Criteria) et permettent aux beatmaps d'avoir des [classements](#classement) permanents ou non. La méthode la plus utilisée pour y arriver est la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure), tandis que la deuxième option est de passer la beatmap en [loved](Category#loved).
 
 ## Télécharger les beatmaps
 

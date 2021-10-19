@@ -4,7 +4,7 @@
 
 ![A screenshot of the editor's compose tab showing pishifat's Donor Song beatmap](img/compose.jpg)
 
-*Beatmap düzenleyici kısayolları için, bakınız: [Kısayol referansı & Beatmap düzenleyici](/wiki/Shortcut_key_reference#beatmap-editor)*
+*Beatmap düzenleyici kısayolları için, bakınız: [Kısayol referansı & Beatmap düzenleyici](/wiki/Shortcut_key_reference#beatmap-düzenleyici)*
 
 **Beatmap düzenleyici** osu!'nun oyun içi [beatmap](/wiki/Beatmap) yapma bölümüdür. [Beatmapping](/wiki/Beatmapping) osu! için beatmap yapma işidir
 

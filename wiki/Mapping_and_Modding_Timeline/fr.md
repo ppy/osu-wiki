@@ -30,12 +30,12 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Mars
 
-- **11/03/2008 :** La catégorie [Graveyard](/wiki/Beatmap/Category#graveyard) a été mise en place pour accueillir les beatmaps inactives.
+- **11/03/2008 :** La catégorie [Graveyard](/wiki/Beatmap/Category#cimetière) a été mise en place pour accueillir les beatmaps inactives.
   - La communauté s'attendait à ce que chaque map en attente soit classée, mais les maps étaient fréquemment abandonnées et devaient être séparées.
 
 ### Juillet
 
-- **31/07/2008 :** La catégorie [Approuvée](/wiki/Beatmap/Category#approved) a été mise en place pour fournir des classements aux beatmaps inappropriées pour le classement.
+- **31/07/2008 :** La catégorie [Approuvée](/wiki/Beatmap/Category#approuvée) a été mise en place pour fournir des classements aux beatmaps inappropriées pour le classement.
   - Les raisons courantes d'approbation comprenaient initialement une durée supérieure à 5 minutes et des scores supérieurs à 20 millions, qui n'étaient pas autorisés pour le contenu classé. 
   - Une icône `flame` (![l'icône flame](/wiki/shared/icon/flame.gif)) marquait les beatmaps approuvées après deux bulles.
 
@@ -79,7 +79,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Juillet
 
-- **24/07/2010 :** La première itération du [Community Mentorship Program](/wiki/Community_Mentorship_Programs#programmes-de-mentorship-antérieurs) a été lancée.
+- **24/07/2010 :** La première itération du [Community Mentorship Program](/wiki/Community_Mentorship_Program#programmes-de-mentorship-antérieurs) a été lancée.
   - Les utilisateurs peuvent s'inscrire pour apprendre à mapper et à modder directement auprès des membres bénévoles de MAT et BAT.
   - Le programme a été interrompu en 2013.
 
@@ -129,7 +129,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Août
 
-- **21/08/2012 :** Les beatmaps de la catégorie [approuvée](/wiki/Beatmap/Category#approved) ont commencé à faire gagner du score classé.
+- **21/08/2012 :** Les beatmaps de la catégorie [approuvée](/wiki/Beatmap/Category#approuvée) ont commencé à faire gagner du score classé.
   - Le score classé n'est plus utilisé comme principale mesure de score, de sorte que les beatmaps approuvées ne peuvent plus être utilisées abusivement pour le classement des joueurs.
 
 **1460 beatmaps** ont été classées en 2012.
@@ -330,7 +330,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 ### Septembre
 
 - **10/09/2017 :** Le "[QAT Upheaval](https://osu.ppy.sh/community/forums/topics/635507)" a été mis en place. Il s'agissait d'une série de changements en réponse au mécontentement de la communauté de mapping sous la direction de l'[équipe du jeu](/wiki/People/The_Team). Suite à ce changement, les QAT ont commencés à s'autogérer sans l'intervention de leurs supérieurs.
-  - Les [BN Tiers](/wiki/Modding/Beatmap_Nominator_Tiers) ont été remplacés par les [Probationary Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominators). Deux membres des BN en probation ne pouvaient pas nommer la même beatmap et les utilisateurs ne pouvaient pas être en probation pendant plus de deux mois à la fois.
+  - Les [BN Tiers](/wiki/Modding/Beatmap_Nominator_Tiers) ont été remplacés par les [Probationary Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators#beatmap-nominators-probatoires). Deux membres des BN en probation ne pouvaient pas nommer la même beatmap et les utilisateurs ne pouvaient pas être en probation pendant plus de deux mois à la fois.
   - Des titres violets ont été donnés aux Beatmap Nominators sur les forums.
   - ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) et ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) ont été nommés [responsables des QAT](/wiki/Modding/QAT_Leaders) par un vote des membres du BN/QAT. Leur responsabilité était de travailler avec l'équipe d'osu! pour maintenir les communautés de mapping et de modding.
   - Des badges de profil Beatmap Nominator et Quality Assurance Team ont été créés. Cette distinction et d'autres récompenses pour les Beatmap Nominator ont été prévues pour remotiver l'équipe actuellement insatisfaite.
@@ -378,7 +378,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Juin
 
-- **21/06/2018 :** L'initiative [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) a été créée.
+- **21/06/2018 :** L'initiative [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#assurance-qualité) a été créée.
   - Cette mesure visait à garantir que tous les beatmaps qualifiés étaient examinés par au moins deux membres du BN ou de la QAT avant d'être classés.
   - Le programme a été géré via Trello et automatisé par ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) via Aiess.
   - Ce changement a été l'une des principales raisons pour lesquelles le QAT a été renommé par la suite.
@@ -452,7 +452,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
   - Ils avaient été prévues à l'origine lors du bouleversement de la QAT deux ans auparavant.
 - **21/02/2020 :**  La direction de la NAT en tant que concept a été abandonnée lorsque ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) a quitté la direction du NAT.
   - Les tâches spécifiques aux leaders de la NAT ont été déléguées à l'ensemble de l'équipe.
-- **24/02/2020 :** Le système [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) a été transféré de Trello au [Beatmap Nominator website](https://bn.mappersguild.com/).
+- **24/02/2020 :** Le système [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#assurance-qualité) a été transféré de Trello au [Beatmap Nominator website](https://bn.mappersguild.com/).
   - Ce changement a été effectué pour tenir compte de l'activité d'assurance qualité dans les évaluations des Beatmap Nominators.
 
 ### Avril

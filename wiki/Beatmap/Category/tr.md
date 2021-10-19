@@ -37,7 +37,7 @@ Bu kategoride 4 hafta kalan inaktif beatmapler otomatik olarak [Mezarlıkta](#me
 
 ### Nitelikli
 
-Nitelikli [beatmap derecelendirme prosedürünün](/wiki/Beatmap_ranking_procedure) son ayağıdır. Bu beatmapler, beatmapin [derecelendirme kriterlerinin](/wiki/Ranking_Criteria) standartlarına uyup uymadığını kontrol eden en az iki [Beatmap Aday Gösterici](/wiki/People/The_Team/Beatmap_Nominators) tarafından aday gösterilmiştir. Nitelikli kategorisindeki beatmapler bir [derecelendirme sırasına](/wiki/Beatmap_ranking_procedure#moving-to-ranked) girerler, ve eğer sıradan [diskalifiye edilmemişlerse](/wiki/Beatmap_ranking_procedure#nomination-resets) en sonunda [Dereceli](#dereceli) olurlar. Bu süreç, gözden kaçan kusurların ve hataların düzeltilebileceği, savunma zincirinin son halkası görevi görür.
+Nitelikli [beatmap derecelendirme prosedürünün](/wiki/Beatmap_ranking_procedure) son ayağıdır. Bu beatmapler, beatmapin [derecelendirme kriterlerinin](/wiki/Ranking_Criteria) standartlarına uyup uymadığını kontrol eden en az iki [Beatmap Aday Gösterici](/wiki/People/The_Team/Beatmap_Nominators) tarafından aday gösterilmiştir. Nitelikli kategorisindeki beatmapler bir [derecelendirme sırasına](/wiki/Beatmap_ranking_procedure#ranked) girerler, ve eğer sıradan [diskalifiye edilmemişlerse](/wiki/Beatmap_ranking_procedure#nomination-resets) en sonunda [Dereceli](#dereceli) olurlar. Bu süreç, gözden kaçan kusurların ve hataların düzeltilebileceği, savunma zincirinin son halkası görevi görür.
 
 Nitelikli beatmapler sıralamaya sahiptir, fakat [performans puanı](/wiki/Performance_points) kazandırmaz ve Nitelikli kategorisinden çıktığında tüm skorlar silinir. Şarkı seçim ekranında onay ikonu (![](/wiki/shared/status/qualified.png)) ile ayırt edilebilir.
 

@@ -14,6 +14,6 @@ Un **compte à rebours** peut apparaître au début d'une [beatmap](/wiki/Beatma
 
 Lorsqu'elle est activée, l'animation du compte à rebours peut être contrôlée à l'aide des boutons `Countdown Speed` (`Half`, `Normal`, `Double`) et du bouton `Countdown Offset`. Les boutons `Countdown Speed` divisent par deux, doublent ou conservent la vitesse standard de l'animation du compte à rebours. Le bouton `Countdown Offset` définit le décalage entre les [beats](/wiki/Beatmapping/Beats_per_minute) avant le premier [objet](/wiki/Hit_object). Par exemple, un compte à rebours avec un offset de 2 voit son animation commencer 2 temps plus tôt que la normale. Pour les beatmaps avec intros, le saut va directement au compte à rebours.
 
-L'animation du compte à rebours peut être [skinnée](/wiki/Skinning/Interface#countdown).
+L'animation du compte à rebours peut être [skinnée](/wiki/Skinning/Interface#decompte).
 
 <!--TODO: Insert lots of links-->

@@ -253,7 +253,7 @@ Hatnotes must be italicised and be placed immediately after the heading. If mult
 
 *Not to be confused with [Hatnote](#hatnote).*
 
-A notice should be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but should be kept to a minimum. Notices must be written as complete sentences. Thus, unlike most [hatnotes](#hatnotes), must use a full stop (`.`) or an exclamation mark (`!`) if appropriate. Anything within the same paragraph of a notice must also be italicised. These must be formatted as follows:
+A notice should be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but should be kept to a minimum. Notices must be written as complete sentences. Thus, unlike most [hatnotes](#hatnote), must use a full stop (`.`) or an exclamation mark (`!`) if appropriate. Anything within the same paragraph of a notice must also be italicised. These must be formatted as follows:
 
 ```markdown
 *Note: {note}.*
@@ -511,7 +511,7 @@ All links that point to an wiki article should start with `/wiki/` followed by t
 
 ```markdown
 [FAQ](/wiki/FAQ)
-[pippi](/wiki/Mascots#-pippi)
+[pippi](/wiki/Mascots#pippi)
 [Beatmaps](../)
 [Pattern](./Pattern)
 ```

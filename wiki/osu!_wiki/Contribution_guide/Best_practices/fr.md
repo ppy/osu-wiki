@@ -78,5 +78,5 @@ Selon la gravité des conflits, vous pouvez avoir deux options pour résoudre ce
    3. À partir de là, vous devrez régler manuellement le conflit et supprimer les marquages `<<<<<<<`, le `=======`, et `>>>>>>> master`.
    4. Répétez pour tous.
    5. Une fois terminé, cliquez sur `Mark as resolved`. (Ceci est uniquement disponible lorsque toutes les parties en conflit du fichier sont résolues.)
-2. Si le bouton`Resolve conflicts` est bloqué car trop compliqué pour GitHub, vous n’avez pas de chance et vous devrez [mettre a jour votre branche](#my-branch-is-out-of-date!) et effectuez vos modifications à nouveau.
+2. Si le bouton`Resolve conflicts` est bloqué car trop compliqué pour GitHub, vous n’avez pas de chance et vous devrez [mettre a jour votre branche](#ma-branche-n-est-plus-à-jour!) et effectuez vos modifications à nouveau.
    - *Remarque: cela n’est vrai que si vous vous limitez à l’utilisation de l’Interface Web GitHub.* Il existe toujours des moyens de la réparer, mais cela ne sera pas traité dans cet article et cela ne vaut peut-être pas la peine de le faire, car vous écraserez et annulerez les modifications conflictuelles.

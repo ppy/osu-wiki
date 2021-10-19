@@ -2,7 +2,7 @@
 
 ![Une capture d'écran de l'onglet composition montrant la beatmap Donor Song de pishifat](img/compose.jpg)
 
-*Pour les raccourcis de l'éditeur de beatmap, voir : [Référence sur les raccourcis clavier & éditeur de beatmap](/wiki/Shortcut_key_reference#beatmap-editor)*
+*Pour les raccourcis de l'éditeur de beatmap, voir : [Référence sur les raccourcis clavier & éditeur de beatmap](/wiki/Shortcut_key_reference#general)*
 
 L'**éditeur de beatmap** est l'interface graphique intégrée au client et est utilisée pour créer des [beatmaps](/wiki/Beatmap). Le [Beatmapping](/wiki/Beatmapping) est le processus de création de beatmap sur osu!.
 
@@ -27,7 +27,7 @@ L'onglet [Timing](/wiki/Beatmap_Editor/Timing) gère le timing des sections de l
 
 ## Song setup
 
-L'onglet [Song setup](/wiki/Beatmap_Editor/Song_Setup) permet de renseigner les [métadonnées](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata) et d'autres choses universelles d'une [beatmap](/wiki/Beatmap). Cela inclus le titre de la musique, l'artiste, le nom de la difficulté, la couleur des combos, etc...
+L'onglet [Song setup](/wiki/Beatmap_Editor/Song_Setup) permet de renseigner les [métadonnées](/wiki/Beatmap_Editor/Song_Setup#métadonnées-des-chansons-et-des-maps) et d'autres choses universelles d'une [beatmap](/wiki/Beatmap). Cela inclus le titre de la musique, l'artiste, le nom de la difficulté, la couleur des combos, etc...
 
 ## Autres
 

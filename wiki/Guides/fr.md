@@ -9,7 +9,7 @@ Vous trouverez ci-dessous une liste triée des guides créés par les membres de
 - [Ajout de hitsounds personnalisés](Using_custom_hitsounds)
 - [Édition audio](Audio_Editing)
 - [Changement de l'artiste ou du titre](Changing_the_Artist_or_Title)
-- [Modification du texte du titre](/wiki/Beatmap/Title_Text#changing-title-text)
+- [Modification du texte du titre](/wiki/Beatmap/Title_Text#changer-le-texte-du-titre)
 - [Informations sur les collaborations](Collab_Information)
 - [Compression de fichiers](Compressing_Files)
 - [Bibliothèque de hitsounds personnalisés](Custom_Hitsound_Library)

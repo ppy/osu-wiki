@@ -18,7 +18,7 @@ Les membres de l'équipe  Project Loved, appelés **capitaines**, nomment régul
 - [liste osu!/osu!taiko/osu!catch](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit)
 - [liste osu!mania](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit)
 
-Remarque: si votre accès à Google Forms est limité, vous pouvez également contacter l’un des [membres de l'équipe Project Loved](/wiki/People/The_Team/Project_Loved_Team#team-members) pour avoir une map soumise en votre nom.*
+Remarque: si votre accès à Google Forms est limité, vous pouvez également contacter l’un des [membres de l'équipe Project Loved](/wiki/People/The_Team/Project_Loved_Team#capitaines) pour avoir une map soumise en votre nom.*
 
 Les maps nominées sont ensuite postées sur le [forum Project Loved](https://osu.ppy.sh/community/forums/120), où les membres de la communauté peuvent voter s'ils veulent que le mapset soit loved ou non. Les cartes atteignant un pourcentage spécifié de votes «Oui» à la fin du vote seront déplacées dans la catégorie Loved.
 
@@ -26,13 +26,13 @@ Les maps nominées sont ensuite postées sur le [forum Project Loved](https://os
 
 Il y a quelques critères très minimaux à respecter pour que les beatmaps soient approuvées comme étant loved. Les capitaines considèrent qu'une beatmap est éligible pour la catégorie Loved si:
 
-- Si elle n'est pas dans les catégories [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked) ou [Approved](/wiki/Beatmap/Category#approved)
+- Si elle n'est pas dans les catégories [Qualified](/wiki/Beatmap/Category#qualifiée), [Ranked](/wiki/Beatmap/Category#classée) ou [Approved](/wiki/Beatmap/Category#approuvée)
 - Son créateur ne désapprouve pas le fait qu'il soit loved
 - Son créateur n'est ni banni ni restreint
 - Au moins une difficulté peut être passée
 - Aucune difficulté ne contient d'erreurs de Beatmapping (problèmes de timing, formatage de fichier incorrect, etc.)
 
-Cependant, malgré que presque toutes les maps dans [Pending and Work-in-progress](/wiki/Beatmap/Category#pending) répondant à ces critères, peu de personnes sont élues dans la catégorie «loved» en raison des exigences plus sélectives en matière de nomination et de vote.
+Cependant, malgré que presque toutes les maps dans [Pending and Work-in-progress](/wiki/Beatmap/Category#work-in-progress-et-en-attente) répondant à ces critères, peu de personnes sont élues dans la catégorie «loved» en raison des exigences plus sélectives en matière de nomination et de vote.
 
 ### Priorité de nomination
 

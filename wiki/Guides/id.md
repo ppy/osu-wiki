@@ -9,7 +9,7 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 - [Menambahkan Custom Hitsound](Using_custom_hitsounds)
 - [Editing Audio](Audio_Editing)
 - [Mengubah Artis/Judul Beatmap](Changing_the_Artist_or_Title)
-- [Mengubah Judul Teks](/wiki/Beatmap/Title_Text#changing-title-text)
+- [Mengubah Judul Teks](/wiki/Beatmap/Title_Text#mengganti-judul-teks)
 - [Informasi Kolaborasi](Collab_Information)
 - [Mengompresi File](Compressing_Files)
 - [Kustom Hitsound Library](Custom_Hitsound_Library)

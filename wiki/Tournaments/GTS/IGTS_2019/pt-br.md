@@ -489,7 +489,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 ### Inscrição no Torneio e Criação de Times
 
-1. Para participar, você deve cumprir os critérios definidos na **parte de [restrição de Rank](#Restri%C3%A7%C3%B5es-de-Rank).**
+1. Para participar, você deve cumprir os critérios definidos na **parte de [restrição de Rank](#restrições-de-rank).**
 2. Jogadores se inscrevem individualmente. Quando sua inscrição é aceita, seu país será designado através de uma "role".
 3. A equipe organizadora pode recusar o jogador caso julgue que sua habilidade não se encaixa no torneio.
 4. Este ano permitimos 2 times por país sob certas condições:

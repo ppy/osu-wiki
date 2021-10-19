@@ -398,7 +398,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 ### Inscrição do Torneio e Criação de Times
 
-1. Para participar, você deve cumprir os critérios definidos na **parte de [restrição de rank.](#restri%c3%a7%c3%b5es-de-rank)**
+1. Para participar, você deve cumprir os critérios definidos na **parte de [restrição de rank.](#restrições-de-rank)**
 2. Jogadores se inscrevem individualmente. Quando sua inscrição é aceita, seu país será designado através de uma "role".
 3. O primeiro capitão do time será escolhido pela equipe organizadora do torneio, e será enviada a escalação de todos os jogadores do país através de mensagem privada do forum do osu!
 4. A equipe organizadora pode recusar o jogador caso julgue que sua habilidade não se encaixa no torneio.

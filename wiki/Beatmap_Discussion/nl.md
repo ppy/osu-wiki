@@ -100,7 +100,7 @@ De `Volg`- en `Ontvolg`-knoppen maken het mogelijk om de ontwikkeling van een be
 
 ### Beatmappagina
 
-De `Beatmappagina`-knop brengt je naar de infopagina van een beatmap. Je kan ook op de [beatmaphoofding](#beatmap-header) klikken om hier te geraken.
+De `Beatmappagina`-knop brengt je naar de infopagina van een beatmap. Je kan ook op de [beatmaphoofding](#beatmaphoofding) klikken om hier te geraken.
 
 ## Mod-tabbladen
 
@@ -130,13 +130,13 @@ Als je post in het `Tijdlijn`-tabblad, moet je een tijdsmarkering opnemen in jou
 
 ![](img/discussions.jpg "Waar de discussie plaatsvindt!")
 
-Discussies is waar posts uit het [inzendingsveld](#submission-field) geplaatst worden wanneer ze eenmaal zijn ingezonden. Gebruikers die een discussiepagina bezoeken kunnen alle posts zijn die door andere gebruikers werden gemaakt, en kunnen deelnemen aan de discussie. Dit kan door op de `Reageer`- of `Antwoord`-knoppen onder een post te klikken en een antwoord te schrijven.
+Discussies is waar posts uit het [inzendingsveld](#inzendingsveld) geplaatst worden wanneer ze eenmaal zijn ingezonden. Gebruikers die een discussiepagina bezoeken kunnen alle posts zijn die door andere gebruikers werden gemaakt, en kunnen deelnemen aan de discussie. Dit kan door op de `Reageer`- of `Antwoord`-knoppen onder een post te klikken en een antwoord te schrijven.
 
-De maker van de beatmap en de auteur van een modpost hebben de mogelijkheid om problemen te sluiten met de `Markeer als Opgelost`-knop. Dit markeert voor andere gebruikers dat het probleem behandeld werd en verwijdert het ook uit de  `Afwachtend` [sorteeroptie](#sorting-options). Modposts kunnen heropend worden door eenderwelke gebruiker door opnieuw te reageren op een post en op de `Antwoord en Heropen`-knop te klikken. Dit wordt gebruikt wanneer modders gesloten problemen ontdekken die eigenlijk niet volledig opgelost werden, of wanneer een onderwerp verdere discussie vereist.
+De maker van de beatmap en de auteur van een modpost hebben de mogelijkheid om problemen te sluiten met de `Markeer als Opgelost`-knop. Dit markeert voor andere gebruikers dat het probleem behandeld werd en verwijdert het ook uit de  `Afwachtend` [sorteeroptie](#sorteeropties). Modposts kunnen heropend worden door eenderwelke gebruiker door opnieuw te reageren op een post en op de `Antwoord en Heropen`-knop te klikken. Dit wordt gebruikt wanneer modders gesloten problemen ontdekken die eigenlijk niet volledig opgelost werden, of wanneer een onderwerp verdere discussie vereist.
 
 ### Discussies sorteren
 
-Discussies kunnen gesorteerd worden met de knoppen onder de `Discussions` titel. Initieel worden posts uit het `Tijdlijn`-tabblad chronologisch geordend gebaseerd op de eerste tijdsmarkering. `Algemeen (Alle moeilijkheidsgraden)`- en `Algemeen (Deze moeilijkheidgraad)`-posts zullen gesorteerd worden op welke het laatst geüpdatet werd. Merk op dat eenderwelke geselecteerde [sorteeropties](#sorting-options) ook zullen veranderen wat hier wordt weergegeven. Andere knoppen bovenaan het discussieveld die veranderen hoe discussies weergegeven worden zijn onder andere `Alles verbergen` en `Alles uitvouwen` wat respecievelijk posts zal tonen en verbergen.
+Discussies kunnen gesorteerd worden met de knoppen onder de `Discussions` titel. Initieel worden posts uit het `Tijdlijn`-tabblad chronologisch geordend gebaseerd op de eerste tijdsmarkering. `Algemeen (Alle moeilijkheidsgraden)`- en `Algemeen (Deze moeilijkheidgraad)`-posts zullen gesorteerd worden op welke het laatst geüpdatet werd. Merk op dat eenderwelke geselecteerde [sorteeropties](#sorteeropties) ook zullen veranderen wat hier wordt weergegeven. Andere knoppen bovenaan het discussieveld die veranderen hoe discussies weergegeven worden zijn onder andere `Alles verbergen` en `Alles uitvouwen` wat respecievelijk posts zal tonen en verbergen.
 
 ### Duim omhoog/omlaag
 

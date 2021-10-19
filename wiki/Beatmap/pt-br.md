@@ -47,14 +47,14 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 Um beatmap enviado pertence a uma das seguintes categorias, que podem mudar ao longo do tempo:
 
-- [Cemitério](Category#graveyard)
-- [Em progresso / Pendente](Category#work-in-progress-and-pending)
-- [Qualificado](Category#qualified)
-- [Ranqueado](Category#ranked)
-- [Aprovado](Category#approved)
-- [Loved](Category#loved)
+- [Cemitério](Category#cemitério-enterrados)
+- [Em progresso / Pendente](Category#pendente)
+- [Qualificado](Category#qualificados)
+- [Ranqueado](Categoryranqueados)
+- [Aprovado](Category#aprovados)
+- [Loved](Category#amados)
 
-Algumas categorias têm [critérios de envio](/wiki/Ranking_Criteria) e permitem os *beatmaps* de terem [tabelas de classificação](#tabelas-de-classificação) momentâneos ou permanentes. A forma mais popular de alcançar isso é o [processo de rankeamento de beatmap](/wiki/Beatmap_ranking_procedure), enquanto a segunda opção é ter o beatmap [loved](Category#loved).
+Algumas categorias têm [critérios de envio](/wiki/Ranking_Criteria) e permitem os *beatmaps* de terem [tabelas de classificação](#tabelas-de-classificação) momentâneos ou permanentes. A forma mais popular de alcançar isso é o [processo de rankeamento de beatmap](/wiki/Beatmap_ranking_procedure), enquanto a segunda opção é ter o beatmap [loved](Category#amados).
 
 ## Baixando beatmaps
 

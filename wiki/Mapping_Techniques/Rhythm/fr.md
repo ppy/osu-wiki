@@ -68,7 +68,7 @@ Les sections de drainage doivent être utilisées avec parcimonie et uniquement 
 
 Nominateur(s) : [Ekaru](https://osu.ppy.sh/users/17938)
 
-Le **half-backing** est composé d'un quart de temps suivi de deux huitièmes de temps, arrangé de façon similaire aux [battements aller-retour](#battements-aller-retour) sauf que la troisième note s'arrête.
+Le **half-backing** est composé d'un quart de temps suivi de deux huitièmes de temps, arrangé de façon similaire aux [battements aller-retour](#back-and-forth-beats) sauf que la troisième note s'arrête.
 Cela permet de créer une ligne droite.
 
 ### Hub and Spoke
@@ -98,7 +98,7 @@ Il est très important que le mappeur indique clairement la direction dans laque
 
 ### Spacing Out
 
-*À ne pas confondre avec l'[Espacement accéléré](#espacement-accéléré)*
+*À ne pas confondre avec l'[Espacement accéléré](#accelerated-spacing)*
 
 Nominateur(s) : [Pasonia](https://osu.ppy.sh/users/43345)
 

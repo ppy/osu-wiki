@@ -97,7 +97,7 @@ The first and only batch of portable osu! install USB sticks (shown below) were 
 
 ## November
 
-[OWC](/wiki/Tournaments#-osu!-world-cup) profile banners were added to the osu!store on 7–8 November 2015 [[37,38]][r].
+[OWC](/wiki/Tournaments#osu!-world-cup) profile banners were added to the osu!store on 7–8 November 2015 [[37,38]][r].
 
 Required email verification for certain account actions began rolling out on 16 November 2015 in response to recent events at the time involving the compromisation of numerous osu! streamers' accounts [[39,40,41]][r]. The following day, [peppy posted to his blog](https://blog.ppy.sh/post/133395614668/20151117), where he initially announced the change in account security:
 

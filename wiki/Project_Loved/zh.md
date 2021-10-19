@@ -38,7 +38,7 @@ Project Loved Team团队的**队长**会定期为一个特定游戏模式的谱�
 
 进入Loved状态的谱面需要遵循一些额外的规则:
 
-- [在Ranking Criteria的元数据部分](/wiki/Ranking_Criteria#metadata)
+- [在Ranking Criteria的元数据部分](/wiki/Ranking_Criteria#规定)
 - [歌曲内容规定](/wiki/Rules/Song_Content_Rules)
 - [视觉内容注意事项](/wiki/Rules/Visual_Content_Considerations)
 

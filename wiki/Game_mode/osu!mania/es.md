@@ -188,7 +188,7 @@ Ligado *Simétrico* para el segundo conjunto de teclas.
 
 ## Puntuaciones
 
-*Los Valores de Puntuación pueden ser encontrados en la [sección Puntuación en Valores de puntuación de osu!mania](/wiki/Score#osu-mania).*
+*Los Valores de Puntuación pueden ser encontrados en la [sección Puntuación en Valores de puntuación de osu!mania](/wiki/Score#osu!mania).*
 
 La sección de puntuación detalla todas las complejidades de la puntuación, incluyendo las fórmulas matemáticas.
 

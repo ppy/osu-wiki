@@ -100,4 +100,4 @@ Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#-pippi) avait ajou
 
 ## Finition
 
-Vous pouvez maintenant revenir à [osu! Guide de contribution au wiki](/wiki/osu!_wiki/Contribution_guide#finishing) pour la dernière information concernant votre demande et vos modifications.
+Vous pouvez maintenant revenir à [osu! Guide de contribution au wiki](/wiki/osu!_wiki/Contribution_guide#finition) pour la dernière information concernant votre demande et vos modifications.

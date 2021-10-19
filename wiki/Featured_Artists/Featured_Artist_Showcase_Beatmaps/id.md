@@ -2,7 +2,7 @@
 
 Anggota dari [Mappers' Guild](/wiki/Mappers_Guild) mungkin sering membuat "beatmap showcase" eksklusif dengan menggunakan lagu yang belum dirilis dan materi lain dari [featured artist](/wiki/Featured_Artists) osu!. Setelah featured artist diumumkan, beatmap-beatmap yang tertera di sini akan disorot ke dalam [postingan berita](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di [Twitter @osugame](https://twitter.com/osugame).
 
-Agar dapat berpartisipasi ke dalam pembuatan beatmap showcase featured artist, seorang anggota dari Mappers' Guild wajib menerima salah satu dari [sebuah misteri dengan waktu terbatas](/wiki/Mappers_Guild#quests), dengan memperoleh langsung undangan dari ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), atau bisa dengan mengaktifkan opsi `FA showcase mapper` di dalam [situs Mappers' Guild](https://mappersguild.com/).
+Agar dapat berpartisipasi ke dalam pembuatan beatmap showcase featured artist, seorang anggota dari Mappers' Guild wajib menerima salah satu dari [sebuah misteri dengan waktu terbatas](/wiki/Mappers_Guild#quest), dengan memperoleh langsung undangan dari ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), atau bisa dengan mengaktifkan opsi `FA showcase mapper` di dalam [situs Mappers' Guild](https://mappersguild.com/).
 
 Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota dari Mappers' Guild dari waktu ke waktu.
 
@@ -398,7 +398,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 
 Sejak awal, Mappers' Guild telah diatur sejalan dengan "membuat paket beatmap promosional untuk featured artist yang akan datang" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> sebagai salah satu tujuan utamanya. Ini ditunjukkan di dalam proyek besar pertama Guild, di mana anggota Guild telah mempersiapkan dan memberi peringkat enam beatmap dari [lagu-lagu MOtOLOiD berlisensi](https://osu.ppy.sh/beatmaps/artists/19) jauh sebelum [pengumuman featured artist terkait](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
 
-Karena pada awalnya Guild beroperasi berbasis aplikasi entri tertutup, akses ke konten featured artist yang akan datang sering kali dibatasi untuk segelintir pembuat beatmap mode permainan [osu!](/wiki/Game_mode/osu!). Namun, pada saat peralihan ke sistem entri terbuka dan otomatis pada [awal 2019](/wiki/Mapping_and_Modding_Timeline#march.5), Guild memiliki semakin banyak mapper dalam pembuatan beatmap showcase untuk featured artist ke depannya dari waktu ke waktu terlepas dari mode permainan mereka.
+Karena pada awalnya Guild beroperasi berbasis aplikasi entri tertutup, akses ke konten featured artist yang akan datang sering kali dibatasi untuk segelintir pembuat beatmap mode permainan [osu!](/wiki/Game_mode/osu!). Namun, pada saat peralihan ke sistem entri terbuka dan otomatis pada [awal 2019](/wiki/Mapping_and_Modding_Timeline#maret.5), Guild memiliki semakin banyak mapper dalam pembuatan beatmap showcase untuk featured artist ke depannya dari waktu ke waktu terlepas dari mode permainan mereka.
 
 Dimulai dari [Pengumuman MYUKKE. sebagai featured artist](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) pada Desember 2020 dan seterusnya, kiriman pengumuman featured artist baru kadang-kadang menampilkan pratinjau video singkat, seringkali dengan beatmap showcase ini bertindak sebagai tajuk utama mereka.
 
@@ -410,9 +410,9 @@ Dimulai dari [Pengumuman MYUKKE. sebagai featured artist](https://osu.ppy.sh/hom
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
-[flag_CZ]: /wiki/shared/flag/CZ.gif "Republik Ceska"
+[flag_CL]: /wiki/shared/flag/CL.gif "Cili"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Republik Ceko"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
@@ -422,19 +422,19 @@ Dimulai dari [Pengumuman MYUKKE. sebagai featured artist](https://osu.ppy.sh/hom
 [flag_GR]: /wiki/shared/flag/GR.gif "Yunani"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Itali"
 [flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
 [flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lituania"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turki"
 [flag_MX]: /wiki/shared/flag/MX.gif "Meksiko"
 [flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
-[flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
 [flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
+[flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turki"
 [flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

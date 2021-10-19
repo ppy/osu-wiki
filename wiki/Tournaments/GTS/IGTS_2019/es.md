@@ -488,7 +488,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Registro y creación de equipos
 
-1. Para participar tienes que es estar dentro de las **[Restricciones de Ranking](#Restricciones-de-Ranking) en la sección** con el mismo nombre.
+1. Para participar tienes que es estar dentro de las **[Restricciones de Ranking](#restricciones-de-ranking) en la sección** con el mismo nombre.
 2. Los jugadores se registrarán individualmente. Cuando sean aceptados, se les otorgará un rol de país.
 3. El staff puede rechazar a un jugador si se considera que el jugador tiene un nivel de habilidad que no esté acorde al torneo.
 4. Este año aceptaremos dos equipos por país con ciertas condiciones:

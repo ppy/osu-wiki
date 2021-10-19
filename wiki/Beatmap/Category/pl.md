@@ -36,7 +36,7 @@ Te beatmapy przechodzą ostatni etap mapowania, jak i modowania. Na początku ro
 - usunięcie wszystkich wyników po zmianie statusu.
   - Jeżeli status zostanie zmieniony na rankingowy, zatwierdzony lub oczekujący, wszystkie wyniki zostaną usunięte!
 
-Jeżeli beatmapa została zakwalifikowana, oznacza to, że jest zgodna z [kryteriami rankingowymi](/wiki/Ranking_Criteria) i została zatwierdzona przez dwóch [nominatorów](/wiki/People/The_Team/Beatmap_Nominators). Kwalifikacja to ostatni etap, w którym mapa musi znajdować się przynajmniej tydzień, zanim otrzyma status [rankingowy](#ranked) lub [zatwierdzony](#approved).
+Jeżeli beatmapa została zakwalifikowana, oznacza to, że jest zgodna z [kryteriami rankingowymi](/wiki/Ranking_Criteria) i została zatwierdzona przez dwóch [nominatorów](/wiki/People/The_Team/Beatmap_Nominators). Kwalifikacja to ostatni etap, w którym mapa musi znajdować się przynajmniej tydzień, zanim otrzyma status [rankingowy](#rankingowe) lub [zatwierdzony](#zatwierdzone).
 
 Podczas tego tygodnia [członkowie zespołu QAT](/wiki/Modding/Quality_Assurance_Team) mają czas na sprawdzenie zakwalifikowanej beatmapy pod kątem błędów i nieścisłości. Jeżeli coś będzie nie tak, beatmapa otrzyma z powrotem status oczekujący i będzie musiała jeszcze raz przejść przez proces kwalifikacji.
 
@@ -69,7 +69,7 @@ Beatmapy z tej kategorii, które są nieaktywne przez okres 4 tygodni, automatyc
 
 ![Znak zapytania](/wiki/shared/status/graveyard.png) Na ekranie wyboru piosenek nieaktualizowane beatmapy są oznaczane znakiem zapytania.
 
-Te beatmapy oryginalnie posiadały status [oczekującej](#oczekujące), ale zostały przeniesione do tej kategorii, ponieważ nie były aktualizowane bądź ich wątki były nieaktywne przez 4 tygodnie. Nie mogą one zostać zaktualizowane, dopóki [twórca](/wiki/Beatmapping) nie naciśnie przycisku „Resurrect” na swoim profilu w zakładce z beatmapami.
+Te beatmapy oryginalnie posiadały status [oczekującej](#oczekujące), ale zostały przeniesione do tej kategorii, ponieważ nie były aktualizowane bądź ich wątki były nieaktywne przez 4 tygodnie. Nie mogą one zostać zaktualizowane, dopóki twórca nie naciśnie przycisku „Resurrect” na swoim profilu w zakładce z beatmapami.
 
 Żadna z nieaktualizowanych beatmap nie wpływa na statystyki użytkowników.
 

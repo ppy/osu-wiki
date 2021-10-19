@@ -40,7 +40,7 @@ NAT mengawasi kandidat NAT yang memiliki potensi dalam jangka waktu yang lama, d
 
 *Catatan: Semua Nomination Assessment Team berbicara dengan bahasa Inggris selain bahasa yang tercantum dibawah ini, kecuali yang tidak tercatat.*
 
-Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebagai tambahan dari area yang disebutkan di bawah, semua anggota NAT mengambil bagian dalam [meninjau konten visual dan aural yang terdapat pada beatmap](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebagai tambahan dari area yang disebutkan di bawah, semua anggota NAT mengambil bagian dalam [meninjau konten visual dan aural yang terdapat pada beatmap](/wiki/Rules/Visual_Content_Considerations#menilai-gambar-anda).
 
 ### osu!
 
