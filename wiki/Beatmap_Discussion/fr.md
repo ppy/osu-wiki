@@ -130,7 +130,7 @@ Si vous postez dans l'onglet `Chronologie`, vous devez inclure un horodatage dan
 
 ## Discussions
 
-![](img/discussions-FR.png "Là où la discussion a lieu !")
+![](img/discussion-FR.png "Là où la discussion a lieu !")
 
 Les discussions sont l'endroit où les messages du [champ de soumission](#champ-de-soumission) sont placés une fois soumis. Les utilisateurs qui visitent une page de discussion peuvent voir les messages rédigés par tous les autres utilisateurs, et pourront participer à la discussion sur les messages. Pour ce faire, il suffit de cliquer sur les boutons "Répondre" ou "Répliquer" sous un message et d'écrire une réponse. Après avoir terminé une réponse, appuyez sur la touche "Entrée" ou cliquez sur "Répondre" pour la soumettre à la discussion.
 

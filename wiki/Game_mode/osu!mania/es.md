@@ -10,7 +10,7 @@ El modo ha sido bastamente usado en casi todos los juegos de ritmo de renombre. 
 
 Es, de cierta manera, similar a [osu!taiko](/wiki/Game_mode/osu!taiko), pero con más botones de notas moviéndose verticalmente que horizontalmente.
 
-## ![](/wiki/shared/mode/mania.jpg) Explicación del gameplay
+## ![](/wiki/shared/mode/mania.png) Explicación del gameplay
 
 ### Selección de canciones
 

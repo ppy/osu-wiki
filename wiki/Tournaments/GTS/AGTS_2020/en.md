@@ -36,7 +36,7 @@ The **Advanced Global Taiko Showdown 2020** (***AGTS 2020***) was an Advanced wo
 
 Generous donations from ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930) and ![][flag_US] [Horo](https://osu.ppy.sh/users/992439) helped fund some of the prizes.
 
-![](img/badge.png "AGTS 2020 winner badge")
+![](img/badge.jpg "AGTS 2020 winner badge")
 
 ## Organisation
 

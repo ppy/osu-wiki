@@ -16,7 +16,7 @@ There's a few things to keep in mind, however. This contest is about giving Yuzu
 
 ## Who is Yuzu?
 
-[![](/wiki/Mascots/Yuzu_Profile.png)](https://osu.ppy.sh/wiki/Mascots/Gallery#yuzu)
+[![](/wiki/Mascots/Gallery/img/Yuzu-Daru.png)](/wiki/Mascots/Gallery#yuzu)
 
 Yuzu is the _osu!catch_ mascot. He's most commonly seen in the base game skin, holding up the catcher.
 

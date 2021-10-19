@@ -8,7 +8,7 @@ outdated: true
 
 # Intermediate Global Taiko Showdown 2019
 
-![Логотип IGTS 2019](img/logo.png)
+![Логотип IGTS 2019](img/logo.jpg)
 
 **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) - страновой два на два osu!taiko турнир с сеткой с двойной элиминацией организованный ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) и ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Это второе издание Intermediate Global Taiko Showdown.
 

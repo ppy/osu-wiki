@@ -109,7 +109,7 @@ Pour les utiliser :
 
 ##### Commandes supplémentaires
 
-![Extra commands](img/SE_AO-FR.jpg "Extra commands")
+![Extra commands](img/SE_AO.jpg "Extra commands")
 
 | Commande | Utilisation |
 | :-- | :-- |

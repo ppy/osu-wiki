@@ -8,7 +8,7 @@ outdated: true
 
 # Intermediate Global Taiko Showdown 2019
 
-![IGTS 2019 Logo](img/logo.png)
+![IGTS 2019 Logo](img/logo.jpg)
 
 O **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) foi um torneio 2 vs 2, de eliminação dupla e baseado em países, organizado por ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) e ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Essa foi a segunda edição do Intermediate Global Taiko Showdown.
 

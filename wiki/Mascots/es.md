@@ -98,6 +98,6 @@ Taikonator, también conocido como Taikonator 3000, fue uno de los participantes
 
 ### pyun
 
-![pyun](img/pyun.png "pyun")
+![Chirou](img/Chirou.png "Chirou")
 
 Diseñada por [pyun](https://osu.ppy.sh/users/981534),  pyun fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Puede ser vista en algunas de las sumisiones pasadas de fanart hechas por pyun.
