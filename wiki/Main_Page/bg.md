@@ -51,7 +51,7 @@ no_native_review: true
 
 Компоненти: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Такт делител](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Съкратена дистанция](/wiki/Beatmap_Editor/Distance_Snap) • [Меню](/wiki/Beatmap_Editor/Menu) • [АИ товар](/wiki/Beatmap_Editor/SB_Load) • [Времева линия](/wiki/Beatmap_Editor/Timelines)
 
-Дейности: [Създаване на бийтмап](/wiki/Beatmapping) • [Техники за създаване](/wiki/Mapping_Techniques) • [Анимирана история](/wiki/Storyboarding) • [Облик](/wiki/Skinning)
+Дейности: [Създаване на бийтмап](/wiki/Beatmapping) • [Техники за създаване](/wiki/Mapping_Techniques) • [Анимирана история](/wiki/Storyboard) • [Облик](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -132,7 +132,7 @@ osu! нямаше да съществува без всички потребит
 
 [История на osu!](/wiki/History_of_osu!) • [История на osu! уики](/wiki/History_of_osu!/osu!_wiki) • [Бийтмап създаване/редактиране - история](/wiki/Mapping_and_Modding_Timeline) • [Априлски шеги](/wiki/History_of_osu!/April_Fools)
 
-[Карта на сайт](/wiki/Sitemap) • [Указания за принос](/wiki/osu!_wiki/Contribution_guide) • [Критерии за оформяне на страница](/wiki/Article_Styling_Criteria) • [Критерии за оформяне на новини](/wiki/News_Styling_Criteria)
+[Карта на сайт](/wiki/Sitemap) • [Указания за принос](/wiki/osu!_wiki/Contribution_guide) • [Критерии за оформяне на страница](/wiki/Article_styling_criteria) • [Критерии за оформяне на новини](/wiki/News_Styling_Criteria)
 
 </div>
 </div>
