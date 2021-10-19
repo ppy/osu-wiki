@@ -22,4 +22,4 @@ Kiai -tid brukes mest for den "sterkeste delen av en sang", som vanligvis er ref
 
 ## osu!taiko
 
-På [osu!taiko](/wiki/Game_Modes/osu!taiko) beatmaps gir kiai -seksjoner 20% mer [score](/wiki/Score).
+På [osu!taiko](/wiki/Game_mode/osu!taiko) beatmaps gir kiai -seksjoner 20% mer [score](/wiki/Score).

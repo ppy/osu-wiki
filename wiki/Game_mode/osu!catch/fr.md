@@ -60,7 +60,7 @@ Collecter un hyperfruit fera que le dash de l’attrapeur sera augmenté en un *
 
 ## Style de jeu
 
-*[Reportez vous à la page Style de jeu dans osu!catch](/wiki/Play_Styles).*
+*[Reportez vous à la page Style de jeu dans osu!catch](/wiki/Play_style).*
 
 ## Contrôles
 

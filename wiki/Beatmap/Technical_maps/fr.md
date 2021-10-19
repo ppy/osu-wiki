@@ -16,7 +16,7 @@ Les **beatmaps techniques** (abrégé en "tech map") est un terme qui n'a pas de
 
 Les beatmaps techniques sont le plus souvent associées à des genres musicaux qui offrent des sons complexes et rapides (par exemple, drum-and-bass, dubstep et drumstep), car elles permettent souvent au mappeur d'explorer en détail chaque son individuellement, ce qui profite à la beatmap. Bien que la musique de ce type ne soit pas explicitement requise.
 
-Indépendamment de la définition, de nombreux joueurs affirment que les beatmaps techniques sont injustes (en termes de compétences) en raison de l'augmentation principale de la difficulté découlant principalement ou uniquement des motifs confus ou des sliders irréguliers. De même, cela signifie qu'elles ne sont pas très populaires pour gagner de grandes quantités de [pp](/wiki/Performance_Points) en une seule fois, en raison de la façon dont le système actuel fonctionne et de la manière dont il sous-évalue les beatmaps de cette nature.
+Indépendamment de la définition, de nombreux joueurs affirment que les beatmaps techniques sont injustes (en termes de compétences) en raison de l'augmentation principale de la difficulté découlant principalement ou uniquement des motifs confus ou des sliders irréguliers. De même, cela signifie qu'elles ne sont pas très populaires pour gagner de grandes quantités de [pp](/wiki/Performance_points) en une seule fois, en raison de la façon dont le système actuel fonctionne et de la manière dont il sous-évalue les beatmaps de cette nature.
 
 ## Définitions
 

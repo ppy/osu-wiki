@@ -208,7 +208,7 @@ Cita la(s) palabra(s) o párrafo(s) dado(s).
 
 ### Código
 
-Formatea el texto con una familia de fuentes monoespaciada y la coloca dentro de una caja gris. Esto es muy útil cuando estás publicando código para un [storyboard](/wiki/storyboard) o código fuente de un proyecto.
+Formatea el texto con una familia de fuentes monoespaciada y la coloca dentro de una caja gris. Esto es muy útil cuando estás publicando código para un [storyboard](/wiki/Storyboard) o código fuente de un proyecto.
 
 - Botón dedicado: *ninguno*
 - Notas:

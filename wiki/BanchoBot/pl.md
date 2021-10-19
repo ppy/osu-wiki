@@ -142,7 +142,7 @@ Tama: ok
 
 *Ważne: Przy wprowadzaniu nazwy użytkownika zamień wszystkie spacje na znaki podkreślenia (`_`).*
 
-Wysyła zgłoszenie do [moderatorów globalnych](/wiki/Global_Moderation_Team).
+Wysyła zgłoszenie do [moderatorów globalnych](/wiki/People/The_Team/Global_Moderation_Team).
 
 #### Przykład użycia
 

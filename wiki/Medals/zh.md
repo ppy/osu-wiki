@@ -26,15 +26,15 @@ outdated: true
 
 ### 注意事项
 
-- 除了不计分的 mods（如 [Auto Pilot](/wiki/AP) 等）外的 mods 都可以使用。
+- 除了不计分的 mods（如 [Auto Pilot](/wiki/Game_modifier/Autopilot) 等）外的 mods 都可以使用。
 - 直到[曲包列表](https://osu.ppy.sh/p/packlist?t=t)中的对应谱面已经被认定为 **`CLEARED（已完成）`** 之后，才能删除这张谱面。
 
 ## 实力
 
 实力奖章目前有三类：连击数，排名，水准。
 
-**连击数**奖章获取条件：在 osu! 模式中玩任意谱面并取得指定[连击数](/wiki/combo)。
-从 [osu!taiko](/wiki/osu!taiko)，[osu!catch](/wiki/osu!catch) 或 [osu!mania](/wiki/osu!mania) 模式中取得的连击数不计入奖章获取条件。
+**连击数**奖章获取条件：在 osu! 模式中玩任意谱面并取得指定[连击数](/wiki/Disambiguation/Combo)。
+从 [osu!taiko](/wiki/Game_mode/osu!taiko)，[osu!catch](/wiki/Game_mode/osu!catch) 或 [osu!mania](/wiki/Game_mode/osu!mania) 模式中取得的连击数不计入奖章获取条件。
 
 如果想要取得 1000 或 2000 连击数的奖牌，通常您需要搜索 Approved 谱面，而不是 Ranked 谱面。因为 Approved 谱面的谱面时间将会更长（5分钟以上），这样更容易取得更高的连击数。
 注意，如果谱面既没有被 Approved，也没有被 Ranked，那么即使连击数再高，也不会取得奖章！
@@ -47,7 +47,7 @@ outdated: true
 
 与谱面难度有关的奖章也能被分为两类，即 *Pass（通过）* 与 *S* 。
 *Pass（通过）* 奖章的获取条件，是完成任何一张指定星级的谱面。
-*S* 奖章的获取条件，是完成一张指定星级的谱面且获得 S 评价，并且达成[全连](/wiki/FC).
+*S* 奖章的获取条件，是完成一张指定星级的谱面且获得 S 评价，并且达成[全连](/wiki/Full_combo).
 谱面的星级将取整（如 5.88 星的图将会计为 5 星），并将给予玩家对应的奖章。
 使用难度增加或难度减少的 mods 来完成谱面或取得 S 评价也会计入奖章获取条件。
 注意，必须玩 Ranked 谱面才能获取奖章。
