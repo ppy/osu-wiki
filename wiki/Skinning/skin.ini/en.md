@@ -186,6 +186,8 @@ osu! organizes the commands with a heading command. Which may look like this `[G
     - `2.3`
     - `2.4`
     - `2.5`
+    - `2.6`
+    - `2.7`
     - `latest`
   - Notes:
     - If the `skin.ini` file is not present, `latest` will be used instead.
