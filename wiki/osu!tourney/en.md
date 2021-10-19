@@ -12,4 +12,4 @@ Users encountering **problems** with the client may read the [troubleshooting gu
 - [Skinning](Skinning)
 - [Tournament Management Commands](Tournament_Management_Commands)
 - [Troubleshooting](Troubleshooting)
-- [Prizes](Prizes)
+- [Official tournament support](/wiki/Tournaments/Official_support)

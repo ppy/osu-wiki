@@ -492,9 +492,9 @@ The following is an example of both inline styles:
 The following is an example of the reference style:
 
 ```markdown
-[Game Modifiers][game mods link]
+[Game modifier][game mods link]
 
-[game mods link]: /wiki/Game_Modifiers
+[game mods link]: /wiki/Game_modifier
 ```
 
 ---

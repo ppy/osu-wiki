@@ -1,6 +1,6 @@
 # Оформление статей
 
-*См. также: [Содержание статей](/wiki/Article_style_criteria/Writing)*
+*См. также: [Содержание статей](/wiki/Article_styling_criteria/Writing)*
 
 ## Локали
 

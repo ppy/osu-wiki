@@ -14,7 +14,7 @@ Um *beatmap* (às vezes chamado de *beatmapset*) é um conjunto de níveis de jo
 - a própria música, armazenada em formato MP3 ou Ogg.
 - [imagens de fundo](/wiki/Beatmap/Background), ou um vídeo, agindo como um campo de jogo.
 - [*hitsounds* customizados](/wiki/Beatmapping/Hitsound) para o arranjo e melhor feedback auditivo (opcional).
-- [*storyboard*](/wiki/Storyborads) com gráficos e efeitos especiais, servindo como história de fundo ou tema para a música (opcional).
+- [*storyboard*](/wiki/Storyboard) com gráficos e efeitos especiais, servindo como história de fundo ou tema para a música (opcional).
 - [*skin* customizada](/wiki/Skinning), que muda a aparência da interface e elementos da *gameplay* (opcional).
 
 *Nota: Alguns recursos visuais e auditivos de um beatmap podem ser desativados nas [configurações visuais](/wiki/Visual_Settings)*

@@ -19,4 +19,4 @@ Le terme **star** a quatre significations :
 3. Un autre terme pour "[Kudosu](/wiki/Modding/Kudosu)".
    - Ils sont donnés aux modders de beatmap et peuvent être utilisés pour élever une beatmap au-dessus des autres.
 4. Un autre terme pour "[Star Priority](/wiki/Modding/Star_priority)".
-   - Ces étoiles sont attribuées aux [supporters d'osu](/wiki/osu!support) et sont utilisées dans les [Feature Requests](https://osu.ppy.sh/community/forums/4).
+   - Ces étoiles sont attribuées aux [supporters d'osu](/wiki/osu!supporter) et sont utilisées dans les [Feature Requests](https://osu.ppy.sh/community/forums/4).

@@ -176,7 +176,7 @@ Ceux-ci sont généralement placés dans un diviseur d'un quart de temps en fonc
 
 Ils peuvent être en une seule succession ou en plusieurs, selon ce que souhaite le mappeur.
 
-Notez que Triplet Steams ne fait **pas** référence à un triplet réel en [théorie musicale](/wiki/Beatmap_Editor_Guides/Music_Theory).
+Notez que Triplet Steams ne fait **pas** référence à un triplet réel en [théorie musicale](/wiki/Music_theory).
 
 ### Variable Spaced Streams
 

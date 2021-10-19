@@ -4,7 +4,7 @@ outdated: true
 
 # Beatmapy
 
-**Beatmapy** w [osu!](/wiki/osu!_glossary) są poziomami zbliżonymi do tych z [gier na konsolę Nintendo DS](/wiki/iNiS_games). Każda beatmapa składa się z piosenki oraz [obiektów](/wiki/Hit_object) rozmieszczonych w rytm muzyki. Mogą także posiadać tło, wideo bądź [storyboard](/wiki/Storyboard).
+**Beatmapy** w [osu!](/wiki/Glossary) są poziomami zbliżonymi do tych z [gier na konsolę Nintendo DS](/wiki/iNiS_games). Każda beatmapa składa się z piosenki oraz [obiektów](/wiki/Hit_object) rozmieszczonych w rytm muzyki. Mogą także posiadać tło, wideo bądź [storyboard](/wiki/Storyboard).
 
 Beatmapy mogą zostać przesłane poprzez [BSS](/wiki/Submission) (Beatmap Submission System). Następnie przechodzą przez proces zatwierdzający, zwany [modowaniem](/wiki/Modding). Ma on na celu zwiększyć grywalność danej beatmapy.
 
@@ -59,7 +59,7 @@ Aby dowiedzieć się, jak beatmapa może uzyskać status ulubionej społecznośc
 
 ![Znak zapytania](/wiki/shared/status/pending.png) Na ekranie wyboru piosenek oczekujące beatmapy są oznaczane znakiem zapytania.
 
-Beatmapy z tej kategorii zazwyczaj czekają na [zmodowanie](/wiki/Modding). [Twórcy](/wiki/Creators) muszą znaleźć [moderów](/wiki/Modding/Modder) oraz przynajmniej dwóch [nominatorów](/wiki/People/The_Team/Beatmap_Nominators), by beatmapa mogła się rozwijać.
+Beatmapy z tej kategorii zazwyczaj czekają na [zmodowanie](/wiki/Modding). Twórcy muszą znaleźć [moderów](/wiki/Modding/Modder) oraz przynajmniej dwóch [nominatorów](/wiki/People/The_Team/Beatmap_Nominators), by beatmapa mogła się rozwijać.
 
 Beatmapy z tej kategorii, które są nieaktywne przez okres 4 tygodni, automatycznie otrzymają status [nieaktualizowanych](#nieaktualizowane).
 

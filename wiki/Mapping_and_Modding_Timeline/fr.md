@@ -67,7 +67,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 ### Décembre
 
 - **27/12/2009 :** L'équipe [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*) est lancée.
-  - Les membres du MAT pouvaient marquer les beatmaps avec des [proto-bulles](/wiki/Modding/Proto-bulle) qui indiquaient les beatmaps de qualité que les membres du BAT devraient examiner. 
+  - Les membres du MAT pouvaient marquer les beatmaps avec des [proto-bulles](/wiki/Modding/Proto-bubble) qui indiquaient les beatmaps de qualité que les membres du BAT devraient examiner.
   - ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) a été le premier [Leader MAT](/wiki/Modding/MAT_Leaders) du groupe. 
   - Les membres de la MAT avaient un titre violet sur les forums.
   - Le MAT s'appelait initialement "équipe de modding intermédiaire" et était composé de moddeurs établis qui n'étaient pas encore prêts à entrer dans le BAT.
@@ -318,7 +318,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 - **22/05/2017 :** Le serveur Discord Beatmap Nominator a été créé pour les sous-divisions des BN.
   - Les sous-divisions ont été conçues comme des groupes de discussion composés de nominateurs sélectionnés au hasard dans les deux niveaux, dirigés par un membre de la QAT.
   - La plupart des responsables des QAT sont passés à ce serveur malgré la résistance des hauts responsables d'osu!
-- **23/05/2017 :** Le bot Discord [Aiess](/wiki/Projets#miscellaneous) a été créé par ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817).
+- **23/05/2017 :** Le bot Discord [Aiess](/wiki/Projects#miscellaneous) a été créé par ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817).
   - Il s'agit d'un flux d'événements liés aux mapping sur les serveurs Discord d'osu! en commençant par les flux de nomination et de disqualification.
 
 ### Juin

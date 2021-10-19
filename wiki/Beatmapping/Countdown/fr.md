@@ -8,7 +8,7 @@ tags:
 
 *Pour les comptes à rebours de tournoi, voir : [commandes de gestion de tournoi](/wiki/osu!tourney/Tournament_Management_Commands)*\
 *Pour les règles concernant les comptes à rebours, voir : [critères de classement & généralités & lignes directrices](/wiki/Ranking_Criteria#guidelines)*\
-*Voir également : [offset (désambiguïsation)](/wiki/Disambiguïsation/Offset)*.
+*Voir également : [offset (désambiguïsation)](/wiki/Disambiguation/Offset)*.
 
 Un **compte à rebours** peut apparaître au début d'une [beatmap](/wiki/Beatmap). C'est utile pour les chansons qui commencent rapidement et/ou de manière abrupte, mais la plupart des beatmaps n'ont pas besoin de cette option. Les comptes à rebours peuvent être activés ou désactivés dans le menu [song setup](/wiki/Beatmap_Editor/Song_Setup) sous l'onglet "design", mais ils ne sont pas autorisés pour les beatmaps du mode [osu!taiko](/wiki/Game_mode/osu!taiko).
 

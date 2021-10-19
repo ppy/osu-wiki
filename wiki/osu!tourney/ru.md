@@ -17,4 +17,4 @@ needs_cleanup: true  # нужно исправить несколько стра
 - [Создание скинов для клиента](Skinning)
 - [Команды управления турниром](Tournament_Management_Commands)
 - [Решение проблем](Troubleshooting)
-- [Призы](Prizes)
+- [Official tournament support](/wiki/Tournaments/Official_support)

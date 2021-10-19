@@ -12,4 +12,4 @@
 - [スキニング](Skinning)
 - [トーナメント管理コマンド](Tournament_Management_Commands)
 - [トラブルシューティング](Troubleshooting)
-- [賞品](Prizes)
+- [Official tournament support](/wiki/Tournaments/Official_support)

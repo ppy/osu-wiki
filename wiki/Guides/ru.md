@@ -6,7 +6,7 @@
 
 *Основная статья: [Маппинг](/wiki/Beatmapping)*
 
-- [Добавление нестандартных хитсаундов](Adding_Custom_Hitsounds)
+- [Добавление нестандартных хитсаундов](Using_custom_hitsounds)
 - [Редактирование аудио](Audio_Editing)
 - [Изменение исполнителя или названия](Changing_the_Artist_or_Title)
 - [Смена текста заголовка](/wiki/Beatmap/Title_Text#changing-title-text)
@@ -15,6 +15,7 @@
 - [Библиотека нестандартных хитсаундов](Custom_Hitsound_Library)
 - [Список нестандартных хитсаундов](Custom_Sample_Overrides)
 - [Настройка тайминга](How_to_Time_Songs)
+- [Music Theory](/wiki/Music_theory)
 - [Гайд по маппингу в osu!mania](osu!mania_Mapping_Guide)
 - [Настройка оффсета и BPM](Setting_the_Offset_on_the_Correct_Beat)
 - [Как начать маппинг-проект](Starting_a_Beatmap_Project)

@@ -16,4 +16,4 @@ no_native_review: true
 - [Skin](Skinning)
 - [比賽管理指令](Tournament_Management_Commands)
 - [疑難排解](Troubleshooting)
-- [獎勵](Prizes)
+- [Official tournament support](/wiki/Tournaments/Official_support)
