@@ -132,7 +132,7 @@ Come quasi tutto il resto là fuori, la wiki di osu! è scritta e mantenuta da v
 
 [Storia di osu!](/wiki/History_of_osu!) • [Storia della wiki di osu!](/wiki/History_of_osu!/osu!_wiki) • [Timeline del mapping e del modding](/wiki/Mapping_and_Modding_Timeline) • [Pesci d'aprile](/wiki/History_of_osu!/April_Fools)
 
-[Mappa del sito](/wiki/Sitemap) • [Guide di contributo](/wiki/osu!_wiki_Contribution_Guide) • [Criteri di stile degli articoli](/wiki/Article_Styling_Criteria) • [Criteri di stile delle news](/wiki/News_Styling_Criteria)
+[Mappa del sito](/wiki/Sitemap) • [Guide di contributo](/wiki/osu!_wiki/Contribution_guide) • [Criteri di stile degli articoli](/wiki/Article_styling_criteria) • [Criteri di stile delle news](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

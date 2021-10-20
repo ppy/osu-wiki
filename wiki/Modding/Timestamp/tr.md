@@ -6,7 +6,7 @@ tags:
 
 # Zaman damgası
 
-**Zaman damgaları** [modlamada](/wiki/Modding) bir [beatmapteki](/wiki/Beatmap) zamanları veya [vuruş objelerini](/wiki/Hit_Objects) belirtmek için kullanılır. [Beatmap tartışmalarında](/wiki/Beatmap_Discussion) gönderildiğinde, [düzenleyici](/wiki/Beatmap_Editor) içerisinde belirtilen noktaya kolayca atlamak için kullanılabilen özel bağlantılar oluştururlar.
+**Zaman damgaları** [modlamada](/wiki/Modding) bir [beatmapteki](/wiki/Beatmap) zamanları veya [vuruş objelerini](/wiki/Hit_object) belirtmek için kullanılır. [Beatmap tartışmalarında](/wiki/Beatmap_Discussion) gönderildiğinde, [düzenleyici](/wiki/Beatmap_Editor) içerisinde belirtilen noktaya kolayca atlamak için kullanılabilen özel bağlantılar oluştururlar.
 
 Düzenleyici içerisinde seçilen vuruş objelerini kopyalamak (`Ctrl` + `C`) panoya bir zaman damgası yerleştirecektir. Sol-alttaki zaman göstergesi de üzerine tıklanabilir ve kopyalanabilir.
 
