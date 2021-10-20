@@ -16,7 +16,7 @@ Le décompte des votes se fait à l'aide d'un système simple en cascade, comme 
 - **S'il y a un consensus de 70% sur une réponse particulière à partir des votes GMT et NAT combinés, cette réponse est utilisée comme résultat du vote.**
 - S'il n'y a pas de consensus de 70% à partir du vote combiné GMT et NAT, le vote BN est alors fusionné avec le total des votes.
 - Si le vote fusionné est de 70% de oui ou plus, le contenu est considéré comme acceptable et peut être utilisé.
-- If the merged vote is below 70% yes, the content is judged to be not allowed for use and must be removed and changed immediately.
+- Si le vote fusionné est inférieur à 70% de oui, le contenu est considéré comme interdit d'utilisation et doit être retiré et modifié immédiatement.
 
 Une fois qu'un résultat a été obtenu, il est **final** et ne peut être contesté par aucun moyen, sauf par l'intervention de l'[équipe d'assistance aux comptes](/wiki/People/The_Team/Account_support_team).
 
