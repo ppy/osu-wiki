@@ -8,7 +8,7 @@ This project discontinued use of the [Ranking Criteria subforum](https://osu.ppy
 
 ## Initial members
 
-Members of the Ranking Criteria Council were hand-picked to represent different regions of players and mappers, mimicking membership of the [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate).
+Members of the Ranking Criteria Council were hand-picked to represent different regions of players and mappers, mimicking membership of the [Triumvir Conglomerate](/wiki/Modding/BAT_Managers#triumvir-conglomerate).
 
 ### osu! members
 

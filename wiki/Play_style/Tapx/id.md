@@ -19,7 +19,7 @@ tags:
 
 *Catatan: Input overlay akan memunjukkan semua tekanan yang dilakukan pada tablet sebagai `M1`.*
 
-Streaming menggunakan tapx dilakukan dengan menekankan pena ke tablet dan lalu menekan tombol kedua (`Z` dan `X` secara default) dengan cepat. Beberapa pemain merasa nyaman dalam alternating secara bergantian dengan menekan pena pada tablet dan tombol kedua pada setiap [hit object](/wiki/Hit_objects), sama nyamannya dengan pemain yang melakukan [alternating](/wiki/Play_style/Alternating) dengan menekan tombol secara bergantian pada setiap hit object.
+Streaming menggunakan tapx dilakukan dengan menekankan pena ke tablet dan lalu menekan tombol kedua (`Z` dan `X` secara default) dengan cepat. Beberapa pemain merasa nyaman dalam alternating secara bergantian dengan menekan pena pada tablet dan tombol kedua pada setiap [hit object](/wiki/Hit_object), sama nyamannya dengan pemain yang melakukan [alternating](/wiki/Play_style/Alternating) dengan menekan tombol secara bergantian pada setiap hit object.
 
 ## Penyanggahan
 

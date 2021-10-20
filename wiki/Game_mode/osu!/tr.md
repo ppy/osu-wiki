@@ -80,7 +80,7 @@ Spinnerın altındaki kutucuk dakika başı çevirme sayınızı gösterir. Bu k
 
 ## Oynanış Tarzları
 
-*[osu!'nun altındaki Oynanış Tarzları sayfası](/wiki/Play_Styles) referans alınmıştır.*
+*[osu!'nun altındaki Oynanış Tarzları sayfası](/wiki/Play_style) referans alınmıştır.*
 
 ## Kontroller
 

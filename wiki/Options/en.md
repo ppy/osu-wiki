@@ -54,7 +54,7 @@ You can access this menu by clicking on your player card where available.
 | :-- | :-- | :-- | :-- |
 | `Select language` | Display a list of languages to select. | Dropdown |  |
 | `Prefer metadata in original language` | In the song select screen, beatmaps will display their original or untranslated metadata, if available. | Checkbox | `Disabled` |
-| `Use alternative font for chat display` | Uses the old font (Tahoma) instead of the current font (Aller) in the [chat console](/wiki/chat_console). | Checkbox | `Disabled` |
+| `Use alternative font for chat display` | Uses the old font (Tahoma) instead of the current font (Aller) in the [chat console](/wiki/Chat_Console). | Checkbox | `Disabled` |
 
 ### Updates
 
@@ -245,7 +245,7 @@ The master, music, and effect volume can be changed elsewhere by pressing `Alt` 
 | `Offset wizard` | Opens the offset wizard. | Button |  |
 
 - For details about the offset wizard, see [Offset Wizard](/wiki/Options/Offset_Wizard).
-- For details on using the offset wizard, see [How to use Offset Wizard](/wiki/Guides/How_to_use_the_Offset_Wizard).
+- For details on using the offset wizard, see [How to use Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard).
 
 ## Skin
 
