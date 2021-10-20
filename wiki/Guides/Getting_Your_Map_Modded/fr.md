@@ -10,7 +10,7 @@ Avant de rechercher des mods, vous devez d'abord comprendre les différents type
 - **Metadata check (Meta check) :** Assez explicite, le [moddeur](/wiki/Modding/Modder) vérifiera si les métadonnées de votre beatmap sont correctes. Les métadonnées sont souvent vérifiées dans les mods normaux également.
 - **Hitsound check :** Le moddeur vérifiera votre beatmap afin de s'assurer que vos hitsounds représentent correctement la musique, qu'ils soient cohérents et qu'ils répondent aux normes de classement.
 
-## Modding queues
+## Files d'attentes de modding
 
 Publier votre beatmap dans les files d'attente de modding est le moyen le plus efficace et le plus utilisé pour trouver des personnes susceptibles de modder vos beatmaps. Les files d'attente de modding sont des fils de discussion publiés dans le forum [Modding Queues](https://osu.ppy.sh/community/forums/60) qui permettent au créateur du fil de discussion de trouver des beatmaps à modder, et aux autres de trouver facilement des moddeurs pour modder leurs beatmaps. L'utilisation du forum pour trouver des mods est simple et efficace. Il suffit de suivre les étapes ci-dessous pour commencer :
 

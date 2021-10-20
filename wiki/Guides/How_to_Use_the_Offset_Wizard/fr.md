@@ -12,7 +12,7 @@ Suivez les étapes suivantes pour régler votre décalage universel à l'aide de
 2. Allez dans le menu `Options`, ou appuyez sur `Ctrl` + `O`.
 3. Cherchez `offset` dans la recherche rapide, et cliquez sur le bouton `assistant de décalage`.
 
-L'assistant de décalage s'ouvre alors, jouant la musique qui était précédemment jouée sur osu!, tandis que des barres vertes défilent sur l'écran et qu'un métronome fait tic-tac.
+L'assistant de décalage s'ouvre alors, jouant la musique qui était précédemment jouée dans osu!, tandis que des barres vertes défilent sur l'écran et qu'un métronome fait tic-tac.
 
 ## Calibrage du décalage universel
 

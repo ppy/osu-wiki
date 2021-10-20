@@ -1,6 +1,6 @@
 # Problèmes de prise en charge d'OpenGL
 
-La prochaine grande version d'osu! (à l'horizon août-septembre 2015) supprimera le support DirectX afin de simplifier notre framework. Si vous voyez cette page, cela signifie que vous ne pourrez probablement pas jouer à osu! sur votre système actuel lorsque la nouvelle version sera disponible. Cette page contient des solutions communes aux problèmes que nous avons rencontrés. Lisez-la et essayez-les !
+La version d'osu! (20151016.7) à supprimer le support de DirectX afin de simplifier notre framework. Si vous voyez cette page, cela signifie que vous ne pouvez pas jouer à osu! sur votre système actuel. Cette page contient des solutions communes aux problèmes que nous avons rencontrés. Lisez-la et essayez-les !
 
 ## Pilotes manquants ou anciens
 
