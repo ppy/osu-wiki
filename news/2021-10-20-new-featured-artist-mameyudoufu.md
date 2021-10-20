@@ -8,11 +8,11 @@ date: 2021-10-20 08:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/209/header.jpg)
 
-As a staple member of Japanese label *MEGAREX* with songs featured in rhythm games like *Dance Dance Revolution* and *WACCA*, **Mameyudoufu** is a producer with an impressive amount of experience under their belt. Given their fresh rhythm-game-esque sound, it's no wonder they've made a name for themselves — especially within the osu! world throughout the last year.
+A staple member of Japanese label *MEGAREX* with songs featured in rhythm games like *Dance Dance Revolution* and *WACCA*, **Mameyudoufu** is a producer with an impressive amount of experience under their belt. As the mastermind behind a fully fresh rhythm-game-esque sound, it's no surprise they've made a splash in tons of rhythm game circles — osu! obviously included.
 
 We've picked up **12** tracks from their ever-so-impressive catalogue, so scramble through them on [**Mameyudoufu**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/209) and find a song (or twelve) to give an attempt at mapping!
 
-[captin1](https://osu.ppy.sh/users/689997) has been hyping up the gospel (a.k.a. **Mameyudoufu**'s music) within the osu! community for more than a year, so it's only fitting to showcase this immersive soundscape through a video of captin1's map of [*Citadel*](https://osu.ppy.sh/beatmapsets/1024712). Explore that and the rest of the previews below:
+[captin1](https://osu.ppy.sh/users/689997) has been hyping up the gospel (a.k.a. **Mameyudoufu**'s music) within the osu! community for more than a year, so it's only fitting to showcase this immersive soundscape through a video of captin1's [*Citadel*](https://osu.ppy.sh/beatmapsets/1024712) map. Explore that and the rest of the previews below:
 
 <div align="center">
     <video width="90%" controls>
