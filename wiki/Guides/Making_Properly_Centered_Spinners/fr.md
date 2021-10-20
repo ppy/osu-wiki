@@ -2,11 +2,11 @@
 
 [*How to make spinners symmetrical* par : ziin](https://osu.ppy.sh/community/forums/topics/51502)
 
-Ce guide est probablement difficile à comprendre pour les personnes ayant peu d'expérience avec gimp/photoshop. Ce guide suppose que vous savez (et êtes capable) d'activer/désactiver les calques, ainsi que de trouver certaines choses par vous-même. Si vous avez des questions, vous pouvez utiliser le forum et nous essaierons de vous aider. Nous ne sommes pas bon pour générer du contenu, cependant, juste pour éditer le travail de quelqu'un d'autre.
+Ce guide est probablement difficile à comprendre pour les personnes ayant peu d'expérience avec gimp/photoshop. Ce guide suppose que vous savez (et êtes capable) d'activer/désactiver les calques, ainsi que de trouver certaines choses par vous-même. Nous ne sommes pas bon pour générer du contenu, cependant, juste pour éditer le travail de quelqu'un d'autre.
 
 ## Comment créer des spinners symétriques
 
-C'est fatiguant de voir des spinner bancales. S'il vous plaît, si vous voulez faire une toupie, assurez-vous qu'elle est parfaitement centrée.
+C'est fatiguant de voir des spinner bancales. S'il vous plaît, si vous voulez faire un spinner, assurez-vous qu'il soit parfaitement centré.
 
 Ouvrez d'abord votre éditeur d'images. Dans ce guide, nous utiliserons [GIMP](https://gimp.org), car il est gratuit.
 
@@ -50,7 +50,7 @@ Et copier/coller la sélection de l'image que vous voulez copier :
 
 ### Définir la taille du canvas
 
-Enfin, vous pouvez ajouter un motif au milieu, ou recolorer les bords. Assurez-vous de réinitialiser la taille ducanvas à 666x666 en allant dans Image -> Taille du canvas, et centrez l'image de façon à avoir une bordure de 1 pixel autour de l'image.
+Enfin, vous pouvez ajouter un motif au milieu, ou recolorer les bords. Assurez-vous de réinitialiser la taille du canvas à 666x666 en allant dans Image -> Taille du canvas, et centrez l'image de façon à avoir une bordure de 1 pixel autour de l'image.
 
 ![Image du tutoriel 7](img/MPCS_07.png "Image du tutoriel 7")
 
@@ -76,13 +76,13 @@ Tout d'abord, prenez l'arrière-plan à 1024x768 et enlevez les 46 pixels supér
 
 ### Utilisez l'onglet des canaux pour désactiver l'édition du canal alpha
 
-Techniquement, vous avez terminé, mais si vous voulez faire en sorte que l'arrière-plan soit "rempli" avec un compteur de rotation d'arrière-plan, vous pouvez utiliser le modèle de skin, ou le faire vous-même. Introduisez le compteur rotatif du modèle. Pour le recolorer, désactivez le canal alpha en le sélectionnant, afin de ne pas modifier la transparence du tout. Ensuite, utilisez le remplissage du seau et remplissez toute la zone avec une couleur grise ou la couleur que vous voulez (nous avons utilisé du noir).
+Techniquement, vous avez terminé, mais si vous voulez faire en sorte que l'arrière-plan soit "rempli" avec un compteur de rotation d'arrière-plan, vous pouvez utiliser le modèle de skin, ou le faire vous-même. Introduisez le compteur de rotation du modèle. Pour le recolorer, désactivez le canal alpha en le sélectionnant, afin de ne pas modifier la transparence du tout. Ensuite, utilisez le remplissage du seau et remplissez toute la zone avec une couleur grise ou la couleur que vous voulez (nous avons utilisé du noir).
 
 ![Image du tutoriel 11](img/MPCS_11.png "Image du tutoriel 11")
 
 ### Copiez/collez dans un nouveau calque, puis enregistrez votre compteur de rotation
 
-Une fois que vous avez la couleur, sélectionnez à nouveau l'ensemble du canal alpha (clic droit sur le canal alpha -> canal vers la sélection), copiez et collez l'arrière-plan du spinner afin d'avoir quelque chose à remplir pour votre compteur de toupie.
+Une fois que vous avez la couleur, sélectionnez à nouveau l'ensemble du canal alpha (clic droit sur le canal alpha -> canal vers la sélection), copiez et collez l'arrière-plan du spinner afin d'avoir quelque chose à remplir pour votre compteur de rotation.
 
 ![Image du tutoriel 12](img/MPCS_12.png "Image du tutoriel 12")
 
