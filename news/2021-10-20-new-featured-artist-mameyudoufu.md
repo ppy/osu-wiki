@@ -25,7 +25,7 @@ We've picked up **12** tracks from their ever-so-impressive catalogue, so scramb
 Try out [the map seen above](https://osu.ppy.sh/beatmapsets/1024712) hosted by [captin1](https://osu.ppy.sh/users/689997)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/209/Songs/Mameyudoufu%20-%20Citadel.mp3" type="audio/mpeg">
 </audio>
 
 ### Mameyudoufu - Quality Control
@@ -33,7 +33,7 @@ Try out [the map seen above](https://osu.ppy.sh/beatmapsets/1024712) hosted by [
 Or check out [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1052288) hosted by [Megafan](https://osu.ppy.sh/users/6632605)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/209/Songs/Mameyudoufu%20-%20Quality%20Control.mp3" type="audio/mpeg">
 </audio>
 
 ### rejection - Signal feat. Such (Mameyudoufu Remix)
@@ -41,15 +41,15 @@ Or check out [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1052288) ho
 See how **Mameyudoufu**'s take on this popular track through [an osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1190233) hosted by [KappuChinooo](https://osu.ppy.sh/users/9582525)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/209/Songs/rejection%20-%20Signal%20%28feat.%20Such%29%20-%20Mameyudoufu%20Remix.mp3" type="audio/mpeg">
 </audio>
 
 ### Mameyudoufu - Call My Name feat. Yukacco
 
-Get started on [this beatmap](LINK) hosted by **you** from the future!
+Get started on [this beatmap](https://assets.ppy.sh/artists/209/Songs/Mameyudoufu%20-%20Call%20My%20Name%20feat.%20Yukacco.osz) hosted by **you** from the future!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/209/Songs/Mameyudoufu%20-%20Call%20My%20Name%20feat.%20Yukacco.mp3" type="audio/mpeg">
 </audio>
 
 ---
