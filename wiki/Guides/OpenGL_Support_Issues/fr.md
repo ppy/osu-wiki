@@ -4,12 +4,12 @@ La prochaine grande version d'osu! (à l'horizon août-septembre 2015) supprimer
 
 ## Pilotes manquants ou anciens
 
-Si vous n'avez pas installé les pilotes graphiques corrects, Windows utilisera un pilote de repli nommé "Basic Display Adapter", qui **fonctionne** pour les jeux DirectX mais est très lent. Il ne fonctionne pas du tout pour OpenGL, nous devons donc nous assurer que vous disposez des bons pilotes.
+Si vous n'avez pas installé les bons pilotes graphiques, Windows utilisera un pilote de repli nommé "Basic Display Adapter", qui **fonctionne** pour les jeux DirectX mais est très lent. Il ne fonctionne pas du tout pour OpenGL, nous devons donc nous assurer que vous disposez des bons pilotes.
 
 Tout d'abord, vérifions si cela s'applique à vous :
 
 - Cliquez avec le bouton droit de la souris sur le logo Windows et choisissez `Gestionnaire de périphériques`.
-- Ou cliquez avec le bouton droit de la souris sur Ce PC et choisissez Propriétés dans la liste déroulante, ou appuyez sur WinKey+Break sur votre clavier.
+- Ou cliquez avec le bouton droit de la souris sur Ce PC et choisissez Propriétés dans la liste déroulante, ou appuyez sur Windows+Pause sur votre clavier.
 - Choisissez Gestionnaire de périphériques sur la gauche.
 
 Vérifiez si vous utilisez Microsoft Basic Display Adapter comme indiqué dans le diagramme suivant :

@@ -18,7 +18,7 @@ Une boîte de dialogue s'ouvre alors pour vous permettre de saisir les informati
 
 ---
 
-Après avoir modifié les informations de votre streaù, cliquez sur le bouton `Done`. Cliquez maintenant sur le bouton `Préférences` à gauche, puis sur `Canal`. Recherchez le champ `Primary Stream key` et cliquez sur `Copier`. **Ne partagez pas cette clé, elle permet la diffusion en votre nom**. Pour l'instant, collez la clé du stream copiée dans un bloc-notes.
+Après avoir modifié les informations de votre stream, cliquez sur le bouton `Done`. Cliquez maintenant sur le bouton `Préférences` à gauche, puis sur `Canal`. Recherchez le champ `Primary Stream key` et cliquez sur `Copier`. **Ne partagez pas cette clé, elle permet de diffuser sur votre chaîne**. Pour l'instant, collez la clé du stream dans un bloc-notes.
 
 ![](img/stream-key.png "Obtenir la clé du stream")
 
@@ -36,7 +36,7 @@ Lorsque vous lancez OBS Studio pour la première fois, l'assistant d'auto-config
 
 La section suivante à configurer est celle des paramètres vidéo. Choisissez la résolution de votre écran dans le champ `Résolution de base (Canvas)` (elle devrait être détectée automatiquement), et `Soit 60 ou 30, mais préférez 60 si possible` dans le champ `FPS`.
 
-Enfin, vous devrez configurer les informations du stream pour qu'OBS Studio puisse faire du livestream sur Twitch. Cliquez sur le bouton `Use Stream Key`, et entrez la clé de streaming primaire qui a été copiée plus tôt dans le champ. Laissez les autres options cochées comme elles le sont, et cliquez sur `Next`.
+Enfin, vous devrez configurer les informations du stream pour qu'OBS Studio puisse faire du livestream sur Twitch. Cliquez sur le bouton `Use Stream Key`, et entrez la clé de streaming qui a été copiée plus tôt dans ce champ. Laissez les autres options cochées comme elles le sont, et cliquez sur `Next`.
 
 ![](img/adding-stream-key.png "Configuration des informations sur le stream dans OBS Studio")
 
@@ -46,7 +46,7 @@ Après cela, OBS Studio se configurera automatiquement pour trouver les meilleur
 
 La dernière chose dont vous aurez besoin pour commencer le streaming est une scène contenant la fenêtre d'osu!. Pour en créer une, faites un clic droit sur la boîte `Scenes` dans la fenêtre principale d'OBS Studio et sélectionnez `Add` pour être invité à ouvrir une fenêtre de création de scène. Nommez-la "osu!", et cliquez sur `OK` pour continuer.
 
-Maintenant, OBS Studio a besoin d'une source pour capturer osu!. D'abord, ouvrez osu!, puis dans OBS Studio, faites un clic droit sur la boîte `Sources` et sélectionnez `Add` -> `Game Capture`. Cela ouvrira le dialogue de sélection de la source. Vous pouvez nommer la source comme "osu!", mais cela peut être ce que vous voulez, puis cliquez sur `OK`. Sélectionnez `Capture specific window` dans le menu déroulant `Mode` puis sélectionnez `[osu!.exe]: osu!` dans la liste `Window`.
+Maintenant, OBS Studio a besoin d'une source pour capturer osu!. D'abord, ouvrez osu!, puis dans OBS Studio, faites un clic droit sur la boîte `Sources` et sélectionnez `Add` -> `Game Capture`. Cela ouvrira le dialogue de sélection de la source. Vous pouvez la nommer "osu!", mais cela peut être ce que vous voulez, puis cliquez sur `OK`. Sélectionnez `Capture specific window` dans le menu déroulant `Mode` puis sélectionnez `[osu!.exe]: osu!` dans la liste `Window`.
 
 ![](img/game-capture.png "Capture de la fenêtre d'osu! dans OBS Studio")
 
@@ -56,7 +56,7 @@ Si tout va bien, vous devriez voir la fenêtre d'osu! dans l'aperçu.
 
 ## Quelle est la prochaine étape ?
 
-Maintenant, après avoir configuré OBS Studio et votre compte Twitch, cliquez sur `Start Streaming` dans OBS Studio pour faire un livestream. Votre streaming apparaîtra sur [Twitch](https://www.twitch.tv/directory/game/osu!) et sur [la liste des livestreams du site osu!](https://osu.ppy.sh/community/livestreams) dans quelques minutes. C'est tout ce que vous devez savoir pour vous lancer dans le streaming. Bien entendu, nous n'avons abordé que les bases du livestreaming et il vous reste encore de nombreuses choses à faire, les plus importantes étant les suivantes :
+Maintenant, après avoir configuré OBS Studio et votre compte Twitch, cliquez sur `Start Streaming` dans OBS Studio pour faire un livestream. Votre streaming apparaîtra sur [Twitch](https://www.twitch.tv/directory/game/osu!) et sur [la liste des livestreams du site osu!](https://osu.ppy.sh/community/livestreams) après quelques minutes. C'est tout ce que vous devez savoir pour vous lancer dans le streaming. Bien entendu, nous n'avons abordé que les bases du livestreaming et il vous reste encore de nombreuses choses à faire, les plus importantes étant les suivantes :
 
 - **Trouvez les meilleurs paramètres de stream.** Les paramètres configurés automatiquement par OBS Studio peuvent ne pas être adaptés à votre appareil. Vérifiez donc si votre livestream fonctionne correctement et ce qui doit être amélioré pour offrir la meilleure expérience à vos spectateurs.
 - **Construisez une communauté.** C'est probablement le plus difficile, car créer sa propre communauté à partir de rien demande une quantité folle de dévouement et de temps.
