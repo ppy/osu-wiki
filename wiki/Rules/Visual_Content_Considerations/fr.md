@@ -4,7 +4,7 @@ Conformément à la [règle communautaire n°5](/wiki/Rules#règles-communautair
 
 Cela comprend :
 
-- la soumission des beatmaps, **même ceux étiquetés comme [explicites] (/wiki/Rules/Explicit_Content)**.
+- la soumission des beatmaps, **même ceux étiquetés comme [explicites](/wiki/Rules/Explicit_Content)**.
 - les détails du profil (avatars, images de couverture)
 - toute autre pièce jointe ou lien hypertexte (messages du forum, commentaires, messages de discussion sur une beatmap)
 
