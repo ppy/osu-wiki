@@ -14,15 +14,15 @@ tags:
 1. Les [timing windows](/wiki/Beatmapping/Overall_difficulty#timing) de deux objets se chevauchent.
 2. Le premier de ces deux objets n'a pas encore été jugé (succès ou échec).
 
-Dans ce cas, on dit que le deuxième objet est *verrouillé* derrière le premier, ce qui fait qu'osu! ignore les actions du joueur sur cet objet jusqu'à ce que la hit window du premier objet soit passée. Le verrouillage des notes ne devient un problème que si le joueur est incapable de revenir à l'objet précédent et d'interagir avec lui correctement, ce qui lève le verrouillage. Dans ce cas, une note verrouillée peut provoquer un échec en cascade, forçant le joueur à manquer de plus en plus d'objets suivants, jusqu'à ce qu'il n'ait plus de [santé](/wiki/Beatmapping/Health) et échoue la beatmap.
+Dans ce cas, on dit que le deuxième objet est *verrouillé* derrière le premier, ce qui fait qu'osu! ignore les actions du joueur sur cet objet jusqu'à ce que la hit window du premier objet soit passée. Le verrouillage des notes ne devient un problème que si le joueur est incapable de revenir à l'objet précédent et d'interagir avec lui correctement, ce qui lèverait le verrouillage. Dans ce cas, une note verrouillée peut provoquer des échecs en cascade, forçant le joueur à manquer de plus en plus d'objets suivants, jusqu'à ce qu'il n'ait plus de [santé](/wiki/Beatmapping/Health) et échoue la beatmap.
 
-Lorsque le notelock se produit, le hit circle cliqué tremble. Cela ne se produit pas pour les sliders et les spinners.
+Lorsque le notelock se produit, le hit circle bloqué tremble. Cela ne se produit pas pour les sliders et les spinners.
 
 ## Cause
 
 Le notelock est une partie du système de timing d'osu! et se produit lorsque les timing windows de deux objets se chevauchent. Il se produit plus souvent sur les beatmaps avec des faibles valeurs de [OD](/wiki/Beatmapping/Overall_difficulty) ou de hautes valeurs de [BPM](/wiki/Beatmapping/Beats_per_minute), parce que les timing windows peuvent se chevaucher plus fréquemment.
 
-Puisque les objets dans beatmaps du mode osu!  sont censés être effacés dans l'ordre chronologique, le rejet d'entrée causé par notelock joue généralement un rôle positif :
+Puisque les objets dans les beatmaps du mode osu!  sont censés être effacés dans l'ordre dans lequel ils apparaissent, le rejet d'entrée causé par notelock joue généralement un rôle positif :
 
 - Il ne permet pas aux joueurs d'ignorer une partie de la beatmap.
 - Sur les difficultés plus élevées et plus rapides, il empêche les joueurs de perdre le rythme et de se désynchroniser.
