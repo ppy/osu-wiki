@@ -82,7 +82,7 @@ While not required, mappers were expected to reply to every mod received. A repl
 
 *Main article: [Kudosu](/wiki/Modding/Kudosu)*
 
-If a mod post was deemed useful, the mapper or a member of the QAT/BAT/BN could award it with kudosu. According to an unwritten rule, only a user's first mod post was elligible to gain kudosu. Regardless of how many suggestions were in a post or how useful it was to the mapper, the amount of kudosu received was consistent:
+If a mod post was deemed useful, the mapper or a member of the QAT/BAT/BN could award it with kudosu. According to an unwritten rule, only a user's first mod post was eligible to gain kudosu. Regardless of how many suggestions were in a post or how useful it was to the mapper, the amount of kudosu received was consistent:
 
 - 1 kudosu, under most circumstances.
 - 2 kudosu, in case the beatmap thread was inactive for more than a week. This was supposed to promote modding on older maps.
