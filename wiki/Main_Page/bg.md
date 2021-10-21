@@ -34,7 +34,7 @@ no_native_review: true
 
 # Игра
 
-Всичко от кликане върху кръгове, удряне на барабани, хващане на плодове до игра на синтезатор: ключови елементи, концепция, механики и конкурентна игра.
+Всичко от кликване върху кръгове, удряне на барабани, хващане на плодове до игра на синтезатор: ключови елементи, концепция, механики и конкурентна игра.
 
 [Видове игра](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
@@ -99,7 +99,7 @@ no_native_review: true
 
 [Турнири](/wiki/Tournaments) • [Бийтмап под прожекторите](/wiki/Beatmap_Spotlights) • [Състезания](/wiki/Contests) • [Възпитателна програма](/wiki/Community_Mentorship_Program)
 
-[Проекти](/wiki/Projects): [Представени автори](/wiki/Featured_Artists) • [osu!академия](/wiki/osu!academy) • [osu!създаване](/wiki/osu!mapping) • [osu!говори](/wiki/osu!talk)
+[Проекти](/wiki/Projects): [Представени автори](/wiki/Featured_Artists) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -108,7 +108,7 @@ no_native_review: true
 
 osu! нямаше да съществува без всички потребители помагащи с разработка, поддръжка и управление на общност: техните усилия, време и решения поддържащи играта жива и просперираща.
 
-[Екип](/wiki/People/The_Team): [Разработчици](/wiki/People/The_Team/Developers) • [Глобален модераторси екип](/wiki/People/The_Team/Global_Moderation_Team) • [Екип поддръжка](/wiki/People/The_Team/Support_Team) • [Екип оценяващ номинатори](/wiki/People/The_Team/Nomination_Assessment_Team) • [Бийтмап номинатори](/wiki/People/The_Team/Beatmap_Nominators) • [osu! възпитаници](/wiki/People/The_Team/osu!_Alumni) • [Екип проект обичани](/wiki/People/The_Team/Project_Loved_Team)
+[Екип](/wiki/People/The_Team): [Разработчици](/wiki/People/The_Team/Developers) • [Глобален модераторси екип](/wiki/People/The_Team/Global_Moderation_Team) • [Екип поддръжка](/wiki/People/The_Team/Support_Team) • [Екип оценяващ номинатори](/wiki/People/The_Team/Nomination_Assessment_Team) • [Бийтмап номинатори](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Екип на проект обичани](/wiki/People/The_Team/Project_Loved_Team)
 
 Организатори: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
