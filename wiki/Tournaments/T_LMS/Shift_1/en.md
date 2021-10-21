@@ -16,7 +16,7 @@ The **Taiko LMS: Shift Cup** (***TLMS:SC***) was a 3-on-3, 1v1 knock-out style o
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2018-04-11/2018-06-02 (09:00 UTC) |
-| Group Stage | 2018-06-09/2018-06-10 |
+| Group stage | 2018-06-09/2018-06-10 |
 | Round of 16 | 2018-06-16/2018-06-17 |
 | Quarterfinals | 2018-06-23/2018-06-24 |
 | Semifinals | 2018-06-30/2018-07-01 |
@@ -40,7 +40,7 @@ The Taiko LMS: Shift Cup was run by various osu!taiko community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
-| Map selector | ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
+| Mappool selector | ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
 | Referee | ![][flag_AU] [cactusthegreat](https://osu.ppy.sh/users/5592409), ![][flag_SE] [Eiuh](https://osu.ppy.sh/users/4653213), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_DE] [lukili846](https://osu.ppy.sh/users/6278008) |
 | Streamer | ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911), ![][flag_DE] [Heamburger](https://osu.ppy.sh/users/4705120) |
 | Commentator | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911), ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
@@ -88,7 +88,7 @@ The Taiko LMS: Shift Cup was run by various osu!taiko community members.
 | **あ** | ![][flag_JP] **[ma\_r1n](https://osu.ppy.sh/users/9950613)**, ![][flag_JP] [Hori\_159](https://osu.ppy.sh/users/3023007), ![][flag_JP] [vzk](https://osu.ppy.sh/users/8264451), ![][flag_JP] [miki308](https://osu.ppy.sh/users/7632508) |
 | **迫真osu!taiko部** | ![][flag_JP] **[nekomusya1234](https://osu.ppy.sh/users/1382717)**, ![][flag_JP] [kazu0611](https://osu.ppy.sh/users/3784062), ![][flag_JP] [ton\_411](https://osu.ppy.sh/users/11981877) |
 
-### Groups
+## Groups
 
 | Group | Top seed | High seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- | :-- |
@@ -106,9 +106,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-- | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | V E R Y S T R O N G T E A M |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | あ |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **V E R Y S T R O N G T E A M** (![][flag_MY] **[Jerry](https://osu.ppy.sh/users/605973)**, ![][flag_MY] [Xeltic Rival](https://osu.ppy.sh/users/7500364), ![][flag_AU] [rango](https://osu.ppy.sh/users/7728466), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **あ** (![][flag_JP] **[ma\_r1n](https://osu.ppy.sh/users/9950613)**, ![][flag_JP] [Hori\_159](https://osu.ppy.sh/users/3023007), ![][flag_JP] [vzk](https://osu.ppy.sh/users/8264451), ![][flag_JP] [miki308](https://osu.ppy.sh/users/7632508)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く** (![][flag_BR] **[Skull Kid](https://osu.ppy.sh/users/3044264)**, ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669), ![][flag_BR] [Brasil](https://osu.ppy.sh/users/3949268), ![][flag_BR] [Marm](https://osu.ppy.sh/users/5143353)) |
 
 ## Mappools
 
@@ -267,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Rhapsody - Epicus Furor / Emerald Sword (Midnaait) \[Eternal Journey\]](https://osu.ppy.sh/beatmapsets/780381#taiko/1639326)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (95 MB)](https://www.dropbox.com/s/ud8ofjzlqrjazax/LMSS%20-%20Group%20Stage.rar?dl=1)**
 
@@ -390,7 +390,7 @@ Sunday, 17 June 2018:
 | B1-G2 | Noko Pan Pan | 2 | **5** | **FLip-FLop** | [#1](https://osu.ppy.sh/community/matches/43418934) |
 | G1-B2 | **Pyon Pyon Usagi** | **5** | 0 | :b:erkele | [#1](https://osu.ppy.sh/community/matches/43420521) |
 
-### Group Stage
+### Group stage
 
 Saturday, 8 June 2018 and Sunday, 9 June 2018:
 
@@ -516,7 +516,7 @@ Saturday, 8 June 2018 and Sunday, 9 June 2018:
 2. Each team is allowed to select one warm-up map.
    - During Group Stage warm-ups must not exceed 4:00 minutes. In the following stages the warm-up can be up to 6 minutes long if both teams agree.
    - Offensive songs may be blocked by referees.
-3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use "!roll" once in #multiplayer to determine which team selects and bans first. Roll winner may decide if they want to ban first and pick 2nd, or pick first and ban 2nd. Bans always happen before picks.
+3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects and bans first. Roll winner may decide if they want to ban first and pick 2nd, or pick first and ban 2nd. Bans always happen before picks.
    - Each team is allowed to ban one map out of the entire map pool with the exception of the tiebreaker, which cannot be banned. Each team has to use their ban.
 4. In case when one player lasts in both teams with no Revives remaining, the tiebreaker map must be played.
 5. Results will be published via the Statistics site.

@@ -62,8 +62,6 @@ Intermediate Global Taiko Showdown 2019 fue realizado por varios miembros de la 
 - [Página de Pick'em](https://pickem.hwc.hr/tournaments/8)
 - **[Hoja de Estadísticas](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 
----
-
 ## Participantes
 
 |  | País | Miembros |
@@ -114,8 +112,6 @@ Intermediate Global Taiko Showdown 2019 fue realizado por varios miembros de la 
 | **G** | ![][flag_BR] Brasil | ![][flag_CL] Chile | ![][flag_ID] Indonesia B | ![][flag_PE] Perú |
 | **H** | ![][flag_HK] Hong Kong | ![][flag_PL] Polonia B | ![][flag_CO] Colombia | ![][flag_IE] Irlanda |
 
----
-
 ## Podium
 
 Este competencia ha llegado a su fin y los resultados se demuestran en ese podio:
@@ -125,8 +121,6 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 | ![Corona de Oro](/wiki/shared/crown-gold.png "1er lugar") | ![][flag_HK] Hong Kong |
 | ![Corona de Plata](/wiki/shared/crown-silver.png "2do lugar") | ![][flag_US] Estados Unidos A |
 | ![Corona de Bronce](/wiki/shared/crown-bronze.png "3er lugar") | ![][flag_CL] Chile |
-
----
 
 ## Mappools
 
@@ -342,8 +336,6 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 - Tiebreaker
   - **[USAO - Chrono Diver -PENDULUMs- (USAO remix) (QEpicAce) \[-Jordan-'s Muzukashii (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/980250#taiko/2051403)**
 
----
-
 ## Resultado de las partidas
 
 ### Gran Finales
@@ -475,8 +467,6 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 | F4 | Canadá ![][flag_CA] | 4 | **5** | ![][flag_DK] **Dinamarca** | [#1](https://osu.ppy.sh/community/matches/52495640) |
 | E5 | Reino Unido ![][flag_GB] | 1 | **5** | ![][flag_MX] **México** | [#1](https://osu.ppy.sh/community/matches/52489459) |
 
----
-
 ## Reglas
 
 ### Reglas Generales
@@ -583,37 +573,37 @@ All-star es un evento especial que se llevará a cabo en la semana de las Grande
 5. Una partida 4 vs 4 también se llevará a cabo con las siguientes reglas:
    - Paquete de mapas de 5 NM,HR,HD,DT,FM,EX y 1 TB (Las reglas de mods de las partidas normales aplican aquí también).
    - Los bans están prohibidos.
-   - Los mods serán escogidos aleatoriamente por un !roll (de acuerdo a una tabla) y luego el mapa será escogido gracias a una rueda.
+   - Los mods serán escogidos aleatoriamente por un `!roll` (de acuerdo a una tabla) y luego el mapa será escogido gracias a una rueda.
    - El cambio de jugadores está permitido sin limitaciones durante toda la partida.
    - Mismas reglas de desconexión que en las reglas normales aplican.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
+[flag_CH]: /wiki/shared/flag/CH.gif "Suiza"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
+[flag_DK]: /wiki/shared/flag/DK.gif "Dinamarca"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
+[flag_FR]: /wiki/shared/flag/FR.gif "Francia"
+[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
+[flag_GR]: /wiki/shared/flag/GR.gif "Grecia"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IE]: /wiki/shared/flag/IE.gif "Irlanda"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japón"
+[flag_KR]: /wiki/shared/flag/KR.gif "Sur Corea"
+[flag_MX]: /wiki/shared/flag/MX.gif "México"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malasia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
+[flag_PE]: /wiki/shared/flag/PE.gif "Perú"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
+[flag_RU]: /wiki/shared/flag/RU.gif "Federación Rusa"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwán"
+[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"

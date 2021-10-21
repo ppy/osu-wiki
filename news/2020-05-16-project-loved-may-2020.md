@@ -14,12 +14,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [fartownik](https://osu.ppy.sh/users/56917) and [Ventus](https://osu.ppy.sh/users/1986262)! This round, all osu!standard beatmap descriptions were written by [DigitalHypno](https://osu.ppy.sh/users/4384207).
 
@@ -85,7 +85,7 @@ You can't go wrong with Eurobeat music when it comes to getting hyped up, and yo
 
 It's hard to find a map that executes stream tech well, but *shadows of cats* by Arbane completely nails the execution. It's a 174 BPM Camellia song that features split streams that play exactly how you would want them to. The rhythm features a mix of various length streams, which makes this map great for both testing and training your finger control. Be sure to check this one out!
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [jyake](https://osu.ppy.sh/users/9099822) and [-Kazu-](https://osu.ppy.sh/users/920861)!
 
@@ -110,7 +110,7 @@ ll-oscar is probably one of the most experienced high-BPM mappers, with jewels l
 
 As one of the most hype maps to watch back in TWC 2019 (with KyouRekii87 doing an insane performance both times he had to play it and an FC barely escaping his grasp), we decided this one would be the perfect map to bring to this cycle. Good luck!
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -153,7 +153,7 @@ There are not really many weird gimmicks to be found in this set as it is very p
 
 A very hard map with unorthodox patterns bordering on the impossible, it is easy to miss an entire pattern and die because of the drain, let alone getting a pass!. But this challenging aspect is what makes the map so fun and increases its replay value. If you are looking for a challenge that might take you a while, then make sure to give this map a try!
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976576), [Abraxos](https://osu.ppy.sh/users/5025064), [lenpai](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

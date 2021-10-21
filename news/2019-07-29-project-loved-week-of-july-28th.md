@@ -14,12 +14,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -107,7 +107,7 @@ Many players already know of Nemis's set for *Shuffle Heaven*, but did you know 
 
 Ever wondered how speedcore would have been mapped in 2010? Wonder no more! Hailing from a time long past, it may be speedcore, but not as we know it. TQBF has a real knack for springing some incredibly creative tunes from unlikely places and with this track he turns samples from Team Fortress 2's Heavy into a fast paced banger. Coupled with old-style mapping, it takes you on a trip back to when hats were statements and refined metal was actually worth something. Fancy a trip down memory lane? Give this set a play!
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -141,7 +141,7 @@ Make your fingers dance with Shiron's *Deadly Dolly Dance*—by far one of the g
 
 Hope you studied for your tests because w_tre respect for AT&HU's  *Schur's Theorem* is going to test your taiko math skills! Ralphage filled this map to the brim with absolutely mind-bending 1/6 patterns, often consisting of many off-hand patterns and complex rhythms. Underestimate this map, and you're in for a tough one.
 
-## <a name="catch" id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -163,7 +163,7 @@ Streamy maps, which are mostly seen with modern styles, are always considered ea
 
 Even though Nucoin doesn't play osu!catch anymore, they created a very fun map when they were active: *Suki ! Yuki ! Maji Magic*. The map mostly consists of very snappy patterns which go well with the rhythm of the song. However, because of the snappy patterns it requires advanced catcher control to not miss due to mistimed dashes. Especially if you also want to go for an SS, there are some snappy hyperdashes onto sliders which might cause one or two droplet misses. Overall though, the map shouldn't be too difficult for experienced players, but it's increasingly harder with any additional mod(s), so players who think nomod is too boring can challenge themselves.
 
-## <a name="mania" id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

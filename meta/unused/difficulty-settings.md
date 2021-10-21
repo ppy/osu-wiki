@@ -17,7 +17,7 @@ The definition of this property may be changed in the near future.
 
 ### Circle Size
 
-*CircleSize* (CS) defines the size of the hit objects in the osu!standard mode.
+*CircleSize* (CS) defines the size of the hit objects in the osu! mode.
 
 The radius in osu!pixels is defined by the formula `32 * (1 - 0.7 * (CircleSize - 5) / 5)`, alternatively written `54.4 - 4.48 * CircleSize`.
 

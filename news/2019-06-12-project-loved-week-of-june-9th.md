@@ -16,12 +16,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -108,7 +108,7 @@ With Kaifin's new album "Duality" having dropped on the 7th of June ([be sure to
 
 We're back with another blast from the past, and this time it's dating all the way back to 2014! cRyo\[iceeicee\]'s "Idola no Circus" takes us back to some of their old mapping, with patterns being fairly old-style and having a few wacky slider patterns here and there; it's something to enjoy for any player that just wants to take in the song and relax, as the map only hits 5.7 stars. With the map reaching over 90 favorites, it's definitely an enjoyable one!
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -148,7 +148,7 @@ This week, we have a map by an SV mapper that Japan is proud to present: iceOC! 
 
 日本が誇るSV mapperのiceOCが手掛ける高難易度譜面が今週のpickに登場します！この譜面は、SVがとても多彩ながらも、初見でも繋ぐことが出来るような予測性があります。これは初見の人が多いマルチで投げても怒られないほどです。多分。ただ、プレイヤーのFCを阻むのは、この譜面の高密度な連続した連打です。SVと高密度なパターンを乗り越え、マッパーからフルコンボを勝ち取ることを願っています！
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -170,7 +170,7 @@ AugoEidEs is a song most osu!catch players will know very well, but this time th
 
 Another round, another first timer for the osu!catch Loved vote! Here we have Alostis with his most popular map, All I Need are Things I Like. Despite the very small quantity of maps he has created, Alostis has put out a true banger with this second map of his. Since its time of release last year, this map has been able to accumulate quite a respectable amount of favourites from players, and for good reason. The combination of the cute and funky song, together with very enjoyable jumping patterns for players on a pretty high level has made this map quite a success, with it appearing in multiplayer lobbies quite often. Mods can also very well be applied to this map, with no patterns becoming clunky with HardRock and Hidden being quite friendly thanks to the pretty high AR of 9.6. So go check it out, if you need new things to like!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

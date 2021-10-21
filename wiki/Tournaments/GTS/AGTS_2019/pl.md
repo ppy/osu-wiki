@@ -60,8 +60,6 @@ Advanced Global Taiko Showdown 2019 był prowadzony przez różnych członków s
 - [Challonge brackets](https://challonge.com/AGTS2019)
 - **[Arkusz Statystyk](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
 
----
-
 ## Uczestnicy
 
 |  | Kraj | Członkowie |
@@ -108,8 +106,6 @@ Advanced Global Taiko Showdown 2019 był prowadzony przez różnych członków s
 | **E** | ![][flag_KR] Korea Południowa | ![][flag_DE] Niemcy A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | ![][flag_VE] Wenezuela |
 | **F** | ![][flag_CA] Kanada | ![][flag_GB] ![][flag_PT] Wielka Brytania/Portugalia | ![][flag_ID] Indonezja A | ![][flag_ID] Indonezja B |
 
----
-
 ## Podium
 
 Turniej dobiegł końca i wynikiem jest następujące podium:
@@ -119,8 +115,6 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 | ![Złota Korona](/wiki/shared/crown-gold.png "1 miejsce") | ![][flag_JP] Japonia |
 | ![Srebrna Korona](/wiki/shared/crown-silver.png "2 miejsce") | ![][flag_CA] Kanada |
 | ![Brązowa Korona](/wiki/shared/crown-bronze.png "3 miejsce") | ![][flag_RU] Rosja A |
-
----
 
 ## Mappoole
 
@@ -285,8 +279,6 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 - DoubleTime
   - [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
 
----
-
 ## Wyniki Meczy
 
 ### Wielkie Finały
@@ -383,8 +375,6 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 | E4 | **Scandinavia** ![][flag_DK] ![][flag_NO] ![][flag_SE] | **5** | 0 | ![][flag_VE] Wenezuela | -win by default- |
 | E5 | Wenezuela ![][flag_VE] | 0 | **5** | ![][flag_DE] **Niemcy A** | -win by default- |
 | D2 | **Brazylia** ![][flag_BR] | **5** | 3 | ![][flag_US] Stany Zjednoczone A | [#1](https://osu.ppy.sh/community/matches/54181034) |
-
----
 
 ## Zasady
 
@@ -496,34 +486,34 @@ All-star to zabawne wydarzenie, które odbędzie się w ten sam weekend, co Wiel
    - Wymiana zawodników podczas meczu jest dozwolona bez ograniczeń.
    - Te same zasade, co normalnie kiedy gracz się rozłączy.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentyna"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazylia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "Chiny"
+[flag_DE]: /wiki/shared/flag/DE.gif "Niemcy"
+[flag_DK]: /wiki/shared/flag/DK.gif "Dania"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ekwador"
+[flag_ES]: /wiki/shared/flag/ES.gif "Hiszpania"
+[flag_FR]: /wiki/shared/flag/FR.gif "Francja"
+[flag_GB]: /wiki/shared/flag/GB.gif "Wielka Brytania"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hongkong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonezja"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japonia"
+[flag_KR]: /wiki/shared/flag/KR.gif "Korea Południowa"
+[flag_MX]: /wiki/shared/flag/MX.gif "Meksyk"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malezja"
+[flag_NL]: /wiki/shared/flag/NL.gif "Holandia"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipiny"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polska"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugalia"
+[flag_RU]: /wiki/shared/flag/RU.gif "Rosja"
+[flag_SE]: /wiki/shared/flag/SE.gif "Szwecja"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
+[flag_TH]: /wiki/shared/flag/TH.gif "Tajlandia"
+[flag_TW]: /wiki/shared/flag/TW.gif "Tajwan"
+[flag_US]: /wiki/shared/flag/US.gif "Stany Zjednoczone"
+[flag_VE]: /wiki/shared/flag/VE.gif "Wenezuela"

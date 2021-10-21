@@ -53,8 +53,6 @@ La Catch French Intermediate Cup était gérée par différents membres de la co
 - [Livestream](https://www.twitch.tv/osufrlive)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ926pSOvzcKK76hCmzBDuX6oOrbTycMpGJyMz-dPFThLay-JvaywfXPA2MzeeaL9TOvdey8YSHLWVX/pubhtml)**
 
----
-
 ## Participants
 
 | Seed | Membres |
@@ -73,8 +71,6 @@ La Catch French Intermediate Cup était gérée par différents membres de la co
 | **C** | ![][flag_BE] [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) | ![][flag_FR] [floflim](https://osu.ppy.sh/users/5954015) | ![][flag_FR] [Khalemm](https://osu.ppy.sh/users/11983416) | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
 | **D** | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) | ![][flag_FR] [Rizhen-](https://osu.ppy.sh/users/6802893) | ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 
----
-
 ## Podium
 
 La compétition est arrivée à une fin et à donné le podium ci-dessous:
@@ -84,8 +80,6 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) |
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
-
----
 
 ## Liste des maps
 
@@ -221,8 +215,6 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 - Tiebreaker
   - **[Angus And Julia Stone - Big Jet Plane (Matt Neux Remix) (WildOne94, JBHyperion) \[Elevation\]](https://osu.ppy.sh/beatmapsets/344833#fruits/761644)**
 
----
-
 ## Résultats des matches
 
 ### Grandes Finales
@@ -333,8 +325,6 @@ Lundi, 4 Mars 2019:
 | --: | :-: | :-: | :-- | :-- |
 | 4L-Chan 3 Porte ![][flag_FR] | 0 | **4** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/50018480) |
 
----
-
 ## Règlement
 
 ### Règles générales
@@ -355,8 +345,8 @@ Lundi, 4 Mars 2019:
    - Le Tiebreaker n'est pas en "forcemod", mais vous pouvez choisir un mod.
    - Les mods éligibles pour le FreeMod et le Tiebreaker sont Easy, Flashlight, HardRock et Hidden.
 
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"

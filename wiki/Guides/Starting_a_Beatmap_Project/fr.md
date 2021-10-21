@@ -8,7 +8,7 @@ Note : Cet article concerne la section du forum [Beatmap Projects](https://osu.p
 
 *Oui, le titre de votre sujet va déterminer si les autres utilisateurs d'osu! vont "yay" ou "nay" votre projet de beatmap, avant même d'avoir cliqué dessus !*
 
-Il devrait commencer par `[Discography]` / `[Album]` / `[Collab]` avant le titre. Il y a de grandes chances que votre projet soit ignoré ou déplacé dans [AW](/wiki/Glossary) si le titre du sujet manque d'informations.
+Il devrait commencer par `[Discography]` / `[Album]` / `[Collab]` avant le titre. Il y a de grandes chances que votre projet soit ignoré ou déplacé dans [AW](/wiki/Abandoned_wasteland) si le titre du sujet manque d'informations.
 
 **Exemples:**
 

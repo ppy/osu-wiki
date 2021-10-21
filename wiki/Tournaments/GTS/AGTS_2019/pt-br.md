@@ -60,8 +60,6 @@ O Advanced Global Taiko Showdown 2019 foi realizado por vários membros da comun
 - [Suportes do Challonge](https://challonge.com/AGTS2019)
 - **[Página de estatísticas](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
 
----
-
 ## Participantes
 
 |  | País | Membros |
@@ -108,8 +106,6 @@ O Advanced Global Taiko Showdown 2019 foi realizado por vários membros da comun
 | **E** | ![][flag_KR] Coreia do Sul | ![][flag_DE] Alemanha A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | ![][flag_VE] Venezuela |
 | **F** | ![][flag_CA] Canadá | ![][flag_GB] ![][flag_PT] Reino Unido/Portugal | ![][flag_ID] Indonésia A | ![][flag_ID] Indonésia B |
 
----
-
 ## Pódio
 
 Essa competição chegou ao fim e resultou no seguinte pódio:
@@ -119,8 +115,6 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 | ![Coroa de ouro](/wiki/shared/crown-gold.png "1º colocado") | ![][flag_JP] Japão |
 | ![Coroa de prata](/wiki/shared/crown-silver.png "2º colocado") | ![][flag_CA] Canadá |
 | ![Coroa de bronze](/wiki/shared/crown-bronze.png "3º colocado") | ![][flag_RU] Rússia A |
-
----
 
 ## Mappools
 
@@ -285,8 +279,6 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 - DoubleTime
   - [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
 
----
-
 ## Resultados das partidas
 
 ### Grande Final
@@ -344,47 +336,45 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 | Grupo | Sábado, 2019-08-17 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| C4 | México ![][flag_MX] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/mp/54132793) |
-| D6 | Estados Unidos B ![][flag_US] | 1 | **5** | ![][flag_US] **Estados Unidos A** | [#1](https://osu.ppy.sh/mp/54133753) |
-| A1 | **Rússia B** ![][flag_RU] | **5** | 3 | ![][flag_PH] Filipinas | [#1](https://osu.ppy.sh/mp/54141466) |
-| F5 | **Indonésia B** ![][flag_ID] | **5** | 0 | ![][flag_GB] ![][flag_PT] Reino Unido/Portugal | [#1](https://osu.ppy.sh/mp/54142329) |
-| D1 | **Rússia A** ![][flag_RU] | **5** | 2 | ![][flag_US] Estados Unidos B | [#1](https://osu.ppy.sh/mp/54143643) |
-| A5 | Malásia ![][flag_MY] | 3 | **5** | ![][flag_RU] **Rússia B** | [#1](https://osu.ppy.sh/mp/54143711) |
-| C5 | **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_FR] França | [#1](https://osu.ppy.sh/mp/54146452) |
-| A6 | Filipinas ![][flag_PH] | 1 | **5** | ![][flag_PL] **Polónia** | [#1](https://osu.ppy.sh/mp/54146455) |
-| E6 | Scandinavia ![][flag_DK] ![][flag_NO] ![][flag_SE] | 0 | **5** | ![][flag_KR] Coreia do Sul | [#1](https://osu.ppy.sh/mp/54147726) |
-| C1 | **França** ![][flag_FR] | **5** | 3 | ![][flag_MX] México | [#1](https://osu.ppy.sh/mp/54149300) |
-| C6 | México ![][flag_MX] | 1 | **5** | ![][flag_NL] **Países Baixos** | [#1](https://osu.ppy.sh/mp/54151830) |
-| E1 | **Alemanha A** ![][flag_DE] | **5** | 1 | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | [#1](https://osu.ppy.sh/mp/54152083) |
-| B5 | Chile ![][flag_CL] | 0 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/mp/54153575) |
-| C3 | **Canadá** ![][flag_CA] | **5** | 0 | ![][flag_GB] ![][flag_PT] Reino Unido/Portugal | [#1](https://osu.ppy.sh/mp/54153517) |
+| C4 | México ![][flag_MX] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/54132793) |
+| D6 | Estados Unidos B ![][flag_US] | 1 | **5** | ![][flag_US] **Estados Unidos A** | [#1](https://osu.ppy.sh/community/matches/54133753) |
+| A1 | **Rússia B** ![][flag_RU] | **5** | 3 | ![][flag_PH] Filipinas | [#1](https://osu.ppy.sh/community/matches/54141466) |
+| F5 | **Indonésia B** ![][flag_ID] | **5** | 0 | ![][flag_GB] ![][flag_PT] Reino Unido/Portugal | [#1](https://osu.ppy.sh/community/matches/54142329) |
+| D1 | **Rússia A** ![][flag_RU] | **5** | 2 | ![][flag_US] Estados Unidos B | [#1](https://osu.ppy.sh/community/matches/54143643) |
+| A5 | Malásia ![][flag_MY] | 3 | **5** | ![][flag_RU] **Rússia B** | [#1](https://osu.ppy.sh/community/matches/54143711) |
+| C5 | **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_FR] França | [#1](https://osu.ppy.sh/community/matches/54146452) |
+| A6 | Filipinas ![][flag_PH] | 1 | **5** | ![][flag_PL] **Polónia** | [#1](https://osu.ppy.sh/community/matches/54146455) |
+| E6 | Scandinavia ![][flag_DK] ![][flag_NO] ![][flag_SE] | 0 | **5** | ![][flag_KR] Coreia do Sul | [#1](https://osu.ppy.sh/community/matches/54147726) |
+| C1 | **França** ![][flag_FR] | **5** | 3 | ![][flag_MX] México | [#1](https://osu.ppy.sh/community/matches/54149300) |
+| C6 | México ![][flag_MX] | 1 | **5** | ![][flag_NL] **Países Baixos** | [#1](https://osu.ppy.sh/community/matches/54151830) |
+| E1 | **Alemanha A** ![][flag_DE] | **5** | 1 | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | [#1](https://osu.ppy.sh/community/matches/54152083) |
+| B5 | Chile ![][flag_CL] | 0 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/54153575) |
+| C3 | **Canadá** ![][flag_CA] | **5** | 0 | ![][flag_GB] ![][flag_PT] Reino Unido/Portugal | [#1](https://osu.ppy.sh/community/matches/54153517) |
 
 | Grupo | Domingo, 2019-08-18 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F6 | Indonésia A ![][flag_ID] | 3 | **5** | ![][flag_CA] **Canadá** | [#1](https://osu.ppy.sh/mp/54159212) |
-| B2 | Chile ![][flag_CL] | 0 | **5** | ![][flag_JP] **Japão** | [#1](https://osu.ppy.sh/mp/54160233) |
-| B1 | **Argentina** ![][flag_AR] | **5** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/mp/54160229) |
-| B3 | **Japão** ![][flag_JP] | **5** | 3 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/mp/54161382) |
-| B4 | Hong Kong ![][flag_HK] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/mp/54161391) |
+| F6 | Indonésia A ![][flag_ID] | 3 | **5** | ![][flag_CA] **Canadá** | [#1](https://osu.ppy.sh/community/matches/54159212) |
+| B2 | Chile ![][flag_CL] | 0 | **5** | ![][flag_JP] **Japão** | [#1](https://osu.ppy.sh/community/matches/54160233) |
+| B1 | **Argentina** ![][flag_AR] | **5** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/54160229) |
+| B3 | **Japão** ![][flag_JP] | **5** | 3 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/54161382) |
+| B4 | Hong Kong ![][flag_HK] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/54161391) |
 | F2 | Indonésia B ![][flag_ID] | 0 | **5** | ![][flag_CA] **Canadá** | -win by default- |
-| B6 | Hong Kong ![][flag_HK] | 1 | **5** | ![][flag_JP] **Japão** | [#1](https://osu.ppy.sh/mp/54165254) |
-| F4 | **Indonésia A** ![][flag_ID] | **5** | 0 | ![][flag_ID] Indonésia B | [#1](https://osu.ppy.sh/mp/54168881) |
-| A3 | **Polónia** ![][flag_PL] | **5** | 1 | ![][flag_RU] Rússia B | [#1](https://osu.ppy.sh/mp/54168865) |
-| D5 | Brasil ![][flag_BR] | 2 | **5** | ![][flag_RU] **Rússia A** | [#1](https://osu.ppy.sh/mp/54168668) |
-| A4 | **Filipinas** ![][flag_PH] | **5** | 0 | ![][flag_MY] Malásia | [#1](https://osu.ppy.sh/mp/54170118) |
-| C2 | Taiwan ![][flag_TW] | 0 | **5** | ![][flag_NL] **Países Baixos** | [#1](https://osu.ppy.sh/mp/54169919) |
+| B6 | Hong Kong ![][flag_HK] | 1 | **5** | ![][flag_JP] **Japão** | [#1](https://osu.ppy.sh/community/matches/54165254) |
+| F4 | **Indonésia A** ![][flag_ID] | **5** | 0 | ![][flag_ID] Indonésia B | [#1](https://osu.ppy.sh/community/matches/54168881) |
+| A3 | **Polónia** ![][flag_PL] | **5** | 1 | ![][flag_RU] Rússia B | [#1](https://osu.ppy.sh/community/matches/54168865) |
+| D5 | Brasil ![][flag_BR] | 2 | **5** | ![][flag_RU] **Rússia A** | [#1](https://osu.ppy.sh/community/matches/54168668) |
+| A4 | **Filipinas** ![][flag_PH] | **5** | 0 | ![][flag_MY] Malásia | [#1](https://osu.ppy.sh/community/matches/54170118) |
+| C2 | Taiwan ![][flag_TW] | 0 | **5** | ![][flag_NL] **Países Baixos** | [#1](https://osu.ppy.sh/community/matches/54169919) |
 | E2 | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_KR] **Coreia do Sul** | -win by default- |
-| E3 | **Coreia do Sul** ![][flag_KR] | **5** | 2 | ![][flag_DE] Alemanha A | [#1](https://osu.ppy.sh/mp/54171395) |
-| F1 | Reino Unido/Portugal ![][flag_GB] ![][flag_PT] | 4 | **5** | ![][flag_ID] **Indonésia A** | [#1](https://osu.ppy.sh/mp/54171441) |
-| A2 | Malásia ![][flag_MY] | 0 | **5** | ![][flag_PL] **Polónia** | [#1](https://osu.ppy.sh/mp/54171560) |
-| D3 | Estados Unidos A ![][flag_US] | 2 | **5** | ![][flag_RU] **Rússia A** | [#1](https://osu.ppy.sh/mp/54171222) |
-| C3 | **Países Baixos** ![][flag_NL] | **5** | 1 | ![][flag_FR] França | [#1](https://osu.ppy.sh/mp/54173902) |
-| D4 | Estados Unidos B ![][flag_US] | 4 | **5** | ![][flag_BR] **Brasil** | [#1](https://osu.ppy.sh/mp/54175298) |
+| E3 | **Coreia do Sul** ![][flag_KR] | **5** | 2 | ![][flag_DE] Alemanha A | [#1](https://osu.ppy.sh/community/matches/54171395) |
+| F1 | Reino Unido/Portugal ![][flag_GB] ![][flag_PT] | 4 | **5** | ![][flag_ID] **Indonésia A** | [#1](https://osu.ppy.sh/community/matches/54171441) |
+| A2 | Malásia ![][flag_MY] | 0 | **5** | ![][flag_PL] **Polónia** | [#1](https://osu.ppy.sh/community/matches/54171560) |
+| D3 | Estados Unidos A ![][flag_US] | 2 | **5** | ![][flag_RU] **Rússia A** | [#1](https://osu.ppy.sh/community/matches/54171222) |
+| C3 | **Países Baixos** ![][flag_NL] | **5** | 1 | ![][flag_FR] França | [#1](https://osu.ppy.sh/community/matches/54173902) |
+| D4 | Estados Unidos B ![][flag_US] | 4 | **5** | ![][flag_BR] **Brasil** | [#1](https://osu.ppy.sh/community/matches/54175298) |
 | E4 | **Scandinavia** ![][flag_DK] ![][flag_NO] ![][flag_SE] | **5** | 0 | ![][flag_VE] Venezuela | -win by default- |
 | E5 | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_DE] **Alemanha A** | -win by default- |
-| D2 | **Brasil** ![][flag_BR] | **5** | 3 | ![][flag_US] Estados Unidos A | [#1](https://osu.ppy.sh/mp/54181034) |
-
----
+| D2 | **Brasil** ![][flag_BR] | **5** | 3 | ![][flag_US] Estados Unidos A | [#1](https://osu.ppy.sh/community/matches/54181034) |
 
 ## Ruleset
 
@@ -496,34 +486,34 @@ O All-star é um evento divertido que acontecerá no mesmo final de semana da Gr
    - É permitido trocar jogadores sem restrições durante uma partida
    - Em relação à desconexões, se aplicam as mesmas regras das partidas normais.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Áustria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Austrália"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
+[flag_DK]: /wiki/shared/flag/DK.gif "Dinamarca"
+[flag_EC]: /wiki/shared/flag/EC.gif "Equador"
+[flag_ES]: /wiki/shared/flag/ES.gif "Espanha"
+[flag_FR]: /wiki/shared/flag/FR.gif "França"
+[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japão"
+[flag_KR]: /wiki/shared/flag/KR.gif "Coreia do Sul"
+[flag_MX]: /wiki/shared/flag/MX.gif "México"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malásia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
+[flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polônia"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Federação Russa"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suécia"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
+[flag_TH]: /wiki/shared/flag/TH.gif "Tailândia"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

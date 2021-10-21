@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2017 logo](img/logo.jpg)
 
-The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko 
 | --: | :-- |
 | Registration phase | 2017-02-07/2017-02-19 |
 | Live drawings | 2017-03-05 (14:00 UTC) |
-| Group Stage | 2017-03-11/2017-03-12 |
+| Group stage | 2017-03-11/2017-03-12 |
 | Round of 16 | 2017-03/19 |
 | Quarterfinals | 2017-03-25/2017-03-26 |
 | Semifinals | 2017-04-01/2017-04-02 |
@@ -37,7 +37,7 @@ The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko 
 
 The osu!taiko World Cup 2017 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128), ![][flag_FR] [Sayaka-](https://osu.ppy.sh/users/398275) |
@@ -79,11 +79,13 @@ The osu!taiko World Cup 2017 was run by various community members.
 | ![][flag_US] | **United States** | **[Michiyo](https://osu.ppy.sh/users/5991961)**, [Catgirl](https://osu.ppy.sh/users/2771995), [Das](https://osu.ppy.sh/users/3165416), [JDrago14](https://osu.ppy.sh/users/7690078), [Protonori](https://osu.ppy.sh/users/6049990), [Shyguy](https://osu.ppy.sh/users/178038) |
 | ![][flag_VE] | **Venezuela** | **[JessiChan](https://osu.ppy.sh/users/1368025)**, [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), [\[\_LordEnder\_\]](https://osu.ppy.sh/users/4609767), [Satoruu](https://osu.ppy.sh/users/2243452), [Seok Hyejin](https://osu.ppy.sh/users/2114483), [Thousand](https://osu.ppy.sh/users/2852968) |
 
-![TWC 2017 podium](img/podium.jpg)
+![](img/bracket.jpg "TWC 2017 bracket")
 
-![TWC 2017 bracket](img/bracket.jpg)
+## Podium
 
-## Mappool
+![](img/podium.jpg "TWC 2017 podium")
+
+## Mappools
 
 ### Finals
 
@@ -194,7 +196,7 @@ The osu!taiko World Cup 2017 was run by various community members.
 - Tiebreaker
   - **[goreshit - looming shadow of a tree long gone (grumd) \[Loctav's Oni\] (Any)](https://osu.ppy.sh/beatmapsets/90803#taiko/344834)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (81 MB)](https://www.mediafire.com/file/vvi1c5w7px99mf9/TWC_2017_Group_Stage.rar)**
 
@@ -303,7 +305,7 @@ Sunday, 19 March 2017:
 | **United States** ![][flag_US] | **5** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/31889735) |
 | Chile ![][flag_CL] | 0 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/31891726) |
 
-### Group Stage
+### Group stage
 
 Saturday, 11 March 2017:
 
@@ -396,24 +398,31 @@ Sunday, 12 March 2017:
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 3 teams.
    - This may change depending on how many teams are accepted into the competition at the end.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
    - Most maps won.
    - Have higher `∑{(total score difference) / (maximum score)}`.
    - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
-   | Quarter-finals | I, J, K, L & R, S, T, U |
-   | Semi-finals | M, N & V, W, X, Y, Z, AA |
-   | Finals - Week 1 | O & AB, AC, AD, AE |
-   | Finals - Week 2 | P, Q |
+   | Quarterfinals | I, J, K, L & R, S, T, U |
+   | Semifinals | M, N & V, W, X, Y, Z, AA |
+   | Finals week 1 | O & AB, AC, AD, AE |
+   | Finals week 2 | P, Q |
+
 7. **Winning conditions:**
    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
    - In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
@@ -428,9 +437,9 @@ Sunday, 12 March 2017:
 2. Players are free to select up to two warm-up maps. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Results of the Group Stage will be published via a Statistics sheet.
@@ -482,7 +491,7 @@ Sunday, 12 March 2017:
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"

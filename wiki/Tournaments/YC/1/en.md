@@ -7,7 +7,7 @@ tags:
 
 ![YC logo](img/logo.jpg)
 
-The **Yuri Cup** (***YC***) was an international 4-digit 4v4 double-elimination osu! tournament hosted by ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) and ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970). Each team of 8 players battled against other teams from around the globe. This was the first installment of the Yuri Cup.
+The **Yuri Cup** (***YC***) was an international 4-digit 4v4 double-elimination osu! tournament hosted by ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) and ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970). Each team of 8 players battled against other teams from around the globe. This was the first instalment of the Yuri Cup.
 
 ## Tournament schedule
 
@@ -38,7 +38,7 @@ The Yuri Cup was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) |
-| Map selector | ![][flag_US] [bor](https://osu.ppy.sh/users/4116573), ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_US] [Izzz](https://osu.ppy.sh/users/6725659), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Mayflower](https://osu.ppy.sh/users/10302848), ![][flag_PT] [My Angel Maki](https://osu.ppy.sh/users/11610772), ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332) |
+| Mappool selector | ![][flag_US] [bor](https://osu.ppy.sh/users/4116573), ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_US] [Izzz](https://osu.ppy.sh/users/6725659), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Mayflower](https://osu.ppy.sh/users/10302848), ![][flag_PT] [My Angel Maki](https://osu.ppy.sh/users/11610772), ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332) |
 | Referee | ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_NO] [Ferretface](https://osu.ppy.sh/users/9703202), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_US] [moof](https://osu.ppy.sh/users/8457202), ![][flag_US] [sriracha rice](https://osu.ppy.sh/users/11922986), ![][flag_NL] [Stan](https://osu.ppy.sh/users/11212255), ![][flag_AU] [Thunderbird](https://osu.ppy.sh/users/3026554), ![][flag_FR] [Yorumi](https://osu.ppy.sh/users/2458399) |
 | Commentator | ![][flag_CA] [BlastTheKidd](https://osu.ppy.sh/users/3988240), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_GR] [JackPaX](https://osu.ppy.sh/users/11226645), ![][flag_US] [moof](https://osu.ppy.sh/users/8457202), ![][flag_PL] [Shymshym](https://osu.ppy.sh/users/8631683) |
 | Streamer | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_PL] [Shymshym](https://osu.ppy.sh/users/8631683) |
@@ -112,9 +112,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Corim's Bad Dream |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | a la verga |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Rtzero x Rtzer0 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Corim's Bad Dream** (![][flag_NO] **[YokesPai](https://osu.ppy.sh/users/6399568)**, ![][flag_RU] [KomachiBaka](https://osu.ppy.sh/users/6155320), ![][flag_IT] [Carretto](https://osu.ppy.sh/users/3801459), ![][flag_US] [M I L E S](https://osu.ppy.sh/users/6036351), ![][flag_BE] [5joshi](https://osu.ppy.sh/users/4279650), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088), ![][flag_US] [Vertarix](https://osu.ppy.sh/users/7315668)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **a la verga** (![][flag_UY] **[daanit](https://osu.ppy.sh/users/6159669)**, ![][flag_FR] [VROUM CV VITE](https://osu.ppy.sh/users/7630971), ![][flag_NL] [taku](https://osu.ppy.sh/users/684433), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178), ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366), ![][flag_BR] [Despairy](https://osu.ppy.sh/users/7339984), ![][flag_US] [conradmittn](https://osu.ppy.sh/users/8208289), ![][flag_US] [Zanik](https://osu.ppy.sh/users/5052673)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Rtzero x Rtzer0** (![][flag_SG] **[Rtzer0](https://osu.ppy.sh/users/5407620)**, ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_SG] [Raindrop](https://osu.ppy.sh/users/1155871), ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132), ![][flag_SG] [Rtzero](https://osu.ppy.sh/users/9262462), ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938)) |
 
 ## Mappools
 
@@ -576,8 +576,8 @@ Sunday, 1 March 2020:
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_RO]: /wiki/shared/flag/RO.gif "Romania"

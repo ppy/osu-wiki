@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2016 logo](img/logo.jpg)
 
-The **osu!catch World Cup 2016** (***CWC 2016***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth installment of the osu!catch World Cup.
+The **osu!catch World Cup 2016** (***CWC 2016***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!catch World Cup 2016** (***CWC 2016***) was a country-based osu!catch 
 | --: | :-- |
 | Registration phase | 2016-04-12/2016-04-30 |
 | Live drawings | 2016-05-15 (14:00 UTC) |
-| Group Stage | 2016-05-21/2016-05-22 |
+| Group stage | 2016-05-21/2016-05-22 |
 | Round of 16 | 2016-05-28 |
 | Quarterfinals | 2016-06-05 |
 | Semifinals | 2016-06-11/2016-06-12 |
@@ -37,7 +37,7 @@ The **osu!catch World Cup 2016** (***CWC 2016***) was a country-based osu!catch 
 
 The osu!catch World Cup 2016 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) |
@@ -96,9 +96,11 @@ The osu!catch World Cup 2016 was run by various community members.
 | ![][flag_ID] Indonesia | ![][flag_MX] Mexico | ![][flag_HK] Hong Kong | ![][flag_JP] Japan | ![][flag_PH] Philippines | ![][flag_RU] Russian Federation | ![][flag_CA] Canada | ![][flag_SE] Sweden |
 | ![][flag_PL] Poland | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_CL] Chile | ![][flag_FR] France | ![][flag_DE] Germany | ![][flag_AR] Argentina | ![][flag_CN] China |
 
-![CWC 2016 podium](img/podium.jpg)
+![](img/bracket.jpg "CWC 2016 bracket")
 
-![CWC 2016 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "CWC 2016 podium")
 
 ## Mappools
 
@@ -220,7 +222,7 @@ The osu!catch World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[Halozy - Paranoid Lost (Kyuare) \[Lost Grapes\]](https://osu.ppy.sh/beatmapsets/307818#fruits/688531)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (140 MB)](https://www.mediafire.com/download/zj5ayqd22x9cq30/CWC_2106_Group_Stage.rar)**
 
@@ -327,7 +329,7 @@ Saturday, 28 May 2016:
 | Mexico ![][flag_MX] | 0 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/25200513) |
 | Canada ![][flag_CA] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/25202284) |
 
-### Group Stage
+### Group stage
 
 Saturday, 21 May 2016:
 
@@ -443,24 +445,31 @@ Sunday, 22 May 2016:
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change according to the final amount of formed teams.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
    - Most maps won.
    - Have higher `∑{(total score difference) / (maximum score)}`.
    - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | :-- | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
-   | Quarter-finals | I, J, K, L & R, S, T, U |
-   | Semi-finals | M, N & V, W, X, Y, Z,AA |
+   | Quarterfinals | I, J, K, L & R, S, T, U |
+   | Semifinals | M, N & V, W, X, Y, Z,AA |
    | Finals | O & AB, AC, AD, AE |
    | Grand Finals | P, Q |
+
 7. **Winning conditions:**
    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
    - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
@@ -476,7 +485,7 @@ Sunday, 22 May 2016:
 3. Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
    - Both vetos must always be used.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use `!roll` once in \#multiplayer.
+5. Each captain must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` starts picking the first beatmap of the match.
    - The loser of the `!roll` starts banning two beatmaps.
 6. Captains may pick freely from any bracket.
@@ -531,7 +540,7 @@ Sunday, 22 May 2016:
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"

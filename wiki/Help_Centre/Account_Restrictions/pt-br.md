@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 2b3040251f1f4876dba46e9c7e01045a7c8ccfc0
 ---
 
 # Restrições de conta
@@ -103,7 +105,7 @@ Todos os emails enviados para o endereço de revisão de recurso serão investig
 
 Por favor entenda que enviar um email para esse endereço apenas garante uma segunda olhada/resposta inicial para seu recurso, isso não garante uma mudança em quaisquer resultados se você for pego violando as expectativas envolvidas no processo de recurso.
 
-**Nós responderemos a solicitações de revisão de recurso/investigação apenas via emails enviados para [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Por favor não tente entrar em contato com os membros do osu!team (ou membros das equipes voluntárias) via Twitter, Discord, ou qualquer outra plataforma afim de contornar essa política - eles não podem te ajudar.
+**Nós responderemos a solicitações de revisão de recurso/investigação apenas via emails enviados para [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Por favor não tente entrar em contato com os membros da nossa equipe (ou membros das equipes voluntárias) via Twitter, Discord, ou qualquer outra plataforma afim de contornar essa política - eles não podem te ajudar.
 
 ## Razões comuns de restrição e seus cooldowns
 

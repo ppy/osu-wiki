@@ -4,7 +4,7 @@
 
 ![Componer para osu!mania usando la captura de pantalla de osu! (Solo el menú superior externo no se muestra)](img/ComposeMania.jpg "Componer para osu!mania usando la captura de pantalla de osu! (Solo el menú superior externo no se muestra)")
 
-**Componer** es el lugar donde un [mapper](/wiki/Glossary) pasa la mayor parte del tiempo mapeando su diseño con respecto a la línea de tiempo después de configurar las Secciones de BPM y Sincronización. Este es también el lugar donde los jugadores pueden practicar una dificultad clasificada e inspeccionar su diseño similar al modo de entrenamiento de DDR.
+**Componer** es el lugar donde un [mapper](/wiki/Beatmapping) pasa la mayor parte del tiempo mapeando su diseño con respecto a la línea de tiempo después de configurar las Secciones de BPM y Sincronización. Este es también el lugar donde los jugadores pueden practicar una dificultad clasificada e inspeccionar su diseño similar al modo de entrenamiento de DDR.
 
 Debido a las diferentes necesidades en el estilo de mapeo (osu! Es muy flexible, permitiendo mucho espacio para la creatividad mientras osu!mania está restringido a la clave seleccionada, exigiendo una precisión extrema para evocar los sonidos clave armónicamente), al editor de osu! y al editor osu!mania-only se les da su propia sección de características. Puedes acceder fácilmente al editor de osu!mania estableciendo su dificultad en osu!mania-only.
 
@@ -17,6 +17,7 @@ Comenzando desde izquierda a derecha y de arriba hacia abajo)
 ### Esquina superior izquierda (Linea de Tiempo de los Objetos golpeables)
 
 <!-- TODO find the article that links to this and possibly redirect to here instead (why is this shared?) -->
+
 ![Linea de Tiempo de los Objetos golpeables](/wiki/shared/BE_NTL.jpg "Linea de Tiempo de los Objetos golpeables")
 
 **Muestra la línea de tiempo para los objetos golpeables con respecto al Divisor de ritmo y la marca de tiempo.**
@@ -91,7 +92,7 @@ El botón de **Insertar descanso** iniciará / detendrá el "descanso" en la mar
 
 **Su kit de herramientas de construcción, hecho para DIY ("Do it yourself": hágalo usted mismo).**
 
-**Ten en cuenta que en las notas predeterminadas de osu!standard, los sonidos de golpe funcionan de manera diferente que en osu!mania.**
+**Ten en cuenta que en las notas predeterminadas de osu!, los sonidos de golpe funcionan de manera diferente que en osu!mania.**
 
 - Al poner aplausos en una nota, se reproducirá el sonido `hitclap` + `hitnormal` al golpear mientras está en osu!mania: solo se reproducirá el sonido de `hitclap` al golpear
 

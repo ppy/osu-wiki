@@ -9,7 +9,7 @@ tags:
 
 ![AGTS 2020 logo](img/logo.jpg)
 
-The **Advanced Global Taiko Showdown 2020** (***AGTS 2020***) was an Advanced worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the second installment of the Advanced Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Advanced Global Taiko Showdown 2020** (***AGTS 2020***) was an Advanced worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the second instalment of the Advanced Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **Advanced Global Taiko Showdown 2020** (***AGTS 2020***) was an Advanced wo
 | Registration phase | 2020-08-16/2020-08-30 |
 | Screening and team creations | 2020-08-30/2020-09-06 |
 | Qualifiers | 2020-09-12/2020-09-13 |
-| Group Stage | 2020-09-19/2020-09-20 |
+| Group stage | 2020-09-19/2020-09-20 |
 | Round of 16 | 2020-09-26/2020-09-27 |
 | Quarterfinals | 2020-10-03/2020-10-04 |
 | Semifinals | 2020-10-10/2020-10-11 |
@@ -30,9 +30,9 @@ The **Advanced Global Taiko Showdown 2020** (***AGTS 2020***) was an Advanced wo
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year and 4 months of osu!supporter tag, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 year of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 6 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year and 4 months of osu!supporter, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 year of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 6 months of osu!supporter |
 
 Generous donations from ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930) and ![][flag_US] [Horo](https://osu.ppy.sh/users/992439) helped fund some of the prizes.
 
@@ -65,7 +65,7 @@ The Advanced Global Taiko Showdown 2020 was run by various community members.
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
 - [Challonge bracket](https://challonge.com/AGTS2020)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/46/) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/46) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
@@ -320,7 +320,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Laur - Sound Chimera (KTYN) \[Mind Chimera (GTS edit)\]](https://osu.ppy.sh/beatmapsets/1060819#taiko/2623138)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (70 MB)](https://mega.nz/file/ElMylCjS#RkGwhO9M9em9RpMmiQNwsIihasufvIGZDJgRYlgum7I)**
 
@@ -462,7 +462,7 @@ Sunday, 27 September 2020:
 | Hispanic Alliance A ![][flag_EC] ![][flag_CO] | 1 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/67573438) |
 | **Canada** ![][flag_CA] | **6** | 4 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/67578054) |
 
-### Group Stage
+### Group stage
 
 Saturday, 19 September 2020:
 

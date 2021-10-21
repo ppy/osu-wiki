@@ -7,7 +7,7 @@ tags:
 
 ![SAS logo](img/logo.png)
 
-The **Score Attack Showdown** (***SAS***) is a worldwide 1v1 osu!mania 4K tournament hosted by ![][flag_US] [KamaTheCrimson](https://osu.ppy.sh/users/6362259). The tournament features a variety of customly made maps from the most unique and veteran osu!mania 4K mappers in its mappools. It is the first installment of the Score Attack Showdown.
+The **Score Attack Showdown** (***SAS***) was a worldwide 1v1 osu!mania 4K tournament hosted by ![][flag_US] [KamaTheCrimson](https://osu.ppy.sh/users/6362259). The tournament featured a variety of customly made maps from the most unique and veteran osu!mania 4K mappers in its mappools. It was the first instalment of the Score Attack Showdown.
 
 ## Tournament schedule
 
@@ -19,19 +19,19 @@ The **Score Attack Showdown** (***SAS***) is a worldwide 1v1 osu!mania 4K tourna
 | Round 2 | 2020-11-02/2020-11-07 |
 | Round 3 | 2020-11-09/2020-11-14 |
 | Round 4 | 2020-11-16/2020-11-21 |
-| Final showdown | 2020-11-23/2020-11-28 |
+| Round 5 | 2020-11-23/2020-11-28 |
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, $100 USD |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $50 USD or 2 years of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $25 USD or 10 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $100 USD |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $50 USD |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $25 USD |
 
 ## Organisation
 
-The Score Attack Showdown is run by various community members.
+The Score Attack Showdown was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -190,7 +190,26 @@ The Score Attack Showdown is run by various community members.
 | #6,162 | ![][flag_AU] [\[LG\]aurusei](https://osu.ppy.sh/users/14430622) |
 | #6,748 | ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) |
+
 ## Mappools
+
+### Round 5
+
+**[Download the mappack here! (35 MB)](https://cdn.discordapp.com/attachments/711778005399109687/780169704618721300/SAS_Round_5.zip)**
+
+- Hybrid: [Camellia - B L A C K - R A Y (Toaph Daddy) \[D A R K - M A G I C I A N x1.05\]](https://osu.ppy.sh/beatmapsets/1306124#mania/2707896)
+- Tech: [Frums - Quantum Distress Signal (Valedict) \[Hysteria\]](https://osu.ppy.sh/beatmapsets/1233691#mania/2564612)
+- LN: [KUMOKIRI - Shippujinrai (\[Crz\]Crysarlene) \[Fulguration\]](https://osu.ppy.sh/beatmapsets/1306632#mania/2709105)
+- Wildcard: [The Dillinger Escape Plan - Limerent Death (Valedict) \[Stained Glass\]](https://osu.ppy.sh/beatmapsets/1306724#mania/2709255)
 
 ### Round 4
 
@@ -231,6 +250,31 @@ The Score Attack Showdown is run by various community members.
 ## Match results
 
 *Note: All scores listed are the sum of scores from each mappool. More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0).*
+
+### Round 5
+
+| Position | Player | Score |
+| :-- | :-- | --: |
+| #1 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | 3,959,723 |
+| #2 | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | 3,957,339 |
+| #3 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | 3,945,572 |
+| #4 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | 3,912,319 |
+
+### Round 4
+
+Only the top 4 players advance to the next round.
+
+| Position | Player | Score |
+| :-- | :-- | --: |
+| #1 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | 3,980,949 |
+| #2 | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | 3,978,612 |
+| #3 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | 3,977,666 |
+| #4 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | 3,969,820 |
+| #5 | ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992) | 3,952,460 |
+| #6 | ![][flag_US] [mashu](https://osu.ppy.sh/users/12028216) | 3,948,095 |
+| #7 | ![][flag_GB] [AirSpan](https://osu.ppy.sh/users/5063207) | 0 |
+| #8 | ![][flag_PH] [Chuck](https://osu.ppy.sh/users/11517895) | 0 |
+| #9 | ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414) | 0 |
 
 ### Round 3
 

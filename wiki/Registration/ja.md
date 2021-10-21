@@ -10,12 +10,13 @@
    - Usernameには、最大15文字のユーザー名を入力します。英数字（`a-z`、`A-Z`、`0-9`）、アンダースコア（`_`）、角括弧（`[`および`]`）、ダッシュ（`-`）、スペース（` `）のみを使用できます。
    - Email Addressには、あなたの電子メールアドレスを入力します。これはパスワードのリセット、確認コードを送信するために使用されるので、使い捨てのメールアドレスを使用しないでください。
    - Passwordには、パスワードを入力してください。８文字以上のパスワードを入力する必要があります。
+
 3. これが完了したら、`1. Create my account!`をクリックします。自動的にログインされます。
 
 ## 次はどうすればいいですか？
 
 [ルール](/wiki/Rules)を注意深く読むことを忘れないでください！
 
-これが完了すると、リズムアドベンチャーを開始する準備が整いました！[ビートマップを追加](/wiki/Installation#adding-beatmapsets)して遊んだり、[スキンを作成](/wiki/Skinning)したり、[ビートマップを作成](/wiki/Beatmapping)したりできます。[Introductions サブフォーラム](https://osu.ppy.sh/community/forums/8)で「こんにちは」と挨拶することもできます。
+これが完了すると、リズムアドベンチャーを開始する準備が整いました！[ビートマップを追加](/wiki/Installation#adding-beatmaps)して遊んだり、[スキンを作成](/wiki/Skinning)したり、[ビートマップを作成](/wiki/Beatmapping)したりできます。[Introductions サブフォーラム](https://osu.ppy.sh/community/forums/8)で「こんにちは」と挨拶することもできます。
 
 ゲーム内でさらにヘルプが必要な場合は、チャットコンソールを開いて（ゲーム内で`F8`もしくは`F9`を押す）`/join help`と入力し[Internet Relay Chat](/wiki/Internet_Relay_Chat)（IRC）の#helpで質問することができます。[Help サブフォーラム](https://osu.ppy.sh/community/forums/5)に質問を投稿することもできます。

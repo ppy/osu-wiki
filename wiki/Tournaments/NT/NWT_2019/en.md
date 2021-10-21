@@ -1,23 +1,22 @@
 ---
 tags:
-- nik's Winter Tour 2019
-- NWT 2019
-- NWT2019
+  - NWT 2019
+  - NWT2019
 ---
 
 # nik's Winter Tour 2019
 
-![NWT 2019 Logo](img/logo.jpg)
+![NWT 2019 logo](img/logo.jpg)
 
-The **nik's Winter Tour 2019** (***NWT 2019***) was a worldwide double-elimination one-on-one osu! tournament hosted by ![][flag_NL] [nikolomara](https://osu.ppy.sh/users/10077264). It was the first installment of the nik's Tournaments series.
+The **nik's Winter Tour 2019** (***NWT 2019***) was a worldwide 1v1 double-elimination osu! tournament hosted by ![][flag_NL] [nikolomara](https://osu.ppy.sh/users/10077264). It was the first instalment of the nik's Tournaments series.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-12-16/2019-01-07 |
-| Live Drawings | 2019-01-13 (19:00 UTC) |
-| Qualifiers Stage | 2019-01-19/2019-01-20 |
+| Registration phase | 2018-12-16/2019-01-07 |
+| Live drawings | 2019-01-13 (19:00 UTC) |
+| Qualifiers stage | 2019-01-19/2019-01-20 |
 | Round of 32 | 2019-01-26/2019-01-27 |
 | Round of 16 | 2019-01-29/2019-02-11 |
 | Quarterfinals | 2019-02-16/2019-02-17 |
@@ -28,27 +27,27 @@ The **nik's Winter Tour 2019** (***NWT 2019***) was a worldwide double-eliminati
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 4 months osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
-![NWT 2019 Winner Badge](img/badge.jpg)
+![](img/badge.jpg "NWT 2019 winner badge")
 
 ## Organisation
 
-The nik's Winter Tour 2019 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The nik's Winter Tour 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NL] [nikolomara](https://osu.ppy.sh/users/10077264) |
 | Admin | ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998) |
-| Map Selector | ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998) |
+| Mappool selector | ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998) |
 | Referee | ![][flag_FR] [\[ Mimir \]](https://osu.ppy.sh/users/7382734), ![][flag_DE] [Arekkuso](https://osu.ppy.sh/users/9287979), ![][flag_PL] [Asasyn01](https://osu.ppy.sh/users/8013323), ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_KR] [Hal\[Cyon\]](https://osu.ppy.sh/users/9740893), ![][flag_DE] [hi-def](https://osu.ppy.sh/users/10697191), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_AU] [loler123903](https://osu.ppy.sh/users/8034438), ![][flag_SE] [Melwoine](https://osu.ppy.sh/users/12091109), ![][flag_NL] [nikolomara](https://osu.ppy.sh/users/10077264), ![][flag_US] [Poke\_player](https://osu.ppy.sh/users/6502279), ![][flag_GB] [Snipe The Neko](https://osu.ppy.sh/users/8638531), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840), ![][flag_RU] [Xassie](https://osu.ppy.sh/users/7958911) |
 | Streamer | ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840) |
 | Commentator | ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_DE] [hi-def](https://osu.ppy.sh/users/10697191), ![][flag_NL] [Just Lucan](https://osu.ppy.sh/users/5007943), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840), ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383) |
 | Designer | ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847) |
 | Statistician | ![][flag_NL] [nikolomara](https://osu.ppy.sh/users/10077264) |
-| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -57,8 +56,6 @@ The nik's Winter Tour 2019 was run by various community members by distributing 
 - [Livestream](https://www.twitch.tv/niks_tournaments)
 - [NWT 2019 Challonge brackets](https://challonge.com/NWT2019)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaXkpCBB_gcPcEEOq93pmLHiOTUf_3n1LYju7NbGF61h5QK19CTuuP2BFBdaOPL-d2UWb06i6iD-wD/pubhtml)**
-
----
 
 ## Participants
 
@@ -69,19 +66,15 @@ The nik's Winter Tour 2019 was run by various community members by distributing 
 | Low | ![][flag_US] [F1shbowl](https://osu.ppy.sh/users/10129737), ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581), ![][flag_US] [lahwraN](https://osu.ppy.sh/users/6995880), ![][flag_CA] [Xeli](https://osu.ppy.sh/users/4947796), ![][flag_AT] [Snajper](https://osu.ppy.sh/users/4211027), ![][flag_US] [themaster156](https://osu.ppy.sh/users/3845254), ![][flag_PL] [bart6003](https://osu.ppy.sh/users/2100107), ![][flag_AU] [Pictures](https://osu.ppy.sh/users/4578623) |
 | Unseeded | ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_DE] [Kawaii Kaneki](https://osu.ppy.sh/users/3344333), ![][flag_CA] [deflateddolphin](https://osu.ppy.sh/users/10184558), ![][flag_NO] [Defectum](https://osu.ppy.sh/users/8631719), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_RU] [Nentse](https://osu.ppy.sh/users/8559485), ![][flag_FI] [Roba](https://osu.ppy.sh/users/5210561), ![][flag_VN] [Mayukaki](https://osu.ppy.sh/users/1487263) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Fish-](https://osu.ppy.sh/users/3318654) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [loveleft](https://osu.ppy.sh/users/9240047) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685) |
-
----
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Fish-](https://osu.ppy.sh/users/3318654) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [loveleft](https://osu.ppy.sh/users/9240047) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685) |
 
 ## Mappools
 
@@ -218,59 +211,75 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Dancing Dolls - monochrome(Asterisk Makina Remix) (monstrata) \[Scythe\]](https://osu.ppy.sh/beatmapsets/349445#osu/770576)**
 
----
-
-## Match Results
+## Match results
 
 ### Finals
 
-| Saturday, 2019-03-02 |  |  |  |  |
+Saturday, 2 March 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Fish-** ![][flag_US] | **7** | 0 | ![][flag_DE] \[Lucky\] | [#1](https://osu.ppy.sh/community/matches/49975374) |
 
-| Sunday, 2019-03-03 |  |  |  |  |
+Sunday, 3 March 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **loveleft** ![][flag_AU] | **7** | 3 | ![][flag_RU] Liswiera | [#1](https://osu.ppy.sh/community/matches/49993367) |
 
-| Saturday, 2019-03-09 |  |  |  |  |
+Saturday, 9 March 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | \[Lucky\] ![][flag_DE] | 1 | **7** | ![][flag_AU] **loveleft** | [#1](https://osu.ppy.sh/community/matches/50138167) |
 
-| Sunday, 2019-03-10 |  |  |  |  |
+Sunday, 10 March 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Fish-** ![][flag_US] | **7** | 3 | ![][flag_AU] loveleft | [#1](https://osu.ppy.sh/community/matches/50184333) |
 
 ### Semifinals
 
-| Saturday, 2019-02-23 |  |  |  |  |
+Saturday, 23 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **\[Lucky\]** ![][flag_DE] | **6** | 0 | ![][flag_AU] loveleft | -win by default- |
+| **\[Lucky\]** ![][flag_DE] | **6** | 0 | ![][flag_AU] loveleft | *win by default* |
 | **\_kyuu** ![][flag_TW] | **6** | 2 | ![][flag_PL] lokser | [#1](https://osu.ppy.sh/community/matches/49798965) |
 | **Fish-** ![][flag_US] | **6** | 4 | ![][flag_RU] Liswiera | [#1](https://osu.ppy.sh/community/matches/49802732) |
 | **YoshiLover456** ![][flag_US] | **6** | 2 | ![][flag_PL] bart6003 | [#1](https://osu.ppy.sh/community/matches/49806211) |
 
-| Sunday, 2019-02-24 |  |  |  |  |
+Sunday, 24 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **loveleft** ![][flag_AU] | **6** | 5 | ![][flag_TW] \_kyuu | [#1](https://osu.ppy.sh/community/matches/49823110) |
 
-| Saturday, 2019-03-02 |  |  |  |  |
+Saturday, 2 March 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Liswiera** ![][flag_RU] | **6** | 4 | ![][flag_US] YoshiLover456 | [#1](https://osu.ppy.sh/community/matches/49939657) |
 
 ### Quarterfinals
 
-| Saturday, 2019-02-16 |  |  |  |  |
+Saturday, 16 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Tuco ![][flag_US] | 2 | **5** | ![][flag_DE] **Menty** | [#1](https://osu.ppy.sh/community/matches/49605900) |
 | **Fish-** ![][flag_US] | **5** | 1 | ![][flag_TW] \_kyuu | [#1](https://osu.ppy.sh/community/matches/49622148) |
 | San Diego ![][flag_US] | 0 | **5** | ![][flag_RU] **Liswiera** | [#1](https://osu.ppy.sh/community/matches/49627344) |
 | F1shbowl ![][flag_US] | 2 | **5** | ![][flag_PL] **lokser** | [#1](https://osu.ppy.sh/community/matches/49632843) |
-| **Snajper** ![][flag_AT] | **5** | 0 | ![][flag_US] \_p0ke\_ | -win by default- |
+| **Snajper** ![][flag_AT] | **5** | 0 | ![][flag_US] \_p0ke\_ | *win by default* |
 | **\[Lucky\]** ![][flag_DE] | **5** | 3 | ![][flag_US] YoshiLover456 | [#1](https://osu.ppy.sh/community/matches/49636497) |
 | lahwraN ![][flag_US] | 4 | **5** | ![][flag_US] **Raoul** | [#1](https://osu.ppy.sh/community/matches/49639492) |
 | **loveleft** ![][flag_AU] | **5** | 1 | ![][flag_PL] bart6003 | [#1](https://osu.ppy.sh/community/matches/49644911) |
 
-| Sunday, 2019-02-17 |  |  |  |  |
+Sunday, 17 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **\_kyuu** ![][flag_TW] | **5** | 2 | ![][flag_DE] Menty | [#1](https://osu.ppy.sh/community/matches/49663701) |
 | San Diego ![][flag_US] | 1 | **5** | ![][flag_PL] **lokser** | [#1](https://osu.ppy.sh/community/matches/49665235) |
@@ -279,11 +288,15 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Monday, 2019-01-29 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **Fish-** ![][flag_US] | **4** | 0 | ![][flag_US] Raoul | -win by default- |
+Monday, 29 January 2019:
 
-| Saturday, 2019-02-02 |  |  |  |  |
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Fish-** ![][flag_US] | **4** | 0 | ![][flag_US] Raoul | *win by default* |
+
+Saturday, 2 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tuco** ![][flag_US] | **5** | 1 | ![][flag_CA] Xeli | [#1](https://osu.ppy.sh/community/matches/49295482) |
 | **YoshiLover456** ![][flag_US] | **5** | 4 | ![][flag_US] themaster156 | [#1](https://osu.ppy.sh/community/matches/49298642) |
@@ -292,7 +305,9 @@ This competition has come to an end and resulted in the following podium:
 | **lahwraN** ![][flag_US] | **5** | 0 | ![][flag_RU] Nentse | [#1](https://osu.ppy.sh/community/matches/49314408) |
 | DeSconTent ![][flag_RU] | 0 | **5** | ![][flag_PL] **bart6003** | [#1](https://osu.ppy.sh/community/matches/49316500) |
 
-| Sunday, 2019-02-03 |  |  |  |  |
+Sunday, 3 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | \_p0ke\_ ![][flag_US] | 2 | **5** | ![][flag_US] **San Diego** | [#1](https://osu.ppy.sh/community/matches/49326174) |
 | **deflateddolphin** ![][flag_CA] | **5** | 4 | ![][flag_KR] pseudophilia | [#1](https://osu.ppy.sh/community/matches/49326850) |
@@ -303,34 +318,46 @@ This competition has come to an end and resulted in the following podium:
 | **loveleft** ![][flag_AU] | **5** | 0 | ![][flag_DE] Menty | [#1](https://osu.ppy.sh/community/matches/49337622) |
 | **\[Lucky\]** ![][flag_DE] | **5** | 0 | ![][flag_PL] lokser | [#1](https://osu.ppy.sh/community/matches/49340098) |
 
-| Monday, 2019-02-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| Kawaii Kaneki ![][flag_DE] | 0 | **5** | ![][flag_UA] **Zertus** | -win by default- |
-| Defectum ![][flag_NO] | 5 | **4** | ![][flag_KR] **woobin5004** | -win by default- |
+Monday, 4 February 2019:
 
-| Friday, 2019-02-08 |  |  |  |  |
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Kawaii Kaneki ![][flag_DE] | 0 | **5** | ![][flag_UA] **Zertus** | *win by default* |
+| Defectum ![][flag_NO] | 5 | **4** | ![][flag_KR] **woobin5004** | *win by default* |
+
+Friday, 8 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Menty** ![][flag_DE] | **5** | 2 | ![][flag_KR] woobin5004 | [#1](https://osu.ppy.sh/community/matches/49441997) |
 
-| Saturday, 2019-02-09 |  |  |  |  |
+Saturday, 9 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | DeSconTent ![][flag_RU] | 3 | **5** | ![][flag_US] **Tuco** | [#1](https://osu.ppy.sh/community/matches/49446157) |
 | **\_p0ke\_** ![][flag_US] | **5** | 0 | ![][flag_UA] Zertus | [#1](https://osu.ppy.sh/community/matches/49449482) |
 | themaster156 ![][flag_US] | 0 | **5** | ![][flag_US] **F1shbowl** | [#1](https://osu.ppy.sh/community/matches/49459554) |
 | **lokser** ![][flag_PL] | **5** | 2 | ![][flag_AU] Pictures | [#1](https://osu.ppy.sh/community/matches/49464388) |
 
-| Sunday, 2019-02-10 |  |  |  |  |
+Sunday, 10 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Snajper** ![][flag_AT] | **5** | 2 | ![][flag_FI] Roba | [#1](https://osu.ppy.sh/community/matches/49474191) |
 
-| Monday, 2019-02-11 |  |  |  |  |
+Monday, 11 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Raoul** ![][flag_US] | **5** | 0 | ![][flag_CA] deflateddolphin | [#1](https://osu.ppy.sh/community/matches/49504744) |
 | Proioxis ![][flag_IT] | 3 | **5** | ![][flag_US] **lahwraN** | [#1](https://osu.ppy.sh/community/matches/49505992) |
 
 ### Round of 32
 
-| Saturday, 2019-01-26 |  |  |  |  |
+Saturday, 26 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **lokser** ![][flag_PL] | **4** | 0 | ![][flag_US] lahwraN | [#1](https://osu.ppy.sh/community/matches/49122983) |
 | **bart6003** ![][flag_PL] | **4** | 0 | ![][flag_UA] Zertus | [#1](https://osu.ppy.sh/community/matches/49123006) |
@@ -341,7 +368,9 @@ This competition has come to an end and resulted in the following podium:
 | **Snajper** ![][flag_AT] | **4** | 0 | ![][flag_KR] woobin5004 | [#1](https://osu.ppy.sh/community/matches/49144094) |
 | **Liswiera** ![][flag_RU] | **4** | 1 | ![][flag_NO] Defectum | [#1](https://osu.ppy.sh/community/matches/49145618) |
 
-| Sunday, 2019-01-27 |  |  |  |  |
+Sunday, 27 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **\[Lucky\]** ![][flag_DE] | **4** | 0 | ![][flag_RU] Nentse | [#1](https://osu.ppy.sh/community/matches/49150866) |
 | **Menty** ![][flag_DE] | **4** | 0 | ![][flag_ID] Xicyte | [#1](https://osu.ppy.sh/community/matches/49150859) |
@@ -352,11 +381,9 @@ This competition has come to an end and resulted in the following podium:
 | **Proioxis** ![][flag_IT] | **4** | 2 | ![][flag_AU] Pictures | [#1](https://osu.ppy.sh/community/matches/49171917) |
 | **DeSconTent** ![][flag_RU] | **4** | 1 | ![][flag_DE] Kawaii Kaneki | [#1](https://osu.ppy.sh/community/matches/49181672) |
 
----
-
 ## Ruleset
 
-### General Rules
+### General rules
 
 1. nik's Winter Tour 2019 is a **one-on-one** tournament using **double-elimination bracket** and **Score V2** as its map scoring.
 2. Rank range is between **#10,000 - #35,000** and we will be allowing a 1k rank buffer in case of people overranking slightly.
@@ -368,7 +395,7 @@ This competition has come to an end and resulted in the following podium:
    - For a **15 minute** delay you will have your match automatically lost.
    - Disrespect of your assigned referee, and/or your opponent, will not be tolerated. *(Also applies for the Discord server and towards other staff members)*
 
-### Match Procedures
+### Match procedures
 
 1. At Qualifiers Stage, participants will be assigned to a lobby based on participants' availability and they will play for **score**, not position achieved during the match. This is because NWT 2019 staff will compare your score to everyone in the tournament so as to make it more fair. Participants will play all maps in the pool once.
    - Scores will be rescaled to be up to 1,000,000 and then added up.
@@ -381,22 +408,22 @@ This competition has come to an end and resulted in the following podium:
    - In Semifinals, participants need to win 6 beatmaps to win a match (Best-of-11) and will have to bann 2 maps per match.
    - In the **Finals and Grand Finals**, participants need to win 7 beatmaps to win a match (Best-of-13) and will have to bann 2 maps per match.
 
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

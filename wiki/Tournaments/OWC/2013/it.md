@@ -36,13 +36,9 @@ L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.s
 
 **Commentatori:** ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/Mr_Color), ![][flag_US] [dkun](https://osu.ppy.sh/users/dkun), ![][flag_US] [Agnes](https://osu.ppy.sh/users/Agnes)
 
----
-
 ## Links
 
 - [Discuti qui](https://osu.ppy.sh/community/forums/topics/160181/start=0)
-
----
 
 ## Regolamento
 
@@ -105,7 +101,7 @@ L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.s
    3. The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Referee will join the room externally. Referee will spectate the match via multi-spectator client.
 3. Players are free to select a warm-up map.
-4. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use "!roll" once in \#multiplayer to determine which team selects first.
+4. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects first.
    1. The captains may select maps out of the NoMod bracket freely.
    2. Selection out of mod-specific brackets is limited. Each captain may only select one map from each mod-restricted bracket during the match.
    3. In case of a tie, the tiebreaker map must be played.

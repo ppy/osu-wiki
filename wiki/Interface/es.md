@@ -4,11 +4,11 @@ outdated: true
 
 # Interface (Español)
 
-![](img/Intro_static.jpg "Pantalla de introducción")
+![](img/intro-screen.jpg "Pantalla de introducción")
 
 ## Menú principal
 
-![](img/Introscreen.jpg "Menú principal")
+![](img/main-menu.jpg "Menú principal")
 
 El \[1\] logo de osu! se mueve de acuerdo al [BPM](/wiki/Beatmapping/Beats_per_minute) de cualquier canción reproduciéndose actualmente en la pantalla de introducción. Si no se reproduce ninguna canción, se moverá a un ritmo lento por defecto. Los atajos del teclado en paréntesis.
 

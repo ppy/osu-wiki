@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
 ---
 
 # Reportar actitud negativa
@@ -24,15 +26,15 @@ Si el usuario tiene un espacio en su nombre de usuario, debe ser reemplazado por
 
 Los reportes no distinguen entre mayúsculas o minúsculas, por lo tanto, esta bien usar letras minúsculas tales como `este_nombre_de_usuario`. 
 
-![Ejemplo de cómo usar el comando !report](img/Report-command.png "Ejemplo de cómo usar el comando !report")
+![Ejemplo de cómo usar el comando !report](img/report-command.jpg "Ejemplo de cómo usar el comando !report")
 
 ### Usando el botón de reportar en el juego
 
 Reportar al usuario de esta manera solo requiere algún tipo de razón y el texto personalizado a diferencia de el comando `!report`.
 
-![Clickea el botón de reportar](img/Report-user-1.png "Clickea el botón de reportar")
+![Clickea el botón de reportar](img/report-user-1.png "Clickea el botón de reportar")
 
-![¡Recuerda añadir una razón aquí!](img/Report-user-2.png "Recuerda añadir una razón aquí!")
+![¡Recuerda añadir una razón aquí!](img/report-user-2.png "Recuerda añadir una razón aquí!")
 
 ### Usando el botón de reporte en el perfil de un usuario
 
@@ -40,13 +42,13 @@ Esto funciona de igual manera que el botón de reporte dentro del juego.
 
 Recuerda añadir detalles a tu reporte en los comentarios.
 
-![Esto abrirá un dialogo para reportar al usuario.](img/Report-user-profile.png "Esto abrirá un dialogo para reportar al usuario.")
+![Esto abrirá un dialogo para reportar al usuario.](img/report-user-profile.png "Esto abrirá un dialogo para reportar al usuario.")
 
 ### Usando el enlace de reporte en la pantalla de puntuación de una jugada del usuario
 
 Esto debería ser usado solamente al reportar usuarios usando trampas.
 
-![Presionar este enlace reportara esta jugada.](img/Report-user-beatmap.png "Presionar este enlace reportara esta jugada.")
+![Presionar este enlace reportara esta jugada.](img/report-score-beatmap.png "Presionar este enlace reportara esta jugada.")
 
 ## Ejemplos de que reportar
 
@@ -101,4 +103,4 @@ Un usuario puede simplemente usar el sistema de ignorar para evitar recibir mens
 
 ### ¿Puedo reportar a un moderador?
 
-Si puedes, pero es recomendado que contactes al equipo de soporte de osu! (support@ppy.sh) para quejas acerca del staff.
+Si puedes, pero es recomendado que contactes al equipo de soporte de osu! ([support@ppy.sh](mailto:support@ppy.sh)) para quejas acerca del staff.

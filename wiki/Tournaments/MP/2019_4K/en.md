@@ -8,18 +8,18 @@ tags:
 
 # Mistrzostwa Polski w 4K 2019
 
-![MP4K 2019 Logo](img/logo.png)
+![MP4K 2019 logo](img/logo.png)
 
-The **Mistrzostwa Polski w 4K 2019** (***MP4K 2019***, *4K Polish Championship 2019*) was a one-on-one osu!mania 4-key tournament made for osu! players based in Poland or of Polish Heritage. It was the third installment of the Mistrzostwa Polski w 4K.
+The **Mistrzostwa Polski w 4K 2019** (***MP4K 2019***, *4K Polish Championship 2019*) was a 1v1 4-key osu!mania tournament made for osu! players based in Poland or of Polish heritage. It was the third instalment of the Mistrzostwa Polski w 4K.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-05-13/2019-06-01 |
-| Qualifiers Showcase | 2019-06-09 |
+| Registration phase | 2019-05-13/2019-06-01 |
+| Qualifiers showcase | 2019-06-09 |
 | Qualifiers | 2019-06-15/2019-06-16 |
-| Group Stage | 2019-06-21/2019-06-30 |
+| Group stage | 2019-06-21/2019-06-30 |
 | Round of 16 | 2019-07-03/2019-07-07 |
 | Quarterfinals | 2019-07-11/2019-07-14 |
 | Semifinals | 2019-07-15/2019-07-21 |
@@ -32,11 +32,11 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 300 PLN, profile badge, 6 months of osu!supporter tag |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 200 PLN, 4 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 100 PLN, 2 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 300 PLN, profile badge, 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 200 PLN, 4 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 100 PLN, 2 months of osu!supporter |
 
-![MP4K 2019 Badge](img/badge.png "MP4K 2019 Winner Badge")
+![](img/badge.png "MP4K 2019 winner badge")
 
 ## Organisation
 
@@ -44,12 +44,12 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 | :-- | :-- |
 | Host | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783) |
 | Coordinator | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Marleza](https://osu.ppy.sh/users/5396181), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921) |
-| Map Selector | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Mappool selector | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
 | Streamer | ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
 | Commentator | ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750) |
 | Designer | ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
-| Statistician Helper | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Statistician helper | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
 ## Links
 
@@ -58,11 +58,7 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 - [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv)
 - [Challonge](https://challonge.com/MP4K3)
 
----
-
 ## Participants
-
-### Qualified Participants
 
 | Seed | Users |
 | :-- | :-- |
@@ -71,7 +67,7 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 | Mid (#17 - #24) | ![][flag_PL] [EWGF](https://osu.ppy.sh/users/8422748), ![][flag_PL] [Felix27](https://osu.ppy.sh/users/7447943), ![][flag_PL] [PIayer69](https://osu.ppy.sh/users/10694850), ![][flag_PL] [C18-H27-NO3](https://osu.ppy.sh/users/8682644), ![][flag_PL] [Shadow Cultist](https://osu.ppy.sh/users/3827078), ![][flag_PL] [Marqez](https://osu.ppy.sh/users/9579664), ![][flag_PL] [m666](https://osu.ppy.sh/users/8623171), ![][flag_PL] [klodaa](https://osu.ppy.sh/users/10584535) |
 | Low (#25 - #32) | ![][flag_PL] [FD5GD](https://osu.ppy.sh/users/9477978), ![][flag_PL] [Kush-kun](https://osu.ppy.sh/users/9922294), ![][flag_PL] [p4v31](https://osu.ppy.sh/users/7474409), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [Kupamasla](https://osu.ppy.sh/users/9066667), ![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880), ![][flag_PL] [ricoMeister](https://osu.ppy.sh/users/9117305), ![][flag_PL] [MrBoom](https://osu.ppy.sh/users/1837989) |
 
-### Groups
+## Groups
 
 | Group | Top | High | Mid | Low |
 | :-: | :-- | :-- | :-- | :-- |
@@ -84,15 +80,9 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 | **G** | ![][flag_PL] Tidek | ![][flag_PL] Hvb3rt | ![][flag_PL] Shadow Cultist | ![][flag_PL] FD5GD |
 | **H** | ![][flag_PL] \_underjoy | ![][flag_PL] Justin14p | ![][flag_PL] m666 | ![][flag_PL] MrBooM |
 
----
-
 ## Podium
 
-This competition has come to an end and resulted in the following podium:
-
-![MP4K3 Winner Podium](img/podium.png)
-
----
+![](img/podium.png "MP4K 2019 podium")
 
 ## Mappools
 
@@ -114,7 +104,7 @@ This competition has come to an end and resulted in the following podium:
   - [xelloscope - Apollo (inteliser) \[UNLIMITED\]](https://osu.ppy.sh/beatmapsets/727736#mania/1536569)
   - [Moe Shop w/ Ace Hashimoto - Natural (Percyqaz) \[going back for the gold\]](https://osu.ppy.sh/beatmapsets/784021#mania/1646203)
   - [Graham Kartna - chiltonWALK.temp (Nivrad00) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1010184#mania/2114659)
-- Tiebreaker  
+- Tiebreaker
   - **[Quarks (kradness x Camellia) - Intro + Dualive (Evening) \[backpropogation\_edit\]](https://osu.ppy.sh/beatmapsets/996757#mania/2116122)**
 
 ### Finals
@@ -189,8 +179,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[lapix - Paradoxy (Extended) (Kamikaze) \[Protastic's Incomprehensible (MP4K 155 BPM Edit)\]](https://osu.ppy.sh/beatmapsets/996032#mania/2083442)**
 
-
-### Group Stage
+### Group stage
 
 - FreeMod
   - [mattaku - Estpolis Denki II \~Battle \#2\~ (Kamikaze) \[Architect \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/988572#mania/2067886)
@@ -214,71 +203,97 @@ This competition has come to an end and resulted in the following podium:
   - [Yu^ta w. Satoguchi Yu - Alien Artifact (-Rem-) \[Stage 4: Agility\]](https://osu.ppy.sh/beatmapsets/984893#mania/2060730)
   - [KNOWER - Time Traveler (Kamikaze) \[Stage 5: Versatility w/ Hydria\]](https://osu.ppy.sh/beatmapsets/984898#mania/2060735)
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
-| Saturday, 2019-08-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **SitekX** ![][flag_PL] | **7** | 4 | ![][flag_PL] _underjoy | [#1](https://osu.ppy.sh/community/matches/53806627) |
+Saturday, 3 August 2019:
 
-| Sunday, 2019-08-04 |  |  |  |  |
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **SitekX** ![][flag_PL] | **7** | 4 | ![][flag_PL] \_underjoy | [#1](https://osu.ppy.sh/community/matches/53806627) |
+
+Sunday, 4 August 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tidek** ![][flag_PL] | **7** | 3 | ![][flag_PL] SitekX | [#1](https://osu.ppy.sh/community/matches/53826679) |
 
 ### Finals
 
-| Saturday, 2019-07-27 |  |  |  |  |
+Saturday, 27 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Arkitev ![][flag_PL] | 0 | **6** | ![][flag_PL] **Triksu** | [#1](https://osu.ppy.sh/community/matches/53638828) |
-| **_underjoy** ![][flag_PL] | **6** | 1 | ![][flag_PL] Power_LendzeR | [#1](https://osu.ppy.sh/community/matches/53641118) |
+| **\_underjoy** ![][flag_PL] | **6** | 1 | ![][flag_PL] Power\_LendzeR | [#1](https://osu.ppy.sh/community/matches/53641118) |
 
-| Sunday, 2019-07-28 |  |  |  |  |
+Sunday, 28 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **_underjoy** ![][flag_PL] | **6** | 0 | ![][flag_PL] Triksu | [#1](https://osu.ppy.sh/community/matches/53658627) |
+| **\_underjoy** ![][flag_PL] | **6** | 0 | ![][flag_PL] Triksu | [#1](https://osu.ppy.sh/community/matches/53658627) |
 | SitekX ![][flag_PL] | 1 | **6** | ![][flag_PL] **Tidek** | [#1](https://osu.ppy.sh/community/matches/53667265) |
 
 ### Semifinals
 
-| Monday, 2019-07-15 |  |  |  |  |
+Monday, 15 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SitekX** ![][flag_PL] | **6** | 0 | ![][flag_PL] Arkitev | [#1](https://osu.ppy.sh/community/matches/53362294) |
 
-| Tuesday, 2019-07-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **PoweR_LendzeR** ![][flag_PL] | **6** | 1 | ![][flag_PL] Shadow Cultist | [#1](https://osu.ppy.sh/community/matches/53383630) |
+Tuesday, 16 July 2019:
 
-| Thrusday, 2019-07-18 |  |  |  |  |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **TheFalek** ![][flag_PL] | **6** | 0 | ![][flag_PL] Justin14p | -win by default- |
+| **PoweR\_LendzeR** ![][flag_PL] | **6** | 1 | ![][flag_PL] Shadow Cultist | [#1](https://osu.ppy.sh/community/matches/53383630) |
 
-| Friday, 2019-07-19 |  |  |  |  |
+Thrusday, 18 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| _underjoy ![][flag_PL] | 2 | **6** | ![][flag_PL] **Tidek** | [#1](https://osu.ppy.sh/community/matches/53451515) |
-| **PoweR_LendzeR** ![][flag_PL] | **6** | 0 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/53453622) |
+| **TheFalek** ![][flag_PL] | **6** | 0 | ![][flag_PL] Justin14p | *win by default* |
+
+Friday, 19 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| \_underjoy ![][flag_PL] | 2 | **6** | ![][flag_PL] **Tidek** | [#1](https://osu.ppy.sh/community/matches/53451515) |
+| **PoweR\_LendzeR** ![][flag_PL] | **6** | 0 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/53453622) |
 | **Triksu** ![][flag_PL] | **6** | 1 | ![][flag_PL] Archaic84 | [#1](https://osu.ppy.sh/community/matches/53455242) |
 
-| Saturday, 2019-07-20 |  |  |  |  |
+Saturday, 20 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Miq ![][flag_PL] | 0 | **6** | ![][flag_PL] **arfuk0134** | [#1](https://osu.ppy.sh/community/matches/53474726) |
 
-| Sunday, 2019-07-21 |  |  |  |  |
+Sunday, 21 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | arfuk0134 ![][flag_PL] | 0 | **6** | ![][flag_PL] **Triksu** | [#1](https://osu.ppy.sh/community/matches/53494667) |
 
 ### Quarterfinals
 
-| Thrusday, 2019-07-11 |  |  |  |  |
+Thrusday, 11 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Archaic84** ![][flag_PL] | **5** | 2 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/53259601) |
 
-| Saturday, 2019-07-13 |  |  |  |  |
+Saturday, 13 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | TheFalek ![][flag_PL] | 3 | **5** | ![][flag_PL] **Arkitev** | [#1](https://osu.ppy.sh/community/matches/53311577) |
 | Miq ![][flag_PL] | 3 | **5** | ![][flag_PL] **_underjoy** | [#1](https://osu.ppy.sh/community/matches/53312912) |
-| **SitekX** ![][flag_PL] | **5** | 0 | ![][flag_PL] PoweR_LendzeR | [#1](https://osu.ppy.sh/community/matches/53314596) |
+| **SitekX** ![][flag_PL] | **5** | 0 | ![][flag_PL] PoweR\_LendzeR | [#1](https://osu.ppy.sh/community/matches/53314596) |
 
-| Sunday, 2019-07-14 |  |  |  |  |
+Sunday, 14 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Kupamasla ![][flag_PL] | 0 | **5** | ![][flag_PL] **Justin14p** | [#1](https://osu.ppy.sh/community/matches/53334202) |
 | **Tidek** ![][flag_PL] | **5** | 0 | ![][flag_PL] Triksu | [#1](https://osu.ppy.sh/community/matches/53335461) |
@@ -287,78 +302,102 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Wednesday, 2019-07-03 |  |  |  |  |
+Wednesday, 3 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Kupamasla ![][flag_PL] | 0 | **5** | ![][flag_PL] **Miq** | [#1](https://osu.ppy.sh/community/matches/53088382) |
 
-| Friday, 2019-07-05 |  |  |  |  |
+Friday, 5 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SitekX** ![][flag_PL] | **5** | 0 | ![][flag_PL] Archaic84 | [#1](https://osu.ppy.sh/community/matches/53128644) |
-| **_underjoy** ![][flag_PL] | **5** | 0 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/53131251) |
+| **\_underjoy** ![][flag_PL] | **5** | 0 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/53131251) |
 
-| Saturday, 2019-07-06 |  |  |  |  |
+Saturday, 6 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tidek** ![][flag_PL] | **5** | 1 | ![][flag_PL] Shadow Cultist | [#1](https://osu.ppy.sh/community/matches/53148692) |
 
-| Sunday, 2019-07-07 |  |  |  |  |
+Sunday, 7 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **PoweR_LendzeR** ![][flag_PL] | **5** | 1 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/53173347) |
+| **PoweR\_LendzeR** ![][flag_PL] | **5** | 1 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/53173347) |
 | **Arkitev** ![][flag_PL] | **5** | 4 | ![][flag_PL] Moskas | [#1](https://osu.ppy.sh/community/matches/53174718) |
 | **TheFalek** ![][flag_PL] | **5** | 1 | ![][flag_PL] arfuk0134 | [#1](https://osu.ppy.sh/community/matches/53176156) |
 | **Triksu** ![][flag_PL] | **5** | 2 | ![][flag_PL] EWGF | [#1](https://osu.ppy.sh/community/matches/53177261) |
 
-### Group Stage
+### Group stage
 
-| Friday, 2019-06-21 |  |  |  |  |
+Friday, 21 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | [#1](https://osu.ppy.sh/community/matches/52796244) |
 | **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_PL] Miq | [#1](https://osu.ppy.sh/community/matches/52796987) |
 
-| Saturday, 2019-06-22 |  |  |  |  |
+Saturday, 22 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tidek** ![][flag_PL] | **4** | 2 | ![][flag_PL] Shadow Cultist | [#1](https://osu.ppy.sh/community/matches/52816728) |
-| **Tidek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Hvb3rt | -win by default- |
+| **Tidek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Hvb3rt | *win by default* |
 | **Moskas** ![][flag_PL] | **4** | 1 | ![][flag_PL] Otis1204 | [#1](https://osu.ppy.sh/community/matches/52821555) |
 | **Triksu** ![][flag_PL] | **4** | 0 | ![][flag_PL] Kush-kun | [#1](https://osu.ppy.sh/community/matches/52823920) |
-| Nick Wilde ![][flag_PL] | 0 | **4** | ![][flag_PL] **Kupamasla** | -win by default- |
+| Nick Wilde ![][flag_PL] | 0 | **4** | ![][flag_PL] **Kupamasla** | *win by default* |
 | **Miq** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | [#1](https://osu.ppy.sh/community/matches/52825189) |
-| **PoweR_LendzeR** ![][flag_PL] | **4** | 0 | ![][flag_PL] Moskas | [#1](https://osu.ppy.sh/community/matches/52825880) |
+| **PoweR\_LendzeR** ![][flag_PL] | **4** | 0 | ![][flag_PL] Moskas | [#1](https://osu.ppy.sh/community/matches/52825880) |
 
-| Sunday, 2019-06-23 |  |  |  |  |
+Sunday, 23 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/52843927) |
+| **\_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/52843927) |
 | **Tidek** ![][flag_PL] | **4** | 1 | ![][flag_PL] FD5GD | [#1](https://osu.ppy.sh/community/matches/52844767) |
 | **Marqez** ![][flag_PL] | **4** | 2 | ![][flag_PL] Kush-kun | [#1](https://osu.ppy.sh/community/matches/52847713) |
 | m666 ![][flag_PL] | 2 | **4** | ![][flag_PL] **MrBooM** | [#1](https://osu.ppy.sh/community/matches/52847977) |
-| **PoweR_LendzeR** ![][flag_PL] | **4** | 2 | ![][flag_PL] Otis1204 | [#1](https://osu.ppy.sh/community/matches/52848713) |
-| **_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_PL] m666 | [#1](https://osu.ppy.sh/community/matches/52850715) |
+| **PoweR\_LendzeR** ![][flag_PL] | **4** | 2 | ![][flag_PL] Otis1204 | [#1](https://osu.ppy.sh/community/matches/52848713) |
+| **\_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_PL] m666 | [#1](https://osu.ppy.sh/community/matches/52850715) |
 | Eclipse- ![][flag_PL] | 2 | **4** | ![][flag_PL] **Kupamasla** | [#1](https://osu.ppy.sh/community/matches/52851279) |
 | **Triksu** ![][flag_PL] | **4** | 0 | ![][flag_PL] Marqez | [#1](https://osu.ppy.sh/community/matches/52851621) |
-| Nick Wilde ![][flag_PL] | 0 | **4** | ![][flag_PL] **Eclipse-** | -win by default- |
+| Nick Wilde ![][flag_PL] | 0 | **4** | ![][flag_PL] **Eclipse-** | *win by default* |
 | **Justin14p** ![][flag_PL] | **4** | 2 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/52853335) |
-| **_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/52856004) |
+| **\_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/52856004) |
 
-| Monday, 2019-06-24 |  |  |  |  |
+Monday, 24 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Nick Wilde ![][flag_PL] | 0 | **4** | ![][flag_PL] **PIayer69** | -win by default- |
+| Nick Wilde ![][flag_PL] | 0 | **4** | ![][flag_PL] **PIayer69** | *win by default* |
 | **Eclipse-** ![][flag_PL] | **4** | 0 | ![][flag_PL] PIayer69 | [#1](https://osu.ppy.sh/community/matches/52873996) |
 
-| Tuesday, 2019-06-25 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| PIayer69 ![][flag_PL] | 0 | **4** | ![][flag_PL] **Kupamasla** | -win by default- |
+Tuesday, 25 June 2019:
 
-| Wednesday, 2019-06-26 |  |  |  |  |
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| PIayer69 ![][flag_PL] | 0 | **4** | ![][flag_PL] **Kupamasla** | *win by default* |
+
+Wednesday, 26 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **arfuk0134** ![][flag_PL] | **4** | 1 | ![][flag_PL] Marqez | [#1](https://osu.ppy.sh/community/matches/52917859) |
 | **arfuk0134** ![][flag_PL] | **4** | 0 | ![][flag_PL] Kush-kun | [#1](https://osu.ppy.sh/community/matches/52920062) |
 
-| Friday, 2019-06-28 |  |  |  |  |
+Friday, 28 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Triksu** ![][flag_PL] | **4** | 0 | ![][flag_PL] arfuk0134 | [#1](https://osu.ppy.sh/community/matches/52965551) |
 | **Moskas** ![][flag_PL] | **4** | 0 | ![][flag_PL] C18-H27-NO3 | [#1](https://osu.ppy.sh/community/matches/52965559) |
 | **Miq** ![][flag_PL] | **4** | 0 | ![][flag_PL] Acrith | [#1](https://osu.ppy.sh/community/matches/52968661) |
 
-| Saturday, 2019-06-29 |  |  |  |  |
+Saturday, 29 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Archaic84 | [#1](https://osu.ppy.sh/community/matches/52984457) |
 | **Archaic84** ![][flag_PL] | **4** | 2 | ![][flag_PL] p4v31 | [#1](https://osu.ppy.sh/community/matches/52985299) |
@@ -369,32 +408,32 @@ This competition has come to an end and resulted in the following podium:
 | **Arkitev** ![][flag_PL] | **4** | 0 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/52990029) |
 | **EWGF** ![][flag_PL] | **4** | 0 | ![][flag_PL] ricoMeister | [#1](https://osu.ppy.sh/community/matches/52989884) |
 
-| Sunday, 2019-06-30 |  |  |  |  |
+Sunday, 30 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] p4v31 | [#1](https://osu.ppy.sh/community/matches/53008341) |
 | **C18-H27-NO3** ![][flag_PL] | **4** | 1 | ![][flag_PL] Otis1204 | [#1](https://osu.ppy.sh/community/matches/53009148) |
 | **capsafangirl** ![][flag_PL] | **4** | 0 | ![][flag_PL] ricoMeister | [#1](https://osu.ppy.sh/community/matches/53009944) |
 | Felix27 ![][flag_PL] | 2 | **4** | ![][flag_PL] **Acrith** | [#1](https://osu.ppy.sh/community/matches/53010911) |
-| Hvb3rt ![][flag_PL] | 0 | **4** | ![][flag_PL] **Shadow Cultist** | -win by default- |
-| Hvb3rt ![][flag_PL] | 0 | **4** | ![][flag_PL] **FD5GD** | -win by default- |
-| **PoweR_LendzeR** ![][flag_PL] | **4** | 1 | ![][flag_PL] C18-H27-NO3 | [#1](https://osu.ppy.sh/community/matches/53013594) |
+| Hvb3rt ![][flag_PL] | 0 | **4** | ![][flag_PL] **Shadow Cultist** | *win by default* |
+| Hvb3rt ![][flag_PL] | 0 | **4** | ![][flag_PL] **FD5GD** | *win by default* |
+| **PoweR\_LendzeR** ![][flag_PL] | **4** | 1 | ![][flag_PL] C18-H27-NO3 | [#1](https://osu.ppy.sh/community/matches/53013594) |
 
 ### Qualifiers
 
-The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhwQj6gqzWVjhmolPUlYOIkAjKZDEiqOqBGMl6M-a6duVOzzpWTqeiE0-bEolAnhZRSGQgKpyNJC_f/pubhtml).
-
----
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhwQj6gqzWVjhmolPUlYOIkAjKZDEiqOqBGMl6M-a6duVOzzpWTqeiE0-bEolAnhZRSGQgKpyNJC_f/pubhtml).
 
 ## Ruleset
 
-### Tournament Organisation
+### Tournament organisation
 
-#### General Eligibility
+#### General eligibility
 
 - Players who currently have (or had at some point since Account Creation) the Polish Flag on their profile or players who do not have the Polish Flag on their profiles but can present a proof of their fluency in Polish language and/or their Polish citizenship to the staff are the only ones allowed to join the tournament.
 - Staff Members who are not part of the Mappool Selectors and Coordinators are permitted to join the tournament.
 
-#### Round Overview
+#### Round overview
 
 - With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
   - **Qualification Stage**: 5 song mappool, no winning condition, no tiebreaker song
@@ -405,7 +444,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - All matches held are using a 1 player versus 1 player rule.
 - All rounds are to use the **restrictive FreeMod** rules (only NoMod, Flashlight, FadeIn, or Hidden are permitted to be used while playing), in addition, **Score v2** is implemented.
 
-#### Qualification Process
+#### Qualification process
 
 - All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. The maximum number of players who can advance to the subsequent round is 32. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
 - The qualification round will have a 5 song mappool that widely varies in skillsets tested. These tested skillsets will correspond to skillsets commonly seen in mappools throughout the tournament.
@@ -415,7 +454,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - The qualifiers will not be streamed.
 - Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average rank on all five songs, with the best average score rating being seed #1, and the worst average score rating being seed n; n being the number of players in the qualification stage.
 
-#### Group Stage
+#### Group stage
 
 - After the qualification round, the remaining players, based on their qualification seeds, will be divided into 4 different groups based on their qualification seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Unseeded". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group.
   - **1st-8th seeds**: Top Seed
@@ -430,7 +469,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
   - Higher qualification seed.
 - The two worst-performing players of each group will be eliminated from the tournament.
 
-#### Bracket Stage
+#### Bracket stage
 
 - The bracket stage is a **double elimination** stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
 - After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. In particular, their opponent for the bracket stage will be `(17 - player's GS seed)`.
@@ -439,7 +478,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - Players who are in the winner's bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where the player is required to play in up to two matches if the player were to lose his first match in the Grand Finals stage.
 - Players who are in the loser's bracket at the start of Finals Week 1 or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will no longer need to play in any further matches in the tournament, for they are eliminated from the tournament.
 
-### Tournament Play
+### Tournament play
 
 #### Protocol
 
@@ -461,7 +500,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
   - MP4K 2019 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
-#### Warm-up Songs
+#### Warm-up songs
 
 - Each player in the match will be allowed one (1) warm-up song to be played, making for two (2) warm-ups in total between both players. All warm-up songs must be osu!mania 4K specific beatmaps.
 - The warm-up must be uploaded to the osu! website and accessible by everyone prior to the tournament match. Bloodcat links are **not allowed**, and neither are personal links featuring the beatmap that you want downloaded.
@@ -470,18 +509,18 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 - In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This rule is enforced within the Group Stage of the tournament.
 
-#### Bans, Rolls and Song Selection
+#### Bans, rolls, and song selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one (1) map within the map pool that they are playing for the given round.
-- Players will be instructed to do a !roll command by the referee that is overseeing the match; the losing (lower) roll picks the first ban, while the winning (higher) roll picks the first song of the match. In the event that both players get the same roll, they will have to continue doing the !roll command until the tie is broken.
+- Players will be instructed to do a `!roll` command by the referee that is overseeing the match; the losing (lower) roll picks the first ban, while the winning (higher) roll picks the first song of the match. In the event that both players get the same roll, they will have to continue doing the `!roll` command until the tie is broken.
 - After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
-    - The winning player moves onto the next match.
-    - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
+     - The winning player moves onto the next match.
+     - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
   2. Both players are at match point at the same time.
-    - Both players will play the song designated as the tiebreaker.
-    - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
+     - Both players will play the song designated as the tiebreaker.
+     - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
 - If the beatmap ends in a draw, the game will be nullified and the beatmap will be replayed.
 
 #### Disconnections
@@ -491,8 +530,8 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in [Protocol](#protocol) will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"

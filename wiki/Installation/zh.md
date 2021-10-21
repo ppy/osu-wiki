@@ -34,7 +34,7 @@
 
 ## 添加谱面
 
-*另见：[谱面](/wiki/Beatmaps)*
+*另见：[谱面](/wiki/Beatmap)*
 
 有两种添加谱面的方式，分别是在网站下载和 osu!direct （需要成为 [osu!supporter](/wiki/osu!supporter)）。
 

@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2016 logo](img/logo.jpg)
 
-The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko 
 | --: | :-- |
 | Registration phase | 2016-02-09/2016-02-28 |
 | Live drawings | 2016-03-11 (14:00 UTC) |
-| Group Stage | 2016-03-20 |
+| Group stage | 2016-03-20 |
 | Round of 16 | 2016-03-27 |
 | Quarterfinals | 2016-04-02 |
 | Semifinals | 2016-04-09/2016-04-10 |
@@ -88,9 +88,11 @@ The osu!taiko World Cup 2016 was run by various community members.
 | ![][flag_GB] United Kingdom | ![][flag_AR] Argentina | ![][flag_CL] Chile | ![][flag_ID] Indonesia | ![][flag_PH] Philippines | ![][flag_ES] Spain | ![][flag_FR] France | ![][flag_PL] Poland |
 | ![][flag_TW] Taiwan | ![][flag_HK] Hong Kong | ![][flag_US] United States | ![][flag_DE] Germany | ![][flag_KR] South Korea | ![][flag_JP] Japan | ![][flag_CN] China | ![][flag_CA] Canada |
 
-![TWC 2016 podium](img/podium.jpg)
+![](img/bracket.jpg "TWC 2016 bracket")
 
-![TWC 2016 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "TWC 2016 podium")
 
 ## Mappools
 
@@ -216,7 +218,7 @@ The osu!taiko World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[DragonForce - Defenders (Raiden) \[Tatsujin\]](https://osu.ppy.sh/beatmapsets/375447#taiko/835691)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappool here! (130 MB)](https://www.mediafire.com/download/eu9o60zwublo4fq/TWC_2016_Group_Stage.rar)**
 
@@ -246,7 +248,7 @@ The osu!taiko World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[kamome sano - plasma (2015 rework) (Charlotte) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/348371#taiko/768536)**
 
-## Match Results
+## Match results
 
 ### Finals week 2
 
@@ -323,7 +325,7 @@ Sunday, 27 March 2016:
 | United Kingdom ![][flag_GB] | 1 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/23726773) |
 | Russian Federation ![][flag_RU] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/23727923) |
 
-### Group Stage
+### Group stage
 
 Sunday, 20 March 2016:
 
@@ -408,17 +410,23 @@ Sunday, 20 March 2016:
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 3 teams.
    - This may change depending on how many teams are accepted into the competition at the end.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
    - Most maps won.
    - Have higher `∑{(total score difference) / (maximum score)}`.
    - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
@@ -426,6 +434,7 @@ Sunday, 20 March 2016:
    | Semifinals | M, N & V, W, X, Y, Z,AA |
    | Finals | O & AB, AC, AD, AE |
    | Grand Finals | P, Q |
+
 7. **Winning conditions:**
    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
    - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
@@ -490,7 +499,7 @@ Sunday, 20 March 2016:
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"

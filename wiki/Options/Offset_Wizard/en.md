@@ -1,41 +1,17 @@
----
-needs_cleanup: true
----
-<!-- TODO: this is basically a guide already, but there's another guide for the same thing. -->
+# Offset Wizard
 
-# Offset wizard
+*See also: [How to use the Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard) and [Universal offset](/wiki/Universal_offset)*
 
-If, in every single beatmap you play, you hear that the sound effects are out of sync with the song, you may want to adjust your universal offset.
+The **Offset Wizard** is a built-in tool that assists the user in calibrating the [universal offset](/wiki/Universal_offset) to the correct value for their device. This is necessary when the [hitsounds](/wiki/Beatmapping/Hitsound) feel out of sync with the music, across every beatmap you play. For more information on how to do this, see [How to use the Offset Wizard](/wiki/Guides%2FHow_to_Use_the_Offset_Wizard).
 
-The universal offset (also known as "offset wizard" or "offset adjustment") adjusts the audio offset so that the hitsound effects would be timed correctly.
-You can find this option in the [Options](..).
+To access the Offset Wizard, open the [Options](/wiki/Options) menu and type `offset` into the quick-search. Then click on the `Offset wizard` button.
 
-You can use the slider given to adjust the universal offset, however, this requires you to know what the timing needs to be.
-Instead, you can use `Offset Wizard` for a more graphical representation of ticks.
+Upon opening the Offset Wizard, the user is greeted with a metronome ticking, and vertical green bars scrolling across the screen repeatedly. The song that was last selected will begin playing, although this can be changed via the jukebox at the top right corner of the screen.
 
-Unlike the local song offset (specific to that difficulty only), this offset affects *every* beatmap you play.
-If you received an online offset, you can manually adjust it yourself for the difficulty you are playing using `+` or `-` to increase or decrease, respectively, the beatmap's offset by 5 milliseconds.
-You can also hold `Alt` while pressing `+` or `-` will allow you to change the offset by 1 millisecond.
+The current universal offset will be displayed at the top left corner of the screen. It can be changed by pressing the `Up arrow` and `Down arrow`, or by using the mouse scroll wheel.
 
----
+Underneath the universal offset value display are three options that change the speed of the metronome. Enabling `Half tick` will double the amount of time between ticks on the metronome, making it slower. This will also display the `Tick on other beat` option. Enabling `Tick on other beat` will keep the time between metronome ticks the same as on `Half tick`, but on a different beat. Lastly, enabling `Double tick` will halve the amount of time between ticks on the metronome, making it faster. These options are used to adjust the metronome, to make it better fit the song that is playing.
 
-To access the offset wizard, open the Options sidebar and type `offset`.
-Then click on the `Offset wizard` button.
+The green bars scrolling across the screen are "ticks". When they pass through the vertical line in the centre of the screen, they will flash white and play a tick sound to represent the beat. Ticks add a useful visual aspect in the process of calibrating the universal offset.
 
-By default, the current song selected will be used.
-
-This displays your current universal audio offset in terms of milliseconds.
-
-Enabling `Half tick` will double the time for the next tick.
-If `Half tick` is enabled, the option for `Tick on the other beat` will appear.
-Enabling `Tick on the other beat` will quadruple the time for the next tick.
-Likewise, enabling `Double tick` will halven the time for the next tick.
-
-The object appeating is a "tick".
-When they pass through a middle vertical line, it will flash and will play a tick sound to represent the beat.
-
-Upon exiting, the value listed from this screen will be used as your universal offset.
-
-## How to use the Offset Wizard
-
-For instructions on how to use the offset wizard, see [How to use the Offset Wizard](/wiki/List_of_Guides/How_to_use_the_Offset_Wizard).
+To exit the Offset Wizard, simply click the `Back` button at the bottom left corner of the screen, or press `Esc`. Upon exiting, the universal offset value displayed in the Offset Wizard screen will be set as the universal offset.

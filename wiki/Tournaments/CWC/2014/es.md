@@ -1,7 +1,7 @@
 ---
 tags:
-- CWC 2014
-- CWC2014
+  - CWC 2014
+  - CWC2014
 outdated: true
 ---
 
@@ -49,21 +49,15 @@ La competición ha concluido con el siguiente podio:
 | Comentaristas | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) // ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420) // ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_US] [-Ryuujii-](https://osu.ppy.sh/users/2107523) |
 | Estadísticas | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Links
 
-- [osu! Catch the Beat World Cup 2014 en Twitch](https://www.twitch.tv/osulive/)
+- [osu! Catch the Beat World Cup 2014 en Twitch](https://www.twitch.tv/osulive)
 - [Forma de registro](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
 - [Hilo de discusión (en inglés)](https://osu.ppy.sh/community/forums/topics/200185)
-
----
 
 ## Cuadro
 
 ![CWC 2014 brackets](img/bracket.jpg)
-
----
 
 ## Participantes
 
@@ -122,8 +116,6 @@ La competición ha concluido con el siguiente podio:
 | ![][flag_CN] | China | **[Dusk](https://osu.ppy.sh/users/533210)**, [hy1hy1hy](https://osu.ppy.sh/users/243877), [MisakaMikoto](https://osu.ppy.sh/users/434917), [Ibuki Suika](https://osu.ppy.sh/users/290249) |
 | ![][flag_UY] | Uruguay | **[Themaster155](https://osu.ppy.sh/users/1850067)**, [quique95](https://osu.ppy.sh/users/472924), [Truxxxton](https://osu.ppy.sh/users/1379428), [S3B4](https://osu.ppy.sh/users/3437784) |
 | ![][flag_ID] | Indonesia | **[Shurelia](https://osu.ppy.sh/users/3807986)**, [Deceitful](https://osu.ppy.sh/users/1396447), [\_EliteYud\_](https://osu.ppy.sh/users/2365634), [Yoshida Haru-](https://osu.ppy.sh/users/3073351), [- Rii -](https://osu.ppy.sh/users/3734591) |
-
----
 
 ## Mappools
 
@@ -299,8 +291,6 @@ La competición ha concluido con el siguiente podio:
 - Tiebreaker
   - **[Boots Randolph - Yakety Sax (Mashley) \[Ridiculous\]](https://osu.ppy.sh/beatmapsets/17943#fruits/63804)**
 
----
-
 ## Resultados
 
 ### Fase de grupos
@@ -380,8 +370,6 @@ La competición ha concluido con el siguiente podio:
 | ![][flag_SE] **Suecia** | **6** - 5 | Japón ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/7314303) |
 | ![][flag_DE] Alemania | 3 - **6** | **Corea del Sur** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/7317343) |
 
----
-
 ## Reglamento
 
 ### Reglas del torneo
@@ -429,7 +417,7 @@ La competición ha concluido con el siguiente podio:
    2. La configuración de la sala será: Catch the Beat, Equipo-Vs., Win Condition: 'Score '. El nombre debe ser "CtB World Cup 2014: EquipoBlue vs EquipoRed"
    3. El primer equipo en el nombre de la sala será el azul, el otro equipo, el rojo.
 2. Los jugadores son libres de elegir los dos mapas de calentamiento.
-3. La elección de mapas se alternará entre cada capitán seleccionando un mapa del mappool. Cada capitán debe usar "!roll" en \#multiplayer para determinar que equipo elige primero.
+3. La elección de mapas se alternará entre cada capitán seleccionando un mapa del mappool. Cada capitán debe usar `!roll` en `#multiplayer` para determinar que equipo elige primero.
    1. Los capitanes pueden elegir mapas NoMod y FreeMod libremente.
    2. La elección de mapas de mod específico es limitada. Cada capitán puede elegir solo un mapa de cada mod durante el partido.
       1. La elección de mapas FreeMod es ilimitada.
@@ -464,36 +452,36 @@ La competición ha concluido con el siguiente podio:
 4. La planificación de los partidos estará a cargo del Tournament Management. Los horarios serán anunciados el domingo anterior a la fecha en la que los partidos tengan lugar. (por ej: el 11 de mayo para la fase de grupos). Los organizadores tratarán de buscar horarios adecuados a la zona horaria de los participantes.
 5. Los capitanes son responsables de la disponibilidad de su equipo. La posibilidad de anotar a 6 jugadores es para asegurar que cada equipo puede presentar al menos tres jugadores para cada partido. Si un equipo no puede presentar tres jugadores para un partido, este será considerado como perdido.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BO]: /wiki/shared/flag/BO.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_EE]: /wiki/shared/flag/EE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HR]: /wiki/shared/flag/HR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_UY]: /wiki/shared/flag/UY.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BO]: /wiki/shared/flag/BO.gif "Bolivia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
+[flag_DK]: /wiki/shared/flag/DK.gif "Dinamarca"
+[flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
+[flag_ES]: /wiki/shared/flag/ES.gif "España"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
+[flag_FR]: /wiki/shared/flag/FR.gif "Francia"
+[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_HR]: /wiki/shared/flag/HR.gif "Croacia"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japón"
+[flag_KR]: /wiki/shared/flag/KR.gif "Sur Corea"
+[flag_MX]: /wiki/shared/flag/MX.gif "México"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malasia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
+[flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nueva Zelanda"
+[flag_PE]: /wiki/shared/flag/PE.gif "Perú"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suecia"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
+[flag_TH]: /wiki/shared/flag/TH.gif "Tailandia"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwán"
+[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
+[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"

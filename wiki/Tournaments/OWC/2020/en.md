@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2020 logo](/wiki/shared/news/banners/OWC_2020_banner.jpg)
 
-The **osu! World Cup 2020** (***OWC 2020***) is a country-based osu! tournament hosted by the [osu!team](/wiki/People/The_Team). It is the 11th installment of the osu! World Cup.
+The **osu! World Cup 2020** (***OWC 2020***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the 11th instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **osu! World Cup 2020** (***OWC 2020***) is a country-based osu! tournament 
 
 ## Prizes
 
-The osu! World Cup 2020 offers a $5,000 cash prize pool up for grabs and limited edition merch!
+The osu! World Cup 2020 offered a $5,000 cash prize pool and limited edition merch!
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -34,11 +34,13 @@ The osu! World Cup 2020 offers a $5,000 cash prize pool up for grabs and limited
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 36% of the prize pool, exclusive single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 14% of the prize pool, exclusive single-run merch, profile badge |
 
+![](img/badge.png "OWC 2020 winner badge") ![](img/badge2.png "OWC 2020 2nd place badge") ![](img/badge3.png "OWC 2020 3rd place badge")
+
 ## Organisation
 
-The osu! World Cup 2020 is run by the osu!team and various community members.
+The osu! World Cup 2020 was run by the osu! team and various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Mappool selector | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943) |
@@ -108,37 +110,69 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 | ![][flag_UY] | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Madozito](https://osu.ppy.sh/users/4054429), [Saphity](https://osu.ppy.sh/users/5382216), [-PloX](https://osu.ppy.sh/users/6404583), [Kazuki K](https://osu.ppy.sh/users/6407282), [Rebo](https://osu.ppy.sh/users/6942259), [FDX](https://osu.ppy.sh/users/8987016) |
 | ![][flag_VN] | **Vietnam** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [Ui chan](https://osu.ppy.sh/users/5449433), [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [Hoaq](https://osu.ppy.sh/users/7696512), [Huukun](https://osu.ppy.sh/users/8114571), [FukutoTojido](https://osu.ppy.sh/users/8266808), [sindes19](https://osu.ppy.sh/users/11021073) |
 
-## Match schedule: Semifinals
+## Podium
 
-### Saturday, 21 November 2020
-
-| Team A | Team B | Match time | Local time A | Local time B |  |
-| --: | :-- | :-: | :-: | :-: | :-: |
-| Hong Kong ![][flag_HK] | ![][flag_AU] Australia | **10:00 UTC** | 18:00 UTC+08 | 21:00 UTC+11 | ² |
-| China ![][flag_CN] | ![][flag_ID] Indonesia | **12:00 UTC** | 20:00 UTC+08 | 19:00 UTC+07 | ² |
-| South Korea ![][flag_KR] | ![][flag_RU] Russian Federation | **13:00 UTC** | 22:00 UTC+09 | 16:00 UTC+03 | ² |
-| Brazil ![][flag_BR] | ![][flag_TW] Taiwan | **14:30 UTC** | 11:30 UTC-03 | 22:30 UTC+08 | ² |
-| Canada ![][flag_CA] | ![][flag_JP] Japan | **17:00 UTC** | 12:00 UTC-05 | 02:00 (Sun.) UTC+09 | ¹ |
-| United States ![][flag_US] | ![][flag_DE] Germany | **19:00 UTC** | 12:00 UTC-07 | 20:00 UTC+01 | ¹ |
-
-### Sunday, 22 November 2020
-
-| Team A | Team B | Match time | Local time A | Local time B |  |
-| --: | :-- | :-: | :-: | :-: | :-: |
-| Indonesia ![][flag_ID] | ![][flag_AU] Australia | **09:00 UTC** | 16:00 UTC+07 | 20:00 UTC+11 | ³ |
-| China ![][flag_CN] | ![][flag_HK] Hong Kong | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 | ³ |
-| China ![][flag_CN] | ![][flag_AU] Australia | **12:00 UTC** | 20:00 UTC+08 | 23:00 UTC+11 | ³ |
-| Indonesia ![][flag_ID] | ![][flag_HK] Hong Kong | **12:00 UTC** | 19:00 UTC+07 | 20:00 UTC+08 | ³ |
-| South Korea ![][flag_KR] | ![][flag_BR] Brazil | **13:30 UTC** | 22:30 UTC+09 | 10:30 UTC-03 | ³ |
-| South Korea ![][flag_KR] | ![][flag_TW] Taiwan | **13:30 UTC** | 22:30 UTC+09 | 21:30 UTC+08 | ³ |
-| Russian Federation ![][flag_RU] | ![][flag_TW] Taiwan | **13:30 UTC** | 16:30 UTC+03 | 21:30 UTC+08 | ³ |
-| Russian Federation ![][flag_RU] | ![][flag_BR] Brazil | **15:00 UTC** | 18:00 UTC+03 | 12:00 UTC-03 | ³ |
-
-¹ Winner bracket encounter\
-² Loser bracket encounter\
-³ Encounter dependent on results of ²Loser bracket encounter
+![](img/podium.jpg "OWC 2020 podium")
 
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [ELFENSJoN - Hyousou wa Hakuen wo Matoite (Yusomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1312064#osu/2719302)
+  - [Bal-Sagoth - Shackled To The Trilithon Of Kutulu (Mazzerin) \[Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn - OWC\]](https://osu.ppy.sh/beatmapsets/1312054#osu/2719284)
+  - [Hyuman - DISHONOR (yaspo) \[hasplasho's dishonorable spaghetti\]](https://osu.ppy.sh/beatmapsets/1276322#osu/2651784)
+  - [Zekk - Fluctuation (Acylica) \[wtf jhin zhao?\]](https://osu.ppy.sh/beatmapsets/1312159#osu/2719485)
+  - [Brymir - Hails from the Edge (LMT) \[War Cry\]](https://osu.ppy.sh/beatmapsets/1312066#osu/2719305)
+  - [II-L - SPUTNIK-3 (DeviousPanda) \[Beyond OWC\]](https://osu.ppy.sh/beatmapsets/1312076#osu/2719326)
+- Hidden
+  - [SEPHID - Critical Cannonball (DeviousPanda) \[Limit Break (Tourney Ver.)\]](https://osu.ppy.sh/beatmapsets/1189616#osu/2719329)
+  - [Chikamori Kayako - Kigurumi Sungeki (Mirash) \[Labyrinth of Steam\]](https://osu.ppy.sh/beatmapsets/1312079#osu/2719334)
+  - [Nishigomi Kakumi - Gekka Bijin (Flask) \[Oni (OWC Edit Ver.)\]](https://osu.ppy.sh/beatmapsets/1059581#osu/2719328)
+- HardRock
+  - [LiSA - Thrill, Risk, Heartless (SkyFlame) \[Lethality\]](https://osu.ppy.sh/beatmapsets/1312103#osu/2719386)
+  - [Takanashi Yasuharu - Ketsudan no Toki (Mordred) \[Judgement\]](https://osu.ppy.sh/beatmapsets/1312098#osu/2719373)
+  - [DJ'TEKINA//SOMETHING - Internet bitch P\*Light Remix (Priti) \[Ultra\]](https://osu.ppy.sh/beatmapsets/296198#osu/665149)
+- DoubleTime
+  - [Asaka - Eternal Star (Luscent) \[read island\]](https://osu.ppy.sh/beatmapsets/1312114#osu/2719411)
+  - [Kijibato - w/WWW feat.Hoshimiya Toto (Elcheer) \[Utopia\]](https://osu.ppy.sh/beatmapsets/1312343#osu/2719893)
+  - [Synthamesk - Suspirious (fergas) \[AfteraLL\]](https://osu.ppy.sh/beatmapsets/1312111#osu/2719407)
+  - [Akatsuki Records - Adieu, to this Lively Graveyard (yaspo) \[KIRBY REMIX DELUXE EDITION\]](https://osu.ppy.sh/beatmapsets/1252820#osu/2603690)
+- FreeMod
+  - [Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka? (Lasse) \[Affection (owc ver.)\]](https://osu.ppy.sh/beatmapsets/1312124#osu/2719426)
+  - [Elements Garden - Mugen Kidou (Nathan) \[read aokana\]](https://osu.ppy.sh/beatmapsets/1312130#osu/2719439)
+  - [LeaF - Kyouki Ranbu (vikala) \[Master\]](https://osu.ppy.sh/beatmapsets/1312129#osu/2719437)
+- Tiebreaker
+  - **[Camellia - OOPARTS (Realazy) \[Zenith\]](https://osu.ppy.sh/beatmapsets/1312143#osu/2719462)**
+
+### Finals
+
+- NoMod
+  - [BUTAOTOME - Osanadachi (BarkingMadDog) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1306569#osu/2708955)
+  - [Musical Masterpiece - M-A(FOOLISH) (idke) \[GYZE - HONESTY\]](https://osu.ppy.sh/beatmapsets/1306566#osu/2708949)
+  - [rei sirose - Lost Umbrella (Natteke desu) \[PTSD\]](https://osu.ppy.sh/beatmapsets/1306564#osu/2708946)
+  - [Camellia - #1f1e33 (Realazy) \[fractured ver.\]](https://osu.ppy.sh/beatmapsets/1192060#osu/2708950)
+  - [goreshit - xenobeat (fergas) \[DeathleSS\]](https://osu.ppy.sh/beatmapsets/1306568#osu/2708952)
+  - [NIWASHI - Playing with Ruby (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/1306570#osu/2708983)
+- Hidden
+  - [Marmalade butcher - Amanita (DeviousPanda) \[Collab Extreme\]](https://osu.ppy.sh/beatmapsets/1306572#osu/2708985)
+  - [BAND-MAID - Spirit!! (Lasse) \[Expert!!\]](https://osu.ppy.sh/beatmapsets/1306578#osu/2709014)
+  - [ARM (IOSYS) + Brasscapsule - Jazz is Rad (DeviousPanda) \[Collab Extravaganza\]](https://osu.ppy.sh/beatmapsets/1306575#osu/2708997)
+- HardRock
+  - [Kotone - Flash (Talulah) \[Congratz on Your Universal Music Label Kotone!\]](https://osu.ppy.sh/beatmapsets/1306585#osu/2709040)
+  - [Himeringo - Six Trillion Years and Overnight Story (Sparhten) \[Eternity\]](https://osu.ppy.sh/beatmapsets/1306590#osu/2709049)
+  - [Yousei Teikoku - Naikan Uchuu Shisha no Yurikago (IsomirDiAngelo) \[Cradle of the Dead\]](https://osu.ppy.sh/beatmapsets/1306595#osu/2709056)
+- DoubleTime
+  - [Ceui - Hoshi Ori Yume Mirai (Nagi Hisakawa) \[Constellation\]](https://osu.ppy.sh/beatmapsets/1306598#osu/2709059)
+  - [ZUN - Demystify Feast (Halfslashed) \[Lunatic (OWC Edit)\]](https://osu.ppy.sh/beatmapsets/477763#osu/2709164)
+  - [BAND-MAID - DICE (Lasse) \[INSANE.\]](https://osu.ppy.sh/beatmapsets/1248526#osu/2594991)
+  - [SOUND HOLIC - EXISTENCE (Mirash) \[DISCONTINUOUS\]](https://osu.ppy.sh/beatmapsets/1306610#osu/2709076)
+- FreeMod
+  - [Falcom Sound Team jdk - Seductive Shudder (jonathanlfj) \[Bewitching OWC\]](https://osu.ppy.sh/beatmapsets/1306626#osu/2709094)
+  - [PELICAN FANCLUB - Sangenshoku (fartownik) \[Scientia Scortillum\]](https://osu.ppy.sh/beatmapsets/1306614#osu/2709080)
+  - [Into Infernus - The Sowing Tear (Mazzerin) \[A Sorcery Written in Blood\]](https://osu.ppy.sh/beatmapsets/1306616#osu/2709083)
+- Tiebreaker
+  - **[Asriel - Raison D'etre (jonathanlfj) \[EXist\]](https://osu.ppy.sh/beatmapsets/1306628#osu/2709097)**
 
 ### Semifinals
 
@@ -265,9 +299,65 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 
 ## Match results
 
+### Grand Finals
+
+The stats of the Grand Finals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Csyk7zgrDF4iFJvgFRiBniCS6ZsQyXEkndNVUB65Un8/edit?rm=minimal).
+
+Saturday, 5 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Canada ![][flag_CA] | 0 | **7** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/71028303) |
+
+Sunday, 6 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **7** | 6 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/71094276) |
+
+### Finals
+
+The stats of the Finals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal).
+
+Saturday, 28 November 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Germany** ![][flag_DE] | **7** | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/70607012) |
+| **Japan** ![][flag_JP] | **7** | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/70615882) |
+| **United States** ![][flag_US] | **7** | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/70645551) |
+
+Sunday, 29 November 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Japan ![][flag_JP] | 5 | **7** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/70672537) |
+
+### Semifinals
+
+The stats of the Semifinals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal).
+
+Saturday, 21 November 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hong Kong ![][flag_HK] | 0 | **6** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/70209883) |
+| China ![][flag_CN] | 5 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/70213695) |
+| **South Korea** ![][flag_KR] | **6** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/70216160) |
+| **Brazil** ![][flag_BR] | **6** | 5 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/70220193) |
+| **Canada** ![][flag_CA] | **6** | 3 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/70228660) |
+| **United States** ![][flag_US] | **6** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/70236028) |
+
+Sunday, 22 November 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Indonesia ![][flag_ID] | 1 | **6** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/70270667) |
+| South Korea ![][flag_KR] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/70279413) |
+
 ### Quarterfinals
 
-The stats of the Quarterfinals can be found [here](https://docs.google.com/spreadsheets/d/1M0EikaR4xZr4T-eKapCVReNAazTgE8P1Gjn_CSb4mQw/edit?rm=minimal "Google spreadsheet").
+The stats of the Quarterfinals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1M0EikaR4xZr4T-eKapCVReNAazTgE8P1Gjn_CSb4mQw/edit?rm=minimal).
 
 Saturday, 14 November 2020:
 
@@ -297,7 +387,7 @@ Sunday, 15 November 2020:
 
 ### Round of 16
 
-The stats of the Round of 16 can be found [here](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal "Google spreadsheet").
+The stats of the Round of 16 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal).
 
 Saturday, 7 November 2020:
 
@@ -327,7 +417,7 @@ Sunday, 8 November 2020:
 
 ### Round of 32
 
-The stats of the Round of 32 can be found [here](https://docs.google.com/spreadsheets/d/1Kj0Y1ycdQjPPGIBNUvJqnEi4U5UlBvJPhkXQbsmTYLg/edit?rm=minimal "Google spreadsheet").
+The stats of the Round of 32 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Kj0Y1ycdQjPPGIBNUvJqnEi4U5UlBvJPhkXQbsmTYLg/edit?rm=minimal).
 
 Saturday, 31 October 2020:
 
@@ -357,7 +447,7 @@ Sunday, 1 November 2020:
 
 ### Qualifiers
 
-The stats of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal "Google spreadsheet").
+The stats of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal).
 
 ## Ruleset
 
@@ -438,7 +528,7 @@ The stats of the Qualifiers can be found [here](https://docs.google.com/spreadsh
 2. Each captain can ban **one beatmap** to be selected from the pool in the Round of 32 and Round of 16. These beatmaps are not allowed to be picked by any team in the entire match.
    - **From Quarterfinals onwards, the number of bans increases to two. However, each team may not ban more than one map of any mod bracket (excluding NoMod).**
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-4. Each captain must use "!roll" once in #multiplayer.
+4. Each captain must use `!roll` once in `#multiplayer`.
    - The captain with the higher roll decides which team **picks** first.
    - The captain with the lower roll decides which team **bans** first.
    - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**

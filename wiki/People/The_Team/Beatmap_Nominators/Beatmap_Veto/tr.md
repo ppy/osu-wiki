@@ -1,10 +1,15 @@
+---
+outdated: true
+outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
+---
+
 # Beatmap vetosu
 
-*Beatmap vetosu* bir [Beatmap Aday Göstericinin](/wiki/People/Beatmap_Nominators) beatmapin kalitesiyle ilgili Dereceli bölümü için uygun olmayacak derecede önemli sorunlar olduğunu düşündüğünde beatmapi Niteliklendirmeden alıkoymasını sağlar. Mapin Niteliklendirme sürecine devam etmesinden önce değinilmesi gerektiğini düşündüğü her türlü kalite sorunu hakkında ayrıntılı bir şekilde tartışma ve konuya açıklık kazandırma arayışı onların temel sorumluluklarındandır.
+*Beatmap vetosu* bir [Beatmap Aday Göstericinin](/wiki/People/The_Team/Beatmap_Nominators) beatmapin kalitesiyle ilgili Dereceli bölümü için uygun olmayacak derecede önemli sorunlar olduğunu düşündüğünde beatmapi Niteliklendirmeden alıkoymasını sağlar. Mapin Niteliklendirme sürecine devam etmesinden önce değinilmesi gerektiğini düşündüğü her türlü kalite sorunu hakkında ayrıntılı bir şekilde tartışma ve konuya açıklık kazandırma arayışı onların temel sorumluluklarındandır.
 
-Herhangi bir Beatmap Aday Gösterici, [Beatmap Aday Gösterici Kurallarında](/wiki/People/Beatmap_Nominators/Rules) bahsedildiği gibi, ilgili oyun modunda/modlarında yetkin ise bir beatmap vetosu yerleştirebilir. Her beatmap vetosunun taraflar arası bir anlaşmanın sağlanması amacıyla her iki tarafın da - mapper ile beatmap vetosunu yerleştiren Aday Gösterici - konu üzerinde tartışması gerekir.
+Herhangi bir Beatmap Aday Gösterici, [Beatmap Aday Gösterici Kurallarında](/wiki/People/The_Team/Beatmap_Nominators/Rules) bahsedildiği gibi, ilgili oyun modunda/modlarında yetkin ise bir beatmap vetosu yerleştirebilir. Her beatmap vetosunun taraflar arası bir anlaşmanın sağlanması amacıyla her iki tarafın da - mapper ile beatmap vetosunu yerleştiren Aday Gösterici - konu üzerinde tartışması gerekir.
 
-Tartışmanın yer almadığı ya da sonuçlanmadığı durumlarda, ve mapperın veya veto eden Aday Göstericinin talebiyle, [NAT](/wiki/People/Nomination_Assessment_Team) (Aday Gösterme Denetleme Takımı) üyeleri vetonun onanması ya da reddedilmesi için bir arabuluculuk harekete geçirirler ve gidişatını kontrol ederler. Arabuluculuk, ön yargıyı azaltmak için, Beatmap Aday Göstericiler ve NAT üyeleri arasından rastgele seçilen bir jüri tarafından oluşturulur, ve bu jüri tarafından anonim olarak oylanır. Oylama tamamlandığında, her bir jüri üyesinin düşüncesi arabuluculuk sonucuyla birlikte beatmap tartışmasında açıklanır.
+Tartışmanın yer almadığı ya da sonuçlanmadığı durumlarda, ve mapperın veya veto eden Aday Göstericinin talebiyle, [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (Aday Gösterme Denetleme Takımı) üyeleri vetonun onanması ya da reddedilmesi için bir arabuluculuk harekete geçirirler ve gidişatını kontrol ederler. Arabuluculuk, ön yargıyı azaltmak için, Beatmap Aday Göstericiler ve NAT üyeleri arasından rastgele seçilen bir jüri tarafından oluşturulur, ve bu jüri tarafından anonim olarak oylanır. Oylama tamamlandığında, her bir jüri üyesinin düşüncesi arabuluculuk sonucuyla birlikte beatmap tartışmasında açıklanır.
 
 ## Bir beatmap vetosu gerçekleştirme
 

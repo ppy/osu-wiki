@@ -9,7 +9,11 @@ The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatma
 
 Members of the NAT are distinguished by their red username and user title. Like the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), they have site-wide moderation permissions and a dark red username in the game's chat channels.
 
+**All members of the Nomination Assessment Team are sworn to uphold [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
+
 ## Responsibilities
+
+***Note: To report a member of NAT misbehaving or breaking the Contributor Code of Conduct, contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***
 
 The NAT are responsible for a variety of mapping-related tasks that can be separated into four subcategories:
 
@@ -34,58 +38,58 @@ The NAT keep tabs on potential NAT candidates over long periods of time, and occ
 
 ## Team members
 
-The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members.
-
 *Note: All NAT members speak English in addition to the language(s) listed below unless noted otherwise.*
+
+The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members. In addition to areas mentioned below, all NAT members take part in [reviewing audio and visual content included in beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
 ### osu!
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, Moderation |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, moderation |
+| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluation |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic | Evaluation, Structural, Communication |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic | Evaluation, structural, moderation, communication |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluation |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | German | Evaluation |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | German | Evaluation |
-| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, Communication |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation, Structural, Communication |
+| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, communication |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation, structural, communication |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese | Evaluation, Structural, Communication |
+| ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluation |
+| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanish, French | Evaluation |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Dutch | Evaluation |
+| ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Polish | Evaluation |
 
 ### osu!taiko
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese | Evaluation |
-| ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | German | Evaluation |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai | Evaluation |
 
 ### osu!catch
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish, German | Evaluation, Moderation |
-| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluation |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish, German | Evaluation, moderation |
+| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluation, structural |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korean | Evaluation, communication |
 
 ### osu!mania
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | German, Polish | Evaluation |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch | Evaluation, Moderation |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French | Evaluation |
+| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

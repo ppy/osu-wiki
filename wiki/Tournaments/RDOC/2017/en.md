@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2017 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), and ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469). It was the third installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), and ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469). It was the third instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elim
 | --: | :-- |
 | Registration phase | 2017-02-03/2017-02-20 |
 | Live drawings | 2017-02-26 |
-| Group Stage | 2017-03-04/2017-03-12 |
+| Group stage | 2017-03-04/2017-03-12 |
 | Round of 16 | 2017-03-18/2017-03-19 |
 | Quarterfinals | 2017-03-25/2017-03-26 |
 | Semifinals | 2017-04-01/2017-04-02 |
@@ -26,12 +26,12 @@ The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 12 months of osu!supporter tag, custom hoodie |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag, custom t-shirt |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
-| *4th place* | 2 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 12 months of osu!supporter, custom hoodie |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter, custom t-shirt |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
+| *4th place* | 2 months of osu!supporter |
 
-![RDOC 2017 winner badge](img/badge.png)
+![](img/badge.png "RDOC 2017 winner badge")
 
 ## Organisation
 
@@ -40,7 +40,7 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469), ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963) |
-| Map selector | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469), ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366), ![][flag_DK] [Lemmen](https://osu.ppy.sh/users/6090254) |
+| Mappool selector | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469), ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366), ![][flag_DK] [Lemmen](https://osu.ppy.sh/users/6090254) |
 | Referee | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653), ![][flag_DK] [-Gabby-](https://osu.ppy.sh/users/3727470), ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Lemmen](https://osu.ppy.sh/users/6090254), ![][flag_DK] [Asymmetry Echo](https://osu.ppy.sh/users/4290324), ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963), ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380), ![][flag_DK] [New Username](https://osu.ppy.sh/users/4745206), ![][flag_DK] [\[ Pennek \]](https://osu.ppy.sh/users/3723742) |
 | Streamer | ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589), ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380), ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653), ![][flag_DK] [John Cena](https://osu.ppy.sh/users/2958963) |
 | Commentator | ![][flag_DK] [Lemmen](https://osu.ppy.sh/users/6090254), ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380), ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469), ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653), ![][flag_SE] [Velo](https://osu.ppy.sh/users/6245307), ![][flag_DK] [Flyville](https://osu.ppy.sh/users/6124808), ![][flag_DK] [John Cena](https://osu.ppy.sh/users/2958963) |
@@ -77,7 +77,7 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 
 ## Podium
 
- This competition has come to an end and resulted in the following podium:
+This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
@@ -192,7 +192,7 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 - Tiebreaker
   - **[Sakaue Nachi - Crazy Hot \[Crazy Night\]](https://osu.ppy.sh/beatmapsets/175671#osu/703584)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [sta - Iris \[Insane\]](https://osu.ppy.sh/beatmapsets/94917#osu/255163)
@@ -222,7 +222,7 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 
 ### Grand Finals
 
-Sunday, 2018-10-27:
+Sunday, 27 October 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -231,7 +231,7 @@ Sunday, 2018-10-27:
 
 ### Finals
 
-Saturday, 2018-10-20:
+Saturday, 20 October 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -242,34 +242,34 @@ Saturday, 2018-10-20:
 
 ### Semifinals
 
-Friday, 2018-03-31:
+Friday, 31 March 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Zakura** ![][flag_DK] | **6** | 0 | ![][flag_DK] Kawatta |
 | LB | Zog ![][flag_DK] | 4 | **6** | ![][flag_DK] **Kazutakee** |
 
-Saturday, 2018-04-01:
+Saturday, 1 April 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **waefwerf** ![][flag_DK] | **6** | 4 | ![][flag_DK] raser1234 |
 | LB | Crylizhy ![][flag_DK] | 3 | **6** | ![][flag_DK] **Vandabe** |
 
-Sunday, 2018-04-02:
+Sunday, 2 April 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | LedoodeNiginz ![][flag_DK] | 1 | **6** | ![][flag_DK] **teamplayer51** |
 | LB | **teamplayer51** ![][flag_DK] | **6** | 1 | ![][flag_DK] Kazutakee |
 
-Monday, 2018-04-03:
+Monday, 3 April 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Vandabe** ![][flag_DK] | **6** | 2 | ![][flag_DK] Zakura |
 
-Thursday, 2018-04-06:
+Thursday, 6 April 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -277,7 +277,7 @@ Thursday, 2018-04-06:
 
 ### Quarterfinals
 
-Saturday, 2018-03-25:
+Saturday, 25 March 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -286,7 +286,7 @@ Saturday, 2018-03-25:
 | LB | **Zakura** ![][flag_DK] | **5** | 2 | ![][flag_DK] StevenDANK |
 | LB | **LedoodeNiginz** ![][flag_DK] | **5** | 0 | ![][flag_DK] Power Supply |
 
-Sunday, 2018-03-26:
+Sunday, 26 March 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -297,20 +297,20 @@ Sunday, 2018-03-26:
 
 ### Round of 16
 
-Friday, 2017-03-17:
+Friday, 17 March 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | Power Supply ![][flag_DK] | 0 | **5** | ![][flag_DK] **Hudda** |
 
-Saturday, 2018-03-18:
+Saturday, 18 March 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | \[ Pennek \] ![][flag_DK] | 1 | **5** | ![][flag_DK] **waefwerf** |
 | UB | **Crylizhy** ![][flag_DK] | **5** | 1 | ![][flag_DK] LedoodeNiginz |
 
-Sunday, 2018-03-19:
+Sunday, 19 March 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -318,21 +318,21 @@ Sunday, 2018-03-19:
 | UB | **Zog** ![][flag_DK] | **5** | 2 | ![][flag_DK] Zakura |
 | UB | StevenDANK ![][flag_DK] | 3 | **5** | ![][flag_DK] **raser1234** |
 
-Monday, 2018-03-20:
+Monday, 20 March 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **Kawatta** ![][flag_DK] | **5** | 3 | ![][flag_DK] Kazutakee |
 
-Tuesday, 2018-03-21:
+Tuesday, 21 March 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **iamVill** ![][flag_DK] | **5** | 1 | ![][flag_DK] Asymmetry Echo |
 
-### Group Stage
+### Group stage
 
-Saturday, 2017-03-04:
+Saturday, 4 March 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -349,7 +349,7 @@ Saturday, 2017-03-04:
 | F | **Zakura** ![][flag_DK] | **4** | 1 | ![][flag_DK] LedoodeNiginz |
 | F | **Arild** ![][flag_DK] | **4** | 3 | ![][flag_DK] TimG |
 
-Sunday, 2017-03-05:
+Sunday, 5 March 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -363,7 +363,7 @@ Sunday, 2017-03-05:
 | H | **raser1234** ![][flag_DK] | **4** | 0 | ![][flag_DK] -Gabby- |
 | H | dobo-chan ![][flag_DK] | 3 | **4** | ![][flag_DK] **Power Supply** |
 
-Friday, 2017-03-10:
+Friday, 10 March 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -374,7 +374,7 @@ Friday, 2017-03-10:
 | E | Contaminate ![][flag_DK] | 2 | **4** | ![][flag_DK] **Zog** |
 | E | Contaminate ![][flag_DK] | 3 | **4** | ![][flag_DK] **DragonsDungeon** |
 
-Saturday, 2017-03-11:
+Saturday, 11 March 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -388,7 +388,7 @@ Saturday, 2017-03-11:
 | G | **StevenDANK** ![][flag_DK] | **4** | 1 | ![][flag_DK] Hoarsefish |
 | G | Gudafild ![][flag_DK] | 1 | **4** | ![][flag_DK] **Hoarsefish** |
 
-Sunday, 2017-03-12:
+Sunday, 12 March 2017:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |

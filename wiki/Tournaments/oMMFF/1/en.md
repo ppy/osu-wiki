@@ -1,24 +1,23 @@
 ---
 tags:
-- osu! Multi Mode French Fiesta
-- oMMFF
-- MMFF
+  - oMMFF
+  - MMFF
 ---
 
 # osu! Multi Mode French Fiesta
 
-![oMMFF Logo](img/logo.png)
+![oMMFF logo](img/logo.png)
 
-The **osu! Multi Mode French Fiesta** (***oMMFF***) was a French double-elimination one-on-one tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) for the osu!, osu!taiko, osu!catch, and the osu!mania game modes. It was the first installment of the osu! Multi Mode French Fiesta.
+The **osu! Multi Mode French Fiesta** (***oMMFF***) was a 1v1 French double-elimination tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) for the osu!, osu!taiko, osu!catch, and the osu!mania game modes. It was the first instalment of the osu! Multi Mode French Fiesta.
 
-## Tournament Schedule
+## Tournament schedule
 
 ### osu!
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-11-04/2018-12-02 |
-| Live Drawings | 2018-12-02 (17:00 UTC) |
+| Registration phase | 2018-11-04/2018-12-02 |
+| Live drawings | 2018-12-02 (17:00 UTC) |
 | Qualifiers | 2018-12-15/2018-12-16 |
 | Round of 32 | 2019-01-05/2019-01-06 |
 | Round of 16 | 2019-01-12/2019-01-13 |
@@ -31,10 +30,10 @@ The **osu! Multi Mode French Fiesta** (***oMMFF***) was a French double-eliminat
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-11-10/2018-12-09 |
-| Live Drawings | 2018-12-09 (17:00 UTC) |
+| Registration phase | 2018-11-10/2018-12-09 |
+| Live drawings | 2018-12-09 (17:00 UTC) |
 | Qualifiers | 2019-01-05/2019-01-06 |
-| Group Stage | 2019-01-12/2019-01-13 |
+| Group stage | 2019-01-12/2019-01-13 |
 | Round of 12 | 2019-01-19/2019-01-20 |
 | Semifinals | 2019-01-26/2019-01-27 |
 | Finals | 2019-02-02/2019-02-03 |
@@ -44,8 +43,8 @@ The **osu! Multi Mode French Fiesta** (***oMMFF***) was a French double-eliminat
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-11-14/2018-12-16 |
-| Live Drawings | 2018-12-16 (17:00 UTC) |
+| Registration phase | 2018-11-14/2018-12-16 |
+| Live drawings | 2018-12-16 (17:00 UTC) |
 | Qualifiers | 2019-01-05/2019-01-06 |
 | Quarterfinals | 2019-01-12/2019-01-13 |
 | Semifinals | 2019-01-19/2019-01-20 |
@@ -56,8 +55,8 @@ The **osu! Multi Mode French Fiesta** (***oMMFF***) was a French double-eliminat
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-11-04/2018-12-23 |
-| Live Drawings | 2018-12-23 (17:00 UTC) |
+| Registration phase | 2018-11-04/2018-12-23 |
+| Live drawings | 2018-12-23 (17:00 UTC) |
 | Qualifiers | 2019-01-12/2019-01-13 |
 | Round of 24 | 2019-01-19/2019-01-20 |
 | Quarterfinals | 2019-01-26/2019-01-27 |
@@ -69,27 +68,27 @@ The **osu! Multi Mode French Fiesta** (***oMMFF***) was a French double-eliminat
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag, [AUKEY KM-G9](https://www.aukey.com/products/87-key-mechanical-keyboard-km-g9/) keyboard, 10€ PayPal/Amazon balance, physical trophy |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag, 10€ PayPal/Amazon balance |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, 10€ PayPal/Amazon balance |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter, [AUKEY KM-G9](https://www.aukey.com/products/87-key-mechanical-keyboard-km-g9/) keyboard, 10€ PayPal/Amazon balance, physical trophy |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter, 10€ PayPal/Amazon balance |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter, 10€ PayPal/Amazon balance |
 
-![oMMFF Winner Badge - osu!](img/badge-std.png) ![oMMFF Winner Badge - osu!taiko](img/badge-tko.png) ![oMMFF Winner Badge - osu!catch](img/badge-ctb.png) ![oMMFF Winner Badge - osu!mania](img/badge-mna.png)
+![](img/badge-std.png "oMMFF winner badge (osu!)") ![](img/badge-tko.png "oMMFF winner badge (osu!taiko)") ![](img/badge-ctb.png "oMMFF winner badge (osu!catch)") ![](img/badge-mna.png "oMMFF winner badge (osu!mania)")
 
 - For the osu! division, all winners got a tablet cover sponsored by [Foxbox](https://foxbox.io/).
 - Physical trophy was custom made specially for the tournament courtesy of ![][flag_FR] [Enygmatique](https://osu.ppy.sh/users/5146531).
 
 ## Organisation
 
-The osu! Multi Mode French Fiesta was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu! Multi Mode French Fiesta was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Head Referee | ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
-| Map Selector (osu!) | ![][flag_FR] [Barbex](https://osu.ppy.sh/users/4904410), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) |
-| Map Selector (osu!taiko) | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
-| Map Selector (osu!catch) | ![][flag_FR] [Emiru](https://osu.ppy.sh/users/3306180) |
-| Map Selector (osu!mania) | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_FR] [AntoAa](https://osu.ppy.sh/users/3897919), ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108), ![][flag_FR] [Cunu](https://osu.ppy.sh/users/7190228), ![][flag_CH] [Haprapra](https://osu.ppy.sh/users/3974114) |
+| Head referee | ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
+| Mappool selector (osu!) | ![][flag_FR] [Barbex](https://osu.ppy.sh/users/4904410), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) |
+| Mappool selector (osu!taiko) | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
+| Mappool selector (osu!catch) | ![][flag_FR] [Emiru](https://osu.ppy.sh/users/3306180) |
+| Mappool selector (osu!mania) | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_FR] [AntoAa](https://osu.ppy.sh/users/3897919), ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108), ![][flag_FR] [Cunu](https://osu.ppy.sh/users/7190228), ![][flag_CH] [Haprapra](https://osu.ppy.sh/users/3974114) |
 | Streamer | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_CH] [Haprapra](https://osu.ppy.sh/users/3974114), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
 | Commentator (osu!) | ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [Barbex](https://osu.ppy.sh/users/4904410), ![][flag_FR] [Battquif](https://osu.ppy.sh/users/2389333), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454), ![][flag_FR] [Zonthem](https://osu.ppy.sh/users/7193908), ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987), ![][flag_FR] [-Unknow](https://osu.ppy.sh/users/3723612), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042) |
 | Commentator (osu!taiko) | ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042), ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973), ![][flag_FR] [Misieuroo](https://osu.ppy.sh/users/6732862), ![][flag_FR] [omegaflo](https://osu.ppy.sh/users/83291), ![][flag_FR] [-Valony-](https://osu.ppy.sh/users/6487540) |
@@ -98,7 +97,7 @@ The osu! Multi Mode French Fiesta was run by various community members by distri
 | Designer | ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993), ![][flag_FR] [Lotchidych](https://osu.ppy.sh/users/8375240) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Referee | ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Kebab De Poche](https://osu.ppy.sh/users/6467693), ![][flag_FR] [\[ Mimir \]](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_GB] [Weavile](https://osu.ppy.sh/users/9665028), ![][flag_FR][Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
-| Wiki Editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
+| Wiki editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -112,11 +111,9 @@ The osu! Multi Mode French Fiesta was run by various community members by distri
   - [osu!mania](https://o2mf.challonge.com/o2mf_mania)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSE0LEyHOBW8P5F37719J2oZMhtba9b7Z-WaT5otksz7lSf4fvIq3giYXHNpT4xl1bOrIhJCPN6xlxO/pubhtml)**
 
----
-
 ## Participants
 
-### osu! Division
+### osu! division
 
 | Seed | Members |
 | :-- | :-- |
@@ -125,7 +122,7 @@ The osu! Multi Mode French Fiesta was run by various community members by distri
 | Low | ![][flag_FR] [Funta668](https://osu.ppy.sh/users/6608227), ![][flag_FR] [Ice Tea citron](https://osu.ppy.sh/users/7298776), ![][flag_FR] [RyuuBei](https://osu.ppy.sh/users/2222447), ![][flag_FR] [volor](https://osu.ppy.sh/users/4898550), ![][flag_BE] [steen](https://osu.ppy.sh/users/9441958), ![][flag_FR] [SanaeFrost](https://osu.ppy.sh/users/4303161), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [-Unknow](https://osu.ppy.sh/users/3723612) |
 | Unseeded | ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [CreeDi](https://osu.ppy.sh/users/9790881), ![][flag_IE] [S E K A I](https://osu.ppy.sh/users/8726490), ![][flag_FR] [\[-Vanilla-\]](https://osu.ppy.sh/users/11717152), ![][flag_FR] [GuiboxFR](https://osu.ppy.sh/users/11261739), ![][flag_BF] [linkfire](https://osu.ppy.sh/users/11719870), ![][flag_BE] [Xawaii](https://osu.ppy.sh/users/10609299) |
 
-### osu!taiko Division
+### osu!taiko division
 
 | Seed | Members |
 | :-- | :-- |
@@ -134,7 +131,7 @@ The osu! Multi Mode French Fiesta was run by various community members by distri
 | Low | ![][flag_FR] [Your Name](https://osu.ppy.sh/users/11525993), ![][flag_FR] [BlackJames](https://osu.ppy.sh/users/5256037), ![][flag_FR] [DwarfSpykerr](https://osu.ppy.sh/users/8453742), ![][flag_FR] [estebdevil](https://osu.ppy.sh/users/9637676), ![][flag_FR] [Niawlys](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Kaho-Hinata](https://osu.ppy.sh/users/8903888) |
 | Unseeded | ![][flag_FR] [Gintoki8](https://osu.ppy.sh/users/2239411), ![][flag_FR] [Sephiroth256](https://osu.ppy.sh/users/5362422), ![][flag_FR] [Hickacou](https://osu.ppy.sh/users/7668748), ![][flag_FR] [Fenrir029](https://osu.ppy.sh/users/11262025), ![][flag_BF] [linkfire](https://osu.ppy.sh/users/11719870) |
 
-### osu!catch Division
+### osu!catch division
 
 | Seed | Members |
 | :-- | :-- |
@@ -143,7 +140,7 @@ The osu! Multi Mode French Fiesta was run by various community members by distri
 | Low | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640), ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141) |
 | Unseeded | ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450), ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694) |
 
-### osu!mania Division
+### osu!mania division
 
 | Seed | Members |
 | :-- | :-- |
@@ -152,49 +149,45 @@ The osu! Multi Mode French Fiesta was run by various community members by distri
 | Low | ![][flag_FR] [polo2000](https://osu.ppy.sh/users/10169467), ![][flag_FR] [quentin5110054](https://osu.ppy.sh/users/8756421), ![][flag_FR] [Trypha](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Exilfaker](https://osu.ppy.sh/users/2735466), ![][flag_FR] [PouletFurtif](https://osu.ppy.sh/users/1271018), ![][flag_FR] [Vivio](https://osu.ppy.sh/users/4545868) |
 | Unseeded | ![][flag_FR] [Roboclop](https://osu.ppy.sh/users/7126414), ![][flag_FR] [-Leks](https://osu.ppy.sh/users/10403635), ![][flag_FR] [The\_Azerty](https://osu.ppy.sh/users/11274064), ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359), ![][flag_FR] [\_Karibu\_](https://osu.ppy.sh/users/7339484), ![][flag_FR] [Zulsramno](https://osu.ppy.sh/users/12563193) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
-### osu! Division
+### osu! division
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239) |
 
-### osu!taiko Division
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622) |
-
-### osu!catch Division
+### osu!taiko division
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622) |
 
-### osu!mania Division
+### osu!catch division
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 
----
+### osu!mania division
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293) |
 
 ## Mappools
 
-### osu! Division
+### osu! division
 
 #### Grand Finals
 
@@ -376,7 +369,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Teminite & PsoGnar - Surface Tension (Yamicchi) \[Pressure\]](https://osu.ppy.sh/beatmapsets/686998#osu/1453846)**
 
-### osu!taiko Division
+### osu!taiko division
 
 #### Grand Finals
 
@@ -493,7 +486,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Black Sun Empire feat Foreign Beggars - Dawn of a Dark Day (Receptor Remix) (Zetera) \[Majin Oni\]](https://osu.ppy.sh/beatmapsets/458597#taiko/982631)**
 
-#### Group Stage
+#### Group stage
 
 **[Download the mappack here! (58 MB)](https://mega.nz/#!449VxYwI!6LRTcDbE-wx9hkjb-kQCc6-okZM16la7s7jn1lZZs0Y)**
 
@@ -517,7 +510,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia ft. Nanahira - Can I Friend You On Bassbook ? Lol (yea) \[Oni\]](https://osu.ppy.sh/beatmapsets/879559#taiko/1839385)**
 
-### osu!catch Division
+### osu!catch division
 
 #### Grand Finals
 
@@ -630,7 +623,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[ICE - L (Deif) \[Ascension\]](https://osu.ppy.sh/beatmapsets/196230#fruits/465454)**
 
-### osu!mania Division
+### osu!mania division
 
 #### Grand Finals
 
@@ -740,46 +733,56 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[BlackY vs. Yooh - XROSS INFECTION (xlwan) \[xl's EXHAUST\]](https://osu.ppy.sh/beatmapsets/486123#mania/1793948)**
 
----
+## Match results
 
-## Match Results
-
-### osu! Division
+### osu! division
 
 #### Grand Finals
 
-| Saturday, 2019-02-02 |  |  |  |  |
+Saturday, 2 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **ThePooN** ![][flag_FR] | **7** | 2 | ![][flag_FR] NerO | [#1](https://osu.ppy.sh/community/matches/49632942) |
 
 #### Finals
 
-| Saturday, 2019-02-02 |  |  |  |  |
+Saturday, 2 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Mooha ![][flag_FR] | 0 | **7** | ![][flag_FR] **ThePooN** | -win by default- |
+| Mooha ![][flag_FR] | 0 | **7** | ![][flag_FR] **ThePooN** | *win by default* |
 | **NerO** ![][flag_FR] | **7** | 3 | ![][flag_FR] Flaven | [#1](https://osu.ppy.sh/community/matches/49310209) |
 
-| Sunday, 2019-02-03 |  |  |  |  |
+Sunday, 3 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Mooha ![][flag_FR] | 0 | **7** | ![][flag_FR] **NerO** | -win by default- |
+| Mooha ![][flag_FR] | 0 | **7** | ![][flag_FR] **NerO** | *win by default* |
 
 #### Semifinals
 
-| Saturday, 2019-01-26 |  |  |  |  |
+Saturday, 26 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Besta ![][flag_FR] | 0 | **6** | ![][flag_FR] **Mooha** | -win by default- |
+| Besta ![][flag_FR] | 0 | **6** | ![][flag_FR] **Mooha** | *win by default* |
 | **ThePooN** ![][flag_FR] | **6** | 3 | ![][flag_FR] NerO | [#1](https://osu.ppy.sh/community/matches/49143789) |
 | SiYes ![][flag_FR] | 2 | **6** | ![][flag_FR] **-raizen-** | [#1](https://osu.ppy.sh/community/matches/49148368) |
 | **Flaven** ![][flag_FR] | **6** | 0 | ![][flag_FR] BAKKALO | [#1](https://osu.ppy.sh/community/matches/49148581) |
 
-| Sunday, 2019-01-27 |  |  |  |  |
+Sunday, 27 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **NerO** ![][flag_FR] | **6** | 2 | ![][flag_FR] -raizen- | [#1](https://osu.ppy.sh/community/matches/49175425) |
-| Besta ![][flag_FR] | 0 | **6** | ![][flag_FR] **Flaven** | -win by default- |
+| Besta ![][flag_FR] | 0 | **6** | ![][flag_FR] **Flaven** | *win by default* |
 
 #### Quarterfinals
 
-| Saturday, 2019-01-19 |  |  |  |  |
+Saturday, 19 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **ThePooN** ![][flag_FR] | **5** | 1 | ![][flag_FR] VicoTeen | [#1](https://osu.ppy.sh/community/matches/48969420) |
 | Flaven ![][flag_FR] | 1 | **5** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/48971151) |
@@ -790,7 +793,9 @@ This competition has come to an end and resulted in the following podium:
 | Ice Tea citron ![][flag_FR] | 0 | **5** | ![][flag_FR] **JustMan** | [#1](https://osu.ppy.sh/community/matches/48978628) |
 | **\_Aquatic\_** ![][flag_FR] | **5** | 0 | ![][flag_FR] -Unknow | [#1](https://osu.ppy.sh/community/matches/48982700) |
 
-| Sunday, 2019-01-20 |  |  |  |  |
+Sunday, 20 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | \_Aquatic\_ ![][flag_FR] | 2 | **5** | ![][flag_FR] **SiYes** | [#1](https://osu.ppy.sh/community/matches/49006814) |
 | **BAKKALO** ![][flag_FR] | **5** | 2 | ![][flag_FR] VicoTeen | [#1](https://osu.ppy.sh/community/matches/49006731) |
@@ -799,115 +804,147 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-| Saturday, 2019-01-12 |  |  |  |  |
+Saturday, 12 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-raizen-** ![][flag_FR] | **4** | 0 | ![][flag_FR] Wrys | [#1](https://osu.ppy.sh/community/matches/48796757) |
 | **Besta** ![][flag_FR] | **4** | 1 | ![][flag_FR] Raiiden | [#1](https://osu.ppy.sh/community/matches/48798000) |
-| **SiYes** ![][flag_FR] | **4** | 0 | ![][flag_FR] volor | -win by default- |
+| **SiYes** ![][flag_FR] | **4** | 0 | ![][flag_FR] volor | *win by default* |
 | **Mooha** ![][flag_FR] | **4** | 0 | ![][flag_FR] FayeurS 2 | [#1](https://osu.ppy.sh/community/matches/48808467) |
-| Kaeldori ![][flag_FR] | 0 | **4** | ![][flag_FR] **VicoTeen** | -win by default- |
+| Kaeldori ![][flag_FR] | 0 | **4** | ![][flag_FR] **VicoTeen** | *win by default* |
 | **Flaven** ![][flag_FR] | **4** | 1 | ![][flag_FR] RyuuBei | [#1](https://osu.ppy.sh/community/matches/48810358) |
 | **NerO** ![][flag_FR] | **4** | 1 | ![][flag_FR] \_Aquatic\_ | [#1](https://osu.ppy.sh/community/matches/48804541) |
 | Raiiden ![][flag_FR] | 2 | **4** | ![][flag_FR] **BAKKALO** | [#1](https://osu.ppy.sh/community/matches/48804893) |
 
-| Sunday, 2019-01-13 |  |  |  |  |
+Sunday, 13 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **ThePooN** ![][flag_FR] | **4** | 0 | ![][flag_FR] cleiminiti | [#1](https://osu.ppy.sh/community/matches/48830879) |
 | **\_Aquatic\_** ![][flag_FR] | **4** | 1 | ![][flag_FR] Funta668 | [#1](https://osu.ppy.sh/community/matches/48835202) |
-| RyuuBei ![][flag_FR] | 0 | **4** | ![][flag_FR] **-Unknow** | -win by default- |
+| RyuuBei ![][flag_FR] | 0 | **4** | ![][flag_FR] **-Unknow** | *win by default* |
 | Kaeldori ![][flag_FR] | 0 | **4** | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/community/matches/48829452) |
 | **cleminiti** ![][flag_FR] | **4** | 1 | ![][flag_FR] S E K A I | [#1](https://osu.ppy.sh/community/matches/48832432) |
 | FayeurS 2 ![][flag_FR] | 3 | **4** | ![][flag_FR] **Ice Tea citron** | [#1](https://osu.ppy.sh/community/matches/48832227) |
-| volor ![][flag_FR] | 0 | **4** | ![][flag_FR] **JustMan** | -win by default- |
+| volor ![][flag_FR] | 0 | **4** | ![][flag_FR] **JustMan** | *win by default* |
 | **Wrys** ![][flag_FR] | **4** | 1 | ![][flag_FR] SanaeFrost | [#1](https://osu.ppy.sh/community/matches/48837758) |
 
 #### Round of 32
 
-| Saturday, 2018-12-20 |  |  |  |  |
+Saturday, 20 December 2018:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **ThePooN** ![][flag_FR] | **4** | 0 | ![][flag_BF] linkfire | [#1](https://osu.ppy.sh/community/matches/48227620) |
 
-| Friday, 2018-12-21 |  |  |  |  |
+Friday, 21 December 2018:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Flaven** ![][flag_FR] | **4** | 2 | ![][flag_FR] GuiboxFR | [#1](https://osu.ppy.sh/community/matches/48264622) |
 
-| Saturday, 2018-12-22 |  |  |  |  |
+Saturday, 22 December 2018:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-raizen-** ![][flag_FR] | **4** | 0 | ![][flag_BE] Xawaii | [#1](https://osu.ppy.sh/community/matches/48280186) |
 
-| Saturday, 2018-12-29 |  |  |  |  |
+Saturday, 29 December 2018:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SiYes** ![][flag_FR] | **4** | 0 | ![][flag_FR] \[-Vanilla-\] | [#1](https://osu.ppy.sh/community/matches/48458408) |
 
-| Friday, 2019-01-04 |  |  |  |  |
+Friday, 4 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | BAKKALO ![][flag_FR] | 2 | **4** | ![][flag_FR] **RyuuBei** | [#1](https://osu.ppy.sh/community/matches/48611004) |
 
-| Saturday, 2019-01-05 |  |  |  |  |
+Saturday, 5 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Wrys** ![][flag_FR] | **4** | 2 | ![][flag_FR] Funta668 | [#1](https://osu.ppy.sh/community/matches/48632274) |
 | TLQ\_Yoshii ![][flag_FR] | 2 | **4** | ![][flag_FR] **volor** | [#1](https://osu.ppy.sh/community/matches/48633379) |
 | **Mooha** ![][flag_FR] | **4** | 0 | ![][flag_IE] S E K A I | [#1](https://osu.ppy.sh/community/matches/48636005) |
-| **FayeurS 2** ![][flag_FR] | **4** | 0 | ![][flag_BE] steen | -win by default- |
+| **FayeurS 2** ![][flag_FR] | **4** | 0 | ![][flag_BE] steen | *win by default* |
 | GuiboxFR ![][flag_FR] | 0 | **4** | ![][flag_FR] **BAKKALO** | [#1](https://osu.ppy.sh/community/matches/48634853) |
-| JustMan ![][flag_FR] | 0 | **4** | ![][flag_FR] **Kaeldori** | -win by default- |
+| JustMan ![][flag_FR] | 0 | **4** | ![][flag_FR] **Kaeldori** | *win by default* |
 | **VicoTeen** ![][flag_FR] | **4** | 1 | ![][flag_FR] Kammthaar | [#1](https://osu.ppy.sh/community/matches/48636313) |
 | **NerO** ![][flag_FR] | **4** | 0 | ![][flag_FR] CreeDi | [#1](https://osu.ppy.sh/community/matches/48637902) |
 | **\_Aquatic\_** ![][flag_FR] | **4** | 3 | ![][flag_FR] SanaeFrost | [#1](https://osu.ppy.sh/community/matches/48639441) |
 | **Raiiden** ![][flag_FR] | **4** | 0 | ![][flag_FR] -Unknow | [#1](https://osu.ppy.sh/community/matches/48644109) |
 
-| Sunday, 2019-01-06 |  |  |  |  |
+Sunday, 6 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Besta** ![][flag_FR] | **4** | 0 | ![][flag_FR] Mirthille | [#1](https://osu.ppy.sh/community/matches/48660923) |
 | Mirthille ![][flag_FR] | 0 | **4** | ![][flag_FR] **-Unknow** | [#1](https://osu.ppy.sh/community/matches/48662099) |
 | \[-Vanilla-\] ![][flag_FR] | 0 | **4** | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/community/matches/48663322) |
 | **cleminiti** ![][flag_FR] | **4** | 1 | ![][flag_FR] Ice Tea citron | [#1](https://osu.ppy.sh/community/matches/48664401) |
-| **S E K A I** ![][flag_FR] | **4** | 0 | ![][flag_BE] steen | -win by default- |
+| **S E K A I** ![][flag_FR] | **4** | 0 | ![][flag_BE] steen | *win by default* |
 | CreeDi ![][flag_FR] | 3 | **4** | ![][flag_FR] **SanaeFrost** | [#1](https://osu.ppy.sh/community/matches/48664783) |
 | linkfire ![][flag_BF] | 0 | **4** | ![][flag_FR] **Ice Tea citron** | [#1](https://osu.ppy.sh/community/matches/48666114) |
 | **JustMan** ![][flag_FR] | **4** | 0 | ![][flag_FR] Kamthaar | [#1](https://osu.ppy.sh/community/matches/48667625) |
-| Xawaii ![][flag_BE] | 0 | **4** | ![][flag_FR] **Funta668** | -win by default- |
+| Xawaii ![][flag_BE] | 0 | **4** | ![][flag_FR] **Funta668** | *win by default* |
 
-### osu!taiko Division
+### osu!taiko division
 
 #### Grand Finals
 
-| Saturday, 2019-02-23 |  |  |  |  |
+Saturday, 23 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **TimmyAkmed** ![][flag_FR] | **7** | 1 | ![][flag_FR] Romainnoda | [#1](https://osu.ppy.sh/community/matches/49797943) |
 
 #### Finals
 
-| Saturday, 2019-02-02 |  |  |  |  |
+Saturday, 2 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Romainnoda ![][flag_FR] | 3 | **7** | ![][flag_FR] **TimmyAkmed** | [#1](https://osu.ppy.sh/community/matches/49306349) |
 | **Yona la loutre** ![][flag_FR] | **7** | 5 | ![][flag_FR] omegaflo | [#1](https://osu.ppy.sh/community/matches/49317966) |
 
-| Sunday, 2019-02-03 |  |  |  |  |
+Sunday, 3 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Romainnoda** ![][flag_FR] | **7** | 2 | ![][flag_FR] Yona la loutre | [#1](https://osu.ppy.sh/community/matches/49338803) |
 
 #### Semifinals
 
-| Saturday, 2019-01-26 |  |  |  |  |
+Saturday, 26 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Briesmas ![][flag_JP] | 0 | **6** | ![][flag_FR] **Romainnoda** | [#1](https://osu.ppy.sh/community/matches/49145806) |
 | **TimmyAkmed** ![][flag_FR] | **6** | 0 | ![][flag_FR] omegaflo | [#1](https://osu.ppy.sh/community/matches/49144207) |
 | Gintoki8 ![][flag_FR] | 0 | **6** | ![][flag_FR] **Yona la loutre** | [#1](https://osu.ppy.sh/community/matches/49142713) |
 
-| Sunday, 2019-01-27 |  |  |  |  |
+Sunday, 27 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-Valony-** ![][flag_FR] | **6** | 0 | ![][flag_FR] Marec | -win by default- |
+| **-Valony-** ![][flag_FR] | **6** | 0 | ![][flag_FR] Marec | *win by default* |
 | Briesmas ![][flag_JP] | 1 | **6** | ![][flag_FR] **Yona la loutre** | [#1](https://osu.ppy.sh/community/matches/49178646) |
 | **omegaflo** ![][flag_FR] | **6** | 4 | ![][flag_FR] -Valony- | [#1](https://osu.ppy.sh/community/matches/49180103) |
 
 #### Round of 12
 
-| Friday, 2019-01-18 |  |  |  |  |
+Friday, 18 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Aciitm1 ![][flag_FR] | 0 | **5** | ![][flag_CA] **DuckyDoom** | [#1](https://osu.ppy.sh/community/matches/48944275) |
 
-| Saturday, 2019-01-19 |  |  |  |  |
+Saturday, 19 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | maximaxiU ![][flag_FR] | 1 | **5** | ![][flag_FR] **Romainnoda** | [#1](https://osu.ppy.sh/community/matches/48967251) |
 | -Valony- ![][flag_FR] | 2 | **5** | ![][flag_FR] **Yona la loutre** | [#1](https://osu.ppy.sh/community/matches/48968566) |
@@ -917,20 +954,26 @@ This competition has come to an end and resulted in the following podium:
 | Yona la loutre ![][flag_FR] | 1 | **5** | ![][flag_FR] **TimmyAkmed** | [#1](https://osu.ppy.sh/community/matches/48976070) |
 | **omegaflo** ![][flag_FR] | **5** | 1 | ![][flag_FR] Gintoki8 | [#1](https://osu.ppy.sh/community/matches/48977881) |
 
-| Sunday, 2019-01-20 |  |  |  |  |
+Sunday, 20 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Yona la loutre** ![][flag_FR] | **5** | 0 | ![][flag_FR] maximaxiU | [#1](https://osu.ppy.sh/community/matches/49001534) |
 | DuckyDoom ![][flag_CA] | 2 | **5** | ![][flag_FR] **Marec** | [#1](https://osu.ppy.sh/community/matches/49004503) |
 | **Gintoki8** ![][flag_FR] | **5** | 1 | ![][flag_FR] Aciitm1 | [#1](https://osu.ppy.sh/community/matches/49005977) |
 | ZeddaStake ![][flag_FR] | 1 | **5** | ![][flag_FR] **-Valony-** | [#1](https://osu.ppy.sh/community/matches/49008427) |
 
-#### Group Stage
+#### Group stage
 
-| Friday, 2019-01-11 |  |  |  |  |
+Friday, 11 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | linkfire ![][flag_BF] | 0 | **4** | ![][flag_FR] **Aciitm1** | [#1](https://osu.ppy.sh/community/matches/48775264) |
 
-| Saturday, 2019-01-12 |  |  |  |  |
+Saturday, 12 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Niawlys ![][flag_FR] | 0 | **4** | ![][flag_FR] **Yona la loutre** | [#1](https://osu.ppy.sh/community/matches/48794728) |
 | **Briesmas** ![][flag_JP] | **4** | 0 | ![][flag_FR] maximaxiU | [#1](https://osu.ppy.sh/community/matches/48796652) |
@@ -943,18 +986,20 @@ This competition has come to an end and resulted in the following podium:
 | **Aciitm1** ![][flag_FR] | **4** | 1 | ![][flag_FR] BlackJames | [#1](https://osu.ppy.sh/community/matches/48801512) |
 | **omegaflo** ![][flag_FR] | **4** | 2 | ![][flag_CA] DuckyDoom | [#1](https://osu.ppy.sh/community/matches/48801176) |
 | DwarfSpykerr ![][flag_FR] | 2 | **4** | ![][flag_FR] **TimmyAkmed** | [#1](https://osu.ppy.sh/community/matches/48802959) |
-| Linkfire ![][flag_BF] | 0 | **4** | ![][flag_FR] **Marec** | -win by default- |
+| Linkfire ![][flag_BF] | 0 | **4** | ![][flag_FR] **Marec** | *win by default* |
 | **DuckyDoom** ![][flag_CA] | **4** | 3 | ![][flag_FR] Your Name | [#1](https://osu.ppy.sh/community/matches/48802756) |
 | **DwarfSpykerr** ![][flag_FR] | **4** | 0 | ![][flag_FR] Sephiroth256 | [#1](https://osu.ppy.sh/community/matches/48804856) |
-| Marec ![][flag_FR] | 0 | **4** | ![][flag_FR] **Aciitm1** | -win by default- |
+| Marec ![][flag_FR] | 0 | **4** | ![][flag_FR] **Aciitm1** | *win by default* |
 | Your Name ![][flag_FR] | 1 | **4** | ![][flag_FR] **omegaflo** | [#1](https://osu.ppy.sh/community/matches/48804696) |
 | Hickacou ![][flag_FR] | 0 | **4** | ![][flag_FR] **Romainnoda** | [#1](https://osu.ppy.sh/community/matches/48806654) |
 | Hickacou ![][flag_FR] | 0 | **4** | ![][flag_FR] **ZeddaStake** | [#1](https://osu.ppy.sh/community/matches/48808538) |
 | **estebdevil** ![][flag_FR] | **4** | 0 | ![][flag_FR] Hickacou | [#1](https://osu.ppy.sh/community/matches/48810173) |
 
-| Sunday, 2019-01-13 |  |  |  |  |
+Sunday, 13 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **BlackJames** ![][flag_FR] | **4** | 0 | ![][flag_BF] Linkfire | -win by default- |
+| **BlackJames** ![][flag_FR] | **4** | 0 | ![][flag_BF] Linkfire | *win by default* |
 | Fenrir029 ![][flag_FR] | 0 | **4** | ![][flag_FR] **maximaxiU** | [#1](https://osu.ppy.sh/community/matches/48829448) |
 | Kaho-Hinata ![][flag_FR] | 0 | **4** | ![][flag_JP] **Briesmas** | [#1](https://osu.ppy.sh/community/matches/48829475) |
 | **maximaxiU** ![][flag_FR] | **4** | 2 | ![][flag_FR] Kaho-Hinata | [#1](https://osu.ppy.sh/community/matches/48830781) |
@@ -968,38 +1013,48 @@ This competition has come to an end and resulted in the following podium:
 | **Gintoki8** ![][flag_FR] | **4** | 2 | ![][flag_FR] BananaW | [#1](https://osu.ppy.sh/community/matches/48833949) |
 | **-Valony-** ![][flag_FR] | **4** | 0 | ![][flag_FR] DwarfSpykerr | [#1](https://osu.ppy.sh/community/matches/48835836) |
 
-### osu!catch Division
+### osu!catch division
 
 #### Grand Finals
 
-| Saturday, 2019-02-02 |  |  |  |  |
+Saturday, 2 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Boros ![][flag_FR] | 3 | **7** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/49313282) |
 | **-Ken** ![][flag_TN] | **7** | 6 | ![][flag_FR] Boros | [#1](https://osu.ppy.sh/community/matches/49314789) |
 
 #### Finals
 
-| Saturday, 2019-01-26 |  |  |  |  |
+Saturday, 26 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | -Ken ![][flag_TN] | 3 | **7** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/49153596) |
 | Holloh ![][flag_FR] | 3 | **7** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/49148250) |
 
-| Sunday, 2019-01-27 |  |  |  |  |
+Sunday, 27 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-Ken** ![][flag_TN] | **7** | 3 | ![][flag_FR] Noulayfe | [#1](https://osu.ppy.sh/community/matches/49182267) |
 
 #### Semifinals
 
-| Saturday, 2019-01-19 |  |  |  |  |
+Saturday, 19 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-Ken** ![][flag_TN] | **6** | 4 | ![][flag_FR] Noulayfe | [#1](https://osu.ppy.sh/community/matches/48974224) |
 | **Boros** ![][flag_FR] | **6** | 2 | ![][flag_FR] Holloh | [#1](https://osu.ppy.sh/community/matches/48975850) |
 | **Holloh** ![][flag_FR] | **6** | 0 | ![][flag_FR] Realmas | [#1](https://osu.ppy.sh/community/matches/48977784) |
-| **Noulayfe** ![][flag_FR] | **6** | 0 | ![][flag_FR] Aequo3 | -win by default- |
+| **Noulayfe** ![][flag_FR] | **6** | 0 | ![][flag_FR] Aequo3 | *win by default* |
 
 #### Quarterfinals
 
-| Saturday, 2019-01-12 |  |  |  |  |
+Saturday, 12 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-Ken** ![][flag_TN] | **5** | 0 | ![][flag_FR] MindLight | [#1](https://osu.ppy.sh/community/matches/48802845) |
 | **Noulayfe** ![][flag_FR] | **5** | 1 | ![][flag_FR] Realmas | [#1](https://osu.ppy.sh/community/matches/48798016) |
@@ -1007,94 +1062,118 @@ This competition has come to an end and resulted in the following podium:
 | **Holloh** ![][flag_FR] | **5** | 0 | ![][flag_FR] Aequo3 | [#1](https://osu.ppy.sh/community/matches/48801202) |
 | MindLight ![][flag_FR] | 1 | **5** | **Realmas** | [#1](https://osu.ppy.sh/community/matches/48810075) |
 
-| Sunday, 2019-01-13 |  |  |  |  |
+Sunday, 13 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Sageru ![][flag_FR] | 2 | **5** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/48835441) |
 
-### osu!mania Division
+### osu!mania division
 
 #### Grand Finals
 
-| Saturday, 2019-02-16 |  |  |  |  |
+Saturday, 16 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Azubeur** ![][flag_FR] | **7** | 0 | ![][flag_FR] PatouZ | -win by default- |
+| **Azubeur** ![][flag_FR] | **7** | 0 | ![][flag_FR] PatouZ | *win by default* |
 
 #### Finals
 
-| Saturday, 2019-02-09 |  |  |  |  |
+Saturday, 9 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Azubeur** ![][flag_FR] | **7** | 0 | ![][flag_FR] PatouZ | [#1](https://osu.ppy.sh/community/matches/49469976) |
 | **DemonWaves** ![][flag_FR] | **7** | 0 | ![][flag_FR] DragonSonic | [#1](https://osu.ppy.sh/community/matches/49473434) |
 
-| Sunday, 2019-02-10 |  |  |  |  |
+Sunday, 10 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **PatouZ** ![][flag_FR] | **7** | 0 | ![][flag_FR] DemonWaves | -win by default- |
+| **PatouZ** ![][flag_FR] | **7** | 0 | ![][flag_FR] DemonWaves | *win by default* |
 
 #### Semifinals
 
-| Saturday, 2019-02-02 |  |  |  |  |
+Saturday, 2 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Azubeur** ![][flag_FR] | **6** | 0 | ![][flag_FR] \[ Odin \] | [#1](https://osu.ppy.sh/community/matches/49308835) |
 | **PatouZ** ![][flag_FR] | **6** | 2 | ![][flag_FR] Elementaires | [#1](https://osu.ppy.sh/community/matches/49310117) |
 | **DemonWaves** ![][flag_FR] | **6** | 1 | ![][flag_FR] Kyzoid | [#1](https://osu.ppy.sh/community/matches/49311938) |
 | **DragonSonic** ![][flag_FR] | **6** | 1 | ![][flag_FR] Satsukel | [#1](https://osu.ppy.sh/community/matches/49311941) |
 
-| Sunday, 2019-02-03 |  |  |  |  |
+Sunday, 3 February 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Elementaires ![][flag_FR] | 2 | **6** | ![][flag_FR] **DemonWaves** | [#1](https://osu.ppy.sh/community/matches/49341019) |
-| \[ Odin \] ![][flag_FR] | 0 | **6** | ![][flag_FR] **DragonSonic** | -win by default- |
+| \[ Odin \] ![][flag_FR] | 0 | **6** | ![][flag_FR] **DragonSonic** | *win by default* |
 
 #### Quarterfinals
 
-| Saturday, 2019-01-26 |  |  |  |  |
+Saturday, 26 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Azubeur** ![][flag_FR] | **5** | 0 | ![][flag_FR] Kyzoid | [#1](https://osu.ppy.sh/community/matches/49145213) |
 | **\[ Odin \]** ![][flag_FR] | **5** | 3 | ![][flag_FR] DemonWaves | [#1](https://osu.ppy.sh/community/matches/49146820) |
 | **PatouZ** ![][flag_FR] | **5** | 0 | ![][flag_FR] Ping36 | [#1](https://osu.ppy.sh/community/matches/49148590) |
 | **Elementaires** ![][flag_FR] | **5** | 1 | ![][flag_FR] ZayyKen | [#1](https://osu.ppy.sh/community/matches/49150188) |
-| **ExilFaker** ![][flag_FR] | **5** | 0 | ![][flag_FR] Zulsrammo | -win by default- |
+| **ExilFaker** ![][flag_FR] | **5** | 0 | ![][flag_FR] Zulsrammo | *win by default* |
 | Min-eb ![][flag_FR] | 4 | **5** | ![][flag_FR] **Vivio** | [#1](https://osu.ppy.sh/community/matches/49143491) |
 | **DragonSonic** ![][flag_FR] | **5** | 2 | ![][flag_FR] polo2000 | [#1](https://osu.ppy.sh/community/matches/49155687) |
 | **Satsukel** ![][flag_FR] | **5** | 1 | ![][flag_FR] PouletFurtif | [#1](https://osu.ppy.sh/community/matches/49140698) |
 
-| Sunday, 2019-01-27 |  |  |  |  |
+Sunday, 27 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ExilFaker ![][flag_FR] | 0 | **5** | ![][flag_FR] **DemonWaves** | -win by default- |
+| ExilFaker ![][flag_FR] | 0 | **5** | ![][flag_FR] **DemonWaves** | *win by default* |
 | Vivio ![][flag_FR] | 3 | **5** | ![][flag_FR] **Kyzoid** | [#1](https://osu.ppy.sh/community/matches/49176662) |
 | **DragonSonic** ![][flag_FR] | **5** | 1 | ![][flag_FR] ZayyKen | [#1](https://osu.ppy.sh/community/matches/49178141) |
 | **Satsukel** ![][flag_FR] | **5** | 3 | ![][flag_FR] Ping36 | [#1](https://osu.ppy.sh/community/matches/49179546) |
 
 #### Round of 24
 
-| Thursday, 2019-01-17 |  |  |  |  |
+Thursday, 17 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Trypha ![][flag_FR] | 1 | **4** | ![][flag_FR] **Vivio** | [#1](https://osu.ppy.sh/community/matches/48918193) |
 | **polo2000** ![][flag_FR] | **4** | 0 | ![][flag_FR] -Leks | [#1](https://osu.ppy.sh/community/matches/48922634) |
 | **\[ Odin \]** ![][flag_FR] | **4** | 0 | ![][flag_FR] polo2000 | [#1](https://osu.ppy.sh/community/matches/48923112) |
 
-| Friday, 2019-01-18 |  |  |  |  |
+Friday, 18 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | ExilFaker ![][flag_FR] | 3 | **4** | ![][flag_FR] **PouletFurtif** | [#1](https://osu.ppy.sh/community/matches/48949878) |
 
-| Saturday, 2019-01-19 |  |  |  |  |
+Saturday, 19 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Min-eb** ![][flag_FR] | **4** | 0 | ![][flag_FR] \_Karibu\_ | [#1](https://osu.ppy.sh/community/matches/48964495) |
-| **Satsukel** ![][flag_FR] | **4** | 0 | ![][flag_FR] Zulsrammo | -win by default- |
-| **DragonSonic** ![][flag_FR] | **4** | 0 | ![][flag_FR] The\_Azerty | -win by default- |
-| quentin5110054 ![][flag_FR] | 0 | **4** | ![][flag_FR] **Roboclop** | -win by default- |
-| **YuzukiEba** ![][flag_FR] | **4** | 0 | ![][flag_FR] -Dragolord- | -win by default- |
+| **Satsukel** ![][flag_FR] | **4** | 0 | ![][flag_FR] Zulsrammo | *win by default* |
+| **DragonSonic** ![][flag_FR] | **4** | 0 | ![][flag_FR] The\_Azerty | *win by default* |
+| quentin5110054 ![][flag_FR] | 0 | **4** | ![][flag_FR] **Roboclop** | *win by default* |
+| **YuzukiEba** ![][flag_FR] | **4** | 0 | ![][flag_FR] -Dragolord- | *win by default* |
 | **Azubeur** ![][flag_FR] | **4** | 0 | ![][flag_FR] PouletFurtif | [#1](https://osu.ppy.sh/community/matches/48975401) |
 | **Kyzoid** ![][flag_FR] | **4** | 2 | ![][flag_FR] Satsukel | [#1](https://osu.ppy.sh/community/matches/48975413) |
 | **PatouZ** ![][flag_FR] | **4** | 2 | ![][flag_FR] Vivio | [#1](https://osu.ppy.sh/community/matches/48979189) |
 | **Elementaires** ![][flag_FR] | **4** | 1 | ![][flag_FR] Roboclop | [#1](https://osu.ppy.sh/community/matches/48981251) |
 | **ZayyKen** ![][flag_FR] | **4** | 0 | ![][flag_FR] YuzukiEba | [#1](https://osu.ppy.sh/community/matches/48981254) |
 
-| Sunday, 2019-01-20 |  |  |  |  |
+Sunday, 20 January 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| YuzukiEba ![][flag_FR] | 0 | **4** | ![][flag_FR] **ExilFaker** | -win by default- |
+| YuzukiEba ![][flag_FR] | 0 | **4** | ![][flag_FR] **ExilFaker** | *win by default* |
 | **DemonWaves** ![][flag_FR] | **4** | 0 | ![][flag_FR] DragonSonic | [#1](https://osu.ppy.sh/community/matches/49001552) |
-| Roboclop ![][flag_FR] | 0 | **4** | ![][flag_FR] Zulsrammo | -win by default- |
-| **Vivio** ![][flag_FR] | **4** | 0 | ![][flag_FR] The\_Azerty | -win by default- |
+| Roboclop ![][flag_FR] | 0 | **4** | ![][flag_FR] Zulsrammo | *win by default* |
+| **Vivio** ![][flag_FR] | **4** | 0 | ![][flag_FR] The\_Azerty | *win by default* |
 | **polo2000** ![][flag_FR] | **4** | 1 | ![][flag_FR] \_Karibu\_ | [#1](https://osu.ppy.sh/community/matches/49008067) |
 | **Satsukel** ![][flag_FR] | **4** | 0 | ![][flag_FR] quentin5110054 | [#1](https://osu.ppy.sh/community/matches/49009950) |
 | **Ping36** ![][flag_FR] | **4** | 0 | ![][flag_FR] Min-eb | [#1](https://osu.ppy.sh/community/matches/49011206) |
@@ -1102,31 +1181,19 @@ This competition has come to an end and resulted in the following podium:
 | **DragonSonic** ![][flag_FR] | **4** | 1 | ![][flag_FR] Trypha | [#1](https://osu.ppy.sh/community/matches/49013744) |
 | **Min-eb** ![][flag_FR] | **4** | 3 | ![][flag_FR] -Leks | [#1](https://osu.ppy.sh/community/matches/49014525) |
 
----
-
 ## Ruleset
 
 ### Gamemodes and scoring system
 
 - This tournament will be hosted for the following gamemodes: osu!, osu!taiko, osu!catch, and osu!mania 4K. In addition, the tournament will use **Score V2** as the scoring system. This requires players to play on the following osu! versions: Stable **(Latest)**, Beta, and Cutting Edge.
 
-### Tournament Formats
+### Tournament formats
 
 - **Every** tournament will have a **double-elimination** bracket format, with **32 players** maximum. Seedings of each tournament will be based on the results of the qualifiers stage.
 
-### Mods used in the Tournament
+### Mods used in the tournament
 
-#### Mod Usage for osu!
-
-- The rules for mod usage are noted down below. The mod will be used only if the beatmap chosen is included in a specific category of the mappool.
-  - **NoMod** - No mod will be used for this beatmap.
-  - **Hidden** - The Hidden mod will be used by both players if the chosen beatmap is in the Hidden category of the mappool.
-  - **HardRock** - The HardRock mod will be used by both players if the chosen beatmap is in the HardRock category of the mappool.
-  - **DoubleTime** - The DoubleTime mod will be used by both players if the chosen beatmap is in the DoubleTime category of the mappool.
-  - **ForceMod** - Each player must use at least **one** mod between Hidden, HardRock or Flashlight if the chosen beatmap is in the FreeMod category of the mappool.
-  - **FreeMod** - Each player may use the mod they want if the chosen beatmap is in the Tiebreaker category of the mappool.
-
-#### Mod Usage for osu!taiko
+#### Mod usage for osu!
 
 - The rules for mod usage are noted down below. The mod will be used only if the beatmap chosen is included in a specific category of the mappool.
   - **NoMod** - No mod will be used for this beatmap.
@@ -1136,7 +1203,17 @@ This competition has come to an end and resulted in the following podium:
   - **ForceMod** - Each player must use at least **one** mod between Hidden, HardRock or Flashlight if the chosen beatmap is in the FreeMod category of the mappool.
   - **FreeMod** - Each player may use the mod they want if the chosen beatmap is in the Tiebreaker category of the mappool.
 
-#### Mod Usage for osu!catch
+#### Mod usage for osu!taiko
+
+- The rules for mod usage are noted down below. The mod will be used only if the beatmap chosen is included in a specific category of the mappool.
+  - **NoMod** - No mod will be used for this beatmap.
+  - **Hidden** - The Hidden mod will be used by both players if the chosen beatmap is in the Hidden category of the mappool.
+  - **HardRock** - The HardRock mod will be used by both players if the chosen beatmap is in the HardRock category of the mappool.
+  - **DoubleTime** - The DoubleTime mod will be used by both players if the chosen beatmap is in the DoubleTime category of the mappool.
+  - **ForceMod** - Each player must use at least **one** mod between Hidden, HardRock or Flashlight if the chosen beatmap is in the FreeMod category of the mappool.
+  - **FreeMod** - Each player may use the mod they want if the chosen beatmap is in the Tiebreaker category of the mappool.
+
+#### Mod usage for osu!catch
 
 - The rules for mod usage are noted down below. The mod will be used only if the beatmap chosen is included in a specific category of the mappool.
   - **NoMod** - No mod will be used for this beatmap.
@@ -1145,18 +1222,18 @@ This competition has come to an end and resulted in the following podium:
   - **DoubleTime** - The DoubleTime mod will be used by both players if the chosen beatmap is in the DoubleTime category of the mappool. They may also add HD if they wish to.
   - **FreeMod** - Each player may use the mod they want if the chosen beatmap is in the Tiebreaker category of the mappool.
 
-#### Mod Usage for osu!mania
+#### Mod usage for osu!mania
 
 - For osu!mania, the tournament will use the **FreeMod** rule on all picks. This allows **Hidden**, **Fade In** or **Flashlight** to be used during a pick.
 
-### Eligibility and Registration
+### Eligibility and registration
 
 - Any player who has a flag of a country that is part of the [Francophonie](http://www.world-territories.com/ttfr/dossiers.php?dossier=francophonie) or part of the [Overseas France](https://fr.wikipedia.org/wiki/France_d%27outre-mer) is allowed to play in this tournament.
 - Any staff member except **map selectors and referees** are allowed to play in this tournament.
 - 32 slots will be open for each division. In the case a division does not get 32 players, then only the top 16 of this division will be allowed to play in this tournament. If a division has less than 16 players, the tournament for it will be **cancelled**. More slots will not be open. Players can join **any** of the 4 tournaments.
 - This tournament's staff has any right to decline the registration of a player if osu! staff declines them.
 
-### Match Progression
+### Match progression
 
 #### Preparation
 
@@ -1168,11 +1245,11 @@ This competition has come to an end and resulted in the following podium:
 
 - Every player is allowed one warmup map each per match. **They must be available on osu! servers and be less than 5 mins of drain time**. Warmups having [questionable content](/wiki/Rules) will not be allowed.
 
-#### Bans and Picks
+#### Bans and picks
 
-- Following the warmup phase, players will have to use the !roll command in the multiplayer chat. The player with the lowest roll will have the first ban and second pick, whereas the player with the highest roll will have the first pick and second ban. There will be **two bans** per player for each round.
+- Following the warmup phase, players will have to use the `!roll` command in the multiplayer chat. The player with the lowest roll will have the first ban and second pick, whereas the player with the highest roll will have the first pick and second ban. There will be **two bans** per player for each round.
 
-#### Match Format
+#### Match format
 
 - Players must alternate map picks until a winner is determined. Matches will be played in a Best-Of-X format depending on the rounds, noted down here:
   - Round Of 32 and Round Of 16: Best-Of-7 (First to 4 points)
@@ -1200,15 +1277,15 @@ This competition has come to an end and resulted in the following podium:
 
 - This is very simple. Players and staff must have read this ruleset in its entirety. Any person participating in this tournament must be respectful of everyone. People will be banned and blacklisted if that is not respected. This counts for players as much as it counts for staff.
 
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BF]: /wiki/shared/flag/BF.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BF]: /wiki/shared/flag/BF.gif "Burkina Faso"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

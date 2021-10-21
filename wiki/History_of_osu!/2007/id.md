@@ -60,13 +60,13 @@ Peningkatan gameplay lebih baik dengan hadirnya combo fire, bar HP, mouse trail,
 
 ![](img/2007-09_05.jpg "Pengumuman berita di situs web game")
 
-Beberapa saat setelah rilis secara publik, mod bermain pertama, [Easy](/wiki/EZ) dan [No Fail](/wiki/NF), ditambahkan, serta bagian istirahat (yang sampai sekarang telah diabaikan dan hilang). Sejumlah besar perubahan dengan cepat membuat osu! terlihat lebih seperti permainan ritme komersial.
+Beberapa saat setelah rilis secara publik, mod bermain pertama, [Easy](/wiki/Disambiguation/EZ) dan [No Fail](/wiki/Game_modifier/No_Fail), ditambahkan, serta bagian istirahat (yang sampai sekarang telah diabaikan dan hilang). Sejumlah besar perubahan dengan cepat membuat osu! terlihat lebih seperti permainan ritme komersial.
 
 ![](img/easy.png "Easy (v1)") ![](img/no_fail.png "No Fail (v1)")
 
 ## Oktober
 
-2007-10-01 adalah hari ketika peringkat online dibuat tersedia untuk publik. Selain peringkat online, peluncuran metode pengemasan `.osz` juga diluncurkan pada hari itu bersamaan dengan database beatmap online dengan sistem pengajuan berbasis web tahap awal. Peringkat online ditambahkan ke antarmuka dalam game dan juga ditampilkan di situs web.
+2007-10-06 adalah hari ketika peringkat online dibuat tersedia untuk publik. Selain peringkat online, peluncuran metode pengemasan `.osz` juga diluncurkan pada hari itu bersamaan dengan database beatmap online dengan sistem pengajuan berbasis web tahap awal. Peringkat online ditambahkan ke antarmuka dalam game dan juga ditampilkan di situs web.
 
 ![](img/2007-10_01.jpg)
 
@@ -80,7 +80,7 @@ Layar pemilihan lagu mulai mendapat perhatian, dengan pengelompokan tingkat kesu
 
 ## November
 
-Peringkat baru, SS, ditambahkan ke sistem peringkat, menggantikan peringkat S dalam kasus-kasus dimana kesempurnaan (100%) tercapai. Mod [No Video](/wiki/NV) dan [Hidden](/wiki/HD) diperkenalkan, dan SH (S silver) dan SSH (SS silver). Untuk pertama kalinya, pemain dapat mengatur dan menetapkan set sampel normal dan soft per bagian waktu (timing section). File `.osz` sekarang bisa dimuat dengan mengklik tombol mouse dua kali, atau menyeretnya ke ikon osu!.
+Peringkat baru, SS, ditambahkan ke sistem peringkat, menggantikan peringkat S dalam kasus-kasus dimana kesempurnaan (100%) tercapai. Mod [No Video](/wiki/Game_modifier/No_Video) dan [Hidden](/wiki/Game_modifier/Hidden) diperkenalkan, dan SH (S silver) dan SSH (SS silver). Untuk pertama kalinya, pemain dapat mengatur dan menetapkan set sampel normal dan soft per bagian waktu (timing section). File `.osz` sekarang bisa dimuat dengan mengklik tombol mouse dua kali, atau menyeretnya ke ikon osu!.
 
 ![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
 
@@ -92,7 +92,7 @@ Peringkat baru, SS, ditambahkan ke sistem peringkat, menggantikan peringkat S da
 
 ![](img/2007-11_03.jpg "Pengujian Penggunaan IRC")
 
-[Sistem Pengajuan Beatmap](/wiki/Glossary#bss) (Beatmap Submission System) dipublikasikan, memungkinkan pengguna dengan mudah mengunggah dan membagikan kreasi merka. Bersamaan dengan ini, map juga sekarang memiliki status pending dan ranked dan membantu mengatur koleksi beatmap yang dikirim oleh pengguna. Obrolan dalam game telah ditambahkan, menggunakan klien IRC yang dibangun dari nol dan terhubung ke server IRC standar (belum ada bancho). Obrolan yang diperluas terlihat. Avatar dan statistik dasar ditampilkan dalam game (menggunakan komunkasi berbasis http). Kontrol audio juga ditambahkan ke menu utama, yang juga sekarang memainkan lagu acak saat masuk game (startup). Tayangan ulang map dapat ditonton untuk skor lokal dan permainan online. Pemain dapat melihat pemain lainnya (dan data penonton dikirim melalu IRC!).
+[Sistem Pengajuan Beatmap](/wiki/Submission) (Beatmap Submission System) dipublikasikan, memungkinkan pengguna dengan mudah mengunggah dan membagikan kreasi merka. Bersamaan dengan ini, map juga sekarang memiliki status pending dan ranked dan membantu mengatur koleksi beatmap yang dikirim oleh pengguna. Obrolan dalam game telah ditambahkan, menggunakan klien IRC yang dibangun dari nol dan terhubung ke server IRC standar (belum ada bancho). Obrolan yang diperluas terlihat. Avatar dan statistik dasar ditampilkan dalam game (menggunakan komunkasi berbasis http). Kontrol audio juga ditambahkan ke menu utama, yang juga sekarang memainkan lagu acak saat masuk game (startup). Tayangan ulang map dapat ditonton untuk skor lokal dan permainan online. Pemain dapat melihat pemain lainnya (dan data penonton dikirim melalu IRC!).
 
 ## Desember
 

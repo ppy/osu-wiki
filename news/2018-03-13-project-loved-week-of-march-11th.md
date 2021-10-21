@@ -14,12 +14,12 @@ Without further ado, let's begin!
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/kY9EttSpJkY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -67,7 +67,7 @@ On a much less heavy note, [koreapenguin](https://osu.ppy.sh/users/1458069)'s [P
 
 Finishing off our list is by far the most popular map this week, [Cyllinus](https://osu.ppy.sh/users/2413420)' [Flicker](https://osu.ppy.sh/beatmapsets/284931). This map honestly needs no introduction, seeing as it has over **850 favourites,** which is an incredibly staggering amount, especially for a lower difficulty map! The set features a full spread to the beloved Porter Robinson tune, and because of that it's fitting for every skill level. Everyone can enjoy this mapset, and it's really the ideal Loved map to end off this week's list with.
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/K2M6UySDXTg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -103,7 +103,7 @@ A superstar compilation of Japanese mappers difficulties on a single song, lead 
 
 Finally! The arrival of the infamous [KinomiCandy](https://osu.ppy.sh/users/375143), with one of his popular YUC'e Ma-...Oh it's not YUC'e? Actually, this is one of his more unique maps, with a piano heavy track that's unlike the usual poppy, happy tracks that he has become popular for. We simply chose this track because of it's uniqueness to his catalogue, but certainly some of his YUC'e maps will hit Loved in the future. Kinomi's style of mapping lends itself well to the ever-growing catalogue of Loved!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/gJ85pqQ2f6Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -139,7 +139,7 @@ An [incredible marathon map](https://osu.ppy.sh/beatmapsets/286386) by [Kyuare](
 
 Man, have we seen [this map](https://osu.ppy.sh/beatmapsets/230741) A LOT. And yet again here it is in the loved selection. This one has been used in a multitude of tournaments and has also been a very famous pick in multiplayer lobbies for as long as it has existed. The structure of this map is very much like you would imagine from [Spectator](https://osu.ppy.sh/users/702598): very clean, great emphasis on the musical changes throughout the song, no uncomfortable difficulty spikes and a calming, enjoyable song, with its replayability having been proven by the map's usage throughout various community activities. Even though we can't change the fact the song is called No title, perhaps you can help it become Yes entitled to being loved after voting!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ALwjwltXsDY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

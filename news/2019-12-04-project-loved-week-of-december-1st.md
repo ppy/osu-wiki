@@ -16,12 +16,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [BeasttrollMC](https://osu.ppy.sh/users/3171691) and [Bubbleman](https://osu.ppy.sh/users/5182050)!
 
@@ -69,7 +69,7 @@ A map by recently returned legend and Twitter's most loved English student val01
 
 A versatile song turned into a versatile mapset, -kevincela- hosts an array of guest difficulties by the likes of Jounzan, Taeyang and ktgster to create a set with many different mapping ideas based around a banger of an M2U song. Ranging from spaced linear flow to more awkward changes in stream patterning, and using every piece of the song's rhythm that they can get their hands on, this set is a joy to play through and experience all the different ideas presented by the mappers. Have a try for yourself!
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861) and [Ulqui](https://osu.ppy.sh/users/1263669)!
 
@@ -91,7 +91,7 @@ If you're one of those that have been in osu since the beginning of time, back w
 
 This week we bring you *Education*, mapped by \[\_Chichinya\_\]. It's a single-diff map that got attention due to the amount of work it has on hitsounds. In this map you'll see a lot of different sounds carefully placed and mapped, making the playing experience even more rich, including interesting and different patterns that make the map difficulty and unique. We expect to see impressive scores from all kinds of experienced players; enjoy this hitsound mapping!
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -113,7 +113,7 @@ INO is a mapper that has been around for a very long time. Because of his long h
 
 Zyzyx is a mapper that is still fairly new to the scene, yet he has already created a lot of content and evolved quickly. His maps are usually the fast-paced type which require a lot of quick movement and catcher control. *CLICK* is a map which is exactly like that. It is targeted at skilled players that are used to new mapping styles and can keep their stamina over a long period of time. For aspiring players, this map serves as good practice, as you will find a lot of the patterns used in harder Ranked maps as well. All-in-all, this is an enjoyable map to play, and you should definitely give it a try!
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [lenpai](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

@@ -19,7 +19,7 @@ BanchoBot's `!faq` command has been open to public for [translation](https://doc
 
 osu!mania now support vertical flip (upside-down), making gameplay similar to that of DDR/o2jam. Skinning now supports double-resolution sprites when the window width was greater than 1600 pixels. To add support to a skin, add images with double the width/height containing the `@2x` suffix before the file extension (eg: `cursor@2x.png`).
 
-Ranking support for [Hidden](/wiki/HD) and [FadeIn](/wiki/FI) mods in osu!mania and lastly, less widescreen limitations in the editor when it comes to placement and selection.
+Ranking support for [Hidden](/wiki/Game_modifier/Hidden) and [FadeIn](/wiki/Game_modifier/Fade_In) mods in osu!mania and lastly, less widescreen limitations in the editor when it comes to placement and selection.
 
 Links:
 
@@ -30,11 +30,11 @@ Links:
 
 ## March
 
-osu! received a complete overhaul of the UI (User Interface)! osu!standard received a new leitmotif symbol (previously, it was a circle with "osu!", was now a circle with a "1"). Buttons on the editor has been updated. Special mode has been combined with Song Selection menu (named under "Mods"), allowing players to switch modes quicker and hassle-free. All [Game Modifiers](/wiki/Game_modifier) buttons received their respective image overhaul. The result screen now shows the beatmap's background image rather than user skin's result background.
+osu! received a complete overhaul of the UI (User Interface)! The osu! game mode received a new leitmotif symbol (previously, it was a circle with "osu!", was now a circle with a "1"). Buttons on the editor has been updated. Special mode has been combined with Song Selection menu (named under "Mods"), allowing players to switch modes quicker and hassle-free. All [Game Modifiers](/wiki/Game_modifier) buttons received their respective image overhaul. The result screen now shows the beatmap's background image rather than user skin's result background.
 
 Hit-Offset can now be known by hovering to the Accuracy from the result screen. Do note that it will disappear and can't be saved. Online Results was now hidden below the result screen rather than forcing you to see it. You can scroll down to see or you can just click the button and you will be directed to the Online Results screen.
 
-In terms of skin, "osu!default by peppy" was replaced by "osu! by peppy" (art by [RBRat3](https://osu.ppy.sh/users/307202)). Since osu! now can support both widescreen HD and standard size, a new button was added to the "Skins" tab under "Options". By default, old skin behaviour was used for compatibility and enabling the button will force the new skin behaviour to be in effect instead. [Combo fire](/wiki/Combo_fire) was removed due to performance concerns. At the Multi side, hosts have a new special command called "Free Mods" and the "Game Style" was removed (Host can adjust the Game Style in Song Selection now under "Mods"). `#userlog` was introduced to showcase your recent playing achievement privately.
+In terms of skin, "osu!default by peppy" was replaced by "osu! by peppy" (art by [RBRat3](https://osu.ppy.sh/users/307202)). Since osu! now can support both widescreen HD and standard size, a new button was added to the "Skins" tab under "Options". By default, old skin behaviour was used for compatibility and enabling the button will force the new skin behaviour to be in effect instead. [Combo fire](/wiki/Glossary/Combo_fire) was removed due to performance concerns. At the Multi side, hosts have a new special command called "Free Mods" and the "Game Style" was removed (Host can adjust the Game Style in Song Selection now under "Mods"). `#userlog` was introduced to showcase your recent playing achievement privately.
 
 Ranking scoreboard, on the other hand, received two revisions in a single month. The first revision was "unified scoreboards", where the scoreboard the separated into four parts (Mods, Friends, Personal Best, Local) with score difference given below the accuracy of the layer, the removal of local scoreboard and the inability to scroll to see more of the later Top score players. Despite it was limited to osu!supporters only, it received much criticism and as such, a second revision has been issued at the near end of the month. The scoreboard was basically revered back to how it was previously, keeping the score difference gap. The prominent addition was the tabbed drop-down menu, where it house various types of ranking scoreboard. However, the new types of scoreboard \[Country, Global (Selected Mod), and Friend\] were still limited to osu!supporters only.
 
@@ -51,7 +51,7 @@ Links:
 
 This month's updates were mostly made up of patching up the previous major update, but that doesn't mean that was the end! First, it was the initial implementation of "Collections" support that will replace the long-standing "Favourites A/B", making it simple for player to put in their favourite beatmaps in one "Collections" and able to share it with others by transferring the "Collections" rather than "Favourites A/B".
 
-Game modes can now be easily switched at song selection by using `Ctrl` + `1`, `2`, `3`, or `4`. A new game modifier was added specially for osu!mania, [Random](/wiki/RD). Some adjustment has been made on Multi's "Quick Join" button behaviour to direct you to a room with respect to your average pp against the room pp's deviation.
+Game modes can now be easily switched at song selection by using `Ctrl` + `1`, `2`, `3`, or `4`. A new game modifier was added specially for osu!mania, [Random](/wiki/Game_modifier/Random). Some adjustment has been made on Multi's "Quick Join" button behaviour to direct you to a room with respect to your average pp against the room pp's deviation.
 
 For beatmap replays, stale-standing comment has been switched to moving [nico-style](https://en.wikipedia.org/wiki/Nico_Nico_Douga) comment style and comment colour can now be customised (for osu!supporters only).
 
@@ -126,7 +126,7 @@ Links:
 
 ![](img/2013-12_01.jpg "Guest appearance at Comic Fiesta 2013")
 
-[peppy was confirmed for Comic Fiesta 2013 in Malaysia at 21st and 22nd of December in Kuala Lumpur City Center](https://osu.ppy.sh/community/forums/topics/163121). For day 1 (2013-12-21), osu! was shown as a stage event, demonstrating the game in four different game modes (osu!standard, Taiko, Catch the Beat, and osu!mania). For day 2 (2013-12-22), peppy gives an insight of osu! along with his future update plans at the panel room and showcased osu!tablet for the public to try it out.
+[peppy was confirmed for Comic Fiesta 2013 in Malaysia at 21st and 22nd of December in Kuala Lumpur City Center](https://osu.ppy.sh/community/forums/topics/163121). For day 1 (2013-12-21), osu! was shown as a stage event, demonstrating the game in four different game modes (osu!, Taiko, Catch the Beat, and osu!mania). For day 2 (2013-12-22), peppy gives an insight of osu! along with his future update plans at the panel room and showcased osu!tablet for the public to try it out.
 
 One of the current hot-topic for debate right now was that peppy was making a new game mode and was testing it as a proof-in-concept (testing if it's playable, competitive or flexible enough). Some players speculate it was [Tohousu!](https://osu.ppy.sh/community/forums/topics/19307) (dodging the bullet-hell, that was, inverse of [Catch the Beat](/wiki/Game_mode/osu!catch)). By time of writing, not much information was discovered about the new game mode. [A video clip about the talk was in ppy's blog](https://blog.ppy.sh/post/71405880656/i-have-a-few-posts-waiting-for-some-final-touches)
 

@@ -16,13 +16,13 @@ With that being said, let's begin right away with the news!
 
 This month's issue of the Mappers' Report contains following topics:
 
-- **[Ranking Criteria Changes](#rcchanges)**
-- **[NAT Meetings](#natmeetings)**
-- **[Within the Beatmap Nominators and NAT](#withinbnnat)**
+- **[Ranking Criteria Changes](#ranking-criteria-changes)**
+- **[NAT Meetings](#nat-meetings)**
+- **[Within the Beatmap Nominators and NAT](#within-the-beatmap-nominators-and-nat)**
 - **[Mapping Contests](#mapping-contests)**
 - **[Conclusion](#conclusion)**
 
-## <a id="rcchanges"></a>Ranking Criteria Changes
+## Ranking Criteria Changes
 
 A new month brings a new avalanche of updates to the Ranking Criteria (RC). These past two months were especially productive with the implementation of a few new rules:
 
@@ -55,7 +55,7 @@ The previous guidelines in Easy and Normal that "A long note cannot be released 
 - **[Chord usage change in Hard](/wiki/Ranking_Criteria/osu!mania#-hard):**
 The wording of the guideline that chords should be used sparingly got changed into "Chords within 1/4 streams should be at least 1/1 beat apart from each other".
 
-## <a id="natmeetings"></a>NAT Meetings
+## NAT Meetings
 
 The past 2 months have been filled with public meetings organized by the NAT, aimed at improving the ranking system based on community input. A wide range of topics such as BN/NAT activity requirements or transparency of the application process for both groups have been covered so far, and there is more to come! If you wish to participate in future meetings, join the [osu!dev discord server](https://discord.gg/ppy) and go through the verification process.
 
@@ -83,7 +83,7 @@ The first point the meeting discussed was the activity threshold which is requir
 
 Last but not least, Beatmap Nominators will also be judged by the map quality of their nominations. This is to ensure a fair evaluation. Beatmap Nominators could have a high nomination count, but all maps could be of low quality. To ensure this does not happen the NAT will judge the quality of the nominations.
 
-## <a id="withinbnnat"></a>Within the Beatmap Nominators and NAT
+## Within the Beatmap Nominators and NAT
 
 ### BN Additions
 
@@ -121,7 +121,7 @@ The first addition we got on the 6th January was **[yaspo](https://osu.ppy.sh/us
 
 Our second addition on the 26th January was **[Greaper](https://osu.ppy.sh/users/2369776)** who's been a Beatmap Nominator for almost 4 months. He will now support the NAT for the osu!catch game mode. He will mainly focus on doing BN evaluations and applications, and make sure osu!catch Beatmap Nominators grow properly! Welcome aboard, Greaper!
 
-## <a id="mapping-contests"></a>Mapping Contests
+## Mapping Contests
 
 If you are organizing a mapping contest that will begin within the next 1-3 months, feel free to submit it through the form in [this forum thread](https://osu.ppy.sh/community/forums/topics/1027590) for a chance of being featured on next month's installment of the Mappers' Report. We are looking to highlight more mapping contests from the community!
 

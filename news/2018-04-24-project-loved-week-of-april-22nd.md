@@ -22,12 +22,12 @@ Let's get started!
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/35HhNAW6pTo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -103,7 +103,7 @@ Here's a map looking for redemption as it was put up for vote back in January of
 
 After a long hiatus, the infamous [Freedom Dive](https://osu.ppy.sh/beatmapsets/39804#osu/129891) mapper [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) returns for xi's sister song, Glorious Crown. This time, featuring a full set with 250+ favorites along with guest difficulties from [RLC](https://osu.ppy.sh/users/1047883), [Enon](https://osu.ppy.sh/users/2043401), and [Beomsan](https://osu.ppy.sh/users/3626063), this 4 minute 225 BPM stream behemoth will leave you reeling. Good luck.
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/hjl4a-GQCn0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -158,7 +158,7 @@ Much like the other Loved set by [\[\_Chichinya\_\]](https://osu.ppy.sh/users/21
 
 One of the most special maps in the list, this is our first Spanish song for Taiko's Loved section, and by Daddy Yankee of Despacito fame no less! But don't let the song distract you, this map has it all. A blisteringly high BPM, SV tricks, and lots of streams and awesome patterns. [Myckoll](https://osu.ppy.sh/users/554976) is a newer mapper that has a lot of gems in his arsenal as well, so I encourage you if you like this one to check out some of his other maps!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Idf4MiWsuKY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -203,7 +203,7 @@ The tiers in this mapset mostly cater to experienced players because even the lo
 
 This map consists of some ridiculously paced left-rights continuously attacking your retina, which serves perfectly for some stamina and consistency training. Test and see if your skills are up to par with this level of a map, and then come back with your voting decision!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/XY-hIKbuoF8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

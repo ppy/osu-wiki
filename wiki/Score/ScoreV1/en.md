@@ -31,9 +31,9 @@ Additional bonus of 1,000 points given for each spin of a spinner after the spin
 
 The **Difficulty multiplier** was calculated based on each map's star rating (the old one, before the introduction of performance points), which factored in object density, and was affected by the difficulty settings of the map as follows.
 
-[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) and [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) each give a tick on _difficulty point_.
+[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) and [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) each give a tick on *difficulty point*.
 
-The accumulated _difficulty points_ affect the **Difficulty multiplier** as so:-
+The accumulated *difficulty points* affect the **Difficulty multiplier** as so:-
 
 | Difficulty points range | Difficulty multiplier |
 | :-: | :-- |
@@ -53,30 +53,30 @@ It will only account for original values only.
 
 ## osu!taiko
 
-Each GREAT (excluding Kiai Time's 1.2x bonus) is worth _300 + RoundDown(Combo / 10)_ times _n_ up to a maximum of _300+10n_ points, in which _n_ depends on the difficulty rating of the song.
+Each GREAT (excluding Kiai Time's 1.2x bonus) is worth *300 + RoundDown(Combo / 10)* times *n* up to a maximum of *300+10n* points, in which *n* depends on the difficulty rating of the song.
 
-Each _GOOD_ gives half of the score as _GREAT_ does.
+Each *GOOD* gives half of the score as *GREAT* does.
 
-Each _MISS/BAD_ gives zero score.
+Each *MISS/BAD* gives zero score.
 
-Double score is given for _successful hit_ on large notes (different from _Taiko no Tatsujin_, left and right drum must be hit at the same time very precisely in order to allow a successful hit of large notes).
+Double score is given for *successful hit* on large notes (different from *Taiko no Tatsujin*, left and right drum must be hit at the same time very precisely in order to allow a successful hit of large notes).
 
 For yellow long notes, 300 is given per hit in the small one while 600 per hit is given to the large one.
 
 For shaker notes, each shake gives 300 and finishing the shaker gives score twice as much as a GREAT of the current combo.
 
-A typical value of _n_ (4.5-5 star difficulties in old 5 star ratings system) is 80, which gives a maximum score of 1,100/2,200 at 100 combo and later combos.
-For 4 - 4.5 star difficulties, _n_ is equal to 64 in which the maximum score per hit is 940/1,880.
-In the hardest case, _n_ is equal to 96 in which the maximum score per hit is 1,260/2,520.
-There are lower value of _n_ for even easier difficulties.
+A typical value of *n* (4.5-5 star difficulties in old 5 star ratings system) is 80, which gives a maximum score of 1,100/2,200 at 100 combo and later combos.
+For 4 - 4.5 star difficulties, *n* is equal to 64 in which the maximum score per hit is 940/1,880.
+In the hardest case, *n* is equal to 96 in which the maximum score per hit is 1,260/2,520.
+There are lower value of *n* for even easier difficulties.
 
-Unlike [osu!standard](/wiki/Game_mode/osu!)/[osu!catch](/wiki/Game_mode/osu!catch), a miss in osu!taiko will not cause a _drastic_ score difference from the maximum possible score (in osu!standard/osu!catch, score deviation damage from a miss grows _wider_ the higher the maximum combo and especially breaking in around half combo of the maximum combo).
-Instead, a constant score of _n_ (explained above) is reduced per miss if each miss is separated by more than 100 combos.
+Unlike [osu!d](/wiki/Game_mode/osu!)/[osu!catch](/wiki/Game_mode/osu!catch), a miss in osu!taiko will not cause a *drastic* score difference from the maximum possible score (in osu!/osu!catch, score deviation damage from a miss grows *wider* the higher the maximum combo and especially breaking in around half combo of the maximum combo).
+Instead, a constant score of *n* (explained above) is reduced per miss if each miss is separated by more than 100 combos.
 With the existence of shaker and large notes, score loss would be larger.
 
 For example, in a typical difficulty (80), breaking a combo in the middle of a song without accounting for large notes and spinners, would result in a maximum loss of 44,000 points (to bring the combo back up to 100, all GREAT score value).
 
-Also unlike the other game modes, Kiai Time has an effect on scores because it refers to the _"Go-Go Time"_ in _Taiko no Tatsujin_.
+Also unlike the other game modes, Kiai Time has an effect on scores because it refers to the *"Go-Go Time"* in *Taiko no Tatsujin*.
 While Kiai Time is active, the drum in the upper left changes animation, the playfield has a background gradient and the hit area gains a fire graphic around it.
 Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes (drumroll) included, except for hits on a shaker (the final hit is still multiplied).
 
@@ -87,9 +87,9 @@ In short: `Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(tai
 | **ScoreValue** | The Score Value gained from the hit (300/600, 150/300, or 0/0). |
 | **Combo** | (Combo before this hit - 1) or 0; whichever is higher |
 | **taiko score multiplier** | \[Depends on difficulty rating\] Possible values are: 32, 48, 64, 80, 96 |
-| **raw mod multiplier** | The _raw_ multiplier of the selected mods (shown multipliers are usually rounded up) |
+| **raw mod multiplier** | The *raw* multiplier of the selected mods (shown multipliers are usually rounded up) |
 | **RoundDown** | Round down this value to a whole number instead, removing all the decimal values. |
-| **min(x, y)** | Always pick the lowest value between _x_ or _y_. |
+| **min(x, y)** | Always pick the lowest value between *x* or *y*. |
 | **Kiai Time** | If Kiai Time was active, this value is 1.2. Otherwise, the value is 1.0. |
 
 Exceptions:-
@@ -99,15 +99,15 @@ Exceptions:-
 
 ## osu!catch
 
-Scoring for osu!catch follows the same multiplier as in [osu!standard](/wiki/Game_mode/osu!).
-However, the fruit that adds up the score is different from osu!standard.
+Scoring for osu!catch follows the same multiplier as in [osu!](/wiki/Game_mode/osu!).
+However, the fruit that adds up the score is different from osu!.
 
 - A regular sized fruit gives a score of 300 times the multiplier.
 - A large juice drop (slider tick) gives a score of 100.
 - The smallest drop (also called "droplet", or slider trail/path) gives a score of 10.
 - Each collected bananas (collected during spinner duration) will give a static score of 1,100 regardless of mod and combo multiplier.
 
-Combo will not be lost for missing droplets (considered as _Miss Droplet_ in server leaderboard) in this mode, but a drop of Accuracy and score gain from it.
+Combo will not be lost for missing droplets (considered as *Miss Droplet* in server leaderboard) in this mode, but a drop of Accuracy and score gain from it.
 
 `Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]`
 
@@ -118,11 +118,11 @@ Combo will not be lost for missing droplets (considered as _Miss Droplet_ in ser
 | **Difficulty multiplier** | The difficulty setting for the beatmap |
 | **Mod multiplier** | The multiplier of the selected mods |
 
-**Note:** There is a difference between osu!standard and osu!catch's scoring methods:
+**Note:** There is a difference between osu! and osu!catch's scoring methods:
 
 - 300s and a combo increment are not given to a finished spinner
 - reverse slider ticks are counted as a full score of a hit
-  - note that in osu!standard, a reverse tick only gives 30 points
+  - note that in osu!, a reverse tick only gives 30 points
 
 ## osu!mania
 

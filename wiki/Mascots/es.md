@@ -14,7 +14,7 @@ Un vídeo de YouTube mostrando las mascotas de osu! puede verse en [Mascot Showc
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, estilizado con una "p" minúscula, es la mascota de osu!standard que se unió en 2008-07. También se le conoce como pippidon en osu!taiko y tuvo aparición en [Yandere Simulator](https://yanderesimulator.com) como un NPC. El concepto de arte inicial fue creado por [Sarumaru](https://osu.ppy.sh/users/9427), el sprite de pippidon fue creado por [crystalsuicune](https://osu.ppy.sh/users/9974), y el arte actual fue diseñado por [Daru](https://osu.ppy.sh/users/32480).
+pippi, estilizado con una "p" minúscula, es la mascota de osu! que se unió en 2008-07. También se le conoce como pippidon en osu!taiko y tuvo aparición en [Yandere Simulator](https://yanderesimulator.com) como un NPC. El concepto de arte inicial fue creado por [Sarumaru](https://osu.ppy.sh/users/9427), el sprite de pippidon fue creado por [crystalsuicune](https://osu.ppy.sh/users/9974), y el arte actual fue diseñado por [Daru](https://osu.ppy.sh/users/32480).
 
 ### Yuzu
 

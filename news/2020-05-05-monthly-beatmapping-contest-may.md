@@ -35,7 +35,7 @@ As per usual, the timeline for this month's contest is as follows:
 
 ## Beatmapping
 
-### <a id="song"></a>Song
+### Song
 
 While the MBC usually provides a choice between 5 songs, this month's [limitation](#limitation) requires only one song:
 
@@ -47,7 +47,7 @@ While the MBC usually provides a choice between 5 songs, this month's [limitatio
     <source src="https://assets.ppy.sh/artists/36/previews/866.mp3" type="audio/mpeg">
 </audio>
 
-### <a id="limitation"></a>Limitation
+### Limitation
 
 Mapping restrictions are the bread and butter of the MBC. Every contest features a new limitation for mappers to work around, such as *star rating cannot exceed 4.00 stars* or *all sliders must be straight lines*.
 

@@ -2,7 +2,7 @@
 
 ![Gameplay d'osu!taiko](/wiki/shared/taiko-gameplay.jpg "Interface osu!taiko")
 
-osu!taiko est un mode de jeu dans osu! qui reprend *quelques* éléments du jeux de rythme japonais, [Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia") (sorti sous le nom de [Taiko: Drum Master](http://fr.wikipedia.org/wiki/Taiko:_Drum_Master "Wikipedia") en Amérique du Nord).
+osu!taiko est un mode de jeu dans osu! qui reprend *quelques* éléments du jeux de rythme japonais, [Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin) (sorti sous le nom de [Taiko: Drum Master](http://fr.wikipedia.org/wiki/Taiko:_Drum_Master) en Amérique du Nord).
 
 ## ![](/wiki/shared/mode/taiko.png) Gameplay
 
@@ -61,7 +61,7 @@ Cela ne va pas incrémenter le compteur de combo, et cela ne va pas faire regagn
 
 ## Style de jeu
 
-*[Reportez vous à la page Style de jeu dans osu!taiko](/wiki/Play_Styles).*
+*[Reportez vous à la page Style de jeu dans osu!taiko](/wiki/Play_style).*
 
 ## Contrôles
 
@@ -255,5 +255,5 @@ Notez également que les drumrolls en 1/6 sont donnés si le taux de slider tick
 ![logo osu!taiko en modes spécial](img/Taiko_logo.jpg "Logo Taiko dans un mode spécial")
 
 - Le`Use Taiko skin for Taiko mode` dans la barre sur le côté en dessous de la section skin va utiliser les éléments du skin dans le dossier `taiko` quand vous jouez à osu!taiko, sans prendre en compte les éléments taiko du skin actuel. Le dossier utilisé pour contenir le skin *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)*, qui peut être téléchargé par le maintenant déprécié `osume.exe` (un exécutable permettant de mettre osu! à jour quand il en avait besoin) sous la catégorie `Skin`.
-- Le premier beatmapset ranked qui contenait au moins une beatmap spécifique à osu!taiko est [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/beatmapsets/210)
-- Le premier beatmapset ranked avec des beatmap uniquement osu!taiko est [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/beatmapsets/55920)
+- La première beatmap ranked qui contenait au moins une difficultée spécifique à osu!taiko est [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/beatmapsets/210)
+- La première beatmap ranked avec des beatmaps uniquement osu!taiko est [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/beatmapsets/55920)

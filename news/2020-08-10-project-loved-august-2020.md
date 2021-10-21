@@ -12,12 +12,12 @@ In case you aren't familiar, Project Loved hosts monthly votings to decide which
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207) and [fartownik](https://osu.ppy.sh/users/56917)!
 
@@ -87,7 +87,7 @@ We've seen many absurdly difficult stream and aim maps enter the Loved category 
 
 Every once in a while, it's healthy to recount our favorite memories, and that's exactly what this 17-minute marathon by Fridolin sets out to do. It's a full map of a mashup of classic osu! songs that impacted the community throughout 2017. The map itself reaches past 8 stars in difficulty—not for the faint of heart, but an enjoyable challenge filled with memories nonetheless. Having accrued nearly 400 favorites, this is one of the few marathon compilations that should live on to be remembered.
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [Ulqui](https://osu.ppy.sh/users/1263669)!
 
@@ -119,7 +119,7 @@ maziari1105はこの大会で5回もの1位を取っている、とてつもな�
 
 You've probably played a DukeDukeDura map in multiplayer before, and if not then you should, because he has one of the most unique mapping styles in the taiko mapping community, and *Half a Pony* is one of the best examples of that. This techy map is truly an experience when you see all the weird snaps and unstable patterning, plus a full longstream section at the ending that gets rid of your stamina with the sudden high intensity, perfectly resembling this chaotic and irregular atmosphere Igorrr creates with his music. Uniqueness and interesting concepts are the reasons why DukeDukeDura needs more recognition and this map should be in the Loved section.
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -157,7 +157,7 @@ If you are a player that has been around for a really long time, then there is n
 
 It's time to welcome another good map from mapper Minato Yukina. *Little Show Magic - TRICKL4SH 400* is a well done technical map for top players and was selected in the CWC 2020 mappool. There are many fun shaking patterns in this map and they fit the song really well, which also makes the map a pretty good pick for HardRock. Besides the top diff, the other two difficulties created by Razor Sharp and Kyuare are also of high quality and interesting for play. Good luck with practising the electronic technical patterns with this map!
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976576), [Abraxos](https://osu.ppy.sh/users/5025064), [lenpai](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

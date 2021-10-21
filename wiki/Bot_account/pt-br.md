@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 2b3040251f1f4876dba46e9c7e01045a7c8ccfc0
 tags:
   - bot accounts
   - chat bot
@@ -15,7 +17,7 @@ Contas de bot só podem ser criadas pelo [processo de aplicação](#criando-uma-
 
 ## Benefícios de contas de bot
 
-A principal diferença entre uma conta pessoal e contas de bot estão nos limites que se aplicam ao enviar mensagens no [chat](/wiki/Chat_Console). Contas de bot têm limites mais altos para permitir que seus serviços interajam com mais usuários sem risco de ter a conta [silenciada](/wiki/Glossary#silence):
+A principal diferença entre uma conta pessoal e contas de bot estão nos limites que se aplicam ao enviar mensagens no [chat](/wiki/Chat_Console). Contas de bot têm limites mais altos para permitir que seus serviços interajam com mais usuários sem risco de ter a conta [silenciada](/wiki/Silence):
 
 - Contas pessoais podem enviar 10 mensagens a cada 5 segundos
 - Contas de bot podem enviar 300 mensagens a cada 60 segundos.

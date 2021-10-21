@@ -10,7 +10,7 @@ Below are just a few of the ways you can help out in the community:
 
 [The wiki](https://github.com/ppy/osu-wiki) is our official knowledge base that contains anything and everything about osu!. And as such, the wiki is always looking for more contributors to help keep the site up-to-date with fresh, new knowledge or translations.
 
-If you are a newcomer to the osu! wiki, you can read more about it in the [osu! wiki Contribution Guide](/wiki/osu!_wiki_Contribution_Guide).
+If you are a newcomer to the osu! wiki, you can read more about it in the [osu! wiki contribution guide](/wiki/osu!_wiki/Contribution_guide).
 
 ## Help keep osu! friendly and safe
 
@@ -32,18 +32,18 @@ The following outline just a few of the ways you can help out others:
   - [Mapping Discussion](https://osu.ppy.sh/community/forums/56)
   - [Storyboarding](https://osu.ppy.sh/community/forums/20)
   - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
-- Mark the forum as read using the link at the top right.
+- Mark the forum as read using the link at bottom.
 - Follow any new threads, reading each one and helping-out when you can; you can use the unread icons to make sure you keep up.
 - Read the [available guides](/wiki/Guides) to polish-up your osu! knowledge. If the guides in there don't satisfy you, then you can try contributing to them!
 
 ## Help check/mod beatmaps!
 
-osu! has a dedicated team of reviewers to check if the [beatmaps](/wiki/Beatmaps) are ready to be ranked and played by everyone. However, that doesn't mean you cannot contribute to this sector:
+osu! has a dedicated team of reviewers to check if the [beatmaps](/wiki/Beatmap) are ready to be ranked and played by everyone. However, that doesn't mean you cannot contribute to this sector:
 
 - Look through or search the [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) listing for any artists or songs you like and/or want to contribute to.
-- Play beatmaps in the [*Pending* or *Work-in-progress*](/wiki/Beatmaps#work-in-progress-and-pending) stages and leave feedback in the beatmap's discussion page.
+- Play beatmaps in the [*Pending* or *Work-in-progress*](/wiki/Beatmap/Category#work-in-progress-and-pending) stages and leave feedback in the beatmap's discussion page.
 - Read the [Modding Guide](/wiki/Modding) and the [Ranking Criteria](/wiki/Ranking_Criteria) to know the basics of technical modding and what makes a beatmap rankable.
-- Join the `#modhelp` and `#modreqs` on the in-game chat and either join-in on the conversation or just follow along.
+- Join the `#mapping` and `#modreqs` on the in-game chat and either join-in on the conversation or just follow along.
 - If you have the time and dedication, make a [Modding Queue](https://osu.ppy.sh/community/forums/60) to give beatmap creators a place to request you for mods.
 
 ## Help or join user-run community projects
@@ -60,7 +60,7 @@ Below are just a few of the ways you can contribute:
 
 ## Contribute to the future of osu!
 
-Started in 2017, the osu!lazer project is the current focus of the osu! team, along with the new website, which is what you see today! If you would like to help make these projects even better and bring us closer to the future of osu!, there are a number of things you can do, but below are just a few examples:
+Started in 2017, the osu!lazer project is the current focus of [the osu! team](/wiki/People/The_Team), along with the new website, which is what you see today! If you would like to help make these projects even better and bring us closer to the future of osu!, there are a number of things you can do, but below are just a few examples:
 
 - Helping with the [osu!lazer](https://github.com/ppy/osu) project. There is so much to implement on the new version of osu!, and you can help make it happen!
 - Make the [new website](https://github.com/ppy/osu-web) even better.

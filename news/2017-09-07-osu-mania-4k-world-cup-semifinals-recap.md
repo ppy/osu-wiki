@@ -11,8 +11,8 @@ With a field of 12 teams being cut in half in this stage of the tournament, the 
 ### Navigation
 
 - [Mappool](#mappool)
-- [Tournament Matches](#matches)
-- [Looking Ahead](#ahead)
+- [Tournament Matches](#tournament-matches)
+- [Looking Ahead](#looking-ahead:-finals-week-1)
 
 ---
 
@@ -20,7 +20,7 @@ At the conclusion of last week's matches, we had to pay our due respects to four
 
 Additionally, the semifinalist teams in the Winners Bracket also had some serious stakes themselves, as victories in their respective matches guaranteed them acknowledgement as one of the top three teams in this year's competition.
 
-## <a name="mappool" id="mappool"></a>Mappool
+## Mappool
 
 **Over the course of eight matches in this semifinal round, all 14 non-tiebreaker maps were selected at least once!** Since the start of this tournament, only one song has not received any play at all (Re/IM, during the round of 16), which speaks volumes about how diversified these mappools have been.
 
@@ -44,7 +44,7 @@ Players were not the most fond of the extreme technicality required to perform a
 
 Anyone interested in the statistics of this mapoool, or any previous ones, can refer to the [osu!mania 4K World Cup statistics sheet](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml#).
 
-## <a name="matches" id="matches"></a>Tournament Matches
+## Tournament Matches
 
 ### Saturday
 
@@ -96,7 +96,7 @@ As usual, if you have missed any of the matches for the past weekend, all VODs o
 
 This weekend, we paid our respects to six teams finding themselves eliminated at this stage of the tournament: Sweden, France, Poland, Canada, Indonesia, and China have all played their final matches this weekend.
 
-## <a name="ahead" id="ahead"></a>Looking Ahead: Finals Week 1
+## Looking Ahead: Finals Week 1
 
 The tournament is nearing closer and closer to its conclusion as we arrive at the second-to-last weekend with these upcoming matches.
 

@@ -18,12 +18,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!standard
+## osu!standard
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/FKyJHfWWAgA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -71,7 +71,7 @@ Some of you may remember this map sparking a bit of controversy a year ago. Foll
 
 Though many would consider this set a "practice mapset", *Chaoz Fantasy* hosts a multitude of difficulties meant to push your finger control to its absolute limit. Waves of doubles, quads, triples, and singletaps of varying BPM await you in this grueling benchmark mapset. Work your way up to a staggering 211 BPM and see what true pain, egg pain+++, feels like.
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -99,7 +99,7 @@ Hide Away My Heartの最高難易度であるRefugeでは、1/8が連続した�
 
 Refuge, the top difficulty from *Hide Away My Heart*, has fast 1/8 patterns. This pattern is called the "Spinner Style" and hitting it like kd/dk/kd/dk using your middle and pointer finger is the most common. Despite a map having this technical (or impossible without a specific hit style) pattern, it was Qualified once last year, causing controversy. But because the quality of the pattern is high and the map is familiar to many, I think it's worth nominating for Loved!
 
-## <a name="catch" id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)! This week, all osu!catch beatmap descriptions were written by [Tenshichan](https://osu.ppy.sh/users/1101600).
 
@@ -119,7 +119,7 @@ Magiyu is an osu!catch player who quit the game long ago, but during the time th
 
 DaxMasterix is known as an old-style mapper and his osu!catch difficulty of *Blue Night* is no exception. It is full of patterns which were regularly used back in the day, meaning there are a lot of jumps to look out for which might catch you off guard. The map is quite old—it was made before the hyperdash change which turned a few hyperjumps into way harder timing jumps. But nonetheless, the map still plays very well. A few jumps might require some practice to catch consistently, but other than that everything is perfectly doable. This does not mean the map is easy, but most of the top players should be able to FC the map. This mapset is hosted by [grumd](https://osu.ppy.sh/users/530913) and also contains standard difficulties.
 
-## <a name="mania" id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

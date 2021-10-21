@@ -108,7 +108,7 @@ Moeilijkheidsgraad-specifieke regels en richtlijnen zijn enkel van toepassing op
 - **Als een 1/3-patroon wordt gebruikt, moeten de patronen simplistisch blijven en worden gevolgd door een rustmoment.** Finisher noten mogen niet in patronen als zodanig worden gebruikt.
 - **Patronen op snaps die sneller dan 1/3 zijn, worden niet toegestaan.** Deze patronen zijn te complex voor beginnende spelers.
 
-Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste moeilijkheidsgraad* van een beatmapset, moet deze zich ook aan volgende regels houden:
+Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste moeilijkheidsgraad* van een beatmap, moet deze zich ook aan volgende regels houden:
 
 - **Patronen op snaps sneller dan 1/2 zijn niet toegestaan.** Deze patronen zijn te complex voor beginnende spelers. Voor nummers die een walsritme volgen, is deze limiet 1/3.
 
@@ -121,7 +121,7 @@ Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste m
 - **Minstens 1 rustmoment dat 2/1 of langer is moet na 16/1 tot 20/1 van het continu mappen worden ingevoegd.** Het gebruik van minder frequente rustmomenten is acceptabel als het tempo van de muziek de rustmomenten contra-intuïtief maakt of als het continu gemapte deel in het algemeen vergevingsgezinder is voor de speler.
 - **Simpele *slider velocity* veranderingen kunnen worden gebruikt.**
 
-Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste moeilijkheidsgraad* van een beatmapset, moet deze zich ook aan volgende richtlijnen houden:
+Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste moeilijkheidsgraad* van een beatmap, moet deze zich ook aan volgende richtlijnen houden:
 
 - **1/2-patronen mogen niet langer zijn dan vijf noten.**
 - ***Slider velocity* veranderingen moeten voorzichtig gebruikt worden.** Veranderingen mogen enkel gebruikt worden voor secties met verschillende snelheden en de *slider velocity* mag niet drastisch veranderen.

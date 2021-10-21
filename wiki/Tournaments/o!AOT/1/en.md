@@ -1,14 +1,14 @@
 ---
 tags:
-- o!AOT
-- AOT
+  - o!AOT
+  - AOT
 ---
 
 # osu! Asia Oceania Tournament
 
 ![o!AOT logo](img/logo.jpg)
 
-The **osu! Asia Oceania Tournament** (***o!AOT***) was an Asian and Oceanian double-elimination team-based osu! tournament hosted by ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) and ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608). It was the first installment of the osu! Asia Oceania Tournament.
+The **osu! Asia Oceania Tournament** (***o!AOT***) was an Asian and Oceanian double-elimination team-based osu! tournament hosted by ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) and ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608). It was the first instalment of the osu! Asia Oceania Tournament.
 
 ## Tournament schedule
 
@@ -17,7 +17,7 @@ The **osu! Asia Oceania Tournament** (***o!AOT***) was an Asian and Oceanian dou
 | Registration phase | 2019-06-10/2019-07-07 |
 | Live drawings | 2019-07-20 (19:00 UTC+7) |
 | Qualifiers | 2019-07-26/2019-07-28 |
-| Group Stage | 2019-08-02/2019-08-11 |
+| Group stage | 2019-08-02/2019-08-11 |
 | Round of 16 | 2019-08-17/2019-08-18 |
 | Quarterfinals | 2019-08-24/2019-08-25 |
 | Semifinals | 2019-08-30/2019-09-01 |
@@ -28,8 +28,8 @@ The **osu! Asia Oceania Tournament** (***o!AOT***) was an Asian and Oceanian dou
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 
 ![](img/badge.jpg "o!AOT winner badge")
 
@@ -40,7 +40,7 @@ The osu! Asia Oceania Tournament was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
-| Map selector | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_MY] [Sikey](https://osu.ppy.sh/users/343057), ![][flag_MY] [ZheVulture](https://osu.ppy.sh/users/6570008) |
+| Mappool selector | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_MY] [Sikey](https://osu.ppy.sh/users/343057), ![][flag_MY] [ZheVulture](https://osu.ppy.sh/users/6570008) |
 | Referee | ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_PL] [Houtarou Oreki](https://osu.ppy.sh/users/4185566), ![][flag_PH] [Hues](https://osu.ppy.sh/users/2367206), ![][flag_MY] [Kardshark](https://osu.ppy.sh/users/4724315), ![][flag_TH] [Koiyo](https://osu.ppy.sh/users/11373528), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_PH] [Kyoren](https://osu.ppy.sh/users/1266303), ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_PH] [muffleberry](https://osu.ppy.sh/users/8978259), ![][flag_CN] [MyAngelJackWang](https://osu.ppy.sh/users/3665920), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_MY] [PurpleSatanWeed](https://osu.ppy.sh/users/6928574), ![][flag_TH] [reset](https://osu.ppy.sh/users/212879), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_MY] [ZheVulture](https://osu.ppy.sh/users/6570008) |
 | Streamer | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
 | Commentator | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_VN] [LMT](https://osu.ppy.sh/users/7262798), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_AU] [loveleft](https://osu.ppy.sh/users/9240047), ![][flag_SG] [Pencil-kun](https://osu.ppy.sh/users/4662795), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
@@ -262,7 +262,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[BABYMETAL - KARATE (Hysteria) \[Kyacchi Ni-Ju Ni\]](https://osu.ppy.sh/beatmapsets/505685#osu/1090998)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (102 MB)](https://fuma.s-ul.eu/HlCziwOy)**
 
@@ -305,7 +305,7 @@ This competition has come to an end and resulted in the following podium:
   - [Ito Kanako - Skyclad no Kansokusha (Linada) \[-Tochi's Insane\]](https://osu.ppy.sh/beatmapsets/416129#osu/972844)
   - [Kuba Oms - All In All (Venix) \[Insane\]](https://osu.ppy.sh/beatmapsets/961320#osu/2012527)
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
@@ -412,7 +412,7 @@ Sunday, 18 August 2019:
 | No Tryhard | 1 | **6** | **panda is not justice** | [#1](https://osu.ppy.sh/community/matches/54168789) |
 | **reyuza ganteng** | **6** | 3 | FYP 228922 | [#1](https://osu.ppy.sh/community/matches/54168996) |
 
-### Group Stage
+### Group stage
 
 Friday, 2 August 2019:
 
@@ -496,7 +496,7 @@ Sunday, 11 August 2019:
 
 ### Qualifier information
 
-1. Scoring will be done by using the following [formula](http://bit.ly/2HNYw7M).
+1. Scoring will be done by using the following [formula](https://docs.google.com/spreadsheets/d/1MvooEv_AWLs9DaGujlO8Nj3jScPk_zbXprxEPKLv6dI/edit#gid=1475545356).
 2. Every map in the qualifier mappool will have to be played once.
 3. Notify `@host` to reschedule your lobby in `#reschedule` that can be found in o!AOT's Discord server using the given format.
 4. Team placement in the qualifiers will determine seedings in group stage as follows:
@@ -580,7 +580,7 @@ Sunday, 11 August 2019:
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_KW]: /wiki/shared/flag/KW.gif "Kuwait"
 [flag_KZ]: /wiki/shared/flag/KZ.gif "Kazakhstan"
-[flag_MN]: /wiki/shared/flag/MN.gif "Monaco"
+[flag_MN]: /wiki/shared/flag/MN.gif "Mongolia"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"

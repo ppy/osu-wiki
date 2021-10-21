@@ -1,8 +1,8 @@
 ---
 tags:
-- osu! Multi Mode French Fiesta
-- oMMFF
-- MMFF
+  - osu! Multi Mode French Fiesta
+  - oMMFF
+  - MMFF
 ---
 
 # osu! Multi Mode French Fiesta
@@ -112,8 +112,6 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
   - [osu!mania](https://o2mf.challonge.com/o2mf_mania)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vSE0LEyHOBW8P5F37719J2oZMhtba9b7Z-WaT5otksz7lSf4fvIq3giYXHNpT4xl1bOrIhJCPN6xlxO/pubhtml)**
 
----
-
 ## Participants
 
 ### Division osu!
@@ -152,8 +150,6 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | Low | ![][flag_FR] [polo2000](https://osu.ppy.sh/users/10169467), ![][flag_FR] [quentin5110054](https://osu.ppy.sh/users/8756421), ![][flag_FR] [Trypha](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Exilfaker](https://osu.ppy.sh/users/2735466), ![][flag_FR] [PouletFurtif](https://osu.ppy.sh/users/1271018), ![][flag_FR] [Vivio](https://osu.ppy.sh/users/4545868) |
 | Unseeded | ![][flag_FR] [Roboclop](https://osu.ppy.sh/users/7126414), ![][flag_FR] [-Leks](https://osu.ppy.sh/users/10403635), ![][flag_FR] [The\_Azerty](https://osu.ppy.sh/users/11274064), ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359), ![][flag_FR] [\_Karibu\_](https://osu.ppy.sh/users/7339484), ![][flag_FR] [Zulsramno](https://osu.ppy.sh/users/12563193) |
 
----
-
 ## Podium
 
 La compétition est arrivée à une fin et à donné le podium ci-dessous:
@@ -189,8 +185,6 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604) |
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522) |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293) |
-
----
 
 ## Liste des maps
 
@@ -740,8 +734,6 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 - Tiebreaker
   - **[BlackY vs. Yooh - XROSS INFECTION (xlwan) \[xl's EXHAUST\]](https://osu.ppy.sh/beatmapsets/486123#mania/1793948)**
 
----
-
 ## Résultats des matches
 
 ### Division osu!
@@ -1102,8 +1094,6 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | **DragonSonic** ![][flag_FR] | **4** | 1 | ![][flag_FR] Trypha | [#1](https://osu.ppy.sh/community/matches/49013744) |
 | **Min-eb** ![][flag_FR] | **4** | 3 | ![][flag_FR] -Leks | [#1](https://osu.ppy.sh/community/matches/49014525) |
 
----
-
 ## Règlement
 
 ### Modes de jeu et système de score
@@ -1170,7 +1160,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 #### Bans et Picks
 
-- Suivant la phase de warmup, les joueurs devront utiliser la commande de !roll sur le chat du multijoueur. Le joueur avec le plus bas roll aura le premier ban et deuxième pick, tandis que le joueur avec le plus haut roll aura le premier pick et deuxième ban. Il y aura **deux bans** par joueur pour chaque round.
+- Suivant la phase de warmup, les joueurs devront utiliser la commande de `!roll` sur le chat du multijoueur. Le joueur avec le plus bas roll aura le premier ban et deuxième pick, tandis que le joueur avec le plus haut roll aura le premier pick et deuxième ban. Il y aura **deux bans** par joueur pour chaque round.
 
 #### Format du Match
 
@@ -1200,15 +1190,15 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 - Ceci est très simple. Les joueurs et le staff doivent tout d'abord, avoir lu ce règlement en entier. Toute personne participant dans ce tournoi est attendu d'être respectueux de chacun. Sous peine de ban et blacklist si cela n'est pas respecté. Ceci compte autant pour les joueurs que pour le staff.
 
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BF]: /wiki/shared/flag/BF.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
+[flag_BF]: /wiki/shared/flag/BF.gif "Burkina Faso"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
+[flag_IE]: /wiki/shared/flag/IE.gif "Irlande"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

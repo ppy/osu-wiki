@@ -7,18 +7,18 @@ tags:
 
 # Mistrzostwa Polski w 7K 2019
 
-![MP7K 2019 Logo](img/logo.png)
+![MP7K 2019 logo](img/logo.png)
 
-The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2019*) was a one-on-one, osu!mania 7-key tournament made for osu! players based in Poland or of Polish Heritage. It is the first installment of the tournament.
+The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2019*) was a one-on-one, osu!mania 7-key tournament made for osu! players based in Poland or of Polish Heritage. It is the first instalment of the tournament.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-10-09/2019-11-01 |
+| Registration phase | 2019-10-09/2019-11-01 |
 | Qualifiers Showcase | 2019-11-02 |
 | Qualifiers | 2019-11-09/2019-11-10 |
-| Group Stage | 2019-11-16/2019-11-17 |
+| Group stage | 2019-11-16/2019-11-17 |
 | Round of 16 | 2019-11-23/2019-11-24 |
 | Quarterfinals | 2019-11-30/2019-12-01 |
 | Semifinals | 2019-12-07/2019-12-08 |
@@ -29,20 +29,20 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 150 PLN |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 90 PLN |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 60 PLN |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 150 PLN |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 90 PLN |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 60 PLN |
 
 ## Organisation
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
-| Map Selectors | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
-| Referees | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691) |
-| Streamers | ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
-| Commentators | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [paprotka](https://osu.ppy.sh/users/7233032), ![][flag_PL] [Shizune](https://osu.ppy.sh/users/8682644), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
-| Graphic Designer | ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
+| Mappool selector | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
+| Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691) |
+| Streamer | ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
+| Commentator | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [paprotka](https://osu.ppy.sh/users/7233032), ![][flag_PL] [Shizune](https://osu.ppy.sh/users/8682644), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
+| Graphic designer | ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
 
 ## Links
 
@@ -50,11 +50,7 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 - [Livestream](https://www.twitch.tv/polishosumania)
 - [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv)
 
----
-
 ## Participants
-
-### Qualified participants
 
 | Seed | Users |
 | :-- | :-- |
@@ -62,7 +58,7 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 | High (#9 - #16) | ![][flag_PL] [-Maus-](https://osu.ppy.sh/users/3109917), ![][flag_PL] [Alicejoy](https://osu.ppy.sh/users/10678683), ![][flag_PL] [jasionnn](https://osu.ppy.sh/users/6886081), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297), ![][flag_PL] [PoweR\_LendzeR](https://osu.ppy.sh/users/2894654) |
 | Low (#17 - #24) | ![][flag_PL] [Doktorek626](https://osu.ppy.sh/users/2122669), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [AgregaTxD](https://osu.ppy.sh/users/5115492), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Bobini-](https://osu.ppy.sh/users/7352299), ![][flag_PL] [xROCKETx](https://osu.ppy.sh/users/7442009), ![][flag_PL] [Felix27](https://osu.ppy.sh/users/7447943) |
 
-### Groups
+## Groups
 
 | Group | Top | High | Low |
 | :-: | :-- | :-- | :-- |
@@ -75,19 +71,15 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 | **G** | ![][flag_PL] - gero - | ![][flag_PL] PoweR\_LendzeR | ![][flag_PL] capsafangirl |
 | **H** | ![][flag_PL] Jakub Janda | ![][flag_PL] Justin14p | ![][flag_PL] Felix27 |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PL] [**- gero -**](https://osu.ppy.sh/users/5068537) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [**Kamikaze**](https://osu.ppy.sh/users/2124783) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] [**-Karen-chan-**](https://osu.ppy.sh/users/1333495) |
-
----
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PL] [**- gero -**](https://osu.ppy.sh/users/5068537) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [**Kamikaze**](https://osu.ppy.sh/users/2124783) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] [**-Karen-chan-**](https://osu.ppy.sh/users/1333495) |
 
 ## Mappools
 
@@ -207,8 +199,6 @@ This competition has come to an end and resulted in the following podium:
   - [OtoChi2 - Big Fish (Benzopirene) \[Stage 3: Balance\]](https://osu.ppy.sh/beatmapsets/1060141#mania/2219785)
   - [Re:gats& - No Prayer (Benzopirene) \[Stage 4: Aptitude\]](https://osu.ppy.sh/beatmapsets/1060140#mania/2219784)
 
----
-
 ## Match results
 
 ### Grand Finals
@@ -239,7 +229,7 @@ Saturday, 14 December 2019:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | capsafangirl ![][flag_PL] | 1 | **6** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56964079) |
-| **- gero -** ![][flag_PL] | **6** | 0 | ![][flag_PL] Kamikaze | *-win by default-* |
+| **- gero -** ![][flag_PL] | **6** | 0 | ![][flag_PL] Kamikaze | *win by default* |
 
 ### Semifinals
 
@@ -337,14 +327,14 @@ Saturday, 16 November 2019:
 | **PanzerRaymanPL** ![][flag_PL] | **4** | 2 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56298736) |
 | **Brunwald_1410** ![][flag_PL] | **4** | 2 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/56301272) |
 | **EWGF** ![][flag_PL] | **4** | 1 | ![][flag_PL] jasionnn | [#1](https://osu.ppy.sh/community/matches/56304660) |
-| **Kamikaze** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | *-win by default-* |
+| **Kamikaze** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | *win by default* |
 | **Lorwick** ![][flag_PL] | **4** | 2 | ![][flag_PL] Doktorek626 | [#1](https://osu.ppy.sh/community/matches/56307590) |
 | Lorwick ![][flag_PL] | 2 | **4** | ![][flag_PL] **-Maus-** | [#1](https://osu.ppy.sh/community/matches/56308924) |
 | **- gero -** ![][flag_PL] | **4** | 0 | ![][flag_PL] PoweR_LendzeR | [#1](https://osu.ppy.sh/community/matches/56310378) |
 | **- gero -** ![][flag_PL] | **4** | 0 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/56311969) |
-| **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | *-win by default-* |
+| **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | *win by default* |
 | **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56314551) |
-| **Justin14p** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | *-win by default-* |
+| **Justin14p** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | *win by default* |
 
 Sunday, 17 November 2019:
 
@@ -352,21 +342,19 @@ Sunday, 17 November 2019:
 | --: | :-: | :-: | :-- | :-- |
 | **PanzerRaymanPL** ![][flag_PL] | **4** | 1 | ![][flag_PL] xROCKETx | [#1](https://osu.ppy.sh/community/matches/56329960) |
 | **Alicejoy** ![][flag_PL] | **4** | 3 | ![][flag_PL] xROCKETx | [#1](https://osu.ppy.sh/community/matches/56330729) |
-| Brunwald_1410 ![][flag_PL] | 0 | **4** | ![][flag_PL] **Miq** | *-win by default-* |
+| Brunwald_1410 ![][flag_PL] | 0 | **4** | ![][flag_PL] **Miq** | *win by default* |
 | Miq ![][flag_PL] | 3 | **4** | ![][flag_PL] **Yamakazi** | [#1](https://osu.ppy.sh/community/matches/56332431) |
 | **-Maus-** ![][flag_PL] | **4** | 1 | ![][flag_PL] Doktorek626 | [#1](https://osu.ppy.sh/community/matches/56339116) |
 | **EWGF** ![][flag_PL] | **4** | 1 | ![][flag_PL] AgregaTxD | [#1](https://osu.ppy.sh/community/matches/56339376) |
 | jasionnn ![][flag_PL] | 2 | **4** | ![][flag_PL] **AgregaTxD** | [#1](https://osu.ppy.sh/community/matches/56337840) |
 | **Tidek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/56335633) |
 | **Kamikaze** ![][flag_PL] | **4** | 1 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56333440) |
-| **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | *-win by default-* |
-| PoweR_LendzeR ![][flag_PL] | 0 | **4** | ![][flag_PL] **capsafangirl** | *-win by default-* |
+| **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | *win by default* |
+| PoweR_LendzeR ![][flag_PL] | 0 | **4** | ![][flag_PL] **capsafangirl** | *win by default* |
 
 ### Qualifiers
 
-The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-4z3wcwDb6UEXY-s7Dl90IF6VL1XYJrlZtA8kFgCh3lexRIOGIRrvjVpSMFZViy7tC9EewNQSUD3-/pubhtml).
-
----
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-4z3wcwDb6UEXY-s7Dl90IF6VL1XYJrlZtA8kFgCh3lexRIOGIRrvjVpSMFZViy7tC9EewNQSUD3-/pubhtml).
 
 ## Ruleset
 
@@ -457,7 +445,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - Players are to choose one (1) protected map within the map pool which they want to keep not bannable (from their opponent). They must inform the match referee in a private message of which map they choose to protect. If the player does not inform the match referee of their desired map choice in 60 seconds, the player will lose an opportunity to choose a protected map.
 - Players are to ban one (1) map within the map pool which they are playing for the given round. They must inform the match referee in a private message of which map they choose to ban. If the player does not inform the match referee of their desired ban choice in about 60 seconds, the player will lose an opportunity to choose a ban.
 - It is mandatory for the match referee to inform players in the lobby which maps are protected and banned.
-- Players will be instructed to do a !roll command by the referee that is overseeing the match. The winner of the !roll decides if they want to pick first or second. In the event that both players get the same roll, they will have to continue doing the !roll command until the tie is broken.
+- Players will be instructed to do a `!roll` command by the referee that is overseeing the match. The winner of the `!roll` decides if they want to pick first or second. In the event that both players get the same roll, they will have to continue doing the `!roll` command until the tie is broken.
 - After the protected maps, bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
      - The winning player moves onto the next match.
@@ -474,5 +462,5 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"

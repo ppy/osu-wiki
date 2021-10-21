@@ -49,21 +49,15 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 | Kommentatoren | ![][flag_GB][jesus1412](https://osu.ppy.sh/users/230116) // ![][flag_FR][Mr Color](https://osu.ppy.s6078) // ![][flag_GB][Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US][ztrot](https://osu.ppy.sh/users/6347) |
 | Statistiker | ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Links
 
-- [osu! World Cup 2014 auf Twitch](https://www.twitch.tv/osulive/)
+- [osu! World Cup 2014 auf Twitch](https://www.twitch.tv/osulive)
 - [Registrierungformular](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
 - [Diskussionsthread](https://osu.ppy.sh/community/forums/posts/3410198)
 - [Mappool Diskussionsthread](https://osu.ppy.sh/community/forums/topics/255369/)
 - **[Statistik zur Gruppenphase](https://owc.nicarim.pw/results/view/3)**
 
----
-
 ![OWC 2014 brackets](img/bracket.jpg)
-
----
 
 ## Teilnehmer
 
@@ -122,8 +116,6 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 | ![][flag_MY] Malaysia | **[Gon](https://osu.ppy.sh/users/583765)**, [xsrsbsns](https://osu.ppy.sh/users/414427), [caleb123456](https://osu.ppy.sh/users/2205376), [ExPew](https://osu.ppy.sh/users/665612), [TequilaWolf](https://osu.ppy.sh/users/3633477), [NazzzF](https://osu.ppy.sh/users/2676512), [ffstar0716](https://osu.ppy.sh/users/1163205), [Rumia-](https://osu.ppy.sh/users/1787171) |
 | ![][flag_RU] Russian Federation | **[cr1m](https://osu.ppy.sh/users/803766)**, [talala](https://osu.ppy.sh/users/1389663), [Shiawase](https://osu.ppy.sh/users/989489), [anticlone111](https://osu.ppy.sh/users/1950600), [Kert](https://osu.ppy.sh/users/119933), [KoTo](https://osu.ppy.sh/users/1382805), [Hidari Handoru](https://osu.ppy.sh/users/1056329), [Pyroboom](https://osu.ppy.sh/users/689882) |
 | ![][flag_CN] China | **[Prophet](https://osu.ppy.sh/users/651307)**, [Dsan](https://osu.ppy.sh/users/1266166), [N a n o](https://osu.ppy.sh/users/694114), [Del soon Bye](https://osu.ppy.sh/users/629717), [Rebellion](https://osu.ppy.sh/users/2896273), [SpringLane](https://osu.ppy.sh/users/1343504), [Spring Roll](https://osu.ppy.sh/users/2499198), [wobeinimacao](https://osu.ppy.sh/users/350723) |
-
----
 
 ## Mappools
 
@@ -277,8 +269,6 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 - Tiebreaker
   - **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)**
 
----
-
 ## Matchergebnisse
 
 ### Finale
@@ -420,8 +410,6 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 | ![][flag_HK] Hong Kong | 3 - **4** | **Canada** ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/10355083) |
 | ![][flag_SG] Singapore | 1 - **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/10355087) |
 
----
-
 ## Regelsätze
 
 ### Turnierregeln
@@ -466,16 +454,22 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 ### Etappenanweisungen
 
 1. In der ersten Etappe (Gruppenphase) werden alle Teams in 8 Gruppen mit jeweils 4 Teams aufgeteilt.
+
 2. Die Teams werden gegen alle anderen Teams in derselben Gruppe antreten.
+
 3. Rankings werden für jede Gruppe durch eine Sortierung von den Ergebnissen anhand der Performance jedes Teams an den folgenden Prioritäten ermittelt:
    1. Am meisten gewonnene Partien.
    2. Hat ein größeres `{(Anzahl an gewonnenen Maps) - (Anzahl an verlorenen Maps)}`.
    3. Am meisten gewonnene Maps.
    4. Hat ein größeres `∑{(gesamtes Ergebnisdifferenz) / (maximales Ergebnis)}`.
    5. Gewinner von Rückspielen.
+
 4. Die besten 2 Teams in der Gruppe kommen in die Double-Elimination Etappen.
+
 5. Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt. Eine ausführliche Erklärung finden Sie [hier](https://de.wikipedia.org/wiki/Double_knock-out).
+
 6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
+
    | Stage | Match ID |
    | :-- | :-- |
    | Achtelfinale | A, B, C, D, E, F, G, H |
@@ -483,6 +477,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
    | Halbfinale | M, N & V, W, X, Y, Z,AA |
    | Finale - Woche 1 | O & AB, AC, AD, AE |
    | Finale - Woche 2 | P, Q |
+
 7. **Bedingungen, um zu gewinnen:**
    - In der Gruppenphase benötigen Sie 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)
    - Im Achtel- und Viertelfinale benötigen Sie 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
@@ -497,8 +492,8 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 2. Den Spielern steht es zu 2 Beatmaps für die "Warm-Up" Phase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten.
 3. Jeder Kapitän kann 2 Beatmaps aus dem Pool wählen, die nicht gespielt werden sollen. Dies gilt für beide Teams und die komplette Partie hindurch.
    1. Beide Vetos müssen benutzt werden.
-   2. Beide Kapitäne müssen "!roll" benutzen, um zu ermitteln, wer mit dem Verbannen der beiden Beatmaps beginnen soll. Der andere Kapitän darf nicht dieselben Beatmaps verbannen und muss daher andere Beatmaps auswählen, um Überlappungen zu vermeiden.
-4. Die Beatmaps werden abwechselnd von den beiden Kapitänen ausgewählt. Zuvor muss jedoch wieder mit "!roll" im \#multiplayer ermittelt werden, welches Team zuerst anfängt.
+   2. Beide Kapitäne müssen `!roll` benutzen, um zu ermitteln, wer mit dem Verbannen der beiden Beatmaps beginnen soll. Der andere Kapitän darf nicht dieselben Beatmaps verbannen und muss daher andere Beatmaps auswählen, um Überlappungen zu vermeiden.
+4. Die Beatmaps werden abwechselnd von den beiden Kapitänen ausgewählt. Zuvor muss jedoch wieder mit `!roll` im `#multiplayer` ermittelt werden, welches Team zuerst anfängt.
    1. Die Kapitäne können frei nach Belieben eine Beatmap aus den einzelnen Gruppen auswählen.
    2. Im Falle eines Unentschiedens, muss die Tiebreaker Map gespielt werden.
 5. Die Ergebnisse werden im osu! Wiki und per Statistiken auf einer Webseite veröffentlicht.

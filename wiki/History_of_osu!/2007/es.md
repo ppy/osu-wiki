@@ -38,7 +38,7 @@ El menú principal fue actualizado con un nuevo diseño, y el editor recibió un
 
 ![](img/2007-08_02.jpg "Evolucion de la explosión de golpe")
 
-La jugabilidad se vio mejorada con el debut de [Combo de fuego](/wiki/Combo_fire), la barra de HP, estela del ratón, y mejores deslizadores. En este punto, osu! tenía una humilde colección de alrededor de 10 beatmaps diseñados por el equipo de prueba de alrededor de 5 personas.
+La jugabilidad se vio mejorada con el debut de [Combo de fuego](/wiki/Glossary/Combo_fire), la barra de HP, estela del ratón, y mejores deslizadores. En este punto, osu! tenía una humilde colección de alrededor de 10 beatmaps diseñados por el equipo de prueba de alrededor de 5 personas.
 
 ![](img/2007-08_03.jpg "Selector de canciones para el modo editor")
 
@@ -61,13 +61,13 @@ que atrajo a bastantes personas interesadas con experiencias anteriores en juego
 
 ![](img/2007-09_05.jpg "Anuncio de noticias en un sitio web de juegos")
 
-Rápidamente después del lanzamiento público, los primeros mods, [Easy](/wiki/EZ) y [No Fail](/wiki/NF), fueron integrados, así como secciones de descanso (que hasta ahora habían sido ignoradas). Una gran cantidad de cambios hizo que osu! rápidamente se viera más y más como un juego de ritmo comercial.
+Rápidamente después del lanzamiento público, los primeros mods, [Easy](/wiki/Disambiguation/EZ) y [No Fail](/wiki/Game_modifier/No_Fail), fueron integrados, así como secciones de descanso (que hasta ahora habían sido ignoradas). Una gran cantidad de cambios hizo que osu! rápidamente se viera más y más como un juego de ritmo comercial.
 
 ![](img/easy.png "Easy (v1)") ![](img/no_fail.png "No Fail (v1)")
 
 ## Octubre
 
-2007-10-01 fue el día en que las clasificaciones en línea se pusieron a disposición públicamente. Esto también vio el lanzamiento del método de empaquetado `.osz`, y la base de datos de beatmaps en línea con un sistema de envío temprano basado en la web. Las clasificaciones en línea fueron añadidas a la interfaz dentro del juego y también mostradas en la página.
+2007-10-06 fue el día en que las clasificaciones en línea se pusieron a disposición públicamente. Esto también vio el lanzamiento del método de empaquetado `.osz`, y la base de datos de beatmaps en línea con un sistema de envío temprano basado en la web. Las clasificaciones en línea fueron añadidas a la interfaz dentro del juego y también mostradas en la página.
 
 ![](img/2007-10_01.jpg)
 
@@ -81,7 +81,7 @@ La versión 2 de `pUpdater` (`osume`) fue lanzada, soportando la descarga de paq
 
 ## Noviembre
 
-El rango SS fue agregado al sistema de calificaciones, reemplazando el resultado S en casos de perfección dentro del beatmap. El mod [No Video](/wiki/NV) y [Hidden](/wiki/HD) fueron introducidos, y los resultados SH (S de plata) y SSH (SS de plata) van con el. Por primera vez, Los jugadores podrían asignar skins y conjunto de muestras normales o suaves por sección de tiempo. Los archivos `.osz` pueden ser cargados presionando dos veces sobre estos, o arrastrandolos hasta el ícono de osu!.
+El rango SS fue agregado al sistema de calificaciones, reemplazando el resultado S en casos de perfección dentro del beatmap. El mod [No Video](/wiki/Game_modifier/No_Video) y [Hidden](/wiki/Game_modifier/Hidden) fueron introducidos, y los resultados SH (S de plata) y SSH (SS de plata) van con el. Por primera vez, Los jugadores podrían asignar skins y conjunto de muestras normales o suaves por sección de tiempo. Los archivos `.osz` pueden ser cargados presionando dos veces sobre estos, o arrastrandolos hasta el ícono de osu!.
 
 ![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
 
@@ -93,7 +93,7 @@ El rango SS fue agregado al sistema de calificaciones, reemplazando el resultado
 
 ![](img/2007-11_03.jpg "Testeando el uso de IRC")
 
-El [Sistema de envío de Beatmaps](/wiki/Glossary#bss) (BSS) se hizo público, permitiendo a los usuarios subir y compartir de forma sencilla sus creaciones. Esto introdujo Las secciones de mapas pendientes y mapas rankeados lo que ayudó a organizar la creciente y rápida colección de beatmaps subidos por los usuarios. Chat dentro del juego fue introducido, con un cliente IRC construido desde cero y conectado a un servidor IRC estándar (Aún no existe Bancho) El chat ampliado era visible. Avatars y estadísticas básicas se mostraban en el juego (usando una comunicación basada en http). Los controles de audio también se agregaron al menú principal, el cual ahora también reproduce una canción aleatoria al inicio. Las repeticiones podian ser vistas, tanto para los records locales como para los records subidos. Los jugadores pueden espectar a otros (¡Y los datos del espectador eran enviadas en bruto via IRC!).
+El [Sistema de envío de Beatmaps](/wiki/Submission) (BSS) se hizo público, permitiendo a los usuarios subir y compartir de forma sencilla sus creaciones. Esto introdujo Las secciones de mapas pendientes y mapas rankeados lo que ayudó a organizar la creciente y rápida colección de beatmaps subidos por los usuarios. Chat dentro del juego fue introducido, con un cliente IRC construido desde cero y conectado a un servidor IRC estándar (Aún no existe Bancho) El chat ampliado era visible. Avatars y estadísticas básicas se mostraban en el juego (usando una comunicación basada en http). Los controles de audio también se agregaron al menú principal, el cual ahora también reproduce una canción aleatoria al inicio. Las repeticiones podian ser vistas, tanto para los records locales como para los records subidos. Los jugadores pueden espectar a otros (¡Y los datos del espectador eran enviadas en bruto via IRC!).
 
 ## Diciembre
 

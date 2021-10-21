@@ -18,7 +18,7 @@ Cirklarna är på nedre skärmen, och en berättelse visas på övre skärmen. V
 
 *Fullständig förklaring: [osu!](/wiki/Game_mode/osu!)*
 
-Även om de flesta spelare inte har en touch-skärm, är spelet gjord med hänsyn för att kunna spelas med en vanlig mus, och även andra kreativa apparater som inmatningsmetod. Information om olika spelstilar kan hittas i [spelstilar](/wiki/Play_Styles)-sidan. Det finns vissa låtar som tar spelandet med en mus till gränsen av vad som är möjligt, men alla rankade och godkända beatmaps har testats och (de flesta) kan klaras av med bara en mus.
+Även om de flesta spelare inte har en touch-skärm, är spelet gjord med hänsyn för att kunna spelas med en vanlig mus, och även andra kreativa apparater som inmatningsmetod. Information om olika spelstilar kan hittas i [spelstilar](/wiki/Play_style)-sidan. Det finns vissa låtar som tar spelandet med en mus till gränsen av vad som är möjligt, men alla rankade och godkända beatmaps har testats och (de flesta) kan klaras av med bara en mus.
 
 #### Spelets grunder
 
@@ -94,7 +94,7 @@ Om [Auto Pilot](/wiki/Game_modifier/Autopilot)-modifieraren används, fungerar e
 
 ![Gränssnitt för ändring av spelläge](/wiki/shared/Interface_mode.png "Inställning för att ändra spelläge")
 
-Klicka på `Mode`-knappen för att **öppna en lista på tillgängliga spellägen i osu!**. Klicka på önskad spelläge och osu! kommer att byta till det spelläget och dess ledartavla. Alternativt går det att trycka på `Ctrl` och `1` (![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) på tangentbordet för att snabbt byta spelläge.
+Klicka på `Mode`-knappen för att **öppna en lista på tillgängliga spellägen i osu!**. Klicka på önskad spelläge och osu! kommer att byta till det spelläget och dess ledartavla. Alternativt går det att trycka på `Ctrl` och `1` (![][osu! icon] *[osu!](/wiki/Game_mode/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) på tangentbordet för att snabbt byta spelläge.
 
 ### Vad är osu!taiko?
 
@@ -305,7 +305,7 @@ Det finns två olika tangentbindningar, *Symmetrisk* och *Vänster till Höger*.
 
 *Detaljerad förklaring för poängräkning hittas i spellägets motsvarande artikel eller i [Poäng-artikeln](/wiki/Score).*
 
-*Detaljerad förklaring för beräkning av träffsäkerhet hittas i spellägets motsvarande artikel eller i [artikeln om Träffsäkerhet](/wiki/Accuracy).*
+*Detaljerad förklaring för beräkning av träffsäkerhet hittas i spellägets motsvarande artikel eller i [artikeln om Träffsäkerhet](/wiki/Gameplay/Accuracy).*
 
 ### Rang
 
@@ -368,11 +368,11 @@ Det finns två olika tangentbindningar, *Symmetrisk* och *Vänster till Höger*.
 
 ## Prestanda
 
-*Fullständig förklaring: [Performance Points](/wiki/Performance_Points)*
+*Fullständig förklaring: [Performance Points](/wiki/Performance_points)*
 
 Prestanda (pp) är ett prestationsmått med syfte till att vara relevant i kontext för ett kontinuerligt spel som osu!. Dess målsättning är att skifta fokus från att vara antalet tid spelat till att reflektera den egentliga skickligheten hos spelaren. Prestanda baseras kraftigt på hur svår en beatmap är, beräknad av en unik algoritm för varje spelläge. Grundat på endast denna svårighetsgrad värderas varje prestation som sedan får ett pp-värde. Prestanda är i överlag baserad på prestationer i individuella beatmaps. Det enklaste sättet att förbättras är att få höga antal poäng på svåra låtar, och genom att spela genom flera låtar. Notera att spellägena räknas separat; att spela osu!, osu!taiko, osu!catch eller osu!mania höjer pp-värdet för respektive spelläge.
 
-För frågor angående pp, var god läs [wiki-sidan för pp först](/wiki/Performance_Points).
+För frågor angående pp, var god läs [wiki-sidan för pp först](/wiki/Performance_points).
 
 ---
 
@@ -382,7 +382,7 @@ För frågor angående pp, var god läs [wiki-sidan för pp först](/wiki/Perfor
 
 #### Varifrån laddar jag ner beatmaps?
 
-*Detaljerad förklaring av beatmaps: [Beatmaps](/wiki/Beatmaps)*
+*Detaljerad förklaring av beatmaps: [Beatmaps](/wiki/Beatmap)*
 
 I huvudsidan, under *[Beatmaps](https://osu.ppy.sh/beatmapsets)*. Kom ihåg att logga in i hemsidan med en *osu!konto* för att kunna ladda ner beatmaps från hemsidan.
 

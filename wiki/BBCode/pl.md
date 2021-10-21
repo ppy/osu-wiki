@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # BBCode
 
 ![Edytor postów na forum](img/editor.jpg "Pole edycji postów na forum")
@@ -33,7 +37,6 @@ Dla przykładu (zwróć uwagę na położenie znaczników):
 - Ważne:
   - Używaj sporadycznie. Nadużycie tego znacznika może utrudnić czytanie i powodować dyskomfort dla oczu.
 - Składnia:
-
   ```
   [b] ... [/b]
   ```
@@ -46,7 +49,6 @@ Dla przykładu (zwróć uwagę na położenie znaczników):
 - Ważne:
   - Używaj sporadycznie. Nadużycie tego znacznika obniży jego efektywność.
 - Składnia:
-
   ```
   [i] ... [/i]
   ```
@@ -59,7 +61,6 @@ Dla przykładu (zwróć uwagę na położenie znaczników):
 - Ważne:
   - Używaj sporadycznie. Nadużycie tego znacznika może utrudnić czytanie i powodować dyskomfort dla oczu.
 - Składnia:
-
   ```
   [u] ... [/u]
   ```
@@ -72,7 +73,6 @@ Dla przykładu (zwróć uwagę na położenie znaczników):
 - Ważne:
   - Używaj sporadycznie. Nadużycie tego znacznika może utrudnić czytanie i powodować dyskomfort dla oczu.
 - Składnia:
-
   ```
   [strike] ... [/strike]
   ```
@@ -90,7 +90,6 @@ Dla przykładu (zwróć uwagę na położenie znaczników):
   - `HEXCODE` to kolor w systemie szesnastkowym bądź nazwa koloru.
     - Określając w systemie szesnastkowym, kolor składa się z sześciu znaków (0 - 9, A - F) poprzedzonych znakiem `#`.
     - Określając słownie, nazwa koloru musi być rozpoznawana w języku HTML.
-
   ```
   [color=HEXCODE] ... [/color]
   ```
@@ -113,7 +112,6 @@ Zmienia rozmiar czcionki.
   - Atrybut `NUMBER` nie może znajdować się w cudzysłowach.
 - Składnia:
   - `NUMBER` to jedna z podanych powyżej liczb (`50`, `85`, `100` lub `150`).
-
   ```
   [size=NUMBER] ... [/size]
   ```
@@ -128,7 +126,6 @@ Znacznik ten jest użyteczny, jeżeli w swoim poście mówisz o kluczowej scenie
 - Ważne:
   - Jeżeli użyjesz tego znacznika w połączeniu ze [zmianą koloru](#kolor), to zmieni się tylko kolor samego tekstu.
 - Składnia:
-
   ```
   [spoiler] ... [/spoiler]
   ```
@@ -141,7 +138,6 @@ Znacznik ten jest użyteczny, jeżeli w swoim poście mówisz o kluczowej scenie
 - Ważne:
   - [Blok](#blok) zostanie utworzony z nagłówkiem o nazwie `collapsed text` (tekst ukryty).
 - Składnia:
-
   ```
   [spoilerbox]
   ...
@@ -161,7 +157,6 @@ Używany zazwyczaj, by ukryć wiele obrazów bądź obrazy o dużych rozmiarach.
   - Atrybut `NAME` może zawierać spacje.
 - Składnia:
   - `NAME` jest nazwą bloku.
-
   ```
   [box=NAME]
   ...
@@ -179,7 +174,6 @@ Dodaje formatowanie dla cytowanego tekstu.
   - W prawym górnym rogu każdego posta znajduje się przycisk do automatycznego cytowania tekstu użytkownika.
 - Składnia:
   - `NAME` to nagłówek cytatu (**musi** znajdować się w cudzysłowach).
-
   ```
   [quote="NAME"]
   ...
@@ -195,7 +189,6 @@ Nadaje tekstowi czcionkę o stałej szerokości znaków i umieszcza go wewnątrz
   - Tekst nie zostanie automatycznie przeniesiony do następnej linijki, chyba że wstawisz znak nowej linii.
   - Wychodzenie tekstu poza blok spowoduje pojawienie się poziomego paska przesuwania.
 - Składnia:
-
   ```
   [code]
   ...
@@ -210,7 +203,6 @@ Wyśrodkowuje tekst; zazwyczaj używane dla tytułów bądź nagłówków.
 - Ważne:
   - Znacznik ten **musi** zostać zapisany jako `centre`, a nie `center`.
 - Składnia:
-
   ```
   [centre]
   ...
@@ -229,7 +221,6 @@ Nie musisz używać tego znacznika, jeśli nie chcesz, aby zamiast łącza był 
 - Składnia:
   - `LINK` to łącze.
   - `TEXT` to tekst, który zostanie podstawiony za łącze.
-
   ```
   [url=LINK]TEXT[/url]
   ```
@@ -247,7 +238,6 @@ Zaleca się używanie znacznika [Łącze](#łącze) używając numeru ID użytko
   - Atrybut `USER` musi być podany.
 - Składnia:
   - `USER` to nazwa użytkownika.
-
   ```
   [profile]USER[/profile]
   ```
@@ -261,7 +251,6 @@ Wyszuka podany tekst używając wyszukiwarki Google.
   - Wyniki wyszukiwania nie będą jednakowe dla wszystkich użytkowników.
     - W zależności od języka i lokalizacji, część wyników będzie ukryta.
 - Składnia:
-
   ```
   [google]...[/google]
   ```
@@ -275,7 +264,6 @@ Dodaje łącze do strony wyszukanej dzięki funkcji *Szczęśliwy traf* wyszukiw
   - Wyniki wyszukiwania nie będą jednakowe dla wszystkich użytkowników.
     - W zależności od języka i lokalizacji, część wyników będzie ukryta.
 - Składnia:
-
   ```
   [lucky]...[/lucky]
   ```
@@ -302,7 +290,6 @@ Listy w BBCode składają się z dwóch części: znaczników otwierających i z
 - Składnia:
   - `TYPE` to jeden z argumentów opisanych powyżej.
   - Jeżeli `TYPE` nie jest określony, zostanie użyta lista punktowana.
-
   ```
   [list=TYPE]
   [*]...
@@ -324,7 +311,6 @@ Prosimy o dodawanie obrazów z zaufanych stron internetowych, takich jak [imgur]
   - Jeśli w poście występuje wiele obrazów albo obrazy o dużych rozmiarach, zaleca się umieszczenie ich w [bloku](#blok).
 - Składnia:
   - `LINK` to bezpośredni odnośnik do obrazu.
-
   ```
   [img]LINK[/img]
   ```
@@ -339,7 +325,6 @@ Dodaje wbudowany odtwarzacz dla filmu zamieszczonego na YouTube.
 - Składnia:
   - `VIDEO_ID` to ID filmu (11-literowe), **nie** cały link!
     - ID filmu jest umieszczone w linku po elemencie `?v=`.
-
   ```
   [youtube]VIDEO_ID[/youtube]
   ```
@@ -351,7 +336,6 @@ Zazwyczaj używany w celu zaznaczenia nowej sekcji w poście.
 
 - Dedykowany przycisk: ![Przycisk dla nagłówka](img/heading.png)
 - Składnia:
-
   ```
   [heading]...[/heading]
   ```
@@ -365,7 +349,6 @@ Dodaje duży fioletowy nagłówek z podkreśleniem. Zazwyczaj używany w celu za
   - Znacznik ten zadziała tylko w forum Beatmaps!
   - Znacznik ten pojawi się dopiero po utworzeniu posta, nie w podglądzie.
 - Składnia:
-
   ```
   [...]
   ```
@@ -376,7 +359,6 @@ Umieszcza akapit wewnątrz białego bloku.
 
 - Dedykowany przycisk: Brak
 - Składnia:
-
   ```
   [notice]
   ...

@@ -1,6 +1,6 @@
 # Submission
 
-[Beatmaps](/wiki/Beatmaps) can be submitted to the osu! website via the [in-game editor](/wiki/Beatmap_Editor). Submitting a beatmap allows it to receive attention from other users and potentially enter the [Ranked](/wiki/Beatmaps#ranked) or [Loved](/wiki/Beatmaps#loved) categories.
+[Beatmaps](/wiki/Beatmap) can be submitted to the osu! website via the [in-game editor](/wiki/Beatmap_Editor). Submitting a beatmap allows it to receive attention from other users and potentially enter the [Ranked](/wiki/Beatmap/Category#ranked) or [Loved](/wiki/Beatmap/Category#loved) categories.
 
 ![](img/bss_warning.png "Beatmap Submission System screen")
 

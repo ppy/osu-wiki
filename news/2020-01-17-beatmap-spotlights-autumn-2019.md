@@ -21,14 +21,14 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Summer 
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
 ## Autumn Spotlights
 
-### <a id="osu"></a>osu!
+### osu!
 
 [![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/alex.jpg)](https://osu.ppy.sh/beatmapsets/1054045)
 
@@ -148,7 +148,7 @@ Try this set out! No difficulty on it will disappoint you and all of them are su
 
 *written by [\_Epreus](https://osu.ppy.sh/users/7342798)*
 
-### <a id="taiko"></a>osu!taiko
+### osu!taiko
 
 [![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/taiko/fire.jpg)](https://osu.ppy.sh/beatmapsets/978134)
 
@@ -210,7 +210,7 @@ Slider velocity is seamlessly integrated into the map, especially in the variabl
 
 *written by [Kazu](https://osu.ppy.sh/users/920861)*
 
-### <a id="catch"></a>osu!catch
+### osu!catch
 
 [![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/catch/cold.jpg)](https://osu.ppy.sh/beatmapsets/946446)
 
@@ -282,7 +282,7 @@ After two long years, calling has finally been ranked! [alienflybot](https://osu
 
 *written by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)*
 
-### <a id="mania"></a>osu!mania
+### osu!mania
 
 [![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/mania/xyz.jpg)](https://osu.ppy.sh/beatmapsets/682615)
 

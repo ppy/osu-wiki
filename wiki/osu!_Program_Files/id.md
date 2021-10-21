@@ -34,7 +34,7 @@ Aturannya adalah `{Nama_Tab}-{TTTTBBHH}-{JJMMSS}` dalam format .txt, yang pada d
 
 Muncul selepas anda menggunakan perkhidmatan "osu!direct". **Menyimpan file .osz yang anda sedang muat-turun dari osu!direct**, kemudian dihantar ke folder Song sebagai beatmaps sah setelah selesai.
 
-### Lokalisasi
+### Localisation
 
 Muncul ketika anda telah beralih bahasa anda di bawah Graphics pada halaman Options. **Menyimpan fail teks terjemahan yang dapat digunakan masing-masing untuk menggantikan teks Bahasa Inggeris yang biasa berdasarkan lokalisasi yang dipilih.**
 

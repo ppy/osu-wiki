@@ -23,12 +23,12 @@ With that out of the way, let's get on to this week's picks! For this round, [St
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/vRyDI07FcTg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -96,7 +96,7 @@ If anyone remembers watching livestreams from old top player [thelewa](https://o
 
 Next on the list is a map you may not have tried which has recieved quite a few submissions to the loved spreadsheet since its inception! [Narcissus at Oasis \(Freezer Mix\)](https://osu.ppy.sh/beatmapsets/614615) by [EijiKuinbii](https://osu.ppy.sh/users/6270995) is a gigantic 3 mode set featuring several guest difficulties in different mapping styles! With diffs ranging from low to high intensity, there's something here for everyone to enjoy.
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/tstFskmG0MM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -144,7 +144,7 @@ Who needs HardRock if you can just use high scrolling speed in the map itself? T
 
 A more conventional map compared to most maps this round, having only 150 BPM and not too many crazy SV changes. The most outstanding part of this map by [steven1](https://osu.ppy.sh/users/3090416) is the high amount of 1/6 bursts, with some [Tiger Rampage](https://osu.ppy.sh/beatmapsets/279175)-style 1/6+1/4 combinations in the kiai sections.
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/WtilfLUwfjs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -180,7 +180,7 @@ One of [Minato Yukina](https://osu.ppy.sh/users/531253)'s lesser known maps, whi
 
 A map which features a lot of fast, consecutive and largely spaced hyperdashes. It tests your consistency as well as your stamina on the large amount of left-right sections. It is very easy to slip up on various of the sections and missing one crucial hyperdash might result in an instant fail. This map will surely be challenging even for top players and it will be interesting to see how many FCs there will be.
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/W87CHWI1waU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

@@ -14,12 +14,12 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [DigitalHypno](https://osu.ppy.sh/users/4384207), [SoraRoxas01](https://osu.ppy.sh/users/1986262) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -95,7 +95,7 @@ It has been proven many times that top players can make amazing maps, and this i
 
 "Endorfin. - Spica" is a map with an interesting concept by Settia. There are two ways to play this beatmap, with and without vocals. How? Just enable or disable hitsounds to turn vocals on or off. Packing in 100 favourites, this beatmap shows its potential and is fun to play with or without vocals! Try it yourself!
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910), [-Kazu-](https://osu.ppy.sh/users/920861), [Backfire](https://osu.ppy.sh/users/263110), [iceOC](https://osu.ppy.sh/users/5482401) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -129,7 +129,7 @@ A fun breakcore map by Shallty and KitajimaYN, Kill Me Break accumulated a lot o
 
 One could say this is simply a meme, and they'd be mostly correct. For those that don't know [OzzyOzrock](https://osu.ppy.sh/users/465153), he is a popular figure in the osu!taiko community who likes to sing acapella for a lot of the songs he maps. Masterpieces from him include [Tenshi Teki](https://osu.ppy.sh/beatmapsets/436816) and [Shinsekai](https://osu.ppy.sh/beatmapsets/328078). This is the most popular example we have, PUPA, which is filled with fun patterns that you would come to expect from a typical difficulty of this particular song. Ozzy's covers are a part of osu!taiko's history, so we really feel it's already Loved, and this will just make it official!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Zak](https://osu.ppy.sh/users/1375955)! This week, all osu!catch beatmap descriptions were written by [Sartan](https://osu.ppy.sh/users/4100941).
 
@@ -151,7 +151,7 @@ Welp, if you feel like warming up your fingers for a bit, then this is the perfe
 
 One thing is for sure though, playing this map properly is amazingly satisfying. It is possible to throw Hidden into the mix too, to make for an even more challenging and precision requiring map. And if you can't quite pass it, there is no shame in slapping NaughtFail on this bad boy and giving it your best.
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [\_underjoy](https://osu.ppy.sh/users/2235750), [aitor98](https://osu.ppy.sh/users/3154852), [Kamikaze](https://osu.ppy.sh/users/2124783), [Pope Gadget](https://osu.ppy.sh/users/2288341), [stupud man](https://osu.ppy.sh/users/2141612) and [TheToaphster](https://osu.ppy.sh/users/7616811)!
 

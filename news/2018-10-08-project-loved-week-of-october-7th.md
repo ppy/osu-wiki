@@ -18,12 +18,12 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [Toy](https://osu.ppy.sh/users/2757689) and [DigitalHypno](https://osu.ppy.sh/users/4384207)! This week, all osu! beatmap descriptions were written by [DigitalHypno](https://osu.ppy.sh/users/4384207).
 
@@ -89,7 +89,7 @@ Another crazy Camellia mapset has made its way to the Loved voting stage! This t
 
 Many of you may recognize this iconic scene from The Simpsons; it's an everlasting meme filled with unmatched potential. This map by ProfessionalBox certainly puts that potential to good use: it's a low-4-star beatmap of the entire scene, mapped in a professional style (unintended pun, ok...). The scene begins with the character Principal Skinner inviting Superintendent Chalmers to an "unforgettable luncheon". But... what's this? Skinner burned the dinner in the oven! What will his plan be to make sure his meal with the superintendent is still an unforgettable luncheon!? If you don't already know, check out the map to find out! If you do know, you should still check out the map—I'm sure you'll love it!
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [Backfire](https://osu.ppy.sh/users/263110), [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910), [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -123,7 +123,7 @@ KitajimaYN is a mapper who maps something almost every day, but at this point in
 
 This is a wonderful map pack featuring the ever-popular YUC'e! Six great songs from her mapped by six of the osu!taiko mappers who have made her so popular in our community, including the ever so synonymous KinomiCandy! Each mapper has their own styles they bring to this genre of music, with Kinomi's focus on streams and simple 1/6 with Ninjas, and komasy with his focus on even numbered pattern and authentic style mapping. This is the ultimate package for YUC'e lovers!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Zak](https://osu.ppy.sh/users/1375955), [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941) and [Tenshichan](https://osu.ppy.sh/users/1101600)!
 
@@ -143,7 +143,7 @@ Coming straight from the "god damn it -Plus- please rank this" category, bo en's
 
 Cloudsmasher is a time machine that will bring you back to the year 2012. It has everything you would expect of an oldstyle map—edgedashes, only a little amount of hypers, platewalks, difficult stream patterns, and the list goes on. Most of the old members in the community should know this map, and the osu!catch difficulty of the set is mapped by none other than ExGon. A timeless tour de force of osu!catch history which still has enough potential nowadays to be regarded as a fun and creative map. Of course, the name "ExGon's CTB Hell" is not for show—so be ready to struggle for a good combo and accuracy!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Kamikaze](https://osu.ppy.sh/users/2124783), [\_underjoy](https://osu.ppy.sh/users/2235750), [aitor98](https://osu.ppy.sh/users/3154852), [Pope Gadget](https://osu.ppy.sh/users/2288341), [stupud man](https://osu.ppy.sh/users/2141612) and [TheToaphster](https://osu.ppy.sh/users/7616811)!
 

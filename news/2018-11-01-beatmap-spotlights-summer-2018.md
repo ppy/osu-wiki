@@ -35,12 +35,12 @@ For now, let's get stuck right into this year's blazing summer beatmap hits!
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-### <a name="osu" id="osu"></a>osu!
+### osu!
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/last-minute.jpg)](https://osu.ppy.sh/beatmapsets/813036)
 
@@ -100,7 +100,7 @@ With an upbeat tempo and groovy beat, [tutuhaha](https://osu.ppy.sh/users/546991
 
 Last but not least, [bor](https://osu.ppy.sh/users/4116573) provides us with a stunning mapset of Draw The Emotional's "Sad Spring". The highest difficulty puts a huge focus on motion, with every object having just the right impact. The extravagant streamshapes feel very satisfying to play. All that accompanied by an ambitious and consistent spread with the help of [Lasse](https://osu.ppy.sh/users/896613) and [Aeril](https://osu.ppy.sh/users/4334976), this is a mapset everyone should try!
 
-### <a name="taiko" id="taiko"></a>osu!taiko
+### osu!taiko
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/taiko/bison-charge.jpg)](https://osu.ppy.sh/beatmapsets/739116)
 
@@ -205,7 +205,7 @@ Super solid mapset overall and a worthy addition to the Spotlights!
 
 Definitely my personal favourite map of the summer, honestly what a banger. odaxelagnia's "#sawg" remixed by Wan Bushi features relatively fast paced breakcore, which [Ulqui](https://osu.ppy.sh/users/1263669) did a great job representing through this map. With beautifully made tricky 1/6 patterns and carefully placed Slider Velocity progressions, they combine to make this map an amazing piece of artwork that is really fun to play!
 
-### <a name="catch" id="catch"></a>osu!catch
+### osu!catch
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/catch/tokei-no-heya.jpg)](https://osu.ppy.sh/beatmapsets/639409)
 
@@ -239,7 +239,7 @@ Bringing us another fantastic map in the style we all know and love, Camellia's 
 
 And of course, for everyone else, the Cup through Rain difficulties definitely provide a challenge well above the curve of a normal mapset, giving something for everyone to play and enjoy!
 
-### <a name="mania" id="mania"></a>osu!mania
+### osu!mania
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/mania/lost.jpg)](https://osu.ppy.sh/beatmapsets/624059)
 

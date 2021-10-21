@@ -23,12 +23,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [Bubbleman](https://osu.ppy.sh/users/5182050), [DigitalHypno](https://osu.ppy.sh/users/4384207) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -74,7 +74,7 @@ This lovely 152 BPM Eurobeat remix of *Lovely Girls Anthem* is nothing short of 
 
 This fast-paced 240 BPM map from -Ran Yakumo- will surely take you by surprise, as it tests both your stamina and aim skills at an absurd degree. The mapper truly captivated the song's potential in allowing for some extremely—and I mean *extremely*—difficult patterns. The mapset has two difficulties, one at around 8 stars and the other clocking in at a whopping 10 stars. Despite being so high in star rating, both difficulties play extremely well, so if you're really up for the challenge... your challenge is here waiting for you.
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -98,7 +98,7 @@ To celebrate his 300th map, KTYN (a.k.a. KitajimaYN) invited well-known mappers 
 
 Quality! That's all I see in this. It isn't a gimmick or unique concept that makes this map by HEKUSODASU stand out, it's just the insane amount of polish and thought that appears to have gone into every one of those 1749 objects placed. I can't think of a single part in this map that feels off; don't even ask me how someone can commit to a single piece this much. Don't give this a pass. Play it and see if you can prove me wrong!
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -136,7 +136,7 @@ In Spring one sleeps, unaware of dawn; everywhere one hears crowing birds. The m
 
 It has been a while, so let's start the new Project Loved rotation with a bang. This is a collab between two of the most iconic players of osu!catch: ExGon and DakkyChan. If you are familiar with the history of Project Loved, then you are aware that those names are not unknown to our selection of maps. *At the Speed of Light*, for example, is a previous ExGon and DakkyChan collab that has been Loved. One of their trademarks in mapping is that they make their maps unforgivingly hard. *The Flawless Wings of Yatagarasu* is no exception. Like most of their other creations, this map has a lot of unique and creative patterns that are, despite their difficulty, really fun to play. If you are looking for a tough challenge, then this map should be right up your alley. Definitely make sure to give it a try!
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [lenpai](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341), [Shoegazer](https://osu.ppy.sh/users/2520707) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

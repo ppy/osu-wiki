@@ -4,9 +4,9 @@ To access this dialog, open the [Options](/wiki/Options), type in `change` then 
 
 Here, you can change reassign keyboard keys with the listed actions.
 
-**Notice:** the osu!client will not notify you for keys used multiple times (this includes conflicting keys)!
+**Notice:** the osu! client will not notify you for keys used multiple times (this includes conflicting keys)!
 
-## osu! Standard Mode
+## osu!
 
 | Name | Default |
 | :-- | :-- |
@@ -14,7 +14,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 | Right Click | `X` |
 | Smoke | `C` |
 
-## Taiko Mode
+## osu!taiko
 
 | Name | Default |
 | :-- | :-- |
@@ -23,8 +23,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 | Drum Rim (Left) | `Z` |
 | Drum Rim (Right) | `V` |
 
-
-## Catch the Beat Mode
+## osu!catch
 
 | Name | Default |
 | :-- | :-- |
@@ -32,12 +31,12 @@ Here, you can change reassign keyboard keys with the listed actions.
 | Move Right | `Right Arrow` |
 | Dash! (2x movement speed) | `Left Shift` |
 
-## osu! Mania Mode
+## osu!mania
 
 | Name | Default |
 | :-- | :-- |
-| Increase Speed | `F3` |
-| Decrease Speed | `F4` |
+| Increase Speed | `F4` |
+| Decrease Speed | `F3` |
 
 **Notes:**
 
@@ -102,9 +101,9 @@ Here, you can change reassign keyboard keys with the listed actions.
 | Audio Pause | `C` |
 | Jump to End | `V` |
 | Grid Size Change | `G` |
-| Add Timing Section | _(None)_ |
-| Add Inheriting Section | _(None)_ |
-| Remove Section | _(None)_ |
+| Add Timing Section | *(None)* |
+| Add Inheriting Section | *(None)* |
+| Remove Section | *(None)* |
 
 ## Mod Select
 
@@ -140,7 +139,7 @@ This button will reset all bindings to their defaults listed above.
 **For mod select:**
 
 - The mania xK mods are not listed there.
-  - You can press keys `3` to `9` to enabled the xK mods.
+  - You can press keys `3` to `9` to enable the xK mods.
 - Not all mod icons have a keyboard shortcut, such as:
   - 1K
   - 2K

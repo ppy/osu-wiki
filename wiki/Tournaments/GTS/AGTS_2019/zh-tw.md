@@ -60,8 +60,6 @@ outdated: true
 - [Challonge 積分榜](https://challonge.com/AGTS2019)
 - **[統計表](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
 
----
-
 ## 參與者
 
 |  | 國家 | 成員 |
@@ -108,8 +106,6 @@ outdated: true
 | **E** | ![][flag_KR] 韓國 | ![][flag_DE] 德國A. | ![][flag_DK] ![][flag_NO] ![][flag_SE] 斯堪的納維亞 | ![][flag_VE] 委內瑞拉 |
 | **F** | ![][flag_CA] 加拿大 | ![][flag_GB] ![][flag_PT] 英國/葡萄牙 | ![][flag_ID] 印度尼西亞A. | ![][flag_ID] 印度尼西亞B. |
 
----
-
 ## 頒獎台
 
 本次比賽已經結束，結果如下：
@@ -119,8 +115,6 @@ outdated: true
 | ![金冠](/wiki/shared/crown-gold.png "第一名") | ![][flag_JP] |
 | ![銀冠](/wiki/shared/crown-silver.png "第二名") | ![][flag_CA] |
 | ![銅冠](/wiki/shared/crown-bronze.png "第三名") | ![][flag_RU] |
-
----
 
 ## 圖池
 
@@ -285,8 +279,6 @@ outdated: true
 - DoubleTime
   - [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
 
----
-
 ## 比賽結果
 
 ### 總決賽
@@ -383,8 +375,6 @@ outdated: true
 | E4 | **斯堪的納維亞** ![][flag_DK] ![][flag_NO] ![][flag_SE] | **5** | 0 | ![][flag_VE] 委內瑞拉 | -win by default- |
 | E5 | 委內瑞拉 ![][flag_VE] | 0 | **5** | ![][flag_DE] **德國A.** | -win by default- |
 | D2 | **巴西** ![][flag_BR] | **5** | 3 | ![][flag_US] 美國A. | [#1](https://osu.ppy.sh/community/matches/54181034) |
-
----
 
 ## 規則
 
@@ -510,8 +500,8 @@ outdated: true
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
 [flag_MY]: /wiki/shared/flag/MY.gif

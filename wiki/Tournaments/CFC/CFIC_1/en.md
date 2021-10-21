@@ -7,15 +7,15 @@ tags:
 
 ![CFIC logo](img/logo.png)
 
-The **Catch French Intermediate Cup** (***CFIC***) was an intermediate one-on-one French osu!catch tournament hosted by ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263). It was the first installment and a new branch of the Catch French Cup.
+The **Catch French Intermediate Cup** (***CFIC***) was an intermediate one-on-one French osu!catch tournament hosted by ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263). It was the first instalment and a new branch of the Catch French Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2019-01-20/2019-02-17 |
 | Live drawings | 2019-02-23 (19:00 UTC+1) |
-| Group Stage | 2019-03-01/2019-03-04 |
+| Group stage | 2019-03-01/2019-03-04 |
 | Quarterfinals | 2019-03-09/2019-03-10 |
 | Semifinals | 2019-03-16/2019-03-18 |
 | Finals | 2019-03-23/2019-03-24 |
@@ -27,7 +27,7 @@ The **Catch French Intermediate Cup** (***CFIC***) was an intermediate one-on-on
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
-![CFIC winner badge](img/badge.png)
+![](img/badge.png "CFIC winner badge")
 
 ## Organisation
 
@@ -36,7 +36,7 @@ The Catch French Intermediate Cup was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263) |
-| Map selector | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
+| Mappool selector | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
 | Referee | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734) |
 | Streamer | ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Commentator | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
@@ -51,8 +51,6 @@ The Catch French Intermediate Cup was run by various community members.
 - [Challonge brackets](https://osucfc.challonge.com/CFIC1)
 - [Livestream](https://www.twitch.tv/osufrlive)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ926pSOvzcKK76hCmzBDuX6oOrbTycMpGJyMz-dPFThLay-JvaywfXPA2MzeeaL9TOvdey8YSHLWVX/pubhtml)**
-
----
 
 ## Participants
 
@@ -72,8 +70,6 @@ The Catch French Intermediate Cup was run by various community members.
 | **C** | ![][flag_BE] [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) | ![][flag_FR] [floflim](https://osu.ppy.sh/users/5954015) | ![][flag_FR] [Khalemm](https://osu.ppy.sh/users/11983416) | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
 | **D** | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) | ![][flag_FR] [Rizhen-](https://osu.ppy.sh/users/6802893) | ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -83,8 +79,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
-
----
 
 ## Mappools
 
@@ -199,7 +193,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Halozy - Aqua Trytone / Kanshou no Matenrou (celerih) \[Rain\]](https://osu.ppy.sh/beatmapsets/777789#fruits/1633813)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (55 MB)](https://mega.nz/#!FotnlQzR!bTxeqfGRbm-sOboVhq-AP31WP4r2ExNaGYNwpFrCIdU)**
 
@@ -219,8 +213,6 @@ This competition has come to an end and resulted in the following podium:
   - [T-ara - Apple Is A (Mako Sakata) \[Apple\]](https://osu.ppy.sh/beatmapsets/312328#fruits/697225)
 - Tiebreaker
   - **[Angus And Julia Stone - Big Jet Plane (Matt Neux Remix) (WildOne94, JBHyperion) \[Elevation\]](https://osu.ppy.sh/beatmapsets/344833#fruits/761644)**
-
----
 
 ## Match results
 
@@ -286,7 +278,7 @@ Sunday, 10 March 2019:
 | Aequo3 ![][flag_FR] | 0 | **5** | ![][flag_FR] **Zard** | *win by default* |
 | pierreCHT ![][flag_FR] | 1 | **5** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/50174435) |
 
-### Group Stage
+### Group stage
 
 Friday, 1 March 2019:
 
@@ -332,8 +324,6 @@ Monday, 4 March 2019:
 | --: | :-: | :-: | :-- | :-- |
 | 4L-Chan 3 Porte ![][flag_FR] | 0 | **4** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/50018480) |
 
----
-
 ## Ruleset
 
 ### General rules
@@ -354,8 +344,8 @@ Monday, 4 March 2019:
    - Tiebreaker is not forced mod but you may choose a mod.
    - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, HardRock and Hidden.
 
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"

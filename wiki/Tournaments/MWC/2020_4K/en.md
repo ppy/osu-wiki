@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2020 logo](/wiki/shared/news/banners/MWC4k2020.jpg)
 
-The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh installment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2020-07-16/2020-07-30 |
 | Live drawings | 2020-08-08 (14:00 UTC) |
-| Group Stage | 2020-08-15/2020-08-16 |
+| Group stage | 2020-08-15/2020-08-16 |
 | Round of 16 | 2020-08-22/2020-08-23 |
 | Quarterfinals | 2020-08-29/2020-08-30 |
 | Semifinals | 2020-09-05/2020-09-06 |
@@ -92,7 +92,9 @@ The osu!mania 4K World Cup 2020 was run by the [osu! team](/wiki/People/The_Team
 | ![][flag_US] | **United States** | **[\[Crz\]sel](https://osu.ppy.sh/users/9452257)**, [Gekido-](https://osu.ppy.sh/users/4693052), [Iylwrychi](https://osu.ppy.sh/users/7794488), [stupud man](https://osu.ppy.sh/users/2141612), [Toaph Daddy](https://osu.ppy.sh/users/7616811), [Unholy](https://osu.ppy.sh/users/7672414) |
 | ![][flag_VN] | **Vietnam** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [\[pom\]](https://osu.ppy.sh/users/11789635), [-Frostleaf-](https://osu.ppy.sh/users/11863174), [Lottery61](https://osu.ppy.sh/users/13821222), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [TvS SorAKuN](https://osu.ppy.sh/users/11115041) |
 
-![MWC 7K 2020 podium](img/podium.jpg)
+## Podium
+
+![](img/podium.jpg "MWC 4K 2020 podium")
 
 ## Mappools
 
@@ -182,7 +184,7 @@ The osu!mania 4K World Cup 2020 was run by the [osu! team](/wiki/People/The_Team
 - Tiebreaker
   - **[Camellia - farewell to today (-mint-) \[adieu\]](https://osu.ppy.sh/beatmapsets/1114788#mania/2328702)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [Cardboard Box - Nest (Guilhermeziat) \[Yolk 1.1\]](https://osu.ppy.sh/beatmapsets/576883#mania/2433644)
@@ -293,7 +295,7 @@ Sunday, 23 August 2020:
 | Thailand ![][flag_TH] | 2 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/65839201) |
 | **Malaysia** ![][flag_MY] | **6** | 4 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/65841864) |
 
-### Group Stage
+### Group stage
 
 Saturday, 15 August 2020:
 
@@ -412,7 +414,9 @@ Sunday, 16 August 2020:
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change depending on how many teams are accepted into the competition at the end.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
@@ -421,10 +425,14 @@ Sunday, 16 August 2020:
    - In the event of a triple tie:
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves on to the next stage and the losing team gets moved to the Losers' bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
@@ -447,9 +455,9 @@ Sunday, 16 August 2020:
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 4K specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 6. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.
    - In case a team takes more than 2 minutes to pick a map, they will recieve a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using `!roll X`, where X is the number of available maps to pick in the mappool.
    - Each team will receive a "tactical timeout" of **two minutes**, which can be used at any time during their team's pick, **once per match**. *The tactical timeout is optional, and is not required to be used*.

@@ -16,12 +16,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -107,7 +107,7 @@ Once in a while comes a map that shakes up the whole osu! community from within.
 
 Tori no Uta is a single difficulty collaboration from three prominent japanese mappers: OK_oreGENKI, eLy and Arieruco. The map features a variety of ultra-low BPM streams, including cutting streams, spaced streams and stream jumps and also some tricky 1/6 beats to top it all off. The map is a great challenge for both the people wanting to improve their low BPM stream ability and the ones seeking a finger control challenge with the DoubleTime mod.
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -150,7 +150,7 @@ dk dk!
 dk dk!  
 The bouncy rhythms that the patterns put together using 1/8 dk have will elegantly and stylishly guide you to pleasure! It has many unique and technical rhythms, so it's also great practice.
 
-## <a name="catch" id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -172,7 +172,7 @@ Zyzyx is by no means a new mapper and is mostly known for maps that are relative
 
 Despite this set being relatively young compared to some of our other picks, it has seen quite some traffic of plays and favourites. With *Be There*, GiGas has made a very enjoyable set that can be considered enjoyable to players of all skill levels thanks to its 6 very different difficulties. The uniqueness of the mapset won't blow your brains out, but it does manage a very satisfactory experience thanks to very nice left-rights which definitely fit the song. If you don't find the top difficulty hard enough there's always the possibility of slapping hard rock and/or hidden on top to spice things up. Don't wait on playing and voting, but be there!
 
-## <a name="mania" id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

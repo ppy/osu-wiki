@@ -10,11 +10,11 @@ Um vídeo do YouTube mostrando as mascotes do osu! pode ser visto em [Mascot Sho
 
 ## Oficial
 
-### ![osu!standard icon](/wiki/shared/mode/osu.png) pippi
+### ![osu! icon](/wiki/shared/mode/osu.png) pippi
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, estilizado em letra minúscula "p", é a mascote do osu!standard que se juntou em 2008-07. Ela também é conhecida como pippidon no osu!taiko e apareceu em [Yandere Simulator](https://yanderesimulator.com) como uma NPC. A arte conceitual inicial foi criada por [Sarumaru](https://osu.ppy.sh/users/9427), a sprite da pippidon for criada por [crystalsuicune](https://osu.ppy.sh/users/9974), e a arte atual foi projetada por [Daru](https://osu.ppy.sh/users/32480).
+pippi, estilizado em letra minúscula "p", é a mascote do osu! que se juntou em 2008-07. Ela também é conhecida como pippidon no osu!taiko e apareceu em [Yandere Simulator](https://yanderesimulator.com) como uma NPC. A arte conceitual inicial foi criada por [Sarumaru](https://osu.ppy.sh/users/9427), a sprite da pippidon for criada por [crystalsuicune](https://osu.ppy.sh/users/9974), e a arte atual foi projetada por [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![osu!catch icon](/wiki/shared/mode/catch.png) Yuzu
 

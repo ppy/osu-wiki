@@ -6,7 +6,7 @@
 
 *For beatmap editor shortcuts, see: [Shortcut key reference § Beatmap editor](/wiki/Shortcut_key_reference#beatmap-editor)*
 
-The **beatmap editor** is osu!'s in-game graphical interface for creating [beatmaps](/wiki/Beatmaps). [Beatmapping](/wiki/Beatmapping) is the act of creating beatmaps for osu!.
+The **beatmap editor** is osu!'s in-game graphical interface for creating [beatmaps](/wiki/Beatmap). [Beatmapping](/wiki/Beatmapping) is the act of creating beatmaps for osu!.
 
 The beatmap editor is separated into four main sections which can be seen in the top-left corner of the editor:
 
@@ -17,11 +17,11 @@ The beatmap editor is separated into four main sections which can be seen in the
 
 ## Compose
 
-[Compose](/wiki/Beatmap_Editor/Compose) is where all [hit objects](/wiki/Hit_Objects) and other gameplay-related elements are created. Most mappers spend more time in this tab than all of the others because of this.
+[Compose](/wiki/Beatmap_Editor/Compose) is where all [hit objects](/wiki/Hit_object) and other gameplay-related elements are created. Most mappers spend more time in this tab than all of the others because of this.
 
 ## Design
 
-[Design](/wiki/Beatmap_Editor/Design) offers a way to make [storyboards](/wiki/Storyboards), the visual effects that accompany beatmaps. Because storyboards often have complex effects warranting usage of many storyboard commands, mappers also use [storyboard scripting](/wiki/Storyboard_Scripting) directly without entering the design tab.
+[Design](/wiki/Beatmap_Editor/Design) offers a way to make [storyboards](/wiki/Storyboard), the visual effects that accompany beatmaps. Because storyboards often have complex effects warranting usage of many storyboard commands, mappers also use [storyboard scripting](/wiki/Storyboard/Scripting) directly without entering the design tab.
 
 ## Timing
 
@@ -29,7 +29,7 @@ The beatmap editor is separated into four main sections which can be seen in the
 
 ## Song setup
 
-[Song setup](/wiki/Beatmap_Editor/Song_Setup) fills in a beatmap's [metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata) and other things universal to a [beatmapset](/wiki/Beatmaps/Beatmapsets). This includes the title of a song, the artist, the difficulty name, combo colours, etc.
+[Song setup](/wiki/Beatmap_Editor/Song_Setup) fills in a beatmap's [metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata) and other things universal to a [beatmap](/wiki/Beatmap). This includes the title of a song, the artist, the difficulty name, combo colours, etc.
 
 ## Other
 

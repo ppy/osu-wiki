@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 526e49f5b89310dbe8b7cdf8144cac713aaf770a
 tags:
   - hotkey
   - hotkeys
@@ -30,8 +28,8 @@ Bu kısayollar her yerde çalışır:
 | `F10` | Tüm fare tuşlarını aç/kapa (her zaman etkin olan fare tekerleği hariç). |
 | `F12` | Ekran görüntüsü al. Ekran görüntüleri dosyasını açmak için iletiye tıkla. |
 | `Shift` + `F12` | Ekran görüntüsü al ve paylaşmak için sunucuya karşıya yükle. Ekran görüntüsü aynı zamanda yerelde de kaydedilecek. Bu ekran görüntünüzü web tarayıcınızda açacak. |
-| `Insert` | Bu [patron geldi tuşudur](https://en.wikipedia.org/wiki/Boss_key "Boss key on Wikipedia"). Oyun istemcisini bildirim çubuğuna küçült. Bu aynı zamanda oyunu susturur. |
-| `Shift` + `F1` | Web tarayıcısında [osu!status](https://twitter.com/osustatus "osu!status on Twitter") sayfasını aç. (Yalnızca bağlantı hatası oluştuğunda.) |
+| `Insert` | Bu [patron geldi tuşudur](https://en.wikipedia.org/wiki/Boss_key). Oyun istemcisini bildirim çubuğuna küçült. Bu aynı zamanda oyunu susturur. |
+| `Shift` + `F1` | Web tarayıcısında [osu!status](https://twitter.com/osustatus) sayfasını aç. (Yalnızca bağlantı hatası oluştuğunda.) |
 | `Ctrl` + `O` | Ayarlar yan çubuğunu aç. Ana menüde değilseniz offset sihirbazına giremezsiniz. |
 
 ## Ana menü
@@ -93,9 +91,9 @@ Bu kısayollar her yerde çalışır:
 
 ### Oyun modifikasyonları
 
-*Ana sayfa: [Oyun Modifikasyonları](/wiki/Game_modifier)*  
-*Not: Kısayol tuşuna basmak onu açar/kapatır. Bu kısayolları kullanabilmeniz için oyun modifikasyonları menüsünde bulunmanız gerekir.*  
-*Not: Target practice (osu!standard), 1K ve 2K (osu!mania), Co-op (osu!mania), ve Mirror (osu!mania) modlarının kısayolu yoktur.*
+*Ana sayfa: [Oyun Modifikasyonları](/wiki/Game_modifier)*\
+*Not: Kısayol tuşuna basmak onu açar/kapatır. Bu kısayolları kullanabilmeniz için oyun modifikasyonları menüsünde bulunmanız gerekir.*\
+*Not: Target practice (osu!), 1K ve 2K (osu!mania), Co-op (osu!mania), ve Mirror (osu!mania) modlarının kısayolu yoktur.*
 
 | Kısayol | Mod |
 | :-- | :-- |
@@ -107,12 +105,12 @@ Bu kısayollar her yerde çalışır:
 | `S` iki defa | Perfect |
 | `D` | Double Time |
 | `D` iki defa | Nightcore |
-| `F` | Hidden (osu!standard, osu!taiko, ve osu!catch) veya Fade In (osu!mania) |
+| `F` | Hidden (osu!, osu!taiko, ve osu!catch) veya Fade In (osu!mania) |
 | `F` iki defa | Hidden (osu!mania) |
 | `G` | Flashlight |
-| `Z` | Relax (osu!standard, osu!taiko, ve osu!catch) veya xK modları arasında geçiş yap (osu!mania) |
-| `X` | Auto Pilot (osu!standard) veya Random (osu!mania) |
-| `C` | Spun Out (osu!standard) |
+| `Z` | Relax (osu!, osu!taiko, ve osu!catch) veya xK modları arasında geçiş yap (osu!mania) |
+| `X` | Auto Pilot (osu!) veya Random (osu!mania) |
+| `C` | Spun Out (osu!) |
 | `V` | Auto |
 | `V` iki defa | Cinema |
 | `B` | Score V2 |
@@ -196,6 +194,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
+| `Çift Tık` | Dairelerin veya slider sonlarının üzerine şarkının herhangi bir yerinden objenin zaman çizgisindeki konumuna atla. (osu!, osu!taiko, osu!catch) |
 | `Sağ Tık` | Yeni kombo dizisine geç (yeni vuruş objesi yerleştirirken) ya da objeyi sil (seçerken). |
 
 #### Genel
@@ -210,8 +209,9 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | `Ctrl` + `C` | Kopyala. |
 | `Ctrl` + `V` | Yapıştır. |
 | `Ctrl` + `D` | Seçimi klonla. Bu seçiminizi seçilen son objeden 1 ölçü sonrasına yapıştıracaktır. |
+| `Ctrl` + `M` | Izgara bölücüyü ayarla. |
 | `Delete` | Sil. |
-| `1`, `2`, `3`, veya `4` | Sırasıyla seçim, circle, slider, ve spinner yerleştirme/seçim modları arasında geçiş yap (osu!standard, osu!taiko, veya osu!catch). |
+| `1`, `2`, `3`, veya `4` | Sırasıyla seçim, circle, slider, ve spinner yerleştirme/seçim modları arasında geçiş yap (osu!, osu!taiko, veya osu!catch). |
 | `1`, `2`, veya `3` | Sırasıyla seçim, circle, hold yerleştirme/seçim modları arasında geçiş yap (osu!mania). |
 | `Ctrl` + `Alt` + `Fare Tekerleği Yukarı/Aşağı` | Yerleştirme/seçim modları arasında geçiş yap. |
 | `Ctrl` + `Shift` + `A` | [AiMod](/wiki/Beatmap_Editor/AiMod)'u aç. |
@@ -245,7 +245,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | `Ctrl` + `Shift` + `S` | Seçilen vuruş objelerini belirli bir miktarda ölçeklendir (bir kutucuk açar). |
 | `Ctrl` + `Shift` + `D` | Belirtilen sayıda noktası olan çokgenler oluştur (bir kutucuk açar). |
 | `Ctrl` + `Shift` + `F` | Seçilen sliderı bir streame dönüştürür. (bir kutucuk açar). |
-| `Ctrl` + `Sol/Sağ/Yukarı/Aşağı Ok` | Seçilen notaları basılan yönde ötele. (osu!standard, osu!taiko, osu!catch) |
+| `Ctrl` + `Sol/Sağ/Yukarı/Aşağı Ok` | Seçilen notaları basılan yönde ötele. (osu!, osu!taiko, osu!catch) |
 | `Ctrl` + `Sol/Sağ Ok` | Seçilen objeleri sağ veya sol sütuna taşı. (osu!mania) |
 | `Ctrl` + `Yukarı/Aşağı Ok` | Seçilen objeleri birer tık yukarı veya aşağı taşı. (osu!mania) |
 
@@ -264,7 +264,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `6`, veya `8`) | [Nota ızgara bölücüyü](/wiki/Beatmap_Editor/Beat_Snap_Divisor) sırasıyla 1/1, 1/2, 1/3, 1/4, 1/6, ve 1/8 olarak ayarla. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, veya `9`) | [Nota ızgara bölücüyü](/wiki/Beatmap_Editor/Beat_Snap_Divisor) sırasıyla 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, ve 1/9 olarak ayarla. |
 | `Shift` (zaman çizgisinde sürüklerken) | Nota ızgara bölücü ayarını yoksay. |
 | `J` | Seçimi 1 bölüm geriye ötele. |
 | `K` | Seçimi 1 bölüm ileriye ötele. |
@@ -280,11 +280,14 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | `Ctrl` + `C` | Seçilen sprite'ı kopyala. |
 | `Ctrl` + `V` | Sprite'ı mevcut zamana yapıştır. *Not: Yapıştırılan sprite'lar beatmap kaydedilene ve yeniden yüklenene kadar katman listesinde gösterilmeyecektir.* |
 | `Delete` | Katman üzerinden seçilen sprite'ı kaldır. |
-| `W`, `A`, `S`, `D` | Seçilen sprite'ı bir [osu!pixel](/wiki/Glossary#osupixel) kadar sırasıyla yukarı, sola, aşağı ya da sola ötele. |
+| `W`, `A`, `S`, `D` | Seçilen sprite'ı bir [osu!pixel](/wiki/osupixel) kadar sırasıyla yukarı, sola, aşağı ya da sola ötele. |
 
 ### Zamanlama
 
 | Kısayol | Eylem |
 | :-- | :-- |
 | `T` | Şarkının ritmine göre tıklandığında BPM ve offset'i ayarla. |
-| `Shift` BPM ve offset ayarlarken | Normal artış aralığını 4'e katlar. |
+| `Shift` BPM veya offset ayarlarken | Normal artış aralığını 5'e katlar. |
+| `Ctrl` BPM ayarlarken | 0.25 kat arttırır. |
+| `Ctrl` offset ayarlarken | 1 kat arttırır. |
+| `Ctrl` slider hızını ayarlarken | 0.1 kat arttırır. |

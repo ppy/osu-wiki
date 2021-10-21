@@ -4,7 +4,7 @@ Icons are the evidence of a Beatmap Nominator's efforts when checking maps, and 
 
 ### ![bubble icon](/wiki/shared/icon/bubble.gif) Bubble
 
-**This icon represents the first nomination.** As is with any icon on modding v1, the beatmapset must have at least 12 star priority before allowing you to place this. In Beatmap Discussions (Modding v2), the mapset must have at least 5 Hype and no currently unresolved Problem stamps. Make sure you're satisfied with all difficulties, even other game modes, before placing this. If the beatmapset was previously vetoed, you must also exhaustively explain why the reason for the veto should not prevent the map from moving forward.
+**This icon represents the first nomination.** As is with any icon on modding v1, the beatmap must have at least 12 star priority before allowing you to place this. In Beatmap Discussions (Modding v2), the mapset must have at least 5 Hype and no currently unresolved Problem stamps. Make sure you're satisfied with all difficulties, even other game modes, before placing this. If the beatmap was previously vetoed, you must also exhaustively explain why the reason for the veto should not prevent the map from moving forward.
 
 ### ![heart icon](/wiki/shared/icon/heart.gif) Heart
 

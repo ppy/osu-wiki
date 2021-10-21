@@ -49,21 +49,15 @@ Esta competición ha terminado y el podio resultante es:
 | Comentaristas | ![][flag_GB][jesus1412](https://osu.ppy.sh/users/230116) // ![][flag_FR][Mr Color](https://osu.ppy.s6078) // ![][flag_GB][Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US][ztrot](https://osu.ppy.sh/users/6347) |
 | Estadísticas | ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Links
 
-- [osu! World Cup 2014 en Twitch](https://www.twitch.tv/osulive/)
+- [osu! World Cup 2014 en Twitch](https://www.twitch.tv/osulive)
 - [Forma de registro](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
 - [Hilo de discusión (en inglés)](https://osu.ppy.sh/community/forums/posts/3410198)
 - [Discusión sobre los mapas](https://osu.ppy.sh/community/forums/topics/255369/)
 - **[Estadísticas de la fase de grupos](https://owc.nicarim.pw/results/view/3)**
 
----
-
 ![OWC 2014 brackets](img/bracket-ES.jpg)
-
----
 
 ## Participantes
 
@@ -122,8 +116,6 @@ Esta competición ha terminado y el podio resultante es:
 | ![][flag_MY] Malaysia | **[Gon](https://osu.ppy.sh/users/583765)**, [xsrsbsns](https://osu.ppy.sh/users/414427), [caleb123456](https://osu.ppy.sh/users/2205376), [ExPew](https://osu.ppy.sh/users/665612), [TequilaWolf](https://osu.ppy.sh/users/3633477), [NazzzF](https://osu.ppy.sh/users/2676512), [ffstar0716](https://osu.ppy.sh/users/1163205), [Rumia-](https://osu.ppy.sh/users/1787171) |
 | ![][flag_RU] Russian Federation | **[cr1m](https://osu.ppy.sh/users/803766)**, [talala](https://osu.ppy.sh/users/1389663), [Shiawase](https://osu.ppy.sh/users/989489), [anticlone111](https://osu.ppy.sh/users/1950600), [Kert](https://osu.ppy.sh/users/119933), [KoTo](https://osu.ppy.sh/users/1382805), [Hidari Handoru](https://osu.ppy.sh/users/1056329), [Pyroboom](https://osu.ppy.sh/users/689882) |
 | ![][flag_CN] China | **[Prophet](https://osu.ppy.sh/users/651307)**, [Dsan](https://osu.ppy.sh/users/1266166), [N a n o](https://osu.ppy.sh/users/694114), [Del soon Bye](https://osu.ppy.sh/users/629717), [Rebellion](https://osu.ppy.sh/users/2896273), [SpringLane](https://osu.ppy.sh/users/1343504), [Spring Roll](https://osu.ppy.sh/users/2499198), [wobeinimacao](https://osu.ppy.sh/users/350723) |
-
----
 
 ## Grupos de mapas
 
@@ -277,8 +269,6 @@ Esta competición ha terminado y el podio resultante es:
 - Tiebreaker
   - **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)**
 
----
-
 ## Resultados
 
 ### Finales
@@ -414,36 +404,36 @@ Esta competición ha terminado y el podio resultante es:
 | ![][flag_HK] Hong Kong | 3 - **4** | **Canada** ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/10355083) |
 | ![][flag_SG] Singapore | 1 - **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/10355087) |
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_LT]: /wiki/shared/flag/LT.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
+[flag_DK]: /wiki/shared/flag/DK.gif "Dinamarca"
+[flag_ES]: /wiki/shared/flag/ES.gif "España"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
+[flag_FR]: /wiki/shared/flag/FR.gif "Francia"
+[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japón"
+[flag_KR]: /wiki/shared/flag/KR.gif "Sur Corea"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lituania"
+[flag_MX]: /wiki/shared/flag/MX.gif "México"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malasia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
+[flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nueva Zelanda"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Federación Rusa"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suecia"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwán"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ucrania"
+[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"

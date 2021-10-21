@@ -5,11 +5,13 @@ tags:
   - osu!devs
   - osu! dev
   - osu! devs
+outdated: true
+outdated_since: b5ffad1bde58fd33ff05bc06bb2843bc8707275e
 ---
 
 # Geliştiriciler
 
-osu!'nun geliştiricileri hataları düzelterek ve yeni özellikler ekleyerek oyunun ve web sayfasının çalışır durumda kalmasını sağlarlar. Bu kişilerin çoğu osu!'nun sahibi olan ppy Pty Ltd şirketinin çalışanlarıdır. [osu!team](/wiki/People/The_Team)'in çoğunu onlar oluşturur.
+osu!'nun geliştiricileri hataları düzelterek ve yeni özellikler ekleyerek oyunun ve web sayfasının çalışır durumda kalmasını sağlarlar. Bu kişilerin çoğu osu!'nun sahibi olan ppy Pty Ltd şirketinin çalışanlarıdır. [osu! ekibinin](/wiki/People/The_Team) çoğunu onlar oluşturur.
 
 osu!'nun geliştiricileri pembe kullanıcı renklerinden ve "osu!dev" ya da "osu!team" kullanıcı ünvanlarından ayırt edilebilirler.
 
@@ -34,6 +36,7 @@ osu! geliştirme çalışması osu!'nun yaratıcısı ![][flag_AU] **[peppy](htt
 - ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102)
 - ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
+- ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454)
 
 ### Tasarımcılar
 

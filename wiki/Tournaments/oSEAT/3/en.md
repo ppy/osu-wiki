@@ -8,7 +8,7 @@ tags:
 
 ![oSEAT3 logo](img/logo.jpg)
 
-The **osu! South East Asia Tournament 3** (***oSEAT3***) was a South East Asian double-elimination one-on-one osu! tournament hosted by ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911). It was the third installment of the osu! South East Asia Tournament.
+The **osu! South East Asia Tournament 3** (***oSEAT3***) was a South East Asian double-elimination one-on-one osu! tournament hosted by ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911). It was the third instalment of the osu! South East Asia Tournament.
 
 ## Tournament schedule
 
@@ -17,7 +17,7 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) was a South East Asian 
 | Registration phase | 2019-10-27/2020-12-01 |
 | Live drawings | 2019-12-01 (21:00 UTC+8) |
 | Qualifiers | 2019-12-14/2019-12-15 |
-| Group Stage | 2019-12-17/2020-01-01 |
+| Group stage | 2019-12-17/2020-01-01 |
 | Round of 32 | 2020-01-02/2020-01-05 |
 | Round of 16 | 2020-01-11/2020-01-12 |
 | Quarterfinals | 2020-01-15/2020-01-20 |
@@ -29,15 +29,15 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) was a South East Asian 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
-| *4th place* | 2 months of osu!supporter tag |
-| *5th place* | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
+| *4th place* | 2 months of osu!supporter |
+| *5th place* | 1 month of osu!supporter |
 
 *Note: 5th place was determined by a playoff.*
 
-![oSEAT3 winner badge](img/badge.png)
+![](img/badge.png "oSEAT3 winner badge")
 
 ## Organisation
 
@@ -46,7 +46,7 @@ The osu! South East Asia 3 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911) |
-| Map selector | ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [Loslite](https://osu.ppy.sh/users/6398160), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_SG] [SeeL](https://osu.ppy.sh/users/5104320) |
+| Mappool selector | ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [Loslite](https://osu.ppy.sh/users/6398160), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_SG] [SeeL](https://osu.ppy.sh/users/5104320) |
 | Referee | ![][flag_VN] [- Rem -](https://osu.ppy.sh/users/10489063), ![][flag_PH] [-Hanamaru-](https://osu.ppy.sh/users/11348518), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_PL] [Houtarou Oreki](https://osu.ppy.sh/users/4185566), ![][flag_MY] [Iyouka](https://osu.ppy.sh/users/7138499), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_VN] [LOLEnigMatic](https://osu.ppy.sh/users/13571949), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_US] [Yeong Yuseong](https://osu.ppy.sh/users/8926244) |
 | Streamer | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
 | Commentator | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
@@ -61,8 +61,6 @@ The osu! South East Asia 3 was run by various community members.
 - [Livestream](https://www.twitch.tv/oseatournament)
 - [Challonge brackets](https://challonge.com/SEAT3)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1waGkj7eW1oNKF4itjLrNbk0dCviPlXfjw70l0a1U_AA/edit?usp=sharing)**
-
----
 
 ## Participants
 
@@ -96,8 +94,6 @@ The osu! South East Asia 3 was run by various community members.
 | O | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206) | ![][flag_MY] [Chiyuu](https://osu.ppy.sh/users/8226107) | ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128) | ![][flag_TH] [muramax](https://osu.ppy.sh/users/10552306) | ![][flag_ID] [D-Rain](https://osu.ppy.sh/users/9925149) |
 | P | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946) | ![][flag_MY] [blufir\_](https://osu.ppy.sh/users/11134301) | ![][flag_MY] [Tokama Club](https://osu.ppy.sh/users/7321060) | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) | ![][flag_MY] [ManzMalaya](https://osu.ppy.sh/users/3999924) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -109,8 +105,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) |
 | *4th place* | ![][flag_PH] [MioMilo](https://osu.ppy.sh/users/2199427) |
 | *5th place* | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) |
-
----
 
 ## Mappools
 
@@ -282,7 +276,7 @@ This competition has come to an end and resulted in the following podium:
   - [Susumu Hirasawa - The Girl in Byakkoya (Pata-Mon) \[Paprika\]](https://osu.ppy.sh/beatmapsets/770240#osu/1619425)
   - [Hanataba - Night of Knights (v2b) \[DJPop's Extra Stage\]](https://osu.ppy.sh/beatmapsets/5445#osu/26726)
 
-### Group Stage - Week 2
+### Group stage week 2
 
 **[Download the mappack here! (70 MB)](https://drive.google.com/file/d/1kb4XoTLHUVLjTjHfVeSNlyfETownFZ4_/view)**
 
@@ -305,7 +299,7 @@ This competition has come to an end and resulted in the following podium:
   - [Suzuki Konomi - Blow out (Kalibe) \[Linadeft's Extra\]](https://osu.ppy.sh/beatmapsets/617203#osu/1324163)
   - [Kawano Marina - Sekai no Hate (Nao Tomori) \[Lasse's Insane\]](https://osu.ppy.sh/beatmapsets/892145#osu/1865143)
 
-### Group Stage - Week 1
+### Group stage week 1
 
 **[Download the mappack here! (79 MB)](https://mega.nz/#F!KupS1SqA!lOH8xviyDRC84aHC96yvkA)**
 
@@ -345,8 +339,6 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [Aimer - I beg you (xbopost) \[Lost Butterfly\]](https://osu.ppy.sh/beatmapsets/1029661#osu/2153072)
   - [XX:me - Torikago (Mordred) \[Dakini's Insane\]](https://osu.ppy.sh/beatmapsets/764067#osu/1624401)
-
----
 
 ## Match results
 
@@ -560,7 +552,7 @@ Sunday, 5 January 2020:
 | MilkyCoffee- ![][flag_MY] | -1 | **0** | ![][flag_PH] **fixedbyglue** | *win by default* |
 | **blufir\_** ![][flag_MY] | **6** | 1 | ![][flag_ID] thefarrel007 | [#1](https://osu.ppy.sh/community/matches/57516363) |
 
-### Group Stage
+### Group stage
 
 Tuesday, 17 December 2019:
 
@@ -777,8 +769,6 @@ Wednesday, 1 December 2019:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | M8 | **kezo** ![][flag_VN] | **0** | -1 | ![][flag_VN] Hifivem8 | *win by default* |
 
----
-
 ## Ruleset
 
 ### Registration
@@ -825,8 +815,8 @@ Wednesday, 1 December 2019:
 1. The mappool is designed such that when both players reach match point, there will be 3 maps left.
 2. Both players have to *Private Message* (PM) the referee which map they would like to ban out of the 3 maps within 2 minutes. **`#multiplayer` chat is strongly discouraged during this time**.
    - If both players ban different maps, the 3rd map is played
-   - **If both players ban the same map, the referee does a !roll 2 to determine which map out of the remaining will be played. (1 corresponds to the map listed higher on the map pool)**.
-   - If one player does not ban a map within the time limit or says anything in #multiplayer that can be deemed as an attempt to mindgame, the other player is free to choose his choice of maps within the 3 maps.
+   - **If both players ban the same map, the referee does a `!roll` 2 to determine which map out of the remaining will be played. (1 corresponds to the map listed higher on the map pool)**.
+   - If one player does not ban a map within the time limit or says anything in `#multiplayer` that can be deemed as an attempt to mindgame, the other player is free to choose his choice of maps within the 3 maps.
    - If neither player bans a map within the time limit, the choice of map is randomised.
 3. If the tiebreaker map ends in a draw, low roll gets to choose another tiebreaker within the remaining 2 maps.
 
@@ -845,7 +835,7 @@ Wednesday, 1 December 2019:
    - If no difference is found in this manner, the tie will be resolved randomly.
 7. For administrative purposes, if a player submits a score on at least 1 map and does not submit a score on at least 1 map, they will have a score of 0 for maps they did not submit a score on. If a player does not submit a score for any map, they will be disqualified.
 
-#### Group Stage
+#### Group stage
 
 1. Each group will have 4 or 6 players (depending on whether the number of qualifiers is a power of 2 or a multiple of 6). Each group will have 1 player of each seed.
    - The top 8 qualifiers will be allocated a group based on hypothetical bracket seeding. All other qualifiers will be assigned groups randomly.
@@ -853,8 +843,8 @@ Wednesday, 1 December 2019:
 3. All group stage matches will be best of 9 (first to 5 wins)
 4. Each group stage pool contains 5 NM, 2 HD, 2 HR, 2 DT, and 2 FM maps.
 5. **Each group will be run as a small bracket stage.**
-   - Below is how a 4 man group will be run. ![4 Man Group Stage Bracket](img/group-stage-4man-bracket.png)
-   - Below is how a 6 man group will be run. ![6 Man Group Stage Bracket](img/group-stage-6man-bracket.png)
+   - Below is how a 4 man group will be run. ![](img/group-stage-4man-bracket.png "4 man Group stage bracket")
+   - Below is how a 6 man group will be run. ![](img/group-stage-6man-bracket.png "6 man Group stage bracket")
 6. The top 2 players will qualify to the RO32 winner’s bracket. The 3rd place player (and for 6 man groups, 4th place player) will qualify to the RO32 loser’s bracket. All other players will be eliminated.
 
 #### Round of 32/Round of 16/Quarterfinals
@@ -892,17 +882,17 @@ Wednesday, 1 December 2019:
    - **Otherwise**: Rematch only at the discretion of both referee and opponent
    - If disconnecting player takes a prolonged time to reconnect to the match, penalties for disconnecting outside a map also apply.
 
-[flag_BN]: /wiki/shared/flag/BN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_KH]: /wiki/shared/flag/KH.gif
-[flag_LA]: /wiki/shared/flag/LA.gif
-[flag_MM]: /wiki/shared/flag/MM.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_BN]: /wiki/shared/flag/BN.gif "Brunei"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_KH]: /wiki/shared/flag/KH.gif "Cambodia"
+[flag_LA]: /wiki/shared/flag/LA.gif "Lao People's Democratic Republic"
+[flag_MM]: /wiki/shared/flag/MM.gif "Myanmar"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

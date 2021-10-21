@@ -1,7 +1,7 @@
 ---
 tags:
-- CIC 2018
-- CIC2018
+  - CIC 2018
+  - CIC2018
 ---
 
 # Catch the Beat Indonesia Cup 2018
@@ -51,8 +51,6 @@ tags:
 - [Siaran langsung](https://www.twitch.tv/osuindonesia)
 - [Bagan Challonge](https://challonge.com/CIC2018)
 
----
-
 ## Peserta
 
 | Grup |  |  |  |
@@ -66,11 +64,7 @@ tags:
 | **G** | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) |
 | **H** | ![][flag_ID] [-Izayoi](https://osu.ppy.sh/users/5710721) | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) | ![][flag_ID] [Buyut](https://osu.ppy.sh/users/9608136) |
 
----
-
 ![Podium](img/podium.jpg)
-
----
 
 ## Mappools
 
@@ -153,7 +147,7 @@ tags:
   - [Akiyama Uni - Kanpan Tasogare Shinbun (JBHyperion) \[Hyperion's Overdose\]](https://osu.ppy.sh/beatmapsets/633255#fruits/1486886)
   - [IOSYS - Okuu's Nuclear Fusion Dojo (Mafiamaster) \[v2b's Insane\]](https://osu.ppy.sh/beatmapsets/8442#fruits/37166)
 - Tiebreaker
-  - **[Yooh - salvation (alienflybot) \[AFB's crucifixion\]](https://osu.ppy.sh/beatmaps/1718267)**
+  - **Yooh - salvation (alienflybot) \[AFB's crucifixion\]**
 
 ### Babak 16 Besar
 
@@ -199,8 +193,6 @@ tags:
   - [Shimotsuki Haruka - Kaleidoscope (Shurelia) \[Insane\]](https://osu.ppy.sh/beatmapsets/169622#fruits/410798)
 - Tiebreaker
   - **[\*namirin - Iscariot no Sakebi (Hareimu) \[Treason\]](https://osu.ppy.sh/beatmapsets/685542#fruits/1451063)**
-
----
 
 ## Hasil Pertandingan
 
@@ -322,8 +314,6 @@ tags:
 | :-: | --: | :-: | :-- | :-- |
 | **G** | ![][flag_ID] **[THS](https://osu.ppy.sh/users/1218514) (3)** | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) (-2) | ![][flag_ID] **[Constantine](https://osu.ppy.sh/users/3221898) (15)** | [#1](https://osu.ppy.sh/community/matches/45031580) |
 
----
-
 ## Peraturan
 
 ### Sistem Turnamen
@@ -392,4 +382,4 @@ tags:
    - Peserta hanya boleh memilih satu beatmap warm-up pada babak grup.
 4. Hasil dari setiap match wajib dibagikan/dipos di topik diskusi oleh staf (wasit) menyertakan link mp dan screenshot.
 
-[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

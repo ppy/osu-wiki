@@ -2,13 +2,14 @@
 tags:
   - MCNC
   - MCNC2020
+  - MCNC 2020
 ---
 
 # osu!mania 4K Chinese National Cup 2020
 
 ![MCNC 2020 logo](img/logo.jpg)
 
-The **osu!mania 4K Chinese National Cup 2020** (***MCNC 2020***) was a country-based osu!mania tournament hosted by the \[Crz\]Team. It was the second installment of the osu!mania 4K Chinese National Cup.
+The **osu!mania 4K Chinese National Cup 2020** (***MCNC 2020***) was a country-based osu!mania tournament hosted by the \[Crz\]Team. It was the second instalment of the osu!mania 4K Chinese National Cup.
 
 ## Tournament schedule
 
@@ -17,31 +18,33 @@ The **osu!mania 4K Chinese National Cup 2020** (***MCNC 2020***) was a country-b
 | Registration phase | 2020-03-23/2020-04-12 |
 | Qualifying Contest | 2020-04-27/2020-04-30 |
 | Live drawings | 2020-05-01 (20:00 UTC+8) |
-| Group Stage - Week 1 | 2020-05-02/2020-05-10 |
-| Group Stage - Week 2 | 2020-05-11/2020-05-17 |
+| Group stage week 1 | 2020-05-02/2020-05-10 |
+| Group stage week 2 | 2020-05-11/2020-05-17 |
 | Round of 16 | 2020-05-18/2020-05-24 |
 | Quarterfinals | 2020-05-25/2020-05-31 |
-| Semifinals - Week 1 | 2020-06-01/2020-06-07 |
-| Semifinals - Week 2 | 2020-06-08/2020-06-14 |
-| Finals - Week 1 | 2020-06-15/2020-06-21 |
-| Finals - Week 2 | 2020-06-22/2020-06-28 |
+| Semifinals week 1 | 2020-06-01/2020-06-07 |
+| Semifinals week 2 | 2020-06-08/2020-06-14 |
+| Finals week 1 | 2020-06-15/2020-06-21 |
+| Finals week 2 | 2020-06-22/2020-06-28 |
 
 ## Prizes
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 1,200, 15% off coupon for the New Crazyboard, unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 800, 10% off coupon for the New Crazyboard, 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 400, 5% off coupon for the New Crazyboard, 1 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 1,200, 15% off coupon for the New Crazyboard, unique profile badge, 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 800, 10% off coupon for the New Crazyboard, 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 400, 5% off coupon for the New Crazyboard, 1 months of osu!supporter |
+
+![](img/badge.png "MCNC 2020 winner badge")
 
 ## Organisation
 
 The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083) |
-| Map selector | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [Sillyp](https://osu.ppy.sh/users/4556538), ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_MX] [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ![][flag_MX] [Plutes](https://osu.ppy.sh/users/11188249), ![][flag_MX] [\[OSC\]Amagai](https://osu.ppy.sh/users/9658070) |
+| Mappool selector | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [Sillyp](https://osu.ppy.sh/users/4556538), ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_MX] [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ![][flag_MX] [Plutes](https://osu.ppy.sh/users/11188249), ![][flag_MX] [\[OSC\]Amagai](https://osu.ppy.sh/users/9658070) |
 | Streamer | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Ayase Eli](https://osu.ppy.sh/users/6764156) |
 | Commentator | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501), ![][flag_CN] [\[Crz\]HDRoop_7](https://osu.ppy.sh/users/6336721), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208) |
 | Designer | ![][flag_CN] [Dr\_Tissues](https://osu.ppy.sh/users/5106681) |
@@ -93,7 +96,7 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 | #31 | ![][flag_CN] [GanYou](https://osu.ppy.sh/users/10358203) |
 | #32 | ![][flag_CN] [spensll](https://osu.ppy.sh/users/4547744) |
 
-### Groups
+## Groups
 
 | Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -102,19 +105,11 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 | CherryG | Rbpencil | gzdongsheng | Edward\_Tsui | yuwenhao1 | \[Illustrious\] | spensll | \[Crz\]I-Night |
 | \[ Emiya \] | Timewasdeapsea | - xiaoluoli - | Cloud18 | Hidden is fun | GODV14138 | 3032656057 | Kagaku |
 
-### Podium and bracket
+![](img/bracket.png "MCNC 2020 bracket")
 
-This competition has come to an end and resulted in the following podium:
+## Podium
 
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] [Kakuko](https://osu.ppy.sh/users/10413362) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
-
-![MCNC 2020 podium](img/podium.png)
-
-![MCNC 2020 bracket](img/bracket.png)
+![](img/podium.png "MCNC 2020 podium")
 
 ## Mappools
 
@@ -123,13 +118,13 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (201 MB)](https://www.dropbox.com/s/p4daduyfm4us6m4/MCNC20%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
-  - [Aquellex - Tachyon Beam Cannon (Plutes) Gekido-'s \[Destruction 1.1x\]](https://osu.ppy.sh/beatmaps/2476292)
+  - Aquellex - Tachyon Beam Cannon (Plutes) Gekido-'s \[Destruction 1.1x\]
   - [Camellia - \* Erm, could it be a Spatiotemporal ShockWAVE Syndrome…? (Sillyp) \[NIGHTMARE\]](https://osu.ppy.sh/beatmapsets/1191781#mania/2483411)
   - [Camellia - INSANE INFLAME (Evening) \[FINAL IGNITION \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1188925#mania/2477432)
   - [Camellia - SECRET BOSS (Kamuy) \[CATASTROPHE\]](https://osu.ppy.sh/beatmapsets/1102116#mania/2302409)
   - [DJ SHARPNEL - Shihen (\[Crz\]MemoryI) \[Challenge x1.25\]](https://osu.ppy.sh/beatmapsets/1188298#mania/2476268)
-  - [Frums - Pictured as Perfect and Plus (\[Crz\]Noire) \[mint's Daze // 4K 1.1x\]](https://osu.ppy.sh/beatmaps/2476294)
-  - [Hige Driver - Ukigumo (\[Crz\]xz1z1z) \[DDMythical's Challenge\]](https://osu.ppy.sh/beatmaps/2476290)
+  - Frums - Pictured as Perfect and Plus (\[Crz\]Noire) \[mint's Daze // 4K 1.1x\]
+  - Hige Driver - Ukigumo (\[Crz\]xz1z1z) \[DDMythical's Challenge\]
   - [Hino Isuka - Dreamin' attraction!!(Extended) (Daikyi) \[Fanatical Allure!!\]](https://osu.ppy.sh/beatmapsets/456887#mania/978989)
   - [Imperial Circus Dead Decadence - Gekiai no Yobigoe ga Dekiai no Kyougoe wo Kurau (MintApril) \[RE=SINSE-\[..\]/-c\]](https://osu.ppy.sh/beatmapsets/722071#mania/1525505)
   - [Ke-ji feat. Nanahira - Ange du Blanc Pur (eZmmR) \[Je prie au nom de " Nanahira ".\]](https://osu.ppy.sh/beatmapsets/1038916#mania/2171704)
@@ -180,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
   - [Street - Sakura Fubuki (Ata Remix) (Todestrieb) \[Bloom\]](https://osu.ppy.sh/beatmapsets/608292#mania/1284684)
   - [Team Grimoire - Caliburne \~Story of the Legendary sword\~ (\[Crz\]Satori) \[LN\]](https://osu.ppy.sh/beatmapsets/1130685#mania/2361834)
   - [The Flashbulb - Stinger (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/970202#mania/2030336)
-  - [The H.K.Mushrooms - Qianwan (\[Crz\]xz1z1z) \[Charoi's Beginner\]](https://osu.ppy.sh/beatmaps/2448996)
+  - The H.K.Mushrooms - Qianwan (\[Crz\]xz1z1z) \[Charoi's Beginner\]
   - [Various Artist - Jungdongjin's 7th 4k LN Pack (Jungdongjin) \[FELT - Pulse\]](https://osu.ppy.sh/beatmapsets/625374#mania/1319488)
 - Tiebreaker
   - **[Gram - Sigmund (tpz Overheat Remix) / Ending (Wadu) \[Wrath of Ragnarok\]](https://osu.ppy.sh/beatmapsets/784443#mania/1646980)**
@@ -206,7 +201,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Nizikawa ft. Nayuta - Babel (\_VianK\_) \[Birdcage\]](https://osu.ppy.sh/beatmapsets/1048148#mania/2190865)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (121 MB)](https://www.dropbox.com/s/lqde07vuqftq579/MCNC20%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 

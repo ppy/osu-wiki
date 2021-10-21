@@ -16,12 +16,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -111,7 +111,7 @@ A horrible night indeed, but certainly not a horrible map. Xytox's difficulty of
 
 A trip through many different speeds and styles of mapping, AtHeoN's map of Lunatic Rough Party is an absolute treat to play. You'll need a well rounded skill set to be able to give this a good shot, as the map flows through a 120 BPM 1/6 section into 200 BPM drum'n'bass, and finally 150 BPM alternating patterns. The song is an absolute banger to match the map, as the patterns all flow well and match the energy of the song perfectly. A personal favourite of mine, I wholly recommend you give this one a play—and I think you'll agree that it's worth the favourite.
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -149,7 +149,7 @@ Grimm truly feels like one of those maps that can measure how players have grown
 
 tasuke912's "TAIKO-HOLiC" map series is famous for being challenging and high-quality. Starting with Ultrasonic Anthem, which is osu!taiko's hardest ranked map, there have been four Ranked maps and one Loved map from the series, proving the quality of the maps. The patterns in the map may be rather simple, but long streams attack the player with few breaks. If you can hit these streams, I—nyanmi-1828—will guarantee you have the right to call your self "a true stamina player"!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -175,7 +175,7 @@ All in all, this great map definitely deserves to be nominated and deserves more
 
 If you simply seek a nice song paired with a challenging map, Saigo must be one of your choices. Rocma, along with the top Korean osu!catch players, \[224\]Hyperw7, Spectator and mjj741, brought us a huge creative set. With the struggling streams and technical jumps, the map is pretty hard to handle. Also, since the mapper made the backups of the old difficulties, you can discover the pattern changes and enjoy different mapping styles from each of these mappers!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

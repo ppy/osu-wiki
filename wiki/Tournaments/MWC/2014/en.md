@@ -12,7 +12,7 @@ tags:
 
 ![MWC 2014 logo](img/logo.jpg)
 
-The **osu!mania World Cup 2014** (***MWC 2014***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was separated in a 4-keys and 7-keys bracket and was the first installment of the osu!mania 4K World Cup and the osu!mania 7K World Cup.
+The **osu!mania World Cup 2014** (***MWC 2014***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was separated in a 4-keys and 7-keys bracket and was the first instalment of the osu!mania 4K World Cup and the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -20,8 +20,8 @@ The **osu!mania World Cup 2014** (***MWC 2014***) was a country-based osu!mania 
 | --: | :-- |
 | Registration phase | 2014-07-01/2014-07-20 |
 | Live drawings | 2014-08-02 |
-| Group Stage (4K) | 2014-08-09/2014-08-10 |
-| Group Stage (7K) | 2014-08-16/2014-08-17 |
+| Group stage (4K) | 2014-08-09/2014-08-10 |
+| Group stage (7K) | 2014-08-16/2014-08-17 |
 | Round of 16 | 2014-08-23/2014-08-24 |
 | Quarterfinals | 2014-08-31 |
 | Semifinals | 2014-09-07 |
@@ -31,9 +31,9 @@ The **osu!mania World Cup 2014** (***MWC 2014***) was a country-based osu!mania 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, osu! merchandise, "osu!mania Champion" user title for one year |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge, osu! merchandise, "osu!mania Champion" user title for one year |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge.jpg "MWC 2014 winner badge")
 
@@ -52,7 +52,7 @@ The osu!mania World Cup 2014 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/222100)
-- [Livestream](https://www.twitch.tv/osulive/)
+- [Livestream](https://www.twitch.tv/osulive)
 - **[Statistics sheet: 4K bracket](https://mwc.servegame.com/results/view/1)**
 - **[Statistics sheet: 7K bracket](https://mwc.servegame.com/results/view/2)**
 
@@ -130,6 +130,10 @@ The osu!mania World Cup 2014 was run by various community members.
 | ![][flag_DE] Germany | ![][flag_RU] Russian Federation | ![][flag_JP] Japan | ![][flag_GB] United Kingdom |
 | ![][flag_US] United States | ![][flag_CN] China | ![][flag_FR] France | ![][flag_NL] Netherlands |
 
+![](img/brackets-4K.jpg "MWC 2014 4K bracket")
+
+![](img/brackets-7K.jpg "MWC 2014 7K bracket")
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -139,10 +143,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[ideu-](https://osu.ppy.sh/users/137227)**, [Abcdullah](https://osu.ppy.sh/users/4140104), [FaL3C\_ChoBo](https://osu.ppy.sh/users/1218632), [jhlee0133](https://osu.ppy.sh/users/140148)) | ![][flag_KR] **South Korea** (**[ideu-](https://osu.ppy.sh/users/137227)**, [Abcdullah](https://osu.ppy.sh/users/4140104), [jhlee0133](https://osu.ppy.sh/users/140148), [WindyS](https://osu.ppy.sh/users/1190879)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] **Philippines** (**[Tokiiwa](https://osu.ppy.sh/users/4029511)**, [Ainyan](https://osu.ppy.sh/users/3770641), [arcwinolivirus](https://osu.ppy.sh/users/2039089)) | ![][flag_TH] **Thailand** (**[lostcool](https://osu.ppy.sh/users/766374)**, [Mystical Faith](https://osu.ppy.sh/users/4280188), [Popo\[Mikoto\]](https://osu.ppy.sh/users/445236)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MY] **Malaysia** (**[Gon](https://osu.ppy.sh/users/583765)**, [\_Sylveon\_](https://osu.ppy.sh/users/3936677), [LongGone](https://osu.ppy.sh/users/35882), [ZYuan](https://osu.ppy.sh/users/3337688)) | ![][flag_MY] **Malaysia** (**[Gon](https://osu.ppy.sh/users/583765)**, [\_Sylveon\_](https://osu.ppy.sh/users/3936677), [LongGone](https://osu.ppy.sh/users/35882)) |
-
-![MWC 2014 4K bracket](img/brackets-4K.jpg)
-
-![MWC 2014 7K bracket](img/brackets-7K.jpg)
 
 ## Mappools
 
@@ -220,7 +220,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Various Artists - J-Core Mix (arcwinolivirus) \[Marathon\]](https://osu.ppy.sh/beatmapsets/164429#mania/400353)**
 
-#### Group Stage
+#### Group stage
 
 - FreeMod
   - [kors k - Insane Techniques (LeiN-) \[4K Another\]](https://osu.ppy.sh/beatmapsets/138188#mania/345760)
@@ -309,7 +309,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[ensou - COMA (Paulmrm) \[Insane\]](https://osu.ppy.sh/beatmapsets/193344#mania/459425)**
 
-#### Group Stage
+#### Group stage
 
 - FreeMod
   - [MiddleIsland - Piano Concerto No.1 "Scream" (Lieselotte) \[LV.23\]](https://osu.ppy.sh/beatmapsets/90270#mania/245873)
@@ -364,7 +364,7 @@ This competition has come to an end and resulted in the following podium:
 | Germany ![][flag_DE] | 1 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/8751265) |
 | **France** ![][flag_FR] | **5** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/8752601) |
 
-#### Group Stage
+#### Group stage
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -447,7 +447,7 @@ This competition has come to an end and resulted in the following podium:
 | **Chile** ![][flag_CL] | **5** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/8777543) |
 | **United States** ![][flag_US] | **5** | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/8778916) |
 
-#### Group Stage
+#### Group stage
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -550,7 +550,7 @@ This competition has come to an end and resulted in the following podium:
    - Room settings are osu!mania, Team-Vs., Win Condition: 'Score'. Room name must be "MWC 2014: TeamBlue vs TeamRed"
    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up maps.
-3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use "!roll" once in \#multiplayer to determine which team selects first.
+3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects first.
    - The captains may select maps out of the FreeMod bracket freely.
    - In case of a tie, the tiebreaker map must be played.
 4. Results will be published on the wiki and via the Statistics website.
@@ -579,7 +579,7 @@ This competition has come to an end and resulted in the following podium:
 6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australi"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"

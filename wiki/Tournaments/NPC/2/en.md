@@ -8,7 +8,7 @@ tags:
 
 ![NPC2 logo](img/logo.png)
 
-The **Non-Professional Cup 2** (***NPC2***) is an international team-based double-elimination 2v2 osu! tournament hosted by ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827). This is the second installment of the Non-Professional Cup.
+The **Non-Professional Cup 2** (***NPC2***) is an international team-based double-elimination 2v2 osu! tournament hosted by ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827). This is the second instalment of the Non-Professional Cup.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 | Player registration | 2020-04-25/2020-05-14 |
 | Screening phase | 2020-05-17/2020-05-29 |
 | Qualifiers | 2020-05-30/2020-05-31 |
-| Group Stage | 2020-06-05/2020-06-07 |
+| Group stage | 2020-06-05/2020-06-07 |
 | Round of 16 | 2020-06-12/2020-06-14 |
 | Quarterfinals | 2020-06-19/2020-06-21 |
 | Semifinals | 2020-06-26/2020-06-28 |
@@ -29,10 +29,10 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 
-![](img/badge.png "Pending profile badge")
+![](img/badge.png "NPC2 winner badge")
 
 Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610) helped to fund all the prizes.
 
@@ -43,7 +43,7 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 | Organiser | ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827) |
 | Administrator | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_TH] [- Mirage -](https://osu.ppy.sh/users/2298513), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507) |
 | Referee | ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827),![][flag_TH] [- Mirage -](https://osu.ppy.sh/users/2298513), ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [Aleks0](https://osu.ppy.sh/users/12354837), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411), ![][flag_RU] [Hataki-](https://osu.ppy.sh/users/14745616), ![][flag_DE] [Kalletenz](https://osu.ppy.sh/users/9704883), ![][flag_CA] [miyatohanasaki](https://osu.ppy.sh/users/13916687), ![][flag_ES] [Akakuro](https://osu.ppy.sh/users/7615505), ![][flag_KR] [siroitora](https://osu.ppy.sh/users/9146185), ![][flag_FR] [Agostino](https://osu.ppy.sh/users/3897665), ![][flag_US] [Zeity](https://osu.ppy.sh/users/11367167), ![][flag_HK] [Volition](https://osu.ppy.sh/users/10815893) |
-| Map Selector | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827), ![][flag_TH] [- Mirage -](https://osu.ppy.sh/users/2298513), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [Aleks0](https://osu.ppy.sh/users/12354837), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411), ![][flag_RU] [Hataki-](https://osu.ppy.sh/users/14745616), ![][flag_CA] [miyatohanasaki](https://osu.ppy.sh/users/13916687), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_FI] [naitsabest](https://osu.ppy.sh/users/10632187), ![][flag_CN] [M1kel](https://osu.ppy.sh/users/10732897), ![][flag_US] [Quag](https://osu.ppy.sh/users/6535093) |
+| Mappool selector | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827), ![][flag_TH] [- Mirage -](https://osu.ppy.sh/users/2298513), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [Aleks0](https://osu.ppy.sh/users/12354837), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411), ![][flag_RU] [Hataki-](https://osu.ppy.sh/users/14745616), ![][flag_CA] [miyatohanasaki](https://osu.ppy.sh/users/13916687), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_FI] [naitsabest](https://osu.ppy.sh/users/10632187), ![][flag_CN] [M1kel](https://osu.ppy.sh/users/10732897), ![][flag_US] [Quag](https://osu.ppy.sh/users/6535093) |
 | Streamer | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_TH] [- Mirage -](https://osu.ppy.sh/users/2298513), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411) |
 | Commentator | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_US] [Quag](https://osu.ppy.sh/users/6535093), ![][flag_AU] [Walfurus](https://osu.ppy.sh/users/13684009) |
 | Designer | ![][flag_US] [Zeity](https://osu.ppy.sh/users/11367167), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525) |
@@ -113,9 +113,9 @@ This competition has ended and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | WeHatePP |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Alek & Friends |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | OSBT Squad |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **WeHatePP** (![][flag_US] **[\[Dom\]](https://osu.ppy.sh/users/13287997)**, ![][flag_BR] [kvictor](https://osu.ppy.sh/users/15922752), ![][flag_US] [monopl1](https://osu.ppy.sh/users/15262671), ![][flag_US] [ssbmPepperJack](https://osu.ppy.sh/users/11475881)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Alek & Friends** (![][flag_RS] **[AlekTheGinger](https://osu.ppy.sh/users/12480438)**, ![][flag_US] [SierraAlexis](https://osu.ppy.sh/users/3947242), ![][flag_TH] [TheBlackcatT](https://osu.ppy.sh/users/11103827)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **OSBT Squad** (![][flag_FR] **[Numero\_Zer0e](https://osu.ppy.sh/users/13352562)**, ![][flag_FR] [Podsel](https://osu.ppy.sh/users/15312729), ![][flag_BE] [N1C3TR0](https://osu.ppy.sh/users/14489553), ![][flag_FR] [vegajuice](https://osu.ppy.sh/users/8027232)) |
 
 ## Mappools
 
@@ -376,7 +376,7 @@ Sunday, 21 June 2020:
 | **Alek & Friends** | **0** | -1 | Tapa na Cara | *win by default* |
 | ora ora ora | -1 | **0** | **Bats from Wuhan** | *win by default* |
 | WeLoveKöfte | 3 | **6** | **Chuchichäschtli** | [#1](https://osu.ppy.sh/community/matches/63203837) |
-| **Young Builders** | **6** | 2 | G Nome | [#1](https://osu.ppy.sh/community/matches/63205675) | 
+| **Young Builders** | **6** | 2 | G Nome | [#1](https://osu.ppy.sh/community/matches/63205675) |
 | Peko Peko | 1 | **6** | **Stunter in the Toilet** | [#1](https://osu.ppy.sh/community/matches/63212139) |
 
 ### Round of 16
@@ -493,13 +493,13 @@ Sunday, 7 June 2020:
    - From Quarterfinals onwards, the number of bans increases to two.
    - A mod pool can not be banned completely.
    - A team cannot ban two maps in the same mod pool except NoMod.
-4. Each captain must use "!roll" once in the multiplayer lobby.
+4. Each captain must use `!roll` once in the multiplayer lobby.
    - The team with the higher roll chooses to **ban first** or **pick first**.
    - The team that bans first will pick second, and vice versa.
 5. Beatmap selection will alternate between each team selecting a beatmap out of the mappool, they may pick freely from any mod pool.
 6. In the case of a tie, the tiebreaker beatmap will be played.
    - For the Grand Finals tiebreaker, there will be 3 tiebreaker beatmaps. The captain from each team will privately message the referee to ban one of those beatmaps.
-   - If both teams ban the same beatmap, the referee will use "!roll" to randomly select 1 of the remaining 2 tiebreaker beatmaps to be played.
+   - If both teams ban the same beatmap, the referee will use `!roll` to randomly select 1 of the remaining 2 tiebreaker beatmaps to be played.
    - If the teams ban different beatmaps, the remaining beatmap will be played.
 
 ### Mappool instructions
@@ -552,12 +552,12 @@ Sunday, 7 June 2020:
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
-[flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SV]: /wiki/shared/flag/SV.gif "El salvador"
+[flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
+[flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

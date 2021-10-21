@@ -13,7 +13,7 @@
 外观元素列表分为以下几类：
 
 - [外观界面](/wiki/Skinning/Interface)
-- [osu!standard 皮肤](/wiki/Skinning/osu!)
+- [osu! 皮肤](/wiki/Skinning/osu!)
 - [osu!taiko 皮肤](/wiki/Skinning/osu!taiko)
 - [osu!catch 皮肤](/wiki/Skinning/osu!catch)
 - [osu!mania 皮肤](/wiki/Skinning/osu!mania)
@@ -21,8 +21,8 @@
 
 ## 也可以参考
 
-- [skin.ini](/wiki/skin.ini)
+- [skin.ini](/wiki/Skinning/skin.ini)
 - [皮肤变更历史](/wiki/Skinning/History) - 旧皮肤元素列表
 - [汇总](https://osu.ppy.sh/community/forums/topics/686664) - 已完成的皮肤列表
 - [皮肤常见问题](/wiki/Skinning/FAQ)
-- [指南与重点论坛帖](/wiki/Skinning/Guides_and_Important_Threads)
+- [指南与重点论坛帖](/wiki/Skinning/Guides_and_important_threads)

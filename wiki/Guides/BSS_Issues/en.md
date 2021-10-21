@@ -6,9 +6,9 @@ tags:
 
 # How to resolve BSS issues
 
-If the **[Beatmap Submission System](/wiki/Glossary#bss)** (***BSS***) won't let you submit your own beatmap because it says that you do not own the map then do the following:
+If the **[Beatmap Submission System](/wiki/Submission)** (***BSS***) won't let you submit your own beatmap because it says that you do not own the map then do the following:
 
-1. Go to the beatmapset's folder.
+1. Go to the beatmap's folder.
    - You can get there easily by going to `File` then `Open Song Folder` in the [beatmap editor](/wiki/Beatmap_Editor).
 2. Exit osu! (This is to make sure that the changes are applied properly.)
 3. Open the `.osu` difficulty files with any plain text editor (e.g. Notepad).
@@ -24,9 +24,9 @@ If you are still having issues, follow these steps:
 
 1. Export the beatmap using the beatmap editor.
    - `File` then `Export Package`.
-2. Exit the beatmap editor and then delete the beatmapset in osu!.
+2. Exit the beatmap editor and then delete the beatmap in osu!.
 3. Exit osu!
-4. Go to the exported beatmapset and change the extension from `.osz` to `.zip` (you will need file extensions to be visible from the windows folder options to do this).
+4. Go to the exported beatmap and change the extension from `.osz` to `.zip` (you will need file extensions to be visible from the windows folder options to do this).
 5. Extract this `.zip` file.
 6. Open the `.osu` difficulty files with any plain text editor (e.g. Notepad).
 7. Enter anything as username for the `Creator`, but do not use your username.

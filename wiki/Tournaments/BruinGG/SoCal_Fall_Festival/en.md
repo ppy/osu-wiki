@@ -16,24 +16,11 @@ The **SoCal Fall Festival** is an upcoming 1v1 [osu!](/wiki/Game_mode/osu!) tour
 
 In addition to the osu! tournament documented here, the SoCal Fall Festival will host casual games, competitive tournaments, panels, and an artists alley.
 
-## Links
-
-- **[Discord server](https://discord.gg/au7qpnk)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1168265)
-- [Rules](https://docs.google.com/document/d/1HX3zr4dU8NlimMubDSiRFn8vP3DusvgVgG1WYiKGqmQ/edit?usp=sharing "Google document")
-
-### Related Discord servers
-
-- [BruinGG](https://discord.gg/bkxNBay)
-- [Gaucho Gaming](https://discord.gg/GauchoGaming)
-- [osu! UCI](https://discord.gg/qbZddFV)
-- [TAG at UCI](https://discord.gg/qKqCZXQ)
-
 ## Tournament schedule
 
 | Event | Timestamp (UTC-08) |
 | --: | :-- |
-| Registration | 2020-10-24 / 2020-11-07 (16:00) |
+| Registration | 2020-10-24/2020-11-07 (16:00) |
 | Swiss stage | 2020-11-07 (16:00) |
 | Round of 16 | 2020-11-07 (after swiss stage) or 2020-11-08 (16:00) |
 | Quarterfinals–Finals | 2020-11-08 (16:00) or 2020-11-08 (after Round of 16) |
@@ -55,6 +42,19 @@ There are five organisers for the osu! section of the SoCal Fall Festival:
 - ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901) (LLEENN#0001)
 - ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) (naranjasagged#8308)
 - ![][flag_US] [Scientia Fe](https://osu.ppy.sh/users/7872968) (Scientia#3691)
+
+## Links
+
+- **[Discord server](https://discord.gg/au7qpnk)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1168265)
+- [Rules](https://docs.google.com/document/d/1HX3zr4dU8NlimMubDSiRFn8vP3DusvgVgG1WYiKGqmQ/edit?usp=sharing)
+
+### Related Discord servers
+
+- [BruinGG](https://discord.gg/bkxNBay)
+- [Gaucho Gaming](https://discord.gg/GauchoGaming)
+- [osu! UCI](https://discord.gg/qbZddFV)
+- [TAG at UCI](https://discord.gg/qKqCZXQ)
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

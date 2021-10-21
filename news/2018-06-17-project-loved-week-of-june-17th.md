@@ -20,12 +20,12 @@ Let's get started!
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/osu/toaru-shoukoku-no-ohimesama.jpg)](https://osu.ppy.sh/community/forums/topics/762191)
 
@@ -97,7 +97,7 @@ Anarchy Road has been a staple of multiplayer lobbies since it was first uploade
 
 From the same artist that brought you [furioso melodia](https://osu.ppy.sh/beatmapsets/280107), [DoKito](https://osu.ppy.sh/users/537084) returns with one of my personal favourite maps of disperagioia. The all-around ominous background and bumping hardstyle track are paired with devilish spaced streams to create a very well put together 7.4\* mapset. The 90 favourites it has amassed make it more than worthy to be featured within the Loved category.
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 *All osu!taiko descriptions were written by [Gezoda](https://osu.ppy.sh/users/481582)*
 
@@ -143,7 +143,7 @@ Coming straight from an era where storyboard gimmicks were starting to take off 
 
 Here we go again! Nekosogi Destruction is a speed map that will fool you from its low star rating, but is going to be the biggest nightmare to anyone unprepared for the 280BPM. It may sound like I'm doing tons for something that easy, but you know the drill now, speed maps having low star rating and all. Anyway, as said previously, this beatmap is full-on speed, as opposed as the many technical beatmaps we are having right now. The patterning isn't so crazy, but coupled with the fact that 1/4 patterns are short and are weaved inside 1/2 notes, it will be much more demanding than your average beatmap. If you love speed maps as much as I do, want to improve your stamina or are training full-alternating, this is definitely something worth giving a go.
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/catch/gigadelic-camellia-s-the-tera-rmx-.jpg)](https://osu.ppy.sh/community/forums/topics/762314)
 
@@ -173,7 +173,7 @@ A map which most of the veteran players remember—Holdin' On by [VelperK](https
 
 As 2017's CWC went into the quarter final's stage, people discovered one of [Kyuare](https://osu.ppy.sh/users/2705312)'s lesser famous (at the time) maps, Dysthymia. This map has tons of variation in streaming patterns, as well as some long-distanced jumps, blended together with Kyuare's well-known triangle-like left-rights. Altogether, this map makes for a very interesting experience on a pretty conventional map. Most active players should be able to pass this map without too many struggles, but pulling off a full combo can prove to be quite difficult with this map's earlier mentioned structure and length.
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/mania/tri-paloski.jpg)](https://osu.ppy.sh/community/forums/topics/762219)
 

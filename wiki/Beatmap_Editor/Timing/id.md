@@ -1,19 +1,25 @@
----
-outdated: true
----
+# Tab timing
 
-# Timing
+*Kunjungi juga: [Bagaimana cara mengatur waktu lagu](/wiki/Guides/How_to_Time_Songs)*
 
-Timing untuk sebuah beatmap terdiri dari offset lagu dan BPM(Beats Per Minute, atau ketukan per menit). BPM lagu menunjukkan seberapa cepat sebuah lagu. Offset adalah jumlah waktu di antara awal dari file mp3 dan pembukaan lagu dalam sebuah lagu.
+![Cuplikan tab timing di dalam editor](img/Timing_base.jpg)
 
-Fungsi dari timing yang benar adalah agar linimasa di dalam editor sejajar dengan musiknya. Jika timingnya salah, maka linimasa tidak akan sesuai dengan lagu. Oleh karena itu, kamu tidak dapat menempatkan objek yang diklik dengan akurat, dan akan menjadi sangat sulit untuk me-map sejajar dengan musiknya.
+**Tab timing** di dalam [beatmap editor](/wiki/Beatmap_Editor) memungkinkan para mapper untuk mengubah pengaturan timing dari sebuah [beatmap](/wiki/Beatmap). Timing biasanya merupakan sebuah langkah pertama dalam membuat sebuah beatmap.
 
-## Pembagian Timing
+Timing terdiri dari sebuah [offset](/wiki/Beatmapping/Offset) lagu, [beats per minute (BPM)](/wiki/Beatmapping/Beats_per_minute), dan [meter](https://en.wikipedia.org/wiki/Metre_(music)). Beatmap dituntut agar mempunyai timing yang akurat, supaya para pemain dapat menjaga akurasi saat bermain. Beatmap dengan timing yang tidak tepat, tidak dapat melewati [prosedur beatmap ranking](/wiki/Beatmap_ranking_procedure).
 
-Ada dua jenis pembagian timing; bagian timing biasa dan bagian timing turunan.
+## Jendela Timing dan Control Point
 
-Bagian timing biasa ditunjukkan sebagai garis merah di dalam editor. Setiap map mempunyai ini setidaknya satu. Beberapa lagu mengubah BPM nya di tengah lagu, dan membutuhkan timing biasa yang lebih banyak.
+![Cuplikan Timing dan jendela Control Point](img/TimingSetup.png)
 
-Bagian timing turunan ditunjukkan sebagai garis hijau di dalam editor. Garis hijau ini tidak mengubah timing lagu. Apa yang dilakukan timing turunan adalah membiarkanmu mengubah sampel hitsound lagu tersebut, kecepatan slider, dll.
+Timing point dapat ditambahkan dari jendela `Timing dan Control Points` di editor (pintasan default `F6`). Timing point membagi lagu menjadi beberapa bagian timing untuk mencerminkan perubahan keakuratan timing lagu.
 
-Dua tipe bagian timing ini biasanya disebut sebagai offset merah dan offset hijau berturutan.
+### Uninherited timing point
+
+Uninherited timing point ditampilkan sebagai sebuah garis merah (*red line*), sebagai bagian dasar timing untuk BPM, offset, dan meter. Setiap beatmap wajib memiliki setidaknya satu garis merah, namun beberapa lagu memerlukan beberapa karena komposisi yang lebih kompleks atau ketidakakuratan timing yang disebabkan oleh pertunjukan langsung.
+
+### Inherited timing point
+
+Inherited timing point ditampilkan sebagai sebuah garis hijau (*green line*), inherits BPM, offset, dan pengaturan meter dari garis merah sebelumnya. Garis hijau digunakan untuk menyesuaikan pengaturan pada [slider velocity](/wiki/Hit_object/Slider_velocity) dan [hitsound](/wiki/Beatmapping/Hitsound).
+
+Inherited timing point (*green line*) tidak bisa ditempatkan sebelum uninherited point pertama (*red line*), karena akan menyebabkan tidak dapat memasang pengaturan inherit apa pun.

@@ -33,11 +33,11 @@ outdated: true
 | [Derekku](https://osu.ppy.sh/users/91341) | Allgemeine Haushaltsführung, Community Verwaltung |
 | [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | osu! Entwickler Team, IRC-Integration der In-Game Chats, Seiteninstandhaltung |
 | [Intermezzo](https://osu.ppy.sh/users/136842) | osu! Entwickler Team, osz2/p2p Zuständiger |
-| Jim ([Brand New Games](http://www.bravegamer.com/)) | Originales Seitendesign |
+| Jim ([Brave New Games](http://www.bravegamer.com/)) | Originales Seitendesign |
 | [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](http://luigihann.deviantart.com/)) | Episches Skin Design, Beiträger am "default"-Skin und an Symbol- und Zeichensets |
 | [mm201](https://osu.ppy.sh/users/30655) | osu! Entwickler Team, mm sliders |
 | [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone Entwickler |
-| Phil | Forum Design Arbeit |
+| [phill](https://osu.ppy.sh/users/53) | Forum Design Arbeit |
 | [Sarumaru](https://osu.ppy.sh/users/9427) ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Originales pippi Entwurf und Grafikdesign |
 | [Sinistro](https://osu.ppy.sh/users/5530) | Besprechungsprotokolle, Große FAQ Beiträger |
 | [woc2006](https://osu.ppy.sh/users/1105845) | osu! Entwickler Team, osu! osu!mania Modus Entwickler |
@@ -46,11 +46,11 @@ outdated: true
 
 | Name | Beschreibung |
 | :-- | :-- |
-| [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Behalten die Übersicht über die Foren und den In-Game Chat |
-| [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Sorgen dafür, dass deine Beatmap in den "qualifiziert"-Status kommen |
+| [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) | Behalten die Übersicht über die Foren und den In-Game Chat |
+| [Beatmap Nomination Group](/wiki/People/The_Team/Beatmap_Nominators) | Sorgen dafür, dass deine Beatmap in den "qualifiziert"-Status kommen |
 | [Entwickler](https://osu.ppy.sh/groups/11) | Machen das Spiel besser, indem sie neue Inhalte zum Spiel hinzufügen und Spielfehler beheben |
-| [osu! alumni](/wiki/People/osu!_Alumni) | Ehemalige, die für ihre Beiträge bekannt sind, seitdem sie inaktiv sind |
-| [Support Team Redux](/wiki/People/Support_Team) | Assistenten für den Technischen Support und die Vorschläge für neue Inhalte |
+| [osu! alumni](/wiki/People/The_Team/osu!_Alumni) | Ehemalige, die für ihre Beiträge bekannt sind, seitdem sie inaktiv sind |
+| [Support Team Redux](/wiki/People/The_Team/Support_Team) | Assistenten für den Technischen Support und die Vorschläge für neue Inhalte |
 | [osu!nachichten](https://osu.ppy.sh/groups/25) | Versorgen euch seit 2013 mit qualitativen Lesematerial |
 | [Turnierleitung](https://osu.ppy.sh/groups/26) | Sind für den Ablauf der offiziellen osu!Turniere in allen Modi verantwortlich. |
-| [Qualität Bestätigungs Team](/wiki/People/Quality_Assurance_Team) | Wir helfen dir Freude an osu! zu haben, beginnend mit der Sicherung der Qualität von Beatmaps |
+| [Qualität Bestätigungs Team](/wiki/Modding/Quality_Assurance_Team) | Wir helfen dir Freude an osu! zu haben, beginnend mit der Sicherung der Qualität von Beatmaps |

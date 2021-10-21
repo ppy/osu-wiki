@@ -9,7 +9,7 @@ tags:
 
 ![MBS2 logo](img/logo.jpg)
 
-The **Mania Beginner's Showdown 2** (***MBS2***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament had two divisions to separate the skillset between players: the high division consisted of players ranked #10,000–#40,000, and the low division consisted of players ranked #40,001–#100,000. This was the second installment of the Mania Beginner's Showdown.
+The **Mania Beginner's Showdown 2** (***MBS2***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament had two divisions to separate the skillset between players: the high division consisted of players ranked #10,000–#40,000, and the low division consisted of players ranked #40,001–#100,000. This was the second instalment of the Mania Beginner's Showdown.
 
 ## Tournament schedule
 
@@ -20,7 +20,7 @@ The **Mania Beginner's Showdown 2** (***MBS2***) was a worldwide double-eliminat
 | Registration phase | 2020-04-04/2020-04-26 |
 | Live drawings | 2020-05-11 (17:00 UTC) |
 | Qualifiers | 2020-05-09/2020-05-10 |
-| Group Stage | 2020-05-15/2020-05-24 |
+| Group stage | 2020-05-15/2020-05-24 |
 | Round of 32 | 2020-05-30/2020-05-31 |
 | Round of 16 | 2020-06-05/2020-06-07 |
 | Quarterfinals | 2020-06-12/2020-06-14 |
@@ -35,7 +35,7 @@ The **Mania Beginner's Showdown 2** (***MBS2***) was a worldwide double-eliminat
 | Registration phase | 2020-04-04/2020-04-26 |
 | Live drawings | 2020-05-11 (17:00 UTC) |
 | Qualifiers | 2020-05-09/2020-05-10 |
-| Group Stage | 2020-05-16/2020-05-25 |
+| Group stage | 2020-05-16/2020-05-25 |
 | Round of 32 | 2020-05-30/2020-05-31 |
 | Round of 16 | 2020-06-05/2020-06-07 |
 | Quarterfinals | 2020-06-13/2020-06-14 |
@@ -47,9 +47,9 @@ The **Mania Beginner's Showdown 2** (***MBS2***) was a worldwide double-eliminat
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag, 30€ |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag, 20€ |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, 10€ |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter, 30€ |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter, 20€ |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter, 10€ |
 
 ![](img/badge_high.jpg "MBS2 high division winner badge")
 
@@ -64,8 +64,8 @@ The Mania Beginner's Showdown 2 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517) |
-| Co-Organiser | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) |
-| Map selector | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) |
+| Co-organiser | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) |
+| Mappool selector | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) |
 | Guest mapper | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) |
 | Referee | ![][flag_AU] [anim shnacc](https://osu.ppy.sh/users/11373924), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_NZ] [Erkfir](https://osu.ppy.sh/users/7756939), ![][flag_DE] [Flygone](https://osu.ppy.sh/users/9287979), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_NL] [Lienkuh](https://osu.ppy.sh/users/13960277), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_US] [travis\_ba](https://osu.ppy.sh/users/10822220), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
 | Streamer | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
@@ -312,7 +312,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - chrono diver -fragment- (Camellia's "crossroads of chrono" remix) (Raveille) \[TIME//CROSS\]](https://osu.ppy.sh/beatmapsets/1175949#mania/2452723)**
 
-#### Group Stage
+#### Group stage
 
 **[Download the mappack here! (66 MB)](https://mega.nz/file/lKBXUaTJ#PW4bOBbpzUDAo_aa4mIgHUlqaWblf6-MlrWOWiy8EuY)**
 
@@ -481,7 +481,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Team Grimoire - RougokuSTRIP (Grimoire crossbreed rmx) (\[Shana Lesus\]) \[Magic exists \[HD\]\]](https://osu.ppy.sh/beatmapsets/490717#mania/1086583)**
 
-#### Group Stage
+#### Group stage
 
 **[Download the mappack here! (60 MB)](https://mega.nz/file/ru5U3IqT#hztvj_5094USPpitDdW31ubW2tSHeGC-363sEl7jf_8)**
 
@@ -654,7 +654,7 @@ Sunday, 31 May 2020:
 | woahsia ![][flag_SG] | 1 | **4** | ![][flag_FR] **xelied** | [#1](https://osu.ppy.sh/community/matches/62341651) |
 | Haadez ![][flag_FI] | 0 | **4** | ![][flag_DE] **cakeboss05** | [#1](https://osu.ppy.sh/community/matches/62343538) |
 
-#### Group Stage
+#### Group stage
 
 Friday, 15 May 2020:
 
@@ -1021,7 +1021,7 @@ Sunday, 31 May 2020:
 | **BubbleTeaBunny** ![][flag_SG] | **4** | 2 | ![][flag_PL] \_demo | [#1](https://osu.ppy.sh/community/matches/62337787) |
 | SergoM4444 ![][flag_RU] | 0 | **4** | ![][flag_MX] **Ammy** | [#1](https://osu.ppy.sh/community/matches/62341834) |
 
-#### Group Stage
+#### Group stage
 
 Saturday, 16 May 2020:
 

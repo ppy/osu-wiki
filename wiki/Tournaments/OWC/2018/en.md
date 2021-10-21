@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2018 logo](img/logo.jpg)
 
-The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the ninth installment of the osu! World Cup.
+The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the ninth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament
 | --: | :-- |
 | Registration phase | 2018-10-13/2018-10-26 |
 | Live drawings | 2018-11-04 (14:00 UTC) |
-| Group Stage | 2018-11-10/2018-11-11 |
+| Group stage | 2018-11-10/2018-11-11 |
 | Round of 16 | 2018-11-17/2018-11-18 |
 | Quarterfinals | 2018-11-24/2018-11-25 |
 | Semifinals | 2018-12-01/2018-12-02 |
@@ -37,7 +37,7 @@ The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament
 
 The osu! World Cup 2018 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/578943) |
@@ -89,9 +89,11 @@ The osu! World Cup 2018 was run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/users/5182050)**, [Doomsday](https://osu.ppy.sh/users/18983), [Jameslike](https://osu.ppy.sh/users/2415743), [Karthy](https://osu.ppy.sh/users/4196808), [MoeYandere](https://osu.ppy.sh/users/2565902), [OPJames](https://osu.ppy.sh/users/4117142), [SoraRoxas01](https://osu.ppy.sh/users/1986262), [Spare](https://osu.ppy.sh/users/2204373) |
 | ![][flag_US] | **United States** | **[Apraxia](https://osu.ppy.sh/users/4194445)**, [DigitalHypno](https://osu.ppy.sh/users/4384207), [fieryrage](https://osu.ppy.sh/users/3533958), [he rack](https://osu.ppy.sh/users/2644828), [idke](https://osu.ppy.sh/users/4650315), [Monko2k](https://osu.ppy.sh/users/4852013), [Toy](https://osu.ppy.sh/users/2757689), [Vaxei](https://osu.ppy.sh/users/4787150) |
 
-![OWC 2018 podium](img/podium.jpg)
+![](img/bracket.jpg "OWC 2018 bracket")
 
-![OWC 2018 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "OWC 2018 podium")
 
 ## Mappools
 
@@ -238,7 +240,7 @@ The osu! World Cup 2018 was run by various community members.
 - Tiebreaker
   - **[Dark PHOENiX - Ryokugan no Jealousy \(EvilElvis\) \[Monster with Green Eyes\]](https://osu.ppy.sh/beatmapsets/382455#osu/836339)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (91 MB)](https://mega.nz/#!qLphFAoZ!eXLEe01i9mnPHqi5ebqGcSVQkK6nCqha8krm3MdhlXA)**
 
@@ -355,7 +357,7 @@ Sunday, 18 November 2018:
 | **United Kingdom** ![][flag_GB] | **6** | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/47518299) |
 | Russian Federation ![][flag_RU] | 3 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/47521221) |
 
-### Group Stage
+### Group stage
 
 Saturday, 10 November 2018:
 
@@ -472,7 +474,9 @@ Sunday, 11 November 2018:
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change depending on how many teams are accepted into the competition at the end.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
@@ -481,10 +485,14 @@ Sunday, 11 November 2018:
    - In the event of a triple tie:
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
@@ -492,6 +500,7 @@ Sunday, 11 November 2018:
    | Semifinals | M, N & V, W, X, Y, Z, AA |
    | Finals | O & AB, AC, AD |
    | Grand Finals | AE, P, Q |
+
 7. **Winning conditions:**
    - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
    - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
@@ -505,9 +514,9 @@ Sunday, 11 November 2018:
 2. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited. All beatmaps must be osu! specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker beatmap must be played.
 7. Results of the Group Stage will be published via a Statistics sheet.

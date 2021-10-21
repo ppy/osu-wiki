@@ -8,11 +8,11 @@ tags:
 
 # Health
 
-**Health** atau *HP*, adalah nilai yang ditentukan jika seorang pemain menyelesaikan atau gagal dalam sebuah [beatmap](/wiki/Beatmaps). Health dapat dilihat di dalam [health bar](/wiki/Glossary/Health_bar), yang diperbarui selama gameplay. Pengaturan kesulitan [HP drain rate](/wiki/Beatmapping/HP_drain_rate) menentukan seberapa susah untuk menjaga nilai health agar tetap tinggi. 
+**Health** atau *HP*, adalah nilai yang ditentukan jika seorang pemain menyelesaikan atau gagal dalam sebuah [beatmap](/wiki/Beatmap). Health dapat dilihat di dalam [health bar](/wiki/Glossary/Health_bar), yang diperbarui selama gameplay. Pengaturan kesulitan [HP drain rate](/wiki/Beatmapping/HP_drain_rate) menentukan seberapa susah untuk menjaga nilai health agar tetap tinggi. 
 
-## osu!standard
+## osu!
 
-Di [osu!standard](/wiki/Game_mode/osu!), health akan menurun dan itu disebut sebagai [health drain](/wiki/Beatmapping/Health_drain), tapi dapat dinaikkan ketika menekan not dengan benar dan memiliki akurasi yang sangat bagus.
+Di [osu!](/wiki/Game_mode/osu!), health akan menurun dan itu disebut sebagai [health drain](/wiki/Beatmapping/Health_drain), tapi dapat dinaikkan ketika menekan not dengan benar dan memiliki akurasi yang sangat bagus.
 
 Score burst akan muncul setelah menekan hit circle, mengganti skor dan nilai health tergantung dari akurasi hit itu sendiri. Hit yang sempurna (300) akan memulihkan lebih banyak health daripada Hit yang jelek (50). Pemain juga menerima tambahan besar health ketika mendapatkan katu atau geki pada kombo terakhir. Sebuah miss akan menguras health. Jika spinner diselesaikan, bersamaan dengan spin akan mendapatkan tambahan health. Untuk melihat gambaran pemulihan health dan kehilangan health, silahkan lihat:
 
@@ -84,7 +84,7 @@ Tidak berefek:
 
 Di [osu!mania](/wiki/Game_mode/osu!mania), hanya hit object yang memberikan efek, karena [health drain](/wiki/Beatmapping/Health_drain) dimatikan.
 
-Score burst akan muncul setelah menekan not, mengganti skor dan nilai health tergantung dari akurasi hit itu sendiri. Hit yang sempurna (300) akan memulihkan banyak health daripada Hit yang buruk (50). Pemain juga mendapatkan tambahan besar jika mereka menerima katu atau geki saat kombo terakhir. Kehilangan not akan menguras health. Health bar memulih ketika menekan not. Untuk gambaran tentang pemulihan health dan kehilangan health, silahkan lihat:
+Score burst akan muncul setelah menekan not, mengganti skor dan nilai health tergantung dari akurasi hit itu sendiri. Hit yang sempurna (300) akan memulihkan banyak health daripada Hit yang buruk (50). Kehilangan not akan menguras health. Health bar memulih ketika menekan not. Untuk gambaran tentang pemulihan health dan kehilangan health, silahkan lihat:
 
 Pemulihan Health:
 

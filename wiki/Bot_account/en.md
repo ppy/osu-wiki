@@ -15,7 +15,7 @@ Bot accounts can only be created via an [application process](#creating-a-bot-ac
 
 ## Benefits of bot accounts
 
-The main difference between personal accounts and bot accounts is in the rate limits that apply to them when sending [chat](/wiki/Chat_Console) messages. Bot accounts have higher limits to allow their services to interact with more users without risk of having the account [silenced](/wiki/Glossary#silence):
+The main difference between personal accounts and bot accounts is in the rate limits that apply to them when sending [chat](/wiki/Chat_Console) messages. Bot accounts have higher limits to allow their services to interact with more users without risk of having the account [silenced](/wiki/Silence):
 
 - Personal accounts can send 10 messages every 5 seconds
 - Bot accounts can send 300 messages every 60 seconds
@@ -51,7 +51,7 @@ The body of the email should contain the following:
 - A link to the source code and documentation
 - A short summary of what your bot does
 
-The account support team will review your request. If your request is denied, they will let you know why. If your request is approved, they will create the bot account for you and give you follow-up instructions about how to use it.
+The [account support team](/wiki/People/The_Team/Account_support_team) will review your request. If your request is denied, they will let you know why. If your request is approved, they will create the bot account for you and give you follow-up instructions about how to use it.
 
 <!-- TODO: history section would be nice, talking about LogBot, BanchoBot, the phpbb crawler accounts, the first user-run bots, Quality Assurance Team, osu!team, ... -->
 

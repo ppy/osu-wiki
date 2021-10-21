@@ -4,7 +4,7 @@ outdated: true
 
 # Configurações Visuais
 
-![](img/visual-settings.jpg "Exemplo de Configurações Visuais")
+![](img/visual-settings-PT-BR.jpg "Exemplo de Configurações Visuais")
 
 - Configurações Visuais fica na parte de baixo da tela durante alguns segundos **antes** do início do beatmap. Deixar o painel aberto atrasa o começo do beatmap até que o seu ponteiro saia dele.
   - Você pode pausar o jogo para abrir as Configurações Visuais (embora isso não funcione no [Multi](/wiki/Multi)).

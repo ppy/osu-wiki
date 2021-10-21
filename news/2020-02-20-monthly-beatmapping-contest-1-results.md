@@ -38,7 +38,7 @@ Like the runner-up, Altai has earned a month of supporter and is halfway to the 
 
 In addition to these winners, every participant has received a message showing how the screening crew viewed their entry. We hope that in the coming months, some of them could be winners too!
 
-## <a id="rewards"></a>Rewards
+## Rewards
 
 As per feedback received on the initial [Monthly Beatmapping Contests Return news post](https://osu.ppy.sh/home/news/2020-01-05-monthly-beatmapping-contests-return), we've adjusted prize thresholds to be more in line with other beatmapping contests!
 

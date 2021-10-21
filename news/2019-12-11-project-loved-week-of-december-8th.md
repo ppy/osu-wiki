@@ -20,12 +20,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [Bubbleman](https://osu.ppy.sh/users/5182050) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -76,7 +76,7 @@ When it comes to "final bosses" of jump maps, what comes to mind for you? If thi
 
 If you're one for alternating maps and cute songs, get ready to add this map to your favourites—if it's not already there! This is a 6-star alternating map of an adorable 5-minute song that's 136 BPM. There are plenty of flowy patterns, as well as a few cut streams and other unique stream shapes to keep you on your toes throughout the whole map. If the 280+ favourites can't sell you on this map, take my word that you should definitely give this map a try!
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861) and [jyake](https://osu.ppy.sh/users/9099822)!
 
@@ -98,7 +98,7 @@ As one of his most popular maps, we bring *psychology* mapped by Shallty, a Touh
 
 I often feel like many mappers, including myself, want to pack as much diverse content as we can into our maps. Mappers may add many different skill sets and variations of SV, but this doesn't always fit together in a single chart naturally. But in this pick, cdhsausageboy accomplishes this task brilliantly. Achieving variation through colorful BPM gimmicks, use of diverse 1/6 patterns and fluctuating SV, this map is like a buffet of fun—all packed into just 2 and a half minutes. Give this map a try! There's just so much to appreciate—even the song is a pleasure to listen to!
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941) and [Wesley](https://osu.ppy.sh/users/2407265)!
 
@@ -120,7 +120,7 @@ To start off, *Sound Chimera*, what a banger. It is mapped by SharpN who is by n
 
 Today I'm introducing Yumeno Himiko, one of our captains himself, to the Loved section for the first time! Yumeno has been in the mapping business for a very long time by now, being the most active Chinese mapper there is, but some of his older maps have been forgotten over time despite how fun they are. *Trail of Dust* is a good example, being a very satisfying map to play. The map mostly consists of low-intensity jumps and a bunch of 1/4 streams consistently all throughout the map. It perfectly fits *TRakker*'s song and simply said feels very natural. The guitar solo does up the difficulty a bit, as the streams become a tad bit longer and the jumps somewhat more intense, but not to a degree that makes them feel out of place within the map. The general difficulty of the map can be placed around mid to high end level, meaning most players have a fair shot at playing this map. It is also very playable with mods such as HardRock and Hidden for those who do not find the map challenging enough by itself. In any case, almost everyone should be able to enjoy this map, so clean that trail of dust off your keyboard and get going!
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [lenpai](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

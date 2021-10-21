@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2016 logo](img/logo.jpg)
 
-The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh installment of the osu! World Cup.
+The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament
 | --: | :-- |
 | Registration phase | 2016-10-02/2016-10-16 |
 | Live drawings | 2016-11-04 (12:00 UTC) |
-| Group Stage | 2016-11-12/2016-11-13 |
+| Group stage | 2016-11-12/2016-11-13 |
 | Round of 16 | 2016-11-19 |
 | Quarterfinals | 2016-11-26 |
 | Semifinals | 2016-12-03/2016-12-04 |
@@ -37,7 +37,7 @@ The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament
 
 The osu! World Cup 2016 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- |:-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ![][flag_JP] [Asahina Momoko](https://osu.ppy.sh/users/3650145), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405), ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) |
@@ -101,9 +101,11 @@ The osu! World Cup 2016 was run by various community members.
 | **G** | ![][flag_KR] South Korea | ![][flag_RU] Russian Federation | ![][flag_NL] Netherlands | ![][flag_ID] Indonesia |
 | **H** | ![][flag_GB] United Kingdom | ![][flag_BR] Brazil | ![][flag_HK] Hong Kong | ![][flag_SE] Sweden |
 
-![OWC 2016 podium](img/podium.jpg)
+![](img/bracket.jpg "OWC 2016 bracket")
 
-![OWC 2016 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "OWC 2016 podium")
 
 ## Mappools
 
@@ -217,7 +219,7 @@ The osu! World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[Camellia - d:for the DELTA (ProfessionalBox) \[Delirium\]](https://osu.ppy.sh/beatmapsets/396370#osu/862338)**
 
-### Group Stage
+### Group stage
 
 [Download the mappack here! (153 MB)](https://www.mediafire.com/file/13glkdv1zbyxfpp/OWC_2016_Group_Stage.rar)
 
@@ -264,7 +266,7 @@ Saturday, 10 December 2016:
 | **United States** ![][flag_US] | **6** | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/29524076) |
 | **United Kingdom** ![][flag_GB] | **6** | 4 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/29530355) |
 | Germany ![][flag_DE] | 2 | **6** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/29531576) |
-| **China** ![][flag_CN] | **4** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/29533696) |
+| **China** ![][flag_CN] | **6** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/29533696) |
 
 Sunday, 11 December 2016:
 
@@ -283,7 +285,7 @@ Saturday, 3 December 2016:
 | Finland ![][flag_FI] | 0 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/29383842) |
 | **United States** ![][flag_US] | **6** | 4 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/29385744) |
 | **United Kingdom** ![][flag_GB] | **6** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/29388879) |
-| Canada ![][flag_CA] | 0 | **6** | ![][flag_BR] **Poland** | [#1](https://osu.ppy.sh/community/matches/29391121) |
+| Canada ![][flag_CA] | 0 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/29391121) |
 
 Sunday, 4 December 2016:
 
@@ -322,7 +324,7 @@ Saturday, 19 November 2016:
 | Canada ![][flag_CA] | 1 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29105450) |
 | **United States** ![][flag_US] | **5** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/29106903) |
 
-### Group Stage
+### Group stage
 
 Saturday, 12 November 2016:
 
@@ -344,13 +346,13 @@ Saturday, 12 November 2016:
 | **Poland** ![][flag_PL] | **4** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/28955012) |
 | **Taiwan** ![][flag_TW] | **4** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/28955025) |
 | Austria ![][flag_AT] | 2 | **4** | ![][flag_DK] **Denmark** | [#1](https://osu.ppy.sh/community/matches/28955030) |
-| **Brazil** ![][flag_AT] | **4** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/28955037) |
+| **Brazil** ![][flag_BR] | **4** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/28955037) |
 | **Germany** ![][flag_DE] | **4** | 1 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/28961703) |
 | **Canada** ![][flag_CA] | **4** | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/28961705) |
 | **United Kingdom** ![][flag_GB] | **4** | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/28961706) |
 | **Poland** ![][flag_PL] | **4** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/28962677) |
 | **United States** ![][flag_US] | **4** | 3 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/28962678) |
-| **Norway** ![][flag_US] | **4** | 1 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/28962679) |
+| **Norway** ![][flag_NO] | **4** | 1 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/28962679) |
 | Mexico ![][flag_MX] | 2 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/28964826) |
 | **United Kingdom** ![][flag_GB] | **4** | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/28964827) |
 
@@ -439,24 +441,30 @@ Sunday, 13 November 2016:
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change according to the final amount of formed teams.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
    - Most maps won.
    - Have higher `∑{(total score difference) / (maximum score)}`.
    - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | :-- | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
    | Quarterfinals | I, J, K, L & R, S, T, U |
    | Semifinals | M, N & V, W, X, Y, Z, AA |
-   | Finals - Week 1 | O & AB, AC, AD, AE |
-   | Finals - Week 2 | P, Q |
+   | Finals week 1 | O & AB, AC, AD, AE |
+   | Finals week 2 | P, Q |
 
 #### Winning conditions
 
@@ -473,9 +481,9 @@ Sunday, 13 November 2016:
 2. Players are free to select up to two warm-up maps. Using beatmaps with questionable or inappropriate content is prohibited.
 3. Each captain must ban one beatmap to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Results of all stages will be published via a Statistics sheet.
@@ -532,7 +540,7 @@ Sunday, 13 November 2016:
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"

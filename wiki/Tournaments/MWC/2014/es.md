@@ -39,8 +39,6 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 | Comentarios | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) // ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_IT] [Roxas](https://osu.ppy.sh/users/1041833) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) // ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) |
 | Estadísticas | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Cronograma: 7K
 
 **Viernes, 15 de Agosto de 2014**
@@ -85,17 +83,13 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 | Corea del Sur ![][flag_KR] | ![][flag_GB] Reino Unido | **9.00 (9am)** | 18.00 (6pm) UTC +9 | 10.00 (10am) UTC +1 |
 | Australia ![][flag_AU] | ![][flag_DE] Alemania | **9.00 (9am)** | 19.00 (7pm) UTC +10 | 11.00 (11am) UTC +2 |
 
----
-
 ## Links
 
-- [osu!mania 2014 en Twitch](https://www.twitch.tv/osulive/)
+- [osu!mania 2014 en Twitch](https://www.twitch.tv/osulive)
 - [Forma de Registro](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
 - [Hilo de Discusión (en inglés)](https://osu.ppy.sh/community/forums/topics/222100)
 - [Estadísticas: Grupo 4K](https://mwc.servegame.com/results/view/1)
 - [Estadísticas: Grupo 7K](https://mwc.servegame.com/results/view/2)
-
----
 
 ## Participantes
 
@@ -167,8 +161,6 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 | ![][flag_DE] Alemania | ![][flag_RU] Rusia | ![][flag_JP] Japón | ![][flag_GB] Reino Unido |
 | ![][flag_US] Estados Unidos | ![][flag_CN] China | ![][flag_FR] Francia | ![][flag_NL] Países Bajos |
 
----
-
 ## Mappools 4K
 
 ### Fase de grupos
@@ -202,8 +194,6 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
   - [Lite Show Magic - Crack traxxxx (LeiN-) \[7K INF\]](https://osu.ppy.sh/beatmapsets/123456#mania/315723)
 - Tiebreaker
   - **[FamiRockP - Oni Kanojo (Entozer) \[Insane\]](https://osu.ppy.sh/beatmapsets/65759#mania/192564)**
-
----
 
 ## Resultados de las partidas
 
@@ -252,8 +242,6 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 | ![][flag_ES] España | 0 - **4** | **Alemania** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/8459866) |
 | ![][flag_PL] **Polanda** | **4** - 2 | Francia ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/8459894) |
 
----
-
 ## Reglamento
 
 ### Reglas del Torneo
@@ -277,29 +265,29 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 14. Los incidentes inesperados están a cargo del tournament management.
 15. Se dará a conocer cualquier modificación a estas reglas.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CZ]: /wiki/shared/flag/CZ.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "República Checa"
+[flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
+[flag_ES]: /wiki/shared/flag/ES.gif "España"
+[flag_FR]: /wiki/shared/flag/FR.gif "Francia"
+[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japón"
+[flag_KR]: /wiki/shared/flag/KR.gif "Sur Corea"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malasia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
+[flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nueva Zelanda"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Federación Rusa"
+[flag_TH]: /wiki/shared/flag/TH.gif "Tailandia"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwán"
+[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"

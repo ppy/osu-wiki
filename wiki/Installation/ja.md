@@ -27,7 +27,7 @@ no_native_review: true
 
 ## ビートマップセットを追加
 
-*関連情報: [ビートマップ](/wiki/Beatmaps)*
+*関連情報: [ビートマップ](/wiki/Beatmap)*
 
 ビートマップを追加するにはウェブサイト経由と、osu!direct経由（[osu!supporter](/wiki/osu!supporter)が必要）の２つの方法があります。
 

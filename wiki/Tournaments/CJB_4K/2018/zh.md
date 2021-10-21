@@ -1,8 +1,8 @@
 ---
 tags:
-- CJB
-- CJB 2018
-- CJB2018
+  - CJB
+  - CJB 2018
+  - CJB2018
 ---
 
 # 第四届 osu!mania 4K 菜鸡杯
@@ -52,11 +52,7 @@ tags:
 - [比赛 QQ 群](https://jq.qq.com/?_wv=1027&k=5sTdKLp)
 - [Challonge](https://challonge.com/zh_CN/cjb4)
 
----
-
 ![CJB 4K 4th Podium](img/podium.jpg)
-
----
 
 ## 图池
 
@@ -312,5 +308,5 @@ tags:
 5. 两名选手交替从图池中选择比赛图：
    - 出现平局时（双方均差1分赢得比赛），选手必须使用决胜图（Tiebreaker）作为下一张比赛地图。
 
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_TW]: /wiki/shared/flag/TW.gif "台湾"

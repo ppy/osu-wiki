@@ -10,13 +10,15 @@ tags:
   - osu! 开发者
   - osu! 开发团队
   - 开发者
+outdated: true
+outdated_since: b5ffad1bde58fd33ff05bc06bb2843bc8707275e
 ---
 
 # 开发团队
 
 osu! 的开发人员通过修复 bugs 和添加新功能来保持游戏和网站的运行。他们大多数都是 ppy Pty Ltd 公司的员工。他们构成了 [osu!team](/wiki/People/The_Team) 的绝大部分。
 
-osu! 的开发人员可以通过其粉红色的用户名和 **osu!dev** 或 **osu!team** 用户标题来识别。
+osu! 的开发人员可以通过其粉红色的用户名和 **osu!dev** 或 **osu!team** 用户头衔来识别。
 
 ## 团队成员
 
@@ -39,6 +41,7 @@ osu! 的开发工作由 osu! 的创始人 ![][flag_AU] **[peppy](https://osu.ppy
 - ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102)
 - ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
+- ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454)
 
 ### 设计师
 

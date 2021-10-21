@@ -22,7 +22,7 @@ While music is frequently copyright-restricted, sound effects used for custom hi
 
 ## Visual
 
-Visual assets include a beatmap's background/storyboard/video and follow the same usage requirements as audio assets.
+Visual assets include a beatmap's [background](/wiki/Beatmap/Background)/[storyboard](/wiki/Storyboard)/video and follow the same usage requirements as audio assets.
 
 As with music, we recommend seeking out an artist's input on usage terms and to ask for permission when those terms are unclear. For example, if you're interested in using a background from an artist on pixiv, locate their profile for usage terms or send them a message asking for permission.
 
@@ -36,7 +36,7 @@ If you've received a musician's permission to use their song, their album artwor
 
 ## Gameplay
 
-When submitting a beatmap, you should have permission for gameplay-related assets such as [guest difficulties](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) or charts from other rhythm games.
+When submitting a beatmap, you should have permission for gameplay-related assets such as [guest difficulties](/wiki/Beatmap/Guest_difficulty) or charts from other rhythm games.
 
 We do not condone submissions featuring gameplay (hit objects) matching those of other games, as this is not respectful to the rhythm game community.
 

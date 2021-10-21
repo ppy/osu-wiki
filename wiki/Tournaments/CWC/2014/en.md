@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2014 logo](img/logo.png)
 
-The **osu! Catch the Beat World Cup 2014** (***CWC 2014***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third installment of the osu!catch World Cup.
+The **osu! Catch the Beat World Cup 2014** (***CWC 2014***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! Catch the Beat World Cup 2014** (***CWC 2014***) was a country-based 
 | --: | :-- |
 | Registration phase | 2014-04-11/2014-04-20 |
 | Live drawings | 2014-05-03 (14:00 UTC) |
-| Group Stage | 2014-05-17 |
+| Group stage | 2014-05-17 |
 | Round of 16 | 2014-05-24 |
 | Quarterfinals | 2014-06-01 |
 | Semifinals | 2014-06-08 |
@@ -26,9 +26,9 @@ The **osu! Catch the Beat World Cup 2014** (***CWC 2014***) was a country-based 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, osu! merchandise |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge, osu! merchandise |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge.jpg "CWC 2014 winner badge")
 
@@ -47,7 +47,7 @@ The osu! Catch the Beat World Cup 2014 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/200185)
-- [Livestream](https://www.twitch.tv/osulive/)
+- [Livestream](https://www.twitch.tv/osulive)
 - **[Statistics sheet](https://tournaments.hiroto.eu/results/view/1)**
 
 ## Participants
@@ -96,6 +96,8 @@ The osu! Catch the Beat World Cup 2014 was run by various community members.
 | ![][flag_TH] Thailand | ![][flag_CL] Chile | ![][flag_SG] Singapore | ![][flag_MY] Malaysia | ![][flag_NZ] New Zealand | ![][flag_FI] Finland | ![][flag_CA] Canada | ![][flag_UY] Uruguay |
 | ![][flag_US] United States | ![][flag_EE] Estonia | ![][flag_NO] Norway | ![][flag_JP] Japan | ![][flag_SE] Sweden | ![][flag_HR] Croatia | ![][flag_BO] Bolivia | ![][flag_ID] Indonesia |
 
+![](img/bracket.jpg "CWC 2014 bracket")
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -105,8 +107,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[Spectator](https://osu.ppy.sh/users/702598)**, [dae6254](https://osu.ppy.sh/users/563262), [Frobe](https://osu.ppy.sh/users/670365), [Kuzino](https://osu.ppy.sh/users/158552), [Last Bubble](https://osu.ppy.sh/users/1302259)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DE] **Germany** (**[DeathXHunter](https://osu.ppy.sh/users/405326)**, [NoteKuroi](https://osu.ppy.sh/users/186642), [Nyan-Zapo](https://osu.ppy.sh/users/480676)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SE] **Sweden** (**[Yukiteru Amano](https://osu.ppy.sh/users/1894511)**, [-Airi-](https://osu.ppy.sh/users/2546340), [Negri\_sk](https://osu.ppy.sh/users/2231396), [Suzuki](https://osu.ppy.sh/users/2960209), [Walterx8](https://osu.ppy.sh/users/1993041)) |
-
-![CWC 2014 bracket](img/bracket.jpg)
 
 ## Mappools
 
@@ -248,7 +248,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Susumu Hirasawa - Pacific Rim Imitation Network (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/31119#fruits/105143)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (186 MB)](https://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar)**
 
@@ -328,7 +328,7 @@ Saturday, 24 May 2014:
 | **Japan** ![][flag_JP] | **5** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/6840792) |
 | **United States** ![][flag_US] | **5** | 4 | ![][flag_UY] Uruguay | [#1](https://osu.ppy.sh/community/matches/6842138) |
 
-### Group Stage
+### Group stage
 
 Saturday, 17 May 2014:
 
@@ -436,7 +436,7 @@ Saturday, 17 May 2014:
    - Room settings are Catch the Beat, Team-Vs., Win Condition: 'Score'. Room name must be "CtB World Cup 2014: TeamBlue vs TeamRed"
    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up maps.
-3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use "!roll" once in #multiplayer to determine which team selects first.
+3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects first.
    - The captains may select maps out of the NoMod and FreeMod bracket freely.
    - Selection out of mod-specific brackets is limited. Each captain may only select one map from each mod-restricted bracket during the match.
      - Selection out of FreeMod bracket is unlimited.
@@ -494,7 +494,7 @@ Saturday, 17 May 2014:
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"

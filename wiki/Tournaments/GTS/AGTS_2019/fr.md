@@ -60,8 +60,6 @@ L'Advanced Global Taiko Showdown 2019 était organisée par plusieurs membres de
 - [Tableaux Challonge](https://challonge.com/AGTS2019)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
 
----
-
 ## Participants
 
 |  | Pays | Membres |
@@ -108,8 +106,6 @@ L'Advanced Global Taiko Showdown 2019 était organisée par plusieurs membres de
 | **E** | ![][flag_KR] Corée du Sud | ![][flag_DE] Allemagne A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavie | ![][flag_VE] Venezuela |
 | **F** | ![][flag_CA] Canada | ![][flag_GB] ![][flag_PT] Royaume-Uni/Portugal | ![][flag_ID] Indonésie A | ![][flag_ID] Indonésie B |
 
----
-
 ## Podium
 
 Cette compétition est maintenant terminée, voici le classement final:
@@ -119,8 +115,6 @@ Cette compétition est maintenant terminée, voici le classement final:
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] Japon |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] Canada |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RU] Russie A |
-
----
 
 ## Liste des maps
 
@@ -285,8 +279,6 @@ Cette compétition est maintenant terminée, voici le classement final:
 - DoubleTime
   - [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
 
----
-
 ## Résultats des matchs
 
 ### Grande Finale
@@ -383,8 +375,6 @@ Cette compétition est maintenant terminée, voici le classement final:
 | E4 | **Scandinavie** ![][flag_DK] ![][flag_NO] ![][flag_SE] | **5** | 0 | ![][flag_VE] Venezuela | -win by default- |
 | E5 | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_DE] **Allemagne A** | -win by default- |
 | D2 | **Brésil** ![][flag_BR] | **5** | 3 | ![][flag_US] États-Unis A | [#1](https://osu.ppy.sh/community/matches/54181034) |
-
----
 
 ## Règles
 
@@ -496,34 +486,34 @@ All-stars est un événement fait pour le fun, se déroulant le même week-end q
    - Il est autorisé de changer ses joueurs entre les maps sans limite aucune.
    - Les même règles pour les déconnexions s'appliquent qu'en temps normal.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
+[flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_DK]: /wiki/shared/flag/DK.gif "Danemark"
+[flag_EC]: /wiki/shared/flag/EC.gif "Equateur"
+[flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
+[flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

@@ -8,11 +8,11 @@ tags:
 
 ![multiple osu!coins](img/coins2x.png)![a single osu!coin](img/coin2x.png)
 
-The **osu!coin** was a joke, in-game currency mocking other free-to-play monetization schemes. It was introduced for April Fools, 2015, and allowed players to play a single [beatmap](/wiki/Beatmaps) in exchange for an osu!coin.
+The **osu!coin** was a joke, in-game currency mocking other free-to-play monetization schemes. It was introduced for April Fools, 2015, and allowed players to play a single [beatmap](/wiki/Beatmap) in exchange for an osu!coin.
 
 ## Release
 
-The [official release statement](https://osu.ppy.sh/home/news/2015-03-31-osucoins) explains that the osu!coin was introduced as a way to fund ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)'s private jet as the current monetization scheme wouldn't allow him to buy it in his lifetime. The statement continues, explaining that each new player would start off with 10 osu!coins, and would be given 10 more for each passing day. Existing users would get an additional two osu!coins as an added bonus. Players could then gain more osu!coins by obtaining combo<!--TODO: link to combo multiplier-->. A single osu!coin would be obtained for every 100x combo.
+The [official release statement](https://osu.ppy.sh/home/news/2015-03-31-osucoins) explains that the osu!coin was introduced as a way to fund ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)'s private jet as the current monetization scheme wouldn't allow him to buy it in his lifetime. The statement continues, explaining that each new player would start off with 10 osu!coins, and would be given 10 more for each passing day. Existing users would get an additional two osu!coins as an added bonus. Players could then gain more osu!coins by obtaining [combo](/wiki/Glossary/Combo_(score_multiplier)). A single osu!coin would be obtained for every 100x combo.
 
 When players would run out of osu!coins, they would be unable to play any beatmaps. Though they could purchase more—out of their own will—with the exchange rates:
 
@@ -34,6 +34,6 @@ The update was generally well-recevied by players as a welcome change of pace fr
 - osu!academy introduces osu!coins: [Introduction to osu!coins (April Fools' 2015)](https://www.youtube.com/watch?v=BImc5McuK1o)
 - peppy announces osu!coins: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
 
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-
 <!-- TODO: Add links and images -->
+
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"

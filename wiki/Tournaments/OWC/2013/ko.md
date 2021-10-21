@@ -46,16 +46,12 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 | 해설 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094), ![][flag_AU] [LaVolpe024](https://osu.ppy.sh/users/597796), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | 통계 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## 링크
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 - [osu! World Cup Livestream](https://www.twitch.tv/osulive)
 - [Statistics Sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)
 - [Match Schedule (Quarter-finals)](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdC1QM0hZWndxT05YX3dLdTJTSXg2WXc&usp=drive_web#gid=0)
-
----
 
 ## 참가자 명단
 
@@ -111,13 +107,9 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 | ![][flag_SG] Singapore | **Bardiche\_Z**, Alacartx, phox, Wishxrai, Theseanbei, deokoking, CloudNep, SenaAiriii |
 | ![][flag_VE] Venezuela | **MeowinTurtle**, S4suk3, CrymynaL, Baozis, Livean, Roli |
 
----
-
 ## 대진표
 
 ![OWC 2013 brackets](img/bracket.jpg)
-
----
 
 ## 비트맵 풀
 
@@ -289,8 +281,6 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 - Tiebreaker
   - **[DJ Okawari - Luv Letter (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/beatmapsets/40071#osu/127363)**
 
----
-
 ## 경기 결과
 
 ### 결승전
@@ -409,8 +399,6 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 | ![][flag_KR] **Korea** | **4** - 2 | Chile ![][flag_CL] | [#1](https://osu.ppy.sh/community/matches/2662493) |
 | ![][flag_AU] Australia | 1 - **4** | **Brazil** ![][flag_BR] | [#1](https://osu.ppy.sh/community/matches/2767400) |
 
----
-
 ## 전체 룰
 
 ### 토너먼트 관련
@@ -471,7 +459,7 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
    3. 먼저 언급된 팀이 블루팀이며, 그 다음 언급되는 팀이 레드팀입니다.
 2. 심판은 방을 만들고 즉각 퇴장하며, 이후 멀티 관전용 계정으로 경기를 관전합니다.
 3. 선수들은 자유롭게 연습용 맵을 고를 수 있습니다.
-4. 맵은 번갈아가면서 선곡하되, 각 주장은 방에서 적어도 한번은 "!roll" 을 사용하여 어느 팀이 먼저 선곡할지 정해야 합니다.
+4. 맵은 번갈아가면서 선곡하되, 각 주장은 방에서 적어도 한번은 `!roll` 을 사용하여 어느 팀이 먼저 선곡할지 정해야 합니다.
    1. 논모드용 맵은 자유롭게 고를 수 있습니다.
    2. 모드맵 선곡에는 제한이 있습니다. 각 팀의 주장은 한 모드당 한 맵만을 선곡할 수 있습니다.
    3. 동점의 경우에는 타이브레이커 맵을 플레이 해야 합니다.

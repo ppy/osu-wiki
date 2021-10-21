@@ -16,12 +16,12 @@ Today we'll be going over Mappers' Guild development, finished quests, featured 
 
 ### Navigation
 
-- [Mappers' Guild system updates](#mappers-guild-system-updates)
+- [Mappers' Guild system updates](#mappers'-guild-system-updates)
 - [Finished quests](#finished-quests)
-- [Pack and medal updates](#pack-medal-updates)
+- [Pack and medal updates](#pack-and-medal-updates)
 - [Ranked map updates](#ranked-map-updates)
 
-## <a id="mappers-guild-system-updates"></a>Mappers' Guild system updates
+## Mappers' Guild system updates
 
 Recently there has been quite a few developments in the Mappers' Guild system, as part of regular rebalancing and improving guild productivity!
 
@@ -34,7 +34,7 @@ Recently there has been quite a few developments in the Mappers' Guild system, a
 
 A lot of the specific values for the points systems are still being worked on, so if you're a guild member and find it doesn't feel right, such as being too harsh or lenient, be sure to forward your feedback to [pishifat](https://osu.ppy.sh/users/3178418)!
 
-## <a id="finished-quests"></a>Finished quests
+## Finished quests
 
 ![Aether Realm header](https://assets.ppy.sh/artists/47/header.jpg)
 
@@ -281,7 +281,7 @@ This quest was completed by **[PandaHero](https://osu.ppy.sh/users/1233255)**, *
 - [onumi - CONFUSION PART ONE](https://osu.ppy.sh/beatmapsets/1037665) hosted by [Leader](https://osu.ppy.sh/users/631530)
 - [onumi - DESIRE](https://osu.ppy.sh/beatmapsets/1043754) hosted by [Hectic](https://osu.ppy.sh/users/6885942)
 
-## <a id="pack-medal-updates"></a>Pack and medal updates
+## Pack and medal updates
 
 We are pleased to bring you a whole slew of packs and medals! Both new and old packs for featured artist beatmaps have received medals which you can find on your profile and unlock **now**!
 
@@ -301,17 +301,17 @@ If that's not enough to convince you yet, behold their shininess below:
 
 ![hyun medal](https://assets.ppy.sh/medals/web/all-packs-hyun.png)![ICDD medal](https://assets.ppy.sh/medals/web/all-packs-icdd.png)![tieff medal](https://assets.ppy.sh/medals/web/all-packs-tieff.png)![afterparty medal](https://assets.ppy.sh/medals/web/all-packs-afterparty.png)![ben briggs medal](https://assets.ppy.sh/medals/web/all-packs-benbriggs.png)![carpool tunnel medal](https://assets.ppy.sh/medals/web/all-packs-carpooltunnel.png)![creo medal](https://assets.ppy.sh/medals/web/all-packs-creo.png)![cysmix medal](https://assets.ppy.sh/medals/web/all-packs-cysmix.png)![fractal dreamers medal](https://assets.ppy.sh/medals/web/all-packs-fractaldreamers.png)![lukhash medal](https://assets.ppy.sh/medals/web/all-packs-lukhash.png)![namirin medal](https://assets.ppy.sh/medals/web/all-packs-namirin.png)![onumi medal](https://assets.ppy.sh/medals/web/all-packs-onumi.png)![the flashbulb medal](https://assets.ppy.sh/medals/web/all-packs-theflashbulb.png)![undead corporation medal](https://assets.ppy.sh/medals/web/all-packs-undeadcorporation.png)![wisp x medal](https://assets.ppy.sh/medals/web/all-packs-wispx.png)![mappers guild IV medal](https://assets.ppy.sh/medals/web/all-packs-mappersguild-04.png)
 
-## <a id="ranked-map-updates"></a>Ranked map updates
+## Ranked map updates
 
 This list includes all of the very many beatmaps of featured artist tracks ranked since the previous newspost, even those mentioned previously in the quests section above. Non-guild beatmaps in this section will be marked with an asterisk \*.
 
-- **[osu!](#osu)**
-- **[osu!taiko](#taiko)**
-- **[osu!catch](#catch)**
-- **[osu!mania](#mania)**
-- **[Hybrid mapsets](#hybrid)**
+- **[osu!](#osu!)**
+- **[osu!taiko](#osu!taiko)**
+- **[osu!catch](#osu!catch)**
+- **[osu!mania](#osu!mania)**
+- **[Hybrid mapsets](#hybrid-mapsets)**
 
-## <a id="osu"></a>osu!
+## osu!
 
 - [Becky - Less Than Three (Ricardo Autobahn Remix)](https://osu.ppy.sh/beatmapsets/1078502) by [Sonnyc](https://osu.ppy.sh/users/11771)
 - [Camellia - [diffraction]](https://osu.ppy.sh/beatmapsets/851430) hosted by [PoNo](https://osu.ppy.sh/users/4610047)
@@ -389,7 +389,7 @@ This list includes all of the very many beatmaps of featured artist tracks ranke
 - [Wisp X - Hibiscus](https://osu.ppy.sh/beatmapsets/1040161) by [Aeril](https://osu.ppy.sh/users/4334976)
 - [Wisp X - Melon Soda](https://osu.ppy.sh/beatmapsets/1033247) hosted by [bor](https://osu.ppy.sh/users/4116573)
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 - [\*namirin - Mizutamari Tobikoete (with Nanahira)](https://osu.ppy.sh/beatmapsets/1095727) by [Hivie](https://osu.ppy.sh/users/14102976)
 - [Aether Realm - Tarot](https://osu.ppy.sh/beatmapsets/1030740) by [Raiden](https://osu.ppy.sh/users/2239480)
@@ -439,7 +439,7 @@ This list includes all of the very many beatmaps of featured artist tracks ranke
 - [sakuraburst - GLACIERFALL](https://osu.ppy.sh/beatmapsets/1060449) hosted by [Cychloryn](https://osu.ppy.sh/users/6921736)
 - [Thaehan - Help](https://osu.ppy.sh/beatmapsets/887013) hosted by [incandescence](https://osu.ppy.sh/users/6256027)
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 - [Blue Stahli - Suit Up](https://osu.ppy.sh/beatmapsets/1061425/) by [MBomb](https://osu.ppy.sh/users/3071175)
 - [Blue Stahli and Nyzze Nyce - Run The Track](https://osu.ppy.sh/beatmapsets/1071229) hosted by [Sinnoh](https://osu.ppy.sh/users/4236057)
@@ -459,7 +459,7 @@ This list includes all of the very many beatmaps of featured artist tracks ranke
 - [Ricky Montgomery - Snow](https://osu.ppy.sh/beatmapsets/1083491) by [-Joni-](https://osu.ppy.sh/users/9988837)
 - [UNDEAD CORPORATION - Yume](https://osu.ppy.sh/beatmapsets/1091149) by [Daletto](https://osu.ppy.sh/users/7592136)
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 - [BilliumMoto - life flashes before weeb eyes](https://osu.ppy.sh/beatmapsets/985172) hosted by [Unpredictable](https://osu.ppy.sh/users/7560872)
 - [Camellia - FM Synthesis Experiment](https://osu.ppy.sh/beatmapsets/914341) by [Curiossity](https://osu.ppy.sh/users/6490035) \*
@@ -476,7 +476,7 @@ This list includes all of the very many beatmaps of featured artist tracks ranke
 - [Panda Eyes & Teminite - Highscore](https://osu.ppy.sh/beatmapsets/1079712) by [Leniane](https://osu.ppy.sh/users/7138602)
 - [Ricky Montgomery - This December](https://osu.ppy.sh/beatmapsets/1067499) by [Feerum](https://osu.ppy.sh/users/4815717)
 
-## <a id="hybrid"></a>Hybrid mapsets
+## Hybrid mapsets
 
 - [Billain & Vorso - Transhumanist](https://osu.ppy.sh/beatmapsets/1069426) hosted by [Kamuy](https://osu.ppy.sh/users/7439226) \*
 - [Camellia - Light it up](https://osu.ppy.sh/beatmapsets/983900) hosted by [Daycore](https://osu.ppy.sh/users/5596337)

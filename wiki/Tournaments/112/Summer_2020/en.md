@@ -1,15 +1,15 @@
 ---
 tags:
-- 112servis
-- 112ST
-- 112ST2020
+  - 112servis
+  - 112ST
+  - 112ST2020
 ---
 
 # 112's Summer Tournament 2020
 
-![112ST2020 banner](img/banner.png "112's Summer Tournament 2020")
+![112ST2020 banner](img/banner.png)
 
-The **112's Summer Tournament 2020** (***112ST2020***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. It was the sixth installment of 112's Tournaments series.
+The **112's Summer Tournament 2020** (***112ST2020***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. It was the sixth instalment of 112's Tournaments series.
 
 ## Tournament schedule
 
@@ -28,11 +28,11 @@ The **112's Summer Tournament 2020** (***112ST2020***) was a double-elimination 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
-![112ST2020 winner badge](img/badge.png "112's Summer Tournament 2020 winner badge")
+![](img/badge.png "112ST2020 winner badge")
 
 ## Organisation
 
@@ -41,7 +41,7 @@ The 112's Summer Tournament 2020 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Map selector | ![][flag_TR] [-Kemsyt](https://osu.ppy.sh/users/3170401), ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_CA] [Clara\_uwu](https://osu.ppy.sh/users/10257493), ![][flag_TR] [Cyberia950](https://osu.ppy.sh/users/9143539), ![][flag_CA] [dqwed](https://osu.ppy.sh/users/9977100), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311) |
+| Mappool selector | ![][flag_TR] [-Kemsyt](https://osu.ppy.sh/users/3170401), ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_CA] [Clara\_uwu](https://osu.ppy.sh/users/10257493), ![][flag_TR] [Cyberia950](https://osu.ppy.sh/users/9143539), ![][flag_CA] [dqwed](https://osu.ppy.sh/users/9977100), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311) |
 | Referee | ![][flag_TR] [-Kemsyt](https://osu.ppy.sh/users/3170401), ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Coderbora](https://osu.ppy.sh/users/11873333), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311), ![][flag_TR] [Fanduil](https://osu.ppy.sh/users/6118485), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852), ![][flag_TR] [Tsuda-](https://osu.ppy.sh/users/6713666) |
 | Streamer | ![][flag_TR] [Cynesta](https://osu.ppy.sh/users/8674027), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
 | Commentator | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Coderbora](https://osu.ppy.sh/users/11873333), ![][flag_TR] [Cynesta](https://osu.ppy.sh/users/8674027), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
@@ -93,7 +93,7 @@ The 112's Summer Tournament 2020 was run by various community members.
 
 ## Podium
 
-![112ST2020 podium](img/podium.png "112's Summer Tournament podium")
+![](img/podium.png "112ST2020 podium")
 
 ## Mappools
 
@@ -453,7 +453,7 @@ Tuesday, 25 August 2020
 
 ### Tournament rules
 
-1. 112’s Summer Tournament 2020 is an osu!standard tournament only allowed for Turkish-speaking players regardless of their profile flags.
+1. 112’s Summer Tournament 2020 is an osu! tournament only allowed for Turkish-speaking players regardless of their profile flags.
 2. The tournament uses a qualifier into a double elimination bracket.
 3. The format of the tournament is planned as **single-player versus** setup.
 4. Beatmap scoring is based on Score V2.
@@ -478,7 +478,7 @@ Tuesday, 25 August 2020
 2. Participants **must** join the [Discord server](https://discord.gg/g3nqqeZ) for the duration of the tournament.
    - In order to join the tournament, users should type `?register` in any channel in the server, then click the link provided by the bot in PMs. 
 3. Excluding commentators and streamers, tournament staff cannot participate in the tournament.
-4. Upon the conclusion of registration period, the list of participants will be submitted to the osu! Support Team for screening. Participants that fail the screening procedure will not be able to participate in the tournament. Please refer to [here](/wiki/osu!tourney/Prizes#tournament-screening) for more information about tournament screening.
+4. Upon the conclusion of registration period, the list of participants will be submitted to the osu! Support Team for screening. Participants that fail the screening procedure will not be able to participate in the tournament. Please refer to [here](/wiki/Tournaments/Official_support#tournament-screening) for more information about tournament screening.
 5. All players eligible to participate in the tournament will be published after the Registration period ends.
 
 ### Stage instructions

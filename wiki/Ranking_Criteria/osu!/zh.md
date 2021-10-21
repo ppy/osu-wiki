@@ -15,11 +15,11 @@ outdated_since: 2da3d3ec26261552cc7ae67298d375b939addbf3
 
 *主页面：[难度命名](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-- ![](/wiki/shared/diff/easy-s.png) Easy
-- ![](/wiki/shared/diff/normal-s.png) Normal
-- ![](/wiki/shared/diff/hard-s.png) Hard
-- ![](/wiki/shared/diff/insane-s.png) Insane
-- ![](/wiki/shared/diff/expert-s.png) Expert
+- ![](/wiki/shared/diff/easy-o.png) Easy
+- ![](/wiki/shared/diff/normal-o.png) Normal
+- ![](/wiki/shared/diff/hard-o.png) Hard
+- ![](/wiki/shared/diff/insane-o.png) Insane
+- ![](/wiki/shared/diff/expert-o.png) Expert
 
 ### 游戏术语
 
@@ -89,7 +89,7 @@ outdated_since: 2da3d3ec26261552cc7ae67298d375b939addbf3
 
 具体难度的规定和指南只适用于与它们在文中所列出位置相对应的难度，因此*不是**每个** osu! 难度都适用*。节奏相关的指南适用于 BPM180 左右的歌曲。如果你的歌曲的 BPM 比 180 快很多或者慢很多，一些数值会不一样，[缩放 BPM](/wiki/Ranking_Criteria/Scaling_BPM)中有更详细的介绍。
 
-### ![](/wiki/shared/diff/easy-s.png) Easy
+### ![](/wiki/shared/diff/easy-o.png) Easy
 
 #### 规定
 
@@ -118,7 +118,7 @@ outdated_since: 2da3d3ec26261552cc7ae67298d375b939addbf3
 - AR 应该不超过 5。
 - OD/HP 应该在 1-3 之间。
 
-### ![](/wiki/shared/diff/normal-s.png) Normal
+### ![](/wiki/shared/diff/normal-o.png) Normal
 
 #### 规定
 
@@ -156,7 +156,7 @@ outdated_since: 2da3d3ec26261552cc7ae67298d375b939addbf3
 - AR 应该在 4-6 之间。
 - OD/HP 应该在 3-5 之间。
 
-### ![](/wiki/shared/diff/hard-s.png) Hard
+### ![](/wiki/shared/diff/hard-o.png) Hard
 
 #### 规定
 
@@ -179,7 +179,7 @@ outdated_since: 2da3d3ec26261552cc7ae67298d375b939addbf3
 - OD 应该在 5-7 之间。
 - HP 应该在 4-6 之间。
 
-### ![](/wiki/shared/diff/insane-s.png) Insane
+### ![](/wiki/shared/diff/insane-o.png) Insane
 
 #### 指南
 
@@ -195,7 +195,7 @@ outdated_since: 2da3d3ec26261552cc7ae67298d375b939addbf3
 - OD 应该在 7-9 之间。
 - HP 应该在 5-8 之间。
 
-### ![](/wiki/shared/diff/expert-s.png) Expert
+### ![](/wiki/shared/diff/expert-o.png) Expert
 
 #### 指南
 

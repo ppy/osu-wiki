@@ -9,7 +9,7 @@ tags:
 
 ![TLMS:SC2 logo](img/logo.jpg)
 
-The **Taiko LMS: Shift Cup 2** (***TLMS:SC2***) was a worldwide 4v4 double-elimination osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) and ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787). Teams would gather a team of 4 (with the option of 2 back-ups) in a 4-on-4 knock-out style match. This was the second installment of the Taiko Shift Cup and part of the Taiko LMS tournaments.
+The **Taiko LMS: Shift Cup 2** (***TLMS:SC2***) was a worldwide 4v4 double-elimination osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) and ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787). Teams would gather a team of 4 (with the option of 2 back-ups) in a 4-on-4 knock-out style match. This was the second instalment of the Taiko Shift Cup and part of the Taiko LMS tournaments.
 
 ## Tournament schedule
 
@@ -17,7 +17,7 @@ The **Taiko LMS: Shift Cup 2** (***TLMS:SC2***) was a worldwide 4v4 double-elimi
 | --: | :-- |
 | Registration phase | 2020-03-28/2020-04-18 |
 | Live drawings | 2020-04-19 (23:00 UTC) |
-| Group Stage | 2020-04-25/2020-04-26 |
+| Group stage | 2020-04-25/2020-04-26 |
 | Round of 16 | 2020-05-02/2020-05-03 |
 | Quarterfinals | 2020-05-09/2020-05-10 |
 | Semifinals | 2020-05-16/2020-05-17 |
@@ -39,7 +39,7 @@ The Taiko LMS: Shift Cup 2 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
-| Map selector | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
+| Mappool selector | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
 | Referee | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_CL] [Catulus](https://osu.ppy.sh/users/6276709), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_SE] [Nurend](https://osu.ppy.sh/users/9905079) |
 | Streamer | ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
 | Commentator | ![][flag_US] [AuroraPhasmata](https://osu.ppy.sh/users/13664116), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_CL] [Catulus](https://osu.ppy.sh/users/6276709), ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
@@ -252,7 +252,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Dustvoxx - Disconnect Me (from saturator) (pavlukivan) \[Oni (from remus)\]](https://osu.ppy.sh/beatmapsets/1118559#taiko/2381796)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (133 MB)](https://www.dropbox.com/s/tfuiej2yios9rfi/Shift%20Cup%20Group%20Stage%20Mappack.rar?dl=1)**
 
@@ -375,7 +375,7 @@ Sunday, 3 May 2020:
 | Windjammers | 2 | **5** | **Dancing Pallbearers** | [#1](https://osu.ppy.sh/community/matches/61208921) |
 | RJ is a Furry | 0 | **5** | **ヴぇ** | [#1](https://osu.ppy.sh/community/matches/61211480) |
 
-### Group Stage
+### Group stage
 
 Saturday, 25 April 2020:
 

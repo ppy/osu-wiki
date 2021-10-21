@@ -2,9 +2,9 @@
 
 ![](/wiki/shared/contributor.jpg "Lencana kontributor")
 
-**Kontributor Komunitas** adalah orang - orang yang meluangkan waktunya untuk melayani komunitas osu! dengan pengorbanan diri mereka sendiri - alat dan fitur yang banyak dari kita anggap remeh namun berguna hingga hari ini. Pengguna ini diberi lencana sebagai bukti atas kontribusi mereka yang telah melakukan sesuatu bagi seluruh komunitas osu!.
+**Kontributor Komunitas** adalah orang-orang yang meluangkan waktunya untuk melayani komunitas osu! dengan pengorbanan diri mereka sendiri - alat dan fitur yang banyak dari kita anggap remeh namun berguna hingga hari ini. Pengguna ini diberi lencana sebagai bukti atas kontribusi mereka yang telah melakukan sesuatu bagi seluruh komunitas osu!.
 
-Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), yang merupakan anggota osu!team yang sudah pensiun, lencana Kontributor Komunitas ini diberikan kepada *freelancer* yang telah melampaui ekspektasi dan tugas yang diberikan demi meningkatkan osu! dan komunitasnya.
+Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), yang merupakan anggota tim inti osu! yang sudah pensiun, lencana Kontributor Komunitas ini diberikan kepada *freelancer* yang telah melampaui ekspektasi dan tugas yang diberikan demi meningkatkan osu! dan komunitasnya.
 
 ## 2013
 
@@ -25,7 +25,7 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 | ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Mengembangkan dan memelihara [osu!stats](https://osustats.ppy.sh/) dan sejumlah utilitas bermanfaat untuk beatmap, modding, dan game ini secara umum. |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Kontribusi luar biasa dalam perbaikan *bug*/pengujian fitur dan penanganan permintaan dukungan pengguna. |
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3+ tahun kerja tanpa henti menangani [pengemasan beatmap](https://osu.ppy.sh/beatmaps/packs) dan beberapa tahun mengelola beatmap charts. |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Pelayanan hingga bertahun - tahun, termasuk merancang skin beatmap asli versi pertama, memajukan [storyboard](/wiki/Storyboards) sebagai bentuk seni dan motivasi. |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Pelayanan hingga bertahun - tahun, termasuk merancang skin beatmap asli versi pertama, memajukan [storyboard](/wiki/Storyboard) sebagai bentuk seni dan motivasi. |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Manajemen komunitas dan moderasi di awal - awal dan kontribusi besar selama masa waktunya. |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Menjadi pengelola komunitas pertama dan moderator global, yang menetapkan standar sangat tinggi untuk diikuti [GMT](/wiki/People/The_Team/Global_Moderation_Team). |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | Menjadi pengelola staf pertama dan BATmanager dan sendirian membentuk tim moderasi beatmap elit dari nol. |
@@ -105,8 +105,8 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Kontribusi luar biasa terhadap proyek dan mengelola proyek terjemahan Cina untuk osu!, osu!wiki, dan osu!lazer |
 | ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Kontribusi luar biasa dalam pengerjaan proyek osu!lazer dan pembuatan berbagai alat media |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | Penemu PerformancePlus dan osu!chan |
-| ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Kontribusi luar biasa dalam produksi dan penerbitan Score project |
-| ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Kontribusi luar biasa dalam produksi dan penerbitan Score project |
+| ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Kontribusi luar biasa dalam produksi dan penerbitan Scorewatch project |
+| ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Kontribusi luar biasa dalam produksi dan penerbitan Scorewatch project |
 | ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Kontribusi luar biasa dalam memajukan proyek osu! wiki dengan meluangkan waktunya melakukan revisi, pengerjaan ulang berbagai artikel, dan ulasan yang tak terhitung jumlahnya |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | Fondasi utama dari proyek osu! wiki dan kontribusi luar biasa selama masa aktifnya |
 
@@ -172,6 +172,22 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Kontribusi luar biasa terhadap Mappers' Guild dan Beatmap Nominators |
 | ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835) | Kontribusi luar biasa terhadap proyek osu! yang bersifat *open source* |
 
+## 2021
+
+### Maret
+
+*Untuk posting berita terkait, lihat: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+
+| Pengguna | Kontribusi |
+| :-- | :-- |
+| ![][flag_DE] [Hallowatcher](https://osu.ppy.sh/users/1874761) | Kontribusi luar biasa terhadap acara-acara komunitas dan pengembangan |
+| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Kontribusi luar biasa terhadap World Cups dan acara-acara komunitas |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Kontribusi luar biasa terhadap taraf mapping dan modding |
+| ![][flag_PL] [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Kontribusi luar biasa terhadap pengembangan osu! melalui banyak proyek |
+| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Kontribusi luar biasa terhadap taraf skin osu! dan moderasi |
+| ![][flag_US] [I Must Decrease](https://osu.ppy.sh/users/2773526) | Kontribusi luar biasa terhadap pemeliharaan skor dan pengembangan |
+| ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189) | Kontribusi luar biasa terhadap World Cups dan taraf turnamen komunitas |
+
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
@@ -181,7 +197,7 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Swiss"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_CN]: /wiki/shared/flag/CN.gif "Cina"
+[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
@@ -198,7 +214,7 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Selandia Baru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
-[flag_RU]: /wiki/shared/flag/RU.gif "Federasi Rusia"
+[flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
 [flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

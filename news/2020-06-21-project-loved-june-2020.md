@@ -10,12 +10,12 @@ It's the time of the month once again for some new maps to hit the Loved section
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207) and [waywern2012](https://osu.ppy.sh/users/5870453)! This round, all osu!standard beatmap descriptions were written by [DigitalHypno](https://osu.ppy.sh/users/4384207).
 
@@ -76,7 +76,7 @@ It's hard to find quality maps that challenge you with symmetrical patterns the 
 
 *MC Mental at His Best* stands out as one of the most long-standing mapsets that has spread lighthearted joy among players ever since its submission in 2016. With over 240 favourites already on the mapset, Bullhax's mapset of this silly 176 BPM song features three completed difficulties between 5 and 6 stars. The maps themselves feature a mix of jumps, streams, and finger control, so it's the ultimate mapset to train different skills while simultaneously challenging the ultimate MC Mental.
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [jyake](https://osu.ppy.sh/users/9099822) and [-Kazu-](https://osu.ppy.sh/users/920861)!
 
@@ -116,7 +116,7 @@ Terminal 11's *Adcar* is an incredibly hectic song with an indescribable feeling
 
 Hopefully, with this addition to the Loved section, we will continue to see incredible scores being made on the leaderboards!
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -159,7 +159,7 @@ The \[Salad\] difficulty is *not* being nominated for Loved.
 
 Spectator and Minato Yukina have always been good pals in collaborating on awesome osu!catch maps. As two of the best catch mappers, their productions are always high quality, and *No Poi!* is no exception. This map is pretty relaxing and enjoyable with solid mapping styles as well as the awesome hitsounds, and the flows are just as good as other delightful maps created by these two mappers. *Is the Order a Rabbit? BLOOM* is also going to be on air soon, so stay tuned for the cute anime girls and enjoy the GochiUsa maps!
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976576), [Abraxos](https://osu.ppy.sh/users/5025064), [lenpai](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

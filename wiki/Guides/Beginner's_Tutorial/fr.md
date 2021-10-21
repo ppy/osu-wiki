@@ -1,122 +1,118 @@
----
-no_native_review: true
----
+# Tutoriel pour débutants
 
-# Débutant
+Bienvenue dans le tutoriel pour débutants d'osu! Le monde d'osu! peut parfois être un endroit très compétitif. Que vous soyez à la recherche d'un coup de pouce supplémentaire pour faire décoller votre carrière, que vous souhaitiez être compétitif dans osu! ou que vous souhaitiez simplement vous améliorer pour mieux apprécier le jeu, ce guide est fait pour vous ! Ce guide couvrira tout ce dont vous avez besoin pour décoller et vous élever dans le monde d'osu!
 
-Bienvenue dans le tutoriel osu! pour les débutants. Le monde d’osu! peut être parfois être un endroit compétitif. Que vous cherchiez un moyen de faire décoller votre carrière, vouloir faire de la compétition avec osu!, ou simplement espérer être meilleur pour mieux vous amuser sur le jeu, cela dépend de vous ! Ce guide va vous expliquer tout ce dont vous avez besoin et monter en flèche autour du monde d'osu!.
+## Types d'entrées
 
-## Types d’Input
+*Page principale : [Styles de jeu](/wiki/Play_style)*
 
-*Page principale : [Styles de jeu](/wiki/Play_Styles)*
+Par défaut, beaucoup de joueurs commenceront par utiliser la souris, car c'est de loin l'outil de visée le plus rapide. Mais il existe en fait plusieurs moyens d'entrée pour contrôler le curseur et faire apparaître les cercles :
 
-Par défaut, beaucoup de joueurs commencent à jouer avec la souris, comme c’est le premier outil mis à disposition. Mais il y a plusieurs types d’input pour contrôler le curseur et cliquer sur les cercles :
+- La souris
+- La tablette
+- Un écran tactile
+- Les Clics du clavier
 
-- Souris
-- Tablette
-- Ecran tactile
-- Cliquer sur le clavier
+Il existe d'autres moyens de contrôler le curseur (Wiimote, capteur de mouvement, etc.), mais dans le cadre de ce guide, nous nous concentrerons sur les quatre points mentionnés.
 
-Il y a d’autres moyens de contrôler le curseur (Wiimote, capteur de mouvement, etc.) mais pour l’objectif de ce guide, nous nous concentrerons sur les quatre points précédents.
+### Jouer avec une souris
 
-### Jouer à la souris
+Si vous comptez vous en tenir à l'utilisation de la souris, il est suggéré de prendre une souris avec un cordon pour plus de stabilité, car les souris sans fil peuvent se déconnecter ou avoir de la latence. Mais n'importe quelle souris peut faire l'affaire ; certaines personnes utilisent des souris provenant d'un magasin à un dollar ! Il est également utile de continuer à utiliser la même souris pendant longtemps, alors essayez d'en acheter une qui vous durera un bon moment ! Le jeu à la souris a tendance à exceller :
 
-Si vous vous en tenez à utiliser la souris, il est suggéré d’avoir une souris filaire pour la stabilité, comme les souris sans fils peuvent être déconnectées. N’importe quelle souris fonctionne correctement, certaines personnes utilisent des souris payées un dollar !  Cela aide d’utiliser la même souris longtemps, essayez et ayez une souris qui va durer un bon moment ! Jouer à la souris a tendance à exceller dans :
+- Sur les jumps, notamment dans des angles droits ou des droites.
+- Sur la stabilité et la visée, ce qui permet de cliquer plus facilement sur des cercles "plus petits".
 
-- Faire des jumps, surtout dans les bons angles et les angles droits.
-- La stabilité et l’aim, c’est plus facile de cliquer sur des cercles “plus petits”.
+Le jeu à la souris a tendance à se battre avec :
 
-Jouer à la souris a tendance à être difficile pour :
+- Les jumps back and forth successifs
 
-- Faire des jumps en faisant des aller-retours successivement
+### Jouer avec une tablette
 
-### Jouer à la tablette
+Si vous utilisez une tablette, essayez de choisir une zone de la tablette où vous pouvez jouer confortablement. Si vous avez l'intention d'acheter une tablette pour jouer à osu!, consultez le guide [Achat de la tablette](/wiki/Guides/Tablet_Purchase). De plus, achetez quelques plumes de rechange, car vous ne savez jamais quand vous en aurez besoin, car elles ont tendance à s'user rapidement, surtout en cas de jeu très actif. Bien que vous puissiez utiliser la tablette elle-même pour frapper les cercles, la plupart des joueurs préfèrent utiliser un clavier, dont nous parlerons un peu plus loin. Le jeu sur tablette a tendance à exceller dans les domaines suivants :
 
-Si vous allez utiliser une tablette, vous devez essayer et trouver une zone sur la tablette où vous pouvez jouer confortablement. Si vous voulez acheter une tablette pour jouer à osu! avec, regarder d’abord le guide [Acheter une tablette](/wiki/Guides/Tablet_Purchase). De plus, achetez quelques plumes, car vous ne savez jamais quand vous aurez besoin de nouvelles car elles ont tendance à s’user rapidement, spécialement quand vous jouez souvent. Bien que vous pouvez utiliser la tablette pour tapper les cercles, la plupart des joueurs préfèrent utiliser le clavier  dont nous parlerons plus tard. Jouer à la tablette a tendance à exceller dans :
+- Il n'y a pas de dérive du curseur.
+- Une précision des mouvements et vitesse.
 
-- Pas de dérivation du curseur.
-- Mouvements et vitesse précis.
+Le jeu de la tablette a tendance à lutter avec :
 
-Jouer à la tablette a tendance à être difficile pour :
-
-- Faire des jumps dans les bons angles.
+- Les jumps dans des angles droits.
 
 ### Jouer avec un écran tactile
 
-Bien que rare,quelques utilisateurs jouent sur un écran tactile. Essayez de ne pas trop presser l’écran tactile ou trouvez en un plutôt sensitif quand vous taper dessus avec vos doigts, et ceux qui ont une faible latence. Cela aidera à augmenter la durée de vie de l’écran que vous utilisez. Les écrans tactiles ont tendance à exceller dans :
+Bien que cela soit rare, un certain nombre d'utilisateurs jouent sur un écran tactile. Essayez de ne pas appuyer trop fort sur l'écran tactile ou trouvez-en un qui soit assez sensible à vos tapotements de doigts, et mieux encore, un qui ait une faible latence. Cela devrait contribuer à augmenter la longévité de l'écran que vous utilisez. L'écran tactile a tendance à exceller dans les domaines suivants :
 
-- Faire des streams sur des longues périodes de notes et de stamina.
-- Faire des jumps sur des longues distances, spécialement d’un coin à l’autre.
+- Une meilleure endurance sur les streams sur de longues périodes 
+- Des jumps sur de longues distances, surtout d'un bord à l'autre.
 
-Les écrans tactiles ont tendance à être difficile pour :
+L'écran tactile a tendance à avoir du mal :
 
-- L’aim, spécialement sur les petites notes.
+- La visé, surtout avec les petites notes.
 
-### Taper au clavier
+### Jouer avec un clavier
 
-Pour les souris et les tablettes ou n’importe quel autre type d’input, vous pouvez aussi utiliser votre clavier (`Z` et `X` par défaut) pour taper les cercles à la place. Cela vous apportera le bénéfice d’étaler le mouvement physique sur deux mains, au lieu de cliquer avec votre outil pour l’aim, de plus cela vous permet de frapper plus facilement les sections de notes. Il faut un peu de temps pour être habitué à jouer avec, mais si vous décidez d’utiliser votre clavier pour cliquer sur des cercles, c’est une bonne idée de l’utiliser le plus tôt possible.
+Pour la souris et la tablette ou tout autre périphérique d'entrée, vous pouvez également utiliser votre clavier (`Z` et `X` par défaut) pour frapper les cercles à la place. L'avantage de cette méthode est de répartir le mouvement physique sur les deux mains, plutôt que de cliquer avec votre périphérique de visée, ce qui vous permet de frapper plus facilement des sections de notes plus rapides. Il faut un certain temps pour s'y habituer, mais si vous décidez d'utiliser votre clavier pour frapper les cercles, c'est une bonne idée de vous y habituer dès le début.
 
-## Technique de gameplay
+## Techniques de jeu
 
-### Accuracy et Timing
+### Précision et timing
 
-Un des facteurs les plus importants quand vous jouez à osu! c’est votre timing, plus que d’autres jeux de rythmes ! Dans ce sens, si vous avez écouté beaucoup de musique, ce sera assez facile de les taper. Le but de l’accuracy et du timing est de taper la note au bon moment aussi précisément que possible.
+L'un des facteurs les plus importants lorsque vous jouez à osu! est votre timing, comme dans les autres jeux de rythme ! En ce sens, si vous avez écouté beaucoup de musique, cela devrait être assez facile à assimiler. L'objectif de la précision et du timing est de taper les notes au bon moment aussi précisément que possible.
 
-Chaque objet dans le jeu a un cercle d’approche; un grand anneau qui va doucement se rapprocher du cercle. Quand l’anneau atteint le cercle, il est temps de taper dessus ! Si vous faites attention à eux, cela vous aidera à reconnaître si les notes sont sur une demi-mesure ou une mesure entière, ou quand vous devez attendre la prochaine note.
+Chaque objet dans le jeu a un cercle d'approche ; un grand anneau qui s'approche lentement du cercle d'impact lui-même. Lorsque l'anneau atteint le cercle, il est temps de le frapper ! Si vous y prêtez attention, cela vous aidera à reconnaître si certaines notes sont sur des demi-temps ou des temps pleins, ou si vous devez attendre la note suivante.
 
-La musique fonctionne avec des mesures et des rythmes. Quand vous commencez une map (ou avant que vous jouiez) faites attention au son de la chanson, et vous pouvez avoir une bonne idée de la mélodie quand vous frapperez les cercles. Suivre la musique aussi proche que possible vous aidera à avoir un meilleur timing et une meilleure coordination.
+La musique fonctionne en battements et en rythmes. Lorsque vous commencez une beatmap (ou même avant de jouer), prêtez attention à la façon dont la musique sonne, et vous pourrez avoir une assez bonne idée de la mélodie sur laquelle vous allez frapper des cercles. En suivant de plus près la musique, vous parviendrez à une meilleure synchronisation et coordination.
 
-### Aiming
+### Visée
 
-Dans un jeu point-and-click comme osu!, l’aiming est aussi un facteur important. Être capable d’avoir les notes au bon moment est un peu inutile sans que vous soyez capable d’avoir votre curseur au bon endroit. Dans ce cas, le meilleur moyen d’être meilleur est de jouer simplement au jeu.Cela peut aussi aider de jouer des maps de plus en plus dures, car les espaces entre les notes deviennent le plus souvent plus grand, ce qui rendra vos mouvements plus amples et vous taperez les notes sur des distances plus larges.
+Dans un jeu de type pointer-cliquer comme osu!, la visée est également un autre facteur important. Être capable de frapper les notes au bon moment est plutôt inutile si vous n'êtes pas capable d'amener votre curseur au bon endroit. Dans ce cas, le moyen le plus efficace de s'améliorer dans ce secteur est tout simplement de jouer au jeu. Il est également utile de jouer à des beatmaps de plus en plus difficiles, car l'espacement entre les notes sera probablement plus grand, ce qui vous obligera à vous déplacer davantage et à toucher les notes à des distances plus grandes.
 
-Le meilleur moyen d'entraîner votre aiming sans jouer à osu! est d’utiliser votre ordinateur avec l’outil d’input de votre choix. N’ayez pas peur de vous entraîner en cliquant sur n’importe quel fichier de votre ordinateur si vous utilisez une souris, ou de dessiner quelque chose avec votre tablette. La coordination nouvellement acquise vous aidera à faire ce que vous voulez !
+La meilleure façon de vous entraîner à viser sans jouer à osu! est d'utiliser votre ordinateur avec le périphérique d'entrée de votre choix. N'hésitez pas à vous entraîner en cliquant sur des fichiers sur votre ordinateur si vous utilisez une souris, ou à dessiner avec votre tablette. La coordination supplémentaire vous aidera à faire des merveilles plus tard !
 
 ### Vitesse
 
-Éventuellement, quand vous serez aux difficultés plus élevées, vous devrez cliquer sur les notes plus rapidement. Augmenter sa vitesse est très simple; tout ce que vous devez faire est de vous dépasser en cliquant ou tapant plus vite sur votre clavier. Vous pouvez jouer à des jeux qui demande de cliquer le plus vite possible, comme Cookie Clicker ou d’autres jeux ou il faut frapper des boutons (ils sont facilement trouvable en ligne si vous le recherchez sur Google).
+Au bout d'un certain temps, lorsque vous arriverez à des difficultés plus difficiles, vous devrez cliquer sur les notes plus rapidement. Améliorer sa vitesse est en fait assez simple : il suffit de se pousser à cliquer ou à taper plus rapidement sur le clavier. Vous pouvez jouer à des jeux qui vous obligent à saisir des données aussi rapidement que possible, comme Cookie Clicker ou d'autres jeux où il faut appuyer sur des boutons (il est très facile de les trouver en ligne si vous utilisez Google).
 
 ### Pratique
 
-Un autre point important est qu’osu! est en fait un jeu avec une courbe de difficultée infinie, ce qui veut dire que vous ne pouvez pas “gagner” le jeu. A la place vous devrez vous concentrer pour vous améliorer vous même constamment. Au lieu de jouer une map tout le temps, vous devriez jouer à plusieures maps quand vous commencez à dépasser leur difficulté.
+Un autre sujet lourd est le fait qu'osu! est un jeu dont la courbe de difficulté augmente à l'infini, ce qui signifie qu'il n'y a pas de "victoire" dans le jeu. Au contraire, vous devrez vous efforcer de vous améliorer constamment. Au lieu de jouer une map encore et encore, vous devrez éventuellement passer à d'autres maps une fois que vous aurez commencé à surpasser leur difficulté.
 
-La meilleure façon de s’améliorer est de se donner des challenges. La seule façon de vous habituer à des difficultés de plus en plus tenaces consiste à explorer au-delà de vos frontières. Jouer une map qui vous fera faire quelques miss vous donnera une meilleure expérience de gameplay que d’essayer d’avoir à tout pris un full combo ou un rang SS sur une map. Cela fonctionne comme un MMORPG, plus l’ennemi est fort, plus vous recevrez d’expérience.
+La meilleure façon de s'améliorer est de se mettre au défi. La seule façon de vous habituer à des difficultés de plus en plus tenaces est d'explorer au-delà de vos limites. Jouer une map qui vous fait rater plusieurs fois vous donne en fin de compte plus d'expérience de jeu que d'en jouer plusieurs sur lesquelles vous pouvez obtenir un combo complet ou même obtenir un rang SS. Cela fonctionne un peu comme dans un MMORPG : plus l'ennemi est difficile, plus vous obtenez d'expérience pour lui.
 
-Ne soyez pas effrayés de vous entrainez à quelque chose que vous n’arrivez pas pour une raison ou une autre. Vous devez trouver des challenges, et voir ce que vous devez faire pour rencontrer le challenge. Vous avez besoin d’appuyer sur les boutons plus rapidement ? Vous avez besoin d’un meilleur timing ? Vous avez besoin d’être plus précis quand vous allez d’une note à l’autre ? Ce sont toutes les questions que vous pouvez vous poser. Cela vous aidera à trouver votre réponse plus rapidement et à rendre votre expérience encore plus intéressante.
+N'ayez pas peur de pratiquer quelque chose qui vous fait toujours rater pour une raison ou une autre. Vous devrez trouver le défi, et voir ce que vous devez faire pour le relever. Avez-vous besoin d'appuyer plus rapidement sur les boutons ? Avez-vous besoin d'un meilleur timing ? Devez-vous être plus précis lorsque vous passez aux notes ? Ce sont toutes des questions que vous pouvez vous poser. Cela vous aidera à trouver votre réponse beaucoup plus rapidement et rendra votre expérience d'autant plus intéressante.
 
-## Plus d’informations sur le gameplay
+## Tirer le meilleur parti du gameplay
 
-### Décalage global
+### Global Offset
 
-*Page Principale: [Comment utiliser l’assistant de décalage](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
+*Page principale : [Comment utiliser l'Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
 
-Dépendant de l’appareil que vous utilisez pour jouer à osu!, vous pourriez trouver que les cercles de hit ne sont pas en rythme avec la musique.Pour corriger cela, vous pouvez changer la valeur du décalage global dans le menu des [Options](/wiki/Options). Le décalage global changera quand la première note apparaîtra sur la beatmap (soit plus tôt ou plus tard que par défaut),ce qui retarde le reste des notes du même décalage. Une valeur négative de décalage fera que les notes apparaîtront légèrement plus tard, et une valeur positive les fera apparaître plus tôt.
+Selon les appareils que vous utilisez pour jouer à osu!, il se peut que les cercles ne soient pas tout à fait en phase avec la musique. Pour corriger cela, vous pouvez modifier la valeur du décalage global dans les [options](/wiki/Options). Le global offset modifie le moment où la première note apparaît sur les beatmaps (plus tôt ou plus tard que la valeur par défaut), ce qui retarde le reste des notes de la même quantité. Une valeur de décalage négative fera apparaître les notes légèrement plus tard, et une valeur positive les fera apparaître plus tôt.
 
-Dans l’[Assistant de décalage](/wiki/Options/Offset_Wizard), dont l’accès est dans le menu des [Options](/wiki/Options), une chanson d’échantillonnage se jouera avec un tempo de métronome en haut. Ajustez le décalage graduellement en utilisant les flèches haut/bas ou avec la molette de la souris jusqu’à ce que le tempo du métronome soit parfaitement sur la ligne du centre.
+Dans l'[Offset Wizard](/wiki/Options/Offset_Wizard), auquel vous pouvez accéder à partir des [options](/wiki/Options), une musique sera joué avec un battement d'un métronome sur le dessus. Ajustez le décalage progressivement à l'aide des touches fléchées haut/bas ou de la molette de votre souris jusqu'à ce que les battements du métronome correspondent lorsque les barres traversent la ligne centrale.
 
-Quand vous jouez une beatmap vous verrez un graphe d’erreur de frappe en dessous de l’écran. Frapper une note affichera une ligne blanche quelque part sur ce graphe dépendant de la précision de vos coups. Si toutes vos frappes sont à gauche du centre, essayez d’augmenter légèrement votre décalage global.Si elles sont toutes à droite, essayez de le réduire..
+Lorsque vous jouez une beatmap, vous remarquerez le graphique Hit Error en bas de l'écran. En frappant une note, une ligne blanche apparaît quelque part le long de celle-ci, en fonction de votre précision. Si toutes vos frappes se trouvent à gauche du centre, essayez d'augmenter légèrement votre global offset. S'ils sont tous à droite, essayez de le diminuer.
 
-Ajustez votre décalage global jusqu’à ce que vous soyez heureux du résultat. Avoir les bonnes valeurs vous aidera à augmenter votre précision globale !
+Ajustez votre global offset jusqu'à ce que vous en soyez satisfait. L'obtention de la bonne valeur vous aidera à augmenter votre précision globale !
 
-### Raw Input
+### Entrée brute
 
-*Voir aussi : [Options](/wiki/Options#mouse)*
+*Voir également : [Options](/wiki/Options#mouse)*
 
-Une fonction souvent négligée dans le jeu est la fonction Raw Input. Cela permet une lecture directe de votre périphérique d'entrée dans osu! lui-même. Vous pouvez aussi l'utiliser si vous n'aimez pas la façon dont Windows gère le curseur de votre souris, ou plus particulièrement si vous utilisez une tablette. Essayez-le et jouez quelques maps avec, vous pourriez vous sentir beaucoup plus à l'aise avec ça !
+Une caractéristique souvent négligée du jeu est la fonction d'entrée brute. Elle permet la lecture directe de votre périphérique d'entrée dans osu! lui-même. Vous pouvez également l'utiliser si vous n'aimez pas la façon dont Windows gère le curseur de votre souris, ou particulièrement recommandé si vous utilisez une tablette. Essayez-la et jouez quelques maps avec elle, vous pourriez vous sentir beaucoup plus à l'aise avec elle !
 
 ### Skins
 
-*Voir aussi : [Skinning](/wiki/Skinning)*
+*Voir également : [Skinning](/wiki/Skinning)*
 
-Il y a énorméments de skins disponibles; vous pouvez les trouver sur le forum, des liens donnés sur le chat, ou en en demandant aux autres joueurs ! S’ils n’améliorent pas votre gameplay, ils peuvent vous aider à vous motiver, ou jouer plus facilement pour vos yeux à osu!. Ou, si vous préférez ne pas avoir trop d’HUD d’osu qui bloque votre écran, vous pouvez trouver un skin avec des graphismes minimalistes. Vous pouvez également trouver des skins fait par [les pros](https://osu.ppy.sh/community/forums/topics/87675) et voir ce qui fait le succès de ces skins. Certains skins ont été conçus pour faciliter la vue, alors que d'autres sont originaux et amusants. Hélas, c’est une autre façon d’obtenir plus de plaisir avec osu! et rendre votre expérience en grimpant dans les rangs un peu plus agréable. ;)
+Il y a beaucoup, beaucoup de skins parmi lesquels choisir ; vous pouvez les trouver sur les forums, dans le chat, ou même en demandant aux autres utilisateurs ! Bien qu'ils n'améliorent pas votre jeu, ils peuvent vous aider à vous motiver ou à rendre le jeu plus agréable à regarder. Ou, si vous préférez ne pas avoir beaucoup de HUD, vous pouvez trouver un skin avec une approche minimale. Vous pouvez même trouver des skins créés par des [professionnels](https://osu.ppy.sh/community/forums/topics/87675) et voir ce qui fait le succès de ces skins. Certains skins ont été construits pour faciliter la vue, tandis que d'autres sont excentriques et juste pour le plaisir. Hélas, c'est une autre façon de tirer plus de plaisir d'osu! et de rendre votre expérience en gravissant les échelons un peu plus agréable.
 
-## Maps pour les débutants
+## Maps pour débutants
 
-Essayez ces maps pour commencer. Elles sont ordonnées de la plus facile à la plus difficile, alors essayez de vous frayer un chemin dans cette liste !
+Essayez d'essayer ces maps. Elles sont classées de la plus facile à la plus difficile, alors essayez de descendre la liste à votre propre rythme !
 
-### Démarrage
+### Débutant
 
-Vous pouvez commencer votre aventure avec ces maps !
+Vous pouvez commencer votre aventure avec ces cartes :
 
 - [GReeeeN - Ai Uta (Taiko Cut) (arken1015) \[Kantan\]](https://osu.ppy.sh/beatmapsets/15901#osu/57281)(0.83 Stars)
 - [TOKINE - Soko ni Aru Mono (xierbaliti) \[Easy\]](https://osu.ppy.sh/beatmapsets/16789#osu/67008)(0.99 Stars)
@@ -132,7 +128,7 @@ Vous pouvez commencer votre aventure avec ces maps !
 
 ### Novice
 
-After you play a bit, try these maps out.
+Après avoir joué un peu, essayez ces maps :
 
 - [Mutsuhiko Izumi - Russian Snowy Dance (Chocopikel) \[Easy\]](https://osu.ppy.sh/beatmapsets/38872#osu/124348)(1.21 Stars)
 - [goreshit - o'er the flood (grumd) \[Easy\]](https://osu.ppy.sh/beatmapsets/51972#osu/177139)(1.22 Stars)
@@ -143,7 +139,7 @@ After you play a bit, try these maps out.
 
 ### Challenge
 
-Envie de vous dépasser et de relever un défi ? Essayez ces maps !
+Vous voulez vous dépasser et relever un défi ? Essayez ceci :
 
 - [DJ Fresh - Gold Dust (galvenize) \[Easy\]](https://osu.ppy.sh/beatmapsets/28107#osu/96042)(1.32 Stars)
 - [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Easy\]](https://osu.ppy.sh/beatmapsets/83333#osu/230174)(1.36 Stars)
@@ -151,6 +147,6 @@ Envie de vous dépasser et de relever un défi ? Essayez ces maps !
 - [Kicks N Licks Feat. Nicole Millar - Own The Night (MitiS DnB Remix) (Ami) \[Easy\]](https://osu.ppy.sh/beatmapsets/149045#osu/368307)(1.45 Stars)
 - [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Easy\]](https://osu.ppy.sh/beatmapsets/114488#osu/318994)(1.46 Stars)
 
-## Aller plus loin
+## Aller au-delà
 
-Une fois que vous avez fini toutes les difficultées des beatmap listée ci-dessus, ne vous arrêtez pas là. Continuez, et trouvez des maps avec une difficultée plus haute. Essayez de chercher des beatmaps en utilisant la [suggestion de difficultée](https://osu.ppy.sh/beatmapsets?c=recommended), cela vous aidera à savoir ce qu’il vous faut pour la suite. Ne soyez pas effrayés de questionner les joueurs sur l’amélioration, ils sont pour la plupart gentils et vous partageront des maps amusantes à jouer qu’ils aiment, là où leur aventure dans le monde d’osu! à débuté.Pour finir, le plus important, amusez vous bien !
+Une fois que vous avez épuisé la difficulté des beatmaps répertoriés ici, ne vous arrêtez pas là. Continuez et trouvez des maps d'un niveau de difficulté plus élevé. Essayez même de rechercher des beatmaps en vous basant sur [suggestion de difficulté](https://osu.ppy.sh/beatmapsets?c=recommended), car cela vous aidera à vous faire une idée de ce que vous devez faire ensuite. N'ayez pas peur de demander à d'autres utilisateurs de s'améliorer, car la plupart du temps, ils seront gentils et vous feront part d'une map amusante à jouer qu'ils ont également appréciée, là où leur aventure dans l'osu! world a commencé. Enfin, et c'est le plus important, amusez-vous !

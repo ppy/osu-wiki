@@ -1,12 +1,12 @@
 ---
 tags:
-- CIC
-- CIC2012
+  - CIC
+  - CIC2012
 ---
 
 # Catch the Beat Indonesia Cup 2012
 
-The **Catch the Beat Indonesia Cup 2012** (***CIC 2012***) was an Indonesian 1v1 osu!catch tournament hosted by ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508). It was the first installment of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2012** (***CIC 2012***) was an Indonesian 1v1 osu!catch tournament hosted by ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508). It was the first instalment of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
@@ -23,19 +23,19 @@ The **Catch the Beat Indonesia Cup 2012** (***CIC 2012***) was an Indonesian 1v1
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
-| *4th place* | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter |
+| *4th place* | 1 month of osu!supporter |
 
 ## Organisation
 
 The Catch the Beat Indonesia Cup 2012 was run by various Indonesian osu!catch community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Staff | ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508), ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [awell](https://osu.ppy.sh/users/341298), ![][flag_ID] [Ableh\_ZZZ](https://osu.ppy.sh/users/917216), ![][flag_ID] [chibidanil](https://osu.ppy.sh/users/840925), ![][flag_ID] [AeroRange](https://osu.ppy.sh/users/405659), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063) |
-| Map selector | ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [chibidanil](https://osu.ppy.sh/users/840925) |
+| Mappool selector | ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [chibidanil](https://osu.ppy.sh/users/840925) |
 | Sponsor | ![][flag_ID] [chibidanil](https://osu.ppy.sh/users/840925), ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508) |
 
 ## Links

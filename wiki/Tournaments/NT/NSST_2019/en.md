@@ -1,24 +1,23 @@
 ---
 tags:
-- nik's Spring/Summer Tour 2019
-- NSST 2019
-- NSST2019
+  - NSST 2019
+  - NSST2019
 ---
 
 # nik's Spring/Summer Tour 2019
 
-![NSST 2019 Logo](img/logo.jpg)
+![NSST 2019 logo](img/logo.jpg)
 
-The **nik's Spring/Summer Tour 2019** (***NSST 2019***) was a worldwide double-elimination one-on-one osu! tournament hosted by ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264). It was the second installment of the nik's Tournaments series.
+The **nik's Spring/Summer Tour 2019** (***NSST 2019***) was a 1v1 worldwide double-elimination osu! tournament hosted by ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264). It was the second instalment of the nik's Tournaments series.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-03-18/2019-04-19 |
-| Qualifiers Stage | 2019-04-27/2019-04-28 |
-| Live Drawings | 2019-04-29 (19:00 UTC) |
-| Group Stage | 2019-05-10/2019-05-20 |
+| Registration phase | 2019-03-18/2019-04-19 |
+| Qualifiers stage | 2019-04-27/2019-04-28 |
+| Live drawings | 2019-04-29 (19:00 UTC) |
+| Group stage | 2019-05-10/2019-05-20 |
 | Round of 16 | 2019-05-25/2019-06-01 |
 | Quarterfinals | 2019-05-31/2019-06-06 |
 | Semifinals | 2019-06-07/2019-06-15 |
@@ -29,41 +28,39 @@ The **nik's Spring/Summer Tour 2019** (***NSST 2019***) was a worldwide double-e
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 4 months osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months osu!supporter tag, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
-![NSST 2019 Tier 1 Winner Badge](img/badge-1.png) ![NSST 2019 Tier 2 Winner Badge](img/badge-2.png)
+![](img/badge-1.png "NSST 2019 Tier 1 winner badge") ![](img/badge-2.png "NSST 2019 Tier 2 winner badge")
 
 ## Organisation
 
-The nik's Spring/Summer Tour 2019 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The nik's Spring/Summer Tour 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) |
 | Admin | ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998) |
-| Map Selector | ![][flag_DE] [hi-def](https://osu.ppy.sh/users/10697191), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998) |
+| Mappool selector | ![][flag_DE] [hi-def](https://osu.ppy.sh/users/10697191), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998) |
 | Referee | ![][flag_PL] [Asasyn01](https://osu.ppy.sh/users/8013323), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_DE] [hi-def](https://osu.ppy.sh/users/10697191), ![][flag_AU] [Illinon](https://osu.ppy.sh/users/8306102), ![][flag_AU] [loler123903](https://osu.ppy.sh/users/8034438), ![][flag_DE] [LwL](https://osu.ppy.sh/users/3556856), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_SE] [Melwoine](https://osu.ppy.sh/users/12091109), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_PH] [muffleberry](https://osu.ppy.sh/users/8978259), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [NKJ](https://osu.ppy.sh/users/9675790), ![][flag_US] [Poke\_player](https://osu.ppy.sh/users/6502279), ![][flag_GB] [Snipe The Neko](https://osu.ppy.sh/users/8638531), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840), ![][flag_RU] [Xassie](https://osu.ppy.sh/users/7958911), ![][flag_UA] [Zertus](https://osu.ppy.sh/users/5875469) |
 | Streamer | ![][flag_GB] [-spoon-](https://osu.ppy.sh/users/10623176), ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685), ![][flag_PL] [bart6003](https://osu.ppy.sh/users/2100107), ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_NL] [Just Lucan](https://osu.ppy.sh/users/5007943), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840), ![][flag_RU] [Xassie](https://osu.ppy.sh/users/7958911) |
 | Commentator | ![][flag_GB] [-spoon-](https://osu.ppy.sh/users/10623176), ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685), ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_DE] [hi-def](https://osu.ppy.sh/users/10697191), ![][flag_NL] [Just Lucan](https://osu.ppy.sh/users/5007943), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840), ![][flag_RU] [Xassie](https://osu.ppy.sh/users/7958911), ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383) |
 | Designer | ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847) |
 | Statistician | ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859) |
-| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/883340)
 - [NT Discord server](https://discord.gg/wrwZWRS)
-- [Livestream](https://www.twitch.tv/niks_tournaments)
+- [Livestream](https://twitch.tv/niks_tournaments)
 - Challonge brackets
   - [Tier 1](https://challonge.com/NSST19T1)
   - [Tier 2](https://challonge.com/NSST19T2)
-- Statistics Sheet
-  - **[Tier 1](https://docs.google.com/spreadsheets/d/e/2PACX-1vQPphrCZiOVJskzqs8611I5yqeeq_JN91UIcAeKJI5xjEihvEV9IJn8J1Kf9QBO1K1pyFvOkfYV3MQ2/pubhtml#)**
+- Statistics sheet
+  - **[Tier 1](https://docs.google.com/spreadsheets/d/e/2PACX-1vQPphrCZiOVJskzqs8611I5yqeeq_JN91UIcAeKJI5xjEihvEV9IJn8J1Kf9QBO1K1pyFvOkfYV3MQ2/pubhtml)**
   - **[Tier 2](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0rK_52GXfaYEiQs9DwR67l2PUV78x6MCyGkEQ4WxjFrMCe59Ox1jWDVxOE39Msl_YjMdQlOpqRfkC/pubhtml)**
-
----
 
 ## Participants
 
@@ -113,8 +110,6 @@ The nik's Spring/Summer Tour 2019 was run by various community members by distri
 | **G** | ![][flag_PL] [bart6003](https://osu.ppy.sh/users/2100107) | ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284) | ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) | ![][flag_GB] [4Circ](https://osu.ppy.sh/users/2161823) |
 | **H** | ![][flag_RU] [\_Suzuha](https://osu.ppy.sh/users/8445602) | ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166) | ![][flag_CA] [Saltystick](https://osu.ppy.sh/users/2165408) | ![][flag_RU] [Ontoryran](https://osu.ppy.sh/users/5182623) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -123,19 +118,17 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) |
 
 ### Tier 2
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [\_Suyong](https://osu.ppy.sh/users/7295276) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) |
-
----
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [\_Suyong](https://osu.ppy.sh/users/7295276) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) |
 
 ## Mappools
 
@@ -357,7 +350,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Joe Ford - Villain (Yoges) \[Wicked\]](https://osu.ppy.sh/beatmapsets/399126#osu/867747)**
 
-### Group Stage
+### Group stage
 
 #### Tier 1
 
@@ -407,7 +400,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Shimotsuki Haruka - Gyaku Mawari no Inochi (Lasse) \[Petal\]](https://osu.ppy.sh/beatmapsets/939161#osu/1961714)**
 
-### Qualifiers Stage
+### Qualifiers stage
 
 #### Tier 1
 
@@ -445,29 +438,35 @@ This competition has come to an end and resulted in the following podium:
   - [cYsmix feat. Emmy - Tear Rain (Niva) \[Insane (2018)\]](https://osu.ppy.sh/beatmapsets/140735#osu/1649546)
   - [senya - Tokuiten no Kaibutsuteki Kanjou (Satellite) \[ShiraKai's Hard\]](https://osu.ppy.sh/beatmapsets/370545#osu/858200)
 
----
-
-## Match Results
+## Match results
 
 ### Grand Finals
 
 #### Tier 1
 
-| Saturday, 2019-06-22 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
+Saturday, 22 June 2019:
+
+| Player 1 |  |  | Player 2 |
+| --: | :-: | :-: | :-- |
 | **fieryrage** ![][flag_US] | **7** | 5 | ![][flag_US] im a fancy lad |
 
-| Sunday, 2019-06-23 |  |  |  |  |
+Sunday, 23 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ![][flag_GB] | **7** | 1 | ![][flag_US] fieryrage | [#1](https://osu.ppy.sh/community/matches/52857923) |
 
 #### Tier 2
 
-| Saturday, 2019-06-22 |  |  |  |  |
+Saturday, 22 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **\_Suyong** ![][flag_KR] | **7** | 0 | ![][flag_NL] Swerro | [#1](https://osu.ppy.sh/community/matches/52819343) |
 
-| Saturday, 2019-06-29 |  |  |  |  |
+Saturday, 29 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Civil oath** ![][flag_KR] | **7** | 0 | ![][flag_KR] \_Suyong | [#1](https://osu.ppy.sh/community/matches/52983269) |
 
@@ -475,28 +474,38 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 1
 
-| Saturday, 2019-06-15 |  |  |  |  |
+Saturday, 15 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | fieryrage ![][flag_US] | 3 | **7** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/52645696) |
 
-| Sunday, 2019-06-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **im a fancy lad** ![][flag_US] | **7** | 0 | ![][flag_AU] Dumii | -win by default- |
-| idke ![][flag_US] | 0 | **7** | ![][flag_US] **Tekkito** | -win by default- |
+Sunday, 16 June 2019:
 
-| Tuesday, 2019-06-18 |  |  |  |  |
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **im a fancy lad** ![][flag_US] | **7** | 0 | ![][flag_AU] Dumii | *win by default* |
+| idke ![][flag_US] | 0 | **7** | ![][flag_US] **Tekkito** | *win by default* |
+
+Tuesday, 18 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **im a fancy lad** ![][flag_US] | **7** | 2 | ![][flag_US] Tekkito | [#1](https://osu.ppy.sh/community/matches/52724776) |
 
 #### Tier 2
 
-| Saturday, 2019-06-15 |  |  |  |  |
+Saturday, 15 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **YoshiLover456** ![][flag_US] | **7** | 3 | ![][flag_RU] Liswiera | [#1](https://osu.ppy.sh/community/matches/52641159) |
 | \_Suyong ![][flag_KR] | 3 | **7** | ![][flag_KR] **Civil oath** | [#1](https://osu.ppy.sh/community/matches/52641256) |
 | **Swerro** ![][flag_NL] | **7** | 4 | ![][flag_RU] \_Suzuha | [#1](https://osu.ppy.sh/community/matches/52647533) |
 
-| Sunday, 2019-06-16 |  |  |  |  |
+Sunday, 16 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | YoshiLover456 ![][flag_US] | 3 | **7** | ![][flag_NL] **Swerro** | [#1](https://osu.ppy.sh/community/matches/52675159) |
 
@@ -504,42 +513,58 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 1
 
-| Friday, 2019-06-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **Dumii** ![][flag_AU] | **6** | 0 | ![][flag_US] fuduhasio | -win by default- |
+Friday, 7 June 2019:
 
-| Saturday, 2019-06-08 |  |  |  |  |
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Dumii** ![][flag_AU] | **6** | 0 | ![][flag_US] fuduhasio | *win by default* |
+
+Saturday, 8 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Lilily ![][flag_NL] | 0 | **6** | ![][flag_RO] **eternum** | [#1](https://osu.ppy.sh/community/matches/52456449) |
 | konawiki ![][flag_PH] | 0 | **6** | ![][flag_US] **Tekkito** | [#1](https://osu.ppy.sh/community/matches/52465933) |
 | **Reedkatt** ![][flag_SE] | **6** | 3 | ![][flag_US] Leftoverss | [#1](https://osu.ppy.sh/community/matches/52465754) |
 
-| Sunday, 2019-06-09 |  |  |  |  |
+Sunday, 9 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **fieryrage** ![][flag_US] | **6** | 2 | ![][flag_US] im a fancy lad | [#1](https://osu.ppy.sh/community/matches/52476802) |
 
-| Monday, 2019-06-10 |  |  |  |  |
+Monday, 10 June 2019:
+
+| |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Reedkatt ![][flag_SE] | 2 | **6** | ![][flag_AU] **Dumii** | [#1](https://osu.ppy.sh/community/matches/52511821) |
 | Tekkito ![][flag_US] | **6** | 2 | ![][flag_RO] eternum | [#1](https://osu.ppy.sh/community/matches/52520463) |
 
-| Saturday, 2019-06-15 |  |  |  |  |
+Saturday, 15 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ![][flag_GB] | **6** | 4 | ![][flag_US] idke | [#1](https://osu.ppy.sh/community/matches/52642592) |
 
 #### Tier 2
 
-| Friday, 2019-06-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| Tuco ![][flag_US] | 0 | **6** | ![][flag_GB] **unrealLyyy** | -win by default- |
+Friday, 7 June 2019:
 
-| Saturday, 2019-06-08 |  |  |  |  |
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Tuco ![][flag_US] | 0 | **6** | ![][flag_GB] **unrealLyyy** | *win by default* |
+
+Saturday, 8 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **woahsia** ![][flag_SG] | **6** | 0 | ![][flag_US] Crihs | [#1](https://osu.ppy.sh/community/matches/52462820) |
 | **\_Suzuha** ![][flag_RU] | **6** | 1 | ![][flag_PL] Triojo | [#1](https://osu.ppy.sh/community/matches/52462822) |
 | **\_Suyong** ![][flag_KR] | **6** | 4 | ![][flag_US] YoshiLover456 | [#1](https://osu.ppy.sh/community/matches/52462816) |
 
-| Sunday, 2019-06-09 |  |  |  |  |
+Sunday, 9 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Liswiera** ![][flag_RU] | **6** | 2 | ![][flag_US] Yeong Yuseong | [#1](https://osu.ppy.sh/community/matches/52479297) |
 | **Civil oath** ![][flag_KR] | **6** | 2 | ![][flag_NL] Swerro | [#1](https://osu.ppy.sh/community/matches/52485420) |
@@ -550,48 +575,66 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 1
 
-| Saturday, 2019-05-31 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| umii ![][flag_IT] | 4 | **5** | ![][flag_US] **Leftoverss** | [#1](https://osu.ppy.sh/mp/52249576) |
-| **eternum** ![][flag_RO] | **5** | 0 | ![][flag_SG] Demonical | -win by default- |
+Saturday, 31 May 2019:
 
-| Saturday, 2019-06-01 |  |  |  |  |
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| umii ![][flag_IT] | 4 | **5** | ![][flag_US] **Leftoverss** | [#1](https://osu.ppy.sh/community/matches/52249576) |
+| **eternum** ![][flag_RO] | **5** | 0 | ![][flag_SG] Demonical | *win by default* |
+
+Saturday, 1 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | ASecretBox 2 ![][flag_AU] | 1 | **5** | ![][flag_US] **fuduhasio** | [#1](https://osu.ppy.sh/community/matches/52263422) |
 | konawiki ![][flag_PH] | 1 | **5** | ![][flag_US] **fieryrage** | [#1](https://osu.ppy.sh/community/matches/52279815) |
 
-| Sunday, 2019-06-02 |  |  |  |  |
+Sunday, 2 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Dumii ![][flag_AU] | 0 | **5** | ![][flag_GB] **Bubbleman** | -win by default- |
+| Dumii ![][flag_AU] | 0 | **5** | ![][flag_GB] **Bubbleman** | *win by default* |
 | **idke** ![][flag_US] | **5** | 1 | ![][flag_SE] Reedkatt | [#1](https://osu.ppy.sh/community/matches/52310668) |
 
-| Wednesday, 2019-06-05 |  |  |  |  |
+Wednesday, 5 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **im a fancy lad** ![][flag_US] | **5** | 3 | ![][flag_NL] Lilily | [#1](https://osu.ppy.sh/community/matches/52387481) |
 
-| Thursday, 2019-06-06 |  |  |  |  |
+Thursday, 6 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Tohru ![][flag_US] | 2 | **5** | ![][flag_US] **Tekkito** | [#1](https://osu.ppy.sh/community/matches/52392416) |
 
 #### Tier 2
 
-| Friday, 2019-05-31 |  |  |  |  |
+Friday, 31 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **YoshiLover456** ![][flag_US] | **5** | 4 | ![][flag_RU] \_Suzuha | [#1](https://osu.ppy.sh/community/matches/52254446) |
 
-| Saturday, 2019-06-01 |  |  |  |  |
+Saturday, 1 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Liswiera ![][flag_RU] | 3 | **5** | ![][flag_NL] **Swerro** | [#1](https://osu.ppy.sh/mp/52270514) |
+| Liswiera ![][flag_RU] | 3 | **5** | ![][flag_NL] **Swerro** | [#1](https://osu.ppy.sh/community/matches/52270514) |
 | woahsia ![][flag_SG] | 0 | **5** | ![][flag_KR] **\_Suyong** | [#1](https://osu.ppy.sh/community/matches/52272828) |
 | **Civil oath** ![][flag_KR] | **5** | 0 | ![][flag_US] Tuco | [#1](https://osu.ppy.sh/community/matches/52275781) |
 | **Yeong Yuseong** ![][flag_US] | **5** | 4 | ![][flag_KR] siroitora | [#1](https://osu.ppy.sh/community/matches/52290339) |
 
-| Sunday, 2019-06-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **unrealLyyy** ![][flag_GB] | **5** | 3 | ![][flag_GB] 4Circ | [#1](https://osu.ppy.sh/mp/52306039) |
-| **Triojo** ![][flag_PL] | **5** | 3 | ![][flag_DE] Katsumi | [#1](https://osu.ppy.sh/mp/52309132) |
+Sunday, 2 June 2019:
 
-| Wednesday, 2019-06-05 |  |  |  |  |
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **unrealLyyy** ![][flag_GB] | **5** | 3 | ![][flag_GB] 4Circ | [#1](https://osu.ppy.sh/community/matches/52306039) |
+| **Triojo** ![][flag_PL] | **5** | 3 | ![][flag_DE] Katsumi | [#1](https://osu.ppy.sh/community/matches/52309132) |
+
+Wednesday, 5 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Crihs** ![][flag_US] | **5** | 3 | ![][flag_RU] Ontoryran | [#1](https://osu.ppy.sh/community/matches/52381782) |
 
@@ -599,59 +642,75 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 1
 
-| Saturday, 2019-05-25 |  |  |  |  |
+Saturday, 25 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ASecretBox 2 ![][flag_AU] | 0 | **5** | ![][flag_PH] **konawiki** | -win by default- |
-| Tekkito ![][flag_US] | 0 | **5** | ![][flag_GB] **Bubbleman** | -win by default- |
-| Demonical ![][flag_SG] | 0 | **5** | ![][flag_SE] **Reedkatt** | -win by default- |
-| **im a fancy lad** ![][flag_US] | **5** | 1 | ![][flag_IT] umii | [#1](https://osu.ppy.sh/mp/52089190) |
-| Leftoverss ![][flag_US] | 2 | **5** | ![][flag_NL] **Lilily** | [#1](https://osu.ppy.sh/mp/52092715) |
+| ASecretBox 2 ![][flag_AU] | 0 | **5** | ![][flag_PH] **konawiki** | *win by default* |
+| Tekkito ![][flag_US] | 0 | **5** | ![][flag_GB] **Bubbleman** | *win by default* |
+| Demonical ![][flag_SG] | 0 | **5** | ![][flag_SE] **Reedkatt** | *win by default* |
+| **im a fancy lad** ![][flag_US] | **5** | 1 | ![][flag_IT] umii | [#1](https://osu.ppy.sh/community/matches/52089190) |
+| Leftoverss ![][flag_US] | 2 | **5** | ![][flag_NL] **Lilily** | [#1](https://osu.ppy.sh/community/matches/52092715) |
 | **fieryrage** ![][flag_US] | **5** | 0 | ![][flag_US] fuduhasio | [#1](https://osu.ppy.sh/community/matches/52097297) |
 
-| Sunday, 2019-05-26 |  |  |  |  |
+Sunday, 26 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Tohru ![][flag_US] | 2 | **5** | ![][flag_AU] **Dumii** | [#1](https://osu.ppy.sh/community/matches/52107287) |
 
-| Saturday, 2019-06-01 |  |  |  |  |
+Saturday, 1 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | eternum ![][flag_RO] | 1 | **5** | ![][flag_US] **idke** | [#1](https://osu.ppy.sh/community/matches/52276377) |
 
 #### Tier 2
 
-| Friday, 2019-05-24 |  |  |  |  |
+Friday, 24 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **\_Suyong** ![][flag_KR] | **5** | 1 | ![][flag_KR] siroitora | [#1](https://osu.ppy.sh/community/matches/52046356) |
 
-| Saturday, 2019-05-25 |  |  |  |  |
+Saturday, 25 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | 4Circ ![][flag_GB] | 2 | 5 | ![][flag_RU] **\_Suzuha** | [#1](https://osu.ppy.sh/community/matches/52092608) |
-| **Swerro** ![][flag_NL] | **5** | 0 | ![][flag_RU] Ontoyryan | -win by default- |
+| **Swerro** ![][flag_NL] | **5** | 0 | ![][flag_RU] Ontoyryan | *win by default* |
 
-| Sunday, 2019-05-26 |  |  |  |  |
+Sunday, 26 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Triojo ![][flag_PL] | 1 | **5** | ![][flag_KR] **Civil oath** | [#1](https://osu.ppy.sh/community/matches/52115543) |
-| Crihs ![][flag_US] | 1 | **5** | ![][flag_RU] **Liswiera** | [#1](https://osu.ppy.sh/mp/52116916) |
-| **woahsia** ![][flag_SG] | **5** | 0 | ![][flag_US] Yeong Yuseong | [#1](https://osu.ppy.sh/mp/52121923) |
-| Katsumi ![][flag_DE] | 0 | **5** | ![][flag_US] **Tuco** | [#1](https://osu.ppy.sh/mp/52121926) |
-| **YoshiLover456** ![][flag_US] | **5** | 0 | ![][flag_GB] unrealLyyy | [#1](https://osu.ppy.sh/mp/52123759) |
+| Crihs ![][flag_US] | 1 | **5** | ![][flag_RU] **Liswiera** | [#1](https://osu.ppy.sh/community/matches/52116916) |
+| **woahsia** ![][flag_SG] | **5** | 0 | ![][flag_US] Yeong Yuseong | [#1](https://osu.ppy.sh/community/matches/52121923) |
+| Katsumi ![][flag_DE] | 0 | **5** | ![][flag_US] **Tuco** | [#1](https://osu.ppy.sh/community/matches/52121926) |
+| **YoshiLover456** ![][flag_US] | **5** | 0 | ![][flag_GB] unrealLyyy | [#1](https://osu.ppy.sh/community/matches/52123759) |
 
-### Group Stage
+### Group stage
 
 #### Tier 1
 
-| Friday, 2019-05-10 |  |  |  |  |
+Friday, 10 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **im a fancy lad** ![][flag_US] | **4** | 1 | ![][flag_DE] LwL | [#1](https://osu.ppy.sh/community/matches/51687191) |
-| **Eddie-** ![][flag_CA] | **4** | 0 | ![][flag_AU] Dumii | -win by default- |
+| **Eddie-** ![][flag_CA] | **4** | 0 | ![][flag_AU] Dumii | *win by default* |
 
-| Saturday, 2019-05-11 |  |  |  |  |
+Saturday, 11 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **fieryrage** ![][flag_US] | **4** | 2 | ![][flag_SG] Demonical | [#1](https://osu.ppy.sh/community/matches/51694759) |
 | **Dumii** ![][flag_AU] | **4** | 2 | ![][flag_IT] umii | [#1](https://osu.ppy.sh/community/matches/51702311) |
 | **ASecretBox 2** ![][flag_AU] | **4** | 3 | ![][flag_GR] Riven | [#1](https://osu.ppy.sh/community/matches/51702259) |
 | **Demonical** ![][flag_SG] | **4** | 0 | ![][flag_AR] Megafan | [#1](https://osu.ppy.sh/community/matches/51703773) |
 | **eternum** ![][flag_RO] | **4** | 0 | ![][flag_GR] Riven | [#1](https://osu.ppy.sh/community/matches/51704289) |
-| Eddie- ![][flag_CA] | 0 | **4** | ![][flag_IT] umii | -win by default- |
+| Eddie- ![][flag_CA] | 0 | **4** | ![][flag_IT] umii | *win by default* |
 | Kreet ![][flag_RU] | 0 | **4** | ![][flag_PH] **konawiki** | [#1](https://osu.ppy.sh/community/matches/51704328) |
 | Nykke ![][flag_AR] | 0 | **4** | ![][flag_SG] **Demonical** | [#1](https://osu.ppy.sh/community/matches/51705659) |
 | Penguo ![][flag_AR] | 2 | **4** | ![][flag_AU] **Dumii** | [#1](https://osu.ppy.sh/community/matches/51707610) |
@@ -662,7 +721,9 @@ This competition has come to an end and resulted in the following podium:
 | **fieryrage** ![][flag_US] | **4** | 0 | ![][flag_AR] Nykke | [#1](https://osu.ppy.sh/community/matches/51723447) |
 | Neon Pegasus ![][flag_US] | 3 | **4** | ![][flag_AR] **N Y Q A** | [#1](https://osu.ppy.sh/community/matches/51723672) |
 
-| Sunday, 2019-05-12 |  |  |  |  |
+Sunday, 12 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | ASecretBox 2 ![][flag_AU] | 0 | **4** | ![][flag_VE] **-Dreamless** | [#1](https://osu.ppy.sh/community/matches/51724680) |
 | **Nykke** ![][flag_AR] | **4** | 1 | ![][flag_AR] Megafan | [#1](https://osu.ppy.sh/community/matches/51724817) |
@@ -672,34 +733,40 @@ This competition has come to an end and resulted in the following podium:
 | **Riven** ![][flag_GR] | **4** | 0 | ![][flag_VE] -Dreamless | [#1](https://osu.ppy.sh/community/matches/51747995) |
 | Penguo ![][flag_AR] | 1 | **4** | ![][flag_IT] **umii** | [#1](https://osu.ppy.sh/community/matches/51747997) |
 | **fuduhasio** ![][flag_US] | **4** | 0 | ![][flag_FR] Okatsu\_k | [#1](https://osu.ppy.sh/community/matches/51752366) |
-| **Neon Pegasus** ![][flag_US] | **4** | 0 | ![][flag_AR] -Nanahira- | [#1](https://osu.ppy.sh/mp/51752534) |
+| **Neon Pegasus** ![][flag_US] | **4** | 0 | ![][flag_AR] -Nanahira- | [#1](https://osu.ppy.sh/community/matches/51752534) |
 | **im a fancy lad** ![][flag_US] | **4** | 1 | ![][flag_US] Tohru | [#1](https://osu.ppy.sh/community/matches/51755478) |
-| Eddie- ![][flag_CA] | 0 | **4** | ![][flag_AR] **Penguo** | -win by default- |
+| Eddie- ![][flag_CA] | 0 | **4** | ![][flag_AR] **Penguo** | *win by default* |
 
-| Sunday, 2019-05-17 |  |  |  |  |
+Friday, 17 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tohru** ![][flag_US] | **4** | 1 | ![][flag_SG] moosepi | [#1](https://osu.ppy.sh/community/matches/51852667) |
 | **LwL** ![][flag_DE] | **4** | 0 | ![][flag_SG] moosepi | [#1](https://osu.ppy.sh/community/matches/51864105) |
 | **Neon Pegasus** ![][flag_US] | **4** | 3 | ![][flag_US] Tekkito | [#1](https://osu.ppy.sh/community/matches/51875603) |
 | N Y Q A ![][flag_AR] | 1 | **4** | ![][flag_US] **Tekkito** | [#1](https://osu.ppy.sh/community/matches/51876421) |
 
-| Monday, 2019-05-18 |  |  |  |  |
+Saturday, 18 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **N Y Q A** ![][flag_AR] | **4** | 1 | ![][flag_AR] -Nanahira- | [#1](https://osu.ppy.sh/community/matches/51879589) |
 | **im a fancy lad** ![][flag_US] | **4** | 0 | ![][flag_SG] moosepi | [#1](https://osu.ppy.sh/community/matches/51884296) |
 | **Reedkatt** ![][flag_SE] | **4** | 1 | ![][flag_FR] Okatsu\_k | [#1](https://osu.ppy.sh/community/matches/51892544) |
 | fuduhasio ![][flag_US] | 3 | **4** | ![][flag_SE] **Reedkatt** | [#1](https://osu.ppy.sh/community/matches/51893953) |
-| Kreet ![][flag_RU] | 0 | **4** | ![][flag_DE] **respektive** | -win by default- |
+| Kreet ![][flag_RU] | 0 | **4** | ![][flag_DE] **respektive** | *win by default* |
 | **papika** ![][flag_DE] | **4** | 0 | ![][flag_FR] Okatsu\_k | [#1](https://osu.ppy.sh/community/matches/51901197) |
-| **Lilily** ![][flag_NL] | **4** | 2 | ![][flag_US] mniminwoo | [#1](https://osu.ppy.sh/mp/51904250) |
-| -Nanahira- ![][flag_AR] | 0 | **4** | ![][flag_US] **Tekkito** | [#1](https://osu.ppy.sh/mp/51910833) |
-| **konawiki** ![][flag_PH] | **4** | 0 | ![][flag_DE] respektive | -win by default- |
-| eternum ![][flag_RO] | 0 | **4** | ![][flag_AU] **ASecretBox 2** | -win by default- |
+| **Lilily** ![][flag_NL] | **4** | 2 | ![][flag_US] mniminwoo | [#1](https://osu.ppy.sh/community/matches/51904250) |
+| -Nanahira- ![][flag_AR] | 0 | **4** | ![][flag_US] **Tekkito** | [#1](https://osu.ppy.sh/community/matches/51910833) |
+| **konawiki** ![][flag_PH] | **4** | 0 | ![][flag_DE] respektive | *win by default* |
+| eternum ![][flag_RO] | 0 | **4** | ![][flag_AU] **ASecretBox 2** | *win by default* |
 
-| Tuesday, 2019-05-18 |  |  |  |  |
+Sunday, 19 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Reedkatt** ![][flag_SE] | **4** | 1 | ![][flag_DE] papika | [#1](https://osu.ppy.sh/community/matches/51932578) |
-| **fuduhasio** ![][flag_US] | **4** | 0 | ![][flag_DE] papika | [#1](https://osu.ppy.sh/mp/51939518) |
+| **fuduhasio** ![][flag_US] | **4** | 0 | ![][flag_DE] papika | [#1](https://osu.ppy.sh/community/matches/51939518) |
 | **Bubbleman** ![][flag_GB] | **4** | 1 | ![][flag_US] Will Stetson | [#1](https://osu.ppy.sh/community/matches/51942924) |
 | LwL ![][flag_DE] | 3 | **4** | ![][flag_US] **Tohru** | [#1](https://osu.ppy.sh/community/matches/51942941) |
 | **Bubbleman** ![][flag_GB] | **4** | 2 | ![][flag_US] mniminwoo | [#1](https://osu.ppy.sh/community/matches/51943963) |
@@ -707,7 +774,9 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 2
 
-| Friday, 2019-05-10 |  |  |  |  |
+Friday, 10 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | bart6003 ![][flag_PL] | 3 | **4** | ![][flag_DE] **Menty** | [#1](https://osu.ppy.sh/community/matches/51675638) |
 | bart6003 ![][flag_PL] | 1 | **4** | ![][flag_NL] **Swerro** | [#1](https://osu.ppy.sh/community/matches/51681731) |
@@ -715,12 +784,14 @@ This competition has come to an end and resulted in the following podium:
 | **\_Suzuha** ![][flag_RU] | **4** | 0 | ![][flag_CA] Saltystick | [#1](https://osu.ppy.sh/community/matches/51685463) |
 | **Civil oath** ![][flag_KR] | **4** | 1 | ![][flag_CA] PayneTrain | [#1](https://osu.ppy.sh/community/matches/51686325) |
 
-| Saturday, 2019-05-11 |  |  |  |  |
+Saturday, 11 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **\_Suyong** ![][flag_KR] | **4** | 3 | ![][flag_CO] ElMick33 | [#1](https://osu.ppy.sh/community/matches/51693164) |
 | mahloola ![][flag_CA] | 2 | **4** | ![][flag_KR] **siroitora** | [#1](https://osu.ppy.sh/community/matches/51693929) |
 | **\_Suyong** ![][flag_KR] | **4** | 2 | ![][flag_DE] Katsumi | [#1](https://osu.ppy.sh/community/matches/51703665) |
-| **Civil oath** ![][flag_KR] | **4** | 1 | ![][flag_PL] lokser | [#1](https://osu.ppy.sh/mp/51703972) |
+| **Civil oath** ![][flag_KR] | **4** | 1 | ![][flag_PL] lokser | [#1](https://osu.ppy.sh/community/matches/51703972) |
 | **Liswiera** ![][flag_RU] | **4** | 1 | ![][flag_PL] Kusiu | [#1](https://osu.ppy.sh/community/matches/51703965) |
 | **Crihs** ![][flag_US] | **4** | 2 | ![][flag_MY] Chiyuu | [#1](https://osu.ppy.sh/community/matches/51709599) |
 | Spartan Plume ![][flag_FR] | 0 | **4** | ![][flag_RU] **Ontoryran** | [#1](https://osu.ppy.sh/community/matches/51711637) |
@@ -729,7 +800,9 @@ This competition has come to an end and resulted in the following podium:
 | **Swerro** ![][flag_NL] | **4** | 3 | ![][flag_DE] Menty | [#1](https://osu.ppy.sh/community/matches/51713753) |
 | **Triojo** ![][flag_PL] | **4** | 2 | ![][flag_CA] Xeli | [#1](https://osu.ppy.sh/community/matches/51714056) |
 
-| Sunday, 2019-05-12 |  |  |  |  |
+Sunday, 12 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **YoshiLover456** ![][flag_US] | **4** | 0 | ![][flag_US] Crihs | [#1](https://osu.ppy.sh/community/matches/51727147) |
 | Raoul ![][flag_US] | 1 | **4** | ![][flag_KR] **siroitora** | [#1](https://osu.ppy.sh/community/matches/51728318) |
@@ -738,23 +811,29 @@ This competition has come to an end and resulted in the following podium:
 | **Saltystick** ![][flag_CA] | **4** | 1 | ![][flag_FR] Spartan Plume | [#1](https://osu.ppy.sh/community/matches/51753394) |
 | Swerro ![][flag_NL] | 3 | **4** | ![][flag_GB] **4Circ** | [#1](https://osu.ppy.sh/community/matches/51753393) |
 
-| Thursday, 2019-05-16 |  |  |  |  |
+Thursday, 16 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Saltystick ![][flag_CA] | 1 | **4** | ![][flag_RU] **Ontoryran** | [#1](https://osu.ppy.sh/community/matches/51845558) |
 
-| Saturday, 2019-05-18 |  |  |  |  |
+Saturday, 18 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | kiril2011 ![][flag_BG] | 3 | **4** | ![][flag_PL] **Kusiu** | [#1](https://osu.ppy.sh/community/matches/51894063) |
 | **woahsia** ![][flag_SG] | **4** | 0 | ![][flag_CA] Xeli | [#1](https://osu.ppy.sh/community/matches/51896502) |
 | **Triojo** ![][flag_PL] | **4** | 0 | ![][flag_ID] Ulat Bulu | [#1](https://osu.ppy.sh/community/matches/51896682) |
 | Triojo ![][flag_PL] | 1 | **4** | ![][flag_ID] **woahsia** | [#1](https://osu.ppy.sh/community/matches/51899125) |
-| **PayneTrain** ![][flag_CA] | **4** | 2 | ![][flag_PL] lokser | [#1](https://osu.ppy.sh/mp/51898876) |
-| **YoshiLover456** ![][flag_US] | **4** | 0 | ![][flag_IT] Condizionatore | -win by default- |
-| PayneTrain ![][flag_CA] | 1 | **4** | ![][flag_US] **Yeong Yuseong** | [#1](https://osu.ppy.sh/mp/51905587) |
+| **PayneTrain** ![][flag_CA] | **4** | 2 | ![][flag_PL] lokser | [#1](https://osu.ppy.sh/community/matches/51898876) |
+| **YoshiLover456** ![][flag_US] | **4** | 0 | ![][flag_IT] Condizionatore | *win by default* |
+| PayneTrain ![][flag_CA] | 1 | **4** | ![][flag_US] **Yeong Yuseong** | [#1](https://osu.ppy.sh/community/matches/51905587) |
 | Raoul ![][flag_US] | 3 | **4** | ![][flag_US] **Tuco** | [#1](https://osu.ppy.sh/community/matches/51907672) |
 | Raoul ![][flag_US] | 2 | **4** | ![][flag_CA] **mahloola** | [#1](https://osu.ppy.sh/community/matches/51909789) |
 
-| Sunday, 2019-05-19 |  |  |  |  |
+Sunday, 19 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tuco** ![][flag_US] | **4** | 1 | ![][flag_CA] mahloola | [#1](https://osu.ppy.sh/community/matches/51917515) |
 | **ElMick33** ![][flag_CO] | **4** | 0 | ![][flag_ID] Xicyte | [#1](https://osu.ppy.sh/community/matches/51919006) |
@@ -763,24 +842,24 @@ This competition has come to an end and resulted in the following podium:
 | **\_Suyong** ![][flag_KR] | **4** | 1 | ![][flag_ID] Xicyte | [#1](https://osu.ppy.sh/community/matches/51923501) |
 | **Liswiera** ![][flag_RU] | **4** | 2 | ![][flag_GB] unrealLyyy | [#1](https://osu.ppy.sh/community/matches/51930945) |
 | Ulat Bulu ![][flag_ID] | 3 | **4** | ![][flag_SG] **woahsia** | [#1](https://osu.ppy.sh/community/matches/51932387) |
-| Liswiera ![][flag_RU] | 2 | **4** | ![][flag_BG] **kiril2011** | [#1](https://osu.ppy.sh/mp/51932522) |
+| Liswiera ![][flag_RU] | 2 | **4** | ![][flag_BG] **kiril2011** | [#1](https://osu.ppy.sh/community/matches/51932522) |
 | Menty ![][flag_DE] | 3 | **4** | ![][flag_GB] **4Circ** | [#1](https://osu.ppy.sh/community/matches/51932476) |
-| **unrealLyyy** ![][flag_GB] | **4** | 1 | ![][flag_PL] Kusiu | [#1](https://osu.ppy.sh/mp/51934312) |
-| **YoshiLover456** ![][flag_US] | **4** | 2 | ![][flag_MY] Chiyuu | [#1](https://osu.ppy.sh/mp/51934321) |
+| **unrealLyyy** ![][flag_GB] | **4** | 1 | ![][flag_PL] Kusiu | [#1](https://osu.ppy.sh/community/matches/51934312) |
+| **YoshiLover456** ![][flag_US] | **4** | 2 | ![][flag_MY] Chiyuu | [#1](https://osu.ppy.sh/community/matches/51934321) |
 | ElMick33 ![][flag_CO] | 3 | **4** | ![][flag_DE] **Katsumi** | [#1](https://osu.ppy.sh/community/matches/51934339) |
-| bart6003 ![][flag_PL] | 1 | **4** | ![][flag_GB] **4Circ** | [#1](https://osu.ppy.sh/mp/51935852) |
-| **Yeong Yuseong** ![][flag_US] | **4** | 2 | ![][flag_PL] lokser | [#1](https://osu.ppy.sh/mp/51935805) |
-| **unrealLyyy** ![][flag_GB] | **4** | 2 | ![][flag_BG] kiril2011 | [#1](https://osu.ppy.sh/mp/51937546) |
+| bart6003 ![][flag_PL] | 1 | **4** | ![][flag_GB] **4Circ** | [#1](https://osu.ppy.sh/community/matches/51935852) |
+| **Yeong Yuseong** ![][flag_US] | **4** | 2 | ![][flag_PL] lokser | [#1](https://osu.ppy.sh/community/matches/51935805) |
+| **unrealLyyy** ![][flag_GB] | **4** | 2 | ![][flag_BG] kiril2011 | [#1](https://osu.ppy.sh/community/matches/51937546) |
 
-| Monday, 2019-05-20 |  |  |  |  |
+Monday, 20 May 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Civil oath** ![][flag_KR] | **4** | 1 | ![][flag_US] Yeong Yuseong | [#1](https://osu.ppy.sh/community/matches/51946612) |
 
----
-
 ## Ruleset
 
-### General Rules
+### General rules
 
 1. nik's Spring/Summer Tour 2019 is a **one-on-one** tournament using **double-elimination bracket** and **Score V2** as its map scoring.
 2. Rank ranges are explained as follows:
@@ -796,7 +875,7 @@ This competition has come to an end and resulted in the following podium:
    - For a **15 minute** delay you will have your match automatically lost.
 6. Disrespect towards your assigned referee, and/or your opponent, will not be tolerated. *(Also applies for the Discord server and towards other staff members)*
 
-### Match Procedures
+### Match procedures
 
 1. At Qualifiers Stage, participants will be assigned to a lobby based on participants' availability and they will play for **score**, not position achieved during the match. This is because NSST 2019 staff will compare your score to everyone in the tournament so as to make it more fair. Participants will play all maps in the pool once.
    - Scores will be rescaled to be up to 1,000,000 and then added up.
@@ -815,28 +894,28 @@ This competition has come to an end and resulted in the following podium:
 5. For FreeMod maps, participants are allowed to use the following mods: Hidden, HardRock, and Easy.
    - Scores with Easy mod attached will be multiplied by 1.75x.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BG]: /wiki/shared/flag/BG.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RO]: /wiki/shared/flag/RO.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

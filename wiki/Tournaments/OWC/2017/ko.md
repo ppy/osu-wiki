@@ -47,8 +47,6 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 - [라이브 스트림](https://www.twitch.tv/osulive)
 - [참가 신청](https://osu.ppy.sh/community/tournaments/12)
 
----
-
 ## 참가 국가
 
 ### 확정된 팀
@@ -94,8 +92,6 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 | ![][flag_FR] | **프랑스** | [Musty](https://osu.ppy.sh/users/251683) |
 | ![][flag_PH] | **필리핀** | [HaruTachi-](https://osu.ppy.sh/users/6244066) |
 | ![][flag_US] | **미국** | [Toy](https://osu.ppy.sh/users/2757689) |
-
----
 
 ## 규칙
 
@@ -154,23 +150,30 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 
 1. 그룹 스테이지에서는 한 그룹 당 네 팀으로 총 여덟 그룹으로 나누어집니다.
    - 그룹의 크기는 대회에 최종적으로 등록된 국가의 수에 따라 달라질 수 있습니다.
+
 2. 같은 그룹에 있는 팀은 한 번씩은 마주하게 될 것입니다.
+
 3. 그룹에서의 순위는 다음과 같은 팀의 퍼포먼스에 따라 정해지게 됩니다:
    - 가장 많이 승리할 것 (경기)
    - `{(승리한 판 수 - 패배한 판 수)}` 보다 높을 것
    - 가장 많이 승리할 것 (판)
    - `∑{(총 점수 차이) / (최대 점수)}` 보다 높을 것
    - 재경기에서 이길 것
+
 4. 상위 두 개의 팀이 상위 스테이지로 진출하게 됩니다.
    - 실제 그룹 스테이지 상황에 따라 달라질 수 있습니다.
+
 5. 그룹 스테이지 이후부터는 더블 엘리미네이션 방식입니다. 이 말은 스테이지에서 승리하면 다음 스테이지로 진출하고, 패배하면 패자조로 가게 된다는 말입니다.
+
 6. [이 이미지](https://puu.sh/bUq5V/f1066103b0.png)를 기반으로 하며 스테이지는 다음과 같이 나누어집니다:
+
    | 스테이지 | 경기 ID |
    | --: | :-- |
    | 16강 | A, B, C, D, E, F, G, H |
    | 8강 | I, J, K, L & R, S, T, U |
    | 준결승 | M, N & V, W, X, Y, Z, AA |
    | 결승 | O & AB, AC, AD, AE, P, Q |
+
 7. **승리 조건:**
    - 그룹 스테이지에서는 5선승제로 진행이 됩니다. (Best-of-9)
    - 16강과 8강에서는 6선승제로 진행이 됩니다. (Best-of-11)
@@ -184,7 +187,7 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 2. 선수들은 두 개의 맵을 워밍업으로 플레이할 수 있습니다. 논란을 야기할 수 있는 내용의 맵은 금지합니다. 워밍업용 맵은 osu! 스탠다드 맵이어야 합니다.
 3. 각 팀의 주장은 맵풀에서 **한 개**의 맵을 밴할 수 있습니다. 밴된 맵들은 경기 내내 사용될 수 없습니다.
 4. 각 팀의 주장이 번갈아가면서 맵을 선택하게 됩니다.
-5. 각 팀의 주장은 #multiplayer 에서 "!roll" 을 채팅에 치게 됩니다.
+5. 각 팀의 주장은 `#multiplayer` 에서 `!roll` 을 채팅에 치게 됩니다.
    - 점수가 더 높게 나온 팀이 선픽권을 가져갑니다.
    - 점수가 더 낮은 팀은 선밴권을 가져갑니다.
 6. 주장들은 맵풀에 있는 맵을 자유롭게 뽑을 수 있습니다.
@@ -221,35 +224,35 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_DK]: /wiki/shared/flag/DK.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_HU]: /wiki/shared/flag/HU.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IL]: /wiki/shared/flag/IL.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_LV]: /wiki/shared/flag/LV.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_RO]: /wiki/shared/flag/RO.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
-[flag_IL]: /wiki/shared/flag/IL.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_RO]: /wiki/shared/flag/RO.gif
+[flag_US]: /wiki/shared/flag/US.gif

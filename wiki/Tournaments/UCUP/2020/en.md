@@ -8,14 +8,14 @@ tags:
 
 ![UCUP 2020 logo](img/logo.jpg)
 
-The **Ulat Bulu Cup 2020** (***UCUP 2020***) was an Indonesian double-elimination 2v2 osu! tournament hosted by ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773). The tournament was restricted to Indonesian-speaking players only. This was the third installment of the Ulat Bulu Cup.
+The **Ulat Bulu Cup 2020** (***UCUP 2020***) was an Indonesian double-elimination 2v2 osu! tournament hosted by ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773). The tournament was restricted to Indonesian-speaking players only. This was the third instalment of the Ulat Bulu Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2020-05-11/2020-05-24 |
-| Group Stage | 2020-06-02/2020-06-14 |
+| Group stage | 2020-06-02/2020-06-14 |
 | Quarterfinals | 2020-06-19/2020-06-22 |
 | Semifinals | 2020-06-26/2020-06-29 |
 | Finals | 2020-07-03/2020-07-05 |
@@ -36,8 +36,8 @@ The Ulat Bulu Cup 2020 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773) |
-| Co-Organiser | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174) |
-| Map selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128) |
+| Co-organiser | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174) |
+| Mappool selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128) |
 | Referee | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275), ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919), ![][flag_ID] [Eg2nD](https://osu.ppy.sh/users/5365662), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Ryuujou](https://osu.ppy.sh/users/3416659), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465) |
 | Caster | ![][flag_ID] [Alice Pi](https://osu.ppy.sh/users/8787324), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
 | Designer | ![][flag_ID] [Nexa-](https://osu.ppy.sh/users/6155896) |
@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[paraoka feat. haru\*nya - Manimani (Yales) \[Yamazakura\]](https://osu.ppy.sh/beatmapsets/714808#osu/1510461)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (150 MB)](https://drive.google.com/file/d/1oNZG_B8ZAy4iipibdcZtZUsnURpaqSTw/view?usp=sharing)**
 
@@ -348,7 +348,7 @@ Monday, 22 June 2020:
 | --: | :-: | :-: | :-- | :-- |
 | **WHOMEGALUL** | **7** | 1 | Eleftharia | [#1](https://osu.ppy.sh/community/matches/63238230) |
 
-### Group Stage
+### Group stage
 
 Tuesday, 2 June 2020:
 
@@ -472,14 +472,14 @@ Sunday, 14 June 2020:
 4. Teams are not allowed to pick map within the same bracket back-to-back (e.g. picking Hidden bracket twice).
 5. FreeMod will be a bracket with intention players can select between Hidden or HardRock or both, it's mandatory that each team member use different mod during the match (e.g. Player 1 is playing with Hidden, Player 2 is playing with HardRock).
 
-### Group Stage details
+### Group stage details
 
 1. Group Stage will be held with the target of 20 teams make it through the cutoff, and will be splitted into 4 groups of 5.
 2. Group Stage will have a Best-of-11 winning condition.
 3. The top 2 teams from each group will advance to the knockout stage on the winner's bracket and the next 2 teams will advance to the knockout stage on the loser's bracket.
 4. Banning system is the same referring to the one in the [stage regulations section](#stage-regulations).
 
-### Knockout Stage details
+### Knockout stage details
 
 1. Knockout stage will be held after the results from Group Stage have been determined.
 2. Knockout stage will adopt the double-elimination bracket. This means teams have two chance of losses before getting eliminated.

@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2018 logo](img/logo.png)
 
-The **osu!catch World Cup 2018** (***CWC 2018***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh installment of the osu!catch World Cup.
+The **osu!catch World Cup 2018** (***CWC 2018***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!catch World Cup 2018** (***CWC 2018***) was a country-based osu!catch 
 | --: | :-- |
 | Registration phase | 2018-05-02/2018-05-16 |
 | Live drawings | 2018-06-02 (14:00 UTC) |
-| Group Stage | 2018-06-09/2018-06-10 |
+| Group stage | 2018-06-09/2018-06-10 |
 | Round of 16 | 2018-06-17 |
 | Quarterfinals | 2018-06-23/2018-06-24 |
 | Semifinals | 2018-06-30/2018-07-01 |
@@ -37,7 +37,7 @@ The **osu!catch World Cup 2018** (***CWC 2018***) was a country-based osu!catch 
 
 The osu!catch World Cup 2018 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589), ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) |
@@ -88,9 +88,11 @@ The osu!catch World Cup 2018 was run by various community members.
 | ![][flag_US] | **United States** | **[Zak](https://osu.ppy.sh/users/1375955)**, [chickenbible](https://osu.ppy.sh/users/2306637), [Dahcreeper](https://osu.ppy.sh/users/6926006), [-Electro-](https://osu.ppy.sh/users/3251373), [Guillotine](https://osu.ppy.sh/users/4365562), [Playboy](https://osu.ppy.sh/users/2165558) |
 | ![][flag_VN] | **Vietnam** | **[Regu-](https://osu.ppy.sh/users/4948274)**, [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [Hana Yukiko](https://osu.ppy.sh/users/4964095), [Kouseki](https://osu.ppy.sh/users/4744615), [motherofsuper](https://osu.ppy.sh/users/6403418), [YamiSora](https://osu.ppy.sh/users/8042500) |
 
-![CWC 2018 podium](img/podium.png)
+![](img/bracket.jpg "CWC 2018 bracket")
 
-![CWC 2018 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.png "CWC 2018 podium")
 
 ## Mappools
 
@@ -198,7 +200,7 @@ The osu!catch World Cup 2018 was run by various community members.
 - Tiebreaker
   - **[Rita - Bookmark Memories \(F D Flourite\) \[Love\]](https://osu.ppy.sh/beatmapsets/783602#fruits/1645428)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (77 MB)](https://mega.nz/#!09kkXCAR!J4oF2QmrLA1RoLgErpqUHBaCul5SFNXAJKnIoo812jc)**
 
@@ -312,7 +314,7 @@ Sunday, 17 June 2018:
 | **Germany** ![][flag_DE] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/43429726) |
 | Sweden ![][flag_SE] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/43431438) |
 
-### Group Stage
+### Group stage
 
 Saturday, 9 June 2018:
 
@@ -429,7 +431,9 @@ Sunday, 10 June 2018:
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change depending on how many teams are accepted into the competition at the end.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
@@ -438,10 +442,14 @@ Sunday, 10 June 2018:
    - In the event of a triple tie:
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
@@ -449,6 +457,7 @@ Sunday, 10 June 2018:
    | Semifinals | M, N & V, W, X, Y, Z, AA |
    | Finals | O & AB, AC, AD |
    | Grand Finals | AE, P, Q |
+
 7. **Winning conditions:**
    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
    - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
@@ -463,9 +472,9 @@ Sunday, 10 June 2018:
 2. Each team is free to select up to one warm-up map. Using beatmaps with questionable content is prohibited. All maps must be osu!catch specific maps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The loser of the !roll starts banning.
-   - The winner of the !roll starts picking the first beatmap of the match.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The loser of the `!roll` starts banning.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Results of the Group Stage will be published via a Statistics sheet.
@@ -519,7 +528,7 @@ Sunday, 10 June 2018:
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
@@ -529,4 +538,4 @@ Sunday, 10 June 2018:
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VN]: /wiki/shared/flag/VN.gif "Venezuela"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

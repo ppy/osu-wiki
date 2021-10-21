@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2018 logo](img/logo.png)
 
-The **osu!taiko World Cup 2018** (***TWC 2018***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eighth installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2018** (***TWC 2018***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eighth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!taiko World Cup 2018** (***TWC 2018***) was a country-based osu!taiko 
 | --: | :-- |
 | Registration phase | 2018-03-08/2018-03-21 |
 | Live drawings | 2018-03-31 (14:00 UTC) |
-| Group Stage | 2018-04-07/2018-04-08 |
+| Group stage | 2018-04-07/2018-04-08 |
 | Round of 16 | 2018-04-15 |
 | Quarterfinals | 2018-04-21/2018-04-22 |
 | Semifinals | 2018-04-28/2018-04-29 |
@@ -37,7 +37,7 @@ The **osu!taiko World Cup 2018** (***TWC 2018***) was a country-based osu!taiko 
 
 The osu!taiko World Cup 2018 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
@@ -49,7 +49,7 @@ The osu!taiko World Cup 2018 was run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/713163)
 - [Livestream](https://www.twitch.tv/osulive)
-- **[Statistics sheet](https://goo.gl/phCq6X)**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml)**
 
 ## Participants
 
@@ -80,9 +80,11 @@ The osu!taiko World Cup 2018 was run by various community members.
 | ![][flag_US] | **United States** | **[n1doking](https://osu.ppy.sh/users/5991961)**, [Dargin](https://osu.ppy.sh/users/7086439), [JDrago14](https://osu.ppy.sh/users/7690078), [Loopy542](https://osu.ppy.sh/users/5468461), [Tem](https://osu.ppy.sh/users/5393042) |
 | ![][flag_VE] | **Venezuela** | **[[\_Chichinya\_]](https://osu.ppy.sh/users/2140739)**, [\[\_LordEnder\_\]](https://osu.ppy.sh/users/4609767), [Colorojo12](https://osu.ppy.sh/users/5136821) |
 
-![TWC 2018 podium](img/podium.png)
+![](img/bracket.png "TWC 2018 bracket")
 
-![TWC 2018 bracket](img/bracket.png)
+## Podium
+
+![](img/podium.png "TWC 2018 podium")
 
 ## Mappools
 
@@ -190,7 +192,7 @@ The osu!taiko World Cup 2018 was run by various community members.
 - Tiebreaker
   - **[BlackYooh vs. siromaru - BLACK or WHITE? (Arrival) \[White\]](https://osu.ppy.sh/beatmapsets/606833#taiko/1281858)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (61 MB)](http://www.mediafire.com/file/q87i9p51i3627bu/TWC%202018%20-%20GROUP%20STAGE%20MAPPOOL.rar)**
 
@@ -298,7 +300,7 @@ Sunday, 15 April 2018:
 | **Chile** ![][flag_CL] | **5** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/41687469) |
 | United Kingdom ![][flag_GB] | 1 | **5** | ![][flag_ES] **Spain** | [#1](https://osu.ppy.sh/community/matches/41689289) |
 
-### Group Stage
+### Group stage
 
 Saturday, 7 April 2018:
 
@@ -390,7 +392,9 @@ Sunday, 8 April 2018:
 ### Stage instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 3 teams.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
@@ -399,10 +403,14 @@ Sunday, 8 April 2018:
    - In the event of a triple tie:
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
@@ -410,6 +418,7 @@ Sunday, 8 April 2018:
    | Semifinals | M, N & V, W, X, Y, Z, AA |
    | Finals | O & AB, AC, AD |
    | Grand Finals | AE, P, Q |
+
 7. **Winning conditions:**
    - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
    - In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
@@ -424,9 +433,9 @@ Sunday, 8 April 2018:
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
 3. Each captain has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Results of the Group Stage will be published via a Statistics sheet.
@@ -474,8 +483,8 @@ Sunday, 8 April 2018:
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "New Zealands"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealands"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"

@@ -1,7 +1,7 @@
 ---
 tags:
-- CWC 2014
-- CWC2014
+  - CWC 2014
+  - CWC2014
 outdated: true
 ---
 
@@ -41,16 +41,12 @@ outdated: true
 | 해설 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) // ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420) // ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_US] [-Ryuujii-](https://osu.ppy.sh/users/2107523) |
 | 통계 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## 링크
 
-- [osu! Catch the Beat World Cup 2014 방송 (Twitch)](https://www.twitch.tv/osulive/)
+- [osu! Catch the Beat World Cup 2014 방송 (Twitch)](https://www.twitch.tv/osulive)
 - **[조별 예선 결과](https://tournaments.hiroto.eu/results/view/1)**
 - [신청서](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
 - [논의 스레드](https://osu.ppy.sh/community/forums/topics/200185)
-
----
 
 ## 대진표
 
@@ -64,8 +60,6 @@ outdated: true
 | :-- | :-- | :-- | :-- | :-- |
 | 독일 ![][flag_DE] | ![][flag_JP] 일본 | **8.00 (8am)** | 10.00 (10am) UTC +2 | 17.00 (5pm) UTC +9 |
 | 스웨덴 ![][flag_SE] | ![][flag_KR] 한국 | **9.00 (9am)** | 11.00 (11am) UTC +2 | 18.00 (6pm) UTC +9 |
-
----
 
 ## 참가자 명단
 
@@ -124,8 +118,6 @@ outdated: true
 | ![][flag_CN] | 중국 | **[Dusk](https://osu.ppy.sh/users/533210)**, [hy1hy1hy](https://osu.ppy.sh/users/243877), [MisakaMikoto](https://osu.ppy.sh/users/434917), [Ibuki Suika](https://osu.ppy.sh/users/290249) |
 | ![][flag_UY] | 우루과이 | **[Themaster155](https://osu.ppy.sh/users/1850067)**, [quique95](https://osu.ppy.sh/users/472924), [Truxxxton](https://osu.ppy.sh/users/1379428), [S3B4](https://osu.ppy.sh/users/3437784) |
 | ![][flag_ID] | 인도네시아 | **[Shurelia](https://osu.ppy.sh/users/3807986)**, [Deceitful](https://osu.ppy.sh/users/1396447), [\_EliteYud\_](https://osu.ppy.sh/users/2365634), [Yoshida Haru-](https://osu.ppy.sh/users/3073351), [- Rii -](https://osu.ppy.sh/users/3734591) |
-
----
 
 ## 비트맵 풀
 
@@ -265,8 +257,6 @@ outdated: true
 - Tiebreaker
   - **[Boots Randolph - Yakety Sax (Mashley) \[Ridiculous\]](https://osu.ppy.sh/beatmapsets/17943#fruits/63804)**
 
----
-
 ## 경기 결과
 
 ### 조별 예선
@@ -332,8 +322,6 @@ outdated: true
 | ![][flag_SE] **스웨덴** | **5** - 4 | 싱가포르 ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6975640) |
 | ![][flag_US] 미국 | 1 - **5** | **독일** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/6977532) |
 
----
-
 ## 전체 룰
 
 ### 토너먼트 관련
@@ -397,7 +385,7 @@ outdated: true
    2. 방 설정은 Catch the Beat, Team-Vs., Win Condition: 'Score' 으로, 방 제목은 반드시 "CtB World Cup 2014: TeamBlue vs TeamRed" 으로 해야 합니다.
    3. 먼저 언급된 팀이 블루팀이며, 그 다음 언급되는 팀이 레드팀입니다.
 2. 플레이어들은 2개의 연습용 맵을 자유롭게 선택할 수 있습니다.
-3. 맵은 번갈아가면서 선곡하되, 각 주장은 방에서 적어도 한번은 "!roll" 을 사용하여 어느 팀이 먼저 선곡할지 정해야 합니다.
+3. 맵은 번갈아가면서 선곡하되, 각 주장은 방에서 적어도 한번은 `!roll` 을 사용하여 어느 팀이 먼저 선곡할지 정해야 합니다.
    1. 논모드, 프리모드용 맵은 자유롭게 고를 수 있습니다.
    2. 모드맵 선곡에는 제한이 있습니다. 각 팀의 주장은 한 모드당 한 맵만을 선곡할 수 있습니다.
       1. 프리모드용 맵은 자유롭게 선택할 수 있습니다.

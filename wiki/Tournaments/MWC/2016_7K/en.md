@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2016 logo](img/logo.jpg)
 
-The **osu!mania 7K World Cup 2016** (***MWC 7K 2016***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the second installment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2016** (***MWC 7K 2016***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the second instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **osu!mania 7K World Cup 2016** (***MWC 7K 2016***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2015-12-01/2015-12-20 |
 | Live drawings | 2016-01-03 (14:00 UTC) |
-| Group Stage | 2016-01-09/2016-01-10 |
+| Group stage | 2016-01-09/2016-01-10 |
 | Round of 16 | 2016-01-16 |
 | Quarterfinals | 2016-01-23 |
 | Semifinals | 2016-01-30/2016-01-31 |
@@ -89,9 +89,11 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 | **C** | ![][flag_US] United States | ![][flag_MY] Malaysia | ![][flag_TW] Taiwan | ![][flag_PL] Poland | ![][flag_NO] Norway |
 | **D** | ![][flag_CN] China | ![][flag_ID] Indonesia | ![][flag_AU] Australia | ![][flag_PH] Philippines | ![][flag_IT] Italy |
 
-![MWC 7K 2016 podium](img/podium.jpg)
+![](img/brackets.jpg "MWC 7K 2016 bracket")
 
-![MWC 7K 2016 bracket](img/brackets.jpg)
+## Podium
+
+![](img/podium.jpg "MWC 7K 2016 podium")
 
 ## Mappools
 
@@ -151,7 +153,7 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 
 **[Download the mappack here!](https://www.mediafire.com/download/kn50d6pa5akm9xs/MWC_7K_2016_Quarterfinals.rar)**
 
-- Freemod
+- FreeMod
   - [xi - Valhalla (Remillion Cross) \[Usagi's White Another\]](https://osu.ppy.sh/beatmapsets/257079#mania/593403)
   - [yuikonnu - Souzou Forest (17VA) \[Lv.34\]](https://osu.ppy.sh/beatmapsets/165716#mania/403124)
   - [SHK - Halloween Party (DarkSider2442) \[Extra\]](https://osu.ppy.sh/beatmapsets/242159#mania/572480)
@@ -173,7 +175,7 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 
 **[Download the mappack here!](https://www.mediafire.com/download/042busdr49rxz51/MWC_7K_2016_Round_of_16.rar)**
 
-- Freemod
+- FreeMod
   - [M2U - Quo Vadis (JamesHappy15) \[lZenxl's 7K SHD\]](https://osu.ppy.sh/beatmapsets/227037#mania/908806)
   - [C-SHOW - Workaholic (Agka) \[Extra\]](https://osu.ppy.sh/beatmapsets/77441#mania/217377)
   - [MiddleIsland - Achromat (iJinjin) \[Blocko's 7K Insane\]](https://osu.ppy.sh/beatmapsets/195940#mania/534336)
@@ -191,7 +193,7 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[takamatt feat. GUMI - TOKIO FUNKA (-Kamikaze-) \[Mid-Summer Marathon\]](https://osu.ppy.sh/beatmapsets/539611#mania/1144249)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here!](https://www.mediafire.com/download/841w26d8ik487uc/MWC_7K_2016_Group_Stage.rar)**
 
@@ -289,7 +291,7 @@ Saturday, 16 January 2016:
 | United Kingdom ![][flag_GB] | 0 | **5** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/21853348) |
 | Brazil ![][flag_BR] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/21865722) |
 
-### Group Stage
+### Group stage
 
 Saturday, 9 January 2016:
 
@@ -395,17 +397,23 @@ Sunday, 10 January 2016:
 ### Stage instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 4 groups of 5 teams.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
    - Most maps won.
    - Have higher `∑{(total score difference) / (maximum score)}`.
    - Winner of the rematch.
+
 4. The top 4 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
@@ -413,6 +421,7 @@ Sunday, 10 January 2016:
    | Semifinals | M, N & V, W, X, Y, Z, AA |
    | Finals | O & AB, AC, AD, AE |
    | Grand Finals | P, Q |
+
 7. The **Winning conditions** for each stage will be:
    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
    - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
@@ -428,9 +437,9 @@ Sunday, 10 January 2016:
 3. Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
    - Both vetos must always be used.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in \#multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning two beatmaps.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning two beatmaps.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Results will be published via Statistics site.

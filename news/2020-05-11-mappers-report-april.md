@@ -10,15 +10,15 @@ Third time's the charm! Another month has passed and that means it's time for an
 
 This month's issue of the Mappers' Report contains the following topics:
 
-- **[Ranking Criteria Changes](#rc-changes)**
+- **[Ranking Criteria Changes](#ranking-criteria-changes)**
 - **[NAT Meetings](#nat-meetings)**
-- **[Within the Beatmap Nominators and NAT](#within-bn-nat)**
-- **[Mappers' Showcase](#mappers-showcase)**
+- **[Within the Beatmap Nominators and NAT](#within-the-beatmap-nominators-and-nat)**
+- **[Mappers' Showcase](#mappers'-showcase)**
 - **[Mapping Contests](#mapping-contests)**
-- **[Around the Community](#around-community)**
+- **[Around the Community](#around-the-community)**
 - **[Conclusion](#conclusion)**
 
-## <a id="rc-changes"></a>Ranking Criteria Changes
+## Ranking Criteria Changes
 
 The [Ranking Criteria](/wiki/Ranking_Criteria) is a set of rules and guidelines beatmaps must follow to reach ranked status. Stay up to date or help make the game more awesome by participating in open Ranking Criteria discussions!
 
@@ -49,7 +49,7 @@ For osu!catch:
 
 - **[Dashes and Higher-Snapped Dashes on Rain difficulties](https://osu.ppy.sh/community/forums/topics/1033696)**
 
-## <a id="nat-meetings"></a>NAT Meetings
+## NAT Meetings
 
 If you have any topics which should be discussed in future meetings, or a proposal you'd like to push to NAT, please do not hesitate to make a post about it on the [NAT Meetings forum thread](https://osu.ppy.sh/community/forums/topics/1041618)! 
 
@@ -63,7 +63,7 @@ Changes have been proposed, including adding popular genres like Metal, Classica
 
 No additional meetings have been planned so far, but the NAT will be sure to get the word out when there's new topics on the horizon!
 
-## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
+## Within the Beatmap Nominators and NAT
 
 New Beatmap Nominators! Quick, request all your beatmaps! Jokes aside, the Beatmap Nominators are never resting. New people come, old people go. Here you can see what happened within the Beatmap Nominators this month!
 
@@ -85,7 +85,7 @@ Interested in becoming a Beatmap Nominator and deciding what maps reach ranked? 
 
 Our office cat **[Mao](https://osu.ppy.sh/users/2204515)** has returned! After stepping down from the NAT duties in December 2019, he decided to make his return. Mao is lending the other osu! NAT members a helping hand with Beatmap Nominator evaluations. Welcome back!
 
-## <a id="mappers-showcase"></a>Mappers' Showcase
+## Mappers' Showcase
 
 The Mappers' Showcase parades lesser-known mappers from every game mode. 
 This month features osu!taiko thanks to our selectors [radar](https://osu.ppy.sh/users/7131099) and [Capu](https://osu.ppy.sh/users/2474015).
@@ -113,7 +113,7 @@ The next month will feature osu!catch — but that's not all! As we want to give
 
 We're excited as you to see which gems are still hidden in osu!
 
-## <a id="mapping-contests"></a>Mapping Contests
+## Mapping Contests
  
 Flex your mapping muscles by voting and participating in some of this month's ongoing contests! Contest veterans, however, might find it more appropriate to release tension as they see some of this month's mapping contest results.
  
@@ -162,7 +162,7 @@ The largest group mapping contest of the year has arrived! This contest pits map
 
 While we try to keep watch over all running contests, we might miss some. If you're aware of a mapping contest that should receive more attention, head to [this forum thread](https://osu.ppy.sh/community/forums/topics/1027590) to submit it for inclusion in the next issue of the Mappers' Report!
 
-## <a id="around-community"></a>Around the Community
+## Around the Community
 
 This section is all about interesting things which have been happening or will happen soon in the mapping and modding community! Should you have/know about something worth including, be sure to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it! For this month, we have updates on the mapping podcast **The osu! Map Cast**, the **Electoz Advanced Modding Guide**, and how **super long marathons can now be ranked**!
 

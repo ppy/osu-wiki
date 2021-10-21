@@ -40,7 +40,7 @@ In osu!lazer, the infamous catmull styled sliders were implemented; thus allowin
 
 In osu!web, the total play time was implemented in user profiles. Elasticsearch was updated. The old site was depreciated almost entirely (a new banner is now present almost everywhere on the old site, linking users to the new site). Genres and languages were added to beatmap pages. Recent activity now shows the "show more" option. Searching users was improved. Icons for the forum topics were changed to be more colour-blind friendly. Users are now able to set their default game mode (shown with a star next to the game mode) in their user profiles, rather than assuming the last viewed game mode. The changelog builds now have an osu!supporter promo at the bottom. An experience bar for the user's level can now be seen by hovering over the level badge.
 
-The Community Choice 2017 results were released with Doormat, Backfire, Ascendance, and Protastic101 winning the community's vote in osu!standard, osu!taiko, osu!catch, and osu!mania respectively.
+The Community Choice 2017 results were released with Doormat, Backfire, Ascendance, and Protastic101 winning the community's vote in osu!, osu!taiko, osu!catch, and osu!mania respectively.
 
 Links:
 

@@ -9,7 +9,7 @@ outdated: true
 
 ![OWC 2019 logo](img/logo.jpg)
 
-**osu! 2019 Dünya Kupası** (***OWC 2019***) [osu!team](/wiki/People/The_Team) tarafından ev sahipliği yapılan ülke tabanlı bir turnuvadır. Şu ana kadar yapılan 10. osu! Dünya Kupasıdır.
+**osu! 2019 Dünya Kupası** (***OWC 2019***) [osu! ekibi](/wiki/People/The_Team) tarafından ev sahipliği yapılan ülke tabanlı bir turnuvadır. Şu ana kadar yapılan 10. osu! Dünya Kupasıdır.
 
 ## Turnuva planlaması
 
@@ -103,11 +103,7 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
 | ![][flag_UY] | **Uruguay** | **[Daanit](https://osu.ppy.sh/users/6159669)**, [-PloX](https://osu.ppy.sh/users/6404583), [-Ritsumi-](https://osu.ppy.sh/users/5218320), [Snepif](https://osu.ppy.sh/users/408088), [Madozito](https://osu.ppy.sh/users/4054429), [Makoto chan](https://osu.ppy.sh/users/8987016), [Rebo](https://osu.ppy.sh/users/6942259), [Rekaru](https://osu.ppy.sh/users/4152967) |
 | ![][flag_VN] | **Vietnam** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [- Eucliwood -](https://osu.ppy.sh/users/1587427), [boylanklunk_9x](https://osu.ppy.sh/users/7050175), [Hoaq](https://osu.ppy.sh/users/7696512), [iPhong](https://osu.ppy.sh/users/8621733), [Shironi](https://osu.ppy.sh/users/8660120), [Ui chan](https://osu.ppy.sh/users/5449433) |
 
----
-
 ![OWC 2019 podyum](img/podium.jpg)
-
----
 
 ## Map Havuzları
 
@@ -506,7 +502,7 @@ Pazar, 17 Kasım 2019:
 3. Her kaptan Son 16 Turu ve Son 32 Turunun havuzlarından seçilecek maplerden **birer tane** yasaklayabilir. Bu maplerin tüm maç boyunca herhangi takım tarafından seçilmesi yasaktır.
    - **Çeyrek finallerden itibaren yasaklama sayısı ikiye çıkacaktır. Yine de, her takım herhangi mod grubunda birden fazla map banlayamaz. (NoMod haricinde).**
 4. Beatmap seçim döngüsü, her kaptanın map havuzundan birer tane map seçmesi şeklinde olacaktır.
-5. Her kaptan "#multiplayer" kanalında bir kereliğine "!roll" komutunu kullanmalıdır.
+5. Her kaptan `#multiplayer` kanalında bir kereliğine `!roll` komutunu kullanmalıdır.
    - En yüksek sayıyı yuvarlayan kaptan ilk hangi takımın **map seçimi** yapacağına karar verir.
    - En düşük sayıyı yuvarlayan kaptan ilk hangi takımın **yasaklayacağına** karar verir.
    - **Çeyrek finallerden itibaren ilk yasaklayan takım bir kere map yasaklayacak, ondan sonra diğer takım iki map ve en sonunda ilk takım son yasaklamasını yapacaktır.**
@@ -544,46 +540,46 @@ Pazar, 17 Kasım 2019:
    - **Kesinlikle ihtiyacınız olmadıkça yeniden düzenleme istemeyin. Turnuva görevlilerinin isteği reddetme hakkı vardır.**
 7. Kendi takım arkadaşlarının gelip gelmemesinden Kaptanlar sorumludur. Arttırılmış takım üyesi sayısı, her takım her maça en az dört oyuncu sağlayabilsin diye vardır. Eğer takımlar maç için dört oyuncu sağlayamazsa, maç kaybedilmiş sayılacaktır.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CZ]: /wiki/shared/flag/CZ.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RO]: /wiki/shared/flag/RO.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_SK]: /wiki/shared/flag/SK.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_IL]: /wiki/shared/flag/IL.gif
-[flag_UY]: /wiki/shared/flag/UY.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_TR]: /wiki/shared/flag/TR.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Arjantin"
+[flag_AT]: /wiki/shared/flag/AT.gif "Avusturya"
+[flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belçika"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brezilya"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CH]: /wiki/shared/flag/CH.gif "İsviçre"
+[flag_CL]: /wiki/shared/flag/CL.gif "Şili"
+[flag_CN]: /wiki/shared/flag/CN.gif "Çin"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Çek Cumhuriyeti"
+[flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
+[flag_DK]: /wiki/shared/flag/DK.gif "Danimarka"
+[flag_ES]: /wiki/shared/flag/ES.gif "İspanya"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlandiya"
+[flag_FR]: /wiki/shared/flag/FR.gif "Fransa"
+[flag_GB]: /wiki/shared/flag/GB.gif "Birleşik Krallık"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_HU]: /wiki/shared/flag/HU.gif "Macaristan"
+[flag_ID]: /wiki/shared/flag/ID.gif "Endonezya"
+[flag_IL]: /wiki/shared/flag/IL.gif "İsrail"
+[flag_IT]: /wiki/shared/flag/IT.gif "İtalya"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japonya"
+[flag_KR]: /wiki/shared/flag/KR.gif "Güney Kore"
+[flag_LV]: /wiki/shared/flag/LV.gif "Letonya"
+[flag_MX]: /wiki/shared/flag/MX.gif "Meksika"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malezya"
+[flag_NL]: /wiki/shared/flag/NL.gif "Hollanda"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norveç"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Yeni Zelanda"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipinler"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polonya"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portekiz"
+[flag_RO]: /wiki/shared/flag/RO.gif "Romanya"
+[flag_RU]: /wiki/shared/flag/RU.gif "Rusya Federasyonu"
+[flag_SE]: /wiki/shared/flag/SE.gif "İsveç"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
+[flag_SK]: /wiki/shared/flag/SK.gif "Slovakya"
+[flag_TR]: /wiki/shared/flag/TR.gif "Türkiye"
+[flag_TW]: /wiki/shared/flag/TW.gif "Tayvan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukrayna"
+[flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"
+[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

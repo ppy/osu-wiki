@@ -29,7 +29,7 @@ Scorewatch has spread its wings and liberated itself from the osu!weekly once an
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/OEWCEvyPkvg" frameborder="0" allowfullscreen></iframe></center>
 
-#SCOREWATCH SCORE SHOW
+## SCOREWATCH SCORE SHOW
 
 [ExGon](https://osu.ppy.sh/users/Exgon) takes on Sponge on the scary 19* map [Erehamonika remixed by kors k - Der Wald (kors k Remix)](https://osu.ppy.sh/beatmapsets/406881).
 

@@ -8,8 +8,9 @@ These rules are the basis from which we help keep the osu! community a fun and w
 2. **Play fair.** Using third-party utilities of any kind to get any sort of advantage is not okay. This includes things like macro programs, aim-assist programs, timescale modification, and so on. If a program is doing something to help you play the game that you should be doing yourself, it isn't okay!
 3. **Be good to each other.** Harassment or other antagonism has no place within the osu! community. We're here to click circles, beat drums, catch fruit, and hit up to eighteen keys at once, not to be assholes to each other.
 4. **Don't be a douche.** If at any point you are uncertain as to whether you are breaking this rule, you probably are.
-5. **We are an all-ages community.** This means that 18+/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) content such as drug use or topics of a sexual nature are not welcome here. Exceptions are made where appropriate for this, but generally speaking, keep it clean.
-6. **Where the rules do not prevail, common sense shall.** The administration has explicit discretion to apply their judgment on this as they see fit.
+5. **We are an all-ages community.** This means that 18+/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) content such as drug use or topics of a sexual nature are not welcome here.
+6. **Keep it clean.** osu! is not the place for dating or flirting. Using sexual language, imagery or making unwanted advances on other members of the community in public or private is NOT okay. If you ever feel uncomfortable with how someone is talking to you, [report it to us confidentially](/wiki/Reporting_Bad_Behaviour/Abuse) so we can help you (and potentially prevent others from being affected).
+7. **Where the rules do not prevail, common sense shall.** The administration has explicit discretion to apply their judgment on this as they see fit.
 
 ## In-game chat rules
 
@@ -37,10 +38,10 @@ These rules are the basis from which we help keep the osu! community a fun and w
 
 *Note: These rules apply to **all submitted maps**, not just Ranked ones. For more specific rules regarding Ranked beatmaps, see the [Ranking Criteria](/wiki/Ranking_Criteria).*
 
-These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Glossary#bss). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/Beatmap_Editor).
+These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Submission). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/Beatmap_Editor).
 
 1. **Make sure you have permission to use any content involved in your beatmap.** This includes songs, videos, hitsounds, graphics, and any other content that isn't your own creation. If you are unsure of where to find content that is free to use, check out our growing [Featured Artist](https://osu.ppy.sh/beatmaps/artists) library for music 100% licensed for use in osu! and the [Content Usage Guidelines](Content_Usage_Guidelines) for more information.
-2. **Stay on topic in Beatmap discussions.** These threads/discussions are about the beatmap in question, and nothing else. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
+2. **Stay on topic in [beatmap discussions](/wiki/Beatmap_Discussion).** These threads/discussions are about the beatmap in question, and nothing else. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
 3. **Do not plagiarise or attempt to steal the work of others.** Do not also upload or use other people's work without their explicit permission (including, but not limited to, skins and guest difficulties).
 4. **Follow the [Song Content Rules](Song_Content_Rules) and [Visual Content Considerations](Visual_Content_Considerations).**
 
@@ -50,16 +51,16 @@ If you do find yourself on the wrong end of our community rules, bad things will
 
 These bad things may include (*but are not limited to*):
 
-- The removal of your ability to chat in-game for a period of time (known as a silence).
+- The removal of your ability to chat in-game for a period of time (known as a [silence](/wiki/Silence)).
 - The removal of any infringing content from your userpage, profile or uploaded beatmaps.
 - The loss of the privilege to edit or alter your userpage or profile details.
 - The loss of the privilege to play or qualify in officially hosted tournaments.
 
-Silences and other infringements **automatically** increase in duration near-exponentially with each infringement. Moderators do not control the length of time you are silenced for an offense - repeat offenders will find themselves locked out of the game for increasingly longer periods of time.
+[Silences](/wiki/Silence) and other infringements **automatically** increase in duration near-exponentially with each infringement. Moderators do not control the length of time you are silenced for an offense - repeat offenders will find themselves locked out of the game for increasingly longer periods of time.
 
-Certain offenses carry a minimum duration (usually 48 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
+Certain offenses carry a minimum duration (usually 42 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
 
-If after several infringements you continue to break the rules, your account may be permanently and irrevocably restricted.
+If after several infringements you continue to break the rules, your account may be [permanently and irrevocably restricted](/wiki/Help_Centre/Account_Restrictions).
 
 Restricted accounts cannot play online, set scores, chat with other users and are for all intents and purposes "banned" from interaction with the community. Restriction for community rule violation can only be removed upon appeal to the support staff after 3 months have passed ([more conditions may apply](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
 

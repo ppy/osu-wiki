@@ -20,12 +20,12 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [Toy](https://osu.ppy.sh/users/2757689) and [DigitalHypno](https://osu.ppy.sh/users/4384207)!
 
@@ -101,7 +101,7 @@ If you've been a fan of the harsher jump maps that have been included in the Lov
 
 Are you looking for another cute song and fun map to add to your collections? Or maybe you're looking for a good map to practice stream aim and control? If you said yes to either of those questions, you'll definitely want to try RTCMON. This map by BarkingMadDog features flowy yet challenging stream patterns at a comfortable 160 BPM, and the consistent rhythm keeps the map engaging for its entire 3:19 duration. The map already has 146 favorites—will you be the next?
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [Backfire](https://osu.ppy.sh/users/263110), [-Kazu-](https://osu.ppy.sh/users/920861) and [iceOC](https://osu.ppy.sh/users/5482401)! This week, all osu!taiko beatmap descriptions were written by [Backfire](https://osu.ppy.sh/users/263110).
 
@@ -131,7 +131,7 @@ A piece of osu!taiko World Cup lore, this is "Shunyata" by tasuke912. However, s
 
 As with many kobaryo songs, this is speedcore, and I mean truly intense speedcore. 360 BPM and very complex, vzk shows us how it's done with his first foray into the Loved section. HUG AND KILL has two difficulties, both of which represent the song and music perfectly, as the easier of the two "nerf" doesn't pull punches on where the song really needs emphasis. "Hell" is the much more difficult of the two, but most of the elite players who enjoyed Loved maps will probably find this difficulty more enjoyable!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Zak](https://osu.ppy.sh/users/1375955), [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941) and [Tenshichan](https://osu.ppy.sh/users/1101600)!
 
@@ -151,7 +151,7 @@ Taking a break from the standard super-hard loved map submissions, we present to
 
 Space time is not what you expect of an average very-hard map. The whole thing is filled with patterns designed to make your playing experience a nightmare. But exactly that, the difficulty and uniqueness of the patterns used, is what makes this map fun to play. You can challenge yourself to catch as many of the patterns as you can or to hold the accuracy as high as possible—getting a B rank is already a challenge, even for very experienced players. It may be unforgiving, but it's an incredible challenge. Fly like a spaceship!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Kamikaze](https://osu.ppy.sh/users/2124783), [\_underjoy](https://osu.ppy.sh/users/2235750), [aitor98](https://osu.ppy.sh/users/3154852), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [TheToaphster](https://osu.ppy.sh/users/7616811)!
 

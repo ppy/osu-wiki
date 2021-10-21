@@ -7,7 +7,7 @@ alumni:
     dev: ผู้พัฒนา osu!
     media: ผู้สร้างสื่อ osu!
     support: ทีมช่วยเหลือ
-    tournaments: ทัวร์นาเมนต์
+    tournaments: ผู้บริหารทัวร์นาเมนต์
 gmt:
   all_mods: ผู้ดูแลทั้งหมด
   areas:
@@ -16,11 +16,11 @@ gmt:
     forum: ผู้ดูแลฟอรั่ม
     team: ทีมอย่างเป็นทางการ
     dev: ผู้พัฒนา osu!
-    osu_idol: เจ้าภาพ osu!idol
     player: ผู้สนับสนุนผู้เล่น
     support: ผู้สนับสนุนทางเทคนิค
-    tournaments: ทัวร์นาเมนต์
+    tournaments: ผู้บริหารทัวร์นาเมนต์
     wiki: ผู้ดูแลวิกิ
+    mapping: ผู้ดูแลชุมชนการแมป/การ mod
 nat:
   areas:
     communication: การสื่อสาร
@@ -33,6 +33,7 @@ languages:
   bg: บัลแกเรีย
   bn: เบงกาลี
   ca: คาตาลัน
+  da: เดนมาร์ก
   de: เยอรมัน
   el: กรีก
   es: สเปน
@@ -40,6 +41,7 @@ languages:
   fi: ฟินแลนด์
   fil: ฟิลิปปินส์
   fr: ฝรั่งเศส
+  gl: กาลิเซีย
   hr: โครเอเชีย
   hu: ฮังการี
   id: อินโดนีเซีย
@@ -48,6 +50,7 @@ languages:
   ko: เกาหลี
   ms: มาเลย์
   nl: ดัตช์
+  no: นอร์เวย์
   pl: โปแลนด์
   pt: โปรตุเกส
   ro: โรมาเนีย

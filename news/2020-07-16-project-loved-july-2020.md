@@ -12,12 +12,12 @@ For those new to the drill around here, you can click each map's banner to vote 
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207) and [waywern2012](https://osu.ppy.sh/users/5870453)! This round, all osu!standard beatmap descriptions were written by [DigitalHypno](https://osu.ppy.sh/users/4384207).
 
@@ -79,7 +79,7 @@ Parachute is a user known to have many uniquely challenging maps, and this map i
 
 This mapset was in the Loved in the past, and after some adjustments, it's time for it to make a return to the category, this time featuring two old versions of the map. The map itself is astonishing in difficulty, surpassing 10 stars and being over 7 minutes in length. The BPM is at an alarmingly high 270, and to top it all off, there are streams... long streams. Seriously. And they're everywhere. This map is an ultimate test of one's streaming ability, and if you dare to tackle it, all I can say is good luck.
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [Ulqui](https://osu.ppy.sh/users/1263669)!
 
@@ -111,7 +111,7 @@ First of all, this map deserves some praise for collecting 154 favourites in a m
 
 Nofool has been very consistently putting out most of the quality SV maps we have nowadays, and so he became one of the names people talk about the most when the topic of SV maps arises. *Memme - Avalanche* is one of his most fun creations, with plethora of SV waves both in streams and 1/4+1/6 patterns, while also having an exquisite "Donkama-like" pattern on the middle that really proved difficult in TWC 2018 when it was selected as a Semifinals FreeMod pick. We look forward to this piece of TWC history getting really cool plays by the most experienced sightread players of our community!
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -154,7 +154,7 @@ For old fruit guys, CTB Darkness is one of the legends among all catch maps. Thi
 
 If you grew up as a PC gamer like me, then you will likely find some nostalgia in this map. This medley by Brandon Blume includes covers of various themes from the *Duke Nukem* franchise. The mapper, Astreachan, is a very active mapper who didn't receive much attention yet. Sadly they gave up trying to rank this very nice map, so it is time to give this the exposure it deserves through Loved. The map itself is really well made. It is different than what most people are used to, as the patterns used are, despite their simplicity, rather unique. Yet nothing feels uncomfortable to play at all. Everything harmonizes together and the map has a great flow. While it is not such a difficult map, giving it a try is still worth it for everyone.
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976576), [Abraxos](https://osu.ppy.sh/users/5025064), [lenpai](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

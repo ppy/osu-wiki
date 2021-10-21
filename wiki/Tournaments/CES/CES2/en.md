@@ -5,9 +5,9 @@ tags:
 
 # CES League osu! Tournament 2
 
-![CES League osu! Tournament 2 Logo](img/logo.png)
+![CES2 logo](img/logo.png)
 
-The **CES League osu! Tournament 2** (***CES2***) is an international 1v1 double-elimination osu! tournament hosted by ![][flag_NL] [Stan](https://osu.ppy.sh/users/11212255). This is the second installment of the CES League osu! Tournament series.
+The **CES League osu! Tournament 2** (***CES2***) is an international 1v1 double-elimination osu! tournament hosted by ![][flag_NL] [Stan](https://osu.ppy.sh/users/11212255). This is the second instalment of the CES League osu! Tournament series.
 
 ## Tournament schedule
 
@@ -28,9 +28,9 @@ The **CES League osu! Tournament 2** (***CES2***) is an international 1v1 double
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge (pending), profile banner, $130.00 (or 5 years of osu!supporter tag) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Profile banner, $60.00 (or 2 years of osu!supporter tag) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Profile Banner, $30.00 (or 1 year of osu!supporter tag) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge (pending), profile banner, $130.00 (or 5 years of osu!supporter) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Profile banner, $60.00 (or 2 years of osu!supporter) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Profile Banner, $30.00 (or 1 year of osu!supporter) |
 
 ![](img/badge.png "CES2 winner badge")
 
@@ -41,7 +41,7 @@ The CES League osu! Tournament 2 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_NL] [Stan](https://osu.ppy.sh/users/11212255) |
-| Map selector | ![][flag_DE] [-Levi-](https://osu.ppy.sh/users/3343488), ![][flag_CA] [Clarkyclarker](https://osu.ppy.sh/users/11664411), ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_US] [Evan1](https://osu.ppy.sh/users/11951699), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_CN] [real MikeL](https://osu.ppy.sh/users/10732897), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_CA] [THUNDERCOKC2678](https://osu.ppy.sh/users/3388082) |
+| Mappool selector | ![][flag_DE] [-Levi-](https://osu.ppy.sh/users/3343488), ![][flag_CA] [Clarkyclarker](https://osu.ppy.sh/users/11664411), ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_US] [Evan1](https://osu.ppy.sh/users/11951699), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_CN] [real MikeL](https://osu.ppy.sh/users/10732897), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_CA] [THUNDERCOKC2678](https://osu.ppy.sh/users/3388082) |
 | Referee | ![][flag_DE] [Aspynix](https://osu.ppy.sh/users/8532548), ![][flag_CA] [Clarkyclarker](https://osu.ppy.sh/users/11664411), ![][flag_US] [Pristine Toast](https://osu.ppy.sh/users/12324616), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_DE] [Enterprise](https://osu.ppy.sh/users/11766551), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [Green_Planet](https://osu.ppy.sh/users/9375311), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_CA] [kurtisisdead](https://osu.ppy.sh/users/5477343), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_US] [Napoca](https://osu.ppy.sh/users/13066691), ![][flag_PL] [P a t r i c k](https://osu.ppy.sh/users/6814521), ![][flag_RU] [Prade](https://osu.ppy.sh/users/9318565), ![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_NL] [Stan](https://osu.ppy.sh/users/11212255), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_MN] [tuudug](https://osu.ppy.sh/users/5145352), ![][flag_AU] [Walfurus](https://osu.ppy.sh/users/13684009), ![][flag_US] [Xpekade](https://osu.ppy.sh/users/10775293), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Commentator | ![][flag_DE] [Aspynix](https://osu.ppy.sh/users/8532548), ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008), ![][flag_US] [FrenZ396](https://osu.ppy.sh/users/9531903), ![][flag_DE] [Green\_Planet](https://osu.ppy.sh/users/9375311), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_DE] [khan119](https://osu.ppy.sh/users/3306777), ![][flag_DE] [mmv](https://osu.ppy.sh/users/8657524), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_US] [Napoca](https://osu.ppy.sh/users/13066691), ![][flag_RU] [Prade](https://osu.ppy.sh/users/9318565), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828), ![][flag_GB] [Young Alpha](https://osu.ppy.sh/users/15383957) |
 | Streamer | ![][flag_DE] [Aspynix](https://osu.ppy.sh/users/8532548), ![][flag_CA] [Clarkyclarker](https://osu.ppy.sh/users/11664411), ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_DE] [Green\_Planet](https://osu.ppy.sh/users/9375311), ![][flag_CA] [kurtisisdead](https://osu.ppy.sh/users/5477343), ![][flag_MN] [tuudug](https://osu.ppy.sh/users/5145352), ![][flag_US] [Xpekade](https://osu.ppy.sh/users/10775293) |

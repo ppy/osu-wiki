@@ -1,12 +1,12 @@
 ---
 tags:
-- CIC
-- CIC2014
+  - CIC
+  - CIC2014
 ---
 
 # Catch the Beat Indonesia Cup 2014
 
-The **Catch the Beat Indonesia Cup 2014** (***CIC 2014***) was an Indonesian 4-players osu!catch tournament hosted by ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063). It was the third installment of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2014** (***CIC 2014***) was an Indonesian 4-players osu!catch tournament hosted by ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063). It was the third instalment of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
@@ -22,9 +22,9 @@ The **Catch the Beat Indonesia Cup 2014** (***CIC 2014***) was an Indonesian 4-p
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 *Note: Still looking for confirmation of prize pool.*
 
@@ -32,12 +32,12 @@ The **Catch the Beat Indonesia Cup 2014** (***CIC 2014***) was an Indonesian 4-p
 
 The Catch the Beat Indonesia Cup 2014 was run by various Indonesian osu!catch community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ID] [Ableh](https://osu.ppy.sh/users/917216), ![][flag_ID] [ursa](https://osu.ppy.sh/users/321063), ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) |
-| Schedule organizer | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] Nakata, ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) |
+| Schedule organiser | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] Nakata, ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) |
 | Referee | ![][flag_ID] [wendao2000](https://osu.ppy.sh/users/1843939), ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990), ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [nya10](https://osu.ppy.sh/users/678794), ![][flag_ID] Nakata |
-| Map selector | ![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165), ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514), ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) |
+| Mappool selector | ![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165), ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514), ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) |
 | Screenshot database | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] [- Ruu -](https://osu.ppy.sh/users/3811821), ![][flag_ID] [AllRiseSilver](https://osu.ppy.sh/users/2212857) |
 | Commentator | ![][flag_ID] [Ava](https://osu.ppy.sh/users/1531280), ![][flag_ID] [Meister-](https://osu.ppy.sh/users/1634252), ![][flag_ID] Korakov |
 | Additional | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
@@ -310,8 +310,8 @@ For participants who is not eligible to fulfill the condition above, they need t
 5. Staff decision is final.
 6. Rules may change without any further notice. However, staffs will make sure to notice the participants beforehand.
 7. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
-   - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and kicked in the current installment of CIC.
-   - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
+   - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and kicked in the current instalment of CIC.
+   - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next instalment of CIC.
    - Participants who use multi account will be blacklisted for 3 years.
 
 ### Match rules

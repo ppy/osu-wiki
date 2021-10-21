@@ -22,6 +22,7 @@ Promotions and retirements of public staff have been recorded to make them easil
 - [2018](2018)
 - [2019](2019)
 - [2020](2020)
+- [2021](2021)
 
 <!--
 TODO: incomplete history

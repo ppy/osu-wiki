@@ -1,23 +1,19 @@
----
-outdated: true
----
+# Visual Settings
 
-# Pengaturan Visual
+![](img/visual-settings-ID.jpg "Tampilan menu Visual Settings")
 
-![](img/visual-settings.jpg "Contoh Pengaturan Visual")
+**Visual Settings** merupakan menu tersembunyi yang dapat diakses dengan mengarahkan kursor ke bawah layar permainan sebelum beatmap dimulai atau ketika permainan sedang dihentikan. Pada saat menu Visual Settings muncul di layar, beatmap tidak akan berjalan hingga kursor diarahkan keluar dari menu Visual Settings.
 
-**Pengaturan Visual** adalah hamparan kustomisasi tersembunyi yang terletak di bagian bawah playfield. Pengaturan ini dapat diakses saat beatmap sedang dimuat. Ketika tampilan Pengaturan Visual ditampilkan, beatmap akan ditunda sampai kursor keluar dari tampilan Pengaturan Visual.
+*Catatan: osu! menyimpan nilai pengaturan Visual Settings secara terpisah untuk masing-masing beatmap. Untuk mengatur nilai pengaturan Visual Settings pada beatmap-beatmap yang kamu miliki secara keseluruhan, gunakan opsi pengaturan yang tersedia pada menu [Options](/wiki/Options).*
 
-Alternatif lainnya, anda dapat mengakses tampilan Pengaturan Visual dengan menunda permainan anda sementara. Namun, metode ini tidak berfungsi dalam pertandingan [multi](/wiki/Multi "multi") karena hal ini dianggap sebagai upaya untuk berhenti dari pertandingan dan akibatnya anda akan meninggalkan ruangan.
+Pada pertandingan [multiplayer](/wiki/Multi), terdapat pengecualian di mana menu Visual Settings hanya dapat diakses selama beberapa detik sebelum beatmap dimulai. Hal ini dikarenakan sekalinya suatu beatmap telah mulai berjalan di dalam ruang pertandingan, beatmap yang bersangkutan tidak dapat dihentikan hingga seluruh pemain selesai bermain.
 
-*Catatan:* Perubahan pengaturan yang terjadi di Pengaturan Visual disimpan berdasarkan beatmap dan akan hilang setelah menutup osu!. Pengaturan global dapat diatur di *Sidebar* [pengaturan.](/wiki/Options "pengaturan")
+## Opsi-opsi pengaturan yang tersedia
 
-## Pilihan yang tersedia
-
-| Nama | Pengaruh | Catatan |
+| Nama | Efek | Catatan |
 | :-- | :-- | :-- |
-| Keredupan Latar Belakang | Membuat playfield lebih gelap. | Selama istirahat, nilai redup adalah 30% dari nilai yang ditetapkan atau 0%. Tidak ada pengaruh khusus jika keredupan disetel menjadi 100%. Fungsi ini juga membuat elemen storyboard lebih gelap jika keredupan disetel 100%. |
-| Nonaktifkan storyboard | Menghapus semua elemen storyboard. Tidak berpengaruh pada [Kiai Time](/wiki/Kiai_time) dan video latar belakang. | Dalam maps yang memiliki peringatan epilepsi, fungsi ini direkomendasikan untuk pemain yang memiliki masalah dengan epilepsi. Opsi ini dinonaktifkan jika tidak ada storyboard untuk dimainkan. |
-| Abaikan skin bawaan beatmap | Tidak akan menggunakan skin kustom dari beatmap, jika ada. Tetapi akan menggunakan skin yang dipilih pemain sebagai gantinya. | Perlu memulai ulang untuk menerapkannya. |
-| Abaikan hitsound bawaan beatmap | Tidak akan menggunakan hitsounds dari beatmap, jika ada. Tetapi akan menggunakan hitsounds dari skin yang dipilih pemain sebagai gantinya. | Perlu memulai ulang untuk menerapkannya. |
-| Nonaktifkan video | Tidak akan memainkan video. Tetapi hal ini tidak menghapus storyboard. | Perlu memulai ulang jika pilihan diaktifkan setelah lagu dimulai. Opsi ini dinonaktifkan jika tidak ada video untuk dimainkan. |
+| Keredupan Latar Belakang | Meredupkan latar belakang dan elemen-elemen visual lainnya pada layar permainan (termasuk storyboard dan/atau video). | Pada rentang waktu istirahat (*break time*), secara *default* latar belakang akan terlihat 30% lebih terang dari nilai keredupan yang ditetapkan sebelumnya (hingga nilai keredupan maks. 0%). *Catatan: osu! menyimpan nilai pengaturan Keredupan Latar Belakang secara terpisah untuk masing-masing beatmap.* |
+| Nonaktifkan storyboard | Menonaktifkan seluruh elemen storyboard. Opsi ini tidak menonaktifkan [Kiai Time](/wiki/Kiai_time) dan video. | Disarankan bagi para pemain yang rawan terhadap gejala-gejala epilepsi/ayan pada beatmap-beatmap yang memiliki peringatan epilepsi (*epilepsy warning*). Opsi ini tidak tersedia apabila beatmap yang bersangkutan tidak memiliki storyboard. |
+| Abaikan skin bawaan beatmap | Mengesampingkan skin bawaan beatmap dan menerapkan skin yang sedang dipakai oleh pemain ke dalam beatmap yang bersangkutan. | Perubahan baru akan mulai berlaku setelah beatmap dimuat ulang. |
+| Abaikan hitsound bawaan beatmap | Mengesampingkan hitsound-hitsound bawaan beatmap dan menerapkan hitsound-hitsound dari skin yang sedang dipakai oleh pemain ke dalam beatmap yang bersangkutan. | Perubahan baru akan mulai berlaku setelah beatmap dimuat ulang. |
+| Nonaktifkan video | Menonaktifkan video. Opsi ini tidak menonaktifkan storyboard. | Perubahan baru akan mulai berlaku setelah beatmap dimuat ulang. Opsi ini tidak tersedia apabila beatmap yang bersangkutan tidak memiliki video. |

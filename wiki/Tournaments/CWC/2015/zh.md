@@ -1,7 +1,7 @@
 ---
 tags:
-- CWC 2015
-- CWC2015
+  - CWC 2015
+  - CWC2015
 outdated: true
 ---
 
@@ -43,8 +43,6 @@ outdated: true
 | 在线直播 | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 | 解说人员 | ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_DE] [Kingkevin30](https://osu.ppy.sh/users/564334) // ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) |
 | 统计 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
-
----
 
 ## 参赛者
 
@@ -104,22 +102,16 @@ outdated: true
 | ![][flag_TH] | Thailand | **[bank78952](https://osu.ppy.sh/users/1443297)**, [ZeroEightOne](https://osu.ppy.sh/users/1054016), [Boom](https://osu.ppy.sh/users/1090858) |
 | ![][flag_IT] | Italy | **[Pizza Kun](https://osu.ppy.sh/users/768609)**, [scemioff](https://osu.ppy.sh/users/3098795), [BlasterONE](https://osu.ppy.sh/users/1861182), [ArMa79](https://osu.ppy.sh/users/4982799), [Trollingor](https://osu.ppy.sh/users/4144266), [Mamansita](https://osu.ppy.sh/users/2542146) |
 
----
-
 ## 外部链接
 
 - [讨论帖](https://osu.ppy.sh/community/forums/topics/316279)
 - **[小组赛统计](https://owc.nicarim.pw/results/view/5)**
 - [队长 Showcase (YouTube)](https://www.youtube.com/playlist?list=PLFsdDKrKpj7thvR58LRWxBPso4__aDUMp)
-- [osu! Catch the Beat World Cup 2015 官方 Twitch 直播室](https://www.twitch.tv/osulive/)
-
----
+- [osu! Catch the Beat World Cup 2015 官方 Twitch 直播室](https://www.twitch.tv/osulive)
 
 ![CWC 2015 podium](img/podium.jpg)
 
 ![CWC 2015 brackets](img/bracket.jpg)
-
----
 
 ## 图池 (Mappools)
 
@@ -264,8 +256,6 @@ outdated: true
 - Tiebreaker
   - **[Hanatan - If (Rakuen) \[wkyik's Insane\]](https://osu.ppy.sh/beatmapsets/230050#fruits/587577)**
 
----
-
 ## 比赛结果
 
 ### 决赛
@@ -408,8 +398,6 @@ Sunday, 10\. May 2015
 | ![][flag_CL] **Chile** | **4** - 2 | Germany ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/16039172) |
 | ![][flag_BR] Brazil | 0 - **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/16039176) |
 
----
-
 ## 规则
 
 ### 比赛规则
@@ -451,17 +439,23 @@ Sunday, 10\. May 2015
 
 1. 在小组赛的时候，所有队伍将会随机分配到8个小组中，每组4个队伍。
    - 当然，会根据总参赛队伍数进行更改。
+
 2. 每个队伍都会跟同小组中的其他三个队伍相遇。
+
 3. 队伍的排名将根据以下条件 (权重按降序排列) 计算：
    1. 队伍获胜次数较高。
    2. `{(我方获胜图数) - (对方获胜图数)}`的差值较高。
    3. 获胜图数较高。
    4. `∑{(队伍总分差异) / (图的最高分数)}`的商值较高。
    5. 重赛中获胜。
+
 4. 小组赛里排名前2的队伍将会晋级到双淘汰赛
    1. 根据实际小组赛分配，可能会进行合理调整。
+
 5. 在双淘汰赛的阶段，赢的一方将会晋级到胜组下一场的比赛，而输的一方将进入败组。
+
 6. 基于[此表](https://puu.sh/bUq5V/f1066103b0.png)，比赛分成下面的阶段：
+
    | 阶段 | 比赛 ID |
    | :-- | :-- |
    | 16强 | A, B, C, D, E, F, G, H |
@@ -469,6 +463,7 @@ Sunday, 10\. May 2015
    | 半决赛 | M, N & V, W, X, Y, Z,AA |
    | 决赛第一周 | O & AB, AC, AD, AE |
    | 决赛第二周 | P, Q |
+
 7. **胜利条件：**
    - 小组赛阶段，采用7局4胜制。
    - 16强和1/4决赛，9局5胜制。
@@ -484,7 +479,7 @@ Sunday, 10\. May 2015
 3. 每队队长可以禁止图池中的两张图。这些图在比赛中双方都不能选择。
    1. 不可放弃禁图权。
 4. 由两队队长轮流从图池中选图。
-5. 每队队长必须从 \#multiplayer 中使用一次 !roll 命令。
+5. 每队队长必须从 `#multiplayer` 中使用一次 `!roll` 命令。
    1. 点数大的队伍先选图。
    2. 点数小的队伍先禁图。
 6. 队长可以从任何分类的图组中进行选择。
@@ -514,37 +509,37 @@ Sunday, 10\. May 2015
 4. 比赛时间由赛事管理小组安排。具体时间安排会在每个阶段之前的一周周日进行公告。赛事管理小组尽量尊重每个参赛队伍的时区来进行安排。
 5. 队长对于队伍的能否参赛负责。队伍的人数上限就是为了保证每队至少可以提供三名队员来参加每一场比赛。比赛时不足三名队员到场的队伍会被当做弃权处理。
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
+[flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
+[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
+[flag_BE]: /wiki/shared/flag/BE.gif "比利时"
+[flag_BR]: /wiki/shared/flag/BR.gif "巴西"
+[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
+[flag_CL]: /wiki/shared/flag/CL.gif "智利"
+[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_DE]: /wiki/shared/flag/DE.gif "德国"
+[flag_DK]: /wiki/shared/flag/DK.gif "丹麦"
+[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
+[flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
+[flag_FR]: /wiki/shared/flag/FR.gif "法国"
+[flag_GB]: /wiki/shared/flag/GB.gif "英国"
+[flag_HK]: /wiki/shared/flag/HK.gif "香港"
+[flag_HU]: /wiki/shared/flag/HU.gif "匈牙利"
+[flag_ID]: /wiki/shared/flag/ID.gif "印度尼西亚"
+[flag_IT]: /wiki/shared/flag/IT.gif "意大利"
+[flag_JP]: /wiki/shared/flag/JP.gif "日本"
+[flag_KR]: /wiki/shared/flag/KR.gif "韩国"
+[flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
+[flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
+[flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
+[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
+[flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
+[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
+[flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
+[flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
+[flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
+[flag_TH]: /wiki/shared/flag/TH.gif "泰国"
+[flag_TW]: /wiki/shared/flag/TW.gif "台湾"
+[flag_US]: /wiki/shared/flag/US.gif "美国"
+[flag_VE]: /wiki/shared/flag/VE.gif "委内瑞拉"

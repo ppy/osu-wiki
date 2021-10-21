@@ -6,22 +6,22 @@ tags:
 
 # Novice Mania Cup 3rd
 
-![MXB 3rd Logo](img/logo.jpg)
+![MXB 3rd logo](img/logo.jpg)
 
-The **Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the MXB team. It is the third installment of the MXB osu!mania 4K Tournament.
-​​
-## Tournament Schedule
+The **Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the MXB team. It is the third instalment of the MXB osu!mania 4K Tournament.
+
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-04-05/2019-04-17 |
-| Qualification Stage | 2019-05-04/2019-05-05 |
-| Live Drawings | 2019-05-05 19:00 (UTC+8) |
-| Group Stage | 2019-05-11/2019-05-12 |
+| Registration phase | 2019-04-05/2019-04-17 |
+| Qualification stage | 2019-05-04/2019-05-05 |
+| Live drawings | 2019-05-05 19:00 (UTC+8) |
+| Group stage | 2019-05-11/2019-05-12 |
 | Quarterfinals | 2019-05-18/2019-05-19 |
 | Semifinals | 2019-05-25/2019-05-26 |
-| Finals - Week 1 | 2019-06-01/2019-06-02 |
-| Finals - Week 2 | 2019-06-15/2019-06-16 |
+| Finals week 1 | 2019-06-01/2019-06-02 |
+| Finals week 2 | 2019-06-15/2019-06-16 |
 
 ## Prizes
 
@@ -29,20 +29,20 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 15 CNY |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 15 CNY |
 
 ## Organisation
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
-| Co-Host | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) |
-| Map Selector | ![][flag_CN] [ExNeko](https://osu.ppy.sh/users/7590894), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_US] [qqqant](https://osu.ppy.sh/users/8976576), ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201), ![][flag_CN] [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
-| Streaming Referee | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Co-host | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) |
+| Mappool selector | ![][flag_CN] [ExNeko](https://osu.ppy.sh/users/7590894), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_US] [qqqant](https://osu.ppy.sh/users/8976576), ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201), ![][flag_CN] [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
+| Streaming referee | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 | Commentator | ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
-| Wiki Editor | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Wiki editor | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## Links
 
@@ -52,12 +52,6 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
   - [IA daisuki](https://live.bilibili.com/4353181)
   - [NimaPro](https://live.bilibili.com/12166146)
   - [Rasis](https://live.bilibili.com/5333)
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | [A M D](https://osu.ppy.sh/users/5321112) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [shizehao](https://osu.ppy.sh/users/4928674) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Yutto007](https://osu.ppy.sh/users/10269172) |
 
 ## Participants
 
@@ -79,6 +73,16 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 | B | Anonie | magical Sao | HerrySun | shizehao |
 | C | bouquetww | a794151336 | s\_w\_w | Yutto007 |
 | D | \[xiao ba\] | Star0v0 | RW233 | A M D |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CN] [A M D](https://osu.ppy.sh/users/5321112) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] [shizehao](https://osu.ppy.sh/users/4928674) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [Yutto007](https://osu.ppy.sh/users/10269172) |
 
 ## Mappools
 
@@ -103,7 +107,6 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
   - [penoreri - Prayer \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/952639#mania/1989158)
 - Tiebreaker
   - **[Camellia & Nanahira - senpai, notice me! \[Senpai!!\]](https://osu.ppy.sh/beatmapsets/719648#mania/1683462)**
-
 
 ### Semifinals
 
@@ -145,7 +148,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 - Tiebreaker
   - **[gmtn. (witch's slave) - furioso melodia \[4K furioso maratona\]](https://osu.ppy.sh/beatmapsets/307371#mania/725897)**
 
-### Group Stage
+### Group stage
 
 **Download the mappack here! (73 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow) (code: `wbbx`) - [Google Drive](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn)**
 
@@ -163,7 +166,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 - Tiebreaker
   - **[u's - No brand girls \[Maximum Live!\]](https://osu.ppy.sh/beatmapsets/207612#mania/515574)**
 
-### Qualification Stage
+### Qualification stage
 
 **Download the mappack here! (14 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1XkNuvDcQUlKfT_5dmEYVNA) - [Google Drive](https://drive.google.com/file/d/11pY2Li_O_XBvJz60xfdAhxOjGQghkvM-)**
 
@@ -173,16 +176,16 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
   - [Alan Walker - The Spectre \[Stage 3:The Spectre\]](https://osu.ppy.sh/beatmapsets/959232#mania/2008278)
   - [Shawn Wasabi - Marble Soda \[Stage 4: Ramune\]](https://osu.ppy.sh/beatmapsets/946991#mania/1977877)
 
-## Match Results
+## Match results
 
-### Finals - Week 2
+### Finals week 2
 
 | Player | Score | Score | Player |
 | :-: | :-: | :-: | :-: |
 | Yutto007 | 0 | **1** | **shizehao** |
 | **A M D** | **6** | 1 | shizehao |
 
-### Finals - Week 1
+### Finals week 1
 
 | Player | Score | Score | Player |
 | :-: | :-: | :-: | :-: |
@@ -209,7 +212,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 | **Yutto007** | **1** | 0 | \[xiao ba\] |
 | KirigayaSnow | 0 | **1** | **shizehao** |
 
-### Group Stage
+### Group stage
 
 | Group | Players |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
@@ -222,17 +225,18 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 | D | **\[xiao ba\]** | Star0v0 | RW233 | **A M D** |
 |  | **7** | 1 | 4 | **12** |
 
-### Qualification Stage
+### Qualification stage
 
 Check **[statistics sheet](https://docs.qq.com/sheet/DSWlYeVZIR01xRG5s)** for more details.
 
 ## Rules
 
-### Tournament Organisation
+### Tournament organisation
 
-#### Round Overview
+#### Round overview
 
 With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
+
 - **Qualification Stage**: 4 song mappool, no winning condition, no tiebreaker song
 - **Group Stage**: 11 song mappool, best of 7 (first to 4), one tiebreaker song
 - **Quarterfinals and Semifinals**: 13 song mappool, best of 9 (first to 5), one tiebreaker song
@@ -240,7 +244,7 @@ With the exception of the qualification stage (which does not have a winning con
 
 Notice: Beatmap scoring is based on **Score V2**.
 
-#### Qualification Process
+#### Qualification process
 
 - All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. **The maximum number of players who can advance to the subsequent round is 32.** The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage. 
   - If 16 players enter, all 16 players will qualify and no one gets eliminated.
@@ -253,7 +257,7 @@ Notice: Beatmap scoring is based on **Score V2**.
 - Players will be organized into groups based on their availability. Because qualification is not a process that involves 1 on 1 matchups, it is actually possible to have 8 players go through the qualification process at once. If this is a confusing process, do not worry: simply adhere to the schedule that will be released and follow referee instructions during the match. The purpose of putting you in groups of 8 is to give everyone streaming time, for qualifiers will be streamed as well!
 - Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their cumulative score on all four songs, with the best score being seed #1, and the worst score being seed n; n being the number of players in the qualification stage.
 
-#### Group Stage
+#### Group stage
 
 - After the Play-Offs stage, the remaining players will be divided into 4 different groups based on their qualification seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group.
 - Each player in these groups will face each other once. In total, every player in the Group Stage will participate in three matches. The two best-performing players in each group will advance to the bracket stage.
@@ -264,7 +268,7 @@ Notice: Beatmap scoring is based on **Score V2**.
   4. Higher qualification seed.
 - The two worst-performing players of each group will be eliminated from the tournament.
 
-#### Bracket Stage
+#### Bracket stage
 
 - The bracket stage is a double elimination stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
 - After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. 
@@ -274,7 +278,7 @@ Notice: Beatmap scoring is based on **Score V2**.
 - Players who are in the winners bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where the player is required to play in up to two matches if the player were to lose his first match in the Grand Finals stage.
 - Players who are in the losers bracket at the start of the Quarterfinals stage or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will no longer need to play in any further matches in the tournament, for they are eliminated from the tournament.
 
-### Tournament Play
+### Tournament play
 
 #### Protocol
 
@@ -295,8 +299,8 @@ Notice: Beatmap scoring is based on **Score V2**.
 - **It is our right as the MXB staff to reprimand users for intolerable behavior.**
   - We will have sole discretion over decisions that affect your standing in the tournament; however, other members of tournament staff may forward any information to me that in any way represents uncalled for behavior towards other users or staff in my tournament. I will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful.
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
-  
-#### Warm-up Songs
+
+#### Warm-up songs
 
 - Each player in the match will be allowed one warm-up song to be played, making for two warm-ups in total between both players.
 - The warm-up must be uploaded to the osu! website and accessible by everyone prior to the tournament match. **mirrors links are not allowed, and neither are personal links featuring the beatmap that you want downloaded.**
@@ -304,11 +308,11 @@ Notice: Beatmap scoring is based on **Score V2**.
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 - In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This includes the first 2 stages of the tournament after the qualifiers.
 
-#### Bans, Rolls and Song Selection
+#### Bans, rolls, and song selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one map within the map pool that they are playing for the given round.
-- Players will be instructed to do a !roll command by the referee that is overseeing the match; the losing roll picks the first ban, while the winning roll picks the first song of the match.
+- Players will be instructed to do a `!roll` command by the referee that is overseeing the match; the losing roll picks the first ban, while the winning roll picks the first song of the match.
 - After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied: 
   - One player has achieved enough wins in such a way that the other player cannot successfully win the round.
   - Both players are at match point at the same time.
@@ -322,5 +326,5 @@ Notice: Beatmap scoring is based on **Score V2**.
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

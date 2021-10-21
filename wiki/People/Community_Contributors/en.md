@@ -4,7 +4,7 @@
 
 The **Community Contributors** are the people who have taken it upon themselves to provide service to the osu! community at great cost to themselves - tools and features that many of us take for granted today. These users are given a badge to denote that they did something notable for the entire community.
 
-Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which are previous osu!team members that retired, Community Contributor badges are given to public freelancers who had go beyond the call of duty to improve osu! and the community environment.
+Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which are previous members of various osu! teams that retired, Community Contributor badges are given to public freelancers who had go beyond the call of duty to improve osu! and the community environment.
 
 ## 2013
 
@@ -25,7 +25,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which ar
 | ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Developing and maintaining [osu!stats](https://osustats.ppy.sh/) and a number of useful utilities for both beatmapping, modding and general play. |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Outstanding performance in bugfix/feature testing and handling user support queries. |
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3+ years of silent work tirelessly handling [beatmap packing](https://osu.ppy.sh/beatmaps/packs) and several years of managing the beatmap charts. |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Years upon years of service, including designing the original beatmap skin, advancing [storyboarding](/wiki/Storyboards) as an art and motivation. |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Years upon years of service, including designing the original beatmap skin, advancing [storyboarding](/wiki/Storyboard) as an art and motivation. |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Early community management and moderation and huge contributions over the course of his time. |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Being the first community manager and global moderator, who set the bar extremely high for the [GMT](/wiki/People/The_Team/Global_Moderation_Team) to follow. |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | Being the first staff manager and BATmanager and single-handedly forming an elite beatmap moderation team from nothing. |
@@ -105,8 +105,8 @@ Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which ar
 | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Outstanding contribution and organisation of the Chinese localisation project for osu!, osu! wiki, and osu!lazer |
 | ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Outstanding contribution to the osu!lazer project and creation of numerous media tools |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | Creator of PerformancePlus and osu!chan |
-| ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Outstanding effort in the production and publishing of the Score project |
-| ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Outstanding effort in the production and publishing of the Score project |
+| ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Outstanding effort in the production and publishing of the Scorewatch project |
+| ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Outstanding effort in the production and publishing of the Scorewatch project |
 | ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Outstanding efforts in furthering the osu! wiki project with countless revisions, reworks and reviews |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | Cornerstone of the osu! wiki project and outstanding contribution throughout the years |
 
@@ -171,6 +171,22 @@ Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which ar
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Outstanding, unwavering contribution to player support & assistance |
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Outstanding contribution to the Mappers' Guild and Beatmap Nominators |
 | ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835) | Outstanding contribution to osu! open source projects |
+
+## 2021
+
+### March
+
+*For the news post, see: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+
+| User | Contributions |
+| :-- | :-- |
+| ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) | Outstanding contribution to the community events and development |
+| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Outstanding contribution to the World Cups and community events |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Outstanding contribution to the mapping and modding scene |
+| ![][flag_PL] [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Outstanding contribution to osu! development through many projects |
+| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Outstanding contribution to the osu! skinning and moderation scene |
+| ![][flag_US] [I Must Decrease](https://osu.ppy.sh/users/2773526) | Outstanding contribution to scoring maintenance and development |
+| ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189) | Outstanding contribution to the World Cups and community tournament scene |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"

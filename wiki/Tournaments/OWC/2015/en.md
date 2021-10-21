@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2015 logo](img/logo.jpg)
 
-The **osu! World Cup 2015** (***OWC 2015***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth installment of the osu! World Cup.
+The **osu! World Cup 2015** (***OWC 2015***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! World Cup 2015** (***OWC 2015***) was a country-based osu! tournament
 | --: | :-- |
 | Registration phase | 2015-10-01/2015-10-18 |
 | Live drawings | 2015-11-01 (14:00 UTC) |
-| Group Stage | 2015-11-07/2015-11-08 |
+| Group stage | 2015-11-07/2015-11-08 |
 | Round of 16 | 2015-11-15 |
 | Quarterfinals | 2015-11-21/2015-11-22 |
 | Semifinals | 2015-11-28/2015-11-29 |
@@ -48,7 +48,7 @@ The osu! World Cup 2015 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/posts/4550383)
-- [Livestream](https://www.twitch.tv/osulive/)
+- [Livestream](https://www.twitch.tv/osulive)
 - **[Group Stage statistics overview](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 
 ## Participants
@@ -101,9 +101,11 @@ The osu! World Cup 2015 was run by various community members.
 | **G** | ![][flag_DE] Germany | ![][flag_NL] Netherlands | ![][flag_TH] Thailand | ![][flag_SG] Singapore |
 | **H** | ![][flag_TW] Taiwan | ![][flag_AT] Austria | ![][flag_SE] Sweden | ![][flag_PT] Portugal |
 
-![OWC 2015 podium](img/podium.jpg)
+![](img/bracket.jpg "OWC 2015 bracket")
 
-![OWC 2015 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "OWC 2015 podium")
 
 ## Mappools
 
@@ -229,7 +231,7 @@ The osu! World Cup 2015 was run by various community members.
 - Tiebreaker
   - **[Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix) (Meg) \[We cry "OPEN"\]](https://osu.ppy.sh/beatmapsets/331499#osu/734339)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (155 MB)](https://www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar)**
 
@@ -342,7 +344,7 @@ Sunday, 15 November 2015:
 | Norway ![][flag_NO] | 0 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/20285332) |
 | Canada ![][flag_CA] | 1 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/20287601) |
 
-### Group Stage
+### Group stage
 
 Saturday, 7 November 2015:
 
@@ -455,23 +457,30 @@ Sunday, 8 November 2015:
 ### Stage instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
    - Most maps won.
    - Have higher `∑{(total score difference) / (maximum score)}`.
    - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Double Elimination Stages.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are splitted up the following:
+
    | Stage | Match ID |
    | :-- | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
    | Quarterfinals | I, J, K, L & R, S, T, U |
    | Semifinals | M, N & V, W, X, Y, Z,AA |
-   | Finals - Week 1 | O & AB, AC, AD, AE |
-   | Finals - Week 2 | P, Q |
+   | Finals week 1 | O & AB, AC, AD, AE |
+   | Finals week 2 | P, Q |
+
 7. **Winning Conditions:**
    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
    - In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
@@ -487,9 +496,9 @@ Sunday, 8 November 2015:
 3. Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
    - Both vetos must always be used.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in \#multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning two beatmaps.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning two beatmaps.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Results will be published via Statistics site.
@@ -543,7 +552,7 @@ Sunday, 8 November 2015:
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"

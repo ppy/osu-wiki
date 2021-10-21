@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Şarkı içeriği kuralları
 
 Eldeki pek çok çeşit müzikler ile birlikte, bir çok parçanın osu!'da kullanımında, aşağıdaki içerikleri barındırmaması koşuluyla, bir sakınca yoktur:

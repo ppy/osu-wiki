@@ -1,8 +1,8 @@
 ---
 tags:
-- Asian Taiko Showdown 2018
-- ATS 2018
-- ATS2018
+  - Asian Taiko Showdown 2018
+  - ATS 2018
+  - ATS2018
 ---
 
 # Asian Taiko Showdown 2018
@@ -56,8 +56,6 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 - [ATSディスコード](https://discord.gg/2xQDbkS)
 - **[ATS 統計シート](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0)**
 
----
-
 ## 参加者
 
 | Seed | 選手 |
@@ -80,19 +78,13 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 | **G** | ![][flag_TW] [TS\_LewisLuo](https://osu.ppy.sh/users/4337536) | ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957) | ![][flag_ID] [Shirai-](https://osu.ppy.sh/users/4221845) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
 | **H** | ![][flag_JP] [KILI3343](https://osu.ppy.sh/users/11233651) | ![][flag_PH] [Jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_JP] [GlinT fraulein](https://osu.ppy.sh/users/7364981) | ![][flag_JP] [puropera209](https://osu.ppy.sh/users/2545134) |
 
----
-
 ![ATS 2018 Podium](img/podium.jpg)
-
----
 
 ![ATS 2018 Upper Bracket](img/upper_bracket.jpg)
 
 ![ATS 2018 Lower Bracket](img/lower_bracket.jpg)
 
 ![ATS 2018 GS Participants](img/gs_participants.gif)
-
----
 
 ## ビートマッププール(課題曲)
 
@@ -287,8 +279,6 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 - Tiebreaker
   - **[Demetori - Desire Drive ~ Desire Dream (OnosakiHito) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/42234#taiko/135188)**
 
----
-
 ## 試合結果
 
 ### Grand Finals
@@ -424,8 +414,6 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 | EM | **Taiko\_VN12** ![][flag_VN] | **3** | 0 | ![][flag_PH] -Zephy- | -win by default- |
 | EM | \_CaKy\_ ![][flag_ID] | 0 | **3** | ![][flag_SG] **uchuuj1n** | [#1](https://osu.ppy.sh/community/matches/42923346) |
 
----
-
 ## ルールセット
 
 ### 大会ルール
@@ -464,9 +452,9 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 2. お互いのプレイヤーは自由に1回だけウォーミングアップのビートマップが選べます。但し、試合に適さないビートマップは禁止されます。全てのマップはosu！taiko専用のビートマップでなければなりません。
 3. お互いのプレイヤーは、プール内のビートマップを１つ追放する権利があります。これらのビートマップは試合中において、全プレイヤーが選ぶことが禁止されます。
 4. ビートマップ選択は、mappoolからビートマップを選んでいるプレーヤーの間で交互に代わります。
-5. お互いのプレイヤーは、 "!roll"を #multiplayerのチャンネル内のチャットで一度発言しなければなりません。
-   - !rollの(数字が高い)勝者は試合開始のビートマップを選びます。
-   - !rollの(数字が低い)敗者は禁止ビートマップを選びます。
+5. お互いのプレイヤーは、 `!roll`を `#multiplayer`のチャンネル内のチャットで一度発言しなければなりません。
+   - `!roll`の(数字が高い)勝者は試合開始のビートマップを選びます。
+   - `!roll`の(数字が低い)敗者は禁止ビートマップを選びます。
 6. プレイヤーは各ブラケット(Mappool Instructions参照)から自由に選びます。
    - 最後まで同点の場合、Tiebreakerのビートマップを選ばなくてはなりません。
 
@@ -504,16 +492,16 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 3. 準決勝において、勝つためには試合で６つのビートマップで勝利する必要があります。
 4. 決勝と最終戦において、勝つためには試合で７つのビートマップで勝利する必要があります。
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "オーストラリア"
+[flag_CA]: /wiki/shared/flag/CA.gif "カナダ"
+[flag_CL]: /wiki/shared/flag/CL.gif "チリ"
+[flag_HK]: /wiki/shared/flag/HK.gif "香港"
+[flag_ID]: /wiki/shared/flag/ID.gif "インドネシア"
+[flag_JP]: /wiki/shared/flag/JP.gif "日本"
+[flag_KR]: /wiki/shared/flag/KR.gif "韓国"
+[flag_MY]: /wiki/shared/flag/MY.gif "マレーシア"
+[flag_PH]: /wiki/shared/flag/PH.gif "フィリピン"
+[flag_SG]: /wiki/shared/flag/SG.gif "シンガポール"
+[flag_TW]: /wiki/shared/flag/TW.gif "台湾"
+[flag_US]: /wiki/shared/flag/US.gif "アメリカ合衆国"
+[flag_VN]: /wiki/shared/flag/VN.gif "ベトナム"

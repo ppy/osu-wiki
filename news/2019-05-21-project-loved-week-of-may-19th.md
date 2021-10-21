@@ -14,12 +14,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -105,7 +105,7 @@ You may know the artist Kurokotei from the Loved map Galaxy Collapse; if you enj
 
 Now this is a collab with many well known mappers in it, and the set creator is the one and only ProfessionalBox. "Camellia - NUCLEAR-STAR" has a variety of difficulties that each vary in their own respective mapper's way. The map ranges from 0.44 stars to 7.67 stars, so there's a bit of everything in this set: from slider-tech-heavy patterns to more simple standard ones, there's a difficulty that suits anyone who gives this map a go!
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -145,7 +145,7 @@ It's TWC season! eae managed to map this very relaxing song with dense patterns 
 
 今年もTWCの季節がやってきた！eaeによるこの譜面は、落ち着いた曲調のこの曲を、巧みなマッピングスキルでに高密度に仕上げることが出来ています。Readingの難しさから、osu!taiko World Cup 2019のmappoolとしても選ばれています。低いスクロールスピードの譜面が苦手なあなたも、ぜひこの譜面で練習してみてください！
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -167,7 +167,7 @@ Spectator is an absolute veteran of osu!catch mapping; there are hardly any play
 
 Vincs is certainly not an unknown entity when it comes to the Loved section, as he already has three of his maps in it. However, this time it is not another CS0 map. Instead, it is a 10-minute-long map of exceptional quality with a drain time of over 8 minutes, and that on a single song. Yoiyami no Uta is one of those maps which just doesn't deserve to be forgotten in the Graveyard. The map definitely reflects the insane amount of work that went into it; nothing feels out of place, and even though the map is long, it isn't repetitive or boring to play, rather the opposite. The mapping style is very clean and was kept at a level where it is not over-the-top but on the other hand also not too easy. You just have to give this map a shot if you want to know how fantastic it really is; it is truly a great experience!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

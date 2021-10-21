@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: a4e45cf0738ff0ce2327cba8b9efe89d53e1ef9f
+---
+
 # 比赛管理指令
 
 你可以用下面的聊天指令管理多人游戏房间：

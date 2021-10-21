@@ -7,7 +7,7 @@ tags:
 
 ![o!mLN logo](img/logo.png)
 
-The **osu!mania LN Tournament** (***o!mLN***) was a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament featured a variety of maps with a lot of sliders (or Long Notes) in its mappools. It was the first installment of the osu!mania LN Tournaments.
+The **osu!mania LN Tournament** (***o!mLN***) was a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament featured a variety of maps with a lot of sliders (or Long Notes) in its mappools. It was the first instalment of the osu!mania LN Tournaments.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!mania LN Tournament** (***o!mLN***) was a double-elimination 1v1 osu!m
 | Registration phase | 2019-02-10/2019-03-03 |
 | Live drawings | 2019-03-12 (19:00 UTC) |
 | Qualifiers | 2019-03-16/2019-03-17 |
-| Group Stage | 2019-03-23/2019-03-31 |
+| Group stage | 2019-03-23/2019-03-31 |
 | Round of 16 | 2019-04-05/2019-04-07 |
 | Quarterfinals | 2019-04-13/2019-04-14 |
 | Semifinals | 2019-04-19/2019-04-21 |
@@ -38,7 +38,7 @@ The osu!mania LN Tournament was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Map selector | ![][flag_FR] [Skochan](https://osu.ppy.sh/users/7861278), ![][flag_US] [AYAYAA](https://osu.ppy.sh/users/4980256) |
+| Mappool selector | ![][flag_FR] [Skochan](https://osu.ppy.sh/users/7861278), ![][flag_US] [AYAYAA](https://osu.ppy.sh/users/4980256) |
 | Referee | ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_BE] [DraQeu](https://osu.ppy.sh/users/4425520), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Trypha](https://osu.ppy.sh/users/2812098), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_GR] [nik](https://osu.ppy.sh/users/10077264), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_GB] [Weavile](https://osu.ppy.sh/users/9665028) |
 | Streamer | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Commentator | ![][flag_US] [AYAYAA](https://osu.ppy.sh/users/4980256), ![][flag_GB] [Theresa May](https://osu.ppy.sh/users/8946085) |
@@ -176,7 +176,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Kanako Itou - Uncontrollable (Raveille) \[Tarachodis Lv.18\]](https://osu.ppy.sh/beatmapsets/690587#mania/1461522)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (77 MB)](https://mega.nz/#!stVjGQ7K!bOfAIerEz7ihTRPrYnUNyg28F87-9Z3dQnMyRnfkhq4)**
 
@@ -195,7 +195,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Nhato - Ophelia (Umo-) \[Drowning\]](https://osu.ppy.sh/beatmapsets/789359#mania/1656583)**
 
-### Qualifiers Stage
+### Qualifiers stage
 
 **[Download the mappack here! (14 MB)](https://mega.nz/#!5w1XUIQR!k9vkdaa63EMjAVwwh0eFRCx6w3M6C_6v9T1VT9wcfeI)**
 
@@ -301,7 +301,7 @@ Sunday, 7 April 2019:
 | YaLTeR ![][flag_RU] | 0 | **4** | ![][flag_FR] **AuraahDono** | [#1](https://osu.ppy.sh/community/matches/50827652) |
 | MillaMaxwelle ![][flag_FR] | -1 | **0** | ![][flag_BR] **andreymc** | *win by default* |
 
-### Group Stage
+### Group stage
 
 Friday, 22 March 2019:
 

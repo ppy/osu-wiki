@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2020 logo](/wiki/shared/news/banners/CWC2020.jpg)
 
-The **osu!catch World Cup 2020** (***CWC 2020***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It is the ninth installment of the osu!catch World Cup.
+The **osu!catch World Cup 2020** (***CWC 2020***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It is the ninth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!catch World Cup 2020** (***CWC 2020***) is a country-based osu!catch t
 | --: | :-- |
 | Registration phase | 2020-04-07/2020-04-21 |
 | Live drawings | 2020-05-02 (14:00 UTC) |
-| Group Stage | 2020-05-09/2020-05-10 |
+| Group stage | 2020-05-09/2020-05-10 |
 | Round of 16 | 2020-05-16/2020-05-17 |
 | Quarterfinals | 2020-05-23/2020-05-24 |
 | Semifinals | 2020-05-30/2020-05-31 |
@@ -89,7 +89,9 @@ The osu!catch World Cup 2020 was run by the [osu! team](/wiki/People/The_Team) a
 | ![][flag_US] | **United States** | **[rostld](https://osu.ppy.sh/users/4365562)**, [Dahcreeper](https://osu.ppy.sh/users/6926006), [diao](https://osu.ppy.sh/users/500696), [Lexii](https://osu.ppy.sh/users/7226149), [Secre](https://osu.ppy.sh/users/2306637), [Zak](https://osu.ppy.sh/users/1375955) |
 | ![][flag_VN] | **Vietnam** | **[Close](https://osu.ppy.sh/users/4744615)**, [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [Huytimeclock](https://osu.ppy.sh/users/10920086), [Marota](https://osu.ppy.sh/users/10278890), [mothernature](https://osu.ppy.sh/users/6403418), [NamSPro](https://osu.ppy.sh/users/11387006) |
 
-![CWC 2020 podium](img/podium.jpg)
+## Podium
+
+![](img/podium.jpg "CWC 2020 podium")
 
 ## Mappools
 
@@ -213,7 +215,7 @@ The osu!catch World Cup 2020 was run by the [osu! team](/wiki/People/The_Team) a
 - Tiebreaker
   - **[kors k feat.RIRE - Nirvana(Camellia's "BinaryHeaven" Remix) (Spectator) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/694025#fruits/1468430)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [REDALiCE vs. MASAKI - BUCHiGiRE Berserker (Bunnrei) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1074448#fruits/2249908)
@@ -330,7 +332,7 @@ Sunday, 17 May 2020:
 | **United States** ![][flag_US] | **6** | 5 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/61776851) |
 | Russian Federation ![][flag_RU] | 3 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/61784119) |
 
-### Group Stage
+### Group stage
 
 Saturday, 9 May 2020:
 
@@ -447,7 +449,9 @@ Sunday, 10 May 2020:
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change depending on how many teams are accepted into the competition at the end.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
@@ -456,10 +460,14 @@ Sunday, 10 May 2020:
    - In the event of a triple tie:
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
@@ -482,9 +490,9 @@ Sunday, 10 May 2020:
 2. Each team is free to select up to one warm-up map. Using beatmaps with questionable content is prohibited. All maps must be osu!catch specific maps.
 3. Each captain has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.

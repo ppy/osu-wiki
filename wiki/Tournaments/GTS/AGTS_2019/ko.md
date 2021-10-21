@@ -60,8 +60,6 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 - [Challonge 대진표](https://challonge.com/AGTS2019)
 - **[메인 스프레드시트](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
 
----
-
 ## 참가자
 
 |  | 국가 | 팀원 |
@@ -108,8 +106,6 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 | **E** | ![][flag_KR] 대한민국 | ![][flag_DE] 독일 A | ![][flag_DK] ![][flag_NO] ![][flag_SE] 스칸디나비아 | ![][flag_VE] 베네수엘라 |
 | **F** | ![][flag_CA] 캐나다 | ![][flag_GB] ![][flag_PT] 영국/포르투갈 | ![][flag_ID] 인도네시아 A | ![][flag_ID] 인도네시아 B |
 
----
-
 ## 순위권
 
 이 대회는 종료되었으며, 순위권에 든 팀은 다음과 같습니다.
@@ -119,8 +115,6 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 | ![금메달](/wiki/shared/crown-gold.png "1등") | ![][flag_JP] 일본 |
 | ![은메달](/wiki/shared/crown-silver.png "2등") | ![][flag_CA] 캐나다 |
 | ![동메달](/wiki/shared/crown-bronze.png "3등") | ![][flag_RU] 러시아 A |
-
----
 
 ## 맵풀
 
@@ -285,8 +279,6 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 - DoubleTime
   - [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
 
----
-
 ## 경기 결과
 
 ### 최종 결승
@@ -384,8 +376,6 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 | E5 | 베네수엘라 ![][flag_VE] | 0 | **5** | ![][flag_DE] **독일 A** | -win by default- |
 | D2 | **브라질** ![][flag_BR] | **5** | 3 | ![][flag_US] 미국 A | [#1](https://osu.ppy.sh/community/matches/54181034) |
 
----
-
 ## 규칙
 
 ### 전체 규정
@@ -470,7 +460,7 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 6. 각 팀은 각각 하나의 웜업(warm-up) 비트맵을 제시할 수 있습니다. 웜업에 사용되는 곡은 길이가 4분 이하여야 합니다. 웜업은 몇 명이든 참가할 수 있습니다. 즉, 1대1이나 3대3, 2대4 등도 허용됩니다.
 7. 각 팀의 주장은 **맵풀에 있는 하나의 맵을 밴하게 됩니다.** 이때 TB는 밴 대상에서 제외됩니다. 이렇게 밴된 맵은 경기에서 플레이되지 않습니다.
 8. 각 팀의 주장은 `!roll` 커맨드를 사용해 숫자 뽑기를 합니다.
-9. !roll을 통해 더 낮은 숫자를 뽑은 사람이 먼저 맵을 밴하고, 더 높은 숫자를 뽑은 사람이 그 이후에 먼저 맵을 고릅니다.
+9. `!roll`을 통해 더 낮은 숫자를 뽑은 사람이 먼저 맵을 밴하고, 더 높은 숫자를 뽑은 사람이 그 이후에 먼저 맵을 고릅니다.
 10. 플레이할 비트맵 결정은 곡을 밴하는 과정 이후 서로 번갈아가면서 맵풀에서 하나씩 고르게 됩니다.
 11. 경기 중의 플레이어 교체는 언제나 허용됩니다.
 12. 경기 중 선수 교환은 제한없이 허용됩니다.
@@ -510,8 +500,8 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
 [flag_MY]: /wiki/shared/flag/MY.gif

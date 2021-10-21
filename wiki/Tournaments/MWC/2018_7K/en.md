@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2018 logo](img/logo.png)
 
-The **osu!mania 7K World Cup 2018** (***MWC 7K 2018***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth installment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2018** (***MWC 7K 2018***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **osu!mania 7K World Cup 2018** (***MWC 7K 2018***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2018-01-10/2018-01-24 |
 | Live drawings | 2018-02-03 (14:00 UTC) |
-| Group Stage | 2018-02-10/2018-02-11 |
+| Group stage | 2018-02-10/2018-02-11 |
 | Round of 16 | 2018-02-18 |
 | Quarterfinals | 2018-02-24/2018-02-25 |
 | Semifinals | 2018-03-03/2018-03-04 |
@@ -39,7 +39,7 @@ The **osu!mania 7K World Cup 2018** (***MWC 7K 2018***) was a country-based osu!
 
 The osu!mania 7K World Cup 2018 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852), ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381) |
@@ -95,9 +95,11 @@ The osu!mania 7K World Cup 2018 was run by various community members.
 | **G** | ![][flag_CN] China | ![][flag_CH] Switzerland | ![][flag_AR] Argentina |
 | **H** | ![][flag_CL] Chile | ![][flag_AU] Australia | ![][flag_SE] Sweden |
 
-![MWC 7K 2018 podium](img/podium.jpg)
+![](img/bracket.jpg "MWC 7K 2018 bracket")
 
-![MWC 7K 2018 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "MWC 7K 2018 podium")
 
 ## Mappools
 
@@ -185,7 +187,7 @@ The osu!mania 7K World Cup 2018 was run by various community members.
 - Tiebreaker
   - **[kamome sano - eclair au chocolat (extended bittersweet mix) (Lenfried-) [Gourmet Chocolate]](https://osu.ppy.sh/beatmapsets/505048#mania/1074472)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (79 MB)](http://www.mediafire.com/file/afhpp235r223mry/Group%20Stage.zip)**
 
@@ -279,7 +281,7 @@ Sunday, 18 February 2018:
 | France ![][flag_FR] | 0 | **5** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/40184493) |
 | **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/40186843) |
 
-### Group Stage
+### Group stage
 
 Saturday, 10 February 2018:
 
@@ -375,7 +377,9 @@ Sunday, 11 February 2018:
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change depending on how many teams are accepted into the competition at the end.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
@@ -384,10 +388,14 @@ Sunday, 11 February 2018:
    - In the event of a triple tie:
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves on to the next stage and the losing team gets moved to the Losers' bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
@@ -395,6 +403,7 @@ Sunday, 11 February 2018:
    | Semifinals | M, N & V, W, X, Y, Z, AA |
    | Finals | O & AB, AC, AD |
    | Grand Finals | AE, P, Q |
+
 7. The **Winning conditions** for each stage will be:
    - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
    - In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
@@ -409,9 +418,9 @@ Sunday, 11 February 2018:
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 7K specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 6. Results of the Group Stage will be published via a Statistics sheet.
 
 ### Mappool instructions
@@ -437,11 +446,11 @@ Sunday, 11 February 2018:
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"

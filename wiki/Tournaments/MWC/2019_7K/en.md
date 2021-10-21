@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2019 logo](img/logo.jpg)
 
-The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth installment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2019-01-07/2019-01-19 |
 | Live drawings | 2019-02-02 14:00:00 UTC |
-| Group Stage | 2019-02-09/2019-02-10 |
+| Group stage | 2019-02-09/2019-02-10 |
 | Round of 16 | 2019-02-16/2019-02-17 |
 | Quarterfinals | 2019-02-23/2019-02-24 |
 | Semifinals | 2019-03-02/2019-03-03 |
@@ -39,7 +39,7 @@ The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!
 
 The osu!mania 7K World Cup 2019 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381) |
@@ -95,9 +95,11 @@ The osu!mania 7K World Cup 2019 was run by various community members.
 | **G** | ![][flag_CN] China | ![][flag_CL] Chile | ![][flag_DK] Denmark |
 | **H** | ![][flag_PL] Poland | ![][flag_SG] Singapore | ![][flag_IL] Israel |
 
-![MWC 7K 2019 podium](img/podium.jpg)
+![](img/bracket.jpg "MWC 7K 2019 bracket")
 
-![MWC 7K 2019 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "MWC 7K 2019 podium")
 
 ## Mappools
 
@@ -177,7 +179,7 @@ The osu!mania 7K World Cup 2019 was run by various community members.
 - Tiebreaker
   - **[Sword of Justice - Valestein Castle (pporse) \[Rock\]](https://osu.ppy.sh/beatmapsets/290360#mania/654164)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [Kurenainagi Tabibito - Otenba Koimusume (MeowPaz) \[paperlens' 7K Hard\]](https://osu.ppy.sh/beatmapsets/363320#mania/797821)
@@ -280,7 +282,7 @@ Sunday, 17 February 2019:
 | Japan ![][flag_JP] | 3 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/49657037) |
 | Sweden ![][flag_SE] | 0 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/49660865) |
 
-### Group Stage
+### Group stage
 
 Saturday, 9 February 2019:
 
@@ -377,7 +379,9 @@ Sunday, 10 February 2019:
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change depending on how many teams are accepted into the competition at the end.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
@@ -386,10 +390,14 @@ Sunday, 10 February 2019:
    - In the event of a triple tie:
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves on to the next stage and the losing team gets moved to the Losers' bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
@@ -397,6 +405,7 @@ Sunday, 10 February 2019:
    | Semifinals | M, N & V, W, X, Y, Z, AA |
    | Finals | O & AB, AC, AD |
    | Grand Finals | AE, P, Q |
+
 7. The **Winning conditions** for each stage will be:
    - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
    - In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
@@ -411,9 +420,9 @@ Sunday, 10 February 2019:
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 7K specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 6. Results of the Group Stage will be published via a Statistics sheet.
 
 ### Mappool instructions
@@ -449,9 +458,9 @@ Sunday, 10 February 2019:
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IL]: /wiki/shared/flag/IL.gif "Israel"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MO]: /wiki/shared/flag/MO.gif "Macau"

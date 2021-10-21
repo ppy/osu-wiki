@@ -33,7 +33,7 @@ More details can be found on the [Monthly Beatmapping Contest wiki article](/wik
 
 ## Beatmapping
 
-### <a id="limitation"></a>Limitation
+### Limitation
 
 The MBC features a new mapping limitation each month that participants must work within. Last month required all submissions to be at most 4.00 stars in difficulty, so any submissions higher than that were disqualified.
 
@@ -43,7 +43,7 @@ Any inherited timing points (green lines in the editor) you use should be for hi
 
 Given how frequently maps nowadays change slider velocity, catering to this limitation may be a bit annoying. To make things *better* though, we've chosen songs that call for a significant amount of slider speed changes! Sorry to say, but your suffering just makes the contest more fun.
 
-### <a id="songs"></a>Songs
+### Songs
 
 Each MBC provides beatmappers a choice between 5 songs from one of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists).
 

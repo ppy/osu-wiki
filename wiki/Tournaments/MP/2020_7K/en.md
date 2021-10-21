@@ -10,7 +10,7 @@ tags:
 
 ![MP7K 2020 logo](img/logo.png)
 
-The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2020*) is a 1v1 osu!mania 7-key tournament made for osu! players living in Poland or of Polish heritage. It is the second installment of the Mistrzostwa Polski w 7K.
+The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2020*) is a 1v1 osu!mania 7-key tournament made for osu! players living in Poland or of Polish heritage. It is the second instalment of the Mistrzostwa Polski w 7K.
 
 ## Tournament schedule
 
@@ -19,7 +19,7 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 | Registration phase | 2020-10-12/2020-10-25 |
 | Qualifiers showcase | 2020-11-01 |
 | Qualifiers | 2020-11-06/2020-11-08 |
-| Group Stage | 2020-11-14/2020-11-15 |
+| Group stage | 2020-11-14/2020-11-15 |
 | Round of 16 | 2020-11-21/2020-11-22 |
 | Quarterfinals | 2020-11-28/2020-11-29 |
 | Semifinals | 2020-12-05/2020-12-06 |
@@ -53,15 +53,13 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 
 ## Participants
 
-### Qualified participants
-
 | Seed | Users |
 | :-- | :-- |
 | High (#1 - #8) | ![][flag_PL] [- gero -](https://osu.ppy.sh/users/5068537), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750), ![][flag_PL] [Selegiline](https://osu.ppy.sh/users/1333495), ![][flag_PL] [Brunwald\_1410](https://osu.ppy.sh/users/1639587), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691), ![][flag_PL] [jasionnn](https://osu.ppy.sh/users/6886081), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260) |
 | Mid (#9 - #16) | ![][flag_PL] [paprotkaaaaa](https://osu.ppy.sh/users/6034749), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Shadow Cultist](https://osu.ppy.sh/users/3827078), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [M1si3k](https://osu.ppy.sh/users/7447943), ![][flag_PL] [Hentu](https://osu.ppy.sh/users/7706642), ![][flag_PL] [szuncoll](https://osu.ppy.sh/users/12393014), ![][flag_PL] [Modren](https://osu.ppy.sh/users/1828621) |
 | Low (#17 - #24) | ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [Bersis](https://osu.ppy.sh/users/3557582), ![][flag_PL] [Matie](https://osu.ppy.sh/users/10144756), ![][flag_PL] [Moskas](https://osu.ppy.sh/users/1934077), ![][flag_PL] [Ilikecook](https://osu.ppy.sh/users/11389137), ![][flag_PL] [vipera767](https://osu.ppy.sh/users/4258883), ![][flag_PL] [Bobini-](https://osu.ppy.sh/users/7352299), ![][flag_PL] [LosDaniel](https://osu.ppy.sh/users/6105427) |
 
-### Groups
+## Groups
 
 | Group | High | Mid | Low |
 | :-: | :-- | :-- | :-- |
@@ -74,11 +72,9 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 | **G** | ![][flag_PL] Yamakazi | ![][flag_PL] Modren | ![][flag_PL] LosDaniel |
 | **H** | ![][flag_PL] Selegiline | ![][flag_PL] Hentu | ![][flag_PL] capsafangirl |
 
----
-
 ## Match schedule: Round of 16
 
-Round of 16 schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSI38OTqk6QlqVJ7ww16TzawYt3B9jfpy2JDP3AEZM8d8tcy1WU13EMMOG8FK9dKOyywrTeBy7SOyxc/pubhtml).
+Round of 16 schedule can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSI38OTqk6QlqVJ7ww16TzawYt3B9jfpy2JDP3AEZM8d8tcy1WU13EMMOG8FK9dKOyywrTeBy7SOyxc/pubhtml).
 
 ## Mappools
 
@@ -99,7 +95,7 @@ Round of 16 schedule can be found [here](https://docs.google.com/spreadsheets/d/
 - Tiebreaker
   - **[mafumafu - I wanna be a girl (Kawawa) \[Cinderella\]](https://osu.ppy.sh/beatmapsets/1111963#mania/2323202)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [u's - Bokura wa Ima no Naka de(TV Size) (arcwinolivirus) \[Normal\]](https://osu.ppy.sh/beatmapsets/569665#mania/1207647)
@@ -124,7 +120,7 @@ Round of 16 schedule can be found [here](https://docs.google.com/spreadsheets/d/
 
 ## Match results
 
-### Group Stage
+### Group stage
 
 Saturday, 14 November 2020:
 
@@ -162,7 +158,7 @@ Sunday, 15 November 2020:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4DrJH1ut5nwkm8Df6MIwzpekAVhp0hg1uIe1ytQJdPDaFkjKzYJFxzDEQuyOE0fVpqFvLZdZ5ra8W/pubhtml).
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4DrJH1ut5nwkm8Df6MIwzpekAVhp0hg1uIe1ytQJdPDaFkjKzYJFxzDEQuyOE0fVpqFvLZdZ5ra8W/pubhtml).
 
 ## Ruleset
 
@@ -247,13 +243,13 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 - In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This rule is enforced within Group Stage of the tournament.
 
-#### Bans, protected picks, rolls and song selection
+#### Bans, protected picks, rolls, and song selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Mirror, Hidden, Fade In, or Flashlight can be used. Protected maps and bans are hidden.
 - Players are to choose one (1) protected map within the map pool which they want to keep not bannable (from their opponent). They must inform the match referee in a private message of which map they choose to protect. If the player does not inform the match referee of their desired map choice in 60 seconds, the player will lose an opportunity to choose a protected map.
 - Players are to ban one (1) map within the map pool which they are playing for the given round. They must inform the match referee in a private message of which map they choose to ban. If the player does not inform the match referee of their desired ban choice in about 60 seconds, the player will lose an opportunity to choose a ban.
 - It is mandatory for the match referee to inform players in the lobby which maps are protected and banned.
-- Players will be instructed to do a !roll command by the referee that is overseeing the match. The winner of the !roll decides if they want to pick first or second. In the event that both players get the same roll, they will have to continue doing the !roll command until the tie is broken.
+- Players will be instructed to do a `!roll` command by the referee that is overseeing the match. The winner of the `!roll` decides if they want to pick first or second. In the event that both players get the same roll, they will have to continue doing the `!roll` command until the tie is broken.
 - After the protected maps, bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
      - The winning player moves onto the next match.

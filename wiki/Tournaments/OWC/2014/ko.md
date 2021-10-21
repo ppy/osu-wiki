@@ -41,15 +41,11 @@ outdated: true
 | 해설 | ![][flag_GB][jesus1412](https://osu.ppy.sh/users/230116) // ![][flag_FR][Mr Color](https://osu.ppy.s6078) // ![][flag_GB][Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US][ztrot](https://osu.ppy.sh/users/6347) |
 | 통계 | ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## 링크
 
-- [osu! World Cup 2014 트위치 방송](https://www.twitch.tv/osulive/)
+- [osu! World Cup 2014 트위치 방송](https://www.twitch.tv/osulive)
 - [등록 양식](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
 - [토론 장소](https://osu.ppy.sh/community/forums/posts/3410198)
-
----
 
 ## Ruleset
 
@@ -95,16 +91,22 @@ outdated: true
 ### 스테이지 관련
 
 1. 조별 예선은 4팀씩 8그룹으로 나뉘어지며, 이후 해당 조의 다른 세 팀과 한번씩 경기를 하게 됩니다.
+
 2. All the teams from each group will face each other.
+
 3. 각 팀의 순위는 다음 조건에 따라 정해지며, 더 위에 있는 조건이 우선순위가 높습니다.
    1. 경기 승리수가 많다
    2. (승리한 맵의 수 - 패배한 맵의 수)가 더 많다
    3. 승리한 맵의 수가 더 많다
    4. (총점 차 / 최대 점수)의 전체 합산이 더 높다
    5. 재경기에서 이긴다
+
 4. 각 조별 1위와 2위는 Double Elimination 경기에 진출하게 됩니다.
+
 5. 각 조의 상위 2순위 팀은 Double Elimination 경기에 참가하게 되며, 하위 2순위 팀은 패자부활전에 참가하게 됩니다.
+
 6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
+
    | Stage | Match ID |
    | :-- | :-- |
    | 16강 | A, B, C, D, E, F, G, H |
@@ -112,6 +114,7 @@ outdated: true
    | 준결승전 | M, N & V, W, X, Y, Z,AA |
    | 결승전 - 1주차 | O & AB, AC, AD, AE |
    | 결승전 - 2주차 | P, Q |
+
 7. **승리 조건:**
    - 조별 예선은 7선 4승제입니다.
    - 16강과 8강은 9선 5승제입니다.
@@ -126,8 +129,8 @@ outdated: true
 2. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited.
 3. Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
    1. Both vetos must always be used.
-   2. Both captains must use "!roll" to determine, who starts banning two beatmaps. The other captain can not ban the same beatmaps and must pick another beatmap in case of an overlap.
-4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool. Each captain must use "!roll" once in \#multiplayer to determine which team selects first.
+   2. Both captains must use `!roll` to determine, who starts banning two beatmaps. The other captain can not ban the same beatmaps and must pick another beatmap in case of an overlap.
+4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects first.
    1. Captains can pick freely from any bracket.
    2. In case of a tie, the tiebreaker map must be played.
 5. Results will be published on the wiki and via the Statistics website.

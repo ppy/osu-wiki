@@ -9,7 +9,7 @@ Ten zbiór zasad to podstawa, dzięki której społeczność osu! jest przyjazny
 ## Zasady dot. społeczności
 
 1. **Każdy gracz może posiadać maksymalnie *JEDNO* konto** To konto należy do ciebie. Nie do nikogo innego - brata, matki, siostry, znajomego - jest TWOJE. Nie dziel się swoim kontem z nikim innym.
-2. **Graj uczciwie.** Używanie zewnętrznych narzędzi przynoszących różnego rodzaju nieuczciwe korzyści jest niedozwolone. Dotyczy ty makr, programów poprawiających celność, modyfikacje prędkości czasu i tym podobne. Jeżeli używasz programu, który w grze robi coś za ciebie, to musisz wiedzieć, że nie jest to uczciwe!
+2. **Graj uczciwie.** Używanie zewnętrznych narzędzi przynoszących różnego rodzaju nieuczciwe korzyści jest niedozwolone. Dotyczy to makr, programów poprawiających celność, modyfikacji prędkości czasu i tym podobne. Jeżeli używasz programu, który w grze robi coś za ciebie, to musisz wiedzieć, że nie jest to uczciwe!
 3. **Zachowuj się dobrze wobec innych.** W społeczności osu! nie ma miejsca na prześladowania czy szykanowania. Jesteśmy tu po to, by klikać kółka, uderzać w bębenki, łapać owoce czy naciskać nawet osiemnaście klawiszy naraz, a nie po to, by być dupkami w stosunku do siebie.
 4. **Nie udawaj idioty.** Jeżeli nie masz pewności, czy łamiesz tę zasadę, zapewne to robisz.
 5. **W naszej społeczności są osoby z każdego przedziału wiekowego.** Oznacza to, że treści przeznaczone tylko dla pełnoletnich (takie jak temat narkotyków czy seksu) nie są tu mile widziane. Tam gdzie to właściwe, od tej reguły zdarzają się wyjątki, ale dla świętego spokoju nie udostępniaj takich materiałów.
@@ -25,7 +25,7 @@ Ten zbiór zasad to podstawa, dzięki której społeczność osu! jest przyjazny
 6. **Bądź świadom tego, co udostępniasz innym, zwłaszcza gdy ta treść może być niepokojąca lub obsceniczna.** Jeżeli musisz zastanawiać się dwa razy nad tym, czy coś jest odpowiednie, to prawdopodobnie to nie jest. Unikaj treści zawierających szybkie, migoczące światła, brutalność, przemoc itp.
 7. **Pilnuj, by wysyłane przez ciebie linki prowadziły do legalnych i wiarygodnych stron** Strony udostępniające oglądanie treści wideo bez odpowiednich zezwoleń (licencjonowane takie jak Animelab czy Crunchyroll są w porządku), czy jakiekolwiek nielegalne oprogramowanie nie są akceptowane i nie chcemy ich na naszym czacie. Rozgłaszanie transmisji w serwisie Twitch dla innych gier jest w porządku, ale TYLKO na kanale `#videogames`.
 8. **Nie rozgłaszaj innych serwerów czatowych, włączając w to serwery/grupy na Discord, Teamspeak czy Skype.** Głównym tematem na czacie w osu! jest właśnie osu! i nie powinno się udostępniać linków do zewnętrznych serwerów. Jeżeli to koniecznie, zrób to poprzez prywatną wiadomość.
-9. **Na kanałach o określonym języku można rozmawiać tylko w tym języku (angielski dla #english, chiński dla #chinese itd.).** Jeżeli język na danym kanale nie został określony (bądź nie jest możliwy do wywnioskowania z nazwy kanału), to jest to zawsze angielski. Kanały `#lobby` i `#help` są wielojęzyczne, w przeciwieństwie do reszty. *Członkowie [moderacji](/wiki/People/Global_Moderation_Team) nie muszą przestrzegać tej zasady podczas swojej pracy.*
+9. **Na kanałach o określonym języku można rozmawiać tylko w tym języku (angielski dla #english, chiński dla #chinese itd.).** Jeżeli język na danym kanale nie został określony (bądź nie jest możliwy do wywnioskowania z nazwy kanału), to jest to zawsze angielski. Kanały `#lobby` i `#help` są wielojęzyczne, w przeciwieństwie do reszty. *Członkowie [moderacji](/wiki/People/The_Team/Global_Moderation_Team) nie muszą przestrzegać tej zasady podczas swojej pracy.*
 
 ## Zasady dot. forum
 
@@ -39,7 +39,7 @@ Ten zbiór zasad to podstawa, dzięki której społeczność osu! jest przyjazny
 
 ## Zasady dot. przesyłania beatmap
 
-Te zasady dotyczą wyłącznie beatmap udostępnionych poprzez [system przesyłania beatmap](/wiki/Glossary#bss). Wątki są tworzone przez klient gry automatycznie, gdy beatmapa zostanie przesłana poprzez [edytor](/wiki/editor).
+Te zasady dotyczą wyłącznie beatmap udostępnionych poprzez [system przesyłania beatmap](/wiki/Submission). Wątki są tworzone przez klient gry automatycznie, gdy beatmapa zostanie przesłana poprzez [edytor](/wiki/Beatmap_Editor).
 
 Treściwy zbiór zasad dotyczących tworzenia beatmap znany jest jako [kryteria rankingowe](/wiki/Ranking_Criteria).
 

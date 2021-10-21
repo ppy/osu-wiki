@@ -21,14 +21,14 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Autumn 
 
 ## Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
 ## Winter Spotlights
 
-### <a id="osu"></a> osu!
+### osu!
 
 [![](/wiki/shared/news/2020-04-09-beatmap-spotlights-winter-2020/osu/24.jpg)](https://osu.ppy.sh/beatmapsets/1086289)
 
@@ -106,7 +106,7 @@ Try this map and spice up your collection!
 
 *written by [KnightC0re](https://osu.ppy.sh/users/7894340)*
 
-### <a id="taiko"></a> osu!taiko
+### osu!taiko
 
 [![](/wiki/shared/news/2020-04-09-beatmap-spotlights-winter-2020/taiko/leviathan.jpg)](https://osu.ppy.sh/beatmapsets/1013884)
 
@@ -142,7 +142,7 @@ The map starts off with the first half being deceivingly calm, until the drop hi
 
 *written by [\_DUSK\_](https://osu.ppy.sh/users/6092181)*
 
-### <a id="catch"></a> osu!catch
+### osu!catch
 
 [![](/wiki/shared/news/2020-04-09-beatmap-spotlights-winter-2020/catch/chocolate.jpg)](https://osu.ppy.sh/beatmapsets/1061800)
 
@@ -178,7 +178,7 @@ And for last we have a Sweet Overdose which has short slider Hyperdashes to foll
 
 *written by [Kurokami](https://osu.ppy.sh/users/260933)*
 
-### <a id="mania"></a> osu!mania
+### osu!mania
 
 [![](/wiki/shared/news/2020-04-09-beatmap-spotlights-winter-2020/mania/transhuman.jpg)](https://osu.ppy.sh/beatmapsets/1069426)
 

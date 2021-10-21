@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2012 logo](img/logo.png)
 
-The **Taiko World Cup 2012** (***TWC 2012***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the second installment of the osu!taiko World Cup.
+The **Taiko World Cup 2012** (***TWC 2012***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the second instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -28,10 +28,10 @@ The **Taiko World Cup 2012** (***TWC 2012***) was a country-based osu!taiko tour
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
-| *Special* | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
+| *Special* | 1 month of osu!supporter |
 
 ![](img/badge.jpg "TWC 2012 winner badge")
 
@@ -41,7 +41,7 @@ The Taiko World Cup 2012 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_KR] [lepidopodus](https://osu.ppy.sh/users/194807), ![][flag_KR] [wmfchris](https://osu.ppy.sh/users/7401) |
+| Manager | ![][flag_KR] [lepidopodus](https://osu.ppy.sh/users/194807), ![][flag_HK] [wmfchris](https://osu.ppy.sh/users/7401) |
 | Mappool selector | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
 | Referee | ![][flag_PE] [Gonzvlo](https://osu.ppy.sh/users/237733), ![][flag_TW] [Numbers 596108](https://osu.ppy.sh/users/194653), ![][flag_FR] [Odaril](https://osu.ppy.sh/users/113005) |
 | Scheduler | ![][flag_US] [anongos](https://osu.ppy.sh/users/7135) |
@@ -93,9 +93,11 @@ The Taiko World Cup 2012 was run by various community members.
 | ![][flag_HK] Hong Kong A | ![][flag_JP] Japan B | ![][flag_PH] Philippines | ![][flag_KR] Korea A | ![][flag_JP] Japan A | ![][flag_KR] Korea B |
 | ![][flag_PL] Poland | ![][flag_TW] Taiwan A | ![][flag_US] United States B | ![][flag_ES] Spain | ![][flag_TW] Taiwan B | ![][flag_US] United States A |
 
-![TWC 2012 podium](img/podium.png)
+![](img/bracket.jpg "TWC 2012 bracket")
 
-![TWC 2012 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.png "TWC 2012 podium")
 
 ## Mappools
 
@@ -551,8 +553,8 @@ Usually your team has one match per a week.
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
@@ -560,8 +562,8 @@ Usually your team has one match per a week.
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_MO]: /wiki/shared/flag/MO.gif "Macau"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"

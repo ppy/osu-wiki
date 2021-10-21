@@ -70,7 +70,7 @@ The osu! Beatmapping World Championship is run by various community members.
 | ![][flag_AR] | **Argentina** | **[MaestroSplinter](https://osu.ppy.sh/users/6707918)**, [chucentry](https://osu.ppy.sh/users/2498731), [Lince Cosmico](https://osu.ppy.sh/users/6070370), [Megafan](https://osu.ppy.sh/users/6632605) |
 | ![][flag_AU] | **Australia** | **[xLolicore-](https://osu.ppy.sh/users/4525153)**, [- Heatwave -](https://osu.ppy.sh/users/4166621), [Cubby](https://osu.ppy.sh/users/10914582), [Pentori](https://osu.ppy.sh/users/7452237), [Xayah](https://osu.ppy.sh/users/5174427), [YelloJello](https://osu.ppy.sh/users/9285180) |
 | ![][flag_BR] | **Brazil** | **[Net0](https://osu.ppy.sh/users/5099768)**, [Enerugi](https://osu.ppy.sh/users/4475985), [Faito](https://osu.ppy.sh/users/9706291), [Kowari](https://osu.ppy.sh/users/5404892), [Maot](https://osu.ppy.sh/users/3914271), [Sakura Airi](https://osu.ppy.sh/users/8682057), [Trynna](https://osu.ppy.sh/users/2652951) |
-| ![][flag_CA] | **Canada** | **[J1\_](https://osu.ppy.sh/users/5918561)**, [Agatsu](https://osu.ppy.sh/users/5579871), [coco](https://osu.ppy.sh/users/9579526), [nayarii](https://osu.ppy.sh/users/5286409), [Sing](https://osu.ppy.sh/users/3795679), [Sparthen](https://osu.ppy.sh/users/7601720), [Xen](https://osu.ppy.sh/users/4026817) |
+| ![][flag_CA] | **Canada** | **[J1\_](https://osu.ppy.sh/users/5918561)**, [Agatsu](https://osu.ppy.sh/users/5579871), [coco](https://osu.ppy.sh/users/9579526), [nayarii](https://osu.ppy.sh/users/5286409), [Sing](https://osu.ppy.sh/users/3795679), [Sparhten](https://osu.ppy.sh/users/7601720), [Xen](https://osu.ppy.sh/users/4026817) |
 | ![][flag_CL] | **Chile** | **[Cris-](https://osu.ppy.sh/users/6175280)**, [Cayssa](https://osu.ppy.sh/users/8714413), [Crissa](https://osu.ppy.sh/users/5405836), [kanocchi](https://osu.ppy.sh/users/2321050), [Tatan](https://osu.ppy.sh/users/5646529) |
 | ![][flag_CN] | **China** | **[Moecho](https://osu.ppy.sh/users/5075660)**, [Bellicose](https://osu.ppy.sh/users/4298072), [buhei](https://osu.ppy.sh/users/1371514), [Firika](https://osu.ppy.sh/users/9590557), [Quantum Rosta](https://osu.ppy.sh/users/4814169), [Suiyu](https://osu.ppy.sh/users/3143784), [Yugu](https://osu.ppy.sh/users/3161834) |
 | ![][flag_DK] | **Denmark** | **[Striderin](https://osu.ppy.sh/users/10193902)**, [Akayume](https://osu.ppy.sh/users/10617530), [iamVill](https://osu.ppy.sh/users/6295380), [melon boy](https://osu.ppy.sh/users/3053382), [Morrighan](https://osu.ppy.sh/users/12042090), [waefwerf](https://osu.ppy.sh/users/3868653) |
@@ -112,7 +112,7 @@ Grand Final song: **[Zekk](https://osu.ppy.sh/beatmaps/artists/76) - Let Me Hear
 
 | Team 1 |  |  | Team 2 | Entries |
 | --: | :-: | :-: | :-- | :-- |
-| Argentina ![][flag_AR] | 3 | **4** | ![][flag_GB] **United Kingdom**  | [#1](https://osu.ppy.sh/beatmapsets/1280480#osu/2659858), [#2](https://osu.ppy.sh/beatmapsets/1280467#osu/2659837) |
+| Argentina ![][flag_AR] | 3 | **4** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/beatmapsets/1280480#osu/2659858), [#2](https://osu.ppy.sh/beatmapsets/1280467#osu/2659837) |
 
 3rd Place Final song: **[Cranky](https://osu.ppy.sh/beatmaps/artists/23) - Flugel**
 
@@ -278,7 +278,7 @@ Song: **[MDK](https://osu.ppy.sh/beatmaps/artists/61) - Press Start**
 
 11. **I want to vote, but I don't have any mapping experience, am I allowed to do so?**
 
-    Sadly, no you can't. You must have at least one ranked guest difficulty in osu!standard. If you meet these criteria, you'll be able to vote for the potential Team Captains based on your country flag, which means you can't vote for the Russian Team Captain if you're from the United Kingdom.
+    Sadly, no you can't. You must have at least one ranked guest difficulty in the osu! mode. If you meet these criteria, you'll be able to vote for the potential Team Captains based on your country flag, which means you can't vote for the Russian Team Captain if you're from the United Kingdom.
 
 12. **Are we allowed to change our votes?**
 
@@ -290,7 +290,7 @@ Song: **[MDK](https://osu.ppy.sh/beatmaps/artists/61) - Press Start**
 
 14. **Can I make an osu!mania, osu!taiko or osu!catch beatmap?**
 
-    No. This instance of the contest is only for the osu!standard mode.
+    No. This instance of the contest is only for osu! game mode.
 
 15. **Will this event be broadcasted on Twitch?**
 
@@ -304,9 +304,9 @@ Song: **[MDK](https://osu.ppy.sh/beatmaps/artists/61) - Press Start**
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"

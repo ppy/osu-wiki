@@ -31,7 +31,7 @@ As per usual, the timeline for this month's contest is as follows:
 
 ## Beatmapping
 
-### <a id="limitation"></a>Limitation
+### Limitation
 
 The MBC tries to keep mappers on their toes by featuring different mapping limitations each month. One previous contest required straight sliders only and another required star rating to be lower than 4.00 stars, to name a few.
 
@@ -43,7 +43,7 @@ For extra clarification, 1/2 sliders with reverse arrows are not allowed, while 
 
 We'd also like to provide three complimentary therapy sessions to mappers who can't imagine life without 1/2 sliders. We're sorry but it's time to let go.
 
-### <a id="songs"></a>Songs
+### Songs
 
 Each MBC provides beatmappers a choice between 5 songs from one of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists).
 

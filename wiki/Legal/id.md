@@ -2,7 +2,7 @@
 
 Laman indeks untuk seluruh artikel tentang legal. Tautan berikut juga dapat ditemukan di bagian bawah situs web osu!.
 
-- [Kebijakan hak cipta Osu!](Copyright)
-- [Lisensi musik osu!](Music_Licensing)
-- [Kebijakan privasi osu!](Privacy)
-- [Ketentuan layanan osu!](Terms)
+- [Kebijakan Hak Cipta osu!](Copyright)
+- [Lisensi Musik osu!](Music_Licensing)
+- [Kebijakan Privasi osu!](Privacy)
+- [Ketentuan Layanan osu!](Terms)

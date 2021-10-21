@@ -1,27 +1,27 @@
 ---
 tags:
-- CJB
-- CJB 2018
-- CJB2018
+  - CJB
+  - CJB 2018
+  - CJB2018
 ---
 
 # The 4th CJB osu!mania 4K Tournament
 
-![CJB 4K 4th](img/banner.png)
+![CJB 4K 4th banner](img/banner.png)
 
-**The 4th CJB osu!mania 4K Tournament** (***CJB 4K 4th***) is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the CJB team. It is the 4th installment of the CJB osu!mania 4K Tournament.
+**The 4th CJB osu!mania 4K Tournament** (***CJB 4K 4th***) is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the CJB team. It is the 4th instalment of the CJB osu!mania 4K Tournament.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration | 2018-07-02/2018-07-013 |
-| Live Drawings | 2018-07-14 (20:30 UTC+08) |
+| Live drawings | 2018-07-14 (20:30 UTC+08) |
 | Round of 16 | 2018-07-21/2018-07-22 |
 | Quarterfinals | 2018-07-28/2018-07-29 |
 | Semifinals | 2018-08-04/2018-8-05 |
-| Finals - Week 1 | 2018-08-11 |
-| Finals - Week 2 | 2018-08-13/2018-08-14 |
+| Finals week 1 | 2018-08-11 |
+| Finals week 2 | 2018-08-13/2018-08-14 |
 
 ## Prizes
 
@@ -29,20 +29,20 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter tag, unique userpage badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 15 CNY |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter, unique userpage badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 15 CNY |
 
 ## Organisation
 
-| Position | Members |
+| Position | Member(s) |
 | :-: | :-- |
 | Organiser | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
 | Manager | ![][flag_CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
-| Map Selector | ![][flag_CN] [Tofu1222](https://osu.ppy.sh/users/6089608), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) |
-| Streaming Judgement | ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Mappool selector | ![][flag_CN] [Tofu1222](https://osu.ppy.sh/users/6089608), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) |
+| Streaming judgement | ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 | Commentator | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [644520858](https://osu.ppy.sh/users/5507069), ![][flag_CN] [wuhuanmin](https://osu.ppy.sh/users/935322) , ![][flag_CN] [704661982](https://osu.ppy.sh/users/7080633) |
-| Wiki Editor | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Wiki editor | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## Links
 
@@ -52,15 +52,13 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 - [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp)
 - [Challonge](https://challonge.com/zh_CN/cjb4)
 
----
+## Podium
 
-![CJB 4K 4th Podium](img/podium.jpg)
-
----
+![](img/podium.jpg "CJB 4K 4th podium")
 
 ## Mappools
 
-### Finals - Week 2
+### Finals week 2
 
 **Download the mappack here! (97.9M) - [Baidu Netdisk](https://pan.baidu.com/s/1-gKsm-Mcnt-ayLZDKvVYyw) - [Google Drive](https://drive.google.com/file/d/1vwasJMXpsCr4ibxvncxIOU29r7SehV2Q)**
 
@@ -82,7 +80,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 - Tiebreaker
   - **[Camellia feat. Nanahira - Bassdrop Freaks \[TofuStar's Bassdrop Maniac\]](https://osu.ppy.sh/beatmapsets/635897#mania/1349433)**
 
-### Finals - Week 1
+### Finals week 1
 
 **Download the mappack here! (148M) - [Baidu Netdisk](https://pan.baidu.com/s/1cQEbBQhW57IaS4Gba5uETw) - [Google Drive](https://drive.google.com/file/d/1WcvhPLepOb8Zaw5RFIXh1jgvHHTOloy6)**
 
@@ -166,9 +164,9 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 - Tiebreaker
   - **[Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316#mania/1236183)**
 
-## Match Results
+## Match results
 
-### Finals - Week 2
+### Finals week 2
 
 | No. | Monday, 2018-08-13 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -179,7 +177,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 | 30 | Crystal ![][flag_CN] | 4 | **7** | ![][flag_CN] **Toki 0w0** |  |
 | 31 | Toki 0w0 ![][flag_CN] | 5 | **7** | ![][flag_CN] **Crystal** |  |
 
-### Finals - Week 1
+### Finals week 1
 
 | No. | Saturday, 2018-08-11 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -192,14 +190,14 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 | No. | Saturday, 2018-08-04 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 20 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] crazybrother | -win by default- |
+| 20 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] crazybrother | *win by default* |
 | 23 | **Skyshifter** ![][flag_CN] | **6** | 3 | ![][flag_CN] Toki 0w0 |  |
 | 24 | **Crystal** ![][flag_CN] | **6** | 2 | ![][flag_TW] Zhou_Kai |  |
-| 19 | nickawm ![][flag_CN] | 0 | **1** | ![][flag_CN] **tuziel** | -win by default- |
+| 19 | nickawm ![][flag_CN] | 0 | **1** | ![][flag_CN] **tuziel** | *win by default* |
 
 | No. | Sunday, 2018-08-05 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 18 | **IA daisuki** ![][flag_CN] | **1** | 0 | ![][flag_CN] FDchuxin | -win by default- |
+| 18 | **IA daisuki** ![][flag_CN] | **1** | 0 | ![][flag_CN] FDchuxin | *win by default* |
 | 21 | **IA daisuki** ![][flag_CN] | **6** | 0 | ![][flag_CN] williammak |  |
 | 22 | **xyxyxy091** ![][flag_CN] | **6** | 2 | ![][flag_CN] tuziel |  |
 
@@ -207,15 +205,15 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 | No. | Saturday, 2018-07-28 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 11 | **FDchuxin** ![][flag_CN] | **1** | 0 | ![][flag_CN] macronj | -win by default- |
-| 9 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] tc582461 | -win by default- |
+| 11 | **FDchuxin** ![][flag_CN] | **1** | 0 | ![][flag_CN] macronj | *win by default* |
+| 9 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] tc582461 | *win by default* |
 | 12 | **williammak** ![][flag_CN] | **5** | 1 | ![][flag_CN] Shindou Ayane |  |
 | 16 | **Zhou_Kai** ![][flag_TW] | **5** | 1 | ![][flag_CN] crazybrother |  |
 | 15 | nickawm ![][flag_CN] | 0 | **5** | ![][flag_CN] **Crystal** |  |
 
 | No. | Sunday, 2018-07-29 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 13 | Jazzsoldiers ![][flag_CN] | 0 | **1** | ![][flag_CN] **Skyshifter** | -win by default- |
+| 13 | Jazzsoldiers ![][flag_CN] | 0 | **1** | ![][flag_CN] **Skyshifter** | *win by default* |
 | 10 | **tuziel** ![][flag_CN] | **5** | 0 | ![][flag_CN] Snowkyou |  |
 | 14 | IA daisuki ![][flag_CN] | 0 | **5** | ![][flag_CN] **Toki 0w0** |  |
 
@@ -225,7 +223,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 | No. | Saturday, 2018-07-21 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 5 | FDchuxin ![][flag_CN] | 0 | **1** | ![][flag_CN] **nickawm** | -win by default- |
+| 5 | FDchuxin ![][flag_CN] | 0 | **1** | ![][flag_CN] **nickawm** | *win by default* |
 | 1 | xyxyxy091 ![][flag_CN] | 0 | **5** | ![][flag_CN] **Jazzsoldiers** |  |
 | 2 | **Skyshifter** ![][flag_CN] | **5** | 1 | ![][flag_CN] tc582461 |  |
 | 6 | macronj ![][flag_CN] | 1 | **5** | ![][flag_CN] **Crystal** |  |
@@ -253,7 +251,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
    - If player is in any other time zone, please notify the Management in advance.
    - Apart from time zone reasons, the absent player(s) will be considered as forfeited, regardless of whether they have sent messages to the Management.
 
-### Tournament Rules
+### Tournament rules
 
 1. This tournament is a one-on-one osu!mania 4K specified tournament.
 2. The maps for each round will be announced by the map selector in advance on the Sunday before the actual matches take place:  
@@ -278,7 +276,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 14. Any modification of these rules will be announced.
 15. The CJB team reserves the right to use Chinese preferentially.
 
-### Registration Rules
+### Registration rules
 
 1. Anyone who is interested in this tournament should join the [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp) and read the announcement in the group to register.
 2. In order for your registration to count, you must meet the following conditions:
@@ -290,7 +288,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 3. Successfully registered players will receive a confirmation email and will be posted on the players list.
 4. Map Selectors and Managers are not allowed to register.
 
-### Mappool Instructions
+### Mappool instructions
 
 1. Each stage has **1** pool:
    - Pool of the Round of 16 and the Quarterfinals has **13** maps.
@@ -298,7 +296,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 2. Each mappool has one Tiebreaker.
 3. All of the maps will be played under *FreeMod* conditions.
 
-### Match Instructions
+### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period:
    - Room settings are osu!mania, Team VS, Win Condition: 'Score v2'. Room name is "CJB4K: (Player 1) vs (Player 2)".
@@ -312,5 +310,5 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 5. Players pick maps by turns:
    - In case of a tie, the Tiebreaker map must be played.
 
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"

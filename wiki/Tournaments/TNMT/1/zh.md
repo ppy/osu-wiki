@@ -272,7 +272,6 @@
 主办方有对规则的最终解释权。
 
 - 注意：如果任何人被主办方或是 osu! 官方认为是“作弊者”或“有嫌疑”，将被立刻从比赛中删除。
-
 - 入场
   - 房间名均有 TNMT 前缀，对应场次的选手亦将在比赛前收到邀请。
   - 选手需在比赛开始前 10 分钟入场。
@@ -315,12 +314,12 @@
   3. 负场更少优先
   4. 加赛的胜者优先
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
+[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
+[flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
+[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_HK]: /wiki/shared/flag/HK.gif "香港"
+[flag_ID]: /wiki/shared/flag/ID.gif "印度尼西亚"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
+[flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
+[flag_US]: /wiki/shared/flag/US.gif "美国"

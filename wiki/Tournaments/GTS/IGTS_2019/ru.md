@@ -62,8 +62,6 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 - [Сайт Pick'ems](https://pickem.hwc.hr/tournaments/8)
 - **[Таблица со статистикой](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 
----
-
 ## Участники
 
 |  | Страна | Участники |
@@ -114,8 +112,6 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 | **G** | ![][flag_BR] Бразилия | ![][flag_CL] Чили | ![][flag_ID] Индонезия B | ![][flag_PE] Перу |
 | **H** | ![][flag_HK] Гонконг | ![][flag_PL] Польша B | ![][flag_CO] Колумбия | ![][flag_IE] Ирландия |
 
----
-
 ## Подиум
 
 Данное соревнование подошло к концу, и подиум оказался таковым:
@@ -125,8 +121,6 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 | ![Золотая корона](/wiki/shared/crown-gold.png "1-е место") | ![][flag_HK] Гонконг |
 | ![Cеребряная корона](/wiki/shared/crown-silver.png "2-е место") | ![][flag_US] Соединенные Штаты A |
 | ![Бронзовая корона](/wiki/shared/crown-bronze.png "3-е место") | ![][flag_CL] Чили |
-
----
 
 ## Пул карт
 
@@ -342,8 +336,6 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 - Tiebreaker
   - **[USAO - Chrono Diver -PENDULUMs- (USAO remix) (QEpicAce) \[-Jordan-'s Muzukashii (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/980250#taiko/2051403)**
 
----
-
 ## Результаты матчей
 
 ### Гранд Финалы
@@ -475,8 +467,6 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 | F4 | Канада ![][flag_CA] | 4 | **5** | ![][flag_DK] **Дания** | [#1](https://osu.ppy.sh/community/matches/52495640) |
 | E5 | Великобритания ![][flag_GB] | 1 | **5** | ![][flag_MX] **Мексика** | [#1](https://osu.ppy.sh/community/matches/52489459) |
 
----
-
 ## Правила
 
 ### Основные правила
@@ -584,37 +574,37 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 5. Затем будет матч 4 на 4 со следующими правилами:
    - маппул из 5 NM,HR,HD,DT,FM,EX и 1 TB (правила для модов как в обычных матчах)
    - без банов
-   - мод будет выбираться случайно с помощью !roll (соответствуя таблице) и затем карта из мода выбирается случайно
+   - мод будет выбираться случайно с помощью `!roll` (соответствуя таблице) и затем карта из мода выбирается случайно
    - обмен игроков во время матчей разрешён без ограничений
    - правила для потерей соединения как в обычном матче
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Аргентина"
+[flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
+[flag_BR]: /wiki/shared/flag/BR.gif "Бразилия"
+[flag_CA]: /wiki/shared/flag/CA.gif "Канада"
+[flag_CH]: /wiki/shared/flag/CH.gif "Швейцария"
+[flag_CL]: /wiki/shared/flag/CL.gif "Чили"
+[flag_CN]: /wiki/shared/flag/CN.gif "Китай"
+[flag_CO]: /wiki/shared/flag/CO.gif "Колумбия"
+[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
+[flag_DK]: /wiki/shared/flag/DK.gif "Дания"
+[flag_EC]: /wiki/shared/flag/EC.gif "Эквадор"
+[flag_FI]: /wiki/shared/flag/FI.gif "Финляндия"
+[flag_FR]: /wiki/shared/flag/FR.gif "Франция"
+[flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"
+[flag_GR]: /wiki/shared/flag/GR.gif "Греция"
+[flag_HK]: /wiki/shared/flag/HK.gif "Гонконг"
+[flag_ID]: /wiki/shared/flag/ID.gif "Индонезия"
+[flag_IE]: /wiki/shared/flag/IE.gif "Ирландия"
+[flag_JP]: /wiki/shared/flag/JP.gif "Япония"
+[flag_KR]: /wiki/shared/flag/KR.gif "Республика Корея"
+[flag_MX]: /wiki/shared/flag/MX.gif "Мексика"
+[flag_MY]: /wiki/shared/flag/MY.gif "Малайзия"
+[flag_NL]: /wiki/shared/flag/NL.gif "Нидерланды"
+[flag_PE]: /wiki/shared/flag/PE.gif "Перу"
+[flag_PH]: /wiki/shared/flag/PH.gif "Филиппины"
+[flag_PL]: /wiki/shared/flag/PL.gif "Польша"
+[flag_RU]: /wiki/shared/flag/RU.gif "Российская Федерация"
+[flag_SG]: /wiki/shared/flag/SG.gif "Сингапур"
+[flag_TW]: /wiki/shared/flag/TW.gif "Тайвань"
+[flag_US]: /wiki/shared/flag/US.gif "Соединённые Штаты Америки"

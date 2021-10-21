@@ -16,32 +16,32 @@ The **Catch the Beat Indonesia Cup 2020** (***CIC 2020***) was a double-eliminat
 | --: | :-- |
 | Registration phase | 2020-07-10/2020-07-20 |
 | Screening phase | 2020-07-21/2020-07-27 |
-| Group Stage | 2020-07-28/2020-08-02 |
+| Group stage | 2020-07-28/2020-08-02 |
 | Round of 16 | 2020-08-03/2020-08-09 |
 | Quarterfinals | 2020-08-10/2020-08-16 |
 | Semifinals | 2020-08-17/2020-08-23 |
-| Finals - Week 1 | 2020-08-24/2020-08-30 |
-| Finals - Week 2 | 2020-08-31/2020-09-06 |
+| Finals week 1 | 2020-08-24/2020-08-30 |
+| Finals week 2 | 2020-08-31/2020-09-06 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | IDR 1.000.000,- + 50% of the raised prize pool, 3 months of osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | IDR 600.000,- + 30% of the raised prize pool, 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | IDR 400.000,- + 20% of the raised prize pool, 1 month of osu!supporter tag |
-| 4th place | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | IDR 1.000.000,- + 50% of the raised prize pool, 3 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | IDR 600.000,- + 30% of the raised prize pool, 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | IDR 400.000,- + 20% of the raised prize pool, 1 month of osu!supporter |
+| 4th place | 1 month of osu!supporter |
 
-![Profile badge](img/badge.png)
+![](img/badge.png "CIC 2020 winner badge")
 
-## Organization
+## Organisation
 
 CIC 2020 was run by various osu! community members predominantly hailing from Indonesia.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
-| Map selector | ![][flag_ID] [mirza\_rachman18](https://osu.ppy.sh/users/2985335), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
+| Mappool selector | ![][flag_ID] [mirza\_rachman18](https://osu.ppy.sh/users/2985335), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
 | Streamer | ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
 | Commentator | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Shiviaren](https://osu.ppy.sh/users/3429259), ![][flag_ID] [Swirfly](https://osu.ppy.sh/users/5164134), ![][flag_ID] [Feeqzo](https://osu.ppy.sh/users/16779488),  ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Yuri-](https://osu.ppy.sh/users/4983719), ![][flag_ID] [Juragan_Piscok1](https://osu.ppy.sh/users/15507280) |
 | Referee | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Yuina Hotaru](https://osu.ppy.sh/users/1104256),  ![][flag_ID] [- Ruu -](https://osu.ppy.sh/users/3811821), ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039), ![][flag_ID] [Execration-](https://osu.ppy.sh/users/9260926), ![][flag_ID] [Valskiel](https://osu.ppy.sh/users/1254639) |
@@ -55,11 +55,7 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1096883)
 - [Discord server](https://discord.gg/YwAYbPa)
 - [Challonge brackets](https://challonge.com/CIC2020)
-- [Livestream](https://www.twitch.tv/osuIndonesia/)
-
-## Podium
-
-![Champion: Netamaru, 2nd place: dika312, 3rd place: Galaxi](img/podium.jpg)
+- [Livestream](https://www.twitch.tv/osuIndonesia)
 
 ## Participants
 
@@ -73,6 +69,10 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 | **F** | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | ![][flag_ID] [\[ Ari Knight \]](https://osu.ppy.sh/users/8126277) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) |
 | **G** | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) |
 | **H** | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) | ![][flag_ID] [Toka](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [Momochuuan21](https://osu.ppy.sh/users/8794848) | ![][flag_ID] [Azwa\_Kurendra](https://osu.ppy.sh/users/14799356) |
+
+## Podium
+
+![](img/podium.jpg "CIC 2020 podium")
 
 ## Mappools
 
@@ -186,7 +186,7 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 - Tiebreaker
   - **[Sawai Miku - Colorful. (Asterisk DnB Remix) (Ascendance) \[Vibrant\]](https://osu.ppy.sh/beatmapsets/473255#fruits/1011229)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (111 MB)](https://drive.google.com/file/d/184os6Qkk7YKnSUVB_DP59PJ7mELzZo4N/view?usp=sharing)**
 
@@ -323,7 +323,7 @@ Sunday, 9 August 2020:
 | Lower | [Shurelia](https://osu.ppy.sh/users/3807986) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[Keiji Subarashi](https://osu.ppy.sh/users/3856673)** | [#1](https://osu.ppy.sh/community/matches/65196590) |
 | Lower | **[Toka](https://osu.ppy.sh/users/1595221)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Nakasu](https://osu.ppy.sh/users/7752479) | *win by default* |
 
-### Group Stage
+### Group stage
 
 Friday, 31 July 2020:
 
@@ -370,9 +370,9 @@ Monday, 3 August 2020:
 9. Lag is not a valid reason to nullify a map.
 10. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 11. It is expected to be polite and respectful to each other. Penalties will be given if participants violate.
-    - If there are participant(s) who are engaging in an offensive provocation towards other participant(s), the participant(s) who are deemed responsible for the provocation  will be reported to the Tournament Management and may be considered to be blacklisted in the future installment(s) of CIC.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment(s) of CIC.
-    - If there is anyone other than the said participant who is trying to play as a participant, both the participant and the helper will be blacklisted in the next installment(s) of CIC.
+    - If there are participant(s) who are engaging in an offensive provocation towards other participant(s), the participant(s) who are deemed responsible for the provocation  will be reported to the Tournament Management and may be considered to be blacklisted in the future instalment(s) of CIC.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next instalment(s) of CIC.
+    - If there is anyone other than the said participant who is trying to play as a participant, both the participant and the helper will be blacklisted in the next instalment(s) of CIC.
 
 ### Tournament registration
 
@@ -384,7 +384,7 @@ Monday, 3 August 2020:
    - In the case where the number of concerned registrants exceeds 32, the Tournament Management will only enlist 32 registrants with the highest osu!catch pp under their account to participate as players in the tournament.
 5. Referees and map selectors may not participate as players in this tournament.
 
-### Group Stage Rules
+### Group stage rules
 
 1. In the Group Stage, all participants will be divided into 8 different groups.
 2. All participants in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all participants will each in turn pick out two maps from the mappool to be played with the following turnout after each map:
@@ -406,7 +406,7 @@ Monday, 3 August 2020:
    - Whether there are player(s) who got disqualified during the match.
 7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
 
-### Knock-Out Stage Rules 
+### Knockout stage rules 
 
 1. The 16 players who managed to get through from the Group Stage will be matched to each other based on a randomized result.
 2. Players will compete against each other using the Double Elimination system.
@@ -421,9 +421,9 @@ Monday, 3 August 2020:
    - Player(s) who Win By Default.
    - Whether there are player(s) who got disqualified during the match.
 
-### Match Regulations
+### Match regulations
 
-1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
+1. Each player must use the `!roll` command once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
    - This rule does not apply in the Group Stage lobbies.
 2. Each player has to ban **one beatmap** from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.

@@ -1,22 +1,21 @@
 ---
 tags:
-- DeltaMax's Taiko Oni Overlord
-- DMX 2
+  - DMX 2
 ---
 
 # DeltaMax's Taiko Oni Overlord
 
-![DMX 2 Logo](img/logo.png)
+![DMX 2 logo](img/logo.png)
 
-The **DeltaMax's Taiko Oni Overlord (***DMX 2***)** was a double elimination one-on-one osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the 2nd installment of the DeltaMax's Tournaments.
+The **DeltaMax's Taiko Oni Overlord** (***DMX 2***) was a 1v1 double elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second instalment of the DeltaMax's Tournaments.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-06-12/2018-07-03 |
-| Live Drawings | 2018-07-08 (12:00 UTC) |
-| Group Stage | 2018-07-13/2018-07-22 |
+| Registration phase | 2018-06-12/2018-07-03 |
+| Live drawings | 2018-07-08 (12:00 UTC) |
+| Group stage | 2018-07-13/2018-07-22 |
 | Round of 16 | 2018-07-27/2018-07-29 |
 | Quarterfinals | 2018-08-04/2018-08-05 |
 | Semifinals | 2018-08-11/2018-08-12 |
@@ -27,9 +26,9 @@ The **DeltaMax's Taiko Oni Overlord (***DMX 2***)** was a double elimination one
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter |
 
 ## Organisation
 
@@ -38,12 +37,12 @@ The DeltaMax's Taiko Oni Overlord was run by various osu!taiko community members
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Map Selector | ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353) |
+| Mappool selector | ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353) |
 | Designer | ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316) |
 | Streamer | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
 | Referee | ![][flag_PL] [-Sylvari](https://osu.ppy.sh/users/3493804), ![][flag_CA] [390](https://osu.ppy.sh/users/7622460), ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_AU] [cactusthegreat](https://osu.ppy.sh/users/5592409), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [KuraresaCupcake](https://osu.ppy.sh/users/6953271), ![][flag_NZ] [Lizzielots](https://osu.ppy.sh/users/6949522), ![][flag_DE] [lukili846](https://osu.ppy.sh/users/6278008), ![][flag_GR] [nikolomara](https://osu.ppy.sh/users/10077264), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_CA] [xenonius](https://osu.ppy.sh/users/7426260) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -52,8 +51,6 @@ The DeltaMax's Taiko Oni Overlord was run by various osu!taiko community members
 - [Challonge brackets](https://challonge.com/DMXT)
 - [Livestream](https://www.twitch.tv/deltamax_tournaments)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRePjloo5zcJNapJ0O98KSUSmj5QPb3mCBWv-8oniTLVuF3ydcmFf1gt9Fn7H1QrhgjS5TC_bf3uwY1/pubhtml)**
-
----
 
 ## Participants
 
@@ -77,19 +74,15 @@ The DeltaMax's Taiko Oni Overlord was run by various osu!taiko community members
 | **G** | ![][flag_MX] [xtrem3x](https://osu.ppy.sh/users/136385) | ![][flag_GB] [Ali161102](https://osu.ppy.sh/users/7582420) | ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223) | ![][flag_CL] [ArmoredReaper](https://osu.ppy.sh/users/6276709) |
 | **H** | ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684) | ![][flag_GB] [Braixen-](https://osu.ppy.sh/users/8628814) | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628) | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) |
-
----
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) |
 
 ## Mappools
 
@@ -238,7 +231,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[MitiS - Living Color (Dezpot Remix) (Nifty) \[Deuteranopia\]](https://osu.ppy.sh/beatmapsets/731697#taiko/1544021)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (81 MB)](https://mega.nz/#!1wFDTabT!_GecnvAIO96tA2e9FTKZWbA3doONQ5q5upvS_usUmkU)**
 
@@ -267,67 +260,85 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[sakuraburst - skyshifter vip (yea) \[Oni\]](https://osu.ppy.sh/beatmapsets/747322#taiko/1574742)**
 
----
-
-## Match Results
+## Match results
 
 ### Grand Finals
 
-| Sunday, 2018-08-26 |  |  |  |  |
+Sunday, 26 August 2018:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Foxerus** ![][flag_BR] | **7** | 2 | ![][flag_MY] cdhsausageboy | [#1](https://osu.ppy.sh/community/matches/45434676) |
 
 ### Finals
 
-| Saturday, 2018-08-18 |  |  |  |  |
+Saturday, 18 August 2018:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **cdhsausageboy** ![][flag_MY] | **6** | 1 | ![][flag_BR] Kyoumo | [#1](https://osu.ppy.sh/community/matches/45176380) |
 
-| Sunday, 2018-08-19 |  |  |  |  |
+Sunday, 19 August 2018:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Foxerus** ![][flag_BR] | **7** | 0 | ![][flag_MX] Ammy | [#1](https://osu.ppy.sh/community/matches/45232731) |
 
-| Monday, 2018-08-20 |  |  |  |  |
+Monday, 20 August 2018:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Ammy ![][flag_MX] | 1 | **7** | ![][flag_MY] **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/45244189) |
 
 ### Semifinals
 
-| Saturday, 2018-08-11 |  |  |  |  |
+Saturday, 11 August 2018:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Beat43210 ![][flag_AU] | 3 | **5** | ![][flag_BR] **Kyoumo** | [#1](https://osu.ppy.sh/community/matches/44956206) |
-| hi im costarino ![][flag_PT] | 0 | **5** | ![][flag_MX] **Ammy** | -win by default- |
+| hi im costarino ![][flag_PT] | 0 | **5** | ![][flag_MX] **Ammy** | *win by default* |
 | Yoshi-GH ![][flag_FR] | 1 | **6** | ![][flag_BR] **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44985615) |
 
-| Sunday, 2018-08-12 |  |  |  |  |
+Sunday, 12 August 2018:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Braixen- ![][flag_GB] | 0 | **5** | ![][flag_MY] **cdhsausageboy** | -win by default- |
+| Braixen- ![][flag_GB] | 0 | **5** | ![][flag_MY] **cdhsausageboy** | *win by default* |
 | Yoshi-GH ![][flag_FR] | 4 | **6** | ![][flag_MY] **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/45008950) |
-| hi im costarino ![][flag_PT] | 0 | **5** | ![][flag_BR] **Kyoumo** | -win by default- |
+| hi im costarino ![][flag_PT] | 0 | **5** | ![][flag_BR] **Kyoumo** | *win by default* |
 
 ### Quarterfinals
 
-| Saturday, 2018-08-04 |  |  |  |  |
+Saturday, 4 August 2018:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Briesmas ![][flag_JP] | 0 | **5** | ![][flag_BR] **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44750865) |
-| Kith190 ![][flag_IT] | 0 | **5** | ![][flag_FR] **Yoshi-GH** | -win by default- |
+| Kith190 ![][flag_IT] | 0 | **5** | ![][flag_FR] **Yoshi-GH** | *win by default* |
 | Mikudayo ![][flag_BR] | 0 | **5** | ![][flag_PT] **hi im costarino** | [#1](https://osu.ppy.sh/community/matches/44767415) |
 | **Ammy** ![][flag_MX] | **5** | 4 | ![][flag_GB] Braixen- | [#1](https://osu.ppy.sh/community/matches/44778173) |
 
-| Sunday, 2018-08-05 |  |  |  |  |
+Sunday, 5 August 2018:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Briesmas ![][flag_JP] | 0 | **5** | ![][flag_AU] **Beat43210** | -win by default- |
-| Mikudayo ![][flag_BR] | 0 | **5** | ![][flag_MY] **cdhsausageboy** | -win by default- |
-| Kith190 ![][flag_IT] | 0 | **5** | ![][flag_BR] **Kyoumo** | -win by default- |
+| Briesmas ![][flag_JP] | 0 | **5** | ![][flag_AU] **Beat43210** | *win by default* |
+| Mikudayo ![][flag_BR] | 0 | **5** | ![][flag_MY] **cdhsausageboy** | *win by default* |
+| Kith190 ![][flag_IT] | 0 | **5** | ![][flag_BR] **Kyoumo** | *win by default* |
 | **Braixen-** ![][flag_GB] | **5** | 2 | ![][flag_PL] Wolfgang | [#1](https://osu.ppy.sh/community/matches/44807249) |
 
 ### Round of 16
 
-| Friday, 2018-07-27 |  |  |  |  |
+Friday, 27 July 2018:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kith190** ![][flag_IT] | **5** | 1 | ![][flag_EC] Gamelan4 | [#1](https://osu.ppy.sh/community/matches/44547136) |
 
-| Saturday, 2018-07-28 |  |  |  |  |
+Saturday, 28 July 2018:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Tsubasa2 ![][flag_AU] | 0 | **5** | ![][flag_MX] **Ammy** | [#1](https://osu.ppy.sh/community/matches/44561379) |
 | Beat43210 ![][flag_AU] | 0 | **5** | ![][flag_PT] **hi im costarino** | [#1](https://osu.ppy.sh/community/matches/44561379) |
@@ -335,27 +346,33 @@ This competition has come to an end and resulted in the following podium:
 | Kyoumo ![][flag_BR] | 2 | **5** | ![][flag_GB] **Braixen-** | [#1](https://osu.ppy.sh/community/matches/44567121) |
 | Ali161102 ![][flag_GB] | 2 | **5** | ![][flag_BR] **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44574494) |
 
-| Sunday, 2018-07-29 |  |  |  |  |
+Sunday, 29 July 2018:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| cdhsausageboy ![][flag_MY] | 0 | **5** | ![][flag_JP] **Briesmas** | -win by default- |
+| cdhsausageboy ![][flag_MY] | 0 | **5** | ![][flag_JP] **Briesmas** | *win by default* |
 | cactusthegreat ![][flag_AU] | 1 | **5** | ![][flag_BR] **Mikudayo** | [#1](https://osu.ppy.sh/community/matches/44583107) |
 | Tsubasa2 ![][flag_AU] | 3 | **5** | ![][flag_BR] **Kyoumo** | [#1](https://osu.ppy.sh/community/matches/44584255) |
 | cactusthegreat ![][flag_AU] | 2 | **5** | ![][flag_AU] **Beat43210** | [#1](https://osu.ppy.sh/community/matches/44585075) |
-| **cdhsausageboy** ![][flag_MY] | **5** | 0 | ![][flag_GB] Ali161102 | -win by default- |
+| **cdhsausageboy** ![][flag_MY] | **5** | 0 | ![][flag_GB] Ali161102 | *win by default* |
 | Gamelan4 ![][flag_EC] | 0 | **5** | ![][flag_PL] **Wolfgang** | [#1](https://osu.ppy.sh/community/matches/44606388) |
 
-### Group Stage
+### Group stage
 
-| Group | Friday, 2018-07-13 |  |  |  |  |
+Friday, 13 July 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | H | **Braixen-** ![][flag_JP] | **4** | 1 | ![][flag_HK] Akali393394 | [#1](https://osu.ppy.sh/community/matches/44127791) |
 | A | **cactusthegreat** ![][flag_AU] | **4** | 1 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/44128713) |
-| B | VenomPlus ![][flag_IT] | 0 | **4** | ![][flag_BR] **Mikudayo** | -win by default- |
+| B | VenomPlus ![][flag_IT] | 0 | **4** | ![][flag_BR] **Mikudayo** | *win by default* |
 
-| Group | Saturday, 2018-07-14 |  |  |  |  |
+Saturday, 14 July 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| B | **Gamelan4** ![][flag_EC] | **4** | 0 | ![][flag_US] Konan | -win by default- |
-| B | **Mikudayo** ![][flag_BR] | **4** | 0 | ![][flag_US] Konan | -win by default- |
+| B | **Gamelan4** ![][flag_EC] | **4** | 0 | ![][flag_US] Konan | *win by default* |
+| B | **Mikudayo** ![][flag_BR] | **4** | 0 | ![][flag_US] Konan | *win by default* |
 | B | Gamelan4 ![][flag_EC] | 1 | **4** | ![][flag_BR] **Mikudayo** | [#1](https://osu.ppy.sh/community/matches/44151173) |
 | C | **Beat43210** ![][flag_AU] | **4** | 0 | ![][flag_BR] Omega Ranger | [#1](https://osu.ppy.sh/community/matches/44158417) |
 | C | Beat43210 ![][flag_AU] | 2 | **4** | ![][flag_FR] **Yoshi-GH** | [#1](https://osu.ppy.sh/community/matches/44159604) |
@@ -363,44 +380,52 @@ This competition has come to an end and resulted in the following podium:
 | G | xtrem3x ![][flag_MX] | 2 | **4** | ![][flag_GB] **Ali161102** | [#1](https://osu.ppy.sh/community/matches/44164295) |
 | D | CaptainEChan ![][flag_US] | 0 | **4** | ![][flag_PT] **hi im costarino** | [#1](https://osu.ppy.sh/community/matches/44167032) |
 | C | Omega Ranger ![][flag_BR] | 0 | **4** | ![][flag_FR] **Yoshi-GH** | [#1](https://osu.ppy.sh/community/matches/44171557) |
-| B | VenomPlus ![][flag_IT] | 0 | **4** | ![][flag_EC] **Gamelan4** | -win by default- |
+| B | VenomPlus ![][flag_IT] | 0 | **4** | ![][flag_EC] **Gamelan4** | *win by default* |
 
-| Group | Sunday, 2018-07-15 |  |  |  |  |
+Sunday, 15 July 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F | **Briesmas** ![][flag_JP] | **4** | 1 | ![][flag_AU] LordAverage | [#1](https://osu.ppy.sh/community/matches/44178123) |
 | E | Tsubasa2 ![][flag_AU] | 0 | **4** | ![][flag_MY] **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/44181157) |
-| A | **cactusthegreat** ![][flag_AU] | **4** | 0 | ![][flag_AT] animexamera | -win by default- |
+| A | **cactusthegreat** ![][flag_AU] | **4** | 0 | ![][flag_AT] animexamera | *win by default* |
 | C | \_Infected\_ ![][flag_FR] | 1 | **4** | ![][flag_AU] **Beat43210** | [#1](https://osu.ppy.sh/community/matches/44188603) |
 | G | **Ali161102** ![][flag_GB] | **4** | 1 | ![][flag_BR] Kyoumo | [#1](https://osu.ppy.sh/community/matches/44187420) |
-| G | **Kyoumo** ![][flag_BR] | **4** | 0 | ![][flag_MX] xtrem3x | -win by default- |
+| G | **Kyoumo** ![][flag_BR] | **4** | 0 | ![][flag_MX] xtrem3x | *win by default* |
 | A | Bedwyr Aorta ![][flag_MY] | 3 | **4** | ![][flag_AT] **animexamera** | [#1](https://osu.ppy.sh/community/matches/44192666) |
 | C | Omega Ranger ![][flag_BR] | 0 | **4** | ![][flag_FR] **\_Infected\_** | [#1](https://osu.ppy.sh/community/matches/44194111) |
 | G | ArmoredReaper ![][flag_CL] | 0 | **4** | ![][flag_GB] **Ali161102** | [#1](https://osu.ppy.sh/community/matches/44194103) |
-| B | Konan ![][flag_US] | 0 | **4** | ![][flag_IT] **VenomPlus** | -win by default- |
+| B | Konan ![][flag_US] | 0 | **4** | ![][flag_IT] **VenomPlus** | *win by default* |
 | D | **-Ryan** ![][flag_GB] | **4** | 2 | ![][flag_US] CaptainEChan | [#1](https://osu.ppy.sh/community/matches/44198404) |
 
-| Group | Monday, 2018-07-16 |  |  |  |  |
+Monday, 16 July 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F | **Ammy** ![][flag_MX] | **4** | 3 | ![][flag_JP] Briesmas | [#1](https://osu.ppy.sh/community/matches/44205539) |
-| F | Blobby3000 ![][flag_AU] | 0 | **4** | ![][flag_JP] Briesmas | -win by default- |
+| F | Blobby3000 ![][flag_AU] | 0 | **4** | ![][flag_JP] Briesmas | *win by default* |
 | A | **Kith190** ![][flag_IT] | **4** | 3 | ![][flag_AU] cactusthegreat | [#1](https://osu.ppy.sh/community/matches/44215001) |
 | A | Bedwyr Aorta ![][flag_MY] | 0 | **4** | ![][flag_IT] Kith190 | [#1](https://osu.ppy.sh/community/matches/44217736) |
-| A | animexamera ![][flag_AT] | 0 | **4** | ![][flag_IT] Kith190 | -win by default- |
+| A | animexamera ![][flag_AT] | 0 | **4** | ![][flag_IT] Kith190 | *win by default* |
 
-| Group | Friday, 2018-07-20 |  |  |  |  |
+Friday, 20 July 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | G | **Kyoumo** ![][flag_BR] | **4** | 1 | ![][flag_CL] ArmoredReaper | [#1](https://osu.ppy.sh/community/matches/44342730) |
 
-| Group | Saturday, 2018-07-21 |  |  |  |  |
+Saturday, 21 July 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F | Blobby3000 ![][flag_AU] | 0 | **4** | ![][flag_MX] **Ammy** | -win by default- |
+| F | Blobby3000 ![][flag_AU] | 0 | **4** | ![][flag_MX] **Ammy** | *win by default* |
 | F | LordAverage ![][flag_AU] | 1 | **4** | ![][flag_MX] **Ammy** | [#1](https://osu.ppy.sh/community/matches/44352950) |
 | E | Rukairi ![][flag_US] | 0 | **4** | ![][flag_MY] **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/44355239) |
 | E | **Tsubasa2** ![][flag_AU] | **4** | 0 | ![][flag_US] Rukairi | [#1](https://osu.ppy.sh/community/matches/44354055) |
 | H | **Akali393394** ![][flag_HK] | **4** | 2 | ![][flag_BR] AnonX32 | [#1](https://osu.ppy.sh/community/matches/44362016), [#2](https://osu.ppy.sh/community/matches/44362964) |
 | H | AnonX32 ![][flag_BR] | 0 | **4** | ![][flag_GB] **Braixen-** | [#1](https://osu.ppy.sh/community/matches/44363387) |
-| E | Lazarento ![][flag_BR] | 0 | **4** | ![][flag_AU] **Tsubasa2** | -win by default- |
-| G | **ArmoredReaper** ![][flag_CL] | **4** | 0 | ![][flag_MX] **xtrem3x | -win by default- |
+| E | Lazarento ![][flag_BR] | 0 | **4** | ![][flag_AU] **Tsubasa2** | *win by default* |
+| G | **ArmoredReaper** ![][flag_CL] | **4** | 0 | ![][flag_MX] **xtrem3x | *win by default* |
 | D | **-Ryan** ![][flag_GB] | 0 | **4** | ![][flag_PT] **hi im costarino** | [#1](https://osu.ppy.sh/community/matches/44364942) |
 | D | **Wolfgang** ![][flag_PL] | **4** | 1 | ![][flag_GB] **-Ryan** | [#1](https://osu.ppy.sh/community/matches/44366581) |
 | H | Foxerus ![][flag_BR] | 0 | **4** | ![][flag_GB] **Braixen-** | [#1](https://osu.ppy.sh/community/matches/44368082) |
@@ -408,18 +433,18 @@ This competition has come to an end and resulted in the following podium:
 | E | Rukairi ![][flag_US] | 0 | **4** | ![][flag_BR] **Lazarento** | [#1](https://osu.ppy.sh/community/matches/44374741) |
 | H | AnonX32 ![][flag_BR] | 0 | **4** | ![][flag_BR] **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44375561) |
 
-| Group | Sunday, 2018-07-22 |  |  |  |  |
+Sunday, 22 July 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | E | **cdhsausageboy** ![][flag_MY] | **4** | 2 | ![][flag_BR] Lazarento | [#1](https://osu.ppy.sh/community/matches/44391216), [#2](https://osu.ppy.sh/community/matches/44391842) |
 | F | LordAverage ![][flag_AU] | 0 | **4** | ![][flag_AU] **Blobby3000** | [#1](https://osu.ppy.sh/community/matches/44385177) |
 | H | Akali393394 ![][flag_HK] | 0 | **4** | ![][flag_BR] **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44393956) |
 | D | CaptainEChan ![][flag_US] | 0 | **4** | ![][flag_PL] **Wolfgang** | [#1](https://osu.ppy.sh/community/matches/44369563) |
 
----
-
 ## Ruleset
 
-### Tournament Scheduling
+### Tournament scheduling
 
 1. The tournament begins on the 14th of July, and its runtime will be until 26th of August.
 2. Rescheduling may be done as long as the player asking for it can provide proof that both players agreed to it to the tournaments management.
@@ -427,7 +452,7 @@ This competition has come to an end and resulted in the following podium:
 4. Matches will be played on weekends, unless rescheduled otherwise.
 5. Reschedules can be made to weekdays, subject to referee availability.
 
-### Tournament Bracket
+### Tournament bracket
 
 1. The tournament begins with a group stage, which will decide the matches for the double-elimination bracket.
 2. Group Stage will be played as BO7.
@@ -441,7 +466,7 @@ This competition has come to an end and resulted in the following podium:
 10. Loser Bracket Finals will be played as BO13.
 11. Grand Finals will be played as BO13.
 
-### Mappool And Map Rules
+### Mappool and map rules
 
 1. Each mappool consists of: 5 NoMod, 3 [Hidden](/wiki/Game_modifier/Hidden), 3 [HardRock](/wiki/Game_modifier/Hard_Rock), 3 [DoubleTime](/wiki/Game_modifier/Double_Time), 3 FreeMod, and 1 Tiebreaker.
 2. Players will have 2 bans for each match.
@@ -450,7 +475,7 @@ This competition has come to an end and resulted in the following podium:
 5. In the FreeMod bracket players may choose between all mods available in the multiplayer lobby besides DoubleTime/Nightcore, HalfTime, NoFail and Easy.
 6. In the Tiebreaker beatmap, players may choose between all mods available in the multiplayer lobby besides DoubleTime/Nightcore, HalfTime, NoFail and Easy.
 
-### Match Rules And Instructions
+### Match rules and instructions
 
 1. The referee of the match will create a lobby and invite the players of the matchup into a multiplayer lobby 10 minutes before the scheduled match time.
 2. Win condition will be set to **ScoreV2**, and the lobby type will be **Head to Head**.
@@ -465,28 +490,28 @@ This competition has come to an end and resulted in the following podium:
 10. Bans and picks will always be after the warmup, and we’ll always start with the bans.
 11. In the case of a tie, the Tiebreaker will be played.
 
-### Situational Match Rules
+### Situational match rules
 
 1. If a player were to disconnect in a non-warmup beatmap within the first 30 seconds, the beatmap will be replayed. However, this may only happen once in a match per player. Any repeated disconnects will count as a map forfeit.
 2. In the case of a tie, the beatmap will not be scored and may be picked again in the future, the picking order will remain the same. In the case of a Tiebreaker tie, the Tiebreaker will be replayed.
 
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

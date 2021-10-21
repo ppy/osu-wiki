@@ -5,7 +5,7 @@ Les fichiers **.db** sont utilisés en tant que fichiers binaire par osu! pour y
 On peut très souvent retrouver des fichiers .db dans la racine d'osu!:
 
 - Windows: `%localappdata%\osu!`
-- Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
+- macOS: `/Applications/osu!.app/Contents/Resources/drive_c/osu!/`
 
 En ce moment, osu! utilise 4 fichiers .db: osu!.db, scores.db, collection.db et presence.db.
 
@@ -75,7 +75,7 @@ Quelques types de données sont spécifiques à osu!.db, les voici:
 | Byte/Single | HP drain. Byte si la version est en-dessous de 20140609, Single sinon. |
 | Byte/Single | Overall difficulty. Byte si la version est en-dessous de 20140609, Single sinon. |
 | Double | Vélocité des sliders |
-| paire Int-Double* | Un Int indiquant le nombre de paires Int-Double suivantes, puis les paires susnommées. Évalutation en étoiles pour osu!standard, dans chaque paire, le Int est la combinaison des mods, et le Double l'évaluation. Seulement présent à partir de la version 20140609. |
+| paire Int-Double* | Un Int indiquant le nombre de paires Int-Double suivantes, puis les paires susnommées. Évalutation en étoiles pour osu!, dans chaque paire, le Int est la combinaison des mods, et le Double l'évaluation. Seulement présent à partir de la version 20140609. |
 | paire Int-Double* | Un Int indiquant le nombre de paires Int-Double suivantes, puis les paires susnommées. Évalutation en étoiles pour osu!taiko, dans chaque paire, le Int est la combinaison des mods, et le Double l'évaluation. Seulement présent à partir de la version 20140609. |
 | paire Int-Double* | Un Int indiquant le nombre de paires Int-Double suivantes, puis les paires susnommées. Évalutation en étoiles pour osu!catch, dans chaque paire, le Int est la combinaison des mods, et le Double l'évaluation. Seulement présent à partir de la version 20140609. |
 | paire Int-Double* | Un Int indiquant le nombre de paires Int-Double suivantes, puis les paires susnommées. Évalutation en étoiles pour osu!mania, dans chaque paire, le Int est la combinaison des mods, et le Double l'évaluation. Seulement présent à partir de la version 20140609. |
@@ -83,16 +83,16 @@ Quelques types de données sont spécifiques à osu!.db, les voici:
 | Int | Time total, en milliseconds |
 | Int | Le moment de l'extrait audio lorsque l'on survole une beatmap dans l'écran de sélection des musiques, en millisecondes. |
 | Timing point+ | Un Int indiquant le nombre de Timing points suivants, puis les Timing points indiqués. |
+| Int | Difficulté ID |
 | Int | Beatmap ID |
-| Int | Beatmap set ID |
 | Int | Thread ID |
-| Byte | Grade gagné en osu!standard. |
+| Byte | Grade gagné en osu!. |
 | Byte | Grade gagné en osu!taiko. |
 | Byte | Grade gagné en osu!catch. |
 | Byte | Grade gagné en osu!mania. |
 | Short | Décalage local de la beatmap |
 | Single | Tolérance de l'empilage |
-| Byte | Mode de jeu. 0x00 = osu!standard, 0x01 = osu!taiko, 0x02 = osu!catch, 0x03 = osu!mania |
+| Byte | Mode de jeu. 0x00 = osu!, 0x01 = osu!taiko, 0x02 = osu!catch, 0x03 = osu!mania |
 | String | Source de la musique |
 | String | Tags de la musique |
 | Short | Décalage en ligne |
@@ -154,16 +154,16 @@ Cette base de données contient tous les scores réalisés localement.
 
 | Type de donnée | Description |
 | :-- | :-- |
-| Octet (byte) | Mode de jeu (0x00 = osu!standard, 0x01 = osu!taiko, 0x02 = osu!catch, 0x03 = osu!mania) |
+| Octet (byte) | Mode de jeu (0x00 = osu!, 0x01 = osu!taiko, 0x02 = osu!catch, 0x03 = osu!mania) |
 | Entier (Int) | Version du jeu sous laquelle a été effectué ce score (exemple: 20150203) |
 | Chaîne de caractère (string) | Beatmap chiffrée en MD5 |
 | Chaîne de caractère (string) | Nom du joueur |
 | Chaîne de caractère (string) | Replay chiffrée en MD5 |
 | Court (short) | Nombre de 300 |
-| Court (short) | Nombre de 100 en osu!standard, de 150 en osu!taiko, de 100 en osu!catch, et de 100 en osu!mania |
-| Court (short) | Nombre de 50 en osu!standard, petit fruits en osu!catch, et de 50 en osu!mania |
-| Court (short) | Nombre de Gekis en osu!standard, et de Max 300 en osu!mania |
-| Court (short) | Nombre de Katus en osu!standard, et de 200 en osu!mania |
+| Court (short) | Nombre de 100 en osu!, de 150 en osu!taiko, de 100 en osu!catch, et de 100 en osu!mania |
+| Court (short) | Nombre de 50 en osu!, petit fruits en osu!catch, et de 50 en osu!mania |
+| Court (short) | Nombre de Gekis en osu!, et de Max 300 en osu!mania |
+| Court (short) | Nombre de Katus en osu!, et de 200 en osu!mania |
 | Court (short) | Nombre de fautes (misses) |
 | Entier (Int) | Score total |
 | Court (short) | Meilleur combo effectué |

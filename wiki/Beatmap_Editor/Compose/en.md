@@ -4,7 +4,7 @@
 
 ![Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)](img/ComposeMania.jpg "Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)")
 
-**Compose** is the place where a [mapper](/wiki/Glossary) spent most of the time mapping out his/her design with respect to timeline after setting the BPM and Timing Sections. This is also the place where players can practice a ranked difficulty and inspect its design akin to DDR's Training mode.
+**Compose** is the place where a [mapper](/wiki/Beatmapping) spent most of the time mapping out his/her design with respect to timeline after setting the BPM and Timing Sections. This is also the place where players can practice a ranked difficulty and inspect its design akin to DDR's Training mode.
 
 Due to different needs in mapping style (osu! is very flexible, allowing much room for creativity while osu!mania is restrained to selected key, demanding extreme precision to evoke the keysounds harmonically), osu!'s editor and osu!mania-only's editor are given their own features section. You can easily access osu!mania editor by setting your difficulty to osu!mania-only.
 
@@ -17,6 +17,7 @@ For a newbie guide: [Beatmapping](/wiki/Beatmapping).
 ### Top-Left (Hit Objects Timeline)
 
 <!-- TODO find the article that links to this and possibly redirect to here instead (why is this shared?) -->
+
 ![Hit Objects Timeline](/wiki/shared/BE_NTL.jpg "Hit Objects Timeline")
 
 **Shows the timeline for hit objects with respect to Beat Snap Divisor and timestamp.**
@@ -91,7 +92,7 @@ Hold `Alt` to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 **Your construction toolkit, made for DIY (do it yourself).**
 
-**Please note that in osu!standard's default notes hitsounds works differently in osu!mania.**
+**Please note that in osu!, default note hitsounds work differently than in osu!mania.**
 
 - Adding clap on a notes will play `hitclap` + `hitnormal` sound on hit while in osu!mania: will only play `hitclap` sound on hit
 

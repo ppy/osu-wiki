@@ -1,5 +1,5 @@
 ---
-no_native_review: true
+outdated: true
 ---
 
 # Colaboradores da Comunidade
@@ -29,7 +29,7 @@ Não para ser confundido com os [osu! Alumni](/wiki/People/The_Team/osu!_Alumni)
 | ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Desenvolvendo e mantendo [osu!stats](https://osustats.ppy.sh/) e várias utilidades significativas para ambos beatmapping, modding and e jogo em geral. |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Performance fenomenal em corrigir bugs/teste de funcionalidades e lidando com consultas de support de usuário. |
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3+ anos de trabalho silencioso incansavelmente lidando com [beatmap packing](https://osu.ppy.sh/beatmaps/packs) e vários anos de gerenciamento de charts de beatmap. |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Anos após anos de serviço, incluindo projetando a skin original de beatmap, avançando [storyboarding](/wiki/Storyboards) como uma arte e motivação. |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Anos após anos de serviço, incluindo projetando a skin original de beatmap, avançando [storyboarding](/wiki/Storyboard) como uma arte e motivação. |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Gerenciamento de comunidade em seus primórdios, moderação e enorme contribuições ao decorrer de seu tempo. |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Ter sido o primeiro gerente de comunidade e moderador global, quem consolidou o extramamente alto nível para o [GMT](/wiki/People/The_Team/Global_Moderation_Team) seguir. |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | Ter sido o primeiro gerente de staff, gerente BAT e formando por si só uma equipe elite de moderação de beatmap do zero. |
@@ -109,8 +109,8 @@ Não para ser confundido com os [osu! Alumni](/wiki/People/The_Team/osu!_Alumni)
 | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Contribuição fenomenal e organização para o projeto de localização em Chinês para o osu!, osu! wiki, e osu!lazer |
 | ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Contribuição fenomenal para o projeto do osu!lazer e criação de várias ferramentas de mídia |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | Criador de PerformancePlus e osu!chan |
-| ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Esforço fenomenal na produção e publicação do projeto Score |
-| ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Esforço fenomenal na produção e publicação do projeto Score |
+| ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Esforço fenomenal na produção e publicação do projeto Scorewatch |
+| ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Esforço fenomenal na produção e publicação do projeto Scorewatch |
 | ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Esforço fenomenal em avançar o projeto osu! wiki project com várias revisions, reworks e reviews |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | Pilar do projeto osu! wiki e contribuição fenomenal durante os anos |
 
@@ -177,32 +177,32 @@ Não para ser confundido com os [osu! Alumni](/wiki/People/The_Team/osu!_Alumni)
 | ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835) | Contribuição fenomenal para os projetos de código aberto do osu! |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
-[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_AT]: /wiki/shared/flag/AT.gif "Áustria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Austrália"
+[flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgária"
+[flag_BY]: /wiki/shared/flag/BY.gif "Bielorrússia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
+[flag_CH]: /wiki/shared/flag/CH.gif "Suíça"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
+[flag_ES]: /wiki/shared/flag/ES.gif "Espanha"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlândia"
+[flag_FR]: /wiki/shared/flag/FR.gif "França"
+[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
+[flag_GR]: /wiki/shared/flag/GR.gif "Grécia"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_HU]: /wiki/shared/flag/HU.gif "Hungria"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japão"
+[flag_MX]: /wiki/shared/flag/MX.gif "México"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malásia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
+[flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nova Zelândia"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polônia"
+[flag_RU]: /wiki/shared/flag/RU.gif "Federação Russa"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suécia"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
+[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"

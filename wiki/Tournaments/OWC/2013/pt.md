@@ -42,8 +42,6 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 
 **Comentaristas:** ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094), ![][flag_AU] [LaVolpe024](https://osu.ppy.sh/users/597796), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370)
 
----
-
 ## Participantes
 
 ### Maiores Torcidas
@@ -98,13 +96,9 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 | ![][flag_SG] Singapore | **Bardiche\_Z**, Alacartx, phox, Wishxrai, Theseanbei, deokoking, CloudNep, SenaAiriii |
 | ![][flag_VE] Venezuela | **MeowinTurtle**, S4suk3, CrymynaL, Baozis, Livean, Roli |
 
----
-
 ## Tabela
 
 ![OWC 2013 brackets](img/bracket.jpg)
-
----
 
 ## Lista de Beatmaps
 
@@ -278,13 +272,9 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 - Tiebreaker
   - **[DJ Okawari - Luv Letter (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/beatmapsets/40071#osu/127363)**
 
----
-
 ## Links
 
 - [Tópico de Discussão](https://osu.ppy.sh/community/forums/topics/160181/start=0)
-
----
 
 ## Regras
 
@@ -347,7 +337,7 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
    3. A equipe mencionada primeiramente no nome da sala será a equipe azul, a equipe mencionada posteriormente será a equipe vermelha.
 2. O árbitro entrará na sala externamente. O árbitro irá assistir a partida por meio de um client especial para multi-spectating.
 3. Os jogadores estarão livres para escolher um beatmap de aquecimento.
-4. A seleção de mapas será alternada entre cada capitão escolhendo um beatmap por vez. Os capitães deverão usar o comando "!roll" no \#multiplayer para determinar qual a equipe que escolherá primeiro.
+4. A seleção de mapas será alternada entre cada capitão escolhendo um beatmap por vez. Os capitães deverão usar o comando `!roll` no `#multiplayer` para determinar qual a equipe que escolherá primeiro.
    1. Os capitães poderão escolher beatmaps do grupo NoMod livremente.
    2. A escolha de beatmaps nos subgrupos específicos de mods será limitada. Cada capitão poderá escolher apenas um mapa de cada subgrupo de mods.
    3. Em caso de empate na partida, o tiebraker deverá ser jogado para desempate.

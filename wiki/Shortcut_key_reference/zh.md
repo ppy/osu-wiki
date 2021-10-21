@@ -32,8 +32,8 @@ tags:
 | `F10` | 禁用所有鼠标按键（鼠标滚轮仍可使用） |
 | `F12` | 截图，单击弹出的对话框以打开截图保存的文件夹 |
 | `Shift` + `F12` | 截图并上传至服务器分享，图片仍然会保存在本地，并在上传成功后自动在浏览器中显示截图 |
-| `Insert` | [老板键](https://baike.baidu.com/item/%E8%80%81%E6%9D%BF%E9%94%AE "老板键的百度百科")，最小化 osu! 至通知栏，并静音游戏所有声音 |
-| `Shift` + `F1` | 打开 [osu!status](https://twitter.com/osustatus "osu!status 的推特") （当网络错误时） |
+| `Insert` | [老板键](https://baike.baidu.com/item/%E8%80%81%E6%9D%BF%E9%94%AE)，最小化 osu! 至通知栏，并静音游戏所有声音 |
+| `Shift` + `F1` | 打开 [osu!status](https://twitter.com/osustatus) （当网络错误时） |
 | `Ctrl` + `O` | 快速打开设置菜单，在主菜单以外的地方无法进入偏移量（Offset）设置向导 |
 
 ## 主菜单
@@ -76,13 +76,13 @@ tags:
 | `F3` | 谱面选项 |
 | `F5` | 刷新谱面 |
 | `Shift` + `Delete` | 打开删除谱面对话框，这将询问您是否删除全部难度/单个难度或是画面上所有可见的谱面 |
-| `Ctrl` + `1` | 将游戏模式切换为 [osu!](/wiki/osu!) |
-| `Ctrl` + `2` | 将游戏模式切换为 [osu!taiko](/wiki/osu!taiko) |
-| `Ctrl` + `3` | 将游戏模式切换为 [osu!catch](/wiki/osu!catch) |
-| `Ctrl` + `4` | 将游戏模式切换为 [osu!mania](/wiki/osu!mania) |
-| `Ctrl` + `Enter` | 使用 [Auto](/wiki/Auto) 自动播放当前谱面 |
-| `Ctrl` + `Shift` + `Enter` | 在 [Cinema](/wiki/Cinema) 中播放当前谱面 |
-| `Ctrl` + `A` | 打开/关闭 [Auto](/wiki/Auto) |
+| `Ctrl` + `1` | 将游戏模式切换为 [osu!](/wiki/Disambiguation/osu!) |
+| `Ctrl` + `2` | 将游戏模式切换为 [osu!taiko](/wiki/Game_mode/osu!taiko) |
+| `Ctrl` + `3` | 将游戏模式切换为 [osu!catch](/wiki/Game_mode/osu!catch) |
+| `Ctrl` + `4` | 将游戏模式切换为 [osu!mania](/wiki/Game_mode/osu!mania) |
+| `Ctrl` + `Enter` | 使用 [Auto](/wiki/Game_modifier/Auto) 自动播放当前谱面 |
+| `Ctrl` + `Shift` + `Enter` | 在 [Cinema](/wiki/Game_modifier/Cinema) 中播放当前谱面 |
+| `Ctrl` + `A` | 打开/关闭 [Auto](/wiki/Game_modifier/Auto) |
 | `Ctrl` + `F3` or `Ctrl` + `+` | 提高 osu!mania 下落速度（仅适用于 osu!mania） |
 | `Ctrl` + `F4` or `Ctrl` + `-` | 降低 osu!mania 下落速度（仅适用于 osu!mania） |
 | `Ctrl` + `Backspace` | 删除搜索框内最后一个单词 |
@@ -99,7 +99,7 @@ tags:
 
 *小提示：按下快捷键来打开或关闭 Mod。您必须进入 Mod 菜单才可以使用这些快捷键。*
 
-*小提示：Target practice (osu!standard)，1K 和 2K (osu!mania)，Co-op (osu!mania)，还有 Mirror (osu!mania) 没有快捷键。*
+*小提示：Target practice (osu!)，1K 和 2K (osu!mania)，Co-op (osu!mania)，还有 Mirror (osu!mania) 没有快捷键。*
 
 | 快捷键 | Mod |
 | :-- | :-- |
@@ -111,12 +111,12 @@ tags:
 | 两次 `S` | Perfect |
 | `D` | Double Time |
 | 两次 `D` | Nightcore |
-| `F` | Hidden (osu!standard，osu!taiko 和 osu!catch) 或 Fade In (osu!mania) |
+| `F` | Hidden (osu!，osu!taiko 和 osu!catch) 或 Fade In (osu!mania) |
 | 两次 `F` | Hidden (osu!mania) |
 | `G` | Flashlight |
-| `Z` | Relax (osu!standard，osu!taiko 和 osu!catch) 或轮流切换 xK (osu!mania) |
-| `X` | Auto Pilot (osu!standard) 或 Random (osu!mania) |
-| `C` | Spun Out (osu!standard) |
+| `Z` | Relax (osu!，osu!taiko 和 osu!catch) 或轮流切换 xK (osu!mania) |
+| `X` | Auto Pilot (osu!) 或 Random (osu!mania) |
+| `C` | Spun Out (osu!) |
 | `V` | Auto |
 | 两次 `V` | Cinema |
 | `B` | Score v2 |
@@ -127,7 +127,7 @@ tags:
 | 快捷键 | 功能 |
 | :-- | :-- |
 | `+` 或 `-` | 调整本地偏移（Offset）设置（按住 `Alt` 进行精确调节） |
-| `Esc` | 暂停游戏，如果在观看回放或 [Auto](/wiki/Auto)/[Cinema](/wiki/Cinema) 模式中则返回歌曲选择 |
+| `Esc` | 暂停游戏，如果在观看回放或 [Auto](/wiki/Game_modifier/Auto)/[Cinema](/wiki/Game_modifier/Cinema) 模式中则返回歌曲选择 |
 | `Space` | 跳过开头/结尾部分 |
 | `Tab` | 打开/关闭排行榜 |
 | `Shift` + `Tab` | 显示/隐藏游戏时界面 |
@@ -174,10 +174,10 @@ tags:
 | `Ctrl` + `N` | 提示并删除当前难度全部物件 |
 | `Ctrl` + `↑/↓` | 将播放速度提高/降低 25％ |
 | `Ctrl` + `Shift` + `↑/↓` | 将播放速度提高/降低 5％ |
-| `F1` | 切换到 [作曲](/wiki/Compose) 界面 |
-| `F2` | 切换到 [设计](/wiki/Design) 界面 |
-| `F3` | 切换到 [Timing](/wiki/Timing) 界面 |
-| `F4` | 打开 [歌曲设置](/wiki/Song_Setup) 对话框 |
+| `F1` | 切换到 [作曲](/wiki/Beatmap_Editor/Compose) 界面 |
+| `F2` | 切换到 [设计](/wiki/Beatmap_Editor/Design) 界面 |
+| `F3` | 切换到 [Timing](/wiki/Beatmap_Editor/Timing) 界面 |
+| `F4` | 打开 [歌曲设置](/wiki/Beatmap_Editor/Song_Setup) 对话框 |
 | `F5` | 进入测试模式 |
 | `F6` | 打开 Timing 点控制对话框 |
 | `Ctrl` + `P` | 在当前位置添加一条红线（Timing 点），如果当前不在 Timing 页面中，则会打开 Timing 点控制对话框 |
@@ -215,7 +215,7 @@ tags:
 | `Ctrl` + `V` | 粘贴 |
 | `Ctrl` + `D` | 仿制，自动粘贴在所选物件的一小节之后 |
 | `Delete` | 删除 |
-| `1`，`2`，`3` 或 `4` | 在选择（select），打击圈（circle），滑条（slider）和转盘（spinner）之间来回切换，仅适用于 osu!standard，osu!taiko 和 osu!catch |
+| `1`，`2`，`3` 或 `4` | 在选择（select），打击圈（circle），滑条（slider）和转盘（spinner）之间来回切换，仅适用于 osu!，osu!taiko 和 osu!catch |
 | `1`，`2` 或 `3` | 在选择（select），物件（circle）和长按（hold）之间来回切换，仅适用于 osu!mania |
 | `Ctrl` + `Alt` + `鼠标滚轮` | 在选择/放置之间切换 |
 | `Ctrl` + `Shift` + `A` | 打开 [AiMod](/wiki/Beatmap_Editor/AiMod) |
@@ -249,7 +249,7 @@ tags:
 | `Ctrl` + `Shift` + `S` | 缩放 （弹出对话框） |
 | `Ctrl` + `Shift` + `D` | 添加指定数量的多边形打击圈（弹出对话框） |
 | `Ctrl` + `Shift` + `F` | 把滑条转为连打（弹出对话框） |
-| `Ctrl` + `↑/↓/←/→` | 微调所选物件，仅适用于 osu!standard，osu!taiko 和 osu!catch |
+| `Ctrl` + `↑/↓/←/→` | 微调所选物件，仅适用于 osu!，osu!taiko 和 osu!catch |
 | `Ctrl` + `↑/↓/←/→` | 移动所选物件，仅适用于 osu!mania |
 
 #### 打击音效
@@ -283,7 +283,7 @@ tags:
 | `Ctrl` + `C` | 复制所选素材 |
 | `Ctrl` + `V` | 在当前位置粘贴所选素材 *小提示：除非保存并重新加载谱面，否则粘贴的素材不会显示在图层列表中。* |
 | `Delete` | 从图层中删除选定的素材 |
-| `W`，`A`，`S`，`D` | 按 [osu!pixel](/wiki/Glossary#osupixel) 的标准微调所选素材 |
+| `W`，`A`，`S`，`D` | 按 [osu!pixel](/wiki/osupixel) 的标准微调所选素材 |
 
 ### Timing
 

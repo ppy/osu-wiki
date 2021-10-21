@@ -33,7 +33,7 @@ As per usual, the timeline for this month's contest is as follows:
 
 ## Beatmapping
 
-### <a id="limitation"></a>Limitation
+### Limitation
 
 Given the frequency of the MBC, we like to keep things fresh by forcing mappers to design their maps under different limitations. For example, last month's entries were not allowed to change slider velocity and the previous month's entries couldn't exceed 4.00 stars.
 
@@ -43,7 +43,7 @@ Throw everything you know about rhythm choice out the window — you're not allo
 
 For clarification, circles are still permitted in this contest, though a circle-only map is likely not going to pass the screening stage. Aim to use slider reverses (or repeats, whatever you want to call them) to their maximum potential.
 
-### <a id="songs"></a>Songs
+### Songs
 
 Each MBC provides beatmappers a choice between 5 songs from one of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists).
 

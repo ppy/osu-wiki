@@ -476,7 +476,7 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
    3. L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue ; l'autre équipe doit être l'équipe rouge.
 2. L'arbitre devra quitter la salle pour permettre la venue du 8ème joueur, mais sera tout de même connecté à la salle de manière externe. Il regardera les 8 joueurs jouer simultanément grâce à un logiciel spécial.
 3. Les joueurs ont la possibilité de s'échauffer sur une map de leur choix avant le début de la partie.
-4. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande « !roll » dans le chat ; le plus grand nombre l'emporte.
+4. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande `!roll` dans le chat ; le plus grand nombre l'emporte.
    1. Les capitaines peuvent choisir autant de beatmaps des catégories NoMod et FreeMod qu'ils le souhaitent.
    2. Des limitations s'imposent concernant les autres catégories. Chaque capitaine ne peut sélectionner qu'une beatmap de chaque catégorie durant le match.
    3. En cas d'égalité après un certain nombre de parties jouées (voir rubrique « Organisation des phases »), le tiebreaker doit être joué.
@@ -512,35 +512,35 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 
 - [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BG]: /wiki/shared/flag/BG.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EE]: /wiki/shared/flag/EE.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
+[flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgarie"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_EE]: /wiki/shared/flag/EE.gif "Estonie"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italie"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
+[flag_LV]: /wiki/shared/flag/LV.gif "Lettonie"
+[flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

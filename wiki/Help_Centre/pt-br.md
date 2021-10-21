@@ -104,13 +104,13 @@ Se você está interessado em apenas pequenas mudanças como capitalização ou 
 
 Se um jogador não entrou por pelo menos 6 meses e não tem nenhuma play, o nome de usuário dele poderá ser pego via a [página de troca de nome de usuário da osu!store](https://osu.ppy.sh/store/products/32) por uma taxa padrão associada com trocas de nome de usuário.
 
-Se o jogador tem qualquer play através de todos os modos de jogo, uma [função não-linear](https://www.desmos.com/calculator/b89siyv9j8 "Gráfico Desmos") é utilizado para calcular quanto tempo extra é adicionado a esses 6 meses. Isso é para prevenir as pessoas de roubarem nomes de usuário de jogadores ativos ou recentemente aposentados.
+Se o jogador tem qualquer play através de todos os modos de jogo, uma [função não-linear](https://www.desmos.com/calculator/b89siyv9j8) é utilizado para calcular quanto tempo extra é adicionado a esses 6 meses. Isso é para prevenir as pessoas de roubarem nomes de usuário de jogadores ativos ou recentemente aposentados.
 
 #### É possível mudar meu nome de volta ou revertir para meu antigo nome de usuário?
 
 **Sim, mas apenas em certas circunstâncias.**
 
-Nós apenas concedemos reversões para o antigo nome de usuário anterior ao atual de um jogador (o que é mostrado por último ao passar por cima de seu nome no perfil). Mudanças para quaisquer outros nomes prévios devem ser [comprados pela loja](https://osu.ppy.sh/store/products/32). Simplesmente entre em contato com accounts@ppy.sh e requira que a sua troca de nome seja revertida.
+Nós apenas concedemos reversões para o antigo nome de usuário anterior ao atual de um jogador (o que é mostrado por último ao passar por cima de seu nome no perfil). Mudanças para quaisquer outros nomes prévios devem ser [comprados pela loja](https://osu.ppy.sh/store/products/32). Simplesmente entre em contato com [accounts@ppy.sh](mailto:accounts@ppy.sh) e requira que a sua troca de nome seja revertida.
 
 Nós apenas concedemos isso uma vez por conta, então por favor considere com cuidado antes de requerer!
 
@@ -126,7 +126,7 @@ Se a mudança foi feita com a troca de graça que vem com uma supporter tag, nó
 
 **Apenas em certas circunstâncias.**
 
-Seu perfil irá mostrar todos os seus nomes de usuário previamente possuídos, mas nós apenas seletivamente removemos os que possam ser um problema para você. Se algum dos seus antigos nomes de usuário viola sua privacidade (por exemplo, se ele contém seu nome civil) ou que possa levar a sua privacidade a ser violada (via outros sites), contate accounts@ppy.sh para requerer que seja removido.
+Seu perfil irá mostrar todos os seus nomes de usuário previamente possuídos, mas nós apenas seletivamente removemos os que possam ser um problema para você. Se algum dos seus antigos nomes de usuário viola sua privacidade (por exemplo, se ele contém seu nome civil) ou que possa levar a sua privacidade a ser violada (via outros sites), contate [accounts@ppy.sh](mailto:accounts@ppy.sh) para requerer que seja removido.
 
 ### Outros problemas
 
@@ -603,7 +603,7 @@ Para ativar a entrada padrão, siga os seguinte passos:
 
 Na maior parte das mesas gráficas Wacom, isso é feito na aba de `Mapping` no aplicativo `Wacom Tablet Properties`.
 
-![Tela de Propriedades da Tablet Wacom mostrando as opções de Mapeamento](img/Tabarea.png "Interface para mudança de área ativa da tablet em dispositivos Wacom")
+![Tela de Propriedades da Tablet Wacom mostrando as opções de Mapeamento](Client/img/tablet-area.png "Interface para mudança de área ativa da tablet em dispositivos Wacom")
 
 Você poderá consultar com a fabricante de sua tablet para descobrir como definir sua área para seu periférico em específico.
 
@@ -649,7 +649,7 @@ Nesses casos, você pode abrir um ticket com a equipe do suporte enviando um ema
 
 A maior parte do tempo, você irá ser permitido a editar sua página de usuário novamente, mas usuários que abusarem desse perdão irão perder a possibilidade de editar sua página de usuário para sempre, então tome cuidado!
 
-Se você em algum ponto estiver com dúvidas de que algo é apropriado para se colocar na sua página de usuário, você pode mandar uma mensagem para quaisquer membros do [Global Moderation Team](/wiki/People/Global_Moderation_Team) com o que você planeja colocar na sua página e eles irão te informar se está tudo bem.
+Se você em algum ponto estiver com dúvidas de que algo é apropriado para se colocar na sua página de usuário, você pode mandar uma mensagem para quaisquer membros do [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) com o que você planeja colocar na sua página e eles irão te informar se está tudo bem.
 
 #### Posso completamente bloquear um usuário de entrar em contato comigo?
 

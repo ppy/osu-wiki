@@ -1,0 +1,9 @@
+---
+stub: true
+tags:
+  - passing
+---
+
+# Pass
+
+Sebuah **pass** adalah istilah yang digunakan untuk menjelaskan ketika pemain menyelesaikan [beatmap](/wiki/Beatmap) atau, bagian beatmap tertentu tanpa menggunakan [mod](/wiki/Game_modifier) seperti mod [No Fail](/wiki/Game_modifier/No_Fail) atau saat pemain berhasil masuk ke bagian [Break](/wiki/Beatmap/Break) dengan mempertahankan lebih dari 50% [health](/wiki/Beatmapping/Health). Jika pemain berhasil mencapai bagian break, maka sebuah indikator akan ditampilkan dengan suara untuk memberitahukan bahwa pemain telah berhasil melewati bagian sebelumnya.

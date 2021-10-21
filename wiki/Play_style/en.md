@@ -36,7 +36,7 @@ Some players use only the keyboard to tap while others only switch to the keyboa
 
 ![](/wiki/shared/Osu!tablet.jpg "osu!tablet")
 
-*Notice: This play style requires the use of a graphics [tablet (digitizer)](/wiki/Glossary#tablet).*
+*Notice: This play style requires the use of a graphics [tablet (digitizer)](/wiki/Gameplay/Input_device/Graphics_tablet).*
 
 Tablet-only players hover a tablet pen over a graphics tablet to navigate the in-game cursor and only tap beats by tapping the pen onto the surface of the graphics tablet itself.
 

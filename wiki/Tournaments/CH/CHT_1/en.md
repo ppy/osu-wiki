@@ -8,7 +8,7 @@ tags:
 
 ![CHT logo](img/logo.jpg)
 
-The **Coffee Hispanic Tournament** (***CHT***) was a single-elimination 2v2 osu! tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_AR] [iNeuu\_Z](https://osu.ppy.sh/users/9112463), and ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811). The tournament was restricted to Spanish-speaking countries only. This was the first installment of the Coffee Hispanic Tournament.
+The **Coffee Hispanic Tournament** (***CHT***) was a single-elimination 2v2 osu! tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_AR] [iNeuu\_Z](https://osu.ppy.sh/users/9112463), and ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811). The tournament was restricted to Spanish-speaking countries only. This was the first instalment of the Coffee Hispanic Tournament.
 
 ## Tournament schedule
 
@@ -25,9 +25,9 @@ The **Coffee Hispanic Tournament** (***CHT***) was a single-elimination 2v2 osu!
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag for each team member |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter for each team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter for each team member |
 
 ![](img/badge.png "CHT winner badge")
 
@@ -39,7 +39,7 @@ The Coffee Hispanic Tournament was run by various community members.
 | :-- | :-- |
 | Manager | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Administrator | ![][flag_ES] [AzuuuNyan](https://osu.ppy.sh/users/9349479), ![][flag_AR] [iNeuu\_Z](https://osu.ppy.sh/users/9112463), ![][flag_US] [Pundice](https://osu.ppy.sh/users/7940696), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
-| Map selector | ![][flag_PT] [My Angel Maki](https://osu.ppy.sh/users/11610772), ![][flag_US] [stackerjoe](https://osu.ppy.sh/users/7279141) |
+| Mappool selector | ![][flag_PT] [My Angel Maki](https://osu.ppy.sh/users/11610772), ![][flag_US] [stackerjoe](https://osu.ppy.sh/users/7279141) |
 | Referee | ![][flag_CA] [dqwed](https://osu.ppy.sh/users/9977100), ![][flag_ES] [Karma](https://osu.ppy.sh/users/7196989), ![][flag_AR] [Katsura Aimi](https://osu.ppy.sh/users/7102463), ![][flag_SV] [Loarca](https://osu.ppy.sh/users/4650246), ![][flag_AR] [-Nanahira-](https://osu.ppy.sh/users/6169195), ![][flag_BG] [Ted](https://osu.ppy.sh/users/9717848), ![][flag_CO] [TheAleboy](https://osu.ppy.sh/users/8921554), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CO] [Vanilla Aiz](https://osu.ppy.sh/users/12261024), ![][flag_AR] [Yorumi-](https://osu.ppy.sh/users/7755726) |
 | Streamer | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Commentator | ![][flag_AR] [Amuro](https://osu.ppy.sh/users/7119659), ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471), ![][flag_AR] [juliancala](https://osu.ppy.sh/users/3272902), ![][flag_ES] [Silver Falco](https://osu.ppy.sh/users/6573997), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
@@ -102,7 +102,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   - [Yuyoyuppe - Emerald Galaxy (pishifat) \[Expert\]](https://osu.ppy.sh/beatmapsets/682286#osu/1442757)
   - [M2U - Velocity (Karen) \[Expert\]](https://osu.ppy.sh/beatmapsets/593985#osu/1256483)
-  - [kors kfeat. Rie - Rising in the Sun (original mix) (soulfear) \[Another\]](https://bloodcat.com/osu/s/26742)
+  - [kors k feat. Rie - Rising in the Sun (original mix) (soulfear) \[Another\]](https://bloodcat.com/osu/s/26742)
 - HardRock
   - [Kairiki bear - Manemane Psychotropic (scanter) \[Psycho\]](https://osu.ppy.sh/beatmapsets/113398#osu/541797)
   - [OISHII - ONIGIRI FREEWAY (Niva) \[Extra\]](https://osu.ppy.sh/beatmapsets/873667#osu/1826135)

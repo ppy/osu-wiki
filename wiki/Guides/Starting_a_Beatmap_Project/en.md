@@ -8,7 +8,7 @@ Note: This article is about the [Beatmap Projects](https://osu.ppy.sh/community/
 
 *Yes, your thread's title will determine if other osu! users will "yay" or "nay" your Beatmap Project, even before they click on it!*
 
-This should consist `[Discography]` / `[Album]` / `[Collab]` before the title. Chances are high that your project will be ignored or moved to [AW](/wiki/Glossary) if the thread's title lacks on informations.
+This should consist `[Discography]` / `[Album]` / `[Collab]` before the title. Chances are high that your project will be ignored or moved to [AW](/wiki/Abandoned_wasteland) if the thread's title lacks on informations.
 
 **Examples:**
 

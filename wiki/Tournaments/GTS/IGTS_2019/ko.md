@@ -62,8 +62,6 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 - [Pick'em 사이트](https://pickem.hwc.hr/tournaments/8)
 - **[메인 스프레드시트](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 
----
-
 ## 참가자
 
 |  | 국가 | 팀원 |
@@ -114,8 +112,6 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 | **G** | ![][flag_BR] 브라질 | ![][flag_CL] 칠레 | ![][flag_ID] 인도네시아 공화국 B | ![][flag_PE] 페루 |
 | **H** | ![][flag_HK] 홍콩 | ![][flag_PL] 폴란드 B | ![][flag_CO] 콜롬비아 | ![][flag_IE] 아일랜드 |
 
----
-
 ## 순위권
 
 이 대회는 종료되었으며, 순위권에 든 팀은 다음과 같습니다
@@ -125,8 +121,6 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 | ![금관](/wiki/shared/crown-gold.png "1등") | ![][flag_HK] 홍콩 |
 | ![은관](/wiki/shared/crown-silver.png "2등") | ![][flag_US] 미국 A |
 | ![동관](/wiki/shared/crown-bronze.png "3등") | ![][flag_CL] 칠레 |
-
----
 
 ## 맵풀
 
@@ -342,8 +336,6 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 - Tiebreaker
   - **[USAO - Chrono Diver -PENDULUMs- (USAO remix) (QEpicAce) \[-Jordan-'s Muzukashii (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/980250#taiko/2051403)**
 
----
-
 ## 경기 결과
 
 ### 최종 결승
@@ -475,8 +467,6 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 | F4 | 캐나다 ![][flag_CA] | 4 | **5** | ![][flag_DK] **덴마크** | [#1](https://osu.ppy.sh/community/matches/52495640) |
 | E5 | 영국 ![][flag_GB] | 1 | **5** | ![][flag_MX] **멕시코** | [#1](https://osu.ppy.sh/community/matches/52489459) |
 
----
-
 ## 규칙
 
 ### 전체 규칙
@@ -594,8 +584,8 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_CO]: /wiki/shared/flag/CO.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
+[flag_DK]: /wiki/shared/flag/DK.gif
 [flag_EC]: /wiki/shared/flag/EC.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif

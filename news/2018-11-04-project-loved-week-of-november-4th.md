@@ -18,12 +18,12 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [DigitalHypno](https://osu.ppy.sh/users/4384207), [SoraRoxas01](https://osu.ppy.sh/users/1986262) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -99,7 +99,7 @@ Do you want to get pumped up? Well dima21 has you covered with a map from Getty'
 
 I never thought cross-playfield jumps could look so inviting yet so intimidating at the same time. Regardless, waywern2012 proved it to be possible with his absolutely bonkers map of an extended version of Team Grimoire's song "C18H27NO3". When I say bonkers, don't think 7 stars. Don't think 8 stars, either. In fact, don't even think 9 stars. What? That's right. This map clocks in at nearly 9.5 stars, and it's chock-full of all the cross-screen jumps you could ever ask for. If you think you can do this... I'll hold your beer.
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910), [-Kazu-](https://osu.ppy.sh/users/920861), [Backfire](https://osu.ppy.sh/users/263110), [iceOC](https://osu.ppy.sh/users/5482401) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)! This week, all osu!taiko beatmap descriptions were written by [-Kazu-](https://osu.ppy.sh/users/920861).
 
@@ -129,7 +129,7 @@ Continuing with the theme of maps that inspired a new generation of mappers come
 
 Finally, we have CANDYYYLAND by Myckoll and Ulqui, a map featured recently in the Taiko Suiji Cup as the challenge pick of Group Stage. This one is a delicious mixture of simple patterns that emphasizes the song further and SV changes that makes the experience a whole lot more rich, as future bass is one of these genres that rely heavily on the creativity of the mappers to stand out, and this map really achieved it. This really serves as a nice introduction to high level sightreading, as the readability of this map is quite into the comfortable side, so no doubts you should give this a shot!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Zak](https://osu.ppy.sh/users/1375955)!
 
@@ -149,7 +149,7 @@ This is a clean map without any gimmicky patterns in it, but nevertheless still 
 
 Hoi hoi hoi hoi hoi hoi hoi hoi! Although fairly new, only being uploaded in 2016, renowned meme mapper Furely brings us yet another fantastic map. Similar to to his other famous map, AVALON, this map brings hyperwalks, fast snapping, and several spots where ridiculously precise catcher movements are required. Boasting favorites from several top players and only having a few known plays that have come close to an FC (apart from [ExGon](https://osu.ppy.sh/users/214187)'s FC), Oracle awaits those who are pressed to challenge it, but only a select few who have truly mastered the art of the catcher will come out triumphant.
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [\_underjoy](https://osu.ppy.sh/users/2235750), [aitor98](https://osu.ppy.sh/users/3154852), [Kamikaze](https://osu.ppy.sh/users/2124783), [Pope Gadget](https://osu.ppy.sh/users/2288341), [stupud man](https://osu.ppy.sh/users/2141612) and [TheToaphster](https://osu.ppy.sh/users/7616811)!
 

@@ -1,22 +1,21 @@
 ---
 tags:
-- osu! Taiko Wars
-- Taiko Wars
-- TW
+  - osu! Taiko Wars
+  - TW
 ---
 
 # Taiko Wars
 
-![TW Logo](img/logo.png)
+![TW logo](img/logo.png)
 
-The **Taiko Wars** (***TW***) was an interactive strategy double-elimination two-on-two osu!taiko tournament hosted by ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). It was the 1st installment of the Taiko Wars.
+The **Taiko Wars** (***TW***) was a 2v2 interactive strategy double-elimination osu!taiko tournament hosted by ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). It was the first instalment of the Taiko Wars.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-10-07/2018-10-26 |
-| Live Drawings | 2018-10-27 (12:00 UTC) |
+| Registration phase | 2018-10-07/2018-10-26 |
+| Live drawings | 2018-10-27 (12:00 UTC) |
 | Round 1 | 2018-10-29/2018-11-04 |
 | Round 2 | 2018-11-05/2018-11-11 |
 | Round 3 | 2018-11-12/2018-11-18 |
@@ -25,13 +24,11 @@ The **Taiko Wars** (***TW***) was an interactive strategy double-elimination two
 
 ## Prizes
 
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for Taiko Wars winners. It is possible that these items change with every installment of the Taiko Wars.
-
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ## Organisation
 
@@ -40,13 +37,13 @@ The Taiko Wars was run by various osu!taiko community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) |
-| Map Selector | ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
+| Mappool selector | ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
 | Streamer | ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
 | Commentator | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062) |
 | Designer | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
 | Referee | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_RU] [-dragon67](https://osu.ppy.sh/users/4328734) |
 | Statistician | ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -54,8 +51,6 @@ The Taiko Wars was run by various osu!taiko community members.
 - [Livestream](https://www.twitch.tv/osutaikowars)
 - [oTW Discord server](https://discord.gg/7bWjmq2)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS1OEnywzQlI4425prcLcfxFoWCaSDGnfDpOXJZ5jRq-CP6E3OTSz0m8SVW4cMKF2i6c_dyrh4yZF3O/pubhtml)**
-
----
 
 ## Participants
 
@@ -73,19 +68,16 @@ The Taiko Wars was run by various osu!taiko community members.
 | **Ununited States of Namepiking Gamers** | ![][flag_US] **[\_knots](https://osu.ppy.sh/users/4407678)**, ![][flag_US] [jyake\_ou](https://osu.ppy.sh/users/9099822), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) |
 | **Urugay** | ![][flag_US] **[Das](https://osu.ppy.sh/users/3165416)**, ![][flag_VE] [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Land of Foda-se 2: Electric Boogaloo |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | cu |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Iceland |
-
----
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Land of Foda-se 2: Electric Boogaloo** (![][flag_BR] **[HiroK](https://osu.ppy.sh/users/4050738)**, ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684), ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070) |
+| **Laundry Ca𝔹oclo Warriors** | ![][flag_BR] **[Brasil](https://osu.ppy.sh/users/3949268)**, ![][flag_BR] [Berg](https://osu.ppy.sh/users/8097465), ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **cu** (![][flag_CL] **[Ulqui](https://osu.ppy.sh/users/1263669)**, ![][flag_CL] [-F1-](https://osu.ppy.sh/users/5810867), ![][flag_BR] [Kbludoh](https://osu.ppy.sh/users/2543764)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Iceland** (![][flag_CA] **[janitoreihil](https://osu.ppy.sh/users/3307897)**, ![][flag_BR] [Kqrth](https://osu.ppy.sh/users/4115718), ![][flag_US] [closed](https://osu.ppy.sh/users/5116922)) |
 
 ## Mappools
 
@@ -210,40 +202,50 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[gmtn. (witch's slave) - furioso melodia (incandescence) \[melOnia\]](https://osu.ppy.sh/beatmapsets/855174#taiko/1786971)**
 
----
-
-## Match Results
+## Match results
 
 ### Round 5
 
-| Saturday, 2018-12-01 |  |  |  |  |
+Saturday, 1 December 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **cu** | **7** | 0 | Iceland | [#1](https://osu.ppy.sh/community/matches/47786566) |
 
-| Sunday, 2018-12-02 |  |  |  |  |
+Sunday, 2 December 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Land of Foda-se 2: Electric Boogaloo** | **7** | 1 | Iceland | [#1](https://osu.ppy.sh/community/matches/47821563) |
 | Iceland | 0 | **7** | **Land of Foda-se 2: Electric Boogaloo** | [#1](https://osu.ppy.sh/community/matches/47846905) |
 
 ### Round 4
 
-| Saturday, 2018-11-24 |  |  |  |  |
+Saturday, 24 November 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Iceland** | **5** | 0 | Urugay | -win by default- |
+| **Iceland** | **5** | 0 | Urugay | *win by default* |
 | Republic of Froot Loop Salad | 2 | **5** | **cu** | [#1](https://osu.ppy.sh/community/matches/47659978) |
 
-| Sunday, 2018-11-25 |  |  |  |  |
+Sunday, 25 November 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Urugay | 0 | **5** | **Land of Foda-se 2: Electric Boogaloo** | [#1](https://osu.ppy.sh/community/matches/47665096) |
 | **Land of Foda-se 2: Electric Boogaloo** | **5** | 1 | Republic of Froot Loop Salad | [#1](https://osu.ppy.sh/community/matches/47687431) |
 
 ### Round 3
 
-| Saturday, 2018-11-17 |  |  |  |  |
+Saturday, 17 November 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **cu** | **4** | 0 | Urugay | [#1](https://osu.ppy.sh/community/matches/47476742) |
 
-| Sunday, 2018-11-18 |  |  |  |  |
+Sunday, 18 November 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Republic of Froot Loop Salad | 1 | **4** | **Land of Foda-se 2: Electric Boogaloo** | [#1](https://osu.ppy.sh/community/matches/47523510) |
 | **Land of Foda-se 2: Electric Boogaloo** | **4** | 0 | Team II Empire | [#1](https://osu.ppy.sh/community/matches/47527025) |
@@ -251,40 +253,48 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 2
 
-| Saturday, 2018-11-10 |  |  |  |  |
+Saturday, 10 November 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Team II Empire | 1 | **3** | **Urugay** | [#1](https://osu.ppy.sh/community/matches/47314007) |
 | Laundry Ca𝔹oclo Warriors | 0 | **3** | **Republic of Froot Loop Salad** | [#1](https://osu.ppy.sh/community/matches/47340496) |
-| **cu** | **3** | 0 | Laundry Ca𝔹oclo Warriors | -win by default- |
+| **cu** | **3** | 0 | Laundry Ca𝔹oclo Warriors | *win by default* |
 
-| Sunday, 2018-11-11 |  |  |  |  |
+Sunday, 11 November 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Ununited States of Namepiking Gamers | 1 | **3** | **Iceland** | [#1](https://osu.ppy.sh/community/matches/47365021) |
 | **Land of Foda-se 2: Electric Boogaloo** | **3** | 0 | Ununited States of Namepiking Gamers | [#1](https://osu.ppy.sh/community/matches/47373419) |
 
 ### Round 1
 
-| Friday, 2018-11-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| Urugay | 0 | **3** | **cu** | -win by default- |
+Friday, 2 November 2018:
 
-| Saturday, 2018-11-03 |  |  |  |  |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Urugay | 0 | **3** | **cu** | *win by default* |
+
+Saturday, 3 November 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Ununited States of Namepicking Gamers** | **3** | 2 | Bolsonaros Unidos | [#1](https://osu.ppy.sh/community/matches/47180959) |
 | **Team II Empire** | **3** | 1 | Ununited States of Namepiking Gamers | [#1](https://osu.ppy.sh/community/matches/47185545) |
 
-| Sunday, 2018-11-04 |  |  |  |  |
+Sunday, 4 November 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Republic of Froot Loop Salad | 1 | **3** | **Land of Foda-se 2: Electric Boogaloo** | [#1](https://osu.ppy.sh/community/matches/47191404) |
 | Laundry Ca𝔹oclo Warriors | 0 | **3** | **Republic of Froot Loop Salad** | [#1](https://osu.ppy.sh/community/matches/47213957) |
 | **Iceland** | **3** | 1 | Gib Sinep | [#1](https://osu.ppy.sh/community/matches/47213176) |
 | **Land of Foda-se 2: Electric Boogaloo** | **3** | 1 | Paragay | [#1](https://osu.ppy.sh/community/matches/47217767) |
 
----
-
 ## Ruleset
 
-### Game Rules
+### Game rules
 
 1. At the start of the tournament (October 27, UTC 20:00), the **top 11** consenting players will become team captains, and will draft two other players to join their team.
 2. The tournament will be played in **Score V2**.
@@ -302,7 +312,7 @@ This competition has come to an end and resulted in the following podium:
 12. All match times are in **UTC**.
 13. **No staff members are allowed to play** other than streamers, commentators, and graphic designers.
 
-### Match Rules
+### Match rules
 
 1. Matches are played as a 2v2, teams may swap out players at any time between maps, failed scores count.
 2. A referee will create the match and invite both team captains (or another team member in the case that the captain is not online), who will then be expected to invite the rest of their team
@@ -311,19 +321,19 @@ This competition has come to an end and resulted in the following podium:
 5. Once all players are present, the defending team must state their choice between first warmup/ban/pick or second warmup/ban/pick. Teams may pick warmup maps with a length of 5:00 or less, in the decided order.
 6. Each team may ban **one map** from the mappool, in the decided order.
 7. Teams will continue to take turns picking maps, until one team wins.
-8. Every pick, the referee will start a !mp timer 240 command, by the end of which the currently picking team must have stated their map choice. If the picking team fails to pick a map at any time before the timer ends, one will be randomly selected for them using a `!roll` command.
-9. Teams will then ready up, after which the referee will enter !mp start 15 to begin the match.
+8. Every pick, the referee will start a `!mp timer 240` command, by the end of which the currently picking team must have stated their map choice. If the picking team fails to pick a map at any time before the timer ends, one will be randomly selected for them using a `!roll` command.
+9. Teams will then ready up, after which the referee will enter `!mp start 15` to begin the match.
 10. Failed scores are counted, the team with the highest score wins.
 11. The Matches will be BO5 and grow bigger as teams are eliminated.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

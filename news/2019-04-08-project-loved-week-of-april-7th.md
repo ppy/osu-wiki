@@ -16,12 +16,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -107,7 +107,7 @@ A map to test your alternation as well as your high end speed, FaiVillager's Hir
 
 A funky little tune gets a funky Settia map—coming in at just over a minute in length, Mischievous Masquerade is a map that you're never far from the end of. Getting there, however, is a challenge not to be scoffed at, involving swing doubles and some infamous Settia technical mapping. It's a big test of your aim control, the map is almost as addictive as the song, and there's also a casual difficulty to play if you want to bop along without much fear of failing out. Got a minute to spare? You have no excuse not to give this one a go!
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -145,7 +145,7 @@ White Prism is an exceptionally well-mapped set by kanopu, taking full advantage
 
 This map by Taka030 is characterized by its many SV changes and comfortable 1/6 patterns—the smooth yet rich SV gives the map more flavor without harming any playability. Add in yassu-'s GD, which is an excellent and challenging map, and you get a mapset that I think you should definitely play at least once in your life!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Ascendance](https://osu.ppy.sh/users/2931883), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Wesley](https://osu.ppy.sh/users/2407265)! This week, all osu!catch beatmap descriptions were written by [Sartan](https://osu.ppy.sh/users/4100941).
 
@@ -165,7 +165,7 @@ It has been a while, but -Plus- makes a return to the Loved vote! Here we have N
 
 Entering the Loved arena for the first time ever is Aryssiel! Having mapped about 30 maps before this, he is definitely not new to placing fruits in the osu! editor. Road of Resistance is one of his most iconic and well-known creations. Despite it not being too out unordinary of a map, it is still very much enjoyable thanks to its length and its ordinary-like style, allowing mods to be used to spice things up for very good players. Don't get me wrong though, Road of Resistance is quite a challenging map on its own for people not quite on pro level, with some difficult jumps and streams to be found, along with a circle size that's just a tad smaller than usual. After all, Road of Resistance is the polar opposite of road of least resistance, right? So here's one to the lovers of metal and/or fans of the most metal girls on the planet!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

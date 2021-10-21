@@ -8,7 +8,7 @@ tags:
 
 ![CHS logo](img/logo.jpg)
 
-The **Coffee Hispanic Showdown** (***CHS***) was a double-elimination 2v2 osu! tournament hosted by ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351) and ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament was restricted to Spanish-speaking countries only. This was the first installment of the Coffee Hispanic Showdown and part of the Coffee Hispanic series.
+The **Coffee Hispanic Showdown** (***CHS***) was a double-elimination 2v2 osu! tournament hosted by ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351) and ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament was restricted to Spanish-speaking countries only. This was the first instalment of the Coffee Hispanic Showdown and part of the Coffee Hispanic series.
 
 ## Tournament schedule
 
@@ -39,7 +39,7 @@ The Coffee Hispanic Showdown was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
-| Map selector | ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_PT] [MakiDonalds](https://osu.ppy.sh/users/11610772), ![][flag_BR] [niii_san](https://osu.ppy.sh/users/5403374) |
+| Mappool selector | ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_PT] [MakiDonalds](https://osu.ppy.sh/users/11610772), ![][flag_BR] [niii_san](https://osu.ppy.sh/users/5403374) |
 | Referee | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_US] [bmax](https://osu.ppy.sh/users/6672998), ![][flag_ES] [Bubblegum45](https://osu.ppy.sh/users/10559526), ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_AR] [Emiru Ikuno 9](https://osu.ppy.sh/users/7102463), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_RU] [Kolibri](https://osu.ppy.sh/users/8715808), ![][flag_DE] [LwL](https://osu.ppy.sh/users/3556856), ![][flag_PT] [MakiDonalds](https://osu.ppy.sh/users/11610772), ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_PL] [P a t r i c k](https://osu.ppy.sh/users/6814521), ![][flag_CA] [Rijrya](https://osu.ppy.sh/users/11186709), ![][flag_US] [ruyunata](https://osu.ppy.sh/users/8880920), ![][flag_ES] [SansREPZ](https://osu.ppy.sh/users/8865297), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_CO] [TheAleboy](https://osu.ppy.sh/users/8921554), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CO] [Vanilla Aiz](https://osu.ppy.sh/users/12261024), ![][flag_AR] [Yorumi-](https://osu.ppy.sh/users/7755726) |
 | Team picker | ![][flag_BR] [Akane Hime](https://osu.ppy.sh/users/6772887), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_BR] [despairy](https://osu.ppy.sh/users/7339984), ![][flag_CO] [ElMick33](https://osu.ppy.sh/users/5458323), ![][flag_BR] [niii\_san](https://osu.ppy.sh/users/5403374) |
 | Streamer | ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351), ![][flag_CA] [Clarkyclarker](https://osu.ppy.sh/users/11664411), ![][flag_DE] [im afk](https://osu.ppy.sh/users/8449331), ![][flag_ES] [Moewagon](https://osu.ppy.sh/users/5764169), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
@@ -385,7 +385,7 @@ Monday, 17 August 2020:
 | #1 | ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761), ![][flag_AR] [Penguo](https://osu.ppy.sh/users/4389490) | 23 |
 | #2 | ![][flag_US] [AbrahamR](https://osu.ppy.sh/users/4797389), ![][flag_CO] [GaaL](https://osu.ppy.sh/users/2374950) | 83 |
 | #3 | ![][flag_CL] [Deruz](https://osu.ppy.sh/users/5386106), ![][flag_CL] [Pancho](https://osu.ppy.sh/users/11305398) | 98 |
-| #4 | ![][flag_CL] [Pancho](https://osu.ppy.sh/users/11305398), ![][flag_UY] [Madozito](https://osu.ppy.sh/users/4054429) | 106 |
+| #4 | ![][flag_UY] [Madozito](https://osu.ppy.sh/users/4054429), ![][flag_UY] [Rebo](https://osu.ppy.sh/users/6942259) | 106 |
 | #5 | ![][flag_ES] [In Sane](https://osu.ppy.sh/users/5114537), ![][flag_ES] [Rekens](https://osu.ppy.sh/users/1073575) | 109 |
 | #6 | ![][flag_ES] [amborgesa](https://osu.ppy.sh/users/1968481), ![][flag_RO] [Lisko](https://osu.ppy.sh/users/11948017) | 111 |
 | #7 | ![][flag_AR] [Emiru Ikuno 2](https://osu.ppy.sh/users/9393446), ![][flag_AR] [SlowBurn](https://osu.ppy.sh/users/3608846) | 117 |

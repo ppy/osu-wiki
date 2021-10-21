@@ -46,16 +46,12 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 | 解说 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094), ![][flag_AU] [LaVolpe024](https://osu.ppy.sh/users/597796), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | 统计 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## 外部链接
 
 - [讨论帖（英文）](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 - [讨论帖（中文）](https://osu.ppy.sh/community/forums/topics/160371)
 - [osu! World Cup 直播录像](https://www.twitch.tv/osulive/profile/pastBroadcasts)
 - [分组信息、统计](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web)
-
----
 
 ## 参赛者
 
@@ -111,13 +107,9 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 | ![][flag_SG] Singapore | **Bardiche\_Z**, Alacartx, phox, Wishxrai, Theseanbei, deokoking, CloudNep, SenaAiriii |
 | ![][flag_VE] Venezuela | **MeowinTurtle**, S4suk3, CrymynaL, Baozis, Livean, Roli |
 
----
-
 ## 淘汰赛对阵
 
 ![OWC 2013 brackets](img/bracket.jpg)
-
----
 
 ## 比赛图池
 
@@ -291,8 +283,6 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 - Tiebreaker
   - **[DJ Okawari - Luv Letter (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/beatmapsets/40071#osu/127363)**
 
----
-
 ## 比赛结果
 
 ### 决赛
@@ -411,8 +401,6 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 | ![][flag_KR] **Korea** | **4** - 2 | Chile ![][flag_CL] | [#1](https://osu.ppy.sh/community/matches/2662493) |
 | ![][flag_AU] Australia | 1 - **4** | **Brazil** ![][flag_BR] | [#1](https://osu.ppy.sh/community/matches/2767400) |
 
----
-
 ## 规则部分
 
 ### 比赛规则
@@ -474,7 +462,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
    3. 房间名中第一个提到的队伍必须是蓝队，第二个提到的队伍必须是红队。
 2. 裁判将从外部加入房间。裁判将通过可以同时旁观多人的客户端旁观比赛。
 3. 参赛选手可以自由选择一张热身图。
-4. 比赛过程中由双方队长轮流从选取池中选图。比赛之前双方队长必须分别在 \#multiplayer 中使用一次 “!roll”，以此决定哪一队首先选图。
+4. 比赛过程中由双方队长轮流从选取池中选图。比赛之前双方队长必须分别在 `#multiplayer` 中使用一次 `!roll`，以此决定哪一队首先选图。
    1. NoMod 模式的图可以自由选择。
    2. 选择特定 mod 的图的次数有限。每队队长在每场比赛中，从每个限定 mod 模式中只能选一张图。
       1. 淘汰赛阶段不限 FreeMod 的选图次数。
@@ -509,35 +497,35 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 4. 赛事将由赛事管理者进行调度。时间安排将会在第一场赛事前的一个星期日公布。（例如，在11月3日发布小组赛时间安排）赛事管理者将会尝试根据参赛者的所在时区来调整进行比赛的时间。
 5. 每支队伍的队长负责通知其队伍的成员。当然，成员更多的队伍更容易确保凑齐至少四名选手进行每场比赛。如果某支队伍无法提供四名选手进行比赛，本场比赛的结果无效。
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BG]: /wiki/shared/flag/BG.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EE]: /wiki/shared/flag/EE.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
+[flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
+[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
+[flag_BE]: /wiki/shared/flag/BE.gif "比利时"
+[flag_BG]: /wiki/shared/flag/BG.gif "保加利亚"
+[flag_BR]: /wiki/shared/flag/BR.gif "巴西"
+[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
+[flag_CL]: /wiki/shared/flag/CL.gif "智利"
+[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_DE]: /wiki/shared/flag/DE.gif "德国"
+[flag_EE]: /wiki/shared/flag/EE.gif "爱沙尼亚"
+[flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
+[flag_FR]: /wiki/shared/flag/FR.gif "法国"
+[flag_GB]: /wiki/shared/flag/GB.gif "英国"
+[flag_HK]: /wiki/shared/flag/HK.gif "香港"
+[flag_ID]: /wiki/shared/flag/ID.gif "印度尼西亚"
+[flag_IT]: /wiki/shared/flag/IT.gif "意大利"
+[flag_JP]: /wiki/shared/flag/JP.gif "日本"
+[flag_KR]: /wiki/shared/flag/KR.gif "韩国"
+[flag_LV]: /wiki/shared/flag/LV.gif "拉脱维亚"
+[flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
+[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
+[flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
+[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
+[flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
+[flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
+[flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
+[flag_TH]: /wiki/shared/flag/TH.gif "泰国"
+[flag_TW]: /wiki/shared/flag/TW.gif "台湾"
+[flag_US]: /wiki/shared/flag/US.gif "美国"
+[flag_VE]: /wiki/shared/flag/VE.gif "委内瑞拉"

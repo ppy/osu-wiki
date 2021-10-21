@@ -16,12 +16,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!standard
+## osu!standard
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/DkfcGDx_-rg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Bibbity Bill returns to Project Loved with a map from an artist that many will b
 
 With this mapset, Sing *encounter*s their second feature on Project Loved—only this time featuring guest difficulties from 7 other mappers! With a grand total of 9 individual difficulties, there surely is a map for everyone, especially with a difficulty spread like this. Many of them take advantage of the song's complex rhythms and bursts, however each map is unique to their own and is a blast to play for anyone looking to try.
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -93,7 +93,7 @@ If you like gimmick maps, this one's for you. katacheh themselves said they pack
 Although initially planned by maziari1105 to get Ranked, he decided to allow us to put it here for the voting stage and of course we instantly took the chance to do so.  
 Worry not though—even if its (insane) top difficulty is one of the best maps we have seen yet, the other diffs don't fall short to the hype either!
 
-## <a name="catch" id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -115,7 +115,7 @@ After playing the "SINNOH'S INFINITE" difficulty of the recently ranked [Chroma 
 
 Here we go then. The map that was supposed to blow everything away in the ranked section pp-wise but sadly never made it to that ranked section in the end. Having quit for a while now, Koliron's *Soldiers of the Wasteland* hasn't seen any activity in over a year which was a bummer for quite a lot of people. The map itself is very well created and very well polished having been used for the CTB International Cup IV as Grand Finals tiebreaker, and also having seen plenty of play in multiplayer lobbies despite its very ranked-map-esque feel. With its tons of streams, stream jumps, and the lengthiness of the song itself, this map is truly a finger-breaker. As the star rating suggests, the map is suited only for players of (very) high skill level, let alone with hardrock turned on. Will you be able to play it? Or will you find yourself just another soldier lost in the wasteland?
 
-## <a name="mania" id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

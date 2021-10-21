@@ -1,210 +1,286 @@
 # osu!stream song list
 
-***[Click here to go back to osu!stream](/wiki/osu!stream)***
+*For information on the base game, see: [osu!stream](/wiki/osu!stream)*
 
-- Most of the songs are original.
-- At the Store page, click on the bundle and preview the beatmaps inside before buying the pack. Song preview will be played.
-  - Preview demo have _four_ difficulty spreads that is triggered automatically based on song progression. It will start at Easy and slowly "Stream Up" to Expert difficulty. Please note that this will not occur in the actual gameplay.
-- If the song can be found on osu!, it will be linked.
-  - osu! beatmap =/= osu! stream beatmap because most players have only one pointing cursor on their PC.
+osu!stream features up to 45 playable songs spread across various bundles and song packs. As of [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release), all songs are available for download and play for free.
+
+At the Store menu, you can scroll through the list of all available song packs and preview the beatmaps inside before downloading. Upon selecting the `PREVIEW` button, you'll be able to see a short gameplay demo of all four difficulties in a beatmap from the lowest difficulty to the highest [in their corresponding stream order](wiki/osu!stream#new-game-play-system).
+
+Just like the [featured artists](wiki/en/Featured_Artists) osu! has nowadays, all songs available in the game are either commissioned or licensed ahead of their release. It is worth noting that osu!stream beatmaps come in the `.osf2` file format (instead of [`.osz`](/wiki/osu%21_File_Formats/Osz_%28file_format%29)) and are therefore not compatible with the regular osu! client.
+
+## Bundled songs
+
+Price: **Free**
+
+This bundle features four default songs that come preloaded with a fresh osu!stream install.
+
+| Song | Mapper | Difficulty rating |
+| :-- | :-- | :-- |
+| nekodex - Liquid Future | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![7/10](img/dif7.png "7/10") |
+| tieff & Natteke - Endless Tower | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![2/10](img/dif2.png "2/10") |
+| tieff & Natteke - Sunrise | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | ![4/10](img/dif4.png "4/10") |
+| SkyMarshall - Hitchhikers | ![][flag_MX] [Gens](https://osu.ppy.sh/users/23062) | ![3/10](img/dif3.png "3/10") |
+
+See also:
+
+- [**nekodex's Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/1)
+- [**tieff's Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/34)
+- [nekodex's osu! profile](https://osu.ppy.sh/users/102)
+- [tieff's osu! profile](https://osu.ppy.sh/users/89619)
+- [Natteke's osu! profile](https://osu.ppy.sh/users/157177)
+- [SkyMarshall's website](https://hafskjold.net/skymarshallarts/)
 
 ## Free Pack 1
 
 Price: **Free**
 
-**Packlist:*
+This song pack features two songs of different variety by haru☆ and Garbled Waves respectively.
 
-- [Haru☆ - March Handyman](https://osu.ppy.sh/beatmapsets/7850) - [Sushi](https://osu.ppy.sh/users/Sushi) - ![2](img/dif4.png "2")
-  - [Haru☆'s website](http://viotex.matrix.jp/)
-  - [Haru☆'s blog](http://skatepunkscafe.blog117.fc2.com/)
-- Garbled Waves - Apatisk - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![3](img/dif6.png "3")
-  - [Garbled Waves' Soundcloud](https://soundcloud.com/garbled-waves/)
-  - [@GarbledWaves](https://twitter.com/GarbledWaves)
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| haru☆ - March Handyman | ![][flag_FR] [Sushi](https://osu.ppy.sh/users/43108) | ![4/10](img/dif4.png "4/10") |
+| Garbled Waves - Apatisk | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![6/10](img/dif6.png "6/10") |
 
-## Bundled Songs (currently bundled)
+See also:
 
-Price: **Free**
-
-**Packlist:*
-
-- nekodex - Liquid Future - [mm201](https://osu.ppy.sh/users/mm201) - ![3.5](img/dif7.png "3.5")
-  - [nekodex's Soundcloud](https://soundcloud.com/nekodex/)
-  - [@nekodex](https://twitter.com/nekodex)
-- [tieff & Natteke - Endless Tower](https://osu.ppy.sh/beatmapsets/17076) - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![1](img/dif2.png "1")
-  - [natteke's osu! profile](https://osu.ppy.sh/users/natteke)
-  - [tieff's osu! profile](https://osu.ppy.sh/users/tieff)
-  - [@Nattekee](https://twitter.com/Nattekee)
-
-## Bundled Songs
-
-Price: **Free**
-
-**Packlist:*
-
-- SkyMarshall - Hitchhikers - [Gens](https://osu.ppy.sh/users/Gens) - ![1.5](img/dif3.png "1.5")
-  - [SkyMarshall's website](https://hafskjold.net/skymarshallarts/)
-- [tieff & Natteke - Sunrise](https://osu.ppy.sh/beatmapsets/34430) - [jericho2442](https://osu.ppy.sh/users/jericho2442) - ![2](img/dif4.png "2")
-  - [natteke's osu! profile](https://osu.ppy.sh/users/natteke)
-  - [tieff's osu! profile](https://osu.ppy.sh/users/tieff)
-  - [@Nattekee](https://twitter.com/Nattekee)
-
-## Cranky Pack Vol. 1
-
-Price: **USD$1.99**
-
-**Packlist:*
-
-- Cranky - 1970 - [IceBeam](https://osu.ppy.sh/users/IceBeam) - ![2](img/dif4.png "2")
-- Cranky - Crocus - [Xgor](https://osu.ppy.sh/users/Xgor) - ![2](img/dif4.png "2")
-- Cranky - Into the Unknown - [Samah](https://osu.ppy.sh/users/Samah) - ![4](img/dif8.png "4")
-- Cranky - Dee Dee Cee - [D33d](https://osu.ppy.sh/users/D33d) - ![4.5](img/dif9.png "4.5")
-
-**Source:*
-
-- [Cranky's website](https://www.feline-groove.com/)
-
-## OK Go Vol. 1
-
-Price: **USD$1.99**
-
-**Packlist:*
-
-- OK Go - All Is Not Lost - [mm201](https://osu.ppy.sh/users/mm201) - ![2.5](img/dif5.png "2.5")
-- OK Go - End Love - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![1.5](img/dif3.png "1.5")
-- [OK Go - This Too Shall Pass](https://osu.ppy.sh/beatmapsets/16424) - [m980](https://osu.ppy.sh/users/m980) - ![3.5](img/dif7.png "3.5")
-- [OK Go - WTF](https://osu.ppy.sh/beatmapsets/20159) - Team STREAM - ![3](img/dif6.png "3")
-
-**Source:*
-
-- [OK Go's website](https://okgo.net/)
-
-## Koizumi Vol. 1
-
-Price: **USD$2.99**
-
-**Packlist:*
-
-- Koizumi UNDERGROUND - Get Back! - [D33d](https://osu.ppy.sh/users/D33d) - ![3.5](img/dif7.png "3.5")
-  - Koizumi Zehetbauer - Get Back! - [D33d](https://osu.ppy.sh/users/D33d) - ![3.5](img/dif7.png "3.5")
-- samplingmasters Koizumi - With Me - [D33d](https://osu.ppy.sh/users/D33d) - ![2](img/dif4.png "2")
-- samplingmasters Koizumi - Love is a Danger Zone - [D33d](https://osu.ppy.sh/users/D33d) - ![3](img/dif6.png "3")
-- samplingmasters Koizumi - Infinity Loop - [D33d](https://osu.ppy.sh/users/D33d) - ![3.5](img/dif7.png "3.5")
-
-**Source:*
-
-- [Koizumi's Bandicamp](https://tsundererecordings.bandcamp.com/)
-- [Koizumi's website](http://koizumi.teknolust.org/)
-- [@sosayaze](https://twitter.com/sosayaze)
-
-## Free Pack 2
-
-Price: **Free**
-
-**Packlist:*
-
-- Bomb Boy - Ignition, Set, GO! - [D33d](https://osu.ppy.sh/users/D33d) - ![4](img/dif8.png "4")
-  - [@BomuBoi](https://twitter.com/BomuBoi)
-- [daniwellP - Nekomimi Switch](https://osu.ppy.sh/beatmapsets/12892) - Team STREAM - ![3.5](img/dif7.png "3.5")
-  - [daniwellP's niconico profile](https://dic.nicovideo.jp/a/daniwellp/)
-  - [@daniwell_aidn](https://twitter.com/daniwell_aidn)
-
-## Electronic Pack Vol. 1
-
-Price: **USD$0.99**
-
-**Packlist:*
-
-- Kenneth Nilsen - Space Music - [jericho2442](https://osu.ppy.sh/users/jericho2442) - ![3](img/dif6.png "3")
-  - [Kenneth Nilsen's Soundcloud](https://soundcloud.com/keosni391)
-- Kenneth Nilsen - Woohoo! - [Krisom](https://osu.ppy.sh/users/Krisom) - ![4](img/dif8.png "4")
-  - [Kenneth Nilsen's Soundcloud](https://soundcloud.com/keosni391)
-- NIGHTkilla - Fracture - [jericho2442](https://osu.ppy.sh/users/jericho2442) - ![3.5](img/dif7.png "3.5")
-  - [NIGHTkilla's Soundcloud](https://soundcloud.com/qbiq-nightkilla)
-- SkyMarshall - It's True - [jericho2442](https://osu.ppy.sh/users/jericho2442) - ![4](img/dif8.png "4")
-  - [SkyMarshall's website](https://hafskjold.net/skymarshallarts/)
-
-## Odyssey Pack
-
-Price: **USD$0.99**
-
-**Packlist:*
-
-- Odyssey - Wings of Burning Love - [Larto](https://osu.ppy.sh/users/12328) - ![3.5](img/dif7.png "3.5")
-- Odyssey - Cherry Blossoms (2010 Mix) - [Mashley](https://osu.ppy.sh/users/Mashley) - ![2.5](img/dif5.png "2.5")
-- Mortimer - River - [ouranhshc](https://osu.ppy.sh/users/ouranhshc) - ![2.5](img/dif5.png "2.5")
-- Travis Stebbins - Magnetic Love - [mm201](https://osu.ppy.sh/users/mm201) - ![1.5](img/dif3.png "1.5")
-
-**Source:*
-
-- [Odyssey's Bandicamp](https://odysseymusic.bandcamp.com/)
+- [haru☆'s website](https://haru.ocv.me/)
+- [Garbled Waves' Bandcamp page](https://garbledwaves.bandcamp.com)
 
 ## Free Pack 1.5
 
 Price: **Free**
 
-**Packlist:*
+This song pack features the song Want You Gone by Jonathan Coulton (under the Aperture Science alias) as made famous by the video game [Portal 2](https://www.thinkwithportals.com/).
 
-- [Aperture Science - Want You Gone](https://osu.ppy.sh/beatmapsets/29296) - [Larto](https://osu.ppy.sh/users/12328) - ![3.5](img/dif7.png "3.5")
-  - [Portal 2's website](http://thinkwithportals.com/)
-  - [Portal 2's soundtrack](http://www.thinkwithportals.com/music.php) (Volume 3)
-  - [@portal2news](https://twitter.com/portal2news)
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| Aperture Science - Want You Gone | ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) | ![7/10](img/dif7.png "7/10") |
+
+See also:
+
+  - [Jonathan Coulton's website](https://www.jonathancoulton.com/)
+
+## Free Pack 2
+
+Price: **Free**
+
+This song pack features two songs of different variety by Bomb Boy and daniwellP respectively.
+
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| Bomb Boy - Ignition, Set, GO! | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![8/10](img/dif8.png "8/10") |
+| daniwellP - Nekomimi Switch | Team STREAM (![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) and ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269)) | ![7/10](img/dif7.png "7/10") |
+
+See also:
+
+- [Bomb Boy's Twitter account](https://twitter.com/BomuBoi)
+- [daniwellP's website](https://aidn.jp/)
+
+## Cranky Pack Vol. 1
+
+Price: **Free** / **USD$1.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+
+This song pack features four songs by rave music extraordinaire Cranky.
+
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| Cranky - 1970 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | ![4/10](img/dif4.png "4/10") |
+| Cranky - Crocus | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | ![4/10](img/dif4.png "4/10") |
+| Cranky - Into the Unknown | ![][flag_AU] [Samah](https://osu.ppy.sh/users/343490) | ![8/10](img/dif8.png "8/10") |
+| Cranky - Dee Dee Cee | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![9/10](img/dif9.png "9/10") |
+
+See also:
+
+- [**Cranky's Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/23)
+- [Cranky's website](https://www.feline-groove.com/)
+
+## OK Go Vol. 1
+
+Price: **Free** / **USD$1.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+
+This song pack features four songs by American rock band OK Go.
+
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| OK Go - All Is Not Lost | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![5/10](img/dif5.png "5/10") |
+| OK Go - End Love | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![3/10](img/dif3.png "3/10") |
+| OK Go - This Too Shall Pass | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | ![7/10](img/dif7.png "7/10") |
+| OK Go - WTF | Team STREAM (![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) and ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197)) | ![6/10](img/dif6.png "6/10") |
+
+See also:
+
+- [OK Go's website](https://okgo.net/)
+
+## Koizumi Vol. 1
+
+Price: **Free** / **USD$2.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+
+This song pack features four songs provided by the independent recording label Tsundere Recordings.
+
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| Koizumi UNDERGROUND - Get Back! | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![7/10](img/dif7.png "7/10") |
+| samplingmasters Koizumi - With Me | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![4/10](img/dif4.png "4/10") |
+| samplingmasters Koizumi - Love is a Danger Zone | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![6/10](img/dif6.png "6/10") |
+| samplingmasters Koizumi - Infinity Loop | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![7/10](img/dif7.png "7/10") |
+
+See also:
+
+- [Tsundere Recordings' YouTube channel](https://www.youtube.com/user/TsundereRecordings)
+
+## Electronic Pack Vol. 1
+
+Price: **Free** / **USD$0.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+
+This song pack features four electronic-oriented songs by various musicians from across the world.
+
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| Kenneth Nilsen - Space Music | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | ![6/10](img/dif6.png "6/10") |
+| Kenneth Nilsen - Woohoo! | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | ![8/10](img/dif8.png "8/10") |
+| NIGHTkilla - Fracture | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | ![7/10](img/dif7.png "7/10") |
+| SkyMarshall - It's True | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | ![8/10](img/dif8.png "8/10") |
+
+See also:
+
+- [Kenneth Nilsen's Soundcloud page](https://soundcloud.com/keosni391)
+- [NIGHTkilla's Soundcloud](https://soundcloud.com/qbiq-nightkilla)
+- [SkyMarshall's website](https://hafskjold.net/skymarshallarts/)
+
+## Odyssey Pack
+
+Price: **Free** / **USD$0.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+
+This song pack features four songs provided by the internet musical collective Odyssey Eurobeat.
+
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| Odyssey - Wings of Burning Love | ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) | ![7/10](img/dif7.png "7/10") |
+| Odyssey - Cherry Blossoms (2010 Mix) | ![][flag_GB] [Mashley](https://osu.ppy.sh/users/41481) | ![5/10](img/dif5.png "5/10") |
+| Mortimer - Rive | ![][flag_US] [ouranhshc](https://osu.ppy.sh/users/139493) | ![5/10](img/dif5.png "5/10") |
+| Travis Stebbins - Magnetic Love | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![3/10](img/dif3.png "3/10") |
+
+See also:
+
+- [Odyssey Eurobeat's Bandcamp page](https://odysseymusic.bandcamp.com/)
 
 ## VVVVVV Pack Vol. 1
 
-Price: **USD$0.99**
+Price: **Free** / **USD$0.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
-**Packlist:*
+This song pack features four songs by SoulEye, all of which are featured in the hit platforming game [VVVVVV](https://thelettervsixtim.es/).
 
-- [Souleye - Positive Force](https://osu.ppy.sh/beatmapsets/12952) - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![2.5](img/dif5.png "2.5")
-- [Souleye - Pressure Cooker](https://osu.ppy.sh/beatmapsets/24271) - [Xgor](https://osu.ppy.sh/users/Xgor) - ![3](img/dif6.png "3")
-- Souleye - Potential for Anything - [Larto](https://osu.ppy.sh/users/12328) - ![3.5](img/dif7.png "3.5")
-- Souleye - Passion for Exploring - [mm201](https://osu.ppy.sh/users/mm201) - ![1.5](img/dif3.png "1.5")
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| Souleye - Positive Force | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![5/10](img/dif5.png "5/10") |
+| Souleye - Pressure Cooker | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | ![6/10](img/dif6.png "6/10") |
+| Souleye - Potential for Anything | ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) | ![7/10](img/dif7.png "7/10") |
+| Souleye - Passion for Exploring | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![3/10](img/dif3.png "3/10") |
 
-**Source:*
+See also:
 
 - [Souleye's website](http://magnuspalsson.com/)
 
 ## SHIKI Pack Vol. 1
 
-Price: **USD$1.99**
+Price: **Free** / **USD$1.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
-**Packlist:*
+This song pack features four songs by renowned BMS music producer SHIKI.
 
-- [SHIKI - Lapis](https://osu.ppy.sh/beatmapsets/19230 ) - Team STREAM - ![2.5](img/dif5.png "2.5")
-- [SHIKI - Pure Ruby](https://osu.ppy.sh/beatmaps/82604) - [Lybydose](https://osu.ppy.sh/users/Lybydose) - ![4.5](img/dif9.png "4.5")
-- [SHIKI - BABYLON](https://osu.ppy.sh/beatmapsets/31373) - [Xgor](https://osu.ppy.sh/users/Xgor) - ![4](img/dif8.png "4")
-- [SHIKI - Jade Star](https://osu.ppy.sh/beatmapsets/19221) - [Nakagawa-Kanon](https://osu.ppy.sh/users/Nakagawa-Kanon) - ![3.5](img/dif7.png "3.5")
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| SHIKI - Lapis | Team STREAM (![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) and ![][flag_FR] [Kurai](https://osu.ppy.sh/users/98661)) | ![5/10](img/dif5.png "5/10") |
+| SHIKI - Pure Ruby | ![][flag_US] [Lybydose](https://osu.ppy.sh/users/64501) | ![9/10](img/dif9.png "9/10") |
+| SHIKI - BABYLON | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | ![8/10](img/dif8.png "8/10") |
+| SHIKI - Jade Star | ![][flag_KR] [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | ![7/10](img/dif7.png "7/10") |
 
-**Source:*
+See also:
 
 - [SHIKI's website](http://shiki2.sakura.ne.jp/)
 
-## Images
+## Unreleased Tracks Vol. 1
+
+Price: **Free** / **USD$1.99** (pre-[v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release))
+
+This song pack features four songs/arrangements of original Touhou Project compositions by various musicians from across the world. 
+
+Initially, this song pack was included in the base game's launch with a price tag of USD$1.99. However, due to legal concerns over the distribution of assets related to Touhou Project in the App Store as paid content, this song pack was later pulled in the [v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release). This song pack has consequently been re-released as free content in [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
+
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| Amane - Eternal Fullmoon | *unknown* | *unknown* |
+| Amane - Snow, White, Echo | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | *unknown* |
+| sou1 - The Maid's Blood and the Pocket Watch | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993) | *unknown* |
+| Lix - Phantom Ensemble -Ark Trance mix- | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | *unknown* |
+
+See also:
+
+- [Amane/Rolling Contact's website](https://youzyo.net/)
+- [sou1's YouTube channel](https://www.youtube.com/channel/UCDOnl9xBMM-SZtCKKu178NA)
+- [Lix's website](https://levolution.info)
+
+## Unreleased Tracks Vol. 2
+
+Price: **Free** / **USD$1.99** (pre-[v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release))
+
+This song pack features four songs/arrangements of original Touhou Project compositions by various musicians from across the world. 
+
+Initially, this song pack was included in the base game's launch with a price tag of USD$1.99. However, due to legal concerns over the distribution of assets related to Touhou Project in the App Store as paid content, this song pack was later pulled in the [v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release). This song pack has consequently been re-released as free content in [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
+
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| Lix - Electro Magnetic Pulse | *unknown* | *unknown* |
+| haru☆ - Septette for the Dead Princess | ![][flag_US] [Lybydose](https://osu.ppy.sh/users/64501) | *unknown* |
+| Amane - BOOZEHOUND (DJ mix) | ![][flag_FR] [Sushi](https://osu.ppy.sh/users/43108) | *unknown* |
+| Amane - Being Proof | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | *unknown* |
+
+See also:
+
+- [Lix's website](https://levolution.info)
+- [haru☆'s website](https://haru.ocv.me/)
+- [Amane/Rolling Contact's website](https://youzyo.net/)
+
+## Screenshots
 
 ---
 
-![Song List](/wiki/osu!stream/img/Os-SL.jpg "Song List")
+![The song selection (\"Select your track!\") screen](/wiki/osu!stream/img/Os-SL.jpg "The song selection (\"Select your track!\") screen")
 
 ---
 
-![Song Information](/wiki/osu!stream/img/Os-SI.png "Song Information")
+![The Song Info screen](/wiki/osu!stream/img/Os-SI.png "The Song Info screen")
 
 ---
 
-![Store screen](/wiki/osu!stream/img/Os-Store.jpg "Store screen")
+![The Store (\"Download more tracks!\") screen](/wiki/osu!stream/img/Os-Store.jpg "The Store (\"Download more tracks!\") screen")
 
 ---
 
-![Loading Preview](img/Os-Demo_Load.jpg "Loading Preview")
+![The preview loading screen](img/Os-Demo_Load.jpg "The preview loading screen")
 
 ---
 
-![Preview Song Information](img/Os-Demo_Song.jpg "Preview Song Information")
+![The song information preview screen](img/Os-Demo_Song.jpg "The song information preview screen")
 
 ---
 
-![Preview Stream Up to Expert (Note: Does not occur in actual gameplay)](img/Os-Demo_SU.jpg "Preview Stream Up to Expert \(Note: Does not occur in actual gameplay\)")
+![Preview of Stream mode gameplay](img/Os-Demo_SU.jpg "Preview of Stream mode gameplay")
 
 ---
 
-![Preview of Expert play](img/Os-Demo.jpg "Preview of Expert play")
+![Preview of Expert mode gameplay](img/Os-Demo.jpg "Preview of Expert mode gameplay")
+
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

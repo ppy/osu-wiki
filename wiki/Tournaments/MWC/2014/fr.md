@@ -39,15 +39,11 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 | Commentaires | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) // ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_IT] [Roxas](https://osu.ppy.sh/users/1041833) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) // ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) |
 | Statistiques | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Links
 
-- [osu!mania 2014 sur Twitch](https://www.twitch.tv/osulive/)
+- [osu!mania 2014 sur Twitch](https://www.twitch.tv/osulive)
 - [Formulaire d'inscription](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
 - [Topic de discussion](https://osu.ppy.sh/community/forums/topics/222100)
-
----
 
 ## Réglement
 
@@ -115,7 +111,7 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
    2. Les paramètres de la salle sont les suivants : osu!mania ; Team VS ; victoire sur score. Le nom de la salle doit suivre cette nomenclature : "MWC 2014: TeamBlue vs TeamRed"
    3. L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue ; l'autre équipe doit être l'équipe rouge.
 2. Les joueurs ont la possibilité de s'échauffer sur une map de leur choix avant le début de la partie.
-3. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande « !roll » dans le chat ; le plus grand nombre l'emporte.
+3. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande `!roll` dans le chat ; le plus grand nombre l'emporte.
    1. Les capitaines peuvent choisir autant de beatmaps de la catégorie FreeMod qu'ils le souhaitent.
    2. En cas d'égalité après un certain nombre de parties jouées (voir rubrique « Organisation des phases »), le tiebreaker doit être joué.
 4. Les résultats seront publiés dans le tableau officiel des résultats et statistiques (cf. rubrique « Liens importants »).
@@ -143,12 +139,12 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 5. La programmation sera fait par la direction du tournoi. Les programmes seront diffusés le Dimanche avant le premier match de le phase courante. (par exemple le 3 Août pour les phases de poules(4K)). Les organisateurs du tournoi essayeront de programmer les matchs en fonction des fuseaux horaires des participants.
 6. Les capitaines sont tenus responsables de la disponibilité de leur équipe à l'heure du match. Le choix par la direction de permettre à un capitaine de recruter 3 autres joueurs dans son équipe plutôt que 1 a été justement fait en ce sens pour lui permettre une gestion plus souple de la disponibilité de son équipe. Si un capitaine ne peut présenter une équipe de 2 joueurs à l'heure du match (en plus du délai maximal accordé), son équipe sera considérée comme ayant déclaré forfait.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italie"
+[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

@@ -1,5 +1,6 @@
 ---
 no_native_review: true
+outdated: true
 ---
 
 ## Convirtiéndose en un Beatmap Nominator
@@ -13,7 +14,7 @@ Los postulantes necesitan cumplir con una actividad de modeo, subir por lo menos
 Los Modders que apuntan a postular a los Beatmap Nominators deben de cumplir con el siguiente criterio:
 
 - Han estado modeando mapas activamente por lo menos durante los pasados 3 meses antes de postular.
-- Han acumulado por lo menos 150 o 200 [kudosu](/wiki/Glossary#kudosu!) en total, dependiendo del modo al que aplicarán.
+- Han acumulado por lo menos 150 o 200 [kudosu](/wiki/Modding/Kudosu) en total, dependiendo del modo al que aplicarán.
 - Han proporcionado de 2 a 4 de sus modeos, los que, según ellos, creen que los pueda calificar para ser parte de los Beatmap Nominators.
 
 ### Qué califica como un post de modeo
@@ -55,6 +56,6 @@ Los siguientes son características de modding esperados de los Beatmap Nominato
 
 - El `Puntaje de Modeo` de todos los postulantes será revisado dos veces para confirmar que hayan alcanzado el `Puntaje Mínimo Requerido`.
 - Los modders que hayan conseguido suficiente puntaje serán evaluados por miembros del NAT correspondientes al modo de juego al que postularon, tomando en consideración el siguiente criterio:
-  - Actitud general: Tono de entrega de los modeos y otros comportamientos esperados del [Código de Conducta](/wiki/Ranking_Criteria/Code_of_Conduct), así como comportamiento general en chat/foros.
+  - Actitud general: Tono de entrega de los modeos y otros comportamientos esperados del [Código de Conducta](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), así como comportamiento general en chat/foros.
   - Habilidades de modeo: Conocimiento del [Criterio de Rankeo](/wiki/Ranking_Criteria) general y criterio específico de cada modo de juego. Habilidades adicionales como Metadatos, Tiempos, y otros también serán tomados en consideración.
 - Despues de evaluar a cada moder, se llevará a cabo una discusión sobre si el moder se unirá o no a los Beatmap Nominators.

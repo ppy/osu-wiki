@@ -1,3 +1,8 @@
+---
+outdated:  true
+outdated_since: 7664f3dcbe92ee0f5768b8a6fbfaa3a592237025
+---
+
 # Countries that participated in osu! tournaments
 
 Este artigo lista os países que participaram nos vários torneios de osu!, Taiko, CTB e mania, e suas classificações para aqueles que chegaram no top 4.
@@ -33,7 +38,6 @@ Este artigo lista os países que participaram nos vários torneios de osu!, Taik
 | 12 | ![][flag_CO] Colômbia |  |  | 1 |
 | 12 | ![][flag_SE] Suécia |  |  | 1 |
 | 12 | ![][flag_GB] United Kingdom |  |  | 1 |
-
 
 ## Por modo
 

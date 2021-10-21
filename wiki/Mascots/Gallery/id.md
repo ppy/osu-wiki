@@ -10,7 +10,7 @@
 
 ![Konsep awal pippi](img/pippi-original-concept.jpg "Konsep pippi rancangan Sarumaru.")
 
-![comboburst osu!standard dari skin default v1](img/pippi-original-comboburst.png "Comboburst dari skin default v1.")
+![comboburst osu! dari skin default v1](img/pippi-original-comboburst.png "Comboburst dari skin default v1.")
 
 ![Chibi-pippi (Gambar Header)](img/pippi-original-header.jpg "Chibi-pippi (Gambar Banner)")
 
@@ -26,7 +26,7 @@
 
 ![Rancangan ulang pippi oleh Daru](img/pippi-Daru-redesigned.png "Rancangan ulang pippi oleh Daru (bisa dilihat di halaman selamat datang)")
 
-![comboburst osu!standard dari skin default v2](img/pippi-Daru-comboburst.png "Comboburst dari skin default v2.")
+![comboburst osu! dari skin default v2](img/pippi-Daru-comboburst.png "Comboburst dari skin default v2.")
 
 ![gambar kesalahan 404](img/pippi-Daru-404.png "gambar kesalahan 404")
 

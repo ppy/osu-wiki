@@ -18,6 +18,6 @@
 
 [Kuralları](/wiki/Rules) dikkatlice okumayı unutmayın!
 
-Bitirdiğinizde, ritim dolu bir maceraya başlamak için hazırsınız demektir! Oynamak için [beatmap ekleyebilir](/wiki/Installation#adding-beatmapsets), [tema yaratabilir](/wiki/Skinning), yada [beatmap yapabilirsiniz](/wiki/Beatmapping). Aynı zamanda [Tanışma alt forumuna](https://osu.ppy.sh/community/forums/8) uğrayıp "Selam!" verebilirsiniz.
+Bitirdiğinizde, ritim dolu bir maceraya başlamak için hazırsınız demektir! Oynamak için [beatmap ekleyebilir](/wiki/Installation#adding-beatmaps), [tema yaratabilir](/wiki/Skinning), yada [beatmap yapabilirsiniz](/wiki/Beatmapping). Aynı zamanda [Tanışma alt forumuna](https://osu.ppy.sh/community/forums/8) uğrayıp "Selam!" verebilirsiniz.
 
 Eğer daha çok oyun-içi yardıma ihtiyacınız varsa, sohbet konsolunu (oyun içerisinde `F8` veya `F9`'a basarak) açtıktan sonra `/join help` yazarak, `#help` [Internet Relay Chat](/wiki/Internet_Relay_Chat) (IRC) kanalında sorabilirsiniz. Sorunuzu aynı zamanda [Yardım alt forumunda](https://osu.ppy.sh/community/forums/5) da sorabilirsiniz.

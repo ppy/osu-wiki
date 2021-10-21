@@ -4,7 +4,7 @@
 
 *Untuk tombol pintas beatmap editor, silahkan lihat: [Referensi Tombol Pintasan § Beatmap editor](/wiki/Shortcut_key_reference#beatmap-editor)*
 
-**Beatmap Editor** merupakan suatu utilitas bawaan osu! berbasis tampilan antarmuka yang umumnya dipergunakan untuk membuat [beatmap](/wiki/Beatmaps). Adapun [beatmapping](/wiki/Beatmapping) merupakan sebutan dari proses pembuatan beatmap itu sendiri.
+**Beatmap Editor** merupakan suatu utilitas bawaan osu! berbasis tampilan antarmuka yang umumnya dipergunakan untuk membuat [beatmap](/wiki/Beatmap). Adapun [beatmapping](/wiki/Beatmapping) merupakan sebutan dari proses pembuatan beatmap itu sendiri.
 
 Beatmap Editor memiliki empat komponen utama sebagaimana yang dapat dilihat pada pojok kiri atas layar editor, yaitu:
 
@@ -15,11 +15,11 @@ Beatmap Editor memiliki empat komponen utama sebagaimana yang dapat dilihat pada
 
 ## Compose
 
-Tab [Compose](/wiki/Beatmap_Editor/Compose) merupakan bagian dari editor yang dipergunakan untuk menempatkan [hit object](/wiki/Hit_Objects) dan elemen-elemen permainan lainnya. Pada umumnya, para mapper akan meluangkan sebagian besar waktunya pada tab ini.
+Tab [Compose](/wiki/Beatmap_Editor/Compose) merupakan bagian dari editor yang dipergunakan untuk menempatkan [hit object](/wiki/Hit_object) dan elemen-elemen permainan lainnya. Pada umumnya, para mapper akan meluangkan sebagian besar waktunya pada tab ini.
 
 ## Design
 
-Tab [Design](/wiki/Beatmap_Editor/Design) merupakan bagian dari editor yang dipergunakan untuk membuat [storyboard](/wiki/Storyboards) dan mengatur efek-efek visual lainnya. Meskipun demikian, untuk mendesain storyboard-storyboard yang lebih kompleks pada umumnya para mapper cenderung lebih menggunakan teknik [storyboard scripting](/wiki/Storyboard_Scripting) tanpa melalui tab Design.
+Tab [Design](/wiki/Beatmap_Editor/Design) merupakan bagian dari editor yang dipergunakan untuk membuat [storyboard](/wiki/Storyboard) dan mengatur efek-efek visual lainnya. Meskipun demikian, untuk mendesain storyboard-storyboard yang lebih kompleks pada umumnya para mapper cenderung lebih menggunakan teknik [storyboard scripting](/wiki/Storyboard/Scripting) tanpa melalui tab Design.
 
 ## Timing
 
@@ -27,7 +27,7 @@ Tab [Timing](/wiki/Beatmap_Editor/Timing) merupakan bagian dari editor yang dipe
 
 ## Song Setup
 
-Tab [Song Setup](/wiki/Beatmap_Editor/Song_Setup) merupakan bagian dari editor yang dipergunakan untuk mengatur informasi [metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata) dan seluk-beluk lainnya yang berlaku secara umum pada [beatmapset](/wiki/Beatmaps/Beatmapsets) yang bersangkutan. Hal ini meliputi antara lain judul lagu, nama artis, nama tingkat kesultian, warna kombo, dan masih banyak lagi.
+Tab [Song Setup](/wiki/Beatmap_Editor/Song_Setup) merupakan bagian dari editor yang dipergunakan untuk mengatur informasi [metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata) dan seluk-beluk lainnya yang berlaku secara umum pada [beatmap](/wiki/Beatmap) yang bersangkutan. Hal ini meliputi antara lain judul lagu, nama artis, nama tingkat kesultian, warna kombo, dan masih banyak lagi.
 
 ## Lainnya
 

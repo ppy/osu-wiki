@@ -39,21 +39,15 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 | Comentaristas | ![][flag_GB][jesus1412](https://osu.ppy.sh/users/230116) // ![][flag_FR][Mr Color](https://osu.ppy.s6078) // ![][flag_GB][Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US][ztrot](https://osu.ppy.sh/users/6347) |
 | Estatisticas | ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Links
 
-- [osu! World Cup 2014 on Twitch](https://www.twitch.tv/osulive/)
+- [osu! World Cup 2014 on Twitch](https://www.twitch.tv/osulive)
 - [Registration Form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
 - [Discussion Thread](https://osu.ppy.sh/community/forums/posts/3410198)
 - [Mappool Discussion](https://osu.ppy.sh/community/forums/topics/255369/)
 - **[Group Stage Statistics](https://owc.nicarim.pw/results/view/3)**
 
----
-
 ![OWC 2014 brackets](img/bracket.jpg)
-
----
 
 ## Participantes
 
@@ -112,8 +106,6 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 | ![][flag_MY] Malaysia | **[Gon](https://osu.ppy.sh/users/583765)**, [xsrsbsns](https://osu.ppy.sh/users/414427), [caleb123456](https://osu.ppy.sh/users/2205376), [ExPew](https://osu.ppy.sh/users/665612), [TequilaWolf](https://osu.ppy.sh/users/3633477), [NazzzF](https://osu.ppy.sh/users/2676512), [ffstar0716](https://osu.ppy.sh/users/1163205), [Rumia-](https://osu.ppy.sh/users/1787171) |
 | ![][flag_RU] Russian Federation | **[cr1m](https://osu.ppy.sh/users/803766)**, [talala](https://osu.ppy.sh/users/1389663), [Shiawase](https://osu.ppy.sh/users/989489), [anticlone111](https://osu.ppy.sh/users/1950600), [Kert](https://osu.ppy.sh/users/119933), [KoTo](https://osu.ppy.sh/users/1382805), [Hidari Handoru](https://osu.ppy.sh/users/1056329), [Pyroboom](https://osu.ppy.sh/users/689882) |
 | ![][flag_CN] China | **[Prophet](https://osu.ppy.sh/users/651307)**, [Dsan](https://osu.ppy.sh/users/1266166), [N a n o](https://osu.ppy.sh/users/694114), [Del soon Bye](https://osu.ppy.sh/users/629717), [Rebellion](https://osu.ppy.sh/users/2896273), [SpringLane](https://osu.ppy.sh/users/1343504), [Spring Roll](https://osu.ppy.sh/users/2499198), [wobeinimacao](https://osu.ppy.sh/users/350723) |
-
----
 
 ## Lista de Beatmaps
 
@@ -207,8 +199,6 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 - Tiebreaker
   - **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)**
 
----
-
 ## Resultado das Partidas
 
 ### Oitavas de final
@@ -252,8 +242,6 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 | ![][flag_MX] Mexico | 2 - **4** | **Ukraine** ![][flag_UA] | [#1](https://osu.ppy.sh/community/matches/10355079) |
 | ![][flag_HK] Hong Kong | 3 - **4** | **Canada** ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/10355083) |
 | ![][flag_SG] Singapore | 1 - **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/10355087) |
-
----
 
 ## Regras
 
@@ -316,7 +304,7 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
    3. A equipe mencionada primeiramente no nome da sala será a equipe azul, a equipe mencionada posteriormente será a equipe vermelha.
 2. O árbitro entrará na sala externamente. O árbitro irá assistir a partida por meio de um client especial para multi-spectating.
 3. Os jogadores estarão livres para escolher um beatmap de aquecimento.
-4. A seleção de mapas será alternada entre cada capitão escolhendo um beatmap por vez. Os capitães deverão usar o comando "!roll" no \#multiplayer para determinar qual a equipe que escolherá primeiro.
+4. A seleção de mapas será alternada entre cada capitão escolhendo um beatmap por vez. Os capitães deverão usar o comando `!roll` no `#multiplayer` para determinar qual a equipe que escolherá primeiro.
    1. Os capitães poderão escolher beatmaps do grupo NoMod livremente.
    2. A escolha de beatmaps nos subgrupos específicos de mods será limitada. Cada capitão poderá escolher apenas um mapa de cada subgrupo de mods.
    3. Em caso de empate na partida, o tiebraker deverá ser jogado para desempate.

@@ -29,7 +29,7 @@ If you're curious about the details behind any of these, dive into the [Monthly 
 
 ## Beatmapping
 
-### <a id="limitation"></a>Limitation
+### Limitation
 
 Each month's contest has its own mapping limitation that participants must design their maps around. For example, last month's limitation was "straight slider shapes only", so sliders in all beatmap submissions were... straight lines. Pretty simple, right?
 
@@ -39,7 +39,7 @@ Just to be clear, we're not requiring you to create a `Hard` difficulty. We actu
 
 Your submission should complement the intensity of the song, only without surpassing 4.00 stars. Given the song choices available in this contest, you'll likely need to handle difficulty in a way that isn't well reflected in star rating. Good luck!
 
-### <a id="songs"></a>Songs
+### Songs
 
 Each contest provides beatmappers a choice between 5 songs from one of osu!'s Featured Artists.
 

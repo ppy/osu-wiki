@@ -11,8 +11,8 @@ This week, we're gonna try switching up the recap format to something a little m
 ### Navigation
 
 - [Mappool](#mappool)
-- [Tournament Matches](#matches)
-- [Looking Ahead](#ahead)
+- [Tournament Matches](#tournament-matches)
+- [Looking Ahead](#looking-ahead:-semifinals)
 
 ---
 
@@ -20,7 +20,7 @@ The Quarterfinals stage marks the start of a new phase in the tournament, where 
 
 Every single team was determined to make the most of their situation, all in the hopes of making it to the next stage as best they can. Without further ado, let's get right into the recap!
 
-## <a name="mappool" id="mappool"></a>Mappool
+## Mappool
 
 **This weekend, we saw a total of 42 picks and 14 bans across 7 complete matches.** Every map was played at least once, which is always a good indication of mappool diversity and balance.
 
@@ -36,7 +36,7 @@ This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/
 
 [Blue Stahli - Shotgun Senorita (Zardonic Remix)](https://osu.ppy.sh/beatmapsets/631861#mania/1341515) and [Akira Complex - Odyssey (Au5 Remix)](https://osu.ppy.sh/beatmapsets/519513#mania/1103630) both made appearances in 6 matches. The former was a devilishly tricky map featuring many long note patterns, while the latter was very technically demanding, requiring high accuracy. As a result of this, both maps were understandably banned 4 times each. Finally, [Maika - Goldrop](https://osu.ppy.sh/beatmapsets/587117#mania/1243241) received the least attention, being picked only once across all the matches.
 
-## <a name="matches" id="matches"></a>Tournament Matches
+## Tournament Matches
 
 ### Saturday
 
@@ -74,7 +74,7 @@ That concludes all the matches for this weekend! Let's wave our goodbyes to Team
 
 Good luck to all the remaining teams in this tournament!
 
-## <a name="ahead" id="ahead"></a>Looking Ahead: Semifinals
+## Looking Ahead: Semifinals
 
 Three weeks in, and already we've whittled 32 potential teams down to a hardy 12. Next week we'll be treated to another 8 exciting matches, 2 of which will remain undetermined until the matches are fully underway! Let's have a peek at the upcoming matches in the semifinals stage:
   

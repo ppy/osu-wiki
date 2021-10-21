@@ -35,11 +35,11 @@ Alright, too much talking; not enough osu!. Let's get into those maps!
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [Toy](https://osu.ppy.sh/users/2757689)!
 
@@ -115,7 +115,7 @@ Despite its seemingly meme background, RUSH B by FrostiDrinks is no joke. This s
 
 What do you get when you combine two cute Japanese singers and an Australian former wrestler and death metal vocalist? The answer is LADYBABY. YellowManul has taken the bizarre music group's most famous track and turned it on its head in Nippon Manju, a song that welcomes you to the only possible place that could confidently combine these polarizing sounds and create a catchy tune. Seriously, where else will you see a large grown man tie their long hair into ponytails and parade down the streets in a maid costume and angrily yell into a camera on a selfie stick? A solid 170+ favorites says right here in osu!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Zak](https://osu.ppy.sh/users/1375955), [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941) and [Tenshichan](https://osu.ppy.sh/users/1101600)! This week, all osu!catch beatmap descriptions were written by [Sartan](https://osu.ppy.sh/users/4100941).
 
@@ -133,7 +133,7 @@ Whereas Snow Drive was quite a popular map in past days, it has not had anybody 
 
 As of fairly recently, rew0825 has gained a bit of popularity thanks to ranking some of his latest mapsets. That doesn't mean, however, that there are no hidden gems in his older works, with Preserved Valkyria being the perfect example. This map was used in the HardRock bracket for the osu!catch World Cup 2017, but after that initial spike in popularity, nobody really shed the light of day on it again. This map contains some great buildup patterns, fun left-rights and challenging yet not overdone streams, and overall it makes for a very consistent and solid map. Next to all that it is quite an accessible map too, it not being quite the hardest that we see in the Loved section, which makes it playable to quite a large chunk of the playerbase. You can also very well spice things up on this particular map with either HardRock or Hidden, as its pick for the World Cup would suggest.
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Kamikaze](https://osu.ppy.sh/users/2124783), [\_underjoy](https://osu.ppy.sh/users/2235750), [aitor98](https://osu.ppy.sh/users/3154852), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [TheToaphster](https://osu.ppy.sh/users/7616811)!
 

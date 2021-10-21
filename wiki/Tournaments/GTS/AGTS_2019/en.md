@@ -9,7 +9,7 @@ tags:
 
 ![AGTS 2019 logo](img/logo.jpg)
 
-The **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) was an advanced worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the first installment of the Advanced Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) was an advanced worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the first instalment of the Advanced Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) was an advanced wo
 | Registration phase | 2019-07-07/2019-07-21 |
 | Live drawings | 2019-08-04 (15:00 UTC) |
 | Qualifiers | 2019-08-10/2019-08-11 |
-| Group Stage | 2019-08-17/2019-08-18 |
+| Group stage | 2019-08-17/2019-08-18 |
 | Quarterfinals | 2019-08-24/2019-08-25 |
 | Semifinals | 2019-08-31/2019-09-01 |
 | Finals | 2019-09-07/2019-09-08 |
@@ -41,7 +41,7 @@ The Advanced Global Taiko Showdown 2019 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Map selector | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817), ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |
+| Mappool selector | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817), ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |
 | Referee | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_DK] [Plaiceholder](https://osu.ppy.sh/users/11910867), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_AU] [soliderror](https://osu.ppy.sh/users/10630542), ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
 | Streamer | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517) |
 | Commentator | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_US] [Tsred](https://osu.ppy.sh/users/2737667), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
@@ -232,7 +232,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Various Artists - International OTOMAD's 6 (Midnaait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/424276#taiko/916603)**
 
-### Group Stage
+### Group stage
 
 **[Download the map pack here! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
 
@@ -278,7 +278,7 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
@@ -345,7 +345,7 @@ Sunday, 25 August 2019:
 | **Netherlands** ![][flag_NL] | **6** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/54349753) |
 | Poland ![][flag_PL] | 0 | **6** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/54360101) |
 
-### Group Stage
+### Group stage
 
 Saturday, 17 August 2019:
 
@@ -517,8 +517,8 @@ All-star is a fun event which is going to take place in the same weekend as the 
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"

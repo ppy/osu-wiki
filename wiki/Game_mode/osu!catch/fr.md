@@ -60,7 +60,7 @@ Collecter un hyperfruit fera que le dash de l’attrapeur sera augmenté en un *
 
 ## Style de jeu
 
-*[Reportez vous à la page Style de jeu dans osu!catch](/wiki/Play_Styles).*
+*[Reportez vous à la page Style de jeu dans osu!catch](/wiki/Play_style).*
 
 ## Contrôles
 
@@ -205,7 +205,7 @@ Le système utilisé pour calculer la perte ou le gain de vie est compliqué et 
 - Si `Hit-error` est activée, il utilisera toujours `Colour`.
 - L’attrapeur peut bouger partout durant une pause.
 - L’attrapeur à une animation quand il miss, comme en osu!taiko avec l’animation de miss de pippidon.
-- Le premier attrapeur par défaut est une version chibi de Ryuuta Ippongi (de la [série ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")) jusqu’en 2014, qui a été remplacé par l’attrapeur actuel et la mascotte, [Yuzu](/wiki/Mascots#-yuzu).
+- Le premier attrapeur par défaut est une version chibi de Ryuuta Ippongi (de la [série ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)) jusqu’en 2014, qui a été remplacé par l’attrapeur actuel et la mascotte, [Yuzu](/wiki/Mascots#-yuzu).
 - Quand vous jouez en auto [Auto](/wiki/Game_modifier/Auto), le joueur sera nommé *salad!*.
 
 ### Historique
@@ -213,5 +213,5 @@ Le système utilisé pour calculer la perte ou le gain de vie est compliqué et 
 ![logo osu!catch dans les modes spéciaux](/wiki/shared/Ctb_logo.jpg "logo Catch the Beat dans les modes spéciaux")
 
 - Jusqu’au 10 avril 2012 (10/04/2012), les maps osu!catch ne pouvaient pas être ranked ou être inclus dans les maps ranked. Néanmois, cela a changé, et les mappeurs peuvent maintenant créer des difficultées spécialisée osu!catch, à condition qu'ils suivent les directives. Ces directives sont en cours d’écriture, mais plus de maps osu!catch sont placées en ranked et un feedback est donné par les joueurs, les directives évolueront pour être aussi complet et exhaustif que les directives osu! standard.
-- Le premier beatmapset ranked qui contient au moins une beatmap osu!catch spécifique est [Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin), avec la beatmap osu!catch invitée mappée par Uran](https://osu.ppy.sh/beatmapsets/13676)
-- Le premier beatmapset ranked composé uniquement de maps osu!catch est [Rita - Hajimari no Toki (Deif)](https://osu.ppy.sh/beatmapsets/91485)
+- La première beatmap classé qui contient au moins une difficulté osu!catch est [Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin), avec une guest difficulty osu!catch mappé par Uran](https://osu.ppy.sh/beatmapsets/13676).
+- La première beatmap ranked composé uniquement de maps osu!catch est [Rita - Hajimari no Toki (Deif)](https://osu.ppy.sh/beatmapsets/91485)

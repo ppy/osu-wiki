@@ -49,8 +49,6 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 - [Supportez votre équipe avec une bannière de profil !](https://osu.ppy.sh/store/products/226)
 - **[Statistiques générales, groupes et plus!](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)**
 
----
-
 ## Calendrier des matchs : demi-finales
 
 ### Samedi 2 septembre 2017
@@ -82,8 +80,6 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 ² Rencontre du tableau des perdants
 
 ³ La rencontre dépend du résultat de la ²Rencontre du tableau des perdants
-
----
 
 ## Participants
 
@@ -124,11 +120,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 | ![][flag_US] | **États-Unis** | **[Zyph](https://osu.ppy.sh/users/1600432)**, [EtienneXC](https://osu.ppy.sh/users/5610085), [TheToaphster](https://osu.ppy.sh/users/7616811), [Chrubble](https://osu.ppy.sh/users/2594280), [stupud man](https://osu.ppy.sh/users/2141612), [xElectroGH](https://osu.ppy.sh/users/3251373) |
 | ![][flag_VE] | **Venezuela** | **[Cyssel](https://osu.ppy.sh/users/6394478)**, [Satoruu](https://osu.ppy.sh/users/2243452), [Shinsekai-](https://osu.ppy.sh/users/2140739), [Marunne](https://osu.ppy.sh/users/8841450), [Prancer](https://osu.ppy.sh/users/1821350), [\[-Gearfrik-\]](https://osu.ppy.sh/users/8198818) |
 
----
-
 ![Double Elimination bracket](img/bracket.jpg)
-
----
 
 ## Mappools
 
@@ -215,8 +207,6 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
   - [Jeff Williams - Time to say Goodbye (feat. Casey Lee Williams) (juankristal) \[Team LNBY\]](https://osu.ppy.sh/beatmapsets/524244#mania/1112725)
 - Tiebreaker
   - **[Camellia - Dans la mer de son (TheToaphster) \[Abyss\]](https://osu.ppy.sh/beatmapsets/556824#mania/1641834)**
-
----
 
 ## Résultats des matchs
 
@@ -305,8 +295,6 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 | Allemagne ![][flag_DE] | 0 | 4 | ![][flag_AR] Argentine | [#1](https://osu.ppy.sh/community/matches/35241635) |
 | Mexique ![][flag_MX] | 0 | 4 | ![][flag_US] États-Unis | [#1](https://osu.ppy.sh/community/matches/35241640) |
 
----
-
 ## Règles
 
 ### Règlement du tournoi
@@ -364,17 +352,23 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 1. Pendant les phases de poules, les équipes seront divisées en 8 groupes de 4 équipes.
    - Cela peut changer suivant le nombre d'équipes acceptées dans la compétition.
+
 2. Toutes les équipes de chaque groupe se rencontreront.
+
 3. Le classement de chaque groupe est déterminé en triant les résultats des performances de chaque équipe avec la priorité suivante :
    - Le plus de matchs gagnés.
    - Le plus grand `{(nombre de maps gagnées) - (nombre de maps perdues)}`.
    - Le plus de maps gagnées.
    - A un plus grand `∑{(différence totale de score) / (score maximum)}`.
    - Vainqueur de la revanche.
+
 4. Les deux meilleurs équipes de chaque groupe passeront aux éliminations directes.
    - Cela peut changer avec la configuration des phases de poules.
+
 5. L'étape qui suit est une phase à double élimination. Cela veut dire que le gagnant passe à la prochaine étape et que l'équipe perdante passe au tableau des perdants.
+
 6. En se basant sur [cette image](https://puu.sh/bUq5V/f1066103b0.png), les phases sont divisées comme suivant :
+
    | Étape | ID du match |
    | --: | :-- |
    | Huitièmes de finale | A, B, C, D, E, F, G, H |
@@ -382,6 +376,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
    | Demi-finales | M, N & V, W, X, Y, Z, AA |
    | Finales - Semaine 1 | O & AB, AC, AD, AE |
    | Finales - Semaine 2 | P, Q |
+
 7. **Conditions de victoire :**
    - Dans les phases de poules, vous devez remporter 4 beatmaps pour gagner un match. (meilleurs sur 7 maps)
    - Dans les huitièmes et quarts de finale, vous devez remporter 5 beatmaps pour gagner un match. (meilleurs sur 9 maps)
@@ -396,9 +391,9 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 2. Les joueurs peuvent sélectionner jusqu'à deux beatmaps d'échauffement. Les beatmaps avec un contenu discutable sont interdites. Toutes les beatmaps doivent être des beatmaps osu!mania 4 touches.
 3. Chaque capitaine peut bannir **une beatmap** sélectionnable. Ces beatmaps ne pourront être choisies par aucune équipe pendant l'intégralité du match.
 4. La sélection des beatmaps sera alternée entre chaque capitaine, qui choisira alors une beatmap de la liste des maps disponibles.
-5. Chaque capitaine doit utiliser « !roll » une fois dans #multiplayer.
-   - Le gagnant du !roll commence par choisir la première beatmap du match.
-   - Le perdant du !roll banni une beatmap, suivi par le gagnant du !roll.
+5. Chaque capitaine doit utiliser `!roll` une fois dans `#multiplayer`.
+   - Le gagnant du `!roll` commence par choisir la première beatmap du match.
+   - Le perdant du `!roll` banni une beatmap, suivi par le gagnant du `!roll`.
 6. Les capitaines peuvent choisir librement les maps du tableau.
    - En cas d'égalité, la map de tiebreaker doit être jouée.
 7. Les résultats des phases de poules seront publiés via le feuille de calcul des statistiques.
@@ -427,35 +422,35 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 5. La re-planification de matchs après la publication des horaires sur le wiki ne peut être fait sous aucune circonstance.
 6. Les capitaines sont responsables de la disponibilité de leurs équipes. Les équipes sont assez grande pour permettre à chaque équipe d'avoir au moins trois joueurs pour chaque match. Si des équipes ne peuvent pas fournir trois joueurs pour un match, l'équipe sera considérée comme ayant déclaré forfait pour ce match.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italie"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
+[flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

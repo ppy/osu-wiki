@@ -1,40 +1,36 @@
----
-outdated: true
----
+# Konsol Chat
 
-# Konsol Obrolan Standar
+Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar atau dengan menekan tombol `F8` pada keyboard untuk membuka konsol chat.
 
-Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar atau dengan menekan tombol `F8` untuk membuka konsol obrolan.
+![Tampilan Konsol Chat](img/Chatconsole1.png "Tampilan Konsol Chat")
 
-![Chat Console](img/Chatconsole1.png "Chat Console")
-
-- Tab ini hanya ada beberapa channel. Cukup klik Tab yang lainnya untuk pindah ke channel tersebut atau dengan mengklik tanda tambah `+` untuk membuka tab channel yang baru.
+- Daftar tab menampilkan kanal-kanal yang telah ditambahkan. Cukup klik tab lainnya untuk pindah ke kanal yang ingin dituju. Klik tombol tanda tambah berwarna kuning `+` untuk membuka daftar-daftar kanal yang bisa kamu masuki.
 - Warna dari masing-masing pengguna memiliki arti yang berbeda.
 
-| Warna |  |
+| Warna | Siapa? |
 | :-- | :-- |
 | Putih | Kamu |
-| Kuning Pucat | Orang Lain |
-| Kuning | [osu!supporter](/wiki/osu!supporter) |
-| Merah | Anggota [Tim Moderasi Global](/wiki/People/The_Team/Global_Moderation_Team) atau [Tim Penjamin Kualitas](/wiki/Glossary#quality-assurance-team) |
-| Hijau | Baris yang berisi nama pengguna anda atau berbagai kata kunci yang anda tambahkan ke daftar highlight. Salinan dari pesan itu juga akan muncul di channel yang terdedikasi untuk itu yaitu, `#highlight`. |
+| Kuning Pucat | Bukan pengguna osu!supporter |
+| Kuning | Pengguna [osu!supporter](/wiki/osu!supporter) |
+| Merah | Anggota [Tim Moderasi Global (GMT)](/wiki/People/The_Team/Global_Moderation_Team) atau [Tim Penjamin Kualitas (NAT)](/wiki/Modding/Quality_Assurance_Team) |
+| Hijau | Baris yang berisi nama pengguna kamu atau berbagai kata kunci yang ditambahkan ke daftar highlight. Salinan dari pesan itu juga akan muncul di kanal yang diperuntukkan untuk itu yaitu, `#highlight`. |
 | Biru | Pesan Pribadi |
 | Biru Terang | [peppy](https://osu.ppy.sh/users/2), pembuat osu! |
 | Merah Muda | [BanchoBot](/wiki/BanchoBot) |
 
-- Klik `Show Ticker` untuk menampilkan pesan obrolan terbaru di bagian bawah layar pada saat konsol obrolan tidak terlihat/terbuka.
-- Klik `Auto-Hide` untuk menyembunykan konsol obrolan secara otomatis saat bermain (kecuali intro, outro dan jeda di beatmap).
-- Klik `Hide Chat` atau tekan F8 lagi untuk menyembunyikan konsol obrolan.
+- Klik `Show Ticker` untuk menampilkan pesan obrolan terbaru di bagian bawah layar pada saat konsol chat tidak terlihat/terbuka.
+- Klik `Auto-Hide` untuk menyembunykan konsol chat secara otomatis saat bermain (kecuali intro, outro dan jeda di beatmap).
+- Klik `Hide Chat` atau tekan F8 lagi untuk menyembunyikan konsol chat.
 
-## Konsol Obrolan yang Diperluas
+## Konsol Chat yang Diperluas
 
-*[osu!academy](/wiki/osu!academy) membuat dalam bentuk video [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) bersamaan dengan [Bermain Bersama](/wiki/Multi).*
+*[osu!academy](/wiki/osu!academy) membuat dalam bentuk video [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) bersamaan dengan [Multiplayer](/wiki/Multi).*
 
-Kamu dapat menekan `F9` atau klik tombol `Online Users` di bagian bawah kanan layar untuk membuka Konsol Obrolan yang Diperluas. Selain konsol obrolan, juga menampilkan informasi berbagai macam pengguna yang sedang daring osu!
+Kamu dapat menekan `F9` atau klik tombol `Online Users` di bagian bawah kanan layar untuk membuka Konsol Chat yang Diperluas. Selain konsol obrolan, juga menampilkan informasi berbagai macam pengguna yang sedang daring osu!
 
-![Extended chat console](img/Chat_Console-Extended.png "Extended chat console")
+![Chat konsol yang diperluas](img/Chat_Console-Extended.png "Chat konsol yang diperluas")
 
-Setiap pengguna yang masuk ke dalam osu! mempunyai panel pengguna yang ditampilkan konsol obrolan yang diperluas. Secara baku, panel pengguna akan memberikan informasi umum (nama, total skor ranked, peringkat, akurasi, jumlah bermain, dan avatar pengguna). Jika mouse diarahkan ke panel pengguna, panel pengguna akan memperlihatkan informasi yang berbeda (nama, peringkat, avatar jika ada, waktu lokal mereka, lokasi negara dan kota, dan kegiatan yang pengguna sedang lakukan).
+Setiap pengguna yang masuk ke dalam osu! mempunyai panel pengguna yang ditampilkan pada konsol chat yang diperluas. Secara default, informasi umum pemain akan ditampilkan (nama, total skor ranked, peringkat, akurasi, jumlah bermain, dan avatar pengguna) pada panel pengguna. Jika mouse diarahkan ke panel pengguna, panel pengguna akan menampilkan informasi yang berbeda (nama, peringkat, avatar jika ada, waktu lokal mereka, lokasi negara dan kota, dan kegiatan yang sedang dilakukan oleh pengguna).
 
 - **Friends** hanya menampilkan daftar teman kamu.
 - **Lock Panels** untuk mengunci panel.
@@ -64,12 +60,12 @@ Dengan mengklik panel pengguna orang lain akan muncul tampilan seperti ini.
 Tekan tombol angka atau menekan salah satu bar untuk:-
 
 1. `Start Spectating`: Jika player lain sedang bermain beatmap, dan kamu memiliki beatmap yang sama, kamu bisa melihatnya bermain, dan nama kamu akan ada di daftar penonton.
-2. `View Profile`: untuk melihat profil pengguna di peramban.
+2. `View Profile`: untuk melihat profil pengguna di browser.
 3. `Start Chat`: untuk mengirim pesan pribadi pada pengguna.
 4. `Invite to game`: (jika kamu berada di ruangan bermain bersama) Mengirim undangan ke pemain untuk datang ke ruangan bermain bersamamu.
 5. `Add (Remove) as Friend`: Menambahkan (Menghilangkan) pengguna tersebut ke (dari) [daftar teman](https://osu.ppy.sh/p/friends).
 6. `Report User`: Melaporkan pengguna karena telah melakukan suatu pelanggaran. Lebih baik untuk tidak digunakan kecuali dinyatakan lain. Kamu dapat melaporkan pengguna dalam beberapa hal di dalam permainan, bisa juga di web, maupun forum.
-7. `Ignore User`: Pengguna yang diblokir tidak akan terlihat di konsol obrolanmu.
+7. `Ignore User`: Pengguna yang diblokir tidak akan terlihat di konsol chat kamu.
 8. `Close`: Menutup panel.
 
 ## Daftar Perintah
@@ -84,13 +80,13 @@ Tekan tombol angka atau menekan salah satu bar untuk:-
 | `/bb` | Mengirim sebuah pesan ke bancho untuk rank `[nomor]` | `/bb rank 1` | \[15/11/12\] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [pengguna]` | Membuka sebuah tab obrolan baru dengan pengguna yang telah dispesifikasikan. | `/chat Amigo` | (Tab amigo akan terbuka) |
 | `/clear` | Menghapus obrolan yang telah dimuat. (Hanya terhapus pada layarmu saja) | `/clear` | (Menghapus segalanya pada tab yang sedang kamu buka) |
-| `/ignore [pengguna][@chp]` | Mengabaikan segala pesan dari pengguna yang telah dispesifikasikan pada sesi ini. Dengan menambahkan sebuah @ diikuti oleh huruf, c,h, dan/atau p, kamu mengabaikannya di obrolan, highlight, atau pesan pribadi secara berurut. | /ignore Amigo@chp | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Konsol obrolanmu disetel untuk: mengabaikan teks apapun yang Amigo tulis \[c\], teks yang mungkin menghighlightmu dari Amigo \[h\] Pesan pribadi yang dikirim Amigo kepadamu \[p\]) |
-| `/j [channel]` or `/join [channel]` | Memasuki channel yang dispesifikasikan | `/join #lobby` | (Tab #lobby akan terbuka) |
-| `/p` or `/part` | Meninggalkan channel yang sedang kamu masuki (Perintah ini akan menutup jendela channel di tempat kamu mengetik perintah ini). | `/part` | n/a |
-| `/unignore [user]` | Berhenti mengabaikan pengguna ini pada sesi sekarang. | `/unignore Amigo` | You may now hear Amigo. (Konsol obrolanmu akan memperbolehkan komentar apapun yang dibuat oleh Amigo muncul di konsol obrolanmu) |
+| `/ignore [pengguna][@chp]` | Mengabaikan segala pesan dari pengguna yang telah dispesifikasikan pada sesi ini. Dengan menambahkan sebuah @ diikuti oleh huruf, c,h, dan/atau p, kamu mengabaikannya di obrolan, highlight, atau pesan pribadi secara berurut. | /ignore Amigo@chp | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Konsol chat kamu disetel untuk: mengabaikan teks apapun yang Amigo tulis \[c\], teks yang mungkin menghighlightmu dari Amigo \[h\] Pesan pribadi yang dikirim Amigo kepadamu \[p\]) |
+| `/j [channel]` or `/join [channel]` | Bergabung ke spesifik kanal | `/join #lobby` | (Tab #lobby akan terbuka) |
+| `/p` or `/part` | Meninggalkan kanal yang sedang kamu masuki. | `/part` | n/a |
+| `/unignore [user]` | Berhenti mengabaikan pengguna ini pada sesi sekarang. | `/unignore Amigo` | You may now hear Amigo. (Konsol chat kamu akan memperbolehkan komentar apapun yang dibuat oleh Amigo muncul di konsol chat kamu) |
 | `/me [aksi]` | Melakukan sebuah aksi orang ketiga. | `/me sedang berguling` | Nekonyan sedang berguling |
 | `/msg [pengguna] [pesan]` | Mengirimkan sebuah pesan pribadi kepada `[pengguna]`. | `/msg Amigo` Saya sedang sakit. | (Di tab Amigo) John: Saya sedang sakit. |
-| `/np` | Menampilkan lagu yang sedang kamu dengarkan atau yang kamu mainkan pada obrolan | `/np` | (If playing) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) |
+| `/np` | Menampilkan lagu yang sedang kamu dengarkan atau yang kamu mainkan pada obrolan | `/np` | (If playing) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/22538) |
 | `/reply` or `/r` | Membalas ke pesan pribadi yang diterima terakhir kali. | `/r Kamu kenal dokter yang bagus?` | (Di tab Amigo) \[Komentar sebelumnya\] John: Saya sedang sakit. Amigo: Ah masa? John: Kamu kenal dokter yang bagus? |
 | `/savelog` | Menyimpan tab obrolan yang sedang dibuka menjadi sebuah berkas teks. | `/savelog` | (Sebuah folder bernama "Chat" akan dibuat di direktori) |
 | `/watch [pengguna]` | Memulai menonton `[pengguna]`. | `/watch Amigo` | Started spectating Amigo. (Jika Amigo bermain sebuah beatmap yang kamu miliki, kamu akan menonton permainan dia \[setelah beberapa saat pemuatan\] dengan namamu di sebelah kiri layar Amigo) |
@@ -103,7 +99,7 @@ Tekan tombol angka atau menekan salah satu bar untuk:-
 | :-- | :-- |
 | `Page Up` / `Page Down` | Menggulir jendela obrolan. (lebih baik gunakan roda mouse untuk menggulirkan jendela obrolan). |
 | `Tab` | Melengkapi secara otomatis pengetikan nama pengguna. |
-| `F8` | Membuka/menutup konsol obrolan. |
-| `F9` | Membuka/menutup konsol obrolan yang diperluas. |
+| `F8` | Membuka/menutup konsol chat. |
+| `F9` | Membuka/menutup konsol chat yang diperluas. |
 | `Ctrl` + `C` / `V` | Salin/Tempel. |
 | `Alt` + `0` - `9` | Berpindah ke tab lain. |

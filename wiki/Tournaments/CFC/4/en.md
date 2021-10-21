@@ -8,7 +8,7 @@ tags:
 
 ![CFC 4 logo](img/logo.png)
 
-The **Catch French Cup 4** (***CFC 4***) was a one-on-one French osu!catch tournament hosted by ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the fourth installment of the Catch French Cup.
+The **Catch French Cup 4** (***CFC 4***) was a one-on-one French osu!catch tournament hosted by ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the fourth instalment of the Catch French Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **Catch French Cup 4** (***CFC 4***) was a one-on-one French osu!catch tourn
 | --: | :-- |
 | Registration phase | 2019-02-24/2019-03-17 |
 | Live drawings | 2019-03-24 (20:00 UTC+1) |
-| Group Stage | 2019-03-30/2019-03-31 |
+| Group stage | 2019-03-30/2019-03-31 |
 | Quarterfinals | 2019-04-06/2019-04-07 |
 | Semifinals | 2019-04-20/2019-04-23 |
 | Finals | 2019-04-27/2019-04-28 |
@@ -27,7 +27,7 @@ The **Catch French Cup 4** (***CFC 4***) was a one-on-one French osu!catch tourn
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
-![CFC 4 winner badge](img/badge.png)
+![](img/badge.png "CFC 4 winner badge")
 
 ## Organisation
 
@@ -36,7 +36,7 @@ The Catch French Cup 4 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Map selector | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Mappool selector | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Referee | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) |
 | Streamer | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Commentator | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/138728), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467), ![][flag_FR] [Tbotas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [\_Manyura](https://osu.ppy.sh/users/8335913) |
@@ -50,8 +50,6 @@ The Catch French Cup 4 was run by various community members.
 - [CFC Discord server](https://discord.gg/3DewaX8)
 - [Livestream](https://www.twitch.tv/osufrlive)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS_rPsiR-FPlxuLHxWNLjXrZnBOm4BIQV4a7IMIpDTp6TkH_Zyye1zuJRXmgCIDjxop9iUzz68-Wtbw/pubhtml)**
-
----
 
 ## Participants
 
@@ -71,8 +69,6 @@ The Catch French Cup 4 was run by various community members.
 | **C** | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877) | ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 | **D** | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -82,8 +78,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
-
----
 
 ## Mappools
 
@@ -169,7 +163,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[DJ Noriken - \#The_Relentless\_(Modified) (CLSW) \[EX\]](https://osu.ppy.sh/beatmapsets/603421#fruits/1274502)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (50 MB)](https://mega.nz/#!g01kAAyR!iTvPwH4g9dC9kajKPJw8o0v6Ck6hOMQ_UFp7Rg77IHc)**
 
@@ -189,8 +183,6 @@ This competition has come to an end and resulted in the following podium:
   - [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#fruits/96523)
 - Tiebreaker
   - **[ginkiha - EOS (kamome sano rmx) (Spectator) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/404360#fruits/893683)**
-
----
 
 ## Match results
 
@@ -249,7 +241,7 @@ Sunday, 7 April 2019:
 | Sounny ![][flag_RE] | 0 | **5** | ![][flag_FR] **Alostis** | *win by default* |
 | **Sounny** ![][flag_RE] | **5** | 0 | ![][flag_FR] AAAAAAAAAAAAHHH | *win by default* |
 
-### Group Stage
+### Group stage
 
 Saturday, 30 March 2019:
 
@@ -285,8 +277,6 @@ Sunday, 31 March 2019:
 | Tantei B ![][flag_FR] | 0 | **3** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/50668487) |
 | **Julo** ![][flag_FR] | **3** | 0 | ![][flag_FR] Sageru | *win by default* |
 
----
-
 ## Ruleset
 
 ### General rules
@@ -307,9 +297,9 @@ Sunday, 31 March 2019:
    - Tiebreaker is not forced mod but you may choose a mod.
    - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, HardRock and Hidden.
 
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_RE]: /wiki/shared/flag/RE.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_RE]: /wiki/shared/flag/RE.gif "Reunion"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"

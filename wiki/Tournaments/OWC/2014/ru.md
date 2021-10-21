@@ -47,22 +47,16 @@ outdated: true
 | Комментаторы | ![][flag_GB][jesus1412](https://osu.ppy.sh/users/230116) // ![][flag_FR][Mr Color](https://osu.ppy.s6078) // ![][flag_GB][Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US][ztrot](https://osu.ppy.sh/users/6347) |
 | Статистика | ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Ссылки
 
-- [osu! World Cup 2014 на Twitch](https://www.twitch.tv/osulive/)
+- [osu! World Cup 2014 на Twitch](https://www.twitch.tv/osulive)
 - [Форма регистрации](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
 - [Тема на форуме](https://osu.ppy.sh/community/forums/topics/247090)
 - [Тема на русском форуме](https://osu.ppy.sh/community/forums/topics/243139)
 - [Обсуждение маппула](https://osu.ppy.sh/community/forums/topics/255369)
 - **[Статистика групповой стадии](https://owc.nicarim.pw/results/view/3)**
 
----
-
 ![OWC 2014 brackets](img/bracket.jpg)
-
----
 
 ## Участники
 
@@ -121,8 +115,6 @@ outdated: true
 | ![][flag_MY] Malaysia | **[Gon](https://osu.ppy.sh/users/583765)**, [xsrsbsns](https://osu.ppy.sh/users/414427), [caleb123456](https://osu.ppy.sh/users/2205376), [ExPew](https://osu.ppy.sh/users/665612), [TequilaWolf](https://osu.ppy.sh/users/3633477), [NazzzF](https://osu.ppy.sh/users/2676512), [ffstar0716](https://osu.ppy.sh/users/1163205), [Rumia-](https://osu.ppy.sh/users/1787171) |
 | ![][flag_RU] Russian Federation | **[cr1m](https://osu.ppy.sh/users/803766)**, [talala](https://osu.ppy.sh/users/1389663), [Shiawase](https://osu.ppy.sh/users/989489), [anticlone111](https://osu.ppy.sh/users/1950600), [Kert](https://osu.ppy.sh/users/119933), [KoTo](https://osu.ppy.sh/users/1382805), [Hidari Handoru](https://osu.ppy.sh/users/1056329), [Pyroboom](https://osu.ppy.sh/users/689882) |
 | ![][flag_CN] China | **[Prophet](https://osu.ppy.sh/users/651307)**, [Dsan](https://osu.ppy.sh/users/1266166), [N a n o](https://osu.ppy.sh/users/694114), [Del soon Bye](https://osu.ppy.sh/users/629717), [Rebellion](https://osu.ppy.sh/users/2896273), [SpringLane](https://osu.ppy.sh/users/1343504), [Spring Roll](https://osu.ppy.sh/users/2499198), [wobeinimacao](https://osu.ppy.sh/users/350723) |
-
----
 
 ## Список карт
 
@@ -276,8 +268,6 @@ outdated: true
 - Tiebreaker
   - **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)**
 
----
-
 ## Результаты матчей
 
 ### Финалы
@@ -413,8 +403,6 @@ outdated: true
 | ![][flag_HK] Hong Kong | 3 - **4** | **Canada** ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/10355083) |
 | ![][flag_SG] Singapore | 1 - **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/10355087) |
 
----
-
 ## Список правил
 
 ### Правила турнира
@@ -458,16 +446,22 @@ outdated: true
 ### Этапы турнира
 
 1. Во время групповой стадии команды будут поделены на восемь групп, в каждой из которых будет по четыре команды.
+
 2. Во время групповых стадий каждая команда проведёт по три раунда, играя против каждой из остальных команд своей группы.
+
 3. Результаты в каждой группе будут определяться по нижеследующим приоритетам:
    1. Наибольшее количество выигранных матчей.
    2. Наибольший коэффициент `{(количество выигранных карт) - (количество проигранных карт)}`.
    3. Наибольшее количество выигранных карт.
    4. Наибольший коэффициент `∑{(разница в очках) / (наибольшее количество очков)}`.
    5. Победа в переигровке.
+
 4. В дальнейшие этапы турнира пройдут по две команды из каждой группы.
+
 5. Дальнейшие этапы турнира будут проводиться по Олимпийской системе с выбыванием после двух поражений.
+
 6. Этапы турнира на основе [этой таблицы](https://puu.sh/bUq5V/f1066103b0.png):
+
    | Этап | ID матча |
    | :-- | :-- |
    | 1/8 финала | A, B, C, D, E, F, G, H |
@@ -475,6 +469,7 @@ outdated: true
    | Полуфиналы | M, N & V, W, X, Y, Z,AA |
    | Финалы — Неделя 1 | O & AB, AC, AD, AE |
    | Финалы — Неделя 2 | P, Q |
+
 7. **Условия победы:**
    - В групповой стадии нужно победить на четырёх картах из семи для победы в раунде.
    - В 1/8 финала и четверть финалах нужно победить на пяти картах из девяти для победы в раунде.
@@ -489,8 +484,8 @@ outdated: true
 2. Игроки могут выбрать до двух карт для разогрева; запрещается выбирать карты с сомнительным (questionable) содержимым.
 3. Каждый капитан должен исключить из списка две карты. Ни одна из исключённых карт не должна быть использована на протяжении всего раунда.
    1. Оба бана должны быть использованы.
-   2. Оба капитана должны использовать команду "!roll" для определения порядка банов. Одна карта не может быть исключена дважды.
-4. Карты будут выбираться по порядку каждым из капитанов. Капитаны должны использовать команду "!roll" для определения того из них, кто будет выбирать первым.
+   2. Оба капитана должны использовать команду `!roll` для определения порядка банов. Одна карта не может быть исключена дважды.
+4. Карты будут выбираться по порядку каждым из капитанов. Капитаны должны использовать команду `!roll` для определения того из них, кто будет выбирать первым.
    1. Капитаны могут выбирать карту из любой группы.
    2. Для случая ничьей предусмотрена специальная карта из списка.
 5. Результаты раундов будут опубликованы на вики и на сайте статистики.
@@ -519,36 +514,36 @@ outdated: true
 4. Установка расписания матчей будет проводиться организацией турнира и анонсироваться в последнее воскресенье перед каждым этапом. По возможности расписание будет устанавливаться с учётом временных зон играющих команд.
 5. Капитаны ответственны за явку игроков. Если команда не сможет предоставить четырёх игроков к нужному сроку, ей будет засчитано техническое поражение.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_LT]: /wiki/shared/flag/LT.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Аргентина"
+[flag_AT]: /wiki/shared/flag/AT.gif "Австрия"
+[flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
+[flag_BR]: /wiki/shared/flag/BR.gif "Бразилия"
+[flag_CA]: /wiki/shared/flag/CA.gif "Канада"
+[flag_CL]: /wiki/shared/flag/CL.gif "Чили"
+[flag_CN]: /wiki/shared/flag/CN.gif "Китай"
+[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
+[flag_DK]: /wiki/shared/flag/DK.gif "Дания"
+[flag_ES]: /wiki/shared/flag/ES.gif "Испания"
+[flag_FI]: /wiki/shared/flag/FI.gif "Финляндия"
+[flag_FR]: /wiki/shared/flag/FR.gif "Франция"
+[flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"
+[flag_HK]: /wiki/shared/flag/HK.gif "Гонконг"
+[flag_ID]: /wiki/shared/flag/ID.gif "Индонезия"
+[flag_IT]: /wiki/shared/flag/IT.gif "Италия"
+[flag_JP]: /wiki/shared/flag/JP.gif "Япония"
+[flag_KR]: /wiki/shared/flag/KR.gif "Республика Корея"
+[flag_LT]: /wiki/shared/flag/LT.gif "Литва"
+[flag_MX]: /wiki/shared/flag/MX.gif "Мексика"
+[flag_MY]: /wiki/shared/flag/MY.gif "Малайзия"
+[flag_NL]: /wiki/shared/flag/NL.gif "Нидерланды"
+[flag_NO]: /wiki/shared/flag/NO.gif "Норвегия"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Новая Зеландия"
+[flag_PH]: /wiki/shared/flag/PH.gif "Филиппины"
+[flag_PL]: /wiki/shared/flag/PL.gif "Польша"
+[flag_PT]: /wiki/shared/flag/PT.gif "Португалия"
+[flag_RU]: /wiki/shared/flag/RU.gif "Российская Федерация"
+[flag_SE]: /wiki/shared/flag/SE.gif "Швеция"
+[flag_SG]: /wiki/shared/flag/SG.gif "Сингапур"
+[flag_TW]: /wiki/shared/flag/TW.gif "Тайвань"
+[flag_UA]: /wiki/shared/flag/UA.gif "Украина"
+[flag_US]: /wiki/shared/flag/US.gif "Соединённые Штаты Америки"

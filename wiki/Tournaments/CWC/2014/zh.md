@@ -1,7 +1,7 @@
 ---
 tags:
-- CWC 2014
-- CWC2014
+  - CWC 2014
+  - CWC2014
 outdated: true
 ---
 
@@ -43,15 +43,11 @@ outdated: true
 | Commentators | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) // ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420) // ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_US] [-Ryuujii-](https://osu.ppy.sh/users/2107523) |
 | 统计 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## 外部链接
 
-- [osu! Catch the Beat World Cup 2014 Twitch 直播室](https://www.twitch.tv/osulive/)
+- [osu! Catch the Beat World Cup 2014 Twitch 直播室](https://www.twitch.tv/osulive)
 - [注册表单](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
 - [讨论帖](https://osu.ppy.sh/community/forums/topics/200185)
-
----
 
 ## 淘汰赛对阵
 
@@ -67,8 +63,6 @@ outdated: true
 | 韩国 ![][flag_KR] | ![][flag_ID] 印度尼西亚/印尼 | **13.00 (1pm)** | 22.00 (10pm) UTC +9 | 20.00 (8pm) UTC +7 |
 | 瑞典 ![][flag_SE] | ![][flag_SG] 新加坡 | **14.00 (2pm)** | 16.00 (4pm) UTC +2 | 22.00 (10pm) UTC +8 |
 | 美国 ![][flag_US] | ![][flag_DE] 德国 | **15.00 (3pm)** | 11.00 (11am) UTC -4 | 17.00 (5pm) UTC +2 |
-
----
 
 ## 参赛者
 
@@ -127,8 +121,6 @@ outdated: true
 | ![][flag_CN] | 中国 | **[Dusk](https://osu.ppy.sh/users/533210)**, [hy1hy1hy](https://osu.ppy.sh/users/243877), [MisakaMikoto](https://osu.ppy.sh/users/434917), [Ibuki Suika](https://osu.ppy.sh/users/290249) |
 | ![][flag_UY] | 乌拉圭 | **[Themaster155](https://osu.ppy.sh/users/1850067)**, [quique95](https://osu.ppy.sh/users/472924), [Truxxxton](https://osu.ppy.sh/users/1379428), [S3B4](https://osu.ppy.sh/users/3437784) |
 | ![][flag_ID] | 印度尼西亚/印尼 | **[Shurelia](https://osu.ppy.sh/users/3807986)**, [Deceitful](https://osu.ppy.sh/users/1396447), [\_EliteYud\_](https://osu.ppy.sh/users/2365634), [Yoshida Haru-](https://osu.ppy.sh/users/3073351), [- Rii -](https://osu.ppy.sh/users/3734591) |
-
----
 
 ## 图池
 
@@ -232,8 +224,6 @@ outdated: true
 - Tiebreaker
   - **[nano - Nevereverland (CLSW) \[Crystal\]](https://osu.ppy.sh/beatmapsets/149570#fruits/369563)**
 
----
-
 ## 规则
 
 ### 比赛规则
@@ -299,7 +289,7 @@ outdated: true
    - 房间的模式是 Catch the Beat，Team-Vs，胜利条件：“得分”。房间名必得是“CtB World Cup 2014: 蓝队 vs 红队”
    - 房间名中第一个提到的队伍必须是蓝队，第二个提到的队伍必须是红队。
 2. 玩家们可以随意选两张热身图
-3. 比赛过程中由双方队长轮流从选取池中选图。比赛之前双方队长必须分别在 \#multiplayer 中使用一次“!roll”，以此决定哪一队首先选图。
+3. 比赛过程中由双方队长轮流从选取池中选图。比赛之前双方队长必须分别在 `#multiplayer` 中使用一次`!roll`，以此决定哪一队首先选图。
    - 队长可以自由开启“允许自由选择 Mod”
    - 选择特定 mod 的图的次数有限。每队队长在每场比赛中，从每个限定 mod 模式中只能选一张图。
      - FreeMod 的选图次数是无限的
@@ -334,36 +324,36 @@ outdated: true
 4. 赛程表将会由赛事管理来编排。赛程表会在比赛前的星期天公布 (例子：在2月2号发布小组赛的赛程表)。赛事管理将会尝试根据参赛者的所在时区来调整进行比赛的时间。
 5. 每一队的队长负责通知其队伍的的成员。当然，成员更多的队伍更容易确保凑齐至少三名选手进行每场比赛。如果某支队伍无法提供三名选手进行比赛，本场比赛的结果将会无效。
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BO]: /wiki/shared/flag/BO.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_EE]: /wiki/shared/flag/EE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HR]: /wiki/shared/flag/HR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_UY]: /wiki/shared/flag/UY.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
+[flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
+[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
+[flag_BO]: /wiki/shared/flag/BO.gif "玻利维亚"
+[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
+[flag_CL]: /wiki/shared/flag/CL.gif "智利"
+[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_DE]: /wiki/shared/flag/DE.gif "德国"
+[flag_DK]: /wiki/shared/flag/DK.gif "丹麦"
+[flag_EE]: /wiki/shared/flag/EE.gif "爱沙尼亚"
+[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
+[flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
+[flag_FR]: /wiki/shared/flag/FR.gif "法国"
+[flag_GB]: /wiki/shared/flag/GB.gif "英国"
+[flag_HK]: /wiki/shared/flag/HK.gif "香港"
+[flag_HR]: /wiki/shared/flag/HR.gif "克罗地亚"
+[flag_ID]: /wiki/shared/flag/ID.gif "印度尼西亚"
+[flag_JP]: /wiki/shared/flag/JP.gif "日本"
+[flag_KR]: /wiki/shared/flag/KR.gif "韩国"
+[flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
+[flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
+[flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
+[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
+[flag_PE]: /wiki/shared/flag/PE.gif "秘鲁"
+[flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
+[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
+[flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
+[flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
+[flag_TH]: /wiki/shared/flag/TH.gif "泰国"
+[flag_TW]: /wiki/shared/flag/TW.gif "台湾"
+[flag_US]: /wiki/shared/flag/US.gif "美国"
+[flag_UY]: /wiki/shared/flag/UY.gif "乌拉圭"

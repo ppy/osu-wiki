@@ -41,12 +41,12 @@ Calling all mappers! Come show off your mapping skills to the community with the
 
 ## Translations
 
-Jump to: [Italian](#it), [French](#fr), [Chinese](#cn), [Indonesian](#id), [Japanese](#jp), [German](#de), [Russian](#ru), [Spanish](#es)  
+Jump to: [Italian](#italian), [French](#french), [Chinese](#chinese), [Indonesian](#indonesian), [Japanese](#japanese), [German](#german), [Russian](#russian), [Spanish](#spanish)  
   
 
 ---
 
-## <a id="it"></a>Italian
+## Italian
 
 Un richiamo per tutti i mapper! Venite e mostrate la vostra bravura nel mapping a tutta la comunità con l'occasione di avere **la vostra beatmap inclusa nel download del gioco**!
 
@@ -84,7 +84,7 @@ Un richiamo per tutti i mapper! Venite e mostrate la vostra bravura nel mapping 
 
 ---
 
-## <a id="fr"></a>French
+## French
 
 Appel à tous les mappeurs ! Venez montrer à la communauté vos talents de mapping, avec à la clé une chance d'avoir votre beatmap **incluse dans le téléchargement du jeu !**
 
@@ -122,7 +122,7 @@ Appel à tous les mappeurs ! Venez montrer à la communauté vos talents de mapp
 
 ---
 
-## <a id="cn"></a>Chinese
+## Chinese
 
 至所有的作图者！来展示你的作图能力给大家，可以让你做的谱面被整合到**游戏安装包**里哦！
 
@@ -160,7 +160,7 @@ Appel à tous les mappeurs ! Venez montrer à la communauté vos talents de mapp
 
 ---
 
-## <a id="id"></a>Indonesian
+## Indonesian
 
 Panggilan kepada seluruh mapper! Tunjukkan kepiawaian Anda kepada komunitas serta raih kesempatan dibundelnya karya kreasi Anda **pada setiap unduhan klien permainan**!
 
@@ -198,7 +198,7 @@ Panggilan kepada seluruh mapper! Tunjukkan kepiawaian Anda kepada komunitas sert
 
 ---
 
-## <a id="jp"></a>Japanese
+## Japanese
 
 mapperのみなさんへ！この度マッピングコンテストが開催される運びになりました。**ゲームクライアントにあなたの譜面を同梱する**チャンスがあります。
 
@@ -236,7 +236,7 @@ mapperのみなさんへ！この度マッピングコンテストが開催さ�
 
 ---
 
-## <a id="de"></a>German
+## German
 
 Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine Beatmap zum **Download Bundle von osu!** dazugehört!
 
@@ -274,7 +274,7 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 
 ---
 
-## <a id="ru"></a>Russian
+## Russian
 
 Мапперы! Продемонстрируйте свои навыки маппинга и получите шанс прославиться: вашу карту могут добавить в **новый релиз osu!**
 
@@ -312,7 +312,7 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 
 ---
 
-## <a id="es"></a>Spanish
+## Spanish
 
 ¡Llamando a todos los mappers! ¡Vengan aquí y muestren sus habilidades de mapear a la comunidad con la oportunidad de tener su beatmap incluido en el juego!
 

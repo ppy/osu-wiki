@@ -18,12 +18,12 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [DigitalHypno](https://osu.ppy.sh/users/4384207), [fartownik](https://osu.ppy.sh/users/56917), [SoraRoxas01](https://osu.ppy.sh/users/1986262) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -105,7 +105,7 @@ Hey, Argentinian osu! community! Here's a gift for you. Hosted by MaestroSplinte
 
 Did anyone miss seeing 2B maps in the Loved voting? Here, I'll fix that. The mapper "Hishiro Chizuru", inspired by various other mappers, has made an energetic beatmap to go along with an equally energetic remix of the song "Stargazer". This 3-minute beatmap is mixed with modern technical sections, innovative 2B patterns, and various slider velocity changes. Topped off with a storyboard by Rhonen and hitsounding by Ambrew, the map has seen a heavy amount of support from you guys, the community. With the map having over 150 favorites, it's time for you to cast your vote and help bring this map into the Loved category!
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910), [-Kazu-](https://osu.ppy.sh/users/920861), [Backfire](https://osu.ppy.sh/users/263110), [iceOC](https://osu.ppy.sh/users/5482401) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -148,7 +148,7 @@ We all know tasuke912 as one of the best mappers last year, and here he makes hi
 
 Between the vast mapping experience of KitajimaYN and the great understanding of the game mode hoku shows in their Heisei Memehunters, you can already start to expect a well designed and fun map. This map shows an excellent control over density and where exactly to go ham on it, as well as a impeccable flow-based mapping style, being KitajimaYN's trademark. The streams of this map truly meet all expectations and are so carefully placed that the map as a whole makes a lot of sense: I think it'd truly be a great addition to the Loved section!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Zak](https://osu.ppy.sh/users/1375955)!
 
@@ -170,7 +170,7 @@ Entering the Loved section for the first time is \[\_-Kukkai-\_\]! With an arsen
 
 All-in-all the map offers lots of replayability. This is because of the solid base map that can very well be made even more interesting by throwing either HardRock and/or Hidden into the mix. It is definitely doable for higher end players and adds some spice. So see for yourself what you think of it?
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341), [stupud man](https://osu.ppy.sh/users/2141612) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

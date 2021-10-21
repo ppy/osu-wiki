@@ -7,7 +7,7 @@ tags:
 
 ![HOT logo](img/logo.jpg)
 
-The **Hidden Only Tournament** (***HOT***) was a worldwide double-elimination 2v2 osu! tournament hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_CN] [real MikeL](https://osu.ppy.sh/users/10732897), and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). Tournament where maps was played under Hidden and Hidden/DoubleTime mod only. This was the first installment of the Hidden Only Tournament.
+The **Hidden Only Tournament** (***HOT***) was a worldwide double-elimination 2v2 osu! tournament hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_CN] [real MikeL](https://osu.ppy.sh/users/10732897), and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). Tournament where maps were played under Hidden and Hidden/DoubleTime mods only. This was the first instalment of the Hidden Only Tournament.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **Hidden Only Tournament** (***HOT***) was a worldwide double-elimination 2v
 | Placing | Prizes |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter for each team member |
 
 ![](img/badge.jpg "HOT winner badge")
 
@@ -38,7 +38,7 @@ The Hidden Only Tournament was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_CN] [real MikeL](https://osu.ppy.sh/users/10732897), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
-| Map selector | ![][flag_CA] [dqwed](https://osu.ppy.sh/users/9977100), ![][flag_AU] [Gala](https://osu.ppy.sh/users/3385634), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_CN] [real MikeL](https://osu.ppy.sh/users/10732897), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
+| Mappool selector | ![][flag_CA] [dqwed](https://osu.ppy.sh/users/9977100), ![][flag_AU] [Gala](https://osu.ppy.sh/users/3385634), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_CN] [real MikeL](https://osu.ppy.sh/users/10732897), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
 | Referee | ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_AU] [Gala](https://osu.ppy.sh/users/3385634), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DE] [real cute](https://osu.ppy.sh/users/9172811), ![][flag_US] [Pristine Toast](https://osu.ppy.sh/users/12324616), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_US] [travis_ba](https://osu.ppy.sh/users/10822220), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Streamer | ![][flag_CA] [Clarkyclarker](https://osu.ppy.sh/users/11664411), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233) |
 | Commentator | ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
@@ -109,7 +109,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1Gpq8foPrKJECKJ65C7i45UgOGr4pBrgI/view?usp=sharing?usp=sharing)**
+**[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1Gpq8foPrKJECKJ65C7i45UgOGr4pBrgI/view?usp=sharing)**
 
 - Hidden
   - [nano - Nevereverland (jas) \[Relentless\]](https://osu.ppy.sh/beatmapsets/1023428#osu/2140939)

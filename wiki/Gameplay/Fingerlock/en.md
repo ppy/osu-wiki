@@ -10,7 +10,7 @@ tags:
 
 # Fingerlock
 
-*Not to be confused with [Notelock](/wiki/Beatmapping/Overall_difficulty#notelock) or [Mind block](/wiki/Gameplay/Mind_block).*
+*Not to be confused with [Notelock](/wiki/Gameplay/Notelock) or [Mind block](/wiki/Gameplay/Mind_block).*
 
 **Fingerlock** (alternatively spelt as `finger-lock` or `finger lock`) is a term used to describe the sensation of momentarily losing control of one's fingers whilst playing osu!. Although not a term specific to osu!, the term is widely used by players to communicate frustration with plays where a player knows when and where to press a [hit object](/wiki/Hit_object), but inexplicably just doesn't press the key, effectively creating a sensation where said finger feels as if it is "locked" in place. Hence the name, "fingerlock".
 
@@ -22,7 +22,7 @@ tags:
 
 Fingerlock is a common sensation that happens to many veteran osu! players. The common consensus amongst most players is that fingerlock is generally no cause for alarm. However, if a player experiences persistent or painful fingerlock often, it is recommended that that player see a medical professional, as it may be the result of an underlying health condition.
 
-A specific cause for fingerlock has neither been found nor generally understood yet. However, there are a few common habits that may cause or increase the chances of fingerlock: long play sessions (especially ones that retry the same [beatmap](/wiki/Beatmaps) repeatedly), bad posture or wrist position, or unnecessary strain on the wrist or fingers for extended periods of time. Regardless, fingerlock will most often occur once or twice during a play session as a result of simple hesitation or slow reaction time.
+A specific cause for fingerlock has neither been found nor generally understood yet. However, there are a few common habits that may cause or increase the chances of fingerlock: long play sessions (especially ones that retry the same [beatmap](/wiki/Beatmap) repeatedly), bad posture or wrist position, or unnecessary strain on the wrist or fingers for extended periods of time. Regardless, fingerlock will most often occur once or twice during a play session as a result of simple hesitation or slow reaction time.
 
 ## Remedies & prevention
 

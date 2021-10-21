@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2019 logo](img/logo.jpg)
 
-The **osu!catch World Cup 2019** (***CWC 2019***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eight installment of the osu!catch World Cup.
+The **osu!catch World Cup 2019** (***CWC 2019***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eighth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!catch World Cup 2019** (***CWC 2019***) was a country-based osu!catch 
 | --: | :-- |
 | Registration phase | 2019-05-29/2019-06-11 |
 | Live drawings | 2019-06-22 (16:00 UTC) |
-| Group Stage | 2019-06-29/2019-06-30 |
+| Group stage | 2019-06-29/2019-06-30 |
 | Round of 16 | 2019-07-06/2019-07-07 |
 | Quarterfinals | 2019-07-13/2019-07-14 |
 | Semifinals | 2019-07-20/2019-07-21 |
@@ -37,7 +37,7 @@ The **osu!catch World Cup 2019** (***CWC 2019***) was a country-based osu!catch 
 
 The osu!catch World Cup 2019 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
@@ -89,7 +89,9 @@ The osu!catch World Cup 2019 was run by various community members.
 | ![][flag_VE] | **Venezuela** | **[Zuleta\_](https://osu.ppy.sh/users/10287019)**, [\[Aless50\]](https://osu.ppy.sh/users/4339778), [-\[CocoaFangirl\]](https://osu.ppy.sh/users/10291253), [-\[Ketsu\]-](https://osu.ppy.sh/users/10496305), [Hisashi Shimoro](https://osu.ppy.sh/users/6736420), [Tsugumi](https://osu.ppy.sh/users/8746368) |
 | ![][flag_VN] | **Vietnam** | **[\[A\]bsolute](https://osu.ppy.sh/users/8525921)**, [Close](https://osu.ppy.sh/users/4744615), [Hana Yukiko](https://osu.ppy.sh/users/4964095), [mothernature](https://osu.ppy.sh/users/6403418), [Saaya](https://osu.ppy.sh/users/5144295), [Seonna](https://osu.ppy.sh/users/4677276) |
 
-![CWC 2019 podium](img/podium.jpg)
+## Podium
+
+![](img/podium.jpg "CWC 2019 podium")
 
 ## Mappools
 
@@ -232,7 +234,7 @@ The osu!catch World Cup 2019 was run by various community members.
 - Tiebreaker
   - **[Eisyo-kobu - Oriental Blossom -Eika Shuuei- (Yumeno Himiko) \[Sakura\]](https://osu.ppy.sh/beatmapsets/910194#fruits/1899381)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here!](https://www.dropbox.com/sh/e3jgd039od90c85/AADfBfWbrPI5NHwpKWiv3fCCa?dl=0)**
 
@@ -346,7 +348,7 @@ Sunday, 7 July 2019:
 | **Taiwan** ![][flag_TW] | **6** | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/53170971) |
 | Mexico ![][flag_MX] | 4 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/53178682) |
 
-### Group Stage
+### Group stage
 
 Saturday, 29 June 2019:
 
@@ -463,7 +465,9 @@ Sunday, 30 June 2019:
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change depending on how many teams are accepted into the competition at the end.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
@@ -472,10 +476,14 @@ Sunday, 30 June 2019:
    - In the event of a triple tie:
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
@@ -483,6 +491,7 @@ Sunday, 30 June 2019:
    | Semifinals | M, N & V, W, X, Y, Z, AA |
    | Finals | O & AB, AC, AD |
    | Grand Finals | AE, P, Q |
+
 7. **Winning conditions:**
    - In Group Stage, you need to win 5 maps to win a match. (Best-of-9)
    - In the Round of 16 and the Quarterfinals, you need to win 6 maps to win a match. (Best-of-11)
@@ -497,8 +506,8 @@ Sunday, 30 June 2019:
 3. Each captain can ban one beatmap to be selected from the pool **at the start of the match**. These beatmaps are not allowed to be picked by any team in the entire match.
 4. **After a team reaches 3 points the opposition can ban another map as a comeback mechanic.**. This means that both teams can potentially ban up to **two maps** during the entirety of the match.
 5. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-6. Each captain must use "!roll" once in #multiplayer.
-   - **The winner of the !roll decides if they want to pick and ban first, or pick and ban second.**
+6. Each captain must use `!roll` once in `#multiplayer`.
+   - **The winner of the `!roll` decides if they want to pick and ban first, or pick and ban second.**
 7. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 8. Results of the Group Stage will be published via a Statistics sheet.
@@ -554,7 +563,7 @@ Sunday, 30 June 2019:
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RO]: /wiki/shared/flag/RO.gif "Romania"

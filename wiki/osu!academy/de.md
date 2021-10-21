@@ -6,7 +6,7 @@ outdated: true
 
 ## Einführung
 
-![osu!academy's logo](img/osu!academy-logo.jpg "osu!academy logo")
+![osu!academy's logo](img/logo.png "osu!academy logo")
 
 - [Quelle](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
 - [Offizielles Youtube Kanal](https://www.youtube.com/user/osuacademy/videos)

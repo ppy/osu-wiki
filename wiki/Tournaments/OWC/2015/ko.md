@@ -41,21 +41,15 @@ outdated: true
 | 해설 | ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) // ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) // ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US] [rfandomization](https://osu.ppy.sh/users/3716999) // ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | 통계 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## 링크
 
-- [osu! World Cup 2015 트위치](https://www.twitch.tv/osulive/)
+- [osu! World Cup 2015 트위치](https://www.twitch.tv/osulive)
 - [논의 스레드](https://osu.ppy.sh/community/forums/posts/4550383)
 - [등록 페이지](https://osu.ppy.sh/tournaments/2)
 - [현재 단계의 결과](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
 - **[그룹 스테이지 통계 개요(임시)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 
----
-
 ![OWC 2015 brackets](img/bracket.jpg)
-
----
 
 ## 참가자
 
@@ -141,8 +135,6 @@ outdated: true
 | ![][flag_SE] | **Sweden** | **[Xytox](https://osu.ppy.sh/users/2229274 "Xytox")**, [Slizzer](https://osu.ppy.sh/users/809983 "Slizzer"), [SnickarN](https://osu.ppy.sh/users/3258429 "SnickarN"), [AntoN](https://osu.ppy.sh/users/2538562 "AntoN"), [Bubba](https://osu.ppy.sh/users/2330524 "Bubba"), [IVo one](https://osu.ppy.sh/users/3623465 "IVo one"), [Sebbe](https://osu.ppy.sh/users/3181965 "Sebbe"), [Xiniox](https://osu.ppy.sh/users/5233691 "Xiniox") |
 | ![][flag_AT] | **Austria** | **[Fedora Goose](https://osu.ppy.sh/users/2323131 "Fedora Goose")**, [Omgforz](https://osu.ppy.sh/users/578943 "Omgforz"), [Alumetorz](https://osu.ppy.sh/users/1145984 "Alumetorz"), [BlueFlame](https://osu.ppy.sh/users/3506191 "BlueFlame"), [Shirone](https://osu.ppy.sh/users/1426098 "Shirone"), [Elscar](https://osu.ppy.sh/users/2253511 "Elscar"), [Hakkero](https://osu.ppy.sh/users/177913 "Hakkero"), [skritsch](https://osu.ppy.sh/users/3323141 "skritsch") |
 | ![][flag_TW] | **Taiwan** | **[Rucker](https://osu.ppy.sh/users/147515 "Rucker")**, [hvick225](https://osu.ppy.sh/users/50265 "hvick225"), [Small K](https://osu.ppy.sh/users/952751 "Small K"), [YuyuKo sama](https://osu.ppy.sh/users/234788 "YuyuKo sama"), [Uan](https://osu.ppy.sh/users/147623 "Uan"), [dabanlong](https://osu.ppy.sh/users/624254 "dabanlong"), [zxxzxxz](https://osu.ppy.sh/users/1646474 "zxxzxxz"), [RedLeaf](https://osu.ppy.sh/users/2703742 "RedLeaf") |
-
----
 
 ## 맵풀
 
@@ -236,8 +228,6 @@ outdated: true
 - Tiebreaker
   - **[Sawai Miku - Colorful. (Asterisk DnB Remix) (Amamiya Yuko) \[Megumi\]](https://osu.ppy.sh/beatmapsets/299454#osu/722224)**
 
----
-
 ## 경기 결과
 
 ### 16강
@@ -315,8 +305,6 @@ outdated: true
 | ![][flag_UA] Ukraine | 1 - **4** | **Canada** ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/20138457) |
 | ![][flag_LV] Latvia | 0 - **4** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/20138460) |
 
----
-
 ## 룰셋
 
 ### 토너먼트 규칙
@@ -370,23 +358,30 @@ outdated: true
 ### Stage instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    1. Most matches won.
    2. Have higher `{(the number of maps won) - (the number of maps defeated)}`.
    3. Most maps won.
    4. Have higher `∑{(total score difference) / (maximum score)}`.
    5. Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Double Elimination Stages.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
- | Stage | Match ID |
- | :-- | :-- |
- | 16강 | A, B, C, D, E, F, G, H |
- | 8강 | I, J, K, L & R, S, T, U |
- | 준결승 | M, N & V, W, X, Y, Z,AA |
- | 결승 - Week 1 | O & AB, AC, AD, AE |
- | 결승 - Week 2 | P, Q |
+
+   | Stage | Match ID |
+   | :-- | :-- |
+   | 16강 | A, B, C, D, E, F, G, H |
+   | 8강 | I, J, K, L & R, S, T, U |
+   | 준결승 | M, N & V, W, X, Y, Z,AA |
+   | 결승 - Week 1 | O & AB, AC, AD, AE |
+   | 결승 - Week 2 | P, Q |
+
 7. **Winning Conditions:**
    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
    - In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
@@ -402,9 +397,9 @@ outdated: true
 3. Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
    1. Both vetos must always be used.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in \#multiplayer.
-   1. The winner of the !roll starts picking the first beatmap of the match.
-   2. The loser of the !roll starts banning two beatmaps.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   1. The winner of the `!roll` starts picking the first beatmap of the match.
+   2. The loser of the `!roll` starts banning two beatmaps.
 6. Captains may pick freely from any bracket.
    1. In case of a tie, the tiebreaker map must be played.
 7. Results will be published via Statistics site.

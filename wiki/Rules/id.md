@@ -8,8 +8,9 @@ Peraturan-peraturan berikut ini merupakan pedoman dasar yang kami terapkan di da
 2. **Bermainlah dengan adil.** Penggunaan program-program ilegal yang dapat membuat permainan menjadi tidak adil dalam bentuk apapun sangat tidak diperbolehkan. Hal ini meliputi program makro, program yang meningkatkan akurasi bidikan kursor *(aim assist)*, program modifikasi skala waktu, dan lain sebagainya. Apabila kamu menyalahgunakan program-program tersebut, kamu akan sangat bersalah terhadap para pemain lainnya yang telah bermain adil!
 3. **Bersikap baiklah dengan saling menjaga rasa hormat antar satu sama lain.** Segala bentuk pelecehan dan hal-hal lainnya yang ditenggarai dapat merendahkan martabat orang lain tidak dibenarkan di dalam komunitas osu!. Kita di sini untuk bermain mengikuti irama musik, memukul drum, menangkap buah, dan menekan tuts keyboard - bukan untuk menjadi orang yang menyinggung perasaan orang lain.
 4. **Jangan bersikap kurang ajar.** Apabila pada titik tertentu kamu tidak yakin apakah kamu melanggar aturan ini, mungkin saja secara tidak sadar kamu sudah melanggar.
-5. **Kami adalah komunitas yang terbuka bagi semua usia.** Hal ini berarti bahwa konten-konten yang tergolong 18+/[NSFW](https://en.wikipedia.org/wiki/NSFW) seperti penggunaan obat-obatan terlarang dan pembahasan seksual yang berlebihan tidak dibenarkan di sini. Walaupun pada beberapa kasus terdapat pengecualian yang berlaku atas dasar pertimbangan-pertimbangan tertentu, secara umum harap jauhi topik-topik pembicaraan yang kurang pantas untuk dibahas di ruang publik.
-6. **Apabila terdapat suatu masalah yang tidak terliput pada poin-poin di atas, gunakan akal sehat *(common sense)* untuk menyelesaikannya.** Pada kasus-kasus yang lebih serius, staf administratif osu! memiliki kewenangan khusus untuk menindak pihak-pihak yang dinilai telah melanggar dari sudut pandang masing-masing anggota staf.
+5. **Kami adalah komunitas yang terbuka bagi semua usia.** Hal ini berarti bahwa konten-konten yang tergolong 18+/[NSFW](https://en.wikipedia.org/wiki/NSFW) seperti penggunaan obat-obatan terlarang dan pembahasan seksual yang berlebihan tidak dibenarkan di sini.
+6. **Hindari perbuatan tidak senonoh.** osu! bukanlah tempat yang ditujukan untuk mencari jodoh atau menggoda pengguna lain. Penggunaan bahasa, penyebaran gambar, dan bentuk-bentuk tindakan lainnya yang dapat digolongkan sebagai suatu rayuan seksual kepada anggota komunitas lainnya TIDAK dibenarkan baik di depan umum ataupun secara pribadi. Jika kamu merasa tidak nyaman dengan cara seseorang berbicara dengan kamu, [segera laporkan kepada kami secara rahasia](/wiki/Reporting_Bad_Behaviour/Abuse) agar kami dapat membantumu (dan mencegah orang lain dari hal yang serupa).
+7. **Apabila terdapat suatu masalah yang tidak terliput pada poin-poin di atas, gunakan akal sehat *(common sense)* untuk menyelesaikannya.** Pada kasus-kasus yang lebih serius, staf administratif osu! memiliki kewenangan khusus untuk menindak pihak-pihak yang dinilai telah melanggar dari sudut pandang masing-masing anggota staf.
 
 ## Peraturan In-Game Chat
 
@@ -37,10 +38,10 @@ Peraturan-peraturan berikut ini merupakan pedoman dasar yang kami terapkan di da
 
 *Catatan: Peraturan-peraturan di bawah ini berlaku untuk **semua beatmap yang diunggah ke dalam situs osu!** tanpa terbatas hanya pada beatmap yang berstatus Ranked. Untuk penjabaran lebih rinci mengenai beatmap yang berstatus Ranked, harap kunjungi [Ranking Criteria](/wiki/Ranking_Criteria).*
 
-Peraturan-peraturan di bawah ini secara ekslusif berlaku mengikat pada beatmap-beatmap yang diunggah dengan [Beatmap Submission System](/wiki/Glossary#bss) ke dalam lingkungan osu!. Sistem osu! akan secara otomatis membuat suatu laman diskusi baru di kala beatmap diunggah untuk pertama kalinya melalui [editor](/wiki/Beatmap_Editor).
+Peraturan-peraturan di bawah ini secara ekslusif berlaku mengikat pada beatmap-beatmap yang diunggah dengan [Beatmap Submission System](/wiki/Submission) ke dalam lingkungan osu!. Sistem osu! akan secara otomatis membuat suatu laman diskusi baru di kala beatmap diunggah untuk pertama kalinya melalui [editor](/wiki/Beatmap_Editor).
 
 1. **Pastikan kamu telah memiliki izin untuk menggunakan konten apapun pada beatmap yang kamu unggah.** Konten yang dimaksud di sini meliputi lagu, video, hitsound, elemen grafis, dan hal-hal lainnya yang bukan merupakan hasil ciptaanmu sendiri. Apabila kamu masih bingung dalam mencari konten-konten yang sekiranya aman untuk digunakan di dalam lingkungan osu!, kamu dapat menggunakan lagu-lagu yang telah sepenuhnya terizin secara resmi pada katalog [Featured Artist](https://osu.ppy.sh/beatmaps/artists) kami. Selain itu, kamu juga dapat mengacu pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) untuk informasi lebih lanjut.
-2. **Jangan membahas hal-hal yang tidak perlu untuk dibahas pada laman diskusi beatmap.** Laman diskusi beatmap dikhususkan untuk (dan hanya untuk) membahas hal-hal yang berkaitan dengan beatmap yang bersangkutan. Apabila kamu merasa perlu untuk membahas sesuatu yang tidak berhubungan dengan beatmap yang bersangkutan, kamu dapat membuka topik bahasan baru pada forum yang lebih sesuai.
+2. **Jangan membahas hal-hal yang tidak perlu untuk dibahas pada [laman diskusi beatmap](/wiki/Beatmap_Discussion).** Laman diskusi beatmap dikhususkan untuk (dan hanya untuk) membahas hal-hal yang berkaitan dengan beatmap yang bersangkutan. Apabila kamu merasa perlu untuk membahas sesuatu yang tidak berhubungan dengan beatmap yang bersangkutan, kamu dapat membuka topik bahasan baru pada forum yang lebih sesuai.
 3. **Tidak dibenarkan untuk menjiplak atau mencuri karya orang lain.** Lebih dari itu, kamu juga dilarang untuk mengunggah atau mempergunakan hasil kreasi orang lain atas nama sendiri tanpa izin dari pembuat karya yang bersangkutan (termasuk, namun tidak terbatas pada, skin dan tingkat kesulitan milik mapper lain).
 4. **Selalu ikuti [Aturan Konten Musik](Song_Content_Rules) dan [Pertimbangan Konten Visual](Visual_Content_Considerations).**
 
@@ -50,16 +51,16 @@ Apabila kamu terbukti telah melanggar satu atau lebih peraturan yang tertera di 
 
 Hukuman-hukuman tersebut termasuk (*tetapi tidak terbatas pada*):
 
-- Hilangnya kemampuan untuk dapat berbicara di dalam permainan dalam durasi waktu tertentu (disebut juga dengan istilah silence)
+- Hilangnya kemampuan untuk dapat berbicara di dalam permainan dalam durasi waktu tertentu (disebut juga dengan istilah [silence](/wiki/Silence))
 - Penghapusan konten-konten yang dianggap melanggar dari userpage, laman profil, atau beatmap yang diunggah olehmu
 - Hilangnya hak untuk dapat menyunting atau mengubah laman pengguna atau rincian profilmu
 - Hilangnya hak untuk dapat bermain atau berpartisipasi dalam turnamen yang diselenggarakan secara resmi
 
-Durasi silence yang kamu terima akan **secara otomatis** meningkat secara eksponensial untuk setiap pelanggaran yang kamu lakukan. Moderator tidak mengatur lamanya waktu kamu akan ter-silence karena suatu pelanggaran - semakin kamu melanggar, semakin lama pula masa hukuman yang akan kamu terima.
+Durasi [silence](/wiki/Silence) dan pelanggaran lainnya yang kamu terima akan **secara otomatis** meningkat secara eksponensial untuk setiap pelanggaran yang kamu lakukan. Moderator tidak mengatur lamanya waktu kamu akan ter-silence karena suatu pelanggaran - semakin kamu melanggar, semakin lama pula masa hukuman yang akan kamu terima.
 
-Beberapa pelanggaran tertentu yang tingkat pelanggarannya tergolong lebih berat pada umumnya memiliki durasi silence minimum yang lebih lama, yang pada standarnya adalah 48 jam atau lebih. Beberapa contoh pelanggaran ini antara lain adalah penyebaran konten yang tidak sepantasnya di ruang publik dan pelecehan terhadap pengguna lain.
+Beberapa pelanggaran tertentu yang tingkat pelanggarannya tergolong lebih berat pada umumnya memiliki durasi silence minimum yang lebih lama, yang pada standarnya adalah 42 jam atau lebih. Beberapa contoh pelanggaran ini antara lain adalah penyebaran konten yang tidak sepantasnya di ruang publik dan pelecehan terhadap pengguna lain.
 
-Apabila setelah beberapa pelanggaran kamu masih tetap melanggar aturan, akun kamu dapat langsung di-restrict secara permanen tanpa adanya opsi pengajuan banding.
+Apabila setelah beberapa pelanggaran kamu masih tetap melanggar aturan, akun kamu dapat langsung [di-restrict secara permanen tanpa adanya opsi pengajuan banding](/wiki/Help_Centre/Account_Restrictions).
 
 Akun yang di-restrict tidak dapat bermain secara online, mencanangkan skor pada leaderboard, mengobrol dengan pengguna lain, dan dalam segala maksud dan tujuan "dibatasi" dari interaksi langsung dengan anggota komunitas lainnya. Adapun status Restriction yang diakibatkan oleh pelanggaran Peraturan Komunitas di atas hanya dapat dicabut dengan mengajukan banding kepada staf setelah 3 bulan telah berlalu ([dapat berlaku lebih dalam situasi tertentu](/wiki/Help_Centre/Account_Restrictions#alasan-pembatasan-umum-dan-masa-tunggunya)).
 
