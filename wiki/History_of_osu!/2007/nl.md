@@ -60,7 +60,7 @@ De gameplay werd verbeterd met het debuut van [combo fire](/wiki/Glossary/Combo_
 
 ![](img/2007-09_05.jpg "Nieuwsbericht op een gaming website")
 
-Een korte tijd na de publieke release werden de eerste mods, [Easy](/wiki/EZ) en [No Fail](/wiki/NF), toegevoegd, evenals break secties (die tot nu toe genegeerd werden en ontbreekten). Een groot aantal veranderingen werd snel doorgevoerd waardoor osu! steeds meer op een commercieel ritmespel begon te lijken.
+Een korte tijd na de publieke release werden de eerste mods, [Easy](/wiki/Disambiguation/EZ) en [No Fail](/wiki/Game_modifier/No_Fail), toegevoegd, evenals break secties (die tot nu toe genegeerd werden en ontbreekten). Een groot aantal veranderingen werd snel doorgevoerd waardoor osu! steeds meer op een commercieel ritmespel begon te lijken.
 
 ![](img/easy.png "Easy (v1)") ![](img/no_fail.png "No Fail (v1)")
 
@@ -80,7 +80,7 @@ Het muziekselectiescherm werd verbeteringen, met groepering van moeilijkheden en
 
 ## November
 
-Een nieuwe SS-rang werd toegevoegd aan het rangschikkingsysteem, ter vervanging van de S-rang in gevallen waarin de perfectie werd bereikt. De [No Video](/wiki/NV) en [Hidden](/wiki/HD) mods werden geïntroduceerd, en de SH (zilvere S) en SSH (zilver SS) kwamen er ook bij. Voor het eerst konden spelers skins, normale en zachte samplesets per timingsectie toewijzen. `.osz-bestanden` konden nu worden geladen door er op te dubbelklikken, of door ze op het osu! icoon te slepen.
+Een nieuwe SS-rang werd toegevoegd aan het rangschikkingsysteem, ter vervanging van de S-rang in gevallen waarin de perfectie werd bereikt. De [No Video](/wiki/Game_modifier/No_Video) en [Hidden](/wiki/Game_modifier/Hidden) mods werden geïntroduceerd, en de SH (zilvere S) en SSH (zilver SS) kwamen er ook bij. Voor het eerst konden spelers skins, normale en zachte samplesets per timingsectie toewijzen. `.osz-bestanden` konden nu worden geladen door er op te dubbelklikken, of door ze op het osu! icoon te slepen.
 
 ![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
 

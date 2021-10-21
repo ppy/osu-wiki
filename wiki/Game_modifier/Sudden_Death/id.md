@@ -26,7 +26,7 @@ tags:
 
 ## Deskripsi
 
-Mod **Sudden Death** adalah sebuah [game modifier](/wiki/Game_modifier) yang akan membuat pemain gagal dalam sebuah [beatmap](/wiki/Beatmap) ketika meleset dalam mengenai sebuah [hit object](/wiki/Hit_Objects) atau gagal untuk mengumpulkan sebuah slidertick, atau pemain memperoleh miss di dalam permainan. Mod ini sangat berguna bagi pemain yang ingin mendapatkan [full combo (FC)](/wiki/Full_combo). Meskipun ada beberapa perdebatan tentang apakah penggunaan Sudden Death atau tindakan untuk percobaan ulang pada poin [combo break](/wiki/Glossary/Combobreak) pertama dapat membantu atau tidak, baik bagi pemain yang ingin meningkatkan skillnya dengan cepat.
+Mod **Sudden Death** adalah sebuah [game modifier](/wiki/Game_modifier) yang akan membuat pemain gagal dalam sebuah [beatmap](/wiki/Beatmap) ketika meleset dalam mengenai sebuah [hit object](/wiki/Hit_object) atau gagal untuk mengumpulkan sebuah slidertick, atau pemain memperoleh miss di dalam permainan. Mod ini sangat berguna bagi pemain yang ingin mendapatkan [full combo (FC)](/wiki/Full_combo). Meskipun ada beberapa perdebatan tentang apakah penggunaan Sudden Death atau tindakan untuk percobaan ulang pada poin [combo break](/wiki/Glossary/Combobreak) pertama dapat membantu atau tidak, baik bagi pemain yang ingin meningkatkan skillnya dengan cepat.
 
 Lebih spesifik, mod Sudden Death akan hanya membuat pemain gagal dalam sebuah beatmap jika hal-hal dibawah terjadi:
 

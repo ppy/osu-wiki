@@ -1,7 +1,7 @@
 # Beatmapping
 
 **Beatmapping** adalah proses pembuatan [beatmaps](/wiki/Beatmap) di osu! untuk pengguna agar dapat dimainkan.
-Ini termasuk pemilihan lagu, [timing](/wiki/Timing), peletakan [objects](/wiki/Hit_Objects), dan (opsional) [skinning](/wiki/Skinning) dan [storyboarding](/wiki/Storyboard#storyboarding).
+Ini termasuk pemilihan lagu, [timing](/wiki/Beatmap_Editor/Timing), peletakan [objects](/wiki/Hit_object), dan (opsional) [skinning](/wiki/Skinning) dan [storyboarding](/wiki/Storyboard#storyboarding).
 
 Mapper biasanya ingin beatmapnya berstatus [ranked](/wiki/Beatmap) dimana terdiri dari [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
@@ -50,7 +50,7 @@ Ini adalah tempat kamu meletakaan hit object secara visual dan mengatur beberapa
 
 ### Design
 
-*Lihat juga: [Design](/wiki/Design) dan [Storyboarding](/wiki/Storyboard#storyboarding)*
+*Lihat juga: [Design](/wiki/Beatmap_Editor/Design) dan [Storyboarding](/wiki/Storyboard#storyboarding)*
 
 Design tab di dalam beatmap editor adalah dimana kamu dapat mengatur background beatmap menggunakan gambar, video, atau membuat storyboard.
 Tergantung apa yang kamu lakukan, kamu juga dapat menggunakan tab Design untuk melakukan [SBS](/wiki/Storyboard/Scripting) (storyboard scripting).

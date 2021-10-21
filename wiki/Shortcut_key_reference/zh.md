@@ -127,7 +127,7 @@ tags:
 | 快捷键 | 功能 |
 | :-- | :-- |
 | `+` 或 `-` | 调整本地偏移（Offset）设置（按住 `Alt` 进行精确调节） |
-| `Esc` | 暂停游戏，如果在观看回放或 [Auto](/wiki/Auto)/[Cinema](/wiki/Game_modifier/Cinema) 模式中则返回歌曲选择 |
+| `Esc` | 暂停游戏，如果在观看回放或 [Auto](/wiki/Game_modifier/Auto)/[Cinema](/wiki/Game_modifier/Cinema) 模式中则返回歌曲选择 |
 | `Space` | 跳过开头/结尾部分 |
 | `Tab` | 打开/关闭排行榜 |
 | `Shift` + `Tab` | 显示/隐藏游戏时界面 |

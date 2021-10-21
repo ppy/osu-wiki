@@ -143,7 +143,7 @@ Terdapat 7 status yang dapat ditampilkan oleh perintah `!stats`: Editing, Idle, 
 !report <nama pemain> <alasan>
 ```
 
-Perintah `!report` berfungsi memberi tahu [Global Moderation Team](/wiki/Global_Moderation_Team) mengenai perilaku pemain yang tidak pantas. Jika nama pemain yang hendak dilaporkan mengandung karakter spasi, gantilah dengan garis bawah (cth. `really cool username` menjadi `really_cool_username`). Untuk melaporkan seorang moderator, silakan hubungi [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Berikut contoh hasil dari perintah tersebut:
+Perintah `!report` berfungsi memberi tahu [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) mengenai perilaku pemain yang tidak pantas. Jika nama pemain yang hendak dilaporkan mengandung karakter spasi, gantilah dengan garis bawah (cth. `really cool username` menjadi `really_cool_username`). Untuk melaporkan seorang moderator, silakan hubungi [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Berikut contoh hasil dari perintah tersebut:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

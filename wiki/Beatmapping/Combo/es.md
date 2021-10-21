@@ -12,7 +12,7 @@ tags:
 
 *Para otro usos, vea [Combo (disambiguation)](/wiki/Disambiguation/Combo).*
 
-**El Combo** (o **comboset**) se refiere a un conjunto de "Hit Circles" y "Sliders" en [osu!](/wiki/Game_mode/osu!) y [osu!catch](/wiki/Game_mode/osu!catch) [beatmaps](/wiki/Beatmap). [Hit objects](/wiki/Hit_Objects) del mismo combo, comparten un [combo colour](/wiki/Glossary/Combo_Colour) y están conectados por lineas de seguimiento. El final del combo, otorgará un bonus de [health](/wiki/Beatmapping/Health) si se completa correctamente. Cada combo comienza con un "Hit Object" marcado con un nuevo color.
+**El Combo** (o **comboset**) se refiere a un conjunto de "Hit Circles" y "Sliders" en [osu!](/wiki/Game_mode/osu!) y [osu!catch](/wiki/Game_mode/osu!catch) [beatmaps](/wiki/Beatmap). [Hit objects](/wiki/Hit_object) del mismo combo, comparten un [combo colour](/wiki/Glossary/Combo_colour) y están conectados por lineas de seguimiento. El final del combo, otorgará un bonus de [health](/wiki/Beatmapping/Health) si se completa correctamente. Cada combo comienza con un "Hit Object" marcado con un nuevo color.
 
 [osu!taiko](/wiki/Game_mode/osu!taiko) y [osu!mania](/wiki/Game_mode/osu!mania) no usan el sistema de combos.
 

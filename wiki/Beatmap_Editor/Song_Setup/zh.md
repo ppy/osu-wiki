@@ -120,7 +120,7 @@ Approach Rate 通常缩写为"**AR**"。
 
 #### 音效选择(Sample Set Selection)
 
-你可以在这里设定适合谱面 osu! 自带的音效，Normal 或 Soft 或 Drum.你也可以选择开启自定义音效([自定义音效对应表](/wiki/Custom_Sample_Overrides),必须先把音效文件放在谱面所在文件夹).
+你可以在这里设定适合谱面 osu! 自带的音效，Normal 或 Soft 或 Drum.你也可以选择开启自定义音效([自定义音效对应表](/wiki/Guides/Custom_Sample_Overrides),必须先把音效文件放在谱面所在文件夹).
 
 #### 音效音量大小(Sample Set Volume)
 

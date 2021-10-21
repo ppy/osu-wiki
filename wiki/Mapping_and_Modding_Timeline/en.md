@@ -120,7 +120,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### July
 
-- **2012-07-22:** The first iteration of [Performance Points](/wiki/Performance_Points) known as [ppv1](/wiki/Performance_points/ppv1) was established, replacing total ranked score leaderboards.
+- **2012-07-22:** The first iteration of [Performance Points](/wiki/Performance_points) known as [ppv1](/wiki/Performance_points/ppv1) was established, replacing total ranked score leaderboards.
 
 ### August
 

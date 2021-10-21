@@ -5,7 +5,7 @@ outdated: true
 
 # Skinning de l'interface
 
-*Voir aussi: [Tutoriel de skinning de l'interface](/wiki/Skinning_Interface_Tutorial) et [Interface](/wiki/Interface)*
+*Voir aussi: [Tutoriel de skinning de l'interface](/wiki/Skinning/Guides_and_important_threads) et [Interface](/wiki/Interface)*
 
 Les éléments de skinning de l'interface sont utilisés dans plusieurs modes de jeu ou sections de l'interface utilisateur du client.
 
@@ -507,7 +507,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/osu!taiko), et [osu!catch](/wiki/Game_mode/osu!catch).
+- Cet élément est spécifique à [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), et [osu!catch](/wiki/Game_mode/osu!catch).
 
 ---
 
@@ -2144,7 +2144,7 @@ Notes:
 
 Notes:
 
-- Les skins en version 2.2+ peuvent supporter les thumbnails dans l'écran de sélection (si elles sont activées dans les [options](/wiki/options)).
+- Les skins en version 2.2+ peuvent supporter les thumbnails dans l'écran de sélection (si elles sont activées dans les [options](/wiki/Options)).
   - Les thumbnails sont positionnées à 9px de la bordure gauche de l'image.
   - La taille des thumbnails est de 115x85.
 - Cet élément est utilisé à plusieurs endroits :

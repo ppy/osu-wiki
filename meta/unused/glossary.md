@@ -48,7 +48,7 @@ For more information about the timeline, see [Beat Snap Divisor](/wiki/Beatmap_E
 
 ### Beat Spacing
 
-A principle that applies to [osu!](/wiki/Game_mode/osu!). This states that the spacing of every [hit object](/wiki/Hit_Objects) (except for spinners) should be either closer, if closely placed on the timeline, or farther, if placed farther apart on the timeline.
+A principle that applies to [osu!](/wiki/Game_mode/osu!). This states that the spacing of every [hit object](/wiki/Hit_object) (except for spinners) should be either closer, if closely placed on the timeline, or farther, if placed farther apart on the timeline.
 
 ![Beat spacing basics and examples](img/Beatspacing.jpg "The fundamentals of beat spacing.")
 
@@ -169,7 +169,7 @@ This feature was later disabled on 2013-03-05 due to performance concerns.
 
 ### Combo Milestone
 
-A set of numbers that will shoot stars and display a comboburst (if enabled in the [options](/wiki/options)) after obtaining one of these milestones.
+A set of numbers that will shoot stars and display a comboburst (if enabled in the [options](/wiki/Options)) after obtaining one of these milestones.
 
 The combo milestones for osu! and osu!catch are 30, 60, 100, and multiples of 50 after 100. For osu!taiko, the combo milestones are multiples of 50. For osu!mania, the combo milestones are multiples of 100.
 
@@ -503,7 +503,7 @@ NM has two meanings:
 
 ### Nuke
 
-Any [beatmap](/wiki/Beatmap) that is considered to be disregarding the rules (or the mapper disregarding the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct)) can be nuked. Nuked beatmaps are considered "closed" until significant changes are made and the status is manually removed by a member of the team.
+Any [beatmap](/wiki/Beatmap) that is considered to be disregarding the rules (or the mapper disregarding the [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)) can be nuked. Nuked beatmaps are considered "closed" until significant changes are made and the status is manually removed by a member of the team.
 
 Examples include but are not limited to:
 
@@ -627,7 +627,7 @@ Used to refer to the group itself or one of its members.
 
 ### Quality Assurance Team
 
-The group predating the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) that managed the Ranked beatmap category. They were responsible for handling beatmap disqualifications, managing the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and other miscellaneous work in the modding and mapping scene. On 6 May, 2019, the QAT was renamed and repurposed into the NAT.
+The group predating the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) that managed the Ranked beatmap category. They were responsible for handling beatmap disqualifications, managing the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and other miscellaneous work in the modding and mapping scene. On 6 May, 2019, the QAT was renamed and repurposed into the NAT.
 
 ## R
 
@@ -661,7 +661,7 @@ Usage of this is suggested after a [BPM](#bpm) change is made, if the beatmap al
 
 ### Resnap
 
-A pair of commands under the `Timing` header of the [editor](/wiki/beatmap_editor) screen. One of which applies to the entire [beatmap](/wiki/Beatmap) and the other to the current timing section (if the beatmap has only one timing section, both commands are the same).
+A pair of commands under the `Timing` header of the [editor](/wiki/Beatmap_Editor) screen. One of which applies to the entire [beatmap](/wiki/Beatmap) and the other to the current timing section (if the beatmap has only one timing section, both commands are the same).
 
 Usage is suggested when there has been a change in offset and/or BPM, after objects have been placed. This command will automatically reposition all objects on the timeline so that they fall on the closest beat division your snap divisor allows. If used, it is important, especially if a large change in BPM and/or offset has been made, to check every object and adjust its position on the [timeline](/wiki/Beatmap_Editor/Timelines) manually, where necessary.
 
@@ -784,7 +784,7 @@ You can see a beatmap's difficulty when testing it in the editor. The star ratin
 
 ### Storyboarder
 
-A storyboarder refers to the user who makes storyboards for their own or someone else's [beatmap](/wiki/Beatmap). They may have used the editor's design section to [storyboard](/wiki/Storyboards), used a third party application, or have done [storyboard scripting](/wiki/storyboard_scripting) (or SBS).
+A storyboarder refers to the user who makes storyboards for their own or someone else's [beatmap](/wiki/Beatmap). They may have used the editor's design section to [storyboard](/wiki/Storyboard), used a third party application, or have done [storyboard scripting](/wiki/storyboard_scripting) (or SBS).
 
 ### SV
 

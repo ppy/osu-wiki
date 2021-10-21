@@ -53,7 +53,7 @@ The performance graph is a chart that displays the player's performance (based o
 
 When hovering over the performance graph, a tooltip is displayed with an `Error` and `Unstable Rate` rating.
 
-Due to the way the [DT](/wiki/Game_modifier/Double_time) (Double Time) and [HT](/wiki/Game_modifier/Half_time) (Half Time) mods are implemented, the error and unstable rate values will be multiplied by the same factor as the song. To get the true values when playing with the DT mod, divide the results by 1.5. Similarly, multiply the results by 1.33 when playing with the HT mod.
+Due to the way the [DT](/wiki/Game_modifier/Double_Time) (Double Time) and [HT](/wiki/Game_modifier/Half_Time) (Half Time) mods are implemented, the error and unstable rate values will be multiplied by the same factor as the song. To get the true values when playing with the DT mod, divide the results by 1.5. Similarly, multiply the results by 1.33 when playing with the HT mod.
 
 #### Error
 

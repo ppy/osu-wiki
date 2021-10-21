@@ -14,7 +14,7 @@ Les cercles sont sur l'écran du bas, et l'histoire sur l'écran du haut. Chaque
 
 *Explication complète: [osu!](/wiki/Game_mode/osu!)*
 
-La majorité des joueurs n'ayant pas d'écran tactile, le jeu a été fait pour être joué avec une souris, ainsi que l'utilisation d'une variété d'appareils de pointage. Différents styles de jeu peuvent être trouvés sur la page des [styles de jeu](/wiki/Play_Styles). Il y a quelques musiques qui vont pousser la souris et le joueur à leurs limites, mais toutes les beatmaps (classées ou approuvées) ont été testées et (la plupart) sont passables en utilisant seulement la souris.
+La majorité des joueurs n'ayant pas d'écran tactile, le jeu a été fait pour être joué avec une souris, ainsi que l'utilisation d'une variété d'appareils de pointage. Différents styles de jeu peuvent être trouvés sur la page des [styles de jeu](/wiki/Play_style). Il y a quelques musiques qui vont pousser la souris et le joueur à leurs limites, mais toutes les beatmaps (classées ou approuvées) ont été testées et (la plupart) sont passables en utilisant seulement la souris.
 
 #### Bases du gameplay
 
