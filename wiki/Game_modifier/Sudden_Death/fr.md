@@ -27,7 +27,7 @@ tags:
 
 ## Description
 
-Le mod **Sudden Death** est un [modificateur de jeu](/wiki/Game_modifier) qui permet aux joueurs d'échouer une [beatmap](/wiki/Beatmap) lorsqu'ils manquent un [objet](/wiki/Hit_Objects) ou ne parviennent pas à collecter un tick de slider. Ceci est utile pour les joueurs qui tentent un [full combo (FC)](/wiki/Full_combo). Bien qu'il y ait un débat quant à savoir si l'utilisation du mod Sudden Death ou le fait de réessayer au premier [combo break](/wiki/Glossary/Combobreak) est utile ou nuisible pour les joueurs qui veulent s'améliorer rapidement.
+Le mod **Sudden Death** est un [modificateur de jeu](/wiki/Game_modifier) qui permet aux joueurs d'échouer une [beatmap](/wiki/Beatmap) lorsqu'ils manquent un [objet](/wiki/Hit_object) ou ne parviennent pas à collecter un tick de slider. Ceci est utile pour les joueurs qui tentent un [full combo (FC)](/wiki/Full_combo). Bien qu'il y ait un débat quant à savoir si l'utilisation du mod Sudden Death ou le fait de réessayer au premier [combo break](/wiki/Glossary/Combobreak) est utile ou nuisible pour les joueurs qui veulent s'améliorer rapidement.
 
 Pour être plus précis, le mod Sudden Death **ne fera échouer** la beatmap que si l'une des situations suivantes se produit :
 

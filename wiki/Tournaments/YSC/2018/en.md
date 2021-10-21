@@ -55,10 +55,10 @@ Yaz's Summer Cup 2018 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/745617)
-- [Challonge](https://challonge.com/YSC2018 "Challonge")
-- [Discord](https://discord.gg/brQzjbb "Discord")
-- [Livestream](https://www.twitch.tv/summer_cup_osu "Twitch")
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1WtnGJAAhkwrYsQgado0hciHonb4FTULREGJ8_yRw6zA/edit?usp=sharing "Google Sheets")
+- [Challonge](https://challonge.com/YSC2018)
+- [Discord](https://discord.gg/brQzjbb)
+- [Livestream](https://www.twitch.tv/summer_cup_osu)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1WtnGJAAhkwrYsQgado0hciHonb4FTULREGJ8_yRw6zA/edit?usp=sharing)
 
 ## Participants
 
@@ -81,7 +81,7 @@ Yaz's Summer Cup 2018 was run by various community members.
 | Group O | ![][flag_US] **[fieryrage](https://osu.ppy.sh/users/3533958)**, ![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106), ![][flag_DE] [respektive](https://osu.ppy.sh/users/1023489) |
 | Group P | ![][flag_RO] **[Chamosiala](https://osu.ppy.sh/users/1469892)**, ![][flag_CN] **[davidqu2](https://osu.ppy.sh/users/6090175)**, ![][flag_US] [Cappy](https://osu.ppy.sh/users/6668666), ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) |
 
-See the [participants sheet](https://docs.google.com/spreadsheets/d/1WtnGJAAhkwrYsQgado0hciHonb4FTULREGJ8_yRw6zA/edit#gid=1453703532 "Google Sheets") for a list of all 124 initial participants.
+See the [participants sheet](https://docs.google.com/spreadsheets/d/1WtnGJAAhkwrYsQgado0hciHonb4FTULREGJ8_yRw6zA/edit#gid=1453703532) for a list of all 124 initial participants.
 
 ## Podium
 
@@ -240,7 +240,7 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   - [MY FIRST STORY - START OVER (Saut) [Extreme]](https://osu.ppy.sh/beatmapsets/294063#osu/661286)
-  - [celas - Azul (Remix) (N a s y a) [Extra]](https://api.chimu.moe/v1/download/302545?n=1 "Chimu.moe")
+  - [celas - Azul (Remix) (N a s y a) [Extra]](https://api.chimu.moe/v1/download/302545?n=1)
   - [Yousei Teikoku - Kuusou Mesorogiwi (Saten) [DEAD END]](https://osu.ppy.sh/beatmapsets/40873#osu/139525)
   - [YUC'e - Sengoku HOP (Nathan) [Gamu's Extra]](https://osu.ppy.sh/beatmapsets/564329#osu/1475812)
   - [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro (Shiirn) [Decay]](https://osu.ppy.sh/beatmapsets/436978#osu/941044)

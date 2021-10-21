@@ -73,7 +73,7 @@ Recommended for older PCs or for conserving battery on a laptop.
 
 This frame limiter attempts to keep a frame rate 8x your refresh rate, with a maximum of 960 FPS. This is our recommended frame limiter for users who don’t want to run their CPU/GPU to extremities, while maintaining high levels of performance resulting in low input latency.
 
-Can be preferred to unlimited in order to reduce the number of frames rendered, in turn leading to less potential for [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science) "Wikipedia") overhead (which can result in spike frames).
+Can be preferred to unlimited in order to reduce the number of frames rendered, in turn leading to less potential for [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)) overhead (which can result in spike frames).
 
 ### Unlimited
 
@@ -81,7 +81,7 @@ This is a frame limiter which does nothing to limit the frame rate. osu! will re
 
 While this may seem like the best option (and indeed can be, if your hardware can support it), there are a few things you should consider:
 
-- By rendering more frames, there’s a higher potential of overhead from [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science) "Wikipedia").
+- By rendering more frames, there’s a higher potential of overhead from [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)).
 - By pushing your CPU and GPU to the limit, there’s a chance they will throttle, lowering your overall performance.
 - GPUs generally aren’t meant to render 1000+ frames per second, so unexpected behaviour may occur, including lower performance or higher latency than otherwise attainable.
 

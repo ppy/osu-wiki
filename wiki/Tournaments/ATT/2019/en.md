@@ -46,9 +46,9 @@ The Ausu!Taiko Tournament 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/919873)
-- [Livestream](https://www.twitch.tv/drumdecimator "Twitch")
-- [Challonge bracket](https://challonge.com/ausutaiko2019 "Challonge")
-- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1ooMPds3EA82u3fcKPo3PCV-3llFzhLGbQIlwtV-Cto4/edit?usp=sharing "Google Sheets")
+- [Livestream](https://www.twitch.tv/drumdecimator)
+- [Challonge bracket](https://challonge.com/ausutaiko2019)
+- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1ooMPds3EA82u3fcKPo3PCV-3llFzhLGbQIlwtV-Cto4/edit?usp=sharing)
 
 ## Participants
 
@@ -377,5 +377,5 @@ Monday, 15 July 2019:
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philipipnes"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"

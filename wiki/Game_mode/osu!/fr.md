@@ -11,7 +11,7 @@ Le premier mode de jeu basé sur la série Ouendan.
 
 ## Qu'est-ce que "Ouendan"?
 
-*[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* est un jeu de rythme pour la *Nintendo DS*. Le gameplay se compose de seulement trois éléments : taper des cercles sur l’écran tactile, faire glisser une balle sur une trajectoire fixe et faire pivoter un spinner très rapidement. Tous ces éléments sont adaptés pour reprendre le rythme de chansons japonaises populaires. Voici a quoi ressemble le jeu sur *Nintendo DS*:
+*[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* est un jeu de rythme pour la *Nintendo DS*. Le gameplay se compose de seulement trois éléments : taper des cercles sur l’écran tactile, faire glisser une balle sur une trajectoire fixe et faire pivoter un spinner très rapidement. Tous ces éléments sont adaptés pour reprendre le rythme de chansons japonaises populaires. Voici a quoi ressemble le jeu sur *Nintendo DS*:
 
 ![Exemple de gameplay de osu! Tatakae! Ouendan sur Nintendo DS](/wiki/shared/Ouendan.jpg "Exemple de gameplay de osu! Tatakae! Ouendan sur Nintendo DS")
 
@@ -83,7 +83,7 @@ Sur la *DS*, c’est un bon moyen de rayer l’écran tactile (ou le protecteur 
 
 ## Styles de jeu
 
-*[Reportez-vous à la page Styles de jeu dans osu!](/wiki/Play_Styles).*
+*[Reportez-vous à la page Styles de jeu dans osu!](/wiki/Play_style).*
 
 ## Contrôles
 

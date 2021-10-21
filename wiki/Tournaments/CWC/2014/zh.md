@@ -45,8 +45,8 @@ outdated: true
 
 ## 外部链接
 
-- [osu! Catch the Beat World Cup 2014 Twitch 直播室](https://www.twitch.tv/osulive "Twitch")
-- [注册表单](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI "Google Forms")
+- [osu! Catch the Beat World Cup 2014 Twitch 直播室](https://www.twitch.tv/osulive)
+- [注册表单](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
 - [讨论帖](https://osu.ppy.sh/community/forums/topics/200185)
 
 ## 淘汰赛对阵
@@ -158,7 +158,7 @@ outdated: true
 
 ### 16强比赛
 
-**[下载图包](https://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar "MediaFire")**
+**[下载图包](https://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar)**
 
 - NoMod
   - [goreshit - Satori De Pon! (eldnl) \[Fruitcore\]](https://osu.ppy.sh/beatmapsets/134990#fruits/338326)
@@ -192,7 +192,7 @@ outdated: true
 
 ### 小组赛
 
-**[下载图包](https://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar "MediaFire")**
+**[下载图包](https://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar)**
 
 - NoMod
   - [LeaF - MEPHISTO (Alumetorz) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/106212#fruits/298908)
@@ -254,7 +254,7 @@ outdated: true
    - 队伍中最多只能有六名队员。
    - 同时，需要指定一名队长（最好会英语）。
 2. 每个队伍代表一个国家/地区。确保你的队员都来自同一个国家/地区。
-3. 如果需要注册，[请先填写这个表格](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit "Google Forms")（英文），然后[向 Loctav 私信](https://osu.ppy.sh/home/messages/users/71366)，发送一个标题为“CWC Registration”的确认信息。
+3. 如果需要注册，[请先填写这个表格](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit)（英文），然后[向 Loctav 私信](https://osu.ppy.sh/home/messages/users/71366)，发送一个标题为“CWC Registration”的确认信息。
    - 如果需要修改队员，请联系[Loctav](https://osu.ppy.sh/home/messages/users/71366).
    - 在注册成功的时候，你会收到一个确认信息，以确认你的队员。
 4. 为了确保注册的队伍的准确性，赛事管理会进行任何的改动检查。

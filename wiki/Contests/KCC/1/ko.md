@@ -104,7 +104,7 @@ tags:
 - **Creativity (25 pts):** 다른 맵과 비교했을 때 플레이성 면에서 독창성과 특별함을 가지고 있는가
 - **Judge's Impression (25 pts):** 심사위원들의 개인적 선호도를 나타내는 점수
 
-[flag_CA]: /wiki/shared/flag/CA.gif "캐나다"
-[flag_GT]: /wiki/shared/flag/GT.gif "과테말라"
-[flag_KR]: /wiki/shared/flag/KR.gif "대한민국"
-[flag_PL]: /wiki/shared/flag/PL.gif "폴란드"
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_GT]: /wiki/shared/flag/GT.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_PL]: /wiki/shared/flag/PL.gif

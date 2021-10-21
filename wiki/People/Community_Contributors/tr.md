@@ -4,7 +4,7 @@
 
 **Topluluk İştirakçileri** *(Community Contributors)* osu! topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
 
-Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) ile karıştırılmamalıdır. Topluluk İştirakçisi rozetleri osu! ve topluluk çevresini iyileştirmek adına kendilerinden beklenenden çok daha fazlasını ortaya koyan kamuya açık bağımsız çalışan kişilere verilir.
+osu! ekibinin emektar eski üyelerinden oluşan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) ile karıştırılmamalıdır. Topluluk İştirakçisi rozetleri osu! ve topluluk çevresini iyileştirmek adına kendilerinden beklenenden çok daha fazlasını ortaya koyan kamuya açık bağımsız çalışan kişilere verilir.
 
 ## 2013
 

@@ -45,7 +45,7 @@ Links:
 
 ## May
 
-osu!catch World Cup 2017 was opened for registrations. [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) was featured as another artist of osu!. osu! was announced to be at Anime Expo 2017. In almost over a whole year, the osu!taiko mascot was announced. [Mocha](/wiki/Mocha) has entered the scene with [pippi](/wiki/pippi), [Yuzu](/wiki/Yuzu), and [Maria](/wiki/Maria). Lastly, [Rin / Function Phantom](https://osu.ppy.sh/beatmaps/artists/14) was announced to be part of the featured artists of osu!. Voting for both osu!mania and osu!catch beatmapping contests were opened.
+osu!catch World Cup 2017 was opened for registrations. [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) was featured as another artist of osu!. osu! was announced to be at Anime Expo 2017. In almost over a whole year, the osu!taiko mascot was announced. [Mocha](/wiki/Mascots#-mocha) has entered the scene with [pippi](/wiki/Mascots#-pippi), [Yuzu](/wiki/Mascots#-yuzu), and [Maria](/wiki/Mascots#-maria). Lastly, [Rin / Function Phantom](https://osu.ppy.sh/beatmaps/artists/14) was announced to be part of the featured artists of osu!. Voting for both osu!mania and osu!catch beatmapping contests were opened.
 
 - [osu!catch World Cup 2017 - Registrations now open!](https://osu.ppy.sh/home/news/2017-05-03-osucatch-world-cup-2017-registrations-now-open)
 - [osu! at anime expo 2017](https://osu.ppy.sh/home/news/2017-05-09-osu-at-anime-expo-2017)
@@ -55,7 +55,7 @@ osu!catch World Cup 2017 was opened for registrations. [Kuba Oms](https://osu.pp
 
 ## June
 
-The osu!team participates in Anime Expo for the upcoming 10 years of osu!. On 2017-06-15, the main menu/playfield image has been changed to four generic, but new, images. The playfield image changes when the current song is changed. Support for enabling or disabling the seasonal backgrounds all year round or sometimes seeing them has been added to the [Options](/wiki/Options). Somewhere around this month, inside the osu!dev Discord, the osu!weekly was discussed to have been dead. From this point forward, each official and community news post will be posted independently when it is ready, rather than waiting every week. The Mocha in Summer fanart contest began.
+The osu! team participates in Anime Expo for the upcoming 10 years of osu!. On 2017-06-15, the main menu/playfield image has been changed to four generic, but new, images. The playfield image changes when the current song is changed. Support for enabling or disabling the seasonal backgrounds all year round or sometimes seeing them has been added to the [Options](/wiki/Options). Somewhere around this month, inside the osu!dev Discord, the osu!weekly was discussed to have been dead. From this point forward, each official and community news post will be posted independently when it is ready, rather than waiting every week. The Mocha in Summer fanart contest began.
 
 Links:
 
@@ -77,7 +77,7 @@ Links:
 
 ## August
 
-[Wisp X](https://osu.ppy.sh/beatmaps/artists/16) and [OISHII](https://osu.ppy.sh/beatmaps/artists/17) were announced as new featured artists. osu!idol 2017 auditions opened. The osu! Coffee Hour was introduced as a pod cast. An overhaul for [Yuzu's](/wiki/Yuzu) new look was opened as a fanart contest.
+[Wisp X](https://osu.ppy.sh/beatmaps/artists/16) and [OISHII](https://osu.ppy.sh/beatmaps/artists/17) were announced as new featured artists. osu!idol 2017 auditions opened. The osu! Coffee Hour was introduced as a pod cast. An overhaul for [Yuzu's](/wiki/Mascots#-yuzu) new look was opened as a fanart contest.
 
 Links:
 

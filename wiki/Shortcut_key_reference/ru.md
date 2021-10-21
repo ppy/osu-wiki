@@ -6,7 +6,7 @@ outdated: true
 
 В osu! есть множество горячих клавиш, которые можно использовать как в игре, так и в режиме ожидания на любом игровом экране. Все они перечислены в списке следующим далее.
 
-**Заметка:** некоторые из комбинаций можно поменять в [настройках](/wiki/options)! Используемые в данном списке сочетания клавиш установлены по умолчанию.
+**Заметка:** некоторые из комбинаций можно поменять в [настройках](/wiki/Options)! Используемые в данном списке сочетания клавиш установлены по умолчанию.
 
 ## Общие
 
@@ -23,7 +23,7 @@ outdated: true
 - `F12`: Сделать скриншот
 - `Shift` + `F12`: Сделать скриншот и загрузить скриншот на сервер для отправки
 - `Insert`: ([Кнопка-антибосс](https://en.wikipedia.org/wiki/Boss_key)) Свернуть клиент osu! в трей
-- `Shift` + `F1`: Открывает [osu!status](https://twitter.com/osustatus "osu!status в Twitter") (когда появляется ошибка подключения)
+- `Shift` + `F1`: Открывает [osu!status](https://twitter.com/osustatus) (когда появляется ошибка подключения)
 
 ## Главное меню
 
@@ -62,7 +62,7 @@ outdated: true
 
 ## Выбор песен
 
-Заметка: Не все из них работают на экране выбора песен во время [мультиплеера](/wiki/multi).
+Заметка: Не все из них работают на экране выбора песен во время [мультиплеера](/wiki/Multi).
 
 - `Alt` + `Стрелка вверх`: Увеличить громкость
 - `Alt` + `Стрелка вниз`: Уменьшить громкость
@@ -72,12 +72,12 @@ outdated: true
 - `F3`: Настройки карты
 - `F5`: Переиндексировать карты (может показать диалог)
 - `Shift` + `Delete`: Удалить выбранную карту
-- `Ctrl` + `1`: Переключиться в [osu!](/wiki/osu!)
-- `Ctrl` + `2`: Переключиться в [osu!taiko](/wiki/osu!taiko)
-- `Ctrl` + `3`: Переключиться в [osu!catch](/wiki/osu!catch)
-- `Ctrl` + `4`: Переключиться в [osu!mania](/wiki/osu!mania)
-- `Ctrl` + `Enter`: Сыграть выбранную карту с модом [Auto](/wiki/Auto)
-- `Ctrl` + `Shift` + `Enter`: Сыграть выбранную карту с модом [Cinema](/wiki/Cinema)
+- `Ctrl` + `1`: Переключиться в [osu!](/wiki/Disambiguation/osu!)
+- `Ctrl` + `2`: Переключиться в [osu!taiko](/wiki/Game_mode/osu!taiko)
+- `Ctrl` + `3`: Переключиться в [osu!catch](/wiki/Game_mode/osu!catch)
+- `Ctrl` + `4`: Переключиться в [osu!mania](/wiki/Game_mode/osu!mania)
+- `Ctrl` + `Enter`: Сыграть выбранную карту с модом [Auto](/wiki/Game_modifier/Auto)
+- `Ctrl` + `Shift` + `Enter`: Сыграть выбранную карту с модом [Cinema](/wiki/Game_modifier/Cinema)
 - `Ctrl` + `A`: Включить/выключить мод Auto
 - `Ctrl` + `F3`: Увеличить скорость osu!mania (работает только в режиме osu!mania)
   - или: `Ctrl` + `+`
@@ -103,39 +103,39 @@ outdated: true
 
 - Справка снизу предполагает, что никакие моды не выбраны в данный момент.
 - Некоторые моды требуют двойного нажатия на кнопку.
-- `Q`: [Easy](/wiki/Easy_mod)
-- `W`: [No Fail](/wiki/No_Fail)
-- `E`: [Half Time](/wiki/Half_Time)
+- `Q`: [Easy](/wiki/Game_modifier/Easy)
+- `W`: [No Fail](/wiki/Game_modifier/No_Fail)
+- `E`: [Half Time](/wiki/Game_modifier/Half_Time)
 
 ---
 
-- `A`: [Hard Rock](/wiki/Hard_Rock)
-- `S`: [Sudden Death](/wiki/Sudden_Death)
-- `S`, затем `S`: [Perfect](/wiki/Perfect)
-- `D`: [Double Time](/wiki/Double_Time)
-- `D`, затем `D`: [Nightcore](/wiki/Nightcore)
-- `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, и osu!catch)
-  - эта кнопка будет включать/выключать [Fade In](/wiki/Fade_In) для osu!mania
-- `F`, затем `F`: [Hidden](/wiki/Hidden) (только в osu!mania)
-- `G`: [Flashlight](/wiki/Flashlight)
+- `A`: [Hard Rock](/wiki/Game_modifier/Hard_Rock)
+- `S`: [Sudden Death](/wiki/Game_modifier/Sudden_Death)
+- `S`, затем `S`: [Perfect](/wiki/Game_modifier/Perfect)
+- `D`: [Double Time](/wiki/Game_modifier/Double_Time)
+- `D`, затем `D`: [Nightcore](/wiki/Game_modifier/Nightcore)
+- `F`: [Hidden](/wiki/Game_modifier/Hidden) (osu!, osu!taiko, и osu!catch)
+  - эта кнопка будет включать/выключать [Fade In](/wiki/Game_modifier/Fade_In) для osu!mania
+- `F`, затем `F`: [Hidden](/wiki/Game_modifier/Hidden) (только в osu!mania)
+- `G`: [Flashlight](/wiki/Game_modifier/Flashlight)
 
 ---
 
-- `X`: [Relax](/wiki/Relax)
-- `C`: [Auto Pilot](/wiki/Auto_Pilot)
-- `V`: [Spun Out](/wiki/Spun_Out)
+- `X`: [Relax](/wiki/Game_modifier/Relax)
+- `C`: [Auto Pilot](/wiki/Game_modifier/Autopilot)
+- `V`: [Spun Out](/wiki/Game_modifier/Spun_Out)
 - `B`: Auto
 - `B`, затем `B`: Cinema
 
 ---
 
-- `3`: [3K](/wiki/3K) (только в osu!mania)
-- `4`: [4K](/wiki/4K) (только в osu!mania)
-- `5`: [5K](/wiki/5K) (только в osu!mania)
-- `6`: [6K](/wiki/6K) (только в osu!mania)
-- `7`: [7K](/wiki/7K) (только в osu!mania)
-- `8`: [8K](/wiki/8K) (только в osu!mania)
-- `9`: [9K](/wiki/9K) (только в osu!mania)
+- `3`: [3K](/wiki/Game_modifier/xK) (только в osu!mania)
+- `4`: [4K](/wiki/Game_modifier/xK) (только в osu!mania)
+- `5`: [5K](/wiki/Game_modifier/xK) (только в osu!mania)
+- `6`: [6K](/wiki/Game_modifier/xK) (только в osu!mania)
+- `7`: [7K](/wiki/Game_modifier/xK) (только в osu!mania)
+- `8`: [8K](/wiki/Game_modifier/xK) (только в osu!mania)
+- `9`: [9K](/wiki/Game_modifier/xK) (только в osu!mania)
 
 ## Режим игры
 
@@ -175,10 +175,10 @@ outdated: true
 - `Ctrl` + `Shift` + `Стрелка вниз`: Замедлить скорость воспроизведения на 5%
 - `Ctrl` + `Up`: Увеличить скорость воспроизведения на 25%
 - `Ctrl` + `Shift` + `Стрелка вверх`: Увеличить скорость воспроизведения на 5%
-- `F1`: Переключиться в режим ["Compose"](/wiki/Compose) (Композиция)
-- `F2`: Переключиться в режим ["Design"](/wiki/Design) (Дизайн)
-- `F3`: Переключиться в режим ["Timing"](/wiki/Timing) (Настройка темпа)
-- `F4`: Открыть [настройки песни](/wiki/Song_Setup) (открывает диалог)
+- `F1`: Переключиться в режим ["Compose"](/wiki/Beatmap_Editor/Compose) (Композиция)
+- `F2`: Переключиться в режим ["Design"](/wiki/Beatmap_Editor/Design) (Дизайн)
+- `F3`: Переключиться в режим ["Timing"](/wiki/Beatmap_Editor/Timing) (Настройка темпа)
+- `F4`: Открыть [настройки песни](/wiki/Beatmap_Editor/Song_Setup) (открывает диалог)
 - `F5`: Открыть режим тестирования
 - `F6`: Открыть панель настроки тайминга
 
@@ -265,7 +265,7 @@ outdated: true
 
 ### Тайминг
 
-- `T`: Отбить [BPM](/wiki/BPM)/оффсет
+- `T`: Отбить [BPM](/wiki/Beatmapping/Beats_per_minute)/оффсет
   - Вы должны нажимать на кнопку с постоянной скоростью.
 - `Shift`, настраивая BPM/offset: 4x-кратная скорость
 - `Ctrl` + `B`: Сбросить текущую точку тайминга

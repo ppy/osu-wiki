@@ -59,7 +59,7 @@ Kısımlar: [Oluştur](/wiki/Beatmap_Editor/Compose) • [Dizayn](/wiki/Beatmap_
 
 # Topluluk
 
-[Turnuvalar](/wiki/Tournaments) • [Tema oluşturma](/wiki/Skinning) • [Projeler](/wiki/Projects) • [Rehberler](/wiki/Guides) • [osu!dev Discord sunucusu](/wiki/osu!dev_Discord_server) • [Nasıl yardım edebilirsiniz](/wiki/How_You_Can_Help!) • [Sözlük](/wiki/Glossary)
+[Turnuvalar](/wiki/Tournaments) • [Tema oluşturma](/wiki/Skinning) • [Projeler](/wiki/Projects) • [Rehberler](/wiki/Guides) • [osu!dev Discord sunucusu](/wiki/osu!dev_Discord_server) • [Nasıl yardım edebilirsiniz](/wiki/How_you_can_help!) • [Sözlük](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -84,7 +84,7 @@ Organizasyonlar: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # Wiki hakkında
 
-[Site haritası](/wiki/Sitemap) • [Katkı rehberi](/wiki/osu!_wiki_Contribution_Guide) • [Makale biçimlendirme kriterleri](/wiki/Article_Styling_Criteria) • [Haber gönderisi biçimlendirme kriterleri](/wiki/News_Styling_Criteria)
+[Site haritası](/wiki/Sitemap) • [Katkı rehberi](/wiki/osu!_wiki/Contribution_guide) • [Makale biçimlendirme kriterleri](/wiki/Article_styling_criteria) • [Haber gönderisi biçimlendirme kriterleri](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

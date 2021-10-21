@@ -2,7 +2,7 @@
 
 # News styling criteria
 
-*For wiki articles, see: [Article Styling Criteria](/wiki/Article_Styling_Criteria)*
+*For wiki articles, see: [Article Styling Criteria](/wiki/Article_styling_criteria)*
 
 News articles exist on a slightly different system to the main osu! wiki, but follow similar principles. Writing them involves careful attention to a few key features and formats as outlined below.
 
@@ -116,7 +116,7 @@ Images used in news articles must be in JPG format at quality 9 (90) to quality 
 
 Images must be under 2 megabytes or they will fail to load.
 
-All images must be optimised as much as possible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive "GitHub") to compress JPEG images. For consistency, use the following command for jpeg-archive:
+All images must be optimised as much as possible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) to compress JPEG images. For consistency, use the following command for jpeg-archive:
 
 ```
 jpeg-recompress -am smallfry <input> <output>

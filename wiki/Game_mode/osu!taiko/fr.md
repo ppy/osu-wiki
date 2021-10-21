@@ -2,7 +2,7 @@
 
 ![Gameplay d'osu!taiko](/wiki/shared/taiko-gameplay.jpg "Interface osu!taiko")
 
-osu!taiko est un mode de jeu dans osu! qui reprend *quelques* éléments du jeux de rythme japonais, [Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia") (sorti sous le nom de [Taiko: Drum Master](http://fr.wikipedia.org/wiki/Taiko:_Drum_Master "Wikipedia") en Amérique du Nord).
+osu!taiko est un mode de jeu dans osu! qui reprend *quelques* éléments du jeux de rythme japonais, [Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin) (sorti sous le nom de [Taiko: Drum Master](http://fr.wikipedia.org/wiki/Taiko:_Drum_Master) en Amérique du Nord).
 
 ## ![](/wiki/shared/mode/taiko.png) Gameplay
 
@@ -61,7 +61,7 @@ Cela ne va pas incrémenter le compteur de combo, et cela ne va pas faire regagn
 
 ## Style de jeu
 
-*[Reportez vous à la page Style de jeu dans osu!taiko](/wiki/Play_Styles).*
+*[Reportez vous à la page Style de jeu dans osu!taiko](/wiki/Play_style).*
 
 ## Contrôles
 

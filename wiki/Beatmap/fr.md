@@ -18,7 +18,7 @@ Une **beatmap** (parfois appelée *beatmapset*) est un ensemble de niveaux ([dif
 
 ## Difficulté
 
-*Article principal: [Difficultés](/wiki/Difficulties)*
+*Article principal: [Difficultés](/wiki/Beatmap/Difficulty)*
 
 Une *difficulté* est un fichier avec [l'extension `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) qui décrit le positionnement des éléments d'une beatmap, des hitsounds et d'effets spéciaux comme le [kiai time](/wiki/Kiai_time). Elle contient également des [paramètres de difficulté](/wiki/Beatmap_Editor/Song_Setup#difficulty) et d'autres paramètres qui affectent directement le jeu. Les difficultés d'une beatmap ont des structures différentes et peuvent parfois n'être jouées que dans un seul [mode de jeu](/wiki/Game_mode). Le système de [notation par étoile](/wiki/Beatmapping/Star_rating) est utilisé pour se donner une idée du niveau requis pour jouer une difficulté.
 
@@ -73,10 +73,10 @@ Les beatmaps qui ont été classées le même mois ou qui partagent le même th�
 
 ### Sources non officielles
 
-Il existe également d'autres sources de beatmaps, qui ne sont **ni vérifiées ni administrées par l'osu!team**. Cependant, elles sont disponibles sur les forums et sont appréciées par la communauté. Ces sources incluent:
+Il existe également d'autres sources de beatmaps, qui ne sont **ni vérifiées ni administrées par l'équipe du jeu**. Cependant, elles sont disponibles sur les forums et sont appréciées par la communauté. Ces sources incluent:
 
 - des plateformes de téléchargements de beatmaps hébergées par des tiers;
-- des packs fait par des joueurs et des compilations partagées via [des réseaux peer-to-peer](https://fr.wikipedia.org/wiki/Pair-à-pair "Wikipédia"), tels que BitTorrent.
+- des packs fait par des joueurs et des compilations partagées via [des réseaux peer-to-peer](https://fr.wikipedia.org/wiki/Pair-à-pair), tels que BitTorrent.
 
 ## Beatmaps et la communauté
 
@@ -109,4 +109,4 @@ La communauté d'osu! organise régulièrement différents concours pour promouv
 
 *Page principale: [Artistes associés](/wiki/Featured_Artists)*
 
-Les artistes associés (Featured Artists) est un programme de l'[osu!team](/wiki/People/The_Team) visant à licencier la musique de différents artistes pour osu!, les rendant ainsi disponible au mapping. La [liste des artistes associés](https://osu.ppy.sh/beatmaps/artists) du site internet présente chaque artiste impliqué et fournit des modèles pré-paramétrés pour le mapping.
+Les artistes associés (Featured Artists) est un programme de l'[équipe du jeu](/wiki/People/The_Team) visant à licencier la musique de différents artistes pour osu!, les rendant ainsi disponible au mapping. La [liste des artistes associés](https://osu.ppy.sh/beatmaps/artists) du site internet présente chaque artiste impliqué et fournit des modèles pré-paramétrés pour le mapping.

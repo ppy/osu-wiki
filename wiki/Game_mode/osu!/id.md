@@ -10,7 +10,7 @@ Mode permainan pertama yang namanya terinspirasi dan didasari dari seri Ouendan.
 
 ## Apa itu "Ouendan"?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* merupakan sebuah permainan pada konsol *Nintendo DS* yang mendasari dan menginspirasi awal terbentuknya osu!. Permainan tersebut pada intinya hanya didasari pada tiga aturan yang harus kamu ikuti di dalamnya: sentuh circle-circle yang muncul pada layar, ikuti slider-slider sesuai dengan alur yang tergambar, dan putar spinner yang ada secepat mungkin. Elemen-elemen yang ada di dalam permainan tersebut akan secara silih berganti muncul di dalam layar permainan sejalan dengan irama yang hadir dari lagu yang sedang dimainkan. Permainan tersebut tampak seperti ini pada layar *DS*:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* merupakan sebuah permainan pada konsol *Nintendo DS* yang mendasari dan menginspirasi awal terbentuknya osu!. Permainan tersebut pada intinya hanya didasari pada tiga aturan yang harus kamu ikuti di dalamnya: sentuh circle-circle yang muncul pada layar, ikuti slider-slider sesuai dengan alur yang tergambar, dan putar spinner yang ada secepat mungkin. Elemen-elemen yang ada di dalam permainan tersebut akan secara silih berganti muncul di dalam layar permainan sejalan dengan irama yang hadir dari lagu yang sedang dimainkan. Permainan tersebut tampak seperti ini pada layar *DS*:
 
 ![Contoh tampilan permainan Osu! Tatakae! Ouendan pada layar Nintendo DS](/wiki/shared/Ouendan.jpg "Contoh tampilan permainan Osu! Tatakae! Ouendan pada layar Nintendo DS")
 
@@ -80,7 +80,7 @@ Pada kotak kecil yang terdapat pada bagian bawah layar, kamu dapat melihat seber
 
 ## Play style
 
-*Mohon lihat laman [Gaya permainan](/wiki/Play_Styles) untuk informasi lebih lanjut seputar gaya-gaya permainan yang umum digunakan di osu!.*
+*Mohon lihat laman [Gaya permainan](/wiki/Play_style) untuk informasi lebih lanjut seputar gaya-gaya permainan yang umum digunakan di osu!.*
 
 ## Kontrol
 

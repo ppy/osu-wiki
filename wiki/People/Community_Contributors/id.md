@@ -4,7 +4,7 @@
 
 **Kontributor Komunitas** adalah orang-orang yang meluangkan waktunya untuk melayani komunitas osu! dengan pengorbanan diri mereka sendiri - alat dan fitur yang banyak dari kita anggap remeh namun berguna hingga hari ini. Pengguna ini diberi lencana sebagai bukti atas kontribusi mereka yang telah melakukan sesuatu bagi seluruh komunitas osu!.
 
-Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), yang merupakan anggota osu!team yang sudah pensiun, lencana Kontributor Komunitas ini diberikan kepada *freelancer* yang telah melampaui ekspektasi dan tugas yang diberikan demi meningkatkan osu! dan komunitasnya.
+Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), yang merupakan anggota tim inti osu! yang sudah pensiun, lencana Kontributor Komunitas ini diberikan kepada *freelancer* yang telah melampaui ekspektasi dan tugas yang diberikan demi meningkatkan osu! dan komunitasnya.
 
 ## 2013
 
@@ -197,7 +197,7 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Swiss"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_CN]: /wiki/shared/flag/CN.gif "Cina"
+[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
@@ -214,7 +214,7 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Selandia Baru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
-[flag_RU]: /wiki/shared/flag/RU.gif "Federasi Rusia"
+[flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
 [flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

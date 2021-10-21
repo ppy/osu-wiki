@@ -46,15 +46,15 @@ The OUKT4 was run by various community members
 ## Links
 
 - [Fourm thread](https://osu.ppy.sh/community/forums/topics/261809)
-- [Challonge page](https://challonge.com/OUKT4 "Challonge")
-- [Livestream](https://www.twitch.tv/oukt3 "Twitch")
+- [Challonge page](https://challonge.com/OUKT4)
+- [Livestream](https://www.twitch.tv/oukt3)
 - Spreadsheets
-  - [Semifinals](https://docs.google.com/spreadsheets/d/1tTWeV56h2qsAgFj49NSfj6qpZCJYASM9_KiYOKBNrac/edit?usp=sharing "Google Sheets")
-  - [Quaterfinals](https://docs.google.com/spreadsheets/d/1RAuHAGsA2RNeNB7UzjDOFPyqslzwzcuObZn-IP-0l8U/edit?usp=sharing "Google Sheets")
-  - [Round of 16](https://docs.google.com/spreadsheets/d/1-TCmxVC2lU6GLu7WzbRUkyEbccQBFKdXRbSerrPuZq4/edit?usp=sharing "Google Sheets")
-  - [Round of 32](https://docs.google.com/spreadsheets/d/11KVtlKGDI3B4SwqmJcGgJxjTVPL2oA3l2scR-z0z86Q/edit?usp=sharing "Google Sheets")
-  - [Round of 64](https://docs.google.com/spreadsheets/d/1IeG2a07E3Jia4iZVMQlcYTR63JLQD5yHvT12VSoU7QE/edit?usp=sharing "Google Sheets")
-  - [Round of 128](https://docs.google.com/spreadsheets/d/1qZiUjFPov6mVWrjV1YcQ5uu05bM4zaye47aNn6GaB84/edit?usp=sharing "Google Sheets")
+  - [Semifinals](https://docs.google.com/spreadsheets/d/1tTWeV56h2qsAgFj49NSfj6qpZCJYASM9_KiYOKBNrac/edit?usp=sharing)
+  - [Quaterfinals](https://docs.google.com/spreadsheets/d/1RAuHAGsA2RNeNB7UzjDOFPyqslzwzcuObZn-IP-0l8U/edit?usp=sharing)
+  - [Round of 16](https://docs.google.com/spreadsheets/d/1-TCmxVC2lU6GLu7WzbRUkyEbccQBFKdXRbSerrPuZq4/edit?usp=sharing)
+  - [Round of 32](https://docs.google.com/spreadsheets/d/11KVtlKGDI3B4SwqmJcGgJxjTVPL2oA3l2scR-z0z86Q/edit?usp=sharing)
+  - [Round of 64](https://docs.google.com/spreadsheets/d/1IeG2a07E3Jia4iZVMQlcYTR63JLQD5yHvT12VSoU7QE/edit?usp=sharing)
+  - [Round of 128](https://docs.google.com/spreadsheets/d/1qZiUjFPov6mVWrjV1YcQ5uu05bM4zaye47aNn6GaB84/edit?usp=sharing)
 
 ## Participants
 
@@ -80,7 +80,7 @@ The OUKT4 was run by various community members
 
 ### Finals
 
-**[Download the mappack here! (125 MB)](https://drive.google.com/open?id=1rZ91grLCKN4Mjg1tpvgMeOl4579A_LpN "Google Drive")**
+**[Download the mappack here! (125 MB)](https://drive.google.com/open?id=1rZ91grLCKN4Mjg1tpvgMeOl4579A_LpN)**
 
 - NoMod
   - [DragonForce - Heroes of Our Time (Jenny) \[Legend\]](https://osu.ppy.sh/beatmapsets/90716#osu/245960)
@@ -110,7 +110,7 @@ The OUKT4 was run by various community members
 
 ### Semifinals
 
-**[Download the mappack here! (143 MB)](https://drive.google.com/open?id=1kgXkT3KZi-2pcxhF4VS9zvtWV-yl-2k2 "Google Drive")**
+**[Download the mappack here! (143 MB)](https://drive.google.com/open?id=1kgXkT3KZi-2pcxhF4VS9zvtWV-yl-2k2)**
 
 - NoMod
   - [paraoka - boot (rickyboi) \[Shoe\]](https://osu.ppy.sh/beatmapsets/50131#osu/154226)
@@ -139,7 +139,7 @@ The OUKT4 was run by various community members
 
 ### Quaterfinals
 
-**[Download the mappack here! (134 MB)](https://drive.google.com/open?id=1AcS2Xbrhae4BGLKcrjr9ABLZ30MHdfOR "Google Drive")**
+**[Download the mappack here! (134 MB)](https://drive.google.com/open?id=1AcS2Xbrhae4BGLKcrjr9ABLZ30MHdfOR)**
 
 - NoMod
   - [LeaF - MEPHISTO (Alumetorz) \[Extra\]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
@@ -166,7 +166,7 @@ The OUKT4 was run by various community members
 
 ### Round of 16
 
-**[Download the mappack here! (151 MB)](https://drive.google.com/open?id=1DoiiznIlVjM0Q1nMuMRWCkJRtsneINv9 "Google Drive")**
+**[Download the mappack here! (151 MB)](https://drive.google.com/open?id=1DoiiznIlVjM0Q1nMuMRWCkJRtsneINv9)**
 
 - NoMod
   - [Caravan Palace - Dragons (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/46733#osu/145361)
@@ -193,7 +193,7 @@ The OUKT4 was run by various community members
 
 ### Round of 32
 
-**[Download the mappack here! (105 MB)](https://drive.google.com/open?id=1IBUXjqV_K0xEnaZTtQfCf5U_PIs9VFti "Google Drive")**
+**[Download the mappack here! (105 MB)](https://drive.google.com/open?id=1IBUXjqV_K0xEnaZTtQfCf5U_PIs9VFti)**
 
 - NoMod
   - [SHIKI - BABYLON (miccoliasms) \[Another\]](https://osu.ppy.sh/beatmapsets/31373#osu/103132)
@@ -220,7 +220,7 @@ The OUKT4 was run by various community members
 
 ### Round of 64
 
-**[Download the mappack here! (87 MB)](https://drive.google.com/open?id=1N6U2TkNlSnOvb7IFHRsyPEpNF8CYXob5 "Google Drive")**
+**[Download the mappack here! (87 MB)](https://drive.google.com/open?id=1N6U2TkNlSnOvb7IFHRsyPEpNF8CYXob5)**
 
 - NoMod
   - [Horie Yui - True Truly Love (Thite) \[Insane\]](https://osu.ppy.sh/beatmapsets/28459#osu/95495)
@@ -245,7 +245,7 @@ The OUKT4 was run by various community members
 
 ### Round of 128
 
-**[Download the mappack here! (104 MB)](https://drive.google.com/open?id=1oq6sDapu3uvTE9ml7N7Nf8gTY5Qh4q1N "Google Drive")**
+**[Download the mappack here! (104 MB)](https://drive.google.com/open?id=1oq6sDapu3uvTE9ml7N7Nf8gTY5Qh4q1N)**
 
 - NoMod
   - [Nekomata Master - Far east nightbird (kors k Remix) (jonathanlfj) \[Another\]](https://osu.ppy.sh/beatmapsets/144171#osu/358272)
@@ -487,7 +487,7 @@ Sunday, 18 January 2015:
 
 - This tournament is for players ranked #50,000 to #1 only (We can be a little lenient if needed)
 - UK staff are allowed to play.
-- This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets will be determined by standard seeding 1-128 2-127 and so on ([seeding explained on Wikipedia](http://en.wikipedia.org/wiki/Seed_%28sports%29 "Wikipedia"))
+- This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets will be determined by standard seeding 1-128 2-127 and so on ([seeding explained on Wikipedia](http://en.wikipedia.org/wiki/Seed_%28sports%29))
 - The tournaments shall have a map pool for each phase of the tournament. The next map pool in the tournament shall be announced following the end of the preceding round.
 - Each map pool will have 5-9 no mod picks, 2 mod picks, a freemod bracket, and 1 tiebreaker. The mod brackets shall be Hidden/Double Time/Hard Rock/Freemod. Two maps for each.
 - Each player may only pick 1 map from each mod pool to try and encourage variety in the match. For example: P1 picks a HD map, he can't pick from the HD pool again. P2 may however pick a HD map.
@@ -519,7 +519,7 @@ Sunday, 18 January 2015:
 - In special cases, with the agreement of both players, matches can also be played before this during the week. This is only if advance notice is given.
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

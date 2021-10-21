@@ -88,7 +88,7 @@ outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 [flag_ES]: /wiki/shared/flag/ES.gif "สเปน"
 [flag_FR]: /wiki/shared/flag/FR.gif "ฝรั่งเศส"
 [flag_GB]: /wiki/shared/flag/GB.gif "สหราชอาณาจักร"
-[flag_GR]: /wiki/shared/flag/GR.gif "กรีก"
+[flag_GR]: /wiki/shared/flag/GR.gif "กรีซ"
 [flag_JP]: /wiki/shared/flag/JP.gif "ญี่ปุ่น"
 [flag_MX]: /wiki/shared/flag/MX.gif "เม็กซิโก"
 [flag_NL]: /wiki/shared/flag/NL.gif "เนเธอร์แลนด์"

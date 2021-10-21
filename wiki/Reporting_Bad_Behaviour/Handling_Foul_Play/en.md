@@ -18,7 +18,7 @@ Each user may only use **one** account. Creating new accounts is strictly forbid
 
 The [rules](/wiki/Rules) state that any form of manipulation of the client such as score hacking, macro-enabled full-combo sequences, auto-aim and anything else that plays the game for the player is considered cheating.
 
-This is a one-strike rule. Cheaters will be restricted on their first offence for an indefinite amount of time. The team may decide to lift their restriction if they successfully appeal.
+This is a one-strike rule. Cheaters will be restricted on their first offence for an indefinite amount of time. The [support team](/wiki/People/The_Team/Account_support_team) may decide to lift their restriction if they successfully appeal.
 
 ## I have been restricted for cheating, but I didn't cheat!
 
@@ -26,11 +26,11 @@ osu! uses automated metrics combined with manual confirmation. If you don't know
 
 ## Prove that I/they were cheating! Tell us how you know!
 
-The team will not provide any "proof" regarding restrictions, but all are placed with well founded suspicion. Normal users are extremely unlikely to be targeted by such actions.
+The support team will not provide any "proof" regarding restrictions, but all are placed with well founded suspicion. Normal users are extremely unlikely to be targeted by such actions.
 
 ## I'll make a video to prove my innocence!
 
-Sorry, but if you have been restricted, the team is already sure you are cheating. A video will not help, because even these can be also doctored.
+Sorry, but if you have been restricted, the support team is already sure you are cheating. A video will not help, because even these can be also doctored.
 
 ## I found someone who is definitely cheating. I can tell by their replay/score! What should I do?
 
@@ -39,7 +39,7 @@ You should report the user and not mention them anywhere. There are three ways t
 
 ### User profile
 
-**This is the preferred way for reporting suspected foul play, as it provides the most information to the team members responsible for handling such cases.**
+**This is the preferred way for reporting suspected foul play, as it provides the most information to the support team members.**
 
 On the user's profile, a `Report` button will appear when you click on the three dots next to the `Message` button. Write any information that can prove that the user is doing misbehaviour.
 
@@ -72,7 +72,7 @@ Peripherals such as tablets and touchscreens are fine. Anything which decreases 
 
 Wait three months after the latest issued restriction before appealing. Address your emails to [accounts@ppy.sh](mailto:accounts@ppy.sh) and use a subject of `Restriction Appeal: <username>`
 
-The team expects users to give a full history of their actions and give reasons why they won't be reoffending in the future.
+The support team expects users to give a full history of their actions and give reasons why they won't be reoffending in the future.
 
 *It might take time for us to reply to your appeal, but no appeals will be ignored.*
 

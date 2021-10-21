@@ -23,6 +23,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu! World Cup 2018](OWC/2018) | 2018-11-10 | 2018-12-16 | ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_DE] Germany |
 | [osu! World Cup 2019](OWC/2019) | 2019-11-09 | 2019-12-22 | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_GB] United Kingdom |
 | [osu! World Cup 2020](OWC/2020) | 2020-10-24 | 2020-12-06 | ![][flag_US] United States | ![][flag_DE] Germany | ![][flag_CA] Canada |
+| [osu! World Cup 2021](OWC/2021) | 2021-10-09 | 2021-11-28 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -71,7 +72,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!mania 7K World Cup 2019](MWC/2019_7K) | 2019-02-09 | 2019-03-17 | ![][flag_KR] South Korea | ![][flag_PH] Philippines | ![][flag_CN] China |
 | [osu!mania 4K World Cup 2019](MWC/2019_4K) | 2019-09-21 | 2019-10-27 | ![][flag_KR] South Korea | ![][flag_BR] Brazil | ![][flag_US] United States |
 | [osu!mania 4K World Cup 2020](MWC/2020_4K) | 2020-08-15 | 2020-09-20 | ![][flag_BR] Brazil | ![][flag_JP] Japan | ![][flag_KR] South Korea |
-| [osu!mania 4K World Cup 2021](MWC/2021_4K) | 2021-07-31 | 2020-09-12 | TBD | TBD | TBD |
+| [osu!mania 4K World Cup 2021](MWC/2021_4K) | 2021-07-31 | 2021-09-19 | ![][flag_BR] Brazil | ![][flag_US] United States | ![][flag_MY] Malaysia |
 
 ## Community
 
@@ -96,7 +97,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ![][flag_KR] South Korea | ![][flag_RU] Russian Federation | ![][flag_US] United States |
 | 3 Digit World Cup 2020 | 2020-03-16 | 2020-05-31 | ![][flag_US] United States | ![][flag_BR] Brazil | ![][flag_TW] Taiwan |
-| [3 Digit World Cup 2021](3WC/2021) | 2020-03-16 | 2020-05-31 | ![][flag_TW] Taiwan | ![][flag_PL] Poland | ![][flag_US] United States |
+| [3 Digit World Cup 2021](3WC/2021) | 2021-02-24 | 2021-05-09 | ![][flag_TW] Taiwan | ![][flag_PL] Poland | ![][flag_US] United States |
 
 #### Aus/NZ osu!standard Tournament
 
@@ -183,6 +184,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Non-Professional Cup 2](NPC/2) | 2020-05-30 | 2020-07-12 | WeHatePP | Alek & Friends | OSBT Sqaud |
+
+#### Old Map Fantasy
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Old Map Fantasy World Cup](OMF/WC) | 2021-08-14 | 2021-10-03 | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_PL] Poland |
 
 #### osu! Asia Oceania Tournament
 
@@ -683,10 +690,12 @@ Unofficial tournaments/competitions hosted by the communities.
 
 - [List of countries that participated in osu! tournaments](Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
+- Requirements for receiving the [official support](/wiki/Tournaments/Official_support) for a tournament (badges, screening process, etc.)
 
 [GCrown]: /wiki/shared/crown-gold.png "1st place"
 [SCrown]: /wiki/shared/crown-silver.png "2nd place"
 [BCrown]: /wiki/shared/crown-bronze.png "3rd place"
+
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"

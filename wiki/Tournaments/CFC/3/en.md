@@ -52,10 +52,10 @@ The Catch French Cup 3 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/790099)
-- [CFC Discord server](https://discord.gg/3DewaX8 "Discord")
-- [Challonge brackets](https://osucfc.challonge.com/CFC3 "Challonge")
-- [Livestream](https://www.twitch.tv/osufrlive "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrn8KpDeTO124_IgETpDPOBkI0WGVcvi0KEL0iyeJyxsXGE-3HaHRzIWHLk4llJ1_jEYcshD9ynRG-/pubhtml "Google Sheets")**
+- [CFC Discord server](https://discord.gg/3DewaX8)
+- [Challonge brackets](https://osucfc.challonge.com/CFC3)
+- [Livestream](https://www.twitch.tv/osufrlive)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrn8KpDeTO124_IgETpDPOBkI0WGVcvi0KEL0iyeJyxsXGE-3HaHRzIWHLk4llJ1_jEYcshD9ynRG-/pubhtml)**
 
 ## Participants
 
@@ -93,7 +93,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (208 MB)](https://mega.nz/#!F0VnDI4Y!713WV_v7hXdZ5DrxvrBcaLDotXDE8b4MfyZwfr_5FVk "MEGA")**
+**[Download the mappack here! (208 MB)](https://mega.nz/#!F0VnDI4Y!713WV_v7hXdZ5DrxvrBcaLDotXDE8b4MfyZwfr_5FVk)**
 
 - NoMod
   - [Various Artists - Dan \~ CTB \~ SpeedMap Pack (Minato Yukina) \[MG277 \~ Ghimel \~ (Marathon) \]](https://osu.ppy.sh/beatmapsets/696969#fruits/1476212)
@@ -122,7 +122,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**Download the mappack here! (109 MB) - [MEGA](https://mega.nz/#!A4NAjaAB!ahgmIcnS80ez54YV8Dwj-17mdr0wVAcpHxDKQ-41uL0 "MEGA") - [Direct Link](https://htfarmingiscool.s-ul.eu/4EIzRPpJ "s-ul")**
+**Download the mappack here! (109 MB) - [MEGA](https://mega.nz/#!A4NAjaAB!ahgmIcnS80ez54YV8Dwj-17mdr0wVAcpHxDKQ-41uL0) - [Direct Link](https://htfarmingiscool.s-ul.eu/4EIzRPpJ)**
 
 - NoMod
   - [Memme - Barrier (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/768255#fruits/1615696)
@@ -151,7 +151,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**Download the mappack here! (132 MB) - [MEGA](https://mega.nz/#!9sNTTQDb!kOW7ilAiq0eQI7xH_a0UuxyeQwA9vyV4dsmiw52xuB0 "MEGA") - [Direct Link](https://htfarmingiscool.s-ul.eu/mPP3dZxS "s-ul")**
+**Download the mappack here! (132 MB) - [MEGA](https://mega.nz/#!9sNTTQDb!kOW7ilAiq0eQI7xH_a0UuxyeQwA9vyV4dsmiw52xuB0) - [Direct Link](https://htfarmingiscool.s-ul.eu/mPP3dZxS)**
 
 - NoMod
   - [Camellia - Routing (Kyuare) \[Transcend\]](https://osu.ppy.sh/beatmapsets/553117#fruits/1171237)
@@ -180,7 +180,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**Download the mappack here! (77 MB) - [MEGA](https://mega.nz/#!ooNnRahC!y149vrhWNBSKLL5M2DQRe199trFHkmRgrJwIxhqDOA0 "MEGA") - [Direct Link](https://htfarmingiscool.s-ul.eu/moaRrjjg "s-ul")**
+**Download the mappack here! (77 MB) - [MEGA](https://mega.nz/#!ooNnRahC!y149vrhWNBSKLL5M2DQRe199trFHkmRgrJwIxhqDOA0) - [Direct Link](https://htfarmingiscool.s-ul.eu/moaRrjjg)**
 
 - NoMod
   - [Ocelot - KAEDE (Minato Yukina) \[Transcendence\]](https://osu.ppy.sh/beatmapsets/820738#fruits/1720378)
@@ -204,7 +204,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**Download the mappack here! (79 MB) - [MEGA](https://mega.nz/#!J5lhQSDZ!f2fjBiEA29o9g_Jo45lJYTStLFVXN7hNHf87_78B648 "MEGA") - [Direct Link](https://htfarmingiscool.s-ul.eu/XrUnjAK5. "s-ul")**
+**Download the mappack here! (79 MB) - [MEGA](https://mega.nz/#!J5lhQSDZ!f2fjBiEA29o9g_Jo45lJYTStLFVXN7hNHf87_78B648) - [Direct Link](https://htfarmingiscool.s-ul.eu/XrUnjAK5.)**
 
 - NoMod
   - [Qrispy Joybox - licca (Priti) \[Ultra\]](https://osu.ppy.sh/beatmapsets/307837#fruits/688568)
@@ -228,7 +228,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (61 MB)](https://mega.nz/#!wpkQTI5S!Vv6YZ2uUaoQ_hcJ1Rc9is6J3xUqF-7zBfIF-Rbh-E1M "MEGA")**
+**[Download the mappack here! (61 MB)](https://mega.nz/#!wpkQTI5S!Vv6YZ2uUaoQ_hcJ1Rc9is6J3xUqF-7zBfIF-Rbh-E1M)**
 
 - NoMod
   - [Mili - world.execute(me); (Spectator) \[love\]](https://osu.ppy.sh/beatmapsets/683528#fruits/1445720)

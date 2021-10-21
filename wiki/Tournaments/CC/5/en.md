@@ -52,10 +52,10 @@ Corgi Cup V was run by various community members.
 
 ## Links
 
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1kePYT2Ns7Hcp5xxPxzamYpR8IBkUzZm0o_USfN51eOE/edit?usp=sharing "Google Sheets")
-- [Livestream](https://twitch.tv/Doomsday "Twitch")
-- [Challonge](https://challonge.com/pv3lu3yn "Challonge")
-- [Discord](https://discord.gg/doomscord "Discord")
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1kePYT2Ns7Hcp5xxPxzamYpR8IBkUzZm0o_USfN51eOE/edit?usp=sharing)
+- [Livestream](https://twitch.tv/Doomsday)
+- [Challonge](https://challonge.com/pv3lu3yn)
+- [Discord](https://discord.gg/doomscord)
 
 ## Participants
 

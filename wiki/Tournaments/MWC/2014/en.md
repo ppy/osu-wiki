@@ -52,9 +52,9 @@ The osu!mania World Cup 2014 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/222100)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Statistics sheet: 4K bracket](https://mwc.servegame.com/results/view/1 "Servegame")**
-- **[Statistics sheet: 7K bracket](https://mwc.servegame.com/results/view/2 "Servegame")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Statistics sheet: 4K bracket](https://mwc.servegame.com/results/view/1)**
+- **[Statistics sheet: 7K bracket](https://mwc.servegame.com/results/view/2)**
 
 ## Participants
 
@@ -516,7 +516,7 @@ This competition has come to an end and resulted in the following podium:
      - When signing up for both brackets, both rosters do not need to be identical.
      - If your country signs up for the 4K Bracket, it does not need to form a 7K bracket and vica versa.
 2. Each team represents a nation. You must form a team with players from the same country and therefore with the same flags on the user profiles.
-3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY "Google Forms"). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “MWC Registration”
+3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “MWC Registration”
    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
    - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 4. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
@@ -579,7 +579,7 @@ This competition has come to an end and resulted in the following podium:
 6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australi"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"

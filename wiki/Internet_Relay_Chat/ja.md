@@ -1,6 +1,6 @@
 # Internet Relay Chat
 
-*詳細については、次を参照してください。[Internet Relay Chat（Wikipedia）](https://ja.wikipedia.org/wiki/Internet_Relay_Chat "Wikipedia")*
+*詳細については、次を参照してください。[Internet Relay Chat（Wikipedia）](https://ja.wikipedia.org/wiki/Internet_Relay_Chat)*
 
 **Internet Relay Chat**（**IRC**）は、多数のオンラインクライアントとのチャットに使用されるアプリケーション層のプロトコルです。
 
@@ -43,7 +43,7 @@ IRCクライアントの設定を開き、値を入力してください。（�
 | [ircII](http://www.eterna.com.au/ircii/) | `IGNORE * CRAP`を入力 |
 | [Irssi](https://irssi.org) | `/ignore * JOINS PARTS QUITS`を入力 |
 | [Weechat](https://weechat.org/) | `/filter add joinquit * irc_join,irc_part,irc_quit *`を入力 |
-| [KVIrc](https://www.kvirc.net/) | [KVIrc wikiページ](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages "GitHub") を参照 |
+| [KVIrc](https://www.kvirc.net/) | [KVIrc wikiページ](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages) を参照 |
 | [mIRC](https://www.mirc.com/) | mIRCオプション（`Tools` -> `Options`, or `Alt` + `O`）に移動し、`IRC`を選択し、`Events...` ボタンをクリックして、joinと partsに対して`Hide`を選択 |
 | [Quassel IRC](https://quassel-irc.org/) | チャットウィンドウを右クリックして、Hide Eventsメニュー内のJoin/Part/Quitを選択 |
 | [XChat](http://xchat.org/) | `/set irc_conf_mode 1`を入力 |
@@ -82,4 +82,4 @@ osu!クライアントやウェブサイトで接続しているユーザーに�
 
 ### 誰かがメッセージを送信していますが、チャンネルユーザーのリストにはありません。
 
-[ウェブ版チャット](https://osu.ppy.sh/community/chat)を使っているか、[osu!lazer](https://github.com/ppy/osu "GitHub")で接続しています。
+[ウェブ版チャット](https://osu.ppy.sh/community/chat)を使っているか、[osu!lazer](https://github.com/ppy/osu)で接続しています。

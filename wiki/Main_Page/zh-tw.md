@@ -60,7 +60,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # 社群
 
-[錦標賽](/wiki/Tournaments) • [製作 Skin](/wiki/Skinning) • [專案](/wiki/Projects) • [指南](/wiki/Guides) • [osu!開發者 Discord 伺服器](/wiki/osu!dev_Discord_server) • [如何貢獻](/wiki/How_You_Can_Help!) • [詞彙表](/wiki/Glossary)
+[錦標賽](/wiki/Tournaments) • [製作 Skin](/wiki/Skinning) • [專案](/wiki/Projects) • [指南](/wiki/Guides) • [osu!開發者 Discord 伺服器](/wiki/osu!dev_Discord_server) • [如何貢獻](/wiki/How_you_can_help!) • [詞彙表](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -85,7 +85,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # 關於此 wiki
 
-[網站地圖](/wiki/Sitemap) • [貢獻指南](/wiki/osu!_wiki_Contribution_Guide) • [文章風格規範](/wiki/Article_Styling_Criteria) • [新聞風格規範](/wiki/News_Styling_Criteria)
+[網站地圖](/wiki/Sitemap) • [貢獻指南](/wiki/osu!_wiki/Contribution_guide) • [文章風格規範](/wiki/Article_styling_criteria) • [新聞風格規範](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

@@ -9,7 +9,7 @@ outdated: true
 
 ![OWC 2019 logo](img/logo.jpg)
 
-**osu! 2019 Dünya Kupası** (***OWC 2019***) [osu!team](/wiki/People/The_Team) tarafından ev sahipliği yapılan ülke tabanlı bir turnuvadır. Şu ana kadar yapılan 10. osu! Dünya Kupasıdır.
+**osu! 2019 Dünya Kupası** (***OWC 2019***) [osu! ekibi](/wiki/People/The_Team) tarafından ev sahipliği yapılan ülke tabanlı bir turnuvadır. Şu ana kadar yapılan 10. osu! Dünya Kupasıdır.
 
 ## Turnuva planlaması
 
@@ -50,10 +50,10 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
 ## Bağlantılar
 
 - [Tartışma başlığı](https://osu.ppy.sh/community/forums/topics/973724)
-- [Canlı yayın](https://www.twitch.tv/osulive "Twitch")
-- [Pick'em sayfası](https://pickem.hwc.hr/tournaments/19 "hwchr's pick'em")
-- [Challonge kulvarı](https://challonge.com/OWC2019 "Challonge")
-- [İstatistik çizelgesi](https://docs.google.com/spreadsheets/d/e/2PACX-1vREamImW3yN-q3rio2XIFX497uoIoPprEuSqykuPPP9D9WcMfMJQj0bXcBl1ZGxIcm_tPIuoZPk_GFk/pubhtml "Google Sheets")
+- [Canlı yayın](https://www.twitch.tv/osulive)
+- [Pick'em sayfası](https://pickem.hwc.hr/tournaments/19)
+- [Challonge kulvarı](https://challonge.com/OWC2019)
+- [İstatistik çizelgesi](https://docs.google.com/spreadsheets/d/e/2PACX-1vREamImW3yN-q3rio2XIFX497uoIoPprEuSqykuPPP9D9WcMfMJQj0bXcBl1ZGxIcm_tPIuoZPk_GFk/pubhtml)
 
 ## Katılımcılar
 

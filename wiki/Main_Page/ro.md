@@ -59,7 +59,7 @@ Componente: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Divizor Beat Snap](/wiki/Be
 
 # Comunitate
 
-[Turnee](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proiecte](/wiki/Projects) • [Ghiduri](/wiki/Guides) • [Serverul Discord osu!dev](/wiki/osu!dev_Discord_server) • [Cum puteți ajuta](/wiki/How_You_Can_Help!) • [Glosar](/wiki/Glossary)
+[Turnee](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proiecte](/wiki/Projects) • [Ghiduri](/wiki/Guides) • [Serverul Discord osu!dev](/wiki/osu!dev_Discord_server) • [Cum puteți ajuta](/wiki/How_you_can_help!) • [Glosar](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -84,7 +84,7 @@ Organizații: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # Despre wiki
 
-[Harta site-ului](/wiki/Sitemap) • [Ghid de contribuție](/wiki/osu!_wiki_Contribution_Guide) • [Criterii de stilare a articolelor](/wiki/Article_Styling_Criteria) • [Criterii de stilare a știrilor](/wiki/News_Styling_Criteria)
+[Harta site-ului](/wiki/Sitemap) • [Ghid de contribuție](/wiki/osu!_wiki/Contribution_guide) • [Criterii de stilare a articolelor](/wiki/Article_styling_criteria) • [Criterii de stilare a știrilor](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

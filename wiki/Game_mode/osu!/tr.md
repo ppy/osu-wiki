@@ -8,7 +8,7 @@
 
 ## "Ouendan" nedir?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia (İngilizce)")*, *Nintendo DS* için bir ritim oyunudur. Oynanış sadece üç elementi içerir: dokunmatik ekrandaki yuvarlaklara tıklamak, bir topu sabit bir yol boyunca sürüklemek ve bir spinnerı çok hızlı çevirmek. Tüm bu elementler popüler Japonca şarkılara (ya da onların cover'larına) göre zamanlıdır. *DS*'de böyle görünür:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)*, *Nintendo DS* için bir ritim oyunudur. Oynanış sadece üç elementi içerir: dokunmatik ekrandaki yuvarlaklara tıklamak, bir topu sabit bir yol boyunca sürüklemek ve bir spinnerı çok hızlı çevirmek. Tüm bu elementler popüler Japonca şarkılara (ya da onların cover'larına) göre zamanlıdır. *DS*'de böyle görünür:
 
 ![Nintendo DS'de oynanan Osu! Tatakae! Ouendan'dan oynanış örneği](/wiki/shared/Ouendan.jpg "Nintendo DS'de oynanan Osu! Tatakae! Ouendan'dan oynanış örneği")
 
@@ -80,7 +80,7 @@ Spinnerın altındaki kutucuk dakika başı çevirme sayınızı gösterir. Bu k
 
 ## Oynanış Tarzları
 
-*[osu!'nun altındaki Oynanış Tarzları sayfası](/wiki/Play_Styles) referans alınmıştır.*
+*[osu!'nun altındaki Oynanış Tarzları sayfası](/wiki/Play_style) referans alınmıştır.*
 
 ## Kontroller
 

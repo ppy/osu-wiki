@@ -6,7 +6,7 @@ outdated: true
 
 In osu! gibt es viele Tastenkürzel (auch 'Hotkeys'), die in den Menüs oder im Spiel verwendet werden können. In der folgenden Liste sind sie mit ihren Funktionen aufgeführt.
 
-**Hinweis:** Einige dieser Tastenkürzel können in den [Einstellungen](/wiki/options) geändert werden! In der Liste unten stehen die zugehörigen Standardkürzel.
+**Hinweis:** Einige dieser Tastenkürzel können in den [Einstellungen](/wiki/Options) geändert werden! In der Liste unten stehen die zugehörigen Standardkürzel.
 
 ## Überall im Spiel
 
@@ -22,8 +22,8 @@ Diese Kürzel können überall verwendet werden:
 - `F10`: Maustasten für's Spielen ein-/ausschalten
 - `F12`: Einen Screenshot machen
 - `Shift` + `F12`: Einen Screenshot machen, hochladen und zum Teilen per URL im Browser öffnen
-- `Einfg`: ([Boss-Key](https://de.wikipedia.org/wiki/Cheftaste "Boss-Key auf Wikipedia")) osu! in den Benachrichtigungsbereich minimieren
-- `Shift` + `F1`: [osu!status](https://twitter.com/osustatus "osu!status auf twitter") öffnen (nur bei Verbindungsproblemen)
+- `Einfg`: ([Boss-Key](https://de.wikipedia.org/wiki/Cheftaste)) osu! in den Benachrichtigungsbereich minimieren
+- `Shift` + `F1`: [osu!status](https://twitter.com/osustatus) öffnen (nur bei Verbindungsproblemen)
 
 ## Hauptmenü
 
@@ -62,7 +62,7 @@ Diese Kürzel können überall verwendet werden:
 
 ## Songauswahl
 
-**Hinweis:** Nicht alle dieser Hotkeys funktionieren in der Songauswahl des [Mehrspielermodus](/wiki/multi).
+**Hinweis:** Nicht alle dieser Hotkeys funktionieren in der Songauswahl des [Mehrspielermodus](/wiki/Multi).
 
 - `Alt` + `Pfeil oben`: Lautstärke erhöhen
 - `Alt` + `Pfeil unten`: Lautstärke verringern
@@ -72,13 +72,13 @@ Diese Kürzel können überall verwendet werden:
 - `F3`: Beatmap-Optionen
 - `F5`: Beatmaps neu einlesen (kann einen Dialog öffnen)
 - `Shift` + `Entf`: Die ausgewählte Beatmap entfernen
-- `Strg` + `1`: Zu [osu!](/wiki/osu!) wechseln
-- `Strg` + `2`: Zu [osu!taiko](/wiki/osu!taiko) wechseln
-- `Strg` + `3`: Zu [osu!catch](/wiki/osu!catch) wechseln
-- `Strg` + `4`: Zu [osu!mania](/wiki/osu!mania) wechseln
-- `Strg` + `Enter`: Die ausgewählte Map mit dem [Auto](/wiki/Auto)-Mod spielen
-- `Strg` + `Shift` + `Enter`: Die ausgewählte Map mit dem [Cinema](/wiki/Cinema)-Mod spielen
-- `Strg` + `A`: Den [Auto](/wiki/Auto)-Mod ein-/ausschalten
+- `Strg` + `1`: Zu [osu!](/wiki/Disambiguation/osu!) wechseln
+- `Strg` + `2`: Zu [osu!taiko](/wiki/Game_mode/osu!taiko) wechseln
+- `Strg` + `3`: Zu [osu!catch](/wiki/Game_mode/osu!catch) wechseln
+- `Strg` + `4`: Zu [osu!mania](/wiki/Game_mode/osu!mania) wechseln
+- `Strg` + `Enter`: Die ausgewählte Map mit dem [Auto](/wiki/Game_modifier/Auto)-Mod spielen
+- `Strg` + `Shift` + `Enter`: Die ausgewählte Map mit dem [Cinema](/wiki/Game_modifier/Cinema)-Mod spielen
+- `Strg` + `A`: Den [Auto](/wiki/Game_modifier/Auto)-Mod ein-/ausschalten
 - `Strg` + `F3`: Die osu!mania-Scrollgeschwindigkeit erhöhen
   - alias: `Strg` + `+`
 - `Strg` + `F4`: Die osu!mania-Scrollgeschwindigkeit verringern
@@ -101,27 +101,27 @@ Diese Kürzel können überall verwendet werden:
 
 **Hinweis:** Die Tastenkürzel gehen davon aus, dass kein Mod ausgewählt ist.
 
-- `Q`: [Easy](/wiki/Easy_mod)
-- `W`: [No Fail](/wiki/No_Fail)
-- `E`: [Half Time](/wiki/Half_Time)
+- `Q`: [Easy](/wiki/Game_modifier/Easy)
+- `W`: [No Fail](/wiki/Game_modifier/No_Fail)
+- `E`: [Half Time](/wiki/Game_modifier/Half_Time)
 
 ---
 
-- `A`: [Hard Rock](/wiki/Hard_Rock)
-- `S`: [Sudden Death](/wiki/Sudden_Death)
-- `S` -> `S`: [Perfect](/wiki/Perfect)
-- `D`: [Double Time](/wiki/Double_Time)
-- `D` -> `D`: [Nightcore](/wiki/Nightcore)
-- `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, und osu!catch)
-  - [Fade In](/wiki/Fade_In) für osu!mania
-- `F` -> `F`: [Hidden](/wiki/Hidden) (nur für osu!mania)
-- `G`: [Flashlight](/wiki/Flashlight)
+- `A`: [Hard Rock](/wiki/Game_modifier/Hard_Rock)
+- `S`: [Sudden Death](/wiki/Game_modifier/Sudden_Death)
+- `S` -> `S`: [Perfect](/wiki/Game_modifier/Perfect)
+- `D`: [Double Time](/wiki/Game_modifier/Double_Time)
+- `D` -> `D`: [Nightcore](/wiki/Game_modifier/Nightcore)
+- `F`: [Hidden](/wiki/Game_modifier/Hidden) (osu!, osu!taiko, und osu!catch)
+  - [Fade In](/wiki/Game_modifier/Fade_In) für osu!mania
+- `F` -> `F`: [Hidden](/wiki/Game_modifier/Hidden) (nur für osu!mania)
+- `G`: [Flashlight](/wiki/Game_modifier/Flashlight)
 
 ---
 
-- `X`: [Relax](/wiki/Relax)
-- `C`: [Auto Pilot](/wiki/Auto_Pilot)
-- `V`: [Spun Out](/wiki/Spun_Out)
+- `X`: [Relax](/wiki/Game_modifier/Relax)
+- `C`: [Auto Pilot](/wiki/Game_modifier/Autopilot)
+- `V`: [Spun Out](/wiki/Game_modifier/Spun_Out)
 - `B`: Auto
 - `B` -> `B`: Cinema
 
@@ -129,13 +129,13 @@ Diese Kürzel können überall verwendet werden:
 
 Nur für osu!mania:
 
-- `3`: [3K](/wiki/3K)
-- `4`: [4K](/wiki/4K)
-- `5`: [5K](/wiki/5K)
-- `6`: [6K](/wiki/6K)
-- `7`: [7K](/wiki/7K)
-- `8`: [8K](/wiki/8K)
-- `9`: [9K](/wiki/9K)
+- `3`: [3K](/wiki/Game_modifier/xK)
+- `4`: [4K](/wiki/Game_modifier/xK)
+- `5`: [5K](/wiki/Game_modifier/xK)
+- `6`: [6K](/wiki/Game_modifier/xK)
+- `7`: [7K](/wiki/Game_modifier/xK)
+- `8`: [8K](/wiki/Game_modifier/xK)
+- `9`: [9K](/wiki/Game_modifier/xK)
 
 ## Während des Spielens
 
@@ -175,10 +175,10 @@ Diese Kürzel funktionieren überall im Editor:
 - `Strg` + `Shift` + `Pfeil unten`: Wiedergabegeschwindigkeit um 5% verringern
 - `Strg` + `Up`: Wiedergabegeschwindigkeit um 25% erhöhen
 - `Strg` + `Shift` + `Pfeil oben`: Wiedergabegeschwindigkeit um 5% erhöhen
-- `F1`: Zum [Compose](/wiki/Compose)-Modus wechseln
-- `F2`: Zum [Design](/wiki/Design)-Modus wechseln
-- `F3`: Zum [Timing](/wiki/Timing)-Modus wechseln
-- `F4`: Das [Song Setup](/wiki/Song_Setup) öffnen (neues Fenster)
+- `F1`: Zum [Compose](/wiki/Beatmap_Editor/Compose)-Modus wechseln
+- `F2`: Zum [Design](/wiki/Beatmap_Editor/Design)-Modus wechseln
+- `F3`: Zum [Timing](/wiki/Beatmap_Editor/Timing)-Modus wechseln
+- `F4`: Das [Song Setup](/wiki/Beatmap_Editor/Song_Setup) öffnen (neues Fenster)
 - `F5`: Den Testmodus starten
 - `F6`: Das Timing Setup öffnen
 
@@ -229,7 +229,7 @@ Diese Kürzel funktionieren überall im Editor:
 
 ### Timing
 
-- `T`: [BPM](/wiki/BPM) und Offset durch Tippen festlegen
+- `T`: [BPM](/wiki/Beatmapping/Beats_per_minute) und Offset durch Tippen festlegen
   - Du solltest so genau wie möglich tippen
 - `Shift` beim Ändern von BPM oder Offset: 4-fache Geschwindigkeit
 - `Strg` + `B`: Aktuellen Timing Point zurücksetzen

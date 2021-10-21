@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 2787f766bf4cf7b8e2e3afd824e15adcb4e79798
----
-
 # Proses pengkajian konten
 
 Konten-konten yang diajukan kepada para anggota [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (BN), [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (GMT), dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) untuk dikaji lebih lanjut akan melalui beberapa tahapan dalam proses pengkajiannya sebagaimana yang tertera di bawah ini.
@@ -23,7 +18,7 @@ Hasil pemungutan suara yang ada akan menentukan apakah konten yang bersangkutan 
 - Apabila total suara “yes” yang masuk dari anggota-anggota GMT, NAT, dan BN setelah digabungkan mencapai 70% atau lebih, konten yang bersangkutan dinyatakan layak guna.
 - Apabila total suara “yes” yang masuk dari anggota-anggota GMT, NAT, dan BN setelah digabungkan tidak melebihi 70%, konten yang bersangkutan dinyatakan tidak layak guna dan harus dihapus dengan segera dari lingkungan osu!.
 
-Segala keputusan yang tercapai bersifat **mutlak** dan tidak dapat diganggu gugat kecuali apabila terdapat intervensi lebih lanjut dari pihak osu!team.
+Segala keputusan yang tercapai bersifat **mutlak** dan tidak dapat diganggu gugat kecuali apabila terdapat intervensi lebih lanjut dari pihak [tim inti osu!](/wiki/People/The_Team).
 
 ### Contoh kasus
 

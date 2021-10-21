@@ -9,7 +9,7 @@ tags:
 
 ![TWC 2021 标志](/wiki/shared/news/banners/TWC_2021.jpg)
 
-**osu!taiko 2021 世界杯**（***TWC 2021***）是由 [osu!team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu!taiko 世界杯的第 11 届。
+**osu!taiko 2021 世界杯**（***TWC 2021***）是由 [osu!团队](/wiki/People/The_Team)举办的基于国家/地区间的官方锦标赛。这是 osu!taiko 世界杯的第 11 届。
 
 *注意：比赛正在进行中，该翻译版本最后更新日期为 2021 年 3 月 12 日 21:00 UTC+08，最新赛程安排及图池更新请按[英文原文](/wiki/Tournaments/TWC/2021?locale=en)为准。*
 
@@ -53,10 +53,10 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 ## 相关链接
 
 - [论坛讨论帖](https://osu.ppy.sh/community/forums/topics/1241159)
-- [Twitch 直播间](https://www.twitch.tv/osulive "Twitch")
-- [Challonge 对阵表](https://challonge.com/TWC_2021 "Challonge")
-- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/53 "hwchr's pick'em")
-- **[谷歌统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vTImDZNlIdekerlWWr-TR82GKRflboYOcu3ZEqqeTuaSKQfOuY5WO2rS8p5lPjbvtZ5xZdY_iVGNcTI/pubhtml "Google Sheets")**
+- [Twitch 直播间](https://www.twitch.tv/osulive)
+- [Challonge 对阵表](https://challonge.com/TWC_2021)
+- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/53)
+- **[谷歌统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vTImDZNlIdekerlWWr-TR82GKRflboYOcu3ZEqqeTuaSKQfOuY5WO2rS8p5lPjbvtZ5xZdY_iVGNcTI/pubhtml)**
 
 ## 参赛选手
 
@@ -360,8 +360,8 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 7. 队长有权负责队伍的可用性，以确保每个队伍可以在每场比赛上场至少四名队员。如果队伍无法提供两名队员参加比赛，则该比赛将被视为弃权。
 
 [flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
-[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
+[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 [flag_BR]: /wiki/shared/flag/BR.gif "巴西"
 [flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
 [flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
@@ -378,8 +378,8 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 [flag_IT]: /wiki/shared/flag/IT.gif "意大利"
 [flag_JP]: /wiki/shared/flag/JP.gif "日本"
 [flag_KR]: /wiki/shared/flag/KR.gif "韩国"
-[flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
 [flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
+[flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
 [flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
 [flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"

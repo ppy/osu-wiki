@@ -9,7 +9,7 @@ tags:
 
 ![Skinning Contest #1 banner](img/banner.jpg)
 
-The **Skinning Contest #1** was a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz "skinship"), one of the largest skinning communities on osu!. It was the first official osu! skinning contest, and the first iteration of Skinning Contests hosted by skinship.
+The **Skinning Contest #1** was a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz), one of the largest skinning communities on osu!. It was the first official osu! skinning contest, and the first iteration of Skinning Contests hosted by skinship.
 
 ## Contest schedule
 
@@ -52,8 +52,8 @@ The Skinning Contest #1 was run by various community members.
 - [Results Out newspost](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1266342)
 - [Submission thread](https://osu.ppy.sh/community/forums/topics/1266324)
-- [Discord server](https://discord.skinship.xyz "skinship")
-- [Official website](https://skinship.xyz "skinship")
+- [Discord server](https://discord.skinship.xyz)
+- [Official website](https://skinship.xyz)
 
 ## Participants
 

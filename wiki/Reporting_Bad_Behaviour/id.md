@@ -1,5 +1,7 @@
 ---
 needs_cleanup: true
+outdated: true
+outdated_since: ed47ee64ad4315310a16cb00883a94278998edbc
 ---
 
 <!-- TODO: FAQ-like things and overall it doesn't do a good job of describing the report system first. -->
@@ -18,7 +20,7 @@ Tidak hanya sebatas obrolan di dalam gim saja tetapi juga di tempat lain seperti
 
 Penggunaan: `!report username [alasan]`
 
-Parameter **[** dan **]** merupakan opsional.
+Parameter **\[** dan **\]** merupakan opsional.
 
 Jika pengguna memiliki spasi di nama pengguna mereka, spasi harus diganti dengan garis bawah `_` karena obrolan di dalam gim osu! didasarkan pada [Internet Relay Chat](/wiki/Internet_Relay_Chat).
 

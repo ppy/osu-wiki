@@ -53,9 +53,9 @@ The osu! Technical Championship #2 was run by various osu! community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/716902)
-- [OTC Discord server](https://discord.gg/GGMmSu5 "Discord")
-- [Livestream](https://www.twitch.tv/osutechnicalchampionship "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRed7lghpc9idlDYxeX5gpK60LKKzSztLXJ_9fU34x4Dbk0J9QYyUwE0x7zEqHoP2uaLw4gDkkj18h5/pubhtml "Google Sheets")**
+- [OTC Discord server](https://discord.gg/GGMmSu5)
+- [Livestream](https://www.twitch.tv/osutechnicalchampionship)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRed7lghpc9idlDYxeX5gpK60LKKzSztLXJ_9fU34x4Dbk0J9QYyUwE0x7zEqHoP2uaLw4gDkkj18h5/pubhtml)**
 
 ## Participants
 
@@ -123,7 +123,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (159 MB)](http://www.mediafire.com/file/8efiufeeekqvc92/OTC+%232+Finals+Mappool.zip "MediaFire")**
+**[Download the mappack here! (159 MB)](http://www.mediafire.com/file/8efiufeeekqvc92/OTC+%232+Finals+Mappool.zip)**
 
 - NoMod
   - [lapix - Labyrinth (Akali) \[Who's the fucking gangster?\]](https://osu.ppy.sh/beatmapsets/615878#osu/1299008)
@@ -149,7 +149,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (112 MB)](http://www.mediafire.com/file/wgait7rkr0fmg6o/OTC+%232+Semifinals+Mappool.zip "MediaFire")**
+**[Download the mappack here! (112 MB)](http://www.mediafire.com/file/wgait7rkr0fmg6o/OTC+%232+Semifinals+Mappool.zip)**
 
 - NoMod
   - [Hommarju - Rock It (toybot) \[Blast Off\]](https://osu.ppy.sh/beatmapsets/700421#osu/1484308)
@@ -175,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (153 MB)](http://www.mediafire.com/file/kfj2yg3mek1og6e/OTC+%232+Quarterfinals+Mappool.zip "MediaFire")**
+**[Download the mappack here! (153 MB)](http://www.mediafire.com/file/kfj2yg3mek1og6e/OTC+%232+Quarterfinals+Mappool.zip)**
 
 - NoMod
   - [succducc - me & u (Nathan) \[together\]](https://osu.ppy.sh/beatmapsets/699749#osu/1481624)
@@ -201,7 +201,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (117 MB)](http://www.mediafire.com/file/hffn6onh89b658x/OTC+%232+Ro16+Mappool.zip "MediaFire")**
+**[Download the mappack here! (117 MB)](http://www.mediafire.com/file/hffn6onh89b658x/OTC+%232+Ro16+Mappool.zip)**
 
 - NoMod
   - [Nekomata Master+ - Proof of the existence (Alheak) \[Expert\]](https://osu.ppy.sh/beatmapsets/427864#osu/923589)
@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (153 MB)](http://www.mediafire.com/file/7sesz4tdhk3e3jn/OTC+%232+Group+Stage+Mappool.zip "MediaFire")**
+**[Download the mappack here! (153 MB)](http://www.mediafire.com/file/7sesz4tdhk3e3jn/OTC+%232+Group+Stage+Mappool.zip)**
 
 - NoMod
   - [Sota Fujimori - WOBBLE IMPACT \[Black Another\]](http://osu.uu.gl/s/166337)
@@ -454,7 +454,7 @@ Monday, 16 April 2018:
    - Each team receives two bans each.
    - Teams are not required to ban two maps and may ban one or zero maps if they wish.
 6. The captain of the highest rolling team then choose the first map to be played. Use the `!mp map <Beatmap ID>` command to select the chosen map. Apply the appropriate mods and once both teams have readied up, start the map with the `!mp start 5` command.
-   - The beatmap ID for each map can be found under the appropriate mappool through the [statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRed7lghpc9idlDYxeX5gpK60LKKzSztLXJ_9fU34x4Dbk0J9QYyUwE0x7zEqHoP2uaLw4gDkkj18h5/pubhtml# "Google Sheets").
+   - The beatmap ID for each map can be found under the appropriate mappool through the [statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRed7lghpc9idlDYxeX5gpK60LKKzSztLXJ_9fU34x4Dbk0J9QYyUwE0x7zEqHoP2uaLw4gDkkj18h5/pubhtml#).
 7. Once the first map is complete, the lowest rolling team will then choose second map. Use the same procedure as the last step, then continue alternating between teams for picks until the match is finished.
    - If both teams reach match point (i.e. both teams are one point away from victory) the tiebreaker will be played to decide the winner of the match.
    - The tiebreaker is FreeMod. The allowed mods are EZ, HR, HD, and FL. Combining mods is allowed, as well as using nomod. All mods are optional.

@@ -33,7 +33,7 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 - Perilaku buruk yang [ingin kamu akui](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?).
 - [Kehilangan akses ke email](/wiki/Help_Centre/Installation_and_registration#sign-in) yang terhubung dengan akun osu! kamu, atau saat akun kamu dicuri.
 - [Mengembalikan nama pengguna menjadi yang sebelumnya dan sedikit koreksi ejaan pada nama pengguna](/wiki/Help_Centre/Account#name-changes).
-- [Pendaftaran akun bot](/wiki/Bot_Account).
+- [Pendaftaran akun bot](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
@@ -47,4 +47,4 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
 - [Permintaan data](/wiki/Legal/Privacy#data-controller) dan masalah privasi.
-- [Permintaan penghapusan akun](/wiki/Legal/Privacy#your-rights-and-control) secara **permanen** bagi penduduk Uni Eropa (Cakupan [GDPR](https://id.wikipedia.org/wiki/Regulasi_Umum_Perlindungan_Data "Wikipedia")).
+- [Permintaan penghapusan akun](/wiki/Legal/Privacy#your-rights-and-control) secara **permanen** bagi penduduk Uni Eropa (Cakupan [GDPR](https://id.wikipedia.org/wiki/Regulasi_Umum_Perlindungan_Data)).

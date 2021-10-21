@@ -58,7 +58,7 @@ Komponenten: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Taktteiler](/wiki/Beatmap_
 
 # Community
 
-[Turniere](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projekte](/wiki/Projects) • [Anleitungen](/wiki/Guides) • [osu!dev-Discord-Server](/wiki/osu!dev_Discord_server) • [Wie Du helfen kannst](/wiki/How_You_Can_Help!) • [Glossar](/wiki/Glossary)
+[Turniere](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projekte](/wiki/Projects) • [Anleitungen](/wiki/Guides) • [osu!dev-Discord-Server](/wiki/osu!dev_Discord_server) • [Wie Du helfen kannst](/wiki/How_you_can_help!) • [Glossar](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -83,7 +83,7 @@ Organisationen: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # Über das Wiki
 
-[Inhaltsverzeichnis](/wiki/Sitemap) • [Anleitung zum Beitragen](/wiki/osu!_wiki_Contribution_Guide) • [Kriterien für die Artikelgestaltung](/wiki/Article_Styling_Criteria) • [Kriterien für die Gestaltung von Nachrichten](/wiki/News_Styling_Criteria)
+[Inhaltsverzeichnis](/wiki/Sitemap) • [Anleitung zum Beitragen](/wiki/osu!_wiki/Contribution_guide) • [Kriterien für die Artikelgestaltung](/wiki/Article_styling_criteria) • [Kriterien für die Gestaltung von Nachrichten](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

@@ -123,7 +123,7 @@ The **Community Mapping Contest** is a mapping contest where participating mappe
 
 #### A Labour of Love
 
-**A Labour of Love** is a team-based contest spanning over multiple artistic disciplines where participating teams are tasked to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/background video as a visual accompaniment to said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264 "Twitter"), the contest is modeled after [THE BMS OF FIGHTERS events](https://www.bmsoffighters.net/ "BMS OF FIGHTERS") and other similar competitions.
+**A Labour of Love** is a team-based contest spanning over multiple artistic disciplines where participating teams are tasked to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/background video as a visual accompaniment to said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264), the contest is modeled after [THE BMS OF FIGHTERS events](https://www.bmsoffighters.net/) and other similar competitions.
 
 | Contest No. | Remixed Song | ![Gold crown][GCrown] (Overall Winner) | ![Silver crown][SCrown] (Overall Runner-Up) | Community Vote Winner | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -192,7 +192,7 @@ The *osu! Beatmap Blueprints Contest* is a one-off contest held in commemoration
 
 #### osu!idol
 
-**osu!idol** is a singing contest where participants from all across the community compete to create the best song cover (either solo or with a partner) across multiple judging and community voting stages. The contest is named after the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise) "Wikipedia") and is mainly inspired by various televised singing competition shows.
+**osu!idol** is a singing contest where participants from all across the community compete to create the best song cover (either solo or with a partner) across multiple judging and community voting stages. The contest is named after the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise)) and is mainly inspired by various televised singing competition shows.
 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Winning Song | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -371,6 +371,14 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 
 ² The Instrumental category provides mappers with a choice of five different songs to be mapped: Umeboshi Chazuke - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, Nagakawa Koutarou - Hakata Tonkotsu Ramens, and roop - Chatblanc.
 
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
+[GCrown]: /wiki/shared/crown-gold.png "1st place"
+[SCrown]: /wiki/shared/crown-silver.png "2nd place"
+[BCrown]: /wiki/shared/crown-bronze.png "3rd place"
+
 [flag_AE]: /wiki/shared/flag/AE.gif "United Arab Emirates"
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
@@ -379,10 +387,10 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 [flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
@@ -397,17 +405,17 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PA]: /wiki/shared/flag/PA.gif "Panama"
 [flag_PE]: /wiki/shared/flag/PE.gif "Peru"
-[flag_PH]: /wiki/shared/flag/PH.gif "Phillipines"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
@@ -416,11 +424,3 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
-
-[osu!]: /wiki/shared/mode/osu.png "osu!"
-[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
-[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
-[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
-[GCrown]: /wiki/shared/crown-gold.png "1st place"
-[SCrown]: /wiki/shared/crown-silver.png "2nd place"
-[BCrown]: /wiki/shared/crown-bronze.png "3rd place"

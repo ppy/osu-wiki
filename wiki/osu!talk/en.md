@@ -2,7 +2,7 @@
 
 ![](img/osu!talk.jpg "osu!talk logo")
 
-**osu!talk** is a podcast series hosted by [ztrot](https://osu.ppy.sh/users/6347) with [deadbeat](https://osu.ppy.sh/users/128370) as the co-host. It focuses on interviewing various users of the osu! community. In addition to this, there may be some group discussions about different things happening around the community, such as changes to the osu! team, or often discussed long lasting issues, like overmapping.
+**osu!talk** is a podcast series hosted by [ztrot](https://osu.ppy.sh/users/6347) with [deadbeat](https://osu.ppy.sh/users/128370) as the co-host. It focuses on interviewing various users of the osu! community. In addition to this, there may be some group discussions about different things happening around the community, such as changes to the [osu! team](/wiki/People/The_Team), or often discussed long lasting issues, like overmapping.
 
 The podcast series is set up so that anyone is free to join in on the live session and ask questions during the public [Q&A](https://en.wikipedia.org/wiki/Q&A) part of the episode. These aren't live streamed anywhere, as we'd rather encourage users to join in and take part themselves.
 

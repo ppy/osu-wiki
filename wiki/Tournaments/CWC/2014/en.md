@@ -47,8 +47,8 @@ The osu! Catch the Beat World Cup 2014 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/200185)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Statistics sheet](https://tournaments.hiroto.eu/results/view/1 "Hiroto")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Statistics sheet](https://tournaments.hiroto.eu/results/view/1)**
 
 ## Participants
 
@@ -110,11 +110,11 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-**[All mappools can be downloaded via this link! (1.05 GB)](https://www.mediafire.com/download/4f58oh6oxxb75ws/CWC_Packs.zip "MediaFire")**
+**[All mappools can be downloaded via this link! (1.05 GB)](https://www.mediafire.com/download/4f58oh6oxxb75ws/CWC_Packs.zip)**
 
 ### Finals
 
-**[Download the mappack here! (246 MB)](https://www.mediafire.com/download/xtg49nkipcsl6gu/CWC_Finals.rar "MediaFire")**
+**[Download the mappack here! (246 MB)](https://www.mediafire.com/download/xtg49nkipcsl6gu/CWC_Finals.rar)**
 
 - NoMod
   - [sakuzyo - AXION (DaxMasterix) \[Red Light \~CtB\~\]](https://osu.ppy.sh/beatmapsets/57468#fruits/173222)
@@ -148,7 +148,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (205 MB)](https://www.mediafire.com/download/c2o11bznoryz8wk/CWC_Semifinals.rar "MediaFire")**
+**[Download the mappack here! (205 MB)](https://www.mediafire.com/download/c2o11bznoryz8wk/CWC_Semifinals.rar)**
 
 - NoMod
   - [goreshit - Satori De Pon! (eldnl) \[Fruitcore\]](https://osu.ppy.sh/beatmapsets/134990#fruits/338326)
@@ -182,7 +182,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (258 MB)](https://www.mediafire.com/download/nzg9u43a8tpxz85/CWC_Quarter_finals.rar "MediaFire")**
+**[Download the mappack here! (258 MB)](https://www.mediafire.com/download/nzg9u43a8tpxz85/CWC_Quarter_finals.rar)**
 
 - NoMod
   - [LeaF - MEPHISTO (Alumetorz) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/106212#fruits/298908)
@@ -216,7 +216,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (178 MB)](https://www.mediafire.com/download/sj3umn4ajmmebaz/CWC_Round_of_16.rar "MediaFire")**
+**[Download the mappack here! (178 MB)](https://www.mediafire.com/download/sj3umn4ajmmebaz/CWC_Round_of_16.rar)**
 
 - NoMod
   - [ONE OK ROCK - Rock, Scissors, Paper (Haya) \[Tenshichan's Rain\]](https://osu.ppy.sh/beatmapsets/82282#fruits/242575)
@@ -250,7 +250,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (186 MB)](https://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar "MediaFire")**
+**[Download the mappack here! (186 MB)](https://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar)**
 
 - NoMod
   - [Rita - Princess Blood (Zweib) \[Insane\]](https://osu.ppy.sh/beatmapsets/94112#fruits/253528)
@@ -401,7 +401,7 @@ Saturday, 17 May 2014:
    - The maximum team size is 6.
    - You must specify a captain who will represent the team.
 2. Each team represents a nation. You must form a team with players from the same country.
-3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit "Google Forms"). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “CWC Registration”
+3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “CWC Registration”
    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
    - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 4. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
@@ -494,7 +494,7 @@ Saturday, 17 May 2014:
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"

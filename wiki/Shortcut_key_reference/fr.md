@@ -6,7 +6,7 @@ outdated: true
 
 Dans osu!, il existe divers raccourcis qui peuvent être utilisés dans le jeu et les menus. Ils sont listés ici avec leurs fonctions ci-dessous.
 
-**Note:** quelques uns de ces raccourcis peuvent être changés dans les [options](/wiki/options)! Toutefois, la liste ci-dessous présente les raccourcis par défaut.
+**Note:** quelques uns de ces raccourcis peuvent être changés dans les [options](/wiki/Options)! Toutefois, la liste ci-dessous présente les raccourcis par défaut.
 
 ## Jeux au sens large
 
@@ -23,7 +23,7 @@ Ces raccourcis fonctionnent partout :
 - `F12`: Prend une capture d'écran
 - `Shift` + `F12`: Prend une capture d'écran et la télécharge sur un serveur pour le partager
 - `Insert`: ([Boss Key](https://fr.wikipedia.org/wiki/Boss_key)) Réduit le client osu! dans la zone de notification
-- `Shift` + `F1`: Ouvre un [osu!status](https://twitter.com/osustatus "osu!status sur Twitter") (quand une erreur de connection apparait)
+- `Shift` + `F1`: Ouvre un [osu!status](https://twitter.com/osustatus) (quand une erreur de connection apparait)
 
 ## Menu principal
 
@@ -62,7 +62,7 @@ Ces raccourcis fonctionnent partout :
 
 ## Sélection de chanson
 
-Note: Tout ne fonctionne pas en mode [multi](/wiki/multi) dans l'écran de sélection de chanson.
+Note: Tout ne fonctionne pas en mode [multi](/wiki/Multi) dans l'écran de sélection de chanson.
 
 - `Alt` + `Arrow Up`: Monte le volume
 - `Alt` + `Arrow Down`: Baisse le volume
@@ -72,12 +72,12 @@ Note: Tout ne fonctionne pas en mode [multi](/wiki/multi) dans l'écran de séle
 - `F3`: Options de Beatmap
 - `F5`: Retraite les beatmaps (cela peut montrer une fenêtre de dialogue)
 - `Shift` + `Delete`: Supprime la map sélectionnée
-- `Ctrl` + `1`: Basculer vers [osu!](/wiki/osu!)
-- `Ctrl` + `2`: Basculer vers [osu!taiko](/wiki/osu!taiko)
-- `Ctrl` + `3`: Basculer vers [osu!catch](/wiki/osu!catch)
-- `Ctrl` + `4`: Basculer vers [osu!mania](/wiki/osu!mania)
-- `Ctrl` + `Enter`: Joue la map sélectionnée avec le mod [Auto](/wiki/Auto)
-- `Ctrl` + `Shift` + `Enter`: Joue la map sélectionnée avec le mod [Cinema](/wiki/Cinema)
+- `Ctrl` + `1`: Basculer vers [osu!](/wiki/Disambiguation/osu!)
+- `Ctrl` + `2`: Basculer vers [osu!taiko](/wiki/Game_mode/osu!taiko)
+- `Ctrl` + `3`: Basculer vers [osu!catch](/wiki/Game_mode/osu!catch)
+- `Ctrl` + `4`: Basculer vers [osu!mania](/wiki/Game_mode/osu!mania)
+- `Ctrl` + `Enter`: Joue la map sélectionnée avec le mod [Auto](/wiki/Game_modifier/Auto)
+- `Ctrl` + `Shift` + `Enter`: Joue la map sélectionnée avec le mod [Cinema](/wiki/Game_modifier/Cinema)
 - `Ctrl` + `A`: Active ou désactive le mod Auto
 - `Ctrl` + `F3`: Augmente la vitesse en osu!mania (seulement dans le mode osu!mania)
   - alias: `Ctrl` + `+`
@@ -103,39 +103,39 @@ Note: Tout ne fonctionne pas en mode [multi](/wiki/multi) dans l'écran de séle
 
 - Les raccourcis claviers ci-dessous présume qu'aucun mod n'est sélectionné.
 - Certains mods exige que le joueur presse le raccourci deux fois.
-- `Q`: [Easy](/wiki/Easy_mod)
-- `W`: [No Fail](/wiki/No_Fail)
-- `E`: [Half Time](/wiki/Half_Time)
+- `Q`: [Easy](/wiki/Game_modifier/Easy)
+- `W`: [No Fail](/wiki/Game_modifier/No_Fail)
+- `E`: [Half Time](/wiki/Game_modifier/Half_Time)
 
 ---
 
-- `A`: [Hard Rock](/wiki/Hard_Rock)
-- `S`: [Sudden Death](/wiki/Sudden_Death)
-- `S`, puis `S`: [Perfect](/wiki/Perfect)
-- `D`: [Double Time](/wiki/Double_Time)
-- `D`, puis `D`: [Nightcore](/wiki/Nightcore)
-- `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, et osu!catch)
-  - cela activera [Fade In](/wiki/Fade_In) pour osu!mania
-- `F`, puis `F`: [Hidden](/wiki/Hidden) (seulement pour osu!mania)
-- `G`: [Flashlight](/wiki/Flashlight)
+- `A`: [Hard Rock](/wiki/Game_modifier/Hard_Rock)
+- `S`: [Sudden Death](/wiki/Game_modifier/Sudden_Death)
+- `S`, puis `S`: [Perfect](/wiki/Game_modifier/Perfect)
+- `D`: [Double Time](/wiki/Game_modifier/Double_Time)
+- `D`, puis `D`: [Nightcore](/wiki/Game_modifier/Nightcore)
+- `F`: [Hidden](/wiki/Game_modifier/Hidden) (osu!, osu!taiko, et osu!catch)
+  - cela activera [Fade In](/wiki/Game_modifier/Fade_In) pour osu!mania
+- `F`, puis `F`: [Hidden](/wiki/Game_modifier/Hidden) (seulement pour osu!mania)
+- `G`: [Flashlight](/wiki/Game_modifier/Flashlight)
 
 ---
 
-- `X`: [Relax](/wiki/Relax)
-- `C`: [Auto Pilot](/wiki/Auto_Pilot)
-- `V`: [Spun Out](/wiki/Spun_Out)
+- `X`: [Relax](/wiki/Game_modifier/Relax)
+- `C`: [Auto Pilot](/wiki/Game_modifier/Autopilot)
+- `V`: [Spun Out](/wiki/Game_modifier/Spun_Out)
 - `B`: Auto
 - `B`, puis `B`: Cinéma
 
 ---
 
-- `3`: [3K](/wiki/3K) (seulement pour osu!mania)
-- `4`: [4K](/wiki/4K) (seulement pour osu!mania)
-- `5`: [5K](/wiki/5K) (seulement pour osu!mania)
-- `6`: [6K](/wiki/6K) (seulement pour osu!mania)
-- `7`: [7K](/wiki/7K) (seulement pour osu!mania)
-- `8`: [8K](/wiki/8K) (seulement pour osu!mania)
-- `9`: [9K](/wiki/9K) (seulement pour osu!mania)
+- `3`: [3K](/wiki/Game_modifier/xK) (seulement pour osu!mania)
+- `4`: [4K](/wiki/Game_modifier/xK) (seulement pour osu!mania)
+- `5`: [5K](/wiki/Game_modifier/xK) (seulement pour osu!mania)
+- `6`: [6K](/wiki/Game_modifier/xK) (seulement pour osu!mania)
+- `7`: [7K](/wiki/Game_modifier/xK) (seulement pour osu!mania)
+- `8`: [8K](/wiki/Game_modifier/xK) (seulement pour osu!mania)
+- `9`: [9K](/wiki/Game_modifier/xK) (seulement pour osu!mania)
 
 ## En jeu
 
@@ -176,10 +176,10 @@ Ces raccourcis fonctionnent n'importe où dans l'éditeur de beatmap :
 - `Ctrl` + `Shift` + `Down Arrow`: Baisse la vitesse du playback de 5%
 - `Ctrl` + `Up`: Monte la vitesse du playback de 25%
 - `Ctrl` + `Shift` + `Up Arrow`: Monte la vitesse du playback de 5%
-- `F1`: Basculer vers le mode [composition](/wiki/Compose)
-- `F2`: Basculer vers le mode [design](/wiki/Design)
-- `F3`: Basculer vers le mode [timing](/wiki/Timing)
-- `F4`: Ouvre le [setup de chanson](/wiki/Song_Setup) (ouvre une fenêtre de dialogue)
+- `F1`: Basculer vers le mode [composition](/wiki/Beatmap_Editor/Compose)
+- `F2`: Basculer vers le mode [design](/wiki/Beatmap_Editor/Design)
+- `F3`: Basculer vers le mode [timing](/wiki/Beatmap_Editor/Timing)
+- `F4`: Ouvre le [setup de chanson](/wiki/Beatmap_Editor/Song_Setup) (ouvre une fenêtre de dialogue)
 - `F5`: Entrer en mode de test.
 - `F6`: Ouvre le panneau du setup de timing.
 
@@ -266,7 +266,7 @@ Ces raccourcis fonctionnent n'importe où dans l'éditeur de beatmap :
 
 ### Timing
 
-- `T`: Tappe le [BPM](/wiki/BPM)/l'offset
+- `T`: Tappe le [BPM](/wiki/Beatmapping/Beats_per_minute)/l'offset
   - Vous devez tapper à un rythme constant.
 - `Shift` Quand vous ajustez le BPM/l'offset : vitesse x4
 - `Ctrl` + `B`: Reset les points de timing actuels

@@ -12,9 +12,9 @@ The **UK Community Cup 6** (***UKCC6***) was a British 2v2 double-elimination os
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/854898?n=1)
-- [Challonge](https://challonge.com/ukcc6 "Challonge")
-- [Discord](https://discord.gg/EtsU7Cw "Discord")
-- [Livestream](https://twitch.tv/osuukcc "Twitch")
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTi6b__EjonaaZCncvq0_zGNjlCRKbfdGXsuZBhLHnhmn4DC2SvRUWlQiqQQQ1vLR6noRyeYr6wAg-y/pubhtml?gid=0# "Google Sheets")
+- [Challonge](https://challonge.com/ukcc6)
+- [Discord](https://discord.gg/EtsU7Cw)
+- [Livestream](https://twitch.tv/osuukcc)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTi6b__EjonaaZCncvq0_zGNjlCRKbfdGXsuZBhLHnhmn4DC2SvRUWlQiqQQQ1vLR6noRyeYr6wAg-y/pubhtml?gid=0#)
 
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"

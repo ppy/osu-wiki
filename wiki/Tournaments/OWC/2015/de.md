@@ -43,7 +43,7 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 
 ## Links
 
-- [osu! World Cup 2015 auf Twitch](https://www.twitch.tv/osulive "Twitch")
+- [osu! World Cup 2015 auf Twitch](https://www.twitch.tv/osulive)
 - [Diskussionsthread](https://osu.ppy.sh/community/forums/posts/4550383)
 - [Registrierungsseite](https://osu.ppy.sh/tournaments/2)
 
@@ -201,7 +201,7 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 
 5. Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
 
-6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png "puush") teilen sich die Etappen wie folgt auf:
+6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
 
    | Stage | Match ID |
    | :-- | :-- |

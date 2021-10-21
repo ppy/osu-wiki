@@ -25,7 +25,7 @@ tags:
 
 *Laman utama: [Pusat bantuan](/wiki/Help_Centre)*
 
-Berikut merupakan jawaban atas pertanyaan-pertanyaan yang umum diajukan seputar segala hal yang berhubungan dengan akun osu! milikmu. Harap baca artikel ini dengan seksama untuk mengetahui apakah pertanyaan yang hendak kamu ajukan telah terperinci di dalamnya.
+Berikut merupakan jawaban atas pertanyaan-pertanyaan yang umum diajukan seputar segala hal yang berhubungan dengan akun osu! milikmu. Harap simak artikel ini dengan seksama untuk mengetahui apakah pertanyaan yang hendak kamu ajukan telah terperinci di dalamnya.
 
 ## Supporter
 
@@ -148,7 +148,7 @@ Apabila kamu hanya ingin mengoreksi hal-hal seperti penggunaan huruf besar/kecil
 
 Apabila pemilik dari nama pengguna yang hendak kamu ambil tidak tercatat memiliki riwayat permainan apapun dan tidak pernah melakukan *login* dalam kurun waktu setidaknya 6 bulan ke belakang, maka kamu dapat mengambil nama pengguna yang bersangkutan melalui [laman penggantian nama pengguna](https://osu.ppy.sh/store/products/32) seperti biasa.
 
-Apabila pemilik dari nama pengguna yang hendak kamu ambil **tercatat memiliki riwayat permainan**, maka nama pengguna yang bersangkutan baru akan dapat kamu ambil setelah 6 bulan + jangka waktu tambahan sebagaimana yang ditentukan oleh [formula berikut](https://www.desmos.com/calculator/b89siyv9j8 "Grafik Desmos"). Hal ini ditujukan untuk mencegah terambilnya nama pengguna milik pemain lain yang masih aktif atau baru saja pensiun.
+Apabila pemilik dari nama pengguna yang hendak kamu ambil **tercatat memiliki riwayat permainan**, maka nama pengguna yang bersangkutan baru akan dapat kamu ambil setelah 6 bulan + jangka waktu tambahan sebagaimana yang ditentukan oleh [formula berikut](https://www.desmos.com/calculator/b89siyv9j8). Hal ini ditujukan untuk mencegah terambilnya nama pengguna milik pemain lain yang masih aktif atau baru saja pensiun.
 
 ### Apakah saya dapat mengambil kembali nama pengguna saya yang terdahulu?
 

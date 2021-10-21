@@ -10,7 +10,7 @@ Below are just a few of the ways you can help out in the community:
 
 [The wiki](https://github.com/ppy/osu-wiki) is our official knowledge base that contains anything and everything about osu!. And as such, the wiki is always looking for more contributors to help keep the site up-to-date with fresh, new knowledge or translations.
 
-If you are a newcomer to the osu! wiki, you can read more about it in the [osu! wiki Contribution Guide](/wiki/osu!_wiki_Contribution_Guide).
+If you are a newcomer to the osu! wiki, you can read more about it in the [osu! wiki contribution guide](/wiki/osu!_wiki/Contribution_guide).
 
 ## Help keep osu! friendly and safe
 
@@ -60,7 +60,7 @@ Below are just a few of the ways you can contribute:
 
 ## Contribute to the future of osu!
 
-Started in 2017, the osu!lazer project is the current focus of the osu! team, along with the new website, which is what you see today! If you would like to help make these projects even better and bring us closer to the future of osu!, there are a number of things you can do, but below are just a few examples:
+Started in 2017, the osu!lazer project is the current focus of [the osu! team](/wiki/People/The_Team), along with the new website, which is what you see today! If you would like to help make these projects even better and bring us closer to the future of osu!, there are a number of things you can do, but below are just a few examples:
 
 - Helping with the [osu!lazer](https://github.com/ppy/osu) project. There is so much to implement on the new version of osu!, and you can help make it happen!
 - Make the [new website](https://github.com/ppy/osu-web) even better.

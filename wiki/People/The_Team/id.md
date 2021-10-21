@@ -11,7 +11,7 @@ tags:
 
 *Untuk rekam jejak anggota yang dipromosikan ke dan dipensiunkan dari jajaran staf osu! seiring waktu, harap lihat: [Staff Log](/wiki/Staff_Log)*
 
-Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** (osu!team) yang memiliki tanggung jawab utama untuk menjadikan osu! istimewa bagi semua.
+Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** yang memiliki tanggung jawab utama untuk menjadikan osu! istimewa bagi semua.
 
 | Nama | Peran <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
 | :-- | :-- |
@@ -86,11 +86,11 @@ Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggo
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Cili"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
-[flag_FR]: /wiki/shared/flag/FR.gif "Perancis"
+[flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
 [flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
 [flag_GR]: /wiki/shared/flag/GR.gif "Yunani"
 [flag_JP]: /wiki/shared/flag/JP.gif "Jepang"

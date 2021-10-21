@@ -147,7 +147,7 @@ Go to the point where the BPM changes, press F6 to open the Timing panel, add an
 | Name | Description |
 | :-- | :-- |
 | Timing Point: | The timing point or "Red Line" is there to time your song. Without it you can't start mapping. Refer to above on steps to [**Timing**](#timing) your song |
-| Inherited Point: | The inherited point or "Green Line" is used to add "effects" to your map. With these, you can change the volume, the sample set, the slider velocity (SV) and you can add a [Kiai-Time](/wiki/Beatmap_Editor/Kiai_Time). |
+| Inherited Point: | The inherited point or "Green Line" is used to add "effects" to your map. With these, you can change the volume, the sample set, the slider velocity (SV) and you can add a [Kiai-Time](/wiki/Kiai_time). |
 | Kiai: | The Kiai can be selected in "Style" and can be added between two inherited points. The Kiai Time is normally used in the chorus of your Song. It'll spawn star fountains on both sides of the screen and is used to emphasize a section of the map. |
 
 ### Pattern

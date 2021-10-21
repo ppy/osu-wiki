@@ -55,10 +55,10 @@ Advanced Global Taiko Showdown 2019 był prowadzony przez różnych członków s
 ## Links
 
 - [Wątek dyskusyjny](https://osu.ppy.sh/community/forums/topics/931003)
-- [Serwer Discord AGTS](https://discord.gg/zbHVzvF "Discord")
-- [Livestream](https://www.twitch.tv/gtsosu "Twitch")
-- [Challonge brackets](https://challonge.com/AGTS2019 "Challonge")
-- **[Arkusz Statystyk](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing "Google Sheets")**
+- [Serwer Discord AGTS](https://discord.gg/zbHVzvF)
+- [Livestream](https://www.twitch.tv/gtsosu)
+- [Challonge brackets](https://challonge.com/AGTS2019)
+- **[Arkusz Statystyk](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
 
 ## Uczestnicy
 
@@ -120,7 +120,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Wielkie Finały
 
-**[Tutaj pobierzesz paczki map! (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE "MEGA")**
+**[Tutaj pobierzesz paczki map! (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE)**
 
 - NoMod
   - [sakuraburst - dragonlands (Faputa) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/935765#taiko/1954961)
@@ -149,7 +149,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Finały
 
-**[Tutaj pobierzesz paczki map! (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ "MEGA")**
+**[Tutaj pobierzesz paczki map! (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ)**
 
 - NoMod
   - [YUC'e - PUMP (KinomiCandy) \[Kinobles & Ozzy's Oni\]](https://osu.ppy.sh/beatmapsets/610546#taiko/1289147)
@@ -178,7 +178,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Półfinały
 
-**[Tutaj pobierzesz paczki map! (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs "MEGA")**
+**[Tutaj pobierzesz paczki map! (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs)**
 
 - NoMod
   - [Murder King - Ben Her Gun Artik Sen (frukoyurdakul) \[Suistimal\]](https://osu.ppy.sh/beatmapsets/959186#taiko/2008180)
@@ -207,7 +207,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Ćwierćfinały
 
-**[Tutaj pobierzesz paczki map! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA "MEGA")**
+**[Tutaj pobierzesz paczki map! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA)**
 
 - NoMod
   - [Function Phantom - Euclid (salchow) \[Green's Fifth Axiom\]](https://osu.ppy.sh/beatmapsets/941145#taiko/2002626)
@@ -235,7 +235,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Faza Grupowa
 
-**[Tutaj pobierzesz paczki map! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE "MEGA")**
+**[Tutaj pobierzesz paczki map! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
 
 - NoMod
   - [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Ex's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/136632#taiko/342847)
@@ -267,7 +267,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Kwalifikacje
 
-**[Tutaj pobierzesz paczki map! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q "MEGA")**
+**[Tutaj pobierzesz paczki map! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q)**
 
 - NoMod
   - [kors k - Poochie (Nifty) \[Special\]](https://osu.ppy.sh/beatmapsets/946420#taiko/1976130)
@@ -486,34 +486,34 @@ All-star to zabawne wydarzenie, które odbędzie się w ten sam weekend, co Wiel
    - Wymiana zawodników podczas meczu jest dozwolona bez ograniczeń.
    - Te same zasade, co normalnie kiedy gracz się rozłączy.
 
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentyna"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazylia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
-[flag_DK]: /wiki/shared/flag/DK.gif "Dinamarca"
-[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
-[flag_ES]: /wiki/shared/flag/ES.gif "España"
-[flag_FR]: /wiki/shared/flag/FR.gif "Francia"
-[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japón"
-[flag_KR]: /wiki/shared/flag/KR.gif "Sur Corea"
-[flag_MX]: /wiki/shared/flag/MX.gif "México"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malasia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
-[flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
-[flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
-[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RU]: /wiki/shared/flag/RU.gif "Federación Rusa"
-[flag_SE]: /wiki/shared/flag/SE.gif "Suecia"
+[flag_CN]: /wiki/shared/flag/CN.gif "Chiny"
+[flag_DE]: /wiki/shared/flag/DE.gif "Niemcy"
+[flag_DK]: /wiki/shared/flag/DK.gif "Dania"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ekwador"
+[flag_ES]: /wiki/shared/flag/ES.gif "Hiszpania"
+[flag_FR]: /wiki/shared/flag/FR.gif "Francja"
+[flag_GB]: /wiki/shared/flag/GB.gif "Wielka Brytania"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hongkong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonezja"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japonia"
+[flag_KR]: /wiki/shared/flag/KR.gif "Korea Południowa"
+[flag_MX]: /wiki/shared/flag/MX.gif "Meksyk"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malezja"
+[flag_NL]: /wiki/shared/flag/NL.gif "Holandia"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipiny"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polska"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugalia"
+[flag_RU]: /wiki/shared/flag/RU.gif "Rosja"
+[flag_SE]: /wiki/shared/flag/SE.gif "Szwecja"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
-[flag_TH]: /wiki/shared/flag/TH.gif "Tailandia"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwán"
-[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
-[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
+[flag_TH]: /wiki/shared/flag/TH.gif "Tajlandia"
+[flag_TW]: /wiki/shared/flag/TW.gif "Tajwan"
+[flag_US]: /wiki/shared/flag/US.gif "Stany Zjednoczone"
+[flag_VE]: /wiki/shared/flag/VE.gif "Wenezuela"

@@ -1,6 +1,6 @@
 # Internet Relay Chat
 
-*Pour plus d'informations, voir : [Internet Relay Chat (Wikipédia)](https://fr.wikipedia.org/wiki/Internet_Relay_Chat "Wikipédia")*
+*Pour plus d'informations, consultez : [Internet Relay Chat (Wikipédia)](https://fr.wikipedia.org/wiki/Internet_Relay_Chat)*
 
 Le **Internet Relay Chat** (**IRC**) est un protocole de couche d'application utilisé pour chatter avec de nombreux clients en ligne.
 
@@ -39,14 +39,14 @@ Par défaut, de nombreux clients IRC vous informent lorsqu'un utilisateur rejoin
 
 | Client IRC | Description |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/ "GitHub") | Cochez la case "Masquer les messages d'arrivé et de départ" dans la section `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6)  |
-| [ircII](http://www.eterna.com.au/ircii/ "ircII") | Écrivez `IGNORE * CRAP` |
-| [Irssi](https://irssi.org "Irssi") | Écrivez `/ignore * JOINS PARTS QUITS` |
-| [Weechat](https://weechat.org/ "Weechat") | Écrivez `/filter add joinquit * irc_join,irc_part,irc_quit *` |
-| [KVIrc](https://www.kvirc.net/ "KVIrc") | (Référez vous à [the KVIrc wiki page](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages "GitHub")) |
-| [mIRC](https://www.mirc.com/ "mIRC") | Allez dans les options de mIRC (`Tools` -> `Options`, ou `Alt` + `O`), sélectionnez `IRC`, cliquez sur le bouton `Events...` et sélectionnez `Hide` pour les messages d'arrivé et de départ. |
-| [Quassel IRC](https://quassel-irc.org/ "Quassel IRC") | Faites un clic droit dans le chat et choisissez Joins/Parts/Quits dans le menu "Hide Events". |
-| [XChat](http://xchat.org/ "XChat") | Écrivez `/set irc_conf_mode 1` |
+| [HexChat](https://hexchat.github.io/) | Cochez la case "Masquer les messages d'arrivé et de départ" dans la section `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6)  |
+| [ircII](http://www.eterna.com.au/ircii/) | Écrivez `IGNORE * CRAP` |
+| [Irssi](https://irssi.org) | Écrivez `/ignore * JOINS PARTS QUITS` |
+| [Weechat](https://weechat.org/) | Écrivez `/filter add joinquit * irc_join,irc_part,irc_quit *` |
+| [KVIrc](https://www.kvirc.net/) | (Référez vous à [the KVIrc wiki page](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages)) |
+| [mIRC](https://www.mirc.com/) | Allez dans les options de mIRC (`Tools` -> `Options`, ou `Alt` + `O`), sélectionnez `IRC`, cliquez sur le bouton `Events...` et sélectionnez `Hide` pour les messages d'arrivé et de départ. |
+| [Quassel IRC](https://quassel-irc.org/) | Faites un clic droit dans le chat et choisissez Joins/Parts/Quits dans le menu "Hide Events". |
+| [XChat](http://xchat.org/) | Écrivez `/set irc_conf_mode 1` |
 
 ## FAQ
 
@@ -58,7 +58,7 @@ Alternativement, utilisez une adresse de serveur différente, `cho.ppy.sh` (vous
 
 ### Je reçois l'erreur "Bad Authentication Token"
 
-Essayez ce qui suit :
+Essayez les choses suivantes :
 
 1. Vérifiez que vous utilisez le bon mot de passe à partir de la [page d'authentification IRC](https://osu.ppy.sh/p/irc).
 2. Si votre nom d'utilisateur comporte des espaces, remplacez-les par des caractères de soulignement (par exemple, `This Username` devient `This_Username`).
@@ -82,4 +82,4 @@ Les utilisateurs connectés via le client osu! ou le site web n'ont pas de préf
 
 ### Quelqu'un envoie des messages, mais il n'est pas dans la liste des utilisateurs du canal !
 
-Ils sont soit en train d'utiliser [la version web du chat](https://osu.ppy.sh/community/chat), soit connectés via [osu!lazer](https://github.com/ppy/osu "GitHub").
+Ils sont soit en train d'utiliser [la version internet du chat](https://osu.ppy.sh/community/chat), soit connectés via [osu!lazer](https://github.com/ppy/osu).

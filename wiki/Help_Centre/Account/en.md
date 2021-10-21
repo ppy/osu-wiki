@@ -140,7 +140,7 @@ If you are only after minor capitalization or grammar/spelling changes, you can 
 
 If a player has not signed in for at least 6 months and has no plays, their username may be claimed via the [osu!store player name change page](https://osu.ppy.sh/store/products/32) for the standard fee associated with username changes.
 
-If that player **does** have any plays across all game modes, a [non-linear function](https://www.desmos.com/calculator/b89siyv9j8 "Desmos graph") is used to calculate how much extra time is added to those 6 months. This is to prevent people from stealing the usernames of active or recently retired players.
+If that player **does** have any plays across all game modes, a [non-linear function](https://www.desmos.com/calculator/b89siyv9j8) is used to calculate how much extra time is added to those 6 months. This is to prevent people from stealing the usernames of active or recently retired players.
 
 ### Is it possible to change my name back or revert to my old username?
 
@@ -178,7 +178,7 @@ If you create an account while on holiday in the United States, your account wil
 
 The support team can happily change your account's country upon request, **but only if you are actively living within that country at the time.**
 
-To confirm this, the team will ask for proof of residency - be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and signed in to your account.
+To confirm this, the [support team](/wiki/People/The_Team/Account_support_team) will ask for proof of residency - be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and signed in to your account.
 
 We will never display this information to anyone else, and we encourage you to blank out any personal information (while still allowing us to determine which country the document is for!) if you are concerned about your privacy.
 
