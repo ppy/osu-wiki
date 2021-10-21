@@ -4,11 +4,11 @@ outdated: true
 
 # Критерии ранкинга
 
-*Для критериев ранкинга определенного режима, смотрите: [osu!](/wiki/rc_osu!), [osu!taiko](/wiki/rc_osu!taiko), [osu!catch](/wiki/rc_osu!catch), и [osu!mania](/wiki/rc_osu!mania)*
+*Для критериев ранкинга определенного режима, смотрите: [osu!](/wiki/Ranking_Criteria/osu!), [osu!taiko](/wiki/Ranking_Criteria/osu!taiko), [osu!catch](/wiki/Ranking_Criteria/osu!catch), и [osu!mania](/wiki/Ranking_Criteria/osu!mania)*
 
 К сведению, к данным критериям относятся последние изменения, рассмотренные на [форуме для обсуждения](https://osu.ppy.sh/community/forums/87). Любое правило, рассматриваемое на форуме, приводится здесь как и прежде, и будет обновлено после того, как обсуждение достигнет соглашения.
 
-**Имейте в виду, что [нормы поведения](/wiki/Code_of_Conduct), [руководство по таймингу песен с #/8-тактом](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures), а также [правила для содержания песен](/wiki/Ranking_Criteria/Song_Content_Rules) являются частью критериев ранкинга и применяются ко всем существующим игровым режимам в osu!.**
+**Имейте в виду, что [нормы поведения](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), [руководство по таймингу песен с #/8-тактом](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures), а также [правила для содержания песен](/wiki/Rules/Song_Content_Rules) являются частью критериев ранкинга и применяются ко всем существующим игровым режимам в osu!.**
 
 ## Глоссарий
 

@@ -144,7 +144,7 @@ Tama: ok
 
 *Megjegyzés: A felhasználónév megadásakor cseréld ki a szóközöket aláhúzásokra (`_`).*
 
-Elküld egy jelentést a [Globális Moderációs Csapatnak](/wiki/Global_Moderation_Team) vagy a [Nyelvi Moderátoroknak](/wiki/Language_Moderators).
+Elküld egy jelentést a [Globális Moderációs Csapatnak](/wiki/People/The_Team/Global_Moderation_Team) vagy a [Nyelvi Moderátoroknak](/wiki/People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated).
 
 #### Használati Példa
 

@@ -28,7 +28,7 @@
 - การทำผิดกฎที่คุณ[ต้องการสารภาพ](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?)
 - [การสูญเสียในการเข้าถึงอีเมล](/wiki/Help_Centre/Installation_and_registration#sign-in)ที่ผูกกับบัญชีของคุณ หรือหากบัญชีของคุณถูกขโมย
 - [การย้อนกลับและการแก้ไขชื่อบัญชีเล็กน้อย](/wiki/Help_Centre/Account#name-changes)
-- [การลงทะเบียนบัญชีสำหรับ bot](/wiki/Bot_Account)
+- [การลงทะเบียนบัญชีสำหรับ bot](/wiki/Bot_account)
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 

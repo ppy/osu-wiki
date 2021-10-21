@@ -93,7 +93,7 @@ Los elogios deben hacerse en la sección General `(Todas las dificultades)` para
 
 ### Nominación
 
-Una vez que un beatmap acumule al menos 5 puntos de Hype, el beatmap sera elegible para la nominación. Esto funciona como lo hizo con el sistema de modding anterior. Se requiere que el beatmap tenga 2 nominaciones por los [Nominadores de beatmaps](/wiki/Beatmap_Nominators) para pasar al estado de [Calificado](/wiki/qualified).
+Una vez que un beatmap acumule al menos 5 puntos de Hype, el beatmap sera elegible para la nominación. Esto funciona como lo hizo con el sistema de modding anterior. Se requiere que el beatmap tenga 2 nominaciones por los [Nominadores de beatmaps](/wiki/People/The_Team/Beatmap_Nominators) para pasar al estado de [Calificado](/wiki/Beatmap/Category#qualified).
 
 ## Campo de envío de modificaciones
 
@@ -142,8 +142,8 @@ Al habilitar el alfiler, el [Campo de modding](#modding-field) se desplazará co
 - `Contraer todo` y `Expandir todo` Y la flecha hacia arriba: Estos mostrarán/ocultarán las publicaciones.
 - Pulgares arriba/abajo: Me gusta/No me gusta la modificación.
   - Todos menos el publicador de la modificacion pueden dar su pulgar arriba.
-  - **Dar un pulgar arriba ahora le dará al publicador de la modificación [Kudosu!](/wiki/Kudosu!) en sugerencias o problemas**
-  - Solo los miembros del [BN](/wiki/BN), [NAT](/wiki/People/Nomination_Assessment_Team), y [GMT](/wiki/GMT) pueden dar pulgar abajo (para denegar cualquier Kudosu!).
+  - **Dar un pulgar arriba ahora le dará al publicador de la modificación [Kudosu!](/wiki/Modding/Kudosu) en sugerencias o problemas**
+  - Solo los miembros del [BN](/wiki/People/The_Team/Beatmap_Nominators), [NAT](/wiki/People/The_Team/Nomination_Assessment_Team), y [GMT](/wiki/People/The_Team/Global_Moderation_Team) pueden dar pulgar abajo (para denegar cualquier Kudosu!).
 - Linea de tiempo: Muestra la marca de tiempo que aborda el problema. Solo disponible en la sección Línea de tiempo.
 - Icono de CREADOR: Muestra respuestas/publicaciones del usuario que creó el beatmapset.
 - Permalink, editar, eliminar: El Permalink toma un link directo a la publicación. Editar permite al remitente editar su publicación. Eliminar permite que el remitente elimine su publicacion.
@@ -163,7 +163,7 @@ Hype se usa para ayudar a impulsar beatmaps a la nominación; similar a cómo la
 
 ### Nominación
 
-La nominación es similar al sistema de modding anterior. Un beatmap debe recibir 2 nominaciones de dos [Nominadores de Beatmap](/wiki/Beatmap_Nominators) antes de pasar automáticamente a la etapa de calificación. Los beatmaps deben tener todas las sugerencias y problemas resueltos antes de que puedan clasificarse. BN/NAT puede restablecer las nominaciones publicando un problema en el campo de discusión.
+La nominación es similar al sistema de modding anterior. Un beatmap debe recibir 2 nominaciones de dos [Nominadores de Beatmap](/wiki/People/The_Team/Beatmap_Nominators) antes de pasar automáticamente a la etapa de calificación. Los beatmaps deben tener todas las sugerencias y problemas resueltos antes de que puedan clasificarse. BN/NAT puede restablecer las nominaciones publicando un problema en el campo de discusión.
 
 ### Kudosu!
 

@@ -517,8 +517,8 @@ HTML-комментарии<!-- TODO: написать объяснение по
 
 ```markdown
 [Критерии оформления статей](/wiki/Article_styling_criteria)
-[Разработчики](/wiki/Developers)
-[Разработчики](/wiki/Developers#game-client-developers)
+[Разработчики](/wiki/People/The_Team/Developers)
+[Разработчики](/wiki/People/The_Team/Developers#game-client-developers)
 ```
 
 ##### Ссылки на вложенные статьи

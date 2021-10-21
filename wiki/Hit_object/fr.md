@@ -8,7 +8,7 @@ tags:
 
 Les *objets* sont des éléments avec lesquels les joueurs peuvent intéragir pendant qu'une [beatmap](/wiki/Beatmap) est jouée. Chaque [mode de jeu](/wiki/Game_mode) possède son propre ensemble d'objets qui modifie l'expérience de jeu. Pour un aperçu des objets de chaque mode de jeu, consultez le tableau suivant :
 
-| osu! | osu!taiko | osu!catch | osu!mania |
+| [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
 | [cercles](/wiki/Hit_object/Hit_circle) | cercles | [fruits](/wiki/Hit_object/Fruit) | notes |
 | [sliders](/wiki/Hit_object/Slider) | drumrolls | [juice stream](/wiki/Hit_object/Juice_stream) | hold notes |

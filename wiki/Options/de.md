@@ -86,7 +86,7 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 | Eigenschaften | Auflösung im Fenstermodus | Auflösung im Vollbildmodus |
 | :-- | :-- | :-- |
 | Standard | 800 x 600, 1024 x 768 | 800 x 600, 1024 x 768 |
-| Breitbild | 1024 x 600, _Ihre Bildschirmauflösung_ (Randlos) \[Standard\] | _Ihre Bildschirmauflösung_ (native) \[Standard\] |
+| Breitbild | 1024 x 600, *Ihre Bildschirmauflösung* (Randlos) \[Standard\] | *Ihre Bildschirmauflösung* (native) \[Standard\] |
 
 - **Vollbildmodus** (osu! nimmt Ihren ganzen Bildschirm ein. Kann die Latenzzeit verringern.)
 
@@ -191,7 +191,7 @@ Hinweis: Das derzeitig abgespielte Lied in der Jukebox wird dazu verwendet.
 | Benutze Taiko-Skin für den Taiko-Modus | Falls dies ausgewählt und der Taiko-Skin vorhanden ist, wird dieser im Taiko-Modus immer verwendet. |
 | Benutze immer den Skincursor | Der Cursor des ausgewählten Skins wird alle anderen Beatmap-spezifischen Skins überschreiben. |
 | Cursorgröße | Passe die Größe des Ingame-Cursors an. |
-| Automatische Cursorgröße | Die Größe des Cursors wird entsprechend der [CS](/wiki/CS) (Circle Size) der aktuellen Beatmap angepasst. |
+| Automatische Cursorgröße | Die Größe des Cursors wird entsprechend der [CS](/wiki/Beatmap_Editor/Song_Setup#circle-size-osu-osucatch-osutaiko-only) (Circle Size) der aktuellen Beatmap angepasst. |
 | Combofarbe für Sliderball verwenden | Voraussetzung ist ein Skin, der diese Einstellung gesondert unterstützt. |
 
 ### Steuerung

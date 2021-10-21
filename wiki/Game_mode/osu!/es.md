@@ -83,7 +83,7 @@ En la *DS*, esta es una buena manera de rayar la pantalla táctil (o protector d
 
 ## Estilos de juego
 
-*[Consulte la página de estilos de juego bajo el nombre de osu!](/wiki/Play_Styles).*
+*[Consulte la página de estilos de juego bajo el nombre de osu!](/wiki/Play_style).*
 
 ## Controles
 

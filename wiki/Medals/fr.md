@@ -22,14 +22,14 @@ Les médailles **Packs de beatmaps** peuvent être obtenues en **jouant toutes l
 
 ### Notes
 
-- Les mods peuvent être utilisés à l'exception de ceux qui rendent une beatmap non classée (exemple [Auto Pilot](/wiki/AP)).
+- Les mods peuvent être utilisés à l'exception de ceux qui rendent une beatmap non classée (exemple [Auto Pilot](/wiki/Game_modifier/Autopilot)).
 - La beatmap peut être supprimé en toute sécurité une fois le statut **`CLEARED`** a été noté dans la [liste des packs de beatmaps](https://osu.ppy.sh/beatmaps/packs?type=theme).
 
 ## Talent
 
 Les médailles **Talent** sont actuellement divisées en trois groupes: Combos, top-niveau et niveau en étoiles.
 
-Les médailles Combo peuvent être obtenues en obtenant un [combo](/wiki/combo) en osu! et peuvent être complétées avec n’importe quelle musique. Atteindre le même nombre de combos dans les modes de jeu [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), ou [osu!mania](/wiki/osu!mania) n'entraînera pas l'obtention de la médaille.
+Les médailles Combo peuvent être obtenues en obtenant un [combo](/wiki/Disambiguation/Combo) en osu! et peuvent être complétées avec n’importe quelle musique. Atteindre le même nombre de combos dans les modes de jeu [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), ou [osu!mania](/wiki/Game_mode/osu!mania) n'entraînera pas l'obtention de la médaille.
 
 Pour les médailles combinées de 1 000 et de 2 000, vous devriez trouver des beatmaps approuvées au lieu des beatmaps classées.
 
@@ -39,7 +39,7 @@ Les médailles de top niveau peuvent être obtenues en atteignant un certain cla
 
 ---
 
-Les réalisations basées sur la difficulté en étoiles sont divisées en deux groupes, *Pass* et *S*. Les médailles *Pass* peuvent être obtenues en passant toute carte d’une certaine difficulté en étoile. Les médailles *S* seront obtenues si vous passez la carte avec un classement S tout en ayant un [FC](/wiki/FC). La difficulté de la carte sera arrondie à la difficulté de l’étoile la plus proche et donnera la médaille à ce qu’elle arrondit. Vous pouvez passer ou obtenir un S sur une carte en utilisant les mods pour augmenter la difficulté. La carte doit également être classée pour pouvoir gagner une médaille.
+Les réalisations basées sur la difficulté en étoiles sont divisées en deux groupes, *Pass* et *S*. Les médailles *Pass* peuvent être obtenues en passant toute carte d’une certaine difficulté en étoile. Les médailles *S* seront obtenues si vous passez la carte avec un classement S tout en ayant un [FC](/wiki/Full_combo). La difficulté de la carte sera arrondie à la difficulté de l’étoile la plus proche et donnera la médaille à ce qu’elle arrondit. Vous pouvez passer ou obtenir un S sur une carte en utilisant les mods pour augmenter la difficulté. La carte doit également être classée pour pouvoir gagner une médaille.
 
 ## Dévouement
 

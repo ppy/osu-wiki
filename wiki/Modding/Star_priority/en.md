@@ -13,7 +13,7 @@ Star priority has two meanings:
    - A kudosu star can be given by any user to any beatmap, though shooting a kudosu star comes at the price of one kudosu.
    - The conversion rate was formerly three kudosu for one kudosu star that increased the Star Priority by two.
    - The higher the star priority, the higher the beatmap's thread appears in the Works in Progress or Pending subforum.
-   - At least 12 star priority is needed for a beatmap to be bubbled or ranked.
+   - At least 12 star priority is needed for a beatmap to be [bubbled](/wiki/Modding/Bubble) or ranked.
 2. A method in determining whether a Feature Request is wanted by the community.
    - The higher the star priority, the faster it gets noticed.
    - Users with active osu!supporter status can increase the priority by two stars (![Star](img/star.png)) per vote, while regular users' votes are worth a single star. Users may be able to shoot multiple stars depending on how many votes they have left.

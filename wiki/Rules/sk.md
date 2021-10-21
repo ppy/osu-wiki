@@ -25,7 +25,7 @@ Tieto pravidlá sú základy, pomocou ktorých sa snažíme udžať osu! komunit
 6. **Buď ohľaduplný o tom čo zdieľaš s ostatnými, obzvlášť pokiaľ je obsah veľmi znepokojujúci alebo veľmi nechutný.** Pokiaľ musíš premýšlať o tom či je vhodné poslať, to čo chceš poslať, pravdepodobne je to nevhodné. Vyhni sa zdieľaniu vecí ako sú napríklad rapídne blikajúce svetlá, znechuťujúce obrázky, obsah zachytávajúci zneužívanie a pod.
 7. **Udržuj odkazy k relevantným a legálným stránkam.** Nelegálne stremovacie stránky (oficiálne licensované ako sú Animelab a Crunchyroll sú v pohode) a čokoľvek okolo "warez" a pirátovaného softwaru akéhokoľvek druhu nie je OK, a nechceme ich v našom čete. Posielanie Twitch odkazov pre ďaľšie hry je OK, ale IBA v kanáli `#videogames`.
 8. **Neposielaj reklamy o iných četovacích serveroch akéhokoľvek druhu, vrátane Discordu, Teamspeaku alebo Skype serverov/skupín.** osu! čet je prvorade určený na diskusiu o osu!, nie na zdieľanie linkov ku tvojmu serveru. Pokiaľ to absolútne musíš urobiť, urob to cez súkromnú správu.
-9. **V kanáloch ktoré sú určené pre konkrétny jazyk musíš hovoriť len tým jazykom (angličtina pre #english, thajsky v #thai, atď...)** Kde jazyk kanálu nie je určený (a nie je v názve kanálu), jazyk je vždy angličtina. Kanály `#lobby` a `#help` sú výnimkou - môžete v nich rozprávať akýmkoľvek jazykom. *[Moderátorksý tím](/wiki/People/Global_Moderation_Team) nemusí dodržiavať toto pravidlo pri svojej práci.*
+9. **V kanáloch ktoré sú určené pre konkrétny jazyk musíš hovoriť len tým jazykom (angličtina pre #english, thajsky v #thai, atď...)** Kde jazyk kanálu nie je určený (a nie je v názve kanálu), jazyk je vždy angličtina. Kanály `#lobby` a `#help` sú výnimkou - môžete v nich rozprávať akýmkoľvek jazykom. *[Moderátorksý tím](/wiki/People/The_Team/Global_Moderation_Team) nemusí dodržiavať toto pravidlo pri svojej práci.*
 
 ## Fórum pravidlá
 
@@ -39,7 +39,7 @@ Tieto pravidlá sú základy, pomocou ktorých sa snažíme udžať osu! komunit
 
 ## Pravidlá o odosielaní beatmáp
 
-Tieto pravidlá sá týkajú striktne beatmáp odoslaných priamo z hry pomocou [systému odosielania beatmáp](/wiki/Submission). Tieto vlákna/diskusie sú vytvorené, keď sa beatmapa odošle s osu! [editora](/wiki/editor).
+Tieto pravidlá sá týkajú striktne beatmáp odoslaných priamo z hry pomocou [systému odosielania beatmáp](/wiki/Submission). Tieto vlákna/diskusie sú vytvorené, keď sa beatmapa odošle s osu! [editora](/wiki/Beatmap_Editor).
 
 Sú tu tiež viac detailné pravidlá týkajúce sa konštrukcie beatmáp, ktoré sa nazývajú [Kritéria pre ohodnotenie](/wiki/Ranking_Criteria).
 

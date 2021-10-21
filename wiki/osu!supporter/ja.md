@@ -18,7 +18,7 @@ osu!サポータータグを購入することで、ゲームの開発を直接�
 
 ![osu!store商品バナー](img/store-product.jpg?1 "osu!storeでのosu!サポーター商品バナー")
 
-osu!サポーターを入手するには、ログイン(または[登録](/wiki/sign_up))してから、[ストアページ](https://osu.ppy.sh/store/products/supporter-tag)にアクセスします。スライダーまたは月ボタン(スライダーの下)を使って、osu!サポータータグの期間を選択します。期間が異なると、お支払いいただく価格が変わります。使用される通貨は米ドル(USD)です。お住まいの国で異なる通貨を使用している場合は、[OANDA](https://www.oanda.com/currency/converter/)や[Google](https://www.google.com/search?q=usd+exchange+rate)などの通貨換算機を使って価格を確認してください。osu!storeのページに表示されている価格は、個人アカウントごとのものです。
+osu!サポーターを入手するには、ログイン(または[登録](/wiki/Registration))してから、[ストアページ](https://osu.ppy.sh/store/products/supporter-tag)にアクセスします。スライダーまたは月ボタン(スライダーの下)を使って、osu!サポータータグの期間を選択します。期間が異なると、お支払いいただく価格が変わります。使用される通貨は米ドル(USD)です。お住まいの国で異なる通貨を使用している場合は、[OANDA](https://www.oanda.com/currency/converter/)や[Google](https://www.google.com/search?q=usd+exchange+rate)などの通貨換算機を使って価格を確認してください。osu!storeのページに表示されている価格は、個人アカウントごとのものです。
 
 ### 期間の選択
 
