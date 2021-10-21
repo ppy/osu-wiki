@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: bb68816d3f5cdcce9eaa78788e9fc7b671e1dc93
+---
+
 # Fenêtre Song Setup
 
 Song Setup est la quatrième section de [l'éditeur de beatmap](/wiki/Beatmap_Editor). Elle contient les métadonnées et les paramètres généraux de configuration de la beatmap.

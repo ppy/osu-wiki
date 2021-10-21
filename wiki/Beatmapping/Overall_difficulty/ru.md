@@ -7,6 +7,8 @@ tags:
   - точность
   - общая сложность
   - окно попадания
+outdated: true
+outdated_since: bb68816d3f5cdcce9eaa78788e9fc7b671e1dc93
 ---
 
 # Overall difficulty
