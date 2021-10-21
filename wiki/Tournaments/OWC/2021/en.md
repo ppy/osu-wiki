@@ -118,25 +118,25 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | South Korea | ![][flag_KR] | ![][flag_UA] | Ukraine | Oct 23 (Sat) 11:00 UTC | Oct 23 (Sat) 20:00 UTC+9 | Oct 23 (Sat) 14:00 UTC+3 |
 | Hong Kong | ![][flag_HK] | ![][flag_TR] | Turkey | Oct 23 (Sat) 12:00 UTC | Oct 23 (Sat) 20:00 UTC+8 | Oct 23 (Sat) 15:00 UTC+3 |
-| Russian Federation | ![][flag_RU] | ![][flag_CN] | China | Oct 23 (Sat) 13:00 UTC | Oct 23 (Sat) 16:00 UTC+3 | Oct 23 (Sat) 21:00 UTC+8 |
 | United Kingdom | ![][flag_GB] | ![][flag_SG] | Singapore | Oct 23 (Sat) 14:00 UTC | Oct 23 (Sat) 15:00 UTC+1 | Oct 23 (Sat) 22:00 UTC+8 |
-| Indonesia | ![][flag_ID] | ![][flag_MX] | Mexico | Oct 23 (Sat) 15:00 UTC | Oct 23 (Sat) 22:00 UTC+7 | Oct 23 (Sat) 10:00 UTC-5 |
-| Chile | ![][flag_CL] | ![][flag_AR] | Argentina | Oct 23 (Sat) 16:00 UTC | Oct 23 (Sat) 12:00 UTC-4 | Oct 23 (Sat) 13:00 UTC-3 |
-| United States | ![][flag_US] | ![][flag_UY] | Uruguay | Oct 23 (Sat) 17:00 UTC | Oct 23 (Sat) 12:00 UTC-5 | Oct 23 (Sat) 14:00 UTC-3 |
+| Russian Federation | ![][flag_RU] | ![][flag_CN] | China | Oct 23 (Sat) 15:00 UTC | Oct 23 (Sat) 18:00 UTC+3 | Oct 23 (Sat) 23:00 UTC+8 |
+| Brazil | ![][flag_BR] | ![][flag_PH] | Philippines | Oct 23 (Sat) 15:30 UTC | Oct 23 (Sat) 12:30 UTC-3 | Oct 23 (Sat) 23:30 UTC+8 |
 
 ### Sunday, October 24, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Brazil | ![][flag_BR] | ![][flag_PH] | Philippines | Oct 24 (Sun) 02:00 UTC | Oct 23 (Sat) 23:00 UTC-3 | Oct 24 (Sun) 10:00 UTC+8 |
-| Japan | ![][flag_JP] | ![][flag_MY] | Malaysia | Oct 24 (Sun) 11:00 UTC | Oct 24 (Sun) 20:00 UTC+9 | Oct 24 (Sun) 19:00 UTC+8 |
-| Australia | ![][flag_AU] | ![][flag_NO] | Norway | Oct 24 (Sun) 12:00 UTC | Oct 24 (Sun) 22:00 UTC+10 | Oct 24 (Sun) 14:00 UTC+2 |
+| Indonesia | ![][flag_ID] | ![][flag_MX] | Mexico | Oct 24 (Sun) 05:00 UTC | Oct 24 (Sun) 12:00 UTC+7 | Oct 24 (Sun) 00:00 UTC-5 |
+| Australia | ![][flag_AU] | ![][flag_NO] | Norway | Oct 24 (Sun) 11:00 UTC | Oct 24 (Sun) 21:00 UTC+10 | Oct 24 (Sun) 13:00 UTC+2 |
 | Romania | ![][flag_RO] | ![][flag_TW] | Taiwan | Oct 24 (Sun) 13:00 UTC | Oct 24 (Sun) 16:00 UTC+3 | Oct 24 (Sun) 21:00 UTC+8 |
+| Japan | ![][flag_JP] | ![][flag_MY] | Malaysia | Oct 24 (Sun) 13:00 UTC | Oct 24 (Sun) 22:00 UTC+9 | Oct 24 (Sun) 21:00 UTC+8 |
+| Germany | ![][flag_DE] | ![][flag_AT] | Austria | Oct 24 (Sun) 14:00 UTC | Oct 24 (Sun) 16:00 UTC+2 | Oct 24 (Sun) 16:00 UTC+2 |
 | Poland | ![][flag_PL] | ![][flag_CZ] | Czech Republic | Oct 24 (Sun) 14:00 UTC | Oct 24 (Sun) 16:00 UTC+2 | Oct 24 (Sun) 16:00 UTC+2 |
 | Sweden | ![][flag_SE] | ![][flag_NL] | Netherlands | Oct 24 (Sun) 15:00 UTC | Oct 24 (Sun) 17:00 UTC+2 | Oct 24 (Sun) 17:00 UTC+2 |
 | France | ![][flag_FR] | ![][flag_FI] | Finland | Oct 24 (Sun) 16:00 UTC | Oct 24 (Sun) 18:00 UTC+2 | Oct 24 (Sun) 19:00 UTC+3 |
 | Canada | ![][flag_CA] | ![][flag_ES] | Spain | Oct 24 (Sun) 17:00 UTC | Oct 24 (Sun) 13:00 UTC-4 | Oct 24 (Sun) 19:00 UTC+2 |
-| Germany | ![][flag_DE] | ![][flag_AT] | Austria | Oct 24 (Sun) 18:00 UTC | Oct 24 (Sun) 20:00 UTC+2 | Oct 24 (Sun) 20:00 UTC+2 |
+| United States | ![][flag_US] | ![][flag_UY] | Uruguay | Oct 24 (Sun) 20:00 UTC | Oct 24 (Sun) 15:00 UTC-5 | Oct 24 (Sun) 17:00 UTC-3 |
+| Chile | ![][flag_CL] | ![][flag_AR] | Argentina | Oct 24 (Sun) 21:00 UTC | Oct 24 (Sun) 17:00 UTC-4 | Oct 24 (Sun) 18:00 UTC-3 |
 
 ## Mappools
 
@@ -150,7 +150,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
   - [Laur - Nostalgic Blood of the Strife (Zelq) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1257525#osu/2613076)
 - Hidden
   - [Sound Souler - Bubble Flower (Keqing) \[Serenity\]](https://osu.ppy.sh/beatmapsets/1604543#osu/3276559)
-  - [Ueda Kana & Koshimizu Ami & Kugimiya Rie - Netsuretsu Kangei Wonderland (Mirash) \[Delisha vs Mirash's Mahjong Soul 1v1 Grand Finals \[BO9\]](https://osu.ppy.sh/beatmapsets/1604477#osu/3276441)
+  - [Various Artists - Netsuretsu Kangei Wonderland (Mirash) \[Delisha vs Mirash's Mahjong Soul 1v1 Grand Finals \[BO9\]\]](https://osu.ppy.sh/beatmapsets/1604477#osu/3276441)
 - HardRock
   - [jippusu - Mushikui Saikede Rhythm (Amamiya Yuko) \[RLC\]](https://osu.ppy.sh/beatmapsets/87547#osu/240689)
   - [P4koo - Makes Me Wonder (Alvearia) \[Ex\]](https://osu.ppy.sh/beatmapsets/1514096#osu/3099848)
