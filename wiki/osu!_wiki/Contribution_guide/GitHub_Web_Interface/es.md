@@ -18,7 +18,7 @@ no_native_review: true
 
    ![](img/online-editing.jpg "El hacer click en éste ícono de lápiz en GitHub te mandará al editor online")
 
-5. Ahora puedes hacer cambios. Cuando haces cambios, sigue el [Criterio de Estilo de Artículos](/wiki/Article_Styling_Criteria) tanto como puedas.
+5. Ahora puedes hacer cambios. Cuando haces cambios, sigue el [Criterio de Estilo de Artículos](/wiki/Article_styling_criteria) tanto como puedas.
 
 6. Continua en [Guardando y haciendo un 'commit'](#guardando-y-haciendo-un-'commit').
 

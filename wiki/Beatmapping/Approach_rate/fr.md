@@ -9,7 +9,7 @@ tags:
 
 *Pour les valeurs d'AR suggérées, voir : [Critères de classement](/wiki/Ranking_Criteria)*
 
-L'**Approach Rate** (abrégé en ***AR***) est un paramètre de difficulté d'une [beatmap](/wiki/Beatmap) qui défini à quel moment les [objets](/wiki/Hit_Objects) commencent à apparaître par rapport à quand ils doivent être frappés ou récoltés. Il existe seulement dans les modes [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch).
+L'**Approach Rate** (abrégé en ***AR***) est un paramètre de difficulté d'une [beatmap](/wiki/Beatmap) qui défini à quel moment les [objets](/wiki/Hit_object) commencent à apparaître par rapport à quand ils doivent être frappés ou récoltés. Il existe seulement dans les modes [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch).
 
 Les valeurs de l'AR vont de 0 à 10. Un approach rate plus élevé signifie que les objets seront affichés pendant une période plus courte, ce qui laisse moins de temps au joueur pour réagir. En revanche, des approach rates plus faibles permettent plus de temps de réaction, mais peuvent entraîner l'apparition d'un nombre excessif d'objets à l'écran en même temps.
 

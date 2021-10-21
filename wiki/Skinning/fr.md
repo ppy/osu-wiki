@@ -10,7 +10,7 @@ Le skinning est l'une des principales caractéristiques d'osu!. Cela permet aux 
 
 ## Comment puis-je faire un skin
 
-*Page principale: [Tutoriel de skinning](/wiki/Skinning/Tutorial)*
+*Page principale: [Tutoriel de skinning](/wiki/Skinning/Guides_and_important_threads)*
 
 ## Listes d'éléments de skins
 
@@ -25,8 +25,8 @@ La liste des éléments de skinning est divisée en plusieurs catégories:
 
 ## Voir également
 
-- [skin.ini](/wiki/skin.ini)
+- [skin.ini](/wiki/Skinning/skin.ini)
 - [Histoire du skinning](/wiki/Skinning/History) - une liste d'anciens éléments de skinning
 - [Compendium](https://osu.ppy.sh/community/forums/topics/686664) - une liste des skins terminées
 - [FAQ Skinning](/wiki/Skinning/FAQ)
-- [Guides et discussions importants](/wiki/Skinning/Guides_and_Important_Threads)
+- [Guides et discussions importants](/wiki/Skinning/Guides_and_important_threads)

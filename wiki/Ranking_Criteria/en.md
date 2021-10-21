@@ -43,13 +43,14 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 ### Rules
 
 - **All game modes within a beatmap must form a spread starting from the lowest difficulty level dictated by the song's [drain time](/wiki/Gameplay/Drain_time).** For difficulties above the lowest required difficulty level, the spread cannot skip any difficulty levels and there cannot be any drastically large difficulty gaps between any two difficulties.
-- **Each difficulty must comply with its mode's difficulty-specific ranking criteria.** See the [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](osu!mania) ranking criteria for more information.
+- **Each difficulty must comply with its mode's difficulty-specific ranking criteria.** See the [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](/wiki/Ranking_Criteria/osu!mania) ranking criteria for more information.
 - **Every difficulty of a beatmap must have a minimum [drain time](/wiki/Gameplay/Drain_time) of 30 seconds.**
 - **If the [drain time](/wiki/Gameplay/Drain_time) of each difficulty is...**
   - **...lower than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Normal.
   - **...between 3:30 and 4:15**, the lowest difficulty of each included game mode cannot be harder than a Hard.
   - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Insane.
   - **Difficulties below the highest difficulty can combine break times with drain time to meet the above thresholds.** This does not apply to difficulties with less than 30 seconds of drain time. Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) members for the corresponding game modes.
+  - **osu!mania beatmaps are bound by a different set of drain time thresholds and other spread rules defined in the [osu!mania ranking criteria](/wiki/Ranking_Criteria/osu!mania).**
 - **Difficulty names in a beatmap must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
   - The highest difficulty of each game mode.
   - The highest difficulties of each game mode with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
@@ -109,7 +110,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 #### Romanisation
 
-- **An artist's name is to be romanised in the order it is printed in the unicode field, unless an alternative order for the romanised name is provided by the artist.**
+- **When romanising an artist's name yourself and no official romanisation is available, it must be romanised in the order it is printed in the unicode field.**
 - **Loan words from other languages have to use the original words in their stead when attempting to romanise them.**
 - **When a song uses repeat words in the title or in the artist where one is in unicode, and the other as a basic romanisation, the romanised field must use the provided romanisation only and remove the duplicate word.**
 - **Umlauts must be romanised into two-letter equivalents: `ü` to `ue`, `ö` to `oe`, `ä` to `ae` and `ß` to `ss`.**
@@ -147,11 +148,10 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 ### Allowances
 
-This category contains explicit allowance statements of concepts and rules that are not commonly straightforward even after reading this whole section of the ranking criteria.
+This category contains explicit allowance statements of concepts and rules that are not commonly straightforward even after reading this whole section of the ranking criteria. In cases where there are multiple options available for a song's metadata, the above standardisation rules for the Ranked and Loved sections take priority.
 
 - **For songs where the composer(s) and singer(s) are different people, the singer(s) may be listed after the composer(s) or circle/group name following a `feat.` indicator.**
-- **If an artist has provided an official translation for their name, this may be used in the romanised artist field.** Official romanisation may be used for the spelling of an artist's name, but the name order must follow the related rule.
-- **If a Unicode Song title has either an official translation or romanisation provided by the artist, either or may be used in the romanised title field.**
+- **If a Unicode song title or artist has an official translation or romanisation provided by the artist, it may be used in the respective romanised field. If both a translation and romanisation are available, either may be used.**
 - **If a beatmap's track was contributed to by multiple artists, they may be listed with commas inbetween.** If there are 3 or more contributing artists and they are not part of one officially labelled group, `Various Artists` or other descriptive artist labels may be used instead.
 - **For Remixes/Covers, the original artist may be used in the artist field, as long as the title field is modified to clearly show that the song is remixed.** This marker should all be in parentheses and contain the Remix/Cover artist followed by descriptor.
 
@@ -181,7 +181,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **A beatmap may only contain one song file used by all difficulties.** Multiple song files within a single beatmap are unsupported and result in unexpected behaviour with preview times, metadata, etc.
 - **A song's audio file and hitsound files must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes and should not be encoded to a bit rate higher than their original files.
 - **Beatmaps must be hitsounded.** Hitnormals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.
-  - **For osu!mania beatmaps containing only difficulties Insane or above, additions are not required.**
+  - **osu!mania beatmaps do not require hitsound additions.** This is to allow for easier approachability to osu!mania mappers of different upbringings. It is still highly recommended to add hitsounds to improve the feel of your beatmaps. In cases where hitsounds are not used, *no* additions may be placed, and *no* sample control points should be used (ie. to adjust volume).
 - **All clicked objects must have audible [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound).** osu!mania difficulties are exempt from this because of the mode's rhythm construction.
 - **[Active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound) must use the `.wav` or `.ogg` file formats.** `.mp3` files have slight delays, and therefore are reserved only for longer [passive hitsounds](/wiki/Beatmapping/Hitsound#passive-hitsound), such as ambient noises.
 - **[Active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound) cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hitsound feedback is synchronized to a song effectively. The default skin's `normal-hitfinish.wav` has a slight delay, but still can be used as a custom hitsound.

@@ -62,7 +62,7 @@ Chacun des mods ci-dessous aura l'icône de son mode de jeu compatible (![][osu!
 
 *Note : Ces mods étaient utilisés et disponibles il y a quelque temps, mais sont maintenant indisponibles.*
 
-- [10K](/wiki/Game_modifier/10k) ![][osu!mania]
+- [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 

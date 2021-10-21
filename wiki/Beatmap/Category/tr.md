@@ -7,7 +7,7 @@ outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 
 *[Zorluklar](/wiki/Beatmap/Difficulty) ile karıştırılmamalıdır.*
 
-**Beatmapler** şarkılar için oluşturulmuş oyun seviyeleridir. [Vuruş objeleri](/wiki/Hit_Objects), [zamanlama](/wiki/Beatmap_Editor/Timing) bilgisi, zorluk ayarları, ve görsel efektler içerir.
+**Beatmapler** şarkılar için oluşturulmuş oyun seviyeleridir. [Vuruş objeleri](/wiki/Hit_object), [zamanlama](/wiki/Beatmap_Editor/Timing) bilgisi, zorluk ayarları, ve görsel efektler içerir.
 
 Beatmapler, **[beatmap setlerinin](Beatmapsets)** bir parçası olarak yapılır. Beatmap setleri, websitesine [gönderilebilmesi](/wiki/Submission) ve [beatmap listesinde](https://osu.ppy.sh/beatmapsets) gözükmesi için beatmapleri bir arada gruplar. Her bir beatmapi farklı bir [zorluk](/wiki/Beatmap/Difficulty) olan setler genellikle tek bir şarkıyı barındırır.
 
@@ -39,14 +39,14 @@ Bu kategoride 4 hafta kalan inaktif beatmapler otomatik olarak [Mezarlıkta](#me
 
 Nitelikli [beatmap derecelendirme prosedürünün](/wiki/Beatmap_ranking_procedure) son ayağıdır. Bu beatmapler, beatmapin [derecelendirme kriterlerinin](/wiki/Ranking_Criteria) standartlarına uyup uymadığını kontrol eden en az iki [Beatmap Aday Gösterici](/wiki/People/The_Team/Beatmap_Nominators) tarafından aday gösterilmiştir. Nitelikli kategorisindeki beatmapler bir [derecelendirme sırasına](/wiki/Beatmap_ranking_procedure#moving-to-ranked) girerler, ve eğer sıradan [diskalifiye edilmemişlerse](/wiki/Beatmap_ranking_procedure#nomination-resets) en sonunda [Dereceli](#dereceli) olurlar. Bu süreç, gözden kaçan kusurların ve hataların düzeltilebileceği, savunma zincirinin son halkası görevi görür.
 
-Nitelikli beatmapler sıralamaya sahiptir, fakat [performans puanı](/wiki/Performance_Points) kazandırmaz ve Nitelikli kategorisinden çıktığında tüm skorlar silinir. Şarkı seçim ekranında onay ikonu (![](/wiki/shared/status/qualified.png)) ile ayırt edilebilir.
+Nitelikli beatmapler sıralamaya sahiptir, fakat [performans puanı](/wiki/Performance_points) kazandırmaz ve Nitelikli kategorisinden çıktığında tüm skorlar silinir. Şarkı seçim ekranında onay ikonu (![](/wiki/shared/status/qualified.png)) ile ayırt edilebilir.
 
 ### Dereceli
 
-Dereceli beatmapler, [derecelendirme kriterlerinin](/wiki/Ranking_Criteria) standartlarına erişmesi veya bunları aşması bakımından resmi içerik olarak kabul edilir. Bunlar, oyuncuların sıralamalarda rekabet etmesi ve yapılan skorlardan [performans puanı](/wiki/Performance_Points) kazanılmasını sağlar. Bir beatmap Dereceli durumuna ulaştığında, durumu tekrar değiştirilemez (olağanüstü durumlar hariç). Dereceli beatmapler şarkı seçim ekranında yukarı çift ok ikonu (![](/wiki/shared/status/ranked.png)) ile ayırt edilebilir.
+Dereceli beatmapler, [derecelendirme kriterlerinin](/wiki/Ranking_Criteria) standartlarına erişmesi veya bunları aşması bakımından resmi içerik olarak kabul edilir. Bunlar, oyuncuların sıralamalarda rekabet etmesi ve yapılan skorlardan [performans puanı](/wiki/Performance_points) kazanılmasını sağlar. Bir beatmap Dereceli durumuna ulaştığında, durumu tekrar değiştirilemez (olağanüstü durumlar hariç). Dereceli beatmapler şarkı seçim ekranında yukarı çift ok ikonu (![](/wiki/shared/status/ranked.png)) ile ayırt edilebilir.
 
 ### Sevilen
 
 *Sevilen kategorisinin tarihçesi için, bakınız: [Sevilen'in Tarihçesi](/wiki/Beatmap/History_of_Loved)*
 
-Sevilen beatmapler [derecelendirme kriterlerine](/wiki/Ranking_Criteria) uymuyor olabilir, ancak topluluk tarafından *Sevilen* beatmaplerdir ve bu yüzden [Project Loved](/wiki/Project_Loved) içerisinde yapılan topluluk oylamalarıyla düzenli bir şekilde eklenir. Sıralamaya sahiptirler, fakat [performans puanı](/wiki/Performance_Points) kazandırmaz ve Sevilen kategorisinden çıktığında tüm skorlar silinir (bu genellikle sadece yaratıcının isteği üzerine gerçekleştirilir). Sevilen beatmapler şarkı seçim ekranında kalp ikonu (![](/wiki/shared/status/loved.png)) ile ayırt edilebilir.
+Sevilen beatmapler [derecelendirme kriterlerine](/wiki/Ranking_Criteria) uymuyor olabilir, ancak topluluk tarafından *Sevilen* beatmaplerdir ve bu yüzden [Project Loved](/wiki/Project_Loved) içerisinde yapılan topluluk oylamalarıyla düzenli bir şekilde eklenir. Sıralamaya sahiptirler, fakat [performans puanı](/wiki/Performance_points) kazandırmaz ve Sevilen kategorisinden çıktığında tüm skorlar silinir (bu genellikle sadece yaratıcının isteği üzerine gerçekleştirilir). Sevilen beatmapler şarkı seçim ekranında kalp ikonu (![](/wiki/shared/status/loved.png)) ile ayırt edilebilir.

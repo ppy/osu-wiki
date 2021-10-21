@@ -2,7 +2,7 @@
 
 *Poznámka: [osu! pravidla](/wiki/Rules) zakazují používání dvou nebo více účtů!*
 
-1. Po [instalaci](/wiki/installation) osu! vás vyzve k přihlášení nebo registraci. Za předpokladu, že jste tady, protože potřebujete účet, klikněte na `Vytvořit účet`.
+1. Po [instalaci](/wiki/Installation) osu! vás vyzve k přihlášení nebo registraci. Za předpokladu, že jste tady, protože potřebujete účet, klikněte na `Vytvořit účet`.
    
    ![Registrační formulář ve hře](img/ingame-registration.jpg "Registrační formulář")
 

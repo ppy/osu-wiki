@@ -28,7 +28,7 @@ You should contact this team regarding account-related topics that are out of yo
 - Instances of misbehaviour that you [wish to admit](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?).
 - [Loss of access to the email](/wiki/Help_Centre/Installation_and_registration#sign-in) tied to your osu! account, or when your account is stolen.
 - Username [reverts and minor spelling corrections](/wiki/Help_Centre/Account#name-changes).
-- [Bot account registrations](/wiki/Bot_Account).
+- [Bot account registrations](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
