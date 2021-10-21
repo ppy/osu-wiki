@@ -268,8 +268,6 @@ In any case, for anyone searching for a peak quad chordjack-oriented pack, this 
 124 BPM, 2:37 | 3.22★, 3.22★\
 *description written by [Paturages](https://osu.ppy.sh/users/1375479)*
 
-\[img\]https://c.tenor.com/tVrkM5XhW-EAAAAC/flick-esfand.gif\[/img\]
-
 Did you get that? notapplicable certainly got the attention of many with Halogen's (not the [player](https://osu.ppy.sh/users/169992)) incredibly catchy and [highly acclaimed](https://www.youtube.com/watch?v=UpvrmgKjvys) single *U Got That*. Astute players may have already seen and encountered this map in multiplayer lobbies and gotten themselves into scrolling surprises, and there is no doubt that the notoriety and popularity of the map itself warrants its inclusion among the Loved roster.
 
 Learning this map does not come free of charge: rhythm identification and memorization is paramount in order to grasp and pass the iconic drops. However, the song being as catchy as it is, the learning experience feels fabulously satisfying: the scrolling variations augment and complement the high energy and impact of the song, providing a full audiovisual cocktail once mastery is achieved.
