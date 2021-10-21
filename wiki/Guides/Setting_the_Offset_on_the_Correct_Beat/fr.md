@@ -1,10 +1,10 @@
 # Comment régler le décalage sur le bon rythme
 
-*[About Offset Interval by Alace](https://osu.ppy.sh/community/forums/topics/20998)*
+*[À propos de l'Offset Interval par Alace](https://osu.ppy.sh/community/forums/topics/20998)*
 
-La plupart des joueurs d'osu ! ne sont pas des pros de la musique, donc nous avons quelques maps avec un problème :
+La plupart des joueurs d'osu! ne sont pas des pros de la musique, donc nous avons quelques maps avec un problème :
 
-**Le long tick blanche ne suit pas le début réel d'une section.**
+**Le long tick blanc ne suit pas le début réel d'une section.**
 
 Le premier diviseur d'une section est un heavy beat. Voir les exemples.
 
@@ -18,7 +18,7 @@ Le premier diviseur d'une section est un heavy beat. Voir les exemples.
 
 Où **0** est un heavy beat, donc vous devez régler votre décalage sur lui.
 
-OKOK regardons un exemple classé : [Toyosaki Aki - Miracle Happy Day](https://osu.ppy.sh/beatmapsets/11023)
+Regardons un exemple d'une beatmap classée : [Toyosaki Aki - Miracle Happy Day](https://osu.ppy.sh/beatmapsets/11023)
 
 - kiou2 met un offset sur 85ms, donc le long tick blanc ne suit pas le heavy beat, ce qui est incorrect. Regardez l'image X.
 

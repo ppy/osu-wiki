@@ -23,7 +23,7 @@ Un exemple de titre incorrect
 
 ### Lequel dois-je utiliser ?
 
-**Discographie :** Liste des albums/chansons sortis par le chanteur/groupe/compositeur/jeu global.
+**Discographie :** Liste des albums/chansons sortis par le chanteur/groupe/compositeur/jeu.
 
 - Exemples : [Duca](https://osu.ppy.sh/community/forums/topics/98205), [Linkin Park](https://osu.ppy.sh/community/forums/topics/121592), [Cytus](https://osu.ppy.sh/community/forums/topics/177446)
 

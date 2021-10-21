@@ -9,6 +9,7 @@ tags:
 # Vidéos de YouTube
 
 *Veuillez noter que le téléchargement de vidéos à partir de YouTube constitue une violation de leurs conditions d'utilisation.*
+
 [YouTube](https://youtube.com) est une ressource très utile pour les créateurs qui souhaitent ajouter des vidéos de fond à leurs [beatmaps](/wiki/Beatmap). Si une chanson a un clip vidéo, il sera très probablement sur YouTube, et probablement compressé à un point tel que la vidéo a l'air décente mais ne sera pas trop grande en taille.
 
 Ce tutoriel est destiné à ceux qui **ne peuvent pas** trouver la vidéo ailleurs que sur YouTube.
