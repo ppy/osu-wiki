@@ -184,7 +184,8 @@ osu! organizes the commands with a heading command. Which may look like this `[G
     - If the `skin.ini` file is present, but does not use the `Version` command, `1.0` will be used (legacy support).
 - `AnimationFramerate:`
   - Question: How many frames should be displayed by the animations that depend on this value in one second?
-  - Value: *positive integer*
+  - Values: *positive integer* or -1 to use the current framerate
+  - Default: `-1`
   - Notes:
     - This will set the framerate of most animations.
     - Exceptions: circleoverlays, sliderball, pippidon, osu!mania notes and lighting
