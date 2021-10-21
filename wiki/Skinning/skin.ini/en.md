@@ -178,20 +178,10 @@ osu! organizes the commands with a heading command. Which may look like this `[G
       - Using your forum username is preferred.
 - `Version:`
   - Question: How should the skin behave?
-  - Values:
-    - `1.0`
-    - `2.0`
-    - `2.1`
-    - `2.2`
-    - `2.3`
-    - `2.4`
-    - `2.5`
-    - `2.6`
-    - `2.7`
-    - `latest`
+  - Value: A [version number](https://osu.ppy.sh/wiki/en/Skinning/skin.ini#versions) or `latest`
   - Notes:
-    - If the `skin.ini` file is not present, `latest` will be used instead.
-    - If the `skin.ini` file is present, but does not use the `Version` command, `1.0` will be assumed (legacy support).
+    - If the `skin.ini` file is not present, `latest` will be used.
+    - If the `skin.ini` file is present, but does not use the `Version` command, `1.0` will be used (legacy support).
 - `AnimationFramerate:`
   - Question: How many frames should be displayed by the animations that depend on this value in one second?
   - Value: *positive integer*
