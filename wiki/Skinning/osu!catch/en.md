@@ -1,6 +1,6 @@
 # osu!catch skinning
 
-*See also: [Skinning osu!catch Tutorial](/wiki/Skinning_osu!catch_Tutorial)*
+*See also: [Skinning osu!catch Tutorial](/wiki/Skinning/Guides_and_important_threads)*
 
 ## Catcher
 

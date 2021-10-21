@@ -15,7 +15,7 @@ L'**overall difficulty** (abrégé en ***OD***) définit la difficulté d'obteni
 
 ## Timing
 
-Des valeurs d'OD plus élevées signifient une hit window plus courte pour frapper les [objets](/wiki/Hit_Objects), à la fois en général et pour obtenir des scores élevés. La largeur de l'intervalle pour frapper une note, centrée sur le timing correct de l'objet, est définie par le tableau suivant :
+Des valeurs d'OD plus élevées signifient une hit window plus courte pour frapper les [objets](/wiki/Hit_object), à la fois en général et pour obtenir des scores élevés. La largeur de l'intervalle pour frapper une note, centrée sur le timing correct de l'objet, est définie par le tableau suivant :
 
 | Score | hit window |
 | --: | :-- |
@@ -27,7 +27,7 @@ Si le joueur frappe en dehors de la hit window du 50, cela comptera comme un mis
 
 ## Sliders et spinners
 
-Dans [osu!](/wiki/Game_mode/osu!), les sliders récompense le joueur d'un 300 tant qu'il frappe dans la hit window du 50. Cela est parfois appelé *slideracc* et est supprimé dans le ScoreV2.
+Dans [osu!](/wiki/Game_mode/osu!), les sliders récompense le joueur d'un 300 tant qu'il frappe dans la hit window du 50. Cela est parfois appelé *slideracc* et est supprimé dans le [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
 L'overall difficulty affecte également les spinners, dans la mesure où il faut les faire tourner davantage pour remplir la jauge à temps. Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le denden aura également besoin de plus de coups pour être complété. Le nombre de tours par minutes nécessaires pour compléter un spinner est défini par la formule suivante :
 

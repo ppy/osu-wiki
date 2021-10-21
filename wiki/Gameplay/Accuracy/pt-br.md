@@ -8,7 +8,7 @@ Existem três tipos de precisão:
 
 - Precisão por [beatmap](/wiki/Beatmap).
 - Precisão individual geral.
-- Precisão em [Pontuação de Performance (pp)](/wiki/Performance_Points).
+- Precisão em [Pontuação de Performance (pp)](/wiki/Performance_points).
 
 Em termos simples,
 

@@ -11,7 +11,7 @@ tags:
 
 *Untuk penggunaan lainnya, lihat [Kombo (disambiguasi)](/wiki/Disambiguation/Combo).**
 
-**Kombo** (atau **comboset**) mengacu pada satu set hit circle dan slider di [beatmap](/wiki/Beatmap) [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch). [Hit object](/wiki/Hit_Objects) dari kombo yang sama memiliki [warna kombo](/wiki/Glossary/Combo_Colour) yang sama dan terhubung oleh followpoints. Jika pemain berhasil menyelesaikan kombo paling terakhir dalam sebuah set, pemain akan mendapatkan hadiah bonus berupa [health](/wiki/Beatmapping/Health). Setiap kombo diawali dengan hit object yang ditandai kombo baru (*New Combo*).
+**Kombo** (atau **comboset**) mengacu pada satu set hit circle dan slider di [beatmap](/wiki/Beatmap) [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch). [Hit object](/wiki/Hit_object) dari kombo yang sama memiliki [warna kombo](/wiki/Glossary/Combo_colour) yang sama dan terhubung oleh followpoints. Jika pemain berhasil menyelesaikan kombo paling terakhir dalam sebuah set, pemain akan mendapatkan hadiah bonus berupa [health](/wiki/Beatmapping/Health). Setiap kombo diawali dengan hit object yang ditandai kombo baru (*New Combo*).
 
 Perlu diketahui bahwa jenis permainan [osu!taiko](/wiki/Game_mode/osu!taiko) dan [osu!mania](/wiki/Game_mode/osu!mania) tidak menggunakan kombo.
 

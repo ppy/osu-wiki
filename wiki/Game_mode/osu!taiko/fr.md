@@ -61,7 +61,7 @@ Cela ne va pas incrémenter le compteur de combo, et cela ne va pas faire regagn
 
 ## Style de jeu
 
-*[Reportez vous à la page Style de jeu dans osu!taiko](/wiki/Play_Styles).*
+*[Reportez vous à la page Style de jeu dans osu!taiko](/wiki/Play_style).*
 
 ## Contrôles
 
