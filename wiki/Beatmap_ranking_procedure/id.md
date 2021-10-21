@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Prosedur ranking beatmap
 
 *Lihat juga: [Rank (disambiguasi)](/wiki/Disambiguation/Rank)*

@@ -5,6 +5,7 @@ tags:
   - ranking ETA
   - antrian ranking
   - tahap kualifikasi
+no_native_review: true
 ---
 
 # Antrian ranking beatmap
