@@ -732,7 +732,7 @@ Sunday, 1 July 2018:
 
 ### Reschedules
 
-- Schedules for the next round are released on the Monday before a stage is due to happen and **all** matches will be scheduled for the weekend. You can reschedule for weekdays at the staffs discretion.
+- Schedules for the next round are released on the Monday before a stage is due to happen and **all** matches will be scheduled for the weekend. You can reschedule for weekdays at the staff's discretion.
 - In order to reschedule, you must contact your opponents, agree on a time and be able to provide **proof** (by form of a screenshot/image) of the agreed reschedule to the Hosts.
 - In effort to ensure as many matches take place as possible, reschedules are allowed up to **1 hour before your match is due to be played**. However, your opponent holds the right to **refuse a reschedule if asked less than 24 hours from the scheduled time**.
 - If it is impossible to find a time to reschedule to that suits both players, both players should talk to the Hosts (Bae- or Yazzehh) and we will attempt to sort something out.
@@ -748,7 +748,7 @@ Sunday, 1 July 2018:
 
 ### Rolling
 
-- When both players are in the lobby and ready, the referee will ask the players to !roll. The order of picks of bans is decided using the [UKCC 4 roll system](https://i.imgur.com/S0VIvni.png).
+- When both players are in the lobby and ready, the referee will ask the players to `!roll`. The order of picks of bans is decided using the [UKCC 4 roll system](https://i.imgur.com/S0VIvni.png).
 
 ### Banning
 
@@ -769,7 +769,7 @@ Sunday, 1 July 2018:
 
 - For each stage there is three tiebreakers. In the event of a tied score players will private message the referee, banning one of the three tiebreakers.
   1. If players ban different tiebreakers, the unbanned tiebreaker is played.
-  2. If players ban the same tiebreaker, the referee will !roll 2 to select a tiebreaker from the unbanned ones.
+  2. If players ban the same tiebreaker, the referee will `!roll 2` to select a tiebreaker from the unbanned ones.
 - Tiebreakers are FreeMod, however No Mod can be used.
 
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
