@@ -15,4 +15,3 @@ Les utilisateurs rencontrant des **problèmes** avec ce client devraient lire le
 - [Liste des commandes](/wiki/osu!tourney/Tournament_Management_Commands)
 - [Skinning](/wiki/osu!tourney/Skinning)
 - [Diagnostic](/wiki/osu!tourney/Troubleshooting)
-- [Official tournament support](/wiki/Tournaments/Official_support)

@@ -12,4 +12,3 @@
 - [皮肤](Skinning)
 - [比赛管理指令](Tournament_Management_Commands)
 - [故障排除](Troubleshooting)
-- [Official tournament support](/wiki/Tournaments/Official_support)

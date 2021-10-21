@@ -96,7 +96,7 @@ Ajustez votre global offset jusqu'à ce que vous en soyez satisfait. L'obtention
 
 ### Entrée brute
 
-*Voir aussi : [Options](/wiki/Options#pointage)*
+*Voir également : [Options](/wiki/Options#pointage)*
 
 Une caractéristique souvent négligée du jeu est la fonction d'entrée brute. Elle permet la lecture directe de votre périphérique d'entrée dans osu! lui-même. Vous pouvez également l'utiliser si vous n'aimez pas la façon dont Windows gère le curseur de votre souris, ou particulièrement recommandé si vous utilisez une tablette. Essayez-la et jouez quelques maps avec elle, vous pourriez vous sentir beaucoup plus à l'aise avec elle !
 

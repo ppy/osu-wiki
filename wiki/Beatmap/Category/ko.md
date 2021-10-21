@@ -37,7 +37,7 @@ outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 
 ### Qualified
 
-Qualified 카테고리는 [비트맵 랭킹 절차](/wiki/Beatmap_ranking_procedure)의 마지막 단계입니다. 이 비트맵이 [랭킹 크리테리아](/wiki/Ranking_Criteria)가 요구하는 기준에 적합하다고 판단하는 적어도 두 명의 [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)를 통해 지명받게 됩니다.  Qualified 된 맵은 [랭킹 큐](/wiki/Beatmap_ranking_procedure#qualification)에 등록되고, 큐에서 [disqualified](/wiki/Beatmap_ranking_procedure#지명-초기화) 되지 않는다면 마침내 [Ranked](#ranked) 카테고리로 이동됩니다. 이 기간은 자칫 발견되지 않은 결함과 실수를 고칠 수 있는 마지막 보루입니다.
+Qualified 카테고리는 [비트맵 랭킹 절차](/wiki/Beatmap_ranking_procedure)의 마지막 단계입니다. 이 비트맵이 [랭킹 크리테리아](/wiki/Ranking_Criteria)가 요구하는 기준에 적합하다고 판단하는 적어도 두 명의 [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)를 통해 지명받게 됩니다.  Qualified 된 맵은 [랭킹 큐](/wiki/Beatmap_ranking_procedure#랭크)에 등록되고, 큐에서 [disqualified](/wiki/Beatmap_ranking_procedure#지명-초기화) 되지 않는다면 마침내 [Ranked](#ranked) 카테고리로 이동됩니다. 이 기간은 자칫 발견되지 않은 결함과 실수를 고칠 수 있는 마지막 보루입니다.
 
 Qualified 비트맵은 리더보드를 가지지만 [퍼포먼스 포인트](/wiki/Performance_points)를 얻을 수 없고, Qualified 상태를 벗어나면 기록된 모든 점수가 사라지게 됩니다. 이 비트맵들은 노래 선택 화면에서 체크 아이콘 (![](/wiki/shared/status/qualified.png)) 으로 표기됩니다.
 

@@ -50,7 +50,7 @@ Um beatmap enviado pertence a uma das seguintes categorias, que podem mudar ao l
 - [Cemitério](Category#cemitério-enterrados)
 - [Em progresso / Pendente](Category#pendente)
 - [Qualificado](Category#qualificados)
-- [Ranqueado](Categoryranqueados)
+- [Ranqueado](Category#ranqueados)
 - [Aprovado](Category#aprovados)
 - [Loved](Category#amados)
 

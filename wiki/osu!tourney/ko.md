@@ -12,4 +12,3 @@
 - [스킨](Skinning)
 - [토너먼트 관리 커맨드](Tournament_Management_Commands)
 - [문제해결 가이드](Troubleshooting)
-- [Official tournament support](/wiki/Tournaments/Official_support)

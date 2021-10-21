@@ -12,4 +12,3 @@
 - [スキニング](Skinning)
 - [トーナメント管理コマンド](Tournament_Management_Commands)
 - [トラブルシューティング](Troubleshooting)
-- [Official tournament support](/wiki/Tournaments/Official_support)
