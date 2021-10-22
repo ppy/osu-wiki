@@ -1,5 +1,6 @@
 ---
 no_native_review: true
+stub: true
 ---
 
 # Кудосу

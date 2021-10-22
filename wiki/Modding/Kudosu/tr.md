@@ -1,3 +1,7 @@
+---
+stub: true
+---
+
 # Kudosu
 
 **Kudosu** [Modlama](/wiki/Modding) için bir ödül sistemidir. Başarılı mod gönderileri için puan verir [beatmap tartışmaları](/wiki/Beatmap_Discussion). Biriken puanlar kullanıcının profil sayfasında görüntülenebilir.

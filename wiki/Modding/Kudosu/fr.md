@@ -1,3 +1,7 @@
+---
+stub: true
+---
+
 # Kudosu
 
 Les **Kudosu** font partie d'un système de récompense en [modding](/wiki/Modding). Ce système permet de récompenser un joueur qui a apporté son aide sur la beatmap d'un autre joueur depuis les [discussions de beatmap](/wiki/Beatmap_Discussion). Les Kudosu restants ainsi que le total des Kudosu obtenus sont visibles à partir du profil osu! d'un joueur.
