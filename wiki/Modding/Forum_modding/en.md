@@ -9,7 +9,7 @@ tags:
 
 # Forum modding
 
-**Forum modding**, also known as *Modding v1*, is a colloquial name of the [forum](/wiki/Forum)-based [modding](/wiki/Modding) and ranking system that was mainly used until late 2017, when all new and inactive [beatmaps](/wiki/Beatmap) were switched to [beatmap discussions](/wiki/Beatmap_Discussion) by default.
+**Forum modding**, also known as *Modding v1*, is a colloquial name of the forum-based [modding](/wiki/Modding) and ranking system that was mainly used until [November 4, 2017](https://osu.ppy.sh/community/forums/topics/650961?n=7), when all new and inactive [beatmaps](/wiki/Beatmap) were switched to [beatmap discussions](/wiki/Beatmap_Discussion) by default.
 
 In the forum modding system, every beatmap had a forum thread for communication and logging of the [ranking procedure](/wiki/Beatmap_ranking_procedure).
 
@@ -17,10 +17,10 @@ In the forum modding system, every beatmap had a forum thread for communication 
 
 A forum thread was created for a beatmap during the initial [submission](/wiki/Submission) and contained free-form comments, guest difficulty interactions, and structured feedback in form of the mod posts. It served as the main hub for discussion between all users interested in the beatmap: regular players, the [beatmap host](/wiki/Beatmap/Beatmap_host), [guest mappers](/wiki/Beatmap/Guest_difficulty), [modders](/wiki/Modding/Modder), and members of these beatmap ranking teams:
 
-- [Beatmap Appreciation Team (*BAT*)](/wiki/Modding/Beatmap_Appreciation_Team)
-- [Mapping Assistance Team (*MAT*)](/wiki/Modding/Mapping_Assistance_Team)
-- [Quality Assurance Team (*QAT*)](/wiki/Modding/Quality_Assurance_Team)
-- [Beatmap Nominators (*BN*)](/wiki/People/The_Team/Beatmap_Nominators)
+- [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*)
+- [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*)
+- [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*)
+- [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*)
 
 A forum thread was automatically be moved between different forum sections loosely tied to the [beatmap categories](/wiki/Beatmap/Category):
 
@@ -33,7 +33,7 @@ A forum thread was automatically be moved between different forum sections loose
 
 *Main article: [Star priority](/wiki/Modding/Star_priority)*
 
-In every forum section, beatmap threads were sorted by their *star priority*, which had several purposes:
+In every forum section, beatmap threads were sorted by their star priority, which had several purposes:
 
 - 12 star priority was required before a beatmap could receive a [bubble](/wiki/Modding/Bubble).
 - Some modders and members of the BAT relied on star priority when making a decision which map to mod or review next.
@@ -61,14 +61,14 @@ The beatmap's progress in the ranking procedure was shown through posts made by 
 ![](img/mod-post.png "An example of a mod post that was awarded with a kudosu ([p/1287834](https://osu.ppy.sh/forum/p/1287834))")
 :::
 
-Unlike in the modern [beatmap discussions](/wiki/Beatmap_Discussion), a typical forum mod post covered the whole beatmap and could sometimes span across several screens. While users were free to express their thoughts in any form they wished, the majority of modders adhered to a specific structure to make their posts more readable:
+Unlike in the [beatmap discussion](/wiki/Beatmap_Discussion), a typical forum mod post covered the whole beatmap and could sometimes span across several screens. While users were free to express their thoughts in any form they wished, the majority of modders adhered to a specific structure to make their posts more readable:
 
 - There were several sections corresponding to a single difficulty or a list of beatmap-wide settings/issues.
 - Each section contained a list of timestamps, often pointing to specific [hit objects](/wiki/Hit_object).
 - Each timestamp was followed by a short description of the issue, sometimes with screenshots to further clarify a concern.
 - Based on the severity of the issue, some modders used [colour coding](/wiki/BBCode#colour) in their post to highlight unrankable issues or key points.
 
-The modern *review* system<!-- TODO: article? --> was created to mimic forum modding in [beatmap discussions](/wiki/Beatmap_Discussion).
+The modern *review* system was created to mimic forum modding in beatmap discussions.
 
 ### Response
 
@@ -89,7 +89,7 @@ If a mod post was deemed useful, the mapper or a member of the QAT/BAT/BN could 
 
 Kudosu served as an activity metric for modders. Most users spent their accumulated kudosu to increase [star priority](/wiki/Modding/Star_priority) of the maps they liked or wanted to promote.
 
-### Shortcomings
+## Deprecation
 
 In the forum-based modding system, a lot of actions were manual, which often led to mistakes. Examples:
 
@@ -97,10 +97,10 @@ In the forum-based modding system, a lot of actions were manual, which often led
 - Mods could be partially or completely ignored, intentionally or not.
 - Maps could be ranked with unrankable issues, or without the approval of mode-specific nominator(s).
 
-The [beatmap discussion system](/wiki/Beatmap_Discussion), along with the [code of conduct for modding and mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post), were developed to address these issues and make modding a more enjoyable experience for everyone involved.
+The changes were initiated on [August 21, 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), when a new category, [Qualified](/wiki/Beatmap/Category#qualified), was added. Qualified would serve as a buffer between pending and ranked beatmaps and allow for more smooth unranks. In addition to that, a new team, [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*), was assembled to check qualified beatmaps and control the ranking process.
 
-<!-- TODO:
-  - Deprecation
-  - BAT/BN rankings?
-  - Which procedures were part of the modding v1?
-  - Modding Review article?-->
+Afterwards, the new [beatmap discussion system](/wiki/Beatmap_Discussion) and the [code of conduct for modding and mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) were developed to restructure modding and make it a more enjoyable experience for everyone involved.
+
+- [April 11, 2016](https://osu.ppy.sh/community/forums/topics/442285): Beatmap discussions were enabled for two beatmaps and made available for public testing.
+- [February 1, 2017](https://osu.ppy.sh/community/forums/topics/552250): After several more months of development based on collected feedback, the next version of the discussion system was enabled for another, larger set of beatmaps.
+- [November 4, 2017](https://osu.ppy.sh/community/forums/topics/650961?n=7): Beatmap discussions were enabled for all beatmaps that were newly submitted or had zero forum replies.
