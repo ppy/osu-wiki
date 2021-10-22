@@ -58,7 +58,7 @@ The beatmap's progress in the ranking procedure was shown through posts made by 
 ### Mod
 
 ::: Infobox
-![](img/mod-post.png "An example of a mod post that was awarded with a kudosu ([p/1287834](https://osu.ppy.sh/forum/p/1287834))")
+![](img/mod-post.png "An example of a mod post that was awarded with a kudosu")
 :::
 
 Unlike in [beatmap discussions](/wiki/Beatmap_Discussion), a typical forum mod post covered the whole beatmap and could contain a lot of content. While users were free to express their thoughts in any form they wished, the majority of modders adhered to a specific structure to make their posts more readable:
@@ -73,7 +73,7 @@ The modern *review* system was created to mimic forum modding in beatmap discuss
 ### Response
 
 ::: Infobox
-![](img/mod-response.png "An example of a response to a mod ([p/4469677](https://osu.ppy.sh/forum/p/4469677))")
+![](img/mod-response.png "An example of a response to a mod")
 :::
 
 While not required, mappers were expected to reply to every mod received. A reply typically contained a quote of the original post, where every suggestion was followed by a mapper's response. As with mod posts, many mappers used two or more font colours to convey their responses and help distinguish between accepted and rejected suggestions.
