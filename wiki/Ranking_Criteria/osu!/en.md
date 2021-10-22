@@ -138,7 +138,6 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Objects 1/2 of a beat apart or less must not fully [overlap](/wiki/Mapping_Techniques/Overlap).** Slider heads or tails fully overlapped by slider tails are exempt, so long as their sliderbodies are visible.
 - **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
-- **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent.
 
 #### Guidelines
 
@@ -150,6 +149,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - **Avoid spinners less than 2 beats.** Players need time to recognize that they have to begin spinning.
 - **Avoid fully covering slider reverse arrows with hit objects within 2 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
 - **Avoid fully [overlapping](/wiki/Mapping_Techniques/Overlap) slider bodies within 2 beats of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
+- **Every slider should have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable should not be used. A slider's end position should be clear under the assumption that a player has a skin which makes slider end circles fully transparent. Sliders that do not require movement are exempt from this.
 
 #### Difficulty setting guidelines
 
