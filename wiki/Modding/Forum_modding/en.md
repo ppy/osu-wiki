@@ -64,7 +64,7 @@ The beatmap's progress in the ranking procedure was shown through posts made by 
 Unlike in [beatmap discussions](/wiki/Beatmap_Discussion), a typical forum mod post covered the whole beatmap and could contain a lot of content. While users were free to express their thoughts in any form they wished, the majority of modders adhered to a specific structure to make their posts more readable:
 
 - There were several sections corresponding to single difficulties and a list of beatmap-wide settings/issues.
-- Each section contained a list of timestamps, often pointing to specific [hit objects](/wiki/Hit_object).
+- Each section contained a list of [timestamps](/wiki/Modding/Timestamp), often pointing to specific [hit objects](/wiki/Hit_object).
 - Each timestamp was followed by a short description of the issue, sometimes with screenshots to further clarify a concern.
 - Based on the severity of the issue, some modders used [colour coding](/wiki/BBCode#colour) in their post to highlight unrankable issues or key points.
 
