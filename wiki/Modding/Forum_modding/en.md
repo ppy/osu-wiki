@@ -15,14 +15,14 @@ In the forum modding system, every beatmap had a forum thread for communication 
 
 ## Beatmap thread
 
-A forum thread was created for a beatmap during the initial [submission](/wiki/Submission) and contained free-form comments, guest difficulty interactions, and structured feedback in form of the mod posts. It served as the main hub for discussion between all users interested in the beatmap: regular players, the [beatmap host](/wiki/Beatmap/Beatmap_host), [guest mappers](/wiki/Beatmap/Guest_difficulty), [modders](/wiki/Modding/Modder), and members of these beatmap ranking teams:
+A forum thread was created for a beatmap during its initial [submission](/wiki/Submission) and contained free-form comments, guest difficulty interactions, and structured feedback in form of mod posts. It served as the main hub for discussion between all users interested in the beatmap: regular players, the [beatmap host](/wiki/Beatmap/Beatmap_host), [guest mappers](/wiki/Beatmap/Guest_difficulty), [modders](/wiki/Modding/Modder), and members of these beatmap ranking teams:
 
 - [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*)
 - [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*)
 - [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*)
 - [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*)
 
-A forum thread was automatically be moved between different forum sections loosely tied to the [beatmap categories](/wiki/Beatmap/Category):
+A forum thread was automatically moved between different forum sections loosely tied to the [beatmap categories](/wiki/Beatmap/Category):
 
 - [Works In Progress/Help](https://osu.ppy.sh/community/forums/10)
 - [Pending Beatmaps](https://osu.ppy.sh/community/forums/6)
@@ -33,11 +33,11 @@ A forum thread was automatically be moved between different forum sections loose
 
 *Main article: [Star priority](/wiki/Modding/Star_priority)*
 
-In every forum section, beatmap threads were sorted by their star priority, which had several purposes:
+In every subforum, beatmap threads were sorted by their star priority, which had several purposes:
 
 - 12 star priority was required before a beatmap could receive a [bubble](/wiki/Modding/Bubble).
-- Some modders and members of the BAT relied on star priority when making a decision which map to mod or review next.
-- Star priority was a rough measure of the beatmap's popularity among modders and mappers.
+- Some modders and members of the BAT relied on star priority when deciding which map to mod or review next.
+- Star priority was a rough measure of a beatmap's popularity among modders and mappers.
 
 The priority of a beatmap could be increased by mods receiving kudosu or users shooting kudosu stars. In modern [beatmap discussions](/wiki/Beatmap_Discussion), star priority is comparable to a beatmap's [hype](/wiki/Beatmap/Hype) count.
 
@@ -47,11 +47,11 @@ The beatmap's progress in the ranking procedure was shown through posts made by 
 
 - ![](/wiki/shared/icon/star.gif) **[Star](/wiki/Disambiguation/Star)**: the beatmap had potential to become ranked.
 - ![](/wiki/shared/icon/bubble.gif) **[Bubble](/wiki/Modding/Bubble)**: the beatmap had been checked by a member of the MAT, BAT, or BN, and might be ranked after another check.
-- ![](/wiki/shared/icon/bubble-pop.gif) **[Bubble pop](/wiki/Modding/Bubble#bubble-pop)**: the beatmap had issues that prevented it from being ranked.
+- ![](/wiki/shared/icon/bubble-pop.gif) **[Bubble pop](/wiki/Modding/Bubble#bubble-pop)**: the beatmap had issues that prevented it from being ranked after receiving a bubble.
 - ![](img/icon/osu.gif) ![](img/icon/taiko.gif) ![](img/icon/ctb.gif) ![](img/icon/mania.gif) **Game mode icon**: the difficulties of the beatmap's respective [game mode](/wiki/Game_mode) were checked and approved by a BN.
 - ![](/wiki/shared/icon/heart.gif) **[Heart](/wiki/Beatmap/Category#ranked)** or ![](/wiki/shared/icon/flame.gif) **[flame](/wiki/Beatmap/Category#approved)**: the beatmap had been qualified, ranked or approved.
 - ![](/wiki/shared/icon/broken-heart.gif) **Broken heart**: the beatmap had been disqualified or unranked due to severe composition issues or lack of compliance to the [ranking criteria](/wiki/Ranking_Criteria).
-- ![](/wiki/shared/icon/nuke.gif) **[Nuke](/wiki/Modding/Nuke)**: the beatmap could not be even considered ranked in its current state.
+- ![](/wiki/shared/icon/nuke.gif) **[Nuke](/wiki/Modding/Nuke)**: the beatmap could not be even considered for rank in its current state.
 
 ## Communication
 
@@ -61,9 +61,9 @@ The beatmap's progress in the ranking procedure was shown through posts made by 
 ![](img/mod-post.png "An example of a mod post that was awarded with a kudosu ([p/1287834](https://osu.ppy.sh/forum/p/1287834))")
 :::
 
-Unlike in the [beatmap discussion](/wiki/Beatmap_Discussion), a typical forum mod post covered the whole beatmap and could sometimes span across several screens. While users were free to express their thoughts in any form they wished, the majority of modders adhered to a specific structure to make their posts more readable:
+Unlike in [beatmap discussions](/wiki/Beatmap_Discussion), a typical forum mod post covered the whole beatmap and could contain a lot of content. While users were free to express their thoughts in any form they wished, the majority of modders adhered to a specific structure to make their posts more readable:
 
-- There were several sections corresponding to a single difficulty or a list of beatmap-wide settings/issues.
+- There were several sections corresponding to single difficulties and a list of beatmap-wide settings/issues.
 - Each section contained a list of timestamps, often pointing to specific [hit objects](/wiki/Hit_object).
 - Each timestamp was followed by a short description of the issue, sometimes with screenshots to further clarify a concern.
 - Based on the severity of the issue, some modders used [colour coding](/wiki/BBCode#colour) in their post to highlight unrankable issues or key points.
