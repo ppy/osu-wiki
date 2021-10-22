@@ -29,9 +29,9 @@ After the [beatmap discussion system](/wiki/Beatmap_Discussion) was fully implem
 
 ## Mechanics
 
-{{{ Infobox
+::: Infobox
 ![](img/list-of-bubbles.png "List of bubbled beatmaps, followed by popped bubbles and starred maps")
-}}}
+:::
 
 Bubbled beatmaps' threads were listed on the first pages of the [Pending Beatmaps forum](https://osu.ppy.sh/community/forums/6), ordered by their [star priority](/wiki/Modding/Star_priority) and effectively acting as pinned forum threads.
 
