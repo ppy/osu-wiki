@@ -7,7 +7,7 @@ tags:
 
 <!-- TODO: the interface has changed quite a bit. this whole article should be rechecked to make sure it all makes sense still -->
 
-*See also: [Modding v1](/wiki/Modding/Forum_modding]*
+*See also: [Modding v1](/wiki/Modding/Forum_modding)*
 
 # Beatmap discussion
 
