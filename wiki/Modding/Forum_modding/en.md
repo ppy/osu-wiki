@@ -97,7 +97,7 @@ In the forum-based modding system, a lot of actions were manual, which often led
 - Mods could be partially or completely ignored, intentionally or not.
 - Maps could be ranked with unrankable issues, or without the approval of mode-specific nominator(s).
 
-The changes were initiated on [August 21, 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), when a new category, [Qualified](/wiki/Beatmap/Category#qualified), was added. Qualified would serve as a buffer between pending and ranked beatmaps and allow for more smooth unranks. In addition to that, a new team, [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*), was assembled to check qualified beatmaps and control the ranking process.
+The changes required to address most common issues were initiated on [August 21, 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), when a new category, [Qualified](/wiki/Beatmap/Category#qualified), was added. Qualified would serve as a buffer between pending and ranked beatmaps and allow for more smooth unranks. In addition to that, a new team, [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*), was assembled to check qualified beatmaps and control the ranking process.
 
 Afterwards, the new [beatmap discussion system](/wiki/Beatmap_Discussion) and the [code of conduct for modding and mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) were developed to restructure modding and make it a more enjoyable experience for everyone involved.
 
