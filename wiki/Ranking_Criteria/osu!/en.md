@@ -138,7 +138,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Objects 1/2 of a beat apart or less must not fully [overlap](/wiki/Mapping_Techniques/Overlap).** Slider heads or tails fully overlapped by slider tails are exempt, so long as their sliderbodies are visible.
 - **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
-- **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent. Sliders that do not require movement are exempt from this.
+- **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent. Ambiguous sliders with follow circles that cover the whole slider path (i. e. small sliders where the slider head and tail fully [overlap](/wiki/Mapping_Techniques/Overlap)) are allowed, assuming the slider bodies do not fully overlap themselves.
 
 #### Guidelines
 
@@ -160,6 +160,10 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 ### ![](/wiki/shared/diff/insane-o.png) Insane
 
+#### Rules
+
+- **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent. Ambiguous sliders with follow circles that cover the whole slider path (i. e. small sliders where the slider head and tail fully [overlap](/wiki/Mapping_Techniques/Overlap)) are allowed, assuming the slider bodies do not fully overlap themselves.
+
 #### Guidelines
 
 - **Objects 1/4 of a beat apart or less should not fully [overlap](/wiki/Mapping_Techniques/Overlap),** especially on simpler Insane difficulties.
@@ -168,7 +172,6 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 - **Avoid fully covering slider reverse arrows with circles, slider heads, or slider tails within a 1/2 beat of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
 - **Avoid fully [overlapping](/wiki/Mapping_Techniques/Overlap) slider bodies within a 1/2 beat of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
-- **Every slider should have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable should not be used. A slider's end position should be clear under the assumption that a player has a skin which makes slider end circles fully transparent. Sliders that do not require movement are exempt from this.
 
 #### Difficulty setting guidelines
 
@@ -179,11 +182,14 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 ### ![](/wiki/shared/diff/expert-o.png) Expert
 
+#### Rules
+
+- **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent. Ambiguous sliders with follow circles that cover the whole slider path (i. e. small sliders where the slider head and tail fully [overlap](/wiki/Mapping_Techniques/Overlap)) are allowed.
+
 #### Guidelines
 
 - **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
-- **Every slider should have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable should not be used. A slider's end position should be clear under the assumption that a player has a skin which makes slider end circles fully transparent. Sliders that do not require movement are exempt from this.
 
 #### Difficulty setting guidelines
 
