@@ -1,8 +1,8 @@
 # Melaporkan perilaku buruk
 
-osu! memiliki [sebuah tim moderator](/wiki/People/The_Team/Global_Moderation_Team) yang setia untuk menjaga permainan dan ekosistemnnya bersih dan aman. Jika kamu melihat perilaku yang melanggar peraturan atau konten tidak pantas, laporkan hal tersebut dengan menggunakan metode yang dijelaskan di bawah ini. Sebagai alternatif, kamu dapat mengontak moderator yang sedang *online* secara langsung jika laporanmu tidak ditangani secara benar dalam jangka waktu yang wajar sebagai cara terakhir.
+osu! memiliki [sebuah tim moderator](/wiki/People/The_Team/Global_Moderation_Team) yang setia untuk menjaga permainan dan ekosistemnya bersih dan aman. Jika kamu melihat perilaku yang melanggar peraturan atau konten tidak pantas, laporkan hal tersebut dengan menggunakan metode yang dijelaskan di bawah ini. Sebagai alternatif, kamu dapat mengontak moderator yang sedang *online* secara langsung jika laporanmu tidak ditangani secara benar dalam jangka waktu yang wajar sebagai cara terakhir.
 
-Laporan yang tidak disengaja akan tidak diperdulikan. Pengguna yang sengaja mengirim laporan palsu akan terancam [di-silence](/wiki/Silence).
+Laporan yang tidak disengaja akan diabaikan. Pengguna yang sengaja mengirim laporan palsu akan terancam [di-silence](/wiki/Silence).
 
 ## Kasus-kasus spesial
 
@@ -21,7 +21,7 @@ Untuk kasus selain yang di atas, lihat instruksi di bawah ini.
 
 ![](img/report-command.jpg "Contoh penggunaan perintah !report")
 
-Perilaku buruk dalam chat adalah pelanggaran yang paling sering terjadi. Untuk melaporkan itu, gunakan perintah [`!report`](https://osu.ppy.sh/community/forums/topics/34843) di kanal dimana pelanggaran terjadi. Jangan merasa stres: jika pesan kamu dimulai dengan `!report` dan diikuti oleh spasi, **pesan tersebut hanya terlihat oleh moderator** dan tidak ada yang lain dalam chat. Kamu dapat menggunakan fungsi laporkan melalui [menu dalam permainan](#Menu-dalam-permainan) seperti yang digambarkan di bawah ini jika kamu masih khawatir.
+Perilaku buruk dalam chat adalah pelanggaran yang paling sering terjadi. Untuk melaporkan itu, gunakan perintah [`!report`](https://osu.ppy.sh/community/forums/topics/34843) di kanal di mana pelanggaran terjadi. Jangan merasa stres: jika pesan kamu dimulai dengan `!report` dan diikuti oleh spasi, **pesan tersebut hanya terlihat oleh moderator** dan tidak ada yang lain dalam chat. Kamu dapat menggunakan fungsi laporkan melalui [menu dalam permainan](#Menu-dalam-permainan) seperti yang digambarkan di bawah ini jika kamu masih khawatir.
 
 Sintaks perintah memiliki dua bentuk:
 
