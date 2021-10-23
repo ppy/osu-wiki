@@ -22,7 +22,7 @@ The Chat folder only appears if the player has "Automatically log private messag
 
 The name structure of the files is `{Tab_name}-{YYYYMMDD}-{HHMMSS}`, and can be opened in any text editor. An example of this is shown below:
 
-``#multiplayer-20121115-040845 (/savelog at #multiplayer tab in 15th November 2012 at 04hrs, 08mins, and 45secs).``
+``#multiplayer-20121115-040845`` (/savelog at #multiplayer tab in 15th November 2012 at 04hrs, 08mins, and 45secs).
 
 ### Downloads
 
@@ -46,7 +46,7 @@ The Replays folder holds the player's replay files. A replay file does not work 
 
 The file name structure is `{Local player name} - {Artist} - {Title} {[Difficulty]}{(YYYY-MM-DD)} {Game Mode}`. An example of this is shown below:
 
-``dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\]  (2013-08-12) OsuMania``
+``dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\] (2013-08-12) OsuMania``
 
 ### Screenshots
 
