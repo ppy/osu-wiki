@@ -1,6 +1,6 @@
 # Berkas konfigurasi pengguna
 
-Berikut ini adalah daftar opsi yang ada pada berkas `osu!.<nama pengguna sistem operasi>.cfg`. Banyak opsi ini tersedia pada [menu pilihan](/wiki/Options) dalam permainan, dan sangat direkomendasikan kamu mengubahnya dari situ. Hanya ubah nilai-nilai tersebut secara manual jika terpaksa.
+Berikut ini adalah daftar opsi yang tersedia di dalam berkas `osu!.<nama akun pengguna komputer>.cfg`. Banyak opsi ini tersedia pada [menu pilihan](/wiki/Options) dalam permainan, dan sangat direkomendasikan kamu mengubahnya dari situ. Nilai-nilai ini dapat diubah secara manual jika terpaksa.
 
 ## Dapat diubah melalui menu Pilihan
 
@@ -108,7 +108,7 @@ Berikut ini adalah daftar opsi yang ada pada berkas `osu!.<nama pengguna sistem 
 
 Nilai dari pengaturan tombol adalah nama tombol.
 
-| Option | Action |
+| Opsi | Tindakan |
 | :-- | :-- |
 | `keyOsuLeft` | Klik kiri osu! |
 | `keyOsuRight` | Klik kanan osu! |
@@ -122,7 +122,7 @@ Nilai dari pengaturan tombol adalah nama tombol.
 | `keyFruitsDash` | Dash osu!catch |
 | `keyIncreaseSpeed` | Menambah kecepatan scroll osu!mania |
 | `keyDecreaseSpeed` | Mengurangi kecepatan scroll osu!mania |
-| `keyPause` | Pause game |
+| `keyPause` | Jeda permainan |
 | `keySkip` | Lewati cutscene |
 | `keyToggleScoreboard` | Mengaktifkan atau menonaktifkan papan peringkat |
 | `keyIncreaseAudioOffset` | Menambah offset local song |
@@ -174,14 +174,14 @@ Nilai dari pengaturan tombol adalah nama tombol.
 
 #### Tata letak osu!mania
 
-Setiap mode tombol osu!mania memiliki opsinya masing-masing. Disini kita menggunakan `#` untuk menunjukkan banyaknya tombol berjarak dari 1 hingga 18.
+Setiap key mode osu!mania memiliki opsinya masing-masing. Di sini kita menggunakan `#` untuk menunjukkan banyaknya key berjarak dari 1 hingga 18.
 
 | Opsi | Tipe nilai | Deskripsi |
 | :-- | :-- | :-- |
-| `ManiaLayouts#K` | Daftar teks yang dipisahkan oleh nama tombol keyboard | Mengatur tata letak tombol untuk #K(jumlah tombol) |
-| `ManiaLayouts#KSplit` | Daftar teks yang dipisahkan oleh nama tombol keyboard | Mengatur tata letak tombol untuk `#/2`K(jumlah tombol) pada mode co-op |
+| `ManiaLayouts#K` | Daftar nama key pada keyboard yang dipisahkan | Mengatur tata letak key untuk #K |
+| `ManiaLayouts#KSplit` | Daftar nama key pada keyboard yang dipisahkan | Mengatur tata letak tombol untuk `#/2`K pada mode co-op |
 
-Opsi tata letak osu!mania tahap lanjut dapat ditemukan di berkas [skin.ini](/wiki/Skinning/skin.ini) skin yang digunakan.
+Opsi tata letak pada osu!mania lebih lanjut dapat ditemukan di berkas [skin.ini](/wiki/Skinning/skin.ini) skin yang digunakan.
 
 ## Dapat diubah melalui tindakan lain dalam permainan
 

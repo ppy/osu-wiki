@@ -18,13 +18,13 @@ Secara umum, osu! terinstal pada lokasi berikut ini:
 
 Folder ini hanya muncul apabila anda menggunakan "/savelog" di [Chat Console](/wiki/Chat_Console) atau jika anda mengaktifkan "Simpan catatan(log) pesan pribadi secara otomatis" di Pengaturan.
 
-Struktur nama berkas ini adalah `{Nama_Tab}-{TTTTBBHH}-{JJMMSS}` dalam format .txt, yang pada dasarnya boleh dibuka melalui aplikasi *text editor* pilihan(Notepad, contohnya). Berikut adalah contoh nama berkas yang tersimpan:
+Struktur nama berkas ini adalah `{Nama_Tab}-{YYYYMMDD}-{HHMMSS}` dalam format .txt, yang pada dasarnya boleh dibuka melalui aplikasi *text editor* pilihan(Notepad, contohnya). Berikut adalah contoh nama berkas yang tersimpan:
 
-``#multiplayer-20121115-040845 (/savelog di tab #multiplayer pada 15 November 2012, pukul 4 lewat 8 menit 45 detik).``
+``#multiplayer-20121115-040845``  (/savelog di tab #multiplayer pada 15 November 2012, pukul 4 lewat 8 menit 45 detik).
 
 ### Downloads
 
-Folder Downloads menyimpan beatmap yang di download melalui osu!direct (ittem [osu!supporter](/wiki/osu!supporter) dibutuhkan untuk mengaktifkan osu!direct). **Menyimpan file .osz yang anda sedang diunduh dari osu!direct**, kemudian berkas beatmap akan dipindahkan ke folder Songs setelah selesai diunduh.
+Folder pengunduhan atau *downloads* menyimpan beatmap yang di download melalui osu!direct (item [osu!supporter](/wiki/osu!supporter) dibutuhkan untuk mengaktifkan osu!direct). **Menyimpan file .osz yang telah diunduh melalui osu!direct**, kemudian berkas beatmap akan dipindahkan ke folder Songs setelah selesai diunduh.
 
 ### Exports
 
@@ -42,17 +42,17 @@ Folder Replays menyimpan berkas replay pemain. Berkas replay tidak dapat bekerja
 
 *Untuk pemain yang tertarik untuk mengunggah replay-nya di YouTube dapat melihat artikel: [Osr2mp4 public release. Automatically convert replay file to video.](https://osu.ppy.sh/community/forums/topics/1104243)
 
-Struktur nama berkas ini adalah `{Nama pemain lokal} - {Artis} - {Judul Lagu} {[Tingkat Kesulitan]}{(TTTT-BB-HH)} {Mode Permainan}`. Berikut adalah contoh berkas replay yang dibuat:
+Struktur nama berkas ini adalah `{Nama pemain lokal} - {Artis} - {Judul Lagu} {[Tingkat Kesulitan]}{(YYYY-MM-DD)} {Mode Permainan}`. Berikut adalah contoh berkas replay yang dibuat:
 
-``dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\]  (2013-08-12) OsuMania``
+``dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\] (2013-08-12) OsuMania``
 
 ### Screenshots
 
-Folder Screenshots menyimpan berkas tangkapan layar osu! yang dibuat oleh pemain. Secara umum, format berkas tangkapan layar yang disimpan adalah `.jpg`, namun pemain dapat mengubah format berkas menjadi `.png` melalui menu Pengaturan.
+Folder cuplikan layar atau *screenshots* menyimpan berkas tangkapan layar osu! yang dibuat oleh pemain. Secara umum, format berkas tangkapan layar yang disimpan adalah `.jpg`, namun pemain dapat mengubah format berkas menjadi `.png` melalui menu Pengaturan.
 
 *Catatan: Untuk membuat tangkapan layar, tekan tombol screenshot (Secara pengaturan bawaan, tombol F12).*
 
-Struktur nama berkas ini adalah `screenshot###`, dimana "###" adalah nomor tangkapan layar.
+Struktur nama berkas ini adalah `screenshot###`, di mana "###" adalah nomor tangkapan layar.
 
 ### Skins
 
