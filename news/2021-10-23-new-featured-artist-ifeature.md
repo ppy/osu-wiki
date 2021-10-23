@@ -25,32 +25,32 @@ Providing the highest volume of pun opportunities since the start of the Feature
 Try out [the beatmap above](https://osu.ppy.sh/beatmapsets/1572918) with your own two hands! ...Or one hand if you're one of the dozen people who still play mouse-only.
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/210/Over%20You/iFeature%20-%20Over%20You.mp3" type="audio/mpeg">
 </audio>
 
 ### iFeature & ReeK - Insider
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/210/Flavour/iFeature%20%26%20ReeK%20-%20Insider.mp3" type="audio/mpeg">
 </audio>
 
 ### iFeature & ST4RBUCK - Vamos
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/210/Vamos/iFeature%20%26%20ST4RBUCK%20-%20Vamos.mp3" type="audio/mpeg">
 </audio>
 
 ### iFeature - Evolve the Creature
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/210/Evolving/iFeature%20-%20Evolve%20the%20Creature.mp3" type="audio/mpeg">
 </audio>
 
 ---
 
 Did you notice the redesign of Featured Artist pages? Of course you did, since you've already visited [**iFeature**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/210) and downloaded one of the ultra-convenient pre-timed beatmap templates. Regardless, it's looking pretty cool.
 
-![Featured Artist listing image](LINK)
+![Featured Artist listing image](/wiki/shared/news/2021-10-23-new-featured-artist-ifeature/fa-listing.jpg)
 
 That's all from us for now! Next week we'll be featuring a veeeeery familiar vocalist's catalogue, so stay tuned to the [@osugame Twitter](https://twitter.com/osugame/) for all the freshly squeezed news!
 
