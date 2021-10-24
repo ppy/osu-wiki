@@ -6,10 +6,10 @@ osu! supporte désormais les écrans larges dans tous les modes (y compris l'éd
 
 Liens :
 
-- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/39831318171/this-week-in-osu-8)
-- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/41003637501/this-week-in-osu-9)
-- [Getting Hyperdash Right – ppy blog](https://blog.ppy.sh/post/39917651337/getting-hyperdash-right)
-- [Best of 2012 Results](https://osu.ppy.sh/community/forums/posts/2042263)
+- [This Week in osu! – blog de ppy](https://blog.ppy.sh/post/39831318171/this-week-in-osu-8)
+- [This Week in osu! – blog de ppy](https://blog.ppy.sh/post/41003637501/this-week-in-osu-9)
+- [Getting Hyperdash Right – blog de ppy](https://blog.ppy.sh/post/39917651337/getting-hyperdash-right)
+- [Résultats de Best of 2012](https://osu.ppy.sh/community/forums/posts/2042263)
 
 ## Février
 
@@ -23,18 +23,18 @@ Un support de classement pour les mods [Hidden](/wiki/Game_modifier/Hidden) et [
 
 Liens :
 
-- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/42178900910/this-week-in-osu-10)
-- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/43136384020/this-week-in-osu-11)
-- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/43823357969/this-week-in-osu-12)
+- [This Week in osu! – blog de ppy](https://blog.ppy.sh/post/42178900910/this-week-in-osu-10)
+- [This Week in osu! – blog de ppy](https://blog.ppy.sh/post/43136384020/this-week-in-osu-11)
+- [This Week in osu! – blog de ppy](https://blog.ppy.sh/post/43823357969/this-week-in-osu-12)
 - [osu! release b20130220](https://osu.ppy.sh/community/forums/posts/2134063)
 
 ## Mars
 
-osu! a bénéficié d'une refonte complète de l'IU (interface utilisateur) ! Le mode de jeu osu! a reçu un nouveau symbole leitmotiv (auparavant, c'était un cercle avec "osu!", c'est maintenant un cercle avec un "1"). Les boutons de l'éditeur ont été mis à jour. Le mode spécial a été combiné avec le menu de sélection des chansons (nommé sous "Mods"), permettant aux joueurs de changer de mode plus rapidement et sans problème. Tous les boutons  des [modificateurs de jeu](/wiki/Game_modifier) ont reçu leur image respective. L'écran des résultats affiche désormais l'image d'arrière-plan de la beatmap plutôt que celle du skin de l'utilisateur.
+osu! a bénéficié d'une refonte complète de l'IU (interface utilisateur) ! Le mode de jeu osu! a reçu un nouveau symbole leitmotiv (auparavant, c'était un cercle avec "osu!", c'est maintenant un cercle avec un "1"). Les boutons de l'éditeur ont été mis à jour. Le mode spécial a été combiné avec le menu de sélection des chansons (nommé sous "Mods"), permettant aux joueurs de changer de mode plus rapidement et sans problème. Tous les boutons des [modificateurs de jeu](/wiki/Game_modifier) ont reçu leurs images respectives. L'écran des résultats affiche désormais l'image d'arrière-plan de la beatmap plutôt que celle du skin de l'utilisateur.
 
 Le Hit-Offset peut maintenant être connu en survolant la précision à partir de l'écran des résultats. Notez qu'il disparaîtra et ne pourra pas être sauvegardé. Les résultats en ligne sont maintenant cachés sous l'écran des résultats plutôt que de vous forcer à les voir. Vous pouvez faire défiler l'écran pour le voir ou vous pouvez simplement cliquer sur le bouton et vous serez dirigé vers l'écran des résultats en ligne.
 
-En termes de skin, "osu!default by peppy" a été remplacé par "osu! by peppy" (art par [RBRat3](https://osu.ppy.sh/users/307202)). Puisque osu! peut maintenant supporter à la fois l'écran large HD et la taille standard, un nouveau bouton a été ajouté à l'onglet "Skins" sous "Options". Par défaut, l'ancien comportement du skin est utilisé pour des raisons de compatibilité et l'activation du bouton forcera le nouveau comportement de l'habillage à s'appliquer à la place. L'option [Combo fire](/wiki/Combo_fire) a été supprimée pour des raisons de performances. Du côté du Multi, les hôtes ont une nouvelle commande spéciale appelée "Free Mods" et le "Game Style" a été supprimé (l'hôte peut ajuster le Game Style dans l'écran de sélection des beatmaps sous "Mods"). `#userlog` a été introduit pour présenter en privé vos récentes réalisations de jeu.
+En termes de skin, "osu!default by peppy" a été remplacé par "osu! by peppy" (art par [RBRat3](https://osu.ppy.sh/users/307202)). Puisque osu! peut maintenant supporter à la fois l'écran large HD et la taille standard, un nouveau bouton a été ajouté à l'onglet "Skins" sous "Options". Par défaut, l'ancien comportement du skin est utilisé pour des raisons de compatibilité et l'activation du bouton forcera le nouveau comportement du skin à s'appliquer à la place. L'option [Combo fire](/wiki/Combo_fire) a été supprimée pour des raisons de performances. Du côté du Multi, les hôtes ont une nouvelle commande spéciale appelée "Free Mods" et le "Game Style" a été supprimé (l'hôte peut ajuster le Game Style dans l'écran de sélection des beatmaps sous "Mods"). `#userlog` a été introduit pour présenter en privé vos récentes réalisations de jeu.
 
 Le tableau d'affichage des classements, quant à lui, a fait l'objet de deux révisions en un seul mois. La première révision était celle des "tableaux d'affichage unifiés", où le tableau d'affichage est séparé en quatre parties (Mods, Amis, Meilleur score personnel, Local) avec la différence de score donnée en dessous de la précision de la couche, la suppression du tableau d'affichage local et l'impossibilité de faire défiler pour voir plus de joueurs du meilleur score ultérieur. Bien qu'elle ait été limitée aux osu!supporters, elle a fait l'objet de nombreuses critiques et, à ce titre, une deuxième révision a été publiée à la fin du mois. Le tableau d'affichage a été fondamentalement rétabli tel qu'il était auparavant, en conservant l'écart de différence de score. L'ajout le plus important a été le menu déroulant à onglets, où l'on trouve différents types de tableaux de classement. Cependant, les nouveaux types de tableau de bord (Pays, Global (Mod sélectionné) et Amis) étaient toujours limités aux osu!supporters.
 
@@ -84,11 +84,11 @@ Trois nouveaux [succès](/wiki/Médailles) pour osu!mania ont été publiées (4
 
 Le [osu! Beatmapping Contest \#4](https://osu.ppy.sh/community/forums/posts/2324098) a commencé. Afin de lutter contre la création de nombreux comptes, la clarté des messages lors de l'enregistrement des comptes a été améliorée et une infographie montrant qu'il n'est pas possible de s'enregistrer à partir de téléphones/tablettes a été ajoutée afin d'empêcher les joueurs de créer d'autres comptes pour des raisons personnelles.
 
-En plus des mesures de sécurité, les utilisateurs peuvent choisir le mode de jeu par défaut de leur profil (comme [osu!mania](/wiki/Game_mode/osu!mania), [Taiko](/wiki/Game_mode/osu!taiko) et le support de [last.fm](https://last.fm) pour les profils. Les profils d'utilisateurs ont maintenant un classement des performances par pays sur leur profil et un nouveau graphique de pp.
+En plus des mesures de sécurité, les utilisateurs peuvent choisir le mode de jeu par défaut de leur profil (comme [osu!mania](/wiki/Game_mode/osu!mania), [Taiko](/wiki/Game_mode/osu!taiko)) et le support de [last.fm](https://last.fm) pour les profils. Les profils d'utilisateurs ont maintenant un classement des performances par pays sur leur profil et un nouveau graphique de pp.
 
 Dans le jeu, le menu principal bénéficie d'une nouvelle visualisation, avec une flambée autour du symbole d'osu! qui dépend de l'intensité du BPM de la musique en cours de lecture. Les performances ont été optimisées dans la sélection des chansons avec de nombreuses maps (plus de dix mille). La robustesse et les performances du processus de mise à jour ont été améliorées.
 
-En ce qui concerne la jouabilité, un temps d'introduction a été automatiquement ajouté à toutes les beatmaps qui commencent brusquement afin de laisser suffisamment de temps pour ajuster les [réglages visuels](/wiki/Visual_Settings) et le nombre total de pressions pour chaque touche sur l'écran de saisie a été ajouté. Pour les stockages de résultats en ligne, le meilleur classement personnel a été affiché sur les pages d'informations des beatmaps en plus du joueur numéro 1. La soumission des scores à partir des tableaux de mania est autorisée et le Top 50 des rplays est stocké au lieu du top 40 habituel. Les quick repeat n'atteignant pas leur combo maximum ont été corrigés. Les commentaires Disqus ont été ajoutés aux pages des beatmaps. Enfin, un prototype de compteur de score pour tous les modes a été testé pour osu!test.
+En ce qui concerne la jouabilité, un temps d'introduction a été automatiquement ajouté à toutes les beatmaps qui commencent brusquement afin de laisser suffisamment de temps pour ajuster les [réglages visuels](/wiki/Visual_Settings) et le nombre total de pressions pour chaque touche sur l'écran de saisie a été ajouté. Pour les stockages de résultats en ligne, le meilleur classement personnel a été affiché sur les pages d'informations des beatmaps en plus du joueur numéro 1. La soumission des scores à partir des tableaux de mania est autorisée et le Top 50 des replays est stocké au lieu du top 40 habituel. Les quick repeat n'atteignant pas leur combo maximum ont été corrigés. Les commentaires Disqus ont été ajoutés aux pages des beatmaps. Enfin, un prototype de compteur de score pour tous les modes a été testé pour osu!test.
 
 ![](img/2013-06_01.jpg "Processus de création de compte")
 

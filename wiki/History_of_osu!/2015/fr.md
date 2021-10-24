@@ -16,7 +16,7 @@ Le 16 février 2015, les règles des storyboards ont été mises à jour pour au
 
 La toute première édition d'osu!weekly est sortie le 13 mars 2015. Rédigé par [Tasha](https://osu.ppy.sh/users/1031958), osu!weekly se positionnait comme "un condensé d'actualités hebdomadaire couvrant les derniers événements du jeu et de sa communauté" [[2]][r].
 
-Les tout premiers autocollants osu! Beatmap Blueprint ont été ajoutés à l'[osu!store](https://osu.ppy.sh/store/listing) le 20 mars 2015. Les autocollants se présentaient sous la forme de deux packs de feuilles d'autocollants personnalisés de 8,5 x 11 pouces présentant des éléments tels que des cercles, des combo counters, des sliders et bien plus encore [[3]][r]. Pour célébrer le lancement du jeu, un concours a été organisé afin de déterminer qui pouvait réaliser la meilleure [beatmap](/wiki/Beatmap) à l'aide des autocollants. Le premier prix était une osu! tablet et des sets d'osu! sticker 1 et 2. Malgré cela, le concours a été annulé en raison d'un manque d'inscriptions, et aucune suite n'a été donnée publiquement à ce sujet à l'époque [[3,4]][r].
+Les tout premiers autocollants osu! Beatmap Blueprint ont été ajoutés à l'[osu!store](https://osu.ppy.sh/store/listing) le 20 mars 2015. Les autocollants se présentaient sous la forme de deux packs de feuilles d'autocollants personnalisés de 20.3 x 27.9 centimètre présentant des éléments tels que des cercles, des combo counters, des sliders et bien plus encore [[3]][r]. Pour célébrer le lancement du jeu, un concours a été organisé afin de déterminer qui pouvait réaliser la meilleure [beatmap](/wiki/Beatmap) à l'aide des autocollants. Le premier prix était une osu!tablet et des sets d'osu! sticker 1 et 2. Malgré cela, le concours a été annulé en raison d'un manque d'inscriptions, et aucune suite n'a été donnée publiquement à ce sujet à l'époque [[3,4]][r].
 
 La prise en charge de la [télécommande Wii](https://en.wikipedia.org/wiki/Wii_Remote) a été ajoutée pour [osu!taiko](/wiki/Game_mode/osu!taiko) le 26 mars 2015 [[5]][r].
 
@@ -24,7 +24,7 @@ Le 31 mars 2015, les [osu!coins](/wiki/History_of_osu!/April_Fools#osu!coins) on
 
 ## Avril
 
-Le cannal `#balkan` a été réintroduite dans le jeu suite à une [demande de fonctionnalité](https://osu.ppy.sh/community/forums/topics/152009&start=0) le 2 avril 2015 [[6,7]][r].
+Le canal `#balkan` a été réintroduite dans le jeu suite à une [demande de fonctionnalité](https://osu.ppy.sh/community/forums/topics/152009&start=0) le 2 avril 2015 [[6,7]][r].
 
 Le [mod Co-op](/wiki/Game_modifier/Co-op) est devenu un mod non classable le 6 avril 2015 [[8]][r].
 
@@ -66,7 +66,7 @@ Les Chat Moderators ont été officiellement fusionnés dans la Global Moderatio
 
 L'ancien compteur d'images par seconde a été remplacé par un nouvel "affichage de rafraîchissement et de latence" le 2 septembre 2015. Ce nouvel affichage indiquait toujours le nombre d'images par seconde (FPS) en cours, mais la nouvelle modification faisait en sorte qu'il était masqué s'il dépassait 500 FPS. En outre, un nouveau compteur a été ajouté sous le compteur FPS, qui affiche exactement la latence introduite pendant le rendu des images (mesurée en millisecondes). Les images "bégayées" ou "abandonnées" sont affichées sous la forme de rectangles colorés à gauche du compteur afin de mieux visualiser la latence du rendu d'image que subit l'utilisateur [[26,27]][r].
 
-Le 26 septembre 2015, [cYsmix](http://cysmix.com/) est devenu l'un des premiers artistes officiels d'osu! Ce partenariat a donné lieu à la création de trois titres réalisés spécifiquement pour osu! ainsi qu'à la création d'un concours de mapping utilisant ces titres. Les quatre titres susmentionnés sont les suivants :
+Le 26 septembre 2015, [cYsmix](http://cysmix.com/) est devenu l'un des premiers artistes officiels d'osu!. Ce partenariat a donné lieu à la création de trois titres réalisés spécifiquement pour osu! ainsi qu'à la création d'un concours de mapping utilisant ces titres. Les quatre titres sont les suivants :
 
 - ["Manic"](https://soundcloud.com/olemlanglie/cysmix-manic-osu)
 - ["House with Legs"](https://soundcloud.com/olemlanglie/cysmix-house-with-legs-osu)
@@ -84,7 +84,7 @@ Cependant, malgré les [promesses de peppy sur son blog](https://blog.ppy.sh/pos
 
 Après des mois de travail, une migration complète du rendu graphique [DirectX](https://en.wikipedia.org/wiki/DirectX) vers [OpenGL](https://en.wikipedia.org/wiki/OpenGL) a été achevée et poussée à tous les utilisateurs sur les versions stables le 16 octobre 2015. Cependant, les utilisateurs qui n'ont pas pu exécuter la nouvelle mise à jour en raison de problèmes de compatibilité ont été basculés vers un nouvelle versions nommé "Stable (Fallback)", qui utilisait l'ancien rendu graphique DirectX. Cette version était destinée à être supportée en continu en parallèle de la version Stable jusqu'à ce que l'équipe d'osu! se sente suffisamment confiante dans la compatibilité du rendu OpenGL pour tous les utilisateurs [[28,29,30,31,32]][r].
 
-Un autre lot de chansons officielles d'osu! a été publié par cYsmix le 27 octobre 2015, avec un concours similaire de type " open-bounty " ouvert pour celui-ci également. Les trois chansons étaient ["Fright March"](https://soundcloud.com/olemlanglie/cysmix-fright-march-osu), ["Moonlight Sonata"](https://soundcloud.com/olemlanglie/cysmix-moonlight-sonata-osu), et ["Classic Pursuit"](https://soundcloud.com/olemlanglie/cysmix-classic-pursuit-osu) [[33,34]][r].
+Un autre lot de chansons officielles d'osu! a été publié par cYsmix le 27 octobre 2015, avec un concours similaire de type "open-bounty" ouvert pour celui-ci également. Les trois chansons étaient ["Fright March"](https://soundcloud.com/olemlanglie/cysmix-fright-march-osu), ["Moonlight Sonata"](https://soundcloud.com/olemlanglie/cysmix-moonlight-sonata-osu), et ["Classic Pursuit"](https://soundcloud.com/olemlanglie/cysmix-classic-pursuit-osu) [[33,34]][r].
 
 ![](img/cysmix-album-cover-2.jpg "La couverture de l'album de la deuxième version des chansons officielles d'osu! de cYsmix.")
 
@@ -103,8 +103,7 @@ Des bannières de profil [OWC](/wiki/Tournaments#-osu!-world-cup) ont été ajou
 La vérification obligatoire de l'email pour certaines actions sur le compte a commencé à être déployée le 16 novembre 2015 en réponse aux événements récents de l'époque impliquant la compromission des comptes de nombreux streamers d'osu! [[39,40,41]][r]. Le lendemain, [peppy a posté sur son blog](https://blog.ppy.sh/post/133395614668/20151117), où il a initialement annoncé le changement de la sécurité des comptes :
 
 > Il a été porté à mon attention que ces derniers jours, de nombreux livestreamers d'osu! ont été piratés. Le lien commun semble être qu'ils avaient tous des comptes xsplit actifs (qui a été piraté en 2013, laissant échapper tous les mots de passe). Cela signifie que les utilisateurs en question utilisaient le même mot de passe sur Twitch, Twitter, osu! et d'autres sites. D'abord et avant tout, si vous faites quelque chose comme ça, PARTEZ MAINTENANT ET CHANGEZ VOS MOTS DE PASSE. Procurez-vous un gestionnaire de mots de passe et définissez un mot de passe par service !
->
-> Même si je suis convaincu qu'osu! n'a pas été impliqué dans la fuite de ces informations, je m'assure que d'autres tentatives de ce type n'auront pas pour conséquence de compromettre des comptes osu! Depuis hier, j'ai commencé à mettre en place la vérification de l'adresse e-mail pour certaines actions sur les comptes. À l'avenir, nous ajouterons également la vérification de l'adresse e-mail au client de jeu, mais cela nécessitera un peu plus d'implémentation. Attendez-vous à ce que cela se fasse dans un avenir proche.
+> Même si je suis convaincu qu'osu! n'a pas été impliqué dans la fuite de ces informations, je m'assure que d'autres tentatives de ce type n'auront pas pour conséquence de compromettre des comptes osu!. Depuis hier, j'ai commencé à mettre en place la vérification de l'adresse e-mail pour certaines actions sur les comptes. À l'avenir, nous ajouterons également la vérification de l'adresse e-mail au client, mais cela nécessitera un peu plus d'implémentation. Attendez-vous à ce que cela se fasse dans un avenir proche.
 
 — peppy, "20151117" [[39]][r]
 

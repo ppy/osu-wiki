@@ -4,7 +4,7 @@
 
 ![](img/2012-09_01.jpg "le menu principal d'osu! à l'époque")
 
-osu! et sa communauté ont célébré le 5e anniversaire d'osu ! le 17/09/2012. Pendant cette période, tous les joueurs ont reçu le statut de [osu!supporter](/wiki/osu!supporter) pendant 24 heures, à partir du 17/09/2012T02:00+08:00, qui était l'heure de sortie originale d'osu! en 2007. peppy avait l'intention de distribuer une première version d'osu! sous une forme ou une autre pour la célébration, afin que les joueurs puissent faire l'expérience d'osu! à une époque antérieure, là où se trouvaient les racines du programme. Cependant, en raison des différentes versions du fichier `.dll`, peppy n'a pas été en mesure de le faire fonctionner. Il a dit qu'il le ferait fonctionner un jour.
+osu! et sa communauté ont célébré le 5e anniversaire d'osu! le 17/09/2012. Pendant cette période, tous les joueurs ont reçu le statut de [osu!supporter](/wiki/osu!supporter) pendant 24 heures, à partir du 17/09/2012T02:00+08:00, qui était l'heure de sortie originale d'osu! en 2007. peppy avait l'intention de distribuer une première version d'osu! sous une forme ou une autre pour la célébration, afin que les joueurs puissent faire l'expérience d'osu! à une époque antérieure, là où se trouvaient les racines du programme. Cependant, en raison des différentes versions du fichier `.dll`, peppy n'a pas été en mesure de le faire fonctionner. Il a dit qu'il le ferait fonctionner un jour.
 
 Liens :
 
@@ -19,9 +19,9 @@ Liens :
 Le 08/10/2012, osu!mania a finalement été publié au public build ([woc2006](https://osu.ppy.sh/users/1105845)) ! En plus de cela :
 
 - Des hitsounds par objet ont été ajoutés dans l'éditeur. ([mm201](https://osu.ppy.sh/users/30655))
-- Permet de se remettre d'un échec en [multijoueur](/wiki/Multi) en atteignant tous les HP. (Exception si le mod [Sudden Death](/wiki/Game_modifier/Sudden_Death) ou [Perfect](/wiki/Game_modifier/Perfect) est activé).
-- Support du défilement pour la liste de classement en ligne dans le jeu.
-- Corrections sur le [sélecteur de skin](/wiki/Options#skin) afin de rendre le jeu plus réaliste.
+- Permet de se remettre d'un échec en [multijoueur](/wiki/Multi) en atteignant tous les HP. (Exception si le mod [Sudden Death](/wiki/Game_modifier/Sudden_Death) ou [Perfect](/wiki/Game_modifier/Perfect) sont activée).
+- Un support du défilement pour la liste de classement en ligne dans le jeu.
+- Des corrections sur le [sélecteur de skin](/wiki/Options#skin) afin de rendre le jeu plus réaliste.
 
 L'événement principal de cette mise à jour était osu!mania. De nombreux joueurs ont débarqué dans osu! juste pour essayer de jouer au mode osu!mania. Certains ont loué l'effort fourni, tandis que d'autres ont remis en question le jugement du score, trop strict et très décalé par rapport à O2JAM. Des problèmes étaient à prévoir, car certains joueurs n'ont pas pu mettre à jour leur client osu! en raison de la taille énorme de la mise à jour (~20MB serait une bonne estimation). Certains se sont plaints que la mise à jour était trop précipitée, car le classement, la soumission des beatmaps osu!mania, la modification de la difficulté et même le gameplay n'étaient pas complètement au point ou terminés. Certains problèmes ont été résolus plus tard, vers le mois de novembre, grâce à un retour suffisant de l'opinion publique, tandis que d'autres étaient encore en cours de traitement.
 
@@ -37,15 +37,15 @@ Liens :
 
 ![](img/2012-10_04.jpg "Modification de l'arrière-plan, comme l'a montré peppy")
 
-Le 29/10/2012, l'arrière-plan du menu principal pouvait être modifié si l'utilisateur avait le statut de osu!supporter En plus de cela :
+Le 29/10/2012, l'arrière-plan du menu principal pouvait être modifié si l'utilisateur avait le statut de osu!supporter. En plus de cela :
 
-- Le classement osu!mania était en phase de test bêta. Les scores devaient être remis à zéro après une semaine.
-- Superposition de l'état des boutons.
-- Amélioration des performances.
+- Le classement d'osu!mania était en phase de test bêta. Les scores devaient être remis à zéro après une semaine.
+- Une superposition de l'état des boutons.
+- Une amélioration des performances.
 
-Quelques changements notables pour corriger la mise à jour précédente (osu!mania) et pour donner ce que les joueurs voulaient vraiment, le classement osu!mania. Comme le système de classement osu!mania n'a pas encore été complètement testé, le classement était remis à zéro chaque semaine ou plus tôt pour s'assurer qu'aucun score piraté n'était téléchargé. Le test a duré un certain temps jusqu'à la mise à jour du 13/11/2012 (20121113b).
+Quelques changements notables pour corriger la mise à jour précédente (osu!mania) et pour donner ce que les joueurs voulaient vraiment : le classement d'osu!mania. Comme le système de classement d'osu!mania n'a pas encore été complètement testé, le classement était remis à zéro chaque semaine ou plus tôt pour s'assurer qu'aucun score piraté n'était téléchargé. Le test a duré un certain temps jusqu'à la mise à jour du 13/11/2012 (20121113b).
 
-Les supporters ont eu la possibilité de définir leur image comme fond d'écran osu! au lieu de la couleur de fond habituelle. En pratique, cela n'affecte personne et il s'agissait plutôt d'un gadget. Cependant, le changement d'arrière-plan nécessite que vous soyez en ligne pour *vraiment fonctionner*, car osu! a besoin de vérifier votre tag de osu!supporter pour fonctionner. Le gameplay n'a pas été affecté de quelque manière que ce soit.
+Les supporters ont eu la possibilité de définir leur image comme fond d'écran d'osu! au lieu de la couleur de fond habituelle. En pratique, cela n'affecte personne et il s'agissait plutôt d'un gadget. Cependant, le changement d'arrière-plan nécessite que vous soyez en ligne pour *vraiment fonctionner*, car osu! a besoin de vérifier votre tag de osu!supporter pour fonctionner. Le gameplay n'a pas été affecté de quelque manière que ce soit.
 
 La superposition de l'état des boutons était considérée comme un ajout intéressant. Maintenant, vous pouvez réellement *voir* comment vous/ils traitent votre/leur hit soit en utilisant le clavier/souris ou en utilisant de manière répétée ce bouton. Par défaut, cela ne fonctionne dans osu! que lors d'un replay ou en tant que spectateur d'une partie. Vous pouvez le faire apparaître manuellement pendant le jeu dans les [Options sous l'onglet Entrée - Général](/wiki/Options#general.1) comme "Toujours afficher la superposition des touches". Initialement, elle était placée en haut de l'écran, mais elle a ensuite été déplacée à droite de l'écran car elle gênait la barre de HP et la concentration du joueur.
 
@@ -85,13 +85,13 @@ Liens :
 
 Le 21/12/2012, osu! a fait l'objet d'une mise à jour majeure. Les changements les plus notables sont :
 
-1. Prise en charge des écrans larges
-2. Écran de chargement au début de beatmaps
-3. Sélection des beatmaps plus fluide
-4. Paramètres des spoilers amusants a été changé en [Paramètres visuels](/wiki/Visual_Settings) et placé en bas de l'écran.
+1. La prise en charge des écrans larges
+2. Un écran de chargement au début de beatmaps
+3. Une sélection des beatmaps plus fluide
+4. Un paramétrages des spoilers amusants a été changé en [Paramètres visuels](/wiki/Visual_Settings) et placé en bas de l'écran.
 5. Le mod No Video a été déplacé vers les paramètres visuels
 
-Des problèmes techniques et des bogues étaient attendus. La prise en charge de l'écran large, bien que fonctionnelle, a donné un aspect bizarre à certaines images et vidéos (tête d'un personnage non visible, texte manquant ou partiellement caché) car le haut et le bas étaient coupés. Les [storyboards](/wiki/Storyboard) ne supportent pas actuellement l'écran large, à la place, des letterboxes ou des barres noires apparaissent sur les côtés, ce qui leur donne un air étriqué. Cela a créé un problème pour [Catch the Beat](/wiki/Game_mode/osu!catch) car le fruit passait *sur* les barres noires qui étaient censées être dans la limite lors de l'utilisation de l'écran large. Certains storyboards ne fonctionnent pas non plus correctement (certaines images ne restent pas dans la zone de jeu, mais s'étendent jusqu'aux barres noires). Ces problèmes sont actuellement connus et sont corrigés au fur et à mesure que des solutions sont discutées et trouvées.
+Des problèmes techniques et des bugs étaient attendus. La prise en charge de l'écran large, bien que fonctionnelle, a donné un aspect bizarre à certaines images et vidéos (tête d'un personnage non visible, texte manquant ou partiellement caché) car le haut et le bas étaient coupés. Les [storyboards](/wiki/Storyboard) ne supportent pas actuellement l'écran large, à la place, des letterboxes ou des barres noires apparaissent sur les côtés, ce qui leur donne un air étriqué. Cela a créé un problème pour [Catch the Beat](/wiki/Game_mode/osu!catch) car le fruit passait *sur* les barres noires qui étaient censées être dans la limite lors de l'utilisation de l'écran large. Certains storyboards ne fonctionnent pas non plus correctement (certaines images ne restent pas dans la zone de jeu, mais s'étendent jusqu'aux barres noires). Ces problèmes sont actuellement connus et sont corrigés au fur et à mesure que des solutions sont discutées et trouvées.
 
 Liens :
 
@@ -101,6 +101,6 @@ Liens :
 
 Le 25/12/2012, c'était un joyeux Noël pour ceux qui le célèbrent. Une nouvelle version de [bancho](/wiki/Bancho_(server)) a été publiée qui "réduit la quantité de trafic envoyée lors de la connexion. Cela signifie que vous devriez bénéficier de temps de connexion 95% plus rapides". Comme il s'agit d'une occasion spéciale, osu!direct a été activé pour tout le monde pour la journée.
 
-Links:
+Liens :
 
 - [Merry Christmas (bancho changes + free osu!direct) (fil du forum)](https://osu.ppy.sh/community/forums/posts/2005499)
