@@ -105,7 +105,7 @@ Les joueurs qui utilisent une manette Taiko portent un bâton de Taiko/tambour d
 
 ### Autres styles
 
-- **Manette de jeu**: Un gamepad est l'un des styles de jeu possibles dans les différentes variantes pour console de la série Taiko no Tatsujin (y compris Taiko Drum Master). Les joueurs enregistrent Don/Katu en appuyant sur les boutons (Don droit, ou Rouge droit), la flèche (Don gauche, ou Rouge gauche) et les boutons supérieurs (Katu gauche/droit, ou Bleu gauche/droit).
+- **Manette de jeu** : Un gamepad est l'un des styles de jeu possibles dans les différentes variantes pour console de la série Taiko no Tatsujin (y compris Taiko Drum Master). Les joueurs enregistrent Don/Katu en appuyant sur les boutons (Don droit, ou Rouge droit), la flèche (Don gauche, ou Rouge gauche) et les boutons supérieurs (Katu gauche/droit, ou Bleu gauche/droit).
 
 ## ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -113,7 +113,7 @@ Les joueurs qui utilisent une manette Taiko portent un bâton de Taiko/tambour d
 
 Le clavier est le style de jeu le plus couramment utilisé et par défaut pour osu!catch.
 
-Pour jouer avec un clavier, les joueurs appuient sur les touches fléchées gauche et droite pour déplacer le receveur et maintiennent la touche `leftShift` enfoncée pour se déplacer.
+Pour jouer avec un clavier, les joueurs appuient sur les touches fléchées gauche et droite pour déplacer l'attrapeur et maintiennent la touche `leftShift` enfoncée pour se déplacer.
 
 Il est possible de modifier les touches utilisées ; certains joueurs apprécient les touches `A`/`D` pour les déplacements et la barre d'espace ou la touche `rightShift` pour les dash.
 
@@ -139,7 +139,7 @@ Pour dash, de nombreux joueurs utilisent l'un des boutons de leur manette de jeu
 
 ### Autres styles
 
-- **Souris uniquement**: Le jeu à la souris est un style de jeu de niche dans lequel les joueurs contrôlent tous les mouvements et les dash de l'attrapeur uniquement par le biais de la souris. Cette option n'est toutefois disponible que sur les souris d'ordinateur dotées des boutons M4 et M5 (qui se trouvent généralement sur le côté gauche de la souris).
+- **Souris uniquement** : Le jeu à la souris est un style de jeu de niche dans lequel les joueurs contrôlent tous les mouvements et les dash de l'attrapeur uniquement par le biais de la souris. Cette option n'est toutefois disponible que sur les souris d'ordinateur dotées des boutons M4 et M5 (qui se trouvent généralement sur le côté gauche de la souris).
 
 ## ![](/wiki/shared/mode/mania.png) osu!mania
 
