@@ -25,7 +25,7 @@ Pendant le jeu, tout ce qui s'affiche à l'écran s'arrête pendant une durée s
 - Vérifiez si cela se produit toujours après un redémarrage du PC.
 - Essayez de fermer toute application qui affiche des superpositions sur le jeu (Discord, Steam, NVIDIA Shadowplay, etc.).
 - Assurez-vous que le [mode de jeu](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) est activé. Cela permet à Windows de fournir des cœurs et des ressources dédiés à osu!
-- Ouvrez le gestionnaire des tâches et classez la liste (sous Détails) par CPU. Recherchez toute utilisation élevée du CPU lorsque des pics se produisent, par exemple par un scanner de virus ou de logiciels malveillants en arrière-plan. Vous pouvez exécuter osu! en mode fenêtré ou laisser le gestionnaire de tâches sur un deuxième écran pour diagnostiquer cela pendant que vous jouez ou que vous exécutez une beatmap en autoplay.
+- Ouvrez le gestionnaire des tâches et classez la liste (sous Détails) par CPU. Recherchez toute utilisation élevée du CPU lorsque des pics se produisent, par exemple par un scanner de virus ou de logiciels malveillants en arrière-plan. Vous pouvez exécuter osu! en mode fenêtré ou laisser le gestionnaire de tâches sur un deuxième écran pour diagnostiquer cela pendant que vous jouez ou que vous exécutez une beatmap en auto.
 
 ### Latence d'entrée
 
