@@ -36,7 +36,7 @@ Après un certain temps, la beatmap originale a été supprimée à la demande d
 
 ### touhosu!
 
-Pour le poisson d'avril 2010, le site web d'osu! ainsi que l'écran du menu principal du jeu ont été modifiés pour mettre en scène des personnages et des références au [Projet Touhou](https://fr.wikipedia.org/wiki/Touhou_Project). Les modifications comprenaient l'ajout du personnage de Marisa Kirisame et l'affichage de papillons de couleurs différentes dans un motif circulaire sur le menu principal et le site web, ainsi que le remplacement du nom " osu! " par " touhosu! " à certains endroits du site web [[5,6,7]][r].
+Pour le poisson d'avril 2010, le site web d'osu! ainsi que l'écran du menu principal du jeu ont été modifiés pour mettre en scène des personnages et des références au [Projet Touhou](https://fr.wikipedia.org/wiki/Touhou_Project). Les modifications comprenaient l'ajout du personnage de Marisa Kirisame et l'affichage de papillons de couleurs différentes dans un motif circulaire sur le menu principal et le site web, ainsi que le remplacement du nom "osu!" par "touhosu!" à certains endroits du site web [[5,6,7]][r].
 
 ![](img/2010-touhosu-main-screen.jpg "L'écran du menu principal dans osu! le 1er avril 2010")
 
@@ -58,9 +58,9 @@ Il a également été rapporté à l'époque que [Ephemeral](https://osu.ppy.sh/
 
 ## 2012
 
-### Les mods Flashlight/Hidden caché sur le site web
+### Les mods Flashlight/Hidden sur le site web
 
-Le 1er avril 2012, l'ensemble du site web d'osu! avait 50 % de chances que le mod [Flashlight (FL)](/wiki/Game_modifier/Flashlight) ou le mod [Hidden (HD)](/wiki/Game_modifier/Hidden) soit " activé " sur le site Web par chargement de page (3/10 pour HD ; 1/5 pour FL). Une reconstitution moderne de ce à quoi ressemblait la farce pour les utilisateurs de l'époque est présentée ci-dessous [[14,15,16,17,18,19]][r].
+Le 1er avril 2012, l'ensemble du site web d'osu! avait 50 % de chances que le mod [Flashlight (FL)](/wiki/Game_modifier/Flashlight) ou le mod [Hidden (HD)](/wiki/Game_modifier/Hidden) soit "activé" sur le site Web par chargement de page (3/10 pour HD ; 1/5 pour FL). Une reconstitution moderne de ce à quoi ressemblait la farce pour les utilisateurs de l'époque est présentée ci-dessous [[14,15,16,17,18,19]][r].
 
 ![](img/2012-flashlight.gif "Ce à quoi le site web aurait ressemblé avec le mod Flashlight d'activé")
 
@@ -68,9 +68,9 @@ Le 1er avril 2012, l'ensemble du site web d'osu! avait 50 % de chances que le mo
 
 ### Bad Apple Ranking Chart
 
-Le "Bad Apple Ranking Chart" était un tableau de classement de blague basé sur une variété de beatmaps qui mettait en vedette la chanson "Bad Apple !!!" dans le cadre de la blague du poisson d'avril 2012 d'osu!. Annoncé par le biais d'un [newspost](https://osu.ppy.sh/community/forums/posts/1431905) le 1er avril 2012, le tableau de classement fonctionnait en fait comme un véritable tableau de travail à l'époque et affichait les 40 meilleurs joueurs ayant obtenu le meilleur [score classé](/wiki/Score#ranked-score) dans l'une des sélections de beatmaps "Bad Apple !!" [[20,21,22]][r]. Un extrait de l'article de presse susmentionné est inscrit ci-dessous :
+Le "Bad Apple Ranking Chart" était un tableau de classement de blague basé sur une variété de beatmaps qui mettait en vedette la chanson "Bad Apple !!!" dans le cadre de la blague du poisson d'avril 2012 d'osu!. Annoncé par le biais d'un [newspost](https://osu.ppy.sh/community/forums/posts/1431905) le 1er avril 2012, le tableau de classement fonctionnait en fait comme un véritable tableau de travail à l'époque et affichait les 40 meilleurs joueurs ayant obtenu le meilleur [score classé](/wiki/Score#ranked-score) dans l'une des sélections de beatmaps "Bad Apple !!!" [[20,21,22]][r]. Un extrait de l'article de presse susmentionné est inscrit ci-dessous :
 
-> Nous avons décidé de dédier cette charte à la meilleure chanson et vidéo jamais créée, Bad Apple!!. Vous pouvez trouver le super tableau ici
+> Nous avons décidé de dédier cette charte à la meilleure chanson et vidéo jamais créée, Bad Apple !!!. Vous pouvez trouver le super tableau ici
 
 > Comme il s'agit d'un tableau aux proportions épiques, nous devions améliorer notre prix cette fois-ci ! Les gagnants recevront un poster de Lily White et une image dessinée à la main de Reimu. (Une imprimante est nécessaire pour recevoir ces prix)
 
@@ -93,7 +93,7 @@ Les beatmaps inclus dans le tableau de classement sont énumérés ci-dessous :
 - [Kommisar - Bad Apple!! (Chiptune Ver.) (Sushi)](https://osu.ppy.sh/beatmapsets/28222)
 - [Kalafina - Bad MagiApple (Makar8000)](https://osu.ppy.sh/beatmapsets/32003)
 
-Le clip de "Bad Apple!!" était une sorte de blague à l'époque, les remixes de la chanson combinés à d'autres tournures ironiques étant monnaie courante dans les beatmaps de l'époque, d'où son apparition en tant que poisson d'avril.
+Le clip de "Bad Apple!!!" était une sorte de blague à l'époque, les remixes de la chanson combinés à d'autres tournures ironiques étant monnaie courante dans les beatmaps de l'époque, d'où son apparition en tant que poisson d'avril.
 
 ---
 
@@ -133,7 +133,7 @@ Le 31 mars 2015, [peppy](https://osu.ppy.sh/users/2) a publié [un message](http
 
 — peppy, "osu!coins" [[33]][r]
 
-*Remarque : En [temps universel coordonné (UTC)](https://fr.wikipedia.org/wiki/Temps_universel_coordonn%C3%A9), le message a été publié le 31 mars 2015. Cependant, au moment de la publication, peppy vivait actuellement en Australie, où la date actuelle était le 1er avril 2015.*
+*Remarque : En [temps universel coordonné (UTC)](https://fr.wikipedia.org/wiki/Temps_universel_coordonné), le message a été publié le 31 mars 2015. Cependant, au moment de la publication, peppy vivait actuellement en Australie, où la date actuelle était le 1er avril 2015.*
 
 En bref, pour jouer ou redémarrer une [beatmap](/wiki/Beatmap), les utilisateurs devaient avoir dépensé 1 osu!coin, et une fois qu'ils n'avaient plus d'osu!coins, ils devaient soit arrêter de jouer et attendre le jour suivant, soit payer de l'argent réel pour obtenir plus d'osu!coins. Malgré cette description, le jeu n'était pas affecté et les utilisateurs pouvaient continuer à jouer normalement, même si toutes leurs pièces d'osu!coins étaient épuisées [[33,35,36,37]][r].
 
@@ -149,7 +149,7 @@ La mise à jour a été généralement bien accueillie par les joueurs et a bén
 
 Le 1er avril 2016, [un billet](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) a été publié détaillant l'annonce de plans visant à ajouter le support de l'[Oculus Rift](https://fr.wikipedia.org/wiki/Oculus_Rift) comme nouvelle [méthode d'entrée](/wiki/Gameplay/Input_device) dans osu!. Le message, écrit par [Evrien](https://osu.ppy.sh/users/791660), fait référence à de nombreuses citations d'une supposée interview de [peppy](https://osu.ppy.sh/users/2) dans laquelle il explique son raisonnement pour l'annonce et ses idées sur la façon dont le concept pourrait fonctionner [[42]][r].
 
-En ce qui concerne la façon dont les joueurs peuvent utiliser l'Oculus Rift comme méthode d'entrée, le billet d'information décrit que "le joueur aura un point de vue à la première personne du curseur qui se déplace vers et depuis les objets à l'écran..." et qu'il frappera les objets en "... demandant au joueur de produire des sons semblables à des voyelles avec sa bouche". Aucun changement réel n'a été apporté au jeu en ce qui concerne l'utilisation de l'Oculus Rift ou d'un dispositif similaire de [réalité virtuelle (VR)](https://fr.wikipedia.org/wiki/R%C3%A9alit%C3%A9_virtuelle) pour contrôler osu! [[42]][r].
+En ce qui concerne la façon dont les joueurs peuvent utiliser l'Oculus Rift comme méthode d'entrée, le billet d'information décrit que "le joueur aura un point de vue à la première personne du curseur qui se déplace vers et depuis les objets à l'écran..." et qu'il frappera les objets en "... demandant au joueur de produire des sons semblables à des voyelles avec sa bouche". Aucun changement réel n'a été apporté au jeu en ce qui concerne l'utilisation de l'Oculus Rift ou d'un dispositif similaire de [réalité virtuelle (VR)](https://fr.wikipedia.org/wiki/Réalité_virtuelle) pour contrôler osu! [[42]][r].
 
 *Avis : McOsu est développé séparément de et n'a aucune affiliation directe avec osu! ou ppy Pty Ltd.*
 
@@ -165,7 +165,7 @@ Le 1er avril 2016, de nombreux joueurs d'osu! ont eu la surprise de découvrir q
 
 ### Spinning osu! cookie on website
 
-Dans le cadre de la poignée de blagues du poisson d'avril 2016, le [osu! cookie](/wiki/Brand_identity_guidelines) du site web d' osu! tournait occasionnellement de 180 degrés dans le sens des aiguilles d'une montre, puis repartait rapidement à la verticale de 180 degrés dans la même direction [[58,59,60,61]][r].
+Dans le cadre de la poignée de blagues du poisson d'avril 2016, le [osu! cookie](/wiki/Brand_identity_guidelines) du site web d'osu! tournait occasionnellement de 180 degrés dans le sens des aiguilles d'une montre, puis repartait rapidement à la verticale de 180 degrés dans la même direction [[58,59,60,61]][r].
 
 ---
 
@@ -177,7 +177,7 @@ Comme annoncé dans un [tweet de peppy](https://twitter.com/ppy/status/848021525
 
 ## 2018
 
-### osu! cookie en rotation
+### l'osu! cookie en rotation
 
 Le 1er avril 2018, le [osu! cookie](/wiki/Brand_identity_guidelines) de l'écran du menu principal tournait lentement dans le sens des aiguilles d'une montre au fur et à mesure que le temps passait, et le cookie de l'écran de sélection des beatmaps tournait lentement dans le sens inverse des aiguilles d'une montre. En passant la souris sur ces cookies, vous les agrandissez comme d'habitude, mais vous les faites tourner plus vite [[62,63,64,65,66,67]][r].
 
@@ -195,7 +195,7 @@ Pour le poisson d'avril 2019, il y avait environ 1 chance sur 20 d'entendre l'ef
 
 ### MillhioreF rejoint les Featured Artists
 
-[MillhioreF](https://osu.ppy.sh/users/941094), un modérateur, développeur et joueur du mod[Easy](/wiki/Game_modifier/Easy) de longue date d'osu! - a été annoncé dans [un article](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) comme ayant "rejoint" la liste des [Featured Artists](/wiki/Featured_Artists) en tant que "Millhiore Firianno Biscotti" le 1er avril 2020 avec une sélection de cinq chansons pour commencer [[71]][r] :
+[MillhioreF](https://osu.ppy.sh/users/941094), un modérateur, développeur et joueur du mod [Easy](/wiki/Game_modifier/Easy) de longue date d'osu! - a été annoncé dans [un article](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) comme ayant "rejoint" la liste des [Featured Artists](/wiki/Featured_Artists) en tant que "Millhiore Firianno Biscotti" le 1er avril 2020 avec une sélection de cinq chansons pour commencer [[71]][r] :
 
 - Waltz o' the Irish
 - The Waltzing Irishman
