@@ -34,12 +34,12 @@ Chaque mode a son propre minimum requis pour l'activité mensuelle.
 
 ## Nomination
 
-- **Ne pas nommer des beatmaps avec des problèmes non classables.** Les [critères de classement généraux](/wiki/Ranking_Criteria) et, en plus, tous les critères de classement spécifiques à un mode s'appliquent à tous les jeux dont les difficultés sont spécifiques à un mode.
+- **Ne pas nommer des beatmaps avec des problèmes unranked.** Les [critères de classement généraux](/wiki/Ranking_Criteria) et, en plus, tous les critères de classement spécifiques à un mode s'appliquent à tous les jeux dont les difficultés sont spécifiques à un mode.
 - **Ne nommez pas de beatmaps auxquels vous avez contribué.** Cela inclut toute contribution majeure telle que le mapping, le hitsounding, le storyboarding, le skinning ou l'édition du slider velocity.
 - **Ne nommez pas un beatmap sans avoir vérifié toutes les difficultés du ou des modes que vous nominez.** La vérification incorrecte comprend l'exécution d'un outil de modding avant la nomination ou le non-téléchargement de la beatmap.
 - **Ne nommez pas une beatmap si vous n'êtes pas sûr de quelque chose.** Dans ce cas, demandez de l'aide aux autres nominateurs avant de prendre une décision précipitée. Il s'agit notamment de modes de jeu peu familiers, de zones grises suspectes, de problèmes de qualité ou de timing complexes.
-- **Ne nommez pas une beatmap si vous ne pouvez pas raisonnablement la juger.** Pour pouvoir juger de la qualité d'une beatmap, il est essentiel de pouvoir l'évaluer de manière raisonnable, que ce soit par le biais de tests de jeu ou d'une expérience de modding. Si vous êtes considéré comme n'ayant pas les compétences de jeu ou l'expérience de modding suffisantes, nous pouvons remettre en question votre capacité à juger les beatmaps.
-- **Assurez-vous qu'aucun message de mod dans la [discussion de la beatmap](/wiki/Beatmap_Discussion) n'a été ignoré avant de proposer une beatmap.** Les messages sans réponse suffisante peuvent être considérés comme ignorés. En cas de doute, vérifiez si le code de conduite pour le mapping et le modding a été violé dans la discussion de la beatmap et agissez en conséquence.
+- **Ne nommez pas une beatmap si vous ne pouvez pas raisonnablement la juger.** Pour pouvoir juger de la qualité d'une beatmap, il est essentiel de pouvoir l'évaluer de manière raisonnable, que ce soit par le biais de tests de jeu ou d'une expérience de modding. Si vous êtes considéré comme n'ayant pas les compétences de jeu ou l'expérience de modding suffisante, nous pouvons remettre en question votre capacité à juger les beatmaps.
+- **Assurez-vous qu'aucun message de mod dans la [discussion de la beatmap](/wiki/Beatmap_Discussion) n'a été ignoré avant de nominer une beatmap.** Les messages sans réponse suffisante peuvent être considérés comme ignorés. En cas de doute, vérifiez si le code de conduite pour le mapping et le modding a été violé dans la discussion de la beatmap et agissez en conséquence.
 
 ### Qualification
 

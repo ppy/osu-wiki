@@ -4,7 +4,7 @@ Le *veto d'une beatmap* permet à un [Beatmap Nominator](/wiki/People/Beatmap_No
 
 Tout Beatmap Nominator peut mettre un veto sur une beatmap, à condition qu'il soit formellement qualifié pour le(s) mode(s) de jeu en question, comme indiqué dans les [règles des Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators/Rules). Chaque veto d'une beatmap doit être discuté par les deux parties - le mappeur ainsi que le Nominateur mettant le veto sur la beatmap - dans le but de trouver un compromis.
 
-Dans les cas où la discussion n'a pas lieu ou n'est pas concluante, et que le mappeur ou le Nominateur qui a mis son veto le demande, les membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) initieront et superviseront une médiation pour maintenir ou rejeter le veto. La médiation est tenue par un jury aléatoire composé de Beatmap Nominators et de membres de la NAT, afin d'atténuer les préjugés, et est votée de manière anonyme par ce jury. Une fois le vote terminé, le raisonnement de chaque membre du jury est révélé avec le résultat de la médiation dans la discussion sur la beatmap.
+Dans les cas où la discussion n'a pas lieu ou n'est pas concluante, et que le mappeur ou le nominateur qui a mis son veto le demande, les membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) initieront et superviseront une médiation pour maintenir ou rejeter le veto. La médiation est tenue par un jury aléatoire composé de Beatmap Nominators et de membres de la NAT, afin d'atténuer les préjugés, et est votée de manière anonyme par ce jury. Une fois le vote terminé, le raisonnement de chaque membre du jury est révélé avec le résultat de la médiation dans la discussion sur la beatmap.
 
 ## Exécution d'un veto sur une beatmap
 
@@ -45,4 +45,4 @@ Pour relancer une médiation qui a abouti au rejet d'un veto, un Beatmap Nominat
 
 Pour relancer une médiation qui a abouti à la confirmation d'un veto, il faut soit que le veto change d'avis, soit que les membres du jury qui ont confirmé le veto changent d'avis au point que le résultat de la médiation aurait été différent. La médiation sera alors relancée avec un nouveau jury sélectionné au hasard.
 
-Une fois les modifications apportées au beatmap, le proposant qui a exercé son veto sur le beatmap, ainsi que les membres du jury qui l'ont maintenu, seront appelés à vérifier à nouveau la beatmap et à décider individuellement si les problèmes ont été résolus de manière satisfaisante.
+Une fois les modifications apportées à la beatmap, le proposant qui a exercé son veto sur la beatmap, ainsi que les membres du jury qui l'ont maintenu, seront appelés à vérifier à nouveau la beatmap et à décider individuellement si les problèmes ont été résolus de manière satisfaisante.
