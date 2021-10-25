@@ -36,7 +36,7 @@ Apabila kamu menemui masalah dalam menjalankan osu!, cobalah untuk mengikuti lan
 [osu!lazer](https://github.com/ppy/osu) merupakan versi osu! mutakhir yang nantinya akan menggantikan versi osu! yang saat ini dipergunakan secara luas. Walaupun saat ini osu!lazer belum memberikan [performance point](/wiki/Performance_points) apapun, osu!lazer memiliki banyak fitur menarik yang tentunya sayang untuk dilewatkan. Untuk dapat memasang osu!lazer pada perangkat macOS milikmu, ikuti langkah-langkah berikut:
 
 1. Tuju [laman unduhan osu!lazer berikut](https://github.com/ppy/osu/releases/latest) dan unduh `osu!.app.zip`.
-2. Ekstrak berkas tersebut dan jalankan osu! dengan memilih menu `Open`.
+2. Ekstrak berkas tersebut dan jalankan osu! dengan memilih `Open`.
 3. Apabila kamu menemui kotak dialog yang meminta agar osu! dapat menerima input-input keyboard:
    1. Klik `Open System Preferences` pada kotak dialog yang bersangkutan.
    2. Klik tombol gembok yang ada pada pojok kiri bawah layar dan ketikkan kata sandi komputermu.
