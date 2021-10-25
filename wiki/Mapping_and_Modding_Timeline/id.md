@@ -19,7 +19,7 @@ Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berk
 - **2007-10-29:** Ikon-ikon forum tertentu mulai digunakan untuk menandai status suatu beatmap.
   - Ikon `star` (![star icon](/wiki/shared/icon/star.gif)) digunakan untuk menandai beatmap-beatmap yang dinilai masih perlu untuk dibenahi.
   - Ikon `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) digunakan untuk menandai beatmap-beatmap yang dinilai telah siap untuk di-rank.
-  - Ikon `heart` (![heart icon](/wiki/shared/icon/heart.gif)) digunakan untuk menandai beatmap-beatmap yang telah sepenuhnya di-rank. Ikon ini hanya dapat disematkan pada beatmap-beatmap yang telah ditandai dengan ikon bubble sebelumnya, yang secara tidak langsung mempersyaratkan 2 nominasi bagi setiap beatmap untuk dapat sepenuhnya di-rank.
+  - Ikon `heart` (![heart icon](/wiki/shared/icon/heart.gif)) digunakan untuk menandai beatmap-beatmap yang telah sepenuhnya di-rank. Ikon ini hanya dapat disematkan pada beatmap-beatmap yang telah ditandai dengan ikon [bubble](/wiki/Modding/Bubble) sebelumnya, yang secara tidak langsung mempersyaratkan 2 nominasi bagi setiap beatmap untuk dapat sepenuhnya di-rank.
   - Ikon `nuke` (![nuke icon](/wiki/shared/icon/nuke.gif)) digunakan untuk menandai beatmap-beatmap yang telah dinyatakan tidak dapat di-rank dalam kondisi apapun karena satu dan lain hal. <!-- https://osu.ppy.sh/forum/t/619 + missing info on flame/nuke -->
 
 Secara keseluruhan, terdapat **200 beatmap** yang di-rank sepanjang tahun 2017.
@@ -51,7 +51,7 @@ Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2008.
 
 ### Februari
 
-- **2009-02-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) dititahkan sebagai [BAT manager](/wiki/Modding/Bat_Managers) yang pertama. <!-- https://osu.ppy.sh/community/forums/topics/36869?start=81784 -->
+- **2009-02-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) dititahkan sebagai [BAT manager](/wiki/Modding/BAT_Managers) yang pertama. <!-- https://osu.ppy.sh/community/forums/topics/36869?start=81784 -->
   - Ia diberikan tanggung jawab utama untuk mengorganisir alur pelantikan BAT-BAT baru serta mengawasi kecakapan dan tingkat aktivitas anggota-anggota BAT yang bertugas secara umum.<!-- https://osu.ppy.sh/community/forums/topics/9639 -->
 
 ### Maret
@@ -125,7 +125,7 @@ Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011.
 
 ### Juli
 
-- **2012-07-22:** Versi awal dari sistem [Performance Point](/wiki/Performance_Points) yang lebih dikenal dengan nama [ppv1](/wiki/Performance_Points/ppv1) resmi diperkenalkan untuk menggantikan sistem *ranked score*.
+- **2012-07-22:** Versi awal dari sistem [Performance Point](/wiki/Performance_points) yang lebih dikenal dengan nama [ppv1](/wiki/Performance_points/ppv1) resmi diperkenalkan untuk menggantikan sistem *ranked score*.
 
 ### Agustus
 
@@ -229,7 +229,7 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
 
 ### Agustus
 
-- **2015-08-25:** Beatmap-beatmap yang berstatus Qualified tidak lagi memberikan [Performance Point](/wiki/Performance_Points).
+- **2015-08-25:** Beatmap-beatmap yang berstatus Qualified tidak lagi memberikan [Performance Point](/wiki/Performance_points).
   - Hal ini dipicu oleh banyaknya keluhan yang masuk seputar hilangnya *performance point* ketika suatu beatmap didiskualifikasi.
   - Perubahan ini secara garis besar disambut dengan baik dan dinilai berhasil meredakan ketegangan antar para pemain dan anggota-anggota QAT di kala itu. <!-- https://osu.ppy.sh/community/forums/topics/352460 -->
 - **2015-08-26:** Akun QAT anonim tidak lagi dipergunakan.

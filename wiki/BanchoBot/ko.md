@@ -143,7 +143,7 @@ Tama: ok
 
 *주의: 닉네임을 입력할 때 공백은 언더바 (`_`) 로 대체하여 입력하세요.*
 
-신고를 [Global Moderation Team](/wiki/Global_Moderation_Team) 혹은 [Language Moderators](/wiki/Language_Moderators) 에게 보냅니다.
+신고를 [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) 혹은 [Language Moderators](/wiki/People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated) 에게 보냅니다.
 
 #### 사용 예시
 

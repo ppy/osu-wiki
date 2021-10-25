@@ -104,7 +104,7 @@ If your `skin.ini` does not specify a `Version`, it will default to this version
 
 If your skin folder does not contain a `skin.ini` file, it will default to this version.
 
-- **Never** use this when trying to distribute skins! (a new skin version could break the skin for what version it was entended for).
+- **Never** use this when distributing skins! (if a new skin version releases, a skin with its version set to `latest` might break).
 - Always uses the latest version the game supports.
 
 ### User
@@ -178,21 +178,14 @@ osu! organizes the commands with a heading command. Which may look like this `[G
       - Using your forum username is preferred.
 - `Version:`
   - Question: How should the skin behave?
-  - Values:
-    - `1.0`
-    - `2.0`
-    - `2.1`
-    - `2.2`
-    - `2.3`
-    - `2.4`
-    - `2.5`
-    - `latest`
+  - Value: A [version number](/wiki/Skinning/skin.ini#versions) or `latest`
   - Notes:
-    - If the `skin.ini` file is not present, `latest` will be used instead.
-    - If the `skin.ini` file is present, but does not use the `Version` command, `1.0` will be assumed (legacy support).
+    - If the `skin.ini` file is not present, `latest` will be used.
+    - If the `skin.ini` file is present, but does not use the `Version` command, `1.0` will be used (legacy support).
 - `AnimationFramerate:`
   - Question: How many frames should be displayed by the animations that depend on this value in one second?
-  - Value: *positive integer*
+  - Value: *positive integer* or `-1` to to make osu! play all frames of the animation in one second
+  - Default: `-1`
   - Notes:
     - This will set the framerate of most animations.
     - Exceptions: circleoverlays, sliderball, pippidon, osu!mania notes and lighting

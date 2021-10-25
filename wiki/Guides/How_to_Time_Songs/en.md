@@ -147,7 +147,7 @@ These steps should be repeated until the end of the song. As output, we get the 
 The algorithm for timing speedups/slowdowns is slightly different:
 
 1. Find a place where the song's tempo changes. Set a new offset (if possible, on a white tick). Then, zoom in the timeline scale (Alt + wheel up or press the circular "+" button);
-2. Put a note two beats ahead of it with some hitsounds (for example, finish hitsound from soft [sampleset](/wiki/Beatmap_editor/Compose)). Slow the playback rate down and listen to it a few times. Hold Shift and carefully move the note forward or backward on the timeline, then listen to it again. Repeat this until you find the best position for the note where it is in sync with the music;
+2. Put a note two beats ahead of it with some hitsounds (for example, finish hitsound from soft [sampleset](/wiki/Beatmap_Editor/Compose)). Slow the playback rate down and listen to it a few times. Hold Shift and carefully move the note forward or backward on the timeline, then listen to it again. Repeat this until you find the best position for the note where it is in sync with the music;
 3. Highlight a note and double-click on it, making sure it did not shift by accident after you clicked it. Put a new offset right on it;
 4. Increase/decrease BPM of the previous offset, checking the difference between the tick before the new offset and the actual offset itself. Your goal is to remove the difference between these two by tweaking only the first section's BPM, so new section is placed exactly on the previous offset's tick.
 5. After you are done, return to Step 2.

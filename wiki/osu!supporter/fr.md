@@ -12,7 +12,7 @@ En achetant le tag osu!supporter, vous soutiendrez directement le développement
 
 ![bannière de produit osu!store](img/store-product.jpg?1 "bannière du produit osu!supporter dans osu!store")
 
-Pour obtenir le tag osu!supporter, connectez vous (ou [enregistrez vous](/wiki/sign_up)), puis allez à la [page du magasin](https://osu.ppy.sh/store/products/supporter-tag). Utilisez le curseur ou les boutons des mois (sous le curseur) pour sélectionner la durée du tag osu!supporter. Si vous changez la durée, cela changera le prix que vous payerez. La devise utilisée est le dollar américain (USD). Si votre pays utilise une devise différente, veuillez utiliser un convertisseur de devise tel que[OANDA](https://www.oanda.com/currency/converter/) ou [Google](https://www.google.com/search?q=usd+exchange+rate) pour vérifier le prix. Les prix affichés sur la page osu!store sont par compte.
+Pour obtenir le tag osu!supporter, connectez vous (ou [enregistrez vous](/wiki/Registration)), puis allez à la [page du magasin](https://osu.ppy.sh/store/products/supporter-tag). Utilisez le curseur ou les boutons des mois (sous le curseur) pour sélectionner la durée du tag osu!supporter. Si vous changez la durée, cela changera le prix que vous payerez. La devise utilisée est le dollar américain (USD). Si votre pays utilise une devise différente, veuillez utiliser un convertisseur de devise tel que[OANDA](https://www.oanda.com/currency/converter/) ou [Google](https://www.google.com/search?q=usd+exchange+rate) pour vérifier le prix. Les prix affichés sur la page osu!store sont par compte.
 
 ### Sélection de la durée
 
