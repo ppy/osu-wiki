@@ -19,7 +19,7 @@ BanchoBot's `!faq` command has been open to public for [translation](https://doc
 
 osu!mania now support vertical flip (upside-down), making gameplay similar to that of DDR/o2jam. Skinning now supports double-resolution sprites when the window width was greater than 1600 pixels. To add support to a skin, add images with double the width/height containing the `@2x` suffix before the file extension (eg: `cursor@2x.png`).
 
-Ranking support for [Hidden](/wiki/HD) and [FadeIn](/wiki/FI) mods in osu!mania and lastly, less widescreen limitations in the editor when it comes to placement and selection.
+Ranking support for [Hidden](/wiki/Game_modifier/Hidden) and [FadeIn](/wiki/Game_modifier/Fade_In) mods in osu!mania and lastly, less widescreen limitations in the editor when it comes to placement and selection.
 
 Links:
 
@@ -34,7 +34,7 @@ osu! received a complete overhaul of the UI (User Interface)! The osu! game mode
 
 Hit-Offset can now be known by hovering to the Accuracy from the result screen. Do note that it will disappear and can't be saved. Online Results was now hidden below the result screen rather than forcing you to see it. You can scroll down to see or you can just click the button and you will be directed to the Online Results screen.
 
-In terms of skin, "osu!default by peppy" was replaced by "osu! by peppy" (art by [RBRat3](https://osu.ppy.sh/users/307202)). Since osu! now can support both widescreen HD and standard size, a new button was added to the "Skins" tab under "Options". By default, old skin behaviour was used for compatibility and enabling the button will force the new skin behaviour to be in effect instead. [Combo fire](/wiki/Combo_fire) was removed due to performance concerns. At the Multi side, hosts have a new special command called "Free Mods" and the "Game Style" was removed (Host can adjust the Game Style in Song Selection now under "Mods"). `#userlog` was introduced to showcase your recent playing achievement privately.
+In terms of skin, "osu!default by peppy" was replaced by "osu! by peppy" (art by [RBRat3](https://osu.ppy.sh/users/307202)). Since osu! now can support both widescreen HD and standard size, a new button was added to the "Skins" tab under "Options". By default, old skin behaviour was used for compatibility and enabling the button will force the new skin behaviour to be in effect instead. [Combo fire](/wiki/Glossary/Combo_fire) was removed due to performance concerns. At the Multi side, hosts have a new special command called "Free Mods" and the "Game Style" was removed (Host can adjust the Game Style in Song Selection now under "Mods"). `#userlog` was introduced to showcase your recent playing achievement privately.
 
 Ranking scoreboard, on the other hand, received two revisions in a single month. The first revision was "unified scoreboards", where the scoreboard the separated into four parts (Mods, Friends, Personal Best, Local) with score difference given below the accuracy of the layer, the removal of local scoreboard and the inability to scroll to see more of the later Top score players. Despite it was limited to osu!supporters only, it received much criticism and as such, a second revision has been issued at the near end of the month. The scoreboard was basically revered back to how it was previously, keeping the score difference gap. The prominent addition was the tabbed drop-down menu, where it house various types of ranking scoreboard. However, the new types of scoreboard \[Country, Global (Selected Mod), and Friend\] were still limited to osu!supporters only.
 
@@ -51,7 +51,7 @@ Links:
 
 This month's updates were mostly made up of patching up the previous major update, but that doesn't mean that was the end! First, it was the initial implementation of "Collections" support that will replace the long-standing "Favourites A/B", making it simple for player to put in their favourite beatmaps in one "Collections" and able to share it with others by transferring the "Collections" rather than "Favourites A/B".
 
-Game modes can now be easily switched at song selection by using `Ctrl` + `1`, `2`, `3`, or `4`. A new game modifier was added specially for osu!mania, [Random](/wiki/RD). Some adjustment has been made on Multi's "Quick Join" button behaviour to direct you to a room with respect to your average pp against the room pp's deviation.
+Game modes can now be easily switched at song selection by using `Ctrl` + `1`, `2`, `3`, or `4`. A new game modifier was added specially for osu!mania, [Random](/wiki/Game_modifier/Random). Some adjustment has been made on Multi's "Quick Join" button behaviour to direct you to a room with respect to your average pp against the room pp's deviation.
 
 For beatmap replays, stale-standing comment has been switched to moving [nico-style](https://en.wikipedia.org/wiki/Nico_Nico_Douga) comment style and comment colour can now be customised (for osu!supporters only).
 
@@ -71,7 +71,7 @@ Game modifiers naming in results has been shorten (e.g. "Hard Rock" to "HR") to 
 
 During replays, half-speed replay has been added (after pressing `2x` Speed, it will show `0.5x` Speed). The playfield will not flash out the background at 100% dim. [Catch the Beat](/wiki/Game_mode/osu!catch) received joystick support (Up/Down: change song, Right: select, Left: exit).
 
-[A new ranking/modding system is in development](https://osu.ppy.sh/community/forums/topics/129625) which will replace the ancient forum-styled modding threads.
+[A new ranking/modding system is in development](https://osu.ppy.sh/community/forums/topics/129625) which will replace the ancient [forum-styled modding](/wiki/Modding/Forum_modding) threads.
 
 For Multi mode, players can now use Special mod (Relax/Autopilot/SpunOut/ManiaKeys) when Free Mod is enabled by the host. At the skinning side of things, widescreen taiko (taiko `@2x`) default sprites have been added. Favourite A/B have removed completely and superseded by the Collections.
 

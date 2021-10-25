@@ -16,7 +16,7 @@
 
 ![](img/online-editing.jpg "Clicking this pencil icon in GitHub will send you to the web editor")
 
-5\. 你现在可以修改该文件。当你修改时，请尽可能地遵循 [文章风格指南](/wiki/ASC)。
+5\. 你现在可以修改该文件。当你修改时，请尽可能地遵循 [文章风格指南](/wiki/Article_styling_criteria)。
 
 6\. 下一步：[保存和提交](#保存和提交)。
 
@@ -46,7 +46,7 @@
 
 3\. 点击 `Create new file`。
 
-4\. 输入你想要创建文章的路径和文件名。路径必须以 `wiki` 开头，接着是文章标题，然后是本地语言代码和 `.md` 文件后缀名。本地语言代码请参考[文章风格指南 - 本地化](/wiki/ASC#本地化)。
+4\. 输入你想要创建文章的路径和文件名。路径必须以 `wiki` 开头，接着是文章标题，然后是本地语言代码和 `.md` 文件后缀名。本地语言代码请参考[文章风格指南 - 本地化](/wiki/Article_styling_criteria#本地化)。
 
 5\. 下一步：[保存和提交](#保存和提交)。
 

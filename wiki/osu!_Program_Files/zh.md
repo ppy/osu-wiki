@@ -92,7 +92,7 @@ osr 文件保存了游戏成绩和光标移动轨迹。你可以在结果页面�
 配置文件储存了 osu! 初始化时的设置，以保证 osu! 正常运行。这些文件可以通过记事本打开：
 
 - `osu!.cfg` ：存储关于osu!应用文件的安全信息和当前的更新版本。它不应该被人为修改。
-- `osu!.<your PC account name>.cfg`：[设置页](/wiki/Options) 屏幕所包含的设置项。中的选项。见 [用户配置文件](/wiki/osu!_Program_Files/User_configuration_file)。
+- `osu!.<your PC account name>.cfg`：[设置页](/wiki/Options) 屏幕所包含的设置项。中的选项。见 [用户配置文件](/wiki/osu!_Program_Files/User_Configuration_File)。
 
 ### .exe (应用程序)
 

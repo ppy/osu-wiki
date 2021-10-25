@@ -18,7 +18,7 @@ A köröket az alsó képernyőn láthatod, míg a történetet a felsőn. Minde
 
 *Teljes magyarázat: [osu! Standard](/wiki/Game_mode/osu!)*
 
-A legtöbb PC felhasználónak valószínűleg nincs érintőképernyője, így a játék egy sima egérrel játszható, valamint szinte bármely más input eszközzel is, ami csak eszedbe jut. A különböző játékstílusokról leírást a [Play Styles](/wiki/Play_Styles) oldalon találsz. Vannak számok, amik az egér határait (és a Te határaidat) feszegetik, de minden (rankolt és jóváhagyott) beatmap tesztelve lett és (nagy részük) lejátszható mindössze egy egérrel.
+A legtöbb PC felhasználónak valószínűleg nincs érintőképernyője, így a játék egy sima egérrel játszható, valamint szinte bármely más input eszközzel is, ami csak eszedbe jut. A különböző játékstílusokról leírást a [Play Styles](/wiki/Play_style) oldalon találsz. Vannak számok, amik az egér határait (és a Te határaidat) feszegetik, de minden (rankolt és jóváhagyott) beatmap tesztelve lett és (nagy részük) lejátszható mindössze egy egérrel.
 
 #### A játékmenet alapjai
 

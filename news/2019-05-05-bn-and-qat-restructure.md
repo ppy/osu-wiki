@@ -19,9 +19,9 @@ BN Applications, creating tests for the applicants, and evaluating the current B
 
 The primary focus of probationary BNs will be to nominate beatmaps, and so will not have the ability to disqualify beatmaps or take part in mediating vetoes. Moreover, they will be unable to nominate beatmaps with more than one game mode, and a beatmap cannot be qualified by two probationary BNs. New members of the BNs will be placed in probation for approximately one month before their performance is reviewed by the NAT. They will then be promoted to a regular BN, remain in probation, or be removed from the group completely. Members of the regular BNs may also be demoted to probation if their work is found to not meet standards.
 
-Placing vetoes will continue to work the same, and we encourage regular members of the community who would like to place vetoes to contact a BN that agrees with them. More information on how vetoes work can be found on the wiki page [here](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
+Placing vetoes will continue to work the same, and we encourage regular members of the community who would like to place vetoes to contact a BN that agrees with them. More information on how vetoes work can be found on the wiki page [here](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto).
 
-The [Beatmap Nominator rules](/wiki/People/Beatmap_Nominators/Rules) have been updated accordingly for their new tasks, where a full list of changes can found at the bottom of the page. Moreover, work on a score system as a guideline to evaluate Beatmap Nominators starts now and you can expect a new proposal detailing our plans for that soon!
+The [Beatmap Nominator rules](/wiki/People/The_Team/Beatmap_Nominators/Rules) have been updated accordingly for their new tasks, where a full list of changes can found at the bottom of the page. Moreover, work on a score system as a guideline to evaluate Beatmap Nominators starts now and you can expect a new proposal detailing our plans for that soon!
 
 Additionally to this, BN applications will be open indefinitely as of this news post! We have a [new website](http://bn.mappersguild.com/) to deal with BN affairs and mapping related reports. Here, you will be able to submit BN applications, as well as reports against beatmaps and members of the BN and NAT. 
 
@@ -33,7 +33,7 @@ With these changes, the following members of the QAT will not be joining the NAT
 
 On the other hand, please welcome [Ascendance](https://osu.ppy.sh/users/2931883) to the NAT, who will be focusing their efforts on the affairs of the osu!catch nominators!
 
-For more information on what Beatmap Nominators do and how to join them, have a look at their [wiki page](/wiki/People/Beatmap_Nominators)!
+For more information on what Beatmap Nominators do and how to join them, have a look at their [wiki page](/wiki/People/The_Team/Beatmap_Nominators)!
 
 Feel free to ask us any questions in the comments below.
 

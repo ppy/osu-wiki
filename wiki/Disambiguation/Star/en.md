@@ -10,7 +10,7 @@ stub: true
 
 **Star** can have multiple meanings:
 
-1. A stage in a beatmap's modding process where a moderator judges a beatmap to be on the right track but needing some improvements before approve with a bubble.
+1. A stage in a beatmap's [forum modding](/wiki/Modding/Forum_modding) process where a moderator judges a beatmap to be on the right track but needing some improvements before approve with a [bubble](/wiki/Modding/Bubble).
    - Examples include adjustments in timing, incorrect beat spacing in some areas, or creating additional difficulty versions.
    - Beatmaps receiving a star are denoted by a star graphic next to their thread's title.
    - A star may be removed by another mod if the beatmap is thought to be in need of more improvements.
