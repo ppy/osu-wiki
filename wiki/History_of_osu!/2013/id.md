@@ -71,7 +71,7 @@ Nama-nama Mod telah dipersingkat (mis. "Hard Rock" menjadi "HR") untuk menghemat
 
 Selama pemutaran ulang beatmap, opsi untuk memperlambat kecepatan telah ditambahkan (setelah menekan `2x` Speed, maka Speed `0.5x` akan muncul). Playfield tidak akan memunculkan latar belakang pada keredupan (background dim) 100%. [Catch the Beat](/wiki/Game_mode/osu!catch) menerima dukungan joystick (Atas/Bawah: ganti lagu, Kanan: pilih, Kiri: keluar).
 
-[Sistem peringkat/modding baru sedang dikembangkan](https://osu.ppy.sh/community/forums/topics/129625) yang akan menggantikan sistem modding berbasis forum yang lama digunakan.
+[Sistem peringkat/modding baru sedang dikembangkan](https://osu.ppy.sh/community/forums/topics/129625) yang akan menggantikan sistem [modding berbasis forum](/wiki/Modding/Forum_modding) yang lama digunakan.
 
 Untuk mode Multi, pemain sekarang dapat menggunakan mod Special (Relax/Autopilot/SpunOut/ManiaKeys) saat opsi Free Mod diaktifkan oleh host. Di sisi skinning, sprite standar widescreen taiko (taiko @2x) telah ditambahkan. Favourites A/B telah dihapus sepenuhnya digantikan oleh Collections.
 
