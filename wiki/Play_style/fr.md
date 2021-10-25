@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Style de jeu
 
 Cette page détaille les différentes façons dont les joueurs peuvent choisir de jouer dans leurs modes de jeu respectifs.
