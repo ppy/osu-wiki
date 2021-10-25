@@ -4,7 +4,7 @@ Welcome to the osu! beginner tutorial. The world of osu! can sometimes be a very
 
 ## Types of Input
 
-*Main page: [Play Styles](/wiki/Play_Styles)*
+*Main page: [Play Styles](/wiki/Play_style)*
 
 By default, a lot of players will start out with the mouse, since it's often the quickest available aiming tool by far. But there are actually multiple means of input to control the cursor and pop the circles:
 

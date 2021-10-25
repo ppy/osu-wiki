@@ -14,7 +14,7 @@
 
 ![](img/online-editing.jpg "En cliquant sur cette icône représentant un crayon dans GitHub, vous accédez à l'éditeur Web.")
 
-5\. Vous pouvez maintenant apporter vos modifications. Lorsque vous effectuez des modifications, essayez de suivre les [Critères de style pour les articles](/wiki/ASC) aussi fidèlement que possible.
+5\. Vous pouvez maintenant apporter vos modifications. Lorsque vous effectuez des modifications, essayez de suivre les [Critères de style pour les articles](/wiki/Article_styling_criteria) aussi fidèlement que possible.
 
 6\. Continuez à [Saving and committing](#saving-and-committing).
 

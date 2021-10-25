@@ -486,7 +486,7 @@ Il existe deux types de liens : en ligne et de référence. Les liens en ligne o
 Voici un exemple des deux styles en ligne :
 
 ```markdown
-[Modificateurs de jeu](/wiki/Game_Modifiers)
+[Modificateurs de jeu](/wiki/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -534,8 +534,8 @@ Voici de bons exemples :
 
 ```markdown
 [Critères de style des articles](/wiki/Article_styling_criteria)
-[Developers](/wiki/Developers)
-[Developers](/wiki/Developers#game-client-developers)
+[Developers](/wiki/People/The_Team/Developers)
+[Developers](/wiki/People/The_Team/Developers#game-client-developers)
 ```
 
 *Remarque : ne pas traduire les liens entre parenthèses, sinon la redirection ne fonctionnera plus.*

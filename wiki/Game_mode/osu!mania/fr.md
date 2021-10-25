@@ -82,7 +82,7 @@ La régénération de la barre de vie s'active lentement lorsque vous tenez une/
 
 ## Styles de Jeu
 
-*[Référez-vous à la page Styles de Jeu sous osu!mania](/wiki/Play_Styles#osu-mania).*
+*[Référez-vous à la page Styles de Jeu sous osu!mania](/wiki/Play_style#osu-mania).*
 
 ## Contrôles
 

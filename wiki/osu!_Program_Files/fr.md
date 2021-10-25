@@ -14,6 +14,7 @@ outdated_since: 91d4e85f3155cb8b647ae8cb1b040b9896d60a7b
 | Chemin par défaut actuel | Ancien chemin de l'installateur |
 | :-- | :-- |
 | `C:\Users\<Username>\AppData\Local\osu!` | `C:\Program Files\osu!` / `C:\Program Files(x86)\osu!` (pour 7 64-bit ou 8) |
+
 > `C:` est le disque dur sur lequel osu est installé.
 
 ## Dossiers
@@ -37,7 +38,7 @@ Apparaît quand vous avez utilisé le service de téléchargement "osu!direct" a
 
 Apparaît quans vous exportez une beatmap ou un skin depuis osu! au moins une fois. **Le dossier contient les .osz et les .osk exportés depuis le jeu.**
 
-Le format des beatmaps est `{Artiste} - {Titre}` en format .osz, qui peut être ouvert avec osu! ou un programme d'archivage comme WinRAR. Le format des skins est `{Nom_du_skin}` en format .osk, et utilise le nom affiché dans osu!, réglable dans le [skin.ini](/wiki/Skinning/Skin.ini). **Exemples:** "Various Artists - osu! Stream Compilation.osz" ou osu! new skin template.osk".
+Le format des beatmaps est `{Artiste} - {Titre}` en format .osz, qui peut être ouvert avec osu! ou un programme d'archivage comme WinRAR. Le format des skins est `{Nom_du_skin}` en format .osk, et utilise le nom affiché dans osu!, réglable dans le [skin.ini](/wiki/Skinning/skin.ini). **Exemples:** "Various Artists - osu! Stream Compilation.osz" ou osu! new skin template.osk".
 
 ### Localisation
 
@@ -123,7 +124,6 @@ Les fichiers .dll sont des composants d'osu!.exe donc ignorez-les.
 - x3daudio1_1.dll
 
 **Composants d'osu!**
-
 
 - osu!gameplay.dll
 - osu!ui.dll
