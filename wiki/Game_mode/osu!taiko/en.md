@@ -63,7 +63,7 @@ It does not increment the combo counter, and does not recover the health bar in 
 
 ## Play Styles
 
-*Refer to [Play Styles page under osu!taiko](/wiki/Play_Styles).*
+*Refer to [Play Styles page under osu!taiko](/wiki/Play_style).*
 
 ## Controls
 

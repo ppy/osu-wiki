@@ -33,7 +33,6 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 - [Ofset Sihirbazı Nasıl Kullanılır](How_to_Use_the_Offset_Wizard)
 - [Beatmaplari Aramak ve İndirmek](Searching_and_Downloading_Beatmaps)
 - [Tablet Satın Almak](Tablet_Purchase)
-- [Yetenek Geliştirme Üzerine İpuçları](Tips_and_Tricks_on_Skill_Improvement)
 
 ## Tema yapımı
 

@@ -17,7 +17,7 @@ tags:
 
 *Note: The input overlay will show all tablet taps as `M1`.*
 
-Streaming via tapx is performed by alternating between tapping a pen onto a tablet and pressing one other assigned secondary key (`Z` and `X` by default) rapidly. Some players may find comfort in alternating between a tablet tap and the secondary key between every [hit object](/wiki/Hit_objects) similar to the way players who [alternate](/wiki/Play_style/Alternating) determine key presses between each hit object.
+Streaming via tapx is performed by alternating between tapping a pen onto a tablet and pressing one other assigned secondary key (`Z` and `X` by default) rapidly. Some players may find comfort in alternating between a tablet tap and the secondary key between every [hit object](/wiki/Hit_object) similar to the way players who [alternate](/wiki/Play_style/Alternating) determine key presses between each hit object.
 
 ## Arguments
 

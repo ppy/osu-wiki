@@ -2,6 +2,8 @@
 stub: true
 tags:
   - MAT
+outdated: true
+outdated_since: 5f24e4b2df25bd38f386bd2cd48e541ebc2e1095
 ---
 
 # Mapleme Yardım Takımı
@@ -16,6 +18,6 @@ MAT, 27 Aralık 2009 tarihinde, BAT üyeleri tarafından özenle seçilen ilk ü
 
 Kısa bir zaman sonra, genel mapleme ve modlama topluluğunun tüm üyelerinin MAT içerisinde bir pozisyon için başvurması sağlandı. 26 Şubat 2010 tarihinde, BAT ve mevcut MAT üyelerinin ortaklaşa değerlendirmesiyle, başvuranlar arasından ilk yeni MAT üyeleri eklendi. MAT başvuruları, hem yeni üyeler aramak hem de daha önceki başvurularında başarısız olanlara bir geri bildirim sağlamak için belirli aralıklarla tekrar düzenlendi.
 
-4 Ekim 2010 tarihinde, MAT üyeleri beatmaplere tam baloncuk ve patlak baloncuk ikonlarını ekleme yetkilerini kazandı ve böylece görevleri ve sorumlulukları BAT üyelerininkine daha çok yaklaştı. Yine de, hala forum ya da oyun-içi sohbet moderasyon yetkileri yoktu, ve sadece beatmapleri değerlendirme ve yükseltmeye odaklılardı. 
+4 Ekim 2010 tarihinde, MAT üyeleri beatmaplere [tam baloncuk](/wiki/Modding/Bubble) ve [patlak baloncuk](/wiki/Modding/Bubble#bubble-pop) ikonlarını ekleme yetkilerini kazandı ve böylece görevleri ve sorumlulukları BAT üyelerininkine daha çok yaklaştı. Yine de, hala forum ya da oyun-içi sohbet moderasyon yetkileri yoktu, ve sadece beatmapleri değerlendirme ve yükseltmeye odaklılardı. 
 
 İki ekip arasındaki deneyim ve sorumluluk farkının gittikçe azalmasıyla, 23 Nisan 2013 tarihinde, mevcut tüm üyelerin BAT'ye terfi etmesi ve ilgili moderasyon araçları ile sorumlulukları almasıyla, MAT feshedildi.
