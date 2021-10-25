@@ -18,7 +18,7 @@ Notes:
 
 - [osu!supporter](/wiki/osu!supporter) is required to modify.
 - Plays when closing the osu!client.
-- This can be disabled in the [options](/wiki/options).
+- This can be disabled in the [options](/wiki/Options).
 
 ---
 
@@ -26,7 +26,7 @@ Notes:
 
 - [osu!supporter](/wiki/osu!supporter) is required to modify.
 - Plays when starting the osu!client.
-- This can be disabled in the [options](/wiki/options).
+- This can be disabled in the [options](/wiki/Options).
 
 ### Keys
 
@@ -498,7 +498,7 @@ Notes:
 Notes:
 
 - For multiple sounds, use `comboburst-{n}.wav`.
-- In the [skin.ini](/wiki/skin.ini), if `CustomComboBurstSounds` is set to `1`, `comboburst-{n}.wav` must be used.
+- In the [skin.ini](/wiki/Skinning/skin.ini), if `CustomComboBurstSounds` is set to `1`, `comboburst-{n}.wav` must be used.
 
 ---
 

@@ -14,7 +14,7 @@
 
    ![](img/online-editing.jpg "Clicking this pencil icon in GitHub will send you to the web editor")
 
-5. You can now make your changes. When making changes, follow the [Article Styling Criteria](/wiki/ASC) as closely as you can.
+5. You can now make your changes. When making changes, follow the [Article Styling Criteria](/wiki/Article_styling_criteria) as closely as you can.
 
 6. Continue to [Saving and committing](#saving-and-committing).
 

@@ -10,7 +10,7 @@ tags:
 
 <!-- TODO: QAT stub and explain relation to QAT up here too -->
 
-La **Beatmap Appreciation Team** (***BAT***, précédemment appelée *Beatmap Approval Team*) était un groupe chargé de superviser les processus de [classement et de disqualification](/wiki/Beatmap_ranking_procedure) des beatmaps. Les membres de l'équipe BAT possédaient également des outils de base pour la modération dans le jeu et sur les forums, utilisés par l'équipe de modération globale [Global Moderation Team (*GMT*)](/wiki/People/The_Team/Global_Moderation_Team).
+La **Beatmap Appreciation Team** (***BAT***, précédemment appelée *Beatmap Approval Team*) était un groupe chargé de superviser les processus de [classement et de disqualification](/wiki/Beatmap_ranking_procedure) des beatmaps dans le système de [modding du forum](/wiki/Modding/Forum_modding). Les membres de l'équipe BAT possédaient également des outils de base pour la modération dans le jeu et sur les forums, utilisés par l'équipe de modération globale [Global Moderation Team (*GMT*)](/wiki/People/The_Team/Global_Moderation_Team).
 
 Avec la [Mapping Assistance Team (*MAT*)](/wiki/Modding/Mapping_Assistance_Team) jusqu'à leur fusion en avril 2013, les BAT étaient chargés d'évaluer la qualité des [beatmaps](/wiki/Beatmap) et de décider du contenu à intégrer dans la section [Ranked](/wiki/Beatmap/Category#ranked).
 

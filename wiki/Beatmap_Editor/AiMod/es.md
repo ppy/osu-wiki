@@ -171,7 +171,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 ## Defectos
 
 - **Aimod no puede detectar un gran número de problemas** que estén considerados inrankeables por el [Criterio de ranking](/wiki/Ranking_Criteria), como objetos potencialmente mal encajados, sonidos atrasados, imagen de fondo sobre los 2.5MB, etc.
-- **AiMod puede advertirte sobre cosas que no son un problema**, como que el conjunto de mapas necesite dos dificultades standard en un mapa de estilo [marathon](/wiki/Beatmap/Marathon) y [tiempo kiai](/wiki/Beatmap_Editor/Kiai_Time) siendo activado por menos de 15 segundos.
+- **AiMod puede advertirte sobre cosas que no son un problema**, como que el conjunto de mapas necesite dos dificultades standard en un mapa de estilo [marathon](/wiki/Beatmap/Marathon) y [tiempo kiai](/wiki/Kiai_time) siendo activado por menos de 15 segundos.
 - **Si `Check distance snap` está activo, AiMod no revisará la distancia entre combos.**
 - **Si hay múltiples archivos MP3 en la carpeta del beatmap, AiMod puede advertirte sobre múltiples archivos de canciones**, sin embargo, los arvchivos MP3 también pueden ser usados para efectos de sonido como los aplausos.
 

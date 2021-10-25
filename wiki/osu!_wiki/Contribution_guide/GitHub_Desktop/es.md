@@ -46,7 +46,7 @@ Mientras que la ramificación es técnicamente opcional, es [altamente recomenda
 
 1. En el archivo en el que has clonado el repositorio, navega al archivo que quieres editar. Los artículos están organizados por el nombre de las carpetas siendo el nombre de los artículos y los archivos `.md` siendo las traducciones.
 2. Una vez que has encontrado el archivo correcto, ábrelo usando tu editor de texto favorito.
-3. Ahora puedes hacer tus cambios. Cuando haces cambios, sigue el [Criterio de Estilo de Artículos](/wiki/Article_Styling_Criteria) tanto como puedas.
+3. Ahora puedes hacer tus cambios. Cuando haces cambios, sigue el [Criterio de Estilo de Artículos](/wiki/Article_styling_criteria) tanto como puedas.
 4. Continua en [Haciendo 'commits' y 'pushes'](#haciendo-'commits'-y-'pushes').
 
 ### Moviendo archivos existentes

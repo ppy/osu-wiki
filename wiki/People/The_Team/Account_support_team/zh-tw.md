@@ -32,7 +32,7 @@ no_native_review: true
 - 你想[承認](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?)的不良行為。
 - [無法存取](/wiki/Help_Centre#sign-in)你的 osu! 帳號綁定的電子郵件信箱，或帳號被盜用。
 - [復原使用者名稱或修正拼寫錯誤](/wiki/Help_Centre#name-changes)。
-- [機器人帳號註冊](/wiki/Bot_Account)。
+- [機器人帳號註冊](/wiki/Bot_account)。
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 

@@ -4,7 +4,7 @@ osu! yeni başlayanlar kılavuzuna hoşgeldiniz. osu!'nun dünyası bazen son de
 
 ## Girdi Yöntemleri
 
-*Ana sayfa: [Oyun Tarzları](/wiki/Play_Styles)*
+*Ana sayfa: [Oyun Tarzları](/wiki/Play_style)*
 
 Varsayılan olarak, pek çok oyuncu oyuna fare ile başlayacaktır, zira erişmesi en hızlı olan hedef alma aracı açık ara odur. Ama aslında imleci kontrol edip daireleri patlatmanın birden fazla yolu vardır:
 

@@ -1,6 +1,6 @@
 # osu! skinning
 
-*See also: [Skinning osu! Tutorial](/wiki/Skinning_osu!_Tutorial)*
+*See also: [Skinning osu! Tutorial](/wiki/Skinning/Guides_and_important_threads)*
 
 ## Comboburst
 
@@ -206,7 +206,7 @@ Notes:
 - Tinting depends on the hit circle's combo colour.
 - This element shrinks over time.
   - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this element will not be used.
-    - To show the first approach circle with Hidden mod enabled, the player will need to enable it in the [options](/wiki/options).
+    - To show the first approach circle with Hidden mod enabled, the player will need to enable it in the [options](/wiki/Options).
 - Should be a circle.
 
 ---
@@ -261,7 +261,7 @@ Notes:
 
 Notes:
 
-- This element is only used in the [beatmap editor](/wiki/beatmap_editor).
+- This element is only used in the [beatmap editor](/wiki/Beatmap_Editor).
 - Should be a circle.
 
 ---
@@ -292,7 +292,7 @@ Notes:
 
 Notes:
 
-- This can be disabled in the [options](/wiki/options).
+- This can be disabled in the [options](/wiki/Options).
 - Tinting depends on the hit circle's combo colour.
 - Used during kiai time:
   - Coloured afterimage as part of hitburst explosion.
@@ -498,7 +498,7 @@ Notes:
 
 - This element is the slider tick.
 - If this element is overlapping the slider start or end, it will not be rendered.
-- This element is also used in [osu!taiko](/wiki/osu!taiko).
+- This element is also used in [osu!taiko](/wiki/Game_mode/osu!taiko).
 
 ## Spinner
 

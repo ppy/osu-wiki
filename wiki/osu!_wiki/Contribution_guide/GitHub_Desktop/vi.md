@@ -46,7 +46,7 @@ Tuy việc phân nhánh không bắt buộc, nhưng nó [được khuyến ngh�
 
 1. Trong thư mục mà bạn vừa nhân bản repo, điều hướng tới tệp bạn muốn sửa. Bài viết được sắp xếp với tên thư mục là tên của các bài viết, còn các tệp `.md` là các bản dịch.
 2. Sau khi tìm được tệp, mở nó bằng trình soạn thảo văn bản mà bạn thích.
-3. Giờ bạn có thể thực hiện các thay đổi. Khi thay đổi, hãy bám sát [Tiêu chí tạo kiểu bài viết](/wiki/ASC) nhất có thể.
+3. Giờ bạn có thể thực hiện các thay đổi. Khi thay đổi, hãy bám sát [Tiêu chí tạo kiểu bài viết](/wiki/Article_styling_criteria) nhất có thể.
 4. Đi tới [Committing và pushing](#committing-và-pushing).
 
 ### Di chuyển các tệp có sẵn
