@@ -149,7 +149,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
   - [Comela - Wing of Destiny (Nana Abe) \[OWC Tyrant\]](https://osu.ppy.sh/beatmapsets/1610199#osu/3287700)
   - [Ice - Amber Wishes (Deemo edit) (Astronic) \[Aspiration\]](https://osu.ppy.sh/beatmapsets/1610241#osu/3287781)
   - [Ariabl'eyeS - Unmei no Kousaku (Mirash) \[Mirash x Delisha Collab\]](https://osu.ppy.sh/beatmapsets/1610080#osu/3287483)
-  - [Mysteka - Hesperos (Acylica) \[3dyoshispin\]]()
+  - [Mysteka - Hesperos (Acylica) \[3dyoshispin\]](https://osu.ppy.sh/beatmapsets/1610294#osu/3287875)
   - [Project Gabbangelion - Lolit Speed (Cut Ver.) (alden) \[crack collab\]](https://osu.ppy.sh/beatmapsets/1610082#osu/3287485)
 - Hidden
   - [Denkishiki Karen Ongaku Shuudan - Shinoburedo (Lasse) \[Despair (owc ver.)\]](https://osu.ppy.sh/beatmapsets/1610204#osu/3287711)
