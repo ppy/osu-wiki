@@ -111,7 +111,8 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 | ![][flag_UY] | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Rebo](https://osu.ppy.sh/users/6942259), [Kazuki K](https://osu.ppy.sh/users/6407282), [FDX](https://osu.ppy.sh/users/8987016), [Rondro](https://osu.ppy.sh/users/9293124), [Saphity](https://osu.ppy.sh/users/5382216), [El Milanga](https://osu.ppy.sh/users/12264918), [Raby](https://osu.ppy.sh/users/5218320) |
 | ![][flag_VN] | **Vietnam** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [Ui chan](https://osu.ppy.sh/users/5449433), [- Mel -](https://osu.ppy.sh/users/9829680), [kiethao](https://osu.ppy.sh/users/2283137), [\[sin\]](https://osu.ppy.sh/users/11021073), [\[Boy\]DaLat](https://osu.ppy.sh/users/8266808), [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [Liyuchi](https://osu.ppy.sh/users/3275495) |
 
-## Match schedule: Round of 16
+## Match schedule: 
+
 
 ### Saturday, October 30, 2021
 
@@ -160,7 +161,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 - DoubleTime
   - [Hana - Eden's song (Kowari) \[Insane\]](https://osu.ppy.sh/beatmapsets/1610217#osu/3287743)
   - [senya - Kasoku Suru Koi wa Dare mo Tomerarenai (Luscent) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1609956#osu/3287252)
-  - [Hatsuki Yura - RED LUNACY Nightmare\_ver ( KKipalt) \[Insane OTST6\]](https://osu.ppy.sh/beatmapsets/1464373#osu/3142329)
+  - [Hatsuki Yura - RED LUNACY Nightmare\_ver (KKipalt) \[Insane OTST6\]](https://osu.ppy.sh/beatmapsets/1464373#osu/3142329)
 - FreeMod
   - [Feryquitous - Quon-Extend- (captin1) \[hit da quon\]](https://osu.ppy.sh/beatmapsets/1362537#osu/2819029)
   - [Sougetsu Eli - Aoi Chou (Ryuusei Aika) \[Transient\]](https://osu.ppy.sh/beatmapsets/1610224#osu/3287758)
