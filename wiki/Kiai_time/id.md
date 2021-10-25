@@ -20,4 +20,4 @@ Waktu kiai paling sering digunakan untuk "bagian terkuat dari sebuah lagu", yang
 
 ## osu!taiko
 
-Pada beatmap [osu!taiko](/wiki/Game_Modes/osu!taiko), bagian kiai memberikan [skor](/wiki/Score) 20% lebih banyak.
+Pada beatmap [osu!taiko](/wiki/Game_mode/osu!taiko), bagian kiai memberikan [skor](/wiki/Score) 20% lebih banyak.

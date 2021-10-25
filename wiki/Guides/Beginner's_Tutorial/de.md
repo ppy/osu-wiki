@@ -8,7 +8,7 @@ Willkommen zum osu! Anfängertutorial. Die Welt von osu! kann manchmal ein sehr 
 
 ## Arten der Eingabemethode
 
-*Hauptseite: [Spielstile](/wiki/Play_Styles)*
+*Hauptseite: [Spielstile](/wiki/Play_style)*
 
 Normalerweise fangen viele Spieler mit der normalen Computermaus an, da sie oft die am einfachsten verfügbare Eingabemethode ist. Tatsächlich gibt es aber viele verschiedene Eingabemöglichkeiten, um den Cursor zu bewegen und die Hit-Circles anzuklicken:
 

@@ -82,7 +82,7 @@ On the *DS*, this is a good way to scratch the touchscreen (or screen protector)
 
 ## Play Styles
 
-*Refer to [Play Styles page under osu!](/wiki/Play_Styles).*
+*Refer to [Play Styles page under osu!](/wiki/Play_style).*
 
 ## Controls
 

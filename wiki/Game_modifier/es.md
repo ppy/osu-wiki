@@ -62,7 +62,7 @@ Cada uno de los mods que aparecen a continuación tendrá su icono de modos de j
 
 *Nota: Estos mods fueron usados y disponibles hace algún tiempo, pero ahora no están disponibles.*
 
-- [10K](/wiki/Game_modifier/10k) ![][osu!mania]
+- [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 

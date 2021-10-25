@@ -15,7 +15,7 @@ L'**overall difficulty** (abrégé en ***OD***) définit la difficulté d'obteni
 
 ## Timing
 
-Des valeurs d'OD plus élevées signifient une hit window plus courte pour frapper les [objets](/wiki/Hit_Objects), à la fois en général et pour obtenir des scores élevés. La largeur de l'intervalle pour frapper une note, centrée sur le timing correct de l'objet, est définie par le tableau suivant :
+Des valeurs d'OD plus élevées signifient une hit window plus courte pour frapper les [objets](/wiki/Hit_object), à la fois en général et pour obtenir des scores élevés. La largeur de l'intervalle pour frapper une note, centrée sur le timing correct de l'objet, est définie par le tableau suivant :
 
 | Score | hit window |
 | --: | :-- |

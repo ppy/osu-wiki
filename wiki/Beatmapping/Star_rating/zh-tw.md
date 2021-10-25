@@ -8,7 +8,7 @@ tags:
 
 # 星級
 
-**星級** (***SR***) 是由 osu!客戶端計算，說明[圖譜](/wiki/Beatmap)難度的數值。在計算 [pp](/wiki/Performance_Points) 時，扮演很重要的角色。星級可以在歌曲選擇和圖譜資訊頁上看到。
+**星級** (***SR***) 是由 osu!客戶端計算，說明[圖譜](/wiki/Beatmap)難度的數值。在計算 [pp](/wiki/Performance_points) 時，扮演很重要的角色。星級可以在歌曲選擇和圖譜資訊頁上看到。
 
 ## 難度
 
