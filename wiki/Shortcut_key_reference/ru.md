@@ -114,9 +114,9 @@ outdated: true
 - `S`, затем `S`: [Perfect](/wiki/Game_modifier/Perfect)
 - `D`: [Double Time](/wiki/Game_modifier/Double_Time)
 - `D`, затем `D`: [Nightcore](/wiki/Game_modifier/Nightcore)
-- `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, и osu!catch)
+- `F`: [Hidden](/wiki/Game_modifier/Hidden) (osu!, osu!taiko, и osu!catch)
   - эта кнопка будет включать/выключать [Fade In](/wiki/Game_modifier/Fade_In) для osu!mania
-- `F`, затем `F`: [Hidden](/wiki/Hidden) (только в osu!mania)
+- `F`, затем `F`: [Hidden](/wiki/Game_modifier/Hidden) (только в osu!mania)
 - `G`: [Flashlight](/wiki/Game_modifier/Flashlight)
 
 ---
@@ -129,13 +129,13 @@ outdated: true
 
 ---
 
-- `3`: [3K](/wiki/3K) (только в osu!mania)
-- `4`: [4K](/wiki/4K) (только в osu!mania)
-- `5`: [5K](/wiki/5K) (только в osu!mania)
-- `6`: [6K](/wiki/6K) (только в osu!mania)
-- `7`: [7K](/wiki/7K) (только в osu!mania)
-- `8`: [8K](/wiki/8K) (только в osu!mania)
-- `9`: [9K](/wiki/9K) (только в osu!mania)
+- `3`: [3K](/wiki/Game_modifier/xK) (только в osu!mania)
+- `4`: [4K](/wiki/Game_modifier/xK) (только в osu!mania)
+- `5`: [5K](/wiki/Game_modifier/xK) (только в osu!mania)
+- `6`: [6K](/wiki/Game_modifier/xK) (только в osu!mania)
+- `7`: [7K](/wiki/Game_modifier/xK) (только в osu!mania)
+- `8`: [8K](/wiki/Game_modifier/xK) (только в osu!mania)
+- `9`: [9K](/wiki/Game_modifier/xK) (только в osu!mania)
 
 ## Режим игры
 
@@ -175,10 +175,10 @@ outdated: true
 - `Ctrl` + `Shift` + `Стрелка вниз`: Замедлить скорость воспроизведения на 5%
 - `Ctrl` + `Up`: Увеличить скорость воспроизведения на 25%
 - `Ctrl` + `Shift` + `Стрелка вверх`: Увеличить скорость воспроизведения на 5%
-- `F1`: Переключиться в режим ["Compose"](/wiki/Compose) (Композиция)
-- `F2`: Переключиться в режим ["Design"](/wiki/Design) (Дизайн)
-- `F3`: Переключиться в режим ["Timing"](/wiki/Timing) (Настройка темпа)
-- `F4`: Открыть [настройки песни](/wiki/Song_Setup) (открывает диалог)
+- `F1`: Переключиться в режим ["Compose"](/wiki/Beatmap_Editor/Compose) (Композиция)
+- `F2`: Переключиться в режим ["Design"](/wiki/Beatmap_Editor/Design) (Дизайн)
+- `F3`: Переключиться в режим ["Timing"](/wiki/Beatmap_Editor/Timing) (Настройка темпа)
+- `F4`: Открыть [настройки песни](/wiki/Beatmap_Editor/Song_Setup) (открывает диалог)
 - `F5`: Открыть режим тестирования
 - `F6`: Открыть панель настроки тайминга
 

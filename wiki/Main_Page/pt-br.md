@@ -29,9 +29,9 @@ Bem-vindo ao osu! wiki, um projeto que contém uma ampla variedade de informaç�
 
 # Jogabilidade
 
-[Modos de Jogo](/wiki/Game_Mode): [osu!](/wiki/Game_Mode/osu!) • [osu!taiko](/wiki/Game_Mode/osu!taiko) • [osu!catch](/wiki/Game_Mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
+[Modos de Jogo](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Hit object](/wiki/Hit_object) • [Mods](/wiki/Game_Modifiers) • [Pontuação](/wiki/Score) • [Replay](/wiki/Replay) • [Multi](/wiki/Multi)
+[Beatmap](/wiki/Beatmap) • [Hit object](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Pontuação](/wiki/Score) • [Replay](/wiki/Replay) • [Multi](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -58,7 +58,7 @@ Componentes: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/B
 
 # Comunidade
 
-[Torneios](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projetos](/wiki/Projects) • [Guias](/wiki/Guides) • [Servidor de Discord do osu!dev](/wiki/osu!dev_Discord_server) • [Como você pode ajudar](/wiki/How_You_Can_Help!) • [Glossário](/wiki/Glossary)
+[Torneios](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projetos](/wiki/Projects) • [Guias](/wiki/Guides) • [Servidor de Discord do osu!dev](/wiki/osu!dev_Discord_server) • [Como você pode ajudar](/wiki/How_you_can_help!) • [Glossário](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -83,7 +83,7 @@ Organizações: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # Sobre a wiki
 
-[Sitemap](/wiki/Sitemap) • [Guia de contribuição](/wiki/osu!_wiki/Contribution_guide) • [Critérios do estilo de artigos](/wiki/Article_Styling_Criteria) • [Critérios do estilo de notícias](/wiki/News_Styling_Criteria)
+[Sitemap](/wiki/Sitemap) • [Guia de contribuição](/wiki/osu!_wiki/Contribution_guide) • [Critérios do estilo de artigos](/wiki/Article_styling_criteria) • [Critérios do estilo de notícias](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

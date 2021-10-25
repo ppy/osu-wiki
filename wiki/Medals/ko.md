@@ -23,14 +23,14 @@ outdated: true
 
 ### Notes
 
-- 모드는 Unranked 모드를 제외하고 자유롭게 사용할 수 있습니다. (예시) [Auto Pilot](/wiki/AP)).
+- 모드는 Unranked 모드를 제외하고 자유롭게 사용할 수 있습니다. (예시) [Auto Pilot](/wiki/Game_modifier/Autopilot)).
 - 맵을 플레이한 뒤, [비트맵 팩 목록](https://osu.ppy.sh/beatmaps/packs?type=theme)에서 **`클리어한 맵`** 상태가 되었다면 로컬에서 해당 맵을 삭제해도 상관없습니다.
 
 ## Skill
 
 **스킬(Skill)** 메달은 현재 세 그룹으로 나뉩니다: 콤보(Combo), 하이 랭커(High Ranker), 난이도 기반(Star-based).
 
-콤보(Combo) 메달은 osu!에서 특정 [콤보](/wiki/combo)를 도달하는 것으로 해금할 수 있으며, 어떤 노래든 달성이 가능합니다. 다만, [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch) 또는 [osu!mania](/wiki/Game_mode/osu!mania)에서는 메달을 해금할 수 없습니다.
+콤보(Combo) 메달은 osu!에서 특정 [콤보](/wiki/Disambiguation/Combo)를 도달하는 것으로 해금할 수 있으며, 어떤 노래든 달성이 가능합니다. 다만, [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch) 또는 [osu!mania](/wiki/Game_mode/osu!mania)에서는 메달을 해금할 수 없습니다.
 
 1000, 2000 콤보 메달을 해금하려면 길이가 긴 비트맵을 찾아보는 게 좋습니다. **Ranked 또는 Approved 상태가 아닌 비트맵은 인정되지 않으니 주의하세요.**
 

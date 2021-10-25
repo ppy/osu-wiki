@@ -23,8 +23,8 @@ La timeline elle-même utilise quelques coches qui ont diverses significations.
 | Blanc (long) | Horodatage actuel |
 | Jaune (tick long) | Point d'aperçu |
 | Jaune (tick haut) | Début du temps de drain |
-| Vert (tick haut) | Points hérités (Voir [Timing](/wiki/Timing)) |
-| Rouge (tick haut) | Points de timing (Voir [Timing](/wiki/Timing)) |
+| Vert (tick haut) | Points hérités (Voir [Timing](/wiki/Beatmap_Editor/Timing)) |
+| Rouge (tick haut) | Points de timing (Voir [Timing](/wiki/Beatmap_Editor/Timing)) |
 | Bleu (tick bas) | Signets |
 | Gris (en surbrillance) | Temps de pause |
 | Orange (en surbrillance) | Kiai time |
@@ -39,7 +39,7 @@ Il existe deux types différents de timeline des objets, selon le mode de jeu ut
 
 ![La timeline des objets dans les modes osu!, osu!taiko, et osu!catch](/wiki/shared/BE_NTL.jpg "Cela montre la timeline des objets par rapport au diviseur de mesures et à l'horodatage du beat snap.")
 
-En mode [compose](/wiki/Compose), cette timeline se trouve sous l'onglet `Compose` pour tous les modes de jeu, sauf pour [osu!mania](/wiki/Game_mode/osu!mania).
+En mode [compose](/wiki/Beatmap_Editor/Compose), cette timeline se trouve sous l'onglet `Compose` pour tous les modes de jeu, sauf pour [osu!mania](/wiki/Game_mode/osu!mania).
 
 | Nom | Description |
 | :-- | :-- |

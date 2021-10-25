@@ -53,7 +53,7 @@ Grafik performa adalah sebuah grafik yang menampilkan performa pemain (berdasark
 
 Saat menggerakkan kursor ke grafik performa, sebuah tooltip akan ditampilkan dengan informasi tentang *Error* dan *Unstable Rate*.
 
-Sebab saat mod [DT](/wiki/Game_modifier/Double_time) (Double Time) dan [HT](/wiki/Game_modifier/Half_time) (Half Time) diimplementasikan, nilai kesalahan dan laju tidak stabil akan dikalikan dengan faktor yang sama dengan lagu. Untuk mendapat nilai asli saat bermain DT, bagi hasil dengan 1.5. Sama halnya, kalikan hasil dengan 1.33 saat bermain HT.
+Sebab saat mod [DT](/wiki/Game_modifier/Double_Time) (Double Time) dan [HT](/wiki/Game_modifier/Half_Time) (Half Time) diimplementasikan, nilai kesalahan dan laju tidak stabil akan dikalikan dengan faktor yang sama dengan lagu. Untuk mendapat nilai asli saat bermain DT, bagi hasil dengan 1.5. Sama halnya, kalikan hasil dengan 1.33 saat bermain HT.
 
 #### Error
 

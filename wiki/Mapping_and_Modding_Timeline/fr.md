@@ -125,7 +125,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Juillet
 
-- **22/07/2012 :** La première itération des [points de performance](/wiki/Performance_Points) connue sous le nom de [ppv1](/wiki/Performance_points/ppv1) a été mise en place, remplaçant les classements par score total classé.
+- **22/07/2012 :** La première itération des [points de performance](/wiki/Performance_points) connue sous le nom de [ppv1](/wiki/Performance_points/ppv1) a été mise en place, remplaçant les classements par score total classé.
 
 ### Août
 

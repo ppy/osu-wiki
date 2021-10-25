@@ -188,7 +188,7 @@ A couple of rules of thumb are:
 
 ### どうやってビートマップにストーリーボードを入れるの?
 
-"Design"タブをクリックしてSBE ([Storyboard Editor](/wiki/Design))に移動してください。
+"Design"タブをクリックしてSBE ([Storyboard Editor](/wiki/Beatmap_Editor/Design))に移動してください。
 
 ## キーボードのショートカットキー
 

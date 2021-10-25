@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 准确度
 
 准确度是对玩家准时击中[物件](/wiki/Hit_object)的能力的百分数评估。玩家有三种准确度：谱面的准确度，这取决于所得的命中分数；总准确度，它是为让更好的得分更加突出而权衡的；[Performance Points (pp)](/wiki/Performance_points)准确度，它取决于提交的得分的准确度。
@@ -51,7 +55,7 @@
 
 光标悬停在表现图上方时， 将显示一个包含 `Error` 和 `Unstable Rate` 评级的提示框
 
-由于 [DT](/wiki/Game_modifier/Double_time) (Double Time) 和 [HT](/wiki/Game_modifier/Half_time) (Half Time) 的实现方法， Error 和 Unstable Rate 的值将会被乘以谱面的速度变化率。 当使用 DT 时， 要获得真正的 Unstable Rate，将结果除以 1.5 即可。 以此类推，当使用 HT mod 游玩时将结果乘以 1.33即可。
+由于 [DT](/wiki/Game_modifier/Double_Time) (Double Time) 和 [HT](/wiki/Game_modifier/Half_Time) (Half Time) 的实现方法， Error 和 Unstable Rate 的值将会被乘以谱面的速度变化率。 当使用 DT 时， 要获得真正的 Unstable Rate，将结果除以 1.5 即可。 以此类推，当使用 HT mod 游玩时将结果乘以 1.33 即可。
 
 #### Error
 

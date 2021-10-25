@@ -22,14 +22,14 @@ Les médailles **Packs de beatmaps** peuvent être obtenues en **jouant toutes l
 
 ### Notes
 
-- Les mods peuvent être utilisés à l'exception de ceux qui rendent une beatmap non classée (exemple [Auto Pilot](/wiki/AP)).
+- Les mods peuvent être utilisés à l'exception de ceux qui rendent une beatmap non classée (exemple [Auto Pilot](/wiki/Game_modifier/Autopilot)).
 - La beatmap peut être supprimé en toute sécurité une fois le statut **`CLEARED`** a été noté dans la [liste des packs de beatmaps](https://osu.ppy.sh/beatmaps/packs?type=theme).
 
 ## Talent
 
 Les médailles **Talent** sont actuellement divisées en trois groupes: Combos, top-niveau et niveau en étoiles.
 
-Les médailles Combo peuvent être obtenues en obtenant un [combo](/wiki/combo) en osu! et peuvent être complétées avec n’importe quelle musique. Atteindre le même nombre de combos dans les modes de jeu [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), ou [osu!mania](/wiki/Game_mode/osu!mania) n'entraînera pas l'obtention de la médaille.
+Les médailles Combo peuvent être obtenues en obtenant un [combo](/wiki/Disambiguation/Combo) en osu! et peuvent être complétées avec n’importe quelle musique. Atteindre le même nombre de combos dans les modes de jeu [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), ou [osu!mania](/wiki/Game_mode/osu!mania) n'entraînera pas l'obtention de la médaille.
 
 Pour les médailles combinées de 1 000 et de 2 000, vous devriez trouver des beatmaps approuvées au lieu des beatmaps classées.
 
