@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Attentes à l'égard des Beatmap Nominators
 
 *Voir également : [Règles des Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators/Rules)*

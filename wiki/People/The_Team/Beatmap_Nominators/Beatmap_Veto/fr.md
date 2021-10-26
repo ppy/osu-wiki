@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Veto d'une beatmap
 
 Le *veto d'une beatmap* permet à un [Beatmap Nominator](/wiki/People/Beatmap_Nominators) de ne pas qualifier une beatmap s'il estime qu'il existe des problèmes importants concernant la qualité de la beatmap qui la rendent impropre à la section [classée](/wiki/Beatmap/Category#classée). L'une de leurs principales responsabilités est de chercher à discuter ou à clarifier tout problème de qualité qui, selon eux, doit être résolu avant que la map ne puisse passer à la [qualification](/wiki/Beatmap_ranking_procedure#qualification).
