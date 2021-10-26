@@ -13,6 +13,11 @@
 "moddingv2":                   "Beatmap_Discussion"
 "mv2":                         "Beatmap_Discussion"
 
+"modding_v1":                  "Modding/Forum_modding"
+"modding/v1":                  "Modding/Forum_modding"
+"moddingv1":                   "Modding/Forum_modding"
+"mv1":                         "Modding/Forum_modding"
+
 "editor":                           "Beatmap_Editor"
 "aimod":                            "Beatmap_Editor/AiMod"
 "beat_snap_divisor":                "Beatmap_Editor/Beat_Snap_Divisor"
