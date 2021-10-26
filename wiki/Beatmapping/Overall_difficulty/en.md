@@ -14,7 +14,7 @@ tags:
 
 ## Timing
 
-Higher OD values mean shorter time windows to clear [hit objects](/wiki/Hit_Objects), both in general and in terms of getting high score values. The width of the hit window, centered on the hit object's correct time, is defined by the following table:
+Higher OD values mean shorter time windows to clear [hit objects](/wiki/Hit_object), both in general and in terms of getting high score values. The width of the hit window, centered on the hit object's correct time, is defined by the following table:
 
 | Score | Hit window |
 | --: | :-- |
