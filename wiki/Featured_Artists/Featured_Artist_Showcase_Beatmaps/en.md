@@ -394,6 +394,34 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Release Hallucination](https://osu.ppy.sh/home/news/2021-08-28-new-featured-artist-release-hallucination)** (2021-08-28)
   - (![][osu!]) [Release Hallucination - Ariadne](https://osu.ppy.sh/beatmapsets/1550194) hosted by ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 
+### September
+
+- **[Alkome](https://osu.ppy.sh/home/news/2021-09-01-new-featured-artist-alkome)** (2020-09-01)
+  - (![][osu!]) [Alkome - Mind Disorder](https://osu.ppy.sh/beatmapsets/1301375) hosted by ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865)
+- **[litmus\*](https://osu.ppy.sh/home/news/2021-09-22-new-featured-artist-litmus)** (2020-09-22)
+  - (![][osu!]) [litmus\* as Ester - Krave](https://osu.ppy.sh/beatmapsets/1551054) hosted by ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342)
+  - (![][osu!catch]) [litmus\* as Ester - Krave](https://osu.ppy.sh/beatmapsets/1551054) hosted by ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+  - (![][osu!mania]) [litmus\* - Rush-More](https://osu.ppy.sh/beatmapsets/1505336) hosted by ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789)
+- **[tokiwa](https://osu.ppy.sh/home/news/2021-09-25-new-featured-artist-tokiwa)** (2020-09-25)
+  - (![][osu!]) [tokiwa - wasurena feat. Sennzai](https://osu.ppy.sh/beatmapsets/1496234) hosted by ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458)
+- **[Lundy](https://osu.ppy.sh/home/news/2021-09-29-new-featured-artist-lundy)** (2020-09-29)
+  - (![][osu!taiko]) [Lundy - STOP?](https://osu.ppy.sh/beatmapsets/1584108) hosted by ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
+  - (![][osu!catch]) [Lundy - to.ALPHA](https://osu.ppy.sh/beatmapsets/1554550) hosted by ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
+
+### October
+
+- **[DJ Raisei](https://osu.ppy.sh/home/news/2021-10-02-new-featured-artist-dj-raisei)** (2020-10-02)
+  - (![][osu!]) [ISOMERZ (DJ Raisei + seatrus) - Symmetric](https://osu.ppy.sh/beatmapsets/1381824) hosted by ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)
+- **[METAROOM](https://osu.ppy.sh/home/news/2021-10-09-new-featured-artist-metaroom)** (2020-10-09)
+  - (![][osu!]) [METAROOM - PINK ORIGINS](https://osu.ppy.sh/beatmapsets/1589495) hosted by ![][flag_TR] [Lugu](https://osu.ppy.sh/users/12851847)
+- **[Lexurus](https://osu.ppy.sh/home/news/2021-10-16-new-featured-artist-lexurus)** (2020-10-16)
+  - (![][osu!]) [Lexurus - Take Me Away](https://osu.ppy.sh/beatmapsets/1572918) hosted by ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
+- **[Risa Yuzuki](https://osu.ppy.sh/home/news/2021-10-27-new-featured-artist-risa-yuzuki)** (2020-10-27)
+  - (![][osu!]) [Risa Yuzuki - Honogurai Tsuioku](https://osu.ppy.sh/beatmapsets/1544897) hosted by ![][flag_GB] [CallieCube](https://osu.ppy.sh/users/7535045)
+  - (![][osu!]) [Risa Yuzuki - Amatsu Sumizome](https://osu.ppy.sh/beatmapsets/1591003) hosted by ![][flag_KR] [Affirmation](https://osu.ppy.sh/users/6186628)
+  - (![][osu!]) [Risa Yuzuki - Replique](https://osu.ppy.sh/beatmapsets/1571215) hosted by ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!taiko]) [Risa Yuzuki - Replique](https://osu.ppy.sh/beatmapsets/1580723) hosted by ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733)
+
 ## History
 
 From its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists"<!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals. This was reflected in the Guild's first ever major project, in where members of the Guild had prepared and ranked six beatmaps of [licensed MOtOLOiD songs](https://osu.ppy.sh/beatmaps/artists/19) long prior to the [corresponding artist's announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
@@ -408,6 +436,7 @@ Starting from [MYUKKE.'s featured artist announcement](https://osu.ppy.sh/home/n
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
