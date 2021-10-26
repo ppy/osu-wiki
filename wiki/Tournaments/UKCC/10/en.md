@@ -60,7 +60,36 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1HsZwZ-9NcBBMDksI
 
 ## Mappools
 
+### Finals
+
+- NoMod
+  - [FELT - Lost in the Abyss (DTM9 Nowa) [Minorsonek's Hopelessness]](https://osu.ppy.sh/beatmapsets/985041#osu/2070594)
+  - [DragonForce - My Heart Will Go On (SILENCE PLAYER) [SinHay's Extra]](https://osu.ppy.sh/beatmapsets/1071320#osu/2419749)
+  - [Keiki Kobayashi - Theme of Karin Kanzuki (Etna) [Rich Bitch]](https://osu.ppy.sh/beatmapsets/1212509#osu/2961289)
+  - [Camellia - Compute It With Some Devilish Alcoholic Steampunk Engines (DeRandom Otaku) [Retrofuturism]](https://osu.ppy.sh/beatmapsets/1280590#osu/2660097)
+  - [Camellia - Quicksand (Sheepcraft) [Liquefaction]](https://osu.ppy.sh/beatmapsets/757566#osu/1593674)
+  - [jun with Alison - SUNKiSS DROP \~jun side\~ ([Keqing]) [please donate for my gacha addiction]](https://osu.ppy.sh/beatmapsets/1498309#osu/3070802)
+- Hidden
+  - [suzumu - Shinzou Connect (Ryuusei Aika) [Necho's Extra feat. Yugu]](https://osu.ppy.sh/beatmapsets/964855#osu/2118515)
+  - [Suzaku - Anisakis -somatic mutation type "Forza"- (Matrix) [ExtrA]](https://osu.ppy.sh/beatmapsets/981518#osu/2054142)
+  - [Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix) (deadcode) [Flower Dance]](https://osu.ppy.sh/beatmapsets/822937#osu/2103267)
+  - [Silver Forest - Todokanai Eien no Kyori (ConsumerOfBean) [Eternal]](https://osu.ppy.sh/beatmapsets/1280488#osu/2659870)
+- HardRock
+  - [Kanzaki Elza starring ReoNa - Dancer in the Discord (Kibbleru) [Masquerade]](https://osu.ppy.sh/beatmapsets/1109271#osu/2318096)
+  - [Qrispy Joybox - licca (Minakami Yuki) [Special]](https://osu.ppy.sh/beatmapsets/287052#osu/647844)
+  - [ginkiha - Paved Garden (Smug Nanachi) [fiore]](https://osu.ppy.sh/beatmapsets/1131098#osu/2362655)
+  - [OSTER project - Violet Rose (Down) [Extra (\#4)]](https://osu.ppy.sh/beatmapsets/1178488#osu/2457696)
+- DoubleTime
+  - [TEA,ginkiha - Luvin'Epoch (Meg) [Collab]](https://osu.ppy.sh/beatmapsets/592259#osu/1253183)
+  - [Atsushi - Kessen (Yusomi) [Firika's Another]](https://osu.ppy.sh/beatmapsets/1094459#osu/2324224)
+  - [DJ Sharpnel - Exciting Hyper Highspeed Star (xBubu) [H-boy's Hyper]](https://osu.ppy.sh/beatmapsets/16619#osu/62590)
+  - [Hatsune Miku - Joker (Saturos-fangirl) [SFG Insane]](https://osu.ppy.sh/beatmapsets/10314#osu/40285)
+- Tiebreaker
+  - **[Shoujo Byou - Guren ni Kegashimeno (sukiNathan) [unleash]](https://osu.ppy.sh/beatmapsets/451277#osu/968137)**
+
 ### Semifinals
+
+**[Download the mappack here! (153 MB)](https://www.dropbox.com/s/wpq1zfgja0x332l/UKCC%2010%20Semifinals.zip?dl=0)**
 
 - NoMod
   - [Aice5 - Be with you (Settia) [Leaf's Promiss]](https://osu.ppy.sh/beatmapsets/502090#osu/1961029)
@@ -206,6 +235,54 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1HsZwZ-9NcBBMDksI
   - [ChuuToroP - Uta Catastrophe (HelloSCV) [Insane]](https://osu.ppy.sh/beatmapsets/78487#osu/219571)
 
 ## Match results
+
+### Semifinals
+
+#### Semifinals
+
+Saturday, 16 October 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kingling** ![][flag_GB] | **6** | 3 | ![][flag_GB] Bloo | [#1](https://osu.ppy.sh/community/matches/92479549) |
+
+Sunday, 17 October 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Bubbleman** ![][flag_GB] | **6** | 1 | ![][flag_GB] Karthy | [#1](https://osu.ppy.sh/community/matches/92561053) |
+
+#### Losers Bracket Round 6
+
+Friday, 15 October 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **majoreh** ![][flag_GB] | **6** | 3 | ![][flag_GB] mrowswares | [#1](https://osu.ppy.sh/community/matches/92438174) |
+
+Saturday, 16 October 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Voss** ![][flag_GB] | **6** | 3 | ![][flag_GB] lystia | [#1](https://osu.ppy.sh/community/matches/92479327) |
+| **Harpy** ![][flag_GB] | **0** | -1 | ![][flag_GB] Jemszee | *forfeit* |
+| **Akolibed** ![][flag_LV] | **6** | 1 | ![][flag_GB] Plasma | [#1](https://osu.ppy.sh/community/matches/92500200) |
+
+#### Losers Bracket Round 7
+
+Sunday, 17 October 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Voss ![][flag_GB] | 1 | **1** | ![][flag_GB] **Harpy** | [#1](https://osu.ppy.sh/community/matches/92549990) [#2](https://osu.ppy.sh/community/matches/92600878) ¹ |
+
+¹ Match was postponed due to tech issues, Voss was unable to complete the match after postponing.
+
+Monday, 18 October 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **majoreh** ![][flag_GB] | **6** | 1 | ![][flag_LV] Akolibed | [#1](https://osu.ppy.sh/community/matches/92599266) |
 
 ### Quarterfinals
 
