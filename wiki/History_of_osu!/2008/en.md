@@ -50,7 +50,7 @@ A new ranked status "![](img/fire.gif) [Approved](/wiki/Beatmap/Category#Approve
 
 ![](img/flashlight.png "Flashlight \(v1\)") ![](img/spun_out.png "Spun Out \(v1\)") ![](img/auto.png "Auto \(v1\)")
 
-A slew of new mods were unveiled this month: [Flashlight](/wiki/Game_modifier/Flashlight), [Spun Out](/wiki/Game_modifier/Spun_Out) and [Auto](/wiki/Game_modifier/Auto). Auto scripts an AI player that completed (almost) any beatmap with perfect [accuracy](/wiki/Gameplay/Accuracy), and can also be accessed via the editor test mode. The limits of beatmap design were pushed farther with the addition of more skinnable elements (including [comboburst images](/wiki/Glossary/comboburst), the clap sound sample, the ability to assign sound samples to individual slider endpoints and inherited timing sections. The song selection screen also received an overhaul.
+A slew of new mods were unveiled this month: [Flashlight](/wiki/Game_modifier/Flashlight), [Spun Out](/wiki/Game_modifier/Spun_Out) and [Auto](/wiki/Game_modifier/Auto). Auto scripts an AI player that completed (almost) any beatmap with perfect [accuracy](/wiki/Gameplay/Accuracy), and can also be accessed via the editor test mode. The limits of beatmap design were pushed farther with the addition of more skinnable elements (including [comboburst images](/wiki/Glossary/Comboburst), the clap sound sample, the ability to assign sound samples to individual slider endpoints and inherited timing sections. The song selection screen also received an overhaul.
 
 ## October
 

@@ -1,124 +1,108 @@
----
-outdated: true
-outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
----
-
 # Berkas Program osu!
 
-![File aturcara osu! secara keseluruhan](img/osu!-program-files.png "File aturcara osu! secara keseluruhan")
+*Lihat juga: [Format berkas osu!](/wiki/osu!_File_Formats)*
 
-## Lokasi
+![Struktur berkas pada folder instalasi osu! yang ada pada Windows dan macOS](img/file_structure.jpg "Struktur berkas pada folder instalasi osu! yang ada pada Windows dan macOS")
 
-### Windows
+## Lokasi instalasi
 
-Secara standar, `C:Program Filesosu!` di mana "C:" adalah kode hard disk dimana osu! diinstal. Untuk Windows 8, `C:Program Files(x86)osu!`.
+Secara umum, osu! terinstal pada lokasi berikut ini:
+
+| Windows | macOS |
+| :-- | :-- |
+| `C:\Users\<NamaPengguna>\AppData\Local\osu!` | `/Applications/osu!.app/Contents/Resources/drive_c/osu!` |
 
 ## Folder
 
-### \_MACOSX
-
-**osu! untuk Macintosh OS.** Untuk Windows OS users, abaikan saja atau menghapusnya jika diinginkan.
-
 ### Chat
 
-Hanya muncul apabila anda menggunakan "/savelog" di Chat Console sekali atau jika anda mengaktifkan "Automatically log private messages" di Options. Di dalam folder "chat" menunjukkan **senarai tab Chat Console komen.**
+Folder ini hanya muncul apabila anda menggunakan "/savelog" di [Chat Console](/wiki/Chat_Console) atau jika anda mengaktifkan "Simpan catatan(log) pesan pribadi secara otomatis" di Pengaturan.
 
-Aturannya adalah `{Nama_Tab}-{TTTTBBHH}-{JJMMSS}` dalam format .txt, yang pada dasarnya boleh dibuka melalui aplikasi word pilihan(Notepad, contohnya).
-**Contoh:** #multiplayer-20121115-040845 (/savelog di tab #multiplayer pada 15th November 2012, 0408jam dan 45saat).
+Struktur nama berkas ini adalah `{Nama_Tab}-{YYYYMMDD}-{HHMMSS}` dalam format .txt, yang pada dasarnya boleh dibuka melalui aplikasi *text editor* pilihan(Notepad, contohnya). Berikut adalah contoh nama berkas yang tersimpan:
 
-### Data
-
-**File-File osu!data.** Jangan diubah.
+``#multiplayer-20121115-040845``  (/savelog di tab #multiplayer pada 15 November 2012, pukul 4 lewat 8 menit 45 detik).
 
 ### Downloads
 
-Muncul selepas anda menggunakan perkhidmatan "osu!direct". **Menyimpan file .osz yang anda sedang muat-turun dari osu!direct**, kemudian dihantar ke folder Song sebagai beatmaps sah setelah selesai.
+Folder pengunduhan atau *downloads* menyimpan beatmap yang di download melalui osu!direct (item [osu!supporter](/wiki/osu!supporter) dibutuhkan untuk mengaktifkan osu!direct). **Menyimpan file .osz yang telah diunduh melalui osu!direct**, kemudian berkas beatmap akan dipindahkan ke folder Songs setelah selesai diunduh.
+
+### Exports
+
+Folder Exports muncul ketika pemain menggunakan fungsi [Ekspor Sebagai .osk pada Pengaturan](/wiki/Options) atau [Ekspor Map... pada Beatmap Editor"](/wiki/Beatmap_Editor/Menu). Folder tersebut akan menyimpan beatmap dan skin yang pemain ekspor dari osu!.
 
 ### Localisation
 
-Muncul ketika anda telah beralih bahasa anda di bawah Graphics pada halaman Options. **Menyimpan fail teks terjemahan yang dapat digunakan masing-masing untuk menggantikan teks Bahasa Inggeris yang biasa berdasarkan lokalisasi yang dipilih.**
+Folder ini muncul ketika pemain telah beralih pilihan bahasa melalui Pengaturan. Folder ini menyimpan berkas teks yang telah diterjemahkan yang dapat digunakan untuk mengubah teks Bahasa Inggris dengan bahasa yang dipilih oleh pemain. Berkas teks yang diterjemahkan akan terbuat ketika pemain mengubah pilihan bahasa.
 
-### Replay
+### Replays
 
-Gelar **external executable osu! file replay (.osr)**. Tidak bekerja ketika Beatmap terkait dengan file replay hilang. Menyimpan hasil data dan mengulangkan pergerakan kursor anda semasa replay. Untuk membuat .osr, tekan "**\[F2\]**" layar hasil (Results screen) atau klik pada "Save as .osr" di online layar Ranking (di bawah Hasil layar di Solo saja). Tidak menyimpan elemen multi-play. Ukuran file berkisar antara 100KB ~ 1KB. [Untuk pemain yang tertarik untuk memuat-naik fail replay mereka ke Youtube, lihat thread ini](https://osu.ppy.sh/community/forums/topics/108092).
+*Catatan: Berkas replay dulu diputar ulang dengan *sample rate* di bawah normal, tetapi sekarang sudah dioptimisasi untuk *user experience* yang lebih baik.*
 
-Formatnya adalah `{Nama pemain tempatan} - {Penyanyi} - {Tajuk} {[Kesukaran]}{(TTTT-BB-HH)} {Mode Mainan}`
-**Contoh:** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\]  (2013-08-12) OsuMania
+Folder Replays menyimpan berkas replay pemain. Berkas replay tidak dapat bekerja ketika beatmap yang tersambung pada replay tersebut tidak ada. Berkas replay juga mengandung data hasil dan menganimasikan ulang pergerakan kursor pemain ketika diputar. Untuk membuat replay, tekan tombol F2 pada layar results atau klik opsi "Simpan tayangan ulang ke folder Replays" (fungsi ini hanya dapat berjalan pada mode Solo).
+
+*Untuk pemain yang tertarik untuk mengunggah replay-nya di YouTube dapat melihat artikel: [Osr2mp4 public release. Automatically convert replay file to video.](https://osu.ppy.sh/community/forums/topics/1104243)
+
+Struktur nama berkas ini adalah `{Nama pemain lokal} - {Artis} - {Judul Lagu} {[Tingkat Kesulitan]}{(YYYY-MM-DD)} {Mode Permainan}`. Berikut adalah contoh berkas replay yang dibuat:
+
+``dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\] (2013-08-12) OsuMania``
 
 ### Screenshots
 
-**Screenshots (F12 secara standar) dari osu!**. File extensi screenshot yang disimpan (.jpg/.png) adalah berdasarkan apa yang anda set pada menu Options.
+Folder cuplikan layar atau *screenshots* menyimpan berkas tangkapan layar osu! yang dibuat oleh pemain. Secara umum, format berkas tangkapan layar yang disimpan adalah `.jpg`, namun pemain dapat mengubah format berkas menjadi `.png` melalui menu Pengaturan.
 
-Formatnya adalah `screenshot###` dimana "###" adalah nombor screenshot.
+*Catatan: Untuk membuat tangkapan layar, tekan tombol screenshot (Secara pengaturan bawaan, tombol F12).*
+
+Struktur nama berkas ini adalah `screenshot###`, di mana "###" adalah nomor tangkapan layar.
 
 ### Skins
 
-Memegang **Skin yang dibuat oleh pengguna yang dapat digunakan untuk menyesuaikan User Interface sekitar osu! dalam game.** Anda dapat memuat-turun lebih dari Skin osume!.exe(osu! updater) Anda dapat memuat-turun lebih dari Skin [forum istana kulit](https://osu.ppy.sh/community/forums/15). Skins download dari osume!.exe yang diambil segera dan siap untuk digunakan. Untuk download forum, ada dua kemungkinan. Jika anda mendapatkan executable osu!skin (.osk) file, langsung membukanya dan anda akan dipaksa untuk membuka osu! dan diarahkan ke "Skins Selector" layar dengan Skin baru yang berlokasi di daftar. Jika Skin download dalam bentuk folder, anda harus menempatkan folder di sini sendiri. Jika dalam format .zip/.rar, anda harus extract terlebih dahulu. Anda dapat mengubah Skin anda di [Options menu under Skins tab (Skin Selector)](/wiki/Options). Harap diingat Skin yang digunakan adalah *hanya efektif untuk osu! anda sendiri saja.*
+Folder Skins menyimpan berkas skin yang dibuat oleh pemain-pemain osu! yang dapat mengkostumisasi layar dalam permainan. Pemain dapat mengunduh skin dari [subforum Skinning](https://osu.ppy.sh/community/forums/15). Pemain dapat memasang skin dengan mengklik dua kali pada berkas skin. "osu! by peppy" adalah skin yang tidak memiliki folder dan tidak dapat dihapus.
 
-Untuk referensi lebih lanjut, silakan lihat muka [Pengkulitan](/wiki/Skinning). Juga, "osu! by peppy" adalah satu-satunya Skin tanpa folder dan tidak dapat dihapus secara langsung.
+*Untuk referensi lebih lanjut, lihat [Skinning](/wiki/Skinning)*
 
 ### Songs
 
-**Beatmaps osu!**. Biasanya berisi .osu (Kesulitan), .mp3/.ogg (file musik), .jpg/.png/.gif (Gambar latar belakang), .osb (file SB) dan .mp4/.flv (file video). Kemungkinan berisi .wav/.ogg (file suara) dan folder (objek SB dan/atau skin).
+Berkas Songs menyimpan beatmap osu! pemain. Biasanya folder berisi berkas `.osu` (tingkat kesulitan), `.mp3`/`.ogg` (berkas musik), `.jpg`/`.png`/`.gif` (gambar latar belakang), `.osb` (berkas storyboard) dan `.mp4`/`.flv` (berkas video). Folder ini juga dapat berisi berkas `.wav`/`.ogg` (berkas hitsound) dan folder-folder (sprite storyboard dan/atau folder skin).
 
-Formatnya adalah `{Kode nombor} {Penyanyi} - {Nama lagu}`.
+Struktur nama berkas ini adalah `{Nomor beatmap} {Artis} - {Judul Lagu}`.
 **Contoh:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
 
-Harap dicatat bahawa folder beatmap *lagenda* osu! tidak memiliki kode nombor dan tidak mengikuti format. Beberapa contoh adalah "[discoprince](https://osu.ppy.sh/beatmapsets/1)" atau "[avgn](https://osu.ppy.sh/beatmapsets/66)". Disebutkan secara khusus pergi ke "[tutorial](https://osu.ppy.sh/beatmapsets/3756)" karena setiap osu! pemain akan memilikinya ketika osu! diinstal menggunakan installer osu!. Juga, dibuat secara manual/kubur .osz/zip lagu folder dapat dihitung juga.
+Mohon dicatat bahwa beberapa beatmap yang sudah sangat tua (contohnya, [Kenji Ninuma - DISCO PRINCE](https://osu.ppy.sh/beatmapsets/1) atau [Dudelstudios - Angry Video Game Nerd Theme [MATURE CONTENT]](https://osu.ppy.sh/beatmapsets/66)) dan beatmap yang tidak diunggah pada website osu! tidak mengikuti format berkas tersebut.
 
-## Program files
+## Folder-folder tersembunyi
 
-### .dll (Ekstensi Aplikasi)
+Folder-folder ini disembunyikan karena modiikasi terhadap folder dan isinya dapat menyebabkan osu! tidak berjalan dengan benar atau tidak sama sekali.
 
-File .dll adalah komponen dari osu!.exe.
+### Data
 
-**Komponen Dasar** (Untuk Microsoft .NET)
+Berkas-berkas data osu!. Mengandung berkas data cache osu! seperti cache gambar latar belakang beatmap dan avatar. Berkas-berkas tersebut sebaiknya tidak dihapus karena berkas tersebut dapat sedang digunakan oleh osu!.
 
-- avcodec-51.dll
-- avformat-52.dll
-- avutil-49.dll
-- bass.dll
-- bass_fx.dll
-- d3dx9_31.dll
-- Microsoft.Ink.dll
-- Microsoft.Xna.Framework.dll
-- pthreadGC2.dll
-- x3daudio1_1.dll
+## Berkas-berkas
 
-**Komponen osu!**
+*Perhatian: Hati-hati ketika berinteraksi pada berkas-berkas ini, kamu dapat merusak osu! jika kamu tidak hati-hati.*
 
-- ~~osu!framework.dll~~
-- osu!gameplay.dll
-- osu!ui.dll
-- osu.dll
+## Berkas-berkas Database (.db)
 
-### .db (Database file)
+Berkas-berkas database adalah basis data yang dibutuhkan osu! untuk berfungsi dengan baik. Berkas-berkas ini berisi informasi penting yang dibutuhkan osu! seperti skor yang tersimpan dan daftar beatmap yang tersimpan pada mesin pemain.
 
-File .db adalah data beatmaps. Hanya osu!.exe/osu!test.exe dapat memanfaatkan. Notepad dapat membuka file .db tetapi sebagian besar terdiri daripada karakter dienkripsi.
+- `collections.db`: Menyimpan "Koleksi" dalam permainan pemain.
+- `osu!.db`: Menyimpan database beatmap osu!.
+- `presence.db`: Menyimpan cache pemain osu yang masuk pada Chat Console.
+- `scores.db`: Menyimpan peringkat lokal.
 
-**osu! database**
+## .cfg (Berkas-berkas konfigurasi)
 
-- collection.db ("Collections" (Koleksi) anda dalam game. Anda dapat memposting ke forum bagi orang lain untuk memeriksa "Collections" anda. Beatmaps Sebenarnya tidak tersedia.)
-- osu!.db (osu! beatmaps' cache.)
-- presence.db (Cache pemain osu! @ Chat Console)
-- scores.db (Menyimpan skor tempatan bersejarah)
+Berkas-berkas konfigurasi yang digunakan untuk mengkonfigurasi pengaturan awal osu! sehingga dapat berjalan. Berkas-berkas tersebut dapat dibuka dengan *text editor*.
 
-**osu!test database**
-
-- osu!test.db
-- osu!test_collection.db
-- osu!test_presence.db
-
-### .cfg (File Konfigurasi)
-
-Konfigurasi file atau file konfigurasi mengkonfigurasi pengaturan awal untuk osu! untuk bekerja. File-file dapat dibuka dengan Notepad.
-
-- osu!.cfg (Pemikiran osu!)
-- osu!.{Nama PC anda}.cfg ("Skrin [Options](/wiki/Options)". Juga mengandungi variabel yang menarik dan informasi sensitif)
-  - {Nama PC anda}: Nama Akaun PC Anda. Katakanlah, jika anda menetapkan nama admin/user account anda sebagai "HelloWorld", file .cfg akan diberi nama, osu!.HelloWorld.cfg .
+- `osu!.cfg`: Menyimpan informasi keamanan tentang berkas osu! dan versi yang saat ini digunakan. Berkas ini jangan pernah diubah secara manual.
+- `osu!.<nama pengguna sistem operasi>.cfg`: Menyimpan data [Pengaturan](/wiki/Options) dan pengaturan game lainnya. Lihat [Berkas Konfigurasi Pengguna](/wiki/osu!_Program_Files/User_Configuration_File).
 
 ### .exe (Aplikasi)
 
-Komponen utama. Klik di atasnya untuk start-up. Fail .exe adalah selama untuk dibuka jika anda menggunakan osu! Installer untuk menginstal osu!.
+Komponen utama. Klik pada ikon tersebut untuk memulai osu! (hanya berlaku pada Windows). Berkas .exe aman dieksekusi selama pemain menggunakan osu!installer yang diunduh dari website resmi untuk menginstal osu!.
 
-- osu!.exe (Buka osu!)
+osu!.exe (Start-up osu!)
+
+#### .dll (ekstensi aplikasi)
+
+Berkas-berkas .dll adalah komponen-komponen dan dependensi-dependensi dari osu!.

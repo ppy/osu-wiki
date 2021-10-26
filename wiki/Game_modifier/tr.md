@@ -59,7 +59,7 @@ Aşağıda belirtilen her modun yanında uyumlu olduğu oyun modlarının ikonu 
 
 *Not: Bu modlar eskiden kullanılabiliyordu, fakat artık mevcut değil.*
 
-- [10K](/wiki/Game_modifier/10k) ![][osu!mania]
+- [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 

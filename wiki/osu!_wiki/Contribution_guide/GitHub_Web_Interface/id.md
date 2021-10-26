@@ -14,7 +14,7 @@
 
    ![](img/online-editing.jpg "Mengeklik ikon pensil ini di GitHub akan mengirim anda ke editor web")
 
-5. Kamu sekarang dapat membuat penyuntingan yang hendak kamu lakukan. Saat membuat perubahan, mohon ikuti [Kriteria Penyusunan Artikel](/wiki/ASC) sebisa mungkin.
+5. Kamu sekarang dapat membuat penyuntingan yang hendak kamu lakukan. Saat membuat perubahan, mohon ikuti [Kriteria Penyusunan Artikel](/wiki/Article_styling_criteria) sebisa mungkin.
 
 6. Lanjutkan ke tahap [Menyimpan dan melakukan commit](#menyimpan-dan-melakukan-commit).
 

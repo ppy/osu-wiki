@@ -37,7 +37,7 @@ Restez calme. **N'en parlez pas dans le chat public.** Ne donnez ces information
 
 1. Cliquez sur le lien "Report" à côté de leur score, sur la page web de la beatmap.
 2. Utilisez la commande `!report`, en jeu, pour envoyer un message au canal des modérateurs. (Selon le modèle `!report <Nom d'utilisateur> <raison>`)
-3. Envoyez un message privé au [modérateur de votre canal](/wiki/People/Language_Moderators) ou à un [GMT](/wiki/People/Global_Moderation_Team). Ils se chargeront de faire circuler le message.
+3. Envoyez un message privé au [modérateur de votre canal](/wiki/People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated) ou à un [GMT](/wiki/People/The_Team/Global_Moderation_Team). Ils se chargeront de faire circuler le message.
 4. Envoyez un mail à [osu@ppy.sh](mailto:osu@ppy.sh).
 
 ## Utiliser certains périphériques peut être considéré comme de la triche ?

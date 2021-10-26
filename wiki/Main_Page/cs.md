@@ -59,7 +59,7 @@ Komponenty: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Be
 
 # Komunita
 
-[Turnaje](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projekty](/wiki/Projects) • [Návody](/wiki/Guides) • [osu!dev Discord server](/wiki/osu!dev_Discord_server) • [Jak můžu pomoci?](/wiki/How_You_Can_Help!) • [Glosář](/wiki/Glossary)
+[Turnaje](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projekty](/wiki/Projects) • [Návody](/wiki/Guides) • [osu!dev Discord server](/wiki/osu!dev_Discord_server) • [Jak můžu pomoci?](/wiki/How_you_can_help!) • [Glosář](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -84,7 +84,7 @@ Organizace: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # O wiki
 
-[Obsah](/wiki/Sitemap) • [Jak přispět?](/wiki/osu!_wiki/Contribution_guide) • [Kritéria pro návrh článku](/wiki/Article_Styling_Criteria) • [Kritéria pro návrh zpráv](/wiki/News_Styling_Criteria)
+[Obsah](/wiki/Sitemap) • [Jak přispět?](/wiki/osu!_wiki/Contribution_guide) • [Kritéria pro návrh článku](/wiki/Article_styling_criteria) • [Kritéria pro návrh zpráv](/wiki/News_Styling_Criteria)
 
 </div>
 </div>
