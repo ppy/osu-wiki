@@ -13,6 +13,7 @@ tags:
   - rang #1
   - classements
   - meilleur joueur
+no_native_review: true
 ---
 
 # L'histoire des classements du mode osu!catch

@@ -14,6 +14,7 @@ tags:
   - le jour des poissons d'avril
   - blague
   - histoire
+no_native_review: true
 ---
 
 # L'histoire d'osu! Blagues de poisson d'avril
