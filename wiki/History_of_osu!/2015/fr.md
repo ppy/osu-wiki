@@ -4,6 +4,7 @@ tags:
   - 2015
   - legacy
   - histoire
+no_native_review: true
 ---
 
 # L'histoire d'osu! en 2015
