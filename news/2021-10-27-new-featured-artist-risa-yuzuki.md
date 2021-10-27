@@ -6,7 +6,7 @@ date: 2021-10-27 09:00:00 +0000
 
 Serenade yourself in the vocal talents of **Risa Yuzuki**, our latest Featured Artist!
 
-![](https://assets.ppy.sh/artists/211/header-2.jpg)
+![](https://assets.ppy.sh/artists/211/header.jpg?2023)
 
 Multi-talented **Risa Yuzuki** (nicknamed *Yuzurisa*) is coveted throughout the world of music games for her outstanding vocal performances, lyric compositions, and even voice acting expertise. With features in *Arcaea*, *Taiko no Tatsujin*, *beatmania IIDX*, and *SOUND VOLTEX*, she's garnered a reputation in the rhythm game world for styles that cover rock songs, club tracks, folk tunes, and essentially every genre inbetween.
 
