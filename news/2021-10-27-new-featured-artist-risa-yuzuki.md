@@ -6,7 +6,7 @@ date: 2021-10-27 09:00:00 +0000
 
 Serenade yourself in the vocal talents of **Risa Yuzuki**, our latest Featured Artist!
 
-![](https://assets.ppy.sh/artists/211/header.jpg)
+![](https://assets.ppy.sh/artists/211/header-2.jpg)
 
 Multi-talented **Risa Yuzuki** (nicknamed *Yuzurisa*) is coveted throughout the world of music games for her outstanding vocal performances, lyric compositions, and even voice acting expertise. With features in *Arcaea*, *Taiko no Tatsujin*, *beatmania IIDX*, and *SOUND VOLTEX*, she's garnered a reputation in the rhythm game world for styles that cover rock songs, club tracks, folk tunes, and essentially every genre inbetween.
 
@@ -27,7 +27,7 @@ Check it out for yourself:
 Try out [the mapset from the video](https://osu.ppy.sh/beatmapsets/1544897) and its stellar guest difficulties hosted by [CallieCube](https://osu.ppy.sh/users/7535045)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/211/Furin%20Kagerou/Risa%20Yuzuki%20-%20Honogurai%20Tsuioku.mp3" type="audio/mpeg">
 </audio>
 
 ### Amatsu Sumizome
@@ -35,7 +35,7 @@ Try out [the mapset from the video](https://osu.ppy.sh/beatmapsets/1544897) and 
 Or try [this easier mapset](https://osu.ppy.sh/beatmapsets/1591003) hosted by [Affirmation](https://osu.ppy.sh/users/6186628)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/211/Furin%20Kagerou/Risa%20Yuzuki%20-%20Amatsu%20Sumizome.mp3" type="audio/mpeg">
 </audio>
 
 ### Replique
@@ -43,7 +43,7 @@ Or try [this easier mapset](https://osu.ppy.sh/beatmapsets/1591003) hosted by [A
 Test your dexterity with low-BPM streams on [this mapset](https://osu.ppy.sh/beatmapsets/1571215) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323) or [this osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1580723) hosted by [Faputa](https://osu.ppy.sh/users/845733)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/211/Replique/Risa%20Yuzuki%20-%20Replique.mp3" type="audio/mpeg">
 </audio>
 
 ### Cinderella Maker
@@ -51,7 +51,7 @@ Test your dexterity with low-BPM streams on [this mapset](https://osu.ppy.sh/bea
 Improve your diet with [this osu!catch map](https://osu.ppy.sh/beatmapsets/1582952) hosted by [Secre](https://osu.ppy.sh/users/2306637)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/211/Replique/Risa%20Yuzuki%20-%20Cinderella%20Maker.mp3" type="audio/mpeg">
 </audio>
 
 ### Stellalude
@@ -59,7 +59,7 @@ Improve your diet with [this osu!catch map](https://osu.ppy.sh/beatmapsets/15829
 Play through [this mapset](https://osu.ppy.sh/beatmapsets/1515209) also hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/150/Songs/BlackY%20feat.%20Risa%20Yuzuki%20-%20Stellalude.mp3" type="audio/mpeg">
 </audio>
 
 ### Furin Kagerou
@@ -67,7 +67,7 @@ Play through [this mapset](https://osu.ppy.sh/beatmapsets/1515209) also hosted b
 Last but definitely not least, explore [this map](https://osu.ppy.sh/beatmapsets/1511294) hosted by [Niva](https://osu.ppy.sh/users/197805)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/150/Songs/BlackY%20feat.%20Risa%20Yuzuki%20-%20Furin%20Kagerou.mp3" type="audio/mpeg">
 </audio>
 
 ---
