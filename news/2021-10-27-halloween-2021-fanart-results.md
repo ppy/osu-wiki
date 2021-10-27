@@ -20,7 +20,7 @@ Witness true horror below (or open up your game and check it out):
 
 **4987** voters could not resist the terminal spookage of [**Dreamxiety**](https://osu.ppy.sh/users/13103233)'s costumes for pippi and Chirou, who are dressed as a pumpkin witch and... *pumpkin* respectively. Ghosts watch on in awe at Chirou's balancing skills, or in anticipation of her about to fall into an open grave and become hilariously stuck. Possibly both.
 
-Dreamxiety has been a regular in our fanart contests for a while now, and this marks the first time they've taken top spot among the finalists with a hugely solid lead that only lengthened as the voting went on. To be fair, with a rendition as cute as this one, it isn't really that surprising! Well done!
+Dreamxiety has been a regular in our fanart contests for a while now, and this marks the first time she's taken top spot among the finalists with a hugely solid lead that only lengthened as the voting went on. To be fair, with a rendition as cute as this one, it isn't really that surprising! Well done!
 
 [![](https://assets.ppy.sh/contests/135/banners/nyab-.jpg)](https://assets.ppy.sh/contests/135/winners/nyab-.png)
 
