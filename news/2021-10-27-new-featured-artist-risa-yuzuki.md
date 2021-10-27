@@ -46,6 +46,14 @@ Test your dexterity with low-BPM streams on [this mapset](https://osu.ppy.sh/bea
     <source src="LINK" type="audio/mpeg">
 </audio>
 
+### Cinderella Maker
+
+Improve your diet with [this osu!catch map](https://osu.ppy.sh/beatmapsets/1582952) hosted by [Secre](https://osu.ppy.sh/users/2306637)!
+
+<audio controls>
+    <source src="LINK" type="audio/mpeg">
+</audio>
+
 ### Stellalude
 
 Play through [this mapset](https://osu.ppy.sh/beatmapsets/1515209) also hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)!

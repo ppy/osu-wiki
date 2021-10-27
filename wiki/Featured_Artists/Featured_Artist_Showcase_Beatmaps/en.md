@@ -421,6 +421,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Risa Yuzuki - Amatsu Sumizome](https://osu.ppy.sh/beatmapsets/1591003) hosted by ![][flag_KR] [Affirmation](https://osu.ppy.sh/users/6186628)
   - (![][osu!]) [Risa Yuzuki - Replique](https://osu.ppy.sh/beatmapsets/1571215) hosted by ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
   - (![][osu!taiko]) [Risa Yuzuki - Replique](https://osu.ppy.sh/beatmapsets/1580723) hosted by ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733)
+  - (![][osu!catch]) [Risa Yuzuki - Cinderella Maker](https://osu.ppy.sh/beatmapsets/1582952) hosted by ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637)
 
 ## History
 
