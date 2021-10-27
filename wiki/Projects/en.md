@@ -61,7 +61,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [GitHub](https://github.com/RoanH/KeysPerSecond)
 - [osu! Replayer](https://osu.ppy.sh/community/forums/topics/563282)—Allows you to view and save your replays after backing out of the ranking screen.
   - [GitHub](https://github.com/jkapi/Osu-Replays)
-<!-- - [Remote osu! Keyboard](https://osu.ppy.sh/community/forums/topics/391981)—An Android application that allows your phone to act as a keyboard input device  (forum thread wastelanded) -->
+<!-- - [Remote osu! Keyboard](https://osu.ppy.sh/community/forums/topics/391981)—An Android application that allows your phone to act as a keyboard input device.  (forum thread wastelanded) -->
 - [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243)—An application that converts replay files to videos.
   - [Github](https://github.com/uyitroa/osr2mp4-app)
 - [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143)—A program that takes a replay and analyses every miss to determine how and why it happened. It's straightforward to use and shows some pretty interesting data.
@@ -252,7 +252,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 - [osu!track](https://osu.ppy.sh/community/forums/topics/212151)—A tool that allows players to track their progress in-game and see visually see their improvement over time.
   - [GitHub](https://github.com/Ameobea/osutrack_irc_v2/) | [Website](https://ameobea.me/osutrack)
 - [osu!track (IRC)](https://osu.ppy.sh/community/forums/topics/233167)—The in-game IRC bot for osu!track.
-<!-- - [osu!widget](https://osu.ppy.sh/community/forums/topics/250902)—A desktop app that allows for the end user to keep track of their rank, accuracy, and play count. (repository page link is dead)-->
+<!-- - [osu!widget](https://osu.ppy.sh/community/forums/topics/250902)—A desktop app that allows for the end user to keep track of their rank, accuracy, and play count. (repository page link dead)-->
 - osu-pps—A website that lists the most overweight maps in terms of [pp](/wiki/Performance_points) by using a calculation system similar to [ppv1](/wiki/Performance_points/ppv1), and sorts mappers by how many overweight maps they have or how many high-quality beatmaps they have according to other mappers' favourites.
   - [Website](https://osu-pps.com/#/osu/maps)
 <!-- - [PerformancePlus (PP+)](https://osu.ppy.sh/community/forums/topics/580994)—An unofficial osu! ranking system featuring global and national player rankings, global score rankings, rankings for 8 different (sub)skill categories, detailed player profiles, leaderboards for ranked beatmaps using the pp+ system, and bimonthly seasonal rankings.
@@ -269,6 +269,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 - [AR/OD calculator \[Android\]](https://osu.ppy.sh/community/forums/topics/227510)—Calculates the AR times and OD hit window accuracy.
 <!-- - [Beatmap URL Formatter](https://osu.ppy.sh/community/forums/topics/55305)—A program to format beatmap URLs to BBCode for posting. (Same as AIBat)-->
 <!-- - [BloodyFox \[Android\]](https://osu.ppy.sh/community/forums/topics/475693)—Search and view user stats and search and download beatmaps. (Google Play link dead) -->
+- [danser-go](https://github.com/Wieku/danser-go)—A visualisation tool for osu!standard maps.
 - [Detect the osu! folder easily](https://osu.ppy.sh/community/forums/topics/381311)—Finds the osu! folder and report its path. Intended for devs working on IO related tasks in their applications.
 - hwchr's pick'em—A site which hosts pickems for osu! tournaments with the option to request a pickem for a tournament.
   - [Website](https://pickem.hwc.hr/tournaments)
