@@ -8,7 +8,7 @@ Serenade yourself in the vocal talents of **Risa Yuzuki**, our latest Featured A
 
 ![](https://assets.ppy.sh/artists/211/header.jpg?2023)
 
-Multi-talented **Risa Yuzuki** (nicknamed *Yuzurisa*) is coveted throughout the world of music games for her outstanding vocal performances, lyric compositions, and even voice acting expertise. With features in *Arcaea*, *Taiko no Tatsujin*, *beatmania IIDX*, and *SOUND VOLTEX*, she's garnered a reputation in the rhythm game world for styles that cover rock songs, club tracks, folk tunes, and essentially every genre inbetween.
+Multi-talented **Risa Yuzuki** (nicknamed *Yuzurisa*) is coveted throughout the world of music games for her outstanding vocal performances, lyric compositions, and even voice acting expertise. With features in *Arcaea*, *Taiko no Tatsujin*, *beatmania IIDX*, and *SOUND VOLTEX*, she's garnered a reputation in the rhythm game world for styles that cover rock songs, club tracks, folk tunes, and essentially every genre in between.
 
 We've picked up **17** tracks from her discography stretching back to 2014, all prepped for mapping from [**Risa Yuzuki**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/211)! These songs all include instrumental production from familiar artists like *xi*, *EmoCosine*, [*Street*](https://osu.ppy.sh/beatmaps/artists/89), [*Cranky*](https://osu.ppy.sh/beatmaps/artists/23), and [*BlackY*](https://osu.ppy.sh/beatmaps/artists/150) (plus a LOT more), so we're willing to bet there's at least a few tracks you'll love.
 
