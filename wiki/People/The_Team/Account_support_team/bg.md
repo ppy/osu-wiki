@@ -28,7 +28,7 @@
 - Случаи на лошо поведение за които [желаете да признаете](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?).
 - [Загубен достъп до имейла](/wiki/Help_Centre/Installation_and_registration#sign-in) свързан към osu! профил, или при откраднат профил.
 - [Правописни корекции и връщане](/wiki/Help_Centre/Account#name-changes) на променено потребителско име.
-- [Регистриране на бот профил](/wiki/Bot_Account).
+- [Регистриране на бот профил](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
