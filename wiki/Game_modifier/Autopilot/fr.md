@@ -33,6 +33,6 @@ Le mod **Autopilot** est un [modificateur de jeu](/wiki/Game_modifier) pour le m
 
 Le mod Autopilot désactive également l'interface du jeu, masquant ainsi le [score](/wiki/Score), le [combo](/wiki/Beatmapping/Combo) et les ratés, bien que cela puisse être réactivé en appuyant sur `Shift`+`Tab`.
 
-De plus, la valeur des tours par minute (SPM) effectuée par le mod Autopilot est similaire aux tours par minute effectués par le mod [Spun Out](/wiki/Game_modifier/Spun_out), donc le joueur ne peut pas augmenter le SPM en faisant tourner la roue avec son curseur.
+De plus, la valeur des tours par minute (SPM) effectuée par le mod Autopilot est similaire aux tours par minute effectués par le mod [Spun Out](/wiki/Game_modifier/Spun_Out), donc le joueur ne peut pas augmenter le SPM en faisant tourner la roue avec son curseur.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

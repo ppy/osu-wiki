@@ -28,7 +28,7 @@ Vous devriez contacter cette équipe pour les sujets concernant votre compte qui
 - De la mauvaise conduite que vous [souhaitez avouer](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?).
 - [Perte d'accès à l'email](/wiki/Help_Centre/Installation_and_registration#sign-in) attaché à votre compte osu!, ou lorsque votre compte a été volé.
 - [Rétablissement d'anciens pseudos et corrections de fautes mineures dans votre pseudo](/wiki/Help_Centre/Account#name-changes).
-- [Inscriptions de comptes bot](/wiki/Bot_Account).
+- [Inscriptions de comptes bot](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 

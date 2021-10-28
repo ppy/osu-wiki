@@ -11,7 +11,7 @@ tags:
 
 *Hit objects* are elements which players can interact with during gameplay of a [beatmap](/wiki/Beatmap). Each [gamemode](/wiki/Game_mode) has its own unique set of hit objects which changes the gameplay experience. For an overview of each gamemode's hit objects, see the following table:
 
-| osu! | osu!taiko | osu!catch | osu!mania |
+| [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
 | [hit circles](/wiki/Hit_object/Hit_circle) | hit circles | [fruits](/wiki/Hit_object/Fruit) | notes |
 | [sliders](/wiki/Hit_object/Slider) | drumrolls | [juice stream](/wiki/Hit_object/Juice_stream) | hold notes |

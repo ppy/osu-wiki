@@ -28,7 +28,7 @@ Erişiminizin ötesindeki hesap ile ilişkili konular hakkında bu ekiple irtiba
 - [İtiraf etmek istediğiniz](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?) olumsuz davranışlar.
 - osu! hesabınızla ilişkili [e-postanıza olan erişimi kaybetmeniz](/wiki/Help_Centre/Installation_and_registration#sign-in), veya hesabınızın çalınması.
 - Kullanıcı adı [geri çevirme veya ufak yazım düzeltmeleri](/wiki/Help_Centre/Account#name-changes).
-- [Bot hesabı başvuruları](/wiki/Bot_Account).
+- [Bot hesabı başvuruları](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 

@@ -2,7 +2,7 @@
 
 <!-- TODO : nouveaux types de packs, nouveaux miroirs -->
 
-Un pack de beatmaps est un fichier `.zip` contenant des beatmaps. Le nom du paquet est basé sur ce qu'il contient (par exemple, `Approved Beatmap Pack #7` ne contiendrait que des beatmaps [approuvé](/wiki/approved)).
+Un pack de beatmaps est un fichier `.zip` contenant des beatmaps. Le nom du paquet est basé sur ce qu'il contient (par exemple, `Approved Beatmap Pack #7` ne contiendrait que des beatmaps [approuvé](/wiki/Beatmap/Category#approved)).
 
 Il est à noter que la plupart des packs ont :
 

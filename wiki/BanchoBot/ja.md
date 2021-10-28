@@ -80,7 +80,7 @@ BanchoBotの全コマンドの一覧は以下の通りです：
 !stats <username>
 ```
 
-`!stats`は、入力されたユーザーのゲーム統計情報と現在の状態を表示します。出力は入力されたユーザが最後にプレイした[ゲームモード](/wiki/Game_Modes)に依存しますが、BanchoBotは統計がどのゲームモードのものであるかは表示しなません。osu!をプレイしたことのないユーザーの統計情報を表示するように指示された場合、そのユーザーが存在していても、BanchoBotは`User not found`と応答します。このコマンドの送信例を以下に示します：
+`!stats`は、入力されたユーザーのゲーム統計情報と現在の状態を表示します。出力は入力されたユーザが最後にプレイした[ゲームモード](/wiki/Game_mode)に依存しますが、BanchoBotは統計がどのゲームモードのものであるかは表示しなません。osu!をプレイしたことのないユーザーの統計情報を表示するように指示された場合、そのユーザーが存在していても、BanchoBotは`User not found`と応答します。このコマンドの送信例を以下に示します：
 
 ```
 13:01 pippi: !stats peppy
@@ -143,7 +143,7 @@ BanchoBotの全コマンドの一覧は以下の通りです：
 !report <user> <reason>
 ```
 
-`!report`は、ユーザーの不適切な行動を[グローバルモデレーションチーム](/wiki/Global_Moderation_Team)に通知します。ユーザー名にスペースがある場合は、アンダースコアに置き換えてください（例：`really cool username`は`really_cool_username`になります）。モデレーターを報告するには、[アカウントサポートチーム](/wiki/People/The_Team/Account_support_team#support@ppy.sh)に連絡してください。BanchoBotを使って一般ユーザーを報告する例を以下に示します：
+`!report`は、ユーザーの不適切な行動を[グローバルモデレーションチーム](/wiki/People/The_Team/Global_Moderation_Team)に通知します。ユーザー名にスペースがある場合は、アンダースコアに置き換えてください（例：`really cool username`は`really_cool_username`になります）。モデレーターを報告するには、[アカウントサポートチーム](/wiki/People/The_Team/Account_support_team#support@ppy.sh)に連絡してください。BanchoBotを使って一般ユーザーを報告する例を以下に示します：
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

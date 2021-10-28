@@ -145,7 +145,7 @@ Tama: ok
 
 *Aviso: Al introducir el usuario, reemplaza los espacios con un guion bajo (`_`).*
 
-Envía un reporte al [Equipo de Moderación Global](/wiki/Global_Moderation_Team) o a los [Moderadores de un idioma específico](/wiki/Language_Moderators).
+Envía un reporte al [Equipo de Moderación Global](/wiki/People/The_Team/Global_Moderation_Team) o a los [Moderadores de un idioma específico](/wiki/People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated).
 
 #### Ejemplo de uso
 

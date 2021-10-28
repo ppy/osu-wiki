@@ -17,7 +17,7 @@ Le **tapx** est une méthode de jeu pour les joueurs de [tablette uniquement](/w
 
 *Remarque : la superposition d'entrée montrera toutes les touches de la tablette en tant que `M1`.*
 
-Le **streaming** via tapx s'effectue en alternant le tapotement d'un stylet sur une tablette et l'appui rapide sur une autre touche secondaire assignée (`Z` et `X` par défaut). Certains joueurs peuvent trouver du réconfort en alternant le tapotement de la tablette et la touche secondaire entre chaque [objet](/wiki/Hit_objects), de la même manière que les joueurs qui utilisent l'[alternating](/wiki/Play_style/Alternating) déterminent les pressions de touche entre chaque objets.
+Le **streaming** via tapx s'effectue en alternant le tapotement d'un stylet sur une tablette et l'appui rapide sur une autre touche secondaire assignée (`Z` et `X` par défaut). Certains joueurs peuvent trouver du réconfort en alternant le tapotement de la tablette et la touche secondaire entre chaque [objet](/wiki/Hit_object), de la même manière que les joueurs qui utilisent l'[alternating](/wiki/Play_style/Alternating) déterminent les pressions de touche entre chaque objets.
 
 ## Arguments
 

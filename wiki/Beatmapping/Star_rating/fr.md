@@ -7,7 +7,7 @@ tags:
 
 # Star rating
 
-Le **star rating** (***SR***) décrit la difficulté d'une [beatmap](/wiki/Beatmap), qui est automatiquement calculée par le client d'osu!. Le star rating joue un rôle important dans l'attribution des [points de performance](/wiki/Performance_Points). Ce nombre peut être vu sur l'[écran de sélection des chansons](/wiki/Interface#song-selection-screen) et sur la page d'information d'une beatmap.
+Le **star rating** (***SR***) décrit la difficulté d'une [beatmap](/wiki/Beatmap), qui est automatiquement calculée par le client d'osu!. Le star rating joue un rôle important dans l'attribution des [points de performance](/wiki/Performance_points). Ce nombre peut être vu sur l'[écran de sélection des chansons](/wiki/Interface#song-selection-screen) et sur la page d'information d'une beatmap.
 
 ## Difficulté
 

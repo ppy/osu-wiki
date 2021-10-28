@@ -24,7 +24,7 @@ tags:
 | [osu!lazer](https://github.com/ppy/osu) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
-| [osu!](/wiki/Game_mode/osu!) [star rating](/wiki/Beatmapping/Star_rating) 和 [pp](/wiki/Performance_Points) | `#difficulty-osu` |
+| [osu!](/wiki/Game_mode/osu!) [star rating](/wiki/Beatmapping/Star_rating) 和 [pp](/wiki/Performance_points) | `#difficulty-osu` |
 | [osu!taiko](/wiki/Game_mode/osu!taiko) 星級和 pp | `#difficulty-taiko` |
 | [osu!catch](/wiki/Game_mode/osu!catch) 星級和 pp | `#difficulty-catch` |
 | [osu!mania](/wiki/Game_mode/osu!mania) 星級和 pp | `#difficulty-mania` |
