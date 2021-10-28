@@ -1,6 +1,6 @@
 # osu! wiki 기여 가이드
 
-osu! wiki 개선에 관심을 가져주셔서 감사합니다! 이 문서에서는 기여를 하는 방법을 단계별로 알아볼 수 있습니다. Github 사용에 익숙하신 분의 경우, feature-branch workflow 방식으로 콘텐츠를 업데이트하고 [검토](#검토) 과정으로 넘어가시면 됩니다.
+osu! wiki 개선에 관심을 가져주셔서 감사합니다! 이 문서에서는 기여를 하는 방법을 단계별로 알아볼 수 있습니다. Github 사용에 익숙하신 분의 경우, feature-branch 워크플로우 방식으로 콘텐츠를 업데이트하고 [검토](#검토) 과정으로 넘어가시면 됩니다.
 
 작업 중 궁금한 것이 생기거나 지원이 필요하시다면, [osu!dev 디스코드 서버](/wiki/osu!dev_Discord_server)의 `#osu-wiki` 채널에 물어보시면 답변해 드리겠습니다.
 
@@ -10,7 +10,7 @@ osu! wiki 개선에 관심을 가져주셔서 감사합니다! 이 문서에서�
 
 ## 위키 수정하기
 
-*일반적인 기여 과정은 [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-flow)를 참조하세요.*
+*일반적인 기여 과정은 [GitHub flow - GitHub 문서](https://docs.github.com/en/get-started/quickstart/github-flow)를 참조하세요.*
 
 osu! 위키 항목은 [GitHub][osu_wiki]에 저장되므로, 기여를 하기 위해서는 다음과 같이 해주세요:
 
