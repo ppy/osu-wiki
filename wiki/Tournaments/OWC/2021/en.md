@@ -111,34 +111,33 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 | ![][flag_UY] | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Rebo](https://osu.ppy.sh/users/6942259), [Kazuki K](https://osu.ppy.sh/users/6407282), [FDX](https://osu.ppy.sh/users/8987016), [Rondro](https://osu.ppy.sh/users/9293124), [Saphity](https://osu.ppy.sh/users/5382216), [El Milanga](https://osu.ppy.sh/users/12264918), [Raby](https://osu.ppy.sh/users/5218320) |
 | ![][flag_VN] | **Vietnam** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [Ui chan](https://osu.ppy.sh/users/5449433), [- Mel -](https://osu.ppy.sh/users/9829680), [kiethao](https://osu.ppy.sh/users/2283137), [\[sin\]](https://osu.ppy.sh/users/11021073), [\[Boy\]DaLat](https://osu.ppy.sh/users/8266808), [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [Liyuchi](https://osu.ppy.sh/users/3275495) |
 
-## Match schedule: 
-
+## Match schedule
 
 ### Saturday, October 30, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Singapore | ![][flag_SG] | ![][flag_UA] | Ukraine | Oct 30 (Sat) 11:00 UTC | Oct 30 (Sat) 19:00 UTC+8 | Oct 30 (Sat) 14:00 UTC+3 |
-| Malaysia | ![][flag_MY] | ![][flag_FR] | France | Oct 30 (Sat) 12:00 UTC | Oct 30 (Sat) 20:00 UTC+8 | Oct 30 (Sat) 14:00 UTC+2 |
-| Argentina | ![][flag_AR] | ![][flag_CN] | China | Oct 30 (Sat) 13:00 UTC | Oct 30 (Sat) 10:00 UTC-3 | Oct 30 (Sat) 21:00 UTC+8 |
+| Argentina | ![][flag_AR] | ![][flag_CN] | China | Oct 30 (Sat) 04:00 UTC | Oct 30 (Sat) 01:00 UTC-3 | Oct 30 (Sat) 12:00 UTC+8 |
+| Germany | ![][flag_DE] | ![][flag_AU] | Australia | Oct 30 (Sat) 11:00 UTC | Oct 30 (Sat) 13:00 UTC+2 | Oct 30 (Sat) 22:00 UTC+11 |
 | Uruguay | ![][flag_UY] | ![][flag_PH] | Philippines | Oct 30 (Sat) 14:00 UTC | Oct 30 (Sat) 11:00 UTC-3 | Oct 30 (Sat) 22:00 UTC+8 |
-| Spain | ![][flag_ES] | ![][flag_RO] | Romania | Oct 30 (Sat) 15:00 UTC | Oct 30 (Sat) 17:00 UTC+2 | Oct 30 (Sat) 18:00 UTC+3 |
-| Czech Republic | ![][flag_CZ] | ![][flag_NL] | Netherlands | Oct 30 (Sat) 16:00 UTC | Oct 30 (Sat) 18:00 UTC+2 | Oct 30 (Sat) 18:00 UTC+2 |
+| Malaysia | ![][flag_MY] | ![][flag_FR] | France | Oct 30 (Sat) 14:00 UTC | Oct 30 (Sat) 22:00 UTC+8 | Oct 30 (Sat) 16:00 UTC+2 |
 | Austria | ![][flag_AT] | ![][flag_NO] | Norway | Oct 30 (Sat) 17:00 UTC | Oct 30 (Sat) 19:00 UTC+2 | Oct 30 (Sat) 19:00 UTC+2 |
-| Mexico | ![][flag_MX] | ![][flag_TR] | Turkey | Oct 30 (Sat) 18:00 UTC | Oct 30 (Sat) 13:00 UTC-5 | Oct 30 (Sat) 21:00 UTC+3 |
+| United States | ![][flag_US] | ![][flag_BR] | Brazil | Oct 30 (Sat) 21:00 UTC | Oct 30 (Sat) 16:00 UTC-5 | Oct 30 (Sat) 18:00 UTC-3 |
 
 ### Sunday, October 31, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Canada | ![][flag_CA] | ![][flag_TW] | Taiwan | Oct 31 (Sun) 03:00 UTC | Oct 30 (Sat) 23:00 UTC-4 | Oct 31 (Sun) 11:00 UTC+8 |
-| Japan | ![][flag_JP] | ![][flag_FI] | Finland | Oct 31 (Sun) 11:00 UTC | Oct 31 (Sun) 20:00 UTC+9 | Oct 31 (Sun) 14:00 UTC+3 |
-| Germany | ![][flag_DE] | ![][flag_AU] | Australia | Oct 31 (Sun) 12:00 UTC | Oct 31 (Sun) 14:00 UTC+2 | Oct 31 (Sun) 22:00 UTC+10 |
 | United Kingdom | ![][flag_GB] | ![][flag_KR] | South Korea | Oct 31 (Sun) 13:00 UTC | Oct 31 (Sun) 14:00 UTC+1 | Oct 31 (Sun) 22:00 UTC+9 |
-| Indonesia | ![][flag_ID] | ![][flag_HK] | Hong Kong | Oct 31 (Sun) 14:00 UTC | Oct 31 (Sun) 21:00 UTC+7 | Oct 31 (Sun) 22:00 UTC+8 |
+| Indonesia | ![][flag_ID] | ![][flag_HK] | Hong Kong | Oct 31 (Sun) 13:00 UTC | Oct 31 (Sun) 20:00 UTC+7 | Oct 31 (Sun) 21:00 UTC+8 |
+| Japan | ![][flag_JP] | ![][flag_FI] | Finland | Oct 31 (Sun) 13:00 UTC | Oct 31 (Sun) 22:00 UTC+9 | Oct 31 (Sun) 16:00 UTC+3 |
+| Singapore | ![][flag_SG] | ![][flag_UA] | Ukraine | Oct 31 (Sun) 14:00 UTC | Oct 31 (Sun) 22:00 UTC+8 | Oct 31 (Sun) 17:00 UTC+3 |
 | Poland | ![][flag_PL] | ![][flag_SE] | Sweden | Oct 31 (Sun) 15:00 UTC | Oct 31 (Sun) 17:00 UTC+2 | Oct 31 (Sun) 17:00 UTC+2 |
-| Chile | ![][flag_CL] | ![][flag_RU] | Russian Federation | Oct 31 (Sun) 16:00 UTC | Oct 31 (Sun) 12:00 UTC-4 | Oct 31 (Sun) 19:00 UTC+3 |
-| United States | ![][flag_US] | ![][flag_BR] | Brazil | Oct 31 (Sun) 17:00 UTC | Oct 31 (Sun) 12:00 UTC-5 | Oct 31 (Sun) 14:00 UTC-3 |
+| Czech Republic | ![][flag_CZ] | ![][flag_NL] | Netherlands | Oct 31 (Sun) 16:00 UTC | Oct 31 (Sun) 18:00 UTC+2 | Oct 31 (Sun) 18:00 UTC+2 |
+| Chile | ![][flag_CL] | ![][flag_RU] | Russian Federation | Oct 31 (Sun) 16:00 UTC | Oct 31 (Sun) 13:00 UTC-3 | Oct 31 (Sun) 19:00 UTC+3 |
+| Spain | ![][flag_ES] | ![][flag_RO] | Romania | Oct 31 (Sun) 17:00 UTC | Oct 31 (Sun) 19:00 UTC+2 | Oct 31 (Sun) 20:00 UTC+3 |
+| Mexico | ![][flag_MX] | ![][flag_TR] | Turkey | Oct 31 (Sun) 18:00 UTC | Oct 31 (Sun) 13:00 UTC-5 | Oct 31 (Sun) 21:00 UTC+3 |
 
 ## Mappools
 
