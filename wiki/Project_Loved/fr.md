@@ -26,7 +26,7 @@ Certains critères très minimes doivent être respectés pour que les beatmaps 
 - Son créateur n'est ni banni ni restreint
 - Au moins une difficulté peut être jouable
 - Elle a au moins 30 favoris (s'applique uniquement aux maps osu!)
-- Toutes les difficultés nominées ont au moins 30 secondes de [drain time] (/wiki/Gameplay/Drain_time).
+- Toutes les difficultés nominées ont au moins 30 secondes de [drain time](/wiki/Gameplay/Drain_time).
 
 Bien que de nombreuses maps [en attente et work in progress](/wiki/Beatmap/Category#work-in-progress-et-en-attente) répondent à ces critères, peu d'entre elles sont votées dans la catégorie Loved en raison des conditions de nomination et de vote plus sélectives.
 
