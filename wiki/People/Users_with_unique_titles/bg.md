@@ -88,9 +88,9 @@
 
 ¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) е награден с титла **Elite Mapper II** вместо спечелената Elite Mapper заради две други причини: Победа в състезанието [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) и преминаване на границата от 6-точки в новото [Месечно Бийтмап Състезание](/wiki/Contests/Monthly_Beatmapping_Contest).
 
-### Елитни Номинатори
+### Елитни номинатори
 
-От 2020, активно участващите членове от [Бийтмап Номинатори](/wiki/People/The_Team/Beatmap_Nominators) и [Екип Оценяващ Номинатори](/wiki/People/The_Team/Nomination_Assessment_Team) в поддържане на системата за класиране, се награждават с титла **Elite Nominator**. Тази титла се получава в началото на всяка година за приноса през изминалата и ще бъде загубена ако потребителят напусне отбора.
+От 2020, активно участващите членове от [бийтмап номинатори](/wiki/People/The_Team/Beatmap_Nominators) и [екип оценяващ номинатори](/wiki/People/The_Team/Nomination_Assessment_Team) в поддържане на системата за класиране, се награждават с титла **Elite Nominator**. Тази титла се получава в началото на всяка година за приноса през изминалата и ще бъде загубена ако потребителят напусне отбора.
 
 - ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)¹
@@ -124,11 +124,11 @@
 
 ¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) е награден с титла **osu!mixer II** заради двойна победа в състезанията [osu!remix #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) и [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
 
-### Представени Автори
+### Представени автори
 
-[Представените Автори](/wiki/Featured_Artists) с osu! профил получават титла **Featured Artist** показваща тяхната намеса.
+[Представените автори](/wiki/Featured_Artists) с osu! профил получават титла **Featured Artist** показваща тяхната намеса.
 
-![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) и ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) получават титла **osu!musician** за приносите от началото с дизайн на звуковите ефекти в играта osu! и официалните облици, а ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) предпочете да задържи титлата **osu!mixer** (която беше повишена към osu!mixer II) след като стана Представен Автор.
+![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) и ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) получават титла **osu!musician** за приносите от началото с дизайн на звуковите ефекти в играта osu! и официалните облици, а ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) предпочете да задържи титлата **osu!mixer** (която беше повишена към osu!mixer II) след като стана представен автор.
 
 | Потребител | Авторски профил |
 | :-- | :-- |
@@ -157,7 +157,7 @@
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 
-### Победители от състезание за дизайн на Талисман
+### Победители от състезанието за дизайн на талисман
 
 Екипът на osu! дава шанс на потребителите да изработят или освежат дизайна на някои талисмани в играта като провежда конкурси. Победителите от тези конкурси, също и хората чийто дизайн се използва като официално произведение, са наградени с титлата **osu!artist**.
 
@@ -166,7 +166,7 @@
 - ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) обнови дизайна на **Yuzu**.
 - ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) проектира **Mani and Mari**.
 
-### Зала на Славата
+### Зала на славата
 
 Тези три потребителя са наградени с титла **osu! Hall of Famer** за игра на много високо ниво и принос назад във времето когато обществото растеше.
 
@@ -176,9 +176,9 @@
 - ![][flag_PH] [James](https://osu.ppy.sh/users/5728)
 - ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781)
 
-### Елитна Анимирана История
+### Елитна анимирана история
 
-Създатели на Анимирана История, които демонстрират неповторим талант и впечатлят огромна част от обществото, получават титлата **Elite Storyboarder**.
+Създатели на анимирана история, които демонстрират неповторим талант и впечатлят огромна част от обществото, получават титлата **Elite Storyboarder**.
 
 - ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366)
 - ![][flag_US] [11t](https://osu.ppy.sh/users/2112092)
@@ -193,10 +193,10 @@
 
 | Потребител | Титла | Постижение |
 | :-- | :-- | :-- |
-| ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Отбеляза първият резултат без Мод с макс Комбо на [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
-| ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Отбеляза макс Комбо на всички класирани osu!taiko бийтмапове към 3 Ноември 2019 |
+| ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Отбеляза първият резултат без мод с макс комбо на [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
+| ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Отбеляза макс комбо на всички класирани osu!taiko бийтмапове към 3 ноември 2019 |
 | ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Не е документирано* <!-- TODO: a reference to TWEWY's 104 building, because he got to rank #104 in a certain amt of time.. need to investigate further --> |
-| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Изигра всички класирани osu! бийтмапове към 27 Април 2019 |
+| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Изигра всички класирани osu! бийтмапове към 27 април 2019 |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Спечели [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
 ### Сътрудници

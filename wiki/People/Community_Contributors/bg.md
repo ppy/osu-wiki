@@ -1,10 +1,10 @@
-# Сътрудници на Общност
+# Сътрудници на общност
 
 ![](/wiki/shared/contributor.jpg "Contributor badge")
 
-**Сътрудници на Общност** са хора, които за своя сметка осигуряват поддръжка към osu! обществото на висока за тях цена - отделеното време, средства и функции, които много от нас смятат за даденост в днешно време. Тези потребители получават значка обозначаваща забележителния им принос към цялото общество.
+**Сътрудниците на общност** са хората, които за своя сметка осигуряват поддръжка към osu! обществото на висока за тях цена - отделеното време, средства и функции, които много от нас смятат за даденост в днешно време. Тези потребители получават значка обозначаваща забележителния им принос към цялото общество.
 
-Нека не бъдат обърквани с [osu! Възпитаници](/wiki/People/The_Team/osu!_Alumni), които са оттеглили се членове от различни osu! групи. Значките за обществен сътрудник получават хора на свободна практика, допринасящи в публичното пространство, които дават много повече от нужното за подобрение на osu! и обществената среда.
+Нека не бъдат обърквани с [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), които са оттеглили се членове от различни osu! групи. Значките за обществен сътрудник получават хора на свободна практика, допринасящи в публичното пространство, които дават много повече от нужното за подобрение на osu! и обществената среда.
 
 ## 2013
 
@@ -14,18 +14,18 @@
 
 | Потребител | Принос |
 | :-- | :-- |
-| ![][flag_GB] [Darkimmortal](https://osu.ppy.sh/users/10886) | Разработва и поддържа [услугата osu!record](https://osu.ppy.sh/community/forums/topics/108092) (повторение `.osr` към видеофайл). |
+| ![][flag_GB] [Darkimmortal](https://osu.ppy.sh/users/10886) | Разработи и поддържа [услугата osu!record](https://osu.ppy.sh/community/forums/topics/108092) (повторение `.osr` към видеофайл). |
 | ![][flag_DE] [nanashiRei](https://osu.ppy.sh/users/807630) | Притежава и поддържа едно от най-дълго работещите огледала за [osu! бийтмапове](https://osu.yas-online.net/). |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Многобройни (непреброими) графични приноси към клиент за игра и всичко останало. |
-| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | Графична изработка на [Постиженията (Медали)](/wiki/Medals). |
-| ![][flag_US] [akrolsmir](https://osu.ppy.sh/users/576800) | Разработва и поддържа [AIBat](https://osu.ppy.sh/community/forums/topics/55305), най-популярният неофициален инструмент за редактиране на бийтмап, изобщо разработван от повечето хора в обществото. |
+| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | Графична изработка на [постиженията (Медали)](/wiki/Medals). |
+| ![][flag_US] [akrolsmir](https://osu.ppy.sh/users/576800) | Разработи и поддържа [AIBat](https://osu.ppy.sh/community/forums/topics/55305), най-популярният неофициален инструмент за редактиране на бийтмап, изобщо разработван от повечето хора в обществото. |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Изключително представяне с поправка на бъгове, тестване на функции и кодене на многобройни услуги за създатели и редактори. |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Организатор на неколцина големи официални турнири (включително OWC). |
 | ![][flag_US] [Blazevoir](https://osu.ppy.sh/users/120265) | Ненормален списък с модераторска активност (равностоен на грубо 6 човека) и почти самостоятелно модерира `#osu` през пиковите часове (9k+ потребителя). |
-| ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Разработва и поддържа [osu!stats](https://osustats.ppy.sh/), също така някои полезни функции за бийтмапване, редактиране и основна игра. |
+| ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Разработи и поддържа [osu!stats](https://osustats.ppy.sh/), също така някои полезни функции за бийтмапване, редактиране и основна игра. |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Изключително представяне с поправка на бъгове, тестване на функции и обработка на запитвания към поддръжка. |
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | Повече от 3 години тиха, неуморна работа над [бийтмап пакетите](https://osu.ppy.sh/beatmaps/packs) и няколко години управление на класациите без да се оплаква. |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Години наред поддръжка, включително дизайн на оригиналния бийтмап облик, представи [Анимираната История](/wiki/Storyboard) като изкуство и мотивация. |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Години наред поддръжка, включително дизайн на оригиналния бийтмап облик, представи [анимираната история](/wiki/Storyboard) като изкуство и мотивация. |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Начално управление и модериране на общност и огромен принос през курса на времето. |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Беше първият обществен управител и глобален модератор, който вдигна изключително високо нивото което да следва [GMT](/wiki/People/The_Team/Global_Moderation_Team). |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | Беше първият управител на екип и BAT, който сам сформира елитен бийтмап модераторски екип от нищото. |
@@ -44,22 +44,22 @@
 
 ### Януари
 
-*За публикацията в Новини, виж: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
+*За публикацията в новини, виж: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
 
 | Потребител | Принос |
 | :-- | :-- |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Откри [osu!академия](/wiki/osu!academy) |
-| ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | osu!weekly + сътрудник в Новини |
+| ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | osu!weekly + сътрудник в новини |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Изключително модераторско присъствие (10k+ kills) |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Изключително модераторско присъствие (10k+ kills) |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Изключително модераторско присъствие и ангажираност (30k+ kills) |
-| ![][flag_DE] [MoonShade](https://osu.ppy.sh/users/273649) | Разработва революционно удобство за Анимирана История (SGL) |
+| ![][flag_DE] [MoonShade](https://osu.ppy.sh/users/273649) | Разработи революционно удобство за анимираната история (SGL) |
 | ![][flag_PL] [iys](https://osu.ppy.sh/users/322480) | Mikuia.tv - osu! Twitch бот инструмент |
-| ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) | Разработи Бот препоръчващ бийтмапове |
+| ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) | Разработи бот препоръчващ бийтмапове |
 
 ### Март
 
-*За публикацията в Новини, виж: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
+*За публикацията в новини, виж: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
 
 | Потребител | Принос |
 | :-- | :-- |
@@ -67,7 +67,7 @@
 
 ### Ноември
 
-*За публикацията в Новини, виж: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
+*За публикацията в новини, виж: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
 
 | Потребител | Принос |
 | :-- | :-- |
@@ -85,7 +85,7 @@
 
 ### Декември
 
-*За публикацията в Новини, виж: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
+*За публикацията в новини, виж: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
 
 | Потребител | Принос |
 | :-- | :-- |
@@ -102,7 +102,7 @@
 | ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | Изключителен принос към проекта osu!lazer |
 | ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | Изключителен принос към проекта osu!lazer с 90+ "pull" заявки и стотици "commits" |
 | ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Изключителен принос към проекта osu!lazer |
-| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Изключителен принос и организация на Китайския превод за osu!, osu! wiki и osu!lazer |
+| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Изключителен принос и организация на китайския превод за osu!, osu! wiki и osu!lazer |
 | ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Изключителен принос към проекта osu!lazer и създаване на многобройни медийни инструменти |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | Създател на PerformancePlus и osu!chan |
 | ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Изключително усилие в създаване и публикуване на проекта Scorewatch |
@@ -114,7 +114,7 @@
 
 ### Февруари
 
-*За публикацията в Новини, виж: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
+*За публикацията в новини, виж: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
 
 | Потребител | Принос |
 | :-- | :-- |
@@ -123,30 +123,30 @@
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Изключителен принос като член от GMT и екип на osu! wiki |
 | ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | Изключителен принос за много проекти и дейности |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | Изключителна работа в поддръжка за играчи и разрешаване на проблеми |
-| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Невероятна поддръжка в проекта за Бийтмап Пакети |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Невероятна поддръжка в проекта за бийтмап пакети |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Разработчик на безбройни инструменти, определени като неразделни от съвременния цикъл за класиране |
-| ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) | Изключителен принос към проекта Бийтмап Под Прожекторите |
+| ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) | Изключителен принос към проекта бийтмап под прожекторите |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Изключителен принос между многобройни проекти и дейности |
 | ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) | Изключителен принос към GMT и поддръжка на турнири |
-| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Лидер на Проект Обичани |
-| ![][flag_CA] [Kaifin](https://osu.ppy.sh/users/2596942) | Съдействие и организиране в началния Проект Обичани |
-| ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) | Капитан на Проект Обичани (osu!catch) |
-| ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) | Капитан на Проект Обичани (osu!taiko) |
-| ![][flag_DE] [Tenshichan](https://osu.ppy.sh/users/1101600) | Капитан на Проект Обичани (osu!catch) |
-| ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783) | Капитан на Проект Обичани (osu!mania) |
-| ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) | Капитан на Проект Обичани (osu!mania) |
-| ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) | Изключителен принос към Възпитателната Програма на обществото |
-| ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) | Изключителен принос към Възпитателната Програма на обществото |
-| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Изключителен принос към Възпитателната Програма на обществото |
-| ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) | Изключителен принос към Възпитателната Програма на обществото |
-| ![][flag_FI] [J1NX1337](https://osu.ppy.sh/users/3971179) | Изключителен принос към Възпитателната Програма на обществото |
+| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Лидер на "Проект обичани" |
+| ![][flag_CA] [Kaifin](https://osu.ppy.sh/users/2596942) | Съдействие и организиране в началния "Проект обичани" |
+| ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) | Капитан на "Проект обичани" (osu!catch) |
+| ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) | Капитан на "Проект обичани" (osu!taiko) |
+| ![][flag_DE] [Tenshichan](https://osu.ppy.sh/users/1101600) | Капитан на "Проект обичани" (osu!catch) |
+| ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783) | Капитан на "Проект обичани" (osu!mania) |
+| ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) | Капитан на "Проект обичани" (osu!mania) |
+| ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) | Изключителен принос към възпитателната програма на обществото |
+| ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) | Изключителен принос към възпитателната програма на обществото |
+| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Изключителен принос към възпитателната програма на обществото |
+| ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) | Изключителен принос към възпитателната програма на обществото |
+| ![][flag_FI] [J1NX1337](https://osu.ppy.sh/users/3971179) | Изключителен принос към възпитателната програма на обществото |
 | ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | Изключителен принос към проекта osu!lazer |
 
 ## 2020
 
 ### Февруари
 
-*За публикацията в Новини, виж: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+*За публикацията в новини, виж: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
 
 | Потребител | Принос |
 | :-- | :-- |
@@ -156,9 +156,9 @@
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | Изключителен принос към вида на игра osu!mania |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Изключителен принос към вида на игра osu!catch и управление |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Изключителен принос към управление и ръководствени дейности |
-| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Изключителен принос към Глобален Модераторски Екип |
-| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Изключителен принос към Възпитателния проект |
-| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Изключителен принос към Възпитателния проект |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Изключителен принос към GMT |
+| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Изключителен принос към възпитателния проект |
+| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Изключителен принос към възпитателния проект |
 | ![][flag_SE] [PuffBuck](https://osu.ppy.sh/users/4234525) | Изключителен принос за модерация и организация на World Cup |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | Изключителен, непоколебим принос към osu!community като цяло |
 | ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943) | Изключителен принос към osu! World Cup |
@@ -169,14 +169,14 @@
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Изключителен принос за модерация на общност |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | Изключителен, непоколебим принос за съдействие & поддръжка |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Изключителен, непоколебим принос за съдействие & поддръжка |
-| ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Изключителен принос към Съюз на Създателите и Бийтмап Номинатори |
+| ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Изключителен принос към съюза на създателите и бийтмап номинатори |
 | ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835) | Изключителен принос към проектите на osu! с отворен код |
 
 ## 2021
 
 ### Март
 
-*За публикацията в Новини, виж: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+*За публикацията в новини, виж: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
 
 | Потребител | Принос |
 | :-- | :-- |
