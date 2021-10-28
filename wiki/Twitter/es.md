@@ -1,6 +1,6 @@
 # Twitter
 
-osu! tiene bastantes cuentas de Twitter, cada una para diferentes propositos. La mayoria no son muy activas pero pueden ayudarte a mantenerte informado afuera del ecosistema de osu!.
+osu! tiene bastantes cuentas de Twitter, cada una para diferentes propósitos. La mayoría no son muy activas pero pueden ayudarte a mantenerte informado afuera del ecosistema de osu!.
 
 ## Servicio
 
@@ -14,11 +14,11 @@ osu! tiene bastantes cuentas de Twitter, cada una para diferentes propositos. La
 | Avatar | Usuario | Descripción |
 | :-: | :-: | :-- |
 | ![osu! avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame "Twitter") | La fuente oficial de noticias y anuncios. |
-| ![BanchoBoat avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat "Twitter") | Comedy relief cuando las cosas salen mal. |
+| ![BanchoBoat avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat "Twitter") | Chistes cuando las cosas salen mal. |
 | ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat "Twitter") | Noticias, anuncios, y cortos cuestionarios de la comunidad por el [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (no es manejado por [el osu!team](/wiki/People/The_Team#the-team)). |
 
 ## Personal
 
 | Avatar | Usuario | Descripción |
 | :-: | :-: | :-- |
-| ![Dean Herbert avatar](img/ppy.jpg) | [@ppy](https://twitter.com/ppy "Twitter") | La cuenta del [creador de osu!](/wiki/People/peppy), que no es estrictamente sobre osu!, pero de todas maneras cubre la mayoria de ella. |
+| ![Dean Herbert avatar](img/ppy.jpg) | [@ppy](https://twitter.com/ppy "Twitter") | La cuenta del [creador de osu!](/wiki/People/peppy), que no es estrictamente sobre osu!, pero de todas maneras cubre la mayoría de ella. |
