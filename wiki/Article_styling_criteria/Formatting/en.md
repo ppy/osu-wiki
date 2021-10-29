@@ -626,7 +626,7 @@ There are two types of image links: inline and reference. Examples:
 
 Images should use the inline linking style. References to reference links must be placed at the bottom of the article.
 
-The (first set of) square brackets should contain a description of the image. It will be used by screen readers or when the image fails to load.
+The (first pair of) square brackets should contain a description of the image. It will be used by screen readers or when the image fails to load.
 
 The text between the quotation marks will be displayed below the image and when hovering the mouse cursor over the image.
 
