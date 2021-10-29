@@ -414,8 +414,8 @@ Saturday, 22 May 2021:
 
 Sunday, 23 May 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | D | **Argentina** ![][flag_AR] | **5** | 1 | ![][flag_SG] Singapore B | [#1](https://osu.ppy.sh/community/matches/84004030) |
 | G | South Korea B ![][flag_KR] | 2 | **5** | ![][flag_US] **United States B** | [#1](https://osu.ppy.sh/community/matches/84007178) |
 | D | Singapore B ![][flag_SG] | 1 | **5** | ![][flag_KR] **South Korea A** | [#1](https://osu.ppy.sh/community/matches/84020967) |
@@ -447,47 +447,60 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 ### General rules
 
-1. This tournament consists of two parts. The first part will be a 1v1 tournament within different regions. There will be 5 of these, all played on the same dates. The second part will be a 4v4 between the top 8 of each region.
-2. The players/teams will first play in Qualifiers to seed themselves accordingly, then head on to a double-elimination tournament.
-3. The scoring system that will be used is **ScoreV2**.
-4. Any members of staff apart from the **Hosts, Mappool Selectors, and Referees** are allowed to play.
-5. Players and staff members must read this ruleset entirely (and we will assume everyone did so throughout the tournament).
-6. All players must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
-7. Any rule changes or unexpected occurrences will be announced in the thread and in the Discord server.
+1. This tournament is a **2v2 team tournament** with teams of **5 players maximum**.
+2. The teams will first go through qualifiers. Then they will play in a Group Stage and finally play in a double-elimination bracket.
+3. The scoring system used will be Score V2.
+4. Any player who meets the requirements stated in the [restrictions and registrations](#restrictions-and-registrations) section is allowed to sign up. Since this tournament will aim to get badged some players might be declined by osu! staff.
+5. Any members of staff apart from organisers, mappoolers, and referees are allowed to play.
+6. Players and staff members must have read this ruleset entirely.
+7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
+8. Any rule changes or unexpected occurrences will be announced in the Discord server.
 
 ### Restrictions and registrations
 
-1. Players must join the Discord server of the tournament to actually be counted as a player.
-2. Players sign up individually. When their registration is accepted, they will get a player role with their respective region.
-3. The captain for each region's team by default will be the winner of the 1v1 tournament for that region. He can either ask to change captain, if him and the new captain agree, or it can be changed by the team, if everyone else on the team agrees.
-4. The captain is going to be the one who reschedules a match if needed and will ensure that his teammates are here for the matches.
-5. Followings are the list of countries that can play from different continents:
-   - Asia: Afghanistan, Armenia, Azerbaijan, Bahrain, Bangladesh, Bhutan, China, Cyprus, Georgia, Hong Kong, India, Iran, Iraq, Israel, Japan, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Maldives, Mongolia, Nepal, Oman, Pakistan, Palestine, Qatar, Saudi Arabia, South Korea, Sri Lanka, Syria, Taiwan, Tajikistan, Turkmenistan, United Arab Emirates (UAE), Uzbekistan, Yemen.
-   - Europe: Andorra, Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Iceland, Italy, Ireland, Latvia, Liechtenstein, Lithuania, Luxembourg, Moldova, Monaco, Norway, Netherlands, Poland, Portugal, Romania, Russian Federation, Spain, Sweden, Switzerland, Turkey, United Kingdom, Ukraine.
-   - North America: Bahamas, Barbados, Belize, Canada, Costa Rica, Cuba, Dominica, Dominican Republic, El Salvador, Grenada, Guatemala, Haiti, Honduras, Jamaica, Mexico, Nicaragua, Panama, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, United States of America.
-   - Oceania/South East Asia: Australia, Brunei, Cambodia, Fiji, Indonesia, Laos, Malaysia, Marshall Islands, Micronesia, Myanmar, Nauru, New Zealand, Palau, Papua New Guinea, Philippines, Samoa, Singapore, Solomon Islands, Thailand, Tonga, Tuvalu, Vanuatu, Vietnam.
-   - South America: Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela.
+1. In order to participate players need to be in the rank range of #1,000 - #3,500.
+2. Players must join the Discord server of the tournament to actually be counted as a player.
+3. Players sign up individually. When their registration is accepted, they will get a player role with their respective country.
+4. This iteration we are allowing 2 teams for a country under certain conditions:
+   - There are **7 or more players** signed up for a country.
+   - Each team has to have **at least 3 players**.
+5. Prior to rule number 4, there are going to be different case on how the teams are assembled:
+   - If there are 5 players or less signed up for a country, those players will form the team representing their country.
+   - In case there are more than 10 players signed up for a country, players will decide among themselves who will partake in the tournament. If they cannot decide the top 10 players by ranking will be chosen to form the 2 teams.
+   - If there are 6 players, players will have to decide on the 5 players who will partake in the tournament. If they cannot decide the top 5 players by ranking will be chosen to form the team.
+   - If there are 7 to 10 players (after keeping the best ranked ones) signed up for a country, the players from that country will have a few days to decide how to split themselves between the 2 teams. It is recommended to come to an agreement as fast as possible to then decide on the captain and be able to schedule and prepare the upcoming schedules rapidly.
+   - In case the players can't come to an agreement, they will be ranked by pp and put in the 2 teams with at least 3 members in each of them with the best ones in a first team and the lowest in the second.
+   - The players will decide on the captain of their team.
+   - If the players can't agree or find a captain, the highest ranked player will be chosen.
+6. The captain has the responsibility to reschedule a match if needed and will ensure that their teammates are present for the matches.
 
 ### Stage regulations
 
-1. There are seven stages in the 1v1 tournament: the Qualifiers, the RO32, the RO16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals. It may change depending on if a region gets less players than expected, or much more than expected.
-2. There are five stages in the team tournament: the Qualifiers, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
-3. Players/Teams will be seeded with the average of their ranks on each map during the Qualifiers round.
-4. The first seed of the Qualifiers in the team tournament will get an advantage to get into the Semifinals directly.
-5. In case there are more than 32 registered players, and less than 64, only the top 32 of the Qualifiers will go in the rest of the tournament.
-6. The winning conditions for each stage are listed below:
-   - the Round of 32 and the Round of 16: Best-of-9 (First to 5 points)
-   - the Quarterfinals: Best-of-11 (First to 6 points)
+1. There are seven stages in the 1v1 tournament: the Qualifiers, the Group Stage, the Round of 16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
+2. Teams will be seeded with the average of their ranks on each map during the Qualifiers round in 4 seeds: Top seed, High seed, Low seed, and Unseeded.
+3. Teams will be drawn in **8 groups of 4 teams** during live drawings which will happen on Sunday, May 18th 18:00UTC.
+4. In the Group Stage all the teams from each group will face each other. The **best 2 teams** get out of their group.
+5. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
+   1. Most matches won.
+   2. Highest (number of beatmaps won - number of maps lost) score.
+   3. Most beatmaps won.
+   4. Winner of the match played previously between the tied teams.
+6. In Group stage, 'Win by default' will be considered as win by 5:0, +1.0 score difference ratio.
+7. Winning conditions for each stage are listed below:
+   - the Group Stage: Best-of-9 (First to 5 points)
+   - the Round of 16, and the Quarterfinals: Best-of-11 (First to 6 points)
    - the Semifinals, the Finals, and the Grand Finals: Best-of-13 (First to 7 points)
 
 ### Qualifiers regulations
 
 1. During this round there will be multiple lobbies available at various hours.
-2. A private match will be created and players will be invited into the lobby when it's their time. Make sure to be online at this time.
+2. A private match will be created and teams will be invited into the lobby when it's their time. Make sure to be online at this time.
 3. There will be no warmups during this stage.
-4. Seeding will be made with the average rank of each player/team on each map.
-5. Maps will be played twice in a row during the lobby. The best run will be taken into account for the ranking.
-6. Only the 32 best players will continue on to the bracket stage.
+4. Failed scores will count.
+5. Only two players from each team will be playing per map. There is no limitations on player swapping.
+6. Seeding will be done with the average rank of each team on each map.
+7. Maps will be played twice in a row during the lobby. The best run will be taken into account for the ranking.
+8. Only the 32 best teams will continue on to the bracket stage.
 
 ### Mappool instructions
 
@@ -495,46 +508,45 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 2. The Loser's Bracket will play on the same pool as the Winner's bracket of the same weekend.
 3. The Qualifiers pool will be different from all the other rounds, as it will have a format of 2 NoMod maps, 1 Hidden map, 1 HardRock map, 1 DoubleTime map.
 4. Each mappool consists of 6 brackets: **NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker**.
-5. The mappools from Group Stage until Round of 16 will have 14 maps each. The quarterfinals mappool will have 15 maps. The mappools from Semifinals until Grand Finals will have 19 maps.
-6. The size of the NoMod bracket will be of 4 in Group Stage until Round Of 16, it will be of 5 in Quarterfinals, and it will be of 6 in Semifinals until Grand Finals.
-7. The size of the Hidden, Hard Rock, and Double Time will be of 2 from Group Stage until Quarterfinals, and it will be of 3 from Semifinals until Grand Finals.
-8. The size of the FreeMod pool will be of 3 during the rest of the tournament.
-9. The FreeMod pool is played with FreeMod activated. Every player **has** to pick Hidden, HardRock or both. In the team tournament, at least two players have to pick Hidden, HardRock or both.
-10. The Tiebreaker is played under FreeMod conditions but it is not necessary to enable mods.
-11. The mappool for each stage will be showcased a week before.
+5. The Group Stage mappool will consist of 14 maps, Round of 16 and Quarterfinals mappool will consist of 15 maps, Semifinals, Finals and Grand Finals mappool will consist of 16 maps.
+6. The size of the Hidden, HardRock and DoubleTime brackets will be 2 in all stages and 3 for the FreeMod bracket in all stages as well.
+7. The FreeMod pool is played with FreeMod activated. Every player **has** to pick Hidden, HardRock or both. And at least one player of each team must have at least one mod activated.
+8. Player must select different mod combinations with their team member. (e.g. both are using hidden or both are using HardRock)
+9. The Tiebreaker is played under FreeMod conditions but it is not necessary to have mod activated for both teams.
+10. The mappool for each stage will be showcased a week beforehand.
 
 ### Scheduling instructions
 
 1. Every stage will be held **during the weekend**. It is, however, allowed to schedule it on another day, if no good time is found during the weekend and a referee is available.
-2. We will try to schedule as good as possible to fit with the timezones. The schedule of each stage will be released on the weekend prior to it.
-3. Reschedules will only be considered if both players/teams agree to a time, this needs to be done and notified to the tournament staff before **Thursday at 23:59 UTC** in that particular week when the match takes place.
-4. For the team tournament, reschedules may only be requested by **the team captain**.
+2. Matches are allowed to overlap if referees are available.
+3. We will try to schedule as good as possible to fit with the timezones. The schedule of each stage will be released on the weekend prior to it.
+4. Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before **Thursday at 23:59 UTC** in that particular week when the match takes place.
+5. Reschedules may only be requested by **the team captain**.
 
 ### Match regulations
 
-1. A private lobby will be created 10 minutes before the scheduled match takes place by a referee. Both players will be invited into the room when it's match time.
+1. A private lobby will be created 10 minutes before the match started by a referee. Both team's captains will be invited into the room when it's match time. Then the referee or the captains will invite the other players into the room.
 2. If no staff or referee is available the match will be postponed.
-3. If one of the players is late, the maximum time the match can be postponed by is 10 minutes.
+3. If less than the minimum required players attend, the maximum time the match can be postponed is **10 minutes**.
 4. There is no penalty for not joining the room instantly after match time as long as it's within the postponed time.
-5. If neither of the players are in the lobby after 10 minutes, the highest seeded player will advance.
-6. If neither of both teams have the minimum required players after 10 minutes, the highest seeded team will advance.
-7. During the 1v1 tournament, matches will be played as Head to Head and ScoreV2. The name of the room will be "CGTS 2021: (Player 1) vs (Player 2)"
-8. During the team tournament, matches will be played as Team VS and ScoreV2. The name of the room will be "CGTS 2021: (Team Red) vs (Team Blue)".
-9. During the knockout stage, each player/team is allowed one warm-up and it must be below **3 minutes**, and must be sent to the referee and streamer of the match one hour prior to the match's start time. Otherwise, the player/team will have no warmups.
-10. Each player/team has to ban one beatmap to be selected from the pool (apart from Tiebreaker). These beatmaps are not allowed to be picked by any player/team in the entire match.
-11. Each player/team captains will roll with the command `!roll` in the chat.
-12. The player/team with the highest roll bans second and picks first. The player/team with the lowest roll bans first and picks second.
-13. Each player/team captain has 2 mins to announce their ban. If they didn't tell the referee by that time the ban will be made with a roll.
-14. Beatmap selection will then alternate between each player/team captain selecting a beatmap out of the map pool.
-15. Players/Team captains may pick freely from any bracket.
-16. Players/Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a player didn't tell their pick before the end of the timer the map will be picked with a roll. And if players do not get ready before the end of the roll, the match will be started, no matter what.
-17. During the team tournament, exchanging players during a match is allowed without limitations.
-18. If a player disconnects between the beatmaps, the match can be delayed for 10 minutes at maximum. This delay can only be applied once.
-19. If a player disconnects after 30 seconds, they are treated as if they have failed the map.
-20. Disconnects within 30 seconds after beatmap begin can be rematched. This is only allowed once per match, per player/team.
-21. Failed players' scores do count.
-22. If the beatmap ends in a draw the game will be nullified and the map will be replayed. If it does end in a tie again, the map will be nullified again, and the player/team who picked it will have to pick another map.
-23. In case of a tie in points (example: 4-4 in BO9) the Tiebreaker is selected.
+5. If neither of both teams have the minimum required players after 10 minutes it will count as a loss for both teams in Group Stage. In the double elimination bracket the highest seeded team will advance.
+6. The match will be played as TeamVs and ScoreV2 and the name of the room must be: "AGTS 2021: (Team Red) vs (Team Blue)".
+7. Each team is allowed one warm-up but it must be below 3 minutes, and must be sent to the referee and streamer of the match one hour prior to the match's start time. Otherwise, the team will have no warmups.
+8. If a team does not respect the time said in the rule above, they will not have any warm-up for their match.
+9. Each captain has to ban one beatmap from the pool (apart from Tiebreaker). These beatmaps are not allowed to be picked by any team in the entire match.
+10. The captain of each team will roll with the command `!roll` in the chat.
+11. The team with the highest roll bans second and picks first. The team with the lowest roll bans first and picks second.
+12. Each captain has 2 mins to announce their ban. If they didn't tell the referee by that time the ban will be made with a roll.
+13. Beatmap selection will then alternate between each captain selecting a beatmap out of the map pool.
+14. Captains may pick freely from any bracket.
+15. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a team didn't tell their pick before the end of the timer the map will be picked with a roll.
+16. Exchanging players during a match is allowed without limitations.
+17. If a player disconnects between the beatmaps and the team cannot provide an exchange the match can be delayed 10 minutes at most. This delay can only be applied once.
+18. If a player disconnects, they get treated as if they failed the map.
+19. Disconnects within 30 seconds after the beatmap was started allows the map to be replayed. This is only allowed once per team.
+20. Failed players' scores do get added to the team score.
+21. If the beatmap ends in a draw the game will be nullified and the map will be replayed.
+22. In case of a tie in points (example: 4-4 in BO9) the tiebreaker is selected.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
