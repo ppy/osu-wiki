@@ -628,7 +628,7 @@ Images should use the inline linking style. References to reference links must b
 
 The text between the (first set of) square brackets should be a description of the image. It will be used by screen readers or when the image fails to load.
 
-The text between the quotation marks will be shown when hovering the cursor over the image.
+The text between the quotation marks will be shown when hovering the mouse cursor over the image.
 
 Images must be placed in a folder named `img`, located in the article's folder. Images that are used in multiple articles should be stored in the `/wiki/shared/` folder.
 
