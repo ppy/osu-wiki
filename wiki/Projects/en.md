@@ -86,7 +86,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 ### Live streaming
 
-- gosumemory—Cross-platform memory reader for osu! 
+- gosumemory—Cross-platform memory reader for osu!
   - [Github](https://github.com/l3lackShark/gosumemory)
 - Mikuia—A Twitch bot that can keep track of song requests and sends updates about any rank changes or plays you set in the chat.
   - [Website](https://mikuia.tv/)
@@ -260,7 +260,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 - Aiess—Provides subscriptions for mapping-related events in osu! (e.g. ranks, qualifications, nominations, suggestions, news posts, group changes, etc).
   - [Github](https://github.com/Naxesss/Aiess)
 - [AR/OD calculator \[Android\]](https://osu.ppy.sh/community/forums/topics/227510)—Calculates the AR times and OD hit window accuracy.
-- [danser-go](https://github.com/Wieku/danser-go)—A visualisation tool for osu!standard maps.
+- danser—A visualisation tool for osu! maps.
+  - [GitHub](https://github.com/Wieku/danser-go)
 - [Detect the osu! folder easily](https://osu.ppy.sh/community/forums/topics/381311)—Finds the osu! folder and report its path. Intended for devs working on IO related tasks in their applications.
 - hwchr's pick'em—A site which hosts pickems for osu! tournaments with the option to request a pickem for a tournament.
   - [Website](https://pickem.hwc.hr/tournaments)
