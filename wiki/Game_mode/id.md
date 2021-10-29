@@ -1,26 +1,26 @@
 # Mode permainan
 
-osu! memiliki empat **mode permainan** dengan mekanik yang bereda, biasanya terinspirasi dari beberapa *rhythm game* yang lain
+osu! memiliki empat **mode permainan** yang dapat kamu mainkan. Keempat mode permainan tersebut secara garis besar terinspirasi dari berbagai *rhythm game* lain yang ada di luar sana dengan mekanisme permainan yang saling berbeda antar satu sama lain sebagai berikut :
 
 - ![][osu!] [osu!](#-osu!)
 - ![][osu!taiko] [osu!taiko](#-osu!taiko)
 - ![][osu!catch] [osu!catch](#-osu!catch)
 - ![][osu!mania] [osu!mania](#-osu!mania)
 
-Untuk beralih antar mode, klik tombol `Mode` di bagian bawah layar Pemilihan Lagu, atau gunakan kombinasi tombol berikut:
+Untuk dapat beralih dari satu mode permainan ke mode permainan lainnya, klik tombol `Mode` yang terdapat pada layar *Song Select* atau gunakan kombinasi-kombinasi tombol berikut:
 
 - `Ctrl` + `1` untuk osu!
 - `Ctrl` + `2` untuk osu!taiko
 - `Ctrl` + `3` untuk osu!catch
 - `Ctrl` + `4` untuk osu!mania
 
-![Mode selection interface](/wiki/shared/Interface_mode.png "Mode selection interface")
+![Menu untuk mengubah mode permainan](/wiki/shared/Interface_mode.png "Menu untuk mengubah mode permainan")
 
 ## ![][osu!] osu!
 
 *Laman utama: [osu!](osu!)*
 
-*osu!* adalah mode utama, dimana pemain diharapkan untuk menekan lingkaran, menggser slider, dan memutar spinner dengan mengikuti irama musik. Ini berdasarkan pada [iNiS](https://en.wikipedia.org/wiki/INiS)' *rhythm game [Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)*. osu! mempunyai maskot tersendiri yang diberi nama [pippi](/wiki/Mascots#-pippi), seorang gadis berambut pink/hitam.
+*osu!* merupakan mode permainan *default* yang menuntut para pemainnya untuk dapat mengenai semua circle, slider, dan spinner yang ada mengikuti irama lagu. Mode permainan ini didasarkan pada seri permainan [Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) yang dikembangkan oleh [iNiS](https://en.wikipedia.org/wiki/INiS). Maskot dari mode permainan ini adalah [pippi](/wiki/Mascots#-pippi), seorang gadis lugu berambut pink/hitam.
 
 ![Tampilan permainan osu!](/wiki/shared/osu-gameplay.jpg "Permainan osu!")
 
@@ -28,7 +28,7 @@ Untuk beralih antar mode, klik tombol `Mode` di bagian bawah layar Pemilihan Lag
 
 *Laman utama: [osu!taiko](osu!taiko)*
 
-*osu!taiko* mensimulasikan proses memainkan drum secara nyata, yang di mana para pemain menggunakan keyboard atau drum kit untuk menekan lingkaran berwarna berbeda pada satu konveyor. Hal ini didasarkan pada *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* serial game yang diproduksi oleh [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment). Maskot dari osu!taiko adalah [Mocha](/wiki/Mascots#-mocha), seorang gadis berambut hijau menggunakan kimono dan memegang stik drum.
+*osu!taiko* merupakan mode permainan yang menuntut para pemainnya untuk dapat mengenai not-not Taiko yang bergulir dengan menggunakan *keyboard* atau *drum kit*. Mode permainan ini didasarkan pada seri permainan *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* yang dikembangkan oleh [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment). Maskot dari mode permainan ini adalah [Mocha](/wiki/Mascots#-mocha), seorang gadis berambut hijau yang mengenakan kimono dan memegang stik drum.
 
 ![Tampilan permainan osu!taiko](/wiki/shared/taiko-gameplay.jpg "Permainan osu!taiko")
 
@@ -36,7 +36,7 @@ Untuk beralih antar mode, klik tombol `Mode` di bagian bawah layar Pemilihan Lag
 
 *Laman utama: [osu!catch](osu!catch)*
 
-Di *osu!catch* buah yang bervariasi jatuh dari atas layar, dan para pemain harus menangkapnya untuk mengikuti irama. Untuk tujuan ini mereka mengendalikan seorang [*catcher*](/wiki/Mascots#-yuzu) dengan piring di atas kepala mereka untuk menangkap buah-buahan tersebut. Mode ini dirancang berdasarkan sebuah minigame yang ada pada simulai permainan [Beatmania](https://en.wikipedia.org/wiki/Beatmania), yang mana juga berdasarkan pada mode *EZ2CATCH* dari serial permainan [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). Maskot dari osu!catch adalah [Yuzu](/wiki/Mascots#-yuzu), seorang anak laki-laki berambut biru.
+*osu!catch* merupakan mode permainan yang menuntut para pemainnya untuk dapat menangkap buah-buah yang jatuh dari atas layar dengan menggunakan *catcher* yang mereka miliki. Mode permainan ini didasarkan pada *minigame EZ2CATCH* yang terdapat pada seri permainan [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ) dan beberapa simulator [Beatmania](https://en.wikipedia.org/wiki/Beatmania) lainnya. Maskot dari mode permainan ini adalah [Yuzu](/wiki/Mascots#-Yuzu), seorang pemuda tampan berambut biru.
 
 ![Tampilan permainan osu!catch](/wiki/shared/catch-gameplay.jpg "Permainan osu!catch")
 
@@ -44,7 +44,7 @@ Di *osu!catch* buah yang bervariasi jatuh dari atas layar, dan para pemain harus
 
 *Laman utama: [osu!mania](osu!mania)*
 
-*osu!mania* merupakan mode permainan yang didasari pada konsep permainan VSRG (vertical-scrolling rhythm game) mode yang dirancang sebagai simulasi piano. Itu [diperkenalkan dan diimplementasikan](https://osu.ppy.sh/community/forums/topics/100751) oleh [woc2006](https://osu.ppy.sh/users/1105845), dan didasarkan pada berbagai permainan *rhythm game* tipe konveyor (seperti [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) and [Beatmania](https://en.wikipedia.org/wiki/Beatmania)).
+*osu!mania* merupakan mode permainan VSRG (*vertical-scrolling rhythm game*) yang menuntut para pemainnya untuk dapat mengenai not-not yang ada layaknya bermain piano. Mode permainan ini [pada awalnya]((https://osu.ppy.sh/community/forums/topics/100751)) dirancang oleh [woc2006](https://osu.ppy.sh/users/1105845) dan didasarkan pada permainan-permainan VSRG lainnya seperti [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) dan [Beatmania](https://en.wikipedia.org/wiki/Beatmania). Maskot dari mode permainan ini adalah [Mani and Mari](/wiki/Mascots#-mani-&-mari), sepasang saudara kembar yang masing-masing memiliki rambut berwarna ungu dan ungu cerah.
 
 ![Tampilan permainan osu!mania](/wiki/shared/mania-gameplay.jpg "Permainan osu!mania")
 
