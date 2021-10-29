@@ -141,7 +141,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 
 ## Mappools
 
-## Round of 16
+### Round of 16
 
 **[Download the map pack here (125 MB)](https://drive.google.com/file/d/1a5Y_JvVKGSuN_WofpDz22pIvHyBUb33D/view?usp=sharing)**
 
