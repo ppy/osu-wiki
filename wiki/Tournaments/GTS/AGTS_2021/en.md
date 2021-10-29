@@ -300,7 +300,7 @@ Saturday, 26 June 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **United States A** ![][flag_SG] | **7** | 2 | ![][flag_SG] Singapore A | [#1](https://osu.ppy.sh/community/matches/86290153) |
+| **United States A** ![][flag_US] | **7** | 2 | ![][flag_SG] Singapore A | [#1](https://osu.ppy.sh/community/matches/86290153) |
 
 ### Finals
 
@@ -333,7 +333,7 @@ Sunday, 13 June 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Singapore A** ![][flag_SG] | **7** | 2 | ![][flag_HK] | [#1](https://osu.ppy.sh/community/matches/85494020) |
+| **Singapore A** ![][flag_SG] | **7** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/85494020) |
 
 ### Quarterfinals
 
@@ -394,7 +394,7 @@ Saturday, 22 May 2021:
 | A | Malaysia B ![][flag_MY] | 0 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/83947379) |
 | E | **Singapore A** ![][flag_SG] | **5** | 0 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/83951285) |
 | F | **Malaysia A** ![][flag_MY] | **5** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/83950960) |
-| F | **Greece / Norway** ![][flag_GR] ![][flag_NO] | **5** | 2 | ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/83950665) |
+| F | **Greece / Norway** ![][flag_GR] ![][flag_NO] | **5** | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/83950665) |
 | C | Thailand ![][flag_TH] | 0 | 5 | ![][flag_FR] **France A** | [#1](https://osu.ppy.sh/community/matches/83954652) |
 | D | Portugal / Spain ![][flag_PT] ![][flag_ES] | 1 | **5** | ![][flag_KR] **South Korea A** | [#1](https://osu.ppy.sh/community/matches/83954663) |
 | H | **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/83954415) |
@@ -416,7 +416,7 @@ Sunday, 23 May 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| D | **Argentina** ![][flag_AR] | **5** | ![][flag_SG] Singapore B | [#1](https://osu.ppy.sh/community/matches/84004030) |
+| D | **Argentina** ![][flag_AR] | **5** | 1 | ![][flag_SG] Singapore B | [#1](https://osu.ppy.sh/community/matches/84004030) |
 | G | South Korea B ![][flag_KR] | 2 | **5** | ![][flag_US] **United States B** | [#1](https://osu.ppy.sh/community/matches/84007178) |
 | D | Singapore B ![][flag_SG] | 1 | **5** | ![][flag_KR] **South Korea A** | [#1](https://osu.ppy.sh/community/matches/84020967) |
 | D | **Singapore B** ![][flag_SG] | **5** | 3 | ![][flag_PT] ![][flag_ES] Portugal / Spain | [#1](https://osu.ppy.sh/community/matches/84025146) |
