@@ -55,21 +55,15 @@ The Advanced Global Taiko Showdown 2021 was run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1221339)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1299094)
 - [GTS Discord server](https://discord.gg/3mGC3HB)
 - [GTS website](https://gtsosu.com)
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
     - *Note: The second channel's purpose is to stream other match if there are more than one match happening at the same time.*
-- Challonge bracket
-  - [Global phase](https://challonge.com/cgts2021_4v4)
-  - [Asia](https://challonge.com/CGTS2021_Asia)
-  - [Europe](https://challonge.com/CGTS2021_Europe)
-  - [North America](https://challonge.com/CGTS2021_NA)
-  - [Oceania/SEA](https://challonge.com/CGTS2021_OSEA)
-  - [South America](https://challonge.com/CGTS2021_SA)
-- [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStfVzMzkNbi4gs_cfuXTuFVHLdY20VChL61mPRFzooxJ6BAmkliT5u0OG0hyYJv1ZEXcwy25otJA6n/pubhtml) provided by ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710)
+- [Challonge bracket](https://challonge.com/AGTS2021)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/57) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
