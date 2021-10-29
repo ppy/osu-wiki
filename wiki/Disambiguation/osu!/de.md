@@ -1,0 +1,7 @@
+# osu! (Begriffserklärung)
+
+**osu!** kann unterschiedliche Bedeutungen haben:
+
+- Das Spiel und seine Gemeinschaft
+- Der [Standard-Spielmodus](/wiki/Game_mode/osu!)
+- [Osu! Tatakae! Ouendan!](/wiki/iNiS_games), ein Rhythmus-Spiel, dass durch iNiS für den Nintendo DS entwickelt wurde
