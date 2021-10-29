@@ -613,18 +613,22 @@ There are two types of image links: inline and reference. Examples:
 **Inline style:**
 
 ```markdown
-![](/wiki/shared/flag/AU.gif)
+![Australian flag](/wiki/shared/flag/AU.gif "Australia")
 ```
 
 **Reference style:**
 
 ```markdown
-![][flag_AU]
+![Australian flag][flag_AU]
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 ```
 
 Images should use the inline linking style. References to reference links must be placed at the bottom of the article.
+
+The text between the (first set of) square brackets should be a description of the image. It will be used by screen readers or when the image fails to load.
+
+The text between the quotation marks will be shown when hovering the cursor over the image.
 
 Images must be placed in a folder named `img`, located in the article's folder. Images that are used in multiple articles should be stored in the `/wiki/shared/` folder.
 
