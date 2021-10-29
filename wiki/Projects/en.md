@@ -2,7 +2,7 @@
 outdated: true
 ---
 
-<!-- TODO: plenty to add, and some of these are now completely dead or unusable -->
+<!-- TODO: plenty to add -->
 
 <!-- TODO: it might be a good idea to link these somewhere in the osu!dev discord server so people can find other projects to work on -->
 
@@ -61,7 +61,6 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [GitHub](https://github.com/RoanH/KeysPerSecond)
 - [osu! Replayer](https://osu.ppy.sh/community/forums/topics/563282)—Allows you to view and save your replays after backing out of the ranking screen.
   - [GitHub](https://github.com/jkapi/Osu-Replays)
-<!-- - [Remote osu! Keyboard](https://osu.ppy.sh/community/forums/topics/391981)—An Android application that allows your phone to act as a keyboard input device.  (forum thread wastelanded) -->
 - [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243)—An application that converts replay files to videos.
   - [Github](https://github.com/uyitroa/osr2mp4-app)
 - [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143)—A program that takes a replay and analyses every miss to determine how and why it happened. It's straightforward to use and shows some pretty interesting data.
@@ -181,7 +180,6 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [GitHub](https://github.com/RoanH/osuBeatmapVersionChecker)
 - [Collections Manager](https://osu.ppy.sh/community/forums/topics/131103)—Create and manage your osu! collections easier.
   - [GitHub](https://github.com/Piotrekol/CollectionManager)
-<!-- - [mylittleosu](https://osu.ppy.sh/community/forums/topics/199196)—A beatmap download manager for the bloodcat mirror. (discontinued) -->
 - [OSU Beatmap downloader](https://osu.ppy.sh/community/forums/topics/134646)—A tool to easily download beatmaps from the bloodcat mirror, featuring an in-game interface.
 - [osu!grab](https://osu.ppy.sh/community/forums/topics/259116)—Improvements to browser beatmap downloading.
   - [GitHub](https://github.com/mfaishalakbar/osu-grab)
@@ -201,8 +199,6 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 ### Beatmap Mirrors
 
-<!-- - BloodCat—A well known beatmap mirror hosted in Korea.
-  - [Website](https://bloodcat.com/) (completely moved to chimu.moe, no longer active) -->
 - Beatconnect—A mirror site for downloading osu! beatmaps.
   - [Website](https://beatconnect.io/)
 - Chimu.moe—A beatmap mirror and the successor to BloodCat.
@@ -252,11 +248,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 - [osu!track](https://osu.ppy.sh/community/forums/topics/212151)—A tool that allows players to track their progress in-game and see visually see their improvement over time.
   - [GitHub](https://github.com/Ameobea/osutrack_irc_v2/) | [Website](https://ameobea.me/osutrack)
 - [osu!track (IRC)](https://osu.ppy.sh/community/forums/topics/233167)—The in-game IRC bot for osu!track.
-<!-- - [osu!widget](https://osu.ppy.sh/community/forums/topics/250902)—A desktop app that allows for the end user to keep track of their rank, accuracy, and play count. (repository page link dead)-->
 - osu-pps—A website that lists the most overweight maps in terms of [pp](/wiki/Performance_points) by using a calculation system similar to [ppv1](/wiki/Performance_points/ppv1), and sorts mappers by how many overweight maps they have or how many high-quality beatmaps they have according to other mappers' favourites.
   - [Website](https://osu-pps.com/#/osu/maps)
-<!-- - [PerformancePlus (PP+)](https://osu.ppy.sh/community/forums/topics/580994)—An unofficial osu! ranking system featuring global and national player rankings, global score rankings, rankings for 8 different (sub)skill categories, detailed player profiles, leaderboards for ranked beatmaps using the pp+ system, and bimonthly seasonal rankings.
-  - [Website](https://syrin.me/pp+/) (website link dead) -->
 - pupper.moe—Originally a spreadsheet, now a website for opt-in US state ranking leaderboards for osu! with some states' Discord servers being listed.
   - [Website](https://pupper.moe/)
 - [RTPP Displayer](https://osu.ppy.sh/community/forums/topics/685031)—Calculates and displays earned pp while playing on the fly.
@@ -267,8 +260,6 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 - Aiess—Provides subscriptions for mapping-related events in osu! (e.g. ranks, qualifications, nominations, suggestions, news posts, group changes, etc).
   - [Github](https://github.com/Naxesss/Aiess)
 - [AR/OD calculator \[Android\]](https://osu.ppy.sh/community/forums/topics/227510)—Calculates the AR times and OD hit window accuracy.
-<!-- - [Beatmap URL Formatter](https://osu.ppy.sh/community/forums/topics/55305)—A program to format beatmap URLs to BBCode for posting. (Same as AIBat)-->
-<!-- - [BloodyFox \[Android\]](https://osu.ppy.sh/community/forums/topics/475693)—Search and view user stats and search and download beatmaps. (Google Play link dead) -->
 - [danser-go](https://github.com/Wieku/danser-go)—A visualisation tool for osu!standard maps.
 - [Detect the osu! folder easily](https://osu.ppy.sh/community/forums/topics/381311)—Finds the osu! folder and report its path. Intended for devs working on IO related tasks in their applications.
 - hwchr's pick'em—A site which hosts pickems for osu! tournaments with the option to request a pickem for a tournament.
@@ -289,18 +280,14 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 - [osu!AR10](https://osu.ppy.sh/community/forums/topics/245309)—A tool to convert any beatmap to AR10 for practising purposes.
 - [osu!Elements](https://osu.ppy.sh/community/forums/topics/430701)—An open source .NET framework for osu! applications.
   - [GitHub](https://github.com/JasperDeSutter/osuElements)
-<!-- - [osu!monthly revival project](https://osu.ppy.sh/community/forums/topics/684728)—The revival of the osu!monthly, like the osu!weekly, but monthly. (download link dead, no longer maintained) -->
 - [osu!player](https://osu.ppy.sh/community/forums/topics/660418)—A media player just for osu! beatmaps.
   - [Github Documentation](https://github.com/Founntain/founntain/blob/master/osuplayer.md)
-<!-- - [osu!Rank](https://osu.ppy.sh/community/forums/topics/133966)—Your stats on your phone. (no longer maintained, download link dead) -->
 - [osu!search](https://osu.ppy.sh/community/forums/topics/380485)—Advanced beatmap searching
   - [Website](https://osusearch.com/)
 - [osu!station](https://osu.ppy.sh/community/forums/topics/236417)—A radio station powered by beatmap music
   - [Website](https://radio.yas-online.net)
 - [osu!trace](https://osu.ppy.sh/community/forums/topics/303844)—A cursor tracing program. Can be used for comparisons, show how a beatmap flows, etc.
   - [Google Drive](https://drive.google.com/drive/u/0/folders/0B1tsyXqMseXKeFFDcS1RQ2I5Z3M)
-<!-- - [osu!tt](https://osu.ppy.sh/community/forums/topics/302790)—Keeps track of your game client's uptime.
-  - [Github](https://github.com/Flanster/osuTT) (GitHub repository dead) -->
 - osu-trainer—A program that allows you to modify the difficulty settings of a beatmap easily.
   - [Github](https://github.com/FunOrange/osu-trainer)
 - osuStuff—A website for creating anime-themed avatars, and playing automatic osu! Battle Royale tournaments.
