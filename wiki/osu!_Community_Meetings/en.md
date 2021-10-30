@@ -29,8 +29,8 @@ The first osu! Community Meeting was hosted on September 19, 2021. All meetings 
 | Meeting # | Link | Summary |
 | :-: | :-- | :-- |
 | 0 | [September 19, 2021](https://www.youtube.com/watch?v=-LjNll8VYTM) | N/A |
-| 1 | [October 3, 2021](https://youtu.be/MxyAGgAy82k) | [Meeting notes](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) |
-| 2 | [October 17, 2021](https://youtu.be/UrYfhVelOgE) | [Meeting notes](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) |
+| 1 | [October 3, 2021](https://youtu.be/D3OZCm6szVE) | [Meeting notes](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) |
+| 2 | [October 17, 2021](https://youtu.be/nLT-fLeogrw) | [Meeting notes](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) |
 
 ## Related links
 
