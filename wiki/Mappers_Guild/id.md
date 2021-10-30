@@ -14,7 +14,7 @@ Para anggota Mappers' Guild saling berdiskusi dan berinteraksi satu sama lain pa
 
 ## Sistem
 
-*Untuk informasi terbaru mengenai sistem dan tatanan Mapper's Guild, silakan mengunjungi [bagian FAQ di website Mapper's Guild](https://mappersguild.com/faq).*
+*Untuk informasi terbaru mengenai sistem dan tatanan Mappers' Guild, silakan mengunjungi [bagian FAQ di website Mappers' Guild](https://mappersguild.com/faq).*
 
 Mapper yang telah memiliki setidaknya 3 map yang berstatus Ranked dapat bergabung ke dalam Mappers' Guild kapan saja dengan mendaftarkan akun osu! mereka pada [situs web Mappers' Guild](https://mappersguild.com/). Mereka yang telah bergabung akan dapat melihat riwayat aktivitas mapping para pengguna lainnya serta berbagai *quest* yang tersedia untuk diambil.
 
@@ -32,9 +32,9 @@ Kelompok merupakan kumpulan mapper yang mendaftar untuk menyelesaikan *quest* be
 
 Setiap *quest* memiliki spesifikasi dan kebutuhan kelompok yang dibutuhkan masing - masing, imbalan yang diterima, dan tenggat waktu yang akan dihadapi. Semua anggota kelompok harus membayar harga yang tercantum untuk menerima *quest*. Harga untuk *quest* gimik dan solo biasanya lebih tinggi daripada jenis lain.
 
-*Quest* akan dilabeli kedaluwarsa jika setelah 3 bulan tidak ada aktivitas. Setiap pengguna dapat membuka kembali *quest* tersebut dengan menghabiskan kumpulan poin Mapper's Guild mereka yang tersedia.
+*Quest* akan dilabeli kedaluwarsa jika setelah 3 bulan tidak ada aktivitas. Setiap pengguna dapat membuka kembali *quest* tersebut dengan menghabiskan kumpulan poin Mappers' Guild mereka yang tersedia.
 
-Partisipasi *quest* tidak memerlukan seluruh anggota Mapper's Guild. Jika seorang pengguna ingin mengambil *quest*, mereka dapat langsung membuat beatmap sendirian untuk mendapat imbalannya.
+Partisipasi *quest* tidak memerlukan seluruh anggota Mappers' Guild. Jika seorang pengguna ingin mengambil *quest*, mereka dapat langsung membuat beatmap sendirian untuk mendapat imbalannya.
 
 ### Imbalan
 
