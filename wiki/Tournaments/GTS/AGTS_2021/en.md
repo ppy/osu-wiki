@@ -9,11 +9,9 @@ tags:
 
 ![AGTS 2021 logo](img/logo.jpg)
 
-The **Advanced Global Taiko Showdown 2021** (***AGTS 2021***) was an Advanced worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438). Only players ranked between #1,000 and #3,500 could participate. It was the third instalment of the Advanced Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Advanced Global Taiko Showdown 2021** (***AGTS 2021***) was a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438). Only players ranked between #1,000 and #3,500 could participate. It was the third instalment of the Advanced Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
-
-### Regional phase
 
 | Event | Timestamp |
 | --: | :-- |
@@ -61,7 +59,7 @@ The Advanced Global Taiko Showdown 2021 was run by various community members.
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
-    - *Note: The second channel's purpose is to stream other match if there are more than one match happening at the same time.*
+    - *Note: The second channel's purpose is to allow streams of concurrent matches.*
 - [Challonge bracket](https://challonge.com/AGTS2021)
 - [Pick'em predictions website](https://pickem.hwc.hr/tournaments/57) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
@@ -137,7 +135,7 @@ This competition has come to an end and resulted in the following podium:
 - HardRock
   - [m1dy - ONIGOROSHI (Ak1o) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1497458#taiko/3069358)
   - [goreshit - lovism (KyouRekii87) \[Taiko-K\]](https://osu.ppy.sh/beatmapsets/1028927#taiko/2151445)
-- DoubleTIme
+- DoubleTime
   - [DUSTCELL - Anemone (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1417821#taiko/2921322)
   - [RichaadEB - The World Revolving (K4L1) \[Nishizumi's Oni\]](https://osu.ppy.sh/beatmapsets/1323017#taiko/2893514)
 - FreeMod
