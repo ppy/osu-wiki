@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: garlagan"
-date: 2021-10-30 09:00:00 +0000
+date: 2021-10-30 12:00:00 +0000
 ---
 
 **garlagan** steps up to the plate as our latest Featured Artist!
@@ -25,7 +25,7 @@ Start exploring **garlagan**'s unconventional sound through an unconventional me
 Try out [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1379854) hosted by fruit-focused mapper [Phob](https://osu.ppy.sh/users/6069462)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/212/00/garlagan%20-%20PPaper%20PPlanes.mp3" type="audio/mpeg">
 </audio>
 
 ### Going Back
@@ -33,19 +33,19 @@ Try out [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1379854) hosted by f
 Design your own (digital) map for [the song featured in the video above!](LINK)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/212/Going%20Back/garlagan%20-%20Going%20Back.mp3" type="audio/mpeg">
 </audio>
 
 ### Slowing Down
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/212/Slowing%20Down/garlagan%20-%20Slowing%20Down.mp3" type="audio/mpeg">
 </audio>
 
 ### 00
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/212/00/garlagan%20-%2000.mp3" type="audio/mpeg">
 </audio>
 
 ---
