@@ -2,6 +2,7 @@
 tags:
   - Mapper's Guild
   - MG
+needs_cleanup: true  # https://github.com/ppy/osu-wiki/pull/6293#pullrequestreview-793540784
 ---
 
 # Mappers' Guild
