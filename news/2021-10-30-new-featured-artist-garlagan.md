@@ -30,7 +30,7 @@ Try out [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1379854) hosted by f
 
 ### Going Back
 
-Design your own (digital) map for [the song featured in the video above!](LINK)
+Design your own (digital) map for [the song featured in the video above!](https://assets.ppy.sh/artists/212/Going%20Back/garlagan%20-%20Going%20Back.osz)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/212/Going%20Back/garlagan%20-%20Going%20Back.mp3" type="audio/mpeg">
