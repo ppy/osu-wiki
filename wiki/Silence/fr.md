@@ -18,7 +18,7 @@ Les utilisateurs qui sont réduits au silence par les modérateurs ne peuvent pa
 - Envoyer et mettre à jour les beatmaps
 - Participer à des jeux [multijoueurs](/wiki/Multi)
 
-En outre, tous les messages d'un utilisateur réduit au silence sont supprimés de tous les canaux de discussion et des conversations privées [[1]] (https://blog.ppy.sh/post/38114063519/this-week-in-osu-5).
+En outre, tous les messages d'un utilisateur réduit au silence sont supprimés de tous les canaux de discussion et des conversations privées [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5).
 
 ::: Infobox
 ![](img/silence-ingame.png "Avertissement de silence dans le tchat")
@@ -28,7 +28,7 @@ Après qu'un utilisateur a été réduit au silence, une alerte s'affiche à la 
 
 ## Faire appel d'un silence
 
-Si vous pensez avoir été injustement réduit au silence, contactez [l'équipe d'assistance aux comptes] (/wiki/People/The_Team/Account_support_team#accounts@ppy.sh) à [accounts@ppy.sh] (mailto:accounts@ppy.sh) pour contester le silence. Assurez-vous de le faire à partir de l'e-mail lié à votre compte osu! ; mentionnez votre nom d'utilisateur osu! ainsi que la date et l'heure approximatives auxquelles le silence a été prononcé.
+Si vous pensez avoir été injustement réduit au silence, contactez [l'équipe d'assistance aux comptes](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh) à [accounts@ppy.sh](mailto:accounts@ppy.sh) pour contester le silence. Assurez-vous de le faire à partir de l'e-mail lié à votre compte osu! ; mentionnez votre nom d'utilisateur osu! ainsi que la date et l'heure approximatives auxquelles le silence a été prononcé.
 
 ## Raisons courantes des silences
 
