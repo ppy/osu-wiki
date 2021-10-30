@@ -18,4 +18,4 @@ Berhasil menangkap drop akan memberi pemain [skor](/wiki/Score), meningkatkan [c
 
 *Droplet* adalah [hit object](/wiki/Hit_object) berwarna kecil yang ada di [beatmap](/wiki/Beatmap) [osu!catch](/wiki/Game_mode/osu!catch).
 
-Berhasil menangkap droplet akan memberi pemain 10 [skor](/wiki/Score) ,menambahkan [health](/wiki/Beatmapping/Health) yang kecil ke [health bar](/wiki/Glosarium/Health_bar), dan diperlakukan sebagai 50 di layar hasil. Jika pemain gagal menangkap tetesan, itu akan mengakibatkan hilangnya [health](/wiki/Beatmapping/Health) dan pemain akan mempertahankan [kombo](/wiki/Glossary/Combo_(score_multiplier) mereka.
+Berhasil menangkap droplet akan memberi pemain 10 [skor](/wiki/Score) ,menambahkan [health](/wiki/Beatmapping/Health) yang kecil ke [health bar](/wiki/Glosarium/Health_bar), dan diperlakukan sebagai 50 di layar hasil. Jika pemain gagal menangkap tetesan, itu akan mengakibatkan hilangnya [health](/wiki/Beatmapping/Health) dan pemain akan mempertahankan [kombo](/wiki/Glossary/Combo_(score_multiplier)) mereka.
