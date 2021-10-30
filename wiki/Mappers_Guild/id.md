@@ -28,7 +28,7 @@ Kelompok merupakan kumpulan mapper yang mendaftar untuk menyelesaikan *quest* be
 
 ### Quest
 
-*Quest* memberi imbalan kepada mapper karena telah mengikuti persyaratan tertentu saat membuat map Featured Artist yang mereka pilih. Biasanya *quest* melibatkan pembuatan sejumlah beatmap tertentu untuk Featured Artistrilisan terbaru, namun tentunya *quest* berskala kecil pun tersedia.
+*Quest* memberi imbalan kepada mapper karena telah mengikuti persyaratan tertentu saat membuat map Featured Artist yang mereka pilih. Biasanya *quest* melibatkan pembuatan sejumlah beatmap tertentu untuk Featured Artist rilisan terbaru, namun tentunya *quest* berskala kecil pun tersedia.
 
 Setiap *quest* memiliki spesifikasi dan kebutuhan kelompok yang dibutuhkan masing - masing, imbalan yang diterima, dan tenggat waktu yang akan dihadapi. Semua anggota kelompok harus membayar harga yang tercantum untuk menerima *quest*. Harga untuk *quest* gimik dan solo biasanya lebih tinggi daripada jenis lain.
 
