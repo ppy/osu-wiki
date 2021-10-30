@@ -24,8 +24,6 @@ We aim to take no more than 5 minutes per question, so please understand that qu
 
 The first osu! community meeting was hosted on September 19, 2021. All meetings have been and will continue to be recorded on YouTube, along with an accompanying summary document.
 
-*Note: obligatory note here in case anything needs to be said*
-
 | Meeting # | Link | Summary |
 | :-: | :-- | :-- |
 | 0 | [September 19, 2021](https://www.youtube.com/watch?v=-LjNll8VYTM) | [Meeting notes](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) |
