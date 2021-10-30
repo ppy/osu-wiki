@@ -100,7 +100,6 @@ L'interaction sociale est l'une des principales choses qui alimentent les joueur
 
 [Projets](/wiki/Projects) : [Featured Artists](/wiki/Featured_Artists) • [osu! community meetings](/wiki/osu!_Community_Meetings) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
 
- 
 </div>
 <div class="wiki-main-page-panel">
 
