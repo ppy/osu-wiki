@@ -5,7 +5,7 @@
   - If there are no reviewers for your language, please mention it explicitly
 -->
 
-# Self-check
+## Self-check
 
 - [ ] The changes are tested against the [contribution checklist](https://osu.ppy.sh/wiki/osu!_wiki/Contribution_guide#self-check)
-- [ ] *(translations only)* The changes are reviewed [by a fluent speaker](https://osu.ppy.sh/wiki/osu!_wiki/Contribution_guide#review)
+- [ ] *(translations only)* The changes are reviewed on GitHub [by a fluent speaker](https://osu.ppy.sh/wiki/osu!_wiki/Contribution_guide#review)
