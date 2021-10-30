@@ -11,7 +11,7 @@ tags:
 
 *For other uses, see [Combo (disambiguation)](/wiki/Disambiguation/Combo).*
 
-**Combo** (or **comboset**) refers to a set of hit circles and sliders in [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch) [beatmaps](/wiki/Beatmap). [Hit objects](/wiki/Hit_Objects) of the same combo share a [combo colour](/wiki/Glossary/Combo_Colour) and are connected by followpoints. The end of a combo will award bonus [health](/wiki/Beatmapping/Health) if completed successfully. Each combo starts with a hit object marked with a new combo.
+**Combo** (or **comboset**) refers to a set of hit circles and sliders in [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch) [beatmaps](/wiki/Beatmap). [Hit objects](/wiki/Hit_object) of the same combo share a [combo colour](/wiki/Glossary/Combo_colour) and are connected by followpoints. The end of a combo will award bonus [health](/wiki/Beatmapping/Health) if completed successfully. Each combo starts with a hit object marked with a new combo.
 
 [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania) do not use combos.
 

@@ -288,7 +288,7 @@ Below are the results screens of the other game modes.
 
 This is your online leaderboard. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
 
-1. Your player bar. It shows your [PP](/wiki/Performance_Points), Global Rank, Total Score, Overall [Accuracy](/wiki/Gameplay/Accuracy), and level bar.
+1. Your player bar. It shows your [PP](/wiki/Performance_points), Global Rank, Total Score, Overall [Accuracy](/wiki/Gameplay/Accuracy), and level bar.
 2. `Save replay to Replays folder`: You can watch the replay later either by opening it from a local leaderboard, or by going to `Replays` directory and double clicking it.
 3. `Add as online favourite`: Include the beatmap into your list of favourites, which is located on your osu! profile page under the "Beatmaps" section.
 4. Local Leaderboard: All your results are stored on your computer. To see them, navigate to the [song selection screen](#song-selection-screen), then select `Local Rankings` from the drop-down menu on the left.

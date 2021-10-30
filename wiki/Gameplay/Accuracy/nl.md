@@ -55,7 +55,7 @@ De prestatiegrafiek is een grafiek die de prestaties van een speler (gebaseerd o
 
 Wanneer je jouw muis op de prestatiegrafiek zet, wordt er een tooltip weergegeven met een *Error* en *Unstable Rate*.
 
-Door de manier waarop de [DT](/wiki/Game_modifier/Double_time) (Double Time) en [HT](/wiki/Game_modifier/Half_time) (Half Time) mods werden geïmplementeerd, zijn de error- en unstable rate-waarden vermenigvuldigd met dezelfde factor als het liedje. Deel die waarden door 1.5 om de werkelijke waarden te krijgen wanneer je DT speelt. Als je HT speelt moet je die waarden vermenigvuldigen met 1.33.
+Door de manier waarop de [DT](/wiki/Game_modifier/Double_Time) (Double Time) en [HT](/wiki/Game_modifier/Half_Time) (Half Time) mods werden geïmplementeerd, zijn de error- en unstable rate-waarden vermenigvuldigd met dezelfde factor als het liedje. Deel die waarden door 1.5 om de werkelijke waarden te krijgen wanneer je DT speelt. Als je HT speelt moet je die waarden vermenigvuldigen met 1.33.
 
 #### Error
 

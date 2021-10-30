@@ -5,7 +5,7 @@ outdated_since: d2a93c7e0e135bbf0a1944230cab0a334b2ef58f
 
 # Beatmap Aday Göstericiler için Kurallar
 
-Burada listelenen kurallar [Beatmap Aday Göstericilerin](/wiki/People/Beatmap_Nominators) beatmapleri aday gösterirken neler yapıp neler yapamayacağını etkiler, aynı zamanda onlardan beklenen genel davranış şeklini belirler. Bu kurallar [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) içerisindeki müzakerelerin bir sonucudur ve Beatmap Aday Göstericilerin geri bildirimleri de göz önüne alınarak oluşturulmuştur.
+Burada listelenen kurallar [Beatmap Aday Göstericilerin](/wiki/People/The_Team/Beatmap_Nominators) beatmapleri aday gösterirken neler yapıp neler yapamayacağını etkiler, aynı zamanda onlardan beklenen genel davranış şeklini belirler. Bu kurallar [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) içerisindeki müzakerelerin bir sonucudur ve Beatmap Aday Göstericilerin geri bildirimleri de göz önüne alınarak oluşturulmuştur.
 
 Beatmap Aday Göstericiler beatmapleri resmi listelere eklenmek üzere aday göstererek yeni içeriklerin oluşturulmasını destekleyerek osu!'nun dünyasını şekillendirme yetkisine sahiptirler, bu nedenle her zaman kurallara uymalıdırlar. Bu kurallardan herhangi birinin ihlali ilgili Beatmap Aday Göstericinin Beatmap Aday Göstericilerden kaldırılmasına neden olabilir. Bu kuralların ihlali Aday Gösterme Denetleme Takımının bir üyesine doğrudan bildirilebilir.
 

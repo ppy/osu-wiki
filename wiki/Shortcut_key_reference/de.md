@@ -112,9 +112,9 @@ Diese Kürzel können überall verwendet werden:
 - `S` -> `S`: [Perfect](/wiki/Game_modifier/Perfect)
 - `D`: [Double Time](/wiki/Game_modifier/Double_Time)
 - `D` -> `D`: [Nightcore](/wiki/Game_modifier/Nightcore)
-- `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, und osu!catch)
+- `F`: [Hidden](/wiki/Game_modifier/Hidden) (osu!, osu!taiko, und osu!catch)
   - [Fade In](/wiki/Game_modifier/Fade_In) für osu!mania
-- `F` -> `F`: [Hidden](/wiki/Hidden) (nur für osu!mania)
+- `F` -> `F`: [Hidden](/wiki/Game_modifier/Hidden) (nur für osu!mania)
 - `G`: [Flashlight](/wiki/Game_modifier/Flashlight)
 
 ---
@@ -178,7 +178,7 @@ Diese Kürzel funktionieren überall im Editor:
 - `F1`: Zum [Compose](/wiki/Beatmap_Editor/Compose)-Modus wechseln
 - `F2`: Zum [Design](/wiki/Beatmap_Editor/Design)-Modus wechseln
 - `F3`: Zum [Timing](/wiki/Beatmap_Editor/Timing)-Modus wechseln
-- `F4`: Das [Song Setup](/wiki/Song_Setup) öffnen (neues Fenster)
+- `F4`: Das [Song Setup](/wiki/Beatmap_Editor/Song_Setup) öffnen (neues Fenster)
 - `F5`: Den Testmodus starten
 - `F6`: Das Timing Setup öffnen
 

@@ -125,7 +125,7 @@ Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011.
 
 ### Juli
 
-- **2012-07-22:** Versi awal dari sistem [Performance Point](/wiki/Performance_Points) yang lebih dikenal dengan nama [ppv1](/wiki/Performance_points/ppv1) resmi diperkenalkan untuk menggantikan sistem *ranked score*.
+- **2012-07-22:** Versi awal dari sistem [Performance Point](/wiki/Performance_points) yang lebih dikenal dengan nama [ppv1](/wiki/Performance_points/ppv1) resmi diperkenalkan untuk menggantikan sistem *ranked score*.
 
 ### Agustus
 

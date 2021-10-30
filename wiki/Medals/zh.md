@@ -34,7 +34,7 @@ outdated: true
 实力奖章目前有三类：连击数，排名，水准。
 
 **连击数**奖章获取条件：在 osu! 模式中玩任意谱面并取得指定[连击数](/wiki/Disambiguation/Combo)。
-从 [osu!taiko](/wiki/osu!taiko)，[osu!catch](/wiki/osu!catch) 或 [osu!mania](/wiki/Game_mode/osu!mania) 模式中取得的连击数不计入奖章获取条件。
+从 [osu!taiko](/wiki/Game_mode/osu!taiko)，[osu!catch](/wiki/Game_mode/osu!catch) 或 [osu!mania](/wiki/Game_mode/osu!mania) 模式中取得的连击数不计入奖章获取条件。
 
 如果想要取得 1000 或 2000 连击数的奖牌，通常您需要搜索 Approved 谱面，而不是 Ranked 谱面。因为 Approved 谱面的谱面时间将会更长（5分钟以上），这样更容易取得更高的连击数。
 注意，如果谱面既没有被 Approved，也没有被 Ranked，那么即使连击数再高，也不会取得奖章！
