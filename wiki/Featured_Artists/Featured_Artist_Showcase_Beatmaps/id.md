@@ -408,7 +408,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
   - (![][osu!taiko]) [Lundy - STOP?](https://osu.ppy.sh/beatmapsets/1584108) diurus oleh ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
   - (![][osu!catch]) [Lundy - to.ALPHA](https://osu.ppy.sh/beatmapsets/1554550) diurus oleh ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
 
-### October
+### Oktober
 
 - **[DJ Raisei](https://osu.ppy.sh/home/news/2021-10-02-new-featured-artist-dj-raisei)** (2020-10-02)
   - (![][osu!]) [ISOMERZ (DJ Raisei + seatrus) - Symmetric](https://osu.ppy.sh/beatmapsets/1381824) diurus oleh ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)
