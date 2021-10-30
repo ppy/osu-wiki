@@ -38,7 +38,7 @@ Partisipasi *quest* tidak memerlukan seluruh anggota Mapper's Guild. Jika seoran
 
 ### Imbalan
 
-![](img/mg-badges.png "Lencana profil tingkatan ke-empat dari Mappers' Guild")
+![](img/mg-badges.png "Empat lencana profil bertingkat dari Mappers' Guild")
 
 Imbalan didistribusikan melalui sistem poin. Ketika seorang pengguna telah mencapai dalam titik pencapaian, mereka memperoleh peringkat yang berbeda dengan ditandainya sebuah lencana profil. Ada empat tingkatan profil untuk tiap pencapaian yang masing - masing diberikan pada 100, 250, 500, dan 1000 poin.
 
