@@ -8,7 +8,7 @@ La forme d'une déclaration d'échantillon audio est la suivante :
 
 `Sample,<time>,<layer_num>,"<filepath>",<volume>`
 
-où :
+Où :
 
 - `<time>` est l'heure à laquelle le son doit commencer à être joué.
 - `<layer_num>` est une valeur *numérique* correspondant à la couche sur laquelle vous voulez que le son soit :
