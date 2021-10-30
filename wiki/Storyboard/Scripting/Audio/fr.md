@@ -1,4 +1,4 @@
-# Échantillons audio du storyboard
+# Échantillons audio d'un storyboard
 
 **Les fichiers audio** (WAV, MP3 et OGG) peuvent être lus à des moments précis. Ils sont comme des déclarations d'objets, et non des commandes, et ne peuvent donc pas être utilisés dans des boucles ou des déclencheurs. Cependant, vous pouvez les placer sur n'importe laquelle des quatre couches (bien qu'il n'y ait pas de concept de "chevauchement" - tous les sons seront mélangés), de sorte que vous pouvez faire en sorte que les sons ne se produisent que si le lecteur est dans l'état Pass ou Fail.
 

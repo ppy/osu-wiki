@@ -1,4 +1,4 @@
-# Aide-mémoire sur le scénario du storyboard
+# Aide-mémoire sur le scénario d'un storyboard
 
 Post original : [*[Official Specifications] Storyboarding by Scripting* par : Echo](https://osu.ppy.sh/community/forums/topics/1869)
 
