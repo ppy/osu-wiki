@@ -1,7 +1,4 @@
 ---
-no_native_review: true
-outdated: true
-outdated_since: 2d446e0407bca810b5c85a8271c4d88f15eecbd5
 tags:
   - Mapper's Guild
   - MG
@@ -9,23 +6,25 @@ tags:
 
 # Mappers' Guild
 
-**Mappers' Guild** adalah perkumpulan mapper yang bertanggung jawab dalam pembuatan [beatmap](/wiki/Beatmap) untuk [artis - artis unggulan](/wiki/Featured_Artists) osu!. Dengan menerapkan format *guild* dalam, hal ini memungkinkan mapper untuk mendapatkan hadiah dengan berpartisipasi dalam proses pembuatan map artis unggulan menjadi ranked dan bekerja sama dalam menyelesaikan *quest* yang berhubungan dengan beatmapping.
+![](img/mg-logo.png)
 
-Organisasi dan diskusi perkumpulan ini dapat ditemukan di channel `#mappers-guild` [server Discord osu!dev](https://discord.gg/ppy).
+**Mappers' Guild** adalah perkumpulan mapper yang bertanggung jawab dalam pembuatan [beatmap](/wiki/Beatmap) untuk [artis - artis unggulan](/wiki/Featured_Artists) osu!. Dengan menerapkan format gaya MMO *guild*, hal ini memungkinkan mapper untuk mendapatkan hadiah dengan berpartisipasi dalam proses pembuatan beatmap dari artis-artis unggulan menjadi ranked dan bekerja sama dalam *quest-quest* terkait beatmapping.
 
-## Sistem dan Tatanan
+Organisasi dan diskusi perkumpulan ini dapat ditemukan di kanal `#mappers-guild` [server Discord osu!dev](https://discord.gg/ppy).
+
+## Sistem
 
 *Untuk informasi terbaru mengenai sistem dan tatanan Mapper's Guild, silakan mengunjungi [bagian FAQ di website Mapper's Guild](https://mappersguild.com/faq).*
 
-Mapper yang memiliki setidaknya 3 map yang sudah ranked dapat bergabung dengan perkumpulan ini kapan saja melewati dengan melakukan otentikasi osu! mereka pada [situs web Mapper's Guild](https://mappersguild.com/). Siapa pun tidak dibatasi untuk melihat *quest* yang tersedia dan aktivitas mapping yang dilakukan pada situs web.
+Mapper yang memiliki 3 atau lebih map ranked dapat bergabung ke dalam perkumpulan ini kapan pun melalui [situs web Mappers' Guild](https://mappersguild.com/) dengan melewati proses otentikasi akun osu! mereka. Siapa pun yang telah bergabung bebas melihat *quest* dan aktifitas mapping di dalam situs web.
 
-Mapper dapat memperoleh imbalan dengan berpartisipasi dalam proses pemeringkatan map menjadi ranked untuk map yang menggunakan konten artis unggulan dan terhubung ke Mapper's Guild. Dengan ini, mapper berfokus pada pembuatan beatmap, namun imbalan juga diberikan untuk pengguna yang berkontribusi dengan [modding](/wiki/Modding), membuat [storyboard](/wiki/Storyboard), dan menyelesaikan *quest* dalam *guild*.
+Mapper dapat memperoleh imbalan dengan berpartisipasi dalam proses pemeringkatan map-map dari artis unggulan yang telah terhubung ke Mappers' Guild. Dengan ini, mapper dapat berfokus pada pembuatan beatmap, namun imbalan juga diberikan untuk pengguna yang berkontribusi dalam [modding](/wiki/Modding), membuat [storyboard](/wiki/Storyboard), dan menyelesaikan *quest* di dalam *guild*.
 
 ### Kelompok
 
 Kelompok merupakan kumpulan mapper yang mendaftar untuk menyelesaikan *quest* bersama - sama. Mapper dapat bergabung dengan kelompok lain sebanyak yang mereka mau secara bersamaan.
 
-*Quest* khusus membutuhkan reputasi kelompok yang lebih tinggi untuk berpartisipasi. Agar suatu kelompok dapat naik ke peringkat lebih tinggi, setidaknya setengah dari anggotanya harus memenuhi syarat minimum atau lebih tinggi.
+*Quest* khusus membutuhkan peringkat kelompok yang lebih tinggi untuk berpartisipasi. Agar suatu kelompok dapat naik ke peringkat lebih tinggi, setidaknya setengah dari anggotanya harus memenuhi syarat minimum atau lebih tinggi.
 
 ### Quest
 
@@ -39,6 +38,8 @@ Partisipasi *quest* tidak memerlukan seluruh anggota Mapper's Guild. Jika seoran
 
 ### Imbalan
 
+![](img/mg-badges.png "Lencana profil tingkatan ke-empat dari Mappers' Guild")
+
 Imbalan didistribusikan melalui sistem poin. Ketika seorang pengguna telah mencapai dalam titik pencapaian, mereka memperoleh peringkat yang berbeda dengan ditandainya sebuah lencana profil. Ada empat tingkatan profil untuk tiap pencapaian yang masing - masing diberikan pada 100, 250, 500, dan 1000 poin.
 
 Imbalan diberikan berdasarkan peroleh poin tiap pengguna. Poin yang tersedia pengguna adalah sub-bagian dari total poin mereka, sistem ini juga mengikuti model [kudosu](/wiki/Modding/Kudosu) "total yang diperoleh" dan "tersedia".
@@ -46,6 +47,12 @@ Imbalan diberikan berdasarkan peroleh poin tiap pengguna. Poin yang tersedia pen
 Poin diperoleh dengan menyelesaikan berbagai tugas terkait mapping. Imbalannya juga bervariasi untuk setiap tugas, meskipun umumnya pertimbangan imbalan didasari dari jumlah waktu yang dibutuhkan untuk menyelesaikan *quest* tersebut. Misalnya, untuk menyelesaikan map dengan tingkat kesulitan `Hard` akan menyita lebih banyak waktu dibanding dengan menyelesaikan map dengan tingkat kesulitan `Easy`, jadi *quest* yang pertama tentunya akan memberi imbalan lebih banyak daripada yang kedua.
 
 Tugas - tugas pembuatan tingkat akan memberikan lebih banyak poin jika beatmap tersebut dimasukkan dalam *quest*. Menyelesaikan *quest* sebelum masa tenggat waktu-nya akan memberikan pengguna poin bonus untuk setiap tingkat kesulitan yang diselesaikan dan bonus tetap/sama rata untuk semua pengguna yang terlibat dalam *quest* tersebut. Bonus tetap ini akan hilang setelah melewati tenggat waktu berlalu, namun bonus tingkat kesulitan tetap berlaku dengan laporan *quest* setelah 0, 20, dan 40 hari di luar batas waktu.
+
+### Beatmap showcase
+
+*Artikel utama: [Kumpulan beatmap showcase Featured Artist](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps)*
+
+Anggota dari Mappers' Guild mungkin sering membuat "beatmap showcase" eksklusif untuk pengumuman-pengumuman artis-artis unggulan di masa mendatang. Setelah featured artist diumumkan, beatmap-beatmap yang tertera di sini akan disorot ke dalam [postingan berita](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di Twitter [@osugame](https://twitter.com/osugame). 
 
 ## Sejarah
 
