@@ -1,0 +1,21 @@
+---
+stub: true
+---
+
+# Juice Stream
+
+*Lihat juga: [Skor](/wiki/Skor)*
+
+**Juice Stream** adalah elemen dalam [osu!catch](/wiki/Game_mode/osu!catch) yang mencakup drop dan droplet. Juice stream dihasilkan saat [slider](/wiki/Hit_object/Slider) ditempatkan di editor.
+
+## Drop
+
+*Drop* adalah [hit object](/wiki/Hit_object) berwarna berukuran sedang yang ada di [beatmap](/wiki/Beatmap) [osu!catch](/wiki/Game_mode/osu!catch). Drop setara dengan slider tick di [osu!](/wiki/Game_mode/osu!). [Hyperfruit](/wiki/Hit_object/Hyperfruit) akan dihasilkan pada drop setelah [fruit](/wiki/Hit_object/Fruit) atau drop berikutnya tidak dapat ditangkap dengan dash normal.
+
+Berhasil menangkap drop akan memberi pemain [skor](/wiki/Score), meningkatkan [combo](/wiki/Glossary/Combo_(score_multiplier)) sebesar 1, menambahkan [health](/wiki/Beatmapping/Health) yang kecil ke [health bar](/wiki/Glosarium/Health_bar), dan diperlakukan sebagai 100 di layar hasil. Jika pemain gagal menangkap drop, itu akan mengakibatkan [combobreak](/wiki/Glossary/Combobreak) dan kehilangan [health](/wiki/Beatmapping/Health).
+
+## Droplet
+
+*Droplet* adalah [hit object](/wiki/Hit_object) berwarna kecil yang ada di [beatmap](/wiki/Beatmap) [osu!catch](/wiki/Game_mode/osu!catch).
+
+Berhasil menangkap droplet akan memberi pemain [skor](/wiki/Score) 10,menambahkan [health](/wiki/Beatmapping/Health) yang kecil ke [health bar](/wiki/Glosarium/Health_bar), dan diperlakukan sebagai 50 di layar hasil. Jika pemain gagal menangkap tetesan, itu akan mengakibatkan hilangnya [health](/wiki/Beatmapping/Health) dan pemain akan mempertahankan [kombo](/wiki/Glossary/Combo_(score_multiplier) mereka.
