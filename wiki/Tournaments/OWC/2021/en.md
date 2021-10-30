@@ -129,15 +129,15 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Canada | ![][flag_CA] | ![][flag_TW] | Taiwan | Oct 31 (Sun) 03:00 UTC | Oct 30 (Sat) 23:00 UTC-4 | Oct 31 (Sun) 11:00 UTC+8 |
-| United Kingdom | ![][flag_GB] | ![][flag_KR] | South Korea | Oct 31 (Sun) 13:00 UTC | Oct 31 (Sun) 14:00 UTC+1 | Oct 31 (Sun) 22:00 UTC+9 |
+| United Kingdom | ![][flag_GB] | ![][flag_KR] | South Korea | Oct 31 (Sun) 13:00 UTC | Oct 31 (Sun) 13:00 UTC+0 | Oct 31 (Sun) 22:00 UTC+9 |
 | Indonesia | ![][flag_ID] | ![][flag_HK] | Hong Kong | Oct 31 (Sun) 13:00 UTC | Oct 31 (Sun) 20:00 UTC+7 | Oct 31 (Sun) 21:00 UTC+8 |
-| Japan | ![][flag_JP] | ![][flag_FI] | Finland | Oct 31 (Sun) 13:00 UTC | Oct 31 (Sun) 22:00 UTC+9 | Oct 31 (Sun) 16:00 UTC+3 |
-| Singapore | ![][flag_SG] | ![][flag_UA] | Ukraine | Oct 31 (Sun) 14:00 UTC | Oct 31 (Sun) 22:00 UTC+8 | Oct 31 (Sun) 17:00 UTC+3 |
-| Poland | ![][flag_PL] | ![][flag_SE] | Sweden | Oct 31 (Sun) 15:00 UTC | Oct 31 (Sun) 17:00 UTC+2 | Oct 31 (Sun) 17:00 UTC+2 |
-| Czech Republic | ![][flag_CZ] | ![][flag_NL] | Netherlands | Oct 31 (Sun) 16:00 UTC | Oct 31 (Sun) 18:00 UTC+2 | Oct 31 (Sun) 18:00 UTC+2 |
+| Japan | ![][flag_JP] | ![][flag_FI] | Finland | Oct 31 (Sun) 13:00 UTC | Oct 31 (Sun) 22:00 UTC+9 | Oct 31 (Sun) 15:00 UTC+2 |
+| Singapore | ![][flag_SG] | ![][flag_UA] | Ukraine | Oct 31 (Sun) 14:00 UTC | Oct 31 (Sun) 22:00 UTC+8 | Oct 31 (Sun) 16:00 UTC+2 |
+| Poland | ![][flag_PL] | ![][flag_SE] | Sweden | Oct 31 (Sun) 15:00 UTC | Oct 31 (Sun) 16:00 UTC+1 | Oct 31 (Sun) 16:00 UTC+1 |
+| Czech Republic | ![][flag_CZ] | ![][flag_NL] | Netherlands | Oct 31 (Sun) 16:00 UTC | Oct 31 (Sun) 17:00 UTC+1 | Oct 31 (Sun) 17:00 UTC+1 |
 | Chile | ![][flag_CL] | ![][flag_RU] | Russian Federation | Oct 31 (Sun) 16:00 UTC | Oct 31 (Sun) 13:00 UTC-3 | Oct 31 (Sun) 19:00 UTC+3 |
-| Spain | ![][flag_ES] | ![][flag_RO] | Romania | Oct 31 (Sun) 17:00 UTC | Oct 31 (Sun) 19:00 UTC+2 | Oct 31 (Sun) 20:00 UTC+3 |
-| Mexico | ![][flag_MX] | ![][flag_TR] | Turkey | Oct 31 (Sun) 18:00 UTC | Oct 31 (Sun) 13:00 UTC-5 | Oct 31 (Sun) 21:00 UTC+3 |
+| Spain | ![][flag_ES] | ![][flag_RO] | Romania | Oct 31 (Sun) 17:00 UTC | Oct 31 (Sun) 18:00 UTC+1 | Oct 31 (Sun) 19:00 UTC+2 |
+| Mexico | ![][flag_MX] | ![][flag_TR] | Turkey | Oct 31 (Sun) 18:00 UTC | Oct 31 (Sun) 12:00 UTC-6 | Oct 31 (Sun) 21:00 UTC+3 |
 
 ## Mappools
 
