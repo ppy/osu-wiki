@@ -2,7 +2,7 @@
 
 The **osu! Community Meetings** are a fortnightly discussion panel hosted by the [osu! team](/wiki/People/The_Team). The primary aim of these meetings is to give anyone a chance to speak directly with the developers and people responsible for managing the community to raise issues for discussion or further consideration.
 
-Long ago in the game's distant past, the osu! team used to host regular community meetings where everyone was welcome to talk. With the scale of the game today, this is no longer feasible, but through Discord a queueing system of sorts has been implemented where questions can be addressed one at a time. If you are interested in asking questions, please make sure you've read through the FAQ listed below, just in case your question has already been asked and answered!
+Long ago in the [game's distant past](https://twitter.com/ppy/status/1169256824052170755), the osu! team used to host regular community meetings where everyone was welcome to talk. With the scale of the game today, this is no longer feasible, but through Discord a queueing system of sorts has been implemented where questions can be addressed one at a time. If you are interested in asking questions, please make sure you've read through the FAQ listed below, just in case your question has already been asked and answered!
 
 Currently, the osu! Community Meetings are being chaired by [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335), and [smoogipoo](https://osu.ppy.sh/users/1040328).
 
