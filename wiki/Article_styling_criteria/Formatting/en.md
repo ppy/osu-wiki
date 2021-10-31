@@ -613,15 +613,15 @@ There are two types of image links: inline and reference. Examples:
 **Inline style:**
 
 ```markdown
-![Australian flag](/wiki/shared/flag/AU.gif "Australia")
+![Gold crown](/wiki/shared/crown-gold.png "1st place")
 ```
 
 **Reference style:**
 
 ```markdown
-![Australian flag][flag_AU]
+![Gold crown][GCrown]
 
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[GCrown]: /wiki/shared/crown-gold.png "1st place"
 ```
 
 Images should use the inline linking style. References to reference links must be placed at the bottom of the article.
