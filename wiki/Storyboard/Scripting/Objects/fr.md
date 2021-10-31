@@ -16,7 +16,7 @@ Pour appeler une instance d'un sprite (une image fixe) ou une animation, utilise
 
 Où :
 
-- `(layer)` est la **[couche] (/wiki/Storyboard/Scripting/General_Rules) sur laquelle l'objet apparaît.** Les valeurs valides sont :
+- `(layer)` est la **[couche](/wiki/Storyboard/Scripting/General_Rules) sur laquelle l'objet apparaît.** Les valeurs valides sont :
   - 0 - Arrière-plan
   - 1 - Fail
   - 2 - Pass
