@@ -36,7 +36,7 @@ Untuk dapat beralih dari satu mode permainan ke mode permainan lainnya, klik tom
 
 *Laman utama: [osu!catch](osu!catch)*
 
-*osu!catch* merupakan mode permainan yang menuntut para pemainnya untuk dapat menangkap buah-buah yang jatuh dari atas layar dengan menggunakan *catcher* yang mereka miliki. Mode permainan ini didasarkan pada *minigame EZ2CATCH* yang terdapat pada seri permainan [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ) dan beberapa simulator [Beatmania](https://en.wikipedia.org/wiki/Beatmania) lainnya. Maskot dari mode permainan ini adalah [Yuzu](/wiki/Mascots#-Yuzu), seorang pemuda tampan berambut biru.
+*osu!catch* merupakan mode permainan yang menuntut para pemainnya untuk dapat menangkap buah-buah yang jatuh dari atas layar dengan menggunakan *catcher* yang mereka miliki. Mode permainan ini didasarkan pada *minigame EZ2CATCH* yang terdapat pada seri permainan [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ) dan beberapa simulator [Beatmania](https://en.wikipedia.org/wiki/Beatmania) lainnya. Maskot dari mode permainan ini adalah [Yuzu](/wiki/Mascots#-yuzu), seorang pemuda tampan berambut biru.
 
 ![Tampilan permainan osu!catch](/wiki/shared/catch-gameplay.jpg "Permainan osu!catch")
 
