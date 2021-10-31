@@ -4,7 +4,7 @@ outdated: true
 
 # Mapowanie
 
-**Mapowanie** to proces tworzenia [beatmapy](/wiki/Beatmap) w osu!. Składa się na niego wybór utworu, ustawienie [timingu](/wiki/Timing), umieszczenie obiektów oraz (opcjonalnie) tworzenie skórki i/lub storyboard'u.
+**Mapowanie** to proces tworzenia [beatmapy](/wiki/Beatmap) w osu!. Składa się na niego wybór utworu, ustawienie [timingu](/wiki/Beatmap_Editor/Timing), umieszczenie obiektów oraz (opcjonalnie) tworzenie skórki i/lub storyboard'u.
 
 Mapperzy najczęściej pragną, by ich mapy otrzymały status [rankingowej beatmapy](/wiki/Beatmap), do którego wymagane jest przejście przez etap zatwierdzenia (akceptacji) beatmapy (ang. [beatmap approval](/wiki/Beatmap_ranking_procedure)), a następnie przydzielenia mapie własnej tabeli wyników i uniemożliwienie dalszej edycji mapy.
 

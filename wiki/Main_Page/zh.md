@@ -29,7 +29,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # 游戏玩法
 
-[游戏模式](/wiki/Game_Modes)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
+[游戏模式](/wiki/Game_mode)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
 [谱面](/wiki/Beatmap) • [物件](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [分数](/wiki/Score) • [回放](/wiki/Replay) • [多人游戏](/wiki/Multi)
 
@@ -58,7 +58,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # 社区
 
-[锦标赛](/wiki/Tournaments) • [皮肤](/wiki/Skinning) • [项目](/wiki/Projects) • [指南](/wiki/Guides) • [osu!dev Discord 服务器](/wiki/osu!dev_Discord_server) • [如何提供帮助](/wiki/How_You_Can_Help!) • [词汇表](/wiki/Glossary)
+[锦标赛](/wiki/Tournaments) • [皮肤](/wiki/Skinning) • [项目](/wiki/Projects) • [指南](/wiki/Guides) • [osu!dev Discord 服务器](/wiki/osu!dev_Discord_server) • [如何提供帮助](/wiki/How_you_can_help!) • [词汇表](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -83,7 +83,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # 关于 osu!wiki
 
-[网址地图](/wiki/Sitemap) • [贡献指南](/wiki/osu!_wiki/Contribution_guide) • [文章风格规范](/wiki/Article_Styling_Criteria) • [新闻风格规范](/wiki/News_Styling_Criteria)
+[网址地图](/wiki/Sitemap) • [贡献指南](/wiki/osu!_wiki/Contribution_guide) • [文章风格规范](/wiki/Article_styling_criteria) • [新闻风格规范](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

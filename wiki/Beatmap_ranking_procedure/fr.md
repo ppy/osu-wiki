@@ -24,7 +24,7 @@ Il est recommandé de recevoir des mods avant de demander des nominations aux BN
 
 ## Qualification
 
-Les beatmaps qui reçoivent deux nominations pour chaque mode de jeu disponible dans la beatmap sont déplacées dans la catégorie des beatmaps [qualifiées](/wiki/Beatmap/Category#qualified). Les beatmaps qualifiées disposent d'un classement des scores, mais ne récompensent pas les joueurs avec des [points de performance](/wiki/Performance_Points). Lorsqu'une beatmap reste dans la catégorie qualifiée pendant au moins 7 jours, la [file d'attente de classement](Ranking_queue) peut la faire passer dans la catégorie [classée](#classée).
+Les beatmaps qui reçoivent deux nominations pour chaque mode de jeu disponible dans la beatmap sont déplacées dans la catégorie des beatmaps [qualifiées](/wiki/Beatmap/Category#qualified). Les beatmaps qualifiées disposent d'un classement des scores, mais ne récompensent pas les joueurs avec des [points de performance](/wiki/Performance_points). Lorsqu'une beatmap reste dans la catégorie qualifiée pendant au moins 7 jours, la [file d'attente de classement](Ranking_queue) peut la faire passer dans la catégorie [classée](#classée).
 
 Cette catégorie de beatmap existe pour offrir aux beatmaps une plus grande exposition à la communauté d'osu! dans l'espoir de découvrir des problèmes potentiels. Les problèmes peuvent être signalés aux BN et aux membres de la NAT à partir de la page de discussion d'une beatmap. Contrairement aux beatmaps en attente, les beatmaps qualifiées ne peuvent pas être mises à jour par leurs créateurs. Les commentaires ne peuvent donc être appliqués qu'après avoir demandé une [réinitialisation de la nomination](#réinitialisation-de-la-nomination).
 
