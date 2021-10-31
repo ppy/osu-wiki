@@ -131,7 +131,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | Nov 7 (Sun) 02:00 UTC | Nov 7 (Sun) 11:00 UTC+9 | Nov 6 (Sat) 23:00 UTC-3 | ³ |
-| Canada | ![][flag_CA] | ![][flag_JP] | Japan | Nov 7 (Sun) 03:30 UTC | Nov 6 (Sat) 23:30 UTC-4 | Nov 7 (Sun) 12:30 UTC+9 |  ¹ |
+| Canada | ![][flag_CA] | ![][flag_JP] | Japan | Nov 7 (Sun) 03:30 UTC | Nov 6 (Sat) 23:30 UTC-4 | Nov 7 (Sun) 12:30 UTC+9 | ¹ |
 | Philippines | ![][flag_PH] | ![][flag_AU] | Australia | Nov 7 (Sun) 07:30 UTC | Nov 7 (Sun) 15:30 UTC+8 | Nov 7 (Sun) 18:30 UTC+11 | ³ |
 | Sweden | ![][flag_SE] | ![][flag_AU] | Australia | Nov 7 (Sun) 10:00 UTC | Nov 7 (Sun) 11:00 UTC+1 | Nov 7 (Sun) 21:00 UTC+11 | ³ |
 | Sweden | ![][flag_SE] | ![][flag_SG] | Singapore | Nov 7 (Sun) 10:00 UTC | Nov 7 (Sun) 11:00 UTC+1 | Nov 7 (Sun) 18:00 UTC+8 | ³ |
@@ -159,7 +159,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 
 ### Quarterfinals
 
-**[Download the map pack here (139 MB)](https://drive.google.com/uc?id=1lhBkq0qU8hWRD6JK9vRRuSKdBEAbeVqc)**
+**[Download the mappack here (139 MB)](https://drive.google.com/uc?id=1lhBkq0qU8hWRD6JK9vRRuSKdBEAbeVqc)**
 
 - NoMod
   - [TRUE - Storyteller (captin1) \[Extra\]](https://osu.ppy.sh/beatmapsets/1616036#osu/3299389)
@@ -190,7 +190,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 
 ### Round of 16
 
-**[Download the map pack here (125 MB)](https://drive.google.com/file/d/1a5Y_JvVKGSuN_WofpDz22pIvHyBUb33D/view?usp=sharing)**
+**[Download the mapack here (125 MB)](https://drive.google.com/file/d/1a5Y_JvVKGSuN_WofpDz22pIvHyBUb33D/view?usp=sharing)**
 
 - NoMod
   - [Comela - Wing of Destiny (Nana Abe) \[OWC Tyrant\]](https://osu.ppy.sh/beatmapsets/1610199#osu/3287700)
