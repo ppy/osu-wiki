@@ -49,7 +49,7 @@ Où :
 - `(starttime)` et `(endtime)` sont les heures de début et de fin de la commande, respectivement en millisecondes (ms).
 - `(params...)` varier entre des valeurs spécifiques pour `(event)`. Il s'agit généralement des valeurs que les variables doivent prendre.
 
-Dans certains cas particuliers, divers [shorthands] (/wiki/Storyboard/Scripting/Shorthand) peuvent être utilisés.
+Dans certains cas particuliers, divers [shorthands](/wiki/Storyboard/Scripting/Shorthand) peuvent être utilisés.
 
 Un objet reste actif jusqu'à ce que sa dernière commande (dans le temps) soit effectuée. Après cela, il disparaît. Si vous voulez simplement qu'un objet reste à l'écran, sans que rien ne lui arrive, en restant à son emplacement par défaut, utilisez Fade (F).
 

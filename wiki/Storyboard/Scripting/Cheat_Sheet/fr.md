@@ -161,7 +161,6 @@ Devient
 
 Veuillez noter l'espace vide dans le champ de l'heure de fin - il s'agit de l'heure **requise**.
 
-
 ***shorthand3*** : Cette notation peut être utilisée lorsque les valeurs de début et de fin de l'événement sont les mêmes.
 
 `_M,0,1000,,320,240,320,240`

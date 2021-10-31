@@ -1,6 +1,6 @@
 # Raccourci de script d'un storyboard
 
-Pour vous faciliter la vie, il existe trois cas de **raccourcis** lors de l'écriture des [commandes du storyboard] (/wiki/Storyboard/Scripting/Commands).
+Pour vous faciliter la vie, il existe trois cas de **raccourcis** lors de l'écriture des [commandes du storyboard](/wiki/Storyboard/Scripting/Commands).
 
 ## Même événement, même durée, séquentiellement
 
