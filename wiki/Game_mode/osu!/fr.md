@@ -83,7 +83,7 @@ Sur la *DS*, c’est un bon moyen de rayer l’écran tactile (ou le protecteur 
 
 ## Styles de jeu
 
-*[Reportez-vous à la page Styles de jeu dans osu!](/wiki/Play_Styles).*
+*[Reportez-vous à la page Styles de jeu dans osu!](/wiki/Play_style).*
 
 ## Contrôles
 

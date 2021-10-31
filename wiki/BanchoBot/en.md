@@ -83,7 +83,7 @@ A list of all BanchoBot commands can be found below:
 !stats <username>
 ```
 
-`!stats` displays the entered user's game statistics and their current status. The output depends on the [game mode](/wiki/Game_Modes) that the entered user last played, although BanchoBot will not display which game mode the stats came from. If asked to display stats from a user that has never played osu!, BanchoBot will respond with `User not found`, even if the user does exist. An example of sending this command is shown below:
+`!stats` displays the entered user's game statistics and their current status. The output depends on the [game mode](/wiki/Game_mode) that the entered user last played, although BanchoBot will not display which game mode the stats came from. If asked to display stats from a user that has never played osu!, BanchoBot will respond with `User not found`, even if the user does exist. An example of sending this command is shown below:
 
 ```
 13:01 pippi: !stats peppy
@@ -146,7 +146,7 @@ There is a total of 7 statuses which can be displayed by the `!stats` command: E
 !report <user> <reason>
 ```
 
-`!report` notifies the [Global Moderation Team](/wiki/Global_Moderation_Team) about a user's inappropriate behaviour. If a user has spaces in their username, replace them with underscores (e.g. `really cool username` becomes `really_cool_username`). To report a moderator, contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). An example of reporting a normal user through BanchoBot is shown below:
+`!report` notifies the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) about a user's inappropriate behaviour. If a user has spaces in their username, replace them with underscores (e.g. `really cool username` becomes `really_cool_username`). To report a moderator, contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). An example of reporting a normal user through BanchoBot is shown below:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

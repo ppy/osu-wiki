@@ -10,7 +10,7 @@ Tworzenie skórek to jedna z najważniejszych funkcji w osu!, która umożliwia 
 
 ## Jak stworzyć skórkę?
 
-*Główna strona: [Poradnik dot. tworzenia skórek](/wiki/Skinning/Tutorial)*
+*Główna strona: [Poradnik dot. tworzenia skórek](/wiki/Skinning/Guides_and_important_threads)*
 
 ## Elementy skórek
 
@@ -25,8 +25,8 @@ Elementy skórek są podzielone na następujące kategorie:
 
 ## Zobacz 
 
-- [skin.ini](/wiki/skin.ini)
+- [skin.ini](/wiki/Skinning/skin.ini)
 - [Dawne elementy skórek](/wiki/Skinning/History) - lista starych, nieużywanych elementów skórek
 - [Kompendium](https://osu.ppy.sh/community/forums/topics/686664) - lista ukończonych skórek
 - [Najczęściej zadawane pytania dot. tworzenia skórek](/wiki/Skinning/FAQ)
-- [Poradniki i ważne wątki](/wiki/Skinning/Guides_and_Important_Threads)
+- [Poradniki i ważne wątki](/wiki/Skinning/Guides_and_important_threads)

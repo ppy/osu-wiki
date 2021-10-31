@@ -27,7 +27,7 @@ Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu! Comm
 8. **Wirb nicht für Chat-Server anderer Platformen jeglicher Art, einschließlich Discord, Teamspeak oder Skype.** Im osu! Chat geht es um osu! und nicht, um deine Server zu füllen. Nutze private Nachrichten, wenn es unbedingt sein muss.
 9. **In sprachspezifischen Kanälen musst du die entsprechende Sprache sprechen (Englisch in `#english`, Thailändisch in `#thai`, etc.), wenn du mitreden willst.** In allen Kanälen, die in ihrer Beschreibung oder im Namen keine Sprache angeben, wird immer Englisch gesprochen. Andererseits kann in `#lobby` und `#help` jede Sprache gesprochen werden.
 
-*[Moderatoren](/wiki/People/Global_Moderation_Team) müssen sich nicht an diese Regel halten, wenn sie ihre Arbeit erledigen.*
+*[Moderatoren](/wiki/People/The_Team/Global_Moderation_Team) müssen sich nicht an diese Regel halten, wenn sie ihre Arbeit erledigen.*
 
 ## Forumregeln
 
@@ -43,7 +43,7 @@ Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu! Comm
 
 *Diese Regeln beziehen sich auf eingereichte Beatmaps und nicht nur ranked Beatmaps. Für mehr Details bezüglich Regeln für ranked Beatmaps siehe [Ranking Kriterien](/wiki/Ranking_Criteria)*
 
-Diese Regeln beziehen sich ausschließlich auf Beatmaps, die über das [Beatmap Submission System](/wiki/Submission) hochgeladen werden. Die Threads werden mithilfe des osu! Clienten erstellt, wenn du eine Beatmap mit dem [Editor](/wiki/Editor) hochlädst.
+Diese Regeln beziehen sich ausschließlich auf Beatmaps, die über das [Beatmap Submission System](/wiki/Submission) hochgeladen werden. Die Threads werden mithilfe des osu! Clienten erstellt, wenn du eine Beatmap mit dem [Editor](/wiki/Beatmap_Editor) hochlädst.
 
 1. **Stelle sicher, dass du die Berechtigung hast, jeden Inhalt in deiner Beatmap zu verwenden.** Das umschließt Lieder, Videos, Hitsounds, Bilder oder andere Inhalte, die nicht von dir direkt selbst erstellt wurden. Solltest du dir unsicher sein, wo du frei nutzbare Inhalte finden kannst, kannst du die Bibliothek von Liedern unserer [Featured Artists](https://osu.ppy.sh/beatmaps/artists/) durchsuchen. Damit bist du zu 100% auf der sicheren Seite.
 2. **Komm in Beatmap-Threads nicht vom Thema ab.** Die Threads und Diskussionen gelten der Beatmap und sonst nichts. Wenn du ein Problem mit etwas hast, was sich nicht direkt auf die Beatmap bezieht, dann veröffentliche es stattdessen im richtigen Forum.

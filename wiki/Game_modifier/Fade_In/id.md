@@ -27,7 +27,7 @@ tags:
 
 ## Deskripsi
 
-Mod **Fade In** adalah sebuah [game modifier](/wiki/Game_modifier) untuk [osu!mania](/wiki/Game_mode/osu!mania) yang meningkatkan kesulitan pada sebuah [beatmap](/wiki/Beatmaps) dengan cara menghilangkan note-note ketika mereka mendekati bar penilaian. Itulah asal muasal namanya.
+Mod **Fade In** adalah sebuah [game modifier](/wiki/Game_modifier) untuk [osu!mania](/wiki/Game_mode/osu!mania) yang meningkatkan kesulitan pada sebuah [beatmap](/wiki/Beatmap) dengan cara menghilangkan note-note ketika mereka mendekati bar penilaian. Itulah asal muasal namanya.
 
 Kecepatan pemudaran note tersebut didasarkan pada kombo, sehingga kombo yang lebih tinggi menyebabkan note semakin memudar tidak terlihat dalam jangka waktu yang lebih lama. Seiring waktu, note-note yang ada akan semakin memudar dengan semakin banyaknya kombo yang diraih oleh pemain.
 

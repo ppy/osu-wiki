@@ -33,7 +33,6 @@ Vous trouverez ci-dessous une liste triée des guides créés par les membres de
 - [Comment utiliser l'assistant de décalage](How_to_Use_the_Offset_Wizard)
 - [Recherche et téléchargement de beatmaps](Searching_and_Downloading_Beatmaps)
 - [Achat de tablettes](Tablet_Purchase)
-- [Conseils et astuces pour s'améliorer](Tips_and_Tricks_on_Skill_Improvement)
 
 ## Skinning
 

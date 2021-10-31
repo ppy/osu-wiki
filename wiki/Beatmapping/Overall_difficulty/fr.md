@@ -2,12 +2,9 @@
 tags:
   - accuracy
   - hit window
-  - notelock
   - OD
   - spinner difficulty
   - précision
-outdated: true
-outdated_since: 266a07fc271ddfef0dfd369697733a2c5835a124
 ---
 
 # Overall difficulty
@@ -18,7 +15,7 @@ L'**overall difficulty** (abrégé en ***OD***) définit la difficulté d'obteni
 
 ## Timing
 
-Des valeurs d'OD plus élevées signifient une hit window plus courte pour frapper les [objets](/wiki/Hit_Objects), à la fois en général et pour obtenir des scores élevés. La largeur de l'intervalle pour frapper une note, centrée sur le timing correct de l'objet, est définie par le tableau suivant :
+Des valeurs d'OD plus élevées signifient une hit window plus courte pour frapper les [objets](/wiki/Hit_object), à la fois en général et pour obtenir des scores élevés. La largeur de l'intervalle pour frapper une note, centrée sur le timing correct de l'objet, est définie par le tableau suivant :
 
 | Score | hit window |
 | --: | :-- |
@@ -26,21 +23,17 @@ Des valeurs d'OD plus élevées signifient une hit window plus courte pour frapp
 | 100 | `280ms - 16ms * OD` |
 | 300 | `160ms - 12ms * OD` |
 
-Si le joueur frappe en dehors de la hit window du 50, cela comptera comme un miss.
+Si le joueur frappe en dehors de la hit window du 50, cela comptera comme un miss. Si les hit windows de deux objets se chevauchent, le second objet sera inaccessible jusqu'à ce que le premier disparaisse à cause du [notelock](/wiki/Gameplay/Notelock).
 
 ## Sliders et spinners
 
-Dans [osu!](/wiki/Game_mode/osu!), les sliders récompense le joueur d'un 300 tant qu'il frappe dans la hit window du 50. Cela est parfois appelé *slideracc* et est supprimé dans le ScoreV2.
+Dans [osu!](/wiki/Game_mode/osu!), les sliders récompense le joueur d'un 300 tant qu'il frappe dans la hit window du 50. Cela est parfois appelé *slideracc* et est supprimé dans le [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
 L'overall difficulty affecte également les spinners, dans la mesure où il faut les faire tourner davantage pour remplir la jauge à temps. Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le denden aura également besoin de plus de coups pour être complété. Le nombre de tours par minutes nécessaires pour compléter un spinner est défini par la formule suivante :
 
 - OD < 5 : `5 - 2 * (5 - OD) / 5`
 - OD = 5 : `5`
 - OD > 5 : `5 + 2.5 * (OD - 5) / 5`
-
-## Notelock
-
-Dans osu!, le système de timing n'autorise pas qu'un objet soit frappé avant que l'objet précédent ne le soit (ou manqué après que la hit window soit passée). Cela peut conduire à des cas de **notelock** où les joueurs manqueront une note même s'ils la frappent parfaitement en rythme avec la musique. Cela se produit plus souvent sur les beatmaps avec de faibles valeurs d'OD, car les hit windows des objets se chevauchent plus fréquemment.
 
 ## Effets des mods
 

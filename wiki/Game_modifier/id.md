@@ -12,7 +12,7 @@ tags:
 
 ![Layar pemilihan mod](img/mod-selection-screen-ID.jpg)
 
-**Game modifier** (disingkat menjadi "mod") adalah sebuah modifikasi opsional terhadap elemen dan kesulitan dari sebuah [beatmap](/wiki/Beatmaps) dimana pemain dapat mengaktifkannya melalui `Layar Pemilihan Mod` (diatas). Mod dapat membuat beatmap menjadi lebih mudah, lebih sulit, atau hanya untuk kesenangan biasa.
+**Game modifier** (disingkat menjadi "mod") adalah sebuah modifikasi opsional terhadap elemen dan kesulitan dari sebuah [beatmap](/wiki/Beatmap) dimana pemain dapat mengaktifkannya melalui `Layar Pemilihan Mod` (diatas). Mod dapat membuat beatmap menjadi lebih mudah, lebih sulit, atau hanya untuk kesenangan biasa.
 
 Pemain dapat mengakses `Layar Pemilihan Mod` pada layar pemilihan lagu dengan mengklik tombol `Mods` di pojok kiri bawah layar atau dengan menekan `F1`. Setelah memasuki `Layar Pemilihan Mod`, Shortcut untuk memilih mod tertentu juga tersedia. Shortcut tersebut dapat diubah melalui pengaturan.
 
@@ -59,7 +59,7 @@ Setiap mod yang berada di bawah, mempunyai ikon dari mode permainan yang sesuai 
 
 *Catatan: Mod ini digunakan dan tersedia beberapa waktu lalu, tetapi sekarang sudah tidak tersedia.*
 
-- [10K](/wiki/Game_modifier/10k) ![][osu!mania]
+- [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 

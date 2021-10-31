@@ -25,7 +25,7 @@ Start digging into these treats with a video of [*Lundy - STOP?*](https://osu.pp
 Check out [this osu!taiko map from the video above](https://osu.ppy.sh/beatmapsets/1584108) hosted by [Hivie](https://osu.ppy.sh/users/14102976) of the Mappers' Guild!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/203/STOP/Lundy%20-%20STOP..mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/203/STOP/Lundy%20-%20STOP.mp3" type="audio/mpeg">
 </audio>
 
 ### Lundy - to.ALPHA

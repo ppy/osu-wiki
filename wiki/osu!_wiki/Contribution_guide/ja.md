@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
+---
+
 # osu! wiki contribution guide
 
 osu! wikiの改善に興味を持ってくださりありがとうございます! このクイックスタートガイドはGitHubを使って作業をしたことがない、もしくはosu! wikiの作業をしたことがない人のために作られました。 もしあなたにGitHubを使った経験があれば、このガイドを遠慮なくスキップして、通常のフィーチャーブランチ作業に則って、リポジトリの内容をアップデートしてください。
@@ -44,7 +49,7 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 3. もし他の人によってすでに変更されたファイルを変更する予定がない場合、これはさほど大きな問題ではありません。
 
-4. これを解決するには、[My branch is out of date! section in the Common Issues article](/wiki/osu!_wiki/Contribution_guide/Common_Issues#my-branch-is-out-of-date!)を読んでください。
+4. これを解決するには、[My branch is out of date! section in the Common Issues article](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork)を読んでください。
 
 5. 4が完了したら、 [オンラインかローカルで編集する](#オンラインかローカルで編集する)へ続けてください。
 

@@ -1,6 +1,6 @@
 # Global Taiko Showdown
 
-Global Taiko Showdownシリーズのインデックスページです。
+Global Taiko Showdown シリーズのインデックスページです。
 
 - [Intermediate Global Taiko Showdown 2018](IGTS_2018)
 - [Intermediate Global Taiko Showdown 2019](IGTS_2019)
@@ -12,3 +12,4 @@ Global Taiko Showdownシリーズのインデックスページです。
 - [Advanced Global Taiko Showdown 2020](AGTS_2020)
 - [Beginner Global Taiko Showdown 2020](BGTS_2020)
 - [Continental Global Taiko Showdown 2021](CGTS_2021)
+- [Advanced Global Taiko Showdown 2021](AGTS_2021)

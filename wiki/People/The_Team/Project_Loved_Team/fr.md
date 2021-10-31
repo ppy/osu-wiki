@@ -28,7 +28,6 @@ La Project Loved Team se compose principalement de *capitaines* pour chaque [mod
 
 - ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861)
 - ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910)
-- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
 - ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438)
 - ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563)
 - ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
@@ -43,9 +42,11 @@ La Project Loved Team se compose principalement de *capitaines* pour chaque [mod
 ### osu!mania
 
 - ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750)
-- ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
+- ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722)
 - ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
+- ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479)
 - ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)
+- ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
 
 ## Coordinateurs
 
@@ -58,11 +59,12 @@ Les coordinateurs sont principalement chargés de veiller à ce que tous les cap
 
 Les vérificateurs des métadonnées vérifient chaque beatmap qui sera soumise au vote, et travaillent avec les mappeurs pour corriger les éventuelles erreurs avant que les beatmaps ne soient potentiellement déplacées vers la catégorie loved.
 
+- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
-- ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
+- ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
 
@@ -119,6 +121,7 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont fait partie de la Pr
 
 ### Capitaines osu!mania
 
+- ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
 - ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852)
 - ![][flag_US] [Alter-](https://osu.ppy.sh/users/4980256)
@@ -148,7 +151,7 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont fait partie de la Pr
 [flag_EC]: /wiki/shared/flag/EC.gif "Equateur"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hongrie"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italie"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
@@ -158,10 +161,10 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont fait partie de la Pr
 [flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turquie"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"

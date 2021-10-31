@@ -471,7 +471,7 @@ Lunes, 27 Enero 2020:
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_PY]: /wiki/shared/flag/PY.gif "Paraguay"
 [flag_QA]: /wiki/shared/flag/QA.gif "Catar"
-[flag_RO]: /wiki/shared/flag/RO.gif "Rumania"
+[flag_RO]: /wiki/shared/flag/RO.gif "Rumanía"
 [flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
 [flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
 [flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
