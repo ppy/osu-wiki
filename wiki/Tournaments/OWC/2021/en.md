@@ -111,35 +111,78 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 | ![][flag_UY] | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Rebo](https://osu.ppy.sh/users/6942259), [Kazuki K](https://osu.ppy.sh/users/6407282), [FDX](https://osu.ppy.sh/users/8987016), [Rondro](https://osu.ppy.sh/users/9293124), [Saphity](https://osu.ppy.sh/users/5382216), [El Milanga](https://osu.ppy.sh/users/12264918), [Raby](https://osu.ppy.sh/users/5218320) |
 | ![][flag_VN] | **Vietnam** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [Ui chan](https://osu.ppy.sh/users/5449433), [- Mel -](https://osu.ppy.sh/users/9829680), [kiethao](https://osu.ppy.sh/users/2283137), [\[sin\]](https://osu.ppy.sh/users/11021073), [\[Boy\]DaLat](https://osu.ppy.sh/users/8266808), [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [Liyuchi](https://osu.ppy.sh/users/3275495) |
 
-## Match schedule: Round of 16
+## Match schedule: Quarterfinals
 
-### Saturday, October 30, 2021
-
-| Team A | | | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Argentina | ![][flag_AR] | ![][flag_CN] | China | Oct 30 (Sat) 04:00 UTC | Oct 30 (Sat) 01:00 UTC-3 | Oct 30 (Sat) 12:00 UTC+8 |
-| Germany | ![][flag_DE] | ![][flag_AU] | Australia | Oct 30 (Sat) 11:00 UTC | Oct 30 (Sat) 13:00 UTC+2 | Oct 30 (Sat) 22:00 UTC+11 |
-| Uruguay | ![][flag_UY] | ![][flag_PH] | Philippines | Oct 30 (Sat) 14:00 UTC | Oct 30 (Sat) 11:00 UTC-3 | Oct 30 (Sat) 22:00 UTC+8 |
-| Malaysia | ![][flag_MY] | ![][flag_FR] | France | Oct 30 (Sat) 14:00 UTC | Oct 30 (Sat) 22:00 UTC+8 | Oct 30 (Sat) 16:00 UTC+2 |
-| Austria | ![][flag_AT] | ![][flag_NO] | Norway | Oct 30 (Sat) 17:00 UTC | Oct 30 (Sat) 19:00 UTC+2 | Oct 30 (Sat) 19:00 UTC+2 |
-| United States | ![][flag_US] | ![][flag_BR] | Brazil | Oct 30 (Sat) 21:00 UTC | Oct 30 (Sat) 16:00 UTC-5 | Oct 30 (Sat) 18:00 UTC-3 |
-
-### Sunday, October 31, 2021
+### Saturday, November 06, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_TW] | Taiwan | Oct 31 (Sun) 03:00 UTC | Oct 30 (Sat) 23:00 UTC-4 | Oct 31 (Sun) 11:00 UTC+8 |
-| United Kingdom | ![][flag_GB] | ![][flag_KR] | South Korea | Oct 31 (Sun) 13:00 UTC | Oct 31 (Sun) 13:00 UTC+0 | Oct 31 (Sun) 22:00 UTC+9 |
-| Indonesia | ![][flag_ID] | ![][flag_HK] | Hong Kong | Oct 31 (Sun) 13:00 UTC | Oct 31 (Sun) 20:00 UTC+7 | Oct 31 (Sun) 21:00 UTC+8 |
-| Japan | ![][flag_JP] | ![][flag_FI] | Finland | Oct 31 (Sun) 13:00 UTC | Oct 31 (Sun) 22:00 UTC+9 | Oct 31 (Sun) 15:00 UTC+2 |
-| Singapore | ![][flag_SG] | ![][flag_UA] | Ukraine | Oct 31 (Sun) 14:00 UTC | Oct 31 (Sun) 22:00 UTC+8 | Oct 31 (Sun) 16:00 UTC+2 |
-| Poland | ![][flag_PL] | ![][flag_SE] | Sweden | Oct 31 (Sun) 15:00 UTC | Oct 31 (Sun) 16:00 UTC+1 | Oct 31 (Sun) 16:00 UTC+1 |
-| Czech Republic | ![][flag_CZ] | ![][flag_NL] | Netherlands | Oct 31 (Sun) 16:00 UTC | Oct 31 (Sun) 17:00 UTC+1 | Oct 31 (Sun) 17:00 UTC+1 |
-| Chile | ![][flag_CL] | ![][flag_RU] | Russian Federation | Oct 31 (Sun) 16:00 UTC | Oct 31 (Sun) 13:00 UTC-3 | Oct 31 (Sun) 19:00 UTC+3 |
-| Spain | ![][flag_ES] | ![][flag_RO] | Romania | Oct 31 (Sun) 17:00 UTC | Oct 31 (Sun) 18:00 UTC+1 | Oct 31 (Sun) 19:00 UTC+2 |
-| Mexico | ![][flag_MX] | ![][flag_TR] | Turkey | Oct 31 (Sun) 18:00 UTC | Oct 31 (Sun) 12:00 UTC-6 | Oct 31 (Sun) 21:00 UTC+3 |
+| Australia | ![][flag_AU] | ![][flag_SG] | Singapore | Nov 6 (Sat) 07:30 UTC | Nov 6 (Sat) 18:30 UTC+11 | Nov 6 (Sat) 15:30 UTC+8 |
+| Taiwan | ![][flag_TW] | ![][flag_TR] | Turkey | Nov 6 (Sat) 09:00 UTC | Nov 6 (Sat) 17:00 UTC+8 | Nov 6 (Sat) 11:00 UTC+2 |
+| Finland | ![][flag_FI] | ![][flag_CN] | China | Nov 6 (Sat) 10:30 UTC | Nov 6 (Sat) 12:30 UTC+2 | Nov 6 (Sat) 18:30 UTC+8 |
+| Indonesia | ![][flag_ID] | ![][flag_RO] | Romania | Nov 6 (Sat) 12:00 UTC | Nov 6 (Sat) 19:00 UTC+7 | Nov 6 (Sat) 14:00 UTC+2 |
+| South Korea | ![][flag_KR] | ![][flag_NO] | Norway | Nov 6 (Sat) 13:30 UTC | Nov 6 (Sat) 22:30 UTC+9 | Nov 6 (Sat) 14:30 UTC+1 |
+| Sweden | ![][flag_SE] | ![][flag_PH] | Philippines | Nov 6 (Sat) 15:00 UTC | Nov 6 (Sat) 16:00 UTC+1 | Nov 6 (Sat) 23:00 UTC+8 |
+| France | ![][flag_FR] | ![][flag_CL] | Chile | Nov 6 (Sat) 16:30 UTC | Nov 6 (Sat) 17:30 UTC+1 | Nov 6 (Sat) 13:30 UTC-3 |
+| Brazil | ![][flag_BR] | ![][flag_NL] | Netherlands | Nov 6 (Sat) 18:00 UTC | Nov 6 (Sat) 15:00 UTC-3 | Nov 6 (Sat) 19:00 UTC+1 |
+
+### Sunday, November 07, 2021
+
+| Team A | | | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | Nov 7 (Sun) 02:00 UTC | Nov 7 (Sun) 11:00 UTC+9 | Nov 6 (Sat) 23:00 UTC-3 |
+| Canada | ![][flag_CA] | ![][flag_JP] | Japan | Nov 7 (Sun) 03:30 UTC | Nov 6 (Sat) 23:30 UTC-4 | Nov 7 (Sun) 12:30 UTC+9 |
+| Philippines | ![][flag_PH] | ![][flag_AU] | Australia | Nov 7 (Sun) 07:30 UTC | Nov 7 (Sun) 15:30 UTC+8 | Nov 7 (Sun) 18:30 UTC+11 |
+| Sweden | ![][flag_SE] | ![][flag_AU] | Australia | Nov 7 (Sun) 10:00 UTC | Nov 7 (Sun) 11:00 UTC+1 | Nov 7 (Sun) 21:00 UTC+11 |
+| Sweden | ![][flag_SE] | ![][flag_SG] | Singapore | Nov 7 (Sun) 10:00 UTC | Nov 7 (Sun) 11:00 UTC+1 | Nov 7 (Sun) 18:00 UTC+8 |
+| Philippines | ![][flag_PH] | ![][flag_SG] | Singapore | Nov 7 (Sun) 10:00 UTC | Nov 7 (Sun) 18:00 UTC+8 | Nov 7 (Sun) 18:00 UTC+8 |
+| Finland | ![][flag_FI] | ![][flag_TW] | Taiwan | Nov 7 (Sun) 11:30 UTC | Nov 7 (Sun) 13:30 UTC+2 | Nov 7 (Sun) 19:30 UTC+8 |
+| Finland | ![][flag_FI] | ![][flag_TR] | Turkey | Nov 7 (Sun) 11:30 UTC | Nov 7 (Sun) 13:30 UTC+2 | Nov 7 (Sun) 13:30 UTC+2 |
+| China | ![][flag_CN] | ![][flag_TW] | Taiwan | Nov 7 (Sun) 11:30 UTC | Nov 7 (Sun) 19:30 UTC+8 | Nov 7 (Sun) 19:30 UTC+8 |
+| China | ![][flag_CN] | ![][flag_TR] | Turkey | Nov 7 (Sun) 11:30 UTC | Nov 7 (Sun) 19:30 UTC+8 | Nov 7 (Sun) 13:30 UTC+2 |
+| South Korea | ![][flag_KR] | ![][flag_NL] | Netherlands | Nov 7 (Sun) 13:00 UTC | Nov 7 (Sun) 22:00 UTC+9 | Nov 7 (Sun) 14:00 UTC+1 |
+| Indonesia | ![][flag_ID] | ![][flag_FR] | France | Nov 7 (Sun) 13:00 UTC | Nov 7 (Sun) 20:00 UTC+7 | Nov 7 (Sun) 14:00 UTC+1 |
+| Romania | ![][flag_RO] | ![][flag_FR] | France | Nov 7 (Sun) 13:00 UTC | Nov 7 (Sun) 15:00 UTC+2 | Nov 7 (Sun) 14:00 UTC+1 |
+| Indonesia | ![][flag_ID] | ![][flag_CL] | Chile | Nov 7 (Sun) 14:00 UTC | Nov 7 (Sun) 21:00 UTC+7 | Nov 7 (Sun) 11:00 UTC-3 |
+| Romania | ![][flag_RO] | ![][flag_CL] | Chile | Nov 7 (Sun) 14:00 UTC | Nov 7 (Sun) 16:00 UTC+2 | Nov 7 (Sun) 11:00 UTC-3 |
+| Russian Federation | ![][flag_RU] | ![][flag_HK] | Hong Kong | Nov 7 (Sun) 15:00 UTC | Nov 7 (Sun) 17:00 UTC+2 | Nov 7 (Sun) 23:00 UTC+8 |
+| Norway | ![][flag_NO] | ![][flag_BR] | Brazil | Nov 7 (Sun) 15:30 UTC | Nov 7 (Sun) 16:30 UTC+1 | Nov 7 (Sun) 12:30 UTC-3 |
+| Norway | ![][flag_NO] | ![][flag_NL] | Netherlands | Nov 7 (Sun) 15:30 UTC | Nov 7 (Sun) 16:30 UTC+1 | Nov 7 (Sun) 16:30 UTC+1 |
+| Germany | ![][flag_DE] | ![][flag_PL] | Poland | Nov 7 (Sun) 16:30 UTC | Nov 7 (Sun) 17:30 UTC+1 | Nov 7 (Sun) 17:30 UTC+1 |
+| United States | ![][flag_US] | ![][flag_GB] | United Kingdom | Nov 7 (Sun) 18:00 UTC | Nov 7 (Sun) 13:00 UTC-5 | Nov 7 (Sun) 18:00 UTC |
 
 ## Mappools
+
+### Quarterfinals
+
+**[Download the map pack here (139 MB)](https://drive.google.com/uc?id=1lhBkq0qU8hWRD6JK9vRRuSKdBEAbeVqc)**
+
+- NoMod
+  - [TRUE - Storyteller (captin1) \[Extra\]](https://osu.ppy.sh/beatmapsets/1616036#osu/3299389)
+  - [Sabaton - Twilight Of The Thunder God (Mazzerin) \[Ragnarok awaits\]](https://osu.ppy.sh/beatmapsets/1616046#osu/3299406)
+  - [Yousei Teikoku - Sacrifice (IsomirDiAngelo) \[Antares\]](https://osu.ppy.sh/beatmapsets/1616051#osu/3299411)
+  - [Zekk - Feelsleft0ut (J1\_) \[Alone (2021 Remastered)\]](https://osu.ppy.sh/beatmapsets/821587#osu/1722011)
+  - [Summoning The Lich - Death Crystal (ItsWinter) \[BLOODSTAINED SACRIFICE\]](https://osu.ppy.sh/beatmapsets/1615076#osu/3297498)
+  - [Sleeping Pola - live on kaeps (DeviousPanda) \[Fortississimo\]](https://osu.ppy.sh/beatmapsets/1616052#osu/3299412)
+- Hidden
+  - [Krewella X DISKORD - Beggars (Consouls Remix) (NeilPerry) \[Neil x Ameth's Conflux\]](https://osu.ppy.sh/beatmapsets/881753#osu/1843575)
+  - [Miku Fujimoto - Mari-Temari (DeviousPanda) \[Dance\]](https://osu.ppy.sh/beatmapsets/1262423#osu/2623967)
+  - [xi - .357 Magnum (Akali) \[High Noon\]](https://osu.ppy.sh/beatmapsets/155749#osu/546944)
+- HardRock
+  - [Wavves - Super Soaker (Elcheer) \[Stupid\]](https://osu.ppy.sh/beatmapsets/1267328#osu/2633812)
+  - [Dimrain47 - The Prototype (Nemis)](https://osu.ppy.sh/beatmapsets/1615776#osu/3298820)
+  - [True Damage - GIANTS (feat. Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose) (Sylas) \[Prestige\]](https://osu.ppy.sh/beatmapsets/1063804#osu/2229381)
+- DoubleTime
+  - [Printemps - Eien Friends (Sakaue Nachi) \[Friends\]](https://osu.ppy.sh/beatmapsets/235836#osu/546514)
+  - [-45 - System Sun (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/1616029#osu/3299371)
+  - [Hatsuki Yura - Junketsu to Toki no Tenbin (KKipalt) \[Insane OTST\]](https://osu.ppy.sh/beatmapsets/1543580#osu/3155184)
+  - [Dio ft. Sef - Aye (lesjuh) \[Aye!!\]](https://osu.ppy.sh/beatmapsets/13994#osu/53340)
+- FreeMod
+  - [Falcom Sound Team jdk - Infinity Rage (jonathanlfj) \[Stage 4\]](https://osu.ppy.sh/beatmapsets/1616017#osu/3299353)
+  - [REDALiCE - Taboo tears you up 2017 (Dada) \[Vintage\]](https://osu.ppy.sh/beatmapsets/1616043#osu/3299402)
+  - [Born Of Osiris - Rosecrance (CallieCube) \[THE RETURN OF OBAMACUBE\]](https://osu.ppy.sh/beatmapsets/1616078#osu/3299463)
+- Tiebreaker
+  - [Noah feat. Ohsera Ai - Rebirth the end Part I - Sasanqua (Deca) \[Magius\]](https://osu.ppy.sh/beatmapsets/1616079#osu/3299464)
 
 ### Round of 16
 
@@ -213,6 +256,36 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
   - [-45 - NyanNyatothep (Dada) \[Gothic Horror\]](https://osu.ppy.sh/beatmapsets/1597755#osu/3263028)
 
 ## Match results
+
+### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1WskhM_U2siPhuVn2lzsA0z7DNCkfEnxGjBslWdyxfj8/edit?rm=minimal).
+
+Saturday, October 30, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Argentina ![][flag_AR] | 1 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/93182775) |
+| Uruguay ![][flag_UY] | 1 | **5** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/93206388) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/93236872) |
+| **Canada** ![][flag_CA] | **5** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/93254527) |
+| Indonesia ![][flag_ID] | 2 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/93276244) |
+| Spain ![][flag_ES] | 0 | **5** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/93289258) |
+
+Sunday, October 31, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Germany** ![][flag_DE] | **5** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/93197788) |
+| Malaysia ![][flag_MY] | 2 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/93206469) |
+| Austria ![][flag_AT] | 2 | **5** | ![][flag_NO] **Norway** | [#1](https://osu.ppy.sh/community/matches/93219242) |
+| **United Kingdom** ![][flag_GB] | **5** | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/93276027) |
+| **Japan** ![][flag_JP] | **5** | 2 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/93276277) |
+| **Singapore** ![][flag_SG] | **5** | 1 | ![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/community/matches/93279323) |
+| **Poland** ![][flag_PL] | **5** | 3 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/93282319) |
+| Czech Republic ![][flag_CZ] | 3 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/93286037) |
+| Chile ![][flag_CL] | 1 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/93285981) |
+| Mexico ![][flag_MX] | 3 | **5** | ![][flag_TR] **Turkey** | [#1](https://osu.ppy.sh/community/matches/93292960) |
 
 ### Round of 32
 
