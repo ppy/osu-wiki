@@ -113,7 +113,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 
 ## Match schedule: Quarterfinals
 
-### Saturday, November 06, 2021
+### Saturday, November 6, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
@@ -126,7 +126,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 | France | ![][flag_FR] | ![][flag_CL] | Chile | Nov 6 (Sat) 16:30 UTC | Nov 6 (Sat) 17:30 UTC+1 | Nov 6 (Sat) 13:30 UTC-3 |
 | Brazil | ![][flag_BR] | ![][flag_NL] | Netherlands | Nov 6 (Sat) 18:00 UTC | Nov 6 (Sat) 15:00 UTC-3 | Nov 6 (Sat) 19:00 UTC+1 |
 
-### Sunday, November 07, 2021
+### Sunday, November 7, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
