@@ -216,7 +216,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 
 ### Round of 32
 
-**[Download the map pack here (105 MB)](https://drive.google.com/file/d/16AY1VaM5m_SQouIHnEFn7rG55DDc-qbi/view?usp=sharing)**
+**[Download the mappack here (105 MB)](https://drive.google.com/file/d/16AY1VaM5m_SQouIHnEFn7rG55DDc-qbi/view?usp=sharing)**
 
 - NoMod
   - [Imy - Divine's Game (Nao Tomori) \[Extra\]](https://osu.ppy.sh/beatmapsets/1604377#osu/3276259)
