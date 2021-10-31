@@ -170,7 +170,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
   - [xi - .357 Magnum (Akali) \[High Noon\]](https://osu.ppy.sh/beatmapsets/155749#osu/546944)
 - HardRock
   - [Wavves - Super Soaker (Elcheer) \[Stupid\]](https://osu.ppy.sh/beatmapsets/1267328#osu/2633812)
-  - [Dimrain47 - The Prototype (Nemis)](https://osu.ppy.sh/beatmapsets/1615776#osu/3298820)
+  - [Dimrain47 - The Prototype (Nemis) \[Ex†ra\]](https://osu.ppy.sh/beatmapsets/1615776#osu/3298820)
   - [True Damage - GIANTS (feat. Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose) (Sylas) \[Prestige\]](https://osu.ppy.sh/beatmapsets/1063804#osu/2229381)
 - DoubleTime
   - [Printemps - Eien Friends (Sakaue Nachi) \[Friends\]](https://osu.ppy.sh/beatmapsets/235836#osu/546514)
