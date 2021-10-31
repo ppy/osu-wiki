@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated: true
-outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -102,7 +100,7 @@ Para pemain osu! di seluruh dunia saling terhubung dan berinteraksi antar satu s
 
 [Turnamen](/wiki/Tournaments) • [Beatmap Spotlight](/wiki/Beatmap_Spotlights) • [Kontes](/wiki/Contests) • [Program komunitas mentorship](/wiki/Community_Mentorship_Program)
   
-[Proyek](/wiki/Projects): [Featured Artist](/wiki/Featured_Artists) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
+[Proyek](/wiki/Projects): [Featured Artist](/wiki/Featured_Artists) • [pertemuan komunitas osu!](/wiki/osu!_Community_Meetings) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
 
 </div>
 <div class="wiki-main-page-panel">
