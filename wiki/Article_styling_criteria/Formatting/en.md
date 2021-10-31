@@ -624,13 +624,13 @@ There are two types of image links: inline and reference. Examples:
 [GCrown]: /wiki/shared/crown-gold.png "1st place"
 ```
 
-Images should use the inline linking style. References to reference links must be placed at the bottom of the article.
+Images should use the inline linking style. Reference link definitions must be placed at the bottom of the article.
 
-The (first pair of) square brackets should contain a description of the image. It will be used by screen readers or when the image fails to load.
+The text in the first pair of square brackets (*[alternative text](#alt-text)*) is optional and should describe the image literally. It is used by screen readers or when the image fails to load.
 
-The text between the quotation marks will be displayed below the image and when hovering the mouse cursor over the image.
+The text in the quotation marks (*title text*) is optional and should give additional context to the image or indicate its meaning. It is displayed when hovering over the image and set as the [caption](#captions) if applicable.
 
-Images must be placed in a folder named `img`, located in the article's folder. Images that are used in multiple articles should be stored in the `/wiki/shared/` folder.
+Images must be placed in a folder named `img` under the article's folder. Images that are used in multiple articles should be stored in the `/wiki/shared` folder.
 
 ### Image caching
 
