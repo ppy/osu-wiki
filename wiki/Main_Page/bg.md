@@ -1,8 +1,6 @@
 ---
 layout: main_page
 no_native_review: true
-outdated: true
-outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 ---
 
 <div class="wiki-main-page__blurb">
@@ -51,7 +49,7 @@ outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 
 Раздели: [Композиране](/wiki/Beatmap_Editor/Compose) • [Дизайн](/wiki/Beatmap_Editor/Design) • [Времена](/wiki/Beatmap_Editor/Timing) • [Настройка на песен](/wiki/Beatmap_Editor/Song_Setup)
 
-Компоненти: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Такт делител](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Съкратена дистанция](/wiki/Beatmap_Editor/Distance_Snap) • [Меню](/wiki/Beatmap_Editor/Menu) • [АИ товар](/wiki/Beatmap_Editor/SB_Load) • [Времева линия](/wiki/Beatmap_Editor/Timelines)
+Компоненти: [AiMod](/wiki/Beatmap_Editor/AiMod "вградена функция за засичане бийтмап проблеми") • [Такт делител](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Съкратена дистанция](/wiki/Beatmap_Editor/Distance_Snap) • [Меню](/wiki/Beatmap_Editor/Menu) • [АИ товар](/wiki/Beatmap_Editor/SB_Load "товар от анимиранта история") • [Времева линия](/wiki/Beatmap_Editor/Timelines)
 
 Дейности: [Създаване на бийтмап](/wiki/Beatmapping) • [Техники за създаване](/wiki/Mapping_Techniques) • [Анимирана история](/wiki/Storyboard) • [Облик](/wiki/Skinning)
 
@@ -101,7 +99,7 @@ outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 
 [Турнири](/wiki/Tournaments) • [Бийтмап под прожекторите](/wiki/Beatmap_Spotlights) • [Състезания](/wiki/Contests) • [Възпитателна програма](/wiki/Community_Mentorship_Program)
 
-[Проекти](/wiki/Projects): [Представени автори](/wiki/Featured_Artists) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
+[Проекти](/wiki/Projects): [Представени автори](/wiki/Featured_Artists) • [osu! community meetings](/wiki/osu!_Community_Meetings "обществени срещи с peppy") • [osu!academy](/wiki/osu!academy "видео уроци от екипа на osu!") • [osu!mapping](/wiki/osu!mapping "видео уроци за създаване на бийтмапове") • [osu!talk](/wiki/osu!talk "интервюта и дискусии")
 
 </div>
 <div class="wiki-main-page-panel">
@@ -112,7 +110,7 @@ osu! нямаше да съществува без всички потребит
 
 [Екип](/wiki/People/The_Team): [Разработчици](/wiki/People/The_Team/Developers) • [Глобален модераторси екип](/wiki/People/The_Team/Global_Moderation_Team) • [Екип поддръжка](/wiki/People/The_Team/Support_Team) • [Екип оценяващ номинатори](/wiki/People/The_Team/Nomination_Assessment_Team) • [Бийтмап номинатори](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Екип на проект обичани](/wiki/People/The_Team/Project_Loved_Team)
 
-Организатори: [osu! UCI](/wiki/Organisations/osu!_UCI)
+Организатори: [osu! UCI](/wiki/Organisations/osu!_UCI "клуб в Калифорнийският университет, Ървайн")
 
 [Сътрудници на общност](/wiki/People/Community_Contributors) • [Потребители със специални титли](/wiki/People/Users_with_unique_titles)
 
