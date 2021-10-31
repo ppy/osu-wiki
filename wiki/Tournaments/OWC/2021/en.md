@@ -155,7 +155,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 
 ### Quarterfinals
 
-**[Download the map pack here (139 MB)](https://drive.google.com/uc?id=1lhBkq0qU8hWRD6JK9vRRuSKdBEAbeVqc)**
+**[Download the mappack here (139 MB)](https://drive.google.com/uc?id=1lhBkq0qU8hWRD6JK9vRRuSKdBEAbeVqc)**
 
 - NoMod
   - [TRUE - Storyteller (captin1) \[Extra\]](https://osu.ppy.sh/beatmapsets/1616036#osu/3299389)
@@ -186,7 +186,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 
 ### Round of 16
 
-**[Download the map pack here (125 MB)](https://drive.google.com/file/d/1a5Y_JvVKGSuN_WofpDz22pIvHyBUb33D/view?usp=sharing)**
+**[Download the mappack here (125 MB)](https://drive.google.com/file/d/1a5Y_JvVKGSuN_WofpDz22pIvHyBUb33D/view?usp=sharing)**
 
 - NoMod
   - [Comela - Wing of Destiny (Nana Abe) \[OWC Tyrant\]](https://osu.ppy.sh/beatmapsets/1610199#osu/3287700)
@@ -212,7 +212,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 
 ### Round of 32
 
-**[Download the map pack here (105 MB)](https://drive.google.com/file/d/16AY1VaM5m_SQouIHnEFn7rG55DDc-qbi/view?usp=sharing)**
+**[Download the mappack here (105 MB)](https://drive.google.com/file/d/16AY1VaM5m_SQouIHnEFn7rG55DDc-qbi/view?usp=sharing)**
 
 - NoMod
   - [Imy - Divine's Game (Nao Tomori) \[Extra\]](https://osu.ppy.sh/beatmapsets/1604377#osu/3276259)
@@ -238,7 +238,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 
 ### Qualifiers
 
-**[Download the map pack here (67 MB)](https://drive.google.com/file/d/1_mOT-KqbDzj0OL3FqVwJARAovXpDzi7f/view?usp=sharing)**
+**[Download the mappack here (67 MB)](https://drive.google.com/file/d/1_mOT-KqbDzj0OL3FqVwJARAovXpDzi7f/view?usp=sharing)**
 
 - NoMod
   - [LiSA - Confidence Driver (Skyflame) \[Assurance\]](https://osu.ppy.sh/beatmapsets/1597778#osu/3263082)
@@ -261,7 +261,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1WskhM_U2siPhuVn2lzsA0z7DNCkfEnxGjBslWdyxfj8/edit?rm=minimal).
 
-Saturday, October 30, 2021
+Saturday, October 30, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -272,7 +272,7 @@ Saturday, October 30, 2021
 | Indonesia ![][flag_ID] | 2 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/93276244) |
 | Spain ![][flag_ES] | 0 | **5** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/93289258) |
 
-Sunday, October 31, 2021
+Sunday, October 31, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -291,7 +291,7 @@ Sunday, October 31, 2021
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1kClnYXvl4J7NzJAafr5R1iAn3M4-a0udwrq_R_IcKPM/edit?rm=minimal).
 
-Saturday, October 23, 2021
+Saturday, October 23, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -301,7 +301,7 @@ Saturday, October 23, 2021
 | **Indonesia** ![][flag_ID] | **5** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/92870261) |
 | Romania ![][flag_RO] | 3 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/92883661) |
 
-Sunday, October 24, 2021
+Sunday, October 24, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
