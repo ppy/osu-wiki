@@ -58,8 +58,8 @@ osu! World Cup adalah sebuah turnamen berbasis negara dengan sistem lawan tim 4v
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
-| Nama | Mulai | Selesai | Mode | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania World Cup 2014](MWC/2014) (4K) | 2014-07-01 | 2014-09-14 | ![][flag_KR] Korea Selatan | ![][flag_PH] Filipina | ![][flag_MY] Malaysia |
 | [osu!mania World Cup 2014](MWC/2014) (7K) | 2014-07-01 | 2014-09-14 | ![][flag_KR] Korea Selatan | ![][flag_TH] Thailand | ![][flag_MY] Malaysia |
 | [osu!mania 4K World Cup 2015](MWC/2015) | 2015-07-13 | 2015-09-27 | ![][flag_US] Amerika Serikat | ![][flag_JP] Jepang | ![][flag_GB] Britania Raya |
