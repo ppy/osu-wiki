@@ -33,7 +33,7 @@ Als Wegweiser in die Welt des Rhythmus, des Beats und der Blitzlichter hat osu! 
 
 # Spielverlauf
 
-Alles über das Klicken von Kreisen, Trommelnschlagen, Früchteschnappen und den Synthesizer zu spielen: Hauptelemente, Konzepte und das kompetitive Spiel.
+Alles über das Klicken von Kreisen, das Schlagen der Trommeln, das Schnappen von Früchten und das Spielen des Synthesizers: Hauptelemente, Konzepte und das kompetitive Spiel.
 
 [Spielmodi](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
