@@ -11,7 +11,7 @@ Willkommen zum osu!-Wiki. Ein Projekt, das eine große Reichweite an osu!-basier
 
 # Erste Schritte
 
-Wichtige Artikel und Tutorials, die dir dabei helfen, in die Welt von osu! einzutauchen. Wenn etwas unklar ist, besuche unbedingt den [Hilfeforum](https://osu.ppy.sh/forum/5).
+Wichtige Artikel und Tutorials, die dir dabei helfen, in die Welt von osu! einzutauchen. Wenn etwas unklar ist, besuche unbedingt das [Hilfeforum](https://osu.ppy.sh/forum/5).
 
 [Regeln](/wiki/Rules) • [Installation](/wiki/Installation) • [Registrierung](/wiki/Registration) • [Hilfe-Center](/wiki/Help_Centre)
 
