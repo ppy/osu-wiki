@@ -106,7 +106,7 @@ Eine aktive Community sind eines der Dinge, die osu! voranbringen. Entdecke die 
 
 # Personen
 
-osu! würde nicht ohne die Hilfe von vielen Menschen der Entwicklung, Wartung und Community-Management existieren. Ihre Mühen, Zeit und Hingabe ist es zu verdanken, dass das Spiel weiterentwickelt wird.
+osu! würde nicht ohne die Hilfe von vielen Menschen existieren, die in der Entwicklung, Wartung und des Community-Managements tätig sind. Ihrer Mühen, Zeit und Hingabe ist es zu verdanken, dass das Spiel weiterentwickelt wird.
 
 [Das Team](/wiki/People/The_Team): [Entwickler](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
 
