@@ -10,6 +10,7 @@ Ein normaler Artikel, mit einem ähnlichen Titel, muss die Kopfnote ["Für ander
 - [Easy](Easy)
 - [EZ](EZ)
 - [Mod](Mod)
+- [Combo](Combo)
 - [Fail](Fail)
 - [NC](NC)
 - [NM](NM)
