@@ -128,7 +128,7 @@ Interagiere mit osu! durch andere Applikationen und Medien oder helfe bei seiner
 
 # Über das Wiki
 
-Fast wie alles hier, wird auch das osu!-Wiki von Freiwilligen verwaltet und betrieben. Schlage eine Idee vor, melde einen Fehler oder schreibe selbst einen Artikel im [osu-wiki GitHub-Verzeichnis](https://github.com/ppy/osu-wiki).
+Wie fast alles hier, wird auch das osu!-Wiki von Freiwilligen verwaltet und betrieben. Schlage eine Idee vor, melde einen Fehler oder schreibe selbst einen Artikel im [osu-wiki GitHub-Verzeichnis](https://github.com/ppy/osu-wiki).
 
 [Geschichte von osu!](/wiki/History_of_osu!) • [Geschichte des osu!-Wikis](/wiki/History_of_osu!/osu!_wiki) • [Mapping und Modding Übersicht](/wiki/Mapping_and_Modding_Timeline) • [Aprilscherze](/wiki/History_of_osu!/April_Fools)
 
