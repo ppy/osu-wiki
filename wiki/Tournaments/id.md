@@ -1,6 +1,6 @@
 # Turnamen
 
-Bagian ini diperuntukkan untuk turnamen osu!. Turnamen memiliki forum khusus yang dapat kamu temukan [melewati tautan ini](https://osu.ppy.sh/community/forums/55).
+Laman ini diperuntukkan untuk turnamen-turnamen yang ada di osu!. Turnamen memiliki forum khusus yang dapat kamu temukan [pada tautan berikut](https://osu.ppy.sh/community/forums/55).
 
 ## Turnamen Resmi
 
@@ -8,7 +8,7 @@ Turnamen resmi yang diselenggarakan oleh Pengelola Turnamen.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-osu! World Cup adalah sebuah turnamen berbasis negara dengan sistem lawan tim 4v4 dengan aturan eliminasi ganda. Turnamen ini merupakan ajang internasional yang dilakukan setahun sekali dengan komunitas osu! dari seluruh dunia yang bekerja sama untuk membuat turnamen yang menciptakan persaingan kompetitif.
+osu! World Cup merupakan turnamen antar negara yang menganut sistem pertandingan *team versus* 4v4 dengan aturan eliminasi ganda (*double elimination*). Turnamen ini merupakan ajang internasional yang diselenggarakan setahun sekali oleh para anggota komunitas osu! dari seluruh dunia yang saling bekerja sama untuk menciptakan turnamen yang kompetitif.
 
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -17,8 +17,8 @@ osu! World Cup adalah sebuah turnamen berbasis negara dengan sistem lawan tim 4v
 | [osu! World Cup #3](OWC/3) | 2012-10-25 | 2013-01-20 | ![][flag_KR] Korea Selatan | ![][flag_JP] Jepang | ![][flag_TW] Taiwan |
 | [osu! World Cup 2013](OWC/2013) | 2013-10-15 | 2013-12-08 | ![][flag_KR] Korea Selatan | ![][flag_TW] Taiwan | ![][flag_PL] Polandia |
 | [osu! World Cup 2014](OWC/2014) | 2014-10-02 | 2014-12-14 | ![][flag_JP] Jepang | ![][flag_PL] Polandia | ![][flag_DE] Jerman |
-| [osu! World Cup 2015](OWC/2015) | 2015-10-01 | 2015-12-13 | ![][flag_US] Amerika Serikat | ![][flag_CN] Cina | ![][flag_PL] Polandia |
-| [osu! World Cup 2016](OWC/2016) | 2016-10-02 | 2016-12-18 | ![][flag_US] Amerika Serikat | ![][flag_CN] Cina | ![][flag_KR] Korea Selatan |
+| [osu! World Cup 2015](OWC/2015) | 2015-10-01 | 2015-12-13 | ![][flag_US] Amerika Serikat | ![][flag_CN] Tiongkok | ![][flag_PL] Polandia |
+| [osu! World Cup 2016](OWC/2016) | 2016-10-02 | 2016-12-18 | ![][flag_US] Amerika Serikat | ![][flag_CN] Tiongkok | ![][flag_KR] Korea Selatan |
 | [osu! World Cup 2017](OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] Polandia | ![][flag_US] Amerika Serikat | ![][flag_GB] Britania Raya |
 | [osu! World Cup 2018](OWC/2018) | 2018-11-10 | 2018-12-16 | ![][flag_US] Amerika Serikat | ![][flag_GB] Britania Raya | ![][flag_DE] Jerman |
 | [osu! World Cup 2019](OWC/2019) | 2019-11-09 | 2019-12-22 | ![][flag_US] Amerika Serikat | ![][flag_KR] Korea Selatan | ![][flag_GB] Britania Raya |
@@ -29,7 +29,7 @@ osu! World Cup adalah sebuah turnamen berbasis negara dengan sistem lawan tim 4v
 
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Taiko World Cup 2011](TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] Taiwan | ![][flag_JP] Jepang | ![][flag_CN] Cina |
+| [Taiko World Cup 2011](TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] Taiwan | ![][flag_JP] Jepang | ![][flag_CN] Tiongkok |
 | [Taiko World Cup 2012](TWC/2012) | 2012-02-11 | 2012-04-01 | ![][flag_JP] Jepang A | ![][flag_HK] Hong Kong A | ![][flag_JP] Jepang B |
 | [Taiko World Cup #3](TWC/3) | 2012-09-22 | 2013-03-24 | ![][flag_TW] Taiwan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Jepang A |
 | [osu! Taiko World Cup 2014](TWC/2014) | 2014-01-16 | 2014-03-09 | ![][flag_JP] Jepang | ![][flag_HK] Hong Kong | ![][flag_FR] Prancis |
@@ -45,15 +45,15 @@ osu! World Cup adalah sebuah turnamen berbasis negara dengan sistem lawan tim 4v
 
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Catch the Beat World Cup](CWC/1) | 2011-11-05 | 2012-05-02 | ![][flag_CN] Cina | ![][flag_TW] half manual player team | ![][flag_CL] Chili |
+| [Catch the Beat World Cup](CWC/1) | 2011-11-05 | 2012-05-02 | ![][flag_CN] Tiongkok | ![][flag_TW] half manual player team | ![][flag_CL] Chili |
 | [Catch the Beat World Cup 2013](CWC/2013) | 2013-01-15 | 2013-03-10 | ![][flag_CL] Chili | ![][flag_TW] Taiwan | ![][flag_AR] Argentina/Kolombia |
 | [osu! Catch the Beat World Cup 2014](CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] Korea Selatan | ![][flag_DE] Jerman | ![][flag_SE] Swedia |
-| [osu!ctb World Cup 2015](CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] Korea Selatan | ![][flag_CN] Cina | ![][flag_DE] Germany |
-| [osu!catch World Cup 2016](CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] Cina | ![][flag_ID] Indonesia | ![][flag_DE] Germany |
-| [osu!catch World Cup 2017](CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] Korea Selatan | ![][flag_CN] Cina | ![][flag_ID] Indonesia |
-| [osu!catch World Cup 2018](CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] Cina | ![][flag_US] Amerika Serikat | ![][flag_CL] Chili |
-| [osu!catch World Cup 2019](CWC/2019) | 2019-06-29 | 2019-08-04 | ![][flag_KR] Korea Selatan | ![][flag_CN] Cina | ![][flag_CL] Chili |
-| [osu!catch World Cup 2020](CWC/2020) | 2020-05-09 | 2020-06-14 | ![][flag_KR] Korea Selatan | ![][flag_CN] Cina | ![][flag_US] Amerika Serikat |
+| [osu!ctb World Cup 2015](CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] Korea Selatan | ![][flag_CN] Tiongkok | ![][flag_DE] Jerman |
+| [osu!catch World Cup 2016](CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] Tiongkok | ![][flag_ID] Indonesia | ![][flag_DE] Jerman |
+| [osu!catch World Cup 2017](CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] Korea Selatan | ![][flag_CN] Tiongkok | ![][flag_ID] Indonesia |
+| [osu!catch World Cup 2018](CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] Tiongkok | ![][flag_US] Amerika Serikat | ![][flag_CL] Chili |
+| [osu!catch World Cup 2019](CWC/2019) | 2019-06-29 | 2019-08-04 | ![][flag_KR] Korea Selatan | ![][flag_CN] Tiongkok | ![][flag_CL] Chili |
+| [osu!catch World Cup 2020](CWC/2020) | 2020-05-09 | 2020-06-14 | ![][flag_KR] Korea Selatan | ![][flag_CN] Tiongkok | ![][flag_US] Amerika Serikat |
 | [osu!catch World Cup 2021](CWC/2021) | 2021-05-01 | 2021-06-06 | ![][flag_KR] Korea Selatan | ![][flag_HK] Hong Kong | ![][flag_US] Amerika Serikat |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
@@ -63,13 +63,13 @@ osu! World Cup adalah sebuah turnamen berbasis negara dengan sistem lawan tim 4v
 | [osu!mania World Cup 2014](MWC/2014) (4K) | 2014-07-01 | 2014-09-14 | ![][flag_KR] Korea Selatan | ![][flag_PH] Filipina | ![][flag_MY] Malaysia |
 | [osu!mania World Cup 2014](MWC/2014) (7K) | 2014-07-01 | 2014-09-14 | ![][flag_KR] Korea Selatan | ![][flag_TH] Thailand | ![][flag_MY] Malaysia |
 | [osu!mania 4K World Cup 2015](MWC/2015) | 2015-07-13 | 2015-09-27 | ![][flag_US] Amerika Serikat | ![][flag_JP] Jepang | ![][flag_GB] Britania Raya |
-| [osu!mania 7K World Cup 2016](MWC/2016_7K) | 2015-12-01 | 2016-02-14 | ![][flag_CN] Cina | ![][flag_KR] Korea Selatan | ![][flag_MY] Malaysia |
+| [osu!mania 7K World Cup 2016](MWC/2016_7K) | 2015-12-01 | 2016-02-14 | ![][flag_CN] Tiongkok | ![][flag_KR] Korea Selatan | ![][flag_MY] Malaysia |
 | [osu!mania 4K World Cup 2016](MWC/2016_4K) | 2016-06-28 | 2016-09-11 | ![][flag_KR] Korea Selatan | ![][flag_BR] Brazil | ![][flag_US] Amerika Serikat |
-| [osu!mania 7K World Cup 2017](MWC/2017_7K) | 2016-12-12 | 2017-02-12 | ![][flag_KR] Korea Selatan | ![][flag_CN] Cina | ![][flag_ID] Indonesia |
+| [osu!mania 7K World Cup 2017](MWC/2017_7K) | 2016-12-12 | 2017-02-12 | ![][flag_KR] Korea Selatan | ![][flag_CN] Tiongkok | ![][flag_ID] Indonesia |
 | [osu!mania 4K World Cup 2017](MWC/2017_4K) | 2017-07-10 | 2017-09-17 | ![][flag_KR] Korea Selatan | ![][flag_US] Amerika Serikat | ![][flag_BR] Brazil |
-| [osu!mania 7K World Cup 2018](MWC/2018_7K) | 2018-02-10 | 2018-03-18 | ![][flag_KR] Korea Selatan | ![][flag_MY] Malaysia | ![][flag_CN] Cina |
+| [osu!mania 7K World Cup 2018](MWC/2018_7K) | 2018-02-10 | 2018-03-18 | ![][flag_KR] Korea Selatan | ![][flag_MY] Malaysia | ![][flag_CN] Tiongkok |
 | [osu!mania 4K World Cup 2018](MWC/2018_4K) | 2018-09-01 | 2018-10-07 | ![][flag_KR] Korea Selatan | ![][flag_US] Amerika Serikat | ![][flag_BR] Brazil |
-| [osu!mania 7K World Cup 2019](MWC/2019_7K) | 2019-02-09 | 2019-03-17 | ![][flag_KR] Korea Selatana | ![][flag_PH] Filipina | ![][flag_CN] Cina |
+| [osu!mania 7K World Cup 2019](MWC/2019_7K) | 2019-02-09 | 2019-03-17 | ![][flag_KR] Korea Selatana | ![][flag_PH] Filipina | ![][flag_CN] Tiongkok |
 | [osu!mania 4K World Cup 2019](MWC/2019_4K) | 2019-09-21 | 2019-10-27 | ![][flag_KR] Korea Selatan | ![][flag_BR] Brazil | ![][flag_US] Amerika Serikat |
 | [osu!mania 4K World Cup 2020](MWC/2020_4K) | 2020-08-15 | 2020-09-20 | ![][flag_BR] Brazil | ![][flag_JP] Jepang | ![][flag_KR] Korea Selatan |
 | [osu!mania 4K World Cup 2021](MWC/2021_4K) | 2021-07-31 | 2021-09-19 | ![][flag_BR] Brazil | ![][flag_US] Amerika Serikat | ![][flag_MY] Malaysia |
@@ -363,7 +363,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [3 Digit Taiko World Cup](3TWC/1) | 2021-01-09 | 2021-02-21 | ![][flag_CN] Cina | ![][flag_KR] Korea Selatan | ![][flag_MY] Malaysia |
+| [3 Digit Taiko World Cup](3TWC/1) | 2021-01-09 | 2021-02-21 | ![][flag_CN] Tiongkok | ![][flag_KR] Korea Selatan | ![][flag_MY] Malaysia |
 
 #### Asian-Oceanian Taiko Showdown
 
@@ -409,7 +409,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | [Continental Global Taiko Showdown 2019](GTS/CGTS_2019) | 2019-11-02 | 2020-02-02 | Asia (Global), ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) (Asia), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) (Eropa), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) (Amerika Utara), ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) (Oceania/Asia Tenggara), ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) (Amerika Selatan) | Europe (Global), ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) (Asia), ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) (Eropa), ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) (Amerika Utara), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992) (Oceania/Asia Tenggara), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738) (Amerika Selatan) | Amerika Utara (Global), ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968) (Asia), ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) (Eropa), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) (Amerika Utara), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) (Oceania/Asia Tenggara), ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857) (Amerika Selatan) |
 | [Expert Global Taiko Showdown 2020](GTS/EGTS_2020) | 2020-30-05 | 2020-07-18 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) |
 | [Intermediate Global Taiko Showdown 2020](GTS/IGTS_2020) | 2020-06-06 | 2020-07-19 | ![][flag_US] Amerika Serikat A | ![][flag_JP] Jepang A | ![][flag_SG] Singapura |
-| [Advanced Global Taiko Showdown 2020](GTS/AGTS_2020) | 2020-09-12 | 2020-11-01 | ![][flag_SG] Singapura | ![][flag_CN] Cina A | ![][flag_JP] Jepang A |
+| [Advanced Global Taiko Showdown 2020](GTS/AGTS_2020) | 2020-09-12 | 2020-11-01 | ![][flag_SG] Singapura | ![][flag_CN] Tiongkok A | ![][flag_JP] Jepang A |
 | [Beginners Global Taiko Showdown 2020](GTS/BGTS_2020) | 2020-12-05 | 2021-02-07 | ![][flag_HK] Hong Kong | ![][flag_CA] Kanada | ![][flag_RO] Rumania |
 | [Continental Global Taiko Showdown 2021](GTS/CGTS_2021) | 2021-02-06 | 2021-04-17 | Asia | Eropa | Amerika Utara |
 | [Advanced Global Taiko Showdown 2021](GTS/AGTS_2021) | 2021-05-15 | 2021-06-27 | ![][flag_US] Amerika Serikat A | ![][flag_SG] Singapura A | ![][flag_MY] Malaysia A |
