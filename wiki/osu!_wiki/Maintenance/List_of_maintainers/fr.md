@@ -4,7 +4,6 @@ Les maintainers s'occupent régulièrement des [Suivi des problèmes](https://gi
 
 Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une révision de votre pull request, envoyez un message dans le canal `#osu-wiki` du [serveur Discord osu!dev](/wiki/osu!dev_Discord_server) et un maintainer ou un autre contributeur vous répondra (tous les maintainers connaissent l'anglais).
 
-
 ## L'équipe du wiki
 
 | Profil osu! | Profil GitHub | Status | Langues supplémentaires |

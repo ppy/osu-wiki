@@ -31,7 +31,7 @@ Les articles sont composés selon les [critères de style](/wiki/Article_styling
 
 Bien que son nom contienne le suffixe *wiki*, le osu! wiki ne répond pas entièrement au [concept de wiki](https://fr.wikipedia.org/wiki/Wiki) :
 
-- Les utilisateurs sont encouragés à améliorer les articles existants et à en créer de nouveaux, mais une connaissance de base de [GitHub] (https://github.com) est attendue, ce qui augmente le seuil nécessaire pour entrer.
+- Les utilisateurs sont encouragés à améliorer les articles existants et à en créer de nouveaux, mais une connaissance de base de [GitHub](https://github.com) est attendue, ce qui augmente le seuil nécessaire pour entrer.
 - Tous les changements apportés au osu! wiki sont prémodérés et font l'objet d'un processus d'examen, au cours duquel le contributeur doit collaborer avec les maintainers du wiki et répondre aux commentaires.
 
 ## Licence
