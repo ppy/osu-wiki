@@ -8,7 +8,7 @@ Grace your eardrums with music by **linear ring** — our newest Featured Artist
 
 ![](https://assets.ppy.sh/artists/213/header.jpg)
 
-Aiming to emotionally move listeners with each note, **linear ring** is the mind behind an ever-growing collection of future bass and electro house tunes. Along with visual designer *mozuya*, he first stepped into the rhythm game spotlight through the song *enchanted love* in  BOFXVI, later making its way to *Lanota* (and now osu!).
+Aiming to emotionally move listeners with each note, **linear ring** is the mind behind an ever-growing collection of future bass and electro house tunes. Along with visual designer *mozuya*, he first stepped into the rhythm game spotlight through the song *enchanted love* in  BOFXVI, later making its way to *Arcaea* (and now osu!).
 
 **9** tracks are ready for your mapper jaws to chew on, all available from [**linear ring**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/213)!
 
