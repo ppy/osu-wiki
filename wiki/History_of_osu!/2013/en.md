@@ -71,7 +71,7 @@ Game modifiers naming in results has been shorten (e.g. "Hard Rock" to "HR") to 
 
 During replays, half-speed replay has been added (after pressing `2x` Speed, it will show `0.5x` Speed). The playfield will not flash out the background at 100% dim. [Catch the Beat](/wiki/Game_mode/osu!catch) received joystick support (Up/Down: change song, Right: select, Left: exit).
 
-[A new ranking/modding system is in development](https://osu.ppy.sh/community/forums/topics/129625) which will replace the ancient forum-styled modding threads.
+[A new ranking/modding system is in development](https://osu.ppy.sh/community/forums/topics/129625) which will replace the ancient [forum-styled modding](/wiki/Modding/Forum_modding) threads.
 
 For Multi mode, players can now use Special mod (Relax/Autopilot/SpunOut/ManiaKeys) when Free Mod is enabled by the host. At the skinning side of things, widescreen taiko (taiko `@2x`) default sprites have been added. Favourite A/B have removed completely and superseded by the Collections.
 
