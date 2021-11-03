@@ -1,103 +1,88 @@
-# Interface Web GitHub
+# Interface web de GitHub 
 
-*Cet article est la continuité de la page principale.* Si vous envisagez de modifier plusieurs articles (y compris le téléchargement, la suppression et/ou le déplacement d'images ou de fichiers), veuillez consulter l'autre guide, [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop).
+*Cet article est la suite de [la page principale](/wiki/osu!_wiki/Contribution_guide).* Si vous devez apporter des modifications à plusieurs articles (y compris le téléchargement, la suppression et/ou le déplacement d'images ou de fichiers), veuillez consulter l'autre guide, [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop).
 
 ## Édition
 
-1\. Ouvrez l'onglet de code sur votre fork (vous devriez déjà être sur cet onglet).
+1. Ouvrez l'onglet code de votre fork (vous devriez déjà être sur cet onglet).
 
-2\. Accédez au fichier que vous souhaitez modifier. Les articles sont situés dans le dossier `wiki` et sont organisés par les noms de dossier qui sont les noms d'article, tandis que les fichiers `.md` sont les traductions.
+2. Naviguez jusqu'au fichier que vous voulez modifier. Les articles sont situés dans le dossier `wiki` et sont organisés par les noms de dossiers qui sont les noms des articles, tandis que les fichiers `.md` sont les traductions.
 
-3\. Une fois que vous avez trouvé le bon fichier, cliquez dessus.
+3. Une fois que vous avez trouvé le bon fichier, cliquez dessus.
 
-4\. Cliquez sur l'icône du crayon.
+4. Cliquez sur l'icône de crayon.
 
-![](img/online-editing.jpg "En cliquant sur cette icône représentant un crayon dans GitHub, vous accédez à l'éditeur Web.")
+   ![](img/online-editing.jpg "En cliquant sur cette icône en forme de crayon dans GitHub, vous serez dirigé vers l'éditeur web.")
 
-5\. Vous pouvez maintenant apporter vos modifications. Lorsque vous effectuez des modifications, essayez de suivre les [Critères de style pour les articles](/wiki/Article_styling_criteria) aussi fidèlement que possible.
+5. Vous pouvez maintenant apporter vos modifications. Lorsque vous apportez des modifications, suivez les [Critères de mise en forme des articles](/wiki/Article_styling_criteria) aussi fidèlement que possible.
 
-6\. Continuez à [Saving and committing](#saving-and-committing).
+6. Continuer vers [Sauvegarde et commit](#sauvegarde-et-commit).
 
-### Déplacement de fichiers
+### Déplacer des fichiers
 
-- Attention: Ceci est **non recommandé** car vous ne pouvez déplacer qu'un fichier à la fois! Cela peut créer plusieurs commits "stupides" qui peuvent amener les relecteurs à fermer ou à rejeter votre pull request! *
+*Attention : Ceci n'est **pas recommandé** car vous ne pouvez déplacer qu'un seul fichier à la fois. Cela peut créer de multiples commits "muets" qui peuvent inciter les réviseurs à [fermer ou bloquer votre pull request](/wiki/osu!_wiki/Contribution_guide/Best_practices#faire-des-modifications) !*
 
-1\. Naviguez jusqu'au fichier que vous souhaitez déplacer et ouvrez-le.
+1. Naviguez jusqu'au fichier que vous voulez déplacer et ouvrez-le.
 
-2\. Cliquez sur l'icône du crayon.
+2. Cliquez sur l'icône de crayon.
 
-3\. Au-dessus de l'éditeur de texte, il y a un chemin pour l'emplacement du fichier, cliquez sur la zone de texte du fichier actuel.
+3. Au-dessus de l'éditeur de texte, il y a un chemin pour l'emplacement du fichier, cliquez sur la zone de texte pour le fichier actuel.
 
-![](img/online-move.jpg)
+   ![](img/online-move.jpg)
 
-4\. Pour changer le chemin, appuyez sur `Backspace` et répétez jusqu'à ce que la zone de texte recule d'un niveau. Pour monter le fichier d’un niveau à l’autre, appuyez sur `/`.
+4. Pour changer le chemin, appuyez sur `Retour` et répétez jusqu'à ce que la zone de texte recule d'un niveau. Pour remonter le fichier d'un niveau, appuyez sur `/`.
 
-5\. Une fois que vous avez atteint le niveau requis, saisissez un autre nom de dossier et/ou le nom de la région (en minuscules) suivi de `.md`.
+5. Une fois que vous êtes au niveau requis, tapez soit un autre nom de dossier et/ou le nom de la locale (en lettres minuscules) suivi de `.md`.
 
-6\. Continuez à [Saving and committing](#saving-and-committing).
+6. Continuer vers [Sauvegarde et commit](#sauvegarde-et-commit).
 
-### Création de fichiers
+### Créer des fichiers
 
-1\. Ouvrez l'onglet de code sur votre fork.
+1. Ouvrez l'onglet code de votre fork.
+2. Naviguez vers le dossier où vous avez l'intention de créer le fichier.
+3. Cliquez sur `Create new file`.
+4. Entrez l'emplacement et/ou le nom du fichier de l'article que vous créez. Le chemin doit commencer par `wiki/`, suivi du titre de l'article, puis du nom de la locale (en lettres minuscules) suivi de `.md`. Pour obtenir une liste des paramètres locaux, consultez [Locales dans les critères de style des articles](/wiki/Article_styling_criteria/Formatting#locales).
+5. Continuer vers [Sauvegarde et commit](#sauvegarde-et-commit).
 
-2\. Accédez au dossier dans lequel les fichiers doivent être téléchargés.
+### Télécharger des fichiers
 
-3\. Cliquez sur `Create new file`.
+1. Ouvrez l'onglet code de votre fork.
+2. Naviguez vers le dossier dans lequel vous avez l'intention de télécharger le fichier.
+3. Cliquez sur `Upload files`.
+4. Sélectionnez les fichiers que vous souhaitez télécharger.
+5. Continuer vers [Sauvegarde et commit](#sauvegarde-et-commit).
 
-4\. Entrez l'emplacement et/ou le nom de fichier de l'article que vous créez. Le chemin doit commencer par `wiki/`, suivi du titre de l'article, suivi du nom de l'environnement local (en minuscules) suivi de `.md`. ou une liste de lieux, voir le [Paramètres régionaux dans les critères de style d'article](/wiki/Article_styling_criteria/Formatting#locales).
+*Remarque : vous pouvez également télécharger des dossiers*, ce qui peut être utile pour ceux qui souhaitent créer de nouveaux articles localement.
 
-5\. Continuez à [Saving and committing](#saving-and-committing).
+### Deleting files
 
-### Téléchargement de fichiers
+*Attention : Ceci n'est **pas recommandé** car vous ne pouvez supprimer qu'un seul fichier à la fois. Cela peut créer de multiples commits "muets" qui peuvent inciter les réviseurs à [fermer ou bloquer votre demande de pull](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits) !*
 
-1\. Ouvrez l'onglet de code sur votre fork.
+1. Ouvrez l'onglet code de votre fork.
+2. Naviguez jusqu'au fichier que vous voulez supprimer et ouvrez-le.
+3. Cliquez sur l'icône de la corbeille.
+4. Continuer vers [Sauvegarde et commit](#sauvegarde-et-commit).
 
-2\. Accédez au dossier dans lequel les fichiers doivent être téléchargés.
+## Sauvegarde et commit
 
-3\. Cliquez sur `Upload files`.
+1. Lorsque vous avez terminé les modifications, faites défiler la page jusqu'au bas de la page. Vous verrez peut-être quelque chose de similaire à ceci :
 
-4\. Sélectionnez les fichiers que vous souhaitez télécharger.
+   ![](img/online-commit-changes-empty.jpg "S'il vous plaît, ne les laissez pas vides !")
 
-5\. Continuez à [Saving and committing](#saving-and-committing).
+2. **Quoique vous fassiez, ne laissez jamais la zone de texte du titre vide !** Saisissez plutôt le titre de l'article et un bref résumé de toutes les modifications que vous avez apportées **en anglais**.
 
-*Remarque: vous pouvez également télécharger des dossiers.* Cela peut être utile pour ceux qui souhaitent créer de nouveaux articles localement.
+3. Vous pouvez utiliser la description optionnelle pour être plus détaillé si nécessaire. Un bon commit peut ressembler à quelque chose comme ceci :
 
-### Suppression de fichiers
+   ![](img/online-commit-changes-filled.jpg "C'est bien !")
 
-*Attention: Ceci est **non recommandé** car vous ne pouvez supprimer qu'un fichier à la fois! Cela peut créer plusieurs commits "stupides" qui peuvent amener les relecteurs à fermer ou à rejeter votre pull request !*
+4. Si c'est la première modification que vous effectuez pour cet article, sélectionnez l'option `Create a new branch for this commit and start a pull request.`. Cela vous permettra d'effectuer des modifications multiples, mais différentes, de l'article à l'avenir (passez à l'étape 5). Sinon, sélectionnez l'option `Commit directory to the {xxxxxx} branch` (et passez à l'étape 6).
 
-1\. Ouvrez l'onglet de code sur votre fork.
+5. Nommez cette branche comme vous le souhaitez, assurez-vous simplement de noter le nom que vous avez choisi.
 
-1\. Naviguez jusqu'au fichier que vous souhaitez supprimer et ouvrez-le.
+6. Cliquez sur le bouton vert ; il indiquera soit `Propose file change` soit `Commit changes`, selon que vous créez une nouvelle branche ou non.
 
-3\. Cliquez sur l'icône de la corbeille.
+7. Cela fera deux choses : enregistrer vos modifications dans la branche que vous venez de nommer, puis ouvrir la page de pull request.
 
-4\. Continuez à [Saving and committing](#saving-and-committing).
+   ![](img/pull-request-pippi-osu--osu-wiki.jpg "Ne faites rien ici (ce n'est pas la bonne page !)")
 
-## Saving and committing
-
-1\. Lorsque vous avez terminé vos modifications, faites défiler vers le bas de la page. Vous pouvez voir quelque chose de semblable à ceci:
-
-![](img/online-commit-changes-empty.jpg "S'il vous plaît ne laissez pas ceci vide !")
-
-2\. **Quoi que vous fassiez, ne laissez jamais la zone de texte du titre vide!** A la place, entrez le titre de l'article et un court résumé de toutes les modifications que vous avez apportées **en anglais**.
-
-3\. Vous pouvez utiliser la description facultative s'il vous est nécessaire d'ajouter plus de détails. Un bon commit peut ressembler à quelque chose comme ça :
-
-![](img/online-commit-changes-filled.jpg "C'est ok !")
-
-4\. S'il s'agit de la première modification que vous effectuez pour cet article, sélectionnez l'option `Create a new branch for this commit and start a pull request.`. Cela vous permettra d’apporter à l’avenir des modifications d’articles multiples, mais différentes (passez à l’étape 5). Sinon, sélectionnez `Commit directory to the {xxxxxx} branch.` (et passez à l'étape 6).
-
-5\. Nommez cette branche comme bon vous semble, assurez-vous de bien noter le nom que vous avez choisi.
-
-6\. Cliquez sur le bouton vert. il va proposer soit `Propose file change` ou `Commit changes`, cela dépend si vous créez une nouvelle branche ou non.
-
-7\. Cela fera deux choses : sauvegardez vos modifications dans la branche que vous venez de nommer et cela ouvrira la page de demande de tirage.
-
-![](img/pull-request-pippi-osu--osu-wiki.jpg "Ne fais rien ici! (Ceci est la mauvaise page!)")
-
-8\. Continuez à [Finition](#finition).
-
-## Finition
-
-Vous pouvez maintenant revenir au [Guide de contribution du osu! wiki](/wiki/osu!_wiki/Contribution_guide#finition) pour la dernière information concernant votre demande et vos modifications.
+8. Continuez vers [Finition](/wiki/osu!_wiki/Contribution_guide#finitions) pour le dernier élément d'information concernant votre pull request et les changements.
