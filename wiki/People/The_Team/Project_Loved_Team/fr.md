@@ -21,8 +21,8 @@ La Project Loved Team se compose principalement de *capitaines* pour chaque [mod
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983)
+- ![][flag_US] [kotkeone](https://osu.ppy.sh/users/10083084)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
-- ![][flag_US] [Wixonater](https://osu.ppy.sh/users/10083084)
 
 ### osu!taiko
 
