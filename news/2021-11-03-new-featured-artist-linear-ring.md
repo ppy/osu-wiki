@@ -15,7 +15,7 @@ Aiming to emotionally move listeners with each note, **linear ring** is the mind
 **linear ring**'s first appearance on osu! coincidentally also came through a beatmap of [*enchanted love*](https://osu.ppy.sh/beatmapsets/1403832) hosted by [\[Hatsune Miku\]](https://osu.ppy.sh/users/3045895). Experience that in all its ring-like glory with the 360 degree video below, then check out the rest of his outstanding songs!
 
 <div align="center">
-    <iframe width="533" height="400" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="95%" height="400" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### enchanted love
@@ -23,25 +23,25 @@ Aiming to emotionally move listeners with each note, **linear ring** is the mind
 Play through [the map that introduced **linear ring** to osu!](https://osu.ppy.sh/beatmapsets/1403832) hosted by [\[Hatsune Miku\]](https://osu.ppy.sh/users/3045895) and seen above!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/213/Songs/linear%20ring%20-%20enchanted%20love.mp3" type="audio/mpeg">
 </audio>
 
 ### lalabai call me
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/213/Songs/linear%20ring%20-%20lalabai%20call%20me.mp3" type="audio/mpeg">
 </audio>
 
 ### Can you hear me?
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/213/Songs/linear%20ring%20-%20Can%20you%20hear%20me.mp3" type="audio/mpeg">
 </audio>
 
 ### waitingforyou
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/213/Songs/linear%20ring%20-%20waitingforyou.mp3" type="audio/mpeg">
 </audio>
 
 ---
