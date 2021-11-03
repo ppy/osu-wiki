@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Contenu explicite
 
 ![Capture d'écran d'une beatmap contenant un contenu explicite](img/explicit-tag.jpg "Un exemple de beatmap qui est marqué avec le tag 'explicite'.")

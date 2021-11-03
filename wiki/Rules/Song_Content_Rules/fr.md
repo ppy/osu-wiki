@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Règles générales relatives au contenu des musiques
 
 Avec une grande variété de musique disponible, la plupart des morceaux pourront être utilisés dans osu!, à condition qu'ils ne le soient pas :

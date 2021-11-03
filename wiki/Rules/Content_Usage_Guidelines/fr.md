@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Directives d'utilisation du contenu
 
 En tant que mappeur, vous devez avoir l'autorisation des détenteurs de droits d'auteur pour les éléments audio/visuels/de jeu inclus dans vos soumissions de beatmaps. Sans autorisation, vos beatmaps risquent d'être supprimés et l'accès au système de soumission risque de vous être refusé, conformément à la [politique de copyright d'osu!](/wiki/Legal/Copyright).
