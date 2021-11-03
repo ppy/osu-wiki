@@ -20,7 +20,7 @@ Aiming to emotionally move listeners with each note, **linear ring** is the mind
 
 ### enchanted love
 
-Play through [the map that introduced **lienar ring** to osu!](https://osu.ppy.sh/beatmapsets/1403832) hosted by [\[Hatsune Miku\]](https://osu.ppy.sh/users/3045895) and seen above!
+Play through [the map that introduced **linear ring** to osu!](https://osu.ppy.sh/beatmapsets/1403832) hosted by [\[Hatsune Miku\]](https://osu.ppy.sh/users/3045895) and seen above!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
