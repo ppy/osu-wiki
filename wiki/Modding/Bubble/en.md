@@ -13,7 +13,7 @@ The **bubble** (![Bubble icon](/wiki/shared/icon/bubble.gif)) was a forum post i
 - [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*)
 - [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*)
 
-Being the next step of the old ranking system after a [proto-bubble](/wiki/Modding/Proto-bubble), a regular bubble meant that a [beatmap](/wiki/Beatmap) was ready to be ranked from the modder's point of view. Bubbled beatmaps would be eventually checked by another member of the BAT or BN and [ranked](/wiki/Beatmap/Category#ranked) or [approved](/wiki/Beatmap/Category#approved) as long as only minor changes to the map were required.
+Being the next step of the [old ranking system](/wiki/Modding/Forum_modding) after a [proto-bubble](/wiki/Modding/Proto-bubble), a regular bubble meant that a [beatmap](/wiki/Beatmap) was ready to be ranked from the modder's point of view. Bubbled beatmaps would be eventually checked by another member of the BAT or BN and [ranked](/wiki/Beatmap/Category#ranked) or [approved](/wiki/Beatmap/Category#approved) as long as only minor changes to the map were required.
 
 In the modern [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure), the equivalent of a bubble is the first nomination<!-- TODO: nomination article link --> given by a [beatmap nominator](/wiki/People/The_Team/Beatmap_Nominators).
 
@@ -29,9 +29,9 @@ After the [beatmap discussion system](/wiki/Beatmap_Discussion) was fully implem
 
 ## Mechanics
 
-{{{ Infobox
+::: Infobox
 ![](img/list-of-bubbles.png "List of bubbled beatmaps, followed by popped bubbles and starred maps")
-}}}
+:::
 
 Bubbled beatmaps' threads were listed on the first pages of the [Pending Beatmaps forum](https://osu.ppy.sh/community/forums/6), ordered by their [star priority](/wiki/Modding/Star_priority) and effectively acting as pinned forum threads.
 
