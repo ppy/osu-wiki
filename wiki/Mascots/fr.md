@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Mascottes
 
 *Voir aussi: [Mascots/Gallery](/wiki/Mascots/Gallery)*

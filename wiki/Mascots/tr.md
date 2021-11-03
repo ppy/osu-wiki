@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Maskotlar
 
 *Ayrıca Bakınız: [Maskotlar/Galeri](/wiki/Mascots/Gallery)*
