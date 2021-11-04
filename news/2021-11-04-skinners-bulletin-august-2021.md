@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skinners' Bulletin: August 2021"
-date: 2021-11-04 13:00:00 +0000
+date: 2021-11-04 11:00:00 +0000
 ---
 
 Better late than never! The second issue of the Skinners' Bulletin is finally in your mailbox. 
@@ -77,11 +77,11 @@ In short, we highly recommend you take this *timeless* creation on a test ride! 
 
 ---
 
-And with that, it is time to conclude this issue of our bulletin!
+And with that, it is time to conclude this issue of our bulletin! We're sincerely sorry about the unexpected delay on our side.
 
-We're sincerely sorry about the unexpected delay on our side, but nonetheless, we're here and thrilled to bring you the loveliest skins of the month. Unfortunately, we regret to inform you that we will be publishing our bulletin on a seasonal basis from now on, meaning that the next issue of Skinners' Bulletin will be released in December. On the bright side, we will be showcasing more stats, more skins, and of course, more news & tips, all of which will be compiled from the past three months.
+We'll be moving things to a seasonal schedule from now on, meaning that the next issue of Skinners' Bulletin will be released in December. This will mean more stats, more skins, news and tips for you in neat three month blocks, so make sure to catch us then.
 
-If you have any questions or suggestions about our content, feel free to contact [RockRoller](https://osu.ppy.sh/home/messages/users/8388854) or [Zeus-](https://osu.ppy.sh/home/messages/users/5464437) directly.
+If you have any questions or suggestions for the bulletin, feel free to contact [RockRoller](https://osu.ppy.sh/home/messages/users/8388854) or [Zeus-](https://osu.ppy.sh/home/messages/users/5464437) directly.
 
 See you in December!
 
