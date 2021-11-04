@@ -8,9 +8,11 @@ Better late than never! The second issue of the Skinners' Bulletin is finally in
 
 ![](/wiki/shared/news/banners/skinners-bulletin.png)
 
-As for our August issue, we'll keep you informed about the skinning-related statistics and flamboyant skins to showcase as usual. Unfortunately, we had to omit the News & Tips section of our newspost for this issue due to the lack of noteworthy developments within the community. But no worries! In order to compensate, we're showcasing **4 exquisite skins** published in August, instead of the usual 3!  
+Welcome to the Skinners' Bulletin! If this is your first time reading one of these articles, we essentially pick through some helpful statistics and standout creations from the osu! skinning community to help bring some amazing creators into the spotlight. If you're a fan of customizing your osu! experience with only the best and brightest skins available, look no further!
 
-That said, this issue of the Skinners' Bulletin will contain the following sections:
+We've had to omit the News & Tips section for this issue due to it being a bit of a quiet few months in the skinning community, but we'll make up for it by showcasing **4 exquisite skins** from the month of August instead of the usual 3.
+
+Let's get stuck into it! This issue of the Skinners' Bulletin will contain the following sections:
 
 - [Monthly Statistics](#monthly-statistics)
 - [Skin Showcase](#skin-showcase)
