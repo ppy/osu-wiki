@@ -26,9 +26,9 @@ In addition, all promotional material or any services associated with a tourname
 
 ### Integrity
 
-To ensure officially supported tournaments run smoothly, users under an active (or permanent) tournament ban/cooldown are **not** permitted to play in, staff or assist in the running, maintenance or development of such tournaments in any way.
+Hosts are expected to ensure that their tournaments run smoothly and with minimal disruption where possible.
 
-This includes anything from design to commentary, mappooling, refereeing, playtesting and other positions not listed. Put simply, if they are tournament banned, they should not be anywhere near an officially supported tournament in any capacity except as an observer.
+Users under an active (or permanent) tournament ban/cooldown may be enlisted as general help (aka, any non-staff role such as a commentator, streamer, etc) in an officially supported tournament at the host's discretion, but we encourage careful consideration of such choices as said individuals have already run afoul of the rules once (or more). They may not act as hosts, mappoolers, playtesters, or any other trusted position that has ready access to confidential information which could influence the outcome of the tournament if shared.
 
 ### Players
 
