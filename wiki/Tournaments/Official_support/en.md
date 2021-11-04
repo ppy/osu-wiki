@@ -26,7 +26,7 @@ In addition, all promotional material or any services associated with a tourname
 
 ### Integrity
 
-To ensure officially supported tournaments have the best experience possible, users under an active (or permanent) tournament ban/cooldown are **not** permitted to play in, staff or assist in the running, maintenance or development of said tournament in any way.
+To ensure officially supported tournaments run smoothly, users under an active (or permanent) tournament ban/cooldown are **not** permitted to play in, staff or assist in the running, maintenance or development of such tournaments in any way.
 
 This includes anything from design to commentary, mappooling, refereeing, playtesting and other positions not listed. Put simply, if they are tournament banned, they should not be anywhere near an officially supported tournament in any capacity except as an observer.
 
