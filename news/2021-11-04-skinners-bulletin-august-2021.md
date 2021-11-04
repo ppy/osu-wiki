@@ -4,11 +4,11 @@ title: "Skinners' Bulletin: August 2021"
 date: 2021-11-04 11:00:00 +0000
 ---
 
-Better late than never! The second issue of the Skinners' Bulletin is finally in your mailbox. 
+Better late than never! The second issue of the Skinners' Bulletin has finally arrived in your mailbox. 
 
 ![](/wiki/shared/news/banners/skinners-bulletin.png)
 
-Welcome to the Skinners' Bulletin! If this is your first time reading one of these articles, we essentially pick through some helpful statistics and standout creations from the osu! skinning community to help bring some amazing creators into the spotlight. If you're a fan of customizing your osu! experience with only the best and brightest skins available, look no further!
+Welcome to the Skinners' Bulletin! If this is your first time reading one of these articles, we essentially pick through some helpful statistics and standout creations from the osu! skinning community to help bring some amazing creators into the spotlight. If you're a fan of customising your osu! experience with only the best and brightest skins available, look no further!
 
 We've had to omit the News & Tips section for this issue due to it being a bit of a quiet few months in the skinning community, but we'll make up for it by showcasing **4 exquisite skins** from the month of August instead of the usual 3.
 
@@ -81,7 +81,7 @@ In short, we highly recommend you take this *timeless* creation on a test ride! 
 
 And with that, it is time to conclude this issue of our bulletin! We're sincerely sorry about the unexpected delay on our side.
 
-We'll be moving things to a seasonal schedule from now on, meaning that the next issue of Skinners' Bulletin will be released in December. This will mean more stats, more skins, news and tips for you in neat three month blocks, so make sure to catch us then.
+We'll be moving things to a seasonal schedule from now on, meaning that the next issue of Skinners' Bulletin will be released in December. This will mean more stats, more skins, news and tips for you in neat three-month blocks, so make sure to catch us then.
 
 If you have any questions or suggestions for the bulletin, feel free to contact [RockRoller](https://osu.ppy.sh/home/messages/users/8388854) or [Zeus-](https://osu.ppy.sh/home/messages/users/5464437) directly.
 
