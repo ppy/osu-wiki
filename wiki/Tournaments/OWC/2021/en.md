@@ -118,38 +118,38 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | Australia | ![][flag_AU] | ![][flag_SG] | Singapore | Nov 6 (Sat) 07:30 UTC | Nov 6 (Sat) 18:30 UTC+11 | Nov 6 (Sat) 15:30 UTC+8 | ² |
-| Taiwan | ![][flag_TW] | ![][flag_TR] | Turkey | Nov 6 (Sat) 09:00 UTC | Nov 6 (Sat) 17:00 UTC+8 | Nov 6 (Sat) 12:00 UTC+3 | ² |
-| Finland | ![][flag_FI] | ![][flag_CN] | China | Nov 6 (Sat) 10:30 UTC | Nov 6 (Sat) 12:30 UTC+2 | Nov 6 (Sat) 18:30 UTC+8 | ² |
-| Indonesia | ![][flag_ID] | ![][flag_RO] | Romania | Nov 6 (Sat) 12:00 UTC | Nov 6 (Sat) 19:00 UTC+7 | Nov 6 (Sat) 14:00 UTC+2 | ² |
-| South Korea | ![][flag_KR] | ![][flag_NO] | Norway | Nov 6 (Sat) 13:30 UTC | Nov 6 (Sat) 22:30 UTC+9 | Nov 6 (Sat) 14:30 UTC+1 | ² |
+| Indonesia | ![][flag_ID] | ![][flag_RO] | Romania | Nov 6 (Sat) 13:30 UTC | Nov 6 (Sat) 20:30 UTC+7 | Nov 6 (Sat) 15:30 UTC+2 | ² |
+| Taiwan | ![][flag_TW] | ![][flag_TR] | Turkey | Nov 6 (Sat) 14:00 UTC | Nov 6 (Sat) 22:00 UTC+8 | Nov 6 (Sat) 17:00 UTC+3 | ² |
+| South Korea | ![][flag_KR] | ![][flag_NO] | Norway | Nov 6 (Sat) 14:30 UTC | Nov 6 (Sat) 23:30 UTC+9 | Nov 6 (Sat) 15:30 UTC+1 | ² |
+| Finland | ![][flag_FI] | ![][flag_CN] | China | Nov 6 (Sat) 15:00 UTC | Nov 6 (Sat) 17:00 UTC+2 | Nov 6 (Sat) 23:00 UTC+8 | ² |
 | Sweden | ![][flag_SE] | ![][flag_PH] | Philippines | Nov 6 (Sat) 15:00 UTC | Nov 6 (Sat) 16:00 UTC+1 | Nov 6 (Sat) 23:00 UTC+8 | ² |
+| Brazil | ![][flag_BR] | ![][flag_NL] | Netherlands | Nov 6 (Sat) 16:30 UTC | Nov 6 (Sat) 13:30 UTC-3 | Nov 6 (Sat) 17:30 UTC+1 | ² |
 | France | ![][flag_FR] | ![][flag_CL] | Chile | Nov 6 (Sat) 16:30 UTC | Nov 6 (Sat) 17:30 UTC+1 | Nov 6 (Sat) 13:30 UTC-3 | ² |
-| Brazil | ![][flag_BR] | ![][flag_NL] | Netherlands | Nov 6 (Sat) 18:00 UTC | Nov 6 (Sat) 15:00 UTC-3 | Nov 6 (Sat) 19:00 UTC+1 | ² |
+| Canada | ![][flag_CA] | ![][flag_JP] | Japan | Nov 6 (Sat) 17:00 UTC | Nov 6 (Sat) 12:00 UTC-5 | Nov 7 (Sun) 02:00 UTC+9 | ¹ |
 
 ### Sunday, November 7, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | Nov 7 (Sun) 02:00 UTC | Nov 7 (Sun) 11:00 UTC+9 | Nov 6 (Sat) 23:00 UTC-3 | ³ |
-| Canada | ![][flag_CA] | ![][flag_JP] | Japan | Nov 7 (Sun) 03:30 UTC | Nov 6 (Sat) 22:30 UTC-5 | Nov 7 (Sun) 12:30 UTC+9 | ¹ |
+| China | ![][flag_CN] | ![][flag_TW] | Taiwan | Nov 7 (Sun) 06:00 UTC | Nov 7 (Sun) 14:00 UTC+8 | Nov 7 (Sun) 14:00 UTC+8 | ³ |
 | Philippines | ![][flag_PH] | ![][flag_AU] | Australia | Nov 7 (Sun) 07:30 UTC | Nov 7 (Sun) 15:30 UTC+8 | Nov 7 (Sun) 18:30 UTC+11 | ³ |
-| Sweden | ![][flag_SE] | ![][flag_AU] | Australia | Nov 7 (Sun) 10:00 UTC | Nov 7 (Sun) 11:00 UTC+1 | Nov 7 (Sun) 21:00 UTC+11 | ³ |
-| Sweden | ![][flag_SE] | ![][flag_SG] | Singapore | Nov 7 (Sun) 10:00 UTC | Nov 7 (Sun) 11:00 UTC+1 | Nov 7 (Sun) 18:00 UTC+8 | ³ |
 | Philippines | ![][flag_PH] | ![][flag_SG] | Singapore | Nov 7 (Sun) 10:00 UTC | Nov 7 (Sun) 18:00 UTC+8 | Nov 7 (Sun) 18:00 UTC+8 | ³ |
+| Sweden | ![][flag_SE] | ![][flag_AU] | Australia | Nov 7 (Sun) 11:00 UTC | Nov 7 (Sun) 12:00 UTC+1 | Nov 7 (Sun) 22:00 UTC+11 | ³ |
 | Finland | ![][flag_FI] | ![][flag_TW] | Taiwan | Nov 7 (Sun) 11:30 UTC | Nov 7 (Sun) 13:30 UTC+2 | Nov 7 (Sun) 19:30 UTC+8 | ³ |
 | Finland | ![][flag_FI] | ![][flag_TR] | Turkey | Nov 7 (Sun) 11:30 UTC | Nov 7 (Sun) 13:30 UTC+2 | Nov 7 (Sun) 14:30 UTC+3 | ³ |
-| China | ![][flag_CN] | ![][flag_TW] | Taiwan | Nov 7 (Sun) 11:30 UTC | Nov 7 (Sun) 19:30 UTC+8 | Nov 7 (Sun) 19:30 UTC+8 | ³ |
 | China | ![][flag_CN] | ![][flag_TR] | Turkey | Nov 7 (Sun) 11:30 UTC | Nov 7 (Sun) 19:30 UTC+8 | Nov 7 (Sun) 14:30 UTC+3 | ³ |
 | South Korea | ![][flag_KR] | ![][flag_NL] | Netherlands | Nov 7 (Sun) 13:00 UTC | Nov 7 (Sun) 22:00 UTC+9 | Nov 7 (Sun) 14:00 UTC+1 | ³ |
-| Indonesia | ![][flag_ID] | ![][flag_FR] | France | Nov 7 (Sun) 13:00 UTC | Nov 7 (Sun) 20:00 UTC+7 | Nov 7 (Sun) 14:00 UTC+1 | ³ |
-| Romania | ![][flag_RO] | ![][flag_FR] | France | Nov 7 (Sun) 13:00 UTC | Nov 7 (Sun) 15:00 UTC+2 | Nov 7 (Sun) 14:00 UTC+1 | ³ |
+| Russian Federation | ![][flag_RU] | ![][flag_HK] | Hong Kong | Nov 7 (Sun) 13:00 UTC | Nov 7 (Sun) 16:00 UTC+3 | Nov 7 (Sun) 21:00 UTC+8 | ¹ |
 | Indonesia | ![][flag_ID] | ![][flag_CL] | Chile | Nov 7 (Sun) 14:00 UTC | Nov 7 (Sun) 21:00 UTC+7 | Nov 7 (Sun) 11:00 UTC-3 | ³ |
+| Indonesia | ![][flag_ID] | ![][flag_FR] | France | Nov 7 (Sun) 14:00 UTC | Nov 7 (Sun) 21:00 UTC+7 | Nov 7 (Sun) 15:00 UTC+1 | ³ |
 | Romania | ![][flag_RO] | ![][flag_CL] | Chile | Nov 7 (Sun) 14:00 UTC | Nov 7 (Sun) 16:00 UTC+2 | Nov 7 (Sun) 11:00 UTC-3 | ³ |
-| Russian Federation | ![][flag_RU] | ![][flag_HK] | Hong Kong | Nov 7 (Sun) 15:00 UTC | Nov 7 (Sun) 18:00 UTC+3 | Nov 7 (Sun) 23:00 UTC+8 | ¹ |
+| Romania | ![][flag_RO] | ![][flag_FR] | France | Nov 7 (Sun) 14:00 UTC | Nov 7 (Sun) 16:00 UTC+2 | Nov 7 (Sun) 15:00 UTC+1 | ³ |
+| Sweden | ![][flag_SE] | ![][flag_SG] | Singapore | Nov 7 (Sun) 14:00 UTC | Nov 7 (Sun) 15:00 UTC+1 | Nov 7 (Sun) 22:00 UTC+8 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | Nov 7 (Sun) 15:00 UTC | Nov 8 (Mon) 00:00 UTC+9 | Nov 7 (Sun) 12:00 UTC-3 | ³ |
 | Norway | ![][flag_NO] | ![][flag_BR] | Brazil | Nov 7 (Sun) 15:30 UTC | Nov 7 (Sun) 16:30 UTC+1 | Nov 7 (Sun) 12:30 UTC-3 | ³ |
 | Norway | ![][flag_NO] | ![][flag_NL] | Netherlands | Nov 7 (Sun) 15:30 UTC | Nov 7 (Sun) 16:30 UTC+1 | Nov 7 (Sun) 16:30 UTC+1 | ³ |
-| Germany | ![][flag_DE] | ![][flag_PL] | Poland | Nov 7 (Sun) 16:30 UTC | Nov 7 (Sun) 17:30 UTC+1 | Nov 7 (Sun) 17:30 UTC+1 | ¹ |
-| United States | ![][flag_US] | ![][flag_GB] | United Kingdom | Nov 7 (Sun) 18:00 UTC | Nov 7 (Sun) 13:00 UTC-5 | Nov 7 (Sun) 18:00 UTC+0 | ¹ |
+| United States | ![][flag_US] | ![][flag_GB] | United Kingdom | Nov 7 (Sun) 18:30 UTC | Nov 7 (Sun) 13:30 UTC-5 | Nov 7 (Sun) 18:30 UTC | ¹ |
+| Germany | ![][flag_DE] | ![][flag_PL] | Poland | Nov 7 (Sun) 19:00 UTC | Nov 7 (Sun) 20:00 UTC+1 | Nov 7 (Sun) 20:00 UTC+1 | ¹ |
 
 ¹ Winners bracket match\
 ² Losers bracket match\
