@@ -77,7 +77,9 @@
 ---
 
 เมื่อเขียนตัวดัดแปลงเกมสำหรับบทความการแข่งขัน พวกเขาต้องใช้ `upper camel case` แทน (ไม่ต้องเว้นวรรคและเก็บปลอกตัวอักษรตามที่เห็นด้านบน)
+
 <!-- I don't know what upper camel case is..-->
+
 ### องค์ประกอบการเล่นเกม
 
 องค์ประกอบการเล่นเกมต้องไม่ใช้ตัวพิมพ์ใหญ่ เว้นแต่จะทำหน้าที่เป็นชื่อสำหรับลิงก์ที่ชี้ไปยังบทความ ต่อไปนี้เป็นตัวอย่าง:
@@ -324,11 +326,12 @@ Prefer: Beatmap Nominators can nominate your beatmap.
 ### Logical quotations
 
 อ้างถึง [Wikipedia's Manual of Style for logical quotations](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside)
+
 <!-- what is logical quotation-->
 
 จากคู่มือสไตล์วิกิพีเดีย:
 
-> Include terminal punctuation within the quotation marks only if it was present in the original material, and otherwise place it after the closing quotation mark. For the most part, this means treating periods and commas in the same way as question marks: keep them inside the quotation marks if they apply only to the quoted material and outside if they apply to the whole sentence.
+> Include terminal punctuation within the quotation marks only if it was present in the original material, and otherwise place it after the closing quotation mark. For the most part, this means treating periods and commas in the same way as question marks: keep them inside the quotation marks if they apply only to the quoted material and outside if they apply to the whole sentence. <!-- what -->
 
 ## การออกเสียง
 
