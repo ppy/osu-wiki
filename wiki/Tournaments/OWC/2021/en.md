@@ -125,7 +125,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 | Sweden | ![][flag_SE] | ![][flag_PH] | Philippines | Nov 6 (Sat) 15:00 UTC | Nov 6 (Sat) 16:00 UTC+1 | Nov 6 (Sat) 23:00 UTC+8 | ² |
 | Brazil | ![][flag_BR] | ![][flag_NL] | Netherlands | Nov 6 (Sat) 16:30 UTC | Nov 6 (Sat) 13:30 UTC-3 | Nov 6 (Sat) 17:30 UTC+1 | ² |
 | France | ![][flag_FR] | ![][flag_CL] | Chile | Nov 6 (Sat) 16:30 UTC | Nov 6 (Sat) 17:30 UTC+1 | Nov 6 (Sat) 13:30 UTC-3 | ² |
-| Canada | ![][flag_CA] | ![][flag_JP] | Japan | Nov 6 (Sat) 17:00 UTC | Nov 6 (Sat) 13:00 UTC-4 | Nov 7 (Sun) 02:00 UTC+9 | ¹ |
+| Canada | ![][flag_CA] | ![][flag_JP] | Japan | Nov 6 (Sat) 17:00 UTC | Nov 6 (Sat) 12:00 UTC-5 | Nov 7 (Sun) 02:00 UTC+9 | ¹ |
 
 ### Sunday, November 7, 2021
 
