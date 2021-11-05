@@ -41,7 +41,7 @@ Aside from the detail-oriented style, FlatoShabe is enriched with geometrical sh
 
 Menu interfaces aside, there isn't much to say about the gameplay elements. By keeping things at a minimum, the skin keeps the minimalist structure alive during the playthrough. Regardless, the skip animation and the use of the now-obsolete standard layout in the pause/fail menu add extra beauty to the skin. Overall, FlatoShabe portrays a well-executed minimalist skin with a few nice touches here and there. Hence we would like to keep the commentary to a minimum and invite you to watch the showcase video before trying the skin out yourself:
 
-<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/p-9ehW4N1l0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/MvGwO9kznug" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Ai Hayasaka v3.0
 
