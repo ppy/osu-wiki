@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skinners' Bulletin: August 2021"
-date: 2021-11-04 11:00:00 +0000
+date: 2021-11-05 10:00:00 +0000
 ---
 
 Better late than never! The second issue of the Skinners' Bulletin has finally arrived in your mailbox. 
