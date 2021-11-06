@@ -62,7 +62,7 @@ Metadata reviewers check through every beatmap that will be put up for voting, a
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
 - ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
-- ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196)
+- ![][flag_DE] [Nokashi](https://osu.ppy.sh/users/5431196)
 - ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
