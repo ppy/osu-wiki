@@ -101,7 +101,7 @@ Sociální interakce je jednou z hlavních věcí, které pohánějí osu! hrá�
 
 [Turnaje](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Soutěže](/wiki/Contests) • [Komunitní mentorský program](/wiki/Community_Mentorship_Program)
 
-[Projekty](/wiki/Projects): [Vybraní umělci](/wiki/Featured_Artists) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
+[Projekty](/wiki/Projects): [Vybraní umělci](/wiki/Featured_Artists) • [osu! komunitní setkání](/wiki/osu!_Community_Meetings) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
 
 </div>
 <div class="wiki-main-page-panel">
