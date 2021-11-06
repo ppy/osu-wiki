@@ -32,7 +32,6 @@ Experience this classic through one of these beatmaps from the video above:
 - [4k osu!mania mapset](https://osu.ppy.sh/beatmapsets/469962#mania/1004909) hosted by [snoverpk](https://osu.ppy.sh/users/3595196) (the most popular of the bunch!)
 - [4k osu!mania mapset](https://osu.ppy.sh/beatmapsets/985958#mania/2062770) hosted by [\[MY\]iEne](https://osu.ppy.sh/beatmapsets/985958#mania/2062770)
 
-
 <audio controls>
     <source src="LINK" type="audio/mpeg">
 </audio>
