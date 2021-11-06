@@ -33,7 +33,7 @@ Experience this classic through one of these beatmaps from the video above:
 - [4k osu!mania mapset](https://osu.ppy.sh/beatmapsets/985958#mania/2062770) hosted by [Enie](https://osu.ppy.sh/users/11976455)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/214/Songs/LV.4%20-%20Angel%20dust.mp3" type="audio/mpeg">
 </audio>
 
 ### Angel Dust (2016 Radio Edit)
@@ -47,7 +47,7 @@ Experience this classic through one of these beatmaps from the video above:
 - [6k and 8k osu!mania mapset](https://osu.ppy.sh/beatmapsets/442582#mania/951768) hosted by [\[ Tief Blau \]](https://osu.ppy.sh/users/5481625)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/214/SHADOW%20REFLECTION/LV.4%20-%20Angel%20dust%20%282016%20Radio%20Mix%29.mp3" type="audio/mpeg">
 </audio>
 
 ### Fragile... (2011 Mix)
@@ -55,13 +55,13 @@ Experience this classic through one of these beatmaps from the video above:
 Or try [this ranked osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1123359) hosted by [Blue_Potion](https://osu.ppy.sh/users/13094831)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/214/A.D.2995/LV.4%20-%20Fragile...%20%282011%20Mix%29.mp3" type="audio/mpeg">
 </audio>
 
 ### Stage 5 (Radio Edit)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/214/APOCALYPSE%20REINCARNATION/LV.4%20-%20Stage%205%20%28Radio%20edit%29.mp3" type="audio/mpeg">
 </audio>
 
 ---
