@@ -63,6 +63,7 @@ Les vérificateurs des métadonnées vérifient chaque beatmap qui sera soumise 
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
 - ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
+- ![][flag_DE] [Nokashi](https://osu.ppy.sh/users/5431196)
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
 - ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
@@ -136,6 +137,7 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont fait partie de la Pr
 ### Éditeurs vidéo
 
 - ![][flag_GB] [Striiker](https://osu.ppy.sh/users/7291594)
+- ![][flag_HU] [ThatsNotAName](https://osu.ppy.sh/users/9682904)
 - ![][flag_HU] [verto](https://osu.ppy.sh/users/2015300)
 
 ## Le saviez-vous ?

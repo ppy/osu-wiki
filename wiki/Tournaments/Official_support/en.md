@@ -24,6 +24,12 @@ Community-run tournaments receiving this support are expected to abide by the fo
 
 In addition, all promotional material or any services associated with a tournament receiving official support should adhere to the [osu! community rules](/wiki/Rules). This includes things like Twitter accounts, Discord servers, and so on.
 
+### Integrity
+
+Hosts are expected to ensure that their tournaments run smoothly and with minimal disruption where possible.
+
+Users under an active (or permanent) tournament ban/cooldown may be enlisted as general help (aka, any non-staff role such as a commentator, streamer, etc) in an officially supported tournament at the host's discretion, but we encourage careful consideration of such choices as said individuals have already run afoul of the rules once (or more). They may not act as hosts, mappoolers, playtesters, or any other trusted position that has ready access to confidential information which could influence the outcome of the tournament if shared.
+
 ### Players
 
 Participants in officially supported tournaments are expected to adhere to the [osu! community rules](/wiki/Rules) at all times, regardless of their rank, accomplishments, or other achievements.
@@ -39,6 +45,7 @@ A major part of being an officially supported tournament is access to the screen
 Tournament organisers will be expected to provide the following:
 
 - A comma-separated list (or spreadsheet) including player usernames and user IDs
+- A second comma-separated list (or spreadsheet) including staff/assistant usernames and user IDs (basically for anyone involved in the running or development of the tournament)
 - If the tournament is team-based, this list must reflect the grouping of players in their teams of play, complete with any team name or other identifying marker
 
 The comma-separated list should look like this:
@@ -47,6 +54,10 @@ The comma-separated list should look like this:
 Player1, 1234567
 Player2, 1234567
 Player3, 1234567
+
+HostGuy, 1234567
+RefLady, 1234567
+CommentatorThing, 1234567
 ```
 
 Once screening concludes, the osu! Support Team will provide a list of any players from your tournament that failed screening and are not considered eligible for tournament play. No individual reasons will be given for why a player does not pass screening.

@@ -47,10 +47,8 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | Nom | Langues supplémentaires | Principales responsabilités |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Évaluation, modération |
-| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Évaluation |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonais, Chinois | Évaluation |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, un peu de Arabe | Évaluation, structure, modération, communication |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Évaluation |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Suédois | Structure, communication |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Évaluation, structure, communication |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structure |
@@ -63,8 +61,9 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 
 | Nom | Langues supplémentaires | Principales responsabilités |
 | :-- | :-- | :-- |
+| ![][flag_HK] [Capu](https://osu.ppy.sh/users/2474015) | Allemand | Évaluation |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonais, Chinois | Évaluation |
-| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thaïlandais | Évaluation |
+| ![][flag_HK] [radar](https://osu.ppy.sh/users/7131099) |  | Évaluation |
 
 ### osu!catch
 
@@ -82,7 +81,7 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Évaluation |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Algérie"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
@@ -91,5 +90,4 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 [flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
