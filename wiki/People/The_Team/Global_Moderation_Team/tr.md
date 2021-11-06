@@ -127,7 +127,6 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Lehçe | Sohbet moderasyonu |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Sohbet moderasyonu |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Türkçe, Almanca | Sohbet moderasyonu |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | Sohbet moderasyonu |
 
 ### Dillere göre moderasyonun gruplandırılması
 

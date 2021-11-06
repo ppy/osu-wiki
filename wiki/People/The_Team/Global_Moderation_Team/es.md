@@ -117,7 +117,6 @@ La [página del grupo de Global Moderation Team](https://osu.ppy.sh/groups/4) li
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polaco | Moderación del chat |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Moderación del chat |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turco, alemán | Moderación del chat |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | Moderación del chat |
 
 ### Agrupados por los idiomas que moderan
 

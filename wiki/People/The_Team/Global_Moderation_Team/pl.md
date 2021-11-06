@@ -121,7 +121,6 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polski | Moderowanie czatu |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Moderowanie czatu |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turecki, niemiecki | Moderowanie czatu |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | Moderowanie czatu |
 
 ### Według moderowanych języków
 

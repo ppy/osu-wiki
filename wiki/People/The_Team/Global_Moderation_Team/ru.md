@@ -131,7 +131,6 @@ tags:
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Польский | Модерация чата |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Модерация чата |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Турецкий, немецкий | Модерация чата |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | Модерация чата |
 
 ### Группировка по языкам
 

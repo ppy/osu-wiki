@@ -131,7 +131,6 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polonais | Modération du tchat |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Modération du tchat |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turc, Allemand | Modération du tchat |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | Modération du tchat |
 
 ### Regroupés par langues modérées
 

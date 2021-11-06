@@ -127,7 +127,6 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai ta
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polandia | Moderasi chat |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Moderasi chat |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turki, Jerman | Moderasi chat |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | Moderasi chat |
 
 ### Dikelompokan berdasarkan bahasa yang dimoderasi
 

@@ -118,7 +118,6 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | 波兰语 | 聊天室管理员 |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | 聊天室管理员 |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | 土耳其语，德语 | 聊天室管理员 |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | 聊天室管理员 |
 
 ### 按语言分组
 

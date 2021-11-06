@@ -126,7 +126,6 @@ tags:
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | ポーランド語 | チャットモデレーション |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | チャットモデレーション |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | トルコ語、ドイツ語 | チャットモデレーション |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | チャットモデレーション |
 
 ### モデレートされている言語別にグループ化
 

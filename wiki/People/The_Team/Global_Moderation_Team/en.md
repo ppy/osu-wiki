@@ -127,9 +127,8 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polish | Chat moderation |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | <!-- TODO --> | Chat moderation |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turkish, German | Chat moderation |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | Chat moderation |
 
-<!-- last update: 2021-11-05 06:00 added [ Another ] to #hungarian -->
+<!-- last update: 2021-11-06 15:51 removed ztrot -->
 
 ### Grouped by languages moderated
 

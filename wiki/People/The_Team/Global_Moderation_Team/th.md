@@ -127,7 +127,6 @@ tags:
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | โปแลนด์ | ผู้ดูแลแชท |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | ผู้ดูแลแชท |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | ตุรกี, เยอรมัน | ผู้ดูแลแชท |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | ผู้ดูแลแชท |
 
 ### เรียงจากรายชื่อภาษา
 
