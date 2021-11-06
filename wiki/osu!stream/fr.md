@@ -254,128 +254,130 @@ Un bonus additionnel de 10 points est donné dépendamment de la vitesse du spin
 
 **Hit-circles**
 
-- A 300, 100 or 50 from a normal hit circle depending on tap accuracy.
-- Not tapping on the hit circle at all or tap on it too early, a miss will be given.
-  - If tapped on it really, really early, the object will shake instead. Nothing will happen technically except visually telling that it was tapped too early.
+- Un 300, 100 ou 50 d'un Hit-circle dépendant de la précision.
+- Ne pas taper le hit-circle du tout, ou le taper trop tôt entrainera un miss.
+  - Si vous tapez dessus très, très tôt, l'objet va trembler. Techniquement, il ne se passe rien, si ce n'est que l'on peut voir que l'objet a été touché trop tôt.
 
 **Hold-circle**
 
-- The judgement of the hold circle depends on the initial tap and the hold time before exploding.
-  - 300 if done perfectly.
-  - 100 for a less accurate initial hold and holding it properly.
-  - 50 for at least, touching it.
-  - 30 for every explosion.
-  - Multiplier reset if did not hold the circles properly and Miss for not doing it.
+- Le jugement du hold-circle dépend du clic initial et du temps de maintien avant l'explosion.
+  - 300 si c'est fait parfaitement.
+  - 100 pour une prise initiale moins précise et une tenue correcte.
+  - 50 pour au moins, le toucher.
+  - 30 pour chaque explosion.
+  - Le multiplicateur est remis à zéro si l'on n'a pas tenu les cercles correctement et obtient un miss pour ne pas l'avoir fait.
 
 **Sliders**
 
-- **The judgement for sliders depends on the accuracy of the initial tap**.
-- Sliders consist of slider ticks, which include the start, end and repeat points of the slider.
-  - A 300 if successfully get all slider ticks and accurate initial tap.
-  - A 100 if at least half of them with considerable initial tap.
-  - A 50 if managed to hit even one of the ticks or the initial tap.
-- **Clicking a slider way too early** does not incur a miss, but **will reset the score multiplier to 0**.
-- A miss if did not do the slider.
+- **Le jugement des sliders dépend de la précision du tapotement initial**.
+- Les sliders sont constitués de ticks de sliders, qui comprennent les points de début, de fin et de répétition du slider.
+  - Un 300 si vous réussissez à obtenir tous les ticks du slider et un tapotement initial précis.
+  - Un 100 si au moins la moitié d'entre eux avec un tapotement initial considérable.
+  - 50 si vous n'avez pas réussi à atteindre ne serait-ce qu'un seul des ticks ou le tapotement initial.
+- **Cliquer sur un slider trop tôt** n'est pas considéré comme un miss, mais **réinitialise le multiplicateur de score à 0**.
+- Un miss si vous n'avez pas fait le curseur.
 
 **Spinner**
 
-- For a spinner, a 300, 100 or 50 depending on the number of spins done compared to the length of the spinner.
-- A miss if unable to fill the meter shown on both sides of the spinner.
+- Pour un spinner, un 300, 100 ou 50 selon le nombre de tours effectués par rapport à la longueur du spinner.
+- Un échec si l'on ne parvient pas à remplir le compteur indiqué de part et d'autre du spinner.
 
-### Multiplier
+### Multiplicateur
 
-The following each add a point to the score multiplier:
+Les éléments suivants ajoutent chacun un point au multiplicateur de score :
 
-- A successfully hit on the hit circle.
-- A successfully hold on the hold circle.
-- A successfully hit at the start of a slider.
-- A successfully touched end of a slider.
-- A successfully touched on the slider tick.
-- A successfully completed spinner.
+- Une touche réussie sur le hit circle.
+- Une prise réussie sur le hold circle.
+- Une touche réussie au début d'un slider.
+- Un touché réussi à la fin d'un slider.
+- Un touché réussi sur le tic-tac du slider.
+- Un spinner terminé avec succès.
 
-The following will reset the score multiplier to zero:
+Les éléments suivants remettent le multiplicateur de score à zéro :
 
-- Missing a hit circle.
-- Releasing the hold circle when it is not exploded yet.
-- Unable to simultaneously hit the connected beats. (Hit one miss one)
-- Clicking a slider start way too early.
-- Missing a slider start or slider tick.
-- Unable to fill up the gauge of a spinner with a clear status.
+- Manquer un hit circle.
+- Lâcher le hold circle alors qu'il n'a pas encore explosé.
+- Impossibilité de toucher simultanément les beats connectés. (En toucher un, et pas l'autre)
+- Cliquer sur le début d'un slider trop tôt.
+- Manquer le début d'un slider ou le tic-tac d'un slider.
+- Impossible de remplir la jauge d'un spinner avec un statut clair.
 
-The following will not increase or reset the score multiplier:
+Ce qui suit n'augmente pas ou ne réinitialise pas le multiplicateur de score :
 
-- Missing a slider end. (Will result in getting Good! or 100/50 Hit)
-- Spinner's score Bonus
+- Manquer la fin d'un slider. (Vous obtiendrez "Good!" ou 100/50 Hit).
+- Le bonus de score du spinner
 
 ### Grades
 
-![](img/Os-Grade.jpg "Grade screen")
+![](img/Os-Grade.jpg "Ecran des grades")
 
-**Normal grades**
+**Grades normaux**
 
-- SS = 100% accuracy
-- S = Over 90% accuracy
-- A = Over 80% accuracy
-- B = Over 70% accuracy
-- C = Over 60% accuracy
-- D = Anything else.
+- SS = 100% de précision
+- S = Over 90% de précision
+- A = Over 80% de précision
+- B = Over 70% de précision
+- C = Over 60% de précision
+- D = Le reste.
 
 ### Life meter
 
-Unlike in osu!, the lifebar is different in osu!stream as it is based on gameplay mode.
+Contrairement à osu !, la barre de vie est différente dans osu!stream car elle est basée sur le mode de jeu.
 
-In **Easy Mode, lifebar is completely removed**.
+En **Mode facile, la barre de vie est complètement supprimée**.
 
-![](img/Os-SUN.jpg "Example of Stream Up! from Normal")
+![](img/Os-SUN.jpg "Exemple de Stream up! depuis une difficulté normale.")
 
-In **Stream Mode** however, player is given **three lifebars and player starts with the second half-filled lifebar at start**. Player (gain/lose) the lifebar by (Stream Up!/Stream Down!) message for (filling the lifebar full/used up all the HP on that lifebar). After the message is shown, the game will show an animation at the background which (tune up/tune down) the difficulty and issue a half-filled lifebar. If a player is issued a "Stream Down!", player is given temporary invisibility (due to no health left in the currently using lifebar) until the animation is completed in which the lifebar will be substituted with a half-filled one from the previous difficulty.
-
-In **Expert Mode, a full one lifebar is issued**.
-
-In terms of getting life for lifebar, it is explained as in below.
-
-The player gain life from:
-
-- Hit allowed: 300, 100, osu!, gold good! and green good!.
-  - Hitting the hit circle(s). (Better judgement leads to more life gain. The last hit circle in a colour combo awards more life.)
-  - Hitting the slider(s) start, end or return tick. (Better judgement at the end tick leads to more life gain)
-  - Completing the Spinner and Hold Bubble(s) properly.
-
-The player lose life from:
-
-- Hit cause: 50 , Miss
-- Missing any hit object or sliders.
-- Not following the slider(s).
-- Not holding the Hold Bubble until it explodes.
-- Unable to complete the spinner with "Clear" message.
-- Not spinning the spinner.
-
-The player reserve life from:
+En **Mode Stream** cependant, le joueur reçoit **trois barres de vie et le joueur commence avec la deuxième barre de vie à moitié remplie au départ**. Le joueur (gagne/perd) la barre de vie par un message (Stream Up!/Stream Down !) pour (remplir la barre de vie complètement/utiliser tous les HP de cette barre de vie). Après l'affichage du message, le jeu affiche une animation en arrière-plan qui augmente ou diminue la difficulté et affiche une barre de vie à moitié remplie. Si un joueur reçoit un "Stream Down !", il sera temporairement invisible (en raison de l'absence de santé dans la barre de vie utilisée) jusqu'à ce que l'animation soit terminée et que la barre de vie soit remplacée par une barre de vie à moitié remplie de la difficulté précédente.
 
 - Default. **Lifebar will not drain at all while playing**.
 
+En **Mode Expert, une barre de vie complète est présente**.
+
+En termes d'obtention de vie pour la barre de vie, cela est expliqué comme ci-dessous.
+
+Le joueur gagne de la vie à partir de :
+
+- Hit autorisé : 300, 100, osu !, gold good ! et green good !.
+  - En touchant le(s) hit circles. (Une meilleure précision permet de gagner plus de vie. Le dernier hit circle dans une combinaison de couleurs donne plus de vie).
+  - Toucher le tick de début, de fin ou de retour du ou des sliders. (Une meilleure précision lors du tic-tac de fin permet de gagner plus de vie).
+  - Compléter correctement la ou les bulles du Spinner et du Hold.
+
+Le joueur perd de la vie :
+
+- Causes des coups : 50 , Miss
+- Manquer un objet ou un slider.
+- Ne pas suivre le(s) slider(s).
+- Ne pas tenir le hold circle jusqu'à ce qu'elle explose.
+- Impossible de terminer le spinner avec le message "Clear".
+- Ne pas faire tourner le spinner.
+
+Le joueur garde sa barre de vie quand :
+
+- Par défaut. **La barre de vie ne se vide pas du tout pendant le jeu.
+
 ## Questions
 
-### Why is (insert any copyrighted songs here) not included?
+### Pourquoi (insérer ici toute chanson protégée par le droit d'auteur) n'est-elle pas incluse ?
 
-Because of the difficulty in obtaining licensing for the said song.
+En raison de la difficulté d'obtenir une licence pour ladite chanson.
 
-### How do I get more beatmaps?
+### Comment puis-je obtenir plus de beatmaps ?
 
-Head to the "Store" section in the game or pressing the "Download more songs..." at the "Play" section.
+Rendez-vous dans la section "Store" du jeu ou appuyez sur "Télécharger plus de chansons..." dans la section "Play".
 
-The beatmaps are in bundle, and some are priced. Make sure to look out of the price tag before buying to prevent *accidental purchase*.
+Les beatmaps sont regroupés, et certains ont un prix. Veillez à bien regarder l'étiquette de prix avant d'acheter pour éviter tout *achat accidentel*.
 
-### What is the theme song of osu!stream?
+### Quelle est la chanson thème de osu!stream ?
 
 [nekodex - osu!stream theme (1.48)](https://soundcloud.com/nekodex/osu-stream-theme).
-Usually heard at Main Menu and tutorial screen.
+On l'entend généralement dans le menu principal et sur l'écran du tutoriel.
 
-### Credits?
+### Crédits?
 
-![](img/Os-Credit.jpg "Credits")
+![](img/Os-Credit.jpg "Crédits")
 
 ## Links
 
-- [Official website](http://www.osustream.com)
-- [Discussion forum (osu! website)](https://osu.ppy.sh/community/forums/79)
+- [Site Officiel](http://www.osustream.com)
+- [Discussion (sur le site d'osu!)](https://osu.ppy.sh/community/forums/79)
