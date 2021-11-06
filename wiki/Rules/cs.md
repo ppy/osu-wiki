@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Pravidla
 
 Tato pravidla jsou základem, ze kterého pomáháme udržovat osu! komunitu zábavnou a příjemnou pro každého.
