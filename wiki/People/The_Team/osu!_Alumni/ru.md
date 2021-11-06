@@ -8,7 +8,6 @@
 | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Модератор чата |
-| ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) | Модератор чата, GMT |
 | ![][flag_HK] [aabc271](https://osu.ppy.sh/users/155707) | BAT |
 | ![][flag_CN] [abalee](https://osu.ppy.sh/users/13103) | BAT |
 | ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982) | GMT |
@@ -110,6 +109,7 @@
 | ![][flag_KR] [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
 | ![][flag_MX] [Kenezz](https://osu.ppy.sh/users/167050) | BAT |
 | ![][flag_TH] [Kharl](https://osu.ppy.sh/users/452) | BAT |
+| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) | BAT, QAT, NAT |
 | ![][flag_US] [kingcobra52](https://osu.ppy.sh/users/9934) | BAT |
 | ![][flag_AU] [kingking9](https://osu.ppy.sh/users/1277097) | GMT |
 | ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420) | Модератор чата |
@@ -217,6 +217,7 @@
 | ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878) | BAT |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ![][flag_AU] [tsububu](https://osu.ppy.sh/users/61) | BAT |
+| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
 | ![][flag_TR] [UnderminE](https://osu.ppy.sh/users/444223) | Модератор чата |
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, сотрудник техподдержки |
