@@ -1,40 +1,31 @@
-# Aide aux problèmes d'incompatibilité d'OpenGL
+# Problèmes de prise en charge d'OpenGL
 
-La prochaine mise à jour majeure d'osu!, prévue pour août/septembre 2015, retire définitivement la possibilité de choisir DirectX comme moteur de rendu pour le bénéfice d'OpenGL (pour des fins de simplification du framework). Si on vous a redirigé vers cette page, cela veut dire que la prochaine version d'osu! ne pourra vraisemblablement pas tourner correctement sur votre PC. Vous trouverez ci-dessous des solutions aux problèmes que vous serez susceptibles de rencontrer.
+La version d'osu! (20151016.7) à supprimer le support de DirectX afin de simplifier notre framework. Si vous voyez cette page, cela signifie que vous ne pouvez pas jouer à osu! sur votre système actuel. Cette page contient des solutions communes aux problèmes que nous avons rencontrés. Lisez-la et essayez-les !
 
-## Pilote d'affichage trop ancien ou inexistant
+## Pilotes manquants ou anciens
 
-Si aucun pilote de carte graphique ou une version trop ancienne est installée sur votre PC, Windows utilise par défaut le pilote générique « Microsoft Basic Display Adapter ». Ce dernier fonctionne plus ou moins bien avec DirectX mais n'est pas compatible avec OpenGL. Il vous faut donc installer le pilote de carte graphique le plus récent disponible.
+Si vous n'avez pas installé les bons pilotes graphiques, Windows utilisera un pilote de repli nommé "Basic Display Adapter", qui **fonctionne** pour les jeux DirectX mais est très lent. Il ne fonctionne pas du tout pour OpenGL, nous devons donc nous assurer que vous disposez des bons pilotes.
 
-Vérifiez tout d'abord que vous êtes concerné par le problème :
+Tout d'abord, vérifions si cela s'applique à vous :
 
-- faites un clic droit sur **Mon PC** puis sélectionnez **Propriétés** ;
-- cliquez sur **Gestionnaire de périphériques** sur la gauche.
+- Cliquez avec le bouton droit de la souris sur le logo Windows et choisissez `Gestionnaire de périphériques`.
+- Ou cliquez avec le bouton droit de la souris sur Ce PC et choisissez Propriétés dans la liste déroulante, ou appuyez sur Windows+Pause sur votre clavier.
+- Choisissez Gestionnaire de périphériques sur la gauche.
 
-À l'aide des captures ci-dessous, déterminez quel pilote est installé pour votre carte graphique.
+Vérifiez si vous utilisez Microsoft Basic Display Adapter comme indiqué dans le diagramme suivant :
 
-![Device Manager](img/FR-Devicemanager.png "Device Manager")
+![Gestionnaire de périphériques](img/Devicemanager.png "Gestionnaire de périphériques")
 
-Si vous êtes concerné par le problème, deux étapes à suivre :
+Veuillez trouver les pilotes pour votre carte sur le site Web du fabricant. Voici quelques liens courants :
 
-1. si vous ne la connaissez pas, trouvez la marque et le modèle de votre carte graphique :
-   - affichez le menu Démarrer ou l'écran d'accueil de Windows ;
-   - tapez « dxdiag » puis appuyez sur la touche Entrée ;
-   - cliquez sur l'onglet **Affichage** ;
-   - la marque et le modèle de votre carte graphique sont indiqués dans la section **Périphérique**.
-2. téléchargez puis installez les pilotes les plus récents pour votre système :
-   - [AMD/ATI](https://amd.com/fr/support)
-   - [Nvidia](https://nvidia.fr/Download/index.aspx?lang=fr)
-   - [Intel](https://downloadcenter.intel.com/fr/product/81500/C-ur-graphique-Intel-HD-3000)
+- [AMD/ATI](https://www.amd.com/fr/support)
+- [NVIDIA](https://www.nvidia.fr/Download/index.aspx?lang=fr)
+- [Intel](https://www.intel.fr/content/www/fr/fr/support/products/80939/graphics.html)
 
-## Profondeur des couleurs incorrecte
+## Mauvaise profondeur de bit
 
-Le réglage de la profondeur des couleurs dans Windows peut être mal configuré. S'il n'est pas défini à 32 bits, Windows utilise automatiquement des pilotes génériques ([témoignage](https://opengl.org/discussion_boards/showthread.php/145008-Why-my-OpenGL-program-uses-Microsoft-GDI-renderer-instead-of-my-GeForce-5200)) incompatibles avec osu!. Marche à suivre pour corriger le problème (traduite de [cette page](https://windows.microsoft.com/en-us/windows/getting-best-display-monitor#getting-best-display-monitor=windows-7&section_2)) :
-
-- faites un clic droit sur le bureau puis cliquez sur **Résolution d'écran** ;
-- cliquez sur **Paramètres avancés** puis sur l'onglet **Écran** ;
-- dans la liste déroulante **Couleurs**, sélectionnez **Couleurs vraies (32 bits)** puis cliquez sur OK.
+Il se peut que vos pilotes soient correctement installés mais que la profondeur des bits de couleur soit incorrecte. Windows se rabat sur des pilotes génériques [lorsque la profondeur de couleur n'est pas de 32bpp](https://community.khronos.org/t/why-my-opengl-program-uses-microsoft-gdi-renderer-instead-of-my-geforce-5200/35018). La modification de la [profondeur des bits de couleur à 32bpp résoudra ce problème](https://support.microsoft.com/fr-fr/windows/obtention-du-meilleur-affichage-sur-votre-moniteur-c7e01f63-9b51-2b23-0a0f-6b965af015a9#getting-best-display-monitor&section_2).
 
 ## Aide supplémentaire
 
-Si votre problème n'est toujours pas résolu, merci de créer un topic dans le forum [à cet endroit](https://osu.ppy.sh/community/forums/5), de préférence en anglais pour vous faire comprendre des développeurs. Dans le contenu du topic, recopiez le résultat de l'exécution de [ce logiciel](http://realtech-vr.com/home/glview) ainsi que le contenu du fichier gl\_info.txt si vous utilisez le canal Expérimental/Cutting-Edge (le fichier se trouve à la racine du répertoire d'installation d'osu!).
+Si votre problème n'est pas résolu par les solutions ci-dessus, veuillez ouvrir un fil de discussion dans le [forum Help](https://osu.ppy.sh/community/forums/5) avec la sortie de [ce programme](http://realtech-vr.com/home/glview) et votre gl_info.txt si vous êtes sur la version Cutting Edge.

@@ -1,7 +1,7 @@
 ---
 stub: true
 tags:
-  - no fail
+  - nofail
   - NF
   - mod
   - game modifier

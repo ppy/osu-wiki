@@ -158,7 +158,7 @@ The values for key binding options are the names of the keys.
 | `keyTimingSection` | Add uninherited timing section |
 | `keyInheritingSection` | Add inherited timing section |
 | `keyRemoveSection` | Remove timing section |
-| `keyEasy` | Game Modifier hotkeys |
+| `keyEasy` | Toggle Easy |
 | `keyNoFail` | Toggle No Fail |
 | `keyHalfTime` | Toggle Half Time |
 | `keyHardRock` | Toggle Hard Rock |
