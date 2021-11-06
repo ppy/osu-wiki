@@ -332,7 +332,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [UK Community Cup 8](UKCC/8) | 2020-03-28 | 2020-05-17 | 10man? | will is minecart | Gaurdians of Valhalla |
 | [UK Community Cup 9](UKCC/9) | 2020-08-29 | 2020-10-11 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup X](UKCC/X) | 2021-02-06 | 2021-04-12 | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) | ![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761) | ![][flag_GB] [Kerantina](https://osu.ppy.sh/users/7516484) |
-| [UK Community Cup 10](UKCC/10) | 2021-09-11 | 2021-10-31 | *TBA* | *TBA* | *TBA* |
+| [UK Community Cup 10](UKCC/10) | 2021-09-11 | 2021-10-31 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
 
 #### Ulat Bulu Cup
 
