@@ -30,7 +30,7 @@ Na většině obrazovek v osu! můžete stisknout `F8` nebo kliknout na tlačít
 
 Téměř všude v osu! chat konzoli lze rozbalit stisknutím klávesy F9 nebo kliknutím na kartu Online uživatelé (vpravo dole). Kromě chat konzole se zobrazuje i okno plné panelů přihlášených uživatelů, na kterých je vidět i aktuální aktivita uživatelů.
 
-![Rozšířená chat konzole](img/Chat_Console-Extended.png "Rozšířená chat konzole")
+![Rozšířená chat konzole](img/CZ-Chat_Console-Extended.png "Rozšířená chat konzole")
 
 Každý uživatel přihlášen do osu! má uživatelský panel zobrazený v rozšířeném chatu. Ve výchozím nastavení zobrazuje obecné informace (jméno, celkové hodnocené skóre, pořadí, přesnost, počet přehrání a případný avatar uživatele). Když na něj umístíte kurzor myši, zobrazí se jiná sada informací (jméno, hodnost, avatar, pokud existuje, místní čas, časové pásmo, umístění podle země a pokud to uživatel povolí, město a co dělají).
 
