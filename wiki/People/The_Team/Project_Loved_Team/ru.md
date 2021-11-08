@@ -64,6 +64,7 @@ tags:
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
 - ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
+- ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196)
 - ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
@@ -136,6 +137,7 @@ tags:
 ### Редакторы видео
 
 - ![][flag_GB] [Striiker](https://osu.ppy.sh/users/7291594)
+- ![][flag_HU] [ThatsNotAName](https://osu.ppy.sh/users/9682904)
 - ![][flag_HU] [verto](https://osu.ppy.sh/users/2015300)
 
 ## Факты
@@ -152,6 +154,7 @@ tags:
 [flag_ES]: /wiki/shared/flag/ES.gif "Испания"
 [flag_FR]: /wiki/shared/flag/FR.gif "Франция"
 [flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"
+[flag_GR]: /wiki/shared/flag/GR.gif "Греция"
 [flag_HU]: /wiki/shared/flag/HU.gif "Венгрия"
 [flag_IT]: /wiki/shared/flag/IT.gif "Италия"
 [flag_JP]: /wiki/shared/flag/JP.gif "Япония"
