@@ -6,11 +6,17 @@ date: 2021-11-08 10:00:00 +0000
 
 ![](/wiki/shared/news/2021-07-27-performance-points-star-rating-updates/star-rating.jpg)
 
-Thanks to the efforts of various star rating contributors, we are excited to announce that a new series of difficulty calculation changes will be going live shortly. This newspost will go into the what, the who, the when and the how, so read on to find out more!
+Thanks to the contributions made by a few enterprising developers in the community, we are excited to announce that a new series of difficulty calculation changes will be going live shortly. This newspost will go into the what, the who, the when and the how, so read on to find out more!
 
 If you find yourself scratching your head when reading, consider consulting the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmapping/Star_rating) wiki articles to gain a greater understanding of the topics.
 
 We will be covering only changes made to the **osu!** game mode in this post.
+
+## The Performance Points Committee
+
+Based on the feedback from the [last survey we held on scoring and performance](https://assets.ppy.sh/pp-survey-results/viewer.htm?v=1337), we have established a Performance Points Committee to help facilitate faster review and uptake of incoming changes.
+
+This committee presently consists of [**StanR**](https://osu.ppy.sh/users/7217455), [**emu1337**](https://osu.ppy.sh/users/2185987), [**MBmasher**](https://osu.ppy.sh/users/4498616) and [**Apo11o**](https://osu.ppy.sh/users/9558549). All of them are experienced and long-time contributors to the scene, and we are optimistic about where this new approach might take us.
 
 ## osu! changes
 
@@ -20,8 +26,6 @@ As a reminder of the various core values in the difficulty calculation algorithm
 - **Speed**: how quickly new elements are presented to the player (affected by note density, BPM, Double Time and Half Time)
 - **Accuracy**: how difficult it is to stay rhythmically on time (affected by Hidden, Hard Rock, Flashlight and more)
 - **Strain**: the difficulty of enduring intense or technically demanding patterns often and for a long time (affected by streams, fast jumps and more)
-
-To help facilitate faster review and uptake of incoming changes, a Performance Points Committee has been formed, consisting of [**StanR**](https://osu.ppy.sh/users/7217455), [**emu1337**](https://osu.ppy.sh/users/2185987), [**MBmasher**](https://osu.ppy.sh/users/4498616) and [**Apo11o**](https://osu.ppy.sh/users/9558549).
 
 ### New aim algorithm
 
@@ -40,9 +44,7 @@ We intend to stay alert on these developments in the future and promptly address
 
 ### Rhythm complexity
 
-For over 7 years, star rating has been calculated based purely on the density (or speed) of the notes within any given map. 
-
-With [a new change](https://github.com/ppy/osu/pull/14395) submitted by [**Xexxar**](https://osu.ppy.sh/users/2773526), rhythm complexity will now play an important role in determining the star rating of a map. 
+With [a new change](https://github.com/ppy/osu/pull/14395) submitted by [**Xexxar**](https://osu.ppy.sh/users/2773526), rhythm complexity will now play a more important role in determining the star rating of a map. 
 
 This change introduces an algorithmic assessment of the complexity of note patterns and will introduce a more accurate assessment for maps that feature atypical combinations of triples, doubles, quints and much more!
 
@@ -106,7 +108,7 @@ The speed hard cap in osu! has been removed by [**emu1337**](https://osu.ppy.sh/
 
 The speed cap was previously set to 300 BPM to prevent abuse cases, which means that calculating difficulty on beatmaps with higher BPM requires special consideration. Two adjustments were made to account for that:
 
-- Speed is nerfed on doubles that are doubletappable. If the time since the last object (deltatime) for the current object is smaller than the 300 hit window, we instead interpolate between that and the deltatime for the previous object.
+- Speed is nerfed on doubles that are double-tappable. If the time since the last object for the current object is smaller than the hit window for a 300, we instead take the difference between that object and the hit window of the last one.
 - Speed is nerfed if successive objects are faster than the 300 hit window. This is intended to target cheesing of faster bursts and streams if the hit window is way larger than the time between notes.
 
 The intention behind this change is to accommodate for future improvement, as there are a handful of players who have proven themselves to be competent at such high speeds. 
@@ -125,6 +127,6 @@ Alongside all those big changes above, there are some changes on the smaller sid
 
 ---
 
-Massive thanks to the star rating developers for all the changes above, the community members for providing continuous feedback, plus [Apo11o](https://osu.ppy.sh/users/9558549) and [Xexxar](https://osu.ppy.sh/users/2773526) for writing this post.
+Massive thanks to listed contributors for all the changes made above plus providing details and assistance with this newspost, and all the members of the community who gave their feedback.
 
 —osu!team
