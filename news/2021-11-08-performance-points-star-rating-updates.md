@@ -88,15 +88,15 @@ Flashlight in difficulty calculation is now revamped, as it moves from an object
 
 The difficulty that Flashlight adds to a map is now measured much more accurately, thanks to [**MBmasher**](https://osu.ppy.sh/users/4498616)'s change in [this pull request](https://github.com/ppy/osu/pull/14217).
 
-Previously, the object count-based method posed a number of issues. Flow aim (used for hitting streams) is mostly represented by the speed skill, not aim. Additionally, the aim skill, unsurprisingly, only measures the aim difficulty, not the flashlight difficulty. To put this simply, there will be types of jumps that are hard to aim but quite easy to read with flashlight, and vice versa.
+Previously, the object count-based method posed a number of issues. Flow aim (used for hitting streams) is mostly represented by the speed skill, not aim. Additionally, the aim skill, unsurprisingly, only measures the aim difficulty, not the Flashlight difficulty. To put this simply, there will be types of jumps that are hard to aim but quite easy to read with Flashlight, and vice versa.
 
-For example, let’s consider a familiar type of jump pattern: a back and forth. This is an example of a jump that can have high aim difficulty, but relatively low flashlight difficulty. The distance between the first object and the third object in a back and forth is typically small enough for it to be within the flashlight radius, thus allowing a player to read the position of that circle very easily.
+For example, let's consider a familiar type of jump pattern: a back and forth. This is an example of a jump that can have high aim difficulty, but relatively low Flashlight difficulty. The distance between the first object and the third object in a back and forth is typically small enough for it to be within the Flashlight radius, thus allowing a player to read the position of that circle very easily.
 
 ![](/wiki/shared/news/2021-11-08-performance-points-star-rating-updates/visible-fl-area.png)
 
 The creation of a Flashlight skill makes it possible to have it contribute to star rating. [This has been enabled](https://github.com/ppy/osu/pull/14753) following the results of the recent osu! performance points and star rating survey, which revealed that players desire star rating to be a metric of difficulty, and that they want subjective skills included. Ask and thou shall receive!
 
-It is also worth noting that the Hidden mod now applies a 1.3x multiplier on the Flashlight skill. The visibility of hitobjects are decreased significantly due to fading of circles and the absence of approach circles.
+It is also worth noting that the Hidden mod now applies a 1.3x multiplier on the Flashlight skill. The visibility of hit objects are decreased significantly due to the fading of circles and the absence of approach circles.
 
 Find yourself curious about the details? [MBmasher](https://osu.ppy.sh/users/4498616)'s write-up about the implementation will very likely scratch that itch, so feel free to [**indulge in some Flashlight theory**](https://docs.google.com/document/d/11FBEEPXK8yI2d5uTZuebJC3S9nVUKgMD8WdvblERyYA/edit).
 
@@ -111,13 +111,13 @@ The speed cap was previously set to 300 BPM to prevent abuse cases, which means 
 
 The intention behind this change is to accommodate for future improvement, as there are a handful of players who have proven themselves to be competent at such high speeds. 
 
-As an added bonus, the star ratings of absurdly fast maps are now measured more accurately, which means you can gawk as much as you’d like at the now even-higher star ratings on them.
+As an added bonus, the star ratings of absurdly fast maps are now measured more accurately, which means you can gawk as much as you'd like at the now even-higher star ratings on them.
 
 ### Minor changes
 
 Alongside all those big changes above, there are some changes on the smaller side of things:
 
-- [Sliderbreaks are now approximated into the total miss count](https://github.com/ppy/osu/pull/15086) in performance calculation, following [**StanR**](https://osu.ppy.sh/users/7217455)’s pull request. This is guessed by comparing the achieved combo to the maximum combo possible on a map. 
+- [Sliderbreaks are now approximated into the total miss count](https://github.com/ppy/osu/pull/15086) in performance calculation, following [**StanR**](https://osu.ppy.sh/users/7217455)'s pull request. This is guessed by comparing the achieved combo to the maximum combo possible on a map. 
 - [Instant spinners no longer give an insane amount of strain](https://github.com/ppy/osu/pull/14217), thanks to [**StanR**](https://osu.ppy.sh/users/7217455). This fixes maps [such as this one](https://osu.ppy.sh/beatmapsets/814850#osu/1901200), which abused this. 
 - Joz spotted that the initial strain for skills started at 1, not 0. [This has been fixed](https://github.com/ppy/osu/pull/15014).
 - In preparation for osu!lazer, difficulty calculation for [the Blinds mod](https://github.com/ppy/osu/pull/14921) and [the Relax mod](https://github.com/ppy/osu/pull/14942) has been added by [**Apo11o**](https://osu.ppy.sh/users/9558549).
