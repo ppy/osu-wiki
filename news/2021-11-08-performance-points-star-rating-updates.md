@@ -16,10 +16,10 @@ We will be covering only changes made to the **osu!** game mode in this post.
 
 As a reminder of the various core values in the difficulty calculation algorithm:
 
-- **Aim**, which considers how difficult it is to consistently hit notes back-to-back during play (affected by things like approach rate, jumps, Flashlight, Hidden, Hard Rock and more)
-- **Speed**, which considers how quickly new elements are presented to the player during the course of the map (affected by things like the number of hit objects over time, BPM, Double Time and Half Time)
-- **Accuracy**, which considers the player's ability to stay on time rhythmically and how difficult this is to achieve (affected by things like Hidden, Hard Rock, Flashlight and more)
-- **Strain**, which considers how often and how long a player has to endure intense or technically demanding patterns during play (affected by things like streams, fast jumps and more)
+- **Aim**: how difficult it is to consistently hit notes back-to-back (affected by approach rate, jumps, Flashlight, Hidden, Hard Rock and more)
+- **Speed**: how quickly new elements are presented to the player (affected by note density, BPM, Double Time and Half Time)
+- **Accuracy**: how difficult it is to stay rhythmically on time (affected by Hidden, Hard Rock, Flashlight and more)
+- **Strain**: the difficulty of enduring intense or technically demanding patterns often and for a long time (affected by streams, fast jumps and more)
 
 To help facilitate faster review and uptake of incoming changes, a Performance Points Committee has been formed, consisting of [**StanR**](https://osu.ppy.sh/users/7217455), [**emu1337**](https://osu.ppy.sh/users/2185987), [**MBmasher**](https://osu.ppy.sh/users/4498616) and [**Apo11o**](https://osu.ppy.sh/users/9558549).
 
@@ -29,10 +29,10 @@ A [new aim algorithm](https://github.com/ppy/osu/pull/14767) written by [**Xexxa
 
 This new algorithm introduces not only a variety of quality-of-life enhancements to existing infrastructure, but also a series of core changes and additions to the basic factors of aim scoring. In particular, four major things have been added:
 
-- **Patterns that require frequent aim adjustments by changing angles between notes have been buffed.** This buff is smaller if the angles between sets of jumps are similar. A good example of a map buffed by this change is [Daisuke \[moph's Expert\]](https://osu.ppy.sh/beatmapsets/697087#osu/1481149).
+- **Patterns with frequent changes in the angles between notes have been buffed.** This buff is smaller if the angles between sets of jumps are similar. A good example of a map buffed by this change is [Daisuke \[moph's Expert\]](https://osu.ppy.sh/beatmapsets/697087#osu/1481149).
 - **Repeated angular jump patterns at high BPM have been buffed.** This is most notable at acute angled jumps at BPMs exceeding 300 at 1/2 snap, such as [Brain Power \[Killer Machine\]](https://osu.ppy.sh/beatmapsets/546384#osu/1157344). More obtuse jumps below 300bpm will also receive a slight buff as well if they are within the threshold of 120 degrees.
 - **Patterns that feature extreme velocity differences between objects have been buffed.** A good example of a map affected by this is [polygon \[Bonzi's Ultra\]](https://osu.ppy.sh/beatmapsets/559097#osu/1227359).
-- **Sliders are now broken down into two movements, the slider itself, and the jump after it.** Historically, these were considered as one singular movement. This change also includes a buff to sliders with multiple repeats along its length. Example maps include [Black Rover (TV Size) \[Special\]](https://osu.ppy.sh/beatmapsets/1199834#osu/2498577) and [KAEDE \[EX EX\]](https://osu.ppy.sh/beatmapsets/660630#osu/1398809)
+- **Sliders are now broken down into two movements: the slider itself, and the jump after it.** Historically, these were considered as one singular movement. As a part of this change, sliders with multiple repeats along their length are also buffed, but not broken down into multiple movements in the same way yet. Example maps include [Black Rover (TV Size) \[Special\]](https://osu.ppy.sh/beatmapsets/1199834#osu/2498577) and [KAEDE \[EX EX\]](https://osu.ppy.sh/beatmapsets/660630#osu/1398809).
 
 With every large-scale change, there is always a chance that new issues may emerge as a result. As players and mappers adapt to these new changes, a counter-balancing patch may be needed in response. 
 
@@ -44,21 +44,21 @@ For over 7 years, star rating has been calculated based purely on the density (o
 
 With [a new change](https://github.com/ppy/osu/pull/14395) submitted by [**Xexxar**](https://osu.ppy.sh/users/2773526), rhythm complexity will now play an important role in determining the star rating of a map. 
 
-This change introduces an algorithmic assessment of the complexity of note patterns in historical context and will introduce a more accurate assessment for maps that feature atypical combinations of triples, doubles, quints and much more!
+This change introduces an algorithmic assessment of the complexity of note patterns and will introduce a more accurate assessment for maps that feature atypical combinations of triples, doubles, quints and much more!
 
 Consider these two rhythms:
 
 ![](/wiki/shared/news/2021-11-08-performance-points-star-rating-updates/rhythm-complexity.png)
 
-Before this difficulty calculation change, the first pattern would have always had greater strain than the second.  In reality, the second can be as demanding or even harder (or potentially harder) than the first depending on the map. With these new changes, the algorithm now more accurately reflects this.
+Before this difficulty calculation change, the first pattern would have always had greater strain than the second.  In reality, the second can be as demanding or even harder than the first depending on the map. With these new changes, the algorithm now more accurately reflects this.
 
-These changes are exceedingly complex from a mathematical point of view. To keep things as simple as possible, notes are grouped up into 'islands', with a triple expressed as a size 3 'island'. Each island is then grouped by the algorithm and considered in a variety of ways, such as:
+To summarise how rhythm complexity works, notes are grouped up into 'islands', with a triple expressed as a size 3 'island'. Each island is then grouped by the algorithm and considered in a variety of ways, such as:
 
 - islands becoming smaller or larger (size 5 to size 3, for example)
 - islands which change from even to odd sizes
 - the ratio of time elapsed between islands (changes like 1/4 streams into 1/3 streams)
 
-These changes all collectively combine to produce a rhythm value which then adjusts the difficulty of a pattern, from which star rating is ultimately derived.
+These changes all collectively combine to produce a rhythm value that becomes part of the final star rating.
 
 We hope this change will bring a renewed interest in rhythmically complex songs on osu! and will incentivize players to improve their finger control. 
 
@@ -66,16 +66,14 @@ Good luck setting new, impressive top plays that showcase your skills!
 
 ### Total star rating adjustments
 
-In a nutshell, osu! difficulty calculation processes a map and produces skill rating values. These skill values are then manipulated in two different ways to produce two different numbers that you’ll be familiar with: star rating and performance points. 
+The correlation between star rating and performance points has now been improved, following the mathematical derivation work from [**Naitsirk**](https://osu.ppy.sh/users/8202998) in [this pull request](https://github.com/ppy/osu/pull/13986). 
 
-The correlation between these two numbers has now been improved, following the mathematical derivation work from [**Naitsirk**](https://osu.ppy.sh/users/8202998) in [this pull request](https://github.com/ppy/osu/pull/13986). 
-
-To summarize these changes briefly, maps which focus on one skill will now receive lower star rating than ones which focus on both. **These changes do not affect performance points.**
+To summarize these changes briefly, star rating now combines the different core skill values mentioned earlier with consideration for how large they are in relation to each other, which is more analogous to how it's done for performance points, whereas before it was just the simple sum of each constituent skill value. In other words, maps which focus on one skill will now receive a lower star rating than ones which focus on many. **These changes do not affect performance points.**
 
 Here are a few examples:
 
-- [DragonForce - Through the Fire and Flames (Ponoyoshi) [Myth]](https://osu.ppy.sh/beatmapsets/382400#osu/1001682) 6.1* -> 6.32*
-- [Panda Eyes & Teminite - Immortal Flame (feat. Anna Yvette) (Sotarks) [Eternal Blaze]](https://osu.ppy.sh/beatmapsets/703957#osu/1489207) 7.05* -> 6.94*
+- [DragonForce - Through the Fire and Flames (Ponoyoshi) [Myth]](https://osu.ppy.sh/beatmapsets/382400#osu/1001682) 6.1* --> 6.32*
+- [Panda Eyes & Teminite - Immortal Flame (feat. Anna Yvette) (Sotarks) [Eternal Blaze]](https://osu.ppy.sh/beatmapsets/703957#osu/1489207) 7.05* --> 6.94*
 
 As for the formula change itself, you can compare and contrast between these:
 
@@ -86,27 +84,27 @@ Interested in what each term means? [**This document**](https://docs.google.com/
 
 ### New Flashlight difficulty skill
 
-Flashlight in difficulty calculation is now revamped, as it moves from an object count-based multiplier on the Aim skill to a brand new skill of its own. 
+Flashlight in difficulty calculation is now revamped, as it moves from an object count-based multiplier applied to the Aim skill to a brand new skill of its own. 
 
-The difficulty that Flashlight adds to a map is now measured much more accurately, thanks to [**MBmasher**](https://osu.ppy.sh/users/4498616)’s change in [this pull request](https://github.com/ppy/osu/pull/14217).
+The difficulty that Flashlight adds to a map is now measured much more accurately, thanks to [**MBmasher**](https://osu.ppy.sh/users/4498616)'s change in [this pull request](https://github.com/ppy/osu/pull/14217).
 
-Previously, the object count-based method posed a number of issues. Flow aim (measured when playing streams) is mostly represented by the speed skill, not aim. Additionally, the aim skill (surprisingly) only measures the aim difficulty, not the flashlight difficulty. To put this simply, there will be types of jumps that are hard to aim and quite easy to read with flashlight, and vice versa.
+Previously, the object count-based method posed a number of issues. Flow aim (used for hitting streams) is mostly represented by the speed skill, not aim. Additionally, the aim skill, unsurprisingly, only measures the aim difficulty, not the flashlight difficulty. To put this simply, there will be types of jumps that are hard to aim but quite easy to read with flashlight, and vice versa.
 
 For example, let’s consider a familiar type of jump pattern: a back and forth. This is an example of a jump that can have high aim difficulty, but relatively low flashlight difficulty. The distance between the first object and the third object in a back and forth is typically small enough for it to be within the flashlight radius, thus allowing a player to read the position of that circle very easily.
 
 ![](/wiki/shared/news/2021-11-08-performance-points-star-rating-updates/visible-fl-area.png)
 
-The creation of a Flashlight skill makes it possible to have it contribute to Star Rating. [This has been enabled](https://github.com/ppy/osu/pull/14753) following the results of the osu! performance points and star rating survey, which revealed that players desire star rating to be a metric of difficulty, and that they want subjective skills included. Ask and thou shall receive!
+The creation of a Flashlight skill makes it possible to have it contribute to star rating. [This has been enabled](https://github.com/ppy/osu/pull/14753) following the results of the recent osu! performance points and star rating survey, which revealed that players desire star rating to be a metric of difficulty, and that they want subjective skills included. Ask and thou shall receive!
 
-It is also worth noting that the Hidden mod applies a 1.3x multiplier on the Flashlight skill. The visibility of hitobjects are decreased significantly due to fading of circles and the absence of approach circles.
+It is also worth noting that the Hidden mod now applies a 1.3x multiplier on the Flashlight skill. The visibility of hitobjects are decreased significantly due to fading of circles and the absence of approach circles.
 
-Find yourself curious about the details? [MBmasher](https://osu.ppy.sh/users/4498616)’s write up about the implementation will very likely scratch that itch, so feel free to [**indulge in some Flashlight theory**](https://docs.google.com/document/d/11FBEEPXK8yI2d5uTZuebJC3S9nVUKgMD8WdvblERyYA/edit).
+Find yourself curious about the details? [MBmasher](https://osu.ppy.sh/users/4498616)'s write-up about the implementation will very likely scratch that itch, so feel free to [**indulge in some Flashlight theory**](https://docs.google.com/document/d/11FBEEPXK8yI2d5uTZuebJC3S9nVUKgMD8WdvblERyYA/edit).
 
 ### Speed hard cap removal
 
 The speed hard cap in osu! has been removed by [**emu1337**](https://osu.ppy.sh/users/2185987) and [**Apo11o**](https://osu.ppy.sh/users/9558549) in [this pull request](https://github.com/ppy/osu/pull/14617), allowing 300+ BPM streams to be weighed accurately. 
 
-The speed cap was previously set to 300 BPM to prevent abuse cases, which means that calculating higher BPMs requires consideration into those cases. Two factors are implemented with regard to this:
+The speed cap was previously set to 300 BPM to prevent abuse cases, which means that calculating difficulty on beatmaps with higher BPM requires special consideration. Two adjustments were made to account for that:
 
 - Speed is nerfed on doubles that are doubletappable. If the time since the last object (deltatime) for the current object is smaller than the 300 hit window, we instead interpolate between that and the deltatime for the previous object.
 - Speed is nerfed if successive objects are faster than the 300 hit window. This is intended to target cheesing of faster bursts and streams if the hit window is way larger than the time between notes.
