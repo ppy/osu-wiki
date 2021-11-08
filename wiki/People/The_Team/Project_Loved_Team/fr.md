@@ -63,7 +63,7 @@ Les vérificateurs des métadonnées vérifient chaque beatmap qui sera soumise 
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
 - ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
-- ![][flag_DE] [Nokashi](https://osu.ppy.sh/users/5431196)
+- ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196)
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
 - ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
@@ -154,6 +154,7 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont fait partie de la Pr
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_GR]: /wiki/shared/flag/GR.gif "Grèce"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hongrie"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italie"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
