@@ -132,14 +132,11 @@ Last major change in the algorithm is the addition of an entire algorithm meant 
 
 ### Performance Points
 
-A few things have been tweaked in the performance side, we are only going to describe the major ones :
+A few things have been tweaked in the performance side, we are only going to describe the major ones:
 
 - The length bonus is now composed of 2 factors: the number of hitobjects (which was formerly the only factor) and the count of direction changes, it's a better way to evaluate the stamina required in a beatmap, as well as to give more value to movements in general. The function has also been adjusted to buff longer maps, and the"cap" after which the bonus is reduced has been removed.
-
 - AR is an important factor in osu!catch, therefore it has been modified a lot: Hidden is worth a bit more at low ApproachRate (2% added per AR below 9), fast DT maps have been buffed because the bonus was increased from 10% between AR 10 and 11 to 35%. On FlashLight, the AR has been increased by 18% per AR over AR 8 and decreased by a few percentages under AR 8, to better evaluate the reflexes and/or memorization required.
-
 - A few adjustments on the behaviour of scores : Accuracy is more important, miss count as well, but the combo scaling (difference between the score's combo and the beatmap's max combo) is decreased, which means that a miss anywhere in the beatmap is way less punishing than before.
-
 - NoFail is now the same as in osu!standard. You don't get any PP removed for a Full Combo and it scales to the number of misses.
 
 ---
