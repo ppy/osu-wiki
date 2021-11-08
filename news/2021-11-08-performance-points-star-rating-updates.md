@@ -127,6 +127,6 @@ Alongside all those big changes above, there are some changes on the smaller sid
 
 ---
 
-Massive thanks to the star rating developers for all the changes above, the community members for providing continuous feedback, and [Apo11o](https://osu.ppy.sh/users/9558549), [Xexxar](https://osu.ppy.sh/users/2773526) and [bastoo0](https://osu.ppy.sh/users/4864877) for writing this post.
+Massive thanks to the star rating developers for all the changes above, the community members for providing continuous feedback, plus [Apo11o](https://osu.ppy.sh/users/9558549) and [Xexxar](https://osu.ppy.sh/users/2773526) for writing this post.
 
 —osu!team
