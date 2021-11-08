@@ -1,6 +1,6 @@
 # Version (Begriffserklärung)
 
-**Version** kann unterschiedliche Bedeutungen haben:
+**Version** kann Folgendes bedeuten:
 
 - Ein [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty) einer [Beatmap](/wiki/Beatmap)
 - Die Versionsnummer einer [`.osu`-Datei](/wiki/osu!_File_Formats/Osu_(file_format))
