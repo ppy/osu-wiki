@@ -10,7 +10,7 @@ Thanks to the efforts of various star rating contributors, we are excited to ann
 
 If you find yourself scratching your head when reading, consider consulting the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmapping/Star_rating) wiki articles to gain a greater understanding of the topics.
 
-We will cover some considerable changes to both the **osu!** and **osu!catch** game modes below.
+We will be covering only changes made to the **osu!** game mode in this post.
 
 ## osu! changes
 
@@ -124,45 +124,6 @@ Alongside all those big changes above, there are some changes on the smaller sid
 - Joz spotted that the initial strain for skills started at 1, not 0. [This has been fixed](https://github.com/ppy/osu/pull/15014).
 - In preparation for osu!lazer, difficulty calculation for [the Blinds mod](https://github.com/ppy/osu/pull/14921) and [the Relax mod](https://github.com/ppy/osu/pull/14942) has been added by [**Apo11o**](https://osu.ppy.sh/users/9558549).
   - These could be potentially enabled in the future once osu!lazer leaderboard submissions go live, since the concept of "ranked mods" will be no more.
-
-## osu!catch changes
-
-The osu!catch difficulty algorithm has historically been adjusted far less often than the osu! one, prompting a new set of major changes made this time.
-
-As so many changes were made, they will only be briefly explained, so feel free to take a look at [**bastoo0**](https://osu.ppy.sh/users/4864877)'s [pull request](https://github.com/ppy/osu/pull/14936) containing all the described changes in full and in code for further details.
-
-### Star Rating
-
-To begin with, osu!catch's algorithm historically did not evaluate multiple skill values unlike osu!standard. There was only a single algorithm to evaluate the star rating of a beatmap, and this worked by evaluating pairs of objects using values like "distance moved", "time between objects", hyperdash checks, and so on.
-
-This has been expanded on considerably.
-
-There was a major flaw on the previous version of the Star Rating algorithm: HyperDashes and basic objects' calculations were not separated. In practice, the main way to evaluate the difficulty of a movement is to compute a ratio of distance / time between two objects, so HyperDashes' values were too high compared to basic objects given how they behave in gameplay.
-
-So the main reason of theses changes was to split HyperDashes and basic objects' calculations, and implementing a similar behaviour for both to remain consistent with the previous version of the algorithm.
-
-Overall, **basic movements (movement from a basic object to any other object) have been buffed.** 
-
-This works well for increasing the Star Rating of maps with few HyperDashes, but it comes with the side effect of also increasing the SR of easier beatmaps (mostly Cup, Salads and Platters). As a result of this, many players in the lower ranks should find their scores are now worth more performance points.
-
-We also added a buff for basic movements that is triggered upon a direction change to increase the value of shorter movements like wiggles.
-
-When it comes to HyperDashes, distances and times factors were scaled down exponentially so high BPM / full-screen HyperDashes are nerfed and lower difficulty HyperDashes stay about the same. There is also a new buff for direction changes, scaling to the distance moved before the HyperDash so movement heavy beatmaps are buffed more compared to streamy ones.
-
-The only part of the algorithm that remained "almost" untouched is the "edge dash" calculation. An "edge dash" is a fruit that is really close from being an HyperDash, so it usually requires more precision and is harder to catch. These patterns are commonly found in converts (beatmaps converted from osu!standard, and are often their main source of dificulty. 
-
-The difficulty of these patterns is subject to debates among the community, that's why they have been buffed enough so some converts are actually showing up in some profiles but not really enough to make them too easy to farm.
-
-The last major change in the algorithm is the addition of an entire algorithm meant to buff tap-dashes. A tap-dash is a repeated movement in the same direction, which requires tapping the same key multiple times in the same direction. A good example of this pattern is the last part of [EGOISM 440 - U1 High-Speed (Ascendance) \[Crystal's Challenge\]](https://osu.ppy.sh/beatmapsets/717720#fruits/1748947).
-
-### Performance Points
-
-A lot has been tweaked on the performance side of things. For now, we are only going to describe the major ones:
-
-- The length bonus is now composed of 2 factors: the number of hitobjects (which was formerly the only factor) and the count of direction changes, it's a better way to evaluate the stamina required in a beatmap, as well as to give more value to movements in general. The function has also been adjusted to buff longer maps, and the"cap" after which the bonus is reduced has been removed.
-- AR is an important factor in osu!catch, therefore it has been modified a lot: Hidden is worth a bit more at low ApproachRate (2% added per AR below 9), fast DT maps have been buffed because the bonus was increased from 10% between AR 10 and 11 to 35%. On FlashLight, the AR has been increased by 18% per AR over AR 8 and decreased by a few percentages under AR 8, to better evaluate the reflexes and/or memorization required.
-- A few adjustments on the behaviour of scores : Accuracy is more important, miss count as well, but the combo scaling (difference between the score's combo and the beatmap's max combo) is decreased, which means that a miss anywhere in the beatmap is way less punishing than before.
-- NoFail is now the same as in osu!standard. You don't get any PP removed for a Full Combo and it scales to the number of misses.
 
 ---
 
