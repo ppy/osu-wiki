@@ -48,7 +48,7 @@ Une bubble existante pourrait être **popped** :
 - Automatiquement, par le mappeur lui-même, s'il a mis à jour la map ou l'un de ses fichiers.
 - Manuellement, par un membre de la BAT, si la beatmap nécessite davantage de modifications et ne peut être classé dans son état actuel.
 
-Dans les deux cas, l'icône du fil de discussion de la beatmap était définie comme une popped bubble (![Icône de la Popped bubble](/wiki/shared/icon/bubble-pop.gif)). Si une bubble était éclatée manuellement, il était supposé que les membre de la BAT ou de la MAT qui avait placé l'icône s'assurerait que les modifications nécessaires étaient apportées à la map avant qu'elle ne continue dans le processus de classement.
+Dans les deux cas, l'icône du fil de discussion de la beatmap était définie comme une popped bubble (![Icône de la Popped bubble](/wiki/shared/icon/bubble-pop.gif)). Si une bubble était éclatée manuellement, il était supposé que les membres de la BAT ou de la MAT qui avait placé l'icône s'assureraient que les modifications nécessaires étaient apportées à la map avant qu'elle ne continue dans le processus de classement.
 
 ## Voir également
 

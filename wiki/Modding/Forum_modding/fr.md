@@ -11,7 +11,7 @@ tags:
 
 # Forum modding
 
-**Forum modding**, également connu sous le nom de *Modding v1*, est un nom familier du système de [modding](/wiki/Modding) et de classement basé sur le forum qui a été principalement utilisé jusqu'au [4 novembre 2017](https://osu.ppy.sh/community/forums/topics/650961?n=7), date à laquelle toutes les [beatmaps](/wiki/Beatmap) nouvelles et inactifs sont passés en [discussions d'une beatmap](/wiki/Beatmap_Discussion) par défaut.
+**Forum modding**, également connu sous le nom de *Modding v1*, est un nom familier du système de [modding](/wiki/Modding) et de classement basé sur le forum qui a été principalement utilisé jusqu'au [4 novembre 2017](https://osu.ppy.sh/community/forums/topics/650961?n=7), date à laquelle toutes les [beatmaps](/wiki/Beatmap) nouvelles et inactives sont passées en [discussions d'une beatmap](/wiki/Beatmap_Discussion) par défaut.
 
 Dans le système de modding du forum, chaque beatmap avait un fil de discussion pour la communication et l'enregistrement de la [procédure de classement](/wiki/Beatmap_ranking_procedure).
 
