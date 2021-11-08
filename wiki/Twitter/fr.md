@@ -1,6 +1,6 @@
 # Twitter
 
-osu! possède plusieurs comptes Twitter, chacun servant des objectifs spécifiques. La plupart ont un trafic très faible mais permettent de vous tenir informé en dehors de l'écosystème d'osu!.
+osu! possède plusieurs comptes Twitter, ayant chacun des objectifs spécifiques. La plupart ont une activité très faible mais permettent de vous tenir informé en dehors de l'écosystème d'osu!.
 
 ## Service
 
