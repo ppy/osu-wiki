@@ -67,8 +67,8 @@ In a nutshell, osu! difficulty calculation processes a map and produces skill ra
 
 As for the formula change itself, you can compare and contrast between these:
 
-Old formula: ![](/wiki/shared/news/2021-11-08-performance-points-star-rating-updates/old-sr.png)
-New formula: ![](/wiki/shared/news/2021-11-08-performance-points-star-rating-updates/new-sr.png)
+Old formula: ![](/wiki/shared/news/2021-11-08-performance-points-star-rating-updates/old-sr-white.png)
+New formula: ![](/wiki/shared/news/2021-11-08-performance-points-star-rating-updates/new-sr-white.png)
 
 Interested in what each term means? [**This document**](https://docs.google.com/document/d/10DZGYYSsT_yjz2Mtp6yIJld0Rqx4E-vVHupCqiM4TNI/edit?usp=sharing) written up by [Naitsirk](https://osu.ppy.sh/users/8202998) goes into the nitty gritty details regarding the terms and the derivation itself.
 
