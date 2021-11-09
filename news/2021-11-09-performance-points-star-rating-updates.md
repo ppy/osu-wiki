@@ -108,7 +108,7 @@ The speed hard cap in osu! has been removed by [**emu1337**](https://osu.ppy.sh/
 The speed cap was previously set to 300 BPM to prevent abuse cases, which means that calculating difficulty on beatmaps with higher BPM requires special consideration. Two adjustments were made to account for that:
 
 - Quick doubles with overlapping hit windows are nerfed. With a small enough time interval between two notes, they can still be perfectly hit by simply double-tapping during the overlap of their hit windows. This is now accounted for in calculations by artificially increasing the time gap between the notes.
-- Speed is nerfed if successive objects are faster than the 300 hit window. This is intended to target cheesing of faster bursts and streams if the hit window is way larger than the time between notes.
+- Streams with overlapping hit windows are nerfed. This is intended to target cheesing of faster bursts in a manner similar to the above.
 
 The intention behind this change is to accommodate for future improvement, as there are a handful of players who have proven themselves to be competent at such high speeds. 
 
