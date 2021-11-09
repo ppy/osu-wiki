@@ -126,6 +126,6 @@ Alongside all those big changes above, there are some changes on the smaller sid
 
 ---
 
-Massive thanks to listed contributors for all the changes made above plus providing details and assistance with this newspost, and all the members of the community who gave their feedback.
+Massive thanks to listed contributors for all the changes made above plus providing details and assistance with this newspost, and all the members of the community who gave their feedback. We'd also like to thank all of the wikifriends involved in helping iron out this article, especially [spaceman_atlas](https://osu.ppy.sh/users/3035836), [Walavouchey](https://osu.ppy.sh/users/5773079) and [clayton](https://osu.ppy.sh/users/3666350).
 
 —osu!team
