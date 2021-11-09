@@ -21,7 +21,7 @@ Ein individueller Artikel beschreibt einen einzigen Ausdruck oder ein Konzept un
 
 Übersetzungen in verschiedenen Sprachen sind für einige Artikel verfügbar. Sie werden von Mitgliedern der Community erstellt und die Auswahl an Sprachen ist nur durch die [Sprachenliste](/wiki/Article_styling_criteria/Formatting#locales) begrenzt, die die Webseite unterstützt.
 
-## Design
+## Modell
 
 Bei der Entwicklung des Wikis wurde immer die Zugänglichkeit berücksichtigt: Bearbeitungen und Übersetzungen können (und sollen) von jedem gemacht werden, der Kenntnisse in der entsprechenden Sprache aufweist. Der Quellcode für die Artikel wird auf dem [GitHub Repository](https://github.com/ppy/osu-wiki) gespeichert und von Mitwirkenden durch [die Erstellung von Pull Requests]((/wiki/osu!_wiki/Contribution_guide)) aktualisiert. Im Anschluss werden die Vorschläge bewertet und von [Verantwortlichen](/wiki/osu!_wiki/Maintenance/List_of_maintainers) genehmigt.
 
