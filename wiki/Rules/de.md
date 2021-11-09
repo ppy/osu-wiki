@@ -12,8 +12,9 @@ Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu! Comm
 2. **Spiele fair** Die Benutzung von Drittanbieter-Software jeglicher Art geht nicht in Ordnung. Dazu gehören Makros, Aim-Assits, Speedhacks etc. Sobald dir ein Programm dabei hilft, etwas zu tun, was du selbst tun musst ist es nicht okay.
 3. **Seid freundlich zueinander.** Die osu! Community bietet keinen Platz für Feindseligkeiten oder Belästigungen. Wir sind alle hier um Kreise zu klicken, Trommeln zu schlagen, Früchte zu fangen oder bis zu achtzehn Tasten gleichzeitig zu drücken - und nicht um Arschlöcher zueinander zu sein.
 4. **Sei kein Idiot.** Solltest du dir einmal unsicher sein, ob du gerade die Regeln brichst, dann tust du es wahrscheinlich gerade.
-5. **Personen aller Altersgruppen sind Teil dieser Community.** Das bedeutet, dass nicht jugendfreie Inhalte nicht willkommen sind. Darunter fallen unter anderem Themen zu Drogen oder sexueller Natur. Manchmal gibt es Ausnahmen, aber im Allgemeinen muss alles jugendfrei bleiben.
-6. **Wofür es keine Regeln gibt, gibt es den gesunden Menschenverstand.** Die Administratoren behalten sich das Recht vor, ihr Urteil nach eigenem Ermessen zu fällen.
+5. **Personen aller Altersgruppen sind Teil dieser Community.** Das bedeutet, dass nicht jugendfreie/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) Inhalte nicht willkommen sind. Darunter fallen unter anderem die Nutzung von Drogen oder Themen sexueller Natur.
+6. **Bleib sauber.** osu! ist nicht der Ort zum daten oder flirten. Verwendung sexueller Sprache, Bilder oder ungewollte Annäherungsveruche gegenüber anderen Mitgliedern der Community, ob öffentlich oder privat, sind NICHT in Ordnung. Solltest du dich jemals durch die Art, in der jemand zu dir spricht, unwohl fühlen [berichte uns dies im Vertrauen](/wiki/Reporting_Bad_Behaviour/Abuse), damit wir dir helfen können (und dabei potentiell andere davon abhalten, betroffen zu sein).
+7. **Wofür es keine Regeln gibt, gibt es den gesunden Menschenverstand.** Die Administratoren behalten sich das Recht vor, ihr Urteil nach eigenem Ermessen zu fällen.
 
 ## In-Game-Chatregeln
 
