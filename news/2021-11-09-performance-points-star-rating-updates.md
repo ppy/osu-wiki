@@ -14,7 +14,7 @@ We will be covering only changes made to the **osu!** game mode in this post.
 
 ## Release Schedule
 
-Deployment of these changes will as usual, take some time to fully complete. As this batch of changes affects all game modes, it will likely take longer than normal. If you are interested in following the progress we recommend you bookmark this page and check back on this section, as it will be updated as forward progress is made.
+Deployment of these changes will as usual, take some time to fully complete. If you are interested in following the progress we recommend you bookmark this page and check back on this section, as it will be updated as forward progress is made.
 
 ### 🏃 Star rating updates \[2021-11-09 - 2021-11-11\]
 
