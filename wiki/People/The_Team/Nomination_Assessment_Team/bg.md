@@ -84,6 +84,7 @@ NAT държи потенциалните NAT членове в списъка �
 <!-- last update: 2021-11-06 04:00 added Capu and radar to osu!taiko, removed Agatsu and Kibbleru from osu! -->
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Белгия"
+[flag_CL]: /wiki/shared/flag/CL.gif "Чили"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Алжир"
 [flag_ES]: /wiki/shared/flag/ES.gif "Испания"
 [flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"
