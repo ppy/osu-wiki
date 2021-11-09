@@ -77,12 +77,11 @@ Here are a few examples:
 - [DragonForce - Through the Fire and Flames (Ponoyoshi) [Myth]](https://osu.ppy.sh/beatmapsets/382400#osu/1001682) 6.1* --> 6.32*
 - [Panda Eyes & Teminite - Immortal Flame (feat. Anna Yvette) (Sotarks) [Eternal Blaze]](https://osu.ppy.sh/beatmapsets/703957#osu/1489207) 7.05* --> 6.94*
 
-As for the formula change itself, you can compare and contrast between these:
+As for the formula change, the graph below should help illustrate the difference:
 
-Old formula: ![](/wiki/shared/news/2021-11-08-performance-points-star-rating-updates/old-sr-white.png)
-New formula: ![](/wiki/shared/news/2021-11-08-performance-points-star-rating-updates/new-sr-white.png)
+![Star rating adjustments graph](/wiki/shared/news/2021-11-08-performance-points-star-rating-updates/star-rating-function.png)
 
-Interested in what each term means? [**This document**](https://docs.google.com/document/d/10DZGYYSsT_yjz2Mtp6yIJld0Rqx4E-vVHupCqiM4TNI/edit?usp=sharing) written up by [Naitsirk](https://osu.ppy.sh/users/8202998) goes into the nitty gritty details regarding the terms and the derivation itself, for those more mathematically inclined.
+If you're interested in the mathematical details of this change, please consult  [**the initial proposal document**](https://docs.google.com/document/d/10DZGYYSsT_yjz2Mtp6yIJld0Rqx4E-vVHupCqiM4TNI/edit?usp=sharing) written up by [Naitsirk](https://osu.ppy.sh/users/8202998).
 
 ### New Flashlight difficulty skill
 
