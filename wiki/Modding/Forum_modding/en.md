@@ -58,13 +58,13 @@ The beatmap's progress in the ranking procedure was shown through posts made by 
 ### Mod
 
 ::: Infobox
-![](img/mod-post.png "An example of a mod post that was awarded with a kudosu ([p/1287834](https://osu.ppy.sh/forum/p/1287834))")
+![](img/mod-post.png "An example of a mod post that was awarded with a kudosu")
 :::
 
 Unlike in [beatmap discussions](/wiki/Beatmap_Discussion), a typical forum mod post covered the whole beatmap and could contain a lot of content. While users were free to express their thoughts in any form they wished, the majority of modders adhered to a specific structure to make their posts more readable:
 
 - There were several sections corresponding to single difficulties and a list of beatmap-wide settings/issues.
-- Each section contained a list of timestamps, often pointing to specific [hit objects](/wiki/Hit_object).
+- Each section contained a list of [timestamps](/wiki/Modding/Timestamp), often pointing to specific [hit objects](/wiki/Hit_object).
 - Each timestamp was followed by a short description of the issue, sometimes with screenshots to further clarify a concern.
 - Based on the severity of the issue, some modders used [colour coding](/wiki/BBCode#colour) in their post to highlight unrankable issues or key points.
 
@@ -73,7 +73,7 @@ The modern *review* system was created to mimic forum modding in beatmap discuss
 ### Response
 
 ::: Infobox
-![](img/mod-response.png "An example of a response to a mod ([p/4469677](https://osu.ppy.sh/forum/p/4469677))")
+![](img/mod-response.png "An example of a response to a mod")
 :::
 
 While not required, mappers were expected to reply to every mod received. A reply typically contained a quote of the original post, where every suggestion was followed by a mapper's response. As with mod posts, many mappers used two or more font colours to convey their responses and help distinguish between accepted and rejected suggestions.
@@ -97,9 +97,9 @@ In the forum-based modding system, a lot of actions were manual, which often led
 - Mods could be partially or completely ignored, intentionally or not.
 - Maps could be ranked with unrankable issues, or without the approval of mode-specific nominator(s).
 
-The changes required to address most common issues were initiated on [August 21, 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), when a new category, [Qualified](/wiki/Beatmap/Category#qualified), was added. Qualified would serve as a buffer between pending and ranked beatmaps and allow for more smooth unranks. In addition to that, a new team, [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*), was assembled to check qualified beatmaps and control the ranking process.
+The changes required to address most common issues were initiated on [April 26, 2013](https://osu.ppy.sh/community/forums/topics/129625), when [peppy](/wiki/People/peppy) presented the idea of the [new modding system](/wiki/Beatmap_Discussion) (later known as *Modding v2*). On [August 21, 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), a new category, [Qualified](/wiki/Beatmap/Category#qualified), was added. Qualified would serve as a buffer between pending and ranked beatmaps and allow for more smooth unranks. In addition to that, a new team, [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*), was assembled to check qualified beatmaps and control the ranking process.
 
-Afterwards, the new [beatmap discussion system](/wiki/Beatmap_Discussion) and the [code of conduct for modding and mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) were developed to restructure modding and make it a more enjoyable experience for everyone involved.
+Afterwards, the beatmap discussion system and the [code of conduct for modding and mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) were developed and made available to restructure modding and make it a more enjoyable experience for everyone involved:
 
 - [April 11, 2016](https://osu.ppy.sh/community/forums/topics/442285): Beatmap discussions were enabled for two beatmaps and made available for public testing.
 - [February 1, 2017](https://osu.ppy.sh/community/forums/topics/552250): After several more months of development based on collected feedback, the next version of the discussion system was enabled for another, larger set of beatmaps.

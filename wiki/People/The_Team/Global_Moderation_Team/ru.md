@@ -61,6 +61,7 @@ tags:
 | Имя | Языки | Сферы деятельности |
 | :-- | :-- | :-- |
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Немецкий | Модерация чата |
+| ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) | Венгерский | Модерация чата |
 | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Русский | Модерация чата |
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Модерация форума |
 | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) |  | Турниры |
@@ -130,7 +131,6 @@ tags:
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Польский | Модерация чата |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Модерация чата |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Турецкий, немецкий | Модерация чата |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | Модерация чата |
 
 ### Группировка по языкам
 
@@ -150,7 +150,7 @@ tags:
 | `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985), ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#greek` |  |  |
 | `#hebrew` |  |  |
-| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) |  |
+| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) |
 | `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) |
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
@@ -180,6 +180,7 @@ tags:
 [flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"
 [flag_HK]: /wiki/shared/flag/HK.gif "Гонконг"
 [flag_HM]: /wiki/shared/flag/HM.gif "Остров Херд и острова Макдональд"
+[flag_HU]: /wiki/shared/flag/HU.gif "Венгрия"
 [flag_ID]: /wiki/shared/flag/ID.gif "Индонезия"
 [flag_IT]: /wiki/shared/flag/IT.gif "Италия"
 [flag_JP]: /wiki/shared/flag/JP.gif "Япония"
