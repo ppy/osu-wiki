@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Performance Points & Star Rating Updates"
-date: 2021-11-08 10:00:00 +0000
+date: 2021-11-09 10:00:00 +0000
 ---
 
 ![](/wiki/shared/news/2021-07-27-performance-points-star-rating-updates/star-rating.jpg)
