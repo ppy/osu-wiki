@@ -165,6 +165,11 @@ Alongside all those big changes above, there are some changes on the smaller sid
 - In preparation for osu!lazer, difficulty calculation for [the Blinds mod](https://github.com/ppy/osu/pull/14921) and [the Relax mod](https://github.com/ppy/osu/pull/14942) has been added by [**Apo11o**](https://osu.ppy.sh/users/9558549).
   - These could be potentially enabled in the future once osu!lazer leaderboard submissions go live, since the concept of "ranked mods" will be no more.
 
+### Most impacted maps
+
+In order to test the result of the rework a spreadsheet with the most 10000 impacted maps has been generated.
+You can find it [here](https://docs.google.com/spreadsheets/d/1XONSMA-LTUMuCw3VpZQM2-fo9ZcEsgMp2ekwjZ2QMCA/edit?usp=sharing) and see which map gains or loses the most of star rating or pp.
+
 ---
 
 Massive thanks to listed contributors for all the changes made above plus providing details and assistance with this newspost, and all the members of the community who gave their feedback. We'd also like to thank all of the wikifriends involved in helping iron out this article, especially [spaceman_atlas](https://osu.ppy.sh/users/3035836), [Walavouchey](https://osu.ppy.sh/users/5773079) and [clayton](https://osu.ppy.sh/users/3666350).
