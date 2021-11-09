@@ -29,7 +29,7 @@ Die Artikel sind nach dem ["GitHub-flavoured Markdown"](https://help.github.com/
 
 Artikel werden nach den [Gestaltungskriterien](/wiki/Article_styling_criteria) des osu! wikis gehalten, was bedeutet, dass sie in einer neutralen Sprache geschrieben sind und allgemeinen Formatierungsregeln folgen. Manche Artikel dienen als Liste für häufig gestellte Fragen (FAQ) für ein Thema und verwenden Umgangssprache. Übersetzungen folgen dem Paritätsprinzip für den Inhalt und haben dieselben Formatierungsregeln.
 
-Obwohl das Wiki *wiki* im Namen trägt, erfüllt es nicht alle Kriterien des [Wiki-Konzepts](https://en.wikipedia.org/wiki/Wiki):
+Obwohl das osu! wiki *wiki* im Namen trägt, erfüllt es nicht alle Kriterien des [Wiki-Konzepts](https://en.wikipedia.org/wiki/Wiki):
 
 - Benutzer werden dazu aufgerufen, bereits existierende Artikel zu verbessern und neue zu kreieren, aber Grundlagenkenntnisse über [GitHub](https://github.com) werden erwartet. Dadurch wird die Schwelle für Einsteiger angehoben.
 - Alle Änderungen im osu! wiki werden moderiert und durchlaufen einen Bewertungsprozess, in dem von einem Mitwirkenden Zusammenarbeit erwartet wird.
