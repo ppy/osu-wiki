@@ -53,7 +53,8 @@ NAT държи потенциалните NAT членове в списъка �
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Шведски | Структура, Комуникация |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Оценка, Структура, Комуникация |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Структура |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Португалски | Оценка, Структура, Комуникация |
+| ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  | Оценка |
+| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Испански, Френски | Оценка |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Немски | Оценка |
 | ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Полски | Оценка |
 
@@ -80,8 +81,9 @@ NAT държи потенциалните NAT членове в списъка �
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Арабски, Френски | Оценка |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Оценка |
 
+<!-- last update: 2021-11-06 04:00 added Capu and radar to osu!taiko, removed Agatsu and Kibbleru from osu! -->
+
 [flag_BE]: /wiki/shared/flag/BE.gif "Белгия"
-[flag_CL]: /wiki/shared/flag/CL.gif "Чили"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Алжир"
 [flag_ES]: /wiki/shared/flag/ES.gif "Испания"
 [flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"
@@ -90,5 +92,4 @@ NAT държи потенциалните NAT членове в списъка �
 [flag_NL]: /wiki/shared/flag/NL.gif "Холандия"
 [flag_PL]: /wiki/shared/flag/PL.gif "Полша"
 [flag_SE]: /wiki/shared/flag/SE.gif "Швеция"
-[flag_TH]: /wiki/shared/flag/TH.gif "Тайланд"
 [flag_US]: /wiki/shared/flag/US.gif "Съединени Щати"
