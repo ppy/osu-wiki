@@ -27,11 +27,11 @@ The **UK Community Cup 6** (***UKCC6***) was a British 2v2 double-elimination os
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter, unique profile badge, 1st place trophy and £75 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter, 2nd place medal and £45 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter, 3rd place medal and £25 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter, unique profile badge, 1st place trophy, £75 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter, 2nd place medal, £45 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter, 3rd place medal, £25 |
 
 ![](img/badge.jpg "UKCC6 winner badge")
 
@@ -43,7 +43,7 @@ The **UK Community Cup 6** (***UKCC6***) was a British 2v2 double-elimination os
 
 The UK Community Cup 6 was run by various community members.
 
-| Position | Member(s) |
+| Position | Members |
 | :-- | :-- |
 | Manager | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Chrigarr](https://osu.ppy.sh/users/10111130), ![][flag_GB] [\_Takara](https://osu.ppy.sh/users/11599184), ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378) |
 | Mappool selector | ![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262), ![][flag_GB] [Jameslike](https://osu.ppy.sh/users/2415743), ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597), ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) |
@@ -63,7 +63,7 @@ The UK Community Cup 6 was run by various community members.
 
 ## Participants
 
-### High Seed
+### High seed
 
 | Team | Members |
 | :-- | :-- |
@@ -84,7 +84,7 @@ The UK Community Cup 6 was run by various community members.
 | **Burrito Gang** | ![][flag_GB] [skyset](https://osu.ppy.sh/users/6244594), ![][flag_GB] [Cla](https://osu.ppy.sh/users/4748791) |
 | **V I N T A G E** | ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379), ![][flag_GB] [Kardet](https://osu.ppy.sh/users/1438509) |
 
-### Mid Seed
+### Mid seed
 
 | Team | Members |
 | :-- | :-- |
@@ -105,7 +105,7 @@ The UK Community Cup 6 was run by various community members.
 | **can we play all our amtches drunk?** | ![][flag_GB] [Doughy](https://osu.ppy.sh/users/5275937), ![][flag_GB] [Orenjijusu](https://osu.ppy.sh/users/5261864) |
 | **send cat pics** | ![][flag_GB] [unrealLyyy](https://osu.ppy.sh/users/9594849), ![][flag_GB] [IamKirby](https://osu.ppy.sh/users/3955274) |
 
-### Low Seed
+### Low seed
 
 | Team | Members |
 | :-- | :-- |
@@ -162,7 +162,7 @@ This competition has come to an end and resulted in the following podium:
   - [twiddy - Live from the Bowling Alley (squirrelpascals) [Collab Insane]](https://osu.ppy.sh/beatmapsets/873671#osu/1826146)
   - [Harry - Earth Day (Moway) [Earth Day]](https://osu.ppy.sh/beatmapsets/65228#osu/195502)
 - FreeMod
-  - Blacklolita - Praeteritum \[Anachronism\]
+  - [Blacklolita - Praeteritum (JeZag) [Anachronism]](https://osu.ppy.sh/beatmapsets/651006#osu/2406944)
   - [Susumu Hirasawa - The Secret of The Flowers of Phenomenon (jesus1412) [Insane]](https://osu.ppy.sh/beatmapsets/70247#osu/201974)
   - [Can't Stop Won't Stop (feat. Fresh Big Mouf) - Mighty & High (thiev) [Hip Hop]](https://osu.ppy.sh/beatmapsets/770361#osu/1619682)
 - Tiebreaker

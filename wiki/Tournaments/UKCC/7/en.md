@@ -63,7 +63,7 @@ The UK Community Cup 7 was run by various community members.
 | Seed | Players |
 | :-- | :-- |
 | 1-16 | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_GB] [Spare](https://osu.ppy.sh/users/2204373), ![][flag_GB] [MoeYandere](https://osu.ppy.sh/users/2565902), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [bloo](https://osu.ppy.sh/users/6778877), ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262), ![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761), ![][flag_GB] [Woffel](https://osu.ppy.sh/users/3915122), ![][flag_GB] [Wario](https://osu.ppy.sh/users/4361729), ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222), ![][flag_GB] [Harpy](https://osu.ppy.sh/users/6761714), ![][flag_GB] [hlo](https://osu.ppy.sh/users/2232928), ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597), ![][flag_GB] [Summer Solstice](https://osu.ppy.sh/users/3233710) |
-| 17-32 | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761), ![][flag_GB] [hlo](https://osu.ppy.sh/users/3181083), ![][flag_GB] [Zyphox](https://osu.ppy.sh/users/6589047), ![][flag_GB] [Erylie](https://osu.ppy.sh/users/6652874), ![][flag_GB] [Cla](https://osu.ppy.sh/users/4748791), ![][flag_GB] [Rinnu](https://osu.ppy.sh/users/12179012), ![][flag_GB] [meltz](https://osu.ppy.sh/users/6741042), ![][flag_GB] [pod](https://osu.ppy.sh/users/8237552), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178), ![][flag_GB] [sut_son](https://osu.ppy.sh/users/9622163), ![][flag_IE] [M a t t y](https://osu.ppy.sh/users/3737136), ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_GB] [xFluffyo](https://osu.ppy.sh/users/8397226), ![][flag_GB] [Sam](https://osu.ppy.sh/users/1453543), ![][flag_GB] [OskaRRRitoS](https://osu.ppy.sh/users/7051163) |
+| 17-32 | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761), ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083), ![][flag_GB] [Zyphox](https://osu.ppy.sh/users/6589047), ![][flag_GB] [Erylie](https://osu.ppy.sh/users/6652874), ![][flag_GB] [Cla](https://osu.ppy.sh/users/4748791), ![][flag_GB] [Rinnu](https://osu.ppy.sh/users/12179012), ![][flag_GB] [meltz](https://osu.ppy.sh/users/6741042), ![][flag_GB] [pod](https://osu.ppy.sh/users/8237552), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178), ![][flag_GB] [sut_son](https://osu.ppy.sh/users/9622163), ![][flag_IE] [M a t t y](https://osu.ppy.sh/users/3737136), ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_GB] [xFluffyo](https://osu.ppy.sh/users/8397226), ![][flag_GB] [Sam](https://osu.ppy.sh/users/1453543), ![][flag_GB] [OskaRRRitoS](https://osu.ppy.sh/users/7051163) |
 | 33-48 | ![][flag_GB] [Appilesh](https://osu.ppy.sh/users/6467933), ![][flag_IE] [Impossabear](https://osu.ppy.sh/users/10278329), ![][flag_GB] [Maharen](https://osu.ppy.sh/users/4019511), ![][flag_GB] [Kerantina](https://osu.ppy.sh/users/7516484), ![][flag_GB] [Lemonosity](https://osu.ppy.sh/users/5668221), ![][flag_GB] [- Akumi -](https://osu.ppy.sh/users/10528604), ![][flag_GB] [idealnettles](https://osu.ppy.sh/users/4010354), ![][flag_GB] [Gazzzaa](https://osu.ppy.sh/users/8624512), ![][flag_GB] [[Nathan]](https://osu.ppy.sh/users/4741293), ![][flag_GB] [Flare](https://osu.ppy.sh/users/10670430), ![][flag_IE] [Pedro yH](https://osu.ppy.sh/users/5579031), ![][flag_GB] [Cephus](https://osu.ppy.sh/users/3373206), ![][flag_GB] [Teejay](https://osu.ppy.sh/users/9499753), ![][flag_GB] [Lusory](https://osu.ppy.sh/users/2101270), ![][flag_GB] [Tilley](https://osu.ppy.sh/users/8793814), ![][flag_GB] [phant0mm](https://osu.ppy.sh/users/4490737) |
 | 49-64 | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [skyset](https://osu.ppy.sh/users/6244594), ![][flag_GB] [ChicagoTed7172](https://osu.ppy.sh/users/2948139), ![][flag_GB] [Rime](https://osu.ppy.sh/users/1397232), ![][flag_GB] [dong](https://osu.ppy.sh/users/4422446), ![][flag_GB] [Dep](https://osu.ppy.sh/users/11894736), ![][flag_GB] [Mazz](https://osu.ppy.sh/users/7404874), ![][flag_GB] [Chugger](https://osu.ppy.sh/users/4491713), ![][flag_GB] [-spoon-](https://osu.ppy.sh/users/10623176), ![][flag_GB] [Hoshik](https://osu.ppy.sh/users/10822769), ![][flag_GB] [unrealLyyy](https://osu.ppy.sh/users/9594849), ![][flag_GB] [RndGuy](https://osu.ppy.sh/users/1201586), ![][flag_GB] [Defex](https://osu.ppy.sh/users/9674143), ![][flag_IE] [S E K A I](https://osu.ppy.sh/users/8726490), ![][flag_GB] [Declan](https://osu.ppy.sh/users/9673192), ![][flag_GB] [-Deeline](https://osu.ppy.sh/users/10121815) |
 | 65-80 | ![][flag_GB] [Raiii](https://osu.ppy.sh/users/10300454), ![][flag_GB] [Venoxia](https://osu.ppy.sh/users/7333471), ![][flag_GB] [This Acc Sucks](https://osu.ppy.sh/users/7299249), ![][flag_IE] [iNomaj](https://osu.ppy.sh/users/11042987), ![][flag_GB] [Gazza](https://osu.ppy.sh/users/3648459), ![][flag_GB] [DanZqa](https://osu.ppy.sh/users/4572097), ![][flag_GB] [Coodywoo](https://osu.ppy.sh/users/6145623), ![][flag_GB] [HonourBound](https://osu.ppy.sh/users/2945999), ![][flag_GB] [Axyom](https://osu.ppy.sh/users/10510045), ![][flag_GB] [Daiyaa](https://osu.ppy.sh/users/929134), ![][flag_GB] [4Circ](https://osu.ppy.sh/users/2161823), ![][flag_IE] [teetoew](https://osu.ppy.sh/users/3805082), ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226), ![][flag_IE] [KaiWhen](https://osu.ppy.sh/users/10040214), ![][flag_US] [Kirix](https://osu.ppy.sh/users/2480224), ![][flag_IE] [Nivlac-](https://osu.ppy.sh/users/8978983) |
@@ -78,7 +78,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [Bubbleman](https://osu.ppy.sh/users/5182050) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [Spare](https://osu.ppy.sh/users/2204373) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [hlo](https://osu.ppy.sh/users/3181083) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [AJT](https://osu.ppy.sh/users/3181083) |
 
 ## Mappools
 
@@ -318,7 +318,7 @@ Wednesday, 23 October 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **7** | 4 | ![][flag_GB] hlo | [#1](https://osu.ppy.sh/community/matches/55760376) |
+| **Bubbleman** ![][flag_GB] | **7** | 4 | ![][flag_GB] AJT | [#1](https://osu.ppy.sh/community/matches/55760376) |
 
 ### Finals
 
@@ -328,7 +328,7 @@ Saturday, 19 October 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Spare** ![][flag_GB] | **6** | 3 | ![][flag_GB] hlo | [#1](https://osu.ppy.sh/community/matches/55673675) |
+| **Spare** ![][flag_GB] | **6** | 3 | ![][flag_GB] AJT | [#1](https://osu.ppy.sh/community/matches/55673675) |
 
 #### Losers Bracket Round 6
 
@@ -361,7 +361,7 @@ Sunday, 13 October 2019:
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Spare** ![][flag_GB] | **6** | 3 | ![][flag_GB] Harpy | [#1](https://osu.ppy.sh/community/matches/55539551) |
-| **hlo** ![][flag_GB] | **6** | 4 | ![][flag_GB] Ventus | [#1](https://osu.ppy.sh/community/matches/55545686) |
+| **AJT** ![][flag_GB] | **6** | 4 | ![][flag_GB] Ventus | [#1](https://osu.ppy.sh/community/matches/55545686) |
 
 #### Losers Bracket Round 4
 
@@ -412,7 +412,7 @@ Saturday, 5 October 2019:
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Spare** ![][flag_GB] | **5** | 0 | ![][flag_GB] bloo | [#1](https://osu.ppy.sh/community/matches/55335898) |
-| **hlo** ![][flag_GB] | **5** | 3 | ![][flag_GB] Best459 | [#1](https://osu.ppy.sh/community/matches/55350496) |
+| **AJT** ![][flag_GB] | **5** | 3 | ![][flag_GB] Best459 | [#1](https://osu.ppy.sh/community/matches/55350496) |
 
 Sunday, 6 October 2019:
 
@@ -499,7 +499,7 @@ Sunday, 29 September 2019:
 | --: | :-: | :-: | :-- | :-- |
 | **Spare** ![][flag_GB] | **5** | 3 | ![][flag_GB] helix | [#1](https://osu.ppy.sh/community/matches/55205273) |
 | **Doomsday** ![][flag_GB] | **5** | 3 | ![][flag_GB] majoreh | [#1](https://osu.ppy.sh/community/matches/55206159) |
-| **hlo** ![][flag_GB] | **5** | 4 | ![][flag_GB] Kingling | [#1](https://osu.ppy.sh/community/matches/55211334) |
+| **AJT** ![][flag_GB] | **5** | 4 | ![][flag_GB] Kingling | [#1](https://osu.ppy.sh/community/matches/55211334) |
 | Bubbleman ![][flag_GB] | -1 | **0** | ![][flag_GB] **Ventus** | *forfeit* |
 | Voss ![][flag_GB] | 2 | **5** | ![][flag_GB] **Wario** | [#1](https://osu.ppy.sh/community/matches/55214023) |
 
@@ -547,7 +547,7 @@ Saturday, 21 September 2019:
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Spare** ![][flag_GB] | **5** | 1 | ![][flag_GB] Kirix | [#1](https://osu.ppy.sh/community/matches/55002002) |
-| **hlo** ![][flag_GB] | **5** | 1 | ![][flag_GB] Appilesh | [#1](https://osu.ppy.sh/community/matches/55002344) |
+| **AJT** ![][flag_GB] | **5** | 1 | ![][flag_GB] Appilesh | [#1](https://osu.ppy.sh/community/matches/55002344) |
 | **Best459** ![][flag_GB] | **5** | 3 | ![][flag_GB] hlo | [#1](https://osu.ppy.sh/community/matches/55004099) |
 | **Doomsday** ![][flag_GB] | **5** | 0 | ![][flag_GB] meltz | [#1](https://osu.ppy.sh/community/matches/55008167) |
 | **Malteser** ![][flag_GB] | **5** | 0 | ![][flag_GB] Tilley | [#1](https://osu.ppy.sh/community/matches/55010302) |
@@ -585,7 +585,7 @@ Top 10 qualification results:
 
 | Placing | Player | Total score | Average score |
 | --: | :-- | :-- | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [hlo](https://osu.ppy.sh/users/3181083) | 9,047,548 | 1,005,283 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) | 9,047,548 | 1,005,283 |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [Spare](https://osu.ppy.sh/users/2204373) | 8,927,095 | 991,899 |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761) | 8,925,622 | 991,736 |
 | *4th place* | ![][flag_GB] [Harpy](https://osu.ppy.sh/users/6761714) | 8,883,330 | 987,037 |
@@ -610,7 +610,7 @@ Top 10 qualification results:
 | *4th place* | ![][flag_GB] [Harpy](https://osu.ppy.sh/users/6761714) | 7,301,100 | 1,043,014 |
 | *5th place* | ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366) | 7,236,793 | 1,033,828 |
 | *6th place* | ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178) | 7,190,030 | 1,027,147 |
-| *7th place* | ![][flag_GB] [hlo](https://osu.ppy.sh/users/3181083) | 7,115,924 | 1,016,561 |
+| *7th place* | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) | 7,115,924 | 1,016,561 |
 | *8th place* | ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549) | 7,104,376 | 1,014,911 |
 | *9th place* | ![][flag_GB] [Spare](https://osu.ppy.sh/users/2204373) | 7,003,977 | 1,000,568 |
 | *10th place* | ![][flag_GB] [idealnettles](https://osu.ppy.sh/users/4010354) | 6,974,913 | 996,416 |
