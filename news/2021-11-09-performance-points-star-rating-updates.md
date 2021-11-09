@@ -12,6 +12,49 @@ If you find yourself scratching your head when reading, consider consulting the 
 
 We will be covering only changes made to the **osu!** game mode in this post.
 
+## Release Schedule
+
+Deployment of these changes will as usual, take some time to fully complete. As this batch of changes affects all game modes, it will likely take longer than normal. If you are interested in following the progress we recommend you bookmark this page and check back on this section, as it will be updated as forward progress is made.
+
+### 🏃 Star rating updates \[2021-11-09 - 2021-11-11\]
+
+An initial pass over all beatmaps to update their star ratings. Usually we wouldn't pause pp updates during this stage, but due to new additions it is required this time.
+
+Estimated to take 1-2 days. 
+
+### ⌛ Background user total recalculations \[2021-11-11 - 2021-11-15\]
+
+Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
+
+During this period, rank history graphs will be frozen. If a user plays, their **total pp** value will immediately be updated using the correct values for all past scores, but this won't match past scores' display under "Best Performance". **As a result, it may seem as if you temporarily gain, lose or fluctuate in rank relative to others.**
+
+During this maintenance, the following will also occur:
+
+- Inactive users (anyone that has not played the game in 3 months) will be delisted.
+- Scores in the "best performance" profile section may look to be out of order, or not visible at all during this phase. This will resolve completely during the reindexing phase listed below.
+
+Estimated to take 4 days for the majority of active users, and longer for lower ranking users. The initial run is targeting all users above 1,000 total pp, after which we will begin to start a longer running update that may run over a week or so.
+
+### ⌛ Re-enabling of global rank history updates \[2021-11-15\]
+
+Rank history graphs updates will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
+
+UPDATE: Updates have been re-enabled and will continue as per normal.
+
+### ⌛ Reindexing \[2021-11-15 - 2021-11-16\]
+
+This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
+
+Estimated to take 1 day.
+
+### ⌛ Background user score recalculations \[2021-11-16 ~\]
+
+While the aforementioned "user total" step is aimed to cover the majority of visible scores in the "Best Performance" profile section, this is a second pass operation which aims to address all remaining scores that may have not been updated yet.
+
+This will run over weeks or months in the background as required.
+
+---
+
 ## The Performance Points Committee
 
 Based on the feedback from the [last survey we held on scoring and performance](https://assets.ppy.sh/pp-survey-results/viewer.htm?v=1337), we have established a Performance Points Committee to help facilitate faster review and uptake of incoming changes.
