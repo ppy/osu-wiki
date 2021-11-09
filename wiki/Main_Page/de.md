@@ -22,7 +22,7 @@ Wichtige Artikel und Tutorials, die dir dabei helfen, in die Welt von osu! einzu
 
 # Spiel-Client
 
-Als Wegweiser in die Welt des Rhythmus, des Beats und der Blitzlichter hat osu! viel zu präsentieren. Lerne das Spiel in all seinen Einstellungs- und Konfigurationsmöglichkeiten bis hin zu technischen Details, wie z. B. die verschiedenen Dateiformate, besser kennen.
+Als Wegweiser in die Welt des Rhythmus, des Beats und der Blitzlichter hat osu! viel zu präsentieren. Lerne das Spiel in all seinen Einstellungs- und Konfigurationsmöglichkeiten bis hin zu technischen Details, wie z. B. den verschiedenen Dateiformaten, besser kennen.
 
 [Benutzeroberfläche](/wiki/Interface) • [Optionen](/wiki/Options) • [Visuelle Einstellungen](/wiki/Visual_Settings) • [Tastenkürzel-Referenzen](/wiki/Shortcut_key_reference) • [Konfigurationsdatei](/wiki/osu!_Program_Files/User_Configuration_File) • [Programmdateien](/wiki/osu!_Program_Files)
 
