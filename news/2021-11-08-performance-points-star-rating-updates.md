@@ -52,7 +52,7 @@ Consider these two rhythms:
 
 ![](/wiki/shared/news/2021-11-08-performance-points-star-rating-updates/rhythm-complexity.png)
 
-Before this difficulty calculation change, the first pattern would have always had greater strain than the second.  In reality, the second can be as demanding or even harder than the first depending on the map. With these new changes, the algorithm now more accurately reflects this.
+Before this difficulty calculation change, the first pattern would have always had greater strain than the second. In reality, the second can be as demanding or even harder than the first depending on the map. With these new changes, the algorithm now more accurately reflects this.
 
 To summarise how rhythm complexity works, notes are grouped up into 'islands', with a triple expressed as a size 3 'island'. Each island is then grouped by the algorithm and considered in a variety of ways, such as:
 
@@ -107,7 +107,7 @@ The speed hard cap in osu! has been removed by [**emu1337**](https://osu.ppy.sh/
 
 The speed cap was previously set to 300 BPM to prevent abuse cases, which means that calculating difficulty on beatmaps with higher BPM requires special consideration. Two adjustments were made to account for that:
 
-Quick doubles with overlapping hit windows are nerfed. With a small enough time interval between two notes, they can still be perfectly hit by simply double-tapping during the overlap of their hit windows. This is now accounted for in calculations by artificially increasing the time gap between the notes.
+- Quick doubles with overlapping hit windows are nerfed. With a small enough time interval between two notes, they can still be perfectly hit by simply double-tapping during the overlap of their hit windows. This is now accounted for in calculations by artificially increasing the time gap between the notes.
 - Speed is nerfed if successive objects are faster than the 300 hit window. This is intended to target cheesing of faster bursts and streams if the hit window is way larger than the time between notes.
 
 The intention behind this change is to accommodate for future improvement, as there are a handful of players who have proven themselves to be competent at such high speeds. 
