@@ -97,7 +97,7 @@ Was du tun kannst: [Wie und mit was helfen](/wiki/How_you_can_help!) • [Melde 
 
 Eine aktive Community sind eines der Dinge, die osu! voranbringen. Entdecke die Aktivitätan und Veranstaltungen, freunde dich mit anderen an oder helfe, das nächste Event zu organisieren!
 
-[Turniere](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Veranstaltungen](/wiki/Contests) • [Mentorenprogramm](/wiki/Community_Mentorship_Program)
+[Turniere](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Wettbewerbe](/wiki/Contests) • [Mentorenprogramm](/wiki/Community_Mentorship_Program)
 
 [Projekte](/wiki/Projects): [Featured Artists](/wiki/Featured_Artists) • [osu! Community Meetings](/wiki/osu!_Community_Meetings) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
 
