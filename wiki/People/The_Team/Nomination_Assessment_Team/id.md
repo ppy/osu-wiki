@@ -47,10 +47,8 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluasi, moderasi |
-| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluasi |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kanton, Mandarin | Evaluasi |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengal, sedikit Arab | Evaluasi, struktural, moderasi, komunikasi |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluasi |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedia | Struktural, komunikasi |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluasi, struktural, komunikasi |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Struktural |
@@ -63,8 +61,9 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
+| ![][flag_HK] [Capu](https://osu.ppy.sh/users/2474015) | Jerman | Evaluasi |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Kanton, Mandarin | Evaluasi |
-| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai | Evaluasi |
+| ![][flag_HK] [radar](https://osu.ppy.sh/users/7131099) |  | Evaluasi |
 
 ### osu!catch
 
@@ -82,7 +81,7 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluasi |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Aljazair"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
 [flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
@@ -91,5 +90,4 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 [flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
