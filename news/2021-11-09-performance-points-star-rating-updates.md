@@ -39,8 +39,6 @@ Estimated to take 4 days for the majority of active users, and longer for lower 
 
 Rank history graphs updates will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
 
-UPDATE: Updates have been re-enabled and will continue as per normal.
-
 ### ⌛ Reindexing \[2021-11-15 - 2021-11-16\]
 
 This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
