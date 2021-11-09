@@ -7,11 +7,11 @@ Ein normaler Artikel, mit einem ähnlichen Titel, muss die Kopfnote ["Für ander
 ## Auflistung uneindeutiger Artikeltitel
 
 - [Bancho](Bancho)
+- [Combo](Combo)
 - [Easy](Easy)
 - [EZ](EZ)
-- [Mod](Mod)
-- [Combo](Combo)
 - [Fail](Fail)
+- [Mod](Mod)
 - [NC](NC)
 - [NM](NM)
 - [Offset](Offset)
