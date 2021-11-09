@@ -52,7 +52,7 @@ Since osu! is community-driven, the osu! cookie logo is designed to be simple an
 - **Do not** resize any of the cookie's element independently.
 - **Do not** modify any of the cookie's element.
 - **Do not** rearrange any of the cookie's element.
-- The cookie must be tact sharp at all times. If it is part of an artwork, please place another sharp logo somewhere in the artwork.
+- The cookie must be tack sharp at all times. If it is part of an artwork, please place another sharp logo somewhere in the artwork.
 - **Do not** apply any fancy or tacky effects on the cookie.
 - **Do not** place any extra elements inside the cookie.
 - **Do not** apply outlines to the cookie. Use a different cookie colour.

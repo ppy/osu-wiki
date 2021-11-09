@@ -1,7 +1,7 @@
 ---
 stub: true
 tags:
-  - half time
+  - halftime
   - mod
   - game modifier
   - HT
