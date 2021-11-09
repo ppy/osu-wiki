@@ -6,7 +6,7 @@ Long ago in the [game's distant past](https://twitter.com/ppy/status/11692568240
 
 Currently, the osu! community meetings are being chaired by [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335), and [smoogipoo](https://osu.ppy.sh/users/1040328).
 
-The next osu! community meeting is scheduled to take place on: **October 31, 2021 (Sunday 01:00 UTC)**. Meetings are generally held every two weeks, with reminders announced on [peppy's Twitter](https://twitter.com/ppy) about a day beforehand.
+The next osu! community meeting is scheduled to take place on: **November 14, 2021 (Sunday 01:00 UTC)**. Meetings are generally held every two weeks, with reminders announced on [peppy's Twitter](https://twitter.com/ppy) about a day beforehand.
 
 ## Getting involved
 
