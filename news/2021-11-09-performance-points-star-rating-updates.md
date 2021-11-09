@@ -18,7 +18,7 @@ Deployment of these changes will as usual, take some time to fully complete. If 
 
 ### 🏃 Star rating updates \[2021-11-09 - 2021-11-11\]
 
-An initial pass over all beatmaps to update their star ratings. Usually we wouldn't pause pp updates during this stage, but due to new additions it is required this time.
+An initial pass over all beatmaps to update their star ratings. During this period, new scores will potentially be calculated using the updated calculations, but won't match old scores (which are yet to be updated). There may be discrepancies in ordering and display between the game client and web site.
 
 Estimated to take 1-2 days. 
 
