@@ -44,7 +44,7 @@ Alles über das Klicken von Kreisen, das Schlagen der Trommeln, das Schnappen vo
 
 # [Beatmap-Editor](/wiki/Beatmap_Editor)
 
-Alle Beatmaps in osu! werden von kreativen Teilnehmern seiner aktiven Community erstellt. Wolltest du schon immer deine Lieblingsmusik mit anderen teilen, aber nie gewusst wie? Mache dich vertraut mit dem eingebauten Editor und die Möglichkeiten, die dieser bietet.
+Alle Beatmaps in osu! werden von kreativen Teilnehmern seiner aktiven Community erstellt. Wolltest du schon immer deine Lieblingsmusik mit anderen teilen, hast aber nie gewusst wie? Mache dich vertraut mit dem eingebauten Editor und den Möglichkeiten, die dieser bietet.
 
 Abschnitte: [Zusammenstellung](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song-Einstellung](/wiki/Beatmap_Editor/Song_Setup)
 
