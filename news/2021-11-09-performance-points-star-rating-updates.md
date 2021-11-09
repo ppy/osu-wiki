@@ -4,9 +4,9 @@ title: "Performance Points & Star Rating Updates"
 date: 2021-11-09 10:00:00 +0000
 ---
 
-![](/wiki/shared/news/2021-07-27-performance-points-star-rating-updates/star-rating.jpg)
-
 Thanks to the contributions made by a few enterprising developers in the community, we are excited to announce that a new series of difficulty calculation changes will be going live shortly. This newspost will go into the what, the who, the when and the how, so read on to find out more!
+
+![](/wiki/shared/news/2021-07-27-performance-points-star-rating-updates/star-rating.jpg)
 
 If you find yourself scratching your head when reading, consider consulting the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmapping/Star_rating) wiki articles to gain a greater understanding of the topics.
 
