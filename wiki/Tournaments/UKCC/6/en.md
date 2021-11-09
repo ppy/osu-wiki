@@ -69,7 +69,7 @@ The UK Community Cup 6 was run by various community members.
 | :-- | :-- |
 | **Boom! Tetris for Benbow** | ![][flag_GB] [TopSp1n](https://osu.ppy.sh/users/7657761), ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549) |
 | **whatever** | ![][flag_GB] [meltz](https://osu.ppy.sh/users/6741042), ![][flag_GB] [Woffel](https://osu.ppy.sh/users/3915122) |
-| **Could've been major**| ![][flag_GB] [Bloo](https://osu.ppy.sh/users/6778877), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083) |
+| **Could've been major** | ![][flag_GB] [Bloo](https://osu.ppy.sh/users/6778877), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083) |
 | **Blooming FlowR in Summer Solstice** | ![][flag_GB] [Summer Solstice](https://osu.ppy.sh/users/3233710), ![][flag_GB] [gadrin](https://osu.ppy.sh/users/2245830) |
 | **That one** | ![][flag_GB] [Electovoid](https://osu.ppy.sh/users/6648263), ![][flag_GB] [OPJames](https://osu.ppy.sh/users/4117142) |
 | **ok idk** | ![][flag_GB] [hlo](https://osu.ppy.sh/users/2232928), ![][flag_GB] [zzyyy](https://osu.ppy.sh/users/3600441) |
@@ -671,7 +671,7 @@ Thursday, 7 March 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Could've been major** | **4** | 0 | heck | [#1](https://osu.ppy.sh/mp/49801089) |
+| **Could've been major** | **4** | 0 | heck | [#1](https://osu.ppy.sh/community/matches/49801089) |
 | **Could've been major** | **4** | 0 | Whiisk | [#1](https://osu.ppy.sh/community/matches/49831497) |
 | **heck** | **4** | 3 | Whiisk | [#1](https://osu.ppy.sh/community/matches/49808127) |
 
@@ -688,14 +688,14 @@ Thursday, 7 March 2019:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Burrito Gang** | **4** | 0 | send cat pics | [#1](https://osu.ppy.sh/community/matches/49802938) |
-| Burrito Gang | 2 | **4** | **KFC for Spare** | [#1](https://osu.ppy.sh/mp/49839349) |
+| Burrito Gang | 2 | **4** | **KFC for Spare** | [#1](https://osu.ppy.sh/community/matches/49839349) |
 | send cat pics | -1 | **0** | **KFC for Spare** | *forfeit* |
 
 #### Group K
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Cephox** | **4** | 2 | Sinking Ship | [#1](https://osu.ppy.sh/mp/49832992) |
+| **Cephox** | **4** | 2 | Sinking Ship | [#1](https://osu.ppy.sh/community/matches/49832992) |
 | **Cephox** | **4** | 0 | DMU Esports | [#1](https://osu.ppy.sh/community/matches/49806405) |
 | **Sinking Ship** | **4** | 1 | DMU Esports | [#1](https://osu.ppy.sh/community/matches/49836011) |
 
