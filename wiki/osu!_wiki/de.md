@@ -17,7 +17,7 @@ Der [erste Versuch](https://osu.ppy.sh/community/forums/posts/1175876) eine stru
 
 Das Eingangstor zum Wiki ist die [Hauptseite](/wiki/Main_Page), die in mehrere übergeordnete Kategorien eingeteilt ist. Alle Kategorien haben eine allgemeine Beschreibung und beinhalten eine Liste an wichtigen Artikeln. Die Artikel, die nicht auf der Hauptseite zu sehen sind, sind meistens durch Hotlinks oder über die Suchfunktion erreichbar.
 
-Ein individueller Artikel beschreibt einen einzigen Ausdruck, ein Konzept oder gibt einen generellen Überblick über angrenzende Themen. Um den Begriff besser zu verstehen, wird das Thema in mehrere Untersektionen geteilt. Oft sind dort auch Bildschirmaufnahmen und andere Grafiken zur besseren Veranschaulichung abgebildet.<!-- TODO: via the use of infoboxes. uncomment this when they are ready (https://github.com/ppy/osu-wiki/issues/5440) -->
+Ein individueller Artikel beschreibt einen einzigen Ausdruck oder ein Konzept und gibt einen generellen Überblick über angrenzende Themen. Um den Begriff besser zu verstehen, wird das Thema in mehrere Untersektionen geteilt. Oft sind dort auch Bildschirmaufnahmen und andere Grafiken zur besseren Veranschaulichung abgebildet.<!-- TODO: via the use of infoboxes. uncomment this when they are ready (https://github.com/ppy/osu-wiki/issues/5440) -->
 
 Übersetzungen in verschiedenen Sprachen sind für einige Artikel verfügbar. Sie werden von Mitgliedern der Community erstellt und die Auswahl an Sprachen ist nur durch die [Sprachenliste](/wiki/Article_styling_criteria/Formatting#locales) begrenzt, die die Webseite unterstützt.
 
