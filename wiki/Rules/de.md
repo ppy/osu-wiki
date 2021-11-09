@@ -9,7 +9,7 @@ Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu! Comm
 3. **Seid freundlich zueinander.** Die osu! Community bietet keinen Platz für Feindseligkeiten oder Belästigungen. Wir sind alle hier um Kreise zu klicken, Trommeln zu schlagen, Früchte zu fangen oder bis zu achtzehn Tasten gleichzeitig zu drücken - und nicht um Arschlöcher zueinander zu sein.
 4. **Sei kein Idiot.** Solltest du dir einmal unsicher sein, ob du gerade die Regeln brichst, dann tust du es wahrscheinlich gerade.
 5. **Personen aller Altersgruppen sind Teil dieser Community.** Das bedeutet, dass nicht jugendfreie/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) Inhalte nicht willkommen sind. Darunter fallen unter anderem die Nutzung von Drogen oder Themen sexueller Natur.
-6. **Bleib sauber.** osu! ist nicht der Ort zum daten oder flirten. Verwendung sexueller Sprache, Bilder oder ungewollte Annäherungsveruche gegenüber anderen Mitgliedern der Community, ob öffentlich oder privat, sind NICHT in Ordnung. Solltest du dich jemals durch die Art, in der jemand zu dir spricht, unwohl fühlen [berichte uns dies im Vertrauen](/wiki/Reporting_Bad_Behaviour/Abuse), damit wir dir helfen können (und dabei potentiell andere davon abhalten, betroffen zu sein).
+6. **Bleib sauber.** osu! ist nicht der Ort zum Daten oder Flirten. Verwendung sexueller Sprache, Bilder oder ungewollte Annäherungsveruche gegenüber anderen Mitgliedern der Community, ob öffentlich oder privat, sind NICHT in Ordnung. Solltest du dich jemals durch die Art, in der jemand zu dir spricht, unwohl fühlen [berichte uns dies im Vertrauen](/wiki/Reporting_Bad_Behaviour/Abuse), damit wir dir helfen können (und dabei potentiell andere davon abhalten, betroffen zu sein).
 7. **Wofür es keine Regeln gibt, gibt es den gesunden Menschenverstand.** Die Administratoren behalten sich das Recht vor, ihr Urteil nach eigenem Ermessen zu fällen.
 
 ## In-Game-Chatregeln
@@ -42,10 +42,10 @@ Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu! Comm
 
 Diese Regeln beziehen sich ausschließlich auf Beatmaps, die über das [Beatmap Submission System](/wiki/Submission) hochgeladen werden. Die Threads werden mithilfe des osu! Clienten erstellt, wenn du eine Beatmap mit dem [Editor](/wiki/Beatmap_Editor) hochlädst.
 
-1. **Stelle sicher, dass du die Berechtigung hast, jeden Inhalt in deiner Beatmap zu verwenden.** Das umschließt Lieder, Videos, Hitsounds, Bilder oder andere Inhalte, die nicht von dir direkt selbst erstellt wurden. Solltest du dir unsicher sein, wo du frei nutzbare Inhalte finden kannst, kannst du die Bibliothek von Liedern unserer [Featured Artists](https://osu.ppy.sh/beatmaps/artists/) durchsuchen. Dort findest du Musik die zu 100% für die Benutzung in osu! lizensiert ist. Achte außerdem auf die [Inhaltsverwendungsregeln](Content_Usage_Guidelines).
+1. **Stelle sicher, dass du die Berechtigung hast, jeden Inhalt in deiner Beatmap zu verwenden.** Das umschließt Lieder, Videos, Hitsounds, Bilder oder andere Inhalte, die nicht von dir direkt selbst erstellt wurden. Solltest du dir unsicher sein, wo du frei nutzbare Inhalte finden kannst, kannst du die Bibliothek von Liedern unserer [Featured Artists](https://osu.ppy.sh/beatmaps/artists/) durchsuchen. Dort findest du Musik die zu 100% für die Benutzung in osu! lizensiert ist. Achte außerdem auf die [Regeln für die Inhaltsverwendung](Content_Usage_Guidelines).
 2. **Komm in [Beatmap-Threads](/wiki/Beatmap_Discussion) nicht vom Thema ab.** Die Threads und Diskussionen gelten der Beatmap und sonst nichts. Wenn du ein Problem mit etwas hast, was sich nicht direkt auf die Beatmap bezieht, dann veröffentliche es stattdessen im richtigen Forum.
 3. **Plagiiere oder stehle nicht die Arbeit anderer Nutzer.** Lade keine Inhalte anderer Nutzer ohne deren expliziten Erlaubnis hoch, einschließlich Skins und Guest Difficulties.
-4. **Folge den [Liedinhaltsregeln](/wiki/Song_Content_Rules) und den [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_Content_Considerations).**
+4. **Folge den [Regeln für Liedinhalte](/wiki/Song_Content_Rules) und den [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_Content_Considerations).**
 
 ## Was passiert, wenn ich diese Regeln breche?
 
