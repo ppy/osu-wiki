@@ -11,7 +11,7 @@ Alle Diskussionen, über das Wiki allgemein, die Entwicklung und Änderungen von
 
 *Hauptseite: [Geschichte des osu! wiki](/wiki/History_of_osu!/osu!_wiki)*
 
-Der [erste Versuch](https://osu.ppy.sh/community/forums/posts/1175876) eine strukturierte Sammlung zu erstellen, geht zurück auf 2011, als [peppy](/wiki/People/peppy) ein [MediaWiki](https://en.wikipedia.org/wiki/MediaWiki)-Portal aufsetzte. In diesem Portal konnte jeder freiwillig mitwirken. Über die Jahre wurde die Wartung und Instandhaltung des MediaWikis immer schwieriger. Am [26.08.2016](https://discord.com/channels/188630481301012481/218677502141399041/218678017659109376) veranlassten peppy und weitere Freiwillige, die Migrierung des Wikis auf GitHub, wo es heute immer noch zu finden ist. Das Wiki wurde seitdem auf der osu!-Webseite eingebunden und hat wichtige technische und visuelle Verbesserungen für eine gute Benutzererfahrung erhalten.
+Der [erste Versuch](https://osu.ppy.sh/community/forums/posts/1175876) eine strukturierte Sammlung zu erstellen, geht zurück auf 2011, als [peppy](/wiki/People/peppy) ein [MediaWiki](https://en.wikipedia.org/wiki/MediaWiki)-Portal aufsetzte. In diesem Portal konnte jeder freiwillig mitwirken. Über die Jahre wurde die Wartung und Instandhaltung des MediaWikis immer schwieriger. Am [26.08.2016](https://discord.com/channels/188630481301012481/218677502141399041/218678017659109376) veranlassten peppy und weitere Freiwillige die Migrierung des Wikis auf GitHub, wo es heute immer noch zu finden ist. Das Wiki wurde seitdem in die osu!-Webseite eingebunden und hat wichtige technische und visuelle Verbesserungen für eine gute Benutzererfahrung erhalten.
 
 ## Aufbau
 
