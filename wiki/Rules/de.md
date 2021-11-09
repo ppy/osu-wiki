@@ -47,7 +47,7 @@ Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu! Comm
 Diese Regeln beziehen sich ausschließlich auf Beatmaps, die über das [Beatmap Submission System](/wiki/Submission) hochgeladen werden. Die Threads werden mithilfe des osu! Clienten erstellt, wenn du eine Beatmap mit dem [Editor](/wiki/Beatmap_Editor) hochlädst.
 
 1. **Stelle sicher, dass du die Berechtigung hast, jeden Inhalt in deiner Beatmap zu verwenden.** Das umschließt Lieder, Videos, Hitsounds, Bilder oder andere Inhalte, die nicht von dir direkt selbst erstellt wurden. Solltest du dir unsicher sein, wo du frei nutzbare Inhalte finden kannst, kannst du die Bibliothek von Liedern unserer [Featured Artists](https://osu.ppy.sh/beatmaps/artists/) durchsuchen. Damit bist du zu 100% auf der sicheren Seite.
-2. **Komm in Beatmap-Threads nicht vom Thema ab.** Die Threads und Diskussionen gelten der Beatmap und sonst nichts. Wenn du ein Problem mit etwas hast, was sich nicht direkt auf die Beatmap bezieht, dann veröffentliche es stattdessen im richtigen Forum.
+2. **Komm in [Beatmap-Threads](/wiki/Beatmap_Discussions) nicht vom Thema ab.** Die Threads und Diskussionen gelten der Beatmap und sonst nichts. Wenn du ein Problem mit etwas hast, was sich nicht direkt auf die Beatmap bezieht, dann veröffentliche es stattdessen im richtigen Forum.
 3. **Plagiiere oder stehle nicht die Arbeit anderer Nutzer.** Lade keine Inhalte anderer Nutzer ohne deren expliziten Erlaubnis hoch, einschließlich Skins und Guest Difficulties.
 
 ## Was passiert, wenn ich diese Regeln breche?
@@ -56,16 +56,16 @@ Solltest du dich nicht an die Regeln halten, passieren schlechte Dinge.
 
 Diese schlechten Dinge umfassen unter anderem (nicht nur):
 
-- Der zeitbegrenzte Ausschluss aus dem Chat im Spiel (auch bekannt als Silence).
+- Der zeitbegrenzte Ausschluss aus dem Chat im Spiel (auch bekannt als [Silence](/wiki/Silence)).
 - Das Entfernen der regelwidrigen Inhalte von deiner Userpage, deinem Profil oder deiner Beatmap.
 - Der Verlust deiner Privilegien, deine Userpage zu bearbeiten oder zu verändern.
 - Der Verlust deines Privilegs, an offiziellen Turnieren teilzunehmen.
 
-Silences und andere Maßnahmen gegen Verstöße nehmen **automatisch** exponentiell an Länge mit jedem Verstoß zu. Moderatoren kontrollieren nicht die Länge dieser Maßnahmen - zahlreiche Verstöße führen also zu immer längeren Strafen.
+[Silences](/wiki/Silence) und andere Maßnahmen gegen Verstöße nehmen **automatisch** exponentiell an Länge mit jedem Verstoß zu. Moderatoren kontrollieren nicht die Länge dieser Maßnahmen - zahlreiche Verstöße führen also zu immer längeren Strafen.
 
 Gewisse Verstöße haben eine Mindestdauer zufolge (meistens 48 Stunden oder mehr) - jedoch nur bei besonders schweren Verstößen, beispielsweise das Teilen expliziter Inhalte oder das unverschämte Belästigen anderer Nutzer.
 
-Solltest du nach zahlreichen Verstößen weiterhin die Regeln brechen, kann dein Account permanent und unwiderruflich gesperrt werden.
+Solltest du nach zahlreichen Verstößen weiterhin die Regeln brechen, kann dein Account [permanent und unwiderruflich gesperrt werden](/wiki/Help_Centre/Account_Restrictions).
 
 Gesperrte Accounts können nicht online spielen, Scores erzielen, mit anderen Nutzern sprechen und sind im Großen und Ganzen von allen Interaktionen mit der Community 'gebannt'. Gesperrte Accounts können nur freigegeben werden, wenn nach 3 Monaten ein entsprechendes Gesuch beim Support eingereicht wird ([es können weitere Bedingungen aufgestellt werden](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
 
