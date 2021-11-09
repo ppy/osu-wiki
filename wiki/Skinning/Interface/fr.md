@@ -1484,7 +1484,6 @@ Notes :
 
 `ranking-XH-small.png`
 
-
 ![](img/ranking-XH-small.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
