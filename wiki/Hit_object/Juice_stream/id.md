@@ -2,11 +2,11 @@
 stub: true
 ---
 
-# Juice Stream
+# Juice stream
 
 *Lihat juga: [Skor](/wiki/Score)*
 
-**Juice Stream** adalah elemen dalam [osu!catch](/wiki/Game_mode/osu!catch) yang mencakup drop dan droplet. Juice stream dihasilkan saat [slider](/wiki/Hit_object/Slider) ditempatkan di editor.
+**Juice stream** adalah elemen dalam [osu!catch](/wiki/Game_mode/osu!catch) yang mencakup drop dan droplet. Juice stream dihasilkan saat [slider](/wiki/Hit_object/Slider) ditempatkan di editor.
 
 ## Drop
 
