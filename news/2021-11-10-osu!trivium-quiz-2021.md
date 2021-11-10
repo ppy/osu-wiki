@@ -42,11 +42,11 @@ No. There will be no advantage gained (other than experience) from participating
 
 peppy is incredibly busy and unless you want osu!lazer to replace stable by 2037, it would be best to not flood his inbox with questions that he doesn't even know the answers to. 
 
-Fun fact: peppy ended up scripting a response to everyone who emailed him during last year's osu!trivium quiz.
+Fun fact: peppy ended up writing a scripted response to everyone who emailed him during last year's osu!trivium quiz.
 
 ### When will the answers be released?
 
-Once all the submissions have been evaluated, the answers will be livestreamed on Twitch. We expect this to take place on the weekend after the submission deadline, though this obviously depends on the volume of submissions.
+Once all the submissions have been evaluated, the answers will be livestreamed on Twitch. We expect this to take place on the weekend after the submission deadline, though this obviously depends on the volume of submissions. Be sure to keep a close eye on the [@osugame Twitter](https://twitter.com/osugame) so you don't miss it!
 
 ---
 
