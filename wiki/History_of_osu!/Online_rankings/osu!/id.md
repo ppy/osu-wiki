@@ -14,7 +14,7 @@ tags:
   - pemain teratas
 ---
 
-# osu! rankings history
+# Sejarah peringkat osu!
 
 Berikut adalah daftar pemain yang diakui telah mencapai peringkat #1 di [peringkat global](https://osu.ppy.sh/rankings/osu/performance) [osu!](/wiki/Game_mode/osu!).
 
@@ -32,7 +32,7 @@ Walaupun ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) diasumsikan sebagai pe
 
 *Catatan: Selama periode di mana [Ranked Score](/wiki/Score#ranked-score) digunakan, pemegang peringkat #1 akan sering berubah, sehingga daftar awal mungkin tidak akurat. Informasi mendetail dapat ditemukan di perkiraan rekonstruksi papan peringkat global Ranked Score, yang tersedia [di sini](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
 
-| Pemain | Asal | Skor | Sumber |
+| Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 2007-10-06 | 2007-10-09 | [\[1\]](https://osu.ppy.sh/scores/osu/237) [\[2\]](https://web.archive.org/web/20071117154117/http://osu.ppy.sh/index.php?p=song&s=1) |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-09 | 2007-10-15 | [\[1\]](https://web.archive.org/web/20071011215722/http://osu.ppy.sh/index.php?p=player) |
@@ -49,7 +49,7 @@ Walaupun ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) diasumsikan sebagai pe
 
 ## 2008
 
-| Pemain | Asal | Skor | Sumber |
+| Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | *2007-12-23* | 2008-09-06 | [\[1\]](https://web.archive.org/web/20071224062629/http://osu.ppy.sh/index.php?p=player) |
 | ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | 2008-09-06 | 2008-09-07 | [\[1\]](https://osu.ppy.sh/community/forums/topics/5999) |
@@ -62,7 +62,7 @@ Walaupun ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) diasumsikan sebagai pe
 
 ## 2009
 
-| Pemain | Asal | Skor | Sumber |
+| Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | *2008-12-20* | 2009-03-05  | [\[1\]](https://osu.ppy.sh/community/forums/topics/8415)  |
 | ![][flag_PL] [Kubu (*kuburaczek*)](https://osu.ppy.sh/users/29130) | 2009-03-05  | 2009-03-06  | [\[1\]](https://osu.ppy.sh/community/forums/topics/10683) [\[2\]](https://osu.ppy.sh/community/forums/topics/2480?start=94840) |
@@ -93,7 +93,7 @@ Walaupun ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) diasumsikan sebagai pe
 
 ## 2010
 
-| Pemain | Asal | Skor | Sumber |
+| Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | *2009-12-29* | 2010-01-05 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing) |
 | ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2010-01-05 | 2010-01-11 | [\[1\]](https://imgur.com/XDtjwMz) |
@@ -110,7 +110,7 @@ Walaupun ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) diasumsikan sebagai pe
 
 ## 2011
 
-| Pemain | Asal | Skor | Sumber |
+| Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | *2010-10-03* | 2011-01-20 | [\[1\]](https://imgur.com/VlP4LOb) [\[2\]](https://www.youtube.com/watch?t=555&v=0T5F0Zzy6ps) [\[3\]](https://www.youtube.com/watch?t=785&v=0T5F0Zzy6ps) |
 | ![][flag_PL] [Kubu (*kuburaczek*)](https://osu.ppy.sh/users/29130) | 2011-01-20 | 2011-01-21 | [\[1\]](https://imgur.com/k4OT4bS) |
@@ -132,7 +132,7 @@ Walaupun ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) diasumsikan sebagai pe
 
 *Catatan: [ppv1](/wiki/Performance_points/ppv1) sepenuhnya menggantikan Ranked Score pada 24 Juli 2012.*
 
-| Pemain | Asal | Skor | Sumber |
+| Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
 | ![][flag_PL] [WubWoofWolf (*White Wolf*)](https://osu.ppy.sh/users/39828) | *2011-11-05* | 2012-04-20 | [\[1\]](https://web.archive.org/web/20111105110243/http://osu.ppy.sh/p/playerranking) |
 | ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 2012-04-20 | 2012-04-21 | [\[1\]](https://web.archive.org/web/20210104072637/http://geckogates.pristonworld.com/osu/gz_num1/) [\[2\]](https://osu.ppy.sh/community/forums/topics/77231?start=1474307) |
@@ -149,7 +149,7 @@ Walaupun ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) diasumsikan sebagai pe
 
 ## 2013
 
-| Pemain | Asal | Skor | Sumber |
+| Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
 | ![][flag_KR] [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | *2012-11-30* | 2013-01-16 | [\[1\]](https://web.archive.org/web/20121130133544/https://osu.ppy.sh/p/pp) |
 | ![][flag_DE] [ShadowSoul](https://osu.ppy.sh/users/494970) | 2013-01-16 | 2013-01-21 | [\[1\]](https://web.archive.org/web/20130116083919/https://osu.ppy.sh/p/pp) |
@@ -163,7 +163,7 @@ Walaupun ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) diasumsikan sebagai pe
 
 *Catatan: [ppv2](/wiki/Performance_points) diperkenalkan pada 27 Januari 2014.*
 
-| Pemain | Asal | Skor | Sumber |
+| Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2013-11-24* | 2014-01-20 | [\[1\]](https://old.reddit.com/r/osugame/comments/1rctoz/wubwoofwolf_went_on_a_little_rampage/) |
 | *Vacant* | 2014-01-20 | 2014-01-27 | [\[1\]](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)  |
@@ -173,7 +173,7 @@ Walaupun ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) diasumsikan sebagai pe
 
 ## 2015
 
-| Pemain | Asal | Skor | Sumber |
+| Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | *2014-08-17* | 2015-02-06 | [\[1\]](https://web.archive.org/web/20140818131806/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/hvick225) [\[3\]](https://osu.ppy.sh/community/forums/topics/235678) [\[4\]](https://www.youtube.com/watch?v=4jW75bKPVP0) [\[5\]](https://osu.ppy.sh/scores/osu/1782720884) |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2015-02-06 | 2015-03-25 | [\[1\]](https://web.archive.org/web/20150206190712/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/wubwoofwolf) [\[3\]](https://web.archive.org/web/20210119081120/https://old.reddit.com/r/osugame/comments/2v0gqj/www_is_now_1/) |
@@ -187,7 +187,7 @@ Walaupun ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) diasumsikan sebagai pe
 
 ## 2016
 
-| Pemain | Asal | Skor | Sumber |
+| Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | *2015-12-31* | 2016-05-12 | [\[1\]](https://web.archive.org/web/20160101024536/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/hvick225) [\[3\]](https://web.archive.org/web/20210119083354/https://old.reddit.com/r/osugame/comments/3ywmnf/hvick_now_1_again/) [\[4\]](https://osu.ppy.sh/scores/osu/2038565115) |
 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-05-12 | 2016-06-25 | [\[1\]](https://web.archive.org/web/20160512164834/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/rafis) [\[3\]](https://web.archive.org/web/20210119083633/https://old.reddit.com/r/osugame/comments/4j0q5l/rafis_submitted_a_score_got_1_global/) |
@@ -210,13 +210,13 @@ Walaupun ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) diasumsikan sebagai pe
 
 ## 2017
 
-| Pemain | Asal | Skor | Sumber |
+| Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
 | ![][flag_KR] [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | *2016-10-23* | *2018-01-21* | [\[1\]](https://web.archive.org/web/20161023123340/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) [\[3\]](https://web.archive.org/web/20210119085711/https://old.reddit.com/r/osugame/comments/58xa3r/cookiezi_is_now_1_again/) [\[4\]](https://www.youtube.com/watch?v=tnNHXFKe38c) |
 
 ## 2018
 
-| Pemain | Asal | Skor | Sumber |
+| Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
 | ![][flag_KR] [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | *2016-10-23* | 2018-01-21 | [\[1\]](https://web.archive.org/web/20161023123340/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) [\[3\]](https://web.archive.org/web/20210119085711/https://old.reddit.com/r/osugame/comments/58xa3r/cookiezi_is_now_1_again/) [\[4\]](https://www.youtube.com/watch?v=tnNHXFKe38c) |
 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2018-01-21 | 2018-04-15 | [\[1\]](https://web.archive.org/web/20180122113018/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/rafis) [\[3\]](https://web.archive.org/web/20210119090225/https://old.reddit.com/r/osugame/comments/7s1i95/rafis_is_now_1_in_osustd/) [\[4\]](https://www.youtube.com/watch?v=M6SPs67ZPGw) |
@@ -236,7 +236,7 @@ Walaupun ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) diasumsikan sebagai pe
 
 ## 2019
 
-| Pemain | Asal | Skor | Sumber |
+| Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
 | ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | *2018-12-17* | 2019-01-12 | [\[1\]](https://web.archive.org/web/20181218083408/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mathi) [\[3\]](https://web.archive.org/web/20210119093241/https://old.reddit.com/r/osugame/comments/a6xerb/mathi_is_1_again/) [\[4\]](https://www.youtube.com/watch?v=PA3zCdb052c) |
 | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2019-01-12 | 2019-02-11 | [\[1\]](https://web.archive.org/web/20190117233225/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/idke/) [\[3\]](https://web.archive.org/web/20210119093527/https://old.reddit.com/r/osugame/comments/af1x9g/idke_is_now_1_global_again_passing_mathi/) [\[4\]](https://www.youtube.com/watch?v=X3F2y-WQ3vM) |
@@ -261,13 +261,13 @@ Walaupun ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) diasumsikan sebagai pe
 
 ## 2020
 
-| Pemain | Asal | Skor | Sumber |
+| Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
 | ![][flag_DE] [WhiteCat](https://osu.ppy.sh/users/4504101) | *2019-10-06* | *2021-04-08* | [\[1\]](https://web.archive.org/web/20191006200709/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/whitecat/) [\[3\]](https://web.archive.org/web/20210119102542/https://old.reddit.com/r/osugame/comments/de8duf/whitecat_is_now_1_global_on_osustandard/) [\[4\]](https://web.archive.org/web/20210203170702if_/https://www.youtube.com/watch?v=Bx4R7lovF-0) |
 
 ## 2021
 
-| Pemain | Asal | Skor | Sumber |
+| Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
 | ![][flag_DE] [WhiteCat](https://osu.ppy.sh/users/4504101) | *2019-10-06* | 2021-04-08 | [\[1\]](https://web.archive.org/web/20191006200709/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/whitecat/) [\[3\]](https://web.archive.org/web/20210119102542/https://old.reddit.com/r/osugame/comments/de8duf/whitecat_is_now_1_global_on_osustandard/) [\[4\]](https://web.archive.org/web/20210203170702if_/https://www.youtube.com/watch?v=Bx4R7lovF-0) |
 | ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902) | 2021-04-08 | Present | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/7562902) [\[3\]](https://ameobea.me/osutrack/user/mrekk/) [\[4\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[5\]](https://osu.ppy.sh/scores/osu/3584256449") [\[6\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[7\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
@@ -315,13 +315,13 @@ Berikut ini adalah daftar berapa kali seorang pemain mencapai peringkat #1 (per 
 | ![][flag_DE] [WhiteCat](https://osu.ppy.sh/users/4504101) | 1 |
 | ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | 1 |
 
-## Pemegang gabungan terpanjang
+## Pemegang peringkat satu terlama terakumulasi
 
 *Catatan: Pencapaian peringkat #1 saat ini tidak termasuk.*
 
 Berikut ini adalah daftar jumlah hari dimana seorang pemain memegang peringkat #1 (per 3 Juni 2021).
 
-| Pemain | Panjang (hari) |
+| Pemain | Durasi (hari) |
 | --: | :-: |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 967 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 578 |
@@ -359,13 +359,13 @@ Berikut ini adalah daftar jumlah hari dimana seorang pemain memegang peringkat #
 | ![][flag_CN] [5231_Kinoko](https://osu.ppy.sh/users/181057) | 1 |
 | ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 1 |
 
-## Pencapaian terpanjang individu
+## Pemegang peringkat satu terlama
 
 *Catatan: Hanya masa pemegangan lebih dari 100 hari yang disertakan. Pencapaian peringkat #1 saat ini tidak termasuk.*
 
 Berikut ini adalah daftar hari terlama berturut-turut seorang pemain memegang peringkat #1 (per 3 Juni 2021).
 
-| Pemain | Dari  | Sampai | Panjang Pencapaian (hari) |
+| Pemain | Sejak | Hingga | Durasi (hari) |
 | --: | :-- | :-- | :-: |
 | ![][flag_DE] [WhiteCat](https://osu.ppy.sh/users/4504101) | 2019-10-06 | 2021-04-08 | 550 |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-23 | 2018-01-21 | 455 |
