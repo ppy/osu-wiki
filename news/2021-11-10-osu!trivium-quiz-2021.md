@@ -14,6 +14,8 @@ Dubbed as "the world's hardest quiz on osu!", the osu!trivium Quiz is an annual 
 
 [**QUIZ**](https://docs.google.com/document/d/1hzegFSr5vBzNGPJxsalEBkHcjCqKJ1J8eRStI8d3NQQ) | [**FORUM**](https://osu.ppy.sh/community/forums/topics/1459493) | [**DISCORD**](https://discord.gg/2A2g4fMuD3)
 
+If the above quiz document link is not working, please use the [published version](https://docs.google.com/document/d/e/2PACX-1vSimRjdnJJtS8UdBgTiGTGbuhZLlJHyDvuA7jaRsF2GRVlM9Girj9hC8iikgowk2u8LAV6a2HWqBjDr/pub) instead.
+
 The deadline for submissions is **December 13, 2021 (12:00 UTC)**. Players may participate in up to teams of 4. For more details on registration and submission, please refer to the quiz document or the forum thread linked above.
 
 ## Prizes
