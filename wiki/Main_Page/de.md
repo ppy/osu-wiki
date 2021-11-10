@@ -22,7 +22,7 @@ Wichtige Artikel und Tutorials, die dir dabei helfen, in die Welt von osu! einzu
 
 # Spiel-Client
 
-Als Wegweiser in die Welt des Rhythmus, des Beats und der Blitzlichter hat osu! viel zu präsentieren. Lerne das Spiel in all seinen Einstellungs- und Konfigurationsmöglichkeiten bis hin zu technischen Details, wie z. B. die verschiedenen Dateiformate, besser kennen.
+Als Wegweiser in die Welt des Rhythmus, des Beats und der Blitzlichter hat osu! viel zu präsentieren. Lerne das Spiel in all seinen Einstellungs- und Konfigurationsmöglichkeiten bis hin zu technischen Details, wie z. B. den verschiedenen Dateiformaten, besser kennen.
 
 [Benutzeroberfläche](/wiki/Interface) • [Optionen](/wiki/Options) • [Visuelle Einstellungen](/wiki/Visual_Settings) • [Tastenkürzel-Referenzen](/wiki/Shortcut_key_reference) • [Konfigurationsdatei](/wiki/osu!_Program_Files/User_Configuration_File) • [Programmdateien](/wiki/osu!_Program_Files)
 
@@ -44,7 +44,7 @@ Alles über das Klicken von Kreisen, das Schlagen der Trommeln, das Schnappen vo
 
 # [Beatmap-Editor](/wiki/Beatmap_Editor)
 
-Alle Beatmaps in osu! werden von kreativen Teilnehmern seiner aktiven Community erstellt. Wolltest du schon immer deine Lieblingsmusik mit anderen teilen, aber nie gewusst wie? Mache dich vertraut mit dem eingebauten Editor und die Möglichkeiten, die dieser bietet.
+Alle Beatmaps in osu! werden von kreativen Teilnehmern seiner aktiven Community erstellt. Wolltest du schon immer deine Lieblingsmusik mit anderen teilen, hast aber nie gewusst wie? Mache dich vertraut mit dem eingebauten Editor und den Möglichkeiten, die dieser bietet.
 
 Abschnitte: [Zusammenstellung](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song-Einstellung](/wiki/Beatmap_Editor/Song_Setup)
 
@@ -96,7 +96,7 @@ Was du tun kannst: [Wie und mit was helfen](/wiki/How_you_can_help!) • [Melde 
 
 Eine aktive Community sind eines der Dinge, die osu! voranbringen. Entdecke die Aktivitätan und Veranstaltungen, freunde dich mit anderen an oder helfe, das nächste Event zu organisieren!
 
-[Turniere](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Veranstaltungen](/wiki/Contests) • [Mentorenprogramm](/wiki/Community_Mentorship_Program)
+[Turniere](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Wettbewerbe](/wiki/Contests) • [Mentorenprogramm](/wiki/Community_Mentorship_Program)
 
 [Projekte](/wiki/Projects): [Featured Artists](/wiki/Featured_Artists) • [osu! Community Meetings](/wiki/osu!_Community_Meetings) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
 
@@ -105,7 +105,7 @@ Eine aktive Community sind eines der Dinge, die osu! voranbringen. Entdecke die 
 
 # Personen
 
-osu! würde nicht ohne die Hilfe von vielen Menschen existieren, die in der Entwicklung, Wartung und des Community-Managements tätig sind. Ihrer Mühen, Zeit und Hingabe ist es zu verdanken, dass das Spiel weiterentwickelt wird.
+osu! würde nicht ohne die Hilfe von vielen Menschen existieren, die in der Entwicklung, Wartung und im Community-Management tätig sind. Ihrer Mühen, Zeit und Hingabe ist es zu verdanken, dass das Spiel weiterentwickelt wird.
 
 [Das Team](/wiki/People/The_Team): [Entwickler](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
 
