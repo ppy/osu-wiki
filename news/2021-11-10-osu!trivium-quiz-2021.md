@@ -6,7 +6,7 @@ date: 2021-11-10 20:00:00 +0000
 
 Seekers of the truth! The world's hardest osu! trivia quiz makes its return on the frontpage of osu! to challenge all who possess the mental acuity and fortitude to tackle this cryptic challenge.
 
-![](/wiki/shared/news/2021-11-10-osu-trivium-quiz-2021/otq-2021-banner@2x.png)
+![](/wiki/shared/news/2021-11-10-osu-trivium-quiz-2021/otq-2021-banner.png)
 
 Sick of not being able to win any tournaments because ~~Vaxei~~ you don't have enough skill? Like an aged fable that preaches brain over brawn, this might be the competition for you!
 
