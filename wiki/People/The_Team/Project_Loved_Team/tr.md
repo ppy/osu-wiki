@@ -137,7 +137,7 @@ Aşağıda listelenen kullanıcılar bir zamanlar Project Loved Takımının bir
 ### Video editörleri
 
 - ![][flag_GB] [Striiker](https://osu.ppy.sh/users/7291594)
-- ![][flag_HU] [ThatsNotAName](https://osu.ppy.sh/users/9682904)
+- ![][flag_US] [ThatsNotAName](https://osu.ppy.sh/users/9682904)
 - ![][flag_HU] [verto](https://osu.ppy.sh/users/2015300)
 
 ## Ek bilgiler
