@@ -81,7 +81,6 @@ Medienregulierungen: [Richtlinien für die Nutzung von Inhalten](/wiki/Rules/Con
 
 # Hilfe
 
-
 Antworten zu häufig gestellten Fragen und Lösungen zu alltäglichen Problemen gibt es hier.
 
 [Hilfecenter](/wiki/Help_Centre) • [Problemlösung bei der Leistung](/wiki/Performance_Troubleshooting) • [Account Support Team](/wiki/People/The_Team/Account_support_team) • [Hilfeforum](https://osu.ppy.sh/forum/5)
