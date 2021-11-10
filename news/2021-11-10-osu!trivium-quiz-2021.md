@@ -10,7 +10,7 @@ Seekers of the truth! The world's hardest osu! trivia quiz makes its return on t
 
 Sick of not being able to win any tournaments because ~~Vaxei~~ you don't have enough skill? Like an aged fable that preaches brain over brawn, this might be the competition for you!
 
-Dubbed as “the world’s hardest quiz on osu!”, the osu!trivium Quiz is an annual competition featuring 50 osu! themed trivia questions. The questions are all designed to be "ungoogle-able" - this means that you cannot just copy-paste the question and add "osu" into a search engine and expect to find the correct answer.
+Dubbed as "the world’s hardest quiz on osu!", the osu!trivium Quiz is an annual competition featuring 50 osu! themed trivia questions. The questions are all designed to be "ungoogle-able" - this means that you cannot just copy-paste the question and add "osu" into a search engine and expect to find the correct answer.
 
 [**QUIZ**](https://docs.google.com/document/d/1hzegFSr5vBzNGPJxsalEBkHcjCqKJ1J8eRStI8d3NQQ) | [**FORUM**](https://osu.ppy.sh/community/forums/topics/1459493) | [**DISCORD**](https://discord.gg/2A2g4fMuD3)
 
@@ -40,14 +40,17 @@ No. There will be no advantage gained (other than experience) from participating
 
 ### Why am I not allowed to ask peppy for answers?
 
-peppy is incredibly busy and unless you want osu!lazer to replace stable by 2037, it would be best to not flood his inbox with questions that he doesn't even know the answers to. Fun fact: peppy ended up scripting a response to everyone who emailed him during last year's osu!trivium quiz.
+peppy is incredibly busy and unless you want osu!lazer to replace stable by 2037, it would be best to not flood his inbox with questions that he doesn't even know the answers to. 
+
+Fun fact: peppy ended up scripting a response to everyone who emailed him during last year's osu!trivium quiz.
 
 ### When will the answers be released?
 
 Once all the submissions have been evaluated, the answers will be livestreamed on Twitch. We expect this to take place on the weekend after the submission deadline, though this obviously depends on the volume of submissions.
 
---------
-One final note: Please do not discuss the answers to the quiz in the comments below, or in any other public setting. It would ruin the experience for everyone participating - your answer might not even be correct!
+---
+
+One final note: please do not discuss the answers to the quiz in the comments below, or in any other public setting. It would ruin the experience for everyone participating - your answer might not even be correct!
 
 Without further ado, good luck and happy trivia hunting!
 
