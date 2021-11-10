@@ -3,6 +3,7 @@ stub: true
 tags:
   - downbeats
   - first beat
+  - ketukan pertama
 ---
 
 # Downbeat
