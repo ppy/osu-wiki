@@ -10,11 +10,11 @@ Seekers of the truth! The world's hardest osu! trivia quiz makes its return on t
 
 Sick of not being able to win any tournaments because ~~Vaxei~~ you don't have enough skill? Like an aged fable that preaches brain over brawn, this might be the competition for you!
 
-Dubbed as "the world’s hardest quiz on osu!", the osu!trivium Quiz is an annual competition featuring 50 osu! themed trivia questions. The questions are all designed to be "ungoogle-able" - this means that you cannot just copy-paste the question and add "osu" into a search engine and expect to find the correct answer.
+Dubbed as "the world's hardest quiz on osu!", the osu!trivium Quiz is an annual competition featuring 50 osu!-themed trivia questions. The questions are all designed to be "un-google-able", meaning you cannot just copy-paste the question along with "osu" into a search engine and expect to find the correct answer.
 
 [**QUIZ**](https://docs.google.com/document/d/1hzegFSr5vBzNGPJxsalEBkHcjCqKJ1J8eRStI8d3NQQ) | [**FORUM**](https://osu.ppy.sh/community/forums/topics/1459493) | [**DISCORD**](https://discord.gg/2A2g4fMuD3)
 
-The deadline for submission is **13th December 2021 (12:00 UTC)**. Players may participate in up to teams of 4. For more details on registration and submission, please refer to the aforementioned quiz document or the forum thread.
+The deadline for submissions is **December 13, 2021 (12:00 UTC)**. Players may participate in up to teams of 4. For more details on registration and submission, please refer to the quiz document or the forum thread linked above.
 
 ## Prizes
 
@@ -28,15 +28,15 @@ The osu!trivium Quiz 2021 offers lucrative rewards for those who manage to place
 
 ## FAQ
 
-Below are answers to some questions we anticipate from the participants. If your question is not answered here, please feel free to ask me on the Discord Server linked above. 
+Below are answers to some questions we anticipate from the participants. If your question is not answered here, please feel free to ask [mangomizer](https://osu.ppy.sh/users/1893718) on the aforementioned Discord server. 
 
 ### This quiz seems impossible! Where do I even begin?
 
-This quiz is intended to be incredibly difficult. Last year's winning team only managed to score 84 points out of a maximum of 150. That being said, a good place to start would be to rewatch the VODs from the previous instalment of the quiz (these can be found on the forum or quiz document).
+This quiz is intended to be incredibly difficult. Last year's winning team only managed to score 84 points out of the maximum of 150. That being said, a good place to start would be to rewatch the VODs from the previous instalment of the quiz (these can be found on the forum post or quiz document).
 
 ### Is there any question that requires knowledge from participating in the previous year's quiz?
 
-No. There will be no advantage gained (other than experience) from participating in previous events - we aim to have a level playing field.
+No. There will be no advantage gained (other than experience) from participating in previous events — we aim to have a level playing field.
 
 ### Why am I not allowed to ask peppy for answers?
 
@@ -50,7 +50,7 @@ Once all the submissions have been evaluated, the answers will be livestreamed o
 
 ---
 
-One final note: please do not discuss the answers to the quiz in the comments below, or in any other public setting. It would ruin the experience for everyone participating - your answer might not even be correct!
+One final note: please do not discuss the answers to the quiz in the comments below, or in any other public setting. It will ruin the experience for everyone participating — your answer might not even be correct!
 
 Without further ado, good luck and happy trivia hunting!
 
