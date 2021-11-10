@@ -8,7 +8,7 @@ Seekers of the truth! The world's hardest osu! trivia quiz makes its return on t
 
 ![](/wiki/shared/news/2021-11-10-osu-trivium-quiz-2021/otq-2021-banner@2x.png)
 
-Sick of not being able to win any tournaments because ~~Vaxei~~ you don't have enough skill? Like a aged fable that preaches brain over brawn, this might be the competition for you!
+Sick of not being able to win any tournaments because ~~Vaxei~~ you don't have enough skill? Like an aged fable that preaches brain over brawn, this might be the competition for you!
 
 Dubbed as “the world’s hardest quiz on osu!”, the osu!trivium Quiz is an annual competition featuring 50 osu! themed trivia questions. The questions are all designed to be "ungoogle-able" - this means that you cannot just copy-paste the question and add "osu" into a search engine and expect to find the correct answer.
 
@@ -47,7 +47,7 @@ peppy is incredibly busy and unless you want osu!lazer to replace stable by 2037
 Once all the submissions have been evaluated, the answers will be livestreamed on Twitch. We expect this to take place on the weekend after the submission deadline, though this obviously depends on the volume of submissions.
 
 --------
-One final note: Please do not discuss the answers to the quiz in the comments below, or in any other public setting. It would ruin the experience for everyone participating - and your answer might not even be correct!
+One final note: Please do not discuss the answers to the quiz in the comments below, or in any other public setting. It would ruin the experience for everyone participating - your answer might not even be correct!
 
 Without further ado, good luck and happy trivia hunting!
 
