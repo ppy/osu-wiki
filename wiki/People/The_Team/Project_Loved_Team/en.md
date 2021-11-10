@@ -135,7 +135,7 @@ Below listed are the users, who once were a part of the Project Loved Team.
 ### Other
 
 - ![][flag_GB] [Striiker](https://osu.ppy.sh/users/7291594)
-- ![][flag_HU] [ThatsNotAName](https://osu.ppy.sh/users/9682904)
+- ![][flag_US] [ThatsNotAName](https://osu.ppy.sh/users/9682904)
 - ![][flag_HU] [verto](https://osu.ppy.sh/users/2015300)
 
 ## Trivia
