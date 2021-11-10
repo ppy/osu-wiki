@@ -20,6 +20,8 @@ tags:
   - drapeau
   - nom d'utilisateur
   - suppression
+outdated: true
+outdated_since: c0e3ac1f17bcbdd620c144f55f813351bf320b83
 ---
 
 # Compte

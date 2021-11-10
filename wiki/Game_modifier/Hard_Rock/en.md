@@ -1,7 +1,7 @@
 ---
 stub: true
 tags:
-  - hard rock
+  - hardrock
   - mod
   - game modifier
   - HR
