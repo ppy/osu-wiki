@@ -14,11 +14,11 @@ Slider ticks are small circles that appear in regular intervals along the slider
 
 ## Editor
 
-Sliders can be created in the [beatmap editor](/wiki/Beatmap_Editor) by selecting the Slider icon from the selection menu on the left, and clicking once on the playfield. This will create a sliderhead in the selected position. Moving the cursor will show a preview of how the slider will look if you finish it in the current spot. Slideranchors can now be placed to manipulate the path of the sliderbody. To curve a slider, place a slideranchor by left-clicking anywhere on the playfield. To create sharp angles double-click instead. This will create a red slideranchor. Once you're satisfied with the placement of your slider, right-click to end it.
+Sliders can be created in the [beatmap editor](/wiki/Beatmap_Editor) by selecting the Slider icon from the selection menu on the left, and clicking once on the playfield. This will create a sliderhead in the selected position. Moving the cursor will show a preview of how the slider will look if it is finished in the current spot. Slideranchors can now be placed to manipulate the path of the sliderbody. To curve a slider, place a slideranchor by left-clicking anywhere on the playfield. To create sharp angles double-click instead. This will create a red slideranchor. Once the slider is placed as desired, right-click to end it.
 
-You are free to move/add/remove slider control points after the slider is finished. You can remove control points by right clicking them after the slider has been selected, or add a control point by holding `Ctrl` and clicking anywhere inside the sliders (double click or control+click a slider point to make a red control point). Sliders can also be reversed by clicking and dragging the slidertail in the timeline.<!-- TODO: Insert curve types/algorithm in here maybe-->
+It is possible to move/add/remove slider control points after the slider is finished. Remove control points by right clicking them after the slider has been selected, or add a control point by holding `Ctrl` and clicking anywhere inside the slider(double click, or hold `Ctrl` and click a control point to make it red). Sliders can also be reversed by clicking and dragging the slidertail in the timeline.<!-- TODO: Insert curve types/algorithm in here maybe-->
 
-Users can also adjust the number of ticks on their beatmap's sliders in the `Timing` section. More ticks make the combo rise faster (1x more per tick) and thus offer the opportunity for higher scores, but at the same time they provide more chances for the player to fail as judgement becomes harsher.
+Mappers can also adjust the number of ticks on their beatmap's sliders in the `Timing` section. More ticks make the combo rise faster (1x more per tick) and thus offer the opportunity for higher scores, but at the same time they provide more chances for the player to fail as judgement becomes harsher.
 
 ## Hitsounding sliders
 
