@@ -613,20 +613,38 @@ There are two types of image links: inline and reference. Examples:
 **Inline style:**
 
 ```markdown
-![](/wiki/shared/flag/AU.gif)
+![Gold crown](/wiki/shared/crown-gold.png "1st place")
 ```
 
 **Reference style:**
 
 ```markdown
-![][flag_AU]
+![Gold crown][GCrown]
 
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[GCrown]: /wiki/shared/crown-gold.png "1st place"
 ```
 
-Images should use the inline linking style. References to reference links must be placed at the bottom of the article.
+Images should use the inline linking style. Reference link definitions must be placed at the bottom of the article.
 
-Images must be placed in a folder named `img`, located in the article's folder. Images that are used in multiple articles should be stored in the `/wiki/shared/` folder.
+### Alternative and title text
+
+The text in the first pair of square brackets (*alternative text*) should describe the image literally. It is used by screen readers or when the image fails to load. It can be omitted if it is identical to the title text or if the image is included only for decorative purposes.
+
+The text in the quotation marks (*title text*) should give additional context to the image or indicate its meaning. It is displayed as a tooltip when hovering over the image and used as a caption if applicable. It does not support any markdown formatting.
+
+### Display
+
+If an image is the sole content of a paragraph, it displays as a centered block. Otherwise, it flows with the surrounding inline text.
+
+Block images with title text display the title text as a caption below the image.
+
+Block images are commonly paired with infobox<!-- TODO: link me! --> formatting to reduce their initial size and float them to the side of other content:
+
+```markdown
+::: Infobox
+![](img/mod-response.png "An example of a response to a mod")
+:::
+```
 
 ### Image caching
 
@@ -656,33 +674,7 @@ Where `<input>` is the file name to be compressed and `<output>` is the compress
 
 Use hyphens (`-`) when spacing words. When naming an image, the file name should be meaningful or descriptive but short.
 
-### Formatting and positioning
-
-*Note: It is currently not possible to float an image or have text wrap around it.*
-
-Images on the website will be centred when it is on a single line, by themself. Otherwise, they will be positioned inline with the paragraph. The following example will place the image in the center:
-
-```markdown
-Installing osu! is easy. First, download the installer from the download page.
-
-![](img/download-page.jpg)
-
-Then locate the installer and run it.
-```
-
-### Alt text
-
-Images should have alt text unless it is for decorative purposes.
-
-### Captions
-
-Images are given captions on the website if they fulfill these conditions:
-
-1. The image is by itself.
-2. The image is not inside a heading.
-3. The image has title text.
-
-Captions are assumed via the title text, which must be in plain text. Images with captions are also centred with the image on the website.
+Images must be placed in a folder named `img` under the article's folder. Images that are used in multiple articles should be stored in the `/wiki/shared` folder.
 
 ### Max image width
 

@@ -21,8 +21,8 @@ Project Loved Takımının çoğunluğunu her bir [oyun modunun](/wiki/Game_mode
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983)
+- ![][flag_US] [kotkeone](https://osu.ppy.sh/users/10083084)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
-- ![][flag_US] [Wixonater](https://osu.ppy.sh/users/10083084)
 
 ### osu!taiko
 
@@ -63,6 +63,7 @@ Metaveri denetçileri oylamaya sunulacak her bir mapi kontrol eder, ve mapperlar
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
 - ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
+- ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196)
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
 - ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
@@ -136,6 +137,7 @@ Aşağıda listelenen kullanıcılar bir zamanlar Project Loved Takımının bir
 ### Video editörleri
 
 - ![][flag_GB] [Striiker](https://osu.ppy.sh/users/7291594)
+- ![][flag_US] [ThatsNotAName](https://osu.ppy.sh/users/9682904)
 - ![][flag_HU] [verto](https://osu.ppy.sh/users/2015300)
 
 ## Ek bilgiler
@@ -152,6 +154,7 @@ Aşağıda listelenen kullanıcılar bir zamanlar Project Loved Takımının bir
 [flag_ES]: /wiki/shared/flag/ES.gif "İspanya"
 [flag_FR]: /wiki/shared/flag/FR.gif "Fransa"
 [flag_GB]: /wiki/shared/flag/GB.gif "Birleşik Krallık"
+[flag_GR]: /wiki/shared/flag/GR.gif "Yunanistan"
 [flag_HU]: /wiki/shared/flag/HU.gif "Macaristan"
 [flag_IT]: /wiki/shared/flag/IT.gif "İtalya"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japonya"
