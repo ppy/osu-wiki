@@ -64,6 +64,7 @@ Peninjau metadata bertugas untuk memeriksa kesiapan setiap beatmap yang hendak d
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
 - ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
+- ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196)
 - ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
@@ -136,6 +137,7 @@ Di bawah ini tercantum pengguna yang pernah menjadi bagian Project Loved Team
 ### Editor video
 
 - ![][flag_GB] [Striiker](https://osu.ppy.sh/users/7291594)
+- ![][flag_US] [ThatsNotAName](https://osu.ppy.sh/users/9682904)
 - ![][flag_HU] [verto](https://osu.ppy.sh/users/2015300)
 
 ## Trivia
@@ -152,6 +154,7 @@ Di bawah ini tercantum pengguna yang pernah menjadi bagian Project Loved Team
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
 [flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
 [flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
+[flag_GR]: /wiki/shared/flag/GR.gif "Yunani"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hungaria"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
