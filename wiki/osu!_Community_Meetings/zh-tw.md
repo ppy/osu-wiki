@@ -9,11 +9,13 @@
 下一次的 osu! 社群會議預計在 **2021 年 11 月 14 日 (星期日 01:00 UTC)** 舉行。
 
 *提醒：若上述的會議日期已過，請查看此條目的英文版本以獲取最新日期。*
+
 <!--Translation: *Note: If the above date has passed, the most recent date can be found in the English version of this article.*-->
 
 會議通常每兩周召開一次，並提前一天在 [peppy 的 Twitter](https://twitter.com/ppy) 上發布提醒。
 
 ## 參與其中
+
 目前 osu! 社群會議會在 [osu!dev Discord](https://discord.gg/ppy) 的舞台頻道中舉行，並同時於 [peppy 的 Twitch 頻道](https://www.twitch.tv/ppy)上直播。每場會議的預計時間為一小時，並於隔周日的 01:00 UTC 召開。
 
 任何人都可以加入！如果您有疑問或是想對討論內容做補充的話，可以在舞台頻道舉手以加入隊列，假如您不方便說話，也可以在對應的 Discord 討論串傳送訊息，您的訊息將被唸出並回答。此外，在問問題之前，請先閱讀以下的規範：
