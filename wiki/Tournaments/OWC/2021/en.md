@@ -117,24 +117,24 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Russian Federation | ![][flag_RU] | ![][flag_AU] | Australia | Nov 13 (Sat) 10:00 UTC | Nov 13 (Sat) 13:00 UTC+3 | Nov 13 (Sat) 20:00 UTC+10 | ² |
 | Japan | ![][flag_JP] | ![][flag_KR] | South Korea | Nov 13 (Sat) 12:00 UTC | Nov 13 (Sat) 21:00 UTC+9 | Nov 13 (Sat) 21:00 UTC+9 | ² |
 | United Kingdom | ![][flag_GB] | ![][flag_TW] | Taiwan | Nov 13 (Sat) 14:00 UTC | Nov 13 (Sat) 14:00 UTC | Nov 13 (Sat) 22:00 UTC+8 | ² |
-| Poland | ![][flag_PL] | ![][flag_RO] | Romania | Nov 13 (Sat) 16:00 UTC | Nov 13 (Sat) 17:00 UTC+1 | Nov 13 (Sat) 18:00 UTC+2 | ² |
+| Poland | ![][flag_PL] | ![][flag_RO] | Romania | Nov 13 (Sat) 15:00 UTC | Nov 13 (Sat) 16:00 UTC+1 | Nov 13 (Sat) 17:00 UTC+2 | ² |
 
 ### Sunday, November 14, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_HK] | Hong Kong | Nov 14 (Sun) 04:00 UTC | Nov 14 (Sun) 00:00 UTC-4 | Nov 14 (Sun) 12:00 UTC+8 | ¹ |
+| United States | ![][flag_US] | ![][flag_HK] | Hong Kong | Nov 14 (Sun) 05:00 UTC | Nov 14 (Sun) 01:00 UTC-4 | Nov 14 (Sun) 13:00 UTC+8 | ¹ |
+| Russian Federation | ![][flag_RU] | ![][flag_AU] | Australia | Nov 14 (Sun) 08:30 UTC | Nov 14 (Sun) 11:30 UTC+3 | Nov 14 (Sun) 18:30 UTC+10 | ² |
 | Russian Federation | ![][flag_RU] | ![][flag_GB] | United Kingdom | Nov 14 (Sun) 11:00 UTC | Nov 14 (Sun) 14:00 UTC+3 | Nov 14 (Sun) 11:00 UTC | ³ |
 | Russian Federation | ![][flag_RU] | ![][flag_TW] | Taiwan | Nov 14 (Sun) 11:00 UTC | Nov 14 (Sun) 14:00 UTC+3 | Nov 14 (Sun) 19:00 UTC+8 | ³ |
 | Australia | ![][flag_AU] | ![][flag_GB] | United Kingdom | Nov 14 (Sun) 11:00 UTC | Nov 14 (Sun) 21:00 UTC+10 | Nov 14 (Sun) 11:00 UTC | ³ |
 | Australia | ![][flag_AU] | ![][flag_TW] | Taiwan | Nov 14 (Sun) 11:00 UTC | Nov 14 (Sun) 21:00 UTC+10 | Nov 14 (Sun) 19:00 UTC+8 | ³ |
 | Poland | ![][flag_PL] | ![][flag_JP] | Japan | Nov 14 (Sun) 13:30 UTC | Nov 14 (Sun) 14:30 UTC+1 | Nov 14 (Sun) 22:30 UTC+9 | ³ |
-| Poland | ![][flag_PL] | ![][flag_KR] | South Korea | Nov 14 (Sun) 13:30 UTC | Nov 14 (Sun) 14:30 UTC+1 | Nov 14 (Sun) 22:30 UTC+9 | ³ |
 | Romania | ![][flag_RO] | ![][flag_JP] | Japan | Nov 14 (Sun) 13:30 UTC | Nov 14 (Sun) 15:30 UTC+2 | Nov 14 (Sun) 22:30 UTC+9 | ³ |
-| Romania | ![][flag_RO] | ![][flag_KR] | South Korea | Nov 14 (Sun) 13:30 UTC | Nov 14 (Sun) 15:30 UTC+2 | Nov 14 (Sun) 22:30 UTC+9 | ³ |
+| Poland | ![][flag_PL] | ![][flag_KR] | South Korea | Nov 14 (Sun) 14:30 UTC | Nov 14 (Sun) 15:30 UTC+1 | Nov 14 (Sun) 23:30 UTC+9 | ³ |
+| Romania | ![][flag_RO] | ![][flag_KR] | South Korea | Nov 14 (Sun) 14:30 UTC | Nov 14 (Sun) 16:30 UTC+2 | Nov 14 (Sun) 23:30 UTC+9 | ³ |
 | Canada | ![][flag_CA] | ![][flag_DE] | Germany | Nov 14 (Sun) 18:00 UTC | Nov 14 (Sun) 13:00 UTC-5 | Nov 14 (Sun) 19:00 UTC+1 | ¹ |
 
 ¹ Winners bracket match\
