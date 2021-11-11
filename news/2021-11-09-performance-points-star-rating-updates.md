@@ -16,13 +16,13 @@ We will be covering only changes made to the **osu!** game mode in this post.
 
 Deployment of these changes will as usual, take some time to fully complete. If you are interested in following the progress we recommend you bookmark this page and check back on this section, as it will be updated as forward progress is made.
 
-### 🏃 Star rating updates \[2021-11-09 - 2021-11-11\]
+### ✅ Star rating updates \[2021-11-09 - 2021-11-11\]
 
 An initial pass over all beatmaps to update their star ratings. During this period, new scores will potentially be calculated using the updated calculations, but won't match old scores (which are yet to be updated). There may be discrepancies in ordering and display between the game client and web site.
 
 Estimated to take 1-2 days. 
 
-### ⌛ Background user total recalculations \[2021-11-11 - 2021-11-15\]
+### 🏃 Background user total recalculations \[2021-11-11 - 2021-11-15\]
 
 Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
 
