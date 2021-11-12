@@ -72,7 +72,7 @@ Où :
 - `(start_opacity)` est la valeur à l'heure de départ
 - `(end_opacity)` est la valeur à l'heure de fin
 
-Par exemple, pour faire disparaître un objet en 1 seconde (en commençant 1 seconde après le début de la map), attendre 2 secondes à demi-transparence, puis faire disparaître l'objet en 1 seconde, nous écririons quelque chose comme suit :
+Par exemple, pour faire disparaître un objet en 1 seconde (en commençant 1 seconde après le début de la beatmap), attendre 2 secondes à demi-transparence, puis faire disparaître l'objet en 1 seconde, nous écririons quelque chose comme suit :
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240

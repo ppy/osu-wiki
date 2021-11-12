@@ -1,10 +1,10 @@
 # Variables de script d'un storyboard
 
-Vous pouvez utiliser des chaînes de texte, jusqu'à une ligne entière, comme **variables** pour les utiliser ailleurs dans un fichier .osb (notez que la valeur ne peut pas changer pendant le jeu, donc pour ceux qui ont de l'expérience dans les logiciels, pensez-y plutôt comme une constante). *Les fichiers .osu ne supportent pas cela*.
+Vous pouvez utiliser des chaînes de texte, jusqu'à une ligne entière, comme **variables** pour les utiliser ailleurs dans un fichier .osb (notez que la valeur ne peut pas changer pendant le jeu, donc pour ceux qui ont de l'expérience dans les logiciels, voyez ça plutôt comme une constante). *Les fichiers .osu ne supportent pas cela*.
 
 ## Utilisation
 
-La déclaration des variables se fait dans la section distincte  \[Variables\] du fichier .osb, située en haut du fichier :
+La déclaration des variables se fait dans la section distincte \[Variables\] du fichier .osb, située en haut du fichier :
 
 ```
 [Variables]

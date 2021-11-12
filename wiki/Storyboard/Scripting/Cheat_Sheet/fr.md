@@ -103,7 +103,7 @@ Pour chacun des types d'événements ci-dessous, la ou les valeurs initiales de 
 
 `_S,[...],startscale,endscale`
 
-**startscale** :  le facteur d'échelle au début de l'animation. **endscale** : le facteur d'échelle à la fin de l'animation.
+**startscale** : le facteur d'échelle au début de l'animation. **endscale** : le facteur d'échelle à la fin de l'animation.
 
 Note : 1 = 100%, 2 = 200% etc. les décimales sont autorisées.
 

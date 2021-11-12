@@ -39,8 +39,8 @@ Cette page et le reste du guide décrivent les lignes de code de script qui sont
   - Pass (s'affiche uniquement si le joueur est dans l'état "Pass", voir [État du jeu](#état-du-jeu) ci-dessous)
   - Premier plan
 - Les couches "Fail" et "Pass" ne sont jamais affichées simultanément à l'écran, contrairement à l'onglet Design.
-- Par défaut, le fond de prévisualisation (le fond que vous voyez dans Song Select) spécifié pour la map est placé sous toutes les autres couches. Toutefois, si vous faites référence à ce même fichier en tant qu'objet dans votre storyboard, il disparaîtra immédiatement après le chargement de la map.
-  - Il est courant que le fond d'écran de votre map soit le premier objet spécifié (en temps et en sprite), et que vous utilisiez la commande "fade out" (éclaircissement) pour "présenter" votre fond au public.
+- Par défaut, le fond de prévisualisation (le fond que vous voyez dans Song Select) spécifié pour la beatmap est placé sous toutes les autres couches. Toutefois, si vous faites référence à ce même fichier en tant qu'objet dans votre storyboard, il disparaîtra immédiatement après le chargement de la beatmap.
+  - Il est courant que le fond d'écran de votre beatmap soit le premier objet spécifié (en temps et en sprite), et que vous utilisiez la commande "fade out" (éclaircissement) pour "présenter" votre fond au public.
 
 **Règles de chevauchement**
 
