@@ -165,7 +165,7 @@ Alongside all those big changes above, there are some changes on the smaller sid
 - In preparation for osu!lazer, difficulty calculation for [the Blinds mod](https://github.com/ppy/osu/pull/14921) and [the Relax mod](https://github.com/ppy/osu/pull/14942) has been added by [**Apo11o**](https://osu.ppy.sh/users/9558549).
   - These could be potentially enabled in the future once osu!lazer leaderboard submissions go live, since the concept of "ranked mods" will be no more.
 
-**UPDATE:** In response to the feedback, scores on slideraim-heavy maps will now be rated lower if they are very likely to have dropped sliderends. This is done by scaling between the aim difficulty of a map with and without sliders depending on an estimate based on score data, and this should address the concerns over the current abuse cases. This hotfix also ships an additional minor nerf to slider aim.
+**UPDATE:** In response to community feedback, scores on slider-aim-heavy maps will now be rated lower if they are very likely to have dropped slider ends. This is done by scaling between the aim difficulty of a map with and without sliders, depending on an estimate based on score data, which should address the concerns over the current abuse cases. This hotfix also ships an additional minor nerf to slider aim.
 
 ---
 
