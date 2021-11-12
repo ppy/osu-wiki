@@ -16,13 +16,15 @@ We will be covering only changes made to the **osu!** game mode in this post.
 
 Deployment of these changes will as usual, take some time to fully complete. If you are interested in following the progress we recommend you bookmark this page and check back on this section, as it will be updated as forward progress is made.
 
-### ✅ Star rating updates \[2021-11-09 - 2021-11-11\]
+### 🏃 Star rating updates \[2021-11-13 - 2021-11-14\]
 
 An initial pass over all beatmaps to update their star ratings. During this period, new scores will potentially be calculated using the updated calculations, but won't match old scores (which are yet to be updated). There may be discrepancies in ordering and display between the game client and web site.
 
 Estimated to take 1-2 days. 
 
-### 🏃 Background user total recalculations \[2021-11-11 - 2021-11-15\]
+UPDATE: The schedule has been reset and moved forward due to some hotfixes being applied. See the end of this post for more details.
+
+### ⌛ Background user total recalculations \[2021-11-14 - 2021-11-17\]
 
 Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
 
@@ -35,17 +37,17 @@ During this maintenance, the following will also occur:
 
 Estimated to take 4 days for the majority of active users, and longer for lower ranking users. The initial run is targeting all users above 1,000 total pp, after which we will begin to start a longer running update that may run over a week or so.
 
-### ⌛ Re-enabling of global rank history updates \[2021-11-15\]
+### ⌛ Re-enabling of global rank history updates \[2021-11-18\]
 
 Rank history graphs updates will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
 
-### ⌛ Reindexing \[2021-11-15 - 2021-11-16\]
+### ⌛ Reindexing \[2021-11-19 - 2021-11-20\]
 
 This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
 
 Estimated to take 1 day.
 
-### ⌛ Background user score recalculations \[2021-11-16 ~\]
+### ⌛ Background user score recalculations \[2021-11-21 ~\]
 
 While the aforementioned "user total" step is aimed to cover the majority of visible scores in the "Best Performance" profile section, this is a second pass operation which aims to address all remaining scores that may have not been updated yet.
 
@@ -164,6 +166,8 @@ Alongside all those big changes above, there are some changes on the smaller sid
 - [**Joz**](https://osu.ppy.sh/users/10644596) spotted that the initial strain for skills started at 1, not 0. [This has been fixed](https://github.com/ppy/osu/pull/15014).
 - In preparation for osu!lazer, difficulty calculation for [the Blinds mod](https://github.com/ppy/osu/pull/14921) and [the Relax mod](https://github.com/ppy/osu/pull/14942) has been added by [**Apo11o**](https://osu.ppy.sh/users/9558549).
   - These could be potentially enabled in the future once osu!lazer leaderboard submissions go live, since the concept of "ranked mods" will be no more.
+
+**UPDATE:** In response to community feedback, scores on slider-aim-heavy maps will now be rated lower if they are very likely to have dropped slider ends. This is done by scaling between the aim difficulty of a map with and without sliders, depending on an estimate based on score data, which should address the concerns over the current abuse cases. This hotfix also ships an additional minor nerf to slider aim.
 
 ---
 
