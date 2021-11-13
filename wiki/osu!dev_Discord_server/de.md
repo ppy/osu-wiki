@@ -31,4 +31,4 @@ Jedes Projekt wird in seinem dafür vorgesehenen Kanal diskutiert:
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
 | [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
 | [Modding](/wiki/Modding) Diskussionen und [NAT Meetings](/wiki/Modding/NAT_meetings) | `#modding` |
-| [Mapper Guilde](/wiki/Mappers_Guild) | `#mappers-guild` |
+| [Mappers' Guild](/wiki/Mappers_Guild) | `#mappers-guild` |
