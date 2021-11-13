@@ -1,6 +1,6 @@
 <!-- TODO:
 - [x] correct mistakes in article
-- [ ] add open source
+- [x] add open source
 - [ ] add end of life message
 - [x] all songs are now free to download
 - [ ] leaderboards are frozen
@@ -20,6 +20,8 @@
 It does not support classic osu! beatmaps. Instead, maps are created by a special team of mappers to take advantage of the new elements and adhere to a stricter level of standards. All maps are available for free at the "Store".
 
 [osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/community/forums/topics/59924)
+
+The source code is available for everyone curious enough on its [GitHub repository](https://github.com/ppy/osu-stream).
 
 ## Installation
 
@@ -387,3 +389,4 @@ Usually heard at Main Menu and tutorial screen.
 
 - [Official website](http://www.osustream.com) (outdated)
 - [Discussion forum (osu! website)](https://osu.ppy.sh/community/forums/79)
+- [GitHub repository](https://github.com/ppy/osu-stream)
