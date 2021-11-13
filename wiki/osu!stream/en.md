@@ -1,7 +1,7 @@
 <!-- TODO:
 - [x] correct mistakes in article
 - [x] add open source
-- [ ] add end of life message
+- [x] add end of life message
 - [x] all songs are now free to download
 - [ ] leaderboards are frozen
 - [x] frontpage of osustream.com is outdated
@@ -15,9 +15,9 @@
 
 ![](img/Os-Logo.jpg "osu!stream logo")
 
-**osu!stream** is a version of osu! built from scratch that is made especially for touch-enabled devices. It is currently available for Apple's [iOS](http://en.wikipedia.org/wiki/IOS) platform only, but an [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) port is planned. It introduces a brand new gameplay system such as the hold circle and connected beats.
+**osu!stream** is a version of osu! built from scratch that is made especially for touch-enabled devices. It is currently available for Apple's [iOS](http://en.wikipedia.org/wiki/IOS) platform only. The development ended in 2020 and is to be seen as finished. An [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) port was planned but not implemented yet. For more information, read the [blog post](https://blog.ppy.sh/osu-stream-2020-release/) about its last release.
 
-It does not support classic osu! beatmaps. Instead, maps are created by a special team of mappers to take advantage of the new elements and adhere to a stricter level of standards. All maps are available for free at the "Store".
+It introduces a brand new gameplay system such as the hold circle and connected beats. It does not support classic osu! beatmaps. Instead, maps are created by a special team of mappers to take advantage of the new elements and adhere to a stricter level of standards. All maps are available for free at the "Store".
 
 [osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/community/forums/topics/59924)
 
@@ -390,3 +390,4 @@ Usually heard at Main Menu and tutorial screen.
 - [Official website](http://www.osustream.com) (outdated)
 - [Discussion forum (osu! website)](https://osu.ppy.sh/community/forums/79)
 - [GitHub repository](https://github.com/ppy/osu-stream)
+- [Blog post](https://blog.ppy.sh/osu-stream-2020-release/)
