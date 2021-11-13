@@ -1,5 +1,5 @@
 <!-- TODO:
-- [ ] correct mistakes in article
+- [x] correct mistakes in article
 - [ ] add open source
 - [ ] add end of life message
 - [ ] all songs are now free to download
