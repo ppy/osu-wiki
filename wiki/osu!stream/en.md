@@ -265,8 +265,8 @@ There is an additional bonus of 10 points depending on the speed of spinning the
 
 **Hit-circles**
 
-- A 300, 100 or 50 from a normal hit circle depending on tap accuracy.
-- Not tapping on the hit circle at all or tap on it too early, a miss will be given.
+- A 300, 100 or 50 will be awarded from a normal hit circle depending on the tap accuracy.
+- Not tapping on the hit circle at all or tapping on it too early, a miss will be given.
   - If tapped on it really, really early, the object will shake instead. Nothing will happen technically except visually telling that it was tapped too early.
 
 **Hold-circle**
