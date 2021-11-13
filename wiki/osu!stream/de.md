@@ -1,4 +1,7 @@
-<!-- TODO: some updates and needs a proper end of life message. it's also open source now -->
+<!-- TODO:
+- [ ] wait for merge of english branch
+- [ ] merge origin/master into this branch
+-->
 
 # osu!stream
 
