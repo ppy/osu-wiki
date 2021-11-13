@@ -1,4 +1,15 @@
-<!-- TODO: some updates and needs a proper end of life message. it's also open source now -->
+<!-- TODO:
+- [ ] correct mistakes in article
+- [ ] add open source
+- [ ] add end of life message
+- [ ] all songs are now free to download
+- [ ] leaderboards are frozen
+- [ ] frontpage of osustream.com is outdated
+- [ ] go through the github repo /ppy/osu-stream and the blogpost on blog.ppy.sh
+- [ ] open PR: mention Walavoucheys help and that mistakes were corrected along the way. try to review commit by commit
+- [ ] wait for PR to be merged and then merge master into German branch
+- [ ] move this TODO to the German branch
+-->
 
 # osu!stream
 
