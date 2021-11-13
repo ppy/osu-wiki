@@ -32,7 +32,7 @@ Play through [this osu! map](https://osu.ppy.sh/beatmapsets/1568902) hosted by [
 
 ### Scars in my Life
 
-Or pick up a lifetime's worth of fruit in [this osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1507375) hosted by [Daletto](https://osu.ppy.sh/users/7592136)
+Or pick up a lifetime's worth of fruit in [this osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1507375) hosted by [Daletto](https://osu.ppy.sh/users/7592136).
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
