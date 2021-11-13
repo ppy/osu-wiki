@@ -391,25 +391,25 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 9. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it's clearly communicated in the chatroom.
-   - This might change depending on the amount of registrations.
-10. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
+10. If a player disconnects, their scores will not be counted towards their team's total.
+11. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
     - The minimum amount of required players is considered as the amount of players needed to play a beatmap without any vacant spots on the lobby (i.e. 4 participants must be present for the match to begin).
-11. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
-12. Exchanging players between games is allowed without limitations.
-13. Beatmaps must not be reused in the same match, except for rematches.
-14. **The minimum team size for a team is 6 players, and the maximum is 8.**
-15. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
-16. All players and staff must be treated with respect. Instructions of the referees and the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
-17. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
+12. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
+13. Exchanging players between games is allowed without limitations.
+14. Beatmaps must not be reused in the same match, except for rematches.
+15. **The minimum team size for a team is 6 players, and the maximum is 8.**
+16. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
+17. All players and staff must be treated with respect. Instructions of the referees and the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
+18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
-18. Penalties for violating the tournament rules include, but are not limited to:
+19. Penalties for violating the tournament rules include, but are not limited to:
     - Exclusion of specific players for one beatmap.
     - Exclusion of specific players for an entire match.
     - Declaring the match as forfeited, or as a win by default for the other team.
     - Disqualification from the entire tournament.
     - Disqualification from the current and future official tournaments, until appealed.
-19. Referees may allow, at their discretion, lower or higher tolerances for timers.
-20. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
+20. Referees may allow, at their discretion, lower or higher tolerances for timers.
+21. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Tournament registration
 
