@@ -1,16 +1,3 @@
-<!-- TODO:
-- [x] correct mistakes in article
-- [x] add open source
-- [x] add end of life message
-- [x] all songs are now free to download
-- [x] leaderboards are frozen
-- [x] frontpage of osustream.com is outdated
-- [x] go through the github repo /ppy/osu-stream and the blogpost on blog.ppy.sh
-- [ ] open PR: mention Walavoucheys help and that mistakes were corrected along the way. try to review commit by commit
-- [ ] wait for PR to be merged and then merge master into German branch
-- [ ] move this TODO to the German branch
--->
-
 # osu!stream
 
 ![](img/Os-Logo.jpg "osu!stream logo")
