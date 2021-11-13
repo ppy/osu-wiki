@@ -173,7 +173,7 @@ The background colour is Green (Easy), Blue (Normal) and Pink (Hard).
 
 **Difficulty: Expert**
 
-Locked by default and can only be unlocked by completing the Stream mode of the song with an A or better, Expert mode is for players that wants a better challenge. In this mode, player is given a full lifebar and player is tasked to preserve it until the end of the song. Completing it will not unlock anything but bragging rights.
+Locked by default and can only be unlocked by completing the Stream mode of the song with an A or better, Expert mode is for players that want a better challenge. In this mode, players are given a full lifebar and are tasked to preserve it until the end of the song. Completing it will not unlock anything but bragging rights.
 
 The background colour is Purple and the lights will darken depending on current HP.
 
