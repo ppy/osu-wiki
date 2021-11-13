@@ -15,7 +15,7 @@
 
 ![](img/Os-Logo.jpg "osu!stream logo")
 
-**osu!stream** is a version of osu! built from scratch that is made especially for touch-enabled devices. It is currently available for Apple's [iOS](http://en.wikipedia.org/wiki/IOS) platform only, but an [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) port is planned. It introduces a brand new game-play system such as the hold circle and connected beats.
+**osu!stream** is a version of osu! built from scratch that is made especially for touch-enabled devices. It is currently available for Apple's [iOS](http://en.wikipedia.org/wiki/IOS) platform only, but an [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) port is planned. It introduces a brand new gameplay system such as the hold circle and connected beats.
 
 It does not support classic osu! beatmaps. Instead, maps are created by a special team of mappers to take advantage of the new elements and adhere to a stricter level of standards. All maps are available for free at the "Store".
 
