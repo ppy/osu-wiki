@@ -141,11 +141,11 @@ The background colour is Green.
 
 **Difficulty: Easy ("Stream Down!" from Normal) ~ Normal (start point) ~ Hard ("Stream Up!" from Normal)**
 
-Stream mode is a new implementation specially for osu!stream. In this mode, player will start with a half-filled "2nd" lifebar with a normal difficulty setting set. The player is then tasked to fill it full to trigger "Stream Up!" which basically tune the difficulty up (by adding more hit object and alternating to "Hard" design) but still considerately less harder than Expert mode. When player entered "Stream Up!" mode, a (third/second) lifebar is issued and "Stream Down!" will occur when the (third/second) lifebar ran out of health, reverting back to the (Normal/Easy) difficulty setting of design and using the half-filled (second/last) lifebar.
+Stream mode is a new implementation specially for osu!stream. In this mode, players will start with a half-filled "2nd" lifebar with a normal difficulty setting set. The player is then tasked to fill it full to trigger "Stream Up!" which basically tunes the difficulty up (by adding more hit objects and alternating to "Hard" design) but is still considerately less harder than Expert mode. When players enter "Stream Up!" mode, a (third/second) lifebar is issued and "Stream Down!" will occur when the (third/second) lifebar ran out of health, reverting back to the (Normal/Easy) difficulty setting of design and using the half-filled (second/last) lifebar.
 
-In short, the player start in between Easy and Hard.
+In short, the player starts in between Easy and Hard.
 
-Do note the player **must score at least A (>80% accuracy) rank in this mode in order to unlock the Expert mode of the song**. Accuracy lower than 80% even if full-combo does not count as A (it will be counted as B as usual).
+Do note the player **must score at least A (>80% accuracy) rank in this mode in order to unlock the Expert mode of the song**. An accuracy lower than 80% even if full-combo does not count as A (it will be counted as B as usual).
 
 The background colour is Green (Easy), Blue (Normal) and Pink (Hard).
 
