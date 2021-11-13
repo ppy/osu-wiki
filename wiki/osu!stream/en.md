@@ -223,7 +223,7 @@ The background colour is Purple and the lights will darken depending on current 
 
 ## Scoring
 
-*Information: The leaderboard can still be viewed in-game but is frozen.*
+*Note: The leaderboard can still be viewed in-game but is frozen.*
 
 ### Accuracy
 
