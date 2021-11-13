@@ -339,29 +339,29 @@ In **Easy Mode, lifebar is completely removed**.
 
 ![](img/Os-SUN.jpg "Example of Stream Up! from Normal")
 
-In **Stream Mode** however, player is given **three lifebars and player starts with the second half-filled lifebar at start**. Player (gain/lose) the lifebar by (Stream Up!/Stream Down!) message for (filling the lifebar full/used up all the HP on that lifebar). After the message is shown, the game will show an animation at the background which (tune up/tune down) the difficulty and issue a half-filled lifebar. If a player is issued a "Stream Down!", player is given temporary invisibility (due to no health left in the currently using lifebar) until the animation is completed in which the lifebar will be substituted with a half-filled one from the previous difficulty.
+In **Stream Mode** however, the player is given **three lifebars and the player starts with the second half-filled lifebar at start**. Players (gain/lose) the lifebar by (Stream Up!/Stream Down!) a message for (filling the lifebar full/using up all the HP on that lifebar). After the message is shown, the game will show an animation at the background which (tunes up/tunes down) the difficulty and issues a half-filled lifebar. If a player is issued a "Stream Down!", the player is given temporary invisibility (due to no health left in the currently using lifebar) until the animation is completed in which the lifebar will be substituted with a half-filled one from the previous difficulty.
 
 In **Expert Mode, a full one lifebar is issued**.
 
 In terms of getting life for lifebar, it is explained as in below.
 
-The player gain life from:
+The player gains life from:
 
 - Hit allowed: 300, 100, osu!, gold good! and green good!.
   - Hitting the hit circle(s). (Better judgement leads to more life gain. The last hit circle in a colour combo awards more life.)
   - Hitting the slider(s) start, end or return tick. (Better judgement at the end tick leads to more life gain)
   - Completing the Spinner and Hold Bubble(s) properly.
 
-The player lose life from:
+The player loses life from:
 
-- Hit cause: 50 , Miss
-- Missing any hit object or sliders.
+- Hit cause: 50 or Miss
+- Missing any hit object or slider.
 - Not following the slider(s).
 - Not holding the Hold Bubble until it explodes.
 - Unable to complete the spinner with "Clear" message.
 - Not spinning the spinner.
 
-The player reserve life from:
+The player reserves life from:
 
 - Default. **Lifebar will not drain at all while playing**.
 
