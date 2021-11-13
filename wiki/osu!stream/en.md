@@ -70,7 +70,7 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 - Cannot change skin nor can apply any mods (yet).
 - Easter Eggs can be found but there is no Achievement page...
 
-### New Game-play system
+### New gameplay system
 
 **Note:** Test the new gameplay elements in "Tutorial" screen.
 
