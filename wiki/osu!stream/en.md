@@ -297,12 +297,12 @@ There is an additional bonus of 10 points depending on the speed of spinning the
 
 The following each add a point to the score multiplier:
 
-- A successfully hit on the hit circle.
-- A successfully hold on the hold circle.
-- A successfully hit at the start of a slider.
-- A successfully touched end of a slider.
-- A successfully touched on the slider tick.
-- A successfully completed spinner.
+- A successful hit on the hit circle.
+- A successful hold on the hold circle.
+- A successful hit at the start of a slider.
+- Successfully touched the end of a slider.
+- Successfully touched on the slider tick.
+- Successfully completed a spinner.
 
 The following will reset the score multiplier to zero:
 
