@@ -99,7 +99,7 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 
 ![](img/Os-HC2.jpg "Hold circle 2")
 
-- Hold circle requires the player to hold the circle until the circle "explodes"
+- Hold circle requires the player to hold the circle until the circle "explodes".
 - The hit accuracy is determined by how early/late hit and holding time.
   - If the hold was released before the circle "explodes", combo multiplier will reset to 0 but the hold circle will not incur a miss as long as at least, touched the hold circle.
   - If the player did not hold the circle, the HP will be taken as long as the hold circle have not exploded itself.
