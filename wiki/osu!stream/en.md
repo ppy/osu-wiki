@@ -63,7 +63,7 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 - Beatmaps are made from scratch.
 - No account needed to download the song packs.
 - Can integrate osu!stream with a Twitter account.
-- High score may be sent anonymously to the site under the name of "Guest" (if happen but requires Internet connection).
+- High score may be sent anonymously to the site under the name of "Guest" (requires Internet connection).
 - The circle timer is replaced and moved to the bottom with a small border line which is coloured depending on accuracy. \[Bottom(Long)\]
 - **Average Timing** is given at the grade page.
 - Cannot save old records nor can save replays.
