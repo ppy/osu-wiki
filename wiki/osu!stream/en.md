@@ -3,7 +3,7 @@
 - [x] add open source
 - [x] add end of life message
 - [x] all songs are now free to download
-- [ ] leaderboards are frozen
+- [x] leaderboards are frozen
 - [x] frontpage of osustream.com is outdated
 - [ ] go through the github repo /ppy/osu-stream and the blogpost on blog.ppy.sh
 - [ ] open PR: mention Walavoucheys help and that mistakes were corrected along the way. try to review commit by commit
@@ -235,6 +235,8 @@ The background colour is Purple and the lights will darken depending on current 
 ***[Click for full list](Song_List)***
 
 ## Scoring
+
+The leaderboard can still be viewed in-game but is frozen.
 
 ### Accuracy
 
