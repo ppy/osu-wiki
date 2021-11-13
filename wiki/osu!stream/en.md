@@ -2,7 +2,7 @@
 - [x] correct mistakes in article
 - [ ] add open source
 - [ ] add end of life message
-- [ ] all songs are now free to download
+- [x] all songs are now free to download
 - [ ] leaderboards are frozen
 - [x] frontpage of osustream.com is outdated
 - [ ] go through the github repo /ppy/osu-stream and the blogpost on blog.ppy.sh
@@ -17,7 +17,7 @@
 
 **osu!stream** is a version of osu! built from scratch that is made especially for touch-enabled devices. It is currently available for Apple's [iOS](http://en.wikipedia.org/wiki/IOS) platform only, but an [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) port is planned. It introduces a brand new game-play system such as the hold circle and connected beats.
 
-It does not support classic osu! beatmaps. Instead, maps are created by a special team of mappers to take advantage of the new elements and adhere to a stricter level of standards. Both free and paid maps are available at the "Store".
+It does not support classic osu! beatmaps. Instead, maps are created by a special team of mappers to take advantage of the new elements and adhere to a stricter level of standards. All maps are available for free at the "Store".
 
 [osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/community/forums/topics/59924)
 
@@ -55,7 +55,6 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 - Press the "Store" bar
   - Alternatively, head to "Play" and press "Download more songs!"
 - Select a desired pack.
-  - It is suggested to download packs that do not cost money first. Free packs have "FREE" tag instead of the "USD$" cost tag.
 
 ## What is the difference?
 
@@ -374,8 +373,6 @@ Because of the difficulty in obtaining licensing for the said song.
 ### How do I get more beatmaps?
 
 Head to the "Store" section in the game or pressing the "Download more songs..." at the "Play" section.
-
-The beatmaps are in bundle, and some are priced. Make sure to look out of the price tag before buying to prevent *accidental purchase*.
 
 ### What is the theme song of osu!stream?
 
