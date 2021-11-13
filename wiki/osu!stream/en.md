@@ -87,7 +87,7 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 
 ![](img/Os-CB.png "Connected Beats")
 
-- Connected Beats, as the title suggested, requires the player to press both the objects at the same time.
+- Connected Beats, as the title suggests, requires the player to press both the objects at the same time.
   - Connected Beats are not limited to just "hit circle-hit circle", it can be "hit circle-slider", "hold circle-slider" and so on.
 - Connected Beats can be identified by having a straight white line connecting with another object.
 
