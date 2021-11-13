@@ -282,11 +282,11 @@ There is an additional bonus of 10 points depending on the speed of spinning the
 
 - **The judgement for sliders depends on the accuracy of the initial tap**.
 - Sliders consist of slider ticks, which include the start, end and repeat points of the slider.
-  - A 300 if successfully get all slider ticks and accurate initial tap.
+  - A 300 if successfully getting all slider ticks and accurate initial tap.
   - A 100 if at least half of them with considerable initial tap.
-  - A 50 if managed to hit even one of the ticks or the initial tap.
+  - A 50 if managing to hit even one of the ticks or the initial tap.
 - **Clicking a slider way too early** does not incur a miss, but **will reset the score multiplier to 0**.
-- A miss if did not do the slider.
+- A miss if the slider was not held at all.
 
 **Spinner**
 
