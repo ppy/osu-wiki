@@ -78,10 +78,10 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 
 ![](img/Os-FG.jpg "Finger Guides display")
 
-- The two transparent circle that appears in-game is created to help beginners to know when to hit the objects.
-  - It will shows the suggested method to tackle the design of the map with perfection.
+- The two transparent circles that appear in-game are created to help beginners to know when to hit the objects.
+  - It will show the suggested method to tackle the design of the map with perfection.
 - The green colour is for the left hand and the red colour is for the right hand.
-- This feature can be disabled from the option menu or after completed the tutorial.
+- This feature can be disabled from the option menu or after completing the tutorial.
 
 #### Connected Beats
 
