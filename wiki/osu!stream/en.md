@@ -72,7 +72,7 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 
 ### New gameplay system
 
-**Note:** Test the new gameplay elements in "Tutorial" screen.
+**Note:** Test the new gameplay elements in the "Tutorial" screen.
 
 #### Finger Guides Display
 
