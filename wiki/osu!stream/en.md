@@ -4,7 +4,7 @@
 - [ ] add end of life message
 - [ ] all songs are now free to download
 - [ ] leaderboards are frozen
-- [ ] frontpage of osustream.com is outdated
+- [x] frontpage of osustream.com is outdated
 - [ ] go through the github repo /ppy/osu-stream and the blogpost on blog.ppy.sh
 - [ ] open PR: mention Walavoucheys help and that mistakes were corrected along the way. try to review commit by commit
 - [ ] wait for PR to be merged and then merge master into German branch
@@ -388,5 +388,5 @@ Usually heard at Main Menu and tutorial screen.
 
 ## Links
 
-- [Official website](http://www.osustream.com)
+- [Official website](http://www.osustream.com) (outdated)
 - [Discussion forum (osu! website)](https://osu.ppy.sh/community/forums/79)
