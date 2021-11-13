@@ -274,9 +274,9 @@ There is an additional bonus of 10 points depending on the speed of spinning the
 - The judgement of the hold circle depends on the initial tap and the hold time before exploding.
   - 300 if done perfectly.
   - 100 for a less accurate initial hold and holding it properly.
-  - 50 for at least, touching it.
+  - 50 for at least touching it.
   - 30 for every explosion.
-  - Multiplier reset if did not hold the circles properly and Miss for not doing it.
+  - Multiplier resets if the circles were not hold properly and Miss for not holding at all.
 
 **Sliders**
 
