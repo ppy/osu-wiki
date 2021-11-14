@@ -17,10 +17,10 @@ Les éléments de skinning de l'interface sont utilisés dans plusieurs modes de
 Notes :
 
 - Tag [osu!supporter](/wiki/osu!supporter) requis.
-- Cet élément est positionné au centre et est configuré pour couvrir (remplir toute la largeur et la hauteur tout en gardant son rapport d'aspect, mais rogner tout ce qui est en dehors de la fenêtre du jeu).
+- Cet élément est positionné au centre et est configuré pour couvrir (remplir toute la largeur et la hauteur tout en gardant son aspect ratio, mais rogner tout ce qui est en dehors de la fenêtre du jeu).
 - Par défaut, osu! dispose d'un ensemble d'images d'arrière-plan qu'il fait défiler.
   - Si cet élément est skinné et que l'utilisateur a le tag osu!supporter, cet élément annulera ce comportement.
-- Cet élément est utilisé comme terrain de jeu si la beatmap n'a pas de fond.
+- Cet élément est utilisé comme playfield si la beatmap n'a pas de fond.
 - L'option d'arrière-plan saisonnier peut affecter la visibilité de cet élément.
   - S'il est réglé sur `Always`, les arrière-plans saisonniers remplaceront cet élément.
   - S'il est défini sur `Sometimes`, les arrière-plans saisonniers remplacent cet élément lorsqu'ils sont en cours d'utilisation.
@@ -625,7 +625,7 @@ Notes :
 
 - Les teintes varient en fonction de l'état du tick.
 
-## Terrain de jeu
+## Playfield
 
 `play-skip.png`
 
@@ -1020,7 +1020,7 @@ Notes :
 
 Notes :
 
-- Lorsque le jeu est en pause, le champ de jeu sera obscurci et ce fichier se superposera en haut de celui-ci.
+- Lorsque le jeu est en pause, le playfield sera obscurci et ce fichier se superposera en haut de celui-ci.
 - Cet élément ne s'étire pas pour s'adapter.
 - La hauteur totale de l'image est de 768px.
 - Les images plus petites sont affichées avec des bordures transparentes tandis que les images plus grandes sont partiellement affichées.
@@ -1527,7 +1527,7 @@ Notes :
 Notes :
 
 - L'origine varie :
-  - Pause :  Centre
+  - Pause : Centre
   - Sélection des beatmaps : Gauche
   - Scores des utilisateurs : Centre
 
@@ -1561,7 +1561,7 @@ Notes :
 Notes :
 
 - L'origine varie :
-  - Pause :  Centre
+  - Pause : Centre
   - Sélection des beatmaps : Gauche
   - Scores des utilisateurs : Centre
 
@@ -1595,7 +1595,7 @@ Notes :
 Notes :
 
 - L'origine varie :
-  - Pause :  Centre
+  - Pause : Centre
   - Sélection des beatmaps : Gauche
   - Scores des utilisateurs : Centre
 
@@ -1629,7 +1629,7 @@ Notes :
 Notes :
 
 - L'origine varie :
-  - Pause :  Centre
+  - Pause : Centre
   - Sélection des beatmaps : Gauche
   - Scores des utilisateurs : Centre
 
@@ -1663,7 +1663,7 @@ Notes :
 Notes :
 
 - L'origine varie :
-  - Pause :  Centre
+  - Pause : Centre
   - Sélection des beatmaps : Gauche
   - Scores des utilisateurs : Centre
 
@@ -1697,7 +1697,7 @@ Notes :
 Notes :
 
 - L'origine varie :
-  - Pause :  Centre
+  - Pause : Centre
   - Sélection des beatmaps : Gauche
   - Scores des utilisateurs : Centre
 
@@ -1731,7 +1731,7 @@ Notes :
 Notes :
 
 - L'origine varie :
-  - Pause :  Centre
+  - Pause : Centre
   - Sélection des beatmaps : Gauche
   - Scores des utilisateurs : Centre
 
@@ -2550,7 +2550,7 @@ Notes :
 Notes :
 
 - Cet élément se trouve en haut de l'élément `selection-mode.png`.
-- Select [osu!mania](/wiki/Game_mode/osu!mania) for this to be visible.
+- Sélectionnez [osu!mania](/wiki/Game_mode/osu!mania) pour que cela soit visible.
 - Si l'élément `menu-snow.png` n'est pas skinné, cet élément sera utilisé s'il est sélectionné.
 
 [true]: /wiki/shared/true.png

@@ -6,13 +6,13 @@ Cet article traite des questions fréquemment posées sur le skinning.
 
 ### Qu'est-ce que le skinning ?
 
-Le skinning est un simple mécanisme de changement d'image qu'osu! chargera lors de la sélection d'un skin dans les options. Il est facile de créer un skin, mais il est un peu plus difficile de créer les ressources nécessaires.
+Le skinning est un simple mécanisme de changement d'images qu'osu! chargera lors de la sélection d'un skin dans les options. Il est facile de créer un skin, mais il est un peu plus difficile de créer les ressources nécessaires.
 
 ### Quelqu'un peut-il faire ce skin à partir de cette série/ce jeu ?
 
 Si vous avez parcouru l'ensemble des forums de skinning et que vous êtes certain de ne pas trouver *ce* skin, alors félicitations, osu! ne l'a pas encore. En gardant cela à l'esprit, vous pouvez prendre cette initiative pour créer le skin dont vous rêvez et en faire quelque chose que tout le monde peut vouloir ! 
 
-**Néanmoins, ne demandez jamais de skin sur les forums**. Le non-respect de cette règle entraînera le déplacement de votre fil de discussion vers wastelands.
+**Néanmoins, ne demandez jamais de skin sur les forums**. Le non-respect de cette règle entraînera le déplacement de votre fil de discussion vers les wastelands.
 
 ### Où puis-je obtenir ce skin avec lequel j'ai vu quelqu'un jouer ?
 
@@ -20,7 +20,7 @@ Tout d'abord, ne posez pas cette question dans les forums ; sinon, votre fil de 
 
 ### Puis-je utiliser un élément skinné à partir du skin de quelqu'un d'autre ?
 
-Oui, vous pouvez utiliser des éléments de skinning provenant d'autres skins. Ces éléments sont appelés "skins mixtes" ou "skin mashups". Cependant, **vous n'êtes pas autorisé à les poster sur le sous-forum skinning, avec ou sans permission**, mais vous pouvez les poster dans votre signature ou sur votre page d'utilisateur moi!
+Oui, vous pouvez utiliser des éléments de skinning provenant d'autres skins. Ces éléments sont appelés "skins mixtes" ou "skin mashups". Cependant, **vous n'êtes pas autorisé à les poster sur le sous-forum skinning, avec ou sans permission**, mais vous pouvez les poster dans votre signature ou sur votre page d'utilisateur "moi!"
 
 La seule exception à cette règle concerne les sons, car ils sont généralement plus difficiles à réaliser. Ils peuvent être utilisés à partir d'autres skins, même sans la permission explicite du skinner original. Cependant, il serait bien que vous créditiez le skinner d'origine.
 
@@ -36,23 +36,23 @@ Notez cependant que le dossier appelé `taiko` (insensible à la casse) est rés
 
 Vous devrez avoir votre skin sélectionné, puis appuyer sur ces touches pour recharger un skin dans osu! : `Ctrl` + `Alt` + `Shift` + `S`.
 
-Vous pouvez également quitter et rouvrir osu! ou lancer l'updater pour recharger le skin, mais il est généralement plus rapide d'utiliser la combinaison de quatre clés pour recharger le skin dans osu!
+Vous pouvez également quitter et rouvrir osu! ou lancer l'updater pour recharger le skin, mais il est généralement plus rapide d'utiliser la combinaison de quatre touches pour recharger le skin dans osu!
 
 ### Que sont les skinning sets ?
 
 *Page principale : [Ranking Criteria/Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List)*
 
-Dans osu!, il y a plus de 200 éléments qui peuvent être skinnés (sans compter les images animées individuelles). Cependant, vous n'êtes pas obligé de les skinner tous. Vous pouvez simplement les supprimer car osu! utilisera les images par défaut pour ceux que vous n'avez pas inclus.
+Dans osu!, il y a plus de 200 éléments qui peuvent être skinnés (sans compter les images animées individuelles). Cependant, vous n'êtes pas obligé de tous les skinner. Vous pouvez simplement les supprimer car osu! utilisera les images par défaut pour ceux que vous n'avez pas inclus.
 
 Ceci étant dit, un ensemble de skinning (défini par les critères de classement) indique fondamentalement quels éléments doivent être skinnés si l'un d'entre eux dans l'ensemble l'était. Par exemple, le joueur qui utilise votre skin peut ne pas aimer si vous n'avez skinné que la moitié des numéros par défaut et laissé les autres utiliser leurs valeurs par défaut. Cependant, ceci ne s'applique strictement qu'au skinning des beatmaps mais vous pouvez en tenir compte pour votre propre skin.
 
-### Une skin éditée est-elle un skin mixte ?
+### Un skin édité est-il un skin mixte ?
 
 Les skin édités sont considérés comme mixtes. Ils ne peuvent donc être postés dans aucun sous-forum.
 
 ### Puis-je refaire un skin que quelqu'un d'autre a fait ?
 
-Oui, vous pouvez avoir un thème de skin similaire à celui de quelqu'un d'autre qui l'a peut-être fait avant vous. Cependant, vous devez créer les actifs vous-même et, évidemment, ne pas copier les actifs de l'autre skin que vous essayez de refaire.
+Oui, vous pouvez avoir un thème de skin similaire à celui de quelqu'un d'autre qui l'a peut-être fait avant vous. Cependant, vous devez créer les éléments vous-même et, évidemment, ne pas copier les éléments de l'autre skin que vous essayez de refaire.
 
 ### Pourquoi n'y a-t-il pas une base de données pour les skins, comme les beatmaps ?
 
@@ -62,27 +62,27 @@ Il existe des projets tiers qui tentent déjà de le faire. Cependant, la base d
 
 ### Comment puis-je partager mon skin ?
 
-Tout d'abord, avant de partager votre skin, assurez-vous que vous avez supprimé les autres fichiers qui ne sont pas utilisés. Il peut s'agir d'images et de sons par défaut, de dossiers supplémentaires, de fichiers non-image (à l'exception du fichier `skin.ini`). Une fois cette étape terminée, vous devrez exporter votre skin sous forme de fichier `.osk`. Avec ce fichier, vous pouvez le télécharger et le poster dans le sous-forum skinning.
+Tout d'abord, avant de partager votre skin, assurez-vous que vous avez supprimé les autres fichiers qui ne sont pas utilisés. Il peut s'agir d'images et de sons par défaut, de dossiers supplémentaires, de fichiers non-image (à l'exception du fichier `skin.ini`). Une fois cette étape terminée, vous devrez exporter votre skin sous forme de fichier `.osk`. Avec ce fichier, vous pouvez le mettre en ligne et le poster dans le sous-forum skinning.
 
 1. Ouvrez osu!.
 2. Ouvrez la barre latérale des options.
 3. Chargez votre skin.
 4. Cliquez sur `Exporter en .osk`.
 5. A partir de là, osu! ouvrira une fenêtre pour votre skin exporté.
-6. Prenez le fichier `.osk` avec le nom de votre skin et téléchargez-le.
+6. Prenez le fichier `.osk` avec le nom de votre skin et mettez-le en ligne.
 7. Vous pouvez maintenant le partager !
 
 ### Puis-je poster un skin mixte dans les sous-forums de skinning ?
 
 Non, vous n'êtes pas autorisé à poster un skin mixte dans aucun sous-forum. La même chose s'applique aux skin édités.
 
-#### Où puis-je afficher mon skin mixte ?
+#### Où puis-je poster mon skin mixte ?
 
-Vous pouvez utiliser votre page d'utilisateur moi!, votre signature, le [/r/osuskins subreddit](https://www.reddit.com/r/OsuSkins), ou tout autre endroit en dehors des forums d'osu!
+Vous pouvez utiliser votre page d'utilisateur "moi!", votre signature, le [subreddit /r/osuskins](https://www.reddit.com/r/OsuSkins), ou tout autre endroit en dehors des forums d'osu!
 
 ### Puis-je poster un remake d'un skin ?
 
-Oui, les remakes de skin ne sont pas considérés comme mixtes. Vous pouvez donc les poster, tant qu'aucun des actifs n'a été copié ou dupliqué à partir d'un autre skin (auquel cas, il serait considéré comme mixte).
+Oui, les remakes de skin ne sont pas considérés comme mixtes. Vous pouvez donc les poster, tant qu'aucun des éléments n'a été copié ou dupliqué à partir d'un autre skin (auquel cas, il serait considéré comme mixte).
 
 ### Puis-je poster des skinnés R15 dans les sous-forums de skinning ?
 
@@ -92,7 +92,7 @@ Oui, les remakes de skin ne sont pas considérés comme mixtes. Vous pouvez donc
 - des maillots de bain et/ou bikinis
 - des personnages portant des vêtements révélateurs ou peu voyants
 
-Pour ajouter cet avertissement, il suffit de préfixer `[R15]` au titre de votre fil de discussion et d'écrire un avis en haut du post lui-même.
+Pour ajouter cet avertissement, il suffit de préfixer `[R15]` au titre de votre post et d'écrire un avis en haut du post lui-même.
 
 ### Puis-je poster des skins R18 dans les sous-forums de skinning ?
 
@@ -161,9 +161,9 @@ Dans la plupart des cas, les images doivent utiliser le format `.png`. Toutefois
 
 En plus d'utiliser le format `.png`, vous devriez :
 
-- Découpez ou recadrez vos images autant que possible. Le client d'osu! rendra chaque pixel d'une image, ce qui entraînera une charge de travail plus importante !
+- Découper ou recadrer vos images autant que possible. Le client d'osu! rendra chaque pixel d'une image, ce qui entraînera une charge de travail plus importante !
   - Notez cependant qu'une certaine transparence dans certaines sections d'une image est nécessaire pour aligner correctement des éléments spécifiques.
-- Compressez les images chaque fois que possible. La compression supprime généralement les informations inutiles sur les pixels vides et réduit considérablement la taille des fichiers.
+- Compresser les images chaque fois que possible. La compression supprime généralement les informations inutiles sur les pixels vides et réduit considérablement la taille des fichiers.
 
 ### Que sont les superpositions ?
 
@@ -181,7 +181,7 @@ Il est préférable de garder à l'esprit les résolutions suivantes lors du ski
 - 2732x1536 (16:9, résolution écran large du jeu standard en mise à l'échelle HD)
 - 1920x1080 (16:9, résolution HD standard)
 
-Les images seront ajustées par le jeu lui-même pour s'adapter à des résolutions dérivées de celles mentionnées ci-dessus. La plupart d'entre elles seront redimensionnées pour s'adapter au champ de jeu ou repositionnées sur des rapports d'aspect différents.
+Les images seront ajustées par le jeu lui-même pour s'adapter à des résolutions dérivées de celles mentionnées ci-dessus. La plupart d'entre elles seront redimensionnées pour s'adapter au playfield ou repositionnées sur des rapports d'aspect différents.
 
 ### Images HD
 
@@ -228,7 +228,7 @@ Les fréquences d'images de l'animation pour chaque élément sont incohérentes
 
 Si votre animation est trop rapide/lente, vous avez deux façons de la corriger :
 
-1. Si elle joue trop vite, essayez de les allonger en doublant les images (ou en les divisant par deux, si elle est trop lente).
+1. Si elle se joue trop vite, essayez de les allonger en doublant les images (ou en les divisant par deux, si elle est trop lente).
    - Par exemple, les images 0 et 1 sont la même image (l'image durera donc 2 images), les images 2 et 3 sont la deuxième image, etc.
    - Cela rendra l'animation légèrement plus lente (ou légèrement plus rapide) ; cependant, le taux d'animation reste le même, ce qui signifie que même si vous avez ralenti/accéléré une animation, le taux d'animation d'une autre peut encore être trop rapide/lent.
 2. Utilisez la commande `AnimationFramerate` dans le `skin.ini`.
@@ -248,7 +248,7 @@ Si vous voulez supprimer un élément, vous devez utiliser une image transparent
 
 Il y a deux façons de procéder :
 
-- Désactiver l'éclairage des frappes dans les [options](/wiki/Options).
+- Désactiver les lueurs de fond dans les [options](/wiki/Options).
 - Utilisez une image transparente appelée `lighting.png` dans votre skin.
 
 ##### Je parlais des particules après le clic !
@@ -261,7 +261,7 @@ Ajoutez un fichier transparent appelé `sliderendcircle.png` à votre skin.
 
 #### Comment puis-je cacher les scores de 300 points ?
 
-Ajouter un fichier transparent pour ces noms de fichiers :
+Ajoutez un fichier transparent pour ces noms de fichiers :
 
 - `hit300-0.png`
 - `hit300g-0.png`
