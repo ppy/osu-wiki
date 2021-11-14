@@ -23,14 +23,14 @@ Auf dieser Seite erfährst du, wie du das Spiel auf deinem Windows-Gerät zum La
 
 ## Problemlösung
 
-Wenn du Windows 7 64-Bit benutzt, kann es zu Problemen bei der Installation kommen. Versuche die 64-Bit Version des .NET-Frameworks zu installieren, falls es nicht im Installierungsprogramm enthalten ist. [Lade es hier herunter](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
+Wenn du Windows 7 64-Bit benutzt, kann es zu Problemen bei der Installation kommen. Versuche die 64-Bit Version des .NET-Frameworks zu installieren, falls es nicht im Installationsprogramm enthalten ist. [Lade es hier herunter](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
 
 ---
 
-**Wenn das Installierungsprogramm Fehler während der Installierung ausgibt, dann kannst du Folgendes probieren:**
+**Wenn das Installationsprogramm Fehler während der Installierung ausgibt, dann kannst du Folgendes probieren:**
 
 - Versuche die neueste Version des .NET-Frameworks neuzuinstallieren. [Du findest es hier](https://dotnet.microsoft.com/download).
-- Räume deinen Computer auf - scanne mit Hilfe eines Antivirenprogramms, oder säubere die Registrierungsdatenbank (Registry). Ein gutes Programm, um den Computer oberflächlich zu reinigen, ist CCleaner. Durchsuche damit sowohl deine Dateien als auch die Registry. Das Installierungsprogramm scheitert oft, wenn noch Registry-Einträge von alten Versionen von osu! auf deinem System vorhanden sind.
+- Räume deinen Computer auf - scanne mit Hilfe eines Antivirenprogramms, oder säubere die Registrierungsdatenbank (Registry). Ein gutes Programm, um den Computer oberflächlich zu reinigen, ist CCleaner. Durchsuche damit sowohl deine Dateien als auch die Registry. Das Installationsprogramm scheitert oft, wenn noch Registry-Einträge von alten Versionen von osu! auf deinem System vorhanden sind.
 
 ## Beatmaps hinzufügen
 
