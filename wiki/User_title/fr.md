@@ -8,7 +8,7 @@ tags:
   - user colour
   - titre du forum
   - titres du forum
-  - classement
+  - grade
   - titres
   - couleur de l'utilisateur
   - couleurs de l'utilisateur
@@ -26,13 +26,13 @@ La couleur du titre d'un utilisateur est la même que celle de l'utilisateur, qu
 
 ## Histoire
 
-### Titres du nombre de messages
+### Titres du nombre de posts
 
-![Capture d'écran de la barre latérale du poste de Damnae sur l'ancien site web](img/star-shooter.png "Le titre \"Star Shooter\" se trouve au-dessus du nombre de messages de Damnae.")
+![Capture d'écran de la barre latérale du poste de Damnae sur l'ancien site web](img/star-shooter.png "Le titre \"Star Shooter\" se trouve au-dessus du nombre de posts de Damnae.")
 
-Sur les forums de [l'ancien site d'osu!](https://old.ppy.sh), les utilisateurs pouvaient obtenir des titres en atteignant certains seuils de nombre de messages, comme suit : 
+Sur les forums de [l'ancien site d'osu!](https://old.ppy.sh), les utilisateurs pouvaient obtenir des titres en atteignant certains seuils de nombre de posts, comme suit : 
 
-| Titre du forum | Nombre total de messages |
+| Titre du forum | Nombre total de posts |
 | :-: | :-- |
 | Rhythm Rookie | 0–4 |
 | Tempo Trainee | 5–14 |
@@ -49,4 +49,4 @@ Ces titres n'étaient visibles que sur les barres latérales des messages du for
 
 ## Le saviez-vous ?
 
-- Les titres des utilisateurs sont appelés "titres de rang" dans le code du jeu. Ce nom est un vestige de l'époque où osu! était construit sur [phpBB](https://www.phpbb.com/).
+- Les titres des utilisateurs sont appelés "rank titles" dans le code du jeu. Ce nom est un vestige de l'époque où osu! était construit sur [phpBB](https://www.phpbb.com/).
