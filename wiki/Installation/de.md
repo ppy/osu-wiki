@@ -72,6 +72,6 @@ Es gibt zwei Arten, Beatmaps zu installieren: Über die Webseite oder durch osu!
    - Wenn der Skin komprimiert ist (z.B. `.7z`, `.rar`, `.zip`):
      1. Entpacke das Archiv.
      2. Verschiebe den entpackten Ordner in das `Skins`-Verzeichnis deiner osu!-Installation.
-     3. Wenn osu! geöffnet ist, wird der Skin nur nach dem Drücken von `Strg` + `Alt` + `Shift` + `S` erscheinen.
+     3. Wenn osu! geöffnet ist, wird der Skin nach dem Drücken von `Strg` + `Alt` + `Shift` + `S` erscheinen.
      4. Begib dich in osu! in die [Optionen](/wiki/Options) und suche nach `Skin`.
      5. Scrolle runter zur `Current skin:`-Option und wähle deinen neuen Skin aus.
