@@ -21,7 +21,7 @@ Auf dieser Seite erfährst du, wie du das Spiel auf deinem Windows-Gerät zum La
    - Wenn du einen Account hast, logge dich ein.
    - Ansonsten siehe [Registrierung](/wiki/Registration) und logge dich danach ein.
 
-# Problemlösung
+## Problemlösung
 
 Wenn du Windows 7 64-Bit benutzt, kann es zu Problemen bei der Installation kommen. Versuche die 64-Bit Version des .NET-Frameworks zu installieren, falls es nicht im Installierungsprogramm enthalten ist. [Lade es hier herunter](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
 
