@@ -40,7 +40,7 @@ osu!stream ne prend pas en charge les beatmaps classiques d'osu!. Au lieu de cel
 **Assurez-vous que l'iDevice peut se connecter à Internet (soit par Wi-Fi, soit par 3G/4G).**
 
 - Ouvrez osu!stream.
-- Appuyez sur le symbole osu! et vous devriez être dirigé vers le menu principal (ou le tutoriel si c'est la première fois)
+- Appuyez sur le symbole osu! et vous devriez être redirigé vers le menu principal (ou le tutoriel si c'est la première fois)
 - Appuyez sur la barre "Store".
   - Sinon, allez dans "Play" et appuyez sur "Télécharger plus de chansons !"
 - Sélectionnez un pack souhaité.
