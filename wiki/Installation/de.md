@@ -29,7 +29,7 @@ Wenn du Windows 7 64-Bit benutzt, kann es zu Problemen bei der Installation komm
 
 **Wenn das Installationsprogramm Fehler während der Installierung ausgibt, dann kannst du Folgendes probieren:**
 
-- Versuche die neueste Version des .NET-Frameworks neuzuinstallieren. [Du findest es hier](https://dotnet.microsoft.com/download).
+- Versuche die neueste Version des .NET-Frameworks zu reinstallieren. [Du findest es hier](https://dotnet.microsoft.com/download).
 - Räume deinen Computer auf - scanne mit Hilfe eines Antivirenprogramms, oder säubere die Registrierungsdatenbank (Registry). Ein gutes Programm, um den Computer oberflächlich zu reinigen, ist CCleaner. Durchsuche damit sowohl deine Dateien als auch die Registry. Das Installationsprogramm scheitert oft, wenn noch Registry-Einträge von alten Versionen von osu! auf deinem System vorhanden sind.
 
 ## Beatmaps hinzufügen
