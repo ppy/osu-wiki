@@ -1,6 +1,6 @@
 # GitHub Desktop
 
-*Cet article est la suite de [la page principale](/wiki/osu!_wiki/Contribution_guide)* et suppose que vous utilisez [GitHub Desktop](https://desktop.github.com). **Même si vous travaillez localement, vous aurez toujours besoin d'accéder à GitHub pour créer des demandes de retrait afin de réaliser vos changements.
+*Cet article est la suite de [la page principale](/wiki/osu!_wiki/Contribution_guide)* et suppose que vous utilisez [GitHub Desktop](https://desktop.github.com). **Même si vous travaillez localement, vous aurez toujours besoin d'accéder à GitHub pour créer des pull requests afin de réaliser vos changements.
 
 ## Installation de GitHub Desktop
 
@@ -25,7 +25,7 @@
 
 ## Branches
 
-Bien que les branches soit techniquement facultatif, il est [fortement recommandé pour plusieurs raisons](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Pour n'en citer que quelques-unes :
+Bien que les branches soient techniquement facultatives, elles sont [fortement recommandées pour plusieurs raisons](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Pour n'en citer que quelques-unes :
 
 - Les branches isolent les différentes modifications logiques les unes des autres : vous pouvez travailler sur plusieurs articles et les faire réviser et fusionner séparément.
 - Lorsque vos modifications sont en dehors de la branche `master`, vous pouvez [les synchroniser en toute sécurité](/wiki/osu!_wiki/Contribution_guide/Best_practices#synchronisation-d'un-fork) sans conflits de fusion.
@@ -54,7 +54,7 @@ Bien que les branches soit techniquement facultatif, il est [fortement recommand
 
 *Attention : Si vous comptez créer des fichiers d'articles à l'aide de l'Explorateur Windows, assurez-vous que l'option `Masquer les extensions des fichiers dont le type est connu` est désactivée.* Voir [Toujours afficher les extensions des fichiers](https://www.pcastuces.com/pratique/astuces/4584.htm) pour les instructions.
 
-1. Utilisez l'Explorateur Windows, votre éditeur d'images préféré et/ou votre éditeur de texte préféré pour créer de nouveaux fichiers. Si vous créez de nouveaux articles ou de nouvelles traductions, renommez le fichier pour respecter les [Locales dans les critères de style des articles](/wiki/Article_styling_criteria/Formatting#locales).
+1. Utilisez l'Explorateur Windows, votre éditeur d'images préféré et/ou votre éditeur de texte préféré pour créer de nouveaux fichiers. Si vous créez de nouveaux articles ou de nouvelles traductions, renommez le fichier pour respecter les [Locales dans les critères de mise en forme des articles](/wiki/Article_styling_criteria/Formatting#locales).
 2. Continuer vers [Commits et pushs](#commits-et-pushs).
 
 ### Suppression de fichiers

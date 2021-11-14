@@ -1,6 +1,6 @@
 # Interface web de GitHub 
 
-*Cet article est la suite de [la page principale](/wiki/osu!_wiki/Contribution_guide).* Si vous devez apporter des modifications à plusieurs articles (y compris le téléchargement, la suppression et/ou le déplacement d'images ou de fichiers), veuillez consulter l'autre guide, [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop).
+*Cet article est la suite de [la page principale](/wiki/osu!_wiki/Contribution_guide).* Si vous voulez apporter des modifications à plusieurs articles (y compris le téléchargement, la suppression et/ou le déplacement d'images ou de fichiers), veuillez consulter l'autre guide, [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop).
 
 ## Édition
 
@@ -10,7 +10,7 @@
 
 3. Une fois que vous avez trouvé le bon fichier, cliquez dessus.
 
-4. Cliquez sur l'icône de crayon.
+4. Cliquez sur l'icône en forme de crayon.
 
    ![](img/online-editing.jpg "En cliquant sur cette icône en forme de crayon dans GitHub, vous serez dirigé vers l'éditeur web.")
 
@@ -20,7 +20,7 @@
 
 ### Déplacer des fichiers
 
-*Attention : Ceci n'est **pas recommandé** car vous ne pouvez déplacer qu'un seul fichier à la fois. Cela peut créer de multiples commits "muets" qui peuvent inciter les réviseurs à [fermer ou bloquer votre pull request](/wiki/osu!_wiki/Contribution_guide/Best_practices#faire-des-modifications) !*
+*Attention : Ceci n'est **pas recommandé** car vous ne pouvez déplacer qu'un seul fichier à la fois. Cela peut créer de multiples commits "stupides" qui peuvent inciter les réviseurs à [fermer ou bloquer votre pull request](/wiki/osu!_wiki/Contribution_guide/Best_practices#faire-des-modifications) !*
 
 1. Naviguez jusqu'au fichier que vous voulez déplacer et ouvrez-le.
 
@@ -44,19 +44,19 @@
 4. Entrez l'emplacement et/ou le nom du fichier de l'article que vous créez. Le chemin doit commencer par `wiki/`, suivi du titre de l'article, puis du nom de la locale (en lettres minuscules) suivi de `.md`. Pour obtenir une liste des paramètres locaux, consultez [Locales dans les critères de style des articles](/wiki/Article_styling_criteria/Formatting#locales).
 5. Continuer vers [Sauvegarde et commit](#sauvegarde-et-commit).
 
-### Télécharger des fichiers
+### Mettre des fichiers en ligne
 
 1. Ouvrez l'onglet code de votre fork.
 2. Naviguez vers le dossier dans lequel vous avez l'intention de télécharger le fichier.
 3. Cliquez sur `Upload files`.
-4. Sélectionnez les fichiers que vous souhaitez télécharger.
+4. Sélectionnez les fichiers que vous souhaitez mettre en ligne.
 5. Continuer vers [Sauvegarde et commit](#sauvegarde-et-commit).
 
-*Remarque : vous pouvez également télécharger des dossiers*, ce qui peut être utile pour ceux qui souhaitent créer de nouveaux articles localement.
+*Remarque : vous pouvez également mettre en ligne des dossiers*, ce qui peut être utile pour ceux qui souhaitent créer de nouveaux articles localement.
 
 ### Deleting files
 
-*Attention : Ceci n'est **pas recommandé** car vous ne pouvez supprimer qu'un seul fichier à la fois. Cela peut créer de multiples commits "muets" qui peuvent inciter les réviseurs à [fermer ou bloquer votre demande de pull](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits) !*
+*Attention : Ceci n'est **pas recommandé** car vous ne pouvez supprimer qu'un seul fichier à la fois. Cela peut créer de multiples commits "stupides" qui peuvent inciter les réviseurs à [fermer ou bloquer votre demande de pull](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits) !*
 
 1. Ouvrez l'onglet code de votre fork.
 2. Naviguez jusqu'au fichier que vous voulez supprimer et ouvrez-le.

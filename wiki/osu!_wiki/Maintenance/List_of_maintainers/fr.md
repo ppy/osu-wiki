@@ -1,12 +1,12 @@
 # Liste des maintainers du osu! wiki
 
-Les maintainers s'occupent régulièrement des [Suivi des problèmes](https://github.com/ppy/osu-wiki/issues) et examinent les pull requests des contributeurs. Contrairement aux autres contributeurs, ils peuvent modifier les pull requests et les fusionner dans la branche `master` du dépôt, rendant ainsi les changements publics.
+Les maintainers jettent régulièrement un œil au [suivi des issues](https://github.com/ppy/osu-wiki/issues) et examinent les pull requests des contributeurs. Contrairement aux autres contributeurs, ils peuvent modifier les pull requests et les merge dans la branche `master` du dépôt, rendant ainsi les changements publics.
 
-Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une révision de votre pull request, envoyez un message dans le canal `#osu-wiki` du [serveur Discord osu!dev](/wiki/osu!dev_Discord_server) et un maintainer ou un autre contributeur vous répondra (tous les maintainers connaissent l'anglais).
+Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une review de votre pull request, envoyez un message dans le salon de discussion `#osu-wiki` du [serveur Discord osu!dev](/wiki/osu!dev_Discord_server) et un maintainer ou un autre contributeur vous répondra (tous les maintainers comprennent l'anglais).
 
 ## L'équipe du wiki
 
-| Profil osu! | Profil GitHub | Status | Langues supplémentaires |
+| Profil osu! | Profil GitHub | Statut | Langues supplémentaires |
 | :-- | :-- | :-- | :-- |
 | ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | Inactif | - |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Actif** | - |

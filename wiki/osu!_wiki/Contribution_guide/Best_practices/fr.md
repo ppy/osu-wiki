@@ -14,11 +14,11 @@ Afin d'apporter des modifications à un dépôt situé sur GitHub, un contribute
 
 1. Allez à votre fork du dépôt `osu-wiki`.
 2. Sélectionnez la branche `master` dans la liste déroulante.
-3. Click `Fetch upstream`, and select `Fetch and merge`.
+3. Cliquez sur `Fetch upstream`, puis sélectionnez `Fetch and merge`.
 
 ![](img/update-branch.png "Mise à jour de la branche obsolète")
 
-Maintenant votre branche est à jour avec le dépôt d'origine.
+Votre branche est maintenant à jour avec le dépôt d'origine.
 
 ---
 
@@ -48,16 +48,16 @@ Si vous avez rencontré des problèmes lors de l'utilisation de l'outil GitHub o
 
 *Voir aussi : [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
 
-Dans votre fork du osu! wiki, vous êtes libre d'apporter des modifications et de les sauvegarder. **Les commits** sont des "points de sauvegarde" individuels du référentiel. **Les branches** sont des espaces de travail, qui vous permettent de basculer entre plusieurs versions du dépôt. Pour faciliter votre travail et garder l'historique du wiki propre et sans bruit, suivez ces directives :
+Dans votre fork du osu! wiki, vous êtes libre d'apporter des modifications et de les sauvegarder. **Les commits** sont des "points de sauvegarde" individuels du dépôt. **Les branches** sont des espaces de travail, qui vous permettent de basculer entre plusieurs versions du dépôt. Pour faciliter votre travail et garder l'historique du wiki propre et sans bruit, suivez ces directives :
 
 - [Synchroniser la branche `master`](#synchronisation-d'un-fork).
 - Commencez toujours le travail en créant une nouvelle branche de `master`, et ne gardez que vos modifications dedans. Donnez-lui un nom significatif, comme `update-staff-log-FR`.
 - Faites des commits lorsque vous avez effectué des modifications de taille raisonnable. Il est préférable de commit un article dans son ensemble plutôt que de procéder à dix petites modifications.
-- **Utilisez des messages de commit courts et significatifs**, car ils permettent aux autres de savoir ce qu'il y a dans la boîte. Quelque chose comme "Réécrire la section sur les modèles de pattern" en dit beaucoup plus que "Update fr.md".
+- **Utilisez des messages de commit courts et significatifs**, car ils permettent aux autres de savoir ce qui a été changé. Quelque chose comme "Réécriture de la section sur les jumps" en dit beaucoup plus que "Update fr.md".
 
-## Ouvrir un pull request
+## Ouvrir une pull request
 
-Un pull request montre aux autres personnes comment vos modifications vont affecter les fichiers. Ajoutez quelques informations à votre pull request pour expliquer vos intentions :
+Une pull request montre aux autres utilisateurs comment vos modifications vont affecter les fichiers. Ajoutez quelques informations à votre pull request pour expliquer vos intentions :
 
 - `Title` : un titre descriptif très court pour vos modifications en anglais, ainsi que le nom de l'article. Dans le cas d'une traduction, commencez par le nom en deux lettres de la langue de vos traductions entre crochets. Exemples :
   - ``[FR] Add `BBCode` ``

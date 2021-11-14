@@ -1,12 +1,12 @@
 # Guide de contribution au osu! wiki
 
-Merci de votre intérêt à améliorer le osu! wki. Cet article couvre le processus de contribution étape par étape. Si vous êtes familier avec GitHub, n'hésitez pas à suivre le feature-branch workflow pour proposer des changements et passez directement à la section [auto-contrôle](#auto-contrôle).
+Merci de votre intérêt à améliorer le osu! wiki ! Cet article couvre le processus de contribution étape par étape. Si vous êtes familier avec GitHub, n'hésitez pas à suivre le feature-branch workflow pour proposer des changements et passez directement à la section [auto-contrôle](#auto-contrôle).
 
-Si vous avez besoin d'astuces ou de conseils à n'importe quelle étape, n'hésitez pas à demander dans le canal `#osu-wiki` du [serveur Discord osu!dev](/wiki/osu!dev_Discord_server).
+Si vous avez besoin d'astuces ou de conseils à n'importe quelle étape, n'hésitez pas à demander dans le salon de discussion `#osu-wiki` du [serveur Discord osu!dev](/wiki/osu!dev_Discord_server).
 
 ## Domaines d'intérêt
 
-Si vous voulez aider, mais ne savez pas par où commencer, consultez [Maintenance et routines du osu! wiki](/wiki/osu!_wiki/Maintenance#routines) pour obtenir une liste des tâches qui doivent être effectuées régulièrement, et pour savoir comment aider les autres éditeurs de wiki. Pour vous familiariser avec le langage de formatage utilisé sur le wiki, consultez la [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) d'Adam Pritchard.
+Si vous voulez aider, mais ne savez pas par où commencer, consultez [Maintenance et routines du osu! wiki](/wiki/osu!_wiki/Maintenance#routines) pour obtenir une liste des tâches qui doivent être effectuées régulièrement, et pour savoir comment aider les autres éditeurs du wiki. Pour vous familiariser avec le langage de formatage utilisé sur le wiki, consultez la [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) d'Adam Pritchard.
 
 ## Modifier le wiki
 
@@ -26,27 +26,27 @@ Les articles du osu! wiki sont stockés sur [GitHub][osu_wiki]. Pour contribuer,
 
 ## Auto-contrôle
 
-Lorsque vous avez terminé la révision, prenez le temps de relire votre travail. Passez en revue la liste de contrôle rapide suivante :
+Lorsque vous avez terminé la review, prenez le temps de relire votre travail. Passez en revue la liste de contrôle rapide suivante :
 
 - **Le ton de la prestation** : les articles du osu! wiki, à de rares exceptions près, doivent être rédigés dans un registre neutre.
 - **Le style et la grammaire** : les articles doivent être clairs, compréhensibles et ne demander aucun effort mental important au lecteur. Soyez cohérent et évitez les phrases trop compliquées ou abruptes. Utilisez des éditeurs dotés de correcteurs orthographiques intégrés, tels que [Google Docs](https://docs.google.com), pour mettre en évidence les fautes de frappe et les erreurs grammaticales ou syntaxiques.
-- **[La parité de contenu](/wiki/Article_styling_criteria/Formatting#parité-de-contenu)** : les traductions doivent contenir les mêmes informations que les articles originaux (des différences de ponctuation, de formulation ou de formatage sont évidemment attendues). Au lieu de modifier le contenu de la traduction, [ouvrez un problème](https://github.com/ppy/osu-wiki/issues/new) ou une demande de modification supplémentaire pour l'original si vous estimez qu'il est incomplet, inexact ou obsolète.
+- **[La parité de contenu](/wiki/Article_styling_criteria/Formatting#parité-de-contenu)** : les traductions doivent contenir les mêmes informations que les articles originaux (des différences de ponctuation, de formulation ou de formatage sont évidemment attendues). Au lieu de modifier le contenu de la traduction, [ouvrez un issue](https://github.com/ppy/osu-wiki/issues/new) ou une demande de modification supplémentaire pour l'original si vous estimez qu'il est incomplet, inexact ou obsolète.
 - **Structure et mise en forme** : prévisualisez votre article à l'aide d'un outil tel que [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) pour vous assurer qu'il se présente exactement comme vous le souhaitiez.
 - **Toutes les images et autres fichiers non textuels** doivent être [inférieurs à 1 mégaoctet](/wiki/Article_styling_criteria/Formatting#taille-du-fichier). **Les captures d'écran** doivent utiliser le skin d'osu! par défaut et les [paramètres spécifiques](/wiki/Article_styling_criteria/Formatting#captures-d'écran-de-gameplay), y compris les dimensions maximales de 1280×720.
 
-Pour une liste complète des règles, lisez les [critères de style des articles](/wiki/Article_styling_criteria).
+Pour une liste complète des règles, lisez les [critères de mise en forme des articles](/wiki/Article_styling_criteria).
 
 ## Pull request
 
-Une fois que les modifications ont été vérifiées, validées et push vers votre fork, vous devez les proposer aux maintainers du wiki en ouvrant un pull request :
+Une fois que les modifications ont été vérifiées, validées et push vers votre fork, vous devez les proposer aux maintainers du wiki en ouvrant une pull request :
 
 1. Dans **votre fork** du osu! wiki, trouvez la liste déroulante avec d'écrit `master↓`, et sélectionnez la branche avec vos changements.
 2. Cliquez sur le bouton `Contribute↓` et sélectionnez `Open pull request`.
-3. Remplissez les détails selon les [Bonnes pratiques § Ouvrir un pull request](/wiki/osu!_wiki/Contribution_guide/Best_practices#ouvrir-un-pull-request) et cliquez sur `Create pull request`.
+3. Remplissez les détails selon les [Bonnes pratiques § Ouvrir une pull request](/wiki/osu!_wiki/Contribution_guide/Best_practices#ouvrir-une-pull-request) et cliquez sur `Create pull request`.
 
 ## Review
 
-Toutes les modifications apportées au osu! wiki sont modérées. Pendant cette étape, les autres collaborateurs signalent les erreurs possibles et les moyens de les corriger, soit sous forme libre, soit en suggérant des modifications directes de la demande de modification. Comme pour toute autre évaluation par les pairs, vous devez répondre aux commentaires en appliquant les suggestions ou en expliquant pourquoi vous préférez garder les choses telles quelles.
+Toutes les modifications apportées au osu! wiki sont modérées. Pendant cette étape, les autres collaborateurs signalent les erreurs possibles et les moyens de les corriger, soit sous forme libre, soit en suggérant des modifications directes de la pull request Comme pour toute autre review, vous devez répondre aux commentaires en appliquant les suggestions ou en expliquant pourquoi vous préférez garder les choses telles quelles.
 
 Si personne ne s'est manifesté après quelques jours, essayez ce qui suit :
 
