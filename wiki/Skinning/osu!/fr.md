@@ -1,6 +1,6 @@
 # Skinning du mode osu!
 
-*Voir également : [Tutoriel de skinning  du mode osu!](/wiki/Skinning/Guides_and_important_threads)*.
+*Voir également : [Tutoriel de skinning du mode osu!](/wiki/Skinning/Guides_and_important_threads)*.
 
 ## Comboburst
 
@@ -17,7 +17,7 @@ Notes :
 - Pour avoir plusieurs combobursts, utilisez : `comboburst-{n}.png`.
   - L'une des images du jeu apparaîtra lorsqu'une étape du combo sera atteinte.
 - Pour la v2.2-, ce sont les combobursts de osu! et osu!catch.
-- Pour la v2.3+, c'est le combobursts d'osu!
+- Pour la v2.3+, ce sont les combobursts d'osu!
 - Ceci peut être désactivé dans les [options](/wiki/Options).
 - Elle doit être orientée vers la droite.
 
@@ -221,8 +221,8 @@ Notes :
 
 Notes :
 
-- Cet élément s'estompe avant d'être frappé et s'étend lorsqu'il est frappé ou manqué.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être frappé et s'éteindra ensuite.
+- Cet élément s'estompe avant d'être touché et s'étend lorsqu'il est touché ou manqué.
+  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
 - La teinte dépend de la couleur de la combinaison du hit circle.
 - Également utilisé pour `sliderstartcircle` et/ou `sliderendcircle` si non skinné.
 - Cela devrait être un cercle.
@@ -241,9 +241,9 @@ Notes :
 
 - Nom de l'animation : `hitcircleoverlay-{n}.png`
 - Fréquence d'animation : 2 FPS (4 FPS max).
-  - Ce taux est affecté par les modificateurs half time et double time/nightcore du jeu.
+  - Ce taux est affecté par les mods Half Time et Double Time/Nightcore.
 - Cet élément s'estompe avant d'être frappé et s'étend lorsqu'il est frappé ou manqué.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être frappé et s'éteindra ensuite.
+  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
 - Le numéro de la combinaison peut être superposé ou non. Par défaut, il est toujours superposé.
   - Pour que cet underlay soit le numéro du combo, mettez `HitCircleOverlayAboveNumber` à `0`.
 - Également utilisé pour `sliderstartcircleoverlay` et/ou `sliderendcircleoverlay` si non skinné.
@@ -311,9 +311,9 @@ Notes :
 Notes :
 
 - Remplace `hitcircle.png` pour le début du slider, si skinné.
-- This element is the hit circle for the start of the slider.
-- Cet élément s'estompe avant d'être frappé et s'étend lorsqu'il est frappé ou manqué.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être frappé et s'éteindra ensuite.
+- Cet élément est le hit circle du début de slider.
+- Cet élément s'estompe avant d'être touché et s'étend lorsqu'il est touché ou manqué.
+  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
 - Cela devrait être un cercle.
 
 ---
@@ -328,9 +328,9 @@ Notes :
 
 - Nom de l'animation : `sliderstartcircleoverlay-{n}.png`
 - Taux d'animation : 2 FPS (4 FPS max).
-  - Ce taux est affecté par les modificateurs de mi-temps et de double temps/nightcore du jeu.
-- Cet élément s'estompe avant d'être frappé et s'étend lorsqu'il est frappé ou manqué.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être frappé et s'éteindra ensuite.
+  - Ce taux est affecté par les mods Half Time et Double Time/Nightcore.
+- Cet élément s'estompe avant d'être touché et s'étend lorsqu'il est touché ou manqué.
+  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
 - Le numéro de la combinaison peut être superposé ou non. Par défaut, il est toujours superposé.
   - Pour que cette superposition soit le numéro du combo, mettez `HitCircleOverlayAboveNumber` à `0`.
 - Remplace l'image `hitcircle.png` pour le début du slider.
@@ -350,7 +350,7 @@ Notes :
 - Remplace `hitcircle.png` pour le début du slider, si skinné.
 - Cet élément est le hit circle de l'extrémité du slider.
 - Cet élément s'estompe avant d'être terminé et s'étend une fois terminé.
-  - Si le mode [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant de se terminer et ne s'éteindra qu'après.
+  - Si le mode [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant de se terminer et ne disparaîtra qu'après.
 - Cela devrait être un cercle.
 
 ---
@@ -365,9 +365,9 @@ Notes :
 
 - Nom de l'animation : `sliderendcircleoverlay-#.png`, remplacez # par le nombre indexé (commencez le nombre d'images à zéro)
 - Taux d'animation : 2 FPS (4 FPS max).
-  - Ce taux est affecté par les modificateurs de mi-temps et de double temps/nightcore du jeu.
+  - Ce taux est affecté par les mods Half Time et Double Time/Nightcore.
 - Cet élément s'estompe avant d'être terminé et s'étend une fois terminé.
-  - Si le mode [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant de se terminer et ne s'éteindra qu'après.
+  - Si le mode [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant de se terminer et ne disparaîtra qu'après.
 - Le numéro de la combinaison peut être superposé ou non. Par défaut, il est toujours superposé.
   - Pour que cette superposition soit le numéro du combo, mettez `HitCircleOverlayAboveNumber` à `0`.
 - Remplace l'image `hitcircle.png` pour le début du slider.
@@ -387,7 +387,7 @@ Notes :
 Notes :
 
 - osu! fera pivoter cet élément pour l'aligner sur la trajectoire du slider.
-- Cet élément pulsera au rythme du bpm.
+- Cet élément pulsera au rythme du BPM.
 - Si une figure en forme de flèche est utilisée, elle doit pointer vers la droite.
 
 ---
@@ -404,7 +404,7 @@ Notes :
 
 - Nom de l'animation : `sliderfollowcircle-{n}.png`
 - Taille maximale : 308x308 (hitbox)
-- Cet élément s'étend brièvement lors de la collecte d'un tick de slider.
+- Cet élément s'étend brièvement lorsqu'un slidertick est obtenu.
 
 ---
 
@@ -420,7 +420,7 @@ Notes :
 
 - Nom de l'animation : `sliderb{n}.png` (sans trait d'union (`-`))
 - La teinte dépend de la couleur de la combinaison du hit circle.
-- Par défaut, le sliderball se retourne lorsqu'on appuie sur le reverse arrow.
+- Par défaut, la sliderball se retourne lorsqu'on appuie sur la reverse arrow.
   - Pour désactiver cela, mettez `sliderballflip` à `0`.
 
 ---
@@ -454,7 +454,7 @@ Notes :
 
 - Ignoré si `sliderb.png` est skinné.
   - Modifiable sur une beatmap si le skin du joueur n'a pas `sliderb.png` skinné.
-- Cet élément est la couche supérieure de la boule qui reste dans une position statique (elle ne se retourne pas et ne tourne pas).
+- Cet élément est la couche supérieure de la slider ball qui reste dans une position statique (elle ne se retourne pas et ne tourne pas).
 
 ---
 
@@ -467,7 +467,7 @@ Notes :
 Notes :
 
 - Modifiable sur une beatmap si le skin du joueur utilise la v1.0.
-- Utilisé lorsque le joueur collecte un tick de slider.
+- Utilisé lorsqu'un slidertick est obtenu.
 - Cela devrait dire "10".
 
 ---
@@ -552,7 +552,7 @@ Notes :
 Notes :
 
 - Cet élément est positionné à environ 230px verticalement.
-- Elle apparaît lorsque le joueur a rempli le spinner.
+- Apparaît lorsque le joueur a terminé le spinner.
 
 ---
 
@@ -581,10 +581,10 @@ Notes :
 
 Notes :
 
-- **osu! recherche cet élément** S'il est trouvé, il forcera l'ancien style de spinners sur la v2.0+ (tous les éléments de cette section).
-- Using the suggested SD size will help alignment with `spinner-metre.png`.
-- By default, tinted grey.
-  - To change this, use the `SpinnerBackground` command.
+- **osu! recherche cet élément.** S'il est trouvé, il forcera l'ancien style de spinners sur la v2.0+ (tous les éléments de cette section).
+- Utiliser la taille SD suggérée aidera à l'alignement avec `spinner-metre.png`.
+- Teinté de gris par défaut.
+  - Pour changer cela, utiliser la commande `SpinnerBackground`.
 
 ---
 
@@ -617,7 +617,7 @@ Notes :
 
 - Positionné à 46px du haut et 512px à gauche de l'axe central.
   - (0,46) à 1024x768 et (171,46) à 1366x768.
-- Cet élément est la barre de progression
+- Cet élément sert de barre de progression.
 - La partie la plus haute de la barre clignote lorsque des points bonus sont attribués.
   - Le clignotement peut être désactivé en mettant `SpinnerNoBlink` à `1` dans le [skin.ini](/wiki/Skinning/skin.ini).
 
@@ -634,7 +634,7 @@ Notes :
 Notes :
 
 - Modifiable sur une beatmap si le skin du joueur utilise la v1.0.
-- Il apparaît après que le spinner se soit éteint.
+- Il apparaît après que le spinner ait disparu.
 
 ### Spinner (nouveau)
 
@@ -649,7 +649,7 @@ Notes :
 Notes :
 
 - Cet élément est positionné à environ 397px verticalement.
-- Teinté en cyan, clignote en blanc lorsque des points bonus sont attribués.
+- Teinté de cyan, clignote en blanc lorsque des points bonus sont attribués.
 - Il clignote lors de l'attribution de points bonus.
 - Cet élément est la couche la plus basse.
 

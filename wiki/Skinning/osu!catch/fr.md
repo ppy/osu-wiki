@@ -1,6 +1,6 @@
 # Skinning du mode osu!catch
 
-*Voir également : [Tutoriel de skinning  du mode osu!catch](/wiki/Skinning/Guides_and_important_threads)*
+*Voir également : [Tutoriel de skinning du mode osu!catch](/wiki/Skinning/Guides_and_important_threads)*
 
 ## Attrapeur
 
@@ -51,7 +51,7 @@ Notes:
 
 - Nom de l'animation : `fruit-catcher-kiai-{n}.png`
 - Cet élément est l'état de l'attrapeur pendant le kiai time.
-- `fruit-catcher-fail.png` remplacera ceci si un fruit ou un drop/droplet est manquée pendant le [kiai time](/wiki/Kiai_time).
+- `fruit-catcher-fail.png` remplacera ceci si un fruit ou un drop/droplet est manqué pendant le [kiai time](/wiki/Kiai_time).
 - Elle doit être orientée vers la droite.
 
 ---
@@ -290,7 +290,7 @@ Notes:
 
 Notes:
 
-- Cet élément n'est pas utilisé dans l'écran de classement.
+- Cet élément n'est pas utilisé dans l'écran de résultats.
 - Cet élément est affiché lors d'un "slider", en superposant `fruit-drop.png`.
 
 [true]: /wiki/shared/true.png
