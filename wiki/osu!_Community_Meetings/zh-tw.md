@@ -32,7 +32,7 @@
 
 | 會議編號 | 連結 | 摘要 |
 | :-: | :-- | :-- |
-| 0 | [2021 年 9 月 19 號](https://www.youtube.com/watch?v=-LjNll8VYTM) | [筆記](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) |
+| 0 | [2021 年 9 月 19 號](https://youtu.be/-LjNll8VYTM) | [筆記](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) |
 | 1 | [2021 年 10 月 3 號](https://youtu.be/D3OZCm6szVE) | [筆記](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) |
 | 2 | [2021 年 10 月 17 號](https://youtu.be/nLT-fLeogrw) | [筆記](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) |
 | 3 | [2021 年 10 月 31 號](https://youtu.be/omvZbC7zJUI) | [筆記](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) |
