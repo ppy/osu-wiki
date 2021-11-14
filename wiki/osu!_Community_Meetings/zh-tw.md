@@ -6,7 +6,7 @@
 
 目前 osu! 社群會議的主持人為 [peppy](https://osu.ppy.sh/users/2)、[Ephemeral](https://osu.ppy.sh/users/102335)、和 [smoogipoo](https://osu.ppy.sh/users/1040328)。
 
-下一次的 osu! 社群會議預計在 **2021 年 11 月 24 日 (星期日 01:00 UTC)** 舉行。
+下一次的 osu! 社群會議預計在 **2021 年 11 月 28 日 (星期日 01:00 UTC)** 舉行。
 
 *提醒：若上述的會議日期已過，請查看此條目的英文版本以獲取最新日期。*
 
