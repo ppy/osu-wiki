@@ -49,4 +49,4 @@ Ces titres n'étaient visibles que sur les barres latérales des messages du for
 
 ## Le saviez-vous ?
 
-- Les titres des utilisateurs sont appelés "titres de rang" dans le code du jeu. Ce nom est un vestige de l'époque où osu! était construit sur [phpBB] (https://www.phpbb.com/).
+- Les titres des utilisateurs sont appelés "titres de rang" dans le code du jeu. Ce nom est un vestige de l'époque où osu! était construit sur [phpBB](https://www.phpbb.com/).
