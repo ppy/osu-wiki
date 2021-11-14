@@ -148,7 +148,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
   - [Kissing the Mirror x UNDEAD CORPORATION - Frozen Gear (Zelq) \[whitesquarable (speed edit)\]](https://osu.ppy.sh/beatmapsets/1627466#osu/3322566)
   - [Retractable - Gameset (Down) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1627210#osu/3322093)
 - Hidden
-  - [KikuoHana - Desert Theater (Keqing) \[Mirage (#1)\]](https://osu.ppy.sh/beatmapsets/1382362#osu/2856086)
+  - [KikuoHana - Desert Theater (Keqing) \[Mirage (\#1)\]](https://osu.ppy.sh/beatmapsets/1382362#osu/2856086)
   - [Shimotsuki Haruka - Akahitoha (fartownik) \[Insane\]](https://osu.ppy.sh/beatmapsets/1627474#osu/3322576)
   - [Crimsona - Hyper Fiber World Spectrum (Icekalt) \[Festival\]](https://osu.ppy.sh/beatmapsets/1267294#osu/2633747)
 - HardRock
