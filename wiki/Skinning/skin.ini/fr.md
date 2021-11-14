@@ -18,7 +18,7 @@ Le numéro de version, vu dans les en-têtes, est celui qui sera utilisé dans l
 
 Si votre `skin.ini` ne spécifie pas de `Version`, il prendra par défaut cette version.
 
-- Les numéros des hit circle font partie des explosions de hitburst..
+- Les numéros des hit circle font partie des explosions de hitburst.
 - Grande expansion du hitlighting (`lighting.png`).
 - Ancien style de spinner (`spinner-circle.png`, `spinner-background.png`, et `spinner-metre.png`).
 - Construction de l'image du compte à rebours segmenté.
@@ -54,8 +54,8 @@ Si votre `skin.ini` ne spécifie pas de `Version`, il prendra par défaut cette 
 **Modifications de l'interface/UI**
 
 - Prise en charge des vignettes.
-  - Doit être activé par l'utilisateur dans les [options](/wiki/Options) et être supporté par le skin dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
-- Modifie l'affichage du star ranting en mettant à l'échelle `star.png` au lieu de `star.png` partiellement élargi.
+  - Doit être activé par l'utilisateur dans les [options](/wiki/Options) et être pris en charge par le skin dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
+- Modifie l'affichage du star rating en mettant à l'échelle `star.png` au lieu de `star.png` partiellement élargi.
 - Optimisation de l'alignement du texte du panneau.
 
 ### 2.3
@@ -65,13 +65,13 @@ Si votre `skin.ini` ne spécifie pas de `Version`, il prendra par défaut cette 
 - `fruit-ryuuta.png` ne fonctionnera plus à partir de maintenant.
 - Nouveaux états de l'attrapeur (et images).
 - Nouveaux combobursts spécifiques à osu!catch (`comboburst-fruits.png`).
-  - Les combobursts  d'osu! ne sera plus utilisé pour osu!catch.
+  - Les combobursts d'osu! ne sera plus utilisé pour osu!catch.
 
 ### 2.4
 
 **Ajustement de l'échelle du stage d'osu!mania**
 
-- Réduit le nombre de compteurs de combo et de coups.
+- Rétrécit le compteur de combo et les hitbursts.
 - Les lignes de colonne sont dessinées des deux côtés de la colonne lorsque les colonnes sont espacées.
 - Introduction des hold note tails au relâchement (fonctionne pour toutes les versions).
 
@@ -88,7 +88,7 @@ Si votre `skin.ini` ne spécifie pas de `Version`, il prendra par défaut cette 
 
 **Permettre le skinning des flèches par type de flèche**
 
-- Ajout de  `arrow-generic.png`, `arrow-warning.png` et `arrow-pause.png`.
+- Ajout de `arrow-generic.png`, `arrow-warning.png` et `arrow-pause.png`.
 - Suppression de `play-warningarrow.png`.
 
 ### 2.7
@@ -104,12 +104,12 @@ Si votre `skin.ini` ne spécifie pas de `Version`, il prendra par défaut cette 
 
 Si votre dossier de skin ne contient pas de fichier `skin.ini`, il prendra par défaut cette version.
 
-- **Ne l'utilisez jamais** pour distribuer des skins ! (si une nouvelle version de skin sort, un skin dont la version est réglée sur `latest` pourrait se casser).
-- Utilise toujours la dernière version supportée par le jeu.
+- **Ne l'utilisez jamais** pour distribuer des skins ! (si une nouvelle version de skin sort, un skin dont la version est réglée sur `latest` pourrait ne pas fonctionner correctement).
+- Utilisera toujours la dernière version prise en charge par le jeu.
 
 ### Utilisateur
 
-**Pas une version, mais toujours forcer [latest](#latest)**
+**Pas une version, mais forcera toujours [latest](#latest)**
 
 - **Ne jamais** utiliser cette méthode pour distribuer des skins !
 - Le dossier skin **doit** être nommé `User`.
@@ -121,7 +121,7 @@ Si votre dossier de skin ne contient pas de fichier `skin.ini`, il prendra par d
 
 Avant de consulter les commandes `skin.ini` ci-dessous, voici quelques remarques.
 
-### 1's and 0's
+### 1 et 0
 
 *en bref : `0 = no` et `1 = yes`*
 
@@ -133,24 +133,24 @@ Voici un exemple classique :
 | :-: | :-: |
 | ![](img/Sliderball_flip-0.gif) | ![](img/Sliderball_flip-1.gif) |
 
-Notez que Reisen, le sliderball, ne se retourne pas lorsque `0` est utilisé. Cependant, Reisen se retourne quand un `1` est utilisé. En fonction du sprite utilisé, vous obtiendrez soit une balle glissante qui fait un moonwalk, soit une balle qui tourne sur elle-même.
+Notez que Reisen, la sliderball, ne se retourne pas lorsque `0` est utilisé. Cependant, Reisen se retourne quand un `1` est utilisé. En fonction du sprite utilisé, vous obtiendrez soit une sliderball qui fait du moonwalk, soit une sliderball qui se retourne.
 
-### Nombres et nombres entiers
+### Nombres et entiers
 
 Les tableaux ci-dessous peuvent énumérer soit un *nombre*, un *entier* ou un *entier positif*.
 
-When viewing these tables:
+Concernant ces tableaux :
 
-- *nombres* signifie un nombre **entier** ou **décimal** (par exemple `1.5`, `4.295`, `2`, `3.0`).
-- *entier* signifient **uniquement** des nombres entiers (par exemple : `-13`, `-632`, `135` , `9`).
-  - *positive integer* signifie **nombre entier positif** uniquement (par exemple `376`, `22`, ou `5`).
+- *nombre* signifie un nombre **entier** ou **décimal** (par exemple `1.5`, `4.295`, `2`, `3.0`).
+- *entier* signifie **uniquement** des nombres entiers (par exemple : `-13`, `-632`, `135` , `9`).
+  - *entier positif* signifie **nombre entier positif** uniquement (par exemple `376`, `22`, ou `5`).
 - *liste séparée par des virgules avec des entiers positifs* est littéralement une liste d'entiers positifs séparés par des virgules (par exemple `1, 2, 3, 55`).
 
 ### RGB et RGB(a)
 
 Quelques commandes peuvent demander une couleur au format *RGB* ou *RGB(a)*.
 
-- Pour RGB, le format ressemble à ceci :  `R, G, B` où `R` est le rouge, `G` est le vert et `B` est le bleu.
+- Pour RGB, le format ressemble à ceci : `R, G, B` où `R` est le rouge, `G` est le vert et `B` est le bleu.
   - La plupart des commandes n'acceptent que *RGB*, sans l'alpha. Si vous spécifiez une valeur alpha ici, osu! l'ignorera.
 - Pour RGB(a), le format ressemble à ceci `R, G, B, a`, en plus de ce qui précède, `a` signifie alpha (opacité).
   - Quelques commandes acceptent *RGB(a)*, avec l'alpha. Si vous ne spécifiez pas de valeur alpha, 255 (opaque/non transparent) sera utilisé.
@@ -374,13 +374,13 @@ osu! organise les commandes avec une commande d'en-tête. Qui peut ressembler à
 ## \[Fonts\]
 
 - `HitCirclePrefix:`
-  - Question : Quel est le préfixe utilisé pour les numéros des hitcircle ?
+  - Question : Quel est le préfixe utilisé pour les numéros des hit circles ?
   - Valeur : texte *(préfixe du chemin/du nom de fichier)*
   - Par défaut : `default`
   - Notes :
     - Vous pouvez utiliser un chemin personnalisé
 - `HitCircleOverlap:`
-  - Question : De combien de pixels les numéros d'hitcircle doivent-ils se chevaucher ?
+  - Question : De combien de pixels les numéros d'hit circle doivent-ils se chevaucher ?
   - Valeur : *entier*
   - Par défaut : `-2`
   - Notes :
@@ -437,9 +437,9 @@ osu! organise les commandes avec une commande d'en-tête. Qui peut ressembler à
 - Si vous voulez personnaliser entièrement la scène osu!mania, utilisez le skin version `2.5` ou supérieure.
 - Les commandes qui demandent où positionner quelque chose horizontalement sont basées sur une hauteur de 480 pixels.
 - Lorsqu'une commande est dépendante du nombre total de touches :
-  - en utilisant trop et les extras sont ignorés.
-  - pas assez et les valeurs manquantes utiliseront des valeurs par défaut.
-- **Chaque keycount  *doit* commencer une nouvelle section**, cela devrait ressembler à ceci (mais avec des commandes réelles) :
+  - les touches en trop et les extras sont ignorés.
+  - ne pas utiliser assez de touches et les valeurs manquantes utiliseront des valeurs par défaut.
+- **Chaque keycount *doit* commencer une nouvelle section**, cela devrait ressembler à ceci (mais avec des commandes réelles) :
 
 ```
 ...
@@ -531,7 +531,7 @@ Keys: 5
   - Notes :
     - Ceci est seulement pour `StageLight`.
 - `ScorePosition:`
-  - Question : A quelle hauteur les hitbursts  doivent-ils apparaître ?
+  - Question : A quelle hauteur les hitbursts doivent-ils apparaître ?
   - Valeur : *entier*
   - Notes :
     - Les éclats seront centrés verticalement sur la scène.
@@ -576,7 +576,7 @@ Keys: 5
   - Notes :
     - Cette valeur est forcée, si elle est définie.
     - `0` = pas de fractionnement / SP forcé
-    - Chaque keycount  supérieur à 1 peut être divisé (ou fusionné, si le nombre est supérieur à 9).
+    - Chaque keycount supérieur à 1 peut être divisé (ou fusionné, si le nombre est supérieur à 9).
 - `StageSeparation:`
   - Question : Quelle devrait être la distance entre les deux étapes lorsqu'elles sont séparées ?
   - Valeur : *nombres*
@@ -588,7 +588,7 @@ Keys: 5
   - Par défaut : `1`
   - Notes :
     - `0` = s'affiche sur les deux scènes en même temps
-    - `1` = s'affiche lorsqu'il est frappé sur une scène spécifique
+    - `1` = s'affiche lorsqu'il est touché sur une scène spécifique
     - Pour DP, chaque étape est affichée avec son propre jugement ou avec les deux étapes.
 - `KeysUnderNotes:`
   - Question : Les keys doivent-elles être couvertes par les notes lorsqu'on les passe ?
@@ -648,7 +648,7 @@ Keys: 5
     - Nécessite la version `2.5` ou supérieure du skin.
     - Spécifique à la colonne (pour les length parts)
 - `NoteFlipWhenUpsideDown#T:`
-  - Question : La  hold note tail de la colonne doit-elle être inversée lorsque la scène est inversée ?
+  - Question : La hold note tail de la colonne doit-elle être inversée lorsque la scène est inversée ?
   - Valeur : `0` ou `1`
   - Notes :
     - Nécessite la version `2.5` ou supérieure du skin.
