@@ -6,7 +6,7 @@
 
 Saat ini, pertemuan komunitas osu! diketuai oleh [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335), dan [smoogipoo](https://osu.ppy.sh/users/1040328).
 
-Pertemuan komunitas osu! berikutnya akan diadakan pada **Minggu, 14 November 2021 pukul 01:00 UTC**. Pertemuan diadakan setiap dua minggu dengan pengingat yang diumumkan melalui [akun Twitter peppy](https://twitter.com/ppy) sehari sebelumnya.
+Pertemuan komunitas osu! berikutnya akan diadakan pada **Minggu, 28 November 2021 pukul 01:00 UTC**. Pertemuan diadakan setiap dua minggu dengan pengingat yang diumumkan melalui [akun Twitter peppy](https://twitter.com/ppy) sehari sebelumnya.
 
 ## Cara berpartisipasi
 
@@ -26,10 +26,11 @@ Pertemuan komunitas osu! pertama diadakan pada 19 September 2021. Semua pertemua
 
 | Pertemuan ke # | Tautan | Ringkasan |
 | :-: | :-- | :-- |
-| 0 | [19 September 2021](https://www.youtube.com/watch?v=-LjNll8VYTM) | [Notulen pertemuan](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) |
+| 0 | [19 September 2021](https://youtu.be/-LjNll8VYTM) | [Notulen pertemuan](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) |
 | 1 | [3 Oktober 2021](https://youtu.be/D3OZCm6szVE) | [Notulen pertemuan](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) |
 | 2 | [17 Oktober 2021](https://youtu.be/nLT-fLeogrw) | [Notulen pertemuan](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) |
 | 3 | [31 Oktober 2021](https://youtu.be/omvZbC7zJUI) | [Notulen pertemuan](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) |
+| 4 | [14 November 2021](https://youtu.be/rEWgTY-L95Y) | [Notulen pertemuan](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) |
 
 ## Tautan terkait
 
