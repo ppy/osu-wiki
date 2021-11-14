@@ -16,7 +16,7 @@ Notes :
 
 `seeya.wav`
 
-- Le tag [osu!supporter](/wiki/osu!supporter) est nécessaire pour modifier.
+- Un tag [osu!supporter](/wiki/osu!supporter) est nécessaire pour le modifier.
 - Ce son est joué lors de la fermeture du client d'osu!
 - Ceci peut être désactivé dans les [options](/wiki/Options).
 
@@ -24,7 +24,7 @@ Notes :
 
 `welcome.wav`
 
-- Le tag [osu!supporter](/wiki/osu!supporter) est nécessaire pour modifier.
+- Un tag [osu!supporter](/wiki/osu!supporter) est nécessaire pour le modifier.
 - Ce son est joué au démarrage du client d'osu!.
 - Ceci peut être désactivé dans les [options](/wiki/Options).
 
@@ -90,7 +90,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué quand on clique sur le bouton retour.
+- Ce son est joué lorsque l'on clique sur le bouton retour.
 
 ---
 
@@ -146,7 +146,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsque vous cliquez sur `Back` dans le menu principal.
+- Ce son est joué lorsque l'on clique sur `Back` dans le menu principal.
 
 ---
 
@@ -154,7 +154,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué en cliquant sur `Charts` dans le menu principal.
+- Ce son est joué lorsque l'on clique sur `Charts` dans le menu principal.
 
 ---
 
@@ -162,7 +162,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué quand on clique sur `osu!direct` dans le menu principal.
+- Ce son est joué lorque l'on clique sur `osu!direct` dans le menu principal.
 
 ---
 
@@ -178,7 +178,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsque vous cliquez sur `Exit` dans le menu principal.
+- Ce son est joué lorsque l'on clique sur `Exit` dans le menu principal.
 
 ---
 
@@ -186,7 +186,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsque vous cliquez sur `Solo` dans le menu principal.
+- Ce son est joué lorsque l'on clique sur `Solo` dans le menu principal.
 
 ---
 
@@ -194,7 +194,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué en cliquant sur `Multiplayer` dans le menu principal.
+- Ce son est joué lorsque l'on clique sur `Multiplayer` dans le menu principal.
 
 ---
 
@@ -202,7 +202,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué en cliquant sur `Options` dans le menu principal.
+- Ce son est joué en lorsque l'on clique sur `Options` dans le menu principal.
 
 ---
 
@@ -210,7 +210,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsque vous cliquez sur `Play` dans le menu principal.
+- Ce son est joué lorsque l'on clique sur `Play` dans le menu principal.
 
 ---
 
@@ -218,7 +218,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsque vous cliquez sur `Back to Menu` dans le menu de pause.
+- Ce son est joué lorsque l'on clique sur `Back to Menu` dans le menu de pause.
 
 ---
 
@@ -226,7 +226,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsque vous cliquez sur `Continue` dans le menu pause.
+- Ce son est joué lorsque l'on clique sur `Continue` dans le menu pause.
 
 ---
 
@@ -266,7 +266,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsque l'on passe au-dessus du bouton de retour.
+- Ce son est joué lorsque le curseur passe au-dessus du bouton de retour.
 
 ---
 
@@ -274,7 +274,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsqu'il est survolé au-dessus de toutes les cases sélectionnables, à l'exception des beatmaps ou des boutons de l'écran principal.
+- Ce son est joué lorsque le curseur passe au-dessus de toutes les cases sélectionnables, à l'exception des beatmaps ou des boutons de l'écran principal.
 
 ---
 
@@ -282,7 +282,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué quand on survole des difficultés.
+- Ce son est joué lorsque le curseur passe au-dessus survole des difficultés.
 
 ---
 
@@ -290,7 +290,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsque vous survolez Back dans le menu principal.
+- Ce son est joué lorsque le curseur passe au-dessus du bouton Back dans le menu principal.
 
 ---
 
@@ -298,7 +298,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsque vous passez la souris sur les graphiques dans le menu principal.
+- Ce son est joué lorsque le curseur passe au-dessus des graphiques dans le menu principal.
 
 ---
 
@@ -306,7 +306,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsque vous passez la souris sur Direct dans le menu principal.
+- Ce son est joué lorsque le curseur passe au-dessus du bouton Direct dans le menu principal.
 
 ---
 
@@ -314,7 +314,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsque vous passez la souris sur Edit dans le menu principal.
+- Ce son est joué lorsque le curseur passe au-dessus du bouton Edit dans le menu principal.
 
 ---
 
@@ -322,7 +322,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsque vous passez la souris sur Exit dans le menu principal.
+- Ce son est joué lorsque le curseur passe au-dessus du bouton Exit dans le menu principal.
 
 ---
 
@@ -330,7 +330,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsque vous passez la souris sur Solo dans le menu principal.
+- Ce son est joué lorsque le curseur passe au-dessus du bouton Solo dans le menu principal.
 
 ---
 
@@ -338,7 +338,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsque vous survolez Multiplayer dans le menu principal.
+- Ce son est joué lorsque le curseur passe au-dessus du bouton Multiplayer dans le menu principal.
 
 ---
 
@@ -346,7 +346,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsque vous passez la souris sur Options dans le menu principal.
+- Ce son est joué lorsque le curseur passe au-dessus du bouton Options dans le menu principal.
 
 ---
 
@@ -354,7 +354,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsqu'on passe la souris sur Play dans le menu principal.
+- Ce son est joué lorsque le curseur passe au-dessus du bouton Play dans le menu principal.
 
 ---
 
@@ -366,7 +366,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué quand on passe la souris sur Back dans le menu pause.
+- Ce son est joué lorsque le curseur passe au-dessus du bouton Back dans le menu pause.
 
 ---
 
@@ -374,7 +374,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsqu'on passe la souris sur Continue dans le menu pause.
+- Ce son est joué lorsque le curseur passe au-dessus du bouton Continue dans le menu pause.
 
 ---
 
@@ -382,7 +382,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué quand on passe la souris sur Retry dans le menu pause.
+- Ce son est joué lorsque le curseur passe au-dessus du bouton Retry dans le menu pause.
 
 ### Glissement
 
@@ -430,7 +430,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsqu'un joueur révoque son signal de disponibilité.
+- Ce son est joué lorsqu'un joueur n'est plus prêt à jouer.
 
 ---
 
@@ -438,7 +438,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué lorsqu'un joueur est prêt à commencer.
+- Ce son est joué lorsqu'un joueur est prêt à jouer.
 
 ---
 
@@ -447,7 +447,7 @@ Notes :
 Notes :
 
 - Ce son est joué lorsque le match commence.
-- Il s'agit également du son de mise en valeur dans le  tchat.
+- Il s'agit également du son des notifications dans le tchat.
 
 ### Métronome
 
@@ -456,7 +456,7 @@ Notes :
 Notes :
 
 - Dans l'éditeur de beatmaps, ce son est joué pour les petits ticks blancs ; cependant, l'éditeur de beatmaps n'utilise que les sons par défaut.
-- Malgré ce qui précède, cela peut être skinné pour l'assistant de décalage et les bananes en osu!catch (le pitch augmente par banane attrapée).
+- Malgré ce qui précède, cela peut être skinné pour l'assistant de décalage et les bananes en osu!catch (le pitch augmente à chaque banane attrapée).
 
 ## Gameplay
 
@@ -514,8 +514,8 @@ Notes :
 
 Notes :
 
-- Échoue une map à n'importe quel moment.
-- Il n'est pas prévu qu'il dure plus longtemps que l'animation d'échec (environ 5 secondes).
+- Échec d'une beatmap à n'importe quel moment.
+- Ce son ne devrait pas durer plus longtemps que l'animation d'échec (environ 5 secondes).
 - L'utilisation d'une longue piste audio aura un impact sur les performances du client, car elle est chargée à chaque fois que vous jouez une beatmap, même si vous n'échouez jamais. Elle n'est pas censée dépasser quelques kilo-octets.
 
 ---
@@ -524,7 +524,7 @@ Notes :
 
 Notes :
 
-- A mi-chemin d'une pause avec un HP élevé restant.
+- Ce son se joue à mi-chemin d'une pause avec plus de la moitié des HP.
 
 ---
 
@@ -532,7 +532,7 @@ Notes :
 
 Notes :
 
-- A mi-chemin d'une pause avec peu de HP restants.
+- Ce son se joue à mi-chemin d'une pause avec moins de la moitié des HP.
 
 ### Écrans de jeu
 
@@ -540,9 +540,9 @@ Notes :
 
 Notes :
 
-- Sur l'écran de classement après avoir passé une map
+- Sur l'écran de résultats après avoir terminé une beatmap
 - Doit être formaté en `.mp3` ou `.ogg` dans les beatmaps visant le classement.
-- L'utilisation d'une longue piste audio aura un impact sur les performances du client. Elle n'est pas censée dépasser quelques kilo-octets.
+- L'utilisation d'une longue piste audio aura un impact sur les performances du client. Elle ne devrait pas dépasser quelques kilo-octets.
 
 ---
 
@@ -551,9 +551,9 @@ Notes :
 Notes :
 
 - Ce son est joué lorsque le jeu est en pause.
-- Ce son est mis en boucle.
-- S'éteint lorsque le client perd sa concentration.
-- L'utilisation d'une longue piste audio aura un impact sur les performances du client. Elle n'est pas censée dépasser quelques kilo-octets.
+- Ce son est joué en boucle.
+- S'arrête si vous cliquez sur une autre fenêtre ou sur le bureau.
+- L'utilisation d'une longue piste audio aura un impact sur les performances du client. Elle ne devrait pas dépasser quelques kilo-octets.
 
 ### Hitsounds
 
@@ -606,7 +606,7 @@ Notes :
 Notes :
 
 - Mappé en tant que `D:C1` sur les skins des beatmaps.
-- Ce son est mis en boucle.
+- Ce son est joué en boucle.
 
 ---
 
@@ -615,7 +615,7 @@ Notes :
 Notes :
 
 - Mappé en tant que `D:C1` sur les skins des beatmaps.
-- Ce son est mis en boucle.
+- Ce son est joué en boucle.
 
 #### Normal set
 
@@ -664,7 +664,7 @@ Notes :
 Notes :
 
 - Mappé en tant que `N:C1` sur les skins des beatmaps.
-- Ce son est mis en boucle.
+- Ce son est joué en boucle.
 
 ---
 
@@ -673,7 +673,7 @@ Notes :
 Notes :
 
 - Mappé en tant que `N:C1` sur les skins des beatmaps.
-- Ce son est mis en boucle.
+- Ce son est joué en boucle.
 
 #### Soft set
 
@@ -722,7 +722,7 @@ Notes :
 Notes :
 
 - Mappé en tant que `S:C1` sur les skins des beatmaps.
-- Ce son est mis en boucle.
+- Ce son est joué en boucle.
 
 ---
 
@@ -731,7 +731,7 @@ Notes :
 Notes :
 
 - Mappé en tant que `S:C1` sur les skins des beatmaps.
-- Ce son est mis en boucle.
+- Ce son est joué en boucle.
 
 #### Spinner set
 
@@ -739,7 +739,7 @@ Notes :
 
 Notes :
 
-- Ce son est mis en boucle.
+- Ce son est joué en boucle.
 - Ce son peut moduler de ~500 hz à 80000 hz.
   - Pour désactiver cela, mettez `SpinnerFrequencyModulate` à `0`.
 
@@ -749,7 +749,7 @@ Notes :
 
 Notes :
 
-- Ce son est joué chaque fois que vous obtenez 1000 points de bonus pendant un spinner.
+- Ce son est joué chaque fois que vous obtenez 1000 points bonus pendant un spinner.
 
 #### Spécifique à osu!taiko
 
