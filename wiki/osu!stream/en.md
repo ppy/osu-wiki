@@ -333,8 +333,6 @@ In **Stream Mode** however, the player is given **three lifebars and the player 
 
 In **Expert Mode, a full one lifebar is issued**.
 
-In terms of getting life for lifebar, it is explained as in below.
-
 The player gains life from:
 
 - Hit allowed: 300, 100, osu!, gold good! and green good!.
