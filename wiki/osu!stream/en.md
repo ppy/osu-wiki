@@ -247,7 +247,7 @@ The score given by each hit circle and end of a slider is calculated with the fo
 | **Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher. |
 | **Fixed multiplier** | The multiplier that fixes the score into 600.000 |
 
-Additionally, each slider start, end and repeat tick awards 30 points and each spin of a spinner awards 100 points.
+Additionally, each slider start, end, and repeat tick awards 30 points and each revolution of a spinner awards 100 points.
 There is an additional bonus of 10 points depending on the speed of spinning the spinner after the spinner meter is full.
 
 ### Hit circle judgement
