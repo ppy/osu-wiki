@@ -234,7 +234,7 @@ The background colour is Purple and the lights will darken depending on current 
 | **HitValue** | (Number of misses \* 0 + Number of 50's \* 1 + Number of 100's * 2 + Number of 300's \* 4) |
 | **PerfectHitValue** | (Number of misses + Number of 50's + Number of 100's + Number of 300's) \* 4 |
 
-In other words, each miss counts towards 0%, each 50 counts towards 25%, each 100 counts towards 50% and each 300 counts towards 100%.
+In other words, each miss is worth 0% accuracy, each 50 is 25%, each 100 is 50%, and each 300 is 100%.
 
 ### Score
 
