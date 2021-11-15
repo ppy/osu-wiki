@@ -128,7 +128,7 @@ The background colour is Green.
 
 **Difficulty: Easy ("Stream Down!" from Normal) ~ Normal (start point) ~ Hard ("Stream Up!" from Normal)**
 
-Stream mode is a new implementation specially for osu!stream. In this mode, players will start with a half-filled "2nd" lifebar with a normal difficulty setting set. The player is then tasked to fill it full to trigger "Stream Up!" which basically tunes the difficulty up (by adding more hit objects and alternating to "Hard" design) but is still considerately less harder than Expert mode. When players enter "Stream Up!" mode, a (third/second) lifebar is issued and "Stream Down!" will occur when the (third/second) lifebar ran out of health, reverting back to the (Normal/Easy) difficulty setting of design and using the half-filled (second/last) lifebar.
+Stream mode is a mode exclusive to osu!stream. In this mode, players start with a half-filled "2nd" lifebar with a normal difficulty setting set. The player is then tasked to fill it full to trigger "Stream Up!" which basically tunes the difficulty up (by adding objects and switching to the Hard difficulty of the map) but is still considerately less harder than Expert mode. When players enter "Stream Up!" mode, a new lifebar is issued and "Stream Down!" will occur if that lifebar runs out, reverting back to the Normal or Easy difficulty and the previous lifebar.
 
 In short, the player starts in between Easy and Hard.
 
@@ -230,8 +230,8 @@ The background colour is Purple and the lights will darken depending on current 
 
 | Term | Formula |
 | :-: | :-- |
-| **HitValue** | (Number of misses \* 0 + Number of 50's \* 1 + Number of 100's * 2 + Number of 300's \* 4) |
-| **PerfectHitValue** | (Number of misses + Number of 50's + Number of 100's + Number of 300's) \* 4 |
+| **HitValue** | (Number of misses \* 0 + Number of 50s \* 1 + Number of 100s * 2 + Number of 300s \* 4) |
+| **PerfectHitValue** | (Number of misses + Number of 50s + Number of 100s + Number of 300s) \* 4 |
 
 In other words, each miss is worth 0% accuracy, each 50 is 25%, each 100 is 50%, and each 300 is 100%.
 
@@ -254,8 +254,8 @@ There is an additional bonus of 10 points depending on the speed of spinning the
 
 **Hit-circles**
 
-- A 300, 100 or 50 will be awarded from a normal hit circle depending on the tap accuracy.
-- Not tapping on the hit circle at all or tapping on it too early, a miss will be given.
+- A 300, 100 or 50 is awarded from a normal hit circle depending on the tap accuracy.
+- A miss is given if a hit circle was tapped too early or not tapped at all.
   - If tapped on it really, really early, the object will shake instead. Nothing will happen technically except visually telling that it was tapped too early.
 
 **Hold-circle**
@@ -271,9 +271,9 @@ There is an additional bonus of 10 points depending on the speed of spinning the
 
 - **The judgement for sliders depends on the accuracy of the initial tap**.
 - Sliders consist of slider ticks, which include the start, end and repeat points of the slider.
-  - A 300 if successfully getting all slider ticks and accurate initial tap.
-  - A 100 if at least half of them with considerable initial tap.
-  - A 50 if managing to hit even one of the ticks or the initial tap.
+  - A 300 for successfully getting all slider ticks and accurate initial tap.
+  - A 100 if at least half of the slider parts were hit with a fairly accurate initial tap.
+  - A 50 for managing to hit even one of the ticks or the initial tap.
 - **Clicking a slider way too early** does not incur a miss, but **will reset the score multiplier to 0**.
 - A miss if the slider was not held at all.
 
@@ -328,29 +328,27 @@ In **Easy Mode, lifebar is completely removed**.
 
 ![](img/Os-SUN.jpg "Example of Stream Up! from Normal")
 
-In **Stream Mode** however, the player is given **three lifebars and the player starts with the second half-filled lifebar at start**. Players (gain/lose) the lifebar by (Stream Up!/Stream Down!) a message for (filling the lifebar full/using up all the HP on that lifebar). After the message is shown, the game will show an animation at the background which (tunes up/tunes down) the difficulty and issues a half-filled lifebar. If a player is issued a "Stream Down!", the player is given temporary invisibility (due to no health left in the currently using lifebar) until the animation is completed in which the lifebar will be substituted with a half-filled one from the previous difficulty.
+In **Stream Mode**, the player is given three lifebars and the player starts with the second half-filled lifebar at start. Players move between these lifebars by **Stream Up!** and **Stream Down!** systems, which activate when either filling up the lifebar or draining it completely. After an announcement, the game transitions to the new "stream" by changing the background and seamlessly switching to a higher or lower difficulty of the beatmap as well as changing lifebars. When a Stream Down! happens, the player is given temporary invincibility while the lifebar switches to the one for the lower difficulty.
 
-In **Expert Mode, a full one lifebar is issued**.
+In **Expert Mode, a single full lifebar is used instead**.
 
-The player gains life from:
+The following fills the lifebar
 
 - Hit allowed: 300, 100, osu!, gold good! and green good!.
   - Hitting the hit circle(s). (Better judgement leads to more life gain. The last hit circle in a colour combo awards more life.)
   - Hitting the slider(s) start, end or return tick. (Better judgement at the end tick leads to more life gain)
   - Completing the Spinner and Hold Bubble(s) properly.
 
-The player loses life from:
+The following drains the lifebar:
 
-- Hit cause: 50 or Miss
+- Receiving a 50.
 - Missing any hit object or slider.
-- Not following the slider(s).
-- Not holding the Hold Bubble until it explodes.
-- Unable to complete the spinner with "Clear" message.
-- Not spinning the spinner.
+- Not staying within a slider's follow circle.
+- Not holding a Hold Bubble until it explodes.
+- Not spinning a spinner.
+- Not completing a spinner with "Clear" message.
 
-The player reserves life from:
-
-- Default. **Lifebar will not drain at all while playing**.
+Unlike other versions of osu!, the lifebar does not drain by itself.
 
 ## Questions
 
@@ -360,7 +358,7 @@ Because of the difficulty in obtaining licensing for the said song.
 
 ### How do I get more beatmaps?
 
-Head to the "Store" section in the game or pressing the "Download more songs..." at the "Play" section.
+Head to the "Store" section in the game or pressing the "Download more songs..." in the "Play" section.
 
 ### What is the theme song of osu!stream?
 
