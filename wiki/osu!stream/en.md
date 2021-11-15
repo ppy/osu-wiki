@@ -52,7 +52,7 @@ Development for this version ended in 2020. For more information, read the [blog
 - No account needed to download the song packs.
 - Can integrate osu!stream with a Twitter account.
 - High score may be sent anonymously to the site under the name of "Guest" (requires Internet connection).
-- The circle timer is replaced and moved to the bottom with a small border line which is coloured depending on the accuracy. \[Bottom(Long)\]
+- The circle timer is replaced and moved to the bottom with a small border line which is coloured depending on the accuracy of the play. \[Bottom(Long)\]
 - **Average Timing** is given at the grade page.
 - Cannot save old records nor can save replays.
 - Cannot change skin nor can apply any mods (yet).
