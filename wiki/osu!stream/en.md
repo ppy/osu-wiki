@@ -54,7 +54,7 @@ Development for this version ended in 2020. For more information, read the [blog
 - High score may be sent anonymously to the site under the name of "Guest" (requires Internet connection).
 - The circle timer is replaced and moved to the bottom with a small border line which is coloured depending on the accuracy of the play. \[Bottom(Long)\]
 - **Average Timing** is given at the grade page.
-- Cannot save old records nor can save replays.
+- Old records and replays cannot be saved.
 - Cannot change skin nor can apply any mods (yet).
 - Easter Eggs can be found but there is no Achievement page...
 
