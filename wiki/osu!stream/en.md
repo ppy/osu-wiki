@@ -4,7 +4,7 @@
 
 **osu!stream** is a version of osu! built from scratch that is made especially for touch-enabled devices. It is currently available for Apple's [iOS](http://en.wikipedia.org/wiki/IOS) platform only. An [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) port was planned and nearly completed, but not released due to audio latency issues in Android causing an unenjoyable gameplay experience.
 
-It introduces a brand new gameplay system such as the hold circle and connected beats. It does not support classic osu! beatmaps. Instead, maps are created by a special team of mappers to take advantage of the new elements and adhere to a stricter level of standards. All maps are available for free at the "Store".
+It introduced a brand new gameplay system, with new gameplay elements such as hold circles and connected beats. It does not support classic osu! beatmaps without manual conversion. Instead, maps were created by a special team of mappers to take advantage of the new elements and adhere to a [stricter level of standards](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
 [osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/community/forums/topics/59924)
 
@@ -334,10 +334,10 @@ In **Expert Mode, a single full lifebar is used instead**.
 
 The following fills the lifebar
 
-- Hit allowed: 300, 100, osu!, gold good! and green good!.
-  - Hitting the hit circle(s). (Better judgement leads to more life gain. The last hit circle in a colour combo awards more life.)
-  - Hitting the slider(s) start, end or return tick. (Better judgement at the end tick leads to more life gain)
-  - Completing the Spinner and Hold Bubble(s) properly.
+- Completing spinners and Hold Bubbles.
+- Hitting an osu!, gold good!, green good!, 300, or 100, 
+  - For hit circles, better judgements fill the lifebar more. The last hit circle in a colour combo awards more life.
+  - For sliders, the lifebar is filled according to how many parts were completed, once the slider has been completed.
 
 The following drains the lifebar:
 
