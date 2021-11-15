@@ -89,7 +89,7 @@ Development for this version ended in 2020. For more information, read the [blog
 
 - Hold circle requires the player to hold the circle until the circle "explodes".
 - The hit accuracy is determined by how early/late hit and holding time is.
-  - If the hold was released before the circle "explodes", combo multiplier will reset to 0 but the hold circle will not incur a miss as long as the hold circle is touched.
+  - If the hold was released before the circle "explodes", the combo multiplier will reset to 0 but the hold circle will not incur a miss as long as the hold circle was hit.
   - If the player did not hold the circle, the HP will be taken as long as the hold circle has not exploded by itself.
 - Hold circle can be determined by having a "hold" at the circle with a purple colour background bordered by white colour as the permanent default colour scheme.
 
