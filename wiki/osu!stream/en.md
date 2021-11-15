@@ -2,7 +2,7 @@
 
 ![](img/Os-Logo.jpg "osu!stream logo")
 
-**osu!stream** is a version of osu! built from scratch that is made especially for touch-enabled devices. It is currently available for Apple's [iOS](http://en.wikipedia.org/wiki/IOS) platform only. The development ended in 2020 and is to be seen as finished. An [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) port was planned but not implemented yet. For more information, read the [blog post](https://blog.ppy.sh/osu-stream-2020-release/) about its last release.
+**osu!stream** is a version of osu! built from scratch that is made especially for touch-enabled devices. It is currently available for Apple's [iOS](http://en.wikipedia.org/wiki/IOS) platform only. An [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) port was planned and nearly completed, but not released due to audio latency issues in Android causing an unenjoyable gameplay experience.
 
 It introduces a brand new gameplay system such as the hold circle and connected beats. It does not support classic osu! beatmaps. Instead, maps are created by a special team of mappers to take advantage of the new elements and adhere to a stricter level of standards. All maps are available for free at the "Store".
 
