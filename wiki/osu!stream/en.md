@@ -8,7 +8,7 @@ It introduces a brand new gameplay system such as the hold circle and connected 
 
 [osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/community/forums/topics/59924)
 
-The source code is available for everyone curious enough on its [GitHub repository](https://github.com/ppy/osu-stream).
+Development for this version ended in 2020. For more information, read the [blog post](https://blog.ppy.sh/osu-stream-2020-release/) about its last release. The source code has been made available in the same year under a permissive license on [GitHub](https://github.com/ppy/osu-stream) for anyone curious, and all previously paid maps are now available for free from the in-game "Store".
 
 ## Installation
 
