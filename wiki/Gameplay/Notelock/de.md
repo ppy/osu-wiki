@@ -14,7 +14,7 @@ tags:
 1. Die [Zeitfenster](/wiki/Beatmapping/Overall_difficulty#timing) zweier Hit-Objekte überschneiden sich.
 2. Das erste dieser beiden Objekte wurde noch nicht beurteilt (getroffen oder verfehlt).
 
-In diesem Fall wird das zweite Objekt hinter dem ersten *gesperrt*, was osu! veranlasst, die Eingaben des Spielers zu ignorieren, bis das Trefferfenster des ersten Objekts verstrichen ist. Die Notsperre wird nur dann zu einem Problem, wenn der Spieler nicht in der Lage ist, zum vorherigen Objekt zurückzukehren und mit ihm zu interagieren, wodurch die Sperre aufgehoben wird. In diesem Fall kann eine gesperrte Note einen Lawineneffekt auslösen, der den Spieler dazu zwingt, mehr und mehr nachfolgende Objekte zu verpassen, bis er keine [Gesundheit](/wiki/Beatmapping/Health) mehr hat und die Beatmap nicht besteht.
+In diesem Fall wird das zweite Objekt hinter dem ersten *gesperrt*, was osu! veranlasst, die Eingaben des Spielers zu ignorieren, bis das Trefferfenster des ersten Objekts verstrichen ist. Die Sperre wird nur dann zu einem Problem, wenn der Spieler nicht in der Lage ist, zum vorherigen Objekt zurückzukehren und mit ihm zu interagieren, wodurch die Sperre aufgehoben wird. In diesem Fall kann eine gesperrte Note einen Lawineneffekt auslösen, der den Spieler dazu zwingt, mehr und mehr nachfolgende Objekte zu verpassen, bis er keine [Gesundheit](/wiki/Beatmapping/Health) mehr hat und die Beatmap nicht besteht.
 
 Wenn ein Notelock auftritt, wackelt der angeklickte Hit Circle. Bei Slidern und Spinnern ist dies nicht der Fall.
 
