@@ -4,7 +4,7 @@ stub: true
 
 # Performance Points Committee
 
-The **Performance Points Committee** is a panel of well-versed players and developers who facilitate and approves updates to the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmapping/Star_rating) algorithms. Their goal is to help [osu! developers](/wiki/People/The_Team/Developers) push changes faster and with more community coordination.
+The **Performance Points Committee** is a panel of well-versed players and developers who facilitate and approve updates to the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmapping/Star_rating) algorithms. Their goal is to help [osu! developers](/wiki/People/The_Team/Developers) push changes faster and with more community coordination.
 
 The panel was first announced to the public through the [November 2021 *Performance Points & Star Rating Updates* news post](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) in response to a [community survey](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey) held earlier that year.
 
