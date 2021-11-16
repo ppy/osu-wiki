@@ -4,9 +4,9 @@ stub: true
 
 # Performance Points Committee
 
-The **Performance Points Committee** is a panel consisting of well-versed members of the development community whose main goal is to ensure that changes in the [performance points](/wiki/Beatmap) calculation algorithm could be facilitated, reviewed, and made effective in a fast and steady flow.
+The **Performance Points Committee** is a panel consisting of well-versed members of the development community whose main goal is to ensure that changes in the [performance points](/wiki/Performance_points) calculation algorithm could be facilitated, reviewed, and made effective in a fast and steady flow.
 
-The panel was first announced to the public through the [November 2021 Performance Points & Star Rating Updates newspost](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates).
+The panel was first announced to the public through the [November 2021 Performance Points & Star Rating Updates newspost](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) in response to the [community survey](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey) that was being held earlier that year.
 
 ## Members
 
