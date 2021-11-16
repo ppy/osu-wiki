@@ -37,6 +37,7 @@
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) |
 
 ## 過去的維護者
+
 osu! wiki [曾經](/wiki/History_of_osu!/osu!_wiki)使用 MediaWiki 構建，此列表列出了當時的維護者。
 
 - ![][flag_RU] [\[Dellirium\]](https://osu.ppy.sh/users/519032)
