@@ -1,5 +1,7 @@
 ---
 stub: true
+tags:
+  - pp committee
 ---
 
 # Performance Points Committee
