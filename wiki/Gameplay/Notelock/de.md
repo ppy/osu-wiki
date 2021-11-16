@@ -20,7 +20,7 @@ Wenn ein Notelock auftritt, wackelt der angeklickte Hit Circle. Bei Slidern und 
 
 ## Ursache
 
-Notelock ist ein Teil von osu!'s Timing-systems und tritt auf, wenn sich die Zeitfenster von zwei Objekten überschneiden. Es tritt häufiger bei Beatmaps mit niedrigen [OD](/wiki/Beatmapping/Overall_difficulty)- oder hohen [BPM](/wiki/Beatmapping/Beats_per_minute)-Werten auf, da sich die Zeitfenster häufiger überschneiden können.
+Notelock ist ein Teil von osu!'s Timing-System und tritt auf, wenn sich die Zeitfenster von zwei Objekten überschneiden. Es tritt häufiger bei Beatmaps mit niedrigen [OD](/wiki/Beatmapping/Overall_difficulty)- oder hohen [BPM](/wiki/Beatmapping/Beats_per_minute)-Werten auf, da sich die Zeitfenster häufiger überschneiden können.
 
 Da Objekte in regulären osu! Beatmaps in chronologischer Reihenfolge getroffen werden sollen, spielt die durch Notelock verursachte Eingabeverweigerung normalerweise eine positive Rolle:
 
