@@ -62,7 +62,7 @@ Aufgrund der Art und Weise, wie die Mods [DT](/wiki/Game_modifier/Double_Time) (
 #### Unstable rate
 
 `Unstable Rate` steht für die Beständigkeit des Timings der Treffer, wobei niedrigere Zahlen besser sind (Top-Spieler erreichen oft Werte unter 100). Zu beachten ist, dass der Wert die Beständigkeit und nicht die Genauigkeit misst, das heißt, 15ms zu früh zu treffen ist dasselbe wie rechtzeitig zu treffen. 
-Die Formel ist im Wesentlichen die Standardabweichung der Trefferfehler (in Millisekunden), multipliziert mit 10. [Beispielcode] (https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) ist als Referenz verfügbar und zeigt, wie osu-stable die Unstable Rate-Werte berechnet.
+Die Formel ist im Wesentlichen die Standardabweichung der Trefferfehler (in Millisekunden), multipliziert mit 10. [Beispielcode](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) ist als Referenz verfügbar und zeigt, wie osu-stable die Unstable Rate-Werte berechnet.
 
 ### Spin
 
