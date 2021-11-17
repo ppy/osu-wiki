@@ -423,6 +423,15 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!taiko]) [Risa Yuzuki - Replique](https://osu.ppy.sh/beatmapsets/1580723) hosted by ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733)
   - (![][osu!catch]) [Risa Yuzuki - Cinderella Maker](https://osu.ppy.sh/beatmapsets/1582952) hosted by ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637)
 
+### November
+
+- **[FATE GEAR](https://osu.ppy.sh/home/news/2021-11-13-new-featured-artist-fate-gear)** (2021-11-13)
+  - (![][osu!]) [Headless Goddess](https://osu.ppy.sh/beatmapsets/1568902) hosted by ![][flag_CN] [Elayue](https://osu.ppy.sh/users/6400861)
+  - (![][osu!catch]) [Scars in my Life](https://osu.ppy.sh/beatmapsets/1507375) hosted by ![][flag_AT] [Daletto](https://osu.ppy.sh/users/7592136)
+- **[Kurubukko](https://osu.ppy.sh/home/news/2021-11-17-new-featured-artist-kurubukko)** (2021-11-17)
+  - (![][osu!]) [Rain](https://osu.ppy.sh/beatmapsets/1578257) hosted by ![][flag_AU] [Gibune](https://osu.ppy.sh/users/5778687)
+  - (![][osu!]) [The 84th Flight](https://osu.ppy.sh/beatmapsets/1577313) hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
+
 ## History
 
 From its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists"<!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals. This was reflected in the Guild's first ever major project, in where members of the Guild had prepared and ranked six beatmaps of [licensed MOtOLOiD songs](https://osu.ppy.sh/beatmaps/artists/19) long prior to the [corresponding artist's announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
@@ -438,6 +447,7 @@ Starting from [MYUKKE.'s featured artist announcement](https://osu.ppy.sh/home/n
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_At]: /wiki/shared/flag/AT.gif "Austria"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
