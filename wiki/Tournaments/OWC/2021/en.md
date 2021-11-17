@@ -113,35 +113,59 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 
 ## Match schedule: Semifinals
 
-### Saturday, November 13, 2021
+### Saturday, November 20, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | Nov 13 (Sat) 12:00 UTC | Nov 13 (Sat) 21:00 UTC+9 | Nov 13 (Sat) 21:00 UTC+9 | ² |
-| United Kingdom | ![][flag_GB] | ![][flag_TW] | Taiwan | Nov 13 (Sat) 14:00 UTC | Nov 13 (Sat) 14:00 UTC | Nov 13 (Sat) 22:00 UTC+8 | ² |
-| Poland | ![][flag_PL] | ![][flag_RO] | Romania | Nov 13 (Sat) 15:00 UTC | Nov 13 (Sat) 16:00 UTC+1 | Nov 13 (Sat) 17:00 UTC+2 | ² |
+| Hong Kong | ![][flag_HK] | ![][flag_KR] | South Korea | Nov 20 (Sat) 10:00 UTC | Nov 20 (Sat) 18:00 UTC+8 | Nov 20 (Sat) 19:00 UTC+9 | ² |
+| Canada | ![][flag_CA] | ![][flag_GB] | United Kingdom | Nov 20 (Sat) 18:00 UTC | Nov 20 (Sat) 13:00 UTC-5 | Nov 20 (Sat) 18:00 UTC | ² |
 
-### Sunday, November 14, 2021
+### Sunday, November 21, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_HK] | Hong Kong | Nov 14 (Sun) 05:00 UTC | Nov 14 (Sun) 01:00 UTC-4 | Nov 14 (Sun) 13:00 UTC+8 | ¹ |
-| Russian Federation | ![][flag_RU] | ![][flag_AU] | Australia | Nov 14 (Sun) 08:30 UTC | Nov 14 (Sun) 11:30 UTC+3 | Nov 14 (Sun) 18:30 UTC+10 | ² |
-| Russian Federation | ![][flag_RU] | ![][flag_GB] | United Kingdom | Nov 14 (Sun) 11:00 UTC | Nov 14 (Sun) 14:00 UTC+3 | Nov 14 (Sun) 11:00 UTC | ³ |
-| Russian Federation | ![][flag_RU] | ![][flag_TW] | Taiwan | Nov 14 (Sun) 11:00 UTC | Nov 14 (Sun) 14:00 UTC+3 | Nov 14 (Sun) 19:00 UTC+8 | ³ |
-| Australia | ![][flag_AU] | ![][flag_GB] | United Kingdom | Nov 14 (Sun) 11:00 UTC | Nov 14 (Sun) 21:00 UTC+10 | Nov 14 (Sun) 11:00 UTC | ³ |
-| Australia | ![][flag_AU] | ![][flag_TW] | Taiwan | Nov 14 (Sun) 11:00 UTC | Nov 14 (Sun) 21:00 UTC+10 | Nov 14 (Sun) 19:00 UTC+8 | ³ |
-| Poland | ![][flag_PL] | ![][flag_JP] | Japan | Nov 14 (Sun) 13:30 UTC | Nov 14 (Sun) 14:30 UTC+1 | Nov 14 (Sun) 22:30 UTC+9 | ³ |
-| Romania | ![][flag_RO] | ![][flag_JP] | Japan | Nov 14 (Sun) 13:30 UTC | Nov 14 (Sun) 15:30 UTC+2 | Nov 14 (Sun) 22:30 UTC+9 | ³ |
-| Poland | ![][flag_PL] | ![][flag_KR] | South Korea | Nov 14 (Sun) 14:30 UTC | Nov 14 (Sun) 15:30 UTC+1 | Nov 14 (Sun) 23:30 UTC+9 | ³ |
-| Romania | ![][flag_RO] | ![][flag_KR] | South Korea | Nov 14 (Sun) 14:30 UTC | Nov 14 (Sun) 16:30 UTC+2 | Nov 14 (Sun) 23:30 UTC+9 | ³ |
-| Canada | ![][flag_CA] | ![][flag_DE] | Germany | Nov 14 (Sun) 18:00 UTC | Nov 14 (Sun) 13:00 UTC-5 | Nov 14 (Sun) 19:00 UTC+1 | ¹ |
+| Canada | ![][flag_CA] | ![][flag_HK] | Hong Kong | Nov 21 (Sun) 04:00 UTC | Nov 20 (Sat) 23:00 UTC-5 | Nov 21 (Sun) 12:00 UTC+8 | ³ |
+| Canada | ![][flag_CA] | ![][flag_KR] | South Korea | Nov 21 (Sun) 04:00 UTC | Nov 20 (Sat) 23:00 UTC-5 | Nov 21 (Sun) 13:00 UTC+9 | ³ |
+| United Kingdom | ![][flag_GB] | ![][flag_HK] | Hong Kong | Nov 21 (Sun) 13:00 UTC | Nov 21 (Sun) 13:00 UTC | Nov 21 (Sun) 21:00 UTC+8 | ³ |
+| United Kingdom | ![][flag_GB] | ![][flag_KR] | South Korea | Nov 21 (Sun) 13:00 UTC | Nov 21 (Sun) 13:00 UTC | Nov 21 (Sun) 22:00 UTC+9 | ³ |
+| United States | ![][flag_US] | ![][flag_DE] | Germany | Nov 21 (Sun) 19:00 UTC | Nov 21 (Sun) 15:00 UTC-4 | Nov 21 (Sun) 20:00 UTC+1 | ¹ |
 
 ¹ Winners bracket match\
 ² Losers bracket match\
-³ Final matchup depends on the results of ²
+³ Potential match: final matchup depends on the results of ²
 
 ## Mappools
+
+### Finals
+
+**[Download the mappack here (168 MB)](https://drive.google.com/uc?id=1xYeBevbU03IMrccM5UH2Z8cMOMkOT4j5)**
+
+- NoMod
+  - [Aqours - Kimeta yo Hand in Hand (SkyFlame) \[Unity\]](https://osu.ppy.sh/beatmapsets/1288914#osu/2675756)
+  - [Halv - Romanesque (knowledgeking) \[Eternal Hope\]](https://osu.ppy.sh/beatmapsets/1627446#osu/3322513)
+  - [HIDEKI NAGANUMA - AIN'T NOTHING LIKE A FUNKY BEAT (yaspo) \[AIN'T NOTHIN' LIKE A FUNKY BEAT\]](https://osu.ppy.sh/beatmapsets/1627451#osu/3322521)
+  - [RAM - Mertvetsy (Mazzerin) \[Requiem\]](https://osu.ppy.sh/beatmapsets/1627456#osu/3322526)
+  - [Kissing the Mirror x UNDEAD CORPORATION - Frozen Gear (Zelq) \[whitesquarable (speed edit)\]](https://osu.ppy.sh/beatmapsets/1627466#osu/3322566)
+  - [Retractable - Gameset (Down) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1627210#osu/3322093)
+- Hidden
+  - [KikuoHana - Desert Theater (Keqing) \[Mirage (\#1)\]](https://osu.ppy.sh/beatmapsets/1382362#osu/2856086)
+  - [Shimotsuki Haruka - Akahitoha (fartownik) \[Insane\]](https://osu.ppy.sh/beatmapsets/1627474#osu/3322576)
+  - [Crimsona - Hyper Fiber World Spectrum (Icekalt) \[Festival\]](https://osu.ppy.sh/beatmapsets/1267294#osu/2633747)
+- HardRock
+  - [Denkishiki Karen Ongaku Shuudan - gemini (Star Stream) \[Extra\]](https://osu.ppy.sh/beatmapsets/182815#osu/438187)
+  - [solfa - Battle 6 : okamitachi no kiba -Revenge of the wolves- (Reiji Maigo) \[awa\]](https://osu.ppy.sh/beatmapsets/1431935#osu/2947341)
+  - [Raphlesia - Showdown (Realazy) \[coupe du monde 2006\]](https://osu.ppy.sh/beatmapsets/1627494#osu/3322603)
+- DoubleTime
+  - [MomoKurotei Ichimon - Nippon Egao Hyakkei (alden) \[smile\]](https://osu.ppy.sh/beatmapsets/1614390#osu/3295947)
+  - [A-One feat, Hanatan - Break The Hierarchie (DeviousPanda) \[Insane\]](https://osu.ppy.sh/beatmapsets/1627491#osu/3322598)
+  - [Lime - Renai Syndrome (apaffy) \[Another\]](https://osu.ppy.sh/beatmapsets/166062#osu/859667)
+  - [Hatsuki Yura - Koisuru Marionette (KKipalt) \[Insane\]](https://osu.ppy.sh/beatmapsets/1627501#osu/3322610)
+- FreeMod
+  - [Senki Zesshou Symphogear G - Edge Works of Goddess ZABABA (Atalanta) \[Death Melody\]](https://osu.ppy.sh/beatmapsets/1627502#osu/3322611)
+  - [Brymir - Nephilim (LMT) \[Unholy Ritualus\]](https://osu.ppy.sh/beatmapsets/1271973#osu/2643166)
+  - [SEPHID - The Public Parallel (Camo) \[Master\]](https://osu.ppy.sh/beatmapsets/1627418#osu/3322445)
+- Tiebreaker
+  - [Cradle Of Filth - The Abhorrent (Mazzerin) \[Ensorcelled By Khaos\]](https://osu.ppy.sh/beatmapsets/1627506#osu/3322616)
 
 ### Semifinals
 
@@ -278,6 +302,28 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 
 ## Match results
 
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1A0ms-p-i9ZJqT7ff2EASmcotk9CmSG38jbz6oi-lwOM/edit?rm=minimal).
+
+Saturday, November 13, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Japan ![][flag_JP] | 2 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/93876454) |
+| Poland ![][flag_PL] | 3 | **6** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/93883809) |
+| **United States** ![][flag_US] | **6** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/93920962) |
+
+Sunday, November 14, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United Kingdom** ![][flag_GB] | **6** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/93882161) |
+| Russian Federation ![][flag_RU] | 4 | **6** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/93926187) |
+| Australia ![][flag_AU] | 5 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/93929739) |
+| Romania ![][flag_RO] | 2 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/93936854) |
+| Canada ![][flag_CA] | 2 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/93945664) |
+
 ### Quarterfinals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Go_1wimaET8QrWsiAcQMO5XW4xYuRAXUgujtmMbhtXk/edit?rm=minimal).
@@ -391,7 +437,14 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 9. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it's clearly communicated in the chatroom.
-10. If a player disconnects, their scores will not be counted towards their team's total.
+10. If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
+    - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
+    - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
+    - Screenshots from other players taken directly in-game that show the affected player's score.
+      - Screenshots from the results screen must clearly show the affected player's score. This is the preferred method.
+      - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
+      - All screenshots **MUST** be taken using the game itself, that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
+    - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
 11. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
     - The minimum amount of required players is considered as the amount of players needed to play a beatmap without any vacant spots on the lobby (i.e. 4 participants must be present for the match to begin).
 12. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
