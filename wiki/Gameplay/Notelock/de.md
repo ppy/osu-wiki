@@ -29,4 +29,4 @@ Da Objekte in regulären osu! Beatmaps in chronologischer Reihenfolge getroffen 
 
 ## Vorbeugung
 
-Aus der Sicht eines Mappers könnte ein Notelock verhindert werden, indem der OD-Wert eines [Schwierigkeitsgrads](/wiki/Beatmap/Difficulty) entsprechend der Objektdichte und BPM sorgfältig ausgewählt wird. Bei Beatmaps mit einer BPM von 200 oder höher wird eine OD von 5 oder höher empfohlen. Eine detailiertere Aufschlüsselung findet sich in der Anleitung "[Notelock bei hoher BPM vermeiden](https://osu.ppy.sh/community/forums/topics/334458)".
+Aus der Sicht eines Mappers könnte ein Notelock verhindert werden, indem der OD-Wert eines [Schwierigkeitsgrads](/wiki/Beatmap/Difficulty) entsprechend der Objektdichte und BPM sorgfältig ausgewählt wird. Bei Beatmaps mit einer BPM von 200 oder höher wird eine OD von 5 oder höher empfohlen. Eine detailliertere Aufschlüsselung findet sich in der Anleitung "[Notelock bei hoher BPM vermeiden](https://osu.ppy.sh/community/forums/topics/334458)".
