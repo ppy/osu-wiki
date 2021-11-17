@@ -7,7 +7,7 @@ tags:
 
 # Notelock
 
-![](img/notelock.gif "Ein Beispiel für Notelock: die zweite Note ist unzugänglich")
+![](img/notelock.gif "Ein Beispiel für Notelock: die zweite Note ist gesperrt")
 
 **Notelock**, oder **note lock**, ist ein informeller Begriff für eine Spielmechanik von [osu!](/wiki/Game_mode/osu!), welche einen Spieler daran hindern kann, ein Hit-Objekt zu treffen. Dies geschieht, wenn **zwei** Bedingungen gleichzeitig erfüllt sind:
 
