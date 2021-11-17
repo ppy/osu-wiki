@@ -42,7 +42,7 @@ Le dossier Localisation apparaît lorsque le joueur a changé de langue dans les
 
 Le dossier Replays contient les fichiers replay du joueur. Un fichier replay ne fonctionne pas si les beatmaps qui lui sont liés sont absents. Le replay contient également les données de résultats, et réanime le mouvement du curseur du joueur pendant le replay. Pour créer un replay, appuyez sur F2 à l'écran des résultats, ou cliquez sur le bouton 'Enregistrer le replay dans le dossier Replays' (en Solo uniquement).
 
-*Pour les joueurs qui souhaitent télécharger leur replay sur YouTube, voir : [Osr2mp4 public release. Conversion automatique du fichier de replays en vidéo] (https://osu.ppy.sh/community/forums/topics/1104243)*
+*Pour les joueurs qui souhaitent télécharger leur replay sur YouTube, voir : [Osr2mp4 public release. Conversion automatique du fichier de replays en vidéo](https://osu.ppy.sh/community/forums/topics/1104243)*
 
 La structure du nom de fichier est `Nom du joueur local} - {Artiste} - {Titre} {[Difficulté]}{(AAAA-MM-JJ)} {Mode de jeu}`. Un exemple de cette structure est présenté ci-dessous :
 
@@ -58,7 +58,7 @@ La structure du nom de fichier est `screenshot###`, où "###" est le nombre de c
 
 ### Skins
 
-Le dossier Skins contient des skins créés par les utilisateurs, qui peuvent être utilisés pour personnaliser l'interface du jeu. Les joueurs peuvent télécharger des skins depuis le sous forum [Skinning] (https://osu.ppy.sh/community/forums/15). Les joueurs peuvent installer les skins en double-cliquant sur le skin depuis un gestionnaire de fichiers. "osu! by peppy" est le seul skin sans son dossier et ne peut être supprimé.
+Le dossier Skins contient des skins créés par les utilisateurs, qui peuvent être utilisés pour personnaliser l'interface du jeu. Les joueurs peuvent télécharger des skins depuis le sous forum [Skinning](https://osu.ppy.sh/community/forums/15). Les joueurs peuvent installer les skins en double-cliquant sur le skin depuis un gestionnaire de fichiers. "osu! by peppy" est le seul skin sans son dossier et ne peut être supprimé.
 
 *Pour de plus amples informations, voir [Skinning](/wiki/Skinning)*
 
