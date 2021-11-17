@@ -1,130 +1,110 @@
----
-outdated: true
-outdated_since: 91d4e85f3155cb8b647ae8cb1b040b9896d60a7b
----
+# Fichiers de programmes d'osu!
 
-# osu! Program Files
+*Voir aussi : [Formats de fichiers](/wiki/osu!_File_Formats)*
 
-![Le dossier Program Files osu! en bref](img/osu!-program-files.png "Le dossier Program Files osu! en bref")
+![La structure des fichiers du dossier d'installation d'osu!, sous Windows et macOS](img/file_structure.jpg "La structure des fichiers du dossier d'installation d'osu!, sous Windows et macOS")
 
-## Emplacement
+Les **fichiers du programme d'osu!** sont un ensemble de fichiers qui font fonctionner osu! et gardent la trace de différentes activités pendant que l'utilisateur joue.
 
-### Windows
+## Chemins d'installation
 
-| Chemin par défaut actuel | Ancien chemin de l'installateur |
+Par défaut, osu! est installé dans les emplacements suivants :
+
+| Windows | macOS |
 | :-- | :-- |
-| `C:\Users\<Username>\AppData\Local\osu!` | `C:\Program Files\osu!` / `C:\Program Files(x86)\osu!` (pour 7 64-bit ou 8) |
-
-> `C:` est le disque dur sur lequel osu est installé.
+| `C:\Users\<Username>\AppData\Local\osu!` | `/Applications/osu!.app/Contents/Resources/drive_c/osu!` |
 
 ## Dossiers
 
-### \_MACOSX
-
-**osu! pour Macintosh.** Pour les utilisateurs de Windows, ignorez-le ou supprimez le, comme vous le voulez.
-
 ### Chat
 
-Apparaît seulement quand "/savelog" est utilisé au moins une fois dans la console de Chat ou si vous avez activé "Conserver une copie des messages privés" dans les Options. Le dossier affiche vos **enregistrements des commentaires de l'onglet de la console de chat.**
+Le dossier Chat n'apparaît que si le joueur a activé l'option "Enregistrer automatiquement les messages privés" dans les Options, ou si le joueur exécute la commande "/savelog" dans la [console de tchat](/wiki/Chat_Console).
 
-Le format est `{Nom_de_l'onglet}-{AAAAMMJJ}-{HHMMSS}` en format .txt, qui peut normalement être ouvert avec n'importe quel logiciel d'édition de texte (Bloc-notes).
-**Exemple:** #multiplayer-20121115-040845 (/savelog at #multiplayer tab in 15th November 2012 at 04hrs, 08mins, and 45secs)).
+La structure du nom des fichiers est `{Tab_name}-{YYYYMMDD}-{HHMMSS}`, et peut être ouverte dans n'importe quel éditeur de texte. Un exemple est présenté ci-dessous :
+
+``#multiplayer-20121115-040845`` (/savelog à l'onglet #multiplayer le 15 novembre 2012 à 04hrs, 08mins, et 45secs).
 
 ### Downloads
 
-Apparaît quand vous avez utilisé le service de téléchargement "osu!direct" au moins une fois. **Contient les fichiers .osz que vous téléchargez actuellement depuis osu!direct**, qui seront transférés dans le dossier Songs d'osu! en tant que beatmaps légitimes à l'achèvement.
+Le dossier Downloads contient les beatmaps téléchargés par osu!direct (nécessite [osu!supporter](/wiki/osu!supporter)). Ils sont transférés dans le dossier Songs une fois le téléchargement terminé.
 
 ### Exports
 
-Apparaît quans vous exportez une beatmap ou un skin depuis osu! au moins une fois. **Le dossier contient les .osz et les .osk exportés depuis le jeu.**
-
-Le format des beatmaps est `{Artiste} - {Titre}` en format .osz, qui peut être ouvert avec osu! ou un programme d'archivage comme WinRAR. Le format des skins est `{Nom_du_skin}` en format .osk, et utilise le nom affiché dans osu!, réglable dans le [skin.ini](/wiki/Skinning/skin.ini). **Exemples:** "Various Artists - osu! Stream Compilation.osz" ou osu! new skin template.osk".
+Le dossier Exports apparaît si le joueur utilise l'option "Exporter en .osk" du [sélecteur de skin](/wiki/Options) ou l'option "Export un package..." de l'[éditeur](/wiki/Beatmap_Editor/Menu). Il contiendra les beatmaps et les skins que le joueur a exportés d'osu!.
 
 ### Localisation
 
-Apparaît quand vous avez changé la langue d'osu! au moins une fois. **Contient des fichiers textes qui peuvent être utilisés pour remplacer le texte anglais habituel selon la langue choisie.**
+Le dossier Localisation apparaît lorsque le joueur a changé de langue dans les options. Il contient les fichiers texte traduits qui peuvent être utilisés pour remplacer le texte anglais en fonction de la localisation sélectionnée par l'utilisateur. Les fichiers de texte traduits sont générés lorsque vous changez de langue.
 
 ### Replays
 
-Contient des **fichiers externes de replay d'osu! exécutables (.osr)**. Ne fonctionne pas quand la beatmap associé au replay est manquant. Garde les résultats et reproduit les mouvements pendant le replay. Pour créer un .osr, appuyez sur "**\[F2\]**" sur l'écran des résultats ou cliquez sur "Export replay as .osr" sur l'écran des résultats en ligne (sous l'écran des résultats en Solo uniquement). Ne sauvegarde pas les éléments de multi-play. La taille du fichier varie entre 100Ko et 1Ko. [Pour les joueurs qui sont intéressés par l'upload du replay sur Youtube, regardez ce sujet de forum (anglais seulement)](https://osu.ppy.sh/community/forums/topics/108092).
+*Remarque : les replays étaient auparavant effectuées à un taux d'échantillonnage inférieur, mais elles sont désormais optimisées pour une meilleure expérience.*
 
-Le format est `{Nom du joueur local} - {Artiste} - {Titre} {[Difficulté]}{(AAAA-MM-JJ)} {Mode de jeu}`
-**Exemple:** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\]  (2013-08-12) OsuMania
+Le dossier Replays contient les fichiers replay du joueur. Un fichier replay ne fonctionne pas si les beatmaps qui lui sont liés sont absents. Le replay contient également les données de résultats, et réanime le mouvement du curseur du joueur pendant le replay. Pour créer un replay, appuyez sur F2 à l'écran des résultats, ou cliquez sur le bouton 'Enregistrer le replay dans le dossier Replays' (en Solo uniquement).
+
+*Pour les joueurs qui souhaitent télécharger leur replay sur YouTube, voir : [Osr2mp4 public release. Conversion automatique du fichier de replays en vidéo] (https://osu.ppy.sh/community/forums/topics/1104243)*
+
+La structure du nom de fichier est `Nom du joueur local} - {Artiste} - {Titre} {[Difficulté]}{(AAAA-MM-JJ)} {Mode de jeu}`. Un exemple de cette structure est présenté ci-dessous :
+
+``dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\] (2013-08-12) OsuMania``
 
 ### Screenshots
 
-**Captures d'écran (F12 by default) d'osu!**. L'extension de la capture d'écran (.jpg/.png) dépend de ce que vous avez choisi dans le menu Options.
+Le dossier Screenshots contient les captures d'écran que le joueur a créées dans osu!. Par défaut, l'extension de fichier de la capture d'écran sauvegardée est `.jpg`, mais cela peut être changé en `.png` dans le menu Options.
 
-Le format est `screenshot###` où "###" est le numéro de la capture d'écran.
+*Remarque : pour créer une capture d'écran, appuyez sur la touche de capture d'écran (F12 par défaut).*
+
+La structure du nom de fichier est `screenshot###`, où "###" est le nombre de captures d'écran.
 
 ### Skins
 
-Contient des **skins crées par des utilisateurs qui peuvent être utilisés pour personnaliser l'Interface Utilisateur dans osu!.** Vous pouvez télécharger des skins depuis la section [skinning](https://osu.ppy.sh/community/forums/15) du forum. Il y a deux sorties possibles: le .osk ou le .zip/.rar. Si vous obtenez un fichier osu!skin exécutable (.osk), ouvrez-le directement pour ouvrir osu! et vous diriger vers l'écran de sélection d'un skin avec votre nouveau skin dans la liste. Si vous obtenez un dossier, vous devez le placer manuellement dans le dossier "Skins". Si c'est un .zip/.rar, vous devez d'abord l'extraire. Vous pouvez changer de skin dans le [menu des Options section Skin (Sélectionner un skin)](/wiki/Options). Veuillez garder en mémoire que le skin que vous utilisez n'est utilisable que dans votre propre osu! uniquement.
+Le dossier Skins contient des skins créés par les utilisateurs, qui peuvent être utilisés pour personnaliser l'interface du jeu. Les joueurs peuvent télécharger des skins depuis le sous forum [Skinning] (https://osu.ppy.sh/community/forums/15). Les joueurs peuvent installer les skins en double-cliquant sur le skin depuis un gestionnaire de fichiers. "osu! by peppy" est le seul skin sans son dossier et ne peut être supprimé.
 
-Pour plus de détails, veuillez vous référer à la page [Skinning](/wiki/Skinning). De plus, osu! par peppy est le seul skin sans son dossier et donc ne peut pas être supprimé directement.
+*Pour de plus amples informations, voir [Skinning](/wiki/Skinning)*
 
 ### Songs
 
-**Votre recueil des beatmaps d'osu!**. Contient normalement les .osu (difficultées), .mp3/.ogg (fichier musicaux), .jpg/.png/.gif (image d'arrière plan), .osb (fichiers file) and .mp4/.flv (fichier vidéos). Il peut aussi contenir des .wav/.ogg (fichier hitsound) et des dossiers (SB spites et/ou skin).
+Le dossier Songs contient les beatmaps d'osu! du joueur. Il contient généralement des fichiers `.osu` (difficultés), `.mp3`/`.ogg` (fichiers musicaux), `.jpg`/`.png`/`.gif` (images de fond), `.osb` (fichiers de storyboard) et `.mp4`/`.flv` (fichiers vidéo). Peut également contenir des fichiers `.wav`/`.ogg` (fichiers de sons) et des dossiers (dossiers de sprites de storyboard et/ou de skin).
 
-Le format est `{Beatmap number} {Artist} - {Song Title}`.
-**Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
+La structure des noms de fichiers est la suivante : `{Numéro de batmap} {Artiste} - {Titre de la chanson}`.
+**Exemple :** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
 
-Veuillez noter que les *anciens* dossiers de beatmaps lors des débuts d'osu! ne possèdent pas cette numérotation et donc ne suivent pas ce format. Certains exemples sont "[discoprince](https://osu.ppy.sh/beatmapsets/1)" ou "[avgn](https://osu.ppy.sh/beatmapsets/66)". Mention spéciale pour "[tutorial](https://osu.ppy.sh/beatmapsets/3756)" puisque tous les joueurs d'osu! l'obtiendront en installant osu! avec le osu!installer. Aussi, les dossiers .osz/.zip crées manuellement peuvent aussi être comptés.
+Veuillez noter que certains beatmaps très anciens (par exemple, [Kenji Ninuma - DISCO PRINCE](https://osu.ppy.sh/beatmapsets/1) ou [Dudelstudios - Angry Video Game Nerd Theme [MATURE CONTENT]](https://osu.ppy.sh/beatmapsets/66)), ainsi que des beatmaps non publiés, ne respectent pas le format.
 
-### Dossiers cachés
+## Dossiers cachés
+
+Ces dossiers sont cachés car toute modification de ceux-ci pourrait empêcher osu! de démarrer correctement, voire pas du tout.
 
 ### Data
 
-**Fichiers de données d'osu!.** Ne doit pas être modifié.
+Fichiers de données d'osu!. Contient une partie du cache d'osu!, comme le cache de l'arrière-plan de beatmap et les caches des avatars. Ils ne doivent pas être supprimés, car ils peuvent être utilisés par osu!.
 
-## Fichiers programme
+## Fichiers
 
-### .db (Data Base File)
+*Attention : Faites attention avec ces fichiers, vous pourriez casser osu! si vous ne faites pas attention.*
 
-Les fichiers .db sont les données des beatmaps que seul osu!.exe peut utiliser. Le Bloc-notes peut ouvrir les fichiers .db mais ils seront majoritairement remplis de caractères encryptés.
+## Fichiers de base de données (.db)
 
-**Base de données d'osu!**
+Les fichiers de base de données sont des bases de données dont osu! a besoin pour fonctionner correctement. Les fichiers contiennent des informations vitales dont osu! a besoin, telles que les scores enregistrés et la liste en cache des beatmaps enregistrées sur l'appareil du joueur.
 
-- collection.db (Vos "Collections" dans le jeu. Vous pouvez le poster dans le forum pour que les autres puissent regarder vos "Collections". Beatmaps non incluses.)
-- osu!.db (Cache des beatmaps d'osu!. Vous savez, ce long écran de démarrage avant que vous puissiez voir la sélection de la musique)
-- presence.db
-- scores.db (Sauvegarde l'historique des scores locaux)
+- `collections.db` : Stocke les "Collections" du joueur dans le jeu.
+- `osu!.db` : Stocke la base de données des beatmaps d'osu!
+- `presence.db` : Stocke un cache des joueurs osu! connectés dans la console de tchat.
+- `scores.db` : Stocke les classements locaux.
 
-### .cfg (Fichiers de configuration)
+## .cfg (Fichiers de configuration)
 
-Les fichiers de configurations ou fichiers CFG configurent les paramètres initiaux pour qu'osu! fonctionne. Ces fichiers peuvent être ouverts avec le Bloc-notes.
+Les fichiers de configuration configurent les paramètres initiaux pour que osu! fonctionne. Les fichiers peuvent être ouverts avec un éditeur de texte.
 
-- `osu!.cfg`: Stocke des informations de sécurité des fichiers d'application et flux de la version actuelle d'osu!. Cela ne devrait jamais être modifié manuellement.
-- `osu!.<your PC account name>.cfg`: Stocke les données d'[Options](/wiki/Options) et d’autres paramètres de jeu. Voir [Fichier de configuration utilisateur](/wiki/osu!_Program_Files/User_Configuration_File).
+- `osu!.cfg` : Stocke les informations de sécurité concernant les fichiers de l'application osu! et la version actuelle. Il ne doit jamais être modifié manuellement.
+- `osu!.<operating system username>.cfg` : Stocke les données des [Options](/wiki/Options) et d'autres paramètres du jeu. Voir [Fichier de configuration de l'utilisateur](/wiki/osu!_Program_Files/User_Configuration_File).
 
 ### .exe (Application)
 
-Le composant principal. Cliquez sur eux pour démarrer. Les fichiers .exe sont sûrs à ouvrir en assumant vous avez utilisé le osu!installer pour installer osu!.
+Le composant principal. Cliquez dessus pour le démarrer (uniquement pour Windows). Les fichiers .exe peuvent être ouverts en toute sécurité si le joueur a utilisé le programme d'installation d'osu! téléchargé sur le site officiel pour installer osu!
 
-- osu!.exe (Démarre osu!)
+osu!.exe (Démarrer osu!)
 
-## Fichiers cachés 
+#### .dll (extension de l'application)
 
-### .dll (Extension de l'application)
-
-Les fichiers .dll sont des composants d'osu!.exe donc ignorez-les.
-
-**Composants de base** (Pour Microsoft .NET)
-
-- avcodec-51.dll
-- avformat-52.dll
-- avutil-49.dll
-- bass.dll
-- bass_fx.dll
-- d3dx9_31.dll
-- Microsoft.Ink.dll
-- Microsoft.Xna.Framework.dll
-- pthreadGC2.dll
-- x3daudio1_1.dll
-
-**Composants d'osu!**
-
-- osu!gameplay.dll
-- osu!ui.dll
-- osu.dll
+Ces fichiers .dll sont les composants et les dépendances d'osu!.
