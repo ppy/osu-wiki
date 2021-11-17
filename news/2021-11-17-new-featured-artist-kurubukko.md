@@ -27,7 +27,7 @@ Looking for a fresh taste of **Kurubukko**'s sound? We've organized a few [showc
 Check out [this showcase map](https://osu.ppy.sh/beatmapsets/1578257) hosted by [Gibune](https://osu.ppy.sh/users/5778687) and featured in the video above!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/206/METADATA%20--%20PINK%20ORIGINS/METAROOM%20-%20PINK%20ORIGINS.mp3" type="audio/mpeg">
+    <source src="LINK" type="audio/mpeg">
 </audio>
 
 ### Kurubukko - The 84th Flight
@@ -35,7 +35,7 @@ Check out [this showcase map](https://osu.ppy.sh/beatmapsets/1578257) hosted by 
 Try [this BPM-changing map](https://osu.ppy.sh/beatmapsets/1577313) hosted by a frequent contributor to Featured Artist mapping: [Niva](https://osu.ppy.sh/users/197805)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/206/SWEET%20GENESIS/METAROOM%20-%20SPIKEY%20BOI.mp3" type="audio/mpeg">
+    <source src="LINK" type="audio/mpeg">
 </audio>
 
 ### Kurubukko - AWIS -divergence-
