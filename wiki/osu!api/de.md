@@ -8,7 +8,7 @@ Du kannst eine Dokumentation von der API auf der [Wikiseite der osu!api](https:/
 
 Version 2 der osu!api ist in Arbeit unter [osu-web](https://github.com/ppy/osu-web), und hat das Ziel, viel robuster zu sein als das Original. Die Dokumentation (keine Garantie, dass diese vollständig ist) findet sich auf ihrer [Referenzseite](https://docs.ppy.sh).
 
-Die Authentifizierung für die neue API folgt dem [OAuth-2-Protokoll](https://oauth.net/2/). Clients können auf der [Einstellungsseite](https://osu.ppy.sh/home/account/edit) verwaltet werden.
+Die Authentifizierung für die neue API folgt dem [OAuth-2-Protokoll](https://oauth.net/2/). Clients können auf der [Seite "Einstellungen"](https://osu.ppy.sh/home/account/edit) verwaltet werden.
 
 ## Siehe auch
 
