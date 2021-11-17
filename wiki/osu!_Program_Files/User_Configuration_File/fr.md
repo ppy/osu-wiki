@@ -115,7 +115,7 @@ The values for key binding options are the names of the keys.
 | `keyOsuSmoke` | osu! fumé |
 | `keyTaikoInnerLeft` | osu!taiko tambour gauche centre |
 | `keyTaikoInnerRight` | osu!taiko centre tambour droit |
-| `keyTaikoOuterLeft` | osu!taiko  tambour gauche jante|
+| `keyTaikoOuterLeft` | osu!taiko  tambour gauche jante |
 | `keyTaikoOuterRight` | osu!taiko tambour droit jante |
 | `keyFruitsLeft` | osu!catch déplacement à gauche |
 | `keyFruitsRight` | osu!catch déplacement à droite |
