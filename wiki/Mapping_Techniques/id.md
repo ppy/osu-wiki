@@ -54,7 +54,7 @@ Jika kamu ingin mengetahui cara membuat slider yang bagus, kunjungi artikel [Mem
 
 #### Slider
 
-- [B&F Sliderbased Jumps](Jumps#b-f-sliderbased-jumps)
+- [B&F Sliderbased Jumps](Jumps#b&f-sliderbased-jumps)
 - [Endpoint Slider Jumps](Jumps#endpoint-slider-jumps)
 - [Orbital Sliders](Jumps#orbital-sliders)
 
