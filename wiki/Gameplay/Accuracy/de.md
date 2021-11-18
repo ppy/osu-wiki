@@ -51,7 +51,7 @@ Die Leistungsgrafik ist ein Diagramm, das die Leistung des Spielers (basierend a
 
 ### Genauigkeit
 
-Wenn man den Mauszeiger über die Leistungsgrafik bewegt, wird ein Tooltip mit den Bewertungen " Error" und " Unstable Rate" angezeigt.
+Wenn man den Mauszeiger über die Leistungskurve bewegt, wird ein Tooltip mit den Bewertungen `Error` und `Unstable Rate` angezeigt.
 
 Aufgrund der Art und Weise, wie die Mods [DT](/wiki/Game_modifier/Double_Time) (Double Time) und [HT](/wiki/Game_modifier/Half_Time) (Half Time) implementiert sind, werden die Werte für Error und Unstable Rate mit demselben Faktor wie der Song multipliziert. Um die wahren Werte zu erhalten, wenn man mit der DT-Mod spielt, teilt man die Ergebnisse durch 1,5. In ähnlicher Weise multipliziert man die Ergebnisse mit 1,33, wenn man mit der HT-Mod spielt.
 
