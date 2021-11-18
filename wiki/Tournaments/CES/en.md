@@ -2,4 +2,4 @@
 
 Index page for all of the CES League osu! Tournament series.
 
-- [CES League osu! Tournament 2](2020)
+- [CES League osu! Tournament 2](CES2)

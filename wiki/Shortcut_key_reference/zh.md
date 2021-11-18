@@ -76,7 +76,7 @@ tags:
 | `F3` | 谱面选项 |
 | `F5` | 刷新谱面 |
 | `Shift` + `Delete` | 打开删除谱面对话框，这将询问您是否删除全部难度/单个难度或是画面上所有可见的谱面 |
-| `Ctrl` + `1` | 将游戏模式切换为 [osu!](/wiki/Disambiguation/osu!) |
+| `Ctrl` + `1` | 将游戏模式切换为 [osu!](/wiki/Game_mode/osu!) |
 | `Ctrl` + `2` | 将游戏模式切换为 [osu!taiko](/wiki/Game_mode/osu!taiko) |
 | `Ctrl` + `3` | 将游戏模式切换为 [osu!catch](/wiki/Game_mode/osu!catch) |
 | `Ctrl` + `4` | 将游戏模式切换为 [osu!mania](/wiki/Game_mode/osu!mania) |

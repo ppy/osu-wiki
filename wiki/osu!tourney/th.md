@@ -12,4 +12,3 @@
 - [การทำสกิน](Skinning)
 - [คำสั่งการจัดการทัวร์นาเม้น](Tournament_Management_Commands)
 - [วิธีแก้ปัญหาเบื้องต้น](Troubleshooting)
-- [ของรางวัล](Prizes)
