@@ -111,14 +111,14 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 | ![][flag_UY] | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Rebo](https://osu.ppy.sh/users/6942259), [Kazuki K](https://osu.ppy.sh/users/6407282), [FDX](https://osu.ppy.sh/users/8987016), [Rondro](https://osu.ppy.sh/users/9293124), [Saphity](https://osu.ppy.sh/users/5382216), [El Milanga](https://osu.ppy.sh/users/12264918), [Raby](https://osu.ppy.sh/users/5218320) |
 | ![][flag_VN] | **Vietnam** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [Ui chan](https://osu.ppy.sh/users/5449433), [- Mel -](https://osu.ppy.sh/users/9829680), [kiethao](https://osu.ppy.sh/users/2283137), [\[sin\]](https://osu.ppy.sh/users/11021073), [\[Boy\]DaLat](https://osu.ppy.sh/users/8266808), [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [Liyuchi](https://osu.ppy.sh/users/3275495) |
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
 ### Saturday, November 20, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Hong Kong | ![][flag_HK] | ![][flag_KR] | South Korea | Nov 20 (Sat) 10:00 UTC | Nov 20 (Sat) 18:00 UTC+8 | Nov 20 (Sat) 19:00 UTC+9 | ² |
-| Canada | ![][flag_CA] | ![][flag_GB] | United Kingdom | Nov 20 (Sat) 18:00 UTC | Nov 20 (Sat) 13:00 UTC-5 | Nov 20 (Sat) 18:00 UTC | ² |
+| Hong Kong | ![][flag_HK] | ![][flag_KR] | South Korea | Nov 20 (Sat) 13:30 UTC | Nov 20 (Sat) 21:30 UTC+8 | Nov 20 (Sat) 22:30 UTC+9 | ² |
+| Canada | ![][flag_CA] | ![][flag_GB] | United Kingdom | Nov 20 (Sat) 19:00 UTC | Nov 20 (Sat) 14:00 UTC-5 | Nov 20 (Sat) 19:00 UTC | ² |
 
 ### Sunday, November 21, 2021
 
@@ -156,7 +156,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
   - [solfa - Battle 6 : okamitachi no kiba -Revenge of the wolves- (Reiji Maigo) \[awa\]](https://osu.ppy.sh/beatmapsets/1431935#osu/2947341)
   - [Raphlesia - Showdown (Realazy) \[coupe du monde 2006\]](https://osu.ppy.sh/beatmapsets/1627494#osu/3322603)
 - DoubleTime
-  - [MomoKurotei Ichimon - Nippon Egao Hyakkei (alden) \[smile\]](https://osu.ppy.sh/beatmapsets/1614390#osu/3295947)
+  - [MomoKurotei Ichimon - Nippon Egao Hyakkei (alden) \[smile (owc ver.)\]](https://osu.ppy.sh/beatmapsets/1614390#osu/3320894)
   - [A-One feat, Hanatan - Break The Hierarchie (DeviousPanda) \[Insane\]](https://osu.ppy.sh/beatmapsets/1627491#osu/3322598)
   - [Lime - Renai Syndrome (apaffy) \[Another\]](https://osu.ppy.sh/beatmapsets/166062#osu/859667)
   - [Hatsuki Yura - Koisuru Marionette (KKipalt) \[Insane\]](https://osu.ppy.sh/beatmapsets/1627501#osu/3322610)
