@@ -11,7 +11,7 @@ tags:
 
 # Forum modding
 
-**Forum modding**, juga dikenal sebagai *Modding v1*, adalah nama umum dari [modding](/wiki/Modding) berbasis forum dan sistem ranking yang digunakan hingga [ 4 November 2017](https://osu.ppy.sh/community/forums/topics/650961?n=7), ketika seluruh [beatmaps](/wiki/Beatmap) baru dan nonaktif dipindahkan ke [diskusi beatmap discussions](/wiki/Beatmap_Discussion) secara bawaan.
+**Forum modding**, juga dikenal sebagai *Modding v1*, adalah nama umum dari [modding](/wiki/Modding) berbasis forum dan sistem ranking yang digunakan hingga [4 November 2017](https://osu.ppy.sh/community/forums/topics/650961?n=7), ketika seluruh [beatmaps](/wiki/Beatmap) baru dan nonaktif dipindahkan ke [diskusi beatmap discussions](/wiki/Beatmap_Discussion) secara bawaan.
 
 Pada sistem forum modding, setiap beatmap memiliki utas forum untuk komunikasi dan pencatatan [prosedur ranking](/wiki/Beatmap_ranking_procedure).
 
