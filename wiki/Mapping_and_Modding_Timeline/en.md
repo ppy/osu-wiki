@@ -375,7 +375,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### June
 
-- **2018-06-21:** The [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) initiative was created.
+- **2018-06-21:** The [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) initiative was created.
   - This was designed to ensure that all qualified beatmaps were reviewed by at least 2 BN or QAT members before rank.
   - The program was managed via Trello and automated by ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) through Aiess.
   - This change was one of the primary reasons that the QAT was later renamed. <!-- https://osu.ppy.sh/community/forums/topics/764134 + https://trello.com/b/iEsda45d/quality-assurance-helpers -->

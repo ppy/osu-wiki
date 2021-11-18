@@ -12,4 +12,3 @@ Usuários que encontrarem **problemas** com o cliente podem ler o [guia de solu�
 - [Skinning](Skinning)
 - [Comandos para torneios](Tournament_Management_Commands)
 - [Solução de Problemas](Troubleshooting)
-- [Prêmios](Prizes)
