@@ -12,4 +12,3 @@ Pengguna yang mengalami masalah **teknis** saat menjalankan klien bisa membaca [
 - [Skinning](Skinning)
 - [Perintah Pengelolaan Klien Turnamen](Tournament_Management_Commands)
 - [Penyelesaian Masalah](Troubleshooting)
-- [Hadiah](Prizes)

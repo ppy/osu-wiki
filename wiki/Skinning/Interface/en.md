@@ -1,6 +1,6 @@
 # Interface skinning
 
-*See also: [Skinning Interface Tutorial](/wiki/Skinning/Guides_and_important_threads) and [Interface](/wiki/Interface)*
+*See also: [Interface](/wiki/Interface)*
 
 Interface skinning elements are used in multiple game modes or parts of the client's user interface.
 
@@ -836,7 +836,7 @@ Notes:
 
 ### Hit bursts
 
-*Main page: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hierarchy)*
+*Main page: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hit-score-hierarchy)*
 
 ---
 

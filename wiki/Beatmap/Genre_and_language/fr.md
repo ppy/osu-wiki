@@ -22,10 +22,10 @@ La [liste des beatmaps](https://osu.ppy.sh/beatmapsets) dispose de filtres pour 
 
 ## Changer le genre et la langue d'une beatmap
 
-Le genre et la langue peuvent être modifiés sur le site Web en cliquant sur l'icône en forme de crayon lorsque vous survolez les détails d'une beatmap. Cette possibilité est déterminée par les [groupes d'utilisateurs](/wiki/People/The_Team#user-groups) et la [catégorie](/wiki/Beatmap/Category#beatmap-categories) de la beatmap :
+Le genre et la langue peuvent être modifiés sur le site Web en cliquant sur l'icône en forme de crayon lorsque vous survolez les détails d'une beatmap. Cette possibilité est déterminée par les [groupes d'utilisateurs](/wiki/People/The_Team#groupes-d'utilisateurs) et la [catégorie](/wiki/Beatmap/Category#catégories-actuelles) de la beatmap :
 
 - Les propriétaires de Mapset sont autorisés lorsque la beatmap est dans les catégories [WIP](/wiki/Beatmap/Category#work-in-progress-et-en-attente), [en attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente), ou [cimetière](/wiki/Beatmap/Category#cimetière), et n'a pas de nominations.
-- Les membres de la [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) sont autorisés lorsque la beatmap se trouve dans les catégories [qualifiée](/wiki/Beatmap/Category#qualifié), WIP, ou en attente.
+- Les membres de la [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) sont autorisés lorsque la beatmap se trouve dans les catégories [qualifiée](/wiki/Beatmap/Category#qualifiée), WIP, ou en attente.
 - Les membres de la [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team) sont autorisés lorsque la beatmap se trouve dans la catégorie [loved](/wiki/Beatmap/Category#loved).
 - Les membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) et des [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) sont autorisés pour toutes les catégories.
 
