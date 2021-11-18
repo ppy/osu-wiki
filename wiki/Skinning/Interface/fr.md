@@ -5,7 +5,7 @@ outdated: true
 
 # Skinning de l'interface
 
-*Voir aussi: [Tutoriel de skinning de l'interface](/wiki/Skinning/Guides_and_important_threads) et [Interface](/wiki/Interface)*
+*Voir aussi: [Interface](/wiki/Interface)*
 
 Les éléments de skinning de l'interface sont utilisés dans plusieurs modes de jeu ou sections de l'interface utilisateur du client.
 
@@ -61,7 +61,7 @@ Notes:
 Notes:
 
 - Si un skin est absent, l'icône réduite du mode de jeu actuel sera utilisée à la place.
-- Doit être activée dans les [options](wiki/options) pour être visible.
+- Doit être activée dans les [options](/wiki/Options) pour être visible.
   - Cette option peut être activée de force pendant la période de Noël.
 
 ## Boutons

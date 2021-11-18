@@ -67,8 +67,6 @@ W osu! jest wiele różnych skrótów klawiszowych, które mogą być wykorzysta
 
 Note: Specjalne mody takie jak [Perfect](/wiki/Game_modifier/Perfect) czy [Nightcore](/wiki/Game_modifier/Nightcore) potrzebują jeszcze jednego kliknięcia.
 
-![Lista modyfikacji osu!](Soloplay8.png "Lista modyfikacji osu!")
-
 - **Q**: [Easy](/wiki/Game_modifier/Easy)
 - **W**: [No Fail](/wiki/Game_modifier/No_Fail)
 - **E**: [Half-Time](/wiki/Game_modifier/Half_Time)
@@ -103,8 +101,6 @@ Note: Specjalne mody takie jak [Perfect](/wiki/Game_modifier/Perfect) czy [Night
 ### Skróty klawiszowe
 
 #### Główne
-
-![Wciśnięcie klawisza H (Pomoc)](Edit_Help.jpg "Wciśnięcie klawisza H <Pomoc>")
 
 - **H**: Pomoc (zawiera wszystkie skróty klawiszowe podane poniżej)
 

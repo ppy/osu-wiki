@@ -8,7 +8,7 @@ outdated: true
 
 # Advanced Global Taiko Showdown 2019
 
-![AGTS 2019 Logo](img/logo.png)
+![AGTS 2019 Logo](img/logo.jpg)
 
 **2019 高階國際太鼓比賽** (***AGTS 2019***) 是/曾經是 一個由![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263)和![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133)所舉辦的雙敗淘汰制的2v2國際太鼓比賽。它曾經是 國際太鼓比賽的第三部分。
 

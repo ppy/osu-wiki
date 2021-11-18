@@ -29,7 +29,7 @@ Un bonus supplémentaire de 1,000pt est obtenu pour chaque tour d'un Spinner dè
 
 Le **multiplicateur de difficulté** était calculé sur base du Star Rating de chaque beatmap (l'ancien système, avant l'introduction des points de performance), qui tenait compte de la densité des objets, et était affecté par les paramètres de difficulté de la beatmap comme suit :
 
-[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) et [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) augmentent chacun un compteur de *points de difficulté* de 1 point.
+[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup#taux-de-drain-de-santé) et [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) augmentent chacun un compteur de *points de difficulté* de 1 point.
 
 La valeur finale du compteur affecte le **multiplicateur de difficulté** comme suit :
 

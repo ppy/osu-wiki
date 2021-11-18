@@ -46,7 +46,7 @@ Meskipun Monthly Beatmap Spotlights telah dihentikan sejak April 2018 untuk diga
 
 **Medali Seasonal Spotlights** adalah medali yang diberikan ketika pemain menyelesaikan beatmap pack yang dirilis sebagai bagian dari [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Agar medali dalam kategori ini dapat terbuka, pemain perlu bermain seluruh beatmap *pada pack mode game apapun* yang dipertandingkan dalam Seasonal Spotlight ranking chart. Penggunaan [mod pengurang kesulitan](/wiki/Game_modifier#pengurang-kesulitan) atau [mod peningkat kesulitan](/wiki/Game_modifier#peningkat-kesulitan) diperbolehkan.
 
-Meskipun Seasonal Spotlights telah dihentikan sejak awal tahun 2020 untuk digantikan oleh [sistem Beatmap Spotlights saat ini](wiki/Beatmap_Spotlights), seluruh medali yang bersangkutan masih dapat diperoleh hingga saat ini.
+Meskipun Seasonal Spotlights telah dihentikan sejak awal tahun 2020 untuk digantikan oleh [sistem Beatmap Spotlights saat ini](/wiki/Beatmap_Spotlights), seluruh medali yang bersangkutan masih dapat diperoleh hingga saat ini.
 
 ## Beatmap Challenge Packs
 
