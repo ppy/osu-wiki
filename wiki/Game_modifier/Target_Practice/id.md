@@ -36,7 +36,7 @@ Kegunaan mod ini hanyalah untuk bersenang-senang, tapi mod ini juga bisa digunak
 
 ## Trivia
 
-- Mod Target Practice akan menggunakan [warna kombo](/wiki/Beatmapping/Combo#combo-colour) yang ada pada file [skin.ini](/wiki/Skinning/skin.ini) pemain.
+- Mod Target Practice akan menggunakan [warna kombo](/wiki/Glossary/Combo_colour) yang ada pada file [skin.ini](/wiki/Skinning/skin.ini) pemain.
 - Ketika pemain gagal dalam sebuah map menggunakan mod Target Practice, pemain akan diantar ke layar peringkat, daripada layar saat fail.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

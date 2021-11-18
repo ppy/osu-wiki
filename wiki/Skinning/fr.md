@@ -8,10 +8,6 @@ Le skinning est l'une des principales caractéristiques d'osu!. Cela permet aux 
 
 **Pour les beatmaps seulement,** si votre skin de beatmap contient un seul élément parmi les ensembles répertoriés dans les critères de classement, il doit contenir tous les autres éléments dudit ensemble. Cela ne s'applique qu'aux skins de beatmap.
 
-## Comment puis-je faire un skin
-
-*Page principale: [Tutoriel de skinning](/wiki/Skinning/Guides_and_important_threads)*
-
 ## Listes d'éléments de skins
 
 La liste des éléments de skinning est divisée en plusieurs catégories:

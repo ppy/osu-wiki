@@ -14,7 +14,7 @@ Still don't know about the **Monthly Beatmapping Contest** (***MBC***)? The [MBC
 
 June's contest covered osu! and osu!catch, but **only osu!**'s results are being announced for now!
 
-| User | Placement | Badge prize | Title prize | [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#prizes) |
+| User | Placement | Badge prize | Title prize | [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) |
 | :-- | :-- | :-- | :-- | :-- |
 | [kuyusu](https://osu.ppy.sh/users/11758667) | Winner + Screener's pick | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | - | 5 (⯅3) |
 | [ScubDomino](https://osu.ppy.sh/users/8972308) | Runner-up | - | - | 1 (⯅1) |
