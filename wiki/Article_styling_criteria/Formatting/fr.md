@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 342b4e51378689a89b13feb101c2a657f5f1ac3c
 ---
 
 # Mise en forme
@@ -153,7 +155,7 @@ Les articles de [désambiguïsation](/wiki/Disambiguation) doivent être placés
 
 Les redirections doivent être mises à jour afin que les mots clés ambigus soient redirigés vers l'article de désambiguïsation.
 
-Les articles liés à partir d'un article de désambiguïsation doivent avoir une hatnote [pour d'autres utilisations](#for-other-uses).
+Les articles liés à partir d'un article de désambiguïsation doivent avoir une hatnote [pour d'autres utilisations](#pour-d'autres-utilisations).
 
 ## HTML
 
@@ -486,7 +488,7 @@ Il existe deux types de liens : en ligne et de référence. Les liens en ligne o
 Voici un exemple des deux styles en ligne :
 
 ```markdown
-[Modificateurs de jeu](/wiki/Game_Modifiers)
+[Modificateurs de jeu](/wiki/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -496,7 +498,7 @@ Voici un exemple de style de référence :
 ```markdown
 [Modificateurs de jeu][lien vers les mods de jeu]
 
-[lien vers les mods de jeu]: /wiki/Game_Modifiers
+[lien vers les mods de jeu]: /wiki/Game_modifier
 ```
 
 ---
@@ -534,8 +536,8 @@ Voici de bons exemples :
 
 ```markdown
 [Critères de style des articles](/wiki/Article_styling_criteria)
-[Developers](/wiki/Developers)
-[Developers](/wiki/Developers#game-client-developers)
+[Developers](/wiki/People/The_Team/Developers)
+[Developers](/wiki/People/The_Team/Developers#game-client-developers)
 ```
 
 *Remarque : ne pas traduire les liens entre parenthèses, sinon la redirection ne fonctionnera plus.*
@@ -746,10 +748,10 @@ Les icônes de drapeau situées à côté des liens utilisateur doivent être s�
 Les icônes de drapeau utilisent le code à deux lettres (en majuscules) et se terminent par `.gif`. Lorsque vous ajoutez un drapeau en ligne, utilisez ce format :
 
 ```markdown
-![](/wiki/shared/flag/xx.gif)
+![](/wiki/shared/flag/XX.gif)
 ```
 
-Où `xx` est le code pays à deux lettres [ISO 3166-2](https://fr.wikipedia.org/wiki/ISO_3166-1_alpha-2) du drapeau.
+Où `XX` est le code pays à deux lettres [ISO 3166-2](https://fr.wikipedia.org/wiki/ISO_3166-1_alpha-2) du drapeau.
 
 Le nom complet du pays doit être ajouté dans le texte du titre. Le code du pays dans le texte alternatif est facultatif, mais doit être appliqué à toutes les icônes de drapeau dans l'article.
 

@@ -6,7 +6,7 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 
 *Ana sayfa: [Beatmap oluşturma](/wiki/Beatmapping)*
 
-- [Özel Vuruş Sesleri Ekleme](Adding_Custom_Hitsounds)
+- [Özel Vuruş Sesleri Ekleme](Using_custom_hitsounds)
 - [Ses Düzenleme](Audio_Editing)
 - [Sanatçı ya da Başlık Adı Değiştirme](Changing_the_Artist_or_Title)
 - [Başlık Metnini Değiştirme](/wiki/Beatmap/Title_Text#changing-title-text)
@@ -15,7 +15,7 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 - [Özel Vuruş Sesi Kütüphanesi](Custom_Hitsound_Library)
 - [Özel Ses Seti Bindirmeleri](Custom_Sample_Overrides)
 - [Şarkılar Naısl Zamanlanır](How_to_Time_Songs)
-- [Müzik Teorisi](Music_Theory)
+- [Müzik Teorisi](/wiki/Music_theory)
 - [osu!mania Map Yapım Kılavuzu](osu!mania_Mapping_Guide)
 - [Ofseti Doğru Vuruşa Ayarlamak](Setting_the_Offset_on_the_Correct_Beat)
 - [Bir Beatmap Projesi Başlatmak](Starting_a_Beatmap_Project)
@@ -33,7 +33,6 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 - [Ofset Sihirbazı Nasıl Kullanılır](How_to_Use_the_Offset_Wizard)
 - [Beatmaplari Aramak ve İndirmek](Searching_and_Downloading_Beatmaps)
 - [Tablet Satın Almak](Tablet_Purchase)
-- [Yetenek Geliştirme Üzerine İpuçları](Tips_and_Tricks_on_Skill_Improvement)
 
 ## Tema yapımı
 

@@ -14,7 +14,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 - **2007-10-29:**: Forum thread icons were standardized for the ranking process.
   - A `star` (![star icon](/wiki/shared/icon/star.gif)) icon marked good maps that need more work.
   - A `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icon marked beatmaps considered for ranking.
-  - A `heart` (![heart icon](/wiki/shared/icon/heart.gif)) icon marked ranked beatmaps. These could only be placed after a beatmap was bubbled, ensuring two nominations per beatmap.
+  - A `heart` (![heart icon](/wiki/shared/icon/heart.gif)) icon marked ranked beatmaps. These could only be placed after a beatmap was [bubbled](/wiki/Modding/Bubble), ensuring two nominations per beatmap.
   - A `nuke` (![nuke icon](/wiki/shared/icon/nuke.gif)) icon marked beatmaps that could not be ranked under any circumstances. <!-- https://osu.ppy.sh/forum/t/619 + missing info on flame/nuke -->
 
 **200 beatmaps** were ranked in 2007.
@@ -46,7 +46,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### February
 
-- **2009-02-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) was promoted as the first [BAT manager](/wiki/Modding/Bat_Managers). <!-- https://osu.ppy.sh/community/forums/topics/36869?start=81784 -->
+- **2009-02-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) was promoted as the first [BAT manager](/wiki/Modding/BAT_Managers). <!-- https://osu.ppy.sh/community/forums/topics/36869?start=81784 -->
   - His primary role was to organize new BAT promotion and improve the current BAT's activity/proficiency.<!-- https://osu.ppy.sh/community/forums/topics/9639 -->
 
 ### March
@@ -120,7 +120,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### July
 
-- **2012-07-22:** The first iteration of [Performance Points](/wiki/Performance_Points) known as [ppv1](/wiki/Performance_Points/ppv1) was established, replacing total ranked score leaderboards.
+- **2012-07-22:** The first iteration of [Performance Points](/wiki/Performance_points) known as [ppv1](/wiki/Performance_points/ppv1) was established, replacing total ranked score leaderboards.
 
 ### August
 
@@ -224,7 +224,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### August
 
-- **2015-08-25:** Qualified beatmaps no longer rewarded players with [Performance Points](/wiki/Performance_Points).
+- **2015-08-25:** Qualified beatmaps no longer rewarded players with [Performance Points](/wiki/Performance_points).
   - This was done in response to widespread complaints about Performance Points losses on qualified beatmaps.
   - Tension between players and the QAT was relieved after this change. <!-- https://osu.ppy.sh/community/forums/topics/352460 -->
 - **2015-08-26:** Anonymous QAT disqualifications were discontinued.
@@ -375,7 +375,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### June
 
-- **2018-06-21:** The [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) initiative was created.
+- **2018-06-21:** The [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) initiative was created.
   - This was designed to ensure that all qualified beatmaps were reviewed by at least 2 BN or QAT members before rank.
   - The program was managed via Trello and automated by ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) through Aiess.
   - This change was one of the primary reasons that the QAT was later renamed. <!-- https://osu.ppy.sh/community/forums/topics/764134 + https://trello.com/b/iEsda45d/quality-assurance-helpers -->

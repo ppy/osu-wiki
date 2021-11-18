@@ -9,7 +9,7 @@ tags:
 
 *關於圓圈大小的規定，請見[審核標準](/wiki/Ranking_Criteria)*
 
-**圓圈大小** (***CS***)是影響[打擊物件](/wiki/Hit_Objects)大小的[圖譜](/wiki/Beatmap)難度設定。數值可介於 0 到 10 之間，但在[圖譜編輯器](/wiki/Beatmap_Editor)中只能在 2 到 7 間調整。若要繞過此限制，必須手動修改圖譜的 [.osu檔案](/wiki/osu!_File_Formats/Osu_(file_format))。
+**圓圈大小** (***CS***)是影響[打擊物件](/wiki/Hit_object)大小的[圖譜](/wiki/Beatmap)難度設定。數值可介於 0 到 10 之間，但在[圖譜編輯器](/wiki/Beatmap_Editor)中只能在 2 到 7 間調整。若要繞過此限制，必須手動修改圖譜的 [.osu檔案](/wiki/osu!_File_Formats/Osu_(file_format))。
 
 ## osu!
 

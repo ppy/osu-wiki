@@ -11,7 +11,7 @@ no_native_review: true
 1. Cài đặt [GitHub Desktop](https://desktop.github.com) nếu bạn chưa làm điều đó.
 2. Sau khi việc cài đặt hoàn tất, GitHub Desktop sẽ yêu cầu bạn đăng nhập, nhấn `Sign in to GitHub.com`.
 3. Điền các thông tin cần thiết khi được yêu cầu.
-4. Tiến đến phần [Nhân bản (Cloning)](#nhân-bản-cloning).
+4. Tiến đến phần [Nhân bản (Cloning)](#nhân-bản-(cloning)).
 
 ## Nhân bản (Cloning)
 
@@ -25,7 +25,7 @@ no_native_review: true
 
 4. Nhấn `Clone`. Có thể mất một khoảng thời gian tuỳ vào tình trạng Internet.
 
-5. Tiến đến phân nhánh [Phân nhánh (Branching)](#phân-nhánh-branching).
+5. Tiến đến phân nhánh [Phân nhánh (Branching)](#phân-nhánh-(branching)).
 
 ## Phân nhánh (Branching)
 
@@ -46,7 +46,7 @@ Tuy việc phân nhánh không bắt buộc, nhưng nó [được khuyến ngh�
 
 1. Trong thư mục mà bạn vừa nhân bản repo, điều hướng tới tệp bạn muốn sửa. Bài viết được sắp xếp với tên thư mục là tên của các bài viết, còn các tệp `.md` là các bản dịch.
 2. Sau khi tìm được tệp, mở nó bằng trình soạn thảo văn bản mà bạn thích.
-3. Giờ bạn có thể thực hiện các thay đổi. Khi thay đổi, hãy bám sát [Tiêu chí tạo kiểu bài viết](/wiki/ASC) nhất có thể.
+3. Giờ bạn có thể thực hiện các thay đổi. Khi thay đổi, hãy bám sát [Tiêu chí tạo kiểu bài viết](/wiki/Article_styling_criteria) nhất có thể.
 4. Đi tới [Committing và pushing](#committing-và-pushing).
 
 ### Di chuyển các tệp có sẵn

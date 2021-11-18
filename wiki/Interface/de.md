@@ -63,7 +63,7 @@ Da auf diesem Bildschirm zu viele Elemente sind und es sonst zu unübersichtlich
 
 ![](img/metadata-comparison.jpg)
 
-Dieser Bereich zeigt ihnen **Informationen zu der Beatmap und der ausgewählten Schwierigkeitsstufe an.** Standardmäßig wird die Beatmap angezeigt, welche im osu! Jukebox abgespielt wurde. Die BPM-Anzeige zeigt den größten und niedrigsten Wert der Beatmap an. "Objekte" gibt die vollständige Anzahl von [Hit Objekten](/wiki/Hit_Objects) in den Beatmap wieder. Ein ![](/wiki/shared/icon/heart.gif)Herz Symbol an der oberen linken Ecke kennzeichnet die Beatmap als Ranked, während ein ![](/wiki/shared/icon/flame.gif)Flamen Symbol die Beatmap als Approved kennzeichnet. Der Unicode-Titel wird benutzt, wenn in den Einstellungen die Option ["Metadaten in Originalsprache anzeigen"](/wiki/Options) aktiviert ist und wenn auch Unicodes im Titel/Artist der Beatmap vorhanden sind.
+Dieser Bereich zeigt ihnen **Informationen zu der Beatmap und der ausgewählten Schwierigkeitsstufe an.** Standardmäßig wird die Beatmap angezeigt, welche im osu! Jukebox abgespielt wurde. Die BPM-Anzeige zeigt den größten und niedrigsten Wert der Beatmap an. "Objekte" gibt die vollständige Anzahl von [Hit Objekten](/wiki/Hit_object) in den Beatmap wieder. Ein ![](/wiki/shared/icon/heart.gif)Herz Symbol an der oberen linken Ecke kennzeichnet die Beatmap als Ranked, während ein ![](/wiki/shared/icon/flame.gif)Flamen Symbol die Beatmap als Approved kennzeichnet. Der Unicode-Titel wird benutzt, wenn in den Einstellungen die Option ["Metadaten in Originalsprache anzeigen"](/wiki/Options) aktiviert ist und wenn auch Unicodes im Titel/Artist der Beatmap vorhanden sind.
 
 - Style: {Quelle} ({Artist}) - {Titel} \[{Schwierigkeitsstufe}\]
 

@@ -10,7 +10,7 @@ La première mise en œuvre d'un tel score a été révélée au public au cours
 
 Connu par la suite sous le nom de "pp" (abréviation de "performance points"), ce nouveau système visait à modifier la norme précédente de la performance des joueurs, qui consistait à passer d'un simple [score](/wiki/Score) total à quelque chose qui reflétait précisément les compétences. Ce nouveau système a été largement plébiscité par les joueurs de l'époque.
 
-Plusieurs mois après sa révélation, la version 20120722-24 d'osu! a officiellement mis en œuvre le système pour remplacer entièrement l'ancien système de score [Classé](/wiki/Beatmap/Category#Classée), les nouveaux scores étant calculés toutes les 30 minutes. Plus tard, en août de la même année, le système a été amélioré pour être mis à jour en temps réel.
+Plusieurs mois après sa révélation, la version 20120722-24 d'osu! a officiellement mis en œuvre le système pour remplacer entièrement l'ancien système de score [Classé](/wiki/Beatmap/Category#classée), les nouveaux scores étant calculés toutes les 30 minutes. Plus tard, en août de la même année, le système a été amélioré pour être mis à jour en temps réel.
 
 *Remarque : ppv1, la version originale du système de points de performance, comportait également un journal de modifications, qui peut être consulté dans son [sujet du forum](https://osu.ppy.sh/community/forums/topics/92185).*
 
@@ -22,7 +22,7 @@ Le 16 janvier 2021, des changements ont été apportés au système ppv2 afin d'
 - Introduction d'un facteur d'échelle à la perte de pp affectée par le mod [No Fail](/wiki/Game_modifier/No_Fail) basé sur le nombre de miss dans une partie.
 - Introduction d'un facteur d'échelle pour la perte de pp affectée par le mod [Spun Out](/wiki/Game_modifier/Spun_Out) basé sur le nombre de spinners dans une beatmap.
 - Ajuste le taux de perte de pp en cas de miss pour être plus indulgent sur les beatmaps plus longues avec un combo plus élevé.
-- Punir les parties à faible [précision](/wiki/Accuracy) avec moins de gain de pp.
+- Punir les parties à faible [précision](/wiki/Gameplay/Accuracy) avec moins de gain de pp.
 
 ppv2 est actuellement en service actif, avec des mises à jour en direct publiées dans son [changelog](https://osu.ppy.sh/p/changelog?category=pp).
 
@@ -62,7 +62,7 @@ En conséquence, des mods comme [Double Time](/wiki/Game_modifier/Double_Time) e
 
 ### Précision
 
-*Voir également : [Précision](/wiki/Accuracy)*
+*Voir également : [Précision](/wiki/Gameplay/Accuracy)*
 
 La *précision* est une mesure en pourcentage de la capacité d'un joueur à frapper les [objets](/wiki/Hit_object) à temps ; en ce qui concerne l'algorithme des pp, il s'agit également d'une valeur fondamentale utilisée pour évaluer la performance individuelle d'un joueur sur une beatmap.
 

@@ -141,7 +141,7 @@ Cada timing point influencia uma parte específica do mapa, comumente chamado de
 
 Timing points têm dois efeitos extras que podem ser habilitados utilizando bits 0 e 3 (do menos para mais significante) no inteiro `effects`:
 
-- 0: Se o [kiai time](/wiki/Beatmap_Editor/Kiai_Time) está ativado ou não
+- 0: Se o [kiai time](/wiki/Kiai_time) está ativado ou não
 - 3: Se a primeira barline é omitida no osu!taiko e osu!mania
 
 O resto dos bits não são utilizados.
@@ -351,7 +351,7 @@ O campo de jogo do osu!catch utiliza apenas o eixo x, então `y` é irrelevante.
 
 ### osu!mania
 
-Similar ao osu!catch, hit objects do osu!mania não utilizam `y`. `x` é utilizado para determinar a coluna; veja a [seção de holds](#Holds-(Apenas-osu!mania)).
+Similar ao osu!catch, hit objects do osu!mania não utilizam `y`. `x` é utilizado para determinar a coluna; veja a [seção de holds](#holds-(apenas-osu!mania)).
 
 - Hit circles se tornam notas normais.
 - Sliders e spinners não são utilizados no osu!mania.

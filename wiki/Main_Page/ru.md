@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 ---
 
 <div class="wiki-main-page__blurb">
@@ -131,7 +133,7 @@ osu! wiki, как и почти всё, связанное с игрой, нап
 
 [История osu!](/wiki/History_of_osu!) • [История osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [История развития моддинга и маппинга](/wiki/Mapping_and_Modding_Timeline) • [Первоапрельские шутки](/wiki/History_of_osu!/April_Fools)
 
-[Карта сайта](/wiki/Sitemap) • [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide) • [Критерии оформления статей](/wiki/Article_Styling_Criteria) • [Критерии оформления новостей](/wiki/News_Styling_Criteria)
+[Карта сайта](/wiki/Sitemap) • [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide) • [Критерии оформления статей](/wiki/Article_styling_criteria) • [Критерии оформления новостей](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

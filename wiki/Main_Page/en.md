@@ -100,7 +100,7 @@ Social interaction is one of main things that fuel osu! players all around the w
 
 [Tournaments](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](/wiki/Community_Mentorship_Program)
 
-[Projects](/wiki/Projects): [Featured Artists](/wiki/Featured_Artists) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
+[Projects](/wiki/Projects): [Featured Artists](/wiki/Featured_Artists) • [osu! community meetings](/wiki/osu!_Community_Meetings) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -133,7 +133,7 @@ Just as almost everything out here, the osu! wiki is written and maintained by v
 
 [History of osu!](/wiki/History_of_osu!) • [History of osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Mapping and modding timeline](/wiki/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
-[Sitemap](/wiki/Sitemap) • [Contribution guide](/wiki/osu!_wiki/Contribution_guide) • [Article styling criteria](/wiki/Article_Styling_Criteria) • [News styling criteria](/wiki/News_Styling_Criteria)
+[Sitemap](/wiki/Sitemap) • [Contribution guide](/wiki/osu!_wiki/Contribution_guide) • [Article styling criteria](/wiki/Article_styling_criteria) • [News styling criteria](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

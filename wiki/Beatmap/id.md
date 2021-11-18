@@ -6,7 +6,7 @@ tags:
 
 # Beatmap
 
-**Beatmap** (terkadang disebut sebagai *beatmapset*) adalah sebuah set yang memiliki level gim (atau [tingkat kesulitan](#difficulty)) yang terdiri dari berbagai [hit object](/wiki/Hit_object) yang hampir selalu mewakili suatu lagu. Selain mewakili suatu lagu, beatmap juga mencakup komponen lainnya, semua dikemas dalam bentuk arsip [berekstensi .osz](/wiki/osu!_File_Formats/Osz_(file_format)):
+**Beatmap** (terkadang disebut sebagai *beatmapset*) adalah sebuah set yang memiliki level gim (atau [tingkat kesulitan](#tingkat-kesulitan)) yang terdiri dari berbagai [hit object](/wiki/Hit_object) yang hampir selalu mewakili suatu lagu. Selain mewakili suatu lagu, beatmap juga mencakup komponen lainnya, semua dikemas dalam bentuk arsip [berekstensi .osz](/wiki/osu!_File_Formats/Osz_(file_format)):
 
 - berkas lagu itu sendiri, yang tersimpan dalam format MP3 atau Ogg.
 - [background/gambar latar belakang](/wiki/Beatmap/Background), atau sebuah video, yang berperan sebagai playfield.
@@ -47,13 +47,13 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}`
 Terdapat beberapa kategori pada beatmap yang telah diunggah, yang dapat berubah seiring berjalannya waktu:
 
 - [Graveyard](Category#graveyard)
-- [Work in Progress / Pending](Category#work-in-progress-and-pending)
+- [Work in Progress / Pending](Category#work-in-progress-dan-pending)
 - [Qualified](Category#qualified)
 - [Ranked](Category#ranked)
 - [Approved](Category#approved)
 - [Loved](Category#loved)
 
-Beberapa kategori mempunyai [kriteria submisi](/wiki/Ranking_Criteria) dan memungkinkan beatmap memiliki [papan peringkat](#leaderboards) sementara atau permanen. Cara untuk mendapatkan papan peringkat pada beatmap adalah melalui [prosedur beatmap ranking](/wiki/Beatmap_ranking_procedure), sedangkan opsi kedua adalah dengan menjadikan beatmap [loved](Category#loved).
+Beberapa kategori mempunyai [kriteria submisi](/wiki/Ranking_Criteria) dan memungkinkan beatmap memiliki [papan peringkat](#papan-peringkat) sementara atau permanen. Cara untuk mendapatkan papan peringkat pada beatmap adalah melalui [prosedur beatmap ranking](/wiki/Beatmap_ranking_procedure), sedangkan opsi kedua adalah dengan menjadikan beatmap [loved](Category#loved).
 
 ## Mengunduh beatmap
 

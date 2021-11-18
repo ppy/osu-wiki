@@ -47,17 +47,17 @@ Dans osu!mania, la précision est calculée d'une façon similaire que [osu!](#-
 
 Le graphique de performance est un tableau qui affiche la performance du joueur (basée sur sa barre de vie) au cours d'une partie. Des informations supplémentaires peuvent être affichées en passant le curseur du jeu dessus.
 
-*Remarque : les informations supplémentaires ne peuvent être consultées qu'après avoir joué une beatmap ou regardé un replay. Après avoir quitté l'[écran des résultats](/wiki/Interface#ranking-screen), ces informations ne seront pas sauvegardées.*
+*Remarque : les informations supplémentaires ne peuvent être consultées qu'après avoir joué une beatmap ou regardé un replay. Après avoir quitté l'[écran des résultats](/wiki/Interface#écran-des-résultats), ces informations ne seront pas sauvegardées.*
 
 ### Précision
 
 Lorsque l'on passe la souris sur le graphique de performance, une infobulle s'affiche avec une icône d'évaluation `Error` et `Unstable Rate`.
 
-En raison de la manière dont les mods [DT](/wiki/Game_modifier/Double_time) (Double Time) et [HT](/wiki/Game_modifier/Half_time) (Half Time) sont introduits, les valeurs d'erreur et de taux d'instabilité seront multipliées par le même facteur que la chanson. Pour obtenir les vraies valeurs en jouant avec le mod DT, divisez les résultats par 1,5. De même, multipliez les résultats par 1,33 lorsque vous jouez avec le mod HT.
+En raison de la manière dont les mods [DT](/wiki/Game_modifier/Double_Time) (Double Time) et [HT](/wiki/Game_modifier/Half_Time) (Half Time) sont introduits, les valeurs d'erreur et de taux d'instabilité seront multipliées par le même facteur que la chanson. Pour obtenir les vraies valeurs en jouant avec le mod DT, divisez les résultats par 1,5. De même, multipliez les résultats par 1,33 lorsque vous jouez avec le mod HT.
 
 #### Error
 
-La valeur `Error` affichera toujours deux valeurs qui représentent l'écart moyen entre les premières frappes et les dernières frappes. Plus la valeur de l'[Overall Difficulty](/wiki/Beatmapping/Overall_Difficulty) de la beatmap est élevée, plus les valeurs d'Error devront être faibles pour réussir la beatmap.
+La valeur `Error` affichera toujours deux valeurs qui représentent l'écart moyen entre les premières frappes et les dernières frappes. Plus la valeur de l'[Overall Difficulty](/wiki/Beatmapping/Overall_difficulty) de la beatmap est élevée, plus les valeurs d'Error devront être faibles pour réussir la beatmap.
 
 #### Unstable Rate
 

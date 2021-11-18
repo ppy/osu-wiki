@@ -478,7 +478,7 @@ Tuesday, 25 August 2020
 2. Participants **must** join the [Discord server](https://discord.gg/g3nqqeZ) for the duration of the tournament.
    - In order to join the tournament, users should type `?register` in any channel in the server, then click the link provided by the bot in PMs. 
 3. Excluding commentators and streamers, tournament staff cannot participate in the tournament.
-4. Upon the conclusion of registration period, the list of participants will be submitted to the osu! Support Team for screening. Participants that fail the screening procedure will not be able to participate in the tournament. Please refer to [here](/wiki/osu!tourney/Prizes#tournament-screening) for more information about tournament screening.
+4. Upon the conclusion of registration period, the list of participants will be submitted to the osu! Support Team for screening. Participants that fail the screening procedure will not be able to participate in the tournament. Please refer to [here](/wiki/Tournaments/Official_support#tournament-screening) for more information about tournament screening.
 5. All players eligible to participate in the tournament will be published after the Registration period ends.
 
 ### Stage instructions

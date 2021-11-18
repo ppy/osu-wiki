@@ -49,17 +49,17 @@ Nauwkeurigheid in osu!mania wordt op dezelfde manier berekend als in [osu!](#-os
 
 De prestatiegrafiek is een grafiek die de prestaties van een speler (gebaseerd op hun HP-balk) in de loop van het spel (tijd) weergeeft. Meer info kan worden getoond door de in-game cursor eroverheen te zetten.
 
-*Opmerking: Die extra informatie kan enkel bekeken worden nadat je een beatmap speelde of nadat je een geëxporteerde replay bekijkt. Wanneer je het [resultatenscherm](/wiki/results_screen) verlaat, zal deze informatie niet opgeslagen worden.*
+*Opmerking: Die extra informatie kan enkel bekeken worden nadat je een beatmap speelde of nadat je een geëxporteerde replay bekijkt. Wanneer je het [resultatenscherm](/wiki/Interface#results-screen) verlaat, zal deze informatie niet opgeslagen worden.*
 
 ### Nauwkeurigheid
 
 Wanneer je jouw muis op de prestatiegrafiek zet, wordt er een tooltip weergegeven met een *Error* en *Unstable Rate*.
 
-Door de manier waarop de [DT](/wiki/Game_modifier/Double_time) (Double Time) en [HT](/wiki/Game_modifier/Half_time) (Half Time) mods werden geïmplementeerd, zijn de error- en unstable rate-waarden vermenigvuldigd met dezelfde factor als het liedje. Deel die waarden door 1.5 om de werkelijke waarden te krijgen wanneer je DT speelt. Als je HT speelt moet je die waarden vermenigvuldigen met 1.33.
+Door de manier waarop de [DT](/wiki/Game_modifier/Double_Time) (Double Time) en [HT](/wiki/Game_modifier/Half_Time) (Half Time) mods werden geïmplementeerd, zijn de error- en unstable rate-waarden vermenigvuldigd met dezelfde factor als het liedje. Deel die waarden door 1.5 om de werkelijke waarden te krijgen wanneer je DT speelt. Als je HT speelt moet je die waarden vermenigvuldigen met 1.33.
 
 #### Error
 
-Error zal altijd twee waarden weergeven die aangeven hoe ver weg de vroege en de late hits gemiddeld waren. Hoe hoger de [Overall Difficulty](/wiki/Beatmapping/Overall_Difficulty)-waarde van een beatmap is, hoe lager de Error-waarden moeten zijn om het goed te doen in die beatmap speelt.
+Error zal altijd twee waarden weergeven die aangeven hoe ver weg de vroege en de late hits gemiddeld waren. Hoe hoger de [Overall Difficulty](/wiki/Beatmapping/Overall_difficulty)-waarde van een beatmap is, hoe lager de Error-waarden moeten zijn om het goed te doen in die beatmap speelt.
 
 #### Unstable rate
 

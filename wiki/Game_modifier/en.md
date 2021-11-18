@@ -20,7 +20,7 @@ tags:
 
 Players can access the `Mod Selection Screen` in the song selection screen by clicking the `Mods` button near the lower left corner of the screen or by pressing `F1` on their keyboard. Once in the `Mod Selection Screen`, there are also keyboard shortcuts that can be used to select specific mods. These shortcuts may be changed in the Options.
 
-On the selection screen, mods are separated into three categories: `Difficulty Reduction`, `Difficulty Increase`, and `Special`, and they can either reduce, increase, or remove the [`Score Multiplier`](/wiki/Score_multiplier). When two mods are being used simultaneously, the mods' respective multiplier will be multiplied together (e.g., `1.06x * 1.12x = 1.1872x`).
+On the selection screen, mods are separated into three categories: `Difficulty Reduction`, `Difficulty Increase`, and `Special`, and they can either reduce, increase, or remove the [`Score Multiplier`](/wiki/Game_modifier/Score_multiplier). When two mods are being used simultaneously, the mods' respective multiplier will be multiplied together (e.g., `1.06x * 1.12x = 1.1872x`).
 
 ## List of mods
 
@@ -63,7 +63,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 
 *Note: These mods were used and available some time ago, but are now unavailable.*
 
-- [10K](/wiki/Game_modifier/10k) ![][osu!mania]
+- [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 

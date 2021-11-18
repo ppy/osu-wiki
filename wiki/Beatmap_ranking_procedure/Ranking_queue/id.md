@@ -5,6 +5,7 @@ tags:
   - ranking ETA
   - antrian ranking
   - tahap kualifikasi
+no_native_review: true
 ---
 
 # Antrian ranking beatmap
@@ -13,4 +14,6 @@ tags:
 
 ## Proses diskualifikasi dan kualifikasi ulang (*re-qualification*)
 
-Pada saat suatu beatmap [didiskualifikasi](/wiki/Beatmap_ranking_procedure#nomination-resets), lama waktu yang telah dihabiskan oleh beatmap tersebut di dalam kategori Qualified serta posisinya di dalam antrian ranking yang ada akan secara otomatis dicatat oleh sistem. Apabila di kemudian waktu beatmap tersebut dikualifikasikan ulang (*re-qualified*), beatmap yang bersangkutan akan kembali memasuki antrian ranking beatmap pada posisinya terdahulu tanpa harus menunggu lagi dari awal antrian. Meskipun demikian, suatu beatmap harus menunggu setidaknya 24 jam sejak waktu kualifikasi terakhirnya untuk dapat berpindah dari Qualified ke Ranked demi mencegah terdapatnya hal-hal yang tidak diinginkan. 
+Pada saat suatu beatmap [didiskualifikasi](/wiki/Beatmap_ranking_procedure#nomination-resets), lama waktu yang telah dihabiskan oleh beatmap tersebut di dalam kategori Qualified serta posisinya di dalam antrian ranking yang ada akan secara otomatis dicatat oleh sistem. Apabila di kemudian waktu beatmap tersebut dikualifikasikan ulang (*re-qualified*), beatmap yang bersangkutan akan kembali memasuki antrian ranking beatmap pada posisinya terdahulu tanpa harus menunggu lagi dari awal antrian. 
+
+Meskipun demikian, suatu beatmap harus menunggu setidaknya 24 jam sejak waktu kualifikasi terakhirnya untuk dapat berpindah dari Qualified ke Ranked agar masalah-masalah lebih lanjut yang ditemukan pada beatmap yang bersangkutan (apabila ada) dapat ditangani sebagaimana mestinya.
