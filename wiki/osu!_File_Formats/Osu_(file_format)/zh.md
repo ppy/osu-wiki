@@ -12,8 +12,8 @@
 | :-- | :-- | :-- |
 | `[General]` | 谱面的一般信息 | `key: value` 键值对 |
 | `[Editor]` | 谱面编辑器的设置 | `key: value` 键值对 |
-| `[Metadata]` | 谱面[自身信息](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)的描述 | `key:value` 键值对 |
-| `[Difficulty]` | [难度设定](/wiki/Beatmap_Editor/Song_Setup#difficulty) | `key:value` 键值对 |
+| `[Metadata]` | 谱面[自身信息](/wiki/Beatmap_Editor/Song_Setup#歌曲信息设定与相关信息设定(song-and-map-meta-data))的描述 | `key:value` 键值对 |
+| `[Difficulty]` | [难度设定](/wiki/Beatmap_Editor/Song_Setup#谱面难度设定(Difficulty)) | `key:value` 键值对 |
 | `[Events]` | 专用于此谱面的故事板事件 | 逗号分隔值 |
 | `[TimingPoints]` | 时间点和控制点 | 逗号分隔值 |
 | `[Colours]` | 连击皮肤颜色 | `key : value` 键值对 |

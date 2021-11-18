@@ -27,7 +27,7 @@ Ya no es posible volver al antiguo sistema de modding. Los únicos beatmaps que 
 
 Presiona en el boton `Discusión` en la pagina de informacion del beatmap.
 
-![](img/info.jpg "Pagina de información del beatmap")
+![](img/beatmap-header.png "Pagina de información del beatmap")
 
 ### Mediante osu.ppy.sh
 
@@ -35,11 +35,11 @@ Presionando en `Modding/Discussion` en la pagina del beatmap te llevara a la pag
 
 ## Pagina de Discusión de Beatmaps
 
-![](img/beatmap-discussion.jpg "La parte superior de la pagina de Discusión de Beatmaps")
+![](img/discussions.jpg "La parte superior de la pagina de Discusión de Beatmaps")
 
 ### Seleccion de modalidad
 
-![](img/modes.jpg "Seleccion de modalidad")
+![](img/mode-selection.png "Seleccion de modalidad")
 
 Cambia el modo de juego entre osu!, osu!taiko, osu!catch y osu!mania. Solo puedes seleccionar cada modo de juego si el beatmapset tiene una dificultad con dicho modo de juego.
 
@@ -51,7 +51,7 @@ Al hacer clic en el artista/título del beatmap, volveras a la página de inform
 
 ### Estado de modificaciones
 
-![](img/modding-status.jpg "Para sus necesidades de clasificación")
+![](img/modding-tabs.jpg "Para sus necesidades de clasificación")
 
 Todas las modificaciones a continuación son para la dificultad seleccionada. Al hacer clic en cualquiera de estos, se mostrarán las modificaciones específicas en la línea de tiempo y en la sección de Discusión.
 
@@ -63,7 +63,7 @@ Todas las modificaciones a continuación son para la dificultad seleccionada. Al
 
 ### Modificación de la línea de tiempo
 
-![](img/timeline.jpg "Modificaciones enviadas, marcas de tiempo")
+![](img/visual-timeline.jpg "Modificaciones enviadas, marcas de tiempo")
 
 Esto muestra todas las modificaciones hechas para dicha dificultad que tiene una marca de tiempo. Al hacer clic en estas se desplazará hacia abajo hasta la modificacion publicada en esa marca de tiempo.
 
@@ -97,7 +97,7 @@ Una vez que un beatmap acumule al menos 5 puntos de Hype, el beatmap sera elegib
 
 ## Campo de envío de modificaciones
 
-![](img/mod-submission-field.jpg "El lugar donde sucede la magia del modding.")
+![](img/submission-field.jpg "El lugar donde sucede la magia del modding.")
 
 ### Sección de presentación de modificaciones
 
@@ -108,29 +108,27 @@ Esta es la sección del beatmap al que enviarás tus inquietudes.
 - `Linea de tiempo`: Problemas en ciertos puntos del beatmap. Debe contener una marca de tiempo. La mayoría de las modificaciones terminarán en esta sección.
 - `Historial`: Muestra cuando los problemas que fueron marcados como resueltos. Puedes hacer clic en cualquier problema para saltar a la publicación.
 
-![](img/history.jpg)
+![](img/sorting-options.jpg)
 
 ### Campo de Modding
 
-![](img/modding-field.jpg "Donde ocurre la magia del modding")
+![](img/modding-tabs.jpg "Donde ocurre la magia del modding")
 
 Aquí es donde escribes tu modificación. Si usa la sección de la Línea de tiempo, debe incluir una marca de tiempo en la publicación. La primera marca de tiempo que se colocará será la marca de tiempo que se muestra en la sección Discusión. Las secciones generales no requieren marcas de tiempo, pero pueden incluirlas.
 
 ### Advertencia de publicación similar
 
-![](img/similar-post-warning.jpg)
-
 Si tu marca de tiempo enviada a través de la sección Línea de tiempo está cerca de otra modificación ya publicada, deberá confirmar que la modificación no aborda el problema que está enviando actualmente. **¡Por favor revisa el campo de discusión antes de marcar la casilla!**
 
 ### Tipo de modificación
 
-![](img/mod-type.jpg)
+![](img/sorting-options.jpg)
 
 Aquí es donde envías tus modificaciones. Puede elegir entre `Elogios`, `Sugerencia` o `Problema`. Cada uno es bastante autoexplicativo. **Al hacer clic en esto, enviarás tu modificación. Si cometiste un error o necesitas hacer una edición de tu modificación, busca la publicación en la sección de Discusión.** Puede agregar hype al beatmap presentando elogios en la sección `General (Todas las Dificultades)`.
 
 ### Alfiler
 
-Al habilitar el alfiler, el [Campo de modding](#modding-field) se desplazará con usted, una vez que se haya desplazado hacia abajo más allá del Campo de modding.
+Al habilitar el alfiler, el [Campo de modding](#campo-de-modding) se desplazará con usted, una vez que se haya desplazado hacia abajo más allá del Campo de modding.
 
 ## Campo de discusión de modding
 
@@ -166,8 +164,6 @@ Hype se usa para ayudar a impulsar beatmaps a la nominación; similar a cómo la
 La nominación es similar al sistema de modding anterior. Un beatmap debe recibir 2 nominaciones de dos [Nominadores de Beatmap](/wiki/People/The_Team/Beatmap_Nominators) antes de pasar automáticamente a la etapa de calificación. Los beatmaps deben tener todas las sugerencias y problemas resueltos antes de que puedan clasificarse. BN/NAT puede restablecer las nominaciones publicando un problema en el campo de discusión.
 
 ### Kudosu!
-
-![](img/thumbs.jpg "Pulgares arribas por Kudosu!")
 
 Darle pulgar arriba a una sugerencia o problema en el campo de discusión le dará al modificador Kudosu!. La cantidad de votos recibidos determina cuánto Kudosu! el modder reciba. Cualquier usuario que no sea el publicador puede dar pulgar arriba cualquier publicación.
 

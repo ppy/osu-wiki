@@ -25,9 +25,9 @@ Vous devriez contacter cette équipe pour les sujets concernant votre compte qui
   - Les suppressions de contenu du profil;
   - Les suppressions de beatmaps;
   - Les suppressions de posts sur le forum et commentaires.
-- De la mauvaise conduite que vous [souhaitez avouer](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?).
-- [Perte d'accès à l'email](/wiki/Help_Centre/Installation_and_registration#sign-in) attaché à votre compte osu!, ou lorsque votre compte a été volé.
-- [Rétablissement d'anciens pseudos et corrections de fautes mineures dans votre pseudo](/wiki/Help_Centre/Account#name-changes).
+- De la mauvaise conduite que vous [souhaitez avouer](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#que-puis-je-faire-si-j'ai-enfreint-les-règles?).
+- [Perte d'accès à l'email](/wiki/Help_Centre/Installation_and_registration#inscription) attaché à votre compte osu!, ou lorsque votre compte a été volé.
+- [Rétablissement d'anciens pseudos et corrections de fautes mineures dans votre pseudo](/wiki/Help_Centre/Account#changements-de-nom).
 - [Inscriptions de comptes bot](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
@@ -37,9 +37,9 @@ Vous devriez contacter cette équipe pour les sujets concernant votre compte qui
 - Préoccupations concernant la mauvaise conduite d'un modérateur.
 - Préoccupations concernant un modérateur brisant [le Code de conduite du contributeur](/wiki/Contributor_Code_of_Conduct).
 - [Problèmes de paiement](/wiki/Help_Centre/Account#supporter) pour les commandes concernant l'[osu!store](https://osu.ppy.sh/store/listing).
-- Problèmes techniques n'ayant pas pu être résolus dans le [forum d'aide](https://osu.ppy.sh/community/forums/5), tels que les [problèmes de connectivité](/wiki/Help_Centre/Client#online-features).
+- Problèmes techniques n'ayant pas pu être résolus dans le [forum d'aide](https://osu.ppy.sh/community/forums/5), tels que les [problèmes de connectivité](/wiki/Help_Centre/Client#fonctions-en-ligne).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
-- [Demandes de données](/wiki/Legal/Privacy#data-controller) et problèmes de confidentialité.
-- [Requêtes de suppression de compte](/wiki/Legal/Privacy#your-rights-and-control) **permanente**.
+- [Demandes de données](/wiki/Legal/Privacy#contrôleur-des-données) et problèmes de confidentialité.
+- [Requêtes de suppression de compte](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle) **permanente**.
