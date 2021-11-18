@@ -1,7 +1,3 @@
----
-outdated: true
----
-
 # Regeln
 
 Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu! Community Spaß haben kann und eine freundliche Umgebung hat.
@@ -12,8 +8,9 @@ Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu! Comm
 2. **Spiele fair** Die Benutzung von Drittanbieter-Software jeglicher Art geht nicht in Ordnung. Dazu gehören Makros, Aim-Assits, Speedhacks etc. Sobald dir ein Programm dabei hilft, etwas zu tun, was du selbst tun musst ist es nicht okay.
 3. **Seid freundlich zueinander.** Die osu! Community bietet keinen Platz für Feindseligkeiten oder Belästigungen. Wir sind alle hier um Kreise zu klicken, Trommeln zu schlagen, Früchte zu fangen oder bis zu achtzehn Tasten gleichzeitig zu drücken - und nicht um Arschlöcher zueinander zu sein.
 4. **Sei kein Idiot.** Solltest du dir einmal unsicher sein, ob du gerade die Regeln brichst, dann tust du es wahrscheinlich gerade.
-5. **Personen aller Altersgruppen sind Teil dieser Community.** Das bedeutet, dass nicht jugendfreie Inhalte nicht willkommen sind. Darunter fallen unter anderem Themen zu Drogen oder sexueller Natur. Manchmal gibt es Ausnahmen, aber im Allgemeinen muss alles jugendfrei bleiben.
-6. **Wofür es keine Regeln gibt, gibt es den gesunden Menschenverstand.** Die Administratoren behalten sich das Recht vor, ihr Urteil nach eigenem Ermessen zu fällen.
+5. **Personen aller Altersgruppen sind Teil dieser Community.** Das bedeutet, dass nicht jugendfreie/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) Inhalte nicht willkommen sind. Darunter fallen unter anderem die Nutzung von Drogen oder Themen sexueller Natur.
+6. **Bleib sauber.** osu! ist nicht der Ort zum Daten oder Flirten. Verwendung sexueller Sprache, Bilder oder ungewollte Annäherungsveruche gegenüber anderen Mitgliedern der Community, ob öffentlich oder privat, sind NICHT in Ordnung. Solltest du dich jemals durch die Art, in der jemand zu dir spricht, unwohl fühlen [berichte uns dies im Vertrauen](/wiki/Reporting_Bad_Behaviour/Abuse), damit wir dir helfen können (und dabei potentiell andere davon abhalten, betroffen zu sein).
+7. **Wofür es keine Regeln gibt, gibt es den gesunden Menschenverstand.** Die Administratoren behalten sich das Recht vor, ihr Urteil nach eigenem Ermessen zu fällen.
 
 ## In-Game-Chatregeln
 
@@ -45,9 +42,10 @@ Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu! Comm
 
 Diese Regeln beziehen sich ausschließlich auf Beatmaps, die über das [Beatmap Submission System](/wiki/Submission) hochgeladen werden. Die Threads werden mithilfe des osu! Clienten erstellt, wenn du eine Beatmap mit dem [Editor](/wiki/Beatmap_Editor) hochlädst.
 
-1. **Stelle sicher, dass du die Berechtigung hast, jeden Inhalt in deiner Beatmap zu verwenden.** Das umschließt Lieder, Videos, Hitsounds, Bilder oder andere Inhalte, die nicht von dir direkt selbst erstellt wurden. Solltest du dir unsicher sein, wo du frei nutzbare Inhalte finden kannst, kannst du die Bibliothek von Liedern unserer [Featured Artists](https://osu.ppy.sh/beatmaps/artists/) durchsuchen. Damit bist du zu 100% auf der sicheren Seite.
-2. **Komm in Beatmap-Threads nicht vom Thema ab.** Die Threads und Diskussionen gelten der Beatmap und sonst nichts. Wenn du ein Problem mit etwas hast, was sich nicht direkt auf die Beatmap bezieht, dann veröffentliche es stattdessen im richtigen Forum.
+1. **Stelle sicher, dass du die Berechtigung hast, jeden Inhalt in deiner Beatmap zu verwenden.** Das umschließt Lieder, Videos, Hitsounds, Bilder oder andere Inhalte, die nicht von dir direkt selbst erstellt wurden. Solltest du dir unsicher sein, wo du frei nutzbare Inhalte finden kannst, kannst du die Bibliothek von Liedern unserer [Featured Artists](https://osu.ppy.sh/beatmaps/artists/) durchsuchen. Dort findest du Musik die zu 100% für die Benutzung in osu! lizensiert ist. Achte außerdem auf die [Regeln für die Inhaltsverwendung](Content_Usage_Guidelines).
+2. **Komm in [Beatmapdiskussionen](/wiki/Beatmap_Discussion) nicht vom Thema ab.** Die Threads und Diskussionen gelten der Beatmap und sonst nichts. Wenn du ein Problem mit etwas hast, was sich nicht direkt auf die Beatmap bezieht, dann veröffentliche es stattdessen im richtigen Forum.
 3. **Plagiiere oder stehle nicht die Arbeit anderer Nutzer.** Lade keine Inhalte anderer Nutzer ohne deren expliziten Erlaubnis hoch, einschließlich Skins und Guest Difficulties.
+4. **Folge den [Regeln für Liedinhalte](/wiki/Song_Content_Rules) und den [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_Content_Considerations).**
 
 ## Was passiert, wenn ich diese Regeln breche?
 
@@ -55,16 +53,16 @@ Solltest du dich nicht an die Regeln halten, passieren schlechte Dinge.
 
 Diese schlechten Dinge umfassen unter anderem (nicht nur):
 
-- Der zeitbegrenzte Ausschluss aus dem Chat im Spiel (auch bekannt als Silence).
+- Der zeitbegrenzte Ausschluss aus dem Chat im Spiel (auch bekannt als [Silence](/wiki/Silence)).
 - Das Entfernen der regelwidrigen Inhalte von deiner Userpage, deinem Profil oder deiner Beatmap.
 - Der Verlust deiner Privilegien, deine Userpage zu bearbeiten oder zu verändern.
 - Der Verlust deines Privilegs, an offiziellen Turnieren teilzunehmen.
 
-Silences und andere Maßnahmen gegen Verstöße nehmen **automatisch** exponentiell an Länge mit jedem Verstoß zu. Moderatoren kontrollieren nicht die Länge dieser Maßnahmen - zahlreiche Verstöße führen also zu immer längeren Strafen.
+[Silences](/wiki/Silence) und andere Maßnahmen gegen Verstöße nehmen **automatisch** exponentiell an Länge mit jedem Verstoß zu. Moderatoren kontrollieren nicht die Länge dieser Maßnahmen - zahlreiche Verstöße führen also zu immer längeren Strafen.
 
-Gewisse Verstöße haben eine Mindestdauer zufolge (meistens 48 Stunden oder mehr) - jedoch nur bei besonders schweren Verstößen, beispielsweise das Teilen expliziter Inhalte oder das unverschämte Belästigen anderer Nutzer.
+Gewisse Verstöße haben eine Mindestdauer zufolge (meistens 42 Stunden oder mehr) - jedoch nur bei besonders schweren Verstößen, beispielsweise das Teilen expliziter Inhalte oder das unverschämte Belästigen anderer Nutzer.
 
-Solltest du nach zahlreichen Verstößen weiterhin die Regeln brechen, kann dein Account permanent und unwiderruflich gesperrt werden.
+Solltest du nach zahlreichen Verstößen weiterhin die Regeln brechen, kann dein Account [permanent und unwiderruflich gesperrt werden](/wiki/Help_Centre/Account_Restrictions).
 
 Gesperrte Accounts können nicht online spielen, Scores erzielen, mit anderen Nutzern sprechen und sind im Großen und Ganzen von allen Interaktionen mit der Community 'gebannt'. Gesperrte Accounts können nur freigegeben werden, wenn nach 3 Monaten ein entsprechendes Gesuch beim Support eingereicht wird ([es können weitere Bedingungen aufgestellt werden](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
 
