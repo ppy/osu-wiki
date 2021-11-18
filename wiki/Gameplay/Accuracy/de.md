@@ -2,7 +2,7 @@
 
 <!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
 
-Die Genauigkeit ist ein Prozentwert für die Fertigkeit eines Spielers, [Trefferobjekte](/wiki/Hit_object) rechtzeitig zu treffen. Es gibt drei Arten von Genauigkeit, die ein Spieler haben kann: die Genauigkeit der Beatmap, die von den erzielten Trefferpunkten abhängt; die Gesamtgenauigkeit des Spielers, die gewichtet wird, damit bessere Leistungen stärker hervorstechen; und die [Performance Punkte (pp)](/wiki/Performance_points) Genauigkeit des Spielers, die von der Genauigkeit des erzielten Scores abhängig ist.
+Die Genauigkeit ist ein prozentualer Messwert für die Fertigkeit eines Spielers, [Hit-Objekte](/wiki/Hit_object) rechtzeitig zu treffen. Es gibt drei Arten von Genauigkeit, die ein Spieler haben kann: die Genauigkeit der Beatmap, die von den erzielten Trefferpunkten abhängt; die Gesamtgenauigkeit des Spielers, die gewichtet wird, damit bessere Leistungen stärker hervorstechen; und die [Performancepunkte (pp)](/wiki/Performance_points) Genauigkeit des Spielers, die von der Genauigkeit des erzielten Scores abhängig ist.
 
 ## Spielmodi
 
