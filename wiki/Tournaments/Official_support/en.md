@@ -7,7 +7,7 @@ The [osu! team](/wiki/People/The_Team) runs a program where they may opt to prov
 Officially supported tournaments have access to:
 
 - **Profile badge prizes for first-place winners**
-- Assessment for a main-menu banner during major matches (generally quarterfinals and above), subject to availability and criteria (see the [FAQ](#frequently-asked-questions-faq) section below)
+- Assessment for a main-menu banner during major matches (generally quarterfinals and above), subject to availability and criteria (see the [FAQ](#frequently-asked-questions) section below)
 - A listing in the [automatic tournament registrations system](https://osu.ppy.sh/community/tournaments)
 - A dedicated screening process to prevent players with serious integrity infringements (cheating, multiaccounting, tournament bans) from playing
 
