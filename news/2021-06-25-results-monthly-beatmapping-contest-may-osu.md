@@ -14,7 +14,7 @@ Need a refresher on the **Monthly Beatmapping Contest** (***MBC***)? The [MBC wi
 
 May's contest covered osu!, osu!taiko, and osu!mania, but **only osu!**'s results are being announced for now. The other two modes will be published a bit later, as explained in [the last MBC announcement](https://osu.ppy.sh/home/news/2021-06-07-monthly-beatmapping-contest-june-2021#schedule). Look out for that soon!
 
-| User | Placement | Badge prize | Title prize | [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#prizes) |
+| User | Placement | Badge prize | Title prize | [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) |
 | :-- | :-- | :-- | :-- | :-- |
 | [DeviousPanda](https://osu.ppy.sh/users/4966334) | Winner | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | 2 (⯅2) |
 | [kuyusu](https://osu.ppy.sh/users/11758667) | Runner-up + Screener's pick | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | 2 (⯅2) |

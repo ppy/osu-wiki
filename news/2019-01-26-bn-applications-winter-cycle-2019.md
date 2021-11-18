@@ -19,7 +19,7 @@ Experienced modders from **all game modes** may apply. You will have until **Jan
 - You must be familiar with the current modding environment and abide by the current [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 - You must be familiar with the [Ranking Criteria](/wiki/Ranking_Criteria) and apply it where necessary in your mods
 
-More information about activity requirements and the selection process can be found in the [Beatmap Nominators wiki article](/wiki/People/The_Team/Beatmap_Nominators#becoming-a-beatmap-nominator).
+More information about activity requirements and the selection process can be found in the [Becoming a Beatmap Nominator wiki article](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator).
 
 ---
 
