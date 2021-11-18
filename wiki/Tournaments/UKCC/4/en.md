@@ -607,7 +607,7 @@ See the [Group stage results sheet](https://docs.google.com/spreadsheets/d/e/2PA
 - This tournament will consist of up to 64 teams.
 - Matches will be **Team Vs**, with **ScoreV2** as the scoring system used.
 - To be able to participate, players must have an **![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag or be able to provide proof of residency to the hosts.**
-- All staff (apart from the Hosts, Mappool Selectors and Referees) are allowed to participate in the tournament.
+- All staff (apart from the hosts, mappool selectors and referees) are allowed to participate in the tournament.
 - All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the discord server or during matches (this includes homophobia, racism and toxicity) will result in a **ban** and will be **blacklisted** from participating from future UKCC tournaments.
 - ***Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.***
 - Players are strongly advised to join the public discord so that they are contactable by other players and staff. If a player can’t be contacted or is not responding to messages, through discord, ingame messages or forum pms, contact the staff.
@@ -627,7 +627,7 @@ See the [Group stage results sheet](https://docs.google.com/spreadsheets/d/e/2PA
 
 - Referees will create the lobby 10 minutes before the match is due to start.
 - If a team fails to show up at the time of the match starting, a 10 minute timer will be started.
-- If after the 10 minutes a team fails to show up, then the default win will go to the other player.
+- If after the 10 minutes a team fails to show up, then the default win will go to the other team.
 - When both teams are in the lobby and ready, the referee will ask the players to !roll. The order of picks of bans is decided using the [UKCC 4 roll system](https://i.imgur.com/S0VIvni.png).
 - There will be no warmups in the Group Stage. After this, warmup maps must be a submitted beatmap, and have a drain time of 4 minutes or less.
 - For warmups, **Head to Head** will be used. **Team Vs** will be used in the actual match.

@@ -4,7 +4,7 @@ outdated: true
 
 # Beatmaps
 
-Beatmaps são os "níveis" dos jogos no [osu!](/wiki/osu!_glossary), assim como os estágios nos [DS games](/wiki/iNiS_games). Basicamente, um beatmap tem uma música e vários [hit objects](/wiki/Hit_object) posicionados de acordo com o ritmo do som. Eles também podem ter uma imagem de fundo, vídeo ou [storyboard](/wiki/Storyboard).
+Beatmaps são os "níveis" dos jogos no [osu!](/wiki/Glossary), assim como os estágios nos [DS games](/wiki/iNiS_games). Basicamente, um beatmap tem uma música e vários [hit objects](/wiki/Hit_object) posicionados de acordo com o ritmo do som. Eles também podem ter uma imagem de fundo, vídeo ou [storyboard](/wiki/Storyboard).
 
 Beatmaps podem ser enviados pelo [BSS](/wiki/Submission) (Beatmap Submission System, ou Sistema de Submissão de Beatmaps), onde serão então avaliados através de um processo chamado [modding](/wiki/Modding). Isso é feito para que se mantenha um alto padrão de qualidade na jogabilidade.
 
@@ -12,7 +12,7 @@ Você pode encontrar beatmaps na [Listagem de Listing](https://osu.ppy.sh/beatma
 
 ## Status Ranqueados
 
-Para que sejam aprovados **e** ranqueados precisam da avaliação de dois [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Eles podem influenciar os status do perfil de um usuário, o que os diferencia de um beatmap [pendente](#pending) or [enterrado](#graveyard).
+Para que sejam aprovados **e** ranqueados precisam da avaliação de dois [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Eles podem influenciar os status do perfil de um usuário, o que os diferencia de um beatmap [pendente](#pendente) or [enterrado](#cemitério-(enterrados)).
 
 ### Ranqueados
 
@@ -36,7 +36,7 @@ Esses beatmaps estão no último passo dos processos de beatmapping e modding. A
 - Todas as pontuações serão excluídas assim que o status seja alterado.
   - Caso o status seja alterado para ranqueado, aprovado ou volte a ser pendente, todos as pontuações serão permanentemente descartadas!
 
-Quando um beatmap é qualificado, isso significa que ele conseguiu passar por todos os [critérios de ranqueamento](/wiki/Ranking_Criteria) e foi avaliado por dois [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Qualificação representa o último passo na linha de chegada, já que eles precisam estar pelo menos uma semana nesse estado para que se tornem [ranqueados](#ranked) or [aprovados](#approved) permanentemente.
+Quando um beatmap é qualificado, isso significa que ele conseguiu passar por todos os [critérios de ranqueamento](/wiki/Ranking_Criteria) e foi avaliado por dois [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Qualificação representa o último passo na linha de chegada, já que eles precisam estar pelo menos uma semana nesse estado para que se tornem [ranqueados](#ranqueados) or [aprovados](#aprovados) permanentemente.
 
 Durante a duração dessa semana, porém, é permitido que os [QATs](/wiki/Modding/Quality_Assurance_Team) escrevam os problemas com esses beatmaps. Caso isso aconteça, o status do beatmapset voltará a ser pendente e o processo volta ao começo.
 
@@ -59,9 +59,9 @@ Para tentar tornar um beatmap **Amado**, confira a postagem no fórum: [Get your
 
 Beatmaps pendentes aparecem com o ícone da interrogação (![Question mark icon](/wiki/shared/status/pending.png)) na tela de seleção de músicas.
 
-Um beatmap pendente geralmente está esperando pela etapa de [modding](/wiki/Modding). [Criadores](/wiki/Creators) devem procurar por [modders](/wiki/Modding/Modder) da comunidade e pelo menos dois [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) para tirar o beatmapset deles desse estado.
+Um beatmap pendente geralmente está esperando pela etapa de [modding](/wiki/Modding). Criadores devem procurar por [modders](/wiki/Modding/Modder) da comunidade e pelo menos dois [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) para tirar o beatmapset deles desse estado.
 
-Beatmaps inativos que estiverem nesse categoria por quatro semanas são automaticamente movidos para o status de [enterrado](#graveyard).
+Beatmaps inativos que estiverem nesse categoria por quatro semanas são automaticamente movidos para o status de [enterrado](#cemitério-(enterrados)).
 
 Beatmaps pendentes não afetam as estatísticas individuais do usuário.
 
@@ -69,7 +69,7 @@ Beatmaps pendentes não afetam as estatísticas individuais do usuário.
 
 Beatmaps enterrados aparecem com o ícone do cemitério (![Graveyard icon](/wiki/shared/status/graveyard.png)) na tela de seleção de músicas.
 
-Estes beatmaps estiveram inicialmente como [pendentes](#pending), mas não foram retirados desse estado porque não foram atualizados ou não houve postagens nos tópicos deles durante 4 semanas. Esses beatmaps não podem ser atualizados até que o [mapper](/wiki/Beatmapping) reviva-os clicando no link `Revive Beatmap` em seu perfil, sob a categoria `Beatmaps`.
+Estes beatmaps estiveram inicialmente como [pendentes](#pendente), mas não foram retirados desse estado porque não foram atualizados ou não houve postagens nos tópicos deles durante 4 semanas. Esses beatmaps não podem ser atualizados até que o mapper reviva-os clicando no link `Revive Beatmap` em seu perfil, sob a categoria `Beatmaps`.
 
 Beatmaps enterrados não afetam as estatísticas individuais do usuário.
 

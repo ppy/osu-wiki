@@ -2,7 +2,7 @@
 
 *[게임 모드](/wiki/Game_mode) 고유의 Ranking Criteria를 보려면, 다음을 참조하세요: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch)와 [osu!mania](osu!mania)*
 
-**Ranking criteria** 조항들은 [비트맵](/wiki/Beatmap)이 [비트맵 랭크 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 반드시 따라야 하는 [규칙과 가이드라인](#general-terms)입니다.
+**Ranking criteria** 조항들은 [비트맵](/wiki/Beatmap)이 [비트맵 랭크 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 반드시 따라야 하는 [규칙과 가이드라인](#일반-용-(general-terms))입니다.
 
 이 문서의 규칙과 가이드라인은 [Ranking Criteria 포럼](https://osu.ppy.sh/community/forums/87)에서 제안되고 토의됩니다. 이에 기여하고 싶다면 *[Ranking Criteria 변경을 제안하는 법](https://osu.ppy.sh/community/forums/topics/720532)* 을 참조하세요. 단, 이 문서의 언어, 문법, 구성에 대한 변경은 규칙과 가이드라인의 의미를 바꾸지 않는 이상은 포럼 글 작성을 생략해도 됩니다.
 
@@ -23,7 +23,7 @@
 - **배경/스토리보드/비디오 내용에는 부적절한 모습이 없어야 합니다.** 여기에는 나체, 준-나체, 성적 언급, 폭력, 약물 남용 등이 포함됩니다. 자세한 규칙은 [시각 콘텐츠 주의사항](/wiki/Rules/Visual_Content_Considerations)을 참조하세요.
 - **반복적인 스트로브와, 맥동하는 이미지, 또는 스토리보드나 비디오의 대조, 밝기 또는 색상의 급격한 변화를 포함하는 스토리보드나 비디오를 사용하는 비트맵은 광과민성 발작 경고(epilepsy warning)를 사용해야 합니다.** 경고가 게임 플레이를 방해할 경우 오디오 리드인(Audio lead-in)을 더 길게 해야 합니다. 3Hz 이하의 스트로브 효과는 문제를 일으킬 가능성이 없습니다. 확신이 없을 경우 경고를 추가한 뒤 이것이 꼭 필요한지 모딩 과정을 통해 확인받아주세요.
 - **비트맵의 폴더에 사용되지 않은 파일이나 0바이트 파일이 있어서는 안 됩니다.** 0바이트 파일은 비트맵 폴더의 다른 파일이 제대로 업로드되는 것을 방해합니다. 자동으로 생성되는 `thumbs.db` 파일은 유일한 예외로 둡니다.
-- **[브레이크(Breaks)](/wiki/Glossray#break)는 반드시 [비트맵 에디터](/wiki/Beatmap_Editor)의 제한 내에서 삽입되어야 합니다.**
+- **[브레이크(Breaks)](/wiki/Beatmap/Break)는 반드시 [비트맵 에디터](/wiki/Beatmap_Editor)의 제한 내에서 삽입되어야 합니다.**
 - **[난이도 세팅(Difficulty settings)](/wiki/Beatmap_Editor/Song_Setup#difficulty)은 절대로 [비트맵 에디터](/wiki/Beatmap_Editor)에서 가능한 이상의 소수점 아래 자릿수를 가져서는 안 됩니다.**
 - **`Letterbox during breaks` 세팅은 같은 모드의 난이도가 브레이크를 포함하고, 같은 스토리보드를 사용한다면 일관되게 적용되어야 합니다.**
 - **비트맵이 다른 매체에 대한 스포일러를 포함하고 있다면 비트맵 설명란에 스포일러 경고 표시가 필요합니다.**<!-- TODO: This and the following rule should be game features, not RC rules. Aside from being ineffective, it doesn't make sense for this to be included in RC because you can edit it after Ranked. -->

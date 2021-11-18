@@ -19,4 +19,4 @@ outdated: true
 - [Podziałka czasowa](Beat_Snap_Divisor)
 - [Odległość pomiędzy obiektami](Distance_Snap)
 - [Własne paczki dźwięków](/wiki/Guides/Custom_Sample_Overrides)
-- [Czas Kiai](Kiai_Time)
+- [Czas Kiai](/wiki/Kiai_time)
