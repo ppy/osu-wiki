@@ -31,7 +31,7 @@ In osu!taiko wird die Genauigkeit berechnet, indem man die Summe der Notengenaui
 
 ![Genauigkeit = (Anzahl der Droplets + Anzahl der Drops + Anzahl der Fruits) / (Anzahl der verfehlten Droplets + Anzahl der verfehlten Drops + Anzahl der verfehlten Fruits + Anzahl der Droplets + Anzahl der Drops + Anzahl der Fruits)](img/accuracy_catch.png "Genauigkeitsformel für osu!catch")
 
-In osu!catch wird die Genauigkeit berechnet, indem die Gesamtzahl der gesammelten Hit-Objekte, die keine Spinner sind, durch die Gesamtzahl der Objekte, die keine Spinner sind, geteilt wird. Alle Hit-Objekte haben den gleichen Wert, mit Ausnahme von Bananen, da diese Teil der Spinner-Objekte sind.
+In osu!catch wird die Genauigkeit berechnet, indem die Gesamtzahl der gesammelten Hit-Objekte, die keine Spinner sind, durch die Gesamtzahl der Objekte, die keine Spinner sind, geteilt wird. Alle Hit-Objekte haben den gleichen Wert, mit der Ausnahme von Bananen, da diese Teil der Spinner-Objekte sind.
 
 *Hinweis für API-Benutzer: Um die Genauigkeit in osu!catch zu berechnen, befindet sich die Anzahl der Tröpfchen unter `count50` und die Anzahl der fehlenden Tröpfchen unter `countkatu`.*
 
