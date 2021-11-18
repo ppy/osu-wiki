@@ -59,8 +59,6 @@ outdated: true
 
 ## Tela de Mods
 
-![Lista de mods](Soloplay8.png "Lista de mods")
-
 - **Q**: [Easy](/wiki/Game_modifier/Easy)
 - **W**: [No Fail](/wiki/Game_modifier/No_Fail)
 - **E**: [Half-Time](/wiki/Game_modifier/Half_Time)
@@ -94,8 +92,6 @@ outdated: true
 ### Atalhos do Teclado
 
 #### Geral
-
-![Painel de ajuda do editor (ativado ao pressionar H)](Edit_Help.jpg "Painel de ajuda do editor <ativado ao pressionar H>")
 
 - **H**: Ajuda (Contem todos os atalhos listados abaixo)
 

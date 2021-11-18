@@ -1,7 +1,5 @@
 # osu! skinning
 
-*See also: [Skinning osu! Tutorial](/wiki/Skinning/Guides_and_important_threads)*
-
 ## Comboburst
 
 `comboburst.png`

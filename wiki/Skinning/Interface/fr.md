@@ -1,6 +1,6 @@
 # Skinning de l'interface
 
-*Voir également : [Tutoriel sur le skinning de l'interface](/wiki/Skinning/Guides_and_important_threads) et [Interface](/wiki/Interface)*
+*Voir également : [Interface](/wiki/Interface)*
 
 Les éléments de skinning de l'interface sont utilisés dans plusieurs modes de jeu ou parties de l'interface utilisateur du client.
 
