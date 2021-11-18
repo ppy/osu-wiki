@@ -402,5 +402,5 @@ Beatmap:
 
 - Beatmap [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), yang termasuk pada Internet Pack (Volume 1), terkenal sebagai beatmap yang masuk kategori [Approved](wiki/Beatmap/Category#approved) meskipun beatmap itu hanya terdiri dari satu spinner. Meskipun beatmap tersebut [akhirnya dihilangkan dari beatmap listing Approved](https://osu.ppy.sh/community/forums/posts/149328), sisa dari beatmap tersebut tetap menjadi bagian the Internet Pack (Volume 1).
 
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
+[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
