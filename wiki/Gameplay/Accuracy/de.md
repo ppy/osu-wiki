@@ -33,7 +33,7 @@ In osu!taiko wird die Genauigkeit berechnet, indem man die Summe der Notengenaui
 
 In osu!catch wird die Genauigkeit berechnet, indem die Gesamtzahl der gesammelten Hit-Objekte, die keine Spinner sind, durch die Gesamtzahl der Objekte, die keine Spinner sind, geteilt wird. Alle Hit-Objekte haben den gleichen Wert, mit der Ausnahme von Bananen, da diese Teil der Spinner-Objekte sind.
 
-*Hinweis für API-Benutzer: Um die Genauigkeit in osu!catch zu berechnen, befindet sich die Anzahl der Tröpfchen unter `count50` und die Anzahl der fehlenden Tröpfchen unter `countkatu`.*
+*Hinweis für API-Benutzer: Um die Genauigkeit in osu!catch zu berechnen, befindet sich die Anzahl der Droplets unter `count50` und die Anzahl der fehlenden Droplets unter `countkatu`.*
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
