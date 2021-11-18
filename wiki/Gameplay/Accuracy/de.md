@@ -41,9 +41,9 @@ In osu!catch wird die Genauigkeit berechnet, indem die Gesamtzahl der gesammelte
 
 In osu!mania wird die Genauigkeit ähnlich wie bei [osu!](#-osu!) berechnet.
 
-## Leistungsgrafik
+## Leistungskurve
 
-![Leistungsgrafik](img/performance_graph.png "Leistungsgrafik")
+![Leistungskurve](img/performance_graph.png "Leistungskurve")
 
 Die Leistungskurve ist ein Diagramm, das die Leistung des Spielers (basierend auf seinem Lebensbalken) im Verlauf eines Spiels (Zeit) anzeigt. Zusätzliche Informationen können angezeigt werden, wenn man den Mauszeiger im Spiel darüber bewegt.
 
