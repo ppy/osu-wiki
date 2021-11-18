@@ -57,7 +57,7 @@ Aufgrund der Art und Weise, wie die Mods [DT](/wiki/Game_modifier/Double_Time) (
 
 #### Error
 
-`Error` zeigt immer zwei Werte an, die angeben, wie weit die frühen Treffer im Durchschnitt entfernt waren und wie weit die späten Treffer im Durchschnitt entfernt waren. Je höher der [Overall Difficulty](/wiki/Beatmapping/Overall_difficulty)-Wert der Beatmap ist, desto niedriger müssen die Fehlerwerte sein, um beim Spielen der Beatmap gut abzuschneiden.
+`Error` zeigt immer zwei Werte an, die angeben, wie weit die frühen Treffer und wie weit die späten Treffer im Durchschnitt entfernt waren. Je höher der [Overall-Difficulty](/wiki/Beatmapping/Overall_difficulty)-Wert der Beatmap ist, desto niedriger müssen die Fehlerwerte sein, um beim Spielen der Beatmap gut abzuschneiden.
 
 #### Unstable rate
 
