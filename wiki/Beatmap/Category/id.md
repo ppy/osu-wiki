@@ -9,20 +9,18 @@ outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 
 **Beatmap** merupakan istilah yang merujuk pada level-level permainan yang tersedia untuk dimainkan. Tiap-tiap berkas beatmap mengandung berbagai informasi yang terkait dengan aspek-aspek yang hadir di dalam permainan seperti [*hit object*](/wiki/Hit_object), [*timing*](/wiki/Beatmap_Editor/Timing), metadata, pengaturan tingkat kesulitan *(difficulty setting)*, efek-efek visual, dan lain sebagainya.
 
-Beatmap-beatmap yang dibuat untuk satu berkas lagu yang sama pada umumnya akan secara otomatis terkelompokkan ke dalam satu **[beatmapset](Beatmapsets)** utuh. Kamu dapat menjumpai beragam jenis beatmapset yang telah [diunggah ke situs osu!](/wiki/Submission) pada laman [daftar beatmap](https://osu.ppy.sh/beatmapsets), di mana pada masing-masing beatmapset tersebut kamu akan dihadapkan dengan satu atau lebih [tingkat kesulitan](/wiki/Beatmap/Difficulty) di dalamnya.
+Beatmap-beatmap yang dibuat untuk satu berkas lagu yang sama pada umumnya akan secara otomatis terkelompokkan ke dalam satu **[beatmapset](/wiki/Beatmap)** utuh. Kamu dapat menjumpai beragam jenis beatmapset yang telah [diunggah ke situs osu!](/wiki/Submission) pada laman [daftar beatmap](https://osu.ppy.sh/beatmapsets), di mana pada masing-masing beatmapset tersebut kamu akan dihadapkan dengan satu atau lebih [tingkat kesulitan](/wiki/Beatmap/Difficulty) di dalamnya.
 
 ## Status beatmap
 
 Beatmap-beatmap yang telah diunggah ke situs osu! terbagi ke dalam beberapa kategori status berdasarkan tingkat aktivitas, status nominasi, dan popularitas dari beatmap-beatmap yang bersangkutan sebagai berikut:
 
-- [Beatmap](#beatmap)
-  - [Status beatmap](#status-beatmap)
-    - [Graveyard](#graveyard)
-    - [Work in Progress dan Pending](#work-in-progress-dan-pending)
-    - [Qualified](#qualified)
-    - [Ranked](#ranked)
-    - [Approved](#approved)
-    - [Loved](#loved)
+- [Graveyard](#graveyard)
+- [Work in Progress dan Pending](#work-in-progress-dan-pending)
+- [Qualified](#qualified)
+- [Ranked](#ranked)
+- [Approved](#approved)
+- [Loved](#loved)
 
 ### Graveyard
 

@@ -72,7 +72,7 @@ Note: [멀티플레이](/wiki/Multi) 곡 선택 화면에서는 일부 키가 �
 - `F3`: 비트맵 옵션
 - `F5`: 비트맵 정보 재작성 (실행 전 확인 창이 표시됨)
 - `Shift` + `Delete`: 선택한 맵 삭제
-- `Ctrl` + `1`: [osu!](/wiki/Disambiguation/osu!) 모드로 전환
+- `Ctrl` + `1`: [osu!](/wiki/Game_mode/osu!) 모드로 전환
 - `Ctrl` + `2`: [osu!taiko](/wiki/Game_mode/osu!taiko) 모드로 전환
 - `Ctrl` + `3`: [osu!catch](/wiki/Game_mode/osu!catch) 모드로 전환
 - `Ctrl` + `4`: [osu!mania](/wiki/Game_mode/osu!mania) 모드로 전환

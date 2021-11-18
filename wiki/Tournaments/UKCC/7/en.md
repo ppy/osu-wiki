@@ -336,7 +336,7 @@ Sunday, 20 October 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Harpy** ![][flag_GB] | **6** | 4 | ![][flag_GB] AJT | [#1](https://osu.ppy.sh/community/matches/55693071) |
+| **Harpy** ![][flag_GB] | **6** | 4 | ![][flag_GB] hlo | [#1](https://osu.ppy.sh/community/matches/55693071) |
 
 Monday, 21 October 2019:
 
