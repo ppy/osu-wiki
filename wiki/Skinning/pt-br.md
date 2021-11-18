@@ -1,10 +1,10 @@
 # Skinning
 
-Skinning é um dos principais recursos do osu!. Possibilita os jogadores derivarem os elementos originais de skins para criar a sua própria! Skins podem variar desde temáticas, profissionais, quase impossível de usa-las ou apenas para diversão.
+Skinning é um dos principais recursos do osu!. Possibilita que os jogadores utilizem os elementos originais de skins para criar a sua própria! Skins podem variar desde temáticas, profissionais, quase impossível de usá-las ou apenas para diversão.
 
 ## Sets de skinning
 
-*Pagina Principal: [Lista de Sets de skinning](/wiki/Ranking_Criteria/Skin_Set_List)*
+*Página Principal: [Lista de Sets de skinning](/wiki/Ranking_Criteria/Skin_Set_List)*
 
 **Apenas para beatmaps,** se a skin do seu beatmap possui um único elemento dos sets listados no Ranking Criteria, ela deve conter todos os outros elementos do set referido. Isto é aplicado apenas para skins de beatmap, mas outros skinners talvez queiram considerar essas listas também.
 
