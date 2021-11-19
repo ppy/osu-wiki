@@ -32,7 +32,7 @@ ppv2 pada saat ini bersifat aktif dengan pembaruan yang dirilis di [changelognya
 
 Performance point memiliki tumpuan besar pada kalkulasi tingkat kesulitan suatu beatmap, di mana kalkulasi tersebut ditentukan oleh algoritma yang dibuat unik untuk masing-masing [game mode](/wiki/Game_mode).
 
-Tingkat kesulitan dari beatmap yang dimainkan menentukan jumlah akhir pp dari skor mereka. Secara matematis, rumus penghitungan pp memiliki empat nilai inti: **[aim](#aim)**, **[speed](#speed)**, **[akurasi](#accuracy)**, dan **[strain](#strain)**. Semuanya kemudian digabungkan dalam ukuran yang berbeda-beda untuk menghasilkan skor keseluruhan yang terkait dengan tingkat [kesulitan](/wiki/Beatmap/Difficulty) dan performa pemain dalam beatmap tersebut.
+Tingkat kesulitan dari beatmap yang dimainkan menentukan jumlah akhir pp dari skor mereka. Secara matematis, rumus penghitungan pp memiliki empat nilai inti: **[aim](#aim)**, **[speed](#speed)**, **[akurasi](#akurasi)**, dan **[strain](#strain)**. Semuanya kemudian digabungkan dalam ukuran yang berbeda-beda untuk menghasilkan skor keseluruhan yang terkait dengan tingkat [kesulitan](/wiki/Beatmap/Difficulty) dan performa pemain dalam beatmap tersebut.
 
 Setelah itu, skor "dibobotkan" satu sama lain untuk memastikan bahwa hanya skor-skor terbaik yang didapatkan pemain yang paling berpengaruh terhadap  ranking performance point mereka secara keseluruhan. Diketahui sebagai [*sistem pembobotan*](#sistem-pembobotan), sistem ini bertujuan untuk mencegah perolehan skor dengan pp kecil secara cepat dan berulang pada beatmap yang mudah dengan mengurangi jumlah pp yang sebenarnya diperoleh berdasarkan skor terbaik lainnya yang dimiliki pemain tersebut.
 
@@ -74,7 +74,7 @@ Skor dengan jumlah akurasi yang tinggi itu dipertimbangkan oleh algoritma terseb
 
 *Strain* adalah nilai inti yang mempertimbangkan berapa kali, dan untuk berapa lama, seorang pemain dikenakan bagian dengan intensitas tinggi dalam beatmap tertentu.
 
-Bagian dengan kecepatan sangat tinggi atau [pola](/wiki/Beatmap/Pattern) yang sangat sulit dalam suatu beatmap akan secara signifkan meningkatkan nilai strainnya. Sebagai contoh, beatmap dengan banyak [stream](/wiki/Beatmap/id/Pattern/Stream) atau bagian jump yang cepat akan mempunyai nilai strain yang tinggi, dan akibatnya meningkatkan jumlah pp yang diperoleh pada beatmap itu.
+Bagian dengan kecepatan sangat tinggi atau [pola](/wiki/Beatmap/Pattern) yang sangat sulit dalam suatu beatmap akan secara signifkan meningkatkan nilai strainnya. Sebagai contoh, beatmap dengan banyak [stream](/wiki/Beatmap/Pattern/Stream) atau bagian jump yang cepat akan mempunyai nilai strain yang tinggi, dan akibatnya meningkatkan jumlah pp yang diperoleh pada beatmap itu.
 
 <!-- consult reg contributors before moving FAQ to a new location-->
 

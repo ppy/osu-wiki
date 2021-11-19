@@ -12,7 +12,7 @@ tags:
 
 ![Icône du mod EZ](/wiki/shared/mods/EZ.png "Icône du mod Easy (EZ)")
 
-*Pour d'autres utilisations, voir [Easy (désambiguïsation)](/wiki/Disambiguïsation/Easy).*
+*Pour d'autres utilisations, voir [Easy (désambiguïsation)](/wiki/Disambiguation/Easy).*
 
 *Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*.
 
@@ -39,7 +39,7 @@ Cet événement de recharge sera signalé au joueur par le son "ready" (`readyso
 
 ### osu!
 
-Dans le mode [osu!](wiki/Game_Modes/osu!), le mod Easy diminue le [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), l'[approach rate (AR)](/wiki/Beatmapping/Approach_rate), l'[overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), et l'[HP drain (HP)](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) de moitié.
+Dans le mode [osu!](/wiki/Game_mode/osu!), le mod Easy diminue le [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), l'[approach rate (AR)](/wiki/Beatmapping/Approach_rate), l'[overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), et l'[HP drain (HP)](/wiki/Beatmap_Editor/Song_Setup#taux-de-drain-de-santé) de moitié.
 
 ![Gameplay du mod Easy dans osu!](img/EZ-comparison-osu.jpg "Comparaison entre un jeu normal (gauche) et un jeu avec le mod Easy activé (droite) dans osu!")
 

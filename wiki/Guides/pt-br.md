@@ -10,7 +10,7 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 
 *Página principal: [Beatmapping](/wiki/Beatmapping)*
 
-- [Adicionando Hitsounds Customizados](Adding_Custom_Hitsounds)
+- [Adicionando Hitsounds Customizados](Using_custom_hitsounds)
 - [Edição de Áudio](Audio_Editing)
 - [Mudando o Artista ou Título](Changing_the_Artist_or_Title)
 - [Mudando o texto do Título](/wiki/Beatmap/Title_Text#changing-title-text)
@@ -19,7 +19,7 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 - [Biblioteca de Hitsound Customizado](Custom_Hitsound_Library)
 - [Sobreposição de Amostra Customizado](Custom_Sample_Overrides)
 - [Como Fazer o Timing de Músicas](How_to_Time_Songs)
-- [Teoria Musical](Music_Theory)
+- [Teoria Musical](/wiki/Music_theory)
 - [Guia de Mapping de osu!mania](osu!mania_Mapping_Guide)
 - [Pondo o Offset na Batida Correta](Setting_the_Offset_on_the_Correct_Beat)
 - [Começando um Projeto de Beatmap](Starting_a_Beatmap_Project)
