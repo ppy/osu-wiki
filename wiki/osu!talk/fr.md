@@ -106,4 +106,4 @@ La série de podcasts est conçue de manière à ce que chacun soit libre de par
 ## Liens externes
 
 - [Chaîne YouTube officielle](https://www.youtube.com/user/osuacademy/videos)
-- [Sujet original](https://osu.ppy.sh/community/forums/Sujets/225111)
+- [Sujet original](https://osu.ppy.sh/community/forums/topics/225111)
