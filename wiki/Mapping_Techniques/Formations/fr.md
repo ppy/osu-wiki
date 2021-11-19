@@ -104,7 +104,7 @@ Une fois le "cercle" terminé, quelques autres cercles sont placés pour le trav
 
 Nominateur : QiiXshinez
 
-La **formation en diamant** est identique à la [formation en carrée](#formation-en-carrée) ou à la [formation en carrée v2](#formation-carrée-v2) mais utilise des losanges au lieu de carrés.
+La **formation en diamant** est identique à la [formation en carrée](#formation-en-carrée) ou à la [formation en carrée v2](#formation-en-carrée-v2) mais utilise des losanges au lieu de carrés.
 
 ### Double Stacks
 

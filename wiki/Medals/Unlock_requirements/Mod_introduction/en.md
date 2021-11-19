@@ -3,7 +3,7 @@
 | Medal name | Requirement |
 | :-- | :-- |
 | Finality | Clear a Qualified, Ranked, or Approved beatmap with the [Sudden Death](/wiki/Game_modifier/Sudden_Death) mod enabled. |
-| Perfectionist | Clear a Qualified, Ranked, or Approved beatmap with the [Perfect](wiki/Game_modifier/Perfect) mod enabled. |
+| Perfectionist | Clear a Qualified, Ranked, or Approved beatmap with the [Perfect](/wiki/Game_modifier/Perfect) mod enabled. |
 | Rock Around The Clock | Clear a Qualified, Ranked, or Approved beatmap with the [Hard Rock](/wiki/Game_modifier/Hard_Rock) mod enabled. |
 | Time And A Half | Clear a Qualified, Ranked, or Approved beatmap with the [Double Time](/wiki/Game_modifier/Double_Time) mod enabled. |
 | Sweet Rave Party | Clear a Qualified, Ranked, or Approved beatmap with the [Nightcore](/wiki/Game_modifier/Nightcore) mod enabled. |

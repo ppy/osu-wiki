@@ -2,7 +2,7 @@
 
 # osu! (mode permainan)
 
-*Untuk kegunaan lain, lihat [osu! (disambiguasi)](/wiki/Disambiguasi/osu!).*
+*Untuk kegunaan lain, lihat [osu! (disambiguasi)](/wiki/Disambiguation/osu!).*
 
 ![Tampilan antarmuka permainan osu!](/wiki/shared/osu-gameplay.jpg "Tampilan antarmuka permainan osu!")
 
