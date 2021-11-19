@@ -28,9 +28,9 @@ Pour créer une nouvelle configuration de tournoi, créez un nouveau répertoire
 Dans la configuration d'un tournoi, les actifs nécessaires peuvent être fournis pour afficher des drapeaux, des vidéos et des icônes de mods pour le mappool. Chaque catégorie d'actifs a son propre dossier : 
 
 - your-tournament
-    - flags
-    - mods
-    - videos
+  - flags
+  - mods
+  - videos
 
 ## Personnalisation
 

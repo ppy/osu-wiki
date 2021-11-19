@@ -2,7 +2,7 @@
 
 **Remarque :** Un supporter tag actif est requis pour utiliser le client osu!tourney.
 
-Il est recommandé d'utiliser une **nouvelle installation d'osu!**. La base de données Songs peut être corrompue. Vous pouvez avoir plusieurs installations d'osu!, gardez-les juste dans des dossiers séparés.  
+Il est recommandé d'utiliser une **nouvelle installation d'osu!**. La base de données Songs peut être corrompue. Vous pouvez avoir plusieurs installations d'osu!, gardez-les juste dans des dossiers séparés.
 Pour ce faire, copiez `osu!.exe` dans un dossier vide et lancez-le. Une nouvelle installation d'osu! sera créée. C'est la seule installation qui sera modifiée.
 
 Ouvrez osu! et authentifiez-vous, cochez les cases `Retenir le nom d'utilisateur` et `Retenir le mot de passe`.
