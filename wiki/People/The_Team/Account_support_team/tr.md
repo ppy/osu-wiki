@@ -41,5 +41,5 @@ Erişiminizin ötesindeki hesap ile ilişkili konular hakkında bu ekiple irtiba
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
-- [Veri talepleri](/wiki/Legal/Privacy#data-controller) veya gizlilik endişeleri.
-- **Kalıcı** [hesap kaldırma talepleri](/wiki/Legal/Privacy#your-rights-and-control).
+- [Veri talepleri](/wiki/Legal/Privacy#veri-sorumlusu) veya gizlilik endişeleri.
+- **Kalıcı** [hesap kaldırma talepleri](/wiki/Legal/Privacy#haklarınız-ve-kontrolünüz).
