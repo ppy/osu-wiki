@@ -15,4 +15,4 @@ stub: true
 3. 「[Kudosu](/wiki/Modding/Kudosu)」の別称。
    - これはビートマップのmodderに与えられるもので、ビートマップを他のものよりも高くするために使用することができる。
 4. 「[スタープライオリティ](/wiki/Modding/Star_priority)」の別称。
-   - この星は[osu!サポーター](/wiki/osu!support)に与えられ、[Feature Requests](https://osu.ppy.sh/community/forums/4)で使用されます。
+   - この星は[osu!サポーター](/wiki/osu!supporter)に与えられ、[Feature Requests](https://osu.ppy.sh/community/forums/4)で使用されます。

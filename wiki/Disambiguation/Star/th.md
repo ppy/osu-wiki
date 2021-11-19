@@ -17,4 +17,4 @@ outdated_since: f5a0dcb73f1d1cc3e45755f34468b203b9ad973c
 3. [Kudosu](/wiki/Modding/Kudosu)
    - ดาวที่ให้นักวิจารณ์บีทแมพ ซึ่งเอาดาวไปเพิ่มให้กับบีทแมพอื่นได้ (เพื่อให้อยู่หน้าแรก ๆ ของกระทู้)
 4. "[Star Priority](/wiki/Modding/Star_priority)" (แต้มระดับดาว)
-   - ดาวที่[ผู้สนับสนุน osu!](/wiki/osu!support)มี และใช้ในฟอรั่ม [Feature Requests](https://osu.ppy.sh/community/forums/4)
+   - ดาวที่[ผู้สนับสนุน osu!](/wiki/osu!supporter)มี และใช้ในฟอรั่ม [Feature Requests](https://osu.ppy.sh/community/forums/4)
