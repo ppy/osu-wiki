@@ -72,7 +72,7 @@ outdated: true
 - `F3`: Настройки карты
 - `F5`: Переиндексировать карты (может показать диалог)
 - `Shift` + `Delete`: Удалить выбранную карту
-- `Ctrl` + `1`: Переключиться в [osu!](/wiki/Disambiguation/osu!)
+- `Ctrl` + `1`: Переключиться в [osu!](/wiki/Game_mode/osu!)
 - `Ctrl` + `2`: Переключиться в [osu!taiko](/wiki/Game_mode/osu!taiko)
 - `Ctrl` + `3`: Переключиться в [osu!catch](/wiki/Game_mode/osu!catch)
 - `Ctrl` + `4`: Переключиться в [osu!mania](/wiki/Game_mode/osu!mania)

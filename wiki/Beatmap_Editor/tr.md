@@ -4,7 +4,7 @@
 
 ![A screenshot of the editor's compose tab showing pishifat's Donor Song beatmap](img/compose.jpg)
 
-*Beatmap düzenleyici kısayolları için, bakınız: [Kısayol referansı & Beatmap düzenleyici](/wiki/Shortcut_key_reference#beatmap-editor)*
+*Beatmap düzenleyici kısayolları için, bakınız: [Kısayol referansı & Beatmap düzenleyici](/wiki/Shortcut_key_reference#beatmap-düzenleyici)*
 
 **Beatmap düzenleyici** osu!'nun oyun içi [beatmap](/wiki/Beatmap) yapma bölümüdür. [Beatmapping](/wiki/Beatmapping) osu! için beatmap yapma işidir
 
@@ -38,7 +38,7 @@ Beatmap düzenleyicinin diğer kısımlarına şunlar dahildir:
 - [AiMod](AiMod): Bir beatmaptaki hataları otomatik olarak bildiren bir sistem
 - [Nota ızgara bölücü](Beat_Snap_Divisor): Zaman çizelgesine vuruşların nasıl yerleştirileceğine karar verir
 - [Mesafe aralığı](Distance_Snap): Objelerin ne kadar yakın ve ya uzak olduğunu ayarlayan çarpan
-- [Kiai zamanı](Kiai_Time): Beatmapin bir kısmını vurgulamak için kullanılan özel zamanlama kısmı
+- [Kiai zamanı](/wiki/Kiai_time): Beatmapin bir kısmını vurgulamak için kullanılan özel zamanlama kısmı
 - [Menü](Menu): Düzenleyicide gezinmenize yardımcı olur
 - [SB yükü](SB_Load): Storyboard'un ne kadar kaynak gerektirdiğini gösterir
 - [Zaman çizgileri](Timelines): Yerleştirilmiş objeleri, molaları ve daha fazlasını gösterir
