@@ -256,7 +256,7 @@ Pada layar Song Select, pastikan ikon yang muncul pada layar kiri atas telah ses
 
 ![](img/correct-map-status.png "Tampilan ikon *in-game* untuk beatmap Ranked")
 
-Kamu juga dapat mengecek apakah versi beatmap yang kamu hendak mainkan tepat atau tidak dengan menampilkan `Papan Peringkat Global` (*global leaderboard*). Apabila kamu menemui banyak beatmap milikmu yang versinya tidak tepat, cobalah untuk mereka ulang *database* lagu yang dimiliki osu! dengan mengikuti langkah-langkah yang tertera pada sub-bagian "[Sebagian beatmap yang saya miliki menghilang!](#sebagian-beatmap-yang-saya-miliki-menghilang)".
+Kamu juga dapat mengecek apakah versi beatmap yang kamu hendak mainkan tepat atau tidak dengan menampilkan `Papan Peringkat Global` (*global leaderboard*). Apabila kamu menemui banyak beatmap milikmu yang versinya tidak tepat, cobalah untuk mereka ulang *database* lagu yang dimiliki osu! dengan mengikuti langkah-langkah yang tertera pada sub-bagian "[Sebagian beatmap yang saya miliki menghilang!](#sebagian-beatmap-yang-saya-miliki-menghilang!)".
 
 #### Apakah *server* osu! sedang *online*?
 

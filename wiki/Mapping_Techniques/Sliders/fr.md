@@ -160,7 +160,7 @@ Les sliders ne sont pas nécessairement incurvés, ils peuvent au contraire form
 Nominateur : [GladiOol](https://osu.ppy.sh/users/23326)
 
 Les **switch-back sliders** sont constitués d'un slider d'un demi-temps incurvé.
-Il est ensuite copié-collé, tourné de 180 degrés et placé de manière à s'intégrer dans le slider précédent (comme dans le [etna slider](#etna-slider)).
+Il est ensuite copié-collé, tourné de 180 degrés et placé de manière à s'intégrer dans le slider précédent (comme dans le [etna slider](#etna-sliders)).
 Un cercle est alors placé à l'endroit où se trouvait la tête du slider précédent.
 
 ### Tick-Hitsounds

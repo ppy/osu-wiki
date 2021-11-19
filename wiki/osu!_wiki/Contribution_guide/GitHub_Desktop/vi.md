@@ -11,7 +11,7 @@ no_native_review: true
 1. Cài đặt [GitHub Desktop](https://desktop.github.com) nếu bạn chưa làm điều đó.
 2. Sau khi việc cài đặt hoàn tất, GitHub Desktop sẽ yêu cầu bạn đăng nhập, nhấn `Sign in to GitHub.com`.
 3. Điền các thông tin cần thiết khi được yêu cầu.
-4. Tiến đến phần [Nhân bản (Cloning)](#nhân-bản-cloning).
+4. Tiến đến phần [Nhân bản (Cloning)](#nhân-bản-(cloning)).
 
 ## Nhân bản (Cloning)
 
@@ -25,7 +25,7 @@ no_native_review: true
 
 4. Nhấn `Clone`. Có thể mất một khoảng thời gian tuỳ vào tình trạng Internet.
 
-5. Tiến đến phân nhánh [Phân nhánh (Branching)](#phân-nhánh-branching).
+5. Tiến đến phân nhánh [Phân nhánh (Branching)](#phân-nhánh-(branching)).
 
 ## Phân nhánh (Branching)
 

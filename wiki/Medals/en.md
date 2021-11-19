@@ -12,7 +12,7 @@ It is worth noting however that the contents of all the Video Game Packs, Anime 
 
 ## Skill
 
-**Skill medals** are medals awarded upon rounding off various skill-based accomplishments, be it by getting into certain [combo](/wiki/Beatmapping/Combo) milestones, by attaining certain ranks in the [global performance point leaderboard](https://osu.ppy.sh/rankings/osu/performance), or by achieving either a clear or a [full combo](/wiki/Full_combo) on any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap within some certain [star rating](/wiki/Beatmap/Difficulty#star-rating) ranges.
+**Skill medals** are medals awarded upon rounding off various skill-based accomplishments, be it by getting into certain [combo](/wiki/Beatmapping/Combo) milestones, by attaining certain ranks in the [global performance point leaderboard](https://osu.ppy.sh/rankings/osu/performance), or by achieving either a clear or a [full combo](/wiki/Full_combo) on any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap within some certain [star rating](/wiki/Beatmapping/Star_rating) ranges.
 
 ## Dedication
 
@@ -46,11 +46,11 @@ Although the Monthly Beatmap Spotlights have been discontinued as of April 2018 
 
 **Seasonal Spotlights medals** are medals awarded upon completion of certain beatmap packs released as part of the [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). In order to unlock the medals in this category, a player needs to play through all the maps *in any of the four gamemode packs* that are being contested on the corresponding Seasonal Spotlights ranking chart. The usage of either [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) or [difficulty increase mods](/wiki/Game_modifier#difficulty-increase) is permitted.
 
-Although the Seasonal Spotlights have been discontinued as of early 2020 in favor of the [current Beatmap Spotlights system](wiki/Beatmap_Spotlights), all of the medals pertinent to it are still able to be obtained to this day.
+Although the Seasonal Spotlights have been discontinued as of early 2020 in favor of the [current Beatmap Spotlights system](/wiki/Beatmap_Spotlights), all of the medals pertinent to it are still able to be obtained to this day.
 
 ## Beatmap Challenge Packs
 
-**Beatmap Challenge Packs medals**, or alternatively referred to as [*Skill Packs medals*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#pack-medal-updates), are medals awarded upon clearing the hardest difficulty present on all beatmaps featured in certain [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) or [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist) *without any [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) enabled*. These beatmap packs are specifically curated to test each player's comprehension of various gameplay aspects around a specific skill level, e.g. within a particular [star rating](/wiki/Beatmap/Difficulty#star-rating) or difficulty cap range.
+**Beatmap Challenge Packs medals**, or alternatively referred to as [*Skill Packs medals*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#pack-medal-updates), are medals awarded upon clearing the hardest difficulty present on all beatmaps featured in certain [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) or [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist) *without any [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) enabled*. These beatmap packs are specifically curated to test each player's comprehension of various gameplay aspects around a specific skill level, e.g. within a particular [star rating](/wiki/Beatmapping/Star_rating) or difficulty cap range.
 
 All beatmaps in the pack have to be cleared in the [osu!](/wiki/Game_mode/osu!) game mode in order to qualify for the badge unless otherwise specified.
 
