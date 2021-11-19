@@ -39,7 +39,7 @@ In osu!catch, accuracy is calculated by taking the total number of non-spinner h
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Accuracy formula for osu!mania")
 
-In osu!mania, accuracy is calculated similarly to [osu!](#-osu!).
+In osu!mania, accuracy is calculated similarly to [osu!](#osu!).
 
 ## Performance graph
 
@@ -47,7 +47,7 @@ In osu!mania, accuracy is calculated similarly to [osu!](#-osu!).
 
 The performance graph is a chart that displays the player's performance (based on their life bar) over the course of a play (time). Additional information can be shown when hovering the in-game cursor over it.
 
-*Note: The additional information can only be viewed after playing a beatmap or watching a replay. After exiting the [results screen](/wiki/Interface#ranking-screen), this information will not be saved.*
+*Note: The additional information can only be viewed after playing a beatmap or watching a replay. After exiting the [results screen](/wiki/Interface#results-screen), this information will not be saved.*
 
 ### Accuracy
 

@@ -79,7 +79,7 @@ Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 
 ### Juli
 
-- **2010-07-24:** Siklus pertama [Community Mentorship Program](/wiki/Community_Mentorship_Program#earlier-mentoring-programs) diluncurkan.
+- **2010-07-24:** Siklus pertama [Community Mentorship Program](/wiki/Community_Mentorship_Program#program-pendampingan-terdahulu) diluncurkan.
   - Para pengguna yang tertarik untuk memperdalam ilmu lebih jauh seputar mapping dan modding dapat mendaftarkan diri mereka masing-masing untuk mengikuti sesi bimbingan dari anggota-anggota MAT dan BAT yang berpartisipasi.
   - Program ini diberhentikan pada tahun 2013. <!-- https://osu.ppy.sh/community/forums/topics/34111 + https://osu.ppy.sh/community/forums/topics/34194 -->
 
@@ -332,7 +332,7 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
 ### September
 
 - **2017-09-10:** Proposal "[QAT Upheaval](https://osu.ppy.sh/community/forums/topics/635507)" disahkan dan diberlakukan. Proposal ini pada mulanya dicetuskan sebagai suatu bentuk aspirasi dari anggota-anggota komunitas yang merasa kurang puas dengan campur tangan [tim inti osu!](/wiki/People/The_Team) yang dinilai berlebihan di dalam lingkungan mapping dan modding. Setelah proposal ini diberlakukan, QAT mulai bergerak secara lebih mandiri tanpa adanya intervensi dari atas.
-  - Sistem [BN Tier](/wiki/Modding/Beatmap_Nominator_Tiers) diganti dengan sistem [Probationary Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominators). Anggota BN yang ditempatkan pada masa uji coba (*probation*) hanya dapat menominasikan suatu beatmap apabila nominasi lainnya berasal dari oleh anggota BN lainnya yang tidak ditempatkan pada masa uji coba.
+  - Sistem [BN Tier](/wiki/Modding/Beatmap_Nominator_Tiers) diganti dengan sistem [Probationary Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominator). Anggota BN yang ditempatkan pada masa uji coba (*probation*) hanya dapat menominasikan suatu beatmap apabila nominasi lainnya berasal dari oleh anggota BN lainnya yang tidak ditempatkan pada masa uji coba.
   - Anggota-anggota BN ditandai dengan nama pengguna yang berwarna ungu pada forum. 
   - ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) dan ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) ditunjuk sebagai [QAT leader](/wiki/Modding/QAT_Leaders) berdasarkan hasil pemungutan suara yang diikuti oleh seluruh anggota BN dan QAT. Mereka bekerja sama dengan tim inti osu! untuk memoderasi lingkungan mapping dan modding secara keseluruhan.
   - Anggota-anggota BN dan QAT yang telah menjabat dalam kurun-kurun waktu tertentu diberikan penghargaan berupa *profile badge* sesuai dengan besar kontribusinya masing-masing. Pengakuan balas jasa ini diberikan untuk meningkatkan motivasi BN dan QAT yang di kala itu sedang berada pada titik yang cukup rendah. <!-- https://osu.ppy.sh/community/forums/topics/635507 + https://osu.ppy.sh/community/forums/topics/640679 -->
@@ -380,7 +380,7 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### Juni
 
-- **2018-06-21:** Regu [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) dibentuk.
+- **2018-06-21:** Regu [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) dibentuk.
   - Regu ini dibentuk untuk memastikan setiap beatmap yang di-rank telah dikaji oleh minimal 2 orang BN/QAT.
   - Regu ini bekerja melalui situs Trello dengan dibantu oleh bot Aiess yang dibuat oleh ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817).
   - Keberadaan regu ini merupakan salah satu alasan di balik perubahan nama QAT menjadi NAT pada bulan Mei 2019 kelak. <!-- https://osu.ppy.sh/community/forums/topics/764134 + https://trello.com/b/iEsda45d/quality-assurance-helpers -->
@@ -454,7 +454,7 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
   - Hal ini merupakan salah satu poin yang diajukan pada proposal QAT Upheaval terdahulu. <!-- https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019 -->
 - **2020-02-21:**  NAT tidak lagi dipimpin secara terpusat setelah ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) mengundurkan diri sebagai NAT leader.
   - Hal-hal yang sebelumnya merupakan tanggung jawab NAT leader dibebankan secara merata kepada anggota-anggota NAT yang ada.
-- **2020-02-24:** Ruang kerja regu [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) dipindahkan dari Trello ke [situs web Beatmap Nominator](https://bn.mappersguild.com/).
+- **2020-02-24:** Ruang kerja regu [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) dipindahkan dari Trello ke [situs web Beatmap Nominator](https://bn.mappersguild.com/).
   - Pemindahan ini ditujukan agar aktivitas-aktivitas para BN yang terkait dengan regu Quality Assurance Helper dapat dijadikan bahan pertimbangan dalam proses evaluasi masing-masing anggota Beatmap Nominator ke depannya.
 
 ### April

@@ -10,7 +10,7 @@ no_native_review: true
 
 *メインページ: [ビートマッピング](/wiki/Beatmapping)*
 
-- [カスタムヒットサウンドの追加](Adding_Custom_Hitsounds)
+- [カスタムヒットサウンドの追加](Using_custom_hitsounds)
 - [オーディオ編集](Audio_Editing)
 - [アーティストまたはタイトルの変更](Changing_the_Artist_or_Title)
 - [タイトルテキストの変更](/wiki/Beatmap/Title_Text#changing-title-text)
@@ -19,7 +19,7 @@ no_native_review: true
 - [カスタムヒットサウンドライブラリ](Custom_Hitsound_Library)
 - [カスタムサンプルオーバーライド](Custom_Sample_Overrides)
 - [曲の時間を計る方法](How_to_Time_Songs)
-- [ミュージックセオリー](Music_Theory)
+- [ミュージックセオリー](/wiki/Music_theory)
 - [osu!mania マッピングガイド](osu!mania_Mapping_Guide)
 - [正しいビートのオフセットを設定](Setting_the_Offset_on_the_Correct_Beat)
 - [ビートマッププロジェクトの開始](Starting_a_Beatmap_Project)

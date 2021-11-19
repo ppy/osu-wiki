@@ -31,7 +31,7 @@ The **Taiko World Cup 2011** (***TWC 2011***) was a country-based osu!taiko tour
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 | *Special* | 1 month of osu!supporter |
 
-![](img/badge.jpg "TWC 2011 winner badge")
+![](img/badge.png "TWC 2011 winner badge")
 
 ## Organisation
 
