@@ -100,7 +100,7 @@ Passe deinen globalen Offset an, bis du glücklich damit bist. Die richtige Eins
 
 ### Raw Input
 
-*Siehe auch: [Optionen](/wiki/Options#mouse)*
+*Siehe auch: [Optionen](/wiki/Options#maus)*
 
 Ein meist übersehendes Feature ist "Raw Input". Raw Input erlaubt das direkte Einlesen deines Eingabegeräts in osu! selbst. Du kannst es auch verwenden, wenn es dir nicht gefällt, wie Windows mit deinem Mauszeiger umgeht, oder besonders dann, wenn du ein Tablet verwendest. Versuch es und spiele damit ein paar Beatmaps, vielleicht fühlst du dich sehr viel wohler damit.
 

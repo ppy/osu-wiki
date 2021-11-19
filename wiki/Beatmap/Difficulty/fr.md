@@ -17,7 +17,7 @@ tags:
 
 La **difficulté** d'une beatmap est un niveau de jeu, qui est stocké dans un fichier texte avec [l'extension `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Il est composé d'[objets](/wiki/Hit_object) d'un certain [mode de jeu](/wiki/Game_mode), qui sont configurés en fonction du [timing](/wiki/Beatmapping/Timing_section) adapté à une musique spécifique. Les difficultés présentent différents aspects, qui affectent directement l'expérience de l'utilisateur. Le nom de la difficulté et le [classement en étoiles](/wiki/Beatmapping/Star_rating) donnent généralement suffisamment d'informations pour déterminer le niveau de difficulté.
 
-Les objets d'une difficulté composent des [motifs](/wiki/Beatmap/Pattern), qui varient également selon le mode de jeu et donnent l'aspect général dont une difficulté doit être jouée. La jouabilité des difficultés d'une beatmap peut également être modifiée par divers [paramètres de difficulté](/wiki/Beatmap_Editor/Song_Setup#difficulty) définis par l'auteur de la beatmap ou activés par des [modificateurs de jeu](/wiki/Game_modifier).
+Les objets d'une difficulté composent des [motifs](/wiki/Beatmap/Pattern), qui varient également selon le mode de jeu et donnent l'aspect général dont une difficulté doit être jouée. La jouabilité des difficultés d'une beatmap peut également être modifiée par divers [paramètres de difficulté](/wiki/Beatmap_Editor/Song_Setup#difficulté) définis par l'auteur de la beatmap ou activés par des [modificateurs de jeu](/wiki/Game_modifier).
 
 Du point de vue auditif, une difficulté peut augmenter la musique en fournissant un ou plusieurs ensembles d'échantillons audio, ou [hitsounds](/wiki/Beatmapping/Hitsound), qui servent de couche supplémentaire.
 
