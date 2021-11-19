@@ -2,6 +2,8 @@
 tags:
   - Mapper's Guild
   - MG
+outdated: true
+outdated_since: 1e0790f39673fbd138af78b285f3f06a3e9e7ca0
 ---
 
 # 매퍼스 길드
@@ -16,7 +18,7 @@ tags:
 
 3개 이상의 랭크된 맵을 가지고 있는 매퍼들은 언제나 [매퍼스 길드 웹사이트](https://mappersguild.com/)에서 osu! 계정 인증을 통해 가입할 수 있습니다. 다른 사람들 역시 웹사이트의 퀘스트와 매핑 활동을 자유롭게 볼 수 있습니다.
 
-매퍼들은 매퍼스 길드와 연결된 피쳐드 아티스트 맵들의 랭크 과정에 참여함으로써 보상을 얻을 수 있습니다. 이는 주로 비트맵을 만드는 것에 집중되어 있지만, [모딩](/wiki/Modding), [스토리보드](/wiki/Storyboards) 제작, 그리고 길드 내의 퀘스트를 완료한 유저들에게도 보상이 제공됩니다.
+매퍼들은 매퍼스 길드와 연결된 피쳐드 아티스트 맵들의 랭크 과정에 참여함으로써 보상을 얻을 수 있습니다. 이는 주로 비트맵을 만드는 것에 집중되어 있지만, [모딩](/wiki/Modding), [스토리보드](/wiki/Storyboard) 제작, 그리고 길드 내의 퀘스트를 완료한 유저들에게도 보상이 제공됩니다.
 
 ### 파티
 
@@ -58,5 +60,5 @@ tags:
 
 [매퍼스 길드 웹사이트](https://mappersguild.com/)는 2019년 3월 1일에 공개되었으며, 매퍼스 길드에 관한 모든 것이 이 관리 하에 있습니다. 모두에게 공개된 이후, 길드는 500명이 넘는 멤버 수에 도달했으며, [후속 뉴스 글](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild)를 공개하며 그 밖의 osu! 커뮤니티에게도 피쳐드 아티스트 매핑 컨텐츠의 최신 정보를 제공하고 있습니다.
 
-[flag_CL]: /wiki/shared/flag/CL.gif "칠레"
-[flag_US]: /wiki/shared/flag/US.gif "대한민국"
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_US]: /wiki/shared/flag/US.gif

@@ -8,7 +8,7 @@ tags:
 
 ![o!cCC logo](img/logo.jpg)
 
-The **osu!catch Convert Cup** (***o!cCC***) was a 1v1 osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament included **osu! maps** only. It was the first installment of the osu!catch Convert Cup.
+The **osu!catch Convert Cup** (***o!cCC***) was a 1v1 osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament included **osu! maps** only. It was the first instalment of the osu!catch Convert Cup.
 
 ## Tournament schedule
 
@@ -28,9 +28,9 @@ The **osu!catch Convert Cup** (***o!cCC***) was a 1v1 osu!catch tournament hoste
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 6 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter |
 
 ![](img/badge.png "o!cCC winner badge")
 
@@ -52,10 +52,10 @@ The osu!catch Convert Cup was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/949495)
-- [o!cCC Discord server](https://discord.gg/CC5Grbr "Discord")
-- [Livestream](https://www.twitch.tv/osucatchconvertcup "Twitch")
-- [Challonge brackets](https://challonge.com/ocCC "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1YvW6RhsziixL9jfxzJm3JyKT2VoiKKBBPjH-SZOSucE "Google Sheets")**
+- [o!cCC Discord server](https://discord.gg/CC5Grbr)
+- [Livestream](https://www.twitch.tv/osucatchconvertcup)
+- [Challonge brackets](https://challonge.com/ocCC)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1YvW6RhsziixL9jfxzJm3JyKT2VoiKKBBPjH-SZOSucE)**
 
 ## Participants
 
@@ -82,7 +82,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was used in Finals and Grand Finals.**
 
-**[Download the mappack here! (116 MB)](https://mega.nz/#!FklExCpQ!eN4Avo5X-Keo5EggnA8O9Q63VpcC2DloSe0Akn9vw_8 "MEGA")**
+**[Download the mappack here! (116 MB)](https://mega.nz/#!FklExCpQ!eN4Avo5X-Keo5EggnA8O9Q63VpcC2DloSe0Akn9vw_8)**
 
 - NoMod
   - [The Wrecks - Favorite Liar (Kaifin) \[Valley\]](https://osu.ppy.sh/beatmapsets/520511#fruits/1105826)
@@ -111,7 +111,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (122 MB)](https://mega.nz/#!U1VVHYyQ!nt-ahH43zuIPYBYceOywAoSxTgrCbOBLtltoXZqzl-8 "MEGA")**
+**[Download the mappack here! (122 MB)](https://mega.nz/#!U1VVHYyQ!nt-ahH43zuIPYBYceOywAoSxTgrCbOBLtltoXZqzl-8)**
 
 - NoMod
   - [Gesu no Kiwami Otome. - Digital Mogura (dsco) \[Idealist\]](https://osu.ppy.sh/beatmapsets/737340#fruits/1556011)
@@ -140,7 +140,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (83 MB)](https://mega.nz/#!s5FBHARZ!MICMIq3Lz-mvfxAeprvTX5P8J7EhcwcAKIVbriZqQMQ "MEGA")**
+**[Download the mappack here! (83 MB)](https://mega.nz/#!s5FBHARZ!MICMIq3Lz-mvfxAeprvTX5P8J7EhcwcAKIVbriZqQMQ)**
 
 - NoMod
   - [Yu Tokiwa - Shounen Ripples (Sotarks) \[Vibes\]](https://osu.ppy.sh/beatmapsets/763619#fruits/1605598)
@@ -164,7 +164,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (99 MB)](https://mega.nz/#!JxtTjYxJ!6OYoraq-m-hCj2Rew7Gn15J_pjp-BMTHN3qB-fYqQZg "MEGA")**
+**[Download the mappack here! (99 MB)](https://mega.nz/#!JxtTjYxJ!6OYoraq-m-hCj2Rew7Gn15J_pjp-BMTHN3qB-fYqQZg)**
 
 - NoMod
   - [Shiggy Jr. - oyasumi (Yuuki-chan) \[residentsleeper\]](https://osu.ppy.sh/beatmapsets/691674#fruits/1463662)
@@ -188,7 +188,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (83 MB)](https://mega.nz/#!8kVg3QrC!gtqqHtYkvbXksiAuhJJOv_8eKcSqc3tbApL-EzaqvVc "MEGA")**
+**[Download the mappack here! (83 MB)](https://mega.nz/#!8kVg3QrC!gtqqHtYkvbXksiAuhJJOv_8eKcSqc3tbApL-EzaqvVc)**
 
 - NoMod
   - [Unlucky Morpheus - Phantom Blood (IsomirDiAngelo) \[Atalanta's Extra\]](https://osu.ppy.sh/beatmapsets/885158#fruits/2153771)
@@ -212,7 +212,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (25 MB)](https://mega.nz/#!sodzSKQJ!1_UNqV2Em-bnD1yK6aQWFqnYryLGiNtXXFxiA9_DXTc "MEGA")**
+**[Download the mappack here! (25 MB)](https://mega.nz/#!sodzSKQJ!1_UNqV2Em-bnD1yK6aQWFqnYryLGiNtXXFxiA9_DXTc)**
 
 - NoMod
   - [Laura Bodewig (CV : Inoue Marina) - SUPER STREAM (Akitoshi) \[Next Future\]](https://osu.ppy.sh/beatmapsets/1039295#fruits/2172460)
@@ -372,11 +372,11 @@ Sunday, 29 September 2019:
 11. Always remember that this is just a game. (e.g. behave yourself while the match is ongoing)
 12. If neither player shows up to a match, the winner will be decided by who has the best seeding.
 13. Any player no-showing Qualifiers without any explanation will get a 1-year ban from any Kasumii tournaments. Any player who no-shows twice in Bracket stage without any explanation will get a 2-years ban from any of Kasumii tournaments.
-    - Players currently on all running  blacklist can accesed via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_ZTkA7f3Z_ApxUPtHKkdXncl_RVLA3pwFFsx-Me1RmJ4QpqsoUii-veVw00XJDYtV1XfJEgy7wfw0/pubhtml "Google Sheets"). Any player potentially banned from my tournaments due to this will be put there.
+    - Players currently on all running  blacklist can accesed via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_ZTkA7f3Z_ApxUPtHKkdXncl_RVLA3pwFFsx-Me1RmJ4QpqsoUii-veVw00XJDYtV1XfJEgy7wfw0/pubhtml). Any player potentially banned from my tournaments due to this will be put there.
 
 ### Qualifiers details
 
-The Qualifiers is a stage purely meant for seeding purposes. It is much better than pp seeding for this kind of tournaments, for well, pretty obvious reasons. We could have also seeded via [PakaChan's pp convert leaderboards](https://pakachan.github.io/osustuff/ppconvert.html "Pakachan"), but that wouldn't work too well if we got 4 digits signing up to the tournament, as this only takes the top 1000 players. I don't want to take any risky steps, and therefore made it this way. The qualifier stage is pretty straight forward. Players will come into a lobby, play the entire mappool (which will have a much smaller format than usual, around 5-6 maps.) twice in their lobby, and then they're done. People you're in the same lobby with basically don't matter in the slightest, as your scores will be compared to every player in the tournament. Each player will be ranked by their score on each map, then we will do the average of all these ranks, and that will be the final ranking for the seedings of this tournament.
+The Qualifiers is a stage purely meant for seeding purposes. It is much better than pp seeding for this kind of tournaments, for well, pretty obvious reasons. We could have also seeded via [PakaChan's pp convert leaderboards](https://pakachan.github.io/osustuff/ppconvert.html), but that wouldn't work too well if we got 4 digits signing up to the tournament, as this only takes the top 1000 players. I don't want to take any risky steps, and therefore made it this way. The qualifier stage is pretty straight forward. Players will come into a lobby, play the entire mappool (which will have a much smaller format than usual, around 5-6 maps.) twice in their lobby, and then they're done. People you're in the same lobby with basically don't matter in the slightest, as your scores will be compared to every player in the tournament. Each player will be ranked by their score on each map, then we will do the average of all these ranks, and that will be the final ranking for the seedings of this tournament.
 
 ### Winning conditions
 

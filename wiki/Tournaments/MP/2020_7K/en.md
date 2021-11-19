@@ -10,7 +10,7 @@ tags:
 
 ![MP7K 2020 logo](img/logo.png)
 
-The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2020*) is a 1v1 osu!mania 7-key tournament made for osu! players living in Poland or of Polish heritage. It is the second installment of the Mistrzostwa Polski w 7K.
+The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2020*) is a 1v1 osu!mania 7-key tournament made for osu! players living in Poland or of Polish heritage. It is the second instalment of the Mistrzostwa Polski w 7K.
 
 ## Tournament schedule
 
@@ -19,7 +19,7 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 | Registration phase | 2020-10-12/2020-10-25 |
 | Qualifiers showcase | 2020-11-01 |
 | Qualifiers | 2020-11-06/2020-11-08 |
-| Group Stage | 2020-11-14/2020-11-15 |
+| Group stage | 2020-11-14/2020-11-15 |
 | Round of 16 | 2020-11-21/2020-11-22 |
 | Quarterfinals | 2020-11-28/2020-11-29 |
 | Semifinals | 2020-12-05/2020-12-06 |
@@ -48,12 +48,10 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1160806)
-- [Livestream](https://www.twitch.tv/polishosumania "Twitch")
-- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv "Discord")
+- [Livestream](https://www.twitch.tv/polishosumania)
+- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv)
 
 ## Participants
-
-### Qualified participants
 
 | Seed | Users |
 | :-- | :-- |
@@ -61,7 +59,7 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 | Mid (#9 - #16) | ![][flag_PL] [paprotkaaaaa](https://osu.ppy.sh/users/6034749), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Shadow Cultist](https://osu.ppy.sh/users/3827078), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [M1si3k](https://osu.ppy.sh/users/7447943), ![][flag_PL] [Hentu](https://osu.ppy.sh/users/7706642), ![][flag_PL] [szuncoll](https://osu.ppy.sh/users/12393014), ![][flag_PL] [Modren](https://osu.ppy.sh/users/1828621) |
 | Low (#17 - #24) | ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [Bersis](https://osu.ppy.sh/users/3557582), ![][flag_PL] [Matie](https://osu.ppy.sh/users/10144756), ![][flag_PL] [Moskas](https://osu.ppy.sh/users/1934077), ![][flag_PL] [Ilikecook](https://osu.ppy.sh/users/11389137), ![][flag_PL] [vipera767](https://osu.ppy.sh/users/4258883), ![][flag_PL] [Bobini-](https://osu.ppy.sh/users/7352299), ![][flag_PL] [LosDaniel](https://osu.ppy.sh/users/6105427) |
 
-### Groups
+## Groups
 
 | Group | High | Mid | Low |
 | :-: | :-- | :-- | :-- |
@@ -76,7 +74,7 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 
 ## Match schedule: Round of 16
 
-Round of 16 schedule can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSI38OTqk6QlqVJ7ww16TzawYt3B9jfpy2JDP3AEZM8d8tcy1WU13EMMOG8FK9dKOyywrTeBy7SOyxc/pubhtml "Google Sheets").
+Round of 16 schedule can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSI38OTqk6QlqVJ7ww16TzawYt3B9jfpy2JDP3AEZM8d8tcy1WU13EMMOG8FK9dKOyywrTeBy7SOyxc/pubhtml).
 
 ## Mappools
 
@@ -97,7 +95,7 @@ Round of 16 schedule can be found in [this spreadsheet](https://docs.google.com/
 - Tiebreaker
   - **[mafumafu - I wanna be a girl (Kawawa) \[Cinderella\]](https://osu.ppy.sh/beatmapsets/1111963#mania/2323202)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [u's - Bokura wa Ima no Naka de(TV Size) (arcwinolivirus) \[Normal\]](https://osu.ppy.sh/beatmapsets/569665#mania/1207647)
@@ -122,7 +120,7 @@ Round of 16 schedule can be found in [this spreadsheet](https://docs.google.com/
 
 ## Match results
 
-### Group Stage
+### Group stage
 
 Saturday, 14 November 2020:
 
@@ -160,7 +158,7 @@ Sunday, 15 November 2020:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4DrJH1ut5nwkm8Df6MIwzpekAVhp0hg1uIe1ytQJdPDaFkjKzYJFxzDEQuyOE0fVpqFvLZdZ5ra8W/pubhtml "Google Sheets").
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4DrJH1ut5nwkm8Df6MIwzpekAVhp0hg1uIe1ytQJdPDaFkjKzYJFxzDEQuyOE0fVpqFvLZdZ5ra8W/pubhtml).
 
 ## Ruleset
 
@@ -245,7 +243,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 - In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This rule is enforced within Group Stage of the tournament.
 
-#### Bans, protected picks, rolls and song selection
+#### Bans, protected picks, rolls, and song selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Mirror, Hidden, Fade In, or Flashlight can be used. Protected maps and bans are hidden.
 - Players are to choose one (1) protected map within the map pool which they want to keep not bannable (from their opponent). They must inform the match referee in a private message of which map they choose to protect. If the player does not inform the match referee of their desired map choice in 60 seconds, the player will lose an opportunity to choose a protected map.

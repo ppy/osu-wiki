@@ -12,7 +12,7 @@ tags:
 
 ![CCV logo](img/logo.png)
 
-The **Corgi Cup V** (***CCV***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), and ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710). It was the fifth installment of the Corgi Cup.
+The **Corgi Cup V** (***CCV***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), and ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710). It was the fifth instalment of the Corgi Cup.
 
 ## Tournament schedule
 
@@ -39,7 +39,7 @@ The **Corgi Cup V** (***CCV***) was a 1v1 double-elimination osu! tournament hos
 
 ## Organisation
 
-Corgi Cup V was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+Corgi Cup V was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -52,10 +52,10 @@ Corgi Cup V was run by various community members by distributing the multitude o
 
 ## Links
 
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1kePYT2Ns7Hcp5xxPxzamYpR8IBkUzZm0o_USfN51eOE/edit?usp=sharing "Google Sheets")
-- [Livestream](https://twitch.tv/Doomsday "Twitch")
-- [Challonge](https://challonge.com/pv3lu3yn "Challonge")
-- [Discord](https://discord.gg/doomscord "Discord")
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1kePYT2Ns7Hcp5xxPxzamYpR8IBkUzZm0o_USfN51eOE/edit?usp=sharing)
+- [Livestream](https://twitch.tv/Doomsday)
+- [Challonge](https://challonge.com/pv3lu3yn)
+- [Discord](https://discord.gg/doomscord)
 
 ## Participants
 

@@ -13,7 +13,7 @@ tags:
 
 *Kimlerin terfi ettiğini veya emekliye ayrıldığını öğrenmek için, buraya bakın: [Personel Kayıtları](/wiki/Staff_Log)*
 
-Aşağıdaki listelenen kişiler **osu!team** çekirdek kadrosunu oluşturmakta, ve oyunu herkes için harika hale getirmekten sorumludur.
+Aşağıdaki listelenen kişiler osu! ekibinin çekirdek kadrosunu oluşturmakta, ve oyunu herkes için harika hale getirmekten sorumludur.
 
 | İsim | Rol Tanımı |
 | :-- | :-- |

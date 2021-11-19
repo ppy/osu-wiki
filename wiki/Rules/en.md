@@ -41,7 +41,7 @@ These rules are the basis from which we help keep the osu! community a fun and w
 These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Submission). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/Beatmap_Editor).
 
 1. **Make sure you have permission to use any content involved in your beatmap.** This includes songs, videos, hitsounds, graphics, and any other content that isn't your own creation. If you are unsure of where to find content that is free to use, check out our growing [Featured Artist](https://osu.ppy.sh/beatmaps/artists) library for music 100% licensed for use in osu! and the [Content Usage Guidelines](Content_Usage_Guidelines) for more information.
-2. **Stay on topic in Beatmap discussions.** These threads/discussions are about the beatmap in question, and nothing else. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
+2. **Stay on topic in [beatmap discussions](/wiki/Beatmap_Discussion).** These threads/discussions are about the beatmap in question, and nothing else. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
 3. **Do not plagiarise or attempt to steal the work of others.** Do not also upload or use other people's work without their explicit permission (including, but not limited to, skins and guest difficulties).
 4. **Follow the [Song Content Rules](Song_Content_Rules) and [Visual Content Considerations](Visual_Content_Considerations).**
 
@@ -51,16 +51,16 @@ If you do find yourself on the wrong end of our community rules, bad things will
 
 These bad things may include (*but are not limited to*):
 
-- The removal of your ability to chat in-game for a period of time (known as a silence).
+- The removal of your ability to chat in-game for a period of time (known as a [silence](/wiki/Silence)).
 - The removal of any infringing content from your userpage, profile or uploaded beatmaps.
 - The loss of the privilege to edit or alter your userpage or profile details.
 - The loss of the privilege to play or qualify in officially hosted tournaments.
 
-Silences and other infringements **automatically** increase in duration near-exponentially with each infringement. Moderators do not control the length of time you are silenced for an offense - repeat offenders will find themselves locked out of the game for increasingly longer periods of time.
+[Silences](/wiki/Silence) and other infringements **automatically** increase in duration near-exponentially with each infringement. Moderators do not control the length of time you are silenced for an offense - repeat offenders will find themselves locked out of the game for increasingly longer periods of time.
 
-Certain offenses carry a minimum duration (usually 48 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
+Certain offenses carry a minimum duration (usually 42 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
 
-If after several infringements you continue to break the rules, your account may be permanently and irrevocably restricted.
+If after several infringements you continue to break the rules, your account may be [permanently and irrevocably restricted](/wiki/Help_Centre/Account_Restrictions).
 
 Restricted accounts cannot play online, set scores, chat with other users and are for all intents and purposes "banned" from interaction with the community. Restriction for community rule violation can only be removed upon appeal to the support staff after 3 months have passed ([more conditions may apply](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
 

@@ -10,11 +10,11 @@ tags:
 
 **Judul teks** muncul pada posisi tengah-atas pada layar ketika bermain sebuah beatmap. Kebanyakan, yang muncul adalah nama artis dan judul musiknya pada saat awal ketika bermain, tapi pembuat map dapat mengganti judulnya semau mereka. Mereka juga dapat mengganti format teks dan kapan akan dimunculkan pada layar.
 
-Jika pembuat map menggunakannya dengan benar, judul teks dapat ditambahkan dengan efek bagus ke dalam map. Ini adalah alat yang sangat berguna untuk pembuat map yang sedang membuat [storyboards](/wiki/Storyboards), karena mungkin mereka ingin membuat map mereka menjadi lebih bagus dan sehalus mungkin selama bermain. Beberapa contoh map yang bagus dengan menggunakan kustom judul teks daapt ditemukan di [Noisestorm - Solar](https://osu.ppy.sh/beatmapsets/33483), [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein](https://osu.ppy.sh/beatmapsets/1391) dan [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix-](https://osu.ppy.sh/beatmapsets/57560).
+Jika pembuat map menggunakannya dengan benar, judul teks dapat ditambahkan dengan efek bagus ke dalam map. Ini adalah alat yang sangat berguna untuk pembuat map yang sedang membuat [storyboards](/wiki/Storyboard), karena mungkin mereka ingin membuat map mereka menjadi lebih bagus dan sehalus mungkin selama bermain. Beberapa contoh map yang bagus dengan menggunakan kustom judul teks daapt ditemukan di [Noisestorm - Solar](https://osu.ppy.sh/beatmapsets/33483), [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein](https://osu.ppy.sh/beatmapsets/1391) dan [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix-](https://osu.ppy.sh/beatmapsets/57560).
 
 ## Mengganti judul teks
 
-Hanya anggota dari [NAT](/wiki/People/Nomination_Assessment_Team) dan situs admin dapat merubah judul teks dari sebuah beatmap;  ini adalah pengaturan online yang tidak dapat ditemukan di dalam file lokal beatmap. Jika kamu ingin merubah judul map kamu, kamu dapat menghubungi orang diatas untuk merubahnya.
+Hanya anggota dari [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) dan situs admin dapat merubah judul teks dari sebuah beatmap;  ini adalah pengaturan online yang tidak dapat ditemukan di dalam file lokal beatmap. Jika kamu ingin merubah judul map kamu, kamu dapat menghubungi orang diatas untuk merubahnya.
 
 Ketika kamu menghubungi orang diatas, kamu harus memberikan string untuk mendeskripsikan konten dan format judul teks. osu! membutuhkan string ini agar bisa dituliskan dengan cara tertentu, seperti yang ditentukan di bagian berikut.
 

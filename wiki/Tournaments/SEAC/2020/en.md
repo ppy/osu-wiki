@@ -8,7 +8,7 @@ tags:
 
 ![SEAC logo](img/logo.gif)
 
-The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) was a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388). The tournament was restricted to South East Asian countries only. It was the third installment of the osu!mania South East Asia Champion.
+The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) was a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388). The tournament was restricted to South East Asian countries only. It was the third instalment of the osu!mania South East Asia Champion.
 
 ## Tournament schedule
 
@@ -28,9 +28,9 @@ The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) was a double-e
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge.jpg "SEAC 2020 winner badge")
 
@@ -56,15 +56,15 @@ The osu!mania South East Asia Champion 2020 was run by various community members
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1182599)
-- [SEAC Discord server](https://discord.gg/98XWScA "Discord")
+- [SEAC Discord server](https://discord.gg/98XWScA)
 - Livestream
-  - [Main](https://www.twitch.tv/seachampions_mania "Twitch")
-  - [Alternate](https://www.twitch.tv/seachampions "Twitch")
+  - [Main](https://www.twitch.tv/seachampions_mania)
+  - [Alternate](https://www.twitch.tv/seachampions)
     - *Note: The second channel's purpose is to stream other match if there are more than one match happening at the same time.*
-- [Challonge bracket](https://challonge.com/seac2020 "Challonge")
+- [Challonge bracket](https://challonge.com/seac2020)
 - Spreadsheet
-  - **[Main](https://docs.google.com/spreadsheets/d/12U61DklLvi_w9Tani-nw7ui7a-F9alhbX_g8HbnRUYc/edit?usp=sharing "Google Sheets")**
-  - [Statistics](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit?usp=drivesdk "Google Sheets")
+  - **[Main](https://docs.google.com/spreadsheets/d/12U61DklLvi_w9Tani-nw7ui7a-F9alhbX_g8HbnRUYc/edit?usp=sharing)**
+  - [Statistics](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit?usp=drivesdk)
 
 ## Participants
 
@@ -254,7 +254,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[PSYQUI - Hysteric Night Girl feat. Such (android52 Edit) (Evening) \[whiskey\]](https://osu.ppy.sh/beatmapsets/1086072#mania/2476309)**
 
-### Post-Qualifiers
+### Post-qualifiers
 
 - FreeMod
   - [BlueWind - OVER THE SKYLiNE (MyZterioN-) \[Horizon [edit]\]](https://osu.ppy.sh/beatmapsets/1131572#mania/2363659)
@@ -376,7 +376,7 @@ Sunday, 17 January 2021:
 | Polytetral ![][flag_SG] | 2 | **5** | ![][flag_VN] CPT\_Sivelia | [#1](https://osu.ppy.sh/community/matches/73606440) |
 | TriDoanGaming ![][flag_VN] | **5** | 1 | ![][flag_TH] HowToBeIntel | [#1](https://osu.ppy.sh/community/matches/73607754) |
 
-### Post-Qualifiers
+### Post-qualifiers
 
 Friday, 8 January 2021:
 
@@ -416,7 +416,7 @@ Monday, 11 January 2021:
 
 ### Qualifiers
 
-- More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit "Google Sheets")
+- More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit)
 - Average rank was determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
 - Here are the seeding criteria for Qualifiers:
   - Top 4 will be declared as Top seed and automatically advance to the Knockout Stage without needing to compete in the Post-Qualifiers
@@ -520,7 +520,7 @@ Monday, 11 January 2021:
 8. Lag isn't a reason to restart a match.
 9. Visual mods such as Hidden, Flashlight, Fade In, and Mirror **are allowed**.
 10. No Fail (NF) mod is also allowed.
-11. More information around Qualifiers and Post-Qualifier stage, refer to this [link](https://docs.google.com/spreadsheets/d/17aaYSiVb_BFEyb-fX8rvV8K7HBfnIwGhZquO2oUVf3I/edit?usp=drivesdk "Google Sheets") for more information.
+11. More information around Qualifiers and Post-Qualifier stage, refer to this [link](https://docs.google.com/spreadsheets/d/17aaYSiVb_BFEyb-fX8rvV8K7HBfnIwGhZquO2oUVf3I/edit?usp=drivesdk) for more information.
 12. Every referee and participant should be treated with respect following the osu! community rules.
 13. If a participant breaks any of the tournament rules, it will lead to disqualification of the participant.
 

@@ -30,9 +30,9 @@ The **osu!mania Asian's Champions 2019** (***o!mAC2019***) was a 1v1 4K osu!mani
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 4 months of osu!supporter tag, userpage banner |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag, userpage banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag, userpage banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 4 months of osu!supporter, userpage banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter, userpage banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, userpage banner |
 
 Many thanks to ![][flag_KR] [VarvalianFanboy](https://osu.ppy.sh/users/13211236) and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) for donating the osu!supporter tags!
 
@@ -55,10 +55,10 @@ The osu!mania Asian's Champions 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/946117)
-- [Challonge](https://challonge.com/asianschampions2019 "Challonge")
-- [Livestream](https://www.twitch.tv/asianschampions "Twitch")
-- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1aGQHz8YRl-8a8mdp-7E5h_KQBk3rnwlvUzePaIrx6Zs "Google Sheets")
-- [Schedule spreadsheet](https://docs.google.com/spreadsheets/d/1vbSfQXcCG-CMeBmwlCKN5WW1gaaY48yqGsjyFvcN0zU "Google Sheets")
+- [Challonge](https://challonge.com/asianschampions2019)
+- [Livestream](https://www.twitch.tv/asianschampions)
+- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1aGQHz8YRl-8a8mdp-7E5h_KQBk3rnwlvUzePaIrx6Zs)
+- [Schedule spreadsheet](https://docs.google.com/spreadsheets/d/1vbSfQXcCG-CMeBmwlCKN5WW1gaaY48yqGsjyFvcN0zU)
 
 ## Participants
 
@@ -177,9 +177,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [\[ R o a d \]](https://osu.ppy.sh/users/6535926) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [\[ R o a d \]](https://osu.ppy.sh/users/6535926) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
 
 ## Mappools
 
@@ -413,7 +413,7 @@ Friday, 14 October 2019:
 
 ### Tournament registration
 
-- The flag on your profile must represent an Asian country. For a complete list of Asian countries, you can visit [Worldometer](https://www.worldometers.info/geography/how-many-countries-in-asia/ "Worldometer").
+- The flag on your profile must represent an Asian country. For a complete list of Asian countries, you can visit [Worldometer](https://www.worldometers.info/geography/how-many-countries-in-asia/).
 
 ### Match instructions
 

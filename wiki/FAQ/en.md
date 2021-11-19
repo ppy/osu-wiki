@@ -24,7 +24,7 @@ The gameplay circles can be seen on the bottom screen, and the story on the top 
 
 *Full explanation: [osu!](/wiki/Game_mode/osu!)*
 
-While most players may not have a touchscreen at their disposal, the game was made to be playable with a normal mouse in mind, as well as any creative variations of input devices usage. Different play styles can be found in the [play styles](/wiki/Play_Styles) page. There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
+While most players may not have a touchscreen at their disposal, the game was made to be playable with a normal mouse in mind, as well as any creative variations of input devices usage. Different play styles can be found in the [play styles](/wiki/Play_style) page. There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
 #### Gameplay Basics
 
@@ -318,7 +318,7 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 
 *Detailed explanation of scoring can be found at the game style's own respective page or [the Score page](/wiki/Score)).*
 
-*Detailed explanation of accuracy calculation can be found at the game style's own respective page or [the Accuracy page](/wiki/Accuracy).*
+*Detailed explanation of accuracy calculation can be found at the game style's own respective page or [the Accuracy page](/wiki/Gameplay/Accuracy).*
 
 ### Grades
 
@@ -381,11 +381,11 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 
 ## Performance Points
 
-*Full explanation: [Performance Points](/wiki/Performance_Points)*
+*Full explanation: [Performance Points](/wiki/Performance_points)*
 
 Performance points(pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the actual skill of the player. Performance points is heavily based on map difficulty, determined by a unique algorithm in every game mode. Based on this difficulty alone, each of the scores will be rated and assigned a pp value. Performance rank is predominantly based on performance on individual maps. The easiest way to improve it is to score high on difficult songs, and playing more songs. Do note that game modes are counted separately; playing osu!, osu!taiko, osu!catch, or osu!mania will raise the pp for the respective game mode.
 
-For any questions regarding pp, please refer to the [wiki page for pp first](/wiki/Performance_Points).
+For any questions regarding pp, please refer to the [wiki page for pp first](/wiki/Performance_points).
 
 ---
 

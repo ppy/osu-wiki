@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -13,7 +15,7 @@ layout: main_page
 
 # 入門
 
-[歡迎](/wiki/Welcome) • [安裝](/wiki/Installation) • [註冊](/wiki/Registration) • [幫助中心](/wiki/Help_Centre) • [問與答](/wiki/FAQ)
+[安裝](/wiki/Installation) • [註冊](/wiki/Registration) • [幫助中心](/wiki/Help_Centre) • [問與答](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -42,7 +44,7 @@ layout: main_page
 
 元件：[AiMod](/wiki/Beatmap_Editor/AiMod) • [節拍劃分](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [間隔控制](/wiki/Beatmap_Editor/Distance_Snap) • [選單](/wiki/Beatmap_Editor/Menu) • [Storyboard 負載](/wiki/Beatmap_Editor/SB_Load) • [時間軸](/wiki/Beatmap_Editor/Timelines)
 
-[製譜](/wiki/Beatmapping) • [難度](/wiki/Beatmap/Difficulty) • [製譜技巧](/wiki/Mapping_Techniques) • [製作 Storyboard](/wiki/Storyboarding)
+[製譜](/wiki/Beatmapping) • [難度](/wiki/Beatmap/Difficulty) • [製譜技巧](/wiki/Mapping_Techniques) • [製作 Storyboard](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -58,7 +60,7 @@ layout: main_page
 
 # 社群
 
-[錦標賽](/wiki/Tournaments) • [製作 Skin](/wiki/Skinning) • [專案](/wiki/Projects) • [指南](/wiki/Guides) • [osu!開發者 Discord 伺服器](/wiki/osu!dev_Discord_server) • [如何貢獻](/wiki/How_You_Can_Help!) • [詞彙表](/wiki/Glossary)
+[錦標賽](/wiki/Tournaments) • [製作 Skin](/wiki/Skinning) • [專案](/wiki/Projects) • [指南](/wiki/Guides) • [osu!開發者 Discord 伺服器](/wiki/osu!dev_Discord_server) • [如何貢獻](/wiki/How_you_can_help!) • [詞彙表](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -83,7 +85,7 @@ layout: main_page
 
 # 關於此 wiki
 
-[網站地圖](/wiki/Sitemap) • [貢獻指南](/wiki/osu!_wiki_Contribution_Guide) • [文章風格規範](/wiki/Article_Styling_Criteria) • [新聞風格規範](/wiki/News_Styling_Criteria)
+[網站地圖](/wiki/Sitemap) • [貢獻指南](/wiki/osu!_wiki/Contribution_guide) • [文章風格規範](/wiki/Article_styling_criteria) • [新聞風格規範](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

@@ -78,7 +78,7 @@ Direkomendasikan untuk PC lawas atau untuk menghemat baterai pada laptop.
 
 Frame limiter ini mencoba untuk mempertahankan frame rate 8x refresh rate kamu, dengan maksimal 960Hz. Frame limiter ini sangat dianjurkan untuk pengguna yang tidak mau menggunakan CPU/GPU setingkat ekstrim, sambil mempertahankan level tinggi dari sebuah kinerja yang membuat input latency menurun.
 
-Dapat direferensikan ke unlimited untuk mengurangi angka frame yang sudah dirender, yang dapat mengurangi potensi overhead [koleksi sampah](https://id.wikipedia.org/wiki/Pengumpulan_sampah_(ilmu_komputer) "Wikipedia") (yang dapat mengakibatkan spike frame).
+Dapat direferensikan ke unlimited untuk mengurangi angka frame yang sudah dirender, yang dapat mengurangi potensi overhead [koleksi sampah](https://id.wikipedia.org/wiki/Pengumpulan_sampah_(ilmu_komputer)) (yang dapat mengakibatkan spike frame).
 
 ### Unlimited
 
@@ -86,7 +86,7 @@ Frame limiter ini berfungsi untuk tidak membatasi frame rate. osu! akan melakuka
 
 Mungkin ini adalah pilihan terbaik (dan memang, jika hardware kamu mendukungnya), ada beberapa hal yang harus kamu pertimbangkan:
 
-- Dengan melakukan render frame yang banyak, terdapat potensi yang tinggi dari overhead [koleksi sampah](https://id.wikipedia.org/wiki/Pengumpulan_sampah_(ilmu_komputer) "Wikipedia").
+- Dengan melakukan render frame yang banyak, terdapat potensi yang tinggi dari overhead [koleksi sampah](https://id.wikipedia.org/wiki/Pengumpulan_sampah_(ilmu_komputer)).
 - Dengan memaksa CPU dan GPU kamu ke limit maksimal, terdapat beberapa kemungkinan akan terjadi throttle, dan membuat seluruh kinerja menjadi menurun.
 - GPU biasanya tidak melakukan render 1000+ frame per detik, sehingga terdapat kemungkinan mendapati kejadian tidak terduga, termasuk penurunan kinerja atau latency tinggi jika tidak dapat dicapai.
 

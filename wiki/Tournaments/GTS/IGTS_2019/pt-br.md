@@ -8,7 +8,7 @@ outdated: true
 
 # Intermediate Global Taiko Showdown 2019
 
-![IGTS 2019 Logo](img/logo.png)
+![IGTS 2019 Logo](img/logo.jpg)
 
 O **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) foi um torneio 2 vs 2, de eliminação dupla e baseado em países, organizado por ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) e ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Essa foi a segunda edição do Intermediate Global Taiko Showdown.
 
@@ -56,11 +56,11 @@ O Intermediate Global Taiko Showdown 2019 foi realizado por vários membros da c
 ## Links
 
 - [Página de discussão](https://osu.ppy.sh/community/forums/topics/906298)
-- [Server do Discord do IGTS](https://discord.gg/a6PzzFz "Discord")
-- [Canal de transmissão](https://www.twitch.tv/igtsosu "Twitch")
-- [Website do Pick'em](https://pickem.hwc.hr/tournaments/8 "hwchr's pick'em")
-- [Suportes do Challonge](https://challonge.com/dqq46siu "Challonge")
-- **[Página de estatísticas](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing "Google Sheets")**
+- [Server do Discord do IGTS](https://discord.gg/a6PzzFz)
+- [Canal de transmissão](https://www.twitch.tv/igtsosu)
+- [Website do Pick'em](https://pickem.hwc.hr/tournaments/8)
+- [Suportes do Challonge](https://challonge.com/dqq46siu)
+- **[Página de estatísticas](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 
 ## Participantes
 
@@ -126,7 +126,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 ### All-Stars Battle Royale
 
-**[Baixe o pacote de mapas aqui! (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg "MEGA")**
+**[Baixe o pacote de mapas aqui! (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg)**
 
 - NoMod
   - [Silent Siren - Merry-Go-Round (hoku-4625) \[Shallty-Go-Round\]](https://osu.ppy.sh/beatmapsets/751585#taiko/1612301)
@@ -149,7 +149,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 ### All-Stars
 
-**[Baixe o pacote de mapas aqui! (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo "MEGA")**
+**[Baixe o pacote de mapas aqui! (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo)**
 
 - NoMod
   - [Yuyoyuppe - AiAe (asuasu\_yura) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/447734#taiko/961162)
@@ -180,7 +180,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 ### Grande Final
 
-**[Baixe o pacote de mapas aqui! (72 MB)](https://puu.sh/DPMoR/9704e02686.rar "puush")**
+**[Baixe o pacote de mapas aqui! (72 MB)](https://puu.sh/DPMoR/9704e02686.rar)**
 
 - NoMod
   - [xi - Blue Zenith (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/971982#taiko/2035965)
@@ -207,7 +207,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 ### Finais
 
-**[Baixe o pacote de mapas aqui! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar "puush")**
+**[Baixe o pacote de mapas aqui! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar)**
 
 - NoMod
   - [Reol - Gigantic O.T.N (snowball112) \[Oni\]](https://osu.ppy.sh/beatmapsets/434182#taiko/937232)
@@ -234,7 +234,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 ### Semifinal
 
-**[Baixe o pacote de mapas aqui! (93 MB)](https://mega.nz/#!WwlilCBT!o9-f_FKiAmjCTBs3UEs-JW6Hl8F0ni-ZFH47SROQ42E "MEGA")**
+**[Baixe o pacote de mapas aqui! (93 MB)](https://mega.nz/#!WwlilCBT!o9-f_FKiAmjCTBs3UEs-JW6Hl8F0ni-ZFH47SROQ42E)**
 
 - NoMod
   - [Buta-Otome - Towa no Maigo (404 AccNotFound) \[Oni\]](https://osu.ppy.sh/beatmapsets/622175#taiko/1317865)
@@ -261,7 +261,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 ### Quartas de final
 
-**[Baixe o pacote de mapas aqui! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw "MEGA")**
+**[Baixe o pacote de mapas aqui! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw)**
 
 - NoMod
   - [Dreamcatcher - Chase Me (-omicron) \[Jaye's Lite Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/987174#taiko/2065074)
@@ -287,7 +287,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 ### Oitavas de final
 
-**[Baixe o pacote de mapas aqui! (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY "MEGA")**
+**[Baixe o pacote de mapas aqui! (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY)**
 
 - NoMod
   - [Yuuyu - Scrap Syndrome (Short cut.) (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/261311#taiko/596741)
@@ -313,7 +313,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 ### Fase de grupos
 
-**[Baixe o pacote de mapas aqui! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I "MEGA")**
+**[Baixe o pacote de mapas aqui! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I)**
 
 - NoMod
   - [An - TearVid (Kokatsu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/79647#taiko/222678)
@@ -397,7 +397,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 | México ![][flag_MX] | 1 | **6** | ![][flag_SG] **Singapura** | [#1](https://osu.ppy.sh/community/matches/52641017) |
 | Argentina ![][flag_AR] | 3 | **6** | ![][flag_FR] **França A** | [#1](https://osu.ppy.sh/community/matches/52644303) |
 | Polônia A ![][flag_PL] | 0 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/52647239) |
-| **Estados Unidos A** ![][flag_US] | **6** | 0 | ![][flag_EC] Equador | [#1](https://www.twitch.tv/videos/439630298 "Twitch") |
+| **Estados Unidos A** ![][flag_US] | **6** | 0 | ![][flag_EC] Equador | [#1](https://www.twitch.tv/videos/439630298) |
 
 | Domingo, 2019-06-16 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -489,7 +489,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 ### Inscrição no Torneio e Criação de Times
 
-1. Para participar, você deve cumprir os critérios definidos na **parte de [restrição de Rank](#Restri%C3%A7%C3%B5es-de-Rank).**
+1. Para participar, você deve cumprir os critérios definidos na **parte de [restrição de Rank](#restrições-de-rank).**
 2. Jogadores se inscrevem individualmente. Quando sua inscrição é aceita, seu país será designado através de uma "role".
 3. A equipe organizadora pode recusar o jogador caso julgue que sua habilidade não se encaixa no torneio.
 4. Este ano permitimos 2 times por país sob certas condições:
@@ -600,7 +600,7 @@ O All-star é um evento divertido que acontecerá no mesmo final de semana da Gr
 [flag_KR]: /wiki/shared/flag/KR.gif "Coreia do Sul"
 [flag_MX]: /wiki/shared/flag/MX.gif "México"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malásia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
 [flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polônia"

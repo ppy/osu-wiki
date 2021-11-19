@@ -8,16 +8,16 @@ tags:
 
 ![oSEAT2 logo](img/logo.png)
 
-The **osu! South East Asia Tournament 2** (***oSEAT2***) was a South East Asian players' double-elimination one-on-one osu! tournament hosted by ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), and ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013). It was the second installment of the osu! South East Asia Tournament.
+The **osu! South East Asia Tournament 2** (***oSEAT2***) was a South East Asian players' double-elimination one-on-one osu! tournament hosted by ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), and ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013). It was the second instalment of the osu! South East Asia Tournament.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2018-10-26/2018-11-25 |
 | Live drawings | 2018-11-26 (20:00 UTC+8) |
 | Qualifiers | 2018-11-30/2018-12-04 |
-| Group Stage | 2018-12-08/2018-12-18 |
+| Group stage | 2018-12-08/2018-12-18 |
 | Round of 32 | 2018-12-19/2018-12-26 |
 | Round of 16 | 2018-12-26/2019-01-02 |
 | Quarterfinals | 2019-01-04/2019-01-07 |
@@ -29,15 +29,15 @@ The **osu! South East Asia Tournament 2** (***oSEAT2***) was a South East Asian 
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
-| *4th place* | 1 month of osu!supporter tag |
-| *5th place* | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter |
+| *4th place* | 1 month of osu!supporter |
+| *5th place* | 1 month of osu!supporter |
 
 *Note: 5th place was determined by a playoff.*
 
-![oSEAT2 winner badge](img/badge.png)
+![](img/badge.png "oSEAT2 winner badge")
 
 ## Organisation
 
@@ -46,7 +46,7 @@ The osu! South East Asia Tournament 2 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
-| Map selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
+| Mappool selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
 | Referee | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [sinn](https://osu.ppy.sh/users/4262229), ![][flag_ID] [Praza](https://osu.ppy.sh/users/3184115), ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553), ![][flag_MY] [Aasheda\_](https://osu.ppy.sh/users/7614055), ![][flag_MY] [TheSomething](https://osu.ppy.sh/users/4025232), ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706), ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_TH] [\[Minoriko\]](https://osu.ppy.sh/users/4958650), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_FR] [\[ Mimir \]](https://osu.ppy.sh/users/7382734), ![][flag_PL] [Houtarou Oreki](https://osu.ppy.sh/users/4185566), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897) |
 | Streamer | ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134), ![][flag_SG] [Demonical](https://osu.ppy.sh/users/5447609), ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
 | Commentator | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946), ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134), ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_VN] [Yaezaki](https://osu.ppy.sh/users/11254509) |
@@ -58,10 +58,10 @@ The osu! South East Asia Tournament 2 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/819383)
-- [oSEAT Discord server](https://discord.gg/UbwzpG6 "Discord")
-- [Challonge brackets](https://challonge.com/oseat2 "Challonge")
-- [Livestream](https://www.twitch.tv/oseatournament "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT56JjZkAgaIYF5mOkCiFjzKLkW72bIlzFjX4H5J4GEuXCeebme7QQ3TKouOjTMSRiFTW3yr8nGmdeY/pubhtml "Google Sheets")**
+- [oSEAT Discord server](https://discord.gg/UbwzpG6)
+- [Challonge brackets](https://challonge.com/oseat2)
+- [Livestream](https://www.twitch.tv/oseatournament)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT56JjZkAgaIYF5mOkCiFjzKLkW72bIlzFjX4H5J4GEuXCeebme7QQ3TKouOjTMSRiFTW3yr8nGmdeY/pubhtml)**
 
 ## Participants
 
@@ -112,7 +112,7 @@ This competition has come to an end and resulted in the following podium:
 
  **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (138 MB)](https://mega.nz/#!KdwBXaQK!OtzMZCKFj9TEf8Cg0ax8OzeoZVrzsbuxPOxZhlHT_-Y "MEGA")**
+**[Download the mappack here! (138 MB)](https://mega.nz/#!KdwBXaQK!OtzMZCKFj9TEf8Cg0ax8OzeoZVrzsbuxPOxZhlHT_-Y)**
 
 - NoMod
   - [K A Z M A S A - Bon Appetit S \[Short Ver.\] (Oldskool HappyHardcore Remix) (BarkingMadDog) \[blend s 190 BPM\]](https://osu.ppy.sh/beatmapsets/859515#osu/1803734)
@@ -141,7 +141,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (193 MB)](https://mega.nz/#!2Zc21YIL!9gazAnUSoBdnjOnc9-lq-C2z2NaSCvTj7q-uyGk5Vjo "MEGA")**
+**[Download the mappack here! (193 MB)](https://mega.nz/#!2Zc21YIL!9gazAnUSoBdnjOnc9-lq-C2z2NaSCvTj7q-uyGk5Vjo)**
 
 - NoMod
   - [yanaginagi - can cry (captin1) \[lamentation\]](https://osu.ppy.sh/beatmapsets/889584#osu/1859321)
@@ -170,7 +170,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (157 MB)](https://mega.nz/#!CcMk2KgR!F-ENYulUnXAvLyICEhmEZyhG2QTZzDln6mVt0aOuXsM "MEGA")**
+**[Download the mappack here! (157 MB)](https://mega.nz/#!CcMk2KgR!F-ENYulUnXAvLyICEhmEZyhG2QTZzDln6mVt0aOuXsM)**
 
 - NoMod
   - [Caldeira feat. Teka Penteriche - Vem brincar (Saturnalize) \[Challenge\]](https://osu.ppy.sh/beatmapsets/884577#osu/1848913)
@@ -197,7 +197,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (130 MB)](https://mega.nz/#!ndFRkIyQ!tvky0Jhx0TH5cCbhoAR9KPIF66YTG9EQ2CNfRc4PIIM "MEGA")**
+**[Download the mappack here! (130 MB)](https://mega.nz/#!ndFRkIyQ!tvky0Jhx0TH5cCbhoAR9KPIF66YTG9EQ2CNfRc4PIIM)**
 
 - NoMod
   - [Shock One \[Ft. Reija\] - Polygon (byfar, aiceo) \[Potatogon\]](https://osu.ppy.sh/beatmapsets/335928#osu/743526)
@@ -224,7 +224,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (124 MB)](https://drive.google.com/file/d/1VVrnZDno9VWKp4Sa20fyl4K8D0U8e3gW/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (124 MB)](https://drive.google.com/file/d/1VVrnZDno9VWKp4Sa20fyl4K8D0U8e3gW/view?usp=sharing)**
 
 - NoMod
   - [Hatsuki Yura - Diabolikha (Aeril) \[Aeril's Insane\]](https://osu.ppy.sh/beatmapsets/731724#osu/1573533)
@@ -249,9 +249,9 @@ This competition has come to an end and resulted in the following podium:
   - [Camellia - K.Y.A.F.A. (SnowNiNo\_) \[NiNo's Insane\]](https://osu.ppy.sh/beatmapsets/414034#osu/1171254)
   - [IOSYS - Midnight Lightning Bolt (pieguy1372) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/16371#osu/58701)
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (73 MB)](https://puu.sh/CbFC6/f50b2f04c6.rar "puush")**
+**[Download the mappack here! (73 MB)](https://puu.sh/CbFC6/f50b2f04c6.rar)**
 
 - NoMod
   - [DJ YOSHITAKA - FLOWER (REDALiCE Remix) (Yauxo) \[Extra\]](https://osu.ppy.sh/beatmapsets/520036#osu/1733764)
@@ -515,7 +515,7 @@ Wednesday, 26 December 2018:
 | Xidorn ![][flag_PH] | 2 | **6** | ![][flag_ID] **Kurosaki** | [#1](https://osu.ppy.sh/community/matches/48376875) |
 | - Phantasma - ![][flag_TH] | 0 | **6** | ![][flag_ID] **Rexeez** | *win by default* |
 
-### Group Stage
+### Group stage
 
 Friday, 7 December 2018:
 
@@ -605,7 +605,7 @@ Sunday, 9 December 2018:
 | Demonical ![][flag_ID] | 3 | **5** | ![][flag_SG] **Rtzero** | [#1](https://osu.ppy.sh/community/matches/47989974) |
 | **Applause** ![][flag_TH] | **5** | 0 | ![][flag_ID] ELNabhan | *win by default* |
 | **- Phantasma -** ![][flag_TH] | **5** | 3 | ![][flag_PH] fixedbyglue | [#1](https://osu.ppy.sh/community/matches/47990017) |
-| **woahsia** ![][flag_SG] | **5** | 0 | ![][flag_ID] Evanescent- | -win bydefault- |
+| **woahsia** ![][flag_SG] | **5** | 0 | ![][flag_ID] Evanescent- | *win by default* |
 | **dika312** ![][flag_ID] | **5** | 0 | ![][flag_MY] squidstain | [#1](https://osu.ppy.sh/community/matches/47991316) |
 | tjangjoet ![][flag_ID] | 0 | **5** | ![][flag_SG] **Loslite** | *win by default* |
 | **GSBlank** ![][flag_SG] | **5** | 1 | ![][flag_VN] Portador0409 | [#1](https://osu.ppy.sh/community/matches/47991196) |
@@ -763,7 +763,7 @@ Tuesday, 18 December 2018:
 4. if your opponent does not respond to your reschedule request within 48 hours, notify a scheduler. You will be allowed to choose a new timing of your choice for the match.
    - You will have to attempt to make contact via both Discord and Forum PM
 
-### Match Proceedings
+### Match proceedings
 
 1. Before each match (except in group stages), both players are allowed to choose and play an osu! standard warmup with song length (not drain time) shorter than 5 minutes.
 2. After warmups, both players will `!roll`. Low roll bans maps first, high roll picks maps first.
@@ -819,7 +819,7 @@ Tuesday, 18 December 2018:
    - If a priority player would place outside the top 40 qualifiers, they will instead be removed from the rankings and be promoted to top 40 instead.
    - If the process of removing a priority player from rankings would knock another priority player out of top 40, that priority player is also removed. Rankings will be continuously recalculated until no new priority players are knocked out of top 40.
 
-### Round Specific Rules
+### Round specific rules
 
 *Note: These rounds are assumed to be for at least 80 players. They will be scaled down if we get less players.*
 
@@ -833,7 +833,7 @@ Tuesday, 18 December 2018:
 6. Top 72 points earners (including ties) qualify for Group Stage.
 7. For administrative purposes, if a player submits a score on at least 1 map and does not submit a score on at least 1 map, they will have a score of 0 for maps they did not submit a score on. If a player does not submit a score for any map, they will be disqualified.
 
-#### Group Stage
+#### Group stage
 
 1. Each group will consist of 1 top seed (top 8 priority players + top 8 qualifiers), 1 high seed (qualifiers 9-24), 1 mid seed (qualifiers 25-40), 1 low seed (qualifiers 41-56) and at least 1 bottom seed (all remaining qualifiers). Groups will be drawn randomly after all qualifiers are done.
    - If there is a tie that would determine which seed grouping the respective tied players are in, the tie will be broken randomly.
@@ -869,7 +869,7 @@ Tuesday, 18 December 2018:
 5. Players will have 1 round of bans before the 1st round of picks. The winner’s bracket will also get another ban before the 3rd round of picks (losers bracket player does not get this ban).
 6. If the match is tied at 7-7, winners bracket player gets to choose out of the remaining 2 maps.
 
-### Late Penalties
+### Late penalties
 
 1. **Less than 5 minutes**: no penalty.
 2. **5-10 minutes**: If 1st match in group stages: slot is opened up for reserve players to substitute in.

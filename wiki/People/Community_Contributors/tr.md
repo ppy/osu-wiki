@@ -4,7 +4,7 @@
 
 **Topluluk İştirakçileri** *(Community Contributors)* osu! topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
 
-Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) ile karıştırılmamalıdır. Topluluk İştirakçisi rozetleri osu! ve topluluk çevresini iyileştirmek adına kendilerinden beklenenden çok daha fazlasını ortaya koyan kamuya açık bağımsız çalışan kişilere verilir.
+osu! ekibinin emektar eski üyelerinden oluşan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) ile karıştırılmamalıdır. Topluluk İştirakçisi rozetleri osu! ve topluluk çevresini iyileştirmek adına kendilerinden beklenenden çok daha fazlasını ortaya koyan kamuya açık bağımsız çalışan kişilere verilir.
 
 ## 2013
 
@@ -25,7 +25,7 @@ Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/P
 | ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | [osu!stats](https://osustats.ppy.sh/) ve bir kaç tane daha hem beatmap yapımı ve modlama, hem de genel oynanış ile ilgili kullanışlı aracın geliştirilmesi ve sürdürülmesi |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Hata düzeltme/özellik testinde ve kullanıcı destek sorularını yanıtlamada üstün performans. |
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3 yılı aşkın bir süredir hiç yorulmaksızın [beatmap paketlemeyi](https://osu.ppy.sh/beatmaps/packs) idare etme ve birkaç yıllık beatmap çizelge çalışması. |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Orijinal beatmap tema tasarımı, [storyboard yaratmayı](/wiki/Storyboards) bir sanat ve motivasyon kaynağı olarak gelişmesini sağlamak dahil, yıllar boyu hizmet. |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Orijinal beatmap tema tasarımı, [storyboard yaratmayı](/wiki/Storyboard) bir sanat ve motivasyon kaynağı olarak gelişmesini sağlamak dahil, yıllar boyu hizmet. |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Erken topluluk yönetimi ve moderasyonu ile vakti zamanında bulunduğu devasa katkılar. |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | [GMT](/wiki/People/The_Team/Global_Moderation_Team)'nin takip edebilmesi için çitayı oldukça yükselten ilk topluluk yöneticisi ve küresel moderatör. |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | İlk personel yöneticisi ve BATmenajeri olma ve seçkin beatmap moderasyonunu hiç yoktan tek elden oluşturma. |

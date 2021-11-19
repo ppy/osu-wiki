@@ -8,7 +8,7 @@ tags:
 
 ![GST2 logo](img/logo.jpg)
 
-The **Great Singapore Tournament 2** (***GST2***) was a Singaporean double-elimination 2v2 osu! tournament hosted by ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133). This was the second installment of the Great Singapore Tournament.
+The **Great Singapore Tournament 2** (***GST2***) was a Singaporean double-elimination 2v2 osu! tournament hosted by ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133). This was the second instalment of the Great Singapore Tournament.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **Great Singapore Tournament 2** (***GST2***) was a Singaporean double-elimi
 | --: | :-- |
 | Registration phase | 2019-11-09/2019-11-24 |
 | Live drawings | 2019-11-24 (23:00 UTC+8) |
-| Group Stage | 2019-11-29/2019-12-15 |
+| Group stage | 2019-11-29/2019-12-15 |
 | Round of 16 | 2019-12-18/2019-12-23 |
 | Quarterfinals | 2019-12-27/2019-12-31 |
 | Semifinals | 2020-01-04/2020-01-05 |
@@ -28,9 +28,9 @@ The **Great Singapore Tournament 2** (***GST2***) was a Singaporean double-elimi
 | Placing | Prizes |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, Acrylic trophy, 1st place physical medal, custom mousepad/tablet cover |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2nd place physical medal, 6 months of osu!supporter tag/cash equivalent |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 3rd place physical medal, 2 months of osu!supporter tag/cash equivalent |
-| *Pick'em winner* | 4 months of osu!supporter tag/cash equivalent, unique role on hwchr's Pick'em website |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2nd place physical medal, 6 months of osu!supporter/cash equivalent |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 3rd place physical medal, 2 months of osu!supporter/cash equivalent |
+| *Pick'em winner* | 4 months of osu!supporter/cash equivalent, unique role on hwchr's Pick'em website |
 
 ![](img/badge.png "GST2 winner badge")
 
@@ -42,8 +42,8 @@ The Great Singapore Tournament 2 was run by various community members.
 | :-- | :-- |
 | Organiser | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Administrator | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
-| Map selector | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
-| Map tester | ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211) |
+| Mappool selector | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
+| Mappool tester | ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211) |
 | Referee | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_TW] [Saisu Riku](https://osu.ppy.sh/users/9834516), ![][flag_US] [moof](https://osu.ppy.sh/users/8457202), ![][flag_KR] [Nopekjk](https://osu.ppy.sh/users/4585186), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_PL] [zibi](https://osu.ppy.sh/users/11301620) |
 | Streamer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Commentator | ![][flag_MY] [FaithInOsu](https://osu.ppy.sh/users/10178187), ![][flag_SG] [Loslite](https://osu.ppy.sh/users/6398160), ![][flag_US] [moof](https://osu.ppy.sh/users/8457202), ![][flag_SG] [SeeL](https://osu.ppy.sh/users/5104320), ![][flag_SG] [Wolpis](https://osu.ppy.sh/users/8497340), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
@@ -55,10 +55,10 @@ The Great Singapore Tournament 2 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/983074)
-- [GST Discord server](https://discord.gg/kCfW4Jw "Discord")
-- [Livestream](https://twitch.tv/osusg "Twitch")
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/20 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1rPNEsq4I_vuVHSccLjgZ5HucIgnAWTuUfgiYFRAkBOI/edit?usp=sharing "Google Sheets")**
+- [GST Discord server](https://discord.gg/kCfW4Jw)
+- [Livestream](https://twitch.tv/osusg)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/20) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1rPNEsq4I_vuVHSccLjgZ5HucIgnAWTuUfgiYFRAkBOI/edit?usp=sharing)**
 
 ## Participants
 
@@ -124,15 +124,15 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | tamade |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Mahathir bin Moh |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Tom and Jerry |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **tamade** (![][flag_SG] **[GSBlank](https://osu.ppy.sh/users/2312106)**, ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Mahathir bin Moh** (![][flag_SG] **[Loslite](https://osu.ppy.sh/users/6398160)**, ![][flag_SG] [Soba Noodles](https://osu.ppy.sh/users/3010281)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Tom and Jerry** (![][flag_SG] **[JianHao Tan](https://osu.ppy.sh/users/5447609)**, ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620)) |
 
 ## Mappools
 
 ### Grand Finals
 
-**[Download the mappack here! (171 MB)](https://drive.google.com/file/d/1cWhWup0xeIXO9F3CzGPlfmMQUTLTeULH/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (171 MB)](https://drive.google.com/file/d/1cWhWup0xeIXO9F3CzGPlfmMQUTLTeULH/view?usp=sharing)**
 
 - NoMod
   - [Roselia - FIRE BIRD (TV Size) (-Aqua) \[Shizuku's Special\]](https://osu.ppy.sh/beatmapsets/947848#osu/1986140)
@@ -162,7 +162,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (181 MB)](https://drive.google.com/file/d/1VTZiWanObjVOhzy_Or6l-rhpIr1o1izh/view "Google Drive")**
+**[Download the mappack here! (181 MB)](https://drive.google.com/file/d/1VTZiWanObjVOhzy_Or6l-rhpIr1o1izh/view)**
 
 - NoMod
   - [Memme - Pandemonium (sdafsf) \[LCFC's Extra: #13\]](https://osu.ppy.sh/beatmapsets/734190#osu/1562547)
@@ -191,7 +191,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (177 MB)](https://drive.google.com/file/d/1MSpZ6ez2zD5lRhb61YEimhbj98yZRgrp/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (177 MB)](https://drive.google.com/file/d/1MSpZ6ez2zD5lRhb61YEimhbj98yZRgrp/view?usp=sharing)**
 
 - NoMod
   - [Sota Fujimori - ACCELERATE (Chaoslitz) \[Extra (#1)\]](https://osu.ppy.sh/beatmapsets/852406#osu/1781731)
@@ -220,7 +220,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1MikHku9axi0H1Vt2S3Xs-_uKVWHfuxO9/view "Google Drive")**
+**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1MikHku9axi0H1Vt2S3Xs-_uKVWHfuxO9/view)**
 
 - NoMod
   - [ESTi - HELIX (Edit ver.) (Hollow Wings) \[yf's Extreme\]](https://osu.ppy.sh/beatmapsets/194910#osu/467726)
@@ -246,7 +246,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (132 MB)](https://drive.google.com/file/d/1Ao7hnixGi_k76kmymCFxKTgS6nHyWLFb/view "Google Drive")**
+**[Download the mappack here! (132 MB)](https://drive.google.com/file/d/1Ao7hnixGi_k76kmymCFxKTgS6nHyWLFb/view)**
 
 - NoMod
   - [Kamiyama Yoh - YELLOW (Peter) \[High\]](https://osu.ppy.sh/beatmapsets/1019836#osu/2133966)
@@ -270,9 +270,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Chitose Haru (CV: Numakura Manami) - Lucy (Kalibe) \[Arrival\]](https://osu.ppy.sh/beatmapsets/723219#osu/1526606)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1rxiuBmAscXlJ_DbItPqU_Al3_CO7UqHD/view "Google Drive")**
+**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1rxiuBmAscXlJ_DbItPqU_Al3_CO7UqHD/view)**
 
 - NoMod
   - [BTS - FIRE (sukiNathan) \[apple's Insane\]](https://osu.ppy.sh/beatmapsets/479385#osu/1068523)
@@ -437,7 +437,7 @@ Monday, 23 December 2019:
 | a)ii)no scenario | 2 | **5** | **Tom and Jerry** | [#1](https://osu.ppy.sh/community/matches/57185231) |
 | salakau | 3 | **5** | **We can't read EZ** | [#1](https://osu.ppy.sh/community/matches/57187967) |
 
-### Group Stage
+### Group stage
 
 Friday, 29 November 2019:
 

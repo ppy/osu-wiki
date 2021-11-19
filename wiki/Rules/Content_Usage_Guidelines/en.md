@@ -22,7 +22,7 @@ While music is frequently copyright-restricted, sound effects used for custom hi
 
 ## Visual
 
-Visual assets include a beatmap's background/storyboard/video and follow the same usage requirements as audio assets.
+Visual assets include a beatmap's [background](/wiki/Beatmap/Background)/[storyboard](/wiki/Storyboard)/video and follow the same usage requirements as audio assets.
 
 As with music, we recommend seeking out an artist's input on usage terms and to ask for permission when those terms are unclear. For example, if you're interested in using a background from an artist on pixiv, locate their profile for usage terms or send them a message asking for permission.
 

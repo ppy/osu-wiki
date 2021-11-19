@@ -19,7 +19,7 @@ tags:
 
 Les joueurs peuvent accéder à l'écran de sélection des mods dans l'écran de sélection des chansons en cliquant sur le bouton `Mods` situé dans le coin inférieur gauche de l'écran ou en appuyant sur la touche "F1" de leur clavier. Une fois dans l'écran de sélection des mods, il y a aussi des raccourcis clavier qui peuvent être utilisés pour sélectionner des mods spécifiques. Ces raccourcis peuvent être modifiés dans les Options.
 
-Sur l'écran de sélection, les mods sont séparés en trois catégories : `Difficulté réduite`, `Difficulté augmentée`, et `Divers`. Ils peuvent soit réduire, augmenter ou supprimer le [`Multiplicateur de score`](/wiki/Score_multiplier). Lorsque deux mods sont utilisés simultanément, les multiplicateurs respectifs des mods seront multipliés ensemble (exemple, `1.06x * 1.12x = 1.1872x`).
+Sur l'écran de sélection, les mods sont séparés en trois catégories : `Difficulté réduite`, `Difficulté augmentée`, et `Divers`. Ils peuvent soit réduire, augmenter ou supprimer le [`Multiplicateur de score`](/wiki/Game_modifier/Score_multiplier). Lorsque deux mods sont utilisés simultanément, les multiplicateurs respectifs des mods seront multipliés ensemble (exemple, `1.06x * 1.12x = 1.1872x`).
 
 ## Liste des mods
 
@@ -62,7 +62,7 @@ Chacun des mods ci-dessous aura l'icône de son mode de jeu compatible (![][osu!
 
 *Note : Ces mods étaient utilisés et disponibles il y a quelque temps, mais sont maintenant indisponibles.*
 
-- [10K](/wiki/Game_modifier/10k) ![][osu!mania]
+- [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 

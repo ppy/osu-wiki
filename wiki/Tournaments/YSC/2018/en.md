@@ -8,7 +8,7 @@ tags:
 
 ![YSC 2018 logo](img/logo.jpg)
 
-The **Yaz's Summer Cup 2018** (***YSC 2018***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the second instalment of Yaz's Summer Cup.
+**Yaz's Summer Cup 2018** (***YSC 2018***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the second instalment of Yaz's Summer Cup.
 
 ## Tournament schedule
 
@@ -55,10 +55,10 @@ Yaz's Summer Cup 2018 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/745617)
-- [Challonge](https://challonge.com/YSC2018 "Challonge")
-- [Discord](https://discord.gg/brQzjbb "Discord")
-- [Livestream](https://www.twitch.tv/summer_cup_osu "Twitch")
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1WtnGJAAhkwrYsQgado0hciHonb4FTULREGJ8_yRw6zA/edit?usp=sharing "Google Sheets")
+- [Challonge](https://challonge.com/YSC2018)
+- [Discord](https://discord.gg/brQzjbb)
+- [Livestream](https://www.twitch.tv/summer_cup_osu)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1WtnGJAAhkwrYsQgado0hciHonb4FTULREGJ8_yRw6zA/edit?usp=sharing)
 
 ## Participants
 
@@ -81,7 +81,7 @@ Yaz's Summer Cup 2018 was run by various community members.
 | Group O | ![][flag_US] **[fieryrage](https://osu.ppy.sh/users/3533958)**, ![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106), ![][flag_DE] [respektive](https://osu.ppy.sh/users/1023489) |
 | Group P | ![][flag_RO] **[Chamosiala](https://osu.ppy.sh/users/1469892)**, ![][flag_CN] **[davidqu2](https://osu.ppy.sh/users/6090175)**, ![][flag_US] [Cappy](https://osu.ppy.sh/users/6668666), ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) |
 
-See the [participants sheet](https://docs.google.com/spreadsheets/d/1WtnGJAAhkwrYsQgado0hciHonb4FTULREGJ8_yRw6zA/edit#gid=1453703532 "Google Sheets") for a list of all 124 initial participants.
+See the [participants sheet](https://docs.google.com/spreadsheets/d/1WtnGJAAhkwrYsQgado0hciHonb4FTULREGJ8_yRw6zA/edit#gid=1453703532) for a list of all 124 initial participants.
 
 ## Podium
 
@@ -240,7 +240,7 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   - [MY FIRST STORY - START OVER (Saut) [Extreme]](https://osu.ppy.sh/beatmapsets/294063#osu/661286)
-  - [celas - Azul (Remix) (N a s y a) [Extra]](https://api.chimu.moe/v1/download/302545?n=1 "Chimu.moe")
+  - [celas - Azul (Remix) (N a s y a) [Extra]](https://api.chimu.moe/v1/download/302545?n=1)
   - [Yousei Teikoku - Kuusou Mesorogiwi (Saten) [DEAD END]](https://osu.ppy.sh/beatmapsets/40873#osu/139525)
   - [YUC'e - Sengoku HOP (Nathan) [Gamu's Extra]](https://osu.ppy.sh/beatmapsets/564329#osu/1475812)
   - [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro (Shiirn) [Decay]](https://osu.ppy.sh/beatmapsets/436978#osu/941044)
@@ -804,7 +804,7 @@ Thursday, 21 June 2018:
 - This tournament is a 1v1 international osu! tournament.
 - This tournament will consist of 128 players.
 - Matches will be head to head, with score v2 as the scoring system used.
-- There will be no rank limit on signups, however if we reach 120 signups we will take the top 120 players in terms of rank.
+- There will be no rank limit on sign-ups, however if we reach 120 sign-ups we will take the top 120 players in terms of rank.
 - The Top 4 from YSC 2017 (![][flag_US] [Donkey Kong](https://osu.ppy.sh/users/4787150), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ![][flag_KR] [Cookiezi](https://osu.ppy.sh/users/124493) and ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578)) all have automatic qualifications into the Group Stage should they accept their invitation.
 - Ranks will be taken and locked when registrations have concluded
 - Anyone who does sign up must be able to play maps with a difficulty of at least 5*.
@@ -821,7 +821,7 @@ Thursday, 21 June 2018:
 - Referees will create the lobby and invite players 10 minutes before the match is due to start.
 - Any player that fails to show up 10 minutes after a match is due to start will forfeit the match and a win by default will be awarded to the other player.
 - Failure to attend a match without a valid reason may result in being blacklisted from participating in future tournaments.
-- The referee will have host at all times during the match. The only exception are for picking warmups.
+- The referee will have host at all times during the match. The only exception are for picking warm-ups.
 - Players will have 90 seconds to ban a map. Failure to ban a map after this time will result in a loss of a ban.
 - Players will have 90 seconds to pick a map. Failure to pick a map after this time will result in the pick being passed to their opponent.
 - Disconnects during the first 30 seconds of the map will result in the map being replayed. Any disconnections after this will result in a forfeit of that map.
@@ -836,7 +836,7 @@ Thursday, 21 June 2018:
 
 ### Qualifiers and Group stage
 
-- There will be no warmups and one ban per player.
+- There will be no warm-ups and one ban per player.
 - Players will roll once. The winner of that roll will ban and pick first.
 - In groups, there will be one top, one high, one mid and one low seeded player per group, which will be drawn randomly.
 - During these stages, players are not allowed to choose from the same mod bracket (HD/HR/DT/FreeMod) twice in a row. This excludes the NoMod and FreeMod pool.
@@ -845,8 +845,8 @@ Thursday, 21 June 2018:
 ### Knockout stages
 
 - Seeding for knockouts will be as follows: Group A #1 vs Group B #2 etc.
-- In this stage, there will be warmups and 2 bans per player.
-- Players will roll once. The winner will have the first warmup, first ban and first pick.
+- In this stage, there will be warm-ups and 2 bans per player.
+- Players will roll once. The winner will have the first warm-up, first ban and first pick.
 - In these stages, players are free to pick from any mod bracket.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"

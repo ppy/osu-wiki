@@ -9,7 +9,7 @@ tags:
 
 ![o!mLN2 logo](img/logo.jpg)
 
-The **osu!mania LN Tournament 2** (***o!mLN2***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament featured a variety of maps with a lot of sliders (or Long Notes) in its mappools. This was the second installment of the osu!mania LN Tournament.
+The **osu!mania LN Tournament 2** (***o!mLN2***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament featured a variety of maps with a lot of sliders (or Long Notes) in its mappools. This was the second instalment of the osu!mania LN Tournament.
 
 ## Tournament schedule
 
@@ -23,8 +23,8 @@ The **osu!mania LN Tournament 2** (***o!mLN2***) was a worldwide double-eliminat
 | Round of 16 | 2020-07-03/2020-07-05 |
 | Quarterfinals | 2020-07-10/2020-07-12 |
 | Semifinals | 2020-07-18/2020-07-19 |
-| Finals - Week 1 | 2020-07-25/2020-07-26 |
-| Finals - Week 2 | 2020-08-01/2020-08-02 |
+| Finals week 1 | 2020-07-25/2020-07-26 |
+| Finals week 2 | 2020-08-01/2020-08-02 |
 
 ## Prizes
 
@@ -43,8 +43,8 @@ The osu!mania LN Tournament 2 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Map selector | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) |
-| Map tester | ![][flag_CL] [1110113x](https://osu.ppy.sh/users/10072733), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061) |
+| Mappool selector | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) |
+| Mappool tester | ![][flag_CL] [1110113x](https://osu.ppy.sh/users/10072733), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061) |
 | Referee | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [anim shnacc](https://osu.ppy.sh/users/11373924), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_TH] [CrownBlazing](https://osu.ppy.sh/users/7808720), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Streamer | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
 | Commentator | ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_TH] [CrownBlazing](https://osu.ppy.sh/users/7808720), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118) |
@@ -55,10 +55,10 @@ The osu!mania LN Tournament 2 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1068843)
-- [o!mLN Discord server](https://discord.gg/SPQtt3s "Discord")
-- [Livestream](https://www.twitch.tv/osumanialive "Twitch")
-- [Challonge brackets](https://challonge.com/omln2 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1Ot3wMRSmXcZYT6L6U6-W1gvDbAN5UtuZUQ7akuvFyXc/edit#gid=248131311 "Google Sheets")**
+- [o!mLN Discord server](https://discord.gg/SPQtt3s)
+- [Livestream](https://www.twitch.tv/osumanialive)
+- [Challonge brackets](https://challonge.com/omln2)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1Ot3wMRSmXcZYT6L6U6-W1gvDbAN5UtuZUQ7akuvFyXc/edit#gid=248131311)**
 
 ## Participants
 
@@ -82,7 +82,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Finals - Week 2
+### Finals week 2
 
 - FreeMod
   - [Various Artists - ELPIS LN I (ELPIS) \[YELL!\]](https://osu.ppy.sh/beatmapsets/758327#mania/1595151)
@@ -105,7 +105,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Frums - Nisemono (\[Crz\]Crysarlene) \[Fleece\]](https://osu.ppy.sh/beatmapsets/1222375#mania/2542527)**
 
-### Finals - Week 1
+### Finals week 1
 
 - FreeMod
   - [Various Artists - ELPIS LN I (ELPIS) \[YELL!\]](https://osu.ppy.sh/beatmapsets/758327#mania/1595151)
@@ -151,7 +151,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (159 MB)](https://mega.nz/file/SYl3xSQA#qXm6cZmbjbJTADTRv_8FDSig6YXkqe-XBI4H1sAfQN8 "MEGA")**
+**[Download the mappack here! (159 MB)](https://mega.nz/file/SYl3xSQA#qXm6cZmbjbJTADTRv_8FDSig6YXkqe-XBI4H1sAfQN8)**
 
 - FreeMod
   - [OISHII - ONIGIRI FREEWAY (Mentholzzz) \[Unagi Onigiri "UHD"\]](https://osu.ppy.sh/beatmapsets/663098#mania/1505212)
@@ -191,7 +191,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (76 MB)](https://mega.nz/file/qygXgKRS#W9kxyHs8dlAL5J8VvxGeWDlfw8GS8EYcRguDvOQ2dCA "MEGA")**
+**[Download the mappack here! (76 MB)](https://mega.nz/file/qygXgKRS#W9kxyHs8dlAL5J8VvxGeWDlfw8GS8EYcRguDvOQ2dCA)**
 
 - FreeMod
   - [senya - Banbutsu no Ou (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/908627#mania/1895977)
@@ -234,7 +234,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Finals - Week 2
+### Finals week 2
 
 Saturday, 1 August 2020:
 
@@ -248,7 +248,7 @@ Sunday, 2 August 2020:
 | --: | :-: | :-: | :-- | :-- |
 | **cheewee10** ![][flag_MY] | **7** | 0 | ![][flag_TH] MyZterion- | [#1](https://osu.ppy.sh/community/matches/64880360) |
 
-### Finals - Week 1
+### Finals week 1
 
 Saturday, 25 July 2020:
 
@@ -542,7 +542,7 @@ Sunday, 21 June 2020:
 | #80 | ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121) | 240 |
 
 - Only the top 64 player could proceed to the Knockout Stage
-- More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1zY13dvZIPwpcgL1E9FAfBQy80Wq2QKTwI3kpUMeB0Cs/edit#gid=809028813 "Google Sheets")
+- More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1zY13dvZIPwpcgL1E9FAfBQy80Wq2QKTwI3kpUMeB0Cs/edit#gid=809028813)
 - Sum was determined by `Σ position earned when playing the Qualifiers mappool`
 
 ## Ruleset
@@ -551,7 +551,7 @@ Sunday, 21 June 2020:
 2. The score system used in this tournament will be **ScoreV2**.
 3. There will be **no rank restrictions** to participate in the tournament.
 4. In order for your registration to count, please refer to the following criteria:
-   - Players have filled the [registration form](https://forms.gle/ektYSXGzZFXumVz59 "Google Forms")
+   - Players have filled the [registration form](https://forms.gle/ektYSXGzZFXumVz59)
    - Players have to join the [o!mLN Discord server](#links) at least until the time they get eliminated.
 5. All maps are played with FreeMod being ON. Mirror mod is **allowed** on all maps. Here is a list of mods players can also play with: Hidden, Fade-In, Flashlight, and any combination of those mods. Players are also allowed, but not forced, to play with NoFail.
 6. Players will be seeded according to their average rank of each map played in the Qualifiers.

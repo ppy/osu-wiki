@@ -6,7 +6,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 
 **Notice:** the osu! client will not notify you for keys used multiple times (this includes conflicting keys)!
 
-## osu! Mode
+## osu!
 
 | Name | Default |
 | :-- | :-- |
@@ -14,7 +14,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 | Right Click | `X` |
 | Smoke | `C` |
 
-## Taiko Mode
+## osu!taiko
 
 | Name | Default |
 | :-- | :-- |
@@ -23,7 +23,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 | Drum Rim (Left) | `Z` |
 | Drum Rim (Right) | `V` |
 
-## Catch the Beat Mode
+## osu!catch
 
 | Name | Default |
 | :-- | :-- |
@@ -31,12 +31,12 @@ Here, you can change reassign keyboard keys with the listed actions.
 | Move Right | `Right Arrow` |
 | Dash! (2x movement speed) | `Left Shift` |
 
-## osu! Mania Mode
+## osu!mania
 
 | Name | Default |
 | :-- | :-- |
-| Increase Speed | `F3` |
-| Decrease Speed | `F4` |
+| Increase Speed | `F4` |
+| Decrease Speed | `F3` |
 
 **Notes:**
 
@@ -74,7 +74,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 
 **Notes:**
 
-- `Boss Key` explanation: [Boss key](https://en.wikipedia.org/wiki/Boss_key "Wikipedia")
+- `Boss Key` explanation: [Boss key](https://en.wikipedia.org/wiki/Boss_key)
   - When used, osu! will mute itself and hide the window in the toolbar.
   - To disable boss key, click on the osu! icon in the task bar and the osu!client will open.
 

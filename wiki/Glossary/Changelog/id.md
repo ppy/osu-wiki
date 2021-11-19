@@ -1,8 +1,9 @@
 ---
-stub: true
 tags:
   - history
   - sejarah
+outdated: true
+outdated_since: c8de1467998926e1b6ff9d4dc05d380640f90827
 ---
 
 # Riwayat perubahan

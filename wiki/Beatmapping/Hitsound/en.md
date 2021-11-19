@@ -7,11 +7,11 @@ tags:
 
 # Hitsound
 
-*See also: [Adding custom hitsounds](/wiki/Guides/Adding_Custom_Hitsounds)*
+*See also: [Adding custom hitsounds](/wiki/Guides/Using_custom_hitsounds)*
 
 <!-- TODO: could make more articles about each part of hitsounds, and also one focused more on gameplay than mapping -->
 
-**Hitsounds** are the sounds that osu! plays in response to user input when interacting with [hit objects](/wiki/Hit_Objects). Hitsounds are typically used to give auditory feedback to the player to help them judge their [accuracy](/wiki/Accuracy) in relation to the song.
+**Hitsounds** are the sounds that osu! plays in response to user input when interacting with [hit objects](/wiki/Hit_object). Hitsounds are typically used to give auditory feedback to the player to help them judge their [accuracy](/wiki/Gameplay/Accuracy) in relation to the song.
 
 Hitsound feedback consists of a default sample called a "hit normal", and any combination of whistle, finish, or clap sample additions. Each sample has one of three "sample sets" that change its style: `Normal`, `Soft`, or `Drum`.
 

@@ -8,7 +8,7 @@ tags:
 
 ![CIC 2018 logo](img/logo.jpg)
 
-The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) was a 1v1 Indonesian osu!catch tournament hosted by ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361). It was the sixth installment of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) was a 1v1 Indonesian osu!catch tournament hosted by ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361). It was the sixth instalment of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
@@ -34,7 +34,7 @@ The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) was a 1v1 Indonesian 
 
 The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Yukaa-](https://osu.ppy.sh/users/5876959) |
 | Mappool selector | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
@@ -47,9 +47,9 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/780969)
-- [CIC 2018 Discord](http://discord.gg/dKcVbWE "Discord")
-- [Livestream](https://www.twitch.tv/osuindonesia "Twitch")
-- [Challonge brackets](https://challonge.com/CIC2018 "Challonge")
+- [CIC 2018 Discord](http://discord.gg/dKcVbWE)
+- [Livestream](https://www.twitch.tv/osuindonesia)
+- [Challonge brackets](https://challonge.com/CIC2018)
 
 ## Participants
 
@@ -64,13 +64,15 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 | **G** | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) |
 | **H** | ![][flag_ID] [-Izayoi](https://osu.ppy.sh/users/5710721) | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) | ![][flag_ID] [Buyut](https://osu.ppy.sh/users/9608136) |
 
+## Podium
+
 ![](img/podium.jpg "CIC 2018 podium")
 
 ## Mappools
 
 ### Finals
 
-**[Download the mappack here! (125 MB)](https://ritsu.s-ul.eu/ll4eK9XS "s-ul")**
+**[Download the mappack here! (125 MB)](https://ritsu.s-ul.eu/ll4eK9XS)**
 
 - NoMod
   - [Studio EIM - Crescent Moon Island Boss Theme (Emiru) \[Keaghan\]](https://osu.ppy.sh/beatmapsets/817364#fruits/1714006)
@@ -99,7 +101,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 
 ### Semifinals
 
-**[Download the mappack here! (110 MB)](https://ritsu.s-ul.eu/Si0ewAh0 "s-ul")**
+**[Download the mappack here! (110 MB)](https://ritsu.s-ul.eu/Si0ewAh0)**
 
 - NoMod
   - [NeLiME - CODE NAME : GAMMA (Hareimu) \[Chaos\]](https://osu.ppy.sh/beatmapsets/815067#fruits/1709451)
@@ -127,7 +129,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 
 ### Quarterfinals
 
-**[Download the mappack here! (88 MB)](https://ritsu.s-ul.eu/xdic7Hmq "s-ul")**
+**[Download the mappack here! (88 MB)](https://ritsu.s-ul.eu/xdic7Hmq)**
 
 - NoMod
   - [OISHII - PIZZA PLAZA (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/767009#fruits/1612277)
@@ -151,7 +153,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 
 ### Round of 16
 
-**[Download the mappack here! (64 MB)](http://ritsu.s-ul.eu/7tEXfmjV "s-ul")**
+**[Download the mappack here! (64 MB)](http://ritsu.s-ul.eu/7tEXfmjV)**
 
 - NoMod
   - [40mP feat.yuikonnu - Ame to Asphalt (-wwwww) \[Downpour\]](https://osu.ppy.sh/beatmapsets/658705#fruits/1395111)
@@ -172,7 +174,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 
 ### Group stage
 
-**[Download the mappack here! (79 MB)](http://ritsu.s-ul.eu/ZNs2PEAy "s-ul")**
+**[Download the mappack here! (79 MB)](http://ritsu.s-ul.eu/ZNs2PEAy)**
 
 - NoMod
   - [SMiLE.dk - GOLDEN SKY (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/749378#fruits/1578433)
@@ -381,9 +383,9 @@ Wednesday, 15 August 2018:
 10. Lag is not a valid reason to nullify a map.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
-    - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and blacklisted in the next installment of CIC.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
-    - If there is anyone try to play as the participants, their account will be blacklisted in the next installment of CIC for both participant and the helper.
+    - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and blacklisted in the next instalment of CIC.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next instalment of CIC.
+    - If there is anyone trying to play in place of any of the participants, their account will be blacklisted in the next instalment of CIC for both participant and the helper.
 
 ### Group stage rules
 

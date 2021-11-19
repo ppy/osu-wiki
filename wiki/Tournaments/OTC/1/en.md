@@ -7,7 +7,7 @@ tags:
 
 ![OTC logo](img/logo.png)
 
-The **osu! Technical Championship** (***OTC***) was a 1v1 double elimination osu! tournament hosted by ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669). osu! Technical Championship featured complex rhythms and sliders, unorthodox patterns, and a wide variety of technical mapping in its mappools. It was the first installment of the osu! Technical Championship.
+The **osu! Technical Championship** (***OTC***) was a 1v1 double elimination osu! tournament hosted by ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669). osu! Technical Championship featured complex rhythms and sliders, unorthodox patterns, and a wide variety of technical mapping in its mappools. It was the first instalment of the osu! Technical Championship.
 
 ## Tournament schedule
 
@@ -27,11 +27,11 @@ The **osu! Technical Championship** (***OTC***) was a 1v1 double elimination osu
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
-*Extra 1 month of osu!supporter tag was given to Grand Finals tiebreaker winner.*
+*Extra 1 month of osu!supporter was given to Grand Finals tiebreaker winner.*
 
 ## Organisation
 
@@ -50,9 +50,9 @@ The osu! Technical Championship was run by various osu! community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/684306)
-- [OTC Discord server](https://discord.gg/GGMmSu5 "Discord")
-- [Livestream](https://www.twitch.tv/osutechnicalchampionship "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStmKfT5R9F8cFGqit3gyVwz8H7EN4Z4y7d3mbWD5Lz4emiVUiMziaYfSR1sxGmMMRgVohyqiHS7x19/pubhtml "Google Sheets")**
+- [OTC Discord server](https://discord.gg/GGMmSu5)
+- [Livestream](https://www.twitch.tv/osutechnicalchampionship)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStmKfT5R9F8cFGqit3gyVwz8H7EN4Z4y7d3mbWD5Lz4emiVUiMziaYfSR1sxGmMMRgVohyqiHS7x19/pubhtml)**
 
 ## Participants
 
@@ -88,7 +88,7 @@ The osu! Technical Championship was run by various osu! community members.
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FI] [SanteriP](https://osu.ppy.sh/users/1981187) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) |
@@ -100,7 +100,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (190 MB)](http://www.mediafire.com/file/yhe8oh8mbays2a9/OTC+Finals+Pool.zip "MediaFire")**
+**[Download the mappack here! (190 MB)](http://www.mediafire.com/file/yhe8oh8mbays2a9/OTC+Finals+Pool.zip)**
 
 - NoMod
   - [Getty vs. DJ DiA - Fox4-Raize- (Kaifin) \[Extreme\]](https://osu.ppy.sh/beatmapsets/482552#osu/1029677)
@@ -125,7 +125,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (125 MB)](http://www.mediafire.com/file/3qlq8unc1oc026b/OTC+Semifinals+Pool.zip "MediaFire")**
+**[Download the mappack here! (125 MB)](http://www.mediafire.com/file/3qlq8unc1oc026b/OTC+Semifinals+Pool.zip)**
 
 - NoMod
   - [Function Phantom - Euclid (byfar) \[Fifth Postulate\]](https://osu.ppy.sh/beatmapsets/419614#osu/908093)
@@ -150,7 +150,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (126 MB)](http://www.mediafire.com/file/z9f0auhtlzo2nal/OTC+Quarter+Finals+Pool.zip "MediaFire")**
+**[Download the mappack here! (126 MB)](http://www.mediafire.com/file/z9f0auhtlzo2nal/OTC+Quarter+Finals+Pool.zip)**
 
 - NoMod
   - [Memme - Cherry Blossom (rrtyui) \[tyui's Extra\]](https://osu.ppy.sh/beatmapsets/442581#osu/984660)
@@ -175,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32 / Round of 16
 
-**[Download the mappack here! (172 MB)](http://www.mediafire.com/file/f9zmm3ju4zhe66d/OTC+RO32-16+Pool.zip "MediaFire")**
+**[Download the mappack here! (172 MB)](http://www.mediafire.com/file/f9zmm3ju4zhe66d/OTC+RO32-16+Pool.zip)**
 
 - NoMod
   - [Camellia - Towards The Horizon (sahuang) \[sahuang's Expert\]](https://osu.ppy.sh/beatmapsets/636393#osu/1478678)
@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (145 MB)](http://www.mediafire.com/file/shu79fyhms1f7t1/OTC+Group+Stage+Mappool.zip "MediaFire")**
+**[Download the mappack here! (145 MB)](http://www.mediafire.com/file/shu79fyhms1f7t1/OTC+Group+Stage+Mappool.zip)**
 
 - NoMod
   - [SWAN K feat. Asuka M - LOVE B.B.B (rs\_fadeaway) \[Extra\]](https://osu.ppy.sh/beatmapsets/143457#osu/758189)
@@ -558,7 +558,7 @@ Monday, 29 January 2018:
 5. Players will take turns banning maps until both players have banned two maps each.
    - One player cannot ban two HR maps or two DT maps maps. (e.g.) both HR maps can be banned, just not by the same player. The same applies to DT as well.
 6. The highest rolling player will then choose the first map to be played. Use the `!mp map <Beatmap ID>` command to select the chosen map. Apply the applicable mods and once both players are ready, start the game with the `!mp start 5` command.
-   - The beatmap ID for each map can be found under the appropriate mappool through the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStmKfT5R9F8cFGqit3gyVwz8H7EN4Z4y7d3mbWD5Lz4emiVUiMziaYfSR1sxGmMMRgVohyqiHS7x19/pubhtml "Google Sheets").
+   - The beatmap ID for each map can be found under the appropriate mappool through the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStmKfT5R9F8cFGqit3gyVwz8H7EN4Z4y7d3mbWD5Lz4emiVUiMziaYfSR1sxGmMMRgVohyqiHS7x19/pubhtml).
 7. After the map is finished, the lowest rolling player will choose their first map. Use the same procedure as the last step. Continue alternating between players until the match is finished.
    - If both players reach match point, the tiebreaker will be played to decide the winner.
 8. Once the the match is finished, say your goodbyes and close the lobby by using the `!mp close` command.

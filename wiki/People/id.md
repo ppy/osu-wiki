@@ -1,7 +1,8 @@
-# Orang - orang
+# Orang-orang
 
-Laman indeks untuk artikel yang berhubungan dengan orang - orang atau grup.
+Berikut ini merupakan daftar artikel yang membahas seputar sosok-sosok penting dan kelompok-kelompok pengguna khusus yang osu! miliki.
 
 - [Kontributor komunitas](Community_Contributors)
 - [Tim](The_Team)
-- [Pengguna dengan gelar unik](Users_with_unique_titles)
+- [peppy](peppy)
+- [Daftar pengguna dengan gelar khusus](Users_with_unique_titles)

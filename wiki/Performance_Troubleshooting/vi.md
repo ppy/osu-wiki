@@ -73,7 +73,7 @@ Khuyến nghị cho máy tính cổ hoặc laptop cần tiết kiệm pin.
 
 Mức giới hạn này giữ tần suất khung hình bằng 8 lần tần số quét màn hình, tối đa là 960 FPS. Đây là mức giới hạn được khuyến nghị cho người dùng không muốn đốt CPU/GPU quá mức, nhưng vẫn đảm bảo hiệu năng đủ cao dẫn đến độ trễ tín hiệu vào thấp.
 
-Thường được ưa chuộng hơn Unlimited để làm giảm số khung hình được xuẩt ra, đồng thời làm giảm khả năng dẫn đến [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science) "Wikipedia") overhead (thứ dẫn đến khung hình bị đứng).
+Thường được ưa chuộng hơn Unlimited để làm giảm số khung hình được xuẩt ra, đồng thời làm giảm khả năng dẫn đến [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)) overhead (thứ dẫn đến khung hình bị đứng).
 
 ### Unlimited (Không giới hạn)
 
@@ -81,7 +81,7 @@ Thường được ưa chuộng hơn Unlimited để làm giảm số khung hìn
 
 Nghe thì có vẻ là lựa chọn tốt nhất (và đúng là như vậy, nếu phần cứng bạn đáp ứng được), thì có vài điều bạn cần cân nhắc:
 
-- Bằng việc xuất nhiều khung hình hơn, có nhiều khả năng dẫn đến [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science) "Wikipedia") overhead.
+- Bằng việc xuất nhiều khung hình hơn, có nhiều khả năng dẫn đến [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)) overhead.
 - Bằng việc đẩy CPU và GPU đến cực hạn, có khả năng chúng sẽ nghẽn, dẫn đến giảm hiệu năng tổng thể.
 - GPU vốn dĩ không dùng để xuất hơn 1000 khung hình trên giây, nên nhiều hành vi bất thường có thể xảy ra, bao gồm giảm hiệu năng và tăng độ trễ thay vì giảm đi theo lý thuyết.
 

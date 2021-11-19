@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 18833358701b78c4583414ec03c38d4df29a1539
+---
+
 # Conditions de déverrouillage des médailles : Dedication
 
 | Nom de la médaille | Condition |

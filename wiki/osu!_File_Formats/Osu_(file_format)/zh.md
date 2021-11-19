@@ -12,8 +12,8 @@
 | :-- | :-- | :-- |
 | `[General]` | 谱面的一般信息 | `key: value` 键值对 |
 | `[Editor]` | 谱面编辑器的设置 | `key: value` 键值对 |
-| `[Metadata]` | 谱面[自身信息](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)的描述 | `key:value` 键值对 |
-| `[Difficulty]` | [难度设定](/wiki/Beatmap_Editor/Song_Setup#difficulty) | `key:value` 键值对 |
+| `[Metadata]` | 谱面[自身信息](/wiki/Beatmap_Editor/Song_Setup#歌曲信息设定与相关信息设定(song-and-map-meta-data))的描述 | `key:value` 键值对 |
+| `[Difficulty]` | [难度设定](/wiki/Beatmap_Editor/Song_Setup#谱面难度设定(Difficulty)) | `key:value` 键值对 |
 | `[Events]` | 专用于此谱面的故事板事件 | 逗号分隔值 |
 | `[TimingPoints]` | 时间点和控制点 | 逗号分隔值 |
 | `[Colours]` | 连击皮肤颜色 | `key : value` 键值对 |
@@ -114,7 +114,7 @@
 
 ### Storyboards（故事板）
 
-*更多故事板语法的信息。参见 [利用脚本制作故事板](/wiki/Storyboard_Scripting).*
+*更多故事板语法的信息。参见 [利用脚本制作故事板](/wiki/Storyboard/Scripting).*
 
 故事板可以在扩展名为 `.osb` 的单独可选故事板文件中定义。 外部故事板与同一谱面集的所有谱面共享。
 
@@ -141,7 +141,7 @@
 
 时间点有两个额外效果，可以在 `effects` 整数中使用0和3数位（从最低到最高）进行切换:
 
-- 0：是否为[kiai时间](/wiki/Beatmap_Editor/Kiai_Time) 
+- 0：是否为[kiai时间](/wiki/Kiai_time) 
 - 3：在osu!taiko与osu!mania模式中是否忽略第一条线
 
 其余位未使用。

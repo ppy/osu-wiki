@@ -18,15 +18,17 @@ The Project Loved Team mostly consists of *captains* for each [game mode](/wiki/
 
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- ![][flag_US] [Wixonater](https://osu.ppy.sh/users/10083084)
+- ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983)
+- ![][flag_US] [kotkeone](https://osu.ppy.sh/users/10083084)
+- ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
 
 ### osu!taiko
 
 - ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861)
+- ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910)
 - ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438)
 - ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563)
 - ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
-- ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344)
 
 ### osu!catch
 
@@ -38,11 +40,11 @@ The Project Loved Team mostly consists of *captains* for each [game mode](/wiki/
 ### osu!mania
 
 - ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750)
-- ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
-- ![][flag_US] [Alter-](https://osu.ppy.sh/users/4980256)
+- ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722)
 - ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
+- ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479)
 - ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)
-- ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
+- ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
 
 ## Coordinators
 
@@ -55,11 +57,13 @@ Coordinators are mainly responsible for making sure all the captains work togeth
 
 Metadata reviewers check through every beatmap that will be put up for voting, and work with mappers to fix any mistakes before the maps are potentially moved to Loved.
 
+- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
-- ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
+- ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196)
+- ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
 
@@ -103,6 +107,7 @@ Below listed are the users, who once were a part of the Project Loved Team.
 - ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767)
 - ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878)
 - ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)
+- ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344)
 - ![][flag_FR] [Yuzeyun](https://osu.ppy.sh/users/481582)
 
 ### osu!catch captains
@@ -115,18 +120,22 @@ Below listed are the users, who once were a part of the Project Loved Team.
 
 ### osu!mania captains
 
+- ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
 - ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852)
+- ![][flag_US] [Alter-](https://osu.ppy.sh/users/4980256)
 - ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992)
 - ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
+- ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
 - ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707)
 - ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612)
 - ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 
-### Video editors
+### Other
 
 - ![][flag_GB] [Striiker](https://osu.ppy.sh/users/7291594)
+- ![][flag_US] [ThatsNotAName](https://osu.ppy.sh/users/9682904)
 - ![][flag_HU] [verto](https://osu.ppy.sh/users/2015300)
 
 ## Trivia
@@ -139,9 +148,11 @@ Below listed are the users, who once were a part of the Project Loved Team.
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
@@ -154,6 +165,7 @@ Below listed are the users, who once were a part of the Project Loved Team.
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

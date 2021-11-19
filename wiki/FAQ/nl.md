@@ -18,7 +18,7 @@ Op het scherm onderaan kan je de cirkels zien, en het verhaalverloop wordt weerg
 
 ### Hoe te spelen?
 
-Aangezien de meester computergebruikers geen touchscreen ter beschikking hebben (tenzij jij de geluksvogel bent met een tablet-pc), is dit spel gemaakt om speelbaar te zijn met een doodgewone muis, net als eender welk invoerapparaat dat je maar kan indenken (een wiimote werkt vrij goed, net als een grafisch tableau, als je er toevallig een hebt liggen). De verschillende speeltechnieken kan je vinden op de pagina [Play Styles](/wiki/Play_Styles). Er zijn wel liedjes die de grenzen van de gewone muis verleggen, maar ze zijn allemaal getest en zijn (op een of andere manier toch) haalbaar met enkel een muis. Laat het gebrek aan touchscreen je alvast geen schrik aanjagen!
+Aangezien de meester computergebruikers geen touchscreen ter beschikking hebben (tenzij jij de geluksvogel bent met een tablet-pc), is dit spel gemaakt om speelbaar te zijn met een doodgewone muis, net als eender welk invoerapparaat dat je maar kan indenken (een wiimote werkt vrij goed, net als een grafisch tableau, als je er toevallig een hebt liggen). De verschillende speeltechnieken kan je vinden op de pagina [Play Styles](/wiki/Play_style). Er zijn wel liedjes die de grenzen van de gewone muis verleggen, maar ze zijn allemaal getest en zijn (op een of andere manier toch) haalbaar met enkel een muis. Laat het gebrek aan touchscreen je alvast geen schrik aanjagen!
 
 Nu over naar het speelwijze.
 
@@ -54,7 +54,7 @@ Dit onderdeel gaat dieper in op de fijne kneepjes van het scoren, met inbegrip v
 
 ### Precisie
 
-[precisie](/wiki/Accuracy) = totale punten van hits / (totaal aantal hits \* 300)
+[precisie](/wiki/Gameplay/Accuracy) = totale punten van hits / (totaal aantal hits \* 300)
 
 Totaal aantal hits = (aantal keer gemist + aantal hits van '50' + aantal hits van '100' + aantal hits van '300') Totaal aantal punten van hits = (aantal hits van '50' \* 50 + aantal hits van '100' \* 100 + aantal hits van '300' \* 300)
 

@@ -8,7 +8,7 @@ tags:
 
 ![YSC 2019 logo](img/logo.png)
 
-The **Yaz's Summer Cup 2019** (***YSC 2019***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the third instalment of Yaz's Summer Cup.
+**Yaz's Summer Cup 2019** (***YSC 2019***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the third instalment of Yaz's Summer Cup.
 
 ## Tournament schedule
 
@@ -54,10 +54,10 @@ Yaz's Summer Cup 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/913011)
-- [Challonge](https://challonge.com/YSC2019 "Challonge")
-- [Discord](https://discord.gg/brQzjbb "Discord")
-- [Livestream](https://www.twitch.tv/summer_cup_osu "Twitch")
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1uAaQ949SsbFOXrjw_jczta0rN4ytV4A2ClbTmdX3-RI/edit?usp=sharing "Google Sheets")
+- [Challonge](https://challonge.com/YSC2019)
+- [Discord](https://discord.gg/brQzjbb)
+- [Livestream](https://www.twitch.tv/summer_cup_osu)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1uAaQ949SsbFOXrjw_jczta0rN4ytV4A2ClbTmdX3-RI/edit?usp=sharing)
 
 ## Participants
 
@@ -68,7 +68,7 @@ Yaz's Summer Cup 2019 was run by various community members.
 | 33-48 | ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761), ![][flag_MN] [Seegii](https://osu.ppy.sh/users/4659319), ![][flag_AU] [Vivace](https://osu.ppy.sh/users/3698691), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [thaibuy](https://osu.ppy.sh/users/4250296), ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_PL] [GunOfGaming](https://osu.ppy.sh/users/5522259), ![][flag_AR] [-Nanahira-](https://osu.ppy.sh/users/6169195), ![][flag_HK] [IllyaLover](https://osu.ppy.sh/users/9313951), ![][flag_US] [spaghetti cat](https://osu.ppy.sh/users/8457202), ![][flag_NL] [Lilily](https://osu.ppy.sh/users/6502403), ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984), ![][flag_PL] [twoj stary](https://osu.ppy.sh/users/3543130), ![][flag_GB] [hlo](https://osu.ppy.sh/users/2232928) |
 | 49-64 | ![][flag_AU] [Ezipie](https://osu.ppy.sh/users/5978907), ![][flag_GB] [Woffel](https://osu.ppy.sh/users/3915122), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568), ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891), ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_AU] [ASecretWaffle](https://osu.ppy.sh/users/3336090), ![][flag_AU] [Eta Carinae](https://osu.ppy.sh/users/5841333), ![][flag_US] [Woey](https://osu.ppy.sh/users/3792472), ![][flag_SE] [Saika-](https://osu.ppy.sh/users/4316633), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/users/4012086), ![][flag_PL] [esemoka57](https://osu.ppy.sh/users/2272413), ![][flag_DE] [SgtCataclyst](https://osu.ppy.sh/users/7947626), ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265), ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597), ![][flag_US] [explosionboom](https://osu.ppy.sh/users/4681410), ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453) |
 
-See the [participants sheet](https://docs.google.com/spreadsheets/d/1uAaQ949SsbFOXrjw_jczta0rN4ytV4A2ClbTmdX3-RI/edit#gid=1492058728 "Google Sheets") for a list of all initial participants.
+See the [participants sheet](https://docs.google.com/spreadsheets/d/1uAaQ949SsbFOXrjw_jczta0rN4ytV4A2ClbTmdX3-RI/edit#gid=1492058728) for a list of all initial participants.
 
 ## Podium
 
@@ -85,7 +85,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (126.7 MB)](https://mega.nz/#!mgRE2AzS!UVX3eCXp-dvS-V5ns2QT4HBVHKsfBvAbqGVk6T1HgrI "MEGA")**
+**[Download the mappack here! (126.7 MB)](https://mega.nz/#!mgRE2AzS!UVX3eCXp-dvS-V5ns2QT4HBVHKsfBvAbqGVk6T1HgrI)**
 
 - NoMod
   - [Drop - Dragon and Sakura Miko (Yusomi) [Itomori AR9.5]](https://osu.ppy.sh/beatmapsets/508656#osu/1081885)
@@ -116,7 +116,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (121.1 MB)](https://mega.nz/#!j15EzA4I!kmj97bAOL39LH8Y4NgLp8jO9ozJbw02QT-73XeUvWJA "MEGA")**
+**[Download the mappack here! (121.1 MB)](https://mega.nz/#!j15EzA4I!kmj97bAOL39LH8Y4NgLp8jO9ozJbw02QT-73XeUvWJA)**
 
 - NoMod
   - [ZAQ - Last Proof (eLy) [Don't Give Up]](https://osu.ppy.sh/beatmapsets/596889#osu/1262025)
@@ -147,7 +147,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (133.4 MB)](https://mega.nz/#!q95XnCTK!NUlb4R_zo7BZ1SIqJFSZ2wr0vHKD0aL5jBNp5XfduIo "MEGA")**
+**[Download the mappack here! (133.4 MB)](https://mega.nz/#!q95XnCTK!NUlb4R_zo7BZ1SIqJFSZ2wr0vHKD0aL5jBNp5XfduIo)**
 
 - NoMod
   - [Yorushika - Deep Indigo (Sing) [That's Why I Gave Up on Mapping]](https://osu.ppy.sh/beatmapsets/949288#osu/1982289)
@@ -178,7 +178,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (136.1 MB)](https://mega.nz/#!6gh1VSCJ!0_jwlD4bKhaYG9wMVGcshaNetm5qHAa5_b9qYRVT9nY "MEGA")**
+**[Download the mappack here! (136.1 MB)](https://mega.nz/#!6gh1VSCJ!0_jwlD4bKhaYG9wMVGcshaNetm5qHAa5_b9qYRVT9nY)**
 
 - NoMod
   - [Yuna (CV: Kanada Sayaka) - Break Beat Bark! (SkyFlame) [Checkmate]](https://osu.ppy.sh/beatmapsets/924734#osu/1931547)
@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (165.8 MB)](https://mega.nz/#!v15QmIaa!wCMR-il_t9Zmsob7-zsYHvrEvRGpPi5ROMSfly7rH-I "MEGA")**
+**[Download the mappack here! (165.8 MB)](https://mega.nz/#!v15QmIaa!wCMR-il_t9Zmsob7-zsYHvrEvRGpPi5ROMSfly7rH-I)**
 
 - NoMod
   - [Mimori Suzuko - Light for Knight (\_kotachi\_) [Destiny]](https://osu.ppy.sh/beatmapsets/801337#osu/1682101)
@@ -240,7 +240,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (132.7 MB)](https://mega.nz/#!K0gGXKjD!4Y3_duvE_K_0TeIlGYjpzg57SFoAkxhWS2cG3n4ptE8 "MEGA")**
+**[Download the mappack here! (132.7 MB)](https://mega.nz/#!K0gGXKjD!4Y3_duvE_K_0TeIlGYjpzg57SFoAkxhWS2cG3n4ptE8)**
 
 - NoMod
   - [gi(a)rlish number - Bloom (Shizuku-) [Extra]](https://osu.ppy.sh/beatmapsets/551782#osu/1168674)
@@ -266,7 +266,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 64
 
-**[Download the mappack here! (84.8 MB)](https://mega.nz/file/ylAWBKIB#N19bjBeO5GmQPJRi33jERl4gxwJmnx69ZwXgmSeFrNU "MEGA")**
+**[Download the mappack here! (84.8 MB)](https://mega.nz/file/ylAWBKIB#N19bjBeO5GmQPJRi33jERl4gxwJmnx69ZwXgmSeFrNU)**
 
 - NoMod
   - [BUTA-OTOME - Blue Fireworks (BarkingMadDog) [Reminiscence]](https://osu.ppy.sh/beatmapsets/716455#osu/1513645)
@@ -690,14 +690,14 @@ Tuesday, 16 July 2019:
 
 ### Qualifiers
 
-See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1uAaQ949SsbFOXrjw_jczta0rN4ytV4A2ClbTmdX3-RI/edit#gid=27448477 "Google Sheets") for a list of all qualification results.
+See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1uAaQ949SsbFOXrjw_jczta0rN4ytV4A2ClbTmdX3-RI/edit#gid=27448477) for a list of all qualification results.
 
 ## Ruleset
 
 - This tournament is a 1v1 double-elimination international osu! tournament.
 - This tournament will consist of 128 players.
 - Matches will be head to head, with score v2 as the scoring system used.
-- There will be no rank limit on signups, however if we reach 124 signups we will take the top 124 players in terms of BWS.
+- There will be no rank limit on sign-ups, however if we reach 124 sign-ups we will take the top 124 players in terms of BWS.
 - The Top 4 from YSC 2018 (![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_KR] [Yaong](https://osu.ppy.sh/users/1883865), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) and ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)) all have automatic qualifications into the Group Stage should they accept their invitation.
 - Ranks will be taken and locked when registrations have concluded
 - Anyone who does sign up must be able to play maps with a difficulty of at least 5*.
@@ -715,7 +715,7 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1uAaQ9
 - The better of the 2 scores for each map will be counted towards the final qualfier score.
 - Failed scores are counted as a pass.
 - Players are free to leave the qualifiers at any point, however any maps that a player does not play will not be counted towards their final score.
-- The Top 60 qualifying scores (depending on top 4 signups) will progress into the bracket stage.
+- The Top 60 qualifying scores (depending on top 4 sign-ups) will progress into the bracket stage.
 
 ### Knockout stages
 
@@ -726,8 +726,8 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1uAaQ9
 - Referees will create the lobby and invite players 10 minutes before the match is due to start.
 - Any player that fails to show up 10 minutes after a match is due to start will forfeit the match and a win by default will be awarded to the other player.
 - Failure to attend a match without a valid reason may result in being blacklisted from participating in future tournaments.
-- The referee will have host at all times during the match. The only exception are for picking warmups.
-- Warmups are allowed beginning in the Round of 32, Warmups must be 4 minutes or shorter.
+- The referee will have host at all times during the match. The only exception are for picking warm-ups.
+- Warm-ups are allowed beginning in the Round of 32, Warm-ups must be 4 minutes or shorter.
 - Players will have one ban in the Round of 64 and Round of 32 and two bans thereafter. Players are allowed to ban from the same mappool.
 - Players will roll once. The winner of the roll selects first or second pick or ban, and the loser of the roll selects from the remaining options.
 - Players will have 90 seconds to ban a map. Failure to ban a map after this time will result in a loss of a ban.

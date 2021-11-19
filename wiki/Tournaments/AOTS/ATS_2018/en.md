@@ -10,7 +10,7 @@ tags:
 
 > Unite the Diversity between us!
 
-The **Asian Taiko Showdown 2018** (***ATS 2018***) was a 1v1 double-elimination osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002). Previously, ATS was known as [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070). It was the second installment of the Asian-Oceanian Taiko Showdown, and an extension from the Indonesia region to Asia.
+The **Asian Taiko Showdown 2018** (***ATS 2018***) was a 1v1 double-elimination osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002). Previously, ATS was known as [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070). It was the second instalment of the Asian-Oceanian Taiko Showdown, and an extension from the Indonesia region to Asia.
 
 ## Tournament schedule
 
@@ -29,7 +29,7 @@ The **Asian Taiko Showdown 2018** (***ATS 2018***) was a 1v1 double-elimination 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter tag, userpage banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter, userpage banner |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Userpage banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Userpage banner |
 
@@ -51,9 +51,9 @@ The Asian Taiko Showdown 2018 was run by various osu!taiko community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/726251)
-- [Livestream](https://www.twitch.tv/osutaikoshowdown "Twitch")
-- [Asian Taiko Showdown 2018 Discord](https://discord.gg/2xQDbkS "Discord")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0 "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osutaikoshowdown)
+- [Asian Taiko Showdown 2018 Discord](https://discord.gg/2xQDbkS)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0)**
 
 ## Participants
 
@@ -77,19 +77,21 @@ The Asian Taiko Showdown 2018 was run by various osu!taiko community members.
 | **G** | ![][flag_TW] [TS\_LewisLuo](https://osu.ppy.sh/users/4337536) | ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957) | ![][flag_ID] [Shirai-](https://osu.ppy.sh/users/4221845) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
 | **H** | ![][flag_JP] [KILI3343](https://osu.ppy.sh/users/11233651) | ![][flag_PH] [Jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_JP] [GlinT fraulein](https://osu.ppy.sh/users/7364981) | ![][flag_JP] [puropera209](https://osu.ppy.sh/users/2545134) |
 
-![](img/podium.jpg "ATS 2018 podium")
-
 ![](img/upper_bracket.jpg "ATS 2018 Upper Bracket")
 
 ![](img/lower_bracket.jpg "ATS 2018 Lower Bracket")
 
 ![](img/gs_participants.gif "ATS 2018 GS participants")
 
+## Podium
+
+![](img/podium.jpg "ATS 2018 podium")
+
 ## Mappools
 
 ### Grand Finals
 
-**[Download the mappack here! (65MB)](https://drive.google.com/file/d/18VwS0VHtsRC9zecGbM1ne_uszDDhkk3v/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (65MB)](https://drive.google.com/file/d/18VwS0VHtsRC9zecGbM1ne_uszDDhkk3v/view?usp=sharing)**
 
 - NoMod
   - [Colorful Sounds Port - ETERNAL DRAIN (Shirai-) \[MuzukATShii\]](https://osu.ppy.sh/beatmapsets/625899#taiko/1574085)
@@ -117,7 +119,7 @@ The Asian Taiko Showdown 2018 was run by various osu!taiko community members.
 
 ### Finals
 
-**[Download the mappack here! (84MB)](https://drive.google.com/file/d/1y2tGdLhx3j8U7h7FZHDVjhvYxA7ouY-e/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (84MB)](https://drive.google.com/file/d/1y2tGdLhx3j8U7h7FZHDVjhvYxA7ouY-e/view?usp=sharing)**
 
 - NoMod
   - [Innocent Key - Toho-Assisted-Speedrun!!! (Backfire) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/796419#taiko/1672405)
@@ -145,7 +147,7 @@ The Asian Taiko Showdown 2018 was run by various osu!taiko community members.
 
 ### Semifinals
 
-**[Download the mappack here! (81MB)](https://drive.google.com/file/d/17XmIGdwsdxLNYnkc7EoL0mLczF8VoUsw/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (81MB)](https://drive.google.com/file/d/17XmIGdwsdxLNYnkc7EoL0mLczF8VoUsw/view?usp=sharing)**
 
 - NoMod
   - [Mitsuyoshi Takenobu no Ani - Amphisbaena (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/737973#taiko/1557391)
@@ -173,7 +175,7 @@ The Asian Taiko Showdown 2018 was run by various osu!taiko community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (91 MB)](https://drive.google.com/file/d/1tlAk1b9H1VT5xbLEi08hEzEbFRAuze63/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (91 MB)](https://drive.google.com/file/d/1tlAk1b9H1VT5xbLEi08hEzEbFRAuze63/view?usp=sharing)**
 
 - NoMod
   - [Renard - The Club (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/553809#taiko/1172641)
@@ -201,7 +203,7 @@ The Asian Taiko Showdown 2018 was run by various osu!taiko community members.
 
 ### Round of 16
 
-**[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1dJbbGVljsn9AYSHsubbzfcmBc0cwPPh0/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1dJbbGVljsn9AYSHsubbzfcmBc0cwPPh0/view?usp=sharing)**
 
 - NoMod
   - [Kamui Gakupo, KAITO, Kagamine Len - Immoral Memory\~The Lost Memory\~ (7odoa) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/44898#taiko/145660)
@@ -229,7 +231,7 @@ The Asian Taiko Showdown 2018 was run by various osu!taiko community members.
 
 ### Group stage
 
-**[Download the mappack here! (77 MB)](https://drive.google.com/file/d/188OfTUx7h3CeBuWzNdVA5xZ9HjIFznm0/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (77 MB)](https://drive.google.com/file/d/188OfTUx7h3CeBuWzNdVA5xZ9HjIFznm0/view?usp=sharing)**
 
 - NoMod
   - [Hatsune Miku & Megpoid Gumi - Ashurashurashura (Mapper 31) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/36248#taiko/148859)
@@ -257,7 +259,7 @@ The Asian Taiko Showdown 2018 was run by various osu!taiko community members.
 
 ### Eliminations stage
 
-**[Download the mappack here! (65MB)](https://drive.google.com/file/d/1u4bnB-9fznRFtVGSxuLYvB7ZonvH8gRK/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (65MB)](https://drive.google.com/file/d/1u4bnB-9fznRFtVGSxuLYvB7ZonvH8gRK/view?usp=sharing)**
 
 - NoMod
   - [yanaginagi - Owari no Sekai kara (Lundlerol) \[Lundle's Taiko\]](https://osu.ppy.sh/beatmapsets/44854#taiko/156706)
@@ -374,7 +376,7 @@ Saturday, 2 June 2018:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C | **nyanmi-1828** ![][flag_JP] | **4** | 1 | ![][flag_KR] L y s | [#1](https://osu.ppy.sh/community/matches/42979943) |
 | D | **qoot8123** ![][flag_TW] | **4** | 0 | ![][flag_PH] Micka | [#1](https://osu.ppy.sh/community/matches/42979761) |
-| B | Smallwu ![][flag_TW] | 0 | 0 | ![][flag_JP] yyyyyyyyyyypetu | -nullified- |
+| B | Smallwu ![][flag_TW] | 0 | 0 | ![][flag_JP] yyyyyyyyyyypetu | *nullified* |
 | G | **ayomikasa** ![][flag_ID] | **4** | 0 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/42980581) |
 | F | **butter0414** ![][flag_JP] | **4** | 1 | ![][flag_ID] Niko-nyan | [#1](https://osu.ppy.sh/community/matches/42981652) |
 | H | **Jmeh07** ![][flag_PH] | **4** | 3 | ![][flag_JP] GlinT fraulein | [#1](https://osu.ppy.sh/community/matches/42981801) |
@@ -385,7 +387,7 @@ Saturday, 2 June 2018:
 | F | **Niko-nyan** ![][flag_ID] | **4** | 1 | ![][flag_AU] SpiritsUnite | [#1](https://osu.ppy.sh/community/matches/42983966) |
 | D | **qoot8123** ![][flag_TW] | **4** | 2 | ![][flag_MY] ZethZ161 | [#1](https://osu.ppy.sh/community/matches/42984090) |
 | A | **Jerry** ![][flag_MY] | **4** | 0 | ![][flag_KR] 404 AccNotFound | *win by default* |
-| D | CrabCow ![][flag_MY] | 0 | 0 | ![][flag_PH] Micka | -nullified- |
+| D | CrabCow ![][flag_MY] | 0 | 0 | ![][flag_PH] Micka | *nullified* |
 | E | toorun12 ![][flag_JP] | 1 | **4** | ![][flag_JP] **Sanawieck** | [#1](https://osu.ppy.sh/community/matches/42985601) |
 | F | **butter0414** ![][flag_JP] | **4** | 0 | ![][flag_SG] uchuuj1n | [#1](https://osu.ppy.sh/community/matches/42985633) |
 | B | **Smallwu** ![][flag_TW] | **4** | 0 | ![][flag_MY] Dakry | [#1](https://osu.ppy.sh/community/matches/42987313) |

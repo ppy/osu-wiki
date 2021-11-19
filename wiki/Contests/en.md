@@ -123,7 +123,7 @@ The **Community Mapping Contest** is a mapping contest where participating mappe
 
 #### A Labour of Love
 
-**A Labour of Love** is a team-based contest spanning over multiple artistic disciplines where participating teams are tasked to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/background video as a visual accompaniment to said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264 "Twitter"), the contest is modeled after [THE BMS OF FIGHTERS events](https://www.bmsoffighters.net/ "BMS OF FIGHTERS") and other similar competitions.
+**A Labour of Love** is a team-based contest spanning over multiple artistic disciplines where participating teams are tasked to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/background video as a visual accompaniment to said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264), the contest is modeled after [THE BMS OF FIGHTERS events](https://www.bmsoffighters.net/) and other similar competitions.
 
 | Contest No. | Remixed Song | ![Gold crown][GCrown] (Overall Winner) | ![Silver crown][SCrown] (Overall Runner-Up) | Community Vote Winner | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -171,7 +171,7 @@ The **Fan Art Contest** is a drawing contest where participating artists from th
 | [#13 (Spring 2018)](https://osu.ppy.sh/home/news/2018-04-03-spring-2018-fanart-contest) | Spring | ![][flag_FI] [Sunako](https://osu.ppy.sh/users/2801166) | ![][flag_JP] [In those days](https://osu.ppy.sh/users/7295733) | ![][flag_RU] [Leissss](https://osu.ppy.sh/users/4750716) | [#1](https://osu.ppy.sh/home/news/2018-05-02-spring-2018-fanart-contest-results) |
 | [#14 (Summer 2018)](https://osu.ppy.sh/home/news/2018-07-18-summer-2018-fanart-contest) | Summer | ![][flag_DE] [Evaine](https://osu.ppy.sh/users/7295733) | ![][flag_AT] [Alba](https://osu.ppy.sh/users/12164832) | ![][flag_FR] [Sylux6](https://osu.ppy.sh/users/2607507) | [#1](https://osu.ppy.sh/home/news/2018-08-09-summer-2018-fanart-contest-results) |
 | [#15 (Halloween 2018)](https://osu.ppy.sh/home/news/2018-10-03-halloween-2018-fanart-contest) | Halloween | ![][flag_US] [2Su](https://osu.ppy.sh/users/6598966) | ![][flag_FI] [Sunako](https://osu.ppy.sh/users/2801166) | ![][flag_TW] [h-alice0430](https://osu.ppy.sh/users/12764300) | [#1](https://osu.ppy.sh/home/news/2018-10-23-halloween-2018-descends) |
-| [#16 (Winter 2018)](https://osu.ppy.sh/home/news/2018-11-19-winter-2018-fanart-contest) | Halloween | ![][flag_PL] [Chiruuu](https://osu.ppy.sh/users/8911572) | ![][flag_VN] [PlsRyder](https://osu.ppy.sh/users/3457622) | ![][flag_US] [Shuuzo](https://osu.ppy.sh/users/3661521) | [#1](https://osu.ppy.sh/home/news/2018-12-12-winter-2018-is-here) |
+| [#16 (Winter 2018)](https://osu.ppy.sh/home/news/2018-11-19-winter-2018-fanart-contest) | Winter | ![][flag_PL] [Chiruuu](https://osu.ppy.sh/users/8911572) | ![][flag_VN] [PlsRyder](https://osu.ppy.sh/users/3457622) | ![][flag_US] [Shuuzo](https://osu.ppy.sh/users/3661521) | [#1](https://osu.ppy.sh/home/news/2018-12-12-winter-2018-is-here) |
 | [#17 (Spring 2019)](https://osu.ppy.sh/home/news/2019-05-10-spring-2019-fanart-contest) | Spring | ![][flag_US] [Tofumang](https://osu.ppy.sh/users/4817223) | ![][flag_FI] [Sunako](https://osu.ppy.sh/users/2801166) | ![][flag_CH] [Pvtz](https://osu.ppy.sh/users/4698044) | [#1](https://osu.ppy.sh/home/news/2019-06-03-spring-2019-fanart-contest-results) |
 | [#18 (Summer 2019)](https://osu.ppy.sh/home/news/2019-07-12-summer-2019-fanart-contest) | Summer | ![][flag_FI] [Sunako](https://osu.ppy.sh/users/2801166) | ![][flag_CH] [ItsBluu](https://osu.ppy.sh/users/6946083) | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) | [#1](https://osu.ppy.sh/home/news/2019-08-08-summer-2019-fanart-contest-results) |
 | [#19 (Halloween 2019)](https://osu.ppy.sh/home/news/2019-10-09-halloween-fanart-contest) | Halloween | ![][flag_FI] [Sunako](https://osu.ppy.sh/users/2801166) | ![][flag_NZ] [SJPumpkin](https://osu.ppy.sh/users/4840900) | ![][flag_NL] [157](https://osu.ppy.sh/users/9315038) | [#1](https://osu.ppy.sh/home/news/2019-10-31-osu-spooktacular-halloween-special) |
@@ -192,7 +192,7 @@ The *osu! Beatmap Blueprints Contest* is a one-off contest held in commemoration
 
 #### osu!idol
 
-**osu!idol** is a singing contest where participants from all across the community compete to create the best song cover (either solo or with a partner) across multiple judging and community voting stages. The contest is named after the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise) "Wikipedia") and is mainly inspired by various televised singing competition shows.
+**osu!idol** is a singing contest where participants from all across the community compete to create the best song cover (either solo or with a partner) across multiple judging and community voting stages. The contest is named after the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise)) and is mainly inspired by various televised singing competition shows.
 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Winning Song | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -371,6 +371,14 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 
 ² The Instrumental category provides mappers with a choice of five different songs to be mapped: Umeboshi Chazuke - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, Nagakawa Koutarou - Hakata Tonkotsu Ramens, and roop - Chatblanc.
 
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
+[GCrown]: /wiki/shared/crown-gold.png "1st place"
+[SCrown]: /wiki/shared/crown-silver.png "2nd place"
+[BCrown]: /wiki/shared/crown-bronze.png "3rd place"
+
 [flag_AE]: /wiki/shared/flag/AE.gif "United Arab Emirates"
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
@@ -379,10 +387,10 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 [flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
@@ -397,17 +405,17 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PA]: /wiki/shared/flag/PA.gif "Panama"
 [flag_PE]: /wiki/shared/flag/PE.gif "Peru"
-[flag_PH]: /wiki/shared/flag/PH.gif "Phillipines"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
@@ -416,11 +424,3 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
-
-[osu!]: /wiki/shared/mode/osu.png "osu!"
-[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
-[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
-[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
-[GCrown]: /wiki/shared/crown-gold.png "1st place"
-[SCrown]: /wiki/shared/crown-silver.png "2nd place"
-[BCrown]: /wiki/shared/crown-bronze.png "3rd place"

@@ -116,7 +116,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 
 ### Storyboards
 
-*For information about storyboard syntax, see [Storyboard Scripting](/wiki/Storyboard_Scripting).*
+*For information about storyboard syntax, see [Storyboard Scripting](/wiki/Storyboard/Scripting).*
 
 Storyboards can be defined in a separate optional storyboard file with the `.osb` extension. External storyboards are shared between all difficulties in a beatmap.
 
@@ -143,7 +143,7 @@ Each timing point influences a specified portion of the map, commonly called a "
 
 Timing points have two extra effects that can be toggled using bits 0 and 3 (from least to most significant) in the `effects` integer:
 
-- 0: Whether or not [kiai time](/wiki/Beatmap_Editor/Kiai_Time) is enabled
+- 0: Whether or not [kiai time](/wiki/Kiai_time) is enabled
 - 3: Whether or not the first barline is omitted in osu!taiko and osu!mania
 
 The rest of the bits are unused.

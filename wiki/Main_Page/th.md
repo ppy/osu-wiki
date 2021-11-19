@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
 <div class="wiki-main-page__blurb">
@@ -11,7 +13,7 @@ layout: main_page
 
 # การเริ่มต้น
 
-[ยินดีต้อนรับ](/wiki/Welcome) • [การติดตั้ง](/wiki/Installation) • [การลงทะเบียน](/wiki/Registration) • [ศูนย์ช่วยเหลือ](/wiki/Help_Centre) • [คำถามที่พบบ่อย](/wiki/FAQ)
+[การติดตั้ง](/wiki/Installation) • [การลงทะเบียน](/wiki/Registration) • [ศูนย์ช่วยเหลือ](/wiki/Help_Centre) • [คำถามที่พบบ่อย](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -40,7 +42,7 @@ layout: main_page
 
 ส่วนประกอบต่าง ๆ: [AiMod](/wiki/Beatmap_Editor/AiMod) • [เส้นแบ่งจังหวะ](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [การจัดระยะห่างระหว่างโน้ต](/wiki/Beatmap_Editor/Distance_Snap) • [เมนู](/wiki/Beatmap_Editor/Menu) • [การโหลดสตอรี่บอร์ด](/wiki/Beatmap_Editor/SB_Load) • [เส้นเวลา](/wiki/Beatmap_Editor/Timelines)
 
-[การทำบีทแมพ](/wiki/Beatmapping) • [ระดับความยาก](/wiki/Beatmap/Difficulty) • [เทคนิคการทำแมป](/wiki/Mapping_Techniques) • [การทำสตอรี่บอร์ด](/wiki/Storyboarding)
+[การทำบีทแมพ](/wiki/Beatmapping) • [ระดับความยาก](/wiki/Beatmap/Difficulty) • [เทคนิคการทำแมป](/wiki/Mapping_Techniques) • [การทำสตอรี่บอร์ด](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -56,7 +58,7 @@ layout: main_page
 
 # ชุมชน
 
-[ทัวร์นาเมนต์](/wiki/Tournaments) • [การทำสกิน](/wiki/Skinning) • [โปรเจคต่าง ๆ](/wiki/Projects) • [ไกด์](/wiki/Guides) • [เซิร์ฟเวอร์ดิสคอร์ด osu!dev](/wiki/osu!dev_Discord_server) • [คุณช่วยเราได้อย่างไร](/wiki/How_You_Can_Help!) • [คำศัพท์](/wiki/Glossary)
+[ทัวร์นาเมนต์](/wiki/Tournaments) • [การทำสกิน](/wiki/Skinning) • [โปรเจคต่าง ๆ](/wiki/Projects) • [ไกด์](/wiki/Guides) • [เซิร์ฟเวอร์ดิสคอร์ด osu!dev](/wiki/osu!dev_Discord_server) • [คุณช่วยเราได้อย่างไร](/wiki/How_you_can_help!) • [คำศัพท์](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -81,7 +83,7 @@ layout: main_page
 
 # เกี่ยวกับวิกิ
 
-[แผนผังเว็บไซต์](/wiki/Sitemap) • [คู่มือการมีส่วนร่วม](/wiki/osu!_wiki_Contribution_Guide) • [เกณฑ์การจัดรูปแบบบทความ](/wiki/Article_Styling_Criteria) • [เกณฑ์การจัดรูปแบบข่าว](/wiki/News_Styling_Criteria)
+[แผนผังเว็บไซต์](/wiki/Sitemap) • [คู่มือการมีส่วนร่วม](/wiki/osu!_wiki/Contribution_guide) • [เกณฑ์การจัดรูปแบบบทความ](/wiki/Article_styling_criteria) • [เกณฑ์การจัดรูปแบบข่าว](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

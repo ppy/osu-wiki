@@ -2,7 +2,7 @@
 
 ![ANZT 6S logo](img/logo.png)
 
-The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a 1v1 single elimination osu! tournament with a Swiss format group stage hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475) and ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135). It was the seventh installment of the Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a 1v1 single elimination osu! tournament with a Swiss format group stage hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475) and ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135). It was the seventh instalment of the Aus/NZ tourneys.
 
 ## Tournament schedule
 
@@ -19,9 +19,9 @@ The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a 1v1 sing
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ## Organisation
 
@@ -38,8 +38,20 @@ The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a 1v1 sing
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/839284)
-- [Livestream](https://www.twitch.tv/osuanzt "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1gnV5_7e-57MXtpoY57lgyPKyF3_IvjDXsGoLVgrnqk8 "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osuanzt)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1gnV5_7e-57MXtpoY57lgyPKyF3_IvjDXsGoLVgrnqk8)**
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984) |
+
+All individual match results can be found on the spreadsheet linked above.
 
 ## Mappools
 
@@ -261,18 +273,6 @@ The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a 1v1 sing
   - [Hatsune Miku - Tenshinranman High Collar Hime (Natsume Rin) [Rin]](https://osu.ppy.sh/beatmapsets/55115#osu/167718)
 - Tiebreaker
   - **[orangentle / Yu\_Asahina - HAELEQUIN (Extended ver.) (RLC) [Another]](https://osu.ppy.sh/beatmapsets/272333#osu/619051)**
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984) |
-
-All individual match results can be found on the spreadsheet linked above.
 
 ## Ruleset
 

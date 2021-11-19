@@ -19,7 +19,7 @@ Links:
 On 2012-10-08, osu!mania was finally released to the public build ([woc2006](https://osu.ppy.sh/users/1105845))! In addition to this:
 
 - Per-object hitsounds were added in the editor. ([mm201](https://osu.ppy.sh/users/30655))
-- Allow recovery from failing in [multiplayer](/wiki/Multi) by reaching full HP. (Exception if [Sudden Death](/wiki/SD) or [Perfect](/wiki/PF) mod was enabled)
+- Allow recovery from failing in [multiplayer](/wiki/Multi) by reaching full HP. (Exception if [Sudden Death](/wiki/Game_modifier/Sudden_Death) or [Perfect](/wiki/Game_modifier/Perfect) mod was enabled)
 - Scrolling support to in-game online ranking list.
 - Fixes on [skin selector](/wiki/Options#skin) to make it play more realistically.
 
@@ -91,7 +91,7 @@ On 2012-12-21, osu! was given quite a major update. The most notable changes wer
 4. Fun Spoiler Settings was changed to [Visual Settings](/wiki/Visual_Settings) and placed at the bottom of the screen
 5. No Video mod was moved to Visual Settings
 
-Technical issues and bugs were expected. The widescreen support, despite being functional, caused some images and videos to look weird (head of a character not visible, missing or partly hidden text) as the top and bottom were cropped. [Storyboards](/wiki/Storyboards) currently don't support widescreen, instead, letterboxes or black bars appear on the sides which caused them to look cramped. This created an issue for [Catch the Beat](/wiki/Game_mode/osu!catch) as the fruit would go *over* the black bars that were supposed to be in the boundary when using widescreen. Some storyboards also do not function properly (some images do not stay in the playing area, but instead, extend out to the black bars). These issues were currently known and were being fixed as solution to the issues were discussed and found.
+Technical issues and bugs were expected. The widescreen support, despite being functional, caused some images and videos to look weird (head of a character not visible, missing or partly hidden text) as the top and bottom were cropped. [Storyboards](/wiki/Storyboard) currently don't support widescreen, instead, letterboxes or black bars appear on the sides which caused them to look cramped. This created an issue for [Catch the Beat](/wiki/Game_mode/osu!catch) as the fruit would go *over* the black bars that were supposed to be in the boundary when using widescreen. Some storyboards also do not function properly (some images do not stay in the playing area, but instead, extend out to the black bars). These issues were currently known and were being fixed as solution to the issues were discussed and found.
 
 Links:
 

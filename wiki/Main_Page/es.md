@@ -1,6 +1,8 @@
 ---
 layout: main_page
 no_native_review: true
+outdated: true
+outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
 <!-- Translated to Latin American Spanish, there it might be some differences with Castilian. Most possibly, it seems more like Chilean Spanish. -->
@@ -14,7 +16,7 @@ Bienvenido al wiki de osu!, un proyecto que contiene una amplia gama de informac
 
 # Empezamos
 
-[Bienvenido](/wiki/Welcome) • [Instalación](/wiki/Installation) • [Registro](/wiki/Registration) • [Centro de ayuda](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[Instalación](/wiki/Installation) • [Registro](/wiki/Registration) • [Centro de ayuda](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -43,7 +45,7 @@ Secciones: [Composición](/wiki/Beatmap_Editor/Compose) • [Diseño](/wiki/Beat
 
 Componentes: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Divisor de golpes](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distancía de golpes](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [Carga de SB](/wiki/Beatmap_Editor/SB_Load) • [Líneas de tiempo](/wiki/Beatmap_Editor/Timelines)
 
-[Beatmapping](/wiki/Beatmapping) • [Dificultades](/wiki/Beatmap/Difficulty) • [Técnicas de mapeo](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
+[Beatmapping](/wiki/Beatmapping) • [Dificultades](/wiki/Beatmap/Difficulty) • [Técnicas de mapeo](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -59,7 +61,7 @@ Componentes: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Divisor de golpes](/wiki/B
 
 # Comunidad
 
-[Torneos](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proyectos](/wiki/Projects) • [Guías](/wiki/Guides) • [Servidor de Discord osu!dev](/wiki/osu!dev_Discord_server) • [Cómo puedes ayudar](/wiki/How_You_Can_Help!) • [Glosario](/wiki/Glossary)
+[Torneos](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proyectos](/wiki/Projects) • [Guías](/wiki/Guides) • [Servidor de Discord osu!dev](/wiki/osu!dev_Discord_server) • [Cómo puedes ayudar](/wiki/How_you_can_help!) • [Glosario](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -84,7 +86,7 @@ Organizaciones: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # Acerca de la wiki
 
-[Mapa del sitio](/wiki/Sitemap) • [Guía de contribuciones](/wiki/osu!_wiki_Contribution_Guide) • [Criterios de estilización de artículos](/wiki/Article_Styling_Criteria) • [Criterios de estilización de noticias](/wiki/News_Styling_Criteria)
+[Mapa del sitio](/wiki/Sitemap) • [Guía de contribuciones](/wiki/osu!_wiki/Contribution_guide) • [Criterios de estilización de artículos](/wiki/Article_styling_criteria) • [Criterios de estilización de noticias](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

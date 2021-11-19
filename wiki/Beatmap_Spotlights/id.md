@@ -181,8 +181,8 @@ Berganti nama menjadi [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-
 
 Pada Agustus 2020, ![][Flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) mengundurkan diri sebagai pemimpin proyek Beatmap Spotlights. Pada akhir November 2020, ![][Flag_DE] [Loctav](https://osu.ppy.sh/users/71366) turut mengundurkan diri di mana setelahnya kepemimpinan atas proyek Beatmap Spotlights dipercayakan kepada ![][Flag_PL] [Venix](https://osu.ppy.sh/users/5999631) bersama dengan ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
 
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
@@ -195,10 +195,10 @@ Pada Agustus 2020, ![][Flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) meng
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hungaria"
 [flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
+[flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
 [flag_MX]: /wiki/shared/flag/MX.gif "Meksiko"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
-[flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
 [flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"

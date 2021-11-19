@@ -15,7 +15,7 @@ no_native_review: true
 
 Terdapat dua jenis Katu yang kemunculannya ditentukan berdasarkan seberapa akurat seorang pemain dalam mengenai objek terakhir yang ada di dalam suatu rangkaian combo. Katu yang disertai dengan 300 pada akhir combo akan mengisi ulang *health bar* dalam jumlah yang lebih signifikan dibanding dengan Katu yang disertai dengan 100 pada akhir combo walaupun dampak keduanya tidak sebesar ketika mendapatkan [Geki](/wiki/Geki).
 
-Terminologi Katu sendiri berasal dari permainan [Elite Beat Agents](/wiki/iNiS_games) pada konsol Nintendo DS yang mendasari awal terbentuknya [osu!](/wiki/Game_Mode).
+Terminologi Katu sendiri berasal dari permainan [Elite Beat Agents](/wiki/iNiS_games) pada konsol Nintendo DS yang mendasari awal terbentuknya [osu!](/wiki/Game_mode).
 
 ## Katu dalam berbagai permainan
 
@@ -29,8 +29,8 @@ Terminologi Katu sendiri berasal dari permainan [Elite Beat Agents](/wiki/iNiS_g
 
 ## Katu dalam permainan-permainan iNiS
 
-- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs "YouTube")
-- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI "YouTube")
+- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs)
+- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI)
 
 ## Katu dalam mode-mode permainan lainnya
 
@@ -56,6 +56,6 @@ Kemunculan Geki akan memicu respon storyboard kedua terbaik (*second-tier storyb
 
 Kemunculan Katu dapat memicu hal-hal berikut:
 
-- Penonaktifan [Fail Layer](/wiki/Storyboard_Scripting/General_Rules#layers).
-- Aktivasi [Pass Layer](/wiki/Storyboard_Scripting/General_Rules#layers).
+- Penonaktifan [Fail Layer](/wiki/Storyboard/Scripting/General_Rules#layers).
+- Aktivasi [Pass Layer](/wiki/Storyboard/Scripting/General_Rules#layers).
 - Terjadinya suatu *event* yang dikategorikan dalam kelompok "Passing" walaupun pemain yang bersangkutan sebelumnya berada dalam keadaan "Fail".

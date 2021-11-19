@@ -51,9 +51,9 @@ The following are modding traits expected of Beatmap Nominators. Failure to disp
 
 ### How new potential Beatmap Nominators are chosen
 
-- The `ModScore` of all applications will be doublechecked to confirm if they reached the required minimum score.
+- The `ModScore` of all applications will be double-checked to confirm if they reached the required minimum score.
 - Modders that acquired enough score will be evaluated by the corresponding NAT members of the game mode they applied for, taking into account the following criteria:
-  - General attitude: Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), as well as general behaviour in chat/forums.
+  - General attitude: Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), as well as general behaviour in chat/forums.
   - Modding abilities: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Additional abilities like Metadata, Timing, and some others will also be taken into consideration.
 - After evaluating each modder, a discussion will be made on whether the modder will join the Beatmap Nominators.
 
@@ -82,3 +82,5 @@ If you were a Beatmap Nominator before, these requirements apply unless you have
 | Standard | 60 days | `ModScore` greater than 0 over 60 days |
 | Activity | 30 days | `ModScore` irrelevant, but 8 mods in 60 days |
 | Good | 30 days | `ModScore` greater than 0 over 30 days |
+
+Former Beatmap Nominators who resigned on good terms within the past year will become full members immediately upon rejoining.

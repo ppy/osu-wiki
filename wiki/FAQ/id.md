@@ -14,7 +14,7 @@ Terdapat dua layar *DS* yang aktif dalam satu waktu, di mana layar *DS* bagian a
 
 *Penjelasan lebih lanjut: [osu!](/wiki/Game_mode/osu!)*
 
-Mengingat sebagian besar orang tidak memiliki layar sentuh, osu! telah didesain sedemikian rupa untuk dapat dimainkan dengan menggunakan mouse ataupun peranti-peranti input lainnya yang lebih umum. Terdapat banyak cara untuk dapat bermain osu! sebagaimana yang dapat dilihat pada laman [Play Style](/wiki/Play_Style). Walaupun beberapa beatmap mungkin pada awalnya terkesan mustahil, semua beatmap yang berstatus Ranked dan Approved telah terjamin oleh [Ranking Criteria](/wiki/Ranking_Criteria) untuk tetap dapat dimainkan dalam batas kemampuan manusia yang sewajarnya.
+Mengingat sebagian besar orang tidak memiliki layar sentuh, osu! telah didesain sedemikian rupa untuk dapat dimainkan dengan menggunakan mouse ataupun peranti-peranti input lainnya yang lebih umum. Terdapat banyak cara untuk dapat bermain osu! sebagaimana yang dapat dilihat pada laman [Play Style](/wiki/Play_style). Walaupun beberapa beatmap mungkin pada awalnya terkesan mustahil, semua beatmap yang berstatus Ranked dan Approved telah terjamin oleh [Ranking Criteria](/wiki/Ranking_Criteria) untuk tetap dapat dimainkan dalam batas kemampuan manusia yang sewajarnya.
 
 ### Dasar-dasar permainan
 
@@ -288,7 +288,7 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 
 *Untuk penjelasan lebih lanjut mengenai mekanisme perhitungan skor yang berlaku pada masing-masing mode permainan, harap kunjungi laman [Score](/wiki/Score) atau laman masing-masing mode permainan.*
 
-*Untuk penjelasan lebih lanjut mengenai mekanisme perhitungan akurasi yang berlaku pada masing-masing mode permainan, harap kunjungi laman [Accuracy](/wiki/Accuracy) atau laman masing-masing mode permainan.*
+*Untuk penjelasan lebih lanjut mengenai mekanisme perhitungan akurasi yang berlaku pada masing-masing mode permainan, harap kunjungi laman [Accuracy](/wiki/Gameplay/Accuracy) atau laman masing-masing mode permainan.*
 
 ### Peringkat
 
@@ -351,11 +351,11 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 
 ## Performance Point
 
-*Penjelasan lebih lanjut: [Performance Point](/wiki/Performance_Points)*
+*Penjelasan lebih lanjut: [Performance Point](/wiki/Performance_points)*
 
 Performance point(pp) merupakan suatu nilai yang digunakan untuk mengukur kemampuan seorang pemain relatif terhadap rekam jejak permainan dari pemain yang bersangkutan. Masing-masing mode permainan memiliki mekanisme perhitungan pp-nya tersendiri, namun pada dasarnya **semakin sulit suatu beatmap, semakin besar pula pp yang dapat kamu raih dari beatmap tersebut**. Untuk dapat memperoleh pp, kamu harus senantiasa menantang dirimu untuk dapat memainkan dan menguasai beatmap-beatmap dengan tingkat kesulitan yang terus meningkat seiring waktu. Harap diingat bahwa nilai pp yang kamu miliki berlaku secara terpisah per mode permainan; pp yang kamu dapatkan dari bermain beatmap osu!catch hanya akan berpengaruh pada nilai pp osu!catch kamu dan lain sebagainya.
 
-Untuk informasi yang lebih mendalam seputar pp, harap kunjungi laman [Performance Point](/wiki/Performance_Points).
+Untuk informasi yang lebih mendalam seputar pp, harap kunjungi laman [Performance Point](/wiki/Performance_points).
 
 ---
 

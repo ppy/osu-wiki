@@ -32,7 +32,7 @@ The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) was a double-eliminat
 
 ![](img/badge.png "CIC 2021 winner badge")
 
-## Organization
+## Organisation
 
 CIC 2021 was run by various Indonesian osu! community members.
 
@@ -49,11 +49,11 @@ CIC 2021 was run by various Indonesian osu! community members.
 
 ## Links
 
-- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDtfjCSGk1QtJRtCHHKaUD4uC3RwMC-aKJ8g3xDcQjomjmtKk_p8ARkd-TjJz5PXleqq8ukPHNPiYV/pubhtml "Google Sheets")**
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDtfjCSGk1QtJRtCHHKaUD4uC3RwMC-aKJ8g3xDcQjomjmtKk_p8ARkd-TjJz5PXleqq8ukPHNPiYV/pubhtml)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1324864)
-- [Discord server](https://discord.gg/YwAYbPa "Discord")
-- [Challonge brackets](https://challonge.com/CIC2021 "Challonge")
-- [Livestream channel](https://www.twitch.tv/osuIndonesia/ "Twitch")
+- [Discord server](https://discord.gg/YwAYbPa)
+- [Challonge brackets](https://challonge.com/CIC2021)
+- [Livestream channel](https://www.twitch.tv/osuIndonesia/)
 
 ## Participants
 
@@ -78,7 +78,7 @@ Listed below are players who qualified into the Group stage (along with their re
 
 ### Finals
 
-**[Download the mappack here! (135 MB)](https://drive.google.com/u/0/uc?id=16uQMj49gMRftiXzoxrakDNTioWg65UPB&export=download "Google Drive")**
+**[Download the mappack here! (135 MB)](https://drive.google.com/u/0/uc?id=16uQMj49gMRftiXzoxrakDNTioWg65UPB&export=download)**
 
 - NoMod
   - [UNDEAD CORPORATION - Blow (Imai Lisa) \[Team Russian Federation's Overdose\]](https://osu.ppy.sh/beatmapsets/1265145#fruits/2629347)
@@ -107,7 +107,7 @@ Listed below are players who qualified into the Group stage (along with their re
 
 ### Semifinals
 
-**[Download the mappack here! (123 MB)](https://drive.google.com/u/0/uc?id=1XOFWCZD_W6oKZHU3WgVfrcrOm8EMwv6V&export=download "Google Drive")**
+**[Download the mappack here! (123 MB)](https://drive.google.com/u/0/uc?id=1XOFWCZD_W6oKZHU3WgVfrcrOm8EMwv6V&export=download)**
 
 - NoMod
   - [ginkiha - ARCADE\_MEMORIES (-MomoX) \[Nostalgia\]](https://osu.ppy.sh/beatmapsets/1216106#fruits/2530496)
@@ -136,7 +136,7 @@ Listed below are players who qualified into the Group stage (along with their re
 
 ### Quarterfinals
 
-**[Download the mappack here! (128 MB)](https://drive.google.com/u/0/uc?id=1vM4kzGpTcNzv3jB-Zbv3Qiv3Dkf47h9g&export=download "Google Drive")**
+**[Download the mappack here! (128 MB)](https://drive.google.com/u/0/uc?id=1vM4kzGpTcNzv3jB-Zbv3Qiv3Dkf47h9g&export=download)**
 
 - NoMod
   - [Minase Inori - Crystallize (Yumeno Himiko) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1315359#fruits/2725824)
@@ -161,7 +161,7 @@ Listed below are players who qualified into the Group stage (along with their re
 
 ### Round of 16
 
-**[Download the mappack here! (108 MB)](https://drive.google.com/u/0/uc?id=1qdwIbMol5EjZc2f1c8eE-_3MPzkOjioz&export=download "Google Drive")**
+**[Download the mappack here! (108 MB)](https://drive.google.com/u/0/uc?id=1qdwIbMol5EjZc2f1c8eE-_3MPzkOjioz&export=download)**
 
 - NoMod
   - [Chitose Sara - Merry Merry Go Round (SHOT MUSIC Asterisk Remix) (-Izayoi) \[Carousel\]](https://osu.ppy.sh/beatmapsets/975120#fruits/2041038)
@@ -186,7 +186,7 @@ Listed below are players who qualified into the Group stage (along with their re
 
 ### Group stage
 
-**[Download the mappack here! (87 MB)](https://drive.google.com/file/d/1cwjsNciDalNJmdqz6t1FQLbDY2sM2-vo/view "Google Drive")**
+**[Download the mappack here! (87 MB)](https://drive.google.com/file/d/1cwjsNciDalNJmdqz6t1FQLbDY2sM2-vo/view)**
 
 - NoMod
   - [CHiCO with HoneyWorks - Pride Kakumei (rew0825) \[Rain\]](https://osu.ppy.sh/beatmapsets/1394916#fruits/2879325)
@@ -361,7 +361,7 @@ Monday, 5 July 2021:
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
     - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from the tournament and/or blacklisted from the tournament altogether.
-    - Usage of any tools and programs that are against [osu!'s community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu!team at will.
+    - Usage of any tools and programs that are against [osu!'s community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
 
 ### Tournament registration
 
@@ -375,7 +375,7 @@ Monday, 5 July 2021:
 
 ### Group stage rules
 
-1. In the Group stage, all qualified players will be situated into four different seeds (Seed A, Seed B, Seed C, and Seed D) based on their osu!catch pp. The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
+1. In the Group stage, all qualified players will be situated into four different seeds (Seed A, Seed B, Seed C, and Seed D) based on their osu!catch pp. The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/) draw.
 2. All players in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all players will each in turn pick out two maps from the mappool to be played with the following turnouts after each map:
    - 1st place: **+2 points**
    - 2nd place: **+1 point**
@@ -397,7 +397,7 @@ Monday, 5 July 2021:
 
 ### Knock-out stage rules 
 
-1. The eight Group stage winners will be matched to the eight Group stage runners-up at random; that is, instead of following a predetermined match-up format (A1 vs H2, B1 vs G2, and so on), all the match-ups will be based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
+1. The eight Group stage winners will be matched to the eight Group stage runners-up at random; that is, instead of following a predetermined match-up format (A1 vs H2, B1 vs G2, and so on), all the match-ups will be based on the result of a livestreamed [random.org](http://www.random.org/lists/) draw.
 2. Players will compete against each other using the Double Elimination system.
 3. The Double Elimination System works as following:
    - Players who lose in the Upper Bracket can still play again on the Lower Bracket.

@@ -7,7 +7,7 @@ tags:
 
 ![IDTS logo](img/logo.png)
 
-The **Indonesian Taiko Showdown** (***IDTS***) was a 1v1 Indonesian double elimination osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002). It was the first installment of the Asian-Oceanian Taiko Showdown.
+The **Indonesian Taiko Showdown** (***IDTS***) was a 1v1 Indonesian double elimination osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002). It was the first instalment of the Asian-Oceanian Taiko Showdown.
 
 ## Tournament schedule
 
@@ -46,9 +46,9 @@ The Indonesian Taiko Showdown was run by various Indonesian osu!taiko community 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/576070)
-- [Livestream](https://www.twitch.tv/osutaikoshowdown "Twitch")
-- [Indonesian Taiko Showdown skins](https://puu.sh/whPiI/0fd221d5fa.zip "puush")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1MEkIzPxnb95kHoVRU6OWczhxPsl93RwSXsKSgdkopyE/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osutaikoshowdown)
+- [Indonesian Taiko Showdown skins](https://puu.sh/whPiI/0fd221d5fa.zip)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1MEkIzPxnb95kHoVRU6OWczhxPsl93RwSXsKSgdkopyE/pubhtml)**
 
 ## Participants
 
@@ -70,7 +70,7 @@ The Indonesian Taiko Showdown was run by various Indonesian osu!taiko community 
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) |
@@ -82,7 +82,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was used during Finals and Grand Finals.**
 
-**[Download the mappack here! (83 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3cFpJQUNvRzJKQlU/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (83 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3cFpJQUNvRzJKQlU/view?usp=sharing)**
 
 - NoMod
   - [Morimori Atsushi - Applique (TKS) \[test\]](https://osu.ppy.sh/beatmapsets/270995#taiko/616247)
@@ -109,7 +109,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (70 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3VXNEQTZvMHYxems/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (70 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3VXNEQTZvMHYxems/view?usp=sharing)**
 
 - NoMod
   - [Memme - Avalanche (Love) \[Love\]](https://osu.ppy.sh/beatmapsets/343914#taiko/759835)
@@ -136,7 +136,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (83 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3SUkxUVNMYlhOWkk/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (83 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3SUkxUVNMYlhOWkk/view?usp=sharing)**
 
 - NoMod
   - [t+pazolite - Tomorrow Perfume (tpz Despair Remix) (Nardoxyribonucleic) \[Nardo's Inner Oni\]](https://osu.ppy.sh/beatmapsets/447830#taiko/968416)
@@ -163,7 +163,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (56 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3UWZvMG9YeGtKbnc/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (56 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3UWZvMG9YeGtKbnc/view?usp=sharing)**
 
 - NoMod
   - [Memme - Starving Days (Charless445) \[Oni445\]](https://osu.ppy.sh/beatmapsets/157641#taiko/385907)
@@ -190,7 +190,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (118 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3cEJubDVQeVJDY28/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (118 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3cEJubDVQeVJDY28/view?usp=sharing)**
 
 - NoMod
   - [Camellia - Routing (MMzz) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/375111#taiko/821900)

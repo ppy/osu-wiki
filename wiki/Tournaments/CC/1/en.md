@@ -10,7 +10,7 @@ tags:
 
 ![CC logo](img/logo.png)
 
-The **Corgi Cup: June 2016** (***CC***) was a 1v1 single-elimination osu! tournament hosted by ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the first installment of the Corgi Cup.
+The **Corgi Cup: June 2016** (***CC***) was a 1v1 single-elimination osu! tournament hosted by ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the first instalment of the Corgi Cup.
 
 ## Tournament schedule
 
@@ -27,13 +27,13 @@ The **Corgi Cup: June 2016** (***CC***) was a 1v1 single-elimination osu! tourna
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, Corgi Cup 1st place Discord role |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, Corgi Cup 1st place Discord role |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ## Organisation
 
-Corgi Cup: June 2016 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+Corgi Cup: June 2016 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -47,9 +47,9 @@ Corgi Cup: June 2016 was run by various community members by distributing the mu
 
 ## Links
 
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/16JHAuJZU8wtBCuiiuxkdYYPkRFQd2UoPJOuFnQTMu7o/edit?usp=sharing "Google Sheets")
-- [Livestream](https://twitch.tv/Doomsday "Twitch")
-- [Discord](https://discord.gg/doomscord "Discord")
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/16JHAuJZU8wtBCuiiuxkdYYPkRFQd2UoPJOuFnQTMu7o/edit?usp=sharing)
+- [Livestream](https://twitch.tv/Doomsday)
+- [Discord](https://discord.gg/doomscord)
 
 ## Participants
 

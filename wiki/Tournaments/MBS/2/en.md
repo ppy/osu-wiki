@@ -9,7 +9,7 @@ tags:
 
 ![MBS2 logo](img/logo.jpg)
 
-The **Mania Beginner's Showdown 2** (***MBS2***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament had two divisions to separate the skillset between players: the high division consisted of players ranked #10,000–#40,000, and the low division consisted of players ranked #40,001–#100,000. This was the second installment of the Mania Beginner's Showdown.
+The **Mania Beginner's Showdown 2** (***MBS2***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament had two divisions to separate the skillset between players: the high division consisted of players ranked #10,000–#40,000, and the low division consisted of players ranked #40,001–#100,000. This was the second instalment of the Mania Beginner's Showdown.
 
 ## Tournament schedule
 
@@ -20,7 +20,7 @@ The **Mania Beginner's Showdown 2** (***MBS2***) was a worldwide double-eliminat
 | Registration phase | 2020-04-04/2020-04-26 |
 | Live drawings | 2020-05-11 (17:00 UTC) |
 | Qualifiers | 2020-05-09/2020-05-10 |
-| Group Stage | 2020-05-15/2020-05-24 |
+| Group stage | 2020-05-15/2020-05-24 |
 | Round of 32 | 2020-05-30/2020-05-31 |
 | Round of 16 | 2020-06-05/2020-06-07 |
 | Quarterfinals | 2020-06-12/2020-06-14 |
@@ -35,7 +35,7 @@ The **Mania Beginner's Showdown 2** (***MBS2***) was a worldwide double-eliminat
 | Registration phase | 2020-04-04/2020-04-26 |
 | Live drawings | 2020-05-11 (17:00 UTC) |
 | Qualifiers | 2020-05-09/2020-05-10 |
-| Group Stage | 2020-05-16/2020-05-25 |
+| Group stage | 2020-05-16/2020-05-25 |
 | Round of 32 | 2020-05-30/2020-05-31 |
 | Round of 16 | 2020-06-05/2020-06-07 |
 | Quarterfinals | 2020-06-13/2020-06-14 |
@@ -47,9 +47,9 @@ The **Mania Beginner's Showdown 2** (***MBS2***) was a worldwide double-eliminat
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag, 30€ |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag, 20€ |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, 10€ |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter, 30€ |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter, 20€ |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter, 10€ |
 
 ![](img/badge_high.jpg "MBS2 high division winner badge")
 
@@ -64,8 +64,8 @@ The Mania Beginner's Showdown 2 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517) |
-| Co-Organiser | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) |
-| Map selector | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) |
+| Co-organiser | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) |
+| Mappool selector | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) |
 | Guest mapper | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) |
 | Referee | ![][flag_AU] [anim shnacc](https://osu.ppy.sh/users/11373924), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_NZ] [Erkfir](https://osu.ppy.sh/users/7756939), ![][flag_DE] [Flygone](https://osu.ppy.sh/users/9287979), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_NL] [Lienkuh](https://osu.ppy.sh/users/13960277), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_US] [travis\_ba](https://osu.ppy.sh/users/10822220), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
 | Streamer | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
@@ -79,12 +79,12 @@ The Mania Beginner's Showdown 2 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1046231)
-- [MBS Discord server](https://discord.gg/uNSqksR "Discord")
-- [Livestream](https://www.twitch.tv/osu_mbs "Twitch")
+- [MBS Discord server](https://discord.gg/uNSqksR)
+- [Livestream](https://www.twitch.tv/osu_mbs)
 - Challonge brackets
-  - [High division](https://challonge.com/mbs2_high "Challonge")
-  - [Low division](https://challonge.com/mbs2_low "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRk7T_38QYlVO8mjybHHUm0r40qJol4AttYPn7ePQoiqcQ4PAUgTjMH4JulmjQM4y2-jNeD3bCbEMYN/pubhtml "Google Sheets")**
+  - [High division](https://challonge.com/mbs2_high)
+  - [Low division](https://challonge.com/mbs2_low)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRk7T_38QYlVO8mjybHHUm0r40qJol4AttYPn7ePQoiqcQ4PAUgTjMH4JulmjQM4y2-jNeD3bCbEMYN/pubhtml)**
 
 ## Participants
 
@@ -201,7 +201,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the mappack here! (168 MB)](https://mega.nz/file/fHYkzCRT#Fk6MICeCfYo5Y-e8Qb4sO7cIehp1nByDd-2xHee21kM "MEGA")**
+**[Download the mappack here! (168 MB)](https://mega.nz/file/fHYkzCRT#Fk6MICeCfYo5Y-e8Qb4sO7cIehp1nByDd-2xHee21kM)**
 
 - FreeMod
   - [cubesato + sweez + hsgn - Le Petit Prince (RuleBlazing) \[Stage 1 : Snowvy Vlazing\]](https://osu.ppy.sh/beatmapsets/1106056#mania/2311662)
@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (122 MB)](https://mega.nz/file/mSwGnSya#2Q6Orkr9dd2DsPVSYli9BbPdTBOghvUbsxAMniO__iw "MEGA")**
+**[Download the mappack here! (122 MB)](https://mega.nz/file/mSwGnSya#2Q6Orkr9dd2DsPVSYli9BbPdTBOghvUbsxAMniO__iw)**
 
 - FreeMod
   - [GTA feat. Sam Bruno - Red Lips (Mendus Remix) (Hydria) \[Hard (SV)\]](https://osu.ppy.sh/beatmapsets/728227#mania/1537498)
@@ -251,7 +251,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (88 MB)](https://mega.nz/file/mvJChARS#9550w7Z97pfmHqjcLkVXmfam7pHUUbJFwmzyvYmQJQk "MEGA")**
+**[Download the mappack here! (88 MB)](https://mega.nz/file/mvJChARS#9550w7Z97pfmHqjcLkVXmfam7pHUUbJFwmzyvYmQJQk)**
 
 - FreeMod
   - [THE SxPLAY & KIVA - Hyou Ryuu (zero2snow) \[Stage 1: Drifted\]](https://osu.ppy.sh/beatmapsets/980182#mania/2051288)
@@ -273,7 +273,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-**[Download the mappack here! (134 MB)](https://mega.nz/file/yuJwWSRT#f2-ee1CnI-_iAGROK3p1AaHo7TowpRcCH5leNMmYkhg "MEGA")**
+**[Download the mappack here! (134 MB)](https://mega.nz/file/yuJwWSRT#f2-ee1CnI-_iAGROK3p1AaHo7TowpRcCH5leNMmYkhg)**
 
 - FreeMod
   - [Moe shop - Love Taste (w/ Jamie Paige & Shiki) (zero2snow) \[Sour (SV)\]](https://osu.ppy.sh/beatmapsets/1113833#mania/2326952)
@@ -295,7 +295,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 32
 
-**[Download the mappack here! (82 MB)](https://mega.nz/file/jqZAyKDR#PM5zLooumSi6SfzJ6NeBNkRw9_IJlIX2Lg6h-7jRpfs "MEGA")**
+**[Download the mappack here! (82 MB)](https://mega.nz/file/jqZAyKDR#PM5zLooumSi6SfzJ6NeBNkRw9_IJlIX2Lg6h-7jRpfs)**
 
 - FreeMod
   - [Various Artists - 4K SV Pack (Janko) \[Alexander Okunev - Death Mashina\]](https://osu.ppy.sh/beatmapsets/722368#mania/1581834)
@@ -312,9 +312,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - chrono diver -fragment- (Camellia's "crossroads of chrono" remix) (Raveille) \[TIME//CROSS\]](https://osu.ppy.sh/beatmapsets/1175949#mania/2452723)**
 
-#### Group Stage
+#### Group stage
 
-**[Download the mappack here! (66 MB)](https://mega.nz/file/lKBXUaTJ#PW4bOBbpzUDAo_aa4mIgHUlqaWblf6-MlrWOWiy8EuY "MEGA")**
+**[Download the mappack here! (66 MB)](https://mega.nz/file/lKBXUaTJ#PW4bOBbpzUDAo_aa4mIgHUlqaWblf6-MlrWOWiy8EuY)**
 
 - FreeMod
   - [League of Legends,The Glitch Mob & Mako - Rise (feat.The Word Alive) (Leniane) \[Challenger\]](https://osu.ppy.sh/beatmapsets/864573#mania/1808108)
@@ -333,7 +333,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the mappack here! (26 MB)](https://mega.nz/file/BW4AzCRR#dbuT9LJaiEvWkD9UBKN7ZpzsXSCih1UuhrShn50-lz8 "MEGA")**
+**[Download the mappack here! (26 MB)](https://mega.nz/file/BW4AzCRR#dbuT9LJaiEvWkD9UBKN7ZpzsXSCih1UuhrShn50-lz8)**
 
 - FreeMod
   - [Shoichiro Hirata - Beat of getting entangled (Raveille) \[Stage 1: Entwined\]](https://osu.ppy.sh/beatmapsets/1162315#mania/2424652)
@@ -370,7 +370,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the mappack here! (167 MB)](https://mega.nz/file/bDJGwazD#Nb90ELmJlcDjTH3m9Unl-Tn0NrG2vkZxL1N9C-cRiN0 "MEGA")**
+**[Download the mappack here! (167 MB)](https://mega.nz/file/bDJGwazD#Nb90ELmJlcDjTH3m9Unl-Tn0NrG2vkZxL1N9C-cRiN0)**
 
 - FreeMod
   - [Morimori Atsushi - MilK (Guilhermeziat) \[SilV\]](https://osu.ppy.sh/beatmapsets/967318#mania/2024439)
@@ -396,7 +396,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (90 MB)](https://mega.nz/file/mXwRnILB#FaKD-E5N37YSBvaU_i4EEiLeLpdNJqCa794EtAxkxkQ "MEGA")**
+**[Download the mappack here! (90 MB)](https://mega.nz/file/mXwRnILB#FaKD-E5N37YSBvaU_i4EEiLeLpdNJqCa794EtAxkxkQ)**
 
 - FreeMod
   - [MYTK - fly (Tantei B) \[Stylish Veery\]](https://osu.ppy.sh/beatmapsets/1112778#mania/2324766)
@@ -420,7 +420,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (93 MB)](https://mega.nz/file/Lu5CACIS#MnoNjPVpMjwmB9jF3f6TuE38636e0UXIqLFHS1jDWmk "MEGA")**
+**[Download the mappack here! (93 MB)](https://mega.nz/file/Lu5CACIS#MnoNjPVpMjwmB9jF3f6TuE38636e0UXIqLFHS1jDWmk)**
 
 - FreeMod
   - [Porter Robinson - Flicker (Hydria) \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560#mania/1045578)
@@ -442,7 +442,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-**[Download the mappack here! (104 MB)](https://mega.nz/file/jiJVxIJQ#GrloBpXRGFdepxbyFr4A1lU74EiN2xpX8lO4gbho93I "MEGA")**
+**[Download the mappack here! (104 MB)](https://mega.nz/file/jiJVxIJQ#GrloBpXRGFdepxbyFr4A1lU74EiN2xpX8lO4gbho93I)**
 
 - FreeMod
   - [Slappy - Hanami (RuleBlazing) \[Edit\]](https://osu.ppy.sh/beatmapsets/1101411#mania/2329945)
@@ -464,7 +464,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 32
 
-**[Download the mappack here! (76 MB)](https://mega.nz/file/3uZwnShJ#6Li9lnfQVHlmdDC7J52n5M4kQniA_lTsGaQ9t_fRyQ0 "MEGA")**
+**[Download the mappack here! (76 MB)](https://mega.nz/file/3uZwnShJ#6Li9lnfQVHlmdDC7J52n5M4kQniA_lTsGaQ9t_fRyQ0)**
 
 - FreeMod
   - [Zest - Karton (Adri) \[SFW\]](https://osu.ppy.sh/beatmapsets/1119118#mania/2337552)
@@ -481,9 +481,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Team Grimoire - RougokuSTRIP (Grimoire crossbreed rmx) (\[Shana Lesus\]) \[Magic exists \[HD\]\]](https://osu.ppy.sh/beatmapsets/490717#mania/1086583)**
 
-#### Group Stage
+#### Group stage
 
-**[Download the mappack here! (60 MB)](https://mega.nz/file/ru5U3IqT#hztvj_5094USPpitDdW31ubW2tSHeGC-363sEl7jf_8 "MEGA")**
+**[Download the mappack here! (60 MB)](https://mega.nz/file/ru5U3IqT#hztvj_5094USPpitDdW31ubW2tSHeGC-363sEl7jf_8)**
 
 - FreeMod
   - [a l e x - Double Scoop (-mint-) \[Time Regression\]](https://osu.ppy.sh/beatmapsets/1009355#mania/2113076)
@@ -502,7 +502,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the mappack here! (25 MB)](https://mega.nz/file/WugBkJxS#QKC-szzGYd76GC2mfA_xhCfZr1vPFcfhJcS-1W2pv8U "MEGA")**
+**[Download the mappack here! (25 MB)](https://mega.nz/file/WugBkJxS#QKC-szzGYd76GC2mfA_xhCfZr1vPFcfhJcS-1W2pv8U)**
 
 - FreeMod
   - [SiLiS - dispersion (cut) (Raveille) \[Stage 1: Evaluate\]](https://osu.ppy.sh/beatmapsets/1162300#mania/2424626)
@@ -654,7 +654,7 @@ Sunday, 31 May 2020:
 | woahsia ![][flag_SG] | 1 | **4** | ![][flag_FR] **xelied** | [#1](https://osu.ppy.sh/community/matches/62341651) |
 | Haadez ![][flag_FI] | 0 | **4** | ![][flag_DE] **cakeboss05** | [#1](https://osu.ppy.sh/community/matches/62343538) |
 
-#### Group Stage
+#### Group stage
 
 Friday, 15 May 2020:
 
@@ -1021,7 +1021,7 @@ Sunday, 31 May 2020:
 | **BubbleTeaBunny** ![][flag_SG] | **4** | 2 | ![][flag_PL] \_demo | [#1](https://osu.ppy.sh/community/matches/62337787) |
 | SergoM4444 ![][flag_RU] | 0 | **4** | ![][flag_MX] **Ammy** | [#1](https://osu.ppy.sh/community/matches/62341834) |
 
-#### Group Stage
+#### Group stage
 
 Saturday, 16 May 2020:
 

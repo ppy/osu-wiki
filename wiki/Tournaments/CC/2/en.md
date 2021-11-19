@@ -10,7 +10,7 @@ tags:
 
 ![CC2 logo](img/logo.png)
 
-The **Corgi Cup: September 2016** (***CC2***) was a 1v1 single-elimination osu! tournament hosted by ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), and ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983). It was the second installment of the Corgi Cup.
+The **Corgi Cup: September 2016** (***CC2***) was a 1v1 single-elimination osu! tournament hosted by ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), and ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983). It was the second instalment of the Corgi Cup.
 
 ## Tournament schedule
 
@@ -28,9 +28,9 @@ The **Corgi Cup: September 2016** (***CC2***) was a 1v1 single-elimination osu! 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Qwazar Red Shift (Cherry MX Red) Keyboard, 1 year of osu!supporter tag or a money equivalent, £20 Steam Gift Card, unique title on Doomsday’s Discord |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag or a money equivalent, £10 Steam Gift Card |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 3 months of osu!supporter tag or a money equivalent, £5 Steam Gift Card |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Qwazar Red Shift (Cherry MX Red) Keyboard, 1 year of osu!supporter or a money equivalent, £20 Steam Gift Card, unique title on Doomsday’s Discord |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter or a money equivalent, £10 Steam Gift Card |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 3 months of osu!supporter or a money equivalent, £5 Steam Gift Card |
 
 All prizes were provided by Qwazar.
 
@@ -49,9 +49,9 @@ Corgi Cup: September 2016 was run by various community members.
 
 ## Links
 
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1TeeqOfm75tENFZ0ERlLEa1Zyu3H0bnugFngq8vK5Drs/edit?usp=sharing "Google Sheets")
-- [Livestream](https://twitch.tv/Doomsday "Twitch")
-- [Discord](https://discord.gg/doomscord "Discord")
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1TeeqOfm75tENFZ0ERlLEa1Zyu3H0bnugFngq8vK5Drs/edit?usp=sharing)
+- [Livestream](https://twitch.tv/Doomsday)
+- [Discord](https://discord.gg/doomscord)
 
 ## Participants
 

@@ -3,6 +3,8 @@ tags:
   - beatmap discussions
   - modding V2
   - MV2
+outdated: true
+outdated_since: 5f24e4b2df25bd38f386bd2cd48e541ebc2e1095
 ---
 
 # Diskusi beatmap
@@ -41,7 +43,7 @@ Pemilihan mode merubah [mode permainan](/wiki/Game_mode) yang kamu modding. Pemi
 
 *Untuk informasi tentang pengaturan metadata, lihat: [Pengaturan Lagu & Metadata Map dan Lagu](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
 
-![](img/beatmap-header.jpg "Beatmap header")
+![](img/beatmap-header.png "Beatmap header")
 
 Beatmap header menampilkan judul dan artis yang telah ditentukan di dalam [beatmap editor](/wiki/Beatmap_Editor). Mengklik beatmap header akan mengarahkan kembali ke laman info.
 

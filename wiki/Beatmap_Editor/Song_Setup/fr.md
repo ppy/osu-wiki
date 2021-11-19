@@ -216,10 +216,10 @@ Lorsqu'elle est activée, l'animation du compte à rebours peut être affinée �
 
 ### Misc. Toggles
 
-- `Widescreen Support` : Supprimez les [sidebars/pillarboxes](https://en.wikipedia.org/wiki/Pillarbox "Wikipédia (en anglais)") des côtés gauche et droit du champ de jeu si le client utilise un rapport d'aspect supérieur à `4:3`. Cette option est généralement activée lorsque vous utilisez des éléments de storyboard, mais elle peut être désactivée.
+- `Widescreen Support` : Supprimez les [sidebars/pillarboxes](https://en.wikipedia.org/wiki/Pillarbox) des côtés gauche et droit du champ de jeu si le client utilise un rapport d'aspect supérieur à `4:3`. Cette option est généralement activée lorsque vous utilisez des éléments de storyboard, mais elle peut être désactivée.
 - `Display storyboard in front of combo fire` : Un paramètre obsolète, qui peut être ignoré.
 - `Display epilepsy warning (storyboard has quick strobing)` : Affiche un avertissement d'épilepsie pour les storyboards clignotants (rapides ou quelconques) dans la beatmap.
-- `Letterbox during breaks` : Détermine si le beatmap doit (ou non) mettre des [letterboxes](https://fr.wikipedia.org/wiki/Letterbox "Wikipédia") pendant les pauses dans les beatmaps. Ceci est généralement activé par défaut, mais l'utilisation de cette option dans les beatmaps spécifiques à osu!mania n'est pas autorisée.
+- `Letterbox during breaks` : Détermine si le beatmap doit (ou non) mettre des [letterboxes](https://fr.wikipedia.org/wiki/Letterbox) pendant les pauses dans les beatmaps. Ceci est généralement activé par défaut, mais l'utilisation de cette option dans les beatmaps spécifiques à osu!mania n'est pas autorisée.
 
 ### Skinning
 

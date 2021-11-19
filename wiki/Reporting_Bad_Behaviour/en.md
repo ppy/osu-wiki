@@ -1,116 +1,106 @@
----
-needs_cleanup: true
----
-
-<!-- TODO: FAQ-like things and overall it doesn't do a good job of describing the report system first. -->
-
 # Reporting bad behaviour
 
-## What is the report system?
+osu! has [a team of moderators](/wiki/People/The_Team/Global_Moderation_Team) that adheres to keeping the game and its ecosystem clean and safe. If you notice rule-breaking behaviour or inappropriate content, report it using one of the methods described below. Alternatively, you may contact any of the moderators online directly if your report wasn't properly handled within a reasonable amount of time—do so only as the last resort.
 
-The report system is an important feature to inform the moderators about misbehaving user(s) and for them to take action.
+Accidental reports are ignored. Users who deliberately send invalid reports can risk being [silenced](/wiki/Silence).
 
-It is not only limited to in-game chat but also in other places such as the forum and wiki itself.
+## Special cases
 
-## How to report someone
+| Nature of infringement | Point of contact |
+| :-- | :-- |
+| Offensive private messages | **None**: [ignore the user](/wiki/Chat_Console#commands-list) instead. For permanent effect, use the in-game ignore list located in [options](/wiki/Options). |
+| Infringements related to modding and/or mapping | NAT, via the [NAT/BN Management](https://bn.mappersguild.com/reports) website |
+| Inappropriate conduct from a [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) or [GMT](/wiki/People/The_Team/Global_Moderation_Team) member | [Account support team](/wiki/People/The_Team/Account_support_team) at [support@ppy.sh](mailto:support@ppy.sh) |
+| Sexual abuse or extreme misbehaviour | Refer to [Reporting Abuse](/wiki/Reporting_Bad_Behaviour/Abuse) |
 
-### Using the !report command in-game
+For anything else, see instructions below.
 
-Usage: `!report username [reason]`
+## In-game chat
 
-Parameters in **[** and **]** are optional.
+### The !report command
 
-If the user has a space in their username, it must be replaced with an underscore `_` because the osu! in-game chat is based on [Internet Relay Chat](/wiki/Internet_Relay_Chat).
+![](img/report-command.jpg "Example of using the !report command")
 
-`!report This User Name is spamming in #osu` turns to `!report This_User_Name is spamming in #osu`
+Chat misbehaviour is the most common infringement. To report it, use the [`!report`](https://osu.ppy.sh/community/forums/topics/34843) command, preferably in the channel where infringement took place. Don't feel stressed: if your message starts with `!report` and a space, **it is only visible to moderators** and no one else in the chat. You can also use the report function via the [in-game overlay](#in-game-overlay) as depicted below if you are still concerned.
 
-Reports are not case-sensitive so it is okay to use lowercase letters like `this_user_name`.
+The command's syntax has two forms:
 
-![The chat box with a !report command](img/report-command.jpg "Example of using the !report command")
+```
+!report username
+!report username (free-form description follows)
+```
 
-### Using the user report button in-game
+If there are spaces in the username, replace them with underscores:
 
-Reporting the user by this way only needs a type of reason and the custom text, unlike the `!report` command.
+```
+!report bad_user spamming in #osu
+```
 
-![The list of available user options](img/report-user-1.png "Click the Report User button")
+### In-game overlay
 
-![The user report overlay](img/report-user-2.png "Remember to add a reason here!")
+![](img/report-user-1.png "User action menu with the report button")
 
-### Using the report button on the website
+![](img/report-user-2.png "In-game report dialog")
 
-This also works the same as the `Report User` button in-game.
+This option works if the offending user is in sight:
 
-Remember to add details to your report at the comments.
+1. Click their username and press the red button titled `Report User...`
+2. Select the category and add details (optional).
 
-![](img/report-user-profile.png "The report button on a user's profile page")
+## Website
 
-![](img/report-user-forum.png "The report button at a user's post on the forum")
+### Profile page
 
-![](img/report-user-comment.png "The report button at a user's comment on the website")
+![](img/report-user-profile.png "The report button on a profile page")
 
-![](img/report-user-discussion.png "The report button at a user's post on the beatmap discussion page")
+![](img/report-user-web.png "Report dialog on the website")
 
-![The user report overlay on the website](img/report-user-web.png "Remember to add a reason here!")
+1. Press the button with three vertical dots and select `Report`.
+2. Select the category and add details (optional).
 
-### Using the Report Score button at the record of an user's score
+### Forum
 
-This should only be used when reporting cheating users.
+![](img/report-user-forum.png "The report button on a forum post")
 
-![](img/report-score-user.png "The score report button at the top ranks on a user's profile page")
+1. Hover the cursor over the post.
+2. In a row of buttons that appear in the top right corner of the post, click the button with a warning sign.
+3. Select the category and add details (optional).
 
-![](img/report-score-beatmap.png "The score report button at the ranking on a beatmap information page")
+### Comments section
 
-## Examples what to report
+![](img/report-user-comment.png "The report button on a website comment")
 
-### Spamming or flooding in chat
+1. Under the comment, click the `report` link.
+2. Select the category and add details (optional).
 
-Using a broken keyboard is not an excuse!
+### Beatmap
 
-### Excessive use of uppercase letters
+![](img/report-beatmap.png "The report button on a beatmap page")
 
-This has been considered as shouting and annoying.
+1. Press the button with three vertical dots and select `Report`.
+2. Select the category and add details (optional).
 
-### Posting of inappropriate contents such as pornographic materials (questionable/suggestive are considerable)
+### Beatmap discussion
 
-Moderators immediately silence for this, removing the content without warning.
+![](img/report-user-discussion.png "The report button on a discussion post")
 
-### Posting of unwanted contents such as advertisements, screamers and referrals
+1. Under the discussion post, click the `report` link.
+2. Select the category and add details (optional).
 
-Take note that spamming streaming links are applied to this rule.
+### Score listing
 
-### Offensive behaviour towards other players
+![](img/report-score-user.png "The report button on a top score in a user's profile")
 
-Telling people to kill themselves is not a good thing to say.
+#### User profile
 
-and many more...
+1. Scroll to the `Ranks` section, or `Historical` for recent plays, and locate the score.
+2. At the right side of the score, press the button with three vertical dots and select `Report Score`.
+3. Select the category and add details (optional).
 
-## Frequently Asked Questions
+#### Beatmap scores listing
 
-### Can other players see my reports in chat?
+![](img/report-score-beatmap.png "The report button on a top score in a beatmap scores listing")
 
-Obviously, no, unless you typed the command prefix wrong.
-Make sure you type an exclamation mark first!
-
-### I accidentally reported a user! Will I get an punishment?
-
-No.
-Do not worry about it, false reports will be ignored unless abused.
-
-### Can I report multiple times?
-
-Reporting once is enough but you can report several times during the day.
-Two or three times should be fine.
-
-You can either report the channel saying that multiple players are causing problems, or just a list of each person.
-
-### Does this include private messages?
-
-Most issues on private messages such as insults are not handled.
-
-A user can use the ignore system to avoid any messages getting received from the ignored user including channels.
-
-**Note:** Ignore list will reset when you close the game client.
-
-### Can I report a moderator?
-
-Yes, you can, but it is recommended to report them to the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh) instead.
+1. Hover the cursor over the score.
+2. At the right side of the score, press the button with three vertical dots and select `Report Score`.
+3. Select the category and add details (optional).

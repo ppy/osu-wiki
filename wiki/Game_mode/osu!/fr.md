@@ -11,7 +11,7 @@ Le premier mode de jeu basé sur la série Ouendan.
 
 ## Qu'est-ce que "Ouendan"?
 
-*[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* est un jeu de rythme pour la *Nintendo DS*. Le gameplay se compose de seulement trois éléments : taper des cercles sur l’écran tactile, faire glisser une balle sur une trajectoire fixe et faire pivoter un spinner très rapidement. Tous ces éléments sont adaptés pour reprendre le rythme de chansons japonaises populaires. Voici a quoi ressemble le jeu sur *Nintendo DS*:
+*[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* est un jeu de rythme pour la *Nintendo DS*. Le gameplay se compose de seulement trois éléments : taper des cercles sur l’écran tactile, faire glisser une balle sur une trajectoire fixe et faire pivoter un spinner très rapidement. Tous ces éléments sont adaptés pour reprendre le rythme de chansons japonaises populaires. Voici a quoi ressemble le jeu sur *Nintendo DS*:
 
 ![Exemple de gameplay de osu! Tatakae! Ouendan sur Nintendo DS](/wiki/shared/Ouendan.jpg "Exemple de gameplay de osu! Tatakae! Ouendan sur Nintendo DS")
 
@@ -83,7 +83,7 @@ Sur la *DS*, c’est un bon moyen de rayer l’écran tactile (ou le protecteur 
 
 ## Styles de jeu
 
-*[Reportez-vous à la page Styles de jeu dans osu!](/wiki/Play_Styles).*
+*[Reportez-vous à la page Styles de jeu dans osu!](/wiki/Play_style).*
 
 ## Contrôles
 
@@ -272,15 +272,12 @@ Le système utilisé pour calculer la perte et le gain de vie est compliqué et 
 
 ### Histoire
 
-![Combo Fire](/wiki/shared/combo-fire.jpg "Combo Fire")
-
-- Les anciennes versions de osu! ont utilisé des éléments de la série *ouendan* avant qu'ils ne soient supprimés ou remplacés.
-  - Le combo fire qui ajoutait des flammes depuis le bas de l'écran lors de grands combos.
-    - Supprimé le 5 mars 2013 (05-03-2013), en raison de problèmes de performance.
-  - La première version du skin par défaut utilisant le comportement du skin v1, qui était *osu!default by peppy*, fournit une copie presque identique de l'interface du jeu *ouendan*.
+- Les anciennes versions de osu! ont utilisé des éléments de la série *Ouendan* avant qu'ils ne soient supprimés ou remplacés.
+  - [Le combo fire](/wiki/Glossary/Combo_fire) qui ajoutait des flammes depuis le bas de l'écran lors de grands combos.
+  - La première version du skin par défaut utilisant le comportement du skin v1, qui était *osu!default by peppy*, fournit une copie presque identique de l'interface du jeu *Ouendan*.
     - Il a été remplacé par un skin actuel plus agréable utilisant le comportement de skin v2.
   - La différence la plus notable entre le comportement du skin v1 et v2 est le spinner.
-    - Le skin v1 remplit la jauge de spinner de bas en haut, niveau par niveau, juqu'a ce que la jauge soit remplie conformément à la série *ouendan*.
+    - Le skin v1 remplit la jauge de spinner de bas en haut, niveau par niveau, juqu'a ce que la jauge soit remplie conformément à la série *Ouendan*.
       - La décompte du temps imparti est représenté à l'écran par un cercle à l'intérieur du spinner qui se rétracte vers le centre du spinner. Le spinner se termine lorsque le cercle du décompte a atteint le centre du spinner.
     - Le skin v2 va lentement agrandir le spinner circle juqu'a atteindre la taille du spinner, qui devient lumineux dès qu'il est réussi.
       - Le décompte du temps imparti est représenté à l'écran par un changement de couleur du cercle extérieur du spinner. Le décompte se termine lorsque la couleur du cercle de décompte a complètement changé.

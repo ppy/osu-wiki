@@ -11,7 +11,7 @@ tags:
 
 ![Ikon mod NC](/wiki/shared/mods/NC.png "Ikon mod Nightcore (NC)")
 
-*Berbeda konteks dengan [Nightcore (genre)](https://en.wikipedia.org/wiki/Nightcore "Wikipedia").*\
+*Berbeda konteks dengan [Nightcore (genre)](https://en.wikipedia.org/wiki/Nightcore).*\
 *Kunjungi juga: [NC (disambiguasi)](/wiki/Disambiguation/NC), [Double Time (mod)](/wiki/Game_modifier/Double_Time)*\
 *Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*
 

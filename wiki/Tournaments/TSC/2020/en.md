@@ -8,7 +8,7 @@ tags:
 
 ![TSC 2020 logo](img/logo.jpg)
 
-The **Taiko Suiji Cup 2020** (***TSC 2020***) was an international three-on-three double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Each participant registered individually and was assigned to a random team. This was the second installment of the Taiko Suiji Cup.
+The **Taiko Suiji Cup 2020** (***TSC 2020***) was an international three-on-three double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Each participant registered individually and was assigned to a random team. This was the second instalment of the Taiko Suiji Cup.
 
 ## Tournament schedule
 
@@ -51,11 +51,11 @@ The Taiko Suiji Cup 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1008498)
-- [TSC Discord server](https://discord.gg/yV3bDTC "Discord")
-- [Livestream](https://twitch.tv/osutaikolive "Twitch")
-- [Challonge brackets](https://challonge.com/TSCosu2020 "Challonge")
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/24 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wRgZE_xq50KLqYQA7t027CW3nIRrIn7hiY3iTapK4V8/edit?usp=sharing "Google Sheets")**
+- [TSC Discord server](https://discord.gg/yV3bDTC)
+- [Livestream](https://twitch.tv/osutaikolive)
+- [Challonge brackets](https://challonge.com/TSCosu2020)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/24) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wRgZE_xq50KLqYQA7t027CW3nIRrIn7hiY3iTapK4V8/edit?usp=sharing)**
 
 ## Participants
 
@@ -108,7 +108,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (75 MB)](https://mega.nz/#!c1dj3Y7C!ui7a0oGxH_Apeze70ObF9vV0yjpQ55TZzmBABuhlpJQ "MEGA")**
+**[Download the mappack here! (75 MB)](https://mega.nz/#!c1dj3Y7C!ui7a0oGxH_Apeze70ObF9vV0yjpQ55TZzmBABuhlpJQ)**
 
 #### Mappool A
 
@@ -143,7 +143,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (77 MB)](https://mega.nz/#!k4kRVQCa!yeoJbBg4fqfMBBg_Qr439iE4SrrEkJK8afHeuJ5teVg "MEGA")**
+**[Download the mappack here! (77 MB)](https://mega.nz/#!k4kRVQCa!yeoJbBg4fqfMBBg_Qr439iE4SrrEkJK8afHeuJ5teVg)**
 
 #### Mappool A
 
@@ -178,7 +178,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (77 MB)](https://mega.nz/#!twMWCIYY!xq_NirEU7Y3zCzEUXlj4hgF7ebmXY2pMRDV1MmvxBNc "MEGA")**
+**[Download the mappack here! (77 MB)](https://mega.nz/#!twMWCIYY!xq_NirEU7Y3zCzEUXlj4hgF7ebmXY2pMRDV1MmvxBNc)**
 
 #### Mappool A
 
@@ -213,7 +213,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (72 MB)](https://mega.nz/#!rQ1HmYIL!pIYy7A9OPPcGAUvi4tjUMaKQmv66-fLHYIYlCPmBU2M "MEGA")**
+**[Download the mappack here! (72 MB)](https://mega.nz/#!rQ1HmYIL!pIYy7A9OPPcGAUvi4tjUMaKQmv66-fLHYIYlCPmBU2M)**
 
 #### Mappool A
 
@@ -248,7 +248,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (73 MB)](https://mega.nz/#!91FHGC6S!MfKL-G27r3UBCsU7tmVSuy0_hYd51nu1RKD0iDwCfH4 "MEGA")**
+**[Download the mappack here! (73 MB)](https://mega.nz/#!91FHGC6S!MfKL-G27r3UBCsU7tmVSuy0_hYd51nu1RKD0iDwCfH4)**
 
 #### Mappool A
 
@@ -283,7 +283,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (69 MB)](https://mega.nz/#!dgcUnCBD!m-XwVABg9xzZNnpBSl9BVSQlAAZhdAtucA0EeoNOFu4 "MEGA")**
+**[Download the mappack here! (69 MB)](https://mega.nz/#!dgcUnCBD!m-XwVABg9xzZNnpBSl9BVSQlAAZhdAtucA0EeoNOFu4)**
 
 #### Mappool A
 
@@ -318,7 +318,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (20 MB)](https://mega.nz/#!Yk8gUK5T!VF4NngnEoQnDWY8BgSAdFO-osnuW2yKul8QMkH9M-D8 "MEGA")**
+**[Download the mappack here! (20 MB)](https://mega.nz/#!Yk8gUK5T!VF4NngnEoQnDWY8BgSAdFO-osnuW2yKul8QMkH9M-D8)**
 
 - NoMod
   - [Camellia - Dyscontrolled Galaxy (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/691807#taiko/1463929)
@@ -468,7 +468,7 @@ Sunday, 1 March 2020:
 
 ### Qualifiers
 
-More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1atC4Ym2qwmt8s-nRkbkWlQRYHKPauuTBVeeAP3vSmk8/edit#gid=0 "Google Sheets")
+More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1atC4Ym2qwmt8s-nRkbkWlQRYHKPauuTBVeeAP3vSmk8/edit#gid=0)
 
 | Seed | Team | Average |
 | --: | :-- | --: |

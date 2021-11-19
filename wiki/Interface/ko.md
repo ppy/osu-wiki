@@ -95,7 +95,7 @@ no_native_review: true
 
 - **Length(길이)**: 비트맵의 시작부터 끝까지의 총 길이입니다. [Drain Time](/wiki/Gameplay/Drain_time)과 헷갈리지 마세요.
 - **BPM**: 비트맵의 BPM을 표시합니다. 3번째 그림처럼 `?-? (?)` 형태로 표시되는 경우, BPM이 노래 전체에 걸쳐 변화한다는 뜻입니다. 각각 최저-최고 BPM을 나타내며, 괄호 안의 값은 비트맵을 시작할 때의 BPM 값을 나타냅니다.
-- **Objects(노트 수)**: 이 비트맵에 쓰인 각 항목의 [노트](/wiki/Hit_Objects) 수의 총 합입니다.
+- **Objects(노트 수)**: 이 비트맵에 쓰인 각 항목의 [노트](/wiki/Hit_object) 수의 총 합입니다.
 - **Circles(서클)**: 이 비트맵의 서클의 수 입니다.
 - **Sliders(슬라이더)**: 이 비트맵의 슬라이더의 수 입니다.
 - **Spinners(스피너)**: 이 비트맵의 스피너의 수 입니다.
@@ -294,7 +294,7 @@ no_native_review: true
 이것은 온라인 리더보드입니다. 결과 화면에서 스크롤을 내리면 확인할 수 있습니다. 로컬 랭킹, 온라인 랭킹, 비트맵 평점 순으로 표시됩니다.
 
 1. 로컬 스코어보드 내에서의 이름을 바꿀 수 있습니다.
-2. 당신의 유저 패널입니다. 당신의 [PP](/wiki/Performance_Points), 글로벌 랭킹, 총 점수, 평균 [정확도](/wiki/Accuracy)와 레벨을 알 수 있습니다.
+2. 당신의 유저 패널입니다. 당신의 [PP](/wiki/Performance_points), 글로벌 랭킹, 총 점수, 평균 [정확도](/wiki/Gameplay/Accuracy)와 레벨을 알 수 있습니다.
 3. 비트맵과 관련된 옵션입니다.
    1. Export Replay as `.osr` (리플레이를 `.osr` 파일로 저장): 리플레이 파일을 저장합니다. 파일이 있다면 온라인이든, 로컬에서든 사용할 수 있습니다.
    2. Online Favourite(온라인 즐겨찾기): 비트맵을 온라인 즐겨찾기에 추가합니다. 온라인 프로필의 Beatmaps->Favourite Beatmaps에서 확인할 수 있습니다.

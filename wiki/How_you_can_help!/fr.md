@@ -8,7 +8,7 @@ Ci-dessous voici quelques moyens d'aider la communauté :
 
 L'[osu!wiki](https://github.com/ppy/osu-wiki) est notre principale base de connaissance sur osu!, celui-ci traite de beaucoup de sujets différents et permet aux joueurs de trouver la réponse à leur question. De plus, le wiki cherche toujours des contributeurs pour aider à maintenir le site à jour avec des nouveaux sujets ou traductions d'articles du wiki.
 
-Si vous êtes nouveau sur l'osu!wiki, vous pouvez en savoir plus sur le [guide pour contribuer à celui-ci](/wiki/osu!_wiki_Contribution_Guide).
+Si vous êtes nouveau sur l'osu!wiki, vous pouvez en savoir plus sur le [guide pour contribuer à celui-ci](/wiki/osu!_wiki/Contribution_guide).
 
 ## Aider à maintenir une ambiance saine sur osu!
 
@@ -39,7 +39,7 @@ Voici quelques façons d'aider les membres de la communauté:
 osu! a une équipe d'évaluateurs dédiée pour vérifier si les [beatmaps](/wiki/Beatmap) sont prêtes a être ranked et jouée par tous. Cependant, cela ne veux pas dire que vous ne pouvez pas y contribuer :
 
 - Parcourez ou rechercher les listes de [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) d'artistes ou chansons que vous aimez ou auquel vous voudriez contribuer.
-- Jouez des beatmaps avec un statut [*Pending* ou *Work-in-progress*](/wiki/Beatmap/Category#work-in-progress-and-pending) et donnez un feedback sur la page de discussion de la beatmap.
+- Jouez des beatmaps avec un statut [*Pending* ou *Work-in-progress*](/wiki/Beatmap/Category#work-in-progress-et-en-attente) et donnez un feedback sur la page de discussion de la beatmap.
 - Lire le [guide de modding](/wiki/Modding) et les [critères de ranking](/wiki/Ranking_Criteria) pour connaitre les bases du modding ainsi que les différents critères qui rendent une beatmap prête pour le statut "Classée" (Ranked).
 - Rejoignez les chats in-game `#mapping` et `#modreqs` et conversez ou gardez un œil sur le canal pour apporter votre aide si nécessaire.
 - Si le modding vous intéresse, créez une [Modding Queue](https://osu.ppy.sh/community/forums/60) pour permettre aux créateurs de beatmaps de pouvoir vous demander des mods.

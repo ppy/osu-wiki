@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2787f766bf4cf7b8e2e3afd824e15adcb4e79798
+---
+
 # Regras
 
 Estas regras tem o propósito de manter a comunidade do osu! divertida e agradável para todos.

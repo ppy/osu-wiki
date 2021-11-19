@@ -25,7 +25,7 @@ Harap pilih jenis permasalahan yang paling menggambarkan masalah yang kamu hadap
 | [Akun](/wiki/Help_Centre/Account) | osu!supporter, pembatasan akun (*restriction*), proses *login*, penggantian nama pengguna, data profil |
 | [Beatmapping dan Editor](/wiki/Help_Centre/Beatmapping) | Pengelolaan beatmap, kepemilikan beatmap, sistem kuota beatmap (*beatmap slots*) |
 | [Klien](/wiki/Help_Centre/Client) | *Bug* dan *crash*, permainan, koneksi, performa |
-| [Instalasi dan registrasi](/wiki/Help_Centre/Installation_and_registration) | Pengunduhan, pembuatan akun |
+| [Instalasi dan pendaftaran](/wiki/Help_Centre/Installation_and_registration) | Pengunduhan, pembuatan akun |
 | [osu!store](/wiki/Help_Centre/Store) | osu!go, osu!keyboard, osu!tablet, berbagai piranti dan cinderamata resmi lainnya |
 | [Situs web](/wiki/Help_Centre/Website) | Pemblokiran pengguna, layanan dukungan, tampilan situs web |
 
@@ -41,7 +41,7 @@ Apabila anggota layanan dukungan kami memintamu untuk memberikan berkas-berkas l
 
 1. Buka osu!.
 2. Klik menu `Options` yang ada pada menu utama, atau tekan `CTRL` + `O`.
-3. Ketik `release` pada kolom pencarian (*quick-search bar*) yang muncul. Kamu akan melihat versi osu! yang sedang kamu gunakan
+3. Ketik `release` pada kolom pencarian (*quick-search bar*) yang muncul. Kamu akan melihat versi osu! yang sedang kamu gunakan.
 4. Pastikan kamu sedang menggunakan osu! versi `Eksperimental (Cutting Edge)`.
 5. Apabila pada langkah sebelumnya kamu mengganti versi osu! yang kamu gunakan, *restart* osu! melalui tombol yang muncul pada sisi bawah layar.
 6. Klik menu `Options` dan pilih `Buka folder osu!`.

@@ -99,7 +99,7 @@ All emails sent to the appeal review address will be investigated by a third par
 
 Please understand that sending an email to this address only guarantees a second look/initial answer to your appeal, it does not guarantee a change in any outcome if you have been found to be violating the expectations involved in the appealing process.
 
-**We will only respond to requests for appeal review/investigation via emails sent to [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Please don't try to contact osu!team members (or members of the volunteer teams) via Twitter, Discord, or any other platform in order to circumvent this policy - they cannot help you.
+**We will only respond to requests for appeal review/investigation via emails sent to [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Please don't try to contact the support team members (or members of the volunteer teams) via Twitter, Discord, or any other platform in order to circumvent this policy - they cannot help you.
 
 ## Common restriction reasons and cooldowns
 

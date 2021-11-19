@@ -8,7 +8,7 @@ tags:
 
 ![oMMFF logo](img/logo.png)
 
-The **osu! Multi Mode French Fiesta** (***oMMFF***) was a 1v1 French double-elimination tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) for the osu!, osu!taiko, osu!catch, and the osu!mania game modes. It was the first installment of the osu! Multi Mode French Fiesta.
+The **osu! Multi Mode French Fiesta** (***oMMFF***) was a 1v1 French double-elimination tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) for the osu!, osu!taiko, osu!catch, and the osu!mania game modes. It was the first instalment of the osu! Multi Mode French Fiesta.
 
 ## Tournament schedule
 
@@ -33,7 +33,7 @@ The **osu! Multi Mode French Fiesta** (***oMMFF***) was a 1v1 French double-elim
 | Registration phase | 2018-11-10/2018-12-09 |
 | Live drawings | 2018-12-09 (17:00 UTC) |
 | Qualifiers | 2019-01-05/2019-01-06 |
-| Group Stage | 2019-01-12/2019-01-13 |
+| Group stage | 2019-01-12/2019-01-13 |
 | Round of 12 | 2019-01-19/2019-01-20 |
 | Semifinals | 2019-01-26/2019-01-27 |
 | Finals | 2019-02-02/2019-02-03 |
@@ -68,13 +68,13 @@ The **osu! Multi Mode French Fiesta** (***oMMFF***) was a 1v1 French double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag, [AUKEY KM-G9](https://www.aukey.com/products/87-key-mechanical-keyboard-km-g9/ "Aukey") keyboard, 10€ PayPal/Amazon balance, physical trophy |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag, 10€ PayPal/Amazon balance |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, 10€ PayPal/Amazon balance |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter, [AUKEY KM-G9](https://www.aukey.com/products/87-key-mechanical-keyboard-km-g9/) keyboard, 10€ PayPal/Amazon balance, physical trophy |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter, 10€ PayPal/Amazon balance |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter, 10€ PayPal/Amazon balance |
 
 ![](img/badge-std.png "oMMFF winner badge (osu!)") ![](img/badge-tko.png "oMMFF winner badge (osu!taiko)") ![](img/badge-ctb.png "oMMFF winner badge (osu!catch)") ![](img/badge-mna.png "oMMFF winner badge (osu!mania)")
 
-- For the osu! division, all winners got a tablet cover sponsored by [Foxbox](https://foxbox.io/ "Foxbox").
+- For the osu! division, all winners got a tablet cover sponsored by [Foxbox](https://foxbox.io/).
 - Physical trophy was custom made specially for the tournament courtesy of ![][flag_FR] [Enygmatique](https://osu.ppy.sh/users/5146531).
 
 ## Organisation
@@ -102,14 +102,14 @@ The osu! Multi Mode French Fiesta was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/825579)
-- [Livestream](https://twitch.tv/osufrlive "Twitch")
-- [oMMFF Discord server](https://discord.gg/bWKUsHd "Discord")
+- [Livestream](https://twitch.tv/osufrlive)
+- [oMMFF Discord server](https://discord.gg/bWKUsHd)
 - Challonge brackets
-  - [osu!](https://o2mf.challonge.com/o2mf_osu "Challonge")
-  - [osu!taiko](https://o2mf.challonge.com/o2mf_taiko "Challonge")
-  - [osu!catch](https://o2mf.challonge.com/o2mf_catch "Challonge")
-  - [osu!mania](https://o2mf.challonge.com/o2mf_mania "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSE0LEyHOBW8P5F37719J2oZMhtba9b7Z-WaT5otksz7lSf4fvIq3giYXHNpT4xl1bOrIhJCPN6xlxO/pubhtml "Google Sheets")**
+  - [osu!](https://o2mf.challonge.com/o2mf_osu)
+  - [osu!taiko](https://o2mf.challonge.com/o2mf_taiko)
+  - [osu!catch](https://o2mf.challonge.com/o2mf_catch)
+  - [osu!mania](https://o2mf.challonge.com/o2mf_mania)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSE0LEyHOBW8P5F37719J2oZMhtba9b7Z-WaT5otksz7lSf4fvIq3giYXHNpT4xl1bOrIhJCPN6xlxO/pubhtml)**
 
 ## Participants
 
@@ -191,7 +191,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Grand Finals
 
-**[Download the mappack here! (164 MB)](https://mega.nz/#!Zoc1SY4b!ZOXkza2hwGz8FOXtOuN-yvhvi0XZ4-wdGqxDJTA6es4 "MEGA")**
+**[Download the mappack here! (164 MB)](https://mega.nz/#!Zoc1SY4b!ZOXkza2hwGz8FOXtOuN-yvhvi0XZ4-wdGqxDJTA6es4)**
 
 - NoMod
   - [ESTi - HELIX (Edit ver.) (Hollow Wings) \[EX EX\]](https://osu.ppy.sh/beatmapsets/194910#osu/462700)
@@ -221,7 +221,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the mappack here! (185 MB)](https://mega.nz/#!d0UQDKrA!I2eYjmLf5bfapATS-AAsWeAeGY1pDbjR4yK-vblTMlo "MEGA")**
+**[Download the mappack here! (185 MB)](https://mega.nz/#!d0UQDKrA!I2eYjmLf5bfapATS-AAsWeAeGY1pDbjR4yK-vblTMlo)**
 
 - NoMod
   - [Sound Souler - Paradise (kwk) \[Future\]](https://osu.ppy.sh/beatmapsets/686777#osu/1453452)
@@ -251,7 +251,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (110 MB)](https://mega.nz/#!8scSiQ4B!ewVqEGeZtw9xZcfZkJu_IpXCYjCIANzq19IbWC0_HPc "MEGA")**
+**[Download the mappack here! (110 MB)](https://mega.nz/#!8scSiQ4B!ewVqEGeZtw9xZcfZkJu_IpXCYjCIANzq19IbWC0_HPc)**
 
 - NoMod
   - [CELLON. - Labyrinth of Darkness (Mir) \[Expert\]](https://osu.ppy.sh/beatmapsets/778383#osu/1634887)
@@ -281,7 +281,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (128 MB)](https://mega.nz/#!po9l1QZa!YQGVoMx1z_MAyF297ctzTBQ_-SDmLgdrbQGQPx8xfRs "MEGA")**
+**[Download the mappack here! (128 MB)](https://mega.nz/#!po9l1QZa!YQGVoMx1z_MAyF297ctzTBQ_-SDmLgdrbQGQPx8xfRs)**
 
 - NoMod
   - [KITCALIBER - HEY FUCKER (P o M u T a) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/192416#osu/457590)
@@ -311,7 +311,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-**[Download the mappack here! (126 MB)](https://mega.nz/#!tgUxSaIa!gwMXnF4uysytZ-yfvGDx0fd1PnWiWqh9iJ1xHehRLjc "MEGA")**
+**[Download the mappack here! (126 MB)](https://mega.nz/#!tgUxSaIa!gwMXnF4uysytZ-yfvGDx0fd1PnWiWqh9iJ1xHehRLjc)**
 
 - NoMod
   - [kors k as teranoid - Bad Maniacs (P o M u T a) \[Extreme\]](https://osu.ppy.sh/beatmapsets/199244#osu/472619)
@@ -341,7 +341,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 32
 
-**[Download the mappack here! (127 MB)](https://mega.nz/#!QkFAQAQb!ALJeXk7vPRR1h6it6pqZROrpnaNL60kb8s6QqcBDSHA "MEGA")**
+**[Download the mappack here! (127 MB)](https://mega.nz/#!QkFAQAQb!ALJeXk7vPRR1h6it6pqZROrpnaNL60kb8s6QqcBDSHA)**
 
 - NoMod
   - [iconoclasm - perditus+paradisus (kiddly) \[Another\]](https://osu.ppy.sh/beatmapsets/72790#osu/218548)
@@ -373,7 +373,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Grand Finals
 
-**[Download the mappack here! (110 MB)](https://mega.nz/#!l9UnRSiK!oFxiLipliK5yC6klZQ91ki-dosV1ZaDldcslGJUSa98 "MEGA")**
+**[Download the mappack here! (110 MB)](https://mega.nz/#!l9UnRSiK!oFxiLipliK5yC6klZQ91ki-dosV1ZaDldcslGJUSa98)**
 
 - NoMod
   - [REDALiCE - Always TANO\*C (Kobaryo's FTN-Remix) (Backfire) \[Backfire's Ura Oni\]](https://osu.ppy.sh/beatmapsets/690365#taiko/1463215)
@@ -404,7 +404,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the mappack here! (97 MB)](https://mega.nz/#!dhkh1YyQ!9pbJCWicOLi4k_Hc6ZZfNhfCzw0hcEETydw3VkS0O7o "MEGA")**
+**[Download the mappack here! (97 MB)](https://mega.nz/#!dhkh1YyQ!9pbJCWicOLi4k_Hc6ZZfNhfCzw0hcEETydw3VkS0O7o)**
 
 - NoMod
   - [Stratovarius - Stratofortress (Zetera) \[Majin Oni - DETRITUS\]](https://osu.ppy.sh/beatmapsets/539208#taiko/1142587)
@@ -434,7 +434,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (96 MB)](https://mega.nz/#!Vld2jaoJ!Y96jzcaGEfbGsWosUdc-UMCuhqfGg-XJ_E4obUJl418 "MEGA")**
+**[Download the mappack here! (96 MB)](https://mega.nz/#!Vld2jaoJ!Y96jzcaGEfbGsWosUdc-UMCuhqfGg-XJ_E4obUJl418)**
 
 - NoMod
   - [Uinyasu.Otthokobunny - Aa Kenran no Yume ga Gotoku(Epsilon Remix) (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/734435#taiko/1549623)
@@ -464,7 +464,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 12
 
-**[Download the mappack here! (65 MB)](https://mega.nz/#!kg1GCI6B!CjfhjoHeUmzkMgFedpTHntg0HXzJLoKW-v3sxQWnqIw "MEGA")**
+**[Download the mappack here! (65 MB)](https://mega.nz/#!kg1GCI6B!CjfhjoHeUmzkMgFedpTHntg0HXzJLoKW-v3sxQWnqIw)**
 
 - NoMod
   - [Ito Kanako - fake me (Science Adventure Dance Remix) (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/680043#taiko/1437979)
@@ -488,18 +488,18 @@ This competition has come to an end and resulted in the following podium:
 
 #### Group stage
 
-**[Download the mappack here! (58 MB)](https://mega.nz/#!449VxYwI!6LRTcDbE-wx9hkjb-kQCc6-okZM16la7s7jn1lZZs0Y "MEGA")**
+**[Download the mappack here! (58 MB)](https://mega.nz/#!449VxYwI!6LRTcDbE-wx9hkjb-kQCc6-okZM16la7s7jn1lZZs0Y)**
 
 - NoMod
   - [LeaF - Calamity Fortune (Rhytoly) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/739859#taiko/1561014)
   - [toby fox - Spear of Justice (Surono) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/550611#taiko/1166592)
-  - [WeAreCastor - Eskimo (Savant Remix) (Nofool) \[Oni\]](https://puu.sh/CqiXA/9c9426478f.osz "puush")
-  - [uma - masaka IN Nightmare! (Osamix, Nofool edit) \[Muzukashii\]](https://puu.sh/CqiXA/9c9426478f.osz "puush")
+  - [WeAreCastor - Eskimo (Savant Remix) (Nofool) \[Oni\]](https://puu.sh/CqiXA/9c9426478f.osz)
+  - [uma - masaka IN Nightmare! (Osamix, Nofool edit) \[Muzukashii\]](https://puu.sh/CqiXA/9c9426478f.osz)
 - Hidden
   - [Project B- - Sarutobi Champion is Sessha (Charlotte) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/821700#taiko/1723174)
-  - [jioyi - Platinum (salchow, Nofool edit) \[Muzukashii (MMFF edit)\]](https://puu.sh/CqiXA/9c9426478f.osz "puush")
+  - [jioyi - Platinum (salchow, Nofool edit) \[Muzukashii (MMFF edit)\]](https://puu.sh/CqiXA/9c9426478f.osz)
 - HardRock
-  - [Cyte - Upside Done (7\_7, Nofool edit) \[Muzukashii (MMFF edit)\]](https://puu.sh/CqiXA/9c9426478f.osz "puush")
+  - [Cyte - Upside Done (7\_7, Nofool edit) \[Muzukashii (MMFF edit)\]](https://puu.sh/CqiXA/9c9426478f.osz)
   - [NOMA - Brain Power (S a n d) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/403076#taiko/878077)
 - DoubleTime
   - [Gojou Mayumi - DANZEN! Futari wa Pretty Cure (Mrriichi) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/394634#taiko/858834)
@@ -514,7 +514,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Grand Finals
 
-**[Download the mappack here! (281 MB)](https://mega.nz/#!F4cR3QYT!R5ZXMvbYNlRAMtK_4tgn0KEEj0Hs0EPpCgU31cP5CIQ "MEGA")**
+**[Download the mappack here! (281 MB)](https://mega.nz/#!F4cR3QYT!R5ZXMvbYNlRAMtK_4tgn0KEEj0Hs0EPpCgU31cP5CIQ)**
 
 - NoMod
   - [Kaneko Chiharu - iLLness LiLin (Minato Yukina) \[CRYSTAL SEED Dystopia's GRAVITY\]](https://osu.ppy.sh/beatmapsets/875346#fruits/1829329)
@@ -543,7 +543,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the mappack here! (227 MB)](https://mega.nz/#!xhkXFCYJ!P80Q56S-OhxS3dZ1N7RWosh8llz-X2QhEdWL28hr3cc "MEGA")**
+**[Download the mappack here! (227 MB)](https://mega.nz/#!xhkXFCYJ!P80Q56S-OhxS3dZ1N7RWosh8llz-X2QhEdWL28hr3cc)**
 
 - NoMod
   - [Morimori Atsushi - PUPA (Spectator) \[Butterfly\]](https://osu.ppy.sh/beatmapsets/660618#fruits/1398792)
@@ -572,7 +572,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (206 MB)](https://mega.nz/#!t9sUBSLA!IRBDLYAULhKow1SlOVpdAUhWLLJ9BvaV3I-xQqnlr1g "MEGA")**
+**[Download the mappack here! (206 MB)](https://mega.nz/#!t9sUBSLA!IRBDLYAULhKow1SlOVpdAUhWLLJ9BvaV3I-xQqnlr1g)**
 
 - NoMod
   - [Various Artists - Dan \~ CTB \~ SpeedMap Pack (Emiru) \[Gabberse Town \~ 6th \~ (Marathon)\]](https://osu.ppy.sh/beatmapsets/696969#fruits/1837156)
@@ -601,7 +601,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (86 MB)](https://mega.nz/#!txckwSKK!NLSCUepd0-AeB7el-8ei8pp0pkQhOVubenTErlmBgxM "MEGA")**
+**[Download the mappack here! (86 MB)](https://mega.nz/#!txckwSKK!NLSCUepd0-AeB7el-8ei8pp0pkQhOVubenTErlmBgxM)**
 
 - NoMod
   - [Roselia - LOUDER (CLSW) \[Crystal's Rain\]](https://osu.ppy.sh/beatmapsets/595580#fruits/1270273)
@@ -627,7 +627,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Grand Finals
 
-**[Download the mappack here! (119 MB)](https://mega.nz/#!F5tH2C7L!b4yxO0FwHBJVjsvHnOEhZ-bM27mn34DdwN9Q161fhSQ "MEGA")**
+**[Download the mappack here! (119 MB)](https://mega.nz/#!F5tH2C7L!b4yxO0FwHBJVjsvHnOEhZ-bM27mn34DdwN9Q161fhSQ)**
 
 - FreeMod
   - [EvOke - Edison (Cunu) \[Singing Vigourously\]](https://osu.ppy.sh/beatmapsets/924294#mania/1930571)
@@ -651,7 +651,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the mappack here! (79 MB)](https://mega.nz/#!YxlARS6I!UE_ZjEuIfLZ_CzPazKXsm3IJWXkOgV9ol2jSde8xkJo "MEGA")**
+**[Download the mappack here! (79 MB)](https://mega.nz/#!YxlARS6I!UE_ZjEuIfLZ_CzPazKXsm3IJWXkOgV9ol2jSde8xkJo)**
 
 - FreeMod
   - [Sta - The Ricochet (Tantei B) \[Sustainable Vector\]](https://osu.ppy.sh/beatmapsets/920876#mania/1923098)
@@ -675,7 +675,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (173 MB)](https://mega.nz/#!Yg9nXS6Y!VecFE-SnPbKDQ402VxzspEi_Vq5tVEpXkbXZQhkm7D8 "MEGA")**
+**[Download the mappack here! (173 MB)](https://mega.nz/#!Yg9nXS6Y!VecFE-SnPbKDQ402VxzspEi_Vq5tVEpXkbXZQhkm7D8)**
 
 - FreeMod
   - [Daisuke Tanabe - Ghost (PotassiumF) \[disorienting\]](https://osu.ppy.sh/beatmapsets/780635#mania/1639702)
@@ -687,7 +687,7 @@ This competition has come to an end and resulted in the following podium:
   - [a\_hisa - Cheshire's dance (TheToaphster) \[LN Dancing\]](https://osu.ppy.sh/beatmapsets/555278#mania/1175264)
   - [DJ Noriken - #MAGiCVLGiRL\_TRVP\_B3VTZ (Zyph) \[GVIL'Z\_LNZ\]](https://osu.ppy.sh/beatmapsets/742179#mania/1565515)
   - [Her Bright Skies - The Glorious (Final Sketch Remix) (Shoegazer) \[Coronation\]](https://osu.ppy.sh/beatmapsets/852660#mania/1782169)
-  - [Sex Whales & Fraxo - Dead To Me (feat. Lox Chatterbox) (Whagwha Victus) \[VICTUS\]](https://www.dropbox.com/s/mf764dcbcypj2f1/Sex%20Whales%20%26%20Fraxo%20-%20Dead%20To%20Me%20%28feat.%20Lox%20Chatterbox%29.osz?dl=0 "Dropbox")
+  - [Sex Whales & Fraxo - Dead To Me (feat. Lox Chatterbox) (Whagwha Victus) \[VICTUS\]](https://www.dropbox.com/s/mf764dcbcypj2f1/Sex%20Whales%20%26%20Fraxo%20-%20Dead%20To%20Me%20%28feat.%20Lox%20Chatterbox%29.osz?dl=0)
   - [Lolipusher - why as soon as we became so close, we have to say goodbye? (Civilization) \[december\]](https://osu.ppy.sh/beatmapsets/839786#mania/1757909)
   - [Kola Kid - Sniffing Stardust On The Dancefloor (Remilly) \[Cosmic Horror\]](https://osu.ppy.sh/beatmapsets/473480#mania/1011729)
   - [(Various Artists) - Dumpstream of Memes 1A (Leo137) \[Back! to the Future - Denpagumi.inc - Leo137's Easy 1\]](https://osu.ppy.sh/beatmapsets/653875#mania/1386023)
@@ -697,7 +697,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (80 MB)](https://mega.nz/#!50FXVSoK!usK5jz2nKLvStUM_m4vt-wRiHZD9sC1XFVKGKr6dd6A "MEGA")**
+**[Download the mappack here! (80 MB)](https://mega.nz/#!50FXVSoK!usK5jz2nKLvStUM_m4vt-wRiHZD9sC1XFVKGKr6dd6A)**
 
 - FreeMod
   - [Helblinde - Above The Clouds (Tidek) \[Heaven\]](https://osu.ppy.sh/beatmapsets/895291#mania/1870722)
@@ -713,11 +713,11 @@ This competition has come to an end and resulted in the following podium:
   - [sasakure.UK - Bokura no 16bit Wars (Sonny737) \[Challenge\]](https://osu.ppy.sh/beatmapsets/702378#mania/1486229)
   - [stereoberry - ametsuchi (Civilization) \[petrichor\]](https://osu.ppy.sh/beatmapsets/671311#mania/1419426)
 - Tiebreaker
-  - **[Laur - Sound Chimera (\_Streamy\_) \[O!MFF (Restep)\]](https://www.dropbox.com/s/5uyw2410c8n5izj/Laur%20-%20Sound%20Chimera.osz?dl=0 "Dropbox")**
+  - **[Laur - Sound Chimera (\_Streamy\_) \[O!MFF (Restep)\]](https://www.dropbox.com/s/5uyw2410c8n5izj/Laur%20-%20Sound%20Chimera.osz?dl=0)**
 
 #### Round of 24
 
-**[Download the mappack here! (49 MB)](https://mega.nz/#!o9MChIxJ!BtKgqPuqV0xZChiPzoOYNJz8DAs8XXVYeFLBmJc5lHo "MEGA")**
+**[Download the mappack here! (49 MB)](https://mega.nz/#!o9MChIxJ!BtKgqPuqV0xZChiPzoOYNJz8DAs8XXVYeFLBmJc5lHo)**
 
 - FreeMod
   - [Ian Davecore - Katyusha (Laibus) \[Bounce\]](https://osu.ppy.sh/beatmapsets/849009#mania/1775369)
@@ -1228,7 +1228,7 @@ Sunday, 20 January 2019:
 
 ### Eligibility and registration
 
-- Any player who has a flag of a country that is part of the [Francophonie](http://www.world-territories.com/ttfr/dossiers.php?dossier=francophonie "Tous les territoires français") or part of the [Overseas France](https://fr.wikipedia.org/wiki/France_d%27outre-mer "Wikipedia") is allowed to play in this tournament.
+- Any player who has a flag of a country that is part of the [Francophonie](http://www.world-territories.com/ttfr/dossiers.php?dossier=francophonie) or part of the [Overseas France](https://fr.wikipedia.org/wiki/France_d%27outre-mer) is allowed to play in this tournament.
 - Any staff member except **map selectors and referees** are allowed to play in this tournament.
 - 32 slots will be open for each division. In the case a division does not get 32 players, then only the top 16 of this division will be allowed to play in this tournament. If a division has less than 16 players, the tournament for it will be **cancelled**. More slots will not be open. Players can join **any** of the 4 tournaments.
 - This tournament's staff has any right to decline the registration of a player if osu! staff declines them.

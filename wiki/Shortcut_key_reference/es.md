@@ -66,8 +66,6 @@ En osu!, hay varios atajos que pueden ser utilizados en juego y en los respectiv
 
 Nota: Mods especiales tales como [Perfect](/wiki/Game_modifier/Perfect) o [Nightcore](/wiki/Game_modifier/Nightcore) necesitan de un clic adicional.
 
-![Lista de posibles mods de osu! (teclas en orden)](Soloplay8.png "Lista de posibles mods de osu! <teclas en orden>")
-
 - **Q**: [Easy](/wiki/Game_modifier/Easy)
 - **W**: [No Fail](/wiki/Game_modifier/No_Fail)
 - **E**: [Half-Time](/wiki/Game_modifier/Half_Time)
@@ -102,8 +100,6 @@ Nota: Mods especiales tales como [Perfect](/wiki/Game_modifier/Perfect) o [Night
 ### Atajos del Teclado
 
 #### General
-
-![Cómo se debería ver cuando presionas la tecla H (Ayuda)](Edit_Help.jpg "Cómo se debería ver cuando presionas la tecla H <Ayuda>")
 
 - **H**: Ayuda (Contiene todos los atajos que se demuestran abajo)
 

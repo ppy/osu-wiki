@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
 <div class="wiki-main-page__blurb">
@@ -11,7 +13,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 # はじめに
 
-[ようこそ](/wiki/Welcome) • [インストール](/wiki/Installation) • [登録](/wiki/Registration) • [ヘルプセンター](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[インストール](/wiki/Installation) • [登録](/wiki/Registration) • [ヘルプセンター](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -40,7 +42,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 コンポーネント: [AiMod](/wiki/Beatmap_Editor/AiMod) • [ビートスナップディバイザー](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [ディスタンススナップ](/wiki/Beatmap_Editor/Distance_Snap) • [メニュー](/wiki/Beatmap_Editor/Menu) • [SBロード](/wiki/Beatmap_Editor/SB_Load) • [タイムライン](/wiki/Beatmap_Editor/Timelines)
 
-[ビートマッピング](/wiki/Beatmapping) • [難易度](/wiki/Beatmap/Difficulty) • [マッピング技術](/wiki/Mapping_Techniques) • [ストーリーボード](/wiki/Storyboarding)
+[ビートマッピング](/wiki/Beatmapping) • [難易度](/wiki/Beatmap/Difficulty) • [マッピング技術](/wiki/Mapping_Techniques) • [ストーリーボード](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -56,7 +58,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 # コミュニティ
 
-[トーナメント](/wiki/Tournaments) • [スキニング](/wiki/Skinning) • [プロジェクト](/wiki/Projects) • [ガイド](/wiki/Guides) • [osu!dev Discordサーバー](/wiki/osu!dev_Discord_server) • [ご協力のお願い](/wiki/How_You_Can_Help!) • [用語集](/wiki/Glossary)
+[トーナメント](/wiki/Tournaments) • [スキニング](/wiki/Skinning) • [プロジェクト](/wiki/Projects) • [ガイド](/wiki/Guides) • [osu!dev Discordサーバー](/wiki/osu!dev_Discord_server) • [ご協力のお願い](/wiki/How_you_can_help!) • [用語集](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -81,7 +83,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 # wikiについて
 
-[サイトマップ](/wiki/Sitemap) • [コントリビューションガイド](/wiki/osu!_wiki_Contribution_Guide) • [記事のスタイリング基準](/wiki/Article_Styling_Criteria) • [ニュースのスタイリング基準](/wiki/News_Styling_Criteria)
+[サイトマップ](/wiki/Sitemap) • [コントリビューションガイド](/wiki/osu!_wiki/Contribution_guide) • [記事のスタイリング基準](/wiki/Article_styling_criteria) • [ニュースのスタイリング基準](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

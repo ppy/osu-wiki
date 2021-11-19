@@ -8,7 +8,7 @@ tags:
 
 ![o!AOT2 logo](img/logo.jpg)
 
-The **osu! Asia Oceania Tournament 2** (***o!AOT2***) was an Asian and Oceanian double-elimination team-based osu! tournament hosted by ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) and ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608). The tournament was restricted to players within the Asia and Oceania countries only. It was the second installment of the osu! Asia Oceania Tournament.
+The **osu! Asia Oceania Tournament 2** (***o!AOT2***) was an Asian and Oceanian double-elimination team-based osu! tournament hosted by ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) and ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608). The tournament was restricted to players within the Asia and Oceania countries only. It was the second instalment of the osu! Asia Oceania Tournament.
 
 ## Tournament schedule
 
@@ -39,7 +39,7 @@ The osu! Asia Oceania Tournament 2 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) |
-| Map selector | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_VN] [LMT](https://osu.ppy.sh/users/7262798), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
+| Mappool selector | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_VN] [LMT](https://osu.ppy.sh/users/7262798), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
 | Referee | ![][flag_KR] [Cherry bomb](https://osu.ppy.sh/users/11584205), ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495), ![][flag_HK] [Finley On Cocoa](https://osu.ppy.sh/users/10141298), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_CN] [MyAngelJackWang](https://osu.ppy.sh/users/3665920), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632) |
 | Streamer | ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620), ![][flag_SG] [Rtzero](https://osu.ppy.sh/users/9262462), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
 | Commentator | ![][flag_GR] [JackPaX](https://osu.ppy.sh/users/11226645), ![][flag_SG] [O-Tae](https://osu.ppy.sh/users/13430124), ![][flag_SG] [Rtzero](https://osu.ppy.sh/users/9262462), ![][flag_ID] [sumippe](https://osu.ppy.sh/users/1929336), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
@@ -50,10 +50,10 @@ The osu! Asia Oceania Tournament 2 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1079231)
-- [o!AOT Discord server](https://discord.gg/mZtHc5M "Discord")
-- [Livestream](https://www.twitch.tv/osuaot "Twitch")
-- [Challonge brackets](https://challonge.com/oAOT2 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/155vE-qSwfc9CVXGoiAeTQXBzxr4jmwBNwOrs7hYHxyI/edit "Google Sheets")**
+- [o!AOT Discord server](https://discord.gg/mZtHc5M)
+- [Livestream](https://www.twitch.tv/osuaot)
+- [Challonge brackets](https://challonge.com/oAOT2)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/155vE-qSwfc9CVXGoiAeTQXBzxr4jmwBNwOrs7hYHxyI/edit)**
 
 ## Participants
 
@@ -111,7 +111,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (125 MB)](https://mega.nz/file/9gNQCQIJ#nWHbjnepijxaoR-5B8XbVukGdc6M98NgUk0SkHzj9xA "MEGA")**
+**[Download the mappack here! (125 MB)](https://mega.nz/file/9gNQCQIJ#nWHbjnepijxaoR-5B8XbVukGdc6M98NgUk0SkHzj9xA)**
 
 - NoMod
   - [Reol - Saisaki (Shirasaka Koume) \[Reborn, to strong yourself.\]](https://osu.ppy.sh/beatmapsets/871397#osu/1820714)
@@ -142,7 +142,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (123 MB)](https://mega.nz/file/15lRhCxR#DsAh3ulFuA67B2Zn0RWnbuixIy1-lkownEMflCIIb0U "MEGA")**
+**[Download the mappack here! (123 MB)](https://mega.nz/file/15lRhCxR#DsAh3ulFuA67B2Zn0RWnbuixIy1-lkownEMflCIIb0U)**
 
 - NoMod
   - [DECO\*27 - Android Girl (Fuma) \[Reboot\]](https://osu.ppy.sh/beatmapsets/1228450#osu/2554392)
@@ -173,7 +173,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (130 MB)](https://mega.nz/file/hk9jlYJD#m5BS7_az5VXiesk_Ln1OIAiHmzILxKqLhLtDEi6sM4I "MEGA")**
+**[Download the mappack here! (130 MB)](https://mega.nz/file/hk9jlYJD#m5BS7_az5VXiesk_Ln1OIAiHmzILxKqLhLtDEi6sM4I)**
 
 - NoMod
   - [Foreground Eclipse - Flames Within These Black Feathers (Seni) \[Tearing Apart The Despair Entangled Within My Hands\]](https://osu.ppy.sh/beatmapsets/1001825#osu/2097124)
@@ -203,7 +203,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (127 MB)](https://mega.nz/file/wxtEUaqb#mfl7b7WC5UfA8459IqOxo8T9efQbUdBL1OMI_n10M7A "MEGA")**
+**[Download the mappack here! (127 MB)](https://mega.nz/file/wxtEUaqb#mfl7b7WC5UfA8459IqOxo8T9efQbUdBL1OMI_n10M7A)**
 
 - NoMod
   - [ShinRa-Bansho - Zenryoku Happy Life (Asagi) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/819611#osu/1718454)
@@ -222,7 +222,7 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [Juno Reactor - Guardian Angel (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/965524#osu/2021129)
   - [XX:me - Torikago (Kibbleru) \[Jian\]](https://osu.ppy.sh/beatmapsets/731356#osu/1543369)
-  - [a\_hisa - inertia (\[ HalLoWeeN \]) \[Hyper\]](https://bloodcat.com/osu/s/126347 "Bloodcat")
+  - [a\_hisa - inertia (\[ HalLoWeeN \]) \[Hyper\]](https://bloodcat.com/osu/s/126347)
   - [merry-san - Venom (Houshou Hari) \[Insane\]](https://osu.ppy.sh/beatmapsets/1073331#osu/2246285)
 - FreeMod
   - [Zips - Heisei Cataclysm (Nevo) \[Heisei\]](https://osu.ppy.sh/beatmapsets/1060960#osu/2221292)
@@ -233,7 +233,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (97 MB)](https://mega.nz/file/BslWHABQ#Rg0gnbYiu37ehXfdL1-RrNywszmkHafCWccpPt-M7SM "MEGA")**
+**[Download the mappack here! (97 MB)](https://mega.nz/file/BslWHABQ#Rg0gnbYiu37ehXfdL1-RrNywszmkHafCWccpPt-M7SM)**
 
 - NoMod
   - [Itowokashi - Kanadeai (Flask) \[Twin Star\]](https://osu.ppy.sh/beatmapsets/1089616#osu/2278105)
@@ -259,7 +259,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (100 MB)](https://mega.nz/file/FoVWAA4Z#tmDwEObubY62m40pquWSCDX3EZKJTZyGKNaZgOlmI50 "MEGA")**
+**[Download the mappack here! (100 MB)](https://mega.nz/file/FoVWAA4Z#tmDwEObubY62m40pquWSCDX3EZKJTZyGKNaZgOlmI50)**
 
 - NoMod
   - [aki - Clione no Akari (MiyohashiKoori) \[Flying in the Sky\]](https://osu.ppy.sh/beatmapsets/1013752#osu/2137749)
@@ -285,7 +285,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (72 MB)](https://mega.nz/file/5w0jXLJQ#QcLhUcYP1QcRhr5CSYjargZGrxBXCEfVJkptymlQziU "MEGA")**
+**[Download the mappack here! (72 MB)](https://mega.nz/file/5w0jXLJQ#QcLhUcYP1QcRhr5CSYjargZGrxBXCEfVJkptymlQziU)**
 
 - NoMod
   - [Terashima Takuma - Nameless Story (Yudragen) \[Innominate\]](https://osu.ppy.sh/beatmapsets/1036720#osu/2167561)
@@ -293,7 +293,7 @@ This competition has come to an end and resulted in the following podium:
   - [Giga - BRING IT ON (Pho) \[Minorsonek's Extreme\]](https://osu.ppy.sh/beatmapsets/865490#osu/1864300)
   - [Jeff Williams - I'm The One (feat. Casey Lee Williams) (puxtu) \[toybot's Extra\]](https://osu.ppy.sh/beatmapsets/451658#osu/1605312)
 - Hidden
-  - [The Lonely Island Ft. Akon - I Just Had Sex (TKiller) \[Collab\]](https://bloodcat.com/osu/s/24104 "Bloodcat")
+  - [The Lonely Island Ft. Akon - I Just Had Sex (TKiller) \[Collab\]](https://bloodcat.com/osu/s/24104)
   - [Kabocha - EmbryO (Kawashiro) \[Garden's Expert\]](https://osu.ppy.sh/beatmapsets/947018#osu/1990062)
 - HardRock
   - [Umi no Soko kara Mermaid Prim by ARM x Komso - Gyogyotto Ningyo Bakkon Bridal (fanzhen0019) \[Another\]](https://osu.ppy.sh/beatmapsets/651723#osu/1382059)
@@ -507,7 +507,7 @@ Monday, 13 July 2020:
 | #37 | Better | 0 |
 
 - Only the top 32 team could proceed to the Group Stage
-- More detailed qualifiers results with how the points were gathered can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1_jdti6hIoQPqpfP5AyYJjPEiGSpL9ObC-y-OcwoTXNw/edit "Google Sheets")
+- More detailed qualifiers results with how the points were gathered can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1_jdti6hIoQPqpfP5AyYJjPEiGSpL9ObC-y-OcwoTXNw/edit)
 - Team seedings also get determined with their results in Qualifiers:
   - Seed #1 - #8 were Top seed teams.
   - Seed #9 - #16 were High seed teams.
@@ -524,7 +524,7 @@ Monday, 13 July 2020:
 3. Players will assemble a team between 2 - 4 players and the match format will be a 2v2.
 4. There will be **no rank restrictions**.
 5. Participation is restricted to players with flags from Asian or Oceanian countries.
-   - Follow the [following document](https://puu.sh/FNs5a.txt "puush") for list eligible countries.
+   - Follow the [following document](https://puu.sh/FNs5a.txt) for list eligible countries.
    - If players are able to show proof of residency and citizenship to the host, they may be eligible to register (Contact "Fuma#7895" via Discord for further instructions).
 6. Joining the Discord server is mandatory for all players:
    - Players may only leave the Discord server if they get eliminated from the tournament.

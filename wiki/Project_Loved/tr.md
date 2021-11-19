@@ -1,21 +1,19 @@
 # Project Loved
 
-**Project Loved** beatmapleri [Sevilen](/wiki/Beatmap/Category#loved) kategorisine kazandıran oylama plaformudur. Bu proje birincil olarak [Project Loved Takımı](/wiki/People/The_Team/Project_Loved_Team) tarafından yürütülür.
+**Project Loved** beatmapleri [Sevilen](/wiki/Beatmap/Category#sevilen) kategorisine kazandıran oylama plaformudur. Bu proje birincil olarak [Project Loved Takımı](/wiki/People/The_Team/Project_Loved_Team) tarafından yürütülür.
 
 ## Bir beatmapin Sevilenlere eklenmesi
 
 Beatmapler, bir aday gösterme ve oylama süreci ile Sevilenlere eklenir.
 
-**Kaptanlar** olarak bilinen Project Loved Takımı üyeleri spesifik bir oyun modu için beatmap setlerini düzenli olarak aday gösterirler. Neredeyse her zaman, bu setler osu! topluluğundan gelen gönderilerden seçilir. Mevcut Sevilen gönderi formlarına ve listelerine aşağıdaki linklerden ulaşılabilir:
+**Kaptanlar** olarak bilinen Project Loved Takımı üyeleri spesifik bir oyun modu için beatmap setlerini düzenli olarak aday gösterirler. Bu setler hemen hemen her zaman osu! topluluğundan gelen gönderiler arasından seçilir.
 
-- [osu!/osu!catch formu](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)
-- [osu!taiko formu](https://docs.google.com/forms/d/e/1FAIpQLSclPWyjFByhHP45AtKD49y0RSl1TK5UOzD4dVdvjfJJQ1aCXQ/viewform)
-- [osu!mania formu](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform)
-- [osu!/osu!catch listesi](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit)
-- [osu!taiko listesi](https://docs.google.com/spreadsheets/d/1Nk96z_xat_7ypsDF1sCTDO4i_CnHarcrCbGoTmgwHHE/edit)
-- [osu!mania listesi](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit)
+Sevilen kategorisine eklenmesini istediğiniz bir beatmapi göndermek için lütfen [Project Loved web sitesinin beatmap gönderme sayfasını](https://loved.sh/submit) ziyaret edin ve formu doldurun. Formu göndermenizle birlikte, gönderiminiz diğer gönderimlerle birlikte ilgili oyun modunun listesinde herkese açık bir şekilde görünür olacaktır. Aşağıda bu gönderimlerin görülebileceği listeler mevcuttur:
 
-*Not: Eğer Google Formlara erişiminiz kısıtlıysa, bir beatmapi sizin adınıza göndermesi için herhangi bir [Project Loved Takım üyesiyle](/wiki/People/The_Team/Project_Loved_Team#team-members) iletişime geçebilirsiniz.*
+- [osu! gönderimleri](https://loved.sh/submissions/osu)
+- [osu!taiko gönderimleri](https://loved.sh/submissions/taiko)
+- [osu!catch gönderimleri](https://loved.sh/submissions/fruits)
+- [osu!mania gönderimleri](https://loved.sh/submissions/mania)
 
 Aday gösterilen map setleri daha sonrasında, topluluk üyelerinin map setinin Sevilen olmasını isteyip istemediklerini oylayabilecekleri [Project Loved forumunda](https://osu.ppy.sh/community/forums/120) paylaşılır. Oylamaların bitiminde "Evet" oyları belirli bir yüzdeliğe ulaşan mapler Sevilen kategorisine eklenir.
 
@@ -23,14 +21,14 @@ Aday gösterilen map setleri daha sonrasında, topluluk üyelerinin map setinin 
 
 Beatmaplerin Sevilen kategorisine aday gösterilebilmesi için karşılaması gereken minimal birtakım kriterler bulunmaktadır. Kaptanlar bir beatmap setini aşağıdaki kriterleri sağlıyorsa göz önünde bulundurur:
 
-- [Nitelikli](/wiki/Beatmap/Category#qualified), [Dereceli](/wiki/Beatmap/Category#ranked) ya da [Onaylı](/wiki/Beatmap/Category#approved) kategorilerinde olmamalı.
+- [Nitelikli](/wiki/Beatmap/Category#nitelikli), [Dereceli](/wiki/Beatmap/Category#dereceli) ya da [Onaylı](/wiki/Beatmap/Category#approved) kategorilerinde olmamalı.
 - Yaratıcısı setin Sevilen olmasını reddetmemeli.
 - Yaratıcısı banlı ya da kısıtlı olmamalı.
 - En az bir zorluğun geçilebilir olmalı.
 - En az 30 favoriye sahip olmalı (sadece osu! mapleri için geçerlidir)
 - Aday gösterilen her zorluk en az 30 saniyelik [akış süresine](/wiki/Gameplay/Drain_time) sahip olmalı.
 
-Ancak, neredeyse tüm [Beklemede ve Yapım aşamasındaki](/wiki/Beatmap/Category#work-in-progress-and-pending) maplerin bu kriterlere uymasına rağmen, nispeten daha seçici aday gösterme ve oylama gereksinimlerinden dolayı yalnızca birkaçı Sevilen kategorisine eklenmesi için oylanır.
+Birçok [Beklemede ve Yapım aşamasındaki](/wiki/Beatmap/Category#yapım-aşamasında-ve-beklemede) mapin bu kriterlere uymasına rağmen, nispeten daha seçici aday gösterme ve oylama gereksinimlerinden dolayı yalnızca birkaçı Sevilen kategorisine eklenmesi için oylanır.
 
 Sevilen kategorisine giren beatmapler birtakım ek kuralları takip etmek zorundadır:
 
@@ -49,3 +47,8 @@ Bir kaptanın Sevilen için aday göstermesi gereken mapler ile ilgili katı bir
 ## Daha fazla bilgi
 
 Project Loved için yapılan organizasyonun ve planlamanın tamamı [osu!dev Discord sunucusundaki](https://discord.gg/ppy) `#osu-loved` kanalında yürütülür. [osu! Topluluk Discord sunucusunda](https://discord.gg/0Vxo9AsejDkGlk3H) da bir `#project-loved` kanalı mevcuttur. Her türlü sorularınızı, endişelerinizi, veya önerilerinizi burada belirtebilirsiniz.
+
+Yukarıda adı geçen tartışma mecralarının yanısıra, osu!taiko ve osu!mania toplulukları kendi Discord sunucularına sahiptir. Bunlara katılmak için aşağıdaki linkleri kullanabilirsiniz:
+
+- [osu!taiko Project Loved Discord sunucusu](https://discord.com/invite/GhfjtZ6)
+- [osu!mania Project Loved Discord sunucusu](https://discord.gg/Ededv7m)

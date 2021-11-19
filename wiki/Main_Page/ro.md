@@ -1,6 +1,8 @@
 ---
 layout: main_page
 no_native_review: true
+outdated: true
+outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
 <div class="wiki-main-page__blurb">
@@ -12,7 +14,7 @@ Bine ați venit la osu! wiki, un proiect care conține o gamă largă de informa
 
 # Noțiuni de bază
 
-[Bun venit](/wiki/Welcome) • [Instalare](/wiki/Installation) • [Înregistrare](/wiki/Registration) • [Centrul de ajutor](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[Instalare](/wiki/Installation) • [Înregistrare](/wiki/Registration) • [Centrul de ajutor](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -41,7 +43,7 @@ Secțiuni: [Compune](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 
 Componente: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Divizor Beat Snap](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distanţă pocnet](/wiki/Beatmap_Editor/Distance_Snap) • [Meniu](/wiki/Beatmap_Editor/Menu) • [Încărcare SB](/wiki/Beatmap_Editor/SB_Load) • [Cronologii](/wiki/Beatmap_Editor/Timelines)
 
-[Beatmapping](/wiki/Beatmapping) • [Dificultăți](/wiki/Beatmap/Difficulty) • [Tehnici de mapping](/wiki/Mapping_Techniques) • [Scenariu vizual](/wiki/Storyboarding)
+[Beatmapping](/wiki/Beatmapping) • [Dificultăți](/wiki/Beatmap/Difficulty) • [Tehnici de mapping](/wiki/Mapping_Techniques) • [Scenariu vizual](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -57,7 +59,7 @@ Componente: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Divizor Beat Snap](/wiki/Be
 
 # Comunitate
 
-[Turnee](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proiecte](/wiki/Projects) • [Ghiduri](/wiki/Guides) • [Serverul Discord osu!dev](/wiki/osu!dev_Discord_server) • [Cum puteți ajuta](/wiki/How_You_Can_Help!) • [Glosar](/wiki/Glossary)
+[Turnee](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proiecte](/wiki/Projects) • [Ghiduri](/wiki/Guides) • [Serverul Discord osu!dev](/wiki/osu!dev_Discord_server) • [Cum puteți ajuta](/wiki/How_you_can_help!) • [Glosar](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -82,7 +84,7 @@ Organizații: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # Despre wiki
 
-[Harta site-ului](/wiki/Sitemap) • [Ghid de contribuție](/wiki/osu!_wiki_Contribution_Guide) • [Criterii de stilare a articolelor](/wiki/Article_Styling_Criteria) • [Criterii de stilare a știrilor](/wiki/News_Styling_Criteria)
+[Harta site-ului](/wiki/Sitemap) • [Ghid de contribuție](/wiki/osu!_wiki/Contribution_guide) • [Criterii de stilare a articolelor](/wiki/Article_styling_criteria) • [Criterii de stilare a știrilor](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

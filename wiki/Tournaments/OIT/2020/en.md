@@ -32,17 +32,17 @@ The **osu! Indonesia Tournament #10 (2020)** (***OIT 2020***) was an Indonesian 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, 4 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool, 2 months of osu!supporter |
 
-![Profile badge](img/badge.jpg)
+![](img/badge.jpg "OIT 2020 winner badge")
 
-## Organization
+## Organisation
 
 The OIT 2020 was run by various Indonesian osu! community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) |
 | Co-host | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825) |
-| Map selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
+| Mappool selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
 | Streamer | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Alice Pi](https://osu.ppy.sh/users/8787324), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
 | Commentator | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Kirinagi](https://osu.ppy.sh/users/5937545), ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988), ![][flag_ID] [Velstadt](https://osu.ppy.sh/users/6209095), ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) |
 | Referee | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Extinction666](https://osu.ppy.sh/users/5472877), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773) |
@@ -51,22 +51,22 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/12dU5oFb_vdfn5YHXMC6cvQZr7VeQV4hPU_WWzxYZiWg/edit#gid=1811776910 "Google Sheets")**
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/12dU5oFb_vdfn5YHXMC6cvQZr7VeQV4hPU_WWzxYZiWg/edit#gid=1811776910)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1003216)
-- [Discord server](https://discordapp.com/invite/CHRFffH "Discord")
-- [Primary livestream channel](https://www.twitch.tv/osuindonesia "Twitch")
-- [Secondary livestream channel](https://www.twitch.tv/osuindonesiab "Twitch")
-- [Challonge brackets](https://challonge.com/OIT2020 "Challonge")
+- [Discord server](https://discordapp.com/invite/CHRFffH)
+- [Primary livestream channel](https://www.twitch.tv/osuindonesia)
+- [Secondary livestream channel](https://www.twitch.tv/osuindonesiab)
+- [Challonge brackets](https://challonge.com/OIT2020)
 
 ## Podium
 
-![Champion: Skydiver, 2nd place: Fuma, 3rd place: Rexeez](img/podium.jpg)
+![](img/podium.jpg "OIT 2020 podium")
 
 ## Mappools
 
 ### Finals week 2
 
-**[Download the mappack here! (188 MB)](https://drive.google.com/file/d/1ooSskA_Q2pbYDkrXmRW2GKamWRWdv1Ky/view "Google Drive")**
+**[Download the mappack here! (188 MB)](https://drive.google.com/file/d/1ooSskA_Q2pbYDkrXmRW2GKamWRWdv1Ky/view)**
 
 - NoMod
   - [ELFENSJoN - Hyousou wa Hakuen o Matoite (Xayah) \[White Flame\]](https://osu.ppy.sh/beatmapsets/1019071#osu/2132486)
@@ -97,7 +97,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Finals week 1
 
-**[Download the mappack here! (145 MB)](https://drive.google.com/file/d/1DrYx1aVN9ht6rqi_EnCeZoEdDEB23rw1/view "Google Drive")**
+**[Download the mappack here! (145 MB)](https://drive.google.com/file/d/1DrYx1aVN9ht6rqi_EnCeZoEdDEB23rw1/view)**
 
 - NoMod
   - [Yorushika - Deep Indigo (Sing) \[That's Why I Give Up on Mapping\]](https://osu.ppy.sh/beatmapsets/949288#osu/1982289)
@@ -128,7 +128,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Semifinals
 
-**[Download the mappack here! (141 MB)](https://drive.google.com/file/d/1HOwmJjSsaIGkSjN33qha7dAB2qFT8TKy/view "Google Drive")**
+**[Download the mappack here! (141 MB)](https://drive.google.com/file/d/1HOwmJjSsaIGkSjN33qha7dAB2qFT8TKy/view)**
 
 - NoMod
   - [Kitamura Eri - STARLET SEEKER (CoLouRed GlaZeE) \[Delis' Extreme\]](https://osu.ppy.sh/beatmapsets/1085124#osu/2269187)
@@ -159,7 +159,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (133 MB)](https://drive.google.com/file/d/1VkXbE4Qj3qeO7OelXbttdl6JidiKdR31/view "Google Drive")**
+**[Download the mappack here! (133 MB)](https://drive.google.com/file/d/1VkXbE4Qj3qeO7OelXbttdl6JidiKdR31/view)**
 
 - NoMod
   - [THE ORAL CIGARETTES - ONE'S AGAIN (Meg) \[ya\]](https://osu.ppy.sh/beatmapsets/607344#osu/1282817)
@@ -190,7 +190,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Round of 16
 
-**[Download the mappack here! (94 MB)](https://drive.google.com/file/d/1VNYUAv86YHFZmDrylvGCsKDL5nBK3DIY/view "Google Drive")**
+**[Download the mappack here! (94 MB)](https://drive.google.com/file/d/1VNYUAv86YHFZmDrylvGCsKDL5nBK3DIY/view)**
 
 - NoMod
   - [Mami Kawada - Going Back To Square One (Depths) \[Forever\]](https://osu.ppy.sh/beatmapsets/425236#osu/918428)
@@ -216,12 +216,12 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Round of 32
 
-**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1H7h9eLHXqy2or2LixjcmZ_P5pwlUiOYo/view "Google Drive")**
+**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1H7h9eLHXqy2or2LixjcmZ_P5pwlUiOYo/view)**
 
 - NoMod
   - [AKINO with bless4 - EXTRA MAGIC HOUR (koreapenguin) \[Extra\]](https://osu.ppy.sh/beatmapsets/224335#osu/523661)
   - [ZUN remixed by LeaF - Resurrection Spell (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/292644#osu/662064)
-  - [DJ TOTTO - Shoujo Alice to Hakoniwa Gensou Concerto (J1_) \[#1 (Winner!) -- OIT 2020 Version\]](https://drive.google.com/file/d/1ODp9O82egL5uXWzPG65znTg3lVjJUDI6/view "Google Drive")
+  - [DJ TOTTO - Shoujo Alice to Hakoniwa Gensou Concerto (J1_) \[#1 (Winner!) -- OIT 2020 Version\]](https://drive.google.com/file/d/1ODp9O82egL5uXWzPG65znTg3lVjJUDI6/view)
   - [Feryquitous - Ordirehv (JeZag) \[Asami's Another\]](https://osu.ppy.sh/beatmapsets/935602#osu/2154177)
   - [Akiakane - FlashBack (Kiiwa) \[Insane\]](https://osu.ppy.sh/beatmapsets/54672#osu/166126)
 - Hidden
@@ -242,7 +242,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Qualifiers
 
-**[Download the mappack here! (84 MB)](https://drive.google.com/file/d/1RbTVj8veT9vl4k_aQvD1PNiIO5VHgi57/view "Google Drive")**
+**[Download the mappack here! (84 MB)](https://drive.google.com/file/d/1RbTVj8veT9vl4k_aQvD1PNiIO5VHgi57/view)**
 
 - NoMod
   - [Yuna (CV: Kanada Sayaka) - Break Beat Bark! (SkyFlame) \[Ohwow's Extra\]](https://osu.ppy.sh/beatmapsets/924734#osu/1943282)
@@ -404,7 +404,7 @@ Friday, 6 March 2020:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[Alan-](https://osu.ppy.sh/users/8937198)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919) | [#1](https://osu.ppy.sh/community/matches/58961660) |
-| Upper | **[Fuma](https://osu.ppy.sh/community/matches/58963886)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | [#1](https://osu.ppy.sh/community/matches/58963886) |
+| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | [#1](https://osu.ppy.sh/community/matches/58963886) |
 
 Saturday, 7 March 2020:
 
@@ -453,9 +453,9 @@ Monday, 9 March 2020:
 10. Lag is not a valid reason to nullify a map.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
-    - If participants try to provoke other participants, participants who start the provocation will be reported to the OIT staff and may be blacklisted in the future installments of OIT.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of OIT.
-    - If there is anyone try to play as the participants, their account will be blacklisted in the next installment of OIT for both participant and the helper.
+    - If participants try to provoke other participants, participants who start the provocation will be reported to the OIT staff and may be blacklisted in the future instalments of OIT.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next instalment of OIT.
+    - If there is anyone try to play as the participants, their account will be blacklisted in the next instalment of OIT for both participant and the helper.
 
 ### Qualifier rules
 

@@ -4,7 +4,7 @@ outdated: true
 
 # Beatmapy
 
-**Beatmapy** w [osu!](/wiki/Game_mode/osu!) są poziomami zbliżonymi do tych z [gier na konsolę Nintendo DS](/wiki/iNiS_games). Każda beatmapa składa się z piosenki oraz [obiektów](/wiki/Hit_object) rozmieszczonych w rytm muzyki. Mogą także posiadać tło, wideo bądź [storyboard](/wiki/Storyboards).
+**Beatmapy** w [osu!](/wiki/Game_mode/osu!) są poziomami zbliżonymi do tych z [gier na konsolę Nintendo DS](/wiki/iNiS_games). Każda beatmapa składa się z piosenki oraz [obiektów](/wiki/Hit_object) rozmieszczonych w rytm muzyki. Mogą także posiadać tło, wideo bądź [storyboard](/wiki/Storyboard).
 
 Beatmapy mogą zostać przesłane poprzez [BSS](/wiki/Submission) (Beatmap Submission System). Następnie przechodzą przez proces zatwierdzający, zwany [modowaniem](/wiki/Modding). Ma on na celu zwiększyć grywalność danej beatmapy.
 

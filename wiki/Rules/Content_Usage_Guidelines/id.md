@@ -22,7 +22,7 @@ Meskipun musik sering kali dibatasi hak cipta, efek suara (sound effects) yang d
 
 ## Visual
 
-Aset visual meliputi latar belakang/storyboard/video yang digunakan dalam beatmap mengikuti persyaratan penggunaan yang sama seperti aset audio.
+Aset visual meliputi [latar belakang](/wiki/Beatmap/Background)/[storyboard](/wiki/Storyboard)/video yang digunakan dalam beatmap mengikuti persyaratan penggunaan yang sama seperti aset audio.
 
 Mengenai musik, kami menyarankan untuk mencari masukan artis tentang syarat penggunaan dan meminta izin jika persyaratan tersebut kurang jelas. Misalnya, jika kamu tertarik menggunakan latar belakang dari seorang artis di pixiv, kunjungi profil mereka untuk meminta izin penggunaan atau kirim mereka pesan untuk meminta izin.
 

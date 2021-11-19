@@ -8,7 +8,7 @@ tags:
 
 ![BTT6 logo](img/logo.jpg)
 
-The **Beginners' Taiko Tournament Season 6** (***BTT6***) was a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) and ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263). Only players ranked #10,000 and above can participate. It was the sixth installment of the Beginners' Taiko Tournament.
+The **Beginners' Taiko Tournament Season 6** (***BTT6***) was a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) and ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263). Only players ranked #10,000 and above can participate. It was the sixth instalment of the Beginners' Taiko Tournament.
 
 ## Tournament schedule
 
@@ -19,7 +19,7 @@ The **Beginners' Taiko Tournament Season 6** (***BTT6***) was a worldwide double
 | Qualifiers mappool showcase | 2021-01-31 (15:00 UTC) |
 | Qualifiers | 2021-02-06/2021-02-07 |
 | Live drawings | 2021-02-08 (18:00 UTC) |
-| Group Stage | 2021-02-12/2021-02-21 |
+| Group stage | 2021-02-12/2021-02-21 |
 | Round of 32 | 2021-02-23/2021-02-28 |
 | Round of 16 | 2021-03-06/2021-03-07 |
 | Quarterfinals | 2021-03-13/2021-03-14 |
@@ -31,9 +31,9 @@ The **Beginners' Taiko Tournament Season 6** (***BTT6***) was a worldwide double
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge.jpg "BTT6 winner badge")
 
@@ -58,14 +58,14 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1211465)
-- [BTT Discord server](https://discord.gg/EYAqSWH "Discord")
+- [BTT Discord server](https://discord.gg/EYAqSWH)
 - Livestream
-  - [Main channel](https://www.twitch.tv/beginnerstaikotournament "Twitch")
-  - [Second channel](https://www.twitch.tv/beginnerstaikotournament2 "Twitch")
-- [Challonge bracket](https://challonge.com/BTTS6 "Challonge")
+  - [Main channel](https://www.twitch.tv/beginnerstaikotournament)
+  - [Second channel](https://www.twitch.tv/beginnerstaikotournament2)
+- [Challonge bracket](https://challonge.com/BTTS6)
 - Spreadsheet
-  - **[Mastersheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTROAkBLwWpg_zzNIrcrt07cmDD9WbJhUZ5ZY5DtWo6msyyjECrIGmWzS0g2VJncS1LakDm2cI6qIcA/pubhtml "Google Sheets")**
-  - [Statistics](https://docs.google.com/spreadsheets/d/e/2PACX-1vSto8LnCe8WobfhrazcIHp3iTLEtcaKnzC3DmvRGNMwMohgKhQ5TzvTgiv41ZIx6bENGqFZ97L0HthY/pubhtml "Google Sheets") provided by ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710)
+  - **[Mastersheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTROAkBLwWpg_zzNIrcrt07cmDD9WbJhUZ5ZY5DtWo6msyyjECrIGmWzS0g2VJncS1LakDm2cI6qIcA/pubhtml)**
+  - [Statistics](https://docs.google.com/spreadsheets/d/e/2PACX-1vSto8LnCe8WobfhrazcIHp3iTLEtcaKnzC3DmvRGNMwMohgKhQ5TzvTgiv41ZIx6bENGqFZ97L0HthY/pubhtml) provided by ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710)
 
 ## Participants
 
@@ -106,7 +106,7 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 
 ### Grand Finals
 
-**[Download the mappack here! (92 MB)](https://mega.nz/file/4g921QLB#d2-t3ntlbihBngKUYvT3tE_uVAgdMzgZQ4VTqC1kCP4 "MEGA")**
+**[Download the mappack here! (92 MB)](https://mega.nz/file/4g921QLB#d2-t3ntlbihBngKUYvT3tE_uVAgdMzgZQ4VTqC1kCP4)**
 
 - NoMod
   - [Feint - Laurence (ZTH) \[Oni\]](https://osu.ppy.sh/beatmapsets/417759#taiko/945140)
@@ -136,7 +136,7 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 
 ### Finals
 
-**[Download the mappack here! (84 MB)](https://mega.nz/file/U00wEJ4Q#s-RRtQKSwz8Zhm8cvzJUQBDuRvVkHbBZHU-EY-Y3hn0 "MEGA")**
+**[Download the mappack here! (84 MB)](https://mega.nz/file/U00wEJ4Q#s-RRtQKSwz8Zhm8cvzJUQBDuRvVkHbBZHU-EY-Y3hn0)**
 
 - NoMod
   - [Various Artists - BTT 2021 Finals Mappack (Arrival) \[Silent Siren - Routine (yuzu\_\_rinrin) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1408912#taiko/2905175)
@@ -166,7 +166,7 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (81 MB)](https://mega.nz/file/MgtE0aIQ#EcGPzw5-l2sWmKoU56L87Vl5uI-mNmQ1TORBK01yKyg "MEGA")**
+**[Download the mappack here! (81 MB)](https://mega.nz/file/MgtE0aIQ#EcGPzw5-l2sWmKoU56L87Vl5uI-mNmQ1TORBK01yKyg)**
 
 - NoMod
   - [Jouhoushori-bu - Setsuna Iro (tamame's EZC remix) (X a v y) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1381626#taiko/2854725)
@@ -194,7 +194,7 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (89 MB)](https://mega.nz/file/FlUVGADS#6rpZmhtJojlQo6WnieDL4_zTwq_5hKe9zCx0qyQnmz8 "MEGA")**
+**[Download the mappack here! (89 MB)](https://mega.nz/file/FlUVGADS#6rpZmhtJojlQo6WnieDL4_zTwq_5hKe9zCx0qyQnmz8)**
 
 - NoMod
   - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[m1ng's Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/134151#taiko/341042)
@@ -220,7 +220,7 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (61 MB)](https://mega.nz/file/QsdgxLiD#VzO5fdLJjk_Oe7MqC6BVVhFGCzQCRFTPJJIX2ysdrtc "MEGA")**
+**[Download the mappack here! (61 MB)](https://mega.nz/file/QsdgxLiD#VzO5fdLJjk_Oe7MqC6BVVhFGCzQCRFTPJJIX2ysdrtc)**
 
 - NoMod
   - [Fear, and Loathing in Las Vegas - Rave-Up Tonight (qoot8123) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/244532#taiko/567838)
@@ -246,7 +246,7 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 
 ### Round of 32
 
-**[Download the mappack here! (74 MB)](https://mega.nz/file/hwlC0aYK#D2iCzvYnzj576mfIgHmzMYFKDh9wKy_1gfVKqscw5Ug "MEGA")**
+**[Download the mappack here! (74 MB)](https://mega.nz/file/hwlC0aYK#D2iCzvYnzj576mfIgHmzMYFKDh9wKy_1gfVKqscw5Ug)**
 
 - NoMod
   - [Thaehan - Overpowered (Yales) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/877935#taiko/1840720)
@@ -263,14 +263,14 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
   - [SHW - Ikusa JAPAN (shw.in) (kanpakyin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/169969#taiko/411519)
   - [CLIFF EDGE - Angel feat. Nakamura Maiko (Speed Up Ver.) (Fleure De Lapin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1049007#taiko/2192603)
 - FreeMod
-  - [Nekomata Master - Scar in the Earth (Tasha) \[Futsuu\]](https://beatconnect.io/b/59429/DVeqR1Jq "Beatconnect")
+  - [Nekomata Master - Scar in the Earth (Tasha) \[Futsuu\]](https://beatconnect.io/b/59429/DVeqR1Jq)
   - [xyst - Ylil's overed landscape (SKSalt) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/897948#taiko/1882386)
 - Tiebreaker
   - **[hololive IDOL PROJECT - Shiny Smily Story (taiko\_ryuki) \[Ron's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1050045#taiko/2322393)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (52 MB)](https://mega.nz/file/B0UCVZAC#YE-4sS94GSC6kwigXFxLtlsCkqM_VZF4zj14eRbvhS4 "MEGA")**
+**[Download the mappack here! (52 MB)](https://mega.nz/file/B0UCVZAC#YE-4sS94GSC6kwigXFxLtlsCkqM_VZF4zj14eRbvhS4)**
 
 - NoMod
   - [HoneyWorks feat. sana - Ijiwaru na Deai (yuzu\_\_rinrin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/635498#taiko/1348547)
@@ -294,7 +294,7 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 
 ### Qualifiers
 
-**[Download the mappack here! (27 MB)](https://mega.nz/file/os0gBYIT#6DLmTb5qI14SenROILgf4oq5wQF8HHC3b5Mo3mHBULM "MEGA")**
+**[Download the mappack here! (27 MB)](https://mega.nz/file/os0gBYIT#6DLmTb5qI14SenROILgf4oq5wQF8HHC3b5Mo3mHBULM)**
 
 - NoMod
   - [Mrs. GREEN APPLE - Inferno (Volta) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1146346#taiko/2395137)
@@ -464,7 +464,7 @@ Sunday, 28 February 2021:
 | Mashyuf ![][flag_TW] | 1 | **4** | ![][flag_US] **-Schwarts** | [#1](https://osu.ppy.sh/community/matches/76915367) |
 | dhuragin ![][flag_US] | 1 | **4** | ![][flag_SE] **Logg45vs** | [#1](https://osu.ppy.sh/community/matches/76915252) |
 
-### Group Stage
+### Group stage
 
 Friday, 12 February 2021:
 
@@ -604,7 +604,7 @@ Sunday, 21 February 2021:
 
 ### Qualifiers
 
-- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/12EpuCD918BFSfmlIO0G-u1f7UPv78a5UGGesqa0t3Yc/edit#gid=2038944874 "Google Sheets")
+- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/12EpuCD918BFSfmlIO0G-u1f7UPv78a5UGGesqa0t3Yc/edit#gid=2038944874)
 - Average rank was determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 - Only the top 64 player can proceed to the Group Stage
 
@@ -720,7 +720,7 @@ Sunday, 21 February 2021:
 3. Here is how bans and picks will happen. The first participant to ban will be the loser of the `!roll`, then they will alternate bans. (Loser -> Winner -> Loser -> Winner) And the first participant to pick will be the winner of the `!roll`, then they will alternate picks. (Winner -> Loser -> Winner -> Loser, etc.)
 4. Participant **can't ban a map from the same bracket twice**, but their opponent can ban a map from the same bracket as the other.
 5. In case of a tie, the Tiebreaker bracket will be played.
-6. Results will be displayed on the [Statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTROAkBLwWpg_zzNIrcrt07cmDD9WbJhUZ5ZY5DtWo6msyyjECrIGmWzS0g2VJncS1LakDm2cI6qIcA/pubhtml "Google Sheets"), the [Challonge bracket](https://challonge.com/BTTS6 "Challonge"), and announced by the referee in the `#match-feed` text channel in the BTT Discord server.
+6. Results will be displayed on the [Statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTROAkBLwWpg_zzNIrcrt07cmDD9WbJhUZ5ZY5DtWo6msyyjECrIGmWzS0g2VJncS1LakDm2cI6qIcA/pubhtml), the [Challonge bracket](https://challonge.com/BTTS6), and announced by the referee in the `#match-feed` text channel in the BTT Discord server.
 
 ### Mappool regulations
 

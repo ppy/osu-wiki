@@ -10,7 +10,7 @@ tags:
 
 > Third time's the charm!
 
-The **Springtime Osu!mania Free-for-all Tournament 3** (***SOFT 3***) was a 1v1 country-independent 4-key osu!mania tournament. It was the third installment of the Springtime Osu!mania Free-for-all Tournament.
+The **Springtime Osu!mania Free-for-all Tournament 3** (***SOFT 3***) was a 1v1 country-independent 4-key osu!mania tournament. It was the third instalment of the Springtime Osu!mania Free-for-all Tournament.
 
 ## Tournament schedule
 
@@ -33,13 +33,13 @@ The **Springtime Osu!mania Free-for-all Tournament 3** (***SOFT 3***) was a 1v1 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 9 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 9 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
 
 ![](img/badge.png "SOFT3 winner badge")
 
-## Organization
+## Organisation
 
 | Position | Member |
 | :-- | :-- |
@@ -55,8 +55,8 @@ The **Springtime Osu!mania Free-for-all Tournament 3** (***SOFT 3***) was a 1v1 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/posts/6449304)
-- [Livestream](https://www.twitch.tv/osusoft "Twitch")
-- [Challonge](https://challonge.com/SOFT3r "Challonge")
+- [Livestream](https://www.twitch.tv/osusoft)
+- [Challonge](https://challonge.com/SOFT3r)
 
 ## Participants
 
@@ -102,7 +102,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (125 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAPAfhKpXBiJRWPIIXq1jPIa/Grandfinals.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (125 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAPAfhKpXBiJRWPIIXq1jPIa/Grandfinals.rar?dl=0)**
 
 - FreeMod
   - [Nero's Day at Disneyland - Beautiful Beachfront Properties (Guilhermeziat) \[Beginner\]](https://osu.ppy.sh/beatmapsets/616437#mania/1300054)
@@ -125,7 +125,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (84 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADyoM4bgPBL4bCe5uhs0ceya/Finals.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (84 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADyoM4bgPBL4bCe5uhs0ceya/Finals.rar?dl=0)**
 
 - FreeMod
   - [SHK.o2SE - Death Moon (Guilhermeziat) \[Dawn of The Final Day\]](https://osu.ppy.sh/beatmapsets/667301#mania/1412004)
@@ -148,7 +148,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (75 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADa3loIKUhzbbVUaFB7f2lUa/Semifinals.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (75 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADa3loIKUhzbbVUaFB7f2lUa/Semifinals.rar?dl=0)**
 
 - FreeMod
   - [Bibi - Cutie Panther (Momora EUROBEAT Remix) (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/761066#mania/1600467)
@@ -169,7 +169,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (82 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAATLn_JRzPt4WtY1AF4zaYMa/QuarterFinals.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (82 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAATLn_JRzPt4WtY1AF4zaYMa/QuarterFinals.rar?dl=0)**
 
 - FreeMod
   - [Scatman John - Scatman (Gekido-) \[It's a Scooby Dooby Melody\]](https://osu.ppy.sh/beatmapsets/747176#mania/1574468)
@@ -190,7 +190,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (61 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAOdenGUahjytRNtGp2a7A0a/Ro16.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (61 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAOdenGUahjytRNtGp2a7A0a/Ro16.rar?dl=0)**
 
 - FreeMod
   - fartwad - Stereo Sayan 3D (Valedict) \[hi19hi19's Hard\]
@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (55 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAC1qfzoU4i38kdf3ckn6YGpa/Ro32.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (55 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAC1qfzoU4i38kdf3ckn6YGpa/Ro32.rar?dl=0)**
 
 - FreeMod
   - [Sir.Vixx - Whore (Xay) \[Insane\]](https://osu.ppy.sh/beatmapsets/585874#mania/1240925)
@@ -228,7 +228,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (54 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AACbZdjtgK67-I3WSYP0O7F4a/Groups.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (54 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AACbZdjtgK67-I3WSYP0O7F4a/Groups.rar?dl=0)**
 
 - FreeMod
   - [Kelly Bailey - Hazardous Environments (Mage) \[Hazard\]](https://osu.ppy.sh/beatmapsets/698562#mania/1479480)
@@ -245,7 +245,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Playoffs
 
-**[Download the mappack here! (69 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAFLJyEKc4-51xPvPOMmovCa/Playoffs.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (69 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAFLJyEKc4-51xPvPOMmovCa/Playoffs.rar?dl=0)**
 
 - FreeMod
   - [Team Salvato - Doki Doki Literature Club! (Main Theme) (arcwinolivirus) \[?Harem?\]](https://osu.ppy.sh/beatmapsets/682702#mania/1443731)
@@ -262,7 +262,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (16 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADRF8c39E4U9536q0Xwuecia/Qualifiers.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (16 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADRF8c39E4U9536q0Xwuecia/Qualifiers.rar?dl=0)**
 
 - FreeMod
   - [Eskmo - Cloudlight (cut) (Ciel) \[Stage 1: Control\]](https://osu.ppy.sh/beatmapsets/732986#mania/1546415)
@@ -274,7 +274,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Detailed results of the Grand Finals stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7DzTCT5BW4kK6YYRSnIJ0XhOJm1zAbjBfzBtO5pt_yEDaAxAy2HdeXWRjfjgZFtMePueHU_m72O4f/pubhtml?gid=235298817# "Google Sheets").
+Detailed results of the Grand Finals stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7DzTCT5BW4kK6YYRSnIJ0XhOJm1zAbjBfzBtO5pt_yEDaAxAy2HdeXWRjfjgZFtMePueHU_m72O4f/pubhtml?gid=235298817#).
 
 Saturday, 28 April 2018:
 
@@ -291,7 +291,7 @@ Sunday, 29 April 2018:
 
 ### Finals
 
-Detailed results of the Finals stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTedveWks8e5Fu2DPg1WW8b0lw0dypFMyqHc-qopmOT2j_BpczZooVetHPSpgvhbFmtftkQj0ntLWPj/pubhtml?gid=1660954469# "Google Sheets").
+Detailed results of the Finals stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTedveWks8e5Fu2DPg1WW8b0lw0dypFMyqHc-qopmOT2j_BpczZooVetHPSpgvhbFmtftkQj0ntLWPj/pubhtml?gid=1660954469#).
 
 Saturday, 21 April 2018:
 
@@ -309,7 +309,7 @@ Sunday, 22 April 2018:
 
 ### Semifinals
 
-Detailed results of the Semifinals stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDuqVN5Tz5We9dG1uzUqB3sjAo92fQm1sjL6nnDE2QQn9gpLKS0u5C0Gv--4wbIDIZ-vn2a2zNCCVw/pubhtml?gid=1660954469 "Google Sheets").
+Detailed results of the Semifinals stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDuqVN5Tz5We9dG1uzUqB3sjAo92fQm1sjL6nnDE2QQn9gpLKS0u5C0Gv--4wbIDIZ-vn2a2zNCCVw/pubhtml?gid=1660954469).
 
 Saturday, 14 April 2018:
 
@@ -331,7 +331,7 @@ Sunday, 15 April 2018:
 
 ### Quarterfinals
 
-Detailed results of the Quarterfinals stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR2eNiyf7eZE78mKQUmxV7AWWgz3OPAa7ZOZ0lbwjdpnVr1Kh6YKpwE1Hovh0hufIgQwnJsR-iEmaNo/pubhtml?gid=1660954469 "Google Sheets").
+Detailed results of the Quarterfinals stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR2eNiyf7eZE78mKQUmxV7AWWgz3OPAa7ZOZ0lbwjdpnVr1Kh6YKpwE1Hovh0hufIgQwnJsR-iEmaNo/pubhtml?gid=1660954469).
 
 Friday, 6 April 2018:
 
@@ -366,7 +366,7 @@ Sunday, 8 April 2018:
 
 ### Round of 16
 
-Detailed results of the Round of 16 stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vShICSTCwRE2zmXG1Sm8sYnArHGpz2RjeEdZKpQVUq60PTnZwlJvwlWk1oQ-vaGbksFfUgCRcMMYY39/pubhtml?gid=1660954469 "Google Sheets").
+Detailed results of the Round of 16 stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vShICSTCwRE2zmXG1Sm8sYnArHGpz2RjeEdZKpQVUq60PTnZwlJvwlWk1oQ-vaGbksFfUgCRcMMYY39/pubhtml?gid=1660954469).
 
 Saturday, 31 March 2018:
 
@@ -396,7 +396,7 @@ Sunday, 1 April 2018:
 
 ### Round of 32
 
-Detailed results of the Round of 32 stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxzq7NW7Embezbmjh68dyCTW5a_ztjvb_gcYpmz6vKQxVvTzislknHTzJZ5yt-Vgtn8pJsz-5dXPnu/pubhtml?gid=1660954469 "Google Sheets").
+Detailed results of the Round of 32 stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxzq7NW7Embezbmjh68dyCTW5a_ztjvb_gcYpmz6vKQxVvTzislknHTzJZ5yt-Vgtn8pJsz-5dXPnu/pubhtml?gid=1660954469).
 
 Saturday, 24 March 2018:
 
@@ -426,7 +426,7 @@ Sunday, 25 March 2018:
 
 ### Group stage
 
-Detailed results of the Group stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSMT0EbsLRGfGh-Rf31jBOaOa5m70r8xoPtfhdO_o7UaqPSO8yw5Udvg0_jtsWMFjtNUDU4gjMRLwvP/pubhtml?gid=1660954469%5D "Google Sheets").
+Detailed results of the Group stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSMT0EbsLRGfGh-Rf31jBOaOa5m70r8xoPtfhdO_o7UaqPSO8yw5Udvg0_jtsWMFjtNUDU4gjMRLwvP/pubhtml?gid=1660954469%5D).
 
 Friday, 9 March 2018:
 
@@ -551,7 +551,7 @@ Sunday, 18 March 2018:
 
 ### Playoffs
 
-Detailed results of the Playoffs can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSGY2CSPJNul8OJL1rAGjdLTcgHqPiuZaJMTnLCzv2zGPwlK-zsz7z00zbt8sEHUwdJjwVXXYYptdZX/pubhtml?gid=1660954469 "Google Sheets").
+Detailed results of the Playoffs can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSGY2CSPJNul8OJL1rAGjdLTcgHqPiuZaJMTnLCzv2zGPwlK-zsz7z00zbt8sEHUwdJjwVXXYYptdZX/pubhtml?gid=1660954469).
 
 Wednesday, 21 February 2018:
 
@@ -649,7 +649,7 @@ Sunday, 4 March 2018:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTKMykaCgJRUGvMFaV4kdQJTtS4tGMvPun1fHzYbFgxCVD6XLP8ezvo-FNOCCCB_k08i5hzsBqfzWnB/pubhtml "Google Sheets").
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTKMykaCgJRUGvMFaV4kdQJTtS4tGMvPun1fHzYbFgxCVD6XLP8ezvo-FNOCCCB_k08i5hzsBqfzWnB/pubhtml).
 
 ## Ruleset
 
@@ -704,7 +704,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 
 - The bracket stage is a **double elimination** stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
 - After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. In particular, their opponent for the bracket stage will be `(33 - player's GS seed)`.
-- The SOFT3 bracket can be found [here](https://challonge.com/SOFT3r "Challonge").
+- The SOFT3 bracket can be found [here](https://challonge.com/SOFT3r).
 - In a winners bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will fall into the losers bracket.
 - In a losers bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will be eliminated from the tournament.
 - Players who are in the winners bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where the player is required to play in up to two matches if the player were to lose his first match in the Grand Finals stage.
@@ -740,7 +740,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 - In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This includes the first 2 stages of the tournament after the qualifiers.
 
-#### Bans, rolls and song selection
+#### Bans, rolls, and song selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one (1) map within the map pool that they are playing for the given round.

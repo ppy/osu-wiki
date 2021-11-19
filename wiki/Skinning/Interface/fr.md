@@ -5,7 +5,7 @@ outdated: true
 
 # Skinning de l'interface
 
-*Voir aussi: [Tutoriel de skinning de l'interface](/wiki/Skinning_Interface_Tutorial) et [Interface](/wiki/Interface)*
+*Voir aussi: [Interface](/wiki/Interface)*
 
 Les éléments de skinning de l'interface sont utilisés dans plusieurs modes de jeu ou sections de l'interface utilisateur du client.
 
@@ -61,7 +61,7 @@ Notes:
 Notes:
 
 - Si un skin est absent, l'icône réduite du mode de jeu actuel sera utilisée à la place.
-- Doit être activée dans les [options](wiki/options) pour être visible.
+- Doit être activée dans les [options](/wiki/Options) pour être visible.
   - Cette option peut être activée de force pendant la période de Noël.
 
 ## Boutons
@@ -123,7 +123,7 @@ Notes:
 Notes:
 
 - Par défaut, cet élément va tourner et s'étendre (lors d'un clic).
-- Commandes du [skin.ini](/wiki/skin.ini) :
+- Commandes du [skin.ini](/wiki/Skinning/skin.ini) :
   - Pour désactiver l'expansion du curseur (lors d'un clic), régler `CursorExpand` à `0`.
   - Pour désactiver la rotation du curseur, régler `CursorRotate` à `0`.
 
@@ -172,7 +172,7 @@ Notes:
 - Cet élément est en dessous de l'élément `cursor.png`.
 - Si `cursormiddle.png` est présent, une trace plus longue sera utilisée.
 - Par défaut, cet élément ne tourne pas.
-- Commande du [skin.ini](/wiki/skin.ini):
+- Commande du [skin.ini](/wiki/Skinning/skin.ini):
   - Pour activer la rotation de la trace du curseur, régler `CursorTrailRotate` à `1`.
 
 ## Icônes de mods
@@ -235,7 +235,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!mania](/wiki/osu!mania).
+- Cet élément est spécifique à [osu!mania](/wiki/Game_mode/osu!mania).
 
 ---
 
@@ -279,7 +279,7 @@ Notes:
 
 Notes:
 
-- Pour [osu!mania](/wiki/osu!mania), cliquer sur l'icône du mod Fade In pour voir cette icône.
+- Pour [osu!mania](/wiki/Game_mode/osu!mania), cliquer sur l'icône du mod Fade In pour voir cette icône.
 
 ---
 
@@ -293,7 +293,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!mania](/wiki/osu!mania).
+- Cet élément est spécifique à [osu!mania](/wiki/Game_mode/osu!mania).
 - Parcourir les mods nK pour voir l'icône.
 
 ---
@@ -308,7 +308,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!mania](/wiki/osu!mania).
+- Cet élément est spécifique à [osu!mania](/wiki/Game_mode/osu!mania).
 - Parcourir les mods nK pour voir l'icône.
 
 ---
@@ -323,7 +323,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!mania](/wiki/osu!mania).
+- Cet élément est spécifique à [osu!mania](/wiki/Game_mode/osu!mania).
 - Parcourir les mods nK pour voir l'icône.
 
 ---
@@ -338,7 +338,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!mania](/wiki/osu!mania).
+- Cet élément est spécifique à [osu!mania](/wiki/Game_mode/osu!mania).
 
 ---
 
@@ -352,7 +352,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!mania](/wiki/osu!mania).
+- Cet élément est spécifique à [osu!mania](/wiki/Game_mode/osu!mania).
 - Parcourir les mods nK pour voir l'icône.
 
 ---
@@ -367,7 +367,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!mania](/wiki/osu!mania).
+- Cet élément est spécifique à [osu!mania](/wiki/Game_mode/osu!mania).
 - Parcourir les mods nK pour voir l'icône.
 
 ---
@@ -382,7 +382,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!mania](/wiki/osu!mania).
+- Cet élément est spécifique à [osu!mania](/wiki/Game_mode/osu!mania).
 - Parcourir les mods nK pour voir l'icône.
 
 ---
@@ -397,7 +397,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!mania](/wiki/osu!mania).
+- Cet élément est spécifique à [osu!mania](/wiki/Game_mode/osu!mania).
 - Parcourir les mods nK pour voir l'icône.
 
 ---
@@ -412,7 +412,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!mania](/wiki/osu!mania).
+- Cet élément est spécifique à [osu!mania](/wiki/Game_mode/osu!mania).
 - Parcourir les mods nK pour voir l'icône.
 
 ---
@@ -427,7 +427,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!mania](/wiki/osu!mania).
+- Cet élément est spécifique à [osu!mania](/wiki/Game_mode/osu!mania).
 
 ---
 
@@ -441,7 +441,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!mania](/wiki/osu!mania).
+- Cet élément est spécifique à [osu!mania](/wiki/Game_mode/osu!mania).
 
 ---
 
@@ -493,7 +493,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!mania](/wiki/osu!mania).
+- Cet élément est spécifique à [osu!mania](/wiki/Game_mode/osu!mania).
 
 ---
 
@@ -507,7 +507,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/osu!taiko), et [osu!catch](/wiki/osu!catch).
+- Cet élément est spécifique à [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), et [osu!catch](/wiki/Game_mode/osu!catch).
 
 ---
 
@@ -563,7 +563,7 @@ Notes:
 
 ## Assistant de décalage
 
-*Page principale : [Assistant de décalage](/wiki/Offset_Wizard)*
+*Page principale : [Assistant de décalage](/wiki/Options/Offset_Wizard)*
 
 ---
 
@@ -670,7 +670,7 @@ Notes:
 Notes:
 
 - Utilisé en jouant avec des storyboards en 4:3 sur un écran large.
-- Pendant le beatmapping, désactiver `Support d'écran large` dans le [menu de configuration de la chanson](/wiki/song_setup) pour voir apparaître l'élément.
+- Pendant le beatmapping, désactiver `Support d'écran large` dans le [menu de configuration de la chanson](/wiki/Beatmap_Editor/Song_Setup) pour voir apparaître l'élément.
 - Cet élément est étiré aux dimensions nécéssaires.
 - La partie droite est basculée à l'horizontale.
 
@@ -934,9 +934,9 @@ Notes:
 
 - Cet élément est positionné à une hauteur de 320px.
 - Puisque l'image est tournée, l'origine de l'image elle-même est le coin supérieur gauche.
-- Cet élément est utilisé dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch).
+- Cet élément est utilisé dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch).
 - Cet élément est tourné de 90 degrés vers la droite et agrandi de 1.05x en jeu.
-- Doit être activé dans les [options](/wiki/options) pour être visible.
+- Doit être activé dans les [options](/wiki/Options) pour être visible.
 
 ---
 
@@ -950,14 +950,14 @@ Notes:
 
 Notes:
 
-- Cet élément est utilisé dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch).
+- Cet élément est utilisé dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch).
 - Positionnement variable pour chaque touche :
   - Écarté de 24px du bord de la fenêtre
   - K1/L: à une hauteur de 350px
   - K2/R: à une hauteur de 398px
   - M1/D: à une hauteur de 446px
   - M2: à une hauteur de 492px
-- Activable dans les [options](/wiki/options).
+- Activable dans les [options](/wiki/Options).
 - Se rétracte brièvement lorsque la touche est appuyée.
 - La teinte varie en fonction de la position et de l'état du bouton :
   - Blanc, si la touche n'est pas appuyée.
@@ -1071,7 +1071,7 @@ Notes:
 Notes:
 
 - Cet élément n'a pas de taille imposée.
-- Pour [osu!mania](/wiki/osu!mania), cet élément est tourné de 90 degrés vers la gauche et est placé en bas à droite de la zone de jeu.
+- Pour [osu!mania](/wiki/Game_mode/osu!mania), cet élément est tourné de 90 degrés vers la gauche et est placé en bas à droite de la zone de jeu.
 
 ---
 
@@ -1081,7 +1081,7 @@ Notes:
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Oui][true] | ![Oui][true] | (Variable) | Coin Supérieur Gauche | - |
+| Toutes | ![Oui][true] | ![Oui][true] | (Variable) | Coin Supérieur Gauche | max height: 120px |
 
 Notes:
 
@@ -1094,7 +1094,7 @@ Notes:
   - Si un marqueur est utilisé, positionné en (12,12).
   - Sinon, positionné en (5,16).
 - Cet élément n'a pas de taille imposée.
-- Pour [osu!mania](/wiki/osu!mania), cet élément est tourné de 90 degrés vers la gauche et est placé en bas à droite de la zone de jeu.
+- Pour [osu!mania](/wiki/Game_mode/osu!mania), cet élément est tourné de 90 degrés vers la gauche et est placé en bas à droite de la zone de jeu.
 
 ---
 
@@ -1110,7 +1110,7 @@ Notes:
 
 - `scorebar-marker.png` est prioritaire.
 - Cet élément représente la zone de "passage".
-- Cet élément n'est pas utilisé dans [osu!mania](/wiki/osu!mania).
+- Cet élément n'est pas utilisé dans [osu!mania](/wiki/Game_mode/osu!mania).
 - La position en Y est 16 ; la position en X est à la fin de l'image `scorebar-colour.png` recoupée.
 
 ---
@@ -1127,7 +1127,7 @@ Notes:
 
 - `scorebar-marker.png` est prioritaire.
 - Cet élément représente la zone "d'avertissement".
-- Cet élément n'est pas utilisé dans [osu!mania](/wiki/osu!mania).
+- Cet élément n'est pas utilisé dans [osu!mania](/wiki/Game_mode/osu!mania).
 - La position en Y est 16 ; la position en X est à la fin de l'image `scorebar-colour.png` recoupée.
 
 ---
@@ -1144,7 +1144,7 @@ Notes:
 
 - `scorebar-marker.png` est prioritaire.
 - Cet élément représente la zone "critique".
-- Cet élément n'est pas utilisé dans [osu!mania](/wiki/osu!mania).
+- Cet élément n'est pas utilisé dans [osu!mania](/wiki/Game_mode/osu!mania).
 - La position en Y est 16 ; la position en X est à la fin de l'image `scorebar-colour.png` recoupée.
 
 ---
@@ -1161,7 +1161,7 @@ Notes:
 
 - Présent, cet élément remplace les éléments `scorebar-ki.png`, `scorebar-kidanger.png`, et `scorebar-kidanger2.png`.
 - Le marqueur disparaît progressivement si le joueur atteint la zone critique.
-- Cet élément n'est pas utilisé dans [osu!mania](/wiki/osu!mania).
+- Cet élément n'est pas utilisé dans [osu!mania](/wiki/Game_mode/osu!mania).
 - La position en Y est 16 ; la position en X est à la fin de l'image `scorebar-colour.png` recoupée.
 
 ### Nombres de score
@@ -1179,9 +1179,9 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
-    - Dans [osu!mania](/wiki/osu!mania), Produit.
+    - Dans [osu!mania](/wiki/Game_mode/osu!mania), Produit.
 
 ---
 
@@ -1198,9 +1198,9 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
-    - Dans [osu!mania](/wiki/osu!mania), Produit.
+    - Dans [osu!mania](/wiki/Game_mode/osu!mania), Produit.
 
 ---
 
@@ -1217,9 +1217,9 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
-    - Dans [osu!mania](/wiki/osu!mania), Produit.
+    - Dans [osu!mania](/wiki/Game_mode/osu!mania), Produit.
 
 ---
 
@@ -1236,9 +1236,9 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
-    - Dans [osu!mania](/wiki/osu!mania), Produit.
+    - Dans [osu!mania](/wiki/Game_mode/osu!mania), Produit.
 
 ---
 
@@ -1255,9 +1255,9 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
-    - Dans [osu!mania](/wiki/osu!mania), Produit.
+    - Dans [osu!mania](/wiki/Game_mode/osu!mania), Produit.
 
 ---
 
@@ -1274,9 +1274,9 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
-    - Dans [osu!mania](/wiki/osu!mania), Produit.
+    - Dans [osu!mania](/wiki/Game_mode/osu!mania), Produit.
 
 ---
 
@@ -1293,9 +1293,9 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
-    - Dans [osu!mania](/wiki/osu!mania), Produit.
+    - Dans [osu!mania](/wiki/Game_mode/osu!mania), Produit.
 
 ---
 
@@ -1312,9 +1312,9 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
-    - Dans [osu!mania](/wiki/osu!mania), Produit.
+    - Dans [osu!mania](/wiki/Game_mode/osu!mania), Produit.
 
 ---
 
@@ -1331,9 +1331,9 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
-    - Dans [osu!mania](/wiki/osu!mania), Produit.
+    - Dans [osu!mania](/wiki/Game_mode/osu!mania), Produit.
 
 ---
 
@@ -1350,9 +1350,9 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
-    - Dans [osu!mania](/wiki/osu!mania), Produit.
+    - Dans [osu!mania](/wiki/Game_mode/osu!mania), Produit.
 
 ---
 
@@ -1833,7 +1833,7 @@ Notes:
 
 Notes:
 
-- Cet élément est utilisé en mode [multijoueur](/wiki/multi) uniquement.
+- Cet élément est utilisé en mode [multijoueur](/wiki/Multi) uniquement.
 
 ## Entrée de score
 
@@ -1850,7 +1850,7 @@ Notes:
 - La teinte dépend de l'utilisation :
   - Score : blanc
   - Combo : cyan
-  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/skin.ini), ou noir si cette valeur n'est pas définie
+  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/Skinning/skin.ini), ou noir si cette valeur n'est pas définie
 - L'origine dépend de l'utilisation :
   - Score : coin supérieur gauche
   - Combo : coin supérieur droit
@@ -1872,7 +1872,7 @@ Notes:
 - La teinte dépend de l'utilisation :
   - Score : blanc
   - Combo : cyan
-  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/skin.ini), ou noir si cette valeur n'est pas définie
+  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/Skinning/skin.ini), ou noir si cette valeur n'est pas définie
 - L'origine dépend de l'utilisation :
   - Score : coin supérieur gauche
   - Combo : coin supérieur droit
@@ -1894,7 +1894,7 @@ Notes:
 - La teinte dépend de l'utilisation :
   - Score : blanc
   - Combo : cyan
-  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/skin.ini), ou noir si cette valeur n'est pas définie
+  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/Skinning/skin.ini), ou noir si cette valeur n'est pas définie
 - L'origine dépend de l'utilisation :
   - Score : coin supérieur gauche
   - Combo : coin supérieur droit
@@ -1916,7 +1916,7 @@ Notes:
 - La teinte dépend de l'utilisation :
   - Score : blanc
   - Combo : cyan
-  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/skin.ini), ou noir si cette valeur n'est pas définie
+  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/Skinning/skin.ini), ou noir si cette valeur n'est pas définie
 - L'origine dépend de l'utilisation :
   - Score : coin supérieur gauche
   - Combo : coin supérieur droit
@@ -1938,7 +1938,7 @@ Notes:
 - La teinte dépend de l'utilisation :
   - Score : blanc
   - Combo : cyan
-  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/skin.ini), ou noir si cette valeur n'est pas définie
+  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/Skinning/skin.ini), ou noir si cette valeur n'est pas définie
 - L'origine dépend de l'utilisation :
   - Score : coin supérieur gauche
   - Combo : coin supérieur droit
@@ -1960,7 +1960,7 @@ Notes:
 - La teinte dépend de l'utilisation :
   - Score : blanc
   - Combo : cyan
-  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/skin.ini), ou noir si cette valeur n'est pas définie
+  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/Skinning/skin.ini), ou noir si cette valeur n'est pas définie
 - L'origine dépend de l'utilisation :
   - Score : coin supérieur gauche
   - Combo : coin supérieur droit
@@ -1982,7 +1982,7 @@ Notes:
 - La teinte dépend de l'utilisation :
   - Score : blanc
   - Combo : cyan
-  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/skin.ini), ou noir si cette valeur n'est pas définie
+  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/Skinning/skin.ini), ou noir si cette valeur n'est pas définie
 - L'origine dépend de l'utilisation :
   - Score : coin supérieur gauche
   - Combo : coin supérieur droit
@@ -2004,7 +2004,7 @@ Notes:
 - La teinte dépend de l'utilisation :
   - Score : blanc
   - Combo : cyan
-  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/skin.ini), ou noir si cette valeur n'est pas définie
+  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/Skinning/skin.ini), ou noir si cette valeur n'est pas définie
 - L'origine dépend de l'utilisation :
   - Score : coin supérieur gauche
   - Combo : coin supérieur droit
@@ -2026,7 +2026,7 @@ Notes:
 - La teinte dépend de l'utilisation :
   - Score : blanc
   - Combo : cyan
-  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/skin.ini), ou noir si cette valeur n'est pas définie
+  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/Skinning/skin.ini), ou noir si cette valeur n'est pas définie
 - L'origine dépend de l'utilisation :
   - Score : coin supérieur gauche
   - Combo : coin supérieur droit
@@ -2048,7 +2048,7 @@ Notes:
 - La teinte dépend de l'utilisation :
   - Score : blanc
   - Combo : cyan
-  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/skin.ini), ou noir si cette valeur n'est pas définie
+  - Input overlay : utilise la valeur de `InputOverlayText` du [skin.ini](/wiki/Skinning/skin.ini), ou noir si cette valeur n'est pas définie
 - L'origine dépend de l'utilisation :
   - Score : coin supérieur gauche
   - Combo : coin supérieur droit
@@ -2101,7 +2101,7 @@ Notes:
 Notes:
 
 - Cet élément est utilisé pour le classement en jeu.
-- Cet élément est utilisé en mode [multijoueur](/wiki/multi) si la condition de victoire est Précision.
+- Cet élément est utilisé en mode [multijoueur](/wiki/Multi) si la condition de victoire est Précision.
 - Teinte blanche.
 
 ---
@@ -2130,7 +2130,7 @@ Notes:
 
 - Nom de l'animation : `menu-back-{n}.png`.
 - Le bouton de retour d'origine n'est pas personnalisable.
-  - Si un skin est présent, il va remplacer le nouveau partout, sauf dans les [options](/wiki/options).
+  - Si un skin est présent, il va remplacer le nouveau partout, sauf dans les [options](/wiki/Options).
 
 ---
 
@@ -2144,7 +2144,7 @@ Notes:
 
 Notes:
 
-- Les skins en version 2.2+ peuvent supporter les thumbnails dans l'écran de sélection (si elles sont activées dans les [options](/wiki/options)).
+- Les skins en version 2.2+ peuvent supporter les thumbnails dans l'écran de sélection (si elles sont activées dans les [options](/wiki/Options)).
   - Les thumbnails sont positionnées à 9px de la bordure gauche de l'image.
   - La taille des thumbnails est de 115x85.
 - Cet élément est utilisé à plusieurs endroits :
@@ -2351,7 +2351,7 @@ Notes:
 Notes:
 
 - Cet élément clignote au centre de l'écran de sélection en suivant le BPM de la chanson actuelle.
-- Sélectionner [osu!taiko](/wiki/osu!taiko) pour voir l'élément.
+- Sélectionner [osu!taiko](/wiki/Game_mode/osu!taiko) pour voir l'élément.
 
 ---
 
@@ -2366,7 +2366,7 @@ Notes:
 Notes:
 
 - Cet élément clignote au centre de l'écran de sélection en suivant le BPM de la chanson actuelle.
-- Sélectionner [osu!catch](/wiki/osu!catch) pour voir l'élément.
+- Sélectionner [osu!catch](/wiki/Game_mode/osu!catch) pour voir l'élément.
 
 ---
 
@@ -2381,7 +2381,7 @@ Notes:
 Notes:
 
 - Cet élément clignote au centre de l'écran de sélection en suivant le BPM de la chanson actuelle.
-- Sélectionner [osu!mania](/wiki/osu!mania) pour voir l'élément.
+- Sélectionner [osu!mania](/wiki/Game_mode/osu!mania) pour voir l'élément.
 
 ---
 
@@ -2472,7 +2472,7 @@ Notes:
 Notes:
 
 - Cet élément est placé au dessus de `selection-mode.png`.
-- Sélectionner [osu!taiko](/wiki/osu!taiko) pour voir l'élément.
+- Sélectionner [osu!taiko](/wiki/Game_mode/osu!taiko) pour voir l'élément.
 - Si `menu-snow.png` n'est pas présent, cet élément sera utilisé si il est sélectionné.
 
 ---
@@ -2488,7 +2488,7 @@ Notes:
 Notes:
 
 - Cet élément est placé au dessus de `selection-mode.png`.
-- Sélectionner [osu!catch](/wiki/osu!catch) pour voir l'élément.
+- Sélectionner [osu!catch](/wiki/Game_mode/osu!catch) pour voir l'élément.
 - Si `menu-snow.png` n'est pas présent, cet élément sera utilisé si il est sélectionné.
 
 ---
@@ -2504,7 +2504,7 @@ Notes:
 Notes:
 
 - Cet élément est placé au dessus de `selection-mode.png`.
-- Sélectionner [osu!mania](/wiki/osu!mania) pour voir l'élément.
+- Sélectionner [osu!mania](/wiki/Game_mode/osu!mania) pour voir l'élément.
 - Si `menu-snow.png` n'est pas présent, cet élément sera utilisé si il est sélectionné.
 
 [true]: /wiki/shared/true.png

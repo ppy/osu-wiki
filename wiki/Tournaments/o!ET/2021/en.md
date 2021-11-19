@@ -8,7 +8,7 @@ tags:
 
 ![o!ET 2021 logo](img/logo.jpg)
 
-The **osu! European Tournament 2021** (**o!ET 2021**) was a 4v4 osu! tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133). The tournament was run in tiered-draft format, teams of 8 players were formed post qualifiers with 4 tiers and 2 players filled each tier. The tournament was also rank-restricted to rank between #1 and #30,000. It was the fourth installment of the osu! European Tournament.
+The **osu! European Tournament 2021** (**o!ET 2021**) was a 4v4 osu! tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133). The tournament was run in tiered-draft format, teams of 8 players were formed post qualifiers with 4 tiers and 2 players filled each tier. The tournament was also rank-restricted to rank between #1 and #30,000. It was the fourth instalment of the osu! European Tournament.
 
 ## Tournament schedule
 
@@ -50,11 +50,11 @@ The osu! European Tournament 2021 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1286344)
-- [o!ET Discord server](https://discord.gg/3ujdPa2 "Discord")
-- [Livestream](https://www.twitch.tv/osu_europeantournament "Twitch")
-- [Challonge bracket](https://challonge.com/oet2021 "Challonge")
-- [BWS Calculator](https://docs.google.com/spreadsheets/d/1l1FemA9ZL4gbMcVMfu-sYe-VqSIlU1ebNkcneJlb7rI/edit#gid=1683977451 "Google Sheets")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1sdlFRnm2SKPPHn9gtqxObhxs5dxyDCqKXgoL23ThGdE/edit?usp=sharing "Google Sheets")**
+- [o!ET Discord server](https://discord.gg/3ujdPa2)
+- [Livestream](https://www.twitch.tv/osu_europeantournament)
+- [Challonge bracket](https://challonge.com/oet2021)
+- [BWS Calculator](https://docs.google.com/spreadsheets/d/1l1FemA9ZL4gbMcVMfu-sYe-VqSIlU1ebNkcneJlb7rI/edit#gid=1683977451)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1sdlFRnm2SKPPHn9gtqxObhxs5dxyDCqKXgoL23ThGdE/edit?usp=sharing)**
 
 ## Participants
 
@@ -156,7 +156,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (102 MB)](https://mega.nz/file/HiQWEbBR#3QOcW-wqew-cxv74mIpw01mKgZg0JeCx4gS0-ZYddxs "MEGA")**
+**[Download the mappack here! (102 MB)](https://mega.nz/file/HiQWEbBR#3QOcW-wqew-cxv74mIpw01mKgZg0JeCx4gS0-ZYddxs)**
 
 - FreeMod
   - [Hoshimachi Suisei & Amane Kanata - Tsukiakari (Amateurre) \[Moonlight\]](https://osu.ppy.sh/beatmapsets/1296278#osu/2689519)
@@ -181,7 +181,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (93 MB)](https://mega.nz/file/OqpgQI6K#wpWgXB5OE2K6lFMuVu7WB8H62JVTfht_uwOPIE6keuQ "MEGA")**
+**[Download the mappack here! (93 MB)](https://mega.nz/file/OqpgQI6K#wpWgXB5OE2K6lFMuVu7WB8H62JVTfht_uwOPIE6keuQ)**
 
 - FreeMod
   - [Usada Pekora - PEKORANDOMBRAIN! (Yuuma) \[Welcome to Pekoland!\]](https://osu.ppy.sh/beatmapsets/1346547#osu/2788624)
@@ -223,7 +223,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 1
 
-**[Download the mappack here! (63 MB)](https://mega.nz/file/e7wjwKYQ#49EOxFUHr0v_4QOW427rk-2TlJMx8ykWzok3KFGg6CQ "MEGA")**
+**[Download the mappack here! (63 MB)](https://mega.nz/file/e7wjwKYQ#49EOxFUHr0v_4QOW427rk-2TlJMx8ykWzok3KFGg6CQ)**
 
 - NoMod
   - [LiSA - Tsumibito (Onlybiscuit) \[Spiral of Emotions\]](https://osu.ppy.sh/beatmapsets/1180614#osu/2461785)
@@ -241,7 +241,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 2
 
-**[Download the mappack here! (60 MB)](https://mega.nz/file/ejxTCYxC#0Qv8tWUERg72uwtjxaErlP4yXQh7TC-_BqnN76JnKpU "MEGA")**
+**[Download the mappack here! (60 MB)](https://mega.nz/file/ejxTCYxC#0Qv8tWUERg72uwtjxaErlP4yXQh7TC-_BqnN76JnKpU)**
 
 - NoMod
   - [Study - Take a Break (dkblaze) \[Youth\]](https://osu.ppy.sh/beatmapsets/1128948#osu/2358526)
@@ -259,7 +259,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 3
 
-**[Download the mappack here! (54 MB)](https://mega.nz/file/rjQCCDhR#7dJJj6u5WSqNbdUbGJ1pMeU7KBxVyfDjSGhqdajO2bo "MEGA")**
+**[Download the mappack here! (54 MB)](https://mega.nz/file/rjQCCDhR#7dJJj6u5WSqNbdUbGJ1pMeU7KBxVyfDjSGhqdajO2bo)**
 
 - NoMod
   - [Hello Happy World! - Nico x Nico = Hyper Smile Power (GNF5) \[Are you smiling?\]](https://osu.ppy.sh/beatmapsets/1192534#osu/2485001)
@@ -277,7 +277,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 4
 
-**[Download the mappack here! (51 MB)](https://mega.nz/file/X3ZEURYB#zl_kgiJKG2O7ce4cU1OcglCHezri7n6c-DtWv7dSeo0 "MEGA")**
+**[Download the mappack here! (51 MB)](https://mega.nz/file/X3ZEURYB#zl_kgiJKG2O7ce4cU1OcglCHezri7n6c-DtWv7dSeo0)**
 
 - NoMod
   - [RAISE A SUILEN - Beautiful Birthday (Noctiam) \[Incandescent\]](https://osu.ppy.sh/beatmapsets/1241593#osu/2581272)
@@ -410,10 +410,10 @@ Sunday, 6 June 2021:
 
 More detailed qualifier results can be accessed via these spreadsheets below:
 
-- [Tier 1](https://docs.google.com/spreadsheets/d/1zpqzC3bDP8Z0PDAMl9yw_JwQZJZ5VYQ3QWizhK4nJLU/edit?usp=sharing "Google Sheets")
-- [Tier 2](https://docs.google.com/spreadsheets/d/1WP8hDHK8ouFXIJmmzR7eM0CLbNjmrIYmHsUxLkBWbSc/edit?usp=sharing "Google Sheets")
-- [Tier 3](https://docs.google.com/spreadsheets/d/1QhoFfQkejvdqKJA-Dtv1BSdNJinrYcMEC3W19SdxmeU/edit?usp=sharing "Google Sheets")
-- [Tier 4](https://docs.google.com/spreadsheets/d/1i9G5uJ0Gk1h_yecxnWCebJm1tI5ZAKKfhIOctwixFLU/edit?usp=sharing "Google Sheets")
+- [Tier 1](https://docs.google.com/spreadsheets/d/1zpqzC3bDP8Z0PDAMl9yw_JwQZJZ5VYQ3QWizhK4nJLU/edit?usp=sharing)
+- [Tier 2](https://docs.google.com/spreadsheets/d/1WP8hDHK8ouFXIJmmzR7eM0CLbNjmrIYmHsUxLkBWbSc/edit?usp=sharing)
+- [Tier 3](https://docs.google.com/spreadsheets/d/1QhoFfQkejvdqKJA-Dtv1BSdNJinrYcMEC3W19SdxmeU/edit?usp=sharing)
+- [Tier 4](https://docs.google.com/spreadsheets/d/1i9G5uJ0Gk1h_yecxnWCebJm1tI5ZAKKfhIOctwixFLU/edit?usp=sharing)
 
 ## Ruleset
 
@@ -426,7 +426,7 @@ More detailed qualifier results can be accessed via these spreadsheets below:
      - Tier 3: #7,501 - #15,000
      - Tier 4: #15,001 - #30,000
      - There will not be a rank buffer for any of the ranges
-2. Only players from the Europe region may sign up to the tournament. Participants may find a list of European countries [here](https://en.wikipedia.org/wiki/List_of_European_countries_by_area "Wikipedia"). If they wish to enter the tournament even though the flag of their profile page isn't listed there, participants can contact the host through Discord DMs to discuss the matter.
+2. Only players from the Europe region may sign up to the tournament. Participants may find a list of European countries [here](https://en.wikipedia.org/wiki/List_of_European_countries_by_area). If they wish to enter the tournament even though the flag of their profile page isn't listed there, participants can contact the host through Discord DMs to discuss the matter.
 3. The matches will be played with the following win conditions: TeamVS, Score V2.
 4. The Badge Weighting System (BWS) is used for the registration part of the tournament, where the formula used is as follows: `rank ^ 0.99 ^ badges ^ 2`. However, the rank calculation will be slightly different, and each badge will not have the same weighting depending on participants' rank. More information regarding this can be found under the [BWS section below](#bws-format).
 5. Each mappool and schedule for a weekend will be released at the latest on the Monday prior to that weekend, exceptions being exceptional circumstances or all matches that concluded early.
@@ -440,7 +440,7 @@ More detailed qualifier results can be accessed via these spreadsheets below:
 
 This tournament will introduce "progressive" Badge Weighting System (BWS), a format proposed by ![][flag_FR] [Sentenza](https://osu.ppy.sh/users/8129217) aiming at weighing each badge differently, according to whether or not they ranked up past a tournament's rank range in which they won one or multiple badges. For instance, if a participant won a badge at rank #10,000 - #25,000 but ranked up beyond #10,000 (e.g. rank #7,000), their badge will weigh less than a badge they'd have won in a #5,000 - #15,000 rank range tournament.
 
-Please check the following [spreadsheet](https://docs.google.com/spreadsheets/d/1l1FemA9ZL4gbMcVMfu-sYe-VqSIlU1ebNkcneJlb7rI/edit?usp=sharing "Google Sheets") out to see an example with the cases of ![][flag_GB] [Defex](https://osu.ppy.sh/users/9674143) and ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383). Defex ranked past the rank ranges of the two badged tournaments he won, so both his badges will weigh less towards his BWS rank, but not by much since he's still close to them (see and compare the O!ET example (Defex) with Original BWS Calc (Defex) sheets). This doesn't make much of a change, but for participants with a larger amounts of badges, it can have a significant impact. YoshiLover456 is naturally being hit with harsher BWS because of his badge amount (4), and still being in range for 3 of them. However, because he ranked out of the range of one tournament, said badge will weigh less, and will allow him to play in tier 3 instead of tier 2, which seems more fair.
+Please check the following [spreadsheet](https://docs.google.com/spreadsheets/d/1l1FemA9ZL4gbMcVMfu-sYe-VqSIlU1ebNkcneJlb7rI/edit?usp=sharing) out to see an example with the cases of ![][flag_GB] [Defex](https://osu.ppy.sh/users/9674143) and ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383). Defex ranked past the rank ranges of the two badged tournaments he won, so both his badges will weigh less towards his BWS rank, but not by much since he's still close to them (see and compare the O!ET example (Defex) with Original BWS Calc (Defex) sheets). This doesn't make much of a change, but for participants with a larger amounts of badges, it can have a significant impact. YoshiLover456 is naturally being hit with harsher BWS because of his badge amount (4), and still being in range for 3 of them. However, because he ranked out of the range of one tournament, said badge will weigh less, and will allow him to play in tier 3 instead of tier 2, which seems more fair.
 For further concerns or debate with Sentenza about the format, please contact them by Discord DM at `sentenza013#6435`.
 
 ### Draft procedure

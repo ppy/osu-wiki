@@ -4,7 +4,7 @@
 
 ![Gameplay of osu!taiko](/wiki/shared/taiko-gameplay.jpg "osu!taiko Interface")
 
-osu!taiko is a game mode in osu! that borrows *some* elements from the Japanese rhythm game, [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia") (released as [Taiko: Drum Master](http://en.wikipedia.org/wiki/Taiko:_Drum_Master "Wikipedia") in North America).
+osu!taiko is a game mode in osu! that borrows *some* elements from the Japanese rhythm game, [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) (released as [Taiko: Drum Master](http://en.wikipedia.org/wiki/Taiko:_Drum_Master) in North America).
 
 ## ![](/wiki/shared/mode/taiko.png) Gameplay
 
@@ -63,7 +63,7 @@ It does not increment the combo counter, and does not recover the health bar in 
 
 ## Play Styles
 
-*Refer to [Play Styles page under osu!taiko](/wiki/Play_Styles).*
+*Refer to [Play Styles page under osu!taiko](/wiki/Play_style).*
 
 ## Controls
 
@@ -82,7 +82,7 @@ If [Relax](/wiki/Game_modifier/Relax) mod was used, the score judgement only acc
 
 ## Scoring
 
-*Scoring Values can be found in [Score under osu!taiko Scoring Values section](/wiki/Score#osu-taiko).*
+*Scoring Values can be found in [Score under osu!taiko Scoring Values section](/wiki/Score#osu!taiko).*
 
 Scoring section details all the intricacies of scoring, including mathematical formula.
 
@@ -249,7 +249,7 @@ Also note that 1/6 drumrolls are given if the slider tick rate of **3** was used
   - 8 times of the length of the slider in songs that is equal or lower than 125BPM.
 - Unlike the other game modes, *Kiai Time* has an effect on scores because it refers to the *"Go-Go Time"* in *Taiko no Tatsujin*. While *Kiai Time* is active, the drum in the upper-left changes animation (named *pippidon* or *Don*/*Katsu* in *Taiko no Tatsujin*), the playfield has a background gradient and the hit area gains a fire graphic around it.
   - Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes included, except for hits on a shaker (the final hit is still multiplied).
-- Mascot for osu!taiko is [pippidon](/wiki/Mascots#-pippi).
+- Mascot for osu!taiko is [pippidon](/wiki/Mascots#pippi).
 - When played by [Auto](/wiki/Game_modifier/Auto), the player name will be *mekkadosu!*.
 
 ### History

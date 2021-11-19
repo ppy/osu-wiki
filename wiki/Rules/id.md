@@ -41,7 +41,7 @@ Peraturan-peraturan berikut ini merupakan pedoman dasar yang kami terapkan di da
 Peraturan-peraturan di bawah ini secara ekslusif berlaku mengikat pada beatmap-beatmap yang diunggah dengan [Beatmap Submission System](/wiki/Submission) ke dalam lingkungan osu!. Sistem osu! akan secara otomatis membuat suatu laman diskusi baru di kala beatmap diunggah untuk pertama kalinya melalui [editor](/wiki/Beatmap_Editor).
 
 1. **Pastikan kamu telah memiliki izin untuk menggunakan konten apapun pada beatmap yang kamu unggah.** Konten yang dimaksud di sini meliputi lagu, video, hitsound, elemen grafis, dan hal-hal lainnya yang bukan merupakan hasil ciptaanmu sendiri. Apabila kamu masih bingung dalam mencari konten-konten yang sekiranya aman untuk digunakan di dalam lingkungan osu!, kamu dapat menggunakan lagu-lagu yang telah sepenuhnya terizin secara resmi pada katalog [Featured Artist](https://osu.ppy.sh/beatmaps/artists) kami. Selain itu, kamu juga dapat mengacu pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) untuk informasi lebih lanjut.
-2. **Jangan membahas hal-hal yang tidak perlu untuk dibahas pada laman diskusi beatmap.** Laman diskusi beatmap dikhususkan untuk (dan hanya untuk) membahas hal-hal yang berkaitan dengan beatmap yang bersangkutan. Apabila kamu merasa perlu untuk membahas sesuatu yang tidak berhubungan dengan beatmap yang bersangkutan, kamu dapat membuka topik bahasan baru pada forum yang lebih sesuai.
+2. **Jangan membahas hal-hal yang tidak perlu untuk dibahas pada [laman diskusi beatmap](/wiki/Beatmap_Discussion).** Laman diskusi beatmap dikhususkan untuk (dan hanya untuk) membahas hal-hal yang berkaitan dengan beatmap yang bersangkutan. Apabila kamu merasa perlu untuk membahas sesuatu yang tidak berhubungan dengan beatmap yang bersangkutan, kamu dapat membuka topik bahasan baru pada forum yang lebih sesuai.
 3. **Tidak dibenarkan untuk menjiplak atau mencuri karya orang lain.** Lebih dari itu, kamu juga dilarang untuk mengunggah atau mempergunakan hasil kreasi orang lain atas nama sendiri tanpa izin dari pembuat karya yang bersangkutan (termasuk, namun tidak terbatas pada, skin dan tingkat kesulitan milik mapper lain).
 4. **Selalu ikuti [Aturan Konten Musik](Song_Content_Rules) dan [Pertimbangan Konten Visual](Visual_Content_Considerations).**
 
@@ -51,16 +51,16 @@ Apabila kamu terbukti telah melanggar satu atau lebih peraturan yang tertera di 
 
 Hukuman-hukuman tersebut termasuk (*tetapi tidak terbatas pada*):
 
-- Hilangnya kemampuan untuk dapat berbicara di dalam permainan dalam durasi waktu tertentu (disebut juga dengan istilah silence)
+- Hilangnya kemampuan untuk dapat berbicara di dalam permainan dalam durasi waktu tertentu (disebut juga dengan istilah [silence](/wiki/Silence))
 - Penghapusan konten-konten yang dianggap melanggar dari userpage, laman profil, atau beatmap yang diunggah olehmu
 - Hilangnya hak untuk dapat menyunting atau mengubah laman pengguna atau rincian profilmu
 - Hilangnya hak untuk dapat bermain atau berpartisipasi dalam turnamen yang diselenggarakan secara resmi
 
-Durasi silence yang kamu terima akan **secara otomatis** meningkat secara eksponensial untuk setiap pelanggaran yang kamu lakukan. Moderator tidak mengatur lamanya waktu kamu akan ter-silence karena suatu pelanggaran - semakin kamu melanggar, semakin lama pula masa hukuman yang akan kamu terima.
+Durasi [silence](/wiki/Silence) dan pelanggaran lainnya yang kamu terima akan **secara otomatis** meningkat secara eksponensial untuk setiap pelanggaran yang kamu lakukan. Moderator tidak mengatur lamanya waktu kamu akan ter-silence karena suatu pelanggaran - semakin kamu melanggar, semakin lama pula masa hukuman yang akan kamu terima.
 
-Beberapa pelanggaran tertentu yang tingkat pelanggarannya tergolong lebih berat pada umumnya memiliki durasi silence minimum yang lebih lama, yang pada standarnya adalah 48 jam atau lebih. Beberapa contoh pelanggaran ini antara lain adalah penyebaran konten yang tidak sepantasnya di ruang publik dan pelecehan terhadap pengguna lain.
+Beberapa pelanggaran tertentu yang tingkat pelanggarannya tergolong lebih berat pada umumnya memiliki durasi silence minimum yang lebih lama, yang pada standarnya adalah 42 jam atau lebih. Beberapa contoh pelanggaran ini antara lain adalah penyebaran konten yang tidak sepantasnya di ruang publik dan pelecehan terhadap pengguna lain.
 
-Apabila setelah beberapa pelanggaran kamu masih tetap melanggar aturan, akun kamu dapat langsung di-restrict secara permanen tanpa adanya opsi pengajuan banding.
+Apabila setelah beberapa pelanggaran kamu masih tetap melanggar aturan, akun kamu dapat langsung [di-restrict secara permanen tanpa adanya opsi pengajuan banding](/wiki/Help_Centre/Account_Restrictions).
 
 Akun yang di-restrict tidak dapat bermain secara online, mencanangkan skor pada leaderboard, mengobrol dengan pengguna lain, dan dalam segala maksud dan tujuan "dibatasi" dari interaksi langsung dengan anggota komunitas lainnya. Adapun status Restriction yang diakibatkan oleh pelanggaran Peraturan Komunitas di atas hanya dapat dicabut dengan mengajukan banding kepada staf setelah 3 bulan telah berlalu ([dapat berlaku lebih dalam situasi tertentu](/wiki/Help_Centre/Account_Restrictions#alasan-pembatasan-umum-dan-masa-tunggunya)).
 

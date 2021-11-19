@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2017 logo](img/logo.jpg)
 
-The **osu!mania 4K World Cup 2017** (***MWC 4K 2017***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth installment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2017** (***MWC 4K 2017***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **osu!mania 4K World Cup 2017** (***MWC 4K 2017***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2017-07-10/2017-07-23 |
 | Live drawings | 2017-08-07 (14:00 UTC) |
-| Group Stage | 2017-08-12/2017-08-13 |
+| Group stage | 2017-08-12/2017-08-13 |
 | Round of 16 | 2017-08-20 |
 | Quarterfinals | 2017-08-26/2017-08-27 |
 | Semifinals | 2017-09-02/2017-09-03 |
@@ -39,7 +39,7 @@ The **osu!mania 4K World Cup 2017** (***MWC 4K 2017***) was a country-based osu!
 
 The osu!mania 4K World Cup 2017 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |
@@ -49,8 +49,8 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/615787)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)**
 
 ## Participants
 
@@ -102,9 +102,11 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 | **G** | ![][flag_JP] Japan | ![][flag_CA] Canada | ![][flag_CH] Switzerland | ![][flag_NL] Netherlands |
 | **H** | ![][flag_CL] Chile | ![][flag_TH] Thailand | ![][flag_SG] Singapore | ![][flag_BE] Belgium |
 
-![MWC 4K 2017 podium](img/podium.jpg)
+![](img/bracket.jpg "MWC 4K 2017 bracket")
 
-![MWC 4K 2017 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "MWC 4K 2017 podium")
 
 ## Mappools
 
@@ -112,7 +114,7 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-**[Download the mappack here! (123MB)](http://www.mediafire.com/file/jho7mgavbd8ktlo/MWC4K_2017_Finals.rar "MediaFire")**
+**[Download the mappack here! (123MB)](http://www.mediafire.com/file/jho7mgavbd8ktlo/MWC4K_2017_Finals.rar)**
 
 - FreeMod
   - [Mick Gordon - The Mastermind (Pope Gadget) \[Brainstorm\]](https://osu.ppy.sh/beatmapsets/663258#mania/1403911)
@@ -135,7 +137,7 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (90MB)](http://www.mediafire.com/file/7mxtjr3r9k4bi54/MWC4K_2017_Semifinals.rar "MediaFire")**
+**[Download the mappack here! (90MB)](http://www.mediafire.com/file/7mxtjr3r9k4bi54/MWC4K_2017_Semifinals.rar)**
 
 - FreeMod
   - [9mm Parabellum Bullet - Punishment (Valedict) \[Retribution\]](https://osu.ppy.sh/beatmapsets/532682#mania/1128678)
@@ -157,7 +159,7 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (88MB)](http://www.mediafire.com/file/7baxea9hafezhob/MWC4K_2017_Quarterfinals.rar "MediaFire")**
+**[Download the mappack here! (88MB)](http://www.mediafire.com/file/7baxea9hafezhob/MWC4K_2017_Quarterfinals.rar)**
 
 - FreeMod
   - [BABYMETAL - Road of Resistance (hi19hi19) \[Uprising\]](https://osu.ppy.sh/beatmapsets/649356#mania/1375744)
@@ -178,7 +180,7 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (65 MB)](http://www.mediafire.com/file/z7pmbh632dy178j/MWC4K_2017_Round_of_16.rar "MediaFire")**
+**[Download the mappack here! (65 MB)](http://www.mediafire.com/file/z7pmbh632dy178j/MWC4K_2017_Round_of_16.rar)**
 
 - FreeMod
   - [hyi - you can recover (Valedict) \[restoration\]](https://osu.ppy.sh/beatmapsets/566156#mania/1199287)
@@ -197,11 +199,11 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 - Tiebreaker
   - **[BABYMETAL - Tales of The Destinies (Couil) \[Endless Journey\]](https://osu.ppy.sh/beatmapsets/611340#mania/1290602)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (89 MB)](http://www.mediafire.com/file/cjk4f8ilwc2s7uv/MWC4K_2017_Group_Stage.rar "MediaFire")**
+**[Download the mappack here! (89 MB)](http://www.mediafire.com/file/cjk4f8ilwc2s7uv/MWC4K_2017_Group_Stage.rar)**
 
-- Freemod
+- FreeMod
   - [Lifetheory - Daisy (Tidek) \[Life (Insane)\]](https://osu.ppy.sh/beatmapsets/323163#mania/718401)
   - [Shawn Wasabi - Burnt Rice (855wa) \[Hard\]](https://osu.ppy.sh/beatmapsets/493347#mania/1063205)
   - [YK. - Egg Of Life (Mwila Remix) (Paradoxq13) \[MX\]](https://osu.ppy.sh/beatmapsets/330513#mania/741552)
@@ -299,7 +301,7 @@ Sunday, 20 August 2017:
 | Poland ![][flag_PL] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/35429710) |
 | Sweden ![][flag_SE] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/35431890) |
 
-### Group Stage
+### Group stage
 
 Saturday, 12 August 2017:
 

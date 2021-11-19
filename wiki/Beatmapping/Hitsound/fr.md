@@ -7,9 +7,9 @@ tags:
 
 # Hitsound
 
-*Voir aussi : [Ajouter des hitsounds personnalisés](/wiki/Guides/Adding_Custom_Hitsounds)*.
+*Voir aussi : [Ajouter des hitsounds personnalisés](/wiki/Guides/Using_custom_hitsounds)*.
 
-Les **hitsounds** sont les sons qu'osu! joue en réponse aux frappes de l'utilisateur lorsqu'il interagit avec les [objets](/wiki/Hit_Objects). Les hitsounds sont généralement utilisés pour donner un retour auditif au joueur afin de l'aider à évaluer sa [précision](/wiki/Accuracy) par rapport à la beatmap.
+Les **hitsounds** sont les sons qu'osu! joue en réponse aux frappes de l'utilisateur lorsqu'il interagit avec les [objets](/wiki/Hit_object). Les hitsounds sont généralement utilisés pour donner un retour auditif au joueur afin de l'aider à évaluer sa [précision](/wiki/Gameplay/Accuracy) par rapport à la beatmap.
 
 Le feedback hitsound se compose d'un échantillon par défaut appelé "normal hit", et de n'importe quelle combinaison d'ajouts d'échantillons de whistle, de finish ou de clap. Chaque échantillon a un des trois "ensembles d'échantillons" qui changent son style : `Normal`, `Soft`, ou `Drum`.
 

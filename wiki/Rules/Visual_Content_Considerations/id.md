@@ -1,14 +1,10 @@
----
-outdated: true
----
-
 # Pertimbangan konten visual
 
 Sesuai dengan [Peraturan Komunitas no. 5](/wiki/Rules#peraturan-komunitas), semua konten visual yang dikirimkan atau diunggah ke osu! harus memenuhi kriteria untuk aman di segala kalangan usia.
 
 Hal ini termasuk:
 
-- beatmap yang telah diunggah
+- beatmap yang telah diunggah, **bahkan beatmap yang memiliki tag [eksplisit](/wiki/Rules/Explicit_Content)**
 - detail profil (avatar, sampul profil)
 - lampiran atau tautan lainnya (postingan forum, komentar, postingan diskusi beatmap)
 
@@ -31,19 +27,27 @@ Gambar atau elemen visual yang mengandung salah satu dari daftar dibawah ini **t
 - **sindiran seksual yang signifikan**
 - **sikap atau ajakan seksual**
 - **konten erotis atau tampilan grafis seksualitas**
-- **contoh penggunaan, persiapan, atau identifikasi segala jenis obat-obatan terlarang**
+- **contoh penggunaan, persiapan, atau identifikasi segala jenis obat-obatan terlarang**¹
 - **penggambaran konten politik, budaya, agama, atau sosial yang bertujuan untuk menghasut**
+
+Sebagai tambahan, gambar atau elemen visual yang dinilai berkualitas buruk (baik secara obyektif yaitu kualitas gambar maupun secara subyektif yaitu komposisi/penciptaan) juga dapat dicegah penggunaannya dalam beatmap jika gambar atau elemen visual tidak berhubungan langsung dengan beatmap.
+
+*¹*: Ini merupakan dapat menjadi pengecualian tergantung oleh asal obat-obatan terlarang, penggunaannya, dan subkulturnya, khususnya obat-obatan terlarang yang mengalami dekriminalisasi dan diregulasi seperti ganja. Permohonan pengecualian spesifik terhadap aturan ini dapat ditempuh dengan mengontak [tim support](/wiki/People/The_Team/Account_support_team) di [support@ppy.sh](mailto:support@ppy.sh).
 
 ## Pengecualian
 
 Gambar atau elemen visual yang mengandung salah satu dari daftar dibawah ini mungkin dapat diterima:
 
-- penggambaran kekerasan ringan hingga sedang (darah dengan jumlah yang sedikit, luka dangkal atau tidak kritis)
+- penggambaran kekerasan ringan hingga sedang (darah dengan jumlah yang sedikit, luka ringan atau tidak kritis)
 - ketelanjangan artistik (dalam konteks karya seni klasik, atau karya yang terkait dengan elemen tersebut, seperti seni album dengan sedikit ketelanjangan)
 - asmara, rayuan atau kasih sayang yang intim dalam jumlah yang sedikit (berpelukan, merangkul, berciuman tanpa konotasi seksual, berpegangan tangan, dll.)
 - pakaian renang dengan desain yang masuk akal (pakaian renang standar dengan cakupan umum, seperti bikini pada umumnya)
 
+Pada keadaan tertentu, beberapa pengecualian dapat diterapkan pada konten yang mengandung unsur estetika seni *artisitic use*, seperti storyboard atau konten video. Hal tersebut harus diberikan secara langsung oleh tim support. Siapapun yang ingin diberikan hal tersebut dapat mengontak mereka secara langsung melalui [support@ppy.sh](mailto:support@ppy.sh).
+
 ## Menilai gambar Anda
+
+*Lihat: [Proses pengkajian konten](/wiki/Rules/Content_Voting_Process).*
 
 Gambar-gambar yang berada di situs osu! yang terdapat diluar beatmap (avatar, sampul profil, halaman pengguna, dll) tidak mengikuti prosedur pemungutan suara yang dijelaskan di bawah ini dan dapat dihapus kapan saja atas kebijaksanaan Global Moderation Team.
 

@@ -9,7 +9,7 @@ tags:
 
 ![IGTS 2020 logo](img/logo.jpg)
 
-The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) was an Intermediate worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Briesmas](https://osu.ppy.sh/users/2865172) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third installment of the Intermediate Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) was an Intermediate worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Briesmas](https://osu.ppy.sh/users/2865172) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third instalment of the Intermediate Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) was an Interme
 | Registration phase | 2020-05-03/2020-05-24 |
 | Screening and team creations | 2020-05-24/2020-05-31 |
 | Qualifiers | 2020-06-06/2020-06-07 |
-| Group Stage | 2020-06-13/2020-06-14 |
+| Group stage | 2020-06-13/2020-06-14 |
 | Round of 16 | 2020-06-20/2020-06-21 |
 | Quarterfinals | 2020-06-27/2020-06-28 |
 | Semifinals | 2020-07-04/2020-07-05 |
@@ -29,15 +29,15 @@ The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) was an Interme
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$64 or 6 months of osu!supporter tag, first place team banner, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/ "Foxbox") |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$48 or 6 months of osu!supporter tag, second place team banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$32 or 2 months of osu!supporter tag, third place team banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$64 or 6 months of osu!supporter, first place team banner, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$48 or 6 months of osu!supporter, second place team banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$32 or 2 months of osu!supporter, third place team banner |
 
 Cash prizes were provided by ![][flag_US] [Cor](https://osu.ppy.sh/users/9745242), ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930), and ![][flag_US] [Horo](https://osu.ppy.sh/users/992439).
 
 ![](img/badge.jpg "IGTS 2020 winner badge")
 
-![](img/mousepad.jpg "IGTS 2020 mousepad design")
+![](img/mousepad.jpg "IGTS 2020 winner mousepad design")
 
 ## Organisation
 
@@ -46,8 +46,8 @@ The Intermediate Global Taiko Showdown 2020 was run by various community members
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_FR] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Map selector | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) |
-| All Stars map selector | ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259) |
+| Mappool selector | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) |
+| All Stars mappool selector | ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259) |
 | Referee | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851), ![][flag_US] [Bathym-](https://osu.ppy.sh/users/10674189), ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_MX] [Iojioji](https://osu.ppy.sh/users/1346121), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715) |
 | Streamer | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_RU] [KeRLi\_](https://osu.ppy.sh/users/5902629), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Commentator | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736), ![][flag_US] [DiggyDogg](https://osu.ppy.sh/users/5014664), ![][flag_DE] [DrugManager](https://osu.ppy.sh/users/8694649), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_PL] [Finite](https://osu.ppy.sh/users/5385806), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [JM-](https://osu.ppy.sh/users/10629673), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_RU] [KeRLi\_](https://osu.ppy.sh/users/5902629), ![][flag_IT] [Kozzo](https://osu.ppy.sh/users/11993912), ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_GB] [w1ll](https://osu.ppy.sh/users/11406987) |
@@ -60,13 +60,13 @@ The Intermediate Global Taiko Showdown 2020 was run by various community members
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1062773)
-- [IGTS Discord server](https://discord.gg/a6PzzFz "Discord")
-- [GTS website](https://gtsosu.com/ "GTS")
+- [IGTS Discord server](https://discord.gg/a6PzzFz)
+- [GTS website](https://gtsosu.com/)
 - Livestream
-  - [GTSosu](https://www.twitch.tv/gtsosu "Twitch")
-  - [GTSosu_b](https://www.twitch.tv/gtsosu_b "Twitch")
-- [Challonge brackets](https://challonge.com/IGTS2020 "Challonge")
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/34 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+  - [GTSosu](https://www.twitch.tv/gtsosu)
+  - [GTSosu_b](https://www.twitch.tv/gtsosu_b)
+- [Challonge brackets](https://challonge.com/IGTS2020)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/34) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
@@ -154,7 +154,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### All Stars
 
-**[Download the map pack here! (101 MB)](https://mega.nz/file/fOQRXQJB#90Kjf6cGPI-boeKG_3jigMF6jlNXK7tT2yZQJuebOrY "MEGA")**
+**[Download the map pack here! (101 MB)](https://mega.nz/file/fOQRXQJB#90Kjf6cGPI-boeKG_3jigMF6jlNXK7tT2yZQJuebOrY)**
 
 - DoubleTime
   - [Reol - Drop Pop Candy (Rumovik) \[Rumovik's Oni\]](https://osu.ppy.sh/beatmapsets/417257#taiko/903582)
@@ -184,7 +184,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the map pack here! (85 MB)](https://mega.nz/file/LkVVVKaY#gyJlIZPmlWT5yZRCnWRg4pn688mel9Mz_KiSZ4Nvwx0 "MEGA")**
+**[Download the map pack here! (85 MB)](https://mega.nz/file/LkVVVKaY#gyJlIZPmlWT5yZRCnWRg4pn688mel9Mz_KiSZ4Nvwx0)**
 
 - NoMod
   - [PSYQUI feat. Such - Raise Your Hands (Yuemiao) \[D3kuu's Inner Oni\]](https://osu.ppy.sh/beatmapsets/897856#taiko/2454968)
@@ -211,7 +211,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the map pack here! (78 MB)](https://mega.nz/file/esV3TYgJ#nZSmk_k9Js0CSJHL24IFSY7JhknN2VnzH6xTEba_Sj8 "MEGA")**
+**[Download the map pack here! (78 MB)](https://mega.nz/file/esV3TYgJ#nZSmk_k9Js0CSJHL24IFSY7JhknN2VnzH6xTEba_Sj8)**
 
 - NoMod
   - [Floxytek vs Billx - 30's Swing Tek (DarkTigrus) \[\~Heuss'Taiko Swing\~\]](https://osu.ppy.sh/beatmapsets/45107#taiko/159871)
@@ -238,7 +238,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the map pack here! (81 MB)](https://mega.nz/file/upklnJhQ#-YfhkCE1xBeGXxZ4c2CyahuKkxN1l-QfRl1N_v_m2OU "MEGA")**
+**[Download the map pack here! (81 MB)](https://mega.nz/file/upklnJhQ#-YfhkCE1xBeGXxZ4c2CyahuKkxN1l-QfRl1N_v_m2OU)**
 
 - NoMod
   - [cosMo@bousouP - Nee, Kowareta Ningyou wa Doko e Suterareru no? (Rhytoly) \[Oni?\]](https://osu.ppy.sh/beatmapsets/854011#taiko/1785798)
@@ -265,7 +265,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the map pack here! (76 MB)](https://mega.nz/file/vokwSC5Y#H6k-EQHlw9xV-GRayCpPTrSDTe0lym5oggSAAxym9CM "MEGA")**
+**[Download the map pack here! (76 MB)](https://mega.nz/file/vokwSC5Y#H6k-EQHlw9xV-GRayCpPTrSDTe0lym5oggSAAxym9CM)**
 
 - NoMod
   - [sky\_delta - Grenade (Nerova Riuz GX) \[Oni\]](https://osu.ppy.sh/beatmapsets/920666#taiko/1937208)
@@ -291,7 +291,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the map pack here! (93 MB)](https://mega.nz/file/T1tVVbyZ#Cn-uhZgtCiCwQ67HMly9AA9pQQfFxXRiySnPqkr4ikc "MEGA")**
+**[Download the map pack here! (93 MB)](https://mega.nz/file/T1tVVbyZ#Cn-uhZgtCiCwQ67HMly9AA9pQQfFxXRiySnPqkr4ikc)**
 
 - NoMod
   - [chelmico - Easy Breezy feat. Zenpaku (dj-Jo Remix) (D3kuu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1122895#taiko/2346587)
@@ -315,9 +315,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Tia - Love Me Gimme (toara\_fict) \[Oni\]](https://osu.ppy.sh/beatmapsets/472373#taiko/1009422)**
 
-### Group Stage
+### Group stage
 
-**[Download the map pack here! (65 MB)](https://mega.nz/file/3wFnTazb#-ONnI0-BFICX7IHmNR-zHmpK4qhWyJw9-AgzjZSiqCE "MEGA")**
+**[Download the map pack here! (65 MB)](https://mega.nz/file/3wFnTazb#-ONnI0-BFICX7IHmNR-zHmpK4qhWyJw9-AgzjZSiqCE)**
 
 - NoMod
   - [ONE OK ROCK - Clock Strikes (Chromoxx) \[Oni\]](https://osu.ppy.sh/beatmapsets/602619#taiko/1272846)
@@ -342,7 +342,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the map pack here! (25 MB)](https://mega.nz/file/M0YR1SoR#6NXysw4sUBS0SP9gPbdeA4IHCortqTWJSjesueE75Fo "MEGA")**
+**[Download the map pack here! (25 MB)](https://mega.nz/file/M0YR1SoR#6NXysw4sUBS0SP9gPbdeA4IHCortqTWJSjesueE75Fo)**
 
 - NoMod
   - [8284 - Connaextion (Nwolf) \[--- -. ..\]](https://osu.ppy.sh/beatmapsets/660649#taiko/1956165)
@@ -449,7 +449,7 @@ Sunday, 21 June 2020:
 | **Netherlands** ![][flag_NL] | **6** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/63206000) |
 | **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/63208390) |
 
-### Group Stage
+### Group stage
 
 Saturday, 13 June 2020:
 
@@ -559,7 +559,7 @@ Sunday, 14 June 2020:
 | #44 | ![][flag_TH] Thailand | 41.8 |
 
 - Only the top 32 team can proceed to the Group Stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1VxF7lvt09sR7NrG2JOEQR1F8RQiymb3XMARC6OudF_E/edit?usp=sharing "Google Sheets")
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1VxF7lvt09sR7NrG2JOEQR1F8RQiymb3XMARC6OudF_E/edit?usp=sharing)
 - Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
 
 ## Ruleset

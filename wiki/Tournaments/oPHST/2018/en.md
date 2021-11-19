@@ -58,8 +58,8 @@ The **osu!Philippines Summer Tournament 2018** (***oPHST2018***) was a semi-invi
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 2 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 2 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 
 ![](img/std.png "oPHST2018 winner badge (osu!)") ![](img/ctb.png "oPHST2018 winner badge (osu!catch)") ![](img/4kmania.png "oPHST2018 winner badge (osu!mania 4K)") ![](img/7Kmania.png"oPHST2018 winner badge (osu!mania 7K)")
 
@@ -80,13 +80,13 @@ The **osu!Philippines Summer Tournament 2018** (***oPHST2018***) was a semi-invi
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/719874)
-- [Livestream](https://www.twitch.tv/osuliveph "Twitch")
-- [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/ "Facebook")
+- [Livestream](https://www.twitch.tv/osuliveph)
+- [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
 - Challonge
-  - [osu!](https://challonge.com/oPHST2018_std "Challonge")
-  - [osu!catch](https://challonge.com/oPHST2018_ctb "Challonge")
-  - [osu!mania 4K](https://challonge.com/oPHST2018_4K "Challonge")
-  - [osu!mania 7K](https://challonge.com/oPHST2018_7K "Challonge")
+  - [osu!](https://challonge.com/oPHST2018_std)
+  - [osu!catch](https://challonge.com/oPHST2018_ctb)
+  - [osu!mania 4K](https://challonge.com/oPHST2018_4K)
+  - [osu!mania 7K](https://challonge.com/oPHST2018_7K)
 
 ## Participants
 
@@ -175,7 +175,7 @@ The **osu!Philippines Summer Tournament 2018** (***oPHST2018***) was a semi-invi
 | **C** | (#1) ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936) | (#8) ![][flag_PH] [Tots](https://osu.ppy.sh/users/3443131) | (#11) ![][flag_PH] [\_Shirayukihime\_](https://osu.ppy.sh/users/875341) | (#15) ![][flag_PH] [- Aries -](https://osu.ppy.sh/users/6639880) |
 | **D** | (#4) ![][flag_CL] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) | (#7) ![][flag_PH] [fer789](https://osu.ppy.sh/users/8901267) | (#10) ![][flag_PH] [nyx-](https://osu.ppy.sh/users/9883834) |  |
 
-The full list of registrants may be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1HCKuEBvxwIqw6a_8pq4YITd63eSVAqfOhpbAl-_ALe8/ "Google Sheets").
+The full list of registrants may be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1HCKuEBvxwIqw6a_8pq4YITd63eSVAqfOhpbAl-_ALe8/).
 
 ## Podium
 
@@ -219,7 +219,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the mappack here! (127 MB)](https://drive.google.com/open?id=1VFTmj0Wc95abHmRbiUG5TQ__VSGf2mKT "Google Drive")**
+**[Download the mappack here! (127 MB)](https://drive.google.com/open?id=1VFTmj0Wc95abHmRbiUG5TQ__VSGf2mKT)**
 
 - NoMod
   - [Guilty Kiss - Strawberry Trapper (Asaiga) \[Athy's Trick in Dice\]](https://osu.ppy.sh/beatmapsets/496107#osu/1055997)
@@ -246,7 +246,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (111 MB)](https://drive.google.com/open?id=1Qb53yWPN2X7WNgpnyPF8HW9CV_kFw2d1 "Google Drive")**
+**[Download the mappack here! (111 MB)](https://drive.google.com/open?id=1Qb53yWPN2X7WNgpnyPF8HW9CV_kFw2d1)**
 
 - NoMod
   - [Yousei Teikoku - The Creator (meiikyuu) \[Nyaten\]](https://osu.ppy.sh/beatmapsets/41242#osu/202756)
@@ -273,7 +273,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (103 MB)](https://drive.google.com/open?id=1UvJ9xl1W9-Hk2LUTGF1ZeUBdJxWyeKH8 "Google Drive")**
+**[Download the mappack here! (103 MB)](https://drive.google.com/open?id=1UvJ9xl1W9-Hk2LUTGF1ZeUBdJxWyeKH8)**
 
 - NoMod
   - [Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia remix) (ProfessionalBox) \[Daydream\]](https://osu.ppy.sh/beatmapsets/476695#osu/1018247)
@@ -300,7 +300,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-**[Download the mappack here! (87 MB)](https://drive.google.com/open?id=1inneBvPp0SAHlJw4ND36RQzD65_HNuaH "Google Drive")**
+**[Download the mappack here! (87 MB)](https://drive.google.com/open?id=1inneBvPp0SAHlJw4ND36RQzD65_HNuaH)**
 
 - NoMod
   - [FujuniseikouyuuP - Make a Loser (val0108) \[0108 style\]](https://osu.ppy.sh/beatmapsets/287694#osu/649034)
@@ -327,7 +327,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 32
 
-**[Download the mappack here! (97 MB)](https://drive.google.com/open?id=1HjXmRpMblbDVfqFQ8E78uy6kVHPoaTFJ "Google Drive")**
+**[Download the mappack here! (97 MB)](https://drive.google.com/open?id=1HjXmRpMblbDVfqFQ8E78uy6kVHPoaTFJ)**
 
 - NoMod
   - [tofubeats - CANDYYYLAND feat LIZ - Pa's Lam System Remix (Nathan) \[Nathan's Extra\]](https://osu.ppy.sh/beatmapsets/663519#osu/1418503)
@@ -354,7 +354,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the mappack here! (23 MB)](https://drive.google.com/open?id=1c9jrOMN_UqeSPeaifCcMGxaDB9M-YGrc "Google Drive")**
+**[Download the mappack here! (23 MB)](https://drive.google.com/open?id=1c9jrOMN_UqeSPeaifCcMGxaDB9M-YGrc)**
 
 - NoMod
   - [dj TAKA - quaver (NiNo) \[NiNo's Extra\]](https://osu.ppy.sh/beatmapsets/423527#osu/917129)
@@ -369,7 +369,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals week 2
 
-**[Download the mappack here! (133 MB)](https://drive.google.com/open?id=1LCKZ3jOCkHxqIhwYtMZ4Pqva0WWgeOMb "Google Drive")**
+**[Download the mappack here! (133 MB)](https://drive.google.com/open?id=1LCKZ3jOCkHxqIhwYtMZ4Pqva0WWgeOMb)**
 
 - NoMod
   - [senya - Akatsuki no Suiheisen ni (Razor Sharp) \[Grief\]](https://osu.ppy.sh/beatmapsets/622997#fruits/1313189)
@@ -395,7 +395,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals week 1
 
-**[Download the mappack here! (112 MB)](https://drive.google.com/open?id=10GxDpVygDxeCJ92p8TThEHZgRy0diNZc "Google Drive")**
+**[Download the mappack here! (112 MB)](https://drive.google.com/open?id=10GxDpVygDxeCJ92p8TThEHZgRy0diNZc)**
 
 - NoMod
   - [TERRASPEX - AMAZING BREAK (Spectator) \[OVERDOSE\]](https://osu.ppy.sh/beatmapsets/727329#fruits/1541641)
@@ -421,7 +421,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (99 MB)](https://drive.google.com/open?id=1cXDn20nz5frreS59p1HeH8fPK3uQjEyi "Google Drive")**
+**[Download the mappack here! (99 MB)](https://drive.google.com/open?id=1cXDn20nz5frreS59p1HeH8fPK3uQjEyi)**
 
 - NoMod
   - [Function Phantom - Euclid (Ascendance) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/729321#fruits/1546703)
@@ -447,7 +447,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (103 MB)](https://drive.google.com/open?id=1ox7BQuLZD4jwkyNxTeoVONKD2-BxuHWj "Google Drive")**
+**[Download the mappack here! (103 MB)](https://drive.google.com/open?id=1ox7BQuLZD4jwkyNxTeoVONKD2-BxuHWj)**
 
 - NoMod
   - [Rib - Setsuna Trip (RoseusJaeger) \[Deif's Rain\]](https://osu.ppy.sh/beatmapsets/1474932)
@@ -473,7 +473,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-**[Download the mappack here! (102 MB)](https://drive.google.com/open?id=1kY272z24TD6tVZ4XfhzlRnTq3p-SoGqP "Google Drive")**
+**[Download the mappack here! (102 MB)](https://drive.google.com/open?id=1kY272z24TD6tVZ4XfhzlRnTq3p-SoGqP)**
 
 - NoMod
   - [Nitro Fun & Hyper Potions - Checkpoint (WildOne94) \[Rain Collab\]](https://osu.ppy.sh/beatmapsets/474216#fruits/1036560)
@@ -501,7 +501,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals week 2
 
-**[Download the mappack here! (155 MB)](https://drive.google.com/open?id=1ZPx5o5959iorjxI6phqgPxJyhJPUxK1m "Google Drive")**
+**[Download the mappack here! (155 MB)](https://drive.google.com/open?id=1ZPx5o5959iorjxI6phqgPxJyhJPUxK1m)**
 
 - FreeMod
   - [carage - cross dagger (Kdefs) \[execution\]](https://osu.ppy.sh/beatmapsets/745975#mania/1572417)
@@ -524,7 +524,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals week 1
 
-**[Download the mappack here! (95 MB)](https://drive.google.com/open?id=1jBJVnW1x25rlwa41exRrOHOE4YY7p9SD "Google Drive")**
+**[Download the mappack here! (95 MB)](https://drive.google.com/open?id=1jBJVnW1x25rlwa41exRrOHOE4YY7p9SD)**
 
 - FreeMod
   - [Neko Kanimaru - Hidamari no machi - a! (shuniki) \[Black Another\]](https://osu.ppy.sh/beatmapsets/488412#mania/1041327)
@@ -547,7 +547,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (83 MB)](https://drive.google.com/open?id=1WeTMzKlytsEyLBOXZCp7H3H3WO_Jgd8w "Google Drive")**
+**[Download the mappack here! (83 MB)](https://drive.google.com/open?id=1WeTMzKlytsEyLBOXZCp7H3H3WO_Jgd8w)**
 
 - FreeMod
   - [Nekomata Master - Izanami no Nageki (Zyph) \[4K\]](https://osu.ppy.sh/beatmapsets/615168#mania/1297624)
@@ -568,7 +568,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (59 MB)](https://drive.google.com/open?id=1zYl0oTMdQnk6afGu8ph7DqVMjjGFjUNq "Google Drive")**
+**[Download the mappack here! (59 MB)](https://drive.google.com/open?id=1zYl0oTMdQnk6afGu8ph7DqVMjjGFjUNq)**
 
 - FreeMod
   - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (Shoegazer) \[Another\]](https://osu.ppy.sh/beatmapsets/675163#mania/1428368)
@@ -587,7 +587,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Group stage
 
-**[Download the mappack here! (68 MB)](https://drive.google.com/open?id=16qRiqTB1Oa0IB39J63e-8Xj2pi-_Cp9t "Google Drive")**
+**[Download the mappack here! (68 MB)](https://drive.google.com/open?id=16qRiqTB1Oa0IB39J63e-8Xj2pi-_Cp9t)**
 
 - FreeMod
   - [marasy - stella=steLLa (Fontes) \[Fontes' Hard\]](https://osu.ppy.sh/beatmapsets/562180#mania/1188579)
@@ -604,7 +604,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Post-qualification play-offs
 
-**[Download the mappack here! (47 MB)](https://drive.google.com/open?id=1bGjzgSoAqaQwHcBvb0Djkb4hwDQM3bqH "Google Drive")**
+**[Download the mappack here! (47 MB)](https://drive.google.com/open?id=1bGjzgSoAqaQwHcBvb0Djkb4hwDQM3bqH)**
 
 - FreeMod
   - [S-C-U feat. Qrispy Joybox - anemone (Julie) \[4K Hyper\]](https://osu.ppy.sh/beatmapsets/283841#mania/644701)
@@ -621,7 +621,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the mappack here! (13 MB)](https://drive.google.com/open?id=1swGRoTuTe8KoFuOqRfpR0q3OZEwdi0RQ "Google Drive")**
+**[Download the mappack here! (13 MB)](https://drive.google.com/open?id=1swGRoTuTe8KoFuOqRfpR0q3OZEwdi0RQ)**
 
 - FreeMod
   - [FLOOR BABA - Whole Pocket (Lenfried-) \[8 ball\]](https://osu.ppy.sh/beatmapsets/1616314)
@@ -633,7 +633,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals week 2
 
-**[Download the mappack here! (103 MB)](https://drive.google.com/open?id=1yCyKYVnR2qT4KPGcEhAcatk09frB1F4y "Google Drive")**
+**[Download the mappack here! (103 MB)](https://drive.google.com/open?id=1yCyKYVnR2qT4KPGcEhAcatk09frB1F4y)**
 
 - FreeMod
   - [tarolabo - Chikyuu Tou Devo^shon (porter9876) \[Lv.21 Delaymaster\]](https://osu.ppy.sh/beatmapsets/352411#mania/776593)
@@ -656,7 +656,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals week 1
 
-**[Download the mappack here! (84 MB)](https://drive.google.com/open?id=1JuyF0Ca64uTguA6k-gglKCA4-QfBGGYu "Google Drive")**
+**[Download the mappack here! (84 MB)](https://drive.google.com/open?id=1JuyF0Ca64uTguA6k-gglKCA4-QfBGGYu)**
 
 - FreeMod
   - [xi - Zephyros (Remillion Cross) \[7K Extra\]](https://osu.ppy.sh/beatmapsets/140189#mania/350280)
@@ -679,7 +679,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (88 MB)](https://drive.google.com/open?id=1tsG7KQ45UrurFJsYJ2f6Rpo2rvjoWROr "Google Drive")**
+**[Download the mappack here! (88 MB)](https://drive.google.com/open?id=1tsG7KQ45UrurFJsYJ2f6Rpo2rvjoWROr)**
 
 - FreeMod
   - [Touyama Nao - Megumegu\*Fire Endless Night (Rumia-) \[Rumi's Fire!\]](https://osu.ppy.sh/beatmapsets/150861#mania/373321)
@@ -700,7 +700,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (68 MB)](https://drive.google.com/open?id=13vhyw4kBR4H0-XdWvic7G00HtRmlxoy2 "Google Drive")**
+**[Download the mappack here! (68 MB)](https://drive.google.com/open?id=13vhyw4kBR4H0-XdWvic7G00HtRmlxoy2)**
 
 - FreeMod
   - [Nekomata Master feat. Hayashi Momoko - Rainbow After Snow (ShikiNoHollow) \[7K MX\]](https://osu.ppy.sh/beatmapsets/160162#mania/391682)
@@ -719,7 +719,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Group stage
 
-**[Download the mappack here! (54 MB)](https://drive.google.com/open?id=1W0G2STSSdx9forc9h9bQ19aBdHlt3Sh6 "Google Drive")**
+**[Download the mappack here! (54 MB)](https://drive.google.com/open?id=1W0G2STSSdx9forc9h9bQ19aBdHlt3Sh6)**
 
 - FreeMod
   - [Tamiyasu Tomoe, Aoba Ringo - Crayon Tulip (arcwinolivirus) \[7K 'Loli Overload' Arc\]](https://osu.ppy.sh/beatmapsets/516601#mania/1097882)
@@ -736,7 +736,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the mappack here! (14 MB)](https://drive.google.com/open?id=10vZt9-5LNbTYRG_23M5IWTi0sZCSr-zO "Google Drive")**
+**[Download the mappack here! (14 MB)](https://drive.google.com/open?id=10vZt9-5LNbTYRG_23M5IWTi0sZCSr-zO)**
 
 - FreeMod
   - [Machinedrum - Icya (cut) (Lenfried-) \[Urban Biology\]](https://osu.ppy.sh/beatmapsets/1624698)
@@ -746,13 +746,13 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-All results are compiled for public viewing via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSTTxOVuAkvW6s2pSwL2torJvD-RLSNKCsfY61WuUfzvJorkMT59Kp_le2p5L6lfGI370UxXpbYCVgS/pubhtml "Google Sheets")
+All results are compiled for public viewing via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSTTxOVuAkvW6s2pSwL2torJvD-RLSNKCsfY61WuUfzvJorkMT59Kp_le2p5L6lfGI370UxXpbYCVgS/pubhtml)
 
 ### osu!
 
 #### Finals
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTp38QY9JuZqTR8rIDW__--qNpzDKfD8ny_HvtNovgr6nD8DGFbYtpbv8sdaIQ_OivaQxWcWpvGcIVo/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTp38QY9JuZqTR8rIDW__--qNpzDKfD8ny_HvtNovgr6nD8DGFbYtpbv8sdaIQ_OivaQxWcWpvGcIVo/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
@@ -760,7 +760,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Semifinals
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZ_ABri2Y11RKBJ1jRgumW0xtaN9NzyPmHgvr8Zl5ZLCLFM4_IxNUJvtMNKpETs36mzPD41GGD2RjR/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZ_ABri2Y11RKBJ1jRgumW0xtaN9NzyPmHgvr8Zl5ZLCLFM4_IxNUJvtMNKpETs36mzPD41GGD2RjR/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
@@ -769,7 +769,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Quarterfinals
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXngKCiU2GDs5m1sJ8zWUkfBf1KO3rayxja95OiKq1GRq79GJVIrXGqhPEyIeLpyd6oz2hvj-yq22W/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXngKCiU2GDs5m1sJ8zWUkfBf1KO3rayxja95OiKq1GRq79GJVIrXGqhPEyIeLpyd6oz2hvj-yq22W/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
@@ -780,7 +780,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Round of 16
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQFYgXyCLIdpzaRLLB1uw0JnSaJKBHRi-Z8nDH1ZuoSwVaxfEeukQLGz7SGdHrq4mIWlBEAmcY3iaU9/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQFYgXyCLIdpzaRLLB1uw0JnSaJKBHRi-Z8nDH1ZuoSwVaxfEeukQLGz7SGdHrq4mIWlBEAmcY3iaU9/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -795,7 +795,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Round of 32
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKeADebYufYGDAWV_WSrbaRLEmaiASQz4Nr1lGS4eH_YqHeePLB_3lbe06JPVVdByR-pGdPndjI4My/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKeADebYufYGDAWV_WSrbaRLEmaiASQz4Nr1lGS4eH_YqHeePLB_3lbe06JPVVdByR-pGdPndjI4My/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -818,11 +818,11 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Qualifiers
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9sVblR0IxsTCs8CX-rOftFqOBjRPXidPHGD0K0ZKvqW6k1XtuvEzhvzwEfvRzo0DkGkDboBSDszL1/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9sVblR0IxsTCs8CX-rOftFqOBjRPXidPHGD0K0ZKvqW6k1XtuvEzhvzwEfvRzo0DkGkDboBSDszL1/pubhtml)
 
 ### osu!catch
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSJnP4qowpYEvx2txysAxgoOkmil9M52iU8sigiuRgvK3ku2KkYtfIx93mtc2xdYeyKdgWdwJXJlzda/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSJnP4qowpYEvx2txysAxgoOkmil9M52iU8sigiuRgvK3ku2KkYtfIx93mtc2xdYeyKdgWdwJXJlzda/pubhtml)
 
 #### Finals week 2
 
@@ -833,7 +833,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Finals week 1
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTZ3x-2RIbl6iO9ArNrsf4sS3V_iCWMHDs2Y1DbxTBdyd9jx6xW8y-BoH1Ez1SOUhiLI-GjfHRjZORf/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTZ3x-2RIbl6iO9ArNrsf4sS3V_iCWMHDs2Y1DbxTBdyd9jx6xW8y-BoH1Ez1SOUhiLI-GjfHRjZORf/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -844,7 +844,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Semifinals and Loser's Bracket Round 2 and 3
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTFFcGTzqw3MhFpMiePVhY0UcfL6wi7_ZMdpS-MEkUvK12A3FE4WOeI_mZQnWoWi4XYd3cJ1WRpUYV3/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTFFcGTzqw3MhFpMiePVhY0UcfL6wi7_ZMdpS-MEkUvK12A3FE4WOeI_mZQnWoWi4XYd3cJ1WRpUYV3/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -859,7 +859,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Quarterfinals and Loser's Bracket Round 1
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxaDJMcbyDDibbLrg3hbrMkNxrdj7ZdULGp5xPsNCBPEcokxjSwIIUXPUns5dJ2PBnlyKwuR0KjTHc/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxaDJMcbyDDibbLrg3hbrMkNxrdj7ZdULGp5xPsNCBPEcokxjSwIIUXPUns5dJ2PBnlyKwuR0KjTHc/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -874,7 +874,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Round of 16
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_9weiuICWN7Owh9dGCiPw21e4-TP97P8eubdz-dl0NOl0ZO-O0mQ0D7guR7Yfd2ONa4iVvWD9mX_C/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_9weiuICWN7Owh9dGCiPw21e4-TP97P8eubdz-dl0NOl0ZO-O0mQ0D7guR7Yfd2ONa4iVvWD9mX_C/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -891,7 +891,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Finals week 2
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTL3xtDauofeIZD8Di_nwMYVmxFevlfDkJhX_E0JNdQbcp3oWiu6e88csHkBA0G7yznhOwUkabOPcwW/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTL3xtDauofeIZD8Di_nwMYVmxFevlfDkJhX_E0JNdQbcp3oWiu6e88csHkBA0G7yznhOwUkabOPcwW/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
@@ -900,7 +900,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Finals week 1
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vReiIXEklSaiJKTPXmDMqwx1VHUh-kpJu6tOc1IADpOuOoas6c58_P-kcNZXYuFa4Qq_vadjJJYn1px/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vReiIXEklSaiJKTPXmDMqwx1VHUh-kpJu6tOc1IADpOuOoas6c58_P-kcNZXYuFa4Qq_vadjJJYn1px/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -911,7 +911,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Semifinals and Loser's Bracket Round 1
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTOVn9X9r6DT6XxvK0-gwvIvsx_pomDt6xzTcucbqTsU2ID5deCtRox8BN-YIqGZ17tJ-y1T5Xywoys/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTOVn9X9r6DT6XxvK0-gwvIvsx_pomDt6xzTcucbqTsU2ID5deCtRox8BN-YIqGZ17tJ-y1T5Xywoys/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -922,7 +922,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Quarterfinals
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRFEzcUVlpMMYroSYsEwsiaop5BnH_1JCUZGPk-EALl4BxAWL0FyIbISaio8QdCEMi1A_2HRxOiX-gl/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRFEzcUVlpMMYroSYsEwsiaop5BnH_1JCUZGPk-EALl4BxAWL0FyIbISaio8QdCEMi1A_2HRxOiX-gl/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
@@ -933,7 +933,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Group stage
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-wQqRLZwP2JtjMxRgTv455loKhumRDKNMbAT0GAUEIsI42MRykzbroO_mLV2ZNGMiGvPRGdaH7Fup/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-wQqRLZwP2JtjMxRgTv455loKhumRDKNMbAT0GAUEIsI42MRykzbroO_mLV2ZNGMiGvPRGdaH7Fup/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -964,7 +964,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Post-qualification play-offs
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT5UEDpcOlrZaEhANSMyb5CiDN72HXwNCrhhwqRUk6WFr0tXTHyol1aPywoxmGqls_usg8bXP8TMa4K/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT5UEDpcOlrZaEhANSMyb5CiDN72HXwNCrhhwqRUk6WFr0tXTHyol1aPywoxmGqls_usg8bXP8TMa4K/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -987,13 +987,13 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Qualifiers
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR1VVVMBwpYsJ284jVK7thpJBxPbTbpBeUrBb7-S2T-elmd1dQgNy49ADLfLpD7-854gShIJSm8wcnj/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR1VVVMBwpYsJ284jVK7thpJBxPbTbpBeUrBb7-S2T-elmd1dQgNy49ADLfLpD7-854gShIJSm8wcnj/pubhtml)
 
 ### osu!mania 7K
 
 #### Finals week 2
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR4mnYFhlk2JVzBkuX8RSQALKapivzDKcSUHO8cLek9GirnEQIYvOvbVOrlCr3eYStHA7PdJv2S8C7N/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR4mnYFhlk2JVzBkuX8RSQALKapivzDKcSUHO8cLek9GirnEQIYvOvbVOrlCr3eYStHA7PdJv2S8C7N/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
@@ -1002,7 +1002,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Finals week 1
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSplxfSSoM7zta57Xa_IlqoEqHZb8lZq3RVa0yVaD5SsfLaJfAcEYetuHkQAqgxgCH6ETJkX-DaVmL1/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSplxfSSoM7zta57Xa_IlqoEqHZb8lZq3RVa0yVaD5SsfLaJfAcEYetuHkQAqgxgCH6ETJkX-DaVmL1/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1013,7 +1013,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Semifinals and Loser's Bracket Round 1
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS08AT5AhFzU2mnfm5wQwIHo_tkO2sjiME79G3KqdCVPRbI1qL_7P78ahehfhZE5k1GJc-fwa5zZ85U/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS08AT5AhFzU2mnfm5wQwIHo_tkO2sjiME79G3KqdCVPRbI1qL_7P78ahehfhZE5k1GJc-fwa5zZ85U/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1024,7 +1024,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Quarterfinals
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTvCCksLFHwERSX-QL_ICRv8SptBrnlt-bjzlxQgk40gADlWlPWV9RDIOAisFC83wOseSvTkuHirYHY/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTvCCksLFHwERSX-QL_ICRv8SptBrnlt-bjzlxQgk40gADlWlPWV9RDIOAisFC83wOseSvTkuHirYHY/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1035,7 +1035,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Group stage
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTkPkZCdLOxPrTGnbO7exfnZ9JfCy4EACUbBZa1L_n6MmJK45LL7-dWw1NdAw6xK1j-w7l7pZ83dSl/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTkPkZCdLOxPrTGnbO7exfnZ9JfCy4EACUbBZa1L_n6MmJK45LL7-dWw1NdAw6xK1j-w7l7pZ83dSl/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1063,7 +1063,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Qualifiers
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSqPGL8QtTEcM4h0aL4j4WFN00ADELKeKSMQJvqy9JPJet-0h-ccRj7vBCmzz5Yf4AFBzykchawwEAk/pubhtml "Google Sheets")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSqPGL8QtTEcM4h0aL4j4WFN00ADELKeKSMQJvqy9JPJet-0h-ccRj7vBCmzz5Yf4AFBzykchawwEAk/pubhtml)
 
 ## Ruleset
 
@@ -1124,7 +1124,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - All players that enter the tournament osu!mania 4K and 7K divisions are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players, or as registration numbers may see fit. This round will also serve as the division's seeding phase.
 - Players are scheduled alongside each other to play a mini-pool of 4 notecharts twice in a multiplayer room. The notecharts are specially-made for the qualifying round of the tournament and are only uploaded minutes before the Qualifier pools are revealed. All players are obliged to play ALL of the notecharts during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they will be allowed to catch up after the rest of the notecharts have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
 - The room name format is as follows: ``oPHST18: (<4K/7K> Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There will be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
-- Players are to be ranked according to the weighted average of their [Score Rating](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217 "Google Sheets") on each notechart. This is to take into consideration the variation created by the difficulty spread of the pools, and will pool players according to their overall performance.
+- Players are to be ranked according to the weighted average of their [Score Rating](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217) on each notechart. This is to take into consideration the variation created by the difficulty spread of the pools, and will pool players according to their overall performance.
 - 4K Division players who advance are then sorted into groups depending on their standing and will play on a Best of 7 Play-off round the week after qualification in order to reduce the field to 16 players for the group stage. They are stated as follows:
   - **Seeds 1 to 4** will automatically advance to the Group Stage and will not play during this round.
   - **Seeds 9 to 24** will face each other (9 vs 24, 10 vs 23, so on) in this round and the winners will go to the Group Stage.
@@ -1216,7 +1216,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Qualification criteria (osu!mania)
 
-- During the staff discussions on the [Springtime osu!mania 4k Free-for-all Tournament](/wiki/Tournaments/SOFT/3) Qualification Criteria, there have been plans on adopting changes based on how the meta has shifted ever since its first edition. This has made variations on the scores obtained much more prevalent on recent tournaments which have used the same qualifier format, which omPHST has followed to during its past two editions. There have been proposals to move from the aggregate score format which has been used for the past two years to another seeding criteria. Some of which discussed were **(Weighted) Average of ranks** or a proposed **[Score Rating System](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217 "Google Sheets")** by ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) which computes a rating of the scores obtained according to which quartile it falls under. The effects of the latter system has been explained on the linked illustration, and for additional data regarding this, the tournament will adopt this system for the qualifiers.
+- During the staff discussions on the [Springtime osu!mania 4k Free-for-all Tournament](/wiki/Tournaments/SOFT/3) Qualification Criteria, there have been plans on adopting changes based on how the meta has shifted ever since its first edition. This has made variations on the scores obtained much more prevalent on recent tournaments which have used the same qualifier format, which omPHST has followed to during its past two editions. There have been proposals to move from the aggregate score format which has been used for the past two years to another seeding criteria. Some of which discussed were **(Weighted) Average of ranks** or a proposed **[Score Rating System](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217)** by ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) which computes a rating of the scores obtained according to which quartile it falls under. The effects of the latter system has been explained on the linked illustration, and for additional data regarding this, the tournament will adopt this system for the qualifiers.
 
 ### Disconnection clauses
 

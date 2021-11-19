@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2015 logo](img/logo.png)
 
-The **osu! Taiko World Cup 2015** (***TWC 2015***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth installment of the osu!taiko World Cup.
+The **osu! Taiko World Cup 2015** (***TWC 2015***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! Taiko World Cup 2015** (***TWC 2015***) was a country-based osu!taiko
 | --: | :-- |
 | Registration phase | 2015-01-12/2015-02-22 |
 | Live drawings | 2015-02-28 (14:00 UTC) |
-| Group Stage | 2015-03-07/2015-03-08 |
+| Group stage | 2015-03-07/2015-03-08 |
 | Round of 16 | 2015-03-14/2015-03-15 |
 | Quarterfinals | 2015-03-21/2015-03-22 |
 | Semifinals | 2015-03-28/2015-03-29 |
@@ -27,9 +27,9 @@ The **osu! Taiko World Cup 2015** (***TWC 2015***) was a country-based osu!taiko
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, "Taiko Champion" user title for one year, osu! merchandise |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge, "Taiko Champion" user title for one year, osu! merchandise |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter, unique profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter, unique profile badge |
 
 ![](img/badge.jpg "TWC 2015 winner badge") ![](img/badge2.jpg "TWC 2015 2nd place badge") ![](img/badge3.jpg "TWC 2015 3rd place badge")
 
@@ -48,7 +48,7 @@ The osu! Taiko World Cup 2015 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/279723)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Livestream](https://www.twitch.tv/osulive)
 
 ## Participants
 
@@ -90,6 +90,8 @@ The osu! Taiko World Cup 2015 was run by various community members.
 | ![][flag_KR] South Korea | ![][flag_DE] Germany | ![][flag_FR] France | ![][flag_HK] Hong Kong |
 | ![][flag_TW] Taiwan | ![][flag_CN] China | ![][flag_JP] Japan | ![][flag_US] United States |
 
+![](img/bracket.jpg "TWC 2015 bracket")
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -100,15 +102,13 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **Taiwan** (**[-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)**, [howar5041](https://osu.ppy.sh/users/584411), [jordan\_sur](https://osu.ppy.sh/users/2960947), [mliencheng](https://osu.ppy.sh/users/586659), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [zx\_baka\_0502442](https://osu.ppy.sh/users/457766)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] **France** (**[Nashmun](https://osu.ppy.sh/users/49031)**, [\_Gezo\_](https://osu.ppy.sh/users/481582), [Fraolinch](https://osu.ppy.sh/users/205257), [Jinyan](https://osu.ppy.sh/users/669531), [omegaflo](https://osu.ppy.sh/users/83291), [TimmyAkmed](https://osu.ppy.sh/users/1799973)) |
 
-![TWC 2015 bracket](img/bracket.jpg)
-
 ## Mappools
 
 ### Finals
 
 **This mappool was used on Finals week 1 and Finals week 2.**
 
-**[Download the mappack here! (103 MB)](https://www.mediafire.com/download/z5uccj5aai47335/TWC_2015_Finals.rar "MediaFire")**
+**[Download the mappack here! (103 MB)](https://www.mediafire.com/download/z5uccj5aai47335/TWC_2015_Finals.rar)**
 
 - NoMod
   - [MuryokuP - Frozen World (c36098651) \[Firce777's North Pole\]](https://osu.ppy.sh/beatmapsets/194955#taiko/465192)
@@ -138,7 +138,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (160 MB)](https://www.mediafire.com/download/p6aujpf5ogp3boy/TWC_2015_Semi_Finals.rar "MediaFire")**
+**[Download the mappack here! (160 MB)](https://www.mediafire.com/download/p6aujpf5ogp3boy/TWC_2015_Semi_Finals.rar)**
 
 - NoMod
   - [Renard - Terminal (nold\_1702) \[mint's Inner Oni\]](https://osu.ppy.sh/beatmapsets/102282#taiko/291218)
@@ -168,7 +168,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (113 MB)](https://www.mediafire.com/download/z12avi4i656s5yl/TWC_2015_Quarter_Finals.rar "MediaFire")**
+**[Download the mappack here! (113 MB)](https://www.mediafire.com/download/z12avi4i656s5yl/TWC_2015_Quarter_Finals.rar)**
 
 - NoMod
   - [44teru-k - F.I (AngelHoney) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/25828#taiko/125530)
@@ -198,7 +198,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (152 MB)](https://www.mediafire.com/download/ep42t826268v1ra/TWC_2015_Round_of_16.rar "MediaFire")**
+**[Download the mappack here! (152 MB)](https://www.mediafire.com/download/ep42t826268v1ra/TWC_2015_Round_of_16.rar)**
 
 - NoMod
   - [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/140418#taiko/350721)
@@ -226,9 +226,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Resonecia - Legende (lolcubes) \[Legendary Oni\]](https://osu.ppy.sh/beatmapsets/155063#taiko/380524)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (75 MB)](https://www.mediafire.com/download/zyyc0ec65q9pp22/TWC_2015_Group_Stage.rar "MediaFire")**
+**[Download the mappack here! (75 MB)](https://www.mediafire.com/download/zyyc0ec65q9pp22/TWC_2015_Group_Stage.rar)**
 
 - NoMod
   - [Hige Driver join. SELEN - Dadadadadadadadadada (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/237306#taiko/549277)
@@ -343,7 +343,7 @@ Sunday, 15 March 2015:
 | ![][flag_US] **United States** | **5** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/14732731) |
 | Indonesia ![][flag_ID] | 2 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/14733838) |
 
-### Group Stage
+### Group stage
 
 Saturday, 7 March 2015:
 

@@ -10,7 +10,7 @@ tags:
 
 ![OTC #2 logo](img/logo.png)
 
-The **osu! Technical Championship #2** (***OTC #2***) was a 3v3 double elimination osu! tournament hosted by ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669). osu! Technical Championship featured complex rhythms and sliders, unorthodox patterns, and a wide variety of technical mapping in its mappools. It was the second installment of the osu! Technical Championship.
+The **osu! Technical Championship #2** (***OTC #2***) was a 3v3 double elimination osu! tournament hosted by ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669). osu! Technical Championship featured complex rhythms and sliders, unorthodox patterns, and a wide variety of technical mapping in its mappools. It was the second instalment of the osu! Technical Championship.
 
 ## Tournament schedule
 
@@ -29,7 +29,7 @@ The **osu! Technical Championship #2** (***OTC #2***) was a 3v3 double eliminati
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter tag, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter, unique profile badge |
 
 ![](img/badge.png "OTC #2 winner badge")
 
@@ -53,9 +53,9 @@ The osu! Technical Championship #2 was run by various osu! community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/716902)
-- [OTC Discord server](https://discord.gg/GGMmSu5 "Discord")
-- [Livestream](https://www.twitch.tv/osutechnicalchampionship "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRed7lghpc9idlDYxeX5gpK60LKKzSztLXJ_9fU34x4Dbk0J9QYyUwE0x7zEqHoP2uaLw4gDkkj18h5/pubhtml "Google Sheets")**
+- [OTC Discord server](https://discord.gg/GGMmSu5)
+- [Livestream](https://www.twitch.tv/osutechnicalchampionship)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRed7lghpc9idlDYxeX5gpK60LKKzSztLXJ_9fU34x4Dbk0J9QYyUwE0x7zEqHoP2uaLw4gDkkj18h5/pubhtml)**
 
 ## Participants
 
@@ -111,11 +111,11 @@ The osu! Technical Championship #2 was run by various osu! community members.
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating up |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Latex Intolerance |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Rubber Conquest** (![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_KR] [Cookiezi](https://osu.ppy.sh/users/124493), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Floating up** (![][flag_KR] **[Gomo Pslvarh](https://osu.ppy.sh/users/1206417)**, ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763), ![][flag_TW] [\_Shield](https://osu.ppy.sh/users/1860489), ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397), ![][flag_KR] [Pring](https://osu.ppy.sh/users/3478883), ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Latex Intolerance** (![][flag_CA] **[peng](https://osu.ppy.sh/users/6043452)**, ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Donkey Kong](https://osu.ppy.sh/users/4787150), ![][flag_US] [Woey](https://osu.ppy.sh/users/3792472), ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581), ![][flag_GB] [Jameslike](https://osu.ppy.sh/users/2415743)) |
 
 ## Mappools
 
@@ -123,7 +123,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (159 MB)](http://www.mediafire.com/file/8efiufeeekqvc92/OTC+%232+Finals+Mappool.zip "MediaFire")**
+**[Download the mappack here! (159 MB)](http://www.mediafire.com/file/8efiufeeekqvc92/OTC+%232+Finals+Mappool.zip)**
 
 - NoMod
   - [lapix - Labyrinth (Akali) \[Who's the fucking gangster?\]](https://osu.ppy.sh/beatmapsets/615878#osu/1299008)
@@ -149,7 +149,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (112 MB)](http://www.mediafire.com/file/wgait7rkr0fmg6o/OTC+%232+Semifinals+Mappool.zip "MediaFire")**
+**[Download the mappack here! (112 MB)](http://www.mediafire.com/file/wgait7rkr0fmg6o/OTC+%232+Semifinals+Mappool.zip)**
 
 - NoMod
   - [Hommarju - Rock It (toybot) \[Blast Off\]](https://osu.ppy.sh/beatmapsets/700421#osu/1484308)
@@ -175,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (153 MB)](http://www.mediafire.com/file/kfj2yg3mek1og6e/OTC+%232+Quarterfinals+Mappool.zip "MediaFire")**
+**[Download the mappack here! (153 MB)](http://www.mediafire.com/file/kfj2yg3mek1og6e/OTC+%232+Quarterfinals+Mappool.zip)**
 
 - NoMod
   - [succducc - me & u (Nathan) \[together\]](https://osu.ppy.sh/beatmapsets/699749#osu/1481624)
@@ -201,7 +201,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (117 MB)](http://www.mediafire.com/file/hffn6onh89b658x/OTC+%232+Ro16+Mappool.zip "MediaFire")**
+**[Download the mappack here! (117 MB)](http://www.mediafire.com/file/hffn6onh89b658x/OTC+%232+Ro16+Mappool.zip)**
 
 - NoMod
   - [Nekomata Master+ - Proof of the existence (Alheak) \[Expert\]](https://osu.ppy.sh/beatmapsets/427864#osu/923589)
@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (153 MB)](http://www.mediafire.com/file/7sesz4tdhk3e3jn/OTC+%232+Group+Stage+Mappool.zip "MediaFire")**
+**[Download the mappack here! (153 MB)](http://www.mediafire.com/file/7sesz4tdhk3e3jn/OTC+%232+Group+Stage+Mappool.zip)**
 
 - NoMod
   - [Sota Fujimori - WOBBLE IMPACT \[Black Another\]](http://osu.uu.gl/s/166337)
@@ -454,7 +454,7 @@ Monday, 16 April 2018:
    - Each team receives two bans each.
    - Teams are not required to ban two maps and may ban one or zero maps if they wish.
 6. The captain of the highest rolling team then choose the first map to be played. Use the `!mp map <Beatmap ID>` command to select the chosen map. Apply the appropriate mods and once both teams have readied up, start the map with the `!mp start 5` command.
-   - The beatmap ID for each map can be found under the appropriate mappool through the [statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRed7lghpc9idlDYxeX5gpK60LKKzSztLXJ_9fU34x4Dbk0J9QYyUwE0x7zEqHoP2uaLw4gDkkj18h5/pubhtml# "Google Sheets").
+   - The beatmap ID for each map can be found under the appropriate mappool through the [statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRed7lghpc9idlDYxeX5gpK60LKKzSztLXJ_9fU34x4Dbk0J9QYyUwE0x7zEqHoP2uaLw4gDkkj18h5/pubhtml#).
 7. Once the first map is complete, the lowest rolling team will then choose second map. Use the same procedure as the last step, then continue alternating between teams for picks until the match is finished.
    - If both teams reach match point (i.e. both teams are one point away from victory) the tiebreaker will be played to decide the winner of the match.
    - The tiebreaker is FreeMod. The allowed mods are EZ, HR, HD, and FL. Combining mods is allowed, as well as using nomod. All mods are optional.

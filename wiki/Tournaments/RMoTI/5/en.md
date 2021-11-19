@@ -6,7 +6,7 @@ tags:
 
 # Rapid Monthly osu! Tournament Invitational 5
 
-The **Rapid Monthly osu! Tournament Invitational 5** (***RMoTI 5***) was an exclusive osu! tournament hosted by the Rapid Tournaments team. It was the fifth installment of the Rapid Monthly osu! Tournament Invitational.
+The **Rapid Monthly osu! Tournament Invitational 5** (***RMoTI 5***) was an exclusive osu! tournament hosted by the Rapid Tournaments team. It was the fifth instalment of the Rapid Monthly osu! Tournament Invitational.
 
 ## Tournament schedule
 
@@ -59,7 +59,7 @@ Anyone was allowed to predict the outcome of the tournament until the starting d
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/741126)
-- **[Challonge](https://challonge.com/rmotinvitational5 "Challonge")**
+- **[Challonge](https://challonge.com/rmotinvitational5)**
 
 ## Participants
 
@@ -101,11 +101,11 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_RU] [Essi](https://osu.ppy.sh//users/8660244) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403) |
 
-## Mappools
+## Mappool
 
 There was only one mappool for all matches, made of beatmaps from the last four RMoT mappools. There were six tiebreaker beatmaps, one for each stage. Every tiebreaker from the last four RMoTs and two new beatmaps were picked for tiebreaker.
 
-**[Download the mappack here! (182 MB)](http://www.mediafire.com/file/2telo31u7xasasn/RMoT%20Invitational%20%235%20-%20Mappool.zip "MediaFire")**
+**[Download the mappack here! (182 MB)](http://www.mediafire.com/file/2telo31u7xasasn/RMoT%20Invitational%20%235%20-%20Mappool.zip)**
 
 - NoMod
   - [BTS - FIRE (Nathan) [apple's Insane]](https://osu.ppy.sh/beatmapsets/479385#osu/1068523)
@@ -142,7 +142,7 @@ There was only one mappool for all matches, made of beatmaps from the last four 
 1. The tournament will be held in 1v1 double-elimination format with traditional seeding.
 2. The matches will be played using Score V2 and TeamVS settings.
 3. A referee will be present in every match and every match will be streamed, with additional commentators when possible.
-4. The tournament will be held over three weekends, joining the [Discord server](https://discord.gg/9sKe7nF "Discord") is mandatory at least for the duration of the tournament.
+4. The tournament will be held over three weekends, joining the [Discord server](https://discord.gg/9sKe7nF) is mandatory at least for the duration of the tournament.
 5. The **Winning conditions** for each stage will be:
    - Round of 16 and Losers Round 1 are Best-of-5.
    - Quarterfinals, Semifinals, Losers Round 2, and Losers Round 3 are Best-of-7.

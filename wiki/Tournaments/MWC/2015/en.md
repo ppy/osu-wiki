@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2015 logo](img/logo.png)
 
-The **osu!mania 4K World Cup 2015** (***MWC 4K 2015***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the second installment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2015** (***MWC 4K 2015***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the second instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **osu!mania 4K World Cup 2015** (***MWC 4K 2015***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2015-07-13/2015-08-02 |
 | Live drawings | 2015-08-16 (14:00 UTC) |
-| Group Stage | 2015-08-22/2015-08-23 |
+| Group stage | 2015-08-22/2015-08-23 |
 | Round of 16 | 2015-08-30 |
 | Quarterfinals | 2015-09-05/2015-09-06 |
 | Semifinals | 2015-09-12/2015-09-13 |
@@ -29,9 +29,9 @@ The **osu!mania 4K World Cup 2015** (***MWC 4K 2015***) was a country-based osu!
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, osu! merchandise, "osu!mania Champion" user title for one year |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge, osu! merchandise, "osu!mania Champion" user title for one year |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter, unique profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter, unique profile badge |
 
 ![](img/badge.jpg "MWC 2015 winner badge") ![](img/badge2.jpg "MWC 2015 2nd place badge") ![](img/badge3.jpg "MWC 2015 3rd place badge")
 
@@ -50,7 +50,7 @@ The osu!mania 4K World Cup 2015 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/345431)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Livestream](https://www.twitch.tv/osulive)
 
 ## Participants
 
@@ -102,9 +102,11 @@ The osu!mania 4K World Cup 2015 was run by various community members.
 | **G** | ![][flag_GB] United Kingdom | ![][flag_FR] France | ![][flag_FI] Finland | ![][flag_IL] Israel |
 | **H** | ![][flag_US] United States | ![][flag_TW] Taiwan | ![][flag_CL] Chile | ![][flag_VN] Vietnam |
 
-![MWC 4K 2015 podium](img/podium.jpg)
+![](img/brackets.jpg "MWC 4K 2015 bracket")
 
-![MWC 4K 2015 bracket](img/brackets.jpg)
+## Podium
+
+![](img/podium.jpg "MWC 4K 2015 podium")
 
 ## Mappools
 
@@ -112,7 +114,7 @@ The osu!mania 4K World Cup 2015 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-**[Download the mappack here!](https://www.mediafire.com/download/3z76r2xd707sl2n/MWC_4K_2015_Finals.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/3z76r2xd707sl2n/MWC_4K_2015_Finals.rar)**
 
 - FreeMod
   - [LeaF - LeaF Style Super Shredder (Cherry Blossom) \[Fullerene's 4K Shredder\]](https://osu.ppy.sh/beatmapsets/179779#mania/443034)
@@ -138,7 +140,7 @@ The osu!mania 4K World Cup 2015 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here!](https://www.mediafire.com/download/mwzkd8fx1hb8973/MWC_4K_2015_Semifinals.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/mwzkd8fx1hb8973/MWC_4K_2015_Semifinals.rar)**
 
 - FreeMod
   - [you - Hold Angel (Shoegazer) \[Insane\]](https://osu.ppy.sh/beatmapsets/292422#mania/763511)
@@ -162,7 +164,7 @@ The osu!mania 4K World Cup 2015 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here!](https://www.mediafire.com/download/0dhr36bhyp8lzwb/MWC_4K_2015_Quarter_Finals.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/0dhr36bhyp8lzwb/MWC_4K_2015_Quarter_Finals.rar)**
 
 - FreeMod
   - [xi - Garyou Tensei (LNP-) \[4K MX\]](https://osu.ppy.sh/beatmapsets/210610#mania/530544)
@@ -184,7 +186,7 @@ The osu!mania 4K World Cup 2015 was run by various community members.
 
 ### Round of 16
 
-**[Download the map pack here!](https://www.mediafire.com/download/a2deedhozg0wzcm/MWC_4K_2015_Round_of_16_.rar "MediaFire")**
+**[Download the map pack here!](https://www.mediafire.com/download/a2deedhozg0wzcm/MWC_4K_2015_Round_of_16_.rar)**
 
 - FreeMod
   - [Junk - Qualia (Mashiro-Fang) \[S.Star's 4K MX\]](https://osu.ppy.sh/beatmapsets/177155#mania/432217)
@@ -204,9 +206,9 @@ The osu!mania 4K World Cup 2015 was run by various community members.
 - Tiebreaker
   - **[Halozy - Kanshou no Matenrou (Feerum) \[World's End\]](https://osu.ppy.sh/beatmapsets/251365#mania/577429)**
 
-### Group Stage
+### Group stage
 
-**[Download the map pack here!](https://www.mediafire.com/download/ea93b8bb99w1vt5/MWC_4K_2015_Group_Stage.rar "MediaFire")**
+**[Download the map pack here!](https://www.mediafire.com/download/ea93b8bb99w1vt5/MWC_4K_2015_Group_Stage.rar)**
 
 - FreeMod
   - [Qrispy Joybox - snow prism (LNP-) \[MX\]](https://osu.ppy.sh/beatmapsets/186096#mania/487578)
@@ -306,7 +308,7 @@ Sunday, 30 August 2015:
 | Poland ![][flag_PL] | 1 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/18614619) |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/18616004) |
 
-### Group Stage
+### Group stage
 
 Saturday, 22 August 2015:
 

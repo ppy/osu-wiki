@@ -8,7 +8,7 @@ tags:
 
 ![EUTT 2018 logo](img/logo.png)
 
-The **European Taiko Tournament 2018** (***EUTT 2018***) was a 1v1 European double elimination osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). It was the first installment of the European Taiko Tournament.
+The **European Taiko Tournament 2018** (***EUTT 2018***) was a 1v1 European double elimination osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). It was the first instalment of the European Taiko Tournament.
 
 ## Tournament schedule
 
@@ -51,10 +51,10 @@ The European Taiko Tournament 2018 was run by various osu!taiko community member
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/813769)
-- [Livestream](https://www.twitch.tv/osutaikolive "Twitch")
-- [EUTT Discord server](https://discord.gg/5jb2eun "Discord")
-- [Challonge brackets](https://challonge.com/4lhs6ms "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ70QVoohFSUWL_InYhTzJ-I7kG56EnIcXRfgAGw9ciHVkQSp3JJfDcQHwi8xnbKWnKCWZlbuxsvzaW/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osutaikolive)
+- [EUTT Discord server](https://discord.gg/5jb2eun)
+- [Challonge brackets](https://challonge.com/4lhs6ms)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ70QVoohFSUWL_InYhTzJ-I7kG56EnIcXRfgAGw9ciHVkQSp3JJfDcQHwi8xnbKWnKCWZlbuxsvzaW/pubhtml)**
 
 ## Participants
 
@@ -79,7 +79,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (102 MB)](https://mega.nz/#!wkdSAQpZ!j7J6phL3sZnuhBOjhWeS9yoVMpfpCA8TiZSP11McLsg "MEGA")**
+**[Download the mappack here! (102 MB)](https://mega.nz/#!wkdSAQpZ!j7J6phL3sZnuhBOjhWeS9yoVMpfpCA8TiZSP11McLsg)**
 
 - NoMod
   - [Yuzuki Yukari MAYU - Hurting for a Very Hurtful Pain (cagalin, seiichiz) \[Collab pain\]](https://osu.ppy.sh/beatmapsets/308407#taiko/689693)
@@ -106,7 +106,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (67 MB)](https://mega.nz/#!dkEAHKIS!2CVFumwsaLgc9xcL6qCjFe2LC_zaTCUBbpnYTM9HHHI "MEGA")**
+**[Download the mappack here! (67 MB)](https://mega.nz/#!dkEAHKIS!2CVFumwsaLgc9xcL6qCjFe2LC_zaTCUBbpnYTM9HHHI)**
 
 - NoMod
   - [The Flashbulb - Lawn Wake IX (yassu-) \[Chaos Oni\]](https://osu.ppy.sh/beatmapsets/662638#taiko/1402653)
@@ -133,7 +133,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (57 MB)](https://mega.nz/#!E4NDUSjQ!LWW10DnDnIPKeADOaeiQpBs9cA32N8fEfrZgfHa2i_8 "MEGA")**
+**[Download the mappack here! (57 MB)](https://mega.nz/#!E4NDUSjQ!LWW10DnDnIPKeADOaeiQpBs9cA32N8fEfrZgfHa2i_8)**
 
 - NoMod
   - [Cardboard Box - ++ (Grimbow) \[Grim's N+\]](https://osu.ppy.sh/beatmapsets/572069#taiko/1213129)
@@ -160,7 +160,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (91 MB)](https://mega.nz/#!448hnILB!CBkDuC8rPC1ZMboTt0eydpzyPZ2R4i-0cEwGl6OhAjo "MEGA")**
+**[Download the mappack here! (91 MB)](https://mega.nz/#!448hnILB!CBkDuC8rPC1ZMboTt0eydpzyPZ2R4i-0cEwGl6OhAjo)**
 
 - NoMod
   - [The Black Dahlia Murder - What a Horrible Night to Have a Curse (xEchoAlertx) \[Simon's Quest\]](https://osu.ppy.sh/beatmapsets/637265#taiko/1352024)
@@ -187,7 +187,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (71 MB)](https://mega.nz/#!F90mjIgD!u2mYXJ5oyEWcwnzEYyXOHg0s5y7sfp69AKYYf_2_IOs "MEGA")**
+**[Download the mappack here! (71 MB)](https://mega.nz/#!F90mjIgD!u2mYXJ5oyEWcwnzEYyXOHg0s5y7sfp69AKYYf_2_IOs)**
 
 - NoMod
   - [ILA - Devil In Wonderland (ZethZ161) \[Adventure!\]](https://osu.ppy.sh/beatmapsets/691057#taiko/1462461)
@@ -198,7 +198,7 @@ This competition has come to an end and resulted in the following podium:
   - [C-Show - Invitation from Mr.C (myckoll) \[MyckOni\]](https://osu.ppy.sh/beatmapsets/543554#taiko/1152078)
 - Hidden
   - [BlackY - JEHANNEDARC (komasy) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/633361#taiko/1344250)
-  - [Chouchou P - White Prism (zkane2) \[Rainbow \[EUTT\]\]](https://puu.sh/BW9eQ/9b094f23bc.osz "puush")
+  - [Chouchou P - White Prism (zkane2) \[Rainbow \[EUTT\]\]](https://puu.sh/BW9eQ/9b094f23bc.osz)
 - HardRock
   - [CyoucyoP feat.Hatsune Miku - End of the World (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/215476#taiko/506018)
   - [USAO - Miracle 5ympho X (Gezoda) \[Gezo's Giga Oni\]](https://osu.ppy.sh/beatmapsets/137394#taiko/486191)
@@ -299,7 +299,7 @@ Saturday, 17 November 2018:
 | Horiiizon ![][flag_GB] | 1 | **5** | ![][flag_IT] **Ikkun** | [#1](https://osu.ppy.sh/community/matches/47489874) |
 | **lukili846** ![][flag_DE] | **5** | 0 | ![][flag_AT] animexamera | [#1](https://osu.ppy.sh/community/matches/47496896) |
 | **Acrith** ![][flag_PL] | **5** | 4 | ![][flag_RU] Naninub | [#1](https://osu.ppy.sh/community/matches/47492274) |
-| Oui ![][flag_CH] | 0 | 0 | ![][flag_GB] Teezel | -nullified- |
+| Oui ![][flag_CH] | 0 | 0 | ![][flag_GB] Teezel | *nullified* |
 | **DayzeekFeed** ![][flag_RU] | **5** | 0 | ![][flag_FR] Chernobog | [#1](https://osu.ppy.sh/community/matches/47497153) |
 | Don Omar ![][flag_UA] | 0 | **5** | ![][flag_PL] **\_SC0RP10N** | *win by default* |
 | **Lno** ![][flag_GB] | **5** | 1 | ![][flag_GB] Grimbow | [#1](https://osu.ppy.sh/community/matches/47493556) |

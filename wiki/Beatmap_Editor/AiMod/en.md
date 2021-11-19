@@ -169,7 +169,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 <!-- TODO: I'm sure there are more flaws, just can't think of any more off the top of my head -->
 
 - **AiMod cannot detect a large number of issues** that are considered unrankable by the [ranking criteria](/wiki/Ranking_Criteria), such as potentially missnapped objects, delayed hitsounds, background filesize above 2.5MB, etc.
-- **AiMod may warn you of non-issues**, such as the mapset needing two standard difficulties on a [marathon](/wiki/Beatmap/Marathon) map and [kiai time](/wiki/Beatmap_Editor/Kiai_Time) being toggled on for less than 15 seconds.
+- **AiMod may warn you of non-issues**, such as the mapset needing two standard difficulties on a [marathon](/wiki/Beatmap/Marathon) map and [kiai time](/wiki/Kiai_time) being toggled on for less than 15 seconds.
 - **If `Check distance snap` is enabled, AiMod will not check the distance snap between combos.**
 - **If there are multiple MP3 files in the beatmap folder, AiMod may warn you of multiple song files**, however MP3 files can also be used for sound effects such as applause.
 

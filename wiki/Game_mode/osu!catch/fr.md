@@ -60,7 +60,7 @@ Collecter un hyperfruit fera que le dash de l’attrapeur sera augmenté en un *
 
 ## Style de jeu
 
-*[Reportez vous à la page Style de jeu dans osu!catch](/wiki/Play_Styles).*
+*[Reportez vous à la page Style de jeu dans osu!catch](/wiki/Play_style).*
 
 ## Contrôles
 
@@ -76,7 +76,7 @@ Le placement du curseur en jeu n’a pas d’importance quand vous jouez normale
 
 ## Calcul du score
 
-*[Les valeurs de base peuvent être trouvées dans la section score d’osu!catch](/wiki/Score#osu-catch).*
+*[Les valeurs de base peuvent être trouvées dans la section score d’osu!catch](/wiki/Score#osu!catch).*
 
 La section calcul du score détaille toutes les subtilités du score, y compris la formule mathématique.
 
@@ -205,7 +205,7 @@ Le système utilisé pour calculer la perte ou le gain de vie est compliqué et 
 - Si `Hit-error` est activée, il utilisera toujours `Colour`.
 - L’attrapeur peut bouger partout durant une pause.
 - L’attrapeur à une animation quand il miss, comme en osu!taiko avec l’animation de miss de pippidon.
-- Le premier attrapeur par défaut est une version chibi de Ryuuta Ippongi (de la [série ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")) jusqu’en 2014, qui a été remplacé par l’attrapeur actuel et la mascotte, [Yuzu](/wiki/Mascots#-yuzu).
+- Le premier attrapeur par défaut est une version chibi de Ryuuta Ippongi (de la [série ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)) jusqu’en 2014, qui a été remplacé par l’attrapeur actuel et la mascotte, [Yuzu](/wiki/Mascots#-yuzu).
 - Quand vous jouez en auto [Auto](/wiki/Game_modifier/Auto), le joueur sera nommé *salad!*.
 
 ### Historique

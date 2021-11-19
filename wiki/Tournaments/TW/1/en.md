@@ -8,7 +8,7 @@ tags:
 
 ![TW logo](img/logo.png)
 
-The **Taiko Wars** (***TW***) was a 2v2 interactive strategy double-elimination osu!taiko tournament hosted by ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). It was the first installment of the Taiko Wars.
+The **Taiko Wars** (***TW***) was a 2v2 interactive strategy double-elimination osu!taiko tournament hosted by ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). It was the first instalment of the Taiko Wars.
 
 ## Tournament schedule
 
@@ -26,9 +26,9 @@ The **Taiko Wars** (***TW***) was a 2v2 interactive strategy double-elimination 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ## Organisation
 
@@ -48,9 +48,9 @@ The Taiko Wars was run by various osu!taiko community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/813794)
-- [Livestream](https://www.twitch.tv/osutaikowars "Twitch")
-- [oTW Discord server](https://discord.gg/7bWjmq2 "Discord")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS1OEnywzQlI4425prcLcfxFoWCaSDGnfDpOXJZ5jRq-CP6E3OTSz0m8SVW4cMKF2i6c_dyrh4yZF3O/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osutaikowars)
+- [oTW Discord server](https://discord.gg/7bWjmq2)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS1OEnywzQlI4425prcLcfxFoWCaSDGnfDpOXJZ5jRq-CP6E3OTSz0m8SVW4cMKF2i6c_dyrh4yZF3O/pubhtml)**
 
 ## Participants
 
@@ -74,15 +74,16 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Land of Foda-se 2: Electric Boogaloo |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | cu |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Iceland |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Land of Foda-se 2: Electric Boogaloo** (![][flag_BR] **[HiroK](https://osu.ppy.sh/users/4050738)**, ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684), ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070) |
+| **Laundry Ca𝔹oclo Warriors** | ![][flag_BR] **[Brasil](https://osu.ppy.sh/users/3949268)**, ![][flag_BR] [Berg](https://osu.ppy.sh/users/8097465), ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **cu** (![][flag_CL] **[Ulqui](https://osu.ppy.sh/users/1263669)**, ![][flag_CL] [-F1-](https://osu.ppy.sh/users/5810867), ![][flag_BR] [Kbludoh](https://osu.ppy.sh/users/2543764)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Iceland** (![][flag_CA] **[janitoreihil](https://osu.ppy.sh/users/3307897)**, ![][flag_BR] [Kqrth](https://osu.ppy.sh/users/4115718), ![][flag_US] [closed](https://osu.ppy.sh/users/5116922)) |
 
 ## Mappools
 
 ### Round 5
 
-**[Download the mappack here! (132 MB)](https://mega.nz/#!GnhFwIiJ!6TMyxm-mKf7Q_EEdYdA44s1VQ0Qs5kXdR1HLrzswnYs "MEGA")**
+**[Download the mappack here! (132 MB)](https://mega.nz/#!GnhFwIiJ!6TMyxm-mKf7Q_EEdYdA44s1VQ0Qs5kXdR1HLrzswnYs)**
 
 - NoMod
   - [Zekk - Sugary Daydream (TKS) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/578489#taiko/1224835)
@@ -113,7 +114,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 4
 
-**[Download the mappack here! (65 MB)](https://mega.nz/#!a2IHjQTJ!isJzTngQGr6mxJPGpctb3jQzLcGUrMadI_vvDHPtDnQ "MEGA")**
+**[Download the mappack here! (65 MB)](https://mega.nz/#!a2IHjQTJ!isJzTngQGr6mxJPGpctb3jQzLcGUrMadI_vvDHPtDnQ)**
 
 - NoMod
   - [Hino Isuka - Bloody Scarlet Nightmare (nananass) \[Blood\]](https://osu.ppy.sh/beatmapsets/691110#taiko/1462572)
@@ -139,7 +140,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 3
 
-**[Download the mappack here! (59 MB)](https://mega.nz/#!2vwGCSCY!v7DWcVkE0WERJfqmRwY5At_RctlZM9duhxA_4HyIFAM "MEGA")**
+**[Download the mappack here! (59 MB)](https://mega.nz/#!2vwGCSCY!v7DWcVkE0WERJfqmRwY5At_RctlZM9duhxA_4HyIFAM)**
 
 - NoMod
   - [Hiro - VERTeX (Nwolf) \[Apex\]](https://osu.ppy.sh/beatmapsets/856990#taiko/1790210)
@@ -163,7 +164,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 2
 
-**[Download the mappack here! (49 MB)](https://mega.nz/#!zyJVHICL!OoNBJWGGqW4I18SINy5RrqDkmhY6l6X4zahaBj7etuA "MEGA")**
+**[Download the mappack here! (49 MB)](https://mega.nz/#!zyJVHICL!OoNBJWGGqW4I18SINy5RrqDkmhY6l6X4zahaBj7etuA)**
 
 - NoMod
   - [DJ Mass MAD Izm - shakunetsu Beach Side Bunny (Kagami Yuki) \[Kagami's Taiko\]](https://osu.ppy.sh/beatmapsets/196311#taiko/465665)

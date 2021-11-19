@@ -8,14 +8,14 @@ tags:
 
 ![NSATT 2019 logo](img/logo.jpg)
 
-The **North & South American Taiko Tournament 2019** (***NSATT 2019***) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). The tournament was restricted to players within the North and South American countries only. It was the fourth installment of the North & South American Taiko Tournament.
+The **North & South American Taiko Tournament 2019** (***NSATT 2019***) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). The tournament was restricted to players within the North and South American countries only. It was the fourth instalment of the North & South American Taiko Tournament.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2019-06-01/2019-06-25 |
-| Group Stage | 2019-06-22/2019-06-23 |
+| Group stage | 2019-06-22/2019-06-23 |
 | Round of 16 | 2019-06-29/2019-06-30 |
 | Quarterfinals | 2019-07-06/2019-07-07 |
 | Semifinals | 2019-07-13/2019-07-14 |
@@ -26,9 +26,9 @@ The **North & South American Taiko Tournament 2019** (***NSATT 2019***) was a do
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year of osu!supporter tag (or US$26 ) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag (or US$16) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag (or US$8) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year of osu!supporter (or US$26 ) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter (or US$16) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter (or US$8) |
 
 ![](img/badge.jpg "NSATT 2019 winner badge")
 
@@ -50,9 +50,9 @@ The North & South American Taiko Tournament 2019 was run by various community me
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/907995)
-- [Livestream](https://www.twitch.tv/osutaikolive "Twitch")
-- [Challonge bracket](https://challonge.com/NSATT2019 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPxwqEqzN-miTVZ9fM20aMelIYCwnm1FFJV3M0yn7w8YoBB60lS-hIzpV4l9JOqQ3v9iyTBXHhoOAk/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osutaikolive)
+- [Challonge bracket](https://challonge.com/NSATT2019)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPxwqEqzN-miTVZ9fM20aMelIYCwnm1FFJV3M0yn7w8YoBB60lS-hIzpV4l9JOqQ3v9iyTBXHhoOAk/pubhtml)**
 
 ## Participants
 
@@ -92,7 +92,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (89 MB)](https://www.dropbox.com/s/3n8rkoxbo5ir6ty/NSATT%202019%20-%20Finals%20Map%20Pack.rar "Dropbox")**
+**[Download the mappack here! (89 MB)](https://www.dropbox.com/s/3n8rkoxbo5ir6ty/NSATT%202019%20-%20Finals%20Map%20Pack.rar)**
 
 - NoMod
   - [MASAKI(ZUNTATA) - Touhou Kijinretsu (JUDYDANNY) \[Retsu\]](https://osu.ppy.sh/beatmapsets/969930#taiko/2029111)
@@ -119,7 +119,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (82 MB)](https://www.dropbox.com/s/w4iu8kqg5389gk4/NSATT%202019%20-%20Semi%20Finals%20Map%20pack.rar "Dropbox")**
+**[Download the mappack here! (82 MB)](https://www.dropbox.com/s/w4iu8kqg5389gk4/NSATT%202019%20-%20Semi%20Finals%20Map%20pack.rar)**
 
 - NoMod
   - [Ruby My Dear - Spectacle (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/747789#taiko/1575570)
@@ -145,7 +145,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (83 MB)](https://www.dropbox.com/s/zlbe9blvtdg9zd1/NSATT%202019%20Quarter%20Finals%20Map%20Pack.rar "Dropbox")**
+**[Download the mappack here! (83 MB)](https://www.dropbox.com/s/zlbe9blvtdg9zd1/NSATT%202019%20Quarter%20Finals%20Map%20Pack.rar)**
 
 - NoMod
   - [Ocelot - TSUBAKI (TKS) \[TSUBAKI\]](https://osu.ppy.sh/beatmapsets/177838#taiko/427932)
@@ -171,11 +171,11 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (63 MB)](https://www.dropbox.com/s/luzhzs0c12b9e2h/NSATT%202019%20-%20RO16%20Map%20Pack.rar "Dropbox")**
+**[Download the mappack here! (63 MB)](https://www.dropbox.com/s/luzhzs0c12b9e2h/NSATT%202019%20-%20RO16%20Map%20Pack.rar)**
 
 - NoMod
   - [t+pazolite - Pee-Kan Breaks (Ulqui) \[Overlapse Oni\]](https://osu.ppy.sh/beatmapsets/529539#taiko/1122796)
-  - [EVO+ feat. GigaReol - \[A\]ddiction (KinomiCandy) \[Kinobles, MMzz & YOUTA's \[C\]ollaboration \[NSATT ver.\]\]](https://www.dropbox.com/s/u2zxzoob6nro27o/EVO%2B%20feat.%20GigaReol%20-%20%5BA%5Dddiction.osz "Dropbox")
+  - [EVO+ feat. GigaReol - \[A\]ddiction (KinomiCandy) \[Kinobles, MMzz & YOUTA's \[C\]ollaboration \[NSATT ver.\]\]](https://www.dropbox.com/s/u2zxzoob6nro27o/EVO%2B%20feat.%20GigaReol%20-%20%5BA%5Dddiction.osz)
   - [Kemono Friends - Cerulean (S a n d) \[Regretless Oni\]](https://osu.ppy.sh/beatmapsets/595790#taiko/1259995)
   - [Ice vs. Morimori Atsushi - RE:UNION -Duo Blade Against- (\_DUSK\_) \[Nishizumi's Inner Oni\]](https://osu.ppy.sh/beatmapsets/925900#taiko/1943253)
   - [AAAA Chazuke - Fatality Saga (maziari1105) \[Oni\]](https://osu.ppy.sh/beatmapsets/768449#taiko/1616129)
@@ -195,9 +195,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - Primitive Pump (frz) \[Inner PUMP\]](https://osu.ppy.sh/beatmapsets/712424#taiko/1505977)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (57 MB)](https://www.dropbox.com/s/ywc3w1vai12cvv9/NSATT%202019%20-%20Group%20Stage%20Map%20Pack.rar "Dropbox")**
+**[Download the mappack here! (57 MB)](https://www.dropbox.com/s/ywc3w1vai12cvv9/NSATT%202019%20-%20Group%20Stage%20Map%20Pack.rar)**
 
 - NoMod
   - [Igorrr - Mastication Numerique (grumd) \[Loctav's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/54182#taiko/165342)
@@ -312,9 +312,9 @@ Sunday, 30 June 2019:
 | **BossPlays** ![][flag_AR] | **5** | 4 | ![][flag_US] Whulf | [#1](https://osu.ppy.sh/community/matches/53017178) |
 | **TrolloCat** ![][flag_US] | **5** | 2 | ![][flag_US] \_knots | [#1](https://osu.ppy.sh/community/matches/53022697) |
 
-### Group Stage
+### Group stage
 
-Complete Group Stage match results can be accessed through the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPxwqEqzN-miTVZ9fM20aMelIYCwnm1FFJV3M0yn7w8YoBB60lS-hIzpV4l9JOqQ3v9iyTBXHhoOAk/pubhtml "Google Sheets")
+Complete Group Stage match results can be accessed through the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPxwqEqzN-miTVZ9fM20aMelIYCwnm1FFJV3M0yn7w8YoBB60lS-hIzpV4l9JOqQ3v9iyTBXHhoOAk/pubhtml)
 
 ## Ruleset
 

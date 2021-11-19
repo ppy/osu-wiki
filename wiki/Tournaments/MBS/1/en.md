@@ -9,7 +9,7 @@ tags:
 
 ![MBS logo](img/logo.png)
 
-The **Mania Beginner's Showdown** (***MBS***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament had two divisions to separate the skillset between players: the high division consisted of players ranked #10,000–#50,000, and the low division consisted of players ranked #50,001–#100,000. This was the first installment of the Mania Beginner's Showdown.
+The **Mania Beginner's Showdown** (***MBS***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament had two divisions to separate the skillset between players: the high division consisted of players ranked #10,000–#50,000, and the low division consisted of players ranked #50,001–#100,000. This was the first instalment of the Mania Beginner's Showdown.
 
 ## Tournament schedule
 
@@ -46,9 +46,9 @@ The **Mania Beginner's Showdown** (***MBS***) was a worldwide double-elimination
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge_high.png "MBS high division winner badge") ![](img/badge_low.png "MBS low division winner badge")
 
@@ -61,7 +61,7 @@ The Mania Beginner's Showdown was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
-| Map selector | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Neyra](https://osu.ppy.sh/users/8563504), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) |
+| Mappool selector | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Neyra](https://osu.ppy.sh/users/8563504), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) |
 | Referee | ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_DE] [Flygone](https://osu.ppy.sh/users/9287979), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_AU] [Tacxam](https://osu.ppy.sh/users/9847895), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350) |
 | Streamer | ![][flag_SE] [Davvyforte](https://osu.ppy.sh/users/10047413), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_US] [Rianolinon](https://osu.ppy.sh/users/9739455) |
 | Commentator | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_US] [AYAYAA](https://osu.ppy.sh/users/4980256), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_SE] [Davvyforte](https://osu.ppy.sh/users/10047413), ![][flag_BR] [HaloSSB](https://osu.ppy.sh/users/7572142), ![][flag_ID] [Horou](https://osu.ppy.sh/users/10807310), ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
@@ -72,12 +72,12 @@ The Mania Beginner's Showdown was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/908109)
-- [MBS Discord server](https://discord.gg/uNSqksR "Discord")
-- [Livestream](https://www.twitch.tv/osu_mbs "Twitch")
+- [MBS Discord server](https://discord.gg/uNSqksR)
+- [Livestream](https://www.twitch.tv/osu_mbs)
 - Challonge brackets
-  - [High division](https://challonge.com/mbs_high "Challonge")
-  - [Low division](https://challonge.com/mbs_low "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUMWu10NmD9K0V7XVqDW_4erJCQx3ptnfm8XFOXvXGr4TWDjH95ewgQq663Bj8J-5Wf7yHqN2Sbnl1/pubhtml "Google Sheets")**
+  - [High division](https://challonge.com/mbs_high)
+  - [Low division](https://challonge.com/mbs_low)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUMWu10NmD9K0V7XVqDW_4erJCQx3ptnfm8XFOXvXGr4TWDjH95ewgQq663Bj8J-5Wf7yHqN2Sbnl1/pubhtml)**
 
 ## Participants
 
@@ -127,7 +127,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Grand Finals
 
-**[Download the mappack here! (103 MB)](https://mega.nz/#!QT51gADB!zlzLPcKn9s0jeoxh4iG3gLvuvBzjmFb_Wx09BaokGk0 "MEGA")**
+**[Download the mappack here! (103 MB)](https://mega.nz/#!QT51gADB!zlzLPcKn9s0jeoxh4iG3gLvuvBzjmFb_Wx09BaokGk0)**
 
 - FreeMod
   - [sakuraburst - serotonin (Nick Wilde) \[C10H12N2O\]](https://osu.ppy.sh/beatmapsets/661082#mania/1399658)
@@ -152,7 +152,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the mappack here! (107 MB)](https://mega.nz/#!JCxQWISY!aaqIPQpJsw6rNRMOw3WUDdcRhAFEwqbSIBNvoSNFQQI "MEGA")**
+**[Download the mappack here! (107 MB)](https://mega.nz/#!JCxQWISY!aaqIPQpJsw6rNRMOw3WUDdcRhAFEwqbSIBNvoSNFQQI)**
 
 - FreeMod
   - [Soba - Hasu (Cut) (Tantei B) \[VlowerS\]](https://osu.ppy.sh/beatmapsets/770757#mania/1620423)
@@ -177,7 +177,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (107 MB)](https://mega.nz/#!cTQzkKIK!WqUPz4eusbvqCBDWT9sHbdjvae2PdAYyTlSeBDX_33I "MEGA")**
+**[Download the mappack here! (107 MB)](https://mega.nz/#!cTQzkKIK!WqUPz4eusbvqCBDWT9sHbdjvae2PdAYyTlSeBDX_33I)**
 
 - FreeMod
   - [Xander - Ginger (RuleBlazing) \[Another World Memory\]](https://osu.ppy.sh/beatmapsets/925756#mania/1933684)
@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (62 MB)](https://mega.nz/#!dSgmwKjZ!o5Aqpp7lvD1djJgu4qSiOWb0vFFycVocnfk19_ExJ5o "MEGA")**
+**[Download the mappack here! (62 MB)](https://mega.nz/#!dSgmwKjZ!o5Aqpp7lvD1djJgu4qSiOWb0vFFycVocnfk19_ExJ5o)**
 
 - FreeMod
   - [Cranky - Dino (Raveille) \[FRESH\]](https://osu.ppy.sh/beatmapsets/998754#mania/2088939)
@@ -221,7 +221,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-**[Download the mappack here! (70 MB)](https://mega.nz/#!8HB3ySpJ!MVXK_ThhuvKnLYivqUYSI-34hy91vWpofhmt-hpjZBw "MEGA")**
+**[Download the mappack here! (70 MB)](https://mega.nz/#!8HB3ySpJ!MVXK_ThhuvKnLYivqUYSI-34hy91vWpofhmt-hpjZBw)**
 
 - FreeMod
   - [Vospi - roboposition!! (arviejhay) \[4K HD\]](https://osu.ppy.sh/beatmapsets/164310#mania/400180)
@@ -242,7 +242,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 32
 
-**[Download the mappack here! (64 MB)](https://mega.nz/#!QSwngQjT!tJ-3HD-CpFAalWIYc0K78E9kTX_nUdBkdsjSPhVPoAM "MEGA")**
+**[Download the mappack here! (64 MB)](https://mega.nz/#!QSwngQjT!tJ-3HD-CpFAalWIYc0K78E9kTX_nUdBkdsjSPhVPoAM)**
 
 - FreeMod
   - [monk. - in your arms (Nick Wilde) \[leaving\]](https://osu.ppy.sh/beatmapsets/764541#mania/1607640)
@@ -261,7 +261,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 64
 
-**[Download the mappack here! (53 MB)](https://mega.nz/#!MfAUGCSS!mZoBlp8LIdrJje-PetKP9VOXLhCFGNGt3q0XJMF-E-o "MEGA")**
+**[Download the mappack here! (53 MB)](https://mega.nz/#!MfAUGCSS!mZoBlp8LIdrJje-PetKP9VOXLhCFGNGt3q0XJMF-E-o)**
 
 - FreeMod
   - [Lily Allen - Fuck You (DJ THT Radio Edit) (XeoStyle) \[4k MX (Hard SV Edit.)\]](https://osu.ppy.sh/beatmapsets/314482#mania/701663)
@@ -280,7 +280,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the mappack here! (18 MB)](https://mega.nz/#!1Ko1FA7B!fiji7s8koWc_WagPaOInFRTciuRKRj2roqxIIT5wvtM "MEGA")**
+**[Download the mappack here! (18 MB)](https://mega.nz/#!1Ko1FA7B!fiji7s8koWc_WagPaOInFRTciuRKRj2roqxIIT5wvtM)**
 
 - FreeMod
   - [Getter - Rip N Dip (snexe) \[Hope\]](https://osu.ppy.sh/beatmapsets/726352#mania/1533530)
@@ -293,7 +293,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Grand Finals
 
-**[Download the mappack here! (184 MB)](https://mega.nz/#!hSoHxawK!2rAf9fMEHhfx6iNkBCi5frf6Ru_4PmztczmOrMmJ16Q "MEGA")**
+**[Download the mappack here! (184 MB)](https://mega.nz/#!hSoHxawK!2rAf9fMEHhfx6iNkBCi5frf6Ru_4PmztczmOrMmJ16Q)**
 
 - FreeMod
   - [saradisk - 211 - Natsuiro Present (180bpmEDIT) (Hues) \[Present\]](https://osu.ppy.sh/beatmapsets/714090#mania/1509208)
@@ -318,7 +318,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the mappack here! (131 MB)](https://mega.nz/#!YPpA3QyI!SVi_ja2-ypgpbay-jw1jjpCdEdez1Vz3SFE2pFHnKlI "MEGA")**
+**[Download the mappack here! (131 MB)](https://mega.nz/#!YPpA3QyI!SVi_ja2-ypgpbay-jw1jjpCdEdez1Vz3SFE2pFHnKlI)**
 
 - FreeMod
   - [BanYa remixed by Synthwulf - Hypnosis (Synthwulf Mix) (Ryu Sei) \[EX-Hard\]](https://osu.ppy.sh/beatmapsets/479437#mania/1023778)
@@ -343,7 +343,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (118 MB)](https://mega.nz/#!dDRXXY7K!cGvt-a8TfEVIPj2Z5WTCa4MJ76dpKWp6uR9KeWkRLOs "MEGA")**
+**[Download the mappack here! (118 MB)](https://mega.nz/#!dDRXXY7K!cGvt-a8TfEVIPj2Z5WTCa4MJ76dpKWp6uR9KeWkRLOs)**
 
 - FreeMod
   - [Redemptive - Adrenaline (Nick Wilde) \[couil's hard\]](https://osu.ppy.sh/beatmapsets/837456#mania/1756379)
@@ -366,7 +366,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (88 MB)](https://mega.nz/#!sK5QlQ7R!HDlqhvcQLqO1SvGenKhLekURhQfnk3bJcDegomTyJLg "MEGA")**
+**[Download the mappack here! (88 MB)](https://mega.nz/#!sK5QlQ7R!HDlqhvcQLqO1SvGenKhLekURhQfnk3bJcDegomTyJLg)**
 
 - FreeMod
   - [cYsmix - Breeze (Tidek) \[Normal\]](https://osu.ppy.sh/beatmapsets/639924#mania/1357116)
@@ -387,7 +387,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-**[Download the mappack here! (173 MB)](https://mega.nz/#!xLxHEKIa!MQr0_tLl_emwk3Vb98L0qCt0QJ5wNGkILrbpSm_2CA4 "MEGA")**
+**[Download the mappack here! (173 MB)](https://mega.nz/#!xLxHEKIa!MQr0_tLl_emwk3Vb98L0qCt0QJ5wNGkILrbpSm_2CA4)**
 
 - FreeMod
   - [Dirtyphonics & Sullivan King - Hammer (\_Y u r i\_) \[Normal\]](https://osu.ppy.sh/beatmapsets/965183#mania/2020476)
@@ -408,7 +408,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 32
 
-**[Download the mappack here! (94 MB)](https://mega.nz/#!QWpETa5S!058w3129ct4rvAkJI2-Jv59iU_qZbRM2zeW7jeeSzSE "MEGA")**
+**[Download the mappack here! (94 MB)](https://mega.nz/#!QWpETa5S!058w3129ct4rvAkJI2-Jv59iU_qZbRM2zeW7jeeSzSE)**
 
 - FreeMod
   - [Have Fun Teaching - Jumping Jacks (Tantei B) \[stage 1 : Rebound\]](https://osu.ppy.sh/beatmapsets/974445#mania/2039696)
@@ -427,7 +427,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the mappack here! (36 MB)](https://mega.nz/#!YPxhkIzJ!ftskkhd20WOuBYAQ37rRfvzu2__JZTLu_pSvaV3JveM "MEGA")**
+**[Download the mappack here! (36 MB)](https://mega.nz/#!YPxhkIzJ!ftskkhd20WOuBYAQ37rRfvzu2__JZTLu_pSvaV3JveM)**
 
 - FreeMod
   - [KinkyOats - UDKswing (Mastermile) \[Hard SV\]](https://osu.ppy.sh/beatmapsets/604634#mania/1277534)
@@ -744,7 +744,7 @@ Sunday, 23 June 2019:
 | #58 | ![][flag_DE] [NekoEko](https://osu.ppy.sh/users/7761776) | 57.2 |
 
 - Only the top 57 can proceed to the Knockout Stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQMZHU7RNnyblgrqNYq_mZISfVIDTRRTE4IGG435y5Kr0jXP9vm-gc2FtiM-DlabsSYslRbr0JHbxmp/pubhtml "Google Sheets")
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQMZHU7RNnyblgrqNYq_mZISfVIDTRRTE4IGG435y5Kr0jXP9vm-gc2FtiM-DlabsSYslRbr0JHbxmp/pubhtml)
 - Average is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 
 ### Low division
@@ -936,7 +936,7 @@ Sunday, 30 June 2019:
 | #30 | ![][flag_FR] [Musclor](https://osu.ppy.sh/users/9637676) | 30 |
 
 - Only the top 29 can proceed to the Knockout Stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQMZHU7RNnyblgrqNYq_mZISfVIDTRRTE4IGG435y5Kr0jXP9vm-gc2FtiM-DlabsSYslRbr0JHbxmp/pubhtml "Google Sheets")
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQMZHU7RNnyblgrqNYq_mZISfVIDTRRTE4IGG435y5Kr0jXP9vm-gc2FtiM-DlabsSYslRbr0JHbxmp/pubhtml)
 - Average is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 
 ## Ruleset

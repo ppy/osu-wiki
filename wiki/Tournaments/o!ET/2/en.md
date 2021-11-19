@@ -8,7 +8,7 @@ tags:
 
 ![o!ET 2 logo](img/logo.png)
 
-The **osu! European Tournament 2** (***o!ET 2***) was a 2v2 European double-elimination osu! tournament hosted by ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [Planatek](https://osu.ppy.sh/users/4869601), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the second installment of the osu! European Tournament.
+The **osu! European Tournament 2** (***o!ET 2***) was a 2v2 European double-elimination osu! tournament hosted by ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [Planatek](https://osu.ppy.sh/users/4869601), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the second instalment of the osu! European Tournament.
 
 ## Tournament schedule
 
@@ -27,9 +27,9 @@ The **osu! European Tournament 2** (***o!ET 2***) was a 2v2 European double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 year of osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 year of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter |
 
 ![](img/badge-top.png "o!ET 2 Top Bracket winner badge") ![](img/badge-mid.png "o!ET 2 Middle Bracket winner badge") ![](img/badge-low.png "o!ET 2 Low Bracket winner badge")
 
@@ -51,9 +51,9 @@ The osu! European Tournament 2 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/844161)
-- [o!ET Discord server](https://discord.gg/YenjhQw "Discord")
-- [Livestream](https://www.twitch.tv/osueuropeantournament "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUhf1LUEhexa1Uaria2AjiBnM2mzsgfIJYrfhZTLPrxEhqBDz-rDR2TbeDkce_tPDDLsT1M0_9rDWa/pubhtml "Google Sheets")**
+- [o!ET Discord server](https://discord.gg/YenjhQw)
+- [Livestream](https://www.twitch.tv/osueuropeantournament)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUhf1LUEhexa1Uaria2AjiBnM2mzsgfIJYrfhZTLPrxEhqBDz-rDR2TbeDkce_tPDDLsT1M0_9rDWa/pubhtml)**
 
 ## Participants
 
@@ -143,25 +143,25 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Sruba |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Almost Allies |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | nh9mju0 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Sruba** (![][flag_PL] **[MrBooM](https://osu.ppy.sh/users/1837989)**, ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027), ![][flag_PL] [Wakson](https://osu.ppy.sh/users/3048222)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Almost Allies** (![][flag_IT] **[Koba](https://osu.ppy.sh/users/4448118)**, ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761), ![][flag_RO] [badeu](https://osu.ppy.sh/users/1473890)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **nh9mju0** (![][flag_NO] **[- Markus -](https://osu.ppy.sh/users/8414284)**, ![][flag_BE] [5joshi](https://osu.ppy.sh/users/4279650), ![][flag_NL] [Lazer](https://osu.ppy.sh/users/1799925)) |
 
 ### Middle Bracket
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Makeshift Winners |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | singletap is braindead |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Phoenix Emperors |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Makeshift Winners** (![][flag_BG] **[kiril2011](https://osu.ppy.sh/users/3703793)**, ![][flag_GB] [Chugger](https://osu.ppy.sh/users/4491713), ![][flag_DE] [shycat](https://osu.ppy.sh/users/6263574)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **singletap is braindead** (![][flag_NL] **[Just Lucan](https://osu.ppy.sh/users/5007943)**, ![][flag_PL] [HAEN24](https://osu.ppy.sh/users/4390077), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Phoenix Emperors** (![][flag_PL] **[przepson](https://osu.ppy.sh/users/5420473)**, ![][flag_AT] [Snajper](https://osu.ppy.sh/users/4211027), ![][flag_PL] [Kajcio](https://osu.ppy.sh/users/4578726)) |
 
 ### Low Bracket
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | not even european |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Yes (Yes) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Polish Musketeers |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **not even european** (![][flag_DE] **[\[Shadez\]](https://osu.ppy.sh/users/549954)**, ![][flag_HK] [Nocy](https://osu.ppy.sh/users/4801735), ![][flag_RU] [Liswiera](https://osu.ppy.sh/users/9356954)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Yes (Yes)** (![][flag_FI] **[Lefafel](https://osu.ppy.sh/users/2295850)**, ![][flag_FI] [Yes](https://osu.ppy.sh/users/6567244)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Polish Musketeers** (![][flag_PL] **[MagBlood](https://osu.ppy.sh/users/6178640)**, ![][flag_PL] [Shambles](https://osu.ppy.sh/users/8523882), ![][flag_PL] [2040](https://osu.ppy.sh/users/6052264)) |
 
 ## Mappools
 
@@ -171,7 +171,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Top Bracket
 
-**[Download the mappack here! (133 MB)](https://mega.nz/#!yjpD0arI!8cNRhPQsSV6WBys21CwWkSnzik5NhzcOTc0zYJd3CA0 "MEGA")**
+**[Download the mappack here! (133 MB)](https://mega.nz/#!yjpD0arI!8cNRhPQsSV6WBys21CwWkSnzik5NhzcOTc0zYJd3CA0)**
 
 - NoMod
   - [Eve - Gekka*Midare Botan (Meg, Roll\_Pan) \[Meg&Roll\_Pan's E-Xtra\]](https://osu.ppy.sh/beatmapsets/530685#osu/1124857)
@@ -201,7 +201,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Middle Bracket
 
-**[Download the mappack here! (164 MB)](https://mega.nz/#!mq4DWIAA!B7vNyEt19iiZitzNCCBzRdEfM7CUnUR6FU_fcDJoqtI "MEGA")**
+**[Download the mappack here! (164 MB)](https://mega.nz/#!mq4DWIAA!B7vNyEt19iiZitzNCCBzRdEfM7CUnUR6FU_fcDJoqtI)**
 
 - NoMod
   - [Mimori Suzuko - Light for Knight (\_kotachi\_) \[Destiny\]](https://osu.ppy.sh/beatmapsets/801337#osu/1682101)
@@ -231,7 +231,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Low Bracket
 
-**[Download the mappack here! (160 MB)](https://mega.nz/#!jugHXA4I!u2nUNxbk268jkIRhnv0rjzORFn7oMlR1jx0Gq8O5WrQ "MEGA")**
+**[Download the mappack here! (160 MB)](https://mega.nz/#!jugHXA4I!u2nUNxbk268jkIRhnv0rjzORFn7oMlR1jx0Gq8O5WrQ)**
 
 - NoMod
   - [Dark PHOENiX - Plain Asia (Meftly) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/673625#osu/1425563)
@@ -263,7 +263,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Top Bracket
 
-**[Download the mappack here! (130 MB)](https://mega.nz/#!q2h0jYzB!Y19A5-fRezEaAxBvbsbjCRh5kQwCcSMtwBxQjbAmP88 "MEGA")**
+**[Download the mappack here! (130 MB)](https://mega.nz/#!q2h0jYzB!Y19A5-fRezEaAxBvbsbjCRh5kQwCcSMtwBxQjbAmP88)**
 
 - NoMod
   - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (caren\_sk) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/134151#osu/338682)
@@ -293,7 +293,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Middle Bracket
 
-**[Download the mappack here! (120 MB)](https://mega.nz/#!Xqw30SQS!dTaGiznOi1E3yNOqJfm448vCnd-zW_fRNGX1fOfxY8I "MEGA")**
+**[Download the mappack here! (120 MB)](https://mega.nz/#!Xqw30SQS!dTaGiznOi1E3yNOqJfm448vCnd-zW_fRNGX1fOfxY8I)**
 
 - NoMod
   - [Nakagawa Shouko - happily ever after (smallboat) \[Giga Drill Break\]](https://osu.ppy.sh/beatmapsets/253823#osu/582517)
@@ -323,7 +323,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Low Bracket
 
-**[Download the mappack here! (131 MB)](https://mega.nz/#!PmxigQrD!qhNUXASHuIRqODrDsuQ0IsFGrJ9Qbg4CzNBT6zRU29Q "MEGA")**
+**[Download the mappack here! (131 MB)](https://mega.nz/#!PmxigQrD!qhNUXASHuIRqODrDsuQ0IsFGrJ9Qbg4CzNBT6zRU29Q)**
 
 - NoMod
   - [yuikonnu - Ai no Scenario (Guy) \[Extra\]](https://osu.ppy.sh/beatmapsets/282375#osu/638551)
@@ -355,7 +355,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Top Bracket
 
-**[Download the mappack here! (120 MB)](https://mega.nz/#!Xqw30SQS!dTaGiznOi1E3yNOqJfm448vCnd-zW_fRNGX1fOfxY8I "MEGA")**
+**[Download the mappack here! (120 MB)](https://mega.nz/#!Xqw30SQS!dTaGiznOi1E3yNOqJfm448vCnd-zW_fRNGX1fOfxY8I)**
 
 - NoMod
   - [Manami Numakura - Climber's High! (Zero\_\_wind) \[Wind\]](https://osu.ppy.sh/beatmapsets/574214#osu/1216208)
@@ -377,7 +377,7 @@ This competition has come to an end and resulted in the following podium:
   - [Yousei Teikoku - Gekkakou (Net0) \[Insane\]](https://osu.ppy.sh/beatmapsets/737644#osu/1569410)
   - [Girl's Day - I Miss You (Joey) \[Joey's Insane\]](https://osu.ppy.sh/beatmapsets/273477#osu/621281)
 - FreeMod
-  - [M2U - Nightmare (Lesjuh) \[Lesjuh's Insane\]](http://bloodcat.com/osu/s/5139 "Bloodcat")
+  - [M2U - Nightmare (Lesjuh) \[Lesjuh's Insane\]](http://bloodcat.com/osu/s/5139)
   - [Umeboshi Chazuke - Owari to Hajimari no Oto (Battquif) \[Batt's Extra\]](https://osu.ppy.sh/beatmapsets/739551#osu/1570760)
   - [Akiakane - FlashBack (Kiiwa) \[Insane\]](https://osu.ppy.sh/beatmapsets/54672#osu/166126)
 - Tiebreaker
@@ -385,7 +385,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Middle Bracket
 
-**[Download the mappack here! (120 MB)](https://mega.nz/#!Xqw30SQS!dTaGiznOi1E3yNOqJfm448vCnd-zW_fRNGX1fOfxY8I "MEGA")**
+**[Download the mappack here! (120 MB)](https://mega.nz/#!Xqw30SQS!dTaGiznOi1E3yNOqJfm448vCnd-zW_fRNGX1fOfxY8I)**
 
 - NoMod
   - [Dreamcatcher - YOU AND I (Natsu) \[Down's Extra\]](https://osu.ppy.sh/beatmapsets/779107#osu/1657467)
@@ -415,7 +415,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Low Bracket
 
-**[Download the mappack here! (116 MB)](https://mega.nz/#!L3olVCLQ!6U8klI6xE-zOhYsWVNbi9aGyPhgVwfm61zEp8_1Zt4M "MEGA")**
+**[Download the mappack here! (116 MB)](https://mega.nz/#!L3olVCLQ!6U8klI6xE-zOhYsWVNbi9aGyPhgVwfm61zEp8_1Zt4M)**
 
 - NoMod
   - [nano feat. MY FIRST STORY - SAVIOR OF SONG (KantoKun) \[Insane\]](https://osu.ppy.sh/beatmapsets/150491#osu/371325)
@@ -447,7 +447,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Top Bracket
 
-**[Download the mappack here! (133 MB)](https://www.mediafire.com/file/w4dcko76mk4lqf6/Groups+Stage+%28TB%29.rar "MediaFire")**
+**[Download the mappack here! (133 MB)](https://www.mediafire.com/file/w4dcko76mk4lqf6/Groups+Stage+%28TB%29.rar)**
 
 - NoMod
   - [EGOIST - Fallen (jonathanlfj) \[Extra\]](https://osu.ppy.sh/beatmapsets/232052#osu/538930)
@@ -473,7 +473,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Middle Bracket
 
-**[Download the mappack here! (135 MB)](https://www.mediafire.com/file/5qlu718dlwl6t4n/Groups+Stage+%28MB%29.rar "MediaFire")**
+**[Download the mappack here! (135 MB)](https://www.mediafire.com/file/5qlu718dlwl6t4n/Groups+Stage+%28MB%29.rar)**
 
 - NoMod
   - [iojjj - Akui to Ai no Sukima no Puzzle (Okoratu) \[Diplomatic Immunity\]](https://osu.ppy.sh/beatmapsets/147430#osu/517595)
@@ -499,7 +499,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Low Bracket
 
-**[Download the mappack here! (141 MB)](https://www.mediafire.com/file/51j2truczan8qkz/Groups+Stage+%28LB%29.rar "MediaFire")**
+**[Download the mappack here! (141 MB)](https://www.mediafire.com/file/51j2truczan8qkz/Groups+Stage+%28LB%29.rar)**
 
 - NoMod
   - [Skrillex & Diplo - To U ft AlunaGeorge (Suzuki\_1112) \[1112's Insane\]](https://osu.ppy.sh/beatmapsets/723626#osu/1527725)
@@ -527,7 +527,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Top Bracket
 
-**[Download the mappack here! (29 MB)](https://puu.sh/CDLql/19949012e2.rar "puush")**
+**[Download the mappack here! (29 MB)](https://puu.sh/CDLql/19949012e2.rar)**
 
 - NoMod
   - [dark cat - BUBBLE TEA (feat. juu & cinders) (Hobbes2) \[Fluttering\]](https://osu.ppy.sh/beatmapsets/769917#osu/1618800)
@@ -541,7 +541,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Middle Bracket
 
-**[Download the mappack here! (36 MB)](https://puu.sh/CDLqv/eb30a66e55.rar "puush")**
+**[Download the mappack here! (36 MB)](https://puu.sh/CDLqv/eb30a66e55.rar)**
 
 - NoMod
   - [momori - Togameru Kage (Kalibe) \[Sorrow\]](https://osu.ppy.sh/beatmapsets/866301#osu/1811243)
@@ -555,7 +555,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Low Bracket
 
-**[Download the mappack here! (26 MB)](https://puu.sh/CDLqz/c13d869836.rar "puush")**
+**[Download the mappack here! (26 MB)](https://puu.sh/CDLqz/c13d869836.rar)**
 
 - NoMod
   - [Shiena Nishizawa - FUBUKI (eINess) \[eINess' Insane\]](https://osu.ppy.sh/beatmapsets/288950#osu/662093)
@@ -1002,7 +1002,7 @@ Sunday, 24 February 2019:
 4. Each team should have at least two (2) players within a bracket's range to be able to play, but they are allowed to have a third player. Needless to say, the third player must be in the same bracket range as their teammates so as to be eligible to play.
 5. 32 teams per bracket (96 over the entire tournament) will participate in the tournament. We may NOT increase this limit, but we may shrink it if needed. However, that does not mean only 32 teams per bracket may sign up (see the point below).
 6. Seeding will not be done using PP Average from each team, but using a Qualifiers stage. This Qualifiers stage will also kick out any team that did not make top 32 for their bracket during the Qualifiers Stage.
-7. Only players that are from Europe may play. This includes any player the account of which is located in any of the countries stated on [this list](https://www.countries-ofthe-world.com/countries-of-europe.html "Countries of the World").
+7. Only players that are from Europe may play. This includes any player the account of which is located in any of the countries stated on [this list](https://www.countries-ofthe-world.com/countries-of-europe.html).
 8. Winners from the previous editions will not get any disadvantage regarding their own line-up: they are free to have the same as last edition.
 9. Players may not sign-up as a free-agent: if players wish to be scouted by other teams/players, a `#free-agents` text chat will be opened on our Discord server.
 10. Mappool format will go as follows:

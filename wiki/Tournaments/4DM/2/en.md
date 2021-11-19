@@ -8,7 +8,7 @@ tags:
 
 ![4DM2 logo](img/logo.jpg)
 
-The **4 Digit osu!mania World Cup 2** (***4DM2***) was a worldwide country-based double-elimination 3v3 osu!mania 4K tournament hosted by ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) and ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095). This was the second installment of the 4 Digit osu!mania World Cup.
+The **4 Digit osu!mania World Cup 2** (***4DM2***) was a worldwide country-based double-elimination 3v3 osu!mania 4K tournament hosted by ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) and ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095). This was the second instalment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
 
@@ -17,21 +17,21 @@ The **4 Digit osu!mania World Cup 2** (***4DM2***) was a worldwide country-based
 | Registration phase | 2020-01-01/2020-01-25 |
 | Live drawings | 2020-02-08 (01:00 UTC) |
 | Qualifiers | 2020-02-15/2020-02-16 |
-| Group Stage | 2020-02-22/2020-02-25 |
+| Group stage | 2020-02-22/2020-02-25 |
 | Round of 16 | 2020-02-29/2020-03-01 |
 | Quarterfinals | 2020-03-07/2020-03-08 |
 | Semifinals | 2020-03-14/2020-03-15 |
-| Finals Week 1 | 2020-03-20/2020-03-22 |
-| Finals Week 2 | 2020-03-28 |
+| Finals week 1 | 2020-03-20/2020-03-22 |
+| Finals week 2 | 2020-03-28 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 6 months of osu!supporter tag for each team member |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag for each team member |
-| *4th-8th place* | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 6 months of osu!supporter for each team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter for each team member |
+| *4th-8th place* | 1 month of osu!supporter for each team member |
 
 ![](img/badge.png "4DM2 winner badge")
 
@@ -44,8 +44,8 @@ The 4 Digit osu!mania World Cup 2 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| Map selector | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_TH] [RuleBlazing](https://osu.ppy.sh/users/7312402), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
-| Map tester | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_PE] [DaZeRo5](https://osu.ppy.sh/users/6114633), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414) |
+| Mappool selector | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_TH] [RuleBlazing](https://osu.ppy.sh/users/7312402), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
+| Mappool tester | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_PE] [DaZeRo5](https://osu.ppy.sh/users/6114633), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414) |
 | Referee | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_TH] [-\[DaNieL\_TH\]-](https://osu.ppy.sh/users/6456531), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_ID] [Yangga](https://osu.ppy.sh/users/12143152) |
 | Streamer | ![][flag_US] [\[GS\]Ery](https://osu.ppy.sh/users/9872668), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Commentator | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_AU] [\[GS\]Choccy](https://osu.ppy.sh/users/13111686), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_US] [furret osu](https://osu.ppy.sh/users/11952501), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_NZ] [WhiteWeebWolf](https://osu.ppy.sh/users/8927299) |
@@ -56,10 +56,10 @@ The 4 Digit osu!mania World Cup 2 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1004847)
-- [4DM Discord server](https://discord.gg/NzYtsxV "Discord")
-- [4DM YouTube channel](https://youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg "YouTube")
-- [Livestream](https://twitch.tv/4digitmwc "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing "Google Sheets")**
+- [4DM Discord server](https://discord.gg/NzYtsxV)
+- [4DM YouTube channel](https://youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
+- [Livestream](https://twitch.tv/4digitmwc)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing)**
 
 ## Participants
 
@@ -117,9 +117,9 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Finals Week 2
+### Finals week 2
 
-**[Download the map pack here! (101 MB)](https://www.dropbox.com/s/w8i2vgeunb4iure/Grand%20Finals%20%284DM2%20IS%20GONE%29.zip?dl=0 "Dropbox")**
+**[Download the map pack here! (101 MB)](https://www.dropbox.com/s/w8i2vgeunb4iure/Grand%20Finals%20%284DM2%20IS%20GONE%29.zip?dl=0)**
 
 - FreeMod
   - [Treyarch Sound - Archangel (Civilization) \[Detain\]](https://osu.ppy.sh/beatmapsets/828771#mania/1736352)
@@ -140,9 +140,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - overcomplexification ("Quaternion" Long ver.) (HowToPlayLN) \[RuleNote x Sere2snow Labyrinthine\]](https://osu.ppy.sh/beatmapsets/1130230#mania/2360991)**
 
-### Finals Week 1
+### Finals week 1
 
-**[Download the map pack here! (116 MB)](https://www.dropbox.com/s/qngtsvfx96rpv4q/Finals%20Week%201.zip?dl=0 "Dropbox")**
+**[Download the map pack here! (116 MB)](https://www.dropbox.com/s/qngtsvfx96rpv4q/Finals%20Week%201.zip?dl=0)**
 
 - FreeMod
   - [Le Dos-on - A (Elekton) \[ex\]](https://osu.ppy.sh/beatmapsets/585451#mania/1240177)
@@ -163,7 +163,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the map pack here! (79 MB)](https://www.dropbox.com/s/bxytgvryoqsuud6/SF.zip?dl=0 "Dropbox")**
+**[Download the map pack here! (79 MB)](https://www.dropbox.com/s/bxytgvryoqsuud6/SF.zip?dl=0)**
 
 - NoMod
   - [goreshit - looming shadow of a tree long gone (-Rem-) \[blight\]](https://osu.ppy.sh/beatmapsets/1100396#mania/2298957)
@@ -184,7 +184,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the map pack here! (88 MB)](https://puu.sh/FfWVG/063f62c285.zip "puush")**
+**[Download the map pack here! (88 MB)](https://puu.sh/FfWVG/063f62c285.zip)**
 
 - FreeMod
   - [AAAA - Hoshizora no Kanransha (Len) \[LeiN-'s 4K Insane\]](https://osu.ppy.sh/beatmapsets/877047#mania/1837281)
@@ -203,7 +203,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the map pack here! (83 MB)](https://puu.sh/Fdtx1/bd12368c8b.zip "puush")**
+**[Download the map pack here! (83 MB)](https://puu.sh/Fdtx1/bd12368c8b.zip)**
 
 - FreeMod
   - [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/860089#mania/2007200)
@@ -220,7 +220,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - Heart of Android : Even If It's Only By Mechanism (Antalf) \[Cipher\]](https://osu.ppy.sh/beatmapsets/1042122#mania/2325913)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [Hyper Potions - Ski (\[GS\]Logan) \[HowToPlayLN's Lubricity (edit)\]](https://osu.ppy.sh/beatmapsets/1110745#mania/2320858)
@@ -335,7 +335,7 @@ Sunday, 1 March 2020:
 | **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/58851567) |
 | **France** ![][flag_FR] | **5** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/58853975) |
 
-### Group Stage
+### Group stage
 
 Saturday, 22 February 2020:
 
@@ -383,7 +383,7 @@ Tuesday, 25 February 2020:
 
 ### Qualifiers
 
-- More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing "Google Sheets")
+- More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing)
 - Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 - Only the top 24 team can proceed to the Group Stage
 - ![][flag_PE] Peru didn't show up during their Qualifiers
@@ -444,7 +444,7 @@ Tuesday, 25 February 2020:
    - If fewer than 20 teams enter, the number of teams that will advance is the highest power of 2 that is fewer than the number of entering teams (For example, if 19 teams enter, then 16 teams will advance. If 15 teams enter, then 8 teams will advance.) In this case, Group Stage will not occur and players will advance directly into the bracket stages.
 4. The results of the Qualifier Stage will also be used to determine the “seed” of each team. However, this concept will be explained in the Group Stage category below, as seeding is very pertinent in how the Group Stage works.
 
-#### Group Stage
+#### Group stage
 
 1. Based on the results of the Qualifier Stage, teams will be given a qualifier rank based off of their “score rating”, essentially meaning how well each team ranks on each qualifier stage compared to every other team. Teams, based off of this aforementioned rank, will be given a “seed”, meaning be classified into a certain ranking range with other teams around their qualifier rank in an attempt to generalize each teams’ overall comparative skill level with their “seed”. As the exact number of entering teams cannot be known yet, there are several possibilities for the ranking ranges used in determining each seed, so all possibilities will be listed below.
 2. If 32 teams remain after qualifiers, there will be 4 different seeds, and seeding will be decided as such:

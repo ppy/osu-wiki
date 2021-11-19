@@ -9,7 +9,7 @@ tags:
 
 ![BTT 4 logo](img/logo.gif)
 
-The **Beginners' Taiko Tournament 4** (***BTT 4***) was a 1v1 double elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the fourth installment of the Beginners' Taiko Tournament.
+The **Beginners' Taiko Tournament 4** (***BTT 4***) was a 1v1 double elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the fourth instalment of the Beginners' Taiko Tournament.
 
 ## Tournament schedule
 
@@ -29,9 +29,9 @@ The **Beginners' Taiko Tournament 4** (***BTT 4***) was a 1v1 double elimination
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter |
 
 ![](img/badge.png "BTT 4 winner badge")
 
@@ -53,10 +53,10 @@ The Beginners' Taiko Tournament 4 was run by various osu!taiko community members
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/861647)
-- [BTT Discord server](https://discord.gg/4GXtC52 "Discord")
-- [Challonge brackets](https://challonge.com/BTTS4 "Challonge")
-- [Livestream](https://www.twitch.tv/beginnerstaikotourney "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTe-EZbozFMJ5Bf75owX-fEaXjGSUS1Q5zX7d09p3npsyl1GUiTlkFcqNHKtTRiOM9Z4_nbkkHUZJ5H/pubhtml "Google Sheets")**
+- [BTT Discord server](https://discord.gg/4GXtC52)
+- [Challonge brackets](https://challonge.com/BTTS4)
+- [Livestream](https://www.twitch.tv/beginnerstaikotourney)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTe-EZbozFMJ5Bf75owX-fEaXjGSUS1Q5zX7d09p3npsyl1GUiTlkFcqNHKtTRiOM9Z4_nbkkHUZJ5H/pubhtml)**
 
 ## Participants
 
@@ -71,7 +71,7 @@ The Beginners' Taiko Tournament 4 was run by various osu!taiko community members
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) |
@@ -81,7 +81,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (104 MB)](https://mega.nz/#!TCZyASRJ!RS23vGR9T7imNyP8a6Sccu_mt5Ix6r7bxNkbxLVcFtM "MEGA")**
+**[Download the mappack here! (104 MB)](https://mega.nz/#!TCZyASRJ!RS23vGR9T7imNyP8a6Sccu_mt5Ix6r7bxNkbxLVcFtM)**
 
 - NoMod
   - [Sleeping With Sirens - If You Can't Hang (Nardoxyribonucleic) \[Nardo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/409025#taiko/888019)
@@ -111,7 +111,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (92 MB)](https://mega.nz/#!neAjGKjR!7azaacZ6nG27A3E2jcPMV78JsJ2BSyQE_g1gCfFoNko "MEGA")**
+**[Download the mappack here! (92 MB)](https://mega.nz/#!neAjGKjR!7azaacZ6nG27A3E2jcPMV78JsJ2BSyQE_g1gCfFoNko)**
 
 - NoMod
   - [Yuyoyuppe - Reon (Makar) \[Makar's Muzukashii\]](https://osu.ppy.sh/beatmapsets/55980#taiko/244118)
@@ -141,7 +141,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (80 MB)](https://mega.nz/#!nOpwEQIL!mFSWpKyuJkYqyj63q4rmLyTE47cUZJnFPOt4U3gsTXs "MEGA")**
+**[Download the mappack here! (80 MB)](https://mega.nz/#!nOpwEQIL!mFSWpKyuJkYqyj63q4rmLyTE47cUZJnFPOt4U3gsTXs)**
 
 - NoMod
   - [MuryokuP - hypnoSpirA (Makar) \[Makar's Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/57908#taiko/180664)
@@ -169,7 +169,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (66 MB)](https://mega.nz/#!yawFFQgY!4E8hqF2Jml4TeyxXIFUqGAM0cWK1aunVtjg8SjCBGtQ "MEGA")**
+**[Download the mappack here! (66 MB)](https://mega.nz/#!yawFFQgY!4E8hqF2Jml4TeyxXIFUqGAM0cWK1aunVtjg8SjCBGtQ)**
 
 - NoMod
   - [Neru - Lost One no Goukoku (taiko\_maniac1811) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/144356#taiko/358583)
@@ -195,7 +195,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (56 MB)](https://mega.nz/#!jWhXBKRB!sz4WbuH3dWTAHvnBTaEhuTRvgHqDdEvU1S8gcimu1I8 "MEGA")**
+**[Download the mappack here! (56 MB)](https://mega.nz/#!jWhXBKRB!sz4WbuH3dWTAHvnBTaEhuTRvgHqDdEvU1S8gcimu1I8)**
 
 - NoMod
   - [Camellia - Kono Hoshi de... (\_DUSK\_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/773105#taiko/1625127)
@@ -219,7 +219,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (56 MB)](https://mega.nz/#!jWhXBKRB!sz4WbuH3dWTAHvnBTaEhuTRvgHqDdEvU1S8gcimu1I8 "MEGA")**
+**[Download the mappack here! (56 MB)](https://mega.nz/#!jWhXBKRB!sz4WbuH3dWTAHvnBTaEhuTRvgHqDdEvU1S8gcimu1I8)**
 
 - NoMod
   - [Nakanojojo - Bittersweet (feat. Kuishinboakachan a.k.a Kiato) (Nardoxyribonucleic) \[Nardo's Futsuu\]](https://osu.ppy.sh/beatmapsets/847323#taiko/1772048)
@@ -243,7 +243,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers stage
 
-**[Download the mappack here! (38 MB)](https://mega.nz/#!Ga5xES7C!cIYx4loj_absIdwI7f97bI8K39XytTbBXsu9CdJ08B8 "MEGA")**
+**[Download the mappack here! (38 MB)](https://mega.nz/#!Ga5xES7C!cIYx4loj_absIdwI7f97bI8K39XytTbBXsu9CdJ08B8)**
 
 - NoMod
   - [CyoucyoP feat.Hatsune Miku - End of the World (TKS) \[Kantan\]](https://osu.ppy.sh/beatmapsets/215476#taiko/506474)

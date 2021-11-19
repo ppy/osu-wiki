@@ -2,7 +2,7 @@
 
 ![Design tab](img/SE_base.jpg "Design tab")
 
-The **Storyboard Editor** is a section of the in-game [Beatmap Editor](/wiki/Beatmap_Editor), under the Design tab, which enables simple [Storyboarding](/wiki/Storyboards). It is a good introduction to the fundamental concept before the more advanced [Storyboard Scripting](/wiki/Storyboard_Scripting).
+The **Storyboard Editor** is a section of the in-game [Beatmap Editor](/wiki/Beatmap_Editor), under the Design tab, which enables simple [Storyboarding](/wiki/Storyboard). It is a good introduction to the fundamental concept before the more advanced [Storyboard Scripting](/wiki/Storyboard/Scripting).
 
 It would be favorable to do crash courses out of every commands using random images at least once before attempting some serious storyboarding. It would help you memorise and understand the usage better.
 
@@ -147,11 +147,11 @@ Plays the beatmap. Outro storyboarding requires storyboard scripting. Playback S
 
 ## Limitations
 
-- No sound effect support, this is not a big problem as sound effects can distract players, especially if they are near [hit objects](/wiki/Hit_Objects). Use of sound effects should be done by advanced mappers only and with the guidance of a BAT.
-- No [loop](/wiki/Storyboard_Scripting/Compound_Commands) or [trigger](/wiki/Storyboard_Scripting/Compound_Commands) support.
-- No [Move-X](/wiki/Storyboard_Scripting/Commands)/[Move-Y](/wiki/Storyboard_Scripting/Commands) commands.
+- No sound effect support, this is not a big problem as sound effects can distract players, especially if they are near [hit objects](/wiki/Hit_object). Use of sound effects should be done by advanced mappers only and with the guidance of a BAT.
+- No [loop](/wiki/Storyboard/Scripting/Compound_Commands) or [trigger](/wiki/Storyboard/Scripting/Compound_Commands) support.
+- No [Move-X](/wiki/Storyboard/Scripting/Commands)/[Move-Y](/wiki/Storyboard/Scripting/Commands) commands.
 - Sprite coordinate is *always* 320,240. You will need to use Move command once to set the location (endpoint not required).
-  - If you are *also* doing [Storyboard Scripting](/wiki/Storyboard_Scripting), you will need to *read an extra line* per object done in Design tab.
+  - If you are *also* doing [Storyboard Scripting](/wiki/Storyboard/Scripting), you will need to *read an extra line* per object done in Design tab.
 
 ## Source
 

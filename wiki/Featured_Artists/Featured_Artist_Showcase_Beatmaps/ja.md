@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2d446e0407bca810b5c85a8271c4d88f15eecbd5
+---
+
 # 注目アーティストのショーケースビートマップ
 
 [Mappers' Guild](/wiki/Mappers_Guild)のメンバーは、osu!で未発表の注目アーティストの楽曲を使って、限定の「ショーケースビートマップ」を作成することがあります。注目アーティストが発表されると、このビートマップは対応する[ニュース記事](https://osu.ppy.sh/home/news)で取り上げられ、[@osugameのTwitter](https://twitter.com/osugame)でもしばしば宣伝されます。
@@ -367,9 +372,9 @@ Guildの設立当初は応募制のクローズドな応募による運営がさ
 [flag_AR]: /wiki/shared/flag/AR.gif "アルゼンチン"
 [flag_BR]: /wiki/shared/flag/BR.gif "ブラジル"
 [flag_CA]: /wiki/shared/flag/CA.gif "カナダ"
-[flag_CN]: /wiki/shared/flag/CN.gif "中国"
 [flag_CL]: /wiki/shared/flag/CL.gif "チリ"
-[flag_CZ]: /wiki/shared/flag/CZ.gif "チェコ共和国"
+[flag_CN]: /wiki/shared/flag/CN.gif "中華人民共和国"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "チェコ"
 [flag_DE]: /wiki/shared/flag/DE.gif "ドイツ"
 [flag_EE]: /wiki/shared/flag/EE.gif "エストニア"
 [flag_ES]: /wiki/shared/flag/ES.gif "スペイン"
@@ -387,9 +392,9 @@ Guildの設立当初は応募制のクローズドな応募による運営がさ
 [flag_NO]: /wiki/shared/flag/NO.gif "ノルウェー"
 [flag_PH]: /wiki/shared/flag/PH.gif "フィリピン"
 [flag_PL]: /wiki/shared/flag/PL.gif "ポーランド"
-[flag_RU]: /wiki/shared/flag/RU.gif "ロシア"
 [flag_RS]: /wiki/shared/flag/RS.gif "セルビア"
+[flag_RU]: /wiki/shared/flag/RU.gif "ロシア連邦"
 [flag_SE]: /wiki/shared/flag/SE.gif "スウェーデン"
 [flag_SG]: /wiki/shared/flag/SG.gif "シンガポール"
-[flag_TN]: /wiki/shared/flag/tn.gif "チュニジア"
+[flag_TN]: /wiki/shared/flag/TN.gif "チュニジア"
 [flag_US]: /wiki/shared/flag/US.gif "アメリカ合衆国"

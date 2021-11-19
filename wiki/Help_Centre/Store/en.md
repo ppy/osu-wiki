@@ -22,7 +22,7 @@ Having trouble with a product from the osu!store? Check if there's an available 
 
 ### How do I configure the osu!keyboard?
 
-**You can use the osu!keyboard configuration utility, available from [this link](https://puu.sh/l6urN/4b6bc800f2.zip).**
+**You can use the osu!keyboard configuration utility, available from [puush](https://puu.sh/l6urN/4b6bc800f2.zip).**
 
 Simply extract it to anywhere on your computer, and run the executable!
 
@@ -101,7 +101,9 @@ First off, [download the package containing the osu!go default files](https://as
 
 ### The osu!go device is present, but in a "RAW" state
 
-**This will appear like [this](https://puu.sh/nktuJ/05791b6fc1.png) in the Disk Management dialog.**
+**This will appear like this in the Disk Management dialog:**
+
+![](img/raw-status-osu-go.png)
 
 To fix this, ensure you have the osu!go device selected, right-click on the RAW partition, and select the `Format` option. Choose either `NTFS` or `exFAT` under the `File System` dropdown.
 

@@ -8,7 +8,7 @@ Aşağıda, topluluk içerisinde yardımcı olabileceğiniz yollardan birkaçı 
 
 [Wiki](https://github.com/ppy/osu-wiki) osu! hakkındaki her şeyin bulunduğu resmi bilgi bankamızdır. Dolayısıyla wiki, sitenin taze, yeni bilgiler veya çeviriler ile güncel kalmasına yardımcı olabilecek iştirakçileri her daim aramaktadır.
 
-Eğer osu! wiki'ye yeniyseniz, bu konuyla ilgili daha fazla bilgiye [osu! wiki Katkı Rehberi'nden](/wiki/osu!_wiki_Contribution_Guide) erişebilirsiniz.
+Eğer osu! wiki'ye yeniyseniz, bu konuyla ilgili daha fazla bilgiye [osu! wiki Katkı Rehberi'nden](/wiki/osu!_wiki/Contribution_guide) erişebilirsiniz.
 
 ## osu!'nun arkadaş canlısı ve güvenli kalmasına yardımcı olun
 
@@ -39,7 +39,7 @@ Aşağıdakiler insanlara yardım edebileceğiniz birkaç yolu anahatlarıyla be
 osu!, [beatmaplerin](/wiki/Beatmap) dereceli olmaya ve herkes tarafından oynanmaya hazır olup olmadığını denetleyen özel bir kontrol ekibine sahiptir. Ancak, bu sizin bu kategoriye katkıda bulunmanıza engel değildir:
 
 - [Beklemedeki Beatmapler](https://osu.ppy.sh/beatmapsets?s=pending) listesinde sevdiğiniz sanatçılara ya da şarkılara ve/veya katkıda bulunmak istediklerinize göz atın.
-- [*Beklemede* ya da *Yapım aşamasında*](/wiki/Beatmap/Category#work-in-progress-and-pending) bulunan beatmapleri oynayın ve beatmapin tartışma sayfasına bir geri bildirim bırakın.
+- [*Beklemede* ya da *Yapım aşamasında*](/wiki/Beatmap/Category#yapım-aşamasında-ve-beklemede) bulunan beatmapleri oynayın ve beatmapin tartışma sayfasına bir geri bildirim bırakın.
 - Teknik modlamanın temel prensiplerini ve nelerin beatmapleri dereceli yaptığını öğrenmek için [Modlama Rehberini](/wiki/Modding) ve [Derecelendirme Kriterlerini](/wiki/Ranking_Criteria) okuyun.
 - Oyun-içi sohbette bulunan `#mapping` ve `#modreqs` kanallarına katılın ve ister muhabbete dahil olun isterseniz de sadece konuşmaları takip edin.
 - Eğer vaktiniz ve gayretiniz varsa, beatmap yaratıcılarının sizden mod istemesi için bir [Modlama Sırası](https://osu.ppy.sh/community/forums/60) oluşturun.
@@ -52,7 +52,7 @@ Aşağıda katkıda bulunabileceğiniz yollardan birkaçı mevcut:
 
 - [Turnuvalar](https://osu.ppy.sh/community/forums/55) forumuna göz atın. Turnuvalar epey zaman alır ve aksamadan organize edilmesi oldukça fazla bir iş gücü gerektirir, ve bazı durumlarda seyirci juri olarak yardımcı olabilirsiniz.
 - [Geliştirme](https://osu.ppy.sh/community/forums/2) forumunda neler olduğunu kontrol edin; burası çoğu önemli projenin bulunduğu yerdir.
-   - [osu!dev Discord'una](https://discord.gg/ppy) katılın! Yalnızca olan biteni takip etmek ve osu!'nun geliştirilmesiyle ve projelerle güncel kalmak bile gelişmelerden haberdar olmanın iyi bir yoludur.
+  - [osu!dev Discord'una](https://discord.gg/ppy) katılın! Yalnızca olan biteni takip etmek ve osu!'nun geliştirilmesiyle ve projelerle güncel kalmak bile gelişmelerden haberdar olmanın iyi bir yoludur.
 - Bir [beatmap projesine](https://osu.ppy.sh/community/forums/53) katılın ve diğerleriyle birlikte çalışmanın ne kadar eğlenceli olduğunu öğrenin!
 - Kendi projenizi başlatın! Dans eden pippi'yi geri getirmek olsun, veya sadece osu! için havalı bir şey yapmak olsun, her şey uygundur!
 

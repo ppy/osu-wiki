@@ -8,7 +8,7 @@ tags:
 
 ![CMC 2020 logo](img/logo.jpg)
 
-The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v2 osu!mania 4K tournament hosted by ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) and co-hosted by ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653). The tournament was open to all osu!mania players from Indonesia with a [global osu!mania 4K rank](https://osu.ppy.sh/rankings/mania/performance?variant=4k) of \#4,000 or lower. It was the 1st installment of the Cemara Mania Cup.
+The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v2 osu!mania 4K tournament hosted by ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) and co-hosted by ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653). The tournament was open to all osu!mania players from Indonesia with a [global osu!mania 4K rank](https://osu.ppy.sh/rankings/mania/performance?variant=4k) of \#4,000 or lower. It was the first instalment of the Cemara Mania Cup.
 
 ## Tournament schedule
 
@@ -17,7 +17,7 @@ The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v
 | Registration phase | 2020-10-06/2020-11-01 |
 | Screening phase | 2020-11-02/2020-11-08 |
 | Qualifiers | 2020-11-09/2020-11-15 |
-| Group Stage | 2020-11-16/2020-11-22 |
+| Group stage | 2020-11-16/2020-11-22 |
 | Quarterfinals | 2020-11-23/2020-11-29 |
 | Semifinals | 2020-11-30/2020-12-06 |
 | Finals week 1 | 2020-12-07/2020-12-13 |
@@ -27,12 +27,12 @@ The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag for each team member, 100% of the raised prize pool |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter for each team member, 100% of the raised prize pool |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter for each team member |
 | *4th place* | Steam Wallet voucher worth approx. IDR 45,000.- for each team member |
 
-## Organization
+## Organisation
 
 Cemara Mania Cup \#1 (2020) was run by various Indonesian osu! community members.
 
@@ -52,23 +52,12 @@ Cemara Mania Cup \#1 (2020) was run by various Indonesian osu! community members
 
 ## Links
 
-- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977 "Google Sheets")**
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1157755)
-- [Discord server](https://discord.gg/5a2dy53 "Discord")
-- [Livestream (Twitch)](https://www.twitch.tv/komplekkeluargacemara "Twitch")
-- [Livestream (YouTube)](http://www.youtube.com/channel/UCVKBLmflZE2QUHnmB8eaf0g "YouTube")
-- [Challonge bracket](https://challonge.com/CMC_1 "Challonge")
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Team |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Neppu-Neppu** (![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Leviathan** (![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933), ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **UwU Team** (![][flag_ID] [juww](https://osu.ppy.sh/users/11019862), ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808)) |
-| *4th place* | **Team 11** (![][flag_ID] [N i k o L](https://osu.ppy.sh/users/12971540), ![][flag_ID] [ladycello](https://osu.ppy.sh/users/15412010)) |
+- [Discord server](https://discord.gg/5a2dy53)
+- [Livestream (Twitch)](https://www.twitch.tv/komplekkeluargacemara)
+- [Livestream (YouTube)](http://www.youtube.com/channel/UCVKBLmflZE2QUHnmB8eaf0g)
+- [Challonge bracket](https://challonge.com/CMC_1)
 
 ## Participants
 
@@ -106,11 +95,22 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 | **Team 3** | ![][flag_ID] [\[ID\]Rachel-](https://osu.ppy.sh/users/13848924) (*Group B / 1st Place*) | ![][flag_ID] [SanjayaIH](https://osu.ppy.sh/users/12202728) (*Group D / 2nd Place*) |
 | **UwU Team** | ![][flag_ID] [juww](https://osu.ppy.sh/users/11019862) (*Group E / 1st Place*) | ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808) (*Group G / 2nd Place*) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Neppu-Neppu** (![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Leviathan** (![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933), ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **UwU Team** (![][flag_ID] [juww](https://osu.ppy.sh/users/11019862), ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808)) |
+| *4th place* | **Team 11** (![][flag_ID] [N i k o L](https://osu.ppy.sh/users/12971540), ![][flag_ID] [ladycello](https://osu.ppy.sh/users/15412010)) |
+
 ## Mappools
 
 ### Finals week 2
 
-**[Download the mappack here! (145 MB)](https://mega.nz/file/jBZVDKTK#R_SaMh108Uh8HTLVqd_LRzAx2cMU33NEBUdAIv0uVnI "MEGA")**
+**[Download the mappack here! (145 MB)](https://mega.nz/file/jBZVDKTK#R_SaMh108Uh8HTLVqd_LRzAx2cMU33NEBUdAIv0uVnI)**
 
 - FreeMod
   - [sakuzyo - Hodie (Tidek) \[Vivace\]](https://osu.ppy.sh/beatmapsets/924601#mania/1931227)
@@ -134,7 +134,7 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 
 ### Finals week 1
 
-**[Download the mappack here! (152 MB)](https://mega.nz/file/eJ4gyLDB#KmS0gCt2ESk1wgQ3xppwrD8MBjTlk2u66H01TY7sWdg "MEGA")**
+**[Download the mappack here! (152 MB)](https://mega.nz/file/eJ4gyLDB#KmS0gCt2ESk1wgQ3xppwrD8MBjTlk2u66H01TY7sWdg)**
 
 - FreeMod
   - [Jameson Hodge - pn sqnc 518\[6\] (Couil) \[sv sqnc 518\[1\]\]](https://osu.ppy.sh/beatmapsets/973377#mania/2037752)
@@ -158,7 +158,7 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 
 ### Semifinals
 
-**[Download the mappack here! (115 MB)](https://mega.nz/file/SYh2WRJT#VLADStY3zDWzzc34s2P00-9SJLRaAWeWhOH_bNxF5Rs "MEGA")**
+**[Download the mappack here! (115 MB)](https://mega.nz/file/SYh2WRJT#VLADStY3zDWzzc34s2P00-9SJLRaAWeWhOH_bNxF5Rs)**
 
 - FreeMod
   - [Spektrem - Mountkid - Dino \[NCS Release\] (NO 1 Jinramyeon) \[SV\]](https://osu.ppy.sh/beatmapsets/968290#mania/2026157)
@@ -180,7 +180,7 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 
 ### Quarterfinals
 
-**[Download the mappack here! (90 MB)](https://mega.nz/file/LZg0gaqR#uNT_PFapDqmxh9E1kyCYx0zUSqz4pMIfyPo2HbPPan4 "MEGA")**
+**[Download the mappack here! (90 MB)](https://mega.nz/file/LZg0gaqR#uNT_PFapDqmxh9E1kyCYx0zUSqz4pMIfyPo2HbPPan4)**
 
 - FreeMod
   - [The Tech Thieves - Fake (Erkfir) \[Faked It (Edit)\]](https://osu.ppy.sh/beatmapsets/1048516#mania/2259015)
@@ -198,12 +198,12 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 - Tiebreaker
   - **[Magnetude - Broken (SaltyMermaid) \[Shattered\]](https://osu.ppy.sh/beatmapsets/842099#mania/1762138)** 
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (29 MB)](https://mega.nz/file/WJYlVAyB#VaveHrRewqSkukDhdYajrhvWeS7CY-iZ38j4Pc7s0ok "MEGA")**
+**[Download the mappack here! (29 MB)](https://mega.nz/file/WJYlVAyB#VaveHrRewqSkukDhdYajrhvWeS7CY-iZ38j4Pc7s0ok)**
 
 - FreeMod
-  - [Getter Jaani - Rockefeller Street (\[GS\]Logan) \[ProSVperity\]](https://mega.nz/file/jdAwXRIB#tFUChm5qXEYcnhds5ShZu_y4qd06aYjjbn7MOHOuJDM "MEGA")
+  - [Getter Jaani - Rockefeller Street (\[GS\]Logan) \[ProSVperity\]](https://mega.nz/file/jdAwXRIB#tFUChm5qXEYcnhds5ShZu_y4qd06aYjjbn7MOHOuJDM)
   - [An - Saigo (juankristal) \[Inspiration\]](https://osu.ppy.sh/beatmapsets/609463#mania/1287086)
   - [Jakub Zytecki - Letters (Cokiiplay) \[Voyage\]](https://osu.ppy.sh/beatmapsets/1282382#mania/2663564)
   - [LV.4 - Angel dust (Fontes) \[4k leqek's Hard\]](https://osu.ppy.sh/beatmapsets/970810#mania/2039046)
@@ -212,7 +212,7 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 
 ### Qualifiers
 
-**[Download the mappack here! (22 MB)](https://mega.nz/file/3ZJBzQ6Y#_zFdkYDEkMnSckC9bx_Sl_0358CHZU_ZWOEPtfz2yvI "MEGA")**
+**[Download the mappack here! (22 MB)](https://mega.nz/file/3ZJBzQ6Y#_zFdkYDEkMnSckC9bx_Sl_0358CHZU_ZWOEPtfz2yvI)**
 
 - FreeMod
   - [Shawn Wasabi + YDG - Burnt Rice (HowToPlayLN) \[Overcooked\]](https://osu.ppy.sh/beatmapsets/995871#mania/2083163)
@@ -321,9 +321,9 @@ Sunday, 29 November 2020:
 9. Lag is not a valid reason to nullify a map.
 10. If there are any unforseen problems during a match occurence, the Tournament Management will make a decision based on the referee's report.
 11. It is expected that all players be polite and respectful to each other at all times. Penalties will be given if players violate.
-    - If a player is found to be engaging in an act of offensive provocation, said player responsible for the provocation may be either disqualified right away from CMC \#1 (2020) and/or blacklisted from the future installment(s) of CMC.
+    - If a player is found to be engaging in an act of offensive provocation, said player responsible for the provocation may be either disqualified right away from CMC \#1 (2020) and/or blacklisted from the future instalment(s) of CMC.
     - Usage of any illegal programs is strictly prohibited and will be immediately reported to the osu!staff at will.
-    - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next installment(s) of CMC regardless of their role in the smurfing incident.
+    - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next instalment(s) of CMC regardless of their role in the smurfing incident.
 
 ### Tournament registration
 
@@ -336,7 +336,7 @@ Sunday, 29 November 2020:
 ### Qualifier rules
 
 1. Each player will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
-2. In the lobby, all players will have to consecutively play all of the five Qualifier maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977 "Google Sheets").
+2. In the lobby, all players will have to consecutively play all of the five Qualifier maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977).
    - All maps are due to be played twice in each lobby; on each map, only the best score from the two attempts that will be taken into consideration.
 3. Players **are not allowed** to ban any maps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
@@ -348,12 +348,12 @@ Sunday, 29 November 2020:
    - Players who ranked #33 or lower based on their accumulated Qualifier score will be knocked out from the tournament.
 6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
-### Group Stage rules
+### Group stage rules
 
 1. In the Group Stage, the 32 previously qualified players will be randomly spread out into eight groups consisting of four different players each based on their seed.
 2. All the players from each group will face each other in a single multiplayer lobby under the "Battle Royale" matchup format as follows:
-   - All players will have to consecutively play all of the six Group Stage maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977 "Google Sheets").
-   - After the conclusion of each map, the two players who finish 2nd and 3rd will receive +2 points and the other two players who finish 1st and 4th will receive +1 point following the "[middle winner](http://imgur.com/a/GydWooA "Imgur")" scoring system.
+   - All players will have to consecutively play all of the six Group Stage maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977).
+   - After the conclusion of each map, the two players who finish 2nd and 3rd will receive +2 points and the other two players who finish 1st and 4th will receive +1 point following the "[middle winner](http://imgur.com/a/GydWooA)" scoring system.
 3. Players **are not allowed** to ban any maps in the Group Stage.
 4. Players will subsequently be ranked in their respective groups based from the amount of points they accumulate in the room. 
    - In case of a points tie, all affected players will be ordered by their Group Stage seed.

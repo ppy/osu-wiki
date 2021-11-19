@@ -2,7 +2,7 @@
 
 ![SST 2018 logo](img/Banner.jpg)
 
-The **SS Tournament 2018** (***SST 2018***) was a 3v3 open-rank double-elimination osu! tournament organised by ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720), ![][flag_US] [NeonLights](https://osu.ppy.sh/users/5277199), and ![][flag_DE] [FrozenPheonix](https://osu.ppy.sh/users/9696149). It was the second installment of the SS Tournament.
+The **SS Tournament 2018** (***SST 2018***) was a 3v3 open-rank double-elimination osu! tournament organised by ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720), ![][flag_US] [NeonLights](https://osu.ppy.sh/users/5277199), and ![][flag_DE] [FrozenPheonix](https://osu.ppy.sh/users/9696149). It was the second instalment of the SS Tournament.
 
 ## Tournament schedule
 
@@ -45,7 +45,7 @@ The SS Tournament 2018 had a prize pool of USD 200.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/684960)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTuQuDZWKprRs_wKi235lawGj9SvdL4mvqjZJrPc9Mk0lDSbJypoDDJxg8tgPysaPyRowXcnol9A3HA/pubhtml "Google Sheets")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTuQuDZWKprRs_wKi235lawGj9SvdL4mvqjZJrPc9Mk0lDSbJypoDDJxg8tgPysaPyRowXcnol9A3HA/pubhtml)**
 
 ## Participants
 
@@ -108,9 +108,11 @@ The SS Tournament 2018 had a prize pool of USD 200.
 | Childhood Issues | ![][flag_DE] [-Hwangbo](https://osu.ppy.sh/users/7467183), ![][flag_DE] [Anroyz](https://osu.ppy.sh/users/1818573), ![][flag_DE] [Shiku](https://osu.ppy.sh/users/3970174), ![][flag_DE] [Shiguri](https://osu.ppy.sh/users/2665207) |
 | Sas(so) | ![][flag_IT] [SIMONETRAPANI](https://osu.ppy.sh/users/7329177), ![][flag_ES] [-Hideki-](https://osu.ppy.sh/users/8688804), ![][flag_IT] [_Akio](https://osu.ppy.sh/users/8676866), ![][flag_IT] [-Katsuo-](https://osu.ppy.sh/users/3460798) |
 
-![](img/Medals.jpg "SST 2018 podium")
+![](img/Brackets.jpg "SST 2018 bracket")
 
-![](img/Brackets.jpg "SST 2018 brackets")
+## Podium
+
+![](img/Medals.jpg "SST 2018 podium")
 
 ## Mappools
 
@@ -159,7 +161,7 @@ The SS Tournament 2018 had a prize pool of USD 200.
   - [maras k - Play Time!! (Reol) [Let's Play]](https://osu.ppy.sh/beatmapsets/345325#osu/762631)
   - [USAO - Dynamite (W h i t e) [Ultimate]](https://osu.ppy.sh/beatmapsets/621565#osu/1310581)
   - [SHO - Plain Asia \~ Guardian of the Village (Kite) [Insane]](https://osu.ppy.sh/beatmapsets/26071#osu/88176)
-- Hardrock
+- HardRock
   - [Primary - Awake (xChippy) [Goodbye]](https://osu.ppy.sh/beatmapsets/308179#osu/689290)
   - [Streetlight Manifesto - Everything Went Numb (pishifat) [Extra]](https://osu.ppy.sh/beatmapsets/414289#osu/899552)
   - [Kucchi vs Akki - Yakumo >>JOINT STRUGGLE (Muya) [Another]](https://osu.ppy.sh/beatmapsets/688877#osu/1463054)
@@ -198,7 +200,7 @@ The SS Tournament 2018 had a prize pool of USD 200.
 - Tiebreaker
   - **[LiSA - Rising Hope (LU-I Remix) (Ohwow) [Irregularity]](https://osu.ppy.sh/beatmapsets/561679#osu/1420353)**
 
-### Round Of 16
+### Round of 16
 
  - NoMod
    - [Eiko Shimamiya - Higurashi no Naku Koro ni (Okorin) [Extra]](https://osu.ppy.sh/beatmapsets/333543#osu/738088)

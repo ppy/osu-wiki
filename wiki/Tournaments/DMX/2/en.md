@@ -7,7 +7,7 @@ tags:
 
 ![DMX 2 logo](img/logo.png)
 
-The **DeltaMax's Taiko Oni Overlord** (***DMX 2***) was a 1v1 double elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second installment of the DeltaMax's Tournaments.
+The **DeltaMax's Taiko Oni Overlord** (***DMX 2***) was a 1v1 double elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second instalment of the DeltaMax's Tournaments.
 
 ## Tournament schedule
 
@@ -26,9 +26,9 @@ The **DeltaMax's Taiko Oni Overlord** (***DMX 2***) was a 1v1 double elimination
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter |
 
 ## Organisation
 
@@ -47,10 +47,10 @@ The DeltaMax's Taiko Oni Overlord was run by various osu!taiko community members
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/759673)
-- [DMX Discord server](https://discord.gg/CzqMnN5 "Discord")
-- [Challonge brackets](https://challonge.com/DMXT "Challonge")
-- [Livestream](https://www.twitch.tv/deltamax_tournaments "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRePjloo5zcJNapJ0O98KSUSmj5QPb3mCBWv-8oniTLVuF3ydcmFf1gt9Fn7H1QrhgjS5TC_bf3uwY1/pubhtml "Google Sheets")**
+- [DMX Discord server](https://discord.gg/CzqMnN5)
+- [Challonge brackets](https://challonge.com/DMXT)
+- [Livestream](https://www.twitch.tv/deltamax_tournaments)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRePjloo5zcJNapJ0O98KSUSmj5QPb3mCBWv-8oniTLVuF3ydcmFf1gt9Fn7H1QrhgjS5TC_bf3uwY1/pubhtml)**
 
 ## Participants
 
@@ -78,7 +78,7 @@ The DeltaMax's Taiko Oni Overlord was run by various osu!taiko community members
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
@@ -88,7 +88,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (90 MB)](https://mega.nz/#!UpFjmQ7R!Gb2BuiMchBz8svczdT3ThaUVAinJtvNKljvtjFOX5Es "MEGA")**
+**[Download the mappack here! (90 MB)](https://mega.nz/#!UpFjmQ7R!Gb2BuiMchBz8svczdT3ThaUVAinJtvNKljvtjFOX5Es)**
 
 - NoMod
   - [ribb0n - OLAY (RIBB0N ILLEGAL BOOTLEG) (vrnl) \[hey ben\]](https://osu.ppy.sh/beatmapsets/783226#taiko/1644603)
@@ -105,7 +105,7 @@ This competition has come to an end and resulted in the following podium:
   - [cosMo VS dj TAKA - kyouken (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/680794#taiko/1439407)
   - [star anis - Adult Mode \[YUC'e Remix\] (hoku-4625) \[hoku's twinkle night ^z^\]](https://osu.ppy.sh/beatmapsets/804530#taiko/1688880)
 - DoubleTime
-  - [Cororo - ancient garden (Hayate1129) \[Inner Oni\]](https://htfarmingiscool.s-ul.eu/7FGlbMQg "s-ul")
+  - [Cororo - ancient garden (Hayate1129) \[Inner Oni\]](https://htfarmingiscool.s-ul.eu/7FGlbMQg)
   - [SHK - Follow Me (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/802367#taiko/1683996)
   - [Omoi - Nee William (sobatsuyu) \[Oni\]](https://osu.ppy.sh/beatmapsets/333503#taiko/776180)
 - FreeMod
@@ -117,7 +117,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (96 MB)](https://mega.nz/#!E5NAjSgD!Oat2E6s8raTuQLNgcWZWZsATAakgYonwLfmQrxQuBs4 "MEGA")**
+**[Download the mappack here! (96 MB)](https://mega.nz/#!E5NAjSgD!Oat2E6s8raTuQLNgcWZWZsATAakgYonwLfmQrxQuBs4)**
 
 - NoMod
   - [Zekk - Hatsukoi Memories (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690025#taiko/1460477)
@@ -146,7 +146,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (108 MB)](https://mega.nz/#!F1NA1aIa!DK3IMj0sIBYxGcW9ctyaIX9S1CfZVqZdiw3N9Z5FC58 "MEGA")**
+**[Download the mappack here! (108 MB)](https://mega.nz/#!F1NA1aIa!DK3IMj0sIBYxGcW9ctyaIX9S1CfZVqZdiw3N9Z5FC58)**
 
 - NoMod
   - [Kobaryo feat. Nanahira - Cross The Finish Line (Backfire) \[Backfire's Oni\]](https://osu.ppy.sh/beatmapsets/410594#taiko/1013340)
@@ -175,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (83 MB)](https://mega.nz/#!oh8SVIQa!m4BPovpRvJBW_Crh_zrJ2D4TU8Xpgu7doyNxb0oidZE "MEGA")**
+**[Download the mappack here! (83 MB)](https://mega.nz/#!oh8SVIQa!m4BPovpRvJBW_Crh_zrJ2D4TU8Xpgu7doyNxb0oidZE)**
 
 - NoMod
   - [LiLA'c Records - Aimless Voyage (Nepuri) \[Lost\]](https://osu.ppy.sh/beatmapsets/679686#taiko/1437286)
@@ -204,7 +204,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (81 MB)](https://mega.nz/#!1wFDTabT!_GecnvAIO96tA2e9FTKZWbA3doONQ5q5upvS_usUmkU "MEGA")**
+**[Download the mappack here! (81 MB)](https://mega.nz/#!1wFDTabT!_GecnvAIO96tA2e9FTKZWbA3doONQ5q5upvS_usUmkU)**
 
 - NoMod
   - [Kana Nishino - Sweet Dreams (11t dnb mix) (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/684455#taiko/1448552)
@@ -233,7 +233,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (81 MB)](https://mega.nz/#!1wFDTabT!_GecnvAIO96tA2e9FTKZWbA3doONQ5q5upvS_usUmkU "MEGA")**
+**[Download the mappack here! (81 MB)](https://mega.nz/#!1wFDTabT!_GecnvAIO96tA2e9FTKZWbA3doONQ5q5upvS_usUmkU)**
 
 - NoMod
   - [Himeringo - Idola no Circus (hikikochan-) \[Dance\]](https://osu.ppy.sh/beatmapsets/728008#taiko/1537074)

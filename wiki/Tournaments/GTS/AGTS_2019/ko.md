@@ -8,7 +8,7 @@ outdated: true
 
 # Advanced Global Taiko Showdown 2019
 
-![AGTS 2019 Logo](img/logo.png)
+![AGTS 2019 Logo](img/logo.jpg)
 
 **Advanced Global Taiko Showdown 2019** (***AGTS 2019***)는 더블 엘리미네이션 방식의 2대2 국가대항전 토너먼트이며, ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263)와 ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133)가 주최했습니다. Global Taiko Showdown 시리즈의 3번째 대회이기도 합니다..
 
@@ -55,10 +55,10 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 ## 링크
 
 - [메인 스레드](https://osu.ppy.sh/community/forums/topics/931003)
-- [AGTS 디스코드 서버](https://discord.gg/zbHVzvF "Discord")
-- [라이브 방송](https://www.twitch.tv/gtsosu "Twitch")
-- [Challonge 대진표](https://challonge.com/AGTS2019 "Challonge")
-- **[메인 스프레드시트](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing "Google Sheets")**
+- [AGTS 디스코드 서버](https://discord.gg/zbHVzvF)
+- [라이브 방송](https://www.twitch.tv/gtsosu)
+- [Challonge 대진표](https://challonge.com/AGTS2019)
+- **[메인 스프레드시트](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
 
 ## 참가자
 
@@ -120,7 +120,7 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 
 ### 최종 결승
 
-**[여기를 눌러 맵팩을 다운로드하세요. (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE "MEGA")**
+**[여기를 눌러 맵팩을 다운로드하세요. (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE)**
 
 - NoMod
   - [sakuraburst - dragonlands (Faputa) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/935765#taiko/1954961)
@@ -149,7 +149,7 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 
 ### 결승
 
-**[여기를 눌러 맵팩을 다운로드하세요. (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ "MEGA")**
+**[여기를 눌러 맵팩을 다운로드하세요. (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ)**
 
 - NoMod
   - [YUC'e - PUMP (KinomiCandy) \[Kinobles & Ozzy's Oni\]](https://osu.ppy.sh/beatmapsets/610546#taiko/1289147)
@@ -178,7 +178,7 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 
 ### 4강
 
-**[여기를 눌러 맵팩을 다운로드하세요. (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs "MEGA")**
+**[여기를 눌러 맵팩을 다운로드하세요. (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs)**
 
 - NoMod
   - [Murder King - Ben Her Gun Artik Sen (frukoyurdakul) \[Suistimal\]](https://osu.ppy.sh/beatmapsets/959186#taiko/2008180)
@@ -207,7 +207,7 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 
 ### 8강
 
-**[여기를 눌러 맵팩을 다운로드하세요. (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA "MEGA")**
+**[여기를 눌러 맵팩을 다운로드하세요. (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA)**
 
 - NoMod
   - [Function Phantom - Euclid (salchow) \[Green's Fifth Axiom\]](https://osu.ppy.sh/beatmapsets/941145#taiko/2002626)
@@ -235,7 +235,7 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 
 ### 조별 예선
 
-**[여기를 눌러 맵팩을 다운로드하세요. (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE "MEGA")**
+**[여기를 눌러 맵팩을 다운로드하세요. (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
 
 - NoMod
   - [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Ex's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/136632#taiko/342847)
@@ -267,7 +267,7 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 
 ### 퀄리파이어
 
-**[여기를 눌러 맵팩을 다운로드하세요. (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q "MEGA")**
+**[여기를 눌러 맵팩을 다운로드하세요. (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q)**
 
 - NoMod
   - [kors k - Poochie (Nifty) \[Special\]](https://osu.ppy.sh/beatmapsets/946420#taiko/1976130)
@@ -500,8 +500,8 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
 [flag_MY]: /wiki/shared/flag/MY.gif

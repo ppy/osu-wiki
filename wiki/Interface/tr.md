@@ -94,7 +94,7 @@ Bu bölüm **seçilen beatmap zorluğunun bilgisini** görüntüler. Varsayılan
 
 - **Uzunluk**: Beatmapin toplam uzunluğudur, molalar dahil baştan sona. [Akış süresi (drain time)](/wiki/Gameplay/Drain_time) ile karıştırılmamalıdır.
 - **BPM**: Beatmapin BPM'idir (dakika başı vuruş sayısı). Eğer (bir alttaki resimde olduğu gibi) biri parantez içinde iki BPM varsa, bu şarkı boyunca BPM'in değiştiğini gösterir. Bunlar en yavaş ve en hızlı BPM'leri gösterir, ve parantez içindeki değer ise beatmapin başlangıcındaki BPM'dir.
-- **Objeler**: Beatmap içerisindeki toplam [vuruş objesi](/wiki/Hit_Objects) sayısı.
+- **Objeler**: Beatmap içerisindeki toplam [vuruş objesi](/wiki/Hit_object) sayısı.
 - **Circle sayısı**: Beatmap içerisindeki toplam vuruş çemberi sayısı.
 - **Slider sayısı**: Beatmap içerisindeki toplam slider sayısı.
 - **Spinner sayısı**: Beatmap içerisindeki toplam spinner sayısı.
@@ -295,7 +295,7 @@ Aşağıdakiler diğer oyun modlarının sonuç ekranlarıdır.
 Bu sizin çevrimiçi lider tablonuzdur. Buraya gelmek için sonuç ekranından aşağı kaydırabilirsiniz. Yerel Skor Tablonuz her zamanki gibi isminizi ve skorunuzu görüntüleyecektir.
 
 1. Buradan tekrar için kaydedilen ismi değiştirebilirsiniz.
-2. Oyuncu paneliniz. Sizin [PP](/wiki/Performance_Points)'niz, Küresel Sıralamanız, Toplam Skorunuz, Ortalama [İsabet Oranınız](/wiki/Accuracy), ve seviye göstergeniz bulunur.
+2. Oyuncu paneliniz. Sizin [PP](/wiki/Performance_points)'niz, Küresel Sıralamanız, Toplam Skorunuz, Ortalama [İsabet Oranınız](/wiki/Gameplay/Accuracy), ve seviye göstergeniz bulunur.
 3. Beatmap ile ilgili seçenekler.
    1. Tekrar dosyasını `.osr` olarak çıkar: Çevrimiçi kullanılabilen tekrarı kaydet.
    2. Çevrimiçi Favorilere ekle: Beatmapi Çevrimiçi Favorilerine ekle. Çevrimiçi profilinde Beatmapler->Favori Beatmapler kısmında gözükecektir

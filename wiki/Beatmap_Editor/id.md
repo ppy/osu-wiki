@@ -15,11 +15,11 @@ Beatmap Editor memiliki empat komponen utama sebagaimana yang dapat dilihat pada
 
 ## Compose
 
-Tab [Compose](/wiki/Beatmap_Editor/Compose) merupakan bagian dari editor yang dipergunakan untuk menempatkan [hit object](/wiki/Hit_Objects) dan elemen-elemen permainan lainnya. Pada umumnya, para mapper akan meluangkan sebagian besar waktunya pada tab ini.
+Tab [Compose](/wiki/Beatmap_Editor/Compose) merupakan bagian dari editor yang dipergunakan untuk menempatkan [hit object](/wiki/Hit_object) dan elemen-elemen permainan lainnya. Pada umumnya, para mapper akan meluangkan sebagian besar waktunya pada tab ini.
 
 ## Design
 
-Tab [Design](/wiki/Beatmap_Editor/Design) merupakan bagian dari editor yang dipergunakan untuk membuat [storyboard](/wiki/Storyboards) dan mengatur efek-efek visual lainnya. Meskipun demikian, untuk mendesain storyboard-storyboard yang lebih kompleks pada umumnya para mapper cenderung lebih menggunakan teknik [storyboard scripting](/wiki/Storyboard_Scripting) tanpa melalui tab Design.
+Tab [Design](/wiki/Beatmap_Editor/Design) merupakan bagian dari editor yang dipergunakan untuk membuat [storyboard](/wiki/Storyboard) dan mengatur efek-efek visual lainnya. Meskipun demikian, untuk mendesain storyboard-storyboard yang lebih kompleks pada umumnya para mapper cenderung lebih menggunakan teknik [storyboard scripting](/wiki/Storyboard/Scripting) tanpa melalui tab Design.
 
 ## Timing
 
@@ -36,7 +36,7 @@ Di samping empat komponen utama di atas, Beatmap Editor juga memiliki komponen-k
 - [AiMod](AiMod): Sebuah sistem otomatis yang memuat laporan pada sebuah beatmap jika terjadi kesalahan.
 - [Beat snap divisor](Beat_Snap_Divisor): Menentukan pada ketukan berapa sebuah hit object akan ditempatkan.
 - [Distance snap](Distance_Snap): Menentukan jarak penempatan standar antar satu hit object dengan hit object lainnya.
-- [Kiai time](Kiai_Time): Timing section khusus yang dapat digunakan untuk memberikan penekanan tambahan pada bagian-bagian beatmap tertentu.
+- [Kiai time](/wiki/Kiai_time): Timing section khusus yang dapat digunakan untuk memberikan penekanan tambahan pada bagian-bagian beatmap tertentu.
 - [Menu](Menu): Membantu kamu untuk memberikan petunjuk dalam Beatmap Editor.
 - [SB load](SB_Load): Sebuah angka yang digunakan untuk memberitahu seberapa beratnya storyboard.
 - [Timelines](Timelines): Menampilkan letak hit object, break, dan yang lainnya.

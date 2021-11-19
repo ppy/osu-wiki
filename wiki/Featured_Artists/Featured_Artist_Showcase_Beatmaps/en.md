@@ -1,8 +1,8 @@
 # Featured artist showcase beatmaps
 
-Members of the [Mappers' Guild](/wiki/Mappers_Guild) occasionally create exclusive "showcase beatmaps" by using songs and other materials from osu!'s unreleased [featured artists](/wiki/Featured_Artists). When a featured artist is publicly announced, these beatmaps are covered in the corresponding [newsposts](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame).
+Members of the [Mappers' Guild](/wiki/Mappers_Guild) may occasionally create exclusive "showcase beatmaps" by using songs and other materials from osu!'s unreleased [featured artists](/wiki/Featured_Artists). Upon the announcement of the corresponding featured artist, these beatmaps are highlighted in the [newspost](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame) as well.
 
-To participate in featured artist showcase beatmaps, a member of the Mappers' Guild must accept a [limited-time mystery quests](/wiki/Mappers_Guild#quests) or be directly invited to create a beatmap after reaching tier 1 (or higher) in [Guild rank](/wiki/Mappers_Guild#rewards).
+In order to participate in the creation of featured artist showcase beatmaps, a member of the Mappers' Guild must either accept a [limited-time mystery quest](/wiki/Mappers_Guild#quests), be directly invited by ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), or have their `FA showcase mapper` setting enabled in the [Mappers' Guild website](https://mappersguild.com/).
 
 This article lists all the showcase beatmaps that have been created by the members of the Mappers' Guild over time.
 
@@ -356,7 +356,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[La priere](https://osu.ppy.sh/home/news/2021-06-16-new-featured-artist-la-priere)** (2021-06-16)
   - (![][osu!]) [La prière - Senjou no Utahime](https://osu.ppy.sh/beatmapsets/1398580) hosted by ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
   - (![][osu!]) [La prière - Kyouzou no Canon](https://osu.ppy.sh/beatmapsets/1475603) hosted by ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
-- **[katagiri](https://osu.ppy.sh/home/news/2020-06-23-new-featured-artist-katagiri)** (2021-06-23)
+- **[katagiri](https://osu.ppy.sh/home/news/2021-06-23-new-featured-artist-katagiri)** (2021-06-23)
   - (![][osu!catch]) [katagiri - Urushi](https://osu.ppy.sh/beatmapsets/1482723) hosted by ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - **[Andromedik](https://osu.ppy.sh/home/news/2021-06-26-new-featured-artist-andromedik)** (2018-06-26)
   - (![][osu!]) [Andromedik x Itro x Polygon - Fly](https://osu.ppy.sh/beatmapsets/1470255) hosted by ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)
@@ -385,14 +385,58 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Natsume Itsuki - Mayday](https://osu.ppy.sh/beatmapsets/1506697) hosted by ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302)
   - (![][osu!]) [Natsume Itsuki - AI to CodeQ no Hate](https://osu.ppy.sh/beatmapsets/1515036) hosted by ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
   - (![][osu!]) [Natsume Itsuki - Miniascape](https://osu.ppy.sh/beatmapsets/1509856) hosted by ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
-- **[rN](https://osu.ppy.sh/home/news/2021-08-14-new-featured-artist-rn)** 
+- **[rN](https://osu.ppy.sh/home/news/2021-08-14-new-featured-artist-rn)** (2021-08-14)
   - (![][osu!]) [rN - My Dearest Nightmare](https://osu.ppy.sh/beatmapsets/1542543) hosted by ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009)
+- **[technoplanet](https://osu.ppy.sh/home/news/2021-08-25-new-featured-artist-technoplanet)** (2021-08-25)
+  - (![][osu!]) [technoplanet feat. chamo - Tepic Tepoch](https://osu.ppy.sh/beatmapsets/1551369) hosted by ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311)
+  - (![][osu!taiko]) [technoplanet - Megastructure \[Extended Mix\]](https://osu.ppy.sh/beatmapsets/1499443) hosted by ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484)
+  - (![][osu!catch]) [technoplanet - Intuition](https://osu.ppy.sh/beatmapsets/1553878) hosted by ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)     
+- **[Release Hallucination](https://osu.ppy.sh/home/news/2021-08-28-new-featured-artist-release-hallucination)** (2021-08-28)
+  - (![][osu!]) [Release Hallucination - Ariadne](https://osu.ppy.sh/beatmapsets/1550194) hosted by ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
+
+### September
+
+- **[Alkome](https://osu.ppy.sh/home/news/2021-09-01-new-featured-artist-alkome)** (2021-09-01)
+  - (![][osu!]) [Alkome - Mind Disorder](https://osu.ppy.sh/beatmapsets/1301375) hosted by ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865)
+- **[litmus\*](https://osu.ppy.sh/home/news/2021-09-22-new-featured-artist-litmus)** (2021-09-22)
+  - (![][osu!]) [litmus\* as Ester - Krave](https://osu.ppy.sh/beatmapsets/1551054) hosted by ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342)
+  - (![][osu!catch]) [litmus\* as Ester - Krave](https://osu.ppy.sh/beatmapsets/1551054) hosted by ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+  - (![][osu!mania]) [litmus\* - Rush-More](https://osu.ppy.sh/beatmapsets/1505336) hosted by ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789)
+- **[tokiwa](https://osu.ppy.sh/home/news/2021-09-25-new-featured-artist-tokiwa)** (2021-09-25)
+  - (![][osu!]) [tokiwa - wasurena feat. Sennzai](https://osu.ppy.sh/beatmapsets/1496234) hosted by ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458)
+- **[Lundy](https://osu.ppy.sh/home/news/2021-09-29-new-featured-artist-lundy)** (2021-09-29)
+  - (![][osu!taiko]) [Lundy - STOP?](https://osu.ppy.sh/beatmapsets/1584108) hosted by ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
+  - (![][osu!catch]) [Lundy - to.ALPHA](https://osu.ppy.sh/beatmapsets/1554550) hosted by ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
+
+### October
+
+- **[DJ Raisei](https://osu.ppy.sh/home/news/2021-10-02-new-featured-artist-dj-raisei)** (2021-10-02)
+  - (![][osu!]) [ISOMERZ (DJ Raisei + seatrus) - Symmetric](https://osu.ppy.sh/beatmapsets/1381824) hosted by ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)
+- **[METAROOM](https://osu.ppy.sh/home/news/2021-10-09-new-featured-artist-metaroom)** (2021-10-09)
+  - (![][osu!]) [METAROOM - PINK ORIGINS](https://osu.ppy.sh/beatmapsets/1589495) hosted by ![][flag_TR] [Lugu](https://osu.ppy.sh/users/12851847)
+- **[Lexurus](https://osu.ppy.sh/home/news/2021-10-16-new-featured-artist-lexurus)** (2021-10-16)
+  - (![][osu!]) [Lexurus - Take Me Away](https://osu.ppy.sh/beatmapsets/1572918) hosted by ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
+- **[Risa Yuzuki](https://osu.ppy.sh/home/news/2021-10-27-new-featured-artist-risa-yuzuki)** (2021-10-27)
+  - (![][osu!]) [Risa Yuzuki - Honogurai Tsuioku](https://osu.ppy.sh/beatmapsets/1544897) hosted by ![][flag_GB] [CallieCube](https://osu.ppy.sh/users/7535045)
+  - (![][osu!]) [Risa Yuzuki - Amatsu Sumizome](https://osu.ppy.sh/beatmapsets/1591003) hosted by ![][flag_KR] [Affirmation](https://osu.ppy.sh/users/6186628)
+  - (![][osu!]) [Risa Yuzuki - Replique](https://osu.ppy.sh/beatmapsets/1571215) hosted by ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!taiko]) [Risa Yuzuki - Replique](https://osu.ppy.sh/beatmapsets/1580723) hosted by ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733)
+  - (![][osu!catch]) [Risa Yuzuki - Cinderella Maker](https://osu.ppy.sh/beatmapsets/1582952) hosted by ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637)
+
+### November
+
+- **[FATE GEAR](https://osu.ppy.sh/home/news/2021-11-13-new-featured-artist-fate-gear)** (2021-11-13)
+  - (![][osu!]) [Headless Goddess](https://osu.ppy.sh/beatmapsets/1568902) hosted by ![][flag_CN] [Elayue](https://osu.ppy.sh/users/6400861)
+  - (![][osu!catch]) [Scars in my Life](https://osu.ppy.sh/beatmapsets/1507375) hosted by ![][flag_AT] [Daletto](https://osu.ppy.sh/users/7592136)
+- **[Kurubukko](https://osu.ppy.sh/home/news/2021-11-17-new-featured-artist-kurubukko)** (2021-11-17)
+  - (![][osu!]) [Rain](https://osu.ppy.sh/beatmapsets/1578257) hosted by ![][flag_AU] [Gibune](https://osu.ppy.sh/users/5778687)
+  - (![][osu!]) [The 84th Flight](https://osu.ppy.sh/beatmapsets/1577313) hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
 
 ## History
 
-Even from its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals; in fact, the six beatmaps that were made for the [MOtOLOiD featured artist announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) were also the Guild's first ever creations. 
+From its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists"<!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals. This was reflected in the Guild's first ever major project, in where members of the Guild had prepared and ranked six beatmaps of [licensed MOtOLOiD songs](https://osu.ppy.sh/beatmaps/artists/19) long prior to the [corresponding artist's announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
 
-As the Guild itself was operating on a closed, application-based entry in its early days, access to upcoming featured artist contents were often restricted to only a handful of mappers who were predominantly of the [osu!](/wiki/Game_mode/osu!) game mode; however, the Guild's [shift to an open and automated entry system in early 2019](/wiki/Mapping_and_Modding_Timeline#march.5) gradually allowed more and more creators to participate in the creation of showcase beatmaps for future featured artists over time regardless of their game mode.
+As the Guild itself was operating on a closed, application-based entry in its early days, access to upcoming featured artist contents were often restricted only to a handful of mappers who were predominantly of the [osu!](/wiki/Game_mode/osu!) game mode]. However, as the Guild began to shift to an open and automated entry system [in early 2019](/wiki/Mapping_and_Modding_Timeline#march.5), more and more mappers were drawn into the creation of showcase beatmaps for future featured artists over time regardless of their game mode.
 
 Starting from [MYUKKE.'s featured artist announcement](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) in December 2020 onwards, new featured artist announcement posts occasionally began to feature short preview videos, often with these showcase beatmaps acting as their main headline.
 
@@ -402,10 +446,12 @@ Starting from [MYUKKE.'s featured artist announcement](https://osu.ppy.sh/home/n
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
@@ -425,9 +471,10 @@ Starting from [MYUKKE.'s featured artist announcement](https://osu.ppy.sh/home/n
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russia"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

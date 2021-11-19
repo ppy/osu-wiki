@@ -8,7 +8,7 @@ tags:
 
 ![YSC 2017 logo](img/logo.png)
 
-The **Yaz's Summer Cup 2017** (***YSC 2017***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) and sponsored by Ferocity Esports. It was the first instalment of Yaz's Summer Cup.
+**Yaz's Summer Cup 2017** (***YSC 2017***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) and sponsored by Ferocity Esports. It was the first instalment of Yaz's Summer Cup.
 
 ## Tournament schedule
 
@@ -56,10 +56,10 @@ Yaz's Summer Cup 2017 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/607572)
-- [Challonge](https://challonge.com/YSC2017 "Challonge")
-- [Discord](https://discord.gg/brQzjbb "Discord")
-- [Livestream](https://www.twitch.tv/summer_cup_osu "Twitch")
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0HuGtlHUHEV0MqQR-I0l7AgkQdygjjNmw "Google Sheets")
+- [Challonge](https://challonge.com/YSC2017)
+- [Discord](https://discord.gg/brQzjbb)
+- [Livestream](https://www.twitch.tv/summer_cup_osu)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0HuGtlHUHEV0MqQR-I0l7AgkQdygjjNmw)
 
 ## Participants
 
@@ -82,7 +82,7 @@ Yaz's Summer Cup 2017 was run by various community members.
 | Group O | ![][flag_US] **[Monko2k](https://osu.ppy.sh/users/4852013)**, ![][flag_US] **[Smoothie World](https://osu.ppy.sh/users/1855540)**, ![][flag_NL] [Timpai](https://osu.ppy.sh/users/5054798), ![][flag_RU] [ncuh](https://osu.ppy.sh/users/2891734) |
 | Group P | ![][flag_ES] **[Betwin](https://osu.ppy.sh/users/1968481)**, ![][flag_GB] **[Helix](https://osu.ppy.sh/users/3322597)**, ![][flag_GB] [TopSp1n](https://osu.ppy.sh/users/7657761), ![][flag_EG] [KupcaH](https://osu.ppy.sh/users/7844575) |
 
-See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0HuGtlHUHEV0MqQR-I0l7AgkQdygjjNmw/pubhtml?gridlines=false "Google Sheets") for a list of all 128 initial participants.
+See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0HuGtlHUHEV0MqQR-I0l7AgkQdygjjNmw/pubhtml?gridlines=false) for a list of all 128 initial participants.
 
 ## Podium
 
@@ -853,7 +853,7 @@ Thursday, 27 July 2017:
 - This tournament is a 1v1 international osu! tournament.
 - This tournament will consist of 128 players.
 - Matches will be head to head, with score v2 as the scoring system used.
-- There will be no rank limit on signups, however if we reach 128 signups we will take the top 128 players in terms of rank.
+- There will be no rank limit on sign-ups, however if we reach 128 sign-ups we will take the top 128 players in terms of rank.
 - Ranks will be taken and locked when registrations have concluded
 - Anyone who does sign up must be able to play maps with a difficulty of at least 4.7*.
 - Starting from groups, the tournament will be double elimination. Qualifications will be the only thing that is single elimination.
@@ -870,7 +870,7 @@ Thursday, 27 July 2017:
 - Referees will create the lobby and invite players 10 minutes before the match is due to start.
 - Any player that fails to show up 10 minutes after a match is due to start will forfeit the match and a win by default will be awarded to the other player.
 - Failure to attend a match without a valid reason may result in being blacklisted from participating in future tournaments.
-- The referee will have host at all times during the match. Players are expected to have a warmup and link the beatmap before the match starts.
+- The referee will have host at all times during the match. Players are expected to have a warm-up and link the beatmap before the match starts.
 - Players will have 90 seconds to ban a map. Failure to ban a map after this time will result in a loss of a ban.
 - Players will have 90 seconds to pick a map. Failure to pick a map after this time will result in the pick being passed to their opponent.
 - Disconnects during the first 30 seconds of the map will result in the map being replayed. Any disconnections after this will result in a forfeit of that map.
@@ -885,7 +885,7 @@ Thursday, 27 July 2017:
 
 ### Qualifiers and Group stage
 
-- There will be no warmups and one ban per player.
+- There will be no warm-ups and one ban per player.
 - Players will roll once. The winner of that roll will ban and pick first.
 - In groups, there will be one top, one high, one mid and one low seeded player per group, which will be drawn randomly.
 - During these stages, players are not allowed to choose from the same mod bracket (HD/HR/DT/FreeMod) twice in a row. This excludes the NoMod bracket pool.
@@ -894,8 +894,8 @@ Thursday, 27 July 2017:
 ### Knockout stages
 
 - Seeding for knockouts will be as follows: Group A #1 vs Group B #2 etc.
-- In this stage, there will be warmups and 2 bans per player.
-- Players will roll once. The winner will have the first warmup, first ban and first pick.
+- In this stage, there will be warm-ups and 2 bans per player.
+- Players will roll once. The winner will have the first warm-up, first ban and first pick.
 - In these stages, players are free to pick from any mod bracket.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"

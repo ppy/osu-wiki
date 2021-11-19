@@ -1,6 +1,8 @@
 ---
 layout: main_page
 no_native_review: true
+outdated: true
+outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
 <div class="wiki-main-page__blurb">
@@ -12,7 +14,7 @@ Witaj na wiki osu!, projekcie skupiającym szeroką gamę informacji powiązanyc
 
 # Podstawy
 
-[Na początek](/wiki/Welcome) • [Instalacja](/wiki/Installation) • [Rejestracja](/wiki/Registration) • [Centrum pomocy](/wiki/Help_Centre) • [Najczęściej zadawane pytania](/wiki/FAQ)
+[Instalacja](/wiki/Installation) • [Rejestracja](/wiki/Registration) • [Centrum pomocy](/wiki/Help_Centre) • [Najczęściej zadawane pytania](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -41,7 +43,7 @@ Sekcje: [Kompozycja](/wiki/Beatmap_Editor/Compose) • [Edytor scenorysu](/wiki/
 
 Komponenty: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Podzielnik beatu](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Odległość między obiektami](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [Przeładowanie scenorysu](/wiki/Beatmap_Editor/SB_Load) • [Osie czasu](/wiki/Beatmap_Editor/Timelines)
 
-[Tworzenie beatmap](/wiki/Beatmapping) • [Poziomy trudności](/wiki/Beatmap/Difficulty) • [Techniki w tworzeniu beatmap](/wiki/Mapping_Techniques) • [Tworzenie scenorysów](/wiki/Storyboarding)
+[Tworzenie beatmap](/wiki/Beatmapping) • [Poziomy trudności](/wiki/Beatmap/Difficulty) • [Techniki w tworzeniu beatmap](/wiki/Mapping_Techniques) • [Tworzenie scenorysów](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -57,7 +59,7 @@ Komponenty: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Podzielnik beatu](/wiki/Bea
 
 # Społeczność
 
-[Turnieje](/wiki/Tournaments) • [Tworzenie skórek](/wiki/Skinning) • [Projekty](/wiki/Projects) • [Poradniki](/wiki/Guides) • [Serwer Discord osu!dev](/wiki/osu!dev_Discord_server) • [Jak możesz pomóc?](/wiki/How_You_Can_Help!) • [Słownik](/wiki/Glossary)
+[Turnieje](/wiki/Tournaments) • [Tworzenie skórek](/wiki/Skinning) • [Projekty](/wiki/Projects) • [Poradniki](/wiki/Guides) • [Serwer Discord osu!dev](/wiki/osu!dev_Discord_server) • [Jak możesz pomóc?](/wiki/How_you_can_help!) • [Słownik](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -82,7 +84,7 @@ Organizacje: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # O wiki osu!
 
-[Mapa strony](/wiki/Sitemap) • [Poradnik dot. współtworzenia wiki](/wiki/osu!_wiki_Contribution_Guide) • [Kryteria stylu artykułów](/wiki/Article_Styling_Criteria) • [Kryteria stylu aktualności](/wiki/News_Styling_Criteria)
+[Mapa strony](/wiki/Sitemap) • [Poradnik dot. współtworzenia wiki](/wiki/osu!_wiki/Contribution_guide) • [Kryteria stylu artykułów](/wiki/Article_styling_criteria) • [Kryteria stylu aktualności](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

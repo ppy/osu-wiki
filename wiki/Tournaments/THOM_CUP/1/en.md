@@ -9,7 +9,7 @@ tags:
 
 ![THOM CUP logo](img/logo.png)
 
-**The Heptakey osu!mania Cup #1** (***THOM CUP #1***) was a 1v1 Euro-American 7K osu!mania tournament. It was the first installment of the The Heptakey osu!mania Cup.
+**The Heptakey osu!mania Cup #1** (***THOM CUP #1***) was a 1v1 Euro-American 7K osu!mania tournament. It was the first instalment of the The Heptakey osu!mania Cup.
 
 ## Tournament schedule
 
@@ -34,7 +34,7 @@ tags:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30 USD |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20 USD |
 
-## Organization
+## Organisation
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -49,8 +49,8 @@ tags:
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/731431)
-- [Livestream](https://www.twitch.tv/thomcup "Twitch")
-- [Challonge](https://challonge.com/THOMCup "Challonge")
+- [Livestream](https://www.twitch.tv/thomcup)
+- [Challonge](https://challonge.com/THOMCup)
 
 ## Participants
 
@@ -88,7 +88,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (97 MB)](https://www.dropbox.com/sh/dhys8odeifwlom8/AAAyH8eQmAoWvUFdwNJC91DRa?dl=0 "Dropbox")**
+**[Download the mappack here! (97 MB)](https://www.dropbox.com/sh/dhys8odeifwlom8/AAAyH8eQmAoWvUFdwNJC91DRa?dl=0)**
 
 - FreeMod
   - [penoreri - Sailing Force (AncuL) \[Weigh Anchor\]](https://osu.ppy.sh/beatmapsets/705410#mania/1491970)
@@ -111,7 +111,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (119 MB)](https://www.dropbox.com/sh/1sxx31pgh74q4ux/AADmecWg9k3UVpmjSAvVjbgfa?dl=0 "Dropbox")**
+**[Download the mappack here! (119 MB)](https://www.dropbox.com/sh/1sxx31pgh74q4ux/AADmecWg9k3UVpmjSAvVjbgfa?dl=0)**
 
 - FreeMod
   - [Kyary Pamyu Pamyu - Mottai Night Land (Cuppp) \[Insane\]](https://osu.ppy.sh/beatmapsets/309474#mania/691829)
@@ -134,7 +134,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (86 MB)](https://www.dropbox.com/sh/izfeyh9fz9vr51y/AABX3bhBVxIHNDkTnE4F1vmTa?dl=0 "Dropbox")**
+**[Download the mappack here! (86 MB)](https://www.dropbox.com/sh/izfeyh9fz9vr51y/AABX3bhBVxIHNDkTnE4F1vmTa?dl=0)**
 
 - FreeMod
   - [xi - Grand Chariot (AncuL) \[Grand Chariot\]](https://osu.ppy.sh/beatmapsets/630588#mania/1331176)
@@ -155,7 +155,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (74 MB)](https://www.dropbox.com/sh/ctc0nl39ukpp7dt/AAAjM62IfaTmzZ8X8ZDWQZG8a?dl=0 "Dropbox")**
+**[Download the mappack here! (74 MB)](https://www.dropbox.com/sh/ctc0nl39ukpp7dt/AAAjM62IfaTmzZ8X8ZDWQZG8a?dl=0)**
 
 - FreeMod
   - [Silent Siren - BANG!BANG!BANG! (PP_Aika) \[lvl.33\]](https://osu.ppy.sh/beatmapsets/749566#mania/1578815)
@@ -176,7 +176,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (96 MB)](https://www.dropbox.com/sh/ctc0nl39ukpp7dt/AAAjM62IfaTmzZ8X8ZDWQZG8a?dl=0 "Dropbox")**
+**[Download the mappack here! (96 MB)](https://www.dropbox.com/sh/ctc0nl39ukpp7dt/AAAjM62IfaTmzZ8X8ZDWQZG8a?dl=0)**
 
 - FreeMod
   - [SHIKI - Xecus (hoo9030) \[Normal\]](https://osu.ppy.sh/beatmapsets/721167#mania/1522885)
@@ -193,9 +193,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Ruby My Dear - 7C0 (Pope Gadget) \[R26\]](https://osu.ppy.sh/beatmapsets/352201#mania/844672)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (95 MB)](https://www.dropbox.com/sh/c3rktbonawm67hk/AAAQv1tCrCV9BSvEbRm84Nxha?dl=0 "Dropbox")**
+**[Download the mappack here! (95 MB)](https://www.dropbox.com/sh/c3rktbonawm67hk/AAAQv1tCrCV9BSvEbRm84Nxha?dl=0)**
 
 - FreeMod
   - [USAO - Miracle 5ympho X (Mel) \[7K Another\]](https://osu.ppy.sh/beatmapsets/137394#mania/413033)
@@ -214,7 +214,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Playoffs
 
-**[Download the mappack here! (87 MB)](https://www.dropbox.com/sh/qv69wikpc5zpsde/AAAWjIzktrRmVHQkqRBlPW4Ha?dl=0 "Dropbox")**
+**[Download the mappack here! (87 MB)](https://www.dropbox.com/sh/qv69wikpc5zpsde/AAAWjIzktrRmVHQkqRBlPW4Ha?dl=0)**
 
 - FreeMod
   - [fripSide - LEVEL5-judgelight- (TV size) (Niks) \[7K Hard\]](https://osu.ppy.sh/beatmapsets/291772#mania/747358)
@@ -231,7 +231,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (27 MB)](https://www.dropbox.com/sh/p85shbdk8skxytr/AACrjd39x23Y5lmqwnFticVRa?dl=0 "Dropbox")**
+**[Download the mappack here! (27 MB)](https://www.dropbox.com/sh/p85shbdk8skxytr/AACrjd39x23Y5lmqwnFticVRa?dl=0)**
 
 - FreeMod
   - [FizzD - Oriental Insomniac (Ciel) \[Stage 1: Glitch\]](https://osu.ppy.sh/beatmapsets/780852#mania/1640164)
@@ -462,7 +462,7 @@ Sunday, 3 June 2018:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQAuLlxZfKLVnAw_n9a_lUSd1O65w_THZA4ea4ouSw7iDLEDngr1ssZc_R7Pzy0OtsMVFTVVnUin4Hg/pubhtml# "Google Sheets").
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQAuLlxZfKLVnAw_n9a_lUSd1O65w_THZA4ea4ouSw7iDLEDngr1ssZc_R7Pzy0OtsMVFTVVnUin4Hg/pubhtml#).
 
 ## Ruleset
 
@@ -550,7 +550,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 - In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This includes the first 2 stages of the tournament after the qualifiers.
 
-#### Bans, rolls and song selection
+#### Bans, rolls, and song selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one (1) map within the map pool that they are playing for the given round.

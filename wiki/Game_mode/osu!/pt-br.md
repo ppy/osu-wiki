@@ -11,7 +11,7 @@ O primeiro modo de jogo e nomeação foram baseadas na série ouendan.
 
 ## O que é "Ouendan"?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* é um jogo de ritmo para o *Nintendo DS*. A jogabilidade das músicas consiste de somente três aspectos: clicar em círculos através da touchscreen, arrastar uma bola sob um caminho fixo e rotacionar um spinner bem rápido. Todos esses elementos são inspirados em músicas japonesas populares. É assim que ele se parece no *DS*:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* é um jogo de ritmo para o *Nintendo DS*. A jogabilidade das músicas consiste de somente três aspectos: clicar em círculos através da touchscreen, arrastar uma bola sob um caminho fixo e rotacionar um spinner bem rápido. Todos esses elementos são inspirados em músicas japonesas populares. É assim que ele se parece no *DS*:
 
 ![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
 
@@ -83,7 +83,7 @@ No Nintendo *DS* esse é um jeito bom de se arranhar a sua tela, especialmente e
 
 ## Estilos de Jogo
 
-*[Consulte a página 'Estilos de Jogo' do osu!](/wiki/Play_Styles).*
+*[Consulte a página 'Estilos de Jogo' do osu!](/wiki/Play_style).*
 
 ## Controles
 
@@ -266,15 +266,12 @@ O sistema usado para calcular o dreno de vida é complicado, então não será e
 
 ### Histórico
 
-![Combo Fire](/wiki/shared/combo-fire.jpg "Combo Fire")
-
-- As versões antigas do osu! costumavam emular alguns elementos da série *ouendan*, mas com o passar do tempo foram removidos ou substituídos.
-  - Combo fire ao atingir algumas metas de combo.
-    - Removido em 05 de Março de 2013 (2013-03-05), devido a problemas de performance.
-  - A primeira versão da skin padrão era uma cópia quase idêntica da interface do *ouendan*.
+- As versões antigas do osu! costumavam emular alguns elementos da série *Ouendan*, mas com o passar do tempo foram removidos ou substituídos.
+  - [Combo fire](/wiki/Glossary/Combo_fire) ao atingir algumas metas de combo.
+  - A primeira versão da skin padrão era uma cópia quase idêntica da interface do *Ouendan*.
     - Foi substituída pela por uma mais atualizada que está de acordo com novos padrões de comportamentos de skins.
   - A diferença mais notável entre o padrão de comportamento antigo e o novo está no spinner.
-    - O padrão v1 incrementava o timer do spinner até que ele estivesse completamente cheio, assim como no *ouendan*.
+    - O padrão v1 incrementava o timer do spinner até que ele estivesse completamente cheio, assim como no *Ouendan*.
       - O timer era um círculo dentro do spinner que convergia progressivamente para o núcleo deste. O spinner era completo quando o timer atingia o centro do núcleo do spinner.
     - O padrão v2 faz o spinner expandir progressivamente até o seu comprimento completo e adiciona um efeito de brilho quando o tamanho estabelecido é atingido.
       - O timer virou o círculo aproximatório que muda de cor a medida em que o spinner é completado.

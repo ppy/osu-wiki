@@ -8,7 +8,7 @@ tags:
 
 ![T2T 2019 logo](img/logo.png)
 
-The **TAG2 Tournament 2019** (***T2T 2019***) was an international Tag Team VS. tournament hosted by ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) and ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178). It was the third installment of the TAG Tournament series. The tournament followed on from ![][flag_NL] [Tayo](https://osu.ppy.sh/users/8910355)'s two previous TAG Tournaments: [T4T 2017](https://osu.ppy.sh/community/forums/topics/624941) and [T4T 2018](https://osu.ppy.sh/community/forums/topics/789136).
+The **TAG2 Tournament 2019** (***T2T 2019***) was an international Tag Team VS. tournament hosted by ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) and ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178). It was the third instalment of the TAG Tournament series. The tournament followed on from ![][flag_NL] [Tayo](https://osu.ppy.sh/users/8910355)'s two previous TAG Tournaments: [T4T 2017](https://osu.ppy.sh/community/forums/topics/624941) and [T4T 2018](https://osu.ppy.sh/community/forums/topics/789136).
 
 ## Tournament schedule
 
@@ -27,15 +27,15 @@ The **TAG2 Tournament 2019** (***T2T 2019***) was an international Tag Team VS. 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ## Organisation
 
 The TAG2 Tournament 2019 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | --: | :-- |
 | Host | ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178) |
 | Co-host | ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
@@ -47,10 +47,10 @@ The TAG2 Tournament 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/869513)
-- [TAG Club Discord](https://discord.gg/VKt5kGa "Discord")
-- [TAG Club Twitter](https://twitter.com/TAGClub_osu "Twitter")
-- [Challonge](https://challonge.com/T2T_2019 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/13f9zVN8n1NjBqwK7C23W5iOW-7Y2d9np9Di1WnlUfjg/edit#gid=1150595067 "Google Sheets")**
+- [TAG Club Discord](https://discord.gg/VKt5kGa)
+- [TAG Club Twitter](https://twitter.com/TAGClub_osu)
+- [Challonge](https://challonge.com/T2T_2019)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/13f9zVN8n1NjBqwK7C23W5iOW-7Y2d9np9Di1WnlUfjg/edit#gid=1150595067)**
 
 ## Participants
 
@@ -109,15 +109,15 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Thank You (![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689), ![][flag_US] [Conyoh](https://osu.ppy.sh/users/4844496)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | osu! schmosu! (![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | yooo whats goodie eh (![][flag_CA] [Vespirit](https://osu.ppy.sh/users/5425046), ![][flag_CA] [neuro](https://osu.ppy.sh/users/3737401)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Thank You** (![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689), ![][flag_US] [Conyoh](https://osu.ppy.sh/users/4844496)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **osu! schmosu!** (![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **yooo whats goodie eh** (![][flag_CA] [Vespirit](https://osu.ppy.sh/users/5425046), ![][flag_CA] [neuro](https://osu.ppy.sh/users/3737401)) |
 
 ## Mappools
 
 ### Grand Finals
 
-**[Download the mappack here! (254 MB)](https://drive.google.com/open?id=1H-kqXt2rWPbv7js7jrUSI9riPS2pu7gy "Google Drive")**
+**[Download the mappack here! (254 MB)](https://drive.google.com/open?id=1H-kqXt2rWPbv7js7jrUSI9riPS2pu7gy)**
 
 - NoMod
   - [sana - Packet Hero (Fuccho) [Broccoly's Extra]](https://osu.ppy.sh/beatmapsets/404910#osu/944864)
@@ -149,7 +149,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (220 MB)](https://drive.google.com/file/d/1wIcJdNsReVUXxJ6LEJR5Co1A3k9CGg_o "Google Drive")**
+**[Download the mappack here! (220 MB)](https://drive.google.com/file/d/1wIcJdNsReVUXxJ6LEJR5Co1A3k9CGg_o)**
 
 - NoMod
   - [Carpenter Brut - Anarchy Road (Voyen) [2070]](https://osu.ppy.sh/beatmapsets/345086#osu/762207)
@@ -179,7 +179,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (135 MB)](https://drive.google.com/open?id=14d7uqSQRP5uBNV_LYp50hDk2tBaT2rUf "Google Drive")**
+**[Download the mappack here! (135 MB)](https://drive.google.com/open?id=14d7uqSQRP5uBNV_LYp50hDk2tBaT2rUf)**
 
 - NoMod
   - [Reol - Asymmetry (Gaia) [captin's Extra]](https://osu.ppy.sh/beatmapsets/292077#osu/679779)
@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (118 MB)](https://drive.google.com/open?id=1VDfbJoi26YwyCe28gELupkxGkJnnhuIe "Google Drive")**
+**[Download the mappack here! (118 MB)](https://drive.google.com/open?id=1VDfbJoi26YwyCe28gELupkxGkJnnhuIe)**
 
 - NoMod
   - [DECO\*27 - First Storm -Japanese Version- (RepL4y) [Asami's Expert]](https://osu.ppy.sh/beatmapsets/808175#osu/1785865)
@@ -238,7 +238,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (134 MB)](https://drive.google.com/open?id=1UoUgV1rhczD19S14dRmlajWKXGo5AwX7 "Google Drive")**
+**[Download the mappack here! (134 MB)](https://drive.google.com/open?id=1UoUgV1rhczD19S14dRmlajWKXGo5AwX7)**
 
 - NoMod
   - [t+pazolite - cheatreal (caren_sk) [RLC's Extra]](https://osu.ppy.sh/beatmapsets/88180#osu/442170)
@@ -267,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (124 MB)](https://drive.google.com/open?id=1F4FqZEzF3J5-HDhl30rzlgXmxivMegAu "Google Drive")**
+**[Download the mappack here! (124 MB)](https://drive.google.com/open?id=1F4FqZEzF3J5-HDhl30rzlgXmxivMegAu)**
 
 - NoMod
   - [iojjj - Akui to Ai no Sukima no Puzzle (Okoratu) [Diplomatic Immunity]](https://osu.ppy.sh/beatmapsets/147430#osu/517595)
@@ -292,7 +292,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (33 MB)](https://puu.sh/D4s4A/a995511d8a.zip "puush")**
+**[Download the mappack here! (33 MB)](https://puu.sh/D4s4A/a995511d8a.zip)**
 
 - NoMod
   - [Camellia vs Akira Complex - Railgun Roulette (VIP) (NeilPerry) [LowBot's Insane]](https://osu.ppy.sh/beatmapsets/694402#osu/1501410)

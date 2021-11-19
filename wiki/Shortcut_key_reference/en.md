@@ -28,8 +28,8 @@ These shortcuts work anywhere:
 | `F10` | Toggle all mouse buttons (except for the mouse wheel, which is always enabled). |
 | `F12` | Take a screenshot. Click on the dialog to open the screenshots folder. |
 | `Shift` + `F12` | Take a screenshot and upload to the server for sharing. The screenshot will also be saved locally. This will open the screenshot on your web browser. |
-| `Insert` | This is the [boss key](https://en.wikipedia.org/wiki/Boss_key "Boss key on Wikipedia"). Minimize the game client into the notification area. This will also mute the game. |
-| `Shift` + `F1` | Open [osu!status](https://twitter.com/osustatus "osu!status on Twitter") on your web browser. (Only when a connection error appears.) |
+| `Insert` | This is the [boss key](https://en.wikipedia.org/wiki/Boss_key). Minimize the game client into the notification area. This will also mute the game. |
+| `Shift` + `F1` | Open [osu!status](https://twitter.com/osustatus) on your web browser. (Only when a connection error appears.) |
 | `Ctrl` + `O` | Open the options sidebar. Can not enter the offset wizard if you are not in the main menu. |
 
 ## Main menu

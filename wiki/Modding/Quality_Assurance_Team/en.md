@@ -11,7 +11,7 @@ The **Quality Assurance Team (*QAT*)** was responsible for maintaining quality o
 
 The QAT was created as part of a manual trial for [modding v2](/wiki/Beatmap_Discussion) attempting to automate BAT promotion and retirement. The team reviewed [Qualified](/wiki/Beatmap/Category#qualified) beatmaps and would disqualify those that did not meet the [ranking criteria](/wiki/Ranking_Criteria) or the team's personal quality standards.
 
-The QAT's reputation among mappers and players was mostly negative in response to frequent disqualification of maps that users believed were going to be ranked. Players were mostly displeased with the loss of [performance points](/wiki/Performance_Points) and mappers disagreed with the QAT's enforcement of restrictive quality standards.
+The QAT's reputation among mappers and players was mostly negative in response to frequent disqualification of maps that users believed were going to be ranked. Players were mostly displeased with the loss of [performance points](/wiki/Performance_points) and mappers disagreed with the QAT's enforcement of restrictive quality standards.
 
 In 2016, the QAT began reactively disqualifiying beatmaps based on user reports rather than proactively reviewing beatmaps for disqualifications. This led to most of the QAT's tasks being management related, such as evaluating [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) and reforming the ranking criteria.
 

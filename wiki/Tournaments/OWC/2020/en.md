@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2020 logo](/wiki/shared/news/banners/OWC_2020_banner.jpg)
 
-The **osu! World Cup 2020** (***OWC 2020***) was a country-based osu! tournament hosted by the [osu!team](/wiki/People/The_Team). It was the 11th installment of the osu! World Cup.
+The **osu! World Cup 2020** (***OWC 2020***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the 11th instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -38,9 +38,9 @@ The osu! World Cup 2020 offered a $5,000 cash prize pool and limited edition mer
 
 ## Organisation
 
-The osu! World Cup 2020 was run by the osu!team and various community members.
+The osu! World Cup 2020 was run by the osu! team and various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Mappool selector | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943) |
@@ -52,10 +52,10 @@ The osu! World Cup 2020 was run by the osu!team and various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1150567)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- [Challonge bracket](https://challonge.com/OWC_2020 "Challonge")
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/47 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRK1VndO4Dng6TJ2yM8dedF7Bkf0b-VvrK2T5US5Y-YkI-fpxZhNanWWJOdTB-2BrW9eu8o62sGm5_G/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/OWC_2020)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/47) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRK1VndO4Dng6TJ2yM8dedF7Bkf0b-VvrK2T5US5Y-YkI-fpxZhNanWWJOdTB-2BrW9eu8o62sGm5_G/pubhtml)**
 
 ## Participants
 
@@ -110,7 +110,9 @@ The osu! World Cup 2020 was run by the osu!team and various community members.
 | ![][flag_UY] | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Madozito](https://osu.ppy.sh/users/4054429), [Saphity](https://osu.ppy.sh/users/5382216), [-PloX](https://osu.ppy.sh/users/6404583), [Kazuki K](https://osu.ppy.sh/users/6407282), [Rebo](https://osu.ppy.sh/users/6942259), [FDX](https://osu.ppy.sh/users/8987016) |
 | ![][flag_VN] | **Vietnam** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [Ui chan](https://osu.ppy.sh/users/5449433), [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [Hoaq](https://osu.ppy.sh/users/7696512), [Huukun](https://osu.ppy.sh/users/8114571), [FukutoTojido](https://osu.ppy.sh/users/8266808), [sindes19](https://osu.ppy.sh/users/11021073) |
 
-![OWC 2020 podium](img/podium.jpg)
+## Podium
+
+![](img/podium.jpg "OWC 2020 podium")
 
 ## Mappools
 
@@ -299,7 +301,7 @@ The osu! World Cup 2020 was run by the osu!team and various community members.
 
 ### Grand Finals
 
-The stats of the Grand Finals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Csyk7zgrDF4iFJvgFRiBniCS6ZsQyXEkndNVUB65Un8/edit?rm=minimal "Google spreadsheet").
+The stats of the Grand Finals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Csyk7zgrDF4iFJvgFRiBniCS6ZsQyXEkndNVUB65Un8/edit?rm=minimal).
 
 Saturday, 5 December 2020:
 
@@ -315,7 +317,7 @@ Sunday, 6 December 2020:
 
 ### Finals
 
-The stats of the Finals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal "Google spreadsheet").
+The stats of the Finals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal).
 
 Saturday, 28 November 2020:
 
@@ -333,7 +335,7 @@ Sunday, 29 November 2020:
 
 ### Semifinals
 
-The stats of the Semifinals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal "Google spreadsheet").
+The stats of the Semifinals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal).
 
 Saturday, 21 November 2020:
 
@@ -355,7 +357,7 @@ Sunday, 22 November 2020:
 
 ### Quarterfinals
 
-The stats of the Quarterfinals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1M0EikaR4xZr4T-eKapCVReNAazTgE8P1Gjn_CSb4mQw/edit?rm=minimal "Google spreadsheet").
+The stats of the Quarterfinals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1M0EikaR4xZr4T-eKapCVReNAazTgE8P1Gjn_CSb4mQw/edit?rm=minimal).
 
 Saturday, 14 November 2020:
 
@@ -385,7 +387,7 @@ Sunday, 15 November 2020:
 
 ### Round of 16
 
-The stats of the Round of 16 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal "Google spreadsheet").
+The stats of the Round of 16 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal).
 
 Saturday, 7 November 2020:
 
@@ -415,7 +417,7 @@ Sunday, 8 November 2020:
 
 ### Round of 32
 
-The stats of the Round of 32 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Kj0Y1ycdQjPPGIBNUvJqnEi4U5UlBvJPhkXQbsmTYLg/edit?rm=minimal "Google spreadsheet").
+The stats of the Round of 32 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Kj0Y1ycdQjPPGIBNUvJqnEi4U5UlBvJPhkXQbsmTYLg/edit?rm=minimal).
 
 Saturday, 31 October 2020:
 
@@ -445,7 +447,7 @@ Sunday, 1 November 2020:
 
 ### Qualifiers
 
-The stats of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal "Google spreadsheet").
+The stats of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal).
 
 ## Ruleset
 
