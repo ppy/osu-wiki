@@ -1,4 +1,4 @@
-# Offset (Begriffserklärung)
+# Offset (Begriffsabgrenzung)
 
 **Offset** kann Folgendes bedeuten:
 

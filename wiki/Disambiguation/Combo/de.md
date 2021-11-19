@@ -1,4 +1,4 @@
-# Combo (Begriffserklärung)
+# Combo (Begriffsabgrenzung)
 
 **Combo** kann Folgendes bedeuten:
 

@@ -1,4 +1,4 @@
-# NM (Begriffserklärung)
+# NM (Begriffsabgrenzung)
 
 **NM** kann Folgendes bedeuten:
 

@@ -1,4 +1,4 @@
-# Easy (Begriffserklärung)
+# Easy (Begriffsabgrenzung)
 
 **Easy** kann Folgendes bedeuten:
 

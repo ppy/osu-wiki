@@ -3,7 +3,7 @@ tags:
   - Osu! Tatake! Ouendan
 ---
 
-# Ouendan (Begriffserklärung)
+# Ouendan (Begriffsabgrenzung)
 
 **Ouendan** kann Folgendes bedeuten:
 
