@@ -281,7 +281,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Ctrl` + `C` | Menyalin sprite yang dipilih. |
 | `Ctrl` + `V` | Menempel sprite pada waktu sekarang. *Note: Sprite yang ditempel tidak akan terlihat pada daftar layer sampai beatmapnya disimpan dan di-load ulang.* |
 | `Delete` | Menghapus sprite yang dipilih dari layer. |
-| `W`, `A`, `S`, `D` | Menggeser sprite yang dipilih ke atas, kiri, bawah, atau kanan berurutan sebanyak satu [osu!pixel](/wiki/Glossary#osupixel). |
+| `W`, `A`, `S`, `D` | Menggeser sprite yang dipilih ke atas, kiri, bawah, atau kanan berurutan sebanyak satu [osu!pixel](/wiki/osupixel). |
 
 ### Timing
 

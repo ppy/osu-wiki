@@ -24,7 +24,7 @@ Links:
 
 The Oculus Rift as a "supported" input method was announced as an 2016 April Fools joke.
 
-[Maria](/wiki/Mascots#-maria) joins the stage with [pippi](/wiki/Mascots#-pippi) and [Yuzu](/wiki/Mascots#-yuzu) as osu!mania's new postergirl. The osu!taiko World Cup 2016 concluded with Japan being victorious against Taiwan.
+[Maria](/wiki/Mascots#mani-&-mari) joins the stage with [pippi](/wiki/Mascots#pippi) and [Yuzu](/wiki/Mascots#yuzu) as osu!mania's new postergirl. The osu!taiko World Cup 2016 concluded with Japan being victorious against Taiwan.
 
 Links:
 

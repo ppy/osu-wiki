@@ -37,7 +37,7 @@ Ce mod est surtout utilisé pour le plaisir, mais il peut aussi être utilisé p
 
 ## Le saviez-vous ?
 
-- Le Target Practice Mod utilisera les [couleurs de combo](/wiki/Beatmapping/Combo#combo-colour) qui sont marquées dans le dossier [skin.ini](/wiki/Skinning/skin.ini) du joueur.
+- Le Target Practice Mod utilisera les [couleurs de combo](/wiki/Glossary/Combo_colour) qui sont marquées dans le dossier [skin.ini](/wiki/Skinning/skin.ini) du joueur.
 - En cas d'échec à une partie avec le mod Target Practice activé, le joueur sera amené à l'écran de classement, au lieu d'un écran d'échec.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

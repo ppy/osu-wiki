@@ -1,4 +1,4 @@
-# NC (Begriffserklärung)
+# NC (Begriffsabgrenzung)
 
 **NC** kann Folgendes bedeuten:
 
