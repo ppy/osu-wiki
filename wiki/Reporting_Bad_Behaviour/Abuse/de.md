@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Missbrauch melden
 
 ## Ich weiß nicht, ob ich das melden soll oder nicht
