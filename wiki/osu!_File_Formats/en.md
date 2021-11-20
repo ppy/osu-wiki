@@ -64,3 +64,9 @@
 [Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)
 [Osb Link]: /wiki/osu!_File_Formats/Osb_(file_format)
 [Osr Link]: /wiki/osu!_File_Formats/Osr_(file_format)
+
+<!-- TODO: Add link
+## System file formats
+
+For more information on what system file formats osu! uses, see [this wiki article]().
+-->
