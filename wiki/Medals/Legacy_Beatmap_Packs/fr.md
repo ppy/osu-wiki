@@ -1,6 +1,6 @@
 # Anciens beatmaps packs
 
-Les beatmap packs font partie intégrante de la communauté d'osu! depuis [leur première introduction] (https://osu.ppy.sh/community/forums/topics/1853) par ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) en 2008, où certains packs étaient liés à certaines [médailles](/wiki/Medals). Cependant, comme osu! et sa communauté ont continué à se développer au fil des ans, le méta-mapping a également subi un changement majeur par rapport à ses débuts et - en raison d'une énorme demande du public - [le 16 janvier 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) une révision majeure a été faite à de nombreux beatmap packs afin de les garder, dans leur ensemble, pertinents avec le temps.
+Les beatmap packs font partie intégrante de la communauté d'osu! depuis [leur première introduction](https://osu.ppy.sh/community/forums/topics/1853) par ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) en 2008, où certains packs étaient liés à certaines [médailles](/wiki/Medals). Cependant, comme osu! et sa communauté ont continué à se développer au fil des ans, le méta-mapping a également subi un changement majeur par rapport à ses débuts et - en raison d'une énorme demande du public - [le 16 janvier 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) une révision majeure a été faite à de nombreux beatmap packs afin de les garder, dans leur ensemble, pertinents avec le temps.
 
 Cet article présente le contenu des beatmap packs, qui ont été soumis à la révision, dans leur état d'origine.
 

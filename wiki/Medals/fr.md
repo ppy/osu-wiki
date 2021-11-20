@@ -30,7 +30,6 @@ Toutes les médailles Mod Introduction peuvent être débloquées dans n'importe
 
 Les médailles **Hush-Hush** sont des médailles "secrètes" décernées pour des exploits très spécifiques, qui ne sont pas explicitement annoncés au joueur (d'où leur nom). Ces exploits peuvent aller de la réalisation d'une beatmap dans des circonstances particulières à l'obtention d'un score avec une combinaison de mods inhabituelle. Malgré leur nature secrète, il existe des indices pour aider tous les chasseurs de médailles curieux dans leurs recherches :
 
-
 - Les noms des médailles elles-mêmes,
 - Les brèves descriptions des médailles, et
 - Les *textes flair* des médailles (s'il y en a), consultables en survolant les cartes correspondantes.
@@ -39,19 +38,19 @@ Comme les médailles Hush-Hush sont censées être des réalisations secrètes, 
 
 ## Beatmap Spotlights
 
-Les médailles **Beatmap Spotlights** sont des médailles attribuées après avoir terminé certains beatmap pack publiés dans le cadre des [Monthly Beatmap Spotlights] (https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). Pour débloquer les médailles de cette catégorie, un joueur doit jouer toutes les maps *de l'un des quatre packs de mode de jeu* qui sont en compétition dans le classement Beatmap Spotlights correspondant. L'utilisation de [mods de réduction de la difficulté](/wiki/Game_modifier#difficulté-réduite) ou de [mods d'augmentation de la difficulté](/wiki/Game_modifier#difficulté-augmenté) est autorisée.
+Les médailles **Beatmap Spotlights** sont des médailles attribuées après avoir terminé certains beatmap pack publiés dans le cadre des [Monthly Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). Pour débloquer les médailles de cette catégorie, un joueur doit jouer toutes les maps *de l'un des quatre packs de mode de jeu* qui sont en compétition dans le classement Beatmap Spotlights correspondant. L'utilisation de [mods de réduction de la difficulté](/wiki/Game_modifier#difficulté-réduite) ou de [mods d'augmentation de la difficulté](/wiki/Game_modifier#difficulté-augmenté) est autorisée.
 
 Bien que les Monthly Beatmap Spotlights aient été supprimés depuis avril 2018 au profit des [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018), toutes les médailles qui s'y rapportent peuvent encore être obtenues à ce jour.
 
 ## Seasonal Spotlights
 
-Les médailles **Seasonal Spotlights** sont des médailles attribuées après avoir terminé certains beatmap pack publiés dans le cadre de la campagne [Seasonal Spotlights] (https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Pour débloquer les médailles de cette catégorie, un joueur doit jouer toutes les maps *de l'un des quatre packs de mode de jeu* qui sont en compétition dans le tableau de classement des Seasonal Spotlights correspondants. L'utilisation de [mods de réduction de la difficulté](/wiki/Game_modifier#difficulté-réduite) ou de [mods d'augmentation de la difficulté](/wiki/Game_modifier#difficulté-augmenté) est autorisée.
+Les médailles **Seasonal Spotlights** sont des médailles attribuées après avoir terminé certains beatmap pack publiés dans le cadre de la campagne [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Pour débloquer les médailles de cette catégorie, un joueur doit jouer toutes les maps *de l'un des quatre packs de mode de jeu* qui sont en compétition dans le tableau de classement des Seasonal Spotlights correspondants. L'utilisation de [mods de réduction de la difficulté](/wiki/Game_modifier#difficulté-réduite) ou de [mods d'augmentation de la difficulté](/wiki/Game_modifier#difficulté-augmenté) est autorisée.
 
-Bien que les Seasonal Spotlights aient été supprimés au début de l'année 2020 en faveur du [système actuel des Beatmap Spotlights] (/wiki/Beatmap_Spotlights), toutes les médailles qui s'y rapportent peuvent encore être obtenues à ce jour.
+Bien que les Seasonal Spotlights aient été supprimés au début de l'année 2020 en faveur du [système actuel des Beatmap Spotlights](/wiki/Beatmap_Spotlights), toutes les médailles qui s'y rapportent peuvent encore être obtenues à ce jour.
 
 ## Beatmap Challenge Packs
 
-Les médailles **Beatmap Challenge Packs**, ou encore appelées [*Skill Packs medals*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#pack-medal-updates), sont des médailles attribuées après avoir franchi le niveau de difficulté le plus élevé de toutes les beatmaps contenus dans certains [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) ou [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist) *sans [mods de réduction de la difficulté] (/wiki/Game_modifier#difficulté-réduite) activés*. Ces beatmap pack sont spécialement conçus pour tester la compréhension de chaque joueur de divers aspects du jeu en fonction d'un niveau de compétence spécifique, par exemple dans une plage de [star ranting](/wiki/Beatmapping/Star_rating) ou de difficulté maximale.
+Les médailles **Beatmap Challenge Packs**, ou encore appelées [*Skill Packs medals*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#pack-medal-updates), sont des médailles attribuées après avoir franchi le niveau de difficulté le plus élevé de toutes les beatmaps contenus dans certains [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) ou [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist) *sans [mods de réduction de la difficulté](/wiki/Game_modifier#difficulté-réduite) activés*. Ces beatmap pack sont spécialement conçus pour tester la compréhension de chaque joueur de divers aspects du jeu en fonction d'un niveau de compétence spécifique, par exemple dans une plage de [star ranting](/wiki/Beatmapping/Star_rating) ou de difficulté maximale.
 
 Tous les beatmaps du pack doivent être réalisés dans le mode de jeu [osu!](/wiki/Game_mode/osu!) pour pouvoir prétendre au badge, sauf indication contraire.
 
