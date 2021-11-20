@@ -88,7 +88,7 @@ Hab keine Angst, etwas zu üben, bei dem du aus dem einen oder anderen Grund imm
 
 ### Globaler Offset
 
-*Hauptseite: [How to use the Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
+*Hauptseite: [Benutzung des Offset-Assistenten](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
 
 Abhängig von den Geräten, mit denen du osu! spielst, wirst du möglicherweise feststellen, dass die Hit-Circles nicht ganz im Takt der Musik liegen. Um dies zu korrigieren, kannst du den globalen Offset-Wert in den [Einstellungen](/wiki/Options) ändern. Der globale Offset verändert, wann der erste Kreis auf Beatmaps erscheint (entweder früher oder später als voreingestellt), was wiederum die restlichen Kreise um den gleichen Betrag verschiebt. Ein negativer Offset-Wert lässt die Kreise etwas später erscheinen, ein positiver Wert lässt sie früher erscheinen.
 
@@ -143,7 +143,7 @@ Nachdem du ein wenig gespielt hast, kannst du diese Beatmaps versuchen.
 
 ### Herausforderung
 
-Möchtest du dich pushen und dich einer Herausforderung stellen? Dann versuch diese!
+Möchtest du dich pushen und einer Herausforderung stellen? Dann versuch' diese hier!
 
 - [DJ Fresh - Gold Dust (galvenize) \[Easy\]](https://osu.ppy.sh/beatmapsets/28107#osu/96042)(1,32 Sterne)
 - [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Easy\]](https://osu.ppy.sh/beatmapsets/83333#osu/230174)(1,36 Sterne)
