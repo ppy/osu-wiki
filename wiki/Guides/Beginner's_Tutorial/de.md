@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Tutorial für Anfänger
 
 Willkommen zum osu! Anfängertutorial. Die Welt von osu! kann manchmal ein sehr kompetitiver Ort sein. Egal, ob du nach einem Extra-Schub suchst, um deine Karriere zu starten, in osu! kompetitiv sein willst oder einfach nur hoffst, dich zu verbessern, um mehr Spaß am Spiel zu haben, hier bist du richtig! Diese Anleitung beinhaltet alles, was du wissen musst, um in die Welt von osu! einzutauchen und aufzusteigen.
