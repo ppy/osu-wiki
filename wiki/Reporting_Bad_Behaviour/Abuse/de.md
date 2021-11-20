@@ -6,13 +6,13 @@ no_native_review: true
 
 ## Ich weiß nicht, ob ich das melden soll oder nicht
 
-Bitte tu es.
+Bitte mache es.
 
-Wenn es dir unangenehm genug ist, diese Seite zu lesen, kontaktier uns bitte sofort unter [abuse@ppy.sh](mailto:abuse@ppy.sh) mit möglichst detaillierten Angaben zu deinem Problem.
+Wenn es dir unangenehm genug ist, diese Seite zu lesen, kontaktiere uns bitte sofort unter [abuse@ppy.sh](mailto:abuse@ppy.sh) mit möglichst detaillierten Angaben zu deinem Problem.
 
 Wir haben null Toleranz gegenüber jeglicher Art von unerwünschter sexueller Belästigung oder Annäherung in dieser Community.
 
-Die Missbrauchs-E-Mail-Adresse wird nur von diesen beiden Benutzern gesehen:
+Die E-Mail-Adresse für Missbrauch wird nur von diesen beiden Benutzern gesehen:
 
 - [peppy](https://osu.ppy.sh/users/2) (der Erfinder des Spiels)
 - [Ephemeral](https://osu.ppy.sh/users/102335) (der Community-Manager)
@@ -21,11 +21,11 @@ Nichts, was du an [abuse@ppy.sh](mailto:abuse@ppy.sh) sendest, wird jemals mit j
 
 ## Jemand hat mir gegenüber unangebrachte sexuelle Annäherungen oder Bemerkungen gemacht!
 
-Scroll durch die untenstehenden Abschnitte, um zu erfahren, was zu tun ist, je nachdem, wo das alles passiert ist.
+Scroll' durch die untenstehenden Abschnitte, um zu erfahren, was zu tun ist, je nachdem, wo das alles passiert ist.
 
 ### Im Spielchat
 
-Blockiere den Benutzer sofort, indem du mit auf seinen Benutzernamen klickst und `Benutzer ignorieren` wählst.
+Blockiere den Benutzer sofort, indem du auf seinen Benutzernamen klickst und `Benutzer ignorieren` wählst.
 
 Du solltest ihn auch sofort melden, indem du auf die Schaltfläche `Benutzer melden...` klickst und danach die Eingabefelder ausfüllst.
 
@@ -37,9 +37,9 @@ Melde den Beitrag so schnell wie möglich einem Mitglied des [Globalen Moderatio
 
 Klicke dazu auf den Benutzernamen eines beliebigen GMT-Mitglieds in der Liste auf dieser Seite. Dadurch gelangst du zu dessen Profil. Wenn du unsicher bist, auf wen du klicken sollst, verwende stattdessen einfach [diesen Link](https://osu.ppy.sh/users/102335).
 
-Klicke auf die Schaltfläche mit einem Briefumschlag direkt unter der Landesflagge des Benutzers. Dadurch gelangst du zum Chat-Fenster.
+Klicke auf die Schaltfläche mit einem Briefumschlag direkt unter der Landesflagge des Benutzers. Damit gelangst du zum Chat-Fenster.
 
-Füge den Link zum Forumsbeitrag ein, der den problematischen Inhalt enthält, und erzähl dem GMT ein bisschen, was geschehen ist. Er wird den Beitrag für dich entfernen, sobald es ihm möglich ist.
+Füge den Link zum Forumsbeitrag ein, der den problematischen Inhalt enthält, und erzähle dem GMT ein bisschen, was geschehen ist. Er wird den Beitrag für dich entfernen, sobald es ihm möglich ist.
 
 Du kannst den Beitrag auch melden, indem du dein Spiel öffnest und `!report <Person> <Problem>` eingibst, wobei `<Person>` der Benutzername der Person ist, welche dir Probleme bereitet, und `<Problem>` der Link zum Beitrag gefolgt von einer kurzen Erklärung. Falls der Benutzername dieser Person Leerzeichen enthält, ersetze diese bitte durch Unterstriche (`_`).
 
@@ -61,7 +61,7 @@ Klicke auf die drei Punkte oben rechts im Problemtweet und klicke auf 'Tweet mel
 
 Blockiere anschließend den betreffenden Benutzer oder schalte ihn stumm, indem du auf die drei Punkte oben rechts in seinem Tweet klickst (wenn du die Webseite oder den mobilen Client benutzt). Weitere Informationen findest du im [Twitter-Leitfaden zur Sperrung von Konten](https://help.twitter.com/de/using-twitter/blocking-and-unblocking-accounts).
 
-Sei dir bitte bewusst, dass die Person sehen wird, dass du sie blockiert hast, wenn sie sich dein Twitter-Profil ansieht. Falls du befürchtest, dass dies das Problem woanders verschlimmert, schalte sie stattdessen stumm. Dadurch werden ihre Tweets aus deiner Timeline entfernt und du wirst keine weiteren Inhalte von ihr sehen, aber sie kann weiterhin alle von dir erstellten Tweets sehen und kommentieren.
+Sei dir bitte bewusst, dass die Person sehen wird, dass du sie blockiert hast, wenn sie sich dein Twitter-Profil ansieht. Falls du befürchtest, dass dies das Problem an anderer Stelle verschlimmert, schalte sie stattdessen stumm. Dadurch werden ihre Tweets aus deiner Timeline entfernt und du wirst keine weiteren Inhalte von ihr sehen, aber sie kann weiterhin alle von dir erstellten Tweets sehen und kommentieren.
 
 Wenn der Tweet von einem Konto stammt, welches mit dem Profil eines osu!-Spielers über unsere Webseite verknüpft ist (es erscheint unter seinem Avatar und Beitrittsdatum neben einem stilisierten Vogelsymbol), sende bitte eine E-Mail an [abuse@ppy.sh](mailto:abuse@ppy.sh) mit einer Kopie des Tweets in Bildform, wo immer möglich, und jeglichen anderen Informationen, die dir einfallen.
 
@@ -69,7 +69,7 @@ Wenn der Tweet von einem Konto stammt, welches mit dem Profil eines osu!-Spieler
 
 Sende **sofort** eine E-Mail mit so viel Informationen wie möglich an [abuse@ppy.sh](mailto:abuse@ppy.sh).
 
-Wenn dir irgendetwas, was du hinzufügen möchtest, peinlich ist, lass es bitte weg. Dazu gehören Screenshots, Chatverläufe, im Grunde alles, was du an eine E-Mail anhängen kannst.
+Wenn dir irgendetwas, was du hinzufügen möchtest, peinlich ist, lass' es bitte weg. Dazu gehören Screenshots, Chatverläufe, im Grunde alles, was du an eine E-Mail anhängen kannst.
 
 Wir werden uns damit befassen, sobald wir können.
 
