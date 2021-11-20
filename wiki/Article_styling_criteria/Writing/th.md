@@ -286,10 +286,6 @@ Prefer: Beatmap Nominators can nominate your beatmap.
 
 [บทความที่มีการเขียนอย่างไม่เป็นทางการ](#ทะเบียนภาษา) อาจละเว้นส่วนนี้ อย่างไรก็ตาม ควรหลีกเลี่ยง `I` ในย่อหน้า
 
-## ไวยากรณ์
-
-บทความควรใช้ [ไวยากรณ์แบบอเมริกันที่ง่ายกว่า](https://www.thepunctuationguide.com/british-versus-american-style.html)
-
 ### ศัพท์ย่อ
 
 ไม่ควรใช้ศัพท์ย่อ
