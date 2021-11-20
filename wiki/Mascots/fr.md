@@ -26,7 +26,7 @@ Yuzu est la mascotte d'osu!catch qui a rejoint le 22/06/2014. Il est né le 10/0
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 
-Conçues par [xiemon](https://osu.ppy.sh/users/5203667) après avoir été repérées lors du [Most Manic Art Contest] (https://osu.ppy.sh/community/contests/80) et annoncées comme les mascottes officielles d'osu!mania le 18/09/2020, Mani et Mari sont des jumelles qui ne se supportent pas vraiment, mais qui se ressemblent plus qu'elles ne veulent l'admettre.
+Conçues par [xiemon](https://osu.ppy.sh/users/5203667) après avoir été repérées lors du [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) et annoncées comme les mascottes officielles d'osu!mania le 18/09/2020, Mani et Mari sont des jumelles qui ne se supportent pas vraiment, mais qui se ressemblent plus qu'elles ne veulent l'admettre.
 
 Mani est une sorte de franc-tireur, qui cherche toujours à explorer de nouveaux styles et de nouvelles choses, tandis que sa sœur Mari (anciennement connue sous le nom de Maria) est une perfectionniste rigide et classique qui a un penchant pour les projecteurs. Les deux s'entendent comme l'huile et l'eau.
 
