@@ -6,7 +6,7 @@ no_native_review: true
 
 ## Ich weiß nicht, ob ich das melden soll oder nicht
 
-Bitte mache es.
+Bitte mach' es.
 
 Wenn es dir unangenehm genug ist, diese Seite zu lesen, kontaktiere uns bitte sofort unter [abuse@ppy.sh](mailto:abuse@ppy.sh) mit möglichst detaillierten Angaben zu deinem Problem.
 
