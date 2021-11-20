@@ -1,69 +1,85 @@
----
-outdated: true
----
-
 # Internet Relay Chat
 
-[IRC](https://de.wikipedia.org/wiki/Internet_Relay_Chat) ist ein Chat-System, dem es einen möglich macht, mit anderen Usern sich in einem Channel zu unterhalten. Hierfür gibt es verschiedene Applikationen und Add-Ons.
+*Für mehr Informationen, siehe: [Internet Relay Chat (Wikipedia)](https://en.wikipedia.org/wiki/Internet_Relay_Chat)*
 
-## osu! Chat
+[IRC](https://de.wikipedia.org/wiki/Internet_Relay_Chat) ist ein Protokoll der Anwendungsschicht, das das Chatten mit anderen Benutzern ermöglicht.
 
-In osu! ist es möglich mit dem eigenen IRC Client sich zu dem Chat-Server zu verbinden, um über diesen Weg in den Channels mit anderen Usern zu schreiben. Selbst dann, wenn bei euch osu! nicht im Hintergrund läuft. Allerdings fehlen ein paar Funktionen, da Bancho eigene Einstellungen verwendet, daher könnten wohlmöglich ein paar Funktionen des eigenen IRC Clients entfallen.
+## osu!Bancho
+
+*Hinweis: dieser Server stellt keine vollständige Implementierung des IRC-Protokolls bereit. Einige komplexere Funktionen deines IRC-Clients (z. B. [HexChat](https://hexchat.github.io/)) funktionieren nur bedingt oder gar nicht.*
+
+*osu!Bancho* (manchmal abgekürzt einfach nur *Bancho*) bietet ein Gateway für dne Zugriff auf IRC (Chat im Spiel). Du kannst jeden modernen IRC-Client nutzen, um dich damit zu verbinden (scrolle herunter für eine Liste der populärsten Clients).
 
 ### Zum Server verbinden
 
-Falls ihr einen Client habt und über diesen euch verbinden wollt, verbindet euch zu [cho.ppy.sh](irc://cho.ppy.sh) oder [irc.ppy.sh](irc://irc.ppy.sh) (beide sind verwendbar) zum Port **6667** (dem Standard IRC Port).
+Öffne die Einstellungen deines IRC-Clients und trage diese Werte ein (eventuell musst du erst einen Server hinzufügen):
 
-### Authentifizieren zu Bancho
+- Server: `irc.ppy.sh`
+- Port: `6667`
+- Benutzername: dein osu! Benutzername. Ersetze Leerzeichen durch Unterstriche (z. B. `beppy master 1000` wird zu `beppy_master_1000`)
+- Passwort: das Passwort der [IRC-Authentifizierungsseite](https://osu.ppy.sh/p/irc)
 
-Sobald ihr euch verbunden habt, werdet ihr als Startnachricht folgendes bekommen:
+*Warnung: Dein IRC-Passwort ist unterschiedlich zum Passwort deines Accounts. **Teile dies nicht mit anderen**.*
 
-```
-* Welcome to osu!bancho.
-* -
-* - You are required to authenticate before accessing this service.
-* - Please click the following link to complete this process:
-```
+## Grundlegende IRC-Kommandos
 
-Wenn ihr die URL anklickt, werden ihr auf eine Seite gebracht, wo ein großer Button mit der Beschriftung "Authorise IRC connection" ist. Einmal draufklicken und schon werdet ihr authentisiert und könnt euch zu [\#osu](irc://cho.ppy.sh/osu) verbinden.
-
-Sofern ihr keine Lust darauf habt, jedes Mal auf die Seite zu gehen, um euch über diesen Weg zu authentisieren, dann könnt ihr das Passwort benutzen, welches unter dem Button steht. Somit authentisiert ihr euch jedes Mal beim Verbinden zu Bancho.
-
-`Um euch dauerhaft zu authentisieren, ändert euer IRC Passwort (Server Passwort) zu: XXXXXXX`
-
-## Grundlegende IRC Kommandos
-
-| Aktion | Kommando |
+| Aktion | Beschreibung |
 | :-- | :-- |
-| Channel beitreten (z. B. \#german) | `/join #somechannel` |
-| Channel verlassen | `/part` |
-| Jemanden ignorieren | `/ignore <Name>` |
-| Nickname ändern | `/nick <Name>` |
-| Etwas machen | `/me <Text>` |
-| Nachricht senden an | `/msg <Benutzername> <Text>` |
+| `/join <#channel>` | Channel beitreten |
+| `/part <#channel>` | Channel verlassen |
+| `/me <Aktion>` | Sende eine Aktionsnachricht |
+| `/ignore <Benutzername>` | Ignoriere einen Benutzer (Nachrichten werden versteckt) |
+| `/away <Nachricht>` | Lasse eine Abwesenheitsnachricht für jeden da, der dich versucht zu kontaktieren |
+| `/away` | Lösche die Abwesenheitsnachricht |
+| `/query <Benutzername>` | Öffne einen Chat mit Benutzername (ersetze Leerzeichen durch Unterstriche) |
 
-## Join/Part Nachrichten deaktivieren
+### Join/Part/Quit Nachrichten deaktivieren
 
-Jedes Mal wenn jemand dem Channel betretet oder verlässt, kommt folgende Nachricht:
+Normalerweise informieren dich viele IRC-Clients, sobald ein Benutzer einen Channel verlässt. Für Netzwerke wie osu!Bancho mit tausenden von Nutzern, die sich ständig ein- und ausloggen, können solche Fluten an Nachrichten nervig werden. Im Folgenden findest du eine Liste an populären IRC-Clients und wie du diese Nachrichten dort deaktivieren kannst:
 
-```
-someuser has joined #somechannel
-someuser has quit #somechannel
-```
-
-In Channels mit wenigeren Usern sind diese Meldungen nicht sonderlich bemerkbar, allerdings werden diese bei größeren Channels wie \#osu oder \#lobby deutlich bemerkbar und machen es einem schwer, dem zu folgen. Daher wird empfohlen, diese Meldungen zu deaktivieren.
-
-### Join/Part Nachrichten in bekannten Clients deaktivieren
-
-| Client | Kommandos |
+| IRC-Client | Beschreibung |
 | :-- | :-- |
-| AndChat (Android App) | "Settings" -> "Messages & Rooms" -> "Hide join/part/quit Messages" aktivieren |
-| [HexChat](https://hexchat.github.io/) | Rechtsklick auf den Channel, den ihr ändern wollt, dann unter Einstellungen "Hide Join/Part Messages". Geht zu den Einstellungen unter » Preferences, under Chatting » General, danach auf "Hide join and part Messages" klicken. |
-| [ircII](http://www.eterna.com.au/ircii/) | `/ignore * crap` |
-| [Irssi](https://irssi.org) | `/ignore -channels #somechannel * JOINS PARTS QUITS` |
-| [KVIrc](https://www.kvirc.net/) | Holt euch die Informationen in [diesem Thread](http://www.kvirc.ru/forum/?topic=609.0) vom offiziellen KVIrc Forum. |
-| [mIRC](https://www.mirc.com/) | Tools » Options » wählt "IRC". Klickt auf den "Events..." Button. Ändert die "joins", "parts", "quits", und "nicks" zu der jeweiligen Einstellung: "In Status" oder "Hide" sind gute Optionen. [1](http://web.archive.org/web/20160304201229/http://i.clintecker.com/disable-irc-msgs.html). |
-| [Quassel IRC](https://quassel-irc.org/) | Rechtsklick auf das Fenster worin ihr chattet, wählt dann "Hide Events" » "Join/Part/Quit". |
-| [XChat](http://xchat.org/) | Rechtsklick auf den Tab, den ihr ändern wollt. Im Untermenu der Channel Namen, könnt ihr "Show join/part messages" ein- und ausschalten. Oder ihr gibt `/set irc_conf_mode 1` ein [2](http://xchat.org/faq/#q211), um diese Nachrichten über alle Channels hindurch zu deaktivieren. |
+| [HexChat](https://hexchat.github.io/) | Setze einen Haken bei "Hide join and part messages" unter `Settings` -> `Preferences` -> `Chatting` -> `General` (nannte sich Advanced vor der Version 2.9.6)  |
+| [ircII](http://www.eterna.com.au/ircii/) | Gebe `IGNORE * CRAP` ein |
+| [Irssi](https://irssi.org) | Tippe `/ignore * JOINS PARTS QUITS` ein |
+| [Weechat](https://weechat.org/) | Gebe `/filter add joinquit * irc_join,irc_part,irc_quit *` ein |
+| [KVIrc](https://www.kvirc.net/) | (Beziehe dich auf [die KVIrc Wikiseite](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages)) |
+| [mIRC](https://www.mirc.com/) | Gehe zu den mIRC Optionen (`Tools` -> `Options`, oder `Alt` + `O`), wähle `IRC` aus, klicke den `Events...` Knopf und selektiere `Hide` für Joins und Parts |
+| [Quassel IRC](https://quassel-irc.org/) | Rechtsklicke im Chat und wähle Joins/Parts/Quits im "Hide Events" Menü |
+| [XChat](http://xchat.org/) | Tippe `/set irc_conf_mode 1` ein |
 
-Sofern euer IRC Client nicht verzeichnet ist, könnt ihr diese hier hinzufügen und wie es bei diesen funktioniert.
+## FAQ
+
+### Ich kann mich nicht einloggen
+
+osu!Bancho benutzt Klartext bei der Authentifizierung — stelle sicher, dass kein spezieller Authentifizierungsmodus ausgewählt ist in den Einstellungen deines IRC-Clients.
+
+Alternativ kannst du auch eine andere Serveradresse eingeben, `cho.ppy.sh` (du wirst trotzdem zu osu!Bancho verbunden).
+
+### Ich erhalte den Fehler "Bad Authentication Token"
+
+Versuche das Folgende:
+
+1. Vergewissere dich, dass du das richtige Passwort von der [IRC-Authentifizierungsseite](https://osu.ppy.sh/p/irc) benutzt.
+2. Wenn dein Benutzername Leerzeichen enthält, ersetze diese bitte mit Unterstrichen (z. B. `Dieser Benutzername` wird zu `Dieser_Benutzername`).
+
+### Kann ich einen anderen Benutzernamen wählen?
+
+Nein.
+
+### Wie kann ich schnell den Benutzernamen einer anderen Person eingeben?
+
+Tippe die ersten paar Buchstaben des Benutzernamens ein und drücke dann `Tab`, um die Autovervollständigung durchzugehen.
+
+### Warum sind manche Namen mit unterschiedlichen Präfixen versehen?
+
+Der IRC-Standard hat ein Channelmoduskonzept oder Aktionen, die jeder Nutzer ausführen kann. In osu!Bancho werden zwei Modi für spezielle Gruppen von Benutzern verwendet:
+
++ `+` oder "voice status": der Benutzer ist via einem externen IRC-Client verbunden
+- `@` oder "chat operator status": der Benutzer ist ein Chatmoderator ([GMT](/wiki/People/The_Team/Global_Moderation_Team) oder [NAT](/wiki/People/The_Team/Nomination_Assessment_Team))
+
+Benutzer, die über den osu!-Client verbunden sind, haben kein Präfix.
+
+### Jemand sendet Nachrichten, aber er ist nicht in der Liste der Channel-Benutzer!
+
+Er verwendet entweder die [Web-Version des Chats](https://osu.ppy.sh/community/chat) oder ist via [osu!lazer](https://github.com/ppy/osu) verbunden.
