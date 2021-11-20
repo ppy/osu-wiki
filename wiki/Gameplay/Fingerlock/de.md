@@ -18,7 +18,7 @@ tags:
 
 ## Ursachen
 
-*Vorsicht: Fingerlock ist **kein** Krankheitszustand. Alle angeblichen Forschungsergebnisse oder allgemein bekannten Informationen der osu! Community über die Ursache und/oder die langfristigen Auswirkungen sind **nicht als wissenschaftlich** zu betrachten. Die osu!-Community ist nicht qualifiziert, medizinische Ratschläge zu erteilen; verwende das osu!-Wiki nicht, um medizinische Zustände zu diagnostizieren.*
+*Vorsicht: Fingerlock ist **kein** Krankheitszustand. Alle angeblichen Forschungsergebnisse oder allgemein bekannten Informationen der osu! Community über die Ursache und/oder die langfristigen Auswirkungen sind **nicht als wissenschaftlich** zu betrachten. Die osu!-Community ist nicht qualifiziert, medizinische Ratschläge zu erteilen; verwende das osu!-Wiki nicht, um medizinische Beschwerden zu diagnostizieren.*
 
 Fingerlock ist ein häufiges Phänomen, das viele erfahrene osu!-Spieler erleben. Die meisten Spieler sind sich einig, dass Fingerlock im Allgemeinen kein Grund zur Sorge ist. Wenn ein Spieler jedoch häufig unter anhaltenden oder schmerzhaften Fingerlocks leidet, sollte er einen Arzt aufsuchen, da es sich um eine gesundheitliche Störung handeln kann.
 
