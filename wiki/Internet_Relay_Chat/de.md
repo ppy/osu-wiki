@@ -1,14 +1,14 @@
 # Internet Relay Chat
 
-*Für mehr Informationen, siehe: [Internet Relay Chat (Wikipedia)](https://en.wikipedia.org/wiki/Internet_Relay_Chat)*
+*Für mehr Informationen, siehe: [Internet Relay Chat (Wikipedia)](https://de.wikipedia.org/wiki/Internet_Relay_Chat)*
 
-[IRC](https://de.wikipedia.org/wiki/Internet_Relay_Chat) ist ein Protokoll der Anwendungsschicht, das das Chatten mit anderen Benutzern ermöglicht.
+IRC ist ein Protokoll auf Anwendungsebene, das das Chatten mit anderen Benutzern ermöglicht.
 
 ## osu!Bancho
 
 *Hinweis: dieser Server stellt keine vollständige Implementierung des IRC-Protokolls bereit. Einige komplexere Funktionen deines IRC-Clients (z. B. [HexChat](https://hexchat.github.io/)) funktionieren nur bedingt oder gar nicht.*
 
-*osu!Bancho* (manchmal abgekürzt einfach nur *Bancho*) bietet ein Gateway für dne Zugriff auf IRC (Chat im Spiel). Du kannst jeden modernen IRC-Client nutzen, um dich damit zu verbinden (scrolle herunter für eine Liste der populärsten Clients).
+*osu!Bancho* (manchmal abgekürzt einfach nur *Bancho*) bietet ein Gateway für den Zugriff auf IRC (Chat im Spiel). Du kannst jeden modernen IRC-Client nutzen, um dich damit zu verbinden (scrolle herunter für eine Liste der populärsten Clients).
 
 ### Zum Server verbinden
 
@@ -16,7 +16,7 @@
 
 - Server: `irc.ppy.sh`
 - Port: `6667`
-- Benutzername: dein osu! Benutzername. Ersetze Leerzeichen durch Unterstriche (z. B. `beppy master 1000` wird zu `beppy_master_1000`)
+- Benutzername: dein osu! Benutzername. Ersetze Leerzeichen durch Unterstriche (z. B. wird `beppy master 1000` zu `beppy_master_1000`)
 - Passwort: das Passwort der [IRC-Authentifizierungsseite](https://osu.ppy.sh/p/irc)
 
 *Warnung: Dein IRC-Passwort ist unterschiedlich zum Passwort deines Accounts. **Teile dies nicht mit anderen**.*
@@ -35,7 +35,7 @@
 
 ### Join/Part/Quit Nachrichten deaktivieren
 
-Normalerweise informieren dich viele IRC-Clients, sobald ein Benutzer einen Channel verlässt. Für Netzwerke wie osu!Bancho mit tausenden von Nutzern, die sich ständig ein- und ausloggen, können solche Fluten an Nachrichten nervig werden. Im Folgenden findest du eine Liste an populären IRC-Clients und wie du diese Nachrichten dort deaktivieren kannst:
+Normalerweise informieren dich viele IRC-Clients, sobald ein Benutzer einen Channel verlässt. Für Netzwerke wie osu!Bancho mit tausenden von Nutzern, die sich ständig ein- und ausloggen, können solche Fluten an Nachrichten nervig werden. Im Folgenden findest du eine Liste gängiger IRC-Clients und wie du diese Nachrichten dort deaktivieren kannst:
 
 | IRC-Client | Beschreibung |
 | :-- | :-- |
@@ -52,7 +52,7 @@ Normalerweise informieren dich viele IRC-Clients, sobald ein Benutzer einen Chan
 
 ### Ich kann mich nicht einloggen
 
-osu!Bancho benutzt Klartext bei der Authentifizierung — stelle sicher, dass kein spezieller Authentifizierungsmodus ausgewählt ist in den Einstellungen deines IRC-Clients.
+osu!Bancho benutzt Klartext bei der Authentifizierung — stelle sicher, dass in den Einstellungen deines IRC-Clients kein spezieller Authentifizierungsmodus ausgewählt ist.
 
 Alternativ kannst du auch eine andere Serveradresse eingeben, `cho.ppy.sh` (du wirst trotzdem zu osu!Bancho verbunden).
 
@@ -61,7 +61,7 @@ Alternativ kannst du auch eine andere Serveradresse eingeben, `cho.ppy.sh` (du w
 Versuche das Folgende:
 
 1. Vergewissere dich, dass du das richtige Passwort von der [IRC-Authentifizierungsseite](https://osu.ppy.sh/p/irc) benutzt.
-2. Wenn dein Benutzername Leerzeichen enthält, ersetze diese bitte mit Unterstrichen (z. B. `Dieser Benutzername` wird zu `Dieser_Benutzername`).
+2. Wenn dein Benutzername Leerzeichen enthält, ersetze diese bitte mit Unterstrichen (z. B. wird `Dieser Benutzername` zu `Dieser_Benutzername`).
 
 ### Kann ich einen anderen Benutzernamen wählen?
 
@@ -78,7 +78,7 @@ Der IRC-Standard hat ein Channelmoduskonzept oder Aktionen, die jeder Nutzer aus
 - `+` oder "voice status": der Benutzer ist via einem externen IRC-Client verbunden
 - `@` oder "chat operator status": der Benutzer ist ein Chatmoderator ([GMT](/wiki/People/The_Team/Global_Moderation_Team) oder [NAT](/wiki/People/The_Team/Nomination_Assessment_Team))
 
-Benutzer, die über den osu!-Client verbunden sind, haben kein Präfix.
+Benutzer, die über den osu!-Client oder die Website verbunden sind, haben kein Präfix.
 
 ### Jemand sendet Nachrichten, aber er ist nicht in der Liste der Channel-Benutzer!
 
