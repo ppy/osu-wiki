@@ -4,7 +4,7 @@ stub: true
 
 # Tanzmatte
 
-![](img/dance-pad.jpg "Tanzmatte mit 4 Tasten Steuerung")
+![](img/dance-pad.jpg "Tanzmatte mit 4-Tasten-Steuerung")
 
 Eine **Tanzmatte** oder ein **Tanzpad** ist eine Art Controller für Rhythmusspiele, bei dem die Bewegungen der Füße des Spielers als Eingabe dienen. Wie oben dargestellt, werden die Tanzmatten auf den Boden gelegt und ermöglichen es dem Benutzer, in vier bis neun "Richtungen" zu treten, um die Tasten zu aktivieren. Diese Art von Controllern wird am häufigsten in Rhythmusspielen wie *[Dance Dance Revolution](https://de.wikipedia.org/wiki/Dance_Dance_Revolution)* verwendet.
 

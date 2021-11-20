@@ -12,4 +12,4 @@ Aufgrund ihrer Bauart werden Beatmania-Controller am häufigsten als Eingabeger�
 
 ## Eingabemethoden
 
-Spieler, die einen Playstation 2 (PS2) *Beatmania*-Controller besitzen, können den Controller mit einem Adapter über USB an ihren Computer anschließen und die Tasten in den Optionen belegen. Spieler, die hingegen einen *DJ DAO IIDX* Controller besitzen, können den Controller einfach über USB an ihren Computer anschließen und die Tasten belegen.
+Spieler, die einen Playstation 2 (PS2) *Beatmania*-Controller besitzen, können den Controller mit einem Adapter über USB an ihren Computer anschließen und die Tasten in den Optionen einstellen. Spieler, die hingegen einen *DJ DAO IIDX* Controller besitzen, können den Controller einfach über USB an ihren Computer anschließen und die Tasten belegen.
