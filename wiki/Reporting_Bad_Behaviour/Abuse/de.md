@@ -21,7 +21,7 @@ Nichts, was du an [abuse@ppy.sh](mailto:abuse@ppy.sh) sendest, wird jemals mit j
 
 ## Jemand hat mir gegenüber unangebrachte sexuelle Annäherungen oder Bemerkungen gemacht!
 
-Scroll' durch die untenstehenden Abschnitte, um zu erfahren, was zu tun ist, je nachdem, wo das alles passiert ist.
+Scroll' durch die unten stehenden Abschnitte, um zu erfahren, was zu tun ist, je nachdem, wo das alles passiert ist.
 
 ### Im Spielchat
 
