@@ -30,7 +30,7 @@ Debe contactar con este equipo para tratar temas relacionados con la cuenta que 
 - Casos de mal comportamiento que [desea admitir](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-roken-the-rules?).
 - [Pérdida de acceso al correo electrónico](/wiki/Help_Centre/Installation_and_registration#sign-in) ligado a tu cuenta de osu!, o cuando tu cuenta es robada.
 - Nombre de usuario [revierte y realiza pequeñas correcciones ortográficas](/wiki/Help_Centre/Account#name-changes).
-- [Registros de cuenta bot](/wiki/Cuenta_bot).
+- [Registros de cuenta bot](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 

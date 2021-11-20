@@ -8,7 +8,7 @@ tags:
 
 # Project Loved Takımı
 
-**Project Loved Takımı**, [beatmaplerin](/wiki/Beatmap) [Sevilen](/wiki/Beatmap/Category#loved) kategorisine eklenmesini sağlayan oylama platformu olan [Project Loved](/wiki/Project_Loved)'ı yöneten osu! topluluğu üyeleridir. Onlar, forumlarda şeker pembesi olan isim renkleri ve `LVD` yazan kullanıcı grubu rozetleri ile ayırt edilirler.
+**Project Loved Takımı**, [beatmaplerin](/wiki/Beatmap) [Sevilen](/wiki/Beatmap/Category#sevilen) kategorisine eklenmesini sağlayan oylama platformu olan [Project Loved](/wiki/Project_Loved)'ı yöneten osu! topluluğu üyeleridir. Onlar, forumlarda şeker pembesi olan isim renkleri ve `LVD` yazan kullanıcı grubu rozetleri ile ayırt edilirler.
 
 [Project Loved grup sayfası](https://osu.ppy.sh/groups/31) tüm takım üyelerini listeler.
 
@@ -137,7 +137,7 @@ Aşağıda listelenen kullanıcılar bir zamanlar Project Loved Takımının bir
 ### Video editörleri
 
 - ![][flag_GB] [Striiker](https://osu.ppy.sh/users/7291594)
-- ![][flag_HU] [ThatsNotAName](https://osu.ppy.sh/users/9682904)
+- ![][flag_US] [ThatsNotAName](https://osu.ppy.sh/users/9682904)
 - ![][flag_HU] [verto](https://osu.ppy.sh/users/2015300)
 
 ## Ek bilgiler
