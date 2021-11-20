@@ -39,7 +39,7 @@ Normalerweise informieren dich viele IRC-Clients, sobald ein Benutzer einen Chan
 
 | IRC-Client | Beschreibung |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/) | Setze einen Haken bei "Hide join and part messages" unter `Settings` -> `Preferences` -> `Chatting` -> `General` (nannte sich Advanced vor der Version 2.9.6)  |
+| [HexChat](https://hexchat.github.io/) | Setze einen Haken bei "Hide join and part messages" unter `Settings` -> `Preferences` -> `Chatting` -> `General` (nannte sich Advanced vor der Version 2.9.6) |
 | [ircII](http://www.eterna.com.au/ircii/) | Gebe `IGNORE * CRAP` ein |
 | [Irssi](https://irssi.org) | Tippe `/ignore * JOINS PARTS QUITS` ein |
 | [Weechat](https://weechat.org/) | Gebe `/filter add joinquit * irc_join,irc_part,irc_quit *` ein |
