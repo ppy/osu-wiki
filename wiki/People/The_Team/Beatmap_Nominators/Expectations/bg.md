@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Очаквания от бийтмап номинаторите
 
 *Виж също: [Правила за номинатори на бийтмапове](/wiki/People/The_Team/Beatmap_Nominators/Rules)*

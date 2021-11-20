@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Как да стана бийтмап номинатор
 
 Потребителите имащи интерес да се присъединят към [Бийтмап номинатори](/wiki/People/The_Team/Beatmap_Nominators) трябва да преминат процес за кандидатстване, ръководен от [екипа за оценка на номинатори](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).

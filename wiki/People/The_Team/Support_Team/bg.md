@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Екип поддръжка
 
 *За екип управляващ профили, виж [екипа за поддръжка на профили](/wiki/People/The_Team/Account_support_team).*

@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Сътрудници на общност
 
 ![](/wiki/shared/contributor.jpg "Contributor badge")
