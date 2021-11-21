@@ -339,7 +339,7 @@ Saturday, November 6, 2021
 | Finland ![][flag_FI] | 5 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/93562377) |
 | **Sweden** ![][flag_SE] | **6** | 5 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/93562374) |
 | **Brazil** ![][flag_BR] | **6** | 3 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/93566789) |
-| France ![][flag_FR] | 5 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/93566833) |
+| **France** ![][flag_FR] | **6** | 5 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/93566833) |
 | **United States** ![][flag_US] | **6** | 3 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/93625962) |
 
 Sunday, November 7, 2021
