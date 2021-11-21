@@ -4,7 +4,9 @@ tags:
   - modding V2
   - MV2
 ---
+
 <!-- TODO: the interface has changed quite a bit. this whole article should be rechecked to make sure it all makes sense still -->
+
 # Beatmap discussion
 
 *See also: [Modding v1](/wiki/Modding/Forum_modding)*
