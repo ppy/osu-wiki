@@ -113,28 +113,55 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 
 ## Match schedule: Finals
 
-### Saturday, November 20, 2021
+### Saturday, November 27, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Hong Kong | ![][flag_HK] | ![][flag_KR] | South Korea | Nov 20 (Sat) 13:30 UTC | Nov 20 (Sat) 21:30 UTC+8 | Nov 20 (Sat) 22:30 UTC+9 | ² |
-| Canada | ![][flag_CA] | ![][flag_GB] | United Kingdom | Nov 20 (Sat) 19:00 UTC | Nov 20 (Sat) 14:00 UTC-5 | Nov 20 (Sat) 19:00 UTC | ² |
+| Germany | ![][flag_DE] | ![][flag_KR] | South Korea | Nov 27 (Sat) 14:00 UTC | Nov 27 (Sat) 15:00 UTC+1 | Nov 27 (Sat) 23:00 UTC+9 | ¹ |
 
-### Sunday, November 21, 2021
+### Sunday, November 28, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_HK] | Hong Kong | Nov 21 (Sun) 04:00 UTC | Nov 20 (Sat) 23:00 UTC-5 | Nov 21 (Sun) 12:00 UTC+8 | ³ |
-| Canada | ![][flag_CA] | ![][flag_KR] | South Korea | Nov 21 (Sun) 04:00 UTC | Nov 20 (Sat) 23:00 UTC-5 | Nov 21 (Sun) 13:00 UTC+9 | ³ |
-| United Kingdom | ![][flag_GB] | ![][flag_HK] | Hong Kong | Nov 21 (Sun) 13:00 UTC | Nov 21 (Sun) 13:00 UTC | Nov 21 (Sun) 21:00 UTC+8 | ³ |
-| United Kingdom | ![][flag_GB] | ![][flag_KR] | South Korea | Nov 21 (Sun) 13:00 UTC | Nov 21 (Sun) 13:00 UTC | Nov 21 (Sun) 22:00 UTC+9 | ³ |
-| United States | ![][flag_US] | ![][flag_DE] | Germany | Nov 21 (Sun) 19:00 UTC | Nov 21 (Sun) 15:00 UTC-4 | Nov 21 (Sun) 20:00 UTC+1 | ¹ |
+| United States | ![][flag_US] | ![][flag_KR] | South Korea | Nov 28 (Sun) 04:00 UTC | Nov 28 (Sun) 00:00 UTC-4 | Nov 28 (Sun) 13:00 UTC+9 | ² |
+| United States | ![][flag_US] | ![][flag_DE] | Germany | Nov 28 (Sun) 18:00 UTC | Nov 28 (Sun) 14:00 UTC-4 | Nov 28 (Sun) 19:00 UTC+1 | ² |
 
-¹ Winners bracket match\
-² Losers bracket match\
-³ Potential match: final matchup depends on the results of ²
+¹ Losers bracket match\
+² Potential match: final matchup depends on the results of ¹
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (171 MB)](https://drive.google.com/uc?id=1mvH20LLVVej_ZGR08-xadqJ0hAB0vQGS)**
+
+- NoMod
+  - [katagiri - Buta Musou (BarkingMadDog) \[Unparalleled\]](https://osu.ppy.sh/beatmapsets/1633225#osu/3333705)
+  - [Brymir - Pantheon of Forsaken Gods (LMT) \[Hideous Divinity\]](https://osu.ppy.sh/beatmapsets/1633210#osu/3333669)
+  - [Yousei Teikoku - Autoscopy (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1633220#osu/3333699)
+  - [seatrus - ILLEGAL LEGACY (Halgoh) \[Halgoh x Sharu\]](https://osu.ppy.sh/beatmapsets/1633224#osu/3333703)
+  - [AAAA vs. Frums - beepbit \* futures (toybot) \[fast \* forward\]](https://osu.ppy.sh/beatmapsets/1633221#osu/3333700)
+  - [ARM - Rhododendron (yaspo) \[wacky\]](https://osu.ppy.sh/beatmapsets/1633222#osu/3333701)
+- Hidden
+  - [Mors Principium Est - Livin' La Vida Loca (LMT) \[livin la vida mazzerin\]](https://osu.ppy.sh/beatmapsets/1538589#osu/3145691)
+  - [Cranky - Bestrafung (Icekalt) \[Extra\]](https://osu.ppy.sh/beatmapsets/1633283#osu/3333792)
+  - [Rish feat. Choko - Marukute Hayakute Susamajii Rhythm (Motto Susamajii Ver) (Nathan) \[CANDY PANIC BOMB!\]](https://osu.ppy.sh/beatmapsets/1633226#osu/3333706)
+- HardRock
+  - [Roselia - ZEAL of proud (SkyFlame) \[Radiant\]](https://osu.ppy.sh/beatmapsets/1504153#osu/3081546)
+  - [KUMOKIRI - Shippuujinrai (Kloyd) \[Ozma\]](https://osu.ppy.sh/beatmapsets/1631947#osu/3331199)
+  - [tarolabo - eth ken (Keqing) \[Arcane OWC\]](https://osu.ppy.sh/beatmapsets/1633205#osu/3333660)
+- DoubleTime
+  - [nano.RIPE - Kagefumi (Mirash) \[Delisa and Miranda womanitized collab\]](https://osu.ppy.sh/beatmapsets/1633147#osu/3333570)
+  - [Nightwish - Sacrament of Wilderness (Nao Tomori) \[Insane (OWC)\]](https://osu.ppy.sh/beatmapsets/1633156#osu/3333586)
+  - [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Gekijou no Prominence (-Mo-) \[Insane\]](https://osu.ppy.sh/beatmapsets/1633270#osu/3333770)
+  - [USAO - Chariot (Extended Mix) (Realazy) \[lebronJAM\]](https://osu.ppy.sh/beatmapsets/1633242#osu/3333734)
+- FreeMod
+  - [Falcom Sound Team jdk - Heavy Violent Match (jonathanlfj) \[OWC Match\]](https://osu.ppy.sh/beatmapsets/1633237#osu/3333729)
+  - [connsome - flat by second (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/1633261#osu/3333760)
+  - [Toby "Radiation" Fox - Black (Mismagius) \[Make Her a Member of the OWC Crew\]](https://osu.ppy.sh/beatmapsets/1245641#osu/3333738)
+- Tiebreaker
+  - [Yooh - RPG (Zelq) \[Divinity\]](https://osu.ppy.sh/beatmapsets/1633250#osu/3333745)
+
 
 ### Finals
 
@@ -301,6 +328,24 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
   - [-45 - NyanNyatothep (Dada) \[Gothic Horror\]](https://osu.ppy.sh/beatmapsets/1597755#osu/3263028)
 
 ## Match results
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1_aH9TQiOu4VZ2bMesV8A386EAhk_4piUCYLg0Kp-rA4/edit?rm=minimal).
+
+Saturday, November 20, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hong Kong ![][flag_HK] | 2 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/94198225) |
+| **Canada** ![][flag_CA] | **7** | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/94215627) |
+
+Sunday, November 21, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Canada ![][flag_CA] | 5 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/94237395) |
+| **United States** ![][flag_US] | **7** | 6 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/94267511) |
 
 ### Semifinals
 
