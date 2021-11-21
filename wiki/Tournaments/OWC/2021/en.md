@@ -133,7 +133,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 
 ### Grand Finals
 
-**[Download the mappack here (171 MB)](https://drive.google.com/uc?id=1mvH20LLVVej_ZGR08-xadqJ0hAB0vQGS)**
+**[Download the mappack here (181 MB)](https://drive.google.com/uc?id=1mvH20LLVVej_ZGR08-xadqJ0hAB0vQGS)**
 
 - NoMod
   - [katagiri - Buta Musou (BarkingMadDog) \[Unparalleled\]](https://osu.ppy.sh/beatmapsets/1633225#osu/3333705)
