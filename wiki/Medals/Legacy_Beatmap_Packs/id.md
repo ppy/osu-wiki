@@ -10,7 +10,7 @@ Artikel ini berisi konten asli dari beatmap pack yang mengalami perubahan yang t
 
 Beatmap pack ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
-Link download:
+Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn)
 
@@ -34,7 +34,7 @@ Beatmap:
 
 Beatmap pack ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
-Link download:
+Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?722os55j52ikylq)
 
@@ -58,7 +58,7 @@ Beatmap:
 
 Beatmap pack ini diperkenalkan oleh ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
-Link download:
+Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b)
 
@@ -82,7 +82,7 @@ Beatmap:
 
 Beatmap pack ini diperkenalkan oleh ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
-Link download:
+Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv)
 
@@ -108,7 +108,7 @@ Beatmap:
 
 Beatmap pack ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
-Link download:
+Tautan unduhan:
 
 - *N/A*
 
@@ -134,7 +134,7 @@ Beatmap:
 
 Beatmap pack ini diperkenalkan oleh ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
-Link download:
+Tautan unduhan:
 
 - *N/A*
 
@@ -158,7 +158,7 @@ Beatmap:
 
 Beatmap pack ini diperkenalkan oleh ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
-Link download:
+Tautan unduhan:
 
 - *N/A*
 
@@ -182,7 +182,7 @@ Beatmap:
 
 Beatmap pack ini diperkenalkan oleh ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
-Link download:
+Tautan unduhan:
 
 - *N/A*
 
@@ -208,7 +208,7 @@ Beatmap:
 
 Beatmap pack ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
-Link download:
+Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?87n2agcrcgmwxob)
 
@@ -232,7 +232,7 @@ Beatmap:
 
 Beatmap pack ini diperkenalkan oleh ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
-Link download:
+Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?axvxrnx637767ls)
 
@@ -256,7 +256,7 @@ Beatmap:
 
 Beatmap pack ini diperkenalkan oleh ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
-Link download:
+Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?781tio8fge7y7d2)
 
@@ -280,7 +280,7 @@ Beatmap:
 
 Beatmap pack ini diperkenalkan oleh ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
-Link download:
+Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?6hc29ws6j36dcag)
 
@@ -306,7 +306,7 @@ Beatmap:
 
 Beatmap pack ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
-Link download:
+Tautan unduhan:
 
 - *N/A*
 
@@ -330,7 +330,7 @@ Beatmap:
 
 Beatmap pack ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
-Link download:
+Tautan unduhan:
 
 - *N/A*
 
@@ -354,7 +354,7 @@ Beatmap:
 
 Beatmap pack ini diperkenalkan oleh ![][flag_US] [Seibei4211](https://osu.ppy.sh/users/31537) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
-Link download:
+Tautan unduhan:
 
 - *N/A*
 
@@ -378,7 +378,7 @@ Beatmap:
 
 Beatmap pack ini diperkenalkan oleh ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
-Link download:
+Tautan unduhan:
 
 - *N/A*
 
