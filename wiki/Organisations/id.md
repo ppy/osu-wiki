@@ -1,5 +1,5 @@
-# Organisations
+# Organisasi
 
-Laman indeks untuk seluruh organisasi dan klub luring yang berhubungan dengan osu!.
+Berikut ini merupakan daftar artikel yang membahas seputar berbagai organisasi dan perkumpulan yang berhubungan dengan osu!.
 
 - [osu! UCI](osu!_UCI)

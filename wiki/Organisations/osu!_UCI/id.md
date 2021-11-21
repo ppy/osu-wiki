@@ -11,21 +11,21 @@ tags:
 
 # osu! UCI
 
-**osu! UCI** adalah klub osu! yang berfokus pada bermain dan berdiskusi osu! di Universitas California, Irvine (*UCI*). Mereka mengadakan berbagai acara, terutama turnamen LAN musiman dan pertemuan mingguan.
+**osu! UCI** merupakan klub osu! asal University of California, Irvine (*UCI*) yang mewadahi para anggotanya dalam mendiskusikan dan mengembangkan berbagai hal yang terkait dengan osu!. Klub ini rutin menyelenggarakan berbagai acara dari waktu ke waktu, mulai dari pertemuan mingguan, turnamen LAN musiman, dan lain sebagainya.
 
-Lihat [indeks turnamen osu! UCI](/wiki/Tournaments/osu!_UCI) untuk artikel wiki mengenai acara LAN yang diadakan osu! UCI.
+Daftar acara-acara LAN yang telah diselenggarakan oleh osu! UCI dapat dilihat pada laman [indeks turnamen osu! UCI](/wiki/Tournaments/osu!_UCI).
 
-## Link
+## Daftar tautan
 
-- **[Website](http://www.osuuci.com)**
+- **[Situs Web](http://www.osuuci.com)**
 - [Server Discord](https://discord.gg/qbZddFV)
 - [Grup Facebook](https://www.facebook.com/groups/osuuci/)
 - [Kanal Twitch](https://www.twitch.tv/osuuci)
 - [Akun Twitter](https://twitter.com/osuUCI)
 
-## Officer
+## Pengurus
 
-### Sekarang
+### Aktif
 
 - ![][flag_US] Frederick "[freddiiieeee](https://osu.ppy.sh/users/7112839)" Vo (*President*)
 - ![][flag_US] Adrien "[R34pling](https://osu.ppy.sh/users/7662172)" Huynh Huu
@@ -33,7 +33,7 @@ Lihat [indeks turnamen osu! UCI](/wiki/Tournaments/osu!_UCI) untuk artikel wiki 
 - ![][flag_US] Khiem "[PingusKhan](https://osu.ppy.sh/users/9648050)" Dinh
 - ![][flag_US] Nicholas "[[Nick]](https://osu.ppy.sh/users/9726582)" Budding
 
-### Alumni
+### Non-aktif/Alumni
 
 - ![][flag_US] Max "[S2VX](https://osu.ppy.sh/users/1472763)" Chung (*Founder*)
 - ![][flag_US] Aaron "[Xenocidel](https://osu.ppy.sh/users/2913126)" Liao
