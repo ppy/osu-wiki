@@ -13,6 +13,6 @@ It can be set by members of the [Nomination Assesment Team](/wiki/People/The_Tea
 
 ![online offset on web](img/online_offset.jpg)<!--TODO: add image of the new webpage once online offset gets added there-->
 
-All online offset values are stored locally in the [osu!.db](/wiki/osu!_File_Formats/Db_(file_format)) file for later use (as `short`s). Storing online offset values in the osu!.db allows the values to be applied even if a player is playing offline as long as they have been connected to the internet prior to importing or playing the beatmap.
+All online offset values are stored locally in the [osu!.db](https://github.com/ppy/osu/wiki/Legacy-database-file-structure) file for later use (as `short`s). Storing online offset values in the osu!.db allows the values to be applied even if a player is playing offline as long as they have been connected to the internet prior to importing or playing the beatmap.
 
 <!-- TODO: Add links, images and stuff -->
