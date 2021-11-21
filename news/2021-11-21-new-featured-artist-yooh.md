@@ -78,7 +78,7 @@ Check out [this osu! map](https://osu.ppy.sh/beatmapsets/1120245) hosted by [gre
 
 ### Yooh - Shigure
 
-[This osu! map](https://osu.ppy.sh/beatmapsets/1120245) hosted by [pyth0nix](https://osu.ppy.sh/users/10922849) might be worth checking out too. Just maybe.
+[This osu! map](https://osu.ppy.sh/beatmapsets/1186689) hosted by [pyth0nix](https://osu.ppy.sh/users/10922849) might be worth checking out too. Just maybe.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/218/Songs/Yooh%20-%20Shigure.mp3" type="audio/mpeg">
