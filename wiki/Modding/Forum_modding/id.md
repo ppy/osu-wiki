@@ -11,13 +11,13 @@ tags:
 
 # Forum modding
 
-**Forum modding**, juga dikenal sebagai *Modding v1*, adalah nama umum dari [modding](/wiki/Modding) berbasis forum dan sistem ranking yang digunakan hingga [4 November 2017](https://osu.ppy.sh/community/forums/topics/650961?n=7), ketika seluruh [beatmaps](/wiki/Beatmap) baru dan nonaktif dipindahkan ke [diskusi beatmap discussions](/wiki/Beatmap_Discussion) secara bawaan.
+**Forum modding**, yang juga dikenal dengan istilah *Modding v1*, merupakan sistem [modding](/wiki/Modding) dan ranking yang dahulu digunakan oleh osu!. Sistem ini berlaku dari awal osu! didirikan hingga tanggal [4 November 2017](https://osu.ppy.sh/community/forums/topics/650961?n=7) ketika seluruh [beatmap](/wiki/Beatmap) yang ada dipindahkan ke [sistem modding v2](/wiki/Beatmap_Discussion).
 
 Pada sistem forum modding, setiap beatmap memiliki utas forum untuk komunikasi dan pencatatan [prosedur ranking](/wiki/Beatmap_ranking_procedure).
 
 ## Utas beatmap
 
-Sebuah utas forum beatmap dibuat ketika [submisi beatmap](/wiki/Submission) pertama dan berisi komentar bebas, interaksi guest difficulty, dan umpan balik yang terstruktur dalam bentuk post mod. Utas tersebut berfungsi sebagai pusat diskusi antara semua pengguna yang tertarik dengan beatmap tersebut: pemain biasa, [beatmap host](/wiki/Beatmap/Beatmap_host), [guest mapper](/wiki/Beatmap/Guest_difficulty), [modder](/wiki/Modding/Modder), dan anggota tim ranking beatmap berikut ini:
+Pada saat suatu beatmap [diunggah](/wiki/Submission) untuk pertama kalinya, sistem osu! akan secara otomatis membuat sebuah utas beatmap yang dapat digunakan oleh para pengguna untuk saling berkomentar, bertukar *guest difficulty*, serta berbagi saran dan kritik. Utas tersebut berfungsi sebagai pusat diskusi antara semua pengguna yang tertarik dengan beatmap tersebut: pemain biasa, [beatmap host](/wiki/Beatmap/Beatmap_host), [guest mapper](/wiki/Beatmap/Guest_difficulty), [modder](/wiki/Modding/Modder), dan anggota tim ranking beatmap berikut ini:
 
 - [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*)
 - [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*)
@@ -35,7 +35,7 @@ Sebuah utas forum dapat dipindahkan secara otomatis antara bagian forum terkait 
 
 *Artikel utama: [Star priority](/wiki/Modding/Star_priority)*
 
-Pada setiap subforum, utas beatmap diurutkan berdasarkan star priority-nya yang memiliki beberapa tujuan:
+Pada setiap sub-forum, utas beatmap diurutkan berdasarkan star priority-nya yang memiliki beberapa tujuan:
 
 - 12 star priority dibutuhkan sebelum sebuah beatmap dapat mendapatkan sebuah [bubble](/wiki/Modding/Bubble).
 - Beberapa modder dan anggota BAT bergantung pada star priority ketika memutuskan map apa yang akan di-mod atau tinjau berikutnya.
@@ -78,7 +78,7 @@ Sistem *review* modern dibuat untuk meniru forum modding pada diskusi beatmap.
 ![](img/mod-response.png "Contoh sebuah balasan dari sebuah mod")
 :::
 
-Meskipun tidak dibutuhkan, mapper diharapkan untuk membalas tiap mod yang masuk. Sebuah balasan biasanya berisi kutipan dari post utama dan diikuti oleh balasannya. Sama seperti mod post, mapper menggunakan dua atau lebih warna font untuk menyampaikan balasannya dan perbedaan warna dapat membantu dalam membedakan masukkan yang diterima dan ditolak.
+Meskipun tidak diwajibkan, mapper diharapkan untuk membalas tiap mod yang masuk. Sebuah balasan biasanya berisi kutipan dari post utama dan diikuti oleh balasannya. Sama seperti mod post, mapper menggunakan dua atau lebih warna font untuk menyampaikan balasannya dan perbedaan warna dapat membantu dalam membedakan masukkan yang diterima dan ditolak.
 
 ### Kudosu
 
@@ -91,13 +91,13 @@ Jika mod post dianggap membantu, mapper atau anggota QAT/BAT/BN dapat memberikan
 
 Kudosu berfungsi sebagai ukuran aktivitas seorang modder. Kebanyakan pengguna menggunakan kudosunya untuk meningkatkan [star priority](/wiki/Modding/Star_priority) map yang disukai atau yang ingin dipromosikan.
 
-## Deprecation
+## Pemberhentian sistem
 
-Dalam sistem modding berbasis forum, banyak tindakan dilakukan secara manual yang seringkali berujung pada kesalahan. Contoh:
+Dalam praktiknya, sistem modding berbasis forum cenderung rawan terhadap berbagai cela dan kesalahan sebagai berikut:
 
-- Umpan balik mapper dapat hilang.
+- Umpan balik mapper dapat tenggelam di antara sekian banyak mod post yang ada.
 - Mod dapat diabaikan secara sebagian atau keseluruhan, baik secara disengaja maupun tidak.
-- Map dapat di-ranked dengan masalah unrankable atau tanpa seizin nominator yang bertanggung jawab pada game mode tertentu.
+- Suatu map tetap dapat di-rank walaupun terdapat hal-hal yang tidak selayaknya ada di beatmap Ranked (*unrankables*) baik dengan atau tanpa seizin nominator yang bertanggung jawab
 
 Perubahan-perubahan dibutuhkan untuk menyelesaikan masalah-masalah umum dimulai pada [26 April 2013](https://osu.ppy.sh/community/forums/topics/129625), saat [peppy](/wiki/People/peppy) mempresentasikan ide mengenai [sistem modding baru](/wiki/Beatmap_Discussion) (yang nanti dikenal sebagai *Modding v2*). Pada [21 Agustus 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), kategori beatmap [Qualified](/wiki/Beatmap/Category#qualified) ditambahkan. Qualified menjadi penyangga antara beatmap pending dan ranked untuk membuat proses unrank menjadi lebih halus. Sebagai tambahan, tim [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) dibentuk untuk mengecek beatmap yang qualified dan mengontrol proses ranking.
 

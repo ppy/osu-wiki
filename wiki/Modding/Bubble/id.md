@@ -6,7 +6,7 @@ tags:
 
 # Bubble
 
-**Bubble** (![Ikon bubble](/wiki/shared/icon/bubble.gif)) adalah sebuah ikon pada postingan forum yang digunakan oleh anggota tim modding berikut ini yang terlibat dalam [proses ranking beatmap](/wiki/Beatmap_ranking_procedure):
+**Bubble** (![Ikon bubble](/wiki/shared/icon/bubble.gif)) adalah sebuah ikon forum yang digunakan oleh para anggota tim yang terlibat dalam [proses ranking beatmap](/wiki/Beatmap_ranking_procedure) sebagai berikut:
 
 - [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*)
 - [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*)
@@ -21,13 +21,13 @@ Pada [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure) modern, ekuival
 
 *Lihat juga: [Sejarah mapping dan modding](/wiki/Mapping_and_Modding_Timeline)*
 
-Bubble diperkenalkan oleh ![][flag_AU] [peppy](/wiki/People/peppy) pada 29 Oktober 2007 untuk "beatmap yang dipertimbangkan sebagai ranked (seraya menantikan umpan balik moderator)". Memberikan ikon bubble pada utas beatmap adalah cara anggota BAT untuk menunjukkan bahwa beatmap memiliki kualitas yang baik dan telah mengikuti [ranking criteria](/wiki/Ranking_Criteria).
+Bubble pada awalnya diperkenalkan oleh ![][flag_AU] peppy pada 29 Oktober 2007 untuk menandai "beatmap-beatmap yang dianggap sudah layak untuk di-rank (walaupun masih perlu untuk dikaji lebih lanjut oleh para moderator lainnya)". Memberikan ikon bubble pada utas beatmap adalah cara anggota BAT untuk menunjukkan bahwa beatmap memiliki kualitas yang baik dan telah mengikuti [ranking criteria](/wiki/Ranking_Criteria).
 
 Pada 3 Oktober 2010, MAT mendapatkan izin untuk menggunakan ikon bubble bersama BAT<!-- internal reference: https://osu.ppy.sh/community/forums/topics/38403 -->. Hal ini menyebabkan [proto-bubbles](/wiki/Modding/Proto-bubble) menjadi usang dan kedua tim telah menggunakan bubble sejak itu.
 
 Setelah [sistem diskusi beatmap](/wiki/Beatmap_Discussion) telah diimplementasi sepenuhnya dan menjadi *interface* utama untuk modding pada November 2017, kontrol manajemen beatmap berbasis forum dikeluarkan, dengan bubble yang secara alami digantikan oleh nominasi.
 
-## Mekanik
+## Mekanisme kerja
 
 ::: Infobox
 ![](img/list-of-bubbles.png "Daftar beatmap yang di-bubble, diikuti oleh beatmap yang diberikan bubble pop dan star")
@@ -52,6 +52,6 @@ Pada dua kasus tersebut, ikon utas beatmap tersebut akan menjadi bubble pop (![I
 
 ## Lihat juga
 
-- *[akhir dari bubble](https://www.youtube.com/watch?v=9Za-1_hxkxE)*, sebuah episode dari seri YouTube [osu!mapping](/wiki/osu!mapping)
+- *[the end of bubbles](https://www.youtube.com/watch?v=9Za-1_hxkxE)*, sebuah episode dari seri YouTube [osu!mapping](/wiki/osu!mapping)
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
