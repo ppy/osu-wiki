@@ -140,7 +140,7 @@ Since KinomiCandy and MMzz are mappers with completely different mapping styles,
 
 [![](/wiki/shared/news/2021-11-21-project-loved-november-2021/1487495.jpg)](https://osu.ppy.sh/community/forums/topics/1467969)
 
-[leroy - .​.​.​during pride month?](https://osu.ppy.sh/beatmapsets/1487495#taiko) by [Genjuro](https://osu.ppy.sh/users/3196091)\
+[leroy - ...during pride month?](https://osu.ppy.sh/beatmapsets/1487495#taiko) by [Genjuro](https://osu.ppy.sh/users/3196091)\
 193 BPM, 2:16 | 6.31★\
 *description written by [Horiiizon](https://osu.ppy.sh/users/8071438)*
 
@@ -186,7 +186,7 @@ This map was featured in some tournaments back then as a mod pool like HR. If yo
 
 [![](/wiki/shared/news/2021-11-21-project-loved-november-2021/801435.jpg)](https://osu.ppy.sh/community/forums/topics/1467963)
 
-[ZUN - Kagayaku Hari no Kobitozoku  \~ Little Princess](https://osu.ppy.sh/beatmapsets/801435#fruits) by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)\
+[ZUN - Kagayaku Hari no Kobitozoku \~ Little Princess](https://osu.ppy.sh/beatmapsets/801435#fruits) by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)\
 164 BPM, 3:44 | 5.67★\
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
