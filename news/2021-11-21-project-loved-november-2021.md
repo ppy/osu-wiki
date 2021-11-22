@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: November 2021"
-date: 2021-11-23 09:00:00 +0000
+date: 2021-11-22 09:00:00 +0000
 ---
 
 The countdown until Christmas has started, but the Project Loved Team has already got presents ready for you!
