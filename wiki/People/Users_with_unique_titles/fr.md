@@ -1,12 +1,12 @@
 # Utilisateurs avec des titres uniques
 
-Les titres d'utilisateurs sont généralement associés aux [groupes d'utilisateurs](/wiki/People/The_Team#user-groups), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres étaient des récompenses pour des contributions ou des réalisations, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!.
+Les titres d'utilisateurs sont généralement associés aux [groupes d'utilisateurs](/wiki/People/The_Team#groupes-dutilisateurs), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres étaient des récompenses pour des contributions ou des réalisations, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!.
 
 ## Par catégorie, avec motifs
 
 ### Vainqueurs de la World Cup
 
-L'un des prix offerts aux vainqueurs des [World Cups officielles](/wiki/Tournaments#official-world-cups) est un titre d'utilisateur qui dure environ un an.
+L'un des prix offerts aux vainqueurs des [World Cups officielles](/wiki/Tournaments#officielles) est un titre d'utilisateur qui dure environ un an.
 
 Les gagnants de l'[OWC 2020](/wiki/Tournaments/OWC/2020) avec le titre d'utilisateur **osu! Champion** :
 
