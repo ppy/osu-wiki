@@ -277,11 +277,11 @@ You must have [osu!supporter](/wiki/osu!supporter) to see the background image i
 
 ### My taiko drums are in the wrong position!
 
-Open the [skin.ini](/wiki/skin.ini) file and change the `Version` to `2.1` or higher.
+Open the [skin.ini](/wiki/Skinning/skin.ini) file and change the `Version` to `2.1` or higher.
 
 ### How do I change the combo colours?
 
-*Main page: [skin.ini](/wiki/skin.ini#[colours])*
+*Main page: [skin.ini](/wiki/Skinning/skin.ini#[colours])*
 
 ### How do I disable one or more hitsounds?
 

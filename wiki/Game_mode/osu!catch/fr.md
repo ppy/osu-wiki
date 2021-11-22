@@ -60,7 +60,7 @@ Collecter un hyperfruit fera que le dash de l’attrapeur sera augmenté en un *
 
 ## Style de jeu
 
-*[Reportez vous à la page Style de jeu dans osu!catch](/wiki/Play_Styles).*
+*[Reportez vous à la page Style de jeu dans osu!catch](/wiki/Play_style).*
 
 ## Contrôles
 
@@ -76,7 +76,7 @@ Le placement du curseur en jeu n’a pas d’importance quand vous jouez normale
 
 ## Calcul du score
 
-*[Les valeurs de base peuvent être trouvées dans la section score d’osu!catch](/wiki/Score#osu-catch).*
+*[Les valeurs de base peuvent être trouvées dans la section score d’osu!catch](/wiki/Score#osu!catch).*
 
 La section calcul du score détaille toutes les subtilités du score, y compris la formule mathématique.
 

@@ -8,7 +8,7 @@ outdated: true
 
 # Advanced Global Taiko Showdown 2019
 
-![AGTS 2019 Logo](img/logo.png)
+![AGTS 2019 Logo](img/logo.jpg)
 
 Der **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) war ein länderbasiertes 2v2 Taikoturnier, welches von ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) und ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) organisiert wurde. Es war bzw. war die dritte Ausführung der GTS-Reihe.
 
@@ -499,8 +499,8 @@ Die All-Star-Matches sind ein Veranstaltung bei der der Spaß im Vorderfrund ste
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
 [flag_MY]: /wiki/shared/flag/MY.gif

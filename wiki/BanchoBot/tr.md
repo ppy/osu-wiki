@@ -78,7 +78,7 @@ Tüm BanchoBot komutlarının bir listesi aşağıda mevcuttur:
 !stats <kullanıcı adı>
 ```
 
-`!stats` belirtilen kullanıcının oyun istatistiklerini ve mevcut durumunu görüntüler. Komut yanıtı belirtilen kullanıcının en son oynadığı [oyun moduna](/wiki/Game_Modes) bağlıdır, ancak BanchoBot bu istatistiklerin hangi oyun moduna ait olduğunu göstermez. Eğer hiç osu! oynamamış bir kullanıcının istatistikleri görüntülenmek istenirse, kullanıcı mevcut olsa bile BanchoBot `User not found` şeklinde yanıt verir. Bu komutun ve gelen yanıtın bir örneği aşağıdadır:
+`!stats` belirtilen kullanıcının oyun istatistiklerini ve mevcut durumunu görüntüler. Komut yanıtı belirtilen kullanıcının en son oynadığı [oyun moduna](/wiki/Game_mode) bağlıdır, ancak BanchoBot bu istatistiklerin hangi oyun moduna ait olduğunu göstermez. Eğer hiç osu! oynamamış bir kullanıcının istatistikleri görüntülenmek istenirse, kullanıcı mevcut olsa bile BanchoBot `User not found` şeklinde yanıt verir. Bu komutun ve gelen yanıtın bir örneği aşağıdadır:
 
 ```
 13:01 pippi: !stats peppy
@@ -141,7 +141,7 @@ Tüm BanchoBot komutlarının bir listesi aşağıda mevcuttur:
 !report <kullanıcı> <sebep>
 ```
 
-`!report` bir kullanıcının uygunsuz davranışları hakkında [Küresel Moderasyon Takımını](/wiki/Global_Moderation_Team) bilgilendirir. Eğer bir kullanıcının kullanıcı isminde boşluklar varsa, onların yerine bir alt çizgi yerleştirin (örn. `really cool username` -> `really_cool_username`). Bir moderatörü bildirmek için, [hesap destek ekibiyle](/wiki/People/The_Team/Account_support_team#support@ppy.sh) iletişime geçin. Normal bir kullanıcıyı BanchoBot aracılığıyla bildirmenin bir örneği aşağıdadır:
+`!report` bir kullanıcının uygunsuz davranışları hakkında [Küresel Moderasyon Takımını](/wiki/People/The_Team/Global_Moderation_Team) bilgilendirir. Eğer bir kullanıcının kullanıcı isminde boşluklar varsa, onların yerine bir alt çizgi yerleştirin (örn. `really cool username` -> `really_cool_username`). Bir moderatörü bildirmek için, [hesap destek ekibiyle](/wiki/People/The_Team/Account_support_team#support@ppy.sh) iletişime geçin. Normal bir kullanıcıyı BanchoBot aracılığıyla bildirmenin bir örneği aşağıdadır:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

@@ -8,7 +8,7 @@ outdated: true
 
 # Advanced Global Taiko Showdown 2019
 
-![AGTS 2019 Logo](img/logo.png)
+![AGTS 2019 Logo](img/logo.jpg)
 
 L'**Advanced Global Taiko Showdown 2019** (***AGTS 2019***) est un tournoi par pays en format double élimination, deux-contre-deux organisé par ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) et ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) dans le mode de jeu osu!taiko. C'était le troisième tournoi de la série Global Taiko Showdown.
 

@@ -42,14 +42,14 @@ Before the second round of "Captain's Pick", Toy [announced on the forums](https
 
 After a few rounds of the original style of polling, Toy decided to use a slightly different voting format where the maps would no longer have to compete against each other. Every map had its own poll from this point on, asking the community whether or not they wanted that specific map to be Loved. If a threshold percentage of voters said "yes", it would pass the voting. Due to requiring so many forum polls, a [new forum](https://osu.ppy.sh/community/forums/120) was made specifically for Loved voting, and it was from this point forward that it became more formally known as "Project Loved".
 
-<!-- TODO: Documentation of ~2018 and on -->
+<!-- TODO: Documentation of ~2018 and on. Should mention leadership structure, enforcement of subset of RC, moderator involvement, voting threshold changes, game-mode-specific developments in selecting maps and new captains, notable controversy regarding picks (std: very popular but low "quality" maps, taiko: contest winners, mania: extensive "brigades", etc), notable management systems before website, that half-year break and then transitioning to monthly schedule, ... -->
 
-In December 2020, development efforts for the official [Project Loved website](https://loved.sh/) began, and shortly after it was launched, merely as an admin page for the coordinators at first. By mid-2021, the website was made available for the rest of the team. Eventually, in August 2021, the Google forms and sheets used for beatmap submissions and viewing were fully deprecated and begun to be hosted on the website instead.
+While preparing the round of March 2021, most administrative tasks for Loved transitioned to using the [Project Loved website](https://loved.sh) created by ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350). The website later became a public-facing hub as well, replacing the various Google services with pages for [viewing submissions](https://loved.sh/submissions), [submitting new maps](https://loved.sh/submit), and [viewing mappers' consents to participate in Loved](https://loved.sh/mappers) by August.
 
 ## Present day
 
 [Project Loved](/wiki/Project_Loved) is the current system being used to move maps to Loved. More details and information about how to get beatmaps up for voting in Project Loved can be found in its wiki article.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

@@ -76,13 +76,13 @@ tags:
 | `F3` | 谱面选项 |
 | `F5` | 刷新谱面 |
 | `Shift` + `Delete` | 打开删除谱面对话框，这将询问您是否删除全部难度/单个难度或是画面上所有可见的谱面 |
-| `Ctrl` + `1` | 将游戏模式切换为 [osu!](/wiki/osu!) |
-| `Ctrl` + `2` | 将游戏模式切换为 [osu!taiko](/wiki/osu!taiko) |
-| `Ctrl` + `3` | 将游戏模式切换为 [osu!catch](/wiki/osu!catch) |
-| `Ctrl` + `4` | 将游戏模式切换为 [osu!mania](/wiki/osu!mania) |
-| `Ctrl` + `Enter` | 使用 [Auto](/wiki/Auto) 自动播放当前谱面 |
-| `Ctrl` + `Shift` + `Enter` | 在 [Cinema](/wiki/Cinema) 中播放当前谱面 |
-| `Ctrl` + `A` | 打开/关闭 [Auto](/wiki/Auto) |
+| `Ctrl` + `1` | 将游戏模式切换为 [osu!](/wiki/Game_mode/osu!) |
+| `Ctrl` + `2` | 将游戏模式切换为 [osu!taiko](/wiki/Game_mode/osu!taiko) |
+| `Ctrl` + `3` | 将游戏模式切换为 [osu!catch](/wiki/Game_mode/osu!catch) |
+| `Ctrl` + `4` | 将游戏模式切换为 [osu!mania](/wiki/Game_mode/osu!mania) |
+| `Ctrl` + `Enter` | 使用 [Auto](/wiki/Game_modifier/Auto) 自动播放当前谱面 |
+| `Ctrl` + `Shift` + `Enter` | 在 [Cinema](/wiki/Game_modifier/Cinema) 中播放当前谱面 |
+| `Ctrl` + `A` | 打开/关闭 [Auto](/wiki/Game_modifier/Auto) |
 | `Ctrl` + `F3` or `Ctrl` + `+` | 提高 osu!mania 下落速度（仅适用于 osu!mania） |
 | `Ctrl` + `F4` or `Ctrl` + `-` | 降低 osu!mania 下落速度（仅适用于 osu!mania） |
 | `Ctrl` + `Backspace` | 删除搜索框内最后一个单词 |
@@ -127,7 +127,7 @@ tags:
 | 快捷键 | 功能 |
 | :-- | :-- |
 | `+` 或 `-` | 调整本地偏移（Offset）设置（按住 `Alt` 进行精确调节） |
-| `Esc` | 暂停游戏，如果在观看回放或 [Auto](/wiki/Auto)/[Cinema](/wiki/Cinema) 模式中则返回歌曲选择 |
+| `Esc` | 暂停游戏，如果在观看回放或 [Auto](/wiki/Game_modifier/Auto)/[Cinema](/wiki/Game_modifier/Cinema) 模式中则返回歌曲选择 |
 | `Space` | 跳过开头/结尾部分 |
 | `Tab` | 打开/关闭排行榜 |
 | `Shift` + `Tab` | 显示/隐藏游戏时界面 |
@@ -174,10 +174,10 @@ tags:
 | `Ctrl` + `N` | 提示并删除当前难度全部物件 |
 | `Ctrl` + `↑/↓` | 将播放速度提高/降低 25％ |
 | `Ctrl` + `Shift` + `↑/↓` | 将播放速度提高/降低 5％ |
-| `F1` | 切换到 [作曲](/wiki/Compose) 界面 |
-| `F2` | 切换到 [设计](/wiki/Design) 界面 |
-| `F3` | 切换到 [Timing](/wiki/Timing) 界面 |
-| `F4` | 打开 [歌曲设置](/wiki/Song_Setup) 对话框 |
+| `F1` | 切换到 [作曲](/wiki/Beatmap_Editor/Compose) 界面 |
+| `F2` | 切换到 [设计](/wiki/Beatmap_Editor/Design) 界面 |
+| `F3` | 切换到 [Timing](/wiki/Beatmap_Editor/Timing) 界面 |
+| `F4` | 打开 [歌曲设置](/wiki/Beatmap_Editor/Song_Setup) 对话框 |
 | `F5` | 进入测试模式 |
 | `F6` | 打开 Timing 点控制对话框 |
 | `Ctrl` + `P` | 在当前位置添加一条红线（Timing 点），如果当前不在 Timing 页面中，则会打开 Timing 点控制对话框 |

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: a4e45cf0738ff0ce2327cba8b9efe89d53e1ef9f
+---
+
 # Commande de Gestion du Tournoi
 
 Les commandes de chat suivantes sont faites pour gérer les salles multijoueur de tournois :

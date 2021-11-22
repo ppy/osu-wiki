@@ -18,13 +18,13 @@ no_native_review: true
 
    ![](img/online-editing.jpg "Nhấn vào biểu tượng hình bút chì trên GitHub sẽ đưa bạn tới trình soạn thảo web")
 
-5. Giờ bạn có thể thực hiện các thay đổi. Bạn hãy bám sát [Tiêu chí tạo kiểu bài viết](/wiki/ASC) nhất có thể.
+5. Giờ bạn có thể thực hiện các thay đổi. Bạn hãy bám sát [Tiêu chí tạo kiểu bài viết](/wiki/Article_styling_criteria) nhất có thể.
 
 6. Đi tới phần [Lưu và commit](#lưu-và-commit).
 
 ### Di chuyển các tệp
 
-*Cảnh báo: **Không khuyến khích** làm điều này vì bạn chỉ có thể di chuyển một tệp mỗi lần. Nó sẽ tạo nhiều commit "vô nghĩa" khiến cho những người đánh giá muốn [đóng hoặc trì hoãn pull request của bạn](/wiki/osu!_wiki/Contribution_guide/Common_Issues#ai-đó-bảo-tôi-hãy-viết-thông-điệp-commit-có-ý-nghĩa!)!*
+*Cảnh báo: **Không khuyến khích** làm điều này vì bạn chỉ có thể di chuyển một tệp mỗi lần. Nó sẽ tạo nhiều commit "vô nghĩa" khiến cho những người đánh giá muốn [đóng hoặc trì hoãn pull request của bạn](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits)!*
 
 1. Điều hướng tới tệp bạn muốn di chuyển và mở nó.
 
@@ -60,7 +60,7 @@ no_native_review: true
 
 ### Xoá các tệp
 
-*Cảnh báo: **Không khuyến khích** do bạn chỉ có thể xoá mỗi lần một tệp. Nó sẽ tạo nhiều commit "vô nghĩa" khiến cho những người đánh giá muốn [đóng hoặc trì hoãn pull request của bạn](/wiki/osu!_wiki/Contribution_guide/Common_Issues#ai-đó-bảo-tôi-hãy-viết-thông-điệp-commit-có-ý-nghĩa!)!*
+*Cảnh báo: **Không khuyến khích** do bạn chỉ có thể xoá mỗi lần một tệp. Nó sẽ tạo nhiều commit "vô nghĩa" khiến cho những người đánh giá muốn [đóng hoặc trì hoãn pull request của bạn](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits)!*
 
 1. Mở thẻ code trên fork của bạn.
 2. Điều hướng tới tệp bạn muốn xoá và mở nó.

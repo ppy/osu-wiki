@@ -18,7 +18,7 @@ Você poder ver os círculos na parte inferior da tela, e no topo da tela você 
 
 *Explicação completa: [osu! Standard](/wiki/Game_mode/osu!)*
 
-como a maioria dos usuários de computadores não possuem tela touchscreen, o jogo foi feito para ser jogado com mouse. Algumas musicas passam do limite do que podemos considerar Jogável com apenas o mouse, mas a maioria das musicas ranqueadas são jogáveis com apenas mouse, para musicas mais difíceis é mais apropriado usar o teclado junto. Existem outros tipos de dispositivos que podem ser usados para jogar, visite [Play Styles](/wiki/Play_Styles) para mais informação.
+como a maioria dos usuários de computadores não possuem tela touchscreen, o jogo foi feito para ser jogado com mouse. Algumas musicas passam do limite do que podemos considerar Jogável com apenas o mouse, mas a maioria das musicas ranqueadas são jogáveis com apenas mouse, para musicas mais difíceis é mais apropriado usar o teclado junto. Existem outros tipos de dispositivos que podem ser usados para jogar, visite [Play Styles](/wiki/Play_style) para mais informação.
 
 #### Básico sobre a Jogabilidade
 

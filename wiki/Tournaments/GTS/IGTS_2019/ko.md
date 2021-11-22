@@ -8,7 +8,7 @@ outdated: true
 
 # Intermediate Global Taiko Showdown 2019
 
-![IGTS 2019 Logo](img/logo.png)
+![IGTS 2019 Logo](img/logo.jpg)
 
 **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***)는 osu!taiko의 국가대항 더블 엘리미네이션 토너먼트인 Intermediate Global Taiko Showdown의 두 번째 대회로, ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172)와 ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263)가 주최하였습니다.
 
@@ -584,8 +584,8 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_CO]: /wiki/shared/flag/CO.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
+[flag_DK]: /wiki/shared/flag/DK.gif
 [flag_EC]: /wiki/shared/flag/EC.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif

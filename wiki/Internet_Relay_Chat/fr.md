@@ -1,6 +1,6 @@
 # Internet Relay Chat
 
-*Pour plus d'informations, voir : [Internet Relay Chat (Wikipédia)](https://fr.wikipedia.org/wiki/Internet_Relay_Chat)*
+*Pour plus d'informations, consultez : [Internet Relay Chat (Wikipédia)](https://fr.wikipedia.org/wiki/Internet_Relay_Chat)*
 
 Le **Internet Relay Chat** (**IRC**) est un protocole de couche d'application utilisé pour chatter avec de nombreux clients en ligne.
 
@@ -58,7 +58,7 @@ Alternativement, utilisez une adresse de serveur différente, `cho.ppy.sh` (vous
 
 ### Je reçois l'erreur "Bad Authentication Token"
 
-Essayez ce qui suit :
+Essayez les choses suivantes :
 
 1. Vérifiez que vous utilisez le bon mot de passe à partir de la [page d'authentification IRC](https://osu.ppy.sh/p/irc).
 2. Si votre nom d'utilisateur comporte des espaces, remplacez-les par des caractères de soulignement (par exemple, `This Username` devient `This_Username`).
@@ -82,4 +82,4 @@ Les utilisateurs connectés via le client osu! ou le site web n'ont pas de préf
 
 ### Quelqu'un envoie des messages, mais il n'est pas dans la liste des utilisateurs du canal !
 
-Ils sont soit en train d'utiliser [la version web du chat](https://osu.ppy.sh/community/chat), soit connectés via [osu!lazer](https://github.com/ppy/osu).
+Ils sont soit en train d'utiliser [la version internet du chat](https://osu.ppy.sh/community/chat), soit connectés via [osu!lazer](https://github.com/ppy/osu).

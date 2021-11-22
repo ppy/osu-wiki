@@ -137,7 +137,7 @@ Notes:
 
 - This element was removed with the Stable (Fallback) stream.
 - Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/options) to see.
+- Must be enabled in the [options](/wiki/Options) to see.
 
 ---
 
@@ -153,7 +153,7 @@ Notes:
 
 - This element was removed with the Stable (Fallback) stream.
 - Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/options) to see.
+- Must be enabled in the [options](/wiki/Options) to see.
 
 ---
 
@@ -169,7 +169,7 @@ Notes:
 
 - This element was removed with the Stable (Fallback) stream.
 - Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/options) to see.
+- Must be enabled in the [options](/wiki/Options) to see.
 
 ---
 
@@ -185,7 +185,7 @@ Notes:
 
 - This element was removed with the Stable (Fallback) stream.
 - Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/options) to see.
+- Must be enabled in the [options](/wiki/Options) to see.
 
 ---
 
@@ -201,7 +201,7 @@ Notes:
 
 - This element was removed with the Stable (Fallback) stream.
 - Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/options) to see.
+- Must be enabled in the [options](/wiki/Options) to see.
 
 ---
 
@@ -217,7 +217,7 @@ Notes:
 
 - This element was removed with the Stable (Fallback) stream.
 - Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/options) to see.
+- Must be enabled in the [options](/wiki/Options) to see.
 
 ---
 
@@ -233,7 +233,7 @@ Notes:
 
 - This element was removed with the Stable (Fallback) stream.
 - Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/options) to see.
+- Must be enabled in the [options](/wiki/Options) to see.
 
 ---
 
@@ -249,7 +249,7 @@ Notes:
 
 - This element was removed with the Stable (Fallback) stream.
 - Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/options) to see.
+- Must be enabled in the [options](/wiki/Options) to see.
 
 ---
 
@@ -265,7 +265,7 @@ Notes:
 
 - This element was removed with the Stable (Fallback) stream.
 - Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/options) to see.
+- Must be enabled in the [options](/wiki/Options) to see.
 
 ---
 
@@ -281,7 +281,7 @@ Notes:
 
 - This element was removed with the Stable (Fallback) stream.
 - Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/options) to see.
+- Must be enabled in the [options](/wiki/Options) to see.
 
 ---
 
@@ -297,7 +297,7 @@ Notes:
 
 - This element was removed with the Stable (Fallback) stream.
 - Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/options) to see.
+- Must be enabled in the [options](/wiki/Options) to see.
 
 ---
 
@@ -313,7 +313,7 @@ Notes:
 
 - This element was removed with the Stable (Fallback) stream.
 - Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/options) to see.
+- Must be enabled in the [options](/wiki/Options) to see.
 
 ## .ini
 
@@ -349,7 +349,7 @@ Notes:
 
 Notes:
 
-- This is for [osu!](/wiki/Game_modes/osu!) only.
+- This is for [osu!](/wiki/Game_mode/osu!) only.
 - This is slider velocity dependent
 
 [true]: /wiki/shared/true.png

@@ -301,7 +301,7 @@ Preferir: Los Beatmap Nominators pueden nominar tu beatmap.
 
 ---
 
-[Artículos con registros informales](#lenguage-register) pueden ignorar esta sección; sin embargo, `Yo` en los párrafos debe ser evitado.
+[Artículos con registros informales](#registro-del-lenguaje) pueden ignorar esta sección; sin embargo, `Yo` en los párrafos debe ser evitado.
 
 ## Gramática y sintaxis
 
@@ -311,17 +311,17 @@ Los artículos deben preferir el uso de una [gramática y sintaxis más simple](
 
 No se deben usar contracciones.
 
-[Los artículos con registros informales](#lenguage-register) pueden usar contracciones; sin embargo, el uso debe mantenerse consistente a lo largo de todo el artículo.
+[Los artículos con registros informales](#registro-del-lenguaje) pueden usar contracciones; sin embargo, el uso debe mantenerse consistente a lo largo de todo el artículo.
 
 ### Números
 
 *Para el formato de los números, ver [Manual de Estilo de Wikipedia sobre el formato de los números](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Numbers)*
 
-[Los artículos con registros informales](#lenguage-register) pueden ignorar esta sección; sin embargo, el uso debe mantenerse consistente a lo largo de todo el artículo.
+[Los artículos con registros informales](#registro-del-lenguaje) pueden ignorar esta sección; sin embargo, el uso debe mantenerse consistente a lo largo de todo el artículo.
 
 ### Punto y coma
 
-[Artículos con registros informales](#language-register) deben evitar el uso de punto y coma (`;`).
+[Artículos con registros informales](#registro-del-lenguaje) deben evitar el uso de punto y coma (`;`).
 
 ### Coma en serie
 

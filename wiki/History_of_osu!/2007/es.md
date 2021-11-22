@@ -38,7 +38,7 @@ El menú principal fue actualizado con un nuevo diseño, y el editor recibió un
 
 ![](img/2007-08_02.jpg "Evolucion de la explosión de golpe")
 
-La jugabilidad se vio mejorada con el debut de [Combo de fuego](/wiki/Combo_fire), la barra de HP, estela del ratón, y mejores deslizadores. En este punto, osu! tenía una humilde colección de alrededor de 10 beatmaps diseñados por el equipo de prueba de alrededor de 5 personas.
+La jugabilidad se vio mejorada con el debut de [Combo de fuego](/wiki/Glossary/Combo_fire), la barra de HP, estela del ratón, y mejores deslizadores. En este punto, osu! tenía una humilde colección de alrededor de 10 beatmaps diseñados por el equipo de prueba de alrededor de 5 personas.
 
 ![](img/2007-08_03.jpg "Selector de canciones para el modo editor")
 
@@ -61,7 +61,7 @@ que atrajo a bastantes personas interesadas con experiencias anteriores en juego
 
 ![](img/2007-09_05.jpg "Anuncio de noticias en un sitio web de juegos")
 
-Rápidamente después del lanzamiento público, los primeros mods, [Easy](/wiki/EZ) y [No Fail](/wiki/NF), fueron integrados, así como secciones de descanso (que hasta ahora habían sido ignoradas). Una gran cantidad de cambios hizo que osu! rápidamente se viera más y más como un juego de ritmo comercial.
+Rápidamente después del lanzamiento público, los primeros mods, [Easy](/wiki/Disambiguation/EZ) y [No Fail](/wiki/Game_modifier/No_Fail), fueron integrados, así como secciones de descanso (que hasta ahora habían sido ignoradas). Una gran cantidad de cambios hizo que osu! rápidamente se viera más y más como un juego de ritmo comercial.
 
 ![](img/easy.png "Easy (v1)") ![](img/no_fail.png "No Fail (v1)")
 
@@ -81,7 +81,7 @@ La versión 2 de `pUpdater` (`osume`) fue lanzada, soportando la descarga de paq
 
 ## Noviembre
 
-El rango SS fue agregado al sistema de calificaciones, reemplazando el resultado S en casos de perfección dentro del beatmap. El mod [No Video](/wiki/NV) y [Hidden](/wiki/HD) fueron introducidos, y los resultados SH (S de plata) y SSH (SS de plata) van con el. Por primera vez, Los jugadores podrían asignar skins y conjunto de muestras normales o suaves por sección de tiempo. Los archivos `.osz` pueden ser cargados presionando dos veces sobre estos, o arrastrandolos hasta el ícono de osu!.
+El rango SS fue agregado al sistema de calificaciones, reemplazando el resultado S en casos de perfección dentro del beatmap. El mod [No Video](/wiki/Game_modifier/No_Video) y [Hidden](/wiki/Game_modifier/Hidden) fueron introducidos, y los resultados SH (S de plata) y SSH (SS de plata) van con el. Por primera vez, Los jugadores podrían asignar skins y conjunto de muestras normales o suaves por sección de tiempo. Los archivos `.osz` pueden ser cargados presionando dos veces sobre estos, o arrastrandolos hasta el ícono de osu!.
 
 ![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
 

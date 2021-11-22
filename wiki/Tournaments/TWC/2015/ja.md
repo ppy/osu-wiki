@@ -200,27 +200,27 @@ outdated: true
 5. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 6. キャプテンはチームの予定の管理者です。
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "アルゼンチン"
+[flag_AU]: /wiki/shared/flag/AU.gif "オーストラリア"
+[flag_CA]: /wiki/shared/flag/CA.gif "カナダ"
+[flag_CL]: /wiki/shared/flag/CL.gif "チリ"
+[flag_CN]: /wiki/shared/flag/CN.gif "中華人民共和国"
+[flag_DE]: /wiki/shared/flag/DE.gif "ドイツ"
+[flag_DK]: /wiki/shared/flag/DK.gif "デンマーク"
+[flag_ES]: /wiki/shared/flag/ES.gif "スペイン"
+[flag_FI]: /wiki/shared/flag/FI.gif "フィンランド"
+[flag_FR]: /wiki/shared/flag/FR.gif "フランス"
+[flag_HK]: /wiki/shared/flag/HK.gif "香港"
+[flag_HU]: /wiki/shared/flag/HU.gif "ハンガリー"
+[flag_ID]: /wiki/shared/flag/ID.gif "インドネシア"
+[flag_IT]: /wiki/shared/flag/IT.gif "イタリア"
+[flag_JP]: /wiki/shared/flag/JP.gif "日本"
+[flag_KR]: /wiki/shared/flag/KR.gif "韓国"
+[flag_NO]: /wiki/shared/flag/NO.gif "ノルウェー"
+[flag_PH]: /wiki/shared/flag/PH.gif "フィリピン"
+[flag_PL]: /wiki/shared/flag/PL.gif "ポーランド"
+[flag_SE]: /wiki/shared/flag/SE.gif "スウェーデン"
+[flag_SG]: /wiki/shared/flag/SG.gif "シンガポール"
+[flag_TW]: /wiki/shared/flag/TW.gif "台湾"
+[flag_UA]: /wiki/shared/flag/UA.gif "ウクライナ"
+[flag_US]: /wiki/shared/flag/US.gif "アメリカ合衆国"

@@ -6,16 +6,16 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 
 *Halaman utama: [Beatmapping](/wiki/Beatmapping)*
 
-- [Menambahkan Custom Hitsound](Adding_Custom_Hitsounds)
+- [Menambahkan Custom Hitsound](Using_custom_hitsounds)
 - [Editing Audio](Audio_Editing)
 - [Mengubah Artis/Judul Beatmap](Changing_the_Artist_or_Title)
-- [Mengubah Judul Teks](/wiki/Beatmap/Title_Text#changing-title-text)
+- [Mengubah Judul Teks](/wiki/Beatmap/Title_Text#mengganti-judul-teks)
 - [Informasi Kolaborasi](Collab_Information)
 - [Mengompresi File](Compressing_Files)
 - [Kustom Hitsound Library](Custom_Hitsound_Library)
 - [Kustom Sample Overrides](Custom_Sample_Overrides)
 - [Mengatur Timing Musik](How_to_Time_Songs)
-- [Teori Musik](Music_Theory)
+- [Teori Musik](/wiki/Music_theory)
 - [Panduan Mapping osu!mania](osu!mania_Mapping_Guide)
 - [Mengatur Offset Pada Ketukan yang Tepat](Setting_the_Offset_on_the_Correct_Beat)
 - [Memulai Proyek Beatmap](Starting_a_Beatmap_Project)
@@ -33,7 +33,6 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 - [Cara menggunakan Offset Wizard](How_to_Use_the_Offset_Wizard)
 - [Mencari dan Mengunduh Beatmap](Searching_and_Downloading_Beatmaps)
 - [Pembelian Tablet](Tablet_Purchase)
-- [Tips dan Trik untuk Mengembangkan Kemampuan Bermain](Tips_and_Tricks_on_Skill_Improvement)
 
 ## Membuat skin
 

@@ -4,13 +4,13 @@ outdated: true
 
 # ผู้คนที่มี Titles ที่แตกต่าง
 
-Titles ของผู้เล่นนั้นปกติจะเกี่ยวกับ [user groups](/wiki/People/The_Team#user-groups) แต่ผู้เล่นข้างล่างนี้ ได้รับ titles มากจากเหตุผลอื่นๆ ส่วนใหญ่นั้นจะได้มาจาก การมีส่วนร่วม หรือจากความสำเร็จต่างๆ ส่วนที่เหลือจะเป็น titles ที่ตลกที่แสดงถึงอดีตของ osu!
+Titles ของผู้เล่นนั้นปกติจะเกี่ยวกับ [user groups](/wiki/People/The_Team#กลุ่มผู้ใช้งาน) แต่ผู้เล่นข้างล่างนี้ ได้รับ titles มากจากเหตุผลอื่นๆ ส่วนใหญ่นั้นจะได้มาจาก การมีส่วนร่วม หรือจากความสำเร็จต่างๆ ส่วนที่เหลือจะเป็น titles ที่ตลกที่แสดงถึงอดีตของ osu!
 
 ## ตามหมวดหมู่ พร้อมเหตุผล
 
 ### ผู้ชนะ World Cup
 
-หนึ่งในรางวัลสำหรับ ที่หนึ่งของ [official World Cups](/wiki/Tournaments#official-world-cups) คือ title ที่จะอยู่ไป 1 ปี
+หนึ่งในรางวัลสำหรับ ที่หนึ่งของ [official World Cups](/wiki/Tournaments#การแข่งขัน-world-cup-อย่างเป็นทางการ) คือ title ที่จะอยู่ไป 1 ปี
 
 ผู้ชนะของ [OWC 2020](/wiki/Tournaments/OWC/2020) พร้อมกับ title **osu! Champion**:
 
@@ -376,12 +376,12 @@ Storyboarders ที่แสดงความสามารถในการ
 
 [flag_AT]: /wiki/shared/flag/AT.gif "ออสเตรีย"
 [flag_AU]: /wiki/shared/flag/AU.gif "ออสเตรเลีย"
-[flag_BE]: /wiki/shared/flag/BE.gif "เบลเยี่ยม"
+[flag_BE]: /wiki/shared/flag/BE.gif "เบลเยียม"
 [flag_BR]: /wiki/shared/flag/BR.gif "บราซิล"
 [flag_CA]: /wiki/shared/flag/CA.gif "แคนาดา"
 [flag_CL]: /wiki/shared/flag/CL.gif "ชิลี"
 [flag_CN]: /wiki/shared/flag/CN.gif "จีน"
-[flag_DE]: /wiki/shared/flag/DE.gif "ยอรมนี"
+[flag_DE]: /wiki/shared/flag/DE.gif "เยอรมนี"
 [flag_DK]: /wiki/shared/flag/DK.gif "เดนมาร์ก"
 [flag_ES]: /wiki/shared/flag/ES.gif "สเปน"
 [flag_FI]: /wiki/shared/flag/FI.gif "ฟินแลนด์"

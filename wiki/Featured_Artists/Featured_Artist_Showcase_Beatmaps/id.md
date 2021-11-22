@@ -2,7 +2,7 @@
 
 Anggota dari [Mappers' Guild](/wiki/Mappers_Guild) mungkin sering membuat "beatmap showcase" eksklusif dengan menggunakan lagu yang belum dirilis dan materi lain dari [featured artist](/wiki/Featured_Artists) osu!. Setelah featured artist diumumkan, beatmap-beatmap yang tertera di sini akan disorot ke dalam [postingan berita](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di [Twitter @osugame](https://twitter.com/osugame).
 
-Agar dapat berpartisipasi ke dalam pembuatan beatmap showcase featured artist, seorang anggota dari Mappers' Guild wajib menerima salah satu dari [sebuah misteri dengan waktu terbatas](/wiki/Mappers_Guild#quests), dengan memperoleh langsung undangan dari ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), atau bisa dengan mengaktifkan opsi `FA showcase mapper` di dalam [situs Mappers' Guild](https://mappersguild.com/).
+Agar dapat berpartisipasi ke dalam pembuatan beatmap showcase featured artist, seorang anggota dari Mappers' Guild wajib menerima salah satu dari [sebuah misteri dengan waktu terbatas](/wiki/Mappers_Guild#quest), dengan memperoleh langsung undangan dari ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), atau bisa dengan mengaktifkan opsi `FA showcase mapper` di dalam [situs Mappers' Guild](https://mappersguild.com/).
 
 Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota dari Mappers' Guild dari waktu ke waktu.
 
@@ -356,7 +356,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 - **[La priere](https://osu.ppy.sh/home/news/2021-06-16-new-featured-artist-la-priere)** (2021-06-16)
   - (![][osu!]) [La prière - Senjou no Utahime](https://osu.ppy.sh/beatmapsets/1398580) diurus oleh ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
   - (![][osu!]) [La prière - Kyouzou no Canon](https://osu.ppy.sh/beatmapsets/1475603) diurus oleh ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
-- **[katagiri](https://osu.ppy.sh/home/news/2020-06-23-new-featured-artist-katagiri)** (2021-06-23)
+- **[katagiri](https://osu.ppy.sh/home/news/2021-06-23-new-featured-artist-katagiri)** (2021-06-23)
   - (![][osu!catch]) [katagiri - Urushi](https://osu.ppy.sh/beatmapsets/1482723) diurus oleh ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - **[Andromedik](https://osu.ppy.sh/home/news/2021-06-26-new-featured-artist-andromedik)** (2018-06-26)
   - (![][osu!]) [Andromedik x Itro x Polygon - Fly](https://osu.ppy.sh/beatmapsets/1470255) diurus oleh ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)
@@ -394,11 +394,40 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 - **[Release Hallucination](https://osu.ppy.sh/home/news/2021-08-28-new-featured-artist-release-hallucination)** (2021-08-28)
   - (![][osu!]) [Release Hallucination - Ariadne](https://osu.ppy.sh/beatmapsets/1550194) diurus oleh ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 
+### September
+
+- **[Alkome](https://osu.ppy.sh/home/news/2021-09-01-new-featured-artist-alkome)** (2021-09-01)
+  - (![][osu!]) [Alkome - Mind Disorder](https://osu.ppy.sh/beatmapsets/1301375) diurus oleh ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865)
+- **[litmus\*](https://osu.ppy.sh/home/news/2021-09-22-new-featured-artist-litmus)** (2021-09-22)
+  - (![][osu!]) [litmus\* as Ester - Krave](https://osu.ppy.sh/beatmapsets/1551054) diurus oleh ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342)
+  - (![][osu!catch]) [litmus\* as Ester - Krave](https://osu.ppy.sh/beatmapsets/1551054) diurus oleh ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+  - (![][osu!mania]) [litmus\* - Rush-More](https://osu.ppy.sh/beatmapsets/1505336) diurus oleh ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789)
+- **[tokiwa](https://osu.ppy.sh/home/news/2021-09-25-new-featured-artist-tokiwa)** (2021-09-25)
+  - (![][osu!]) [tokiwa - wasurena feat. Sennzai](https://osu.ppy.sh/beatmapsets/1496234) diurus oleh ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458)
+- **[Lundy](https://osu.ppy.sh/home/news/2021-09-29-new-featured-artist-lundy)** (2021-09-29)
+  - (![][osu!taiko]) [Lundy - STOP?](https://osu.ppy.sh/beatmapsets/1584108) diurus oleh ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
+  - (![][osu!catch]) [Lundy - to.ALPHA](https://osu.ppy.sh/beatmapsets/1554550) diurus oleh ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
+
+### Oktober
+
+- **[DJ Raisei](https://osu.ppy.sh/home/news/2021-10-02-new-featured-artist-dj-raisei)** (2021-10-02)
+  - (![][osu!]) [ISOMERZ (DJ Raisei + seatrus) - Symmetric](https://osu.ppy.sh/beatmapsets/1381824) diurus oleh ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)
+- **[METAROOM](https://osu.ppy.sh/home/news/2021-10-09-new-featured-artist-metaroom)** (2021-10-09)
+  - (![][osu!]) [METAROOM - PINK ORIGINS](https://osu.ppy.sh/beatmapsets/1589495) diurus oleh ![][flag_TR] [Lugu](https://osu.ppy.sh/users/12851847)
+- **[Lexurus](https://osu.ppy.sh/home/news/2021-10-16-new-featured-artist-lexurus)** (2021-10-16)
+  - (![][osu!]) [Lexurus - Take Me Away](https://osu.ppy.sh/beatmapsets/1572918) diurus oleh ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
+- **[Risa Yuzuki](https://osu.ppy.sh/home/news/2021-10-27-new-featured-artist-risa-yuzuki)** (2021-10-27)
+  - (![][osu!]) [Risa Yuzuki - Honogurai Tsuioku](https://osu.ppy.sh/beatmapsets/1544897) diurus oleh ![][flag_GB] [CallieCube](https://osu.ppy.sh/users/7535045)
+  - (![][osu!]) [Risa Yuzuki - Amatsu Sumizome](https://osu.ppy.sh/beatmapsets/1591003) diurus oleh ![][flag_KR] [Affirmation](https://osu.ppy.sh/users/6186628)
+  - (![][osu!]) [Risa Yuzuki - Replique](https://osu.ppy.sh/beatmapsets/1571215) diurus oleh ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!taiko]) [Risa Yuzuki - Replique](https://osu.ppy.sh/beatmapsets/1580723) diurus oleh ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733)
+  - (![][osu!catch]) [Risa Yuzuki - Cinderella Maker](https://osu.ppy.sh/beatmapsets/1582952) diurus oleh ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637)
+
 ## Sejarah
 
 Sejak awal, Mappers' Guild telah diatur sejalan dengan "membuat paket beatmap promosional untuk featured artist yang akan datang" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> sebagai salah satu tujuan utamanya. Ini ditunjukkan di dalam proyek besar pertama Guild, di mana anggota Guild telah mempersiapkan dan memberi peringkat enam beatmap dari [lagu-lagu MOtOLOiD berlisensi](https://osu.ppy.sh/beatmaps/artists/19) jauh sebelum [pengumuman featured artist terkait](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
 
-Karena pada awalnya Guild beroperasi berbasis aplikasi entri tertutup, akses ke konten featured artist yang akan datang sering kali dibatasi untuk segelintir pembuat beatmap mode permainan [osu!](/wiki/Game_mode/osu!). Namun, pada saat peralihan ke sistem entri terbuka dan otomatis pada [awal 2019](/wiki/Mapping_and_Modding_Timeline#march.5), Guild memiliki semakin banyak mapper dalam pembuatan beatmap showcase untuk featured artist ke depannya dari waktu ke waktu terlepas dari mode permainan mereka.
+Karena pada awalnya Guild beroperasi berbasis aplikasi entri tertutup, akses ke konten featured artist yang akan datang sering kali dibatasi untuk segelintir pembuat beatmap mode permainan [osu!](/wiki/Game_mode/osu!). Namun, pada saat peralihan ke sistem entri terbuka dan otomatis pada [awal 2019](/wiki/Mapping_and_Modding_Timeline#maret.5), Guild memiliki semakin banyak mapper dalam pembuatan beatmap showcase untuk featured artist ke depannya dari waktu ke waktu terlepas dari mode permainan mereka.
 
 Dimulai dari [Pengumuman MYUKKE. sebagai featured artist](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) pada Desember 2020 dan seterusnya, kiriman pengumuman featured artist baru kadang-kadang menampilkan pratinjau video singkat, seringkali dengan beatmap showcase ini bertindak sebagai tajuk utama mereka.
 
@@ -408,11 +437,12 @@ Dimulai dari [Pengumuman MYUKKE. sebagai featured artist](https://osu.ppy.sh/hom
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
-[flag_CL]: /wiki/shared/flag/CL.gif "Cili"
-[flag_CZ]: /wiki/shared/flag/CZ.gif "Republik Ceko"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Republik Ceska"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
@@ -422,19 +452,19 @@ Dimulai dari [Pengumuman MYUKKE. sebagai featured artist](https://osu.ppy.sh/hom
 [flag_GR]: /wiki/shared/flag/GR.gif "Yunani"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Itali"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
 [flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lituania"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turki"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
 [flag_MX]: /wiki/shared/flag/MX.gif "Meksiko"
 [flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
-[flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
+[flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turki"
 [flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

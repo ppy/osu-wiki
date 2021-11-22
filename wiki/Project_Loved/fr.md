@@ -1,43 +1,58 @@
 ---
-outdated: true
-outdated_since: ea5cceced4dbd81d528eb86ae2777947acc739b9
+no_native_review: true
 ---
 
 # Project Loved
 
-**Project Loved** est la plateforme de vote qui fait la promotion des beatmaps catégorisé Il est géré principalement par l'[équipe Project Loved](/wiki/People/Project_Loved_Team).
+Le **Project Loved** est la plateforme de vote qui promeut les beatmaps dans la catégorie [loved](/wiki/Beatmap/Category#loved). Il est géré principalement par la [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team).
 
-## Déplacer une beatmap en Loved
+## Déplacer une beatmap vers Loved
 
-Les Beatmaps sont déplacées en Loved par un processus de nomination et de vote.
+Les beatmaps sont déplacés vers loved par un processus de nomination et de vote.
 
-Les membres de l'équipe  Project Loved, appelés **capitaines**, nomment régulièrement des beatmaps pour un mode de jeu spécifique. Presque toujours, ces ensembles proviennent de soumissions de la communauté d'osu!. Les formulaires de soumission actuels et les listes peuvent être trouvés via les liens suivants :
+Les membres de l'équipe du Project Loved appelés **capitaines** nomment régulièrement des beatmaps pour un mode de jeu spécifique. Ces ensembles proviennent presque toujours de propositions de la communauté d'osu!.
 
-- [formulaire osu!/osu!taiko/osu!catch](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)
-- [formulaire osu!mania](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform)
-- [liste osu!/osu!taiko/osu!catch](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit)
-- [liste osu!mania](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit)
+Pour soumettre un beatmap pour loved, veuillez visiter la [page d'envoi d'une beatmap](https://loved.sh/submit) du site web du Project Loved et remplir le formulaire. Une fois le formulaire envoyé, vous pourrez voir votre proposition dans la liste de son mode de jeu respectif avec les autres. Vous trouverez ci-dessous les listes où ces propositions peuvent être consultées :
 
-Remarque: si votre accès à Google Forms est limité, vous pouvez également contacter l’un des [membres de l'équipe Project Loved](/wiki/People/Project_Loved_Team#team-members) pour avoir une map soumise en votre nom.*
+- [Proposition pour le mode osu!](https://loved.sh/submissions/osu)
+- [Proposition pour le mode osu!taiko](https://loved.sh/submissions/taiko)
+- [Proposition pour le mode osu!catch](https://loved.sh/submissions/fruits)
+- [Proposition pour le mode osu!mania](https://loved.sh/submissions/mania)
 
-Les maps nominées sont ensuite postées sur le [forum Project Loved](https://osu.ppy.sh/community/forums/120), où les membres de la communauté peuvent voter s'ils veulent que le mapset soit loved ou non. Les cartes atteignant un pourcentage spécifié de votes «Oui» à la fin du vote seront déplacées dans la catégorie Loved.
+Les mapsets nominés sont ensuite publiés sur le forum [Project Loved](https://osu.ppy.sh/community/forums/120), où les membres de la communauté peuvent voter s'ils souhaitent que le mapset soit loved ou non. Les maps qui atteignent un certain pourcentage de votes positifs à la fin du scrutin sont transférées dans la catégorie "Loved".
 
 ### Éligibilité
 
-Il y a quelques critères très minimaux à respecter pour que les beatmaps soient approuvées comme étant loved. Les capitaines considèrent qu'une beatmap est éligible pour la catégorie Loved si:
+Certains critères très minimes doivent être respectés pour que les beatmaps soient nominés dans la catégorie loved. Les capitaines considèrent qu'une beatmap est éligible pour la catégorie loved si :
 
-- Si elle n'est pas dans les catégories [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked) ou [Approved](/wiki/Beatmap/Category#approved)
-- Son créateur ne désapprouve pas le fait qu'il soit loved
+- Elle ne fait pas partie des catégories [qualifiée](/wiki/Beatmap/Category#qualifiée), [classée](/wiki/Beatmap/Category#classée) ou [approuvée](/wiki/Beatmap/Category#approuvée).
+- Son créateur ne désapprouve pas le fait qu'elle soit prêté.
 - Son créateur n'est ni banni ni restreint
-- Au moins une difficulté peut être passée
-- Aucune difficulté ne contient d'erreurs de Beatmapping (problèmes de timing, formatage de fichier incorrect, etc.)
+- Au moins une difficulté peut être jouable
+- Elle a au moins 30 favoris (s'applique uniquement aux maps osu!)
+- Toutes les difficultés nominées ont au moins 30 secondes de [drain time](/wiki/Gameplay/Drain_time).
 
-Cependant, malgré que presque toutes les maps dans [Pending and Work-in-progress](/wiki/Beatmap/Category#pending) répondant à ces critères, peu de personnes sont élues dans la catégorie «loved» en raison des exigences plus sélectives en matière de nomination et de vote.
+Bien que de nombreuses maps [en attente et work in progress](/wiki/Beatmap/Category#work-in-progress-et-en-attente) répondent à ces critères, peu d'entre elles sont votées dans la catégorie Loved en raison des conditions de nomination et de vote plus sélectives.
 
-### Priorité de nomination
+Les beatmaps entrant dans la catégorie loved doivent respecter des règles supplémentaires :
 
-Il n'y a pas de règles strictes régissant les maps qu'un capitaine doit proposer en Loved, mais généralement, les maps en nomination sont très connues et appréciées de la communauté (comme l'indique le titre "Loved"). Parfois, un ensemble de maps sera également préféré s'il est nettement plus ancien que les autres ou s'il contient des beatmaps avec des styles de mapping uniques et de haute qualité.
+- [La section Métadonnées des critères de classement](/wiki/Ranking_Criteria#metadata)
+- [Les règles relatives au contenu des chansons](/wiki/Rules/Song_Content_Rules)
+- [Les considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations)
 
-## Informations complémentaires
+En outre, afin de maintenir la qualité audio de la musique à un niveau raisonnable, les fichiers audio des beatmap doivent provenir d'une source de la plus haute qualité disponible tout en ayant un débit binaire moyen ne dépassant pas 192 kbps.
 
-Toute l'organisation et la planification de Project Loved se font dans le channel `#osu-loved` du [osu!dev Discord server](https://discord.gg/ppy). Toutes les questions, inquiétudes ou suggestions peuvent y être adressées.
+Tout problème lié à ces règles est généralement résolu pendant que la map est proposée au vote.
+
+### Priorité des nominations
+
+Il n'existe pas de règles strictes régissant les maps qu'un capitaine doit proposer pour loved, mais en général, les maps proposées sont très connues et appréciées par la communauté (comme l'indique le titre "loved"). Parfois, une beatmap sera également préféré s'il est nettement plus ancien que les autres ou si elle contiennent des beatmaps avec des styles de mapping uniques et de grande qualité.
+
+## Plus d'informations
+
+Toute l'organisation et la planification du Project se fait dans le canal `#osu-loved` du [serveur Discord osu!dev](https://discord.gg/ppy). Il y a aussi un canal `#project-loved` dans le [serveur discord osu!community](https://discord.gg/0Vxo9AsejDkGlk3H). Toutes les questions, préoccupations ou suggestions peuvent y être adressées.
+
+En plus des canaux de discussion mentionnés ci-dessus, les communautés osu!taiko et osu!mania ont leurs propres hubs Discord dédiés, que vous pouvez rejoindre via les liens suivants :
+
+- [Discord du Project Loved pour osu!taiko](https://discord.com/invite/GhfjtZ6)
+- [Discord du Project Loved pour osu!mania](https://discord.gg/Ededv7m)

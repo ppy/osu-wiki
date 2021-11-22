@@ -399,7 +399,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーに
 
 ### トーナメント登録とチーム作成
 
-1. [ランク制限](#rank-restrictions)に書いてある基準を満たしてるプレイヤーのみ参加可能です。
+1. [ランク制限](#ランク制限)に書いてある基準を満たしてるプレイヤーのみ参加可能です。
 2. プレイヤーはそれぞれ個人で登録します。承認されると、国の代表として各国のチームに加わります。
 3. スタッフは、登録したプレイヤーのレベルと大会のレベルがあっていないという判断をした場合、ランク制限を満たしていても参加を断ることができます。
 4. スタッフは、プレーヤーのスキルがトーナメントに合わないと判断した場合、プレーヤーを拒否できます。
@@ -493,7 +493,7 @@ All-starは最終決戦と同じ週末に行われるエキシビションイベ
 [flag_BR]: /wiki/shared/flag/BR.gif "ブラジル"
 [flag_CA]: /wiki/shared/flag/CA.gif "カナダ"
 [flag_CL]: /wiki/shared/flag/CL.gif "チリ"
-[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_CN]: /wiki/shared/flag/CN.gif "中華人民共和国"
 [flag_DE]: /wiki/shared/flag/DE.gif "ドイツ"
 [flag_DK]: /wiki/shared/flag/DK.gif "デンマーク"
 [flag_EC]: /wiki/shared/flag/EC.gif "エクアドル"
@@ -501,8 +501,8 @@ All-starは最終決戦と同じ週末に行われるエキシビションイベ
 [flag_FR]: /wiki/shared/flag/FR.gif "フランス"
 [flag_GB]: /wiki/shared/flag/GB.gif "イギリス"
 [flag_HK]: /wiki/shared/flag/HK.gif "香港"
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
 [flag_ID]: /wiki/shared/flag/ID.gif "インドネシア"
+[flag_JP]: /wiki/shared/flag/JP.gif "日本"
 [flag_KR]: /wiki/shared/flag/KR.gif "韓国"
 [flag_MX]: /wiki/shared/flag/MX.gif "メキシコ"
 [flag_MY]: /wiki/shared/flag/MY.gif "マレーシア"

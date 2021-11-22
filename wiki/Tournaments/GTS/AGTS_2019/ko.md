@@ -8,7 +8,7 @@ outdated: true
 
 # Advanced Global Taiko Showdown 2019
 
-![AGTS 2019 Logo](img/logo.png)
+![AGTS 2019 Logo](img/logo.jpg)
 
 **Advanced Global Taiko Showdown 2019** (***AGTS 2019***)는 더블 엘리미네이션 방식의 2대2 국가대항전 토너먼트이며, ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263)와 ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133)가 주최했습니다. Global Taiko Showdown 시리즈의 3번째 대회이기도 합니다..
 
@@ -500,8 +500,8 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
 [flag_MY]: /wiki/shared/flag/MY.gif

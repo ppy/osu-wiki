@@ -1,12 +1,12 @@
 # Utilisateurs avec des titres uniques
 
-Les titres d'utilisateurs sont généralement associés aux [groupes d'utilisateurs](/wiki/People/The_Team#user-groups), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres étaient des récompenses pour des contributions ou des réalisations, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!.
+Les titres d'utilisateurs sont généralement associés aux [groupes d'utilisateurs](/wiki/People/The_Team#groupes-dutilisateurs), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres étaient des récompenses pour des contributions ou des réalisations, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!.
 
 ## Par catégorie, avec motifs
 
 ### Vainqueurs de la World Cup
 
-L'un des prix offerts aux vainqueurs des [World Cups officielles](/wiki/Tournaments#official-world-cups) est un titre d'utilisateur qui dure environ un an.
+L'un des prix offerts aux vainqueurs des [World Cups officielles](/wiki/Tournaments#officielles) est un titre d'utilisateur qui dure environ un an.
 
 Les gagnants de l'[OWC 2020](/wiki/Tournaments/OWC/2020) avec le titre d'utilisateur **osu! Champion** :
 
@@ -378,23 +378,23 @@ Ces joueurs ont obtenu leur titre soit en réalisant un exploit de jeu fou, soit
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_HM]: /wiki/shared/flag/HM.gif "Île Heard et îles McDonald"
+[flag_HM]: /wiki/shared/flag/HM.gif "Îles Heard et McDonald"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italie"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
 [flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
-[flag_LY]: /wiki/shared/flag/LY.gif "Libye"
+[flag_LY]: /wiki/shared/flag/LY.gif "Libie"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
 [flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
 [flag_RO]: /wiki/shared/flag/RO.gif "Roumanie"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
 [flag_SH]: /wiki/shared/flag/SH.gif "Sainte-Hélène"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
