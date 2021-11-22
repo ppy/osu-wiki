@@ -1,20 +1,20 @@
-# Beatmap pack lama
+# Paket-paket beatmap lama
 
-Beatmap pack telah menjadi bagian yang tak terpisahkan dari komunitas osu! sejak [pengenalan pertamanya](https://osu.ppy.sh/community/forums/topics/1853) oleh ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) pada 2008, di mana beberapa pack terikat pada beberapa [achievement](/wiki/Medals). Namun dengan perkembangan osu! dan komunitasnya yang terus-menerus setiap tahun, mapping juga telah mengalami perubahan yang sangat besar dan—karena permintaan yang besar dari publik—[pada 16 Januari 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) perubahan besar dilakukan pada beberapa beatmap pack untuk membuat beatmap pack tetap relevan waktu.
+Paket beatmap telah menjadi bagian yang tak terpisahkan dari komunitas osu! sejak [pertama kali diperkenalkan](https://osu.ppy.sh/community/forums/topics/1853) oleh ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) pada 2008, di mana pada kala itu paket-paket beatmap tertentu telah dijadikan syarat untuk dapat membuka [medali-medali yang ada](/wiki/Medals). Meskipun demikian, dengan perkembangan osu! yang semakin pesat seiring tahunnya, beatmap-beatmap yang ada juga ikut berevolusi dan—karena permintaan yang besar dari publik—[pada 16 Januari 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) tim osu! merombak ulang isi berbagai paket beatmap yang ada agar tidak lekang termakan zaman.
 
-Artikel ini berisi konten asli dari beatmap pack yang mengalami perubahan yang telah disebutkan sebelumnya.
+Berikut ini merupakan komposisi asli dari paket-paket beatmap yang bersangkutan sebelum mereka dirombak ulang sebagaimana yang telah disebutkan di atas.
 
 ## Anime Pack
 
 ### Volume 1
 
-Beatmap pack ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
 Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn)
 
-Beatmap:
+Daftar beatmap:
 
 - [Beat Crusaders - Hit in the USA](https://osu.ppy.sh/beatmapsets/35)
 - [Chieco Kawabe - Sakura Kiss](https://osu.ppy.sh/beatmapsets/147)
@@ -32,13 +32,13 @@ Beatmap:
 
 ### Volume 2
 
-Beatmap pack ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
 Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?722os55j52ikylq)
 
-Beatmap:
+Daftar beatmap:
 
 - [Kana Ueda - Pumpkin Ondo](https://osu.ppy.sh/beatmapsets/86)
 - [Porno Graffitti - Mellisa (TV Size)](https://osu.ppy.sh/beatmapsets/150)
@@ -56,13 +56,13 @@ Beatmap:
 
 ### Volume 3
 
-Beatmap pack ini diperkenalkan oleh ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
 Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b)
 
-Beatmap:
+Daftar beatmap:
 
 - [Kageyama Hironobu - Ore wa Tokoton Tomaranai](https://osu.ppy.sh/beatmapsets/2618)
 - [Lucky Star - Motteke! Sailor Fuku (REDALiCE Remix)](https://osu.ppy.sh/beatmapsets/3030)
@@ -80,13 +80,13 @@ Beatmap:
 
 ### Volume 4
 
-Beatmap pack ini diperkenalkan oleh ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
 Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv)
 
-Beatmap:
+Daftar beatmap:
 
 - [Chata - Dango Daikazoku](https://osu.ppy.sh/beatmapsets/516)
 - [AKINO - Sousei no Aquarion (TV Size)](https://osu.ppy.sh/beatmapsets/5438)
@@ -106,13 +106,13 @@ Beatmap:
 
 ### Volume 1
 
-Beatmap pack ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
 Tautan unduhan:
 
 - *N/A*
 
-Beatmap:
+Daftar beatmap:
 
 - [Dudelstudios - Angry Video Game Nerd Theme](https://osu.ppy.sh/beatmapsets/66)
 - [Trans-Siberian Orchestra - Wizards In Winter](https://osu.ppy.sh/beatmapsets/132)
@@ -128,17 +128,17 @@ Beatmap:
 - [Hatsune Miku - Ievan Polkka](https://osu.ppy.sh/beatmapsets/1287)
 - [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463)¹
 
-¹ *[Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463) adalah unranked beatmap. Beatmap ini tidak perlu dimainkan untuk menyelesaikan pack.*
+¹ *[Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463) merupakan beatmap yang berstatus unranked. Beatmap ini tidak wajib dimainkan untuk dapat menyelesaikan paket ini.*
 
 ### Volume 2
 
-Beatmap pack ini diperkenalkan oleh ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
 Tautan unduhan:
 
 - *N/A*
 
-Beatmap:
+Daftar beatmap:
 
 - [The INTERNET - At The Playground](https://osu.ppy.sh/beatmapsets/203)
 - [Jakazid - Cillit Bang (Hardcore Mix)](https://osu.ppy.sh/beatmapsets/917)
@@ -156,13 +156,13 @@ Beatmap:
 
 ### Volume 3
 
-Beatmap pack ini diperkenalkan oleh ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
 Tautan unduhan:
 
 - *N/A*
 
-Beatmap:
+Daftar beatmap:
 
 - [NicoNicoDouga - Nice Boat.](https://osu.ppy.sh/beatmapsets/1839)
 - [Verix - Drop the Dodongo](https://osu.ppy.sh/beatmapsets/3337)
@@ -180,13 +180,13 @@ Beatmap:
 
 ### Volume 4
 
-Beatmap pack ini diperkenalkan oleh ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
 Tautan unduhan:
 
 - *N/A*
 
-Beatmap:
+Daftar beatmap:
 
 - [TuTuWan - Wo Yao Jin Ke La](https://osu.ppy.sh/beatmapsets/11443)
 - [Parry Gripp - Do You Like Waffles](https://osu.ppy.sh/beatmapsets/12033)
@@ -206,13 +206,13 @@ Beatmap:
 
 ### Volume 1
 
-Beatmap pack ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
 Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?87n2agcrcgmwxob)
 
-Beatmap:
+Daftar beatmap:
 
 - [Beautiful Day - Bride in Dream](https://osu.ppy.sh/beatmapsets/74)
 - [Speed Over Beethoven](https://osu.ppy.sh/beatmapsets/96)
@@ -230,13 +230,13 @@ Beatmap:
 
 ### Volume 2
 
-Beatmap pack ini diperkenalkan oleh ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
 Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?axvxrnx637767ls)
 
-Beatmap:
+Daftar beatmap:
 
 - [Tatsh feat. K.Nayuki - Sphere](https://osu.ppy.sh/beatmapsets/1207)
 - [Taiko no Tatsujin - Kita Saitama2000](https://osu.ppy.sh/beatmapsets/1567)
@@ -254,13 +254,13 @@ Beatmap:
 
 ### Volume 3
 
-Beatmap pack ini diperkenalkan oleh ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
 Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?781tio8fge7y7d2)
 
-Beatmap:
+Daftar beatmap:
 
 - [BanYa - Csikos Post](https://osu.ppy.sh/beatmapsets/1206)
 - [Mutsuhiko Izumi - Jet World](https://osu.ppy.sh/beatmapsets/4357)
@@ -278,13 +278,13 @@ Beatmap:
 
 ### Volume 4
 
-Beatmap pack ini diperkenalkan oleh ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
 Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?6hc29ws6j36dcag)
 
-Beatmap:
+Daftar beatmap:
 
 - [Beautiful Day - Bang! Bang! Bang!](https://osu.ppy.sh/beatmapsets/10842)
 - [Yamajet - Over The Ocean](https://osu.ppy.sh/beatmapsets/11135)
@@ -304,13 +304,13 @@ Beatmap:
 
 ### Volume 1
 
-Beatmap pack ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
 Tautan unduhan:
 
 - *N/A*
 
-Beatmap:
+Daftar beatmap:
 
 - [Team Nekokan - Can't Defeat Airman](https://osu.ppy.sh/beatmapsets/25)
 - [Portal - Still Alive](https://osu.ppy.sh/beatmapsets/92)
@@ -328,13 +328,13 @@ Beatmap:
 
 ### Volume 2
 
-Beatmap pack ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
 Tautan unduhan:
 
 - *N/A*
 
-Beatmap:
+Daftar beatmap:
 
 - [IOSYS - Marisa wa Taihen na Mono wo Nusunde Ikimashita](https://osu.ppy.sh/beatmapsets/243)
 - [Nintendo - Super Mario Bros. (TECHNO remix)](https://osu.ppy.sh/beatmapsets/628)
@@ -352,13 +352,13 @@ Beatmap:
 
 ### Volume 3
 
-Beatmap pack ini diperkenalkan oleh ![][flag_US] [Seibei4211](https://osu.ppy.sh/users/31537) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ![][flag_US] [Seibei4211](https://osu.ppy.sh/users/31537) dan ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
 Tautan unduhan:
 
 - *N/A*
 
-Beatmap:
+Daftar beatmap:
 
 - [Victims of Science - The Device Has Been Modified](https://osu.ppy.sh/beatmapsets/1890)
 - [Phoenix Wright - Sugimori Masakazu - Compilation](https://osu.ppy.sh/beatmapsets/2085)
@@ -376,13 +376,13 @@ Beatmap:
 
 ### Volume 4
 
-Beatmap pack ini diperkenalkan oleh ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
 
 Tautan unduhan:
 
 - *N/A*
 
-Beatmap:
+Daftar beatmap:
 
 - [Megadeth - Grabbag](https://osu.ppy.sh/beatmapsets/7077)
 - [David J. Franco - Scribblenauts Theme](https://osu.ppy.sh/beatmapsets/9580)
@@ -400,7 +400,7 @@ Beatmap:
 
 ## Trivia
 
-- Beatmap [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), yang termasuk pada Internet Pack (Volume 1), terkenal sebagai beatmap yang masuk kategori [Approved](wiki/Beatmap/Category#approved) meskipun beatmap itu hanya terdiri dari satu spinner. Meskipun beatmap tersebut [akhirnya dihilangkan dari beatmap listing Approved](https://osu.ppy.sh/community/forums/posts/149328), sisa dari beatmap tersebut tetap menjadi bagian the Internet Pack (Volume 1).
+- Beatmap [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), yang terkandung dalam paket beatmap Internet Pack (Volume 1), terkenal sebagai beatmap yang dahulu pernah di-[approve](wiki/Beatmap/Category#approved) meskipun hanya tersusun atas satu spinner. Walaupun [status Approved beatmap tersebut kini telah dicabut](https://osu.ppy.sh/community/forums/posts/149328), beatmap tersebut tetap dapat diunduh dan menjadi bagian dari paket beatmap Internet Pack (Volume 1).
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
