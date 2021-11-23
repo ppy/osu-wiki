@@ -53,8 +53,8 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen, lese
 - osu!stream kann mit einem Twitterkonto genutzt werden.
 - Höchstpunktestände dürfen anonym zur Seite als "Guest" gesendet werden (benötigt eine Internetverbindung).
 - Der Circle-Timer wird ersetzt und befindet sich nun unten mit einer kleinen Grenzlinie, die abhängig von der Genauigkeit des Spielverlaufs gefärbt ist. \[Bottom(Long)\]
-- Die **Durchschnittliche Zeit** wird am Ergebnisbildschirm angezeigt.
-- Alte Aufzeichnungen können nicht gespeichert werden.
+- Die **Durchschnittliche Abweichung** wird am Ergebnisbildschirm angezeigt.
+- Alte Rekorde und Aufzeichnungen können nicht gespeichert werden.
 - Der Skin kann nicht gewechselt werden und Mods sind nicht auswählbar (bislang).
 - Easter Eggs können gefunden werde, aber es gibt noch keine Seite für Errungenschaften...
 
@@ -68,7 +68,7 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen, lese
 
 - Die zwei transparenten Kreise, die im Spiel auftauchen, helfen Anfängern zu wissen, wann sie die Objekte treffen müssen.
   - Es zeigt die empfohlene Methode, um die Map perfekt abzuschließen.
-- TDie grüne Farbe ist für die linke Hand und die rote Farbe ist für die rechte Hand.
+- Die grüne Farbe ist für die linke Hand und die rote Farbe ist für die rechte Hand.
 - Diese Funktion kann im Optionsmenü oder nach dem Beenden des Tutorials deaktiviert werden.
 
 #### Verbundene Beats
@@ -132,7 +132,7 @@ Der Streammodus ist ein exclusiver Modus in osu!stream. In diesem Modus starten 
 
 Lange Rede kurzer Sinn, der Spieler startet zwischen Leicht und Schwer.
 
-Beachte, dass der Spieler **mindestens ein A Rang (>80% Genauigkeit) in diesem Modus haben muss, um den Expertenmodus des Songs freizuschalten**. Wenn die Genauigkeit kleiner als 80% beträgt, egal ob es eine volle Combo war, wird kein A vergeben (Es gilt meistens als B).
+Beachte, dass der Spieler **mindestens einen A Rang (>80% Genauigkeit) in diesem Modus haben muss, um den Expertenmodus des Songs freizuschalten**. Wenn die Genauigkeit kleiner als 80% beträgt, egal ob es eine volle Combo war, wird kein A vergeben (Es gilt meistens als B).
 
 Die Hintergrundfarbe ist grün (Leicht), blau (Normal), und pink (Schwer).
 
@@ -160,7 +160,7 @@ Die Hintergrundfarbe ist grün (Leicht), blau (Normal), und pink (Schwer).
 
 **Schwierigkeitsgrad: Experte**
 
-Am Anfang gesperrt und nur durch ein A oder besser im Streammodus freischaltbar, der Expertenmodus ist für alle, die eine größere Herausforderung suchen. In diesem Modus bekommen Spieler eineinhalb Lebensleisten und müssen diese bis zum Ende des Songs erhalten. Der erflogreiche Abschluss schaltet nicht frei außer das Recht zum Angeben.
+Am Anfang gesperrt und nur durch ein A oder besser im Streammodus freischaltbar, ist der Expertenmodus ist für alle gedacht, die eine größere Herausforderung suchen. In diesem Modus bekommen Spieler eineinhalb Lebensleisten und müssen diese bis zum Ende des Songs erhalten. Der erflogreiche Abschluss schaltet nicht frei außer das Recht zum Angeben.
 
 Die Hintergrundfarbe ist violett und die Lichter verdunkeln sich, abhängig von den aktuellen Lebenspunkten
 
@@ -222,7 +222,7 @@ Die Hintergrundfarbe ist violett und die Lichter verdunkeln sich, abhängig von 
 
 ## Punktevergabe
 
-*Hinweis: Die Rangliste kann noch im Spiel angesehen werden, allerdings werden neue Punktestände angenommen.*
+*Hinweis: Die Rangliste kann noch im Spiel angesehen werden, allerdings werden keine neuen Punktestände angenommen.*
 
 ### Genauigkeit
 
@@ -237,7 +237,7 @@ Mit anderen Worten, jeder Miss ist 0%, jeder 50er ist 25%, jeder 100er ist 50% u
 
 ### Punkte
 
-Die Punkte, die von jedem Hit-Circle und jedem Ende eines Sliders vergeben werden, wird mit folgender Formel berechnet:
+Die Punkte, die von jedem Hit-Circle und jedem Ende eines Sliders vergeben werden, werden mit folgender Formel berechnet:
 
 `Punkte = Trefferwert + Trefferwert * (Combomultiplizierer * fester Multiplizierer) / 25`
 
@@ -265,7 +265,7 @@ Es gibt einen weiteren Bonus von 10 Punkten, abhängig von den Umdrehungen pro M
   - 100 für einen leicht inkorrekten initialen Treffer und den Kreis richtig halten.
   - 50 für eine leichte Berührung.
   - 30 für jede Explosion.
-  - Der Multiplizierer wird zurückgesetzt, wenn die Kreise nicht korrekt gehalten wurden. Ein Miss gibt es, wenn die Kreise überhaupt nicht gehalten wurden.
+  - Der Multiplizierer wird zurückgesetzt, wenn die Kreise nicht korrekt gehalten wurden. Ein Miss wird vergeben, wenn die Kreise überhaupt nicht gehalten wurden.
 
 **Slider**
 
@@ -280,11 +280,11 @@ Es gibt einen weiteren Bonus von 10 Punkten, abhängig von den Umdrehungen pro M
 **Spinner**
 
 - Für einen Spinner werden 300er, 100er oder 50er vergeben, abhängig von der Anzahl der gemachten Spins verglichen mit der Länge des Spinners.
-- Ein Miss, wenn die Spinnermessbar, die auf beiden Seiten des Spinners zu sehen ist, nicht gefüllt wurde.
+- Ein Miss, wenn die Spinnermessleiste, die auf beiden Seiten des Spinners zu sehen ist, nicht gefüllt wurde.
 
 ### Multiplizierer
 
-Das Folgende erhöht den Punktemultiplizierer um einen Punkt:
+Das Folgende erhöht den Punktemultiplizierer um jeweils einen Punkt:
 
 - Treffer auf einem Hit-Circle.
 - Der Start, das Ende und jeder Hold-Tick eines Hold-Circles.
@@ -294,11 +294,11 @@ Das Folgende erhöht den Punktemultiplizierer um einen Punkt:
 Das Folgende setzt den Punktemultiplizierer auf null zurück:
 
 - Einen Hit-Circle verfehlen.
-- Den Hold-Circle loszulassen, bevor dieser noch nicht explodiert ist.
-- Unfähig, die verbundenen Beats gleichmäßig zu treffen. (Einen treffen und den anderen verfehlen)
+- Den Hold-Circle loszulassen, bevor dieser explodiert ist.
+- Unfähig, die verbundenen Beats gleichzeitig zu treffen. (Einen treffen und den anderen verfehlen)
 - Einen Slider zu früh klicken.
 - Den Sliderstart oder einen Slidertick verfehlen.
-- Unfähig, die Spinnermessbar vollständig zu füllen.
+- Unfähig, die Spinnermessleiste vollständig zu füllen.
 
 Das Folgende wird den Punktemultiplizierer weder erhöhen noch zurücksetzen:
 
