@@ -2,7 +2,7 @@
 
 ![](img/Os-Logo.jpg "Logo von osu!stream")
 
-**osu!stream** ist eine Version von osu!, die von Grund auf neu entwickelt wurde und extra für touch-fähige Geräte ausgelegt ist. Aktuell ist sie nur für Apples [iOS](http://en.wikipedia.org/wiki/IOS)-Plattform verfügbar. Ein [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29)-Port war geplant und beinahe fertig, wurde aber nicht veröffentlicht, da es Probleme bei der Audiolatenz gab. Dadurch wurde der Spielspaß massiv beeinträchtigt.
+**osu!stream** ist eine Version von osu!, die von Grund auf neu entwickelt wurde und extra für touch-fähige Geräte ausgelegt ist. Aktuell ist sie nur für Apples [iOS](http://en.wikipedia.org/wiki/IOS)-Plattform verfügbar. Ein [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29)-Port war geplant und beinahe fertig, wurde aber nicht veröffentlicht, da es Probleme bei der Audiolatenz gab, die den Spielspaß massiv beeinträchtigten.
 
 Enthalten ist ein komplett überarbeitetes Spielsystem mit neuen Spielelementen, wie den Hold-Circles und verbundenen Beats. Klassische osu! Beatmaps werden nicht ohne manuelle Umwandlung unterstützt. Stattdessen wurden neue Beatmaps explizit von einem besonderen Team an Mappern erstellt, um die Chance der neuen Spielelemente auszunutzen. Diese neuen Beatmaps haben einen [strikteren Standard](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
