@@ -24,7 +24,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 [介面](/wiki/Interface) • [設定](/wiki/Options) • [畫面設定](/wiki/Visual_Settings) • [快捷鍵參考](/wiki/Shortcut_key_reference) • [設定檔](/wiki/osu!_Program_Files/User_Configuration_File) • [osu! 目錄文件](/wiki/osu!_Program_Files)
 
-[檔案格式](/wiki/osu!_File_Formats)：[.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[檔案格式](/wiki/osu!_File_Formats)：[.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
