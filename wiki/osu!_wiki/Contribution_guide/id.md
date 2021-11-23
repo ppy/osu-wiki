@@ -98,7 +98,7 @@ Pada titik ini, kamu memiliki dua pilihan dalam penyuntingan file:
 
 10. Setelah semuanya siap, klik tombol `Create pull request`.
 
-    ![](img/new-pull-request.jpg "Selesai dan sempurna")
+    ![](img/new-pull-request.png "Selesai dan sempurna")
 
 11. Lihat tahap [Peninjauan](#peninjauan) dan tahap [Penggabungan](#penggabungan) di bawah.
 

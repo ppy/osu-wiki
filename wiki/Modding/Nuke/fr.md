@@ -4,9 +4,7 @@ Les **nukes** étaient un outil de modération des [beatmaps](/wiki/Beatmap) dan
 
 Lorsqu'une beatmap était nuked, il avait un symbole radioactif ![](/wiki/shared/icon/nuke.gif) sur son fil de discussion. Cela signalait aux autres membres du BAT/GMT qu'elle ne devait pas être considérée pour la section [classée](/wiki/Beatmap_ranking_procedure#classée) sans changements importants. Si une beatmap a effectué les modifications correspondantes, l'icône sera supprimée et elle pourra poursuivre le [processus de classement](/wiki/Beatmap_ranking_procedure).
 
-::: Infobox
 ![](img/forum-listing-nuke.png "Les beatmaps nuked et leurs fils de discussion dans le sous-forum Graveyard")
-:::
 
 Les beatmaps peuvent être nuked pour une multitude de raisons, mais les plus courantes sont :
 
