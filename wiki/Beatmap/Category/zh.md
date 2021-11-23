@@ -9,19 +9,17 @@ outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 
 **谱面**是对音乐创建的游戏关卡。它们包含了 [击打物件](/wiki/Hit_object) 、 [timing](/wiki/Beatmap_Editor/Timing) 信息、难度设置，以及视觉特效。
 
-谱面是 **[谱面集](Beatmapsets)** 的一个部分。谱面集将一些谱面集合在一起以 [提交](/wiki/Submission) 至网站并显示在 [谱面列表](https://osu.ppy.sh/beatmapsets) 中。这些在同一谱面集的谱面通常包含同一个乐曲，但 [难度](/wiki/Beatmap/Difficulty) 互不相同。
+谱面是 **[谱面集](/wiki/Beatmap)** 的一个部分。谱面集将一些谱面集合在一起以 [提交](/wiki/Submission) 至网站并显示在 [谱面列表](https://osu.ppy.sh/beatmapsets) 中。这些在同一谱面集的谱面通常包含同一个乐曲，但 [难度](/wiki/Beatmap/Difficulty) 互不相同。
 
 ## 谱面类别
 
 被提交到网站上的谱面会依照其最近活动情况、提名状态、及流行度被分入不同的谱面类别中：
 
-- [谱面](#谱面)
-  - [谱面类别](#谱面类别)
-    - [Graveyard](#graveyard)
-    - [Work in Progress 和 Pending](#work-in-progress-和-pending)
-    - [Qualified](#qualified)
-    - [Ranked](#ranked)
-    - [Loved](#loved)
+- [Graveyard](#graveyard)
+- [Work in Progress 和 Pending](#work-in-progress-和-pending)
+- [Qualified](#qualified)
+- [Ranked](#ranked)
+- [Loved](#loved)
 
 ### Graveyard
 
@@ -37,7 +35,7 @@ Work in Progress （通常缩写为 *WIP* ） 和 Pending 是谱面初次提交�
 
 ### Qualified
 
-让一张铺面进入 Qualified 类别是 [谱面 ranking 流程](/wiki/Beatmap_ranking_procedure) 的最后一步。这样的谱面应当是被至少两名 [谱面提名小组](/wiki/People/The_Team/Beatmap_Nominators) 成员提名并均认同该谱面符合 [ranking 准则](/wiki/Ranking_Criteria) 中规范的谱面。 在 Qualified 类别中的谱面会进入 [ranking 队列](/wiki/Beatmap_ranking_procedure#moving-to-ranked) 中，并且最终会成为一张 [Ranked](#ranked) 状态的谱面，除非这些谱面从队列中被 [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets) 出去。作为错误与缺陷的最后一道防线，这种举措（disqualify）能够消除并改正可能的存在遗漏之处。
+让一张铺面进入 Qualified 类别是 [谱面 ranking 流程](/wiki/Beatmap_ranking_procedure) 的最后一步。这样的谱面应当是被至少两名 [谱面提名小组](/wiki/People/The_Team/Beatmap_Nominators) 成员提名并均认同该谱面符合 [ranking 准则](/wiki/Ranking_Criteria) 中规范的谱面。 在 Qualified 类别中的谱面会进入 [ranking 队列](/wiki/Beatmap_ranking_procedure#ranked) 中，并且最终会成为一张 [Ranked](#ranked) 状态的谱面，除非这些谱面从队列中被 [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets) 出去。作为错误与缺陷的最后一道防线，这种举措（disqualify）能够消除并改正可能的存在遗漏之处。
 
 类别为 Qualified 的谱面拥有排行榜，但不会有 [PP](/wiki/Performance_points) 的奖励，并且一旦该谱面的类别不再是 Qualified ，所有的成绩都将会被移除。这些谱面在选歌界面中使用对勾图标（![](/wiki/shared/status/qualified.png)）。
 

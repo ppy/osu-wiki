@@ -523,7 +523,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 ## Liens divers
 
-- [Liste des pays ayant participé à des compétitions de osu!](Countries_that_participated_in_osu!_tournaments)
+- [Liste des pays ayant participé à des compétitions de osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 - [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/community/forums/topics/247090)
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"

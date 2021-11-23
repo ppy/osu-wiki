@@ -72,7 +72,7 @@ Diese Kürzel können überall verwendet werden:
 - `F3`: Beatmap-Optionen
 - `F5`: Beatmaps neu einlesen (kann einen Dialog öffnen)
 - `Shift` + `Entf`: Die ausgewählte Beatmap entfernen
-- `Strg` + `1`: Zu [osu!](/wiki/Disambiguation/osu!) wechseln
+- `Strg` + `1`: Zu [osu!](/wiki/Game_mode/osu!) wechseln
 - `Strg` + `2`: Zu [osu!taiko](/wiki/Game_mode/osu!taiko) wechseln
 - `Strg` + `3`: Zu [osu!catch](/wiki/Game_mode/osu!catch) wechseln
 - `Strg` + `4`: Zu [osu!mania](/wiki/Game_mode/osu!mania) wechseln

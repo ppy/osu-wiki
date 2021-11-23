@@ -72,7 +72,7 @@ Note: Tout ne fonctionne pas en mode [multi](/wiki/Multi) dans l'écran de séle
 - `F3`: Options de Beatmap
 - `F5`: Retraite les beatmaps (cela peut montrer une fenêtre de dialogue)
 - `Shift` + `Delete`: Supprime la map sélectionnée
-- `Ctrl` + `1`: Basculer vers [osu!](/wiki/Disambiguation/osu!)
+- `Ctrl` + `1`: Basculer vers [osu!](/wiki/Game_mode/osu!)
 - `Ctrl` + `2`: Basculer vers [osu!taiko](/wiki/Game_mode/osu!taiko)
 - `Ctrl` + `3`: Basculer vers [osu!catch](/wiki/Game_mode/osu!catch)
 - `Ctrl` + `4`: Basculer vers [osu!mania](/wiki/Game_mode/osu!mania)
