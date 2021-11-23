@@ -29,7 +29,7 @@ Essendo la guida al mondo del ritmo, dei battiti, e dei flash, osu! ha molto da 
 
 [Interfaccia](/wiki/Interface) • [Opzioni](/wiki/Options) • [Impostazioni visive](/wiki/Visual_Settings) • [Fonte delle scorciatoie da tastiera](/wiki/Shortcut_key_reference) • [File di configurazione](/wiki/osu!_Program_Files/User_Configuration_File) • [File del programma](/wiki/osu!_Program_Files)
 
-[Formati dei File](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[Formati dei File](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
