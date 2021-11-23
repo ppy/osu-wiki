@@ -25,7 +25,7 @@ You might be asking, what exactly counts as "winter"? You are also probably not 
 
 The artists among us brave enough to take up the challenge will find they have the standard **14 days** to whip something wonderful up for us all to vote on.
 
-The finalist entries (usually a selection of 15 or more) will make it to the osu! main menu as our Winter seasonal backgrounds, and their artists will also receive a nice lump of osu!supporter to the tune of 3 months. The top 3 entries will also have their success immortalized in the form of profile badges.
+The finalist entries (usually a selection of 15 or more) will make it to the osu! main menu as our Winter Seasonal backgrounds, and their artists will also receive a nice lump of osu!supporter to the tune of 3 months. The top 3 entries will also have their success immortalized in the form of profile badges.
 
 Before you go racing on to submit your entry, make sure you read the rules below first:
 
