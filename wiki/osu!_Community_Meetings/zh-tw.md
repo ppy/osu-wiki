@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu! 社群會議 (osu! community meetings)
 
 **osu! 社群會議**是由 [osu! 團隊](/wiki/People/The_Team)隔周舉行的討論會談。主要目的為讓任何人都有機會與開發與社群管理團隊直接對話，並提出問題供討論或進一步考慮。
