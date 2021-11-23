@@ -6,7 +6,7 @@
 
 Enthalten ist ein komplett überarbeitetes Spielsystem mit neuen Spielelementen, wie den Hold-Circles und verbundenen Beats. Klassische osu! Beatmaps werden nicht ohne manuelle Umwandlung unterstützt. Stattdessen wurden neue Beatmaps explizit von einem besonderen Team an Mappern erstellt, um die Chance der neuen Spielelemente auszunutzen. Diese neuen Beatmaps haben einen [strikteren Standard](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
-[osu!stream wurde ausführlich behandelt im osu!monthly \#5 mit einem Interview.](https://osu.ppy.sh/community/forums/topics/59924)
+[osu!stream wurde in osu!monthly \#5 zusammen mit einem Interview vorgestellt.](https://osu.ppy.sh/community/forums/topics/59924)
 
 Die Entwicklung für diese Version endete in 2020. Für mehr Informationen, lies den [Blog-Beitrag](https://blog.ppy.sh/osu-stream-2020-release/) über ihre letzte Veröffentlichung. Der Quellcode zusammen mit den Beatmap-Konvertierungs- und Test-Tools wurde im selben Jahr unter einer freien Lizenz auf [GitHub](https://github.com/ppy/osu-stream) zur Verfügung gestellt. Alle zuvor kostenpflichtigen Beatmaps sind jetzt kostenlos im in-game "Store" erhältlich.
 
@@ -89,7 +89,7 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen, lies
 
 - Hold-Circles müssen vom Spieler längere Zeit gehalten werden, bis der Kreis "explodiert".
 - Die Treffergenauigkeit wird dadurch bestimmt, wie früh oder spät der Kreis getroffen wurde und ob dieser bis zum Ende gehalten wurde.
-  - Wenn der Finger hochgehoben wurde, bevor der Kreis "explodiert" ist, dann wird der Combomultiplizierer auf 0 zurückgesetzt. Allerdings erhält man keinen Miss solange der Hold-Circle getroffen wurde.
+  - Wenn der Finger hochgehoben wurde, bevor der Kreis "explodierte", wird der Combo-Multiplikator auf 0 zurückgesetzt. Allerdings erhält man keinen Miss solange der Hold-Circle getroffen wurde.
   - Wenn der Spieler den Kreis nicht gehalten hat, werden solange Lebenspunkte abgezogen, bis der Hold-Circle explodiert ist.
 
 ### Neue Modi, welche die Schwierigkeit ersetzen
@@ -132,7 +132,7 @@ Der Streammodus ist ein exklusiver Modus in osu!stream. In diesem Modus starten 
 
 Lange Rede kurzer Sinn, der Spieler startet zwischen Leicht und Schwer.
 
-Beachte, dass der Spieler **mindestens einen A Rang (>80% Genauigkeit) in diesem Modus haben muss, um den Expertenmodus des Songs freizuschalten**. Wenn die Genauigkeit kleiner als 80% beträgt, egal ob es eine volle Combo war, wird kein A vergeben (Es gilt meistens als B).
+Beachte, dass der Spieler **mindestens einen A Rang (>80% Genauigkeit) in diesem Modus haben muss, um den Expertenmodus des Songs freizuschalten**. Eine Genauigkeit von weniger als 80%, egal ob es eine volle Combo war, zählt nicht als A (Es gilt dann wie üblich als B).
 
 Die Hintergrundfarbe ist grün (Leicht), blau (Normal), und pink (Schwer).
 
@@ -160,7 +160,7 @@ Die Hintergrundfarbe ist grün (Leicht), blau (Normal), und pink (Schwer).
 
 **Schwierigkeitsgrad: Experte**
 
-Am Anfang gesperrt und nur durch ein A oder besser im Streammodus freischaltbar, ist der Expertenmodus ist für alle gedacht, die eine größere Herausforderung suchen. In diesem Modus bekommen Spieler eineinhalb Lebensleisten und müssen diese bis zum Ende des Songs erhalten. Der erflogreiche Abschluss schaltet nicht frei außer das Recht zum Angeben.
+Am Anfang gesperrt und nur durch ein A oder besser im Streammodus freischaltbar. Der Expertenmodus ist für Spieler, die eine größere Herausforderung suchen. In diesem Modus erhalten die Spieler einen vollen Lebensbalken und müssen ihn bis zum Ende des Liedes erhalten. Der erfolgreiche Abschluss schaltet nichts frei außer das Recht zum Angeben.
 
 Die Hintergrundfarbe ist violett und die Lichter verdunkeln sich, abhängig von den aktuellen Lebenspunkten
 
@@ -222,7 +222,7 @@ Die Hintergrundfarbe ist violett und die Lichter verdunkeln sich, abhängig von 
 
 ## Punktevergabe
 
-*Hinweis: Die Rangliste kann noch im Spiel angesehen werden, allerdings werden keine neuen Punktestände angenommen.*
+*Hinweis: Die Rangliste kann noch im Spiel angesehen werden, allerdings werden keine neuen Punktestände mehr angenommen.*
 
 ### Genauigkeit
 
@@ -245,7 +245,7 @@ Die Punkte, die von jedem Hit-Circle und jedem Ende eines Sliders vergeben werde
 | :-: | :-- |
 | **Trefferwert** | Die Bewertung des Hit-Circles (50, 100 oder 300). |
 | **Combo-Multiplikator** | (Combo vor dem Treffer - 1) oder 0; abhängig davon, was höher ist. |
-| **Fester Multiplizierer** | Der Multiplizierer der den Punktestand bei 600.000 fixiert. |
+| **Fester Multiplikator** | Der Multiplikator der den Punktestand bei 600.000 fixiert. |
 
 Außerdem gibt es für jeden Start-, End- und Wiederholungstick eines Sliders 30 Punkte und für jede volle Umdrehung eines Spinners 100 Punkte.
 Es gibt einen weiteren Bonus von 10 Punkten, abhängig von den Umdrehungen pro Minute nachdem die Spinnermessbar gefüllt ist.
@@ -265,15 +265,15 @@ Es gibt einen weiteren Bonus von 10 Punkten, abhängig von den Umdrehungen pro M
   - 100 für einen weniger präzisen anfänglichen Treffer und das richtige Halten.
   - 50 dafür, dass er zumindest berührt wurde.
   - 30 für jede Explosion.
-  - Der Multiplizierer wird zurückgesetzt, wenn die Kreise nicht korrekt gehalten wurden. Ein Miss wird vergeben, wenn die Kreise überhaupt nicht gehalten wurden.
+  - Der Multiplikator wird zurückgesetzt, wenn die Kreise nicht korrekt gehalten wurden. Ein Miss wird vergeben, wenn die Kreise überhaupt nicht gehalten wurden.
 
 **Slider**
 
 - **Die Bewertung von Slidern hängt von der Genauigkeit der anfänglichen Berührung ab**.
 - Slider bestehen aus Sliderticks, die den Start, das Ende und die repeat points des Sliders einbeziehen.
   - Einen 300er, wenn man alle Sliderticks erreicht und einen genauen ersten Treffer hat.
-  - Eine 100, wenn mindestens die Hälfte des Sliders mit einem guten initialen Treffer getroffen wurde.
-  - Eine 50, wenn mindestens ein Slidertick oder der initiale Treffer getroffen wurde.
+  - Einen 100er, wenn mindestens die Hälfte des Sliders mit einem guten ersten Treffer getroffen wurde.
+  - Einen 50er, wenn mindestens ein Slidertick oder der erste Treffer getroffen wurde.
 - **Einen Slider viel zu früh zu tippen** wird keinen Miss erzeugen, aber **wird den Punktemultiplikator auf 0 zurücksetzen**.
 - Ein Miss, wenn der Slider überhaupt nicht gehalten wurde.
 
@@ -284,7 +284,7 @@ Es gibt einen weiteren Bonus von 10 Punkten, abhängig von den Umdrehungen pro M
 
 ### Multiplikator
 
-Das Folgende erhöht den Punktemultiplizierer um jeweils einen Punkt:
+Das Folgende erhöht den Punktemultiplikator um jeweils einen Punkt:
 
 - Treffer auf einem Hit-Circle.
 - Der Start, das Ende und jeder Hold-Tick eines Hold-Circles.
@@ -295,10 +295,10 @@ Das Folgende setzt den Punktemultiplikator auf null zurück:
 
 - Einen Hit-Circle verfehlen.
 - Den Hold-Circle loszulassen, bevor dieser explodiert ist.
-- Unfähig, die verbundenen Beats gleichzeitig zu treffen. (Einen treffen und den anderen verfehlen)
+- Die verbundenen Beats nicht gleichzeitig treffen. (Einen treffen und den anderen verfehlen)
 - Einen Slider zu früh klicken.
 - Den Sliderstart oder einen Slidertick verfehlen.
-- Unfähig, die Spinnermessleiste vollständig zu füllen.
+- Die Spinnermessleiste nicht vollständig füllen.
 
 Das Folgende wird den Punktemultiplikator weder erhöhen noch zurücksetzen:
 
