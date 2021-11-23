@@ -1,5 +1,4 @@
 ---
-outdated: true
 layout: main_page
 ---
 
@@ -27,7 +26,7 @@ Als Wegweiser in die Welt des Rhythmus, des Beats und der Blitzlichter hat osu! 
 
 [Benutzeroberfläche](/wiki/Interface) • [Optionen](/wiki/Options) • [Visuelle Einstellungen](/wiki/Visual_Settings) • [Tastenkürzel-Referenzen](/wiki/Shortcut_key_reference) • [Konfigurationsdatei](/wiki/osu!_Program_Files/User_Configuration_File) • [Programmdateien](/wiki/osu!_Program_Files)
 
-[Dateiformate](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[Dateiformate](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">

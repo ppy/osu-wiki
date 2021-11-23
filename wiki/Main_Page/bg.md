@@ -1,5 +1,4 @@
 ---
-outdated: true
 layout: main_page
 no_native_review: true
 ---
@@ -28,7 +27,7 @@ no_native_review: true
 
 [Интерфейс](/wiki/Interface) • [Опции](/wiki/Options) • [Визуални настройки](/wiki/Visual_Settings) • [Клавишни комбинации](/wiki/Shortcut_key_reference) • [Конфигурационен файл](/wiki/osu!_Program_Files/User_Configuration_File) • [Програмни файлове](/wiki/osu!_Program_Files)
 
-[Файлов формат](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[Файлов формат](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
