@@ -248,7 +248,7 @@ Die Punkte, die von jedem Hit-Circle und jedem Ende eines Sliders vergeben werde
 | **Fester Multiplikator** | Der Multiplikator der den Punktestand bei 600.000 fixiert. |
 
 Außerdem gibt es für jeden Start-, End- und Wiederholungstick eines Sliders 30 Punkte und für jede volle Umdrehung eines Spinners 100 Punkte.
-Es gibt einen weiteren Bonus von 10 Punkten, abhängig von den Umdrehungen pro Minute nachdem die Spinnermessbar gefüllt ist.
+Es gibt einen weiteren Bonus von 10 Punkten, abhängig von den Umdrehungen pro Minute, nachdem die Spinnermessleiste gefüllt ist.
 
 ### Bewertung des Hit-Circles
 
