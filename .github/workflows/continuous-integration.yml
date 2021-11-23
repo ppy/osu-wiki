@@ -101,7 +101,7 @@ jobs:
             done <<< "$1"
 
             echo -e "\nIf your changes DON'T NEED to be added to the translations, add $( echo_red $PULL_REQUEST_TAG ) anywhere in the description of your pull request."
-            echo -e "Otherwise, add the following to each article's front matter:\n"
+            echo -e "Otherwise, add the following to each article's front matter (https://osu.ppy.sh/wiki/en/Article_styling_criteria/Formatting#front-matter):\n"
             echo_green "---"
             echo_green "outdated: true"
             if [[ -n "$2" ]]; then
