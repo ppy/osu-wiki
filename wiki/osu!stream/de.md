@@ -2,13 +2,13 @@
 
 ![](img/Os-Logo.jpg "Logo von osu!stream")
 
-**osu!stream** ist eine Version von osu!, die von Grund auf neu entwickelt wurde und extra für berührungssensitive Geräte ausgelegt ist. Aktuell ist sie nur für Apples [iOS](http://en.wikipedia.org/wiki/IOS)-Plattform verfügbar. Ein [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29)-Port war geplant und beinahe fertig, wurde aber nicht veröffentlicht, da es Probleme bei der Audiolatenz gab. Dadurch wurde der Spielspaß massiv beeinträchtigt.
+**osu!stream** ist eine Version von osu!, die von Grund auf neu entwickelt wurde und extra für touch-fähige Geräte ausgelegt ist. Aktuell ist sie nur für Apples [iOS](http://en.wikipedia.org/wiki/IOS)-Plattform verfügbar. Ein [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29)-Port war geplant und beinahe fertig, wurde aber nicht veröffentlicht, da es Probleme bei der Audiolatenz gab. Dadurch wurde der Spielspaß massiv beeinträchtigt.
 
-Enthalten ist ein komplett überarbeitetes Spielsystem mit neuen Spielelementen, wie den Hold-Circles und verbundenen Beats. Klassische osu! Beatmaps werden nicht ohne manuelle Umwandlung unterstützt. Stattdessen wurden neue Beatmaps explizit von einem besonderen Team an Mappern kreiert, um die Chance der neuen Spielelemente auszunutzen. Diese neuen Beatmaps haben einen [strikteren Standard](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
+Enthalten ist ein komplett überarbeitetes Spielsystem mit neuen Spielelementen, wie den Hold-Circles und verbundenen Beats. Klassische osu! Beatmaps werden nicht ohne manuelle Umwandlung unterstützt. Stattdessen wurden neue Beatmaps explizit von einem besonderen Team an Mappern erstellt, um die Chance der neuen Spielelemente auszunutzen. Diese neuen Beatmaps haben einen [strikteren Standard](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
 [osu!stream wurde ausführlich behandelt im osu!monthly \#5 mit einem Interview.](https://osu.ppy.sh/community/forums/topics/59924)
 
-Die Entwicklung für diese Version endete in 2020. Für mehr Informationen, lese den [Blog-Beitrag](https://blog.ppy.sh/osu-stream-2020-release/) über ihre letzte Veröffentlichung. Der Quellcode sowie die Werkzeuge zur Umwandlung und zum Testen wurden im selben Jahr unter einer freien Lizenz auf [GitHub](https://github.com/ppy/osu-stream) zur Verfügung gestellt. Alle zuvor kommerziellen Beatmaps sind jetzt kostenlos im in-game "Store" erreichbar.
+Die Entwicklung für diese Version endete in 2020. Für mehr Informationen, lies den [Blog-Beitrag](https://blog.ppy.sh/osu-stream-2020-release/) über ihre letzte Veröffentlichung. Der Quellcode zusammen mit den Beatmap-Konvertierungs- und Test-Tools wurde im selben Jahr unter einer freien Lizenz auf [GitHub](https://github.com/ppy/osu-stream) zur Verfügung gestellt. Alle zuvor kostenpflichtigen Beatmaps sind jetzt kostenlos im in-game "Store" erhältlich.
 
 ## Installation
 
@@ -21,7 +21,7 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen, lese
 - Gehe zu "App Store" in deinem iDevice
 - Suche nach osu!stream
 - Installiere osu!stream
-  - Wenn nach der Apple ID und dem Passwort gefragt wird, bitte gebe diese Dinge ein.
+  - Wenn nach der Apple ID und dem Passwort gefragt wird, gebe diese bitte ein.
 - osu!stream kann gespielt werden, nachdem die App heruntergeladen und installiert wurde.
   - Es wird empfohlen, auch das "Beatmaps hinzufügen" Kapitel zu lesen, um an die neusten kostenlosen Songs zu kommen. Der aktuelle Download enthält nur zwei Songs.
 
@@ -43,7 +43,7 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen, lese
 - Drücke auf das osu! Symbol und du solltest direkt in das Hauptmenü weitergeleitet werden (oder das Tutorial beim ersten Mal)
 - Drücke die "Store" Leiste
   - Alternativ kannst du auch in der "Play" Sektion auf "Download more songs!" drücken.
-- Wähle dein Wunschpaket.
+- Wähle ein gewünschtes Paket aus.
 
 ## Was ist der Unterschied?
 
@@ -51,16 +51,16 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen, lese
 - Beatmaps sind von Grund auf neu gemacht.
 - Es wird kein Account zum Herunterladen von Songpaketen benötigt.
 - osu!stream kann mit einem Twitterkonto genutzt werden.
-- Höchstpunktestände dürfen anonym zur Seite als "Guest" gesendet werden (benötigt eine Internetverbindung).
+- Highscores können anonym zur Seite als "Guest" gesendet werden (benötigt eine Internetverbindung).
 - Der Circle-Timer wird ersetzt und befindet sich nun unten mit einer kleinen Grenzlinie, die abhängig von der Genauigkeit des Spielverlaufs gefärbt ist. \[Bottom(Long)\]
 - Die **Durchschnittliche Abweichung** wird am Ergebnisbildschirm angezeigt.
 - Alte Rekorde und Aufzeichnungen können nicht gespeichert werden.
 - Der Skin kann nicht gewechselt werden und Mods sind nicht auswählbar (bislang).
-- Easter Eggs können gefunden werde, aber es gibt noch keine Seite für Errungenschaften...
+- Easter Eggs können gefunden werden, aber es gibt noch keine Seite für Errungenschaften...
 
 ### Neues Spielsystem
 
-**Information:** Teste die neuen Spielelemente im "Tutorial" Bildschirm.
+**Tipp:** Teste die neuen Spielelemente im "Tutorial" Bildschirm.
 
 #### Fingerführungsanzeige
 
@@ -92,7 +92,7 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen, lese
   - Wenn der Finger hochgehoben wurde, bevor der Kreis "explodiert" ist, dann wird der Combomultiplizierer auf 0 zurückgesetzt. Allerdings erhält man keinen Miss solange der Hold-Circle getroffen wurde.
   - Wenn der Spieler den Kreis nicht gehalten hat, werden solange Lebenspunkte abgezogen, bis der Hold-Circle explodiert ist.
 
-### Ersetzen der Schwierigkeit durch Modi
+### Neue Modi, welche die Schwierigkeit ersetzen
 
 ---
 
@@ -118,7 +118,7 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen, lese
 
 **Schwierigkeitsgrad: Easy + [NoFail](/wiki/Game_modifier/No_Fail)**
 
-Der leichte Modus ist für Anfänger gedacht, die sich an die Spieltechnik von osu!stream gewöhnen müssen. Der Spielverlauf ist wesentlich langsamer für neue Spieler, sodass diese den Flow und das Timing zum Treffen verstehen können. Lebensleisten werden nicht vergeben und den leichten Modus zu spielen wird den Expertenmodus nicht freischalten.
+Der leichte Modus ist für Anfänger gedacht, die sich an die Spieltechnik von osu!stream gewöhnen müssen. Der Spielverlauf ist wesentlich langsamer, sodass neue Spieler den Flow und das Timing zum Treffen verstehen können. Lebensleisten werden nicht vergeben und durch das Spielen des leichten Modus wird der Expertenmodus nicht freigeschaltet.
 
 Die Hintergrundfrabe ist grün.
 
@@ -128,7 +128,7 @@ Die Hintergrundfrabe ist grün.
 
 **Schwierigkeitsgrad: Easy ("Stream Down!" von Normal aus) ~ Normal (Startpunkt) ~ Hard ("Stream Up!" von Normal aus)**
 
-Der Streammodus ist ein exclusiver Modus in osu!stream. In diesem Modus starten Spieler mit einer zur Hälfte gefüllten "zweiten" Lebensleiste und der normale Modus ist eingestellt. Der Spieler muss darauf die Lebensleiste füllen, um "Stream Up!" zu aktivieren, was im Grunde die Schwierigkeit erhöht (durch das Hinzufügen von weiteren Objekten und dem Wechsel zum schweren Schwierigkeitsgrad der Map). Dies ist aber immer noch bedeutend einfacher als der Expertenmodus. Wenn der Spieler in den "Stream Up!" Modus gelangt, dann wird eine Lebensleiste vergeben. Sollte diese Lebensleiste leer werden, wird "Stream Down!" erscheinen. Der Schwierigkeitsgrad geht danach zurück auf Normal oder Leicht, abhängig von der Anzahl der Lebensleisten.
+Der Streammodus ist ein exklusiver Modus in osu!stream. In diesem Modus starten Spieler mit einer zur Hälfte gefüllten "zweiten" Lebensleiste und der normale Schwierigkeitsgrad ist eingestellt. Der Spieler muss darauf die Lebensleiste füllen, um "Stream Up!" zu aktivieren, was im Grunde die Schwierigkeit erhöht (durch das Hinzufügen von weiteren Objekten und dem Wechsel zum schweren Schwierigkeitsgrad der Map). Dies ist aber immer noch bedeutend einfacher als der Expertenmodus. Wenn der Spieler in den "Stream Up!" Modus gelangt, dann wird eine Lebensleiste vergeben. Sollte diese Lebensleiste leer werden, wird "Stream Down!" erscheinen. Der Schwierigkeitsgrad geht danach zurück auf Normal oder Leicht, abhängig von der Anzahl der Lebensleisten.
 
 Lange Rede kurzer Sinn, der Spieler startet zwischen Leicht und Schwer.
 
@@ -146,11 +146,11 @@ Die Hintergrundfarbe ist grün (Leicht), blau (Normal), und pink (Schwer).
 
 ---
 
-![](img/Os-Zero1.png "Lebenspunkte an einem kritischen Punkt")
+![](img/Os-Zero1.png "Kritische Gesundheit")
 
 ---
 
-![](img/Os-Zero2.png "Spiel vorüber")
+![](img/Os-Zero2.png "Spiel vorbei")
 
 ---
 
@@ -239,42 +239,42 @@ Mit anderen Worten, jeder Miss ist 0%, jeder 50er ist 25%, jeder 100er ist 50% u
 
 Die Punkte, die von jedem Hit-Circle und jedem Ende eines Sliders vergeben werden, werden mit folgender Formel berechnet:
 
-`Punkte = Trefferwert + Trefferwert * (Combomultiplizierer * fester Multiplizierer) / 25`
+`Punkte = Trefferwert + Trefferwert * (Combo-Multiplikator * fester Multiplikator) / 25`
 
 | Begriff | Bedeutung |
 | :-: | :-- |
 | **Trefferwert** | Die Bewertung des Hit-Circles (50, 100 oder 300). |
-| **Combomultiplizierer** | (Combo vor dem Treffer - 1) oder 0; abhängig davon, was höher ist. |
+| **Combo-Multiplikator** | (Combo vor dem Treffer - 1) oder 0; abhängig davon, was höher ist. |
 | **Fester Multiplizierer** | Der Multiplizierer der den Punktestand bei 600.000 fixiert. |
 
-Zusätzlich gibt jeder Sliderstart, -ende und -repeat tick 30 Punkte und jede volle Umdrehung eines Spinners gibt 100 Punkte.
+Außerdem gibt es für jeden Start-, End- und Wiederholungstick eines Sliders 30 Punkte und für jede volle Umdrehung eines Spinners 100 Punkte.
 Es gibt einen weiteren Bonus von 10 Punkten, abhängig von den Umdrehungen pro Minute nachdem die Spinnermessbar gefüllt ist.
 
 ### Bewertung des Hit-Circles
 
 **Hit-Circles**
 
-- Eine 300, 100 oder 50 wird bei einem normalen Hit-Circle verliehen, abhängig von der Treffgenauigkeit.
+- Ein 300er, 100er oder 50er wird bei einem normalen Hit-Circle verliehen, abhängig von der Treffgenauigkeit.
 - Ein Miss wird vergeben, wenn ein Hit-Circle zu früh oder überhaupt nicht getroffen wurde.
-  - Wenn das Objekt viel viel zu früh getroffen wird, wackelt es stattdessen. Nichts wird ansosnten passieren, außer die Visualisierung, dass das Objekt zu früh getroffen wurde.
+  - Wenn das Objekt sehr, sehr früh getroffen wird, wackelt es stattdessen. Dabei passiert technisch gesehen nichts, außer dass man visuell erkennen kann, dass es zu früh angetippt wurde.
 
 **Hold-Circle**
 
-- Die Bewertung des Hold-Circles hängt ab von dem initialen Treffer und die Haltezeit, bis der Kreis explodiert.
+- Die Bewertung des Hold-Circles hängt von der anfänglichen Berührung und der Haltezeit vor der Explosion ab.
   - 300 bei perfekter Ausführung.
-  - 100 für einen leicht inkorrekten initialen Treffer und den Kreis richtig halten.
-  - 50 für eine leichte Berührung.
+  - 100 für einen weniger präzisen anfänglichen Treffer und das richtige Halten.
+  - 50 dafür, dass er zumindest berührt wurde.
   - 30 für jede Explosion.
   - Der Multiplizierer wird zurückgesetzt, wenn die Kreise nicht korrekt gehalten wurden. Ein Miss wird vergeben, wenn die Kreise überhaupt nicht gehalten wurden.
 
 **Slider**
 
-- **Die Bewertung von Slidern hängt ab von der Genauigkeit des initialen Treffers**.
+- **Die Bewertung von Slidern hängt von der Genauigkeit der anfänglichen Berührung ab**.
 - Slider bestehen aus Sliderticks, die den Start, das Ende und die repeat points des Sliders einbeziehen.
-  - Eine 300, wenn man alle Sliderticks erreicht und einen akkuraten initialen Treffer hat.
+  - Einen 300er, wenn man alle Sliderticks erreicht und einen genauen ersten Treffer hat.
   - Eine 100, wenn mindestens die Hälfte des Sliders mit einem guten initialen Treffer getroffen wurde.
   - Eine 50, wenn mindestens ein Slidertick oder der initiale Treffer getroffen wurde.
-- **Einen Slider viel zu früh zu tippen** wird keinen Miss erzeugen, aber **wird den Punktemultiplizierer auf 0 zurücksetzen**.
+- **Einen Slider viel zu früh zu tippen** wird keinen Miss erzeugen, aber **wird den Punktemultiplikator auf 0 zurücksetzen**.
 - Ein Miss, wenn der Slider überhaupt nicht gehalten wurde.
 
 **Spinner**
@@ -282,7 +282,7 @@ Es gibt einen weiteren Bonus von 10 Punkten, abhängig von den Umdrehungen pro M
 - Für einen Spinner werden 300er, 100er oder 50er vergeben, abhängig von der Anzahl der gemachten Spins verglichen mit der Länge des Spinners.
 - Ein Miss, wenn die Spinnermessleiste, die auf beiden Seiten des Spinners zu sehen ist, nicht gefüllt wurde.
 
-### Multiplizierer
+### Multiplikator
 
 Das Folgende erhöht den Punktemultiplizierer um jeweils einen Punkt:
 
@@ -291,7 +291,7 @@ Das Folgende erhöht den Punktemultiplizierer um jeweils einen Punkt:
 - Der Start, das Ende und jeder Slidertick eines Sliders.
 - Einen Spinner vervollständigen.
 
-Das Folgende setzt den Punktemultiplizierer auf null zurück:
+Das Folgende setzt den Punktemultiplikator auf null zurück:
 
 - Einen Hit-Circle verfehlen.
 - Den Hold-Circle loszulassen, bevor dieser explodiert ist.
@@ -300,7 +300,7 @@ Das Folgende setzt den Punktemultiplizierer auf null zurück:
 - Den Sliderstart oder einen Slidertick verfehlen.
 - Unfähig, die Spinnermessleiste vollständig zu füllen.
 
-Das Folgende wird den Punktemultiplizierer weder erhöhen noch zurücksetzen:
+Das Folgende wird den Punktemultiplikator weder erhöhen noch zurücksetzen:
 
 - Ein Sliderende verfehlen. (Es wird ein Good! oder ein 100/50 Treffer vergeben)
 - Punktebonus eines Spinners
@@ -326,7 +326,7 @@ Im **leichten Modus ist die Lebensleiste nicht vorhanden**.
 
 ![](img/Os-SUN.jpg "Beispiel eines Stream Up! von Normal aus")
 
-Im **Streammodus** erhält der Spieler drei Lebensleisten und startet mit der zweiten zur Hälfte gefüllten Lebensleiste. Spieler bewegen sich zwischen diesen beiden Lebensleisten via den **Stream Up!** und **Stream Down!** Systemen, die aktiviert werden, wenn die Lebensleiste komplett gefüllt oder geleert wird. Nach einer Ankündigung wechselt das Spiel zum neuen "Stream" durch das Austauschen des Hintergrunds und einem nahtlosem Wechsel zu einem höheren oder tieferen Schwierigkeitsgrad der Beatmap sowie das Tauschen der Lebensleisten. Wenn ein Stream Down! erscheint bekommt der Spieler temporäre Unbesiegbarkeit, während die Lebensleiste zu einem tieferen Schwierigkeitsgrad wechselt.
+Im **Streammodus** erhält der Spieler drei Lebensleisten und startet mit der zweiten zur Hälfte gefüllten Lebensleiste. Spieler bewegen sich zwischen diesen beiden Lebensleisten via den **Stream Up!** und **Stream Down!** Systemen, die aktiviert werden, wenn die Lebensleiste komplett gefüllt oder geleert wird. Nach einer Ankündigung wechselt das Spiel zum neuen "Stream" durch das Austauschen des Hintergrunds und einem nahtlosem Wechsel zu einem höheren oder niedrigeren Schwierigkeitsgrad der Beatmap sowie das Tauschen der Lebensleisten. Wenn ein Stream Down! erscheint bekommt der Spieler temporäre Unbesiegbarkeit, während die Lebensleiste zu einem niedrigeren Schwierigkeitsgrad wechselt.
 
 Im **Expertenmodus wird stattdessen eine volle Lebensleiste vergeben**.
 
@@ -339,7 +339,7 @@ Das Folgende füllt die Lebensleiste:
 
 Das Folgende reduziert die Lebensleiste:
 
-- Eine 50 erhalten.
+- Einen 50er erhalten.
 - Ein Hit-Object oder Slider verfehlen.
 - Nicht in einem Follow-Circle eines Sliders bleiben.
 - Nicht die Hold-Bubble halten, bis sie explodiert.
@@ -352,7 +352,7 @@ Im Gegensatz zu anderen Versionen von osu! reduziert sich die Lebensleiste hier 
 
 ### Warum ist (füge hier irgendeinen urheberrechtlich geschützten Song ein) nicht enthalten?
 
-Wegen der Schwierigkeit die Lizenz für den oben genannten Song zu bekommen.
+Wegen der Schwierigkeit eine Lizenz für den oben genannten Song zu bekommen.
 
 ### Wie komme ich an mehr Beatmaps?
 
@@ -363,9 +363,9 @@ Gehe zu der "Store" Sektion im Spiel oder drücke den "Download more songs..." K
 [nekodex - osu!stream theme (1.48)](https://soundcloud.com/nekodex/osu-stream-theme).
 Meistens im Hauptmenü und im Tutorial zu hören.
 
-### Danksagungen?
+### Credits?
 
-![](img/Os-Credit.jpg "Danksagungen")
+![](img/Os-Credit.jpg "Credits")
 
 ## Links
 
