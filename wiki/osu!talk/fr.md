@@ -2,7 +2,7 @@
 
 ![](img/osu!talk.jpg "Logo d'osu!talk")
 
-**osu!talk** est une série de podcasts animée par [ztrot](https://osu.ppy.sh/users/6347) avec [deadbeat](https://osu.ppy.sh/users/128370) comme co-animateur. Elle se concentre sur l'interview de divers utilisateurs de la communauté d'osu!. En plus de cela, il peut y avoir des discussions de groupe sur les différentes choses qui se passent dans la communauté, comme les changements de l'équipe l'[équipe d'osu!](/wiki/People/The_Team), ou des problèmes de longue durée souvent discutés, comme l'overmapping.
+**osu!talk** est une série de podcasts animée par [ztrot](https://osu.ppy.sh/users/6347) avec [deadbeat](https://osu.ppy.sh/users/128370) comme co-animateur. Elle se concentre sur l'interview de divers utilisateurs de la communauté d'osu!. En plus de cela, il peut y avoir des discussions de groupe sur les différentes choses qui se passent dans la communauté, comme les changements dans l'[équipe d'osu!](/wiki/People/The_Team), ou des problèmes de longue durée souvent discutés, comme l'overmapping.
 
 La série de podcasts est conçue de manière à ce que chacun soit libre de participer à la session en direct et de poser des questions pendant la partie publique [Q&A](https://fr.wikipedia.org/wiki/Q_%26_A) de l'épisode. Ces épisodes ne sont diffusés en direct nulle part, car nous préférons encourager les utilisateurs à participer eux-mêmes.
 
@@ -66,13 +66,13 @@ La série de podcasts est conçue de manière à ce que chacun soit libre de par
 
 | Épisode # | Sujet | Invité | Lien |
 | :-- | :-- | :-- | :-- |
-| 1 | Remaniement du personnel | [Charles445](https://osu.ppy.sh/users/85000), [Ephemeral](https://osu.ppy.sh/users/102335), et [OnosakiHito](https://osu.ppy.sh/users/290128) | [Lien](https://www.youtube.com/watch?v=c10Jiq1xZus) |
-| 2 | Surmapping | [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Loctav](https://osu.ppy.sh/users/71366), [MMzz](https://osu.ppy.sh/users/128993), et [OnosakiHito](https://osu.ppy.sh/users/290128) | [Lien](https://www.youtube.com/watch?v=RepSYE3hN3A) |
+| 1 | Remaniement du staff | [Charles445](https://osu.ppy.sh/users/85000), [Ephemeral](https://osu.ppy.sh/users/102335), et [OnosakiHito](https://osu.ppy.sh/users/290128) | [Lien](https://www.youtube.com/watch?v=c10Jiq1xZus) |
+| 2 | Overmapping | [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Loctav](https://osu.ppy.sh/users/71366), [MMzz](https://osu.ppy.sh/users/128993), et [OnosakiHito](https://osu.ppy.sh/users/290128) | [Lien](https://www.youtube.com/watch?v=RepSYE3hN3A) |
 | 3 | Modération | [Charles445](https://osu.ppy.sh/users/85000), [Flanster](https://osu.ppy.sh/users/447818), et [Kitokofox](https://osu.ppy.sh/users/1815420) | [Lien](https://www.youtube.com/watch?v=C1hvpnW5A7k) |
 | 4 | osu!academy et événements à venir | [Charles445](https://osu.ppy.sh/users/85000), [Kyonko Hizara](https://osu.ppy.sh/users/444868), et [Kitokofox](https://osu.ppy.sh/users/1815420) | [Lien](https://www.youtube.com/watch?v=-N44vLwJ9oM) |
 | 5 | osu! World Cup 2014 | [Charles445](https://osu.ppy.sh/users/85000), [cptnXn](https://osu.ppy.sh/users/495272), [Loctav](https://osu.ppy.sh/users/71366), [Mr Color](https://osu.ppy.sh/users/116078), [p3n](https://osu.ppy.sh/users/123703), et [ToGlette](https://osu.ppy.sh/users/1076236) | [Lien](https://www.youtube.com/watch?v=Tl0E8vqubjw) |
 | 6 | osu! World Cup Grand Finals | [cptnXn](https://osu.ppy.sh/users/495272), [Doomsday](https://osu.ppy.sh/users/18983), [Loctav](https://osu.ppy.sh/users/71366), [Mr Color](https://osu.ppy.sh/users/116078), et [Tom94](https://osu.ppy.sh/users/1857058) | [Lien](https://www.youtube.com/watch?v=bl63NpUz_T8) |
-| 7 | Difficultés des invités par rapport à l'ensemble des mappeurs | [Doomsday](https://osu.ppy.sh/users/18983), [shARPII](https://osu.ppy.sh/users/776257), et [WubWoofWolf](https://osu.ppy.sh/users/39828) | [Lien](https://www.youtube.com/watch?v=OMsHFRS662k) |
+| 7 | Les guest difficulties par rapport à l'ensemble des mappeurs | [Doomsday](https://osu.ppy.sh/users/18983), [shARPII](https://osu.ppy.sh/users/776257), et [WubWoofWolf](https://osu.ppy.sh/users/39828) | [Lien](https://www.youtube.com/watch?v=OMsHFRS662k) |
 | 8 | osu!next | [flyte](https://osu.ppy.sh/users/3103765), et [peppy](https://osu.ppy.sh/users/2) | [Lien](https://www.youtube.com/watch?v=jBUNIDa427Q) |
 | 9 | Légendes du cercle de clics addictif | [Charles445](https://osu.ppy.sh/users/85000), [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Flanster](https://osu.ppy.sh/users/447818), et [p3n](https://osu.ppy.sh/users/123703) | [Lien](https://www.youtube.com/watch?v=tIEuc4DK_nM) |
 | 10 | osu!next round 2 | [flyte](https://osu.ppy.sh/users/3103765), et [peppy](https://osu.ppy.sh/users/2) | [Lien](https://www.youtube.com/watch?v=tICLLkOlpno) |
@@ -90,7 +90,7 @@ La série de podcasts est conçue de manière à ce que chacun soit libre de par
 | 22 | Taiko World Cup 2017 | [OnosakiHito](https://osu.ppy.sh/users/290128), [Raiden](https://osu.ppy.sh/users/2239480), [magnomizer](https://osu.ppy.sh/users/1893718), et [Jaye](https://osu.ppy.sh/users/4841352) | [Lien](https://www.youtube.com/watch?v=3RXemratCb8) |
 | 23 | Tournois organisés par la communauté | [Doomsday](https://osu.ppy.sh/users/18983), [HappyStick](https://osu.ppy.sh/users/256802), et [juankristal](https://osu.ppy.sh/users/443656) | [Lien](https://www.youtube.com/watch?v=rqCvZq50MBc) |
 | 24 | Restructuration des Beatmap Nominators | [pishifat](https://osu.ppy.sh/users/3178418), [Seijiro](https://osu.ppy.sh/users/2581696), [Sonnyc](https://osu.ppy.sh/users/11771), [Xexxar](https://osu.ppy.sh/users/2773526), et [Yuii-](https://osu.ppy.sh/users/2935923) | [Lien](https://www.youtube.com/watch?v=Va0cHczm8Mk) |
-| 25 | Règles créés par la communauté | [Shawdooow](https://osu.ppy.sh/users/7726082), [ColdVolcano](https://osu.ppy.sh/users/7492333), et [andy840119](https://osu.ppy.sh/users/1030492) | [Lien](https://www.youtube.com/watch?v=0nuLwWejdII) |
+| 25 | Règles créées par la communauté | [Shawdooow](https://osu.ppy.sh/users/7726082), [ColdVolcano](https://osu.ppy.sh/users/7492333), et [andy840119](https://osu.ppy.sh/users/1030492) | [Lien](https://www.youtube.com/watch?v=0nuLwWejdII) |
 | 26 | osu!idol 2017 | [Flanster](https://osu.ppy.sh/users/447818), [Kyonko Hizara](https://osu.ppy.sh/users/444868), [CptHampton](https://osu.ppy.sh/users/3200587), et [HeatKai](https://osu.ppy.sh/users/332555) | [Lien](https://www.youtube.com/watch?v=Xz2R18xeqhI) |
 
 ## Spéciaux
