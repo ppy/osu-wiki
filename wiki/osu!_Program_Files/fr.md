@@ -38,11 +38,11 @@ Le dossier Localisation apparaît lorsque le joueur a changé de langue dans les
 
 ### Replays
 
-*Remarque : les replays étaient auparavant effectuées à un taux d'échantillonnage inférieur, mais elles sont désormais optimisées pour une meilleure expérience.*
+*Remarque : les replays étaient auparavant effectuées à un taux d'échantillonnage inférieur, mais elles sont désormais optimisés pour une meilleure expérience.*
 
-Le dossier Replays contient les fichiers replay du joueur. Un fichier replay ne fonctionne pas si les beatmaps qui lui sont liés sont absents. Le replay contient également les données de résultats, et réanime le mouvement du curseur du joueur pendant le replay. Pour créer un replay, appuyez sur F2 à l'écran des résultats, ou cliquez sur le bouton 'Enregistrer le replay dans le dossier Replays' (en Solo uniquement).
+Le dossier Replays contient les fichiers replay du joueur. Un fichier replay ne fonctionne pas si la beatmap qui lui est liée n'est pas présente dans le dossier Songs. Le replay contient également les données de résultats, et réanime le mouvement du curseur du joueur pendant le replay. Pour créer un replay, appuyez sur F2 à l'écran des résultats, ou cliquez sur le bouton 'Enregistrer le replay dans le dossier Replays' (en Solo uniquement).
 
-*Pour les joueurs qui souhaitent télécharger leur replay sur YouTube, voir : [Osr2mp4 public release. Conversion automatique du fichier de replays en vidéo](https://osu.ppy.sh/community/forums/topics/1104243)*
+*Pour les joueurs qui souhaitent mettre en ligne leur replay sur YouTube, voir : [Osr2mp4 public release. Automatically convert replay file to video](https://osu.ppy.sh/community/forums/topics/1104243)*
 
 La structure du nom de fichier est `Nom du joueur local} - {Artiste} - {Titre} {[Difficulté]}{(AAAA-MM-JJ)} {Mode de jeu}`. Un exemple de cette structure est présenté ci-dessous :
 
@@ -54,7 +54,7 @@ Le dossier Screenshots contient les captures d'écran que le joueur a créées d
 
 *Remarque : pour créer une capture d'écran, appuyez sur la touche de capture d'écran (F12 par défaut).*
 
-La structure du nom de fichier est `screenshot###`, où "###" est le nombre de captures d'écran.
+La structure du nom de fichier est `screenshot###`, où "###" est le numéro de la capture d'écran.
 
 ### Skins
 
@@ -101,7 +101,7 @@ Les fichiers de configuration configurent les paramètres initiaux pour que osu!
 
 ### .exe (Application)
 
-Le composant principal. Cliquez dessus pour le démarrer (uniquement pour Windows). Les fichiers .exe peuvent être ouverts en toute sécurité si le joueur a utilisé le programme d'installation d'osu! téléchargé sur le site officiel pour installer osu!
+Le composant principal. Cliquez dessus pour le démarrer (uniquement pour Windows). Les fichiers .exe peuvent être ouverts en toute sécurité si le joueur a utilisé le programme d'installation d'osu! téléchargé sur le site officiel pour installer osu!.
 
 osu!.exe (Démarrer osu!)
 

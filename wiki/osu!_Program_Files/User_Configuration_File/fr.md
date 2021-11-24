@@ -98,7 +98,7 @@ Il s'agit d'une liste d'options dans le fichier `osu!.<votre nom de compte PC>.c
 | `AutomaticDownload` | 0 ou 1 | Téléchargements osu!direct automatiques |
 | `AutomaticDownloadNoVideo` | 0 ou 1 | Ne pas télécharger les vidéos |
 | `ChatFilter` | 0 ou 1 | Filtrer les mots vulgaires |
-| `ChatRemoveForeign` | 0 ou 1 | Filtrer les caractères accentuées et étrangers |
+| `ChatRemoveForeign` | 0 ou 1 | Filtrer les caractères accentués et étrangers |
 | `LogPrivateMessages` | 0 ou 1 | Conserver une copie des messages privés |
 | `BlockNonFriendPM` | 0 ou 1 | Autoriser uniquement les messages privés de mes amis |
 | `IgnoreList` | Liste de chaînes de caractères séparées par des espaces | Utilisateurs à ignorer (séparer avec des espaces) : |
@@ -106,28 +106,28 @@ Il s'agit d'une liste d'options dans le fichier `osu!.<votre nom de compte PC>.c
 
 ### Raccourcis claviers
 
-The values for key binding options are the names of the keys.
+Les valeurs attribuées aux options de keybinding sont le nom des touches
 
 | Option | Action |
 | :-- | :-- |
-| `keyOsuLeft` | osu! click gauche |
-| `keyOsuRight` | osu! click droit |
-| `keyOsuSmoke` | osu! fumé |
-| `keyTaikoInnerLeft` | osu!taiko tambour gauche centre |
-| `keyTaikoInnerRight` | osu!taiko centre tambour droit |
-| `keyTaikoOuterLeft` | osu!taiko  tambour gauche jante |
-| `keyTaikoOuterRight` | osu!taiko tambour droit jante |
-| `keyFruitsLeft` | osu!catch déplacement à gauche |
-| `keyFruitsRight` | osu!catch déplacement à droite |
-| `keyFruitsDash` | osu!catch dash |
-| `keyIncreaseSpeed` | osu!mania augmenter la vitesse de défilement |
-| `keyDecreaseSpeed` | osu!mania diminuer la vitesse de défilement |
+| `keyOsuLeft` | osu! : clic gauche |
+| `keyOsuRight` | osu! : clic droit |
+| `keyOsuSmoke` | osu! : fumée |
+| `keyTaikoInnerLeft` | osu!taiko : tambour gauche centre |
+| `keyTaikoInnerRight` | osu!taiko : tambour droit centre |
+| `keyTaikoOuterLeft` | osu!taiko : tambour gauche jante |
+| `keyTaikoOuterRight` | osu!taiko : tambour droit jante |
+| `keyFruitsLeft` | osu!catch : déplacement à gauche |
+| `keyFruitsRight` | osu!catch : déplacement à droite |
+| `keyFruitsDash` | osu!catch : dash |
+| `keyIncreaseSpeed` | osu!mania : augmenter la vitesse de défilement |
+| `keyDecreaseSpeed` | osu!mania : diminuer la vitesse de défilement |
 | `keyPause` | Mettre en pause |
 | `keySkip` | Sauter l'intro/l'outro |
 | `keyToggleScoreboard` | Afficher le storyboard |
 | `keyIncreaseAudioOffset` | Augmenter le local song offset |
 | `keyDecreaseAudioOffset` | Diminuer le local song offset |
-| `keyQuickRetry` | Replay rapide |
+| `keyQuickRetry` | Recommencer la beatmap (Quick Retry) |
 | `keyToggleFrameLimiter` | Parcourir les options de limitation du framerate |
 | `keyToggleChat` | Ouvrir le tchat |
 | `keyToggleExtendedChat` | Ouvrir le tchat avec la liste des utilisateurs |
@@ -152,12 +152,12 @@ The values for key binding options are the names of the keys.
 | `keyHelpToggle` | Ouvrir l'écran d'aide de l'éditeur |
 | `keyJumpToBegin` | Aller au premier objet |
 | `keyPlayFromBegin` | Jouer depuis le début |
-| `keyAudioPause` | Pause de la lecture |
+| `keyAudioPause` | Mettre la musique en pause |
 | `keyJumpToEnd` | Sauter à la fin du dernier objet |
-| `keyGridChange` | Parcourir les tailles de grille |
-| `keyTimingSection` | Ajouter la section timing non héritée |
-| `keyInheritingSection` | Ajouter une section timing hérité |
-| `keyRemoveSection` | Retirer la section de synchronisation |
+| `keyGridChange` | Parcourir les grid sizes |
+| `keyTimingSection` | Ajouter une uninherited timing section |
+| `keyInheritingSection` | Ajouter une uninherited timing section |
+| `keyRemoveSection` | Retirer la timing section |
 | `keyEasy` | Active/Désactive Easy |
 | `keyNoFail` | Active/Désactive No Fail |
 | `keyHalfTime` | Active/Désactive Half Time |
@@ -276,7 +276,7 @@ Vous trouverez d'autres options de mise en page osu!mania dans le fichier [skin.
 | `SkipTablet` | 0 ou 1 | Désactive le code spécial de gestion des tablettes d'osu! |
 | `UpdatePending` | 0 ou 1 | S'il y a ou non une mise à jour en attente d'installation. |
 
-## Unused or deprecated
+## Non utilisés/Obsolètes
 
 - `AllowNowPlayingHighlights`
 - `ComboFire`
