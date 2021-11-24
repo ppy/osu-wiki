@@ -10,6 +10,10 @@
 
 To open osu! wiki in the editor, replace `github.com` in the URL of the repository with `github.dev`. Alternatively, open your fork on GitHub and press `.` (period).
 
+::: Infobox
+![](img/command-palette.gif "Example use of the command palette")
+:::
+
 While all menus are accessible from the editor's interface, the indended way of navigation is using the **command palette**:
 
 - Press `F1` and enter the name of a setting to open, or action to perform. If nothing shows up, explore the `≡` menu in the top left corner.
@@ -40,6 +44,10 @@ After you have read [Best practices § Making changes](/wiki/osu!_wiki/Contribut
 - To upload a file, drag it to an appropriate place in the file explorer.
 
 ## Committing changes
+
+::: Infobox
+![](img/commit-and-push.gif "Commit and push changes to save them permanently")
+:::
 
 1. Open the source control view (`Ctrl` + `Shift` + `G`).
 2. Click the `+` button on every file you want to save in batch.
