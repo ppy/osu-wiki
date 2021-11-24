@@ -488,32 +488,32 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 - **09/03/2021 :** En conjonction avec les [Directives d'utilisation du contenu](/wiki/Rules/Content_Usage_Guidelines), un ajout aux critères de classement a commencé à exiger que les mappeurs indiquent la source de leurs images d'arrière-plan et autres médias dans leurs descriptions.
 - **15/03/2021 :** Les conditions pour réintégrer les Beatmap Nominators ont été assouplies.
-  - Tous les candidats doivent se soumettre à l'application, mais les membres du groupe qui reviennent bénéficient d'un délai d'attente plus court et sont autorisés à fournir 1 à 2 mois d'activité de modding au lieu de la norme précédente de 3 mois.
-- **16/03/2021 :** Les Beatmap Nominators ont reçu un renouvellement automatique de leur adhésion à osu!supporter.
-  - Ce changement a été effectué en réponse à un manque d'incitations pour les membres dévoués de la scène de mapping.
+  - Tous les candidats doivent se soumettre à la candidature, mais les membres du groupe qui reviennent bénéficient d'un délai d'attente plus court et sont autorisés à fournir 1 à 2 mois d'activité de modding au lieu de la norme précédente de 3 mois.
+- **16/03/2021 :** Les Beatmap Nominators ont reçu un renouvellement automatique de leur tag osu!supporter.
+  - Ce changement a été effectué en réponse à un manque de récompense pour les membres dévoués de la scène de mapping.
 - **16/03/2021 :** La limite de maps classées par jour et par mode a été augmentée de 8 à 10 afin de compenser le débordement de la catégorie "Qualified beatmaps".
 
 ### Avril
 
-- **08/04/2021 :** Une règle de critères de classement interdisant plusieurs beatmaps qualifiées pour la même musique a été supprimée.
+- **08/04/2021 :** Une règle des critères de classement interdisant plusieurs beatmaps qualifiées pour la même musique a été supprimée.
   - Cette modification a permis de dissiper les inquiétudes concernant les pratiques malveillantes de disqualification.
 
 ### Mai
 
-- **12/05/2021 :** La Nomination Assessment Team a commencé un essai pour les nouvelles évaluations des Beatmap Nominator.
+- **12/05/2021 :** La Nomination Assessment Team a commencé un essai pour les nouvelles évaluations des Beatmap Nominators.
   - Cet essai ne concernait que les membres d'osu! et s'est terminé en août.
   - Un sous-ensemble de Beatmap Nominators s'est vu confier des rôles d'évaluation équivalents à ceux de la NAT, ce qui leur a permis de contribuer et de décider des résultats des demandes de BN et des évaluations actuelles des BN.
   - Le premier lot de membres d'essai comprenait ~10 utilisateurs, tandis que le deuxième lot comprenait ~20 utilisateurs.
 - **13/05/2021 :** Une option permettant de changer le propriétaire de la difficulté a été ajoutée à la page de discussion des beatmaps.
-  - Cela a permis aux créateurs de difficultés invités de résoudre les problèmes sur leurs beatmaps. Avant ce changement, seul l'hôte du mapset pouvait résoudre les problèmes, ce qui constituait une frustration majeure pour les mappeurs.
+  - Cela a permis aux créateurs de guest difficulties de résoudre les problèmes sur leurs beatmaps. Avant ce changement, seul l'hôte du mapset pouvait résoudre les problèmes, ce qui constituait une frustration majeure pour les mappeurs.
 
 ### Juin
 
-- **14/06/2021 :** La Global Moderation Team a commencé à accepter les candidatures d'utilisateurs axés sur le mapping afin de réduire les tensions croissantes entre la scène GMT et la scène de la mapping/modding.
+- **14/06/2021 :** La Global Moderation Team a commencé à accepter les candidatures d'utilisateurs axés sur le mapping afin de réduire les tensions croissantes entre la GMT et la scène de mapping/modding.
 
 ### Août
 
-- **14/08/2021 :** osu!taiko a commencé un essai des évaluations des Beatmap Nominator en imitant l'essai d'osu! du 12/05/2021.
+- **14/08/2021 :** osu!taiko a commencé un essai des évaluations des Beatmap Nominators en imitant l'essai d'osu! du 12/05/2021.
 
 ### Septembre
 
