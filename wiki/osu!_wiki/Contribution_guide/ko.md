@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 2e7255a9c868d13a5ef36cbe6c255579c9c361b7
 ---
 
 # osu! wiki 기여 가이드
