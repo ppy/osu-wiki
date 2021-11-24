@@ -128,7 +128,7 @@ Beatmaps :
 - [Hatsune Miku - Ievan Polkka](https://osu.ppy.sh/beatmapsets/1287)
 - [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463)¹
 
-¹ *[Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463) est un beatmap non classé. Il n'est pas nécessaire de jouer cette beatmap pour compléter le pack.*
+¹ *[Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463) est une beatmap non classée. Il n'est pas nécessaire de jouer cette beatmap pour compléter le pack.*
 
 ### Volume 2
 
@@ -400,7 +400,7 @@ Beatmaps :
 
 ## Le saviez-vous ?
 
-- La beatmap [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), qui était inclus dans le Internet Pack (Volume 1), était connu pour avoir été poussé dans la catégorie [approuvé](/wiki/Beatmap/Category#approuvée) alors qu'il ne comportait qu'un seul spinner. Bien que la beatmap ait été [retiré de la liste des beatmaps approuvés peu de temps après](https://osu.ppy.sh/community/forums/posts/149328), ses restes sont néanmoins restés sur le Internet Pack (Volume 1).
+- La beatmap [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), qui était incluse dans le Internet Pack (Volume 1), était connue pour avoir été poussée dans la catégorie [approuvée](/wiki/Beatmap/Category#approuvée) alors qu'elle ne comportait qu'un seul spinner. Bien que la beatmap ait été [retirée de la liste des beatmaps approuvées peu de temps après](https://osu.ppy.sh/community/forums/posts/149328), ses restes sont néanmoins restés sur le Internet Pack (Volume 1).
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"

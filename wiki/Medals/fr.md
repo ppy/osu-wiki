@@ -6,13 +6,13 @@ Les **médailles**, précédemment connues sous le nom de *réalisations*, sont 
 
 Les médailles **Beatmap Packs** sont des médailles attribuées après avoir terminé certains [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) ou [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist). Ces médailles peuvent être obtenues en terminant chaque beatmap au moins une fois dans n'importe quelle difficulté du beatmap pack correspondant.
 
-Tous les beatmaps doivent être réalisés dans le mode de jeu [osu!](/wiki/Game_mode/osu!) pour obtenir le badge, sauf indication contraire. L'utilisation de [mods de réduction de la difficulté](/wiki/Game_modifier#difficulté-réduite) ou de [mods d'augmentation de la difficulté](/wiki/Game_modifier#difficulté-augmenté) est autorisée.
+Toutes les beatmaps doivent être jouées dans le mode de jeu [osu!](/wiki/Game_mode/osu!) pour obtenir le badge, sauf indication contraire. L'utilisation de [mods de réduction de la difficulté](/wiki/Game_modifier#difficulté-réduite) ou de [mods d'augmentation de la difficulté](/wiki/Game_modifier#difficulté-augmenté) est autorisée.
 
 Il convient toutefois de noter que le contenu de tous les Packs Video Game Packs, Anime Packs, Internet! Packs et Rhythm Game Packs a été considérablement modifié depuis [leur première introduction en 2008](https://osu.ppy.sh/community/forums/topics/1853). Pour la liste de ces beatmaps packs dans leur état d'origine, voir [Anciens beatmaps packs](/wiki/Medals/Legacy_Beatmap_Packs).
 
 ## Skill
 
-Les médailles **Skill** sont des médailles attribuées à la suite de divers accomplissements basés sur les compétences, que ce soit en atteignant certains jalons de [combo](/wiki/Beatmapping/Combo), en atteignant certains rangs dans le [classement global des points de performance](https://osu.ppy.sh/rankings/osu/performance), ou en réalisant un clear ou un [full combo](/wiki/Full_combo) sur n'importe quel beatmap [qualifiée](/wiki/Beatmap/Category#qualifiée), [classée](/wiki/Beatmap/Category#classée), ou [approuvée](/wiki/Beatmap/Category#approuvée) dans certaines fourchettes de [star rating](/wiki/Beatmapping/Star_rating).
+Les médailles **Skill** sont des médailles attribuées à la suite de divers accomplissements basés sur les compétences, que ce soit en atteignant certains seuils de [combo](/wiki/Beatmapping/Combo), en atteignant certains rangs dans le [classement global des points de performance](https://osu.ppy.sh/rankings/osu/performance), ou en réalisant un clear ou un [full combo](/wiki/Full_combo) sur n'importe quel beatmap [qualifiée](/wiki/Beatmap/Category#qualifiée), [classée](/wiki/Beatmap/Category#classée), ou [approuvée](/wiki/Beatmap/Category#approuvée) dans certaines fourchettes de [star rating](/wiki/Beatmapping/Star_rating).
 
 ## Dedication
 
@@ -50,7 +50,7 @@ Bien que les Seasonal Spotlights aient été supprimés au début de l'année 20
 
 ## Beatmap Challenge Packs
 
-Les médailles **Beatmap Challenge Packs**, ou encore appelées [*Skill Packs medals*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#pack-medal-updates), sont des médailles attribuées après avoir franchi le niveau de difficulté le plus élevé de toutes les beatmaps contenus dans certains [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) ou [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist) *sans [mods de réduction de la difficulté](/wiki/Game_modifier#difficulté-réduite) activés*. Ces beatmap pack sont spécialement conçus pour tester la compréhension de chaque joueur de divers aspects du jeu en fonction d'un niveau de compétence spécifique, par exemple dans une plage de [star ranting](/wiki/Beatmapping/Star_rating) ou de difficulté maximale.
+Les médailles **Beatmap Challenge Packs**, ou encore appelées [*Skill Packs medals*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#pack-medal-updates), sont des médailles attribuées après avoir franchi le niveau de difficulté le plus élevé de toutes les beatmaps contenues dans certains [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) ou [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist) *sans [mods de réduction de la difficulté](/wiki/Game_modifier#difficulté-réduite) activés*. Ces beatmap packs sont spécialement conçus pour tester la compréhension de chaque joueur de divers aspects du jeu en fonction d'un niveau de compétence spécifique, par exemple dans une fourchette de [star rating](/wiki/Beatmapping/Star_rating) ou de difficulté maximale.
 
 Tous les beatmaps du pack doivent être réalisés dans le mode de jeu [osu!](/wiki/Game_mode/osu!) pour pouvoir prétendre au badge, sauf indication contraire.
 
