@@ -2,7 +2,7 @@
 
 **Remarque :** Un supporter tag actif est requis pour utiliser le client osu!tourney.
 
-Il est recommandé d'utiliser une **nouvelle installation d'osu!**. La base de données Songs peut être corrompue. Vous pouvez avoir plusieurs installations d'osu!, gardez-les juste dans des dossiers séparés.
+Il est recommandé d'utiliser une **nouvelle installation d'osu!**. La base de données Songs peut être corrompue. Vous pouvez avoir plusieurs installations d'osu!, gardez-les alors dans des dossiers séparés.
 Pour ce faire, copiez `osu!.exe` dans un dossier vide et lancez-le. Une nouvelle installation d'osu! sera créée. C'est la seule installation qui sera modifiée.
 
 Ouvrez osu! et authentifiez-vous, cochez les cases `Retenir le nom d'utilisateur` et `Retenir le mot de passe`.
@@ -23,7 +23,7 @@ Ne modifiez pas le fichier `tournament.cfg` quand osu! est ouvert. Fermez osu! p
 - `TeamSize` : Le nombre de joueurs par équipe. le client ouvrira 1 à 8 fenêtres par équipe, selon la valeur. La valeur maximum est 8.
 - `ClientNameSize` : La taille des noms des joueurs.
 - `privateserver` : Ne touchez pas à cela.
-- `acronym` : Une abréviation pour le tournois. Cela affecte le nom de la salle du tournoi, vérifiez l'[utilisation de osu!tourney en multijoueur](/wiki/osu!tourney/Multiplayer_Usage) pour plus d'informations.
+- `acronym` : Une abréviation pour le tournoi. Cela affecte le nom de la salle du tournoi, vérifiez l'[utilisation de osu!tourney en multijoueur](/wiki/osu!tourney/Multiplayer_Usage) pour plus d'informations.
 - `BufferTimeoutTime` : Temps pendant lequel le client attendra qu'un joueur soit mis en buffer avant de continuer à jouer sans lui.
   - Il est recommandé de ne pas changer cela.
 - `BufferTotalTime` : Le temps que le client accumule pour réduire la fréquence des pauses pour attendre le buffer. Cela introduit un délai entre le client et les joueurs.

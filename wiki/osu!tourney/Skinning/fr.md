@@ -2,13 +2,13 @@
 
 ![Le client peut être personnalisé de différentes manières](img/Osutourneycustom.png)
 
-Le client supporte plusieurs modifications pour que vous puissiez le customisez pour le tournoi. Pour ce faire, vous devrez créer la structure de fichier `/Skins/User/tournament` dans le dossier d'installation du client. Les éléments du skin peuvent être placés dans le dossier et supportent les fichiers `.jpg` et `.png`.
+Le client prend en charge plusieurs modifications pour que vous puissiez le customisez pour le tournoi. Pour ce faire, vous devrez créer la structure de fichier `/Skins/User/tournament` dans le dossier d'installation du client. Les éléments du skin peuvent être placés dans le dossier et supportent les fichiers `.jpg` et `.png`.
 
-Les éléments suivants peuvent être skinné :
+Les éléments suivants peuvent être skinnés :
 
-- `background` - L'arrière-plan utilisée par le client. L'arrière-plan par défaut pour osu!tourney peut être trouvé [ici](https://s.ppy.sh/images/tournament/default.png).
-- `background-win1` (optionnel) - l'image qui sera affichée en fondue après que l'équipe bleue a gagnée, pendant que les résultats du match sont affichés.
-- `background-win2` (optionnel) - l'image qui sera affichée en fondue après que l'équipe rouge a gagnée, pendant que les résultats du match sont affichés.
+- `background` - L'arrière-plan utilisé par le client. L'arrière-plan par défaut pour osu!tourney peut être trouvé [ici](https://s.ppy.sh/images/tournament/default.png).
+- `background-win1` (optionnel) - l'image qui sera affichée en fondu si l'équipe bleue gagne, pendant que les résultats du match sont affichés.
+- `background-win2` (optionnel) - l'image qui sera affichée en fondu si l'équipe rouge gagne, pendant que les résultats du match sont affichés.
 - `tourney-title` (optionnel) - l'image affichée en bas du client, devant l'image de fond
   - Cela peut être utilisé pour montrer le logo du tournois par exemple.
 

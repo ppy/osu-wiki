@@ -2,11 +2,11 @@
 
 Le **osu!lazer tournament client** est le client officiel qui superpose à [osu!tourney](/wiki/osu!tourney) des scènes et des informations supplémentaires relatives à un tournoi osu! lors d'une diffusion en direct.
 
-Les utilisateurs rencontrant des problèmes avec le client peuvent [créer un issues sur GitHub](https://github.com/ppy/osu/issues) ou envoyer un courriel à [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Les utilisateurs rencontrant des problèmes avec le client peuvent [créer un issue sur GitHub](https://github.com/ppy/osu/issues) ou envoyer un courriel à [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Configuration
 
-Pour lancer le osu!lazer tournament client,, vous devez spécifier un argument de lancement à l'exécutable osu!lazer. Pour ce faire, créez un nouveau raccourci sur le bureau et définissez son emplacement à `%LOCALAPPDATA%/osulazer/osu !.exe --tournament`. Ce raccourci spécifique lancera osu!lazer en mode client de tournoi.
+Pour lancer le osu!lazer tournament client, vous devez spécifier un argument de lancement à l'exécutable osu!lazer. Pour ce faire, créez un nouveau raccourci sur le bureau et définissez son emplacement à `%LOCALAPPDATA%/osulazer/osu !.exe --tournament`. Ce raccourci spécifique lancera osu!lazer en mode client de tournoi.
 
 Puisque le osu!lazer tournament client n'est qu'une superposition pour osu!tourney, il faudra le configurer aussi. Réglez la sortie dans osu!tourney sur `Cutting Edge (Experimental)` et créez un fichier vide appelé `ipc.txt` dans le dossier d'installation de osu!tourney. Après cela, suivez le [guide d'installation de osu!tourney](/wiki/osu!tourney/Setup).
 

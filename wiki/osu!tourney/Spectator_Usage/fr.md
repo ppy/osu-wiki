@@ -17,7 +17,7 @@ La fonction de chaque bouton est décrite ci-dessous :
 
 - `Sync music` : Le client essayera de resynchroniser la musique avec les hitsounds.
 - `Toggle annotation` : Active/désactive les annotations. La description est plus bas.
-- `Panic` : Appuyez dessus quand quelque chose se passe mal, par exemple une fenêtre n'est pas spectateur d'un utilisateur ou une fenêtre a crashée. Cela réinitialisera toutes les instances d'osu!.
+- `Panic` : Appuyez dessus quand quelque chose se passe mal, par exemple une fenêtre n'affiche pas le gameplay d'un joueur ou une fenêtre a crashé. Cela réinitialisera toutes les instances d'osu!.
 - `Exit` : Arrête le client.
 
 La fonction de chaque fenêtre de texte est décrite ci-dessous :
