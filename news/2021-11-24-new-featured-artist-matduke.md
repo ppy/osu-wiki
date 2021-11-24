@@ -12,7 +12,7 @@ Hailing from the North America's winter wonderland (formally known as Canada), p
 
 **10** top tier tunes are up for the taking from [**Matduke**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/219), all with pre-timed templates providing you extra time to focus on where to place your first circle (which is the hardest part of mapping, obviously).
 
-Speaking of mapping, [Aistre](https://osu.ppy.sh/users/4879380) and [Altai](https://osu.ppy.sh/users/5745865) of the Mappers' Guild have been working hard to showcase **Matduke**'s music through a beatmap of [Let It Go](https://osu.ppy.sh/beatmapsets/1625651). See how the two mappers handle playing their own creations, then explore the rest of **Matduke**'s music:
+Speaking of mapping, [Aistre](https://osu.ppy.sh/users/4879380) and [Altai](https://osu.ppy.sh/users/5745865) of the Mappers' Guild have been working hard to showcase **Matduke**'s music through a beatmap of [Let It Go](https://osu.ppy.sh/beatmapsets/1625651). See how these two mappers handle playing their own creations, then explore the rest of **Matduke**'s music:
 
 <div align="center">
     <video width="100%" controls>
@@ -25,25 +25,25 @@ Speaking of mapping, [Aistre](https://osu.ppy.sh/users/4879380) and [Altai](http
 If you somehow skipped straight here, play [this beatmap](https://osu.ppy.sh/beatmapsets/1625651) by [Aistre](https://osu.ppy.sh/users/4879380) and [Altai](https://osu.ppy.sh/users/5745865) as seen in the video!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/219/LET%20IT%20GO%2FMatduke%20-%20Let%20It%20Go.mp3" type="audio/mpeg">
 </audio>
 
 ### Matduke & Veela - Bloodlip
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/219/Songs%2FMatduke%20%26%20Veela%20-%20Bloodlip.mp3" type="audio/mpeg">
 </audio>
 
 ### Matduke - Rock The House
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/219/ROCK%20THE%20HOUSE%2FMatduke%20-%20Rock%20The%20House.mp3" type="audio/mpeg">
 </audio>
 
 ### Matduke - Nomads
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/219/NOMADS%2FMatduke%20-%20Nomads.mp3" type="audio/mpeg">
 </audio>
 
 ---
