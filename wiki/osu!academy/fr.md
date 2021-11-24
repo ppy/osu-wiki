@@ -39,12 +39,12 @@ La série principale d'osu!academy sert d'introduction générale au vaste monde
 | 19 | [Reporting Misbehaving Players](https://www.youtube.com/watch?v=ZoBAZCl9wXY) | [ztrot](https://osu.ppy.sh/users/6347) explique comment signaler les utilisateurs qui enfreignent les règles de la communauté, dans le jeu et sur le site web. |
 | 20 | [Video Encoding](https://www.youtube.com/watch?v=exyuI9lv_OI) | [ztrot](https://osu.ppy.sh/users/6347) explique comment modifier le débit binaire du fichier vidéo de votre beatmap pour répondre aux critères de classement. |
 | 21 | [Basic Live Streaming Guide](https://www.youtube.com/watch?v=59Tm9LvYk3Q) | [ztrot](https://osu.ppy.sh/users/6347) présente comment utiliser OBS pour livestreamer osu! sur Twitch. |
-| 22 | [Supporter and osu!direct](https://www.youtube.com/watch?v=ec0pLh4U8eY) | [ztrot](https://osu.ppy.sh/users/6347) présente les avantages de devenir un osu!supporter,, y compris osu!direct - une superposition qui permet de télécharger des beatmaps dans le jeu. |
+| 22 | [Supporter and osu!direct](https://www.youtube.com/watch?v=ec0pLh4U8eY) | [ztrot](https://osu.ppy.sh/users/6347) présente les avantages de devenir un osu!supporter, y compris osu!direct - une superposition qui permet de télécharger des beatmaps dans le jeu. |
 | 23 | [Community Modding](https://www.youtube.com/watch?v=MxlB__wjt9A) | [ztrot](https://osu.ppy.sh/users/6347) et [Shiro](https://osu.ppy.sh/users/113005) expliquer le concept de modding communautaire, un effort de modding en équipe. |
 | 24 | [Streaming Improvement (Gameplay)](https://www.youtube.com/watch?v=pq33jvMitRk) | [ztrot](https://osu.ppy.sh/users/6347) et [Kyonko Hizara](https://osu.ppy.sh/users/444868) présente des conseils pour améliorer votre capacité de streaming dans le mode osu! |
 | 25 | *Vidéo retirée* | *N/A* |
 | 26 | [Closing the Game](https://www.youtube.com/watch?v=y61v2QCHlpY) | [ztrot](https://osu.ppy.sh/users/6347) explique comment quitter osu!. |
-| 27 | [Guest Mapping](https://www.youtube.com/watch?v=nXWA1Qh9bT8) | [ztrot](https://osu.ppy.sh/users/6347) couvre le concept de guest mapping et explique comment créer des beatmap collaborations avec d'autres utilisateurs. |
+| 27 | [Guest Mapping](https://www.youtube.com/watch?v=nXWA1Qh9bT8) | [ztrot](https://osu.ppy.sh/users/6347) couvre le concept de guest mapping et explique comment créer des beatmaps en collaboration avec d'autres utilisateurs. |
 | 28 | [Forum Basics](https://www.youtube.com/watch?v=PEZFOM8NKtw) | [ztrot](https://osu.ppy.sh/users/6347) passe en revue les forums d'osu!, et présente les règles qui y prévalent. |
 | 29 | [Storyboard Basics](https://www.youtube.com/watch?v=uvCRwcyJ4TA) | [ztrot](https://osu.ppy.sh/users/6347) présente le concept de storyboarding, et démontre l'utilisation des outils de transformation disponibles dans l'éditeur. |
 | 30 | [Storyboard Basics 2](https://www.youtube.com/watch?v=EvICgPuOylk) | [ztrot](https://osu.ppy.sh/users/6347) explique comment créer des animations dans l'éditeur de storyboard. |
@@ -69,7 +69,7 @@ La série principale d'osu!academy sert d'introduction générale au vaste monde
 
 ## Time Lapse Mapping
 
-**[Time Lapse Mapping](https://www.youtube.com/playlist?list=PLmWVQsxi34bO7PAmjWZjVDi16pAy-GRBP)** est une série de vidéos animées par [ztrot](https://osu.ppy.sh/users/6347) et plusieurs mappeurs de différents modes de jeu, dans lesquelles ils expliquent le processus de création d'une beatmaps avec une session de mapping accélérée en arrière-plan.
+**[Time Lapse Mapping](https://www.youtube.com/playlist?list=PLmWVQsxi34bO7PAmjWZjVDi16pAy-GRBP)** est une série de vidéos animées par [ztrot](https://osu.ppy.sh/users/6347) et plusieurs mappeurs de différents modes de jeu, dans lesquelles ils expliquent le processus de création d'une beatmap avec une session de mapping accélérée en arrière-plan.
 
 | Numéro | Titre | Description |
 | :-: | :-- | :-- |
