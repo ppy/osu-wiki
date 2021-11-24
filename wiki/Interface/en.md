@@ -298,7 +298,7 @@ This is your online leaderboard. You can go here by scrolling down from the resu
    3. `Max Combo`: Your longest combo on the map you played.
    4. `Ranked Score`: Your [best result](/wiki/Score#ranked-score) on the beatmap.
    5. `Total Score`: Not taken into account, since it does not affect your position in online rankings.
-   6. `Performance`: The amount of [unweighted PP](/wiki/Performance_points#why-didnt-i-gain-the-full-amount-of-pp-from-a-map-i-played) you would receive for the play.
+   6. `Performance`: The amount of [unweighted PP](/wiki/Performance_points#why-didnt-i-gain-the-full-amount-of-pp-from-a-map-i-played?) you would receive for the play.
 6. `Overall Ranking` section. It's available only for beatmaps with online leaderboards. You also need to be online to see this section.
    1. `Overall`: Your global ranking in the world.
    2. `Accuracy`: Your average [accuracy](/wiki/Gameplay/Accuracy#accuracy) over all beatmaps you have played.
