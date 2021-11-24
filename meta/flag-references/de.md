@@ -38,7 +38,7 @@
 [flag_CD]: /wiki/shared/flag/CD.gif "Demokratische Republik Kongo"
 [flag_CF]: /wiki/shared/flag/CF.gif "Zentralafrikanische Republik"
 [flag_CG]: /wiki/shared/flag/CG.gif "Kongo"
-[flag_CH]: /wiki/shared/flag/CH.gif "Schweitz"
+[flag_CH]: /wiki/shared/flag/CH.gif "Schweiz"
 [flag_CI]: /wiki/shared/flag/CI.gif "Elfenbeinküste"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CM]: /wiki/shared/flag/CM.gif "Kamerun"
