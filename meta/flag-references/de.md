@@ -65,7 +65,7 @@
 [flag_EU]: /wiki/shared/flag/EU.gif "Europäische Union"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finnland"
 [flag_FJ]: /wiki/shared/flag/FJ.gif "Fidschi"
-[flag_FK]: /wiki/shared/flag/FK.gif "Falklandinseln (Malvinas)"
+[flag_FK]: /wiki/shared/flag/FK.gif "Falklandinseln (Malwinen)"
 [flag_FM]: /wiki/shared/flag/FM.gif "Föderierte Staaten von Mikronesien"
 [flag_FO]: /wiki/shared/flag/FO.gif "Färöer"
 [flag_FR]: /wiki/shared/flag/FR.gif "Frankreich"
