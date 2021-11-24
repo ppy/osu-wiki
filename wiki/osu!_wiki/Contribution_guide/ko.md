@@ -25,7 +25,7 @@ osu! 위키 항목은 [GitHub][osu_wiki]에 저장되므로, 기여를 하기 �
 
 2. [모범 사례 § 수정하기](/wiki/osu!_wiki/Contribution_guide/Best_practices#수정하기)를 읽고 편집을 진행해주세요. 원하는 프로그램을 사용하여 수정하셔도 되지만, osu! wiki에는 2가지 방법에 대해 자세하게 설명이 되어있습니다:
 
-  - 온라인에서 단일 파일을 수정할 수 있는 [GitHub 웹 인터페이스](/wiki/osu!_wiki/Contribution_guide/GitHub_Web_Interface)
+  - 온라인에서 단일 파일을 수정할 수 있는 [GitHub 웹 인터페이스](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor)
   - 오프라인에서 유연한 편집을 할 수 있는 [GitHub 데스크톱](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop)
 
 ## 검토
