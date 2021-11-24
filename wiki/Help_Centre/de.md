@@ -44,7 +44,7 @@ Wenn ein Mitglied des Supportteams dich nach diesen Logs gefragt hat, dann mache
 5. Klicke den Knopf zum Neustarten, der unten auf dem Bildschirm erscheint, sobald du die Updatequelle änderst.
 6. Gehe nochmal zum `Optionen`-Menü und klicke `osu!-Ordner öffnen`.
 7. Finde das `Logs`-Verzeichnis in dem Fenster, welches sich öffnet.
-8. Wähle die benötigte Log-Datei (der Support-Vertreter wird dir sagen, welche) und hänge sie an das Support-Ticket oder Forum-Beitrag.
+8. Wähle die benötigte Log-Datei (der Support-Vertreter wird dir sagen, welche) und hänge sie an das Support-Ticket oder den Forum-Beitrag.
 
 ### Ereignisanzeige
 
@@ -61,7 +61,7 @@ Wenn ein Mitglied des Supportteams dich fragt, nach Aubsturzprotokollen in der E
 5. Stelle sicher, dass die `Fehler`-Box im nun öffnenden Fenster einen Haken hat und klicke `OK`.
 6. Drücke `Strg` + `F` und tippe osu! in die Suchleiste. Es wird das erste Absturzprotokoll von osu! finden.
 7. Gehe in den `Details`-Tab und erweitere die `System` und `EventData` durch ein Daraufklicken.
-8. Kopiere den Text dort und füge ihn in den Support-Ticket oder Forum-Beitrag.
+8. Kopiere den Text dort und füge ihn in das Support-Ticket oder den Forum-Beitrag.
 
 ### Frame-Zeitdiagram
 
@@ -75,5 +75,5 @@ Wenn ein Mitglied des Supportteams dich nach einem Video oder einem Bildschirmfo
 2. Drücke `Strg` + `F11`, um das Frame-Zeitdiagramm anzuzeigen.
 3. Löse ein Leistungsproblem aus oder warte, bis eines auftritt.
 4. Erstelle ein Bildschirmfoto durch das Drücken von `Shift` + `F12`. Das wird das Foto auf die osu!-Server hochladen und es in einem Webbrowser-Tab öffnen.
-5. Kopiere und füge den entsprechenden Link in dein Support-Ticket oder Forum-Beitrag.
+5. Kopiere und füge den entsprechenden Link in dein Support-Ticket oder dein Forum-Beitrag.
 6. Schließe das Frame-Zeitdigramm auf dem gleichen Weg, wie du es geöffnet hast, durch das Drücken von `Strg` + `F11`.
