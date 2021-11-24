@@ -4,11 +4,11 @@
 
 **osu!stream** ist eine Version von osu!, die von Grund auf neu entwickelt wurde und extra für touch-fähige Geräte ausgelegt ist. Aktuell ist sie nur für Apples [iOS](http://en.wikipedia.org/wiki/IOS)-Plattform verfügbar. Ein [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29)-Port war geplant und beinahe fertig, wurde aber nicht veröffentlicht, da es Probleme bei der Audiolatenz gab, die den Spielspaß massiv beeinträchtigten.
 
-Enthalten ist ein komplett überarbeitetes Spielsystem mit neuen Spielelementen, wie den Hold-Circles und verbundenen Beats. Klassische osu! Beatmaps werden nicht ohne manuelle Umwandlung unterstützt. Stattdessen wurden neue Beatmaps explizit von einem besonderen Team an Mappern erstellt, um die Chance der neuen Spielelemente auszunutzen. Diese neuen Beatmaps haben einen [strikteren Standard](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
+Enthalten ist ein komplett überarbeitetes Spielsystem mit neuen Spielelementen wie den Hold-Circles und verbundenen Beats. Klassische osu! Beatmaps werden nicht ohne manuelle Umwandlung unterstützt. Stattdessen wurden neue Beatmaps explizit von einem besonderen Team an Mappern erstellt, um die Chance der neuen Spielelemente auszunutzen. Diese neuen Beatmaps haben einen [strikteren Standard](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
 [osu!stream wurde in osu!monthly \#5 zusammen mit einem Interview vorgestellt.](https://osu.ppy.sh/community/forums/topics/59924)
 
-Die Entwicklung für diese Version endete in 2020. Für mehr Informationen, lies den [Blog-Beitrag](https://blog.ppy.sh/osu-stream-2020-release/) über ihre letzte Veröffentlichung. Der Quellcode zusammen mit den Beatmap-Konvertierungs- und Test-Tools wurde im selben Jahr unter einer freien Lizenz auf [GitHub](https://github.com/ppy/osu-stream) zur Verfügung gestellt. Alle zuvor kostenpflichtigen Beatmaps sind jetzt kostenlos im in-game "Store" erhältlich.
+Die Entwicklung für diese Version endete in 2020. Für mehr Informationen lies den [Blog-Beitrag](https://blog.ppy.sh/osu-stream-2020-release/) über ihre letzte Veröffentlichung. Der Quellcode zusammen mit den Beatmap-Konvertierungs- und Test-Tools wurde im selben Jahr unter einer freien Lizenz auf [GitHub](https://github.com/ppy/osu-stream) zur Verfügung gestellt. Alle zuvor kostenpflichtigen Beatmaps sind jetzt kostenlos im in-game "Store" erhältlich.
 
 ## Installation
 
@@ -21,7 +21,7 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen, lies
 - Gehe zu "App Store" in deinem iDevice
 - Suche nach osu!stream
 - Installiere osu!stream
-  - Wenn nach der Apple ID und dem Passwort gefragt wird, gebe diese bitte ein.
+  - Wenn nach der Apple ID und dem Passwort gefragt wird, gib diese bitte ein.
 - osu!stream kann gespielt werden, nachdem die App heruntergeladen und installiert wurde.
   - Es wird empfohlen, auch das "Beatmaps hinzufügen" Kapitel zu lesen, um an die neusten kostenlosen Songs zu kommen. Der aktuelle Download enthält nur zwei Songs.
 
@@ -30,7 +30,7 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen, lies
 **Das Gerät muss [iTunes](https://www.apple.com/itunes/) installiert haben.**
 
 - Gehe zu [diesem Link und lade es dir herunter](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8).
-  - Wenn nach der Apple ID gefragt wird, gebe die Apple ID und das Passwort ein.
+  - Wenn nach der Apple ID gefragt wird, gib die Apple ID und das Passwort ein.
 - Stecke dein iDevice in dein Gerät (welches osu!stream hat).
 - Transferiere die osu!stream Dateien mit iTunes.
 - Entferne das iDevice und osu!stream kann gespielt werden.
@@ -89,7 +89,7 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen, lies
 
 - Hold-Circles müssen vom Spieler längere Zeit gehalten werden, bis der Kreis "explodiert".
 - Die Treffergenauigkeit wird dadurch bestimmt, wie früh oder spät der Kreis getroffen wurde und ob dieser bis zum Ende gehalten wurde.
-  - Wenn der Finger hochgehoben wurde, bevor der Kreis "explodierte", wird der Combo-Multiplikator auf 0 zurückgesetzt. Allerdings erhält man keinen Miss solange der Hold-Circle getroffen wurde.
+  - Wenn der Finger hochgehoben wurde, bevor der Kreis "explodierte", wird der Combo-Multiplikator auf 0 zurückgesetzt. Allerdings erhält man keinen Miss, solange der Hold-Circle getroffen wurde.
   - Wenn der Spieler den Kreis nicht gehalten hat, werden solange Lebenspunkte abgezogen, bis der Hold-Circle explodiert ist.
 
 ### Neue Modi, welche die Schwierigkeit ersetzen
@@ -132,7 +132,7 @@ Der Streammodus ist ein exklusiver Modus in osu!stream. In diesem Modus starten 
 
 Lange Rede kurzer Sinn, der Spieler startet zwischen Leicht und Schwer.
 
-Beachte, dass der Spieler **mindestens einen A Rang (>80% Genauigkeit) in diesem Modus haben muss, um den Expertenmodus des Songs freizuschalten**. Eine Genauigkeit von weniger als 80%, egal ob es eine volle Combo war, zählt nicht als A (Es gilt dann wie üblich als B).
+Beachte, dass der Spieler **mindestens einen A Rang (>80% Genauigkeit) in diesem Modus haben muss, um den Expertenmodus des Songs freizuschalten**. Eine Genauigkeit von weniger als 80%, auch wenn es eine volle Combo war, zählt nicht als A (Es gilt dann wie üblich als B).
 
 Die Hintergrundfarbe ist grün (Leicht), blau (Normal), und pink (Schwer).
 
@@ -160,7 +160,7 @@ Die Hintergrundfarbe ist grün (Leicht), blau (Normal), und pink (Schwer).
 
 **Schwierigkeitsgrad: Experte**
 
-Am Anfang gesperrt und nur durch ein A oder besser im Streammodus freischaltbar. Der Expertenmodus ist für Spieler, die eine größere Herausforderung suchen. In diesem Modus erhalten die Spieler einen vollen Lebensbalken und müssen ihn bis zum Ende des Liedes erhalten. Der erfolgreiche Abschluss schaltet nichts frei außer das Recht zum Angeben.
+Am Anfang gesperrt und nur durch ein A oder besser im Streammodus freischaltbar. Der Expertenmodus ist für Spieler, die eine größere Herausforderung suchen. In diesem Modus erhalten die Spieler einen vollen Lebensbalken und müssen ihn bis zum Ende des Liedes erhalten. Der erfolgreiche Abschluss schaltet nichts frei außer dem Recht zum Angeben.
 
 Die Hintergrundfarbe ist violett und die Lichter verdunkeln sich, abhängig von den aktuellen Lebenspunkten
 
@@ -230,7 +230,7 @@ Die Hintergrundfarbe ist violett und die Lichter verdunkeln sich, abhängig von 
 
 | Begriff | Formel |
 | :-: | :-- |
-| **Trefferwert** | (Anzahl der Misses \* 0 + Anzahl der 50er \* 1 + Anzahl der 100er * 2 + Anazhl der 300er \* 4) |
+| **Trefferwert** | (Anzahl der Misses \* 0 + Anzahl der 50er \* 1 + Anzahl der 100er * 2 + Anzahl der 300er \* 4) |
 | **perfekter Trefferwert** | (Anzahl der Misses + Anzahl der 50er + Anzahl der 100er + Anzahl der 300er) \* 4 |
 
 Mit anderen Worten, jeder Miss ist 0%, jeder 50er ist 25%, jeder 100er ist 50% und jeder 300er ist 100% Genauigkeit wert.
@@ -245,7 +245,7 @@ Die Punkte, die von jedem Hit-Circle und jedem Ende eines Sliders vergeben werde
 | :-: | :-- |
 | **Trefferwert** | Die Bewertung des Hit-Circles (50, 100 oder 300). |
 | **Combo-Multiplikator** | (Combo vor dem Treffer - 1) oder 0; abhängig davon, was höher ist. |
-| **Fester Multiplikator** | Der Multiplikator der den Punktestand bei 600.000 fixiert. |
+| **Fester Multiplikator** | Der Multiplikator, der den Punktestand bei 600.000 fixiert. |
 
 Außerdem gibt es für jeden Start-, End- und Wiederholungstick eines Sliders 30 Punkte und für jede volle Umdrehung eines Spinners 100 Punkte.
 Es gibt einen weiteren Bonus von 10 Punkten, abhängig von den Umdrehungen pro Minute, nachdem die Spinnermessleiste gefüllt ist.
@@ -320,13 +320,13 @@ Das Folgende wird den Punktemultiplikator weder erhöhen noch zurücksetzen:
 
 ### Lebensanzeige
 
-Nicht wie in osu!, ist die Lebensanzeige anders in osu!stream, da sie auf dem Spielmodus basiert.
+Die Lebensanzeige in osu!stream ist anders, da sie im Gegensatz zu osu! auf dem Spielmodus basiert.
 
 Im **leichten Modus ist die Lebensleiste nicht vorhanden**.
 
 ![](img/Os-SUN.jpg "Beispiel eines Stream Up! von Normal aus")
 
-Im **Streammodus** erhält der Spieler drei Lebensleisten und startet mit der zweiten zur Hälfte gefüllten Lebensleiste. Spieler bewegen sich zwischen diesen beiden Lebensleisten via den **Stream Up!** und **Stream Down!** Systemen, die aktiviert werden, wenn die Lebensleiste komplett gefüllt oder geleert wird. Nach einer Ankündigung wechselt das Spiel zum neuen "Stream" durch das Austauschen des Hintergrunds und einem nahtlosem Wechsel zu einem höheren oder niedrigeren Schwierigkeitsgrad der Beatmap sowie das Tauschen der Lebensleisten. Wenn ein Stream Down! erscheint bekommt der Spieler temporäre Unbesiegbarkeit, während die Lebensleiste zu einem niedrigeren Schwierigkeitsgrad wechselt.
+Im **Streammodus** erhält der Spieler drei Lebensleisten und startet mit der zweiten zur Hälfte gefüllten Lebensleiste. Spieler bewegen sich zwischen diesen beiden Lebensleisten via den **Stream Up!** und **Stream Down!** Systemen, die aktiviert werden, wenn die Lebensleiste komplett gefüllt oder geleert wird. Nach einer Ankündigung wechselt das Spiel zum neuen "Stream" durch das Austauschen des Hintergrunds und einem nahtlosem Wechsel zu einem höheren oder niedrigeren Schwierigkeitsgrad der Beatmap sowie das Tauschen der Lebensleisten. Wenn ein Stream Down! erscheint, bekommt der Spieler temporäre Unbesiegbarkeit, während die Lebensleiste zu einem niedrigeren Schwierigkeitsgrad wechselt.
 
 Im **Expertenmodus wird stattdessen eine volle Lebensleiste vergeben**.
 
@@ -352,7 +352,7 @@ Im Gegensatz zu anderen Versionen von osu! reduziert sich die Lebensleiste hier 
 
 ### Warum ist (füge hier irgendeinen urheberrechtlich geschützten Song ein) nicht enthalten?
 
-Wegen der Schwierigkeit eine Lizenz für den oben genannten Song zu bekommen.
+Wegen der Schwierigkeit, eine Lizenz für den oben genannten Song zu bekommen.
 
 ### Wie komme ich an mehr Beatmaps?
 
