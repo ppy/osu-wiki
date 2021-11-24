@@ -14,7 +14,7 @@ To open osu! wiki in the editor, replace `github.com` in the URL of the reposito
 ![](img/command-palette.gif "Example use of the command palette")
 :::
 
-While all menus are accessible from the editor's interface, the indended way of navigation is using the **command palette**:
+While all menus are accessible from the editor's interface, the intended way of navigation is using the **command palette**:
 
 - Press `F1` and enter the name of a setting to open, or action to perform. If nothing shows up, explore the `≡` menu in the top left corner.
 - To open a file, press `Ctrl` + `P` and enter its name.
@@ -24,7 +24,7 @@ While all menus are accessible from the editor's interface, the indended way of 
 After you have read [Best practices § Making changes](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits), create a new branch to store your changes in.
 
 1. Click the current branch's name in the bottom left corner, or press `F1` and type `branch`.
-  - Select `Create new branch...`, enter the name for a branch and press `Enter`.
+  - Select `Create new branch...`, enter the name of the branch and press `Enter`.
   - To help yourself remember what your work is roughly about, choose a descriptive name, such as `de-modding-v2` for a German translation of [Beatmap Discussion](/wiki/Beatmap_Discussion).
 2. To return to your changes, select the appropriate branch's name in the previous dropdown.
 
@@ -40,7 +40,7 @@ After you have read [Best practices § Making changes](/wiki/osu!_wiki/Contribut
 
 - Open file explorer (`Ctrl` + `Shift` + `E`).
 - Move a file or a directory by dragging it around in the file explorer. Hold `Ctrl` to select multiple objects.
-- To rename or delete files or directories, use context menu or your operating system's hotkey (`F2` for Windows).
+- To rename or delete files or directories, use the context menu or your operating system's hotkey (`F2` in Windows).
 - To upload a file, drag it to an appropriate place in the file explorer.
 
 ## Committing changes
@@ -50,7 +50,7 @@ After you have read [Best practices § Making changes](/wiki/osu!_wiki/Contribut
 :::
 
 1. Open the source control view (`Ctrl` + `Shift` + `G`).
-2. Click the `+` button on every file you want to save in batch.
+2. Click the `+` button on files you want to save in a single batch.
 3. Enter the commit message in English. **Use a short and meaningful commit message**, as it lets others know what's in the box.
 4. Press `Ctrl` + `Enter` or click the `✓` button to commit and push your changes.
 
