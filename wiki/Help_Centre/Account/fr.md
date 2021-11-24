@@ -56,13 +56,13 @@ Consultez *[Restrictions du compte](/wiki/Help_Centre/Account_Restrictions)* pou
 
 ## Bans des tournois
 
-### Qu'est-ce qu'un ban de tournoi ?
+### Qu'est-ce qu'un ban des tournois ?
 
-L'interdiction de participer à un tournoi est, comme son nom l'indique, une interdiction de participer à tous les tournois officiels.
+Un ban des tournois est, comme son nom l'indique, une interdiction de participer à tous les tournois officiels.
 
 Un utilisateur peut recevoir un ban des tournois pour avoir délibérément enfreint les règles de la communauté d'osu! pendant un tournoi, selon la gravité de l'infraction. Parmi les exemples de mauvais comportement, citons la tentative d'obtenir un avantage déloyal dans un tournoi officiel par quelque moyen que ce soit, le fait d'être injurieux envers toute personne participant à un tournoi ou de perturber délibérément le déroulement d'un tournoi.
 
-La plupart des bannissement de tournois ont une durée déterminée, allant de 3 mois à un an ou plus. Certains bannissements peuvent être permanents. Quelle que soit la durée du ban, touts les bans des tournois sont **finales** et ne peuvent faire l'objet d'un appel comme les restrictions.
+La plupart des bans des tournois ont une durée déterminée, allant de 3 mois à un an ou plus. Certains bannissements peuvent être permanents. Quelle que soit la durée du ban, tous les bans des tournois sont **irrévocables** et ne peuvent faire l'objet d'un appel comme les restrictions.
 
 ## Connexion
 
