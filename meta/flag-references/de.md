@@ -70,7 +70,7 @@
 [flag_FO]: /wiki/shared/flag/FO.gif "Färöer"
 [flag_FR]: /wiki/shared/flag/FR.gif "Frankreich"
 [flag_GA]: /wiki/shared/flag/GA.gif "Gabun"
-[flag_GB]: /wiki/shared/flag/GB.gif "Vereignigtes Königreich"
+[flag_GB]: /wiki/shared/flag/GB.gif "Vereinigtes Königreich"
 [flag_GD]: /wiki/shared/flag/GD.gif "Grenada"
 [flag_GE]: /wiki/shared/flag/GE.gif "Georgia"
 [flag_GF]: /wiki/shared/flag/GF.gif "Französisch-Guayana"
