@@ -2,7 +2,7 @@
 
 *See also: [The github.dev web-based editor - GitHub Docs](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)*
 
-[github.dev](https://github.dev) is a publicly available, GitHub-tailored web installation of [Visual Studio Code](https://code.visualstudio.com). Compared to GitHub's own web editor, it offers a lot more flexibility and control over the repository's contents. github.dev is a recommended way of editing the osu! wiki, especially when working on several articles at once.
+[github.dev](https://github.dev) is a publicly available, GitHub-tailored web version of [Visual Studio Code](https://code.visualstudio.com). Compared to GitHub's own web editor, it offers a lot more flexibility and control over the repository's contents. github.dev is a recommended way of editing the osu! wiki, especially when working on several articles at once.
 
 ## Navigation
 
@@ -25,8 +25,8 @@ After you have read [Best practices § Making changes](/wiki/osu!_wiki/Contribut
 
 1. Click the current branch's name in the bottom left corner, or press `F1` and type `branch`.
 
-  - Select `Create new branch...`, enter the name of the branch and press `Enter`.
-  - To help yourself remember what your work is roughly about, choose a descriptive name, such as `de-modding-v2` for a German translation of [Beatmap Discussion](/wiki/Beatmap_Discussion).
+  - Select `Create new branch...`, enter the name of the branch, and press `Enter`.
+  - To help yourself remember what your work is roughly about, choose a descriptive name. As an example, for a German translation of [Beatmap Discussion](/wiki/Beatmap_Discussion), you could write `de-modding-v2`.
 
 2. To return to your changes, select the appropriate branch's name in the previous dropdown.
 
@@ -40,8 +40,8 @@ After you have read [Best practices § Making changes](/wiki/osu!_wiki/Contribut
 
 ### File operations
 
-- Open file explorer (`Ctrl` + `Shift` + `E`).
-- Move a file or a directory by dragging it around in the file explorer. Hold `Ctrl` to select multiple objects.
+- Open the built-in file explorer (`Ctrl` + `Shift` + `E`).
+- Move a file or a directory by dragging it around. Hold `Ctrl` to select multiple objects.
 - To rename or delete files or directories, use the context menu or your operating system's hotkey (`F2` in Windows).
 - To upload a file, drag it to an appropriate place in the file explorer.
 
