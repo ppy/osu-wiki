@@ -11,7 +11,7 @@ Un fichier **.osr** contient toutes les informations à propos d'un replay. Pour
 | Entier (Integer) | 4 | Une valeur petit-boutiste de 4 octets. |
 | Long (Long) | 8 | Une valeur petit-boutiste de 8 octets. |
 | ULEB128 (ULEB128) | Variable | nombre entier à taille variable ; en savoir plus : [ULEB128](http://en.wikipedia.org/wiki/ULEB128). |
-| Chaîne de caractère (String) | Variable | Contient trois partie ; un octet qui est soit défini par 0x00, indiquant que les deux autres parties ne sont pas présentes, ou 0x0b (11 en décimal), indiquant que les deux autres parties sont présentes. Si la première partie est définie par 0x0b, alors, la deuxième partie est un ULEB128, définissant la longueur de la chaîne de caractère, et ensuite la chaîne de caractère elle-même, encodé en UTF-8. En savoir plus: [UTF-8](https://fr.wikipedia.org/wiki/UTF-8) |
+| Chaîne de caractère (String) | Variable | Contient trois partie ; un octet qui est soit défini par 0x00, indiquant que les deux autres parties ne sont pas présentes, ou 0x0b (11 en décimal), indiquant que les deux autres parties sont présentes. Si la première partie est définie par 0x0b, alors, la deuxième partie est un ULEB128, définissant la longueur de la chaîne de caractère, et ensuite la chaîne de caractère elle-même, encodée en UTF-8. En savoir plus: [UTF-8](https://fr.wikipedia.org/wiki/UTF-8) |
 
 ## Format
 
@@ -25,14 +25,14 @@ Les Byte offsets ne sont pas inclus dans ce tableau à cause des valeurs à tail
 | Chaîne de caractère (String) | Nom du joueur ayant effectué ce replay |
 | Chaîne de caractère (String) | Hash de la beatmap en MD5 (comprend certaines propriétés du replay) |
 | Court (Short) | Nombre de 300 |
-| Court (Short) | Nombre de 100 en osu!, de 150 en osu!taiko, de 100 en osu!catch, ou de 100 en osu!mania |
-| Court (Short) | Nombre de 50 en osu!, petit fruits en osu!catch, ou de 50 en osu!mania |
-| Court (Short) | Nombre de Gekis en osu!, ou de Max 300 en osu!mania |
-| Court (Short) | Nombre de Katus en osu!, ou de 200 en osu!mania |
+| Court (Short) | Nombre de 100 dans le mode osu!, de 150 en osu!taiko, de 100 en osu!catch, ou de 100 en osu!mania |
+| Court (Short) | Nombre de 50 dans le mode osu!, petit fruits en osu!catch, ou de 50 en osu!mania |
+| Court (Short) | Nombre de Gekis dans le mode osu!, ou de Max 300 en osu!mania |
+| Court (Short) | Nombre de Katus dans le mode osu!, ou de 200 en osu!mania |
 | Court (Short) | Nombre de fautes (misses) |
 | Entier (Integer) | Score total |
 | Court (Short) | Combo maximum effectué lors du replay |
-| Octet (Byte) | Combo parfait (1 = pas de miss, pas d'interruptions de sliders et pas de sliders terminés prématurément). |
+| Octet (Byte) | Combo parfait (1 = pas de miss, pas de sliderbreaks et pas de sliders lâchés trop tôt). |
 | Entier (Integer) | Mods utilisés (voir en dessous pour plus d'infos) |
 | Chaîne de caractère (String) | Graphique de la barre de vie : paires u/v séparées par des virgules, où u est le temps en millisecondes dans la musique et v est un float allant de 0 à 1 qui représente la quantité de vie du joueur à un temps donné (0 = barre de vie vide, 1 = barre de vie remplie) |
 | Long (Long) | Horodatage ([ticks Windows](https://docs.microsoft.com/fr-fr/dotnet/api/system.datetime.ticks?redirectedfrom=MSDN&view=net-5.0#System_DateTime_Ticks)) |
@@ -69,7 +69,7 @@ Comme décrit dans l'[API osu!](https://github.com/peppy/osu-api/wiki#mods)
 | None | 0 |  |
 | NoFail | 1 (0) |  |
 | Easy | 2 (1) |  |
-| TouchDevice | 4 (2) | Remplace le mode NoVideo non utilisé |
+| TouchDevice | 4 (2) | Remplace le mod NoVideo non utilisé |
 | Hidden | 8 (3) |  |
 | HardRock | 16 (4) |  |
 | SuddenDeath | 32 (5) |  |
