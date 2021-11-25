@@ -33,6 +33,6 @@ Alternativ kannst du auch [hier](https://osu.ppy.sh/home/download) für einen di
 
 ### Wo registriere ich mich für osu!?
 
-**Lade osu! [hier](https://osu.ppy.sh/home/download) herunter und starte es. Das Spiel wird dich auffordern, deine Daten in eine Sektion einzugeben, in der du dann einen Account erstellen kannst.**
+**Lade osu! [hier](https://osu.ppy.sh/home/download) herunter und starte es. Das Spiel wird dich zu einem Abschnitt führen, in dem du einen Account erstellen kannst.**
 
 Stelle sicher, dass du eine E-Mail-Adresse angibst, die du verwalten kannst. Diese wird benötigt, um das Passwort zurückzusetzen und Verifizierungs-E-Mails zu senden, falls erforderlich. Nutze keine Wegwerf-E-Mail.
