@@ -7,12 +7,11 @@ tags:
   - missing
   - Hilfe
   - Fehler
-  - Problem
 ---
 
 # Hilfecenter
 
-Hast du bei irgendetwas Probleme? Wir sind hier, um zu helfen! Finde einige Lösungen zu alltäglichen Problemen in der Sitebar deines Bildschirms. Wenn dein Problem hier nicht auftaucht oder du immer noch keine Lösung hast, dann sende eine E-Mail zu [support@ppy.sh](mailto:support@ppy.sh). Alternativ kannst du dein Problem auch im [Hilfeforum](https://osu.ppy.sh/community/forums/5) schildern, in dem dir jemand weiterhilft.
+Hast du bei irgendetwas Probleme? Wir sind hier, um zu helfen! Finde einige Lösungen zu häufigen Problemen in der Sitebar deines Bildschirms. Wenn dein Problem hier nicht auftaucht oder du immer noch keine Lösung hast, dann sende eine E-Mail an [support@ppy.sh](mailto:support@ppy.sh). Alternativ kannst du dein Problem auch im [Hilfeforum](https://osu.ppy.sh/community/forums/5) schildern, wo dir jemand weiterhelfen kann.
 
 ## Abschnitte
 
@@ -20,18 +19,18 @@ Wähle den Abschnitt, der deinem Problem am meisten ähnelt, damit du eine passe
 
 | Abschnitt | Schwerpunkte |
 | :-- | :-- |
-| [Account](/wiki/Help_Centre/Account) | osu!supporter, Einschränkungen, Einloggen, Namensänderungen, Profildaten |
+| [Account](/wiki/Help_Centre/Account) | osu!supporter, Sperrungen, Einloggen, Namensänderungen, Profildaten |
 | [Mapping und Editor](/wiki/Help_Centre/Beatmapping) | Deine Beatmaps pflegen, Beatmap-Eigentümerschaft, Beatmap-Slots |
 | [Client](/wiki/Help_Centre/Client) | Fehler und Abstürze, Spielverlauf, Verbindung, Leistung |
 | [Installation dnd Registrierung](/wiki/Help_Centre/Installation_and_registration) | Das Spiel herunterladen, einen Account erstellen |
 | [Store](/wiki/Help_Centre/Store) | Merchandise, osu!go, osu!keyboard, osu!tablet |
-| [Webseite](/wiki/Help_Centre/Website) | Benutzer blockieren, den Support kontaktieren, Seitengestaltung |
+| [Webseite](/wiki/Help_Centre/Website) | Benutzer blockieren, den Support kontaktieren, Erscheinungsbild der Website |
 
 ## Helfe uns, dir zu helfen
 
 ### Log-Dateien
 
-**Log-Dateien sind genaue Aufzeichnungen was der Spiel-Client zu einem bestimmten Zeitpunkt gemacht hat. Wir können sie verwenden, um dein Problem zu lösen.**
+**Log-Dateien sind genaue Aufzeichnungen was der Spiel-Client zu einem bestimmten Zeitpunkt gemacht hat. Wir können sie verwenden, um die Ursache des Problems zu ermitteln.**
 
 Diese Dateien sind extrem praktisch und können sogar das Lösen komplexer Probleme trivial machen.
 
@@ -61,7 +60,7 @@ Wenn ein Mitglied des Supportteams dich fragt, nach Aubsturzprotokollen in der E
 5. Stelle sicher, dass die `Fehler`-Box im nun öffnenden Fenster einen Haken hat und klicke `OK`.
 6. Drücke `Strg` + `F` und tippe osu! in die Suchleiste. Es wird das erste Absturzprotokoll von osu! finden.
 7. Gehe in den `Details`-Tab und erweitere die `System` und `EventData` durch ein Daraufklicken.
-8. Kopiere den Text dort und füge ihn in das Support-Ticket oder den Forum-Beitrag.
+8. Kopiere den Text dort und füge ihn in das Support-Ticket oder den Forum-Beitrag ein.
 
 ### Frame-Zeitdiagram
 
@@ -75,5 +74,5 @@ Wenn ein Mitglied des Supportteams dich nach einem Video oder einem Bildschirmfo
 2. Drücke `Strg` + `F11`, um das Frame-Zeitdiagramm anzuzeigen.
 3. Löse ein Leistungsproblem aus oder warte, bis eines auftritt.
 4. Erstelle ein Bildschirmfoto durch das Drücken von `Shift` + `F12`. Das wird das Foto auf die osu!-Server hochladen und es in einem Webbrowser-Tab öffnen.
-5. Kopiere und füge den entsprechenden Link in dein Support-Ticket oder dein Forum-Beitrag.
+5. Kopiere und füge den entsprechenden Link in dein Support-Ticket oder deinen Forum-Beitrag ein.
 6. Schließe das Frame-Zeitdigramm auf dem gleichen Weg, wie du es geöffnet hast, durch das Drücken von `Strg` + `F11`.
