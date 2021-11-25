@@ -87,6 +87,14 @@
 "difficulty":                        "Beatmap/Difficulty"
 "difficulties":                      "Beatmap/Difficulty"
 
+"community_mentorship_program": "community/community_mentorship_program"
+"project_loved":                "community/project_loved"
+"osu!_community_meetings":      "community/osu!_community_meetings"
+"osu!dev_discord_server":       "community/osu!dev_discord_server"
+"organisations":                "community/organisations"
+"osu!talk":                     "community/video_series/osu!talk"
+"osu!mapping":                  "community/video_series/osu!mapping"
+
 "bancho": "Disambiguation/Bancho"
 "easy": "Disambiguation/Easy"
 "ez": "Disambiguation/EZ"
@@ -455,7 +463,8 @@
 "spinner":                     "Hit_object/Spinner"
 "spinners":                    "Hit_object/Spinner"
 
-"how_you_can_help":            "How_You_Can_Help!"
+"how_you_can_help":            "community/how_you_can_help!"
+"how_you_can_help!":           "community/how_you_can_help!"
 
 "install":                     "Installation"
 "install_osu!":                "Installation"
@@ -468,7 +477,8 @@
 "results_screen":              "Interface#ranking-screen"
 "grading_screen":              "Interface#ranking-screen"
 
-"irc":                         "Internet_Relay_Chat"
+"irc":                         "Community/Internet_Relay_Chat"
+"internet_relay_chat":         "Community/Internet_Relay_Chat"
 
 "copyright":                   "Legal/Copyright"
 "tos":                         "Legal/Terms"
@@ -785,8 +795,9 @@
 "user_configuration":                         "osu!_Program_Files/User_Configuration_File"
 "user_config":                                "osu!_Program_Files/User_Configuration_File"
 
-"academy":                     "osu!academy"
-"announcements/osu!academy":   "osu!academy"
+"academy":                     "community/video_series/osu!academy"
+"announcements/osu!academy":   "community/video_series/osu!academy"
+"osu!academy":                 "community/video_series/osu!academy"
 
 "api":                         "osu!api"
 
@@ -795,7 +806,7 @@
 
 "supporter":                   "osu!supporter"
 
-"talk":                        "osu!talk"
+"talk":                        "community/video_series/osu!talk"
 
 "tourney":                     "osu!tourney"
 
@@ -1480,10 +1491,12 @@
 "tournaments/cfc/2": "Tournaments/CFC/2018"
 
 # Shortcuts for Mappers' Guild
-"guild":          "Mappers_Guild"
-"mapper's_guild": "Mappers_Guild"
-"mappers'_guild": "Mappers_Guild"
-"mg":             "Mappers_Guild"
+"guild":          "Community/Mappers_Guild"
+"mapper's_guild": "Community/Mappers_Guild"
+"mappers'_guild": "Community/Mappers_Guild"
+"mg":             "Community/Mappers_Guild"
+"mappers_guild":  "Community/Mappers_Guild"
+
 
 # Sitemap isn't a real wiki page so this is necessary for the website to function when visiting /wiki/sitemap
 "sitemap": "Sitemap"
