@@ -2,13 +2,13 @@
 
 *See also: [The github.dev web-based editor - GitHub Docs](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)*
 
-[github.dev](https://github.dev) is a publicly available, GitHub-tailored web version of [Visual Studio Code](https://code.visualstudio.com). Compared to GitHub's own web editor, it offers a lot more flexibility and control over the repository's contents. github.dev is a recommended way of editing the osu! wiki, especially when working on several articles at once.
+[github.dev](https://github.dev) is a publicly available, GitHub-tailored web version of [Visual Studio Code](https://code.visualstudio.com). Compared to GitHub's own web editor, it offers a lot more flexibility and control over the repository's contents. github.dev is a recommended way of contributing to the osu! wiki, especially while working on several articles at once.
 
 ## Navigation
 
 *Note: To work with the osu! wiki, **[fork the `ppy/osu-wiki` repository](/wiki/osu!_wiki/Contribution_guide#editing-the-wiki).***
 
-To open osu! wiki in the editor, replace `github.com` in the URL of the repository with `github.dev`. Alternatively, open your fork on GitHub and press `.` (period).
+To open osu! wiki in the editor, replace `github.com` in the URL of your fork repository with `github.dev`. Alternatively, open your fork on GitHub and press `.` (period).
 
 ::: Infobox
 ![](img/command-palette.gif "Example use of the command palette")
@@ -28,7 +28,7 @@ After you have read [Best practices § Making changes](/wiki/osu!_wiki/Contribut
   - Select `Create new branch...`, enter the name of the branch, and press `Enter`.
   - To help yourself remember what your work is roughly about, choose a descriptive name. As an example, for a German translation of [Beatmap Discussion](/wiki/Beatmap_Discussion), you could write `de-modding-v2`.
 
-2. To return to your changes, select the appropriate branch's name in the previous dropdown.
+2. To return to your changes, select the appropriate branch's name in the previously mentioned dropdown.
 
 ## Editing
 
@@ -40,11 +40,11 @@ After you have read [Best practices § Making changes](/wiki/osu!_wiki/Contribut
 
 ### New articles or translations
 
-An article is a folder with the original text (`en.md`) and its translations, which use different language-based file names.
+Articles are stored within folders with the original text (`en.md`) and its translations, which use different language-based file names.
 
 - To add a new **translation** for an existing article, right-click its folder and create a new `.md` file using [one of the supported file names](/wiki/Article_styling_criteria/Formatting#locales).
 - To add a new **article**, do the following:
-  - Create a folder in an appropriate category following the [naming convention](/wiki/Article_styling_criteria/Formatting#folder-and-file-structure). If the article doesn't belong anywhere, create its folder in `/wiki/`.
+  - Create a folder in an appropriate category following the [naming convention](/wiki/Article_styling_criteria/Formatting#folder-and-file-structure). If the article doesn't belong anywhere, create its folder in the `/wiki/` directory.
   - Add the `en.md` file with the article's text to the new folder.
 
 ### File operations
