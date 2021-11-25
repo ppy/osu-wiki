@@ -16,7 +16,7 @@ To open osu! wiki in the editor, replace `github.com` in the URL of your fork re
 
 While all menus are accessible from the editor's interface, the intended way of navigation is using the **command palette**:
 
-- Press `F1` and enter the name of a setting to open, or action to perform. If nothing shows up, explore the `≡` menu in the top left corner.
+- Press `F1` and enter the name of a setting to open, or action to perform. If nothing shows up, explore the hamburger menu (`≡`) in the top left corner of the screen.
 - To open a file, press `Ctrl` + `P` and enter its name.
 
 ## Branching
@@ -26,7 +26,7 @@ After you have read [Best practices § Making changes](/wiki/osu!_wiki/Contribut
 1. Click the current branch's name in the bottom left corner, or press `F1` and type `branch`.
 
   - Select `Create new branch...`, enter the name of the branch, and press `Enter`.
-  - To help yourself remember what your work is roughly about, choose a descriptive name. As an example, for a German translation of [Beatmap Discussion](/wiki/Beatmap_Discussion), you could write `de-modding-v2`.
+  - To help yourself remember what your work is roughly about, choose a descriptive name. As an example, for a German translation of [Beatmap Discussion](/wiki/Beatmap_Discussion), you could use `de-modding-v2`.
 
 2. To return to your changes, select the appropriate branch's name in the previously mentioned dropdown.
 
@@ -35,7 +35,7 @@ After you have read [Best practices § Making changes](/wiki/osu!_wiki/Contribut
 ### Existing files
 
 1. Press `Ctrl` + `P` and enter the name of a file you want to open, then press `Enter`. Loose matching is supported: for example, typing `nominators veto en` will bring up `wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto/en.md`.
-2. Edit the file as you wish. Uncommitted changes are **stored in your browser**, and you can return to them after leaving `github.dev`.
+2. Edit the file as necessary. Uncommitted changes are **stored in your browser**, and you can return to them after leaving `github.dev`.
 3. Once you are satisfied with the article(s), [commit the changes](#committing-changes).
 
 ### New articles or translations
