@@ -32,11 +32,20 @@ After you have read [Best practices § Making changes](/wiki/osu!_wiki/Contribut
 
 ## Editing
 
-### Articles
+### Existing files
 
 1. Press `Ctrl` + `P` and enter the name of a file you want to open, then press `Enter`. Loose matching is supported: for example, typing `nominators veto en` will bring up `wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto/en.md`.
 2. Edit the file as you wish. Uncommitted changes are **stored in your browser**, and you can return to them after leaving `github.dev`.
 3. Once you are satisfied with the article(s), [commit the changes](#committing-changes).
+
+### New articles or translations
+
+An article is a folder with the original text (`en.md`) and its translations, which use different language-based file names.
+
+- To add a new **translation** for an existing article, right-click its folder and create a new `.md` file using [one of the supported file names](/wiki/Article_styling_criteria/Formatting#locales).
+- To add a new **article**, do the following:
+  - Create a folder in an appropriate category following the [naming convention](/wiki/Article_styling_criteria/Formatting#folder-and-file-structure). If the article doesn't belong anywhere, create its folder in `/wiki/`.
+  - Add the `en.md` file with the article's text to the new folder.
 
 ### File operations
 
