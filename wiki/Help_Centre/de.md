@@ -62,17 +62,17 @@ Wenn ein Mitglied des Supportteams dich fragt, nach Aubsturzprotokollen in der E
 7. Gehe in den `Details`-Tab und erweitere die `System` und `EventData` durch ein Daraufklicken.
 8. Kopiere den Text dort und füge ihn in das Support-Ticket oder den Forum-Beitrag ein.
 
-### Frame-Zeitdiagram
+### Frametime-Diagramm
 
-**Das Frame-Zeitdiagramm ist ein Feature von osu!, welches dabei hilft, nützliche Informationen über Leistungsprobleme zu bekommen, die du eventuell hast.**
+**Das Frametime-Diagramm ist ein Feature von osu!, welches dabei hilft, nützliche Informationen über Leistungsprobleme zu bekommen, die du eventuell hast.**
 
-Wenn du mit kniffligen Leistungsproblemen in osu! konfrontiert bist, dann ist das Frame-Zeitdiagramm ein gutes Werkzeug, um das Problem manuell zu diagnostizieren und für dein Problem eine Lösung zu finden.
+Wenn du mit kniffligen Leistungsproblemen in osu! konfrontiert bist, dann ist das Frametime-Diagramm ein gutes Werkzeug, um das Problem manuell zu diagnostizieren und für dein Problem eine Lösung zu finden.
 
-Wenn ein Mitglied des Supportteams dich nach einem Video oder einem Bildschirmfoto mit dem Frame-Zeitdiagramm fragt, dann mache Folgendes:
+Wenn ein Mitglied des Supportteams dich nach einem Video oder einem Bildschirmfoto mit dem Frametime-Diagramm fragt, dann mache Folgendes:
 
 1. Öffne osu!.
-2. Drücke `Strg` + `F11`, um das Frame-Zeitdiagramm anzuzeigen.
+2. Drücke `Strg` + `F11`, um das Frametime-Diagramm anzuzeigen.
 3. Löse ein Leistungsproblem aus oder warte, bis eines auftritt.
 4. Erstelle ein Bildschirmfoto durch das Drücken von `Shift` + `F12`. Das wird das Foto auf die osu!-Server hochladen und es in einem Webbrowser-Tab öffnen.
 5. Kopiere und füge den entsprechenden Link in dein Support-Ticket oder deinen Forum-Beitrag ein.
-6. Schließe das Frame-Zeitdigramm auf dem gleichen Weg, wie du es geöffnet hast, durch das Drücken von `Strg` + `F11`.
+6. Schließe das Frametime-Diagramm auf dem gleichen Weg, wie du es geöffnet hast, durch das Drücken von `Strg` + `F11`.
