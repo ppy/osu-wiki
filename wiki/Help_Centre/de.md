@@ -43,7 +43,7 @@ Wenn ein Mitglied des Supportteams dich nach diesen Logs gefragt hat, dann mache
 5. Klicke den Knopf zum Neustarten, der unten auf dem Bildschirm erscheint, sobald du die Updatequelle änderst.
 6. Gehe nochmal zum `Optionen`-Menü und klicke `osu!-Ordner öffnen`.
 7. Finde das `Logs`-Verzeichnis in dem Fenster, welches sich öffnet.
-8. Wähle die benötigte Log-Datei (der Support-Vertreter wird dir sagen, welche) und hänge sie an das Support-Ticket oder den Forum-Beitrag.
+8. Wähle die benötigte Log-Datei (der Support-Ansprechpartner wird dir sagen, welche) und hänge sie an das Support-Ticket oder den Forum-Beitrag an.
 
 ### Ereignisanzeige
 
