@@ -10,13 +10,20 @@ This page lists ways for people from all around osu! to get in touch with each o
 - [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server)
 - Offline [organisations](/wiki/Community/Organisations)
 
-## Projects and initiatives
+## Projects
 
 - [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)
-- [osu! community meetings](/wiki/Community/osu!_Community_Meetings)
 - [osu! wiki](/wiki/osu!_wiki)
 - [Project Loved](/wiki/Community/Project_Loved)
+
+## Initiatives
+
+- [osu! community meetings](/wiki/Community/osu!_Community_Meetings)
+- [Video series](/wiki/Community/Video_series)
+  - [osu!academy](/wiki/Community/Video_series/osu!academy)
+  - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
+  - [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 ## See also
 
