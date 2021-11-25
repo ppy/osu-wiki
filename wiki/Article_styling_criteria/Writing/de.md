@@ -268,7 +268,7 @@ Bevorzuge: Beatmap Nominators können deine Beatmap nomieren.
 
 ---
 
-[Artikel mit informalen Registern](#language-register) dürfen diese Sektion ignorieren. Allerdings sollte `Ich` trotzdem vermiden werden.
+[Artikel mit informalen Registern](#sprachregister) dürfen diese Sektion ignorieren. Allerdings sollte `Ich` trotzdem vermiden werden.
 
 ## Grammatik und Syntax
 
@@ -278,11 +278,11 @@ Artikel sollten einfache deutsche Grammatik verwenden.
 
 *Für die Zahlenformatierung, siehe [Wikipedias Schreibweise von Zahlen](https://de.wikipedia.org/wiki/Wikipedia:Schreibweise_von_Zahlen)*
 
-[Artikel mit informalen Registern](#language-register) dürfen diese Sektion ignorieren. Allerdings muss die Benutzung konsistent im gesamten Artikel erfolgen.
+[Artikel mit informalen Registern](#sprachregister) dürfen diese Sektion ignorieren. Allerdings muss die Benutzung konsistent im gesamten Artikel erfolgen.
 
 ### Semikolon
 
-[Artikel mit informalen Registern](#language-register) sollten Semikolons (`;`) nicht verwenden.
+[Artikel mit informalen Registern](#sprachregister) sollten Semikolons (`;`) nicht verwenden.
 
 ## Aussprache
 
