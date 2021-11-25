@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 2e7255a9c868d13a5ef36cbe6c255579c9c361b7
----
-
 # Guide de contribution au osu! wiki
 
 Merci de votre intérêt à améliorer le osu! wiki ! Cet article couvre le processus de contribution étape par étape. Si vous êtes familier avec GitHub, n'hésitez pas à suivre le feature-branch workflow pour proposer des changements et passez directement à la section [auto-contrôle](#auto-contrôle).
@@ -26,8 +21,8 @@ Les articles du osu! wiki sont stockés sur [GitHub][osu_wiki]. Pour contribuer,
 
 2. Lisez [Bonnes pratiques § Faire des modifications](/wiki/osu!_wiki/Contribution_guide/Best_practices#faire-des-modifications) et effectuez les modifications nécessaires. Bien que vous soyez libre d'utiliser l'application de votre choix, le osu!wiki contient des instructions détaillées sur deux outils :
 
-  - [L'interface web de GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) pour les modifications en ligne d'un seul fichier.
-  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) pour des éditions hors ligne et flexibles.
+  - [Éditeur web de GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (en ligne, aucune installation requise).
+  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (hors ligne, offre plus de contrôle).
 
 ## Auto-contrôle
 
