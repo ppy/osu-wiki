@@ -60,7 +60,6 @@ Ils ne sont diffusés nulle part d'autre puisque nous encourageons les uilisateu
 | 39 | [Arf](https://osu.ppy.sh/users/3716999) | Some fretom guy | [Lien](https://www.youtube.com/watch?v=K9_4nzs5idM) |
 | 40 | [The8BitDrummer](https://www.twitch.tv/the8bitdrummer/profile) | Megalovaniac | [Lien](https://www.youtube.com/watch?v=tuOv9E9QkJA) |
 
-
 ## Discussions
 
 | EP No. | Topics | Profession | Lien |
