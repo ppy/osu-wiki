@@ -1,4 +1,4 @@
-# osu! (Begriffserklärung)
+# osu! (Begriffsabgrenzung)
 
 **osu!** kann unterschiedliche Bedeutungen haben:
 
