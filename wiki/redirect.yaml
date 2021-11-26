@@ -955,9 +955,10 @@
 
 "play_styles": "Play_style"
 
-"game_modes/external_ports": "Projects"
-"external_ports": "Projects"
-"tools": "Projects"
+"game_modes/external_ports": "Community/Projects"
+"external_ports": "Community/Projects"
+"projects": "Community/Projects"
+"tools": "Community/Projects"
 
 "rankings":                    "Ranking"
 
