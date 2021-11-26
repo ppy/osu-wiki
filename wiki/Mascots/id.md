@@ -10,7 +10,7 @@ Video di Youtube yang menampilkan maskot osu! dapat dilihat di [Mascot Showcase]
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, dituliskan dengan huruf "p" kecil, adalah maskot osu! yang bergabung pada bulan Juli 2008. Dia juga dikenal sebagai pippidon di mode osu!taiko dan pippi merupakan salah satu NPC di game [Yandere Simulator](https://yanderesimulator.com). Konsep awal pippi awalnya dirancang oleh [Sarumaru](https://osu.ppy.sh/users/9427), sprite pippidon dibuat oleh [crystalsuicune](https://osu.ppy.sh/users/9974), dan konsep pippi yang terkini dirancang oleh [Daru](https://osu.ppy.sh/users/32480).
+pippi, dituliskan dengan huruf "p" kecil, adalah maskot osu! yang bergabung pada bulan Juli 2008. Dia juga dikenal sebagai pippidon di mode osu!taiko dan pippi merupakan salah satu NPC di game [Yandere Simulator](https://yanderesimulator.com). Konsep awal pippi dirancang oleh [Sarumaru](https://osu.ppy.sh/users/9427), sprite pippidon dibuat oleh [crystalsuicune](https://osu.ppy.sh/users/9974), dan konsep pippi yang terkini dirancang oleh [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![Ikon osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
@@ -36,7 +36,7 @@ Mani adalah seorang yang eksentrik, selalu mencari hal-hal dan gaya baru, sedang
 
 ![Mocha](img/Mocha.png "Mocha")
 
-Mocha adalah maskot osu!taiko. Awalnya Mocha dirancang dalam perlombaan [sixth fanart contest](https://osu.ppy.sh/community/contests/2) oleh [Crowie](https://osu.ppy.sh/users/6894067), yang telah menduduki peringkat 21 dari jajak pendapat.
+Mocha adalah maskot osu!taiko. Awalnya Mocha dirancang dalam perlombaan [sixth fanart contest](https://osu.ppy.sh/community/contests/2) oleh [Crowie](https://osu.ppy.sh/users/6894067), yang telah menduduki peringkat 21 dari pemungutan suara.
 
 ## Kameo
 
