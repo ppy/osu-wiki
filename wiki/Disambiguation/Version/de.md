@@ -1,4 +1,4 @@
-# Version (Begriffserklärung)
+# Version (Begriffsabgrenzung)
 
 **Version** kann Folgendes bedeuten:
 

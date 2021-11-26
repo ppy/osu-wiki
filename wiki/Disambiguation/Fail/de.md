@@ -1,4 +1,4 @@
-# Fail (Begriffserklärung)
+# Fail (Begriffsabgrenzung)
 
 **Fail** kann Folgendes bedeuten:
 
