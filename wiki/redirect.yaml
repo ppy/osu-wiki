@@ -1063,6 +1063,8 @@
 
 "scorev1":                     "Score/ScoreV1"
 "scorev2":                     "Score#scorev2"
+"total_score":                 "Score/Total_score"
+"ranked_score":                "Score/Ranked_score"
 "level":                       "Score/Total_score#level"
 
 "hotkeys": "Shortcut_key_reference"
