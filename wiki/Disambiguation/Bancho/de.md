@@ -1,4 +1,4 @@
-# Bancho (Begriffserklärung)
+# Bancho (Begriffsabgrenzung)
 
 **Bancho** kann Folgendes bedeuten:
 
