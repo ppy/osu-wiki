@@ -1063,6 +1063,7 @@
 
 "scorev1":                     "Score/ScoreV1"
 "scorev2":                     "Score#scorev2"
+"level":                       "Score/Total_score#level"
 
 "hotkeys": "Shortcut_key_reference"
 "keyboard_shortcuts": "Shortcut_key_reference"

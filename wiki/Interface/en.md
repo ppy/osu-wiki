@@ -304,7 +304,7 @@ This is your online leaderboard. You can go here by scrolling down from the resu
    2. `Accuracy`: Your average [accuracy](/wiki/Gameplay/Accuracy#accuracy) over all beatmaps you have played.
    3. `Max Combo`: The longest combo over all beatmaps you have played.
    4. [`Ranked Score`](/wiki/Score#ranked-score): The number of points earned from all ranked beatmaps that you have ever played, with every map being counted exactly once.
-   5. [`Total Score`](/wiki/Score#total-score): Same as ranked score, but it takes into account all beatmaps available on the osu! website, and also underplayed or failed beatmaps. This counts towards your level.
+   5. [`Total Score`](/wiki/Score/Total_score): Same as ranked score, but it takes into account all beatmaps available on the osu! website, and also underplayed or failed beatmaps. This counts towards your level.
    6. `Perfomance`: Displays your total amount of Performance Points, and also how many PP the submitted play was worth.
 7. Information about the beatmap with its playcount and pass rate.
 8. Beatmap rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.

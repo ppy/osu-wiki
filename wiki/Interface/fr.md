@@ -307,7 +307,7 @@ Voici votre classement en ligne. Vous pouvez y accéder en glissant l'écran des
    2. `Précision`: Votre [précision](/wiki/Gameplay/Accuracy#accuracy) globale sur toutes les beatmaps que vous avez jouées.
    3. `Max Combo`: Votre plus grand combo sur toutes les beatmaps que vous avez jouées.
    4. [`Score classé`](/wiki/Score#score-classé): Le nombre total de points que vous avez obtenu sur toutes les beatmaps ayant un classement en ligne que vous avez jouées, chaque beatmap ne comptant qu'une seule fois.
-   5. [`Score total`](/wiki/Score#score-total): Le fonctionnement est identique à celui du score classé, mais il prend en compte toutes les beatmaps présentes sur le site d'osu!, ainsi que les beatmaps que vous avez quittées avant la fin et celles que vous avez échouées. Ce score compte dans votre niveau.
+   5. [`Score total`](/wiki/Score/Total_score): Le fonctionnement est identique à celui du score classé, mais il prend en compte toutes les beatmaps présentes sur le site d'osu!, ainsi que les beatmaps que vous avez quittées avant la fin et celles que vous avez échouées. Ce score compte dans votre niveau.
    6. `Performance`: Affiche votre nombre total de Points de Performance, ainsi que le nombre de PP que votre score vaut.
 7. Informations sur la beatmap, ainsi que le nombre de parties jouées et le taux de réussite sur celle-ci.
 8. Note globale de la beatmap. Vous pouvez noter la beatmap que vous venez de jouer en fonction de si vous l'avez aimée ou non. Si vous n'arrivez pas à vous décider, mieux vaut ne pas y toucher.
