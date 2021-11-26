@@ -1,5 +1,7 @@
 # Score total
 
+*Pour d'autres utilisations, voir : [Score (désambiguïsation)](/wiki/Disambiguation/Score).*
+
 Le score total est la **somme de tous les scores sur des beatmaps classées et/ou approuvées, réussis ou non.**
 
 Si un joueur joue une beatmap classée pour la première fois et qu'il obtient 500k, les deux scores augmentent de 500k.

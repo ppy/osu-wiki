@@ -1,5 +1,7 @@
 # Total score
 
+*For other uses, see [Score (disambiguation)](/wiki/Disambiguation/Score).*
+
 The total score is the **total sum of all scores on all beatmaps, including failed attempts.**
 
 If a player plays a ranked song for the first time and gets 500k, both ranked and total score increase by 500k.

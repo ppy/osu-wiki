@@ -6,6 +6,8 @@ outdated_since: c78e8f94260067c49d36a55deaaf7f40cb796b39
 
 # Score
 
+*Pour d'autres utilisations, voir : [Score (désambiguïsation)](/wiki/Disambiguation/Score).*
+
 La performance d'un joueur sur une beatmap est exprimée sous la forme d'un score, après la complétion de la beatmap.
 La plupart du temps, le combo joue un rôle majeur dans le système de score, puisqu'il s'agit d'un multiplicateur de score.
 

@@ -4,6 +4,8 @@ needs_cleanup: true
 
 # Score
 
+*For other uses, see [Score (disambiguation)](/wiki/Disambiguation/Score).*
+
 A player's performance on a map is given in terms of score after a successful completion of the map.
 Most of the time, combo plays a major part in the scoring system since it serves as a multiplier of the score.
 
