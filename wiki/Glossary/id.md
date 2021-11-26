@@ -1,4 +1,4 @@
-# Glossary
+# Glosarium
 
 Halaman indeks untuk semua artikel tentang istilah khusus osu!.
 
