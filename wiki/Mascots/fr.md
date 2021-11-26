@@ -26,7 +26,7 @@ Yuzu est la mascotte d'osu!catch qui a rejoint le 22/06/2014. Il est né le 10/0
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 
-Conçues par [xiemon](https://osu.ppy.sh/users/5203667) après avoir été repérées lors du [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) et annoncées comme les mascottes officielles d'osu!mania le 18/09/2020, Mani et Mari sont des jumelles qui ne se supportent pas vraiment, mais qui se ressemblent plus qu'elles ne veulent l'admettre.
+Conçus par [xiemon](https://osu.ppy.sh/users/5203667) après avoir été repérés lors du [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) et annoncés comme les mascottes officielles d'osu!mania le 18/09/2020, Mani et Mari sont des jumeaux qui ne se supportent pas vraiment, mais qui se ressemblent plus qu'ils ne veulent l'admettre.
 
 Mani est une sorte de franc-tireur, qui cherche toujours à explorer de nouveaux styles et de nouvelles choses, tandis que sa sœur Mari (anciennement connue sous le nom de Maria) est une perfectionniste rigide et classique qui a un penchant pour les projecteurs. Les deux s'entendent comme l'huile et l'eau.
 
@@ -86,7 +86,7 @@ Conçue par [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa était l'une
 
 ![Chirou](img/Chirou.png "Chirou")
 
-Conçue par [pyun](https://osu.ppy.sh/users/981534), Chirou est l'une des participantes au concours de création de mascotte d'osu!taiko. Elle est très stricte et exigeante, elle est perfectionniste et n'aime pas faire des erreurs, surtout dans son travail avec osu!taiko. Mais au-delà de sa forte personnalité, si on arrive à toucher son point faible, elle peut être douce et mignonne. Elle a 14 ans, est née le 25 octobre et est de groupe sanguin AB. Elle mesure 149 centimètre et pèse 45 kilogrammes. Ses passe-temps sont la pratique du tambour, la chaleur de sa cape et la collecte de pierres précieuses ou de roches. Chirou a fait quelques apparitions dans les fanarts de différents utilisateurs.
+Conçue par [pyun](https://osu.ppy.sh/users/981534), Chirou est l'une des participantes au concours de création de mascotte d'osu!taiko. Elle est très stricte et exigeante, elle est perfectionniste et n'aime pas faire des erreurs, surtout dans son travail avec osu!taiko. Mais au-delà de sa forte personnalité, si on arrive à toucher son point faible, elle peut être douce et mignonne. Elle a 14 ans, est née le 25 octobre et est de groupe sanguin AB. Elle mesure 149 centimètres et pèse 45 kilogrammes. Ses passe-temps sont la pratique du tambour, la chaleur de sa cape et la collecte de pierres précieuses ou de roches. Chirou a fait quelques apparitions dans les fanarts de différents utilisateurs.
 
 ### Taikonator
 
