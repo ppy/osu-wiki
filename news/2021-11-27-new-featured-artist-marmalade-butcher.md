@@ -8,7 +8,7 @@ Our newest Featured Artist **Marmalade butcher** hits you in the face with their
 
 ![](https://assets.ppy.sh/artists/220/header.jpg)
 
-Blending some of music's less conventional genres into their own soup of aural magic, **Marmalade butcher** is a next-generation hybrid band that took flight in 2010. Renowned for their complex sound that drifts from the usual electronic fare from rhythm games, this group is the ideal change for anyone and everyone in the osu! mapping scene.
+Blending some of music's less conventional genres into their own soup of aural magic, **Marmalade butcher** is a next-generation hybrid band that took flight in 2010. Renowned for their complex sound that drifts away from the usual electronic vibe of rhythm games, this group is the ideal change for anyone and everyone in the osu! mapping scene.
 
 We've secured **23** jaw-dropping tracks (all of which can be found on [**Marmalade butcher**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/220)), including a couple that avid rhythm gamers might recognize from *pop'n music peace*!
 
@@ -40,8 +40,8 @@ See how **Marmalade butcher** translates to osu!mania through [this beatmap](htt
 
 Check out one of these masterpieces:
 
-- [popular graveyard map](https://osu.ppy.sh/beatmapsets/1139182) hosted by [xbopost](https://osu.ppy.sh/users/6842421)
-- [full mapset spread](https://osu.ppy.sh/beatmapsets/1473778) hosted by [Camo](https://osu.ppy.sh/users/5194391) and including an awesome OWC 2020 difficulty made by [DeviousPanda](https://osu.ppy.sh/users/4966334), [Mao](https://osu.ppy.sh/users/2204515), and [Zelq](https://osu.ppy.sh/users/8953955)!
+- [Popular graveyard map](https://osu.ppy.sh/beatmapsets/1139182) hosted by [xbopost](https://osu.ppy.sh/users/6842421)
+- [Full mapset spread](https://osu.ppy.sh/beatmapsets/1473778) hosted by [Camo](https://osu.ppy.sh/users/5194391), including an awesome OWC 2020 difficulty made by [DeviousPanda](https://osu.ppy.sh/users/4966334), [Mao](https://osu.ppy.sh/users/2204515), and [Zelq](https://osu.ppy.sh/users/8953955)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
