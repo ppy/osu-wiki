@@ -14,7 +14,7 @@ tag:
   - top player
 ---
 
-# Riwayat peringkat online
+# Sejarah peringkat online
 
 Versi awal osu! adalah pengalaman yang sebagian besar terisolasi, tanpa papan peringkat online untuk apa pun hingga [6 Oktober 2007](https://osu.ppy.sh/community/forums/topics/15?n=29), saat dukungan untuk peringkat online publik ditambahkan untuk [osu!](/wiki/Game_mode/osu!). Sejak itu, semua [mode permainan](/wiki/Game_mode) telah menerima [peringkat online](https://osu.ppy.sh/rankings/osu/performance) mereka sendiri.
 
