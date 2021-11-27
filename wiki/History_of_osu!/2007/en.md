@@ -28,7 +28,7 @@ By the end of July, the menu system was changed to add a bit of style to the gam
 
 ## August
 
-The main menu was updated with a new look and the editor received a lot of new functionalities including copy-and-paste support. The Windows's menubar and cursor were added, making editor features more accessible than before; sliders were more extensively supported with [slider ticks](/wiki/Beatmapping/Slider_tick) present; [stacking](/wiki/Mapping_Techniques/Stack) of [hit circles](/wiki/Hit_object/Hit_circle) were present; local high scores were better supported; and the `.osu` file format was revised and completely revamped, but included conversion of older files to the new format.
+The main menu was updated with a new look and the editor received a lot of new functionalities including copy-and-paste support. The menu tab and context menu were added, making editor features more accessible than before; sliders were more extensively supported with [slider ticks](/wiki/Beatmapping/Slider_tick) present; [stacking](/wiki/Mapping_Techniques/Stack) of [hit circles](/wiki/Hit_object/Hit_circle) were present; local high scores were better supported; and the `.osu` file format was revised and completely revamped, but included conversion of older files to the new format.
 
 ![](img/2007-08_01.jpg "Song Selection screen for Play Mode")
 
@@ -44,7 +44,7 @@ Gameplay was enhanced with the debut of [combo fire](/wiki/Glossary/Combo_fire),
 
 ![](img/2007-09.jpg)
 
-September 17, 2007 was the "birth" of osu! as far as the public was concerned. The forums as we know them today were established, and hosted from peppy's home domain (`ppy.sh`). Attention was gained via a news announcement on [bemanistyle](http://bemanistyle.com) which drew quite a few interested people with previous rhythm game experience.
+September 17, 2007 was the "birth" of osu! as far as the public was concerned. The forums as we know them today were established, and hosted from peppy's home domain (`ppy.sh`). Attention was gained via a news announcement on [bemanistyle](http://bemanistyle.com) in [this post](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483)<!-- thank you, Wayback Machine --> which drew quite a few interested people with previous rhythm game experience.
 
 ![](img/2007-09_01.jpg "Slider creation in the editor")
 
@@ -76,7 +76,7 @@ The song selection screen saw improvements with grouping of difficulties and mor
 
 ## November
 
-A new SS rank was added to the ranking system, replacing S rank in cases where perfection was achieved. The [No Video](/wiki/Game_modifier/No_Video) and [Hidden](/wiki/Game_modifier/Hidden) (HD) mods were introduced, and the SH (silver S) and SSH (silver SS) ranks to go with it. For the first time, players could skin and assign normal and soft sample sets per timing section. `.osz` files could now be loaded by double-clicking them, or dragging them onto the osu! icon.
+A new SS rank was added to the ranking system, replacing S rank in cases where perfection was achieved. The [No Video](/wiki/Game_modifier/No_Video) and [Hidden](/wiki/Game_modifier/Hidden) (HD) mods were introduced, and the SH (silver S) and SSH (silver SS) ranks to go with it. For the first time, players could skin and assign normal and soft sample sets per timing section. `.osz` files could now be loaded by double-clicking them, or dragging them onto the osu! icon or window.
 
 ![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
 
@@ -92,6 +92,6 @@ The [Beatmap Submission System](/wiki/Submission) (BSS) was made public, allowin
 
 ## December
 
-Songs could be edited by dragging them into the osu! window; tooltips were added that explained all the various buttons in the osu! menus and editor interface; many new quality skins were submitted by early skinners ([Holiday by LuigiHann](https://osu.ppy.sh/community/forums/topics/1139), [WindWaker by awp](https://osu.ppy.sh/community/forums/topics/761)); new sorting methods were added to the song selection screen; peppy could send universal announcements to all osu! players; and minor tweaks were made to gameplay (like non-active circle dimming).
+Songs could be edited by dragging them into the osu! window; tooltips were added that explained all the various buttons in the osu! menus and editor interface; many new quality skins were submitted by early [skinners](/wiki/Skinning/Skinner) ([Holiday by LuigiHann](https://osu.ppy.sh/community/forums/topics/1139), [WindWaker by awp](https://osu.ppy.sh/community/forums/topics/761)); new sorting methods were added to the song selection screen; peppy could send universal announcements to all osu! players; and minor tweaks were made to gameplay (like non-active circle dimming).
 
 ![](img/2007-12_01.jpg)
