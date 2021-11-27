@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Marmalade butcher"
-date: 2021-11-27 09:00:00 +0000
+date: 2021-11-27 18:30:00 +0000
 ---
 
 Our newest Featured Artist **Marmalade butcher** hits you in the face with their innovative math rock sound!
