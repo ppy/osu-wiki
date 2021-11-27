@@ -1,6 +1,6 @@
 # Sejarah osu! 2007
 
-Berikut ini adalah beberapa peristiwa besar dalam sejarah osu! sejak awal berdirinya. Terima kasih khusus kepada [Sinistro](https://osu.ppy.sh/users/5530) karena membantu menyusun konten tahun 2007/2008.
+Berikut ini adalah beberapa peristiwa besar dalam sejarah osu! sejak awal berdirinya. Terima kasih khusus kepada [Sinistro](https://osu.ppy.sh/users/5530) karena telah membantu menyusun konten tahun 2007/2008.
 
 ![](img/2007.jpg)
 
@@ -28,7 +28,7 @@ Pada akhir Juli, sistem menu diubah untuk menambahkan sedikit sentuhan desain pa
 
 ## Agustus
 
-Menu utama telah diperbarui dengan tampilan baru, dan editor menerima banyak fungsi baru, termasuk dukungan salin dan tempel (copy dan paste). Menu tab dan menu konteks (*context menu*) ditambahkan, membuat fitur editor jauh lebih mudah diakses dibanding sebelumnya. Slider lebih banyak mendapat dukungan, dengan ditambahkannya [slider tick](/wiki/Beatmapping/Slider_tick), diperkenalkannya [stacking](/wiki/Mapping_Techniques/Stack) [hit circles](/wiki/Hit_object/Hit_circle) .Dukungan lebih baik untuk skor terbaik lokal. Format file `osu!` direvisi dan dirubah sepenuhnya, tetapi telah mencakup konversi file lama ke format baru.
+Menu utama telah diperbarui dengan tampilan baru, dan editor menerima banyak fungsi baru, termasuk dukungan salin dan tempel (copy dan paste). Menu tab dan menu konteks (*context menu*) ditambahkan, membuat fitur editor jauh lebih mudah diakses dibanding sebelumnya; slider lebih banyak mendapat dukungan, dengan ditambahkannya [slider tick](/wiki/Beatmapping/Slider_tick); diperkenalkannya [stacking](/wiki/Mapping_Techniques/Stack) [hit circles](/wiki/Hit_object/Hit_circle); dukungan lebih baik untuk skor terbaik lokal; dan format file `osu!` direvisi dan dirubah sepenuhnya, tetapi telah mencakup konversi file lama ke format baru.
 
 ![](img/2007-08_01.jpg "Pemilihan Lagu untuk Mode Play")
 
@@ -88,7 +88,7 @@ Peringkat baru, SS, ditambahkan ke sistem peringkat, menggantikan peringkat S da
 
 ![](img/2007-11_03.jpg "Pengujian Penggunaan IRC")
 
-[Sistem Submisi Beatmap](/wiki/Submission) (Beatmap Submission System) dipublikasikan, memungkinkan pengguna dengan mudah mengunggah dan membagikan kreasi mereka. Bersamaan dengan ini, map juga memiliki status [pending](/wiki/Beatmap/Category#work-in-progress-and-pending) dan [ranked](/wiki/Beatmap/Category#ranked) yang membantu dalam mengatur koleksi beatmap yang dikirim oleh pengguna. Obrolan dalam game telah ditambahkan, menggunakan klien [IRC](/wiki/Internet_Relay_Chat) yang dibangun dari nol dan terhubung ke server IRC standar (belum ada [Bancho](/wiki/Bancho_(server)). Obrolan yang diperluas terlihat; avatar dan statistik dasar ditampilkan dalam game menggunakan komunkasi berbasis http. Kontrol audio juga ditambahkan ke menu utama, yang juga memainkan lagu acak saat membuka game (startup). [Replay](wiki/Replay) map dapat ditonton untuk skor lokal dan permainan online. Pemain dapat melihat pemain lainnya (dan data penonton dikirim melalu IRC).
+[Sistem Submisi Beatmap](/wiki/Submission) (Beatmap Submission System) dipublikasikan, memungkinkan pengguna dengan mudah mengunggah dan membagikan kreasi mereka. Bersamaan dengan ini, map juga memiliki status [pending](/wiki/Beatmap/Category#work-in-progress-and-pending) dan [ranked](/wiki/Beatmap/Category#ranked) yang membantu dalam mengatur koleksi beatmap yang dikirim oleh pengguna. Obrolan dalam game telah ditambahkan, menggunakan klien [IRC](/wiki/Internet_Relay_Chat) yang dibangun dari nol dan terhubung ke server IRC standar (belum ada [Bancho](/wiki/Bancho_(server)); obrolan yang diperluas terlihat; avatar dan statistik dasar ditampilkan dalam game menggunakan komunkasi berbasis http. Kontrol audio juga ditambahkan ke menu utama, yang juga memainkan lagu acak saat membuka game (startup). [Replay](wiki/Replay) map dapat ditonton untuk skor lokal dan permainan online. Pemain dapat melihat pemain lainnya (dan data penonton dikirim melalu IRC).
 
 ## Desember
 
