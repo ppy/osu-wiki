@@ -4,6 +4,8 @@ stub: true
 tags:
   - SR
   - stars
+outdated: true
+outdated_since: dff3096e7c50f26bc922a1c6c3ebfb744725c292
 ---
 
 # 星級
