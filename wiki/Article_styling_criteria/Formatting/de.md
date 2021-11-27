@@ -150,7 +150,7 @@ Ein Indexartikel muss erstellt werden, wenn der Ordner nur dazu gedacht ist, and
 
 Verlinkungen müssen aktualisiert werden, sodass mehrdeutige Begriffe zu den entsprechenden Begriffsabgrenzungsseiten zeigen.
 
-Artikel die aus einem Begriffsabgrenzungsartikel heraus verlinkt werden, müssen die Kopfnote ["Für andere Bedeutungen"](#für andere-bedeutungen) tragen.
+Artikel die aus einem Begriffsabgrenzungsartikel heraus verlinkt werden, müssen die Kopfnote ["Für andere Bedeutungen"](#für-andere-bedeutungen) tragen.
 
 ## HTML
 
