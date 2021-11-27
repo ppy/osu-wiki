@@ -9,7 +9,7 @@ Jika Anda memerlukan bantuan untuk memberikan kontribusi atau ingin tinjauan *pu
 | Profil osu! | Profil GitHub | Status | Bahasa tambahan |
 | :-- | :-- | :-- | :-- |
 | ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | Tidak aktif | - |
-| ![][flag_AU] [Efemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Aktif** | - |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Aktif** | - |
 | ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | **Aktif** | - |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Tidak aktif | Spanyol |
 | ![][flag_DE] [Loctav](https://github.com/Loctav) | [Loctav](https://github.com/Loctav) | Tidak aktif | Jerman |
@@ -28,7 +28,7 @@ Kurator, editor, dan pemberi persetujuan dari semua [postingan berita](https://o
 
 | Profil osu! | Profil GitHub |
 | :-- | :-- |
-| ![][flag_AU] [Efemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) |
 | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) |
 
