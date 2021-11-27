@@ -38,7 +38,9 @@ See how **Marmalade butcher** translates to osu!mania through [this beatmap](htt
 
 ### Marmalade butcher - Amanita
 
-Check out [this popular graveyard map](https://osu.ppy.sh/beatmapsets/1139182) hosted by [xbopost](https://osu.ppy.sh/users/6842421) or [this map from OWC 2020](https://osu.ppy.sh/beatmapsets/1306572) created by [DeviousPanda](https://osu.ppy.sh/users/4966334), [Mao](https://osu.ppy.sh/users/2204515), and [Zelq](https://osu.ppy.sh/users/8953955)!
+Check out one of these masterpieces:
+- [popular graveyard map](https://osu.ppy.sh/beatmapsets/1139182) hosted by [xbopost](https://osu.ppy.sh/users/6842421)
+- [full mapset spread](https://osu.ppy.sh/beatmapsets/1473778) hosted by [Camo](https://osu.ppy.sh/users/5194391) and including an awesome OWC 2020 difficulty made by [DeviousPanda](https://osu.ppy.sh/users/4966334), [Mao](https://osu.ppy.sh/users/2204515), and [Zelq](https://osu.ppy.sh/users/8953955)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
