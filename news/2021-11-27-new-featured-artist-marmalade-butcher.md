@@ -25,7 +25,7 @@ We've secured **23** jaw-dropping tracks (all of which can be found on [**Marmal
 Experience [the beatmap from the video above](https://osu.ppy.sh/beatmapsets/1502963) hosted by [Lasse](https://osu.ppy.sh/users/896613)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/220/Uteruchesis/Marmalade%20butcher%20-%20YMKM.mp3" type="audio/mpeg">
 </audio>
 
 ### Marmalade butcher - Ushinahareru Runazuki
@@ -33,7 +33,7 @@ Experience [the beatmap from the video above](https://osu.ppy.sh/beatmapsets/150
 See how **Marmalade butcher** translates to osu!mania through [this beatmap](https://osu.ppy.sh/beatmapsets/1486395) hosted by [Shoegazer](https://osu.ppy.sh/users/2520707)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/220/Uteruchesis/Marmalade%20butcher%20-%20Ushinahareru%20Runazuki.mp3" type="audio/mpeg">
 </audio>
 
 ### Marmalade butcher - Amanita
@@ -44,7 +44,7 @@ Check out one of these masterpieces:
 - [Full mapset spread](https://osu.ppy.sh/beatmapsets/1473778) hosted by [Camo](https://osu.ppy.sh/users/5194391), including an awesome OWC 2020 difficulty made by [DeviousPanda](https://osu.ppy.sh/users/4966334), [Mao](https://osu.ppy.sh/users/2204515), and [Zelq](https://osu.ppy.sh/users/8953955)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/220/Nullum%20Sonum/Marmalade%20butcher%20-%20Amanita.mp3" type="audio/mpeg">
 </audio>
 
 ### Marmalade butcher - Floccinaucinihilipilification
@@ -52,7 +52,15 @@ Check out one of these masterpieces:
 If you can't read this song's title, you're obligated to play [this tournament beatmap created for The Perennial](https://osu.ppy.sh/beatmapsets/1471155) hosted by [DeviousPanda](https://osu.ppy.sh/users/4966334)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/220/Floccinaucinihilipilification/Marmalade%20butcher%20-%20Floccinaucinihilipilification.mp3" type="audio/mpeg">
+</audio>
+
+### Marmalade butcher - Mirage Age
+
+Try [this massive mapset](https://osu.ppy.sh/beatmapsets/1624087) hosted by [Gordon](https://osu.ppy.sh/users/7856835)!
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/220/Mirage%20Age/Marmalade%20butcher%20-%20Mirage%20Age.mp3" type="audio/mpeg">
 </audio>
 
 ---
