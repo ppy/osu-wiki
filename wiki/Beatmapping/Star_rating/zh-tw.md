@@ -14,7 +14,7 @@ tags:
 
 *主頁面：[難度](/wiki/Beatmap/Difficulty)*
 
-![Star rating ranges](/wiki/Beatmap/Difficulty/img/SR-range.png)
+![Star rating ranges](/wiki/shared/star-rating/spectrum.png)
 
 在網頁上，圖譜會依以下的星級範圍自動分配難度圖示。
 

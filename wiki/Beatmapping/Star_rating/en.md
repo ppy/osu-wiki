@@ -13,7 +13,7 @@ tags:
 
 *Main page: [Difficulty](/wiki/Beatmap/Difficulty)*
 
-![Star rating ranges](/wiki/Beatmap/Difficulty/img/SR-range.png)
+![Star rating ranges](/wiki/shared/star-rating/spectrum.png)
 
 On the website, beatmaps are automatically given a difficulty icon based on these star rating ranges:
 

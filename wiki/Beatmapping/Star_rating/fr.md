@@ -13,7 +13,7 @@ Le **star rating** (***SR***) décrit la difficulté d'une [beatmap](/wiki/Beatm
 
 *Page principale : [Difficulté](/wiki/Beatmap/Difficulty)*
 
-![Plages de classement par étoiles](/wiki/Beatmap/Difficulty/img/SR-range.png)
+![Plages de classement par étoiles](/wiki/shared/star-rating/spectrum.png)
 
 Sur le site web, les beatmaps se voient automatiquement attribuer une icône de difficulté en fonction d'une certaine fourchette d'étoiles :
 
