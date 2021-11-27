@@ -87,13 +87,13 @@
 "difficulty":                        "Beatmap/Difficulty"
 "difficulties":                      "Beatmap/Difficulty"
 
-"community_mentorship_program": "community/community_mentorship_program"
-"project_loved":                "community/project_loved"
-"osu!_community_meetings":      "community/osu!_community_meetings"
-"osu!dev_discord_server":       "community/osu!dev_discord_server"
-"organisations":                "community/organisations"
-"osu!talk":                     "community/video_series/osu!talk"
-"osu!mapping":                  "community/video_series/osu!mapping"
+"community_mentorship_program": "Community/Community_Mentorship_Program"
+"project_loved":                "Community/Project_Loved"
+"osu!_community_meetings":      "Community/osu!_community_meetings"
+"osu!dev_discord_server":       "Community/osu!dev_Discord_server"
+"organisations":                "Community/Organisations"
+"osu!talk":                     "Community/Video_series/osu!talk"
+"osu!mapping":                  "Community/Video_series/osu!mapping"
 
 "bancho": "Disambiguation/Bancho"
 "easy": "Disambiguation/Easy"
@@ -463,8 +463,8 @@
 "spinner":                     "Hit_object/Spinner"
 "spinners":                    "Hit_object/Spinner"
 
-"how_you_can_help":            "community/how_you_can_help!"
-"how_you_can_help!":           "community/how_you_can_help!"
+"how_you_can_help":            "Community/How_you_can_help!"
+"how_you_can_help!":           "Community/How_you_can_help!"
 
 "install":                     "Installation"
 "install_osu!":                "Installation"
@@ -795,9 +795,9 @@
 "user_configuration":                         "osu!_Program_Files/User_Configuration_File"
 "user_config":                                "osu!_Program_Files/User_Configuration_File"
 
-"academy":                     "community/video_series/osu!academy"
-"announcements/osu!academy":   "community/video_series/osu!academy"
-"osu!academy":                 "community/video_series/osu!academy"
+"academy":                     "Community/Video_series/osu!academy"
+"announcements/osu!academy":   "Community/Video_series/osu!academy"
+"osu!academy":                 "Community/Video_series/osu!academy"
 
 "api":                         "osu!api"
 
@@ -806,7 +806,7 @@
 
 "supporter":                   "osu!supporter"
 
-"talk":                        "community/video_series/osu!talk"
+"talk":                        "Community/Video_series/osu!talk"
 
 "tourney":                     "osu!tourney"
 
