@@ -62,27 +62,27 @@ Metainformationen müssen sich ganz am Anfang der Datei befinden. Sie sind in [Y
 
 ### Artikel, die Hilfe benötigen
 
-*Tipp: Es wird empfohlen, englische Artikel mit diesem Tag nicht zu übersetzen. Ebenso sollte dieser Tag hinzugefügt werden, wenn die Übersetzung selbst aufgeräumt werden muss.*
+*Tipp: Es wird empfohlen, englische Artikel mit diesem Tag nicht zu übersetzen. Ebenso sollte dieses Tag hinzugefügt werden, wenn die Übersetzung selbst aufgeräumt werden muss.*
 
-Der `needs_cleanup`-Tag darf bei Artikeln, die überarbeitet werden müssen oder Formatierungshilfe benötigen, hinzugefügt werden. Es ist auch akzeptabel ein Issue auf GitHub für diesen Zweck zu öffnen. Benutze diesen Tag wie folgt:
+Das `needs_cleanup`-Tag darf bei Artikeln, die überarbeitet werden müssen oder Formatierungshilfe benötigen, hinzugefügt werden. Es ist auch akzeptabel ein Issue auf GitHub für diesen Zweck zu öffnen. Benutze dieses Tag wie folgt:
 
 ```yaml
 needs_cleanup: true
 ```
 
-Sofern dieser Tag zu einem Artikel hinzugefügt wird, dann sollten [Kommentare](#kommentare) eingefügt werden, die erklären, was bei diesem Artikel überarbeitet werden muss.
+Sofern dieses Tag zu einem Artikel hinzugefügt wird, dann sollten [Kommentare](#kommentare) eingefügt werden, die erklären, was bei diesem Artikel überarbeitet werden muss.
 
 ### Nicht mehr aktuelle Artikel
 
 *Tipp: Es wird empfohlen, englische Artikel mit diesem Tag nicht zu übersetzen. Wenn der englische Artikel diesen Tag trägt, dann muss die Übersetzung das ebenfalls.*
 
-Übersetzte Artikel, die nicht mehr aktuell sind, müssen den `outdated`-Tag tragen, sobald die englische Variante aktualisiert wird. Englische Artikel dürfen auch mit "nicht mehr aktuell" gekennzeichnet werden, falls der Inhalt falsch, nicht eindeutig oder nicht mehr relevant ist. Der Tag muss folgendermaßen eingefügt werden:
+Übersetzte Artikel, die nicht mehr aktuell sind, müssen das `outdated`-Tag tragen, sobald die englische Variante aktualisiert wird. Englische Artikel dürfen auch mit "nicht mehr aktuell" gekennzeichnet werden, falls der Inhalt falsch, nicht eindeutig oder nicht mehr relevant ist. Das Tag muss folgendermaßen eingefügt werden:
 
 ```yaml
 outdated: true
 ```
 
-Sofern dieser Tag zu einem Artikel hinzugefügt wird, dann sollten [Kommentare](#kommentare) eingefügt werden, die erklären, was bei diesem Artikel überarbeitet werden muss.
+Sofern dieses Tag zu einem Artikel hinzugefügt wird, dann sollten [Kommentare](#kommentare) eingefügt werden, die erklären, was bei diesem Artikel überarbeitet werden muss.
 
 ### Artikel mit Tags versehen
 
@@ -102,7 +102,7 @@ tags:
 
 *Tipp: Wiki-Verwalter werden diese Markierung vor dem Mergen setzen, falls notwendig.*
 
-Manchmal werden Artikel ohne eine Überprüfung eines Muttersprachlers dem Wiki hinzugefügt. In diesem Fall muss die Markierung `no_native_review` gesetzt werden, damit zukünftige Übersetzer wissen, dass der Artikel gegebenenfalls nochmals überprüft werden muss. Dieser Tag muss folgendermaßen geschrieben werden:
+Manchmal werden Artikel ohne eine Überprüfung eines Muttersprachlers dem Wiki hinzugefügt. In diesem Fall muss die Markierung `no_native_review` gesetzt werden, damit zukünftige Übersetzer wissen, dass der Artikel gegebenenfalls nochmals überprüft werden muss. Dieses Tag muss folgendermaßen geschrieben werden:
 
 ```yaml
 no_native_review: true
