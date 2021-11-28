@@ -318,6 +318,8 @@ The osu! World Cup 2021 was run by the osu! team and various community members.
 
 ### Grand Finals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1-WshrU4L2mhQtBVdPPLjGluXNOsZXFGN2VHnN0EFqyM/edit?rm=minimal).
+
 Saturday, November 27, 2021
 
 | Team A | | | Team B | Match link |
