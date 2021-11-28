@@ -1,9 +1,3 @@
----
-no_native_review: true
-outdated: true
-outdated_since: 342b4e51378689a89b13feb101c2a657f5f1ac3c
----
-
 # Mise en forme
 
 *Pour les normes de rédaction, voir : [Critères de style des articles/Rédaction](../Writing)*
@@ -621,20 +615,38 @@ Il existe deux types de liens d'image : en ligne et de référence. Exemples :
 **Style en ligne :**
 
 ```markdown
-![](/wiki/shared/flag/AU.gif)
+![Couronne en or](/wiki/shared/crown-gold.png "1ère place")
 ```
 
 **Style de référence :**
 
 ```markdown
-![][flag_AU]
+![Couronne en or][GCrown]
 
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[GCrown]: /wiki/shared/crown-gold.png "1ère place"
 ```
 
-Les images doivent utiliser le style de lien en ligne. Les références aux liens de référence doivent être placées en bas de l'article.
+Les images doivent utiliser le style de lien en ligne. Les définitions des liens de référence doivent être placées au bas de l'article.
 
-Les images doivent être placées dans un dossier nommé `img`, situé dans le dossier de l'article. Les images qui sont utilisées dans plusieurs articles doivent être stockées dans le dossier `/wiki/shared/`.
+### Texte alternatif et texte de titre
+
+Le texte figurant dans la première paire de crochets (*texte alternatif*) doit décrire l'image littéralement. Il est utilisé par les lecteurs d'écran ou lorsque le chargement de l'image échoue. Il peut être omis s'il est identique au texte du titre ou si l'image est incluse uniquement à des fins décoratives.
+
+Le texte entre guillemets (*texte du titre*) doit donner un contexte supplémentaire à l'image ou indiquer sa signification. Il s'affiche sous forme d'info-bulle lors du survol de l'image et est utilisé comme légende, le cas échéant. Il ne prend en charge aucun formatage markdown.
+
+### Rendu
+
+Si une image est le seul contenu d'un paragraphe, elle s'affiche comme un bloc centré. Sinon, elle se fond dans le texte en ligne qui l'entoure.
+
+Les images en bloc avec un texte de titre affichent le texte du titre comme une légende sous l'image.
+
+Les images en bloc sont généralement associées au formatage des infobox afin de réduire leur taille initiale et de les faire flotter à côté d'autres contenus :
+
+```markdown
+::: Infobox
+![](img/mod-response.png "Un exemple de réponse à un mod")
+:::
+```
 
 ### Mise en cache des images
 
@@ -664,33 +676,7 @@ Où `<input>` est le nom du fichier à compresser et `<output>` est le nom du fi
 
 Utilisez des traits d'union (`-`) pour espacer les mots. Lorsque vous nommez une image, le nom du fichier doit être significatif ou descriptif mais court.
 
-### Mise en page et positionnement
-
-*Remarque : il n'est actuellement pas possible de faire flotter une image ou de faire en sorte que le texte s'enroule autour d'elle.*
-
-Les images sur le site web seront centrées lorsqu'elles se trouvent sur une seule ligne, par elles-mêmes. Sinon, elles seront placées en ligne avec le paragraphe. L'exemple suivant placera l'image au centre :
-
-```markdown
-L'installation d'osu! est facile. Tout d'abord, téléchargez le programme d'installation depuis la page de téléchargement.
-
-![](img/download-page.jpg)
-
-Localisez ensuite le programme d'installation et exécutez-le.
-```
-
-### Texte alternatif
-
-Les images doivent être accompagnées d'un texte alternatif, sauf si elles ont un but décoratif.
-
-### Légendes
-
-Les images sont légendées sur le site web si elles remplissent ces conditions :
-
-1. L'image est seule.
-2. L'image n'est pas à l'intérieur d'un titre.
-3. L'image a un titre.
-
-Les légendes sont reprises dans le texte du titre, qui doit être en texte clair. Les images avec légendes sont également centrées avec l'image sur le site web.
+Les images doivent être placées dans un dossier nommé `img`, situé dans le dossier de l'article. Les images qui sont utilisées dans plusieurs articles doivent être stockées dans le dossier `/wiki/shared/`.
 
 ### Largeur maximale de l'image
 
