@@ -50,7 +50,7 @@ Umumnya, tim akan mengamati kandidat-kandidat yang dianggap layak selama beberap
 
 ## Anggota Tim
 
-Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai tambahan dari area yang disebutkan di bawah, semua anggota GMT mengambil bagian dalam [meninjau konten visual dan aural yang terdapat pada beatmap](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai tambahan dari area yang disebutkan di bawah, semua anggota GMT mengambil bagian dalam [meninjau konten visual dan aural yang terdapat pada beatmap](/wiki/Rules/Visual_Content_Considerations#menilai-gambar-anda).
 
 *Harap dicatat: Semua GMT berbicara dengan bahasa Inggris selain bahasa yang tercantum dibawah ini, kecuali yang tidak tercatat.*
 

@@ -99,7 +99,7 @@ En este punto, tienes dos opciones:
 
 10. Cuando estés listo, haz clic en `Create pull request`.
 
-   ![](img/new-pull-request.jpg)
+   ![](img/new-pull-request.png)
 
 11. Ve a ['Commits'](#'commits') y [Uniendo](#uniendo) abajo.
 
