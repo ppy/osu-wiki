@@ -17,4 +17,4 @@ Before the start of every round, the queue's owner posts a short announcement, w
 - Whether the mods are regular (normal), or [a mod in return](/wiki/Modding/Mod_for_mod) is expected
 - Other information relevant to modding
 
-After enough requests are left in the thread, the modder posts a short message saying which beatmaps were accepted for modding. After that, the queue is said to be closed until the next round.
+Once enough requests are left in the thread, the modder will post a short message saying which beatmaps were accepted for modding. After that, the queue is said to be closed until the next round.
