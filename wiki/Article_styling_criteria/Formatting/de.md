@@ -178,7 +178,7 @@ HTML-Kommentare<!-- TODO explain HTML comments --> sollten benutzt werden, um To
 
 *Vorsicht: Markdown-Dateien mit `CRLF` (carriage return and line feed) via GitHub hochzuladen, wird dazu führen, dass diese Dateien `CRLF` benutzen. Um das zu verhindern, setze das Zeilenende auf `LF` (line feed) vor dem Hochladen.*
 
-Markdown files must be checked in using the `LF` end of line sequence.
+Markdown-Dateien müssen mit der Zeilenende-Sequenz `LF` eingereicht werden.
 
 ### Escaping
 
