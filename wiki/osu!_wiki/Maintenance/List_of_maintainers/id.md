@@ -1,8 +1,8 @@
 # Daftar pengelola osu! wiki
 
-Pengelola secara teratur mengurus [*issue tracker*](https://github.com/ppy/osu-wiki/issues) dan meninjau  dari kontributor. Tidak seperti dengan kontributor lain, mereka dapat mengedit *pull request* dan menggabungkannya ke dalam *branch* `master` repositori, yang secara efektif membuat perubahan menjadi publik.
+Pengelola secara teratur mengurus [*issue tracker*](https://github.com/ppy/osu-wiki/issues) dan meninjau ulang *pull request*  yang dibuat oleh kontributor. Pengelola memiliki akses khusus yaitu, mereka dapat mengedit *pull request* dan menggabungkannya ke dalam *branch* `master` repositori, membuat perubahan pada osu! wiki langsung menjadi publik.
 
-Jika Anda memerlukan bantuan untuk memberikan kontribusi atau ingin tinjauan *pull request* Anda, kirim pesan di channel `#osu-wiki` di [server Discord osu!dev](/wiki/osu!dev_Discord_server) dan pengelola atau kontributor lain akan membalas (semua pengelola mengetahui bahasa Inggris).
+Jika kamu memerlukan bantuan untuk memberikan kontribusi atau ingin *pull request* kamu ditinjau ulang, kamu dapat mengirim pesan di channel `#osu-wiki` di [server Discord osu!dev](/wiki/osu!dev_Discord_server) dan pengelola atau kontributor lain akan merespon pesan tersebut (semua pengelola dapat berbahasa Inggris).
 
 ## Tim wiki
 
