@@ -351,7 +351,7 @@ O campo de jogo do osu!catch utiliza apenas o eixo x, então `y` é irrelevante.
 
 ### osu!mania
 
-Similar ao osu!catch, hit objects do osu!mania não utilizam `y`. `x` é utilizado para determinar a coluna; veja a [seção de holds](#Holds-(Apenas-osu!mania)).
+Similar ao osu!catch, hit objects do osu!mania não utilizam `y`. `x` é utilizado para determinar a coluna; veja a [seção de holds](#holds-(apenas-osu!mania)).
 
 - Hit circles se tornam notas normais.
 - Sliders e spinners não são utilizados no osu!mania.
