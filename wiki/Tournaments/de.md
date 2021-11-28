@@ -63,21 +63,21 @@ Dieser Bereich ist für alle Turniere bestimmt. Klicken Sie auf [hier](https://o
 - [Liste mit allen Ländern, die an den osu!Turnieren teilgenommen haben.](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (Client zum Streamen der Turniere)
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentinien"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Deutschland"
+[flag_FR]: /wiki/shared/flag/FR.gif "Frankreich"
+[flag_GB]: /wiki/shared/flag/GB.gif "Vereinigtes Königreich"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hongkong"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "Südkorea"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Niederlande"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippinen"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polen"
+[flag_SE]: /wiki/shared/flag/SE.gif "Schweden"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "Vereinigte Staaten"
