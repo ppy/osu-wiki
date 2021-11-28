@@ -6,11 +6,11 @@ Long ago in the [game's distant past](https://twitter.com/ppy/status/11692568240
 
 Currently, the osu! community meetings are being chaired by [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335), and [smoogipoo](https://osu.ppy.sh/users/1040328).
 
-The next osu! community meeting is scheduled to take place on: **November 28, 2021 (Sunday 01:00 UTC)**. Meetings are generally held every two weeks, with reminders announced on [peppy's Twitter](https://twitter.com/ppy) about a day beforehand.
+The next osu! community meeting is scheduled to take place on: **December 11, 2021 (Saturday 21:00 UTC)**. Meetings are generally held every two weeks, with reminders announced on [peppy's Twitter](https://twitter.com/ppy) about a day beforehand.
 
 ## Getting involved
 
-The osu! community meetings are currently hosted on a Discord Stage on the [osu!dev Discord](https://discord.gg/ppy), and simulcasted on [peppy's Twitch channel](https://www.twitch.tv/ppy). Each meeting is currently scheduled to last about an hour, taking place every other Sunday 01:00 UTC. 
+The osu! community meetings are currently hosted on a Discord Stage on the [osu!dev Discord](https://discord.gg/ppy), and simulcasted on [peppy's Twitch channel](https://www.twitch.tv/ppy). Each meeting is currently scheduled to last about an hour, taking place every other weekend. 
 
 Everyone is welcome to join! If you have a question or have something to add to the discussion, you can raise your hand on the Discord Stage to join the queue, or write a message on the relevant Discord thread if you are not comfortable speaking, which will be read out loud and answered. In addition, before asking a question, please observe the following guidelines:
 
@@ -31,6 +31,7 @@ The first osu! community meeting was hosted on September 19, 2021. All meetings 
 | 2 | [October 17, 2021](https://youtu.be/nLT-fLeogrw) | [Meeting notes](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) |
 | 3 | [October 31, 2021](https://youtu.be/omvZbC7zJUI) | [Meeting notes](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) |
 | 4 | [November 14, 2021](https://youtu.be/rEWgTY-L95Y) | [Meeting notes](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) |
+| 5 | [November 28, 2021](https://youtu.be/SqMrY26Q6Tw) | [Meeting notes](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) |
 
 ## Related links
 
