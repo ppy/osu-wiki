@@ -87,8 +87,12 @@
 "difficulty":                        "Beatmap/Difficulty"
 "difficulties":                      "Beatmap/Difficulty"
 
-"AW":  "Community/Forum/Abandoned_Wasteland"
+"AW":                   "Community/Forum/Abandoned_Wasteland"
 "abandoned_wasteland":  "Community/Forum/Abandoned_Wasteland"
+"forum":                "Community/Forum"
+"forums":               "Community/Forum"
+"modding_queue":        "Community/Forum/Modding_Queues"
+"modding_queues":       "Community/Forum/Modding_Queues"
 
 "bancho": "Disambiguation/Bancho"
 "easy": "Disambiguation/Easy"
