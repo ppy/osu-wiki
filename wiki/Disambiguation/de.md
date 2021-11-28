@@ -1,8 +1,8 @@
-# Begriffserklärung
+# Begriffsabgrenzung
 
-Die Begriffserklärung ist ein Prozess der Lösung von Konflikten die entstehen können, wenn der Titel eines Artikels nicht eindeutig ist. Meistens ist dies der Fall dadurch, dass er sich auf mehr als nur ein vom osu! wiki behandeltes Thema bezieht, entweder als Haupt- oder Unterthema.
+Die Begriffsabgrenzung ist ein Prozess der Lösung von Konflikten die entstehen können, wenn der Titel eines Artikels nicht eindeutig ist. Meistens ist dies der Fall dadurch, dass er sich auf mehr als nur ein vom osu! wiki behandeltes Thema bezieht, entweder als Haupt- oder Unterthema.
 
-Ein normaler Artikel, mit einem ähnlichen Titel, muss die Kopfnote ["Für andere Bedeutungen"](/wiki/Article_styling_criteria/Formatting#for-other-uses) mit einem Link zur Seite für die Begriffserklärung haben.
+Ein normaler Artikel, mit einem ähnlichen Titel, muss die Kopfnote ["Für andere Bedeutungen"](/wiki/Article_styling_criteria/Formatting#for-other-uses) mit einem Link zur Seite für die Begriffsabgrenzung haben.
 
 ## Auflistung uneindeutiger Artikeltitel
 

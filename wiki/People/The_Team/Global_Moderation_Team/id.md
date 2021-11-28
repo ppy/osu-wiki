@@ -50,7 +50,7 @@ Umumnya, tim akan mengamati kandidat-kandidat yang dianggap layak selama beberap
 
 ## Anggota Tim
 
-Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai tambahan dari area yang disebutkan di bawah, semua anggota GMT mengambil bagian dalam [meninjau konten visual dan aural yang terdapat pada beatmap](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai tambahan dari area yang disebutkan di bawah, semua anggota GMT mengambil bagian dalam [meninjau konten visual dan aural yang terdapat pada beatmap](/wiki/Rules/Visual_Content_Considerations#menilai-gambar-anda).
 
 *Harap dicatat: Semua GMT berbicara dengan bahasa Inggris selain bahasa yang tercantum dibawah ini, kecuali yang tidak tercatat.*
 
@@ -101,7 +101,6 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai ta
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Anggota inti osu!team |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Tagalog | Moderasi chat |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Jerman | Manajemen turnamen |
-| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Prancis, sedikit Spanyol | Moderasi chat, moderasi forum, moderasi komunitas mapping/modding |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugis | Moderasi chat |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Kanton, Mandarin | Moderasi chat |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Korea, Jepang | Moderasi chat |
