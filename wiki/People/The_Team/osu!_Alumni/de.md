@@ -216,44 +216,44 @@ Die **osu! Alumni** sind für ihre bewegenden Beiträge an osu! bekannt. Hätten
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | osu!academy Founder |
 | ![][flag_US] [Zyid](https://osu.ppy.sh/users/2778) | BAT |
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DO]: /wiki/shared/flag/DO.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HR]: /wiki/shared/flag/HR.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MD]: /wiki/shared/flag/MD.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TR]: /wiki/shared/flag/TR.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_UY]: /wiki/shared/flag/UY.gif
-[flag_ZA]: /wiki/shared/flag/ZA.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentinien"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australien"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgien"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brasilien"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Schweiz"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Kolumbien"
+[flag_DE]: /wiki/shared/flag/DE.gif "Deutschland"
+[flag_DO]: /wiki/shared/flag/DO.gif "Dominikanische Republik"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spanien"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finnland"
+[flag_FR]: /wiki/shared/flag/FR.gif "Frankreich"
+[flag_GB]: /wiki/shared/flag/GB.gif "Vereinigtes Königreich"
+[flag_GR]: /wiki/shared/flag/GR.gif "Griechenland"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hongkong"
+[flag_HR]: /wiki/shared/flag/HR.gif "Kroatien"
+[flag_HU]: /wiki/shared/flag/HU.gif "Ungarn"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesien"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italien"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "Südkorea"
+[flag_MD]: /wiki/shared/flag/MD.gif "Moldau"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexiko"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Niederlande"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norwegen"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Neuseeland"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippinen"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russische Föderation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Schweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TR]: /wiki/shared/flag/TR.gif "Türkei"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "Vereinigte Staaten"
+[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
+[flag_ZA]: /wiki/shared/flag/ZA.gif "Südafrika"
 [flag___]: /wiki/shared/flag/__.gif
