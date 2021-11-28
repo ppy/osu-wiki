@@ -9,7 +9,7 @@ tags:
 
 # Developer
 
-Developer osu! menjaga game dan situs web tetap berjalan dengan memperbaiki bug dan menambah beberapa fitur baru. Kebanyakan dari mereka adalah karyawan dari perusahaan ppy Pty Ltd yang merupakan pengembang dan publisher game osu!. Mereka juga membentuk sebuah tim yang diberi nama dengan [tim inti osu!](/wiki/People/The_Team).
+Developer merupakan orang-orang yang menjaga agar permainan dan situs web osu! dapat terus hidup dan berkembang dengan memperbaiki *bug-bug* yang ada serta menambah fitur-fitur baru. Kebanyakan dari mereka merupakan karyawan ppy Pty Ltd, yang merupakan badan hukum resmi tempat osu! bernaung. Mereka juga pada umumnya merupakan bagian dari [tim inti osu!](/wiki/People/The_Team).
 
 Developer osu! dapat dikenali dari warna penggunanya yaitu pink dan gelar "osu!dev" atau "osu!team".
 
@@ -19,7 +19,7 @@ Halaman daftar tim [Developer](https://osu.ppy.sh/groups/11).
 
 Pengembangan osu! dipimpin oleh ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)**, sang pencipta osu!.
 
-### Pengembang klien game
+### Pengembang klien permainan
 
 - ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
 - ![][flag_SK] [Domco](https://osu.ppy.sh/users/3562660)
@@ -38,13 +38,13 @@ Pengembangan osu! dipimpin oleh ![][flag_AU] **[peppy](https://osu.ppy.sh/users/
 
 - ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765)
 
-### Manajer komunitas
+### Pengelola komunitas
 
 - ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 - ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)
 
-### Akun Bot
+### Akun bot
 
 - ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
 
