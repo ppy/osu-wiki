@@ -12,7 +12,7 @@ Es gibt zwei Sprachregister im Wiki: neutral und informal.
 
 Standardmäßig wird das neutrale Register verwendet.
 
-Das informale Register wird speziell für eine handvolle Anzahl von Artikeln vbenutzt. Einige Beispiele mit diesem Register sind das [FAQ](/wiki/FAQ) und der [Hilfecenter](/wiki/Help_Centre).
+Das informale Register wird speziell für eine handvolle Anzahl von Artikeln vbenutzt. Einige Beispiele mit diesem Register sind das [FAQ](/wiki/FAQ) und das [Hilfecenter](/wiki/Help_Centre).
 
 Alle Regeln der Artikelgestaltungskriterien müssen für beide Register befolgt werden. Ausnahmen für jedes Register werden dokumentiert.
 
@@ -50,7 +50,7 @@ Spielmodifikatoren müssen das Wort `Mod` nach dem Modnamen haben, um Mehrdeutig
 
 ---
 
-Diese Spielmodifikatoren werden nicht mehr von osu! verwendet. Aber sofern gebraucht, diese müssen wie folgt geschrieben werden (Buchstabenform und -abstand muss übereinstimmen):
+Diese Spielmodifikatoren werden nicht mehr von osu! verwendet. Aber sofern gebraucht, müssen diese wie folgt geschrieben werden (Buchstabenform und -abstand muss übereinstimmen):
 
 - `Fade Out`
 - `No Video`
@@ -71,15 +71,15 @@ Im osu!-Spielmodus bestehen Beatmaps aus drei unterschiedlichen Spielelementen: 
 
 ### Sprachnamen
 
-Sprachnamen werden großgeschrieben, außer sie deklarieren einen englischen Discord-Kanal. In diesem Fall sollte das englische Wort in Kleinschreibung verwendet werden. Das Folgende ist ein Beispiel:
+Sprachnamen werden großgeschrieben, außer sie deklarieren einen Channel im osu!-Chat. In diesem Fall sollte das englische Wort in Kleinschreibung verwendet werden. Das Folgende ist ein Beispiel:
 
 ```markdown
 Der `#spanish`-Chat ist für alle, die Spanisch sprechen.
 ```
 
-### Sachgemäße Nomen
+### Eigennamen
 
-Sachgemäße Nomen müssen großgeschrieben werden. Im Folgenden ein Beispiel:
+Eigennamen müssen großgeschrieben werden. Im Folgenden ein Beispiel:
 
 ```markdown
 Dean Herbert (auch bekannt als peppy) erschuf osu! in 2007.
@@ -89,7 +89,7 @@ Dean Herbert (auch bekannt als peppy) erschuf osu! in 2007.
 
 *Für Regeln bezogen auf osu!, siehe: [osu!](#osu!)*
 
-Die folgenden Marken müssen wie folgt geschrieben werden (Buchstabenform muss übereinstimmen):
+Die folgenden Marken müssen wie folgt geschrieben werden (Schreibweise muss übereinstimmen):
 
 - `Discord`
 - `Facebook`
@@ -119,7 +119,7 @@ Zeitformatierungen müssen im folgenden Format benutzt werden:
 HH:MM ZEITZONE
 ```
 
-Zeit wird in einem 24-Stunden-Format notiert und alle einstelligen Werte müssen eine null als Vorzeichen haben. Die Zeitzone befindet sich direkt nach der Zeit und sollte im Format UTC+0 für globale Ereignise sein. Für kleiner Ereignisse ist es auch in Ordnung, die lokale Zeitzone zu verwenden. Benutze `UTC` anstatt `GMT`.
+Zeit wird in einem 24-Stunden-Format notiert und alle einstelligen Werte müssen eine null als Vorzeichen haben. Die Zeitzone befindet sich direkt nach der Zeit und sollte im Format UTC+0 für globale Ereignise sein. Für kleinere Ereignisse ist es auch in Ordnung, die lokale Zeitzone zu verwenden. Benutze `UTC` anstatt `GMT`.
 
 Schlechte Beispiele:
 
@@ -165,7 +165,7 @@ Spielmodi müssen wie folgt geschrieben werden:
 - `osu!catch`
 - `osu!mania`
 
-Verweise auf die Namen der alten Spielmodi (also `Catch the Beat`, `Taiko` und `Mania`) dürfen auch in ihrer eigenen Schreibweise benutzt werden, sofern es thematisch um die alten Spielmodi geht.
+Verweise auf die Namen der alten Spielmodi (also `Catch the Beat`, `Taiko` und `Mania`) dürfen auch in ihrer eigenen Schreibweise benutzt werden, sofern es thematisch um die alten Namen geht.
 
 ## osu!
 
@@ -217,7 +217,7 @@ Diese Wörter müssen wie folgt geschrieben werden (Buchstabenform und -abstand 
 - `Slidertick`
 - `Sliderball`
 - `Sliderpath`
-- `Kudosu` (als ein Nomen zu behandeln)
+- `Kudosu` (als ein Eigenname zu behandeln)
 
 ---
 
@@ -262,7 +262,7 @@ Bevorzuge: Beatmap Nominators können deine Beatmap nomieren.
 
 ## Perspektive
 
-`Spieler`, `Beutzer`, `Skinner`, `Storyboarder` und `Ersteller` sollten benutzt werden, wenn der Leser oder eine andere Person angesprochen wird. `sie` und `ihr` darf benutzt werden, wenn benötigt.
+`Spieler`, `Beutzer`, `Skinner`, `Storyboarder` und `Ersteller` sollten benutzt werden, wenn der Leser oder eine andere Person angesprochen wird. `es`, `sein` und `ihm` darf benutzt werden, wenn benötigt.
 
 `du` und `dein` sollte vermieden werden. `Ich` darf nicht vorkommen. `wir`, `er` oder `sein` und `sie` oder `ihr` darf ebenfalls nicht vorkommen.
 
@@ -286,4 +286,4 @@ Artikel sollten einfache deutsche Grammatik verwenden.
 
 ## Aussprache
 
-Geschriebene Aussprache muss das [internationales phonetisches Alphabet](https://de.wikipedia.org/wiki/Internationales_Phonetisches_Alphabet) benutzen.
+Geschriebene Aussprache muss das [internationale phonetische Alphabet](https://de.wikipedia.org/wiki/Internationales_Phonetisches_Alphabet) benutzen.

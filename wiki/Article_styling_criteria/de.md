@@ -6,9 +6,9 @@ tags:
 
 # Artikelgestaltungskriterien
 
-*Für Nachrichten-Beiträge, siehe: [Nachrichtengestaltungskriterien](/wiki/News_Styling_Criteria)*
+*Für News-Beiträge, siehe: [News-Gestaltungskriterien](/wiki/News_Styling_Criteria)*
 
-Die Artikelgestaltungskriterien dienen als die erforderlichen osu!-Wiki-Gestaltungskriterien, um konsitent in Klarheit, Formatierung und das Layout in allen Artikeln zu bleiben.
+Die Artikelgestaltungskriterien dienen als verbindliche Gestaltungsstandards des osu!-Wikis, um Klarheit, Formatierung und Layout in allen Artikeln einheitlich zu gestalten.
 
 Alle Artikel sollten anstreben, eine gute Grammatik, eine korrekte Rechtschreibung und richtige Informationen zu haben.
 

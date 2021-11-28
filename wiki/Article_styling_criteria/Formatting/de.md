@@ -12,7 +12,7 @@ Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:
 | :-- | :-- | :-- |
 | `en.md` | Englisch | English |
 | `ar.md` | Arabisch | اَلْعَرَبِيَّةُ |
-| `be.md` | Weißrussisch | Беларуская мова |
+| `be.md` | Belarussisch | Беларуская мова |
 | `bg.md` | Bulgarisch | Български |
 | `cs.md` | Tschechisch | Česky |
 | `da.md` | Dänisch | Dansk |
@@ -35,7 +35,7 @@ Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:
 | `ru.md` | Russisch | Русский |
 | `sk.md` | Slowakisch | Slovenčina |
 | `sv.md` | Schwedisch | Svenska |
-| `th.md` | Thailändisch | ไทย |
+| `th.md` | Thai | ไทย |
 | `tr.md` | Türkisch | Türkçe |
 | `uk.md` | Ukrainisch | Українська мова |
 | `vi.md` | Vietnamesisch | Tiếng Việt |
@@ -102,7 +102,7 @@ tags:
 
 *Tipp: Wiki-Verwalter werden diese Markierung vor dem Mergen setzen, falls notwendig.*
 
-Manchmal werden Artikel ohne eine Überprüfung eines Muttersprachlers dem Wiki hinzugefügt. In diesem Fall muss die Markierung `no_native_review` gesetzt werden, damit zukünftige Übersetze wissen, dass der Artikel gegebenenfalls nochmals überprüft werden muss. Dieser Tag muss folgendermaßen geschrieben werden:
+Manchmal werden Artikel ohne eine Überprüfung eines Muttersprachlers dem Wiki hinzugefügt. In diesem Fall muss die Markierung `no_native_review` gesetzt werden, damit zukünftige Übersetzer wissen, dass der Artikel gegebenenfalls nochmals überprüft werden muss. Dieser Tag muss folgendermaßen geschrieben werden:
 
 ```yaml
 no_native_review: true
@@ -114,11 +114,11 @@ no_native_review: true
 
 Artikeltitel sollten im Singular stehen und "Sentence case" verwenden. Siehe [Wikipedias Artikel über die Namensgebung](https://de.wikipedia.org/wiki/Wikipedia:Archiv/Richtlinien_f%C3%BCr_die_Namensgebung:Singular-Plural-Debatte) für mehr Details.
 
-Artikeltitel sollten dem Ordnernamen entsprechen, in welchem sie sich befinden (Unterstriche (`_`) dürfen gerne an angemessenen Stellen ersetzt werden). Wenn der Ordnername sich ändert, dann sollte der Titel sich ebenfalls ändern und umgekehrt.
+Artikeltitel sollten dem Ordnernamen entsprechen, in welchem sie sich befinden (Unterstriche (`_`) dürfen gerne an angemessenen Stellen mit Leerzeichen ersetzt werden). Wenn der Ordnername sich ändert, dann sollte der Titel sich ebenfalls ändern und umgekehrt.
 
 ---
 
-Wettbewerbsartikel sind eine Ausnahme. Der Ordner muss Abkürzungen, Akronyme und Initialien verwenden. Der Titel des Artikels muss den vollen Namen des Wettbewerbs enthalten.
+Wettbewerbsartikel sind eine Ausnahme. Der Ordner muss Abkürzungen, Akronyme oder Initialien verwenden. Der Titel des Artikels muss den vollen Namen des Wettbewerbs enthalten.
 
 ## Ordner- und Dateistrukturen
 
@@ -166,7 +166,7 @@ Schlechtes Beispiel:
 HTML-Kommentare <!-- TODO explain HTML comments --> sollten benutzt werden, um Todos hervorzuheben, aber auch um Text zu kommentieren.
 ```
 
-Good example:
+Gutes Beispiel:
 
 ```markdown
 HTML-Kommentare<!-- TODO explain HTML comments --> sollten benutzt werden, um Todos hervorzuheben, aber auch um Text zu kommentieren.
@@ -182,7 +182,7 @@ Markdown files must be checked in using the `LF` end of line sequence.
 
 ### Escaping
 
-Markdown syntax should be escaped as needed. However, article titles are parsed as plain text and so must not be escaped.
+Die Markdown-Syntax sollte bei Bedarf escaped werden. Artikeltitel werden jedoch als reiner Text gelesen und dürfen daher nicht escaped werden.
 
 ### Paragraphen
 
@@ -204,7 +204,7 @@ Kopfnoten müssen in Kursivschrift sein und direkt unter der Überschrift liegen
 
 ### Hauptseite
 
-Die Knopfnote *Hauptseite* verweist den Leser zum Hauptartikel eines Themas. Wenn diese Knopfnote benutzt wird, wird impliziert, dass dier Sbschnitt eine Zusammenfassung des verlinkten Artikels ist. Die Knopfnote sollte nur einen Link enthalten. Sie muss wie folgt formartiert sein:
+Die Knopfnote *Hauptseite* verweist den Leser zum Hauptartikel eines Themas. Wenn diese Knopfnote benutzt wird, wird impliziert, dass der Abschnitt eine Zusammenfassung des verlinkten Artikels ist. Die Knopfnote sollte nur einen Link enthalten. Sie muss wie folgt formartiert sein:
 
 ```markdown
 *Hauptseite: {Artikel}*
@@ -301,7 +301,7 @@ Alle Überschriften müssen "sentence case" benutzen.
 
 *Siehe auch: [Artikelbenennung](#artikelbenennung)*
 
-*Vorsicht: Titel werden als Klartext verarbeitet, sie dürfen nicht escapet werden.*
+*Vorsicht: Titel werden als Klartext verarbeitet, sie dürfen nicht escaped werden.*
 
 Die erste Überschrift muss in allen Artikeln das Level 1 haben, da es der Artikeltitel ist. Alle Überschriften danach müssen [Abschnittstitel](#abschnitte) sein. Titel dürfen keine Formatierung, Links oder Bilder enthalten.
 
@@ -338,7 +338,7 @@ Listen sollten nicht mehr als 4 Einrückungsebenen benutzen und sollten keine le
 
 Für verschachtelte Listen gilt, dass Aufzählungszeichen oder Zahlen zu dem Inhalt des übergeordneten Elements passen müssen.
 
-Das folgende Beispiel wurde falsch umgesetzt (beachte den ABstand vor dem Aufzählungszeichen):
+Das folgende Beispiel wurde falsch umgesetzt (beachte den Abstand vor dem Aufzählungszeichen):
 
 ```markdown
 1. Lasse einen Drachen fliegen
@@ -354,7 +354,7 @@ Das folgende Beispiel wurde richtig umgesetzt:
 
 ### Aufzählungslisten
 
-Aufzählungslisten müssen einen Bindestrich (`-`) verwenden. These must then be followed by one space. (Example shown below.)
+Aufzählungslisten müssen einen Bindestrich (`-`) verwenden. Anschließend muss ein Leerzeichen folgen. (Beispiel unten.)
 
 ```markdown
 - osu!
@@ -431,7 +431,7 @@ Der `osu!direct`-Button ist im Hauptmenü auf der rechten Seite sichtbar, sofern
 Beim Kopieren des Namens eines Ordners oder eines Verzeichnisses muss die Schreibweise so sein, wie sie angezeigt wird. Es wird hier trotzdem die Kleinschreibung empfohlen, sofern möglich. Verzeichnispfade dürfen nicht absolut sein (also starte den Verzeichnisnamen nicht vom Laufwerksbuchstaben oder Wurzelpfad aus). (Beispiel unten gezeigt.)
 
 ```markdown
-osu! ist standardmäßig im Ordner `AppData/Local` installiert, außer der Installationsort wurd anders festgelegt während der Installation.
+osu! ist standardmäßig im Ordner `AppData/Local` installiert, außer der Installationsort wurde anders festgelegt während der Installation.
 ```
 
 ### Schlüsselwörter und Befehle
@@ -585,7 +585,7 @@ Sobald auf eine Beatmap verwiesen wird, benutze dieses Format für den Linktext:
 {Künstler} - {Titel} ({Ersteller})
 ```
 
-Alle URLs zu Beatmaps müssn folgendermaßen formatiert sein:
+Alle URLs zu Beatmaps müssen folgendermaßen formatiert sein:
 
 ```
 https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
@@ -595,7 +595,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
 
 *Hinweis: Mit externen Links sind Links gemeint, die außerhalb der Domäne `https://osu.ppy.sh/` liegen.*
 
-Das Protokoll `https` muss benutzt werden, es sei denn, die Seite unterstützt dies nicht. Externe Links müssen eine klaren und direkten Link zu eine seriöse Quelle sein. Die URL aus der Adressleiste deines Webbrowsers sollte so kopiert werden, wie sie bei der Verlinkung auf externe Seiten verwendet wird.
+Das Protokoll `https` muss benutzt werden, es sei denn, die Seite unterstützt dies nicht. Externe Links müssen eine klaren und direkten Link zu einer seriösen Quelle sein. Die URL aus der Adressleiste deines Webbrowsers sollte so kopiert werden, wie sie bei der Verlinkung auf externe Seiten verwendet wird.
 
 Es gibt keine visuellen Unterschiede zwischen externen und osu!-internen Links. Deshalb sollte der Name der Webseite im Linktext enthalten sein. Siehe das folgende Beispiel:
 
@@ -735,7 +735,7 @@ Die Flaggensymbole benutzen eine Zwei-Buchstaben-Kodierung (alle in Großschreib
 
 Wobei `xx` der [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) zwei-Buchstaben Ländercode für die Flagge ist.
 
-Der volle Ländername sollte in den Titeltext eingefügt werden. Dr Ländercode im alternativen Text ist optional, aber muss bei allen Flaggen im Artikel angewendet werden.
+Der volle Ländername sollte in den Titeltext eingefügt werden. Der Ländercode im alternativen Text ist optional, aber muss bei allen Flaggen im Artikel angewendet werden.
 
 ## Tabellen
 
@@ -743,7 +743,7 @@ Tabellen auf der Webseite unterstützen Titel nur in der ersten Zeile.
 
 Tabellen müssen nicht schön gemacht werden (füge keine extra Leerzeichen ein, um die Abstände gleichmäßig zu machen). Sie müssen einen senkrechten Strich (`|`) auf der linken sowie rechten Seite haben und jede Zelle muss mit einem Leerzeichen auf jeder Seite versehen sein. Leere Zellen müssen einen senkrechten Strich, gefolgt von zwei Leerzeichen, gefolgt von einem weiteren senkrechten Strich haben.
 
-Die Trennzeichen (die nächste Zeile nach den Spaltenüberschriften) darf nur drei Zeichen pro Spalte benutzen (und mit einem Leerzeichen auf jeder Seite versehen sein), die wie folgt aussehen müssen:
+Die Trennzeichen-Zeile (die nächste Zeile nach den Spaltenüberschriften) darf nur drei Zeichen pro Spalte benutzen (und mit einem Leerzeichen auf jeder Seite versehen sein), die wie folgt aussehen müssen:
 
 - `:--` (linksbüngig)
 - `:-:` (mittig ausrichten)
