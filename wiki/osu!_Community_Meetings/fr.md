@@ -6,11 +6,11 @@ Il y a longtemps, dans le [passé lointain du jeu](https://twitter.com/ppy/statu
 
 Actuellement, les réunions de la communauté osu! sont présidées par [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335) et [smoogipoo](https://osu.ppy.sh/users/1040328).
 
-Le prochain osu! community meeting est prévu pour le : **11 décembre 2021 (Samedi 21:00 UTC)**. Les réunions ont généralement lieu toutes les deux semaines, les rappels étant annoncés sur le [compte Twitter de peppy](https://twitter.com/ppy) environ un jour avant.
+Le prochain osu! community meeting est prévu pour le : **11 décembre 2021 (Samedi 21:00 UTC)**. Les meetings ont généralement lieu toutes les deux semaines, les rappels étant annoncés sur le [compte Twitter de peppy](https://twitter.com/ppy) environ un jour avant.
 
 ## S'impliquer
 
-Les osu! community meetings sont actuellement organisées sur une scène Discord sur le Discord [osu!dev](https://discord.gg/ppy), et diffusés en simultané sur [la chaîne Twitch de peppy](https://www.twitch.tv/ppy). Chaque meeting est actuellement prévue pour durer environ une heure et a lieu un week-end sur deux.
+Les osu! community meetings sont actuellement organisés sur une scène Discord sur le Discord [osu!dev](https://discord.gg/ppy), et diffusés en simultané sur [la chaîne Twitch de peppy](https://www.twitch.tv/ppy). Chaque meeting est actuellement prévu pour durer environ une heure et a lieu un week-end sur deux.
 
 Tout le monde est invité à participer ! Si vous avez une question ou quelque chose à ajouter à la discussion, vous pouvez lever la main sur la scène Discord pour rejoindre la file d'attente, ou écrire un message sur le fil Discord correspondant si vous n'êtes pas à l'aise pour parler, qui sera lu à haute voix et auquel on répondra. En outre, avant de poser une question, veuillez respecter les directives suivantes :
 
