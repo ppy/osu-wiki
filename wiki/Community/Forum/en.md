@@ -51,10 +51,10 @@ In addition to profile badges provided by group membership, users may have [cust
 
 Some of the forums have different purposes that are not limited to discussion. As a result, they have extra rules and/or technical capabilities.
 
-- Help: technical support from [Support Team](/wiki/People/The_Team/Support_Team) and regular users.
-- Feature Requests: suggestions for osu! development.
-- Modding Queues: beatmap reviews done by other mappers and modders.
-- Off-Topic: the place for the not-so-logical discussions.
+- [Help](/wiki/Community/Forum/Help): technical support from [Support Team](/wiki/People/The_Team/Support_Team) and regular users.
+- [Feature Requests](/wiki/Community/Forum/Feature_Requests): suggestions for osu! development.
+- [Modding Queues](/wiki/Community/Forum/Modding_Queues): beatmap reviews done by other mappers and modders.
+- [Off-Topic](/wiki/Community/Forum/Off-Topic): the place for the not-so-logical discussions.
 - [Abandoned Wasteland](/wiki/Community/Forum/Abandoned_Wasteland): the storage for useless threads.
 
 Additionally, there are other forums similar to Abandoned Wasteland, which serve technical or managerial purposes and are therefore hidden from the general public.
@@ -65,7 +65,7 @@ Additionally, there are other forums similar to Abandoned Wasteland, which serve
 
 - Integration with the [beatmap submission system](/wiki/Submission)
 - The [kudosu](/wiki/Kudosu) and [beatmap ranking](/wiki/Beatmap_ranking_procedure) systems
-- Help and Feature Requests forums
+- [Help](/wiki/Community/Forum/Help) and [Feature Requests](/wiki/Community/Forum/Feature_Requests) forums
 - [osu!supporter](/wiki/osu!supporter) and user pages
 
 After the new osu! website was brought up and running, phpBB had been slowly phased out in favour of the custom forum engine.
