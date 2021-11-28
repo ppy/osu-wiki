@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu! wiki 維護者列表
 
 維護者會定期查看[議題追蹤頁](https://github.com/ppy/osu-wiki/issues)及審核貢獻者的 Pull Request。與其他貢獻者不同，維護者能夠編輯 Pull Request 並合併至儲存庫的 `master` 分支中，使變更正式上線。
