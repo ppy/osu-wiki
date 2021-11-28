@@ -23,7 +23,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 [인터페이스](/wiki/Interface) • [옵션](/wiki/Options) • [시각적 설정](/wiki/Visual_Settings) • [단축키](/wiki/Shortcut_key_reference) • [사용자 구성 파일](/wiki/osu!_Program_Files/User_Configuration_File) • [프로그램 파일](/wiki/osu!_Program_Files)
 
-[파일 확장자](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[파일 확장자](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
