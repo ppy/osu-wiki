@@ -23,7 +23,7 @@ Witaj na wiki osu!, projekcie skupiającym szeroką gamę informacji powiązanyc
 
 [Interfejs](/wiki/Interface) • [Opcje](/wiki/Options) • [Ustawienia wizualne](/wiki/Visual_Settings) • [Skróty klawiszowe](/wiki/Shortcut_key_reference) • [Plik konfiguracyjny](/wiki/osu!_Program_Files/User_Configuration_File) • [Pliki gry](/wiki/osu!_Program_Files)
 
-[Formaty plików](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[Formaty plików](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
