@@ -126,15 +126,15 @@ Schlechte Beispiele:
 ```markdown
 3:30 UTC
 22:30 (UTC+7)
-11 Uhr
+11
 ```
 
 Gute Beispiele:
 
 ```markdown
-15:30 Uhr UTC
-22:30 Uhr UTC+7
-11:30 Uhr UTC-4
+15:30 UTC
+22:30 UTC+7
+11:30 UTC-4
 ```
 
 `UTC` (ohne eine Abweichung) ist implizit `UTC+0`. Beides kann verwendet werden, aber die Benutzung muss konsistent bleiben. UTC mit einer expliziten null-Abweichung muss ein Plus-Symbol enthalten (`+`).
@@ -146,14 +146,14 @@ Wenn Zeit- und Datenangaben gemeinsam verwendet werden, dann muss das Datum zuer
 Schlechte Beispiele:
 
 ```markdown
-25. Oktober 2016 um 11:45 Uhr UTC
-25. Oktober 2016 11:45 Uhr UTC
+25. Oktober 2016 um 11:45 UTC
+25. Oktober 2016 11:45 UTC
 ```
 
 Gutes Beispiel:
 
 ```markdown
-25. Oktober 2016 (11:45 Uhr UTC)
+25. Oktober 2016 (11:45 UTC)
 ```
 
 ## Spielmodi
