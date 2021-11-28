@@ -196,9 +196,9 @@ The score given by each note is calculated with the following formula:-
 ```
 Score = BaseScore + BonusScore
 
-BaseScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitValue / 320)
+BaseScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) / (HitValue / 320)
 
-BonusScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitBonusValue * Sqrt(Bonus) / 320)
+BonusScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) / (HitBonusValue * Sqrt(Bonus) / 320)
 Bonus = Bonus before this hit + HitBonus - HitPunishment / ModDivider
 Bonus is limited to [0, 100], initially 100.
 
