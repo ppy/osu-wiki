@@ -23,7 +23,7 @@ Bine ați venit la osu! wiki, un proiect care conține o gamă largă de informa
 
 [Interfață](/wiki/Interface) • [Opțiuni](/wiki/Options) • [Setări vizuale](/wiki/Visual_Settings) • [Comenzi rapide de la tastatură](/wiki/Shortcut_key_reference) • [Fișier de configurare](/wiki/osu!_Program_Files/User_Configuration_File) • [Fișiere de program](/wiki/osu!_Program_Files)
 
-[Formate de fișier](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[Formate de fișier](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">

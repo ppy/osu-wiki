@@ -1,4 +1,4 @@
-# EZ (Begriffserklärung)
+# EZ (Begriffsabgrenzung)
 
 **EZ** kann Folgendes bedeuten:
 
