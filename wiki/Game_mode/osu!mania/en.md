@@ -186,7 +186,7 @@ The **[05 March 2015 (2015-03-05) update](https://osu.ppy.sh/home/changelog)** g
 
 ## Scoring
 
-*Scoring Values can be found in [Score under osu!mania Scoring Values section](/wiki/Score#osu-mania).*
+*Scoring Values can be found in [Score under osu!mania Scoring Values section](/wiki/Score#osu!mania).*
 
 Scoring section details all the intricacies of scoring, including mathematical formula.
 
@@ -340,7 +340,7 @@ Enable the `Co-op mode` button to force *Co-Op* game modifier when played, with 
   - For example, for a 4K beatmap, using 2K and Co-Op modifier will not incur any score reduction.
   - Respectively, for a 5K beatmap, using 5K modifier will also not incur any score reduction.
   - Using xK or Co-Op modifier on osu!mania-specific beatmap will not incur any score reduction, too.
-- Mascots for osu!mania are [Mani & Mari](/wiki/Mascots#-mani-&-mari).
+- Mascots for osu!mania are [Mani & Mari](/wiki/Mascots#mani-&-mari).
 - When played by [Auto](/wiki/Game_modifier/Auto), the player name will be *osu!topus*.
 
 ### History
