@@ -13,7 +13,6 @@ no_native_review: true
 | :-- | :-- |
 | [.osz][Osz Link] | Archivo beatmap ejecutable. |
 | [.osk][Osk Link] | Archivo de skin ejecutable. |
-| [.db][Db Link] | Información almacenada. |
 
 ### Editor de Beatmap
 
@@ -79,7 +78,6 @@ El archivo .osz/.osk es una extensión de archivo adaptada específicamente para
    
 [Osz Link]: /wiki/osu!_File_Formats/Osz_(file_format)
 [Osk Link]: /wiki/osu!_File_Formats/Osk_(file_format)
-[Db Link]: /wiki/osu!_File_Formats/Db_(file_format)
 [Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)
 [Osb Link]: /wiki/osu!_File_Formats/Osb_(file_format)
 [Osr Link]: /wiki/osu!_File_Formats/Osr_(file_format)

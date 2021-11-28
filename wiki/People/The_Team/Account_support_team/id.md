@@ -1,11 +1,6 @@
----
-outdated: true
-outdated_since: 234321c76b4fe27bcd7d21524603a9d975701ecb
----
-
 # Account support team
 
-*Untuk tim yang memoderasi subforum tertentu, kunjungi: [Support Team](/wiki/People/The_Team/Support_Team)*
+*Untuk tim yang memoderasi sub-forum tertentu, kunjungi: [Support Team](/wiki/People/The_Team/Support_Team)*
 
 **Account support team** adalah sekelompok orang yang mengelola akun yang dimiliki oleh para pengguna osu!, serta menerima banding jika akun kamu terkena silence dan restrict.
 
@@ -47,4 +42,4 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
 - [Permintaan data](/wiki/Legal/Privacy#pengontrol-data) dan masalah privasi.
-- [Permintaan penghapusan akun](/wiki/Legal/Privacy#hak-dan-kendali-anda) secara **permanen** bagi penduduk Uni Eropa (Cakupan [GDPR](https://id.wikipedia.org/wiki/Regulasi_Umum_Perlindungan_Data)).
+- [Permintaan penghapusan akun](/wiki/Legal/Privacy#hak-dan-kendali-anda) secara **permanen**.
