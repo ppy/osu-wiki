@@ -6,6 +6,7 @@ tags:
   - titles
   - user color # these can be removed if a dedicated page for "user colour" is added
   - user colour
+no_native_review: true
 ---
 
 # 使用者頭銜
