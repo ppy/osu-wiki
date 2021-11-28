@@ -6,7 +6,7 @@
 
 Saat ini, pertemuan komunitas osu! diketuai oleh [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335), dan [smoogipoo](https://osu.ppy.sh/users/1040328).
 
-Pertemuan komunitas osu! berikutnya akan diadakan pada **Sabtu, 11 Desember 2021 pukul 01.00 UTC (08.00 WIB)**. Pertemuan diadakan setiap dua minggu sekali dengan pengingat yang diumumkan melalui [akun Twitter peppy](https://twitter.com/ppy) sehari sebelumnya.
+Pertemuan komunitas osu! berikutnya akan diadakan pada **Sabtu, 11 Desember 2021 pukul 21.00 UTC (Minggu, 12 Desember 2021 pukul 04.00 WIB)**. Pertemuan diadakan setiap dua minggu sekali dengan pengingat yang diumumkan melalui [akun Twitter peppy](https://twitter.com/ppy) sehari sebelumnya.
 
 ## Cara berpartisipasi
 
