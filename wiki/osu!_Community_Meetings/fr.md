@@ -4,7 +4,7 @@ Les **osu! community meetings** sont un groupe de discussion bimensuel organisé
 
 Il y a longtemps, dans le [passé lointain du jeu](https://twitter.com/ppy/status/1169256824052170755), l'équipe d'osu! avait l'habitude d'organiser régulièrement des réunions communautaires où tout le monde était invité à parler. Avec l'ampleur du jeu aujourd'hui, ce n'est plus possible, mais grâce à Discord, une sorte de système de file d'attente a été mis en place où les questions peuvent être abordées une par une. Si vous souhaitez poser des questions, assurez-vous d'avoir lu la FAQ ci-dessous, au cas où votre question aurait déjà été posée et aurait reçu une réponse !
 
-Actuellement, les réunions de la communauté osu! sont présidées par [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335) et [smoogipoo](https://osu.ppy.sh/users/1040328).
+Actuellement, les osu! community meetings sont présidés par [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335) et [smoogipoo](https://osu.ppy.sh/users/1040328).
 
 Le prochain osu! community meeting est prévu pour le : **11 décembre 2021 (Samedi 21:00 UTC)**. Les meetings ont généralement lieu toutes les deux semaines, les rappels étant annoncés sur le [compte Twitter de peppy](https://twitter.com/ppy) environ un jour avant.
 
