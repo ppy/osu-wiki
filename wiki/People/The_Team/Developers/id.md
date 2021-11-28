@@ -5,13 +5,11 @@ tags:
   - osu!devs
   - osu! dev
   - osu! devs
-outdated: true
-outdated_since: b5ffad1bde58fd33ff05bc06bb2843bc8707275e
 ---
 
 # Developer
 
-Developer osu! menjaga game dan situs web tetap berjalan dengan memperbaiki bug dan menambah beberapa fitur baru. Kebanyakan dari mereka adalah karyawan dari perusahaan ppy Pty Ltd, pengembang dan publisher gim osu!. Mereka juga membentuk sebuah tim yang diberi nama dengan [tim inti osu!](/wiki/People/The_Team).
+Developer osu! menjaga game dan situs web tetap berjalan dengan memperbaiki bug dan menambah beberapa fitur baru. Kebanyakan dari mereka adalah karyawan dari perusahaan ppy Pty Ltd yang merupakan pengembang dan publisher game osu!. Mereka juga membentuk sebuah tim yang diberi nama dengan [tim inti osu!](/wiki/People/The_Team).
 
 Developer osu! dapat dikenali dari warna penggunanya yaitu pink dan gelar "osu!dev" atau "osu!team".
 
@@ -19,18 +17,16 @@ Developer osu! dapat dikenali dari warna penggunanya yaitu pink dan gelar "osu!d
 
 Halaman daftar tim [Developer](https://osu.ppy.sh/groups/11).
 
-Upaya pengembangan osu! dipimpin oleh ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)**, sang pencipta osu!.
+Pengembangan osu! dipimpin oleh ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)**, sang pencipta osu!.
 
-### Gim Developer
+### Pengembang klien game
 
 - ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
 - ![][flag_SK] [Domco](https://osu.ppy.sh/users/3562660)
-- ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 - ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)
-- ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058)
 
-### Pengembang Situs Web dan Server
+### Pengembang situs web
 
 - ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883)
 - ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102)
@@ -41,9 +37,8 @@ Upaya pengembangan osu! dipimpin oleh ![][flag_AU] **[peppy](https://osu.ppy.sh/
 ### Desainer
 
 - ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765)
-- ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202)
 
-### Community Manager
+### Manajer komunitas
 
 - ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
@@ -53,11 +48,62 @@ Upaya pengembangan osu! dipimpin oleh ![][flag_AU] **[peppy](https://osu.ppy.sh/
 
 - ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
 
+### Kontributor
+
+Saat ini, proyek utama osu! diletakkan di GitHub dan orang-orang dapat berkontribusi secara bebas. Berikut adalah daftar pengguna yang telah berkontribusi secara signifikan terhadap proyek berikut dan berperan besar dalam pengembangannya.
+
+#### osu!
+
+*Untuk tampilan detil mengenai kontribusi dalam proyek osu!, lihat: [Contributors of the `osu` repository](https://github.com/ppy/osu/graphs/contributors)*
+
+- ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022)
+- ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163)
+- ![][flag_SA] [frenzibyte](https://osu.ppy.sh/users/14210502)
+- ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732)
+- ![][flag_PL] [spaceman\_atlas](https://osu.ppy.sh/users/3035836)
+
+#### osu!framework
+
+*Untuk tampilan detil mengenai kontribusi dalam proyek osu!framework, lihat: [Contributors of the `osu-framework` repository](https://github.com/ppy/osu-framework/graphs/contributors)*
+
+- ![][flag_SA] [frenzibyte](https://osu.ppy.sh/users/14210502)
+- ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732)
+- ![][flag_AU] [Samah](https://osu.ppy.sh/users/343490)
+- ![][flag_PL] [spaceman\_atlas](https://osu.ppy.sh/users/3035836)
+- ![][flag_RU] [TacoToucan](https://osu.ppy.sh/users/1326350)
+
+#### osu!web
+
+*Untuk tampilan detil mengenai kontribusi dalam proyek osu!web, lihat: [Contributors of the `osu-web` repository](https://github.com/ppy/osu-web/graphs/contributors)*
+
+- ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
+- ![][flag_ID] [GPR](https://osu.ppy.sh/users/10721349)
+- ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540)
+- ![][flag_PL] [LiquidPL](https://osu.ppy.sh/users/5044384)
+- ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705)
+
+## Kontributor yang sudah pensiun
+
+Daftar di bawah ini merupakan pengguna yang sudah meninggalkan proyek pengembangan game.
+
+| Pengguna | Peran |
+| :-- | :-- |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pengembang klien game |
+| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Desainer |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang klien game |
+
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
+[flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
+[flag_SA]: /wiki/shared/flag/SA.gif "Arab Saudi"
 [flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
 [flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
 [flag___]: /wiki/shared/flag/__.gif
