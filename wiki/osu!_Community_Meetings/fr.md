@@ -6,11 +6,11 @@ Il y a longtemps, dans le [passé lointain du jeu](https://twitter.com/ppy/statu
 
 Actuellement, les réunions de la communauté osu! sont présidées par [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335) et [smoogipoo](https://osu.ppy.sh/users/1040328).
 
-Le prochain osu! community meeting est prévu pour le : **Le 28 novembre 2021 (dimanche 01:00 UTC)**. Les réunions ont généralement lieu toutes les deux semaines, les rappels étant annoncés sur le [compte Twitter de peppy](https://twitter.com/ppy) environ un jour avant.
+Le prochain osu! community meeting est prévu pour le : **11 décembre 2021 (Samedi 21:00 UTC)**. Les réunions ont généralement lieu toutes les deux semaines, les rappels étant annoncés sur le [compte Twitter de peppy](https://twitter.com/ppy) environ un jour avant.
 
 ## S'impliquer
 
-Les osu! community meetings sont actuellement organisées sur une scène Discord sur le Discord [osu!dev](https://discord.gg/ppy), et diffusés en simultané sur [la chaîne Twitch de peppy](https://www.twitch.tv/ppy). Chaque meeting dure environ une heure et a lieu un dimanche sur deux à 01:00 UTC. 
+Les osu! community meetings sont actuellement organisées sur une scène Discord sur le Discord [osu!dev](https://discord.gg/ppy), et diffusés en simultané sur [la chaîne Twitch de peppy](https://www.twitch.tv/ppy). Chaque meeting est actuellement prévue pour durer environ une heure et a lieu un week-end sur deux.
 
 Tout le monde est invité à participer ! Si vous avez une question ou quelque chose à ajouter à la discussion, vous pouvez lever la main sur la scène Discord pour rejoindre la file d'attente, ou écrire un message sur le fil Discord correspondant si vous n'êtes pas à l'aise pour parler, qui sera lu à haute voix et auquel on répondra. En outre, avant de poser une question, veuillez respecter les directives suivantes :
 
@@ -31,6 +31,7 @@ Le premier osu! community meeting a eu lieu le 19 septembre 2021. Tous les meeti
 | 2 | [17 octobre 2021](https://youtu.be/nLT-fLeogrw) | [Document de synthèse](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) |
 | 3 | [31 octobre 2021](https://youtu.be/omvZbC7zJUI) | [Document de synthèse](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) |
 | 4 | [14 novembre 2021](https://youtu.be/rEWgTY-L95Y) | [Document de synthèse](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) |
+| 5 | [28 novembre 2021](https://youtu.be/SqMrY26Q6Tw) | [Document de synthèse](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) |
 
 ## Liens connexes
 
