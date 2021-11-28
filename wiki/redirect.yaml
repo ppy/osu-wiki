@@ -87,6 +87,9 @@
 "difficulty":                        "Beatmap/Difficulty"
 "difficulties":                      "Beatmap/Difficulty"
 
+"AW":  "Community/Forum/Abandoned_Wasteland"
+"abandoned_wasteland":  "Community/Forum/Abandoned_Wasteland"
+
 "bancho": "Disambiguation/Bancho"
 "easy": "Disambiguation/Easy"
 "ez": "Disambiguation/EZ"

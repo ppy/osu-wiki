@@ -55,7 +55,7 @@ Some of the forums have different purposes that are not limited to discussion. A
 - Feature Requests: suggestions for osu! development.
 - Modding Queues: beatmap reviews done by other mappers and modders.
 - Off-Topic: the place for the not-so-logical discussions.
-- [Abandoned Wasteland](/wiki/Abandoned_wasteland): the storage for useless threads.
+- [Abandoned Wasteland](/wiki/Community/Forum/Abandoned_Wasteland): the storage for useless threads.
 
 Additionally, there are other forums similar to Abandoned Wasteland, which serve technical or managerial purposes and are therefore hidden from the general public.
 
