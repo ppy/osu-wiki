@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: a28414396139e5470b683e7f02c1896659f4616f
----
-
 # Commandes de gestion des tournois
 
 Les commandes de tchat suivantes sont fournies pour la gestion à distance des salles de tournoi multijoueurs :
@@ -10,6 +5,7 @@ Les commandes de tchat suivantes sont fournies pour la gestion à distance des s
 - `!mp make <name>` - Crée une salle de tournoi avec le nom spécifié. Un maximum de 4 salles de ce type peut être créé.
   - Cette salle est spéciale en ce sens qu'elle n'est pas fermée lorsque tous les joueurs ont quitté la salle, et qu'elle est protégée par un mot de passe empêchant les joueurs de la rejoindre eux-mêmes.
   - Lorsque la salle est terminée, utilisez `!mp close` pour fermer la salle.
+- `!mp makeprivate <name>` - Crée une salle de tournoi privée avec le nom spécifié. Cette commande fonctionne de la même manière que `!mp make` mais l'historique des matchs n'est visible que par le créateur de la salle et le participant.
 - `!mp name <title>` - Met à jour le nom de la salle.
 - `!mp invite <username>` - Invite un joueur dans la salle.
   - Notez que cela ne *permet pas* de contourner les blocages de messages privés disponibles dans le client d'osu! ; l'équipe de votre tournoi devra donc indiquer aux joueurs de désactiver l'option "Autoriser uniquement les messages privés de mes amis" dans les options d'osu!
