@@ -60,7 +60,6 @@ outdated: true
 | #39 | [Arf](https://osu.ppy.sh/users/3716999) | Some frandom guy | [Odnośnik](https://www.youtube.com/watch?v=K9_4nzs5idM) |
 | #40 | [The8BitDrummer](https://www.twitch.tv/the8bitdrummer/profile) | Megalovaniac | [Odnośnik](https://www.youtube.com/watch?v=tuOv9E9QkJA) |
 
-
 ## Dyskusje
 
 | Odc. | Temat | Uczestnicy | Odnośnik |
@@ -78,8 +77,6 @@ outdated: true
 | #11 | Catch The Beat | [deadbeat](https://osu.ppy.sh/users/128370), [Kingkevin30](https://osu.ppy.sh/users/564334), [- Magic Bomb -](https://osu.ppy.sh/users/3071175), [Candlestorm](https://osu.ppy.sh/users/6115166), [Saki](https://osu.ppy.sh/users/3026611), and [Zak](https://osu.ppy.sh/users/1375955) | [Odnośnik](https://www.youtube.com/watch?v=1SvUNLkcoQg) |
 | #12 | osu!idol | [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818), [shARPII](https://osu.ppy.sh/users/776257), and [Kyonko Hizara](https://osu.ppy.sh/users/444868) | [Odnośnik](https://www.youtube.com/watch?v=gwtlGM1GpWM) |
 
-
-
 ## Skróty meczów Mistrzostw Świata
 
 ### Mistrzostwa Świata w Taiko 2015
@@ -88,10 +85,9 @@ outdated: true
 | :-- | :-- | :-- |
 | Etap grupowy | deadbeat, Tasha, tiamus oraz ztrot | [Odnośnik](https://www.youtube.com/watch?v=-T9xDo7Y8Fo) |
 | Faza 1/16 | deadbeat, FLANKs, Tasha oraz ztrot | [Odnośnik](https://www.youtube.com/watch?v=Y8IHcukw9Dw) |
-| Ćwierćfinały | _Gezo_, deadbeat, Nashmun oraz Tasha | [Odnośnik](https://www.youtube.com/watch?v=W76U6woLvHA) |
+| Ćwierćfinały | \_Gezo\_, deadbeat, Nashmun oraz Tasha | [Odnośnik](https://www.youtube.com/watch?v=W76U6woLvHA) |
 | Półfinały | deadbeat, FLANKs, Two Fruit Cakes oraz ztrot | [Odnośnik](https://www.youtube.com/watch?v=ALMrQ0GUmhY) |
-| Finały | _Gezo_, deadbeat, Tasha, oraz tiamus | [Odnośnik](https://www.youtube.com/watch?v=iTOig6vSS28) |
-
+| Finały | \_Gezo\_, deadbeat, Tasha, oraz tiamus | [Odnośnik](https://www.youtube.com/watch?v=iTOig6vSS28) |
 
 ### Mistrzostwa Świata w Catch The Beat 2015
 
@@ -100,7 +96,6 @@ outdated: true
 | Faza 1/16 | Pominięte | Brak |
 | Ćwierćfinały | deadbeat, Tasha oraz ztrot | [Odnośnik](https://www.youtube.com/watch?v=lagFdqHqVHA) |
 | Półfinały | deadbeat, Tasha oraz ztrot | [Odnośnik](https://www.youtube.com/watch?v=n6X5fZEEpRA) |
-
 
 ## Odcinki specjalne
 
