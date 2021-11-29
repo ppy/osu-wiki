@@ -22,7 +22,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 [インターフェース](/wiki/Interface) • [オプション](/wiki/Options) • [視覚設定](/wiki/Visual_Settings) • [ショートカットキーリファレンス](/wiki/Shortcut_key_reference) • [設定ファイル](/wiki/osu!_Program_Files/User_Configuration_File) • [プログラムファイル](/wiki/osu!_Program_Files)
 
-[ファイルフォーマット](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[ファイルフォーマット](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -58,7 +58,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 # コミュニティ
 
-[トーナメント](/wiki/Tournaments) • [スキニング](/wiki/Skinning) • [プロジェクト](/wiki/Projects) • [ガイド](/wiki/Guides) • [osu!dev Discordサーバー](/wiki/osu!dev_Discord_server) • [ご協力のお願い](/wiki/How_You_Can_Help!) • [用語集](/wiki/Glossary)
+[トーナメント](/wiki/Tournaments) • [スキニング](/wiki/Skinning) • [プロジェクト](/wiki/Projects) • [ガイド](/wiki/Guides) • [osu!dev Discordサーバー](/wiki/osu!dev_Discord_server) • [ご協力のお願い](/wiki/How_you_can_help!) • [用語集](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -83,7 +83,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 # wikiについて
 
-[サイトマップ](/wiki/Sitemap) • [コントリビューションガイド](/wiki/osu!_wiki/Contribution_guide) • [記事のスタイリング基準](/wiki/Article_Styling_Criteria) • [ニュースのスタイリング基準](/wiki/News_Styling_Criteria)
+[サイトマップ](/wiki/Sitemap) • [コントリビューションガイド](/wiki/osu!_wiki/Contribution_guide) • [記事のスタイリング基準](/wiki/Article_styling_criteria) • [ニュースのスタイリング基準](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

@@ -1,11 +1,6 @@
----
-outdated: true
-outdated_since: 234321c76b4fe27bcd7d21524603a9d975701ecb
----
-
 # Account support team
 
-*Untuk tim yang memoderasi subforum tertentu, kunjungi: [Support Team](/wiki/People/The_Team/Support_Team)*
+*Untuk tim yang memoderasi sub-forum tertentu, kunjungi: [Support Team](/wiki/People/The_Team/Support_Team)*
 
 **Account support team** adalah sekelompok orang yang mengelola akun yang dimiliki oleh para pengguna osu!, serta menerima banding jika akun kamu terkena silence dan restrict.
 
@@ -30,10 +25,10 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
   - penghapusan konten profil;
   - penghapusan beatmap;
   - penghapusan postingan dan komentar di forum.
-- Perilaku buruk yang [ingin kamu akui](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?).
+- Perilaku buruk yang [ingin kamu akui](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#bagaimana-cara-saya-mengajukan-sebuah-pelepasan-status-banned?).
 - [Kehilangan akses ke email](/wiki/Help_Centre/Installation_and_registration#sign-in) yang terhubung dengan akun osu! kamu, atau saat akun kamu dicuri.
-- [Mengembalikan nama pengguna menjadi yang sebelumnya dan sedikit koreksi ejaan pada nama pengguna](/wiki/Help_Centre/Account#name-changes).
-- [Pendaftaran akun bot](/wiki/Bot_Account).
+- [Mengembalikan nama pengguna menjadi yang sebelumnya dan sedikit koreksi ejaan pada nama pengguna](/wiki/Help_Centre/Account#penggantian-nama-pengguna).
+- [Pendaftaran akun bot](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
@@ -42,9 +37,9 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 - Kekhawatiran terhadap perilaku buruk dari seorang moderator.
 - Kekhawatiran terhadap seorang moderator yang melanggar [Kode Etik Kontributor](/wiki/Contributor_Code_of_Conduct).
 - [Masalah pembayaran](/wiki/Help_Centre/Account#supporter) terhadap pesanan dari [osu!store](https://osu.ppy.sh/store/listing).
-- Masalah teknis yang tidak dapat atau belum diselesaikan di [forum Help](https://osu.ppy.sh/community/forums/5), termasuk [masalah konektivitas](/wiki/Help_Centre/Client#online-features).
+- Masalah teknis yang tidak dapat atau belum diselesaikan di [forum Help](https://osu.ppy.sh/community/forums/5), termasuk [masalah konektivitas](/wiki/Help_Centre/Client#fitur-fitur-*online*).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
-- [Permintaan data](/wiki/Legal/Privacy#data-controller) dan masalah privasi.
-- [Permintaan penghapusan akun](/wiki/Legal/Privacy#your-rights-and-control) secara **permanen** bagi penduduk Uni Eropa (Cakupan [GDPR](https://id.wikipedia.org/wiki/Regulasi_Umum_Perlindungan_Data)).
+- [Permintaan data](/wiki/Legal/Privacy#pengontrol-data) dan masalah privasi.
+- [Permintaan penghapusan akun](/wiki/Legal/Privacy#hak-dan-kendali-anda) secara **permanen**.

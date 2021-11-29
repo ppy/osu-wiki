@@ -23,7 +23,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 [인터페이스](/wiki/Interface) • [옵션](/wiki/Options) • [시각적 설정](/wiki/Visual_Settings) • [단축키](/wiki/Shortcut_key_reference) • [사용자 구성 파일](/wiki/osu!_Program_Files/User_Configuration_File) • [프로그램 파일](/wiki/osu!_Program_Files)
 
-[파일 확장자](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[파일 확장자](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -59,7 +59,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 # 커뮤니티
 
-[토너먼트](/wiki/Tournaments) • [스킨](/wiki/Skinning) • [프로젝트](/wiki/Projects) • [가이드](/wiki/Guides) • [osu!dev 디스코드 서버](/wiki/osu!dev_Discord_server) • [도움을 줄 수 있는 방법](/wiki/How_You_Can_Help!) • [용어 사전](/wiki/Glossary)
+[토너먼트](/wiki/Tournaments) • [스킨](/wiki/Skinning) • [프로젝트](/wiki/Projects) • [가이드](/wiki/Guides) • [osu!dev 디스코드 서버](/wiki/osu!dev_Discord_server) • [도움을 줄 수 있는 방법](/wiki/How_you_can_help!) • [용어 사전](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -84,7 +84,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 # 위키 정보
 
-[사이트맵](/wiki/Sitemap) • [참여하는 방법](/wiki/osu!_wiki/Contribution_guide) • [문서 스타일링 크리테리아](/wiki/Article_Styling_Criteria) • [뉴스 스타일링 크리테리아](/wiki/News_Styling_Criteria)
+[사이트맵](/wiki/Sitemap) • [참여하는 방법](/wiki/osu!_wiki/Contribution_guide) • [문서 스타일링 크리테리아](/wiki/Article_styling_criteria) • [뉴스 스타일링 크리테리아](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

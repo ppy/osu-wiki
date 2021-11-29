@@ -28,7 +28,7 @@ Dunia osu! berkisar pada iringan lagu dan efek-efek visual yang berkilauan. Kena
   
 [Tampilan antarmuka](/wiki/Interface) • [Pengaturan](/wiki/Options) • [Pengaturan visual](/wiki/Visual_Settings) • [Referensi tombol pintasan](/wiki/Shortcut_key_reference) • [File konfigurasi](/wiki/osu!_Program_Files/User_Configuration_File) • [File program](/wiki/osu!_Program_Files)
 
-[Format file](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[Format file](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -100,7 +100,7 @@ Para pemain osu! di seluruh dunia saling terhubung dan berinteraksi antar satu s
 
 [Turnamen](/wiki/Tournaments) • [Beatmap Spotlight](/wiki/Beatmap_Spotlights) • [Kontes](/wiki/Contests) • [Program komunitas mentorship](/wiki/Community_Mentorship_Program)
   
-[Proyek](/wiki/Projects): [Featured Artist](/wiki/Featured_Artists) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
+[Proyek](/wiki/Projects): [Featured Artist](/wiki/Featured_Artists) • [Pertemuan komunitas osu!](/wiki/osu!_Community_Meetings) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -133,7 +133,7 @@ Semuanya yang ada di osu!, termasuk osu! wiki, utamanya dikelola dan dikembangka
 
 [Sejarah osu!](/wiki/History_of_osu!) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Sejarah mapping dan modding](/wiki/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
-[Peta situs](/wiki/Sitemap) • [Panduan kontribusi](/wiki/osu!_wiki/Contribution_guide) • [Kriteria penyusunan artikel](/wiki/Article_Styling_Criteria) • [Kriteria penyusunan berita](/wiki/News_Styling_Criteria)
+[Peta situs](/wiki/Sitemap) • [Panduan kontribusi](/wiki/osu!_wiki/Contribution_guide) • [Kriteria penyusunan artikel](/wiki/Article_styling_criteria) • [Kriteria penyusunan berita](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

@@ -13,7 +13,7 @@ tags:
 ![Icône du mod NC](/wiki/shared/mods/NC.png "Icône du mod Nightcore (NC)")
 
 *À ne pas confondre avec [Nightcore (genre)](https://fr.wikipedia.org/wiki/Nightcore).*\
-*Voir aussi : [NC (désambiguïsation)](/wiki/Disambiguïsation/NC), [Double Time (mod)](/wiki/Game_modifier/Double_Time)*\
+*Voir aussi : [NC (désambiguïsation)](/wiki/Disambiguation/NC), [Double Time (mod)](/wiki/Game_modifier/Double_Time)*\
 *Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*
 
 ## À propos
@@ -21,7 +21,7 @@ tags:
 - Abréviation : NC
 - Type : Difficulté croissante
 - Multiplicateur de score :
-  - ![][osu!]: 1.06x
+  - ![][osu!]: 1.12x
   - ![][osu!taiko]: 1.12x
   - ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x

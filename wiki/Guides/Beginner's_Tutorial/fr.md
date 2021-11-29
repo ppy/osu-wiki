@@ -4,7 +4,7 @@ Bienvenue dans le tutoriel pour débutants d'osu! Le monde d'osu! peut parfois �
 
 ## Types d'entrées
 
-*Page principale : [Styles de jeu](/wiki/Play_Styles)*
+*Page principale : [Styles de jeu](/wiki/Play_style)*
 
 Par défaut, beaucoup de joueurs commenceront par utiliser la souris, car c'est de loin l'outil de visée le plus rapide. Mais il existe en fait plusieurs moyens d'entrée pour contrôler le curseur et faire apparaître les cercles :
 
@@ -96,7 +96,7 @@ Ajustez votre global offset jusqu'à ce que vous en soyez satisfait. L'obtention
 
 ### Entrée brute
 
-*Voir également : [Options](/wiki/Options#mouse)*
+*Voir également : [Options](/wiki/Options#pointage)*
 
 Une caractéristique souvent négligée du jeu est la fonction d'entrée brute. Elle permet la lecture directe de votre périphérique d'entrée dans osu! lui-même. Vous pouvez également l'utiliser si vous n'aimez pas la façon dont Windows gère le curseur de votre souris, ou particulièrement recommandé si vous utilisez une tablette. Essayez-la et jouez quelques maps avec elle, vous pourriez vous sentir beaucoup plus à l'aise avec elle !
 

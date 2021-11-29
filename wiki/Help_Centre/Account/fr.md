@@ -20,6 +20,8 @@ tags:
   - drapeau
   - nom d'utilisateur
   - suppression
+outdated: true
+outdated_since: c0e3ac1f17bcbdd620c144f55f813351bf320b83
 ---
 
 # Compte
@@ -51,6 +53,16 @@ Si votre compte a été restreint, vous saurez probablement pourquoi après une 
 Dans les situations où nous sommes absolument sûrs qu'un acte répréhensible a eu lieu, nous vous demanderons d'attendre une période de **trois mois** à partir de la date de votre dernière infraction avant de considérer un appel de votre part pour vous laisser revenir sur le jeu.
 
 Consultez *[Restrictions du compte](/wiki/Help_Centre/Account_Restrictions)* pour plus d'informations sur les restrictions de comptes et la procédure d'appel.
+
+## Bans des tournois
+
+### Qu'est-ce qu'un ban des tournois ?
+
+Un ban des tournois est, comme son nom l'indique, une interdiction de participer à tous les tournois officiels.
+
+Un utilisateur peut recevoir un ban des tournois pour avoir délibérément enfreint les règles de la communauté d'osu! pendant un tournoi, selon la gravité de l'infraction. Parmi les exemples de mauvais comportement, citons la tentative d'obtenir un avantage déloyal dans un tournoi officiel par quelque moyen que ce soit, le fait d'être injurieux envers toute personne participant à un tournoi ou de perturber délibérément le déroulement d'un tournoi.
+
+La plupart des bans des tournois ont une durée déterminée, allant de 3 mois à un an ou plus. Certains bannissements peuvent être permanents. Quelle que soit la durée du ban, tous les bans des tournois sont **irrévocables** et ne peuvent faire l'objet d'un appel comme les restrictions.
 
 ## Connexion
 

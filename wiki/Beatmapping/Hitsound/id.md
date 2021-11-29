@@ -7,13 +7,13 @@ tags:
 
 # Hitsound
 
-*Lihat juga: [Menambah Kustom Hitsounds](/wiki/Guides/Adding_Custom_Hitsounds)*
+*Lihat juga: [Menambah Kustom Hitsounds](/wiki/Guides/Using_custom_hitsounds)*
 
-**Hitsound** adalah efek suara yang dimainkan ketika sedang dalam gameplay osu!, spesifiknya ketika pemain berinteraksi dengan [hit object](/wiki/Hit_Objects). Hitsound biasanya digunakan untuk memberikan umpan balik suara kepada pemain untuk membantu mereka dalam menilai [akurasi](/wiki/Gameplay/Accuracy) yang terkait dengan lagu tersebut.
+**Hitsound** adalah efek suara yang dimainkan ketika sedang dalam gameplay osu!, spesifiknya ketika pemain berinteraksi dengan [hit object](/wiki/Hit_object). Hitsound biasanya digunakan untuk memberikan umpan balik suara kepada pemain untuk membantu mereka dalam menilai [akurasi](/wiki/Gameplay/Accuracy) yang terkait dengan lagu tersebut.
 
 Hitsound terdiri dari sampel default yang disebut "hit normal", dan kombinasi sampel whistle, finish, atau clap. Setiap sampel memiliki satu dari tiga "sampel set" yang mengubah gayanya: `Normal`,` Soft`, atau `Drum`.
 
-Beatmapper dapat mengganti secara default sampel suara dengan kustom sampel di dalam folder [beatmap](/wiki/Beatmap). [Skin](/wiki/Skinning) pemain juga bisa mengganti hitsound default untuk seluruh beatmap. Detail untuk sampel hitsound dapat ditemukan di dalam artikel [hitsound skinning](/wiki/Skinnning/Sounds#hitsounds).
+Beatmapper dapat mengganti secara default sampel suara dengan kustom sampel di dalam folder [beatmap](/wiki/Beatmap). [Skin](/wiki/Skinning) pemain juga bisa mengganti hitsound default untuk seluruh beatmap. Detail untuk sampel hitsound dapat ditemukan di dalam artikel [hitsound skinning](/wiki/Skinning/Sounds#hitsounds).
 
 [Spinners](/wiki/Hit_object/Spinner) dan [sliders](/wiki/Hit_object/Slider) memiliki tambahan spinner spin, spinner bonus, slider slide dan slider tick hitsound.
 

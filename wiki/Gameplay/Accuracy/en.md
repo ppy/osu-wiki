@@ -2,7 +2,7 @@
 
 <!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
 
-Accuracy is a percentile measurement of a player's ability to hit [hit objects](/wiki/Hit_object) on time. There are three types of accuracy that a player can have: the beatmap's accuracy, which is dependent on hit scores gained; the player's overall accuracy, which is weighed to allow better scores to stand out more; and the player's [Performance Points (pp)](/wiki/Performance_Points) accuracy, which is dependent on the submitted score's accuracy.
+Accuracy is a percentile measurement of a player's ability to hit [hit objects](/wiki/Hit_object) on time. There are three types of accuracy that a player can have: the beatmap's accuracy, which is dependent on hit scores gained; the player's overall accuracy, which is weighed to allow better scores to stand out more; and the player's [Performance Points (pp)](/wiki/Performance_points) accuracy, which is dependent on the submitted score's accuracy.
 
 ## Game modes
 
@@ -39,7 +39,7 @@ In osu!catch, accuracy is calculated by taking the total number of non-spinner h
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Accuracy formula for osu!mania")
 
-In osu!mania, accuracy is calculated similarly to [osu!](#-osu!).
+In osu!mania, accuracy is calculated similarly to [osu!](#osu!).
 
 ## Performance graph
 
@@ -47,17 +47,17 @@ In osu!mania, accuracy is calculated similarly to [osu!](#-osu!).
 
 The performance graph is a chart that displays the player's performance (based on their life bar) over the course of a play (time). Additional information can be shown when hovering the in-game cursor over it.
 
-*Note: The additional information can only be viewed after playing a beatmap or watching a replay. After exiting the [results screen](/wiki/Interface#ranking-screen), this information will not be saved.*
+*Note: The additional information can only be viewed after playing a beatmap or watching a replay. After exiting the [results screen](/wiki/Interface#results-screen), this information will not be saved.*
 
 ### Accuracy
 
 When hovering over the performance graph, a tooltip is displayed with an `Error` and `Unstable Rate` rating.
 
-Due to the way the [DT](/wiki/Game_modifier/Double_time) (Double Time) and [HT](/wiki/Game_modifier/Half_time) (Half Time) mods are implemented, the error and unstable rate values will be multiplied by the same factor as the song. To get the true values when playing with the DT mod, divide the results by 1.5. Similarly, multiply the results by 1.33 when playing with the HT mod.
+Due to the way the [DT](/wiki/Game_modifier/Double_Time) (Double Time) and [HT](/wiki/Game_modifier/Half_Time) (Half Time) mods are implemented, the error and unstable rate values will be multiplied by the same factor as the song. To get the true values when playing with the DT mod, divide the results by 1.5. Similarly, multiply the results by 1.33 when playing with the HT mod.
 
 #### Error
 
-`Error` will always display two values that represent how far off the early hits were on average and how far off the late hits were on average. The higher the [Overall Difficulty](/wiki/Beatmapping/Overall_Difficulty) value of the beatmap is, the lower the error values will have to be to do well when playing the beatmap.
+`Error` will always display two values that represent how far off the early hits were on average and how far off the late hits were on average. The higher the [Overall Difficulty](/wiki/Beatmapping/Overall_difficulty) value of the beatmap is, the lower the error values will have to be to do well when playing the beatmap.
 
 #### Unstable rate
 

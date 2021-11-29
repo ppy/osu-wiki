@@ -13,6 +13,11 @@
 "moddingv2":                   "Beatmap_Discussion"
 "mv2":                         "Beatmap_Discussion"
 
+"modding_v1":                  "Modding/Forum_modding"
+"modding/v1":                  "Modding/Forum_modding"
+"moddingv1":                   "Modding/Forum_modding"
+"mv1":                         "Modding/Forum_modding"
+
 "editor":                           "Beatmap_Editor"
 "aimod":                            "Beatmap_Editor/AiMod"
 "beat_snap_divisor":                "Beatmap_Editor/Beat_Snap_Divisor"
@@ -81,6 +86,14 @@
 
 "difficulty":                        "Beatmap/Difficulty"
 "difficulties":                      "Beatmap/Difficulty"
+
+"community_mentorship_program": "Community/Community_Mentorship_Program"
+"project_loved":                "Community/Project_Loved"
+"osu!_community_meetings":      "Community/osu!_community_meetings"
+"osu!dev_discord_server":       "Community/osu!dev_Discord_server"
+"organisations":                "Community/Organisations"
+"osu!talk":                     "Community/Video_series/osu!talk"
+"osu!mapping":                  "Community/Video_series/osu!mapping"
 
 "bancho": "Disambiguation/Bancho"
 "easy": "Disambiguation/Easy"
@@ -407,7 +420,6 @@
 "starting_a_beatmap_project":             "Guides/Starting_a_Beatmap_Project"
 "tablet_purchase":                        "Guides/Tablet_Purchase"
 "buying_a_tablet":                        "Guides/Tablet_Purchase"
-"tips_and_tricks_on_skill_improvement":   "Guides/Tips_and_Tricks_on_Skill_Improvement"
 "videos_from_youtube":                    "Guides/Videos_from_YouTube"
 
 "guides/changing_the_title_text":         "Beatmap/Title_Text#changing-title-text"
@@ -451,7 +463,8 @@
 "spinner":                     "Hit_object/Spinner"
 "spinners":                    "Hit_object/Spinner"
 
-"how_you_can_help":            "How_You_Can_Help!"
+"how_you_can_help":            "Community/How_you_can_help!"
+"how_you_can_help!":           "Community/How_you_can_help!"
 
 "install":                     "Installation"
 "install_osu!":                "Installation"
@@ -464,7 +477,8 @@
 "results_screen":              "Interface#ranking-screen"
 "grading_screen":              "Interface#ranking-screen"
 
-"irc":                         "Internet_Relay_Chat"
+"irc":                         "Community/Internet_Relay_Chat"
+"internet_relay_chat":         "Community/Internet_Relay_Chat"
 
 "copyright":                   "Legal/Copyright"
 "tos":                         "Legal/Terms"
@@ -781,8 +795,9 @@
 "user_configuration":                         "osu!_Program_Files/User_Configuration_File"
 "user_config":                                "osu!_Program_Files/User_Configuration_File"
 
-"academy":                     "osu!academy"
-"announcements/osu!academy":   "osu!academy"
+"academy":                     "Community/Video_series/osu!academy"
+"announcements/osu!academy":   "Community/Video_series/osu!academy"
+"osu!academy":                 "Community/Video_series/osu!academy"
 
 "api":                         "osu!api"
 
@@ -791,7 +806,7 @@
 
 "supporter":                   "osu!supporter"
 
-"talk":                        "osu!talk"
+"talk":                        "Community/Video_series/osu!talk"
 
 "tourney":                     "osu!tourney"
 
@@ -940,9 +955,10 @@
 
 "play_styles": "Play_style"
 
-"game_modes/external_ports": "Projects"
-"external_ports": "Projects"
-"tools": "Projects"
+"game_modes/external_ports": "Community/Projects"
+"external_ports": "Community/Projects"
+"projects": "Community/Projects"
+"tools": "Community/Projects"
 
 "rankings":                    "Ranking"
 
@@ -1059,6 +1075,9 @@
 
 "scorev1":                     "Score/ScoreV1"
 "scorev2":                     "Score#scorev2"
+"total_score":                 "Score/Total_score"
+"ranked_score":                "Score/Ranked_score"
+"level":                       "Score/Total_score#level"
 
 "hotkeys": "Shortcut_key_reference"
 "keyboard_shortcuts": "Shortcut_key_reference"
@@ -1476,10 +1495,12 @@
 "tournaments/cfc/2": "Tournaments/CFC/2018"
 
 # Shortcuts for Mappers' Guild
-"guild":          "Mappers_Guild"
-"mapper's_guild": "Mappers_Guild"
-"mappers'_guild": "Mappers_Guild"
-"mg":             "Mappers_Guild"
+"guild":          "Community/Mappers_Guild"
+"mapper's_guild": "Community/Mappers_Guild"
+"mappers'_guild": "Community/Mappers_Guild"
+"mg":             "Community/Mappers_Guild"
+"mappers_guild":  "Community/Mappers_Guild"
+
 
 # Sitemap isn't a real wiki page so this is necessary for the website to function when visiting /wiki/sitemap
 "sitemap": "Sitemap"

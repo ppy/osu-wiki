@@ -1,6 +1,8 @@
 ---
 layout: main_page
 no_native_review: true
+outdated: true
+outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 ---
 
 <div class="wiki-main-page__blurb">
@@ -27,7 +29,7 @@ Essendo la guida al mondo del ritmo, dei battiti, e dei flash, osu! ha molto da 
 
 [Interfaccia](/wiki/Interface) • [Opzioni](/wiki/Options) • [Impostazioni visive](/wiki/Visual_Settings) • [Fonte delle scorciatoie da tastiera](/wiki/Shortcut_key_reference) • [File di configurazione](/wiki/osu!_Program_Files/User_Configuration_File) • [File del programma](/wiki/osu!_Program_Files)
 
-[Formati dei File](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[Formati dei File](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -132,7 +134,7 @@ Come quasi tutto il resto là fuori, la wiki di osu! è scritta e mantenuta da v
 
 [Storia di osu!](/wiki/History_of_osu!) • [Storia della wiki di osu!](/wiki/History_of_osu!/osu!_wiki) • [Timeline del mapping e del modding](/wiki/Mapping_and_Modding_Timeline) • [Pesci d'aprile](/wiki/History_of_osu!/April_Fools)
 
-[Mappa del sito](/wiki/Sitemap) • [Guide di contributo](/wiki/osu!_wiki_Contribution_Guide) • [Criteri di stile degli articoli](/wiki/Article_Styling_Criteria) • [Criteri di stile delle news](/wiki/News_Styling_Criteria)
+[Mappa del sito](/wiki/Sitemap) • [Guide di contributo](/wiki/osu!_wiki/Contribution_guide) • [Criteri di stile degli articoli](/wiki/Article_styling_criteria) • [Criteri di stile delle news](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

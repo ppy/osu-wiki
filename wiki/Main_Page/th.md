@@ -22,7 +22,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 [อินเทอร์เฟซในเกม](/wiki/Interface) • [การตั้งค่าเกม](/wiki/Options) • [การตั้งค่าเรื่องภาพ](/wiki/Visual_Settings) • [คีย์ลัดต่าง ๆ](/wiki/Shortcut_key_reference) • [ไฟล์การตั้งค่า](/wiki/osu!_Program_Files/User_Configuration_File) • [ไฟล์ของเกม](/wiki/osu!_Program_Files)
 
-[รูปแบบไฟล์](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[รูปแบบไฟล์](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -58,7 +58,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # ชุมชน
 
-[ทัวร์นาเมนต์](/wiki/Tournaments) • [การทำสกิน](/wiki/Skinning) • [โปรเจคต่าง ๆ](/wiki/Projects) • [ไกด์](/wiki/Guides) • [เซิร์ฟเวอร์ดิสคอร์ด osu!dev](/wiki/osu!dev_Discord_server) • [คุณช่วยเราได้อย่างไร](/wiki/How_You_Can_Help!) • [คำศัพท์](/wiki/Glossary)
+[ทัวร์นาเมนต์](/wiki/Tournaments) • [การทำสกิน](/wiki/Skinning) • [โปรเจคต่าง ๆ](/wiki/Projects) • [ไกด์](/wiki/Guides) • [เซิร์ฟเวอร์ดิสคอร์ด osu!dev](/wiki/osu!dev_Discord_server) • [คุณช่วยเราได้อย่างไร](/wiki/How_you_can_help!) • [คำศัพท์](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -83,7 +83,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # เกี่ยวกับวิกิ
 
-[แผนผังเว็บไซต์](/wiki/Sitemap) • [คู่มือการมีส่วนร่วม](/wiki/osu!_wiki/Contribution_guide) • [เกณฑ์การจัดรูปแบบบทความ](/wiki/Article_Styling_Criteria) • [เกณฑ์การจัดรูปแบบข่าว](/wiki/News_Styling_Criteria)
+[แผนผังเว็บไซต์](/wiki/Sitemap) • [คู่มือการมีส่วนร่วม](/wiki/osu!_wiki/Contribution_guide) • [เกณฑ์การจัดรูปแบบบทความ](/wiki/Article_styling_criteria) • [เกณฑ์การจัดรูปแบบข่าว](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

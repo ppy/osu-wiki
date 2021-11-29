@@ -1,7 +1,5 @@
 # osu!catch skinning
 
-*See also: [Skinning osu!catch Tutorial](/wiki/Skinning_osu!catch_Tutorial)*
-
 ## Catcher
 
 `fruit-catcher-idle.png`

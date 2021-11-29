@@ -22,14 +22,14 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 [界面](/wiki/Interface) • [设置](/wiki/Options) • [视觉设置](/wiki/Visual_Settings) • [快捷键](/wiki/Shortcut_key_reference) • [配置文件](/wiki/osu!_Program_Files/User_Configuration_File) • [目录文件](/wiki/osu!_Program_Files)
 
-[文件格式](/wiki/osu!_File_Formats)：[.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[文件格式](/wiki/osu!_File_Formats)：[.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
 
 # 游戏玩法
 
-[游戏模式](/wiki/Game_Modes)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
+[游戏模式](/wiki/Game_mode)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
 [谱面](/wiki/Beatmap) • [物件](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [分数](/wiki/Score) • [回放](/wiki/Replay) • [多人游戏](/wiki/Multi)
 
@@ -58,7 +58,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # 社区
 
-[锦标赛](/wiki/Tournaments) • [皮肤](/wiki/Skinning) • [项目](/wiki/Projects) • [指南](/wiki/Guides) • [osu!dev Discord 服务器](/wiki/osu!dev_Discord_server) • [如何提供帮助](/wiki/How_You_Can_Help!) • [词汇表](/wiki/Glossary)
+[锦标赛](/wiki/Tournaments) • [皮肤](/wiki/Skinning) • [项目](/wiki/Projects) • [指南](/wiki/Guides) • [osu!dev Discord 服务器](/wiki/osu!dev_Discord_server) • [如何提供帮助](/wiki/How_you_can_help!) • [词汇表](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -83,7 +83,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # 关于 osu!wiki
 
-[网址地图](/wiki/Sitemap) • [贡献指南](/wiki/osu!_wiki/Contribution_guide) • [文章风格规范](/wiki/Article_Styling_Criteria) • [新闻风格规范](/wiki/News_Styling_Criteria)
+[网址地图](/wiki/Sitemap) • [贡献指南](/wiki/osu!_wiki/Contribution_guide) • [文章风格规范](/wiki/Article_styling_criteria) • [新闻风格规范](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

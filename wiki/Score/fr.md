@@ -6,6 +6,8 @@ outdated_since: c78e8f94260067c49d36a55deaaf7f40cb796b39
 
 # Score
 
+*Pour d'autres utilisations, voir [Score (désambiguïsation)](/wiki/Disambiguation/Score).*
+
 La performance d'un joueur sur une beatmap est exprimée sous la forme d'un score, après la complétion de la beatmap.
 La plupart du temps, le combo joue un rôle majeur dans le système de score, puisqu'il s'agit d'un multiplicateur de score.
 
@@ -98,7 +100,7 @@ Un bonus supplémentaire de 1,000pt est obtenu pour chaque tour d'un Spinner dè
 
 ##### Comment déterminer le multiplicateur de difficulté
 
-[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) et [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) augmentent chacun un compteur de *points de difficulté* de 1 point.
+[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup#taux-de-drain-de-santé) et [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) augmentent chacun un compteur de *points de difficulté* de 1 point.
 
 La valeur finale du compteur affecte le **multiplicateur de difficulté** comme suit:-
 
@@ -236,51 +238,3 @@ DoubleTime                     1.1
     Hidden                    1.06
 Flashlight                    1.06
 ```
-
-## Autres scores
-
-Supposons qu'un joueur ait joué ces quatre beatmaps en ligne avec un compte osu! enregistré et connecté dans un seul mode de jeu, osu! :-
-
-- ![](/wiki/shared/icon/heart.gif) [BRANDY - The Festival of Ghosts 2 (darrihuka)](https://osu.ppy.sh/beatmapsets/3302)
-  - Relaxing : 3,000,000
-  - **DaRRi MIx : 5,000,000**
-- ![](/wiki/shared/icon/heart.gif) [ZZ - Samurai Blue (elzamxrai)](https://osu.ppy.sh/beatmapsets/271)
-  - Easy : 500,000
-  - **Normal : 1,000,000**
-  - Hard : Pas de score
-- ![](/wiki/shared/icon/heart.gif) [Matchbox 20 - How Far We've Come (Sushi)](https://osu.ppy.sh/beatmapsets/1264)
-  - **Normal : 2,000,000**
-  - Hard : 1,500,000
-    - Premier essai en ligne échoué : 2,450,000
-    - Deuxième essai en ligne échoué : 50,000
-- ![](/wiki/shared/icon/flame.gif) [Nico Nico Douga - U.N. Owen Was Her? (Reikin)](https://osu.ppy.sh/beatmapsets/1785)
-  - **Normal : 2,000,000**
-    - Essai hors-ligne : 50,000,000
-
-Le **Score classé total pour osu!** du joueur serait : 5,000,000 + 1,000,000 + 2,000,000 + 2,000,000 = **10,000,000 score**.
-
-Similairement, le **Score total pour osu!** du joueur serait : (3,000,000 + 5,000,000) + (500,000 + 1,000,000) + (2,000,000 + 1,500,000 + 2,450,000 + 50,000) + (2,000,000) = **17,500,000 score**.
-
-### Score classé
-
-Le score classé est la **somme des meilleurs scores sur toutes les beatmaps classées jouées en ligne.**
-
-### Score total
-
-Le score total est la **somme de tous les scores sur des beatmaps classées et/ou approuvées, réussis ou non.**
-
-Si un joueur joue une beatmap classée pour la première fois et qu'il obtient 500k, les deux scores augmentent de 500k.
-Ensuite, si le joueur rejoue la beatmap et qu'il obtient un score de 400k, seul le score total augmentera de 400k.
-
-## Niveau
-
-Le niveau d'un joueur est basé uniquement sur le **score total** du joueur. Le score requis pour passer un niveau est donné par la fonction suivante : 
-
-```
-score(n) = 5,000 / 3 * (4n^3 - 3n^2 - n) + 1.25 * 1.8^(n - 60) si n <= 100
-score(n) = 26,931,190,827 + 99,999,999,999 * (n - 100)         si n > 100
-```
-
-Notez qu'à cause de la technique d'arrondi utilisée par le jeu, les valeurs pour les niveaux supérieurs à 100 ne correspondent pas exactement à la formule. Cela est dû au fait que le jeu conserve une liste pré-calculée des différences de score entre chaque niveau, et que chaque élément de cette liste est arrondi à l'entier le plus proche. Par exemple, le 80e élément de la liste est `score(81) - score(80) = 128,927,482.36216`, arrondi à 128,927,482. Au niveau 100, l'erreur totale est de +1.629, ce qui explique pourquoi `score(100) = 26,931,190,828.629` ne correspond pas au 26,931,190,827 dans la deuxième partie de la fonction.
-
-La progression vers le niveau suivant est affichée dans une barre à côté du niveau du joueur.

@@ -7,7 +7,7 @@ tags:
 
 # Star rating
 
-**Star rating** (***SR***) menggambarkan tingkat kesulitan yang dimiliki pada sebuah [beatmap](/wiki/Beatmap), nilainya sudah dikalkulasi secara otomatis oleh klien osu!. Star rating memiliki peran besar dalam pemberian [performance points](/wiki/Performance_Points) ketika beatmap ranked telah selesai dimainkan. Nilai star rating ini bisa dilihat pada saat [memilih musik](/wiki/Interface#layar-pemilihan-lagu) yang akan dimainkan di klien dan di laman informasi beatmap.
+**Star rating** (***SR***) menggambarkan tingkat kesulitan yang dimiliki pada sebuah [beatmap](/wiki/Beatmap), nilainya sudah dikalkulasi secara otomatis oleh klien osu!. Star rating memiliki peran besar dalam pemberian [performance points](/wiki/Performance_points) ketika beatmap ranked telah selesai dimainkan. Nilai star rating ini bisa dilihat pada saat [memilih musik](/wiki/Interface#layar-pemilihan-lagu) yang akan dimainkan di klien dan di laman informasi beatmap.
 
 ## Kesulitan
 

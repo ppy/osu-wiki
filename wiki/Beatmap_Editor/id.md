@@ -15,7 +15,7 @@ Beatmap Editor memiliki empat komponen utama sebagaimana yang dapat dilihat pada
 
 ## Compose
 
-Tab [Compose](/wiki/Beatmap_Editor/Compose) merupakan bagian dari editor yang dipergunakan untuk menempatkan [hit object](/wiki/Hit_Objects) dan elemen-elemen permainan lainnya. Pada umumnya, para mapper akan meluangkan sebagian besar waktunya pada tab ini.
+Tab [Compose](/wiki/Beatmap_Editor/Compose) merupakan bagian dari editor yang dipergunakan untuk menempatkan [hit object](/wiki/Hit_object) dan elemen-elemen permainan lainnya. Pada umumnya, para mapper akan meluangkan sebagian besar waktunya pada tab ini.
 
 ## Design
 
@@ -36,7 +36,7 @@ Di samping empat komponen utama di atas, Beatmap Editor juga memiliki komponen-k
 - [AiMod](AiMod): Sebuah sistem otomatis yang memuat laporan pada sebuah beatmap jika terjadi kesalahan.
 - [Beat snap divisor](Beat_Snap_Divisor): Menentukan pada ketukan berapa sebuah hit object akan ditempatkan.
 - [Distance snap](Distance_Snap): Menentukan jarak penempatan standar antar satu hit object dengan hit object lainnya.
-- [Kiai time](Kiai_Time): Timing section khusus yang dapat digunakan untuk memberikan penekanan tambahan pada bagian-bagian beatmap tertentu.
+- [Kiai time](/wiki/Kiai_time): Timing section khusus yang dapat digunakan untuk memberikan penekanan tambahan pada bagian-bagian beatmap tertentu.
 - [Menu](Menu): Membantu kamu untuk memberikan petunjuk dalam Beatmap Editor.
 - [SB load](SB_Load): Sebuah angka yang digunakan untuk memberitahu seberapa beratnya storyboard.
 - [Timelines](Timelines): Menampilkan letak hit object, break, dan yang lainnya.

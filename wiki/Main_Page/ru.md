@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 ---
 
 <div class="wiki-main-page__blurb">
@@ -26,7 +28,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Интерфейс](/wiki/Interface) • [Настройки](/wiki/Options) • [Визуальные настройки](/wiki/Visual_Settings) • [Горячие клавиши](/wiki/Shortcut_key_reference) • [Файл конфигурации](/wiki/osu!_Program_Files/User_Configuration_File) • [Программные файлы](/wiki/osu!_Program_Files)
 
-[Форматы файлов](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[Форматы файлов](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -131,7 +133,7 @@ osu! wiki, как и почти всё, связанное с игрой, нап
 
 [История osu!](/wiki/History_of_osu!) • [История osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [История развития моддинга и маппинга](/wiki/Mapping_and_Modding_Timeline) • [Первоапрельские шутки](/wiki/History_of_osu!/April_Fools)
 
-[Карта сайта](/wiki/Sitemap) • [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide) • [Критерии оформления статей](/wiki/Article_Styling_Criteria) • [Критерии оформления новостей](/wiki/News_Styling_Criteria)
+[Карта сайта](/wiki/Sitemap) • [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide) • [Критерии оформления статей](/wiki/Article_styling_criteria) • [Критерии оформления новостей](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

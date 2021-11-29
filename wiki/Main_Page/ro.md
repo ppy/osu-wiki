@@ -23,7 +23,7 @@ Bine ați venit la osu! wiki, un proiect care conține o gamă largă de informa
 
 [Interfață](/wiki/Interface) • [Opțiuni](/wiki/Options) • [Setări vizuale](/wiki/Visual_Settings) • [Comenzi rapide de la tastatură](/wiki/Shortcut_key_reference) • [Fișier de configurare](/wiki/osu!_Program_Files/User_Configuration_File) • [Fișiere de program](/wiki/osu!_Program_Files)
 
-[Formate de fișier](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[Formate de fișier](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -59,7 +59,7 @@ Componente: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Divizor Beat Snap](/wiki/Be
 
 # Comunitate
 
-[Turnee](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proiecte](/wiki/Projects) • [Ghiduri](/wiki/Guides) • [Serverul Discord osu!dev](/wiki/osu!dev_Discord_server) • [Cum puteți ajuta](/wiki/How_You_Can_Help!) • [Glosar](/wiki/Glossary)
+[Turnee](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proiecte](/wiki/Projects) • [Ghiduri](/wiki/Guides) • [Serverul Discord osu!dev](/wiki/osu!dev_Discord_server) • [Cum puteți ajuta](/wiki/How_you_can_help!) • [Glosar](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -84,7 +84,7 @@ Organizații: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # Despre wiki
 
-[Harta site-ului](/wiki/Sitemap) • [Ghid de contribuție](/wiki/osu!_wiki/Contribution_guide) • [Criterii de stilare a articolelor](/wiki/Article_Styling_Criteria) • [Criterii de stilare a știrilor](/wiki/News_Styling_Criteria)
+[Harta site-ului](/wiki/Sitemap) • [Ghid de contribuție](/wiki/osu!_wiki/Contribution_guide) • [Criterii de stilare a articolelor](/wiki/Article_styling_criteria) • [Criterii de stilare a știrilor](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

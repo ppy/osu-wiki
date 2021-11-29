@@ -17,7 +17,7 @@ The beatmap editor is separated into four main sections which can be seen in the
 
 ## Compose
 
-[Compose](/wiki/Beatmap_Editor/Compose) is where all [hit objects](/wiki/Hit_Objects) and other gameplay-related elements are created. Most mappers spend more time in this tab than all of the others because of this.
+[Compose](/wiki/Beatmap_Editor/Compose) is where all [hit objects](/wiki/Hit_object) and other gameplay-related elements are created. Most mappers spend more time in this tab than all of the others because of this.
 
 ## Design
 
@@ -38,7 +38,7 @@ Other components of the beatmap editor include:
 - [AiMod](AiMod): An automated system that reports problems in a beatmap
 - [Beat snap divisor](Beat_Snap_Divisor): Determines how objects snap to the timeline
 - [Distance snap](Distance_Snap): The multiplier that affects how close or far hit objects are placed from each other
-- [Kiai time](Kiai_Time): Special timing sections that help emphasize a part of a beatmap
+- [Kiai time](/wiki/Kiai_time): Special timing sections that help emphasize a part of a beatmap
 - [Menu](Menu): Helps you navigate the beatmap editor
 - [SB load](SB_Load): A number used to tell how demanding a storyboard is
 - [Timelines](Timelines): Displays placed hit objects, breaks, and more

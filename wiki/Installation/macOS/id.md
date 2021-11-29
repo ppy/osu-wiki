@@ -1,25 +1,43 @@
----
-outdated: true
-outdated_since: 8936d6101fc0868c7d2479382eb6a7137bdde90b
----
+# Instalasi osu! pada perangkat MacOS
 
-# Pemasangan pada macOS
+Laman ini akan menjelaskan hal-hal apa saja yang kurang lebihnya harus kamu lakukan untuk dapat menjalankan osu! pada perangkat macOS milikmu.
 
-Laman ini secara kasar akan membantu kamu untuk memasang osu! pada perangkat macOS kamu.
+## Persyaratan minimum
 
-## Persyaratan sistem minimum
+- Kamu harus memiliki komputer dengan sistem operasi macOS yang terpasang di dalamnya.
 
-- Komputer yang layak untuk menjalankan macOS.
+## Instalasi osu!
 
-## Memasang osu!
+osu! versi macOS pada umumnya belum stabil dan memiliki bug-bug tertentu yang tidak dijumpai pada osu! versi Windows. Agar osu! dapat beroperasi sebagaimana mestinya, kamu mungkin butuh untuk menyesuaikan hal-hal tertentu pada komputermu terlebih dahulu. Apabila kamu ingin menjalankan osu! pada perangkat macOS milikmu, ikuti langkah-langkah berikut:
 
-osu! versi macOS bersifat eksperimental. Game ini mungkin tidak berfungsi seperti seharusnya atau bahkan tidak bisa dijalankan sama sekali. [Tutorial video berikut](https://www.youtube.com/watch?v=3ay221bMHNo) akan membantu proses pemasangan di bawah.
+1. Tuju [laman unduhan Wineskin berikut](https://osu.ppy.sh/community/forums/topics/1106057) dan unduh Wineskin versi terbaru yang tersedia.
+2. Perbaiki berkas `osu!.app` yang ada dengan aplikasi osu!macOS Agent yang dapat kamu unduh pada [tautan berikut](https://osu.ppy.sh/community/forums/topics/1036678). Kamu juga dapat memperbaiki berkas `osu!.app` melalui Terminal sebagai berikut:
+   1. Pindahkan berkas `osu!.app` ke desktop.
+   2. Buka Terminal dan salin/ketik perintah berikut pada layar Terminal yang muncul: `xattr -c 'Desktop/osu!.app'`. Apabila sudah, tekan tombol `Return`.  
+3. Jalankan aplikasi `osu!.app`.
+4. Proses instalasi akan berlangsung secara otomatis. Tidak seperti osu! versi Windows, kamu tidak dapat mengubah lokasi pemasangan osu!. Seluruh berkas-berkas permainan, termasuk [beatmap-beatmap](/wiki/Beatmap) and [skin-skin](/wiki/Skin) yang kamu miliki, akan tertanam di dalam berkas `osu.app` tersebut. Untuk dapat melihat berkas-berkas permainan yang ada, klik kanan `osu!.app` dan pilih `Show Package Contents`.
+5. Setelah osu! berhasil terpasang, osu! akan terbuka secara otomatis. osu!direct akan kemudian mengunduh beberapa beatmap pengantar yang dapat kamu mainkan.
+6. osu! akan meminta kamu untuk masuk atau membuat akun baru.
+   - Apabila kamu sudah memiliki akun, silakan masuk.
+   - Apabila kamu belum memiliki akun, harap untuk terlebih dahulu membuat akun baru sesuai dengan panduan yang tertera pada artikel [Pendaftaran](/wiki/Registration).
 
-1. Buka [laman unduh](https://osu.ppy.sh/community/forums/topics/682197) non-resmi, unduh `osu!.app.zip` lalu ekstraksi file-nya.
-2. Kamu akan melihat folder `osu!.app`, yang jika dilihat bentuknya seperti sebuah aplikasi. Klik kanan pada folder itu, dan pilih `Open`.
-   - Mengklik kiri dua kali pada folder mungkin tidak akan bekerja, karena macOS dapat mengenali aplikasi yang dikembangkan oleh pengembang yang tidak dikenal. Mengklik kanan dan memilih `Open` akan menyelesaikan masalah ini.
-3. Penginstal akan berjalan secara otomatis. Lokasi pemasangan tidak dapat diubah dan akan dipasang langsung ke `osu!.app`. Memindahkan `osu.app` akan memindahkan semua file yang berada di dalamnya. Kamu juga dapat mengklik kanan folder ini dan pilih `Show Package Contents` untuk melihat semua file yang berada dalam folder.
-4. Saat proses pemasangan selesai, osu! akan terbuka secara otomatis. osu!direct akan bekerja di belakang layar untuk mengunduh beberapa beatmap pengantar untukmu.
-5. Terakhir osu! akan meminta kamu untuk masuk atau mendaftar.
-   - Jika kamu sudah memiliki akun, silakan masuk.
-   - Jika kamu perlu mendaftar, lihat artikel [Registrasi](/wiki/Registration), lalu masuk.
+## Penyelesaian masalah (*troubleshooting*)
+
+Apabila kamu menemui masalah dalam menjalankan osu!, cobalah untuk mengikuti langkah-langkah berikut:
+
+1. Periksa laporan-laporan error yang dihasilkan oleh *osu!macOS Agent*.
+   - Apabila kamu menggunakan macOS Catalina versi 10.15.4 atau lebih lawas, cobalah untuk memperbaharui versi macOS yang kamu gunakan atau menonaktifkan [System Integrity Protection](https://developer.apple.com/documentation/security/disabling_and_enabling_system_integrity_protection).
+2. Periksa apakah ada berkas-berkas tertentu yang bermasalah dengan menggunakan program pengekstrak "Archive Utility" yang disediakan oleh sistem macOS. Kami tidak menyarankan kamu untuk menggunakan program-program pengekstrak lain karena program-program ini pada umumnya dapat merusak Wineskin.
+3. Apabila kamu menggunakan program antivirus, pastikan program antivirus yang kamu gunakan tidak menghalangi osu! untuk dapat berjalan atau menandai berkas-berkas yang dimiliki osu! dan Wine sebagai virus.
+4. Apabila kamu masih tetap menemui masalah, buatlah postingan baru di [sub-forum Help](https://osu.ppy.sh/community/forums/5).
+
+## osu!lazer
+
+[osu!lazer](https://github.com/ppy/osu) merupakan versi osu! mutakhir yang nantinya akan menggantikan versi osu! yang saat ini dipergunakan secara luas. Walaupun saat ini osu!lazer belum memberikan [performance point](/wiki/Performance_points) apapun, osu!lazer memiliki banyak fitur menarik yang tentunya sayang untuk dilewatkan. Untuk dapat memasang osu!lazer pada perangkat macOS milikmu, ikuti langkah-langkah berikut:
+
+1. Tuju [laman unduhan osu!lazer berikut](https://github.com/ppy/osu/releases/latest) dan unduh `osu!.app.zip`.
+2. Ekstrak berkas tersebut dan jalankan osu! melalui menu `Open`.
+3. Apabila kamu menemui kotak dialog yang meminta agar osu! dapat menerima input-input keyboard:
+   1. Klik `Open System Preferences` pada kotak dialog yang bersangkutan.
+   2. Klik tombol gembok yang ada pada pojok kiri bawah layar dan ketikkan kata sandi komputermu.
+   3. Berikan tanda centang pada *check box* yang ada di samping ikon osu!.

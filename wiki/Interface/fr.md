@@ -92,11 +92,11 @@ Dans cette partie de l'écran se situent **les informations sur la difficulté d
 
 - **Durée**: La durée totale de la beatmap, du début à la fin et en comptant les pauses. À ne pas confondre avec le [drain time](/wiki/Gameplay/Drain_time).
 - **BPM**: Le BPM de la beatmap. Si (comme sur la deuxième image) deux BPM sont présents, dont un entre parenthèses, cela veut dire que le BPM change pendant la musique. On peut y voir le BPM le plus lent et le BPM le plus rapide, tandis que la valeur entre parenthèses est le BPM au début de la beatmap.
-- **Objets**: Le nombre total d'[objets](/wiki/Hit_Objects) dans la beatmap.
+- **Objets**: Le nombre total d'[objets](/wiki/Hit_object) dans la beatmap.
 - **Cercles**: Le nombre total de cercles dans la beatmap.
 - **Sliders**: Le nombre total de sliders dans la beatmap.
 - **Spinners**: Le nombre total de spinners dans la beatmap.
-- **OD**: L'[overall difficulty](/wiki/Beatmapping/Overall_Difficulty) de la beatmap.
+- **OD**: L'[overall difficulty](/wiki/Beatmapping/Overall_difficulty) de la beatmap.
 - **HP**: Le taux de drain de votre barre de vie. Dans osu! et osu!catch, cette valeur détermine combien de PV (points de vie) sont perdus en manquant une note, combien de PV sont gagnés en cliquant sur une note, et à quelle vitesse la barre de vie se vide lorsqu'aucune action n'est effectuée. Dans osu!mania, son fonctionnement est identique excepté que la barre de vie ne se vide pas toute seule. Dans osu!taiko, cette valeur détermine à quelle vitesse la barre de vie se remplit et combien de PV sont perdus quand une note est manquée.
 - **Stars**: Le star rating de la beatmap. Il est également visible sur le rectangle de la beatmap.
 
@@ -291,7 +291,7 @@ Ci-dessous se trouvent les écrans de résultat pour les autres modes de jeu.
 
 Voici votre classement en ligne. Vous pouvez y accéder en glissant l'écran des résultats vers le haut. Votre tableau des scores locaux montrera toujours votre nom et votre score.
 
-1. Votre profil. Il montre vos [PP](/wiki/Performance_Points), votre rang global, votre score total, votre [précision](/wiki/Gameplay/Accuracy) globale, ainsi que votre niveau.
+1. Votre profil. Il montre vos [PP](/wiki/Performance_points), votre rang global, votre score total, votre [précision](/wiki/Gameplay/Accuracy) globale, ainsi que votre niveau.
 2. `Exporter le replay`: Vous pouvez regarder votre performance sur la beatmap plus tard soit en l'ouvrant depuis le classement local, soit en allant dans votre dossier `Replays` et en cliquant dessus.
 3. `Ajouter aux favoris en ligne`: Ajoute la beatmap dans vos favoris, qui sont situés sur votre profil osu! dans la section "Beatmaps".
 4. Classement local: Tous vos scores sont stockés sur votre ordinateur. Pour les voir, retournez sur [l'écran de sélection des beatmaps](#écran-de-sélection-des-beatmaps), puis sélectionnez `Classement local` dans le menu déroulant à gauche.
@@ -299,15 +299,15 @@ Voici votre classement en ligne. Vous pouvez y accéder en glissant l'écran des
    1. `Général`: Votre position dans le classement de la beatmap, où vous pouvez vous mesurer à d'autres joueurs qui ont utilisé des [mods](/wiki/Game_modifier), même si vous n'en avez pas utilisé.
    2. `Précision`: La [précision](/wiki/Gameplay/Accuracy) avec laquelle vous avez jouée la beatmap. Elle n'est comptée que si vous avez battu votre ancien record.
    3. `Max Combo`: Votre plus grand combo sur la beatmap jouée.
-   4. `Score classé`: Votre [meilleur score](/wiki/Score#ranked-score) sur la beatmap.
+   4. `Score classé`: Votre [meilleur score](/wiki/Score/Ranked_score) sur la beatmap.
    5. `Score total`: N'est pas pris en compte puisqu'il n'affecte en rien votre position dans le classement.
    6. `Performance`: Le nombre de [PP unweighted](/wiki/Performance_points#pourquoi-n'ai-je-pas-gagné-la-totalité-des-pp-d'une-beatmap-que-j'ai-jouée-?) obtenus sur cette partie.
 6. La section `Overall Ranking`. Elle est disponible uniquement pour les beatmaps avec un classement en ligne. Vous devez également être en ligne pour voir cette section.
    1. `Général`: Votre classement global sur la beatmap.
    2. `Précision`: Votre [précision](/wiki/Gameplay/Accuracy#accuracy) globale sur toutes les beatmaps que vous avez jouées.
    3. `Max Combo`: Votre plus grand combo sur toutes les beatmaps que vous avez jouées.
-   4. [`Score classé`](/wiki/Score#score-classé): Le nombre total de points que vous avez obtenu sur toutes les beatmaps ayant un classement en ligne que vous avez jouées, chaque beatmap ne comptant qu'une seule fois.
-   5. [`Score total`](/wiki/Score#score-total): Le fonctionnement est identique à celui du score classé, mais il prend en compte toutes les beatmaps présentes sur le site d'osu!, ainsi que les beatmaps que vous avez quittées avant la fin et celles que vous avez échouées. Ce score compte dans votre niveau.
+   4. [`Score classé`](/wiki/Score/Ranked_score): Le nombre total de points que vous avez obtenu sur toutes les beatmaps ayant un classement en ligne que vous avez jouées, chaque beatmap ne comptant qu'une seule fois.
+   5. [`Score total`](/wiki/Score/Total_score): Le fonctionnement est identique à celui du score classé, mais il prend en compte toutes les beatmaps présentes sur le site d'osu!, ainsi que les beatmaps que vous avez quittées avant la fin et celles que vous avez échouées. Ce score compte dans votre niveau.
    6. `Performance`: Affiche votre nombre total de Points de Performance, ainsi que le nombre de PP que votre score vaut.
 7. Informations sur la beatmap, ainsi que le nombre de parties jouées et le taux de réussite sur celle-ci.
 8. Note globale de la beatmap. Vous pouvez noter la beatmap que vous venez de jouer en fonction de si vous l'avez aimée ou non. Si vous n'arrivez pas à vous décider, mieux vaut ne pas y toucher.

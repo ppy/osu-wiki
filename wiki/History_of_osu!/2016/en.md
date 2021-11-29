@@ -24,7 +24,7 @@ Links:
 
 The Oculus Rift as a "supported" input method was announced as an 2016 April Fools joke.
 
-[Maria](/wiki/Maria) joins the stage with [pippi](/wiki/pippi) and [Yuzu](/wiki/Yuzu) as osu!mania's new postergirl. The osu!taiko World Cup 2016 concluded with Japan being victorious against Taiwan.
+[Maria](/wiki/Mascots#mani-&-mari) joins the stage with [pippi](/wiki/Mascots#pippi) and [Yuzu](/wiki/Mascots#yuzu) as osu!mania's new postergirl. The osu!taiko World Cup 2016 concluded with Japan being victorious against Taiwan.
 
 Links:
 
@@ -34,7 +34,7 @@ Links:
 
 ## May
 
-The first osu! remix contest begins with the challenge of remixing nekodex's "circles!". From Polygon, Keiichi Yano, one of the leading minds behind games like Elite Beat Agents, has given praise towards osu! for its community that wants to share beatmaps they create. [Aspire](/wiki/Aspire) returns due to overwhelming demand.
+The first osu! remix contest begins with the challenge of remixing nekodex's "circles!". From Polygon, Keiichi Yano, one of the leading minds behind games like Elite Beat Agents, has given praise towards osu! for its community that wants to share beatmaps they create. [Aspire](/wiki/Contests/Aspire) returns due to overwhelming demand.
 
 Links:
 
@@ -54,7 +54,7 @@ Links:
 
 ## July
 
-[Aspire](/wiki/Aspire) 2 concluded with [Monstrata](https://osu.ppy.sh/users/2706438) as the Aspirant. osu! remix contest voting opened, together with the osu!taiko design contest.
+[Aspire](/wiki/Contests/Aspire) 2 concluded with [Monstrata](https://osu.ppy.sh/users/2706438) as the Aspirant. osu! remix contest voting opened, together with the osu!taiko design contest.
 
 Links:
 
@@ -86,7 +86,7 @@ Links:
 
 ## October
 
-osu! World Cup 2016 registrations opened. GML applications were opened for those who wish to join. The [loved](/wiki/Beatmap/Category#loved) beatmap status was introduced in its testing stage as a way to give community-loved, but unrankable, beatmaps leaderboards. Those types of beatmaps will, however, not award [pp](/wiki/Performance_Points) and their leaderboards could be deleted for when the creator updates their beatmap. The Halloween-themed 7th fanart contest opened. Loved was in its second testing state, ready for a new batch of beatmaps to enter this category. A new video featuring osu!lazer was released. Most notably, the hit circles had more textures to them and gave off a smooth and shiny look. osu!idol 2016 voting were opened. A few days before Halloween, the Halloween fanart contest was opened and concluded two days later. The osu!weekly released the 78th issue on Halloween, making it as spooky as possible (but where did the 77th issue go? We'll never know).
+osu! World Cup 2016 registrations opened. GML applications were opened for those who wish to join. The [loved](/wiki/Beatmap/Category#loved) beatmap status was introduced in its testing stage as a way to give community-loved, but unrankable, beatmaps leaderboards. Those types of beatmaps will, however, not award [pp](/wiki/Performance_points) and their leaderboards could be deleted for when the creator updates their beatmap. The Halloween-themed 7th fanart contest opened. Loved was in its second testing state, ready for a new batch of beatmaps to enter this category. A new video featuring osu!lazer was released. Most notably, the hit circles had more textures to them and gave off a smooth and shiny look. osu!idol 2016 voting were opened. A few days before Halloween, the Halloween fanart contest was opened and concluded two days later. The osu!weekly released the 78th issue on Halloween, making it as spooky as possible (but where did the 77th issue go? We'll never know).
 
 Links:
 

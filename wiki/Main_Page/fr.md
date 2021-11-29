@@ -26,7 +26,7 @@ En tant que guide du monde du rythme, des battements et des flashs, osu! a beauc
 
 [Interface](/wiki/Interface) • [Options](/wiki/Options) • [Paramètres visuels](/wiki/Visual_Settings) • [Référence des touches de raccourci](/wiki/Shortcut_key_reference) • [Configuration file](/wiki/osu!_Program_Files/User_Configuration_File) • [Program files](/wiki/osu!_Program_Files)
 
-[Formats de fichiers](/wiki/osu!_File_Formats) : [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[Formats de fichiers](/wiki/osu!_File_Formats) : [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -98,7 +98,7 @@ L'interaction sociale est l'une des principales choses qui alimentent les joueur
 
 [Tournois](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Concours](/wiki/Contests) • [Community mentorship program](/wiki/Community_Mentorship_Program)
 
-[Projets](/wiki/Projects) : [Featured Artists](/wiki/Featured_Artists) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
+[Projets](/wiki/Projects) : [Featured Artists](/wiki/Featured_Artists) • [osu! community meetings](/wiki/osu!_Community_Meetings) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -131,7 +131,7 @@ Comme presque tout ici, le wiki d'osu! est écrit et maintenu par des volontaire
 
 [L'histoire d'osu!](/wiki/History_of_osu!) • [L'histoire de l'osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Calendrier de mapping et de modding](/wiki/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
-[Plan du site](/wiki/Sitemap) • [Guide de contribution](/wiki/osu!_wiki/Contribution_guide) • [Critères de mise en forme d'article](/wiki/Article_Styling_Criteria) • [Critères de mise en forme des news](/wiki/News_Styling_Criteria)
+[Plan du site](/wiki/Sitemap) • [Guide de contribution](/wiki/osu!_wiki/Contribution_guide) • [Critères de mise en forme d'article](/wiki/Article_styling_criteria) • [Critères de mise en forme des news](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

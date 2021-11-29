@@ -23,7 +23,7 @@ Witaj na wiki osu!, projekcie skupiającym szeroką gamę informacji powiązanyc
 
 [Interfejs](/wiki/Interface) • [Opcje](/wiki/Options) • [Ustawienia wizualne](/wiki/Visual_Settings) • [Skróty klawiszowe](/wiki/Shortcut_key_reference) • [Plik konfiguracyjny](/wiki/osu!_Program_Files/User_Configuration_File) • [Pliki gry](/wiki/osu!_Program_Files)
 
-[Formaty plików](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[Formaty plików](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -59,7 +59,7 @@ Komponenty: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Podzielnik beatu](/wiki/Bea
 
 # Społeczność
 
-[Turnieje](/wiki/Tournaments) • [Tworzenie skórek](/wiki/Skinning) • [Projekty](/wiki/Projects) • [Poradniki](/wiki/Guides) • [Serwer Discord osu!dev](/wiki/osu!dev_Discord_server) • [Jak możesz pomóc?](/wiki/How_You_Can_Help!) • [Słownik](/wiki/Glossary)
+[Turnieje](/wiki/Tournaments) • [Tworzenie skórek](/wiki/Skinning) • [Projekty](/wiki/Projects) • [Poradniki](/wiki/Guides) • [Serwer Discord osu!dev](/wiki/osu!dev_Discord_server) • [Jak możesz pomóc?](/wiki/How_you_can_help!) • [Słownik](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -84,7 +84,7 @@ Organizacje: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # O wiki osu!
 
-[Mapa strony](/wiki/Sitemap) • [Poradnik dot. współtworzenia wiki](/wiki/osu!_wiki/Contribution_guide) • [Kryteria stylu artykułów](/wiki/Article_Styling_Criteria) • [Kryteria stylu aktualności](/wiki/News_Styling_Criteria)
+[Mapa strony](/wiki/Sitemap) • [Poradnik dot. współtworzenia wiki](/wiki/osu!_wiki/Contribution_guide) • [Kryteria stylu artykułów](/wiki/Article_styling_criteria) • [Kryteria stylu aktualności](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

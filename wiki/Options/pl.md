@@ -59,7 +59,7 @@ Aby otworzyć menu użytkownika, możesz kliknąć na swoją kartę, jeżeli jes
 | :-- | :-- | :-- | :-- |
 | `Wybierz język` | Wyświetla listę dostępnych języków. | Rozwijane menu |  |
 | `Stosuj oryginalne nazewnictwo` | Na ekranie wyboru utworu informacje o beatmapie będą zawierały oryginalne lub nieprzetłumaczone metadane, jeżeli są one dostępne. | Pole wyboru | `Wyłączone` |
-| `Użyj alternatywnej czcionki dla czatu` | Używa starej czcionki (Tahoma) zamiast obecnej (Aller) do wyświetlania wiadomości na [czacie](/wiki/chat_console). | Pole wyboru | `Wyłączone` |
+| `Użyj alternatywnej czcionki dla czatu` | Używa starej czcionki (Tahoma) zamiast obecnej (Aller) do wyświetlania wiadomości na [czacie](/wiki/Chat_Console). | Pole wyboru | `Wyłączone` |
 
 ### Aktualizacje
 
@@ -246,8 +246,8 @@ Głośność w kliencie gry możesz zmienić również poprzez naciśnięcie `Al
 | `Globalne opóźnienie` | Ustawia opóźnienie (w milisekundach) dla wszystkich beatmap (nie wpływa na opóźnienie lokalne). | Suwak | `0ms` |
 | `Kalibrator opóźnienia` | Uruchamia kalibrator opóźnienia. | Przycisk |  |
 
-- Po więcej informacji nt. kalibratora opóźnienia, sprawdź [ten artykuł](/wiki/Offset_Wizard).
-- Po więcej informacji nt. korzystania z kalibratora opóźnienia, sprawdź [ten poradnik](/wiki/How_to_use_the_Offset_Wizard).
+- Po więcej informacji nt. kalibratora opóźnienia, sprawdź [ten artykuł](/wiki/Options/Offset_Wizard).
+- Po więcej informacji nt. korzystania z kalibratora opóźnienia, sprawdź [ten poradnik](/wiki/Guides/How_to_Use_the_Offset_Wizard).
 
 ## Skórka
 
@@ -307,7 +307,7 @@ Jeżeli rozwiniesz listę dla `Ograniczaj kursor myszy`, zobaczysz następujące
 
 | Nazwa | Opis | Typ |
 | :-- | :-- | :-- |
-| `Ustawienia klawiatury` | Otwiera nakładkę z ustawieniami klawiatury. Sprawdź [ten artykuł](/wiki/Keyboard_Bindings), aby dowiedzieć się więcej. | Przycisk |
+| `Ustawienia klawiatury` | Otwiera nakładkę z ustawieniami klawiatury. Sprawdź [ten artykuł](/wiki/Options/Keyboard_Bindings), aby dowiedzieć się więcej. | Przycisk |
 | `Styl osu!mania` | Otwiera nakładkę z ustawieniami sterowania w trybie osu!mania. Sprawdź [ten artykuł](/wiki/Game_mode/osu!mania), aby dowiedzieć się więcej. | Przycisk |
 
 ### Inne
