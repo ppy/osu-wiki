@@ -7,7 +7,7 @@ tags:
 
 **osu!dev** merupakan server [Discord](https://discordapp.com) resmi yang digunakan untuk proyek *open source* osu! dan proyek yang dijalankan komunitas osu!. Di sinilah tempat utama yang bisa kamu kunjungi untuk berkontribusi pada pengembangan osu! dan berhubungan langsung dengan [tim inti osu!](/wiki/People/The_Team).
 
-Tautan undangan untuk masuk ke dalam server sudah permanen dan bisa diakses dengan <https://discord.gg/ppy>.
+Tautan undangan permanen untuk masuk ke dalam server dan bisa diakses dengan <https://discord.gg/ppy>.
 
 ## Tahap verifikasi
 
