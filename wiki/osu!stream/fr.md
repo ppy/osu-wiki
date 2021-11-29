@@ -4,11 +4,13 @@
 
 ![](img/Os-Logo.jpg "osu!stream logo")
 
-**osu!stream** est une version d'osu! créée de toutes pièces et spécialement conçue pour les appareils tactiles. Elle est actuellement disponible uniquement sur la plateforme [iOS](http://en.wikipedia.org/wiki/IOS) d'Apple, mais un portage [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) est prévu. Elle introduit un tout nouveau système de jeu, comme le hold circle, et les rythmes connectés.
+**osu!stream** est une version d'osu! créée de toutes pièces et spécialement conçue pour les appareils tactiles. Elle est actuellement disponible uniquement sur la plateforme [iOS](http://en.wikipedia.org/wiki/IOS) d'Apple, mais un portage [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) était prévu, et presque terminé, mais il n'a pas été publié en raison de problèmes de latence audio dans Android qui rendaient le jeu peu agréable. Elle introduit un tout nouveau système de jeu, comme le hold circle, et les rythmes connectés.
 
-osu!stream ne prend pas en charge les beatmaps classiques d'osu!. Au lieu de cela, les beatmaps sont créées par une équipe spéciale de mappeurs pour tirer parti des nouveaux éléments et respecter un niveau de normes plus strict. Des beatmaps gratuites et payantes sont disponibles dans la "Boutique".
+osu!stream ne prend pas en charge les beatmaps classiques d'osu!. Au lieu de cela, les beatmaps sont créées par une équipe spéciale de mappeurs pour tirer parti des nouveaux éléments et respecter un niveau [niveau plus strict de normes](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g). Des beatmaps gratuites et payantes sont disponibles dans la "Boutique".
 
 [osu!stream a été élaboré dans osu!monthly \#5 avec une interview.](https://osu.ppy.sh/community/forums/topics/59924)
+
+Le développement de cette version s'est terminé en 2020. Pour plus d'informations, lisez le [billet de blog](https://blog.ppy.sh/osu-stream-2020-release/) sur sa dernière version. Le code source ainsi que les outils de conversion et de test des beatmaps ont été mis à disposition la même année sous une licence permissive sur [GitHub](https://github.com/ppy/osu-stream) pour les curieux, et toutes les cartes précédemment payantes sont désormais disponibles gratuitement dans la "boutique" du jeu.
 
 ## Installation
 
@@ -224,6 +226,8 @@ La couleur de fond est le violet et les lumières s'assombrissent en fonction de
 
 ## Score
 
+*Attention : Le classement peut toujours être consulté en jeu, mais aucun nouveau score ne sera accepté.*
+
 ### Précision
 
 `Précision = Valeur de la note / (Valeur parfaite)`
@@ -366,8 +370,6 @@ En raison de la difficulté d'obtenir une licence pour ladite chanson.
 
 Rendez-vous dans la section "Store" du jeu ou appuyez sur "Télécharger plus de chansons..." dans la section "Play".
 
-Les beatmaps sont regroupés, et certains ont un prix. Veillez à bien regarder l'étiquette de prix avant d'acheter pour éviter tout *achat accidentel*.
-
 ### Quelle est la chanson thème de osu!stream ?
 
 [nekodex - osu!stream theme (1.48)](https://soundcloud.com/nekodex/osu-stream-theme).
@@ -379,5 +381,7 @@ On l'entend généralement dans le menu principal et sur l'écran du tutoriel.
 
 ## Links
 
-- [Site Officiel](http://www.osustream.com)
+- [Site Officiel](http://www.osustream.com) (obsolète)
 - [Discussion (sur le site d'osu!)](https://osu.ppy.sh/community/forums/79)
+- [Dépôt GitHub](https://github.com/ppy/osu-stream)
+- [Post de Blog](https://blog.ppy.sh/osu-stream-2020-release/)
