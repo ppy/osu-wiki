@@ -35,7 +35,6 @@ outdated: true
 | Episode 16 | [mit OnosakiHito - Taiko QAT (38:58)](https://www.youtube.com/watch?v=ZYby7r3YNPg) |
 | Episode 17 | [mit RBRat3 - osu!painter (23:37)](https://www.youtube.com/watch?v=kSotXmkCN4I) |
 
-
 ## Spezialfolgen
 
 | \# | Spezialfolgen (alle auf Englisch) |

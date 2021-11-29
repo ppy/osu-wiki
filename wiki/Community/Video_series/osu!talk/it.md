@@ -60,7 +60,6 @@ outdated: true
 | #39 | [Arf](https://osu.ppy.sh/users/3716999) | Some frandom guy | [Link](https://www.youtube.com/watch?v=K9_4nzs5idM) |
 | #40 | [The8BitDrummer](https://www.twitch.tv/the8bitdrummer/profile) | Megalovaniac | [Link](https://www.youtube.com/watch?v=tuOv9E9QkJA) |
 
-
 ## Discussions
 
 | EP\# | Topics | Interviste | Link |
@@ -78,7 +77,6 @@ outdated: true
 | #11 | Catch the Beat Discussion | [deadbeat](https://osu.ppy.sh/users/128370), [Kingkevin30](https://osu.ppy.sh/users/564334), [- Magic Bomb -](https://osu.ppy.sh/users/3071175), [Candlestorm](https://osu.ppy.sh/users/6115166), [Saki](https://osu.ppy.sh/users/3026611), and [Zak](https://osu.ppy.sh/users/1375955) | [Link](https://www.youtube.com/watch?v=1SvUNLkcoQg) |
 | #12 | osu!idol Discussion | [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818), [shARPII](https://osu.ppy.sh/users/776257), and [Kyonko Hizara](https://osu.ppy.sh/users/444868) | [Link](https://www.youtube.com/watch?v=gwtlGM1GpWM) |
 
-
 ## World Cup Recaps
 
 ### Taiko World Cup 2015
@@ -87,10 +85,9 @@ outdated: true
 | :-- | :-- | :-- |
 | Group Stage | deadbeat, Tasha, tiamus et ztrot | [Lien](https://www.youtube.com/watch?v=-T9xDo7Y8Fo) |
 | Round of 16 | deadbeat, FLANKs, Tasha et ztrot | [Lien](https://www.youtube.com/watch?v=Y8IHcukw9Dw) |
-| Quarter Finals | _Gezo_, deadbeat, Nashmun et Tasha | [Lien](https://www.youtube.com/watch?v=W76U6woLvHA) |
+| Quarter Finals | \_Gezo\_, deadbeat, Nashmun et Tasha | [Lien](https://www.youtube.com/watch?v=W76U6woLvHA) |
 | Semi Finals | deadbeat, FLANKs, Two Fruit Cakes et ztrot | [Lien](https://www.youtube.com/watch?v=ALMrQ0GUmhY) |
-| Finals | _Gezo_, deadbeat, Tasha, et tiamus | [Lien](https://www.youtube.com/watch?v=iTOig6vSS28) |
-
+| Finals | \_Gezo\_, deadbeat, Tasha, et tiamus | [Lien](https://www.youtube.com/watch?v=iTOig6vSS28) |
 
 ### Catch the Beat World Cup 2015
 
@@ -99,7 +96,6 @@ outdated: true
 | Round of 16 | Skipped | N/A |
 | Quarter Finals | deadbeat, Tasha et ztrot | [Lien](https://www.youtube.com/watch?v=lagFdqHqVHA) |
 | Semi Finals | deadbeat, Tasha et ztrot | [Lien](https://www.youtube.com/watch?v=n6X5fZEEpRA) |
-
 
 ## Specials
 
