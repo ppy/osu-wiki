@@ -5,7 +5,7 @@ Berikut ini adalah perintah yang disediakan untuk mengatur ruangan turnamen mult
 - `!mp make <name>` - Membuat ruang turnamen dengan nama yang ditentukan. Maksimal ruangan yang dapat dibuat sebanyak 4.
   - Ruangan ini istimewa karena tidak ditutup meskipun semua pemain telah meninggalkan ruangan, dan ruangan ini dilindungi oleh kata sandi untuk mencegah pemain yang tidak diinginkan bergabung ke ruangan.
   - Saat ruangan selesai digunakan, gunakan `!mp close` untuk menutup ruangan.
-- `!mp makeprivate <name>` - Membuat ruang turnamen privat dengan nama yang ditentukan. Perintah ini sama dengan `!mp make` tetapi match history hanya dapat dilihat oleh pembuat ruangan dan partisipannya.
+- `!mp makeprivate <name>` - Membuat ruang turnamen privat dengan nama yang ditentukan. Perintah ini sama dengan `!mp make`, namun *match history* hanya dapat dilihat oleh pembuat ruangan dan partisipannya.
 - `!mp name <title>` - Memperbarui nama ruangan.
 - `!mp invite <username>` - Mengundang pemain ke ruangan.
   - Catatan bahwa fitur ini *tidak* bisa menembus fitur blokir pesan pribadi apa pun yang tersedia di klien osu!, jadi staf turnamen anda perlu memberi tahu pemain untuk mematikan fitur "Tolak pesan pribadi dari pemain selain teman anda" di pengaturan osu!.
