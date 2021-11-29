@@ -390,9 +390,9 @@ Aufzählungslisten gemeinsam mit nummerierten Listen sollte nur selten benutzt w
 1. Lade einen Skin aus den Foren herunter.
 2. Lade die Skindatei in osu!.
    - Wenn die Datei eine `.zip` ist, entpacke sie erst und verschiebe den Inhalt in den `Skins/`-Ordner (in deinem osu!-Installationsordner).
-   - Wenn die Datei eine `.osk` ist, öffne sie auf deinem Desktop oder verschiebe sie per Drag-and-drop in den Spielclient.
+   - Wenn die Datei eine `.osk` ist, öffne sie auf deinem Desktop oder verschiebe sie per Drag-and-drop in den Spiel-Client.
 3. Öffne osu!, falls es nicht offen ist, und wähle einen Skin in den Optionen.
-   - Das kann bereits passiert sein, falls du die `.osk`-Datei geöffnet oder sie per Drag-and-drop in den Spielclient verschoben hast.
+   - Das kann bereits passiert sein, falls du die `.osk`-Datei geöffnet oder sie per Drag-and-drop in den Spiel-Client verschoben hast.
 ```
 
 ## Code
