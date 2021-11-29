@@ -16,9 +16,9 @@ tag:
 
 # Sejarah peringkat online
 
-Versi awal osu! adalah pengalaman yang sebagian besar terisolasi, tanpa papan peringkat online untuk apa pun hingga [6 Oktober 2007](https://osu.ppy.sh/community/forums/topics/15?n=29), saat dukungan untuk peringkat online publik ditambahkan untuk [osu!](/wiki/Game_mode/osu!). Sejak itu, semua [mode permainan](/wiki/Game_mode) telah menerima [peringkat online](https://osu.ppy.sh/rankings/osu/performance) mereka sendiri.
+Versi awal osu! hanya memiliki peringkat lokal saja namun pada [6 Oktober 2007](https://osu.ppy.sh/community/forums/topics/15?n=29) fitur peringkat online ditambahkan untuk mode permainan [osu!](/wiki/Game_mode/osu!). Sejak saat itu, semua [mode permainan](/wiki/Game_mode) sudah memiliki [peringkat online-nya](https://osu.ppy.sh/rankings/osu/performance) masing-masing.
 
-Banyak pemain telah memegang peringkat #1 di setiap mode permainan di bawah sistem peringkat yang berbeda. Sistem saat ini yang digunakan oleh semua mode permainan untuk peringkat online adalah [ppv2](/wiki/Performance_points/ppv2).
+Banyak pemain telah memegang peringkat #1 di setiap mode permainan dengan sistem peringkat yang berbeda-beda. Sistem saat ini yang digunakan oleh semua mode permainan untuk peringkat online adalah [ppv2](/wiki/Performance_points/ppv2).
 
 ## ![][osu!] osu!
 
