@@ -59,7 +59,7 @@ Diese Spielmodifikatoren werden nicht mehr von osu! verwendet. Aber sofern gebra
 
 ---
 
-Wenn Spielmodifikatoren in Wettbewerbartikeln genannt werden, dann müssen diese Binnenmajuskeln verwenden (entferne das Leerzeichen und behalte die Buchstabenform wie oben beschrieben).
+Wenn Spielmodifikatoren in Wettbewerbsartikeln genannt werden, dann müssen diese Binnenmajuskeln verwenden (entferne das Leerzeichen und behalte die Buchstabenform wie oben beschrieben).
 
 ### Spielelemente
 
