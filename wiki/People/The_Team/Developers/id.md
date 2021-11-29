@@ -11,13 +11,13 @@ tags:
 
 Developer merupakan orang-orang yang menjaga agar permainan dan situs web osu! dapat terus hidup dan berkembang dengan memperbaiki *bug-bug* yang ada serta menambah fitur-fitur baru. Kebanyakan dari mereka merupakan karyawan ppy Pty Ltd, yang merupakan badan hukum resmi tempat osu! bernaung. Mereka juga pada umumnya merupakan bagian dari [tim inti osu!](/wiki/People/The_Team).
 
-Developer osu! dapat dikenali dari warna penggunanya yaitu pink dan gelar "osu!dev" atau "osu!team".
+Dalam osu!, para developer dapat dikenali dari nama pengguna mereka yang berwarna pink dan gelar "osu!dev" atau "osu!team" yang mereka sandang.
 
-## Anggota Tim
+## Anggota tim
 
-Halaman daftar tim [Developer](https://osu.ppy.sh/groups/11).
+Daftar para developer selengkapnya juga dapat dilihat pada [laman grup Developer berikut](http://osu.ppy.sh/groups/11).
 
-Pengembangan osu! dipimpin oleh ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)**, sang pencipta osu!.
+Pengembangan osu! dipimpin oleh ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** selaku pencipta osu!.
 
 ### Pengembang klien permainan
 
@@ -50,11 +50,11 @@ Pengembangan osu! dipimpin oleh ![][flag_AU] **[peppy](https://osu.ppy.sh/users/
 
 ### Kontributor
 
-Saat ini, proyek utama osu! diletakkan di GitHub dan orang-orang dapat berkontribusi secara bebas. Berikut adalah daftar pengguna yang telah berkontribusi secara signifikan terhadap proyek berikut dan berperan besar dalam pengembangannya.
+Saat ini, pengembangan osu! dipusatkan di Github yang memungkinkan semua orang untuk dapat berkontribusi secara bebas. Berikut ini adalah daftar pengguna yang telah berperan besar dalam mengembangkan proyek-proyek yang osu! miliki.
 
 #### osu!
 
-*Untuk tampilan detil mengenai kontribusi dalam proyek osu!, lihat: [Contributors of the `osu` repository](https://github.com/ppy/osu/graphs/contributors)*
+*Untuk rincian kontribusi yang telah diberikan terhadap proyek osu!, lihat: [Contributors of the `osu` repository](https://github.com/ppy/osu/graphs/contributors)*
 
 - ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022)
 - ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163)
@@ -64,7 +64,7 @@ Saat ini, proyek utama osu! diletakkan di GitHub dan orang-orang dapat berkontri
 
 #### osu!framework
 
-*Untuk tampilan detil mengenai kontribusi dalam proyek osu!framework, lihat: [Contributors of the `osu-framework` repository](https://github.com/ppy/osu-framework/graphs/contributors)*
+*Untuk rincian kontribusi yang telah diberikan terhadap proyek osu!framework, lihat: [Contributors of the `osu-framework` repository](https://github.com/ppy/osu-framework/graphs/contributors)*
 
 - ![][flag_SA] [frenzibyte](https://osu.ppy.sh/users/14210502)
 - ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732)
@@ -74,7 +74,7 @@ Saat ini, proyek utama osu! diletakkan di GitHub dan orang-orang dapat berkontri
 
 #### osu!web
 
-*Untuk tampilan detil mengenai kontribusi dalam proyek osu!web, lihat: [Contributors of the `osu-web` repository](https://github.com/ppy/osu-web/graphs/contributors)*
+*Untuk rincian kontribusi yang telah diberikan terhadap proyek osu!web, lihat: [Contributors of the `osu-web` repository](https://github.com/ppy/osu-web/graphs/contributors)*
 
 - ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 - ![][flag_ID] [GPR](https://osu.ppy.sh/users/10721349)
@@ -84,13 +84,13 @@ Saat ini, proyek utama osu! diletakkan di GitHub dan orang-orang dapat berkontri
 
 ## Kontributor yang sudah pensiun
 
-Daftar di bawah ini merupakan pengguna yang sudah meninggalkan proyek pengembangan game.
+Berikut ini adalah para mantan developer yang kini sudah tidak lagi aktif mengembangkan osu!.
 
 | Pengguna | Peran |
 | :-- | :-- |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pengembang klien game |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pengembang klien permainan |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Desainer |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang klien game |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang klien permainan |
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
