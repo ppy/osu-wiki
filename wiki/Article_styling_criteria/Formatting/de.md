@@ -767,7 +767,7 @@ Das folgende ist ein Beispiel, wie eine Tabelle aussehen sollte:
 
 Blockzitate sind auf das Zitieren von Texten von anderen beschränkt. Sie dürfen nicht dazu benutzt werden, um anderen Text zu formatieren.
 
-## Thematische Brüche
+## Thematische Trennungen
 
 Thematische Trennungen (auch bekannt als horizontale Linien) sollten nur selten verwendet werden. Ein paar sinnvolle Benutzungen sind hier aufgelistet (aber nicht darauf beschränkt):
 
