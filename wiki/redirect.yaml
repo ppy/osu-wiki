@@ -87,15 +87,23 @@
 "difficulty":                        "Beatmap/Difficulty"
 "difficulties":                      "Beatmap/Difficulty"
 
-"AW":                   "Community/Forum/Abandoned_Wasteland"
-"abandoned_wasteland":  "Community/Forum/Abandoned_Wasteland"
-"forum":                "Community/Forum"
-"forums":               "Community/Forum"
-"modding_queue":        "Community/Forum/Modding_Queues"
-"modding_queues":       "Community/Forum/Modding_Queues"
-"OT":                   "Community/Forum/Off-Topic"
-"off-topic":            "Community/Forum/Off-Topic"
-"offtopic":             "Community/Forum/Off-Topic"
+
+"community_mentorship_program": "Community/Community_Mentorship_Program"
+"AW":                           "Community/Forum/Abandoned_Wasteland"
+"abandoned_wasteland":          "Community/Forum/Abandoned_Wasteland"
+"forum":                        "Community/Forum"
+"forums":                       "Community/Forum"
+"modding_queue":                "Community/Forum/Modding_Queues"
+"modding_queues":               "Community/Forum/Modding_Queues"
+"OT":                           "Community/Forum/Off-Topic"
+"off-topic":                    "Community/Forum/Off-Topic"
+"offtopic":                     "Community/Forum/Off-Topic"
+"osu!_community_meetings":      "Community/osu!_community_meetings"
+"osu!dev_discord_server":       "Community/osu!dev_Discord_server"
+"organisations":                "Community/Organisations"
+"project_loved":                "Community/Project_Loved"
+"osu!talk":                     "Community/Video_series/osu!talk"
+"osu!mapping":                  "Community/Video_series/osu!mapping"
 
 "bancho": "Disambiguation/Bancho"
 "easy": "Disambiguation/Easy"
@@ -465,7 +473,8 @@
 "spinner":                     "Hit_object/Spinner"
 "spinners":                    "Hit_object/Spinner"
 
-"how_you_can_help":            "How_You_Can_Help!"
+"how_you_can_help":            "Community/How_you_can_help!"
+"how_you_can_help!":           "Community/How_you_can_help!"
 
 "install":                     "Installation"
 "install_osu!":                "Installation"
@@ -478,7 +487,8 @@
 "results_screen":              "Interface#ranking-screen"
 "grading_screen":              "Interface#ranking-screen"
 
-"irc":                         "Internet_Relay_Chat"
+"irc":                         "Community/Internet_Relay_Chat"
+"internet_relay_chat":         "Community/Internet_Relay_Chat"
 
 "copyright":                   "Legal/Copyright"
 "tos":                         "Legal/Terms"
@@ -795,8 +805,9 @@
 "user_configuration":                         "osu!_Program_Files/User_Configuration_File"
 "user_config":                                "osu!_Program_Files/User_Configuration_File"
 
-"academy":                     "osu!academy"
-"announcements/osu!academy":   "osu!academy"
+"academy":                     "Community/Video_series/osu!academy"
+"announcements/osu!academy":   "Community/Video_series/osu!academy"
+"osu!academy":                 "Community/Video_series/osu!academy"
 
 "api":                         "osu!api"
 
@@ -805,7 +816,7 @@
 
 "supporter":                   "osu!supporter"
 
-"talk":                        "osu!talk"
+"talk":                        "Community/Video_series/osu!talk"
 
 "tourney":                     "osu!tourney"
 
@@ -954,9 +965,10 @@
 
 "play_styles": "Play_style"
 
-"game_modes/external_ports": "Projects"
-"external_ports": "Projects"
-"tools": "Projects"
+"game_modes/external_ports": "Community/Projects"
+"external_ports": "Community/Projects"
+"projects": "Community/Projects"
+"tools": "Community/Projects"
 
 "rankings":                    "Ranking"
 
@@ -1490,10 +1502,12 @@
 "tournaments/cfc/2": "Tournaments/CFC/2018"
 
 # Shortcuts for Mappers' Guild
-"guild":          "Mappers_Guild"
-"mapper's_guild": "Mappers_Guild"
-"mappers'_guild": "Mappers_Guild"
-"mg":             "Mappers_Guild"
+"guild":          "Community/Mappers_Guild"
+"mapper's_guild": "Community/Mappers_Guild"
+"mappers'_guild": "Community/Mappers_Guild"
+"mg":             "Community/Mappers_Guild"
+"mappers_guild":  "Community/Mappers_Guild"
+
 
 # Sitemap isn't a real wiki page so this is necessary for the website to function when visiting /wiki/sitemap
 "sitemap": "Sitemap"
