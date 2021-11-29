@@ -204,7 +204,7 @@ Kopfnoten müssen in Kursivschrift verfasst sein und direkt unter der Überschri
 
 ### Hauptseite
 
-Die Knopfnote *Hauptseite* verweist den Leser zum Hauptartikel eines Themas. Wenn diese Knopfnote benutzt wird, wird impliziert, dass der Abschnitt eine Zusammenfassung des verlinkten Artikels ist. Die Knopfnote sollte nur einen Link enthalten. Sie muss wie folgt formartiert sein:
+Die Kopfnote *Hauptseite* verweist den Leser zum Hauptartikel eines Themas. Wenn diese Kopfnote benutzt wird, wird impliziert, dass der Abschnitt eine Zusammenfassung des verlinkten Artikels ist. Die Kopfnote sollte nur einen Link enthalten. Sie muss wie folgt formartiert sein:
 
 ```markdown
 *Hauptseite: {Artikel}*
@@ -447,7 +447,7 @@ Bis jetzt machen die Befehle `Name` und `Author` in der Skinkonfigurationsdatei 
 Beim Kopieren von Dateinamen sollte die Schreibweise so sein, wie sie angezeigt wird. Sofern andwendbar, wird Kleinschreibung empfohlen. (Beispiele unten gezeigt.)
 
 ```markdown
-Um osu! zu spielen, mache eine Doppelklick auf das `osu!.exe`-Symbol.
+Um osu! zu spielen, mache einen Doppelklick auf das `osu!.exe`-Symbol.
 ```
 
 ### Dateierweiterungen
@@ -655,7 +655,7 @@ Bilder sollten das Format JPG bei einer Qualität von 8 (80 oder 80%, abhängig 
 
 ### Dateigröße
 
-Bilder müssen unter 1 MB liegen, ansonsten werden sie nicht geladen. Eine Herunterskalierung und die Benutzung von JPG bei 80% reicht dafür meistens aus.
+Bilder müssen weniger als 1 MB groß sein, ansonsten werden sie nicht geladen. Eine Herunterskalierung und die Benutzung von JPG bei 80% reicht dafür meistens aus.
 
 Alle Bilder sollten so weit wie möglich optimiert werden. Benutze [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive), um JPG-Bilder zu komprimieren. Benutze bitte den folgenden Befehl für jpeg-archive:
 
@@ -717,7 +717,7 @@ Du musst diese Einstellungen im Spiel-Client haben, bevor du einen Screenshot er
 
 Bilder dürfen nicht Teil eines Linktextes sein.
 
-Flaggensymbole neben Links zu Benutzern müssen separat vom Linktext sein. Siehe folgendes Beispiel:
+Flaggensymbole neben Links zu Benutzern müssen vom Linktext getrennt sein. Siehe folgendes Beispiel:
 
 ```markdown
 ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)

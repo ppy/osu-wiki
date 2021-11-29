@@ -8,11 +8,11 @@ Alle deutschen Artikel müssen Standarddeutsch verwenden.
 
 ## Sprachregister
 
-Es gibt zwei Sprachregister im Wiki: neutral und informal.
+Es gibt zwei Sprachregister im Wiki: neutral und informell.
 
 Standardmäßig wird das neutrale Register verwendet.
 
-Das informale Register wird speziell für eine handvolle Anzahl von Artikeln vbenutzt. Einige Beispiele mit diesem Register sind das [FAQ](/wiki/FAQ) und das [Hilfecenter](/wiki/Help_Centre).
+Das informelle Register wird speziell für eine kleine Handvoll von Artikeln benutzt. Einige Beispiele mit diesem Register sind das [FAQ](/wiki/FAQ) und das [Hilfecenter](/wiki/Help_Centre).
 
 Alle Regeln der Artikelgestaltungskriterien müssen für beide Register befolgt werden. Ausnahmen für jedes Register werden dokumentiert.
 
@@ -119,7 +119,7 @@ Zeitformatierungen müssen im folgenden Format benutzt werden:
 HH:MM ZEITZONE
 ```
 
-Zeit wird in einem 24-Stunden-Format notiert und alle einstelligen Werte müssen eine null als Vorzeichen haben. Die Zeitzone befindet sich direkt nach der Zeit und sollte im Format UTC+0 für globale Ereignise sein. Für kleinere Ereignisse ist es auch in Ordnung, die lokale Zeitzone zu verwenden. Benutze `UTC` anstatt `GMT`.
+Zeit wird in einem 24-Stunden-Format notiert und alle einstelligen Werte müssen eine Null als Vorzeichen haben. Die Zeitzone befindet sich direkt nach der Zeit und sollte im Format UTC+0 für globale Ereignisse sein. Für kleinere Ereignisse ist es auch in Ordnung, die lokale Zeitzone zu verwenden. Benutze `UTC` anstatt `GMT`.
 
 Schlechte Beispiele:
 
@@ -137,7 +137,7 @@ Gute Beispiele:
 11:30 UTC-4
 ```
 
-`UTC` (ohne eine Abweichung) ist implizit `UTC+0`. Beides kann verwendet werden, aber die Benutzung muss konsistent bleiben. UTC mit einer expliziten null-Abweichung muss ein Plus-Symbol enthalten (`+`).
+`UTC` (ohne eine Abweichung) ist implizit `UTC+0`. Beides kann verwendet werden, aber die Benutzung muss konsistent bleiben. UTC mit einer expliziten Null-Abweichung muss ein Plus-Symbol enthalten (`+`).
 
 ### Daten- und Zeitformatierung
 
@@ -165,7 +165,7 @@ Spielmodi müssen wie folgt geschrieben werden:
 - `osu!catch`
 - `osu!mania`
 
-Verweise auf die Namen der alten Spielmodi (also `Catch the Beat`, `Taiko` und `Mania`) dürfen auch in ihrer eigenen Schreibweise benutzt werden, sofern es thematisch um die alten Namen geht.
+Verweise auf die alten Namen der Spielmodi (also `Catch the Beat`, `Taiko` und `Mania`) dürfen auch in ihrer eigenen Schreibweise benutzt werden, sofern es thematisch um die alten Namen geht.
 
 ## osu!
 
@@ -185,12 +185,12 @@ Der Name des Spiels, osu!, darf nicht großgeschrieben werden oder kursiv sein. 
 - `osu!talk`
 - `osu!tourney`
 
-Benutzertitel, die `osu!` als Teil des Titels enthalten müssen großgeschrieben werden. Beispiele sind:
+Benutzertitel, die `osu!` als Teil des Titels enthalten, müssen großgeschrieben werden. Beispiele sind:
 
 - `osu! Alumni`
 - `osu! Champion`
 
-FÜr alle anderen Begriffe muss osu! als einzelnes Nomen behandelt werden. Das bedeutet, es wird ein Bindestrich zwischen osu! und dem Namen, welcher modifiziert wird, gesetzt. Beispiele sind:
+Für alle anderen Begriffe muss osu! als einzelnes Nomen behandelt werden. Das bedeutet, es wird ein Bindestrich zwischen osu! und dem Namen, welcher modifiziert wird, gesetzt. Beispiele sind:
 
 - `osu!-Wettbewerbe`
 - `osu!-Community`
@@ -221,7 +221,7 @@ Diese Wörter müssen wie folgt geschrieben werden (Buchstabenform und -abstand 
 
 ---
 
-Manche Wörter haben Varianten. Ihr favorisierte Schreibweise ist wie folgt:
+Manche Wörter haben Varianten. Ihre bevorzugte Schreibweise ist wie folgt:
 
 - `Ersteller` oder `Mapper` anstatt `Beatmapper`.
 - `erstellt` anstatt `beatmapped` oder `mapped`.
@@ -235,15 +235,15 @@ Diese Worte müssen wie folgt verwendet werden (der Abstand muss übereinstimmen
 - `FreeMods`, `FreeMod` oder `FM`
 - `Tiebreaker`
 
-## Abkürzungen, Akronyme und Initialien
+## Abkürzungen, Akronyme und Initialwörter
 
-Abkürzungen, Akronyme und Initialien müssen bei ihrem ersten Auftreten vollständig ausgeschrieben werden. Nachfolgende Vorkommen sind optional, aber werden nur ausgeschrieben, sofern erforderlich. Das Folgende ist ein Beispiel:
+Abkürzungen, Akronyme und Initialwörter müssen bei ihrem ersten Auftreten vollständig ausgeschrieben werden. Nachfolgende Vorkommen sind optional, aber werden nur ausgeschrieben, sofern erforderlich. Das Folgende ist ein Beispiel:
 
 ```markdown
 Die NC (Nightcore) Mod ist ähnlich zur DT (Double Time) Mod, da beide die Geschwindigkeit der Musik um 50% erhöhen. Allerdings ändert NC die Tonhöhe der Musik und fügt ein Klatschen zum Beat hinzu.
 ```
 
-Abkürzungen, Akronyme und Initialien müssen großgeschrieben werden, allerdings gibt es Ausnahmen. Die folgenden sind Beispiele:
+Abkürzungen, Akronyme und Initialwörter müssen großgeschrieben werden, allerdings gibt es Ausnahmen. Die folgenden sind Beispiele:
 
 - `CS` für `Circle Size`
 - `AR` für `Approach Rate`
@@ -252,7 +252,7 @@ Abkürzungen, Akronyme und Initialien müssen großgeschrieben werden, allerding
 
 ---
 
-Abkürzungen, Akronyme und Initialien sollten nicht in der Pluralform benutzt werden. Im Folgenden ein Beispiel:
+Abkürzungen, Akronyme und Initialwörter sollten nicht in der Pluralform benutzt werden. Im Folgenden ein Beispiel:
 
 ```markdown
 Vermeide: BNs können deine Beatmap nominieren.
@@ -268,7 +268,7 @@ Bevorzuge: Beatmap Nominators können deine Beatmap nomieren.
 
 ---
 
-[Artikel mit informalen Registern](#sprachregister) dürfen diese Sektion ignorieren. Allerdings sollte `Ich` trotzdem vermiden werden.
+[Artikel mit informellen Registern](#sprachregister) dürfen diese Sektion ignorieren. Allerdings sollte `Ich` trotzdem vermieden werden.
 
 ## Grammatik und Syntax
 
@@ -278,11 +278,11 @@ Artikel sollten einfache deutsche Grammatik verwenden.
 
 *Für die Zahlenformatierung, siehe [Wikipedias Schreibweise von Zahlen](https://de.wikipedia.org/wiki/Wikipedia:Schreibweise_von_Zahlen)*
 
-[Artikel mit informalen Registern](#sprachregister) dürfen diese Sektion ignorieren. Allerdings muss die Benutzung konsistent im gesamten Artikel erfolgen.
+[Artikel mit informellen Registern](#sprachregister) dürfen diese Sektion ignorieren. Allerdings muss die Benutzung konsistent im gesamten Artikel erfolgen.
 
 ### Semikolon
 
-[Artikel mit informalen Registern](#sprachregister) sollten Semikolons (`;`) nicht verwenden.
+[Artikel mit informellen Registern](#sprachregister) sollten Semikolons (`;`) nicht verwenden.
 
 ## Aussprache
 
