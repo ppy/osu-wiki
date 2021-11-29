@@ -1,5 +1,6 @@
 ---
 stub: true
+outdated:true
 tags:
   - sliderend
 no_native_review: true
