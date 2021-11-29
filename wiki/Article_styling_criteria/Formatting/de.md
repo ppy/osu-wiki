@@ -46,7 +46,7 @@ Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:
 
 ### Inhaltsparität
 
-Übersetzungen müssen den gleichen Inhalt wie der englische Artikel enthalten, sodass sie die gleiche Nachricht überbringen, unabhängig von der Grammatik und dem Syntax. Jede Änderung der Bedeutungen in den Übersetzungen muss mit einer entsprechenden Änderung des englischen Artikels folgen.
+Übersetzungen müssen den gleichen Inhalt wie der englische Artikel enthalten, sodass sie die gleiche Nachricht überbringen, unabhängig von Grammatik und Syntax. Jede Änderung der Bedeutungen in den Übersetzungen muss mit einer entsprechenden Änderung des englischen Artikels folgen.
 
 Es gibt einige Ausnahmen, in denen sich der Inhalt unterscheiden darf:
 
@@ -58,19 +58,19 @@ Es gibt einige Ausnahmen, in denen sich der Inhalt unterscheiden darf:
 
 ## Titelsektion
 
-Metainformationen müssen sich ganz am Anfang der Datei befinden. Sie sind in [YAML](https://de.wikipedia.org/wiki/YAML#Beispiele) geschrieben und beschreiben zusätzliche Informationen über den Artikel. Diese müssen mit drei Bindestriche (`---`) auf der Zeile darüber sowie darunter umrandet werden. Ebenfalls muss eine leere Zeile zwischen dem YAML-Abschnitt und dem Titel vorhanden sein.
+Metainformationen müssen sich ganz am Anfang der Datei befinden. Sie sind in [YAML](https://de.wikipedia.org/wiki/YAML#Beispiele) geschrieben und beschreiben zusätzliche Informationen über den Artikel. Diese müssen mit drei Bindestrichen (`---`) auf der Zeile darüber sowie darunter umrandet werden. Ebenfalls muss eine leere Zeile zwischen dem YAML-Abschnitt und dem Titel vorhanden sein.
 
 ### Artikel, die Hilfe benötigen
 
 *Tipp: Es wird empfohlen, englische Artikel mit diesem Tag nicht zu übersetzen. Ebenso sollte dieses Tag hinzugefügt werden, wenn die Übersetzung selbst aufgeräumt werden muss.*
 
-Das `needs_cleanup`-Tag darf bei Artikeln, die überarbeitet werden müssen oder Formatierungshilfe benötigen, hinzugefügt werden. Es ist auch akzeptabel ein Issue auf GitHub für diesen Zweck zu öffnen. Benutze dieses Tag wie folgt:
+Das `needs_cleanup`-Tag darf bei Artikeln, die überarbeitet werden müssen oder Formatierungshilfe benötigen, hinzugefügt werden. Es ist auch akzeptabel, ein Issue auf GitHub für diesen Zweck zu öffnen. Benutze dieses Tag wie folgt:
 
 ```yaml
 needs_cleanup: true
 ```
 
-Sofern dieses Tag zu einem Artikel hinzugefügt wird, dann sollten [Kommentare](#kommentare) eingefügt werden, die erklären, was bei diesem Artikel überarbeitet werden muss.
+Sofern dieses Tag zu einem Artikel hinzugefügt wird, sollten [Kommentare](#kommentare) eingefügt werden, die erklären, was bei diesem Artikel überarbeitet werden muss.
 
 ### Nicht mehr aktuelle Artikel
 
@@ -82,7 +82,7 @@ Sofern dieses Tag zu einem Artikel hinzugefügt wird, dann sollten [Kommentare](
 outdated: true
 ```
 
-Sofern dieses Tag zu einem Artikel hinzugefügt wird, dann sollten [Kommentare](#kommentare) eingefügt werden, die erklären, was bei diesem Artikel überarbeitet werden muss.
+Sofern dieses Tag zu einem Artikel hinzugefügt wird, sollten [Kommentare](#kommentare) eingefügt werden, die erklären, was bei diesem Artikel überarbeitet werden muss.
 
 ### Artikel mit Tags versehen
 
@@ -138,7 +138,7 @@ Ordnernamen dürfen nur diese Zeichen enthalten:
 
 ### Dateinamen für Artikel
 
-Der Dateiname für einen Artikel kann in der Spalte `Dateiname` der Tabelle in [Locales](#locales) gefunden werden. Der übersetzte Artikel muss in denselben Ordner wie die des englischen Artikels platziert werden.
+Der Dateiname für einen Artikel kann in der Spalte `Dateiname` der Tabelle in [Locales](#locales) gefunden werden. Der übersetzte Artikel muss in denselben Ordner wie der englische Artikel abgelegt werden.
 
 ### Indexartikel
 
@@ -150,7 +150,7 @@ Ein Indexartikel muss erstellt werden, wenn der Ordner nur dazu gedacht ist, and
 
 Verlinkungen müssen aktualisiert werden, sodass mehrdeutige Begriffe zu den entsprechenden Begriffsabgrenzungsseiten zeigen.
 
-Artikel die aus einem Begriffsabgrenzungsartikel heraus verlinkt werden, müssen die Kopfnote ["Für andere Bedeutungen"](#für-andere-bedeutungen) tragen.
+Artikel, die aus einem Begriffsabgrenzungsartikel heraus verlinkt werden, müssen die Kopfnote ["Für andere Bedeutungen"](#für-andere-bedeutungen) tragen.
 
 ## HTML
 
@@ -158,18 +158,18 @@ HTML darf nicht verwenden werden, mit der Ausnahme von [Kommentaren](#kommentare
 
 ### Kommentare
 
-HTML-Kommentare sollten benutzt werden, um Todos hervorzuheben, aber auch um Text zu kommentieren. Es wird empfohlen, sie auf eine eigene Linie zu platzieren, aber es ist auch in Ordnung, wenn sie sich in einen Paragraph befinden. Wenn das der Fall ist, darf der Start des Kommentars kein Leerzeichen haben.
+HTML-Kommentare sollten benutzt werden, um Todos hervorzuheben, aber auch, um Text zu kommentieren. Es wird empfohlen, sie auf eine eigene Zeile zu platzieren, aber es ist auch in Ordnung, wenn sie sich in einem Paragraphen befinden. Wenn das der Fall ist, darf der Start des Kommentars kein Leerzeichen haben.
 
 Schlechtes Beispiel:
 
 ```markdown
-HTML-Kommentare <!-- TODO explain HTML comments --> sollten benutzt werden, um Todos hervorzuheben, aber auch um Text zu kommentieren.
+HTML-Kommentare <!-- TODO explain HTML comments --> sollten benutzt werden, um Todos hervorzuheben, aber auch, um Text zu kommentieren.
 ```
 
 Gutes Beispiel:
 
 ```markdown
-HTML-Kommentare<!-- TODO explain HTML comments --> sollten benutzt werden, um Todos hervorzuheben, aber auch um Text zu kommentieren.
+HTML-Kommentare<!-- TODO explain HTML comments --> sollten benutzt werden, um Todos hervorzuheben, aber auch, um Text zu kommentieren.
 ```
 
 ## Bearbeitung
@@ -200,7 +200,7 @@ Zeilenumbrüche sollten nur selten verwendet werden.
 
 Kopfnoten sind kleine Notizen im oberen Teil eines Artikels oder eines Abschnitts, um Leser bei der Navigation zu verwandten Artikeln zu helfen oder sie über verwandte Artikel zu informieren.
 
-Kopfnoten müssen in Kursivschrift sein und direkt unter der Überschrift liegen. Wenn mehrere Kopfnoten benutzt werden, dann müssen diese im selben Paragraphen sein; separiert mit einem Zeilenumbruch.
+Kopfnoten müssen in Kursivschrift verfasst sein und direkt unter der Überschrift liegen. Wenn mehrere Kopfnoten benutzt werden, dann müssen diese im selben Paragraphen sein; getrennt durch einen Zeilenumbruch.
 
 ### Hauptseite
 
@@ -224,7 +224,7 @@ Kopfnoten mit *Siehe auch* empfehlen dem Leser andere interessante Artikel oder 
 
 ### Für siehe
 
-Kopfnoten *Für siehe* sind ähnlich zu den *Siehe auch* Kopfnoten, allerdings haben sie eine direkte Beschreibung. Diese Kopfnoten dürfen mehrere Links enthalten, falls erfoderlich. Sie müssen wie folgt geschrieben werden:
+Kopfnoten *Für siehe* sind den *Siehe auch*-Kopfnoten ähnlich, aber im Allgemeinen beschreibender und direkter. Diese Kopfnoten dürfen mehrere Links enthalten, falls erfoderlich. Sie müssen wie folgt geschrieben werden:
 
 ```markdown
 *Für {Beschreibung}, siehe: {Artikel}`*
@@ -234,7 +234,7 @@ Kopfnoten *Für siehe* sind ähnlich zu den *Siehe auch* Kopfnoten, allerdings h
 
 ### Nicht zu verwechseln mit
 
-Kopfnoten mit *Nicht zu verwechseln mit* helfen dabei, mehrdeutige oder missverständliche Artikel oder Abschnitte besser voneinander zu trennen. Diese Kopfnote darf mehrere Links verwenden, falls erforderlich. Sie muss wie folgt formatiert sein:
+Kopfnoten mit *Nicht zu verwechseln mit* helfen dabei, mehrdeutige oder missverständliche Artikel oder Abschnitte besser voneinander zu trennen. Eine solche Kopfnote darf mehrere Links verwenden, falls erforderlich. Sie muss wie folgt formatiert sein:
 
 ```markdown
 *Nicht zu verwechseln mit {Artikel}.*
@@ -244,7 +244,7 @@ Kopfnoten mit *Nicht zu verwechseln mit* helfen dabei, mehrdeutige oder missvers
 
 ### Für andere Bedeutungen
 
-Kopfnoten mit *Für andere Bedeutungen* sind ähnlich zu den Kopfnoten mit *Nicht zu verwechseln mit*, aber verweisen direkt auf die [Begriffsabgrenzungsseite](#artikel-für-die-begriffsabgrenzung). Diese Kopfnote darf nur ein Link zum Begriffsabgrenzungsartikel enthalten. Sie muss folgendes Aussehen haben:
+Kopfnoten mit *Für andere Bedeutungen* sind den Kopfnoten mit *Nicht zu verwechseln mit* ähnlich, aber verweisen direkt auf die [Begriffsabgrenzungsseite](#artikel-für-die-begriffsabgrenzung). Eine solche Kopfnote darf nur zum Begriffsabgrenzungsartikel verlinken. Sie muss folgendes Aussehen haben:
 
 ```markdown
 *Für andere Bedeutungen, siehe {Begriffsabgrenzungsseite}.*
@@ -254,7 +254,7 @@ Kopfnoten mit *Für andere Bedeutungen* sind ähnlich zu den Kopfnoten mit *Nich
 
 *Nicht zu verwechseln mit [Kopfnote](#kopfnote).*
 
-Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werden, allerdings muss dafür ein neuer Paragraph angefangen werden, der Kursivschrift nutzt. Hinweise dürfen Fettschrift enthalten, sofern angemessen, aber dies sollte auf ein Minimum begrenzt werden. Hinweise müssen als ganze Sätze geschrieben werden. Damit müssen diese, nicht wie die meisten [Kopfnoten](#kopfnoten), einen Punkt (`.`) oder ein Ausrufezeichen (`!`) verwenden. Alles in einem Paragraph eines Hinweises muss kursiv sein. Diese Kopfnoten müssen wie folgt formatiert werden:
+Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werden, allerdings muss dafür ein neuer Paragraph angefangen werden, der Kursivschrift nutzt. Hinweise dürfen Fettschrift enthalten, sofern angemessen, aber dies sollte auf ein Minimum begrenzt werden. Hinweise müssen als ganze Sätze geschrieben werden. Damit müssen diese, nicht wie die meisten [Kopfnoten](#kopfnoten), einen Punkt (`.`) oder ein Ausrufezeichen (`!`) verwenden. Alles in einem Paragraphen eines Hinweises muss kursiv sein. Diese Kopfnoten müssen wie folgt formatiert werden:
 
 ```markdown
 *Tipp: {Tipp}.*
@@ -283,17 +283,17 @@ Hauptparagraphen dürfen die erste Nennung des Titels in einem Artikel in fett m
 
 Kursivschrift muss ein einzelnes Sternchen benutzen (`*`).
 
-Namen von Videospielen sollten in kursiv sein. osu!—das Spiel—ist davon ausgenommen.
+Namen von Videospielen sollten in Kursivschrift stehen. osu!—das Spiel—ist davon ausgenommen.
 
-Das erste Vorkommen einer Abkürzung, eines Akronyms oder eines Intials darf kursiv sein.
+Das erste Vorkommen einer Abkürzung, eines Akronyms oder eines Initialworts darf kursiv sein.
 
 Kursivschrift darf auch benutzt werden, um die Lesbarkeit zu verbessern oder um Dinge hervorzuheben.
 
 ## Überschriften
 
-Alle Überschriften müssen "sentence case" benutzen.
+Alle Überschriften müssen "Sentence case" benutzen.
 
-Überschriften müssen den [ATX-Stil (hash)](https://github.github.com/gfm/#atx-headings) verwenden und müssen eine leere Zeile davor sowie danach haben. Die Titelüberschrift ist eine Ausnahme, sofern sie auf der ersten Zeile liegt. Sollte das der Fall sein, muss nur eine leere Zeile nach der Überschrift vorhanden sein.
+Überschriften müssen den [ATX-Stil (hash)](https://github.github.com/gfm/#atx-headings) verwenden und eine leere Zeile davor sowie danach haben. Die Titelüberschrift ist eine Ausnahme, sofern sie auf der ersten Zeile liegt. Sollte das der Fall sein, muss nur eine leere Zeile nach der Überschrift vorhanden sein.
 
 Überschriften dürfen nicht das Überschriftenlevel 5 überschreiten und dürfen nicht genutzt werden, um Text zu formatieren.
 
@@ -305,19 +305,19 @@ Alle Überschriften müssen "sentence case" benutzen.
 
 Die erste Überschrift muss in allen Artikeln das Level 1 haben, da es der Artikeltitel ist. Alle Überschriften danach müssen [Abschnittstitel](#abschnitte) sein. Titel dürfen keine Formatierung, Links oder Bilder enthalten.
 
-Die Titelüberschrift muss sich auf der erten Zeile befinden, außer es werden [Metainformationen](#titelsektion) genutzt. Sollte das der Fall sein, muss der Titel sich darunter befinden; mit einer leeren Zeile dazwischen.
+Die Titelüberschrift muss sich auf der ersten Zeile befinden, außer es werden [Metainformationen](#titelsektion) genutzt. Sollte das der Fall sein, muss der Titel sich darunter befinden; mit einer leeren Zeile dazwischen.
 
 ### Abschnitte
 
-Abschnittstitel müssen die Level 2 bis 5 verwenden. Der Abschnittstitel nach der [Überschrift](#titel) muss das Level 2 verwenden. Abschnittstitel dürfen, wie im Gegensatz zu Überschriften, kleine Symbolbilder haben.
+Abschnittstitel müssen die Level 2 bis 5 verwenden. Der Abschnittstitel nach der [Überschrift](#titel) muss das Level 2 verwenden. Abschnittstitel dürfen, im Gegensatz zu Überschriften, kleine Symbolbilder haben.
 
-Abschnittstitel dürfen kein Titellevel überspringen (also gehe nicht von einem Level 2 Titel auf Level 4) und dürfen keine Formetierung oder Links enthalten.
+Abschnittstitel dürfen kein Titellevel überspringen (also gehe nicht von einem Level 2 Titel auf Level 4) und keine Formatierungen oder Links enthalten.
 
 *Hinweis: Auf dieser Webseite erscheinen Level 4 und Level 5 Titel nicht im Inhaltsverzeichnis.*
 
 ### Benutzerdefinierte Kennungen
 
-Es ist möglich, eine Abschnittskennung neuzudefinieren, welcher genutzt wird, um darauf direkt zu verweisen. Benutzerdefinierte Kennungen sollten genutzt werden, wenn automatisch generierte zu lang sind, knifflige Zeichensetzung oder Bilder enthalten:
+Es ist möglich, eine Abschnittskennung neu zu definieren, welche genutzt wird, um darauf direkt zu verweisen. Benutzerdefinierte Kennungen sollten genutzt werden, wenn automatisch generierte zu lang sind, knifflige Zeichensetzung oder Bilder enthalten:
 
 ```markdown
 ## Meine Abklingzeit ist vorüber. Wie lege ich Berufung ein? {#berufung}
@@ -392,7 +392,7 @@ Aufzählungslisten gemeinsam mit nummerierten Listen sollte nur selten benutzt w
    - Wenn die Datei eine `.zip` ist, entpacke sie erst und verschiebe den Inhalt in den `Skins/`-Ordner (in deinem osu!-Installationsordner).
    - Wenn die Datei eine `.osk` ist, öffne sie auf deinem Desktop oder verschiebe sie per Drag-and-drop in den Spielclient.
 3. Öffne osu!, falls es nicht offen ist, und wähle einen Skin in den Optionen.
-   - Das kann bereits passiert sein, falls du die `.osk`-Datei geöffnet oder sie per Drag-and-drop in den SPielclient verschoben hast.
+   - Das kann bereits passiert sein, falls du die `.osk`-Datei geöffnet oder sie per Drag-and-drop in den Spielclient verschoben hast.
 ```
 
 ## Code
@@ -406,7 +406,7 @@ Das Mark-up für Code ist ein Akut (`` ` ``). Um Aktue in Code zu platzieren, nu
 
 ### Tastaturtasten
 
-*Hinweis: Wenn der Buchstabe selbst notiert wird (und nicht die Tastaturtaste), nutze stattdessen Anführungszeichen.*
+*Hinweis: Wenn der Buchstabe selbst (und nicht die Tastaturtaste) gemeint ist, nutze stattdessen Anführungszeichen.*
 
 Bei der Darstellung von Tastaturtasten müssen Großbuchstaben für einzelne Buchstaben und "title case" für Modifikatoren verwendet werden. Benutze des Plus-Symbol (`+`) (ohne Code), um Tastaturkürzel darzustellen. (Beispiel unten gezeigt.)
 
@@ -420,13 +420,13 @@ Wenn ein Leerzeichen oder die Leertaste repräsentiert werden soll, benutze `` `
 
 ### Button- oder Menütext
 
-Bei dem Kopieren von Text aus einem Menü oder Button muss der Text so eingefügt werden, wie er angezeigt wird. (Beispiel unten gezeigt.)
+Beim Kopieren von Text aus einem Menü oder Button muss der Text so eingefügt werden, wie er angezeigt wird. (Beispiel unten gezeigt.)
 
 ```markdown
 Der `osu!direct`-Button ist im Hauptmenü auf der rechten Seite sichtbar, sofern du ein aktives osu!supporter-Tag hast.
 ```
 
-### Odner- und Verzeichnisnamen
+### Ordner- und Verzeichnisnamen
 
 Beim Kopieren des Namens eines Ordners oder eines Verzeichnisses muss die Schreibweise so sein, wie sie angezeigt wird. Es wird hier trotzdem die Kleinschreibung empfohlen, sofern möglich. Verzeichnispfade dürfen nicht absolut sein (also starte den Verzeichnisnamen nicht vom Laufwerksbuchstaben oder Wurzelpfad aus). (Beispiel unten gezeigt.)
 
@@ -447,7 +447,7 @@ Bis jetzt machen die Befehle `Name` und `Author` in der Skinkonfigurationsdatei 
 Beim Kopieren von Dateinamen sollte die Schreibweise so sein, wie sie angezeigt wird. Sofern andwendbar, wird Kleinschreibung empfohlen. (Beispiele unten gezeigt.)
 
 ```markdown
-Um osu! zu spielen mache eine Doppelklick auf das `osu!.exe`-Symbol.
+Um osu! zu spielen, mache eine Doppelklick auf das `osu!.exe`-Symbol.
 ```
 
 ### Dateierweiterungen
@@ -465,7 +465,7 @@ Das Dateiformat JPG (oder JPEG) hat die Erweiterung `.jpg` (oder `.jpeg`).
 Beim Kopieren eines Chat-Kanalnamens muss mit einer Raute (`#`) begonnen werden, gefolgt von dem Kanalnamen in Kleinbuchstaben. (Beispiel unten gezeigt.)
 
 ```markdown
-In `#lobby` kannst du dein Mehrspielerraum bewerben.
+In `#lobby` kannst du deinen Mehrspielerraum bewerben.
 ```
 
 ## Vorformatierter Text (Codeblöcke)
@@ -496,7 +496,7 @@ Das folgende ist ein Beispiel des Verweis-Stils:
 
 ---
 
-Links müssen den Inline-Stil benutzen, wenn sie nur einmal referenziert werden. Der Inline-Stil mit Kleiner-als- und Größer-als-Zeichen (`<` und `>`) sollte vermieden werden. Referenzen auf Referenzlinks müssen am Ende des Artikels platziert werden.
+Links müssen den Inline-Stil benutzen, wenn sie nur einmal referenziert werden. Der Inline-Stil mit Kleiner-als- und Größer-als-Zeichen (`<` und `>`) sollte vermieden werden. Verweise auf Referenzlinks müssen am Ende des Artikels platziert werden.
 
 ### Interne Links
 
@@ -555,9 +555,9 @@ Die URL aus der Adressleiste deines Webbrowsers sollte so kopiert werden, wie si
 
 ##### Benutzerprofile
 
-Alle Benutzernamen müssen bei ihrer ersten Nennung verlinkt werden. Andere Nennungen sind optional, aber müssen konsistent im ganzen Artikel für alle Benutzernamen sein. Wenn es schwierig ist, die Benutzer-ID zu bestimmen, darf hier die Verlinkung übersprungen werden.
+Alle Benutzernamen müssen bei ihrer ersten Nennung verlinkt werden. Andere Nennungen sind optional, müssen aber im ganzen Artikel für alle Benutzernamen konsistent sein. Wenn es schwierig ist, die Benutzer-ID zu bestimmen, darf hier die Verlinkung übersprungen werden.
 
-Wenn zu anderen Benutzerprofilen verlinkt wird, muss die Benutzer-ID verwenden werden. Benutze die neue Webseite (`https://osu.ppy.sh/users/{username})`), um an die Benutzer-ID zu gelangen.
+Wenn zu anderen Benutzerprofilen verlinkt wird, muss die Benutzer-ID verwendet werden. Benutze die neue Webseite (`https://osu.ppy.sh/users/{username})`), um an die Benutzer-ID zu gelangen.
 
 Der Linktext des Benutzerlinks sollte den aktuellen Namen des Benutzers verwenden.
 
@@ -575,7 +575,7 @@ Der Link muss tatsächlich auf den Schwierigkeitsgrad verweisen. URLs für Beatm
 https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{mode}/{BeatmapID}
 ```
 
-Der Name des Schwierigkeitsgrads darf aus dem Linktext weggelassen werden, muss dann aber konsistent im ganzen Artikel sein.
+Der Name des Schwierigkeitsgrads darf aus dem Linktext weggelassen werden, muss dann aber im ganzen Artikel konsistent sein.
 
 ##### Beatmaps
 
@@ -627,15 +627,15 @@ Bilder sollten den Inline-Stil verwenden. Definitionen für Verweise müssen am 
 
 Der Text in den ersten eckigen Klammern (*alternativer Text*) sollte das Bild wörtlich beschreiben. Dies wird von Bildschirmlesegeräten benutzt und wird angezeigt, falls das Bild nicht geladen werden kann. Es kann weggelassen werden, wenn es identisch mit dem Titeltext ist oder wenn das Bild nur aus dekorativen Zwecken enthalten ist.
 
-Der Text in Anführungszeichen (*Titeltext*) sollte zusätzlichen Kontext zum Bild geben oder seine Bedeutung wiedergeben. Es wird angezeigt als ein Tooltip, wenn man mit der Maus über das Bild fährt. Es kann auch als eine Bildunterschrift gesehen werden. Markdown-Formatierungen werden hier nicht unterstützt.
+Der Text in Anführungszeichen (*Titeltext*) sollte zusätzlichen Kontext zum Bild geben oder seine Bedeutung wiedergeben. Es wird als Tooltip angezeigt, wenn man mit der Maus über das Bild fährt. Es kann auch als eine Bildunterschrift gesehen werden. Markdown-Formatierungen werden hier nicht unterstützt.
 
 ### Anzeige
 
 Wenn ein Bild der einzige Inhalt eines Absatzes ist, dann wird dieses als zentrierter Block angezeigt. Ansonsten liegt es dynamisch im umgebenden Inline-Text.
 
-Blockbilder mit einem Titeltext zeigen den Titeltext als eine Bildunterschrift unter dem Bild an.
+Blockbilder mit einem Titeltext zeigen den Titeltext als Bildunterschrift unter dem Bild an.
 
-Blockbilder werden häufig mit einer Infobox<!-- TODO: link me! --> zusammen formatiert, um die anfängliche Größe zu reduzieren und damit diese sich auf der Seite zu anderem Inhalt befinden:
+Blockbilder werden häufig mit einer Infobox<!-- TODO: link me! --> zusammen formatiert, um die anfängliche Größe zu reduzieren und sie neben anderen Inhalten zu platzieren:
 
 ```markdown
 ::: Infobox
@@ -657,7 +657,7 @@ Bilder sollten das Format JPG bei einer Qualität von 8 (80 oder 80%, abhängig 
 
 Bilder müssen unter 1 MB liegen, ansonsten werden sie nicht geladen. Eine Herunterskalierung und die Benutzung von JPG bei 80% reicht dafür meistens aus.
 
-Alle Bilder sollten so weit wie möglich optimiert werden. Benutze [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive), um JPG-Bilder zu kompremieren. Benutze bitte den folgenden Befehl für jpeg-archive:
+Alle Bilder sollten so weit wie möglich optimiert werden. Benutze [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive), um JPG-Bilder zu komprimieren. Benutze bitte den folgenden Befehl für jpeg-archive:
 
 ```sh
 jpeg-recompress -am smallfry <Eingabe> <Ausgabe>
@@ -669,7 +669,7 @@ Wobei `<Eingabe>` der Dateiname der zu komprimierenden Datei und `<Ausgabe>` der
 
 *Hinweis: Dateierweiterungen müssen Kleinschreibung verwenden, ansonsten werden sie nicht geladen!*
 
-Benutze Bindestriche (`-`), um Wörter voneinander abzutrennen. Bei der Benennung eines Bildes sollte der Name klar oder beschreibend aber kurz sein.
+Benutze Bindestriche (`-`), um Wörter voneinander abzutrennen. Bei der Benennung eines Bildes sollte der Name klar oder beschreibend, aber kurz sein.
 
 Bilder müssen in den Ordner mit dem Namen `img` innerhalb des Ordners mit dem Artikel platziert werden. Bilder, die in mehreren Artikeln zur Verwendung kommen, sollten im Ordner `/wiki/shared` gespeichert werden.
 
@@ -681,11 +681,11 @@ Die maximale erlaubte Bildbreite der Webseite ist die Breite des Artikels. Bilde
 
 Wenn Bilder mit Anmerkungen versehen werden, benutze bitte *Torus Regular*. Nutze *Microsoft YaHei* für chinesische, koreanische und japanische Schriftzeichen.
 
-Bildern mit Anmerkungen zu versehen sollte allerdings vermieden werden, da es schwierig für Übersetzer (und andere Bearbeiter) ist, diese zu editieren.
+Bilder mit Anmerkungen zu versehen, sollte allerdings vermieden werden, da es für Übersetzer (und andere Bearbeiter) schwierig ist, diese zu editieren.
 
 #### Bilder mit Anmerkungen übersetzen
 
-Bei der Übersetzung von Bildanmerkungen, sollte die lokalisierte Version im selben Verzeichnis wie die originale Version (also die englische) platziert werden. Der Dateiname für das lokalisierte Bild muss mit dem Namen der originalen Version starten, danach ein Bindestrich und im Anschluss das Locale-Kürzel (in Großbuchstaben). Siehe folgendes Beispiel:
+Bei der Übersetzung von Bildanmerkungen sollte die lokalisierte Version im selben Verzeichnis wie die originale Version (also die englische) abgelegt werden. Der Dateiname für das lokalisierte Bild muss mit dem Namen der originalen Version starten, gefolgt von einem Bindestrich und im Anschluss dem Locale-Kürzel (in Großbuchstaben). Siehe folgendes Beispiel:
 
 - `hardrock-mod-vs-easy-mod.jpg` für Englisch
 - `hardrock-mod-vs-easy-mod-DE.jpg` für Deutsch
@@ -707,7 +707,7 @@ Du musst diese Einstellungen im Spiel-Client haben, bevor du einen Screenshot er
 - Vollbildmodus: `Deaktiviert`
 - Parallaxeneffekt: `Deaktiviert`
 - Menütipps: `Deaktiviert`
-- Seasonale Hintergünde: `Niemals`
+- Saisonale Hintergründe: `Niemals`
 - Tasten-Overlay: `Aktiviert`
 - Aktueller Skin: `Standard` (erste Option)
 
@@ -727,7 +727,7 @@ Flaggensymbole neben Links zu Benutzern müssen separat vom Linktext sein. Siehe
 
 *Für eine Liste der Flaggensymbole, siehe: [Issue \#328](https://github.com/ppy/osu-wiki/issues/328)*
 
-Die Flaggensymbole benutzen eine Zwei-Buchstaben-Kodierung (alle in Großschreibweise) und enden in `.gif`. Benutze beim Hinzufügen eines Symbols in der Linie dieses Format:
+Die Flaggensymbole benutzen eine Zwei-Buchstaben-Kodierung (alle in Großschreibweise) und enden in `.gif`. Benutze beim Inline-Hinzufügen eines Symbols dieses Format:
 
 ```markdown
 ![](/wiki/shared/flag/xx.gif)
@@ -769,13 +769,13 @@ Blockzitate sind auf das Zitieren von Texten von anderen beschränkt. Sie dürfe
 
 ## Thematische Brüche
 
-Thematische Brüche (auch bekannt als horizontale Linie) sollte nur selten verwendet werden. Ein paar sinnvolle Benutzungen sind hier aufgelistet (aber nicht darauf beschränkt):
+Thematische Trennungen (auch bekannt als horizontale Linien) sollten nur selten verwendet werden. Ein paar sinnvolle Benutzungen sind hier aufgelistet (aber nicht darauf beschränkt):
 
 - Bilder von Text trennen
 - Mehrere Bilder, die direkt hintereinander sind, voneinander trennen
 - Das Thema innerhalb eines Abschnitts wechseln
 
-Diese müssen eine leere Zeile vor und nach dem Markup haben. Thematische Brüche dürfen nur drei Bindestriche nutzen, wie unten gezeigt:
+Diese müssen eine leere Zeile vor und nach dem Markup haben. Thematische Trennungen dürfen nur drei Bindestriche nutzen, wie unten gezeigt:
 
 ```markdown
 ---
