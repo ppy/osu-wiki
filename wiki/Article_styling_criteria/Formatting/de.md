@@ -408,7 +408,7 @@ Das Mark-up für Code ist ein Akut (`` ` ``). Um Akute in Code zu platzieren, nu
 
 *Hinweis: Wenn der Buchstabe selbst (und nicht die Tastaturtaste) gemeint ist, nutze stattdessen Anführungszeichen.*
 
-Bei der Darstellung von Tastaturtasten müssen Großbuchstaben für einzelne Buchstaben und "title case" für Modifikatoren verwendet werden. Benutze des Plus-Symbol (`+`) (ohne Code), um Tastaturkürzel darzustellen. (Beispiel unten gezeigt.)
+Bei der Darstellung von Tastaturtasten müssen Großbuchstaben für einzelne Buchstaben und "Title case" für Modifikatoren verwendet werden. Benutze des Plus-Symbol (`+`) (ohne Code), um Tastaturkürzel darzustellen. (Beispiel unten gezeigt.)
 
 ```markdown
 pippi wird mit einem kleinen "p" wie peppy geschrieben.
