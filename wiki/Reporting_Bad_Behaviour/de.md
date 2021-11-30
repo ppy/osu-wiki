@@ -44,7 +44,7 @@ Wenn sich Leerzeichen im Benutzernamen befinden, ersetze diese mit Unterstrichen
 
 Diese Option funktioniert, wenn der schlechte Benutzer in Sicht liegt:
 
-1. Klicke seinen Benutzernamen und drücke den roten Knopf auf dem steht `Benutzer melden...`
+1. Klicke seinen Benutzernamen und drücke den roten Knopf auf dem steht `Report User...`
 2. Wähle die Kategorie und füge Details hinzu (optional).
 
 ## Webseite
@@ -55,7 +55,7 @@ Diese Option funktioniert, wenn der schlechte Benutzer in Sicht liegt:
 
 ![](img/report-user-web.png "Meldedialog auf der Webseite")
 
-1. Drücke den Knopf mit den drei vertikalen Punkten und wähle `Melden`.
+1. Drücke den Knopf mit den drei vertikalen Punkten und wähle `Report`.
 2. Wähle die Kategorie und füge Details hinzu (optional).
 
 ### Forum
@@ -70,21 +70,21 @@ Diese Option funktioniert, wenn der schlechte Benutzer in Sicht liegt:
 
 ![](img/report-user-comment.png "Der Meldeknopf in einem Kommentar auf der Webseite")
 
-1. Klicke auf den `Melden`-Link.
+1. Klicke auf den `Report`-Link.
 2. Wähle die Kategorie und füge Details hinzu (optional).
 
 ### Beatmap
 
 ![](img/report-beatmap.png "Der Meldeknopf auf einer Beatmapseite")
 
-1. Drücke die drei vertikalen Punkte und wähle `Melden`.
+1. Drücke die drei vertikalen Punkte und wähle `Report`.
 2. Wähle die Kategorie und füge Details hinzu (optional).
 
 ### Beatmap-Diskussion
 
 ![](img/report-user-discussion.png "Der Meldeknopf in einem Diskussionsbeitrag")
 
-1. Klicke den `Melden`-Link unter dem Diskussionbeitrag.
+1. Klicke den `Report`-Link unter dem Diskussionbeitrag.
 2. Wähle die Kategorie und füge Details hinzu (optional).
 
 ### Scoreliste
@@ -93,8 +93,8 @@ Diese Option funktioniert, wenn der schlechte Benutzer in Sicht liegt:
 
 #### Benutzerprofil
 
-1. Scrolle zu der `Ränge`-Sektion oder `Historisch` für aktuelle Plays und gehe auf den Score.
-2. Drücke den Knopf mit den drei vertikalen Punkten auf der rechten Seite des Scores und wähle `Score melden`.
+1. Scrolle zu der `Ranks`-Sektion oder `Historical` für aktuelle Plays und gehe auf den Score.
+2. Drücke den Knopf mit den drei vertikalen Punkten auf der rechten Seite des Scores und wähle `Report Score`.
 3. Wähle die Kategorie und füge Details hinzu (optional).
 
 #### Beatmap-Scoreliste
@@ -102,5 +102,5 @@ Diese Option funktioniert, wenn der schlechte Benutzer in Sicht liegt:
 ![](img/report-score-beatmap.png "Der Meldeknopf an einem Top-Score in einer Beatmap-Scoreliste")
 
 1. Fahre mit der Maus über den Score.
-2. Drücke den Knopf mit den drei vertikalen Punkten auf der rechten Seite des Scores und wähle `Score melden`.
+2. Drücke den Knopf mit den drei vertikalen Punkten auf der rechten Seite des Scores und wähle `Report Score`.
 3. Wähle die Kategorie und füge Details hinzu (optional).
