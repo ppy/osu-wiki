@@ -5,7 +5,7 @@ tags:
   - Benotung
 ---
 
-# Rank (Begriffserklärung)
+# Rank (Begriffsabgrenzung)
 
 **Rank** kann Folgendes bedeuten:
 

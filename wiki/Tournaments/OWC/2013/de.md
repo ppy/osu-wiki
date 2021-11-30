@@ -496,35 +496,35 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 4. Die Zeiten der Partien werden vom Turnier Management festgelegt. Die Termine werden am Sonntag angekündigt, bevor die eigentliche Etappe stattfindet. Das Turnier Management bemüht sich die Zeiten so gut wie möglich an den Zeitzonen der teilnehmenden Spieler anzupassen.
 5. Die Kapitäne sind für die Anwesenheit deren Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Wenn vom Team keine 4 Spieler anwesend sein sollten, zählt die Partie als aufgegeben.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BG]: /wiki/shared/flag/BG.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EE]: /wiki/shared/flag/EE.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentinien"
+[flag_AT]: /wiki/shared/flag/AT.gif "Österreich"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australien"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgien"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgarien"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brasilien"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Deutschland"
+[flag_EE]: /wiki/shared/flag/EE.gif "Estland"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finnland"
+[flag_FR]: /wiki/shared/flag/FR.gif "Frankreich"
+[flag_GB]: /wiki/shared/flag/GB.gif "Vereinigtes Königreich"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hongkong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesien"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italien"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "Südkorea"
+[flag_LV]: /wiki/shared/flag/LV.gif "Lettland"
+[flag_NL]: /wiki/shared/flag/NL.gif "Niederlande"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norwegen"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Neuseeland"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippinen"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polen"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russische Föderation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Schweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "Vereinigte Staaten"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

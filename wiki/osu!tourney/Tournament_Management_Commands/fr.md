@@ -1,63 +1,60 @@
----
-outdated: true
-outdated_since: a4e45cf0738ff0ce2327cba8b9efe89d53e1ef9f
----
+# Commandes de gestion des tournois
 
-# Commande de Gestion du Tournoi
+Les commandes de tchat suivantes sont fournies pour la gestion à distance des salles de tournoi multijoueurs :
 
-Les commandes de chat suivantes sont faites pour gérer les salles multijoueur de tournois :
-
-- `!mp make <nom>` - Crée une salle de tournoi avec le nom spécifié. Un maximum de 4 salles de ce type peuvent être créées.
-  - Cette salle est spéciale et ne se ferme pas quand tous les joueurs ont quitté cette salle, et elle est protégée par mot de passe, ce qui empêche les joueurs de la rejoindre par eux-même.
-  - Quand vous avez fini d'utiliser une salle, utilisez `!mp close` pour la fermer.
-- `!mp invite <nom_d'utilisateur>` - Invite un joueur dans la salle.
-  - Sachez que ça n'évite *pas* le blocage des messages privés, votre équipe doit donc dire aux joueurs de désactiver l'otion « Bloquez les messages privés d'utilisateurs qui ne sont pas amis » dans les options d'osu!
-- `!mp lock` - Bloque la salle, les joueurs ne pourront plus changer leur équipe, ni leur position.
-- `!mp unlock` - Débloque la salle.
-- `!mp size <position>` - Définit le nombre de positions libres dans cette salle (1-16).
-- `!mp set <teammode> [<scoremode>] [<taille>]` - Définit les paramètres de la salle.
-  - `teammode` - 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
-  - `scoremode` - 0: Score, 1: Accuracy, 2: Combo, 3: Score V2
-- `!mp move <nom d'utilisateur> <position>` - Déplace un joueur de la salle vers la position spécifiée.
-- `!mp host <nom d'utilisateur>` - Transfert le host au joueur.
-- `!mp clearhost` - Supprime le host de la salle.
-- `!mp settings` - Affiche tous les détails de la salle.
-- `!mp start [<temps>]` - Démarre le match après le temps donné (en secondes) ou instantanément si le temps n'est pas donné.
+- `!mp make <name>` - Crée une salle de tournoi avec le nom spécifié. Un maximum de 4 salles de ce type peut être créé.
+  - Cette salle est spéciale en ce sens qu'elle n'est pas fermée lorsque tous les joueurs ont quitté la salle, et qu'elle est protégée par un mot de passe empêchant les joueurs de la rejoindre eux-mêmes.
+  - Lorsque la salle est terminée, utilisez `!mp close` pour fermer la salle.
+- `!mp makeprivate <name>` - Crée une salle de tournoi privée avec le nom spécifié. Cette commande fonctionne de la même manière que `!mp make` mais l'historique des matchs n'est visible que par le créateur de la salle et le participant.
+- `!mp name <title>` - Met à jour le nom de la salle.
+- `!mp invite <username>` - Invite un joueur dans la salle.
+  - Notez que cela ne *permet pas* de contourner les blocages de messages privés disponibles dans le client d'osu! ; l'équipe de votre tournoi devra donc indiquer aux joueurs de désactiver l'option "Autoriser uniquement les messages privés de mes amis" dans les options d'osu!
+- `!mp lock` - Verrouille la salle pour que les joueurs ne puissent pas changer d'équipe et d'emplacement.
+- `!mp unlock` - Inverse la commande précédente.
+- `!mp size <size>` - Définit le nombre d'emplacements disponibles (1 à 16) dans la pièce.
+- `!mp set <teammode> [<scoremode>] [<size>]` - Définit diverses propriétés de la salle.
+  - `teammode` - 0 : Head To Head, 1 : Tag Coop, 2 : Team Vs, 3 : Tag Team Vs
+  - `scoremode` - 0 : Score, 1 : Précision, 2 : Combo, 3 : Score V2
+- `!mp move <username> <slot>` - Déplace un joueur présent dans la salle vers l'emplacement spécifié.
+- `!mp host <username>` - Transfère l'hôte à un joueur.
+- `!mp clearhost` - Efface l'hôte de la salle.
+- `!mp settings` - Affiche les détails complets de la salle.
+- `!mp start [<time>]` - Démarre le match après un temps défini (en secondes) ou instantanément si le temps n'est pas défini.
 - `!mp abort` - Annule le match.
-- `!mp team <nom d'utilisateur> <couleur>` - Déplace un joueur dans l'équipe spécifiée.
-  - `couleur` - red, blue
-- `!mp map <mapid> [<playmode>]` - Change la beatmap et le mode de jeu de cette salle.
-  - `playmode` - 0: osu!, 1: Taiko, 2: Catch The Beat, 3: osu!Mania
-- `!mp mods <mod> [<mod>] [<mod>] …` - Supprime tous les mods appliqués de cette salle et applique les nouveaux mods dans la salle.
-  - N'importe quel nombre de mods peut être entré.
+- `!mp team <username> <colour>` - Déplace un joueur vers l'équipe spécifiée.
+  - `colour` - red, blue
+- `!mp map <mapid> [<playmode>]` - Change la beatmap et le mode de jeu de la salle.
+  - `playmode` - 0 : osu!, 1 : osu!taiko, 2 : osu!catch, 3 : osu!mania
+- `!mp mods <mod> [<mod>] [<mod>] …` - Supprime tous les mods actuellement appliqués et applique ces mods à la salle.
+  - N'importe quelle quantité de mods peut être saisie.
   - `mod` - HR, DT, FL, HD, FI, Freemod, None
-- `!mp timer [<temps>]` - Démarre un compte à rebours.
-  - `time` est à 30 secondes par défaut.
-  - Les annonces du compteur arrivent toutes les minutes, 30 secondes, 10 secondes, 5 secondes et plus tôt.
-- `!mp aborttimer` - Arrête le compteur actuel (à la fois le normal et celui du match)
-- `!mp kick <nom d'utilisateur>` - Éjecte le joueur de la salle.
-- `!mp password [<mot de passe>]` - Change le mot de passe de la salle. Le mot de passe sera supprimé si `<mot de passe>` n'est pas fourni.
-- `!mp addref <nom d'utilisateur> [<nom d'utilisateur>] …` - Ajoute un arbitre à la salle. Un maximum de 8 arbitres peuvent être ajoutés. Seul le créateur de la salle peut ajouter un arbitre.
-  - Les arbitres doivent rejoindre le lobby en jeu, ou en entrant dans la canal de chat de la salle via `/join #mp_<room_id>` dans IRC.
-  - Les arbitres peuvent gérer la salle comme le créateur, cependant, ils ne peuvent pas ajouter ou supprimer d'autres arbitres eux-mêmes.
-  - Le [client osu!tourney](/wiki/osu!tourney) montrera le chat de la salle aux arbitres.
-- `!mp removeref <nom d'utilisateur> [<nom d'utilisateur>] …` - Retire un arbitre de la salle. Seul le créateur de la salle peut retirer un arbitre.
-- `!mp listrefs` - Liste tous les arbitres de la salle.
-- `!mp close` - Ferme cette salle.
+- `!mp timer [<time>]` - Démarre un compte à rebours.
+  - `time` est de 30s par défaut.
+  - Les annonces de la minuterie se produisent toutes les minutes, 30s, 10s, 5s et plus tôt.
+- `!mp aborttimer` - Arrête le minuteur en cours (minuteur normal et minuteur de début de match).
+- `!mp kick <username>` - Expulse le joueur de la salle.
+- `!mp password [<password>]` - Change le mot de passe de la salle. Le mot de passe sera supprimé si `<password>` n'est pas précisé.
+- `!mp addref <username> [<username>] …` - Ajoute un arbitre à la salle. Un maximum de 8 arbitres peut être ajouté. Seul le créateur de la salle peut ajouter un arbitre.
+  - Les arbitres doivent rejoindre la salle en jeu, ou en entrant dans le canal de discussion de la salle via `/join #mp_<room_id>` en IRC.
+  - Les arbitres peuvent gérer la salle comme le créateur, mais ils ne peuvent pas ajouter ou supprimer eux-mêmes d'autres arbitres.
+  - Le [client osu!tourney](/wiki/osu!tourney) affichera le tchat de la salle pour les arbitres.
+- `!mp removeref <username> [<username>] …` - Supprime un arbitre de la salle. Seul le créateur de la salle peut retirer un arbitre.
+- `!mp listrefs` - Répertorie tous les arbitres présents dans la salle.
+- `!mp close` - Ferme la salle.
 
 Envoyer `!mp help` à BanchoBot vous montrera toutes ces commandes.
 
-Les éléments entre crochets angulaires ( `<>` ) définissent les « paramètres » de la commande. Les paramètres enfermés entre crochets ( `[]` ) sont optionnels. Les noms d'utilisateur verront leurs espaces remplacés par des underscores ( `_` ). `#<userid>` peut substituer `<username>` dans toutes les commandes.
+Les éléments entre crochets angulaires (`<>`) définissent les "paramètres" de la commande. Les paramètres entre crochets (`[]`) sont optionnels. Les noms d'utilisateur verront leurs espaces remplacés par des underscores (`_`). `#<userid>` peut substituer `<username>` dans toutes les commandes.
 
-## Usage
+## Utilisation
 
 Les commandes sont utilisables soit depuis osu! soit via un client IRC comme mIRC, HexChat, ou HydraIRC.
 
-le host original d'une salle mutlijoueur peut aussi utiliser ces commandes. Si le host originel quitte, le host suivant n'héritera pas des commandes. Le host originel sera capable de réutiliser les commandes s'il rejoint la salle à nouveau.
+Le créateur d'une salle multijoueur peut aussi utiliser ces commandes. Si le créateur quitte la salle, l'hôte suivant n'héritera pas des commandes. Le créateur de la salle pourra réutiliser les commandes s'il rejoint la salle à nouveau.
 
 ## Exemples d'utilisation
 
-Ce qui suit est un ensemble d'exemples d'utilisation de commandes:
+Voici un exemple d'utilisation des commandes :
 
 - `!mp invite Zallius` - Invite Zallius dans la salle.
 - `!mp move Loctav 4` - Déplace Loctav à la position 4 de la salle.

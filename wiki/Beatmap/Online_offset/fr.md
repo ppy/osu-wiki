@@ -13,6 +13,6 @@ Il peut être défini par les membres de la [Nomination Assesment Team](/wiki/Pe
 
 ![le online offset sur le site](img/online_offset.jpg)<!--TODO: add image of the new webpage once online offset gets added there-->
 
-Toutes les valeurs de online offset sont stockées localement dans le fichier [osu!.db](/wiki/osu!_File_Formats/Db_(file_format)) pour une utilisation ultérieure (comme `short`s). Le stockage des valeurs de online offset dans le fichier osu!.db permet d'appliquer les valeurs même si un joueur joue hors ligne, à condition qu'il ait été connecté à Internet avant d'importer ou de jouer la beatmap.
+Toutes les valeurs de online offset sont stockées localement. Le stockage des valeurs de online offset dans le fichier osu!.db permet d'appliquer les valeurs même si un joueur joue hors ligne, à condition qu'il ait été connecté à Internet avant d'importer ou de jouer la beatmap.
 
 <!-- TODO: Add links, images and stuff -->

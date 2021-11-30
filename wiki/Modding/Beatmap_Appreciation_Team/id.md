@@ -4,13 +4,11 @@ tags:
   - BAT
   - Beatmap Appreciators
   - Beatmap Approval Team
-outdated: true
-outdated_since: 5f24e4b2df25bd38f386bd2cd48e541ebc2e1095
 ---
 
 # Beatmap Appreciation Team
 
-**Beatmap Appreciation Team** (***BAT***, sebelumnya dikenal sebagai *Beatmap Approval Team*) adalah sebuah grup yang bertanggung jawab untuk mengawasi proses [ranking dan diskualifikasi](/wiki/Beatmap_ranking_procedure) beatmap. Anggota BAT juga memiliki alat dasar untuk moderasi di dalam game dan forum seperti yang digunakan oleh [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*).
+**Beatmap Appreciation Team** (***BAT***, yang sebelumnya dikenal sebagai *Beatmap Approval Team*), adalah sebuah grup yang bertanggung jawab untuk mengawasi proses [ranking dan diskualifikasi](/wiki/Beatmap_ranking_procedure) beatmap di dalam sistem [forum modding](/wiki/Modding/Forum_modding). Sebagaimana halnya para anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), para anggota BAT juga memiliki kemampuan untuk memoderasi forum dan *in-game chat*.
 
 Bersama dengan [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*) sampai keduanya digabung pada April 2013, BAT bertanggung jawab untuk mengevaluasi kualitas dari [beatmap](/wiki/Beatmap) dan memutuskan konten apa saja yang masuk ke bagian [Ranked](/wiki/Beatmap/Category#ranked).
 
