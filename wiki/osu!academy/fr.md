@@ -14,7 +14,7 @@ La série principale d'osu!academy sert d'introduction générale au vaste monde
 
 | Numéro | Titre | Description |
 | :-: | :-- | :-- |
-| 0 | [Lazer installer setup guide](https://www.youtube.com/watch?v=kO5ISAzRbPE) | [ztrot](https://osu.ppy.sh/users/6347) couvre le processus d'installation du client osu(lazer). |
+| 0 | [Lazer installer setup guide](https://www.youtube.com/watch?v=kO5ISAzRbPE) | [ztrot](https://osu.ppy.sh/users/6347) couvre le processus d'installation du client osu!(lazer). |
 | 1 | [osu! Installation/Account Setup/Beatmap Downloads](https://www.youtube.com/watch?v=0V5GwzmMhpU) | [pishifat](https://osu.ppy.sh/users/3178418) explique comment installer osu!, créer un compte et télécharger de nouvelles beatmaps. |
 | 2 | [Standard Gameplay/Settings Adjustments](https://www.youtube.com/watch?v=mswLEXK0eDk) | [ztrot](https://osu.ppy.sh/users/6347) présente le mode osu! et explique comment régler les paramètres du jeu. |
 | 3 | [Introduction to osu!mania](https://www.youtube.com/watch?v=UAomychlbic) | [LoliFlan](https://osu.ppy.sh/users/447818) couvre les bases du mode osu!mania, y compris le gameplay, les raccourcis clavier, les objets, et plus encore. |
@@ -23,7 +23,7 @@ La série principale d'osu!academy sert d'introduction générale au vaste monde
 | 6 | [Multiplayer Basics/Online Users Panel](https://www.youtube.com/watch?v=QPTLyG7O8ak) | [ztrot](https://osu.ppy.sh/users/6347) explique comment fonctionne le mode multijoueur dans osu! et présente le panneau des utilisateurs en ligne. |
 | 7-0 | [Mapping Editor Basics](https://www.youtube.com/watch?v=WKS8Zhut9XU) | [ztrot](https://osu.ppy.sh/users/6347) explique comment créer une nouvelle beatmap, et ce que font certains boutons et onglets de l'éditeur. |
 | 7-1 | [Slider Creation Basics](https://www.youtube.com/watch?v=RKLanv4pvJc) | [ztrot](https://osu.ppy.sh/users/6347) montre comment créer des sliders de différentes formes dans l'éditeur. |
-| 7-2 | [Timing Basics](https://www.youtube.com/watch?v=8nsbrOhLE9w) | [ztrot](https://osu.ppy.sh/users/6347) couvre la section Timing de l'éditeur, et explique comment timer correctement un beatmap. |
+| 7-2 | [Timing Basics](https://www.youtube.com/watch?v=8nsbrOhLE9w) | [ztrot](https://osu.ppy.sh/users/6347) couvre la section Timing de l'éditeur, et explique comment timer correctement une beatmap. |
 | 7-3 | [Grids](https://www.youtube.com/watch?v=MhIuPvQjLbU) | [ztrot](https://osu.ppy.sh/users/6347) explique comment ajuster la taille de la grille dans l'éditeur de beatmaps. |
 | 8 | [Hitsounds](https://www.youtube.com/watch?v=PFEYlQfiJHQ) | [ztrot](https://osu.ppy.sh/users/6347) explique ce que sont les hitsounds, et passe en revue les bases du hitsounding. |
 | 9 | [Modding Part 1](https://www.youtube.com/watch?v=bTGBspoMFVA) | [ztrot](https://osu.ppy.sh/users/6347) couvre les bases du modding en expliquant le processus de classement des beatmaps et la manière de faire modder votre beatmap. |
@@ -34,24 +34,24 @@ La série principale d'osu!academy sert d'introduction générale au vaste monde
 | 14 | [CtB Mapping Basics](https://www.youtube.com/watch?v=dyDMyB9D420) | [ztrot](https://osu.ppy.sh/users/6347) couvre les bases de la création de beatmaps pour le mode osu!catch. |
 | 15 | [Audio Encoding](https://www.youtube.com/watch?v=muu3HkG38kk) | [ztrot](https://osu.ppy.sh/users/6347) explique comment modifier le débit binaire du fichier audio de votre beatmap pour répondre aux critères de classement. |
 | 16 | [Mania Editor Basics](https://www.youtube.com/watch?v=uTnO_7bMV44) | [ztrot](https://osu.ppy.sh/users/6347) couvre les bases de la création de beatmaps pour le mode osu!mania. |
-| 17 | [Chat Commands](https://www.youtube.com/watch?v=yWqRJZ5FX5Y) | [ztrot](https://osu.ppy.sh/users/6347) passe en revue toutes les commandes de Tchat disponibles dans osu!. |
+| 17 | [Chat Commands](https://www.youtube.com/watch?v=yWqRJZ5FX5Y) | [ztrot](https://osu.ppy.sh/users/6347) passe en revue toutes les commandes de tchat disponibles dans osu!. |
 | 18 | [Technical Support](https://www.youtube.com/watch?v=Ywu3PZGYPxs) | [ztrot](https://osu.ppy.sh/users/6347) explique comment recevoir une assistance technique pour les problèmes liés à osu! ou à votre compte. |
 | 19 | [Reporting Misbehaving Players](https://www.youtube.com/watch?v=ZoBAZCl9wXY) | [ztrot](https://osu.ppy.sh/users/6347) explique comment signaler les utilisateurs qui enfreignent les règles de la communauté, dans le jeu et sur le site web. |
 | 20 | [Video Encoding](https://www.youtube.com/watch?v=exyuI9lv_OI) | [ztrot](https://osu.ppy.sh/users/6347) explique comment modifier le débit binaire du fichier vidéo de votre beatmap pour répondre aux critères de classement. |
 | 21 | [Basic Live Streaming Guide](https://www.youtube.com/watch?v=59Tm9LvYk3Q) | [ztrot](https://osu.ppy.sh/users/6347) présente comment utiliser OBS pour livestreamer osu! sur Twitch. |
-| 22 | [Supporter and osu!direct](https://www.youtube.com/watch?v=ec0pLh4U8eY) | [ztrot](https://osu.ppy.sh/users/6347) présente les avantages de devenir un osu!supporter, y compris osu!direct - une superposition qui permet de télécharger des beatmaps dans le jeu. |
-| 23 | [Community Modding](https://www.youtube.com/watch?v=MxlB__wjt9A) | [ztrot](https://osu.ppy.sh/users/6347) et [Shiro](https://osu.ppy.sh/users/113005) expliquer le concept de modding communautaire, un effort de modding en équipe. |
+| 22 | [Supporter and osu!direct](https://www.youtube.com/watch?v=ec0pLh4U8eY) | [ztrot](https://osu.ppy.sh/users/6347) présente les avantages de devenir un osu!supporter, y compris osu!direct - une fonctionnalité qui permet de télécharger des beatmaps dans le jeu. |
+| 23 | [Community Modding](https://www.youtube.com/watch?v=MxlB__wjt9A) | [ztrot](https://osu.ppy.sh/users/6347) et [Shiro](https://osu.ppy.sh/users/113005) expliquent le concept de modding communautaire, un effort de modding en équipe. |
 | 24 | [Streaming Improvement (Gameplay)](https://www.youtube.com/watch?v=pq33jvMitRk) | [ztrot](https://osu.ppy.sh/users/6347) et [Kyonko Hizara](https://osu.ppy.sh/users/444868) présente des conseils pour améliorer votre capacité de streaming dans le mode osu! |
-| 25 | *Vidéo retirée* | *N/A* |
+| 25 | *Vidéo supprimée* | *N/A* |
 | 26 | [Closing the Game](https://www.youtube.com/watch?v=y61v2QCHlpY) | [ztrot](https://osu.ppy.sh/users/6347) explique comment quitter osu!. |
 | 27 | [Guest Mapping](https://www.youtube.com/watch?v=nXWA1Qh9bT8) | [ztrot](https://osu.ppy.sh/users/6347) couvre le concept de guest mapping et explique comment créer des beatmaps en collaboration avec d'autres utilisateurs. |
 | 28 | [Forum Basics](https://www.youtube.com/watch?v=PEZFOM8NKtw) | [ztrot](https://osu.ppy.sh/users/6347) passe en revue les forums d'osu!, et présente les règles qui y prévalent. |
 | 29 | [Storyboard Basics](https://www.youtube.com/watch?v=uvCRwcyJ4TA) | [ztrot](https://osu.ppy.sh/users/6347) présente le concept de storyboarding, et démontre l'utilisation des outils de transformation disponibles dans l'éditeur. |
 | 30 | [Storyboard Basics 2](https://www.youtube.com/watch?v=EvICgPuOylk) | [ztrot](https://osu.ppy.sh/users/6347) explique comment créer des animations dans l'éditeur de storyboard. |
-| 31 | [Guest mapping and contributions limits](https://www.youtube.com/watch?v=s2ZK4o8V5tI) | [ztrot](https://osu.ppy.sh/users/6347) présente les règles de classement et les lignes directrices concernant les collaborations de type guest mapping et beatmap. |
-| 32 | [New Ranking System](https://www.youtube.com/watch?v=wa_hNegtBw0) | [ztrot](https://osu.ppy.sh/users/6347) passe en revue les principaux changements dans le processus de classement des beatmap. |
+| 31 | [Guest mapping and contributions limits](https://www.youtube.com/watch?v=s2ZK4o8V5tI) | [ztrot](https://osu.ppy.sh/users/6347) présente les règles de classement et les lignes directrices concernant le guest mapping et les beatmaps en collaboration. |
+| 32 | [New Ranking System](https://www.youtube.com/watch?v=wa_hNegtBw0) | [ztrot](https://osu.ppy.sh/users/6347) passe en revue les principaux changements dans le processus de classement des beatmaps. |
 | 33 | [Advanced Editor Tips](https://www.youtube.com/watch?v=_-Xke2bqzok) | [ztrot](https://osu.ppy.sh/users/6347) présente quelques conseils importants pour l'éditeur qui amélioreront grandement votre processus de mapping. |
-| 34 | [Reporting Bugs](https://www.youtube.com/watch?v=Opsfa2wR1RY) | [Tasha](https://osu.ppy.sh/users/1031958) passe en revue les versions disponibles dans osu!, et explique comment signaler les bugs en utilisant le forum Help. |
+| 34 | [Reporting Bugs](https://www.youtube.com/watch?v=Opsfa2wR1RY) | [Tasha](https://osu.ppy.sh/users/1031958) passe en revue les versions disponibles d'osu!, et explique comment signaler les bugs en utilisant le forum Help. |
 
 ## Academy Bytes - Mapping Techniques
 
@@ -59,7 +59,7 @@ La série principale d'osu!academy sert d'introduction générale au vaste monde
 
 | Numéro | Titre | Description |
 | :-: | :-- | :-- |
-| 1 | [Back and Fourth Patterns](https://www.youtube.com/watch?v=Ra_hrzkyIRs) | [ztrot](https://osu.ppy.sh/users/6347) couvre le placement et le timing des motifs Back et Fourth. |
+| 1 | [Back and Fourth Patterns](https://www.youtube.com/watch?v=Ra_hrzkyIRs) | [ztrot](https://osu.ppy.sh/users/6347) couvre le placement et le timing des motifs Back and Fourth. |
 | 2 | [Mirrored Sliders](https://www.youtube.com/watch?v=ocvaH50lNks) | [ztrot](https://osu.ppy.sh/users/6347) passe en revue la disposition et l'utilisation des Mirrored Sliders. |
 | 3 | [Honeycomb patterns](https://www.youtube.com/watch?v=_hla2JtEPkU) | [ztrot](https://osu.ppy.sh/users/6347) couvre le positionnement et l'utilisation des motifs Honeycomb. |
 | 4 | [Star patterns](https://www.youtube.com/watch?v=LHch8V-v7i4) | [ztrot](https://osu.ppy.sh/users/6347) explique comment créer des modèles d'étoile, et couvre les raccourcis qui leur sont associés. |
