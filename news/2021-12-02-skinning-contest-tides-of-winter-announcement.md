@@ -6,7 +6,7 @@ date: 2021-12-02 12:00:00 +0000
 
 The Skinning Contest returns as winter cracks the door open. Grab a cup of hot chocolate and tune in for all the details!
 
-![](/wiki/shared/news/2021-12-02-skinning-contest-tides-of-winter-accouncement/announcement.jpg)
+![](/wiki/shared/news/2021-12-02-skinning-contest-tides-of-winter-announcement/announcement.jpg)
 
 Months after the launch of our first iteration, we're once again here to call forth all the skinners for the second time to show off their talents in the Skinning Contest, hosted by one of the largest skinning communities, [skinship](https://skinship.xyz/). For those unfamiliar with what this is all about, check out the [wiki page](/wiki/Contests/Skinning_Contest/1) for the previous iteration.
 
