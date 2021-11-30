@@ -1,5 +1,3 @@
-<!-- TODO: some updates and needs a proper end of life message. it's also open source now -->
-
 # osu!stream
 
 ![](img/Os-Logo.jpg "osu!stream logo")
