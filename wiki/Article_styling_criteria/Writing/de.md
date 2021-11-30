@@ -227,7 +227,7 @@ Manche Wörter haben Varianten. Ihre bevorzugte Schreibweise ist wie folgt:
 - `erstellt` anstatt `beatmapped` oder `mapped`.
 - `BN` oder `Beatmap Nominators`, wenn auf die *Beatmap Nominators* verwiesen wird.
 
-### Wettbewerbartikel
+### Wettbewerbsartikel
 
 Diese Worte müssen wie folgt verwendet werden (der Abstand muss übereinstimmen):
 
@@ -262,7 +262,7 @@ Bevorzuge: Beatmap Nominators können deine Beatmap nomieren.
 
 ## Perspektive
 
-`Spieler`, `Beutzer`, `Skinner`, `Storyboarder` und `Ersteller` sollten benutzt werden, wenn der Leser oder eine andere Person angesprochen wird. `es`, `sein` und `ihm` darf benutzt werden, wenn benötigt.
+`Spieler`, `Benutzer`, `Skinner`, `Storyboarder` und `Ersteller` sollten benutzt werden, wenn der Leser oder eine andere Person angesprochen wird. `es`, `sein` und `ihm` darf benutzt werden, wenn benötigt.
 
 `du` und `dein` sollte vermieden werden. `Ich` darf nicht vorkommen. `wir`, `er` oder `sein` und `sie` oder `ihr` darf ebenfalls nicht vorkommen.
 

@@ -1,6 +1,6 @@
 # Formatierung
 
-*Für die Schriftstandards, siehe: [Artikelgetsaltungskriterien/Schrift](../Writing)*
+*Für die Schriftstandards, siehe: [Artikelgestaltungskriterien/Schrift](../Writing)*
 
 *Hinweis: Dieser Artikel benutzt [RFC 2119](https://tools.ietf.org/html/rfc2119), um die Anforderungen zu beschreiben.*
 
@@ -86,9 +86,9 @@ Sofern dieses Tag zu einem Artikel hinzugefügt wird, sollten [Kommentare](#komm
 
 ### Artikel mit Tags versehen
 
-Tags helfen der Suchmaschine der Webseite relevantere Artikel anzuzeigen. Tags sollten in derselben Sprache, wie der Artikel geschrieben sein und zusätzlich noch die originalen Tags. Tags sollten nach Möglichkeit immer Kleinschreibung verwenden.
+Tags helfen der Suchmaschine der Webseite relevantere Artikel anzuzeigen. Tags sollten in derselben Sprache, wie der Artikel geschrieben sein und zusätzlich noch die originalen Tags. Außerdem sollten sie nach Möglichkeit immer Kleinschreibung verwenden.
 
-Ein Artikel über "Beatmap-Diskussion" könnte beispielweise diese Tags enthalten:
+Ein Artikel über "Beatmap-Diskussion" könnte beispielsweise diese Tags enthalten:
 
 ```yaml
 tags:
@@ -118,7 +118,7 @@ Artikeltitel sollten dem Ordnernamen entsprechen, in welchem sie sich befinden (
 
 ---
 
-Wettbewerbsartikel sind eine Ausnahme. Der Ordner muss Abkürzungen, Akronyme oder Initialien verwenden. Der Titel des Artikels muss den vollen Namen des Wettbewerbs enthalten.
+Wettbewerbsartikel sind eine Ausnahme. Der Ordner muss Abkürzungen, Akronyme oder Initialwörter verwenden. Der Titel des Artikels muss den vollen Namen des Wettbewerbs enthalten.
 
 ## Ordner- und Dateistrukturen
 
@@ -142,7 +142,7 @@ Der Dateiname für einen Artikel kann in der Spalte `Dateiname` der Tabelle in [
 
 ### Indexartikel
 
-Ein Indexartikel muss erstellt werden, wenn der Ordner nur dazu gedacht ist, andere Artikel zu beinhalten. Indexartikel müssen eine Liste an den enthaltenen Artikeln haben. Sie können auch weitere Informationen enthalten, z. B. einen Hauptabsatz oder eine Beschreibung der verlinkten Artikel.
+Ein Indexartikel muss erstellt werden, wenn der Ordner nur dazu gedacht ist, andere Artikel zu beinhalten. Indexartikel müssen eine Liste an den enthaltenen Artikeln haben. Sie können auch weitere Informationen enthalten, z. B. einen Hauptabsatz oder eine Beschreibung der verlinkten Artikel.
 
 ### Artikel für die Begriffsabgrenzung
 
@@ -204,7 +204,7 @@ Kopfnoten müssen in Kursivschrift verfasst sein und direkt unter der Überschri
 
 ### Hauptseite
 
-Die Kopfnote *Hauptseite* verweist den Leser zum Hauptartikel eines Themas. Wenn diese Kopfnote benutzt wird, wird impliziert, dass der Abschnitt eine Zusammenfassung des verlinkten Artikels ist. Die Kopfnote sollte nur einen Link enthalten. Sie muss wie folgt formartiert sein:
+Die Kopfnote *Hauptseite* verweist den Leser zum Hauptartikel eines Themas. Wenn diese Kopfnote benutzt wird, wird impliziert, dass der Abschnitt eine Zusammenfassung des verlinkten Artikels ist. Die Kopfnote sollte nur einen Link enthalten. Sie muss wie folgt formatiert sein:
 
 ```markdown
 *Hauptseite: {Artikel}*
@@ -224,7 +224,7 @@ Kopfnoten mit *Siehe auch* empfehlen dem Leser andere interessante Artikel oder 
 
 ### Für siehe
 
-Kopfnoten *Für siehe* sind den *Siehe auch*-Kopfnoten ähnlich, aber im Allgemeinen beschreibender und direkter. Diese Kopfnoten dürfen mehrere Links enthalten, falls erfoderlich. Sie müssen wie folgt geschrieben werden:
+Kopfnoten *Für siehe* sind den *Siehe auch*-Kopfnoten ähnlich, aber im Allgemeinen beschreibender und direkter. Diese Kopfnoten dürfen mehrere Links enthalten, falls erforderlich. Sie müssen wie folgt geschrieben werden:
 
 ```markdown
 *Für {Beschreibung}, siehe: {Artikel}`*
@@ -397,7 +397,7 @@ Aufzählungslisten gemeinsam mit nummerierten Listen sollte nur selten benutzt w
 
 ## Code
 
-Das Mark-up für Code ist ein Akut (`` ` ``). Um Aktue in Code zu platzieren, nutze bitte doppelte Akute. Wenn der Akut am Anfang oder am Ende steht, füge ein Leerzeichen ein. (Beispiel unten gezeigt.)
+Das Mark-up für Code ist ein Akut (`` ` ``). Um Akute in Code zu platzieren, nutze bitte doppelte Akute. Wenn der Akut am Anfang oder am Ende steht, füge ein Leerzeichen ein. (Beispiel unten gezeigt.)
 
 ```markdown
 `` ` ``
@@ -444,7 +444,7 @@ Bis jetzt machen die Befehle `Name` und `Author` in der Skinkonfigurationsdatei 
 
 ### Dateinamen
 
-Beim Kopieren von Dateinamen sollte die Schreibweise so sein, wie sie angezeigt wird. Sofern andwendbar, wird Kleinschreibung empfohlen. (Beispiele unten gezeigt.)
+Beim Kopieren von Dateinamen sollte die Schreibweise so sein, wie sie angezeigt wird. Sofern anwendbar, wird Kleinschreibung empfohlen. (Beispiele unten gezeigt.)
 
 ```markdown
 Um osu! zu spielen, mache einen Doppelklick auf das `osu!.exe`-Symbol.
@@ -541,7 +541,7 @@ Wiki-Links, die zu einem Unterartikel zeigen, sollten den Namen des übergeordne
 
 ##### Links zu Abschnitten
 
-*Hinweis: Den Überschriftenleveln 4 und 5 wird keine Kennung zugewiesen. D. h., dass nicht direkt auf sie verwiesen werden kann.*
+*Hinweis: Den Überschriftenleveln 4 und 5 wird keine Kennung zugewiesen. D. h., dass nicht direkt auf sie verwiesen werden kann.*
 
 Wiki-Links, die zu einem Abschnitt eines Artikels zeigen, dürfen das Paragraphenzeichen (`§`) benutzen. Siehe folgendes Beispiel:
 
@@ -651,11 +651,11 @@ Wenn ein Bild aktualisiert wird, dann muss entweder der Bildname verändert oder
 
 ### Formate und Qualität
 
-Bilder sollten das Format JPG bei einer Qualität von 8 (80 oder 80%, abhängig vom Programm) verwenden. Wenn das Bild (teilweise) transparent ist oder lesbaren Text enthält, dann muss stattdessen das Format PNG benutzt werden. Wenn das Bild eine Animation enthält, kann das GIF eingesetzt werden; jedoch sollte dies nur sparsam verwendet werden, da diese länger zum Laden benötigen und auch größer als die [maximale Dateigröße](#dateigröße) sein können.
+Bilder sollten das Format JPG bei einer Qualität von 8 (80 oder 80 %, abhängig vom Programm) verwenden. Wenn das Bild (teilweise) transparent ist oder lesbaren Text enthält, dann muss stattdessen das Format PNG benutzt werden. Wenn das Bild eine Animation enthält, kann das GIF eingesetzt werden; jedoch sollte dies nur sparsam verwendet werden, da diese länger zum Laden benötigen und auch größer als die [maximale Dateigröße](#dateigröße) sein können.
 
 ### Dateigröße
 
-Bilder müssen weniger als 1 MB groß sein, ansonsten werden sie nicht geladen. Eine Herunterskalierung und die Benutzung von JPG bei 80% reicht dafür meistens aus.
+Bilder müssen weniger als 1 MB groß sein, ansonsten werden sie nicht geladen. Eine Herunterskalierung und die Benutzung von JPG bei 80 % reicht dafür meistens aus.
 
 Alle Bilder sollten so weit wie möglich optimiert werden. Benutze [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive), um JPG-Bilder zu komprimieren. Benutze bitte den folgenden Befehl für jpeg-archive:
 
@@ -745,7 +745,7 @@ Tabellen müssen nicht schön gemacht werden (füge keine extra Leerzeichen ein,
 
 Die Trennzeichen-Zeile (die nächste Zeile nach den Spaltenüberschriften) darf nur drei Zeichen pro Spalte benutzen (und mit einem Leerzeichen auf jeder Seite versehen sein), die wie folgt aussehen müssen:
 
-- `:--` (linksbüngig)
+- `:--` (linksbündig)
 - `:-:` (mittig ausrichten)
 - `--:` (rechtsbündig)
 
