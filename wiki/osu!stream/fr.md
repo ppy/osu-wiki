@@ -1,29 +1,29 @@
 # osu!stream
 
-![](img/Os-Logo.jpg "osu!stream logo")
+![](img/Os-Logo.jpg "logo d'osu!stream")
 
-**osu!stream** est une version d'osu! créée de toutes pièces et spécialement conçue pour les appareils tactiles. Elle est actuellement disponible uniquement sur la plateforme [iOS](http://en.wikipedia.org/wiki/IOS) d'Apple, mais un portage [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) était prévu, et presque terminé, mais il n'a pas été publié en raison de problèmes de latence audio dans Android qui rendaient le jeu peu agréable. Elle introduit un tout nouveau système de jeu, comme le hold circle, et les rythmes connectés.
+**osu!stream** est une version d'osu! créée de toutes pièces et spécialement conçue pour les appareils tactiles. Elle est actuellement disponible uniquement sur la plateforme [iOS](https://fr.wikipedia.org/wiki/IOS) d'Apple. Un portage [Android](https://fr.wikipedia.org/wiki/Android) était prévu et presque terminé, mais il n'a pas été publié en raison de problèmes de latence audio dans Android, qui rendaient le jeu peu agréable.
 
-osu!stream ne prend pas en charge les beatmaps classiques d'osu!. Au lieu de cela, les beatmaps sont créées par une équipe spéciale de mappeurs pour tirer parti des nouveaux éléments et respecter un niveau [niveau plus strict de normes](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g). Des beatmaps gratuites et payantes sont disponibles dans la "Boutique".
+Il a introduit un tout nouveau système de jeu, avec de nouveaux éléments de jeu tels que des hold circles et des connected beats. Il ne prend pas en charge les beatmaps classiques d'osu! sans conversion manuelle. Les beatmaps ont été créées par une équipe spéciale de mappeurs afin de tirer parti des nouveaux éléments et de respecter un [niveau de normes plus strict](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
 [osu!stream a été élaboré dans osu!monthly \#5 avec une interview.](https://osu.ppy.sh/community/forums/topics/59924)
 
-Le développement de cette version s'est terminé en 2020. Pour plus d'informations, lisez le [billet de blog](https://blog.ppy.sh/osu-stream-2020-release/) sur sa dernière version. Le code source ainsi que les outils de conversion et de test des beatmaps ont été mis à disposition la même année sous une licence permissive sur [GitHub](https://github.com/ppy/osu-stream) pour les curieux, et toutes les cartes précédemment payantes sont désormais disponibles gratuitement dans la "boutique" du jeu.
+Le développement de cette version s'est terminé en 2020. Pour plus d'informations, lisez le [billet de blog](https://blog.ppy.sh/osu-stream-2020-release/) sur sa dernière version. Le code source ainsi que les outils de conversion et de test des beatmaps ont été mis à disposition la même année sous une licence permissive sur [GitHub](https://github.com/ppy/osu-stream) pour les curieux, et toutes les beatmaps précédemment payantes sont désormais disponibles gratuitement dans la "boutique" du jeu.
 
 ## Installation
 
-![](img/Os-Devices.jpg "osu!stream in iDevice")
+![](img/Os-Devices.jpg "osu!stream dans iDevice")
 
-### Méthode de l'App Store de l'iDevice (Recommandé)
+### Méthode de l'App Store de l'iDevice (recommandé)
 
 **Assurez-vous que l'iDevice peut se connecter à Internet (soit par Wi-Fi, soit par 3G/4G).**
 
-- Allez sur "App Store" depuis votre iDevice.
+- Allez sur l'"App Store" depuis votre iDevice.
 - Recherchez osu!stream
 - Appuyez et installez osu!stream
-  - Si vous êtes invité à saisir votre identifiant Apple et votre mot de passe, veuillez le faire.
+  - Si vous êtes invité à saisir votre identifiant Apple et votre mot de passe, faites le.
 - osu!stream peut être joué une fois le téléchargement et l'auto-installation terminés.
-  - Il est suggéré de lire également la section "Ajouter des Beatmaps" pour obtenir le dernier pack de chansons gratuites. Le téléchargement actuel ne contient que 2 chansons.
+  - Il est suggéré de lire également la section "Ajouter des Beatmaps" pour obtenir le dernier pack de chansons gratuites. Le téléchargement actuel ne contient que 2 musiques.
 
 ### Méthode USB
 
@@ -33,52 +33,52 @@ Le développement de cette version s'est terminé en 2020. Pour plus d'informati
   - Si l'on vous demande votre identifiant Apple, saisissez votre identifiant Apple et votre mot de passe.
 - Branchez l'iDevice sur l'appareil (qui a osu!stream).
 - Transférez les fichiers osu!stream en utilisant iTunes.
-- Débranchez l'iDevice et osu!stream peut être lancé.
+- Débranchez l'iDevice et osu!stream pourra être lancé.
 
 ## Ajouter des Beatmaps
 
 **Assurez-vous que l'iDevice peut se connecter à Internet (soit par Wi-Fi, soit par 3G/4G).**
 
 - Ouvrez osu!stream.
-- Appuyez sur le symbole osu! et vous devriez être redirigé vers le menu principal (ou le tutoriel si c'est la première fois)
+- Appuyez sur le symbole d'osu! et vous devriez être redirigé vers le menu principal (ou le tutoriel si c'est la première fois)
 - Appuyez sur la barre "Store".
-  - Sinon, allez dans "Play" et appuyez sur "Télécharger plus de chansons !"
+  - Sinon, allez dans "Play" et appuyez sur "Download more songs!"
 - Sélectionnez un pack souhaité.
-  - Il est conseillé de télécharger d'abord les packs qui ne coûtent pas d'argent. Les packs gratuits ont l'étiquette "FREE" au lieu de l'étiquette de coût "USD$".
+  - Il est recommandé de télécharger d'abord les packs qui ne coûtent pas d'argent. Les packs gratuits ont l'étiquette "FREE" au lieu de l'étiquette de coût "USD$".
 
-## Quelle est la différence?
+## Quelle est la différence ?
 
 - **Jouable sur tous les appareils iOS uniquement** (pour l'instant).
 - Les beatmaps sont créées de toutes pièces.
-- Aucun compte n'est nécessaire pour télécharger les packs de chansons.
+- Aucun compte n'est nécessaire pour télécharger les packs de musiques.
 - Possibilité d'intégrer osu!stream avec un compte Twitter.
-- Le meilleur score peut être envoyé anonymement sur le site sous le nom de "Guest" (si cela se produit mais nécessite une connexion Internet).
-- Le timer circulaire est remplacé et déplacé vers le bas avec une petite ligne de bordure qui est colorée en fonction de la précision. \[Bottom(Long)\]
+- Le meilleur score peut être envoyé anonymement sur le site sous le nom de "Guest" (nécessite une connexion Internet).
+- Le timer circulaire est remplacé et déplacé vers le bas avec une petite ligne de bordure qui est colorée en fonction de la précision du jeu. \[Bottom(Long)\]
 - **Le timing moyen** est indiqué sur la page des notes.
-- Il n'est pas possible de sauvegarder les anciens records ni de sauvegarder les replays.
+- Les anciens enregistrements et replays ne peuvent pas être sauvegardés.
 - On ne peut pas changer de skins ni appliquer de mods (pour l'instant).
 - Des Easter Eggs peuvent être trouvés mais il n'y a pas de page de succès...
 
 ### Nouveau système de gameplay
 
-**Note:** Testez les nouveaux éléments de gameplay dans l'onglet "Tutoriel".
+**Note :** Testez les nouveaux éléments de gameplay dans l'onglet "Tutorial".
 
 #### Affichage du Finger Guide
 
-![](img/Os-FG.jpg "Finger Guides display")
+![](img/Os-FG.jpg "Affichage du Finger Guides")
 
 - Les deux cercles transparents qui apparaissent dans le jeu ont été créés pour aider les débutants à savoir quand frapper les objets.
-  - Il indique la méthode suggérée pour aborder la conception de la carte avec perfection.
+  - Il indique la méthode suggérée pour aborder la conception de la beatmap avec perfection.
 - La couleur verte est pour la main gauche et la couleur rouge est pour la main droite.
 - Cette fonction peut être désactivée dans le menu des options ou après avoir terminé le tutoriel.
 
-#### Beats Connectés
+#### Connected Beats
 
 ![](img/Os-CB.png "Connected Beats")
 
-- Les Beats Connectés, comme son titre l'indique, exige du joueur qu'il appuie sur les deux objets en même temps.
-  - Les Beats Connectés ne sont pas limités à juste "hit circle-hit circle", ils peuvent aussi être "hit circle-slider", "hold circle-slider" etc.
-- Les Beats Connectés peuvent être identifiés par une ligne blanche droite reliée à un autre objet.
+- Les Connected Beats, comme son titre l'indique, exige du joueur qu'il appuie sur les deux objets en même temps.
+  - Les Connected Beats ne sont pas limités à juste "hit circle-hit circle", ils peuvent aussi être "hit circle-slider", "hold circle-slider", etc.
+- Les Connected Beats peuvent être identifiés par une ligne blanche droite reliée à un autre objet.
 
 #### Hold circle
 
@@ -92,7 +92,6 @@ Le développement de cette version s'est terminé en 2020. Pour plus d'informati
 - La précision est déterminée par le début ou la fin du clic et le temps de maintien.
   - Si le cercle a été relâché avant qu'il n'explose, le multiplicateur de combo sera remis à 0, mais le Hold circle n'entraînera pas un miss à partir du moment où le joueur l'a touché.
   - Si le joueur n'a pas tenu le cercle, les HP seront pris tant que le cercle n'a pas explosé.
-- Le Hold circle peut être reconnu par un "hold" sur le cercle avec un fond violet entouré de blanc.  
 
 ### De nouveaux modes pour remplacer la difficulté  
 
@@ -118,19 +117,19 @@ Le développement de cette version s'est terminé en 2020. Pour plus d'informati
 
 ![](img/Os-ModeEasy.jpg "Easy mode")
 
-**Difficulté: Easy + [NoFail](/wiki/Game_modifier/No_Fail)**
+**Difficulté : Easy + [NoFail](/wiki/Game_modifier/No_Fail)**
 
-Le mode facile permet aux nouveaux venus de s'habituer au gameplay d'osu!stream. Le jeu est considérablement plus lent pour que les nouveaux joueurs comprennent le déroulement et le timing des coups. Il n'y a pas de barre de vie et le mode facile ne débloque pas le mode expert.
+Le mode Easy permet aux nouveaux joueur de s'habituer au gameplay d'osu!stream. Le jeu est considérablement plus lent pour que les nouveaux joueurs comprennent le déroulement et le timing des frappes. Il n'y a pas de barre de vie et le mode Easy ne débloque pas le mode Expert.
 
 La couleur de fond est le vert.
 
-#### Mode Stream
+#### Stream mode
 
 ![](img/Os-ModeStream.jpg "Stream mode")
 
-**Difficulté: Easy ("Stream Down!" à partir de Normal) ~ Normal (point de départ) ~ Hard ("Stream Up!" à partir de Normal)**
+**Difficulté : Easy ("Stream Down!" à partir de Normal) ~ Normal (point de départ) ~ Hard ("Stream Up!" à partir de Normal)**
 
-Le mode Stream est une nouvelle implémentation spécialement conçue pour osu!stream. Dans ce mode, le joueur commence avec une "2e" barre de vie à moitié remplie et un réglage de difficulté normal. Le joueur doit ensuite la remplir complètement pour déclencher le mode "Stream Up !" qui augmente la difficulté (en ajoutant des objets à toucher et en alternant avec le mode "Hard"), mais qui reste nettement moins difficile que le mode Expert. Lorsque le joueur entre dans le mode "Stream Up !", une (troisième/deuxième) barre de vie est émise et "Stream Down !" se produira lorsque la (troisième/deuxième) barre de vie sera à court de santé, ce qui ramènera au réglage de la difficulté (Normal/Easy) du design et utilisera la (deuxième/dernière) barre de vie à moitié remplie.
+Le mode Stream est un mode exclusif à osu!stream. Dans ce mode, les joueurs commencent avec une barre de vie "2nd" à moitié remplie et un réglage de difficulté normal. Le joueur doit ensuite la remplir complètement pour déclencher le mode "Stream Up!", qui augmente la difficulté (en ajoutant des objets et en passant à la difficulté Hard de la beatmap), mais qui reste nettement moins difficile que le mode Expert. Lorsque les joueurs entrent dans le mode "Stream Up!", une nouvelle barre de vie est émise et "Stream Down!" se déclenche si cette barre de vie est épuisée, ce qui ramène à la difficulté Normal ou Easy et à la barre de vie précédente.
 
 En bref, le joueur commence entre Easy et Hard.
 
@@ -158,11 +157,11 @@ La couleur de fond est verte (Easy), bleue (Normal) et rose (Hard).
 
 #### Mode Expert
 
-![](img/Os-ModeExpert.jpg "Expert mode")
+![](img/Os-ModeExpert.jpg "Mode Expert")
 
-**Difficulté: Expert**
+**Difficulté : Expert**
 
-Verrouillé par défaut et ne pouvant être déverrouillé qu'en terminant le mode Stream de la chanson avec un A ou mieux, le mode Expert est destiné aux joueurs qui veulent un plus grand défi. Dans ce mode, le joueur dispose d'une barre de vie pleine et doit la conserver jusqu'à la fin de la chanson. Le fait de le terminer ne débloquera rien, si ce n'est le droit de se vanter.
+Verrouillé par défaut et ne pouvant être déverrouillé qu'en terminant le Stream mode de la musique avec un A ou mieux, le mode Expert est destiné aux joueurs qui veulent un plus grand défi. Dans ce mode, le joueur dispose d'une barre de vie pleine et doit la conserver jusqu'à la fin de la musique. Le fait de le terminer ne débloquera rien, si ce n'est le droit de se vanter.
 
 La couleur de fond est le violet et les lumières s'assombrissent en fonction des HP actuels.
 
@@ -170,23 +169,23 @@ La couleur de fond est le violet et les lumières s'assombrissent en fonction de
 
 ---
 
-![](img/Os-MM.png "Main Menu")
+![](img/Os-MM.png "Menu principal")
 
 ---
 
-![](img/Os-SL.jpg "Song list")
+![](img/Os-SL.jpg "Liste des musiques")
 
 ---
 
-![](img/Os-Store.jpg "Store screen")
+![](img/Os-Store.jpg "Écran du magasin")
 
 ---
 
-![](img/Os-DS.png "Selecting style menu")
+![](img/Os-DS.png "Sélection du menu de style")
 
 ---
 
-![](img/Os-SI.png "Song Information")
+![](img/Os-SI.png "Informations sur les musiques")
 
 ---
 
@@ -194,27 +193,27 @@ La couleur de fond est le violet et les lumières s'assombrissent en fonction de
 
 ---
 
-![](img/Os-Pause.png "Pause menu")
+![](img/Os-Pause.png "Menu de pause")
 
 ---
 
-![](img/Os-FM.png "Failed menu")
+![](img/Os-FM.png "Menu d'échec")
 
 ---
 
-![](img/Os-SC.png "Stage cleared!")
+![](img/Os-SC.png "Stage clean !")
 
 ---
 
-![](img/Os-Grade.jpg "Grade screen")
+![](img/Os-Grade.jpg "Écran des grades")
 
 ---
 
-![](img/Os-O1.png "Option screen 1")
+![](img/Os-O1.png "Écran des options 1")
 
 ---
 
-![](img/Os-O2.png "Option screen 2")
+![](img/Os-O2.png "Écran des options 2")
 
 ---
 
@@ -228,81 +227,79 @@ La couleur de fond est le violet et les lumières s'assombrissent en fonction de
 
 ### Précision
 
-`Précision = Valeur de la note / (Valeur parfaite)`
+`Accuracy = HitValue / (PerfectHitValue)`
 
 | Terme | Formule |
 | :-: | :-- |
-| **Valeur de la note** | (Nombre d'erreurs \* 0 + Nombre de 50's \* 1 + Nombre de 100's * 2 + Nombre de 300's \* 4) |
-| **Valeur parfaite** | (Nombre d'erreurs + Nombre de 50's + Nombre de 100's + Nombre de 300's) \* 4 |
+| **HitValue** | Number of misses \* 0 + Number of 50s \* 1 + Number of 100s * 2 + Number of 300s \* 4) |
+| **PerfectHitValue** | (Number of misses + Number of 50s + Number of 100s + Number of 300s) \* 4 |
 
-En d'autres termes, chaque note manquée vers 0%, chaque 50 vers 25%, chaque 100 vers 50% et chaque 300 vers 100%.
+En d'autres termes, chaque miss vaut 0% de précision, chaque 50 vaut 25%, chaque 100 vaut 50%, et chaque 300 vaut 100%.
 
 ### Score
 
 Le score donné par chaque note et la fin d'un slider est calculé avec la formule suivante :
 
-`Score = Hit Value + Hit Value * (Multiplicateur de combo * Multiplicateur fixe) / 25`
+`Score = Hit Value + Hit Value * (Combo multiplier * Fixed multiplier) / 25`
 
 | Terme | Signification |
 | :-: | :-- |
-| **Valeur de la note** | Le jugement du cercle (50, 100 ou 300). |
-| **Multiplicateur de combo** | (Combo avant ce hit - 1) ou 0 ; le plus élevé des deux. |
-| **Multiplicateur fixe** | Le multiplicateur qui fixe le score à 600.000 |
+| **Hit Value** | Le hit circle judgement (50, 100 ou 300). |
+| **Combo multiplier** | (Combo avant ce hit - 1) ou 0 ; le plus élevé des deux. |
+| **Fixed multiplier** | Le multiplicateur qui fixe le score à 600.000 |
 
-En outre chaque début, fin and et tick d'un slider donne 30 points et chaque spin de spinner donne 100 points.
-Un bonus additionnel de 10 points est donné dépendamment de la vitesse du spinner après que le spinner soit entièrement complété.
+En outre, chaque tick de début, de fin et de répétition du slider rapporte 30 points et chaque tour d'un spinner rapporte 100 points.
+Il y a un bonus supplémentaire de 10 points en fonction de la vitesse à laquelle vous faites tourner le spinner une fois que le spinner meter est plein.
 
-### Jugement des cercles
+### Hit circle judgement
 
 **Hit-circles**
 
-- Un 300, 100 ou 50 d'un Hit-circle dépendant de la précision.
-- Ne pas taper le hit-circle du tout, ou le taper trop tôt entrainera un miss.
-  - Si vous tapez dessus très, très tôt, l'objet va trembler. Techniquement, il ne se passe rien, si ce n'est que l'on peut voir que l'objet a été touché trop tôt.
+- Un cercle de 300, 100 ou 50 est attribué à partir d'une frappe normale, selon la précision de la frappe.
+- Un miss est donné si un cercle a été frappé trop tôt ou n'a pas été frappé du tout.
+  - Si vous tapez dessus trop tôt, l'objet va trembler, on parle ici d'un [Notelock](https://osu.ppy.sh/wiki/fr/Gameplay/Notelock). Techniquement, il ne se passe rien, si ce n'est que l'on peut voir que l'objet a été touché trop tôt.
 
 **Hold-circle**
 
-- Le jugement du hold-circle dépend du clic initial et du temps de maintien avant l'explosion.
+- Le jugement du hold circle dépend de la frappe initial et du temps de maintien avant l'explosion.
   - 300 si c'est fait parfaitement.
   - 100 pour une prise initiale moins précise et une tenue correcte.
-  - 50 pour au moins, le toucher.
+  - 50 pour au moins le toucher.
   - 30 pour chaque explosion.
-  - Le multiplicateur est remis à zéro si l'on n'a pas tenu les cercles correctement et obtient un miss pour ne pas l'avoir fait.
+  - Le multiplicateur est remis à zéro si les cercles n'ont pas été tenus correctement et un miss pour ne pas être tenus du tout.
 
 **Sliders**
 
-- **Le jugement des sliders dépend de la précision du tapotement initial**.
+- **Le jugement des sliders dépend de la précision de la frappe initial**.
 - Les sliders sont constitués de ticks de sliders, qui comprennent les points de début, de fin et de répétition du slider.
-  - Un 300 si vous réussissez à obtenir tous les ticks du slider et un tapotement initial précis.
-  - Un 100 si au moins la moitié d'entre eux avec un tapotement initial considérable.
-  - 50 si vous n'avez pas réussi à atteindre ne serait-ce qu'un seul des ticks ou le tapotement initial.
+  - Un 300 pour avoir réussi à obtenir tous les ticks du slider et une frappe initiale précise.
+  - Un 100 si au moins la moitié des sliders parts ont été frappés par une frappe initiale assez précise.
+  - Un 50 pour avoir réussi à toucher ne serait-ce qu'un seul des ticks ou la frappe initiale.
 - **Cliquer sur un slider trop tôt** n'est pas considéré comme un miss, mais **réinitialise le multiplicateur de score à 0**.
-- Un miss si vous n'avez pas fait le curseur.
+- Un miss si vous n'avez pas fait le slider.
 
 **Spinner**
 
 - Pour un spinner, un 300, 100 ou 50 selon le nombre de tours effectués par rapport à la longueur du spinner.
-- Un échec si l'on ne parvient pas à remplir le compteur indiqué de part et d'autre du spinner.
+- Un miss si l'on ne parvient pas à remplir le compteur indiqué afin de valider le spinner.
 
 ### Multiplicateur
 
 Les éléments suivants ajoutent chacun un point au multiplicateur de score :
 
-- Une touche réussie sur le hit circle.
-- Une prise réussie sur le hold circle.
-- Une touche réussie au début d'un slider.
-- Un touché réussi à la fin d'un slider.
-- Un touché réussi sur le tic-tac du slider.
-- Un spinner terminé avec succès.
+- Des frappes sur un cercle.
+- Le début, la fin et chaque hold tick d'un hold circle.
+- Le début, la fin et chaque tick d'un slider.
+- La réalisation d'un spinner.
 
 Les éléments suivants remettent le multiplicateur de score à zéro :
 
 - Manquer un hit circle.
 - Lâcher le hold circle alors qu'il n'a pas encore explosé.
-- Impossibilité de toucher simultanément les beats connectés. (En toucher un, et pas l'autre)
+- Impossibilité de toucher simultanément les connected beats. (En toucher l'un, et pas l'autre)
 - Cliquer sur le début d'un slider trop tôt.
-- Manquer le début d'un slider ou le tic-tac d'un slider.
-- Impossible de remplir la jauge d'un spinner avec un statut clair.
+- Manquer le début d'un slider ou le tick d'un slider.
+- Impossible de remplir la jauge d'un spinner avec le statut clear.
 
 Ce qui suit n'augmente pas ou ne réinitialise pas le multiplicateur de score :
 
@@ -311,75 +308,70 @@ Ce qui suit n'augmente pas ou ne réinitialise pas le multiplicateur de score :
 
 ### Grades
 
-![](img/Os-Grade.jpg "Ecran des grades")
+![](img/Os-Grade.jpg "Écran des grades")
 
 **Grades normaux**
 
 - SS = 100% de précision
-- S = Over 90% de précision
-- A = Over 80% de précision
-- B = Over 70% de précision
-- C = Over 60% de précision
-- D = Le reste.
+- S = Une précision de plus de 90 %
+- A = Une précision de plus de 80%
+- B = Une précision de plus de 70%
+- C = Une précision de plus de 60%
+- D = Tout le reste
 
 ### Life meter
 
-Contrairement à osu !, la barre de vie est différente dans osu!stream car elle est basée sur le mode de jeu.
+Contrairement à osu!, la barre de vie est différente dans osu!stream car elle est basée sur le mode de jeu.
 
-En **Mode facile, la barre de vie est complètement supprimée**.
+En **Mode Easy, la barre de vie est complètement supprimée**.
 
-![](img/Os-SUN.jpg "Exemple de Stream up! depuis une difficulté normale.")
+![](img/Os-SUN.jpg "Exemple de Stream up! depuis une difficulté Normal.")
 
-En **Mode Stream** cependant, le joueur reçoit **trois barres de vie et le joueur commence avec la deuxième barre de vie à moitié remplie au départ**. Le joueur (gagne/perd) la barre de vie par un message (Stream Up!/Stream Down !) pour (remplir la barre de vie complètement/utiliser tous les HP de cette barre de vie). Après l'affichage du message, le jeu affiche une animation en arrière-plan qui augmente ou diminue la difficulté et affiche une barre de vie à moitié remplie. Si un joueur reçoit un "Stream Down !", il sera temporairement invisible (en raison de l'absence de santé dans la barre de vie utilisée) jusqu'à ce que l'animation soit terminée et que la barre de vie soit remplacée par une barre de vie à moitié remplie de la difficulté précédente.
+En **Stream Mode**, le joueur dispose de trois barres de vie et le joueur commence avec la deuxième barre de vie à moitié remplie au départ. Les joueurs se déplacent entre ces barres de vie grâce aux systèmes **Stream Up!** et **Stream Down!**, qui s'activent lorsqu'ils remplissent la barre de vie ou la vident complètement. Après une annonce, le jeu passe au nouveau "flux" en changeant l'arrière-plan et en passant de manière transparente à une difficulté supérieure ou inférieure de la beatmap, ainsi qu'en changeant de barre de vie. Lorsqu'un Stream Down! se produit, le joueur bénéficie d'une invincibilité temporaire pendant que la barre de vie passe à celle correspondant à la difficulté inférieure.
 
-- Default. **Lifebar will not drain at all while playing**.
+- Par défaut, **la barre de vie ne se vide pas tant que l'on joue**.
 
-En **Mode Expert, une barre de vie complète est présente**.
+En **Mode Expert, une seule barre de vie complète est utilisée à la place**.
 
-En termes d'obtention de vie pour la barre de vie, cela est expliqué comme ci-dessous.
+Ce qui suit remplit la barre de vie :
+- Compléter les spinners et les Hold Bubbles.
+- Frapper un osu!, gold good!, green good!, 300, ou un 100, 
+  - Pour les cercles, les meilleurs jugements remplissent davantage la barre de vie. Le dernier cercle frappé d'une combinaison de couleurs donne plus de vie.
+  - Pour les sliders, la barre de vie est remplie en fonction du nombre de parts réalisées, une fois le slider terminé.
 
-Le joueur gagne de la vie à partir de :
+Ce qui suit vide la barre de vie :
 
-- Hit autorisé : 300, 100, osu !, gold good ! et green good !.
-  - En touchant le(s) hit circles. (Une meilleure précision permet de gagner plus de vie. Le dernier hit circle dans une combinaison de couleurs donne plus de vie).
-  - Toucher le tick de début, de fin ou de retour du ou des sliders. (Une meilleure précision lors du tic-tac de fin permet de gagner plus de vie).
-  - Compléter correctement la ou les bulles du Spinner et du Hold.
-
-Le joueur perd de la vie :
-
-- Causes des coups : 50 , Miss
+- Recevoir un 50.
 - Manquer un objet ou un slider.
-- Ne pas suivre le(s) slider(s).
-- Ne pas tenir le hold circle jusqu'à ce qu'elle explose.
-- Impossible de terminer le spinner avec le message "Clear".
-- Ne pas faire tourner le spinner.
+- Ne pas rester dans le follow circle d'un slider.
+- Ne pas tenir une Hold Bubble jusqu'à ce qu'elle explose.
+- Ne pas faire tourner un spinner.
+- Ne pas terminer un spinner avec le message "Clear".
 
-Le joueur garde sa barre de vie quand :
-
-- Par défaut. **La barre de vie ne se vide pas du tout pendant le jeu.
+Contrairement aux autres versions d'osu!, la barre de vie ne se vide pas toute seule.
 
 ## Questions
 
-### Pourquoi (insérer ici toute chanson protégée par le droit d'auteur) n'est-elle pas incluse ?
+### Pourquoi (insérer ici toute musique protégée par le droit d'auteur) n'est-elle pas incluse ?
 
-En raison de la difficulté d'obtenir une licence pour ladite chanson.
+En raison de la difficulté d'obtenir une licence pour cette dernière.
 
 ### Comment puis-je obtenir plus de beatmaps ?
 
-Rendez-vous dans la section "Store" du jeu ou appuyez sur "Télécharger plus de chansons..." dans la section "Play".
+Rendez-vous dans la section "Store" du jeu ou appuyez sur le bouton "Download more songs..." dans la section "Play".
 
 ### Quelle est la chanson thème de osu!stream ?
 
 [nekodex - osu!stream theme (1.48)](https://soundcloud.com/nekodex/osu-stream-theme).
 On l'entend généralement dans le menu principal et sur l'écran du tutoriel.
 
-### Crédits?
+### Crédits ?
 
 ![](img/Os-Credit.jpg "Crédits")
 
-## Links
+## Liens
 
 - [Site Officiel](http://www.osustream.com) (obsolète)
 - [Discussion (sur le site d'osu!)](https://osu.ppy.sh/community/forums/79)
 - [Dépôt GitHub](https://github.com/ppy/osu-stream)
-- [Post de Blog](https://blog.ppy.sh/osu-stream-2020-release/)
+- [Billet de blog](https://blog.ppy.sh/osu-stream-2020-release/)
