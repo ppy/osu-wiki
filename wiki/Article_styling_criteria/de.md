@@ -16,8 +16,6 @@ Um Änderungen bezüglich der Gestaltungskriterien vorzuschlagen, [öffne ein Is
 
 ## Standards
 
-*Hinweis: Die folgenden Artikel benutzen [RFC 2119](https://tools.ietf.org/html/rfc2119), um die Anforderungen zu beschreiben.*
-
 Die Gestaltungskriterien sind in zwei Artikel aufgeteilt:
 
 - [Formatierung](Formatting): beinhaltet Markdown und andere Formatierungsregeln

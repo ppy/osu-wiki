@@ -2,8 +2,6 @@
 
 *Für die Schriftstandards, siehe: [Artikelgestaltungskriterien/Schrift](../Writing)*
 
-*Hinweis: Dieser Artikel benutzt [RFC 2119](https://tools.ietf.org/html/rfc2119), um die Anforderungen zu beschreiben.*
-
 ## Locales
 
 Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:

@@ -2,8 +2,6 @@
 
 *Für die Formatierungsstandards, siehe: [Artikelgestaltungskriterien/Formatierung](../Formatting)*
 
-*Hinweis: Dieser Artikel benutzt [RFC 2119](https://tools.ietf.org/html/rfc2119), um die Anforderungen zu beschreiben.*
-
 Alle deutschen Artikel müssen Standarddeutsch verwenden.
 
 ## Sprachregister
