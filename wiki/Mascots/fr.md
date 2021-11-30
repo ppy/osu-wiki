@@ -10,15 +10,15 @@ Une vidéo YouTube présentant les mascottes d'osu! est disponible sur [Mascot S
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, stylisée avec un "p" minuscule, est la mascotte du mode de jeu osu! qui a rejoint le jeu le 07/2008. Elle est également connue sous le nom de pippidon dans osu!taiko et est apparue dans [Yandere Simulator](https://yanderesimulator.com) en tant que PNJ. Le concept initial a été créé par [Sarumaru](https://osu.ppy.sh/users/9427), le sprite de pippidon a été créé par [crystalsuicune](https://osu.ppy.sh/users/9974), et le concept actuel a été conçu par [Daru](https://osu.ppy.sh/users/32480).
+pippi, stylisée avec un "p" minuscule, est la mascotte du mode de jeu osu! qui a rejoint le jeu en juillet 2008. Elle est également connue sous le nom de pippidon dans le mode osu!taiko et est apparue dans [Yandere Simulator](https://yanderesimulator.com) en tant que PNJ. Le concept initial a été créé par [Sarumaru](https://osu.ppy.sh/users/9427), le sprite de pippidon a été créé par [crystalsuicune](https://osu.ppy.sh/users/9974), et le concept actuel a été conçu par [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![Icône d'osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
-*Pour les newspost, voir : [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) et [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)*
+*Pour les newsposts, voir : [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) et [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)*
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu est la mascotte d'osu!catch qui a rejoint le 22/06/2014. Il est né le 10/04/2000, mesure 172 centimètres et pèse 65 kilogrammes. Son design actuel a été conçu par [Thievley](https://osu.ppy.sh/users/4717672). Son graphisme initial et les sprites de l'attrapeur ont été réalisés par [ztrot](https://osu.ppy.sh/users/6347). Daru a créé le graphisme du comboburst.
+Yuzu est la mascotte d'osu!catch qui a rejoint le 22/06/2014. Il est né le 10/04/2000, mesure 172 centimètres et pèse 65 kilogrammes. Son design actuel a été conçu par [Thievley](https://osu.ppy.sh/users/4717672). Son design initial et les sprites de l'attrapeur ont été réalisés par [ztrot](https://osu.ppy.sh/users/6347). Daru a créé le graphisme du comboburst.
 
 ### ![Icône d'osu!mania](/wiki/shared/mode/mania.png) Mani & Mari
 
@@ -44,7 +44,7 @@ Moka est la mascotte d'osu!taiko. Elle a été initialement conçue lors du [six
 
 ![Ryuuta](img/Ryuuta.png "Ryuuta")
 
-> Il est le leader au sang chaud de l'équipe des pom-pom girls. Il a une bonne âme et aide ceux qui sont en détresse autour de lui en se levant et en se battant pour eux !
+> Il est le leader au sang chaud du cheer squad. Il a une bonne âme et aide ceux qui sont en détresse autour de lui en se levant et en se battant pour eux !
 
 一本木龍太 (Ryūta Ippongi) était l'attrapeur de chibi-fruits d'osu!catch qui avait rejoint le site en 2008, mais a été remplacé par [Yuzu](#yuzu) en 2014. Il a été créé par [iNiS Corporation](https://fr.wikipedia.org/wiki/INiS) et faisait partie de l'ancien site Web. Il est également apparu dans [Yandere Simulator](https://yanderesimulator.com) en tant que PNJ.
 
@@ -58,15 +58,15 @@ Ryuuta figure également dans le skin de [LuigiHann](https://osu.ppy.sh/users/10
 
 L'agent J, également connu sous le nom de BA-2 (Beat Agent-2) ou J, était l'une des mascottes d'osu! en 2008 mais a pris sa retraite en 2014. Il a été créé par iNiS Corporation et faisait autrefois partie de l'ancien site web.
 
-Agent J figure également dans le skin de [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357).
+L'agent J figure également dans le skin de [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357).
 
 ### Don
 
 ![Don](img/Don.png "Don")
 
-> Don est le protagoniste de la série [Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin). Il est un tambour de taiko avec un bord blanc et quatre jambes, un visage rouge (qui semble être orange moly), et un corps bleu clair. Le rêve de Don est de partager la beauté du Taiko avec le monde entier. Trois ans ont passé depuis qu'il a emménagé dans la maison Wada, et il est devenu assez populaire en ville. Il a un appétit monstrueux et fait parfois des achats coûteux à la Maison Wada, ce qui peut le conduire au pire. Il termine généralement ses phrases par "Ta-don", ce qui signifie "Ba-dum" en japonais.
+> Don est le protagoniste de la série [Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin). Il est un tambour de taiko avec un bord blanc et quatre jambes, un visage rouge (qui semble être orange moly), et un corps bleu clair. Le rêve de Don est de partager la beauté du Taiko avec le monde entier. Trois ans ont passé depuis qu'il a emménagé dans la Wada House, et il est devenu assez populaire en ville. Il a un appétit monstrueux et fait parfois des achats coûteux à la Wada House, ce qui peut le conduire au pire. Il termine généralement ses phrases par "Ta-don", ce qui signifie "Ba-dum" en japonais.
 
-和田どん (Wada Don), également connu sous le nom de Don ou Don-chan, est l'une des mascottes d'osu!taiko qui a rejoint le groupe le 05/2008. Il mesure 48 centimètres et pèse plus de 100 kilogrammes. Il apparaît dans le skin d'osu!taiko. Son dessin a été conçu par Yukiko Yokoo (横尾有希子) et sa voix a été interprétée par Narahashi Miki (楢橋 美紀).
+和田どん (Wada Don), également connu sous le nom de Don ou Don-chan, est l'une des mascottes d'osu!taiko qui a rejoint le groupe en mai 2008. Il mesure 48 centimètres et pèse plus de 100 kilogrammes. Il apparaît dans le skin d'osu!taiko. Son dessin a été conçu par Yukiko Yokoo (横尾有希子) et sa voix a été interprétée par Narahashi Miki (楢橋 美紀).
 
 ## Communauté
 
@@ -74,7 +74,7 @@ Agent J figure également dans le skin de [LuigiHann](https://osu.ppy.sh/users/1
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Conçue par [JMC](https://osu.ppy.sh/users/774010), Aiko est l'une des participantes au concours de création de la mascotte d'osu!taiko. C'est une fille énergique et passionnée d'osu!taiko, même si elle n'est pas la meilleure dans ce domaine ! Portant une paire de chaussures "Tabi" et une ribambelle d'accessoires en pippidon, la mascotte d'antan vit dans cette fille pleine d'entrain. Elle est assez petite, 154 centimètres, et est née le 06/04/1999.
+Conçue par [JMC](https://osu.ppy.sh/users/774010), Aiko est l'une des participantes au concours de création de mascotte d'osu!taiko. C'est une fille énergique et passionnée d'osu!taiko, même si elle n'est pas la meilleure dans ce domaine ! Portant une paire de chaussures "Tabi" et une ribambelle d'accessoires en pippidon, la mascotte d'antan vit dans cette fille pleine d'entrain. Elle est assez petite, 154 centimètres, et est née le 06/04/1999.
 
 ### Alisa
 
