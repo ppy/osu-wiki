@@ -1,11 +1,6 @@
----
-outdated: true
-outdated_since: 4f8d54a3fc70074630230b88709f573a969c9320
----
-
 # Sejarah mapping dan modding
 
-Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berkembang seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini ditujukan sebagai suatu bentuk dokumentasi terhadap berbagai perubahan yang terjadi dari masa ke masa dan sebagai acuan bagi mereka yang ingin mencetuskan ide-ide baru terkait mapping dan modding ke depannya.
+Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berubah seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini ditujukan sebagai suatu bentuk napak tilas akan berbagai perubahan yang terjadi dari masa ke masa dan sebagai pedoman bagi mereka yang ingin mencetuskan ide-ide baru untuk mengembangkan sistem mapping dan modding yang telah ada ke depannya.
 
 ## 2007
 
@@ -393,7 +388,7 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### Desember
 
-- **2018-12-12:** tim inti osu! secara resmi [menjauhkan diri dari praktek komisi beatmap (*beatmap commission*)](https://osu.ppy.sh/community/forums/topics/840838) yang tidak beritikad baik.
+- **2018-12-12:** Tim inti osu! menyatakan bahwa [osu! secara resmi menjauhkan diri dari praktek komisi beatmap (*beatmap commission*)](https://osu.ppy.sh/community/forums/topics/840838) yang tidak beritikad baik.
   - Dalam pengumumannya, tim inti osu! turut menambahkan bahwa walaupun praktek komisi beatmap yang demikian tidak dapat sepenuhnya diberantas, tim inti osu! akan secara proaktif turun tangan untuk menindak anggota-anggota BN/QAT yang terlibat dalam praktek terkait.
 - **2018-12-17:** ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) ditunjuk sebagai [QAT leader](/wiki/Modding/QAT_Leaders) setelah ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) mengundurkan diri.
   - Ia melanjutkan tugas QAT leader sebelumnya dalam bekerja sama dengan tim inti osu! untuk memoderasi lingkungan mapping dan modding secara keseluruhan. <!-- source is discord logs -->
@@ -401,7 +396,7 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
   - Pada titik ini, anggota-anggota QAT sudah hampir sepenuhnya lepas tangan dari hal-hal yang terkait dengan penjaminan mutu (*quality assurance*). Hal ini bertolak belakang dengan tujuan pembentukan QAT pada awalnya.
   - Di samping itu, QAT pada masa itu juga dirundung berbagai masalah yang meliputi antara lain:
     - Minimnya partisipasi QAT dalam memoderasi beatmap-beatmap yang kontroversial.
-    - Sangat sedikitnya nama-nama yang dipromosikan ke dalam QAT seiring waktu.
+    - Sangat sedikitnya nama-nama baru yang dipromosikan ke dalam QAT seiring waktu.
     - Tidak jelasnya arah gerak QAT selaku sebuah kesatuan.<!-- https://osu.ppy.sh/community/forums/topics/842601 -->
 
 Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018. Lonjakan jumlah beatmap Ranked pada tahun ini utamanya diakibatkan oleh sistem pengendalian mutu QAT yang lebih lengang dan inisiatif modding yang tinggi dari para Beatmap Nominator secara umum.
@@ -415,7 +410,7 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
 
 ### Maret
 
-- **2019-03-01:** [Mappers' Guild](/wiki/Mappers_Guild) mulai menerima siapapun yang memiliki setidaknya 3 beatmap Ranked untuk menjadi anggota tanpa terkecuali.
+- **2019-03-01:** [Mappers' Guild](/wiki/Mappers_Guild) mulai menerima siapapun yang memiliki setidaknya 3 beatmap Ranked untuk dapat menjadi anggota tanpa terkecuali.
   - Sistem penerimaan anggota Mappers' Guild yang lebih terbuka ini mengakibatkan jumlah beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists) yang ada meningkat tajam.
   - Kanal `#mappers-guild` dibuat secara khusus pada [server Discord osu!dev](/wiki/osu!dev_Discord_server) untuk mendukung perubahan ini.
 - **2019-03-13:** Peraturan yang mempersyaratkan selang waktu antar nominasi pertama dan nominasi kedua pada suatu beatmap harus lebih dari 24 jam dihapus.
@@ -461,7 +456,7 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 
 - **2020-04-11:** Buletin Mappers' Report <!-- TODO: stub --> yang diprakarsai oleh ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) mulai dipublikasikan secara rutin pada laman berita osu! setiap bulannya. Buletin ini merangkum hal-hal terkini terkait mapping dan modding di dalam lingkungan osu! dari waktu ke waktu.
 
-### October
+### Oktober
 
 - **2020-10-02:** Dokumen [Beatmap Nominator Expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) dicanangkan untuk menanggapi kekhawatiran publik seputar perilaku dan etos kerja sebagian anggota BN yang dinilai buruk di kala itu. <!-- https://github.com/ppy/osu-wiki/pull/4281 -->
   - Banyak pihak yang memandang bahwa terdapat anggota-anggota BN di kala itu yang secara umum bermasalah. Mereka dinilai sulit untuk didekati, berperilaku tidak sepantasnya, dan memiliki standar ranking yang dipertanyakan.
@@ -473,7 +468,7 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 - **2020-11-30:** Persyaratan untuk dapat mengusung beatmap yang memiliki lebih dari satu mode permainan (*hybrid*) ke dalam kategori Qualified diubah dari 2 nominasi utuh menjadi 2 nominasi per mode permainan yang ada. <!-- https://github.com/ppy/osu-web/pull/6832 -->
   - Masing-masing anggota Beatmap Nominator hanya dapat memberikan nominasi pada satu mode permainan per beatmapnya.
 
-### December
+### Desember
 
 - **2020-12-17:** [Situs web Beatmap Nominator](https://bn.mappersguild.com/) mulai membuka layanan untuk meninjau kelayakan konten pada beatmap-beatmap yang ditenggarai mengandung konten-konten yang tidak pantas.
 
@@ -481,11 +476,53 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
 ## 2021
 
-### January
+### Januari
 
 - **2021-01-05:** Label `Eksplisit` mulai diberlakukan bagi beatmap yang mengusung lagu-lagu eksplisit. Label ini tidak berlaku untuk konten-konten visual yang terdapat pada beatmap. <!-- https://github.com/ppy/osu-web/pull/6575 -->
   - Tata penggunaan konten-konten visual yang ada diatur pada [dokumen pertimbangan konten visual berikut](/wiki/Rules/Visual_Content_Considerations).
 - **2021-01-30:** Kanal obrolan `#modhelp` berganti nama menjadi `#mapping` untuk lebih mencerminkan topik diskusi yang dikehendaki di dalamnya.
+
+### Maret
+
+- **2021-03-09:** Sejalan dengan berbagai perubahan yang dicanangkan pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) di kala itu, Ranking Criteria mulai mempersyaratkan para mapper untuk menyertakan sumber gambar latar dan media-media lainnya yang mereka gunakan pada kolom deskripsi beatmap yang bersangkutan.
+- **2021-03-15:** Persyaratan bagi para mantan anggota Beatmap Nominator untuk dapat bergabung kembali ke regu Beatmap Nominator dilonggarkan.
+  - Para calon anggota Beatmap Nominator tetap harus terlebih dahulu mendaftar dan mengikuti proses seleksi seperti pada umumnya. Meskipun demikian, para calon anggota yang sebelumnya pernah menjabat sebagai anggota Beatmap Nominator kini dapat mendaftar hanya dengan menyertakan aktivitas-aktivitas modding mereka selama 1-2 bulan ke belakang (alih-alih 3 bulan sebagaimana yang pada umumnya dipersyaratkan).<!-- https://github.com/ppy/osu-wiki/pull/5027/files -->
+- **2021-03-16:** Para anggota Beatmap Nominator mulai dapat menikmati osu!supporter secara cuma-cuma.
+  - Penghadiahan osu!supporter ini merupakan respon atas banyaknya keluhan yang masuk seputar minimnya insentif yang diberikan kepada mereka yang telah banyak berkontribusi pada lingkungan mapping dan modding. <!-- https://osu.ppy.sh/community/forums/topics/1268711?n=58 -->
+- **2021-03-16:** Batas jumlah beatmap yang dapat di-rank per mode permainan per harinya ditingkatkan dari 8 menjadi 10 untuk mengurangi jumlah beatmap pada kategori Qualified yang sudah sangat menumpuk di kala itu.
+
+### April
+
+- **2021-04-08:** Peraturan Ranking Criteria yang melarang terdapatnya beatmap-beatmap Qualified dengan lagu yang sama pada satu waktu dihapus.
+  - Peraturan ini dicabut karena rawannya praktek diskualifikasi yang tidak beritikad baik pada beatmap-beatmap yang mengusung lagu-lagu populer di kala itu.
+
+### Mei
+
+- **2021-05-12:** Nomination Assessment Team mulai membuka kesempatan kepada para anggota Beatmap Nominator untuk dapat mengevaluasi kinerja anggota-anggota Beatmap Nominator lainnya. <!-- https://osu.ppy.sh/community/forums/topics/1400803?n=1 -->
+  - Proses ini bersifat uji coba dan hanya melibatkan mode osu!.
+  - Dalam proses ini, para anggota Beatmap Nominator yang terpilih diberikan kewenangan yang serupa dengan NAT dalam mengevaluasi kinerja anggota tim lainnya dan menentukan hasil-hasil aplikasi yang NAT terima.
+  - Proses ini dilaksanakan dalam dua siklus, di mana siklus pertama melibatkan ~10 orang anggota BN dan siklus kedua melibatkan ~20 orang anggota BN.
+- **2021-05-13:** Fitur untuk mengubah pemilik tingkat kesulitan diluncurkan pada laman diskusi masing-masing beatmap. <!-- https://github.com/ppy/osu-web/pull/7517 -->
+  - Fitur ini memungkinkan para pemilik *guest difficulty* untuk dapat menjawab dan menutup isu-isu yang ada pada tingkat kesulitan yang mereka miliki. Sebelumnya, isu-isu yang ada hanya dapat dijawab dan ditutup oleh para pemilik mapset (*mapset host*) yang sering kali merepotkan para pemilik *guest difficulty*.
+
+### Juni
+
+- **2021-06-14:** Global Moderation Team mulai merekrut anggota-anggota baru yang dikhususkan untuk memoderasi lingkungan mapping dan modding untuk meredam ketegangan antara para anggota GMT dan para mapper di kala itu. <!-- https://discord.com/channels/316154420591067136/316586967171203075/854061295702769694 / document any effects of this later -->
+
+### Agustus
+
+- **2021-08-14:** Mode osu!taiko mulai memberlakukan proses uji coba evaluasi Beatmap Nominator sebagaimana yang telah dilakukan oleh mode osu! pada bulan Mei sebelumnya.
+
+### September
+
+- **2021-09-11:** ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) mengubah peraturan Ranking Criteria yang terkait dengan penggunaan kolom Source. <!-- https://github.com/ppy/osu-wiki/commit/02dee3fff09c3e890dc408271bb3d2d93c3c5b2d -->
+  - Perubahan yang diberlakukan secara sepihak ini mengagetkan para mapper dan modder, yang mendorong mereka untuk mengambil solusinya masing-masing demi menanggulangi dampak-dampak yang tidak diinginkan dari perubahan ini. <!-- https://osu.ppy.sh/community/forums/topics/1417764?n=1 -->
+- **2021-09-18:** Setelah tidak dilaksanakan selama lebih dari satu dekade, pertemuan komunitas osu! (*osu! community meetings*) kembali diadakan pada ruang *voice chat* khusus yang dibuat pada server Discord osu!dev. Dalam pertemuan pertamanya, para peserta yang terlibat membahas berbagai topik yang menyangkut antara lain [masalah-masalah yang dihadapi oleh Ranking Criteria mode osu!mania di kala itu](https://osu.ppy.sh/community/forums/topics/1388182?n=1), kondisi Ranking Criteria yang dinilai terlalu kompleks, cara agar mapper-mapper baru dapat lebih aktif berperan di komunitas, dan lain sebagainya.
+  - Setelah pertemuan ini, perubahan-perubahan yang diusulkan untuk Ranking Criteria mode osu!mania langsung didiskusikan lebih lanjut dan, apabila disetujui, akan diberlakukan dengan segera. <!-- document effects of this with next update https://osu.ppy.sh/community/forums/topics/1418542?n=1 / https://osu.ppy.sh/community/forums/topics/1418560?n=1 -->
+- **2021-09-24:** [Proses penjaminan mutu (*quality assurance*)](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) beatmap-beatmap yang ada tidak lagi diikutsertakan ke dalam riwayat aktivitas para anggota Beatmap Nominator. <!-- https://osu.ppy.sh/community/forums/topics/1423554?n=1 -->
+  - Perubahan ini diberlakukan karena terdapat beberapa anggota Beatmap Nominator yang ditenggarai hanya ingin berfokus pada proses penjaminan mutu beatmap dan melalaikan tugas utama mereka selaku seorang Beatmap Nominator.
+  - Sebelumnya, proses penjaminan mutu memiliki bobot 1/4 nominasi per satu beatmap yang diperiksa.
+
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
