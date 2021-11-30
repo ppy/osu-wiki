@@ -169,6 +169,7 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Modérateur de tchat, équipe du support |
 | ![][flag_TH] [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ![][flag_FI] [Orkel](https://osu.ppy.sh/users/39385) | Modérateur de tchat |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | GMT |
 | ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | GMT, équipe du support |
 | ![][flag_NL] [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
@@ -258,7 +259,7 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_GR]: /wiki/shared/flag/GR.gif "Grèce"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_HR]: /wiki/shared/flag/HR.gif "Croatie"
@@ -276,7 +277,7 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 [flag_PE]: /wiki/shared/flag/PE.gif "Pérou"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"

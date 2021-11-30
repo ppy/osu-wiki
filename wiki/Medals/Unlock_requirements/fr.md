@@ -1,4 +1,4 @@
-# Conditions de déverrouillage
+# Conditions de déverrouillage des médailles
 
 Page d'index pour les articles concernant les conditions de déverrouillage des médailles. Les médailles Hush-Hush ne sont pas incluses pour des raisons évidentes.
 
