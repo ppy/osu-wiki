@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# Score
+# osu!taiko scoring system
 
 ## Hit values
 

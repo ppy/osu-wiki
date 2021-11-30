@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# Score
+# osu!mania scoring system
 
 ## Hit values
 

@@ -4,7 +4,7 @@ outdated: true
 outdated_since: c78e8f94260067c49d36a55deaaf7f40cb796b39
 ---
 
-# osu! scoring system
+# Système de notation d'osu!
 
 ## Hit values
 
@@ -17,7 +17,7 @@ outdated_since: c78e8f94260067c49d36a55deaaf7f40cb796b39
 | ![](/wiki/Skinning/Interface/img/hit50.png "50") | 50 | Score obtenu lorsqu'un cercle est frappé avec du délai, mais assez faible que pour ne pas causer de Miss, lorsqu'un Slider est complété avec beaucoup de ticks ratés, ou lorsqu'un Spinner est complété avec sa jauge modérément remplie. Un score de 50 apparaît avec une couleur orange par défaut. Obtenir un 50 dans un combo empêche l'obtention d'un Katu ou d'un Geki à la fin de celui-ci. |
 | ![](/wiki/Skinning/Interface/img/hit0.png "Miss") | Miss | Score obtenu lorsqu'un cercle n'est pas frappé, ou frappé avec trop de délai, lorsqu'un Slider n'est pas frappé ou maintenu sur au moins un tick, ou lorsqu'un Spinner est complété avec sa jauge peu remplie. Obtenir un Miss réinitialise le combo actuel, et empêche l'obtention d'un Katu ou d'un Geki à la fin de celui-ci. |
 
-## Object score
+## Score de l'objet
 
 Le score accordé par chaque cercle et fin de Slider est calculé à l'aide de la formule suivante :
 

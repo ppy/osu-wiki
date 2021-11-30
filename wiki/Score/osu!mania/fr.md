@@ -4,7 +4,7 @@ outdated: true
 outdated_since: c78e8f94260067c49d36a55deaaf7f40cb796b39
 ---
 
-# osu!mania scoring system
+# Système de notation d'osu!mania
 
 ## Hit values
 
@@ -17,7 +17,7 @@ outdated_since: c78e8f94260067c49d36a55deaaf7f40cb796b39
 | ![](/wiki/Skinning/osu!mania/img/mania-hit50.png "50") | 50 | Frappe ou maintien de la note avec un délai important. Score par défaut si une note maintenue n'est pas relâchée. Faible réduction de la jauge de vie. Brise le combo. |
 | ![](/wiki/Skinning/osu!mania/img/mania-hit0.png "Miss") | Miss | Ne pas frapper ou maintenir la note, ou utiliser les mauvaises touches. Importante réduction de la jauge de vie et brise le combo. |
 
-## Scoring
+## Notation
 
 Dans osu!mania, chaque beatmap possède le même score total maximum de 1 million (1,000,000)
 

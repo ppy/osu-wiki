@@ -4,7 +4,7 @@ outdated: true
 outdated_since: c78e8f94260067c49d36a55deaaf7f40cb796b39
 ---
 
-# osu!catch scoring system
+# Système de notation d'osu!catch
 
 ## Hit values
 
@@ -19,7 +19,7 @@ outdated_since: c78e8f94260067c49d36a55deaaf7f40cb796b39
 | ![](img/catch-banana.jpg "Banana") | Bananas | Équivalent du Spinner. Ces petites bananes rétrécissent lorsqu'elles s'approchent du Catcher. Il n'est pas obligatoire de les capturer. 1,100pt en cas de capture, ceci venant de la complétion du Spinner dans osu! qui offre 1000pt bonus ainsi que 100pt pour une rotation. |
 | ![](img/catch-0.jpg "Miss") | Miss | Fruit et Juice Drops ratés. Brise le combe. Obtenu lorsque la capture d'un Fruit/Juice Drops est échouée. Aucun score accordé et brise le combo. Visible uniquement sur l'écran de résultats. |
 
-## Object score
+## Score de l'objet
 
 Le scoring pour osu!catch utilise le même multiplicateur qu'[osu!](/wiki/Game_mode/osu!).
 Cependant, le fruit réceptionné s'ajoute différemment au score.
