@@ -5,14 +5,14 @@
 Ein Benutzer wird eingeschränkt, wenn er eine der folgenden Dinge macht:
 
 - Wiederkehrendes Fehlverhalten, unabhängig davon, wie viele Verstöße er begangen hat.
-- Eine Strafe umgehen durch das Erstellen eines neuen Accounts.
+- Eine Strafe umgehen, durch das Erstellen eines neuen Accounts.
 - Seinen Account mit anderen Benutzern teilen.
 - Multi-Accounting.
 - Hacking oder Cheating (siehe unten).
 
 ## Was wird als Multi-Accounting angesehen?
 
-Jeder Benutzer darf nur **einen** Account haben. Neue Accounts zu erstellen, ist streng verboten. Erste Verstöße werden mit einer Stummschaltung von variabler Länge bestraft. Die Länge der Stummschaltung hängt von der Anzahl an erstellten Accounts ab. Benutzer, die trotz vorheriger Warnungen weitermachen, werden eingeschränkt.
+Jeder Benutzer darf nur **einen** Account haben. Neue Accounts zu erstellen ist streng verboten. Erste Verstöße werden mit einer Stummschaltung von variabler Länge bestraft. Die Länge der Stummschaltung hängt von der Anzahl an erstellten Accounts ab. Benutzer, die trotz vorheriger Warnungen weitermachen, werden eingeschränkt.
 
 ## Was wird als Cheating betrachtet?
 
