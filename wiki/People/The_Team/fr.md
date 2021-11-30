@@ -93,7 +93,7 @@ Les groupes d'utilisateurs suivants sont constitués de membres de la communaut�
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_GR]: /wiki/shared/flag/GR.gif "Grèce"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
