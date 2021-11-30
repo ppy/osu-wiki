@@ -150,7 +150,7 @@ La musique sélectionnée pour cette édition du tournoi est [Thaehan - Sunrise]
 [flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italie"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"

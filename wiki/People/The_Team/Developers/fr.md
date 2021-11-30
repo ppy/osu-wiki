@@ -102,8 +102,8 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont abandonné les effor
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
-[flag_SA]: /wiki/shared/flag/SA.gif "Arabie saoudite"
+[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
+[flag_SA]: /wiki/shared/flag/SA.gif "Arabie Saoudite"
 [flag_SK]: /wiki/shared/flag/SK.gif "Slovaquie"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
 [flag___]: /wiki/shared/flag/__.gif
