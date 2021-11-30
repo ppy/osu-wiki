@@ -84,7 +84,7 @@ Diese Option funktioniert, wenn der schlechte Benutzer in Sicht liegt:
 
 ![](img/report-user-discussion.png "Der Meldeknopf in einem Diskussionsbeitrag")
 
-1. Klicke den `Report`-Link unter dem Diskussionbeitrag.
+1. Klicke den `Report`-Link unter dem Diskussionsbeitrag.
 2. Wähle die Kategorie und füge Details hinzu (optional).
 
 ### Scoreliste
