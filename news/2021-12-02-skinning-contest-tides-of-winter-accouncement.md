@@ -4,20 +4,20 @@ title: "Skinning Contest: Tides of Winter"
 date: 2021-12-02 12:00:00 +0000
 ---
 
-The Skinning Contest returns as Winter cracks the door open. Grab a cup of hot chocolate and tune in for all the details!
+The Skinning Contest returns as winter cracks the door open. Grab a cup of hot chocolate and tune in for all the details!
 
 ![](/wiki/shared/news/2021-12-02-skinning-contest-tides-of-winter-accouncement/announcement.jpg)
 
-Months after the launch of our first iteration, we're once again here to call forth all the skinners for the second time to show off their talents in the Skinning Contest, hosted by one of the largest skinning communities, [skinship](https://skinship.xyz/). For those unfamiliar with what this is all about, check out the wiki page for the previous iteration [here](/wiki/Contests/Skinning_Contest/1).
+Months after the launch of our first iteration, we're once again here to call forth all the skinners for the second time to show off their talents in the Skinning Contest, hosted by one of the largest skinning communities, [skinship](https://skinship.xyz/). For those unfamiliar with what this is all about, check out the [wiki page](/wiki/Contests/Skinning_Contest/1) for the previous iteration.
 
-Since the Winter is here and the snowy days are nearing, we have decided to adopt a theme that will reflect the season properly: **Tides of Winter**! As you might have guessed, in this iteration of the contest, we expect submissions all themed around anything Winter-related. Whether it fills people joy with the everlasting Christmas spirit, or pulls out a different take on Winter sports, anything is acceptable as long as it fits the theme.
+Since winter is here and the snowy days are nearing, we have decided to adopt a theme that will reflect the season properly: **Tides of Winter**! As you might have guessed, in this iteration of the contest, we expect submissions all themed around anything winter-related. Whether it fills people with joy and everlasting Christmas spirit, or pulls out a different take on winter sports, anything is acceptable as long as it fits the theme.
 
 ## Changes
 
 As per the feedback we've received from you, we've decided to make a couple of adjustments and improvements to this edition of the contest:
 
 - Each contestant can only participate with their own work, meaning that **collaborations/teams are not allowed**. Of course, you are permitted to ask others for feedback, but that should not go beyond exchanging ideas.
-- The file size of your skin as a whole must be **under 100MB**. As much as we like high-fidelity visual and aural content, we have to look out for those who have a poor system or internet connection.
+- The file size of your skin as a whole must be **under 100 MB**. As much as we like high-fidelity visual and aural content, we have to look out for those who have a poor system or internet connection.
 - At least **two** gamemodes must be skinned. In addition to this rule, we expect you to skin the **Mode Selection** panel as well.
 
 All of the changes above can be viewed in detail in the [Rules](#rules) section below. Make sure to have a read!
@@ -36,7 +36,7 @@ Since all entries will have their respective forum threads publicly available, c
 
 After the submission phase is over, the entries will be made available for community voting.
 
-The results of the community voting will determine the winner of the contest. Entry with the most votes wins!
+The results of the community voting will determine the winner of the contest. The entry with the most votes wins!
 
 ## Schedule
 
@@ -62,16 +62,16 @@ The results of the community voting will determine the winner of the contest. En
 - Submissions must be new creations, only skins posted within the submission period will be accepted.
 - Each submission must be accompanied by a forum thread in order to participate in the contest.
 - Submissions must be made in time. Latecomers will not be accepted.
-- Submissions must tbe created individually. Teams/Collaborations are not allowed.
-- Submissions must be in line with the given theme: Tides of Winter
-- The file size for your .osk submission must be below 100MB.
-- Please submit a 16:9 image representing your skin, this will be used as a cover on the contest page.
+- Submissions must be created individually. Teams/collaborations are not allowed.
+- Submissions must be in line with the given theme: "Tides of Winter".
+- The file size for your .osk submission must be below 100 MB.
+- Please submit a 16:9 image representing your skin, since this will be used as a cover on the contest page.
 
 **Failure to comply with the contest rules may lead to disqualification, or, in severe cases, exclusion from future contests.**
 
 ## Prizes
 
-Now that all the rules are our of the way, let's unveil the prizes delivered to the best of the best!
+Now that all the rules are out of the way, let's unveil the prizes that will be delivered to the best of the best!
 
 | Placing | Prizes |
 | ![Gold Crown](/wiki/shared/gold_crown.png "1st place") | Profile badge themed around their submission, 6 months of osu!supporter |

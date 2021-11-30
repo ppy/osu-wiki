@@ -5,43 +5,43 @@ tags:
   - skins
 ---
 
-# Skinning Contest #1
+# Skinning Contest #2
 
 ![Skinning Contest #2 banner](img/banner.jpg)
 
-The **Skinning Contest #2: Tides of Winter** is a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz), one of the largest skinning communities on osu!. It is the second official osu! skinning contest, and is once again hosted by skinship.
+The **Skinning Contest #2: Tides of Winter** is a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz), one of the largest skinning communities on osu!. It is the second official osu! skinning contest.
 
 ## Contest schedule
 
-|            Event | Timestamp             |
-| ---------------: | :-------------------- |
-|     Announcement | 2021-12-02            |
+| Event | Timestamp |
+| --: | :-- |
+| Announcement | 2021-12-02 |
 | Submission phase | 2021-12-02/2021-12-30 |
-|     Voting phase | 1 week long, date TBD |
-|          Results | TBD                   |
+| Voting phase | 1 week long, *date TBD* |
+| Results | *TBD* |
 
 ## Prizes
 
-|                          Placing                           | Prize(s)                                        |
-| :--------------------------------------------------------: | :---------------------------------------------- |
-|   ![Gold crown](/wiki/shared/crown-gold.png "1st place")   | 6 months of osu!supporter, unique profile badge |
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, unique profile badge |
 
 ## Organisation
 
-The Skinning Contest #1 was run by various community members.
+The Skinning Contest #2 is run by various community members.
 
-| User                                                              | Responsibility                         |
-| :---------------------------------------------------------------- | :------------------------------------- |
-| ![][flag_de] [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning, graphic design       |
-| ![][flag_ro] [Matt2e2](https://osu.ppy.sh/users/12144912)         | Contest planning                       |
-| ![][flag_nl] [Roan](https://osu.ppy.sh/users/8214639)             | Contest planning                       |
-| ![][flag_de] [RockRoller](https://osu.ppy.sh/users/8388854)       | Contest planning, submission screening |
-| ![][flag_gb] [tetsui](https://osu.ppy.sh/users/10974678)          | Contest planning                       |
-| ![][flag_nl] [vvivi](https://osu.ppy.sh/users/10432755)           | Contest planning                       |
-| ![][flag_pl] [watterino](https://osu.ppy.sh/users/3512261)        | Video editor                           |
-| ![][flag_tr] [Zeus-](https://osu.ppy.sh/users/5464437)            | Contest planning, newspost writer      |
+| User | Responsibility |
+| :-- | :-- |
+| ![][flag_de] [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning, graphic design |
+| ![][flag_ro] [Matt2e2](https://osu.ppy.sh/users/12144912) | Contest planning |
+| ![][flag_nl] [Roan](https://osu.ppy.sh/users/8214639) | Contest planning |
+| ![][flag_de] [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening |
+| ![][flag_gb] [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning |
+| ![][flag_nl] [vvivi](https://osu.ppy.sh/users/10432755) | Contest planning |
+| ![][flag_pl] [watterino](https://osu.ppy.sh/users/3512261) | Video editor |
+| ![][flag_tr] [Zeus-](https://osu.ppy.sh/users/5464437) | Contest planning, newspost writer |
 
 ## Links
 
@@ -70,10 +70,10 @@ The Skinning Contest #1 was run by various community members.
 - Submissions must be new creations, only skins posted within the submission period will be accepted.
 - Each submission must be accompanied by a forum thread in order to participate in the contest.
 - Submissions must be made in time. Latecomers will not be accepted.
-- Submissions must tbe created individually. Teams/Collaborations are not allowed.
-- Submissions must be in line with the given theme: Tides of Winter
-- The file size for your .osk submission must be below 100MB.
-- Please submit a 16:9 image representing your skin, this will be used as a cover on the contest page.
+- Submissions must be created individually. Teams/collaborations are not allowed.
+- Submissions must be in line with the given theme: "Tides of Winter".
+- The file size for your .osk submission must be below 100 MB.
+- Please submit a 16:9 image representing your skin, since this will be used as a cover on the contest page.
 
 [flag_de]: /wiki/shared/flag/DE.gif "Germany"
 [flag_gb]: /wiki/shared/flag/GB.gif "United Kingdom"
