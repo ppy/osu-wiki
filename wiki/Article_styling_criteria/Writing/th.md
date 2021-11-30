@@ -271,9 +271,9 @@ The NC (Nightcore) mod is similar to the DT (Double Time) mod because both NC an
 ตัวย่อ, คำย่อ และอักษรย่อ ไม่ควรเป็นพหูพจน์ ต่อไปนี้เป็นตัวอย่าง:
 
 ```markdown
-Avoid:  BNs can nominate your beatmap.
+หลีกเลี่ยง:  BNs can nominate your beatmap.
 
-Prefer: Beatmap Nominators can nominate your beatmap.
+ให้ใช้: Beatmap Nominators can nominate your beatmap.
 ```
 
 ## ทัศนคติ
