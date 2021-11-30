@@ -523,7 +523,6 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
   - Perubahan ini diberlakukan karena terdapat beberapa anggota Beatmap Nominator yang ditenggarai hanya ingin berfokus pada proses penjaminan mutu beatmap dan melalaikan tugas utama mereka selaku seorang Beatmap Nominator.
   - Sebelumnya, proses penjaminan mutu memiliki bobot 1/4 nominasi per satu beatmap yang diperiksa.
 
-
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
