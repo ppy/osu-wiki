@@ -101,7 +101,7 @@ Si le Mod [Auto Pilot](/wiki/Game_modifier/Autopilot) a été utilisé, seule le
 
 ## Calcul du score
 
-*[Les valeurs de base peuvent être trouvées dans la section Score](/wiki/Score#osu).*
+*[Les valeurs de base peuvent être trouvées dans la section Score](/wiki/Score/osu!).*
 
 La section score détaille toutes les subtilités du score, y compris la formule mathématique.
 
