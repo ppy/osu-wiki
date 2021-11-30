@@ -96,7 +96,7 @@ Apabila kamu bermain menggunakan mod [Relax](/wiki/Game_modifier/Relax), kamu ha
 
 ## Penilaian
 
-*Mohon lihat laman [Penilaian skor pada mode osu!](/wiki/Score#osu) untuk informasi lebih lanjut seputar penilaian skor yang dipakai oleh osu!.*
+*Mohon lihat laman [Sistem skor pada mode osu!](/wiki/Score/osu!) untuk informasi lebih lanjut seputar penilaian skor yang dipakai oleh osu!.*
 
 Berikut ini adalah penjelasan mengenai penilaian skor yang digunakan dipakai oleh osu! untuk menentukan skor kamu.
 
