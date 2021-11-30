@@ -1,4 +1,4 @@
-# Umgang mit faulen Tricks
+# Umgang mit Betrug
 
 ## Warum ist mein Account eingeschränkt?
 
