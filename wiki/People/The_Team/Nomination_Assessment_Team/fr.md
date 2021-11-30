@@ -47,6 +47,7 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | Nom | Langues supplémentaires | Principales responsabilités |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Évaluation, modération |
+| ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |  | Évaluation |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonais, Chinois | Évaluation |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, un peu de Arabe | Évaluation, structure, modération, communication |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Suédois | Structure, communication |
@@ -77,6 +78,7 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 
 | Nom | Langues supplémentaires | Principales responsabilités |
 | :-- | :-- | :-- |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arabe, Français | Évaluation |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Évaluation |
 
