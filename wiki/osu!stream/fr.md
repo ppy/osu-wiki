@@ -92,7 +92,7 @@ Le développement de cette version s'est terminé en 2020. Pour plus d'informati
 
 - Les Hold circle demandent au joueur de maintenir le cercle jusqu'à ce qu'il "explose".
 - La précision est déterminée par le début ou la fin du clic et le temps de maintien.
-  - Si le cercle a été relâché avant qu'il n'explose, le multiplicateur de combo sera remis à 0, mais le Hold circle n'entraînera pas un échec tant que le joueur aura celui-ci.
+  - Si le cercle a été relâché avant qu'il n'explose, le multiplicateur de combo sera remis à 0, mais le Hold circle n'entraînera pas un miss à partir du moment où le joueur l'a touché.
   - Si le joueur n'a pas tenu le cercle, les HP seront pris tant que le cercle n'a pas explosé.
 - Le Hold circle peut être reconnu par un "hold" sur le cercle avec un fond violet entouré de blanc.  
 
