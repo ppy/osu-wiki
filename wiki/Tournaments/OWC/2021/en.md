@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2021 banner](/wiki/shared/news/2021-09-16-osu-world-cup-2021-registrations-now-open/owc-2021-banner.jpg)
 
-The **osu! World Cup 2021** (***OWC 2021***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the twelfth instalment of the osu! World Cup.
+The **osu! World Cup 2021** (***OWC 2021***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the twelfth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **osu! World Cup 2021** (***OWC 2021***) is a country-based osu! tournament 
 
 ## Prizes
 
-The osu! World Cup 2021 offers a $5,000 cash prize pool and limited edition merch!
+The osu! World Cup 2021 offered a $5,000 cash prize pool and limited edition merch!
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -34,9 +34,11 @@ The osu! World Cup 2021 offers a $5,000 cash prize pool and limited edition merc
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, exclusive single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, exclusive single-run merch, profile badge |
 
+![](img/badge1.png "OWC 2021 winner badge") ![](img/badge2.png "OWC 2021 2nd place badge") ![](img/badge3.png "OWC 2021 3rd place badge")
+
 ## Organisation
 
-The osu! World Cup 2021 is run by the osu! team and various community members.
+The osu! World Cup 2021 was run by the osu! team and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -53,7 +55,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 - [Livestream](https://www.twitch.tv/osulive)
 - [Challonge bracket](https://challonge.com/OWC_2021)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/73) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Statistics spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRbbNXcu1NseccX52mGCXqsvRR_451sWyhsB4wbjwjQwDq4MgyPJnJOwAn7MrZIi739IW6vGERYJw3J/pubhtml)
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRbbNXcu1NseccX52mGCXqsvRR_451sWyhsB4wbjwjQwDq4MgyPJnJOwAn7MrZIi739IW6vGERYJw3J/pubhtml)
 
 ## Participants
 
@@ -111,23 +113,9 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 | ![][flag_UY] | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Rebo](https://osu.ppy.sh/users/6942259), [Kazuki K](https://osu.ppy.sh/users/6407282), [FDX](https://osu.ppy.sh/users/8987016), [Rondro](https://osu.ppy.sh/users/9293124), [Saphity](https://osu.ppy.sh/users/5382216), [El Milanga](https://osu.ppy.sh/users/12264918), [Raby](https://osu.ppy.sh/users/5218320) |
 | ![][flag_VN] | **Vietnam** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [Ui chan](https://osu.ppy.sh/users/5449433), [- Mel -](https://osu.ppy.sh/users/9829680), [kiethao](https://osu.ppy.sh/users/2283137), [\[sin\]](https://osu.ppy.sh/users/11021073), [\[Boy\]DaLat](https://osu.ppy.sh/users/8266808), [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [Liyuchi](https://osu.ppy.sh/users/3275495) |
 
-## Match schedule: Grand Finals
+## Podium
 
-### Saturday, November 27, 2021
-
-| Team A | | | Team B | Match time | Local time A | Local time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Germany | ![][flag_DE] | ![][flag_KR] | South Korea | Nov 27 (Sat) 14:00 UTC | Nov 27 (Sat) 15:00 UTC+1 | Nov 27 (Sat) 23:00 UTC+9 | ¹ |
-
-### Sunday, November 28, 2021
-
-| Team A | | | Team B | Match time | Local time A | Local time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_KR] | South Korea | Nov 28 (Sun) 04:00 UTC | Nov 28 (Sun) 00:00 UTC-4 | Nov 28 (Sun) 13:00 UTC+9 | ² |
-| United States | ![][flag_US] | ![][flag_DE] | Germany | Nov 28 (Sun) 18:00 UTC | Nov 28 (Sun) 14:00 UTC-4 | Nov 28 (Sun) 19:00 UTC+1 | ² |
-
-¹ Losers bracket match\
-² Potential match: final matchup depends on the results of ¹
+![](img/podium.jpg "OWC 2021 podium")
 
 ## Mappools
 
@@ -144,7 +132,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
   - [ARM - Rhododendron (yaspo) \[wacky\]](https://osu.ppy.sh/beatmapsets/1633222#osu/3333701)
 - Hidden
   - [Mors Principium Est - Livin' La Vida Loca (LMT) \[livin la vida mazzerin\]](https://osu.ppy.sh/beatmapsets/1538589#osu/3145691)
-  - [Cranky - Bestrafung (Icekalt) \[Extra\]](https://osu.ppy.sh/beatmapsets/1633283#osu/3333792)
+  - [Cranky - Bestrafung (Icekalt) \[Schmerzen im Handgelenk\]](https://osu.ppy.sh/beatmapsets/1633283#osu/3333793)
   - [Rish feat. Choko - Marukute Hayakute Susamajii Rhythm (Motto Susamajii Ver) (Nathan) \[CANDY PANIC BOMB!\]](https://osu.ppy.sh/beatmapsets/1633226#osu/3333706)
 - HardRock
   - [Roselia - ZEAL of proud (SkyFlame) \[Radiant\]](https://osu.ppy.sh/beatmapsets/1504153#osu/3081546)
@@ -327,6 +315,22 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
   - [-45 - NyanNyatothep (Dada) \[Gothic Horror\]](https://osu.ppy.sh/beatmapsets/1597755#osu/3263028)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1-WshrU4L2mhQtBVdPPLjGluXNOsZXFGN2VHnN0EFqyM/edit?rm=minimal).
+
+Saturday, November 27, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Germany** ![][flag_DE] | **7** | 6 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/94510355) |
+
+Sunday, November 28, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **7** | 5 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/94572116) |
 
 ### Finals
 
