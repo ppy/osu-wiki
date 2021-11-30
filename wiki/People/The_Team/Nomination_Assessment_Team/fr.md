@@ -84,7 +84,7 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Algérie"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
 [flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
