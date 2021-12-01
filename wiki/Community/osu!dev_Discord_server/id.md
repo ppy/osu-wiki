@@ -11,11 +11,11 @@ Tautan undangan permanen untuk masuk ke dalam server bisa diakses dengan <https:
 
 ## Tahap verifikasi
 
-Anggota baru dalam server tidak dapat secara langsung mengirim pesan. Jika mereka ingin mendapat akses untuk mengirim pesan, mereka dapat memposting di channel `#arrival` disertai dengan maksud dan tujuan memasuki server dan salah satu anggota tim inti osu! akan memberi hak akses dan mengangkat keterbatasan kamu dan akhirnya kamu dapat mengirim pesan.
+Anggota baru dalam server tidak dapat secara langsung mengirim pesan. Jika mereka ingin mendapat akses untuk mengirim pesan, mereka dapat memposting di *channel* `#arrival` disertai dengan maksud dan tujuan memasuki server dan salah satu anggota tim inti osu! akan memberi hak akses dan mengangkat keterbatasan kamu dan akhirnya kamu dapat mengirim pesan.
 
 ## Proyek
 
-Setiap topik pengembangan yang dibahas telah memiliki channel masing - masing:
+Setiap topik pengembangan yang dibahas telah memiliki *channel* masing - masing:
 
 | Proyek | Channel |
 | :-- | :-- |

@@ -16,7 +16,7 @@ Untuk menjaga keamanan hub komunitas resmi, osu! memiliki tim moderasi khusus ya
 
 Untungnya, masih mudah bagi kamu untuk membantu menjaga semuanya tetap aman. Berikut ini adalah sebagian kecil dari banyak cara yang dapat kamu lakukan untuk membantu:
 
-- Ikuti channel favorit kamu di [obrolan osu! dalam permainan](/wiki/Chat_Console) atau di forum.
+- Ikuti *channel* favorit kamu di [obrolan osu! dalam permainan](/wiki/Chat_Console) atau di forum.
 - Jika kamu melihat suatu peristiwa yang tidak pantas atau mengganggu, gunakan perintah `!report` dalam obrolan dalam osu! untuk memberi tahu moderator.
 
 ## Bantu anggota komunitas lainnya
