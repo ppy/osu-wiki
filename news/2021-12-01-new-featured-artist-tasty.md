@@ -42,7 +42,7 @@ Try out [the beatmap from the video above](https://osu.ppy.sh/beatmapsets/161693
     <source src="https://assets.ppy.sh/artists/221/Songs/F.O.O.L%20%26%20Laura%20Brehm%20-%20Waking%20Up.mp3" type="audio/mpeg">
 </audio>
 
-### Rhodz - Fading Horizon (Nhato Remix) [feat. Auvic & Pipo Fernandez]
+### Rhodz feat. Auvic & Pipo Fernandez - Fading Horizon (Nhato Remix)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/221/Songs/Rhodz%20-%20Fading%20Horizon%20%28Nhato%20Remix%29%20%5Bfeat.%20Auvic%20%26%20Pipo%20Fernandez%5D.mp3" type="audio/mpeg">
