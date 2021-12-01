@@ -1,5 +1,6 @@
 # GitHub web-based editor
 
+*Note: This article uses Windows key combinations.*\
 *See also: [The github.dev web-based editor - GitHub Docs](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)*
 
 [github.dev](https://github.dev) is a publicly available, GitHub-tailored web version of [Visual Studio Code](https://code.visualstudio.com). Compared to GitHub's own web editor, it offers a lot more flexibility and control over the repository's contents. github.dev is a recommended way of contributing to the osu! wiki, especially while working on several articles at once.
@@ -51,7 +52,7 @@ Articles are stored within folders with the original text (`en.md`) and its tran
 
 - Open the built-in file explorer (`Ctrl` + `Shift` + `E`).
 - Move a file or a directory by dragging it around. Hold `Ctrl` to select multiple objects.
-- To rename or delete files or directories, use the context menu or your operating system's hotkey (`F2` in Windows).
+- To rename or delete files or directories, use the context menu or press `F2`.
 - To upload a file, drag it to an appropriate place in the file explorer.
 
 ## Committing changes
