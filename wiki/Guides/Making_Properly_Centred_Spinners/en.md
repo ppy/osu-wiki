@@ -1,4 +1,4 @@
-# How to make properly centered spinners in skins
+# How to make properly centred spinners in skins
 
 [*How to make spinners symmetrical* by: ziin](https://osu.ppy.sh/community/forums/topics/51502)
 
@@ -6,7 +6,7 @@ This guide is probably hard to understand for people with little experience with
 
 ## How to make symmetrical spinners
 
-It's tiring to see wobbly spinners. Please, if you want to make a spinner, make sure it's perfectly centered.
+It's tiring to see wobbly spinners. Please, if you want to make a spinner, make sure it's perfectly centred.
 
 First open up your image editor, in this guide [GIMP](https://gimp.org) will be used, since it's free.
 
