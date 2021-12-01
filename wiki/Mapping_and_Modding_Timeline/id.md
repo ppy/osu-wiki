@@ -1,6 +1,6 @@
 # Sejarah mapping dan modding
 
-Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berubah seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini ditujukan sebagai suatu bentuk napak tilas akan berbagai perubahan yang terjadi dari masa ke masa dan sebagai pedoman bagi mereka yang ingin mencetuskan ide-ide baru untuk mengembangkan sistem mapping dan modding yang telah ada ke depannya.
+Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berubah seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini ditujukan sebagai suatu bentuk tapak tilas akan berbagai perubahan yang terjadi dari masa ke masa dan sebagai pedoman bagi mereka yang ingin mencetuskan ide-ide baru untuk mengembangkan sistem mapping dan modding yang telah ada ke depannya.
 
 ## 2007
 
@@ -388,7 +388,7 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### Desember
 
-- **2018-12-12:** Tim inti osu! menyatakan bahwa [osu! secara resmi menjauhkan diri dari praktek komisi beatmap (*beatmap commission*)](https://osu.ppy.sh/community/forums/topics/840838) yang tidak beritikad baik.
+- **2018-12-12:** Tim inti osu! menyatakan bahwa [osu! secara resmi menjauhkan diri dari praktik-praktik komisi beatmap (*beatmap commission*)](https://osu.ppy.sh/community/forums/topics/840838) yang tidak beritikad baik.
   - Dalam pengumumannya, tim inti osu! turut menambahkan bahwa walaupun praktek komisi beatmap yang demikian tidak dapat sepenuhnya diberantas, tim inti osu! akan secara proaktif turun tangan untuk menindak anggota-anggota BN/QAT yang terlibat dalam praktek terkait.
 - **2018-12-17:** ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) ditunjuk sebagai [QAT leader](/wiki/Modding/QAT_Leaders) setelah ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) mengundurkan diri.
   - Ia melanjutkan tugas QAT leader sebelumnya dalam bekerja sama dengan tim inti osu! untuk memoderasi lingkungan mapping dan modding secara keseluruhan. <!-- source is discord logs -->
