@@ -8,22 +8,22 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 ## Rankings
 
-<!-- last update: OWC 2021 (registration phase) -->
+<!-- last update: OWC 2021-->
 
 ### General ranking
 
 | Rank | Country | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] South Korea | 18 | 4 | 4 |
+| 1 | ![][flag_KR] South Korea | 18 | 4 | 5 |
 | 2 | ![][flag_JP] Japan | 10 | 5 | 2 |
-| 3 | ![][flag_US] United States | 6 | 5 | 4 |
+| 3 | ![][flag_US] United States | 7 | 5 | 4 |
 | 4 | ![][flag_CN] China | 3 | 7 | 3 |
 | 5 | ![][flag_TW] Taiwan | 3 | 7 | 1 |
 | 6 | ![][flag_BR] Brazil | 2 | 2 | 4 |
 | 7 | ![][flag_PL] Poland | 1 | 1 | 2 |
 | 8 | ![][flag_CL] Chile | 1 |  | 2 |
 | 9 | ![][flag_HK] Hong Kong |  | 4 | 1 |
-| 10 | ![][flag_DE] Germany |  | 2 | 4 |
+| 10 | ![][flag_DE] Germany |  | 3 | 4 |
 | 11 | ![][flag_PH] Philippines |  | 2 |  |
 | 12 | ![][flag_GB] United Kingdom |  | 1 | 4 |
 | 12 | ![][flag_MY] Malaysia |  | 1 | 4 |
@@ -38,17 +38,17 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 | Rank | Country | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_US] United States | 5 | 1 |  |
-| 2 | ![][flag_KR] South Korea | 3 | 1 | 2 |
+| 1 | ![][flag_US] United States | 6 | 1 |  |
+| 2 | ![][flag_KR] South Korea | 3 | 1 | 3 |
 | 3 | ![][flag_JP] Japan | 1 | 2 |  |
 | 4 | ![][flag_PL] Poland | 1 | 1 | 2 |
 | 5 | ![][flag_TW] Taiwan | 1 | 1 | 1 |
-| 6 | ![][flag_CN] China |  | 2 |  |
-| 7 | ![][flag_DE] Germany |  | 1 | 2 |
-| 7 | ![][flag_GB] United Kingdom |  | 1 | 2 |
-| 8 | ![][flag_NL] Netherlands |  | 1 |  |
-| 9 | ![][flag_BR] Brazil |  |  | 1 |
-| 9 | ![][flag_CA] Canada |  |  | 1 |
+| 6 | ![][flag_DE] Germany |  | 2 | 2 |
+| 7 | ![][flag_CN] China |  | 2 |  |
+| 8 | ![][flag_GB] United Kingdom |  | 1 | 2 |
+| 9 | ![][flag_NL] Netherlands |  | 1 |  |
+| 10 | ![][flag_BR] Brazil |  |  | 1 |
+| 10 | ![][flag_CA] Canada |  |  | 1 |
 
 ### ![][osu!taiko] osu!taiko ranking
 
