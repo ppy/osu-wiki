@@ -74,6 +74,7 @@ The results of the community voting will determine the winner of the contest. Th
 Now that all the rules are out of the way, let's unveil the prizes that will be delivered to the best of the best!
 
 | Placing | Prizes |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/gold_crown.png "1st place") | Profile badge themed around their submission, 6 months of osu!supporter |
 | ![Silver Crown](/wiki/shared/silver_crown.png "2nd place") | Profile badge themed around their submission, 4 months of osu!supporter |
 | ![Bronze Crown](/wiki/shared/silver_crown.png "3rd place") | Profile badge themed around their submission, 2 months of osu!supporter |

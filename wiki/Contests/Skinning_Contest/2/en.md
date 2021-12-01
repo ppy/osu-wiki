@@ -34,14 +34,14 @@ The Skinning Contest #2 is run by various community members.
 
 | User | Responsibility |
 | :-- | :-- |
-| ![][flag_de] [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning, graphic design |
-| ![][flag_ro] [Matt2e2](https://osu.ppy.sh/users/12144912) | Contest planning |
-| ![][flag_nl] [Roan](https://osu.ppy.sh/users/8214639) | Contest planning |
-| ![][flag_de] [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening |
-| ![][flag_gb] [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning |
-| ![][flag_nl] [vvivi](https://osu.ppy.sh/users/10432755) | Contest planning |
-| ![][flag_pl] [watterino](https://osu.ppy.sh/users/3512261) | Video editor |
-| ![][flag_tr] [Zeus-](https://osu.ppy.sh/users/5464437) | Contest planning, newspost writer |
+| ![][Flag_DE] [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning, graphic design |
+| ![][Flag_RO] [Matt2e2](https://osu.ppy.sh/users/12144912) | Contest planning |
+| ![][Flag_NL] [Roan](https://osu.ppy.sh/users/8214639) | Contest planning |
+| ![][Flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening |
+| ![][Flag_GB] [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning |
+| ![][Flag_NL] [vvivi](https://osu.ppy.sh/users/10432755) | Contest planning |
+| ![][Flag_PL] [watterino](https://osu.ppy.sh/users/3512261) | Video editor |
+| ![][Flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Contest planning, newspost writer |
 
 ## Links
 
@@ -75,9 +75,9 @@ The Skinning Contest #2 is run by various community members.
 - The file size for your .osk submission must be below 100 MB.
 - Please submit a 16:9 image representing your skin, since this will be used as a cover on the contest page.
 
-[flag_de]: /wiki/shared/flag/DE.gif "Germany"
-[flag_gb]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_nl]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_pl]: /wiki/shared/flag/PL.gif "Poland"
-[flag_ro]: /wiki/shared/flag/RO.gif "Romania"
-[flag_tr]: /wiki/shared/flag/TR.gif "Turkey"
+[Flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[Flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[Flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[Flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[Flag_RO]: /wiki/shared/flag/RO.gif "Romania"
+[Flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
