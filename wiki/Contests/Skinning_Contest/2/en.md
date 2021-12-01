@@ -45,7 +45,7 @@ The Skinning Contest #2 is run by various community members.
 
 ## Links
 
-- [Announcement newspost](https://osu.ppy.sh/home/news/2021-12-02-skinning-contest-tides-of-winter-accouncement)
+- [Announcement newspost](https://osu.ppy.sh/home/news/2021-12-02-skinning-contest-tides-of-winter-announcement)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1472845)
 - [Submission thread](https://osu.ppy.sh/community/forums/topics/1472846)
 - [Discord server](https://discord.skinship.xyz)
