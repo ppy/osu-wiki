@@ -36,7 +36,7 @@ The Skinning Contest #2 is run by various community members.
 | :-- | :-- |
 | ![][Flag_DE] [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning, graphic design |
 | ![][Flag_RO] [Matt2e2](https://osu.ppy.sh/users/12144912) | Contest planning |
-| ![][Flag_NL] [Roan](https://osu.ppy.sh/users/8214639) | Contest planning |
+| ![][Flag_NL] [Roan](https://osu.ppy.sh/users/8214639) | Contest planning, internal tool development |
 | ![][Flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening |
 | ![][Flag_GB] [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning |
 | ![][Flag_NL] [vvivi](https://osu.ppy.sh/users/10432755) | Contest planning |
