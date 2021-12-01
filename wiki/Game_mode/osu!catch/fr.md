@@ -110,32 +110,6 @@ En d’autres mots : `Accuracy = Nombre total de fruits attrapés / Nombre total
 
 Notez que si vous utilisez une API pour calculer l’accuracy, le nombre de droplet est en dessous de  **count50** et le nombre de droplets miss est en dessous de **countkatu**.
 
-### Score
-
-Le calcul du score pour osu!catch suis les mêmes multiplicateurs qu’en [osu!](/wiki/Game_mode/osu!). Toutefois, le fruit additionné au score est différent de celui d’osu!.
-
-- Un fruit de taille normal donne un score de 300 fois le multiplicateur
-- Un grand juice drop (slider tick) donne un score de 100.
-- Les tout petit drop (aussi appelés "droplet", ou chemin du slider) donne un score de 10.
-- Chaque banane collectée (collecté durant le spinner) donne un score static de 1 100 sans prendre en compte les mods et le multiplicateur de combo.
-
-Combo ne sera pas perdu si vous manquez des droplets (considérés comme *Miss Droplet* dans le classement du serveur) dans ce mode mais entrainera une perte d’accuracy et le score gagné de ceux ci.
-
-`Score = Hit Value + [Hit Value * ((Multiplicateur de combo * Multiplicateur de difficultée * Multiplicateur de mod) / 25)]`
-
-| Terme | Signification |
-| :-: | :-- |
-| **Hit Value** | Le jugement du hit circle (50, 100 ou 300), n’importe quel slider ticks, et bonus de spinner |
-| **Multiplicateur de combo** | (Combo avant ce hit - 1) ou 0; dépendant duquel est le plus grand |
-| **Multiplicateur de difficultée** | La difficultée de la beatmap |
-| **Multiplicateur de mod** | Le multiplicateur du/des mod(s) sélectionnés |
-
-**Note:** Il y a des différences entre les méthodes de calcul du score entre osu! et osu!catch :
-
-- 300s et une augmentation de combo ne donne pas de spinner final
-- Un slider ticks en sens inverse compte comme un score complet d’un hit
-  - notez que sur osu!, un tick en sens inverse donne seulement 30 points
-
 ### Jugement des hit objects
 
 **Tout sauf les bananes:**
