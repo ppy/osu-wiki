@@ -1073,7 +1073,7 @@
 "vcc":                         "Rules/Visual_Content_Considerations"
 "visual_content":              "Rules/Visual_Content_Considerations"
 
-"scorev1":                     "Score/ScoreV1"
+"scorev1":                     "Score"
 "scorev2":                     "Score#scorev2"
 "total_score":                 "Score/Total_score"
 "ranked_score":                "Score/Ranked_score"
