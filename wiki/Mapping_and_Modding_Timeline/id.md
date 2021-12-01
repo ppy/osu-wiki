@@ -89,7 +89,7 @@ Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
   - Perubahan ini utamanya dipicu oleh fakta di lapangan yang mengindikasikan bahwa sistem proto-bubble yang diberlakukan sebelumnya tidak dianggap penting oleh anggota-anggota BAT.
   - Secara tidak langsung, anggota-anggota MAT diberikan peran dan tanggung jawab yang lebih besar dalam hal moderasi beatmap. <!-- https://osu.ppy.sh/community/forums/topics/38403 -->
 - **2010-10-10:** Anggota-anggota MAT tidak lagi dapat secara langsung mencalonkan atau memberikan masukan seputar nama-nama yang diangkat sebagai MAT ke depannya.
-  - Peraturan ini diberlakukan untuk mencegah praktek kolusi internal yang dikhawatirkan dapat terjadi setelah MAT diberikan kuasa untuk menyematkan ikon bubble.
+  - Peraturan ini diberlakukan untuk mencegah praktik kolusi internal yang dikhawatirkan dapat terjadi setelah MAT diberikan kuasa untuk menyematkan ikon bubble.
   - Anggota-anggota BAT diberikan tanggung jawab penuh untuk menentukan siapa-siapa saja yang diangkat ke dalam dan diberhentikan dari MAT seiring waktu.<!-- https://osu.ppy.sh/community/forums/topics/38806 -->
 
 ### Desember
@@ -141,7 +141,7 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
 - **2013-04-23:** MAT sepenuhnya dibubarkan.
   - Seluruh anggota MAT diangkat menjadi BAT.
-  - Perubahan ini diberlakukan karena peran MAT dan BAT yang semakin menyatu antar satu sama lain. Walaupun secara teori MAT ditujukan sebagai penengah antara BAT dan komunitas mapping yang ada, dalam prakteknya pada titik ini MAT telah menyeru menjadi "BAT kedua" yang tidak memiliki kuasa untuk memberikan ikon heart.
+  - Perubahan ini diberlakukan karena peran MAT dan BAT yang semakin menyatu antar satu sama lain. Walaupun secara teori MAT ditujukan sebagai penengah antara BAT dan komunitas mapping yang ada, dalam praktiknya pada titik ini MAT telah menyeru menjadi "BAT kedua" yang tidak memiliki kuasa untuk memberikan ikon heart.
   - Lebih dari itu, terdapat banyak anggota BAT di kala itu yang sedang tidak aktif karena satu dan lain hal. <!-- https://osu.ppy.sh/community/forums/topics/129165 + https://osu.ppy.sh/community/forums/topics/129176 -->
 
 ### Mei
@@ -209,7 +209,7 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
   - Tim ini pada awalnya bernama Beatmap Appreciator, namun setelah melalui berbagai pertimbangan nama tim ini diubah menjadi Beatmap Nominator.
   - Sebagian besar anggota Beatmap Nominator tidak setuju dengan adanya perubahan ini, sebagaimana yang dapat dilihat pada [utas forum berikut](https://osu.ppy.sh/community/forums/topics/292443).<!-- https://osu.ppy.sh/community/forums/topics/292443 -->
 - **2015-02-24:** BN mulai membuka pendaftaran anggota-anggota baru melalui sistem lamaran terbuka (*BN application*).
-  - Sistem ini dibentuk untuk mendorong partisipasi komunitas secara lebih luas dan mencegah praktek nepotisme sebagaimana yang terjadi pada sistem pemungutan suara terdahulu.
+  - Sistem ini dibentuk untuk mendorong partisipasi komunitas secara lebih luas dan mencegah praktik nepotisme sebagaimana yang terjadi pada sistem pemungutan suara terdahulu.
   - Pendaftaran BN terbuka sepanjang waktu bagi seluruh pengguna yang memiliki aktivitas modding yang memadai.
 
 ### Juni
@@ -388,8 +388,8 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### Desember
 
-- **2018-12-12:** Tim inti osu! menyatakan bahwa [osu! secara resmi menjauhkan diri dari praktik-praktik komisi beatmap (*beatmap commission*)](https://osu.ppy.sh/community/forums/topics/840838) yang tidak beritikad baik.
-  - Dalam pengumumannya, tim inti osu! turut menambahkan bahwa walaupun praktek komisi beatmap yang demikian tidak dapat sepenuhnya diberantas, tim inti osu! akan secara proaktif turun tangan untuk menindak anggota-anggota BN/QAT yang terlibat dalam praktek terkait.
+- **2018-12-12:** Tim inti osu! menyatakan bahwa [osu! secara resmi menjauhkan diri dari praktik komisi beatmap (*beatmap commission*)](https://osu.ppy.sh/community/forums/topics/840838) yang tidak beritikad baik.
+  - Dalam pengumumannya, tim inti osu! turut menambahkan bahwa walaupun praktik komisi beatmap yang demikian tidak dapat sepenuhnya diberantas, tim inti osu! akan secara proaktif turun tangan untuk menindak anggota-anggota BN/QAT yang terlibat dalam praktik terkait.
 - **2018-12-17:** ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) ditunjuk sebagai [QAT leader](/wiki/Modding/QAT_Leaders) setelah ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) mengundurkan diri.
   - Ia melanjutkan tugas QAT leader sebelumnya dalam bekerja sama dengan tim inti osu! untuk memoderasi lingkungan mapping dan modding secara keseluruhan. <!-- source is discord logs -->
 - **2018-12-17:** Seruan untuk merombak ulang QAT mulai didengungkan setelah banyak pihak menilai QAT sudah tidak lagi memiliki fungsi yang nyata.
@@ -414,7 +414,7 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
   - Sistem penerimaan anggota Mappers' Guild yang lebih terbuka ini mengakibatkan jumlah beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists) yang ada meningkat tajam.
   - Kanal `#mappers-guild` dibuat secara khusus pada [server Discord osu!dev](/wiki/osu!dev_Discord_server) untuk mendukung perubahan ini.
 - **2019-03-13:** Peraturan yang mempersyaratkan selang waktu antar nominasi pertama dan nominasi kedua pada suatu beatmap harus lebih dari 24 jam dihapus.
-  - Peraturan tersebut dihapus karena para mapper merasa bahwa dalam prakteknya peraturan ini tidak efektif dan hanya membuang-buang waktu.
+  - Peraturan tersebut dihapus karena para mapper merasa bahwa dalam praktiknya peraturan ini tidak efektif dan hanya membuang-buang waktu.
   - Anggota-anggota Beatmap Nominator diberikan kuasa untuk menempatkan veto pada beatmap yang berstatus Qualified. Sebelumnya, veto hanya bisa ditempatkan pada beatmap yang telah dinominasikan namun belum mencapai status Qualified.<!-- https://osu.ppy.sh/community/forums/posts/6885033 -->
 
 ### Mei
@@ -494,7 +494,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 ### April
 
 - **2021-04-08:** Peraturan Ranking Criteria yang melarang terdapatnya beatmap-beatmap Qualified dengan lagu yang sama pada satu waktu dihapus.
-  - Peraturan ini dicabut karena rawannya praktek diskualifikasi yang tidak beritikad baik pada beatmap-beatmap yang mengusung lagu-lagu populer di kala itu.
+  - Peraturan ini dicabut karena rawannya praktik diskualifikasi yang tidak beritikad baik pada beatmap-beatmap yang mengusung lagu-lagu populer di kala itu.
 
 ### Mei
 
