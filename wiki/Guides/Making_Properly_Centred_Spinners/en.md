@@ -1,4 +1,4 @@
-# How to make properly centered spinners in skins
+# How to make properly centred spinners in skins
 
 [*How to make spinners symmetrical* by: ziin](https://osu.ppy.sh/community/forums/topics/51502)
 
@@ -6,7 +6,7 @@ This guide is probably hard to understand for people with little experience with
 
 ## How to make symmetrical spinners
 
-It's tiring to see wobbly spinners. Please, if you want to make a spinner, make sure it's perfectly centered.
+It's tiring to see wobbly spinners. Please, if you want to make a spinner, make sure it's perfectly centred.
 
 First open up your image editor, in this guide [GIMP](https://gimp.org) will be used, since it's free.
 
@@ -32,7 +32,7 @@ Here is chosen 15, but you can choose however much you want. Create a new layer 
 
 ### The spinner
 
-Repeat the process for the center dot as well, or any other circles you want. I chose 300.
+Repeat the process for the centre dot as well, or any other circles you want. I chose 300.
 
 ![Tutorial Image 4](img/MPCS_04.png "Tutorial Image 4")
 
@@ -50,7 +50,7 @@ And copy/paste the selection from the image you want to copy:
 
 ### Set canvas size
 
-Finally, you can add a design in the middle, or recolour the edges. Make sure you reset the canvas size to 666x666 by going to Image -> Canvas Size, and center the image so you have a 1 pixel border around the image.
+Finally, you can add a design in the middle, or recolour the edges. Make sure you reset the canvas size to 666x666 by going to Image -> Canvas Size, and centre the image so you have a 1 pixel border around the image.
 
 ![Tutorial Image 7](img/MPCS_07.png "Tutorial Image 7")
 
