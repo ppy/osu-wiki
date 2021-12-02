@@ -138,6 +138,43 @@ Sumalos todos y divide la suma por el número de golpes multiplicado por 300.
 - Si solo hay 300s: dara un resultado de 1.00, lo que significa 100% de precisión.
 - Si solo hay 100s: dara resultado de 0.3333 (es decir, 100/300), lo que significa un 33.33% de precisión.
 
+### Puntuación
+
+El puntaje dado por cada círculo de golpeo y el final de un control deslizante se calcula con la siguiente fórmula:
+
+`Puntuación = Valor del golpe + (Valor del golpe * ((Multiplicador del combo * Multiplicador de dificultad * Multiplicador del mod) / 25))`
+
+| Termino | Significado |
+| :-: | :-- |
+| **Valor del golpe** | El juicio del círculo de golpeo (50, 100 o 300), cualquier tic de control deslizante y bono de spinner |
+| **Multiplicador del combo** | (Combo antes de este hit - 1) o 0; el que sea más alto |
+| **Multiplicador de dificultad** | La configuración de dificultad del beatmap (ver el siguiente encabezado) |
+| **Multiplicador del mod** | El multiplicador de los mods seleccionados |
+
+Además, cada control deslizante de inicio, fin, y repetición de tics otorga 30 puntos, cada medio tic del control deslizante otorga 10 puntos y cada giro de una ruleta otorga 100 puntos.
+
+Bonificación adicional de 1,000 puntos dados por cada giro de una ruleta después de que el medidor de giro esté lleno.
+
+#### Cómo calcular el multiplicador de dificultad
+
+[Tamaño de circulos (CS)](/wiki/Beatmap_Editor/Song_Setup), [Drenaje de vida (HP)](/wiki/Beatmap_Editor/Song_Setup) and [Dificultad general (OD)](/wiki/Beatmap_Editor/Song_Setup) cada uno da un punto en los *puntos de dificultad*.
+
+Los *puntos de dificultad* acumulados afectan el **multiplicador de dificultad** como tal:
+
+| Rango de puntos de dificultad | Dificultad multiplicador |
+| :-: | :-- |
+| 0 - 5 | Multiplicador 2x |
+| 6 - 12 | Multiplicador 3x |
+| 13 - 17 | Multiplicador 4x |
+| 18 - 24 | Multiplicador 5x |
+| 25 - 30 | Multiplicador 6x |
+
+El límite más alto es de 27 puntos de dificultad con CS7, OD10 y HP10. El límite más bajo es de 2 puntos de dificultad con CS2, OD0 y HP0.
+
+El CS normalmente no puede ir por debajo de 2 o por encima de 7 (requiere una modificación directa del archivo `.osu`).
+
+Ten en cuenta que los modificadores de juego (como Hard Rock/Easy) no cambiarán el **Multiplicador de dificultad**. Sólo se dará cuenta los valores originales.
+
 ### Juicio de los circulos de golpeo
 
 **Circulos de golpeo:**

@@ -137,6 +137,43 @@ Add them all together and divide the sum with the number of hits multiplied by 3
 - If only 300s: a result of 1.00, which means 100% accuracy.
 - If only 100s: a result of 0.3333 (i.e. 100/300), which means 33.33% accuracy.
 
+### Score
+
+The score given by each hit circle and end of a slider is calculated with the following formula:
+
+`Score = Hit Value + (Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25))`
+
+| Term | Meaning |
+| :-: | :-- |
+| **Hit Value** | The hit circle judgement (50, 100 or 300), any slider ticks and spinner's bonus |
+| **Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher |
+| **Difficulty multiplier** | The difficulty setting for the beatmap (see next header) |
+| **Mod multiplier** | The multiplier of the selected mods |
+
+Additionally each slider start, end and repeat tick awards 30 points, each slider middle tick awards 10 points and each spin of a spinner awards 100 points.
+
+Additional bonus of 1,000 points given for each spin of a spinner after the spinner meter is full.
+
+#### How to calculate the Difficulty multiplier
+
+[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup) and [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup) each give a tick on *difficulty point*.
+
+The accumulated *difficulty points* affect the **Difficulty multiplier** as so:
+
+| Difficulty points range | Difficulty multiplier |
+| :-: | :-- |
+| 0 - 5 | 2x multiplier |
+| 6 - 12 | 3x multiplier |
+| 13 - 17 | 4x multiplier |
+| 18 - 24 | 5x multiplier |
+| 25 - 30 | 6x multiplier |
+
+The limited highest is 27 difficulty points with CS7, OD10 and HP10. The limited lowest is 2 difficulty points with CS2, OD0 and HP0.
+
+CS cannot normally go below 2 or above 7 (requires direct modification to the `.osu` file).
+
+Note that game modifiers (like Hard Rock/Easy) will not change the **Difficulty multiplier**. It will only account for original values only.
+
 ### Hit objects judgement
 
 **Hit circles:**

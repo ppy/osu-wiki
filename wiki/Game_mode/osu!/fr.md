@@ -138,6 +138,43 @@ Additionnez-les tous et divisez la somme par le nombre de hits multiplié par 30
 - Si vous obtenez que des 300s: un résultat de 1,00, ce qui signifie une précision de 100%.
 - Si vous obtenez que des 100s: un résultat de 0,3333 (c'est-à-dire 100/300), ce qui signifie une précision de 33,33%.
 
+### Score
+
+Le score donné par chaque hit circle et la fin d'un slider est calculé à l'aide de la formule suivante:
+
+`Score = Hit Value + (Hit Value * ((Multiplicateur de combo * Multiplicateur de difficulté * Multiplicateur de mod) / 25))`
+
+| Terme | Sens |
+| :-: | :-- |
+| **Hit Value** | Le nombre de points attribué pour chaque hit circle (50, 100 ou 300), ticks de sliders et bonus des spinners |
+| **Multiplicateur Combo** | (Combo avant ce hit - 1) ou 0; le plus élevé |
+| **Multiplicateur de difficulté** | Le paramètre de difficulté pour le beatmap (voir en-tête suivant) |
+| **Multiplicateur de mod** | Le multiplicateur des mods sélectionnés |
+
+De plus, chaque tick de début de slider, de fin de slider et de répétition attribue 30 points, chaque tick de milieu de slider attribue 10 points et chaque spinner attribue 100 points.
+
+Un bonus supplémentaire de 1 000 points est attribué à chaque tour du spinner une fois que le spinner est réussi (marqué comme clear).
+
+#### Comment calculer le multiplicateur de difficulté
+
+[Taille du cercle (Circle Size, CS)](/wiki/Beatmap_Editor/Song_Setup), [Drain de vie (HP Drain)](/wiki/Beatmap_Editor/Song_Setup) and [Difficulté générale (Overall Difficulty, OD)](/wiki/Beatmap_Editor/Song_Setup) chacun a un impact sur *le point de difficulté*.
+
+Les *points de difficulté* accumulés affectent le **multiplicateur de difficulté** ainsi:
+
+| Intervalle de point de difficulté | Multiplicateur de difficulté |
+| :-: | :-- |
+| 0 - 5 | multiplicateur x2 |
+| 6 - 12 | multiplicateur x3 |
+| 13 - 17 | multiplicateur x4 |
+| 18 - 24 | multiplicateur x5 |
+| 25 - 30 | multiplicateur x6 |
+
+La limite la plus haute est de 27 points de difficulté avec CS7, OD10 et HP10.La limite la plus basse est de 2 points de difficulté avec CS2, OD0 et HP0.
+
+Le CS (Circle Size) ne peut normalement pas descendre en dessous de 2 ni monter au dessus de 7 (nécessite une modification manuelle dans le fichier `.osu`).
+
+Notez que les modificateurs de jeu (comme Hard Rock/Easy) ne changeront pas le **multiplicateur de difficulté**. Cela ne tiendra compte que des valeurs d'origine.
+
 ### Prise en compte des hit objects
 
 **Hit Circles:**

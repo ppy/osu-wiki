@@ -115,6 +115,43 @@ Contrairement à osu! ou osu!catch, un miss en Taiko ne réduira pas considérab
 
 Par exemple, dans une difficultée typique, casser un combo au milieu de la chanson, sans compter les grandes notes et les spinners, entraînerait une perte maximale de 44 000 points (cela ramènera le combo à 100)
 
+### Score
+
+Chaque GREAT (excluant le bonus 1.2x du Kiai Time’s) vaut *300 + RoundDown (Combo / 10)* fois *n* jusqu'à un maximum de *300 + 10n* points, dans lequel *n* dépend de la difficulté du morceau.
+
+Chaque *GOOD* donne la moitié du score d’un *GREAT*, tandis que pour un *MISS/BAD* donne un score de zéro.
+
+Le double du score est donné pour un *hit réalisé avec succès* sur les grandes notes (c’est différent de *Taiko no Tatsujin*, les côtés droits et gauches du tambour doivent être toujours frapper au même moment précisément pour avoir un hit réalisé avec succès pour les grandes notes).
+
+Pour les longues notes jaunes (drumroll), chaque hit rapporte 300 points tandis que les grand hit rapportent 600 points.
+
+Pour les notes denden/spinner, chaque strike/spin donne 300 points et finir un denden/spinner donne un score deux fois plus grand qu'un GREAT du combo actuel.
+
+Une valeur typique de *n* (difficultée 4.5-5 étoile dans le vieux système de 5 étoiles) est 80, ce qui donne un score de 1,100/2,200 à 100 de combo et les combos d’après. Pour la difficultée 4 -4.5 étoiles, *n* est égal à 64 qui donne un score maximum par hit de 940/1,880. Dans la plus grande difficultée, *n* est égal à 96 qui donne un score maximum par hit de 1,260/2,520. Il y a des valeurs plus basses de *n* pour les difficultés plus faciles.
+
+Contrairement à [osu!](/wiki/Game_mode/osu!)/[osu!catch](/wiki/Game_mode/osu!catch), un miss en osu!taiko ne va pas causer une différence *drastique* de score par rapport au score maximal possible (dans osu!/osu!catch, plus le combo maximum est élevé et surtout plus près de la moitié du combo maximum, plus les dégâts de déviation dus à une frappe augmentent). A la place, un score constant de *n* (explique au dessus) est réduit par miss si chaque miss est séparé de plus de 100 combos. Avec l'existence des spinner et des grandes notes, la perte de score sera plus grande.
+
+Par exemple, dans une difficultée normale(80), casser un combo au milieu d’une chanson sans prendre en compte les grandes notes et les spinners, va résulter d’une perte de 44,000 points (pour ramener le combo à 100, tous les scores doivent être en GREAT).
+
+Aussi contrairement aux autres modes de jeux, le Kiai Time a un effet sur les scores car il fait référence au *"Go-Go Time"* dans le jeu *Taiko no Tatsujin*. Quand le Kiai Time est actif, Le tambour en haut à gauche change d’animation, le terrain de jeu à un arrière plan en dégradé et la surface de hit gagne un design enflammé autour d’elle. En plus, chaque note hit gagnent x1,2 de multiplicateur de score, les grandes notes jaunes (drumroll) incluses, exceptés pour les hits sur un denden/spinner (le hit final est toujours multiplié).
+
+Pour faire court : `Score = {Valeur du score + [min(RoundDown(Combo / 10), 10) * RoundDown(multiplicateur de score taiko * multiplicateur du mod brut)]} * Kiai Time`
+
+| Terme | Sens |
+| :-: | :-- |
+| **Valeur du score** | La valeur du score gagné par un hit (300/600, 150/300, ou 0/0). |
+| **Combo** | (Combo avant ce hit -1) ou 0; dépendant du plus fort |
+| **multiplicateur de score taiko** | \[Dépent de la difficultée\] Les valeurs possibles sont : 32, 48, 64, 80, 96 |
+| **multiplicateur du mod brut** | Le multiplicateur *brut* du mod sélectionné (les multiplicateurs sont arrondis) |
+| **RoundDown** | Arrondis cette valeur en un nombre entier, en supprimant toutes les valeurs décimales. |
+| **min(x, y)** | Choisi toujours la valeur la plus basse entre *x* ou *y*. |
+| **Kiai Time** | Si le Kiai Time est actif, cette valeur est 1,2. Autrement cette valeur est 1,0. |
+
+**Exceptions:**
+
+- Chaque drumroll hit réussi donne un score GREAT constant (300/600 pour les petits/grands drumroll respectivement) avec le Kiai Time bonus seulement.
+- Chaque touche de denden/spinner donne un score GREAT constant (300) sans le bonus Kiai Time excepté pour la dernière touche du denden/spinner, qui donne un grand score GREAT (600) avec le multiplicateur de combo actuel.
+
 ### Jugement sur les objets de hit
 
 **Petite/Grande notes:**

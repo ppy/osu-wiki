@@ -216,6 +216,54 @@ En d'autres termes : `Précision = Total des points de hit / (Nombre total de hi
 
 Notez que les MAX (ou 300 arc-en-ciel) et 300 valent tous les deux le maximum pour le calcul de la précision, malgré qu'un MAX vaille plus en terme de score qu'un 300.
 
+### Score
+
+Chaque beatmap a le même score maximal de 1 million (1,000,000).
+
+Le score est donné en deux parties, le score de base et le score bonus, chacun contribuant 50% du score total.
+
+- Le score de base est basé sur le jugement des hits.
+  - Un 300 arc-en-ciel vaut un peu plus qu'un 300.
+- Le score bonus est basé sur le jugement des hit ainsi que le multiplicateur bonus flottant.
+  - Le multiplicateur augmente avec les 300 arc-en-ciel ou les 300, alors qu'il diminue avec les autres.
+  - Meilleur est le jugement, plus élevé sera le multiplicateur.
+    - Il y a un maximum au multiplicateur.
+
+Le score donné par chaque note est calculé comme suit :
+
+```
+Score = BaseScore + BonusScore
+
+BaseScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitValue / 320)
+
+BonusScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitBonusValue * Sqrt(Bonus) / 320)
+Bonus = Bonus avant ce hit + HitBonus - HitPunishment / ModDivider
+Bonus est limité à [0, 100], initiallement 100.
+
+MaxScore = 1 000 000
+ModMultiplier = Le multiplicateur de score des mods sélectionnés (réduction de difficulté et/ou nK)
+ModDivider = Le diviseur de sanction des mods sélectionnés (augmentation de difficulté)
+
+Judgement  HitValue  HitBonusValue  HitBonus  HitPunishment
+   MAX       320          32            2
+   300       300          32            1
+   200       200          16                        8
+   100       100           8                       24
+    50        50           4                       44
+  Miss         0           0                        ∞
+
+       Mod  ModMultiplier  ModDivider
+      Easy       0.5
+    NoFail       0.5
+  HalfTime       0.5
+  HardRock                    1.08
+DoubleTime                     1.1
+ NightCore                     1.1
+    FadeIn                    1.06
+    Hidden                    1.06
+Flashlight                    1.06
+```
+
 ### Jugement des hit objects
 
 **Notes:**
