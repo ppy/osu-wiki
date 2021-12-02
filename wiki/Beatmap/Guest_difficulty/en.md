@@ -16,7 +16,7 @@ Although not mandatory, having guest difficulties can be beneficial in many occa
 
 Guest difficulties are not to be confused with difficulties that feature multiple creators, which are instead known as [collaborative difficulties](/wiki/Beatmap/Beatmap_collaborations).
 
-## Guest difficulty ownership
+## Ownership
 
 ![](img/gd_ownership.png)
 
