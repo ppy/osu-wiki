@@ -60,7 +60,7 @@ Esses são os típicos níveis de dificuldade que um beatmap pode ser categoriza
 
 ## Star rating
 
-![Variações da classificação de estrelas](img/SR-range.png)
+![Variações da classificação de estrelas](/wiki/shared/star-rating/spectrum.png)
 
 No site, beatmaps são automaticamente dados um ícone de dificuldade baseado na variação de sua classificação de estrelas:
 

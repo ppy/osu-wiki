@@ -519,7 +519,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### September
 
-- **2021-09-11:** peppy changed Ranking Criteria rule about the Source field. <!-- https://github.com/ppy/osu-wiki/commit/02dee3fff09c3e890dc408271bb3d2d93c3c5b2d -->
+- **2021-09-11:** ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) changed Ranking Criteria rule about the Source field. <!-- https://github.com/ppy/osu-wiki/commit/02dee3fff09c3e890dc408271bb3d2d93c3c5b2d -->
   - Mapping community members were unhappy with the lack of public discussion behind this change and later made adaptations to close new loopholes. <!-- https://osu.ppy.sh/community/forums/topics/1417764?n=1 -->
 - **2021-09-18:** After a decade-long hiatus, the osu! community meetings returned in the form of stage voice chats on the osu!dev Discord. The first primary topic addressed was [concerns with osu!mania's Ranking Criteria](https://osu.ppy.sh/community/forums/topics/1388182?n=1), along with other issues like general Ranking Criteria complexity, engaging with newer mappers, and more.
   - osu!mania Ranking Criteria changes were put up for discussion and, if agreed upon, may take effect soon. <!-- document effects of this with next update https://osu.ppy.sh/community/forums/topics/1418542?n=1 / https://osu.ppy.sh/community/forums/topics/1418560?n=1 -->
