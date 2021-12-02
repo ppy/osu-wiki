@@ -20,6 +20,6 @@ Guest difficulties are not to be confused with difficulties that feature multipl
 
 ![](img/gd_ownership.png)
 
-Once a beatmap has been uploaded and put into [Work in Progress or Pending](wiki/Beatmap/Category#work-in-progress-and-pending), the beatmap host may then hand over ownership of the guest difficulties in the beatmap to their corresponding creators through the `Difficulty Owner` button found on the [beatmap discussion page](wiki/Beatmap_Discussion). This allows for the guest difficulty owners to answer and resolve pending issues in their difficulties by their own.
+Once a beatmap has been uploaded and put into [Work in Progress or Pending](wiki/Beatmap/Category#work-in-progress-and-pending), the beatmap host may then hand over ownership of the guest difficulties present in the beatmap to their corresponding creators through the `Difficulty Owner` button on the [beatmap discussion page](wiki/Beatmap_Discussion). This allows for the guest difficulty owners to answer and resolve pending issues on their difficulties by their own.
 
 Ownership of a guest difficulty may no longer be changed once the map has either been [Qualified](wiki/Beatmap/Category#qualified), [Ranked](wiki/Beatmap/Category#ranked), or [Loved](wiki/Beatmap/Category#loved).
