@@ -75,9 +75,9 @@ Now that all the rules are out of the way, let's unveil the prizes that will be 
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/gold_crown.png "1st place") | Profile badge themed around their submission, 6 months of osu!supporter |
-| ![Silver Crown](/wiki/shared/silver_crown.png "2nd place") | Profile badge themed around their submission, 4 months of osu!supporter |
-| ![Bronze Crown](/wiki/shared/silver_crown.png "3rd place") | Profile badge themed around their submission, 2 months of osu!supporter |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge themed around their submission, 6 months of osu!supporter |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Profile badge themed around their submission, 4 months of osu!supporter |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Profile badge themed around their submission, 2 months of osu!supporter |
 
 ---
 
