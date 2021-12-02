@@ -12,7 +12,7 @@ tags:
 
 A **guest difficulty** (or *GD* for short) is a [difficulty](/wiki/Beatmap/Difficulty) of a [beatmap](/wiki/Beatmap) that is not created by the [beatmap host](/wiki/Beatmap/Beatmap_host). They can usually be identified by their difficulty name containing the guest creator's username.
 
-Although not mandatory, having guest difficulties can be beneficial in many occasions as they often feature a completely different mapping approach between one another (therefore diversifying the mapset) and help reduce mapping burnout. Guest difficulties are most commonly requested through private messages between creators, although they may also be requested by other means such as the in-game `#mapping` channel or [modding queues](https://osu.ppy.sh/community/forums/60)<!-- TODO: should link to an article about queues, not the forum -->.
+Although not mandatory, having guest difficulties can be beneficial in many occasions as they often feature completely different mapping styles between one another, which diversifies the mapset, and help reduce mapping burnout. Guest difficulties are most commonly requested through private messages between creators, although they may also be requested by other means such as the in-game `#mapping` channel or [modding queues](https://osu.ppy.sh/community/forums/60)<!-- TODO: should link to an article about queues, not the forum -->.
 
 Guest difficulties are not to be confused with difficulties that feature multiple creators, which are instead known as *[collabs](/wiki/Beatmap/Beatmap_collaborations)*.
 
