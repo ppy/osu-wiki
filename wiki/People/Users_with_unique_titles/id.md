@@ -2,7 +2,7 @@
 
 Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status keanggotaan mereka dalam suatu [gugus pengguna (*user group*)](/wiki/People/The_Team#gugus-pengguna). Meskipun demikian, terdapat beberapa pengguna yang secara khusus dianugerahi gelar-gelar tertentu dengan berbagai alasan mulai dari prestasi, kontribusi, hingga momen-momen unik yang telah mereka torehkan.
 
-## Pemenang bertahan World Cup
+## Juara bertahan World Cup
 
 Setiap tahunnya, osu! menganugerahkan para pemenang turnamen [World Cup](/wiki/Tournaments#turnamen-resmi) dengan gelar khusus yang berhak untuk mereka sandangi selama kurang lebih satu tahun hingga penyelenggaraan turnamen World Cup berikutnya.
 
@@ -43,11 +43,11 @@ Berikut merupakan para pemenang [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) yan
 - ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019)
 - ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363)
 
-## Penyandang gelar mantan pemenang World Cup
+## Mantan juara World Cup
 
-Sejak November 2021, pemenang World Cup yang sudah lewat diberikan gelar **Former osu!/osu!taiko/osu!catch/osu!mania Champion**. Untuk pemain yang telah memenangkan World Cup lebih dari sekali, mereka diberikan gelar sesua dengan kemenangan World Cup terakhir yang diraih.
+Sejak November 2021, para pemenang turnamen-turnamen World Cup yang telah lalu turut dianugerahkan dengan gelar **Former osu!/osu!taiko/osu!catch/osu!mania Champion**. Untuk para pemain yang telah memenangkan lebih dari satu World Cup, mereka akan menyandang gelar yang sesuai dengan turnamen World Cup terakhir yang mereka menangkan.
 
-Berikut merupakan para mantan pemenang osu! World Cup dengan menyandang gelar **Former osu! Champion**:
+Berikut merupakan para mantan pemenang osu! World Cup yang menyandang gelar **Former osu! Champion**:
 
 | Turnamen | Gelar | Penyandang gelar |
 | :-: | :-- | :-- |
@@ -63,7 +63,7 @@ Berikut merupakan para mantan pemenang osu! World Cup dengan menyandang gelar **
 | [OWC 2019](/wiki/Tournaments/OWC/2019) | Former osu! Champion: 2019 | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315), ![][flag_US] [t\[-_-t\]](https://osu.ppy.sh/users/2644828), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) |
 | [OWC 2020](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2020 | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603), ![][flag_US] [Rektygon](https://osu.ppy.sh/users/7813296), ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
 
-Berikut merupakan para mantan pemenang osu!taiko World Cup dengan menyandang gelar **Former osu!taiko Champion**:
+Berikut merupakan para mantan pemenang osu!taiko World Cup yang menyandang gelar **Former osu!taiko Champion**:
 
 | Turnamen | Gelar | Penyandang gelar |
 | :-:| :-- | :-- |
@@ -78,7 +78,7 @@ Berikut merupakan para mantan pemenang osu!taiko World Cup dengan menyandang gel
 | [TWC 2019](/wiki/Tournaments/TWC/2019) | Former osu!taiko Champion: 2019 | ![][flag_JP] [isobe](https://osu.ppy.sh/users/8047347), ![][flag_JP] [v2fax](https://osu.ppy.sh/users/7739269) |
 | [TWC 2020](/wiki/Tournaments/TWC/2020) | Former osu!taiko Champion: 2020 | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401), ![][flag_JP] [kiyozi11](https://osu.ppy.sh/users/9551196) |
 
-Berikut merupakan para mantan pemenang osu!catch World Cup dengan menyandang gelar **Former osu!catch Champion**:
+Berikut merupakan para mantan pemenang osu!catch World Cup yang menyandang gelar **Former osu!catch Champion**:
 
 | Turnamen | Gelar | Penyandang gelar |
 | :-:| :-- | :-- |
@@ -92,7 +92,7 @@ Berikut merupakan para mantan pemenang osu!catch World Cup dengan menyandang gel
 | [CWC 2019](/wiki/Tournaments/CWC/2019) | Former osu!catch Champion: 2019 | *N/A* |
 | [CWC 2020](/wiki/Tournaments/CWC/2020) | Former osu!catch Champion: 2020 | ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276), ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598), ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520) |
 
-Berikut merupakan para mantan pemenang osu!mania World Cup dengan menyandang gelar **Former osu!mania Champion**:
+Berikut merupakan para mantan pemenang osu!mania World Cup yang menyandang gelar **Former osu!mania Champion**:
 
 | Turnamen | Gelar | Penyandang gelar |
 | :-:| :-- | :-- |
@@ -264,7 +264,7 @@ Pemain-pemain berikut memperoleh gelarnya masing-masing atas keberhasilan mereka
 
 ## Kontributor
 
-Para pengguna berikut ini diberikan gelar atas kontribusi yang signifikan atau menjadi figur contoh yang baik dalam bidangnya masing-masing.
+Para pengguna berikut memperoleh gelarnya masing-masing atas kontribusi mereka yang signifikan atau prestasi mereka sebagai sosok panutan dalam bidangnya masing-masing.
 
 | Pengguna | Gelar |
 | :-- | :-- |
@@ -286,7 +286,7 @@ Para pengguna berikut ini diberikan gelar atas kontribusi yang signifikan atau m
 
 ## Lainnya
 
-Para pengguna berikut ini diberikan gelar atas beraneka alasan.
+Para pengguna berikut memperoleh gelarnya masing-masing atas berbagai alasan yang tidak lazim.
 
 | Pengguna | Gelar |
 | :-- | :-- |
