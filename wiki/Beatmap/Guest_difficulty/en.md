@@ -18,7 +18,9 @@ Guest difficulties are not to be confused with difficulties that feature multipl
 
 ## Ownership
 
-![](img/gd_ownership.png "\"Difficulty Owner\" menu on the website")
+::: Infobox
+![](img/gd_ownership.png "An example of the guest difficulty ownership control panel")
+:::
 
 On the [beatmap discussion page](wiki/Beatmap_Discussion), the beatmap host may transfer ownership of guest difficulties to their respective creators through the `Difficulty Owner` button. This allows for the guest difficulty owners to resolve pending issues in their difficulties on their own.
 
