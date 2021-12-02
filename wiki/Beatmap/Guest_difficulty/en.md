@@ -22,4 +22,4 @@ Guest difficulties are not to be confused with difficulties that feature multipl
 
 On the [beatmap discussion page](wiki/Beatmap_Discussion), the beatmap host may hand over ownership of guest difficulties present in the beatmap to their respective creators through the `Difficulty Owner` button. This allows for the guest difficulty owners to answer and resolve pending issues in their difficulties on their own.
 
-Ownership of a guest difficulty may no longer be changed once the beatmap has either been [Qualified](wiki/Beatmap/Category#qualified), [Ranked](wiki/Beatmap/Category#ranked), or [Loved](wiki/Beatmap/Category#loved).
+Ownership of a guest difficulty cannot be changed if the beatmap is [Qualified](wiki/Beatmap/Category#qualified), [Ranked](wiki/Beatmap/Category#ranked), or [Loved](wiki/Beatmap/Category#loved).
