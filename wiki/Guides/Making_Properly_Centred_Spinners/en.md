@@ -32,7 +32,7 @@ Here is chosen 15, but you can choose however much you want. Create a new layer 
 
 ### The spinner
 
-Repeat the process for the center dot as well, or any other circles you want. I chose 300.
+Repeat the process for the centre dot as well, or any other circles you want. I chose 300.
 
 ![Tutorial Image 4](img/MPCS_04.png "Tutorial Image 4")
 
@@ -50,7 +50,7 @@ And copy/paste the selection from the image you want to copy:
 
 ### Set canvas size
 
-Finally, you can add a design in the middle, or recolour the edges. Make sure you reset the canvas size to 666x666 by going to Image -> Canvas Size, and center the image so you have a 1 pixel border around the image.
+Finally, you can add a design in the middle, or recolour the edges. Make sure you reset the canvas size to 666x666 by going to Image -> Canvas Size, and centre the image so you have a 1 pixel border around the image.
 
 ![Tutorial Image 7](img/MPCS_07.png "Tutorial Image 7")
 
