@@ -8,7 +8,7 @@ Applicants are required to meet a modding activity requirement, submit at least 
 
 ## Basic criteria
 
-Modders aiming to apply to the Beatmap Nominators must fulfill the following criteria:
+Modders aiming to apply to the Beatmap Nominators must fulfil the following criteria:
 
 - They have been modding beatmaps actively for at least 3 months prior to applying.
 - They have accumulated at least 150 or 200 [kudosu](/wiki/Modding/Kudosu) in total, depending on the mode they will apply to.
@@ -23,7 +23,7 @@ Modders aiming to apply to the Beatmap Nominators must fulfill the following cri
 
 ### Modding expectations
 
-Submitted mods should show that a user is capable of analyzing and improving maps to a standard fit for the Beatmap Nominators.
+Submitted mods should show that a user is capable of analysing and improving maps to a standard fit for the Beatmap Nominators.
 
 The following are modding traits expected of Beatmap Nominators. Failure to display any of these traits may result in a rejected application.
 

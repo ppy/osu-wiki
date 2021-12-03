@@ -66,7 +66,7 @@ Due to people with large numbers of beatmaps complaining about the load time of 
 
 ## December
 
-The last month of 2008 had plenty in store for osu!'s development. By osu!'s second Christmas, the first version of the Storyboarding Editor was implemented, making storyboarding much more accessible to users. A second multiplayer mode was added: "Tag Play." It was a cooperative mode where players took turns playing a beatmap. Another addition to multiplayer was "Accuracy as a victory condition". MSN and Yahoo status were integrated, and users could fully customize key bindings and chat highlight trigger words.
+The last month of 2008 had plenty in store for osu!'s development. By osu!'s second Christmas, the first version of the Storyboarding Editor was implemented, making storyboarding much more accessible to users. A second multiplayer mode was added: "Tag Play." It was a cooperative mode where players took turns playing a beatmap. Another addition to multiplayer was "Accuracy as a victory condition". MSN and Yahoo status were integrated, and users could fully customise key bindings and chat highlight trigger words.
 
 Thumbnail and audible previews were added to the online beatmap listing, making browsing for a beatmap you'd like to play a much easier task.
 

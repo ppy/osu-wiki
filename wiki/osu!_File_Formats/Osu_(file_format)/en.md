@@ -80,7 +80,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 | `CircleSize` | Decimal | CS setting (0–10) |
 | `OverallDifficulty` | Decimal | OD setting (0–10) |
 | `ApproachRate` | Decimal | AR setting (0–10) |
-| `SliderMultiplier` | Decimal | Base slider velocity in hecto-[osu! pixels](/wiki/osupixel) per beat <!-- TODO: this prefix sounds awful ಠ_ಠ --> |
+| `SliderMultiplier` | Decimal | Base slider velocity in hundred-[osu! pixels](/wiki/osupixel) per beat |
 | `SliderTickRate` | Decimal | Amount of slider ticks per beat |
 
 ## Events
@@ -96,7 +96,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 *Background syntax:* `0,0,filename,xOffset,yOffset`
 
 - **`filename` (String):** Location of the background image relative to the beatmap directory. Double quotes are usually included surrounding the filename, but they are not required.
-- **`xOffset` (Integer)** and **`yOffset` (Integer):** Offset in [osu! pixels](/wiki/osupixel) from the center of the screen. For example, an offset of `50,100` would have the background shown 50 osu! pixels to the right and 100 osu! pixels down from the center of the screen. If the offset is `0,0`, writing it is optional.
+- **`xOffset` (Integer)** and **`yOffset` (Integer):** Offset in [osu! pixels](/wiki/osupixel) from the centre of the screen. For example, an offset of `50,100` would have the background shown 50 osu! pixels to the right and 100 osu! pixels down from the centre of the screen. If the offset is `0,0`, writing it is optional.
 
 ### Videos
 
@@ -168,7 +168,7 @@ The second timing point at 12 seconds is inherited, changing the slider velocity
 
 ## Colours
 
-All options in this section represent colours. They are comma-separated triplets of integers 0–255, representing the red, green, and blue components of the colors.
+All options in this section represent colours. They are comma-separated triplets of integers 0–255, representing the red, green, and blue components of the colours.
 
 | Option | Description |
 | :-- | :-- |
@@ -216,7 +216,7 @@ In every mode except osu!mania, the `LayeredHitSounds` skin property forces the 
 
 #### Custom hit samples
 
-Usage of `hitSample` can further customize the sounds that play. It defaults to `0:0:0:0:` if it is not written.
+Usage of `hitSample` can further customise the sounds that play. It defaults to `0:0:0:0:` if it is not written.
 
 *Hit sample syntax:* `normalSet:additionSet:index:volume:filename`
 
@@ -349,7 +349,7 @@ osu!taiko's hit objects only use `time` to determine how they are placed on the 
 
 ### osu!catch
 
-osu!catch's play field only uses the x-axis, so `y` is not relevant. Slider curves may utilize vertical space to achieve horizontal acceleration when they are flattened to a one-dimensional play field.
+osu!catch's play field only uses the x-axis, so `y` is not relevant. Slider curves may utilise vertical space to achieve horizontal acceleration when they are flattened to a one-dimensional play field.
 
 - Hit circles become fruits.
 - Sliders become juice streams, with fruits on each edge.

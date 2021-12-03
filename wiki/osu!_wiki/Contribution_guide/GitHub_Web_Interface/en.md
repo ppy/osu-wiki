@@ -6,7 +6,7 @@
 
 1. Open the code tab on your fork (you should already be on this tab).
 
-2. Navigate to the file you want to edit. The articles are located in the `wiki` folder and are organized by the folder names being the article names, while the `.md` files are the translations.
+2. Navigate to the file you want to edit. The articles are located in the `wiki` folder and are organised by the folder names being the article names, while the `.md` files are the translations.
 
 3. Once you find the correct file, click on it.
 

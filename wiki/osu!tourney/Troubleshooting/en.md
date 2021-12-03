@@ -1,7 +1,7 @@
 ---
 needs_cleanup: true
 ---
-<!-- TODO: same problem as FAQ page. organizing articles with only questions renders it useless beyond direct section links -->
+<!-- TODO: same problem as FAQ page. organising articles with only questions renders it useless beyond direct section links -->
 
 # osu!tourney troubleshooting
 
@@ -15,7 +15,7 @@ Disable any secondary monitors! osu!tourney only runs on the primary monitor. Ma
 
 ## osu!tourney does not open, it throws me an error prompt and/or closes!
 
-- Make sure that you are signed in to osu! and that the "Remember Username" and "Remember Passwword" checkboxes are checked.
+- Make sure that you are signed in to osu! and that the "Remember Username" and "Remember Password" checkboxes are checked.
 - Ensure that the `privateserver` key in `tournament.cfg` has no value set.
 
 ## My osu! song database corrupts when starting up!

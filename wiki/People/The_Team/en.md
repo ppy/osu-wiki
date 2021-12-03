@@ -17,13 +17,13 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Project lead** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Modding and mapping scene advisor |
-| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | World Cup organizer and administrator |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | World Cup organiser and administrator |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderation and community advisor |
-| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup organizer and administrator |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup organiser and administrator |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Project and community maintainer, Featured Artist outreach |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Design lead, resident Creative Cloud watcher |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Modding and mapping scene advisor |
-| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup organizer and administrator |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup organiser and administrator |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | osu!web developer |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeper, moderation advisor |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!web developer, [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
@@ -41,7 +41,7 @@ In addition to the above, the [account support team](Account_support_team) is th
 
 ## User groups
 
-The following are user groups which are made up of the osu! community members that help maintain osu!. Most of these user groups can be recognized by their forum colours, in-game chat colours, profile titles, and/or profile badges.
+The following are user groups which are made up of the osu! community members that help maintain osu!. Most of these user groups can be recognised by their forum colours, in-game chat colours, profile titles, and/or profile badges.
 
 | Name | Description |
 | :-- | :-- |

@@ -8,7 +8,7 @@ tags:
 
 ![KCC2021 banner](img/banner.png)
 
-The **Korean Charting Contest 2021** (***KCC2021***) is a osu!mania mapping contest for users from ![][flag_KR] South Korea. It was the first installment of the Korean Charting Contest.
+The **Korean Charting Contest 2021** (***KCC2021***) is a osu!mania mapping contest for users from ![][flag_KR] South Korea. It was the first instalment of the Korean Charting Contest.
 
 ## Contest schedule
 
@@ -84,7 +84,7 @@ The **Korean Charting Contest 2021** (***KCC2021***) is a osu!mania mapping cont
 - The osu! client must be able to load and read your submission.
 - Submission must be in `.osz` format.
 - Custom hitsounds are allowed.
-- Title, Artist, MP3, Source, Tags and Background must NOT be modified. However, preview point can be customized.
+- Title, Artist, MP3, Source, Tags and Background must NOT be modified. However, preview point can be customised.
 - Videos, skins and storyboards are NOT allowed. However, storyboard hitsounds can be modified.
 - Submission must be 4K ~ 9K.
 - The Auto mod must be able to full combo (1,000,000 score) your submission.

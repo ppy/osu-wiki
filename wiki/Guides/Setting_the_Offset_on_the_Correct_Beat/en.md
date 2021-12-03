@@ -1,5 +1,6 @@
 # How to set the offset on the correct beat
 
+<!-- TODO: rewrite using more formal language -->
 *[About Offset Interval by Alace](https://osu.ppy.sh/community/forums/topics/20998)*
 
 Most of osu! players are not pro at music, so we got some maps with a problem:

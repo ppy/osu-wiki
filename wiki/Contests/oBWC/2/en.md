@@ -220,19 +220,19 @@ Song: **[MDK](https://osu.ppy.sh/beatmaps/artists/61) - Press Start**
 ### Contest rules
 
 1. **The [osu! Ranking Criteria](/wiki/Ranking_Criteria/osu!) and [General Ranking Criteria](/wiki/Ranking_Criteria) are in effect for this contest** - The winning prize of the contest includes ranking the winning teams' entries, which will be the 3 songs submitted by the team of mappers, which we cannot do if you don't obey the Ranking Criteria. Any required difficulties to fulfill the requirements of the Ranking Criteria will be supplied by the Organiser Team.
-2. **3-7 members per team required** - The main concept of the contest is to show off each country's mapping capabilities. This means that a collaboration of at least 2 members on each song will be required from the team members. How you organize the map parts is completely up to you.
+2. **3-7 members per team required** - The main concept of the contest is to show off each country's mapping capabilities. This means that a collaboration of at least 2 members on each song will be required from the team members. How you organise the map parts is completely up to you.
 3. **Each mapper must contribute at least once during the contest** - We want each team to be fairly rewarded for their hard work, which means we don't want any winning teams to have one or more members that do not contribute during the contest.
 4. **Copying other people's work is strictly prohibited** - The whole point of the contest is to test each country's ability as a whole, therefore by copying other people's work you're not truthfully showing off what your country is capable of. If we, or the judges, find out that work has been copied, your entire team will be disqualified.
 5. **Sharing or asking for external help with your mapset before the set deadline ends, is strictly prohibited** - Doing so will automatically disqualify your team.
 6. **Entries can only be submitted through the website** - This process is made to ease the management of the difficulties between the judges and the contestants. No entries will be accepted through any means other than the website.
 7. **Submissions will not be accepted after the deadline** - Everybody will have the same time to map for each round so extending a deadline for any particular team would be unfair for other teams. Therefore any entries submitted after the deadline will be disqualified. The website will automatically close submissions once the deadline has passed.
-8. **Custom hitsounds are allowed, but none will be provided** - You are allowed, and even encouraged, to use custom hitsounds. Make sure they don't overlap with your other difficulties, though. How you will organize them will be up to you.
+8. **Custom hitsounds are allowed, but none will be provided** - You are allowed, and even encouraged, to use custom hitsounds. Make sure they don't overlap with your other difficulties, though. How you will organise them will be up to you.
 9. **Changing the provided .mp3 file or timing of the .osu file is prohibited** - We want to avoid any complications during the judging process since you will be submitting only the .osu files rather than the full .osz.
 10. **Do not include storyboards or beatmap backgrounds** - They will not be considered in the judging process and removed prior to entries being passed onto the judges.
 11. **Restricted mappers can't take part in the contest** - For the legitimacy of this contest restricted users are not accepted. If it is found out that a restricted user took the place of someone's account for this contest, the entire team will be disqualified.
 12. **Teams must consist of users from a single country only** - Merging or combining countries does not allow people to represent their individual country to the fullest. You can only join the team of the country that is displayed on your osu! profile.
 13. **Only one team per country will be allowed** - While some countries are more active than others on osu! and in mapping, to keep everything fair between all of the participants of this contest, only one team will be made per country.
-14. **Keep the organizers in touch with team updates past the preparation phase** - If a contestant has to drop out from the contest for any reasons, please let the staff know about it as soon as possible. No replacements will be allowed and no rewards will be attributed to the user if the team gets into the top 3.
+14. **Keep the organisers in touch with team updates past the preparation phase** - If a contestant has to drop out from the contest for any reasons, please let the staff know about it as soon as possible. No replacements will be allowed and no rewards will be attributed to the user if the team gets into the top 3.
 
 ### Questions and answers
 
@@ -250,7 +250,7 @@ Song: **[MDK](https://osu.ppy.sh/beatmaps/artists/61) - Press Start**
 
 4. **What is a "Team Captain"?**
 
-   The Team Captains (or just Captains) are chosen by the mappers of their country through a vote on the website. They will be the ones in charge of communicating with the organizers and their team in order to let us know about team-related things. The requirements to become Team Captain is to have at least one ranked guest difficulty, in order to show your mapping experience.
+   The Team Captains (or just Captains) are chosen by the mappers of their country through a vote on the website. They will be the ones in charge of communicating with the organisers and their team in order to let us know about team-related things. The requirements to become Team Captain is to have at least one ranked guest difficulty, in order to show your mapping experience.
 
 5. **What if my country doesn't have a Team Captain?**
 
@@ -260,9 +260,9 @@ Song: **[MDK](https://osu.ppy.sh/beatmaps/artists/61) - Press Start**
 
    No. Each country will only have one Team Captain to represent it.
 
-7. **How do we know who will face each other? Will it be randomized?**
+7. **How do we know who will face each other? Will it be randomised?**
 
-   No, it won't be randomized. During the Qualifier round, only the best 16 teams will move to the clash rounds. The first team will face the sixteenth, the second will face the fifteenth, the third will face the fourteenth, etc… So make sure to give all your energy during the Qualifiers stage!
+   No, it won't be randomised. During the Qualifier round, only the best 16 teams will move to the clash rounds. The first team will face the sixteenth, the second will face the fifteenth, the third will face the fourteenth, etc… So make sure to give all your energy during the Qualifiers stage!
 
 8. **Do I have to join the Discord server to participate?**
 
