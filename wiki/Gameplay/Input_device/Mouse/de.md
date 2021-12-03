@@ -21,7 +21,7 @@ Raw Input umgeht die Windows-Mausbeschleunigung und bietet die genauesten Mausbe
 Diese Option erlaubt es dem Mauszeiger, innerhalb des osu!-Fensters zu bleiben und ist standardmäßig auf `Nur für Vollbildmodus` eingestellt. Folgende Optionen sind verfügbar:
 
 - `Nie`: Die Maus bleibt nicht innerhalb des osu!-Fensters.
-- `Nur für Vollbildmodus`: Die Maus bleibt im osu! Fenster, wenn der Vollbildmodus aktiviert ist.
+- `Nur für Vollbildmodus`: Die Maus bleibt im osu!-Fenster, wenn der Vollbildmodus aktiviert ist.
 - `Immer`: Die Maus wird immer innerhalb des osu!-Fensters bleiben.
 
 ### Mausrad beim Spielen deaktivieren
