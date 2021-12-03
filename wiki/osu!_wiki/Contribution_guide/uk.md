@@ -57,7 +57,7 @@ outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
 
 Статті можна правити двома способами:
 
-- Через [веб-інтерфейс GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_Web_Interface), що зручно при роботі з одною статтею.
+- Через [веб-інтерфейс GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor), що зручно при роботі з одною статтею.
 - В вашому улюбленому текстовому редакторі, використовуючи [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop). Цей варіант підходить для декількох статей або масових правок.
 
 *Примітка: насправді, інструментів для роботи з git і GitHub набагато більше, проте тут вони не згадані, заради спрощення статті.*
