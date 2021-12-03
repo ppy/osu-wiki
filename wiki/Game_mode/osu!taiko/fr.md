@@ -80,7 +80,7 @@ Les contrôleurs de tambour *TaTaCon* sont principalement conçus pour les ports
 
 ## Calcul du score
 
-*[Les valeurs de base peuvent être trouvées dans la section score d’osu!taiko](/wiki/Score#osu!taiko).*
+*Les valeurs des scores peuvent être trouvées dans l'article [système de notation d'osu!taiko](/wiki/Score/osu!taiko).*
 
 La section calcul du score détaille toutes les subtilités du score, y compris la formule mathématique.
 

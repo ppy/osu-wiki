@@ -69,7 +69,7 @@ Ce sont les niveaux de difficulté typiques d'une beatmap. Les définitions et e
 
 À partir du 27 juillet 2021, le site web d'osu! attribue automatiquement la couleur de l'indice de difficulté d'une beatmap en fonction de son star rating selon le spectre suivant :
 
-![Spectre de difficulté](img/osu-difficulty-spectrum.png)
+![Spectre de difficulté](/wiki/shared/star-rating/spectrum.png)
 
 Dans certains cas, comme dans [AIMod](/wiki/Beatmap_Editor/AiMod), la difficulté est classée en six niveaux selon le star rating, comme suit :
 

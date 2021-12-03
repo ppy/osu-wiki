@@ -18,7 +18,7 @@ tags:
 
 ## osu!
 
-En [osu!](/wiki/Game_mode/osu!), cada objeto dentro de un combo tiene su propio numero de combo, ademas de compartir el mismo color. Los combos nuevos comienzan en 1 y cuentan hacia arriba, mientras que los "Spinners" fuerzan al siguiente objeto a iniciar un nuevo combo. Mas vida es recuperada con las puntuaciones [Geki and Katu](/wiki/Score#osu!), que se otorgan al impactar correctamente el ultimo objeto de un combo.
+En [osu!](/wiki/Game_mode/osu!), cada objeto dentro de un combo tiene su propio numero de combo, ademas de compartir el mismo color. Los combos nuevos comienzan en 1 y cuentan hacia arriba, mientras que los "Spinners" fuerzan al siguiente objeto a iniciar un nuevo combo. Mas vida es recuperada con las puntuaciones [Geki](/wiki/Geki) and [Katu](/wiki/Katu), que se otorgan al impactar correctamente el ultimo objeto de un combo.
 
 ## osu!catch
 
