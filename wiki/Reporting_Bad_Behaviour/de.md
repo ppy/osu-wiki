@@ -2,7 +2,7 @@
 
 osu! hat [ein Team von Moderatoren](/wiki/People/The_Team/Global_Moderation_Team), die sich dem Sauberhalten und dem Schutz der Community verschrieben haben. Wenn dir regelbrechendes Verhalten oder anstößiger Inhalt auffällt, dann melde es über eine der unten beschriebenen Methoden. Alternativ darfst du auch eine der Moderatoren direkt ansprechen, sofern deine Meldung nicht in einem angemessenen Zeitraum bearbeitet wurde—mache dies nur als letzte Möglichkeit.
 
-Zufällige Berichte werden ignoriert. Benutzer, die absichtlich invalide Meldungen senden, laufen Gefahr [auf stumm geschalten](/wiki/Silence) zu werden.
+Versehentliche Meldungen werden ignoriert. Benutzer, die absichtlich invalide Meldungen senden, laufen Gefahr [stumm geschaltet](/wiki/Silence) zu werden.
 
 ## Spezielle Fälle
 
@@ -10,7 +10,7 @@ Zufällige Berichte werden ignoriert. Benutzer, die absichtlich invalide Meldung
 | :-- | :-- |
 | Offensive private Nachrichten | **Keine**: [ignoriere den Benutzer](/wiki/Chat_Console#commands-list) stattdessen. Für einen dauerhaften Effekt muss die Ignorieren-Liste in den [Optionen](/wiki/Options) des Spiel-Clients genutzt werden. |
 | Verstöße bezogen auf Modding und/oder Mapping | NAT, via der [NAT-/BN-Management-](https://bn.mappersguild.com/reports)-Webseite |
-| Unangebrachtes Verhalten von einem [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) oder [GMT](/wiki/People/The_Team/Global_Moderation_Team) Mitglied | [Account-Supportteam](/wiki/People/The_Team/Account_support_team) unter [support@ppy.sh](mailto:support@ppy.sh) |
+| Unangebrachtes Verhalten von einem [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) oder [GMT](/wiki/People/The_Team/Global_Moderation_Team) Mitglied | [Account-Support-Team](/wiki/People/The_Team/Account_support_team) unter [support@ppy.sh](mailto:support@ppy.sh) |
 | Sexueller Missbrauch oder extremes Fehlverhalten | Gehe zu [Missbrauch melden](/wiki/Reporting_Bad_Behaviour/Abuse) |
 
 Für alles andere, siehe die Anweisungen weiter unten.
@@ -21,7 +21,7 @@ Für alles andere, siehe die Anweisungen weiter unten.
 
 ![](img/report-command.jpg "Beispiel von der Benutzung des !report-Befehls")
 
-Fehlverhalten im Chat ist der häufigste Verstoß. Um das zu melden, benutze den [`!report`](https://osu.ppy.sh/community/forums/topics/34843) Befehl, vorzugsweise in dem Channel, in dem der Verstöß stattfand. Fühle dich nicht gestresst: wenn deine Nachricht mit `!report` und einem Leerzeichen beginnt, **dann ist es nur für Moderatoren sichtbar** und niemand sonst im Chat. Du kannst auch die Meldefunktion via dem [Spiel-Overlay](#in-game-overlay) wie unten beschrieben nutzen, wenn du immer noch Bedenken hast.
+Fehlverhalten im Chat ist der häufigste Verstoß. Um das zu melden, benutze den [`!report`](https://osu.ppy.sh/community/forums/topics/34843) Befehl, vorzugsweise in dem Channel, in dem der Verstöß stattfand. Fühle dich nicht unter Druck gesetzt: wenn deine Nachricht mit `!report` und einem Leerzeichen beginnt, **dann ist es nur für Moderatoren sichtbar** und niemanden sonst im Chat. Du kannst auch die Meldefunktion via dem [Spiel-Overlay](#in-game-overlay) wie unten beschrieben nutzen, wenn du immer noch Bedenken hast.
 
 Die Befehlssyntax hat zwei Formen:
 
@@ -42,7 +42,7 @@ Wenn sich Leerzeichen im Benutzernamen befinden, ersetze diese mit Unterstrichen
 
 ![](img/report-user-2.png "Meldedialog im Spiel")
 
-Diese Option funktioniert, wenn der schlechte Benutzer in Sicht liegt:
+Diese Option funktioniert, wenn der schlechte Benutzer sichtbar ist:
 
 1. Klicke seinen Benutzernamen und drücke den roten Knopf auf dem steht `Report User...`
 2. Wähle die Kategorie und füge Details hinzu (optional).
@@ -63,7 +63,7 @@ Diese Option funktioniert, wenn der schlechte Benutzer in Sicht liegt:
 ![](img/report-user-forum.png "Der Meldeknopf in einem Forumbeitrag")
 
 1. Fahre mit der Maus über den Beitrag.
-2. Drücke in einer Reihe an Knöpfen, die in der rechten oberen Ecke des Beitrags erscheinen, auf den Knopf mit einer Warnmeldung.
+2. Drücke in einer Reihe an Knöpfen, die in der rechten oberen Ecke des Beitrags erscheinen, auf den Knopf mit einem Warnsymbol.
 3. Wähle die Kategorie und füge Details hinzu (optional).
 
 ### Kommentarsektion

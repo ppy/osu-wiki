@@ -18,19 +18,19 @@ Jeder Benutzer darf nur **einen** Account haben. Neue Accounts zu erstellen ist 
 
 Die [Regeln](/wiki/Rules) besagen, dass jede Form von Manipulation des Clients, wie beispielsweise Score-Hacking, Full-Combo-Sequenzen durch Makroaktivierungen, Auto-Aim und alles andere, was das Spiel für den Spieler spielt, Cheating ist.
 
-Das ist eine Ein-Verstoß-Regel. Cheater werden bei ihrem ersten Verstoß für unbestimmte Zeit eingeschränkt. Das [Supportteam](/wiki/People/The_Team/Account_support_team) darf diese Beschränkung aufheben, wenn der Benutzer erfolgreich Beschwerde einlegt.
+Das ist eine One-Strike-Regel. Cheater werden bei ihrem ersten Verstoß für unbestimmte Zeit eingeschränkt. Das [Support-Team](/wiki/People/The_Team/Account_support_team) darf diese Beschränkung aufheben, wenn der Benutzer erfolgreich Beschwerde einlegt.
 
 ## Mein Account wurde eingeschränkt, aber ich habe nicht geschummelt!
 
-osu! benutzt automatische Metriken kombiniert mit einer manuellen Überprüfung. Wenn du nicht weißt, warum dein Account eingeschränkt wurde, dann kontaktiere [accounts@ppy.sh](mailto:accounts@ppy.sh).
+osu! benutzt automatische Metriken kombiniert mit einer manuellen Überprüfung. Wenn du nicht weißt, warum dein Account eingeschränkt wurde, kontaktiere [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 ## Beweise, dass ich/er geschummelt habe/hat! Erkläre, woher du das weißt!
 
-Das Supportteam wird keinen wirklichen "Beweis" bezüglich der Einschränkung vorlegen, aber alle werden mit gut begründetem Verdacht gestellt. Normale Benutzer werden durch solche Aktionen nur in sehr seltenen Fällen genauer unter die Lupe genommen.
+Das Support-Team liefert keine "Beweise" für Einschränkungen, aber alle werden mit gut begründetem Verdacht gestellt. Normale Benutzer werden durch solche Aktionen nur in sehr seltenen Fällen genauer unter die Lupe genommen.
 
 ## Ich werde ein Video produzieren, um meine Unschuld zu beweisen!
 
-Sorry, aber dein Account wurde eingeschränkt. Das Supportteam ist sich bereits sicher, dass du schummelst. Ein Video wird hier nicht helfen, da diese auch bearbeitet sein können.
+Sorry, aber dein Account wurde eingeschränkt. Das Support-Team ist sich bereits sicher, dass du schummelst. Ein Video wird hier nicht helfen, da diese auch bearbeitet sein können.
 
 ## Ich habe jemanden gefunden, der definitiv schummelt. Das erkenne ich an seinem Replay/Score! Was sollte ich tun?
 
@@ -39,21 +39,21 @@ Du solltest den Benutzer melden und ihn nirgendwo erwähnen. Es gibt drei Wege, 
 
 ### Benutzerprofil
 
-**Das ist der empfohlene Weg, um faule Tricks zu melden, da hier die Mitglieder des Supportteams die meisten Informationen erhalten.**
+**Das ist der empfohlene Weg, um Verstöße zu melden, da hier die Mitglieder des Support-Teams die meisten Informationen erhalten.**
 
 Auf der Benutzerprofilseite wird ein `Melden`-Knopf erscheinen, wenn du auf die drei Punkte neben dem `Nachricht senden`-Knopf drückst. Füge jede Information hinzu, die das Fehlverhalten des Nutzers beweist.
 
-*Notiere dir den ausgewählten Spielmodus vor dem Melden.*
+*Achte auf den ausgewählten Spielmodus vor dem Melden.*
 
 ### Beatmapseite
 
-Dieser Weg ist genauso effektiv beim Melden wie die Profilseite zu nutzen. Die Berichte gehen an denselben Endpunkt.
+Dieser Weg ist genauso effektiv beim Melden wie die Profilseite zu nutzen. Die Meldungen gehen an den selben Endpunkt.
 
 In den Beatmapseiten kannst du einen Spieler durch das Klicken des `Melden`-Knopf auf der rechten Seite des Scores melden.
 
 ### Chat im Spiel
 
-Dieser Weg wird **nicht empfohlen**, da Berichte im Spiel sich meistens auf den Chat beziehen.
+Dieser Weg wird **nicht empfohlen**, da Meldungen im Spiel sich meistens auf den Chat beziehen.
 
 Benutze den Befehl `!report` in einem öffentlichen Channel, um die Chatmoderatoren zu informieren. Andere Spieler werden deine Meldungen nicht im Chat sehen.
 
@@ -62,7 +62,7 @@ Format: !report <Benutzername> <Grund>
 Beispiel: !report dieser_benutzer wird wegen Cheating verdächtigt
 ```
 
-Deine Hilfe beim Aufspüren von faulen Tricks wird gerne angenommen. Wir bewerten jede Meldung, die wir erhalten, aber das bedeutet nicht, dass wir bei allen Maßnahmen ergreifen werden! Du kannst auch eine E-Mail direkt an [osu@ppy.sh](mailto:osu@ppy.sh) für eine relativ schnelle Antwort senden.
+Deine Hilfe beim Aufspüren von Verstößen wird gerne angenommen. Wir bewerten jede Meldung, die wir erhalten, aber das bedeutet nicht, dass wir bei allen Maßnahmen ergreifen werden! Du kannst auch eine E-Mail direkt an [osu@ppy.sh](mailto:osu@ppy.sh) für eine relativ schnelle Antwort senden.
 
 ## Wird die Benutzung von spezieller Hardware als Schummelei betrachtet?
 
@@ -72,14 +72,14 @@ Peripheriegeräte wie Tablets und Touchscreens sind okay. Alles, was die benöti
 
 Warte drei Monate nach der letzten eingesetzten Einschränkung vor dem Einlegen einer Beschwerde. Adressiere deine E-Mails zu [accounts@ppy.sh](mailto:accounts@ppy.sh) und benutze den Betreff `Restriction Appeal: <Benutzername>`
 
-Das Supportteam erwartet, dass Nutzer ihre vergangenen Verstöße auflisten und Gründe nennen, warum sie das nicht mehr in Zukunft machen werden.
+Das Support-Team erwartet, dass Nutzer ihre vergangenen Verstöße auflisten und Gründe nennen, warum sie das nicht mehr in Zukunft machen werden.
 
 *Es wird vermutlich einige Zeit dauern, auf deine Beschwerde zu antworten, aber keine Beschwerden werden ignoriert.*
 
 ## Was kann ich tun, wenn ich die Regeln gebrochen habe?
 
-Wenn du die Regeln gebrochen hast und du reinen Tischen machen möchtest, dann kontaktiere bitte [accounts@ppy.sh](mailto:accounts@ppy.sh) und erkläre, was du getan hast. Ehrlichkeit wird sehr wertgeschätzt und das wird wahrscheinlich nicht in einer permanenten Strafe enden.
+Wenn du gegen die Regeln verstoßen hast und dies bereinigen möchtest, wende dich bitte an [accounts@ppy.sh](mailto:accounts@ppy.sh) und erkläre, was du getan hast. Ehrlichkeit wird sehr wertgeschätzt und das wird wahrscheinlich nicht in einer permanenten Strafe enden.
 
 ## Wie kann ich verhindern, dass mein Account auf stumm geschaltet oder eingeschränkt wird?
 
-Lese sorgfältig und befolge die [Regeln](/wiki/Rules).
+Lies die [Regeln](/wiki/Rules) sorgfältig durch und befolge sie.
