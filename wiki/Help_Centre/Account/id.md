@@ -19,8 +19,6 @@ tags:
   - piranti
   - nama pengguna
   - penghapusan
-outdated: true
-outdated_since: c0e3ac1f17bcbdd620c144f55f813351bf320b83
 ---
 
 # Akun
@@ -52,6 +50,16 @@ Apabila kamu tidak yakin mengapa akunmu di-*restrict*, kamu dapat meminta penjel
 Kamu juga dapat mengajukan banding terhadap status *restricted* yang kamu miliki. Dalam situasi di mana kamu telah terbukti melanggar, kamu harus menunggu setidaknya tiga (3) bulan terhitung dari tanggal pelanggaran terakhir yang kamu lakukan sebelum banding yang kamu ajukan dapat kami terima.
 
 Harap kunjungi laman *[Pembatasan Akun](/wiki/Help_Centre/Account_Restrictions)* untuk informasi lebih lanjut mengenai sistem pembatasan akun dan proses banding yang berlaku.
+
+## Larangan turnamen
+
+### Apa itu larangan turnamen?
+
+Larangan turnamen merupakan larangan pada pemain untuk dapat berpartisipasi pada seluruh turnamen resmi.
+
+Seorang pengguna dapat dikenakan larangan turnamen jika pengguna secara sengaja melanggar peraturan komunitas osu! selama bermain dalam turnamen, tergantung dari tingkat pelanggarannya. Sebagai contoh perilaku buruk tersebut yaitu mencoba untuk mendapatkan keuntungan yang tidak adil pada turnamen resmi, berperilaku kasar pada semua pihak yang terlibat dalam turnamen, atau secara sengaja melakukan tindakan yang mengganggu jalannya turnamen.
+
+Secara umum, larangan turnamen memiliki durasi dari 3 bulan hingga lebih dari setahun. Bahkan larangan dapat bersifat permanen. Meskipun demikian, semua larangan turnamen bersifat **final** dan tidak dapat diajukan banding seperti pembatasan akun.
 
 ## Proses *login*
 

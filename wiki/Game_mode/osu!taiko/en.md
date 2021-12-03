@@ -82,7 +82,7 @@ If [Relax](/wiki/Game_modifier/Relax) mod was used, the score judgement only acc
 
 ## Scoring
 
-*Scoring Values can be found in [Score under osu!taiko Scoring Values section](/wiki/Score#osu!taiko).*
+*Scoring values can be found in [osu!taiko scoring system](/wiki/Score/osu!taiko).*
 
 Scoring section details all the intricacies of scoring, including mathematical formula.
 

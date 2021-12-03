@@ -43,6 +43,7 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | 评估，管理 |
+| ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |  | 评估 |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，中文 | 评估 |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | 孟加拉语，部分阿拉伯语 | 评估，构造，管理，沟通 |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | 瑞典语 | 构造，沟通 |
@@ -73,6 +74,7 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | 阿拉伯语，法语 | 评估 |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | 评估 |
 
