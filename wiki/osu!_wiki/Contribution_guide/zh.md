@@ -57,7 +57,7 @@ outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
 
 现在，你有两种选择：
 
-- [GitHub 网页](/wiki/osu!_wiki/Contribution_guide/GitHub_Web_Interface) - 在线编辑；适合单篇文章的编辑
+- [GitHub 网页](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) - 在线编辑；适合单篇文章的编辑
 - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) - 本地编辑；这适合于单篇或者多篇文章的编辑（包括上传，删除，移动图片和文件）
 
 *提示：你在以上两种编辑方式中任选一种。为了使本指南简短而简单，文章不会讨论如何使用其他工具。也有一些第三方软件可以做类似于 GitHub 网页和 Desktop 所做的事情。*
