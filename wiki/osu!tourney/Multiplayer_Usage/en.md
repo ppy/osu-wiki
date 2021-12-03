@@ -5,6 +5,7 @@
 The multiplayer room must be named based on the template listed in the control panel of the osu!tourney client.
 
 The template shown consists of:
+
 ```
 Acronym_in_tournament.cfg: (Team Name 1) vs (Team Name 2)
 ```
