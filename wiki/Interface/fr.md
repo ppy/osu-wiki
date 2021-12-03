@@ -62,7 +62,7 @@ Accédez à cet écran en cliquant sur votre profil se trouvant en haut à gauch
 6. La beatmap choisie. Elle est montrée comme dans l'écran de sélection des beatmaps dans le mode Solo.
 7. Les [mods](/wiki/Game_modifier) que vous avez activé (voir \#12), ainsi que l'option pour les sélectionner. L'option intitulée "Mods libres" décide de si les joueurs peuvent choisir leurs propres mods ou non. Si elle est activée, les joueurs peuvent choisir n'importe quelle combinaison de mods *sauf les mods altérant la vitesse de la beatmap, comme [Double Time](/wiki/Game_modifier/Double_Time) et [Half Time](/wiki/Game_modifier/Half_Time)*. Si elle est désactivée, l'hôte décide de quels mods seront utilisés. L'hôte peut choisir les mods altérant la vitesse de la beatmap peu importe si l'option "Mods libres" est activée ou non.
 8. Le type de partie et les conditions de victoire.
-9.  Le bouton "Je suis prêt !".
+9. Le bouton "Je suis prêt !".
 10. La [console de tchat](/wiki/Chat_Console).
 11. Le bouton "Quitter la salle".
 12. Là où se trouvent les mods activés par l'hôte.
