@@ -101,7 +101,7 @@ Si se usó el modificador de juego [Auto Pilot](/wiki/Game_modifier/Autopilot), 
 
 ## Puntuación
 
-*[¡Los valores de puntuación se pueden encontrar en Score bajo el nombre de Sección de valores de puntuación de osu!](/wiki/Score#osu).*
+*[¡Los valores de puntuación se pueden encontrar en Score bajo el nombre de Sección de valores de puntuación de osu!](/wiki/Score/osu!).*
 
 La sección de puntuación detalla todas las complejidades de la puntuación, incluida la fórmula matemática.
 
