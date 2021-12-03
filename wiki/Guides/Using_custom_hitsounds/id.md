@@ -63,6 +63,6 @@ Untuk memastikan hitsound yang memiliki angka atau grup hitsound diputar secara 
 
 Ketika sampleset dari *inherited timing point* diset ke `S:C2` seperti pada gambar di atas, seluruh hitsound dasar dan hitsound addition akan digantikan oleh hitsound khusus yang telah dinamakan seperti `soft-hitclap2.wav` jika ada. Hitsound tersebut akan terus dapat digunakan hingga *inherited timing point* yang menggunakan sampleset berbeda dicapai—pada gambar ini *inherited timing point* tersebut berada di `02:00:723`, di mana sampleset berubah kembali menjadi `S:C1`.
 
-## Sumber external
+## Sumber eksternal
 
 - [Balasan forum *how to add custom hitsound?*](https://osu.ppy.sh/community/forums/posts/3215699) oleh [neonat](https://osu.ppy.sh/users/1561995)
