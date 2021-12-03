@@ -73,15 +73,15 @@ The [Ranking Criteria](/wiki/Ranking_Criteria#audio) has a rule noting that anyt
 
 1. Import the audio file into Audacity.
 
-![Importing audio into Audacity](img/import-audacity.jpg "Importing audio into Audacity")
+![Importing audio into Audacity](img/import-audacity.png "Importing audio into Audacity")
 
 2. Export the audio as MP3.
 
-![Export as MP3](img/exportmenu-audacity.jpg "Export as MP3")
+![Export as MP3](img/exportmenu-audacity.png "Export as MP3")
 
 3. Change the export options to help compress your file. Use `Preset` and select the quality as `Medium, 145-185 kbps`. If you want, you can enter in the metadata in the next dialog. When ready, click `OK`.
 
-![Export settings](img/exportsettings-audacity.jpg "Export settings")
+![Export settings](img/exportsettings-audacity.png "Export settings")
 
 ### Using FFmpeg
 
