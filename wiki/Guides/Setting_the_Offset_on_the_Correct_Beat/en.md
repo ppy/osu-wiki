@@ -1,6 +1,5 @@
 # How to set the offset on the correct beat
 
-<!-- TODO: rewrite using more formal language -->
 *[About Offset Interval by Alace](https://osu.ppy.sh/community/forums/topics/20998)*
 
 Most of osu! players are not pro at music, so we got some maps with a problem:
@@ -28,3 +27,5 @@ If kiou2 sets her offset on 527, the long white tick will follow the heavy beat,
 So, we should make sure to set offset on the heavy beat.
 
 I hope this is helpful.
+
+<!-- TODO: rewrite using more formal language -->

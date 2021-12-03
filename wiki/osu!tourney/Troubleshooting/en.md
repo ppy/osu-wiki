@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+
 <!-- TODO: same problem as FAQ page. organising articles with only questions renders it useless beyond direct section links -->
 
 # osu!tourney troubleshooting
@@ -42,6 +43,7 @@ It is possible that your room is named incorrectly or you used the wrong acronym
 Make sure that the room is named correctly by following the [multiplayer usage guide](/wiki/osu!tourney/Multiplayer_Usage) closely.
 
 ## The team names are not showing!
+
 See previous answer.
 
 ## How do I stream my tournament to streaming services like Twitch?
