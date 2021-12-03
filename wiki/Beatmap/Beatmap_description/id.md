@@ -12,10 +12,10 @@ Deskripsi beatmap [ranked](/wiki/Beatmap/Category#ranked) yang terkenal seringka
 
 ### Gambar
 
-Banyak deskripsi beatmap yang terdapat setidaknya satu gambar (sering juga terdapat animasi [GIF](https://id.wikipedia.org/wiki/Graphics_Interchange_Format) di dalamnya) yang digunakan untuk mengekspresikan dan mengilustrasi kreator, musik, dan/atau beatmap agar mencolok. Gambar juga bisa berfungsi sebagai judul atau header untuk menambah keunikan dan kualitas. Untuk belajar bagaimana cara menambahkan gambar menggunakan BBCode, silahkan lihat [tutorial menambahkan gambar menggunakan BBCode](/wiki/BBCode#images).
+Banyak deskripsi beatmap yang terdapat setidaknya satu gambar (sering juga terdapat animasi [GIF](https://id.wikipedia.org/wiki/Graphics_Interchange_Format) di dalamnya) yang digunakan untuk mengekspresikan dan mengilustrasi kreator, musik, dan/atau beatmap agar mencolok. Gambar juga bisa berfungsi sebagai judul atau header untuk menambah keunikan dan kualitas. Untuk belajar bagaimana cara menambahkan gambar menggunakan BBCode, silakan lihat [tutorial menambahkan gambar menggunakan BBCode](/wiki/BBCode#images).
 
-### Difficulty section
+### Bagian tingkat kesulitan
 
-Sebuah "difficulty section" adalah sebuah daftar dari semua guest difficulty dan kreatornya yang terletak pada deskripsi beatmap. Ini kebanyakan digunakan untuk memamerkan difficulties sebuah beatmap. Difficulty section biasanya memiliki gambar untuk ikonnya.
+Bagian tingkat kesulitan merupakan daftar dari semua guest difficulty, yang juga disertakan ikon di sampingnya, beserta kreatornya yang terletak pada deskripsi beatmap. Bagian tingkat kesulitan kebanyakan digunakan untuk memberikan reputasi untuk guest mapper. 
 
-Ikon difficulty dapat ditemukan di dalam artikel [Tingkat kesulitan](/wiki/Beatmap/Difficulty).
+Ikon tingkat kesulitan dapat ditemukan di dalam artikel [Tingkat kesulitan](/wiki/Beatmap/Difficulty).
