@@ -70,7 +70,7 @@ These are the typical levels of difficulty that a beatmap can fall under. Specif
 
 As of 27 July 2021, the osu! website automatically assigns a beatmap's difficulty rating colour based on their star rating according to the following spectrum:
 
-![osu! difficulty rating colour spectrum](img/osu-difficulty-spectrum.png)
+![osu! difficulty rating colour spectrum](/wiki/shared/star-rating/spectrum.png)
 
 In some instances, such as [AIMod](/wiki/Beatmap_Editor/AiMod), difficulty is classified into six level ranges based on star rating as follows:
 

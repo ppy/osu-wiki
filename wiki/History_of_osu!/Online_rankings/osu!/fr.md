@@ -391,6 +391,6 @@ Voici la liste des plus longs jours consécutifs pendant lesquels un joueur a oc
 [flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
 [flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"

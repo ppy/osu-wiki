@@ -817,8 +817,9 @@
 "osu!_wiki/Contribution_guide/Common_Issues":       "osu!_wiki/Contribution_guide/Best_practices"
 "osu!wiki_contribution_guide/common_issues":        "osu!_wiki/Contribution_guide/Best_practices"
 "owcg/common_issues":                               "osu!_wiki/Contribution_guide/Best_practices"
-"osu!wiki_contribution_guide/github_web_interface": "osu!_wiki/Contribution_guide/GitHub_Web_Interface"
-"owcg/github_web_interface":                        "osu!_wiki/Contribution_guide/GitHub_Web_Interface"
+"github.dev":                                       "osu!_wiki/Contribution_guide/GitHub_web-based_editor"
+"osu!wiki_contribution_guide/github_web_interface": "osu!_wiki/Contribution_guide/GitHub_web-based_editor"
+"owcg/github_web_interface":                        "osu!_wiki/Contribution_guide/GitHub_web-based_editor"
 "osu!wiki_contribution_guide/github_desktop":       "osu!_wiki/Contribution_guide/GitHub_Desktop"
 "owcg/github_desktop":                              "osu!_wiki/Contribution_guide/GitHub_Desktop"
 
@@ -826,7 +827,7 @@
 "osu!_wiki_Contribution_Guide":                       "osu!_wiki/Contribution_guide"
 "osu!_wiki_Contribution_Guide/Common_Issues":         "osu!_wiki/Contribution_guide/Best_practices"
 "osu!_wiki_Contribution_Guide/GitHub_Desktop":        "osu!_wiki/Contribution_guide/GitHub_Desktop"
-"osu!_wiki_Contribution_Guide/GitHub_Web_Interface":  "osu!_wiki/Contribution_guide/GitHub_Web_Interface"
+"osu!_wiki_Contribution_Guide/GitHub_Web_Interface":  "osu!_wiki/Contribution_guide/GitHub_web-based_editor"
 
 "people/beatmap_nominator":              "People/The_Team/Beatmap_Nominators"
 "people/beatmap_nomination_group":       "People/The_Team/Beatmap_Nominators"
@@ -1735,3 +1736,6 @@
 "medals/beatmap_packs_0916": "Medals/Legacy_Beatmap_Packs"
 # Moved "osu!tourney/Prizes" to "Tournaments/Official_support"
 "osu!tourney/prizes": "Tournaments/Official_support"
+
+# Moved "Guides/Making_Properly_Centered_Spinners" to "Guides/Making_Properly_Centred_Spinners"
+"Guides/Making_Properly_Centered_Spinners" : "Guides/Making_Properly_Centred_Spinners"
