@@ -1196,7 +1196,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 [flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
 [flag_IE]: /wiki/shared/flag/IE.gif "Irlande"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"

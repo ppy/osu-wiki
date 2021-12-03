@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 4f8d54a3fc70074630230b88709f573a969c9320
----
-
 # Calendrier de mapping et de modding
 
 Les systèmes de mapping et de modding sont en constante amélioration. Le **calendrier de mapping et de modding** vise à documenter les plus grands changements apportés au système et à servir d'outil de référence lorsque les utilisateurs intègrent de nouvelles modifications.
@@ -459,6 +454,10 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 - **11/04/2020 :** Le Mappers' Report, dirigé par ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717), a été créé pour résumer les événements de la communauté de mapping par le biais d'articles en première page.
 
+### Juin
+
+- **09/06/2020 :** L'article [directives d'utilisation du contenu](/wiki/Rules/Content_Usage_Guidelines) a été ajouté au wiki et promu dans le [Beatmap Submission System](/wiki/Submission) pour encourager l'autorisation appropriée de tous les actifs dans les nouvelles soumissions de beatmap.
+
 ### Octobre
 
 - **02/10/2020 :** Les [Beatmap Nominator Expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) ont été établies pour combattre les problèmes de comportement au sein du groupe.
@@ -485,12 +484,53 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
   - Cette modification ne s'applique pas au contenu visuel des maps en attente. Ceux-ci continuent de suivre les [Considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations).
 - **30/01/2021 :** Le canal de discussion en jeu `#modhelp` a été remplacé par `#mapping` car le canal original était principalement utilisé pour les discussions sur le mapping.
 
+### Mars
+
+- **09/03/2021 :** En conjonction avec les [Directives d'utilisation du contenu](/wiki/Rules/Content_Usage_Guidelines), un ajout aux critères de classement a commencé à exiger que les mappeurs indiquent la source de leurs images d'arrière-plan et autres médias dans leurs descriptions.
+- **15/03/2021 :** Les conditions pour réintégrer les Beatmap Nominators ont été assouplies.
+  - Tous les candidats doivent se soumettre à la candidature, mais les membres du groupe qui reviennent bénéficient d'un délai d'attente plus court et sont autorisés à fournir 1 à 2 mois d'activité de modding au lieu de la norme précédente de 3 mois.
+- **16/03/2021 :** Les Beatmap Nominators ont reçu un renouvellement automatique de leur tag osu!supporter.
+  - Ce changement a été effectué en réponse à un manque de récompense pour les membres dévoués de la scène de mapping.
+- **16/03/2021 :** La limite de maps classées par jour et par mode a été augmentée de 8 à 10 afin de compenser le débordement de la catégorie "Qualified beatmaps".
+
+### Avril
+
+- **08/04/2021 :** Une règle des critères de classement interdisant plusieurs beatmaps qualifiées pour la même musique a été supprimée.
+  - Cette modification a permis de dissiper les inquiétudes concernant les pratiques malveillantes de disqualification.
+
+### Mai
+
+- **12/05/2021 :** La Nomination Assessment Team a commencé un essai pour les nouvelles évaluations des Beatmap Nominators.
+  - Cet essai ne concernait que les membres d'osu! et s'est terminé en août.
+  - Un sous-ensemble de Beatmap Nominators s'est vu confier des rôles d'évaluation équivalents à ceux de la NAT, ce qui leur a permis de contribuer et de décider des résultats des demandes de BN et des évaluations actuelles des BN.
+  - Le premier lot de membres d'essai comprenait ~10 utilisateurs, tandis que le deuxième lot comprenait ~20 utilisateurs.
+- **13/05/2021 :** Une option permettant de changer le propriétaire de la difficulté a été ajoutée à la page de discussion des beatmaps.
+  - Cela a permis aux créateurs de guest difficulties de résoudre les problèmes sur leurs beatmaps. Avant ce changement, seul l'hôte du mapset pouvait résoudre les problèmes, ce qui constituait une frustration majeure pour les mappeurs.
+
+### Juin
+
+- **14/06/2021 :** La Global Moderation Team a commencé à accepter les candidatures d'utilisateurs axés sur le mapping afin de réduire les tensions croissantes entre la GMT et la scène de mapping/modding.
+
+### Août
+
+- **14/08/2021 :** osu!taiko a commencé un essai des évaluations des Beatmap Nominators en imitant l'essai d'osu! du 12/05/2021.
+
+### Septembre
+
+- **11/09/2021 :** ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) a modifié la règle des critères de classement concernant le champ Source.
+  - Les membres de la communauté de mapping n'étaient pas satisfaits de l'absence de débat public derrière ce changement et ont par la suite procédé à des adaptations pour combler de nouvelles lacunes.
+- **18/09/2021 :** Après une interruption de dix ans, les osu! community meetings ont repris sous la forme de discussions vocales sur le Discord osu!dev. Le premier sujet abordé a été [les préoccupations concernant les critères de classement d'osu!mania](https://osu.ppy.sh/community/forums/topics/1388182?n=1), ainsi que d'autres questions comme la complexité générale des critères de classement, l'engagement avec les nouveaux mappeurs, et plus encore.
+  - Les changements de critères concernant le classement d'osu!mania ont été soumis à la discussion et, s'ils sont acceptés, ils pourraient entrer en vigueur bientôt.
+- **24/09/2021:** Les [Contrôles d'assurance qualité](/wiki/People/The_Team/Beatmap_Nominators/General_Information#assurance-qualité) ne sont plus comptabilisés dans l'activité des Beatmap Nominators.
+  - Cette mesure a été mise en place parce qu'il semblait que certains utilisateurs l'utilisaient comme une échappatoire pour éviter de contribuer activement en tant que Beatmap Nominator.
+  - Avant ce changement, chaque contrôle qualité était considéré comme égal à 1/4 d'une nomination.
+
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australie"
 [flag_CN]: /wiki/shared/flag/CN.gif "Chine"
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"

@@ -186,7 +186,7 @@ The **[05 March 2015 (2015-03-05) update](https://osu.ppy.sh/home/changelog)** g
 
 ## Scoring
 
-*Scoring Values can be found in [Score under osu!mania Scoring Values section](/wiki/Score#osu!mania).*
+*Scoring values can be found in [osu!mania scoring system](/wiki/Score/osu!mania).*
 
 Scoring section details all the intricacies of scoring, including mathematical formula.
 

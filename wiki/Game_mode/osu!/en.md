@@ -100,7 +100,7 @@ If [Auto Pilot](/wiki/Game_modifier/Autopilot) game modifier was used, only the 
 
 ## Scoring
 
-*Scoring Values can be found in [Score under osu! Scoring Values section](/wiki/Score#osu).*
+*Scoring values can be found in [osu! scoring system](/wiki/Score/osu!).*
 
 Scoring section details all the intricacies of scoring, including mathematical formula.
 
