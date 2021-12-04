@@ -21,6 +21,6 @@ On a similar note, some players prefer to tap their keys using the index and mid
 
 ## Arguments
 
-Arguments in-favour of alternating typically mention that alternating is much faster as it reduces the amount of time between keypresses as opposed to [single-tapping](/wiki/Play_style/Single-tapping) and that it gives time for each finger to rest and thus allows players to play faster for longer.
+Arguments in favour of alternating typically mention that alternating is much faster as it reduces the amount of time between keypresses as opposed to [single-tapping](/wiki/Play_style/Single-tapping) and that it gives time for each finger to rest and thus allows players to play faster for longer.
 
 Arguments against alternating typically mention that it is much harder to keep consistent because one finger is usually stronger/faster than the other, while others argue that alternating can cause confusion on faster, more intense levels.

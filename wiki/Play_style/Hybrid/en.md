@@ -20,6 +20,6 @@ Hybrid can be performed in many different ways:
 
 ## Arguments
 
-Arguments in-favour of the hybrid tapping style typically reference the fact that hybrid can take advantage of both single-tapping and alternating at any time and thus have the advantages of both styles.
+Arguments in favour of the hybrid tapping style typically reference the fact that hybrid can take advantage of both single-tapping and alternating at any time and thus have the advantages of both styles.
 
 On the contrary, many players argue that learning more "advanced" hybrid techniques can be very difficult and can require more effort be put into to planning which key to press next instead of clicking the circles to the beat. Both arguments, of course, are truly down to personal opinion.

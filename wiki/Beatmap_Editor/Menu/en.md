@@ -87,7 +87,7 @@ Do note that these commands can be disabled at [Options](/wiki/Options) sidebar 
 
 | Name | Description |
 | :-- | :-- |
-| Reverse selection (`Ctrl` + `G`) | **Slider:** Reverse the numbering placement. **Select All + this:** Your beatmap design goes the other way around. Example: A hit circle @ 10th second will be moved to the last 10th second of the song and vice versa. |
+| Reverse selection (`Ctrl` + `G`) | **Slider:** Reverse the numbering placement. **Select All + this:** Your beatmap design goes the other way around. Example: A hit circle at 10 seconds will be moved to the last 10 seconds of the song and vice versa. |
 | Flip Horizontally (`Ctrl` + `H`) | Flip the note(s) from left to right (with respect to y-axis line of Playfield origin) and vice versa. |
 | Flip Vertically (`Ctrl` + `J`) | Flip the note(s) from up to down (with respect to x-axis line of Playfield origin) and vice versa. |
 | Rotate 90° Clockwise (`Ctrl` + `>`) | Rotate the note(s) 90° right |
@@ -164,7 +164,7 @@ Places of interest.
 
 | Name | Description |
 | :-- | :-- |
-| Create Polygon Circles (`Ctrl` + `Shift` + `D`) | Create a circular flow of hit circle. You can adjust the Distance Snap (0.1x - 2.0x) {Spacing between notes}, Offset angle (0° - 180°) {Rotation angle}, Repeat and Points (3 - 14/282) {Number of hit circle}. |
+| Create Polygon Circles (`Ctrl` + `Shift` + `D`) | Create a circular flow of hit circles. You can adjust the Distance Snap (0.1x - 2.0x) {Spacing between notes}, Offset angle (0° - 180°) {Rotation angle}, Repeat and Points (3 - 14/282) {Number of hit circle}. |
 | Convert slider to stream... | (Select a slider) Change the slider to streams of hit circle. You can select between two options: By object count or By distance snap. **By object count:** Adjust the slider flow with the given amount of hit circle (1 - 17/100). **By distance snap:** Adjust the slider flow with a set distance between two notes (0.10x - 5.00x). Can result in absurd amount of hit circle, since it relies on Beat Snap Divisor (one beat = one note). **Beat Snap Divisor:** Note timing adjuster. |
 | Enable live mapping mode (`Ctrl` + Tab) | osu!/osu!catch/osu!taiko maps: use osu!taiko keys to input hit circle/fruit/taiko hit objects, while playing song in editor. Placed via cursor location. Different hitsounds based on what osu!taiko key you pressed. osu!mania maps: use osu!mania keys to input hit objects, while playing song in editor. Placed via the key you pressed. Does not work for sliders/holds. |
 | Sample import | [Keysound and Sound Sampling.](/wiki/Beatmap_Editor/Compose) |
