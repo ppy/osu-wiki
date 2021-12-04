@@ -17,7 +17,7 @@ The functionality of each button is described below:
 
 - `Sync music`: The client will try to resync the music to the hitsounds.
 - `Toggle annotation`: Activates/deactivates the annotation. This is described further below.
-- `Panic`: Press this when something goes wrong, e.g. a window is not spectating the user or a window crashes. This will reinitialize all osu! instances.
+- `Panic`: Press this when something goes wrong, e.g. a window is not spectating the user or a window crashes. This will reinitialise all osu! instances.
 - `Exit`: Shuts down the client.
 
 The functionality of each text box is described below:

@@ -63,8 +63,8 @@ The Mania Beginner's Showdown 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517) |
-| Co-organiser | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) |
+| Organizer | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517) |
+| Co-organizer | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) |
 | Mappool selector | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) |
 | Guest mapper | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) |
 | Referee | ![][flag_AU] [anim shnacc](https://osu.ppy.sh/users/11373924), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_NZ] [Erkfir](https://osu.ppy.sh/users/7756939), ![][flag_DE] [Flygone](https://osu.ppy.sh/users/9287979), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_NL] [Lienkuh](https://osu.ppy.sh/users/13960277), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_US] [travis\_ba](https://osu.ppy.sh/users/10822220), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
@@ -1165,13 +1165,13 @@ Monday, 25 May 2020:
 1. This tournament is round robin (if enough players) and will proceed to the knockout stage double-elimination bracket and is will use single-player 1v1 format.
 2. The Score System used will be **ScoreV2**.
 3. This is an osu!mania 4K tournament.
-4. Match scheduling is decided by the organisers. Players may feel free to ask for a reschedule if the given schedule doesn't work for them. Each stage of this tournament will last a weekend.
+4. Match scheduling is decided by the organizers. Players may feel free to ask for a reschedule if the given schedule doesn't work for them. Each stage of this tournament will last a weekend.
 5. If there are no referee available, the match can be postponed.
 6. If both players tie on a map, the map will be replayed. In case they tie again, map will be nullified, and the player who picked the map will be able to pick a new one.
 7. If a player disconnects from the game, the opposite will get a point. The only exception is if the player disconnects during the first 30 seconds of the song, in which the round is restarted. Any deliberate abuse of this rule will be penalised.
 8. Players have 10 minutes to show up to their scheduled match. If the opponent failed to show up, the player who was supposed to play automatically advances onwards. If both players failed to show up, the player with the higher seed will advance.
 9. We reserve the rights to disqualify any player who exhibits harmful behavior.
-10. We reserve the right to refuse people that are in the rank range, but is not considered beginner/intermediate level by organisers judgment.
+10. We reserve the right to refuse people that are in the rank range, but is not considered beginner/intermediate level by organizers judgment.
 11. Any other rules changes or unexpected occurrences will be announced in the thread.
 
 ### Rank restrictions
@@ -1234,7 +1234,7 @@ This tournament is intended for **intermediate** and **beginner** players. It me
 
 1. Every stage will be held during the weekend to let players practice before their match.
 2. Matches are allowed to overlap if referees are available.
-3. If both players can come up with a better time than what we the organisers has scheduled before, please inform the organisers so they can change their match time if informed before the **Thursday** before the weekend of the stage.
+3. If both players can come up with a better time than what we the organizers has scheduled before, please inform the organizers so they can change their match time if informed before the **Thursday** before the weekend of the stage.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

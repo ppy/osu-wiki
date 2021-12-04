@@ -91,13 +91,13 @@ The osu! Mapping World Cup is run by various community members.
 
 ### Contest rules
 
-1. **The [osu! Ranking Criteria](/wiki/Ranking_Criteria/osu!) and [General Ranking Criteria](/wiki/Ranking_Criteria) are in effect for this contest** - The winning prize of the contest includes ranking the winning teams entries, which will be the 3 songs submitted by the team of mappers, we cannot do that if you don't obey the Ranking Criteria. Any required difficulties to fulfill the requirements of the Ranking Criteria will be supplied by the Organiser Team.
+1. **The [osu! Ranking Criteria](/wiki/Ranking_Criteria/osu!) and [General Ranking Criteria](/wiki/Ranking_Criteria) are in effect for this contest** - The winning prize of the contest includes ranking the winning teams entries, which will be the 3 songs submitted by the team of mappers, we cannot do that if you don't obey the Ranking Criteria. Any required difficulties to fulfill the requirements of the Ranking Criteria will be supplied by the Organizer Team.
 2. **4-7 members per team required** - The main concept of the contest is to show off each countries mapping possibilities. This means that collaboration will be a necessary concept between the team members.
-3. **At least 2 mappers will have to collaborate PER SONG & each mapper will have to map at least 10% of the TOTAL DRAIN TIME for all 3 songs combined** - The main objective of this contest is to test each country in their ability to map and collaborate by using a variety of different song genres. How you organize the drain time beyond the required threshold is completely up to you.
+3. **At least 2 mappers will have to collaborate PER SONG & each mapper will have to map at least 10% of the TOTAL DRAIN TIME for all 3 songs combined** - The main objective of this contest is to test each country in their ability to map and collaborate by using a variety of different song genres. How you organise the drain time beyond the required threshold is completely up to you.
 4. **Copying other people’s work is strictly prohibited** - The whole point of the contest is to test each countries ability as a whole, therefore by copying others peoples work you’re not truthfully showing off what your country is capable of. If we, or the judges, find out work has been copied, your entire team will be disqualified.
 5. **Sharing or asking for external help for your mapset before the set deadline ends, is strictly prohibited** - Doing so will automatically disqualify your team.
 6. **Submissions will not be accepted after the deadline** - Everybody will have the same time to map the set so it will ultimately become really unfair if somebody had more time than the others, therefore any maps submitted after the deadline will be disqualified.
-7. **Custom hitsounds are allowed, but none will be provided** - You are allowed, and even encouraged, to use custom hitsounds. Make sure they don’t overlap with your other difficulties, though. How you will organize them will be up to you.
+7. **Custom hitsounds are allowed, but none will be provided** - You are allowed, and even encouraged, to use custom hitsounds. Make sure they don’t overlap with your other difficulties, though. How you will organise them will be up to you.
 8. **Changing the provided .mp3 file or timing of the .osu file is prohibited** - We want to avoid any complications during the judging process since you will be submitting only the .osu files rather than the full .osz.
 9. **Storyboards are allowed, however they will not be taken into account during the judging process** - This is not a storyboarding contest.
 
@@ -121,7 +121,7 @@ The osu! Mapping World Cup is run by various community members.
 
 5. **What if my country doesn’t have a Team Ambassador?**
 
-   Ambassador applications will end on December 27th. If nobody applied to be Ambassador for your country by then, you won’t be able to participate in the contest. Make sure to let mappers in your country know of this beforehand! The country you will be allowed to participate with will be based on your profile's flag. However, for some countries like Belgium - Luxembourg - Netherlands, also known as Benelux, and Australia - New Zealand, a merge is possible to fix the lack of mappers. The merging countries have to talk the same language (besides English if it isn't their countries' official language), or have to be neighbors.
+   Ambassador applications will end on December 27th. If nobody applied to be Ambassador for your country by then, you won’t be able to participate in the contest. Make sure to let mappers in your country know of this beforehand! The country you will be allowed to participate with will be based on your profile's flag. However, for some countries like Belgium - Luxembourg - Netherlands, also known as Benelux, and Australia - New Zealand, a merge is possible to fix the lack of mappers. The merging countries have to talk the same language (besides English if it isn't their countries' official language), or have to be neighbours.
 
 6. **Can I have my own team for my country even if it already has one?**
 
