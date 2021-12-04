@@ -37,7 +37,7 @@ The osu!mania Flashlight 4K Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Organizer | ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Mappool selector | ![][flag_PH] [Arccat](https://osu.ppy.sh/users/4848294), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Referee | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_US] [\[GS\]Rose](https://osu.ppy.sh/users/9481266), ![][flag_PH] [Arccat](https://osu.ppy.sh/users/4848294), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PH] [-Hanamaru-](https://osu.ppy.sh/users/11348518), ![][flag_SE] [Logg45vs](https://osu.ppy.sh/users/8684540), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_AU] [shnacc](https://osu.ppy.sh/users/11373924), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552) |
 | Streamer | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_SE] [Logg45vs](https://osu.ppy.sh/users/8684540), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_PH] [ToshiroKen](https://osu.ppy.sh/users/9550257) |

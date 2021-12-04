@@ -38,8 +38,8 @@ The ROI PRO Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839) |
-| Co-organiser | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Organizer | ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839) |
+| Co-organizer | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
 | Administrator | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
 | Mappool selector | ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
 | Mappool tester | ![][flag_ID] [CyberX](https://osu.ppy.sh/users/2156370), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
@@ -473,7 +473,7 @@ Sunday, 19 April 2020:
 2. The team size is **4 members** per team.
 3. The score system used will be **Score V2**.
 4. There are **no rank restrictions** to participate in the tournament.
-5. The tournament is however restricted to Bahasa Indonesia speaking player only and has Indonesian flag in their osu! profile (Indonesian players who live abroad could give further confirmation through osu! PM or Discord server to the organiser).
+5. The tournament is however restricted to Bahasa Indonesia speaking player only and has Indonesian flag in their osu! profile (Indonesian players who live abroad could give further confirmation through osu! PM or Discord server to the organizer).
 6. The tournament will use Qualifiers to determine the seeding of each player.
 7. **Joining the RPT Discord server is mandatory.** If the player isn't a member of the server by the closing of the registration phase, they'll be ineligible to participate in the tournament.
 8. Amount of players that participate in the tournament will determine the format of the knockout stage:
