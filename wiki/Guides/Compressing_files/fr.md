@@ -19,46 +19,80 @@ Cette section vous montre comment supprimer le son des vidéos en utilisant [Han
 
 1. Ouvrez Handbrake et importez votre fichier vidéo. Vous pouvez glisser et déposer votre fichier dans Handbrake ou l'importer manuellement en cliquant sur l'option `File`.
 
-![Importation de fichiers vidéo dans Handbrake](img/import-handbrake.jpg "Importation de la vidéo dans Handbrake")
+![Importation de fichiers vidéo dans Handbrake](img/import-handbrake.png "Importation de la vidéo dans Handbrake")
 
 2. Sélectionnez le préréglage `Fast 720p30`.
 
-![Sélection du préréglage vidéo](img/preset-handbrake.jpg "Sélection du préréglage")
+![Sélection du préréglage vidéo](img/preset-handbrake.png "Sélection du préréglage")
 
 3. Sélectionnez l'onglet `Audio` et supprimez toutes les pistes audio. Faites de même pour les sous-titres en allant dans l'onglet `Subtitles` et en supprimant toutes les entrées.
 
-![Suppression des pistes audio de l'onglet audio dans Handbrake](img/removeaudio-handbrake.jpg "Suppression des pistes audio")
+![Suppression des pistes audio de l'onglet audio dans Handbrake](img/removeaudio-handbrake.png "Suppression des pistes audio")
 
 4. Allez dans l'onglet `Video` et définissez le codec vidéo comme `H.264 (X264)`. Modifiez la valeur de `Constant Quality` entre 20 et 25. Des valeurs plus petites produiront des fichiers de plus petite taille au détriment de la qualité de la vidéo.
 
-![Réglage du codec vidéo et de la qualité dans Handbrake](img/codecquality-handbrake.jpg "Réglage du codec vidéo et de la constant quality")
-
-5. Réglez le taux de rafraîchissement à 30.
-
-![Réglage du taux de rafraîchissement de la vidéo dans Handbrake](img/framerate-handbrake.jpg "Réglage du taux de rafraîchissement")
+5. Si vous êtes prêt à passer plus de temps à encoder, changez le `Encoder Preset` sous `Encoder Options`. Les préréglages plus lents offrent une meilleure qualité vidéo et peuvent également réduire la taille du fichier vidéo, mais ne descendez pas jusqu'au placebo car cela prend beaucoup plus de temps que `VerySlow` pour une très faible amélioration de la qualité. Réglez le framerate pour qu'il soit le même que celui de la source et réglez-le sur un framerate constant.
 
 6. Pour redimensionner l'image du fichier vidéo, allez dans l'onglet `Dimensions` et changez la largeur en `1280` et la hauteur en `720`.
 
-![Réglage des dimensions de la vidéo dans Handbrake](img/dimensions-handbrake.jpg "Définition des dimensions de la vidéo")
+![Réglage des dimensions de la vidéo et de la qualité dans Handbrake](img/dimensions-handbrake.png "Définition des dimensions de la vidéo")
 
 7. Enfin, choisissez l'emplacement du fichier dans lequel vous voulez sauvegarder votre résultat, puis cliquez sur `Start Encode`.
 
-![Encodage et sauvegarde de la vidéo](img/save-handbrake.jpg "Encodage et sauvegarde de la vidéo")
+![Encodage et sauvegarde de la vidéo](img/save-handbrake.png "Encodage et sauvegarde de la vidéo")
+
+### Utilisation de FFmpeg
+
+Cette section vous montre comment utiliser [FFmpeg](https://ffmpeg.org/) pour réduire la taille des fichiers vidéo. FFmpeg est un programme utilisé via une [interface de ligne de commande (CLI)](https://fr.wikipedia.org/wiki/Interface_en_ligne_de_commande), ce qui signifie qu'il ne possède pas d'[interface utilisateur graphique (GUI)](https://fr.wikipedia.org/wiki/Interface_graphique). Bien que cela puisse sembler intimidant, FFmpeg peut offrir plus de flexibilité que d'autres outils, comme la possibilité de réencoder plusieurs fichiers vidéo plus rapidement et plus facilement.
+
+Si vous êtes sous Windows, commencez par [télécharger FFmpeg](https://ffmpeg.org/download.html) et ajoutez son répertoire à votre variable d'environnement `PATH`. Sous MacOS, vous pouvez également l'installer en utilisant [brew](https://brew.sh/). La plupart des distributions Linux ont déjà FFmpeg installé, mais il peut souvent être facilement installé par leurs gestionnaires de paquets respectifs.
+
+Ouvrez un terminal et collez la commande suivante, en modifiant les valeurs si nécessaire :
+
+```
+ffmpeg -i input -c:v libx264 -crf 20 -preset slower -an -sn -map_metadata -1 -map_chapters -1 -vf scale=-1:720 output.mp4
+```
+
+- `-i input` : Votre fichier source. Si le nom du fichier contient des espaces, mettez-le entre guillemets (`"`).
+- `-c:v libx264` : Indiquez que la vidéo doit être encodée à l'aide de l'encodeur x264, produisant une vidéo au format H.264.
+- `-crf 20` : La qualité de la compression, où des valeurs plus faibles donnent une meilleure qualité au détriment de fichiers plus volumineux et vice versa. La fourchette recommandée est d'environ 20-25.
+- `-preset slower` : Spécifiez un préréglage d'encodage, avec des valeurs recommandées allant de `ultrafast` à `veryslow`. Les préréglages plus lents permettent à l'encodeur de vous donner une qualité supérieure pour le même débit, ou un débit inférieur pour la même qualité. Vous trouverez plus d'informations sur les préréglages disponibles sur le [site officiel de FFmpeg](https://trac.ffmpeg.org/wiki/Encode/H.264#Preset).
+- `-an -sn` : Supprimez l'audio et les sous-titres s'ils sont présents.
+- `-map_metadata -1 -map_chapters -1` : Supprime les métadonnées et les chapitres s'ils sont présents.
+- `-vf scale=-1:720` : Réduire l'échelle de la vidéo à une hauteur de 720 pixels. Le `-1` permet à FFmpeg de déterminer automatiquement la largeur de la nouvelle vidéo en fonction du ratio d'aspect de la source.
+- `output.mp4` : Votre fichier de sortie. Si le nom du fichier contient des espaces, mettez-le entre guillemets (`"`).
 
 ## Audio
 
 Le débit binaire audio détermine en grande partie la taille du fichier audio. Vous pouvez utiliser [Audacity](https://www.audacityteam.org/) pour modifier le débit binaire de vos fichiers audio.
 
-Les [critères de classement](/wiki/Ranking_Criteria#audio) ont une règle qui stipule que tout ce qui est supérieur à 192kbps n'est pas autorisé. En outre, tout ce qui est inférieur à 128 kbps est généralement considéré comme étant de faible qualité.
+Les [critères de classement](/wiki/Ranking_Criteria#audio) ont une règle qui stipule que tout ce qui a un débit moyen supérieur à 192 kbps n'est pas autorisé. En outre, tout ce qui est inférieur à 128 kbps est généralement considéré comme étant de faible qualité.
+
+### Utilisation de Audacity
 
 1. Importez le fichier audio dans Audacity.
 
-![Importer de l'audio dans Audacity](img/import-audacity.jpg "Importer de l'audio dans Audacity")
+![Importer de l'audio dans Audacity](img/import-audacity.png "Importer de l'audio dans Audacity")
 
 2. Exportez l'audio au format MP3.
 
-![Exporter en MP3](img/exportmenu-audacity.jpg "Exporter en MP3")
+![Exporter en MP3](img/exportmenu-audacity.png "Exporter en MP3")
 
 3. Changez les options d'exportation pour aider à compresser votre fichier. Utilisez `Preset` et sélectionnez la qualité `Medium, 145-185 kbps`. Si vous le souhaitez, vous pouvez entrer les métadonnées dans la boîte de dialogue suivante. Lorsque vous êtes prêt, cliquez sur `OK`.
 
-![Exporter les paramètres](img/exportsettings-audacity.jpg "Exporter les paramètres")
+![Exporter les paramètres](img/exportsettings-audacity.png "Exporter les paramètres")
+
+### Utilisation de FFmpeg
+
+Collez la commande suivante dans votre terminal et modifiez les valeurs si nécessaire :
+
+```
+ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1 output.mp3
+```
+
+- `-i input` : Votre fichier source. Si le nom du fichier contient des espaces, mettez-le entre guillemets (`"`).
+- `-c:a libmp3lame` : Indiquez que l'audio doit être encodé à l'aide de l'encodeur LAME MP3.
+- `-q:a 4` : Utilisez la même plage de bitrate variable que dans l'exemple d'Audacity, où un nombre inférieur signifie un bitrate plus élevé. Si vous voulez un débit constant, vous utiliserez par exemple `-b:a 128k` pour un débit constant de 128kbps.
+- `-vn -sn` : Supprimez la vidéo et les sous-titres s'ils sont présents.
+- `-map_metadata -1 -map_chapters -1` : Supprime les métadonnées et les chapitres s'ils sont présents.
+- `output.mp3`:  Votre fichier de sortie. Si le nom du fichier contient des espaces, mettez-le entre guillemets (`"`).
