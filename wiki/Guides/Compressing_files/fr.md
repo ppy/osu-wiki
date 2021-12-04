@@ -30,9 +30,7 @@ Cette section vous montre comment supprimer le son des vidéos en utilisant [Han
 ![Suppression des pistes audio de l'onglet audio dans Handbrake](img/removeaudio-handbrake.png "Suppression des pistes audio")
 
 4. Allez dans l'onglet `Video` et définissez le codec vidéo comme `H.264 (X264)`. Modifiez la valeur de `Constant Quality` entre 20 et 25. Des valeurs plus petites produiront des fichiers de plus petite taille au détriment de la qualité de la vidéo.
-
 5. Si vous êtes prêt à passer plus de temps à encoder, changez le `Encoder Preset` sous `Encoder Options`. Les préréglages plus lents offrent une meilleure qualité vidéo et peuvent également réduire la taille du fichier vidéo, mais ne descendez pas jusqu'au placebo car cela prend beaucoup plus de temps que `VerySlow` pour une très faible amélioration de la qualité. Réglez le framerate pour qu'il soit le même que celui de la source et réglez-le sur un framerate constant.
-
 6. Pour redimensionner l'image du fichier vidéo, allez dans l'onglet `Dimensions` et changez la largeur en `1280` et la hauteur en `720`.
 
 ![Réglage des dimensions de la vidéo et de la qualité dans Handbrake](img/dimensions-handbrake.png "Définition des dimensions de la vidéo")
