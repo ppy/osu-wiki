@@ -86,7 +86,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
   - `osu!` itself should never be used in the source field except in cases where the track was specifically created for osu! (also known as an osu! original), such as commissioned tournament tiebreaker tracks.
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
 - **If the artist or title fields were shortened to fit in field limits, the omitted information must be added to the tags.**
-- **If the song mapped is a licenced one in the featured artist library, `featured artist` must be added to tags.**
+- **If the song mapped is a licensed one in the featured artist library, `featured artist` must be added to tags.**
 - **Tags must be related to the beatmap and not misleading for search results.** Tags describing the beatmap's style, song, storyboard, video, or background content are considered to be related to the beatmap.
 
 #### Standardisation

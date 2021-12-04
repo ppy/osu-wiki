@@ -144,7 +144,7 @@ When viewing these tables:
 - *number* means a **whole** or **decimal** number (e.g. `1.5`, `4.295`, `2`, `3.0`).
 - *integer* means **whole** numbers only (e.g. `-13`, `-632`, `135` , `9`).
   - *positive integer* means **positive whole** numbers only (e.g. `376`, `22`, or `5`).
-- *comma-split list with positive integers* is-- literally-- a list of positive integers splitted with commas (e.g. `1, 2, 3, 55`).
+- *comma-split list with positive integers* is-- literally-- a list of positive integers split with commas (e.g. `1, 2, 3, 55`).
 
 ### RGB and RGB(a)
 

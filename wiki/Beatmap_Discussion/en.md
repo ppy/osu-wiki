@@ -117,7 +117,7 @@ Modding happens through three tabs, which separate posts of different types and 
 
 `Timeline` shows posts at specific points of a difficulty according to the first timestamp placed. Every post in this tab must include a timestamp to be posted. Any timestamps later on will have no influence on post order.
 
-`History` logs all changes to a discussion page in chronological order. Changes are colour coded; with green being resolved posts and status changes, red being new problems after nomination, and blue being everything else. Clicking on any reference number will jump to the specific post. This tab is not used while modding, but is useful for [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and other staff to check issues.
+`History` logs all changes to a discussion page in chronological order. Changes are colour-coded with green being resolved posts and status changes, red being new problems after nomination, and blue being everything else. Clicking on any reference number will jump to the specific post. This tab is not used while modding, but is useful for [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and other staff to check issues.
 
 ## Submission field
 

@@ -454,7 +454,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### April
 
-- **2020-04-11:** The Mappers' Report <!-- TODO: stub --> led by ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) was created to summarise mapping community events via front page news posts.
+- **2020-04-11:** The Mappers' Report<!-- TODO: stub --> led by ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) was created to summarise mapping community events via front page news posts.
 
 ### June
 

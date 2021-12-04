@@ -22,11 +22,11 @@ When submitting levels, creators are encouraged to receive permission for all as
 
 ## Featured Artist licensing terms
 
-Music licenced by osu! is freely available for download from the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) in `.osz` files, which are beatmap templates. A one-minute automatically generated preview of each track is available for streaming on its artist's page. Because songs are used as a catalogue for community members to create beatmaps, some of them may not be immediately used as in-game content.
+Music licensed by osu! is freely available for download from the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) in `.osz` files, which are beatmap templates. A one-minute automatically generated preview of each track is available for streaming on its artist's page. Because songs are used as a catalogue for community members to create beatmaps, some of them may not be immediately used as in-game content.
 
 We look to cover usage within the game, related website and video content. Note that this does not necessarily cover further usage on other platforms in cases where profit is involved. Some artists may request profit share in such cases (where the platform allows for it, e.g. user uploads to YouTube).
 
-osu! licences all music under non-exclusive terms, allowing simultaneous licensing with other platforms (it is our belief that we should not be limiting good music to only our platform). We generally prefer to negotiate licences on perpetual terms due to the nature of usage (users expect their creations to stay available indefinitely). Payment is provided as a fixed negotiable once-off royalty.
+osu! licenses all music under non-exclusive terms, allowing simultaneous licensing with other platforms (it is our belief that we should not be limiting good music to only our platform). We generally prefer to negotiate licences on perpetual terms due to the nature of usage (users expect their creations to stay available indefinitely). Payment is provided as a fixed negotiable once-off royalty.
 
 ## Contact
 
