@@ -1,6 +1,6 @@
 # Penamaan tingkat kesulitan
 
-Tujuan dari penamaan tingkat kesulitan adalah untuk memberi tahu pemain seberapa sulit map itu. Artikel ini mencantumkan konvensi umum serta alternatif lain yang telah dikumpulkan selama bertahun-tahun. Namun, selama kumpulan dari nama tingkat kesulitan itu bersifat deskriptif dan dengan jelas menunjukkan perkembangan kesulitan, Anda dapat menggunakan jenis skema apapun.
+Tujuan dari penamaan tingkat kesulitan adalah untuk memberi tahu pemain seberapa sulit map itu. Artikel ini mencantumkan konvensi umum serta alternatif lain yang telah dikumpulkan selama bertahun-tahun. Namun, selama kumpulan dari nama tingkat kesulitan itu bersifat deskriptif dan menunjukkan perkembangan kesulitan secara jelas, kamu dapat menggunakan jenis skema apapun.
 
 ## Bawaan
 
@@ -190,3 +190,4 @@ Nama tingkat kesulitan berikut adalah alternatif umum dan tambahan untuk nama ti
 - ![](/wiki/shared/diff/hard-o.png) Hyper: dalam spread Easy-Normal-Hard-Insane-Expert, yaitu tingkat kesulitan antara Hard dan Insane.
 - ![](/wiki/shared/diff/expert-o.png) Extra: dapat digunakan sebagai pengganti Expert.
 - ![](/wiki/shared/diff/expertplus-o.png) Extreme: dapat digunakan sebagai Expert yang lebih sulit.
+- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni: dapat digunakan sebagai Inner Oni yang lebih sulit.
