@@ -47,7 +47,7 @@
 **Prozess**
 
 1. Wie oben, führe deine Dateien in einem Ordner zusammen und benenne diesen.
-   - Wenn du die Beatmap vorher editiert hast, wird normalerweise alles bereits fertig zum Konvertieren nach .osz sein. Für Skins musst du die Dateien vorher kompillieren.
+   - Wenn du die Beatmap vorher editiert hast, wird normalerweise alles bereits fertig zum Konvertieren nach .osz sein. Für Skins musst du die Dateien vorher kompilieren.
 2. Öffne osu!.
 3. Wenn du eine .osz machen möchtest, dann:
    - Gehe zu "Edit" und wähle die Beatmap, die du zu .osz konvertieren möchtest.
@@ -56,7 +56,7 @@
 4. Wenn du eine .osk machen möchtest, dann:
    - Versichere dich als erstes, dass dein Skin alles hat, was dieser haben soll. Du kannst das prüfen, indem du "Skinordner öffnen" wählst, sofern du den Skin zum Konvertieren nutzt.
    - Dann, im "Optionen"-Menü, klicke auf "Skin auswählen".
-   - Wähle den Skin, den du möchtest im Skinselektionsmenü und klicke auf "Als .osk exportieren".
+   - Wähle den Skin, den du möchtest, im Skinselektionsmenü und klicke auf "Als .osk exportieren".
    - Die .osk wird erzeugt und im Ordner "Exports" deines osu!-Ordners platziert.
 
 [Osz Link]: /wiki/osu!_File_Formats/Osz_(file_format)
