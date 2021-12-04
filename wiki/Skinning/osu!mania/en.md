@@ -1,6 +1,6 @@
 # osu!mania skinning
 
-Since v2.5+, skinners are now able to fully customize the osu!mania notes and stage using the [skin.ini](/wiki/Skinning/skin.ini) file. The following is what osu! will recognize if one chooses to not use the `skin.ini` for further customization.
+Since v2.5+, skinners are now able to fully customise the osu!mania notes and stage using the [skin.ini](/wiki/Skinning/skin.ini) file. The following is what osu! will recognise if one chooses to not use the `skin.ini` for further customisation.
 
 ## Hit Bursts
 

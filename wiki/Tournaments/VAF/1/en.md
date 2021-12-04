@@ -43,7 +43,7 @@ The Vaf's Autumn Fiesta was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Organizer | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Administrator | ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_AR] [trollocat](https://osu.ppy.sh/users/9228032) |
 | Mappool selector | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_AR] [Reficul](https://osu.ppy.sh/users/1506011), ![][flag_AR] [trollocat](https://osu.ppy.sh/users/9228032) |
 | Mapper | ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_JP] [7\_7](https://osu.ppy.sh/users/7491106), ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) |
@@ -744,7 +744,7 @@ Sunday, 16 May 2021:
 15. The mappool size will follow the listed format:
     - Swiss bracket: 5 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod
     - Semifinals, Finals, and Grand Finals: 5 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod, 1 Tiebreaker
-16. Any members of the staff apart from organisers, mappool selectors and referees **are allowed to play**.
+16. Any members of the staff apart from organizers, mappool selectors and referees **are allowed to play**.
 17. All match schedules will be written in UTC.
 18. Reschedules will always be accepted as long as they are **24 hours before** the first schedule of the running stage.
 19. Mappools will be released by each week's Monday, so every match can occur before that. This applies for both the Swiss bracket and the knockout stage.

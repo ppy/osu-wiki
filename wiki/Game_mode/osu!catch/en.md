@@ -74,7 +74,7 @@ The placement of in-game cursor does not matter when playing normally. If [Relax
 
 ## Scoring
 
-*Scoring Values can be found in [Score under osu!catch Scoring Values section](/wiki/Score#osu!catch).*
+*Scoring values can be found in [osu!catch scoring system](/wiki/Score/osu!catch).*
 
 Scoring section details all the intricacies of scoring, including mathematical formula.
 

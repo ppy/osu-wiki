@@ -24,11 +24,11 @@ Nominator: [Seibei4211](https://osu.ppy.sh/users/31537)
 
 Basically, hit objects are placed to have the appearance of a constant beat; however, timeline-wise, they are spaced a bit further apart.
 
-### Center Anti-Jumps
+### Centre Anti-Jumps
 
 Nominator: [NoHitter](https://osu.ppy.sh/users/124455)
 
-**Center anti-jumps** have a note or a slider placed in the center while the other hit objects but are spaced the same in the timeline as a form of an [anti-jump](#anti-jumps).
+**Centre anti-jumps** have a note or a slider placed in the centre while the other hit objects but are spaced the same in the timeline as a form of an [anti-jump](#anti-jumps).
 
 ### Large Jumps
 
@@ -38,7 +38,7 @@ Nominator: [NoHitter](https://osu.ppy.sh/users/124455)
 
 Nominator: [Zekira](https://osu.ppy.sh/users/36749)
 
-**Oibon jumps** are jumps from the left side of the screen to the right side (or vise versa).
+**Oibon jumps** are jumps from the left side of the screen to the right side (or vice versa).
 
 ## Slider
 

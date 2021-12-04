@@ -28,7 +28,7 @@ Promotions and retirements of public staff have been recorded to make them easil
 TODO: incomplete history
 - pretty much anyone who moved in/out of BN...
 - pretty much anyone around the time of BAT/QAT split
-- anyone involved with management (orange color?)
+- anyone involved with management (orange colour?)
 - Pereira006
 - Seijiro
 - p3n

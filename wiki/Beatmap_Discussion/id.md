@@ -3,11 +3,11 @@ tags:
   - beatmap discussions
   - modding V2
   - MV2
-outdated: true
-outdated_since: 5f24e4b2df25bd38f386bd2cd48e541ebc2e1095
 ---
 
 # Diskusi beatmap
+
+*Lihat juga: [Modding v1](/wiki/Modding/Forum_modding)*
 
 **Diskusi beatmap** (juga dikenal sebagai *Modding v2*) adalah sistem untuk mengatur dan memudahkan proses dari [modding](/wiki/Modding). Diskusi beatmap bertujuan untuk memberikan antarmuka yang jelas dan dapat dimengerti, yang di mana peningkatan pada beatmap menjadi hal yang utama. Ketika beatmap telah [dikirim](/wiki/Submission), laman diskusi secara otomatis dibuat di samping laman info beatmap. Ketika beatmap diperbarui, laman diskusi juga akan diperbarui. Laman diskusi dapat diakses dengan mengklik tombol `Diskusi` pada laman info. Laman diskusi beatmap terdiri dari beberapa elemen (dari atas ke bawah):
 

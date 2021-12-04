@@ -186,7 +186,7 @@ Arrangement de touches *Symétrique* pour le second set
 
 ## Scoring
 
-*[Les Valeurs de Scoring peuvent être trouvées sous osu!mania de la section Scoring Values](/wiki/Score#osu-mania).*
+*Les valeurs des scores peuvent être trouvées dans l'article [système de notation d'osu!mania](/wiki/Score/osu!mania).*
 
 La section Scoring détaille tous les recoins du scoring, formules mathématiques comprises.
 

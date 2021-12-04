@@ -121,7 +121,7 @@ Note: positive angle is clockwise rotation
 
 **r1, g1, b1**: the starting component-wise colour **r2, g2, b2**: the finishing component-wise colour
 
-sprites with (255,255,255) will be their original colour. sprites with (0,0,0) will be \[b\]totally black\[/b\]. anywhere in between will result in subtractive colouring. to make full use of this, brighter grayscale sprites work very well.
+sprites with (255,255,255) will be their original colour. sprites with (0,0,0) will be \[b\]totally black\[/b\]. anywhere in between will result in subtractive colouring. to make full use of this, brighter greyscale sprites work very well.
 
 `_MX,[...],startx,endx`
 

@@ -1,4 +1,4 @@
-# Mod (Begriffserklärung)
+# Mod (Begriffsabgrenzung)
 
 **Mod** kann Folgendes bedeuten:
 
