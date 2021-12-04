@@ -219,7 +219,7 @@ Song: **[MDK](https://osu.ppy.sh/beatmaps/artists/61) - Press Start**
 
 ### Contest rules
 
-1. **The [osu! Ranking Criteria](/wiki/Ranking_Criteria/osu!) and [General Ranking Criteria](/wiki/Ranking_Criteria) are in effect for this contest** - The winning prize of the contest includes ranking the winning teams' entries, which will be the 3 songs submitted by the team of mappers, which we cannot do if you don't obey the Ranking Criteria. Any required difficulties to fulfill the requirements of the Ranking Criteria will be supplied by the Organiser Team.
+1. **The [osu! Ranking Criteria](/wiki/Ranking_Criteria/osu!) and [General Ranking Criteria](/wiki/Ranking_Criteria) are in effect for this contest** - The winning prize of the contest includes ranking the winning teams' entries, which will be the 3 songs submitted by the team of mappers, which we cannot do if you don't obey the Ranking Criteria. Any required difficulties to fulfill the requirements of the Ranking Criteria will be supplied by the Organizer Team.
 2. **3-7 members per team required** - The main concept of the contest is to show off each country's mapping capabilities. This means that a collaboration of at least 2 members on each song will be required from the team members. How you organise the map parts is completely up to you.
 3. **Each mapper must contribute at least once during the contest** - We want each team to be fairly rewarded for their hard work, which means we don't want any winning teams to have one or more members that do not contribute during the contest.
 4. **Copying other people's work is strictly prohibited** - The whole point of the contest is to test each country's ability as a whole, therefore by copying other people's work you're not truthfully showing off what your country is capable of. If we, or the judges, find out that work has been copied, your entire team will be disqualified.
@@ -232,7 +232,7 @@ Song: **[MDK](https://osu.ppy.sh/beatmaps/artists/61) - Press Start**
 11. **Restricted mappers can't take part in the contest** - For the legitimacy of this contest restricted users are not accepted. If it is found out that a restricted user took the place of someone's account for this contest, the entire team will be disqualified.
 12. **Teams must consist of users from a single country only** - Merging or combining countries does not allow people to represent their individual country to the fullest. You can only join the team of the country that is displayed on your osu! profile.
 13. **Only one team per country will be allowed** - While some countries are more active than others on osu! and in mapping, to keep everything fair between all of the participants of this contest, only one team will be made per country.
-14. **Keep the organisers in touch with team updates past the preparation phase** - If a contestant has to drop out from the contest for any reasons, please let the staff know about it as soon as possible. No replacements will be allowed and no rewards will be attributed to the user if the team gets into the top 3.
+14. **Keep the organizers in touch with team updates past the preparation phase** - If a contestant has to drop out from the contest for any reasons, please let the staff know about it as soon as possible. No replacements will be allowed and no rewards will be attributed to the user if the team gets into the top 3.
 
 ### Questions and answers
 
@@ -250,7 +250,7 @@ Song: **[MDK](https://osu.ppy.sh/beatmaps/artists/61) - Press Start**
 
 4. **What is a "Team Captain"?**
 
-   The Team Captains (or just Captains) are chosen by the mappers of their country through a vote on the website. They will be the ones in charge of communicating with the organisers and their team in order to let us know about team-related things. The requirements to become Team Captain is to have at least one ranked guest difficulty, in order to show your mapping experience.
+   The Team Captains (or just Captains) are chosen by the mappers of their country through a vote on the website. They will be the ones in charge of communicating with the organizers and their team in order to let us know about team-related things. The requirements to become Team Captain is to have at least one ranked guest difficulty, in order to show your mapping experience.
 
 5. **What if my country doesn't have a Team Captain?**
 

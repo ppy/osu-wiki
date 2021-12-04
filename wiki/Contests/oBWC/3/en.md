@@ -162,7 +162,7 @@ The osu! Beatmapping World Championship is run by various community members.
 11. **Do not include storyboards or beatmap backgrounds.** They will not be considered in the judging process and will be removed prior to entries being passed onto the judges.
 12. **Restricted users cannot take part in the contest.** For the legitimacy of this contest, restricted users are not allowed to participate. If a restricted user is identified to contribute to this contest in a team, the entire team will be disqualified.
 13. **Teams must consist of users from a single country only.** Merging or combining countries does not allow people to represent their individual country to the fullest. You can only join the team that belongs to the country displayed on your osu! profile.
-14. **Keep the organisers in touch with team updates past the preparation phase.** If a contestant has to drop out from the contest for any reason, please let the staff know about it as soon as possible. No replacements will be allowed and no rewards will be attributed to the user if the team achieves the top 3 or is nominated for the Players' Pick award. Users that quit the contest are not able to rejoin. If the number of participants drops below the required minimum, the team will be disqualified.
+14. **Keep the organizers in touch with team updates past the preparation phase.** If a contestant has to drop out from the contest for any reason, please let the staff know about it as soon as possible. No replacements will be allowed and no rewards will be attributed to the user if the team achieves the top 3 or is nominated for the Players' Pick award. Users that quit the contest are not able to rejoin. If the number of participants drops below the required minimum, the team will be disqualified.
 
 ## Judging criteria
 
@@ -196,7 +196,7 @@ The songs will be announced as soon as the stage starts. Keep in mind that all t
 
 4. **What is a "Team Captain"?**
 
-The Team Captains, also called Captains will be the ones in charge of communicating with the organisers and their team members in order to let us know about team-related things. No additional requirements are needed to become a Team Captain.
+The Team Captains, also called Captains will be the ones in charge of communicating with the organizers and their team members in order to let us know about team-related things. No additional requirements are needed to become a Team Captain.
 
 5. **What if my country doesn't have a Team Captain?**
 

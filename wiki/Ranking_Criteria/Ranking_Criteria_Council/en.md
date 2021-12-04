@@ -66,8 +66,8 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 ### osu! members
 
-- ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) (Organiser)
-- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organiser)
+- ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) (Organizer)
+- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
 - ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438)
 - ![][flag_US] [Zexous](https://osu.ppy.sh/users/1715876)
 - ![][flag_SG] [hehe](https://osu.ppy.sh/users/2123087)
@@ -82,8 +82,8 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 ### osu!taiko members
 
-- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organiser)
-- ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) (Organiser)
+- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
+- ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) (Organizer)
 - ![][flag_FR] [Aldwych](https://osu.ppy.sh/users/1416484)
 - ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000)
 - ![][flag_US] [hikikochan](https://osu.ppy.sh/users/6512678)
@@ -94,8 +94,8 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 ### osu!catch members
 
-- ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) (Organiser)
-- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) (Organiser)
+- ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) (Organizer)
+- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) (Organizer)
 - ![][flag_SG] [He Ang CTB](https://osu.ppy.sh/users/2451381)
 - ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933)
 - ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955)
@@ -105,16 +105,16 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 *Note: The original osu!mania UBKRC members were unable to complete a Ranking Criteria draft and were replaced by the users below*
 
-- ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) (Organiser)
-- ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) (Organiser)
+- ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) (Organizer)
+- ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) (Organizer)
 - ![][flag_ID] [MEGAtive](https://osu.ppy.sh/users/3094101)
 - ![][flag_US] [-MysticEyes](https://osu.ppy.sh/users/6253266)
 - ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
 
 ### Metadata members
 
-- ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463) (Organiser)
-- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organiser)
+- ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463) (Organizer)
+- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
 - ![][flag_US] [Lanturn](https://osu.ppy.sh/users/1446665)
 - ![][flag_JP] [alacat](https://osu.ppy.sh/users/869782)
 - ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867)
@@ -123,8 +123,8 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 ### Storyboarding members
 
-- ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) (Organiser)
-- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organiser)
+- ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) (Organizer)
+- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
 - ![][flag_DE] [Damnae](https://osu.ppy.sh/users/989377)
 - ![][flag_CA] [Sidetail](https://osu.ppy.sh/users/2036217)
 - ![][flag_US] [Starrodkirby86](https://osu.ppy.sh/users/410)
@@ -133,7 +133,7 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 ### Timing members
 
-- ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) (Organiser)
+- ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) (Organizer)
 - ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005)
 - ![][flag_AT] [Bonsai](https://osu.ppy.sh/users/987334)
 - ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508)
@@ -143,7 +143,7 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 ### Spread members
 
-- ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) (Organiser)
+- ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) (Organizer)
 - ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092)
 - ![][flag_KR] [Doyak](https://osu.ppy.sh/users/2046893)
 - ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645)
@@ -155,7 +155,7 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 ### Skinning members
 
-- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organiser)
+- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
 - ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ![][flag_DE] [Haskorion](https://osu.ppy.sh/users/3252321)
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
