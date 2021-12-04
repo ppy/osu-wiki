@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 460d8a7a68bd338ad0184df32162877166038f1d
+---
+
 # Penamaan tingkat kesulitan
 
 Tujuan dari penamaan tingkat kesulitan adalah untuk memberi tahu pemain seberapa sulit map itu. Artikel ini mencantumkan konvensi umum serta alternatif lain yang telah dikumpulkan selama bertahun-tahun. Namun, selama kumpulan dari nama tingkat kesulitan itu bersifat deskriptif dan menunjukkan eskalasi kesulitan secara jelas, kamu dapat menggunakan jenis skema apapun.
