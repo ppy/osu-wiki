@@ -439,7 +439,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 4. All successfully formed teams will be published after the Registration Phase.
    - A team should have at least 3 players registered to have the chance to play the Qualifier stage.
    - The top 32 seeded teams will qualify to the Round of 32.
-5. Organisers, Mappool Selectors and referees must not participate as a player in the tournament.
+5. Organizers, Mappool Selectors and referees must not participate as a player in the tournament.
 
 ### Qualifier instructions
 
