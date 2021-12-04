@@ -114,60 +114,60 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 **[Clique aqui para baixar o pack!](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
 
 - NoMod
-  - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
-  - [Dark PHOENiX - Hiroari Shoots a Strange Bird (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/126354#osu/321559)
-  - [daisan - -+ (RikiH\_) \[Extra\]](https://osu.ppy.sh/beatmapsets/135094#osu/338544)
-  - [Rohi - Kanata ni Mau wa Sakura no Shirabe (NatsumeRin) \[Extra\]](https://osu.ppy.sh/beatmapsets/93555#osu/252290)
-  - [Hatsune Miku - Homework Crisis (val0108) \[Let's Jump!!\]](https://osu.ppy.sh/beatmapsets/33068#osu/108021)
-  - [Glamour of the Kill - A Hope in Hell (ykcarrot) \[Hopeless\]](https://osu.ppy.sh/beatmapsets/31814#osu/104389)
+  1. [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
+  2. [Dark PHOENiX - Hiroari Shoots a Strange Bird (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/126354#osu/321559)
+  3. [daisan - -+ (RikiH\_) \[Extra\]](https://osu.ppy.sh/beatmapsets/135094#osu/338544)
+  4. [Rohi - Kanata ni Mau wa Sakura no Shirabe (NatsumeRin) \[Extra\]](https://osu.ppy.sh/beatmapsets/93555#osu/252290)
+  5. [Hatsune Miku - Homework Crisis (val0108) \[Let's Jump!!\]](https://osu.ppy.sh/beatmapsets/33068#osu/108021)
+  6. [Glamour of the Kill - A Hope in Hell (ykcarrot) \[Hopeless\]](https://osu.ppy.sh/beatmapsets/31814#osu/104389)
 - Hidden
-  - [HitoshizukuP x Yama - Crazy nighT (Sephibro) \[Crazy\]](https://osu.ppy.sh/beatmapsets/109401#osu/285549)
-  - [Renard - Smoke Tower (Priti) \[Trauma\]](https://osu.ppy.sh/beatmapsets/135596#osu/339640)
-  - [Cres - End Time (Kyshiro) \[Extra\]](https://osu.ppy.sh/beatmapsets/140691#osu/432839)
+  1. [HitoshizukuP x Yama - Crazy nighT (Sephibro) \[Crazy\]](https://osu.ppy.sh/beatmapsets/109401#osu/285549)
+  2. [Renard - Smoke Tower (Priti) \[Trauma\]](https://osu.ppy.sh/beatmapsets/135596#osu/339640)
+  3. [Cres - End Time (Kyshiro) \[Extra\]](https://osu.ppy.sh/beatmapsets/140691#osu/432839)
 - HardRock
-  - [Yooh - Shanghai Kouchakan ~ Chinese Tea Orchid Remix (Gamu) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/184498#osu/486619)
-  - [Sariyajin - Ao no Senritsu (smallboat) \[Extra\]](https://osu.ppy.sh/beatmapsets/124500#osu/317327)
-  - [Omoi - Nee William (Yales) \[Extra\]](https://osu.ppy.sh/beatmapsets/164155#osu/399756)
+  1. [Yooh - Shanghai Kouchakan ~ Chinese Tea Orchid Remix (Gamu) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/184498#osu/486619)
+  2. [Sariyajin - Ao no Senritsu (smallboat) \[Extra\]](https://osu.ppy.sh/beatmapsets/124500#osu/317327)
+  3. [Omoi - Nee William (Yales) \[Extra\]](https://osu.ppy.sh/beatmapsets/164155#osu/399756)
 - DoubleTime
-  - [Kozato - Tsuki -Yue- (jonathanlfj) \[Another\]](https://osu.ppy.sh/beatmapsets/101123#osu/268080)
-  - [Elvenking - The Winter Wake (Snepif) \[AlrdyExists' Blizzard\]](https://osu.ppy.sh/beatmapsets/32499#osu/107747)
-  - [Mitchie M - Viva Happy (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/120002#osu/317917)
+  1. [Kozato - Tsuki -Yue- (jonathanlfj) \[Another\]](https://osu.ppy.sh/beatmapsets/101123#osu/268080)
+  2. [Elvenking - The Winter Wake (Snepif) \[AlrdyExists' Blizzard\]](https://osu.ppy.sh/beatmapsets/32499#osu/107747)
+  3. [Mitchie M - Viva Happy (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/120002#osu/317917)
 - FreeMod
-  - [Maduk ft. Veela - Ghost Assassin (Hourglass Bonusmix) (alacat) \[Lumiere\]](https://osu.ppy.sh/beatmapsets/198820#osu/471598)
-  - [8284 vs wa. - Adularescence (Cherry Blossom) \[Extra\]](https://osu.ppy.sh/beatmapsets/119438#osu/306669)
-  - [yuikonnu - Hatsukoi no Ehon (litoluna) \[Insane\]](https://osu.ppy.sh/beatmapsets/110870#osu/288660)
+  1. [Maduk ft. Veela - Ghost Assassin (Hourglass Bonusmix) (alacat) \[Lumiere\]](https://osu.ppy.sh/beatmapsets/198820#osu/471598)
+  2. [8284 vs wa. - Adularescence (Cherry Blossom) \[Extra\]](https://osu.ppy.sh/beatmapsets/119438#osu/306669)
+  3. [yuikonnu - Hatsukoi no Ehon (litoluna) \[Insane\]](https://osu.ppy.sh/beatmapsets/110870#osu/288660)
 - Tiebreaker
-  - **[Halozy - Kanshou no Matenrou (captin1) \[Eternal\]](https://osu.ppy.sh/beatmapsets/179699#osu/431957)**
+  1. **[Halozy - Kanshou no Matenrou (captin1) \[Eternal\]](https://osu.ppy.sh/beatmapsets/179699#osu/431957)**
 
 ### Oitavas de final
 
 **[Clique aqui para baixar o pack!](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
 
 - NoMod
-  - [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/122605#osu/315260)
-  - [Renard - Da Nu Nuttah (GamerX4life) \[Nogard\]](https://osu.ppy.sh/beatmapsets/62665#osu/205282)
-  - [Qrispy Joybox - snow prism (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/132389#osu/332962)
-  - [Foreground Eclipse - I Bet You'll Forget That Even If You Noticed That (rEdo) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/146805#osu/363662)
-  - [Lon - MATRYOSHKA (EvilElvis) \[Extra\]](https://osu.ppy.sh/beatmapsets/109185#osu/285086)
-  - [HujuniseikouyuuP - Sayonara Lechenaultia (qq944364487) \[Lechenaultia\]](https://osu.ppy.sh/beatmapsets/65747#osu/192320)
+  1. [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/122605#osu/315260)
+  2. [Renard - Da Nu Nuttah (GamerX4life) \[Nogard\]](https://osu.ppy.sh/beatmapsets/62665#osu/205282)
+  3. [Qrispy Joybox - snow prism (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/132389#osu/332962)
+  4. [Foreground Eclipse - I Bet You'll Forget That Even If You Noticed That (rEdo) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/146805#osu/363662)
+  5. [Lon - MATRYOSHKA (EvilElvis) \[Extra\]](https://osu.ppy.sh/beatmapsets/109185#osu/285086)
+  6. [HujuniseikouyuuP - Sayonara Lechenaultia (qq944364487) \[Lechenaultia\]](https://osu.ppy.sh/beatmapsets/65747#osu/192320)
 - Hidden
-  - [Kozato snow - Izayoi Sakura (Melt) \[Insane\]](https://osu.ppy.sh/beatmapsets/162371#osu/396105)
-  - [Megpoid GUMI & Kagamine Rin - Invisible (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/45160#osu/143036)
-  - [Zeami - Music Revolver (KanaRin) \[Kana\]](https://osu.ppy.sh/beatmapsets/53231#osu/162363)
+  1. [Kozato snow - Izayoi Sakura (Melt) \[Insane\]](https://osu.ppy.sh/beatmapsets/162371#osu/396105)
+  2. [Megpoid GUMI & Kagamine Rin - Invisible (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/45160#osu/143036)
+  3. [Zeami - Music Revolver (KanaRin) \[Kana\]](https://osu.ppy.sh/beatmapsets/53231#osu/162363)
 - HardRock
-  - [MOMOIRO CLOVER Z - SARABA ITOSHIKI KANASHIMI TACHIYO (Sellenite) \[Master\]](https://osu.ppy.sh/beatmapsets/215977#osu/507098)
-  - [Hatsune Miku - Hiatus (wcx19911123) \[Insane\]](https://osu.ppy.sh/beatmapsets/32046#osu/105003)
-  - [P\*Light - Poppin' Shower (Reisen Udongein) \[Another\]](https://osu.ppy.sh/beatmapsets/42527#osu/133723)
+  1. [MOMOIRO CLOVER Z - SARABA ITOSHIKI KANASHIMI TACHIYO (Sellenite) \[Master\]](https://osu.ppy.sh/beatmapsets/215977#osu/507098)
+  2. [Hatsune Miku - Hiatus (wcx19911123) \[Insane\]](https://osu.ppy.sh/beatmapsets/32046#osu/105003)
+  3. [P\*Light - Poppin' Shower (Reisen Udongein) \[Another\]](https://osu.ppy.sh/beatmapsets/42527#osu/133723)
 - DoubleTime
-  - [KOTOKO - unfinished (Pokie) \[Acceleration\]](https://osu.ppy.sh/beatmapsets/51132#osu/156904)
-  - [Nanamori-chu \* Goraku-bu - Precious Friends (Setz206) \[Insane\]](https://osu.ppy.sh/beatmapsets/173956#osu/420131)
-  - [Matchbox Twenty - How Far We've Come (Sushi) \[Insane\]](https://osu.ppy.sh/beatmapsets/31014#osu/104117)
+  1. [KOTOKO - unfinished (Pokie) \[Acceleration\]](https://osu.ppy.sh/beatmapsets/51132#osu/156904)
+  2. [Nanamori-chu \* Goraku-bu - Precious Friends (Setz206) \[Insane\]](https://osu.ppy.sh/beatmapsets/173956#osu/420131)
+  3. [Matchbox Twenty - How Far We've Come (Sushi) \[Insane\]](https://osu.ppy.sh/beatmapsets/31014#osu/104117)
 - FreeMod
-  - [Blackhole - Lagomorphic (happy623) \[Lagomorph\]](https://osu.ppy.sh/beatmapsets/74664#osu/211889)
-  - [Memme - NEW Astronomas (Charles445) \[Extra\]](https://osu.ppy.sh/beatmapsets/87188#osu/238265)
-  - [Hatsune Miku - Dance of many (LKs) \[Dance\]](https://osu.ppy.sh/beatmapsets/45028#osu/140805)
+  1. [Blackhole - Lagomorphic (happy623) \[Lagomorph\]](https://osu.ppy.sh/beatmapsets/74664#osu/211889)
+  2. [Memme - NEW Astronomas (Charles445) \[Extra\]](https://osu.ppy.sh/beatmapsets/87188#osu/238265)
+  3. [Hatsune Miku - Dance of many (LKs) \[Dance\]](https://osu.ppy.sh/beatmapsets/45028#osu/140805)
 - Tiebreaker
-  - **[Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/121635#osu/311573)**
+  1. **[Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/121635#osu/311573)**
 
 ### Fase de Grupos
 
