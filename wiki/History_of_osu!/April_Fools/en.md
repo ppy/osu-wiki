@@ -62,7 +62,7 @@ On 1 April 2012, the entire osu! website had a 50% chance of either the [Flashli
 
 ### Bad Apple ranking chart
 
-The "Bad Apple Ranking Chart" was a joke ranking chart based on a variety of beatmaps that featured the song "Bad Apple!!" as part of osu!'s 2012 April Fools' joke. Announced via [a newspost](https://osu.ppy.sh/community/forums/posts/1431905) on 1 April 2012, the ranking chart actually functioned as a real working chart at the time and displayed the top 40 players who obtained the highest [ranked score](/wiki/Score#ranked-score) in any one of the handpicked selections of "Bad Apple!!" beatmaps [[20,21,22]][r]. An excerpt from the aforementioned newspost is inscribed below:
+The "Bad Apple Ranking Chart" was a joke ranking chart based on a variety of beatmaps that featured the song "Bad Apple!!" as part of osu!'s 2012 April Fools' joke. Announced via [a newspost](https://osu.ppy.sh/community/forums/posts/1431905) on 1 April 2012, the ranking chart actually functioned as a real working chart at the time and displayed the top 40 players who obtained the highest [ranked score](/wiki/Score/Ranked_score) in any one of the handpicked selections of "Bad Apple!!" beatmaps [[20,21,22]][r]. An excerpt from the aforementioned newspost is inscribed below:
 
 > We decided to dedicate this chart to the greatest song and video ever created, Bad Apple!!. You can find the awesome chart here
 >
@@ -133,7 +133,7 @@ In short, in order to play or restart a [beatmap](/wiki/Beatmap), users must hav
 
 The main screen of osu! also had a barrage of slowly rising osu!coins in the background, along with a slightly changed main theme, in which the exclamation "circles!" was replaced with a robotic-sounding "and buy the coins" before the beat drop. Additional new textures, sound effects, animations, and music were created for this prank, including a counter that would display the amount of coins players had throughout their plays. [[37,38]][r]. <!--needs further verification-->
 
-The update was generally well-received by players and saw some actual support for a future implementation without the monetization. Despite this, peppy rolled back the implementation of osu!coins the following day with [a remark in its corresponding changelog update](https://osu.ppy.sh/comments/121803) about the feedback [[35,39,40,41]][r].
+The update was generally well-received by players and saw some actual support for a future implementation without the monetisation. Despite this, peppy rolled back the implementation of osu!coins the following day with [a remark in its corresponding changelog update](https://osu.ppy.sh/comments/121803) about the feedback [[35,39,40,41]][r].
 
 ---
 
