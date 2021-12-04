@@ -28,9 +28,9 @@ To create a new tournament configuration, create a new directory in the `tournam
 Inside a tournament configuration the necessary assets can be supplied to display flags, videos and mod icons for the mappool. Each category of asset has its own folder: 
 
 - your-tournament
-    - Flags
-    - Mods
-    - Videos
+  - Flags
+  - Mods
+  - Videos
 
 ## Customisation
 
