@@ -4,7 +4,7 @@ title: "New Featured Artist: KINEMA106"
 date: 2021-12-04 09:00:00 +0000
 ---
 
-Dive into a crowd of *Kantai Collection* inspired tracks created by **KINEMA106**, our newest Featured Artist!
+Dive into a crowd of *Kantai Collection*-inspired tracks created by **KINEMA106**, our newest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/222/header.jpg)
 
@@ -12,7 +12,7 @@ Dive into a crowd of *Kantai Collection* inspired tracks created by **KINEMA106*
 
 We're in for a big one this time. **37** top-notch songs have been prepped for your eager mapping fingers and are available on [**KINEMA106**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/222)!
 
-It should come as no surprise that **KINEMA106** is popular among circle clickers. This brand of J-rock is essentially in our blood at this point, and so we've organized a ton of maps for you to explore (most of which come from the swell folks over at the [Mappers' Guild](/wiki/Mappers_Guild)).
+It should come as no surprise that **KINEMA106** is popular among circle clickers. This brand of J-rock is essentially in our blood at this point, so we've organized a ton of maps for you to explore (most of which come from the swell folks over at the [Mappers' Guild](/wiki/Mappers_Guild)).
 
 Take a look for yourself:
 
