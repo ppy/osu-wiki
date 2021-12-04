@@ -556,7 +556,7 @@ Sunday, 2 February 2020:
 1. This tournament uses double-elimination bracket and single-player format. There are no teams here.
 2. The score system used will be **Score V2**.
 3. The mapset will be announced **every Sunday**, and the categories are NoMod, Hidden, HardRock, DoubleTime, FreeMod, Tiebreaker.
-4. Match schedule is decided by the organisers. Players may ask for a reschedule if the current schedule does not work for them. Each stage of this tournament will last a weekend.
+4. Match schedule is decided by the organizers. Players may ask for a reschedule if the current schedule does not work for them. Each stage of this tournament will last a weekend.
 5. If there are no referees available, the match can be postponed.
 6. If both players gets a tied score on the Tiebreaker, the Tiebreaker will be replayed.
 7. If a player disconnects from the game, the opponent wins the round. The only exception is if the player disconnects during the first ten seconds of the song, in which the round is restarted.
@@ -613,7 +613,7 @@ A player's registration will not count if they are in the top 10,000 of the osu!
 1. Every stage is held during the weekend to let players practice.
 2. Matches are allowed to overlap if referees are available.
 3. Players must complete their match at the designated time or both players are eliminated.
-4. However if both players can come up with a better time than what we have schedule for them, please inform the organisers for a reschedule. They will rearrange your match if the proposed reschedule is informed before the Thursday of the weekend.
+4. However if both players can come up with a better time than what we have schedule for them, please inform the organizers for a reschedule. They will rearrange your match if the proposed reschedule is informed before the Thursday of the weekend.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

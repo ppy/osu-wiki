@@ -82,11 +82,11 @@ Nominator(s): Beuchi-chan
 
 The **hub and spoke** formation is literally a hub with spokes peaking out.
 This technique requires at least 8 to 9 hit objects that are half a beat apart from another.
-Using this will force the player to not only move in a circular direction but also require them to return back to the center after an object was hit.
-In general, this is basically the [QQ diamonds](/wiki/Mapping_Techniques/Formations#qq-diamonds) technique with a center for every other hit object.
+Using this will force the player to not only move in a circular direction but also require them to return back to the centre after an object was hit.
+In general, this is basically the [QQ diamonds](/wiki/Mapping_Techniques/Formations#qq-diamonds) technique with a centre for every other hit object.
 
-First, place the odd numbered combos in the center of where the hub and spoke is to be mapped (this part is the "hub").
-The following, even, hit objects are to then be placed 0 degrees, 90 degrees, 180 degrees, 270 degrees (or vise versa) surrounding the "hub" (these are the "spokes").
+First, place the odd numbered combos in the centre of where the hub and spoke is to be mapped (this part is the "hub").
+The following, even, hit objects are to then be placed 0 degrees, 90 degrees, 180 degrees, 270 degrees (or vice versa) surrounding the "hub" (these are the "spokes").
 
 It is very important to lay the hit objects out so that they go in a clockwise or counterclockwise direction.
 
@@ -111,10 +111,10 @@ Nominator(s): [Pasonia](https://osu.ppy.sh/users/43345)
 This technique has the advantage of keeping a momentum in a tune running during that section of a map.
 However, incorrect patternmapping can lead to an almost unplayable map.
 
-Basically, form a square around the center with 4 hit circles.
+Basically, form a square around the centre with 4 hit circles.
 The next 4 hit circles are then to be placed 1 grid space outwards and so on.
 
-Another varient you can add is to place a hit circle in the center after each cycle.
+Another varient you can add is to place a hit circle in the centre after each cycle.
 
 ### Step-Too-Fars
 

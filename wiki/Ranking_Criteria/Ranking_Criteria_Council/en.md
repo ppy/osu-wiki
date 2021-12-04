@@ -4,7 +4,7 @@ The **Ranking Criteria Council** was a group of users tasked with reworking the 
 
 Many of the rules that the [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) operated by when evaluating maps were unwritten and there were no mode-specific criteria at the time. This led to repeated disqualifications that the mapping community viewed as unjustified, so the Ranking Criteria Council aimed to bring everyone to common ground.
 
-This project discontinued use of the [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87) from the public, only allowing posts from members of the council. Members of the council planned on discussing all aspects of mapping and forming their own Ranking Criteira proposals accordingly.
+This project discontinued use of the [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87) from the public, only allowing posts from members of the council. Members of the council planned on discussing all aspects of mapping and forming their own Ranking Criteria proposals accordingly.
 
 ## Initial members
 
