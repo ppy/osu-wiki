@@ -1,6 +1,6 @@
 # Penamaan tingkat kesulitan
 
-Tujuan dari penamaan tingkat kesulitan adalah untuk memberi tahu pemain seberapa sulit map itu. Artikel ini mencantumkan konvensi umum serta alternatif lain yang telah dikumpulkan selama bertahun-tahun. Namun, selama kumpulan dari nama tingkat kesulitan itu bersifat deskriptif dan menunjukkan perkembangan kesulitan secara jelas, kamu dapat menggunakan jenis skema apapun.
+Tujuan dari penamaan tingkat kesulitan adalah untuk memberi tahu pemain seberapa sulit map itu. Artikel ini mencantumkan konvensi umum serta alternatif lain yang telah dikumpulkan selama bertahun-tahun. Namun, selama kumpulan dari nama tingkat kesulitan itu bersifat deskriptif dan menunjukkan eskalasi kesulitan secara jelas, kamu dapat menggunakan jenis skema apapun.
 
 ## Bawaan
 
