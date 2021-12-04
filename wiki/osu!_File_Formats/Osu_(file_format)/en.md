@@ -80,7 +80,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 | `CircleSize` | Decimal | CS setting (0–10) |
 | `OverallDifficulty` | Decimal | OD setting (0–10) |
 | `ApproachRate` | Decimal | AR setting (0–10) |
-| `SliderMultiplier` | Decimal | Base slider velocity in hundred-[osu! pixels](/wiki/osupixel) per beat |
+| `SliderMultiplier` | Decimal | Base slider velocity in hundreds of [osu! pixels](/wiki/osupixel) per beat |
 | `SliderTickRate` | Decimal | Amount of slider ticks per beat |
 
 ## Events
