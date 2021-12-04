@@ -53,7 +53,7 @@ In addition, if you know the osu! username of the person bothering you, please s
 
 ### On a Twitter linked to an osu! user's profile
 
-Click the three dots in the top right of the problem tweet and click 'Report Tweet'. Make sure to follow the prompts and read them carefully. You might also want to read [Twitter's guide on reporting abusive behaviour](https://help.twitter.com/en/safety-and-security/report-abusive-behaviour) for more information on the process.
+Click the three dots in the top right of the problem tweet and click 'Report Tweet'. Make sure to follow the prompts and read them carefully. You might also want to read [Twitter's guide on reporting abusive behaviour](https://help.twitter.com/en/safety-and-security/report-abusive-behavior) for more information on the process.
 
 Afterwards, either block or mute the user in question by clicking the three dots in the top right of their tweet (if you're using the website or mobile client). Consult [Twitter's guide on blocking accounts](https://help.twitter.com/en/using-twitter/blocking-and-unblocking-accounts) for more information.
 
