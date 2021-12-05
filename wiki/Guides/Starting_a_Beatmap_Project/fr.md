@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 2a329c3fea5de107ca653f1dadab7477e5ad3343
----
-
 # Comment démarrer un projet de beatmap
 
 *[Veuillez préciser le type de projet (Discographie, Album, Collab) par LuigiHann](https://osu.ppy.sh/community/forums/topics/12193)*
@@ -36,6 +31,6 @@ Un exemple de titre incorrect
 
 - Exemples : [Anamanaguchi - Scott Pilgrim vs The World (The Game)](https://osu.ppy.sh/community/forums/topics/37908), [Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
 
-**Collab :** Créer un projet de mapping de groupe pour une certaine musique. Cela peut aller de la demande de storyboarding au mapping de certaines parties d'un marathon. [Référence](https://osu.ppy.sh/community/forums/topics/35841)
+**Collab :** Créer un [projet de mapping de groupe](/wiki/Beatmap/Beatmap_collaborations) pour une certaine musique. Cela peut aller de la demande de [storyboarding](/wiki/Storyboard) au mapping de certaines parties d'un [marathon](/wiki/Beatmap/Marathon). [Référence](https://osu.ppy.sh/community/forums/topics/35841)
 
 - Exemple : [Voca Nico Party Nonstop Mix - Marathon](https://osu.ppy.sh/community/forums/topics/188118)
