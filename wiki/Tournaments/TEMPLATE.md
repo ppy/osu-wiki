@@ -116,7 +116,7 @@ This competition has come to an end and resulted in the following podium:
 
 <!-- tiebreaker beatmaps must be bolded 
 
-If the mappool doesn't use a standard ModType pool structure, alternative titles may be used in its place. -->
+If the mappool doesn't use a standard ModType pool structure, alternative titles may be used instead. -->
 
 ## Match results
 
