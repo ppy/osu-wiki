@@ -31,6 +31,6 @@ How **not** to do:
 
 - Examples: [Anamanaguchi - Scott Pilgrim vs The World (The Game)](https://osu.ppy.sh/community/forums/topics/37908), [Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
 
-**Collab:** Creating a group-mapping project for a certain song. May range from SB request to mapping parts of a marathon map. [Reference](https://osu.ppy.sh/community/forums/topics/35841)
+**Collab:** Creating a [group-mapping project](/wiki/Beatmap/Beatmap_collaborations) for a certain song. May range from [storyboard](/wiki/Storyboard) request to mapping parts of a [marathon map](/wiki/Beatmap/Marathon). [Reference](https://osu.ppy.sh/community/forums/topics/35841)
 
 - Examples: [Voca Nico Party Nonstop Mix - Marathon](https://osu.ppy.sh/community/forums/topics/188118)
