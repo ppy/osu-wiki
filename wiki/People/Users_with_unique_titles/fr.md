@@ -16,7 +16,7 @@ Les gagnants de l'[OWC 2021](/wiki/Tournaments/OWC/2021) avec le titre d'utilisa
 - ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650)
 - ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211)
 - ![][flag_US] [Utami](https://osu.ppy.sh/users/7512553)
-- 
+
 Les gagnants de la [TWC 2021](/wiki/Tournaments/TWC/2021) avec le titre d'utilisateur **osu!taiko Champion** :
 
 - ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501)
