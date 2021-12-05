@@ -228,14 +228,14 @@ The osu!mania 4K World Cup 2021 was run by the [osu! team](/wiki/People/The_Team
 
 ### Qualifiers
 
-- [Koan Sound - Radiant (Cut Ver.) (Paturages) \[Stage 1: Heater\]](https://osu.ppy.sh/beatmapsets/1535623#mania/3140050)
-- [Micelle - PhonDrome! (aeoliancarp) \[Stage 2: Vessel\]](https://osu.ppy.sh/beatmapsets/1535633#mania/3140079)
-- [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (-mint-) \[Stage 3: Reality\]](https://osu.ppy.sh/beatmapsets/1535611#mania/3140030)
-- [Zekk - Kaleidoscope (juankristal) \[Stage 4: Replica\]](https://osu.ppy.sh/beatmapsets/1535762#mania/3140300)
-- [xi - Garyou Tensei (Penguinosity) \[Stage 5: Resolve\]](https://osu.ppy.sh/beatmapsets/1535632#mania/3140078)
-- [BilliumMoto - life flashes before weeb eyes (lemonguy) \[Stage 6: Remembrance\]](https://osu.ppy.sh/beatmapsets/1535624#mania/3140051)
-- [Cardboard Box feat. Koji Kondo - Mario-chi Survivor (Mipha-) \[Stage 7: Perseverance\]](https://osu.ppy.sh/beatmapsets/1535627#mania/3140055)
-- [deathcount - A Beautiful Degeneracy (Remix by Stazma The Junglechrist) (Shoegazer) \[Stage 8: Desperado\]](https://osu.ppy.sh/beatmapsets/1535626#mania/3140053)
+1. [Koan Sound - Radiant (Cut Ver.) (Paturages) \[Stage 1: Heater\]](https://osu.ppy.sh/beatmapsets/1535623#mania/3140050)
+2. [Micelle - PhonDrome! (aeoliancarp) \[Stage 2: Vessel\]](https://osu.ppy.sh/beatmapsets/1535633#mania/3140079)
+3. [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (-mint-) \[Stage 3: Reality\]](https://osu.ppy.sh/beatmapsets/1535611#mania/3140030)
+4. [Zekk - Kaleidoscope (juankristal) \[Stage 4: Replica\]](https://osu.ppy.sh/beatmapsets/1535762#mania/3140300)
+5. [xi - Garyou Tensei (Penguinosity) \[Stage 5: Resolve\]](https://osu.ppy.sh/beatmapsets/1535632#mania/3140078)
+6. [BilliumMoto - life flashes before weeb eyes (lemonguy) \[Stage 6: Remembrance\]](https://osu.ppy.sh/beatmapsets/1535624#mania/3140051)
+7. [Cardboard Box feat. Koji Kondo - Mario-chi Survivor (Mipha-) \[Stage 7: Perseverance\]](https://osu.ppy.sh/beatmapsets/1535627#mania/3140055)
+8. [deathcount - A Beautiful Degeneracy (Remix by Stazma The Junglechrist) (Shoegazer) \[Stage 8: Desperado\]](https://osu.ppy.sh/beatmapsets/1535626#mania/3140053)
 
 ## Match results
 
