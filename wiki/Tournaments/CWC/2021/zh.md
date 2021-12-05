@@ -3,6 +3,7 @@ tags:
   - CWC
   - CWC2021
 outdated: true
+outdated_since: 909111c95fe5a038b47049d84e14d9ea068c09f5
 ---
 
 # osu!catch 2021 世界杯
