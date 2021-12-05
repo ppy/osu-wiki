@@ -45,8 +45,8 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Co-organiser | ![][flag_FR] [Badeline](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) |
+| Organizer | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Co-organizer | ![][flag_FR] [Badeline](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) |
 | Mappool selector | ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_DE] [DrugManager](https://osu.ppy.sh/users/8694649), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
 | Referee | ![][flag_FR] [Badeline](https://osu.ppy.sh/users/4833654), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [GinIkari](https://osu.ppy.sh/users/6083491), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_CH] [OverKurumi](https://osu.ppy.sh/users/9987378), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316), ![][flag_US] [travis\_ba](https://osu.ppy.sh/users/10822220) |
 | Streamer | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
@@ -688,7 +688,7 @@ Sunday, 21 February 2021:
 1. This tournament will use double-elimination bracket and single-player 1v1 format. There are no teams here.
 2. The Scoring system used will be **ScoreV2**.
 3. The mapset will be announced every Sunday. More details are in stated in the [Mappool regulations](#mappool-regulations).
-4. Match schedule is decided by the organiser. Participants may feel free to ask for a reschedule their schedule doesn't work for them. Each stage of this tournament will last a weekend (except for Group Stage).
+4. Match schedule is decided by the organizer. Participants may feel free to ask for a reschedule their schedule doesn't work for them. Each stage of this tournament will last a weekend (except for Group Stage).
 5. If there is no referee available, the match can be postponed.
 6. If both participants on a tie condition with no maps available left, the Tiebreaker bracket will be played.
 7. If a participant disconnects from the game, the opponent wins the round. The only exception is if the participant disconnects during the first ten seconds of the song, in which the round is restarted (any abuse of this rule will be sanctionned).
@@ -733,8 +733,8 @@ Sunday, 21 February 2021:
 
 1. Every stage is held during the week-ends to let participants prepare and practice.
 2. Matches are allowed to overlap if referees are available.
-3. Participants must compete on the match at the given time by organiser.
-4. However if both participants can come up with a better time than what the organiser had scheduled, please inform the organiser. They will change their match time if it has been informed before the Thursday of the running week-end.
+3. Participants must compete on the match at the given time by organizer.
+4. However if both participants can come up with a better time than what the organizer had scheduled, please inform the organizer. They will change their match time if it has been informed before the Thursday of the running week-end.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

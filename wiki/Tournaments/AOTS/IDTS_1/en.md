@@ -34,7 +34,7 @@ The Indonesian Taiko Showdown was run by various Indonesian osu!taiko community 
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206) |
+| Organizer | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206) |
 | Mappool selector | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) |
 | Streamer | ![][flag_JP] [SakuraFrost-](https://osu.ppy.sh/users/8147993), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 | Commentator | ![][flag_ID] [Guardistack-](https://osu.ppy.sh/users/1602428), ![][flag_ID] [ganjas62](https://osu.ppy.sh/users/934685), ![][flag_ID] [Kayano-](https://osu.ppy.sh/users/4999506), ![][flag_ID] [Wim Are](https://osu.ppy.sh/users/4505744) |

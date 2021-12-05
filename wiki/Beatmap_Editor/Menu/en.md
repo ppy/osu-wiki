@@ -87,7 +87,7 @@ Do note that these commands can be disabled at [Options](/wiki/Options) sidebar 
 
 | Name | Description |
 | :-- | :-- |
-| Reverse selection (`Ctrl` + `G`) | **Slider:** Reverse the numbering placement. **Select All + this:** Your beatmap design goes the other way around. Example: A hitcircle @ 10th second will be moved to the last 10th second of the song and vice versa. |
+| Reverse selection (`Ctrl` + `G`) | **Slider:** Reverse the numbering placement. **Select All + this:** Your beatmap design goes the other way around. Example: A hit circle at 10 seconds will be moved to the last 10 seconds of the song and vice versa. |
 | Flip Horizontally (`Ctrl` + `H`) | Flip the note(s) from left to right (with respect to y-axis line of Playfield origin) and vice versa. |
 | Flip Vertically (`Ctrl` + `J`) | Flip the note(s) from up to down (with respect to x-axis line of Playfield origin) and vice versa. |
 | Rotate 90° Clockwise (`Ctrl` + `>`) | Rotate the note(s) 90° right |
@@ -102,7 +102,7 @@ Do note that these commands can be disabled at [Options](/wiki/Options) sidebar 
 | Reset selected objects' samples | Remove hitsound of currently selected note. |
 | Reset all samples | Remove all hitsounds from all the notes in this difficulty. |
 | Reset all combo colour | Cancel all combo colourings on the notes. |
-| Reset breaks | Cancel breaktimes. Does not work on automated breaktimes that prevent excessive HP drain. |
+| Reset breaks | Cancel break times. Does not work on automated break times that prevent excessive HP drain. |
 
 ### Nudge commands
 
@@ -141,9 +141,9 @@ Places of interest.
 | Show Video | Show Video. Usually disabled because it's distracting. |
 | Show Sample Name | Show keysound attached to the notes. Very useful in osu!mania. |
 | Snaking sliders | Animate the sliders as if playing in-game. |
-| Hit animations | Animate the hitcircles as if being clicked (when the timestamp passes the hitcircle) in-game. |
+| Hit animations | Animate the hit circles as if being clicked (when the timestamp passes the hit circle) in-game. |
 | Follow points | Display (and animate) the follow points as if in-game. |
-| Stacking | Stack the overlaid hitcircles as if in-game (dependent on difficulty settings) |
+| Stacking | Stack the overlaid hit circles as if in-game (dependent on difficulty settings) |
 | Disable Undo States | Give up the ability to *undo* for osu! to be faster during editing (this comes in handy for long marathon maps) |
 
 ## Compose
@@ -164,9 +164,9 @@ Places of interest.
 
 | Name | Description |
 | :-- | :-- |
-| Create Polygon Circles (`Ctrl` + `Shift` + `D`) | Create a circular flow of hitcircles. You can adjust the Distance Snap (0.1x - 2.0x) {Spacing between notes}, Offset angle (0° - 180°) {Rotation angle}, Repeat and Points (3 - 14/282) {Number of hitcircles}. |
-| Convert slider to stream... | (Select a slider) Change the slider to streams of hitcircles. You can select between two options: By object count or By distance snap. **By object count:** Adjust the slider flow with the given amount of hitcircles (1 - 17/100). **By distance snap:** Adjust the slider flow with a set distance between two notes (0.10x - 5.00x). Can result in absurd amount of hitcircles, since it relies on Beat Snap Divisor (one beat = one note). **Beat Snap Divisor:** Note timing adjuster. |
-| Enable live mapping mode (`Ctrl` + Tab) | osu!/osu!catch/osu!taiko maps: use osu!taiko keys to input hitcircles/fruit/taiko hitcircles, while playing song in editor. Placed via cursor location. Different hitsounds based on what osu!taiko key you pressed. osu!mania maps: use osu!mania keys to input circles, while playing song in editor. Placed via the key you pressed. Does not work for sliders/holds. |
+| Create Polygon Circles (`Ctrl` + `Shift` + `D`) | Create a circular flow of hit circles. You can adjust the Distance Snap (0.1x - 2.0x) {Spacing between notes}, Offset angle (0° - 180°) {Rotation angle}, Repeat and Points (3 - 14/282) {Number of hit circle}. |
+| Convert slider to stream... | (Select a slider) Change the slider to streams of hit circles. You can select between two options: By object count or By distance snap. **By object count:** Adjust the slider flow with the given amount of hit circles (1 - 17/100). **By distance snap:** Adjust the slider flow with a set distance between two notes (0.10x - 5.00x). Can result in absurd amount of hit circles, since it relies on Beat Snap Divisor (one beat = one note). **Beat Snap Divisor:** Note timing adjuster. |
+| Enable live mapping mode (`Ctrl` + Tab) | osu!/osu!catch/osu!taiko maps: use osu!taiko keys to input hit circles, fruits, or taiko hit objects, while playing the song in editor. Placed via cursor location. Different hitsounds based on what osu!taiko key you pressed. osu!mania maps: use osu!mania keys to input hit objects, while playing song in editor. Placed via the key you pressed. Does not work for sliders/holds. |
 | Sample import | [Keysound and Sound Sampling.](/wiki/Beatmap_Editor/Compose) |
 
 ## Design

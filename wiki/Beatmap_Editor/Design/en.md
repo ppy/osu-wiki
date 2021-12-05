@@ -4,7 +4,7 @@
 
 The **Storyboard Editor** is a section of the in-game [Beatmap Editor](/wiki/Beatmap_Editor), under the Design tab, which enables simple [Storyboarding](/wiki/Storyboard). It is a good introduction to the fundamental concept before the more advanced [Storyboard Scripting](/wiki/Storyboard/Scripting).
 
-It would be favorable to do crash courses out of every commands using random images at least once before attempting some serious storyboarding. It would help you memorise and understand the usage better.
+It would be favourable to do crash courses out of every commands using random images at least once before attempting some serious storyboarding. It would help you memorise and understand the usage better.
 
 ## Getting Started
 
@@ -13,7 +13,7 @@ It would be favorable to do crash courses out of every commands using random ima
 3. Find the correct tick on the timeline above where you want your storyboard element to appear, then click on "Sprite Library" and select your picture. Make sure your element doesn't surpass 800x600 px. That is the maximum threshold.
 4. Now select the command of what you want your element to do (Move, Scale, Fade, Rotate or Colour) and press the "+" at "Keyframe Control" to place a point for the command at the current time you are on. "-" on "Keyframe Control" removes the point again, and the arrows buttons let you jump between more points in the same command for the same SB element.
 5. Now find the timing point at which you want the command to end (at a later time) so you will have 2 points for it and the corresponding colour line between those points. Green - Move ; Red - Scale ; Pink - Fade ; Yellow - Rotate ; Light Pink - Colour
-6. At the command points you can change the factors of the function by holding your left mousebutton and moving your cursor up (increasing factor) or down (decreasing factor)
+6. At the command points you can change the factors of the function by holding your left mouse button and moving your cursor up (increasing factor) or down (decreasing factor)
 7. Repeat Step 3-6 for other elements. To remove, use `Delete` or Edit -> Delete from top menu.
 
 **Note:** If you have a sharp eye; Up-tick - Start of that transformation; Down-tick - End of said transformation. A full tick on coloured transformation line means a switch in transformation (e.g. move up -> move down).
@@ -53,7 +53,7 @@ If there is a transformation, that transformation is lighted with it's colour an
 
 Shows the **readings** and a **toggle to add a background image/video.** The toggle is self-explanatory.
 
-For the readings, **x/y** are your *own* mouse coordinates on the beatmap and will change frantically as you move your mouse. **{number}ms** is the timestamp in milliseconds. **SB Load** is the amount of processing power required to play the storyboard *alone* only. Generally, keep the SB load as low as possible (1.00~2.00) during playtime and let it roll during breaktime/intro/outro.
+For the readings, **x/y** are your *own* mouse coordinates on the beatmap and will change frantically as you move your mouse. **{number}ms** is the timestamp in milliseconds. **SB Load** is the amount of processing power required to play the storyboard *alone* only. Generally, keep the SB load as low as possible (1.00~2.00) during playtime and let it roll during break time/intro/outro.
 
 ### Centre-left (Utilities)
 
