@@ -288,7 +288,7 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
   1. [senya - Shounen yo, Tokkou no Sakigake to Nare (-Mo-) \[Narcissu's Insane\]](https://osu.ppy.sh/beatmapsets/562169#osu/1188553)
   2. [Yellow Zebra - Melody! (wcx19911123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450#osu/142099)
 
-1. ## Maç sonuçları
+## Maç sonuçları
 
 ### Büyük Final
 
