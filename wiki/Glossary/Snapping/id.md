@@ -1,6 +1,6 @@
 # Snapping
 
-Di [osu!catch](/wiki/Game_mode/osu!catch) setiap [dash](/wiki/Glossary/Dash) dan [hyperdash](/wiki/Glossary/Hyperdash) dapat diklasifikasikan menjadi dua snapping yang berbeda, *basic-snapped* atau *higher-snapped*.
+Di [osu!catch](/wiki/Game_mode/osu!catch) setiap [dash](/wiki/Glossary/Dash) dan [hyperdash](/wiki/Glossary/Hyperdash) dapat diklasifikasikan menjadi dua snapping yang berbeda yaitu, *basic-snapped* atau *higher-snapped*.
 
 ## Basic-snapped
 
@@ -12,7 +12,7 @@ Istilah **higher-snapped** digunakan untuk semua [dash](/wiki/Glossary/Dash) ata
 
 ## Tabel referensi snapping
 
-| Kesulitan | Dash basic-snapped | Dash higher-snapped | Hyperdash basic-snapped | Hyperdash higher-snapped |
+| Tingkat kesulitan | Dash basic-snapped | Dash higher-snapped | Hyperdash basic-snapped | Hyperdash higher-snapped |
 | :-- | :-- | :-- | :-- | :-- |
 | **Cup** | - | - | - | - |
 | **Salad** | 250 ms atau lebih tinggi | 125-249 md | - | - |
