@@ -1,3 +1,7 @@
+---
+outdated: true
+outdated_since: 2a329c3fea5de107ca653f1dadab7477e5ad3343
+---
 # Comment démarrer un projet de beatmap
 
 *[Veuillez préciser le type de projet (Discographie, Album, Collab) par LuigiHann](https://osu.ppy.sh/community/forums/topics/12193)*
