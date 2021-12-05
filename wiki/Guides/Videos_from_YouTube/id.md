@@ -23,7 +23,7 @@ Tutorial ini ditujukan untuk mereka yang **tidak dapat** menemukan video selain 
 
 1. *Download* youtube-dl dan buka konsol yang kamu biasa pakai (PowerShell, CMD, Terminal)
 2. Gunakan perintah di bawah ini dan tekan Enter
-  
+
 ```cmd
 youtube-dl -f bestvideo <video link>
 ```
