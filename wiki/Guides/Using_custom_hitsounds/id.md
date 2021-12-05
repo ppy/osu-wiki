@@ -10,7 +10,7 @@ Berkas hitsound sebaiknya berupa `.wav` atau `.ogg` yang tidak memiliki *playbac
 
 ## Menambahkan hitsound khusus
 
-Setelah kamu mendapatkan berkas suara yang kamu inginkan, pindahkan berkas tersebut ke dalam folder beatmap yang kamu ingin map. Jika kamu tidak tahu di mana folder tersebut berada kamu dapat mengikuti instruksi berikut ini:
+Setelah kamu mendapatkan berkas suara yang kamu inginkan, pindahkan berkas tersebut ke dalam folder beatmap yang kamu ingin beri hitsound. Jika kamu tidak tahu di mana folder tersebut berada kamu dapat mengikuti instruksi berikut ini:
 
 1. Buka osu!.
 2. Pilih opsi `Edit`.
@@ -35,19 +35,19 @@ Berkas hitsound dinamakan berdasarkan dua properti sampleset dan tipe suara seba
 
 `<sampleset>-<sound>.wav`
 
-dimana `<sampleset>` adalah "normal", "soft" atau "drum", dan `<sound>` adalah *addition* yang telah disebutkan di atas (contoh: "hitclap"). 
+di mana `<sampleset>` adalah "normal", "soft" atau "drum", dan `<sound>` adalah *addition* yang telah disebutkan di atas (contoh: "hitclap"). 
 
 ![](img/beatmap-folder-resources.png "Contoh folder beatmap yang berisi hitsound khusus")
 
-Pada gambar yang ditunjukkan di atas, berkas pertama bernama `soft-hitclap.wav` dan akan menggantikan hitsound dasar yang diputar jika sebuah note dengan sampleset Soft dan addition "hitclap" sukses diklik. Mohon diperhatikan bahwa hitsound ini hanya akan diputar pada *selected sampleset*. Jika beatmap-mu juga menggunakan sampleset yang lain, sampleset tersebut butuh berkas hitsound tambahan (meskipun kamu ingin menggunakan sampel suara yang sama), seperti dengan menambahkan berkas `normal-hitclap.wav` ketika menggunakan sampleset Normal.
+Pada gambar yang ditunjukkan di atas, berkas pertama bernama `soft-hitclap.wav` dan akan menggantikan hitsound bawaan yang diputar jika sebuah [hit object](/wiki/Hit_object) dengan sampleset Soft dan addition "hitclap" sukses diklik. Mohon diperhatikan bahwa hitsound ini hanya akan diputar pada *selected sampleset*. Jika beatmap-mu juga menggunakan sampleset yang lain, sampleset tersebut butuh berkas hitsound tambahan (meskipun kamu ingin menggunakan sampel suara yang sama), seperti dengan menambahkan berkas `normal-hitclap.wav` ketika menggunakan sampleset Normal.
 
 ## Menggunakan hitsound khusus
 
 ![](img/adding-custom-hitsounds.png "Memberi perintah pada osu! bagaimana cara menggunakan hitsound addition khusus")
 
-Supaya osu! dapat memutar hitsound khususmu secara benar, pastikan kamu mencentang opsi kedua, "Custom 1", seperti gambar di atas. Nama sampleset khusus dasar disingkat namanya menjadi `<SS>:C1` di mana `<SS>` merupakan huruf pertama pada grup sampleset seperti N (Normal), S (Soft), atau D (Drum).
+Supaya osu! dapat memutar hitsound khususmu secara benar, pastikan kamu mencentang opsi kedua, "Custom 1", seperti gambar di atas. Nama sampleset khusus bawaan disingkat namanya menjadi `<SS>:C1` di mana `<SS>` merupakan huruf pertama pada grup sampleset seperti N (Normal), S (Soft), atau D (Drum).
 
-Perlu diingat bahwa kamu tidak perlu menambahkan hitsound khusus pada setiap suara pada sampleset. Dapat dilihat pada gambar pertama bahwa `soft-slidertick.wav` tidak ditambahkan, sehingga osu! akan memutar suara slider tick dengan hitsound dasar saat sampleset Soft digunakan pada beatmap tersebut.
+Perlu diingat bahwa kamu tidak perlu menambahkan hitsound khusus pada setiap suara pada sampleset. Dapat dilihat pada gambar pertama bahwa `soft-slidertick.wav` tidak ditambahkan, sehingga osu! akan memutar suara slider tick dengan hitsound bawaan saat sampleset Soft digunakan pada beatmap tersebut.
 
 ## Menggunakan beberapa set hitsound khusus
 
@@ -55,13 +55,13 @@ Terkadang sebuah lagu mungkin memiliki beberapa bagian yang di mana gaya musikny
 
 `<sampleset>-<sound><#>.wav`
 
-dimana `<#>` berupa angka apapun. Editor osu! secara dasar mendukung angka dari 2 sampai 100, tetapi angka yang lebih besar dapat dibuat dengan mengedit berkas `.osu` jika dibutuhkan. Perlu diingat bahwa grup hitsound pertama tidak perlu dilabeli dengan angka "1" meskipun beberapa grup hitsound digunakan. Sehingga berkas `soft-hitclap1.wav` tidak akan bekerja dan berkas `soft-hitclap.wav` akan digunakan.
+dimana `<#>` berupa angka apapun. Editor osu! secara bawaan mendukung angka dari 2 sampai 100, tetapi angka yang lebih besar dapat dibuat dengan mengedit berkas `.osu` jika dibutuhkan. Perlu diingat bahwa grup hitsound pertama tidak perlu dilabeli dengan angka "1" meskipun beberapa grup hitsound digunakan. Sehingga berkas `soft-hitclap1.wav` tidak akan bekerja dan berkas `soft-hitclap.wav` akan digunakan.
 
 Untuk memastikan hitsound yang memiliki angka atau grup hitsound diputar secara benar, kamu perlu menambahkan sebuah *inherited timing point (garis hijau)* dan mengubah sampleset dari "Custom 1" menjadi opsi yang ada di bawahnya seperti gambar di bawah ini. Di sini kamu dapat memasukkan angka pada grup hitsound yang kamu ingin gunakan.
 
 ![](img/using-multiple-hitsound-sets.png "Mengubah hitsound ke grup hitsound khusus kedua")
 
-Ketika sampleset dari *inherited timing point* diset ke `S:C2` seperti pada gambar di atas, seluruh hitsound dasar dan hitsound addition akan digantikan oleh hitsound khusus yang telah dinamakan seperti `soft-hitclap2.wav` jika ada. Hitsound tersebut akan terus dapat digunakan hingga *inherited timing point* yang menggunakan sampleset berbeda dicapai—pada gambar ini *inherited timing point* tersebut berada di `02:00:723`, di mana sampleset berubah kembali menjadi `S:C1`.
+Ketika sampleset dari *inherited timing point* diset ke `S:C2` seperti pada gambar di atas, seluruh hitsound bawaan dan hitsound addition akan digantikan oleh hitsound khusus yang telah dinamakan seperti `soft-hitclap2.wav` jika ada. Hitsound tersebut akan terus dapat digunakan hingga *inherited timing point* yang menggunakan sampleset berbeda dicapai—pada gambar ini *inherited timing point* tersebut berada di `02:00:723`, di mana sampleset berubah kembali menjadi `S:C1`.
 
 ## Sumber eksternal
 
