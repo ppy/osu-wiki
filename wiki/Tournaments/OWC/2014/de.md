@@ -244,30 +244,30 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 **[Download das Mappack hier!](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
 
 - NoMod
-  - [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/125303#osu/318975)
-  - [Last Note. - Caramel Heaven (Snepif) \[Heaven\]](https://osu.ppy.sh/beatmapsets/90095#osu/244691)
-  - [nano - Nevereverland (Nyquill) \[Insane\]](https://osu.ppy.sh/beatmapsets/95533#osu/256499)
-  - [marina - Towa yori Towa ni (Garven) \[Kite's Insane\]](https://osu.ppy.sh/beatmapsets/143370#osu/376558)
-  - [Jeff Williams - Red Like Roses (feat. Casey Lee Williams) (Flower) \[Ruby\]](https://osu.ppy.sh/beatmapsets/90128#osu/244781)
-  - [Comp - Touchuu Aika (Mao) \[Maolvis' Lunatic\]](https://osu.ppy.sh/beatmapsets/198700#osu/471369)
+  1. [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/125303#osu/318975)
+  2. [Last Note. - Caramel Heaven (Snepif) \[Heaven\]](https://osu.ppy.sh/beatmapsets/90095#osu/244691)
+  3. [nano - Nevereverland (Nyquill) \[Insane\]](https://osu.ppy.sh/beatmapsets/95533#osu/256499)
+  4. [marina - Towa yori Towa ni (Garven) \[Kite's Insane\]](https://osu.ppy.sh/beatmapsets/143370#osu/376558)
+  5. [Jeff Williams - Red Like Roses (feat. Casey Lee Williams) (Flower) \[Ruby\]](https://osu.ppy.sh/beatmapsets/90128#osu/244781)
+  6. [Comp - Touchuu Aika (Mao) \[Maolvis' Lunatic\]](https://osu.ppy.sh/beatmapsets/198700#osu/471369)
 - Hidden
-  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](https://osu.ppy.sh/beatmapsets/111825#osu/290733)
-  - [capitaro - Yoiduki Maiuta (Amamiya Yuko) \[Insane\]](https://osu.ppy.sh/beatmapsets/70057#osu/201601)
-  - [Megpoid GUMI - Shinkaron -code:variant- (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/29445#osu/99465)
+  1. [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](https://osu.ppy.sh/beatmapsets/111825#osu/290733)
+  2. [capitaro - Yoiduki Maiuta (Amamiya Yuko) \[Insane\]](https://osu.ppy.sh/beatmapsets/70057#osu/201601)
+  3. [Megpoid GUMI - Shinkaron -code:variant- (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/29445#osu/99465)
 - HardRock
-  - [Souei Academy Light Music Club starring i.o - Sekai de Hitotsu no Takaramono (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/52048#osu/159316)
-  - [Aki - Wanna Be My Dream (Lortus) \[Insane\]](https://osu.ppy.sh/beatmapsets/128432#osu/325209)
-  - [ginkiha - EOS (alacat) \[RLC's Another\]](https://osu.ppy.sh/beatmapsets/151720#osu/421532)
+  1. [Souei Academy Light Music Club starring i.o - Sekai de Hitotsu no Takaramono (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/52048#osu/159316)
+  2. [Aki - Wanna Be My Dream (Lortus) \[Insane\]](https://osu.ppy.sh/beatmapsets/128432#osu/325209)
+  3. [ginkiha - EOS (alacat) \[RLC's Another\]](https://osu.ppy.sh/beatmapsets/151720#osu/421532)
 - DoubleTime
-  - [Kuba Oms - My Love (W h i t e) \[Insane\]](https://osu.ppy.sh/beatmapsets/163112#osu/397535)
-  - [yanaginagi - Vidro Moyou (Moway) \[Insane\]](https://osu.ppy.sh/beatmapsets/120513#osu/308908)
-  - [FELT - Sky Gate (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/129534#osu/327256)
+  1. [Kuba Oms - My Love (W h i t e) \[Insane\]](https://osu.ppy.sh/beatmapsets/163112#osu/397535)
+  2. [yanaginagi - Vidro Moyou (Moway) \[Insane\]](https://osu.ppy.sh/beatmapsets/120513#osu/308908)
+  3. [FELT - Sky Gate (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/129534#osu/327256)
 - FreeMod
-  - [Nekomata Master+ - squall (Rue) \[Insane\]](https://osu.ppy.sh/beatmapsets/66224#osu/238938)
-  - [Knife Party - Bonfire (inverness) \[Rage\]](https://osu.ppy.sh/beatmapsets/73576#osu/281918)
-  - [Sana - Terekakushi Shishunki (litoluna) \[Insane\]](https://osu.ppy.sh/beatmapsets/202677#osu/479354)
+  1. [Nekomata Master+ - squall (Rue) \[Insane\]](https://osu.ppy.sh/beatmapsets/66224#osu/238938)
+  2. [Knife Party - Bonfire (inverness) \[Rage\]](https://osu.ppy.sh/beatmapsets/73576#osu/281918)
+  3. [Sana - Terekakushi Shishunki (litoluna) \[Insane\]](https://osu.ppy.sh/beatmapsets/202677#osu/479354)
 - Tiebreaker
-  - **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)**
+  1. **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)**
 
 ## Matchergebnisse
 
