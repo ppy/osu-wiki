@@ -9,9 +9,9 @@ tags:
 
 **Star rating** (***SR***) menggambarkan tingkat kesulitan yang dimiliki pada sebuah [beatmap](/wiki/Beatmap), nilainya sudah dikalkulasi secara otomatis oleh klien osu!. Star rating memiliki peran besar dalam pemberian [performance points](/wiki/Performance_points) ketika beatmap ranked telah selesai dimainkan. Nilai star rating ini bisa dilihat pada saat [memilih lagu](/wiki/Interface#layar-pemilihan-lagu) yang akan dimainkan di klien dan di laman informasi beatmap.
 
-## Kesulitan
+## Tingkat kesulitan
 
-*Laman utama: [Tingkat Kesulitan](/wiki/Beatmap/Difficulty)*
+*Laman utama: [Tingkat kesulitan](/wiki/Beatmap/Difficulty)*
 
 Sejak 27 Juli 2021, situs web osu! mengatur warna star rating beatmap secara otomatis berdasarkan star rating-nya menurut spektrum berikut ini:
 
