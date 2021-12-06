@@ -1,6 +1,6 @@
 # How to start a beatmap project
 
-*[Please specify project type (Discography, Album, Collab) by LuigiHann](https://osu.ppy.sh/community/forums/topics/12193)*
+*[Please specify project type (Discography, Album, Collab) by LuigiHann](https://web.archive.org/web/20120719062438/http://osu.ppy.sh/forum/t/12193)*
 
 Note: This article is about the [Beatmap Projects](https://osu.ppy.sh/community/forums/53) forum section and how to approach it.
 
@@ -33,4 +33,4 @@ How **not** to do:
 
 **Collab:** Creating a [group-mapping project](/wiki/Beatmap/Beatmap_collaborations) for a certain song. May range from [storyboard](/wiki/Storyboard) request to mapping parts of a [marathon map](/wiki/Beatmap/Marathon). [Reference](https://osu.ppy.sh/community/forums/topics/35841)
 
-- Examples: [Voca Nico Party Nonstop Mix - Marathon](https://osu.ppy.sh/community/forums/topics/188118)
+- Examples: [Within Temptation ~ The Unforgiving](https://osu.ppy.sh/community/forums/topics/56629)
