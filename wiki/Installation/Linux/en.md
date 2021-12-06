@@ -45,6 +45,7 @@ sudo apt install winetricks
 ```
 
 ### Arch based
+
 **Enable multilib repository by uncommenting the `[multilib]` section in `/etc/pacman.conf`**
 
 ```
@@ -67,6 +68,7 @@ sudo dnf install alsa-plugins-pulseaudio.i686 glibc-devel.i686 glibc-devel libgc
 ```
 
 ## Installing GPU drivers
+
 Guide to install GPU drivers can be found [here](https://github.com/lutris/docs/blob/master/InstallingDrivers.md).
 
 ## Installing Pipewire
@@ -320,6 +322,7 @@ If you're using Lutris to run osu!, you can disable it from the rule as you can 
 ![](img/lutirs-disable-compositing.gif)
 
 If you are not using Lutris, go to [How to add osu! to Lutris](#How_to_add_osu!_to_Lutris).
+
 <!--TODO: add how to disable compositing without lutris -->
 
 ### How to add osu! to Lutris
