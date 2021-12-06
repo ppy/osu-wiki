@@ -8,7 +8,7 @@ tags:
 
 ![oSEAT5 logo](img/logo.jpg)
 
-The **osu! South East Asia Tournament 5** (***oSEAT5***) is a double-elimination 1v1 osu! tournament hosted by ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846). The tournament is open to all players from all ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Phillipines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, and ![][flag_VN] Vietnam) regardless of rank. It is the 5th instalment of the osu! South East Asia Tournament.
+The **osu! South East Asia Tournament 5** (***oSEAT5***) is a double-elimination 1v1 osu! tournament hosted by ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846). The tournament is open to all players from all ten [ASEAN member states](https://asean.org/asean/about-asean/member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Phillipines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, and ![][flag_VN] Vietnam) regardless of rank. It is the 5th instalment of the osu! South East Asia Tournament.
 
 ## Tournament schedule
 
@@ -39,7 +39,7 @@ The **osu! South East Asia Tournament 5** (***oSEAT5***) is a double-elimination
 
 ## Organisation
 
-oSEAT4 was run by various osu! community members predominantly hailing from various South East Asian countries.
+oSEAT4 is run by various osu! community members predominantly hailing from various South East Asian countries.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -62,7 +62,7 @@ oSEAT4 was run by various osu! community members predominantly hailing from vari
 
 ## Participants
 
-Listed below are players who qualified into the Preliminary groups (along with their respective bracket, seeding and group placements) out of 176 registered players in total.
+Listed below are players who qualified into the Preliminary groups (along with their respective bracket, seeding, and group placements) out of 176 registered players in total.
 
 - *Upper bracket:*
 
@@ -344,7 +344,7 @@ Sunday, 6 December 2021:
 8. If a player disconnects, it will be treated as if they had failed the beatmap. 
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
 9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most. 
-   - In case the disconnected player failed to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to be winning the match by default.
+   - In case the disconnected player fails to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to win the match by default.
 10. Lag is not a valid reason to nullify a beatmap.
 11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
@@ -354,7 +354,7 @@ Sunday, 6 December 2021:
 
 ### Tournament registration
 
-1. All interested players  are required to register into the tournament individually.
+1. All interested players are required to register into the tournament individually.
    - In order to be eligible to play in the tournament, a player must either:
      - Have the flag of any of the ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Phillipines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, or ![][flag_VN] Vietnam) displayed on their profile, ***or***
      - Be in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
@@ -371,7 +371,7 @@ Sunday, 6 December 2021:
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
 5. The 96 players with the **lowest amount of accumulated Qualifier points in total** will advance to the Group Stage.
-   - The Qualifier points for each individual beatmap are being calculated by the following mechanism: The best performer on the beatmap across all Qualifier lobbies combined gains +1 point added to their Qualifier points tally, the second best performer gains +2 points, the third best performer gains +3 points, and so on.
+   - The Qualifier points for each individual beatmap are being calculated by the following mechanism: the best performer on the beatmap across all Qualifier lobbies combined gains +1 point added to their Qualifier points tally, the second best performer gains +2 points, the third best performer gains +3 points, and so on.
    - Players who ranked **#1 - #8** based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed A** players.
    - Players who ranked **#9 - #16** based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed B** players.
    - Players who ranked **#17 - #24** based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed C** players.  
@@ -411,8 +411,8 @@ Sunday, 6 December 2021:
    - In the Quarterfinals and Semifinals, each player needs to win 7 points in order to to win a match. (Best-of-13)
    - In both of the Finals weeks (excluding the Grand Final), each player needs to win 8 points in order to to win a match. (Best-of-15)   
    - In the Grand Final, each player needs to win 9 points in order to to win a match (Best-of-17) with the winner of the the Upper Bracket starting the match with a 2-point advantage as described above.
-   - Players who Win By Default.
-   - If there are players who is disqualified from the tournament.
+   - Players who win By default.
+   - If there are players who are disqualified from the tournament.
 
 ### Match regulations
 
