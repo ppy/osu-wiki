@@ -23,7 +23,7 @@ Cara yang **salah**:
 
 ## Prefiks mana yang harus saya gunakan?
 
-**Discography:** Daftar album/lagu yang dirilis oleh penyanyi/grup band/kompose/lagu secara keseluruhan.
+**Discography:** Daftar album/lagu yang dirilis oleh penyanyi/grup band/komposer/lagu secara keseluruhan.
 
 - Contoh: [Duca](https://osu.ppy.sh/community/forums/topics/98205), [Linkin Park](https://osu.ppy.sh/community/forums/topics/121592), [Cytus](https://osu.ppy.sh/community/forums/topics/177446)
 
