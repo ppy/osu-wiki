@@ -370,18 +370,22 @@ Sunday, 6 December 2021:
 2. In the lobby, all players will have to consecutively play all of the nine Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
-5. The 96 players with the **lowest amount of accumulated Qualifier points in total** will advance to the Group Stage.
-   - The Qualifier points for each individual beatmap are being calculated by the following mechanism: the best performer on the beatmap across all Qualifier lobbies combined gains +1 point added to their Qualifier points tally, the second best performer gains +2 points, the third best performer gains +3 points, and so on.
-   - Players who ranked **#1 - #8** based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed A** players.
-   - Players who ranked **#9 - #16** based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed B** players.
-   - Players who ranked **#17 - #24** based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed C** players.  
-   - Players who ranked **#25 - #32** based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed D** players.    
-   - Players who ranked **#33 - #48** based on their accumulated Qualifier Points will qualify to the **lower Preliminary group bracket** as **Seed A** players.   
-   - Players who ranked **#49 - #64** based on their accumulated Qualifier Points will qualify to the **lower Preliminary group bracket** as **Seed B** players. 
-   - Players who ranked **#65 - #80** based on their accumulated Qualifier Points will qualify to the **lower Preliminary group bracket** as **Seed C** players. 
-   - Players who ranked **#81 - #96** based on their accumulated Qualifier Points will qualify to the **lower Preliminary group bracket** as **Seed D** players. 
-   - Players who ranked #97 or lower based on their accumulated Qualifier Points will be knocked out from the tournament.
-6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
+5. Based on their performance in the Qualifier, players will be ranked based on the amount of Qualifier points they accumulate.
+   - The Qualifier points are awarded for each individual beatmap and calculated by the following mechanism: the best performer on the beatmap across all Qualifier lobbies combined gains +1 point added to their Qualifier points tally, the second best performer gains +2 points, the third best performer gains +3 points, and so on.
+7. The 96 players with the **lowest amount of accumulated Qualifier points in total** will advance to the Preliminary groups as follows:
+
+| Qualifier ranking | Advance to |
+| :-: | :-- |
+| #1 - #8 | Upper Preliminary group bracket (as **Seed A** players) |
+| #9 - #16 | Upper Preliminary group bracket (as **Seed B** players) |
+| #17 - #24 | Upper Preliminary group bracket (as **Seed C** players) |
+| #25 - #32 | Upper Preliminary group bracket (as **Seed D** players) |
+| #33 - #48 | Lower Preliminary group bracket (as **Seed A** players) |
+| #49 - #64 | Lower Preliminary group bracket (as **Seed B** players) |
+| #65 - #80 | Lower Preliminary group bracket (as **Seed C** players) |
+| #81 - #96 | Lower Preliminary group bracket (as **Seed D** players) |
+
+8. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Preliminary group phase rules
 
@@ -403,9 +407,9 @@ Sunday, 6 December 2021:
 1. All remaining will be matched to each other based on their Preliminary groups placement as described above.
 2. Players will compete against each other using the modified Double Elimination system.
 3. The modified Double Elimination System works as follows:
-   - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
-   - Players who lose in the Lower Bracket will be eliminated from the tournament.
-   - In the Grand Final, the winner of the the Upper Bracket will start the match with a 2-point advantage against the winner of the Lower Bracket. **There will be no Grand Final bracket reset.**
+   - Players who lose in the upper bracket can still play again on the lower bracket.
+   - Players who lose in the lower bracket will be eliminated from the tournament.
+   - In the Grand Final, the winner of the the upper bracket will start the match with a 2-point advantage against the winner of the lower bracket. **There will be no bracket reset in the Grand Final.**
 4. Players who can compete in the next round are determined by the following criteria:
    - In the Round of 64, Round of 32, and Round of 16, each player needs to win 6 points in order to win a match. (Best-of-11)
    - In the Quarterfinals and Semifinals, each player needs to win 7 points in order to to win a match. (Best-of-13)
