@@ -10,7 +10,7 @@ tags:
 
 **Online offset** adalah sebuah offset yang diaplikasikan kepada [beatmap](/wiki/Beatmap) setelah mendapat status ranked. Ini biasanya dilakukan jika sebuah beatmap membutuhkan sedikit perubahan timing untuk menyesuaikannya dengan musiknya. Nilai online offset ditentukan dari universal offset top player dan nilai offset lokal.
 
-Ini dapat diubah oleh anggota dari [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), dan beberapa pengguna seperti [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) dan [Developer](/wiki/People/The_Team/Global_Moderation_Team). Artinya, online offset tidak dapat dilihat oleh pengguna biasa pada situs web, namun dapat dilihat di dalam permainan. Berikut adalah tampilan yang diperlihatkan kepada pengguna yang memiliki akses untuk melihat dan mengubahnya:
+Ini dapat diubah oleh anggota dari [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), dan beberapa pengguna seperti [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) dan [Developer](/wiki/People/The_Team/Developers). Artinya, online offset tidak dapat dilihat oleh pengguna biasa pada situs web, namun dapat dilihat di dalam permainan. Berikut adalah tampilan yang diperlihatkan kepada pengguna yang memiliki akses untuk melihat dan mengubahnya:
 
 ![online offset pada situs web](img/online_offset.jpg)
 
