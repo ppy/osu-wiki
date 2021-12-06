@@ -21,7 +21,7 @@ The **osu! South East Asia Tournament 5** (***oSEAT5***) is a double-elimination
 | Round of 64 | 2021-12-06/2021-12-12 |
 | Round of 32 | 2021-12-13/2020-12-19 |
 | Round of 16 | 2020-12-20/2021-12-26 |
-| *Holiday break* | 2021-12-27/2022-01-02|
+| *Holiday break* | 2021-12-27/2022-01-02 |
 | Quarterfinals | 2022-01-03/2022-01-09 |
 | Semifinals | 2022-01-10/2022-01-16 |
 | Finals week 1 | 2022-01-17/2022-01-23 |
@@ -394,8 +394,9 @@ Sunday, 6 December 2021:
    - The **bottom 2 players from each upper bracket group** and **the winner from each lower bracket group** will qualify to the **Round of 64** in the **upper bracket**.
    - The **2nd and 3rd-placed player from each lower bracket group** will qualify to the **Round of 64** in the **lower bracket**.
    - The 4th-placed player from each lower bracket group will be knocked out from the tournament.
-4. **The upper bracket groups and the lower bracket groups will each play a different pool.**
-5. All matches in the Preliminary groups will be done in a Best-of-9 matchup format.
+
+3. **The upper bracket groups and the lower bracket groups will each play a different pool.**
+4. All matches in the Preliminary groups will be done in a Best-of-9 matchup format.
 
 #### Knock-out stage rules
 
