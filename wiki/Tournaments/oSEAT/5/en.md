@@ -39,7 +39,7 @@ The **osu! South East Asia Tournament 5** (***oSEAT5***) is a double-elimination
 
 ## Organisation
 
-oSEAT4 is run by various osu! community members predominantly hailing from various South East Asian countries.
+oSEAT5 is run by various osu! community members predominantly hailing from various South East Asian countries.
 
 | Position | Member(s) |
 | :-- | :-- |
