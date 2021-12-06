@@ -2,7 +2,7 @@
 
 *[Full Submission with Title/Artist Change -- Mistakes oleh NoHitter (dibajak oleh peppy)](https://osu.ppy.sh/community/forums/topics/24443)*
 
-Ketika mengganti **judul lagu atau artis** sebuah map, kamu dapat menemui masalah di mana kamu tidak dapat memperbarui map tersebut.
+Ketika mengganti **judul lagu atau artis** pada sebuah map, kamu dapat menemui masalah di mana kamu tidak dapat memperbarui map tersebut.
 
 **Jangan mengirim map ketika menu "Web" pada editor ditutup. Map kamu akan menjadi duplikat.**
 
