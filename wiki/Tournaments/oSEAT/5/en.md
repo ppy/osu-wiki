@@ -374,16 +374,16 @@ Sunday, 6 December 2021:
    - The Qualifier points are awarded for each individual beatmap and calculated by the following mechanism: the best performer on the beatmap across all Qualifier lobbies combined gains +1 point added to their Qualifier points tally, the second best performer gains +2 points, the third best performer gains +3 points, and so on.
 6. The 96 players with the **lowest amount of accumulated Qualifier points in total** will advance to the Preliminary groups as follows:
 
-| Qualifier ranking | Advance to |
+| Qualifier ranking | Preliminary group bracket |
 | :-: | :-- |
-| #1 - #8 | Upper Preliminary group bracket (as **Seed A** players) |
-| #9 - #16 | Upper Preliminary group bracket (as **Seed B** players) |
-| #17 - #24 | Upper Preliminary group bracket (as **Seed C** players) |
-| #25 - #32 | Upper Preliminary group bracket (as **Seed D** players) |
-| #33 - #48 | Lower Preliminary group bracket (as **Seed A** players) |
-| #49 - #64 | Lower Preliminary group bracket (as **Seed B** players) |
-| #65 - #80 | Lower Preliminary group bracket (as **Seed C** players) |
-| #81 - #96 | Lower Preliminary group bracket (as **Seed D** players) |
+| #1 - #8 | Upper / **Seed A** |
+| #9 - #16 | Upper / **Seed B** |
+| #17 - #24 | Upper / **Seed C** |
+| #25 - #32 | Upper / **Seed D** |
+| #33 - #48 | Lower / **Seed A** |
+| #49 - #64 | Lower / **Seed B** |
+| #65 - #80 | Lower / **Seed C** |
+| #81 - #96 | Lower / **Seed D** |
 
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
