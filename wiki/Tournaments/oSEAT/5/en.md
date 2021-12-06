@@ -372,7 +372,7 @@ Sunday, 6 December 2021:
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, players will be ranked based on the amount of Qualifier points they accumulate.
    - The Qualifier points are awarded for each individual beatmap and calculated by the following mechanism: the best performer on the beatmap across all Qualifier lobbies combined gains +1 point added to their Qualifier points tally, the second best performer gains +2 points, the third best performer gains +3 points, and so on.
-7. The 96 players with the **lowest amount of accumulated Qualifier points in total** will advance to the Preliminary groups as follows:
+6. The 96 players with the **lowest amount of accumulated Qualifier points in total** will advance to the Preliminary groups as follows:
 
 | Qualifier ranking | Advance to |
 | :-: | :-- |
@@ -385,7 +385,7 @@ Sunday, 6 December 2021:
 | #65 - #80 | Lower Preliminary group bracket (as **Seed C** players) |
 | #81 - #96 | Lower Preliminary group bracket (as **Seed D** players) |
 
-8. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
+7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Preliminary group phase rules
 
