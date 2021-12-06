@@ -326,7 +326,7 @@ Sunday, 6 December 2021:
 
 | Bracket/Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper/E | [BronyPH](https://osu.ppy.sh/users/1492995) ![][flag_PH] | 2 | **5** | ![][flag_ID] **[Thatnoobguy](https://osu.ppy.sh/users/11091594) | [#1](https://osu.ppy.sh/community/matches/94891908) |
+| Upper/E | [BronyPH](https://osu.ppy.sh/users/1492995) ![][flag_PH] | 2 | **5** | ![][flag_ID] **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** | [#1](https://osu.ppy.sh/community/matches/94891908) |
 | Lower/G | **[Ltwoed](https://osu.ppy.sh/users/13670830)** ![][flag_MY] | **5** | 0 | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) | *win by default* |
 | Upper/F | **[deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **5** | 0 | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | *win by default* |
 
