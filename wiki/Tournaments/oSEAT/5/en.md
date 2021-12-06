@@ -82,7 +82,7 @@ Listed below are players who qualified into the Preliminary groups (along with t
 | Group | Seed A | Seed B | Seed C | Seed D |
 | :-: | :-- | :-- | :-- | :-- |
 | A | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820) | ![][flag_PH] [ToshiroKen](https://osu.ppy.sh/users/9550257) | ![][flag_PH] [RuiTachi-](https://osu.ppy.sh/users/11807272) |
-| B | ![][flag_MY] [milo Penguin](https://osu.ppy.sh/users/10702232) | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) | ![][flag_TH] [Faken](https://osu.ppy.sh/users/10249166) | ![][flag_BN] [Ui S](https://osu.ppy.sh/users/11807272) |
+| B | ![][flag_MY] [Chiyuu](https://osu.ppy.sh/users/8226107) | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) | ![][flag_TH] [Faken](https://osu.ppy.sh/users/10249166) | ![][flag_BN] [Ui S](https://osu.ppy.sh/users/11807272) |
 | C | ![][flag_SG] [wick](https://osu.ppy.sh/users/8004317) | ![][flag_TH] [chantat on osu](https://osu.ppy.sh/users/12290117) | ![][flag_PH] [\[-Kurumi-\]](https://osu.ppy.sh/users/5414484) | ![][flag_PH] [JayAreEee](https://osu.ppy.sh/users/10852557) |
 | D | ![][flag_PH] [-Graigory-](https://osu.ppy.sh/users/14024170) | ![][flag_MY] [Hanami-](https://osu.ppy.sh/users/8703188) | ![][flag_ID] [Cudi-](https://osu.ppy.sh/users/9974314) | ![][flag_SG] [Moroha29](https://osu.ppy.sh/users/9182389) |
 | E | ![][flag_PH] [xidorn](https://osu.ppy.sh/users/7904667) | ![][flag_MY] [not\_aweeb](https://osu.ppy.sh/users/9375317) | ![][flag_ID] [FishStar](https://osu.ppy.sh/users/12563284) | ![][flag_MY] [GKen](https://osu.ppy.sh/users/12633052) |
