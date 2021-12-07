@@ -1,6 +1,6 @@
 # Cara memulai sebuah proyek beatmap
 
-Perhatian: Artikel ini membahas tentang sub-forum [Beatmap Projects](https://osu.ppy.sh/community/forums/53) dan bagaimana cara menggunakannya. Mohon membaca [aturan forum](https://osu.ppy.sh/community/forums/topics/453937) terlebih dahulu sebelum membuat utas baru.
+*Perhatian: Artikel ini membahas tentang sub-forum [Beatmap Projects](https://osu.ppy.sh/community/forums/53) dan bagaimana cara menggunakannya. Mohon membaca [aturan forum](https://osu.ppy.sh/community/forums/topics/453937) terlebih dahulu sebelum membuat utas baru.*
 
 ## Membuat judul utas yang informatif
 
@@ -31,4 +31,4 @@ Cara yang **salah**:
 
 **Collab:** Membuat [proyek *group-mapping*](/wiki/Beatmap/Beatmap_collaborations) pada lagu tertentu. Dapat berkisar dari permintaan pembuatan [storyboard](/wiki/Storyboard) hingga pembagian mapping dari sebuah [map marathon](/wiki/Beatmap/Marathon). [Referensi](https://osu.ppy.sh/community/forums/topics/35841)
 
-- Contoh: [Within Temptation ~ The Unforgiving](https://osu.ppy.sh/community/forums/topics/56629)
+- Contoh: [Within Temptation - The Unforgiving](https://osu.ppy.sh/beatmapsets/29157)

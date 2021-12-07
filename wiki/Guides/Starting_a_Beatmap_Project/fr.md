@@ -1,14 +1,14 @@
 # Comment démarrer un projet de beatmap
 
-*Remarque : Cet article concerne la section du forum [Beatmap Projects](https://osu.ppy.sh/community/forums/53) et la manière de l'aborder. Assurez-vous de lire les [règles du forum](https://osu.ppy.sh/community/forums/topics/453937) avant de poster vos messages*.
+*Remarque: Cet article concerne la section du forum [Beatmap Projects](https://osu.ppy.sh/community/forums/53) et la manière de l'aborder. Assurez-vous de lire les [règles du forum](https://osu.ppy.sh/community/forums/topics/453937) avant de poster vos messages.*
 
 ## Créer un titre de fil de discussion informatif
 
 *En effet, le titre de votre fil de discussion déterminera si les autres utilisateurs d'osu! vont dire "oui" ou "non" à votre Beatmap Project, avant même de cliquer dessus !*
 
-Le titre doit être composé de `[Discographie]` / `[Album]` / `[Collab]`. Il y a de fortes chances que votre projet soit ignoré ou déplacé vers [AW](/wiki/Abandoned_wasteland) si le titre du fil de discussion manque d'informations.
+Le titre doit être composé de `[Discography]` / `[Album]` / `[Collab]`. Il y a de fortes chances que votre projet soit ignoré ou déplacé vers [AW](/wiki/Abandoned_wasteland) si le titre du fil de discussion manque d'informations.
 
-**Exemples :**
+**Exemples:**
 
 Un exemple de titre correct
 
@@ -19,16 +19,16 @@ Un exemple de titre incorrect
 
 - `starting a new project, need your help with this album`
 
-### Lequel dois-je utiliser ?
+### Lequel dois-je utiliser?
 
-**Discographie :** Liste des albums/chansons sortis par le chanteur/groupe/compositeur/jeu.
+**Discography:** Liste des albums/chansons sortis par le chanteur/groupe/compositeur/jeu.
 
-- Exemples : [Duca](https://osu.ppy.sh/community/forums/topics/98205), [Linkin Park](https://osu.ppy.sh/community/forums/topics/121592), [Cytus](https://osu.ppy.sh/community/forums/topics/177446)
+- Exemple: [Duca](https://osu.ppy.sh/community/forums/topics/98205), [Linkin Park](https://osu.ppy.sh/community/forums/topics/121592), [Cytus](https://osu.ppy.sh/community/forums/topics/177446)
 
-**Album :** Liste des chansons de l'album.
+**Album:** Liste des chansons de l'album.
 
-- Exemples : [Anamanaguchi - Scott Pilgrim vs The World (The Game)](https://osu.ppy.sh/community/forums/topics/37908), [Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
+- Exemple: [Anamanaguchi - Scott Pilgrim vs The World (The Game)](https://osu.ppy.sh/community/forums/topics/37908), [Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
 
-**Collab :** Créer un [projet de mapping de groupe](/wiki/Beatmap/Beatmap_collaborations) pour une certaine musique. Cela peut aller de la demande de [storyboarding](/wiki/Storyboard) au mapping de certaines parties d'un [marathon](/wiki/Beatmap/Marathon). [Référence](https://osu.ppy.sh/community/forums/topics/35841)
+**Collab:** Créer un [projet de mapping de groupe](/wiki/Beatmap/Beatmap_collaborations) pour une certaine musique. Cela peut aller de la demande de [storyboarding](/wiki/Storyboard) au mapping de certaines parties d'un [marathon](/wiki/Beatmap/Marathon). [Référence](https://osu.ppy.sh/community/forums/topics/35841)
 
-- Exemple : [Within Temptation ~ The Unforgiving](https://osu.ppy.sh/community/forums/topics/56629)
+- Exemple: [Within Temptation - The Unforgiving](https://osu.ppy.sh/beatmapsets/29157)

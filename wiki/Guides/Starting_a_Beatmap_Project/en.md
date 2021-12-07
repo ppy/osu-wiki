@@ -23,12 +23,12 @@ How **not** to do:
 
 **Discography:** List of albums/songs released by the singer/group/composer/game overall.
 
-- Examples: [Duca](https://osu.ppy.sh/community/forums/topics/98205), [Linkin Park](https://osu.ppy.sh/community/forums/topics/121592), [Cytus](https://osu.ppy.sh/community/forums/topics/177446)
+- Example: [Duca](https://osu.ppy.sh/community/forums/topics/98205), [Linkin Park](https://osu.ppy.sh/community/forums/topics/121592), [Cytus](https://osu.ppy.sh/community/forums/topics/177446)
 
 **Album:** List of songs in the album.
 
-- Examples: [Anamanaguchi - Scott Pilgrim vs The World (The Game)](https://osu.ppy.sh/community/forums/topics/37908), [Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
+- Example: [Anamanaguchi - Scott Pilgrim vs The World (The Game)](https://osu.ppy.sh/community/forums/topics/37908), [Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
 
 **Collab:** Creating a [group-mapping project](/wiki/Beatmap/Beatmap_collaborations) for a certain song. May range from [storyboard](/wiki/Storyboard) request to mapping parts of a [marathon map](/wiki/Beatmap/Marathon). [Reference](https://osu.ppy.sh/community/forums/topics/35841)
 
-- Examples: [Within Temptation ~ The Unforgiving](https://osu.ppy.sh/community/forums/topics/56629)
+- Example: [Within Temptation - The Unforgiving](https://osu.ppy.sh/beatmapsets/29157)
