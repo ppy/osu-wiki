@@ -14,7 +14,7 @@ The osu! forums provide [features](#features) similar to most internet forums: [
 
 ## Structure
 
-Each of the osu! forums contains a variety of topics, called **threads**, as well as smaller categories, or **subforums**. Most of the forums are English only, but there also exists a number of [language-specific](https://osu.ppy.sh/community/forums#forum-23) forums for local communities that are large enough.
+Each of the osu! forums contains a variety of **topics**, sometimes called threads, as well as smaller categories, or **subforums**. Most of the forums are English only, but there also exists a number of [language-specific](https://osu.ppy.sh/community/forums#forum-23) forums for local communities that are large enough.
 
 While some forums, such as [Mapping Discussion](https://osu.ppy.sh/community/forums/56), have specific requirements or guidelines, all of them follow [the community rules](/wiki/Rules).
 
@@ -22,13 +22,13 @@ While some forums, such as [Mapping Discussion](https://osu.ppy.sh/community/for
 
 Some users may belong to one or several custom groups, based on their community tasks, access rights, or past activity. The list of user groups can be found at [The Team § User groups](/wiki/People/The_Team#user-groups).
 
-In addition to profile badges provided by group membership, users may have [custom forum titles](/wiki/User_title) displayed under the avatar in each of their posts.
+In addition to profile badges provided by group membership, users may have [custom forum titles](/wiki/People/Users_with_unique_titles) displayed under the avatar in each of their posts.
 
 ### Moderation
 
 *See also: [Reporting bad behaviour § Forum](/wiki/Reporting_Bad_Behaviour#forum)*
 
-[Moderators](/wiki/People/The_Team/Global_Moderation_Team) are users who keep the forums clean and appropriate, and answer concerns related to that. Moderators can edit or delete inappropriate posts or threads, pin threads and move them between different forums, and temporarily prevent offenders from posting by [silencing](/wiki/Silence) them.
+[Moderators](/wiki/People/The_Team/Global_Moderation_Team) are users who keep the forums clean and appropriate, and answer concerns related to that. Moderators can edit or delete inappropriate posts or topics, pin topics and move them between different forums, and temporarily prevent offenders from posting by [silencing](/wiki/Silence) them.
 
 ## Features
 
@@ -36,15 +36,15 @@ In addition to profile badges provided by group membership, users may have [cust
 
 - Forum posts, as opposed to chat messages, can be **formatted** using [BBCode](/wiki/BBCode), a lightweight markup language. They can also contain YouTube videos, or embed images or audio hosted outside of the forums. 
 
-### Thread features
+### Topic features
 
-- Threads may have **polls** in their opening posts, with up to 10 options.
-- Threads may have **custom covers** (maximum dimensions are 2400×580).
-- Users may **subscribe to threads** and receive updates via e-mail or [website notifications](https://osu.ppy.sh/notifications).
+- Topics may have **polls** in their opening posts, with up to 10 options.
+- Topics may have **custom covers** (maximum dimensions are 2400×580).
+- Users may **subscribe to topics** and receive updates via e-mail or [website notifications](https://osu.ppy.sh/notifications).
 
 ### Forum features
 
-- If a thread contains an announcement, forum rules, or is useful to the majority of the visitors, moderators may **pin** it, placing it at the top of the thread listing.
+- If a topic contains an announcement, forum rules, or is useful to the majority of the visitors, moderators may **pin** it, placing it at the top of the topic listing.
 - Users can exchange private messages, which are available [in-game](/wiki/Chat_Console) and [on the website](https://osu.ppy.sh/community/chat).
 
 ## Special forums
@@ -55,7 +55,7 @@ Some of the forums have different purposes that are not limited to discussion. A
 - [Feature Requests](/wiki/Community/Forum/Feature_Requests): suggestions for osu! development.
 - [Modding Queues](/wiki/Community/Forum/Modding_Queues): beatmap reviews done by other mappers and modders.
 - [Off-Topic](/wiki/Community/Forum/Off-Topic): the place for the not-so-logical discussions.
-- [Abandoned Wasteland](/wiki/Community/Forum/Abandoned_Wasteland): the storage for useless threads.
+- [Abandoned Wasteland](/wiki/Community/Forum/Abandoned_Wasteland): the storage for useless topics.
 
 Additionally, there are other forums similar to Abandoned Wasteland, which serve technical or managerial purposes and are therefore hidden from the general public.
 
