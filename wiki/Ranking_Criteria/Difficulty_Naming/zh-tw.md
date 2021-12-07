@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated: true
-outdated_since: 460d8a7a68bd338ad0184df32162877166038f1d
 ---
 
 # 難度命名
@@ -29,7 +27,6 @@ outdated_since: 460d8a7a68bd338ad0184df32162877166038f1d
 - ![](/wiki/shared/diff/hard-t.png) Muzukashii (困難)
 - ![](/wiki/shared/diff/insane-t.png) Oni (鬼)
 - ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni (裏鬼)
-- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni (地獄)
 
 ### osu!catch
 
@@ -191,8 +188,10 @@ outdated_since: 460d8a7a68bd338ad0184df32162877166038f1d
 
 以下的難度名稱可作為預設難度名稱的替代及補充：
 
-- ![](/wiki/shared/diff/easy-o.png) Beginner (新手)：在預設的 Easy-Normal-Hard-Insane-Expert 分級中，指最低的難度，比Easy還要低。
+- ![](/wiki/shared/diff/easy-o.png) Beginner (新手)：在預設的 Easy-Normal-Hard-Insane-Expert 分級中，指最低的難度，比 Easy 還要低。
+- ![](/wiki/shared/diff/easy-t.png) Shokyuu (初級)：在預設的 Kantan-Futsuu-Muzukashii-Oni-Inner Oni 分級中，指位於 Kantan 之下的最低階難度。
 - ![](/wiki/shared/diff/normal-o.png) Advanced (進階)：在預設的 Easy-Normal-Hard-Insane-Expert 分級中，指介於 Normal 和 Hard 之間的難度。
 - ![](/wiki/shared/diff/hard-o.png) Hyper：在預設的 Easy-Normal-Hard-Insane-Expert 分級中，指介於 Hard 和 Insane 之間的難度。
 - ![](/wiki/shared/diff/expert-o.png) Extra：可替代 Expert。
 - ![](/wiki/shared/diff/expertplus-o.png) Extreme (極限)：指比 Expert 更難的難度。
+- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni (獄鬼)：指比 Inner Oni 更難的難度。
