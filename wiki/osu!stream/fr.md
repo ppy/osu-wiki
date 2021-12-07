@@ -35,7 +35,7 @@ Le développement de cette version s'est terminé en 2020. Pour plus d'informati
 - Transférez les fichiers osu!stream en utilisant iTunes.
 - Débranchez l'iDevice et osu!stream pourra être lancé.
 
-## Ajouter des Beatmaps
+## Ajouter des beatmaps
 
 **Assurez-vous que l'iDevice peut se connecter à Internet (soit par Wi-Fi, soit par 3G/4G).**
 
