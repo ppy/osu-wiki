@@ -23,7 +23,7 @@ Le développement de cette version s'est terminé en 2020. Pour plus d'informati
 - Appuyez et installez osu!stream
   - Si vous êtes invité à saisir votre identifiant Apple et votre mot de passe, faites-le.
 - osu!stream peut être joué une fois le téléchargement et l'auto-installation terminés.
-  - Il est suggéré de lire également la section "Ajouter des Beatmaps" pour obtenir le dernier pack de chansons gratuites. Le téléchargement actuel ne contient que 2 musiques.
+  - Il est suggéré de lire également la section "Ajouter des beatmaps" pour obtenir le dernier pack de musiques gratuites. Le téléchargement actuel ne contient que 2 musiques.
 
 ### Méthode USB
 
