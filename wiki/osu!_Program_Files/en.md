@@ -38,7 +38,7 @@ The Localisation folder appears when the player has switched their language in t
 
 ### Replays
 
-*Note: Replays used to be replayed at a lower sample rate, but are now more optimized of a better experience*
+*Note: Replays used to be replayed at a lower sample rate, but are now more optimised of a better experience*
 
 The Replays folder holds the player's replay files. A replay file does not work when the beatmaps linked to it is missing. The replay also contains the results data, and reanimates the player's cursor movement while replaying. To create a replay, press F2 at the results screen, or click on the 'Save replay to Replays folder' (in Solo only).
 
@@ -85,7 +85,7 @@ osu! data files. Contains some of osu!'s cache, like beatmap background cache an
 
 ## Database files (.db)
 
-The database files are databases that osu! requires to function propertly. The files contain vital information that osu! requires, such as saved scores, and the cached list of beatmaps saved on the player's device.
+The database files are databases that osu! requires to function properly. The files contain vital information that osu! requires, such as saved scores, and the cached list of beatmaps saved on the player's device.
 
 - `collections.db`: Stores the player's "Collections" in-game.
 - `osu!.db`: Stores osu!'s database of beatmaps.

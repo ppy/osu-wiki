@@ -61,13 +61,13 @@ For each submission, the sum of categories is a judge's *raw score*. A judge's *
 
 *judge X's final score = (judge X's raw score - judge X's average raw score) / judge X's standard deviation*
 
-A submission's score is the sum of each judge's *final score*. Scores are determined this way to avoid variations in score ranges between judges, as popularized by the [Pending Cup](/wiki/Contests#pending-cup).
+A submission's score is the sum of each judge's *final score*. Scores are determined this way to avoid variations in score ranges between judges, as popularised by the [Pending Cup](/wiki/Contests#pending-cup).
 
 ### Voting
 
 Due to potential vote manipulation and low voter turnout, the "Voting" aspect of the MBC has been replaced with "Judging" from June 2020 onwards. Community vote may return if those problems can be solved!
 
-In contests before June 2020, voting took place on the respective contest's [Community Contests page](https://osu.ppy.sh/community/contests). Users were encouraged to vote for their favourite entries and to prioritize those that effectively worked with the month's beatmapping limitation.
+In contests before June 2020, voting took place on the respective contest's [Community Contests page](https://osu.ppy.sh/community/contests). Users were encouraged to vote for their favourite entries and to prioritise those that effectively worked with the month's beatmapping limitation.
 
 ### Previous contests
 

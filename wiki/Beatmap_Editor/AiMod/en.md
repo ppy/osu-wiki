@@ -80,7 +80,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | :-- | :-- | :-- |
 | <!-- Not sure how to test this one -->This slider moves in an abnormal way. |  |  |
 | Slider has an absurdly large amount of points! | *Self-explanatory* | Remove some of the anchor points from your slider. |
-| This combo is very long. Consider splitting it up. | The length of combos can affect the difficulty of the map, as well as the amount of fruits that will be stacked on the catcher's plate. | Go to the offending combos and decide where to start the new combo (It is prefered that length of combos are, at most, 15-18). |
+| This combo is very long. Consider splitting it up. | The length of combos can affect the difficulty of the map, as well as the amount of fruits that will be stacked on the catcher's plate. | Go to the offending combos and decide where to start the new combo (It is preferred that length of combos are, at most, 15-18). |
 | Object's end is offscreen! | Objects that are offscreen may not be seen in osu!clients running in 4:3 ratios. This may not always be accurate, so do check using a 4:3 aspect ratio resolution. | Remove or move the object's end. |
 | Object is offscreen! | Objects that are offscreen may not be seen in osu!clients running in 4:3 ratios. | Remove or move the object. |
 | This object is too close to the previous object. | "Check distance snap" must be checked. | Move the object further away from the previous one. |

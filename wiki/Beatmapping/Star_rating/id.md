@@ -3,6 +3,8 @@ stub: true
 tags:
   - SR
   - bintang
+outdated: true
+outdated_since: dff3096e7c50f26bc922a1c6c3ebfb744725c292
 ---
 
 # Star rating
@@ -13,7 +15,7 @@ tags:
 
 *Laman utama: [Tingkat Kesulitan](/wiki/Beatmap/Difficulty)*
 
-![Rentang star rating](/wiki/Beatmap/Difficulty/img/SR-range.png)
+![Rentang star rating](/wiki/shared/star-rating/spectrum.png)
 
 Di dalam situs web, beatmap diberikan sebuah ikon untuk menggambarkan tingkat kesulitannya, rentangnya adalah sebagai berikut:
 

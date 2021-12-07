@@ -39,7 +39,7 @@ The 3 Digit World Cup was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
+| Organizer | ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 | Mappool selector | ![][flag_US] [fooders](https://osu.ppy.sh/users/7545218), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) |
 | Referee | ![][flag_KR] [choke-](https://osu.ppy.sh/users/12242622), ![][flag_PL] [crissof](https://osu.ppy.sh/users/9505673), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_AT] [GumalaOC](https://osu.ppy.sh/users/5367718), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [ruruchewy](https://osu.ppy.sh/users/7112839), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_PL] [zibi](https://osu.ppy.sh/users/11301620) |
 | Streamer | ![][flag_US] [D I O](https://osu.ppy.sh/users/3958619), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |

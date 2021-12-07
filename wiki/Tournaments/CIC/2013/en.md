@@ -34,7 +34,7 @@ The Catch the Beat Indonesia Cup 2013 was run by various Indonesian osu!catch co
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Ableh\_ZZZ](https://osu.ppy.sh/users/917216), ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063) |
-| Schedule organiser | ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422) |
+| Schedule organizer | ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422) |
 | Referee | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710), ![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Frans Niko](https://osu.ppy.sh/users/906991), ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373), ![][flag_ID] Sena Aizawa |
 | Mappool selector | ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422), ![][flag_ID] [mana\_vayne](https://osu.ppy.sh/users/872884), ![][flag_ID] [\[Sena Airi\]](https://osu.ppy.sh/users/1151612), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063), ![][flag_ID] [Ableh\_ZZZ](https://osu.ppy.sh/users/917216) |
 | Additional | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Ava](https://osu.ppy.sh/users/1531280), ![][flag_ID] [Yunia Anindya](https://osu.ppy.sh/users/1339271), ![][flag_ID] [- t e n n y a -](https://osu.ppy.sh/users/678794) |

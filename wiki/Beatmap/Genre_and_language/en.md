@@ -41,7 +41,7 @@ A beatmap is unable to be nominated<!-- TODO: link --> if it has the `Unspecifie
 | Pop | Prominent in pop culture, and composed to be catchy by use of simple structure and repeated choruses or melodies. |
 | Other | Not belonging to any of the listed genres. |
 | Novelty | Comical or unusual. In osu!, this category primarily includes songs like YouTube Poops, Niconico MADs, and meme music. |
-| Hip Hop | "Stylized rhythmic music that commonly accompanies rapping," sometimes "sampling beats or bass lines from records" ([*Hip hop music* on Wikipedia](https://en.wikipedia.org/wiki/Hip_hop_music)). |
+| Hip Hop | "Stylised rhythmic music that commonly accompanies rapping," sometimes "sampling beats or bass lines from records" ([*Hip hop music* on Wikipedia](https://en.wikipedia.org/wiki/Hip_hop_music)). |
 | Electronic | Composed digitally or with electronic instruments. |
 | Metal | Having a heavy sound, making use of loud and distorted electric guitars and bass, and containing fast or dense drum rhythms. |
 | Classical | Formal, structured around advanced musical theory, and having roots in old western culture or taking inspiration from it. |
