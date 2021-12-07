@@ -6,7 +6,7 @@
 
 Il a introduit un tout nouveau système de jeu, avec de nouveaux éléments de jeu tels que des hold circles et des connected beats. Il ne prend pas en charge les beatmaps classiques d'osu! sans conversion manuelle. Les beatmaps ont été créées par une équipe spéciale de mappeurs afin de tirer parti des nouveaux éléments et de respecter un [niveau de normes plus strict](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
-[osu!stream a été élaboré dans osu!monthly \#5 avec une interview.](https://osu.ppy.sh/community/forums/topics/59924)
+[osu!stream a été élaboré dans osu!monthly \#5 après une interview](https://osu.ppy.sh/community/forums/topics/59924)
 
 Le développement de cette version s'est terminé en 2020. Pour plus d'informations, lisez le [billet de blog](https://blog.ppy.sh/osu-stream-2020-release/) sur sa dernière version. Le code source ainsi que les outils de conversion et de test des beatmaps ont été mis à disposition la même année sous une licence permissive sur [GitHub](https://github.com/ppy/osu-stream) pour les curieux, et toutes les beatmaps précédemment payantes sont désormais disponibles gratuitement dans la "boutique" du jeu.
 
