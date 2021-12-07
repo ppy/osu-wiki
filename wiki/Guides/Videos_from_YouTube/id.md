@@ -9,6 +9,7 @@ tags:
 # Video dari YouTube
 
 *Mohon diperhatikan bahwa men-download video dari YouTube adalah pelanggaran dari [Persyaratan Layanan YouTube](https://www.youtube.com/t/terms).*
+
 [YouTube](https://youtube.com) merupakan sumber yang sangat berguna untuk kreator yang ingin menambahkan video latar belakang pada beatmap [beatmap](/wiki/Beatmap) mereka. Lagu yang memiliki video musik pada YouTube mungkin telah dikompres sedemikian rupa sehingga video terlihat bagus namun ukurannya tidak terlalu besar.
 
 Tutorial ini ditujukan untuk mereka yang **tidak dapat** menemukan video selain YouTube.

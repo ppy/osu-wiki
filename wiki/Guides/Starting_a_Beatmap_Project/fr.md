@@ -1,6 +1,6 @@
 # Comment démarrer un projet de beatmap
 
-*[Veuillez préciser le type de projet (Discographie, Album, Collab) par LuigiHann](https://web.archive.org/web/20120719062438/http://osu.ppy.sh/forum/t/12193)*
+*[Forum Rules - please read them before posting par Stefan](https://osu.ppy.sh/community/forums/topics/453937)*
 
 Note : Cet article concerne la section du forum [Beatmap Projects](https://osu.ppy.sh/community/forums/53) et la manière de l'aborder.
 

@@ -1,6 +1,6 @@
 # Cara memulai sebuah proyek beatmap
 
-*[Please specify project type (Discography, Album, Collab) oleh LuigiHann](https://web.archive.org/web/20120719062438/http://osu.ppy.sh/forum/t/12193)*
+*[Forum Rules - please read them before posting oleh Stefan](https://osu.ppy.sh/community/forums/topics/453937)*
 
 Catatan: Artikel ini membahas tentang sub-forum [Beatmap Projects](https://osu.ppy.sh/community/forums/53) dan bagaimana cara menggunakannya.
 
