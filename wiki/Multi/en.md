@@ -54,7 +54,7 @@ The filter options provided are shown below; reading from left-to-right, top-to-
 | `All`/`osu!`/`osu!taiko`/`osu!catch`/ `osu!mania` | Self-explanatory; show only Match Setup with the **currently specified game mode**. |
 | `Owned Beatmaps` | Show only Match Setup which the player **has the beatmap** when enabled. |
 | `Show Full` | Show Match Setup with **full slots**. Do note that the Match Setup cannot be entered as long as there are no available slots in the Match Setup. |
-| `Search` | Click on the searchbar and type in the title/beatmap used for the Match Setup or the host/player name to **find the Match Setup with the specified search term**. When using the searchbar, all filters will be ignored temporarily except `Show In-progress` (the only available filter option when the searchbar was used) until the searchbar is empty. |
+| `Search` | Click on the search bar and type in the title/beatmap used for the Match Setup or the host/player name to **find the Match Setup with the specified search term**. When using the search bar, all filters will be ignored temporarily except `Show In-progress` (the only available filter option when the search bar was used) until the search bar is empty. |
 | `Games with Friends` | **Only show Match Setup hosted/entered by the friends of the player** when enabled. This filter option will overwrites all other filter options when enabled. |
 | `Show Locked` | Show **locked** Match Setup when enabled. Do note that to enter the Match Setup, a proper password must be given. |
 | `Show In-progress` | Show **currently-playing** Match Setup when enabled. If the Match Setup contains empty slots, it is possible to enter the Match Setup. The player should wait patiently until the currently-playing match concludes and prepare for the next match instead. The Match Setup text colour will change to grey with `(In progress)` appended to the back of the title until the match ends. |
@@ -343,7 +343,7 @@ Each players will receive personalised match result placement privately under `#
 Team Vs mode pit two teams (Blue/Red) against each other based on Win Condition set.
 Fulfill the Win Condition criteria as closely as possible to reach the top spot in the team and compete with the other team by team total.
 
-Blue team members are placed at left side, red team members are placed at right side, and a crown at the center shows the current team supremacy.
+Blue team members are placed at left side, red team members are placed at right side, and a crown at the centre shows the current team supremacy.
 It will move left and right depending on which team fulfill the Win Condition most closely.
 
 When this mode was selected, all players in the Match Setup will receive either red or blue flag.
@@ -360,7 +360,7 @@ Members in failed state will be located at the bottom of the team leaderboard an
 
 ![](img/Multi_team_grade.jpg "Team Vs grade screen")
 
-In the results screen, declaration of match winner will be based on team total and announced at the center in winner's colour, with blue team total at the left and red team total at the right.
+In the results screen, declaration of match winner will be based on team total and announced at the centre in winner's colour, with blue team total at the left and red team total at the right.
 
 **Only surviving members of the team's score will be counted**; it is possible for red team to be declared winner of the match when blue team has the superiority *just because* some blue team members providing the superiority were in failed state or all members in the blue team failed.
 

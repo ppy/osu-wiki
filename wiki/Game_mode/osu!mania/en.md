@@ -4,7 +4,7 @@
 
 ![Gameplay of osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania Interface")
 
-The mode has been widely used in almost all of the major rhythm games. It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyer. The player will have to press the correct key for that specific note in time. Though the game mode was originally made as an imitation of the *Beatmania* style of playing, osu!mania allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like *Guitar Hero* \[5 keys\] or *Dance Dance Revolution* \[4 keys\] and so on).
+The mode has been widely used in almost all of the major rhythm games. It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyor. The player will have to press the correct key for that specific note in time. Though the game mode was originally made as an imitation of the *Beatmania* style of playing, osu!mania allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like *Guitar Hero* \[5 keys\] or *Dance Dance Revolution* \[4 keys\] and so on).
 
 It is somewhat similar to [osu!taiko](/wiki/Game_mode/osu!taiko), but with more buttons notes moving vertically rather than moving horizontally.
 
@@ -100,7 +100,7 @@ The current default key settings is based on *Symmetrical* style.
 
 There *used to be* two different binding-styles, *Symmetrical* and *Left to Right*:
 
-- *Symmetrical* style mimics the button placement of *DJMAX*, in which the center key is `Spacebar` to simulate a feeling of stepping the pedal similar to the arcade version. Centre key matches the middle column (odd numbered keys only) and the other column matches the keys in its corresponding place.
+- *Symmetrical* style mimics the button placement of *DJMAX*, in which the centre key is `Spacebar` to simulate a feeling of stepping the pedal similar to the arcade version. Centre key matches the middle column (odd numbered keys only) and the other column matches the keys in its corresponding place.
 - *Left to Right* style mimics the button placement of *Beatmania IIDX*, where the first column matches to the *key1*, then the second column matches the *key2* and so on.
   - However, the option to pick had been removed and the current style is based on "Symmetrical" style. For legacy reason, "Left to Right" style is kept here.
 
@@ -186,7 +186,7 @@ The **[05 March 2015 (2015-03-05) update](https://osu.ppy.sh/home/changelog)** g
 
 ## Scoring
 
-*Scoring Values can be found in [Score under osu!mania Scoring Values section](/wiki/Score#osu!mania).*
+*Scoring values can be found in [osu!mania scoring system](/wiki/Score/osu!mania).*
 
 Scoring section details all the intricacies of scoring, including mathematical formula.
 

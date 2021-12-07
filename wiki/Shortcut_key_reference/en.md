@@ -8,7 +8,7 @@ tags:
 
 # Shortcut key reference
 
-There are many shortcuts in osu! that can be utilized while in-game or while idle at any screen. They are listed out with their functions below.
+There are many shortcuts in osu! that can be utilised while in-game or while idle at any screen. They are listed out with their functions below.
 
 *Note: This article lists the default keyboard shortcuts. You can change some of them in the [options](/wiki/Options).*
 
@@ -28,7 +28,7 @@ These shortcuts work anywhere:
 | `F10` | Toggle all mouse buttons (except for the mouse wheel, which is always enabled). |
 | `F12` | Take a screenshot. Click on the dialog to open the screenshots folder. |
 | `Shift` + `F12` | Take a screenshot and upload to the server for sharing. The screenshot will also be saved locally. This will open the screenshot on your web browser. |
-| `Insert` | This is the [boss key](https://en.wikipedia.org/wiki/Boss_key). Minimize the game client into the notification area. This will also mute the game. |
+| `Insert` | This is the [boss key](https://en.wikipedia.org/wiki/Boss_key). Minimise the game client into the notification area. This will also mute the game. |
 | `Shift` + `F1` | Open [osu!status](https://twitter.com/osustatus) on your web browser. (Only when a connection error appears.) |
 | `Ctrl` + `O` | Open the options sidebar. Can not enter the offset wizard if you are not in the main menu. |
 
@@ -243,7 +243,7 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `G` | Reverse the selection. That is, move the first selected object to the last selected object and so on. |
 | `Ctrl` + `Shift` + `R` | Rotate the selected hit objects by a specified angle (opens a dialog). |
 | `Ctrl` + `Shift` + `S` | Scale selected hit objects by a specified amount (opens a dialog). |
-| `Ctrl` + `Shift` + `D` | Generate polygons with a specificied number of points (opens a dialog). |
+| `Ctrl` + `Shift` + `D` | Generate polygons with a specified number of points (opens a dialog). |
 | `Ctrl` + `Shift` + `F` | Convert the selected slider into a hit circle stream (opens a dialog). |
 | `Ctrl` + `Left/Right/Up/Down Arrow` | Nudge the selected notes in the pressed direction. (osu!, osu!taiko, osu!catch) |
 | `Ctrl` + `Left/Right Arrow` | Move selected objects left or right one column. (osu!mania) |

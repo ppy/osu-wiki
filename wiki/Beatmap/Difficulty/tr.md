@@ -59,7 +59,7 @@ Bunlar bir beatmapin alabileceği tipik zorluk seviyeleridir. Bunların mutlak t
 
 ## Yıldız derecesi
 
-![Yıldız derecesi aralıkları](img/SR-range.png)
+![Yıldız derecesi aralıkları](/wiki/shared/star-rating/spectrum.png)
 
 Web sayfasında, beatmaplere aşağıdaki yıldız derecelerine göre bir zorluk simgesi otomatik olarak verilir:
 

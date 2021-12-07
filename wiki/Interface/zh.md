@@ -293,15 +293,15 @@
    1. `整体`：你在这个谱面排行榜的位置，你可以与使用了[mods](/wiki/Game_modifier)的人竞争尽管你没有使用[mods](/wiki/Game_modifier)。
    2. `准确度`：你这次游玩的[精确度](/wiki/Gameplay/Accuracy#准确度)，只有新分数超过旧分数时才会计算。
    3. `Max Combo`：你这次游玩时达到的最高Combo。
-   4. `Ranked图分数`：你在这张谱面的[最好成绩](/wiki/Score#ranked-score)。
+   4. `Ranked图分数`：你在这张谱面的[最好成绩](/wiki/Score/Ranked_score)。
    5. `总分数`：不考虑，因为它不会影响你的在线排名。
    6. `Performance`：你在这次游玩获得的[未权重计算过的pp](/wiki/Performance_points#为什么我没有得到游玩一个谱面的所有pp)。
 6. `Overall Ranking`部分。也仅当谱面拥有在线排行榜时可用。
    1. `整体`：你的世界排名。
    2. `准确度`：你所有游玩过的图的[平均精确度](/wiki/Gameplay/Accuracy#准确度)。
    3. `Max Combo`：你所有谱子中获得的最长的Combo。
-   4. [`Ranked分数`](/wiki/Score#ranked-score)：你在每张Ranked图中最高分数的总和。
-   5. [`总分数`](/wiki/Score#total-score)：与Ranked分数相同，但是它计算所有上传到osu!网站(除了未上传或未更新至最新版的谱面)谱面的每一次游玩分数，包括未游玩完整或失败的成绩。
+   4. [`Ranked分数`](/wiki/Score/Ranked_score)：你在每张Ranked图中最高分数的总和。
+   5. [`总分数`](/wiki/Score/Total_score)：与Ranked分数相同，但是它计算所有上传到osu!网站(除了未上传或未更新至最新版的谱面)谱面的每一次游玩分数，包括未游玩完整或失败的成绩。
    6. `Performance`：你资料的总PP数
 7. 谱面的通过率和总游玩数
 8. 谱面评分。根据你是否喜欢谱面进行评价。如果你不能决定，最好不要管它。

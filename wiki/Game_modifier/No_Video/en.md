@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- TODO:
-- add score multiplier, caption, and shortucut key values -->
+- add score multiplier, caption, and shortcut key values -->
 
 # No Video (mod)
 

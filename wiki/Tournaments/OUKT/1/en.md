@@ -37,7 +37,7 @@ The OUKT1 was run by various community members
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
+| Organizer | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
 | Mappool selector | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) |
 | Referee | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_US] [Rinnou Kouriri](https://osu.ppy.sh/users/1518370) |
 
