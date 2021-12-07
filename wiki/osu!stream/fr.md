@@ -29,7 +29,7 @@ Le développement de cette version s'est terminé en 2020. Pour plus d'informati
 
 **L'appareil doit avoir [iTunes](https://www.apple.com/itunes/) installé.**
 
-- Allez sur [ce lien et téléchargez osu!stream](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
+- Allez sur [ce lien](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8) et téléchargez osu!stream
   - Si l'on vous demande votre identifiant Apple, saisissez votre identifiant Apple et votre mot de passe.
 - Branchez l'iDevice sur l'appareil (qui a osu!stream).
 - Transférez les fichiers osu!stream en utilisant iTunes.
