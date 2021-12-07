@@ -1,8 +1,6 @@
 # Cara memulai sebuah proyek beatmap
 
-*[Forum Rules - please read them before posting oleh Stefan](https://osu.ppy.sh/community/forums/topics/453937)*
-
-Catatan: Artikel ini membahas tentang sub-forum [Beatmap Projects](https://osu.ppy.sh/community/forums/53) dan bagaimana cara menggunakannya.
+Perhatian: Artikel ini membahas tentang sub-forum [Beatmap Projects](https://osu.ppy.sh/community/forums/53) dan bagaimana cara menggunakannya. Mohon membaca [aturan forum](https://osu.ppy.sh/community/forums/topics/453937) terlebih dahulu sebelum membuat utas baru.
 
 ## Membuat judul utas yang informatif
 

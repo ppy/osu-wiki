@@ -1,8 +1,6 @@
 # How to start a beatmap project
 
-*[Forum Rules - please read them before posting by Stefan](https://osu.ppy.sh/community/forums/topics/453937)*
-
-Note: This article is about the [Beatmap Projects](https://osu.ppy.sh/community/forums/53) forum section and how to approach it.
+*Notice: This article is about the [Beatmap Projects](https://osu.ppy.sh/community/forums/53) forum section and how to approach it. Make sure to read its [forum rules](https://osu.ppy.sh/community/forums/topics/453937) before posting.*
 
 ## Making an informative thread title
 
