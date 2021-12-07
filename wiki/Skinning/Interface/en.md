@@ -26,7 +26,7 @@ Notes:
   - If it is set to `Sometimes` the seasonal backgrounds will override this element while they are in active use.
 - `.jpg` extension only.
   - If the image type is `.png` change the extension to `.jpg`.
-    - If the background is transparent, the background color will be black.
+    - If the background is transparent, the background colour will be black.
 - The player can drag and drop an image to overwrite the skin's skinned image. **This will replace the image in the skin's folder!**
 
 ---

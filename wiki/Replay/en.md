@@ -36,7 +36,7 @@ To skip the starting/ending point of the play, press the `Spacebar` key.
 
 ### Discussion
 
-The button **only appears when an in-game osu!account was connected to Bancho and the difficulty/beatmap can be found in the osu! beatmaplist (ranked or otherwise)**.
+The button **only appears when an in-game osu!account was connected to Bancho and the difficulty/beatmap can be found in the osu! beatmap list (ranked or otherwise)**.
 Shows flowing right-to-left comments left by the community on the beatmap.
 
 Click on the `Discussion` button to show the options available.
@@ -49,7 +49,7 @@ An active osu!supporter account will have an extra `Colour` button which allows 
 ![](img/Replay_discussion_comment.jpg "Making a comment")
 
 Click on `Click to add a comment at the current time!` to comment on the current difficulty/beatmap.
-The replay will be paused, darken, and with an osu!logo at the foreground center until the comment was completed (usually, `Enter` key) or cancelled (usually, `Esc` key).
+The replay will be paused, darken, and with an osu!logo at the foreground centre until the comment was completed (usually, `Enter` key) or cancelled (usually, `Esc` key).
 
 ![](img/Replay_discussion_example.jpg "An example of comment flow")
 

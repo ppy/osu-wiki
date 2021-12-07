@@ -37,7 +37,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 | Position | Member(s) |
 | :-: | :-- |
-| Organiser | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
+| Organizer | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
 | Manager | ![][flag_CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
 | Mappool selector | ![][flag_CN] [Tofu1222](https://osu.ppy.sh/users/6089608), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) |
 | Streaming judgement | ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
