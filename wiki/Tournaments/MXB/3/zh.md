@@ -9,7 +9,7 @@ tags:
 ![MXB 3rd Logo](img/logo.jpg)
 
 第三届萌新杯（以下均简写为 MXB）是华人区个人比赛，是由 MXB 举行的第三届华人区 osu!mania 大赛。比赛所用谱面均为 osu!mania 专用谱。
-​​
+
 ## 比赛时间表
 
 | 阶段 | 时间 |
@@ -146,7 +146,6 @@ tags:
 - Tiebreaker
   - **[gmtn. (witch's slave) - furioso melodia \[4K furioso maratona\]](https://osu.ppy.sh/beatmapsets/307371#mania/725897)**
 
-
 ### 小组赛
 
 **下载完整图池包！（73 MB） - [百度云盘](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow)（提取码： `wbbx`） - [Google 云端硬盘](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn)**
@@ -235,6 +234,7 @@ tags:
 #### 各阶段获胜条件
 
 除资格赛阶段（没有获胜条件）外，每轮比赛都将有一个比赛图池、一首 Tiebreaker 和一个获胜条件。格式如下：
+
 - 资格赛阶段：4 张地图，无获胜条件，无 Tiebreaker。
 - 小组赛阶段：11 首歌组成的图池，采用 BO7 赛制（先得到 4 分获胜），一首 Tiebreaker。
 - 八强和半决赛：13 首歌组成的图池，采用 BO9 赛制（先得到 5 分获胜），一首 Tiebreaker。
@@ -313,5 +313,5 @@ tags:
 - 若超过重赛时间点后中途断开，在当前地图结束时，裁判将设置两分钟的计时器。当这个计时器归零时，协议中提到的宽限计时器将被（重新）激活。如果宽限期计时器达到 0。比赛将被取消，剩下的其他玩家将被宣布为获胜者。
   - 极端情况下，若双方选手均无法成功重连，拥有更高组别的选手将自动获胜。
 
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_US]: /wiki/shared/flag/US.gif "美国"

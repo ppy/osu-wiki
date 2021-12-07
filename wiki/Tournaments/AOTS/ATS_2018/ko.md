@@ -1,8 +1,8 @@
 ---
 tags:
-- Asian Taiko Showdown 2018
-- ATS 2018
-- ATS2018
+  - Asian Taiko Showdown 2018
+  - ATS 2018
+  - ATS2018
 ---
 
 # Asian Taiko Showdown 2018
@@ -57,8 +57,6 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 - [ATS 2018 디스코드](https://discord.gg/2xQDbkS)
 - **[아시아 태고 쇼다운 현황](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0)**
 
----
-
 ## 참가자
 
 | Seed | 멤버 |
@@ -81,19 +79,13 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 | **G** | ![][flag_TW] [TS\_LewisLuo](https://osu.ppy.sh/users/4337536) | ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957) | ![][flag_ID] [Shirai-](https://osu.ppy.sh/users/4221845) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
 | **H** | ![][flag_JP] [KILI3343](https://osu.ppy.sh/users/11233651) | ![][flag_PH] [Jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_JP] [GlinT fraulein](https://osu.ppy.sh/users/7364981) | ![][flag_JP] [puropera209](https://osu.ppy.sh/users/2545134) |
 
----
-
 ![ATS 2018 Podium](img/podium.jpg)
-
----
 
 ![ATS 2018 Upper Bracket](img/upper_bracket.jpg)
 
 ![ATS 2018 Lower Bracket](img/lower_bracket.jpg)
 
 ![ATS 2018 GS Participants](img/gs_participants.gif)
-
----
 
 ## 맵풀
 
@@ -288,8 +280,6 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 - Tiebreaker
   - **[Demetori - Desire Drive ~ Desire Dream (OnosakiHito) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/42234#taiko/135188)**
 
----
-
 ## Match Results
 
 ### 최종 결승
@@ -425,8 +415,6 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 | EM | **Taiko\_VN12** ![][flag_VN] | **3** | 0 | ![][flag_PH] -Zephy- | -win by default- |
 | EM | \_CaKy\_ ![][flag_ID] | 0 | **3** | ![][flag_SG] **uchuuj1n** | [#1](https://osu.ppy.sh/community/matches/42923346) |
 
----
-
 ## 규칙
 
 ### 토너먼트 룰
@@ -465,8 +453,8 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 2. 각 플레이어는 자유롭게 웜업 맵을 고를수있습니다. 미심쩍은 매체가 포함된 비트맵을 사용하는건 금지됩니다. 모든 맵은 태고맵이어야합니다.
 3. 각 플레이어는 맵풀에서 맵 하나를 밴할수있습니다. 이 비트맵은 그 누구도 경기 내에서 고를수 없습니다.
 4. 비트맵 선택은 맵풀 내에서 각 플레이어가 번갈아서 고릅니다.
-5. 각 플레이어는 #multiplayer 에서 "!roll"을 한번 해야합니다.
-   - !roll 승자는 먼저 맵을 고릅니다
+5. 각 플레이어는 `#multiplayer` 에서 `!roll`을 한번 해야합니다.
+   - `!roll` 승자는 먼저 맵을 고릅니다
    - 패자는 밴을 먼저 합니다
 6. 플레이어는 자유롭게 맵풀에서 곡을 고를수있습니다.
    - 타이(서로 1점을 남겨둔상황) 상황에서는 반드시 타이브레이커맵을 사용해야합니다.

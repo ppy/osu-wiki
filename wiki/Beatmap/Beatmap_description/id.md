@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: c08929c17cf02a4642967c8acebddd893f775be9
+---
+
 # Deskripsi beatmap
 
 **Deskripsi beatmap** adalah area kecil yang berada di bawah halaman [beatmap](/wiki/Beatmap) yang memberikan informasi tentang beatmap tersebut kepada player dan terdapat [BBCode](/wiki/BBCode) di dalamnya. Kebanyakan beatmap [ranked](/wiki/Beatmap/Category#ranked) menggunakan setidaknya satu gambar, sebuah angka (tergantung berapa banyak beatmap dari kreator yang sudah Ranked), dan sebuah difficulty section.
@@ -15,7 +20,7 @@ Deskripsi beatmap yang terkenal seringkali terdapat:
 
 ### Gambar
 
-Banyak deskripsi beatmap yang terdapat setidaknya satu gambar (sering juga terdapat animasi [GIF](https://id.wikipedia.org/wiki/Graphics_Interchange_Format "Wikipedia") di dalamnya), yang digunakan untuk meng-ekspresikan dan mengilustrasi kreator, musik, dan/atau beatmap agar mencolok. Mereka juga bisa mendapatkan tempat judul atau header untuk menambahkan bakat dan kualitas. Untuk belajar bagaimana cara menambahkan gambar menggunakan BBCode, silahkan lihat [tutorial menambahkan gambar menggunakan BBCode](/wiki/BBCode#image).
+Banyak deskripsi beatmap yang terdapat setidaknya satu gambar (sering juga terdapat animasi [GIF](https://id.wikipedia.org/wiki/Graphics_Interchange_Format) di dalamnya), yang digunakan untuk meng-ekspresikan dan mengilustrasi kreator, musik, dan/atau beatmap agar mencolok. Mereka juga bisa mendapatkan tempat judul atau header untuk menambahkan bakat dan kualitas. Untuk belajar bagaimana cara menambahkan gambar menggunakan BBCode, silahkan lihat [tutorial menambahkan gambar menggunakan BBCode](/wiki/BBCode#images).
 
 ### Difficulty section
 

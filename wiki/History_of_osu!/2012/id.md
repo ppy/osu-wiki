@@ -19,7 +19,7 @@ Tautan terkait:
 Pada 2012-10-08, osu!mania akhirnya dirilis kepada publik ([woc2006](https://osu.ppy.sh/users/1105845))! Selain itu:
 
 - Hitsound per objek ditambahkan ke dalam editor. ([mm201](https://osu.ppy.sh/users/30655))
-- Menambahkan fitur pemulihan dari gagal melanjutkan dalam [multiplayer](/wiki/Multi) dengan memenuhi kembali bar HP. (Pengecualian jika mod [Sudden Death](/wiki/SD) atau [Perfect](/wiki/PF) diaktifkan)
+- Menambahkan fitur pemulihan dari gagal melanjutkan dalam [multiplayer](/wiki/Multi) dengan memenuhi kembali bar HP. (Pengecualian jika mod [Sudden Death](/wiki/Game_modifier/Sudden_Death) atau [Perfect](/wiki/Game_modifier/Perfect) diaktifkan)
 - Dukungan scrolling ke daftar peringkat online dalam game.
 - Perbaikan pada [pemilih skin](/wiki/Options#skin) untuk membuatnya bermain lebih realistis.
 
@@ -91,7 +91,7 @@ Pada 2012-12-21, osu! diberikan pembaruan yang cukup besar. Perubahan yang palin
 4. Pengaturan Fun Spoiler diubah menjadi [Pengaturan Visual](/wiki/Visual_Settings) dan ditempatkan di bagian bawah layar
 5. Tidak ada mod Video yang dipindahkan ke Pengaturan Visual
 
-Masalah teknis dan bug telah diprediksi dari awal. Dukungan widescreen, meskipun berfungsi, tetapi menyebabkan beberapa gambar dan video terlihat aneh (kepala karakter tidak terlihat, hilang atau sebagian tersembunyikan oleh teks) bagian atas dan bawah terpotong. [Storyboard](/wiki/Storyboards) saat ini belum mendukung widescreen, sebagai gantinya, letterbox atau bilah hitam muncul di sisi yang menyebabkannya terlihat sempit. Hal ini menciptakan masalah untuk mode [Catch the Beat](/wiki/Game_mode/osu!catch) karena buah akan *melewati* bar hitam yang harusnya berada di perbatasan saat menggunakan widescreen. Beberapa storyboard juga tidak berfungsi dengan baik (beberapa gambar tidak menempati area bermain, tetapi sebaliknya, memperpanjang ke bar hitam). Masalah saat ini telah diketahui dan telah diperbaiki sebagai solusi atas masalah yang didiskusikan dan ditemukan.
+Masalah teknis dan bug telah diprediksi dari awal. Dukungan widescreen, meskipun berfungsi, tetapi menyebabkan beberapa gambar dan video terlihat aneh (kepala karakter tidak terlihat, hilang atau sebagian tersembunyikan oleh teks) bagian atas dan bawah terpotong. [Storyboard](/wiki/Storyboard) saat ini belum mendukung widescreen, sebagai gantinya, letterbox atau bilah hitam muncul di sisi yang menyebabkannya terlihat sempit. Hal ini menciptakan masalah untuk mode [Catch the Beat](/wiki/Game_mode/osu!catch) karena buah akan *melewati* bar hitam yang harusnya berada di perbatasan saat menggunakan widescreen. Beberapa storyboard juga tidak berfungsi dengan baik (beberapa gambar tidak menempati area bermain, tetapi sebaliknya, memperpanjang ke bar hitam). Masalah saat ini telah diketahui dan telah diperbaiki sebagai solusi atas masalah yang didiskusikan dan ditemukan.
 
 Tautan terkait:
 

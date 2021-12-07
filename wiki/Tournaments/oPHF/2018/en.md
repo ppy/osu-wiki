@@ -1,49 +1,49 @@
 ---
 tags:
-- oPHF 2018
-- oPHF2018
-- oPHF18
+  - oPHF 2018
+  - oPHF2018
+  - oPHF18
 ---
 
 # osu!Philippines Holiday Friendlies 2018
 
-![oPHF2018 Logo](img/logo.png)
+![oPHF2018 logo](img/logo.png)
 
 > It's now time for some Holiday cheer!
 
-The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restricted, semi-open tournament series for the osu!, osu!taiko, osu!catch, and the osu!mania game modes hosted by the osu!PH community. This tournament aims to provide up and coming players a competitive environment where they have a chance to glory themselves. It is the 2nd installment of the osu!Philippines Holiday Friendlies.
+The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) was a semi-restricted, semi-open tournament series for the osu!, osu!taiko, osu!catch, and the osu!mania game modes hosted by the osu!PH community. This tournament aimed to provide up and coming players a competitive environment where they had a chance to glory themselves. It was the second instalment of the osu!Philippines Holiday Friendlies.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-10-04/2018-10-21 |
-| Qualifiers Week 1 | 2018-11-03/2018-11-04 |
-| Qualifiers Week 2 | 2018-11-10/2018-11-11 |
-| Match Week 1 | 2018-11-17/2018-11-18 |
-| Match Week 2 | 2018-11-24/2018-11-25 |
-| Match Week 3 | 2018-12-01/2018-12-02 |
-| Match Week 4 | 2018-12-08/2018-12-09 |
-| Match Week 5 | 2018-12-15/2018-12-16 |
+| Registration phase | 2018-10-04/2018-10-21 |
+| Qualifiers week 1 | 2018-11-03/2018-11-04 |
+| Qualifiers week 2 | 2018-11-10/2018-11-11 |
+| Match week 1 | 2018-11-17/2018-11-18 |
+| Match week 2 | 2018-11-24/2018-11-25 |
+| Match week 3 | 2018-12-01/2018-12-02 |
+| Match week 4 | 2018-12-08/2018-12-09 |
+| Match week 5 | 2018-12-15/2018-12-16 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge and 2 months of osu!supporter |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 2 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 
-![Standard Badge](img/badge_standard.png) ![Taiko Badge](img/badge_taiko.png) ![Catch Badge](img/badge_catch.png) ![4K Badge](img/badge_4K.png) ![7K Badge](img/badge_7K.png)
+![](img/badge_standard.png "oPHF2018 winner badge (osu!)") ![](img/badge_taiko.png "oPHF2018 winner badge (osu!taiko)") ![](img/badge_catch.png "oPHF2018 winner badge (osu!catch)") ![](img/badge_4K.png "oPHF2018 winner badge (osu!mania 4K)") ![](img/badge_7K.png "oPHF2018 winner badge (osu!mania 7K)")
 
 ## Organisation
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management and Organisation | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675) (osu!), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212) (osu!taiko), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103) (osu!catch), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) (osu!mania) |
-| Map Selector (osu!) | ![][flag_PH] [MioMilo](https://osu.ppy.sh/users/2199427), ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
-| Map Selector (osu!taiko) | ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212) |
-| Map Selector (osu!catch) | ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [Chloebe](https://osu.ppy.sh/users/4577865), ![][flag_PH] [JeirYagtama](https://osu.ppy.sh/users/7483452), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935) |
-| Map Selector (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767). ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
+| Management and organisation | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675) (osu!), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212) (osu!taiko), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103) (osu!catch), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) (osu!mania) |
+| Mappool selector (osu!) | ![][flag_PH] [MioMilo](https://osu.ppy.sh/users/2199427), ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
+| Mappool selector (osu!taiko) | ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212) |
+| Mappool selector (osu!catch) | ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [Chloebe](https://osu.ppy.sh/users/4577865), ![][flag_PH] [JeirYagtama](https://osu.ppy.sh/users/7483452), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935) |
+| Mappool selector (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767). ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
 | Referee | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [-MomoX](https://osu.ppy.sh/users/2150415), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [Nezol](https://osu.ppy.sh/users/7509103), ![][flag_PH] [Afireee](https://osu.ppy.sh/users/7919913), ![][flag_PH] [Hues](https://osu.ppy.sh/users/2367206), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Streamer | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810) |
 | Commentator | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Awishi](https://osu.ppy.sh/users/4290020), ![][flag_PH] [Toyohime-](https://osu.ppy.sh/users/9770359), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
@@ -63,158 +63,152 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
   - [osu!mania 4K](https://challonge.com/oPHF2018_4K)
   - [osu!mania 7K](https://challonge.com/oPHF2018_7K)
 
----
-
-## Qualified Participants
+## Participants
 
 ### osu!
 
 | Seed | Player |
 | :-- | :-- |
-| 1 | [ededed028](https://osu.ppy.sh/users/3932796) |
-| 2 | [zonelouise](https://osu.ppy.sh/users/1492995) |
-| 3 | [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
-| 4 | [Stereo](https://osu.ppy.sh/users/1499137) |
-| 5 | [Rammu](https://osu.ppy.sh/users/10652837) |
-| 6 | [Pikhael](https://osu.ppy.sh/users/9597208) |
-| 7 | [Fzechen](https://osu.ppy.sh/users/8248762) |
-| 8 | [Caernarvon725](https://osu.ppy.sh/users/8208317) |
-| 9 | [-Onoya An](https://osu.ppy.sh/users/2725984) |
-| 10 | [Nyahrumanyah](https://osu.ppy.sh/users/4645185) |
-| 11 | [Gilthunder](https://osu.ppy.sh/users/4514716) |
-| 12 | [Umuuu](https://osu.ppy.sh/users/10688529) |
-| 13 | [-PJ-](https://osu.ppy.sh/users/9347900) |
-| 14 | [IcedCha](https://osu.ppy.sh/users/11054021) |
-| 15 | [Akiraie](https://osu.ppy.sh/users/11766556) |
-| 16 | [Xidorn](https://osu.ppy.sh/users/7904667) |
-| 17 | [Aharu](https://osu.ppy.sh/users/5039816) |
-| 18 | [\[Vik\]](https://osu.ppy.sh/users/5428448) |
-| 19 | [Dunn](https://osu.ppy.sh/users/7241691) |
-| 20 | [- CrossX -](https://osu.ppy.sh/users/5375302) |
-| 21 | [ArtillerySenpai](https://osu.ppy.sh/users/8329656) |
-| 22 | [Zythics](https://osu.ppy.sh/users/6604492) |
-| 23 | [JasonEspiritu](https://osu.ppy.sh/users/8387179) |
-| 24 | [Liquicidize](https://osu.ppy.sh/users/7066405) |
-| 25 | [Aestheticbrick](https://osu.ppy.sh/users/8249051) |
-| 26 | [KasperBK](https://osu.ppy.sh/users/8223881) |
-| 27 | [Nomis126](https://osu.ppy.sh/users/10852654) |
-| 28 | [Nyanntai](https://osu.ppy.sh/users/6449091) |
-| 29 | [IsseiKun](https://osu.ppy.sh/users/10597843) |
-| 30 | [Tornikel](https://osu.ppy.sh/users/10940000) |
-| 31 | [Aoi_Shimoto](https://osu.ppy.sh/users/9809833) |
-| 32 | [Karma Jun](https://osu.ppy.sh/users/6796612) |
+| 1 | ![][flag_PH] [ededed028](https://osu.ppy.sh/users/3932796) |
+| 2 | ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) |
+| 3 | ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
+| 4 | ![][flag_PH] [Stereo](https://osu.ppy.sh/users/1499137) |
+| 5 | ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837) |
+| 6 | ![][flag_PH] [Pikhael](https://osu.ppy.sh/users/9597208) |
+| 7 | ![][flag_PH] [Fzechen](https://osu.ppy.sh/users/8248762) |
+| 8 | ![][flag_PH] [Caernarvon725](https://osu.ppy.sh/users/8208317) |
+| 9 | ![][flag_PH] [-Onoya An](https://osu.ppy.sh/users/2725984) |
+| 10 | ![][flag_PH] [Nyahrumanyah](https://osu.ppy.sh/users/4645185) |
+| 11 | ![][flag_PH] [Gilthunder](https://osu.ppy.sh/users/4514716) |
+| 12 | ![][flag_PH] [Umuuu](https://osu.ppy.sh/users/10688529) |
+| 13 | ![][flag_PH] [-PJ-](https://osu.ppy.sh/users/9347900) |
+| 14 | ![][flag_PH] [IcedCha](https://osu.ppy.sh/users/11054021) |
+| 15 | ![][flag_PH] [Akiraie](https://osu.ppy.sh/users/11766556) |
+| 16 | ![][flag_PH] [Xidorn](https://osu.ppy.sh/users/7904667) |
+| 17 | ![][flag_PH] [Aharu](https://osu.ppy.sh/users/5039816) |
+| 18 | ![][flag_PH] [\[Vik\]](https://osu.ppy.sh/users/5428448) |
+| 19 | ![][flag_PH] [Dunn](https://osu.ppy.sh/users/7241691) |
+| 20 | ![][flag_PH] [- CrossX -](https://osu.ppy.sh/users/5375302) |
+| 21 | ![][flag_PH] [ArtillerySenpai](https://osu.ppy.sh/users/8329656) |
+| 22 | ![][flag_PH] [Zythics](https://osu.ppy.sh/users/6604492) |
+| 23 | ![][flag_PH] [JasonEspiritu](https://osu.ppy.sh/users/8387179) |
+| 24 | ![][flag_PH] [Liquicidize](https://osu.ppy.sh/users/7066405) |
+| 25 | ![][flag_PH] [Aestheticbrick](https://osu.ppy.sh/users/8249051) |
+| 26 | ![][flag_PH] [KasperBK](https://osu.ppy.sh/users/8223881) |
+| 27 | ![][flag_PH] [Nomis126](https://osu.ppy.sh/users/10852654) |
+| 28 | ![][flag_PH] [Nyanntai](https://osu.ppy.sh/users/6449091) |
+| 29 | ![][flag_PH] [IsseiKun](https://osu.ppy.sh/users/10597843) |
+| 30 | ![][flag_PH] [Tornikel](https://osu.ppy.sh/users/10940000) |
+| 31 | ![][flag_PH] [Aoi_Shimoto](https://osu.ppy.sh/users/9809833) |
+| 32 | ![][flag_PH] [Karma Jun](https://osu.ppy.sh/users/6796612) |
 
 ### osu!taiko
 
 | Seed | Player |
 | :-- | :-- |
-| 1 | [Pochacco](https://osu.ppy.sh/users/2927742) |
-| 2 | [Rimazii](https://osu.ppy.sh/users/3831514) |
-| 3 | [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) |
-| 4 | [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
-| 5 | [\[\_\_\_\_\_\_\]](https://osu.ppy.sh/users/4764062) |
-| 6 | [Keishii](https://osu.ppy.sh/users/8381177) |
+| 1 | ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) |
+| 2 | ![][flag_PH] [Rimazii](https://osu.ppy.sh/users/3831514) |
+| 3 | ![][flag_PH] [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) |
+| 4 | ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
+| 5 | ![][flag_JP] [\[\_\_\_\_\_\_\]](https://osu.ppy.sh/users/4764062) |
+| 6 | ![][flag_PH] [Keishii](https://osu.ppy.sh/users/8381177) |
 
 ### osu!catch
 
 | Seed | Player |
 | :-- | :-- |
-| 1 | [Crowley](https://osu.ppy.sh/users/6341006) |
-| 2 | [KaganimeRin](https://osu.ppy.sh/users/1626093) |
-| 3 | [Aishiii](https://osu.ppy.sh/users/4382259) |
-| 4 | [AJamez](https://osu.ppy.sh/users/7890134) |
-| 5 | [Kuya Frex](https://osu.ppy.sh/users/8868701) |
-| 6 | [Laqure](https://osu.ppy.sh/users/1642435) |
-| 7 | [Lobsterr](https://osu.ppy.sh/users/6575915) |
-| 8 | [Loreal](https://osu.ppy.sh/users/9362231) |
-| 9 | [- Kielzu -](https://osu.ppy.sh/users/6221114) |
-| 10 | [AJ1703](https://osu.ppy.sh/users/10509387) |
-| 11 | [johnneijzen1](https://osu.ppy.sh/users/2627194) |
-| 12 | [Keishii](https://osu.ppy.sh/users/8381177) |
+| 1 | ![][flag_PH] [Crowley](https://osu.ppy.sh/users/6341006) |
+| 2 | ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093) |
+| 3 | ![][flag_PH] [Aishiii](https://osu.ppy.sh/users/4382259) |
+| 4 | ![][flag_PH] [AJamez](https://osu.ppy.sh/users/7890134) |
+| 5 | ![][flag_PH] [Kuya Frex](https://osu.ppy.sh/users/8868701) |
+| 6 | ![][flag_PH] [Laqure](https://osu.ppy.sh/users/1642435) |
+| 7 | ![][flag_PH] [Lobsterr](https://osu.ppy.sh/users/6575915) |
+| 8 | ![][flag_PH] [Loreal](https://osu.ppy.sh/users/9362231) |
+| 9 | ![][flag_PH] [- Kielzu -](https://osu.ppy.sh/users/6221114) |
+| 10 | ![][flag_PH] [AJ1703](https://osu.ppy.sh/users/10509387) |
+| 11 | ![][flag_PH] [johnneijzen1](https://osu.ppy.sh/users/2627194) |
+| 12 | ![][flag_PH] [Keishii](https://osu.ppy.sh/users/8381177) |
 
 ### osu!mania 4K
 
 | Seed | Player |
 | :-- | :-- |
-| 1 | [arge-](https://osu.ppy.sh/users/9919550) |
-| 2 | [Baltz](https://osu.ppy.sh/users/6083463) |
-| 3 | [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
-| 4 | [Ikisouu](https://osu.ppy.sh/users/12020287) |
-| 5 | [Shiyui-](https://osu.ppy.sh/users/9374607) |
-| 6 | [kei101895](https://osu.ppy.sh/users/3032245) |
-| 7 | [Batujitsu](https://osu.ppy.sh/users/6402552) |
-| 8 | [Edison](https://osu.ppy.sh/users/1325159) |
-| 9 | [Andrei--](https://osu.ppy.sh/users/7222840) |
-| 10 | [Inoariusu](https://osu.ppy.sh/users/8586656) |
-| 11 | [vincent4399](https://osu.ppy.sh/users/9764388) |
-| 12 | [Suravur](https://osu.ppy.sh/users/10160304) |
-| 13 | [Izayoi-san-](https://osu.ppy.sh/users/11871956) |
-| 14 | [LohaWarpe](https://osu.ppy.sh/users/8560810) |
-| 15 | [hikaruXD19](https://osu.ppy.sh/users/5417259) |
-| 16 | [Partycarft30](https://osu.ppy.sh/users/8046460) |
+| 1 | ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550) |
+| 2 | ![][flag_PH] [Baltz](https://osu.ppy.sh/users/6083463) |
+| 3 | ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
+| 4 | ![][flag_PH] [Ikisouu](https://osu.ppy.sh/users/12020287) |
+| 5 | ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607) |
+| 6 | ![][flag_PH] [kei101895](https://osu.ppy.sh/users/3032245) |
+| 7 | ![][flag_PH] [Batujitsu](https://osu.ppy.sh/users/6402552) |
+| 8 | ![][flag_PH] [Edison](https://osu.ppy.sh/users/1325159) |
+| 9 | ![][flag_PH] [Andrei--](https://osu.ppy.sh/users/7222840) |
+| 10 | ![][flag_PH] [Inoariusu](https://osu.ppy.sh/users/8586656) |
+| 11 | ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388) |
+| 12 | ![][flag_AE] [Suravur](https://osu.ppy.sh/users/10160304) |
+| 13 | ![][flag___] [Izayoi-san-](https://osu.ppy.sh/users/11871956) |
+| 14 | ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810) |
+| 15 | ![][flag_PH] [hikaruXD19](https://osu.ppy.sh/users/5417259) |
+| 16 | ![][flag_PH] [Partycarft30](https://osu.ppy.sh/users/8046460) |
 
 ### osu!mania 7K
 
 | Seed | Player |
 | :-- | :-- |
-| 1 | [Nikana](https://osu.ppy.sh/users/4345491) |
-| 2 | [Cielo Day](https://osu.ppy.sh/users/2722489) |
-| 3 | [FeveredNickel](https://osu.ppy.sh/users/7331952) |
-| 4 | [fer789](https://osu.ppy.sh/users/8901267) |
-| 5 | [Andrei--](https://osu.ppy.sh/users/7222840) |
-| 6 | [LohaWarpe](https://osu.ppy.sh/users/8560810) |
-| 7 | [LackPoints](https://osu.ppy.sh/users/8748664) |
-| 8 | [kei101895](https://osu.ppy.sh/users/3032245) |
-| 9 | [Keishii](https://osu.ppy.sh/users/8381177) |
-| 10 | [Shawntell](https://osu.ppy.sh/users/7384938) |
+| 1 | ![][flag_PH] [Nikana](https://osu.ppy.sh/users/4345491) |
+| 2 | ![][flag_PH] [Cielo Day](https://osu.ppy.sh/users/2722489) |
+| 3 | ![][flag_PH] [FeveredNickel](https://osu.ppy.sh/users/7331952) |
+| 4 | ![][flag_PH] [fer789](https://osu.ppy.sh/users/8901267) |
+| 5 | ![][flag_PH] [Andrei--](https://osu.ppy.sh/users/7222840) |
+| 6 | ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810) |
+| 7 | ![][flag_PH] [LackPoints](https://osu.ppy.sh/users/8748664) |
+| 8 | ![][flag_PH] [kei101895](https://osu.ppy.sh/users/3032245) |
+| 9 | ![][flag_PH] [Keishii](https://osu.ppy.sh/users/8381177) |
+| 10 | ![][flag_PH] [Shawntell](https://osu.ppy.sh/users/7384938) |
 
----
+## Podium
 
-## Tournament Winners
+This competition has come to an end and resulted in the following podium:
 
-The following players are the people who managed to pull through the whole competition
-
-### osu! Division
+### osu! division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | [Stereo](https://osu.ppy.sh/users/1499137) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [ededed028](https://osu.ppy.sh/users/3932796), [zonelouise](https://osu.ppy.sh/users/1492995) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [Stereo](https://osu.ppy.sh/users/1499137) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [ededed028](https://osu.ppy.sh/users/3932796), ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) |
 
-### osu!taiko Division
-
-| Placing | User |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | [Pochacco](https://osu.ppy.sh/users/2927742) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [Rimazii](https://osu.ppy.sh/users/3831514) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) |
-
-### osu!catch Division
+### osu!taiko division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | [- Kielzu -](https://osu.ppy.sh/users/6221114) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [KaganimeRin](https://osu.ppy.sh/users/1626093) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Crowley](https://osu.ppy.sh/users/6341006) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [Rimazii](https://osu.ppy.sh/users/3831514) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) |
 
-### osu!mania 4K Division
-
-| Placing | User |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | [arge-](https://osu.ppy.sh/users/9919550) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [Baltz](https://osu.ppy.sh/users/6083463) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Shiyui-](https://osu.ppy.sh/users/9374607) |
-
-### osu!mania 7K Division
+### osu!catch division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | [Nikana](https://osu.ppy.sh/users/4345491) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [fer789](https://osu.ppy.sh/users/8901267) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Cielo Day](https://osu.ppy.sh/users/2722489) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [- Kielzu -](https://osu.ppy.sh/users/6221114) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [Crowley](https://osu.ppy.sh/users/6341006) |
 
----
+### osu!mania 4K division
+
+| Placing | User |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [Baltz](https://osu.ppy.sh/users/6083463) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607) |
+
+### osu!mania 7K division
+
+| Placing | User |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [Nikana](https://osu.ppy.sh/users/4345491) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [fer789](https://osu.ppy.sh/users/8901267) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [Cielo Day](https://osu.ppy.sh/users/2722489) |
 
 ## Mappools
 
@@ -222,7 +216,7 @@ The following players are the people who managed to pull through the whole compe
 
 #### Finals
 
-[**Download the mappack here! (120.8 MB)**](https://drive.google.com/open?id=1vI1HdWM6Gl7GNlhARbtC5ALaBHMD0Lu6)
+**[Download the mappack here! (121 MB)](https://drive.google.com/open?id=1vI1HdWM6Gl7GNlhARbtC5ALaBHMD0Lu6)**
 
 - NoMod
   - [MAZARE - Mazare Party (IntellectualBoy) \[Walao's Party\]](https://osu.ppy.sh/beatmapsets/667868)
@@ -245,11 +239,11 @@ The following players are the people who managed to pull through the whole compe
   - [Demetori - U.N. Owen wa Kanojo nanoka? (Louis Cyphre) \[Unknown\]](https://osu.ppy.sh/beatmapsets/42247)
   - [beatMARIO - Night of Knights (DJPop) \[SOLO\]](https://osu.ppy.sh/beatmapsets/15920)
 - Tiebreaker
-  - [**Nanahira - Bassdrop Freaks (Long Ver.) (yf\_bmp) \[BASSDROP!!\]**](https://osu.ppy.sh/beatmapsets/463479)
+  - **[Nanahira - Bassdrop Freaks (Long Ver.) (yf\_bmp) \[BASSDROP!!\]](https://osu.ppy.sh/beatmapsets/463479)**
 
 #### Semifinals
 
-[**Download the mappack here! (91.1 MB)**](https://drive.google.com/open?id=1otv9whXNMNBbw5sCOT1zyom8etsp58Ox)
+**[Download the mappack here! (91 MB)](https://drive.google.com/open?id=1otv9whXNMNBbw5sCOT1zyom8etsp58Ox)**
 
 - NoMod
   - [Shikata Akiko - EXEC\_PAJA/.\#Misya extracting. (Mir) \[Purification\]](https://osu.ppy.sh/beatmapsets/690321)
@@ -272,11 +266,11 @@ The following players are the people who managed to pull through the whole compe
   - [nmk - sola (sjoy) \[Imouto's Extra\]](https://osu.ppy.sh/beatmapsets/183267)
   - [ALI PROJECT - ALICE Douzai Innocent (-Light-) \[Innocence\]](https://osu.ppy.sh/beatmapsets/648368)
 - Tiebreaker
-  - [**DJ Noriken - #The\_Relentless\_(Modified) (captin1) \[Unstoppable\]**](https://osu.ppy.sh/beatmapsets/331821)
+  - **[DJ Noriken - #The\_Relentless\_(Modified) (captin1) \[Unstoppable\]](https://osu.ppy.sh/beatmapsets/331821)**
 
 #### Quarterfinals
 
-[**Download the mappack here! (97.1 MB)**](https://drive.google.com/open?id=1bwlllSAmVHeW3ckTRnTaKn01d8kvTPrO)
+**[Download the mappack here! (97 MB)](https://drive.google.com/open?id=1bwlllSAmVHeW3ckTRnTaKn01d8kvTPrO)**
 
 - NoMod
   - [CLIFF EDGE - The Distance feat. Nakamura Maiko (Rakuen) \[Insane Collab\]](https://osu.ppy.sh/beatmapsets/241589)
@@ -299,11 +293,11 @@ The following players are the people who managed to pull through the whole compe
   - [Big Giant Circles feat. some1namedjeff - Thunderstruck (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/73267)
   - [Delain - Go Away (pishifat) \[Insane\]](https://osu.ppy.sh/beatmapsets/475676)
 - Tiebreaker
-  - [**kors k feat.RIRE - Nirvana(Camellia's BinaryHeaven Remix) (Down) \[Unbroken\]**](https://osu.ppy.sh/beatmapsets/700173)
+  - **[kors k feat.RIRE - Nirvana(Camellia's BinaryHeaven Remix) (Down) \[Unbroken\]](https://osu.ppy.sh/beatmapsets/700173)**
 
 #### Round of 16
 
-[**Download the mappack here! (131.3 MB)**](https://drive.google.com/open?id=1V5_ajukhhvRANY1wQh7HdShJxYJnPbTb)
+**[Download the mappack here! (131 MB)](https://drive.google.com/open?id=1V5_ajukhhvRANY1wQh7HdShJxYJnPbTb)**
 
 - NoMod
   - [Nekomata Master feat. Hayashi Momoko - Rainbow after snow (Yohanes) \[Indo-Russia Bilateral\]](https://osu.ppy.sh/beatmapsets/849946)
@@ -326,11 +320,11 @@ The following players are the people who managed to pull through the whole compe
   - [Kanou Mari - Hakuchou no Mizuumi \~still a duckling\~ (banvi) \[Insane\]](https://osu.ppy.sh/beatmapsets/28893)
   - [Tatsh - HEAVENLY MOON (Jenny) \[Hyper v2\]](https://osu.ppy.sh/beatmapsets/336539)
 - Tiebreaker
-  - [**Hatsuki Yura - Drivi'n greedy - Nhato Remix - (Kamio Misuzu) \[Moon\]**](https://osu.ppy.sh/beatmapsets/228955)
+  - **[Hatsuki Yura - Drivi'n greedy - Nhato Remix - (Kamio Misuzu) \[Moon\]](https://osu.ppy.sh/beatmapsets/228955)**
 
 #### Round of 32
 
-[**Download the mappack here! (92.9 MB)**](https://drive.google.com/open?id=1NM21bzcwRJkT1GYg7H9oHEDnwqxGpCSl)
+**[Download the mappack here! (93 MB)](https://drive.google.com/open?id=1NM21bzcwRJkT1GYg7H9oHEDnwqxGpCSl)**
 
 - NoMod
   - [Function Phantom - Euclid (byfar) \[toybot's Insane\]](https://osu.ppy.sh/beatmapsets/419614)
@@ -353,11 +347,11 @@ The following players are the people who managed to pull through the whole compe
   - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (deetz) \[Kaifin's Insane\]](https://osu.ppy.sh/beatmapsets/442510)
   - [sakuzyo - Imprinting (Squigly) \[lfj's Insane\]](https://osu.ppy.sh/beatmapsets/264299)
 - Tiebreaker
-  - [**Rita - Dream Walker (Vert) \[Zweib's Insane\]**](https://osu.ppy.sh/beatmapsets/353237)
+  - **[Rita - Dream Walker (Vert) \[Zweib's Insane\]](https://osu.ppy.sh/beatmapsets/353237)**
 
 #### Qualifiers
 
-[**Download the mappack here! (35.7 MB)**](https://drive.google.com/open?id=1J318VAbDMZwGm_0GWy0Eygny1OMWvTH1)
+**[Download the mappack here! (36 MB)](https://drive.google.com/open?id=1J318VAbDMZwGm_0GWy0Eygny1OMWvTH1)**
 
 - NoMod
   - [Culprate & Skorpion - Jester (NeilPerry) \[LCFC's Insane\]](https://osu.ppy.sh/beatmapsets/848259)
@@ -371,9 +365,9 @@ The following players are the people who managed to pull through the whole compe
 
 ### osu!taiko
 
-#### Finals Week 2
+#### Finals week 2
 
-[**Download the mappack here! (101.4 MB)**](https://drive.google.com/open?id=1N2v4hJu8FWC2QYQiB6xn1rv_axhTAAvr)
+**[Download the mappack here! (101 MB)](https://drive.google.com/open?id=1N2v4hJu8FWC2QYQiB6xn1rv_axhTAAvr)**
 
 - NoMod
   - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/100049)
@@ -396,11 +390,11 @@ The following players are the people who managed to pull through the whole compe
   - [t+pazolite - Intro - the other Side (Taikocracy) \[Oni\]](https://osu.ppy.sh/beatmapsets/572323)
   - [you - Hold Angel (Nishizumi) \[Oni\]](https://osu.ppy.sh/beatmapsets/381103)
 - Tiebreaker
-  - [**xi - FREEDOM DIVE (Nakagawa-Kanon) \[Ono's Taiko Oni\]**](https://osu.ppy.sh/beatmapsets/39804)
+  - **[xi - FREEDOM DIVE (Nakagawa-Kanon) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/39804)**
 
-#### Finals Week 1
+#### Finals week 1
 
-[**Download the mappack here! (89.3 MB)**](https://drive.google.com/open?id=1wguHouQylFoJeRuwnn7tJ9IecuheGK6z)
+**[Download the mappack here! (89 MB)](https://drive.google.com/open?id=1wguHouQylFoJeRuwnn7tJ9IecuheGK6z)**
 
 - NoMod
   - [wowaka - World's End Dancehall (ROCKETMAN Remix) (Mira-san) \[Stefan's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/88911)
@@ -423,11 +417,11 @@ The following players are the people who managed to pull through the whole compe
   - [P\*Light - Gekkou Ranbu (Nanatsu) \[Oni\]](https://osu.ppy.sh/beatmapsets/406934)
   - [xi - Wish upon Twin Stars (Ascendance) \[Kazu's Oni\]](https://osu.ppy.sh/beatmapsets/353259)
 - Tiebreaker
-  - [**marina - Towa yori Towa ni (Nardoxyribonucleic) \[m1ng's Oni\]**](https://osu.ppy.sh/beatmapsets/552695)
+  - **[marina - Towa yori Towa ni (Nardoxyribonucleic) \[m1ng's Oni\]](https://osu.ppy.sh/beatmapsets/552695)**
 
 #### Round 2
 
-[**Download the mappack here! (77.1 MB)**](https://drive.google.com/open?id=130Wn7qKmlpPhVPbAcO0MQ76q5qPx1YYT)
+**[Download the mappack here! (77 MB)](https://drive.google.com/open?id=130Wn7qKmlpPhVPbAcO0MQ76q5qPx1YYT)**
 
 - NoMod
   - [TAG underground - POSSESSION (Apricot) \[Taiko\]](https://osu.ppy.sh/beatmapsets/48675)
@@ -450,11 +444,11 @@ The following players are the people who managed to pull through the whole compe
   - [Niko - Night of Fire (Gabi) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/18923)
   - [Memme - Chinese Restaurant (Love) \[Oni\]](https://osu.ppy.sh/beatmapsets/243893)
 - Tiebreaker
-  - [**Fatal Force & Crusher P - Wildfire (Kin) \[PyrOni\]**](https://osu.ppy.sh/beatmapsets/348660)
+  - **[Fatal Force & Crusher P - Wildfire (Kin) \[PyrOni\]](https://osu.ppy.sh/beatmapsets/348660)**
 
 #### Round 1
 
-[**Download the mappack here! (70.6 MB)**](https://drive.google.com/open?id=1-fuc_xa9UchSMksyppyMGrv6SmaxBlxR)
+**[Download the mappack here! (71 MB)](https://drive.google.com/open?id=1-fuc_xa9UchSMksyppyMGrv6SmaxBlxR)**
 
 - NoMod
   - [DJ YOSHITAKA - FLOWER (Lost The Lights) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/339001)
@@ -477,13 +471,13 @@ The following players are the people who managed to pull through the whole compe
   - [KurousaP - Senbonzakura (Firce777) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/79531)
   - [Yunomi with Momobako&miko - Soumatou Labyrinth (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/625493)
 - Tiebreaker
-  - [**Felt - Day after (Senritsu) \[Oni\]**](https://osu.ppy.sh/beatmapsets/323180)
+  - **[Felt - Day after (Senritsu) \[Oni\]](https://osu.ppy.sh/beatmapsets/323180)**
 
 ### osu!catch
 
-#### Finals Week 2
+#### Finals week 2
 
-[**Download the mappack here! (121.8 MB)**](https://drive.google.com/open?id=1S3oazDqe6yaoKzcHy4ALGl9s2spC5-mr)
+**[Download the mappack here! (122 MB)](https://drive.google.com/open?id=1S3oazDqe6yaoKzcHy4ALGl9s2spC5-mr)**
 
 - NoMod
   - [BlackY vs. Yooh - HAVOX (Callionet) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/474649)
@@ -505,11 +499,11 @@ The following players are the people who managed to pull through the whole compe
   - [Mami Kawada - Wings of Courage -Sora o Koete- (examination) \[Rain\]](https://osu.ppy.sh/beatmapsets/245160)
   - [School Food Punishment - in bloom (Irie Miyuki) \[Insane\]](https://osu.ppy.sh/beatmapsets/228270)
 - Tiebreaker
-  - [**Nekomata Master remixed by Camellia - chrono diver -fragment- (Camellia's "crossroads of chrono" remix) (-Plus-) \[memory defragmentation\]**](https://osu.ppy.sh/beatmapsets/522991)
+  - **[Nekomata Master remixed by Camellia - chrono diver -fragment- (Camellia's "crossroads of chrono" remix) (-Plus-) \[memory defragmentation\]](https://osu.ppy.sh/beatmapsets/522991)**
 
-#### Finals Week 1
+#### Finals week 1
 
-[**Download the mappack here! (76.3 MB)**](https://drive.google.com/open?id=1NuGS3wATjWgxee1DzSYwLc4pqH_XwOfJ)
+**[Download the mappack here! (76 MB)](https://drive.google.com/open?id=1NuGS3wATjWgxee1DzSYwLc4pqH_XwOfJ)**
 
 - NoMod
   - [Nekomata Master - far east nightbird (Razor Sharp) \[Far east overdose\]](https://osu.ppy.sh/beatmapsets/715026)
@@ -531,11 +525,11 @@ The following players are the people who managed to pull through the whole compe
   - [M2U - Stellar (Spectator) \[Rain\]](https://osu.ppy.sh/beatmapsets/699509)
   - [supercell - My Dearest (TV Edit) (monstrata) \[Guilt\]](https://osu.ppy.sh/beatmapsets/370819)
 - Tiebreaker
-  - [**Camellia - Exit This Earth's Atomosphere (Yumeno Himiko) \[Vision\]**](https://osu.ppy.sh/beatmapsets/572820)
+  - **[Camellia - Exit This Earth's Atomosphere (Yumeno Himiko) \[Vision\]](https://osu.ppy.sh/beatmapsets/572820)**
 
 #### Round 3
 
-[**Download the mappack here! (84.4 MB)**](https://drive.google.com/open?id=1EZZPnPYI1F8I-vp_vYyGqsf9wu-m4c5K)
+**[Download the mappack here! (84 MB)](https://drive.google.com/open?id=1EZZPnPYI1F8I-vp_vYyGqsf9wu-m4c5K)**
 
 - NoMod
   - [Hyadain - Hyadain no Joujou Yuujou (Deif) \[Overdose\]](https://osu.ppy.sh/beatmapsets/215902)
@@ -557,11 +551,11 @@ The following players are the people who managed to pull through the whole compe
   - [ARM (IOSYS) - Koisuru\*Uchuu Sensou!! Abababa Mix (Frobe) \[Frobe's Platter\]](https://osu.ppy.sh/beatmapsets/145032)
   - [Neru - Lost One no Goukoku (goodbye) \[Kotone\]](https://osu.ppy.sh/beatmapsets/83547)
 - Tiebreaker
-  - [**AAAA - Bokutachi no Tabi to Epilouge (Ascendance) \[Epilogue\]**](https://osu.ppy.sh/beatmapsets/648071)
+  - **[AAAA - Bokutachi no Tabi to Epilouge (Ascendance) \[Epilogue\]](https://osu.ppy.sh/beatmapsets/648071)**
 
 #### Round 2
 
-[**Download the mappack here! (99.9 MB)**](https://drive.google.com/open?id=1nfKYaCaCMDHOkcx45aD7Zbfq5Kuht0Y3)
+**[Download the mappack here! (100 MB)](https://drive.google.com/open?id=1nfKYaCaCMDHOkcx45aD7Zbfq5Kuht0Y3)**
 
 - NoMod
   - [\*namirin - closing eyes (pishifat) \[Expert\]](https://osu.ppy.sh/beatmapsets/669437)
@@ -583,18 +577,18 @@ The following players are the people who managed to pull through the whole compe
   - [Sayaka Sasaki - Zzz (Minato Yukina) \[Crystal's Platter\]](https://osu.ppy.sh/beatmapsets/184710)
   - [Eri Sasaki - Ring of Fortune (Cherry Blossom) \[Memories\]](https://osu.ppy.sh/beatmapsets/347875)
 - Tiebreaker
-  - [**Taishi feat. Aoki Lapis - A Sugar Business (examination) \[Rain\]**](https://osu.ppy.sh/beatmapsets/455666)
+  - **[Taishi feat. Aoki Lapis - A Sugar Business (examination) \[Rain\]](https://osu.ppy.sh/beatmapsets/455666)**
 
 #### Round 1
 
-[**Download the mappack here! (71.3 MB)**](https://drive.google.com/open?id=1cAF4v5ol0xxoRzEWMZPOi07HpBgGoreD)
+**[Download the mappack here! (71 MB)](https://drive.google.com/open?id=1cAF4v5ol0xxoRzEWMZPOi07HpBgGoreD)**
 
 - NoMod
   - [ChouCho - Yasashisa no Riyuu (Celerih) \[Rain\]](https://osu.ppy.sh/beatmapsets/685391)
   - [Murasaki Hotaru - Re:TrymenT (AJamez) \[Rain\]](https://osu.ppy.sh/beatmapsets/794111)
   - [JUN. K - love letter remix (Ollapeu) \[Rain\]](https://osu.ppy.sh/beatmapsets/616862)
   - [Camellia - Fatest Crash (sukiNathan) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/331025)
-  - [nameless - Milk Crown on Sonnetica (Milan-) \[Insane\]](https://osu.ppy.sh/beatmapsets/550414)
+  - [nameless - Milk crown on Sonnetica (Milan-) \[Insane\]](https://osu.ppy.sh/beatmapsets/550414)
   - [MomoKuro-tei Ichimon - Nippon Egao Hyakkei (TV Size) (Cxu) \[Egao\]](https://osu.ppy.sh/beatmapsets/74301)
 - Hidden
   - [Warak - Christmas Memories (Spectator) \[Memory\]](https://osu.ppy.sh/beatmapsets/242143)
@@ -609,11 +603,11 @@ The following players are the people who managed to pull through the whole compe
   - [IOSYS - Marisa Tanked My Score With an Incredible Hand (ouranhshc) \[Insane\]](https://osu.ppy.sh/beatmapsets/23987)
   - [Linkin Park, Steve Aoki - A Light That Never Comes (pw384) \[HOS' Hard\]](https://osu.ppy.sh/beatmapsets/566773)
 - Tiebreaker
-  - [**Minase Mashiro - runaway (Halozy Mix) (JBHyperion) \[Hyperion's Lunatic\]**](https://osu.ppy.sh/beatmapsets/785837)
+  - **[Minase Mashiro - runaway (Halozy Mix) (JBHyperion) \[Hyperion's Lunatic\]](https://osu.ppy.sh/beatmapsets/785837)**
 
 #### Qualifiers
 
-[**Download the mappack here! (23.2 MB)**](https://drive.google.com/open?id=1baJYf1td7P7OInF8EXzl70yrAmDqOgTI)
+**[Download the mappack here! (23 MB)](https://drive.google.com/open?id=1baJYf1td7P7OInF8EXzl70yrAmDqOgTI)**
 
 - NoMod
   - [Y&Co. - Sweet Rain feat. Karin (alienflybot) \[Craving\]](https://osu.ppy.sh/beatmapsets/602697)
@@ -627,9 +621,9 @@ The following players are the people who managed to pull through the whole compe
 
 ### osu!mania 4K
 
-#### Finals Week 2
+#### Finals week 2
 
-[**Download the mappack here! (99.0 MB)**](https://drive.google.com/open?id=1khq39Z_Nr9rmklsCJ4LY5CtUpqYmKiuL)
+**[Download the mappack here! (99 MB)](https://drive.google.com/open?id=1khq39Z_Nr9rmklsCJ4LY5CtUpqYmKiuL)**
 
 - FreeMod
   - [DJ Sharpnel - Future Dominators (- Bad Apple -) \[Dead End\]](https://osu.ppy.sh/beatmapsets/629384)
@@ -648,11 +642,11 @@ The following players are the people who managed to pull through the whole compe
   - [Rephaim - Lament Configuration (LovelySerenade) \[ex.press(ion)\]](https://osu.ppy.sh/beatmapsets/716424)
   - [SHIKI - Angelic Layer (FelipeLink) \[SHD\]](https://osu.ppy.sh/beatmapsets/605002)
 - Tiebreaker
-  - [**orangentle - HAELEQUIN -the faith of truth- (\_underjoy) \[Shattered Personality\]**](https://osu.ppy.sh/beatmapsets/715933)
+  - **[orangentle - HAELEQUIN -the faith of truth- (\_underjoy) \[Shattered Personality\]](https://osu.ppy.sh/beatmapsets/715933)**
 
-#### Finals Week 1
+#### Finals week 1
 
-[**Download the mappack here! (95.0 MB)**](https://drive.google.com/open?id=1YlKCS62i527vhPOwZHsxrlaedm9AAJkC)
+**[Download the mappack here! (95 MB)](https://drive.google.com/open?id=1YlKCS62i527vhPOwZHsxrlaedm9AAJkC)**
 
 - FreeMod
   - [Asaka - Eternal Star (Raveille) \[Yakusoku No Eien\]](https://osu.ppy.sh/beatmapsets/841478)
@@ -671,11 +665,11 @@ The following players are the people who managed to pull through the whole compe
   - [II-L - SPUTNIK-3 (Vortex-) \[SV = false;\]](https://osu.ppy.sh/beatmapsets/849521)
   - [SHK - Log-in (AutotelicBrown) \[Ayumu's gimmick\]](https://osu.ppy.sh/beatmapsets/456581)
 - Tiebreaker
-  - [**Ruby My Dear - Dreaming Tree (Chrubble) \[Lucid\]**](https://osu.ppy.sh/beatmapsets/741398)
+  - **[Ruby My Dear - Dreaming Tree (Chrubble) \[Lucid\]](https://osu.ppy.sh/beatmapsets/741398)**
 
 #### Semifinals
 
-[**Download the mappack here! (85.4 MB)**](https://drive.google.com/open?id=1wBTETYOJqH5Ptje_vL8QCfSoLfdvvk7_)
+**[Download the mappack here! (85 MB)](https://drive.google.com/open?id=1wBTETYOJqH5Ptje_vL8QCfSoLfdvvk7_)**
 
 - FreeMod
   - [M2U - Mare Maris (Raveille) \[For The Brave\]](https://osu.ppy.sh/beatmapsets/786297)
@@ -692,11 +686,11 @@ The following players are the people who managed to pull through the whole compe
   - [LeaF - mopemope (snexe) \[Jigoku\]](https://osu.ppy.sh/beatmapsets/687245)
   - [Frums - Wavetapper (qqqant) \[Stage 1: Memory Factory\]](https://osu.ppy.sh/beatmapsets/1811863)
 - Tiebreaker
-  - [**False Noise - Skyshards (Abraxos) \[Odyssey through time\]**](https://osu.ppy.sh/beatmapsets/671122)
+  - **[False Noise - Skyshards (Abraxos) \[Odyssey through time\]](https://osu.ppy.sh/beatmapsets/671122)**
 
 #### Quarterfinals
 
-[**Download the mappack here! (73.0 MB)**](https://drive.google.com/open?id=17EbLVZTSSltEb5YXfFjL40jWNOCBPn1l)
+**[Download the mappack here! (73 MB)](https://drive.google.com/open?id=17EbLVZTSSltEb5YXfFjL40jWNOCBPn1l)**
 
 - FreeMod
   - [Kannamix - Pandora feat. NoneLikeJoshua + Roniit (Halogen-) \[Demise\]](https://osu.ppy.sh/beatmapsets/901155)
@@ -713,11 +707,11 @@ The following players are the people who managed to pull through the whole compe
   - [cYsmix - Breeze (Tidek) \[Hard\]](https://osu.ppy.sh/beatmapsets/639924)
   - [PSY - DADDY (feat. CL of 2NE1) short Ver. (ALEFY) \[4K MX (Dancing Hard SV)\]](https://osu.ppy.sh/beatmapsets/440378)
 - Tiebreaker
-  - [**IOSYS Feat. Takatsuki Sakura - Seiya no Special Shooting Star (TheToaphster) \[Wish\]**](https://osu.ppy.sh/beatmapsets/627429)
+  - **[IOSYS Feat. Takatsuki Sakura - Seiya no Special Shooting Star (TheToaphster) \[Wish\]](https://osu.ppy.sh/beatmapsets/627429)**
 
 #### Round of 16
 
-[**Download the mappack here! (57.4 MB)**](https://drive.google.com/open?id=1VqjJbqUJmnq4eS7vlHVQ0y36kMC77v5v)
+**[Download the mappack here! (57 MB)](https://drive.google.com/open?id=1VqjJbqUJmnq4eS7vlHVQ0y36kMC77v5v)**
 
 - FreeMod
   - [NISH - Space Time (\_underjoy) \[4K Hyper\]](https://osu.ppy.sh/beatmapsets/409326)
@@ -732,11 +726,11 @@ The following players are the people who managed to pull through the whole compe
   - [Hommarju - Warriors (short Ver.) (ALEFY) \[4K MX (Hard SV EDM Edition.)\]](https://osu.ppy.sh/beatmapsets/376832)
   - [Vospi - roboposition!! (arviejhay) \[4K HD\]](https://osu.ppy.sh/beatmapsets/164310)
 - Tiebreaker
-  - [**Camellia - crystallized (Oh pie) \[Citrine\]**](https://osu.ppy.sh/beatmapsets/431753)
+  - **[Camellia - crystallized (Oh pie) \[Citrine\]](https://osu.ppy.sh/beatmapsets/431753)**
 
 #### Qualifiers
 
-[**Download the mappack here! (12.7 MB)**](https://drive.google.com/open?id=1nUiNLqxaw1CO8N_wKHdqGdn8ewzm9QKM)
+**[Download the mappack here! (13 MB)](https://drive.google.com/open?id=1nUiNLqxaw1CO8N_wKHdqGdn8ewzm9QKM)**
 
 - FreeMod
   - [DKVPZ - Focus (Lenfried-) \[Blur\]](https://osu.ppy.sh/beatmapsets/869771)
@@ -746,9 +740,9 @@ The following players are the people who managed to pull through the whole compe
 
 ### osu!mania 7K
 
-#### Finals Week 2
+#### Finals week 2
 
-[**Download the mappack here! (84.9 MB)**](https://drive.google.com/open?id=1dTJq_cLFUFupR_PksJmOe8GO8rzKfID8)
+**[Download the mappack here! (85 MB)](https://drive.google.com/open?id=1dTJq_cLFUFupR_PksJmOe8GO8rzKfID8)**
 
 - FreeMod
   - [kors k - Ground Shake (Aqo) \[Aqother\]](https://osu.ppy.sh/beatmapsets/206614)
@@ -767,11 +761,11 @@ The following players are the people who managed to pull through the whole compe
   - [Alon Mor - Epollo (Couil) \[feel the beat\]](https://osu.ppy.sh/beatmapsets/658681)
   - [USAO - Boss Rush (Kim\_GodSSI) \[BOSS\]](https://osu.ppy.sh/beatmapsets/656816)
 - Tiebreaker
-  - [Halozy - Genryuu Kaiko (ShikiNoHollow) \[7K Z3nith\]](https://osu.ppy.sh/beatmapsets/305213)
+  - **[Halozy - Genryuu Kaiko (ShikiNoHollow) \[7K Z3nith\]](https://osu.ppy.sh/beatmapsets/305213)**
 
-#### Finals Week 1
+#### Finals week 1
 
-[**Download the mappack here! (114.5 MB)**](https://drive.google.com/open?id=1kJJlPbRyuX8WnS6rhW224jopZAsXrBPy)
+**[Download the mappack here! (115 MB)](https://drive.google.com/open?id=1kJJlPbRyuX8WnS6rhW224jopZAsXrBPy)**
 
 - FreeMod
   - [xi - Fiat Lux (Shinora-) \[Extra\]](https://osu.ppy.sh/beatmapsets/566955)
@@ -790,11 +784,11 @@ The following players are the people who managed to pull through the whole compe
   - [ETIA. - Claiomh Solais (Arzenvald) \[LumiNous\]](https://osu.ppy.sh/beatmapsets/689600)
   - [Gothpheus - Rosen Vampir (Alumetorz) \[Pew's World\]](https://osu.ppy.sh/beatmapsets/87734)
 - Tiebreaker
-  - [**aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (ArcherLove) \[Caramel\]**](https://osu.ppy.sh/beatmapsets/488559)
+  - **[aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (ArcherLove) \[Caramel\]](https://osu.ppy.sh/beatmapsets/488559)**
 
 #### Round 3
 
-[**Download the mappack here! (78.6 MB)**](https://drive.google.com/open?id=1TEyK54w4J3PFOTixsE_L7cY-WXsQOeoC)
+**[Download the mappack here! (79 MB)](https://drive.google.com/open?id=1TEyK54w4J3PFOTixsE_L7cY-WXsQOeoC)**
 
 - FreeMod
   - [aaaa - Machi (Kim\_GodSSI) \[Piano\]](https://osu.ppy.sh/beatmapsets/675949)
@@ -811,17 +805,17 @@ The following players are the people who managed to pull through the whole compe
   - [void - Valedict (AILK) \[ALEFY's 7K Another\]](https://osu.ppy.sh/beatmapsets/214715)
   - [Camellia - EDM Jumpers (feat. Nanahira) (arvinkent098) \[LET ME DROP THE F\*CKIN' BASS!!!\]](https://osu.ppy.sh/beatmapsets/418135)
 - Tiebreaker
-  - [**SixteenInMono - Your Best Nightmare (SitekX) \[7K\]**](https://osu.ppy.sh/beatmapsets/416324)
+  - **[SixteenInMono - Your Best Nightmare (SitekX) \[7K\]](https://osu.ppy.sh/beatmapsets/416324)**
 
 #### Round 2
 
-[**Download the mappack here! (95.9 MB)**](https://drive.google.com/open?id=1oVLOvLWxkuumoDepBimA1qR8afNyNSnE)
+**[Download the mappack here! (96 MB)](https://drive.google.com/open?id=1oVLOvLWxkuumoDepBimA1qR8afNyNSnE)**
 
 - FreeMod
   - [Alan Walker - All Falls Down (feat. Noah Cyrus with Digital Farm Animals) (Nysrogh) \[7K Insane\]](https://osu.ppy.sh/beatmapsets/698707)
   - [\*namirin - Ciel etoile (SurfChu85) \[Starry Sky\]](https://osu.ppy.sh/beatmapsets/865266)
   - [Nekomimi Mahou Tsukai - LittlE HearTs (PROGUY) \[Hyper\]](https://osu.ppy.sh/beatmapsets/95992)
-  - [xi - Glorious Crown (Kuo Kyoka) \[richard's 7K Hyper\]](https://osu.ppy.sh/beatmapsets/474900)
+  - [xi - Glorious crown (Kuo Kyoka) \[richard's 7K Hyper\]](https://osu.ppy.sh/beatmapsets/474900)
   - [Avicii ft. Salem Al Fakir - You Make Me (NaxelCL) \[RC's 7K MX\]](https://osu.ppy.sh/beatmapsets/133438)
   - [Renka - if Hitori Omou (HexaG67) \[Hard\]](https://osu.ppy.sh/beatmapsets/592635)
   - [Nomizu Iori - \* \* \* Passionate (Remillion Cross) \[7K Hard Collab\]](https://osu.ppy.sh/beatmapsets/122162)
@@ -832,11 +826,11 @@ The following players are the people who managed to pull through the whole compe
   - [SHK - Halloween Party (-BlueFire-) \[7K Hard\]](https://osu.ppy.sh/beatmapsets/375293)
   - [Haruna Luna - Startear -TV size ver.- (NaxelCL) \[7K MX\]](https://osu.ppy.sh/beatmapsets/192513)
 - Tiebreaker
-  - [**Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (ChuChuez) \[Insane\]**](https://osu.ppy.sh/beatmapsets/361855)
+  - **[Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (ChuChuez) \[Insane\]](https://osu.ppy.sh/beatmapsets/361855)**
 
 #### Round 1
 
-[**Download the mappack here! (55.0 MB)**](https://drive.google.com/open?id=1ssqlFGFTVeh3pZ3ww7_E4qM1EGMZwXyX)
+**[Download the mappack here! (55 MB)](https://drive.google.com/open?id=1ssqlFGFTVeh3pZ3ww7_E4qM1EGMZwXyX)**
 
 - FreeMod
   - [cosMo@BousouP - For UltraPlayers (AncuL) \[NOVICE\]](https://osu.ppy.sh/beatmapsets/733048)
@@ -851,11 +845,11 @@ The following players are the people who managed to pull through the whole compe
   - [Avicii vs. Nicky Romero - I Could Be The One (Radio Edit) (LostGender) \[7K HD\]](https://osu.ppy.sh/beatmapsets/199059)
   - [Dan Salvato - Your Reality (SurfChu85) \[serendipity\]](https://osu.ppy.sh/beatmapsets/721188)
 - Tiebreaker
-  - [**Dimrain47 - Infernoplex (ExPew) \[HD\]**](https://osu.ppy.sh/beatmapsets/182951)
+  - **[Dimrain47 - Infernoplex (ExPew) \[HD\]](https://osu.ppy.sh/beatmapsets/182951)**
 
 #### Qualifiers
 
-[**Download the mappack here! (11.1 MB)**](https://drive.google.com/open?id=1jDLmUEL5J1A7fdSAH3dxBE6Ob2su_oWW)
+**[Download the mappack here! (11 MB)](https://drive.google.com/open?id=1jDLmUEL5J1A7fdSAH3dxBE6Ob2su_oWW)**
 
 - FreeMod
   - [Hyadain - Enemy Apperance! (MapleSyrup-) \[Anticipation!\]](https://osu.ppy.sh/beatmapsets/873376)
@@ -863,9 +857,7 @@ The following players are the people who managed to pull through the whole compe
   - [EX Industry - Memory (Cryolien) \[Fragments\]](https://osu.ppy.sh/beatmapsets/873423)
   - [OG Mako - yusa??o?"?yusa?seyoku$B%i!\&lt;%a%s(B" (Lenfried-) \[in memoriam\]](https://osu.ppy.sh/beatmapsets/873382)
 
----
-
-## Match Results
+## Match results
 
 ### osu!
 
@@ -873,29 +865,29 @@ The following players are the people who managed to pull through the whole compe
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQk5tpFYFoxFamLzjIhVZ8gz7REE42YYDblA_UimpKMuxHTsPvJjf8WYXPjntaUjGuVU8BWNxsEq0sv/pubhtml)
 
-| Seed | Player 1 |  |  | Player 2 | Seed |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 4 | **Stereo** | **7** | 5 | TyrantsEye2014 | 3 |  |
+| Seed | Player 1 |  |  | Player 2 | Seed |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| 4 | **Stereo** ![][flag_PH] | **7** | 5 | ![][flag_PH] TyrantsEye2014 | 3 |
 
 #### Semifinals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRz4KlpijwtlXCdCkqZQYMq6TEC_D5sw0TRbboLFjaJOkcYREp83HyG08LvBm_IthBZEXUlOtrRuX4a/pubhtml)
 
-| Seed | Player 1 |  |  | Player 2 | Seed |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | ededed028 | 2 | **7** | **Stereo** | 4 |  |
-| 2 | zonelouise | 4 | **7** | **TyrantsEye2014** | 3 |  |
+| Seed | Player 1 |  |  | Player 2 | Seed |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| 1 | ededed028 ![][flag_PH] | 2 | **7** | ![][flag_PH] **Stereo** | 4 |
+| 2 | zonelouise ![][flag_PH] | 4 | **7** | ![][flag_PH] **TyrantsEye2014** | 3 |
 
 #### Quarterfinals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRpeRHl4cWvdAZukgiiKnzb83JxRWDpaaVREavvNAH7X5s9UoGRf-scs-5COoktEcrTLZmIoLPKXrb/pubhtml)
 
-| Seed | Player 1 |  |  | Player 2 | Seed |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | **ededed028** | **6** | 0 | Caernarvon725 | 8 |  |
-| 4 | **Stereo** | **6** | 0 | ArtillerySenpai | 21 |  |
-| 2 | **zonelouise** | **6** | 2 | Fzechen | 7 |  |
-| 3 | **TyrantsEye2014** | **6** | 0 | Gilthunder | 11 |  |
+| Seed | Player 1 |  |  | Player 2 | Seed |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| 1 | **ededed028** ![][flag_PH] | **6** | 0 | ![][flag_PH] Caernarvon725 | 8 |
+| 4 | **Stereo** ![][flag_PH] | **6** | 0 | ![][flag_PH] ArtillerySenpai | 21 |
+| 2 | **zonelouise** ![][flag_PH] | **6** | 2 | ![][flag_PH] Fzechen | 7 |
+| 3 | **TyrantsEye2014** ![][flag_PH] | **6** | 0 | ![][flag_PH] Gilthunder | 11 |
 
 #### Round of 16
 
@@ -903,14 +895,14 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | **ededed028** | **6** | 1 | Xidorn | 16 |  |
-| 8 | **Caernarvon725** | **6** | 0 | -Onoya An | 9 | -win by default- |
-| 4 | **Stereo** | **6** | 0 | - CrossX - | 20 | -win by default- |
-| 28 | Nyanntai | 3 | **6** | **ArtillerySenpai** | 21 |  |
-| 2 | **zonelouise** | **6** | 0 | \[Vik\] | 18 | -win by default- |
-| 7 | **Fzechen** | **6** | 2 | JasonEspiritu | 23 |  |
-| 3 | **TyrantsEye2014** | **6** | 0 | IcedCha | 14 |  |
-| 6 | Pikhael | 4 | **6** | **Gilthunder** | 11 |  |
+| 1 | **ededed028** ![][flag_PH] | **6** | 1 | ![][flag_PH] Xidorn | 16 |  |
+| 8 | **Caernarvon725** ![][flag_PH] | **6** | 0 | ![][flag_PH] -Onoya An | 9 | *win by default* |
+| 4 | **Stereo** ![][flag_PH] | **6** | 0 | ![][flag_PH] - CrossX - | 20 | *win by default* |
+| 28 | Nyannta ![][flag_PH]i | 3 | **6** | ![][flag_PH] **ArtillerySenpai** | 21 |  |
+| 2 | **zonelouise** ![][flag_PH] | **6** | 0 | ![][flag_PH] \[Vik\] | 18 | *win by default* |
+| 7 | **Fzechen** ![][flag_PH] | **6** | 2 | ![][flag_PH] JasonEspiritu | 23 |  |
+| 3 | **TyrantsEye2014** ![][flag_PH] | **6** | 0 | ![][flag_PH] IcedCha | 14 |  |
+| 6 | Pikhael ![][flag_PH] | 4 | **6** | ![][flag_PH] **Gilthunder** | 11 |  |
 
 #### Round of 32
 
@@ -918,46 +910,46 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | **ededed028** | **5** | 0 | Karma Jun | 32 |  |
-| 16 | **Xidorn** | **5** | 1 | Aharu | 17 |  |
-| 8 | **Caernarvon725** | **5** | 0 | AestheticBrick | 25 |  |
-| 9 | **-Onoya An** | **5** | 3 | Liquicidize | 24 |  |
-| 4 | **Stereo** | **5** | 0 | IsseiKun | 29 |  |
-| 13 | -PJ- | 0 | **5** | **- CrossX -** | 20 | -win by default- |
-| 5 | Rammu | 0 | **5** | **Nyanntai** | 28 | -win by default- |
-| 12 | Umuuu | 0 | **5** | **ArtillerySenpai** | 21 |  |
-| 2 | **zonelouise** | **5** | 0 | Aoi_Shimoto | 31 |  |
-| 15 | Kaneko Akiraie | 2 | **5** | **\[Vik\]** | 18 |  |
-| 7 | **Fzechen** | **5** | 4 | KasperBK | 26 |  |
-| 10 | Nyahrumanyah | 3 | **5** | **JasonEspiritu** | 23 |  |
-| 3 | **TyrantsEye2014** | **5** | 0 | Tornikel | 30 |  |
-| 14 | **IcedCha** | **5** | 2 | Dunn | 19 |  |
-| 6 | **Pikhael** | **5** | 2 | Nomis126 | 27 |  |
-| 11 | **Gilthunder** | **5** | 0 | Zythics | 22 |  |
+| 1 | **ededed028** ![][flag_PH] | **5** | 0 | ![][flag_PH] Karma Jun | 32 |  |
+| 16 | **Xidorn** ![][flag_PH] | **5** | 1 | ![][flag_PH] Aharu | 17 |  |
+| 8 | **Caernarvon725** ![][flag_PH] | **5** | 0 | ![][flag_PH] AestheticBrick | 25 |  |
+| 9 | **-Onoya An** ![][flag_PH] | **5** | 3 | ![][flag_PH] Liquicidize | 24 |  |
+| 4 | **Stereo** ![][flag_PH] | **5** | 0 | ![][flag_PH] IsseiKun | 29 |  |
+| 13 | -PJ- ![][flag_PH] | 0 | **5** | ![][flag_PH] **- CrossX -** | 20 | *win by default* |
+| 5 | Rammu ![][flag_PH] | 0 | **5** | ![][flag_PH] **Nyanntai** | 28 | *win by default* |
+| 12 | Umuuu ![][flag_PH] | 0 | **5** | ![][flag_PH] **ArtillerySenpai** | 21 |  |
+| 2 | **zonelouise** ![][flag_PH] | **5** | 0 | ![][flag_PH] Aoi_Shimoto | 31 |  |
+| 15 | Kaneko Akiraie ![][flag_PH] | 2 | **5** | ![][flag_PH] **\[Vik\]** | 18 |  |
+| 7 | **Fzechen** ![][flag_PH] | **5** | 4 | ![][flag_PH] KasperBK | 26 |  |
+| 10 | Nyahrumanyah ![][flag_PH] | 3 | **5** | ![][flag_PH] **JasonEspiritu** | 23 |  |
+| 3 | **TyrantsEye2014** ![][flag_PH] | **5** | 0 | ![][flag_PH] Tornikel | 30 |  |
+| 14 | **IcedCha** ![][flag_PH] | **5** | 2 | ![][flag_PH] Dunn | 19 |  |
+| 6 | **Pikhael** ![][flag_PH] | **5** | 2 | ![][flag_PH] Nomis126 | 27 |  |
+| 11 | **Gilthunder** ![][flag_PH] | **5** | 0 | ![][flag_PH] Zythics | 22 |  |
 
 #### Qualifiers
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/1BzjHX5LnGZmYiwUdYCm21ifzKdaQrxqHkXTTHQUbWXo/edit?usp=sharing)
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/1BzjHX5LnGZmYiwUdYCm21ifzKdaQrxqHkXTTHQUbWXo)
 
 ### osu!taiko
 
-#### Finals Week 2
+#### Finals week 2
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSo8t3GYXw5MCg5nfDomp8A6lGO9HnStGYaYtCYYprDsrGeEwvMjVdUGNgH347sGTpG4OVg3vWp267r/pubhtml)
 
-| Seed | Player 1 |  |  | Player 2 | Seed |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 2 | **Rimazii** | **7** | 0 | yuki\_momoiro722 | 3 |  |
-| 1 | **Pochacco** | **7** | 3 | Rimazii | 2 |  |
+| Seed | Player 1 |  |  | Player 2 | Seed |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| 2 | **Rimazii** ![][flag_PH] | **7** | 0 | ![][flag_PH] yuki\_momoiro722 | 3 |
+| 1 | **Pochacco** ![][flag_PH] | **7** | 3 | ![][flag_PH] Rimazii | 2 |
 
-#### Finals Week 1
+#### Finals week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRX7gnA_Z8FOPcMt66Ryim5GCYAj4BM-UfCP3xXsHKD4RagE0h-IdbrCqjbQgE56ZDVVQ7PCEOLHVsI/pubhtml)
 
-| Seed | Player 1 |  |  | Player 2 | Seed |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 4 | Silhoueska Elze | 0 | **7** | **yuki\_momoiro722** | 3 |  |
-| 1 | **Pochacco** | **7** | 3 | Rimazii | 2 |  |
+| Seed | Player 1 |  |  | Player 2 | Seed |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| 4 | Silhoueska Elze ![][flag_PH] | 0 | **7** | ![][flag_PH] **yuki\_momoiro722** | 3 |
+| 1 | **Pochacco** ![][flag_PH] | **7** | 3 | ![][flag_PH] Rimazii | 2 |
 
 #### Round 2
 
@@ -965,10 +957,10 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | **Pochacco** | **6** | 0 | Silhoueska Elze | 4 |  |
-| 2 | **Rimazii** | **6** | 0 | yuki_momoiro722 | 3 |  |
-| 3 | **yuki\_momoiro722** | **6** | 0 | \[\_\_\_\_\_\_\] | 5 | -win by default- |
-| 4 | **Silhoueska Elze** | **6** | 0 | Keishii | 6 | -win by default- |
+| 1 | **Pochacco** ![][flag_PH] | **6** | 0 | ![][flag_PH] Silhoueska Elze | 4 |  |
+| 2 | **Rimazii** ![][flag_PH] | **6** | 0 | ![][flag_PH] yuki_momoiro722 | 3 |  |
+| 3 | **yuki\_momoiro722** ![][flag_PH] | **6** | 0 | ![][flag_JP] \[\_\_\_\_\_\_\] | 5 | *win by default* |
+| 4 | **Silhoueska Elze** ![][flag_PH] | **6** | 0 | ![][flag_PH] Keishii | 6 | *win by default* |
 
 #### Round 1
 
@@ -976,31 +968,31 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 4 | **Silhoueska Elze** | **6** | 1 | \[\_\_\_\_\_\_\] | 5 |  |
-| 3 | **yuki_momoiro722** | **6** | 0 | Keishii | 6 | -win by default- |
+| 4 | **Silhoueska Elze** ![][flag_PH] | **6** | 1 | ![][flag_JP] \[\_\_\_\_\_\_\] | 5 |  |
+| 3 | **yuki_momoiro722** ![][flag_PH] | **6** | 0 | ![][flag_PH] Keishii | 6 | *win by default* |
 
 ### osu!catch
 
-#### Finals Week 2
+#### Finals week 2
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfnWy12VK1RBz5bwtfPOTMEFST_2ldF1sGfdVwcz5vMKHLDkUlR1t4Aey671J3yz7TWkNPpJ_4qwv1/pubhtml)
 
-| Seed | Player 1 |  |  | Player 2 | Seed |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 9 | **- Kielzu -** | **7** | 3 | Crowley | 4 |  |
-| 2 | KaganimeRin | 2 | **7** | **- Kielzu -** | 9 |  |
-| 9 | **- Kielzu -** | **7** | 3 | KaganimeRin | 2 |  |
+| Seed | Player 1 |  |  | Player 2 | Seed |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| 9 | **- Kielzu -** ![][flag_PH] | **7** | 3 | ![][flag_PH] Crowley | 4 |
+| 2 | KaganimeRin ![][flag_PH] | 2 | **7** | ![][flag_PH] **- Kielzu -** | 9 |
+| 9 | **- Kielzu -** ![][flag_PH] | **7** | 3 | ![][flag_PH] KaganimeRin | 2 |
 
-#### Finals Week 1
+#### Finals week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSH8dVYca-voNGPONyEBXl3Kn3T162qWwQlTD2uzzicW5B5DjJfgplR9bpsoqZZE9fqpCWV5CXxFH7/pubhtml)
 
-| Seed | Player 1 |  |  | Player 2 | Seed |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 4 | AJamez | 3 | **7** | **Lobsterr** | 7 |  |
-| 3 | Aishiii | 4 | **7** | **Crowley** | 1 |  |
-| 7 | Lobsterr | 5 | **7** | **Crowley** | 4 |  |
-| 9 | - Kielzu - | 5 | **7** | **KaganimeRin** | 2 |  |
+| Seed | Player 1 |  |  | Player 2 | Seed |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| 4 | AJamez ![][flag_PH] | 3 | **7** | ![][flag_PH] **Lobsterr** | 7 |
+| 3 | Aishiii ![][flag_PH] | 4 | **7** | ![][flag_PH] **Crowley** | 1 |
+| 7 | Lobsterr ![][flag_PH] | 5 | **7** | ![][flag_PH] **Crowley** | 4 |
+| 9 | - Kielzu - ![][flag_PH] | 5 | **7** | ![][flag_PH] **KaganimeRin** | 2 |
 
 #### Round 3
 
@@ -1008,10 +1000,10 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 5 | Kuya Frex | 0 | **6** | **Crowley** | 1 |  |
-| 8 | Loreal | 0 | **6** | **Lobsterr** | 7 |  |
-| 9 | **- Kielzu -** | **6** | 0 | AJamez | 4 | -win by default- |
-| 2 | **KaganimeRin** | **6** | 1 | Aishiii | 3 |  |
+| 5 | Kuya Frex ![][flag_PH] | 0 | **6** | ![][flag_PH] **Crowley** | 1 |  |
+| 8 | Loreal ![][flag_PH] | 0 | **6** | ![][flag_PH] **Lobsterr** | 7 |  |
+| 9 | **- Kielzu -** ![][flag_PH] | **6** | 0 | ![][flag_PH] AJamez | 4 | *win by default* |
+| 2 | **KaganimeRin** ![][flag_PH] | **6** | 1 | ![][flag_PH] Aishiii | 3 |  |
 
 #### Round 2
 
@@ -1019,14 +1011,14 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | Crowley | 2 | **6** | **- Kielzu -** | 9 |  |
-| 4 | **AJamez** | **6** | 0 | Kuya Frex | 5 |  |
-| 2 | **KaganimeRin** | **6** | 3 | Lobsterr | 7 |  |
-| 3 | **Aishiii** | **6** | 1 | johnneijzen1 | 11 |  |
-| 1 | **Crowley** | **6** | 0 | Laqure | 8 |  |
-| 5 | **Kuya Frex** | **6** | 0 | AJ1703 | 10 | -win by default- |
-| 7 | **Lobsterr** | **6** | 0 | Keishii | 12 | -win by default- |
-| 11 | johnneijzen1 | 0 | **6** | **Loreal** | 8 |  |
+| 1 | Crowley ![][flag_PH] | 2 | **6** | ![][flag_PH] **- Kielzu -** | 9 |  |
+| 4 | **AJamez** ![][flag_PH] | **6** | 0 | ![][flag_PH] Kuya Frex | 5 |  |
+| 2 | **KaganimeRin** ![][flag_PH] | **6** | 3 | ![][flag_PH] Lobsterr | 7 |  |
+| 3 | **Aishiii** ![][flag_PH] | **6** | 1 | ![][flag_PH] johnneijzen1 | 11 |  |
+| 1 | **Crowley** ![][flag_PH] | **6** | 0 | ![][flag_PH] Laqure | 8 |  |
+| 5 | **Kuya Frex** ![][flag_PH] | **6** | 0 | ![][flag_PH] AJ1703 | 10 | *win by default* |
+| 7 | **Lobsterr** ![][flag_PH] | **6** | 0 | ![][flag_PH] Keishii | 12 | *win by default* |
+| 11 | johnneijzen1 ![][flag_PH] | 0 | **6** | ![][flag_PH] **Loreal** | 8 |  |
 
 #### Round 1
 
@@ -1034,37 +1026,37 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 8 | **Loreal** | 4 | **5** | **- Kielzu -** | 9 |  |
-| 5 | **Kuya Frex** | **5** | 0 | Keishii | 12 | -win by default- |
-| 7 | **Lobsterr** | **5** | 1 | AJ1703 | 10 |  |
-| 6 | Laqure | 0 | **5** | **johnneijzen1** | 11 | -win by default- |
+| 8 | **Loreal** ![][flag_PH] | 4 | **5** | ![][flag_PH] **- Kielzu -** | 9 |  |
+| 5 | **Kuya Frex** ![][flag_PH] | **5** | 0 | ![][flag_PH] Keishii | 12 | *win by default* |
+| 7 | **Lobsterr** ![][flag_PH] | **5** | 1 | ![][flag_PH] AJ1703 | 10 |  |
+| 6 | Laqure ![][flag_PH] | 0 | **5** | ![][flag_PH] **johnneijzen1** | 11 | *win by default* |
 
 #### Qualifiers
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/1h1V8x2U586Tm0WHoAgbVC5bPF1DJpmLBtA91agj9jHk/edit?usp=sharing)
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/1h1V8x2U586Tm0WHoAgbVC5bPF1DJpmLBtA91agj9jHk)
 
 ### osu!mania 4K
 
-#### Finals Week 2
+#### Finals week 2
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrQ_M5fyMamxXZZJMmhSaahdBhCrwOUR764futo2GM_Sj4q0kb0xRfwtSokr0-pJAqrqZaxETYXV0A/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | **arge-** | **7** | 1 | Shiyui- | 5 |  |
-| 2 | Baltz | 2 | **7** | **arge-** | 1 |  |
-| 1 | **arge-** | **7** | 2 | Baltz | 2 | -forfeited- |
+| 1 | **arge-** ![][flag_PH] | **7** | 1 | ![][flag_PH] Shiyui- | 5 |  |
+| 2 | Baltz ![][flag_PH] | 2 | **7** | ![][flag_PH] **arge-** | 1 |  |
+| 1 | **arge-** ![][flag_PH] | **7** | 2 | ![][flag_PH] Baltz | 2 | *forfeited* |
 
-#### Finals Week 1
+#### Finals week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDXtOV-mc56JfL_iO7mmC9Q-fnLlmfugSQ14ITW_MNw17DWTKNKn9MDVpNKiE3S-Qx-dSnFH5zeh5x/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 5 | **Shiyui-** | **7** | 0 | Batujitsu | 7 | -win by default- |
-| 4 | **Silhoueska Elze** | **7** | 1 | Inoariusu | 10 |  |
-| 5 | **Shiyui-** | **7** | 3 | Silhoueska Elze | 4 |  |
-| 1 | arge- | 3 | **7** | **Baltz** | 2 |  |
+| 5 | **Shiyui-** ![][flag_PH] | **7** | 0 | ![][flag_PH] Batujitsu | 7 | *win by default* |
+| 4 | **Silhoueska Elze** ![][flag_PH] | **7** | 1 | ![][flag_PH] Inoariusu | 10 |  |
+| 5 | **Shiyui-** ![][flag_PH] | **7** | 3 | ![][flag_PH] Silhoueska Elze | 4 |  |
+| 1 | arge- ![][flag_PH] | 3 | **7** | ![][flag_PH] **Baltz** | 2 |  |
 
 #### Semifinals
 
@@ -1072,14 +1064,14 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 9 | **Andrei--** | **6** | 2 | vincent4399 | 11 |  |
-| 4 | Ikisouu | 0 | **6** | **Inoariusu** | 10 | -win by default- |
-| 7 | **Batujitsu** | **6** | 1 | Suravur | 12 |  |
-| 6 | **kei101895** | **6** | 0 | partycarft30 | 16 |  |
-| 10 | **Inoariusu** | **6** | 0 | Andrei-- | 9 | -win by default- |
-| 6 | kei101895 | 1 | **6** | **Batujitsu** | 7 |  |
-| 1 | **arge-** | **6** | 1 | Shiyui- | 5 |  |
-| 2 | **Baltz** | **6** | 0 | Silhoueska Elze | 3 |  |
+| 9 | **Andrei--** ![][flag_PH] | **6** | 2 | ![][flag_PH] vincent4399 | 11 |  |
+| 4 | Ikisouu ![][flag_PH] | 0 | **6** | ![][flag_PH] **Inoariusu** | 10 | *win by default* |
+| 7 | **Batujitsu** ![][flag_PH] | **6** | 1 | ![][flag_AE] Suravur | 12 |  |
+| 6 | **kei101895** ![][flag_PH] | **6** | 0 | ![][flag_PH] partycarft30 | 16 |  |
+| 10 | **Inoariusu** ![][flag_PH] | **6** | 0 | ![][flag_PH] Andrei-- | 9 | *win by default* |
+| 6 | kei101895 ![][flag_PH] | 1 | **6** | ![][flag_PH] **Batujitsu** | 7 |  |
+| 1 | **arge-** ![][flag_PH] | **6** | 1 | ![][flag_PH] Shiyui- | 5 |  |
+| 2 | **Baltz** ![][flag_PH] | **6** | 0 | ![][flag_PH] Silhoueska Elze | 3 |  |
 
 #### Quarterfinals
 
@@ -1087,14 +1079,14 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 16 | **partycarft30** | **6** | 0 | Edison | 8 | -win by default- |
-| 13 | Izayoi-san | 0 | **6** | **Suravur** | 12 | -win by default- |
-| 15 | hikaruXD19 | 4 | **6** | **Inoariusu** | 10 |  |
-| 14 | LohaWarpe | 0 | **6** | **vincent4399** | 11 |  |
-| 1 | **arge-** | **6** | 0 | Andrei-- | 9 | -win by default- |
-| 4 | Ikisouu | 5 | **6** | **Shiyui-** | 5 |  |
-| 2 | **Baltz** | **6** | 0 | Batujitsu | 7 | -win by default- |
-| 3 | **Silhoueska Elze** | **6** | 0 | kei101895 | 6 | -win by default- |
+| 16 | **partycarft30** ![][flag_PH] | **6** | 0 | ![][flag_PH] Edison | 8 | *win by default* |
+| 13 | Izayoi-san ![][flag___] | 0 | **6** | ![][flag_AE] **Suravur** | 12 | *win by default* |
+| 15 | hikaruXD19 ![][flag_PH] | 4 | **6** | ![][flag_PH] **Inoariusu** | 10 |  |
+| 14 | LohaWarpe ![][flag_PH] | 0 | **6** | ![][flag_PH] **vincent4399** | 11 |  |
+| 1 | **arge-** ![][flag_PH] | **6** | 0 | ![][flag_PH] Andrei-- | 9 | *win by default* |
+| 4 | Ikisouu ![][flag_PH] | 5 | **6** | ![][flag_PH] **Shiyui-** | 5 |  |
+| 2 | **Baltz** ![][flag_PH] | **6** | 0 | ![][flag_PH] Batujitsu | 7 | *win by default* |
+| 3 | **Silhoueska Elze** ![][flag_PH] | **6** | 0 | ![][flag_PH] kei101895 | 6 | *win by default* |
 
 #### Round of 16
 
@@ -1102,40 +1094,40 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | **arge-** | **5** | 0 | partycarft30 | 16 |  |
-| 8 | Edison | 0 | **5** | **Andrei--** | 9 | -win by default- |
-| 4 | **Ikisouu** | **5** | 0 | Izayoi-san- | 13 | -win by default- |
-| 5 | **Shiyui-** | **5** | 0 | Suravur | 12 |  |
-| 2 | **Baltz** | **5** | 0 | hikaruXD19 | 15 |  |
-| 7 | Batujitsu | **5** | 1 | Inoariusu | 10 |  |
-| 3 | **Silhoueska Elze** | **5** | 0 | LohaWarpe | 14 |  |
-| 6 | **kei101895** | **5** | 1 | vincent4399 | 11 |  |
+| 1 | **arge-** ![][flag_PH] | **5** | 0 | ![][flag_PH] partycarft30 | 16 |  |
+| 8 | Edison ![][flag_PH] | 0 | **5** | ![][flag_PH] **Andrei--** | 9 | *win by default* |
+| 4 | **Ikisouu** ![][flag_PH] | **5** | 0 | ![][flag___] Izayoi-san- | 13 | *win by default* |
+| 5 | **Shiyui-** ![][flag_PH] | **5** | 0 | ![][flag_AE] Suravur | 12 |  |
+| 2 | **Baltz** ![][flag_PH] | **5** | 0 | ![][flag_PH] hikaruXD19 | 15 |  |
+| 7 | Batujitsu ![][flag_PH] | **5** | 1 | ![][flag_PH] Inoariusu | 10 |  |
+| 3 | **Silhoueska Elze** ![][flag_PH] | **5** | 0 | ![][flag_PH] LohaWarpe | 14 |  |
+| 6 | **kei101895** ![][flag_PH] | **5** | 1 | ![][flag_PH] vincent4399 | 11 |  |
 
 #### Qualifiers
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/12eTXD8Jm4kNTzzhJ0WFB8aNnDQc1ENvEAfsG5XiExYk/edit?usp=sharing)
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/12eTXD8Jm4kNTzzhJ0WFB8aNnDQc1ENvEAfsG5XiExYk)
 
 ### osu!mania 7K
 
-#### Finals Week 2
+#### Finals week 2
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRU-FRNZQkxl8hAc_qSTV4Xer90XlzStTdJ51n3wldcw6ArtmMNXJX5O_jzfnqTYzFsCdSu8tNBYZL8/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 2 | Cielo Day | 0 | **7** | **fer789** | 4 | -win by default- |
-| 1 | **Nikana** | **7** | 2 | fer789 | 4 |  |
+| 2 | Cielo Day ![][flag_PH] | 0 | **7** | ![][flag_PH] **fer789** | 4 | *win by default* |
+| 1 | **Nikana** ![][flag_PH] | **7** | 2 | ![][flag_PH] fer789 | 4 |  |
 
-#### Finals Week 1
+#### Finals week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT_JfWTcj1zCEK5-i7wMXqHAAYVKOWd0l78S_x4I0TcsjyY54eZdMWMVOxNV22ZmRGWIABT11Qhb8Nc/pubhtml)
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 3 | FeveredNickel | 0 | **7** | **kei101895** | 8 | -win by default- |
-| 4 | **fer789** | **7** | 0 | LohaWarpe | 6 |  |
-| 8 | kei101895 | 0 | **7** | **fer789** | 4 | -win by default- |
-| 1 | **Nikana** | **7** | 0 | Cielo Day | 2 | -win by default- |
+| 3 | FeveredNickel ![][flag_PH] | 0 | **7** | ![][flag_PH] **kei101895** | 8 | *win by default* |
+| 4 | **fer789** ![][flag_PH] | **7** | 0 | ![][flag_PH] LohaWarpe | 6 |  |
+| 8 | kei101895 ![][flag_PH] | 0 | **7** | ![][flag_PH] **fer789** | 4 | *win by default* |
+| 1 | **Nikana** ![][flag_PH] | **7** | 0 | ![][flag_PH] Cielo Day | 2 | *win by default* |
 
 #### Round 3
 
@@ -1143,10 +1135,10 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 8 | **kei101895** | **6** | 0 | Andrei-- | 5 | -win by default- |
-| 10 | Shawntell | 0 | **6** | **LohaWarpe** | 6 | -win by default- |
-| 1 | **Nikana** | **6** | 0 | fer789 | 4 |  |
-| 2 | **Cielo Day** | **6** | 0 | FeveredNickel | 3 | -win by default- |
+| 8 | **kei101895** ![][flag_PH] | **6** | 0 | ![][flag_PH] Andrei-- | 5 | *win by default* |
+| 10 | Shawntell ![][flag_PH] | 0 | **6** | ![][flag_PH] **LohaWarpe** | 6 | *win by default* |
+| 1 | **Nikana** ![][flag_PH] | **6** | 0 | ![][flag_PH] fer789 | 4 |  |
+| 2 | **Cielo Day** ![][flag_PH] | **6** | 0 | ![][flag_PH] FeveredNickel | 3 | *win by default* |
 
 #### Round 2
 
@@ -1154,12 +1146,12 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 4 | **fer789** | **6** | 0 | Andrei-- | 5 |  |
-| 3 | **FeveredNickel** | **6** | 0 | LohaWarpe | 6 |  |
-| 1 | **Nikana** | **6** | 0 | kei101895 | 8 | -win by default- |
-| 2 | **Cielo Day** | **6** | 0 | Shawntell | 10 | -win by default- |
-| 5 | **Andrei--** | **6** | 0 | LackPoints | 7 | -win by default- |
-| 6 | **LohaWarpe** | **6** | 0 | Keishii | 8 | -win by default- |
+| 4 | **fer789** ![][flag_PH] | **6** | 0 | ![][flag_PH] Andrei-- | 5 |  |
+| 3 | **FeveredNickel** ![][flag_PH] | **6** | 0 | ![][flag_PH] LohaWarpe | 6 |  |
+| 1 | **Nikana** ![][flag_PH] | **6** | 0 | ![][flag_PH] kei101895 | 8 | *win by default* |
+| 2 | **Cielo Day** ![][flag_PH] | **6** | 0 | ![][flag_PH] Shawntell | 10 | *win by default* |
+| 5 | **Andrei--** ![][flag_PH] | **6** | 0 | ![][flag_PH] LackPoints | 7 | *win by default* |
+| 6 | **LohaWarpe** ![][flag_PH] | **6** | 0 | ![][flag_PH] Keishii | 8 | *win by default* |
 
 #### Round 1
 
@@ -1167,29 +1159,27 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 8 | **kei101895** | **5** | 0 | Keishii | 9 | -win by default- |
-| 7 | LackPoints | 0 | **5** | **Shawntell** | 10 | -win by default- |
+| 8 | **kei101895** ![][flag_PH] | **5** | 0 | ![][flag_PH] Keishii | 9 | *win by default* |
+| 7 | LackPoints ![][flag_PH] | 0 | **5** | ![][flag_PH] **Shawntell** | 10 | *win by default* |
 
 #### Qualifiers
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/1dxo-VvuNF7YIl759bPsT7ImwKDDSyot3w1-d_8JUNWw/edit?usp=sharing)
 
----
+## Ruleset
 
-## Rules
-
-### Game Modes and Scoring Format
+### Game modes and scoring format
 
 - The tournament will host the following game modes: osu!, osu!taiko, osu!catch, osu!mania 4K, and osu!mania 7K. In addition, the tournament will use **Score v2** as its scoring format. This requires players to play on the following osu! Builds: Stable (Latest), Beta, and Cutting Edge.
 
-### Tournament Formats
+### Tournament formats
 
 - The **osu!** division will adopt a Qualifier Round (explained below) in order to reduce the field into 32 players which will then be subjected to a **single elimination** bracket. Seeding for this division will be based on qualifier results.
 - The **osu!taiko** division will be subjected to a **double elimination** bracket. Seeding for this division will be based on Performance Points as of 2018-11-03 (18:00 UTC+8).
 - The **osu!catch** division will adopt a Qualifier Round (explained below) and will be subjected to a **16-player double elimination** bracket. Seeding for this division will be based on qualifier results.
 - Both **osu!mania 4K** and **osu!mania 7K** divisions will adopt a Qualifier Round (explained below) in order to reduce the field to 16 players. Players who advance will be subjected to a **double elimination** bracket. Seeding for this division will be based on qualifier results.
 
-### Mods Used in the Tournament
+### Mods used in the tournament
 
 #### osu!
 
@@ -1222,9 +1212,9 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 - For both osu!mania 4K and 7K, the tournament will assume the **osu!mania FreeMod** rule. This permits the usage of **HD (Hidden)**, **FI (FadeIn)**, or **FL (Flashlight)** during a pick.
 
-### Eligibility and Registration
+### Eligibility and registration
 
-#### General Qualifications
+#### General qualifications
 
 - Players who currently have the ![][flag_PH] Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but **can present a proof of their Philippine Citizenship** to the staff are the only ones allowed to join the tournament, **regardless of rank on the game mode they are participating in**. There is no requirement for the player to understand the Filipino Language as a whole in order to be permitted.
 - Staff Members who are **not part of the Executive Committee and the Mappool Selectors** are permitted to join the tourney.
@@ -1242,7 +1232,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - Members (former and current) of the Philippine Team on the osu!mania 4K World Cup are not allowed to join the 4K Tournament.
 - Players not allowed to join the osu!mania 4K tournament are allowed to join the other four tournaments as they see fit.
 
-### Qualifier Round
+### Qualifier round
 
 #### osu!
 
@@ -1271,7 +1261,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - Players are allowed to use only Hidden (HD), Fade In (FI), and Flashlight (FL) if they wish to use mods.
 - In the event that there are insufficient players to fill in the qualifying slots, the remaining slots will be given to players who were not able to play according to their ranks. Players who have played during the qualifiers will still keep their seeding priority.
 
-### Match Proper
+### Match proper
 
 #### Preparation
 
@@ -1280,31 +1270,31 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - Defaulting time is ten (10) minutes directly after the actual match schedule. The player who fails to appear in the match within that time period will be considered as a no-show and the player inside the room already will be declared the winner. If both players do not appear, the player with the higher seed will be considered the winner.
 - It is asked of the players to allow non-friend PM's in order for the invites to arrive.
 
-#### Warm-up Phase
+#### Warm-up phase
 
 - Each Player is allowed to select warm-up charts for them to play in the room in whatever purpose they have. These **must be uploaded to the osu! servers and have less than four (4) minutes of drain time**. Warm-ups that contain questionable content (as defined by the [osu! Community Rules](/wiki/Rules)) will be disallowed.
 
-#### Bans and Picks
+#### Bans and picks
 
-- After the warm-up phase, the players will proceed to use the !roll command on the multiplayer chat. The player with the lower !roll score will ban a notechart from the pool first, and the player with the higher !roll score will place his own ban next, and immediately, his/her first pick. This means that there will be only **one (1) ban from each player**.
+- After the warm-up phase, the players will proceed to use the `!roll` command on the multiplayer chat. The player with the lower `!roll` score will ban a notechart from the pool first, and the player with the higher `!roll` score will place his own ban next, and immediately, his/her first pick. This means that there will be only **one (1) ban from each player**.
 
-#### Match Format
+#### Match format
 
 - Players will alternate picks until a match winner is determined. This will be in a Best-of-X series with the formats listed as follows:
-  - Match Week 1 - Best-of-9 (First to 5)
-  - Match Week 2 - Best-of-11 (First to 6)
-  - Match Week 3 - Best-of-11 (First to 6)
-  - Match Week 4 - Best-of-13 (First to 7)
-  - Match Week 5 - Best-of-13 (First to 7)
+  - Match week 1 - Best-of-9 (First to 5)
+  - Match week 2 - Best-of-11 (First to 6)
+  - Match week 3 - Best-of-11 (First to 6)
+  - Match week 4 - Best-of-13 (First to 7)
+  - Match week 5 - Best-of-13 (First to 7)
 - For osu!, the players are **prohibited from consecutively picking maps from the same mod bracket on their turn to pick**.
 - If it so happens that the scores of the two players on a pick are tied, the pick will be nullified. The player who picked the nullified beatmap will be permitted to do a re-pick (of another beatmap), or a replay of the nullified beatmap.
 - In case the players are tied at match point, for example, a 3-3 on a Best-of-7 match, the players will proceed to play the Tiebreaker chart of the pool.
 
-#### Mappools and their Construction
+#### Mappools and their construction
 
 - Each round has its own mappool, with increasing difficulty as the tournament progresses. For osu! and osu!catch, the mappool is made to accomodate the mods to be used as explained in their respective sections in these rules.
 - For osu!mania 4K and 7K, the mappool is made to accomodate enough for a double match point, one ban per player, an ignored pick, and the tiebreaker.
-- The Loser's Bracket Finals will be played using the Finals Week 2 mappool of the respective game modes.
+- The Loser's Bracket Finals will be played using the Finals week 2 mappool of the respective game modes.
 
 ### Rescheduling
 
@@ -1322,27 +1312,30 @@ Detailed results for this round are found via [this link](https://docs.google.co
   - If the player who leads the score is the one who disconnected, the match will continue, regardless of the player's time of return, and as long as the opponent is present. If the said player fails to return within 30 minutes after disconnection, the player will be disqualified from the match.
   - Situations uncovered by these clauses (stuck at "Waiting for Other Players" screen, Player disconnection a few seconds prior to score submission, etc.) will be decided immediately by the staff on-the-spot.
 
-### Player and Staff Conduct
+### Player and staff conduct
 
 - Players are expected to be informed about the Rules and Guidelines of this tournament. In addition, the staff will assure a good experience for the players during the tournament.
 
-#### Match Conduct
+#### Match conduct
 
 - The Players and staff are expected to adhere to the Rules and Regulations of the osu! Community. If the player's behavior during the match is not tolerable anymore, the staff has the decision whether to terminate the match and freeze at current score, disqualify the player from the match, or disqualify the player in the tournament as a whole. The staff also have the discretion to change the referee of the match, or kick him/her out of the staff based on the same grounds.
 
-#### Overall Conduct
+#### Overall conduct
 
 - The players and staff are expected to not be a douche. If the player is seen to be disconnecting from the match without proper justification, the staff may decide to impose the penalties to their discretion. Also, if the player is in a match that determines the Top 3 of the tournament, regardless of division, and no-shows on that match without proper justification, the player will be deemed disqualified from the tournament as a whole, and the tournament rankings will be adjusted accordingly.
 - If the staff member is the one who's at fault, it is the Executive Committee's decision on which penalties the said staff member faces. This may include suspension or termination from service.
 - In addition, the staff are not accountable if the player is silenced or restricted during the course of the tournament. In case of the former, the silence duration will be considered as either the defaulting time, or disconnection time. Thus, if the silence lasts for more than 10 minutes, the said player is deemed to have lost the match by default.
 
-### Updates and Concerns
+### Updates and concerns
 
 - Most of the major updates regarding the tournament will be posted on the discussion thread. All concerns and questions regarding the tournament may be posted on the thread, or via the osu!Philippines Facebook Group.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_AE]: /wiki/shared/flag/AE.gif "United Arab Emirates"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag___]: /wiki/shared/flag/__.gif

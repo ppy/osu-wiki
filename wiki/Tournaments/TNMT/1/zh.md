@@ -314,12 +314,12 @@
   3. 负场更少优先
   4. 加赛的胜者优先
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
+[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
+[flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
+[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_HK]: /wiki/shared/flag/HK.gif "香港"
+[flag_ID]: /wiki/shared/flag/ID.gif "印度尼西亚"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
+[flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
+[flag_US]: /wiki/shared/flag/US.gif "美国"

@@ -1,15 +1,15 @@
 ---
 tags:
-- 112servis
-- 112CT
-- 112 Corona
+  - 112servis
+  - 112CT
+  - 112 Corona
 ---
 
 # 112's Corona Tournament
 
 ![112CT logo](img/banner.png)
 
-The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! tournament started with qualifiers hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fifth installment of 112's Tournaments series.
+The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! tournament started with qualifiers hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fifth instalment of 112's Tournaments series.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! 
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter |
 
 ## Organisation
 
@@ -35,8 +35,8 @@ The 112's Corona Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Map selector | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859), ![][flag_CA] [Sansnaka](https://osu.ppy.sh/users/5543535) |
+| Organizer | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
+| Mappool selector | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859), ![][flag_CA] [Sansnaka](https://osu.ppy.sh/users/5543535) |
 | Referee | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Coderbora](https://osu.ppy.sh/users/11873333), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311), ![][flag_TR] [Hazar](https://osu.ppy.sh/users/6364554), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_NL] [goeo_](https://osu.ppy.sh/users/6832107), ![][flag_TR] [LeBoum](https://osu.ppy.sh/users/8700026), ![][flag_TR] [ozge1907](https://osu.ppy.sh/users/6511453), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852), ![][flag_DE] [takoz53](https://osu.ppy.sh/users/2214428), ![][flag_TR] [tingirmin](https://osu.ppy.sh/users/9027514), ![][flag_TR] [We0l](https://osu.ppy.sh/users/13196066) |
 | Streamer | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [HakoFixed](https://osu.ppy.sh/users/7188447) |
 | Commentator | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859), ![][flag_NL] [goeo_](https://osu.ppy.sh/users/6832107) |
@@ -54,40 +54,40 @@ The 112's Corona Tournament was run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| .\`\*\*HIDDEN\*\*\`.  | ![][flag_TR] [Kizu](https://osu.ppy.sh/users/12940938), ![][flag_TR] [Shinkir0](https://osu.ppy.sh/users/6093148) |
-| ( ͡° ͜ʖ ͡°) | ![][flag_TR] [robertvarne](https://osu.ppy.sh/users/11913835), ![][flag_BE] [iblue](https://osu.ppy.sh/users/9184180) | 
-| 1.yiz kasmayın | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [NamDeer](https://osu.ppy.sh/users/10389841) | 
-| 1deag | ![][flag_TR] [edizberkserbest](https://osu.ppy.sh/users/9256771), ![][flag_TR] [tingirmin](https://osu.ppy.sh/users/9027514) | 
-| ali vefa fanclub | ![][flag_TR] [Mr\_Ege](https://osu.ppy.sh/users/9542170), ![][flag_TR] [-Kemsyt](https://osu.ppy.sh/users/3170401) | 
-| ataturj | ![][flag_TR] [Rexin](https://osu.ppy.sh/users/7953720), ![][flag_TR] [He is Batuhan](https://osu.ppy.sh/users/4939723) | 
-| Bakamitai | ![][flag_TR] [JustBurak](https://osu.ppy.sh/users/4939723), ![][flag_LT] [mamakatas](https://osu.ppy.sh/users/7011187) | 
+| .\`\*\*HIDDEN\*\*\`. | ![][flag_TR] [Kizu](https://osu.ppy.sh/users/12940938), ![][flag_TR] [Shinkir0](https://osu.ppy.sh/users/6093148) |
+| ( ͡° ͜ʖ ͡°) | ![][flag_TR] [robertvarne](https://osu.ppy.sh/users/11913835), ![][flag_BE] [iblue](https://osu.ppy.sh/users/9184180) |
+| 1.yiz kasmayın | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [NamDeer](https://osu.ppy.sh/users/10389841) |
+| 1deag | ![][flag_TR] [edizberkserbest](https://osu.ppy.sh/users/9256771), ![][flag_TR] [tingirmin](https://osu.ppy.sh/users/9027514) |
+| ali vefa fanclub | ![][flag_TR] [Mr\_Ege](https://osu.ppy.sh/users/9542170), ![][flag_TR] [-Kemsyt](https://osu.ppy.sh/users/3170401) |
+| ataturj | ![][flag_TR] [Rexin](https://osu.ppy.sh/users/7953720), ![][flag_TR] [He is Batuhan](https://osu.ppy.sh/users/4939723) |
+| Bakamitai | ![][flag_TR] [JustBurak](https://osu.ppy.sh/users/4939723), ![][flag_LT] [mamakatas](https://osu.ppy.sh/users/7011187) |
 | bucocukamerikalı | ![][flag_TR] [Cynesta](https://osu.ppy.sh/users/8674027), ![][flag_TR] [huckmen444](https://osu.ppy.sh/users/5019334) |
 | busu | ![][flag_TR] [MFaik](https://osu.ppy.sh/users/11199222), ![][flag_TR] [Berkk](https://osu.ppy.sh/users/16298931) |
-| deneme | ![][flag_TR] [nitromehmet](https://osu.ppy.sh/users/9909537), ![][flag_TR] [haygiya](https://osu.ppy.sh/users/11604012) | 
+| deneme | ![][flag_TR] [nitromehmet](https://osu.ppy.sh/users/9909537), ![][flag_TR] [haygiya](https://osu.ppy.sh/users/11604012) |
 | Easy Bots | ![][flag_TR] [MouseControlV2](https://osu.ppy.sh/users/10307622), ![][flag_TR] [kanna\_kamuisan](https://osu.ppy.sh/users/14728608) |
-| EkmekKırıntısı | ![][flag_TR] [velihan33](https://osu.ppy.sh/users/14181899), ![][flag_US] [Avora](https://osu.ppy.sh/users/8986927) | 
-| Gaz Treni | ![][flag_TR] [Lxran](https://osu.ppy.sh/users/3651081), ![][flag_TR] [SnowLyRain](https://osu.ppy.sh/users/12489717) | 
-| harumachi clover | ![][flag_TR] [dragonsaga](https://osu.ppy.sh/users/4982690), ![][flag_TR] [empirasu](https://osu.ppy.sh/users/12500084) | 
+| EkmekKırıntısı | ![][flag_TR] [velihan33](https://osu.ppy.sh/users/14181899), ![][flag_US] [Avora](https://osu.ppy.sh/users/8986927) |
+| Gaz Treni | ![][flag_TR] [Lxran](https://osu.ppy.sh/users/3651081), ![][flag_TR] [SnowLyRain](https://osu.ppy.sh/users/12489717) |
+| harumachi clover | ![][flag_TR] [dragonsaga](https://osu.ppy.sh/users/4982690), ![][flag_TR] [empirasu](https://osu.ppy.sh/users/12500084) |
 | i may be stupid | ![][flag_TR] [Raikouhou](https://osu.ppy.sh/users/8007528), ![][flag_TR] [Tsuda-](https://osu.ppy.sh/users/6713666) |
-| isim bulamadık | ![][flag_TR] [\[-Shadowa-\]](https://osu.ppy.sh/users/1313327), ![][flag_TR] [sentez](https://osu.ppy.sh/users/8816305) | 
-| K G O O | ![][flag_TR] [Ekrem Imamoglu](https://osu.ppy.sh/users/10801545), ![][flag_TR] [roseacti](https://osu.ppy.sh/users/10518505) | 
+| isim bulamadık | ![][flag_TR] [\[-Shadowa-\]](https://osu.ppy.sh/users/1313327), ![][flag_TR] [sentez](https://osu.ppy.sh/users/8816305) |
+| K G O O | ![][flag_TR] [Ekrem Imamoglu](https://osu.ppy.sh/users/10801545), ![][flag_TR] [roseacti](https://osu.ppy.sh/users/10518505) |
 | kartal.network | ![][flag_NL] [goeo_](https://osu.ppy.sh/users/6832107), ![][flag_TR] [Cyberia950](https://osu.ppy.sh/users/9143539) |
-| kms | ![][flag_TR] [Yoani](https://osu.ppy.sh/users/10660282), ![][flag_TR] [mirayno](https://osu.ppy.sh/users/11593174) | 
+| kms | ![][flag_TR] [Yoani](https://osu.ppy.sh/users/10660282), ![][flag_TR] [mirayno](https://osu.ppy.sh/users/11593174) |
 | Mağdurlar | ![][flag_TR] [star1322](https://osu.ppy.sh/users/8128670), ![][flag_TR] [We0l](https://osu.ppy.sh/users/13196066) |
 | nE | ![][flag_TR] [Nymphe](https://osu.ppy.sh/users/10507407), ![][flag_TR] [emptypudding](https://osu.ppy.sh/users/11003085) |
 | NEŞESİNE YAŞAM | ![][flag_TR] [egemenbsrms](https://osu.ppy.sh/users/4520477), ![][flag_TR] [aimlessplayr](https://osu.ppy.sh/users/4903088) |
 | NM | ![][flag_TR] [Koqla](https://osu.ppy.sh/users/12817802), ![][flag_DE] [Skellexon](https://osu.ppy.sh/users/11268328) |
 | Plz Enjoy Chiaki | ![][flag_TR] [Plz Enjoy RSI](https://osu.ppy.sh/users/8365050), ![][flag_TR] [Chiaki Nanami-](https://osu.ppy.sh/users/8588336) |
-| SARS-CoV-3 | ![][flag_TR] [Chickes](https://osu.ppy.sh/users/5341891), ![][flag_TR] [AuroraSolaris](https://osu.ppy.sh/users/9319605) | 
-| Team Big Chungus  | ![][flag_TR] [pyth0nix](https://osu.ppy.sh/users/10922849), ![][flag_TR] [LeBoum](https://osu.ppy.sh/users/8700026) | 
-| Traps Not Gay V2 | ![][flag_TR] [CutieDemon](https://osu.ppy.sh/users/6440158), ![][flag_TR] [HakoFixed](https://osu.ppy.sh/users/7188447) | 
-| uwu | ![][flag_TR] [-Miia-](https://osu.ppy.sh/users/8543307), ![][flag_TR] [-Satella-](https://osu.ppy.sh/users/4890227) | 
-| Zurna | ![][flag_TR] [Mikatsu](https://osu.ppy.sh/users/6612642), ![][flag_TR] [Coderbora](https://osu.ppy.sh/users/11873333) | 
-| ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽ | ![][flag_TR] [Ekin](https://osu.ppy.sh/users/2947405), ![][flag_TR] [ozge1907](https://osu.ppy.sh/users/6511453) | 
+| SARS-CoV-3 | ![][flag_TR] [Chickes](https://osu.ppy.sh/users/5341891), ![][flag_TR] [AuroraSolaris](https://osu.ppy.sh/users/9319605) |
+| Team Big Chungus  | ![][flag_TR] [pyth0nix](https://osu.ppy.sh/users/10922849), ![][flag_TR] [LeBoum](https://osu.ppy.sh/users/8700026) |
+| Traps Not Gay V2 | ![][flag_TR] [CutieDemon](https://osu.ppy.sh/users/6440158), ![][flag_TR] [HakoFixed](https://osu.ppy.sh/users/7188447) |
+| uwu | ![][flag_TR] [-Miia-](https://osu.ppy.sh/users/8543307), ![][flag_TR] [-Satella-](https://osu.ppy.sh/users/4890227) |
+| Zurna | ![][flag_TR] [Mikatsu](https://osu.ppy.sh/users/6612642), ![][flag_TR] [Coderbora](https://osu.ppy.sh/users/11873333) |
+| ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽ | ![][flag_TR] [Ekin](https://osu.ppy.sh/users/2947405), ![][flag_TR] [ozge1907](https://osu.ppy.sh/users/6511453) |
 
 ## Podium
 
-![112CT podium](img/podium.png)
+![](img/podium.png "112CT podium")
 
 ## Mappools
 
@@ -269,7 +269,7 @@ Sunday, 3 May 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Team Big Chungus | 0 | **1** | **SARS-CoV-3** | *-win by default-* |
+| Team Big Chungus | 0 | **1** | **SARS-CoV-3** | *win by default* |
 | **ali vefa fanclub** | **6** | 3 | isim bulamadık | [#1](https://osu.ppy.sh/community/matches/61222339) |
 | **NEŞESİNE YAŞAM** | **6** | 1 | 1.yiz kasmayın | [#1](https://osu.ppy.sh/community/matches/61218558) |
 
@@ -292,7 +292,7 @@ Sunday, 26 April 2020:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SARS-CoV-3** | **5** | 3 | i may be stupid | [#1](https://osu.ppy.sh/community/matches/60915278) |
-| yoo biz 1.yiz | 0 | **1** | **kms** | *-win by default-* |
+| yoo biz 1.yiz | 0 | **1** | **kms** | *win by default* |
 | **ali vefa fanclub** | **5** | 2 | 1.yiz kasmayın | [#1](https://osu.ppy.sh/community/matches/60921181) |
 
 Saturday, 2 May 2020:
@@ -441,7 +441,7 @@ Monday, 27 April 2020:
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lithuenia"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

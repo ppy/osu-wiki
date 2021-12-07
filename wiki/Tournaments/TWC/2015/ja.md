@@ -1,7 +1,7 @@
 ---
 tags:
-- TWC 2015
-- TWC2015
+  - TWC 2015
+  - TWC2015
 outdated: true
 ---
 
@@ -41,8 +41,6 @@ outdated: true
 | 配信者 | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | 実況者 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | 統計者 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
-
----
 
 ## 参加者
 
@@ -85,9 +83,7 @@ outdated: true
 ## リンク
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/279723)
-- [osu! Taiko World Cup 2015 on Twitch](https://www.twitch.tv/osulive/)
-
----
+- [osu! Taiko World Cup 2015 on Twitch](https://www.twitch.tv/osulive)
 
 ## ルールセット
 
@@ -173,9 +169,9 @@ outdated: true
 3. それぞれのキャプテンはビートマップ群から2つビートマップを使用禁止にすることができます。ここで選ばれたビートマップは試合を通してどちらのチームも使用してはいけません。
    1. このビートマップ拒否権は必ずどちらも使用してください。
 4. ビートマップ選択はそれぞれのキャプテンが交互に行います。
-5. それぞれのキャプテンは\#multiplayerで"!roll"を使ってください。
-   1. !rollの勝者は先に試合のビートマップを選んでください。
-   2. !rollの敗者は先に2つビートマップを使用禁止にしてください。
+5. それぞれのキャプテンは`#multiplayer`で`!roll`を使ってください。
+   1. `!roll`の勝者は先に試合のビートマップを選んでください。
+   2. `!roll`の敗者は先に2つビートマップを使用禁止にしてください。
 6. キャプテンはどのカテゴリからでも自由にビートマップを選んで構いません。
    1. 同点の場合は必ず同点決勝ビートマップをプレイしてください。
 7. 結果は統計サイトで発表されます。
@@ -204,27 +200,27 @@ outdated: true
 5. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 6. キャプテンはチームの予定の管理者です。
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "アルゼンチン"
+[flag_AU]: /wiki/shared/flag/AU.gif "オーストラリア"
+[flag_CA]: /wiki/shared/flag/CA.gif "カナダ"
+[flag_CL]: /wiki/shared/flag/CL.gif "チリ"
+[flag_CN]: /wiki/shared/flag/CN.gif "中華人民共和国"
+[flag_DE]: /wiki/shared/flag/DE.gif "ドイツ"
+[flag_DK]: /wiki/shared/flag/DK.gif "デンマーク"
+[flag_ES]: /wiki/shared/flag/ES.gif "スペイン"
+[flag_FI]: /wiki/shared/flag/FI.gif "フィンランド"
+[flag_FR]: /wiki/shared/flag/FR.gif "フランス"
+[flag_HK]: /wiki/shared/flag/HK.gif "香港"
+[flag_HU]: /wiki/shared/flag/HU.gif "ハンガリー"
+[flag_ID]: /wiki/shared/flag/ID.gif "インドネシア"
+[flag_IT]: /wiki/shared/flag/IT.gif "イタリア"
+[flag_JP]: /wiki/shared/flag/JP.gif "日本"
+[flag_KR]: /wiki/shared/flag/KR.gif "韓国"
+[flag_NO]: /wiki/shared/flag/NO.gif "ノルウェー"
+[flag_PH]: /wiki/shared/flag/PH.gif "フィリピン"
+[flag_PL]: /wiki/shared/flag/PL.gif "ポーランド"
+[flag_SE]: /wiki/shared/flag/SE.gif "スウェーデン"
+[flag_SG]: /wiki/shared/flag/SG.gif "シンガポール"
+[flag_TW]: /wiki/shared/flag/TW.gif "台湾"
+[flag_UA]: /wiki/shared/flag/UA.gif "ウクライナ"
+[flag_US]: /wiki/shared/flag/US.gif "アメリカ合衆国"

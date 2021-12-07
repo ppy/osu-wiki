@@ -8,7 +8,7 @@ tags:
 
 ![Mirai2020 logo](img/logo.png)
 
-The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminination 2v2 osu! tournament hosted by ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709). It is the fourth installment of the Mirai. Tournament.
+The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminination 2v2 osu! tournament hosted by ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709). It is the fourth instalment of the Mirai. Tournament.
 
 ## Tournament schedule
 
@@ -20,15 +20,15 @@ The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminina
 | Round of 16/Losers Round 1 & 2 | 2020-05-16 |
 | Quarterfinals/Losers Round 2 & 3 | 2020-05-22 |
 | Semifinals | 2020-05-30 |
-| Finals - Week 1 | 2020-06-06 |
-| Finals - Week 2 | 2020-06-23 |
+| Finals week 1 | 2020-06-06 |
+| Finals week 2 | 2020-06-23 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag per team member, unique profile badge (pending) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag per team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter per team member, unique profile badge (pending) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter per team member |
 
 ## Organisation
 
@@ -37,7 +37,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344) |
-| Map selector | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_GB] [NoSpace](https://osu.ppy.sh/users/10585285), ![][flag_GB] [SacretSword](https://osu.ppy.sh/users/9821402), ![][flag_DE] [Windows 10 Pro](https://osu.ppy.sh/users/7486592), ![][flag_SG] [Zephyrlox](https://osu.ppy.sh/users/6436945) |
+| Mappool selector | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_GB] [NoSpace](https://osu.ppy.sh/users/10585285), ![][flag_GB] [SacretSword](https://osu.ppy.sh/users/9821402), ![][flag_DE] [Windows 10 Pro](https://osu.ppy.sh/users/7486592), ![][flag_SG] [Zephyrlox](https://osu.ppy.sh/users/6436945) |
 | Streamer | ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709) |
 | Commentator | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_DE] [Windows 10 Pro](https://osu.ppy.sh/users/7486592) |
 | Designer | ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709) |
@@ -88,11 +88,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | **shaky hand** | [Fallen\_HK](https://osu.ppy.sh/users/13981456), [Himman](https://osu.ppy.sh/users/12665894), [McFuddyDuddy](https://osu.ppy.sh/users/8825522), [Player01](https://osu.ppy.sh/users/10194478) |
 | **surprised\_pikachu** | [-Secured-](https://osu.ppy.sh/users/14648196), [Pokeinfernape](https://osu.ppy.sh/users/11412507), [7heGh0st](https://osu.ppy.sh/users/14256252), [Emfyr](https://osu.ppy.sh/users/13445383) |
 
----
-
-![Mirai2020 bracket](img/bracket.png)
-
----
+![](img/bracket.png "Mirai2020 bracket")
 
 ## Mappools
 
@@ -289,8 +285,6 @@ The Mirai. Tournament 2020 is run by various community members.
   - [senya - Terasareru kurai no Shiawase \[Collab Hard\]](https://osu.ppy.sh/beatmapsets/747507#osu/1575098)
   - [Creo - Rivals \[deetz' Hard\]](https://osu.ppy.sh/beatmapsets/1012878#osu/2142929)
 
----
-
 ## Match results
 
 ### Grand Finals
@@ -472,8 +466,6 @@ The Mirai. Tournament 2020 is run by various community members.
 | 31 | Team Sliderbreak |
 | 32 | im pepa gpig |
 
----
-
 ## Ruleset
 
 The ruleset for this tournament is: Scorev2, Team VS in osu! standard.
@@ -510,7 +502,7 @@ The length for each stage is as follows, these include their respective Losers R
 
 1. The assigned referee will invite the team captain 10-15 minutes before the match starts
 2. The team captain will invite their teammates to the room.
-3. When the referee gives permission the team captains will !roll
+3. When the referee gives permission the team captains will `!roll`
 4. The team that rolls the highest gets to pick whether they want to ban first and pick first.
 5. Highest roller decides pick and ban order. They can choose if they want to pick and ban second if they want to.
 6. Players can choose to skip their warmup.
@@ -559,9 +551,9 @@ The schedule will be released 6 days in advance of the first match, usually the 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philipines"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_GB]: /wiki/shared/flag/GB.gif "Great Britain"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

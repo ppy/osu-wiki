@@ -52,7 +52,7 @@ Here's a list of the recent additions and departures from the Beatmap Nominators
 
 Do you like modding and helping other people with their beatmaps? Do you want to see your own name on this list? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator!
 
-The applications are always open, so head over to the [Beatmap Nominator website](https://bn.mappersguild.com "Beatmap Nominators") and apply today!
+The applications are always open, so head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and apply today!
 
 ### BN Resignations
 
@@ -103,7 +103,7 @@ If you like creating beatmaps and are also a fan of speedruns in general, this i
 
 This contest will go through the entire year, and every time you participate you will be able to gather points. At the end of the year, the top 3 will receive prizes such as osu!supporter and a shiny new badge for your profile page!
 
-To participate, you will need to join the [Discord server](https://discord.gg/fVgU9pA "Discord"). For the contest rules and further information, feel free to check out the forum thread linked above.
+To participate, you will need to join the [Discord server](https://discord.gg/fVgU9pA). For the contest rules and further information, feel free to check out the forum thread linked above.
 
 May the best and the fastest mapper win!
 
@@ -115,7 +115,7 @@ And that's it for this month's issue of the Mappers' Report! This one was a bit 
 
 Sadly, we haven't received anything that we could get put into the Around the Community section this month, that's why we left that out. Should you know of anything mapping or modding related, be it guides, podcasts or videos, let us know, as we would love to include them in the next Mappers' Report! 
 
-You can either directly contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord").
+You can either directly contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H).
 
 Hope to see you there soon, thank you for reading and stay safe and healthy!
 

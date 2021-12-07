@@ -144,7 +144,7 @@ Tama: ok
 
 *Opmerking: Wanneer je een gebruikersnaam ingeeft, vervang dan alle spaties door een laag liggend streepje (`_`).*
 
-Deze opdracht verstuurt een rapportering naar het [Globale Moderatieteam](/wiki/Global_Moderation_Team) of de [Taalmoderators](/wiki/Language_Moderators).
+Deze opdracht verstuurt een rapportering naar het [Globale Moderatieteam](/wiki/People/The_Team/Global_Moderation_Team) of de [Taalmoderators](/wiki/People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated).
 
 #### Gebruiksvoorbeeld
 

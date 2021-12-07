@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 70fd166193a632f68f3c3ec84d64c07a8dbfbd38
+---
+
 # 锦标赛
 
 本页面展示锦标赛。[论坛链接](https://osu.ppy.sh/community/forums/55)
@@ -337,6 +342,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 [GCrown]: /wiki/shared/crown-gold.png "冠军"
 [SCrown]: /wiki/shared/crown-silver.png "亚军"
 [BCrown]: /wiki/shared/crown-bronze.png "季军"
+
 [flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 [flag_BR]: /wiki/shared/flag/BR.gif "巴西"

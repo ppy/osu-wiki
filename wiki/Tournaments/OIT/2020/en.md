@@ -32,17 +32,17 @@ The **osu! Indonesia Tournament #10 (2020)** (***OIT 2020***) was an Indonesian 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, 4 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool, 2 months of osu!supporter |
 
-![Profile badge](img/badge.jpg)
+![](img/badge.jpg "OIT 2020 winner badge")
 
-## Organization
+## Organisation
 
 The OIT 2020 was run by various Indonesian osu! community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) |
 | Co-host | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825) |
-| Map selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
+| Mappool selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
 | Streamer | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Alice Pi](https://osu.ppy.sh/users/8787324), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
 | Commentator | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Kirinagi](https://osu.ppy.sh/users/5937545), ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988), ![][flag_ID] [Velstadt](https://osu.ppy.sh/users/6209095), ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) |
 | Referee | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Extinction666](https://osu.ppy.sh/users/5472877), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773) |
@@ -60,7 +60,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ## Podium
 
-![Champion: Skydiver, 2nd place: Fuma, 3rd place: Rexeez](img/podium.jpg)
+![](img/podium.jpg "OIT 2020 podium")
 
 ## Mappools
 
@@ -404,7 +404,7 @@ Friday, 6 March 2020:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[Alan-](https://osu.ppy.sh/users/8937198)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919) | [#1](https://osu.ppy.sh/community/matches/58961660) |
-| Upper | **[Fuma](https://osu.ppy.sh/community/matches/58963886)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | [#1](https://osu.ppy.sh/community/matches/58963886) |
+| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | [#1](https://osu.ppy.sh/community/matches/58963886) |
 
 Saturday, 7 March 2020:
 
@@ -453,9 +453,9 @@ Monday, 9 March 2020:
 10. Lag is not a valid reason to nullify a map.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
-    - If participants try to provoke other participants, participants who start the provocation will be reported to the OIT staff and may be blacklisted in the future installments of OIT.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of OIT.
-    - If there is anyone try to play as the participants, their account will be blacklisted in the next installment of OIT for both participant and the helper.
+    - If participants try to provoke other participants, participants who start the provocation will be reported to the OIT staff and may be blacklisted in the future instalments of OIT.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next instalment of OIT.
+    - If there is anyone try to play as the participants, their account will be blacklisted in the next instalment of OIT for both participant and the helper.
 
 ### Qualifier rules
 
@@ -484,7 +484,7 @@ Monday, 9 March 2020:
 
 ### Match regulations
 
-1. Each player must use `!roll` once in #multiplayer in order to determine the banning and picking order.
+1. Each player must use `!roll` once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide the second and third ban as well as the first pick of the match.
    - The loser of the `!roll` gets to decide the first and fourth pick of the match.
    - This rule does not apply in the Qualifier lobbies.

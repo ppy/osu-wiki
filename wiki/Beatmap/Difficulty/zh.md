@@ -59,7 +59,7 @@ outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
 
 ## 星级评定
 
-![星级评定范围](img/SR-range.png)
+![星级评定范围](/wiki/shared/star-rating/spectrum.png)
 
 在官网上，基于星级评定的范围，谱面会被自动给予一个不同的难度图标：
 

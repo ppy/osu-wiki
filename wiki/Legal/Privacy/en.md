@@ -6,7 +6,7 @@ legal: true
 
 Last Updated 16th April 2021. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
-In addition to this policy, please also make sure to visit and understand our [Terms of Service](https://osu.ppy.sh/legal/terms).
+In addition to this policy, please also make sure to visit and understand our [Terms of Service](/wiki/Legal/Terms).
 
 ## Introduction
 
@@ -18,7 +18,7 @@ In order to offer these services to you, we must often collect, store and transm
 
 This document aims to describe what information we collect on our network and in the use of our products and services, how we use that information and what options we offer you to control your personal information.
 
-By using our service, you confirm that you have read and understood the [Terms of Service](https://osu.ppy.sh/legal/terms) and this privacy policy, including how and why we use your information and that your use of the service is subject to the applicable Terms of Service and this Privacy Policy. If you do not want us to collect or process your personal information as described herein, you have several choices including limiting the information we collect on you, or not using the Network, or our Products and Services.
+By using our service, you confirm that you have read and understood the [Terms of Service](/wiki/Legal/Terms) and this privacy policy, including how and why we use your information and that your use of the service is subject to the applicable Terms of Service and this Privacy Policy. If you do not want us to collect or process your personal information as described herein, you have several choices including limiting the information we collect on you, or not using the Network, or our Products and Services.
 
 ## Information we collect
 
@@ -56,7 +56,7 @@ As an example, if you upload a beatmap and it is "ranked", it becomes the basis 
 
 When connecting to our service from the osu! game client, a client-specific string is submitted to help us identify your current play environment. It is created based off a combination of identifiers from your hardware and software configuration and hashed in such a way that it contains no personally identifiable information, but can be used to track your access across logins to our service.
 
-The main purpose of this is to maintain a fair ranking system and help us enforce account security should your account be accessed from a compromised location. This is considered private and only stored as long as it is deemed relevant. It is also non-transferrable, and has no meaning outside the osu! ecosystem.
+The main purpose of this is to maintain a fair ranking system and help us enforce account security should your account be accessed from a compromised location. This is considered private and only stored as long as it is deemed relevant. It is also non-transferable, and has no meaning outside the osu! ecosystem.
 
 ### On playing the game and submitting a score
 

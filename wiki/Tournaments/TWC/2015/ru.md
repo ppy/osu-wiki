@@ -1,7 +1,7 @@
 ---
 tags:
-- TWC 2015
-- TWC2015
+  - TWC 2015
+  - TWC2015
 outdated: true
 ---
 
@@ -42,8 +42,6 @@ outdated: true
 | Комментаторы | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Статистик | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Участники
 
 **Due to the massive new registrations, the rosters will be redecided by many captains. Please wait until the 23rd February 2015 to check out the new finalized rosters!**
@@ -51,9 +49,7 @@ outdated: true
 ## Ссылки
 
 - [Тема на форуме](https://osu.ppy.sh/community/forums/topics/279723)
-- [osu! Taiko World Cup 2015 на Twitch](https://www.twitch.tv/osulive/)
-
----
+- [osu! Taiko World Cup 2015 на Twitch](https://www.twitch.tv/osulive)
 
 ## Правила
 
@@ -112,7 +108,7 @@ outdated: true
 4. Первые две команды в каждой группе проходят в следующий этап.
    1. В зависимости от количества команд, возможны изменения.
 
-5. Дальнейшие этапы проводятся по [системе с двойным утешением](https://ru.wikipedia.com/Олимпийская_система_с_выбыванием_после_двух_поражений): выигравшая команда переходит в следующий этап, проигравшая попадает в сетку проигравших.
+5. Дальнейшие этапы проводятся по [системе с двойным утешением](https://ru.wikipedia.org/wiki/Олимпийская_система_с_выбыванием_после_двух_поражений): выигравшая команда переходит в следующий этап, проигравшая попадает в сетку проигравших.
 
 6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
@@ -138,7 +134,7 @@ outdated: true
 3. Каждый капитан должен исключить из списка возможных карт две, которые будет запрещено выбирать в течение всего матча.
    1. Оба запрета должны быть использованы всегда.
 4. Право выбора карты будет передаваться между капитанами по очереди.
-5. Каждый капитан должен использовать `!roll` в \#multiplayer по одному разу.
+5. Каждый капитан должен использовать `!roll` в `#multiplayer` по одному разу.
    1. Победитель начинает выбирать первую карту матча.
    2. Проигравший выбирает две запрещённые карты.
 6. Капитаны могут свободно выбирать карты из любой сетки.
@@ -168,10 +164,10 @@ outdated: true
 4. За составление расписания отвечают менеджеры турнира. Расписания будут публиковаться в последнее воскресенье перед текущим этапом и по возможности будут составлены с учётом часовых поясов участников.
 5. Капитаны ответственны за явку игроков. Если команда не сможет предоставить трёх игроков для участия в матче, ей будет засчитано техническое поражение.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
+[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
+[flag_ES]: /wiki/shared/flag/ES.gif "Испания"
+[flag_FR]: /wiki/shared/flag/FR.gif "Франция"
+[flag_JP]: /wiki/shared/flag/JP.gif "Япония"
+[flag_PL]: /wiki/shared/flag/PL.gif "Польша"
+[flag_US]: /wiki/shared/flag/US.gif "Соединённые Штаты Америки"

@@ -8,11 +8,9 @@ tags:
 
 # osu! UK Tournament 5
 
-## Introduction
-
 The **osu! UK tournament 5** (***OUKT5***) was a ![][flag_GB] United Kingdom mixed elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 5th and final iteration of the **osu! UK Tournament** (***OUKT***) series, it was succeeded by the UK Community Cup (UKCC).
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -35,21 +33,21 @@ OUKT5 was run by various community members
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
-| Draw Master | ![][flag_GB] [Mollerz](https://osu.ppy.sh/users/1820042) |
-| Referees | ![][flag_BE] [Ascension](https://osu.ppy.sh/users/9511483), ![][flag_GB] [Lemonosity](https://osu.ppy.sh/users/5668221), ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176), ![][flag_SG] [Histoire](https://osu.ppy.sh/users/3801463), ![][flag_GB] [Churcheell](https://osu.ppy.sh/users/2585115), ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), ![][flag_GB] [yamikarasu](https://osu.ppy.sh/users/4422446), ![][flag_DE] [Cray](https://osu.ppy.sh/users/1350338), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) |
+| Draw master | ![][flag_GB] [Mollerz](https://osu.ppy.sh/users/1820042) |
+| Referee | ![][flag_BE] [Ascension](https://osu.ppy.sh/users/9511483), ![][flag_GB] [Lemonosity](https://osu.ppy.sh/users/5668221), ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176), ![][flag_SG] [Histoire](https://osu.ppy.sh/users/3801463), ![][flag_GB] [Churcheell](https://osu.ppy.sh/users/2585115), ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), ![][flag_GB] [yamikarasu](https://osu.ppy.sh/users/4422446), ![][flag_DE] [Cray](https://osu.ppy.sh/users/1350338), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) |
 | Streamer | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Helix](https://osu.ppy.sh/users/3322597) |
-| Map Selectors | ![][flag_AT] [Alumetorz](https://osu.ppy.sh/users/1145984), ![][flag_DE] [Jenny](https://osu.ppy.sh/users/579428) |
+| Mappool selector | ![][flag_AT] [Alumetorz](https://osu.ppy.sh/users/1145984), ![][flag_DE] [Jenny](https://osu.ppy.sh/users/579428) |
 | Commentators | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Soap755](https://osu.ppy.sh/users/4867721), ![][flag_GB] [Churcheell](https://osu.ppy.sh/users/2585115) |
-| Backup Help | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) |
+| Backup help | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) |
 
 ## Links
 
 - [Fourm thread](https://osu.ppy.sh/community/forums/topics/363250)
-- [RO128/64 Challonge page](https://challonge.com/OUKT5 "Challonge")
-- [Groups Stage + Finals Challonge page](https://challonge.com/oukt5finals "Challonge")
-- [Livestream](http://www.twitch.tv/oukt3 "Twitch")
-- [Mappool Spreadshet](https://docs.google.com/spreadsheets/d/1K7pliGqIofU3Vj66RTNPdhF6Zbhnn_nkRhyRhad8RBg/edit?usp=sharing "Google Sheets")
-- [Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1KgigrN2NPd8sCa3XIKIkcOjToHb4umYcQFtV3S3Wx58/edit#gid=511911619 "Google Sheets")
+- [RO128/64 Challonge page](https://challonge.com/OUKT5)
+- [Groups Stage + Finals Challonge page](https://challonge.com/oukt5finals)
+- [Livestream](http://www.twitch.tv/oukt3)
+- [Mappool Spreadshet](https://docs.google.com/spreadsheets/d/1K7pliGqIofU3Vj66RTNPdhF6Zbhnn_nkRhyRhad8RBg/edit?usp=sharing)
+- [Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1KgigrN2NPd8sCa3XIKIkcOjToHb4umYcQFtV3S3Wx58/edit#gid=511911619)
 
 ## Podium
 
@@ -65,7 +63,7 @@ OUKT5 was run by various community members
 
 **[Download the mappack here! (264 MB)](https://drive.google.com/open?id=1Y5J4MJS7ikxjUVOfNgsOx10Qe-d8pIJY)**
 
-- Nomod
+- NoMod
   - [kemu - Kamisama Nejimaki (Regou) \[Mahua\]](https://osu.ppy.sh/beatmapsets/104506#osu/282470)
   - [goreshit - burn this moment into the retina of my eye (grumd) \[extra\]](https://osu.ppy.sh/beatmapsets/359890#osu/791274)
   - [Demetori - Faith is for the Transient People \~ Jehovah's YaHVeH (GoldenWolf) \[woof\]](https://osu.ppy.sh/beatmapsets/127935#osu/324249)
@@ -107,7 +105,7 @@ OUKT5 was run by various community members
 
 **[Download the mappack here! (183 MB)](https://drive.google.com/open?id=1dGJw6KCUIKHsRGLxLLnXuTlpz03m6dvx)**
 
-- Nomod
+- NoMod
   - [USAO - Miracle 5ympho X (Extended Mix) (RLC) \[5ympho XtrA\]](https://osu.ppy.sh/beatmapsets/230739#osu/536476)
   - [ESTi - HELIX (Edit ver.) (Hollow Wings) \[fanzhen's EX\]](https://osu.ppy.sh/beatmapsets/194910#osu/467821)
   - [ZUN remixed by LeaF - Resurrection Spell (Muya) \[VOLCANO\]](https://osu.ppy.sh/beatmapsets/292644#osu/658561)
@@ -139,7 +137,7 @@ OUKT5 was run by various community members
 
 **[Download the mappack here! (121 MB)](https://drive.google.com/open?id=1AzYSM_YSDP_RGwZUHEGIU2IMJM9mhSK9)**
 
-- Nomod
+- NoMod
   - [Renard - Smoke Tower (Priti) \[Trauma\]](https://osu.ppy.sh/beatmapsets/135596#osu/339640)
   - [Kano - Six trillion years and overnight story (StarforYou) \[OverNight\]](https://osu.ppy.sh/beatmapsets/240926#osu/556638)
   - [Camellia - Kono Hoshi de.... (Snow Note) \[Another\]](https://osu.ppy.sh/beatmapsets/106693#osu/280034)
@@ -169,7 +167,7 @@ OUKT5 was run by various community members
 
 **[Download the mappack here! (146 MB)](https://drive.google.com/open?id=1eWmXHTWNKhI1hpiqlXV5TluK1DQOUX_o)**
 
-- Nomod
+- NoMod
   - [Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/121635#osu/311573)
   - [Hiroyuki Sawano feat. Mika Kobayashi - Bios (goodbye) \[LKs' Another\]](https://osu.ppy.sh/beatmapsets/43674#osu/137766)
   - [M2U - Placebo Dying (AngelHoney) \[Extra\]](https://osu.ppy.sh/beatmapsets/60081#osu/179758)
@@ -199,7 +197,7 @@ OUKT5 was run by various community members
 
 **[Download the mappack here! (161 MB)](https://drive.google.com/open?id=1OahazD7ZUUlTKW1W64DXRU2Hc1dm0Zcq)**
 
-- Nomod
+- NoMod
   - [dj TAKA - Hollywood Galaxy (Megurine Luka) \[Extreme\]](https://osu.ppy.sh/beatmapsets/48196#osu/150116)
   - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (7odoa) \[Insane\]](https://osu.ppy.sh/beatmapsets/30485#osu/100627)
   - [Function Phantom - Neuronecia (Amamiya Yuko) \[Ethereal\]](https://osu.ppy.sh/beatmapsets/186911#osu/541990)
@@ -227,7 +225,7 @@ OUKT5 was run by various community members
 
 **[Download the mappack here! (126 MB)](https://drive.google.com/open?id=1g6bm1niVitDXfT77lFxEfk3xJLg9bO8B)**
 
-- Nomod
+- NoMod
   - [Lapfox Trax feat. guilhox - Lapfoxed Forever (Blue Dragon) \[Nogard\]](https://osu.ppy.sh/beatmapsets/59521#osu/178353)
   - [M2U - Nightmare (Kloyd) \[MX\]](https://osu.ppy.sh/beatmapsets/88616#osu/241431)
   - [Nanahira - Monosugoi Ikioide Keine ga Monosugoi Uta (kamisamaa) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/130092#osu/333074)
@@ -253,7 +251,7 @@ OUKT5 was run by various community members
 
 **[Download the mappack here! (97 MB)](https://drive.google.com/open?id=1gFGhx8ssb_HDJFLbrtnXtHyvik6smSOy)**
 
-- Nomod
+- NoMod
   - [Last Note. - Caramel Heaven (Snepif) \[Heaven\]](https://osu.ppy.sh/beatmapsets/90095#osu/244691)
   - [Eagle - S!ck (tsuka) \[Extra\]](https://osu.ppy.sh/beatmapsets/84014#osu/341285)
   - [DM Ashura - Classical Insanity (Louis Cyphre) \[Presto\]](https://osu.ppy.sh/beatmapsets/79149#osu/221677)
@@ -279,7 +277,7 @@ OUKT5 was run by various community members
 
 **[Download the mappack here! (98 MB)](https://drive.google.com/open?id=1XnorV8A2Osi9gc6QQbuM38rHYYPDhAUk)**
 
-- Nomod
+- NoMod
   - [wa. remixed celas - Crystal World \~Fracture\~ (Mr Color) \[Extra\]](https://osu.ppy.sh/beatmapsets/62962#osu/186407)
   - [BiBi - Cutie Panther (happy623) \[Insane\]](https://osu.ppy.sh/beatmapsets/152112#osu/374574)
   - [Pierce The Veil - King For A Day (feat Kellin Quinn) (Pishifat) \[Insane\]](https://osu.ppy.sh/beatmapsets/297909#osu/669570)
@@ -301,7 +299,7 @@ OUKT5 was run by various community members
 - Tiebreaker
   - **[Traktion - The Near Distant Future (RLC) \[Lapse\]](https://osu.ppy.sh/beatmapsets/97433#osu/260489)**
 
-## Match Results
+## Match results
 
 ### Grand Final
 
@@ -328,7 +326,7 @@ Saturday, 31 October 2015 & Sunday, 1 November 2015
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
 | WBF | kakiage ![][flag_GB] | 2 | **6** | ![][flag_GB] **bahamete** | |
-| LR4 | **Cozzzy** ![][flag_GB] | **1** | 0 | ![][flag_GB] Jameslike | Forfeit |
+| LR4 | **Cozzzy** ![][flag_GB] | **1** | 0 | ![][flag_GB] Jameslike | *forfeit* |
 | LR4 | **Doomsday** ![][flag_GB] | **5** | 1 | ![][flag_GB] Bubbleman | |
 
 ### Semifinals & Losers Bracket 3
@@ -355,7 +353,7 @@ Saturday, 17 October 2015 & Sunday, 18 October 2015
 | LR2 | Castiel ![][flag_GB] | 3 | **5** | ![][flag_GB] **Jameslike** | |
 | LR2 | ariflare ![][flag_GB] | 2 | **5** | ![][flag_GB] Kardet | |
 | LR2 | Run-Cat ![][flag_GB] | 2 | **5** | ![][flag_GB] **Bubbleman** | |
-| LR2 | Volcanism ![][flag_GB] | 0 | **1** | ![][flag_GB] **Helix** | Forfeit |
+| LR2 | Volcanism ![][flag_GB] | 0 | **1** | ![][flag_GB] **Helix** | *forfeit* |
 
 ### Round of 16 & Losers Round 1
 
@@ -364,19 +362,19 @@ Saturday, 10 October 2015 & Sunday, 11 October 2015
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
 | RO16 | **Volcanism** ![][flag_GB] | **4** | 2 | ![][flag_GB] DivineAscension | |
-| RO16 | Jameslike ![][flag_GB] | 0 | **1** | ![][flag_GB] **Cozzzy** | Forfeit |
+| RO16 | Jameslike ![][flag_GB] | 0 | **1** | ![][flag_GB] **Cozzzy** | *forfeit* |
 | RO16 | Kardet ![][flag_GB] | 2 | **4** | ![][flag_GB] **Run-Cat** | |
-| RO16 | **Kakiage** ![][flag_GB] | **1** | 0 | ![][flag_GB] L britt | Forfeit |
+| RO16 | **Kakiage** ![][flag_GB] | **1** | 0 | ![][flag_GB] L britt | *forfeit* |
 | RO16 | **bahamete** ![][flag_GB] | **4** | 3 | ![][flag_GB] Bubbleman | |
-| RO16 | Sway ![][flag_GB] | 0 | **1** | ![][flag_GB] **ariflare** | Forfeit |
+| RO16 | Sway ![][flag_GB] | 0 | **1** | ![][flag_GB] **ariflare** | *forfeit* |
 | RO16 | **Doomsday** ![][flag_GB] | **4** | 1 | ![][flag_GB] Helix | |
-| RO16 | Sniperhappy ![][flag_GB] | 0 | **1** | ![][flag_GB] **Castiel** | Forfeit |
+| RO16 | Sniperhappy ![][flag_GB] | 0 | **1** | ![][flag_GB] **Castiel** | *forfeit* |
 | LR1 | DivineAscension ![][flag_GB] | 0 | **4** | ![][flag_GB] Jameslike | |
-| LR1 | **Kardet** ![][flag_GB] | **1** | 0 | ![][flag_GB] L britt | Forfeit |
-| LR1 | **Bubbleman** ![][flag_GB] | **1** | 0 | ![][flag_GB] Sway | Forfeit |
-| LR1 | **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] Sniperhappy | Forfeit |
+| LR1 | **Kardet** ![][flag_GB] | **1** | 0 | ![][flag_GB] L britt | *forfeit* |
+| LR1 | **Bubbleman** ![][flag_GB] | **1** | 0 | ![][flag_GB] Sway | *forfeit* |
+| LR1 | **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] Sniperhappy | *forfeit* |
 
-### Round of 32 (Group Stage)
+### Round of 32 (Group stage)
 
 Saturday, 26 September 2015 & Sunday, 27 September 2015
 
@@ -414,7 +412,7 @@ Saturday, 26 September 2015 & Sunday, 27 September 2015
 
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
-| SF1 | Jesus1412 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Kakiage** | Forfeit |
+| SF1 | Jesus1412 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Kakiage** | *forfeit* |
 | SF2 | MrSisterFister ![][flag_GB] | 2 | **3** | ![][flag_GB] **Helix** | |
 | WBF | **Kakiage** ![][flag_GB] | **3** | 2 | ![][flag_GB] Helix | |
 | LR1 | **Jesus1412** ![][flag_GB] | **3** | 1 | ![][flag_GB] MrSisterFister | |
@@ -424,11 +422,11 @@ Saturday, 26 September 2015 & Sunday, 27 September 2015
 
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
-| SF1 | \[AOTN\] ![][flag_GB] | 0 | **1** | ![][flag_GB] **Sniperhappy** | Forfeit |
-| SF2 | Bradley ![][flag_GB] | 0 | **1** | ![][flag_GB] **L britt** | Forfeit |
+| SF1 | \[AOTN\] ![][flag_GB] | 0 | **1** | ![][flag_GB] **Sniperhappy** | *forfeit* |
+| SF2 | Bradley ![][flag_GB] | 0 | **1** | ![][flag_GB] **L britt** | *forfeit* |
 | WBF | **Sniperhappy** ![][flag_GB] | **3** | 1 | ![][flag_GB] L britt | |
-| LR1 | \[AOTN\] ![][flag_GB] | 0 | 0 | ![][flag_GB] Bradley | Both Forfeit |
-| LR2 | **L britt** ![][flag_GB] | **1** | 0 | ![][flag_GB] Bradley | Forfeit |
+| LR1 | \[AOTN\] ![][flag_GB] | 0 | 0 | ![][flag_GB] Bradley | *both forfeit* |
+| LR2 | **L britt** ![][flag_GB] | **1** | 0 | ![][flag_GB] Bradley | *forfeit* |
 
 #### Group F
 
@@ -447,17 +445,17 @@ Saturday, 26 September 2015 & Sunday, 27 September 2015
 | SF1 | Rotom ![][flag_GB] | 1 | **3** | ![][flag_GB] **Volcanism** | |
 | SF2 | Moose ![][flag_GB] | 0 | **3** | ![][flag_GB] **DivineAscension** | |
 | WBF | **Volcanism** ![][flag_GB] | **3** | 1 | ![][flag_GB] DivineAscension | |
-| LR1 | Rotom ![][flag_GB] | 0 | **1** | ![][flag_GB] **Moose** | Forfeit |
+| LR1 | Rotom ![][flag_GB] | 0 | **1** | ![][flag_GB] **Moose** | *forfeit* |
 | LR2 | **DivineAscension** ![][flag_GB] | **3** | 1 | ![][flag_GB] Moose | |
 
 #### Group H
 
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
-| SF1 | **Castiel** ![][flag_GB] | **1** | 0 | ![][flag_GB] Edd | Forfeit |
+| SF1 | **Castiel** ![][flag_GB] | **1** | 0 | ![][flag_GB] Edd | *forfeit* |
 | SF2 | **Kardet** ![][flag_GB] | **3** | 1 | ![][flag_GB] Ecliptus | |
 | WBF | Castiel ![][flag_GB] | 2 | **3** | ![][flag_GB] **Kardet** | |
-| LR1 | Edd ![][flag_GB] | 0 | **1** | ![][flag_GB] **Ecliptus** | Forfeit |
+| LR1 | Edd ![][flag_GB] | 0 | **1** | ![][flag_GB] **Ecliptus** | *forfeit* |
 | LR2 | **Castiel** ![][flag_GB] | **3** | 0 | ![][flag_GB] Ecliptus | |
 
 ### Round of 64
@@ -468,13 +466,13 @@ Saturday, 19 September 2015 & Sunday, 20 September 2015
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **3** | 2 | ![][flag_GB] Jimbot | |
 | shivo ![][flag_GB] | 0 | **3** | ![][flag_GB] **Kakiage** | |
-| Jimzzyyy ![][flag_GB] | 0 | **1** | ![][flag_GB] **Sniperhappy** | Forfeit |
+| Jimzzyyy ![][flag_GB] | 0 | **1** | ![][flag_GB] **Sniperhappy** | *forfeit* |
 | 001thefish ![][flag_GB] | 0 | **3** | ![][flag_GB] **Sam** | |
 | **Bradley** ![][flag_GB] | **3** | 2 | ![][flag_GB] ShadowBea5t | |
 | Suzumiya-H ![][flag_GB] | 1 | **3** | ![][flag_GB] **Volcanism** | |
 | **Ecliptus** ![][flag_GB] | **3** | 0 | ![][flag_GB] \[ Emperor \] | |
 | **ariflare** ![][flag_GB] | **3** | 0 | ![][flag_GB] orbin nyanpasu | |
-| **\[AOTN\]** ![][flag_GB] | **1** | 0 | ![][flag_GB] Zafkiel | Forfeit |
+| **\[AOTN\]** ![][flag_GB] | **1** | 0 | ![][flag_GB] Zafkiel | *forfeit* |
 | **L britt** ![][flag_GB] | **3** | 2 | ![][flag_GB] Jerome | |
 | Misti ![][flag_GB] | 2 | **3** | ![][flag_GB] **Cozzzy** | |
 | **\[CloudSerpent\]** ![][flag_GB] | **3** | 1 | ![][flag_GB] -MoeYandere- | |
@@ -484,14 +482,14 @@ Saturday, 19 September 2015 & Sunday, 20 September 2015
 | **Rotom** ![][flag_GB] | **3** | 2 | ![][flag_GB] lovu | |
 | **Jameslike** ![][flag_GB] | **3** | 0 | ![][flag_GB] The Fetish | |
 | **Snookie** ![][flag_GB] | **3** | 1 | ![][flag_GB] Xim | |
-| **Mahiro Yasaka** ![][flag_GB] | **1** | 0 | ![][flag_GB] Wookiezi | Forfeit |
-| **Blind** ![][flag_GB] | **1** | 0 | ![][flag_GB] Could This Be | Forfeit |
+| **Mahiro Yasaka** ![][flag_GB] | **1** | 0 | ![][flag_GB] Wookiezi | *forfeit* |
+| **Blind** ![][flag_GB] | **1** | 0 | ![][flag_GB] Could This Be | *forfeit* |
 | **MrSisterFister** ![][flag_GB] | **3** | 0 | ![][flag_GB] adam2keva9 | |
 | **Edd** ![][flag_GB] | **3** | 1 | ![][flag_GB] Boisty | |
 | **Helix** ![][flag_GB] | **3** | 1 | ![][flag_GB] Laplace | |
-| Dream. ![][flag_GB] | 0 | **1** | ![][flag_GB] **Jesus1412** | Forfeit |
+| Dream. ![][flag_GB] | 0 | **1** | ![][flag_GB] **Jesus1412** | *forfeit* |
 | **Castiel** ![][flag_GB] | **3** | 2 | ![][flag_GB] Scootawoo | |
-| YunoWhoItIs ![][flag_GB] | 0 | **1** | ![][flag_GB] Rime | Forfeit |
+| YunoWhoItIs ![][flag_GB] | 0 | **1** | ![][flag_GB] Rime | *forfeit* |
 | **Bubbleman** ![][flag_GB] | **3** | 2 | ![][flag_GB] Double Time | |
 | IEatCookies ![][flag_GB] | 2 | **3** | ![][flag_GB] **Kardet** | |
 | **R a h a r u** ![][flag_GB] | **3** | 1 | ![][flag_GB] Jeanzy | |
@@ -510,19 +508,19 @@ Saturday, 12 September 2015 & Sunday, 13 September 2015
 | **shivo** ![][flag_GB] | **3** | 0 | ![][flag_GB] Hydria | |
 | casmith789 ![][flag_GB] | 2 | **3** | ![][flag_GB] **Kakiage** | |
 | **Jimzzyyy** ![][flag_GB] | **3** | 1 | ![][flag_GB] yamikarasu | |
-| **Sniperhappy** ![][flag_GB] | **1** | 0 | ![][flag_GB] Tune | Forfeit |
+| **Sniperhappy** ![][flag_GB] | **1** | 0 | ![][flag_GB] Tune | *forfeit* |
 | -Panda- ![][flag_GB] | 0 | **3** | ![][flag_GB] **001thefish** | |
 | ItsTrydamere ![][flag_GB] | 1 | **3** | ![][flag_GB] **Sam** | |
-| **Bradley** ![][flag_GB] | **1** | 0 | ![][flag_GB] Rubix | Forfeit |
+| **Bradley** ![][flag_GB] | **1** | 0 | ![][flag_GB] Rubix | *forfeit* |
 | **ShadowBea5t** ![][flag_GB] | **3** | 0 | ![][flag_GB] koiishi | |
 | Cheesecake ![][flag_GB] | 1 | **3** | ![][flag_GB] **Suzumiya-H** | |
-| DeviousPanda ![][flag_GB] | 0 | **1** | ![][flag_GB] **Volcanism** | Forfeit |
-| **Ecliptus** ![][flag_GB] | **1** | 0 | ![][flag_GB] Cornfield | Forfeit |
-| Shunix ![][flag_GB] | 0 | **1** | ![][flag_GB] **\[ Emperor \]** | Forfeit |
+| DeviousPanda ![][flag_GB] | 0 | **1** | ![][flag_GB] **Volcanism** | *forfeit* |
+| **Ecliptus** ![][flag_GB] | **1** | 0 | ![][flag_GB] Cornfield | *forfeit* |
+| Shunix ![][flag_GB] | 0 | **1** | ![][flag_GB] **\[ Emperor \]** | *forfeit* |
 | **ariflare** ![][flag_GB] | **3** | 1 | ![][flag_GB] Syrus | |
-| **orbin nyanpasu** ![][flag_GB] | **1** | 0 | ![][flag_GB] Im not Green | Forfeit |
+| **orbin nyanpasu** ![][flag_GB] | **1** | 0 | ![][flag_GB] Im not Green | *forfeit* |
 | **\[AOTN\]** ![][flag_GB] | **3** | 0 | ![][flag_GB] Corey-Kun | |
-| dagothur13 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Zafkiel** | Forfeit |
+| dagothur13 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Zafkiel** | *forfeit* |
 | **L britt** ![][flag_GB] | **3** | 0 | ![][flag_GB] Vapor | |
 | Rolf Harris ![][flag_GB] | 1 | **3** | ![][flag_GB] **Jerome** | |
 | **Misti** ![][flag_GB] | **3** | 1 | ![][flag_GB] samlu1999 | |
@@ -531,7 +529,7 @@ Saturday, 12 September 2015 & Sunday, 13 September 2015
 | -Day ![][flag_GB] | 1 | **3** | ![][flag_GB] **-MoeYandere-** | |
 | **Moose** ![][flag_GB] | **3** | 0 | ![][flag_GB] Epicbearddarf | |
 | Zweihander- ![][flag_GB] | 1 | **3** | ![][flag_GB] **Hype** | |
-| **Velocimactor** ![][flag_GB] | **1** | 0 | ![][flag_GB] Adie | Forfeit |
+| **Velocimactor** ![][flag_GB] | **1** | 0 | ![][flag_GB] Adie | *forfeit* |
 | Netherax ![][flag_GB] | 1 | **3** | ![][flag_GB] **Ascension** | |
 | **Run-Cat** ![][flag_GB] | **3** | 0 | ![][flag_GB] Yusomi | |
 | Subsonix ![][flag_GB] | 1 | **3** | ![][flag_GB] **bandofponies** | |
@@ -542,37 +540,65 @@ Saturday, 12 September 2015 & Sunday, 13 September 2015
 | djsettle ![][flag_GB] | 2 | **3** | ![][flag_GB] **Snookie** | |
 | - Triangle - ![][flag_GB] | 1 | **3** | ![][flag_GB] **Xim** | |
 | vidya ![][flag_GB] | 1 | **3** | ![][flag_GB] **Mahiro Yasaka** | |
-| KawaiiKupcake ![][flag_GB] | 0 | **1** | ![][flag_GB] **Wookiezi** | Forfeit |
+| KawaiiKupcake ![][flag_GB] | 0 | **1** | ![][flag_GB] **Wookiezi** | *forfeit* |
 | zero12555 ![][flag_GB] | 2 | **3** | ![][flag_GB] **Blind** | |
 | Taiitoo ![][flag_GB] | 1 | **3** | ![][flag_GB] **Could This Be** | |
 | **MrSisterFister** ![][flag_GB] | **3** | 1 | ![][flag_GB] Soap755 | |
 | **adam2keva9** ![][flag_GB] | **3** | 0 | ![][flag_GB] ChinesePerson | |
 | **Edd** ![][flag_GB] | **3** | 1 | ![][flag_GB] Mat | |
-| **Boisty** ![][flag_GB] | **1** | 0 | ![][flag_GB] Woffel | Forfeit |
-| **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] Dminic | Forfeit |
+| **Boisty** ![][flag_GB] | **1** | 0 | ![][flag_GB] Woffel | *forfeit* |
+| **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] Dminic | *forfeit* |
 | xendran ![][flag_GB] | 1 | **3** | ![][flag_GB] **Laplace** | |
-| ILykPurple ![][flag_GB] | 0 | **1** | ![][flag_GB] **Dream.** | Forfeit |
+| ILykPurple ![][flag_GB] | 0 | **1** | ![][flag_GB] **Dream.** | *forfeit* |
 | Zardocbeats ![][flag_GB] | 0 | **3** | ![][flag_GB] **Jesus1412** | |
 | **Castiel** ![][flag_GB] | **3** | 2 | ![][flag_GB] Hokchris | |
-| **Scootawoo** ![][flag_GB] | **1** | 0 | ![][flag_GB] Doggywoof | Forfeit |
+| **Scootawoo** ![][flag_GB] | **1** | 0 | ![][flag_GB] Doggywoof | *forfeit* |
 | **YunoWhoItIs** ![][flag_GB] | **3** | 1 | ![][flag_GB] Yordaan | |
 | PoisonPanda ![][flag_GB] | 0 | **3** | ![][flag_GB] **Rime** | |
 | **Bubbleman** ![][flag_GB] | **3** | 1 | ![][flag_GB] will1b | |
 | Vaidas ![][flag_GB] | 1 | **3** | ![][flag_GB] **Double Time** | |
 | Churcheell ![][flag_GB] | 2 | **3** | ![][flag_GB] **IEatCookies** | |
 | Luna-Bear ![][flag_GB] | 0 | **3** | ![][flag_GB] **Kardet** | |
-| **R a h a r u** ![][flag_GB] | **1** | 0 | ![][flag_GB] regafu | Forfeit |
+| **R a h a r u** ![][flag_GB] | **1** | 0 | ![][flag_GB] regafu | *forfeit* |
 | Lord Benpai ![][flag_GB] | 0 | **3** | ![][flag_GB] **Jeanzy** | |
-| ifailedatlife ![][flag_GB] | 0 | **1** | ![][flag_GB] **Earya** | Forfeit |
+| ifailedatlife ![][flag_GB] | 0 | **1** | ![][flag_GB] **Earya** | *forfeit* |
 | **DivineAscension** ![][flag_GB] | **3** | 1 | ![][flag_GB] Freezing | |
 | **Sway** ![][flag_GB] | **3** | 0 | ![][flag_GB] litejason | |
 | Kyou ![][flag_GB] | 0 | **3** | ![][flag_GB] **-Mo-** | |
-| Pidgy ![][flag_GB] | 0 | **1** | ![][flag_GB] **Justify** | Forfeit |
+| Pidgy ![][flag_GB] | 0 | **1** | ![][flag_GB] **Justify** | *forfeit* |
 | Profound Leader ![][flag_GB] | 0 | **3** | ![][flag_GB] **bahamete** | |
 
-## Tournament Structure
+## Ruleset
 
-### Round of 128 & 64
+### Tournament rules
+
+- Your rank must be lower than #30000 to play. Signups under this rank will not be considered. You must also have a UK flag to be eligible, or be able to prove your nationality is UK. Ireland flag players are permitted to signup.
+- UK staff are allowed to play.
+- The map pool will consist of Nomod, HardRock, DoubleTime, Hidden, Freemod. The mods permitted on Freemod maps are: Hidden, HardRock or Hidden + HardRock. Nomod is also permitted.
+- A player may only pick from each mod pool once.
+- If one of the players fails to show, they get a additional 10 minutes or otherwise forfeit. If neither show, the match shall be rearranged.
+- If a player experiences software or hardware issues or network issues and fails a map, rematches will be offered. They may decline this at their wish.
+- Any unexpected happenings or events not covered by the rules shall be handled by the organizer at their discretion.
+
+### Match rules
+
+- Before the start of the match, both players are given a single ban on a map from the mappool. Maps banned cannot be picked. For mod parts of the pool, both mod picks cannot be banned. (You can only ban 1 HD, 1 HR, etc.)
+- Before the official start of the match using the map pools, each player may pick 1 warm up map of their choice - this can be any submitted map, as long as it's playable (no centipede-tier maps). This does not count towards match score.
+- The game mode will be set to Team Vs.
+- The referee is not to participate in the match.
+- After the end of the match, the referee will post the title of the match and a link to the MP history of that lobby and the final match score.
+- Matches will be locked and invite only.
+- If you fail the map, it is considered as a loss.
+
+### Scheduling rules
+
+- The tournament will aim to be on the weekends, as the majority of players will be available. However, matches can be scheduled on any day dependent on availability of staff/players.
+- If you cannot play at the time posted for you, contact the organizer for a rearrangement.
+- Not showing is subject to the rules outlined in Tournament Rules.
+
+### Tournament structure
+
+#### Round of 128 & 64
 
 The tournament will have 128 players with matches consisting of Single Elimination, 1v1, Best of 5 matches. Seeding will be completed by the Draw Master, Mollerz using the following process:
 
@@ -589,7 +615,7 @@ This system will allow the top 16 seeds to not face another seed in the first tw
 
 Draws like this are used in many sports, and I have been a competitor in and organised draws such as this one shown. It works very well and varies the draws so they do not end up the same or extremely similar every single tournament.
 
-### Round of 32
+#### Round of 32
 
 The RO32 will be a Group Stage which is also seeded. This shall work as follows:
 
@@ -600,37 +626,9 @@ The RO32 will be a Group Stage which is also seeded. This shall work as follows:
 5. The loser of the Winner’s match and the winner of the Loser’s match will face each other in a fifth match.
 6. The winner gets second place in the group and advances to the Round of 16.
 
-### Round of 16 and above
+#### Round of 16 and above
 
 The RO16 onwards will be a standard Double Elimination bracket, seeded by performances in the group stage.
-
-## Ruleset
-
-### Tournament Rules
-
-- Your rank must be lower than #30000 to play. Signups under this rank will not be considered. You must also have a UK flag to be eligible, or be able to prove your nationality is UK. Ireland flag players are permitted to signup.
-- UK staff are allowed to play.
-- The map pool will consist of Nomod, HardRock, DoubleTime, Hidden, Freemod. The mods permitted on Freemod maps are: Hidden, HardRock or Hidden + HardRock. Nomod is also permitted.
-- A player may only pick from each mod pool once.
-- If one of the players fails to show, they get a additional 10 minutes or otherwise forfeit. If neither show, the match shall be rearranged.
-- If a player experiences software or hardware issues or network issues and fails a map, rematches will be offered. They may decline this at their wish.
-- Any unexpected happenings or events not covered by the rules shall be handled by the organizer at their discretion.
-
-### Match Rules
-
-- Before the start of the match, both players are given a single ban on a map from the mappool. Maps banned cannot be picked. For mod parts of the pool, both mod picks cannot be banned. (You can only ban 1 HD, 1 HR, etc.)
-- Before the official start of the match using the map pools, each player may pick 1 warm up map of their choice - this can be any submitted map, as long as it's playable (no centipede-tier maps). This does not count towards match score.
-- The game mode will be set to Team Vs.
-- The referee is not to participate in the match.
-- After the end of the match, the referee will post the title of the match and a link to the MP history of that lobby and the final match score.
-- Matches will be locked and invite only.
-- If you fail the map, it is considered as a loss.
-
-### Scheduling Rules
-
-- The tournament will aim to be on the weekends, as the majority of players will be available. However, matches can be scheduled on any day dependent on availability of staff/players.
-- If you cannot play at the time posted for you, contact the organizer for a rearrangement.
-- Not showing is subject to the rules outlined in Tournament Rules.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"

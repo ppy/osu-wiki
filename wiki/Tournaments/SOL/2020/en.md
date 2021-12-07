@@ -8,7 +8,7 @@ tags:
 
 ![SOL2 logo](img/logo.jpg)
 
-**Speed of Light 2: Lucha Libre Edition** (***SOL2***) was a double-elimination 1v1 osu!mania 4-key tournament hosted by ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766). It was the second installment of the Speed of Light.
+**Speed of Light 2: Lucha Libre Edition** (***SOL2***) was a double-elimination 1v1 osu!mania 4-key tournament hosted by ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766). It was the second instalment of the Speed of Light.
 
 ## Tournament schedule
 
@@ -16,8 +16,8 @@ tags:
 | --: | :-- |
 | Registration phase | 2020-10-07/2020-10-28 |
 | Qualifiers | 2020-11-14/2020-11-15 |
-| Group Stage week 1 | 2020-11-21/2020-11-22 |
-| Group Stage week 2 | 2020-11-28/2020-11-29 |
+| Group stage week 1 | 2020-11-21/2020-11-22 |
+| Group stage week 2 | 2020-11-28/2020-11-29 |
 | Round of 32 | 2020-12-04/2020-12-06 |
 | Round of 16 | 2020-12-12/2020-12-13 |
 | Quarterfinals | 2020-12-19/2020-12-20 |
@@ -32,7 +32,7 @@ tags:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, $125 for each team member |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 for each team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $50 for each team member |
-| *4th place* | 6 months of osu!supporter tag for each team member |
+| *4th place* | 6 months of osu!supporter for each team member |
 
 ![](img/badge.jpg "SOL2 winner badge")
 
@@ -41,8 +41,8 @@ tags:
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) |
-| Map selector | ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) |
-| Map tester | ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626) |
+| Mappool selector | ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) |
+| Mappool tester | ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626) |
 | Referee | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_AU] [shnacc](https://osu.ppy.sh/users/11373924), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_US] [\[K\]](https://osu.ppy.sh/users/16551387), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595) |
 | Streamer | ![][flag_CL] [T o u c h e](https://osu.ppy.sh/users/1603962), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [sillypilly](https://osu.ppy.sh/users/10663240), ![][flag_CA] [Syako](https://osu.ppy.sh/users/8184715), ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822) |
 | Commentator | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_GB] [Young Alpha](https://osu.ppy.sh/users/15383957), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_US] [\[GS\]Croniken](https://osu.ppy.sh/users/9989041), ![][flag_US] [EtienneXC](https://osu.ppy.sh/users/5610085), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388) |
@@ -59,8 +59,6 @@ tags:
 - **[Master sheet](https://docs.google.com/spreadsheets/d/16cbh7tHxKbyGuRC7-jGY6wounw2Lp9hgG-YdpfsqYPY/edit?usp=sharing)**
 
 ## Participants
-
-### Qualified participants
 
 | Seed | Team | Members |
 | :-: | :-- | :-- |
@@ -131,7 +129,7 @@ tags:
 
 More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1J0ciAoWtGNPzzIegAMYdDoR579vjEajjgwvm5PyZUFnqZZWS1GoYaJZvIWuYh-JzqZwT0VKLvQXm/pubhtml#)
 
-### Groups
+## Groups
 
 | Group | Top | High | Low | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
@@ -279,7 +277,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[lapix - Voice of Galaxy (\_Asha) \[Overlap Hertz\]](https://osu.ppy.sh/beatmapsets/905398#mania/1889765)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [2814 - Huifu (Recovery) (Shoegazer) \[Metropolis\]](https://osu.ppy.sh/beatmapsets/1194892#mania/2489294)
@@ -444,7 +442,7 @@ Sunday, 6 December 2020:
 | **Xx\_OWO\_xX** | **5** | 2 | Winning Team | [#1](https://osu.ppy.sh/community/matches/71100862) |
 | No acc | 0 | **5** | **COME TO BRAZIL** | *win by default* |
 
-### Group Stage
+### Group stage
 
 Saturday, 21 November 2020:
 
@@ -616,7 +614,7 @@ Sunday, 29 November 2020:
    - If 127 teams enter, the 63 worst-performing teams get eliminated and the top 64 will advance to the next round.
    - If 128 teams enter, all 128 teams will qualify and no one gets eliminated.
 
-#### Group Stage
+#### Group stage
 
 1. After the qualifiers stage, the remaining teams will be divided into 4 different groups based on their seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly drawing one team from each seed group.
 2. Each team in these groups will face each other once in a Best-of-7 match (first to 4 points wins) on a mappool containing 9 freemod maps and 1 tiebreaker map.. In total, every team in the Group Stage will participate in three matches. The two best-performing teams in each group will advance to the bracket stage and the two worst-performing teams of each group will be eliminated from the tournament.

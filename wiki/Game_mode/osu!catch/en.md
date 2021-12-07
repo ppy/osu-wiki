@@ -58,7 +58,7 @@ Collecting the hyperfruit will make the catcher's dash upgraded to *hyperdash* (
 
 ## Play Styles
 
-*Refer to [Play Style page under osu!catch](/wiki/Play_style#-osu!catch).*
+*Refer to [Play Style page under osu!catch](/wiki/Play_style#osu!catch).*
 
 ## Controls
 
@@ -74,7 +74,7 @@ The placement of in-game cursor does not matter when playing normally. If [Relax
 
 ## Scoring
 
-*Scoring Values can be found in [Score under osu!catch Scoring Values section](/wiki/Score#osu!catch).*
+*Scoring values can be found in [osu!catch scoring system](/wiki/Score/osu!catch).*
 
 Scoring section details all the intricacies of scoring, including mathematical formula.
 
@@ -203,7 +203,7 @@ The system used to calculate health drain and health gain is complicated so it w
 - If `Hit-error` was enabled, it will always use `Colour`.
 - The catcher can be moved around during any break.
 - The catcher has a Miss animation, much like osu!taiko pippidon's Miss animation.
-- The first default catcher was a chibified version of Ryuuta Ippongi (from [ouendan series](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")) until 2014, which was replaced by current catcher and mascot, [Yuzu](/wiki/Mascots#-yuzu).
+- The first default catcher was a chibified version of Ryuuta Ippongi (from [ouendan series](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)) until 2014, which was replaced by current catcher and mascot, [Yuzu](/wiki/Mascots#yuzu).
 - When played by [Auto](/wiki/Game_modifier/Auto), the player name will be *salad!*.
 
 ### History

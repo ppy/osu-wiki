@@ -1,26 +1,38 @@
 ---
-outdated: true
-outdated_since: 04c87a005bc5b32824f381649f6eebeb45e8310c
+tags:
+  - how to download videos from YouTube
+  - how to use YouTube videos
+  - comment télécharger des vidéos de YouTube
+  - comment utiliser les vidéos YouTube
 ---
 
 # Vidéos de YouTube
 
-*[The Painless Add Video To Beatmap Process walkthrough. par: Gilrad](https://osu.ppy.sh/community/forums/topics/639)*
+*Veuillez noter que le téléchargement de vidéos à partir de YouTube constitue une violation de leurs conditions d'utilisation.*
 
-Ce tutoriel est destiné pour ceux qui **ne peuvent pas** trouver la vidéo autrepart que sur YouTube.
+[YouTube](https://youtube.com) est une ressource très utile pour les créateurs qui souhaitent ajouter des vidéos de fond à leurs [beatmaps](/wiki/Beatmap). Si une chanson a un clip vidéo, il sera très probablement sur YouTube, et probablement compressé à un point tel que la vidéo a l'air décente mais ne sera pas trop grande en taille.
 
-## Comment télécharger des vidéos de YouTube
+Ce tutoriel est destiné à ceux qui **ne peuvent pas** trouver la vidéo ailleurs que sur YouTube.
 
-### YouTube
+## Utilisation des outils en ligne
 
-[YouTube](https://youtube.com)
+[YouTube to Mp3](https://ytmp3.cc) est un service de conversion vidéo en ligne conçu pour YouTube. Son utilisation est très simple : d'abord, collez le lien de la vidéo YouTube que vous souhaitez dans la zone de texte ; ensuite, sélectionnez `mp4`, cliquez sur `Convertir` ; et une fois la conversion terminée, cliquez sur `Télécharger` pour obtenir le fichier vidéo.
 
-- C'est une super plateforme. Si la musique a un clip vidéo, elle sera sur YouTube, et sûrement compressée au plus haut point: la vidéo sera d'une qualité acceptable, mais prendra peu de temps à télécharger.
+## Utilisation de youtube-dl
 
-#### Télécharger la vidéo
+[youtube-dl](https://youtube-dl.org) est un programme en ligne de commande pour télécharger des vidéos de YouTube et d'autres sites.
 
-[noTube](https://notube.net) (il y en a beaucoup, beaucoup, VRAIMENT beaucoup sur Internet mais on vous conseille celui-ci).
+1. Téléchargez youtube-dl et accédez-y dans votre console préférée (PowerShell, CMD, Terminal).
+2. Utilisez la commande ci-dessous et appuyez sur Entrée
 
-### Charger la vidéo sur osu!
+```cmd
+youtube-dl -f bestvideo <video link>
+``` 
 
-Lancez votre beatmap et appuyez sur `F2`, cliquez sur Insert Background Video. Utilisez la timeline à côté du bouton pour ajuster le temps auquel elle apparaît, et voilà, c'est fini !
+![Télécharger des vidéos YouTube avec youtube-dl](img/example.jpg "Télécharger des vidéos YouTube avec youtube-dl")
+
+## Supprimer les pistes audio
+
+*Page principale : [Compression des fichiers](/wiki/Guides/Compressing_Files)*
+
+Après avoir téléchargé la vidéo, vous pouvez la charger dans la beatmap comme vous le feriez normalement via l'[onglet design](wiki/Beatmap_editor/Design) dans l'[éditeur de beatmap](wiki/Beatmap_editor). Cependant, non seulement la vidéo contiendra des pistes audio qui ne seront pas utilisées et prendront de la place supplémentaire, mais les [critères de classement](/wiki/Ranking_Criteria#Video-and-background) de la beatmap interdisent les vidéos avec des pistes audio car elles ne sont pas utilisées. Voir [compression des fichiers](/wiki/Guides/Compresser_Files) pour savoir comment supprimer l'audio de la vidéo.

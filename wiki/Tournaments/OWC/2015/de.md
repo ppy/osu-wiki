@@ -41,15 +41,11 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 | Kommentatoren | ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) // ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) // ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US] [rfandomization](https://osu.ppy.sh/users/3716999) // ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistiker | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Links
 
-- [osu! World Cup 2015 auf Twitch](https://www.twitch.tv/osulive/)
+- [osu! World Cup 2015 auf Twitch](https://www.twitch.tv/osulive)
 - [Diskussionsthread](https://osu.ppy.sh/community/forums/posts/4550383)
 - [Registrierungsseite](https://osu.ppy.sh/tournaments/2)
-
----
 
 ## Participants
 
@@ -137,8 +133,6 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 | ![][flag_SE] | **Sweden** | **[Xytox](https://osu.ppy.sh/users/2229274 "Xytox")**, [Slizzer](https://osu.ppy.sh/users/809983 "Slizzer"), [SnickarN](https://osu.ppy.sh/users/3258429 "SnickarN"), [AntoN](https://osu.ppy.sh/users/2538562 "AntoN"), [Bubba](https://osu.ppy.sh/users/2330524 "Bubba"), [IVo one](https://osu.ppy.sh/users/3623465 "IVo one"), [Sebbe](https://osu.ppy.sh/users/3181965 "Sebbe"), [Xiniox](https://osu.ppy.sh/users/5233691 "Xiniox") |
 | ![][flag_AT] | **Austria** | **[Fedora Goose](https://osu.ppy.sh/users/2323131 "Fedora Goose")**, [Omgforz](https://osu.ppy.sh/users/578943 "Omgforz"), [Alumetorz](https://osu.ppy.sh/users/1145984 "Alumetorz"), [BlueFlame](https://osu.ppy.sh/users/3506191 "BlueFlame"), [Shirone](https://osu.ppy.sh/users/1426098 "Shirone"), [Elscar](https://osu.ppy.sh/users/2253511 "Elscar"), [Hakkero](https://osu.ppy.sh/users/177913 "Hakkero"), [skritsch](https://osu.ppy.sh/users/3323141 "skritsch") |
 | ![][flag_TW] | **Taiwan** | **[Rucker](https://osu.ppy.sh/users/147515 "Rucker")**, [hvick225](https://osu.ppy.sh/users/50265 "hvick225"), [Small K](https://osu.ppy.sh/users/952751 "Small K"), [YuyuKo sama](https://osu.ppy.sh/users/234788 "YuyuKo sama"), [Uan](https://osu.ppy.sh/users/147623 "Uan"), [dabanlong](https://osu.ppy.sh/users/624254 "dabanlong"), [zxxzxxz](https://osu.ppy.sh/users/1646474 "zxxzxxz"), [RedLeaf](https://osu.ppy.sh/users/2703742 "RedLeaf") |
-
----
 
 ## Regelsätze
 
@@ -232,9 +226,9 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 3. Jeder Kapitän kann 2 Beatmaps aus dem Pool wählen, die nicht gespielt werden sollen. Dies gilt für beide Teams und die komplette Partie hindurch.
    1. Beide Vetos müssen benutzt werden.
 4. Die Beatmaps werden aus dem jeweiligen Pool abwechselnd von den beiden Kapitänen ausgewählt.
-5. Beide Kapitäne müssen "!roll" einmal im \#multiplayer benutzen.
-   1. Der Gewinner beim !roll wählt die zuerst spielende Map der Partie aus.
-   2. Der Verlierer beim !roll beginnt mit dem Bannen von 2 Beatmaps.
+5. Beide Kapitäne müssen `!roll` einmal im `#multiplayer` benutzen.
+   1. Der Gewinner beim `!roll` wählt die zuerst spielende Map der Partie aus.
+   2. Der Verlierer beim `!roll` beginnt mit dem Bannen von 2 Beatmaps.
 6. Die Kapitäne können frei nach Belieben eine Beatmap aus den einzelnen Gruppen auswählen.
    1. Im Falle eines Unentschiedens, muss die Tiebreaker Map gespielt werden.
 7. Die Ergebnisse werden im osu! Wiki und per Statistiken auf einer Webseite veröffentlicht.
@@ -265,36 +259,36 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Die Kapitäne sind für die Anwesenheit deren Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Wenn vom Team keine 4 Spieler anwesend sein sollten, zählt die Partie als aufgegeben.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_LT]: /wiki/shared/flag/LT.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentinien"
+[flag_AT]: /wiki/shared/flag/AT.gif "Österreich"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australien"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brasilien"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Deutschland"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spanien"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finnland"
+[flag_FR]: /wiki/shared/flag/FR.gif "Frankreich"
+[flag_GB]: /wiki/shared/flag/GB.gif "Vereinigtes Königreich"
+[flag_GR]: /wiki/shared/flag/GR.gif "Griechenland"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hongkong"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italien"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "Südkorea"
+[flag_LT]: /wiki/shared/flag/LT.gif "Litauen"
+[flag_LV]: /wiki/shared/flag/LV.gif "Lettland"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexiko"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Niederlande"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norwegen"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Neuseeland"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippinen"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polen"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russische Föderation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Schweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
+[flag_US]: /wiki/shared/flag/US.gif "Vereinigte Staaten"

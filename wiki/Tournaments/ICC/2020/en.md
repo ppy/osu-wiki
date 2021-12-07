@@ -8,7 +8,7 @@ tags:
 
 ![ICC 2020 logo](img/logo.jpg)
 
-The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), and ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) in which all beatmaps played in the tournament were converted osu! beatmaps. The tournament was open to all osu!catch players from Indonesia with over 5,000 osu!catch playcount regardless of rank. It was the first installment of the Indonesia Convert Cup.
+The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), and ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) in which all beatmaps played in the tournament were converted osu! beatmaps. The tournament was open to all osu!catch players from Indonesia with over 5,000 osu!catch playcount regardless of rank. It was the first instalment of the Indonesia Convert Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1
 | --: | :-- |
 | Registration phase | 2020-09-13/2020-09-23 |
 | Screening phase | 2020-09-24/2020-09-30 |
-| Group Stage | 2020-10-05/2020-10-11 |
+| Group stage | 2020-10-05/2020-10-11 |
 | Round of 16 | 2020-10-12/2020-10-18 |
 | Quarterfinals | 2020-10-19/2020-10-25 |
 | Semifinals | 2020-10-26/2020-11-01 |
@@ -30,9 +30,9 @@ The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | IDR 600.000, ~30% of the raised prize pool |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | IDR 450.000, ~20% of the raised prize pool |
 
-![ICC 2020 winner badge](img/badge.png)
+![](img/badge.png "ICC 2020 winner badge")
 
-## Organization
+## Organisation
 
 ICC 2020 was run by various osu! community members predominantly hailing from Indonesia.
 
@@ -54,10 +54,6 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 - [Discord server](http://discord.gg/7g6TAj2)
 - [Livestream](https://www.twitch.tv/osuIndonesia)
 
-## Podium
-
-![Champion: dika312, 2nd place: Galaxi, 3rd place: Shurelia](img/podium.jpg)
-
 ## Participants
 
 | Group |  |  |  |  |
@@ -70,6 +66,10 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 | **F** | ![][flag_ID] [Reen](https://osu.ppy.sh/users/3285139) | ![][flag_ID] [Yui\_](https://osu.ppy.sh/users/8264181) | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) | *N/A* |
 | **G** | ![][flag_ID] [Valskiel](https://osu.ppy.sh/users/1254639) | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) | ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039) | *N/A* |
 | **H** | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422) | ![][flag_ID] [MrGulla](https://osu.ppy.sh/users/4540721) | ![][flag_ID] [INFormal](https://osu.ppy.sh/users/6525565) | *N/A* |
+
+## Podium
+
+![](img/podium.jpg "ICC 2020 podium")
 
 ## Mappools
 
@@ -177,7 +177,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 - Tiebreaker
   - **[Nhato - Delay Order (Shizuku-) \[Time Manipulation\]](https://osu.ppy.sh/beatmapsets/580214#fruits/1228509)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (117 MB)](https://drive.google.com/file/d/1E8h7BBl3Bz-woN4Bw4rjUomWapceTeWU/view)**
 
@@ -302,7 +302,7 @@ Sunday, 18 October 2020:
 | Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [INFormal](https://osu.ppy.sh/users/6525565) | [#1](https://osu.ppy.sh/community/matches/68445354) |
 | Lower | **[Koimeji](https://osu.ppy.sh/users/4137039)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) | *win by default* |
 
-### Group Stage
+### Group stage
 
 Friday, 9 October 2020:
 
@@ -344,9 +344,9 @@ Sunday, 11 August 2020:
 9. Lag is not a valid reason to nullify a map.
 10. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 11. It is expected to be polite and respectful to each other. Penalties will be given if participants violate.
-    - If there are participant(s) who are engaging in an offensive provocation towards other participant(s), the participant(s) who are deemed responsible for the provocation  will be reported to the Tournament Management and may be considered to be blacklisted in the future installment(s) of ICC.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment(s) of ICC.
-    - If there is anyone other than the said participant who is trying to play as a participant, both the participant and the helper will be blacklisted in the next installment(s) of ICC.
+    - If there are participant(s) who are engaging in an offensive provocation towards other participant(s), the participant(s) who are deemed responsible for the provocation  will be reported to the Tournament Management and may be considered to be blacklisted in the future instalment(s) of ICC.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next instalment(s) of ICC.
+    - If there is anyone other than the said participant who is trying to play as a participant, both the participant and the helper will be blacklisted in the next instalment(s) of ICC.
 
 ### Tournament registration
 
@@ -358,14 +358,14 @@ Sunday, 11 August 2020:
    - In the case where the number of concerned registrants exceeds 32, the Tournament Management will only enlist 32 registrants with the highest osu!catch pp under their account to participate as players in the tournament.
 5. Referees and map selectors may not participate as players in this tournament.
 
-### Group Stage rules
+### Group stage rules
 
 1. In the Group Stage, all participants will be divided into 8 different groups.
 2. All participants in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all participants will each in turn pick out maps from the mappool to be played with the following turnouts after each map:
    - **+2 points** (1st place) / **+1 point** (2nd place) / **+1 point** (3rd place) / **0 points** (4th place) in groups with 4 players.
    - **+1 point** (1st place) / **+1 point** (2nd place) / **0 points** (3rd place) in groups with 3 players.
 3. There will be a total of 8 maps to be played in each group stage match, with each player picking out two maps from the pool.
-   - In groups with 3 players, the final two maps will be picked by the player with the highest !roll score and the player with the second highest !roll score respectively.
+   - In groups with 3 players, the final two maps will be picked by the player with the highest `!roll` score and the player with the second highest `!roll` score respectively.
 4. Participants are **not allowed** to ban maps in the Group Stage.
 5. There is no Lower Bracket in the Group Stage.
 6. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority:
@@ -375,7 +375,7 @@ Sunday, 11 August 2020:
    - Whether there are player(s) who got disqualified during the match.
 7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
 
-### Knockout Stage rules 
+### Knockout stage rules 
 
 1. The 16 players who managed to get through from the Group Stage will be matched to each other based on a randomized result.
 2. Players will compete against each other using the Double Elimination system.
@@ -393,7 +393,7 @@ Sunday, 11 August 2020:
 
 ### Match regulations
 
-1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
+1. Each player must use the `!roll` command once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
    - This rule does not apply in the Group Stage lobbies.
 2. Each player has to ban **one beatmap** (in the Round of 16 and the Quarterfinals) or **two maps** (in the Semifinals, Finals, and the Grand Finals) from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.

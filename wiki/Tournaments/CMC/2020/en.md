@@ -8,7 +8,7 @@ tags:
 
 ![CMC 2020 logo](img/logo.jpg)
 
-The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v2 osu!mania 4K tournament hosted by ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) and co-hosted by ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653). The tournament was open to all osu!mania players from Indonesia with a [global osu!mania 4K rank](https://osu.ppy.sh/rankings/mania/performance?variant=4k) of \#4,000 or lower. It was the 1st installment of the Cemara Mania Cup.
+The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v2 osu!mania 4K tournament hosted by ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) and co-hosted by ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653). The tournament was open to all osu!mania players from Indonesia with a [global osu!mania 4K rank](https://osu.ppy.sh/rankings/mania/performance?variant=4k) of \#4,000 or lower. It was the first instalment of the Cemara Mania Cup.
 
 ## Tournament schedule
 
@@ -17,7 +17,7 @@ The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v
 | Registration phase | 2020-10-06/2020-11-01 |
 | Screening phase | 2020-11-02/2020-11-08 |
 | Qualifiers | 2020-11-09/2020-11-15 |
-| Group Stage | 2020-11-16/2020-11-22 |
+| Group stage | 2020-11-16/2020-11-22 |
 | Quarterfinals | 2020-11-23/2020-11-29 |
 | Semifinals | 2020-11-30/2020-12-06 |
 | Finals week 1 | 2020-12-07/2020-12-13 |
@@ -27,12 +27,12 @@ The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag for each team member, 100% of the raised prize pool |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter for each team member, 100% of the raised prize pool |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter for each team member |
 | *4th place* | Steam Wallet voucher worth approx. IDR 45,000.- for each team member |
 
-## Organization
+## Organisation
 
 Cemara Mania Cup \#1 (2020) was run by various Indonesian osu! community members.
 
@@ -55,20 +55,9 @@ Cemara Mania Cup \#1 (2020) was run by various Indonesian osu! community members
 - **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1157755)
 - [Discord server](https://discord.gg/5a2dy53)
-- [Livestream (Twitch)](https://www.twitch.tv/komplekkeluargacemara "Twitch")
-- [Livestream (YouTube)](http://www.youtube.com/channel/UCVKBLmflZE2QUHnmB8eaf0g "YouTube")
+- [Livestream (Twitch)](https://www.twitch.tv/komplekkeluargacemara)
+- [Livestream (YouTube)](http://www.youtube.com/channel/UCVKBLmflZE2QUHnmB8eaf0g)
 - [Challonge bracket](https://challonge.com/CMC_1)
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Team |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Neppu-Neppu** (![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Leviathan** (![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933), ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **UwU Team** (![][flag_ID] [juww](https://osu.ppy.sh/users/11019862), ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808)) |
-| *4th place* | **Team 11** (![][flag_ID] [N i k o L](https://osu.ppy.sh/users/12971540), ![][flag_ID] [ladycello](https://osu.ppy.sh/users/15412010)) |
 
 ## Participants
 
@@ -87,7 +76,7 @@ Listed below are players who qualified into the Group Stage (along with their re
 
 After the conclusion of the Group Stage, players were then teamed up into pairs of two based on their Group Stage finishing position as follows:
 
-| Team Name | Player 1 | Player 2 | 
+| Team Name | Player 1 | Player 2 |
 | :-- | :-- | :-- |
 | **Anti LN Club** | ![][flag_ID] [Ainer](https://osu.ppy.sh/users/13371424) (*Group C / 3rd Place*) | ![][flag_ID] [Kurami\_San](https://osu.ppy.sh/users/8867495) (*Group A / 4th Place*) |
 | **Do'a Ibu** | ![][flag_ID] [Kougyokuu](https://osu.ppy.sh/users/14678051) (*Group D / 3rd Place*) | ![][flag_ID] [Xccelerator202](https://osu.ppy.sh/users/14855101) (*Group B / 4th Place*) |
@@ -105,6 +94,17 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 | **Team 16** | ![][flag_ID] [aghil jayadi](https://osu.ppy.sh/users/8405046) (*Group H / 3rd Place*) | ![][flag_ID] [Ihram-San](https://osu.ppy.sh/users/9908055) (*Group F / 4th Place*) |
 | **Team 3** | ![][flag_ID] [\[ID\]Rachel-](https://osu.ppy.sh/users/13848924) (*Group B / 1st Place*) | ![][flag_ID] [SanjayaIH](https://osu.ppy.sh/users/12202728) (*Group D / 2nd Place*) |
 | **UwU Team** | ![][flag_ID] [juww](https://osu.ppy.sh/users/11019862) (*Group E / 1st Place*) | ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808) (*Group G / 2nd Place*) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Neppu-Neppu** (![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Leviathan** (![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933), ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **UwU Team** (![][flag_ID] [juww](https://osu.ppy.sh/users/11019862), ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808)) |
+| *4th place* | **Team 11** (![][flag_ID] [N i k o L](https://osu.ppy.sh/users/12971540), ![][flag_ID] [ladycello](https://osu.ppy.sh/users/15412010)) |
 
 ## Mappools
 
@@ -198,7 +198,7 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 - Tiebreaker
   - **[Magnetude - Broken (SaltyMermaid) \[Shattered\]](https://osu.ppy.sh/beatmapsets/842099#mania/1762138)** 
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (29 MB)](https://mega.nz/file/WJYlVAyB#VaveHrRewqSkukDhdYajrhvWeS7CY-iZ38j4Pc7s0ok)**
 
@@ -321,9 +321,9 @@ Sunday, 29 November 2020:
 9. Lag is not a valid reason to nullify a map.
 10. If there are any unforseen problems during a match occurence, the Tournament Management will make a decision based on the referee's report.
 11. It is expected that all players be polite and respectful to each other at all times. Penalties will be given if players violate.
-    - If a player is found to be engaging in an act of offensive provocation, said player responsible for the provocation may be either disqualified right away from CMC \#1 (2020) and/or blacklisted from the future installment(s) of CMC.
+    - If a player is found to be engaging in an act of offensive provocation, said player responsible for the provocation may be either disqualified right away from CMC \#1 (2020) and/or blacklisted from the future instalment(s) of CMC.
     - Usage of any illegal programs is strictly prohibited and will be immediately reported to the osu!staff at will.
-    - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next installment(s) of CMC regardless of their role in the smurfing incident.
+    - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next instalment(s) of CMC regardless of their role in the smurfing incident.
 
 ### Tournament registration
 
@@ -348,7 +348,7 @@ Sunday, 29 November 2020:
    - Players who ranked #33 or lower based on their accumulated Qualifier score will be knocked out from the tournament.
 6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
-### Group Stage rules
+### Group stage rules
 
 1. In the Group Stage, the 32 previously qualified players will be randomly spread out into eight groups consisting of four different players each based on their seed.
 2. All the players from each group will face each other in a single multiplayer lobby under the "Battle Royale" matchup format as follows:

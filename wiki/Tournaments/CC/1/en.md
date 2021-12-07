@@ -10,7 +10,7 @@ tags:
 
 ![CC logo](img/logo.png)
 
-The **Corgi Cup: June 2016** (***CC***) was a 1v1 single-elimination osu! tournament hosted by ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the first installment of the Corgi Cup.
+The **Corgi Cup: June 2016** (***CC***) was a 1v1 single-elimination osu! tournament hosted by ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the first instalment of the Corgi Cup.
 
 ## Tournament schedule
 
@@ -21,19 +21,19 @@ The **Corgi Cup: June 2016** (***CC***) was a 1v1 single-elimination osu! tourna
 | Round of 16 | 2016-06-18 |
 | Quarterfinals | 2016-06-19 |
 | Semifinals | 2016-06-19 |
-| Grand Finals | 2016-06-19 |
+| Finals | 2016-06-19 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, Corgi Cup 1st place Discord role |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, Corgi Cup 1st place Discord role |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ## Organisation
 
-Corgi Cup: June 2016 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+Corgi Cup: June 2016 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -47,9 +47,9 @@ Corgi Cup: June 2016 was run by various community members by distributing the mu
 
 ## Links
 
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/16JHAuJZU8wtBCuiiuxkdYYPkRFQd2UoPJOuFnQTMu7o/edit?usp=sharing "Google Sheets")
-- [Livestream](https://twitch.tv/Doomsday "Twitch")
-- [Discord](https://discord.gg/doomscord "Discord")
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/16JHAuJZU8wtBCuiiuxkdYYPkRFQd2UoPJOuFnQTMu7o/edit?usp=sharing)
+- [Livestream](https://twitch.tv/Doomsday)
+- [Discord](https://discord.gg/doomscord)
 
 ## Participants
 
@@ -72,7 +72,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Grand Finals
+### Finals
 
 - NoMod
   - [Reol - No Title (Pho) [Extra]](https://osu.ppy.sh/beatmapsets/343672#osu/759316)
@@ -164,13 +164,19 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Demetori - Kuuchuu ni Shizumu Kishinjou \~ Counter-Clock World (jonathanlfj) [Lunatic Collab]](https://osu.ppy.sh/beatmapsets/347719#osu/818597)**  
 
+### Qualifiers
+
+- NoMod
+  - [ClariS - Luminous (CloudSplash16) [Insane]](https://osu.ppy.sh/beatmapsets/112408#osu/292006)
+  - [yuikonnu - Ai no Scenario (Guy) [Insane]](https://osu.ppy.sh/beatmapsets/282375#osu/648072)
+
 ## Match results
 
-### Grand Finals
+### Finals
 
 #### Grand final
 
-Sunday, 19 June 2019:
+Sunday, 19 June 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -178,7 +184,7 @@ Sunday, 19 June 2019:
 
 #### Third place match
 
-Sunday, 19 June 2019:
+Sunday, 19 June 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -186,7 +192,7 @@ Sunday, 19 June 2019:
 
 ### Semifinals
 
-Sunday, 19 June 2019:
+Sunday, 19 June 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -195,7 +201,7 @@ Sunday, 19 June 2019:
 
 ### Quarterfinals
 
-Sunday, 19 June 2019:
+Sunday, 19 June 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -206,7 +212,7 @@ Sunday, 19 June 2019:
 
 ### Round of 16
 
-Saturday, 18 June 2019:
+Saturday, 18 June 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |

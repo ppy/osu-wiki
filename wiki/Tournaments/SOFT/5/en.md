@@ -1,7 +1,7 @@
 ---
 tags:
-- SOFT5
-- SOFT 5
+  - SOFT5
+  - SOFT 5
 ---
 
 # Springtime Osu!mania Free-for-all Tournament 5
@@ -22,8 +22,8 @@ The **Springtime Osu!mania Free-for-all Tournament 5** (***SOFT 5***) was a 1v1 
 | Qualifiers | 2021-02-27/2021-02-28 |
 | Playoffs week 1 | 2021-03-06/2021-03-07 |
 | Playoffs week 2 | 2021-03-13/2021-03-14 |
-| Group Stage week 1 | 2021-03-20/2021-03-21 |
-| Group Stage week 2 | 2021-03-27/2021-03-28 |
+| Group stage week 1 | 2021-03-20/2021-03-21 |
+| Group stage week 2 | 2021-03-27/2021-03-28 |
 | Round of 32 | 2021-04-03/2021-04-04 |
 | Round of 16 | 2021-04-10/2021-04-11 |
 | Quarterfinals | 2021-04-17/2021-04-18 |
@@ -45,7 +45,7 @@ The Springtime Osu!mania Free-for-all Tournament 5 offered a $250 minimum cash p
 
 ## Organisation
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Mappool selector | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [lemonguy](https://osu.ppy.sh/users/4693052), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
@@ -58,15 +58,11 @@ The Springtime Osu!mania Free-for-all Tournament 5 offered a $250 minimum cash p
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1232110)
-- [Livestream](https://www.twitch.tv/osusoft "Twitch")
-- [SOFT Discord server](https://discord.gg/qd575a3 "Discord")
-- [Challonge](https://challonge.com/SOFT5 "Challonge")
-
----
+- [Livestream](https://www.twitch.tv/osusoft)
+- [SOFT Discord server](https://discord.gg/qd575a3)
+- [Challonge](https://challonge.com/SOFT5)
 
 ## Participants
-
-### Qualified participants
 
 | Seed | Users |
 | :-- | :-- |
@@ -75,7 +71,7 @@ The Springtime Osu!mania Free-for-all Tournament 5 offered a $250 minimum cash p
 | Low (#33 - #96) | ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_US] [TTenko](https://osu.ppy.sh/users/13802345), ![][flag_US] [etterna and osu](https://osu.ppy.sh/users/13712190), ![][flag_US] [ASharpp](https://osu.ppy.sh/users/12657177), ![][flag_AU] [ruka](https://osu.ppy.sh/users/6117525), ![][flag_NL] [Bakuretsue](https://osu.ppy.sh/users/10960533), ![][flag_TH] [SHOKO -](https://osu.ppy.sh/users/10279743), ![][flag_CH] [Tupidix](https://osu.ppy.sh/users/8655604), ![][flag_BR] [Yuragi](https://osu.ppy.sh/users/8501380), ![][flag_CA] [Stability](https://osu.ppy.sh/users/6701738), ![][flag_GB] [AirSpan](https://osu.ppy.sh/users/5063207), ![][flag_CL] [\[Crz\]Arkener](https://osu.ppy.sh/users/4116072), ![][flag_IE] [SPLOwON](https://osu.ppy.sh/users/15225195), ![][flag_US] [HeZeuS](https://osu.ppy.sh/users/7387788), ![][flag_GB] [Zycrxd](https://osu.ppy.sh/users/14245127), ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_GB] [PikachuNick](https://osu.ppy.sh/users/4168230), ![][flag_BR] [Gabi Kamui](https://osu.ppy.sh/users/10658391), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_SG] [AdamAckerville](https://osu.ppy.sh/users/12297375), ![][flag_US] [oleka](https://osu.ppy.sh/users/9423766), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_PH] [\[LS\]Acestrol](https://osu.ppy.sh/users/13470043), ![][flag_TH] [Freshky](https://osu.ppy.sh/users/11959687), ![][flag_ES] [Guldakh](https://osu.ppy.sh/users/8553078), ![][flag_FR] [Ping36](https://osu.ppy.sh/users/9388217), ![][flag_BR] [Lenn](https://osu.ppy.sh/users/11236829), ![][flag_GB] [Solleks](https://osu.ppy.sh/users/9683287), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_BR] [Soore](https://osu.ppy.sh/users/15753462), ![][flag_MY] [[-Leon-]](https://osu.ppy.sh/users/13382147), ![][flag_AR] [Ingrid10](https://osu.ppy.sh/users/9786011), ![][flag_PY] [MomonSama](https://osu.ppy.sh/users/7762488), ![][flag_NZ] [CappK](https://osu.ppy.sh/users/16837177), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_NL] [2fast4you98](https://osu.ppy.sh/users/5183940), ![][flag_US] [Ery](https://osu.ppy.sh/users/9872668), ![][flag_HU] [Verald](https://osu.ppy.sh/users/5766307), ![][flag_AU] [Vegemite](https://osu.ppy.sh/users/13111686), ![][flag_ID] [RetroEX](https://osu.ppy.sh/users/10540515), ![][flag_TH] [LoliconTowa](https://osu.ppy.sh/users/8103540), ![][flag_GB] [Hayabusa](https://osu.ppy.sh/users/3104108), ![][flag_CL] [Xan-](https://osu.ppy.sh/users/5919873), ![][flag_CA] [CommandoBlack](https://osu.ppy.sh/users/7025841), ![][flag_FR] [DragonSonic](https://osu.ppy.sh/users/7294830), ![][flag_ID] [\[ReyZ\]](https://osu.ppy.sh/users/16768803), ![][flag_TH] [shokoha](https://osu.ppy.sh/users/14134289), ![][flag_BE] [Mortelspawn_](https://osu.ppy.sh/users/5331420), ![][flag_CA] [\[ro\]Nosteal](https://osu.ppy.sh/users/8160564), ![][flag_US] [thatcow](https://osu.ppy.sh/users/10629473), ![][flag_HK] [Quotient GD](https://osu.ppy.sh/users/11313227), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [\_Seth](https://osu.ppy.sh/users/8111953), ![][flag_BR] [Zergh](https://osu.ppy.sh/users/3181281), ![][flag_SG] [\[LS\]PlzNjoyGame](https://osu.ppy.sh/users/15210942), ![][flag_HK] [Dream Fire](https://osu.ppy.sh/users/11198186), ![][flag_US] [blizzo](https://osu.ppy.sh/users/13581430), ![][flag_NL] [samuelhklumpers](https://osu.ppy.sh/users/10945523), ![][flag_PH] [MowseChow](https://osu.ppy.sh/users/11341964), ![][flag_DE] [Sirbeyy](https://osu.ppy.sh/users/12917829), ![][flag_ID] [Proxae](https://osu.ppy.sh/users/8410575), ![][flag_DK] [Jole](https://osu.ppy.sh/users/2883132), ![][flag_AR] [prodilex](https://osu.ppy.sh/users/9472628) |
 | Bottom (#97 - #128) | ![][flag_US] [Matthia](https://osu.ppy.sh/users/19804607), ![][flag_US] [ok bye](https://osu.ppy.sh/users/15063813), ![][flag_ID] [nayuu](https://osu.ppy.sh/users/12561379), ![][flag_MY] [-Einar-](https://osu.ppy.sh/users/8782656), ![][flag_PE] [Kien io](https://osu.ppy.sh/users/10055648), ![][flag_ID] [Brinhildr](https://osu.ppy.sh/users/5833779), ![][flag_MX] [\[LS\]Shuri](https://osu.ppy.sh/users/14593518), ![][flag_VN] [Lottery61](https://osu.ppy.sh/users/13821222), ![][flag_US] [Tazin\_](https://osu.ppy.sh/users/9499508), ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063), ![][flag_NZ] [sophhhia](https://osu.ppy.sh/users/14833226), ![][flag_BR] [Crymeno](https://osu.ppy.sh/users/6165105), ![][flag_PH] [Eon Musk](https://osu.ppy.sh/users/12239110), ![][flag_IT] [Kiraz](https://osu.ppy.sh/users/3807675), ![][flag_RU] [wolfpup08](https://osu.ppy.sh/users/11939641), ![][flag_BR] [Namirin-chan](https://osu.ppy.sh/users/6761832), ![][flag_BR] [soutin](https://osu.ppy.sh/users/11771029), ![][flag_PH] [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153), ![][flag_TH] [basicmaime](https://osu.ppy.sh/users/6537441), ![][flag_AR] [jLuyalb](https://osu.ppy.sh/users/7093698), ![][flag_BE] [spamblock](https://osu.ppy.sh/users/11968058), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750), ![][flag_US] [dinga dog](https://osu.ppy.sh/users/12206447), ![][flag_DE] [Niko\_Plays](https://osu.ppy.sh/users/9409456), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_TH] [MIkuaimbot](https://osu.ppy.sh/users/17699745), ![][flag_DE] [medium kek](https://osu.ppy.sh/users/11625617), ![][flag_US] [zVols](https://osu.ppy.sh/users/17057515), ![][flag_PL] [Mr\_adamello](https://osu.ppy.sh/users/7420894), ![][flag_SE] [Trymatic](https://osu.ppy.sh/users/14762260), ![][flag_PH] [- O R E O](https://osu.ppy.sh/users/17802217) |
 
-### Groups
+## Groups
 
 | Group | Top | High | Mid | Low |
 | :-: | :-- | :-- | :-- | :-- |
@@ -96,8 +92,6 @@ The Springtime Osu!mania Free-for-all Tournament 5 offered a $250 minimum cash p
 | **O** | ![][flag_BR] SillyFangirl | ![][flag_IT] Jeersy | ![][flag_GB] PikachuNick | ![][flag_FR] Ping36 |
 | **P** | ![][flag_FR] Auraah | ![][flag_US] TTenko | ![][flag_NL] Bakuretsue | ![][flag_TH] Freshky |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -107,8 +101,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CL] [**\[GS\]Myuka**](https://osu.ppy.sh/users/10072733) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [**bojii**](https://osu.ppy.sh/users/10083439) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] [**SillyFangirl**](https://osu.ppy.sh/users/2288363) |
-
----
 
 ## Mappools
 
@@ -232,7 +224,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Laur - Sound Chimera (Toaph Daddy) \[Polymerization\]](https://osu.ppy.sh/beatmapsets/1415755#mania/2917733)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [Sai Oto / Komiya Mao - Yozakura (Mipha-) \[Prayer\]](https://osu.ppy.sh/beatmapsets/1180451#mania/2461500)
@@ -272,7 +264,7 @@ This competition has come to an end and resulted in the following podium:
   - [BEMANI Sound Team "Dustup" - 1116 (stupud man) \[Stage 3: Cataclysm\]](https://osu.ppy.sh/beatmapsets/1381486#mania/2854330)
   - [Camellia as "fluX Xroise" - Xronier (lemonguy) \[Stage 4: Maxima\]](https://osu.ppy.sh/beatmapsets/1381482#mania/2854324)
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
@@ -409,7 +401,7 @@ Sunday, 4 April 2021:
 | **BossPlays** ![][flag_AR] | **5** | 4 | ![][flag_IT] Jeersy | [#1](https://osu.ppy.sh/community/matches/79951781) |
 | **Yonk\_** ![][flag_GB] | **5** | 4 | ![][flag_US] WaterMelonTube | [#1](https://osu.ppy.sh/community/matches/79956707) |
 
-### Group Stage
+### Group stage
 
 Saturday, 20 March 2021:
 
@@ -625,9 +617,7 @@ Sunday, 14 March 2021:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/110aVysi6hBh6BAXs1_UJUaA5od589SXUSLJzc4Xcamk/edit?usp=sharing).
-
----
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/110aVysi6hBh6BAXs1_UJUaA5od589SXUSLJzc4Xcamk/edit?usp=sharing).
 
 ## Ruleset
 
@@ -668,7 +658,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
   - **33rd-96th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player in the 33rd to 96th seed group. In particular, their opponent's seed will be `(129 - player's seed)`. Players who win their match in this stage will advance to the Group Stage.
   - **97th-128th seeds**: Players within this group will participate in **two matches** in the Play-Offs stage. Their first opponent will be a player in the 97th to 128th seed group. In particular, their opponent's seed will be `(225 - player's seed)`. If the player wins their first match, their second opponent will be a player in the 17th to 32nd seed group. Players who win both of their matches in this stage will advance to the Group Stage.
 
-#### Group Stage
+#### Group stage
 
 - After the Play-Offs stage, the remaining players will be divided into 4 different groups based on their qualification seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group.
 - Each player in these groups will face each other once. In total, every player in the Group Stage will participate in **three matches**. The two best-performing players in each group will advance to the bracket stage.
@@ -679,7 +669,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
   - Higher qualification seed.
 - The two worst-performing players of each group will be eliminated from the tournament.
 
-#### Bracket Stage
+#### Bracket stage
 
 - The bracket stage is a **double elimination** stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
 - After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. In particular, their opponent for the bracket stage will be `(33 - player's GS seed)`.
@@ -720,12 +710,12 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 - In the early stages, your warmup song cannot have a drain time of longer than 3 minutes. This includes the first 2 stages of the tournament after the qualifiers.
 
-#### Bans, Protects, Rolls and Song Selection
+#### Bans, protects, rolls, and song selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Mirror, Hidden, Fade In, Flashlight and NoFail can be used.
 - Players are to ban one (1) map within the map pool that they are playing for the given round.
 - Players are to protect one (1) map from being banned within the map pool that they are playing for the given round.
-- Players will be instructed to do a !roll command by the referee that is overseeing the match; the winning roll picks the first protected map, the losing roll picks the second protected map and the first ban, finally the winning roll picks the second ban and the first song of the match.
+- Players will be instructed to do a `!roll` command by the referee that is overseeing the match; the winning roll picks the first protected map, the losing roll picks the second protected map and the first ban, finally the winning roll picks the second ban and the first song of the match.
 - After the bans, protects and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
      - The winning player moves onto the next match.
@@ -745,39 +735,39 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_IN]: /wiki/shared/flag/IN.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PY]: /wiki/shared/flag/PY.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_UY]: /wiki/shared/flag/UY.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
+[flag_IN]: /wiki/shared/flag/IN.gif "India"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PY]: /wiki/shared/flag/PY.gif "Paraguay"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

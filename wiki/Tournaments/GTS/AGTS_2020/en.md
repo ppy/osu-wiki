@@ -9,7 +9,7 @@ tags:
 
 ![AGTS 2020 logo](img/logo.jpg)
 
-The **Advanced Global Taiko Showdown 2020** (***AGTS 2020***) was an Advanced worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the second installment of the Advanced Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Advanced Global Taiko Showdown 2020** (***AGTS 2020***) was an Advanced worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the second instalment of the Advanced Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **Advanced Global Taiko Showdown 2020** (***AGTS 2020***) was an Advanced wo
 | Registration phase | 2020-08-16/2020-08-30 |
 | Screening and team creations | 2020-08-30/2020-09-06 |
 | Qualifiers | 2020-09-12/2020-09-13 |
-| Group Stage | 2020-09-19/2020-09-20 |
+| Group stage | 2020-09-19/2020-09-20 |
 | Round of 16 | 2020-09-26/2020-09-27 |
 | Quarterfinals | 2020-10-03/2020-10-04 |
 | Semifinals | 2020-10-10/2020-10-11 |
@@ -30,13 +30,13 @@ The **Advanced Global Taiko Showdown 2020** (***AGTS 2020***) was an Advanced wo
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year and 4 months of osu!supporter tag, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 year of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 6 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year and 4 months of osu!supporter, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 year of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 6 months of osu!supporter |
 
 Generous donations from ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930) and ![][flag_US] [Horo](https://osu.ppy.sh/users/992439) helped fund some of the prizes.
 
-![](img/badge.png "AGTS 2020 winner badge")
+![](img/badge.jpg "AGTS 2020 winner badge")
 
 ## Organisation
 
@@ -44,7 +44,7 @@ The Advanced Global Taiko Showdown 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Organizer | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Mappool selector | ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738), ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
 | All Stars mappool selector | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) |
 | Referee | ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851), ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [kuudere-desu](https://osu.ppy.sh/users/10694200), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
@@ -65,7 +65,7 @@ The Advanced Global Taiko Showdown 2020 was run by various community members.
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
 - [Challonge bracket](https://challonge.com/AGTS2020)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/46/) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/46) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
@@ -320,7 +320,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Laur - Sound Chimera (KTYN) \[Mind Chimera (GTS edit)\]](https://osu.ppy.sh/beatmapsets/1060819#taiko/2623138)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (70 MB)](https://mega.nz/file/ElMylCjS#RkGwhO9M9em9RpMmiQNwsIihasufvIGZDJgRYlgum7I)**
 
@@ -462,7 +462,7 @@ Sunday, 27 September 2020:
 | Hispanic Alliance A ![][flag_EC] ![][flag_CO] | 1 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/67573438) |
 | **Canada** ![][flag_CA] | **6** | 4 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/67578054) |
 
-### Group Stage
+### Group stage
 
 Saturday, 19 September 2020:
 
@@ -577,7 +577,7 @@ Sunday, 20 September 2020:
 2. The teams will first go through a **Qualifiers**. Then they will play in a **Group Stage** and finally play in a **double-elimination bracket**.
 3. The scoring system that will be used is **ScoreV2**.
 4. Any player who meets the requirements stated in the [rank restrictions](#rank-restrictions) section is allowed to sign up. Since AGTS will aim to get badged, some players might be declined by the osu! staff (via screening).
-5. Any members of staff apart from **Organiser, Map selector (both general and All Stars), and Referees** are allowed to play.
+5. Any members of staff apart from **Organizer, Map selector (both general and All Stars), and Referees** are allowed to play.
 6. Players and staff members must have read this ruleset entirely (and we will assume you did so throughout the tournament).
 7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
 8. Any rule changes or unexpected occurences will be announced in the AGTS Discord server.
@@ -676,7 +676,7 @@ Sunday, 20 September 2020:
 
 1. Every stage is held **during the weekend**. (It is however allowed to schedule on another day if no agreement is found on a time during the weekend)
 2. Matches are allowed to overlap if referees are available.
-3. The organiser will try to schedule as best as possible so it fits with the timezones. The schedule will be released the previous weekend of each stage.
+3. The organizer will try to schedule as best as possible so it fits with the timezones. The schedule will be released the previous weekend of each stage.
 4. Reschedules will only be considered if both teams agree on a time. Proof of that needs to be sent to the tournament staff before **Thursday at 23:59 UTC+0** in that particular week when their match takes place.
 5. Reschedules may only be requested by **a team captain**.
 

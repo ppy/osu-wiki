@@ -10,11 +10,11 @@ tags:
 
 **Le titre** apparaît en haut au milieu de l'écran quand vous jouez une beatmap. Le plus souvent, il montre l'artiste et le titre de la chanson au début de la map, mais le créateur de la map peut changer le texte et mettre ce qu'il lui plait. Le créateur peut aussi changer le format du texte et quand il apparaît.
 
-S'il est utilisé correctement par le créateur de la map, le titre peut ajouter un effet en plus à la map. C'est spécialement utile pour les créateurs de maps qui font des [storyboards](/wiki/Storyboards), surtout qu'ils préfèrent contrôler la présentation de leurs maps aussi finement que possible durant le gameplay. Quelques bons exemples d'utilisation d'un titre personnalisé peuvent être trouvés dans [Noisestorm - Solar](https://osu.ppy.sh/beatmapsets/33483), [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein](https://osu.ppy.sh/beatmapsets/1391) et [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix-](https://osu.ppy.sh/beatmapsets/57560).
+S'il est utilisé correctement par le créateur de la map, le titre peut ajouter un effet en plus à la map. C'est spécialement utile pour les créateurs de maps qui font des [storyboards](/wiki/Storyboard), surtout qu'ils préfèrent contrôler la présentation de leurs maps aussi finement que possible durant le gameplay. Quelques bons exemples d'utilisation d'un titre personnalisé peuvent être trouvés dans [Noisestorm - Solar](https://osu.ppy.sh/beatmapsets/33483), [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein](https://osu.ppy.sh/beatmapsets/1391) et [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix-](https://osu.ppy.sh/beatmapsets/57560).
 
 ## Changer le texte du titre
 
-Seuls les membres du [NAT](/wiki/People/Nomination_Assessment_Team) et les administrateurs du site peuvent mettre à jour le texte du titre des beatmaps; c'est une option gérée en ligne, elle n'est pas disponible depuis les fichiers de la beatmap. Si vous voulez mettre à jour le titre d'une de vos maps, contactez les personnes de ces groupes.
+Seuls les membres du [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) et les administrateurs du site peuvent mettre à jour le texte du titre des beatmaps; c'est une option gérée en ligne, elle n'est pas disponible depuis les fichiers de la beatmap. Si vous voulez mettre à jour le titre d'une de vos maps, contactez les personnes de ces groupes.
 
 Quand vous serez en contact avec une de ces personnes, vous devrez leur donner une chaîne de caractères décrivant le contenu et le format du titre. osu! demande que cette chaîne de caractères soit écrit d'une façon spécifique, comme spécifié dans la section suivante.
 

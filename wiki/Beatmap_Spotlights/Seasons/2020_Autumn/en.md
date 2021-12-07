@@ -30,7 +30,7 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 
 1. Lobbies will be open for the whole week.
 2. Playlist will now feature mods as well
-   - The maps with mods are duplicates of the original and their purpuse is to give challenge to experienced players.
+   - The maps with mods are duplicates of the original and their purpose is to give challenge to experienced players.
    - osu!taiko is unable to feature mods due to lazer limitations in this season
 
 ## Playlists

@@ -22,7 +22,7 @@ ppv2 şu anda aktif olarak, kendi [değişiklik kaydına](https://osu.ppy.sh/p/c
 
 Performans puanları ağırlıklı olarak, her bir [oyun modu](/wiki/Game_mode) için oluşturulmuş özel bir algoritma tarafından belirlenen beatmap zorluğuna göre hesaplanır.
 
-Bir oyuncunun oynamakta olduğu beatmapin zorluğu, skorunun nihai pp değerini belirler. Tasarım gereği, formül dört çekirdek değere dayanır: **[hedefleme](#hedefleme)**, **[hız](#hız)**, **[isabetlilik](#isabetlilik)**, ve **[zorlanma](#zorlanma)**. Bir beatmapin belirli bir [zorluğuna](/wiki/Beatmap/Difficulty) ilişkin genel bir skoru ve bir oyuncunun belirtilen beatmapteki bireysel performansını ortaya çıkarmak adına, bunların tamamı daha sonrasında çeşitli oranlarla bir araya getirilir.
+Bir oyuncunun oynamakta olduğu beatmapin zorluğu, skorunun nihai pp değerini belirler. Tasarım gereği, formül dört çekirdek değere dayanır: **[hedefleme](#hedefleme)**, **[hız](#hız)**, **[isabetlilik](#İsabetlilik)**, ve **[zorlanma](#zorlanma)**. Bir beatmapin belirli bir [zorluğuna](/wiki/Beatmap/Difficulty) ilişkin genel bir skoru ve bir oyuncunun belirtilen beatmapteki bireysel performansını ortaya çıkarmak adına, bunların tamamı daha sonrasında çeşitli oranlarla bir araya getirilir.
 
 Skorlar daha sonrasında kullanıcının yalnızca en iyi skorlarının çoğunlukla genel performans puanı sıralamasına sayılmasını sağlamak için birbirlerine karşı "ağırlıklandırılır". Bu, [*ağırlık sistemi*](#ağırlık-sistemi) olarak bilinir, amacı ise oyuncunun diğer skorlarına göre kazanılan pp miktarını azaltarak kolay beatmaplerde sürekli bir şekilde düşük pp skorları kasılmasını önlemektir.
 
@@ -54,7 +54,7 @@ Bunun sonucu olarak [Double Time](/wiki/Game_modifier/Double_Time) ve [Half Time
 
 ### İsabetlilik
 
-*Ayrıca bakınız: [İsabet oranı](/wiki/Accuracy)*
+*Ayrıca bakınız: [İsabet oranı](/wiki/Gameplay/Accuracy)*
 
 *İsabetlilik*, oyuncunun [vuruş objelerini](/wiki/Hit_object) zamanında vurma becerisini ölçen bir yüzdelik değerdir, pp algoritmasına göre ise oyuncunun bir beatmapteki bireysel performansını ölçmek için kullanılan bir çekirdek değerdir.
 
@@ -91,7 +91,7 @@ Aşağıdaki ipuçlarını göz önünde bulundurun:
 
 **Performans puanları hesaplanırken ağırlık sistemi kullanılır. Bu da yalnızca en yüksek skorunuzun verdiği pp'nin %100'ünü alabileceğiniz, ve sonrasındaki yaptığınız skorların gittikçe daha az vereceği anlamına gelir.**
 
-Ağırlık sistemi hakkında daha fazla bilgiyi [üstteki kısımda](#weightage-system) bulabilirsiniz.
+Ağırlık sistemi hakkında daha fazla bilgiyi [üstteki kısımda](#ağırlık-sistemi) bulabilirsiniz.
 
 ### Dereceli maplerde çok fazla skora sahip olmak ne kadar bonus pp kazandırır? 
 

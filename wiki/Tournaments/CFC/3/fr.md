@@ -57,8 +57,6 @@ La Catch French Cup 3 était gérée par différents membres de la communauté.
 - [Livestream](https://www.twitch.tv/osufrlive)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrn8KpDeTO124_IgETpDPOBkI0WGVcvi0KEL0iyeJyxsXGE-3HaHRzIWHLk4llJ1_jEYcshD9ynRG-/pubhtml)**
 
----
-
 ## Participants
 
 | Seed | Membres |
@@ -81,8 +79,6 @@ La Catch French Cup 3 était gérée par différents membres de la communauté.
 | **G** | ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381) | ![][flag_FR] [GyraFanBoy](https://osu.ppy.sh/users/8417565) | ![][flag_MA] [l3ssili](https://osu.ppy.sh/users/12123746) | ![][flag_BE] [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) |
 | **H** | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Mnemosyne](https://osu.ppy.sh/users/9255433) | ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141) | ![][flag_FR] [Astreachan](https://osu.ppy.sh/users/2953898) |
 
----
-
 ## Podium
 
 La compétition est arrivée à une fin et à donné le podium ci-dessous:
@@ -92,8 +88,6 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
-
----
 
 ## Liste des maps
 
@@ -252,8 +246,6 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   - [Memme - Force of Ra (Deif) \[Salad\]](https://osu.ppy.sh/beatmapsets/573479#fruits/1214852)
 - Tiebreaker
   - **[CLIFF EDGE - Sayonara I Love You feat. jyA-Me (Minato Yukina) \[Farewell Words\]](https://osu.ppy.sh/beatmapsets/493754#fruits/1051483)**
-
----
 
 ## Résultats des matches
 
@@ -422,8 +414,6 @@ Dimanche, 16 Septembre 2018:
 | H | Aequo3 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Astreachan** | [#1](https://osu.ppy.sh/community/matches/46011327) |
 | H | Astreachan ![][flag_FR] | 2 | **3** | ![][flag_FR] **Mnemosyne** | [#1](https://osu.ppy.sh/community/matches/46012156) |
 
----
-
 ## Règlement
 
 ### Règles générales
@@ -444,10 +434,10 @@ Dimanche, 16 Septembre 2018:
    - Le Tiebreaker n'est pas en "forcemod", mais vous pouvez choisir un mod.
    - Les mods éligibles pour le FreeMod et le Tiebreaker sont Easy, Flashlight, HardRock et Hidden.
 
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_MA]: /wiki/shared/flag/MA.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_MA]: /wiki/shared/flag/MA.gif "Maroc"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"

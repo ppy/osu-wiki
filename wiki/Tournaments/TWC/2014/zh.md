@@ -1,7 +1,7 @@
 ---
 tags:
-- TWC 2014
-- TWC2014
+  - TWC 2014
+  - TWC2014
 outdated: true
 ---
 
@@ -40,14 +40,10 @@ outdated: true
 | 比赛直播旁述 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) // ![][flag_US] ztrot // ![][flag_NO] Dolphin |
 | 赛果统计 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## 相关鏈接
 
 - [讨论串](https://osu.ppy.sh/community/forums/topics/179127)
-- [直播 (Twitch)](https://www.twitch.tv/osulive/)
-
----
+- [直播 (Twitch)](https://www.twitch.tv/osulive)
 
 ## 規則
 
@@ -117,7 +113,7 @@ outdated: true
    2. Room settings are osu!, Team-Vs., Win Condition: 'Score'. Room name must be "Taiko World Cup 2014: TeamBlue vs TeamRed"
    3. The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up maps.
-3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use "!roll" once in \#multiplayer to determine which team selects first.
+3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects first.
    1. The captains may select maps out of the NoMod and FreeMod bracket freely.
    2. Selection out of mod-specific brackets is limited. Each captain may only select one map from each mod-restricted bracket during the match.
       1. Selection out of FreeMod bracket is unlimited.
@@ -155,10 +151,10 @@ outdated: true
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 3th Nov. for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.
 5. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_DE]: /wiki/shared/flag/DE.gif "德国"
+[flag_FR]: /wiki/shared/flag/FR.gif "法国"
+[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
+[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
+[flag_TW]: /wiki/shared/flag/TW.gif "台湾"
+[flag_US]: /wiki/shared/flag/US.gif "美国"

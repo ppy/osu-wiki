@@ -36,7 +36,7 @@ To skip the starting/ending point of the play, press the `Spacebar` key.
 
 ### Discussion
 
-The button **only appears when an in-game osu!account was connected to Bancho and the difficulty/beatmap can be found in the osu! beatmaplist (ranked or otherwise)**.
+The button **only appears when an in-game osu!account was connected to Bancho and the difficulty/beatmap can be found in the osu! beatmap list (ranked or otherwise)**.
 Shows flowing right-to-left comments left by the community on the beatmap.
 
 Click on the `Discussion` button to show the options available.
@@ -49,7 +49,7 @@ An active osu!supporter account will have an extra `Colour` button which allows 
 ![](img/Replay_discussion_comment.jpg "Making a comment")
 
 Click on `Click to add a comment at the current time!` to comment on the current difficulty/beatmap.
-The replay will be paused, darken, and with an osu!logo at the foreground center until the comment was completed (usually, `Enter` key) or cancelled (usually, `Esc` key).
+The replay will be paused, darken, and with an osu!logo at the foreground centre until the comment was completed (usually, `Enter` key) or cancelled (usually, `Esc` key).
 
 ![](img/Replay_discussion_example.jpg "An example of comment flow")
 
@@ -141,6 +141,8 @@ To access this screen, fail the map by draining the healthbar completely, or fai
 In the game over screen, press the `F1` key to replay the currently failed play.
 The replay ends when the screen darkens, with the osu!logo in the middle, rather than the game over screen.
 
+To save your failed play as a replay, press `F2` in the game over screen.
+
 Due to the non-standard replay screen, use the `Esc` key to return to Song Selection.
 Trying to restart the beatmap to directly play the beatmap again in this state is not possible.
 
@@ -149,10 +151,7 @@ It currently works in `Solo` only when given the game over screen.
 Viewing a failed play does not work with the [No Fail(NF)](/wiki/Game_modifier/No_Fail)/[Relax(RL)](/wiki/Game_modifier/Relax)/[Auto Pilot(AP)](/wiki/Game_modifier/Autopilot) game modifier because it is impossible to fail.
 Using the [Perfect(PF)](/wiki/Game_modifier/Perfect) game modifier would forcefully quick-retry instead of failing the player.
 
-**This type of replay will not be saved internally nor is allowed to be exported**.
-To record the failed replay, please use external third-party software for now since osu! has yet to have native export support for failed replay.
-
-If there was a retry streak, it will be lost once entering the *Failed* replay state.
+If there was a retry streak, it will be lost once entering the Failed replay state.
 
 ### Multi
 

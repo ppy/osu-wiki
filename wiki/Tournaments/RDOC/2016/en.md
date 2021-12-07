@@ -8,14 +8,14 @@ tags:
 
 ![RDOC 2016 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2016** (***RDOC 2016***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273). It was the second installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2016** (***RDOC 2016***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273). It was the second instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2015-11-30/2015-12-25 |
-| Group Stage | 2016-01-09/2016-01-17 |
+| Group stage | 2016-01-09/2016-01-17 |
 | Round of 16 | 2016-01-23/2016-01-24 |
 | Quarterfinals | 2016-01-30/2016-01-31 |
 | Semifinals | 2016-02-06/2016-02-07 |
@@ -26,10 +26,10 @@ The **Royal Danish osu!Cup 2016** (***RDOC 2016***) was a Danish 1v1 double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
-| *4th place* | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter |
+| *4th place* | 1 month of osu!supporter |
 
 ## Organisation
 
@@ -38,7 +38,7 @@ The Royal Danish osu!Cup 2016 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273) |
-| Map selector | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Tonarinototoro](https://osu.ppy.sh/users/2678812), ![][flag_DK] [-Crab-](https://osu.ppy.sh/users/2563435), ![][flag_DK] [Flyville](https://osu.ppy.sh/users/6124808) |
+| Mappool selector | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Tonarinototoro](https://osu.ppy.sh/users/2678812), ![][flag_DK] [-Crab-](https://osu.ppy.sh/users/2563435), ![][flag_DK] [Flyville](https://osu.ppy.sh/users/6124808) |
 | Referee | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Kazutakee](https://osu.ppy.sh/users/2637514), ![][flag_DK] [Tonarinototoro](https://osu.ppy.sh/users/2678812), ![][flag_DK] [-Crab-](https://osu.ppy.sh/users/2563435), ![][flag_DK] [Flyville](https://osu.ppy.sh/users/6124808) |
 | Other helpers | ![][flag_DK] [John Cena](https://osu.ppy.sh/users/2958963), ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629) |
 | Designer | ![][flag_DK] [Tonarinototoro](https://osu.ppy.sh/users/2678812) |
@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[goreshit - o'er the flood \[The Flood Beneath\]](https://osu.ppy.sh/beatmapsets/51972#osu/181253)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Xelia - Illumiscape \[Another\]](https://osu.ppy.sh/beatmapsets/43960#osu/137840)
@@ -239,7 +239,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Wednesday, 2016-02-17:
+Wednesday, 17 February 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -248,20 +248,20 @@ Wednesday, 2016-02-17:
 
 ### Finals
 
-Saturday, 2016-02-13:
+Saturday, 13 February 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Emub** ![][flag_DK] | **6** | 2 | ![][flag_DK] Only1Magma |
 | LB | KaHLK ![][flag_DK] | 0 | **6** | ![][flag_DK] **waefwerf** |
 
-Sunday, 2016-02-14:
+Sunday, 14 February 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | Emub ![][flag_DK] | 5 | **6** | ![][flag_DK] **waefwerf** |
 
-Wednesday, 2016-02-17:
+Wednesday, 17 February 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -269,7 +269,7 @@ Wednesday, 2016-02-17:
 
 ### Semifinals
 
-Saturday, 2016-02-06:
+Saturday, 6 February 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -279,7 +279,7 @@ Saturday, 2016-02-06:
 | LB | -Tochi ![][flag_DK] | 0 | **4** | ![][flag_DK] **KaHLK** |
 | LB | Tropians ![][flag_DK] | 0 | **4** | ![][flag_DK] **Zakdawg** |
 
-Sunday, 2016-02-07:
+Sunday, 7 February 2016
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -289,7 +289,7 @@ Sunday, 2016-02-07:
 
 ### Quarterfinals
 
-Saturday, 2016-01-30:
+Saturday, 30 January 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -298,7 +298,7 @@ Saturday, 2016-01-30:
 | UB | John Cena ![][flag_DK] | 1 | **4** | ![][flag_DK] **Zog** |
 | UB | Arild ![][flag_DK] | 1 | **4** | ![][flag_DK] **waefwerf** |
 
-Sunday, 2016-01-31:
+Sunday, 31 January 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -309,7 +309,7 @@ Sunday, 2016-01-31:
 
 ### Round of 16
 
-Saturday, 2016-01-23:
+Saturday, 23 January 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -318,7 +318,7 @@ Saturday, 2016-01-23:
 | UB | KaHLK ![][flag_DK] | 1 | **4** | ![][flag_DK] **Zog** |
 | UB | Tropians ![][flag_DK] | 2 | **4** | ![][flag_DK] **waefwerf** |
 
-Sunday, 2016-01-24:
+Sunday, 24 January 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |

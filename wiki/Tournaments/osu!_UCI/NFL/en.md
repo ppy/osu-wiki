@@ -29,7 +29,7 @@ All prizes were awarded to osu! and osu!mania winners.
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge |
 
-![NFL profile badge](img/badge.jpg)
+![](img/badge.jpg "NFL winner badge")
 
 ## Organisation
 
@@ -37,7 +37,7 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 | Position | Member(s) |
 | :-- | :-- |
-| Map selector | ![][flag_US] [[Blue]](https://osu.ppy.sh/users/13192092), ![][flag_US] [[Nick]](https://osu.ppy.sh/users/9726582), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659), ![][flag_US] [slushy](https://osu.ppy.sh/users/3692940), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
+| Mappool selector | ![][flag_US] [[Blue]](https://osu.ppy.sh/users/13192092), ![][flag_US] [[Nick]](https://osu.ppy.sh/users/9726582), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659), ![][flag_US] [slushy](https://osu.ppy.sh/users/3692940), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
 | Streamer | ![][flag_US] [R34pling](https://osu.ppy.sh/users/7662172) |
 | Commentator | ![][flag___] Matthew<!-- TODO what is his osu profile -->, ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659), ![][flag_US] [ruruchewy](https://osu.ppy.sh/users/7112839), ![][flag_US] [Sukida](https://osu.ppy.sh/users/4097867), ![][flag_US] [Yattaze](https://osu.ppy.sh/users/13870255) |
 | Referee | ![][flag_US] [[Blue]](https://osu.ppy.sh/users/13192092), ![][flag_US] [[Nick]](https://osu.ppy.sh/users/9726582), ![][flag_US] [ilalalayou](https://osu.ppy.sh/users/3144766), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [phamitsu](https://osu.ppy.sh/users/13045418), ![][flag_US] [PingusKhan](https://osu.ppy.sh/users/9648050), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
@@ -508,6 +508,6 @@ Both tournaments will use a standard double-elimination format for playoffs.
 3. Players will have their computers inspected prior to the beginning of matches to ensure that there are no illegal programs running at the time.
 4. Under no circumstances are players allowed to touch the peripherals or computer of another without explicit permission.
 
-[flag___]: /wiki/shared/flag/__.gif
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag___]: /wiki/shared/flag/__.gif

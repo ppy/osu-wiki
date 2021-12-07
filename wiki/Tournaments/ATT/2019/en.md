@@ -8,7 +8,7 @@ tags:
 
 ![ATT 2019 logo](img/logo.jpg)
 
-The **Ausu!Taiko Tournament 2019** (**ATT 2019**) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352). The tournament was restricted to players within the Southeast Asian countries only. It was the fifth installment of the Ausu!Taiko Tournament.
+The **Ausu!Taiko Tournament 2019** (**ATT 2019**) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352). The tournament was restricted to players within the Southeast Asian countries only. It was the fifth instalment of the Ausu!Taiko Tournament.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **Ausu!Taiko Tournament 2019** (**ATT 2019**) was a double-elimination 1v1 o
 | --: | :-- |
 | Registration phase | 2019-06-11/2019-07-05 |
 | Reveal of seedings and groups | 2019-07-07 |
-| Group Stage | 2019-07-13/2019-07-15 |
+| Group stage | 2019-07-13/2019-07-15 |
 | Round of 16 | 2019-07-19/2019-07-21 |
 | Quarterfinals | 2019-07-27/2019-07-28 |
 | Semifinals | 2019-08-03/2019-08-04 |
@@ -36,7 +36,7 @@ The Ausu!Taiko Tournament 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
+| Organizer | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
 | Mappool selector | ![][flag_DE] [frz](https://osu.ppy.sh/users/6956922), ![][flag_AU] [Fuel](https://osu.ppy.sh/users/5155081), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
 | Referee | ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_AU] [Fuel](https://osu.ppy.sh/users/5155081), ![][flag_AU] [numbermaniac](https://osu.ppy.sh/users/7764184), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_AU] [soliderror](https://osu.ppy.sh/users/10630542) |
 | Streamer | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
@@ -46,9 +46,9 @@ The Ausu!Taiko Tournament 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/919873)
-- [Livestream](https://www.twitch.tv/drumdecimator "Twitch")
-- [Challonge bracket](https://challonge.com/ausutaiko2019 "Challonge")
-- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1ooMPds3EA82u3fcKPo3PCV-3llFzhLGbQIlwtV-Cto4/edit?usp=sharing "Google Docs")
+- [Livestream](https://www.twitch.tv/drumdecimator)
+- [Challonge bracket](https://challonge.com/ausutaiko2019)
+- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1ooMPds3EA82u3fcKPo3PCV-3llFzhLGbQIlwtV-Cto4/edit?usp=sharing)
 
 ## Participants
 
@@ -180,7 +180,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Eisyo-kobu - Oriental Blossom -Eika Shuuei- (Jaye) \[Eternal Ataraxy\]](https://osu.ppy.sh/beatmapsets/1003081#taiko/2099378)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [IOSYS - Poinsettia (eiri-) \[Nepu's Oni\]](https://osu.ppy.sh/beatmapsets/799276#taiko/1678185)
@@ -286,7 +286,7 @@ Sunday, 21 July 2019:
 | **Tsubasa2** ![][flag_AU] | **0** | -1 | ![][flag_SG] Bobfree | *win by default* |
 | **steven1** ![][flag_ID] | **0** | -1 | ![][flag_NZ] Bwhaa | *win by default* |
 
-### Group Stage
+### Group stage
 
 Saturday, 13 July 2019:
 
@@ -377,5 +377,5 @@ Monday, 15 July 2019:
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philipipnes"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"

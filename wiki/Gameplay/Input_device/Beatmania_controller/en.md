@@ -6,7 +6,7 @@ stub: true
 
 ![](img/beatmania-controller.jpg "7-button Beatmania controller")
 
-A **Beatmania controller** is a type of game controllers that is compatible with the *[Beatmania](https://en.wikipedia.org/wiki/Beatmania "Wikipedia")* game series.
+A **Beatmania controller** is a type of game controllers that is compatible with the *[Beatmania](https://en.wikipedia.org/wiki/Beatmania)* game series.
 
 Due to their nature, Beatmania controllers are most often used as input devices in [osu!mania](/wiki/Game_mode/osu!mania).
 

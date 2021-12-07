@@ -8,7 +8,7 @@ tags:
 
 ![4DM3 logo](img/logo.jpg)
 
-The **4 Digit osu!mania World Cup 3** (***4DM3***) was a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), and ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263). This was the third installment of the 4 Digit osu!mania World Cup.
+The **4 Digit osu!mania World Cup 3** (***4DM3***) was a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), and ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263). This was the third instalment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
 
@@ -19,7 +19,7 @@ The **4 Digit osu!mania World Cup 3** (***4DM3***) was a worldwide country-based
 | Team captain announcement | 2021-01-10 |
 | Participating team announcement | 2021-01-16 |
 | Qualifiers | 2021-01-23/2021-01-24 |
-| Group Stage | 2021-01-30/2021-01-31 |
+| Group stage | 2021-01-30/2021-01-31 |
 | Round of 16 | 2021-02-06/2021-01-07 |
 | Quarterfinals | 2021-02-13/2021-02-14 |
 | Semifinals | 2021-02-20/2021-02-21 |
@@ -30,10 +30,10 @@ The **4 Digit osu!mania World Cup 3** (***4DM3***) was a worldwide country-based
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 6 months of osu!supporter tag for each team member |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag for each team member |
-| *4th-8th place* | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 6 months of osu!supporter for each team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter for each team member |
+| *4th-8th place* | 1 month of osu!supporter for each team member |
 
 ![](img/badge.jpg "4DM3 winner badge")
 
@@ -45,7 +45,7 @@ The 4 Digit osu!mania World Cup 3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
+| Organizer | ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
 | Mappool selector | ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_RU] [Lerck](https://osu.ppy.sh/users/10450696), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
 | Mappool tester | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_PH] [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153), ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_PE] [DaZeRo5](https://osu.ppy.sh/users/6114633), ![][flag_FR] [Koiidex](https://osu.ppy.sh/users/5193488), ![][flag_RU] [Lerck](https://osu.ppy.sh/users/10450696), ![][flag_GB] [TingTheFirst](https://osu.ppy.sh/users/12489832) |
 | Referee | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_CN] [\[JbL\]Hx\_032](https://osu.ppy.sh/users/11603156), ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_AR] [Gonzalo](https://osu.ppy.sh/users/6719880), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_BE] [Mortelspawn\_](https://osu.ppy.sh/users/5331420), ![][flag_MY] [Onlinee](https://osu.ppy.sh/users/13630137), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_US] [Xpekade](https://osu.ppy.sh/users/10775293), ![][flag_CA] [XzVx](https://osu.ppy.sh/users/12286606), ![][flag_ID] [Dellia](https://osu.ppy.sh/users/12143152), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
@@ -106,7 +106,7 @@ The 4 Digit osu!mania World Cup 3 was run by various community members.
 | ![][flag_US] | **United States** | **[KamaTheCrimson](https://osu.ppy.sh/users/6362259)**, [\[GS\]Rose](https://osu.ppy.sh/users/9481266), [doctor big](https://osu.ppy.sh/users/7958845), [Feylos](https://osu.ppy.sh/users/4565040), [Retina](https://osu.ppy.sh/users/11392859), [Scep](https://osu.ppy.sh/users/11196445) |
 | ![][flag_VN] | **Vietnam** | **[Fenestrox](https://osu.ppy.sh/users/14714826)**, [Blulletgun](https://osu.ppy.sh/users/13122043), [DoraSPS](https://osu.ppy.sh/users/16005504), [Elzitallzila](https://osu.ppy.sh/users/14193228), [eufugu](https://osu.ppy.sh/users/13398090), [Thien-boiiii](https://osu.ppy.sh/users/16629204) |
 
-### Groups
+## Groups
 
 | Group | Top seed | High seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- | :-- |
@@ -234,7 +234,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Mameyudoufu - Quality Control (DannyPX) \[Distance\]](https://osu.ppy.sh/beatmapsets/1336570#mania/2768929)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (50 MB)](https://cdn.discordapp.com/attachments/796521304357470268/803376289625014333/4DM3_GS_Map_Pack.zip)**
 
@@ -350,7 +350,7 @@ Sunday, 7 February 2021:
 | **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/75194738) |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/75207220) |
 
-### Group Stage
+### Group stage
 
 Saturday, 30 January 2021:
 
@@ -481,7 +481,7 @@ Sunday, 31 January 2021:
    - If fewer than 20 teams enter, the number of teams that will advance is the highest power of 2 that is fewer than the number of entering teams (For example, if 19 teams enter, then 16 teams will advance. If 15 teams enter, then 8 teams will advance.) In this case, Group Stage will not occur and players will advance directly into the bracket stages.
 4. The results of the Qualifier Stage will also be used to determine the “seed” of each team. However, this concept will be explained in the Group Stage category below, as seeding is very pertinent in how the Group Stage works.
 
-#### Group Stage
+#### Group stage
 
 1. Based on the results of the Qualifier Stage, teams will be given a qualifier rank based off of their “score rating”, essentially meaning how well each team ranks on each qualifier stage compared to every other team. Teams, based off of this aforementioned rank, will be given a “seed”, meaning be classified into a certain ranking range with other teams around their qualifier rank in an attempt to generalize each teams’ overall comparative skill level with their “seed”. As the exact number of entering teams cannot be known yet, there are several possibilities for the ranking ranges used in determining each seed, so all possibilities will be listed below.
 2. If 32 teams remain after qualifiers, there will be 4 different seeds, and seeding will be decided as such:
@@ -568,8 +568,8 @@ Sunday, 31 January 2021:
 [flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_RO]: /wiki/shared/flag/RO.gif "Romania"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"

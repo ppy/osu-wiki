@@ -8,7 +8,7 @@ tags:
 
 ![IDC 2020 logo](img/logo.jpg)
 
-The **Indonesian Draft Cup 2020** (***IDC 2020***) was an Indonesian double-elimination 3v3 osu! tournament hosted by ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490) and ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206). The tournament was restricted to Indonesian-speaking players only. This was the first installment of the Indonesian Draft Cup.
+The **Indonesian Draft Cup 2020** (***IDC 2020***) was an Indonesian double-elimination 3v3 osu! tournament hosted by ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490) and ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206). The tournament was restricted to Indonesian-speaking players only. This was the first instalment of the Indonesian Draft Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **Indonesian Draft Cup 2020** (***IDC 2020***) was an Indonesian double-elim
 | --: | :-- |
 | Registration phase | 2020-07-20/2020-08-10 |
 | Drafting | 2020-08-22 |
-| Group Stage | 2020-08-29/2020-09-06 |
+| Group stage | 2020-08-29/2020-09-06 |
 | Quarterfinals | 2020-09-12/2020-09-13 |
 | Semifinals | 2020-09-18/2020-09-20 |
 | Finals | 2020-09-26/2020-09-28 |
@@ -26,9 +26,9 @@ The **Indonesian Draft Cup 2020** (***IDC 2020***) was an Indonesian double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag for each team member |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter for each team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter for each team member |
 
 ![](img/badge.jpg "IDC 2020 winner badge")
 
@@ -40,9 +40,9 @@ The Indonesian Draft Cup 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Co-organiser | ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897) |
-| Map selector | ![][flag_CA] [Eddie-](https://osu.ppy.sh/users/3898396), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Organizer | ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Co-organizer | ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897) |
+| Mappool selector | ![][flag_CA] [Eddie-](https://osu.ppy.sh/users/3898396), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
 | Referee | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_ID] [Alice Pi](https://osu.ppy.sh/users/8787324), ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275), ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Snowhaven](https://osu.ppy.sh/users/5603587), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
 | Streamer | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [KevinWalker](https://osu.ppy.sh/users/7520850), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
 | Commentator | ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [KevinWalker](https://osu.ppy.sh/users/7520850), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
@@ -214,7 +214,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Meramipop - Eiya \[Imperishable Challengers\] (-Tochi) \[Eternal Night\]](https://osu.ppy.sh/beatmapsets/289225#osu/652034)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (119 MB)](https://drive.google.com/file/d/1GG2fBrRe2W51J2Jp4uIp0WXWE0O2ZV8R/view?usp=sharing)**
 
@@ -314,7 +314,7 @@ Sunday, 13 September 2020:
 | --: | :-: | :-: | :-- | :-- |
 | **Pondokers** | **6** | 1 | Bolu Bude MOMO | [#1](https://osu.ppy.sh/community/matches/66896004) |
 
-### Group Stage
+### Group stage
 
 Friday, 28 August 2020:
 
@@ -363,7 +363,7 @@ Sunday, 6 September 2020:
 ### General rules
 
 1. Indonesian Draft Cup is an osu! **3v3 double-elimination tournament**.
-2. The tournament is however restricted to Bahasa Indonesia speaking player only and has Indonesian flag in their osu! profile (Indonesian players who live abroad could give further confirmation through osu! PM or Discord server to the organiser).
+2. The tournament is however restricted to Bahasa Indonesia speaking player only and has Indonesian flag in their osu! profile (Indonesian players who live abroad could give further confirmation through osu! PM or Discord server to the organizer).
 3. There will be **no rank limit**.
 4. **Team seedings will be determined through the Group Stage**.
 5. Players will register individually and will get drafted either as a player or a captain to draft other players.
@@ -380,7 +380,7 @@ Sunday, 6 September 2020:
 12. Reschedule is permitted as long as the request is **48 hours** before the first match of the running stage.
 13. Bracket reset will take place if necessary during the Grand Finals.
 14. Any members of staff apart from the **Streamer, Commentator, and Designer** are allowed to play.
-15. Organiser has the rights to decline any players that reject their role as a captain with invalid reason or doesn't pass the osu! screening.
+15. Organizer has the rights to decline any players that reject their role as a captain with invalid reason or doesn't pass the osu! screening.
 16. Once all players have joined, captain will be asked to `!roll`. The winner of the `!roll` may elect to pick first of pick second. Warmups are allowed, up to a maximum of **4:00** total time (it can be longer if everyone in the lobby agrees with it).
     - `!roll` winner will pick the first warmup, second ban, and the first pick of the match
     - `!roll` loser will pick the warmup last, first ban, and will pick after the `!roll` winner

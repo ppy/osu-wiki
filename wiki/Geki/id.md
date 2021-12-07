@@ -11,7 +11,7 @@ no_native_review: true
 
 **Geki (激)** atau *Elite Beat!* merupakan sebuah indikator dalam [sistem penilaian osu!](/wiki/Score) yang akan muncul setiap kali seorang pemain berhasil mengenai seluruh objek yang ada dalam suatu rangkaian combo dengan [akurasi](/wiki/Gameplay/Accuracy) yang sempurna. Apabila seorang pemain berhasil memunculkan Geki, *health bar* yang dimiliki oleh pemain yang bersangkutan akan terisi ulang secara signifikan.
 
-Terminologi Geki sendiri berasal dari permainan [Elite Beat Agents](/wiki/iNiS_games) pada konsol Nintendo DS yang mendasari awal terbentuknya [osu!](/wiki/Game_Mode).
+Terminologi Geki sendiri berasal dari permainan [Elite Beat Agents](/wiki/iNiS_games) pada konsol Nintendo DS yang mendasari awal terbentuknya [osu!](/wiki/Game_mode).
 
 ## Geki dalam berbagai permainan
 
@@ -45,6 +45,6 @@ Kemunculan Geki akan memicu respon storyboard terbaik (*best-tier storyboard*) y
 
 Kemunculan Geki dapat memicu hal-hal berikut:
 
-- Penonaktifan [Fail Layer](/wiki/Storyboard_Scripting/General_Rules#layers).
-- Aktivasi [Pass Layer](/wiki/Storyboard_Scripting/General_Rules#layers).
+- Penonaktifan [Fail Layer](/wiki/Storyboard/Scripting/General_Rules#layers).
+- Aktivasi [Pass Layer](/wiki/Storyboard/Scripting/General_Rules#layers).
 - Terjadinya suatu *event* yang dikategorikan dalam kelompok "Passing" walaupun pemain yang bersangkutan sebelumnya berada dalam keadaan "Fail".

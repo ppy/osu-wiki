@@ -4,7 +4,7 @@
 
 **Kontributor Komunitas** adalah orang-orang yang meluangkan waktunya untuk melayani komunitas osu! dengan pengorbanan diri mereka sendiri - alat dan fitur yang banyak dari kita anggap remeh namun berguna hingga hari ini. Pengguna ini diberi lencana sebagai bukti atas kontribusi mereka yang telah melakukan sesuatu bagi seluruh komunitas osu!.
 
-Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), yang merupakan anggota osu!team yang sudah pensiun, lencana Kontributor Komunitas ini diberikan kepada *freelancer* yang telah melampaui ekspektasi dan tugas yang diberikan demi meningkatkan osu! dan komunitasnya.
+Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), yang merupakan anggota tim inti osu! yang sudah pensiun, lencana Kontributor Komunitas ini diberikan kepada *freelancer* yang telah melampaui ekspektasi dan tugas yang diberikan demi meningkatkan osu! dan komunitasnya.
 
 ## 2013
 
@@ -25,7 +25,7 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 | ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Mengembangkan dan memelihara [osu!stats](https://osustats.ppy.sh/) dan sejumlah utilitas bermanfaat untuk beatmap, modding, dan game ini secara umum. |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Kontribusi luar biasa dalam perbaikan *bug*/pengujian fitur dan penanganan permintaan dukungan pengguna. |
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3+ tahun kerja tanpa henti menangani [pengemasan beatmap](https://osu.ppy.sh/beatmaps/packs) dan beberapa tahun mengelola beatmap charts. |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Pelayanan hingga bertahun - tahun, termasuk merancang skin beatmap asli versi pertama, memajukan [storyboard](/wiki/Storyboards) sebagai bentuk seni dan motivasi. |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Pelayanan hingga bertahun - tahun, termasuk merancang skin beatmap asli versi pertama, memajukan [storyboard](/wiki/Storyboard) sebagai bentuk seni dan motivasi. |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Manajemen komunitas dan moderasi di awal - awal dan kontribusi besar selama masa waktunya. |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Menjadi pengelola komunitas pertama dan moderator global, yang menetapkan standar sangat tinggi untuk diikuti [GMT](/wiki/People/The_Team/Global_Moderation_Team). |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | Menjadi pengelola staf pertama dan BATmanager dan sendirian membentuk tim moderasi beatmap elit dari nol. |
@@ -197,7 +197,7 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Swiss"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_CN]: /wiki/shared/flag/CN.gif "Cina"
+[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
@@ -214,7 +214,7 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Selandia Baru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
-[flag_RU]: /wiki/shared/flag/RU.gif "Federasi Rusia"
+[flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
 [flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

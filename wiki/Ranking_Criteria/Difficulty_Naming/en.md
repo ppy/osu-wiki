@@ -23,7 +23,6 @@ These difficulty names are the most commonly used for each game mode.
 - ![](/wiki/shared/diff/hard-t.png) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png) Oni
 - ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni
 
 ### osu!catch
 
@@ -186,7 +185,9 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 The following difficulty names are common alternatives and additions to the default difficulty names:
 
 - ![](/wiki/shared/diff/easy-o.png) Beginner: in a default Easy-Normal-Hard-Insane-Expert spread, it refers to the lowest level of difficulty, even below Easy.
+- ![](/wiki/shared/diff/easy-t.png) Shokyuu: in a default Kantan-Futsuu-Muzukashii-Oni-Inner Oni spread, it refers to the lowest level of difficulty that's below Kantan.
 - ![](/wiki/shared/diff/normal-o.png) Advanced: in a default Easy-Normal-Hard-Insane-Expert spread, it's a difficulty between Normal and Hard.
 - ![](/wiki/shared/diff/hard-o.png) Hyper: in a default Easy-Normal-Hard-Insane-Expert spread, a difficulty between Hard and Insane.
 - ![](/wiki/shared/diff/expert-o.png) Extra: it can used as a substitute for Expert.
 - ![](/wiki/shared/diff/expertplus-o.png) Extreme: it can be used to represent a more difficult Expert.
+- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni: it can be used to represent a more difficult Inner Oni.

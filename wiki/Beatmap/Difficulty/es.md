@@ -6,13 +6,13 @@ outdated: true
 
 *No debe confundirse con: [Beatmaps](/wiki/Beatmap).*
 
-*Ver también: [Criterios de clasificación § Mapset](/wiki/Ranking_Criteria#mapset).*
+*Ver también: [Criterios de clasificación § Mapset](/wiki/Ranking_Criteria#beatmap).*
 
 La dificultad de un beatmap *describe* el nivel de habilidad necesario para completarlo.
 
 ## Clasificación por estrellas
 
-![Rangos de clasificación por estrellas](img/SR-range.png "Rangos de clasificación por estrellas")
+![Rangos de clasificación por estrellas](/wiki/shared/star-rating/spectrum.png "Rangos de clasificación por estrellas")
 
 Desde los [Criterios de clasificación](/wiki/Ranking_Criteria), una calificación por estrellas de:
 
@@ -24,7 +24,7 @@ Desde los [Criterios de clasificación](/wiki/Ranking_Criteria), una calificaci�
 
 ### Iconos web
 
-Los rangos de clasificación de estrellas determinan qué icono web se va a utilizar en un beatmap determinado. Seguir los rangos de iconos generalmente te dara una buena estimación para lograr una distribución de dificultad equilibrada. Hay algunas pautas (consulta la [sección de mapset en los Criterios de clasificación](/wiki/Ranking_Criteria#mapset)) que puedes seguir para mejorar la distribución de dificultad de tu beatmapset.
+Los rangos de clasificación de estrellas determinan qué icono web se va a utilizar en un beatmap determinado. Seguir los rangos de iconos generalmente te dara una buena estimación para lograr una distribución de dificultad equilibrada. Hay algunas pautas (consulta la [sección de mapset en los Criterios de clasificación](/wiki/Ranking_Criteria#beatmap)) que puedes seguir para mejorar la distribución de dificultad de tu beatmapset.
 
 ## Niveles de dificultad
 

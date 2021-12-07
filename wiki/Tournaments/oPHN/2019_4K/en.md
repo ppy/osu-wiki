@@ -1,30 +1,30 @@
 ---
 tags:
-- PHN4K2019
-- PHN4K 2019
+  - PHN4K2019
+  - PHN4K 2019
 ---
 
 # osu! Philippines Nationals 2019 (osu!mania 4K)
 
-![PHN4K2019 Logo](img/logo.png)
+![PHN4K2019 logo](img/logo.png)
 
 > Be the **MAJESTIC** Maestro.
 
-The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a one-on-one, osu!mania 4-key tournament made for osu! players based in the Philippines or of Filipino Heritage. It is the first installment of the osu! Philippines Nationals.
+The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a one-on-one, osu!mania 4-key tournament made for osu! players based in the Philippines or of Filipino Heritage. It is the first instalment of the osu! Philippines Nationals.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-05-04/2019-05-18 |
-| Qualifiers Showcase | 2019-05-26 (19:00 UTC+8) |
+| Registration phase | 2019-05-04/2019-05-18 |
+| Qualifiers showcase | 2019-05-26 (19:00 UTC+8) |
 | Qualifiers | 2019-06-01/2019-06-02 |
 | Playoffs | 2019-06-08/2019-06-09 |
-| Group Stage | 2019-06-15/2019-06-16 |
+| Group stage | 2019-06-15/2019-06-16 |
 | Quarterfinals | 2019-06-22/2019-06-23 |
 | Semifinals | 2019-06-29/2019-06-30 |
-| Finals Week 1 | 2019-07-06/2019-07-07 |
-| Finals Week 2 | 2019-07-13/2019-07-14 |
+| Finals week 1 | 2019-07-06/2019-07-07 |
+| Finals week 2 | 2019-07-13/2019-07-14 |
 
 ## Prizes
 
@@ -36,7 +36,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 | :-- | :-- |
 | Host | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Coordinator | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675) |
-| Map Selector | ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
+| Mappool selector | ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Referee | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_PH] [Afireee](https://osu.ppy.sh/users/7919913), ![][flag_PH] [muffleberry](https://osu.ppy.sh/users/8978259) |
 | Streamer | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810) |
 | Commentator | ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [Toyohime-](https://osu.ppy.sh/users/9770359), ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Afireee](https://osu.ppy.sh/users/7919913) |
@@ -51,8 +51,6 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 - [Challonge](https://challonge.com/oPHN4K19)
 - [osu! Philippines Tournament Discord server](https://discord.gg/9ZUMmwS)
 
----
-
 ## Participants
 
 | Seed | Players |
@@ -62,76 +60,74 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 | Low (#9 - #24) | [Swarmsii](https://osu.ppy.sh/users/11716111), [GTXCZE](https://osu.ppy.sh/users/9209185), [notapplicable](https://osu.ppy.sh/users/7170536), [Captain Cusheen](https://osu.ppy.sh/users/9158337), [ChristsuGaming](https://osu.ppy.sh/users/12203613), [Lordie09](https://osu.ppy.sh/users/10010130), [Shiyui-](https://osu.ppy.sh/users/9374607), [bananacake304](https://osu.ppy.sh/users/3741704), [kraken\_33](https://osu.ppy.sh/users/11379988), [Andrei--](https://osu.ppy.sh/users/7222840), [MiekoYanagi](https://osu.ppy.sh/users/12296324), [wallwap](https://osu.ppy.sh/users/5532163), [PotatoPresser](https://osu.ppy.sh/users/6965801), [vincent4399](https://osu.ppy.sh/users/9764388), [Edison](https://osu.ppy.sh/users/1325159), [pumpiyumpiyummm](https://osu.ppy.sh/users/13928542) |
 | Bottom (#25 - #32) | [didgey](https://osu.ppy.sh/users/11568208), [Loli-Sensei69](https://osu.ppy.sh/users/10994606), [Neoskiie](https://osu.ppy.sh/users/12239110), [Chez](https://osu.ppy.sh/users/4866112), [Batujitsu](https://osu.ppy.sh/users/6402552), [Chiaki-chan](https://osu.ppy.sh/users/9378968), [Xidorn](https://osu.ppy.sh/users/7904667), [Hues](https://osu.ppy.sh/users/2367206) |
 
----
-
 ## Mappools
 
-### Finals Week 1
+### Finals week 1
 
 **[Download the mappack here! (84.9 MB)](https://drive.google.com/file/d/1FGo-7Xy2ZhTaM_pJtdmzVOltKLF2KmlK/view?usp=sharing)**
 
 - FreeMod
-  - [Terminal11 - Odd22 (Lenfried-) \[Choof's Masochist (LN Fix)\]](https://osu.ppy.sh/beatmaps/2083112)
-  - [SHIKI - Angelic layer (Vortex-) \[Distortion\]](https://osu.ppy.sh/beatmaps/1551698)
-  - [Yuyoyuppe - Palette GAMMA (Toaph Daddy) \[Colors\]](https://osu.ppy.sh/beatmaps/1978712)
-  - [Mayumi Morinaga - dreamin' feat. Ryu\* (+VOX Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmaps/1850115)
-  - [Camellia feat. Nanahira - Ningen vs Kyuunage Robot Tama-chan no Catchball Taiketsu (Polytetral) \[Beginner\]](https://osu.ppy.sh/beatmaps/2083171)
-  - [Two Steps From Hell - Star Sky (Evening) \[Ethereal\]](https://osu.ppy.sh/beatmaps/1699702)
-  - [YMCK - Curry Da Yo! (qqqant) \[Ricetune\]](https://osu.ppy.sh/beatmaps/2058130)
-  - [Casey Edwards feat. Ali Edwards - Devil Trigger (Valedict) \[Rebellion\]](https://osu.ppy.sh/beatmaps/1859068)
-  - [bj.HaLo - Gekitsui -HELL AIR FORCE- (stupud man) \[Inundation\]](https://osu.ppy.sh/beatmaps/1365985)
-  - [Tia - Deal with the devil (-Rem-) \[gamble\]](https://osu.ppy.sh/beatmaps/2082239)
-  - [Nekobolo - My Last (KatayokuNoTori) \[Final (o2 Style)\]](https://osu.ppy.sh/beatmaps/1313335)
-  - [loz - Cinderella Cage -Trancecore Mix- (Kamikaze) \[Tails' vs Kami's Lunatic\]](https://osu.ppy.sh/beatmaps/2022076)
-  - [sakuzyo - Black Lair (RemFangirl) \[Depths\]](https://osu.ppy.sh/beatmaps/1866053)
-  - [ONE - Future (arcwinolivirus) \[4K SV Innovation\]](https://osu.ppy.sh/beatmaps/1498464)
-  - [saradisk - 168 - 401 (Kamikaze) \[Subnautical Activities\]](https://osu.ppy.sh/beatmaps/1992444)
+  - Terminal11 - Odd22 (Lenfried-) \[Choof's Masochist (LN Fix)\]
+  - [SHIKI - Angelic layer (Vortex-) \[Distortion\]](https://osu.ppy.sh/beatmapsets/735008#mania/1551698)
+  - [Yuyoyuppe - Palette GAMMA (Toaph Daddy) \[Colors\]](https://osu.ppy.sh/beatmapsets/947386#mania/1978712)
+  - [Mayumi Morinaga - dreamin' feat. Ryu\* (+VOX Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmapsets/885179#mania/1850115)
+  - [Camellia feat. Nanahira - Ningen vs Kyuunage Robot Tama-chan no Catchball Taiketsu (Polytetral) \[Beginner\]](https://osu.ppy.sh/beatmapsets/995878#mania/2083171)
+  - Two Steps From Hell - Star Sky (Evening) \[Ethereal\]
+  - [YMCK - Curry Da Yo! (qqqant) \[Ricetune\]](https://osu.ppy.sh/beatmapsets/983584#mania/2058130)
+  - [Casey Edwards feat. Ali Edwards - Devil Trigger (Valedict) \[Rebellion\]](https://osu.ppy.sh/beatmapsets/889477#mania/1859068)
+  - [bj.HaLo - Gekitsui -HELL AIR FORCE- (stupud man) \[Inundation\]](https://osu.ppy.sh/beatmapsets/644532#mania/1365985)
+  - [Tia - Deal with the devil (-Rem-) \[gamble\]](https://osu.ppy.sh/beatmapsets/995384#mania/2082239)
+  - [Nekobolo - My Last (KatayokuNoTori) \[Final (o2 Style)\]](https://osu.ppy.sh/beatmapsets/622875#mania/1313335)
+  - [loz - Cinderella Cage -Trancecore Mix- (Kamikaze) \[Tails' vs Kami's Lunatic\]](https://osu.ppy.sh/beatmapsets/925063#mania/2022076)
+  - sakuzyo - Black Lair (RemFangirl) \[Depths\]
+  - [ONE - Future (arcwinolivirus) \[4K SV Innovation\]](https://osu.ppy.sh/beatmapsets/708785#mania/1498464)
+  - saradisk - 168 - 401 (Kamikaze) \[Subnautical Activities\]
 - Tiebreaker
-  - **[t+pazolite - do i smile? (\_underjoy) \[guess\]](https://osu.ppy.sh/beatmaps/1242347)**
+  - **[t+pazolite - do i smile? (\_underjoy) \[guess\]](https://osu.ppy.sh/beatmapsets/586663#mania/1242347)**
 
 ### Semifinals
 
 **[Download the mappack here! (87.8 MB)](https://drive.google.com/file/d/1fJ0kgr4ksQRWspKQFGTAVp0OO2vmDqVJ/view?usp=sharing)**
 
 - FreeMod
-  - [ZYTOKINE - DESIRE DREAM feat. itori - FELT Remix (\_underjoy) \[Melancholia\]](https://osu.ppy.sh/beatmaps/1751934)
-  - [Bal-Sagoth - The Obsidian Crown Unbound (Episode: IX) (Xonica) \[Bloodshed\]](https://osu.ppy.sh/beatmaps/1697322)
-  - [Sta - 99 Glooms (Ticle) \[X\]](https://osu.ppy.sh/beatmaps/2013908)
-  - [T-ara - Roly-Poly (Jirit) \[I keep looking at you\]](https://osu.ppy.sh/beatmaps/1790119)
-  - [Memme - Uranium (tailsdk) \[Radioactive Noodles\]](https://osu.ppy.sh/beatmaps/1824765)
-  - [Moe Shop - The New Moe Groove (MapleSyrup-) \[Hummingbird x1.2\]](https://osu.ppy.sh/beatmaps/1735528)
-  - [Noisestorm - Crab Rave (qqqant) \[GOOD MAPPOOL IS GONE\]](https://osu.ppy.sh/beatmaps/2017618)
-  - [Se-U-Ra - LOSHAXI (Elekton) \[alonewithi\]](https://osu.ppy.sh/beatmaps/1658712)
-  - [3L - Endless Night (Gekido-) \[Eternal\]](https://osu.ppy.sh/beatmaps/2001931)
-  - [penoreri - Sailing Force (Chrubble) \[Voyage\]](https://osu.ppy.sh/beatmaps/1979200)
-  - [BlackYooh vs siromaru - BLACK or WHITE? (Lite show Magic Remix) (Jungdongjin) \[Another Mind\]](https://osu.ppy.sh/beatmaps/1484691)
-  - [SickStrophe - Pop Up Tha Bass (Cokiiplay) \[Jump\]](https://osu.ppy.sh/beatmaps/1298710)
-  - [umecha - Tricolor Diary (MapleSyrup-) \[4k owo)!!!\]](https://osu.ppy.sh/beatmaps/2074774)
+  - [ZYTOKINE - DESIRE DREAM feat. itori - FELT Remix (\_underjoy) \[Melancholia\]](https://osu.ppy.sh/beatmapsets/836634#mania/1751934)
+  - [Bal-Sagoth - The Obsidian Crown Unbound (Episode: IX) (Xonica) \[Bloodshed\]](https://osu.ppy.sh/beatmapsets/808848#mania/1697322)
+  - [Sta - 99 Glooms (Ticle) \[X\]](https://osu.ppy.sh/beatmapsets/961775#mania/2013908)
+  - [T-ara - Roly-Poly (Jirit) \[I keep looking at you\]](https://osu.ppy.sh/beatmapsets/856938#mania/1790119)
+  - [Memme - Uranium (tailsdk) \[Radioactive Noodles\]](https://osu.ppy.sh/beatmapsets/872940#mania/1824765)
+  - [Moe Shop - The New Moe Groove (MapleSyrup-) \[Hummingbird x1.2\]](https://osu.ppy.sh/beatmapsets/738804#mania/1735528)
+  - [Noisestorm - Crab Rave (qqqant) \[GOOD MAPPOOL IS GONE\]](https://osu.ppy.sh/beatmapsets/963683#mania/2017618)
+  - [Se-U-Ra - LOSHAXI (Elekton) \[alonewithi\]](https://osu.ppy.sh/beatmapsets/790524#mania/1658712)
+  - [3L - Endless Night (Gekido-) \[Eternal\]](https://osu.ppy.sh/beatmapsets/956232#mania/2001931)
+  - [penoreri - Sailing Force (Chrubble) \[Voyage\]](https://osu.ppy.sh/beatmapsets/947636#mania/1979200)
+  - [BlackYooh vs siromaru - BLACK or WHITE? (Lite show Magic Remix) (Jungdongjin) \[Another Mind\]](https://osu.ppy.sh/beatmapsets/701502#mania/1484691)
+  - [SickStrophe - Pop Up Tha Bass (Cokiiplay) \[Jump\]](https://osu.ppy.sh/beatmapsets/615707#mania/1298710)
+  - [umecha - Tricolor Diary (MapleSyrup-) \[4k owo)!!!\]](https://osu.ppy.sh/beatmapsets/872808#mania/2074774)
 - Tiebreaker
-  - **[PSYQUI - Hype feat. Such (lapix Remix) (Chrubble) \[Skybound\]](https://osu.ppy.sh/beatmaps/1951599)**
+  - **[PSYQUI - Hype feat. Such (lapix Remix) (Chrubble) \[Skybound\]](https://osu.ppy.sh/beatmapsets/934819#mania/1951599)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (78.7 MB)](https://drive.google.com/file/d/1SMpxVMp6QIgC8C9iDDVKwMmaVOV8Xbso/view?usp=sharing)**
 
 - FreeMod
-  - [Night Tempo - Nemure (Valedict) \[Rest\]](https://osu.ppy.sh/beatmaps/1190462)
-  - [BlackY vs. Yooh - XROSS INFECTION (Allezard) \[NM \[Full LN\]\]](https://osu.ppy.sh/beatmaps/802114)
-  - [fripSide - sister's noise (TV Size) (juankristal) \[Electromaster\]](https://osu.ppy.sh/beatmaps/2038639)
-  - [antiPLUR - Runengon (Raveille) \[Lenfried's Insane\]](https://osu.ppy.sh/beatmaps/2039384)
-  - [colate - pyonpyon dream (LeiN-) \[Daydream\]](https://osu.ppy.sh/beatmaps/1994717)
-  - [ETIA. vs. DJ DALER MEHNDI - TUNAK TUNAKSTORM (qqqant) \[DA DA DA\]](https://osu.ppy.sh/beatmaps/1678448)
-  - [ITSUHA. - Klouz of Reveria (Elekton) \[cascade\]](https://osu.ppy.sh/beatmaps/1514656)
-  - [Venetian Snares - Ketsarku Mozgalom (-Rem-) \[grievance\]](https://osu.ppy.sh/beatmaps/2019849)
-  - [Hello, Happy World! - Romeo (Razzy) \[Parade\]](https://osu.ppy.sh/beatmaps/1801301)
-  - [FELT - Life \[Eris's "a Fate Encounter" mix\] (\[OSC\]Amagai) \[Lunatic\]](https://osu.ppy.sh/beatmaps/1971029)
-  - [Helblinde - Above The Clouds (Tidek) \[Heaven\]](https://osu.ppy.sh/beatmaps/1870722)
-  - [saradisk - 211 - Natsuiro Present (180bpmEDIT) (Hues) \[Present\]](https://osu.ppy.sh/beatmaps/1509208)
-  - [Eskmo - Cloudlight (cut) (Ciel) \[Stage 1: Control\]](https://osu.ppy.sh/beatmaps/1546415)
+  - [Night Tempo - Nemure (Valedict) \[Rest\]](https://osu.ppy.sh/beatmapsets/562937#mania/1190462)
+  - [BlackY vs. Yooh - XROSS INFECTION (Allezard) \[NM \[Full LN\]\]](https://osu.ppy.sh/beatmapsets/365456#mania/802114)
+  - [fripSide - sister's noise (TV Size) (juankristal) \[Electromaster\]](https://osu.ppy.sh/beatmapsets/973859#mania/2038639)
+  - [antiPLUR - Runengon (Raveille) \[Lenfried's Insane\]](https://osu.ppy.sh/beatmapsets/971561#mania/2039384)
+  - [colate - pyonpyon dream (LeiN-) \[Daydream\]](https://osu.ppy.sh/beatmapsets/955162#mania/1994717)
+  - ETIA. vs. DJ DALER MEHNDI - TUNAK TUNAKSTORM (qqqant) \[DA DA DA\]
+  - [ITSUHA. - Klouz of Reveria (Elekton) \[cascade\]](https://osu.ppy.sh/beatmapsets/716823#mania/1514656)
+  - Venetian Snares - Ketsarku Mozgalom (-Rem-) \[grievance\]
+  - [Hello, Happy World! - Romeo (Razzy) \[Parade\]](https://osu.ppy.sh/beatmapsets/860962#mania/1801301)
+  - [FELT - Life \[Eris's "a Fate Encounter" mix\] (\[OSC\]Amagai) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/943788#mania/1971029)
+  - [Helblinde - Above The Clouds (Tidek) \[Heaven\]](https://osu.ppy.sh/beatmapsets/895291#mania/1870722)
+  - [saradisk - 211 - Natsuiro Present (180bpmEDIT) (Hues) \[Present\]](https://osu.ppy.sh/beatmapsets/714090#mania/1509208)
+  - [Eskmo - Cloudlight (cut) (Ciel) \[Stage 1: Control\]](https://osu.ppy.sh/beatmapsets/732986#mania/1546415)
 - Tiebreaker
-  - **[Laur - Sound Chimera (\_Streamy\_) \[Celestial Iris\]](https://osu.ppy.sh/beatmaps/1779774)**
+  - **[Laur - Sound Chimera (\_Streamy\_) \[Celestial Iris\]](https://osu.ppy.sh/beatmapsets/844432#mania/1779774)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (55.5 MB)](https://drive.google.com/open?id=1tlpvcpfwlgApNVwTJIGWJhe14gpwZ3ox)**
 
@@ -177,9 +173,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
   - [Sampling Masters MEGA - Kattobi KEIKYU Rider (Raveille) \[Airborne Array\]](https://osu.ppy.sh/beatmapsets/977507#mania/2045879)
   - [The Flashbulb - Passage D (SurfChu85) \[labyrinth\]](https://osu.ppy.sh/beatmapsets/977508#mania/2045880)
 
----
-
-## Match Results
+## Match results
 
 ### Semifinals
 
@@ -209,7 +203,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | nathan on mania | 4 | **6** | **Swarmsii** | [#1](https://osu.ppy.sh/community/matches/52844221) |
 | windrush123 | 2 | **6** | **Silhoueska Elze** | [#1](https://osu.ppy.sh/community/matches/52846932) |
 
-### Group Stage
+### Group stage
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSdgCT4CH9eo8qFgAWTBj5AafXFJXyaL9FLxxQvuC-TSDaOXy5n4_sSc4jDyNtGI3KoZSZPk4w4Dmzx/pubhtml)
 
@@ -244,10 +238,10 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | **Koibenii** | **5** | 0 | bananacake304 | [#1](https://osu.ppy.sh/community/matches/52661333) |
 | **GTXCZE** | **5** | 0 | bananacake304 | [#1](https://osu.ppy.sh/community/matches/52661967) |
 | Silhoueska Elze | 2 | **5** | **Koibenii** | [#1](https://osu.ppy.sh/community/matches/52662954) |
-| **- Kura -** | **5** | 0 | Swarmsii | -win by default- |
+| **- Kura -** | **5** | 0 | Swarmsii | *win by default* |
 | **Koibenii** | **5** | 4 | GTXCZE | [#1](https://osu.ppy.sh/community/matches/52664687) |
-| **nathan on mania** | **5** | 0 | Chez | -win by default- |
-| **nathan on mania** | **5** | 0 | Lordie09 | -win by default- |
+| **nathan on mania** | **5** | 0 | Chez | *win by default* |
+| **nathan on mania** | **5** | 0 | Lordie09 | *win by default* |
 
 ### Play-offs
 
@@ -255,7 +249,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Friday, 2019-06-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| notapplicable | 0 | **4** | **vincent4399** | -win by default- |
+| notapplicable | 0 | **4** | **vincent4399** | *win by default* |
 | **Lordie09** | **4** | 2 | MiekoYanagi | [#1](https://osu.ppy.sh/community/matches/52429092) |
 
 | Saturday, 2019-06-08 |  |  |  |  |
@@ -271,9 +265,9 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Sunday, 2019-06-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Captain Cusheen | 0 | **4** | **PotatoPresser** | -win by default- |
+| Captain Cusheen | 0 | **4** | **PotatoPresser** | *win by default* |
 | **Arccat** | **4** | 0 | Hues | [#1](https://osu.ppy.sh/community/matches/52479270) |
-| Nikana | 0 | **4** | **Chez** | -win by default- |
+| Nikana | 0 | **4** | **Chez** | *win by default* |
 | **Swarmsii** | **4** | 0 | pumpiyumpiyummm | [#1](https://osu.ppy.sh/community/matches/52482377) |
 | **nathan on mania** | **4** | 0 | Chiaki-chan | [#1](https://osu.ppy.sh/community/matches/52483191) |
 | **bananacake304** | **4** | 2 | kraken_33 | [#1](https://osu.ppy.sh/community/matches/52484174) |
@@ -282,18 +276,16 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/15lbiVX9pzeWakCHoy7p_cYnjCnltKG7C1BXSazZA0xQ/edit?usp=sharing)
 
----
-
 ## Ruleset
 
-### Tournament Organisation
+### Tournament organisation
 
-#### General Eligibility
+#### General eligibility
 
 - Players who currently have (or had at some point since Account Creation) the Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but can present a proof of their Philippine Citizenship to the staff are the only ones allowed to join the tournament.
 - Staff Members who are not part of the Mappool Selectors and Referees are permitted to join the tournament.
 
-#### Round Overview
+#### Round overview
 
 - With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
   - **Qualification Stage**: 4 song mappool, no winning condition, no tiebreaker song
@@ -304,7 +296,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - All matches held are using a 1 player versus 1 player rule.
 - All rounds are to use the **restrictive FreeMod** rules (only NoMod, Flashlight, FadeIn, or Hidden are permitted to be used while playing), in addition, **Score v2** is implemented.
 
-#### Qualification Process
+#### Qualification process
 
 - All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. The maximum number of players who can advance to the subsequent round is 32. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
 - The qualification round will have a 4 song mappool that widely varies in skillsets tested. These tested skillsets will correspond to skillsets commonly seen in mappools throughout the tournament.
@@ -313,7 +305,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - Players will be organized into groups based on their availability. Because qualification is not a process that involves 1 on 1 matchups, it is actually possible to have 8 players go through the qualification process at once. If this is a confusing process, do not worry: simply adhere to the schedule that will be released and follow referee instructions during the match. The purpose of putting you in groups of 8 is to give everyone streaming time, for qualifiers will be streamed as well!
 - Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average score rating on all four songs, with the best average score rating being seed #1, and the worst average score rating being seed n; n being the number of players in the qualification stage.
 
-#### Post-Qualification
+#### Post-qualification
 
 - The round after the qualification stage (also known as the play-offs stage) is a single elimination stage with specific rules.
 - After the qualification round, the remaining players, based on their qualification seeds, will be divided into 4 different groups. Each group will have a different set of protocols to follow.
@@ -322,7 +314,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
   - **9th-24th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player in this group. In particular, their opponent's seed will be `(33 - player's seed)`. Players who win their match in this stage will advance to the Group Stage.
   - **25th-32nd seeds**: Players within this group will participate in two matches in the Play-Offs stage. Their first opponent will be a player in this seed group. In particular, their opponent's seed will be `(57 - player's seed)`. If the player wins their first match, their second opponent will be a player in the 5th to 8th seed group. Players who win both of their matches in this stage will advance to the Group Stage.
 
-#### Group Stage
+#### Group stage
 
 - After the Play-Offs stage, the remaining players will be divided into 4 different groups based on their qualification seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group.
 - Each player in these groups will face each other once. In total, every player in the Group Stage will participate in **three matches**. The two best-performing players in each group will advance to the bracket stage.
@@ -333,7 +325,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
   - Higher qualification seed.
 - The two worst-performing players of each group will be eliminated from the tournament.
 
-#### Bracket Stage
+#### Bracket stage
 
 - The bracket stage is a **double elimination** stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
 - After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. In particular, their opponent for the bracket stage will be `(17 - player's GS seed)`.
@@ -342,7 +334,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - Players who are in the winner's bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where the player is required to play in up to two matches if the player were to lose his first match in the Grand Finals stage.
 - Players who are in the loser's bracket at the start of Finals Week 1 or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will no longer need to play in any further matches in the tournament, for they are eliminated from the tournament.
 
-### Tournament Play
+### Tournament play
 
 #### Protocol
 
@@ -364,7 +356,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
   - PHN4K19 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
-#### Warm-up Songs
+#### Warm-up songs
 
 - Each player in the match will be allowed one (1) warm-up song to be played, making for two (2) warm-ups in total between both players. All warm-up songs must be osu!mania 4K specific beatmaps.
 - The warm-up must be uploaded to the osu! website and accessible by everyone prior to the tournament match. Bloodcat links are **not allowed**, and neither are personal links featuring the beatmap that you want downloaded.
@@ -373,18 +365,18 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 - In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This includes the first 2 stages of the tournament after the qualifiers.
 
-#### Bans, Rolls and Song Selection
+#### Bans, rolls, and song selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one (1) map within the map pool that they are playing for the given round.
-- Players will be instructed to do a !roll command by the referee that is overseeing the match; the losing (lower) roll picks the first ban, while the winning (higher) roll picks the first song of the match. In the event that both players get the same roll, they will have to continue doing the !roll command until the tie is broken.
+- Players will be instructed to do a `!roll` command by the referee that is overseeing the match; the losing (lower) roll picks the first ban, while the winning (higher) roll picks the first song of the match. In the event that both players get the same roll, they will have to continue doing the `!roll` command until the tie is broken.
 - After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
-    - The winning player moves onto the next match.
-    - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
+     - The winning player moves onto the next match.
+     - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
   2. Both players are at match point at the same time.
-    - Both players will play the song designated as the tiebreaker.
-    - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
+     - Both players will play the song designated as the tiebreaker.
+     - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
 - If the beatmap ends in a draw, the game will be nullified and the beatmap will be replayed.
 
 #### Disconnections
@@ -394,8 +386,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"

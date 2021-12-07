@@ -10,7 +10,7 @@ tags:
 
 ![o!mAC2020 logo](img/logo.jpg)
 
-The **osu!mania Asian's Champions 2020** (***o!mAC2020***) was an individual 1v1 osu!mania 4-key tournament for players from Asia. It was the second installment of the osu!mania Asian's Champions.
+The **osu!mania Asian's Champions 2020** (***o!mAC2020***) was an individual 1v1 osu!mania 4-key tournament for players from Asia. It was the second instalment of the osu!mania Asian's Champions.
 
 ## Tournament schedule
 
@@ -28,9 +28,9 @@ The **osu!mania Asian's Champions 2020** (***o!mAC2020***) was an individual 1v1
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ## Organisation
 
@@ -40,7 +40,7 @@ The osu!mania Asian's Champions 2020 was run by various community members.
 | :-- | :-- |
 | Host | ![][flag_ID] [Mirea](https://osu.ppy.sh/users/8404646) |
 | Co-host | ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388) |
-| Map selector | ![][flag_ID] [Cims](https://osu.ppy.sh/users/15159469), ![][flag_ID] [LuxSayaka](https://osu.ppy.sh/users/8382579), ![][flag_TH] [-[DaNieL_TH]-](https://osu.ppy.sh/users/6456531) |
+| Mappool selector | ![][flag_ID] [Cims](https://osu.ppy.sh/users/15159469), ![][flag_ID] [LuxSayaka](https://osu.ppy.sh/users/8382579), ![][flag_TH] [-[DaNieL_TH]-](https://osu.ppy.sh/users/6456531) |
 | Streamer | ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_MY] [[MY]Solut1on\_](https://osu.ppy.sh/users/14262785), ![][flag_VN] [DanX](https://osu.ppy.sh/users/10542408) |
 | Commentator | ![][flag_US] [[GS]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_US] [[GS]Aussie](https://osu.ppy.sh/users/13395045), ![][flag_US] [[GS]Croniken](https://osu.ppy.sh/users/9989041), ![][flag_CL] [[GS]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) |
 | Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_ID] [by-ad](https://osu.ppy.sh/users/7439939), ![][flag_ID] [Yukari\_Sama](https://osu.ppy.sh/users/6316524), ![][flag_PH] [Gerwin13](https://osu.ppy.sh/users/15776185), ![][flag_PH] [MowseChow](https://osu.ppy.sh/users/11341964), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711) |
@@ -146,7 +146,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - Exit This Earth's Atomosphere (Camellia's 'PLANETARY//200STEP' Remix) [-Mystic vs. Leni's Thermosphere]](https://osu.ppy.sh/beatmapsets/860846#mania/1801089)**
 
-### Post-Qualifiers
+### Post-qualifiers
 
 - FreeMod
   - [Mori Calliope feat. kokorobeats - Excuse My Rudeness, But Could You Please RIP? [DEADBEATS]](https://osu.ppy.sh/beatmapsets/1256680#mania/2611413)
@@ -208,7 +208,7 @@ This competition has come to an end and resulted in the following podium:
 | **TriDoanGaming** | **0** | -1 | Sakaki | *forfeit* |
 | **Bojii** | **0** | -1 | Situroen | *forfeit* |
 
-### Qualifiers & Post-Qualifiers
+### Qualifiers & Post-qualifiers
 
 Check the results in this [statistics sheet](https://docs.google.com/spreadsheets/d/1sS51USN3pMNHdjWBPrKW2rmaaLgKpStwxdynL1pWc-4).
 

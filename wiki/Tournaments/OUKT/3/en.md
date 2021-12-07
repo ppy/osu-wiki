@@ -8,11 +8,9 @@ tags:
 
 # osu! UK Tournament 3 (OUKT3)
 
-## Introduction
+The **osu! UK tournament 3** (***OUKT3***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the third iteration of the **osu! UK Tournament** (***OUKT***) series.
 
-The **osu! UK tournament 3** (***OUKT3***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 3rd iteration of the **osu! UK Tournament** (***OUKT***) series.
-
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -32,17 +30,17 @@ The OUKT3 was run by various osu! community members
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
-| Mappool selectors | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883), ![][flag_TH] [Frostmourne](https://osu.ppy.sh/users/199669) |
+| Mappool selector | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883), ![][flag_TH] [Frostmourne](https://osu.ppy.sh/users/199669) |
 | Referee | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Udon](https://osu.ppy.sh/users/2232928) |
 | Streamer | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) |
-| Graphic Designer | ![][flag_GB] [Toonzz](https://osu.ppy.sh/users/2295917) |
-| The Draw Master | ![][flag_GB] [Mollerz](https://osu.ppy.sh/users/1820042) |
+| Graphic designer | ![][flag_GB] [Toonzz](https://osu.ppy.sh/users/2295917) |
+| The draw master | ![][flag_GB] [Mollerz](https://osu.ppy.sh/users/1820042) |
 
 ## Links
 
 - [Fourm thread](https://osu.ppy.sh/community/forums/topics/212521)
-- [Challonge page](https://challonge.com/osuuk3 "Challonge")
-- [Livestream](https://www.twitch.tv/oukt3 "Twitch")
+- [Challonge page](https://challonge.com/osuuk3)
+- [Livestream](https://www.twitch.tv/oukt3)
 
 ## Participants
 
@@ -65,7 +63,7 @@ The OUKT3 was run by various osu! community members
 
 **[Download the mappack here! (133 MB)](https://drive.google.com/open?id=18quJ0hTEQZClsEBU7aOvtECm9ZcquQ3l)**
 
-- Nomod
+- NoMod
   - [An - artcore JINJA (Flower) \[Skystar\]](https://osu.ppy.sh/beatmapsets/114987#osu/297668)
   - [daisan - -+ (RikiH\_) \[Extra\]](https://osu.ppy.sh/beatmapsets/135094#osu/338544)
   - [AU - Infinite of Nuclear Fusion (OnosakiHito) \[Regou's Extra\]](https://osu.ppy.sh/beatmapsets/35211#osu/291285)
@@ -87,7 +85,7 @@ The OUKT3 was run by various osu! community members
   - [BiBi - Love Novels (happy623) \[Insane\]](https://osu.ppy.sh/beatmapsets/111150#osu/289275)
 - FreeMod
   - [Meiko Nakamura - Dispel (terametis) \[Insane\]](https://osu.ppy.sh/beatmapsets/39640#osu/126229)
-  - [Levaslater - NNRT (Reisen Udongein) \[Extra\]](lihttps://osu.ppy.sh/beatmapsets/47330#osu/146985nk)
+  - [Levaslater - NNRT (Reisen Udongein) \[Extra\]](https://osu.ppy.sh/beatmapsets/47330#osu/146985nk)
 - Tiebreaker
   - **[Halozy - Sentimental Skyscraper (Hollow Wings) \[Myouren Hijiri\]](https://osu.ppy.sh/beatmapsets/100348#osu/412288)**
 
@@ -95,7 +93,7 @@ The OUKT3 was run by various osu! community members
 
 **[Download the mappack here! (147 MB)](https://drive.google.com/open?id=1BcbYc1EYsKpKmo0ujrS0p8-iGEu7F1R5)**
 
-- Nomod
+- NoMod
   - [MYTK - Yggdrasil (P o M u T a) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/137973#osu/344715)
   - [IOSYS - Usatei 2011 (Saten) \[Ozzy's Extra\]](https://osu.ppy.sh/beatmapsets/37563#osu/130500)
   - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[Skystar's Extra\]](https://osu.ppy.sh/beatmapsets/134151#osu/392220)
@@ -123,7 +121,7 @@ The OUKT3 was run by various osu! community members
 
 **[Download the mappack here! (118 MB)](https://drive.google.com/open?id=16UaYNUD2ey4059MPRd-69mdNPQbsOn18)**
 
-- Nomod
+- NoMod
   - [Foreground Eclipse - I Bet You'll Forget That Even If You Noticed That (rEdo) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/146805#osu/363662)
   - [Tristam - Till it's Over (Luanny) \[Ultra Hard\]](https://osu.ppy.sh/beatmapsets/139415#osu/368933)
   - [Hatsune Miku - Marionette no Kairaku (rui) \[Uncontrollable\]](https://osu.ppy.sh/beatmapsets/43801#osu/139652)
@@ -151,7 +149,7 @@ The OUKT3 was run by various osu! community members
 
 **[Download the mappack here! (164 MB)](https://drive.google.com/open?id=1jwPhO7Lq586Uftj1mQnaqFJ8-H2WmnZk)**
 
-- Nomod
+- NoMod
   - [ginkiha - Oriens (Deif) \[Extra\]](https://osu.ppy.sh/beatmapsets/65855#osu/192515)
   - [Lon - Nijigen Dream Fever (Natteke) \[Nsane\]](https://osu.ppy.sh/beatmapsets/94744#osu/254814)
   - [goreshit - o'er the flood (grumd) \[The Flood Beneath\]](https://osu.ppy.sh/beatmapsets/51972#osu/181253)
@@ -178,7 +176,7 @@ The OUKT3 was run by various osu! community members
 
 **[Download the mappack here! (92 MB)](https://drive.google.com/open?id=1jSfe4_NkuFJ_aYy9mTCrPNDG9hjbPWlv)**
 
-- Nomod
+- NoMod
   - [The Qemists - Dem Na Like Me (feat. Wiley) (Natteke) \[Insane Collab\]](https://osu.ppy.sh/beatmapsets/47923#osu/150898)
   - [kors k - Insane Techniques (captin1) \[Azer's Extra\]](https://osu.ppy.sh/beatmapsets/155288#osu/396761)
   - [Yuuki Aoi - Platinum (Mythol) \[Collab\]](https://osu.ppy.sh/beatmapsets/83118#osu/229676)
@@ -203,7 +201,7 @@ The OUKT3 was run by various osu! community members
 
 **[Download the mappack here! (84 MB)](https://drive.google.com/open?id=1VMBQu-MryLpUz_-dIDnzs8wEDsXIXN1Q)**
 
-- Nomod
+- NoMod
   - [Toyosaki Aki - Diamond (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/111760#osu/290581)
   - [Savant - Bad Baws (TicClick) \[Insane\]](https://osu.ppy.sh/beatmapsets/146512#osu/363061)
   - [3L, mariapolo - WARNING! (LunarSakuya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/92435#osu/249904)
@@ -269,7 +267,7 @@ Saturday, 12 July 2014 & Sunday, 13 July 2014
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **4** | 0 | ![][flag_GB] Neroh | |
-| **bahamete** ![][flag_GB] | **1** | 0 | ![][flag_GB] spaminabox | Forfeit |
+| **bahamete** ![][flag_GB] | **1** | 0 | ![][flag_GB] spaminabox | *forfeit* |
 | Desired ![][flag_GB] | 3 | **4** | ![][flag_GB] **Cozzzy** | |
 | **Jeromelol** ![][flag_GB] | **4** | 1 | ![][flag_GB] Kry | |
 | **R a h a r u** ![][flag_GB] | **4** | 2 | ![][flag_GB] Vidya | |
@@ -290,13 +288,13 @@ Saturday, 5 July 2014 & Sunday, 6 July 2014
 | lovu ![][flag_GB] | 2 | **3** | ![][flag_GB] **Desired** | |
 | Viremon ![][flag_GB] | 2 | **3** | ![][flag_GB] **Cozzzy** | |
 | **Jeromelol** ![][flag_GB] | **3** | 0 | ![][flag_GB] 3lliot | |
-| **Kry** ![][flag_GB] | **1** | 0 | ![][flag_GB] Raiku | Forfeit |
+| **Kry** ![][flag_GB] | **1** | 0 | ![][flag_GB] Raiku | *forfeit* |
 | **R a h a r u** ![][flag_GB] | **3** | 2 | ![][flag_GB] EzLyn | |
 | Kakiage ![][flag_GB] | 0 | **3** | ![][flag_GB] **Vidya** | |
-| **Jameslike** ![][flag_GB] | **1** | 0 | ![][flag_GB] Just Miku | Forfeit |
+| **Jameslike** ![][flag_GB] | **1** | 0 | ![][flag_GB] Just Miku | *forfeit* |
 | YunoWhoItIs ![][flag_GB] | 2 | **3** | ![][flag_GB] **jesus1412** | |
 | **Kardet** ![][flag_GB] | **3** | 0 | ![][flag_GB] gadrin | |
-| **DatPenguinTho** ![][flag_GB] | **1** | 0 | ![][flag_GB] EatYourMattress | Forfeit |
+| **DatPenguinTho** ![][flag_GB] | **1** | 0 | ![][flag_GB] EatYourMattress | *forfeit* |
 | **Limit\_Break** ![][flag_GB] | **3** | 1 | ![][flag_GB] kyou | |
 | ChicagoTed7172 ![][flag_GB] | 1 | **3** | ![][flag_GB] **iLikeMudkipz** | |
 
@@ -311,7 +309,7 @@ Saturday, 28 June 2014 & Sunday, 29 July 2014
 | **SgtSitdown** ![][flag_GB] | **3** | 0 | ![][flag_GB] Udon | |
 | **Neroh** ![][flag_GB] | **3** | 2 | ![][flag_GB] PortalLife | |
 | **bahamete** ![][flag_GB] | **3** | 0 | ![][flag_GB] Justify | |
-| **Snookie** ![][flag_GB] | **1** | 0 | ![][flag_GB] Rime | Forfeit |
+| **Snookie** ![][flag_GB] | **1** | 0 | ![][flag_GB] Rime | *forfeit* |
 | vaidax5 ![][flag_LT] | 2 | **3** | ![][flag_GB] **kenlei2009** | |
 | **spaminabox** ![][flag_GB] | **3** | 1 | ![][flag_GB] Could This Be | |
 | **lovu** ![][flag_GB] | **3** | 1 | ![][flag_GB] Misti | |
@@ -329,10 +327,10 @@ Saturday, 28 June 2014 & Sunday, 29 July 2014
 | **Jameslike** ![][flag_GB] | **3** | 2 | ![][flag_GB] [AOTN] | |
 | **Just Miku** ![][flag_GB] | **3** | 1 | ![][flag_GB] Ommetaphobia | |
 | **YunoWhoItIs** ![][flag_GB] | **3** | 0 | ![][flag_GB] Run-Cat | |
-| Slvin ![][flag_GB] | 0 | **1** | ![][flag_GB] **jesus1412** | Forfeit |
+| Slvin ![][flag_GB] | 0 | **1** | ![][flag_GB] **jesus1412** | *forfeit* |
 | **Kardet** ![][flag_GB] | **3** | 1 | ![][flag_GB] Awesomefacerox | |
 | **Gadrin** ![][flag_GB] | **3** | 1 | ![][flag_GB] -MoeYandere- | |
-| Chungygiri ![][flag_GB] | 0 | **1** | ![][flag_GB] **DatPenguinTho** | Forfeit |
+| Chungygiri ![][flag_GB] | 0 | **1** | ![][flag_GB] **DatPenguinTho** | *forfeit* |
 | **EatYourMattress** ![][flag_GB] | **3** | 1 | ![][flag_GB] Crai | |
 | kozuka ![][flag_GB] | 1 | **3** | ![][flag_GB] **Limit_Break** | |
 | **kyou** ![][flag_GB] | **3** | 0 | ![][flag_GB] dreeeaam | |
@@ -341,7 +339,7 @@ Saturday, 28 June 2014 & Sunday, 29 July 2014
 
 ## Ruleset
 
-### General Tournament Rules
+### General tournament rules
 
 - Players that are under rank #50,000 are not allowed to sign up.
 - UK staff are allowed to play.
@@ -356,7 +354,7 @@ Saturday, 28 June 2014 & Sunday, 29 July 2014
 - RO64/RO32 will be best of 5. RO16 will be best of 7. Quarterfinals/Semifinals will be best of 9. Finals/3rd Place will be best of 11.
 - Any unexpected happenings or events not covered by the rules shall be handled by the organizer at their discretion.
 
-### Seeding Rules
+### Seeding rules
 
 Seeding for this tournament will be as follows. This is a tournament of 64 players, 16 of which will be seeded. The draw is then completed as follows:
 
@@ -367,7 +365,7 @@ Seeding for this tournament will be as follows. This is a tournament of 64 playe
 5. The 9th-16th seeds will be drawn in remaining gaps so they do not run into another seed in the first 2 rounds.
 6. The remaining 48 competitors will be randomly assigned to the remaining gaps in the draw.
 
-### Match Rules
+### Match rules
 
 - The referee shall make the game and give it a appropriate title. First pick shall be decided by `!roll`, the highest roll wins. The pick order then will alternate back and forth between both players until one player wins.
 - The game mode will be set to Team Vs.
@@ -377,7 +375,7 @@ Seeding for this tournament will be as follows. This is a tournament of 64 playe
 - Matches will be locked and invite only.
 - If you fail the map, it is considered as a loss.
 
-### Scheduling Rules/Info
+### Scheduling rules/info
 
 - Matches will be played on the weekend.
 - If you cannot play at the time posted for you, contact the organizer for a rearrangement.

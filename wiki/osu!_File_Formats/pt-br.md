@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Formatos de arquivo do osu!
 
 ## Formatos de arquivo específicos do osu!
@@ -8,7 +12,6 @@
 | :-- | :-- |
 | [.osz][Osz Link] | Arquivo executável de beatmap. |
 | [.osk][Osk Link] | Arquivo executável de skin. |
-| [.db][Db Link] | Informação em cache. |
 
 ### Editor de beatmap
 
@@ -85,7 +88,6 @@
 
 [Osz Link]: /wiki/osu!_File_Formats/Osz_(file_format)
 [Osk Link]: /wiki/osu!_File_Formats/Osk_(file_format)
-[Db Link]: /wiki/osu!_File_Formats/Db_(file_format)
 [Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)
 [Osb Link]: /wiki/osu!_File_Formats/Osb_(file_format)
 [Osr Link]: /wiki/osu!_File_Formats/Osr_(file_format)

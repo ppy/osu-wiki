@@ -4,7 +4,7 @@ outdated: true
 
 # osu!supporter
 
-![osu!supporter Abzeichen](img/store-product.jpg "osu!supporter Abzeichen")
+![osu!supporter Abzeichen](img/store-product.jpg?1 "osu!supporter Abzeichen")
 
 ## Einleitung
 
@@ -36,7 +36,7 @@ Kurz gefasst: Die Unterstützungen tragen dazu bei, dass osu! am Laufen ist, ohn
 
 [Benutzt diese Webseite zum Umrechnen](https://finanzen.net/waehrungsrechner/) oder sucht hier in [Google](https://www.google.com.my/#q=usd+exchange+rate) nach, um den Preis in eurem Land nachzuprüfen. Derzeitig wird es in US Dollars verrechnet.
 
-![Beispiel hierfür](img/selecting-duration.jpg "Beispiel hierfür")
+![Beispiel hierfür](img/selecting-duration.jpg?1 "Beispiel hierfür")
 
 | Monate | Kosten ($) | Kosten (€) (Eurostand nach dem 10.06.2014) |
 | :-: | :-- | :-- |
@@ -62,6 +62,6 @@ Nun hast du verschiedene Bezahloptionen, die weltweit verwendet werden. Empfehle
 
 ### Dauer
 
-![Der Vergleich: Inaktiver und aktiver osu!supporter.](img/status.jpg "Der Vergleich: Inaktiver und aktiver osu!supporter.")
+![Der Vergleich: Inaktiver und aktiver osu!supporter.](img/status.jpg?1 "Der Vergleich: Inaktiver und aktiver osu!supporter.")
 
 Sobald die Transaktion abgeschlossen ist, wird auf deinem Profil unter "Recent Activity" folgendes stehen: "{Name des Benutzers} has become an osu! supporter - thanks for your generosity!" (sofern das der erste Tag auf dem jeweiligen Account ist). Sofern schonmal osu!Supporter geholt wurde, wird stattdessen "{Name des Benutzers} has once again chosen to donate to the osu! cause - thanks for your generosity!" stehen. Wenn du dir den für dich selber gekauft hast, wirst du unter deinem Profilbild das osu!supporter Abzeichen finden. Um nachzuprüfen, wann dieser abläuft, [kehre zur Seite zurück, woher du diesen gekauft hast](https://osu.ppy.sh/home/support).

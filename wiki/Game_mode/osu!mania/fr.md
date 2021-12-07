@@ -82,7 +82,7 @@ La régénération de la barre de vie s'active lentement lorsque vous tenez une/
 
 ## Styles de Jeu
 
-*[Référez-vous à la page Styles de Jeu sous osu!mania](/wiki/Play_Styles#osu-mania).*
+*[Référez-vous à la page Styles de Jeu sous osu!mania](/wiki/Play_style#osu-mania).*
 
 ## Contrôles
 
@@ -186,7 +186,7 @@ Arrangement de touches *Symétrique* pour le second set
 
 ## Scoring
 
-*[Les Valeurs de Scoring peuvent être trouvées sous osu!mania de la section Scoring Values](/wiki/Score#osu-mania).*
+*Les valeurs des scores peuvent être trouvées dans l'article [système de notation d'osu!mania](/wiki/Score/osu!mania).*
 
 La section Scoring détaille tous les recoins du scoring, formules mathématiques comprises.
 

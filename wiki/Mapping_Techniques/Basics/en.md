@@ -1,3 +1,6 @@
+<!-- TODO: Needs to be rewritten, the article does not match with other articles (writing style, formatting).
+Also check if the article matches with ASC. See #5729 for more informations -->
+
 # Basic mapping techniques
 
 ## Common Beatmap Flow
@@ -7,7 +10,7 @@ You will need to determine what will be best for the player as following either 
 
 ## Symmetry
 
-Symmetry is when the beatmap is symmetrical in respect to an axis.
+**Symmetry** is when the beatmap is symmetrical in respect to an axis.
 The most common type of symmetry is horizontal symmetry.
 There are other types of symmetry too, however, like vertical symmetry, diagonal symmetry, and symmetry with respect to the origin.
 Normally we would say, "Think of an odd function", but that would probably alienate a large portion of the playerbase."
@@ -36,7 +39,7 @@ This type of symmetry is nice because it's more subtle than horizontal or vertic
 
 ### Modified Symmetry
 
-Modified Symmetry is when you take a symmetrical pattern and modify it in various ways.
+**Modified Symmetry** is when you take a symmetrical pattern and modify it in various ways.
 Sometimes it works and sometimes it doesn't.
 
 00:20:455 (1,2,3) is one of the more successful examples of modified symmetry.
@@ -55,7 +58,7 @@ However, if you want to look at other maps, Krisom's maps are considered by many
 
 ## Jumps
 
-A jump is an advanced mapping technique where the mapper places two hit objects farther apart than the standard distance snap multiplier would allow.
+A **jump** is an advanced mapping technique where the mapper places two hit objects farther apart than the standard distance snap multiplier would allow.
 This is usually done by either temporarily changing the distance snap multiplier or temporarily turning off distance snap.
 
 Jumps are typically used to represent increased emphasis in the music.
@@ -75,7 +78,7 @@ For your first map, however, it's often a good idea to keep it simple and work f
 
 ## Streams
 
-A stream is a succession of hit objects (usually hit circles) at a quick, consistent pace from each other.
+A **stream** is a succession of hit objects (usually hit circles) at a quick, consistent pace from each other.
 When somebody refers to a "stream", they are usually referring to a stream of hit circles a fourth of a beat from each other.
 If a player wants to refer to a stream of hit objects half a beat apart from each other, they typically call it a "1/2 stream".
 Streams became popular due to music from beatmania IIDX, Eurobeat, (or fast paced/BPM music) and remixes which contain dense drum patterns so that a stream fits well with the music.
@@ -94,6 +97,6 @@ You could map a stream to each one of those instances, making for a map with fre
 In osu!, it's recommended to only put streams where it corresponds to instruments in the music.
 Doing otherwise is often called *[overmapping](/wiki/Beatmapping/Overmapping)*.
 Now, one can most certainly put streams where it doesn't go to anything, but it's not recommended, especially when you're a new mapper.
-On the other hand, Taiko maps will creates a new pattern fitting the music (this is exceptional because the drums usually holds the beat).
-So generally more streams are found in Taiko maps.
+On the other hand, osu!taiko maps will create a new pattern fitting the music (this is exceptional because the drums usually holds the beat).
+So generally more streams are found in osu!taiko maps.
 However, abusing the streams is never recommended.

@@ -39,7 +39,7 @@ Offsets em byte não estão incluídos nesta tabela devido aos valores de compri
 | Integer | Comprimento em bytes dos dados do replay comprimidos |
 | Byte Array | Dados do replay comprimidos |
 | Long | ID da pontuação online |
-| Double | Informação adicional de mod. Presente apenas se [Target Practice](/wiki/Game_Modifiers#special.1) está ativado |
+| Double | Informação adicional de mod. Presente apenas se [Target Practice](/wiki/Game_modifier#special.1) está ativado |
 
 **Informação adicional de mod:**
 
@@ -97,3 +97,5 @@ Como visto na [osu! API](https://github.com/peppy/osu-api/wiki#mods).
 | Key1 | 67108864 (26) |  |
 | Key3 | 134217728 (27) |  |
 | Key2 | 268435456 (28) |  |
+| ScoreV2 | 536870912 (29) |  |
+| Mirror | 1073741824 (30) |  |

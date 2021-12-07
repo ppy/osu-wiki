@@ -10,7 +10,7 @@ El modo ha sido bastamente usado en casi todos los juegos de ritmo de renombre. 
 
 Es, de cierta manera, similar a [osu!taiko](/wiki/Game_mode/osu!taiko), pero con más botones de notas moviéndose verticalmente que horizontalmente.
 
-## ![](/wiki/shared/mode/mania.jpg) Explicación del gameplay
+## ![](/wiki/shared/mode/mania.png) Explicación del gameplay
 
 ### Selección de canciones
 
@@ -84,7 +84,7 @@ Mientras estás sujetando la(s) nota(s) sostenida(s) hay una pequeña regeneraci
 
 ## Estilos de juego
 
-*Refiérase a [Página de estilos de juego de osu!mania](/wiki/Play_Styles#osu-mania).*
+*Refiérase a [Página de estilos de juego de osu!mania](/wiki/Play_style#osu-mania).*
 
 ## Controles
 
@@ -188,7 +188,7 @@ Ligado *Simétrico* para el segundo conjunto de teclas.
 
 ## Puntuaciones
 
-*Los Valores de Puntuación pueden ser encontrados en la [sección Puntuación en Valores de puntuación de osu!mania](/wiki/Score#osu-mania).*
+*Los valores de puntuación pueden encontrarse en [Sistema de puntuación de osu!mania](/wiki/Score/osu!mania).*
 
 La sección de puntuación detalla todas las complejidades de la puntuación, incluyendo las fórmulas matemáticas.
 

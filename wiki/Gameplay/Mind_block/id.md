@@ -9,13 +9,13 @@ tags:
 
 # Mind block
 
-*Artikel ini bukan mengenai [Notelock](/wiki/Beatmapping/Overall_difficulty#notelock) atau [Fingerlock](/wiki/Gameplay/Fingerlock).*
+*Artikel ini bukan mengenai [Notelock](/wiki/Gameplay/Notelock) atau [Fingerlock](/wiki/Gameplay/Fingerlock).*
 
 **Mind block** adalah istilah yang digunakan untuk menggambarkan seorang pemain yang berulang kali gagal atau meleset pada bagian yang sebelumnya mudah dari [beatmap](/wiki/Beatmap), seringkali sebagai hasil dari mencoba ulang beatmap tersebut berulang kali. Istilah ini dinamai "mind block" karena kejadian yang dideskripsikannya menciptakan sensasi bahwa otak (pikiran) pemain telah secara kiasan "diblokir" untuk mendapatkan kombo penuh atau menyelesaikan bagian yang disebutkan.
 
 ## Penyebab
 
-Mind block sering kali disebabkan oleh penumpukan "[muscle memory](https://en.wikipedia.org/wiki/Muscle_memory "Wikipedia") yang tidak berguna" dari pengulangan beatmap yang konstan, dan cepat. Meskipun tidak ada sains atau penelitian resmi yang dilakukan mengenai fenomena khusus ini di osu!, komunitas meyakini bahwa selama mind block, pikiran pemain sering kali bosan, kelelahan, atau lelah melakukan pola yang sama dan mendengarkan beberapa detik musik yang sama, sehingga kesusahan untuk fokus dan memperhatikan, dan dengan demikian kesusahan untuk mengembangkan muscle memory baru.
+Mind block sering kali disebabkan oleh penumpukan "[muscle memory](https://en.wikipedia.org/wiki/Muscle_memory) yang tidak berguna" dari pengulangan beatmap yang konstan, dan cepat. Meskipun tidak ada sains atau penelitian resmi yang dilakukan mengenai fenomena khusus ini di osu!, komunitas meyakini bahwa selama mind block, pikiran pemain sering kali bosan, kelelahan, atau lelah melakukan pola yang sama dan mendengarkan beberapa detik musik yang sama, sehingga kesusahan untuk fokus dan memperhatikan, dan dengan demikian kesusahan untuk mengembangkan muscle memory baru.
 
 ## Pertolongan & pencegahan
 

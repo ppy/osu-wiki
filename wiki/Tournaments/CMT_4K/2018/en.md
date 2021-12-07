@@ -1,51 +1,51 @@
 ---
 tags:
-- CMT 4K 2018
-- CMT4K 2018
+  - CMT 4K 2018
+  - CMT4K 2018
 ---
 
 # Chinese osu!mania 4K Tournament 2018
 
-![CMT 4K 2018 Logo](img/logo.jpg)
+![CMT 4K 2018 logo](img/logo.jpg)
 
 The **Chinese osu!mania 4K Tournament 2018** (***CMT 4K 2018***) is the third one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration | 2018-09-10/2018-09-29 |
 | Qualification Stage | 2018-10-06/2018-10-07 |
 | Drawings | 2018-10-07 (20:00 UTC+08) |
-| Group Stage | 2018-10-13/2018-10-14 |
+| Group stage | 2018-10-13/2018-10-14 |
 | Round of 16 | 2018-10-20/2018-10-21 |
 | Quarterfinals | 2018-10-27/2018-10-28 |
 | Semifinals | 2018-11-03/2018-11-04 |
-| Finals - Week 1 | 2018-11-10 |
-| Finals - Week 2 | 2018-11-18/2018-11-25 |
+| Finals week 1 | 2018-11-10 |
+| Finals week 2 | 2018-11-18/2018-11-25 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![](/wiki/shared/crown-gold.png) | 8 months of osu!supporter tag, unique profile badge |
-| ![](/wiki/shared/crown-silver.png) | 4 months of osu!supporter tag |
-| ![](/wiki/shared/crown-bronze.png) | 2 months of osu!supporter tag |
+| ![](/wiki/shared/crown-gold.png) | 8 months of osu!supporter, unique profile badge |
+| ![](/wiki/shared/crown-silver.png) | 4 months of osu!supporter |
+| ![](/wiki/shared/crown-bronze.png) | 2 months of osu!supporter |
 
 All prizes are sponsored by **[Arkaaalin](https://osu.ppy.sh/users/7477382)**.
 
 ## Organisation
 
-The Chinese osu!mania 4K Tournament 2018 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 
-| Team | Member(s) |
+| Position | Member(s) |
 | --: | :-- |
-| Management and Organisation | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
+| Management and organisation | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
 | Coordinator | ![][CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
-| Map Selector | ![][US] [qqqant](https://osu.ppy.sh/users/8976576), ![][SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][US] [Trainer-](https://osu.ppy.sh/users/9331760), ![][SG] [Raveille](https://osu.ppy.sh/users/1388767) |
-| Streamer and Referee | ![][CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Mappool selector | ![][US] [qqqant](https://osu.ppy.sh/users/8976576), ![][SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][US] [Trainer-](https://osu.ppy.sh/users/9331760), ![][SG] [Raveille](https://osu.ppy.sh/users/1388767) |
+| Streamer and referee | ![][CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 | Commentator | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][AU] [williammak](https://osu.ppy.sh/users/11083079), ![][CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
-| Wiki Editor | ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Wiki editor | ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## Links
 
@@ -58,11 +58,9 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 - [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)
 - **[Statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)**
 
----
+## Podium
 
-![CMT4K2018 podium](img/podium.png)
-
----
+![](img/podium.png "CMT4K2018 podium")
 
 ## Mappools
 
@@ -87,7 +85,6 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
   - [Camellia - Proluvies \[SVecial\]](https://osu.ppy.sh/beatmapsets/715240#mania/1511192)
 - Tiebreaker
   - **[Camellia - Berserkerz' Warfare 345 [The Final Battle (379bpm)]](https://osu.ppy.sh/beatmapsets/873908#mania/1826647)**
-
 
 ### Semifinals
 
@@ -151,7 +148,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 - Tiebreaker
   - **[Dschinghis Khan - Moskau(Camellia's Handzup Bootleg)\[apparently this is a song about moscow\]](https://osu.ppy.sh/beatmapsets/747926#mania/1575832)**
 
-### Group Stage
+### Group stage
 
 **Download the mappack here! (55 MB) - [Baidu Netdisk](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ) - [Google Drive](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS)**
 
@@ -169,24 +166,23 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 - Tiebreaker
   - **[VILA - Another Halcyon \[Another Dream\]](https://osu.ppy.sh/beatmapsets/713501#mania/1508074)**
 
-
-### Qualification Stage
+### Qualification stage
 
 - [Jake Chudnow - Moon Men (Instrumental) \[Stage 1: Apollo\]](https://osu.ppy.sh/beatmapsets/856468#mania/1789290)
 - [Shawn Wasabi - Otter Pop \[Stage 2: Anxious\]](https://osu.ppy.sh/beatmapsets/856527#mania/1789415)
 - [Aimer - Through My Blood \<AM\> \[Stage 3: Energy\]](https://osu.ppy.sh/beatmapsets/856473#mania/1789302)
 - [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524#mania/1789410)
 
-## Match Results
+## Match results
 
-### Finals - Week 2
+### Finals week 2
 
 | PlayerBlue |  |  | PlayerRed |
 | --: | :-: | :-: | :-- |
 | ByeForNow | 4 | 7 | \[Crz\]Murasame |
 | \[Crz\]Murasame | 0 | 7 | cheewee10 |
 
-### Finals - Week 1
+### Finals week 1
 
 | PlayerBlue |  |  | PlayerRed |
 | --: | :-: | :-: | :-- |
@@ -233,7 +229,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 | C Eru | 0 | **5** | **704661982** |
 | **\[Crz\]Murasame** | **5** | 0 | Orangejuice |
 
-### Group Stage
+### Group stage
 
 | Group | Players |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
@@ -254,13 +250,13 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 | H | **ByeForNow** | **AradORiOn\_MMM** | PiaoD | idqoos123 |
 |  | **12** | **4** | -4 | -12 |
 
-### Qualification Stage
+### Qualification stage
 
 Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for more details.
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. The **Chinese osu!mania 4K Tournament 2018** (***CMT 4K 2018***) is a one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team.
 2. The maps for each round will be announced by the map selector in advance on the Sunday before the actual matches take place:  
@@ -286,7 +282,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for mo
 15. Any modification of these rules will be announced.
 16. The CMT team reserves the right to use Chinese preferentially.
 
-### Registration Rules
+### Registration rules
 
 1. Every user interested in joining the tournament signs up individually (Registration link will be released after the registration phrase begins).
 2. Only these players are eligible to sign up:
@@ -297,7 +293,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for mo
 3. Successfully registered player will receive a confirm email and will be posted on the player list. See [here](https://osu.ppy.sh/community/forums/topics/800125).
 4. Map selectors and tournament managers are not allowed to register.
 
-### Stage Instructions
+### Stage instructions
 
 1. In the Qualification stage, all players will be divided into groups of 8. The mappool for qualification round has **4** maps and all players will have two chances at each qualifier where the highest of the two runs will be cumulated for players' final score. The highest **32** (may vary with the number of registered players) players will qualify next stage.
 2. In the Group stage, qualified players will be divided into groups of 4.
@@ -317,7 +313,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for mo
    - In Semi-finals and Finals: Week 1, you need to win **6** maps to win a match. (Best-of-11).
    - In Finals: Week 2, you need to win **7** maps to win the match. (Best-of-13).
 
-## Match Instructions
+## Match instructions
 
 ### Qualification stage
 
@@ -338,14 +334,14 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for mo
    - PlayerBlue and playerRed must be in slot 1, 2, respectively.
 2. Each player in the match will be allowed **1** warm-up map to be played, making for **2** warm-ups. Questioned maps and maps that are not 4K-specific osu!mania maps are not allowed.
 3. Each player choose one map from the pool as the *Banned Map*. These maps can not be played during this match.
-4. Each player must use `!roll` once in \#multiplayer:
+4. Each player must use `!roll` once in `#multiplayer`:
    - The losing roll picks the first banned map.
    - The winning roll picks the first map of the match.
    - Repeat `!roll` if two rolls are equal.
 5. Players pick maps by turns:
    - In case of a tie, the tiebreaker map must be played.
 
-## Mappool Instructions
+## Mappool instructions
 
 1. There will be **1** mappool for the Qualification Stage, **1** mappool for the Group Stage, **1** mappool for Round of 16, **1** mappool for the Quarterfinals, **1** mappool for the Semifinals and **1** mappool for the Finals.
 2. Mappool size varies depending on the stage:
@@ -357,7 +353,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for mo
 4. All maps, including the tiebreaker, will be played on Free-Mod condition:
    - Every individual player can pick Hidden, Flashlight or Fade-In freely.
 
-## Scheduling Instructions
+## Scheduling instructions
 
 1. In principle, each stage will be held on a single weekend.
 2. All matches will be held on Saturday or Sunday, UTC+8.

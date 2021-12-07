@@ -1,324 +1,435 @@
 # Chinese osu!mania 4K Tournament 2017
 
-![CMT 4K 2017](img/pic.png)
+![CMT 4K 2017 logo](img/pic.png)
 
-The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) is the second one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team.
+The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) was a 1v1 4K specified Chinese regional osu!mania tournament hosted by the CMT team. It was the second instalment of the Chinese osu!mania 4K Tournament.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration | 4-18. June 2017 |
-| Qualification Stage | 24-25. June 2017 |
-| Drawings | 25. June 2017 (20:00 UTC+8) |
-| Group Stage | 30. June - 2. July 2017 |
-| Round of 16 | 8-9. July 2017 |
-| Round of 8 | 15-16. July 2017 |
-| Semifinals | 22-23. July 2017 |
-| Finals - Week 1 | 29-30. July 2017 |
-| Finals - Week 2 | 5-6. August 2017 |
+| Registration phase | 2017-06-04/2017-06-18 |
+| Qualification stage | 2017-06-24/2017-06-25 |
+| Live drawings | 2017-06-25 (20:00 UTC+8) |
+| Group stage | 2017-06-30/2017-07-02 |
+| Round of 16 | 2017-07-08/2017-07-09 |
+| Round of 8 | 2017-07-15/2017-07-16 |
+| Semifinals | 2017-07-22/2017-07-23 |
+| Finals week 1 | 2017-07-29/2017-07-30 |
+| Finals week 2 | 2017-08-05/2017-08-06 |
 
-## Tournament prizes
+## Prizes
 
-All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
+All prizes were sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 
-- ![](/wiki/shared/crown-gold.png) 3 months osu!supporter tag, profile badge, **CrazyBoard Mark One Keyboard**;
-- ![](/wiki/shared/crown-silver.png) 2 months osu!supporter tag;
-- ![](/wiki/shared/crown-bronze.png) 1 month osu!supporter tag.
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter, profile badge, **CrazyBoard Mark One Keyboard** |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
-## Tournament staff
+## Organisation
 
-| Team | Staff |
+The Chinese osu!mania 4K Tournament 2017 was run by various community members.
+
+| Position | Member(s) |
 | --: | :-- |
-| Tournament manager | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Scslag](https://osu.ppy.sh/users/6705256) |
-| Coordinator | ![][CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
-| Map Selector | ![][UK] [Imperial Wolf](https://osu.ppy.sh/users/9080296), ![][TW] [Spy](https://osu.ppy.sh/users/1217122), ![][CN] [hans1999](https://osu.ppy.sh/users/6679329) |
-| Streamer and Referee | ![][CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][CN] [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
-| Commentator | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Scslag](https://osu.ppy.sh/users/6705256), ![][CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][CN] [644520858](https://osu.ppy.sh/users/5507069), ![][CN] [wuhuanmin](https://osu.ppy.sh/users/935322) |
-| Wiki Editor | ![][CN] [kj415j45](https://osu.ppy.sh/users/kj415j45), ![][CN] [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
+| Manager | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [Scslag](https://osu.ppy.sh/users/6705256) |
+| Coordinator | ![][flag_CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
+| Mappool selector | ![][flag_GB] [Imperial Wolf](https://osu.ppy.sh/users/9080296), ![][flag_TW] [Spy](https://osu.ppy.sh/users/1217122), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) |
+| Streamer and referee | ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
+| Commentator | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [Scslag](https://osu.ppy.sh/users/6705256), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [644520858](https://osu.ppy.sh/users/5507069), ![][flag_CN] [wuhuanmin](https://osu.ppy.sh/users/935322) |
+| Wiki editor | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_CN] [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
 
-## Tournament stream
+## Links
 
-- bilibili: [aiyulu](http://live.bilibili.com/10183)(Primary), [Ookura Asahi](http://live.bilibili.com/272810)(Secondary), [Rasis](http://live.bilibili.com/5333)(Back up).
-- Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/576970)
+- Livestream
+  - bilibili: [aiyulu](http://live.bilibili.com/10183) (primary), [Ookura Asahi](http://live.bilibili.com/272810) (secondary), [Rasis](http://live.bilibili.com/5333) (backup)
+  - Twitch: [aiyulu](https://www.twitch.tv/aiyulu)
 
----
+## Participants
 
-![CMT4K2017 podium](img/podium.png)
+- ![][flag_TW] [CHUMIKO](https://osu.ppy.sh/users/4469570)
+- ![][flag_CN] [- Xiaoluoli -](https://osu.ppy.sh/users/9502281)
+- ![][flag_CN] [Molli](https://osu.ppy.sh/users/8893772)
+- ![][flag_CN] [\[Crz\] Luna](https://osu.ppy.sh/users/8377593)
+- ![][flag_CN] [\[Crz\]Liusecy](https://osu.ppy.sh/users/9082105)
+- ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131)
+- ![][flag_CN] [\[Crz\]Mix0130](https://osu.ppy.sh/users/7215250)
+- ![][flag_CN] [\[Crz\]Riri](https://osu.ppy.sh/users/6148622)
+- ![][flag_CN] [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215)
+- ![][flag_AU] [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989)
+- ![][flag_CN] \[M1nzzZ\]
+- ![][flag_MY] [\[MY\]xRay](https://osu.ppy.sh/users/8287005)
+- ![][flag_HK] [AnLs](https://osu.ppy.sh/users/1724045)
+- ![][flag_CN] [Banshasan](https://osu.ppy.sh/users/6269122)
+- ![][flag_SG] [FDXiaoQian](https://osu.ppy.sh/users/7229381)
+- ![][flag_MY] [Chizuru Shinkai](https://osu.ppy.sh/users/10049347)
+- ![][flag_HK] [drunkenstein](https://osu.ppy.sh/users/4565389)
+- ![][flag_MY] [fgdg858](https://osu.ppy.sh/users/6225807)
+- ![][flag_CN] [gzdongsheng](https://osu.ppy.sh/users/8660315)
+- ![][flag_CN] [\[ Classic \]](https://osu.ppy.sh/users/5858053)
+- ![][flag_CN] [Luv Letter](https://osu.ppy.sh/users/8072222)
+- ![][flag_CA] [Murasame](https://osu.ppy.sh/users/6541990)
+- ![][flag_CN] [NED\_Q](https://osu.ppy.sh/users/8048611)
+- ![][flag_MY] [Neokje](https://osu.ppy.sh/users/7727987)
+- ![][flag_HK] [Opean](https://osu.ppy.sh/users/4544555)
+- ![][flag_CN] [pikechu](https://osu.ppy.sh/users/6511662)
+- ![][flag_CN] prelude8792916
+- ![][flag_CN] [\[Crz\]LfyJ](https://osu.ppy.sh/users/6470012)
+- ![][flag_CN] [qiluo](https://osu.ppy.sh/users/9424823)
+- ![][flag_CN] [spensll](https://osu.ppy.sh/users/4547744)
+- ![][flag_CN] [Stink God](https://osu.ppy.sh/users/7381289)
+- ![][flag_CN] [WF Night](https://osu.ppy.sh/users/7109100)
+- ![][flag_CN] [wjh123](https://osu.ppy.sh/users/1147820)
+- ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516)
 
----
+## Podium
+
+![](img/podium.png "CMT 4K 2017 podium")
 
 ## Mappools
 
 ### Finals
 
-[**Download all** (OneDrive)](https://1drv.ms/users/s!AuGED5b9f0uloUllsnHx59aQyaoa)
+[Download the mappack here!](https://1drv.ms/users/s!AuGED5b9f0uloUllsnHx59aQyaoa)
 
-- [Various Artist - Jungdongjin's 5th LN Pack \[nanahira -Tsukitourou\]](https://osu.ppy.sh/beatmapsets/617068#mania/1301846)
-- [LeaF - Shitsubou Choco \[4K LN 'Imperial Chocolate\]](https://osu.ppy.sh/beatmapsets/602887#mania/1273424)
-- [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE \[ShuChan!!\]](https://osu.ppy.sh/beatmapsets/550148#mania/1165250)
-- [Zekk - Swampgator \[Alligator VIP\]](https://osu.ppy.sh/beatmapsets/1241284)
-- [Camellia - Backbeat Maniac \[Rewind VIP\]](https://osu.ppy.sh/beatmapsets/586848#mania/1242696)
-- [((LMB)) - Buntan \~Falling in "B" mix\~ \[%UN%D3%Ri%0Y\]](https://osu.ppy.sh/beatmapsets/569225#mania/1206728)
-- [DJKurara - Japanese Transformation \[Extra\]](https://osu.ppy.sh/beatmapsets/520438#mania/1105693)
-- [LV.4 - Angel dust (2016 Radio Mix) \[Shift\]](https://osu.ppy.sh/beatmapsets/598874#mania/1265848)
-- [xi - Let's madness \[R U Ready?\]](https://osu.ppy.sh/beatmapsets/527017#mania/1118209)
-- [xi - FREEDOM DiVE \[Fullerene's 4K DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/173612#mania/473228)
-- [YZYX - Powerflux \[Challenge\]](https://osu.ppy.sh/beatmapsets/390410#mania/850891)
-- [Vixenvy - I'm sorry we really suck. \[for the best\]](https://osu.ppy.sh/beatmapsets/1145475)
-- [UNDEAD CORPORATION - Everything Will Freeze \[Time Freeze\]](https://osu.ppy.sh/beatmapsets/298452#mania/673308)
-- [Camellia - EMPIRE OF FLAME \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/415934#mania/901134)
-- [Yu_Asahina - Trickstarz \[STEPMANIA\]](https://osu.ppy.sh/beatmapsets/349432#mania/770548)
-- [plastic feat.Sakito - Hitsugi to Futago \[4KEY//PHANTASM\]](https://osu.ppy.sh/beatmapsets/516255#mania/1097111)
-
-TB:
-
-- [Camellia - GHOST \[Immoral Night Guard\]](https://osu.ppy.sh/beatmapsets/1206398)
-
-### Semifinals
-
-[**Download all** (OneDrive)](https://1drv.ms/users/s!Akj69f-fUdi3hSV0mmh3EYXWfOwz)
-
-- [Mick Gordon - Cyberdemon \[Lazarus\]](https://osu.ppy.sh/beatmapsets/1231110)
-- [Hitori Tori - perthed again (yambabom remix) \[Difficulty 3\]](https://osu.ppy.sh/beatmapsets/569392#mania/1207006)
-- [LeaF - MEPHISTO \[4K LN Massacre\]](https://osu.ppy.sh/beatmapsets/535700#mania/1134593)
-- [yanaginagi - landscape \[ShuChan!!\]](https://osu.ppy.sh/beatmapsets/541027#mania/1147214)
-- [DJ Sharpnel - TACTICAL RAILROAD \[EXTREME\]](https://osu.ppy.sh/beatmapsets/527532#mania/1119190)
-- [a_hisa - Cheshire's dance \[LN Dancing\]](https://osu.ppy.sh/beatmapsets/555278#mania/1175264)
-- [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria \[Octodad Twerk Theme\]](https://osu.ppy.sh/beatmapsets/486138#mania/1036648)
-- [Kaneko Chiharu - iLLness LiLin \[jAkAd's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/587269#mania/1245015)
-- [xi - Solar Storm \[Extra[old]\]](https://osu.ppy.sh/beatmapsets/989233)
-- [m108 - \* Crow Solace \* \[Meme Solace\]](https://osu.ppy.sh/beatmapsets/562722#mania/1201027)
-- [Fallujah - Sapphire \[Cerulean\]](https://osu.ppy.sh/beatmapsets/452446#mania/970464)
-- [Nizikawa - Drop That (Ghettoblaster) v1.1 \[break-even\]](https://osu.ppy.sh/beatmapsets/972575)
-- [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu. - Demise Quartet \[BAN SDVX\]](https://osu.ppy.sh/beatmapsets/1229459)
-- [xi - Aparajita \[Ambitious King\]](https://osu.ppy.sh/beatmapsets/568882#mania/1206343)
-- [gmtn vs. kozato (fw. LUZE) - squartatrice \[VonSeckendorff\]](https://osu.ppy.sh/beatmapsets/414744#mania/898932)
-- [Noah - Immortal saga \[4K MXM\]](https://osu.ppy.sh/beatmapsets/636118#mania/1349837)
-
-TB:
-
-- [Camellia - Exit This Earth's Atomosphere \[Spaceship\]](https://osu.ppy.sh/beatmapsets/489718#mania/1043774)
-
-### Quarterfinals
-
-[**Download all** (OneDrive)](https://1drv.ms/users/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)
-
-- [DJ Genki feat. yukacco - Candy Star \[Noodle Star\]](https://osu.ppy.sh/beatmapsets/587375#mania/1243769)
-- [Nauts - Second Run (Core Mix)  \[4K LN\]](https://osu.ppy.sh/beatmapsets/594821#mania/1258021)
-- [Camellia - Singularity  \[Artificial Mind\]](https://osu.ppy.sh/beatmapsets/501530#mania/1073952)
-- [Helblinde - The Solace of Oblivion \[A Lie's Asgard\]](https://osu.ppy.sh/beatmapsets/596105#mania/1274057)
-- [Musical Masterpiece - MANIERA \[ilikexd's FOOLISH\]](https://osu.ppy.sh/beatmapsets/230405#mania/535893)
-- [Nekomata L.E.D. Master+ - Chrono Diver -PENDULUMs- \[Rage!!\]](https://osu.ppy.sh/beatmapsets/382076#mania/835621)
-- [Ryu* Vs. Sota - Go Ahead!! \[Legendaria\]](https://osu.ppy.sh/beatmapsets/572415#mania/1212926)
-- [xi - Aragami \[Ultimate\]](https://osu.ppy.sh/beatmapsets/342316#mania/757103)
-- [Omnipotenx - PEACE BREAKER \[NEGATIVE LEVEL 6\]](https://osu.ppy.sh/beatmapsets/1215329)
-- [Demetori - Wind God Girl \[14\]](https://osu.ppy.sh/beatmapsets/591478#mania/1306105)
-- [Gram - Sigmund \[Karasu's Leggendaria\]](https://osu.ppy.sh/beatmapsets/635051#mania/1347575)
-- [Iced Blade feat. Rita - Sora no Kodou (short ver.) \[4K Liberation\]](https://osu.ppy.sh/beatmapsets/437682#mania/942355)
-- [EYKHA & LOU & MERYL - Delta Decision \[Domination\]](https://osu.ppy.sh/beatmapsets/604171#mania/1276313)
-- [t+pazolite - cheatreal \[TUTORIAL\]](https://osu.ppy.sh/beatmapsets/401453#mania/873247)
-
-TB:
-
-- [Billain - Specialist \[Maestro\]](https://osu.ppy.sh/beatmapsets/574577#mania/1216877)
-
-### Round of 16
-
-[**Download all** (OneDrive)](https://1drv.ms/users/s!AuGED5b9f0uloSM2ivgLojrSLnxT)
-
-- [senya - Shinrabansho ni furete \[Insane(LN)\]](https://osu.ppy.sh/beatmapsets/586947#mania/1242917)
-- [ETIA. - Firestorm \[LNAVITY\]](https://osu.ppy.sh/beatmapsets/359554#mania/790563)
-- [DJ Sharpnel feat. Lia - I miss you (DJ SHARPNEL Remix) \[4K EX\]](https://osu.ppy.sh/beatmapsets/192759#mania/458274)
-- [DOUBLE HELIX - Our Faith (Faithful MTL Remix) \[4K Faith\]](https://osu.ppy.sh/beatmapsets/552488#mania/1170029)
-- [LUZE & Emew. - Unmeiron \[Valedict's Another\]](https://osu.ppy.sh/beatmapsets/475927#mania/1084020)
-- [lapix - Amazing Mirage (Extended) \[Mirage!!(SV)\]](https://osu.ppy.sh/beatmapsets/590328#mania/1265968)
-- [Crimsona - Hyper Fiber World Spectrum \[World Specturm\]](https://osu.ppy.sh/beatmapsets/548087#mania/1160757)
-- [Shiraishi - Shinsekai \[Insane\]](https://osu.ppy.sh/beatmapsets/201910#mania/477978)
-- [IAHN - Transform (Original Mix) \[Aspire\]](https://osu.ppy.sh/beatmapsets/490920#mania/1046276)
-- [Seiryu - Critical Crystal \[Zan's Blue Another\]](https://osu.ppy.sh/beatmapsets/376340#mania/829747)
-- [SYUNN - Megalara Garuda \[EXTREME\]](https://osu.ppy.sh/beatmapsets/535671#mania/1134548)
-- [Tatsh - reunion \<Platinum Long Version\> \[victorica'4K MX\]](https://osu.ppy.sh/beatmapsets/121544#mania/315361)
-- [nao - Symmetric generation \[NEPGEAR\]](https://osu.ppy.sh/beatmapsets/416435#mania/902070)
-- [P\*Light - NINJA IS DEAD IIDX ver. \[Spy's Leggendaria\]](https://osu.ppy.sh/beatmapsets/526793#mania/1135210)
-
-TB:
-
-- [Shoujo - Reminiscing \[Memories\]](https://osu.ppy.sh/beatmapsets/487074#mania/1038482)
-
-### Group Stage
-
-[**Download all** (OneDrive)](https://1drv.ms/users/s!AuGED5b9f0uloSC-zNJGthpjbLkb)
-
-- [Ryu\* Vs. L.E.D.-G - PARADISE LOST \[CS'Another\]](https://osu.ppy.sh/beatmapsets/553390#mania/1171750)
-- [Diceros Bicornis - Innocent Tempest \[Zan's EXHAUST\]](https://osu.ppy.sh/beatmapsets/367484#mania/818950)
-- [kors k - Playing with Fire (Sota Fujimori Remix) \[Dancing Blaze\]](https://osu.ppy.sh/beatmapsets/484214#mania/1032948)
-- [P\*Light feat. mow\*2 - OVERDRIVERS \[EXTREME\[LN\]\]](https://osu.ppy.sh/beatmapsets/578558#mania/1224997)
-- [Raika - Long Note Practice Pack \[Level(6)4K\]](https://osu.ppy.sh/beatmapsets/329814#mania/816623)
-- [Envy - Paladin \[SV-Fest\]](https://osu.ppy.sh/beatmapsets/489922#mania/1044428)
-- [sasakure.UK - Atropos (Short Edit) \[Lachesis\]](https://osu.ppy.sh/beatmapsets/310328#mania/693529)
-- [PSY - DADDY (feat. CL of 2NE1) short Ver. \[4K MX(Dancing Hard SV)\]](https://osu.ppy.sh/beatmapsets/440378#mania/947524)
-- [Nizikawa - F.K.S. \[Ichi's INFINITE Lv'15\]](https://osu.ppy.sh/beatmapsets/235927#mania/556755)
-- [L.E.D. vs S-C-U - Confiserie \[Extreme\]](https://osu.ppy.sh/beatmapsets/464475#mania/994500)
-- [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- \[4k Another\]](https://osu.ppy.sh/beatmapsets/517481#mania/1099508)
-- [w_tre respect for AT&HU - Schur's Theorem \[Anson's Ak EXTREME\]](https://osu.ppy.sh/beatmapsets/628102#mania/1324299)
-
-TB:
-
-- [Halozy - Three Magic (DiGiTAL WiNG TRANCE Remix) \[Lunatic of Love\]](https://osu.ppy.sh/beatmapsets/564014#mania/1192531)
-
-### Qualification Stage
-
-- [Inspector K - Disconnected -Hyper- \[deep boop\]](https://osu.ppy.sh/beatmapsets/609453#mania/1287062)
-- [Raika - Long Note Practice Pack \[Level(5)4k\]](https://osu.ppy.sh/beatmapsets/329814#mania/813335)
-- [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence \[Another\]](https://osu.ppy.sh/beatmapsets/625866#mania/1319304)
-- [Ichigaki's 4K Collection Vol.1 \[TIEFSEE \[Marathon\]\]](https://osu.ppy.sh/beatmapsets/387625#mania/845983)
-
-### Test match
-
-[**Download all** (OneDrive)](https://1drv.ms/users/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)
-
-- [Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/beatmapsets/263929#mania/601737)
-- [sakuzyo – Refel \[Liberation\]](https://osu.ppy.sh/beatmapsets/557062#mania/1178870)
-- [-45 – EXILE \[Anotehr_SideA\]](https://osu.ppy.sh/beatmapsets/815021)
-- [seleP – Scarlet Rose \[Scarlet Rose\]](https://osu.ppy.sh/beatmapsets/580114#mania/1228278)
-- [Polyphony – Adrift \[Marine\]](https://osu.ppy.sh/beatmapsets/292423#mania/658126)
-- [LeaF – I \[UJ’s Another\]](https://osu.ppy.sh/beatmapsets/426638#mania/928341)
-- [DJ Sharpnel – Cyber Induction \[IcyWorld\]](https://osu.ppy.sh/beatmapsets/478087#mania/1021178)
-- [Helblinde – Rewrite Nightmare \[Experiment\]](https://osu.ppy.sh/beatmapsets/323777#mania/719525)
-- [Helblinde – Memoria (Original Mix) \[LeiN-‘s SC\]](https://osu.ppy.sh/beatmapsets/518266#mania/1101044)
-- [DET & Silantra – Luv Song \[<3\]](https://osu.ppy.sh/beatmapsets/264439#mania/602841)
-- [Kobaryo – Pumpin’ Junkies (Kobaryo’s FTN-Remix) \[Arcwin’s Maxima\]](https://osu.ppy.sh/beatmapsets/281235#mania/644265)
-- [A-Teens – Gimme! Gimme! Gimme! \[Wafles’s Beginner 24\]](https://osu.ppy.sh/beatmapsets/472781#mania/1010130)
-- [senya – Zenaku no Itadaki ni Aru Shinjitsu \[EXH (LN)\]](https://osu.ppy.sh/beatmapsets/493407#mania/1050840)
-- [96Neko – Paintings? Oh, yeah. \[PaiLNfull\]](https://osu.ppy.sh/beatmapsets/516224#mania/1103346)
-- [LeaF – 4th smile \[Prosperity\]](https://osu.ppy.sh/beatmapsets/1247978)
-- [Da Tweekaz – Wodka (short Ver.) \[4K MX(Hard SV Edit.)\]](https://osu.ppy.sh/beatmapsets/364913#mania/800952)
-
-TB:
-
-- [Camellia – Lunatic Rough Party!! (Long Ver.)\[Lunatic\]](https://osu.ppy.sh/beatmapsets/286262#mania/646319)
-
-## Match Results
-
-### Finals - week 2
-
-| Date | Team A |  | Score |  | Team B | Notes |
-| :-: | --: | --: | :-: | :-- | :-- | :-: |
-| 5. Augest | \[Crz\]ScSolAr | ![][CN] | 0 : 7 | ![][TW] | - Choma - | WBD |
-| 6. Augest | - Choma - | ![][TW] | 7 : 0 | ![][CN] | \[Crz\]MemoryI | WBD |
-
-### Finals - week 1
-
-| Date | Team A |  | Score |  | Team B | Notes |
-| :-: | --: | --: | :-: | :-- | :-- | :-: |
-| 29. July | \[Crz\]Riri | ![][CN] | 0 : 6 | ![][TW] | - Choma - | [record](https://osu.ppy.sh/community/matches/34872032) |
-|  | \[Crz\]MemoryI | ![][CN] | 6 : 0 | ![][CN] | \[Crz\]ScSolAr | WBD |
-|  | pikechu | ![][CN] | 2 : 6 | ![][MY] | Neokje | [record](https://osu.ppy.sh/community/matches/34873568) |
-| 30. July | - Choma - | ![][TW] | 6 : 5 | ![][MY] | Neokje | [record](https://osu.ppy.sh/community/matches/34893510) |
+- FreeMod
+  - [Various Artist - Jungdongjin's 5th LN Pack (Jungdongjin) \[nanahira -Tsukitourou\]](https://osu.ppy.sh/beatmapsets/617068#mania/1301846)
+  - [LeaF - Shitsubou Choco (arcwinolivirus) \[4K LN 'Imperial Chocolate\]](https://osu.ppy.sh/beatmapsets/602887#mania/1273424)
+  - [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE (shuniki) \[ShuChan!!\]](https://osu.ppy.sh/beatmapsets/550148#mania/1165250)
+  - Zekk - Swampgator \[Alligator VIP\]
+  - [Camellia - Backbeat Maniac (Evening) \[Rewind VIP\]](https://osu.ppy.sh/beatmapsets/586848#mania/1242696)
+  - [((LMB)) - Buntan \~Falling in "B" mix\~ (Tidek) \[%UN%D3%Ri%0Y\]](https://osu.ppy.sh/beatmapsets/569225#mania/1206728)
+  - [DJKurara - Japanese Transformation (XeoStyle) \[Extra\]](https://osu.ppy.sh/beatmapsets/520438#mania/1105693)
+  - [LV.4 - Angel dust (2016 Radio Mix) (Fullerene-) \[Shift\]](https://osu.ppy.sh/beatmapsets/598874#mania/1265848)
+  - [xi - Let's madness (Imperial Wolf) \[R U Ready?\]](https://osu.ppy.sh/beatmapsets/527017#mania/1118209)
+  - [xi - FREEDOM DiVE (razlteh) \[Fullerene's 4K DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/173612#mania/473228)
+  - [YZYX - Powerflux (Shoegazer) \[Challenge\]](https://osu.ppy.sh/beatmapsets/390410#mania/850891)
+  - Vixenvy - I'm sorry we really suck. \[for the best\]
+  - [UNDEAD CORPORATION - Everything Will Freeze (Meggumi) \[Time Freeze\]](https://osu.ppy.sh/beatmapsets/298452#mania/673308)
+  - [Camellia - EMPIRE OF FLAME (Fresh Chicken) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/415934#mania/901134)
+  - [Yu_Asahina - Trickstarz (hi19hi19) \[STEPMANIA\]](https://osu.ppy.sh/beatmapsets/349432#mania/770548)
+  - [plastic feat.Sakito - Hitsugi to Futago (snoverpk) \[4KEY//PHANTASM\]](https://osu.ppy.sh/beatmapsets/516255#mania/1097111)
+- Tiebreaker
+  - **Camellia - GHOST \[Immoral Night Guard\]**
 
 ### Semifinals
 
-| Date | Team A |  | Score |  | Team B | Notes |
-| :-: | --: | --: | :-: | :-- | :-- | :-: |
-| 22. July | NED_Q | ![][CN] | 6 : 0 | ![][AU] | \[Crz\]Yukikaze | WBD |
-|  | drunkenstein | ![][HK] | 0 : 6 | ![][CN] | pikechu | WBD |
-|  | - Choma - | ![][TW] | 6 : 0 | ![][CN] | - ZedXD - | [record](https://osu.ppy.sh/community/matches/34703556) |
-|  | \[Crz\]Liusecy | ![][CN] | 2 : 6 | ![][CN] | Stink God | [record](https://osu.ppy.sh/community/matches/34706159) |
-|  | \[Crz\]Riri | ![][CN] | 2 : 6 | ![][CN] | \[Crz\]MemoryI | [record](https://osu.ppy.sh/community/matches/34771665) |
-| 23. July | - Choma - | ![][CA] | 6 : 0 | ![][CN] | Stink God | WBD |
-|  | Neokje | ![][MY] | 2 : 6 | ![][CN] | \[Crz\]ScSolAr | [record](https://osu.ppy.sh/community/matches/34731835) |
-|  | NED_Q | ![][CN] | 0 : 6 | ![][CN] | pikechu | WBD |
+[Download the mappack here!](https://1drv.ms/users/s!Akj69f-fUdi3hSV0mmh3EYXWfOwz)
+
+- FreeMod
+  - Mick Gordon - Cyberdemon \[Lazarus\]
+  - [Hitori Tori - perthed again (yambabom remix) (TheToaphster) \[Difficulty 3\]](https://osu.ppy.sh/beatmapsets/569392#mania/1207006)
+  - [LeaF - MEPHISTO (arcwinolivirus) \[4K LN Massacre\]](https://osu.ppy.sh/beatmapsets/535700#mania/1134593)
+  - [yanaginagi - landscape (shuniki) \[ShuChan!!\]](https://osu.ppy.sh/beatmapsets/541027#mania/1147214)
+  - [DJ Sharpnel - TACTICAL RAILROAD (Cyssel) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/527532#mania/1119190)
+  - [a\_hisa - Cheshire's dance (TheToaphster) \[LN Dancing\]](https://osu.ppy.sh/beatmapsets/555278#mania/1175264)
+  - [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (XeoStyle) \[Octodad Twerk Theme\]](https://osu.ppy.sh/beatmapsets/486138#mania/1036648)
+  - [Kaneko Chiharu - iLLness LiLin (Fresh Chicken) \[jAkAd's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/587269#mania/1245015)
+  - xi - Solar Storm \[Extra\[old\]\]
+  - [m108 - \* Crow Solace \* (Wh1teh) \[Meme Solace\]](https://osu.ppy.sh/beatmapsets/562722#mania/1201027)
+  - [Fallujah - Sapphire (Shoegazer) \[Cerulean\]](https://osu.ppy.sh/beatmapsets/452446#mania/970464)
+  - Nizikawa - Drop That (Ghettoblaster) v1.1 \[break-even\]
+  - Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu. - Demise Quartet \[BAN SDVX\]
+  - [xi - Aparajita (Ichigaki) \[Ambitious King\]](https://osu.ppy.sh/beatmapsets/568882#mania/1206343)
+  - [gmtn vs. kozato (fw. LUZE) - squartatrice (Un-known) \[VonSeckendorff\]](https://osu.ppy.sh/beatmapsets/414744#mania/898932)
+  - [Noah - Immortal saga (Imperial Wolf) \[4K MXM\]](https://osu.ppy.sh/beatmapsets/636118#mania/1349837)
+- Tiebreaker
+  - **[Camellia - Exit This Earth's Atomosphere (Wonki) \[Spaceship\]](https://osu.ppy.sh/beatmapsets/489718#mania/1043774)**
 
 ### Quarterfinals
 
-| Date | Team A |  | Score |  | Team B | Notes |
-| :-: | --: | --: | :-: | :-- | :-- | :-: |
-| 15. July | drunkenstein | ![][HK] | 0 : 5 | ![][CN] | \[Crz\]Riri | [record](https://osu.ppy.sh/community/matches/34542511) |
-|  | - ZedXD - | ![][CN] | 5 : 0 | ![][CN] | spensll | [record](https://osu.ppy.sh/community/matches/34543141) |
-|  | wjh123 | ![][CN] | 0 : 5 | ![][CN] | Stink God | WBD |
-|  | NED_Q | ![][CN] | 3 : 5 | ![][CN] | \[Crz\]MemoryI | [record](https://osu.ppy.sh/community/matches/34547424) |
-| 16. July | Murasame | ![][CA] | 0 : 5 | ![][AU] | \[Crz\]Yukikaze- | WBD |
-|  | pikechu | ![][CN] | 5 : 1 | ![][CN] | \[Crz\]Mix0130 | [record](https://osu.ppy.sh/community/matches/34566588) |
-|  | \[Crz\]Liusecy | ![][CN] | 0 : 5 | ![][MY] | Neokje | [record](https://osu.ppy.sh/community/matches/34570396) |
-|  | - Choma - | ![][TW] | 2 : 5 | ![][CN] | \[Crz\]ScSolAr | [record](https://osu.ppy.sh/community/matches/34571413) |
+[Download the mappack here!](https://1drv.ms/users/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)
+
+- FreeMod
+  - [DJ Genki feat. yukacco - Candy Star (PiraTom) \[Noodle Star\]](https://osu.ppy.sh/beatmapsets/587375#mania/1243769)
+  - [Nauts - Second Run (Core Mix) (Zyph) \[4K LN\]](https://osu.ppy.sh/beatmapsets/594821#mania/1258021)
+  - [Camellia - Singularity (Evening) \[Artificial Mind\]](https://osu.ppy.sh/beatmapsets/501530#mania/1073952)
+  - [Helblinde - The Solace of Oblivion (lombit) \[A Lie's Asgard\]](https://osu.ppy.sh/beatmapsets/596105#mania/1274057)
+  - [Musical Masterpiece - MANIERA (Fullerene-) \[ilikexd's FOOLISH\]](https://osu.ppy.sh/beatmapsets/230405#mania/535893)
+  - [Nekomata L.E.D. Master+ - Chrono Diver -PENDULUMs- (Skalim) \[Rage!!\]](https://osu.ppy.sh/beatmapsets/382076#mania/835621)
+  - [Ryu\* Vs. Sota - Go Ahead!! (Spy) \[Legendaria\]](https://osu.ppy.sh/beatmapsets/572415#mania/1212926)
+  - [xi - Aragami (snover) \[Ultimate\]](https://osu.ppy.sh/beatmapsets/342316#mania/757103)
+  - Omnipotenx - PEACE BREAKER \[NEGATIVE LEVEL 6\]
+  - [Demetori - Wind God Girl (Tamoiru) \[14\]](https://osu.ppy.sh/beatmapsets/591478#mania/1306105)
+  - [Gram - Sigmund (-[Apple]-) \[Karasu's Leggendaria\]](https://osu.ppy.sh/beatmapsets/635051#mania/1347575)
+  - [Iced Blade feat. Rita - Sora no Kodou (short ver.) (arcwinolivirus) \[4K Liberation\]](https://osu.ppy.sh/beatmapsets/437682#mania/942355)
+  - [EYKHA & LOU & MERYL - Delta Decision (Damaree) \[Domination\]](https://osu.ppy.sh/beatmapsets/604171#mania/1276313)
+  - [t+pazolite - cheatreal (PiraTom) \[TUTORIAL\]](https://osu.ppy.sh/beatmapsets/401453#mania/873247)
+- Tiebreaker
+  - **[Billain - Specialist (Raveille) \[Maestro\]](https://osu.ppy.sh/beatmapsets/574577#mania/1216877)**
 
 ### Round of 16
 
-| Date | Team A |  | Score |  | Team B | Notes |
-| :-: | --: | --: | :-: | :-- | :-- | :-: |
-| 8. July | drunkenstein | ![][HK] | 5 : 1 | ![][CN] | - ZedXD - | [record](https://osu.ppy.sh/community/matches/34380098) |
-|  | \[Crz\]Riri | ![][CN] | 5 : 0 | ![][CN] | spensll | [record](https://osu.ppy.sh/community/matches/34380710) |
-|  | NED_Q | ![][CN] | 5 : 0 | ![][CN] | wjh123 | [record](https://osu.ppy.sh/community/matches/34384012) |
-|  | Stink God | ![][CN] | 1 : 5 | ![][CN] | \[Crz\]MemoryI | [record](https://osu.ppy.sh/community/matches/34385381) |
-| 9. July | \[Crz\]Liusecy | ![][CN] | 5 : 0 | ![][CA] | Murasame | WBD |
-|  | Neokje | ![][MY] | 5 : 0 | ![][AU] | \[Crz\]Yukikaze- | WBD |
-|  | - Choma - | ![][TW] | 5 : 0 | ![][CN] | pikechu | [record](https://osu.ppy.sh/community/matches/34404265) |
-|  | \[Crz\]ScSolAr | ![][CN] | 5 : 0 | ![][CN] | \[Crz\]Mix0130 | [record](https://osu.ppy.sh/community/matches/34407900) |
+[Download the mappack here!](https://1drv.ms/users/s!AuGED5b9f0uloSM2ivgLojrSLnxT)
 
-### Group Stage
+- FreeMod
+  - [senya - Shinrabansho ni furete (souzirou1000) \[Insane(LN)\]](https://osu.ppy.sh/beatmapsets/586947#mania/1242917)
+  - [ETIA. - Firestorm (PiraTom) \[LNAVITY\]](https://osu.ppy.sh/beatmapsets/359554#mania/790563)
+  - [DJ Sharpnel feat. Lia - I miss you (DJ SHARPNEL Remix) (blazziken) \[4K EX\]](https://osu.ppy.sh/beatmapsets/192759#mania/458274)
+  - [DOUBLE HELIX - Our Faith (Faithful MTL Remix) ([Crz]Derrick) \[4K Faith\]](https://osu.ppy.sh/beatmapsets/552488#mania/1170029)
+  - [LUZE & Emew. - Unmeiron (snoverpk) \[Valedict's Another\]](https://osu.ppy.sh/beatmapsets/475927#mania/1084020)
+  - [lapix - Amazing Mirage (Extended) (Knif3rism) \[Mirage!!(SV)\]](https://osu.ppy.sh/beatmapsets/590328#mania/1265968)
+  - [Crimsona - Hyper Fiber World Spectrum (Wonki) \[World Specturm\]](https://osu.ppy.sh/beatmapsets/548087#mania/1160757)
+  - [Shiraishi - Shinsekai (Xay) \[Insane\]](https://osu.ppy.sh/beatmapsets/201910#mania/477978)
+  - [IAHN - Transform (Original Mix) (Zseikimatsu) \[Aspire\]](https://osu.ppy.sh/beatmapsets/490920#mania/1046276)
+  - [Seiryu - Critical Crystal (SanadaYukimura) \[Zan's Blue Another\]](https://osu.ppy.sh/beatmapsets/376340#mania/829747)
+  - [SYUNN - Megalara Garuda (Spy) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/535671#mania/1134548)
+  - [Tatsh - reunion \<Platinum Long Version\> (Spring Roll) \[victorica'4K MX\]](https://osu.ppy.sh/beatmapsets/121544#mania/315361)
+  - [nao - Symmetric generation (Raediaufar) \[NEPGEAR\]](https://osu.ppy.sh/beatmapsets/416435#mania/902070)
+  - [P\*Light - NINJA IS DEAD IIDX ver. (xlwan) \[Spy's Leggendaria\]](https://osu.ppy.sh/beatmapsets/526793#mania/1135210)
+- Tiebreaker
+  - **[Shoujo - Reminiscing (Reba) \[Memories\]](https://osu.ppy.sh/beatmapsets/487074#mania/1038482)**
 
-| Team A |  | Score |  | Team B |  | Team A |  | Score |  | Team B |
-| --: | --: | :-: | :-- | :-- | :-: | --: | --: | :-: | :-- | :-- |
-| ***Group A*** |  |  |  |  |  |  |  |  |
-| Pridra Yinda | ![][CN] | 0 : 4 | ![][MY] | \[Xiiao\]Ray |  | drunkenstein | ![][HK] | 4 : 0 | ![][CN] | Pridra Yinda |
-| Murasame | ![][CA] | 4 : 0 | ![][CN] | Pridra Yinda |  | Murasame | ![][CA] | 0 : 4 | ![][MY] | \[Xiiao\]Ray |
-| drunkenstein | ![][HK] | 4 : 0 | ![][CA] | Murasame |  | drunkenstein | ![][HK] | 4 : 0 | ![][MY] | \[Xiiao\]Ray |
-| ***Group B*** |  |  |  |  |  |  |  |  |
-| \[Crz\]Liusecy | ![][CN] | 2 : 4 | ![][CN] | - ZedXD - |  | fgdg858 | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai |
-| - ZedXD - | ![][CN] | 1 : 4 | ![][CN] | fgdg858 |  | \[Crz\]Liusecy | ![][CN] | 1 : 4 | ![][CN] | fgdg858 |
-| - ZedXD - | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai |  | \[Crz\]Liusecy | ![][CN] | 0 : 4 | ![][MY] | Chizuru Shinkai |
-| ***Group C*** |  |  |  |  |  |  |  |  |
-| BDXiaoQian | ![][SG] | 0 : 4 | ![][CN] | Stink God |  | zero2snow | ![][HK] | 0 : 0 | ![][CN] | Stink God |
-| zero2snow | ![][HK] | 0 : 4 | ![][CN] | wjh123 |  | zero2snow | ![][HK] | 0 : 4 | ![][SG] | BDXiaoQian |
-| BDXiaoQian | ![][SG] | 2 : 4 | ![][CN] | wjh123 |  | wjh123 | ![][CN] | 3 : 4 | ![][CN] | Stink God |
-| ***Group D*** |  |  |  |  |  |  |  |  |
-| NED_Q | ![][CN] | 4 : 0 | ![][HK] | Opean |  | hly200 | ![][CN] | 4 : 0 | ![][HK] | Opean |
-| NED_Q | ![][CN] | 0 : 4 | ![][CN] | \[Crz\]MemoryI |  | \[Crz\]MemoryI | ![][CN] | 4 : 0 | ![][HK] | Opean |
-| hly200 | ![][CN] | 3 : 4 | ![][CN] | NED_Q |  | \[Crz\]MemoryI | ![][CN] | 0 : 4 | ![][CN] | hly200 |
-| ***Group E*** |  |  |  |  |  |  |  |  |
-| Neokje | ![][MY] | 4 : 0 | ![][CN] | - Xiaoluoli - |  | qiluo | ![][CN] | 4 : 1 | ![][CN] | spensll |
-| Neokje | ![][MY] | 4 : 0 | ![][CN] | spensll |  | qiluo | ![][CN] | 4 : 1 | ![][CN] | - Xiaoluoli - |
-| Neokje | ![][MY] | 4 : 1 | ![][CN] | qiluo |  | spensll | ![][CN] | 4 : 0 | ![][CN] | - Xiaoluoli - |
-| ***Group F*** |  |  |  |  |  |  |  |  |
-| \[Crz\]Riri | ![][CN] | 4 : 1 | ![][AU] | \[Crz\]Yukikaze- |  | \[Crz\]Riri | ![][CN] | 4 : 0 | ![][CN] | prelude8792916 |
-| WF Night | ![][CN] | 0 : 4 | ![][AU] | \[Crz\]Yukikaze- |  | \[Crz\]Riri | ![][CN] | 4 : 0 | ![][CN] | WF Night |
-| \[Crz\]Yukikaze- | ![][AU] | 4 : 0 | ![][CN] | prelude8792916 |  | WF Night | ![][CN] | 0 : 0 | ![][CN] | prelude8792916 |
-| ***Group G*** |  |  |  |  |  |  |  |  |
-| AnLs | ![][HK] | 0 : 4 | ![][TW] | - Choma - |  | Luv Letter | ![][CN] | 0 : 4 | ![][CN] | \[Crz\]Mix0130 |
-| \[Crz\]Mix0130 | ![][CN] | 4 : 0 | ![][CN] | AnLs |  | - Choma - | ![][TW] | 4 : 0 | ![][HK] | AnLs |
-| \[Crz\]Mix0130 | ![][CN] | 0 : 4 | ![][TW] | - Choma - |  | AnLs | ![][HK] | 4 : 0 | ![][CN] | Luv Letter |
-| ***Group H*** |  |  |  |  |  |  |  |  |
-| Banshasan | ![][CN] | 0 : 4 | ![][CN] | \[Crz\]ScSolAr |  | \[M1nzzZ\] | ![][CN] | 0 : 4 | ![][CN] | pikechu |
-| \[M1nzzZ\] | ![][CN] | 0 : 4 | ![][CN] | Banshasan |  | \[Crz\]ScSolAr | ![][CN] | 4 : 1 | ![][CN] | pikechu |
-| \[Crz\]ScSolAr | ![][CN] | 0 : 0 | ![][CN] | \[M1nzzZ\] |  | pikechu | ![][CN] | 4 : 1 | ![][CN] | Banshasan |
+### Group stage
 
-### Qualification Stage
+[Download the mappack here!](https://1drv.ms/users/s!AuGED5b9f0uloSC-zNJGthpjbLkb)
 
-|  | ID | Score |  | ID | Score |  | ID | Score |
-| --: | :-- | :-: | --: | :-- | :-: | --: | :-- | :-: |
-| ![][HK] | zero2snow | 3,952,107 | ![][HK] | drunkenstein | 3,849,131 | ![][CN] | spensll | 3,724,897 |
-| ![][MY] | \[Xiiao\]Ray | 3,932,611 | ![][CN] | Stink God | 3,843,568 | ![][HK] | Opean | 3,722,732 |
-| ![][CN] | \[Crz\] Luna | 3,924,151 | ![][CN] | hly200 | 3,812,688 | ![][CN] | wjh123 | 3,714,831 |
-| ![][CN] | \[Crz\]MemoryI | 3,921,461 | ![][CN] | qiluo | 3,799,348 | ![][CN] | Pridra Yinda | 3,708,903 |
-| ![][CN] | \[Crz\]Riri | 3,917,019 | ![][CN] | - ZedXD - | 3,774,138 | ![][CN] | AnLs | 3,696,360 |
-| ![][MY] | Neokje | 3,889,365 | ![][CN] | WF Night | 3,769,391 | ![][CN] | prelude8792916 | 3,665,105 |
-| ![][MY] | fgdg858 | 3,884,687 | ![][CN] | \[Crz\]Liusecy | 3,762,477 | ![][CN] | gzdongsheng | 3,659,840 |
-| ![][CN] | \[Crz\]ScSolAr | 3,884,594 | ![][SG] | BDXiaoQian | 3,741,087 | ![][CN] | NED_Q | 3,638,679 |
-| ![][CN] | \[Crz\]Mix0130 | 3,881,972 | ![][CN] | \[M1nzzZ\] | 3,739,376 | ![][CN] | - Xiaoluoli - | 3,600,070 |
-| ![][CN] | pikechu | 3,879,190 | ![][CN] | Luv Letter | 3,737,152 | ![][CN] | Banshasan | 3,385,012 |
-| ![][TW] | - Choma - | 3,870,458 | ![][CA] | Murasame | 3,735,205 | ![][CN] | Chizuru Shinkai | 1,686,985 |
-| ![][AU] | \[Crz\]Yukikaze- | 3,853,597 |  |  |  |  |  |  |
+- FreeMod
+  - [Ryu\* Vs. L.E.D.-G - PARADISE LOST (Spy) \[CS'Another\]](https://osu.ppy.sh/beatmapsets/553390#mania/1171750)
+  - [Diceros Bicornis - Innocent Tempest (Ichigaki) \[Zan's EXHAUST\]](https://osu.ppy.sh/beatmapsets/367484#mania/818950)
+  - [kors k - Playing with Fire (Sota Fujimori Remix) (Bad Apple) \[Dancing Blaze\]](https://osu.ppy.sh/beatmapsets/484214#mania/1032948)
+  - [P\*Light feat. mow\*2 - OVERDRIVERS (inteliser) \[EXTREME\[LN\]\]](https://osu.ppy.sh/beatmapsets/578558#mania/1224997)
+  - [Raika - Long Note Practice Pack (LordRaika) \[Level(6)4K\]](https://osu.ppy.sh/beatmapsets/329814#mania/816623)
+  - [Envy - Paladin (XeoStyle) \[SV-Fest\]](https://osu.ppy.sh/beatmapsets/489922#mania/1044428)
+  - [sasakure.UK - Atropos (Short Edit) (Fullerene-) \[Lachesis\]](https://osu.ppy.sh/beatmapsets/310328#mania/693529)
+  - [PSY - DADDY (feat. CL of 2NE1) short Ver. (ALEFY) \[4K MX(Dancing Hard SV)\]](https://osu.ppy.sh/beatmapsets/440378#mania/947524)
+  - [Nizikawa - F.K.S. (Zan -) \[Ichi's INFINITE Lv'15\]](https://osu.ppy.sh/beatmapsets/235927#mania/556755)
+  - [L.E.D. vs S-C-U - Confiserie (LNP-) \[Extreme\]](https://osu.ppy.sh/beatmapsets/464475#mania/994500)
+  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (biemote) \[4k Another\]](https://osu.ppy.sh/beatmapsets/517481#mania/1099508)
+  - [w_tre respect for AT&HU - Schur's Theorem (Imperial Wolf) \[Anson's Ak EXTREME\]](https://osu.ppy.sh/beatmapsets/628102#mania/1324299)
+- Tiebreaker
+  - **[Halozy - Three Magic (DiGiTAL WiNG TRANCE Remix) (Virtue-) \[Lunatic of Love\]](https://osu.ppy.sh/beatmapsets/564014#mania/1192531)**
+
+### Qualification stage
+
+- FreeMod
+  - [Inspector K - Disconnected -Hyper- (XeoStyle) \[deep boop\]](https://osu.ppy.sh/beatmapsets/609453#mania/1287062)
+  - [Raika - Long Note Practice Pack (LordRaika) \[Level(5)4k\]](https://osu.ppy.sh/beatmapsets/329814#mania/813335)
+  - [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence (Spy) \[Another\]](https://osu.ppy.sh/beatmapsets/625866#mania/1319304)
+  - [Various Artists - Ichigaki's 4K Collection Vol.1 (Ichigaki) \[TIEFSEE \[Marathon\]\]](https://osu.ppy.sh/beatmapsets/387625#mania/845983)
 
 ### Test match
 
-| Saturday, 17. June 2017 |  |  |  |  |
+[Download the mappack here!](https://1drv.ms/users/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)
+
+- FreeMod
+  - [Shiki – Endless Dream (Shoegazer) \[pompom’s Another\]](https://osu.ppy.sh/beatmapsets/263929#mania/601737)
+  - [sakuzyo – Refel (Shoegazer) \[Liberation\]](https://osu.ppy.sh/beatmapsets/557062#mania/1178870)
+  - -45 – EXILE \[Anotehr_SideA\]
+  - [seleP – Scarlet Rose (juankristal) \[Scarlet Rose\]](https://osu.ppy.sh/beatmapsets/580114#mania/1228278)
+  - [Polyphony – Adrift (Shoegazer) \[Marine\]](https://osu.ppy.sh/beatmapsets/292423#mania/658126)
+  - [LeaF – I (Tidek) \[UJ’s Another\]](https://osu.ppy.sh/beatmapsets/426638#mania/928341)
+  - [DJ Sharpnel – Cyber Induction (Houraisan-) \[IcyWorld\]](https://osu.ppy.sh/beatmapsets/478087#mania/1021178)
+  - [Helblinde – Rewrite Nightmare (Jepetski) \[Experiment\]](https://osu.ppy.sh/beatmapsets/323777#mania/719525)
+  - [Helblinde – Memoria (Original Mix) (Manwon) \[LeiN-‘s SC\]](https://osu.ppy.sh/beatmapsets/518266#mania/1101044)
+  - [DET & Silantra – Luv Song (BilliumMoto) \[<3\]](https://osu.ppy.sh/beatmapsets/264439#mania/602841)
+  - [Kobaryo – Pumpin’ Junkies (Kobaryo’s FTN-Remix) (Tokiiwa) \[Arcwin’s Maxima\]](https://osu.ppy.sh/beatmapsets/281235#mania/644265)
+  - [A-Teens – Gimme! Gimme! Gimme! (hans1999) \[Wafles’s Beginner 24\]](https://osu.ppy.sh/beatmapsets/472781#mania/1010130)
+  - [senya – Zenaku no Itadaki ni Aru Shinjitsu (souzirou1000) \[EXH (LN)\]](https://osu.ppy.sh/beatmapsets/493407#mania/1050840)
+  - [96Neko – Paintings? Oh, yeah. (juankristal) \[PaiLNfull\]](https://osu.ppy.sh/beatmapsets/516224#mania/1103346)
+  - LeaF – 4th smile \[Prosperity\]
+  - [Da Tweekaz – Wodka (short Ver.) (ALEFY) \[4K MX(Hard SV Edit.)\]](https://osu.ppy.sh/beatmapsets/364913#mania/800952)
+- Tiebreaker
+  - **[Camellia – Lunatic Rough Party!! (Long Ver.) (Ichigaki) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/286262#mania/646319)**
+
+## Match results
+
+### Finals week 2
+
+Saturday, 5 August 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| "The Elder" Team | 5 | 7 | "The Cutting-edge" Team | [Match Record](https://osu.ppy.sh/community/matches/33910571) |
+| \[Crz\]ScSolAr ![][flag_CN] | 0 | **7** | ![][flag_TW] **- Choma -** | *win by default* |
+
+Sunday, 6 August 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-: |
+| **- Choma -** ![][flag_TW] | **7** | 0 | ![][flag_CN] \[Crz\]MemoryI | *win by default* |
+
+### Finals week 1
+
+Saturday, 29 July 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-: |
+| \[Crz\]Riri ![][flag_CN] | 0 | **6** | ![][flag_TW] **- Choma -** | [#1](https://osu.ppy.sh/community/matches/34872032) |
+| **\[Crz\]MemoryI** ![][flag_CN] | **6** | 0 | ![][flag_CN] \[Crz\]ScSolAr | *win by default* |
+| pikechu ![][flag_CN] | 2 | **6** | ![][flag_MY] **Neokje** | [#1](https://osu.ppy.sh/community/matches/34873568) |
+
+Sunday, 30 July 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-: |
+| **- Choma -** ![][flag_TW] | **6** | 5 | ![][flag_MY] Neokje | [#1](https://osu.ppy.sh/community/matches/34893510) |
+
+### Semifinals
+
+Saturday, 22 July 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-: |
+| **NED\_Q** ![][flag_CN] | **6** | 0 | ![][flag_AU] \[Crz\]Yukikaze | *win by default* |
+| drunkenstein ![][flag_HK] | 0 | **6** | ![][flag_CN] **pikechu** | *win by default* |
+| **- Choma -** ![][flag_TW] | **6** | 0 | ![][flag_CN] - ZedXD - | [#1](https://osu.ppy.sh/community/matches/34703556) |
+| \[Crz\]Liusecy ![][flag_CN] | 2 | **6** | ![][flag_CN] **Stink God** | [#1](https://osu.ppy.sh/community/matches/34706159) |
+| \[Crz\]Riri ![][flag_CN] | 2 | **6** | ![][flag_CN] **\[Crz\]MemoryI** | [#1](https://osu.ppy.sh/community/matches/34771665) |
+
+Sunday 23 July 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-: |
+| **- Choma -** ![][flag_CA] | **6** | 0 | ![][flag_CN] Stink God | *win by default* |
+| Neokje ![][flag_MY] | 2 | **6** | ![][flag_CN] **\[Crz\]ScSolAr** | [#1](https://osu.ppy.sh/community/matches/34731835) |
+| NED\_Q ![][flag_CN] | 0 | **6** | ![][flag_CN] **pikechu** | *win by default* |
+
+### Quarterfinals
+
+Saturday, 15 July 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-: |
+| drunkenstein ![][flag_HK] | 0 | **5** | ![][flag_CN] **\[Crz\]Riri** | [#1](https://osu.ppy.sh/community/matches/34542511) |
+| **- ZedXD -** ![][flag_CN] | **5** | 0 | ![][flag_CN] spensll | [#1](https://osu.ppy.sh/community/matches/34543141) |
+| wjh123 ![][flag_CN] | 0 | **5** | ![][flag_CN] **Stink God** | *win by default* |
+| NED\_Q ![][flag_CN] | 3 | **5** | ![][flag_CN] **\[Crz\]MemoryI** | [#1](https://osu.ppy.sh/community/matches/34547424) |
+
+Sunday 16 July 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-: |
+| Murasame ![][flag_CA] | 0 | **5** | ![][flag_AU] **\[Crz\]Yukikaze-** | *win by default* |
+| **pikechu** ![][flag_CN] | **5** | 1 | ![][flag_CN] \[Crz\]Mix0130 | [#1](https://osu.ppy.sh/community/matches/34566588) |
+| \[Crz\]Liusecy ![][flag_CN] | 0 | **5** | ![][flag_MY] **Neokje** | [#1](https://osu.ppy.sh/community/matches/34570396) |
+| - Choma - ![][flag_TW] | 2 | **5** | ![][flag_CN] **\[Crz\]ScSolAr** | [#1](https://osu.ppy.sh/community/matches/34571413) |
+
+### Round of 16
+
+Saturday, 8 July 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-: |
+| **drunkenstein** ![][flag_HK] | **5** | 1 | ![][flag_CN] - ZedXD - | [#1](https://osu.ppy.sh/community/matches/34380098) |
+| **\[Crz\]Riri** ![][flag_CN] | **5** | 0 | ![][flag_CN] spensll | [#1](https://osu.ppy.sh/community/matches/34380710) |
+| **NED\_Q** ![][flag_CN] | **5** | 0 | ![][flag_CN] wjh123 | [#1](https://osu.ppy.sh/community/matches/34384012) |
+| Stink God ![][flag_CN] | 1 | **5** | ![][flag_CN] **\[Crz\]MemoryI** | [#1](https://osu.ppy.sh/community/matches/34385381) |
+
+Sunday 9 July 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-: |
+| **\[Crz\]Liusecy** ![][flag_CN] | **5** | 0 | ![][flag_CA] Murasame | *win by default* |
+| **Neokje** ![][flag_MY] | **5** | 0 | ![][flag_AU] \[Crz\]Yukikaze- | *win by default* |
+| **- Choma -** ![][flag_TW] | **5** | 0 | ![][flag_CN] pikechu | [#1](https://osu.ppy.sh/community/matches/34404265) |
+| **\[Crz\]ScSolAr** ![][flag_CN] | **5** | 0 | ![][flag_CN] \[Crz\]Mix0130 | [#1](https://osu.ppy.sh/community/matches/34407900) |
+
+### Group stage
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| A | Pridra Yinda ![][flag_CN] | 0 | **4** | ![][flag_MY] **\[Xiiao]Ray** |
+| A | **Murasame** ![][flag_CA] | **4** | 0 | ![][flag_CN] Pridra Yinda |
+| A | **drunkenstein** ![][flag_HK] | **4** | 0 | ![][flag_CA] Murasame |
+| A | **drunkenstein** ![][flag_HK] | **4** | 0 | ![][flag_CN] Pridra Yinda |
+| A | Murasame ![][flag_CA] | 0 | **4** | ![][flag_MY] **\[Xiiao]Ray** |
+| A | **drunkenstein** ![][flag_HK] | **4** | 0 | ![][flag_MY] \[Xiiao]Ray |
+| B | \[Crz\]Liusecy ![][flag_CN] | 2 | **4** | ![][flag_CN] **- ZedXD -** |
+| B | - ZedXD - ![][flag_CN] | 1 | **4** | ![][flag_CN] **fgdg858** |
+| B | **- ZedXD -** ![][flag_CN] | **4** | 0 | ![][flag_MY] Chizuru Shinkai |
+| B | **fgdg858** ![][flag_CN] | **4** | 0 | ![][flag_MY] Chizuru Shinkai |
+| B | \[Crz\]Liusecy ![][flag_CN] | 1 | **4** | ![][flag_CN] **fgdg858** |
+| B | \[Crz\]Liusecy ![][flag_CN] | 0 | **4** | ![][flag_MY] **Chizuru Shinkai** |
+| C | BDXiaoQian ![][flag_SG] | 0 | **4** | ![][flag_CN] **Stink God** |
+| C | zero2snow ![][flag_HK] | 0 | **4** | ![][flag_CN] **wjh123** |
+| C | BDXiaoQian ![][flag_SG] | 2 | **4** | ![][flag_CN] **wjh123** |
+| C | zero2snow ![][flag_HK] | 0 | 0 | ![][flag_CN] Stink God |
+| C | zero2snow ![][flag_HK] | 0 | **4** | ![][flag_SG] **BDXiaoQian** |
+| C | wjh123 ![][flag_CN] | 3 | **4** | ![][flag_CN] **Stink God** |
+| D | **NED\_Q** ![][flag_CN] | **4** | 0 | ![][flag_HK] Opean |
+| D | NED\_Q ![][flag_CN] | 0 | **4** | ![][flag_CN] **\[Crz\]MemoryI** |
+| D | hly200 ![][flag_CN] | 3 | **4** | ![][flag_CN] **NED\_Q** |
+| D | **hly200** ![][flag_CN] | **4** | 0 | ![][flag_HK] Opean |
+| D | **\[Crz\]MemoryI** ![][flag_CN] | **4** | 0 | ![][flag_HK] Opean |
+| D | \[Crz\]MemoryI ![][flag_CN] | 0 | **4** | ![][flag_CN] **hly200** |
+| E | **Neokje** ![][flag_MY] | **4** | 0 | ![][flag_CN] - Xiaoluoli - |
+| E | **Neokje** ![][flag_MY] | **4** | 0 | ![][flag_CN] spensll |
+| E | **Neokje** ![][flag_MY] | **4** | 1 | ![][flag_CN] qiluo |
+| E | **qiluo** ![][flag_CN] | **4** | 1 | ![][flag_CN] spensll |
+| E | **qiluo** ![][flag_CN] | **4** | 1 | ![][flag_CN] - Xiaoluoli - |
+| E | **spensll** ![][flag_CN] | **4** | 0 | ![][flag_CN] - Xiaoluoli - |
+| F | **\[Crz\]Riri** ![][flag_CN] | **4** | 1 | ![][flag_AU] \[Crz\]Yukikaze- |
+| F | WF Night ![][flag_CN] | 0 | **4** | ![][flag_AU] **\[Crz\]Yukikaze-** |
+| F | **\[Crz\]Yukikaze-** ![][flag_AU] | **4** | 0 | ![][flag_CN] prelude8792916 |
+| F | **\[Crz\]Riri** ![][flag_CN] | **4** | 0 | ![][flag_CN] prelude8792916 |
+| F | **\[Crz\]Riri** ![][flag_CN] | **4** | 0 | ![][flag_CN] WF Night |
+| F | WF Night ![][flag_CN] | 0 | 0 | ![][flag_CN] prelude8792916 |
+| G | AnLs ![][flag_HK] | 0 | **4** | ![][flag_TW] **- Choma -** |
+| G | **\[Crz\]Mix0130** ![][flag_CN] | **4** | 0 | ![][flag_CN] AnLs |
+| G | \[Crz\]Mix0130 ![][flag_CN] | 0 | **4** | ![][flag_TW] - Choma - |
+| G | Luv Letter ![][flag_CN] | 0 | **4** | ![][flag_CN] **\[Crz\]Mix0130** |
+| G | **- Choma -** ![][flag_TW] | **4** | 0 | ![][flag_HK] AnLs |
+| G | **AnLs** ![][flag_HK] | **4** | 0 | ![][flag_CN] Luv Letter |
+| H | Banshasan ![][flag_CN] | 0 | **4** | ![][flag_CN] **\[Crz\]ScSolAr** |
+| H | \[M1nzzZ\] ![][flag_CN] | 0 | **4** | ![][flag_CN] **Banshasan** |
+| H | \[Crz\]ScSolAr ![][flag_CN] | 0 | 0 | ![][flag_CN] \[M1nzzZ\] |
+| H | \[M1nzzZ\] ![][flag_CN] | 0 | **4** | ![][flag_CN] **pikechu** |
+| H | **\[Crz\]ScSolAr** ![][flag_CN] | **4** | 1 | ![][flag_CN] pikechu |
+| H | **pikechu** ![][flag_CN] | **4** | 1 | ![][flag_CN] Banshasan |
+
+### Qualification stage
+
+| Player | Score |
+| --: | :-: |
+| ![][flag_HK] zero2snow | 3,952,107 |
+| ![][flag_MY] \[Xiiao\]Ray | 3,932,611 |
+| ![][flag_CN] \[Crz\] Luna | 3,924,151 |
+| ![][flag_CN] \[Crz\]MemoryI | 3,921,461 |
+| ![][flag_CN] \[Crz\]Riri | 3,917,019 |
+| ![][flag_MY] Neokje | 3,889,365 |
+| ![][flag_MY] fgdg858 | 3,884,687 |
+| ![][flag_CN] \[Crz\]ScSolAr | 3,884,594 |
+| ![][flag_CN] \[Crz\]Mix0130 | 3,881,972 |
+| ![][flag_CN] pikechu | 3,879,190 |
+| ![][flag_TW] - Choma - | 3,870,458 |
+| ![][flag_AU] \[Crz\]Yukikaze- | 3,853,597 |
+| ![][flag_HK] drunkenstein | 3,849,131 |
+| ![][flag_CN] Stink God | 3,843,568 |
+| ![][flag_CN] hly200 | 3,812,688 |
+| ![][flag_CN] qiluo | 3,799,348 |
+| ![][flag_CN] - ZedXD - | 3,774,138 |
+| ![][flag_CN] WF Night | 3,769,391 |
+| ![][flag_CN] \[Crz\]Liusecy | 3,762,477 |
+| ![][flag_SG] BDXiaoQian | 3,741,087 |
+| ![][flag_CN] \[M1nzzZ\] | 3,739,376 |
+| ![][flag_CN] Luv Letter | 3,737,152 |
+| ![][flag_CA] Murasame | 3,735,205 |
+| ![][flag_CN] spensll | 3,724,897 |
+| ![][flag_HK] Opean | 3,722,732 |
+| ![][flag_CN] wjh123 | 3,714,831 |
+| ![][flag_CN] Pridra Yinda | 3,708,903 |
+| ![][flag_CN] AnLs | 3,696,360 |
+| ![][flag_CN] prelude8792916 | 3,665,105 |
+| ![][flag_CN] gzdongsheng | 3,659,840 |
+| ![][flag_CN] NED\_Q | 3,638,679 |
+| ![][flag_CN] - Xiaoluoli - | 3,600,070 |
+| ![][flag_CN] Banshasan | 3,385,012 |
+| ![][flag_CN] Chizuru Shinkai | 1,686,985 |
+
+### Test match
+
+Saturday, 2017-06-17:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-: |
+| "The Elder" team | 5 | **7** | **"The Cutting-edge" team** | [#1](https://osu.ppy.sh/community/matches/33910571) |
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) is a one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team.
 2. The maps for each round will be announced by the map selector in advance on the Sunday before the actual matches take place:
@@ -344,7 +455,7 @@ TB:
 15. Any modification of these rules will be announced.
 16. The CMT team reserves the right to use Chinese preferentially.
 
-### Registration Rules
+### Registration rules
 
 1. Every user interested in joining the tournament signs up individually (Registration link will be released after the registration phrase begins).
 2. Only these players are eligible to sign up:
@@ -356,7 +467,7 @@ TB:
 3. Successfully registered player will receive a confirm email and will be posted on the player list. See [here](https://osu.ppy.sh/community/forums/topics/576970).
 4. Map selectors and tournament managers are not allowed to register.
 
-### Stage Instructions
+### Stage instructions
 
 1. In the Qualification stage, all players will be divided into groups of 8. The mappool for qualification round has **4** maps and all players will have two chances at each qualifier where the highest of the two runs will be cumulated for players' final score. The highest **32** (may vary with the number of registered players) players will qualify next stage.
 
@@ -380,10 +491,10 @@ TB:
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
-   | Quarter-finals | I, J, K, L & R, S, T, U |
-   | Semi-finals | M, N & V, W, X, Y, Z,AA |
-   | Finals - Week 1 | O & AB, AC, AD |
-   | Finals - Week 2 | P & AE |
+   | Quarterfinals | I, J, K, L & R, S, T, U |
+   | Semifinals | M, N & V, W, X, Y, Z,AA |
+   | Finals week 1 | O & AB, AC, AD |
+   | Finals week 2 | P & AE |
 
 8. **Winning condition**:
    - In the Qualification stage, the **32** highest players will qualify next stage.
@@ -392,7 +503,7 @@ TB:
    - In Semi-finals and Finals: Week 1, you need to win **6** maps to win a match. (Best-of-11).
    - In Finals: Week 2, you need to win **7** maps to win the match. (Best-of-13).
 
-## Match Instructions
+## Match instructions
 
 ### Qualification stage
 
@@ -412,14 +523,14 @@ TB:
    - Room settings are osu!mania, Head To Head, Win Condition: 'Score v2'. Room name must be "CMT4K2017: (playerBlue) vs (playerRed)".
    - PlayerBlue and playerRed must be in slot 1, 2, respectively.
 2. Each player in the match will be allowed **1** warm-up map to be played, making for **2** warm-ups. Questioned maps and maps that are not 4K-specific osu!mania maps are not allowed.
-3. Each player must use `!roll` once in \#multiplayer:
+3. Each player must use `!roll` once in `#multiplayer`:
    - The losing roll picks the first banned map.
    - The winning roll picks the first map of the match.
    - Repeat `!roll` if two rolls are equal.
 4. Players pick maps by turns:
    - In case of a tie, the tiebreaker map must be played.
 
-## Mappool Instructions
+## Mappool instructions
 
 1. There will be **1** mappool for the Qualification Stage, **1** mappool for the Group Stage, **1** mappool for Round of 16, **1** mappool for the Quarter-finals, **1** mappool for the Semi-finals and **1** mappool for the Finals:
    - Finals Week 1 & Finals Week 2 share the same mappool.
@@ -432,7 +543,7 @@ TB:
 4. All maps, including the tiebreaker, will be played on Free-Mod condition:
    - Every individual player can pick Hidden, Flashlight or Fade-In or no mode at all.
 
-## Scheduling Instructions
+## Scheduling instructions
 
 1. In principle, each stage will be held on a single weekend.
 2. All matches will be held on Saturday or Sunday, UTC+8.
@@ -442,11 +553,11 @@ TB:
    - Apart from time zone reasons, the absent player(s) will be considered as forfeited, regardless of whether they have sent messages to the Management.
 5. Request of rematch from forfeited player(s) will not be accepted.
 
-[CN]: /wiki/shared/flag/CN.gif "China"
-[UK]: /wiki/shared/flag/GB.gif "Great Britain"
-[TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[AU]: /wiki/shared/flag/AU.gif "Australia"
-[SG]: /wiki/shared/flag/SG.gif "Singapore"
-[HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"

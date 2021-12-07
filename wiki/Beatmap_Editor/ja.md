@@ -17,11 +17,11 @@
 
 ## Compose
 
-[Compose](/wiki/Beatmap_Editor/Compose)は、全ての[ヒットオブジェクト](/wiki/Hit_Objects)やその他のゲームプレイ関連要素を作成する場所です。ほとんどのマッパーは、このタブに他のタブよりも多くの時間を費やします。
+[Compose](/wiki/Beatmap_Editor/Compose)は、全ての[ヒットオブジェクト](/wiki/Hit_object)やその他のゲームプレイ関連要素を作成する場所です。ほとんどのマッパーは、このタブに他のタブよりも多くの時間を費やします。
 
 ## Design
 
-[Design](/wiki/Beatmap_Editor/Design)は、ビートマップに付随する視覚効果である[ストーリーボード](/wiki/Storyboards)を作成する方法を提供します。ストーリーボードは複雑な効果を持つことが多く、多くのストーリーボードコマンドを使用する必要があるため、マッパーはデザインタブに入らずに[ストーリーボードスクリプト](/wiki/Storyboard_Scripting)を直接使用することもあります。
+[Design](/wiki/Beatmap_Editor/Design)は、ビートマップに付随する視覚効果である[ストーリーボード](/wiki/Storyboard)を作成する方法を提供します。ストーリーボードは複雑な効果を持つことが多く、多くのストーリーボードコマンドを使用する必要があるため、マッパーはデザインタブに入らずに[ストーリーボードスクリプト](/wiki/Storyboard/Scripting)を直接使用することもあります。
 
 ## Timing
 
@@ -38,7 +38,7 @@
 - [AiMod](AiMod): ビートマップの問題点を報告する自動システム
 - [Beat snap divisor](Beat_Snap_Divisor): オブジェクトのタイムラインへのスナップを決定する
 - [Distance snap](Distance_Snap): ヒットしたオブジェクトの近さや遠さに影響を与える乗数
-- [気合いタイム](Kiai_Time): ビートマップの一部分を強調するための特別なタイミングセクション
+- [気合いタイム](/wiki/Kiai_time): ビートマップの一部分を強調するための特別なタイミングセクション
 - [メニュー](Menu): ビートマップエディターの操作をサポート
 - [SB load](SB_Load): ストーリーボードの負荷の大きさを示す数値
 - [タイムライン](Timelines): 配置されたヒットオブジェクトやブレイクなどを表示

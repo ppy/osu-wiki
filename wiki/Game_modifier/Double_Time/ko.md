@@ -1,6 +1,6 @@
 ---
 tags:
-  - double time
+  - doubletime
   - double-time
   - DT
   - mod

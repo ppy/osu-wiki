@@ -12,7 +12,7 @@ tags:
 
 ## Rilis
 
-[Pernyataan resmi tentang osu!coins](https://osu.ppy.sh/home/news/2015-03-31-osucoins) menjelaskan bahwa osu!coin ditambahkan ke dalam permainan, sebagai cara untuk membiayai pesawat jet pribadi milik ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), karena strategi monetisasi yang digunakan pada saat ini tidak akan bisa membiayai pesawat jet pribadi miliknya dalam masa hidupnya. Pernyataan tersebut berlanjut, menjelaskan bahwa setiap pemain baru akan diberikan 10 osu!coin, dan akan diberikan 10 lagi setiap harinya. Pemain lama akan diberikan dua tambahan osu!coin sebagai bonus. Pemain dapat mendapatkan lebih banyak osu!coin dengan mencapai kombo tertentu<!--TODO: link to combo multiplier-->. Satu osu!coin akan diberikan untuk setiap 100x kombo.
+[Pernyataan resmi tentang osu!coins](https://osu.ppy.sh/home/news/2015-03-31-osucoins) menjelaskan bahwa osu!coin ditambahkan ke dalam permainan, sebagai cara untuk membiayai pesawat jet pribadi milik ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), karena strategi monetisasi yang digunakan pada saat ini tidak akan bisa membiayai pesawat jet pribadi miliknya dalam masa hidupnya. Pernyataan tersebut berlanjut, menjelaskan bahwa setiap pemain baru akan diberikan 10 osu!coin, dan akan diberikan 10 lagi setiap harinya. Pemain lama akan diberikan dua tambahan osu!coin sebagai bonus. Pemain dapat mendapatkan lebih banyak osu!coin dengan mencapai [kombo](/wiki/Glossary/Combo_(score_multiplier)) tertentu. Satu osu!coin akan diberikan untuk setiap 100x kombo.
 
 Saat pemain kehabisan osu!coin, mereka tidak akan bisa memainkan beatmap apapun lagi. Tetapi, mereka dapat membeli lebih banyak osu!coin - atas kemauan mereka sendiri - dengan harga berikut:
 
@@ -34,6 +34,6 @@ Pembaruan ini diterima dengan baik oleh pemain osu! sebagai perubahan suasana da
 - osu!academy memperkenalkan osu!coins: [Introduction to osu!coins (April Fools' 2015)](https://www.youtube.com/watch?v=BImc5McuK1o)
 - peppy mengumumkan osu!coins: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
 
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-
 <!-- TODO: Add links and images -->
+
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"

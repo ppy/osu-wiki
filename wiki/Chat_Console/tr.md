@@ -88,7 +88,7 @@ Etkinleştirmek için numarayı tıklatın veya çubuğu tıklatın:
 | `/unignore [kullanıcı]` | Bu oturum için bu kullanıcıyı yoksaymayı durdurun. | `/unignore Amigo` | Şu anda Amigo adlı kullanıcıdan mesaj alabilirsin. (Sohbet konsolunuz, Amigo tarafından yapılan herhangi bir gönderiye izin verir) |
 | `/me [eylem]` | Üçüncü kişi bir eylemi gerçekleştirin. | `/me evde` | * John evde |
 | `/msg [kullanıcı] [mesaj]` | Belirtilen `[kullanıcıya]` özel bir mesaj gönderir. | `/msg Amigo Ben evde hastayım.` | (Amigo sekmesinde) Ben evde hastayım. |
-| `/np` | Dinlediğiniz veya çaldığınız geçerli şarkıyı sohbete yazdırır. | `/np` | (Oynuyorsanız) * John is listening to [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) |
+| `/np` | Dinlediğiniz veya çaldığınız geçerli şarkıyı sohbete yazdırır. | `/np` | (Oynuyorsanız) * John is listening to [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) |
 | `/reply` ya da `/r` | Son alınan özel mesajı yanıtlayın. | `/r İyi bir doktor tanıyor musunuz?` | (Amigo sekmesinde) \[Önceki yorumlar] John: Evde hastayım. Amigo: Gerçekten mi? John: İyi bir doktor tanıyor musun? |
 | `/savelog` | Geçerli sohbet sekmesini bir metin dosyasına kaydeder. | `/savelog` | (osu! dizininde "Chat" adlı gelecekteki bütün sohbet kayıtlarının saklanacağı bir klasör oluşturulur. |
 | `/watch [kullanıcı]` | `[kullanıcıyı]` izlemeye başlayın. | `/watch Amigo` | * Started spectating Amigo. (Amigo sahip olduğunuz bir beatmap oynarken, \[biraz yüklemenin ardından] adınız Amigo'nun ekranının sol tarafında gözükecek şekilde onu izlemeye başlayacaksınız.) |

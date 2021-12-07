@@ -4,7 +4,7 @@ outdated: true
 
 # Beatmapping (Português)
 
-**Beatmapping** é o processo de criação de mapas no osu! para outros jogadores. Mapear envolve, [timing](/wiki/Timing), colocação de objetos, e (opcionalmente) [skinning](/wiki/Skinning) e/ou [storyboarding](/wiki/Storyboarding).
+**Beatmapping** é o processo de criação de mapas no osu! para outros jogadores. Mapear envolve, [timing](/wiki/Beatmap_Editor/Timing), colocação de objetos, e (opcionalmente) [skinning](/wiki/Skinning) e/ou [storyboarding](/wiki/Storyboard#storyboarding).
 
 Para começar, pressione o botão **Edit**. Normalmente mappers querem que seus beatmaps sejam [ranked](/wiki/Beatmap), que consiste num processo de [beatmap approval](/wiki/Beatmap_ranking_procedure), onde quando completados com sucesso, um quadro de pontuações será atribuído ao mapa e será considerado completo, a não ser que o mapper deseje adicionar/mudar algo no mesmo.
 
@@ -146,7 +146,7 @@ Aqui estão algumas dicas avançadas no planeamento de intervalos usando atalhos
 
 Para jogabilidade intuitiva, seus beatmaps devem ter um bom "Beat Spacing"(Espaçamento de batidas)! Em geral, batidas que estão perto de umas das outras na timeline devem estar perto no beatmap, e vice-versa. Isto serve para assegurar um fluxo da sincronização harmônica da música com o beatmap, fazendo os mapas muito mais agradáveis.
 
-A maneira mais simples de assegurar que o espaçamento de batidas está correto nos seus beatmaps é utilizando a função ping da ferramenta do editor [Distance Snap](/wiki/Distance_Snap), que poderá ser encontrada no canto superior direito do editor. A distância relativa entre notas pode ser ajustada usando a roda do mouse. Se você se acostumar a usar o Distance Snap para toda a música, é garantido um espaçamento de batida correto!
+A maneira mais simples de assegurar que o espaçamento de batidas está correto nos seus beatmaps é utilizando a função ping da ferramenta do editor [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap), que poderá ser encontrada no canto superior direito do editor. A distância relativa entre notas pode ser ajustada usando a roda do mouse. Se você se acostumar a usar o Distance Snap para toda a música, é garantido um espaçamento de batida correto!
 
 ### Como eu adiciono mais níveis de dificuldades na música?
 
@@ -192,7 +192,7 @@ Algumas notas:
 
 ### Como eu crio uma storyboard para meu beatmap?
 
-Clique na aba "Design" para abrir o SBE ([Storyboard Editor](/wiki/Storyboard_Editor)).
+Clique na aba "Design" para abrir o SBE ([Storyboard Editor](/wiki/Beatmap_Editor/Design)).
 
 ## Atalhos de Teclado
 

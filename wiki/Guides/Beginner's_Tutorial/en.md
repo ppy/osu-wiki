@@ -4,7 +4,7 @@ Welcome to the osu! beginner tutorial. The world of osu! can sometimes be a very
 
 ## Types of Input
 
-*Main page: [Play Styles](/wiki/Play_Styles)*
+*Main page: [Play Styles](/wiki/Play_style)*
 
 By default, a lot of players will start out with the mouse, since it's often the quickest available aiming tool by far. But there are actually multiple means of input to control the cursor and pop the circles:
 
@@ -58,7 +58,7 @@ For mouse and tablet or any other input device, you may also use your keyboard (
 
 One of the most important factors when playing osu! is your timing, much like other rhythm games! In this sense, if you've listened to a lot of music, it should be fairly easy to pick up on. The goal of accuracy and timing is to tap the notes at the correct time as precisely as possible.
 
-Each object in the game has an approach circle; a large ring that slowly approaches the hit circle itself. When the ring reaches the circle, it's time to tap it! If you pay attention to them carefully, it will help you recognize whether some notes are on half-beats or full beats, or whether you need to wait for the next note.
+Each object in the game has an approach circle; a large ring that slowly approaches the hit circle itself. When the ring reaches the circle, it's time to tap it! If you pay attention to them carefully, it will help you recognise whether some notes are on half-beats or full beats, or whether you need to wait for the next note.
 
 Music works in beats and rhythms. When you start a map (or even before you play) pay attention to the how the song sounds, and you can get a pretty good idea on the melody that you will be hitting circles to. Getting along with the music more closely will help you out in achieving better timing and coordination over it.
 

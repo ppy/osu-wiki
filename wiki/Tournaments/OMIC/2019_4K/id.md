@@ -1,7 +1,7 @@
 ---
 tags:
-- O!MIC 4K 2019
-- OMIC
+  - O!MIC 4K 2019
+  - OMIC
 ---
 
 # osu!mania 4K Indonesia Cup 2019
@@ -54,8 +54,6 @@ tags:
 - [Server Discord](https://discord.gg/mPbSx2q)
 - [Bagan Challonge](https://challonge.com/omic4k2019)
 
----
-
 ## Daftar Peserta
 
 ### Kualifikasi
@@ -79,8 +77,6 @@ tags:
 | **F** | ![][flag_ID] [reyss](https://osu.ppy.sh/users/4557440) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | ![][flag_ID] [Onii\_ue](https://osu.ppy.sh/users/12471868) | ![][flag_ID] [FelixSpade](https://osu.ppy.sh/users/2651304) |
 | **G** | ![][flag_ID] [ChocoCoki-](https://osu.ppy.sh/users/3565870) | ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122) | ![][flag_ID] [anzutto232](https://osu.ppy.sh/users/13408635) | ![][flag_ID] [Merlinch](https://osu.ppy.sh/users/4901971) |
 | **H** | ![][flag_ID] [kebannedanjg](https://osu.ppy.sh/users/12971540) | ![][flag_ID] [\_claidheamh](https://osu.ppy.sh/users/4686520) | ![][flag_ID] [2ndlegend](https://osu.ppy.sh/users/7621604) | ![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933) |
-
----
 
 ## Mappool
 
@@ -192,8 +188,6 @@ tags:
   - [Skrillex - Bangarang (feat. Sirah) (Cut Ver.) (-Rem-) \[Stage 2: Clarity\]](https://osu.ppy.sh/beatmapsets/988439#mania/2067676)
   - [SHK - Identity Part 4 (LuxAzure) \[Stage 3: Existence\]](https://osu.ppy.sh/beatmapsets/988442#mania/2067686)
   - [Venetian Snares - My So-Called Life (\[Crz\]Crysarlene) \[Stage 4: Desolation\]](https://osu.ppy.sh/beatmapsets/988435#mania/2067665)
-
----
 
 ## Hasil Pertandingan
 
@@ -343,8 +337,6 @@ tags:
 | **Grup G** | ![][flag_ID] [alvinrainbow](https://osu.ppy.sh/users/4783042) (15 Poin), ![][flag_ID] [anzutto232](https://osu.ppy.sh/users/13408635) (15 Poin), ![][flag_ID] [pakyan29](https://osu.ppy.sh/users/7879632) (6 Poin), ![][flag_ID] [ilhamsyah849](https://osu.ppy.sh/users/4679215) (0 Poin), ![][flag_ID] [\[AST\]Rosary](https://osu.ppy.sh/users/12504843) (0 Poin) | [#1](https://osu.ppy.sh/community/matches/53005726) |
 | **Grup H** | ![][flag_ID] [\[-TiaZark-\]](https://osu.ppy.sh/users/14294140) (13 Poin), ![][flag_ID] [Dil-](https://osu.ppy.sh/users/3796282) (11 Poin), ![][flag_ID] [ReZ\_TB](https://osu.ppy.sh/users/9113955) (6 Poin), ![][flag_ID] [Hilmi Ghazian](https://osu.ppy.sh/users/3200342) (6 Poin), ![][flag_ID] [RizSama](https://osu.ppy.sh/users/9281315) (0 Poin) | [#1](https://osu.ppy.sh/community/matches/53009213) |
 
----
-
 ## Peraturan Umum
 
 - Jumlah Peserta tidak terbatas.
@@ -355,7 +347,7 @@ tags:
   - Penyiar
   - Komentator
   - Desainer
-- Setiap peserta yang mendaftar akan melalui sesi [Tournament Screening](/wiki/osu!tourney/Prizes#tournament-screening).
+- Setiap peserta yang mendaftar akan melalui sesi [Tournament Screening](/wiki/Tournaments/Official_support#tournament-screening).
 
 ### Peraturan Turnamen
 
@@ -423,4 +415,4 @@ tags:
   - Pemain A mengalahkan pemain B. Pemain A akan lanjut ke babak berikutnya, dan juga pemain B. Tetapi pemain B akan masuk ke loser bracket (bracket khusus pemain yang sudah mendapatkan **kekalahan satu kali**).
   - Jika pemain B kalah kembali di loser bracket, maka pemain B akan **gugur dalam turnamen**.
 
-[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

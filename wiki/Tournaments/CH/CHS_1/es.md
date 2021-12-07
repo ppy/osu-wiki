@@ -17,7 +17,7 @@ La **Coffee Hispanic Showdown** (***CHS***) fue un torneo de osu! de doble-elimi
 | Fase de registro | 2020-07-05/2020-07-26 |
 | Eliminatorias | 2020-08-06/2020-08-09 |
 | Octavos de Final | 2020-08-15/2020-08-17 |
-| Cuartos de Final  | 2020-08-22/2020-08-26 |
+| Cuartos de Final | 2020-08-22/2020-08-26 |
 | Semifinales | 2020-08-29/2020-08-31 |
 | Finales | 2020-09-04/2020-09-06 |
 | Grandes Finales | 2020-09-12/2020-09-13 |
@@ -385,7 +385,7 @@ Lunes, 17 Agosto 2020:
 | #1 | ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761), ![][flag_AR] [Penguo](https://osu.ppy.sh/users/4389490) | 23 |
 | #2 | ![][flag_US] [AbrahamR](https://osu.ppy.sh/users/4797389), ![][flag_CO] [GaaL](https://osu.ppy.sh/users/2374950) | 83 |
 | #3 | ![][flag_CL] [Deruz](https://osu.ppy.sh/users/5386106), ![][flag_CL] [Pancho](https://osu.ppy.sh/users/11305398) | 98 |
-| #4 | ![][flag_CL] [Pancho](https://osu.ppy.sh/users/11305398), ![][flag_UY] [Madozito](https://osu.ppy.sh/users/4054429) | 106 |
+| #4 | ![][flag_UY] [Madozito](https://osu.ppy.sh/users/4054429), ![][flag_UY] [Rebo](https://osu.ppy.sh/users/6942259) | 106 |
 | #5 | ![][flag_ES] [In Sane](https://osu.ppy.sh/users/5114537), ![][flag_ES] [Rekens](https://osu.ppy.sh/users/1073575) | 109 |
 | #6 | ![][flag_ES] [amborgesa](https://osu.ppy.sh/users/1968481), ![][flag_RO] [Lisko](https://osu.ppy.sh/users/11948017) | 111 |
 | #7 | ![][flag_AR] [Emiru Ikuno 2](https://osu.ppy.sh/users/9393446), ![][flag_AR] [SlowBurn](https://osu.ppy.sh/users/3608846) | 117 |
@@ -516,9 +516,9 @@ Lunes, 17 Agosto 2020:
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_PY]: /wiki/shared/flag/PY.gif "Paraguay"
 [flag_QA]: /wiki/shared/flag/QA.gif "Catar"
-[flag_RO]: /wiki/shared/flag/RO.gif "Rumania"
-[flag_RU]: /wiki/shared/flag/RU.gif "Federación de Rusia"
+[flag_RO]: /wiki/shared/flag/RO.gif "Rumanía"
+[flag_RU]: /wiki/shared/flag/RU.gif "Federación Rusa"
 [flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwán"
 [flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
 [flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"

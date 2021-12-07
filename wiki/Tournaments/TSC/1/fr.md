@@ -469,7 +469,7 @@ Dimanche, 2 Septembre 2018:
 - Sur les maps FreeMod, au moins deux joueurs de chaque équipe doivent utiliser Hidden, HardRock, ou les deux.
 - Hidden et HardRock sont autorisés mais ne sont pas obligatoires sur les TieBreakers.
 - Seulement une personne de chaque seed est autorisé à jouer dans la salle à tout moment. C'est-à-dire une équipe peut avoir seulement 1 seed A, 1 seed B et 1 seed C.
-- Une fois que le choix de la map a été verrouillé, les joueurs ont 3 minutes pour se préparer. L'arbitre va commencer le match quand tous les joueurs sont prêts. Si les 3 minutes sont écoulées, l'arbitre va forcer le début du match avec la commande !mp start 15 et le match commencera avec les personnes qui sont prêtes à ce moment dans la salle.
+- Une fois que le choix de la map a été verrouillé, les joueurs ont 3 minutes pour se préparer. L'arbitre va commencer le match quand tous les joueurs sont prêts. Si les 3 minutes sont écoulées, l'arbitre va forcer le début du match avec la commande `!mp start 15` et le match commencera avec les personnes qui sont prêtes à ce moment dans la salle.
 - Le gagnant de la map est déterminé par l'équipe avec le plus grand score.
 - Dans le cas d'une déconnexion, un rematch va être effectué seulement si la déconnexion est arrivée dans les 30 premières secondes de la map. Cela peut être déterminé par le lien mp. Si un joueur déconnecte après que 30 secondes de map sont passées, leur score ne va pas être pris en compte.
 
@@ -504,13 +504,13 @@ Dimanche, 2 Septembre 2018:
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
 [flag_SK]: /wiki/shared/flag/SK.gif "Slovaquie"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
 [flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
-[flag_VN]: /wiki/shared/flag/VN.gif "Viêt Nam"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

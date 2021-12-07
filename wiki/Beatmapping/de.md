@@ -1,6 +1,6 @@
 # Beatmapping
 
-Das **Beatmapping** (kurz auch: **Mapping**) beschreibt den Prozess der Erstellung einer [Beatmap](/wiki/Beatmap), die dann von anderen osu!-Spielern gespielt werden kann. Das Mapping beinhaltet die Wahl eines Liedes, das [Timing](/wiki/Timing), das Platzieren von [Objekten](/wiki/Hit_Objects), und (optional) [Skinning](/wiki/Skinning) sowie [Storyboarding](/wiki/Storyboarding).
+Das **Beatmapping** (kurz auch: **Mapping**) beschreibt den Prozess der Erstellung einer [Beatmap](/wiki/Beatmap), die dann von anderen osu!-Spielern gespielt werden kann. Das Mapping beinhaltet die Wahl eines Liedes, das [Timing](/wiki/Beatmap_Editor/Timing), das Platzieren von [Objekten](/wiki/Hit_object), und (optional) [Skinning](/wiki/Skinning) sowie [Storyboarding](/wiki/Storyboard#storyboarding).
 
 Die meisten Mapper wollen, dass ihre Beatmaps [gerankt](/wiki/Beatmap) werden. Dafür müssen sie den [Rankingprozess](/wiki/Beatmap_ranking_procedure) durchlaufen.
 
@@ -12,7 +12,7 @@ Um eine neue Beatmap zu erstellen, begib dich zuerst in den "Edit"-Modus und zie
 
 ### Song Setup
 
-*Siehe auch: [Song Setup](/wiki/Song_Setup)*
+*Siehe auch: [Song Setup](/wiki/Beatmap_Editor/Song_Setup)*
 
 Wenn du ein neues [Beatmap](/wiki/Beatmap) erstellst, siehst du diesen Dialog immer als allererstes.
 
@@ -22,20 +22,20 @@ Die anderen Optionen kannst du jetzt oder auch später verändern, das bleibt ga
 
 ### Timing
 
-*Siehe auch: [Timing](/wiki/Timing)*
+*Siehe auch: [Timing](/wiki/Beatmap_Editor/Timing)*
 
-**Das Timing ist extrem wichtig!** Maps mit falschem Timing können nicht gerankt werden. Du musst sicherstellen, dass dein Timing perfekt ist, bevor du das erste [Objekt](/wiki/Hit_Objects) platzierst.
+**Das Timing ist extrem wichtig!** Maps mit falschem Timing können nicht gerankt werden. Du musst sicherstellen, dass dein Timing perfekt ist, bevor du das erste [Objekt](/wiki/Hit_object) platzierst.
 
 Wenn du dir mit dem Timing nicht sicher bist, kontaktiere für Hilfe zuerst einen Mod oder poste deine Beatmap in das ["Beatmap Help"-Forum](https://osu.ppy.sh/community/forums/10). Damit sparst du dir (und der Moddingcommunity) später eine Menge Ärger.
 
 ### Komponieren
 
-*Siehe auch: [Komponieren](/wiki/Compose)*
+*Siehe auch: [Komponieren](/wiki/Beatmap_Editor/Compose)*
 
 Im "Compose"-Tab des Beatmapeditors wirst du wahrscheinlich den Großteil deiner Zeit beim Beatmapping verbringen. Dort kannst du nämlich Hitobjekte platzieren und deren [Hitsounds](/wiki/Beatmapping/Hitsound) verändern.
 
 ### Design
 
-*Siehe auch: [Design](/wiki/Design) und [Storyboarding](/wiki/Storyboarding)*
+*Siehe auch: [Design](/wiki/Beatmap_Editor/Design) und [Storyboarding](/wiki/Storyboard#storyboarding)*
 
-Im "Design"-Tab des Beatmapeditors kannst du ein Hintergrundbild und -video zu deiner Beatmap hinzufügen. Außerdem kannst du ein grundlegendes Storyboard erstellen. Je nach deinem Ansatz zum Storyboarding verwendest du den "Design"-Tab häufig oder auch gar nicht (z.B. beim [SBS](/wiki/Storyoard_Scripting) ("Storyboard Scripting")).
+Im "Design"-Tab des Beatmapeditors kannst du ein Hintergrundbild und -video zu deiner Beatmap hinzufügen. Außerdem kannst du ein grundlegendes Storyboard erstellen. Je nach deinem Ansatz zum Storyboarding verwendest du den "Design"-Tab häufig oder auch gar nicht (z.B. beim [SBS](/wiki/Storyboard/Scripting) ("Storyboard Scripting")).

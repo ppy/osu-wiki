@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 70fd166193a632f68f3c3ec84d64c07a8dbfbd38
+---
+
 # トーナメント
 
 osu!トーナメント専用のセクションです。トーナメントには専用のフォーラムがあり、[このリンクから](https://osu.ppy.sh/community/forums/55)見ることができます。
@@ -510,12 +515,13 @@ osu! World Cupは、国別に行われる4対4のチーム対抗トーナメン�
 [GCrown]: /wiki/shared/crown-gold.png "1位"
 [SCrown]: /wiki/shared/crown-silver.png "2位"
 [BCrown]: /wiki/shared/crown-bronze.png "3位"
+
 [flag_AR]: /wiki/shared/flag/AR.gif "アルゼンチン"
 [flag_AU]: /wiki/shared/flag/AU.gif "オーストラリア"
 [flag_BR]: /wiki/shared/flag/BR.gif "ブラジル"
 [flag_CA]: /wiki/shared/flag/CA.gif "カナダ"
 [flag_CL]: /wiki/shared/flag/CL.gif "チリ"
-[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_CN]: /wiki/shared/flag/CN.gif "中華人民共和国"
 [flag_DE]: /wiki/shared/flag/DE.gif "ドイツ"
 [flag_DK]: /wiki/shared/flag/DK.gif "デンマーク"
 [flag_ES]: /wiki/shared/flag/ES.gif "スペイン"

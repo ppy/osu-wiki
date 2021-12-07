@@ -6,7 +6,7 @@ Below is a sorted list of guides created by members of the osu!community; most o
 
 *Main page: [Beatmapping](/wiki/Beatmapping)*
 
-- [Adding Custom Hitsounds](Adding_Custom_Hitsounds)
+- [Adding Custom Hitsounds](Using_custom_hitsounds)
 - [Audio Editing](Audio_Editing)
 - [Changing the Artist or Title](Changing_the_Artist_or_Title)
 - [Changing the Title Text](/wiki/Beatmap/Title_Text#changing-title-text)
@@ -15,11 +15,11 @@ Below is a sorted list of guides created by members of the osu!community; most o
 - [Custom Hitsound Library](Custom_Hitsound_Library)
 - [Custom Sample Overrides](Custom_Sample_Overrides)
 - [How to Time Songs](How_to_Time_Songs)
-- [Music Theory](Music_Theory)
+- [Music Theory](/wiki/Music_theory)
 - [osu!mania Mapping Guide](osu!mania_Mapping_Guide)
 - [Setting the Offset on the Correct Beat](Setting_the_Offset_on_the_Correct_Beat)
 - [Starting a Beatmap Project](Starting_a_Beatmap_Project)
-- [Videos From YouTube](Videos_From_Youtube)
+- [Videos From YouTube](Videos_From_YouTube)
 
 ## Modding
 
@@ -33,7 +33,6 @@ Below is a sorted list of guides created by members of the osu!community; most o
 - [How to Use the Offset Wizard](How_to_Use_the_Offset_Wizard)
 - [Searching and Downloading Beatmaps](Searching_and_Downloading_Beatmaps)
 - [Tablet Purchase](Tablet_Purchase)
-- [Tips and Tricks on Skill Improvement](Tips_and_Tricks_on_Skill_Improvement)
 
 ## Skinning
 
@@ -41,7 +40,7 @@ Below is a sorted list of guides created by members of the osu!community; most o
 
 - [Cropping with Complex Backgrounds](Cropping_with_Complex_Backgrounds)
 - [Cropping with Simple Backgrounds](Cropping_with_Simple_Backgrounds)
-- [Making Properly Centered Spinners](Making_Properly_Centered_Spinners)
+- [Making Properly Centred Spinners](Making_Properly_Centred_Spinners)
 
 ## Miscellaneous
 

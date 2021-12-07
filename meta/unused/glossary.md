@@ -12,7 +12,7 @@ A hidden sub-forum where the instructions to the moderators concerning it will: 
 
 ### Accuracy
 
-A [game metric](/wiki/Accuracy) to measure the player's rhythmical accuracy. Sometimes shortened to *Acc*.
+A [game metric](/wiki/Gameplay/Accuracy) to measure the player's rhythmical accuracy. Sometimes shortened to *Acc*.
 
 ### AFK
 
@@ -48,7 +48,7 @@ For more information about the timeline, see [Beat Snap Divisor](/wiki/Beatmap_E
 
 ### Beat Spacing
 
-A principle that applies to [osu!](/wiki/Game_mode/osu!). This states that the spacing of every [hit object](/wiki/Hit_Objects) (except for spinners) should be either closer, if closely placed on the timeline, or farther, if placed farther apart on the timeline.
+A principle that applies to [osu!](/wiki/Game_mode/osu!). This states that the spacing of every [hit object](/wiki/Hit_object) (except for spinners) should be either closer, if closely placed on the timeline, or farther, if placed farther apart on the timeline.
 
 ![Beat spacing basics and examples](img/Beatspacing.jpg "The fundamentals of beat spacing.")
 
@@ -85,7 +85,7 @@ A mapping term to describe when a slider covers the shape of another object. A g
 
 ### BN
 
-*Short for [Beatmap Nominator](/wiki/People/Beatmap_Nominators).*
+*Short for [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators).*
 
 Used to refer to the group itself or one of its members.
 
@@ -169,7 +169,7 @@ This feature was later disabled on 2013-03-05 due to performance concerns.
 
 ### Combo Milestone
 
-A set of numbers that will shoot stars and display a comboburst (if enabled in the [options](/wiki/options)) after obtaining one of these milestones.
+A set of numbers that will shoot stars and display a comboburst (if enabled in the [options](/wiki/Options)) after obtaining one of these milestones.
 
 The combo milestones for osu! and osu!catch are 30, 60, 100, and multiples of 50 after 100. For osu!taiko, the combo milestones are multiples of 50. For osu!mania, the combo milestones are multiples of 100.
 
@@ -358,7 +358,7 @@ Unranked beatmaps gain exposure by receiving `Hype` posts on their discussion th
 
 ### Ignore List
 
-A blacklist of words (or users) that the player does not want to be displayed in the [chat console](/wiki/chat_console).
+A blacklist of words (or users) that the player does not want to be displayed in the [chat console](/wiki/Chat_Console).
 
 ## J
 
@@ -380,7 +380,7 @@ This is different than a Geki(激) because the comboset was not done perfectly w
 
 ### Keys
 
-In [osu!mania](/wiki/osu!mania), the number of keys can determine the beatmap's difficulty. The more keys you have, the more the player has to focus for each key column.
+In [osu!mania](/wiki/Game_mode/osu!mania), the number of keys can determine the beatmap's difficulty. The more keys you have, the more the player has to focus for each key column.
 
 ### Kiai
 
@@ -471,7 +471,7 @@ A term used to describe [beatmaps](/wiki/Beatmap) that are clocking in five minu
 
 *Short for "Modding Assistance Team".*
 
-A group of users experienced in modding. MAT members were able to mark any beatmap they approve of with a bubble. This bubble would note that the beatmap as worthy of further consideration by the BAT. As of the 2013-04-23, all members of the MAT at that time were promoted as full members of the [BAT](/wiki/BAT), with the MAT team decommissioned.
+A group of users experienced in modding. MAT members were able to mark any beatmap they approve of with a bubble. This bubble would note that the beatmap as worthy of further consideration by the BAT. As of the 2013-04-23, all members of the MAT at that time were promoted as full members of the [BAT](/wiki/Modding/Beatmap_Appreciation_Team), with the MAT team decommissioned.
 
 ### Mod Request
 
@@ -481,7 +481,7 @@ Keep in mind that the beatmap or beatmap may be incomplete, so be a considerate 
 
 ### Modder
 
-A term given to a user that gives comments or suggestions on another [creator's](#creator) beatmaps in the forums. Doing so is called *[modding](/wiki/modding)*, and the posts are referred to as *mods*.
+A term given to a user that gives comments or suggestions on another [creator's](#creator) beatmaps in the forums. Doing so is called *[modding](/wiki/Modding)*, and the posts are referred to as *mods*.
 
 Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/community/forums/10) (including the [Modding Queues](https://osu.ppy.sh/community/forums/60)) and/or [Pending Beatmaps](https://osu.ppy.sh/community/forums/6).
 
@@ -503,7 +503,7 @@ NM has two meanings:
 
 ### Nuke
 
-Any [beatmap](/wiki/Beatmap) that is considered to be disregarding the rules (or the mapper disregarding the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct)) can be nuked. Nuked beatmaps are considered "closed" until significant changes are made and the status is manually removed by a member of the team.
+Any [beatmap](/wiki/Beatmap) that is considered to be disregarding the rules (or the mapper disregarding the [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)) can be nuked. Nuked beatmaps are considered "closed" until significant changes are made and the status is manually removed by a member of the team.
 
 Examples include but are not limited to:
 
@@ -583,7 +583,7 @@ There are two ways to avoid this:
    - If you feel that your map is too boring without adding a plethora of difficulty increasing techniques, then maybe your map does not need it.
    - Remember, mapsets do not require a Insane difficulty, so you will be just fine without one.
 
-This topic was discussed in an episode of [osu!talk](/wiki/osu!talk) ([osu!talk special Over Mapping](https://www.youtube.com/watch?v=RepSYE3hN3A)) that overmapping actually has a positive effect in [osu!taiko](/wiki/osu!taiko) beatmaps because the drums plays an important role in a song.
+This topic was discussed in an episode of [osu!talk](/wiki/osu!talk) ([osu!talk special Over Mapping](https://www.youtube.com/watch?v=RepSYE3hN3A)) that overmapping actually has a positive effect in [osu!taiko](/wiki/Game_mode/osu!taiko) beatmaps because the drums plays an important role in a song.
 
 ## P
 
@@ -605,7 +605,7 @@ The total duration of a beatmap. This includes the lead-in time and the break ti
 
 ### pp
 
-*Short for [Performance Points](/wiki/Performance_Points).*
+*Short for [Performance Points](/wiki/Performance_points).*
 
 The main ranking metric of the game.
 
@@ -627,7 +627,7 @@ Used to refer to the group itself or one of its members.
 
 ### Quality Assurance Team
 
-The group predating the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) that managed the Ranked beatmap category. They were responsible for handling beatmap disqualifications, managing the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and other miscellaneous work in the modding and mapping scene. On 6 May, 2019, the QAT was renamed and repurposed into the NAT.
+The group predating the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) that managed the Ranked beatmap category. They were responsible for handling beatmap disqualifications, managing the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and other miscellaneous work in the modding and mapping scene. On 6 May, 2019, the QAT was renamed and repurposed into the NAT.
 
 ## R
 
@@ -661,13 +661,13 @@ Usage of this is suggested after a [BPM](#bpm) change is made, if the beatmap al
 
 ### Resnap
 
-A pair of commands under the `Timing` header of the [editor](/wiki/beatmap_editor) screen. One of which applies to the entire [beatmap](/wiki/Beatmap) and the other to the current timing section (if the beatmap has only one timing section, both commands are the same).
+A pair of commands under the `Timing` header of the [editor](/wiki/Beatmap_Editor) screen. One of which applies to the entire [beatmap](/wiki/Beatmap) and the other to the current timing section (if the beatmap has only one timing section, both commands are the same).
 
 Usage is suggested when there has been a change in offset and/or BPM, after objects have been placed. This command will automatically reposition all objects on the timeline so that they fall on the closest beat division your snap divisor allows. If used, it is important, especially if a large change in BPM and/or offset has been made, to check every object and adjust its position on the [timeline](/wiki/Beatmap_Editor/Timelines) manually, where necessary.
 
 ### Restricted Mode
 
-A state automatically applied to accounts that are suspected of breaking the [Terms of Service](https://osu.ppy.sh/legal/terms). Submitted scores of gameplay will be hidden from the leaderboards.
+A state automatically applied to accounts that are suspected of breaking the [Terms of Service](/wiki/Legal/Terms). Submitted scores of gameplay will be hidden from the leaderboards.
 
 For more info, see [What is "restricted" mode, exactly?](/wiki/Help_Centre/Account#restriction).
 
@@ -700,7 +700,7 @@ However, there are other parts of a sample set that may include the slider tick 
 
 ### Silence
 
-An action taken against an user who spams the [chat console](/wiki/chat_console). Silences will stack on top of each other, adding more time for each one.
+An action taken against an user who spams the [chat console](/wiki/Chat_Console). Silences will stack on top of each other, adding more time for each one.
 
 Silences lasts for 4 weeks before being reset, along with the time that gets added.
 
@@ -784,7 +784,7 @@ You can see a beatmap's difficulty when testing it in the editor. The star ratin
 
 ### Storyboarder
 
-A storyboarder refers to the user who makes storyboards for their own or someone else's [beatmap](/wiki/Beatmap). They may have used the editor's design section to [storyboard](/wiki/Storyboards), used a third party application, or have done [storyboard scripting](/wiki/storyboard_scripting) (or SBS).
+A storyboarder refers to the user who makes storyboards for their own or someone else's [beatmap](/wiki/Beatmap). They may have used the editor's design section to [storyboard](/wiki/Storyboard), used a third party application, or have done [storyboard scripting](/wiki/storyboard_scripting) (or SBS).
 
 ### SV
 
@@ -804,7 +804,7 @@ A tablet consists of a flat surface on which one can point and/or drag using an 
 
 ### TAG
 
-A type of beatmap that is designed for more than one person to play at the same time in [multiplayer](/wiki/multiplayer) mode, using the Tag Coop/Tag Team Vs Team Mode.
+A type of beatmap that is designed for more than one person to play at the same time in [multiplayer](/wiki/Multi) mode, using the Tag Coop/Tag Team Vs Team Mode.
 
 Each player is responsible for one comboset, where each hit object in that comboset is mapped to be extremely farther apart, making it nearly impossible to play by a single player. Therefore it becomes a challenge for elite players in terms of precision of jumping.
 
@@ -823,7 +823,7 @@ In [osu!](/wiki/Game_mode/osu!), tapping is a term that means "to press a button
 
 ### Test Mode
 
-A feature of the [beatmap editor](/wiki/beatmap_editor). This allows you to test your beatmap without having to submit anything. However, you are required to save the beatmap before continuing to test mode; creating issues if you need to rollback on your recent changes.
+A feature of the [beatmap editor](/wiki/Beatmap_Editor). This allows you to test your beatmap without having to submit anything. However, you are required to save the beatmap before continuing to test mode; creating issues if you need to rollback on your recent changes.
 
 ### Time Signature
 

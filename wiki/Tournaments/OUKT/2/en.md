@@ -8,11 +8,9 @@ tags:
 
 # UK osu!standard tournament 2
 
-## Introduction
+The **UK osu!standard tournament 2** (***OUKT2***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the second iteration of the **osu! UK Tournament** (***OUKT***) series.
 
-The **UK osu!standard tournament 2** (***OUKT2***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 2nd iteration of the **osu! UK Tournament** (***OUKT***) series.
-
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -29,9 +27,9 @@ The **UK osu!standard tournament 2** (***OUKT2***) was a ![][flag_GB] United Kin
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter |
 
 ## Organisation
 
@@ -40,15 +38,15 @@ The OUKT2 was run by various community members
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
-| Map Selectors | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599), ![][flag_PL] [AmaiHachimitsu](https://osu.ppy.sh/users/844815) |
-| Referees | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) |
-| Streamers | ![][flag_GB] [Deathosaurus](https://osu.ppy.sh/users/1825822) |
+| Mappool selector | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599), ![][flag_PL] [AmaiHachimitsu](https://osu.ppy.sh/users/844815) |
+| Referee | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) |
+| Streamer | ![][flag_GB] [Deathosaurus](https://osu.ppy.sh/users/1825822) |
 
 ## Links
 
 - [Fourm thread](https://osu.ppy.sh/community/forums/topics/190049)
-- [Challonge page](https://challonge.com/osuukST "Challonge")
-- [Livestream](https://www.twitch.tv/deathosaurus777 "Twitch")
+- [Challonge page](https://challonge.com/osuukST)
+- [Livestream](https://www.twitch.tv/deathosaurus777)
 
 ## Participants
 
@@ -77,7 +75,7 @@ The OUKT2 was run by various community members
 
 **[Download the mappack here! (133 MB)](https://drive.google.com/open?id=1cl4gKpyoCieYGamW0-EkRBsl7nH1qGr5)**
 
-- Nomod
+- NoMod
   - [FOLiACETATE - Heterochromia Iridis (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/106443#osu/279607)
   - [M2U - Placebo Dying (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/60081#osu/179758)
   - [Igorrr - Unpleasant Sonata (Sieg) \[Insane\]](https://osu.ppy.sh/beatmapsets/90385#osu/245284)
@@ -105,7 +103,7 @@ The OUKT2 was run by various community members
 
 **[Download the mappack here! (169 MB)](https://drive.google.com/open?id=11GveI2eZEhggGcm-LEh3OCbEIImz3fRE)**
 
-- Nomod
+- NoMod
   - [naotyu- - Her Majesty (Reisen Udongein) \[Another\]](https://osu.ppy.sh/beatmapsets/52360#osu/160104)
   - [TJ.Hangneil - Kamui (7odoa) \[dksslqj Style\]](https://osu.ppy.sh/beatmapsets/39017#osu/140167)
   - [Leaf - I (Maddy) \[Another\]](https://osu.ppy.sh/beatmapsets/99244#osu/264261)
@@ -133,7 +131,7 @@ The OUKT2 was run by various community members
 
 **[Download the mappack here! (137 MB)](https://drive.google.com/open?id=12x_VzeQJqgpPiaKoL3AsMpdxhzd6sKPj)**
 
-- Nomod
+- NoMod
   - [IOSYS - RE:Usatei (OzzyOzrock) \[Extra\]](https://osu.ppy.sh/beatmapsets/31343#osu/103051)
   - [yukionnu - Kakushigoto (johnathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/122605#osu/315260)
   - [Eagle - S!ck (tsuka) \[Extra\]](https://osu.ppy.sh/beatmapsets/84014#osu/341285)
@@ -161,7 +159,7 @@ The OUKT2 was run by various community members
 
 **[Download the mappack here! (123 MB)](https://drive.google.com/open?id=1dSi1kXLKyL31_0k9RkUSfE16IPPq9GQ1)**
 
-- Nomod
+- NoMod
   - [M2U - Nightmare (Kloyd) \[MX\]](https://osu.ppy.sh/beatmapsets/88616#osu/241431)
   - [Dark PHOENiX - Last Remote - Type gamma (sjoy) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/123871#osu/320098)
   - [Jeff Williams - This Will Be the Day (feat. Casey Lee Williams) (ampzz) \[Insane\]](https://osu.ppy.sh/beatmapsets/117269#osu/302238)
@@ -187,7 +185,7 @@ The OUKT2 was run by various community members
 
 **[Download the mappack here! (167 MB)](https://drive.google.com/open?id=1oM-xSvenWv_yxa2OdUVV4alZn9KeWskh)**
 
-- Nomod
+- NoMod
   - [L.E.D Vs. Yuuhei Satellite - Torikago no Houou (10nya) \[Another\]](https://osu.ppy.sh/beatmapsets/121989#osu/312282)
   - [ETIA. - Enkan No Kotowari (Rein0527) \[Another\]](https://osu.ppy.sh/beatmapsets/39889#osu/126859)
   - [Memme - NEW Astronomas (Charles445) \[Extra\]](https://osu.ppy.sh/beatmapsets/87188#osu/238265)
@@ -212,7 +210,7 @@ The OUKT2 was run by various community members
 
 **[Download the mappack here! (124 MB)](https://drive.google.com/open?id=1IYeNRVsVFiPxat4aGrHIS9-JAxt-EJTT)**
 
-- Nomod
+- NoMod
   - [sakuzyo - Neurotoxin (Maddy) \[Another\]](https://osu.ppy.sh/beatmapsets/41842#osu/131966)
   - [Umetora - Ifuudoudou (Nymph) \[Insane\]](https://osu.ppy.sh/beatmapsets/84023#osu/231825)
   - [Tamura Yukari feat. motsu from m.o.v.e - You & Me (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/67093#osu/210078)
@@ -269,7 +267,7 @@ Saturday, 5 April 2014
 | **SoraRoxas** ![][flag_GB] | **5** | 1 | ![][flag_GB] PortalLife | |
 | **iLikeMudkipz** ![][flag_GB] | **5** | 2 | ![][flag_GB] Navi | |
 | **Doomsday** ![][flag_GB] | **5** | 1 | ![][flag_GB] Cozzy | |
-| Could This Be ![][flag_GB] | 0 | **1** | ![][flag_GB] **jesus1412** | Forfeit |
+| Could This Be ![][flag_GB] | 0 | **1** | ![][flag_GB] **jesus1412** | *forfeit* |
 
 ### Round of 16
 
@@ -277,10 +275,10 @@ Saturday, 29 March 2014
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| Behaviour ![][flag_GB] | 0 | **1** | ![][flag_GB] **SoraRoxas** | Forfeit |
+| Behaviour ![][flag_GB] | 0 | **1** | ![][flag_GB] **SoraRoxas** | *forfeit* |
 | Neroh ![][flag_GB] | 0 | **4** | ![][flag_GB] **PortalLife** | |
 | sullyjhf ![][flag_GB] | 0 | **4** | ![][flag_GB] **iLikeMudkipz** | |
-| **Navi** ![][flag_GB] | **3** | 0 | ![][flag_GB] Snookie | Forfeit (During match) |
+| **Navi** ![][flag_GB] | **3** | 0 | ![][flag_GB] Snookie | *forfeit (during match)* |
 | Viremon ![][flag_GB] | 0 | **4** | ![][flag_GB] **Doomsday** | |
 | Just Miku ![][flag_GB] | 2 | **4** | ![][flag_GB] **Cozzzy** | |
 | Kardet ![][flag_GB] | 1 | **4** | ![][flag_GB] **Could This Be** | |
@@ -292,16 +290,16 @@ Saturday, 22 March 2014
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Behaviour** ![][flag_GB] | **1** | 0 | ![][flag_GB] \[ Thanatos \] | Forfeit |
+| **Behaviour** ![][flag_GB] | **1** | 0 | ![][flag_GB] \[ Thanatos \] | *forfeit* |
 | **SoraRoxas** ![][flag_GB] | **3** | 0 | ![][flag_GB] Kozuka | |
 | **Neroh** ![][flag_GB] | **3** | 2 | ![][flag_GB] Syrus | |
 | **PortalLife** ![][flag_GB] | **3** | 0 | ![][flag_GB] Charleyzard | |
 | **sullyjhf** ![][flag_GB] | **3** | 2 | ![][flag_GB] Uphox | |
 | **iLikeMudkipz** ![][flag_GB] | **3** | 0 | ![][flag_GB] Blaziken | |
-| **Navi** ![][flag_GB] | **1** | 0 | ![][flag_GB] spaminabox | Forfeit |
+| **Navi** ![][flag_GB] | **1** | 0 | ![][flag_GB] spaminabox | *forfeit* |
 | **Snookie** ![][flag_GB] | **3** | 1 | ![][flag_GB] K E I | |
 | **Viremon** ![][flag_GB] | **3** | 1 | ![][flag_GB] Udon | |
-| Crai ![][flag_GB] | 0 | **1** | ![][flag_GB] **Doomsday** | Forfeit |
+| Crai ![][flag_GB] | 0 | **1** | ![][flag_GB] **Doomsday** | *forfeit* |
 | **Just Miku** ![][flag_GB] | **3** | 0 | ![][flag_GB] Fluttershy03 | |
 | Grimdeath ![][flag_GB] | 0 | **3** | ![][flag_GB] **Cozzzy** | |
 | **Kardet** ![][flag_GB] | **3** | 2 | ![][flag_GB] the holy beans | |
@@ -316,20 +314,20 @@ Saturday, 22 March 2014
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | regafu ![][flag_GB] | 0 | **3** | ![][flag_GB] **Behaviour** | |
-| **\[ Thanatos \]** ![][flag_GB] | **1** | 0 | ![][flag_GB] EatYourMattress | Forfeit |
+| **\[ Thanatos \]** ![][flag_GB] | **1** | 0 | ![][flag_GB] EatYourMattress | *forfeit* |
 | **SoraRoxas** ![][flag_GB] | **3** | 0 | ![][flag_GB] Juiceb0x | |
 | YunoWhoItIs ![][flag_GB] | 0 | **3** | ![][flag_GB] **Kozuka** | |
 | Riari ![][flag_GB] | 0 | **3** | ![][flag_GB] **Neroh** | |
 | SirCadams ![][flag_GB] | 1 | **3** | ![][flag_GB] **Syrus** | |
 | Swaayy ![][flag_GB] | 1 | **3** | ![][flag_GB] **PortalLife** | |
-| C3Swamp ![][flag_GB] | 0 | **1** | ![][flag_GB] **Charleyzard** | Forfeit |
+| C3Swamp ![][flag_GB] | 0 | **1** | ![][flag_GB] **Charleyzard** | *forfeit* |
 | **sullyjhf** ![][flag_GB] | **3** | 0 | ![][flag_GB] samc | |
 | **Uphox** ![][flag_GB] | **3** | 0 | ![][flag_GB] -kyou- | |
 | OmegaSin ![][flag_GB] | 0 | **3** | ![][flag_GB] **iLikeMudkipz** | |
-| **Blaziken** ![][flag_GB] | **1** | 0 | ![][flag_GB] Raiku | Forfeit |
+| **Blaziken** ![][flag_GB] | **1** | 0 | ![][flag_GB] Raiku | *forfeit* |
 | dreeeaam ![][flag_GB] | 0 | **3** | ![][flag_GB] **Navi** | |
 | **spaminabox** ![][flag_GB] | **3** | 1 | ![][flag_GB] Albert Donger | |
-| **Snookie** ![][flag_GB] | **1** | 0 | ![][flag_GB] Chunelle | Forfeit |
+| **Snookie** ![][flag_GB] | **1** | 0 | ![][flag_GB] Chunelle | *forfeit* |
 | **K E I** ![][flag_GB] | **3** | 1 | ![][flag_GB] -MoeYandere- | |
 | **Viremon** ![][flag_GB] | **3** | 1 | ![][flag_GB] Jeromelol | |
 | Kry ![][flag_GB] | 0 | **3** | ![][flag_GB] **Udon** | |
@@ -345,12 +343,12 @@ Saturday, 22 March 2014
 | Gaadrin ![][flag_GB] | 0 | **3** | ![][flag_GB] **Could This Be** | |
 | casmith789 ![][flag_GB] | 0 | **3** | ![][flag_GB] **litejason** | |
 | **vidya** ![][flag_GB] | **3** | 1 | ![][flag_GB] bahamete | |
-| EzLyn ![][flag_GB] | 0 | **1** | ![][flag_GB] **AshleyCarnine** | Forfeit |
+| EzLyn ![][flag_GB] | 0 | **1** | ![][flag_GB] **AshleyCarnine** | *forfeit* |
 | **jesus1412** ![][flag_GB] | **3** | 0 | ![][flag_GB] ChicagoTed7172 | |
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 - UK staff are allowed to play.
 - This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets have been determined through a random draw.
@@ -363,7 +361,7 @@ Saturday, 22 March 2014
 - RO64/RO32 will be best of 5. RO16 will be best of 7. Quarterfinals/Semifinals will be best of 9. Finals will be best of 11.
 - Any unexpected happenings or events not covered by the rules shall be handled by the organizer at their discretion.
 
-### Match Rules
+### Match rules
 
 - The referee shall make the game and give it a appropriate title. First pick shall be decided by `!roll`, the highest roll wins. The pick order then will alternate back and forth between both players until one player wins.
 - The game mode will be set to Team Vs.
@@ -373,7 +371,7 @@ Saturday, 22 March 2014
 - Matches will be locked and invite only.
 - If you fail, you lose that map.
 
-### Scheduling Rules/Info
+### Scheduling rules/info
 
 - Matches will be played on the weekend.
 - If you cannot play at the time posted for you, contact the organizer for a rearrangement.

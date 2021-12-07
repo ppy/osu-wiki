@@ -30,8 +30,8 @@ Le raisonnement derrière cela est que de nombreuses beatmaps du mode osu!mania 
 ## Le saviez-vous ?
 
 - Le mod Mirror a été ajouté en septembre 2019, en réponse à une [demande de fonctionnalité](https://osu.ppy.sh/community/forums/topics/956618) par l'utilisateur [Kamuy](https://osu.ppy.sh/users/7439226).
-  - Au moment où la demande de fonctionnalité a été postée, il existait déjà un mod de type miroir implémenté dans [osu!lazer](https://github.com/ppy/osu#osu "GitHub"), mais en raison de la nature du mod miroir, qui permet d'accroître l'accessibilité, il a été ajouté à la version stable d'osu! à ce moment-là.
+  - Au moment où la demande de fonctionnalité a été postée, il existait déjà un mod de type miroir implémenté dans [osu!lazer](https://github.com/ppy/osu#osu), mais en raison de la nature du mod miroir, qui permet d'accroître l'accessibilité, il a été ajouté à la version stable d'osu! à ce moment-là.
   - Le mod Mirror actuel avait en fait été demandé à plusieurs reprises, et des années avant la demande de fonctionnalité de Kamuy, mais le message de Kamuy a été le seul à susciter suffisamment d'attention pour que le mod soit effectivement ajouté.
-- Le mod Mirror est le seul modificateur de jeu de la catégorie "Spécial" qui n'affecte ni le nombre de [points de performance (pp)](/wiki/Performance_Points) ni le [score](/wiki/Score) qu'un joueur gagne, tout en restant classable.
+- Le mod Mirror est le seul modificateur de jeu de la catégorie "Spécial" qui n'affecte ni le nombre de [points de performance (pp)](/wiki/Performance_points) ni le [score](/wiki/Score) qu'un joueur gagne, tout en restant classable.
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

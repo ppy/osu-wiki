@@ -3,17 +3,19 @@ stub: true
 tags:
   - SR
   - bintang
+outdated: true
+outdated_since: dff3096e7c50f26bc922a1c6c3ebfb744725c292
 ---
 
 # Star rating
 
-**Star rating** (***SR***) menggambarkan tingkat kesulitan yang dimiliki pada sebuah [beatmap](/wiki/Beatmap), nilainya sudah dikalkulasi secara otomatis oleh klien osu!. Star rating memiliki peran besar dalam pemberian [performance points](/wiki/Performance_Points) ketika beatmap ranked telah selesai dimainkan. Nilai star rating ini bisa dilihat pada saat [memilih musik](/wiki/Interface#layar-pemilihan-lagu) yang akan dimainkan di klien dan di laman informasi beatmap.
+**Star rating** (***SR***) menggambarkan tingkat kesulitan yang dimiliki pada sebuah [beatmap](/wiki/Beatmap), nilainya sudah dikalkulasi secara otomatis oleh klien osu!. Star rating memiliki peran besar dalam pemberian [performance points](/wiki/Performance_points) ketika beatmap ranked telah selesai dimainkan. Nilai star rating ini bisa dilihat pada saat [memilih musik](/wiki/Interface#layar-pemilihan-lagu) yang akan dimainkan di klien dan di laman informasi beatmap.
 
 ## Kesulitan
 
 *Laman utama: [Tingkat Kesulitan](/wiki/Beatmap/Difficulty)*
 
-![Rentang star rating](/wiki/Beatmap/Difficulty/img/SR-range.png)
+![Rentang star rating](/wiki/shared/star-rating/spectrum.png)
 
 Di dalam situs web, beatmap diberikan sebuah ikon untuk menggambarkan tingkat kesulitannya, rentangnya adalah sebagai berikut:
 

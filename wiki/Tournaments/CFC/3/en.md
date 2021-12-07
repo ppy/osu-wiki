@@ -8,7 +8,7 @@ tags:
 
 ![CFC 3 logo](img/logo.png)
 
-The **Catch French Cup 3** (***CFC 3***) was a one-on-one French osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third installment of the Catch French Cup.
+The **Catch French Cup 3** (***CFC 3***) was a one-on-one French osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third instalment of the Catch French Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **Catch French Cup 3** (***CFC 3***) was a one-on-one French osu!catch tourn
 | --: | :-- |
 | Registration phase | 2018-08-15/2018-09-02 |
 | Live drawings | 2018-09-01 (19:00 UTC) |
-| Group Stage | 2018-09-08/2018-09-16 |
+| Group stage | 2018-09-08/2018-09-16 |
 | Round of 16 | 2018-09-22/2018-09-25 |
 | Quarterfinals | 2018-09-29/2018-09-30 |
 | Semifinals | 2018-10-06/2018-10-07 |
@@ -27,12 +27,12 @@ The **Catch French Cup 3** (***CFC 3***) was a one-on-one French osu!catch tourn
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 10 months of osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
-| *4th place* | 2 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 10 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
+| *4th place* | 2 months of osu!supporter |
 
-![CFC 3 winner badge](img/badge.jpg)
+![](img/badge.jpg "CFC 3 winner badge")
 
 ## Organisation
 
@@ -41,7 +41,7 @@ The Catch French Cup 3 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Map selector | ![][flag_FR] [Emiru](https://osu.ppy.sh/users/3306180) |
+| Mappool selector | ![][flag_FR] [Emiru](https://osu.ppy.sh/users/3306180) |
 | Referee | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_FR] [\[ Mimir \]](https://osu.ppy.sh/users/7382734) |
 | Streamer | ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Astreachan](https://osu.ppy.sh/users/2953898), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Commentator | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913), ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_FR] [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/138728) |
@@ -56,8 +56,6 @@ The Catch French Cup 3 was run by various community members.
 - [Challonge brackets](https://osucfc.challonge.com/CFC3)
 - [Livestream](https://www.twitch.tv/osufrlive)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrn8KpDeTO124_IgETpDPOBkI0WGVcvi0KEL0iyeJyxsXGE-3HaHRzIWHLk4llJ1_jEYcshD9ynRG-/pubhtml)**
-
----
 
 ## Participants
 
@@ -81,8 +79,6 @@ The Catch French Cup 3 was run by various community members.
 | **G** | ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381) | ![][flag_FR] [GyraFanBoy](https://osu.ppy.sh/users/8417565) | ![][flag_MA] [l3ssili](https://osu.ppy.sh/users/12123746) | ![][flag_BE] [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) |
 | **H** | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Mnemosyne](https://osu.ppy.sh/users/9255433) | ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141) | ![][flag_FR] [Astreachan](https://osu.ppy.sh/users/2953898) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -92,8 +88,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
-
----
 
 ## Mappools
 
@@ -232,7 +226,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Our Stolen Theory - United (L.A.O.S Remix) (Minato Yukina) \[Vanquisher\]](https://osu.ppy.sh/beatmapsets/527777#fruits/1119645)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (61 MB)](https://mega.nz/#!wpkQTI5S!Vv6YZ2uUaoQ_hcJ1Rc9is6J3xUqF-7zBfIF-Rbh-E1M)**
 
@@ -252,8 +246,6 @@ This competition has come to an end and resulted in the following podium:
   - [Memme - Force of Ra (Deif) \[Salad\]](https://osu.ppy.sh/beatmapsets/573479#fruits/1214852)
 - Tiebreaker
   - **[CLIFF EDGE - Sayonara I Love You feat. jyA-Me (Minato Yukina) \[Farewell Words\]](https://osu.ppy.sh/beatmapsets/493754#fruits/1051483)**
-
----
 
 ## Match results
 
@@ -342,7 +334,7 @@ Tuesday, 25 September 2018:
 | --: | :-: | :-: | :-- | :-- |
 | **dracoV** ![][flag_FR] | **4** | 0 | ![][flag_FR] Libegon | *win by default* |
 
-### Group Stage
+### Group stage
 
 Saturday, 8 September 2018:
 
@@ -407,7 +399,7 @@ Saturday, 15 September 2018:
 | F | **dracoV** ![][flag_FR] | **3** | 1 | ![][flag_FR] Iyorin | [#1](https://osu.ppy.sh/community/matches/45974609) |
 | F | **Iyorin** ![][flag_FR] | **3** | 0 | ![][flag_FR] tutiflo | *win by default* |
 | A | Chernobog ![][flag_FR] | 1 | **3** | ![][flag_FR] **SkaylleexSamaFR** | [#1](https://osu.ppy.sh/community/matches/45977124) |
-| G | GyraFanBoy ![][flag_FR] | 0 | 0 | ![][flag_MA] l3ssili | -nullified- |
+| G | GyraFanBoy ![][flag_FR] | 0 | 0 | ![][flag_MA] l3ssili | *nullified* |
 | G | -\[Smoked\]- ![][flag_FR] | 0 | **3** | ![][flag_FR] **Libegon** | [#1](https://osu.ppy.sh/community/matches/45978410) |
 | G | **Libegon** ![][flag_FR] | **3** | 0 | ![][flag_FR] GyraFanBoy | *win by default* |
 | G | l3ssili ![][flag_MA] | 0 | **3** | ![][flag_FR] -\[Smoked\]- | *win by default* |
@@ -421,8 +413,6 @@ Sunday, 16 September 2018:
 | H | Mnemosyne ![][flag_FR] | 0 | **3** | ![][flag_FR] **Aequo3** | *win by default* |
 | H | Aequo3 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Astreachan** | [#1](https://osu.ppy.sh/community/matches/46011327) |
 | H | Astreachan ![][flag_FR] | 2 | **3** | ![][flag_FR] **Mnemosyne** | [#1](https://osu.ppy.sh/community/matches/46012156) |
-
----
 
 ## Ruleset
 
@@ -444,10 +434,10 @@ Sunday, 16 September 2018:
    - Tiebreaker is not forced mod but you may choose a mod.
    - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, HardRock and Hidden.
 
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_MA]: /wiki/shared/flag/MA.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_MA]: /wiki/shared/flag/MA.gif "Morocco"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"

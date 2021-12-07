@@ -6,15 +6,13 @@ tags:
   - mod
   - game modifier
   - modificateur de jeu
-outdated: true
-outdated_since: 6b8516026e4a60ca416f3f5569887e4d548cce5e
 ---
 
 # Le mod Easy
 
 ![Icône du mod EZ](/wiki/shared/mods/EZ.png "Icône du mod Easy (EZ)")
 
-*Pour d'autres utilisations, voir [Easy (désambiguïsation)](/wiki/Disambiguïsation/Easy).*
+*Pour d'autres utilisations, voir [Easy (désambiguïsation)](/wiki/Disambiguation/Easy).*
 
 *Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*.
 
@@ -41,11 +39,11 @@ Cet événement de recharge sera signalé au joueur par le son "ready" (`readyso
 
 ### osu!
 
-Dans le mode [osu!](wiki/Game_Modes/osu!), le mod Easy diminue le [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), l'[approach rate (AR)](/wiki/Beatmapping/Approach_rate), l'[overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), et l'[HP drain (HP)](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) de moitié.
+Dans le mode [osu!](/wiki/Game_mode/osu!), le mod Easy diminue le [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), l'[approach rate (AR)](/wiki/Beatmapping/Approach_rate), l'[overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), et l'[HP drain (HP)](/wiki/Beatmap_Editor/Song_Setup#taux-de-drain-de-santé) de moitié.
 
 ![Gameplay du mod Easy dans osu!](img/EZ-comparison-osu.jpg "Comparaison entre un jeu normal (gauche) et un jeu avec le mod Easy activé (droite) dans osu!")
 
-Cependant, il convient de mentionner que de nombreux joueurs ne trouvent pas l'utilisation du mod Easy utile pour diminuer la difficulté relative des beatmaps, en particulier celles de fortes intensités. L'argument avancé est que la diminution du taux d'approche crée une situation désordonnée, difficile à lire, où la vitesse réelle de la beatmap n'est pas très bien reflétée visuellement (voir ci-dessous).
+Cependant, il convient de mentionner que de nombreux joueurs ne trouvent pas l'utilisation du mod Easy utile pour diminuer la difficulté relative des beatmaps, en particulier celles de fortes intensités. L'argument avancé est que la diminution du taux d'approche crée une situation désordonnée, difficile à lire, où la vitesse réelle de la beatmap n'est pas très bien reflétée visuellement (voir ci-dessus).
 
 *Remarque : les points mentionnés ci-dessus sont développés dans la demande de fonctionnalité "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)" pour améliorer le mod.*
 
@@ -71,7 +69,7 @@ Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), les effets sont les mêmes 
 
 ## Le saviez-vous ?
 
-- Lorsque vous regardez un replay où une vie supplémentaire est utilisée, l'animation de recharge de la santé sera ignorée et le replay continuera comme si le joueur jouait avec le mod [No Fail](/wiki/Game_modifier/No_fail) activé.
+- Lorsque vous regardez un replay où une vie supplémentaire est utilisée, l'animation de recharge de la santé sera ignorée et le replay continuera comme si le joueur jouait avec le mod [No Fail](/wiki/Game_modifier/No_Fail) activé.
 - En mod [Multi](/wiki/Multi), l'effet des "vies" ne fonctionnera pas en mod [Tag Co-op ou Tag Team Vs.](/wiki/Multi#tag-coop-tag-team-vs)
 - Le mod Easy annule le mod [Hard Rock](/wiki/Game_modifier/Hard_Rock), et vice-versa.
 

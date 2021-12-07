@@ -12,11 +12,11 @@ tags:
 
 ![Layar pemilihan mod](img/mod-selection-screen-ID.jpg)
 
-**Game modifier** (disingkat menjadi "mod") adalah sebuah modifikasi opsional terhadap elemen dan kesulitan dari sebuah [beatmap](/wiki/Beatmaps) dimana pemain dapat mengaktifkannya melalui `Layar Pemilihan Mod` (diatas). Mod dapat membuat beatmap menjadi lebih mudah, lebih sulit, atau hanya untuk kesenangan biasa.
+**Game modifier** (disingkat menjadi "mod") adalah sebuah modifikasi opsional terhadap elemen dan kesulitan dari sebuah [beatmap](/wiki/Beatmap) dimana pemain dapat mengaktifkannya melalui `Layar Pemilihan Mod` (diatas). Mod dapat membuat beatmap menjadi lebih mudah, lebih sulit, atau hanya untuk kesenangan biasa.
 
 Pemain dapat mengakses `Layar Pemilihan Mod` pada layar pemilihan lagu dengan mengklik tombol `Mods` di pojok kiri bawah layar atau dengan menekan `F1`. Setelah memasuki `Layar Pemilihan Mod`, Shortcut untuk memilih mod tertentu juga tersedia. Shortcut tersebut dapat diubah melalui pengaturan.
 
-Mod dibagi menjadi tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, dan `Spesial`, dan mereka juga dapat mengurangi, menambah, atau menghapus [`Pengali Skor`](/wiki/Score_multiplier). Ketika dua mod digunakan secara bersamaan, pengali skor tersebut akan dikalikan bersama (misalnya, `1.06x * 1.12x = 1.1872x`).
+Mod dibagi menjadi tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, dan `Spesial`, dan mereka juga dapat mengurangi, menambah, atau menghapus [`Pengali Skor`](/wiki/Game_modifier/Score_multiplier). Ketika dua mod digunakan secara bersamaan, pengali skor tersebut akan dikalikan bersama (misalnya, `1.06x * 1.12x = 1.1872x`).
 
 ## Daftar mod
 
@@ -53,13 +53,13 @@ Setiap mod yang berada di bawah, mempunyai ikon dari mode permainan yang sesuai 
 - [Auto (AT)](/wiki/Game_modifier/Auto) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
   - [Cinema (CM)](/wiki/Game_modifier/Cinema) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [ScoreV2 (SV2)](/wiki/Game_modifier/ScoreV2) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Target Practice (TP)](/wiki/Game_modifier/Target_Practice) ![][osu!] **Cutting Edge only**
+- [Target Practice (TP)](/wiki/Game_modifier/Target_Practice) ![][osu!] **Cutting Edge (Experimental) only**
 
 ### Lain-lain
 
 *Catatan: Mod ini digunakan dan tersedia beberapa waktu lalu, tetapi sekarang sudah tidak tersedia.*
 
-- [10K](/wiki/Game_modifier/10k) ![][osu!mania]
+- [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 

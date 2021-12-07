@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 70fd166193a632f68f3c3ec84d64c07a8dbfbd38
+---
+
 # ทัวร์นาเมนต์
 
 ส่วนนี้มีไว้สำหรับทัวร์นาเมนต์ osu! โดยทัวร์นาเมนต์มีฟอรั่มของตัวเองซึ่งสามารถหาได้ที่[ลิ้งก์นี้](https://osu.ppy.sh/community/forums/55)
@@ -232,7 +237,7 @@ osu! World Cup นั้นจะแบ่งทีมเป็นประเ�
 
 | ชื่อ | เริ่มต้น | จบ | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Non-Professional Cup 2](NPC/2) | 2020-05-30 | 2020-07-12  | WeHatePP | Alek & Friends | OSBT Sqaud |
+| [Non-Professional Cup 2](NPC/2) | 2020-05-30 | 2020-07-12 | WeHatePP | Alek & Friends | OSBT Sqaud |
 
 ### ![](/wiki/shared/mode/osu.png) Indonesian Draft Cup
 
@@ -456,6 +461,7 @@ osu! World Cup นั้นจะแบ่งทีมเป็นประเ�
 [GCrown]: /wiki/shared/crown-gold.png "อันดับที่ 1"
 [SCrown]: /wiki/shared/crown-silver.png "อันดับที่ 2"
 [BCrown]: /wiki/shared/crown-bronze.png "อันดับที่ 3"
+
 [flag_AR]: /wiki/shared/flag/AR.gif "อาร์เจนตินา"
 [flag_AU]: /wiki/shared/flag/AU.gif "ออสเตรเลีย"
 [flag_BR]: /wiki/shared/flag/BR.gif "บราซิล"

@@ -7,7 +7,7 @@ tags:
 
 ![FL4T logo](img/logo.jpg)
 
-The **osu!mania Flashlight 4K Tournament** (***FL4T***) was a 1v1 osu!mania 4-key tournament hosted by ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) and ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895). All beatmaps in the tournament was played under Flashlight mod only. It was the first installment of the osu!mania Flashlight 4K Tournament.
+The **osu!mania Flashlight 4K Tournament** (***FL4T***) was a 1v1 osu!mania 4-key tournament hosted by ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) and ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895). All beatmaps in the tournament was played under Flashlight mod only. It was the first instalment of the osu!mania Flashlight 4K Tournament.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!mania Flashlight 4K Tournament** (***FL4T***) was a 1v1 osu!mania 4-ke
 | Registration phase | 2021-01-02/2021-01-15 |
 | Live drawings | 2021-01-31 (12:00 UTC) |
 | Qualifiers | 2021-02-06/2021-02-07 |
-| Group Stage | 2021-02-13/2021-02-14 |
+| Group stage | 2021-02-13/2021-02-14 |
 | Round of 16 | 2021-02-20/2021-02-21 |
 | Quarterfinals | 2021-02-23/2021-02-28 |
 | Semifinals | 2021-03-03/2021-03-07 |
@@ -37,7 +37,7 @@ The osu!mania Flashlight 4K Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Organizer | ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Mappool selector | ![][flag_PH] [Arccat](https://osu.ppy.sh/users/4848294), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Referee | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_US] [\[GS\]Rose](https://osu.ppy.sh/users/9481266), ![][flag_PH] [Arccat](https://osu.ppy.sh/users/4848294), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PH] [-Hanamaru-](https://osu.ppy.sh/users/11348518), ![][flag_SE] [Logg45vs](https://osu.ppy.sh/users/8684540), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_AU] [shnacc](https://osu.ppy.sh/users/11373924), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552) |
 | Streamer | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_SE] [Logg45vs](https://osu.ppy.sh/users/8684540), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_PH] [ToshiroKen](https://osu.ppy.sh/users/9550257) |
@@ -49,11 +49,11 @@ The osu!mania Flashlight 4K Tournament was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1215742)
-- [FL4T Discord server](https://discord.gg/3py8gHy "Discord")
-- [Livestream](https://www.twitch.tv/osu_FL4T "Twitch")
-- [Challonge bracket](https://challonge.com/osu_FL4T1 "Challonge")
-- [Livestream VOD archive](https://www.youtube.com/channel/UC-3KbBtjS9ymQ46ZW1lHxIQ "Youtube Channel")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1zQxF9a__kh1Bbz7og-5kiqriPCGkjVwlFmt4e2s82Gc/edit?usp=sharing "Google Docs")**
+- [FL4T Discord server](https://discord.gg/3py8gHy)
+- [Livestream](https://www.twitch.tv/osu_FL4T)
+- [Challonge bracket](https://challonge.com/osu_FL4T1)
+- [Livestream VOD archive](https://www.youtube.com/channel/UC-3KbBtjS9ymQ46ZW1lHxIQ)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1zQxF9a__kh1Bbz7og-5kiqriPCGkjVwlFmt4e2s82Gc/edit?usp=sharing)**
 
 ## Participants
 
@@ -64,7 +64,7 @@ The osu!mania Flashlight 4K Tournament was run by various community members.
 | Low | ![][flag_GB] [Vygatron](https://osu.ppy.sh/users/3628783), ![][flag_BR] [Crymeno](https://osu.ppy.sh/users/6165105), ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_PH] [bananacake304](https://osu.ppy.sh/users/3741704), ![][flag_TH] [Zytosy](https://osu.ppy.sh/users/3290734), ![][flag_FR] [Babibelbleu](https://osu.ppy.sh/users/16892459), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_FR] [CharlisMadCut](https://osu.ppy.sh/users/2863607) |
 | Bottom | ![][flag_ID] [Fr05tyGD](https://osu.ppy.sh/users/14230684), ![][flag_BR] [Lenn](https://osu.ppy.sh/users/11236829), ![][flag_PH] [Tensai422](https://osu.ppy.sh/users/12688477), ![][flag_PH] [Ramskie](https://osu.ppy.sh/users/4642516), ![][flag_TH] [IjustLuvBanana](https://osu.ppy.sh/users/16011592), ![][flag_US] [Dilly\_P](https://osu.ppy.sh/users/12907431) |
 
-### Groups
+## Groups
 
 | Group | Top seed | High seed | Low seed | Bottom seed |
 | :-: | :-- | :-- | :-- | :-- |
@@ -199,7 +199,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - Furry Cannon (Curiossity) \[INSVTIABLE HUNGER\]](https://osu.ppy.sh/beatmapsets/677321#mania/1600143)**
 
-### Group Stage
+### Group stage
 
 - Rice
   - [toby fox - Heartache (Mipha-) \[Hard\]](https://osu.ppy.sh/beatmapsets/1277549#mania/2694968)
@@ -326,7 +326,7 @@ Sunday, 21 February 2021:
 | **zero2snow** ![][flag_HK] | **5** | 0 | ![][flag_ID] Fr05tyGD | [#1](https://osu.ppy.sh/community/matches/76307387) |
 | **WLYMinato** ![][flag_CN] | **5** | 1 | ![][flag_ID] Dellia | [#1](https://osu.ppy.sh/community/matches/76322962) |
 
-### Group Stage
+### Group stage
 
 Saturday, 13 February 2021:
 
@@ -433,7 +433,7 @@ Sunday, 14 February 2021:
 4. Each participant will get 2 attempts at each map, only the best attempt for each map will count.
 5. Each map will have its own leaderboard, and each participant's overall seed will be determined by the average of these ranks. The highest 32 seeds will proceed to the Group Stage.
 
-### Group Stage
+### Group stage
 
 1. There will be 6 groups of 4 and 2 groups of 3.
    - The groups of 3 will not have bottom seeds.
@@ -452,7 +452,7 @@ Sunday, 14 February 2021:
 1. The match lobby will be created and invites sent to participants 5-10 minutes prior to the match start time.
 2. If a participant is more than 10 minutes late to the lobby, the participant inside the lobby will be declared the winner. If neither participant appears, the participant with the higher seed will be considered the winner.
 3. Each participant will be allowed to select 1 map as a warmup. Warmups must be uploaded to the osu! servers and **cannot exceed 4 minutes** in length.
-4. Participants can choose to ban 1 map from the mappool (excluding the tiebreaker). The pick/ban order is determined by the !roll command. The participant with the lower roll bans first and the other one with the higher roll picks first.
+4. Participants can choose to ban 1 map from the mappool (excluding the tiebreaker). The pick/ban order is determined by the `!roll` command. The participant with the lower roll bans first and the other one with the higher roll picks first.
 5. If both participants are tied on match point (e.g. 3-3 score in a Best-of-7), both participants will play the Tiebreaker bracket to determine the winner.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

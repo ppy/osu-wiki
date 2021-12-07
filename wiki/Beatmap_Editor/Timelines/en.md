@@ -23,8 +23,8 @@ The timeline itself uses a few tick marks that have various meanings.
 | White (long) | Current timestamp |
 | Yellow (long tick) | Preview point |
 | Yellow (up tick) | Start of drain time |
-| Green (up tick) | Inherited points (See [Timing](/wiki/Timing)) |
-| Red (up tick) | Timing points (See [Timing](/wiki/Timing)) |
+| Green (up tick) | Inherited points (See [Timing](/wiki/Beatmap_Editor/Timing)) |
+| Red (up tick) | Timing points (See [Timing](/wiki/Beatmap_Editor/Timing)) |
 | Blue (down tick) | Bookmarks |
 | Grey (highlight) | Break time |
 | Orange (highlight) | Kiai time |
@@ -39,7 +39,7 @@ There are two different kinds of hit objects timelines depending on which game m
 
 ![Hit Objects Timeline in osu!, osu!taiko, and osu!catch](/wiki/shared/BE_NTL.jpg "This shows the timeline for hit objects with respect to the beat snap divisor and timestamp.")
 
-In [compose](/wiki/Compose) mode, this timeline is underneath the `Compose` tab for any game mode except for [osu!mania](/wiki/Game_mode/osu!mania).
+In [compose](/wiki/Beatmap_Editor/Compose) mode, this timeline is underneath the `Compose` tab for any game mode except for [osu!mania](/wiki/Game_mode/osu!mania).
 
 | Name | Description |
 | :-- | :-- |
@@ -75,7 +75,7 @@ In the centre is the actual playfield. The playfield is made up of two parts: li
 
 ![Storyboard Timeline](/wiki/shared/SE_STM.jpg "This shows the timeline for transformations of the selected sprite.")
 
-The [design](/wiki/Design) timeline is located underneath the `Design` tab.
+The [design](/wiki/Beatmap_Editor/Design) timeline is located underneath the `Design` tab.
 
 ### Timeline
 
@@ -101,7 +101,7 @@ If there is a transformation, that transformation is lighted with it's colour. I
 
 ![Timing Timeline](img/TT.jpg "Timing Timeline")
 
-The timing timeline is located underneath the [`Timing`](/wiki/Timing) tab.
+The timing timeline is located underneath the [`Timing`](/wiki/Beatmap_Editor/Timing) tab.
 
 ### Timing Timeline
 

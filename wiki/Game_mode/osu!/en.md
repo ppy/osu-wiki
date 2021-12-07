@@ -10,7 +10,7 @@ The first game mode and namesake which was based from the ouendan series.
 
 ## What is "Ouendan"?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* is a rhythm game for the *Nintendo DS*. The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast. All these elements are timed to (covers of) popular Japanese songs. It looks like this on the *DS*:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* is a rhythm game for the *Nintendo DS*. The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast. All these elements are timed to (covers of) popular Japanese songs. It looks like this on the *DS*:
 
 ![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
 
@@ -82,7 +82,7 @@ On the *DS*, this is a good way to scratch the touchscreen (or screen protector)
 
 ## Play Styles
 
-*Refer to [Play Styles page under osu!](/wiki/Play_Styles).*
+*Refer to [Play Styles page under osu!](/wiki/Play_style).*
 
 ## Controls
 
@@ -94,13 +94,13 @@ The default controls for osu! are:
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
 
-If [Relax](/wiki/Game_modifier/Relax) game modifer was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
+If [Relax](/wiki/Game_modifier/Relax) game modifier was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
 
 If [Auto Pilot](/wiki/Game_modifier/Autopilot) game modifier was used, only the input from the input device will work. Time the tap on the hit objects with automated cursor movement. Spinners will follow the [Spun Out](/wiki/Game_modifier/Spun_Out) mod speed.
 
 ## Scoring
 
-*Scoring Values can be found in [Score under osu! Scoring Values section](/wiki/Score#osu).*
+*Scoring values can be found in [osu! scoring system](/wiki/Score/osu!).*
 
 Scoring section details all the intricacies of scoring, including mathematical formula.
 
@@ -266,20 +266,17 @@ The system used to calculate health drain and health gain is complicated so it w
 - Changing spin direction in the middle of a spin will cause the spinner to slow down (spins per minute will go down to 0 to reset the spin orientation), then spin in the correct direction. The spin progress will not be lost during the reorientation (it will not increase instead), and will continue to increase on reverse spin.
 - Not spinning around the centre core of the spinner will **not** be considered as a valid spin.
 - Smoke last longer than default in-game cursor trail. Apply smoke effects sparsely to prevent old smoke effects disappearing too quickly.
-- Mascot for osu! is [pippi](/wiki/Mascots#-pippi).
+- Mascot for osu! is [pippi](/wiki/Mascots#pippi).
 - When played by [Auto](/wiki/Game_modifier/Auto), the player name will be osu!.
 
 ### History
 
-![Combo Fire](/wiki/shared/combo-fire.jpg "Combo Fire")
-
-- Older version of osu! used to emulate some of the elements from the *ouendan* series before being removed or replaced.
-  - Combo fire when hitting new combo milestones.
-    - Removed on 05 March 2013 (2013-03-05), due to performance issues.
-  - The first version of default skin using v1 skin behaviour, which was *osu!default by peppy* skin, provides an almost identical copy of the *ouendan* interface.
+- Older version of osu! used to emulate some of the elements from the *Ouendan* series before being removed or replaced:
+  - [Combo fire](/wiki/Glossary/Combo_fire) when hitting new combo milestones.
+  - The first version of default skin using v1 skin behaviour, which was *osu!default by peppy* skin, provides an almost identical copy of the *Ouendan* interface.
     - It was replaced by nicer current default skin using v2 skin behaviour.
   - The most notable feature difference between v1 and v2 skin behaviour is the spinner.
-    - The v1 skin behaviour for a spinner would increment the spinner meter from bottom to top in levels until it is full as per *ouendan* series.
+    - The v1 skin behaviour for a spinner would increment the spinner meter from bottom to top in levels until it is full as per *Ouendan* series.
       - The timer is a circle inside the spinner which will converge to the centre core of the spinner. The spinner ends when the timer circle reached the centre core of the spinner.
     - The v2 skin behaviour for a spinner would slowly expand the spinner circle to full size and glows when it is completed.
       - The timer is the outer circle of the spinner which changes colour. The spinner ends when the timer circle colour changed completely.
@@ -288,4 +285,4 @@ The system used to calculate health drain and health gain is complicated so it w
   - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 ) , or `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16), or `Brandy - Love Fighter`.
 - Notably, the older folders have their own naming convention (the folder names can only be found in *ancient* beatmap packs) and does not strictly follow the current enforced `{BeatmapSetID} {ArtistName} - {BeatmapName}` format.
-  - Downloading directly from the osu!website beatmaplist does follow the current enforced naming format regardless.
+  - Downloading directly from the osu!website beatmap list does follow the current enforced naming format regardless.

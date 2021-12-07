@@ -8,7 +8,7 @@ tags:
 
 ![oSEAT4 logo](img/logo.jpg)
 
-The **osu! South East Asia Tournament 4** (***oSEAT4***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_SG] [phox](https://osu.ppy.sh/users/772295). The tournament was open to all players from all ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Phillipines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, and ![][flag_VN] Vietnam) regardless of rank. It was the 4th installment of the osu! South East Asia Tournament.
+The **osu! South East Asia Tournament 4** (***oSEAT4***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_SG] [phox](https://osu.ppy.sh/users/772295). The tournament was open to all players from all ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Phillipines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, and ![][flag_VN] Vietnam) regardless of rank. It was the 4th instalment of the osu! South East Asia Tournament.
 
 ## Tournament schedule
 
@@ -17,8 +17,8 @@ The **osu! South East Asia Tournament 4** (***oSEAT4***) was a double-eliminatio
 | Registration phase | 2020-11-07/2020-11-22 |
 | Screening phase | 2020-11-23/2020-11-29 |
 | Qualifiers | 2020-11-30/2020-12-06 |
-| Group Stage week 1 | 2020-12-07/2020-12-13 |
-| Group Stage week 2 | 2020-12-14/2020-12-20 |
+| Group stage week 1 | 2020-12-07/2020-12-13 |
+| Group stage week 2 | 2020-12-14/2020-12-20 |
 | Round of 32 | 2020-12-21/2020-12-27 |
 | Round of 16 | 2020-12-28/2021-01-03 |
 | Quarterfinals | 2021-01-04/2021-01-10 |
@@ -30,15 +30,15 @@ The **osu! South East Asia Tournament 4** (***oSEAT4***) was a double-eliminatio
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 12 months of osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
-| *4th place* | 2 months of osu!supporter tag |
-| *5th place* | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 12 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
+| *4th place* | 2 months of osu!supporter |
+| *5th place* | 1 month of osu!supporter |
 
 ![](img/badge.png "oSEAT4 winner badge")
 
-## Organization
+## Organisation
 
 oSEAT4 was run by various osu! community members predominantly hailing from South East Asian countries.
 
@@ -61,16 +61,6 @@ oSEAT4 was run by various osu! community members predominantly hailing from Sout
 - [Discord server](https://discord.gg/sVHndPU)
 - [Livestream channel](https://www.twitch.tv/oseatournament)
 - [Challonge bracket](https://challonge.com/SEAT4)
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_SG] **[megumic](https://osu.ppy.sh/users/7537133)** |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** |
 
 ## Participants
 
@@ -100,6 +90,16 @@ Listed below are players who qualified into the Group Stage (along with their re
 ² ![][flag_ID] *[cfood](https://osu.ppy.sh/users/8626190) initially qualified for this Group Stage berth, but they decided to forfeit from the tournament during the running of the Group Stage. Under the discretion of staff members and all other affected players, ![][flag_PH] [Revillica](https://osu.ppy.sh/users/9806095) was later admitted to the Group Stage in their spot.*
 
 ³ *Despite having the ![][flag_US] United States flag displayed on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid ![][flag_PH] [Phillipine passport](https://en.wikipedia.org/wiki/Philippine_passport).*
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) |
 
 ## Mappools
 
@@ -271,7 +271,7 @@ Listed below are players who qualified into the Group Stage (along with their re
   - [PUP - Anaphylaxis (Hobbes2) \[Extra\]](https://osu.ppy.sh/beatmapsets/1169856#osu/2464094)
   - [Denkishiki Karen Ongaku Shuudan - Never Forget (LMT) \[Loss of a Loved One\]](https://osu.ppy.sh/beatmapsets/1187196#osu/2474203)  
 
-### Group Stage week 2
+### Group stage week 2
 
 **[Download the mappack here! (112 MB)](https://drive.google.com/uc?export=download&id=14PCz90yD5v4mtKWSiCmzgQpfiMJVIA_c)**
 
@@ -294,7 +294,7 @@ Listed below are players who qualified into the Group Stage (along with their re
   - [M2U - A Bella! (feat. Lucy) (Okoratu) \[Battle's Extra\]](https://osu.ppy.sh/beatmapsets/1158767#osu/2418106)
   - [M2U - Memory of Beach (milr\_) \[Mx\]](https://osu.ppy.sh/beatmapsets/1120861#osu/2342057)
 
-### Group Stage week 1
+### Group stage week 1
 
 **[Download the mappack here! (136 MB)](https://drive.google.com/uc?export=download&id=1AgtwrukjKoTm4uyX8Exxv7xJ4YTluhB0)**
 
@@ -459,7 +459,7 @@ Saturday, 2 January 2021:
 | Lower | **[Rampax](https://osu.ppy.sh/users/3995630)** ![][flag_MY] | **6** | 1 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/72652819) |
 | Lower | **[KagenoKami](https://osu.ppy.sh/users/7246165)** ![][flag_PH] | **6** | 1 | ![][flag_VN] [sindes19](https://osu.ppy.sh/users/11021073) | [#1](https://osu.ppy.sh/community/matches/72653176) |
 | Lower | **[Vinno](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **6** | 3 | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | [#1](https://osu.ppy.sh/community/matches/72639281) |
-| Lower | **[Rammu](https://osu.ppy.sh/users/10652837)** ![][flag_PH] | **6** | 0 | ![][flag_SG] [Walfrid](https://osu.ppy.sh/users/6600809) | *win by default* | 
+| Lower | **[Rammu](https://osu.ppy.sh/users/10652837)** ![][flag_PH] | **6** | 0 | ![][flag_SG] [Walfrid](https://osu.ppy.sh/users/6600809) | *win by default* |
 | Lower | [Demonical](https://osu.ppy.sh/users/10717635) ![][flag_SG] | 0 | **6** | ![][flag_PH] **[Senjuro](https://osu.ppy.sh/users/3003839)** | *win by default* |
 | Lower | **[zonelouise](https://osu.ppy.sh/users/1492995)** ![][flag_PH] | **6** | 0 | ![][flag_SG] [Milk Tee](https://osu.ppy.sh/users/6708955) | *win by default* |
 
@@ -544,7 +544,7 @@ Wednesday, 30 December 2020:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | [Demonical](https://osu.ppy.sh/users/5447609) ![][flag_SG] | 0 | **6** | ![][flag_PH] **[Milkteaism](https://osu.ppy.sh/users/9642774)** | *win by default* |
 
-### Group Stage week 2
+### Group stage week 2
 
 Friday, 18 December 2020:
 
@@ -641,7 +641,7 @@ Sunday, 20 December 2020:
 | J | **[xidorn](https://osu.ppy.sh/users/7904667)** ![][flag_PH] | **5** | 0 | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | *win by default* |
 | G | [Heya](https://osu.ppy.sh/users/11379332) ![][flag_MY] | 0 | **5** | ![][flag_VN] **[Hoaq](https://osu.ppy.sh/users/7696512)** | *win by default* |
 
-### Group Stage week 1
+### Group stage week 1
 
 Friday, 11 December 2020:
 
@@ -739,10 +739,10 @@ Sunday, 13 December 2020:
 10. Lag is not a valid reason to nullify a map.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
-    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from oSEAT4 and/or blacklisted from the future installment(s) of oSEAT.
+    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from oSEAT4 and/or blacklisted from the future instalment(s) of oSEAT.
     - Usage of any illegal programs is strictly prohibited and will be straight up reported to the osu!staff at will.
-    - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next installment(s) of oSEAT regardless of their role in the smurfing accident.
-13. Failing to attend in more than two matches without a clear reason of absence will result in a blacklist for the next oSEAT installment (oSEAT5).
+    - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next instalment(s) of oSEAT regardless of their role in the smurfing accident.
+13. Failing to attend in more than two matches without a clear reason of absence will result in a blacklist for the next oSEAT instalment (oSEAT5).
 
 ### Tournament registration
 
@@ -769,7 +769,7 @@ Sunday, 13 December 2020:
    - Players who ranked #97 or lower based on their accumulated Qualifier Points will be knocked out from the tournament.
 6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
-### Group Stage rules
+### Group stage rules
 
 1. In the Group Stage, the 96 previously qualified players will be divided into 16 groups consisting of 6 different players each based on their seed.
 2. All the players from each group will face each other over the period of two weeks based on the following bracket scheme:

@@ -12,11 +12,11 @@ tags:
 
 **Title text** appears in the top-middle of the screen while playing a beatmap. Most commonly, it shows the artist and title of the song near the beginning of the map, but the map's creator may change the text to whatever they prefer. They can also change how the text is formatted and when it will display.
 
-If used correctly by the map's creator, title text can add a nice effect to the map. It's an especially useful tool for map creators who make [storyboards](/wiki/Storyboards), since they likely want to control the presentation of their maps as finely as possible during gameplay. Some good examples of using custom title text can be found in [Noisestorm - Solar](https://osu.ppy.sh/beatmapsets/33483), [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein](https://osu.ppy.sh/beatmapsets/1391) and [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix-](https://osu.ppy.sh/beatmapsets/57560).
+If used correctly by the map's creator, title text can add a nice effect to the map. It's an especially useful tool for map creators who make [storyboards](/wiki/Storyboard), since they likely want to control the presentation of their maps as finely as possible during gameplay. Some good examples of using custom title text can be found in [Noisestorm - Solar](https://osu.ppy.sh/beatmapsets/33483), [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein](https://osu.ppy.sh/beatmapsets/1391) and [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix-](https://osu.ppy.sh/beatmapsets/57560).
 
 ## Changing Title Text
 
-Only members of the [NAT](/wiki/People/Nomination_Assessment_Team) and site admins can update title text of beatmaps; it is an online setting rather than something found in the local beatmap files. If you want to update your own map's title text, you can contact people belonging to these groups.
+Only members of the [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) and site admins can update title text of beatmaps; it is an online setting rather than something found in the local beatmap files. If you want to update your own map's title text, you can contact people belonging to these groups.
 
 When you get in contact with one of these people, you'll need to provide them a string that describes the content and formatting of the title text. osu! requires this string to be written in a very particular way, as specified in the following section.
 

@@ -102,7 +102,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 - Hidden
   - [Yuyoyuppe - Emerald Galaxy (pishifat) \[Expert\]](https://osu.ppy.sh/beatmapsets/682286#osu/1442757)
   - [M2U - Velocity (Karen) \[Expert\]](https://osu.ppy.sh/beatmapsets/593985#osu/1256483)
-  - [kors kfeat. Rie - Rising in the Sun (original mix) (soulfear) \[Another\]](https://bloodcat.com/osu/s/26742)
+  - [kors k feat. Rie - Rising in the Sun (original mix) (soulfear) \[Another\]](https://bloodcat.com/osu/s/26742)
 - HardRock
   - [Kairiki bear - Manemane Psychotropic (scanter) \[Psycho\]](https://osu.ppy.sh/beatmapsets/113398#osu/541797)
   - [OISHII - ONIGIRI FREEWAY (Niva) \[Extra\]](https://osu.ppy.sh/beatmapsets/873667#osu/1826135)
@@ -471,7 +471,7 @@ Lunes, 27 Enero 2020:
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_PY]: /wiki/shared/flag/PY.gif "Paraguay"
 [flag_QA]: /wiki/shared/flag/QA.gif "Catar"
-[flag_RO]: /wiki/shared/flag/RO.gif "Rumania"
+[flag_RO]: /wiki/shared/flag/RO.gif "Rumanía"
 [flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
 [flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
 [flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"

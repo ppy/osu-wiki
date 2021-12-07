@@ -16,13 +16,13 @@ osu!サポータータグを購入することで、ゲームの開発を直接�
 
 ## osu!サポーターの入手方法
 
-![osu!store商品バナー](img/store-product.jpg "osu!storeでのosu!サポーター商品バナー")
+![osu!store商品バナー](img/store-product.jpg?1 "osu!storeでのosu!サポーター商品バナー")
 
-osu!サポーターを入手するには、ログイン(または[登録](/wiki/sign_up))してから、[ストアページ](https://osu.ppy.sh/store/products/supporter-tag)にアクセスします。スライダーまたは月ボタン(スライダーの下)を使って、osu!サポータータグの期間を選択します。期間が異なると、お支払いいただく価格が変わります。使用される通貨は米ドル(USD)です。お住まいの国で異なる通貨を使用している場合は、[OANDA](https://www.oanda.com/currency/converter/)や[Google](https://www.google.com/search?q=usd+exchange+rate)などの通貨換算機を使って価格を確認してください。osu!storeのページに表示されている価格は、個人アカウントごとのものです。
+osu!サポーターを入手するには、ログイン(または[登録](/wiki/Registration))してから、[ストアページ](https://osu.ppy.sh/store/products/supporter-tag)にアクセスします。スライダーまたは月ボタン(スライダーの下)を使って、osu!サポータータグの期間を選択します。期間が異なると、お支払いいただく価格が変わります。使用される通貨は米ドル(USD)です。お住まいの国で異なる通貨を使用している場合は、[OANDA](https://www.oanda.com/currency/converter/)や[Google](https://www.google.com/search?q=usd+exchange+rate)などの通貨換算機を使って価格を確認してください。osu!storeのページに表示されている価格は、個人アカウントごとのものです。
 
 ### 期間の選択
 
-![osu!サポーターの購入](img/selecting-duration.jpg "osu!サポーターのユーザーと期間の選択")
+![osu!サポーターの購入](img/selecting-duration.jpg?1 "osu!サポーターのユーザーと期間の選択")
 
 スライダーの上に表示されているユーザーカードは、あなたがosu!サポーターを購入するユーザーです。デフォルトでは、自分のユーザーカードになっています。フレンドにプレゼントする場合は、ユーザーカードの下にあるグレーのボックスにフレンドのユーザー名(ユーザーIDではありません)を入力してください。入力が完了すると、ユーザーカードが入力したユーザー名と同じものに変わります。ここから、プレゼントしたいosu!サポーターの期間を選ぶことができますが、グループギフト用のプロモーションはありませんので、ご注意ください。
 
@@ -32,7 +32,7 @@ osu!サポーターを入手するには、ログイン(または[登録](/wiki/
 
 買い物が終わったら、`カートに入れる`をクリックしてosu!storeのカートに入れます。
 
-![osu!storeカート](img/shopping-cart.jpg "osu!storeのカートにosu!suppoter for flyteを追加しました。")
+![osu!storeカート](img/shopping-cart.jpg?1 "osu!storeのカートにosu!suppoter for flyteを追加しました。")
 
 ご購入の準備ができましたら、[カート](https://osu.ppy.sh/store/cart)に入り、`支払いをする`をクリックしてください。その後、画面の指示に従ってお支払いをお願いします。
 
@@ -45,16 +45,16 @@ osu!サポーターを入手するには、ログイン(または[登録](/wiki/
 
 ### ユーザーページとユーザーカード
 
-![osu!サポーターのユーザーページ](img/userpage.jpg "osu!サポーターのユーザーページ")
+![osu!サポーターのユーザーページ](img/userpage.jpg?1 "osu!サポーターのユーザーページ")
 
-![osu!サポーターのユーザーページ](img/usercard.png "osu!サポーターのユーザーページ")
+![osu!サポーターのユーザーページ](img/usercard.png?1 "osu!サポーターのユーザーページ")
 
 osu!web上では、ユーザーアバターの隣にosu!サポーターバッジがあり、ユーザーカードでは国旗の隣にあります。
 osu!サポーターバッジは、ゲームをサポートしている期間に応じて変化します。サポート期間が1年未満の場合は1つのハート、1～5年の場合は2つのハート、5年以上の場合は3つのハートとなります。
 
 ### 自分の支援状況の確認
 
-![残り3ヶ月のosu!サポータータグ](img/status.jpg "残り3ヶ月のosu!サポータータグ")
+![残り3ヶ月のosu!サポータータグ](img/status.jpg?1 "残り3ヶ月のosu!サポータータグ")
 
 *注意：この項目は、osu!サポーターを取得した後に表示されます。*
 

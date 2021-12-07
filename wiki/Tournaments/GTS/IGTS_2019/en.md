@@ -9,7 +9,7 @@ tags:
 
 ![IGTS 2019 logo](img/logo.jpg)
 
-The **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) was a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second installment of the Intermediate Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) was a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second instalment of the Intermediate Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -17,7 +17,7 @@ The **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) was a worldwid
 | --: | :-- |
 | Registration phase | 2019-05-11/2019-05-25 |
 | Live drawings | 2019-06-02 (14:00 UTC) |
-| Group Stage | 2019-06-08/2019-06-09 |
+| Group stage | 2019-06-08/2019-06-09 |
 | Round of 16 | 2019-06-15/2019-06-22 |
 | Quarterfinals | 2019-06-22/2019-06-23 |
 | Semifinals | 2019-06-29/2019-06-30 |
@@ -42,7 +42,7 @@ The Intermediate Global Taiko Showdown 2019 was run by various community members
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Map selector | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_ID] [Poii](https://osu.ppy.sh/users/7924938) |
+| Mappool selector | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_ID] [Poii](https://osu.ppy.sh/users/7924938) |
 | Referee | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [HiddenDenki](https://osu.ppy.sh/users/6868059), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_JP] [kvgyubh](https://osu.ppy.sh/users/8244404), ![][flag_BR] [Lolligerjoj](https://osu.ppy.sh/users/9053338), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_NL] [SpectreSan](https://osu.ppy.sh/users/11310442) |
 | Streamer | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_US] [Obvious](https://osu.ppy.sh/users/8770622) |
 | Commentator | ![][flag_NL] [-omicron](https://osu.ppy.sh/users/11043157), ![][flag_ID] [AnimesLover123](https://osu.ppy.sh/users/7280717), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_US] [MyAngelManasa](https://osu.ppy.sh/users/6666316), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
@@ -312,7 +312,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[RIOT - Overkill (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/984743#taiko/2060444)**
 
-### Group Stage
+### Group stage
 
 **[Download the map pack here! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I)**
 
@@ -432,7 +432,7 @@ Saturday, 22 June 2019:
 | **Taiwan** ![][flag_TW] | **6** | 1 | ![][flag_PL] Poland B | [#1](https://osu.ppy.sh/community/matches/52815977) |
 | **Japan** ![][flag_JP] | **6** | 0 | ![][flag_PL] Poland B | *win by default* |
 
-### Group Stage
+### Group stage
 
 Saturday, 8 June 2019:
 
@@ -614,8 +614,8 @@ All-star is a fun event which is going to take place in the same weekend as the 
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
 [flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"

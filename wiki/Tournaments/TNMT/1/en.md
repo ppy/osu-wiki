@@ -1,33 +1,38 @@
+---
+tags:
+  - TNMT
+---
+
 # :thonking: Newbie mania Tournament
 
-![TNMT Logo](img/logo.png)
+![TNMT logo](img/logo.png)
 
-The **:thonking: Newbie mania Tournament** (***TNMT***) is a one-on-one osu!mania 4K tournament hosted by CJB and TMT Team.
+The **:thonking: Newbie mania Tournament** (***TNMT***) was a 1v1 osu!mania 4K tournament hosted by the CJB and TMT team.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-07-13/2019-08-03 |
-| Qualifiers Showcase | 2019-08-10 (12:00 UTC+0) |
+| Registration phase | 2019-07-13/2019-08-03 |
+| Qualifiers showcase | 2019-08-10 (12:00 UTC+0) |
 | Qualifiers | 2019-08-17/2019-08-18 |
-| Live Drawings | 2019-08-19 (14:00 UTC+0) |
-| Group Stage | 2019-08-24/2019-08-25 |
+| Live drawings | 2019-08-19 (14:00 UTC+0) |
+| Group stage | 2019-08-24/2019-08-25 |
 | Round of 16 | 2019-08-31/2019-09-01 |
 | Quarterfinals | 2019-09-07/2019-09-08 |
 | Semifinals | 2019-09-14/2019-09-15 |
-| Finals - Week 1 | 2019-09-21/2019-09-22 |
-| Finals - Week 2 | 2019-09-28/2019-09-29 |
+| Finals week 1 | 2019-09-21/2019-09-22 |
+| Finals week 2 | 2019-09-28/2019-09-29 |
 
-## Prize
+## Prizes
 
-All prizes are sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6679329)**.
+All prizes were sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6679329)**.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![](/wiki/shared/crown-gold.png) | 3 months of osu!supporter tag, unique profile badge |
-| ![](/wiki/shared/crown-silver.png) | 2 months of osu!supporter tag |
-| ![](/wiki/shared/crown-bronze.png) | 1 month of osu!supporter tag |
+| ![](/wiki/shared/crown-gold.png) | 3 months of osu!supporter, unique profile badge |
+| ![](/wiki/shared/crown-silver.png) | 2 months of osu!supporter |
+| ![](/wiki/shared/crown-bronze.png) | 1 month of osu!supporter |
 
 ## Organisation
 
@@ -35,12 +40,12 @@ All prizes are sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6
 | :-- | :-- |
 | Manager | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Coordinator | ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
-| Map Selector | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
+| Mappool selector | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
 | Streamer | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) |
 | Referee | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) |
 | Commentator | ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Snowkyou](https://osu.ppy.sh/users/12513448), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) |
 | Designer | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) |
-| Wiki Editor | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki editor | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -60,7 +65,7 @@ All prizes are sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6
 
 ## Mappools
 
-### Finals - Week 2
+### Finals week 2
 
 - FreeMod
   - [rissyuu feat. choko - Bi (Raveille) \[Bong Botes\]](https://osu.ppy.sh/beatmapsets/1012105#mania/2118448)
@@ -81,7 +86,7 @@ All prizes are sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6
 - Tiebreaker
   - **[AA... Hisui Chazuke... - Stardust Prism (Lude) \[Illumination\]](https://osu.ppy.sh/beatmapsets/755101#mania/1589531)**
 
-### Finals - Week 1
+### Finals week 1
 
 - FreeMod
   - [senya - Banbutsu no Ou (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/908627#mania/1895977)
@@ -153,7 +158,7 @@ All prizes are sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6
 - Tiebreaker
   - **[Ryo Arue - Forza (ByeForNow) \[Sophistication (edit)\]](https://osu.ppy.sh/beatmapsets/1027155#mania/2148054)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [Ichi sato bocchi (Morishita Chisaku) - Ne, issho ni kaero. (HowToPlayLN) \[Chill\]](https://osu.ppy.sh/beatmapsets/1002081#mania/2110884)
@@ -177,9 +182,9 @@ All prizes are sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6
 
 ## Match results
 
-### Finals - Week 1
+### Finals week 1
 
-| Player | Score | Score | Player |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Davvyforte** | **6** | 5 | palmEuEi |
 | Halo- | -1 | **0** | **Antalf** |
@@ -188,7 +193,7 @@ All prizes are sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6
 
 ### Semifinals
 
-| Player | Score | Score | Player |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Davvyforte** | **6** | 2 | Halo- |
 | Ladylag | 3 | **6** | **palmEuEi** |
@@ -201,7 +206,7 @@ All prizes are sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6
 
 ### Quarterfinals
 
-| Player | Score | Score | Player |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | NestleiFan | 2 | **5** | **Davvyforte** |
 | Yukina- | 0 | **5** | **Halo-** |
@@ -214,7 +219,7 @@ All prizes are sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6
 
 ### Round of 16
 
-| Player | Score | Score | Player |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Maou | 0 | **5** | **NestleiFan** |
 | **Davvyforte** | **5** | 0 | NutAndGo |
@@ -225,17 +230,17 @@ All prizes are sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6
 | HD_AdreNaline | 1 | **5** | **palmEuEi** |
 | EDTA233 | 2 | **5** | **mewmew** |
 
-### Group Stage
+### Group stage
 
 | Group A | Score |  | Group B | Score |  | Group C | Score |  | Group D | Score |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| --: | :-: | :-: | --: | :-: | :-: | --: | :-: | :-: | --: | :-: |
 | **Maou** | **12** |  | **Horou** | **11** |  | **Davvyforte** | **12** |  | **Ladylag** | **12** |
 | **edisonhello** | **9** |  | **NestleiFan** | **9** |  | **BITONIC** | **8** |  | **NutAndGo** | **9** |
 | TNKSTC | 7 |  | ReanimateS | 8 |  | \[xiao ba\] | 6 |  | GodYeeKung | 4 |
 | - Blue Bell - | 0 |  | JunFish | 3 |  | Katsumi | 4 |  | Blujae | 5 |
 
 | Group E | Score |  | Group F | Score |  | Group G | Score |  | Group H | Score |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| --: | :-: | :-: | --: | :-: | :-: | --: | :-: | :-: | --: | :-: |
 | **Yukina-** | **12** |  | **palmEuEi** | **12** |  | **Halo-** | **12** |  | **mewmew** | **12** |
 | **HD_AdreNaline** | **11** |  | **Antalf** | **9** |  | **EDTA233** | **8** |  | **vincent4399** | **8** |
 | Kasumii-sama | 4 |  | xyxyxy091 | 4 |  | Loily | 5 |  | Yozomi | 6 |
@@ -305,7 +310,7 @@ CJB & TMT Team has the ultimate power of interpretation.
 - Room settings will be **Head To Head, Score V2**.
 - Referee will select map as the order of pool and each map will be played twice. The highest score will be recorded. Only **1 minute** between each play.
 
-### Group Stage
+### Group stage
 
 - Group Stage will be played under single round-robin. **2 best players** from each group will advance to Round of 16 stage. The priority range from highest to lowest priority explained as follows:
   1. More matches won.
@@ -313,12 +318,12 @@ CJB & TMT Team has the ultimate power of interpretation.
   3. Less round losses
   4. Winner of overtime
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

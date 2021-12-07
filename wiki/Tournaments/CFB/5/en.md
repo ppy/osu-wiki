@@ -8,7 +8,7 @@ tags:
 
 ![CFB5 logo](img/logo.jpg)
 
-The **Catch French Beginner 5** (***CFB5***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Only players ranked between #2,500 and below can participate. This was the fifth installment of the Catch French Beginner.
+The **Catch French Beginner 5** (***CFB5***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Only players ranked between #2,500 and below were eligible to participate. This was the fifth instalment of the Catch French Beginner.
 
 ## Tournament schedule
 
@@ -27,9 +27,9 @@ The **Catch French Beginner 5** (***CFB5***) was a beginner French double-elimin
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter |
 
 ![](img/badge.jpg "CFB5 winner badge")
 
@@ -41,7 +41,7 @@ The Catch French Beginner 5 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
+| Organizer | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
 | Mappool selector | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012), ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
 | Referee | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
 | Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_FR] [JeSuisJLF](https://osu.ppy.sh/users/15334170), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Ttobas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) |

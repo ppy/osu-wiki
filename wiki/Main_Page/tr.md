@@ -1,6 +1,8 @@
 ---
 layout: main_page
 no_native_review: true
+outdated: true
+outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
 <div class="wiki-main-page__blurb">
@@ -12,7 +14,7 @@ osu! ile ilgili çok çeşitli bilgiler içeren bir proje olan osu! wiki'ye hoş
 
 # Başlarken
 
-[Hoş Geldiniz](/wiki/Welcome) • [Kurulum](/wiki/Installation) • [Kayıt](/wiki/Registration) • [Yardım Merkezi](/wiki/Help_Centre) • [SSS](/wiki/FAQ)
+[Kurulum](/wiki/Installation) • [Kayıt](/wiki/Registration) • [Yardım Merkezi](/wiki/Help_Centre) • [SSS](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -21,7 +23,7 @@ osu! ile ilgili çok çeşitli bilgiler içeren bir proje olan osu! wiki'ye hoş
 
 [Arayüz](/wiki/Interface) • [Seçenekler](/wiki/Options) • [Görsel ayarlar](/wiki/Visual_Settings) • [Kısayol tuşu referansı](/wiki/Shortcut_key_reference) • [Yapılandırma dosyası](/wiki/osu!_Program_Files/User_Configuration_File) • [Program dosyaları](/wiki/osu!_Program_Files)
 
-[Dosya formatları](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[Dosya formatları](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -41,7 +43,7 @@ Kısımlar: [Oluştur](/wiki/Beatmap_Editor/Compose) • [Dizayn](/wiki/Beatmap_
 
 Öğeler: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Nota ızgara bölücü](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Mesafe aralığı](/wiki/Beatmap_Editor/Distance_Snap) • [Menü](/wiki/Beatmap_Editor/Menu) • [SB yükü](/wiki/Beatmap_Editor/SB_Load) • [Zaman çizgileri](/wiki/Beatmap_Editor/Timelines)
 
-[Beatmap oluşturma](/wiki/Beatmapping) • [Zorluklar](/wiki/Beatmap/Difficulty) • [Mapleme teknikleri](/wiki/Mapping_Techniques) • [Storyboard oluşturma](/wiki/Storyboarding)
+[Beatmap oluşturma](/wiki/Beatmapping) • [Zorluklar](/wiki/Beatmap/Difficulty) • [Mapleme teknikleri](/wiki/Mapping_Techniques) • [Storyboard oluşturma](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -57,7 +59,7 @@ Kısımlar: [Oluştur](/wiki/Beatmap_Editor/Compose) • [Dizayn](/wiki/Beatmap_
 
 # Topluluk
 
-[Turnuvalar](/wiki/Tournaments) • [Tema oluşturma](/wiki/Skinning) • [Projeler](/wiki/Projects) • [Rehberler](/wiki/Guides) • [osu!dev Discord sunucusu](/wiki/osu!dev_Discord_server) • [Nasıl yardım edebilirsiniz](/wiki/How_You_Can_Help!) • [Sözlük](/wiki/Glossary)
+[Turnuvalar](/wiki/Tournaments) • [Tema oluşturma](/wiki/Skinning) • [Projeler](/wiki/Projects) • [Rehberler](/wiki/Guides) • [osu!dev Discord sunucusu](/wiki/osu!dev_Discord_server) • [Nasıl yardım edebilirsiniz](/wiki/How_you_can_help!) • [Sözlük](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -82,7 +84,7 @@ Organizasyonlar: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # Wiki hakkında
 
-[Site haritası](/wiki/Sitemap) • [Katkı rehberi](/wiki/osu!_wiki_Contribution_Guide) • [Makale biçimlendirme kriterleri](/wiki/Article_Styling_Criteria) • [Haber gönderisi biçimlendirme kriterleri](/wiki/News_Styling_Criteria)
+[Site haritası](/wiki/Sitemap) • [Katkı rehberi](/wiki/osu!_wiki/Contribution_guide) • [Makale biçimlendirme kriterleri](/wiki/Article_styling_criteria) • [Haber gönderisi biçimlendirme kriterleri](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

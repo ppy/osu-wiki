@@ -7,7 +7,7 @@ tags:
 
 ![3TWC logo](img/logo.png)
 
-The **3 Digit Taiko World Cup** (***3TWC***) was a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). Only players ranked between #100 and #999 could participate. It was the first installment of the 3 Digit Taiko World Cup.
+The **3 Digit Taiko World Cup** (***3TWC***) was a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). Only players ranked between #100 and #999 could participate. It was the first instalment of the 3 Digit Taiko World Cup.
 
 ## Tournament schedule
 
@@ -39,7 +39,7 @@ The 3 Digit Taiko World Cup was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Organizer | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Mappool selector | ![][flag_PT] [BabySnakes](https://osu.ppy.sh/users/4669728), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738), ![][flag_BR] [Skull Kid](https://osu.ppy.sh/users/3044264) |
 | Referee | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851), ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_US] [DeltaFour](https://osu.ppy.sh/users/13034610), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461), ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_DE] [real cute](https://osu.ppy.sh/users/9172811), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_US] [Xpekade](https://osu.ppy.sh/users/10775293) |
 | Streamer | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_DK] [Polle](https://osu.ppy.sh/users/13218204), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_US] [Xpekade](https://osu.ppy.sh/users/10775293), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
@@ -463,7 +463,7 @@ Sunday, 17 January 2021:
 3. Teams will be seeded by the Qualifiers results.
 4. The scoring system that will be used is **ScoreV2**.
 5. The tournament will hold a maximum of 32 countries for teams. If there aren't 32 teams by the end of the registrations, 16 teams will go through the qualifiers.
-6. Everyone who meets the rank restricted requirements is able to sign up. Any members of staff **apart from organiser, mappool selector, and referee** are allowed to play.
+6. Everyone who meets the rank restricted requirements is able to sign up. Any members of staff **apart from organizer, mappool selector, and referee** are allowed to play.
 7. Grand Finals will have a bracket reset if the team from the loser's bracket wins the first match.
 8. Players who are not in the rank range are allowed to register. However, if they are not within the rank range by the time the registration ends, their registration will be removed. However, when registrations close players are allowed to leave the rank range.
 9. After registration ends players are allowed to leave the rank range to any extent.

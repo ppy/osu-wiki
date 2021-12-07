@@ -35,7 +35,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 
 #### Rules
 
-- **Spinner circles and their centers must be clearly visible and exactly centered.** This is to ensure that players have a visible aid to help them spin consistently, as well as a visual reference point to spin around.
+- **Spinner circles and their centres must be clearly visible and exactly centred.** This is to ensure that players have a visible aid to help them spin consistently, as well as a visual reference point to spin around.
 - **Hit100 and hit300 must be different from corresponding geki and katu skin elements.** Hit300g, hit300k, and hit100k indicate if players perfectly hit all 300 in a combo.
 - **A custom slider border colour must be selected when a beatmap contains skin elements from the hit circle or slider sets.** This is to avoid the default slider border or a player's custom skin's slider border from conflicting with the beatmap's specific colour scheme. This is done by adding `SliderBorder: <RGB Value>` under `[Colours]` in a `.osu` file.
 - **Slider body colour cannot be too similar to slider border colour.** If both of these settings are too similar to each other, then the slider border element loses its point as a visual border for the slider. Slider body colour can be selected by adding `SliderTrackOverride: <RGB Value>` under `[Colours]` in a `.osu` file.
@@ -70,6 +70,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **[Time-distance equality](/wiki/Mapping_Techniques/Time-distance_equality) should be used.** Variations are acceptable if they are clearly different from spacing used for different rhythms. When hit objects are more than 2 beats apart and have relatively high spacing on the playfield, time-distance equality does not need to be as precise.
 - **When [distance snap](/wiki/Beatmap_Editor/Distance_Snap) is used, try to keep it between 0.8x and 1.2x.** Values too much higher or lower may make the difference between [slider velocity](/wiki/Hit_object/Slider_velocity) and spacing counterintuitive. A higher distance snap can be used to avoid [overlapping](/wiki/Mapping_Techniques/Overlap), but the slider velocity should be increased if you find yourself doing this often.
+- **Avoid [slider velocity](/wiki/Hit_object/Slider_velocity) above 1.3.**
 - **Note density should consist of mostly 1/1, 2/1, or slower rhythms.**
 - **Avoid using sliders shorter than 1/2 of a beat.** These are too fast to be comprehended by new players.
 - **Avoid [overlapping](/wiki/Mapping_Techniques/Overlap) circles, slider heads, and slider tails.** These can be confusing for new players. 1/1 overlaps due to [distance snapping](/wiki/Beatmap_Editor/Distance_Snap) should be avoided with higher spacing or [slider velocity](/wiki/Hit_object/Slider_velocity).
@@ -78,8 +79,8 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Frequently manipulating [slider velocity](/wiki/Hit_object/Slider_velocity) is discouraged.** Slider velocity should only be changed for sections of music with different pacings and should not be drastically variable.
 - **Use straightforward and easily understandable slider shapes.** New players may not understand how to follow more complex shapes.
 - **There should be at least 4 beats between a spinner's end and the next object.** This is to ensure adequate time to click a hit object following a spinner.
-- **Avoid spinners less than 4 beats.** Players need time to recognize that they have to begin spinning.
-- **Avoid fully covering slider reverse arrows with hit objects within 4 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
+- **Avoid spinners less than 4 beats.** Players need time to recognise that they have to begin spinning.
+- **Avoid fully covering slider reverse arrows with hit objects within 4 beats of the reverse arrow being reached.** This gives players enough time to recognise the reverse arrow.
 - **Avoid fully [overlapping](/wiki/Mapping_Techniques/Overlap) slider bodies within 4 beats of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 - **Ensure that your combos are not unreasonably short or long.** Combos should reflect patterns expressed in the song, such as bars of music or vocal/instrumental phrases.
 - **Avoid [overlapping](/wiki/Mapping_Techniques/Overlap) hit objects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
@@ -110,8 +111,8 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Frequently manipulating [slider velocity](/wiki/Hit_object/Slider_velocity) is discouraged.** Slider velocity should only be changed for sections of music with different pacings and should not be drastically variable.
 - **Use straightforward and easily understandable slider shapes.** New players may not understand how to follow more complex shapes.
 - **There should be at least 2 beats between a spinner's end and the next object.** This is to ensure adequate time to click a hit object following a spinner.
-- **Avoid spinners less than 3 beats.** Players need time to recognize that they have to begin spinning.
-- **Avoid fully covering slider reverse arrows with hit objects within 3 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
+- **Avoid spinners less than 3 beats.** Players need time to recognise that they have to begin spinning.
+- **Avoid fully covering slider reverse arrows with hit objects within 3 beats of the reverse arrow being reached.** This gives players enough time to recognise the reverse arrow.
 - **Avoid fully [overlapping](/wiki/Mapping_Techniques/Overlap) slider bodies within 3 beats of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 - **Ensure that your combos are not unreasonably short or long.** Combos should reflect patterns expressed in the song, such as bars of music or vocal/instrumental phrases.
 - **Avoid [overlapping](/wiki/Mapping_Techniques/Overlap) hit objects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
@@ -122,7 +123,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - **Include a 1/1 or longer gap in rhythm for every two measures of gameplay.** Leniency is permitted for sections of beatmaps with extremely long sliders, such as sliders longer than 2 measures.
 - **Avoid more than four consecutive 1/2 sliders.** This includes 1/2 reversing sliders.
 - **Objects making up actively clicked 1/2 rhythms should [overlap](/wiki/Mapping_Techniques/Overlap) each other on the playfield.** Passively played 1/2 rhythms that do not overlap, such a sliderend followed by a circle, are acceptable.
-- **Avoid [slider velocity](/wiki/Hit_object/Slider_velocity) above 1.3x.**
+- **Avoid [slider velocity](/wiki/Hit_object/Slider_velocity) above 1.3.**
 
 #### Difficulty setting guidelines
 
@@ -142,10 +143,10 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - **There should be at least 1 beat between a spinner's end and the next object.** This is to ensure adequate time to click a hit object following a spinner.
 - **Note density should consist of mostly 1/2, occasional 1/4, or slower rhythms.**
 - **Avoid [streams](/wiki/Beatmap/Pattern/Stream) made of more than 5 notes.** Short reversing sliders can be used in exchange for these when the song supports it.
-- **Avoid visually similar spacing for different rhythms.** Spacing variation through [jumps](/wiki/Beatmap/Pattern/Jump) on points of emphasis are encouraged, but only if these jumps are recognizably different from other rhythm gaps.
+- **Avoid visually similar spacing for different rhythms.** Spacing variation through [jumps](/wiki/Beatmap/Pattern/Jump) on points of emphasis are encouraged, but only if these jumps are recognisably different from other rhythm gaps.
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
-- **Avoid spinners less than 2 beats.** Players need time to recognize that they have to begin spinning.
-- **Avoid fully covering slider reverse arrows with hit objects within 2 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
+- **Avoid spinners less than 2 beats.** Players need time to recognise that they have to begin spinning.
+- **Avoid fully covering slider reverse arrows with hit objects within 2 beats of the reverse arrow being reached.** This gives players enough time to recognise the reverse arrow.
 - **Avoid fully [overlapping](/wiki/Mapping_Techniques/Overlap) slider bodies within 2 beats of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 
 #### Difficulty setting guidelines
@@ -163,7 +164,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 - **Avoid cross screen [jumps](/wiki/Beatmap/Pattern/Jump) and [streams](/wiki/Beatmap/Pattern/Stream) whose circles do not [overlap](/wiki/Mapping_Techniques/Overlap).** These are beatmapping techniques primarily reserved for Expert level difficulties.
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
-- **Avoid fully covering slider reverse arrows with circles, slider heads, or slider tails within a 1/2 beat of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
+- **Avoid fully covering slider reverse arrows with circles, slider heads, or slider tails within a 1/2 beat of the reverse arrow being reached.** This gives players enough time to recognise the reverse arrow.
 - **Avoid fully [overlapping](/wiki/Mapping_Techniques/Overlap) slider bodies within a 1/2 beat of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 
 #### Difficulty setting guidelines

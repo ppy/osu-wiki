@@ -56,13 +56,13 @@ no_native_review: true
 - [오토 (AT)](/wiki/Game_modifier/Auto) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
   - [시네마 (CM)](/wiki/Game_modifier/Cinema) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [스코어 V2 (SV2)](/wiki/Game_modifier/ScoreV2) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [타겟팅 연습 (TP)](/wiki/Game_modifier/Target_Practice) ![][osu!] **Cutting Edge only**
+- [타겟팅 연습 (TP)](/wiki/Game_modifier/Target_Practice) ![][osu!] **Cutting Edge (Experimental) only**
 
 ### 그 외
 
 *중요: 이 모드들은 과거에 이용 가능한 모드였으나 지금은 이용이 불가능합니다.
 
-- [10K](/wiki/Game_modifier/10k) ![][osu!mania]
+- [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [페이드 아웃](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [노 비디오](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 

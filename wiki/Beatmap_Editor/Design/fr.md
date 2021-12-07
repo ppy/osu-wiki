@@ -2,7 +2,7 @@
 
 ![Onglet Design](img/SE_base-FR.png "Onglet Design")
 
-L'**Éditeur de Storyboard** est une section de l'[éditeur de beatmap](/wiki/Beatmap_Editor) du jeu, sous l'onglet Design, qui permet de faire du [Storyboarding](/wiki/Storyboards) simple. C'est une bonne introduction au concept fondamental avant le [Storyboard Scripting](/wiki/Storyboard_Scripting) plus avancé.
+L'**Éditeur de Storyboard** est une section de l'[éditeur de beatmap](/wiki/Beatmap_Editor) du jeu, sous l'onglet Design, qui permet de faire du [Storyboarding](/wiki/Storyboard) simple. C'est une bonne introduction au concept fondamental avant le [Storyboard Scripting](/wiki/Storyboard/Scripting) plus avancé.
 
 Il serait bon de faire des cours accélérés de toutes les commandes en utilisant des images aléatoires au moins une fois avant d'essayer de faire du storyboarding sérieux. Cela vous aidera à mieux mémoriser et comprendre l'utilisation.
 
@@ -148,11 +148,11 @@ Joue la beatmap. Le storyboarding de l'outro nécessite un script de storyboardi
 
 ## Limites
 
-- Pas de support pour les effets sonores, ce n'est pas un gros problème car les effets sonores peuvent distraire les joueurs, surtout s'ils sont près des [objets](/wiki/Hit_Objects). L'utilisation d'effets sonores doit être réservée aux mappeurs expérimentés, avec l'aide d'un BN.
-- Aucun support pour les [loop](/wiki/Storyboard_Scripting/Compound_Commands) et les [trigger](/wiki/Storyboard_Scripting/Compound_Commands).
-- Aucune commande pour [Move-X](/wiki/Storyboard_Scripting/Commands)/[Move-Y](/wiki/Storyboard_Scripting/Commands).
+- Pas de support pour les effets sonores, ce n'est pas un gros problème car les effets sonores peuvent distraire les joueurs, surtout s'ils sont près des [objets](/wiki/Hit_object). L'utilisation d'effets sonores doit être réservée aux mappeurs expérimentés, avec l'aide d'un BN.
+- Aucun support pour les [loop](/wiki/Storyboard/Scripting/Compound_Commands) et les [trigger](/wiki/Storyboard/Scripting/Compound_Commands).
+- Aucune commande pour [Move-X](/wiki/Storyboard/Scripting/Commands)/[Move-Y](/wiki/Storyboard/Scripting/Commands).
 - Les coordonnées du sprite sont *toujours* 320,240. Vous devrez utiliser la commande Move une fois pour définir l'emplacement (le point final n'est pas nécessaire).
-  - Si vous faites *également* du [Storyboard Scripting](/wiki/Storyboard_Scripting), vous devrez *lire une ligne supplémentaire* par objet réalisé dans l'onglet Design.
+  - Si vous faites *également* du [Storyboard Scripting](/wiki/Storyboard/Scripting), vous devrez *lire une ligne supplémentaire* par objet réalisé dans l'onglet Design.
 
 ## Source
 

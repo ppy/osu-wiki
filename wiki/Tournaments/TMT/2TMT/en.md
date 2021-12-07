@@ -1,21 +1,21 @@
 ---
 tags:
-- 2v2 thonking Mania Tournament
-- 2TMT
+  - 2v2 thonking Mania Tournament
+  - 2TMT
 ---
 
 # 2v2 :thonking: Mania Tournament
 
-![2TMT Logo](img/logo.png)
+![2TMT logo](img/logo.png)
 
-The **2v2 :thonking: Mania Tournament** (***2TMT***) was a two-on-two team based osu!mania tournament hosted by ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574). It was the 2nd installment of the :thonking: Mania Tournament.
+The **2v2 :thonking: Mania Tournament** (***2TMT***) was a 2v2 team-based osu!mania tournament hosted by ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574). It was the second instalment of the :thonking: Mania Tournament.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-10-11/2018-11-03 |
-| Live Drawings | 2018-11-03 (13:00 UTC) |
+| Registration phase | 2018-10-11/2018-11-03 |
+| Live drawings | 2018-11-03 (13:00 UTC) |
 | Qualifiers | 2018-11-10/2018-11-11 |
 | Round of 32 | 2018-11-17/2018-11-18 |
 | Round of 16 | 2018-11-24/2018-11-25 |
@@ -26,11 +26,9 @@ The **2v2 :thonking: Mania Tournament** (***2TMT***) was a two-on-two team based
 
 ## Prizes
 
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for 2v2 :thonking: Mania Tournament winners. It is possible that these items change with every installment of the :thonking: Mania Tournament.
-
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter |
 
 ## Organisation
 
@@ -39,13 +37,13 @@ The 2v2 :thonking: Mania Tournament was run by various osu! community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574) |
-| Map Selector | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_ID] [RemFanGirl](https://osu.ppy.sh/users/5767941) |
+| Mappool selector | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_ID] [RemFanGirl](https://osu.ppy.sh/users/5767941) |
 | Commentator | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_ID] [RemFanGirl](https://osu.ppy.sh/users/5767941), ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061) |
 | Streamer | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Designer | ![][flag_MY] [Xeious](https://osu.ppy.sh/users/5357146) |
 | Statistician | ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911) |
 | Referee | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_PL] [Baziu](https://osu.ppy.sh/users/7192659), ![][flag_US] [R-2E-054](https://osu.ppy.sh/users/3625265), ![][flag_ID] [chouyaa](https://osu.ppy.sh/users/8404646), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
-| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -54,8 +52,6 @@ The 2v2 :thonking: Mania Tournament was run by various osu! community members.
 - [TMT Challonge brackets](https://challonge.com/2tmt)
 - [Livestream](https://www.twitch.tv/thonkingtourney)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQ0UHEZ55LqAnlE6TEZJyYWzttoeh4hour4weugiQu6aO06kdk3N6rQMZi-ksvi7ZDOF4dEFypizp8/pubhtml)**
-
----
 
 ## Participants
 
@@ -95,19 +91,15 @@ The 2v2 :thonking: Mania Tournament was run by various osu! community members.
 | **rip la prostata** | ![][flag_PE] **[Kien io](https://osu.ppy.sh/users/10055648)**, ![][flag_PE] [zcristhianlx](https://osu.ppy.sh/users/9744385) |
 | **Piki's zone** | ![][flag_CO] **[Cansta](https://osu.ppy.sh/users/9303412)**, ![][flag_TW] [murorachi](https://osu.ppy.sh/users/8682905) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | La pancit bois |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 argentos y medio |
-| ![Crown Crown](/wiki/shared/crown-bronze.png "3rd place") | PolytETral |
-
----
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **La pancit bois** (![][flag_SG] **[Polytetral](https://osu.ppy.sh/users/8612061)**, ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_SG] [Cute Doggo](https://osu.ppy.sh/users/7288030)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **3 argentos y medio** (![][flag_AR] **[juankristal](https://osu.ppy.sh/users/443656)**, ![][flag_AR] [bubshish](https://osu.ppy.sh/users/7110363), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_AR] [jLuyalb](https://osu.ppy.sh/users/7093698)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **PolytETral** (![][flag_CA] **[Sinaeb](https://osu.ppy.sh/users/1576095)**, ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_DK] [tailsdk](https://osu.ppy.sh/users/6751666), ![][flag_RU] [YaLTeR](https://osu.ppy.sh/users/3910006)) |
 
 ## Mappools
 
@@ -244,41 +236,51 @@ This competition has come to an end and resulted in the following podium:
   - [Fractal Dreamers - Celestial Horizon (cheewee10) \[Stage 4 : Illusion\]](https://osu.ppy.sh/beatmapsets/873409#mania/1825718)
   - [A4paper - Ultranova (Raveille) \[Stage 5: Nimble\]](https://osu.ppy.sh/beatmapsets/873412#mania/1825721)
 
----
-
-## Match Results
+## Match results
 
 ### Grand Finals
 
-| Friday, 2018-12-21 |  |  |  |  |
+Friday, 21 December 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | PolytETral | 1 | **7** | **La pancit bois** | [#1](https://osu.ppy.sh/community/matches/48251480) |
 
-| Saturday, 2018-12-22 |  |  |  |  |
+Saturday, 22 December 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | 3 argentos y medio | 1 | **7** | **La pancit bois** | [#1](https://osu.ppy.sh/community/matches/48280054) |
 | **La pancit bois** | **7** | 4 | 3 argentos y medio | [#1](https://osu.ppy.sh/community/matches/48282582) |
 
 ### Finals
 
-| Saturday, 2018-12-15 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **3 argentos y medio** | **6** | 0 | Team Loli | -win by default- |
+Saturday, 15 December 2018:
 
-| Sunday, 2018-12-16 |  |  |  |  |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **3 argentos y medio** | **6** | 0 | Team Loli | *win by default* |
+
+Sunday, 16 December 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **nmsl** | **6** | 5 | fucking weebs | [#1](https://osu.ppy.sh/community/matches/48134025) |
-| KABITE BOIZ and baltz | 0 | **6** | **Fanklub Mariusza Pudzianowskiego** | -win by default- |
+| KABITE BOIZ and baltz | 0 | **6** | **Fanklub Mariusza Pudzianowskiego** | *win by default* |
 | **La pancit bois** | **6** | 1 | Fanklub Mariusza Pudzianowskiego | [#1](https://osu.ppy.sh/community/matches/48140066) |
 | **PolytETral** | **6** | 0 | nmsl | [#1](https://osu.ppy.sh/community/matches/48142893) |
 
 ### Semifinals
 
-| Friday, 2018-12-07 |  |  |  |  |
+Friday, 7 December 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **3 Argentos y Medio** | **6** | 4 | La pancit bois | [#1](https://osu.ppy.sh/community/matches/47938858) |
 
-| Saturday, 2018-12-08 |  |  |  |  |
+Saturday, 8 December 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Team Loli** | **6** | 0 | PolytETral | [#1](https://osu.ppy.sh/community/matches/47962270) |
 | **SUOMI PERKELE** | **6** | 3 | La secta de Stratos | [#1](https://osu.ppy.sh/community/matches/47968602) |
@@ -286,7 +288,9 @@ This competition has come to an end and resulted in the following podium:
 | **we don't know** | **6** | 5 | Late Night Afro Bakers | [#1](https://osu.ppy.sh/community/matches/47971830) |
 | Bongos | 0 | **6** | **RIL** | [#1](https://osu.ppy.sh/community/matches/47976639) |
 
-| Sunday, 2018-12-09 |  |  |  |  |
+Sunday, 9 December 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **fucking weebs** | **6** | 1 | Bongos | [#1](https://osu.ppy.sh/community/matches/47981472) |
 | **nmsl** | **6** | 1 | we don't know | [#1](https://osu.ppy.sh/community/matches/47981964) |
@@ -295,7 +299,9 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-| Saturday, 2018-12-01 |  |  |  |  |
+Saturday, 1 December 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Team Loli** | **5** | 0 | Fanklub Mariusza Pudzianowskiego | [#1](https://osu.ppy.sh/community/matches/47801175) |
 | **PolytETral** | **5** | 2 | KABITE BOIZ and baltz | [#1](https://osu.ppy.sh/community/matches/47803037) |
@@ -305,27 +311,33 @@ This competition has come to an end and resulted in the following podium:
 | **RIL** | **5** | 0 | The EH Team | [#1](https://osu.ppy.sh/community/matches/47816331) |
 | **Bongos** | **5** | 0 | Trip la prostata | [#1](https://osu.ppy.sh/community/matches/47817949) |
 
-| Sunday, 2018-12-02 |  |  |  |  |
+Sunday, 2 December 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **3 argentos y medio** | **5** | 3 | fucking weebs | [#1](https://osu.ppy.sh/community/matches/47821527), [#2](https://osu.ppy.sh/community/matches/47822286) |
 | **Late Night Afro Bakers** | **5** | 3 | Queue | [#1](https://osu.ppy.sh/community/matches/47826149) |
 | **La pancit bois** | **5** | 3 | nmsl | [#1](https://osu.ppy.sh/community/matches/47826319) |
 | **Accu Rassie** | **5** | 3 | Pizza Time | [#1](https://osu.ppy.sh/community/matches/47833825) |
-| **TBD 2.0** | **5** | 0 | UKhile | -win by default- |
+| **TBD 2.0** | **5** | 0 | UKhile | *win by default* |
 
 ### Round of 16
 
-| Saturday, 2018-11-24 |  |  |  |  |
+Saturday, 24 November 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Henmenumai | 0 | **5** | **The EH Team** | -win by default- |
-| 7k Masterrace | 0 | **5** | **Lamp memes aren't funny** | -win by default- |
-| **Queue** | **5** | 0 | NOOBinACC | -win by default- |
+| Henmenumai | 0 | **5** | **The EH Team** | *win by default* |
+| 7k Masterrace | 0 | **5** | **Lamp memes aren't funny** | *win by default* |
+| **Queue** | **5** | 0 | NOOBinACC | *win by default* |
 | **La pancit bois** | **5** | 1 | La secta de Stratos | [#1](https://osu.ppy.sh/community/matches/47645695) |
 | Eternal Meme | 0 | **5** | **Pizza Time** | [#1](https://osu.ppy.sh/community/matches/47647884) |
-| **UKhile** | **5** | 0 | Chamelfornikowo | -win by default- |
-| Tojas Team | 0 | **5** | **rip la prostata** | -win by default- |
+| **UKhile** | **5** | 0 | Chamelfornikowo | *win by default* |
+| Tojas Team | 0 | **5** | **rip la prostata** | *win by default* |
 
-| Sunday, 2018-11-25 |  |  |  |  |
+Sunday, 25 November 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **nmsl** | **5** | 0 | Crawling in my skin | [#1](https://osu.ppy.sh/community/matches/47664183) |
 | **Team Loli** | **5** | 4 | RIL | [#1](https://osu.ppy.sh/community/matches/47665948) |
@@ -337,35 +349,37 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-| Saturday, 2018-11-17 |  |  |  |  |
+Saturday, 17 November 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **La pancit bois** | **4** | 0 | Tojas Team | -win by default- |
-| **nmsl** | **4** | 0 | Henmenumai | -win by default- |
-| **fucking weebs** | **4** | 0 | NOOBinACC | -win by default- |
-| **Fanklub Mariusza Pudzianowskiego** | **4** | 0 | 7k Masterrace | -win by default- |
+| **La pancit bois** | **4** | 0 | Tojas Team | *win by default* |
+| **nmsl** | **4** | 0 | Henmenumai | *win by default* |
+| **fucking weebs** | **4** | 0 | NOOBinACC | *win by default* |
+| **Fanklub Mariusza Pudzianowskiego** | **4** | 0 | 7k Masterrace | *win by default* |
 | **TBD 2.0** | **4** | 1 | Couli #1 | [#1](https://osu.ppy.sh/community/matches/47488316) |
 | Pizza Time | 3 | **4** | **Late Night Afro Bakers** | [#1](https://osu.ppy.sh/community/matches/47490127) |
 | **Bongos** | **4** | 0 | Lamp memes aren't funny | [#1](https://osu.ppy.sh/community/matches/47491636) |
 | **Crawling in my skin** | **4** | 3 | The EH team | [#1](https://osu.ppy.sh/community/matches/47498279) |
-| **La secta de Stratos** | **4** | 0 | rip la prostata | -win by default- |
+| **La secta de Stratos** | **4** | 0 | rip la prostata | *win by default* |
 
-| Sunday, 2018-11-18 |  |  |  |  |
+Sunday, 18 November 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **KABITE BOIZ and Baltz** | **4** | 0 | UKhile | -win by default- |
+| **KABITE BOIZ and Baltz** | **4** | 0 | UKhile | *win by default* |
 | **Accu Rassie** | **4** | 2 | Queue | [#1](https://osu.ppy.sh/community/matches/47517673) |
 | **PolytETral** | **4** | 1 | Eternal Meme | [#1](https://osu.ppy.sh/community/matches/47519437) |
 | **RIL** | **4** | 2 | SUOMI PERKELE | [#1](https://osu.ppy.sh/community/matches/47521803) |
-| **we don't know** | **4** | 0 | Chamelfornikowo | -win by default- |
+| **we don't know** | **4** | 0 | Chamelfornikowo | *win by default* |
 
 ### Qualifiers
 
 Detailed results for this round can be found via this [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQ0UHEZ55LqAnlE6TEZJyYWzttoeh4hour4weugiQu6aO06kdk3N6rQMZi-ksvi7ZDOF4dEFypizp8/pubhtml#).
 
----
-
 ## Ruleset
 
-### General Rules
+### General rules
 
 - Round of 32 will be played as BO7.
 - Round of 16 and Quarterfinals will be played as BO9.
@@ -375,7 +389,7 @@ Detailed results for this round can be found via this [link](https://docs.google
 - Players and Staff members that misbehave will be warned, if the misbehaving continues they will be removed from the tournaments.
 - Teams that fail to respect the rules will be placed on a blacklist blocking them from participating in other tournaments hosted by :thonking: and affiliates.
 
-### Qualification Stage
+### Qualification stage
 
 - The qualification stage will be used to seed teams into 4 categories, Top seed, High seed, Low seed, and No seed.
 - The mappool consist of 5 maps that are going to be played twice.
@@ -385,7 +399,7 @@ Detailed results for this round can be found via this [link](https://docs.google
 - If there is less than 32 teams, the tournament will continue with defaults, where the highest ranked teams get priority for this privilege (e.g. #1 and #2 will get a default to RO16 if there are only 30 teams).
 - Teams will be organized into lobbies based on the timezones they put on the Form. The players inside the lobby are not facing each other, as their Total Score is what is used for the seeding.
 
-### Double Elimination stage
+### Double elimination stage
 
 The Double Elimination stages will proceed as follow:
 
@@ -393,38 +407,38 @@ The Double Elimination stages will proceed as follow:
 - When both teams are in the room, the match will start on the scheduled time.
 - If a player/team is missing, a 10 minutes timer will be created, and the incomplete team will lose by default if the timer runs out.
 - If both teams are incomplete after the timer, the team with more members will win by default (e.g. 1v0). Should there be no players online for either team, both teams are to reschedule to a time within the week to play, else eliminated.
-- When the match starts, both team representatives will do a !roll to determine the match order, the team with the highest roll will get first warmup, second ban and first pick.
+- When the match starts, both team representatives will do a `!roll` to determine the match order, the team with the highest roll will get first warmup, second ban and first pick.
 - The warmup must be downloadable with osu!direct, 4 keys and be no longer than 5 minutes.
 - After the warmups, teams will have 1 ban of any map (excluding Tiebreaker).
 - After bans, teams will pick maps alternating with each other until on player reach the required amount of points to win the match.
 - If both teams are at match point, the Tiebreaker will be played.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

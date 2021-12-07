@@ -1,7 +1,7 @@
 ---
 tags:
-- TWC 2015
-- TWC2015
+  - TWC 2015
+  - TWC2015
 outdated: true
 ---
 
@@ -44,14 +44,10 @@ El país campeón del torneo anterior es ![][flag_JP] **Japón**.
 | Comentaristas | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Estadistico | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Links
 
 - [Tema de Discusion (Solo en inglés)](https://osu.ppy.sh/community/forums/topics/279723)
-- [osu! Taiko World Cup 2015 en Twitch](https://www.twitch.tv/osulive/)
-
----
+- [osu! Taiko World Cup 2015 en Twitch](https://www.twitch.tv/osulive)
 
 ## Set de Reglas
 
@@ -137,9 +133,9 @@ El país campeón del torneo anterior es ![][flag_JP] **Japón**.
 3. Cada capitán podrá vetar 2 beatmaps para ser seleccionado del sorteo, esos beatmaps no serán elegibles para ningún otro equipo en ninguna partida.
    1. Ambos vetos podrán ser utilizados cuando se requiera.
 4. La selección de beatmaps se alternarará entre cada capitán seleccionado un beatmap fuera del sorteo de mapas.
-5. Cada capitan podrá usar el comando !roll en \#multiplayer.
-   1. El ganador del !roll podrá elegir primero el beatmap de la partida.
-   2. El perdedor del !roll empezará por vetar 1 o 2 beatmaps.
+5. Cada capitan podrá usar el comando `!roll` en `#multiplayer`.
+   1. El ganador del `!roll` podrá elegir primero el beatmap de la partida.
+   2. El perdedor del `!roll` empezará por vetar 1 o 2 beatmaps.
 6. Los capitanes podrán elegir beatmaps de cualquier categoría
    1. En caso de un empate, deberán jugar el beatmap de desempate.
 7. Los resultados serán publicados en el sitio de Estadisticas.
@@ -168,10 +164,10 @@ El país campeón del torneo anterior es ![][flag_JP] **Japón**.
 4. Los horarios serán asignados por los **Administradores del Torneo**, estos serán revelados los domingos antes de las primeras partidas de la fase en curso. Los **Administradores del Torneo** intentarán crear los horarios de acuerdo a los participantes y sus zonas horarias.
 5. Los capitanes son responsables de la disponibilidad de sus equipos. La idea de tener 6 jugadores por equipos es para asegurar que cada equipo pueda tener al menos 3 jugadores por cada partida. Si un equipo no cuenta con 3 jugadores, la partida sera considerada perdida.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
+[flag_ES]: /wiki/shared/flag/ES.gif "España"
+[flag_FR]: /wiki/shared/flag/FR.gif "Francia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japón"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
+[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"

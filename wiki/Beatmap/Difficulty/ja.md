@@ -5,6 +5,7 @@ tags:
   - 星
   - 星評価
   - SR
+outdated: true
 ---
 
 # 難易度
@@ -61,7 +62,7 @@ tags:
 
 ## 星評価
 
-![星の評価範囲](img/SR-range.png)
+![星の評価範囲](/wiki/shared/star-rating/spectrum.png)
 
 ウェブサイト上では、これらの星の評価範囲に基づいて、ビートマップに難易度アイコンが自動的に付与されます:
 

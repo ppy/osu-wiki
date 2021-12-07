@@ -11,7 +11,7 @@ tags:
 
 **気合いタイム**（または*気合い*）とは、[ビートマップ](/wiki/Beatmap)の一部を強調するための「特別な」タイミングセクションに与えられる用語です。プレイヤーは、ビートマップの一部に気合いタイミングセクションがあるかどうかを、背景に追加された視覚効果（例: 点滅するビート、空飛ぶ星、噴水）を見て知ることができます。
 
-気合いが有効な間は、すべての[ヒットオブジェクト](/wiki/Hit_object)が[メインビート](/wiki/Beatmap_Editor/Timing)のリズムで点滅し、[ヒットサークル](/wiki/Hit_object/Hit_circle)をヒットすると、カーソルから星が爆発します。それ以外の場合は、[スライダー](/wiki/Hit_object/Slider)または[スピナー](/wiki/Hit_object/Slider)が追従されたときに、カーソルから落下します。
+気合いが有効な間は、すべての[ヒットオブジェクト](/wiki/Hit_object)が[メインビート](/wiki/Beatmap_Editor/Timing)のリズムで点滅し、[ヒットサークル](/wiki/Hit_object/Hit_circle)をヒットすると、カーソルから星が爆発します。それ以外の場合は、[スライダー](/wiki/Hit_object/Slider)または[スピナー](/wiki/Hit_object/Spinner)が追従されたときに、カーソルから落下します。
 
 ## ビートマッピング
 
@@ -19,6 +19,6 @@ tags:
 
 ## osu!taiko
 
-[osu!taiko](/wiki/Game_Modes/osu!taiko)のビートマップでは、気合いのセクションは20%以上の[スコア](/wiki/Score)を与えます。
+[osu!taiko](/wiki/Game_mode/osu!taiko)のビートマップでは、気合いのセクションは20%以上の[スコア](/wiki/Score)を与えます。
 
 <!-- TODO: Add links -->

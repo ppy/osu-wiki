@@ -32,9 +32,9 @@ The **osu! Indonesia Tournament #11 (2021)** (***OIT 2021***) was an Indonesian 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, 4 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool, 2 months of osu!supporter |
 
-![Profile badge](img/badge.jpg)
+![](img/badge.jpg "OIT 2021 winner badge")
 
-## Organization
+## Organisation
 
 OIT 2021 was run by various osu! community members predominantly hailing from Indonesia.
 
@@ -52,11 +52,11 @@ OIT 2021 was run by various osu! community members predominantly hailing from In
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1R7y585_PIb5XrFvDQk-rlI0vSlr2FyGkhCmPzorNhuU/edit#gid=1680086225 "Google Sheets")**
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1R7y585_PIb5XrFvDQk-rlI0vSlr2FyGkhCmPzorNhuU/edit#gid=1680086225)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1215072)
-- [Discord server](https://discordapp.com/invite/CHRFffH "Discord")
-- [Livestream channel](https://www.twitch.tv/osuindonesia "Twitch")
-- [Challonge brackets](https://challonge.com/OIT2021 "Challonge")
+- [Discord server](https://discordapp.com/invite/CHRFffH)
+- [Livestream channel](https://www.twitch.tv/osuindonesia)
+- [Challonge brackets](https://challonge.com/OIT2021)
 
 ## Participants
 
@@ -101,7 +101,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ## Podium
 
-![Champion: rho, 2nd place: Skydiver, 3rd place: Crezz](img/podium.jpg)
+![](img/podium.jpg "OIT 2021 podium")
 
 ## Mappools
 
@@ -512,9 +512,9 @@ Wednesday, 24 February 2021:
 10. Lag is not a valid reason to nullify a beatmap.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
-    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from OIT 2021 and/or blacklisted from the future installment(s) of OIT.
-    - Usage of any tools and programs that are against [osu!'s community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu!team at will.
-    - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next installment(s) of OIT regardless of their role in the smurfing accident.
+    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from OIT 2021 and/or blacklisted from the future instalment(s) of OIT.
+    - Usage of any tools and programs that are against [osu!'s community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
+    - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next instalment(s) of OIT regardless of their role in the smurfing accident.
 
 ### Qualifier rules
 

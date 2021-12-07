@@ -1,27 +1,27 @@
 ---
 tags:
-- SOFT3
-- SOFT 3
+  - SOFT3
+  - SOFT 3
 ---
 
 # Springtime Osu!mania Free-for-all Tournament 3
 
-![SOFT3 Banner](img/banner.jpg)
+![SOFT3 banner](img/banner.jpg)
 
 > Third time's the charm!
 
-**SOFT 3**, short for **Springtime Osu!mania Free-for-all Tournament 3**, is a one-on-one, country-independent tournament. As the title indicates, this tournament is for the osu!mania game mode. More specifically, this tournament is an osu!mania 4-key tournament.
+The **Springtime Osu!mania Free-for-all Tournament 3** (***SOFT 3***) was a 1v1 country-independent 4-key osu!mania tournament. It was the third instalment of the Springtime Osu!mania Free-for-all Tournament.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-01-19/2018-02-09 |
+| Registration phase | 2018-01-19/2018-02-09 |
 | Qualifiers | 2018-02-17/2018-02-18 |
-| Playoffs - Week 1 | 2018-02-24/2018-02-25 |
-| Playoffs - Week 2 | 2018-03-03/2018-03-04 |
-| Group Stage - Week 1 | 2018-03-10/2018-03-11 |
-| Group Stage - Week 2 | 2018-03-17/2018-03-18 |
+| Playoffs week 1 | 2018-02-24/2018-02-25 |
+| Playoffs week 2 | 2018-03-03/2018-03-04 |
+| Group stage week 1 | 2018-03-10/2018-03-11 |
+| Group stage week 2 | 2018-03-17/2018-03-18 |
 | Round of 32 | 2018-03-24/2018-03-25 |
 | Round of 16 | 2018-03-31/2018-04-01 |
 | Quarterfinals | 2018-04-07/2018-04-08 |
@@ -33,19 +33,19 @@ tags:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge and 9 months of osu!supporter |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 9 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
 
-![SOFT3 Badge](img/badge.png "SOFT3 Winner Badge")
+![](img/badge.png "SOFT3 winner badge")
 
-## Organization
+## Organisation
 
 | Position | Member |
 | :-- | :-- |
 | Host | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Coordinator | ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
-| Map Selector | ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
+| Mappool selector | ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
 | Referee | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_US] [Ciel](https://osu.ppy.sh/users/1455309), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_FR] [Mathisca](https://osu.ppy.sh/users/2227462), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Streamer | ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SE] [laughingcomet](https://osu.ppy.sh/users/3432877), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939), ![][flag_RU] [Willjoy](https://osu.ppy.sh/users/2484373) |
 | Commentator | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [Knif3rism](https://osu.ppy.sh/users/4145830), ![][flag_SE] [laughingcomet](https://osu.ppy.sh/users/3432877), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811) |
@@ -54,13 +54,11 @@ tags:
 
 ## Links
 
-- [Discussion Thread](https://osu.ppy.sh/community/forums/posts/6449304)
+- [Discussion thread](https://osu.ppy.sh/community/forums/posts/6449304)
 - [Livestream](https://www.twitch.tv/osusoft)
 - [Challonge](https://challonge.com/SOFT3r)
 
 ## Participants
-
-### Qualified Participants
 
 | Seed | Users |
 | :-- | :-- |
@@ -69,7 +67,7 @@ tags:
 | Low (#33 - #96) | ![][flag_BE] [yetified](https://osu.ppy.sh/users/6914714), ![][flag_FR] [Elementaires](https://osu.ppy.sh/users/2284328), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750), ![][flag_TH] [floodlord](https://osu.ppy.sh/users/2772110), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [joseee-](https://osu.ppy.sh/users/10083439), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_CA] [CommandoBlack](https://osu.ppy.sh/users/7025841), ![][flag_CN] [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215), ![][flag_JP] [sleetgirl](https://osu.ppy.sh/users/10745260), ![][flag_TH] [- \[ Yuki \] -](https://osu.ppy.sh/users/7440728), ![][flag_FR] [Cunu](https://osu.ppy.sh/users/7190228), ![][flag_JP] [AMDuskia1996](https://osu.ppy.sh/users/10242062), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_CN] [pikechu](https://osu.ppy.sh/users/6511662), ![][flag_US] [dhn](https://osu.ppy.sh/users/8987388), ![][flag_DE] [LastExceed](https://osu.ppy.sh/users/6232245), ![][flag_US] [Neuro-](https://osu.ppy.sh/users/7687954), ![][flag_US] [2dw](https://osu.ppy.sh/users/9331760), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_FI] [-Oreo-](https://osu.ppy.sh/users/5099222), ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293), ![][flag_TH] [Phoenix530](https://osu.ppy.sh/users/9633611), ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363), ![][flag_PL] [Cyan\_Star](https://osu.ppy.sh/users/8679184), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_CA] [Kengy](https://osu.ppy.sh/users/8864630), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PL] [Hlimak](https://osu.ppy.sh/users/1340272), ![][flag_FR] [Koiidex](https://osu.ppy.sh/users/5193488), ![][flag_US] [Psychodic](https://osu.ppy.sh/users/4380139), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_CA] [arpia97](https://osu.ppy.sh/users/6363008), ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_ES] [Userbacker](https://osu.ppy.sh/users/1872307), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108), ![][flag_MY] [\[Xiiao\]Ray](https://osu.ppy.sh/users/8287005), ![][flag_MY] [Kaname-san92](https://osu.ppy.sh/users/764535), ![][flag_GB] [lazer09909](https://osu.ppy.sh/users/6222691), ![][flag_PH] [nyx-](https://osu.ppy.sh/users/9883834), ![][flag_TH] [TheNewBungping](https://osu.ppy.sh/users/6291395), ![][flag_PL] [Nick Wilde](https://osu.ppy.sh/users/8902097), ![][flag_ID] [Lafreniere](https://osu.ppy.sh/users/4247722), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_MY] [never214](https://osu.ppy.sh/users/11332742), ![][flag_SE] [YoShiZoRi](https://osu.ppy.sh/users/5045509), ![][flag_FI] [princesswell](https://osu.ppy.sh/users/4789005), ![][flag_TH] [SharpKunG1412](https://osu.ppy.sh/users/6535376), ![][flag_AU] [AngeLItchysick](https://osu.ppy.sh/users/9527845), ![][flag_SE] [Craty](https://osu.ppy.sh/users/3918056), ![][flag_AU] [-Xenovia-](https://osu.ppy.sh/users/5259743), ![][flag_FR] [\_dk](https://osu.ppy.sh/users/4592369), ![][flag_PL] [ArchGMSati](https://osu.ppy.sh/users/5508623), ![][flag_NL] [2fast4you98](https://osu.ppy.sh/users/5183940), ![][flag_BR] [Zergh](https://osu.ppy.sh/users/3181281), ![][flag_AR] [Fisk-](https://osu.ppy.sh/users/5748843), ![][flag_US] [afrono](https://osu.ppy.sh/users/1320102), ![][flag_GB] [SleepyDarkrai](https://osu.ppy.sh/users/5063207), ![][flag_PH] [TheArge](https://osu.ppy.sh/users/9919550), ![][flag_ZA] [Cyrosu](https://osu.ppy.sh/users/7748432) |
 | Bottom (#97 - #128) | ![][flag_PL] [Moskas](https://osu.ppy.sh/users/1934077), ![][flag_MX] [Daybreak](https://osu.ppy.sh/users/3072763), ![][flag_DK] [tailsdk](https://osu.ppy.sh/users/6751666), ![][flag_PL] [Kroly-](https://osu.ppy.sh/users/6382502), ![][flag_ID] [lombit](https://osu.ppy.sh/users/5114499), ![][flag_PH] [bananacake304](https://osu.ppy.sh/users/3741704), ![][flag_AR] [repoz](https://osu.ppy.sh/users/6719880), ![][flag_BR] [Shedin](https://osu.ppy.sh/users/4794096), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_BE] [Akeyro](https://osu.ppy.sh/users/1933624), ![][flag_ID] [twistedclever](https://osu.ppy.sh/users/10034605), ![][flag_AU] [Framps](https://osu.ppy.sh/users/3580643), ![][flag_PH] [\_Shirayukihime\_](https://osu.ppy.sh/users/875341), ![][flag_GB] [BlankPxl](https://osu.ppy.sh/users/5248545), ![][flag_GB] [Natty2708](https://osu.ppy.sh/users/9360317), ![][flag_PL] [Kruppol](https://osu.ppy.sh/users/2353894), ![][flag_CL] [Matiias](https://osu.ppy.sh/users/3215366), ![][flag_IT] [Enjoy-](https://osu.ppy.sh/users/9192514), ![][flag_AR] [BubShish](https://osu.ppy.sh/users/6751666), ![][flag_US] [Fizzy](https://osu.ppy.sh/users/6805802), ![][flag_CA] [loafusofbread](https://osu.ppy.sh/users/9278959), ![][flag_GB] [loopyloo](https://osu.ppy.sh/users/6562873), ![][flag_BR] [StartMetal](https://osu.ppy.sh/users/7806505), ![][flag_DE] [Kaionacho](https://osu.ppy.sh/users/4680653), ![][flag_AU] [Spartan-](https://osu.ppy.sh/users/2145124), ![][flag_PH] [Mentai Cosmic](https://osu.ppy.sh/users/6908508), ![][flag_PL] [Brunosky](https://osu.ppy.sh/users/1639587), ![][flag_ES] [Nyanpasuuu](https://osu.ppy.sh/users/5442427), ![][flag_PH] [Kaleiodo](https://osu.ppy.sh/users/4657592), ![][flag_IT] [Tantuz](https://osu.ppy.sh/users/7794657), ![][flag_AR] [JotaCe](https://osu.ppy.sh/users/4502231), ![][flag_PL] [jasionnn](https://osu.ppy.sh/users/6886081) |
 
-### Groups
+## Groups
 
 | Group | Top | High | Low | Bottom |
 | :-: | :-- | :-- | :-- | :-- |
@@ -90,19 +88,15 @@ tags:
 | **O** | ![][flag_PL] SitekX | ![][flag_BE] NightNarumi | ![][flag_US] 2dw | ![][flag_AU] AngeLItchysick |
 | **P** | ![][flag_US] -Electro- | ![][flag_JP] 3KO3 | ![][flag_TH] floodlord | ![][flag_CA] arpia97 |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_BR] [**Lothus**](https://osu.ppy.sh/users/9530019) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] [**inteliser**](https://osu.ppy.sh/users/1824775) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [**TheToaphster**](https://osu.ppy.sh/users/7616811) |
-
----
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] [inteliser](https://osu.ppy.sh/users/1824775) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811) |
 
 ## Mappools
 
@@ -111,236 +105,254 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (125 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAPAfhKpXBiJRWPIIXq1jPIa/Grandfinals.rar?dl=0)**
 
 - FreeMod
-  - [Nero's Day at Disneyland - Beautiful Beachfront Properties (Guilhermeziat) \[Beginner\]](https://osu.ppy.sh/beatmaps/1300054)
-  - [Shiraishi - Murderous True Millennium Queen (Gekido-) \[retsaM NL eurT\]](https://osu.ppy.sh/beatmaps/1617005)
-  - [trapman featuring CreeperWorks - minefield surfing (Kamikaze) \[UJ's 4K SPEEDTRAP\]](https://osu.ppy.sh/beatmaps/1564558)
-  - [Camellia - Tornado (inteliser) \[Devastation\]](https://osu.ppy.sh/beatmaps/1305297)
-  - [LeaF - Shitsubou Choco (arcwinolivirus) \[4K LN 'Imperial Chocolate'\]](https://osu.ppy.sh/beatmaps/1273424)
-  - [PolyphonicBranch feat. un:c & Lon - C158H251N39O46S (beta-endorphin) (Guilhermeziat) \[Skwid's Challenge\]](https://osu.ppy.sh/beatmaps/1617006)
-  - [KikuoHana - Hibi Darake No Me (Gekido-) \[Stabbing\]](https://osu.ppy.sh/beatmaps/1576294)
-  - [Necrosy - Drown Into Perdition (Gekido-) \[hi19hi19's Challenge\]](https://osu.ppy.sh/beatmaps/1617001)
-  - [fripSide - infinite synthesis (\_underjoy) \[LN UNIVERSE\]](https://osu.ppy.sh/beatmaps/1586625)
-  - [YZYX - Dysnomia(ShortVer.) (TheToaphster) \[Oblivion\]](https://osu.ppy.sh/beatmaps/1615634)
-  - [Bring Me The Horizon - Can You Feel My Heart (Guilhermeziat) \[Anguish\]](https://osu.ppy.sh/beatmaps/1566116)
-  - [ck - Carnation (ck remix) (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmaps/1579095)
-  - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyo Kotsu ni Itaru (Guilhermeziat) \[Evening's Till November Night\]](https://osu.ppy.sh/beatmaps/1616971)
-  - [Rephaim - Lament Configuration (LovelySerenade) \[ex.press(ion)\]](https://osu.ppy.sh/beatmaps/1513593)
-  - [gems - Gems pack 13 - LN Master 5th (gemboyong) \[69 :^ - Randy Mortimer, Penguin (Pinnacle Remix)\]](https://osu.ppy.sh/beatmaps/1239928)
+  - [Nero's Day at Disneyland - Beautiful Beachfront Properties (Guilhermeziat) \[Beginner\]](https://osu.ppy.sh/beatmapsets/616437#mania/1300054)
+  - [Shiraishi - Murderous True Millennium Queen (Gekido-) \[retsaM NL eurT\]](https://osu.ppy.sh/beatmapsets/768950#mania/1617005)
+  - trapman featuring CreeperWorks - minefield surfing (Kamikaze) \[UJ's 4K SPEEDTRAP\]
+  - [Camellia - Tornado (inteliser) \[Devastation\]](https://osu.ppy.sh/beatmapsets/619276#mania/1305297)
+  - [LeaF - Shitsubou Choco (arcwinolivirus) \[4K LN 'Imperial Chocolate'\]](https://osu.ppy.sh/beatmapsets/602887#mania/1273424)
+  - [PolyphonicBranch feat. un:c & Lon - C158H251N39O46S (beta-endorphin) (Guilhermeziat) \[Skwid's Challenge\]](https://osu.ppy.sh/beatmapsets/768951#mania/1617006)
+  - [KikuoHana - Hibi Darake No Me (Gekido-) \[Stabbing\]](https://osu.ppy.sh/beatmapsets/748212#mania/1576294)
+  - Necrosy - Drown Into Perdition (Gekido-) \[hi19hi19's Challenge\]
+  - [fripSide - infinite synthesis (\_underjoy) \[LN UNIVERSE\]](https://osu.ppy.sh/beatmapsets/738325#mania/1586625)
+  - [YZYX - Dysnomia(ShortVer.) (TheToaphster) \[Oblivion\]](https://osu.ppy.sh/beatmapsets/768221#mania/1615634)
+  - [Bring Me The Horizon - Can You Feel My Heart (Guilhermeziat) \[Anguish\]](https://osu.ppy.sh/beatmapsets/742531#mania/1566116)
+  - [ck - Carnation (ck remix) (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/749709#mania/1579095)
+  - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyo Kotsu ni Itaru (Guilhermeziat) \[Evening's Till November Night\]](https://osu.ppy.sh/beatmapsets/768927#mania/1616971)
+  - [Rephaim - Lament Configuration (LovelySerenade) \[ex.press(ion)\]](https://osu.ppy.sh/beatmapsets/716424#mania/1513593)
+  - [gems - Gems pack 13 - LN Master 5th (gemboyong) \[69 :^ - Randy Mortimer, Penguin (Pinnacle Remix)\]](https://osu.ppy.sh/beatmapsets/555819#mania/1239928)
 - Tiebreaker
-  - [Camellia - Furry Cannon (Curiossity) \[FINAL SVCRIFICE\]](https://osu.ppy.sh/beatmaps/1470192)
+  - **[Camellia - Furry Cannon (Curiossity) \[FINAL SVCRIFICE\]](https://osu.ppy.sh/beatmapsets/677321#mania/1470192)**
 
 ### Finals
 
-**[Download the mappack here! (84.3 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADyoM4bgPBL4bCe5uhs0ceya/Finals.rar?dl=0)**
+**[Download the mappack here! (84 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADyoM4bgPBL4bCe5uhs0ceya/Finals.rar?dl=0)**
 
 - FreeMod
-  - [SHK.o2SE - Death Moon (Guilhermeziat) \[Dawn of The Final Day\]](https://osu.ppy.sh/beatmaps/1412004)
-  - [Kano - Uchouten Vivace (Trixta) \[Extatic Vivace!\]](https://osu.ppy.sh/beatmaps/1502863)
-  - [DJ CHUCKY - Abyss Of The Darkness (AutotelicBrown) \[Ayumu's abyss\]](https://osu.ppy.sh/beatmaps/1393350)
-  - [Dan Terminus - Margaritifer (XeoStyle) \[Phobos\]](https://osu.ppy.sh/beatmaps/1574526)
-  - [Toromaru - Enigma (TheToaphster) \[Maestro\]](https://osu.ppy.sh/beatmaps/1360128)
-  - [Amane - Dodger's Gadget (UNMIXED) (inteliser) \[Catastrophy \[LN\]\]](https://osu.ppy.sh/beatmaps/1536202)
-  - [Camellia - ANOMALY (Couil) \[deviation\]](https://osu.ppy.sh/beatmaps/1343180)
-  - [Camellia - Proluvies (TheToaphster) \[SVecial\]](https://osu.ppy.sh/beatmaps/1511192)
-  - [LeaF - Lyrith (Vortex-) \[Amnesia\]](https://osu.ppy.sh/beatmaps/1463532)
-  - [DJ SHARPNEL - COCORO (Mina) \[Beginner\]](https://osu.ppy.sh/beatmaps/1607985)
-  - [Sota Fujimori - Move That Body -Extended Mix- (juankristal) \[Dance\]](https://osu.ppy.sh/beatmaps/1609983)
-  - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Halogen-) \[Extreme\]](https://osu.ppy.sh/beatmaps/1449017)
-  - [Susumu Hirasawa - Big Brother (Wh1teh) \[Challenge\]](https://osu.ppy.sh/beatmaps/1065834)
-  - [Chroma - I (Guilhermeziat) \[You\]](https://osu.ppy.sh/beatmaps/1592359)
-  - [Zef - Gambit (Gekido-) \[8-Bit Insanity\]](https://osu.ppy.sh/beatmaps/1552957)
+  - [SHK.o2SE - Death Moon (Guilhermeziat) \[Dawn of The Final Day\]](https://osu.ppy.sh/beatmapsets/667301#mania/1412004)
+  - Kano - Uchouten Vivace (Trixta) \[Extatic Vivace!\]
+  - [DJ CHUCKY - Abyss Of The Darkness (AutotelicBrown) \[Ayumu's abyss\]](https://osu.ppy.sh/beatmapsets/657834#mania/1393350)
+  - [Dan Terminus - Margaritifer (XeoStyle) \[Phobos\]](https://osu.ppy.sh/beatmapsets/747211#mania/1574526)
+  - [Toromaru - Enigma (TheToaphster) \[Maestro\]](https://osu.ppy.sh/beatmapsets/641435#mania/1360128)
+  - [Amane - Dodger's Gadget (UNMIXED) (inteliser) \[Catastrophy \[LN\]\]](https://osu.ppy.sh/beatmapsets/727666#mania/1536202)
+  - [Camellia - ANOMALY (Couil) \[deviation\]](https://osu.ppy.sh/beatmapsets/599446#mania/1343180)
+  - [Camellia - Proluvies (TheToaphster) \[SVecial\]](https://osu.ppy.sh/beatmapsets/715240#mania/1511192)
+  - [LeaF - Lyrith (Vortex-) \[Amnesia\]](https://osu.ppy.sh/beatmapsets/687280#mania/1463532)
+  - [DJ SHARPNEL - COCORO (Mina) \[Beginner\]](https://osu.ppy.sh/beatmapsets/764718#mania/1607985)
+  - [Sota Fujimori - Move That Body -Extended Mix- (juankristal) \[Dance\]](https://osu.ppy.sh/beatmapsets/765772#mania/1609983)
+  - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Halogen-) \[Extreme\]](https://osu.ppy.sh/beatmapsets/684675#mania/1449017)
+  - [Susumu Hirasawa - Big Brother (Wh1teh) \[Challenge\]](https://osu.ppy.sh/beatmapsets/500824#mania/1065834)
+  - [Chroma - I (Guilhermeziat) \[You\]](https://osu.ppy.sh/beatmapsets/756806#mania/1592359)
+  - [Zef - Gambit (Gekido-) \[8-Bit Insanity\]](https://osu.ppy.sh/beatmapsets/735762#mania/1552957)
 - Tiebreaker
-  - [Camellia - GHOST (Gekido-) \[Inconspicuous\]](https://osu.ppy.sh/beatmaps/1563688)
+  - **[Camellia - GHOST (Gekido-) \[Inconspicuous\]](https://osu.ppy.sh/beatmapsets/741292#mania/1563688)**
 
 ### Semifinals
 
-**[Download the mappack here! (74.7 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADa3loIKUhzbbVUaFB7f2lUa/Semifinals.rar?dl=0)**
+**[Download the mappack here! (75 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADa3loIKUhzbbVUaFB7f2lUa/Semifinals.rar?dl=0)**
 
 - FreeMod
-  - [Bibi - Cutie Panther (Momora EUROBEAT Remix) \[Challenge\]](https://osu.ppy.sh/beatmaps/1600467)
-  - [Dillinja and Skibadee vs. Damian Marley - Twist 'Em Out vs. Welcome to Jamrock (Anorable) \[they call it murder\]](https://osu.ppy.sh/beatmaps/1548467)
-  - [Masakariushi - Blinded By Light (Elekton) [revealed by dark]](https://osu.ppy.sh/beatmaps/1357722)
-  - [puru - Toki (maidable remix) (Shoegazer) \[Eternal\]](https://osu.ppy.sh/beatmaps/1454026)
-  - [Function Phantom - Euclid (juankristal) \[Collab\]](https://osu.ppy.sh/beatmaps/1393891)
-  - [Laur - KILL KILL KILL KILL KILL (Valedict) \[QUINTUPLE HOMICIDE\]](https://osu.ppy.sh/beatmaps/1258153)
-  - [polysha - The Golden Era (inteliser) \[OVERFLOW \[LN\]\]](https://osu.ppy.sh/beatmaps/1523992)
-  - [Camellia - Routing (TheToaphster) \[Timeless Journey\]](https://osu.ppy.sh/beatmaps/1504680)
-  - [amarazashi - Sora ni Utaeba (Gekido-) \[Go Beyond!\]](https://osu.ppy.sh/beatmaps/1590880)
-  - [The Algorithm - floating point (Drumcorps Remix) (Shoegazer) \[Incomputable\]](https://osu.ppy.sh/beatmaps/1479277)
-  - [DJ Noriken - #MAGiCVLGiRL\_TRV\P_B3VTZ (Zyph) \[GVIL'Z\_LNZ\]](https://osu.ppy.sh/beatmaps/1565515)
-  - [Max Dragon - OMEGA (Guilhermeziat) \[Terminal\]](https://osu.ppy.sh/beatmaps/1599981)
-  - [Gram VS Camellia - Ragnarok (Curiossity) \[Ragnarok\]](https://osu.ppy.sh/beatmaps/1477205)
+  - [Bibi - Cutie Panther (Momora EUROBEAT Remix) (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/761066#mania/1600467)
+  - [Dillinja and Skibadee vs. Damian Marley - Twist 'Em Out vs. Welcome to Jamrock (Anorable) \[they call it murder\]](https://osu.ppy.sh/beatmapsets/733758#mania/1548467)
+  - [Masakariushi - Blinded By Light (Elekton) [revealed by dark]](https://osu.ppy.sh/beatmapsets/640240#mania/1357722)
+  - [puru - Toki (maidable remix) (Shoegazer) \[Eternal\]](https://osu.ppy.sh/beatmapsets/687108#mania/1454026)
+  - [Function Phantom - Euclid (juankristal) \[Collab\]](https://osu.ppy.sh/beatmapsets/658097#mania/1393891)
+  - [Laur - KILL KILL KILL KILL KILL (Valedict) \[QUINTUPLE HOMICIDE\]](https://osu.ppy.sh/beatmapsets/594896#mania/1258153)
+  - [polysha - The Golden Era (inteliser) \[OVERFLOW \[LN\]\]](https://osu.ppy.sh/beatmapsets/721748#mania/1523992)
+  - [Camellia - Routing (TheToaphster) \[Timeless Journey\]](https://osu.ppy.sh/beatmapsets/711676#mania/1504680)
+  - [amarazashi - Sora ni Utaeba (Gekido-) \[Go Beyond!\]](https://osu.ppy.sh/beatmapsets/755890#mania/1590880)
+  - [The Algorithm - floating point (Drumcorps Remix) (Shoegazer) \[Incomputable\]](https://osu.ppy.sh/beatmapsets/698440#mania/1479277)
+  - [DJ Noriken - #MAGiCVLGiRL\_TRV\P_B3VTZ (Zyph) \[GVIL'Z\_LNZ\]](https://osu.ppy.sh/beatmapsets/742179#mania/1565515)
+  - [Max Dragon - OMEGA (Guilhermeziat) \[Terminal\]](https://osu.ppy.sh/beatmapsets/760828#mania/1599981)
+  - [Gram VS Camellia - Ragnarok (Curiossity) \[Ragnarok\]](https://osu.ppy.sh/beatmapsets/694040#mania/1477205)
 - Tiebreaker
-  - [orangentle - HAELEQUIN -the faith of truth- (\_underjoy) \[Shattered Personality\]](https://osu.ppy.sh/beatmaps/1512722)
+  - **[orangentle - HAELEQUIN -the faith of truth- (\_underjoy) \[Shattered Personality\]](https://osu.ppy.sh/beatmapsets/715933#mania/1512722)**
 
 ### Quarterfinals
 
-**[Download the mappack here! (82.24 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAATLn_JRzPt4WtY1AF4zaYMa/QuarterFinals.rar?dl=0)**
+**[Download the mappack here! (82 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAATLn_JRzPt4WtY1AF4zaYMa/QuarterFinals.rar?dl=0)**
 
 - FreeMod
-  - [Scatman John - Scatman (Gekido-) \[It's a Scooby Dooby Melody\]](https://osu.ppy.sh/beatmaps/1574468)
-  - [UNDEAD CORPORATION - Everything Will Freeze (Shoegazer) \[Calamity\]](https://osu.ppy.sh/beatmaps/1538017)
-  - [C-Show - On the FM (Raspberriel) \[107.1 MHz\]](https://osu.ppy.sh/beatmaps/1475857)
-  - [Jeff Allen ft. Noelle LeBlanc and Naoko Takamoto - Recession (Razzy) \[Peel Back the Cover\]](https://osu.ppy.sh/beatmaps/1595289)
-  - [U-F SEQUENCER - -273.15 FREEZING MAELSTROM -Rei- (Elekton) \[cryo\]](https://osu.ppy.sh/beatmaps/1572067)
-  - [OSTER project - EBONY & IVORY (Vortex-) \[Cute Things\]](https://osu.ppy.sh/beatmaps/1515312)
-  - [Pyramyth - Dolphin Talk (TheToaphster) \[Echoes\]](https://osu.ppy.sh/beatmaps/1516908)
-  - [EZFG - Glucagon (Wh1teh) \[!!\]](https://osu.ppy.sh/beatmaps/1588213)
-  - [wa. - Cerenkov Radiation (Elekton) \[fluorescent\]](https://osu.ppy.sh/beatmaps/1553587)
-  - [tarolabo X Gatsu Shizuku Rouman Eizou Seisaku Kurabu - Chikyuu Tou Devo^shon (Tidek) \[Final Tower\]](https://osu.ppy.sh/beatmaps/1413635)
-  - [Hommarju - Rock It (Mage) \[aLNother\]](https://osu.ppy.sh/beatmaps/1532410)
-  - [sakuraburst - anticrystal (Couil) \[dusk\]](https://osu.ppy.sh/beatmaps/1301433)
-  - [The Ghost of 3.13 - She's Haunting Me (Shoegazer) \[Revenant\]](https://osu.ppy.sh/beatmaps/1068479)
+  - [Scatman John - Scatman (Gekido-) \[It's a Scooby Dooby Melody\]](https://osu.ppy.sh/beatmapsets/747176#mania/1574468)
+  - [UNDEAD CORPORATION - Everything Will Freeze (Shoegazer) \[Calamity\]](https://osu.ppy.sh/beatmapsets/728496#mania/1538017)
+  - [C-Show - On the FM (Raspberriel) \[107.1 MHz\]](https://osu.ppy.sh/beatmapsets/696787#mania/1475857)
+  - [Jeff Allen ft. Noelle LeBlanc and Naoko Takamoto - Recession (Razzy) \[Peel Back the Cover\]](https://osu.ppy.sh/beatmapsets/758418#mania/1595289)
+  - [U-F SEQUENCER - -273.15 FREEZING MAELSTROM -Rei- (Elekton) \[cryo\]](https://osu.ppy.sh/beatmapsets/745749#mania/1572067)
+  - [OSTER project - EBONY & IVORY (Vortex-) \[Cute Things\]](https://osu.ppy.sh/beatmapsets/717215#mania/1515312)
+  - [Pyramyth - Dolphin Talk (TheToaphster) \[Echoes\]](https://osu.ppy.sh/beatmapsets/718149#mania/1516908)
+  - [EZFG - Glucagon (Wh1teh) \[!!\]](https://osu.ppy.sh/beatmapsets/754350#mania/1588213)
+  - [wa. - Cerenkov Radiation (Elekton) \[fluorescent\]](https://osu.ppy.sh/beatmapsets/736101#mania/1553587)
+  - [tarolabo X Gatsu Shizuku Rouman Eizou Seisaku Kurabu - Chikyuu Tou Devo^shon (Tidek) \[Final Tower\]](https://osu.ppy.sh/beatmapsets/668154#mania/1413635)
+  - [Hommarju - Rock It (Mage) \[aLNother\]](https://osu.ppy.sh/beatmapsets/725793#mania/1532410)
+  - sakuraburst - anticrystal (Couil) \[dusk\]
+  - [The Ghost of 3.13 - She's Haunting Me (Shoegazer) \[Revenant\]](https://osu.ppy.sh/beatmapsets/502043#mania/1068479)
 - Tiebreaker
-  - [Ruby My Dear - Dreaming Tree (Chrubble) \[Lucid\]](https://osu.ppy.sh/beatmaps/1564113)
+  - **[Ruby My Dear - Dreaming Tree (Chrubble) \[Lucid\]](https://osu.ppy.sh/beatmapsets/741398#mania/1564113)**
 
 ### Round of 16
 
-**[Download the mappack here! (61.21 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAOdenGUahjytRNtGp2a7A0a/Ro16.rar?dl=0)**
+**[Download the mappack here! (61 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAOdenGUahjytRNtGp2a7A0a/Ro16.rar?dl=0)**
 
 - FreeMod
-  - [fartwad - Stereo Sayan 3D (Valedict) \[hi19hi19's Hard\]](https://osu.ppy.sh/beatmaps/1584871)
-  - [Vertical Gizmo - Nigro (Xay) \[Choof's 4k\]](https://osu.ppy.sh/beatmaps/928093)
-  - [Nobuo Uematsu - Someday the Dream Will End (Halogen-) \[Final Farewell\]](https://osu.ppy.sh/beatmaps/1274762)
-  - [Suimega - 365 UNITED STARS (Xay) \[Xay's 4K\]](https://osu.ppy.sh/beatmaps/1241644)
-  - [Assertive Fluttershy - Sorairo Days (IcyWorld) \[Hard\]](https://osu.ppy.sh/beatmaps/1562379)
-  - [Morimori Atsushi - MilK (Raveille) \[MiLN\]](https://osu.ppy.sh/beatmaps/1526104)
-  - [Hammer Switch - Lots of Spices (Couil) \[SV Challenge\]](https://osu.ppy.sh/beatmaps/1485544)
-  - [MYUKKE. - Shera (PiraTom) \[VERMILION\]](https://osu.ppy.sh/beatmaps/1498129)
-  - [Mili - Imagined Flight (juankristal) \[Missing Piece\]](https://osu.ppy.sh/beatmaps/1426009)
-  - [ZUN arr.Myon - Plastic Mind (Kuo Kyoka) \[snover's Phantasm\]](https://osu.ppy.sh/beatmaps/795044)
-  - [ZUN remix by 44teru-k - Harutoman no Youkai Shoujo~VirusV (Wh1teh) \[k\]](https://osu.ppy.sh/beatmaps/1126369)
+  - fartwad - Stereo Sayan 3D (Valedict) \[hi19hi19's Hard\]
+  - [Vertical Gizmo - Nigro (Xay) \[Choof's 4k\]](https://osu.ppy.sh/beatmapsets/430223#mania/928093)
+  - Nobuo Uematsu - Someday the Dream Will End (Halogen-) \[Final Farewell\]
+  - [Suimega - 365 UNITED STARS (Xay) \[Xay's 4K\]](https://osu.ppy.sh/beatmapsets/586255#mania/1241644)
+  - [Assertive Fluttershy - Sorairo Days (IcyWorld) \[Hard\]](https://osu.ppy.sh/beatmapsets/740579#mania/1562379)
+  - [Morimori Atsushi - MilK (Raveille) \[MiLN\]](https://osu.ppy.sh/beatmapsets/722950#mania/1526104)
+  - [Hammer Switch - Lots of Spices (Couil) \[SV Challenge\]](https://osu.ppy.sh/beatmapsets/702050#mania/1485544)
+  - [MYUKKE. - Shera (PiraTom) \[VERMILION\]](https://osu.ppy.sh/beatmapsets/708675#mania/1498129)
+  - [Mili - Imagined Flight (juankristal) \[Missing Piece\]](https://osu.ppy.sh/beatmapsets/673864#mania/1426009)
+  - [ZUN arr.Myon - Plastic Mind (Kuo Kyoka) \[snover's Phantasm\]](https://osu.ppy.sh/beatmapsets/361936#mania/795044)
+  - [ZUN remix by 44teru-k - Harutoman no Youkai Shoujo~VirusV (Wh1teh) \[k\]](https://osu.ppy.sh/beatmapsets/531514#mania/1126369)
 - Tiebreaker
-  - [Helblinde - The Solace of Oblivion (lombit) \[Oblivion\]](https://osu.ppy.sh/beatmaps/1260592)
+  - **[Helblinde - The Solace of Oblivion (lombit) \[Oblivion\]](https://osu.ppy.sh/beatmapsets/596105#mania/1260592)**
 
 ### Round of 32
 
-**[Download the mappack here! (55.36 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAC1qfzoU4i38kdf3ckn6YGpa/Ro32.rar?dl=0)**
+**[Download the mappack here! (55 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAC1qfzoU4i38kdf3ckn6YGpa/Ro32.rar?dl=0)**
 
 - FreeMod
-  - [Sir.Vixx - Whore (Xay) \[Insane\]](https://osu.ppy.sh/beatmaps/1240925)
-  - [Girls' Generation - Gee (Couil) \[Easy LNs\]](https://osu.ppy.sh/beatmaps/1557379)
-  - [senya - Tsuzurenu Mori no Shoujo (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmaps/1489611)
-  - [Kozato - 45nen no Yukizakura (Amayukki) \[\_UJ's Sakura\]](https://osu.ppy.sh/beatmaps/820516)
-  - [goreshit - o'er the flood (Shoegazer) \[deluge\]](https://osu.ppy.sh/beatmaps/1552320)
-  - [Porter Robinson - Natural Light (SitekX) \[Diffraction\]](https://osu.ppy.sh/beatmaps/1222575)
-  - [cYsmix - Arcade Busters (Raveille) \[Number Busting\]](https://osu.ppy.sh/beatmaps/1460752)
-  - [U1 overground - Dopamine (Abraxos) \[(11b)-11,17,21-trihydroxypregn-4-ene-3,20-dione\]](https://osu.ppy.sh/beatmaps/1305530)
-  - [encX - One Day (Lenfried-) \[4K SV\]](https://osu.ppy.sh/beatmaps/1413835)
-  - [Cardboard Box - Infernoplextratone (pikechu) \[Challenge\]](https://osu.ppy.sh/beatmaps/940381)
-  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (Shoegazer) \[Another\]](https://osu.ppy.sh/beatmaps/1428368)
+  - [Sir.Vixx - Whore (Xay) \[Insane\]](https://osu.ppy.sh/beatmapsets/585874#mania/1240925)
+  - Girls' Generation - Gee (Couil) \[Easy LNs\]
+  - [senya - Tsuzurenu Mori no Shoujo (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/704155#mania/1489611)
+  - [Kozato - 45nen no Yukizakura (Amayukki) \[\_UJ's Sakura\]](https://osu.ppy.sh/beatmapsets/368848#mania/820516)
+  - [goreshit - o'er the flood (Shoegazer) \[deluge\]](https://osu.ppy.sh/beatmapsets/497750#mania/1552320)
+  - [Porter Robinson - Natural Light (SitekX) \[Diffraction\]](https://osu.ppy.sh/beatmapsets/577649#mania/1222575)
+  - [cYsmix - Arcade Busters (Raveille) \[Number Busting\]](https://osu.ppy.sh/beatmapsets/690165#mania/1460752)
+  - [U1 overground - Dopamine (Abraxos) \[(11b)-11,17,21-trihydroxypregn-4-ene-3,20-dione\]](https://osu.ppy.sh/beatmapsets/619376#mania/1305530)
+  - [encX - One Day (Lenfried-) \[4K SV\]](https://osu.ppy.sh/beatmapsets/596525#mania/1413835)
+  - [Cardboard Box - Infernoplextratone (pikechu) \[Challenge\]](https://osu.ppy.sh/beatmapsets/436613#mania/940381)
+  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (Shoegazer) \[Another\]](https://osu.ppy.sh/beatmapsets/675163#mania/1428368)
 - Tiebreaker
-  - [Chroma - Hoshi ga Furanai Machi (Guilhermeziat) \[Shooting Stars\]](https://osu.ppy.sh/beatmaps/1578514)
+  - **[Chroma - Hoshi ga Furanai Machi (Guilhermeziat) \[Shooting Stars\]](https://osu.ppy.sh/beatmapsets/749408#mania/1578514)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (53.63 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AACbZdjtgK67-I3WSYP0O7F4a/Groups.rar?dl=0)**
+**[Download the mappack here! (54 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AACbZdjtgK67-I3WSYP0O7F4a/Groups.rar?dl=0)**
 
 - FreeMod
-  - [Kelly Bailey - Hazardous Environments (Mage) \[Hazard\]](https://osu.ppy.sh/beatmaps/1479480)
-  - [sun3 - ApolloN (bbu2) \[LeiN-'s 4K Hard\]](https://osu.ppy.sh/beatmaps/665599)
-  - [Vospi - Reverence (Side) \[Hard\]](https://osu.ppy.sh/beatmaps/1006357)
-  - [REOL - YoiYoi Kokon (Couil) \[Challenge: EASY\]](https://osu.ppy.sh/beatmaps/1434529)
-  - [So Sus + Konka - Acorn (TheToaphster) \[Hard\]](https://osu.ppy.sh/beatmaps/1540124)
-  - [w_tre - Shannon's Theorem (hi19hi19) \[Medium\]](https://osu.ppy.sh/beatmaps/1556939)
-  - [Sakuraburst - Serotonin (Tantei B) \[Transmission Problem \[SV\]\]](https://osu.ppy.sh/beatmaps/1382422)
-  - [LukHash - GHOST TOWN (SitekX) \[4k Hard\]](https://osu.ppy.sh/beatmaps/1477490)
-  - [Phlogiston - Night Jam (Shoegazer) \[Sleepless\]](https://osu.ppy.sh/beatmaps/1571268)
+  - [Kelly Bailey - Hazardous Environments (Mage) \[Hazard\]](https://osu.ppy.sh/beatmapsets/698562#mania/1479480)
+  - [sun3 - ApolloN (bbu2) \[LeiN-'s 4K Hard\]](https://osu.ppy.sh/beatmapsets/290702#mania/665599)
+  - [Vospi - Reverence (Side) \[Hard\]](https://osu.ppy.sh/beatmapsets/456709#mania/1006357)
+  - [REOL - YoiYoi Kokon (Couil) \[Challenge: EASY\]](https://osu.ppy.sh/beatmapsets/676191#mania/1434529)
+  - [So Sus + Konka - Acorn (TheToaphster) \[Hard\]](https://osu.ppy.sh/beatmapsets/639057#mania/1540124)
+  - w_tre - Shannon's Theorem (hi19hi19) \[Medium\]
+  - [Sakuraburst - Serotonin (Tantei B) \[Transmission Problem \[SV\]\]](https://osu.ppy.sh/beatmapsets/651935#mania/1382422)
+  - [LukHash - GHOST TOWN (SitekX) \[4k Hard\]](https://osu.ppy.sh/beatmapsets/697526#mania/1477490)
+  - [Phlogiston - Night Jam (Shoegazer) \[Sleepless\]](https://osu.ppy.sh/beatmapsets/670141#mania/1571268)
 - Tiebreaker
-  - [KikuoHana - Nobore! Susume! Takai Tou (Kuron-kun) \[Eraser's Minaret\]](https://osu.ppy.sh/beatmaps/1231298)
+  - **[KikuoHana - Nobore! Susume! Takai Tou (Kuron-kun) \[Eraser's Minaret\]](https://osu.ppy.sh/beatmapsets/580273#mania/1231298)**
 
 ### Playoffs
 
-**[Download the mappack here! (68.75 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAFLJyEKc4-51xPvPOMmovCa/Playoffs.rar?dl=0)**
+**[Download the mappack here! (69 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAFLJyEKc4-51xPvPOMmovCa/Playoffs.rar?dl=0)**
 
 - FreeMod
-  - [Team Salvato - Doki Doki Literature Club! (Main Theme) (arcwinolivirus) \[?Harem?\]](https://osu.ppy.sh/beatmaps/1443731)
-  - [Diceros Bicornis - Innocent Tempest (Ichigaki) \[ADVANCED\]](https://osu.ppy.sh/beatmaps/813436)
-  - [Satoshi with Pikachu (CV:Rica Matsumoto/Otani Ikue) - Alola!! (Kuo Kyoka) \[Solgaleo with Lunala / 4K Hard\]](https://osu.ppy.sh/beatmaps/1139998)
-  - [Primary - in the Garden (Mat) \[Julie's 4K Hard\]](https://osu.ppy.sh/beatmaps/1002180)
-  - [Hyper Potions - Friends (Kuo Kyoka) \[Mania / Hard\]](https://osu.ppy.sh/beatmaps/1383719)
-  - [a\_hisa - Sakura Kairou (Tidek) \[Cherry Blossom Corridor\]](https://osu.ppy.sh/beatmaps/1406197)
-  - [Kuroneko dungeon - Dragon and Girl and Decoherence (LeiN-) \[4K HYPER\]](https://osu.ppy.sh/beatmaps/328280)
-  - [Rag'n'Bone Man - Human (Hydria) \[LN\]](https://osu.ppy.sh/beatmaps/1245501)
-  - [Celldweller - Weaponized (Noxus) \[Normal '9mm Pistol'\]](https://osu.ppy.sh/beatmaps/1523952)
+  - [Team Salvato - Doki Doki Literature Club! (Main Theme) (arcwinolivirus) \[?Harem?\]](https://osu.ppy.sh/beatmapsets/682702#mania/1443731)
+  - [Diceros Bicornis - Innocent Tempest (Ichigaki) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/367484#mania/813436)
+  - [Satoshi with Pikachu (CV:Rica Matsumoto/Otani Ikue) - Alola!! (Kuo Kyoka) \[Solgaleo with Lunala / 4K Hard\]](https://osu.ppy.sh/beatmapsets/538085#mania/1139998)
+  - [Primary - in the Garden (Mat) \[Julie's 4K Hard\]](https://osu.ppy.sh/beatmapsets/361117#mania/1002180)
+  - [Hyper Potions - Friends (Kuo Kyoka) \[Mania / Hard\]](https://osu.ppy.sh/beatmapsets/652582#mania/1383719)
+  - [a\_hisa - Sakura Kairou (Tidek) \[Cherry Blossom Corridor\]](https://osu.ppy.sh/beatmapsets/664379#mania/1406197)
+  - [Kuroneko dungeon - Dragon and Girl and Decoherence (LeiN-) \[4K HYPER\]](https://osu.ppy.sh/beatmapsets/115746#mania/328280)
+  - [Rag'n'Bone Man - Human (Hydria) \[LN\]](https://osu.ppy.sh/beatmapsets/588277#mania/1245501)
+  - [Celldweller - Weaponized (Noxus) \[Normal '9mm Pistol'\]](https://osu.ppy.sh/beatmapsets/721716#mania/1523952)
 - Tiebreaker
-  - [F-777 - Airborne Robots (Curiossity) \[MX\]](https://osu.ppy.sh/beatmaps/1012163)
+  - **[F-777 - Airborne Robots (Curiossity) \[MX\]](https://osu.ppy.sh/beatmapsets/473736#mania/1012163)**
 
 ### Qualifiers
 
-**[Download the mappack here! (16.48 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADRF8c39E4U9536q0Xwuecia/Qualifiers.rar?dl=0)**
+**[Download the mappack here! (16 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADRF8c39E4U9536q0Xwuecia/Qualifiers.rar?dl=0)**
 
 - FreeMod
-  - [Eskmo - Cloudlight (cut) (Ciel) \[Stage 1: Control\]](https://osu.ppy.sh/beatmaps/1546415)
-  - [Bishu - Eyes wide open (Guilhermeziat) \[Stage 2: Temptation\]](https://osu.ppy.sh/beatmaps/1546009)
-  - [Dark PHOENiX - The Primal Scene of Japan the Girl Saw (juankristal) \[Stage 3: Release\]](https://osu.ppy.sh/beatmaps/1546412)
-  - [The Flashbulb - Chik Habit (Gekido-) \[Stage 4: Torment\]](https://osu.ppy.sh/beatmaps/1546411)
+  - [Eskmo - Cloudlight (cut) (Ciel) \[Stage 1: Control\]](https://osu.ppy.sh/beatmapsets/732986#mania/1546415)
+  - [Bishu - Eyes wide open (Guilhermeziat) \[Stage 2: Temptation\]](https://osu.ppy.sh/beatmapsets/732776#mania/1546009)
+  - [Dark PHOENiX - The Primal Scene of Japan the Girl Saw (juankristal) \[Stage 3: Release\]](https://osu.ppy.sh/beatmapsets/732983#mania/1546412)
+  - [The Flashbulb - Chik Habit (Gekido-) \[Stage 4: Torment\]](https://osu.ppy.sh/beatmapsets/732982#mania/1546411)
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
-Detailed results of the Grand Finals stage can be found [here](https://goo.gl/wvJcRV).
+Detailed results of the Grand Finals stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7DzTCT5BW4kK6YYRSnIJ0XhOJm1zAbjBfzBtO5pt_yEDaAxAy2HdeXWRjfjgZFtMePueHU_m72O4f/pubhtml?gid=235298817#).
 
-| Saturday, 2018-04-28 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+Saturday, 28 April 2018:
+
+| Player 1 |  |  | Player 2 |
+| --: | :-: | :-: | :-- |
 | **Lothus** ![][flag_BR] | **7** | 1 | ![][flag_US] TheToaphster |
 
-| Sunday, 2018-04-29 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| inteliser ![][flag_JP] | 3 | **7** | ![][flag_BR] **Lothus** |  |
-| **Lothus** ![][flag_BR] | **7** | 2 | ![][flag_JP] inteliser |  |
+Sunday, 29 April 2018:
+
+| Player 1 |  |  | Player 2 |
+| --: | :-: | :-: | :-- |
+| inteliser ![][flag_JP] | 3 | **7** | ![][flag_BR] **Lothus** |
+| **Lothus** ![][flag_BR] | **7** | 2 | ![][flag_JP] inteliser |
 
 ### Finals
 
-Detailed results of the Finals stage can be found [here](https://goo.gl/TQAKDv).
+Detailed results of the Finals stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTedveWks8e5Fu2DPg1WW8b0lw0dypFMyqHc-qopmOT2j_BpczZooVetHPSpgvhbFmtftkQj0ntLWPj/pubhtml?gid=1660954469#).
 
-| Saturday, 2018-04-21 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| Lothus ![][flag_BR] | 6 | **7** | ![][flag_JP] **inteliser** |  |
-| aitor98 ![][flag_ES] | 3 | **7** | ![][flag_CA] **Dawt** |  |
+Saturday, 21 April 2018:
 
-| Sunday, 2018-04-22 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| **TheToaphster** ![][flag_US] | **7** | 0 | ![][flag_BR] andreymc |  |
-| Dawt ![][flag_CA] | 2 | **7** | ![][flag_US] **TheToaphster** |  |
+| Player 1 |  |  | Player 2 |
+| --: | :-: | :-: | :-- |
+| Lothus ![][flag_BR] | 6 | **7** | ![][flag_JP] **inteliser** |
+| aitor98 ![][flag_ES] | 3 | **7** | ![][flag_CA] **Dawt** |
+
+Sunday, 22 April 2018:
+
+| Player 1 |  |  | Player 2 |
+| --: | :-: | :-: | :-- |
+| **TheToaphster** ![][flag_US] | **7** | 0 | ![][flag_BR] andreymc |
+| Dawt ![][flag_CA] | 2 | **7** | ![][flag_US] **TheToaphster** |
 
 ### Semifinals
 
-Detailed results of the Semifinals stage can be found [here](https://goo.gl/hmSMka).
+Detailed results of the Semifinals stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDuqVN5Tz5We9dG1uzUqB3sjAo92fQm1sjL6nnDE2QQn9gpLKS0u5C0Gv--4wbIDIZ-vn2a2zNCCVw/pubhtml?gid=1660954469).
 
-| Saturday, 2018-04-14 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| **andreymc** ![][flag_BR] | **6** | 5 | ![][flag_JP] AMDuskia1996 |  |
-| TheToaphster ![][flag_US] | 1 | **6** | ![][flag_BR] **Lothus** |  |
-| Tidek ![][flag_PL] | 2 | **6** | ![][flag_US] **-Electro-** |  |
-| **Dawt** ![][flag_CA] | **6** | 1 | ![][flag_US] Chrubble |  |
+Saturday, 14 April 2018:
 
-| Sunday, 2018-04-15 |  |  |  |  |
+| Player 1 |  |  | Player 2 |
+| --: | :-: | :-: | :-- |
+| **andreymc** ![][flag_BR] | **6** | 5 | ![][flag_JP] AMDuskia1996 |
+| TheToaphster ![][flag_US] | 1 | **6** | ![][flag_BR] **Lothus** |
+| Tidek ![][flag_PL] | 2 | **6** | ![][flag_US] **-Electro-** |
+| **Dawt** ![][flag_CA] | **6** | 1 | ![][flag_US] Chrubble |
+
+Sunday, 15 April 2018:
+
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-: |
 | **Panshow** ![][flag_CA] | **6** | 0 | ![][flag_MY] Minisora |  |
-| aitor98 ![][flag_ES] | 0 | **6** | ![][flag_JP] **inteliser** | WBD |
-| -Electro- ![][flag_US] | 0 | **6** | ![][flag_BR] **andreymc** | WBD |
+| aitor98 ![][flag_ES] | 0 | **6** | ![][flag_JP] **inteliser** | *win by default* |
+| -Electro- ![][flag_US] | 0 | **6** | ![][flag_BR] **andreymc** | *win by default* |
 | **Dawt** ![][flag_CA] | **6** | 4 | ![][flag_CA] Panshow |  |
 
 ### Quarterfinals
 
-Detailed results of the Quarterfinals stage can be found [here](https://goo.gl/LevsDD).
+Detailed results of the Quarterfinals stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR2eNiyf7eZE78mKQUmxV7AWWgz3OPAa7ZOZ0lbwjdpnVr1Kh6YKpwE1Hovh0hufIgQwnJsR-iEmaNo/pubhtml?gid=1660954469).
 
-| Friday, 2018-04-06 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| RemFangirl ![][flag_ID] | 2 | **6** | ![][flag_MY] **Minisora** |  |
+Friday, 6 April 2018:
 
-| Saturday, 2018-04-07 |  |  |  |  |
+| Player 1 |  |  | Player 2 |
+| --: | :-: | :-: | :-- |
+| RemFangirl ![][flag_ID] | 2 | **6** | ![][flag_MY] **Minisora** |
+
+Saturday, 7 April 2018:
+
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-: |
-| Azubeur ![][flag_FR] | 0 | **6** | ![][flag_GB] **Traps Are Cute** | WBD |
+| Azubeur ![][flag_FR] | 0 | **6** | ![][flag_GB] **Traps Are Cute** | *win by default* |
 | **HeZeus** ![][flag_US] | **6** | 1 | ![][flag_BE] NightNarumi |  |
-| Rythze ![][flag_CL] | 0 | **6** | ![][flag_PL] **Arkitev** | WBD |
+| Rythze ![][flag_CL] | 0 | **6** | ![][flag_PL] **Arkitev** | *win by default* |
 | Pipper ![][flag_GB] | 3 | **6** | ![][flag_MX] **\_Mytros\_** |  |
 | andreymc ![][flag_BR] | 4 | **6** | ![][flag_ES] **aitor98** |  |
-| SitekX ![][flag_PL] | 0 | **6** | ![][flag_US] **Chrubble** | WBD |
+| SitekX ![][flag_PL] | 0 | **6** | ![][flag_US] **Chrubble** | *win by default* |
 
-| Sunday, 2018-04-08 |  |  |  |  |
+Sunday, 8 April 2018:
+
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-: |
 | PotassiumF ![][flag_AU] | 0 | **6** | ![][flag_US] **-Electro-** |  |
 | **AMDuskia1996** ![][flag_JP] | **6** | 3 | ![][flag_GB] Pope Gadget |  |
@@ -350,27 +362,31 @@ Detailed results of the Quarterfinals stage can be found [here](https://goo.gl/L
 | Panshow ![][flag_CA] | 3 | **6** | ![][flag_BR] **Lothus** |  |
 | **-Electro-** ![][flag_US] | **6** | 5 | ![][flag_GB] Traps Are Cute |  |
 | **Chrubble** ![][flag_US] | **6** | 0 | ![][flag_US] HeZeus |  |
-| Tidek ![][flag_PL] | 0 | **6** | ![][flag_JP] **inteliser** | WBD |
+| Tidek ![][flag_PL] | 0 | **6** | ![][flag_JP] **inteliser** | *win by default* |
 
 ### Round of 16
 
-Detailed results of the Round of 16 stage can be found [here](https://goo.gl/jbctVe).
+Detailed results of the Round of 16 stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vShICSTCwRE2zmXG1Sm8sYnArHGpz2RjeEdZKpQVUq60PTnZwlJvwlWk1oQ-vaGbksFfUgCRcMMYY39/pubhtml?gid=1660954469).
 
-| Saturday, 2018-03-31 |  |  |  |  |
+Saturday, 31 March 2018:
+
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-: |
 | arpia97 ![][flag_CA] | 1 | **5** | ![][flag_GB] **Traps Are Cute** |  |
 | Couil ![][flag_SE] | 2 | **5** | ![][flag_MX] **\_Mytros\_** |  |
-| **Arkitev** ![][flag_PL] | **5** | 0 | ![][flag_US] DJKhaled | WBD |
+| **Arkitev** ![][flag_PL] | **5** | 0 | ![][flag_US] DJKhaled | *win by default* |
 | **Chrubble** ![][flag_US] | **5** | 1 | ![][flag_US] Neuro- |  |
 
-| Sunday, 2018-04-01 |  |  |  |  |
+Sunday, 1 April 2018:
+
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-: |
 | **Panshow** ![][flag_CA] | **5** | 1 | ![][flag_AU] PotassiumF |  |
 | RemiFlan ![][flag_US] | 0 | **5** | ![][flag_MY] **Minisora** |  |
-| joseee- ![][flag_PH] | 0 | **5** | ![][flag_US] **-Electro-** | WBD |
+| joseee- ![][flag_PH] | 0 | **5** | ![][flag_US] **-Electro-** | *win by default* |
 | **Dawt** ![][flag_CA] | **5** | 0 | ![][flag_JP] AMDuskia1996 |  |
 | lombit ![][flag_ID] | 3 | **5** | ![][flag_BE] **NightNarumi** |  |
-| **inteliser** ![][flag_JP] | **5** | 0 | ![][flag_CL] Rythze | WBD |
+| **inteliser** ![][flag_JP] | **5** | 0 | ![][flag_CL] Rythze | *win by default* |
 | **TheToaphster** ![][flag_US] | **5** | 0 | ![][flag_GB] Pipper |  |
 | SitekX ![][flag_PL] | 1 | **5** | ![][flag_BR] **andreymc** |  |
 | **aitor98** ![][flag_ES] | **5** | 0 | ![][flag_US] HeZeus |  |
@@ -380,45 +396,53 @@ Detailed results of the Round of 16 stage can be found [here](https://goo.gl/jbc
 
 ### Round of 32
 
-Detailed results of the Round of 32 stage can be found [here](https://goo.gl/XUjUy4).
+Detailed results of the Round of 32 stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxzq7NW7Embezbmjh68dyCTW5a_ztjvb_gcYpmz6vKQxVvTzislknHTzJZ5yt-Vgtn8pJsz-5dXPnu/pubhtml?gid=1660954469).
 
-| Saturday, 2018-03-24 |  |  |  |  |
+Saturday, 24 March 2018:
+
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-: |
 | **inteliser** ![][flag_JP] | **5** | 0 | ![][flag_SE] Couil |  |
 | **aitor98** ![][flag_ES] | **5** | 0 | ![][flag_PH] joseee- |  |
 | **Tidek** ![][flag_PL] | **5** | 1 | ![][flag_CL] WalterToro |  |
 | **Lothus** ![][flag_BR] | **5** | 0 | ![][flag_US] Chrubble |  |
-| **Pipper** ![][flag_GB] | **5** | 0 | ![][flag_US] DJKhaled | WBD |
+| **Pipper** ![][flag_GB] | **5** | 0 | ![][flag_US] DJKhaled | *win by default* |
 | **Dawt** ![][flag_CA] | **5** | 0 | ![][flag_US] RemiFlan |  |
 | \_Mytros\_ ![][flag_MX] | 3 | **5** | ![][flag_CL] **Rythze** |  |
 
-| Sunday, 2018-03-25 |  |  |  |  |
+Sunday, 25 March 2018:
+
+| Player 1 |  |  | Player 2 |
+| --: | :-: | :-: | :-- |
+| -Electro- ![][flag_US] | 3 | **5** | ![][flag_US] **HeZeus** |
+| **Panshow** ![][flag_CA] | **5** | 0 | ![][flag_ID] lombit |
+| **PotassiumF** ![][flag_AU] | **5** | 1 | ![][flag_BE] NightNarumi |
+| Minisora ![][flag_MY] | 3 | **5** | ![][flag_JP] **AMDuskia1996** |
+| **RemFangirl** ![][flag_ID] | **5** | 2 | ![][flag_GB] Pope Gadget |
+| **andreymc** ![][flag_BR] | **5** | 2 | ![][flag_GB] Traps Are Cute |
+| **SitekX** ![][flag_PL] | **5** | 0 | ![][flag_CA] arpia97 |
+| **Azubeur** ![][flag_FR] | **5** | 0 | ![][flag_US] Neuro- |
+| **TheToaphster** ![][flag_US] | **5** | 0 | ![][flag_PL] Arkitev |
+
+### Group stage
+
+Detailed results of the Group stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSMT0EbsLRGfGh-Rf31jBOaOa5m70r8xoPtfhdO_o7UaqPSO8yw5Udvg0_jtsWMFjtNUDU4gjMRLwvP/pubhtml?gid=1660954469%5D).
+
+Friday, 9 March 2018:
+
+| Player 1 |  |  | Player 2 |
+| --: | :-: | :-: | :-- |
+| **NightNarumi** ![][flag_BE] | **4** | 0 | ![][flag_US] 2dw |
+
+Saturday, 10 March 2018:
+
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-: |
-| -Electro- ![][flag_US] | 3 | **5** | ![][flag_US] **HeZeus** |  |
-| **Panshow** ![][flag_CA] | **5** | 0 | ![][flag_ID] lombit |  |
-| **PotassiumF** ![][flag_AU] | **5** | 1 | ![][flag_BE] NightNarumi |  |
-| Minisora ![][flag_MY] | 3 | **5** | ![][flag_JP] **AMDuskia1996** |  |
-| **RemFangirl** ![][flag_ID] | **5** | 2 | ![][flag_GB] Pope Gadget |  |
-| **andreymc** ![][flag_BR] | **5** | 2 | ![][flag_GB] Traps Are Cute |  |
-| **SitekX** ![][flag_PL] | **5** | 0 | ![][flag_CA] arpia97 |  |
-| **Azubeur** ![][flag_FR] | **5** | 0 | ![][flag_US] Neuro- |  |
-| **TheToaphster** ![][flag_US] | **5** | 0 | ![][flag_PL] Arkitev |  |
-
-### Group Stage
-
-Detailed results of the Group Stage can be found [here](https://goo.gl/FfQfZi).
-
-| Friday, 2018-03-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| **NightNarumi** ![][flag_BE] | **4** | 0 | ![][flag_US] 2dw |  |
-
-| Saturday, 2018-03-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| **2dw** ![][flag_US] | **4** | 0 | ![][flag_AU] AngeLItchysick | WBD |
+| **2dw** ![][flag_US] | **4** | 0 | ![][flag_AU] AngeLItchysick | *win by default* |
 | **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_AU] AngeLItchysick |  |
 | **NightNarumi** ![][flag_BE] | **4** | 0 | ![][flag_AU] AngeLItchysick |  |
 | **andreymc** ![][flag_BR] | **4** | 0 | ![][flag_MY] \[Xiiao\]Ray |  |
-| **Polytetral** ![][flag_SG] | **4** | 0 | ![][flag_BR] SillyFangirl | WBD |
+| **Polytetral** ![][flag_SG] | **4** | 0 | ![][flag_BR] SillyFangirl | *win by default* |
 | **andreymc** ![][flag_BR] | **4** | 1 | ![][flag_TH] - \[ Yuki \] - |  |
 | **Azubeur** ![][flag_FR] | **4** | 0 | ![][flag_PH] MapleSyrup- |  |
 | **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_BE] NightNarumi |  |
@@ -426,54 +450,58 @@ Detailed results of the Group Stage can be found [here](https://goo.gl/FfQfZi).
 | **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_US] 2dw |  |
 | **Camopoltergeist** ![][flag_FI] | **4** | 0 | ![][flag_FR] Adri |  |
 | **\_Mytros\_** ![][flag_MX] | **4** | 0 | ![][flag_PL] Miq |  |
-| **Pipper** ![][flag_GB] | **4** | 0 | ![][flag_BR] SillyFangirl | WBD |
+| **Pipper** ![][flag_GB] | **4** | 0 | ![][flag_BR] SillyFangirl | *win by default* |
 | **Chrubble** ![][flag_US] | **4** | 1 | ![][flag_FR] Adri |  |
 | **Azubeur** ![][flag_FR] | **4** | 1 | ![][flag_PL] Arkitev |  |
 | **\_Mytros\_** ![][flag_MX] | **4** | 3 | ![][flag_GB] Traps Are Cute |  |
 | **Dawt** ![][flag_CA] | **4** | 1 | ![][flag_FR] Tantei B |  |
-| Pope Gadget ![][flag_GB] | 0 | **4** | ![][flag_BR] **SillyFangirl** | WBD |
+| Pope Gadget ![][flag_GB] | 0 | **4** | ![][flag_BR] **SillyFangirl** | *win by default* |
 | **RemiFlan** ![][flag_US] | **4** | 2 | ![][flag_FR] Tantei B |  |
 
-| Sunday, 2018-03-11 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| **-Electro-** ![][flag_US] | **4** | 1 | ![][flag_CA] arpia97 |  |
-| **-Electro-** ![][flag_US] | **4** | 2 | ![][flag_JP] 3KO3 |  |
-| **floodlord** ![][flag_TH] | **4** | 3 | ![][flag_CA] arpia97 |  |
-| **\_Mytros\_** ![][flag_MX] | **4** | 0 | ![][flag_CN] \[Crz\]ScSolAr |  |
-| **-Electro-** ![][flag_US] | **4** | 0 | ![][flag_TH] floodlord |  |
-| 3KO3 ![][flag_JP] | 0 | **4** | ![][flag_CA] **arpia97** |  |
-| **3KO3** ![][flag_JP] | **4** | 1 | ![][flag_TH] floodlord |  |
-| - \[ Yuki \] - ![][flag_TH] | 1 | **4** | ![][flag_MY] **\[Xiiao\]Ray** |  |
-| **\[Crz\]ScSolAr** ![][flag_CN] | **4** | 3 | ![][flag_PL] Miq |  |
-| **Pope Gadget** ![][flag_GB] | **4** | 1 | ![][flag_SG] Polytetral |  |
-| MapleSyrup- ![][flag_PH] | 0 | **4** | ![][flag_DK] **tailsdk** |  |
-| **Traps Are Cute** ![][flag_GB] | **4** | 2 | ![][flag_CN] \[Crz\]ScSolAr |  |
-| **Pipper** ![][flag_GB] | **4** | 1 | ![][flag_SG] Polytetral |  |
-| **MapleSyrup-** ![][flag_PH] | **4** | 3 | ![][flag_PL] Arkitev |  |
-| Pipper ![][flag_GB] | 3 | **4** | ![][flag_GB] **Pope Gadget** |  |
-| **Azubeur** ![][flag_FR] | **4** | 2 | ![][flag_DK] tailsdk |  |
-| **Traps Are Cute** ![][flag_GB] | **4** | 0 | ![][flag_PL] Miq |  |
-| **Tidek** ![][flag_PL] | **4** | 2 | ![][flag_FI] Camopoltergeist |  |
-| **Tidek** ![][flag_PL] | **4** | 1 | ![][flag_FR] Adri |  |
-| **Arkitev** ![][flag_PL] | **4** | 1 | ![][flag_DK] tailsdk |  |
-| **Tidek** ![][flag_PL] | **4** | 1 | ![][flag_US] Chrubble |  |
-| **Dawt** ![][flag_CA] | **4** | 1 | ![][flag_US] RemiFlan |  |
+Sunday, 11 March 2018:
 
-| Saturday, 2018-03-17 |  |  |  |  |
+| Player 1 |  |  | Player 2 |
+| --: | :-: | :-: | :-- |
+| **-Electro-** ![][flag_US] | **4** | 1 | ![][flag_CA] arpia97 |
+| **-Electro-** ![][flag_US] | **4** | 2 | ![][flag_JP] 3KO3 |
+| **floodlord** ![][flag_TH] | **4** | 3 | ![][flag_CA] arpia97 |
+| **\_Mytros\_** ![][flag_MX] | **4** | 0 | ![][flag_CN] \[Crz\]ScSolAr |
+| **-Electro-** ![][flag_US] | **4** | 0 | ![][flag_TH] floodlord |
+| 3KO3 ![][flag_JP] | 0 | **4** | ![][flag_CA] **arpia97** |
+| **3KO3** ![][flag_JP] | **4** | 1 | ![][flag_TH] floodlord |
+| - \[ Yuki \] - ![][flag_TH] | 1 | **4** | ![][flag_MY] **\[Xiiao\]Ray** |
+| **\[Crz\]ScSolAr** ![][flag_CN] | **4** | 3 | ![][flag_PL] Miq |
+| **Pope Gadget** ![][flag_GB] | **4** | 1 | ![][flag_SG] Polytetral |
+| MapleSyrup- ![][flag_PH] | 0 | **4** | ![][flag_DK] **tailsdk** |
+| **Traps Are Cute** ![][flag_GB] | **4** | 2 | ![][flag_CN] \[Crz\]ScSolAr |
+| **Pipper** ![][flag_GB] | **4** | 1 | ![][flag_SG] Polytetral |
+| **MapleSyrup-** ![][flag_PH] | **4** | 3 | ![][flag_PL] Arkitev |
+| Pipper ![][flag_GB] | 3 | **4** | ![][flag_GB] **Pope Gadget** |
+| **Azubeur** ![][flag_FR] | **4** | 2 | ![][flag_DK] tailsdk |
+| **Traps Are Cute** ![][flag_GB] | **4** | 0 | ![][flag_PL] Miq |
+| **Tidek** ![][flag_PL] | **4** | 2 | ![][flag_FI] Camopoltergeist |
+| **Tidek** ![][flag_PL] | **4** | 1 | ![][flag_FR] Adri |
+| **Arkitev** ![][flag_PL] | **4** | 1 | ![][flag_DK] tailsdk |
+| **Tidek** ![][flag_PL] | **4** | 1 | ![][flag_US] Chrubble |
+| **Dawt** ![][flag_CA] | **4** | 1 | ![][flag_US] RemiFlan |
+
+Saturday, 17 March 2018:
+
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-: |
-| **SurfChu85** ![][flag_PH] | **4** | 0 | ![][flag_FR] Tantei B | WBD |
-| **Minisora** ![][flag_MY] | **4** | 0 | ![][flag_ID] Lafreniere | WBD |
+| **SurfChu85** ![][flag_PH] | **4** | 0 | ![][flag_FR] Tantei B | *win by default* |
+| **Minisora** ![][flag_MY] | **4** | 0 | ![][flag_ID] Lafreniere | *win by default* |
 | **Minisora** ![][flag_MY] | **4** | 1 | ![][flag_PH] joseee- |  |
-| \[ Vento \] ![][flag_SE] | 0 | **4** | ![][flag_AU] **PotassiumF** | WBD |
+| \[ Vento \] ![][flag_SE] | 0 | **4** | ![][flag_AU] **PotassiumF** | *win by default* |
 | **Minisora** ![][flag_MY] | **4** | 1 | ![][flag_BE] yetified |  |
-| \[ Vento \] ![][flag_SE] | 0 | **4** | ![][flag_SG] **Raveille** | WBD |
+| \[ Vento \] ![][flag_SE] | 0 | **4** | ![][flag_SG] **Raveille** | *win by default* |
 | Lusty Platypus ![][flag_AU] | 2 | **4** | ![][flag_ID] **lombit** |  |
 | yetified ![][flag_BE] | 3 | **4** | ![][flag_PH] **joseee-** |  |
-| **pikechu** ![][flag_CN] | **4** | 0 | ![][flag_FI] -Oreo- | WBD |
+| **pikechu** ![][flag_CN] | **4** | 0 | ![][flag_FI] -Oreo- | *win by default* |
 | Mage ![][flag_RU] | 1 | **4** | ![][flag_ID] **lombit** |  |
 | **WalterToro** ![][flag_CL] | **4** | 0 | ![][flag_CN] pikechu |  |
 | Mage ![][flag_RU] | 0 | **4** | ![][flag_AU] **Lusty Platypus** |  |
-| **RemFangirl** ![][flag_ID] | **4** | 0 | ![][flag_FR] Elementaires | WBD |
+| **RemFangirl** ![][flag_ID] | **4** | 0 | ![][flag_FR] Elementaires | *win by default* |
 | **aitor98** ![][flag_ES] | **4** | 0 | ![][flag_FI] -Oreo- |  |
 | **TheToaphster** ![][flag_US] | **4** | 0 | ![][flag_RU] Mage |  |
 | **WalterToro** ![][flag_CL] | **4** | 0 | ![][flag_FI] -Oreo- |  |
@@ -483,58 +511,64 @@ Detailed results of the Group Stage can be found [here](https://goo.gl/FfQfZi).
 | **Couil** ![][flag_SE] | **4** | 2 | ![][flag_US] dhn |  |
 | **CommandoBlack** ![][flag_CA] | **4** | 1 | ![][flag_FR] Koiidex |  |
 | Couil ![][flag_SE] | 0 | **4** | ![][flag_CA] **Panshow** |  |
-| dhn ![][flag_US] | 0 | **4** | ![][flag_PL] **Cyan\_Star** | WBD |
+| dhn ![][flag_US] | 0 | **4** | ![][flag_PL] **Cyan\_Star** | *win by default* |
 | **Panshow** ![][flag_CA] | **4** | 0 | ![][flag_PL] Cyan\_Star |  |
-| **Panshow** ![][flag_CA] | **4** | 0 | ![][flag_US] dhn | WBD |
+| **Panshow** ![][flag_CA] | **4** | 0 | ![][flag_US] dhn | *win by default* |
 | **andreymc** ![][flag_BR] | **4** | 3 | ![][flag_US] DJKhaled |  |
 | **Lothus** ![][flag_BR] | **4** | 1 | ![][flag_US] HeZeus |  |
-| Elementaires ![][flag_FR] | 0 | **4** | ![][flag_AU] **-Xenovia-** | WBD |
+| Elementaires ![][flag_FR] | 0 | **4** | ![][flag_AU] **-Xenovia-** | *win by default* |
 | **TheToaphster** ![][flag_US] | **4** | 0 | ![][flag_AU] Lusty Platypus |  |
 
-| Sunday, 2018-03-18 |  |  |  |  |
+Sunday, 18 March 2018:
+
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-: |
 | **Neuro-** ![][flag_US] | **4** | 0 | ![][flag_AU] -Xenovia- |  |
 | **HeZeus** ![][flag_US] | **4** | 2 | ![][flag_CA] CommandoBlack |  |
-| Rythze ![][flag_CL] | 0 | **4** | ![][flag_AU] **PotassiumF** | WBD |
+| Rythze ![][flag_CL] | 0 | **4** | ![][flag_AU] **PotassiumF** | *win by default* |
 | **Dawt** ![][flag_CA] | **4** | 0 | ![][flag_PH] SurfChu85 |  |
 | **RemiFlan** ![][flag_US] | **4** | 1 | ![][flag_PH] SurfChu85 |  |
 | **DJKhaled** ![][flag_US] | **4** | 1 | ![][flag_TH] - \[ Yuki \] - |  |
 | Raveille ![][flag_SG] | 3 | **4** | ![][flag_AU] **PotassiumF** |  |
-| **DJKhaled** ![][flag_US] | **4** | 0 | ![][flag_MY] \[Xiiao\]Ray | WBD |
+| **DJKhaled** ![][flag_US] | **4** | 0 | ![][flag_MY] \[Xiiao\]Ray | *win by default* |
 | **RemFangirl** ![][flag_ID] | **4** | 0 | ![][flag_AU] -Xenovia- |  |
-| **joseee-** ![][flag_PH] | **4** | 0 | ![][flag_ID] Lafreniere | WBD |
+| **joseee-** ![][flag_PH] | **4** | 0 | ![][flag_ID] Lafreniere | *win by default* |
 | **inteliser** ![][flag_JP] | **4** | 0 | ![][flag_PL] \_underjoy |  |
 | **inteliser** ![][flag_JP] | **4** | 1 | ![][flag_JP] AMDuskia1996 |  |
-| **yetified** ![][flag_BE] | **4** | 0 | ![][flag_ID] Lafreniere | WBD |
+| **yetified** ![][flag_BE] | **4** | 0 | ![][flag_ID] Lafreniere | *win by default* |
 | **aitor98** ![][flag_ES] | **4** | 1 | ![][flag_CN] pikechu |  |
 | **inteliser** ![][flag_JP] | **4** | 0 | ![][flag_PL] Moskas |  |
 | **Rythze** ![][flag_CL] | **4** | 1 | ![][flag_SG] Raveille |  |
 | \_underjoy ![][flag_PL] | 1 | **4** | ![][flag_JP] **AMDuskia1996** |  |
 | **AMDuskia1996** ![][flag_JP] | **4** | 1 | ![][flag_PL] Moskas |  |
-| **TheToaphster** ![][flag_US] | **4** | 0 | ![][flag_ID] lombit | WBD |
+| **TheToaphster** ![][flag_US] | **4** | 0 | ![][flag_ID] lombit | *win by default* |
 | **HeZeus** ![][flag_US] | **4** | 0 | ![][flag_FR] Koiidex |  |
 | \_underjoy ![][flag_PL] | 3 | **4** | ![][flag_PL] **Moskas** |  |
 | **Lothus** ![][flag_BR] | **4** | 0 | ![][flag_FR] Koiidex |  |
-| \[ Vento \] ![][flag_SE] | 0 | **4** | ![][flag_CL] **Rythze** | WBD |
+| \[ Vento \] ![][flag_SE] | 0 | **4** | ![][flag_CL] **Rythze** | *win by default* |
 | **Lothus** ![][flag_BR] | **4** | 0 | ![][flag_CA] CommandoBlack |  |
-| Elementaires ![][flag_FR] | 0 | **4** | ![][flag_US] **Neuro-** | WBD |
+| Elementaires ![][flag_FR] | 0 | **4** | ![][flag_US] **Neuro-** | *win by default* |
 
 ### Playoffs
 
-Detailed results of the Playoffs can be found [here](https://goo.gl/CGgypm).
+Detailed results of the Playoffs can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSGY2CSPJNul8OJL1rAGjdLTcgHqPiuZaJMTnLCzv2zGPwlK-zsz7z00zbt8sEHUwdJjwVXXYYptdZX/pubhtml?gid=1660954469).
 
-| Wednesday, 2018-02-21 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| **Arkitev** ![][flag_PL] | **4** | 1 | ![][flag_SE] YoShiZoRi |  |
+Wednesday, 21 February 2018:
 
-| Saturday, 2018-02-24 |  |  |  |  |
+| Player 1 |  |  | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Arkitev** ![][flag_PL] | **4** | 1 | ![][flag_SE] YoShiZoRi |
+
+Saturday, 24 February 2018:
+
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-: |
 | sleetgirl ![][flag_JP] | 0 | **4** | ![][flag_AU] **-Xenovia-** |  |
 | **pikechu** ![][flag_CN] | **4** | 2 | ![][flag_MY] never214 |  |
-| **\[Crz\]ScSolAr** ![][flag_CN] | **4** | 0 | ![][flag_FR] \_dk | WBD |
+| **\[Crz\]ScSolAr** ![][flag_CN] | **4** | 0 | ![][flag_FR] \_dk | *win by default* |
 | **lombit** ![][flag_ID] | **4** | 1 | ![][flag_ES] Nyanpasuuu |  |
-| **- \[ Yuki \] -** ![][flag_PH] | **4** | 0 | ![][flag_SE] Craty | WBD |
-| **Kroly-** ![][flag_PL] | **4** | 0 | ![][flag_PH] Kaleiodo | WBD |
+| **- \[ Yuki \] -** ![][flag_PH] | **4** | 0 | ![][flag_SE] Craty | *win by default* |
+| **Kroly-** ![][flag_PL] | **4** | 0 | ![][flag_PH] Kaleiodo | *win by default* |
 | **joseee-** ![][flag_PH] | **4** | 1 | ![][flag_BR] Zergh |  |
 | **bananacake304** ![][flag_PH] | **4** | 1 | ![][flag_PL] Brunosky |  |
 | Natty2708 ![][flag_GB] | 1 | **4** | ![][flag_IT] **Enjoy-** |  |
@@ -542,32 +576,38 @@ Detailed results of the Playoffs can be found [here](https://goo.gl/CGgypm).
 | **CommandoBlack** ![][flag_CA] | **4** | 1 | ![][flag_PL] ArchGMSati |  |
 | BlankPxl ![][flag_GB] | 2 | **4** | ![][flag_AR] **BubShish** |  |
 
-| Sunday, 2018-02-25 |  |  |  |  |
+Sunday, 25 February 2018:
+
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-: |
 | **SurfChu85** ![][flag_PH] | **4** | 1 | ![][flag_AR] Fisk- |  |
 | **Framps** ![][flag_AU] | **4** | 2 | ![][flag_CA] loafusofbread |  |
-| **Shedin** ![][flag_BR] | **4** | 0 | ![][flag_AU] Spartan- | WBD |
+| **Shedin** ![][flag_BR] | **4** | 0 | ![][flag_AU] Spartan- | *win by default* |
 | **floodlord** ![][flag_TH] | **4** | 0 | ![][flag_US] afrono |  |
 | **AMDuskia1996** ![][flag_JP] | **4** | 1 | ![][flag_TH] SharpKunG1412 |  |
-| Cunu ![][flag_FR] | 0 | **4** | ![][flag_AU] **AngeLItchysick** | WBD |
-| **Elementaires** ![][flag_FR] | **4** | 0 | ![][flag_PH] TheArge | WBD |
+| Cunu ![][flag_FR] | 0 | **4** | ![][flag_AU] **AngeLItchysick** | *win by default* |
+| **Elementaires** ![][flag_FR] | **4** | 0 | ![][flag_PH] TheArge | *win by default* |
 | **Lusty Platypus** ![][flag_AU] | **4** | 0 | ![][flag_FI] princesswell |  |
 | **twistedclever** ![][flag_ID] | **4** | 1 | ![][flag_GB] loopyloo |  |
 | **repoz** ![][flag_AR] | **4** | 1 | ![][flag_PH] Mentai Cosmic |  |
 | **Camopoltergeist** ![][flag_FI] | **4** | 0 | ![][flag_NL] 2fast4you98 |  |
-| \_Shirayukihime\_ ![][flag_PH] | 0 | **4** | ![][flag_US] **Fizzy** | WBD |
+| \_Shirayukihime\_ ![][flag_PH] | 0 | **4** | ![][flag_US] **Fizzy** | *win by default* |
 | **Moskas** ![][flag_PL] | **4** | 0 | ![][flag_PL] Jasionnn |  |
 | **tailsdk** ![][flag_DK] | **4** | 1 | ![][flag_IT] Tantuz |  |
 | **Akeyro** ![][flag_BE] | **4** | 3 | ![][flag_BR] StartMetal |  |
-| **Kruppol** ![][flag_PL] | **4** | 0 | ![][flag_CL] Matiias | WBD |
-| Open ![][flag_PL] | 0 | **4** | ![][flag_DE] **Kaionacho** | WBD |
-| Daybreak ![][flag_MX] | 0 | **4** | ![][flag_AR] **JotaCe** | WBD |
+| **Kruppol** ![][flag_PL] | **4** | 0 | ![][flag_CL] Matiias | *win by default* |
+| Open ![][flag_PL] | 0 | **4** | ![][flag_DE] **Kaionacho** | *win by default* |
+| Daybreak ![][flag_MX] | 0 | **4** | ![][flag_AR] **JotaCe** | *win by default* |
 
-| Friday, 2018-03-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| Hlimak ![][flag_PL] | 1 | **4** | ![][flag_FR] **Koiidex** |  |
+Friday, 2 March 2018:
 
-| Saturday, 2018-03-03 |  |  |  |  |
+| Player 1 |  |  | Player 2 |
+| --: | :-: | :-: | :-- |
+| Hlimak ![][flag_PL] | 1 | **4** | ![][flag_FR] **Koiidex** |
+
+Saturday, 3 March 2018:
+
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-: |
 | **PotassiumF** ![][flag_AU] | **4** | 2 | ![][flag_US] Psychodic |  |
 | **2dw** ![][flag_US] | **4** | 2 | ![][flag_TH] TheNewBungping |  |
@@ -575,45 +615,47 @@ Detailed results of the Playoffs can be found [here](https://goo.gl/CGgypm).
 | **Raveille** ![][flag_SG] | **4** | 0 | ![][flag_GB] lazer09909 |  |
 | **3KO3** ![][flag_JP] | **4** | 0 | ![][flag_PL] Kroly- |  |
 | Lenfried- ![][flag_PH] | 2 | **4** | ![][flag_FR] Adri |  |
-| LastExceed ![][flag_DE] | 0 | **4** | ![][flag_ID] **Lafreniere** | WBD |
+| LastExceed ![][flag_DE] | 0 | **4** | ![][flag_ID] **Lafreniere** | *win by default* |
 | **Mage** ![][flag_RU] | **4** | 0 | ![][flag_DE] Kaionacho |  |
-| **MapleSyrup-** ![][flag_PH] | **4** | 0 | ![][flag_BE] Akeyro | WBD |
+| **MapleSyrup-** ![][flag_PH] | **4** | 0 | ![][flag_BE] Akeyro | *win by default* |
 | Kamikaze ![][flag_PL] | 1 | **4** | ![][flag_DK] **tailsdk** |  |
 | **Neuro-** ![][flag_US] | **4** | 1 | ![][flag_PL] Nick Wilde |  |
-| **dhn** ![][flag_US] | **4** | 0 | ![][flag_DE] Malox | WBD |
-| **Traps Are Cute** ![][flag_GB] | **4** | 0 | ![][flag_AR] repoz | WBD |
+| **dhn** ![][flag_US] | **4** | 0 | ![][flag_DE] Malox | *win by default* |
+| **Traps Are Cute** ![][flag_GB] | **4** | 0 | ![][flag_AR] repoz | *win by default* |
 | **Panshow** ![][flag_CA] | **4** | 0 | ![][flag_IT] Enjoy- |  |
 | **Chrubble** ![][flag_US] | **4** | 0 | ![][flag_PL] Kruppol |  |
-| **DJKhaled** ![][flag_US] | **4** | 0 | ![][flag_US] Fizzy | WBD |
+| **DJKhaled** ![][flag_US] | **4** | 0 | ![][flag_US] Fizzy | *win by default* |
 
-| Sunday, 2018-03-04 |  |  |  |  |
+Sunday, 4 March 2018:
+
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-: |
 | Kengy ![][flag_CA] | 0 | **4** | ![][flag_CA] **arpia97** |  |
 | **RemiFlan** ![][flag_US] | **4** | 0 | ![][flag_BR] Shedin |  |
-| **HeZeus** ![][flag_US] | **4** | 0 | ![][flag_ID] twistedclever | WBD |
+| **HeZeus** ![][flag_US] | **4** | 0 | ![][flag_ID] twistedclever | *win by default* |
 | **WalterToro** ![][flag_CL] | **4** | 0 | ![][flag_AU] Framps |  |
 | **-Oreo-** ![][flag_FI] | **4** | 1 | ![][flag_MY] Kaname-san92 |  |
 | DawnX ![][flag_CN] | 3 | **4** | ![][flag_ID] **lombit** |  |
 | DemonWaves ![][flag_FR] | 2 | **4** | ![][flag_MY] **\[Xiiao\]Ray** |  |
-| **Polytetral** ![][flag_SG] | **4** | 0 | ![][flag_PH] nyx- | WBD |
-| **Pope Gadget** ![][flag_GB] | **4** | 0 | ![][flag_PH] bananacake304 | WBD |
+| **Polytetral** ![][flag_SG] | **4** | 0 | ![][flag_PH] nyx- | *win by default* |
+| **Pope Gadget** ![][flag_GB] | **4** | 0 | ![][flag_PH] bananacake304 | *win by default* |
 | **Cyan\_Star** ![][flag_PL] | **4** | 2 | ![][flag_ES] Userbacker |  |
 | DaDarkDragon ![][flag_PL] | 1 | **4** | ![][flag_PL] **Miq** |  |
 | **SillyFangirl** ![][flag_BR] | **4** | 0 | ![][flag_PL] Benzopirene |  |
 | xSnaggles ![][flag_GB] | 2 | **4** | ![][flag_PL] **Moskas** |  |
-| **\_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_GB] SleepyDarkrai | WBD |
-| **NightNarumi** ![][flag_BE] | **4** | 0 | ![][flag_AR] JotaCe | WBD |
+| **\_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_GB] SleepyDarkrai | *win by default* |
+| **NightNarumi** ![][flag_BE] | **4** | 0 | ![][flag_AR] JotaCe | *win by default* |
 | **Rythze** ![][flag_CL] | **4** | 0 | ![][flag_AR] BubShish |  |
 
 ### Qualifiers
 
-The results of the Qualifiers can be found [here](https://goo.gl/TC4A91).
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTKMykaCgJRUGvMFaV4kdQJTtS4tGMvPun1fHzYbFgxCVD6XLP8ezvo-FNOCCCB_k08i5hzsBqfzWnB/pubhtml).
 
-## Rules
+## Ruleset
 
-### Tournament Organization
+### Tournament organisation
 
-#### Round Overview
+#### Round overview
 
 - With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
   - **Qualification Stage:** 4 song mappool, no winning condition, no tiebreaker song
@@ -622,7 +664,7 @@ The results of the Qualifiers can be found [here](https://goo.gl/TC4A91).
   - **Quarterfinals and Semifinals:** 14 song mappool, best of 11 (first to 6), one tiebreaker song
   - **Finals and Grand Finals:** 16 song mappool, best of 13 (first to 7), one tiebreaker song
 
-#### Qualification Process
+#### Qualification process
 
 - All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. **The maximum number of players who can advance to the subsequent round is 128**. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
   - If 32 players enter, all 32 players will qualify and no one gets eliminated.
@@ -638,7 +680,7 @@ The results of the Qualifiers can be found [here](https://goo.gl/TC4A91).
 - Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their cumulative score on all four songs, with the best score being seed \#1, and the worst score being seed n; n being the number of players in the qualification stage.
 - We will be using **Score V2** for all rounds of the tournament.
 
-#### Post-Qualification
+#### Post-qualification
 
 - The round after the qualification stage (also known as the play-offs stage) is a **single elimination** stage with specific rules.
 - After the qualification round, the remaining players, based on their qualification seeds, will be divided into 4 different groups. Each group will have a different set of protocol to follow.
@@ -647,7 +689,7 @@ The results of the Qualifiers can be found [here](https://goo.gl/TC4A91).
   - **33rd-96th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player in the 33rd to 96th seed group. In particular, their opponent's seed will be `(129 - player's seed)`. Players who win their match in this stage will advance to the Group Stage.
   - **97th-128th seeds**: Players within this group will participate in **two matches** in the Play-Offs stage. Their first opponent will be a player in the 97th to 128th seed group. In particular, their opponent's seed will be `(225 - player's seed)`. If the player wins their first match, their second opponent will be a player in the 17th to 32nd seed group. Players who win both of their matches in this stage will advance to the Group Stage.
 
-#### Group Stage
+#### Group stage
 
 - After the Play-Offs stage, the remaining players will be divided into 4 different groups based on their qualification seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group.
 - Each player in these groups will face each other once. In total, every player in the Group Stage will participate in **three matches**. The two best-performing players in each group will advance to the bracket stage.
@@ -658,7 +700,7 @@ The results of the Qualifiers can be found [here](https://goo.gl/TC4A91).
   - Higher qualification seed.
 - The two worst-performing players of each group will be eliminated from the tournament.
 
-#### Bracket Stage
+#### Bracket stage
 
 - The bracket stage is a **double elimination** stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
 - After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. In particular, their opponent for the bracket stage will be `(33 - player's GS seed)`.
@@ -668,7 +710,7 @@ The results of the Qualifiers can be found [here](https://goo.gl/TC4A91).
 - Players who are in the winners bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where the player is required to play in up to two matches if the player were to lose his first match in the Grand Finals stage.
 - Players who are in the losers bracket at the start of the Quarterfinals stage or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will no longer need to play in any further matches in the tournament, for they are eliminated from the tournament.
 
-### Tournament Play
+### Tournament play
 
 #### Protocol
 
@@ -690,7 +732,7 @@ The results of the Qualifiers can be found [here](https://goo.gl/TC4A91).
   - I will have sole discretion over decisions that affect your standing in the tournament; however, other members of tournament staff may forward any information to me that in any way represents uncalled for behavior towards other users or staff in my tournament. I will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful.
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
-#### Warm-up Songs
+#### Warm-up songs
 
 - Each player in the match will be allowed one (1) warm-up song to be played, making for two (2) warm-ups in total between both players.
 - The warm-up must be uploaded to the osu! website and accessible by everyone prior to the tournament match. Bloodcat links are **not allowed**, and neither are personal links featuring the beatmap that you want downloaded.
@@ -698,18 +740,18 @@ The results of the Qualifiers can be found [here](https://goo.gl/TC4A91).
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 - In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This includes the first 2 stages of the tournament after the qualifiers.
 
-#### Bans, Rolls and Song Selection
+#### Bans, rolls, and song selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one (1) map within the map pool that they are playing for the given round.
-- Players will be instructed to do a !roll command by the referee that is overseeing the match; the losing roll picks the first ban, while the winning roll picks the first song of the match.
+- Players will be instructed to do a `!roll` command by the referee that is overseeing the match; the losing roll picks the first ban, while the winning roll picks the first song of the match.
 - After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
-    - The winning player moves onto the next match.
-    - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
+     - The winning player moves onto the next match.
+     - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
   2. Both players are at match point at the same time.
-    - Both players will play the song designated as the tiebreaker.
-    - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
+     - Both players will play the song designated as the tiebreaker.
+     - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
 
 #### Disconnections
 
@@ -718,31 +760,30 @@ The results of the Qualifiers can be found [here](https://goo.gl/TC4A91).
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_ZA]: /wiki/shared/flag/ZA.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_ZA]: /wiki/shared/flag/ZA.gif "South Africa"

@@ -7,7 +7,7 @@ tags:
 
 ![TSC logo](img/logo.png)
 
-The **Taiko Suiji Cup** (***TSC***) was a three-on-three randomised team based osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). Each participant registered individually and was assigned to a random team. It was the first installment of the Taiko Suiji Cup.
+The **Taiko Suiji Cup** (***TSC***) was a three-on-three randomised team based osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). Each participant registered individually and was assigned to a random team. It was the first instalment of the Taiko Suiji Cup.
 
 ## Tournament schedule
 
@@ -36,7 +36,7 @@ The Taiko Suiji Cup was run by various osu!taiko community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
+| Organizer | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
 | Mappool selector | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Referee | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_RU] [-dragon67](https://osu.ppy.sh/users/4328734), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_CA] [390](https://osu.ppy.sh/users/7622460), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) |
 | Streamer | ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035), ![][flag_DE] [\[TaikoTori\]](https://osu.ppy.sh/users/1074143) |
@@ -469,7 +469,7 @@ Sunday, 2 September 2018:
 - On FreeMod picks, at least two players from each team must use Hidden, HardRock, or both.
 - Hidden and HardRock are allowed, but not required, on Tiebreakers.
 - Only one of each seed is allowed to play in the lobby at any given time, so the team can only have 1 A seed, 1 B seed, and 1 C seed.
-- Once the map choice is locked in, players will have 3 minutes to ready up. The referee will start the match when all players are ready. If the 3 minute timer ends, the referee will force an !mp start 15 command, and the match will start with whoever is in the lobby.
+- Once the map choice is locked in, players will have 3 minutes to ready up. The referee will start the match when all players are ready. If the 3 minute timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
 - The winner of a map is determined by which team ends with a higher score.
 - In the case of a disconnection, a rematch will only be played if the disconnection occurred within the first 30 seconds of the map. This can be judged by the mp link. If a player disconnects after 30 seconds of the map have passed, their score will not be counted.
 
@@ -500,7 +500,7 @@ Sunday, 2 September 2018:
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"

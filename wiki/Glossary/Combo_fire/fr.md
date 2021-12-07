@@ -1,15 +1,14 @@
 ---
-stub: true
 tags:
   - combo flame
 ---
 
 # Combo fire
 
-![Capture d'écran ancienne du combo fire](/wiki/shared/combo-fire.jpg "R.I.P. combo fire")
+![](img/combo-fire.jpg "Combo fire jaune, orange et rouge (combo inférieur à 500)")
 
-Le **combo fire** était un élément de gameplay qui provient du jeu DS [osu! Tatakae! Ouendan!](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan "Wikipédia") et qui a été intégré dans osu!. Une flamme jaune s'affichait après l'obtention d'un [combo milestone](/wiki/Glossary/Combo_milestone). Si le joueur obtenait un [combo](/wiki/Glossary/Combo_(score_multiplier)) de 500x, le combo fire passait du jaune au bleu. Le feu s'étégnait si le combo était perdu, mais pouvait être récupéré si le combo était retrouvé.
+![](img/blue-combo-fire.jpg "Combo fire bleu (au-dessus de 500 combo)")
 
-Le combo fire a été désactivé le 5 mars 2013 en raison de problèmes de performance.
+Le **combo fire** est un élément de gameplay qui provient du jeu DS [Osu! Tatakae! Ouendan!](/wiki/iNiS_games) et qui a été intégré à osu!. Il affichait une flamme jaune brûlante après avoir obtenu le premier [combo milestone](/wiki/Glossary/Combo_milestone). Si le joueur obtient un [combo](/wiki/Glossary/Combo_(score_multiplicateur)) de 500, le combo fire passe du jaune au bleu. Le feu s'éteignait si le combo était brisé, mais il réapparaissait si le combo était regagné.
 
-<!--TODO: Add images and links-->
+Le combo fire a été désactivé le 5 mars 2013 en raison de problèmes de performances.

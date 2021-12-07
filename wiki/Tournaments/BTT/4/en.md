@@ -7,17 +7,17 @@ tags:
 
 # Beginners' Taiko Tournament 4
 
-![BTT 4 Logo](img/logo.gif)
+![BTT 4 logo](img/logo.gif)
 
-The **Beginners' Taiko Tournament 4** (***BTT 4***) was a double elimination one-on-one osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the fourth installment of the Beginners' Taiko Tournament.
+The **Beginners' Taiko Tournament 4** (***BTT 4***) was a 1v1 double elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the fourth instalment of the Beginners' Taiko Tournament.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-01-27/2019-02-17 |
-| Live Drawings | 2019-02-17 (19:00 UTC) |
-| Qualifiers Stage | 2019-03-02/2019-03-03 |
+| Registration phase | 2019-01-27/2019-02-17 |
+| Live drawings | 2019-02-17 (19:00 UTC) |
+| Qualifiers stage | 2019-03-02/2019-03-03 |
 | Round of 32 | 2019-03-09/2019-03-10 |
 | Round of 16 | 2019-03-16/2019-03-17 |
 | Quarterfinals | 2019-03-23/2019-03-24 |
@@ -29,11 +29,11 @@ The **Beginners' Taiko Tournament 4** (***BTT 4***) was a double elimination one
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter |
 
-![BTT 4 Winner Badge](img/badge.png)
+![](img/badge.png "BTT 4 winner badge")
 
 ## Organisation
 
@@ -42,13 +42,13 @@ The Beginners' Taiko Tournament 4 was run by various osu!taiko community members
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) |
-| Map Selector | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_DE] [frz](https://osu.ppy.sh/users/6956922), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
+| Mappool selector | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_DE] [frz](https://osu.ppy.sh/users/6956922), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
 | Designer | ![][flag_CA] [mits](https://osu.ppy.sh/users/6256255) |
 | Streamer | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6956922), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Commentator | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6956922), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) |
 | Referee | ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_DE] [frz](https://osu.ppy.sh/users/6956922), ![][flag_AU] [mhyykl](https://osu.ppy.sh/users/7012650), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_US] [MyAngelManasa](https://osu.ppy.sh/users/6666316), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki Editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
+| Wiki editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -71,11 +71,11 @@ The Beginners' Taiko Tournament 4 was run by various osu!taiko community members
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
 
 ## Mappools
 
@@ -141,7 +141,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (80 MB)](https://mega.nz/#!nOpwEQIL!mFSWpKyuJkYqyj63q4rmLyTE47cUZJnFPOt4U3gsTXs   )**
+**[Download the mappack here! (80 MB)](https://mega.nz/#!nOpwEQIL!mFSWpKyuJkYqyj63q4rmLyTE47cUZJnFPOt4U3gsTXs)**
 
 - NoMod
   - [MuryokuP - hypnoSpirA (Makar) \[Makar's Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/57908#taiko/180664)
@@ -241,7 +241,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Nightwish - She Is My Sin (Nardoxyribonucleic) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/529780#taiko/1125980)**
 
-### Qualifiers Stage
+### Qualifiers stage
 
 **[Download the mappack here! (38 MB)](https://mega.nz/#!Ga5xES7C!cIYx4loj_absIdwI7f97bI8K39XytTbBXsu9CdJ08B8)**
 
@@ -255,98 +255,120 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [Sawamura Spencer Eriri (CV: Oonishi Saori) - Blooming Lily (Volta) \[Kantan\]](https://osu.ppy.sh/beatmapsets/718081#taiko/1532923)
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
-| Sunday, 2019-04-20 |  |  |  |  |
+Sunday, 20 April 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | \_demo ![][flag_PL] | 1 | **7** | ![][flag_HK] **shikuro\_re** | [#1](https://osu.ppy.sh/community/matches/51151919) |
-| **shikuro\_re** ![][flag_HK] | **7** | 0 | ![][flag_PL] \_demo | -win by default- |
+| **shikuro\_re** ![][flag_HK] | **7** | 0 | ![][flag_PL] \_demo | *win by default* |
 
 ### Finals
 
-| Saturday, 2019-04-06 |  |  |  |  |
+Saturday, 6 April 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **\_demo** ![][flag_PL] | **7** | 3 | ![][flag_US] LuriCookie | [#1](https://osu.ppy.sh/community/matches/50796962) |
 
-| Sunday, 2019-04-07 |  |  |  |  |
+Sunday, 7 April 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **shikuro_re** ![][flag_HK] | **7** | 1 | ![][flag_FR] Trypha | [#1](https://osu.ppy.sh/community/matches/50822741) |
 | LuriCookie ![][flag_US] | 3 | **7** | ![][flag_HK] **shikuro\_re** | [#1](https://osu.ppy.sh/community/matches/50827604) |
 
 ### Semifinals
 
-| Friday, 2019-03-29 |  |  |  |  |
+Friday, 29 March 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | TLQ\_Yoshii ![][flag_FR] | 0 | **6** | ![][flag_FR] **Trypha** | [#1](https://osu.ppy.sh/community/matches/50617119) |
 
-| Saturday, 2019-03-30 |  |  |  |  |
+Saturday, 30 March 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | LoliVoiceASMR ![][flag_ID] | 3 | **6** | ![][flag_PL] **\_demo** | [#1](https://osu.ppy.sh/community/matches/50632555) |
 | **shikuro\_re** ![][flag_HK] | **6** | 4 | ![][flag_EC] Mik3gam3r7919 | [#1](https://osu.ppy.sh/community/matches/50636709) |
 | **LuriCookie** ![][flag_US] | **6** | 4 | ![][flag_NL] MasterForcer | [#1](https://osu.ppy.sh/community/matches/50643510) |
 
-| Sunday, 2019-03-31 |  |  |  |  |
+Sunday, 31 March 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | LoliVoiceASMR ![][flag_ID] | 4 | **6** | ![][flag_FR] **Trypha** | [#1](https://osu.ppy.sh/community/matches/50662993) |
 | MasterForcer ![][flag_NL] | 0 | **6** | ![][flag_HK] **shikuro\_re** | [#1](https://osu.ppy.sh/community/matches/50665146) |
 
 ### Quarterfinals
 
-| Saturday, 2019-03-23 |  |  |  |  |
+Saturday, 23 March 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **LoliVoiceASMR** ![][flag_ID] | **5** | 1 | ![][flag_PL] Xellander | [#1](https://osu.ppy.sh/community/matches/50465903) |
 | shikuro\_re ![][flag_HK] | 4 | **5** | ![][flag_PL] **\_demo** | [#1](https://osu.ppy.sh/community/matches/50468558) |
 | **MasterForcer** ![][flag_NL] | **5** | 3 | ![][flag_FR] Heartswimm | [#1](https://osu.ppy.sh/community/matches/50471620) |
 | **Noercy** ![][flag_SE] | **5** | 4 | ![][flag_DE] HiddenDenki | [#1](https://osu.ppy.sh/community/matches/50471843) |
-| **GamingHamster** ![][flag_IE] | **5** | 0 | ![][flag_US] \[Hypotato\] | -win by default- |
+| **GamingHamster** ![][flag_IE] | **5** | 0 | ![][flag_US] \[Hypotato\] | *win by default* |
 | **LuriCookie** ![][flag_US] | **5** | 3 | ![][flag_FR] Trypha | [#1](https://osu.ppy.sh/community/matches/50480854) |
 | Sinaeb ![][flag_CA] | 2 | **5** | ![][flag_EC] **Mik3gam3r7919** | [#1](https://osu.ppy.sh/community/matches/50482981) |
 | james2998 ![][flag_US] | 0 | **5** | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/community/matches/50484563) |
 
-| Sunday, 2019-03-24 |  |  |  |  |
+Sunday, 24 March 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Heartswimm ![][flag_FR] | 2 | **5** | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/community/matches/50499159) |
-| **shikuro\_re** ![][flag_HK] | **5** | 0 | ![][flag_SE] Noercy | -win by default- |
+| **shikuro\_re** ![][flag_HK] | **5** | 0 | ![][flag_SE] Noercy | *win by default* |
 | **Trypha** ![][flag_FR] | **5** | 0 | ![][flag_IE] GamingHamster | [#1](https://osu.ppy.sh/community/matches/50501827) |
-| Xellander ![][flag_PL] | 0 | **5** | ![][flag_EC] **Mik3gam3r7919** | -win by default- |
+| Xellander ![][flag_PL] | 0 | **5** | ![][flag_EC] **Mik3gam3r7919** | *win by default* |
 
 ### Round of 16
 
-| Saturday, 2019-03-16 |  |  |  |  |
+Saturday, 16 March 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **LoliVoiceASMR** ![][flag_ID] | **4** | 0 | ![][flag_RU] \_Suzuha | -win by default- |
+| **LoliVoiceASMR** ![][flag_ID] | **4** | 0 | ![][flag_RU] \_Suzuha | *win by default* |
 | TLQ\_Yoshii ![][flag_FR] | 0 | **4** | ![][flag_HK] **shikuro\_re** | [#1](https://osu.ppy.sh/community/matches/50302619) |
 | **LuriCookie** ![][flag_US] | **4** | 0 | ![][flag_AU] Neppy5000 | [#1](https://osu.ppy.sh/community/matches/50302679) |
 | \[ M e a k u \] ![][flag_SE] | 2 | **4** | ![][flag_FR] **Heartswimm** | [#1](https://osu.ppy.sh/community/matches/50304357) |
 | **Xellander** ![][flag_PL] | **4** | 1 | ![][flag_DE] GDLenny | [#1](https://osu.ppy.sh/community/matches/50307871) |
 | **Trypha** ![][flag_FR] | **4** | 0 | ![][flag_QA] Hiiiii5 | [#1](https://osu.ppy.sh/community/matches/50315277) |
 | GinIkari ![][flag_DE] | 0 | **4** | ![][flag_NL] **MasterForcer** | [#1](https://osu.ppy.sh/community/matches/50315499) |
-| **TLQ\_Yoshii** ![][flag_FR] | **4** | 0 | ![][flag_EC] Reo09 | -win by default- |
+| **TLQ\_Yoshii** ![][flag_FR] | **4** | 0 | ![][flag_EC] Reo09 | *win by default* |
 
-| Sunday, 2019-03-17 |  |  |  |  |
+Sunday, 17 March 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Neppy5000 ![][flag_AU] | 0 | **4** | ![][flag_EC] **Mik3gam3r7919** | -win by default- |
+| Neppy5000 ![][flag_AU] | 0 | **4** | ![][flag_EC] **Mik3gam3r7919** | *win by default* |
 | \[ M e a k u \] ![][flag_SE] | 2 | **4** | ![][flag_SE] **Noercy** | [#1](https://osu.ppy.sh/community/matches/50334534) |
 | GinIkari ![][flag_DE] | 2 | **4** | ![][flag_DE] **HiddenDenki** | [#1](https://osu.ppy.sh/community/matches/50336178) |
 | GDLenny ![][flag_DE] | 0 | **4** | ![][flag_IE] **GamingHamster** | [#1](https://osu.ppy.sh/community/matches/50336185) |
-| **\_demo** ![][flag_PL] | **4** | 0 | ![][flag_AR] Elenaflores169 | -win by default- |
+| **\_demo** ![][flag_PL] | **4** | 0 | ![][flag_AR] Elenaflores169 | *win by default* |
 | Hiiiii5 ![][flag_QA] | 3 | **4** | ![][flag_CA] **Sinaeb** | [#1](https://osu.ppy.sh/community/matches/50341427) |
-| Elenaflores169 ![][flag_AR] | 0 | **4** | ![][flag_US] **james2998** | -win by default- |
+| Elenaflores169 ![][flag_AR] | 0 | **4** | ![][flag_US] **james2998** | *win by default* |
 | \_Suzuha ![][flag_RU] | 3 | **4** | ![][flag_US] **\[Hypotato\]** | [#1](https://osu.ppy.sh/community/matches/50344142) |
 
 ### Round of 32
 
-| Saturday, 2019-03-09 |  |  |  |  |
+Saturday, 9 March 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| soliderror ![][flag_AU] | 0 | **4** | ![][flag_DE] **GinIkari** | -win by default- |
-| **Xellander** ![][flag_PL] | **4** | 0 | ![][flag_DE] HiddenDenki | -win by default- |
-| **Hiiiii5** ![][flag_QA] | **4** | 0 | ![][flag_PL] Bartek22830 | -win by default- |
+| soliderror ![][flag_AU] | 0 | **4** | ![][flag_DE] **GinIkari** | *win by default* |
+| **Xellander** ![][flag_PL] | **4** | 0 | ![][flag_DE] HiddenDenki | *win by default* |
+| **Hiiiii5** ![][flag_QA] | **4** | 0 | ![][flag_PL] Bartek22830 | *win by default* |
 | **\[ M e a k u \]** ![][flag_SE] | **4** | 2 | ![][flag_FI] Ristpek | [#1](https://osu.ppy.sh/community/matches/50136455) |
 | **LoliVoiceASMR** ![][flag_ID] | **4** | 1 | ![][flag_MY] koaywj | [#1](https://osu.ppy.sh/community/matches/50137653) |
-| Firu ![][flag_MX] | 0 | **4** | ![][flag_DE] **GDLenny** | -win by default- |
-| itsAdore ![][flag_US] | 0 | **4** | ![][flag_AU] **Neppy5000** | -win by default- |
+| Firu ![][flag_MX] | 0 | **4** | ![][flag_DE] **GDLenny** | *win by default* |
+| itsAdore ![][flag_US] | 0 | **4** | ![][flag_AU] **Neppy5000** | *win by default* |
 | **TLQ\_Yoshii** ![][flag_FR] | **4** | 0 | ![][flag_PT] Wilir-senpai | [#1](https://osu.ppy.sh/community/matches/50139402) |
 | **\_demo** ![][flag_PL] | **4** | 0 | ![][flag_EC] Mik3gam3r7919 | [#1](https://osu.ppy.sh/community/matches/50141227) |
 | Noercy ![][flag_SE] | 2 | **4** | ![][flag_RU] **\_Suzuha** | [#1](https://osu.ppy.sh/community/matches/50142613) |
@@ -354,23 +376,25 @@ This competition has come to an end and resulted in the following podium:
 | \[Hypotato\] ![][flag_US] | 1 | **4** | ![][flag_FR] **Heartswimm** | [#1](https://osu.ppy.sh/community/matches/50148324) |
 | **Elenaflores169** ![][flag_AR] | **4** | 1 | ![][flag_BR] KaikyBr | [#1](https://osu.ppy.sh/community/matches/50152005) |
 | **LuriCookie** ![][flag_US] | **4** | 2 | ![][flag_US] james2998 | [#1](https://osu.ppy.sh/community/matches/50153572) |
-| **Trypha** ![][flag_FR] | **4** | 0 | ![][flag_EC] Reo09 | -win by default- |
+| **Trypha** ![][flag_FR] | **4** | 0 | ![][flag_EC] Reo09 | *win by default* |
 
-| Sunday, 2019-03-10 |  |  |  |  |
+Sunday, 10 March 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **shikuro\_re** ![][flag_HK] | **4** | 0 | ![][flag_CA] Sinaeb | [#1](https://osu.ppy.sh/community/matches/50157663) |
-| soliderror ![][flag_AU] | 0 | **4** | ![][flag_IE] **GamingHamster** | -win by default- |
+| soliderror ![][flag_AU] | 0 | **4** | ![][flag_IE] **GamingHamster** | *win by default* |
 | koaywj ![][flag_MY] | 1 | **4** | ![][flag_SE] Noercy | [#1](https://osu.ppy.sh/community/matches/50172918) |
-| **HiddenDenki** ![][flag_DE] | **4** | 0 | ![][flag_MX] Firu | -win by default- |
+| **HiddenDenki** ![][flag_DE] | **4** | 0 | ![][flag_MX] Firu | *win by default* |
 | Wilir-senpai ![][flag_PT] | 3 | **4** | ![][flag_CA] **Sinaeb** | [#1](https://osu.ppy.sh/community/matches/50172799) |
 | **Mik3gam3r7919** ![][flag_EC] | **4** | 1 | ![][flag_BR] KaikyBr | [#1](https://osu.ppy.sh/community/matches/50175768) |
-| **james2998** ![][flag_US] | **4** | 0 | ![][flag_US] itsAdore | -win by default- |
-| **Reo09** ![][flag_EC] | **4** | 0 | ![][flag_PL] Bartek22830 | -win by default- |
+| **james2998** ![][flag_US] | **4** | 0 | ![][flag_US] itsAdore | *win by default* |
+| **Reo09** ![][flag_EC] | **4** | 0 | ![][flag_PL] Bartek22830 | *win by default* |
 | Ristpek ![][flag_FI] | 1 | **4** | ![][flag_US] **\[Hypotato\]** | [#1](https://osu.ppy.sh/community/matches/50178952) |
 
 ## Ruleset
 
-### General Rules
+### General rules
 
 1. Beginners' Taiko Tournament is using double-elimination bracket and a 1v1 tournament.
 2. The Score System used will be **Score V2.**
@@ -384,13 +408,13 @@ This competition has come to an end and resulted in the following podium:
 9. Players have 15 minutes to show up to your scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
 10. Any other rules changes or unexpected occurrences will be announced in the thread.
 
-### Stage Regulations
+### Stage regulations
 
 1. There are seven stages to this tournament: the Qualifiers, the RO32, the RO16, the Quarter-Finals, Semi-Finals, the Finals and the Grand Finals.
 2. Matches are seeded. This will happen in the seeding round. More information will be held in Seeding Regulations.
 3. In order to win in RO32 and RO16, it's a Best-Of-7. In Quarterfinals, it's a Best-Of-9. In Semifinals, it's a Best-Of-11. In Finals and Grand Finals, it's a Best-Of-13.
 
-### Seeding Regulations
+### Seeding regulations
 
 1. During the seeding round, there will be multiple lobbies available at various hours. Players will be free to sign up to the lobbies they please.
 2. This match is mainly used to weed out the no-shows, however it is also used to file in any backup players who may be called upon to take place of a no-show in the future.
@@ -400,47 +424,47 @@ This competition has come to an end and resulted in the following podium:
 6. Maps will be played twice in a row during the lobby.
 7. Results will be announced on the Discord Server after the end of the weekend.
 
-### Match Regulations
+### Match regulations
 
 1. A private match will be created for your match, and both players will be invited into their match when it's their time. Make certain you're online at this time.
 2. Each player is allowed one warmup, but it must be below 3 minutes.
-3. Here is how bans and picks will happen. The first person to ban will be the loser of the !roll, then they will alternate bans. (Loser -> Winner -> Loser -> Winner) And the first person to pick will be the winner of the !roll, then they will alternate picks. (Winner -> Loser -> Winner -> Loser, etc...)
+3. Here is how bans and picks will happen. The first person to ban will be the loser of the `!roll`, then they will alternate bans. (Loser -> Winner -> Loser -> Winner) And the first person to pick will be the winner of the `!roll`, then they will alternate picks. (Winner -> Loser -> Winner -> Loser, etc...)
 4. In case of a tie, the tiebreaker will be played.
 5. Results will be displayed on Challonge, and announced by the referee.
 
-### Mappool Regulations
+### Mappool regulations
 
 1. There's a different pool in each stage of the tournament, becoming progressively harder.
 2. As stated before, NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker are the six categories that exist for this tournament.
 3. Tiebreaker is played with FreeMod.
 4. As stated previously, the mappool is released every Sunday.
 
-### Scheduling Regulations
+### Scheduling regulations
 
 1. Every stage is held during the week-ends to let players practice.
 2. Matches are allowed to overlap if referees are available.
 3. You must complete your match at the designated time or both players are eliminated.
    - However if you and your opponent can come up with a better time than what we have schedule for you, please inform us of this. We will change your match if informed before the Thursday before the week-end of matches.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_QA]: /wiki/shared/flag/QA.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_QA]: /wiki/shared/flag/QA.gif "Qatar"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

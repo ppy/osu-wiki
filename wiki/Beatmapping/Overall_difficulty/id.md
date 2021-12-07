@@ -5,17 +5,19 @@ tags:
   - notelock
   - OD
   - spinner difficulty
+outdated: true
+outdated_since: 266a07fc271ddfef0dfd369697733a2c5835a124
 ---
 
 # Overall difficulty
 
 *Untuk rekomendasi nilai OD, Silahkan lihat: [Ranking criteria](/wiki/Ranking_Criteria)*
 
-**Overall difficulty** (***OD***) menjelaskan seberapa sulit untuk mendapatkan [accuracy](/wiki/Accuracy) yang tinggi di dalam sebuah [beatmap](/wiki/Beatmap). Nilainya berkisar dari 0 sampai 10, dimana OD yang paling tinggi akan membutuhkan akurasi dan presisi yang sangat bagus. Karena akurasi itu yang paling penting untuk meningkatkan health, overall dificulty juga mempengaruhi sebarapa susah untuk menyelesaikan sebuah beatmap.
+**Overall difficulty** (***OD***) menjelaskan seberapa sulit untuk mendapatkan [accuracy](/wiki/Gameplay/Accuracy) yang tinggi di dalam sebuah [beatmap](/wiki/Beatmap). Nilainya berkisar dari 0 sampai 10, dimana OD yang paling tinggi akan membutuhkan akurasi dan presisi yang sangat bagus. Karena akurasi itu yang paling penting untuk meningkatkan health, overall dificulty juga mempengaruhi sebarapa susah untuk menyelesaikan sebuah beatmap.
 
 ## Timing
 
-Nilai OD yang paling tinggi memiliki waktu paling pendek untuk menyelesaikan [hit objects](/wiki/Hit_Objects), baik secara umum maupun dalam mendapatkan skor yang tinggi. Besar dari hit window, berpusat pada waktu tepat hit object, dijelaskan dengan tabel berikut:
+Nilai OD yang paling tinggi memiliki waktu paling pendek untuk menyelesaikan [hit objects](/wiki/Hit_object), baik secara umum maupun dalam mendapatkan skor yang tinggi. Besar dari hit window, berpusat pada waktu tepat hit object, dijelaskan dengan tabel berikut:
 
 | Skor | Hit window |
 | --: | :-- |
@@ -27,7 +29,7 @@ Jika pemain menekan hit object diluar dari 50 hit window, itu akan dihitung seba
 
 ## Sliders dan spinners
 
-Di [osu!](/wiki/Game_mode/osu!), sliders akan memberikan 300 selama mereka hit dalam 50 hit window. Ini terkadang disebut sebagai *slideracc* dan dihapus di dalam ScoreV2<!-- TODO: link -->.
+Di [osu!](/wiki/Game_mode/osu!), sliders akan memberikan 300 selama mereka hit dalam 50 hit window. Ini terkadang disebut sebagai *slideracc* dan dihapus di dalam [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
 Overall difficulty juga berefek pada spinner, dimana mereka harus memutar lebih untuk mengisi pengukur pada waktunya. Di [osu!taiko](/wiki/Game_mode/osu!taiko), denden juga membutuhkan hit yang lebih banyak untuk diselesaikan. Spin per detik sangat dibutuhkan untuk menyelesaikan spinner, yang dimana akan dijelaskan dengan rumus berikut:
 

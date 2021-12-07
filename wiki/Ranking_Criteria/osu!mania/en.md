@@ -60,6 +60,11 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **There must not be more than 6 notes pressed at any given moment in Insane or lower difficulties.** Using more than 6 notes must also follow a reasonable spread to the next lower difficulty. This rule does not apply to ends of long notes, as they are released, not pressed.
 - **Beatmaps can only use 4 to 10 keys.** Anything else is not supported for the Ranked section.
 - **If multiple key modes are present in a single beatmap, the key mode must be denoted in all difficulty names. Otherwise, the key mode must not be denoted.**
+- **If the [drain time](/wiki/Gameplay/Drain_time) of each difficulty is...**
+  - **...lower than 2:30**, the lowest difficulty of each included keymode cannot be harder than a Normal, **OR** each keymode must provide a spread starting at least 3 difficulty levels below the highest difficulty.
+  - **...between 2:30 and 3:15**, the lowest difficulty of each included keymode cannot be harder than a Hard, **OR** each keymode must provide a spread starting at least 2 difficulty levels below the highest difficulty.
+  - **...between 3:15 and 4:00**, the lowest difficulty of each included keymode cannot be harder than an Insane, **OR** each keymode must provide a spread starting at least 1 difficulty level below the highest difficulty.
+- On difficulties Insane and harder, a proper spread is defined by relative difficulty gaps similar to those formally defined between lower difficulties.
 
 ### Guidelines
 
@@ -67,10 +72,10 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
   - would be unreasonable to play with full accuracy.
   - would be effectively represented with a consistent, predictable snap.
   - would cause an inappropriate difficulty spike.
-- **Avoid using storyboard sampled hitsounds with similar volume to hitsounds on notes.** As storyboarded hitsounds can overwhelm and distort audio feedback from objects in the beatmap, placing hitsounds on a note in the chart should be prioritized. However, storyboarded samples may be used when keysounds are extracted directly from a song and when low difficulties have too few notes to support necessary hitsounds.
+- **Avoid using storyboard sampled hitsounds with similar volume to hitsounds on notes.** As storyboarded hitsounds can overwhelm and distort audio feedback from objects in the beatmap, placing hitsounds on a note in the chart should be prioritised. However, storyboarded samples may be used when keysounds are extracted directly from a song and when low difficulties have too few notes to support necessary hitsounds.
 - **Do not use keysounds without hitnormal support.** If hitsounds blend perfectly with the song, feedback for hitting notes is minimal. However, when keysounds extracted directly from a song are used as a replacement for a song's audio, they do not need hitnormal support.
 - **Avoid using the same hitsound for multiple notes in a chord.** This causes feedback to be louder than necessary. This also applies to active hitsounds and storyboard hitsounds used at the same timestamp.
-- **Timing changes should have a unified scroll speed by adjusting slider velocity.** This is done by normalizing the scroll speed of all timing sections to the most used one in the beatmap. The number is shown in parentheses after the BPM range in the song selection, e.g. `BPM: 60-160 (130)`. Note that this guideline does not affect the ability to add slider velocity changes which are used to create SV effects.
+- **Timing changes should have a unified scroll speed by adjusting slider velocity.** This is done by normalising the scroll speed of all timing sections to the most used one in the beatmap. The number is shown in parentheses after the BPM range in the song selection, e.g. `BPM: 60-160 (130)`. Note that this guideline does not affect the ability to add slider velocity changes which are used to create SV effects.
 - **Slider velocity changes should follow the general intensity of the song.**
 - **Slider velocity changes should be snapped according to the song's beat structure.** If the song is using a straight beat, 1/4, 1/8, 1/16 should be used. If the song is using a swing beat, 1/6 or 1/12 should be used. If the song has a beat in a different position from what is recommended, snapping to an actual beat always takes priority.
 - **Avoid spamming short kiai time segments.** Doing so can be distracting and can negatively affect gameplay.
@@ -87,7 +92,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
-- **Scroll normalization must be done in beatmaps with variable BPM.**
+- **Scroll normalisation must be done in beatmaps with variable BPM.**
 
 #### Guidelines
 
@@ -108,7 +113,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 If a Normal difficulty is required and used as the *lowest difficulty* of a beatmap, it must also abide by these rules:
 
 - **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
-- **Scroll normalization must be done in beatmaps with variable BPM.**
+- **Scroll normalisation must be done in beatmaps with variable BPM.**
 
 #### Guidelines
 
@@ -150,7 +155,7 @@ Additional guidelines for *7 key Normal* difficulties:
 - **1/4 Jack usage is discouraged.** These can be too physically demanding for players of this level. Minijacks with ample rest time in between may be acceptable.
 - **Avoid using more than 9 consecutive notes in a trill.** The coordination and hand balance required for this pattern is too difficult for players at this skill level.
 - **Long notes should be held for at least 1/4 of a beat.**
-- **Objects directly after short-term slider velocity changes should appear at the beatmap's normal scroll speed.** To do this, short-term slider velocity changes should only be used in empty spaces between notes and should equalize to a distance of 1.0x.
+- **Objects directly after short-term slider velocity changes should appear at the beatmap's normal scroll speed.** To do this, short-term slider velocity changes should only be used in empty spaces between notes and should equalise to a distance of 1.0x.
 - **Long-term slider velocity changes should be between 0.8x and 1.10x.**
 - **Slider Velocity gimmicks should be reactable within 1/2 of a beat or more.**
 
@@ -174,7 +179,7 @@ Additional guidelines for *7 key Hard* difficulties:
 - **Avoid using split rolls or any kind of complicated 1/8 streams lasting longer than 4 beats.** Streams of this type of snap are hard to execute and should only be used if the song warrants it.
 - **Avoid using 1/6 or higher snap long note streams.** These are very hard to hit and release because of their very short length. Use regular notes in place of streams instead.
 - **Long-term slider velocity changes should be between 0.70x and 1.10x.**
-- **Slider Velocity gimmicks should be reactable within 1/4 of a beat or more when unnormalized and 1/2 of a beat or more when normalized.**
+- **Slider Velocity gimmicks should be reactable within 1/4 of a beat or more when unnormalised and 1/2 of a beat or more when normalised.**
 
 Additional guidelines for *4 key Insane* difficulties:
 

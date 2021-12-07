@@ -2,6 +2,8 @@
 tags:
   - BN
   - BNG
+outdated: true
+outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 ---
 
 # 비트맵 노미네이터
@@ -12,7 +14,7 @@ tags:
 
 ## 역할과 책임
 
-BN은 주로 [보류 중 상태인 비트맵](/wiki/Beatmap/Category#work-in-progress-and-pending)을 [모딩](/wiki/Modding)하고 승인해 랭킹 사이클로 올리는 일을 담당합니다. 이들은 매핑이나 모딩에 관련된 내용들을 알려주거나 요청을 받습니다. 이미 지명받은 비트맵에 랭킹 기준을 위반한 내용이 없으나 반드시 수정되어야 하는 문제가 있다고 생각하면 누구나 [비트맵 Veto](Beatmap_Veto)를 걸 수 있습니다.
+BN은 주로 [보류 중 상태인 비트맵](/wiki/Beatmap/Category#보류-중-&-작업-중)을 [모딩](/wiki/Modding)하고 승인해 랭킹 사이클로 올리는 일을 담당합니다. 이들은 매핑이나 모딩에 관련된 내용들을 알려주거나 요청을 받습니다. 이미 지명받은 비트맵에 랭킹 기준을 위반한 내용이 없으나 반드시 수정되어야 하는 문제가 있다고 생각하면 누구나 [비트맵 Veto](Beatmap_Veto)를 걸 수 있습니다.
 
 추가로, 모든 BN은 [비트맵 노미네이터 행동강령](Expectations)에 명시되어 있듯이 다양한 맵과 매퍼들에게 관심을 가지고 그들의 실력 향상을 위해 노력함으로써 보다 큰 커뮤니티에 유연한 기준으로 도움을 주는 데에 초점을 둘 수 있도록 요구됩니다.
 
@@ -217,41 +219,41 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 - 2014년 8월 22일부로  BAT는 스태프 팀에서 제외되었고, 이로 인해 인게임 채팅 관리 권한 및 인게임과 포럼에서 빨간 닉네임이 사라지게 되었습니다. 
 - 2015년 2월 1일부로 *BAT*에서 *비트맵 노미네이션 그룹(Beatmap Nomination Group)*으로 변경되었고, 이후 우리가 현재 알고 있는 비트맵 노미네이터로 변경되었습니다.
 
-[flag_AT]: /wiki/shared/flag/AT.gif "오스트리아"
-[flag_AU]: /wiki/shared/flag/AU.gif "호주"
-[flag_BE]: /wiki/shared/flag/BE.gif "벨기에"
-[flag_BR]: /wiki/shared/flag/BR.gif "브라질"
-[flag_BY]: /wiki/shared/flag/BY.gif "벨라루스"
-[flag_CA]: /wiki/shared/flag/CA.gif "캐나다"
-[flag_CL]: /wiki/shared/flag/CL.gif "칠레"
-[flag_CN]: /wiki/shared/flag/CN.gif "중국"
-[flag_DE]: /wiki/shared/flag/DE.gif "독일"
-[flag_DK]: /wiki/shared/flag/DK.gif "덴마크"
-[flag_EC]: /wiki/shared/flag/EC.gif "에콰도르"
-[flag_EG]: /wiki/shared/flag/EG.gif "이집트"
-[flag_FI]: /wiki/shared/flag/FI.gif "핀란드"
-[flag_FR]: /wiki/shared/flag/FR.gif "프랑스"
-[flag_GB]: /wiki/shared/flag/GB.gif "영국"
-[flag_GR]: /wiki/shared/flag/GR.gif "그리스"
-[flag_HK]: /wiki/shared/flag/HK.gif "홍콩"
-[flag_ID]: /wiki/shared/flag/ID.gif "인도네시아"
-[flag_IT]: /wiki/shared/flag/IT.gif "이탈리아"
-[flag_JP]: /wiki/shared/flag/JP.gif "일본"
-[flag_KR]: /wiki/shared/flag/KR.gif "대한민국"
-[flag_MY]: /wiki/shared/flag/MY.gif "말레이시아"
-[flag_NL]: /wiki/shared/flag/NL.gif "네덜란드"
-[flag_NO]: /wiki/shared/flag/NO.gif "노르웨이"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "뉴질랜드"
-[flag_PH]: /wiki/shared/flag/PH.gif "필리핀"
-[flag_PL]: /wiki/shared/flag/PL.gif "폴란드"
-[flag_PR]: /wiki/shared/flag/PR.gif "푸에르토리코"
-[flag_RS]: /wiki/shared/flag/RS.gif "세르비아"
-[flag_RU]: /wiki/shared/flag/RU.gif "러시아"
-[flag_SE]: /wiki/shared/flag/SE.gif "스웨덴"
-[flag_SG]: /wiki/shared/flag/SG.gif "싱가포르"
-[flag_TH]: /wiki/shared/flag/TH.gif "태국"
-[flag_TN]: /wiki/shared/flag/TN.gif "튀니지"
-[flag_TR]: /wiki/shared/flag/TR.gif "터키"
-[flag_TW]: /wiki/shared/flag/TW.gif "대만"
-[flag_US]: /wiki/shared/flag/US.gif "미국"
-[flag_VN]: /wiki/shared/flag/VN.gif "베트남"
+[flag_AT]: /wiki/shared/flag/AT.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BE]: /wiki/shared/flag/BE.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
+[flag_BY]: /wiki/shared/flag/BY.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_DK]: /wiki/shared/flag/DK.gif
+[flag_EC]: /wiki/shared/flag/EC.gif
+[flag_EG]: /wiki/shared/flag/EG.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_GR]: /wiki/shared/flag/GR.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_PR]: /wiki/shared/flag/PR.gif
+[flag_RS]: /wiki/shared/flag/RS.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_TH]: /wiki/shared/flag/TH.gif
+[flag_TN]: /wiki/shared/flag/TN.gif
+[flag_TR]: /wiki/shared/flag/TR.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_US]: /wiki/shared/flag/US.gif
+[flag_VN]: /wiki/shared/flag/VN.gif

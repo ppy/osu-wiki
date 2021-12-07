@@ -13,17 +13,19 @@ tags:
 
 *Kimlerin terfi ettiğini veya emekliye ayrıldığını öğrenmek için, buraya bakın: [Personel Kayıtları](/wiki/Staff_Log)*
 
-Aşağıdaki listelenen kişiler **osu!team** çekirdek kadrosunu oluşturmakta, ve oyunu herkes için harika hale getirmekten sorumludur.
+Aşağıdaki listelenen kişiler osu! ekibinin çekirdek kadrosunu oluşturmakta, ve oyunu herkes için harika hale getirmekten sorumludur.
 
 | İsim | Rol Tanımı |
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Proje lideri** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Modlama ve mapleme danışmanı |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | Dünya Kupası organizatörü ve yöneticisi |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderasyon ve topluluk danışmanı |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Dünya Kupası organizatörü ve yöneticisi |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Proje ve topluluk idaresi, Featured Artist'lerle iletişim |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Dizayn lideri, Creative Cloud seyircisi |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Modlama ve mapleme danışmanı |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Modlama ve mapleme danışmanı |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Dünya Kupası organizatörü ve yöneticisi |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | osu!web geliştiricisi |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Ev genel idarecisi, moderasyon danışmanı |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!web geliştiricisi, [resmi osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
@@ -68,6 +70,7 @@ Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyeler
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Dünya Kupası organizatörü ve yöneticisi |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Dünya Kupası organizatörü ve yöneticisi, QAT lideri, topluluk yöneticisi |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Destansı tema tasarımcısı, varsayılan tema ve ikon seti katkısı. [DeviantArt](https://luigihann.deviantart.com/) |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Modlama ve mapleme danışmanı |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | osu! geliştiricisi, mm sliderlarının mucidi |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone geliştiricisi |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | osu! geliştiricisi, Mappers' Guild organizatörü |
@@ -83,6 +86,7 @@ Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyeler
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Arjantin"
 [flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brezilya"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Şili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Çin"

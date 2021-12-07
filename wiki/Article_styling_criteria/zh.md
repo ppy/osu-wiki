@@ -18,7 +18,7 @@ outdated: true  # the original article has been UPDATED and split into two, Form
 
 ## 本地化
 
-下面是 osu!wiki 允许的语言列表。文件名是两个字符的语言代码 ([ISO 639-1](https://baike.baidu.com/item/ISO%20639-1/8292914 "百度百科条目"))，扩展名为`.md`，如`zh.md`。如果语言在不同国家/地区存在差异，则文件名是两个字符的语言代码 ([ISO 639-1](https://baike.baidu.com/item/ISO%20639-1/8292914 "百度百科条目"))，后跟一个连字号 (`-`)，两个字符的国家/地区代码 ([ISO 3166-2](https://baike.baidu.com/item/ISO%203166-1/5269555 "百度百科条目"))，然后加上扩展名`.md`，如`zh-tw.md`。
+下面是 osu!wiki 允许的语言列表。文件名是两个字符的语言代码 ([ISO 639-1](https://baike.baidu.com/item/ISO%20639-1/8292914))，扩展名为`.md`，如`zh.md`。如果语言在不同国家/地区存在差异，则文件名是两个字符的语言代码 ([ISO 639-1](https://baike.baidu.com/item/ISO%20639-1/8292914))，后跟一个连字号 (`-`)，两个字符的国家/地区代码 ([ISO 3166-2](https://baike.baidu.com/item/ISO%203166-1/5269555))，然后加上扩展名`.md`，如`zh-tw.md`。
 
 | 文件名 | 中文写法 | 当地写法 |
 | :-- | :-- | :-- |
@@ -54,7 +54,7 @@ outdated: true  # the original article has been UPDATED and split into two, Form
 
 *请注意：osu!wiki 会为读者提供文章的所选语言版本，如果没有，会显示英文版本。*
 
-如果你的语言未在上面列出，则可以在 URL 后面附加 `?locale={langcode}`（其中 `{langcode}` 是该语言的两个小写字母语言代码，例如访问 `https://osu.ppy.sh/help/wiki/Welcome?locale=zh`，无论选择哪种语言，都会为你提供欢迎文章的中文版）或者在 [Crowdin 上协助翻译 osu-web](https://crowdin.com/project/osu-web)。如果你需要翻译网站的帮助或想要讨论翻译结果，你可以加入 [osu!dev Discord 服务器](https://discord.gg/ppy) 在 `#osu-web` 频道中讨论。
+如果你的语言未在上面列出，则可以在 URL 后面附加 `?locale={langcode}`（其中 `{langcode}` 是该语言的两个小写字母语言代码，例如访问 `https://osu.ppy.sh/help/wiki/Rules?locale=zh`，无论选择哪种语言，都会为你提供欢迎文章的中文版）或者在 [Crowdin 上协助翻译 osu-web](https://crowdin.com/project/osu-web)。如果你需要翻译网站的帮助或想要讨论翻译结果，你可以加入 [osu!dev Discord 服务器](https://discord.gg/ppy) 在 `#osu-web` 频道中讨论。
 
 ### 内容对等
 
@@ -69,7 +69,7 @@ outdated: true  # the original article has been UPDATED and split into two, Form
 
 ### 元数据
 
-元数据（有些时候也被称为“前言”）必须放置在文件的最顶部。它由 [YAML](https://baike.baidu.com/item/YAML/1067697 "YAML 百度百科条目") 编写，并描述了有关该文章的其他信息。元数据必须在其上下两行用三个连字符（`---`）包围，并且在其后必须有一空行。
+元数据（有些时候也被称为“前言”）必须放置在文件的最顶部。它由 [YAML](https://baike.baidu.com/item/YAML/1067697) 编写，并描述了有关该文章的其他信息。元数据必须在其上下两行用三个连字符（`---`）包围，并且在其后必须有一空行。
 
 #### 需要整理帮助的文章
 
@@ -221,7 +221,7 @@ Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应�
 ```markdown
 ## Beatmapping
 
-*See also: [Storyboarding](/wiki/Storyboarding)*
+*See also: [Storyboarding](/wiki/Storyboard#storyboarding)*
 ```
 
 #### 关于;请见
@@ -495,7 +495,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 例如：
 
 ```markdown
-[欢迎](/wiki/Welcome)
+[Rules](/wiki/Rules)
 [pippi](/wiki/Mascots#-pippi)
 ```
 
@@ -568,7 +568,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 例如：
 
 ```markdown
-*关于 Music theory 的更多信息，请见：[Music theory](https://en.wikipedia.org/wiki/Music_theory "Wikipedia")*
+*关于 Music theory 的更多信息，请见：[Music theory](https://en.wikipedia.org/wiki/Music_theory)*
 ```
 
 #### 重定向
@@ -584,7 +584,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 "asc":      "Article_Styling_Criteria"
 ```
 
-你可以这样使用：`[文章风格规范](/wiki/ASC)`。这样写等同于`[文章风格规范](/wiki/Article_Styling_Criteria)`，因为重定向对大小写不敏感。
+你可以这样使用：`[文章风格规范](/wiki/ASC)`。这样写等同于`[文章风格规范](/wiki/Article_styling_criteria)`，因为重定向对大小写不敏感。
 
 ### 图片
 
@@ -601,7 +601,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 ```markdown
 ![][flag_AU]
 
-[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 ```
 
 如果图片仅被引用一次，则必须使用前者。而后者必须把变量赋值放在文章的结尾处。

@@ -82,7 +82,7 @@ HP Drain Rate, commonly abbreviated as HP, determines the rate of health recover
 
 In osu! and osu!catch, this also affects the [Passive HP](/wiki/Glossary/Health_bar) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Beatmap/Break).
 
-*Note: More HP is recovered with [Geki and Katu](/wiki/Score#osu!) hit scores, which can be given from the last hit object in a combo.*
+*Note: More HP is recovered with [Geki](/wiki/Geki) and [Katu](/wiki/Katu) hit scores, which can be given from the last hit object in a combo.*
 
 ### Circle Size
 
@@ -184,7 +184,7 @@ The `Samples match playback rate (for fully-hitsounded maps)` checkbox will adju
 
 Configure the combo colours and playfield's background colour.
 
-### Hitcircle/Slider Combos
+### Hit circle/Slider Combos
 
 Configure the custom combo colour set. Combo colouring is an important aspect to a beatmap's aesthetic value.
 
@@ -214,10 +214,10 @@ When enabled, the countdown animation can be refined using the `Countdown Speed`
 
 ### Misc. Toggles
 
-- `Widescreen Support`: Remove [sidebars/pillarboxes](https://en.wikipedia.org/wiki/Pillarbox "Wikipedia") from the left and right side of the playfield if the client is using any aspect ratio greater than `4:3`. This is typically enabled when using storyboard elements but can be disabled.
+- `Widescreen Support`: Remove [sidebars/pillarboxes](https://en.wikipedia.org/wiki/Pillarbox) from the left and right side of the playfield if the client is using any aspect ratio greater than `4:3`. This is typically enabled when using storyboard elements but can be disabled.
 - `Display storyboard in front of combo fire`: An obsolete setting, this can be ignored.
 - `Display epilepsy warning (storyboard has quick strobing)`: Display an epilepsy warning for (quick or any) flashing storyboards in the beatmap.
-- `Letterbox during breaks`: Determine if the beatmap should (or should not) put [letterboxes](https://en.wikipedia.org/wiki/Letterboxing_(filming) "Wikipedia") during breaks in the beatmap. This is usually enabled by default, but using this option in for osu!mania-specific beatmaps is not allowed.
+- `Letterbox during breaks`: Determine if the beatmap should (or should not) put [letterboxes](https://en.wikipedia.org/wiki/Letterboxing_(filming)) during breaks in the beatmap. This is usually enabled by default, but using this option in for osu!mania-specific beatmaps is not allowed.
 
 ### Skinning
 

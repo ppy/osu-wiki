@@ -8,7 +8,6 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Chat Moderator |
-| ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) | Chat Moderator, GMT |
 | ![][flag_HK] [aabc271](https://osu.ppy.sh/users/155707) | BAT |
 | ![][flag_CN] [abalee](https://osu.ppy.sh/users/13103) | BAT |
 | ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982) | GMT |
@@ -39,6 +38,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | GMT, QAT |
 | ![][flag_CA] [CheeseWarlock](https://osu.ppy.sh/users/9072) | BAT |
 | ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323) | BAT |
+| ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | GMT |
 | ![][flag_CN] [Colin Hou](https://osu.ppy.sh/users/196614) | BAT |
 | ![][flag_NO] [CXu](https://osu.ppy.sh/users/84841) | BAT |
 | ![][flag_FR] [Cyclohexane](https://osu.ppy.sh/users/116078) | GMT |
@@ -71,6 +71,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | BAT |
 | ![][flag_DE] [Ezoda](https://osu.ppy.sh/users/1231180) | Support Team |
 | ![][flag_SG] [Faust](https://osu.ppy.sh/users/65152) | BAT |
+| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | QAT, NAT |
 | ![][flag_US] [foulcoon](https://osu.ppy.sh/users/19883) | BAT |
 | ![][flag_FI] [Fraeon](https://osu.ppy.sh/users/2271) | BAT |
 | ![][flag_TH] [Frostmourne](https://osu.ppy.sh/users/199669) | GMT, QAT |
@@ -108,6 +109,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_KR] [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
 | ![][flag_MX] [Kenezz](https://osu.ppy.sh/users/167050) | BAT |
 | ![][flag_TH] [Kharl](https://osu.ppy.sh/users/452) | BAT |
+| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) | BAT, QAT, NAT |
 | ![][flag_US] [kingcobra52](https://osu.ppy.sh/users/9934) | BAT |
 | ![][flag_AU] [kingking9](https://osu.ppy.sh/users/1277097) | GMT |
 | ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420) | Chat Moderator |
@@ -115,7 +117,6 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_FR] [Krah](https://osu.ppy.sh/users/1436748) | BAT, GMT, QAT |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | BAT |
 | ![][flag_KR] [KRZY](https://osu.ppy.sh/users/114017) | Chat Moderator |
-| ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | BAT, GMT, QAT |
 | ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) | QAT |
 | ![][flag_CL] [Kylecito](https://osu.ppy.sh/users/488) | BAT |
 | ![][flag_CA] [Kytoxid](https://osu.ppy.sh/users/98460) | BAT |
@@ -156,19 +157,19 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_NL] [mrtn](https://osu.ppy.sh/users/7013) | BAT |
 | ![][flag_HU] [Mystyk](https://osu.ppy.sh/users/930165) | Chat Moderator |
 | ![][flag_DE] [Myxomatosis](https://osu.ppy.sh/users/2202645) | BAT, QAT |
+| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | GMT |
 | ![][flag_UY] [narakucrimson](https://osu.ppy.sh/users/287468) | BAT |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | QAT, NAT |
 | ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) | BAT |
-| ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | NAT |
 | ![][flag_TR] [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
 | ![][flag_PH] [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
 | ![][flag_CN] [Nymph](https://osu.ppy.sh/users/601990) | BAT |
 | ![][flag_CN] [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
 | ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Chat Moderator, Support Team |
-| ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | QAT |
 | ![][flag_TH] [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ![][flag_FI] [Orkel](https://osu.ppy.sh/users/39385) | Chat Moderator |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | GMT |
 | ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | GMT, Support Team |
 | ![][flag_NL] [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
@@ -189,6 +190,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | BAT |
 | ![][flag_US] [Seibei4211](https://osu.ppy.sh/users/31537) | BAT |
 | ![][flag_MD] [senaya](https://osu.ppy.sh/users/304103) | Chat Moderator |
+| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | NAT |
 | ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) | Chat Moderator, GMT |
 | ![][flag_US] [Shinde](https://osu.ppy.sh/users/103282) | MAT |
 | ![][flag_CA] [Shinxyn](https://osu.ppy.sh/users/13996) | BAT |
@@ -199,6 +201,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | QAT, NAT |
 | ![][flag_US] [Starrodkirby86](https://osu.ppy.sh/users/410) | BAT |
 | ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) | QAT |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | GMT |
 | ![][flag_CN] [Strawberry](https://osu.ppy.sh/users/519978) | BAT |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | GMT |
 | ![][flag_FR] [Sushi](https://osu.ppy.sh/users/43108) | BAT |
@@ -215,6 +218,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878) | BAT |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ![][flag_AU] [tsububu](https://osu.ppy.sh/users/61) | BAT |
+| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
 | ![][flag_TR] [UnderminE](https://osu.ppy.sh/users/444223) | Chat Moderator |
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, Support Team |
@@ -237,9 +241,11 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | GMT |
 | ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | osu!academy Founder, GMT |
 | ![][flag_US] [Zyid](https://osu.ppy.sh/users/2778) | BAT |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"

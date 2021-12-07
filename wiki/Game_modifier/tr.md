@@ -16,7 +16,7 @@ tags:
 
 Oyuncular, `Mod Seçim Ekranı`'na, şarkı seçme ekranının sol köşesinde yer alan `Mods` butonuna basarak, ya da klavyelerindeki `F1` tuşuna basarak ulaşabilirler. Ayrıca, `Mod Seçim Ekranı`'nda belirli modları seçmenize olanak sağlayan klavye kısayolları da bulunur. Bu kısayollar Seçenekler içerisinden değiştirilebilir.
 
-Seçim ekranında modlar üç farklı kategoriye ayrılmıştır: `Zorluk Azaltma`, `Zorluk Arttırma`, ve `Özel`. Aynı zamanda, bunlar [`Skor Çarpanı`](/wiki/Score_multiplier)'nı arttırabilir, azaltabilir, veya sıfırlayabilir. Birden fazla mod aynı anda seçildiğinde, modların çarpanları birbiriyle çarpılacaktır (örn., `1.06x * 1.12x = 1.1872x`).
+Seçim ekranında modlar üç farklı kategoriye ayrılmıştır: `Zorluk Azaltma`, `Zorluk Arttırma`, ve `Özel`. Aynı zamanda, bunlar [`Skor Çarpanı`](/wiki/Game_modifier/Score_multiplier)'nı arttırabilir, azaltabilir, veya sıfırlayabilir. Birden fazla mod aynı anda seçildiğinde, modların çarpanları birbiriyle çarpılacaktır (örn., `1.06x * 1.12x = 1.1872x`).
 
 ## Modların listesi
 
@@ -53,13 +53,13 @@ Aşağıda belirtilen her modun yanında uyumlu olduğu oyun modlarının ikonu 
 - [Auto (AT)](/wiki/Game_modifier/Auto) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
   - [Cinema (CM)](/wiki/Game_modifier/Cinema) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [ScoreV2 (SV2)](/wiki/Game_modifier/ScoreV2) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Target Practice (TP)](/wiki/Game_modifier/Target_Practice) ![][osu!] **Sadece Cutting Edge'e özel**
+- [Target Practice (TP)](/wiki/Game_modifier/Target_Practice) ![][osu!] **Sadece Cutting Edge (Experimental)'e özel**
 
 ### Diğer
 
 *Not: Bu modlar eskiden kullanılabiliyordu, fakat artık mevcut değil.*
 
-- [10K](/wiki/Game_modifier/10k) ![][osu!mania]
+- [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 

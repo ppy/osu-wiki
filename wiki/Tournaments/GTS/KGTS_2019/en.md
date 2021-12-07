@@ -9,7 +9,7 @@ tags:
 
 ![KGTS 2019 logo](img/logo.jpg)
 
-The **Katacheh Global Taiko Showdown 2019** (***KGTS 2019***) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament includes only **[katacheh maps](https://osu.ppy.sh/beatmapsets?m=1&s=any&q=katacheh)**. It was the first installment of the Katacheh Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Katacheh Global Taiko Showdown 2019** (***KGTS 2019***) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament includes only **[katacheh maps](https://osu.ppy.sh/beatmapsets?m=1&s=any&q=katacheh)**. It was the first instalment of the Katacheh Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -36,7 +36,7 @@ The Katacheh Global Taiko Showdown 2019 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Map selector | ![][flag_TW] [katacheh](https://osu.ppy.sh/users/6651672) |
+| Mappool selector | ![][flag_TW] [katacheh](https://osu.ppy.sh/users/6651672) |
 | Referee | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_FR] [Apsuko](https://osu.ppy.sh/users/9313135), ![][flag_MA] [clorox\_1g](https://osu.ppy.sh/users/9702728), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Streamer | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Commentator | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
@@ -252,7 +252,7 @@ Sunday, 6 October 2019:
 9. The player with the highest roll **bans second and picks first**. The playerwith the lowest roll **bans first and picks second**.
 10. Beatmap selection will then alternate between each player selecting a beatmap out of the map pool.
 11. Players may pick freely from any bracket.
-12. Players will have 2 minutes to ban and pick maps, and to get ready as well. If by the end of the timer no map is picked, the referee will !roll with the number of maps left in the pool, and the number he will fall on will be the pick.
+12. Players will have 2 minutes to ban and pick maps, and to get ready as well. If by the end of the timer no map is picked, the referee will `!roll` with the number of maps left in the pool, and the number he will fall on will be the pick.
 13. If a player disconnects between the beatmaps and he can not provide an exchange, the match can be delayed 10 minutes at maximum.
 14. If a player disconnects, they get treated as if they failed the map.
 15. Disconnects within 30 seconds after beatmap begin can be rematched. This is only allowed once per player/team.

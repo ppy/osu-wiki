@@ -1,19 +1,19 @@
 ---
 tags:
-- Highlander Con
-- LAN
-- MALE
-- Riverside
-- UCR
+  - Highlander Con
+  - LAN
+  - MALE
+  - Riverside
+  - UCR
 ---
 
 # Most Amazing LAN Ever
 
-![MALE Logo](img/logo.png)
+![MALE logo](img/logo.png)
 
 The **Most Amazing LAN Ever** (***MALE***) was an osu! and osu!mania BYOC LAN tournament hosted by ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923) and ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614). It took place during *Highlander Con 2019*, a competitive gaming festival hosted by Highlander Gaming at the University of California, Riverside (*UCR*).
 
-## Event Details
+## Event details
 
 The Most Amazing LAN Ever was run over the duration of Highlander Con, from 9:00 a.m. to 10:00 p.m. PST on Sunday, January 27th, 2019. osu! and osu!mania tournaments started around 3:00 p.m. and 11:00 a.m., respectively.
 
@@ -25,11 +25,11 @@ All prizes were awarded to both the osu! and osu!mania winners.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, Aorus K7 keyboard |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Aorus M3 mouse |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | AMP500 mousepad |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, Aorus K7 keyboard |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Aorus M3 mouse |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | AMP500 mousepad |
 
-![MALE osu! profile badge](img/badge-osu.png) ![MALE osu!mania profile badge](img/badge-mania.png)
+![](img/badge-osu.png "MALE osu! winner badge") ![](img/badge-mania.png "MALE osu!mania winner badge")
 
 ## Organisation
 
@@ -39,7 +39,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 | :-- | :-- |
 | Host | ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614) |
 | Commentator | ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614) |
-| Map Selector | ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614), ![][flag_US] [Harrharrqi](https://osu.ppy.sh/users/2744592), ![][flag_SG] [Sheenoboo](https://osu.ppy.sh/users/5704437) |
+| Mappool selector | ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614), ![][flag_US] [Harrharrqi](https://osu.ppy.sh/users/2744592), ![][flag_SG] [Sheenoboo](https://osu.ppy.sh/users/5704437) |
 
 ## Links
 
@@ -82,19 +82,17 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] Mathyu |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] Darin on osu |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] Kenny |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459) |
 
 ### osu!mania
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] Zushen |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] Ecal |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] Ouchiee |
-
----
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Zushen](https://osu.ppy.sh/users/2106316) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) |
 
 ## Mappools
 
@@ -183,7 +181,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 - Tiebreaker
   - **[Rain - 7's color umbrella (Meg) [Megumi Collab]](https://osu.ppy.sh/beatmapsets/625874#osu/1319316)**
 
-#### Group Stage
+#### Group stage
 
 - NoMod
   - [Sakurakou K-ON Bu - Cagayake!GIRLS[5nin Ver.] (TV size Ver.) (Pata-Mon) [Yui]](https://osu.ppy.sh/beatmapsets/666366#osu/1427838)
@@ -216,7 +214,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 - Tiebreaker
   - **[DJ Sharpnel - WE LUV LAMA (^) [14]](https://osu.ppy.sh/beatmapsets/353146#mania/778075)**
 
-#### Second Stage
+#### Second stage
 
 - FreeMod
   - [Cuvelia - Tenkuu no Yoake (Ibrahim) [CS' Extra]](https://osu.ppy.sh/beatmapsets/509270#mania/1083920)
@@ -231,7 +229,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 - Tiebreaker
   - **[goreshit - the nature of dying (Wonki) [oblivion]](https://osu.ppy.sh/beatmapsets/453378#mania/1019378)**
 
-#### First Stage
+#### First stage
 
 - FreeMod
   - [Blend A - Bon Appetit S (TV Size) (Amiichii) [Sadistic]](https://osu.ppy.sh/beatmapsets/690240#mania/1460895)
@@ -246,9 +244,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 - Tiebreaker
   - **[Grand Thaw - Aventyr (Sephriggorshas) [Hard]](https://osu.ppy.sh/beatmapsets/131691#mania/331525)**
 
----
-
-## Match Results
+## Match results
 
 ### osu!
 
@@ -256,27 +252,27 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Darin on osu** ![][flag_US] | **1** | 0 | ![][flag_US] Kenny | Forfeit (left early) |
-| **Mathyu** ![][flag_US] | **7** | 1 | ![][flag_US] Darin on osu | [Multiplayer match](https://osu.ppy.sh/community/matches/49192152) |
+| **Darin on osu** ![][flag_US] | **1** | 0 | ![][flag_US] Kenny | *forfeit (left early)* |
+| **Mathyu** ![][flag_US] | **7** | 1 | ![][flag_US] Darin on osu | [#1](https://osu.ppy.sh/community/matches/49192152) |
 
 #### Finals
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **R Y A N** ![][flag_US] | **6** | 1 | ![][flag_US] Riku on osu | [Multiplayer match](https://osu.ppy.sh/community/matches/49191321) |
-| **Kenny** ![][flag_US] | **6** | 4 | ![][flag_US] clayton | [Multiplayer match](https://osu.ppy.sh/community/matches/49191330) |
-| R Y A N ![][flag_US] | 5 | **7** | ![][flag_US] **Kenny** | [Multiplayer match](https://osu.ppy.sh/community/matches/49191755) |
-| **Mathyu** ![][flag_US] | **6** | 4 | ![][flag_US] Darin on osu | [Multiplayer match](https://osu.ppy.sh/community/matches/49191316) |
+| **R Y A N** ![][flag_US] | **6** | 1 | ![][flag_US] Riku on osu | [#1](https://osu.ppy.sh/community/matches/49191321) |
+| **Kenny** ![][flag_US] | **6** | 4 | ![][flag_US] clayton | [#1](https://osu.ppy.sh/community/matches/49191330) |
+| R Y A N ![][flag_US] | 5 | **7** | ![][flag_US] **Kenny** | [#1](https://osu.ppy.sh/community/matches/49191755) |
+| **Mathyu** ![][flag_US] | **6** | 4 | ![][flag_US] Darin on osu | [#1](https://osu.ppy.sh/community/matches/49191316) |
 
 #### Semifinals
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| J_8579 ![][flag_US] | 0 | **4** | ![][flag_US] **GiraffeMidget** | [Multiplayer match](https://osu.ppy.sh/community/matches/49190507) |
-| **Riku on osu** ![][flag_US] | **4** | 0 | ![][flag_US] andrew22r | [Multiplayer match](https://osu.ppy.sh/community/matches/49190193) |
-| **clayton** ![][flag_US] | **4** | 1 | ![][flag_US] Ikeda Chizuru | [Multiplayer match](https://osu.ppy.sh/community/matches/49190471) |
-| **death grips** ![][flag_US] | **1** | 0 | ![][flag_US] DetectiveBleh | Forfeit (no-show) |
-| GiraffeMidget ![][flag_US] | 0 | **1** | ![][flag_US] **Riku on osu** | Forfeit (left early) |
+| J_8579 ![][flag_US] | 0 | **4** | ![][flag_US] **GiraffeMidget** | [#1](https://osu.ppy.sh/community/matches/49190507) |
+| **Riku on osu** ![][flag_US] | **4** | 0 | ![][flag_US] andrew22r | [#1](https://osu.ppy.sh/community/matches/49190193) |
+| **clayton** ![][flag_US] | **4** | 1 | ![][flag_US] Ikeda Chizuru | [#1](https://osu.ppy.sh/community/matches/49190471) |
+| **death grips** ![][flag_US] | **1** | 0 | ![][flag_US] DetectiveBleh | *forfeit (no-show)* |
+| GiraffeMidget ![][flag_US] | 0 | **1** | ![][flag_US] **Riku on osu** | *forfeit (left early)* |
 | **clayton** ![][flag_US] | **5** | 3 | ![][flag_US] death grips | <!-- match link lost --> |
 | **Mathyu** ![][flag_US] | **5** | 2 | ![][flag_US] R Y A N | <!-- match link lost --> |
 | **Darin on osu** ![][flag_US] | **5** | 3 | ![][flag_US] Kenny | <!-- match link lost --> |
@@ -285,12 +281,12 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **andrew22r** ![][flag_US] | **3** | 0 | ![][flag_US] MyAngelNeptune | [Multiplayer match](https://osu.ppy.sh/community/matches/49189563) |
+| **andrew22r** ![][flag_US] | **3** | 0 | ![][flag_US] MyAngelNeptune | [#1](https://osu.ppy.sh/community/matches/49189563) |
 | MaidenofSorrow ![][flag_US] | 0 | **4** | ![][flag_US] **Ikeda Chizuru** | <!-- match link lost --> |
-| **Mathyu** ![][flag_US] | **4** | 1 | ![][flag_US] death grips | [Multiplayer match](https://osu.ppy.sh/community/matches/49190579) |
-| **R Y A N** ![][flag_US] | **4** | 3 | ![][flag_US] clayton | [Multiplayer match](https://osu.ppy.sh/community/matches/49190109) |
-| **Darin on osu** ![][flag_US] | **4** | 1 | ![][flag_US] Riku on osu | [Multiplayer match](https://osu.ppy.sh/community/matches/49189660) |
-| **Kenny** ![][flag_US] | **4** | 0 | ![][flag_US] J_8579 | [Multiplayer match](https://osu.ppy.sh/community/matches/49190146) |
+| **Mathyu** ![][flag_US] | **4** | 1 | ![][flag_US] death grips | [#1](https://osu.ppy.sh/community/matches/49190579) |
+| **R Y A N** ![][flag_US] | **4** | 3 | ![][flag_US] clayton | [#1](https://osu.ppy.sh/community/matches/49190109) |
+| **Darin on osu** ![][flag_US] | **4** | 1 | ![][flag_US] Riku on osu | [#1](https://osu.ppy.sh/community/matches/49189660) |
+| **Kenny** ![][flag_US] | **4** | 0 | ![][flag_US] J_8579 | [#1](https://osu.ppy.sh/community/matches/49190146) |
 
 #### Round of 16
 
@@ -298,8 +294,8 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 | --: | :-: | :-: | :-- | :-- |
 | GiraffeMidget ![][flag_US] | 0 | **4** | ![][flag_US] **death grips** | <!-- match link lost --> |
 | **R Y A N** ![][flag_US] | **4** | 0 | ![][flag_US] andrew22r | <!-- match link lost --> |
-| **clayton** ![][flag_US] | **4** | 1 | ![][flag_US] MyAngelNeptune | [Multiplayer match](https://osu.ppy.sh/community/matches/49189127) |
-| **Darin on osu** ![][flag_US] | **4** | 0 | ![][flag_US] MaidenofSorrow | [Multiplayer match](https://osu.ppy.sh/community/matches/49189132) |
+| **clayton** ![][flag_US] | **4** | 1 | ![][flag_US] MyAngelNeptune | [#1](https://osu.ppy.sh/community/matches/49189127) |
+| **Darin on osu** ![][flag_US] | **4** | 0 | ![][flag_US] MaidenofSorrow | [#1](https://osu.ppy.sh/community/matches/49189132) |
 | **Riku on osu** ![][flag_US] | **4** | 2 | ![][flag_US] Ikeda Chizuru | <!-- match link lost --> |
 
 ### osu!mania
@@ -316,9 +312,9 @@ The bracket was cut off early due to time concerns, so later matches switched to
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Riku on osu | Forfeit |
+| **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Riku on osu | *forfeit* |
 | **Giraffle** ![][flag_US] | **3** | 2 | ![][flag_US] MintyYumi | <!-- match link lost --> |
-| **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Giraffle | Forfeit |
+| **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Giraffle | *forfeit* |
 
 #### Round of 6
 
@@ -329,11 +325,9 @@ The bracket was cut off early due to time concerns, so later matches switched to
 | **Zushen** ![][flag_US] | **3** | 0 | ![][flag_US] Giraffle | <!-- match link lost --> |
 | **Ecal** ![][flag_US] | **3** | 2 | ![][flag_US] Ouchiee | <!-- match link lost --> |
 
----
-
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. The Most Amazing LAN Ever is a one-on-one osu! and osu!mania tournament.
 2. Players must play all of their matches at Highlander Con 2019.
@@ -347,11 +341,11 @@ The bracket was cut off early due to time concerns, so later matches switched to
 1. In osu! Group Stage, every player plays every map. The total scores of each player will determine the seeding for further stages of the tournament.
 2. All other stages are in the double-elimination format.
 
-### Match Instructions
+### Match instructions
 
 1. Warm-up picks will likely not be allowed due to time concerns.
-2. Both players will !roll when they join the lobby. The player with the lower result will ban first, and the other will pick first.
+2. Both players will `!roll` when they join the lobby. The player with the lower result will ban first, and the other will pick first.
 3. Map selection alternates between players. If the scores are tied at match point, the tiebreaker will be played.
 
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

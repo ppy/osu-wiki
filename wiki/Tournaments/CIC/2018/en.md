@@ -1,21 +1,21 @@
 ---
 tags:
-- CIC 2018
-- CIC2018
+  - CIC 2018
+  - CIC2018
 ---
 
 # Catch the Beat Indonesia Cup 2018
 
-![CIC 2018 Logo](img/logo.jpg)
+![CIC 2018 logo](img/logo.jpg)
 
-The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) is an Indonesian one-on-one osu!catch tournament hosted by ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361). It is the 6th installment of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) was a 1v1 Indonesian osu!catch tournament hosted by ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361). It was the sixth instalment of the Catch the Beat Indonesia Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-07-28/2018-08-05 |
-| Group Stage | 2018-08-06/2018-08-16 |
+| Registration phase | 2018-07-28/2018-08-05 |
+| Group stage | 2018-08-06/2018-08-16 |
 | Round of 16 | 2018-08-17/2018-08-19 |
 | Quarterfinals | 2018-08-20/2018-08-26 |
 | Semifinals | 2018-08-27/2018-09-02 |
@@ -26,23 +26,23 @@ The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) is an Indonesian one-
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50% of the prize pool, profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the prize pool, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool |
 
 ## Organisation
 
-The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch community members.
+The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Yukaa-](https://osu.ppy.sh/users/5876959) |
-| Map Selector | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
+| Mappool selector | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | Streamer | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 | Commentator | ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [MizzoKing-](https://osu.ppy.sh/users/3285320), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [Sayori-kun](https://osu.ppy.sh/users/3345905) |
 | Referee | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137), ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [yuki9007](https://osu.ppy.sh/users/6198367) |
 | Sponsor | ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [DennySega24](https://osu.ppy.sh/users/5416487), ![][flag_ID] [Jekate](https://osu.ppy.sh/users/965708), ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) |
-| Wiki Editor | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki editor | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -50,8 +50,6 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 - [CIC 2018 Discord](http://discord.gg/dKcVbWE)
 - [Livestream](https://www.twitch.tv/osuindonesia)
 - [Challonge brackets](https://challonge.com/CIC2018)
-
----
 
 ## Participants
 
@@ -66,11 +64,9 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 | **G** | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) |
 | **H** | ![][flag_ID] [-Izayoi](https://osu.ppy.sh/users/5710721) | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) | ![][flag_ID] [Buyut](https://osu.ppy.sh/users/9608136) |
 
----
+## Podium
 
-![Podium](img/podium.jpg)
-
----
+![](img/podium.jpg "CIC 2018 podium")
 
 ## Mappools
 
@@ -88,7 +84,7 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 - HardRock
   - [Camellia - Proluvies (Sinnoh) \[Contingency\]](https://osu.ppy.sh/beatmapsets/657459#fruits/1392594)
   - [a_hisa - Tokei no Heya to Seishin Sekai (Spectator) \[Kyuare Spec's  Overdose\]](https://osu.ppy.sh/beatmapsets/639409#fruits/1356120)
-  - [xi - Glorious Crown (Monstrata) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/558694#osu/1181761)
+  - [xi - Glorious crown (Monstrata) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/558694#osu/1181761)
   - [SHK - Death Moon II (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/472158#fruits/1009022)
 - DoubleTime
   - [Team "Hanayamata" - Yorokobi Synchronicity (Xinely) \[Cherry Blossom\]](https://osu.ppy.sh/beatmapsets/368312#fruits/872349)
@@ -153,7 +149,7 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
   - [Akiyama Uni - Kanpan Tasogare Shinbun (JBHyperion) \[Hyperion's Overdose\]](https://osu.ppy.sh/beatmapsets/633255#fruits/1486886)
   - [IOSYS - Okuu's Nuclear Fusion Dojo (Mafiamaster) \[v2b's Insane\]](https://osu.ppy.sh/beatmapsets/8442#fruits/37166)
 - Tiebreaker
-  - **[Yooh - salvation (alienflybot) \[AFB's crucifixion\]](https://osu.ppy.sh/beatmaps/1718267)**
+  - **Yooh - salvation (alienflybot) \[AFB's crucifixion\]**
 
 ### Round of 16
 
@@ -176,7 +172,7 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 - Tiebreaker
   - **[supercell - My Dearest (Fii) \[Fiance's Eternity\]](https://osu.ppy.sh/beatmapsets/797213#fruits/1674268)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (79 MB)](http://ritsu.s-ul.eu/ZNs2PEAy)**
 
@@ -200,133 +196,177 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 - Tiebreaker
   - **[\*namirin - Iscariot no Sakebi (Hareimu) \[Treason\]](https://osu.ppy.sh/beatmapsets/685542#fruits/1451063)**
 
----
-
-## Match Results
+## Match results
 
 ### Grand Finals
 
-| Monday, 2018-09-10 |  |  |  |  |
+Monday, 10 September 2018:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988)** | **7** | 2 | ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) | [#1](https://osu.ppy.sh/community/matches/45858947) |
 
 ### Finals
 
-| Group | Saturday, 2018-09-08 |  |  |  |  |
+Saturday, 8 September 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988)** | **6** | 1 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/45763354)  [#2](https://osu.ppy.sh/community/matches/45798451) |
 
-| Group | Sunday, 2018-09-09 |  |  |  |  |
+Sunday, 9 September 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | ![][flag_ID] **[Toka-](https://osu.ppy.sh/users/1595221)** | **6** | 1 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/45830151) |
 
 ### Semifinals
 
-| Group | Thursday, 2018-08-30 |  |  |  |  |
+Thursday, 30 August 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235)** | **5** | 4 | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) | [#1](https://osu.ppy.sh/community/matches/45542840) |
 
-| Group | Saturday, 2018-09-01 |  |  |  |  |
+Saturday, 1 September 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) | 0 | **5** | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988)** | [#1](https://osu.ppy.sh/community/matches/45603647) |
 | Lower | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) | 3 | **5** | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883)** | [#1](https://osu.ppy.sh/community/matches/45609756) |
 
-| Group | Monday, 2018-09-03 |  |  |  |  |
+Monday, 3 September 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | ![][flag_ID] **[Toka-](https://osu.ppy.sh/users/1595221)** | **5** | 0 | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) | [#1](https://osu.ppy.sh/community/matches/45669592) |
 | Lower | ![][flag_ID] **[Toka-](https://osu.ppy.sh/users/1595221)** | **5** | 2 | ![][flag_ID] [Minalinsky](https://osu.ppy.sh/users/2823883) | [#1](https://osu.ppy.sh/community/matches/45674023) |
 
 ### Quarterfinals
 
-| Group | Thursday, 2018-08-23 |  |  |  |  |
+Thursday, 23 August 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235)** | **4** | 3 | ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) | [#1](https://osu.ppy.sh/community/matches/45336256) |
 
-| Group | Friday, 2018-08-24 |  |  |  |  |
+Friday, 24 August 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | ![][flag_ID] **[Constantine](https://osu.ppy.sh/users/3221898)** | **4** | 3 | ![][flag_ID] [DennySega24](https://osu.ppy.sh/users/5416487) | [#1](https://osu.ppy.sh/community/matches/45364564) |
 
-| Group | Saturday, 2018-08-25 |  |  |  |  |
+Saturday, 25 August 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | ![][flag_ID] [ExRei](https://osu.ppy.sh/users/1929336) | 0 | **4** | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988)** | [#1](https://osu.ppy.sh/community/matches/45391649) |
 | Lower | ![][flag_ID] **[Toka-](https://osu.ppy.sh/users/1595221)** | **4** | 0 | ![][flag_ID] [Emilia-Satella](https://osu.ppy.sh/users/1096240) | [#1](https://osu.ppy.sh/community/matches/45397566) |
 
-| Group | Sunday, 2018-08-26 |  |  |  |  |
+Sunday, 26 August 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | ![][flag_ID] [ExRei](https://osu.ppy.sh/users/1929336) | 1 | **4** | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883)** | [#1](https://osu.ppy.sh/community/matches/45431870) |
 
-| Group | Monday, 2018-08-27 |  |  |  |  |
+Monday, 27 August 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | ![][flag_ID] [DennySega24](https://osu.ppy.sh/users/5416487) | 0 | **4** | ![][flag_ID] **[Toka-](https://osu.ppy.sh/users/1595221)** | [#1](https://osu.ppy.sh/community/matches/45461379) |
 
-| Group | Tuesday, 2018-08-28 |  |  |  |  |
+Tuesday, 28 August 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883)** | **4** | 0 | ![][flag_ID] [Sayori-kun](https://osu.ppy.sh/users/3345905) | [#1](https://osu.ppy.sh/community/matches/45491188) |
 
 ### Round of 16
 
-| Group | Wednesday, 2018-08-15 |  |  |  |  |
+Wednesday, 15 August 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) | 0 | **3** | ![][flag_ID] **[ExRei](https://osu.ppy.sh/users/1929336)** | [#1](https://osu.ppy.sh/community/matches/45101312) |
 
-| Group | Thursday, 2018-08-16 |  |  |  |  |
+Thursday, 16 August 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235)** | **3** | 0 | [-Izayoi](https://osu.ppy.sh/users/5710721) | [#1](https://osu.ppy.sh/community/matches/45127368) |
 
-| Group | Saturday, 2018-08-18 |  |  |  |  |
+Saturday, 18 August 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | ![][flag_ID] [Sayori-kun](https://osu.ppy.sh/users/3345905) | 0 | **3** | ![][flag_ID] **[Constantine](https://osu.ppy.sh/users/3221898)** | [#1](https://osu.ppy.sh/community/matches/45183275) |
 | Upper | ![][flag_ID] [Emilia-Satella](https://osu.ppy.sh/users/1096240) | 0 | **3** | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988)** | [#1](https://osu.ppy.sh/community/matches/45183434) |
 | Upper | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) | 0 | **3** | ![][flag_ID] **[DennySega24](https://osu.ppy.sh/users/5416487)** | [#1](https://osu.ppy.sh/community/matches/45185467) |
 | Upper | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) | 1 | **3** | ![][flag_ID] **[Toka-](https://osu.ppy.sh/users/1595221)** | [#1](https://osu.ppy.sh/community/matches/45185467) |
 
-| Group | Sunday, 2018-08-19 |  |  |  |  |
+Sunday, 19 August 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) | 2 | **3** | ![][flag_ID] **[Albedo-sama](https://osu.ppy.sh/users/12123120)** | [#1](https://osu.ppy.sh/community/matches/45212653) |
 | Upper | ![][flag_ID] [Furdek](https://osu.ppy.sh/users/8146190) | 0 | **3** | ![][flag_ID] **[moncar321](https://osu.ppy.sh/users/1400073)** | [#1](https://osu.ppy.sh/community/matches/45214648) |
 | Lower | ![][flag_ID] **[Sayori-kun](https://osu.ppy.sh/users/3345905)** | **3** | 0 | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) | [#1](https://osu.ppy.sh/community/matches/45219101) |
 
-| Group | Monday, 2018-08-20 |  |  |  |  |
+Monday, 20 August 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | ![][flag_ID] [-Izayoi](https://osu.ppy.sh/users/5710721) | 0 | **3** | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883)** | [#1](https://osu.ppy.sh/community/matches/45252190) |
 
-| Group | Wednesday, 2018-08-22 |  |  |  |  |
+Wednesday, 22 August 2018:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) | 0 | **3** | ![][flag_ID] **[Emilia-Satella](https://osu.ppy.sh/users/1096240)** | [#1](https://osu.ppy.sh/community/matches/45312155) |
 
-### Group Stage
+### Group stage
 
-| Group | Thursday, 2018-08-09 |  |  |  |
+Thursday, 9 August 2018:
+
+| Group | Player 1 | Player 2 | Player 3 | Match link |
 | :-: | --: | :-: | :-- | :-- |
 | **B** | ![][flag_ID] **[Sayori-kun](https://osu.ppy.sh/users/3345905) (2)** | ![][flag_ID] **[ExRei](https://osu.ppy.sh/users/1929336) (16)** | ![][flag_ID] [Ilhamuharam](https://osu.ppy.sh/users/7657968) (-2) | [#1](https://osu.ppy.sh/community/matches/44908019) |
 
-| Group | Friday, 2018-08-10 |  |  |  |
+Friday, 10 August 2018:
+
+| Group | Player 1 | Player 2 | Player 3 | Match link |
 | :-: | --: | :-: | :-- | :-- |
 | **E** | ![][flag_ID] **[moncar321](https://osu.ppy.sh/users/1400073) (8)** | ![][flag_ID] [Intention](https://osu.ppy.sh/users/3416858) (-6) | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883) (14)** | [#1](https://osu.ppy.sh/community/matches/44939284) |
 
-| Group | Saturday, 2018-08-11 |  |  |  |
+Saturday, 11 August 2018:
+
+| Group | Player 1 | Player 2 | Player 3 | Match link |
 | :-: | --: | :-: | :-- | :-- |
 | **A** | ![][flag_ID] [Execration-](https://osu.ppy.sh/users/9260926) (-1) | ![][flag_ID] **[Albedo-sama](https://osu.ppy.sh/users/12123120) (7)** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235) (10)** | [#1](https://osu.ppy.sh/community/matches/44971641) |
 | **F** | ![][flag_ID] **[Riria Rakira](https://osu.ppy.sh/users/6310025) (4)** | ![][flag_ID] [HerpKiller](https://osu.ppy.sh/users/8784992) (-4) | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988) (16)** | [#1](https://osu.ppy.sh/community/matches/44959802) |
 
-| Group | Sunday, 2018-08-12 |  |  |  |
+Sunday, 12 August 2018:
+
+| Group | Player 1 | Player 2 | Player 3 | Match link |
 | :-: | --: | :-: | :-- | :-- |
 | **D** | ![][flag_ID] **[Toka-](https://osu.ppy.sh/users/1595221) (11)** | ![][flag_ID] [Shiviaren](https://osu.ppy.sh/users/3429259) (0) | ![][flag_ID] **[Furdek](https://osu.ppy.sh/users/8146190) (10)** | [#1](https://osu.ppy.sh/community/matches/44998671) |
 | **H** | ![][flag_ID] **[-Izayoi](https://osu.ppy.sh/users/5710721) (3)** | ![][flag_ID] **[yogafm](https://osu.ppy.sh/users/3247173) (11)** | ![][flag_ID] [Buyut](https://osu.ppy.sh/users/9608136) (2) | [#1](https://osu.ppy.sh/community/matches/45003974) |
 
-| Group | Monday, 2018-08-13 |  |  |  |
+Monday, 13 August 2018:
+
+| Group | Player 1 | Player 2 | Player 3 | Match link |
 | :-: | --: | :-: | :-- | :-- |
 | **C** | ![][flag_ID] [Emily Yukari](https://osu.ppy.sh/users/7053866) (-1) | ![][flag_ID] **[DennySega24](https://osu.ppy.sh/users/5416487) (12)** | ![][flag_ID] **[Emilia-Satella](https://osu.ppy.sh/users/1096240) (5)** | [#1](https://osu.ppy.sh/community/matches/45095962) |
 
-| Group | Wednesday, 2018-08-15 |  |  |  |
+Wednesday, 15 August 2018:
+
+| Group | Player 1 | Player 2 | Player 3 | Match link |
 | :-: | --: | :-: | :-- | :-- |
 | **G** | ![][flag_ID] **[THS](https://osu.ppy.sh/users/1218514) (3)** | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) (-2) | ![][flag_ID] **[Constantine](https://osu.ppy.sh/users/3221898) (15)** | [#1](https://osu.ppy.sh/community/matches/45031580) |
 
----
-
 ## Ruleset
 
-### General Rules
+### General rules
 
 1. Map scoring is based on **Score V2.**
 2. The mapsets for each round will be announced by the map selectors in advance on the Sunday before the actual matches take place.
@@ -343,11 +383,11 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 10. Lag is not a valid reason to nullify a map.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
-    - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and blacklisted in the next installment of CIC.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
-    - If there is anyone try to play as the participants, their account will be blacklisted in the next installment of CIC for both participant and the helper.
+    - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and blacklisted in the next instalment of CIC.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next instalment of CIC.
+    - If there is anyone trying to play in place of any of the participants, their account will be blacklisted in the next instalment of CIC for both participant and the helper.
 
-### Group Stage Rules
+### Group stage rules
 
 1. Each group will be filled by 3 participants.
 2. Participants will compete against each other using Battle Royale system.
@@ -363,7 +403,7 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
    - Participants who Win By Default.
    - If there are participants who experience disqualification during the match.
 
-### Round of 16 And Onwards Rules
+### Round of 16 and onwards rules
 
 1. 16 Participants who qualify for the group stage will be randomised back in the Round of 16 bracket.
 2. Winner Bracket will be played on Saturday, and the Loser Bracket will be played on Sunday, unless there is a reschedule happening.
@@ -381,9 +421,9 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
    - Participants who Win By Default.
    - If there are participants who experience disqualification during the match.
 
-### Match Regulations
+### Match regulations
 
-1. Each player must use `!roll` once in #multiplayer.
+1. Each player must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` starts picking the first beatmap of the match.
    - The loser of the `!roll` starts banning.
 2. Each player has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any player during the entire match.
@@ -392,4 +432,4 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
    - Participants may only pick one warm-up beatmap in group stage.
 4. The results of each match must be posted on the Discord server by the responsible referees including MP links and screenshots.
 
-[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

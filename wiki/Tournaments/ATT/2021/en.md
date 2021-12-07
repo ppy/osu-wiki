@@ -8,7 +8,7 @@ tags:
 
 ![ATT 2021 logo](img/logo.jpg)
 
-The **Ausu!Taiko Tournament 2021** (**ATT 2021**) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235). The tournament was restricted to players within the Southeast Asian countries only. It was the seventh installment of the Ausu!Taiko Tournament.
+The **Ausu!Taiko Tournament 2021** (**ATT 2021**) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235). The tournament was restricted to players within the Southeast Asian countries only. It was the seventh instalment of the Ausu!Taiko Tournament.
 
 ## Tournament schedule
 
@@ -16,11 +16,12 @@ The **Ausu!Taiko Tournament 2021** (**ATT 2021**) was a double-elimination 1v1 o
 | --: | :-- |
 | Registration phase | 2021-03-29/2021-04-05 |
 | Reveal of seedings and groups | 2021-04-18 |
-| Group Stage | 2021-04-24/2021-04-25 |
+| Group stage | 2021-04-24/2021-04-25 |
 | Round of 16 | 2021-05-01/2021-05-02 |
 | Quarterfinals | 2021-05-08/2021-05-09 |
 | Semifinals | 2021-05-15/2021-05-16 |
 | Finals | 2021-05-22/2021-05-23 |
+| Grand Finals | 2021-05-29 |
 
 ## Prizes
 
@@ -36,21 +37,22 @@ The Ausu!Taiko Tournament 2021 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
+| Organizer | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
 | Mappool selector | ![][flag_JP] [Maimaing](https://osu.ppy.sh/users/14520910), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
-| Referee | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_MY] [Xeltic Rival](https://osu.ppy.sh/users/7500364) |
+| Referee | ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_MY] [Xeltic Rival](https://osu.ppy.sh/users/7500364), ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710) |
 | Streamer | ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442) |
 | Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867) |
+| Statistician | ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1284274)
-- [Livestream](https://www.twitch.tv/sparxenic "Twitch")
-- [Challonge bracket](https://challonge.com/ausutaiko2021 "Challonge")
+- [Livestream](https://www.twitch.tv/sparxenic)
+- [Challonge bracket](https://challonge.com/ausutaiko2021)
 - Spreadsheet
-  - [Schedule](https://docs.google.com/spreadsheets/d/18xadwgbLM3mc5nPs316bF0OSwcyyGSgibFEv_hNkgeU/edit?usp=sharing "Google Docs")
-  - [Mappool](https://docs.google.com/spreadsheets/d/1dUo00W0UH3pgq1wPru-U9EGf35qAisRyM2C6OWBn2Ns/edit?usp=sharing "Google Docs")
+  - [Schedule](https://docs.google.com/spreadsheets/d/18xadwgbLM3mc5nPs316bF0OSwcyyGSgibFEv_hNkgeU/edit?usp=sharing)
+  - [Mappool](https://docs.google.com/spreadsheets/d/1dUo00W0UH3pgq1wPru-U9EGf35qAisRyM2C6OWBn2Ns/edit?usp=sharing)
 
 ## Participants
 
@@ -218,7 +220,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - Quaoar (Nepuri) \[Transneptunian\]](https://osu.ppy.sh/beatmapsets/931741#taiko/1945451)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (53 MB)](https://drive.google.com/file/d/1_9FfeVHDMf3fMae8ZxMMWkrEESVETm-r/view?usp=sharing)**
 
@@ -328,7 +330,7 @@ Sunday, 2 May 2021:
 | **tzechi** ![][flag_SG] | **5** | 3 | ![][flag_AU] r1chyy | [#1](https://osu.ppy.sh/community/matches/82351619) |
 | **apaajaboleh10** ![][flag_ID] | **5** | 1 | ![][flag_SG] Prehistoria | [#1](https://osu.ppy.sh/community/matches/82353782) |
 
-### Group Stage
+### Group stage
 
 Saturday, 24 April 2021:
 
@@ -445,6 +447,7 @@ Sunday, 25 April 2021:
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philipipnes"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
