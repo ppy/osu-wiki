@@ -8,7 +8,7 @@ stub: true
 
 [**Modding Queues**](https://osu.ppy.sh/community/forums/60) is a forum dedicated to [beatmap review](/wiki/Modding) requests, or mods. It consists of forum threads, or *queues* belonging to different modders and mappers. Every queue has individual requirements and limits on obtaining the mods, which must be respected by its visitors in order to receive a mod.
 
-Since 2011-11-30,<!-- TODO: add https://github.com/ppy/osu-web/issues/8256 as a footnote when they're supported --> each game mode has its own subforum for queues, with osu! taking up main section of the forum:
+Each game mode has its own subforum for queues, with osu! taking up the main section of the forum:
 
 - [osu!](https://osu.ppy.sh/community/forums/60)
 - [osu!taiko](https://osu.ppy.sh/community/forums/121)
@@ -17,10 +17,10 @@ Since 2011-11-30,<!-- TODO: add https://github.com/ppy/osu-web/issues/8256 as a 
 
 ## Queue rounds
 
-To keep their workload at appropriate level, most modders only accept requests during short periods called rounds. Before the start of every round, the queue's owner posts a short announcement, which typically contains:
+To keep their workload at an appropriate level, most modders only accept requests during short periods called rounds. Before the start of every round, the queue's owner posts a short announcement, which typically contains:
 
 - The number of maps that may be accepted in this round
-- Requirements specific to this round
+- Requirements specific to the current round
 - Whether the mods are regular (normal), or [a mod in return](/wiki/Modding/Mod_for_mod) is expected
 - Other information relevant to modding
 
