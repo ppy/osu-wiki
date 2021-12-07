@@ -8,14 +8,12 @@
 
 Le titre doit être composé de `[Discography]` / `[Album]` / `[Collab]`. Il y a de fortes chances que votre projet soit ignoré ou déplacé vers [AW](/wiki/Abandoned_wasteland) si le titre du fil de discussion manque d'informations.
 
-**Exemples:**
-
-Un exemple de titre correct
+Un bon exemple:
 
 - `[Album] Pandora Voxx -complete-`
 - `[Discography] Deemo`
 
-Un exemple de titre incorrect
+Mauvais exemples:
 
 - `starting a new project, need your help with this album`
 
@@ -23,12 +21,21 @@ Un exemple de titre incorrect
 
 **Discography:** Liste des albums/chansons sortis par le chanteur/groupe/compositeur/jeu.
 
-- Exemple: [Duca](https://osu.ppy.sh/community/forums/topics/98205), [Linkin Park](https://osu.ppy.sh/community/forums/topics/121592), [Cytus](https://osu.ppy.sh/community/forums/topics/177446)
+Exemple:
+
+- [Duca](https://osu.ppy.sh/community/forums/topics/98205)
+- [Linkin Park](https://osu.ppy.sh/community/forums/topics/121592)
+- [Cytus](https://osu.ppy.sh/community/forums/topics/177446)
 
 **Album:** Liste des chansons de l'album.
 
-- Exemple: [Anamanaguchi - Scott Pilgrim vs The World (The Game)](https://osu.ppy.sh/community/forums/topics/37908), [Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
+Exemple:
+
+- [Anamanaguchi - Scott Pilgrim vs The World (The Game)](https://osu.ppy.sh/community/forums/topics/37908)
+- [Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
 
 **Collab:** Créer un [projet de mapping de groupe](/wiki/Beatmap/Beatmap_collaborations) pour une certaine musique. Cela peut aller de la demande de [storyboarding](/wiki/Storyboard) au mapping de certaines parties d'un [marathon](/wiki/Beatmap/Marathon). [Référence](https://osu.ppy.sh/community/forums/topics/35841)
 
-- Exemple: [Within Temptation - The Unforgiving](https://osu.ppy.sh/beatmapsets/29157)
+Exemple:
+
+- [Within Temptation - The Unforgiving](https://osu.ppy.sh/beatmapsets/29157)
