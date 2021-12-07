@@ -319,7 +319,7 @@ Ce qui suit n'augmente pas ou ne réinitialise pas le multiplicateur de score :
 - C = Une précision de plus de 60%
 - D = Tout le reste
 
-### Life meter
+### Barre de vie
 
 Contrairement à osu!, la barre de vie est différente dans osu!stream car elle est basée sur le mode de jeu.
 
