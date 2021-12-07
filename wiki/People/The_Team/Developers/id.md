@@ -15,7 +15,7 @@ Dalam osu!, para developer dapat dikenali dari nama pengguna mereka yang berwarn
 
 ## Anggota tim
 
-Daftar para developer selengkapnya juga dapat dilihat pada [laman grup Developer berikut](http://osu.ppy.sh/groups/11).
+Daftar para developer selengkapnya juga dapat dilihat pada [laman grup Developer berikut](https://osu.ppy.sh/groups/11).
 
 Pengembangan osu! dipimpin oleh ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** selaku pencipta osu!.
 
