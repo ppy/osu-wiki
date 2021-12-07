@@ -44,7 +44,6 @@ Le développement de cette version s'est terminé en 2020. Pour plus d'informati
 - Appuyez sur la barre "Store".
   - Sinon, allez dans "Play" et appuyez sur "Download more songs!"
 - Sélectionnez un pack souhaité.
-  - Il est recommandé de télécharger d'abord les packs qui ne coûtent pas d'argent. Les packs gratuits ont l'étiquette "FREE" au lieu de l'étiquette de coût "USD$".
 
 ## Quelle est la différence ?
 
