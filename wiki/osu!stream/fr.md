@@ -326,7 +326,7 @@ En **Mode Easy, la barre de vie est complètement supprimée**.
 
 ![](img/Os-SUN.jpg "Exemple de Stream up! depuis une difficulté Normal.")
 
-En **Stream Mode**, le joueur dispose de trois barres de vie et le joueur commence avec la deuxième barre de vie à moitié remplie au départ. Les joueurs se déplacent entre ces barres de vie grâce aux systèmes **Stream Up!** et **Stream Down!**, qui s'activent lorsqu'ils remplissent la barre de vie ou la vident complètement. Après une annonce, le jeu passe au nouveau "flux" en changeant l'arrière-plan et en passant de manière transparente à une difficulté supérieure ou inférieure de la beatmap, ainsi qu'en changeant de barre de vie. Lorsqu'un Stream Down! se produit, le joueur bénéficie d'une invincibilité temporaire pendant que la barre de vie passe à celle correspondant à la difficulté inférieure.
+En **Stream Mode**, le joueur dispose de trois barres de vie et le joueur commence avec la deuxième barre de vie à moitié remplie au départ. Les joueurs se déplacent entre ces barres de vie grâce aux systèmes **Stream Up!** et **Stream Down!**, qui s'activent lorsqu'ils remplissent la barre de vie ou la vident complètement. Après une annonce, le jeu passe au nouveau "stream" en changeant l'arrière-plan et en passant de manière transparente à une difficulté supérieure ou inférieure de la beatmap, ainsi qu'en changeant de barre de vie. Lorsqu'un Stream Down! se produit, le joueur bénéficie d'une invincibilité temporaire pendant que la barre de vie passe à celle correspondant à la difficulté inférieure.
 
 - Par défaut, **la barre de vie ne se vide pas tant que l'on joue**.
 
