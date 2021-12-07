@@ -30,23 +30,6 @@ In addition to profile badges provided by group membership, users may have [cust
 
 [Moderators](/wiki/People/The_Team/Global_Moderation_Team) are users who keep the forums clean and appropriate, and answer concerns related to that. Moderators can edit or delete inappropriate posts or topics, pin topics and move them between different forums, and temporarily prevent offenders from posting by [silencing](/wiki/Silence) them.
 
-## Features
-
-### Post features
-
-- Forum posts, as opposed to chat messages, can be **formatted** using [BBCode](/wiki/BBCode), a lightweight markup language. They can also contain YouTube videos, or embed images or audio hosted outside of the forums. 
-
-### Topic features
-
-- Topics may have **polls** in their opening posts, with up to 10 options.
-- Topics may have **custom covers** (maximum dimensions are 2400×580).
-- Users may **subscribe to topics** and receive updates via e-mail or [website notifications](https://osu.ppy.sh/notifications).
-
-### Forum features
-
-- If a topic contains an announcement, forum rules, or is useful to the majority of the visitors, moderators may **pin** it, placing it at the top of the topic listing.
-- Users can exchange private messages, which are available [in-game](/wiki/Chat_Console) and [on the website](https://osu.ppy.sh/community/chat).
-
 ## Special forums
 
 Some of the forums have different purposes that are not limited to discussion. As a result, they have extra rules and/or technical capabilities.
