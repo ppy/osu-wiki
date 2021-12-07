@@ -10,7 +10,7 @@ tags:
 
 [The osu! **forums**](https://osu.ppy.sh/community/forums) are a place for conversations where messages are grouped by subjects, and no quick response is expected. The discussions are searchable, stored forever, and may be revisited at any time, which makes them different from the near-instant messages in [osu! chat](/wiki/Community/Internet_Relay_Chat). As a result, forum messages are longer, contain more information, and typically provide more details than chat messages would.
 
-The osu! forums provide [features](#features) similar to most internet forums: [BBCode](/wiki/BBCode) markup, polls, pins and subscriptions, private messages, and [moderation](#moderation).
+The osu! forums provide features similar to most internet forums: [BBCode](/wiki/BBCode) markup, polls, pins and subscriptions, private messages, and [moderation](#moderation).
 
 ## Structure
 
