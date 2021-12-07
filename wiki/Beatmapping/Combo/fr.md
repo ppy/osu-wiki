@@ -19,7 +19,7 @@ Les modes [osu!taiko](/wiki/Game_mode/osu!taiko) et [osu!mania](/wiki/Game_mode/
 
 ## osu!
 
-Dans le mode [osu!](/wiki/Game_mode/osu!), chaque objet dans un combo a son propre numéro de combo, en plus d'une couleur de combo. Les nouveaux combos commencent à partir de 1 et augmentent progressivement, et les spinners forcent l'objet suivant à commencer un nouveau combo. De la vie supplémentaire est récupérée grâce aux [Geki et Katu](/wiki/Score#osu!), qui peuvent être donnés par le dernier objet d'un combo.
+Dans le mode [osu!](/wiki/Game_mode/osu!), chaque objet dans un combo a son propre numéro de combo, en plus d'une couleur de combo. Les nouveaux combos commencent à partir de 1 et augmentent progressivement, et les spinners forcent l'objet suivant à commencer un nouveau combo. De la vie supplémentaire est récupérée grâce aux [Geki](/wiki/Geki) et [Katu](/wiki/Katu), qui peuvent être donnés par le dernier objet d'un combo.
 
 ## osu!catch
 

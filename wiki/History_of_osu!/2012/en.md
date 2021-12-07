@@ -47,7 +47,7 @@ A few notable changes to fix the previous update (osu!mania) and to give what th
 
 For supporters, they were given the luxury to set their image as osu! background rather than the usual background colour. Practically speaking, this does not affect anyone and it was more to a gimmick if anything. However, the background change requires you to be online to *actually work*, as osu! needs to verify your osu!supporter tag in order to work. Gameplay was not affected in any way.
 
-Button status overlay was considered a nice addition. Now, you can actually *see* how you/they handle your/their hit either by using the keyboard/mouse or repeatably using that one button. By default, this would only work in osu! during a replay or spectating a play. You can manually make it to appear during gameplay at the [Options under Input Tab - General](/wiki/Options#general.1) as "Always show key overlay". It was placed at the top of the screen initially but later switched to the right of the screen because it was obstructing the HP bar and player's concentration.
+Button status overlay was considered a nice addition. Now, you can actually *see* how you/they handle your/their hit either by using the keyboard/mouse or repeatedly using that one button. By default, this would only work in osu! during a replay or spectating a play. You can manually make it to appear during gameplay at the [Options under Input Tab - General](/wiki/Options#general.1) as "Always show key overlay". It was placed at the top of the screen initially but later switched to the right of the screen because it was obstructing the HP bar and player's concentration.
 
 Links:
 

@@ -19,7 +19,7 @@ Below is a sorted list of guides created by members of the osu!community; most o
 - [osu!mania Mapping Guide](osu!mania_Mapping_Guide)
 - [Setting the Offset on the Correct Beat](Setting_the_Offset_on_the_Correct_Beat)
 - [Starting a Beatmap Project](Starting_a_Beatmap_Project)
-- [Videos From YouTube](Videos_From_Youtube)
+- [Videos From YouTube](Videos_From_YouTube)
 
 ## Modding
 
@@ -40,7 +40,7 @@ Below is a sorted list of guides created by members of the osu!community; most o
 
 - [Cropping with Complex Backgrounds](Cropping_with_Complex_Backgrounds)
 - [Cropping with Simple Backgrounds](Cropping_with_Simple_Backgrounds)
-- [Making Properly Centered Spinners](Making_Properly_Centered_Spinners)
+- [Making Properly Centred Spinners](Making_Properly_Centred_Spinners)
 
 ## Miscellaneous
 

@@ -41,7 +41,7 @@ Please note that health drain is disabled in osu!taiko, so only the hit objects 
 
 Each taiko notes (or notes, for brevity) will appear as either a red or a pale-blue circle. Those coloured circles were named Don (red notes) and Katu (blue notes), respectively.
 
-If it is a small red note, press the button bound to the inner portion of the taiko drum or hit the large flat area (center) of the *TaTaCon*. If it is a small blue note, press the button bound to the outer ring of the taiko drum or hit the sides of the *TaTaCon*. If the note is a **LARGE** circle, press or hit both of either inner or outer drum depending on the colour of the note for double point (a single correct hit will give single point instead).
+If it is a small red note, press the button bound to the inner portion of the taiko drum or hit the large flat area (centre) of the *TaTaCon*. If it is a small blue note, press the button bound to the outer ring of the taiko drum or hit the sides of the *TaTaCon*. If the note is a **LARGE** circle, press or hit both of either inner or outer drum depending on the colour of the note for double point (a single correct hit will give single point instead).
 
 The notes must be pressed or hit in the small white judgement circle next to the drum. Hitting the wrong colour, or both red and blue colours at the same time, will be considered a miss.
 
@@ -82,7 +82,7 @@ If [Relax](/wiki/Game_modifier/Relax) mod was used, the score judgement only acc
 
 ## Scoring
 
-*Scoring Values can be found in [Score under osu!taiko Scoring Values section](/wiki/Score#osu!taiko).*
+*Scoring values can be found in [osu!taiko scoring system](/wiki/Score/osu!taiko).*
 
 Scoring section details all the intricacies of scoring, including mathematical formula.
 

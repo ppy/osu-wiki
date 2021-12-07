@@ -83,7 +83,7 @@ Please contact [store@ppy.sh](mailto:store@ppy.sh) for further inquiries.
 
 ## osu!go
 
-### My computer doesn't recognize the osu!go when I plug it in!
+### My computer doesn't recognise the osu!go when I plug it in!
 
 **This is a known issue with one of the very first shipments of the osu!go USB sticks, and comes down to the device not being formatted in a manner that works with all PCs.**
 
@@ -97,7 +97,7 @@ First off, [download the package containing the osu!go default files](https://as
 
 1. Right click the `Start` menu button and select `Disk Management`.
 2. **While in the Disk Management view, make sure to follow these instructions *VERY* closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.
-3. Check to see what state your computer recognizes the device as being in.
+3. Check to see what state your computer recognises the device as being in.
 
 ### The osu!go device is present, but in a "RAW" state
 

@@ -41,7 +41,7 @@ The Advanced Global Taiko Showdown 2021 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438) |
+| Organizer | ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438) |
 | Mappool selector | ![][flag_DE] [Ak1o](https://osu.ppy.sh/users/1600041), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738) |
 | Mappool showcase | ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548), ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
 | Referee | ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_HK] [BlackBN](https://osu.ppy.sh/users/6291741), ![][flag_MY] [Finana Ryugu](https://osu.ppy.sh/users/9912966), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_JP] [kvgyubh](https://osu.ppy.sh/users/8244404), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_KR] [oL0](https://osu.ppy.sh/users/1134683), ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438) |
@@ -449,7 +449,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 2. The teams will first go through qualifiers. Then they will play in a Group Stage and finally play in a double-elimination bracket.
 3. The scoring system used will be Score V2.
 4. Any player who meets the requirements stated in the [restrictions and registrations](#restrictions-and-registrations) section is allowed to sign up. Since this tournament will aim to get badged some players might be declined by osu! staff.
-5. Any members of staff apart from organisers, mappoolers, and referees are allowed to play.
+5. Any members of staff apart from organizers, mappoolers, and referees are allowed to play.
 6. Players and staff members must have read this ruleset entirely.
 7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
 8. Any rule changes or unexpected occurrences will be announced in the Discord server.

@@ -98,7 +98,7 @@ Eğer [Auto Pilot](/wiki/Game_modifier/Autopilot) modu kullanılıyorsa, sadece 
 
 ## Puanlama
 
-*Puanlama Değerleri [Skor makalesinin altında yer alan osu! Puanlama Değerleri kısmında](/wiki/Score#osu)nde bulunabilir.*
+*Puanlama değerlerine [osu! puanlama sistemi](/wiki/Score/osu!) makalesinden ulaşabilirsiniz.*
 
 Puanlama bölümü, matematiksel formül dahil olmak üzere puanlamanın tüm inceliklerini ayrıntılarıyla anlatır.
 
