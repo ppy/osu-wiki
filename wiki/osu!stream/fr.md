@@ -42,7 +42,7 @@ Le développement de cette version s'est terminé en 2020. Pour plus d'informati
 - Ouvrez osu!stream.
 - Appuyez sur le symbole d'osu! et vous devriez être redirigé vers le menu principal (ou le tutoriel si c'est la première fois).
 - Appuyez sur la barre "Store".
-  - Sinon, allez dans "Play" et appuyez sur "Download more songs!"
+  - Sinon, allez dans "Play" et appuyez sur "Download more songs!".
 - Sélectionnez un pack souhaité.
 
 ## Quelle est la différence ?
