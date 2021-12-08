@@ -163,6 +163,6 @@ If you see your name below, it means you're an awesome person who will be receiv
 
 And with that, we'll be departing from official mapping contests until 2022!
 
-We're hoping to launch a particularly special contest soon, but we'll leave details of that until it's ready. Look forward to next year and have fun mapping!
+We're hoping to launch a particularly special contest soon, but we'll leave details of that for when it's ready. In the meantime, look forward to the next year of Monthly Beatmapping Contests and have fun mapping!
 
 —pishifat, radar, Nokashi, Davvy
