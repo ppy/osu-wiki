@@ -162,7 +162,7 @@ This competition has come to an end and resulted in the following podium:
   - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (Crystal) [Yoru's Expert]](https://osu.ppy.sh/beatmapsets/405167#osu/890915)
   - [Endorfin. vs Feryquitous - Sincuvate (Nokris) [Nokris. vs NeilPerry]](https://osu.ppy.sh/beatmapsets/739011#osu/1559554)
   - [Kohmi Hirose - Promise (Luscent) [geddan]](https://osu.ppy.sh/beatmapsets/1094694#osu/2287891)
-  - ["Cranky vs. MASAKI - ouroboros -twin stroke of the end- (celerih) [Flask's Expert]"](https://osu.ppy.sh/beatmapsets/1052054#osu/2226504)
+  - [Cranky vs. MASAKI - ouroboros -twin stroke of the end- (celerih) [Flask's Expert]](https://osu.ppy.sh/beatmapsets/1052054#osu/2226504)
 - Hidden
   - [Yumeno Yuki - BWLAUTE BEIRRD (Lasse) [LMT's Expert.]](https://osu.ppy.sh/beatmapsets/1014034#osu/2131275)
   - [bbn - Identic Conflict (Myxo) [LMT's Another]](https://osu.ppy.sh/beatmapsets/1020429#osu/2135438)
