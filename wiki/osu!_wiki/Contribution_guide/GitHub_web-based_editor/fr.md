@@ -36,7 +36,7 @@ Après avoir lu [Bonnes pratiques § Faire des modifications](/wiki/osu!_wiki/Co
 ### Fichiers existants
 
 1. Appuyez sur `Ctrl` + `P` et entrez le nom du fichier que vous voulez ouvrir, puis appuyez sur `Entrée`. Les correspondances approximatives sont prises en charge : par exemple, si vous tapez `nominators veto fr`, vous obtiendrez `wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto/fr.md`.
-2. Modifiez le fichier si nécessaire. Les changements non commité sont **stockés dans votre navigateur**, et vous pouvez y retourner après avoir quitté `github.dev`.
+2. Modifiez le fichier si nécessaire. Les changements des commis qui n'ont pas été publier sont **stockés dans votre navigateur**, et vous pouvez y retourner après avoir quitté `github.dev`.
 3. Une fois que vous êtes satisfait du ou des articles, [créer un commit](#commit-les-changements).
 
 ### Nouveaux articles ou traductions
