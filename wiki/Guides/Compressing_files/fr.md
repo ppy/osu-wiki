@@ -52,12 +52,12 @@ ffmpeg -i input -c:v libx264 -crf 20 -preset slower -an -sn -map_metadata -1 -ma
 ```
 
 - `-i input` : Votre fichier source. Si le nom du fichier contient des espaces, mettez-le entre guillemets (`"`).
-- `-c:v libx264` : Indiquez que la vidéo doit être encodée à l'aide de l'encodeur x264, produisant une vidéo au format H.264.
+- `-c:v libx264` : Indique que la vidéo doit être encodée à l'aide de l'encodeur x264, produisant une vidéo au format H.264.
 - `-crf 20` : La qualité de la compression, où des valeurs plus faibles donnent une meilleure qualité au détriment de fichiers plus volumineux et vice versa. La fourchette recommandée est d'environ 20-25.
 - `-preset slower` : Spécifiez un préréglage d'encodage, avec des valeurs recommandées allant de `ultrafast` à `veryslow`. Les préréglages plus lents permettent à l'encodeur de vous donner une qualité supérieure pour le même débit, ou un débit inférieur pour la même qualité. Vous trouverez plus d'informations sur les préréglages disponibles sur le [site officiel de FFmpeg](https://trac.ffmpeg.org/wiki/Encode/H.264#Preset).
-- `-an -sn` : Supprimez l'audio et les sous-titres s'ils sont présents.
+- `-an -sn` : Supprime l'audio et les sous-titres s'ils sont présents.
 - `-map_metadata -1 -map_chapters -1` : Supprime les métadonnées et les chapitres s'ils sont présents.
-- `-vf scale=-1:720` : Réduire l'échelle de la vidéo à une hauteur de 720 pixels. Le `-1` permet à FFmpeg de déterminer automatiquement la largeur de la nouvelle vidéo en fonction du ratio d'aspect de la source.
+- `-vf scale=-1:720` : Réduit l'échelle de la vidéo à une hauteur de 720 pixels. Le `-1` permet à FFmpeg de déterminer automatiquement la largeur de la nouvelle vidéo en fonction du ratio d'aspect de la source.
 - `output.mp4` : Votre fichier de sortie. Si le nom du fichier contient des espaces, mettez-le entre guillemets (`"`).
 
 ## Audio
@@ -89,8 +89,8 @@ ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1
 ```
 
 - `-i input` : Votre fichier source. Si le nom du fichier contient des espaces, mettez-le entre guillemets (`"`).
-- `-c:a libmp3lame` : Indiquez que l'audio doit être encodé à l'aide de l'encodeur LAME MP3.
+- `-c:a libmp3lame` : Indique que l'audio doit être encodé à l'aide de l'encodeur LAME MP3.
 - `-q:a 4` : Utilisez la même plage de bitrate variable que dans l'exemple d'Audacity, où un nombre inférieur signifie un bitrate plus élevé. Si vous voulez un débit constant, vous utiliserez par exemple `-b:a 128k` pour un débit constant de 128kbps.
-- `-vn -sn` : Supprimez la vidéo et les sous-titres s'ils sont présents.
+- `-vn -sn` : Supprime la vidéo et les sous-titres s'ils sont présents.
 - `-map_metadata -1 -map_chapters -1` : Supprime les métadonnées et les chapitres s'ils sont présents.
 - `output.mp3`:  Votre fichier de sortie. Si le nom du fichier contient des espaces, mettez-le entre guillemets (`"`).
