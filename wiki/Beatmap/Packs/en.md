@@ -27,9 +27,9 @@ Beatmaps packs are split into 4 categories:
 
 ## Fully Completing Your Song List
 
-This is for those who really want to *fully complete your song list* (and not just download your favorite songs).
+This is for those who really want to *fully complete your song list* (and not just download your favourite songs).
 
-Keep in mind that you will need quite a lot of digital space to storage these beatmaps. As beatmap packs (and torrents) also downloads with the video and other beatmap skinable elements.
+Keep in mind that you will need quite a lot of digital space to storage these beatmaps. As beatmap packs (and torrents) also downloads with the video and other beatmap skinnable elements.
 
 ### Beatmap Pack Listing
 

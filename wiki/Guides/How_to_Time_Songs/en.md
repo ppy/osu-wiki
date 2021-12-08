@@ -132,7 +132,7 @@ You can ask for help from others on this, but there are only few people who *kno
 
 ### What do I do?
 
-To start, listen and find all the places where the rhythm changes (metronome usage is optional) and properly reflect this into the editor, and add new uninherited timing points with correct offsets and BPMs where appropriate. To do this, we will utilize the following plan:
+To start, listen and find all the places where the rhythm changes (metronome usage is optional) and properly reflect this into the editor, and add new uninherited timing points with correct offsets and BPMs where appropriate. To do this, we will utilise the following plan:
 
 1. Make sure that the parameters (BPM and offset) of the current point are shown in the timeline;
 2. While testplaying, keep an eye on hit error. When it starts to change, stop;

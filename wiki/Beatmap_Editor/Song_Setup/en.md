@@ -184,7 +184,7 @@ The `Samples match playback rate (for fully-hitsounded maps)` checkbox will adju
 
 Configure the combo colours and playfield's background colour.
 
-### Hitcircle/Slider Combos
+### Hit circle/Slider Combos
 
 Configure the custom combo colour set. Combo colouring is an important aspect to a beatmap's aesthetic value.
 

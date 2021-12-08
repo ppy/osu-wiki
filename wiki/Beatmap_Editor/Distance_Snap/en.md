@@ -10,7 +10,7 @@ needs_cleanup: true
 
 ***Distance between consecutive circles will be snapped based on their rhythmical difference.***
 
-The simplest way to ensure beat spacing is correct on your beatmaps is to utilize the editor's Distance Snapping function, found in the upper-right hand side of the editor. The relative distance between notes can be adjusted using `Alt` and the mouse wheel. This enables one to ensure beats that are close together on the timeline are close together on the beatmap, and vice versa. This helps with intuitive play and good beat spacing. If you stick to using Distance Snap for the whole song, correct beat spacing is guaranteed!
+The simplest way to ensure beat spacing is correct on your beatmaps is to utilise the editor's Distance Snapping function, found in the upper-right hand side of the editor. The relative distance between notes can be adjusted using `Alt` and the mouse wheel. This enables one to ensure beats that are close together on the timeline are close together on the beatmap, and vice versa. This helps with intuitive play and good beat spacing. If you stick to using Distance Snap for the whole song, correct beat spacing is guaranteed!
 
 When Distance Snap is turned on, each object can only be placed in a circle around the previous object. The radius of the circle is based on how much time has passed since the last object. The distance/time variable can be changed in the editor to make the circle smaller/larger. After a certain period of time (time needed), the snapping is turned off.
 
