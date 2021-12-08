@@ -28,9 +28,9 @@ Pour créer une nouvelle configuration de tournoi, créez un nouveau répertoire
 Dans la configuration d'un tournoi, les actifs nécessaires peuvent être fournis pour afficher des drapeaux, des vidéos et des icônes de mods pour le mappool. Chaque catégorie d'actifs a son propre dossier : 
 
 - your-tournament
-  - flags
-  - mods
-  - videos
+  - Flags
+  - Mods
+  - Videos
 
 ## Personnalisation
 
@@ -46,13 +46,13 @@ Ce drapeau de l'Australie est un exemple de drapeau utilisant les spécification
 
 ![][flag_AU]
 
-Les drapeaux doivent être placés dans`<your-tournament>/flags`. Les drapeaux peuvent ensuite être référencés dans l'éditeur d'équipe par leur nom de fichier sans l'extension de fichier.
+Les drapeaux doivent être placés dans`<your-tournament>/Flags`. Les drapeaux peuvent ensuite être référencés dans l'éditeur d'équipe par leur nom de fichier sans l'extension de fichier.
 
 ### Mods
 
 Pour les icônes de mods personnalisés, les fichiers `.jpg` et `.png` sont acceptés. La résolution peut être quelconque et le client l'adaptera au beatmap panel. Pour référence, un beatmap panel à 1920x1080 est de 563x60 pixels.
 
-Les icônes de mods doivent être placées dans `<your-tournament>/mods`. Les mods peuvent ensuite être référencés par leur nom de fichier sans l'extension dans l'éditeur de tours et dans Seeding Results Editor.
+Les icônes de mods doivent être placées dans `<your-tournament>/Mods`. Les mods peuvent ensuite être référencés par leur nom de fichier sans l'extension dans l'éditeur de tours et dans Seeding Results Editor.
 
 ### Vidéos
 
@@ -66,7 +66,7 @@ Les fichiers doivent respecter les spécifications suivantes :
 - Extension de fichier `mp4`, `m4v` ou `avi`.
 - Codec vidéo : H.264, Codec audio : aucun
 
-Les fichiers vidéo doivent être placés dans le dossier `<your-tournament>/videos` et des noms spécifiques sont nécessaires pour une fonctionnalité correcte.
+Les fichiers vidéo doivent être placés dans le dossier `<your-tournament>/Videos` et des noms spécifiques sont nécessaires pour une fonctionnalité correcte.
 
 | Scène | Fichier(s) |
 | :-- | :-- |

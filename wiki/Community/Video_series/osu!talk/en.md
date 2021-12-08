@@ -35,7 +35,7 @@ The podcast series is set up so that anyone is free to join in on the live sessi
 | 22 | [HappyStick](https://osu.ppy.sh/users/256802) | Pro osu! player | [Link](https://www.youtube.com/watch?v=zhAHOreuYp4) |
 | 23 | [Hayabusa](https://osu.ppy.sh/users/3104108) | Top UK osu!mania player | [Link](https://www.youtube.com/watch?v=1C102Zzuyzg) |
 | 24 | [Kyonko Hiraza](https://osu.ppy.sh/users/444868) | Retired pro osu! player | [Link](https://www.youtube.com/watch?v=6RhBqhhn9F0) |
-| 25 | [PortalLife](https://osu.ppy.sh/users/929134) | Tournament organiser | [Link](https://www.youtube.com/watch?v=odGwuBwqcmc) |
+| 25 | [PortalLife](https://osu.ppy.sh/users/929134) | Tournament organizer | [Link](https://www.youtube.com/watch?v=odGwuBwqcmc) |
 | 26 | [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Easy mod player, part-time dev | [Link](https://www.youtube.com/watch?v=dO3kv8nutSI) |
 | 27 | [machol30](https://osu.ppy.sh/users/5772) | Ancient mapper | [Link](https://www.youtube.com/watch?v=PR-ItQJLQTE) |
 | 28 | [Nashmun](https://osu.ppy.sh/users/49031) | French osu!taiko master | [Link](https://www.youtube.com/watch?v=C8I81f2Gw1s) |

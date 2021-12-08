@@ -13,7 +13,7 @@ The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) sho
 
 Recent additions to the featured artist library are selected indirectly by the osu! community. If beatmappers create and rank maps for an artist, the [osu! team](/wiki/People/The_Team) may reach out to the artist to discuss the featured artist program. However, some artists are occasionally invited to become featured artists based on other factors, such as their expected appeal to osu!'s beatmapping audience.
 
-Most songs in the featured artist program are non-exclusively licensed for osu!. In rare cases an artist will create tracks exclusively for osu!, which are labeled with *osu! exclusive* on their featured artist listing.
+Most songs in the featured artist program are non-exclusively licensed for osu!. In rare cases an artist will create tracks exclusively for osu!, which are labelled with *osu! exclusive* on their featured artist listing.
 
 Details for a musician joining the featured artists can be found on the [music licensing](/wiki/Legal/Music_Licensing) article.
 
