@@ -29,7 +29,7 @@ Play through any of these perfect maps:
 - [osu!mania mapset](https://osu.ppy.sh/beatmapsets/1330313) hosted by [WintMin](https://osu.ppy.sh/users/11161386)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/223/Ukiyoe%20Yokochou/Chaos%20City%20Niigata%20-%20Ukiyoe%20Yokochou.mp3" type="audio/mpeg">
 </audio>
 
 ### Tedjimo yomigY - Lorikeet
@@ -37,19 +37,19 @@ Play through any of these perfect maps:
 Play through [this colourful beatmap](https://osu.ppy.sh/beatmapsets/539888) hosted by [yassu-](https://osu.ppy.sh/users/7095592)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/223/Lorikeet/Tedjimo%20yomigY%20-%20Lorikeet.mp3" type="audio/mpeg">
 </audio>
 
 ### Tedjimo yomigY - JezoensiS
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/223/JezoensiS/Tedjimo%20yomigY%20-%20JezoensiS.mp3" type="audio/mpeg">
 </audio>
 
 ### Tedjimo yomigY - Kageboushi ~Luciola Cruciata~
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/223/Songs/Tedjimo%20yomigY%20-%20Kageboushi%20%7ELuciola%20Cruciata%7E.mp3" type="audio/mpeg">
 </audio>
 
 ---
