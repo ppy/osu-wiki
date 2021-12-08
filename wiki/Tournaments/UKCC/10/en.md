@@ -293,7 +293,7 @@ Saturday, 31 October 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ![][flag_GB] | **7** | 1 | ![][flag_GB] majoreh | [#1](https://osu.ppy.sh/community/matches/93293452) |
 
-#### Loser Finals
+#### Losers Finals
 
 Saturday, 30 October 2021:
 
