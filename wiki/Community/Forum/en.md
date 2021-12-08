@@ -20,9 +20,9 @@ While some forums, such as [Mapping Discussion](https://osu.ppy.sh/community/for
 
 ## Roles and user groups
 
-Some users may belong to one or several custom groups, based on their community tasks, access rights, or past activity. The list of user groups can be found at [The Team § User groups](/wiki/People/The_Team#user-groups).
+Some users may belong to one or several custom groups, based on their community tasks, access rights, or past activity. A full list of user groups can be found at [The Team § User groups](/wiki/People/The_Team#user-groups).
 
-In addition to profile badges provided by group membership, users may have [custom forum titles](/wiki/People/Users_with_unique_titles) displayed under the avatar in each of their posts.
+In addition to user group badges provided by group membership, users may have [custom user titles](/wiki/User_title) displayed under the avatar in each of their posts.
 
 ### Moderation
 
@@ -44,7 +44,7 @@ Additionally, there are other forums similar to Abandoned Wasteland, which serve
 
 ## History
 
-[The first public forum post](https://osu.ppy.sh/community/forums/topics/2) is dated 2011-08-27 and belongs to [peppy](/wiki/People/peppy). During that time, the osu! website used [phpBB](https://en.wikipedia.org/wiki/PhpBB) as its forum engine, which over the years has been significantly expanded to suit the game and community's needs. Some of its customisations included:
+[The first public forum post](https://osu.ppy.sh/community/forums/topics/2) is dated August 28, 2007, and belongs to [peppy](/wiki/People/peppy). During that time, the osu! website used [phpBB](https://en.wikipedia.org/wiki/PhpBB) as its forum engine, which over the years has been significantly expanded to suit the game and community's needs. Some of its customisations included:
 
 - Integration with the [beatmap submission system](/wiki/Submission)
 - The [kudosu](/wiki/Kudosu) and [beatmap ranking](/wiki/Beatmap_ranking_procedure) systems
