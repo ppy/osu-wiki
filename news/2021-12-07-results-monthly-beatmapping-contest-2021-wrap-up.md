@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Results - Monthly Beatmapping Contest 2021 Wrap-up"
-date: 2021-12-06 09:00:00 +0000
+date: 2021-12-08 23:15:00 +0000
 ---
 
 At long last, winners from contests in **every game mode** have been crowned. See who sits on the throne in this Monthly Beatmapping Contest wrap-up!
