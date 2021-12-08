@@ -17,27 +17,30 @@ Le H.264 est un bon codec à utiliser, mais comme la plupart des codecs vidéo, 
 
 Cette section vous montre comment supprimer le son des vidéos en utilisant [Handbrake](https://handbrake.fr/) pour réduire la taille du fichier vidéo.
 
-1. Ouvrez Handbrake et importez votre fichier vidéo. Vous pouvez glisser et déposer votre fichier dans Handbrake ou l'importer manuellement en cliquant sur l'option `File`.
+1. Ouvrez Handbrake et importez votre fichier vidéo. Vous pouvez glisser et déposer votre fichier dans Handbrake ou l'importer manuellement en cliquant sur l'option `Fichier`.
 
-![Importation de fichiers vidéo dans Handbrake](img/import-handbrake.png "Importation de la vidéo dans Handbrake")
+![Importation de fichiers vidéo dans Handbrake](img/import-handbrake-FR.png "Importation de la vidéo dans Handbrake")
 
 2. Sélectionnez le préréglage `Fast 720p30`.
 
-![Sélection du préréglage vidéo](img/preset-handbrake.png "Sélection du préréglage")
+![Sélection du préréglage vidéo](img/preset-handbrake-FR.png "Sélection du préréglage")
 
-3. Sélectionnez l'onglet `Audio` et supprimez toutes les pistes audio. Faites de même pour les sous-titres en allant dans l'onglet `Subtitles` et en supprimant toutes les entrées.
+3. Sélectionnez l'onglet `Audio` et supprimez toutes les pistes audio. Faites de même pour les sous-titres en allant dans l'onglet `Sous-titres` et en supprimant toutes les entrées.
 
-![Suppression des pistes audio de l'onglet audio dans Handbrake](img/removeaudio-handbrake.png "Suppression des pistes audio")
+![Suppression des pistes audio de l'onglet audio dans Handbrake](img/removeaudio-handbrake-FR.png "Suppression des pistes audio")
 
-4. Allez dans l'onglet `Video` et définissez le codec vidéo comme `H.264 (X264)`. Modifiez la valeur de `Constant Quality` entre 20 et 25. Des valeurs plus petites produiront des fichiers de plus petite taille au détriment de la qualité de la vidéo.
-5. Si vous êtes prêt à passer plus de temps à encoder, changez le `Encoder Preset` sous `Encoder Options`. Les préréglages plus lents offrent une meilleure qualité vidéo et peuvent également réduire la taille du fichier vidéo, mais ne descendez pas jusqu'au placebo car cela prend beaucoup plus de temps que `VerySlow` pour une très faible amélioration de la qualité. Réglez le framerate pour qu'il soit le même que celui de la source et réglez-le sur un framerate constant.
+4. Allez dans l'onglet `Vidéo` et définissez le codec vidéo comme `H.264 (X264)`. Modifiez la valeur de `Qualité constante` entre 20 et 25. Des valeurs plus petites produiront des fichiers de plus petite taille au détriment de la qualité de la vidéo.
+5. Si vous êtes prêt à passer plus de temps à encoder, changez le `Préréglage de l'encodeur` sous `Options de l'encodeur`. Les préréglages plus lents offrent une meilleure qualité vidéo et peuvent également réduire la taille du fichier vidéo, mais ne descendez pas jusqu'au placebo car cela prend beaucoup plus de temps que `VerySlow` pour une très faible amélioration de la qualité. Réglez le framerate pour qu'il soit le même que celui de la source et réglez-le sur un framerate constant.
+
+![Réglage du codec vidéo et de la qualité dans Handbrake](img/codecquality-handbrake-FR.png "Réglage du codec vidéo et de la qualité constante")
+
 6. Pour redimensionner l'image du fichier vidéo, allez dans l'onglet `Dimensions` et changez la largeur en `1280` et la hauteur en `720`.
 
-![Réglage des dimensions de la vidéo et de la qualité dans Handbrake](img/dimensions-handbrake.png "Définition des dimensions de la vidéo")
+![Réglage des dimensions de la vidéo et de la qualité dans Handbrake](img/dimensions-handbrake-FR.png "Définition des dimensions de la vidéo")
 
-7. Enfin, choisissez l'emplacement du fichier dans lequel vous voulez sauvegarder votre résultat, puis cliquez sur `Start Encode`.
+7. Enfin, choisissez l'emplacement du fichier dans lequel vous voulez sauvegarder votre résultat, puis cliquez sur `Démarrer l'encodage`.
 
-![Encodage et sauvegarde de la vidéo](img/save-handbrake.png "Encodage et sauvegarde de la vidéo")
+![Encodage et sauvegarde de la vidéo](img/save-handbrake-FR.png "Encodage et sauvegarde de la vidéo")
 
 ### Utilisation de FFmpeg
 
@@ -70,15 +73,15 @@ Les [critères de classement](/wiki/Ranking_Criteria#audio) ont une règle qui s
 
 1. Importez le fichier audio dans Audacity.
 
-![Importer de l'audio dans Audacity](img/import-audacity.png "Importer de l'audio dans Audacity")
+![Importer de l'audio dans Audacity](img/import-audacity-FR.png "Importer de l'audio dans Audacity")
 
 2. Exportez l'audio au format MP3.
 
-![Exporter en MP3](img/exportmenu-audacity.png "Exporter en MP3")
+![Exporter en MP3](img/exportmenu-audacity-FR.png "Exporter en MP3")
 
-3. Changez les options d'exportation pour aider à compresser votre fichier. Utilisez `Preset` et sélectionnez la qualité `Medium, 145-185 kbps`. Si vous le souhaitez, vous pouvez entrer les métadonnées dans la boîte de dialogue suivante. Lorsque vous êtes prêt, cliquez sur `OK`.
+3. Changez les options d'exportation pour aider à compresser votre fichier. Utilisez `Préréglage` et sélectionnez la qualité `Moyen, 145-185 kbps`. Si vous le souhaitez, vous pouvez entrer les métadonnées dans la boîte de dialogue suivante. Lorsque vous êtes prêt, cliquez sur `Enregistrer`.
 
-![Exporter les paramètres](img/exportsettings-audacity.png "Exporter les paramètres")
+![Exporter les paramètres](img/exportsettings-audacity-FR.png "Exporter les paramètres")
 
 ### Utilisation de FFmpeg
 
