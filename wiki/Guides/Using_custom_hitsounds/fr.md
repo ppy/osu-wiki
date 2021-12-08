@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: f7365d5b874cd7bd24d42b84611e43535dd7de86
+---
+
 # Utilisation de hitsounds personnalisés
 
 Dans ce guide, vous apprendrez à utiliser des [hitsounds](/wiki/Beatmapping/Hitsound) personnalisés dans vos [beatmaps](/wiki/Beatmap).
