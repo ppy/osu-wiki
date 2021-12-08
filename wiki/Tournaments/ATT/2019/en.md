@@ -36,7 +36,7 @@ The Ausu!Taiko Tournament 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
+| Organizer | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
 | Mappool selector | ![][flag_DE] [frz](https://osu.ppy.sh/users/6956922), ![][flag_AU] [Fuel](https://osu.ppy.sh/users/5155081), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
 | Referee | ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_AU] [Fuel](https://osu.ppy.sh/users/5155081), ![][flag_AU] [numbermaniac](https://osu.ppy.sh/users/7764184), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_AU] [soliderror](https://osu.ppy.sh/users/10630542) |
 | Streamer | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |

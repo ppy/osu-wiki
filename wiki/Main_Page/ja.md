@@ -22,7 +22,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 [インターフェース](/wiki/Interface) • [オプション](/wiki/Options) • [視覚設定](/wiki/Visual_Settings) • [ショートカットキーリファレンス](/wiki/Shortcut_key_reference) • [設定ファイル](/wiki/osu!_Program_Files/User_Configuration_File) • [プログラムファイル](/wiki/osu!_Program_Files)
 
-[ファイルフォーマット](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[ファイルフォーマット](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">

@@ -28,14 +28,14 @@ Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to pr
 
 [Interface](/wiki/Interface) • [Options](/wiki/Options) • [Visual settings](/wiki/Visual_Settings) • [Shortcut key reference](/wiki/Shortcut_key_reference) • [Configuration file](/wiki/osu!_Program_Files/User_Configuration_File) • [Program files](/wiki/osu!_Program_Files)
 
-[File formats](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+[File formats](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Gameplay
 
-Everything about clicking circles, striking drums, catching fruits, and playing the synthesizer: key elements, concepts, mechanics, and competitive play.
+Everything about clicking circles, striking drums, catching fruits, and playing the synthesiser: key elements, concepts, mechanics, and competitive play.
 
 [Game modes](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
@@ -46,7 +46,7 @@ Everything about clicking circles, striking drums, catching fruits, and playing 
 
 # [Beatmap editor](/wiki/Beatmap_Editor)
 
-All osu! beatmaps are created by the blooming imagination of its dynamic community. Always wanted to share your favourite music with others, but never knew how? Familiarize yourself with the built-in editor and the opportunities it has to offer.
+All osu! beatmaps are created by the blooming imagination of its dynamic community. Always wanted to share your favourite music with others, but never knew how? Familiarise yourself with the built-in editor and the opportunities it has to offer.
 
 Sections: [Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song setup](/wiki/Beatmap_Editor/Song_Setup)
 
@@ -59,7 +59,7 @@ Activities: [Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Mapp
 
 # Beatmap submission and ranking
 
-Ranking is the process of obtaining a leaderboard for a beatmap, which makes it more popular and well-recognized. Discover what it takes to walk this path and how to increase your chances to succeed through beatmap reviews, as well as the procedures for quality control and the ranking process.
+Ranking is the process of obtaining a leaderboard for a beatmap, which makes it more popular and well-recognised. Discover what it takes to walk this path and how to increase your chances to succeed through beatmap reviews, as well as the procedures for quality control and the ranking process.
 
 [Submission](/wiki/Submission) • [Modding](/wiki/Modding) • [Ranking procedure](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
 
@@ -96,7 +96,7 @@ Do your part: [How and what to help with](/wiki/How_you_can_help!) • [Report b
 
 # Community and projects
 
-Social interaction is one of main things that fuel osu! players all around the world. Explore the activities and contests, get in touch with others, or help organize the next big event!
+Social interaction is one of main things that fuel osu! players all around the world. Explore the activities and contests, get in touch with others, or help organise the next big event!
 
 [Tournaments](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](/wiki/Community_Mentorship_Program)
 

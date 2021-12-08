@@ -9,7 +9,7 @@ tags:
 
 # Bot account
 
-A **bot account** is a special type of osu! account run by an automated service instead of a real person. On the website, they have a white group badge labeled `BOT`, and only the `me!` section of their profile is visible. Bot accounts are most commonly used to host "chat bots" that offer various functionalities to the community through [multiplayer](/wiki/Multi) lobby channels or private messages.
+A **bot account** is a special type of osu! account run by an automated service instead of a real person. On the website, they have a white group badge labelled `BOT`, and only the `me!` section of their profile is visible. Bot accounts are most commonly used to host "chat bots" that offer various functionalities to the community through [multiplayer](/wiki/Multi) lobby channels or private messages.
 
 Bot accounts can only be created via an [application process](#creating-a-bot-account). An attempt to create a bot account by registering normally is considered multi-accounting and is against the [community rules](/wiki/Rules#community-rules).
 
@@ -39,7 +39,7 @@ Before considering a request, the support team requires that the bot meets these
 
 ### Filing a request
 
-If your bot fulfills the criteria above, you may file a request to create a bot account for it.
+If your bot fulfils the criteria above, you may file a request to create a bot account for it.
 
 Send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with the subject `Bot Account Request`. This must be sent from the email address attached to your osu! account.
 

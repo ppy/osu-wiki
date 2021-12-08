@@ -17,7 +17,7 @@ Perlu diketahui bahwa jenis permainan [osu!taiko](/wiki/Game_mode/osu!taiko) dan
 
 ## osu!
 
-Di [osu!](/wiki/Game_mode/osu!), selain warna kombo, setiap hit object di dalam kombo memiliki sebuah angka di dalamnya. Kombo baru diawali dengan angka 1 dan terus bertambah, dan spinner juga memaksa object berikutnya untuk memulai kombo baru. Health akan pulih lebih banyak dengan [Geki dan Katu](/wiki/Score#osu!) skor hit, yang bisa diberikan dari hit object terakhir dalam sebuah kombo.
+Di [osu!](/wiki/Game_mode/osu!), selain warna kombo, setiap hit object di dalam kombo memiliki sebuah angka di dalamnya. Kombo baru diawali dengan angka 1 dan terus bertambah, dan spinner juga memaksa object berikutnya untuk memulai kombo baru. Health akan pulih lebih banyak dengan [Geki](/wiki/Geki) dan [Katu](/wiki/Katu) skor hit, yang bisa diberikan dari hit object terakhir dalam sebuah kombo.
 
 ## osu!catch
 
