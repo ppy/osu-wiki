@@ -8,7 +8,7 @@ In the mood for an authentic rhythm game sound combined with jazzy bossa nova mu
 
 ![](https://assets.ppy.sh/artists/223/header.jpg)
 
-**Tedjimo yomigY** incorporates a *ton* of different inspirations in their one-of-a-kind style, ranging from Nintendo game soundtracks to waltz music to rock 'n' roll. A few of their songs in collaboration with "yoa (dawn-system)" have made their way into other games like *SOUND VOLTEX* and *Muse Dash*, securing **Tedjimo yomigY** spot in the minds of rhythm gamers.
+**Tedjimo yomigY** incorporates a ton of different inspirations in their one-of-a-kind style, ranging from Nintendo game soundtracks to waltz music to rock 'n' roll. A few of their songs in collaboration with "yoa (dawn-system)" have made their way into other games like *SOUND VOLTEX* and *Muse Dash*, securing **Tedjimo yomigY**'s spot in the minds of rhythm gamers.
 
 Each and every one of the **7** tracks available from [**Tedjimo yomigY**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/223) are masterpieces. Seriously, there's no other way to put it.
 
