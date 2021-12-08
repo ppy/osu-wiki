@@ -59,7 +59,7 @@ The Game_Osu Tourney 3 was run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/869989)
 - [GO Discord server](https://discord.gg/trnFByC)
-- [GO Youtube channel](https://www.youtube.com/channel/UCwIJ0ymAahAASp0_KaZ_1jA)
+- [GO YouTube channel](https://www.youtube.com/channel/UCwIJ0ymAahAASp0_KaZ_1jA)
 - [GO Challonge brackets](https://challonge.com/gameosu)
 - [Website](https://www.gameosu.com/)
 - Livestream

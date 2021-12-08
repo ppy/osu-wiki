@@ -453,7 +453,7 @@ Friday, 21 August 2020:
 2. This tournament uses a qualifier into a double-elimination bracket and single-player format. There are no teams here.
 3. To participate you **must** join the Discord for the duration of the tournament.
 4. Every stage lasts one weekend.
-5. If a player is found to be abusive or rude to other players in the tournament, they may be removed from the tournament at the organiser's discretion. This will never be done without talking to the parties involved. If conduct is bad enough, players may be blacklisted from future tournaments and reported to osu! moderation staff. Trashtalk is fine—harrasment is not.
+5. If a player is found to be abusive or rude to other players in the tournament, they may be removed from the tournament at the organizer's discretion. This will never be done without talking to the parties involved. If conduct is bad enough, players may be blacklisted from future tournaments and reported to osu! moderation staff. Trashtalk is fine—harrasment is not.
 6. Any other rules changes or unexpected occurrences will be announced on the Discord server.
 7. Since this is a badged tournament, you will only be able to participate after having passed a screening-test for any current or previous suspicious activity from osu!staff. This means that if you've been banned within the last year you will be unable to participate in the tournament.
 
@@ -474,13 +474,13 @@ Friday, 21 August 2020:
 
 1. Qualifiers will have a 10 minute max buffer-room to accommodate any delayed players.
 2. For any players who are still unable to join their assigned lobby, they will have the option of rescheduling to a later lobby, unless their assigned lobby is the last one.
-3. Players must finish their lobby in one run and will **NOT** be given second chances should issues arise halfway through a lobby. If this happens, please contact organisers and something may be figured out.
+3. Players must finish their lobby in one run and will **NOT** be given second chances should issues arise halfway through a lobby. If this happens, please contact organizers and something may be figured out.
 4. Seeding is determined from qualifier performance based on a point system. If you have the highest score on a map you get 32 points. If you have the second highest score on a map you get 31 points. 30 points for the third highest score on a map, and so on. If you are placed 33rd highest, you don't get any points. This happens for every map in the qualifier pool. In the end, all players points are summed to form their seeds. The 32 highest seeded players will be participating in the tournament. All other players are placed into the fallback category as potential replacements.
 
 ### Match regulations
 
 1. A private lobby will be created for your match, and both players will be invited approx. 10 minutes before their appointed time by a referee.
-2. If the scheduled referee is unavailable and there are no other referees available, the match can be postponed. Make sure to contact organisers if this happens.
+2. If the scheduled referee is unavailable and there are no other referees available, the match can be postponed. Make sure to contact organizers if this happens.
 3. Matches will be played with **Score V2**, **Team VS** and **NoFail**.
 4. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
 5. Each player can request one warmup map, but it must be **below 4 minutes** (does not apply to Qualifiers, as there are no warmups).
@@ -507,7 +507,7 @@ Friday, 21 August 2020:
 
 1. Every stage is scheduled for the weekend, but exceptions can be made for reschedules.
 2. Matches are allowed to overlap if referees are available.
-3. Match schedule is decided by the organisers. However, if both players can come up with a better time than what we have scheduled for them, please inform the organisers for a reschedule. Organisers will rearrange the match if they are informed before Thursday and a referee is available.
+3. Match schedule is decided by the organizers. However, if both players can come up with a better time than what we have scheduled for them, please inform the organizers for a reschedule. Organizers will rearrange the match if they are informed before Thursday and a referee is available.
 4. Players must complete their match at the designated time or both players are eliminated.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"

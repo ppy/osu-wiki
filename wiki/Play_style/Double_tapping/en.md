@@ -18,4 +18,4 @@ Double tapping is typically substituted in-place of a player's primary tapping s
 
 ## Arguments
 
-Arguments in-favor of double tapping typically reference that it is a quick way to allow the player to learn the movements of the beatmap that come after the troubling pattern, while players against double tapping argue that it's a cheap way to get past a difficult section that should be learned.
+Arguments in favour of double tapping typically reference that it is a quick way to allow the player to learn the movements of the beatmap that come after the troubling pattern, while players against double tapping argue that it's a cheap way to get past a difficult section that should be learned.

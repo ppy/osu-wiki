@@ -38,7 +38,7 @@ The North & South American Taiko Tournament 2019 was run by various community me
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) |
+| Organizer | ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) |
 | Mappool selector | ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787), ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |
 | Referee | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_US] [Ney](https://osu.ppy.sh/users/5991961), ![][flag_US] [radar](https://osu.ppy.sh/users/7131099), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907), ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669), ![][flag_US] [Voltaeyx](https://osu.ppy.sh/users/2715118) |
 | Streamer | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) |

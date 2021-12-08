@@ -9,7 +9,7 @@ tags:
 
 ![UKCC10 logo](img/logo.jpg)
 
-The **UK Community Cup 10** (***UKCC10***) is a British 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147) and ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823). It is the eleventh instalment of the UK Community Cup series and the series' sixth 1v1 competition.
+The **UK Community Cup 10** (***UKCC10***) was a British 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147) and ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823). It was the eleventh instalment of the UK Community Cup series and the series' sixth 1v1 competition.
 
 ## Tournament schedule
 
@@ -25,9 +25,19 @@ The **UK Community Cup 10** (***UKCC10***) is a British 1v1 double-elimination o
 | Finals | 2021-10-23/2021-10-24 |
 | Grand Finals | 2021-10-30/2021-10-31 |
 
+## Prizes
+
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | £75 and profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | £45 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | £25 |
+
+![](img/badge.png "UKCC10 winner badge")
+
 ## Organisation
 
-The UK Community Cup 10 is run by various community members.
+The UK Community Cup 10 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -36,7 +46,7 @@ The UK Community Cup 10 is run by various community members.
 | Streamer | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Teejay](https://osu.ppy.sh/users/9499753), ![][flag_GB] [T-Bounce](https://osu.ppy.sh/users/13347736), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973),![][flag_FR] [lardon](https://osu.ppy.sh/users/11409334) |
 | Commentator | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/9501251), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Teejay](https://osu.ppy.sh/users/9499753), ![][flag_GB] [T-Bounce](https://osu.ppy.sh/users/13347736), ![][flag_GB] [Angel\_kanade](https://osu.ppy.sh/users/12013857), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_BR] [Jow](https://osu.ppy.sh/users/13030567), ![][flag_GB] [Lapis-](https://osu.ppy.sh/users/929134) |
 | Designer | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) |
-| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Domblade](https://osu.ppy.sh/users/6701945), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_PL] [Marzale](https://osu.ppy.sh/users/5194043), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_US] [Geag](https://osu.ppy.sh/users/16052525), ![][flag_ID] [Raff](https://osu.ppy.sh/users/7227330), ![][flag_GB] [Kezanub](https://osu.ppy.sh/users/6088641) |
+| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Domblade](https://osu.ppy.sh/users/6701945), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_PL] [Marzale](https://osu.ppy.sh/users/5194043), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_US] [Geag](https://osu.ppy.sh/users/16052525), ![][flag_ID] [Raff](https://osu.ppy.sh/users/7227330), ![][flag_GB] [Kezanub](https://osu.ppy.sh/users/6088641), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_GB] [T-Bounce](https://osu.ppy.sh/users/13347736), ![][flag_SE] [Saika0k1](https://osu.ppy.sh/users/4316633) |
 | Statistician | ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
 
 ## Links
@@ -57,6 +67,16 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1HsZwZ-9NcBBMDksI
 | 17-32 | ![][flag_GB] [Zyphox](https://osu.ppy.sh/users/6589047), ![][flag_BR] [Checha](https://osu.ppy.sh/users/10157694), ![][flag_IE] [Ophiz](https://osu.ppy.sh/users/6671641), ![][flag_GB] [aeniko](https://osu.ppy.sh/users/9074780), ![][flag_GB] [Rinnu](https://osu.ppy.sh/users/12179012), ![][flag_GB] [-Deeline](https://osu.ppy.sh/users/10121815), ![][flag_GB] [Kerantina](https://osu.ppy.sh/users/7516484), ![][flag_GB] [weezer](https://osu.ppy.sh/users/12356252), ![][flag_GB] [Teejay](https://osu.ppy.sh/users/9499753), ![][flag_IE] [swankitydankity](https://osu.ppy.sh/users/14449630), ![][flag_GB] [jpjtyld](https://osu.ppy.sh/users/10028762), ![][flag_GB] [Kosetsu](https://osu.ppy.sh/users/10710046), ![][flag_GB] [Kathalshame](https://osu.ppy.sh/users/4572097), ![][flag_HK] [pedeko](https://osu.ppy.sh/users/8645133), ![][flag_GB] [Defex](https://osu.ppy.sh/users/9674143), ![][flag_GB] [Twiki-](https://osu.ppy.sh/users/10329548) |
 | 33-48 | ![][flag_GB] [Reshamen](https://osu.ppy.sh/users/17706086), ![][flag_GB] [Gazzzaa](https://osu.ppy.sh/users/8624512), ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380), ![][flag_GB] [p4905](https://osu.ppy.sh/users/11839754), ![][flag_IE] [souljaboitellem](https://osu.ppy.sh/users/8726490), ![][flag_GB] [spook](https://osu.ppy.sh/users/2232928), ![][flag_GB] [NeoPixel201](https://osu.ppy.sh/users/12139352), ![][flag_GB] [Akiba](https://osu.ppy.sh/users/10085767), ![][flag_IE] [PoSharTo](https://osu.ppy.sh/users/11332703), ![][flag_GB] [idealnettles](https://osu.ppy.sh/users/4010354), ![][flag_GB] [thereal99gamer](https://osu.ppy.sh/users/11094254), ![][flag_GB] [HonourBound](https://osu.ppy.sh/users/2945999), ![][flag_GB] [\[Nathan\]](https://osu.ppy.sh/users/4741293), ![][flag_GB] [Cornfield](https://osu.ppy.sh/users/4087422), ![][flag_GB] [squarercube](https://osu.ppy.sh/users/5385017), ![][flag_GB] [RndGuy](https://osu.ppy.sh/users/1201586) |
 | 49-64 | ![][flag_IE] [KSTBAD](https://osu.ppy.sh/users/5046915), ![][flag_GB] [Sspannish](https://osu.ppy.sh/users/11418478), ![][flag_GB] [Rime](https://osu.ppy.sh/users/1397232), ![][flag_GB] [GongoTheGecko](https://osu.ppy.sh/users/9227012), ![][flag_GB] [uee](https://osu.ppy.sh/users/3793976), ![][flag_GB] [FuzzyL](https://osu.ppy.sh/users/12925539), ![][flag_GB] [Chugger](https://osu.ppy.sh/users/4491713), ![][flag_GB] [Kwichi-](https://osu.ppy.sh/users/16287466), ![][flag_GB] [Toran](https://osu.ppy.sh/users/1484934), ![][flag_GB] [Abielove](https://osu.ppy.sh/users/9346516), ![][flag_GB] [Skybella](https://osu.ppy.sh/users/9544017), ![][flag_GB] [Greninja](https://osu.ppy.sh/users/8579186), ![][flag_GB] [\[Melon\]](https://osu.ppy.sh/users/13698217), ![][flag_GB] [-Kaiju-](https://osu.ppy.sh/users/13535506), ![][flag_GB] [unrealLyyy](https://osu.ppy.sh/users/9594849), ![][flag_GB] [Striiker](https://osu.ppy.sh/users/7291594) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
 
 ## Mappools
 
@@ -262,6 +282,24 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1HsZwZ-9NcBBMDksI
   - [ChuuToroP - Uta Catastrophe (HelloSCV) [Insane]](https://osu.ppy.sh/beatmapsets/78487#osu/219571)
 
 ## Match results
+
+### Grand Finals
+
+#### Grand Final
+
+Saturday, 31 October 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Bubbleman** ![][flag_GB] | **7** | 1 | ![][flag_GB] majoreh | [#1](https://osu.ppy.sh/community/matches/93293452) |
+
+#### Losers Finals
+
+Saturday, 30 October 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Kingling ![][flag_GB] | 1 | **7** | ![][flag_GB] **majoreh** | [#1](https://osu.ppy.sh/community/matches/93218988) |
 
 ### Finals
 
@@ -686,5 +724,6 @@ Top 10 qualification results:
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

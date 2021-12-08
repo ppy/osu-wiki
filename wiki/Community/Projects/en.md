@@ -108,7 +108,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [Github](https://github.com/osb-group/osb.moe/) | [Website](https://osb.moe/)
 - [osu!tp's difficulty calculator](https://osu.ppy.sh/community/forums/topics/164057)—An AiMod integration of osu!tp's difficulty calculator.
   - [GitHub](https://github.com/Tom94/AiModtpDifficultyCalculator)
-- [Variable BPM Slider Velocity Stabilizer](https://osu.ppy.sh/community/forums/topics/567059)—A tool that stabilizes the slider velocity after BPM changes.
+- [Variable BPM Slider Velocity Stabilizer](https://osu.ppy.sh/community/forums/topics/567059)—A tool that stabilises the slider velocity after BPM changes.
 
 #### osu!
 
@@ -267,7 +267,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [Website](https://pickem.hwc.hr/tournaments)
 - [o!subscribe](https://osu.ppy.sh/community/forums/topics/587110)—A service that allows you to subscribe to your favorite creators using Discord.
   - [GitHub](https://github.com/christopher-dG/gosubscribe)
-- [Osu Music Library](https://osu.ppy.sh/community/forums/topics/267236)—Organize, listen, and look up songs outside of the game client.
+- [Osu Music Library](https://osu.ppy.sh/community/forums/topics/267236)—Organise, listen, and look up songs outside of the game client.
   - [BitBucket](https://bitbucket.org/Dayanto/osu-music-library)
 - osu! matchmaking—quick and automated multiplayer matches
   - [Website](https://oma.hwc.hr/)
