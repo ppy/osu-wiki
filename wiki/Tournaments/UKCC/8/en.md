@@ -269,7 +269,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Nanahira - Monosugoi Space Shuttle de Koishi ga Monosugoi Uta (sullywally) [Satellite]](https://osu.ppy.sh/beatmapsets/711964#osu/1505170)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Hana - Kuukirikigaku Shoujo to Shounen no Uta (Bellicose) [Tsui no Sora]](https://osu.ppy.sh/beatmapsets/1055510#osu/2205432)
@@ -313,7 +313,7 @@ This competition has come to an end and resulted in the following podium:
   - [ITO KASHITARO - Boku no Hosomichi (Raose) [Journey]](https://osu.ppy.sh/beatmapsets/394691#osu/859034)
   - [Hana - Sakura no Uta (Alyce) [Light Insane]](https://osu.ppy.sh/beatmapsets/376552#osu/824390)
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
@@ -460,7 +460,7 @@ Sunday, 19 April 2020:
 | smol players smol scores | 1 | **5** | **Karthy and AJT's Team** | [#1](https://osu.ppy.sh/community/matches/60618166) |
 | :nandos: | 4 | **5** | **Gaurdian's of Valhalla** | [#1](https://osu.ppy.sh/community/matches/60618200) |
 
-### Group Stage
+### Group stage
 
 #### Group A
 
@@ -552,33 +552,33 @@ Sunday, 19 April 2020:
 
 ### Qualifiers
 
-See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1qBNQMfkLaujAMj8mQW4gTvejIhm6Wz7TOlS32IZOr64/edit#gid=174781692) for a breakdown of the qualification results.
+See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1qBNQMfkLaujAMj8mQW4gTvejIhm6Wz7TOlS32IZOr64/edit#gid=174781692) for a breakdown of the qualifier results.
 
 ## Ruleset
 
 - This tournament is a 2v2 double-elimination British osu! tournament.
 - The structure of the tournament will be:
-  - One qualification rounds where 32 teams progress
-  - Group stage where 16 team progress
-  - Double Elimination Bracket
-- To be able to participate, players must have an **![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag or be able to provide proof of residency to the hosts.**
-- Ranks will be taken during and when signups end. If your teams rank after signups end is under 1000, you will not be eligible to participate in the tournament.
+  - One qualification round where 32 teams progress
+  - Group stage where 16 teams progress
+  - Double-elimination bracket
+- To be able to participate, players must have a **![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag or be able to provide proof of residency to the hosts**.
+- Ranks will be taken during and at the end of signups. If your team rank after signups end is under 1000, you will not be eligible to participate in the tournament.
 - Matches will be **Team Vs**, with **ScoreV2** as the scoring system used.
 - Ranks are used to calculate seeding. Once the tournament starts, your rank is locked and will not affect your seed.
 - All staff (apart from the hosts, mappool selectors and referees) are allowed to participate in the tournament.
-- All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the discord server or during matches (this includes homophobia, racism and toxicity) will result in a **ban** and will be **blacklisted** from participating from future UKCC tournaments.
+- All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the Discord server or during matches (this includes homophobia, racism and toxicity) will result in a **ban** and the offending player will be **blacklisted** from participating from future UKCC tournaments.
 - ***Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.***
 - Players are **required** to join the public Discord server so that they are contactable by other players and staff. If a player can't be contacted or is not responding to messages through Discord, in-game messages, or forum PMs, contact the staff.
 - Mappools are to be released the Monday before a stage is due to happen.
 
 ### Reschedules
 
-- Schedules for the next round are released on the Monday before a stage is due to happen and **all** matches will be scheduled for the weekend. You can reschedule for weekdays at the staffs discretion.
-- In order to reschedule, you must contact your opponents, agree on a time and be able to provide **proof** (by form of a screenshot/image) of the agreed reschedule to the Hosts.
-- In effort to ensure as many matches take place as possible, reschedules are allowed up to **2 hour before your match is due to be played**. However, your opponent holds the right to **refuse a reschedule if asked less than 12 hours from the scheduled time**.
-- If it is impossible to find a time to reschedule to that suits both teams, both teams should talk to the Hosts (Bae- or Yazzehh) and we will attempt to sort something out.
-- Matches that are uncertain to happen (for example, losers’ bracket matches) will still appear on the schedule. They are to be rescheduled if needed in the same way as confirmed matches.
-- If a match needs rescheduling to a time after a related losers’ bracket match, the matches relying on the outcome of the rescheduled match will be rescheduled by staff and 24 hours will be given for rescheduling them, if needed.
+- Schedules for the next round are released on the Monday before a stage is due to happen and **all** matches will be scheduled for the weekend. You can reschedule for weekdays at the staff's discretion.
+- In order to reschedule, you must contact your opponents, agree on a time, and be able to provide **proof** (by form of a screenshot/image) of the agreed reschedule to the hosts.
+- In effort to ensure that as many matches take place as possible, reschedules are allowed up to **2 hours before your match is due to be played**. However, your opponent holds the right to **refuse a reschedule if asked less than 12 hours from the scheduled time**.
+- If it is impossible to find a time to reschedule to that suits both teams, both teams should talk to the hosts ([Bae-](https://osu.ppy.sh/users/6576972) or [Yazzehh](https://osu.ppy.sh/users/7068973)) who will attempt to sort something out.
+- Matches that are uncertain to happen (for example, losers' bracket matches) will still appear on the schedule. They are to be rescheduled if needed in the same way as confirmed matches.
+- If a match needs rescheduling to a time after a related losers' bracket match, the matches relying on the outcome of the rescheduled match will be rescheduled by staff and 24 hours will be given for rescheduling them, if needed.
 
 ### Pre-match
 
@@ -589,7 +589,7 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1qBNQM
 
 ### Rolling
 
-- When both teams are in the lobby and ready, the referee will ask the teams to !roll. The order of picks of bans is decided using the [UKCC 4 roll system](https://i.imgur.com/S0VIvni.png).
+- When both teams are in the lobby and ready, the referee will ask the teams to `!roll`. The order of picks of bans is decided using the [UKCC 4 roll system](https://i.imgur.com/S0VIvni.png).
 
 ### Banning
 
@@ -598,14 +598,14 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1qBNQM
 
 ### Warmups
 
-- There will be no warmups in Qualification rounds. After this, warmup maps must be a submitted beatmap, and have a drain time of 4 minutes or less.
+- There will be no warmups in Qualification rounds. After this, warmup maps must be submitted beatmaps, and have a drain time of 4 minutes or less.
 
 ### Picking
 
 - Teams have **2 minutes** to pick a map. Failure to pick a map within this time limit results in pick choice being passed to the opposing player.
-- For Freemod picks, teams must select any combination of the following mods: **Hidden, HardRock**.
+- For FreeMod picks, teams must select any combination of **Hidden or HardRock**.
 - Failed scores will count.
-- Tiebreakers are FreeMod, however No Mod can be used.
+- Tiebreakers are FreeMod, however NoMod can be used.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
