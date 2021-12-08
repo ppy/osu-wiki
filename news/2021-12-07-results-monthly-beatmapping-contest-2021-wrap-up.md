@@ -144,7 +144,7 @@ The beatmap takes full advantage of the contest's limitation while implementing 
 
 Not far behind, [lemonguy](https://osu.ppy.sh/users/4693052) is another osu!mania legend who's proven themselves with their 4K entry of [*Frostbite*](https://osu.ppy.sh/beatmapsets/1634244)!
 
-Anyone who's participated in osu!mania tournaments knows the magic behind lemonguy. His beatmaps are tightly structured and utilize patterning that the judges found exceptional — especially demonstrated by the jumpstreams featured throughout the beatmap.
+Anyone who's participated in osu!mania tournaments knows the magic behind lemonguy. His beatmaps are tightly structured and utilize patterning that the judges found exceptional — especially demonstrated by his special variant of jumpstreams featured throughout the beatmap.
 
 ---
 
