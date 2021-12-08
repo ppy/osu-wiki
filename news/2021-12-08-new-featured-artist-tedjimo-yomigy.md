@@ -12,7 +12,7 @@ In the mood for an authentic rhythm game sound combined with jazzy bossa nova mu
 
 Each and every one of the **7** tracks available from [**Tedjimo yomigY**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/223) are masterpieces. Seriously, there's no other way to put it.
 
-Those familiar with the popular beatmap [*Chaos City Niigata - Ukiyoe Yokochou*](https://osu.ppy.sh/beatmapsets/713506) might not know that this track was co-produced by **Tedjimo yomigY**! Check out the map's full difficulty spread through the ultra-wide video below, then experience the rest of these beauties:
+Those familiar with the popular beatmap [Chaos City Niigata - Ukiyoe Yokochou](https://osu.ppy.sh/beatmapsets/713506) might not know that this track was co-produced by **Tedjimo yomigY**! Check out the map's full difficulty spread through the ultra-wide video below, then experience the rest of these beauties:
 
 <div align="center">
     <video width="100%" controls>
