@@ -13,11 +13,11 @@ Le **star rating** (***SR***) décrit la difficulté d'une [beatmap](/wiki/Beatm
 
 *Page principale : [Difficulté](/wiki/Beatmap/Difficulty)*
 
-À partir du 27 juillet 2021, le site web d'osu! attribue automatiquement la couleur de l'indice de difficulté d'une beatmap en fonction de son star ranting selon le spectre suivant :
+À partir du 27 juillet 2021, le site web d'osu! attribue automatiquement la couleur de l'indice de difficulté d'une beatmap en fonction de son star rating selon le spectre suivant :
 
 ![Plages de classement par étoiles](/wiki/shared/star-rating/spectrum.png)
 
-Dans certains cas, comme dans [AiMod](/wiki/Beatmap_Editor/AiMod), la difficulté est classée en six niveaux selon le star ranting, comme suit :
+Dans certains cas, comme dans [AiMod](/wiki/Beatmap_Editor/AiMod), la difficulté est classée en six niveaux selon le star rating, comme suit :
 
 - ![](/wiki/shared/diff/easy-o.png) Easy : 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-o.png) Normal : 2.0★–2.69★
@@ -26,4 +26,4 @@ Dans certains cas, comme dans [AiMod](/wiki/Beatmap_Editor/AiMod), la difficult�
 - ![](/wiki/shared/diff/expert-o.png) Expert : 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png) Expert+ : 6.5★ et plus
 
-Notez que si les niveaux de difficulté prévus pour la plupart des beatmaps correspondent aux couleurs ou aux fourchettes de niveaux qui leur sont attribuées, certains peuvent s'en écarter sensiblement en raison de certains facteurs. C'est pourquoi les [critères de classement](/wiki/Ranking_Criteria) offrent des règles de base plus décisives pour déterminer le niveau de difficulté réel d'une beatmap et sa diffusion, indépendamment de son star ranting.
+Notez que si les niveaux de difficulté prévus pour la plupart des beatmaps correspondent aux couleurs ou aux fourchettes de niveaux qui leur sont attribuées, certains peuvent s'en écarter sensiblement en raison de certains facteurs. C'est pourquoi les [critères de classement](/wiki/Ranking_Criteria) offrent des règles de base plus décisives pour déterminer le niveau de difficulté réel d'une beatmap et sa diffusion, indépendamment de son star rating.
