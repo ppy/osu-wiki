@@ -59,7 +59,7 @@ Afterwards, either block or mute the user in question by clicking the three dots
 
 Please be aware that the person will see you have blocked them if they check your Twitter profile. If you are worried this will make the problem worse elsewhere, mute them instead. This will remove their tweets from your timeline and prevent you from seeing any more content from them, but they will still be able to see and comment on all the tweets you make.
 
-If the tweet is from an account which is linked to an osu! player's profile via our website (it will appear underneath their avatar and join date beside a stylized bird icon), please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing a copy of the tweet in image form wherever possible, and any other information you can think of.
+If the tweet is from an account which is linked to an osu! player's profile via our website (it will appear underneath their avatar and join date beside a stylised bird icon), please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing a copy of the tweet in image form wherever possible, and any other information you can think of.
 
 ## A member of one of the volunteer teams (NAT, GMT) is approaching/talking/acting towards me inappropriately!
 
@@ -73,4 +73,4 @@ We'll look into it as soon as we can.
 
 Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing everything you know with as much evidence as you can get.
 
-If you don't have any evidence but only stories or rumors that you believe are substantial enough to act on, please send us an email anyway. We take complaints like this very seriously and will look deeply into every report.
+If you don't have any evidence but only stories or rumours that you believe are substantial enough to act on, please send us an email anyway. We take complaints like this very seriously and will look deeply into every report.

@@ -20,7 +20,7 @@ Over the years, there were three different systems used for ranking players:
 - [ppv1](/wiki/Performance_points/ppv1) (24 July 2012 – 27 January 2014)
 - [ppv2](/wiki/Performance_points) (27 January 2014 – present)
 
-Because of this, this list only includes players who have reached rank #1 on the main leaderboard that was used at the time. *Italicized* dates and numbers indicate that the corresponding player is continuing their reign as the osu!'s rank #1 holder either from the previous year or into the following year.
+Because of this, this list only includes players who have reached rank #1 on the main leaderboard that was used at the time. *Italicised* dates and numbers indicate that the corresponding player is continuing their reign as the osu!'s rank #1 holder either from the previous year or into the following year.
 
 While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the first rank #1 holder, no sources were able to validate this claim.
 

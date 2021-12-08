@@ -135,7 +135,7 @@ The values for key binding options are the names of the keys.
 | `keyVolumeIncrease` | Increase universal volume |
 | `keyVolumeDecrease` | Decrease universal volume |
 | `keyDisableMouseButtons` | Disable mouse buttons |
-| `keyBossKey` | Minimize osu! to the task bar |
+| `keyBossKey` | Minimise osu! to the system tray |
 | `keySelectTool` | Use select tool |
 | `keyNormalTool` | Use normal tool |
 | `keySliderTool` | Use slider tool |

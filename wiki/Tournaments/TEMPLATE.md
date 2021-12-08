@@ -110,11 +110,13 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (SIZE)](LINK)**
 
 - ModType
-  - [BeatmapArtist - BeatmapTitle (BeatmapCreator) [BeatmapDifficulty]](BeatmapLink)
+  1. [BeatmapArtist - BeatmapTitle (BeatmapCreator) [BeatmapDifficulty]](BeatmapLink)
 - Tiebreaker
-  - **Beatmap**
+  1. **Beatmap**
 
-<!-- tiebreaker beatmaps must be bolded -->
+<!-- tiebreaker beatmaps must be bolded 
+
+If the mappool doesn't use a standard ModType pool structure, alternative titles may be used instead. -->
 
 ## Match results
 

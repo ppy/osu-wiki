@@ -20,7 +20,7 @@ Spacing between these two objects is very important as they are not allowed to o
 
 Nominator: [m980](https://osu.ppy.sh/users/3288)
 
-**Divebomb combos** are made up of a straight line of hit objects traveling from the top of the screen (or the middle) towards the bottom.
+**Divebomb combos** are made up of a straight line of hit objects travelling from the top of the screen (or the middle) towards the bottom.
 This makes the hit objects appear as if they are diving.
 
 The last object should always be a slider.
@@ -49,7 +49,7 @@ Nominator: [mm201](https://osu.ppy.sh/users/30655)
 These are placed in a fashion that they all fit on a hexagonal grid.
 
 Using this technique will cause confusion as to what the order of hit circles are by looking at the circles alone.
-This forces the player to look at the numbers and/or the approach circles to figure out the order or memorize them.
+This forces the player to look at the numbers and/or the approach circles to figure out the order or memorise them.
 
 This could be combined with a low AR (approach rate) to confuse the player.
 

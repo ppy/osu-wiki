@@ -64,7 +64,7 @@
 - Added [Garven](https://osu.ppy.sh/users/244216) to Mapping Assistance Team (2010-09-06) <!-- https://osu.ppy.sh/community/forums/topics/36870 -->
 - Added [Odaril](https://osu.ppy.sh/users/113005) to Mapping Assistance Team (2010-09-06)
 - Added [Mashley](https://osu.ppy.sh/users/41481) to Mapping Assistance Team (2010-09-14) <!-- https://osu.ppy.sh/community/forums/posts/536791 -->
-- Added [Jarby](https://osu.ppy.sh/users/25615) to Mapping Assistance Team (2010-09-22) <!-- https://osu.ppy.sh/community/forums/posts/543665 assuming this is MAT because he is later labeled as "rejoining" the MAT -->
+- Added [Jarby](https://osu.ppy.sh/users/25615) to Mapping Assistance Team (2010-09-22) <!-- https://osu.ppy.sh/community/forums/posts/543665 assuming this is MAT because he is later labelled as "rejoining" the MAT -->
 - Moved [Zerostarry](https://osu.ppy.sh/users/3480) from osu! Alumni to Beatmap Approval Team (2010-09-25) <!-- https://osu.ppy.sh/community/forums/posts/546724 -->
 - Added [Sakura Hana](https://osu.ppy.sh/users/289422) to Mapping Assistance Team (2010-09-29) <!-- https://osu.ppy.sh/community/forums/posts/551025 -->
 

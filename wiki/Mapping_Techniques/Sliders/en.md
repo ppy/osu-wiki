@@ -154,7 +154,7 @@ They are used to be a little more interesting than a regular straight slider.
 
 Nominator: [Lybydose](https://osu.ppy.sh/users/64501)
 
-A **windmill sliders** is a series of four sliders, all of which originate from a shared center point.
+A **windmill sliders** is a series of four sliders, all of which originate from a shared centre point.
 This will make it look like a windmill.
 The sliders may not necessarily be curved, which can instead form a cross or an "x" design.
 

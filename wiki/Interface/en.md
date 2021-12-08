@@ -72,7 +72,7 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 
 ![](img/song-selection.jpg "Song Selection")
 
-You can identify the current mode selected by either looking at the icon in the bottom left, above Mode, or by looking at the transparent icon in the center of the screen. These are the four you will see:
+You can identify the current mode selected by either looking at the icon in the bottom left, above Mode, or by looking at the transparent icon in the centre of the screen. These are the four you will see:
 
 - ![](/wiki/shared/mode/osu.png) is [osu!](/wiki/Game_mode/osu!)
 - ![](/wiki/shared/mode/taiko.png) is [osu!taiko](/wiki/Game_mode/osu!taiko)
@@ -105,7 +105,7 @@ This area displays **information on the beatmap difficulty currently selected.**
 
 Click on one of the tabs to **sort your song list according to the selected criterion**.
 
-**Group** - Most options organize beatmaps into various expandable groups:
+**Group** - Most options organise beatmaps into various expandable groups:
 
 - `No grouping` - Beatmaps will not be grouped but will still be sorted in the order specified by Sort.
 - `By Difficulty` - Beatmaps will be grouped by their star difficulty, rounded to the nearest whole number.
@@ -248,7 +248,7 @@ While you are on the Mod Selection Screen, you cannot access the Chat and Extend
 
 Click the `Random` button or press `F2` to have the game **randomly scroll through all of your beatmaps and pick one.** You cannot select a beatmap yourself until it has finished scrolling.
 
-*Note: You can press `Shift` + the `Random` button or `F2` to go back to the beatmap you had selected before you randomized your selection.*
+*Note: You can press `Shift` + the `Random` button or `F2` to go back to the beatmap you had selected before you randomised your selection.*
 
 ![](img/beatmap-options.jpg "Possible commands for a beatmap")
 

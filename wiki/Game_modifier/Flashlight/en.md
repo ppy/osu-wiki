@@ -41,7 +41,7 @@ All of this adds up to an effect that looks like a virtual flashlight is being s
 
 It should be noted that when paired with the Hidden mod, the "flashlight's" visible area barely matters: with limited vision, the fading of the hit objects may occur while the cursor is not focused to the hit object's appearance point.
 
-The Flashlight mod is widely regarded by many as the hardest mod in osu!, and scores obtained with it typically require players to memorize the entire beatmap.
+The Flashlight mod is widely regarded by many as the hardest mod in osu!, and scores obtained with it typically require players to memorise the entire beatmap.
 
 ### osu!taiko
 
@@ -49,7 +49,7 @@ In [osu!taiko](/wiki/Game_mode/osu!taiko), the position of visible area is fixed
 
 ![FL gameplay taiko](img/FL-taiko.jpg "Gameplay of osu!taiko with the Flashlight mod enabled")
 
-When paired with the Hidden mod, the "flashlight's" visible area becomes a moot point because notes are technically "invisible" because the notes fade out completely upon reaching the visible area. This also requires complete memorization of the beatmap.
+When paired with the Hidden mod, the "flashlight's" visible area becomes a moot point because notes are technically "invisible" because the notes fade out completely upon reaching the visible area. This also requires complete memorisation of the beatmap.
 
 ### osu!catch
 
@@ -57,11 +57,11 @@ In [osu!catch](/wiki/Game_mode/osu!catch), the Flashlight mod's behaviour is the
 
 ![FL gameplay catch](img/FL-catch.jpg "Gameplay of osu!catch with the Flashlight mod enabled")
 
-When paired with the Hidden mod, the fruits are momentarily visible if the catcher is *directly under* the fruits. That is, up until the player reaches 100x combo, at which point the fruits become completely invisible by the time the fruits reach the visible area. Much like osu! and osu!taiko, this also requires complete memorization of the beatmap.
+When paired with the Hidden mod, the fruits are momentarily visible if the catcher is *directly under* the fruits. That is, up until the player reaches 100x combo, at which point the fruits become completely invisible by the time the fruits reach the visible area. Much like osu! and osu!taiko, this also requires complete memorisation of the beatmap.
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania), the visible area is restricted to a relatively thin horizontal bar at the center of the track whilst everything else is obstructed from view. In that sense, the Flashlight mod could be thought of as the Hidden mod and [Fade In](/wiki/Game_modifier/Fade_In) mod combined. (That is, without the changing sizes of the visible area.)
+In [osu!mania](/wiki/Game_mode/osu!mania), the visible area is restricted to a relatively thin horizontal bar at the centre of the track whilst everything else is obstructed from view. In that sense, the Flashlight mod could be thought of as the Hidden mod and [Fade In](/wiki/Game_modifier/Fade_In) mod combined. (That is, without the changing sizes of the visible area.)
 
 ![FL gameplay mania](img/FL-mania.jpg "Gameplay of osu!mania with the Flashlight mod enabled")
 

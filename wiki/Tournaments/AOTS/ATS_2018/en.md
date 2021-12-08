@@ -39,7 +39,7 @@ The Asian Taiko Showdown 2018 was run by various osu!taiko community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
+| Organizer | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
 | Mappool selector | ![][flag_ID] [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ![][flag_ID] [Guardistack-](https://osu.ppy.sh/users/1602428), ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
 | Commentator | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416) |
 | Streamer | ![][flag_JP] [SakuraFrost-](https://osu.ppy.sh/users/8147993) |
@@ -450,7 +450,7 @@ Friday, 1 June 2018:
    - Maximum Performance Points (PP) allowed for participant to register is **8,500pp.**
    - Participant's account must be **6 months old or older.**
 3. Map scoring is based on **Score V2.**
-4. Match schedule will be settled by the Organisers (see below).
+4. Match schedule will be settled by the Organizers (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed plays will result with the enemy's winning by default.
 7. If the match ends in a draw, the game will be nullified and proceed to the next pick, selected by the next player.
@@ -508,7 +508,7 @@ Friday, 1 June 2018:
 
 1. Each stage will be held on **a single weekend**.
 2. All Double Elimination Stages will be held on either Saturday or Sunday, UTC +7.
-3. Scheduling will be handled by the Organisers. Schedules will be released on the Sunday after current stage is finished. Reschedules are allowed, however must be agreed on by both players and proof must be provided.
+3. Scheduling will be handled by the Organizers. Schedules will be released on the Sunday after current stage is finished. Reschedules are allowed, however must be agreed on by both players and proof must be provided.
 
 ### Winning conditions
 
