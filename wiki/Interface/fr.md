@@ -6,23 +6,23 @@
 
 ![](img/main-menu-FR.png "Menu principal")
 
-L'[osu!cookie](/wiki/Glossary/Cookie) \[1\] pluse en fonction du [BPM](/wiki/Beatmapping/Beats_per_minute) de la musique en cours de lecture. On peut également voir plusieurs barres autour du logo qui changent de taille en fonction du volume de la musique. Si aucun morceau n'est joué, le logo pulse par défaut à un rythme de 60 BPM. Les éléments du menu principal sont les suivants :
+L'[osu!cookie](/wiki/Glossary/Cookie) \[1\] pulse en fonction du [BPM](/wiki/Beatmapping/Beats_per_minute) de la musique en cours de lecture. On peut également voir plusieurs barres autour du logo qui changent de taille en fonction du volume de la musique. Si aucun morceau n'est joué, le logo pulse par défaut à un rythme de 60 BPM. Les éléments du menu principal sont les suivants :
 
 - \[2\] Cliquez sur `Play` (`P`) ou sur le logo pour accéder au menu concernant le mode de jeu (Solo ou Multi).
 - \[3\] Cliquez sur `Edit` (`E`) pour ouvrir le menu de sélection des beatmaps dans l'[éditeur](/wiki/Beatmap_Editor).
 - \[4\] Cliquez sur `Options` (`O`) pour afficher l'écran des [options](/wiki/Options).
 - \[5\] Cliquez sur `Exit` (`Echap`) pour fermer osu!.
-- \[6\] Sous le menu sont affichés des conseils utiles et aléatoires sur comment tirer le meilleur parti d'osu!, et parfois une bannière concernant un évènement en cours.
+- \[6\] Sous le menu sont affichés divers conseils utiles sur comment tirer le meilleur parti d'osu!, et parfois une bannière concernant un évènement en cours.
 - \[7\] Dans le coin inférieur gauche se situe un lien vers le site web d'osu! ainsi que des informations sur son copyright.
 - \[8\] Le statut de la connexion à [Bancho](/wiki/Bancho_(server))!. Il n'est pas présent sur l'image ci-dessus, mais le statut est représenté par un maillon de chaîne.
 - \[9\] En bas à droite se trouvent les boutons de contrôles du [tchat](/wiki/Chat_Console) (les raccourcis clavier sont `F8` pour le bouton "Show Chat" et `F9` pour le bouton "Online Users").
-- \[10\] En haut à droite se situe un jukebox qui joue les musiques que vous avez télécharger dans un ordre aléatoire. La partie la plus haute indique la musique en cours de lecture. Les boutons, de gauche à droite, effectuent ces actions :
+- \[10\] En haut à droite se situe un jukebox qui joue aléatoirement les musiques que vous avez téléchargées. La partie la plus haute indique la musique en cours de lecture. Les boutons, de gauche à droite, effectuent ces actions :
   - Aller à la musique précédente.
   - Jouer la musique en cours de lecture.
   - Mettre en pause la musique.
   - Arrêter la musique (La différence avec le bouton de pause est que la musique recommence du début au lieu de reprendre là où on l'a arrêtée).
   - Aller à la musique suivante.
-  - Voir le nom de la musique. Cette option permet de rendre cet affichage permanent ou temporaire. Si son statut est permanent, il restera présent à l'écran jusqu'à ce qu'on change de menu. Si son statut est temporaire, il disparaîtra au bout de quelques secondes après le choix de la musique et restera caché jusqu'à ce que son statut soit changé ou qu'une autre musique soit joué.
+  - Voir le nom de la musique. Cette option permet de rendre cet affichage permanent ou temporaire. Si son statut est permanent, il restera présent à l'écran jusqu'à ce qu'on change de menu. Si son statut est temporaire, il disparaîtra au bout de quelques secondes après le choix de la musique et restera caché jusqu'à ce que son statut soit changé ou qu'une autre musique soit jouée.
   - Afficher la liste des musiques présentes dans le jeu.
 - \[11\] A côté de votre profil se situe le nombre de beatmaps que vous possédez, le temps depuis lequel osu! est en marche et l'heure qu'affiche votre ordinateur.
 - \[12\] Dans le coin supérieur gauche se trouve votre profil, cliquez dessus pour afficher vos options d'utilisateur.
@@ -54,13 +54,13 @@ Accédez à cet écran en cliquant sur votre profil se trouvant en haut à gauch
 
 ![](img/multi-room-FR.png "Salle multijoueur")
 
-1. Votre rang dans la salle. Vous pouvez être soit l'hôte (si vous avez crée la salle ou si l'hôte précédent vous a donné ce rôle), soit un participant. Ce rang est également affiché à côté de votre nom.
+1. Votre rang dans la salle. Vous pouvez être soit l'hôte (si vous avez créé la salle ou si l'hôte précédent vous a donné ce rôle), soit un participant. Ce rang est également affiché à côté de votre nom.
 2. Votre profil.
 3. Le jukebox.
 4. La liste des joueurs. On peut y voir le nom des joueurs, leur rang (hôte ou participant), les [mods](/wiki/Game_modifier) qu'ils ont choisis (s'il y en a, voir \#7), leur classement sur osu!, ainsi que leur équipe (si le type de partie est réglé sur `Team VS` ou `Tag-team VS`).
 5. Le nom de la salle et les paramètres du mot de passe.
 6. La beatmap choisie. Elle est montrée comme dans l'écran de sélection des beatmaps dans le mode Solo.
-7. Les [mods](/wiki/Game_modifier) que vous avez activé (voir \#12), ainsi que l'option pour les sélectionner. L'option intitulée "Mods libres" décide de si les joueurs peuvent choisir leurs propres mods ou non. Si elle est activée, les joueurs peuvent choisir n'importe quelle combinaison de mods *sauf les mods altérant la vitesse de la beatmap, comme [Double Time](/wiki/Game_modifier/Double_Time) et [Half Time](/wiki/Game_modifier/Half_Time)*. Si elle est désactivée, l'hôte décide de quels mods seront utilisés. L'hôte peut choisir les mods altérant la vitesse de la beatmap peu importe si l'option "Mods libres" est activée ou non.
+7. Les [mods](/wiki/Game_modifier) que vous avez activés (voir \#12), ainsi que l'option pour les sélectionner. L'option intitulée "Mods libres" décide de si les joueurs peuvent choisir leurs propres mods ou non. Si elle est activée, les joueurs peuvent choisir n'importe quelle combinaison de mods *sauf les mods altérant la vitesse de la beatmap, comme [Double Time](/wiki/Game_modifier/Double_Time) et [Half Time](/wiki/Game_modifier/Half_Time)*. Si elle est désactivée, l'hôte décide de quels mods seront utilisés. L'hôte peut choisir les mods altérant la vitesse de la beatmap peu importe si l'option "Mods libres" est activée ou non.
 8. Le type de partie et les conditions de victoire.
 9. Le bouton "Je suis prêt !".
 10. La [console de tchat](/wiki/Chat_Console).
@@ -241,7 +241,7 @@ Cliquez sur le bouton `Mods` ou appuyez sur `F1` pour accéder à l'**[écran de
 
 Sur cet écran, vous pouvez modifier le gameplay. Certains mods baissent la difficulté de la beatmap et appliquent un multiplicateur qui diminue le score que vous obtenez. Inversement, certains mods augmentent la difficulté tout en appliquant un multiplicateur qui augmente le score obtenu. Enfin, certains mods changent le gameplay d'une autre manière. Les mods [Relax](/wiki/Game_modifier/Relax) et [Auto Pilot](/wiki/Game_modifier/Autopilot) tombent dans cette catégorie.
 
-Mettez le curseur au dessus de l'icône d'un mod pour voir une description courte de son effet sur le gameplay. Cliquez sur celui-ci pour le sélectionner ou le désélectionner. Certains mods, comme le mod [Double Time](/wiki/Game_modifier/Double_Time), ont plusieurs variations. Cliquez une nouvelle fois sur ce mod pour voir les différentes versions de celui-ci.
+Mettez le curseur au dessus de l'icône d'un mod pour voir une courte description de son effet sur le gameplay. Cliquez sur celui-ci pour le sélectionner ou le désélectionner. Certains mods, comme le mod [Double Time](/wiki/Game_modifier/Double_Time), ont plusieurs variations. Cliquez une nouvelle fois sur ce mod pour voir les différentes versions de celui-ci.
 Le multiplicateur de score affiché au dessus indique l'effet combiné des multiplicateurs du ou des mods choisi(s) sur votre score. Cliquez sur `Réinitialiser` ou appuyez sur `1` pour désélectionner tous les mods choisis actuellement. Cliquez sur `Fermer` ou appuyez sur `2` pour retourner à l'écran de sélection de beatmaps.
 
 Tant que vous êtes sur ce menu, il est impossible d'accéder à la console de tchat et à la console de tchat étendue. De plus, les skins peuvent altérer le texte et/ou les icônes des mods, mais leurs effets resteront identiques.
