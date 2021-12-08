@@ -36,7 +36,7 @@ While this summarizes the winners and their prizes, details on the rest of the p
 
 This month's contest was themed around [blankets](/wiki/Mapping_Techniques/Blanket)!
 
-During the [screening](/wiki/Contests/Monthly_Beatmapping_Contest#screening) process, experienced mappers narrowed down the contests **20+** entries to **5** finalists. These 5 entries were thoroughly evaluated by a different team of [judges](/wiki/Contests/Monthly_Beatmapping_Contest#judging), resulting in the... uh, results!
+During the [screening](/wiki/Contests/Monthly_Beatmapping_Contest#screening) process, experienced mappers narrowed down the contest's **20+** entries to **5** finalists. These 5 entries were thoroughly evaluated by a different team of [judges](/wiki/Contests/Monthly_Beatmapping_Contest#judging), resulting in the... uh, results!
 
 | Rank | Beatmap | Judging | Musical representation (50) | Creativity (50) | Gameplay (50) | Theme (50) | Total (standardized/raw) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -82,11 +82,11 @@ See results for all submissions [here](https://mappersguild.com/contestresults?c
 
 Ending Thailand's osu!taiko win streak and ultimately crossing the Finnish line is the one and only [Jaltzu](https://osu.ppy.sh/users/2597417)!
 
-His incredibly well-structured entry of [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1634847) resonated with judges in all categories, while also providing offering players an especially difficult challenge in the map's kiai section.
+His incredibly well-structured entry of [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1634847) resonated with judges in all categories, while also offering players an especially difficult challenge in the map's kiai section.
 
 ### Runner-up
 
-However, its clear the Thai-ko mappers aren't done with us yet. [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) secures the **runner-up** spot and is the first osu!taiko mapper to win twice in the osu!taiko MBC!
+However, it's clear the Thai-ko mappers aren't done with us yet. [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) secures the **runner-up** spot and is the first osu!taiko mapper to win twice in the osu!taiko MBC!
 
 His entry of [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1634263) opted for relatively more slider velocity changes and slightly simpler patterns, but don't let simplicity disguise the expertise behind this entry.
 
@@ -110,7 +110,7 @@ See results for all submissions [here](https://mappersguild.com/contestresults?c
 
 Winning with his entry of [*REDOUT*](https://osu.ppy.sh/beatmapsets/1634189) is none other than osu!catch veteran [Jemzuu](https://osu.ppy.sh/users/7890134)!
 
-An innovative mapper well-known in the catch community, Jemzuu wasted no opportunity and promptly accepted this month's challenge — and boy did he deliver! Striking a clear balance between this month's theme and his usual technical style, he managed to create a harmonious experience that unquestionably impressed our judges!
+An innovative mapper well known in the catch community, Jemzuu wasted no opportunity and promptly accepted this month's challenge — and boy did he deliver! Striking a clear balance between this month's theme and his usual technical style, he managed to create a harmonious experience that unquestionably impressed our judges!
 
 ### Runner-up
 
