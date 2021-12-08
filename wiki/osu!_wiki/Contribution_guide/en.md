@@ -21,8 +21,8 @@ The osu! wiki articles are stored on [GitHub][osu_wiki]. To contribute, do the f
 
 2. Read [Best practices § Making changes](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-changes) and perform necessary edits. While you are free to use any application of your choice, the osu! wiki has detailed instructions on two workflows:
 
-  - [GitHub web interface](/wiki/osu!_wiki/Contribution_guide/GitHub_Web_Interface) for online single-file changes.
-  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) for offline and flexible edits.
+  - [GitHub web-based editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (online, no installation required).
+  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (offline, offers more control).
 
 ## Self-check
 

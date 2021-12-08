@@ -6,7 +6,7 @@ stub: true
 
 ![](img/taiko-drum.jpg "Taiko drum")
 
-**Drum controllers** are input devices designed to work with Taiko-like drum games. They most often have four areas of input: right drum center, left drum center, right drum rim, and left drum rim, with each input (key) being activated with a drum stick that is smacked down on the corresponding area of the drum.
+**Drum controllers** are input devices designed to work with Taiko-like drum games. They most often have four areas of input: right drum centre, left drum centre, right drum rim, and left drum rim, with each input (key) being activated with a drum stick that is smacked down on the corresponding area of the drum.
 
 ## Input
 

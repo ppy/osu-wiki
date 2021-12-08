@@ -12,7 +12,7 @@ needs_cleanup: true
 
 *For a list of goodies from having osu!supporter, see: [support the game](https://osu.ppy.sh/home/support)*
 
-In general, by buying osu!supporter tag, you will be directly supporting the game's developement while obtaining some extra goodies. It must be noted that the extra features from osu!supporter will never affect gameplay, performance, or score to your advantage in anyway.
+In general, by buying osu!supporter tag, you will be directly supporting the game's development while obtaining some extra goodies. It must be noted that the extra features from osu!supporter will never affect gameplay, performance, or score to your advantage in anyway.
 
 ## Getting osu!supporter
 
