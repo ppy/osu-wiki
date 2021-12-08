@@ -31,11 +31,11 @@ Wenn jemand Hilfe im Forum brauchen sollte, sind sie die erste Anschlusstelle f√
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Deutsch |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanisch |
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australien"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_DE]: /wiki/shared/flag/DE.gif "Deutschland"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spanien"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norwegen"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippinen"
+[flag_SE]: /wiki/shared/flag/SE.gif "Schweden"
+[flag_US]: /wiki/shared/flag/US.gif "Vereinigte Staaten"

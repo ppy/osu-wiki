@@ -1,5 +1,5 @@
 ---
-oudated: true
+outdated: true
 needs_cleanup: true
 ---
 

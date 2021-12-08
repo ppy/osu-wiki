@@ -97,7 +97,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Guidelines
 
-- **All distances should be clear on whether they require the player to [walk](/wiki/Glossary/Walk) or [dash](/wiki/Glossary/Dash).** This is to ensure that players can easily recognize patterns that require dashing.
+- **All distances should be clear on whether they require the player to [walk](/wiki/Glossary/Walk) or [dash](/wiki/Glossary/Dash).** This is to ensure that players can easily recognise patterns that require dashing.
 - **[Dashes](/wiki/Glossary/Dash) that are [basic-snapped](/wiki/Glossary/Snapping#basic-snapped) should not be used consecutively when different beat snaps are used.** For example, a 1/1 dash followed by a 1/2 dash.
 - **[Dashes](/wiki/Glossary/Dash) that are [higher-snapped](/wiki/Glossary/Snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Antiflow) patterns.**
 - **[Combos](/wiki/Beatmapping/Combo) should not exceed 10 objects including slider tails and repeats.** [Spinners](/wiki/Hit_object/Spinner) are an exception.

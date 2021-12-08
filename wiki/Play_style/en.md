@@ -36,7 +36,7 @@ Some players use only the keyboard to tap while others only switch to the keyboa
 
 ![](/wiki/shared/Osu!tablet.jpg "osu!tablet")
 
-*Notice: This play style requires the use of a graphics [tablet (digitizer)](/wiki/Gameplay/Input_device/Graphics_tablet).*
+*Notice: This play style requires the use of a graphics [tablet (digitiser)](/wiki/Gameplay/Input_device/Graphics_tablet).*
 
 Tablet-only players hover a tablet pen over a graphics tablet to navigate the in-game cursor and only tap beats by tapping the pen onto the surface of the graphics tablet itself.
 
@@ -50,7 +50,7 @@ Streaming with only one tapping input is widely regarded in the community to be 
 
 ### Tablet and keyboard
 
-*Notice: This play style requires the use of a graphics tablet (digitizer).*
+*Notice: This play style requires the use of a graphics tablet (digitiser).*
 
 Tablet and keyboard is a popular play style among many passionate, competitive, and top players.
 
@@ -87,9 +87,9 @@ Touchscreen and keyboard is a play style uses a keyboard for key inputs, and tou
 
 Keyboard was once the *only* way to play osu!taiko until other playing methods were supported over time.
 
-Simply, the player would press the assigned keyboard keys to hit the drum parts. By default, `X`/`C` were for the drum center (Red) and `Z`/`V` were for the drum rim (Blue).
+Simply, the player would press the assigned keyboard keys to hit the drum parts. By default, `X`/`C` were for the drum centre (Red) and `Z`/`V` were for the drum rim (Blue).
 
-There are two main styles of setting the keys placement in the keyboard: KDDK (Taiko default, or BRRB) or DDKK/KKDD (or RRBB/BBRR). The letters represent the placement of the drum rim or drum center (e.g. K in KDDK for drum rim, and D for the drum center).
+There are two main styles of setting the keys placement in the keyboard: KDDK (Taiko default, or BRRB) or DDKK/KKDD (or RRBB/BBRR). The letters represent the placement of the drum rim or drum centre (e.g. K in KDDK for drum rim, and D for the drum centre).
 
 *Note: For key-binding, the default is `Z` `X` `C` `V` (KDDK, or BRRB).*
 
@@ -99,9 +99,9 @@ A taiko controller is the default play style and controller for the [Taiko no Ta
 
 *Note: Some skilled players who play using a Taiko controller may create theirs from scratch while others purchase theirs via retail or online stores.*
 
-Players who use a Taiko controller carry a Taiko/drum stick in each hand and hit the center (Red) or rim of the drum (Blue) to register the note based on where it is hit.
+Players who use a Taiko controller carry a Taiko/drum stick in each hand and hit the centre (Red) or rim of the drum (Blue) to register the note based on where it is hit.
 
-*Notice: Most Taiko controllers connect to the computer by using a Bluetooth connector should there be no USB connecter. Though this may increase latency*
+*Notice: Most Taiko controllers connect to the computer by using a Bluetooth connector should there be no USB connector. Though this may increase latency*
 
 ### Other styles
 
@@ -161,7 +161,7 @@ Arcade controllers from other rhythm games such as DJMAX, O2Jam, Beatmania IIDX,
 
 Dance pads are controllers for games like the [Dance Dance Revolution](https://wikipedia.org/wiki/Dance_Dance_Revolution) (DDR) series, and the [Pump It Up](https://en.wikipedia.org/wiki/Pump_It_Up_(video_game_series)) (PIU) series. ([StepMania](https://wikipedia.org/wiki/StepMania) is a semi–well known, community-driven clone of both of these games).
 
-To play with a dance pad, players "dance" on the dance pad to input commands. DDR pads have 4 panels: Up, Down, Left, and Right. DDR Solo pads add Up-Left and Up-Right to that. PIU pads have 5 panels: Up-Left, Up-Right, Down-Left, Down-Right, and Center. Some 9 panel pads also exist for the purpose of compatibility with both PIU and DDR without having to change a pad. Normal DDR and PIU pads are often used in doubles mode in their respective games, where one player uses 2 pads for a song. DDR Solo games were all single-player, so they aren't commonly doubled.
+To play with a dance pad, players "dance" on the dance pad to input commands. DDR pads have 4 panels: Up, Down, Left, and Right. DDR Solo pads add Up-Left and Up-Right to that. PIU pads have 5 panels: Up-Left, Up-Right, Down-Left, Down-Right, and Centre. Some 9 panel pads also exist for the purpose of compatibility with both PIU and DDR without having to change a pad. Normal DDR and PIU pads are often used in doubles mode in their respective games, where one player uses 2 pads for a song. DDR Solo games were all single-player, so they aren't commonly doubled.
 
 A major drawback with using a dance pad is that it can be hard to hit multiple keys at once. To hit 4 notes on a DDR pad, you would either have to use your hands along with your feet to hit them, or position your feet on 2 panels at once.
 

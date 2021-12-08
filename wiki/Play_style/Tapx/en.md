@@ -23,4 +23,4 @@ Streaming via tapx is performed by alternating between tapping a pen onto a tabl
 
 Tapx does not typically have any pros and cons compared to other tablet tap play styles, as it is less of an advantageous tapping style, and more of a necessity to tablet-only players.
 
-Of course, tablet-only players typically play with tablet only due to personal preference, but it is widely recognized that streaming using only tablet taps is practically impossible, and thus requires the use of tapx or some other second method of input to clear streams.
+Of course, tablet-only players typically play with tablet only due to personal preference, but it is widely recognised that streaming using only tablet taps is practically impossible, and thus requires the use of tapx or some other second method of input to clear streams.

@@ -3,6 +3,8 @@ tags:
   - TWC
   - TWC2021
   - 世界杯
+outdated: true
+outdated_since: fd12864fe0d9d5c4e43f09e681be0c1ad040e200
 ---
 
 # osu!taiko 2021 世界杯
@@ -122,49 +124,49 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 ### 十六强赛
 
 - NoMod
-  - [Electric Music Department (Jingumae Sando Academy) - Hyper Bass Feat. Yunomi (7\_7 bootleg) (EJ\_\_) \[sv\]](https://osu.ppy.sh/beatmapsets/1351301#taiko/2797899)
-  - [T-HEY - the Chameleon (femboy mapper) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1395289#taiko/2880037)
-  - [Neko Hacker - Aimai Cyborg (feat. Ugokuchan & JungMato) (KinomiCandy) \[Ambiguous Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1343645#taiko/2782966)
-  - [Carnifex - Dark Days (Grimbow) \[Eclipse V2\]](https://osu.ppy.sh/beatmapsets/1238818#taiko/2879952)
-  - [fn(ArcaeaSoundTeam) - Red and Blue and Green (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1209776#taiko/2518712)
+  1. [Electric Music Department (Jingumae Sando Academy) - Hyper Bass Feat. Yunomi (7\_7 bootleg) (EJ\_\_) \[sv\]](https://osu.ppy.sh/beatmapsets/1351301#taiko/2797899)
+  2. [T-HEY - the Chameleon (femboy mapper) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1395289#taiko/2880037)
+  3. [Neko Hacker - Aimai Cyborg (feat. Ugokuchan & JungMato) (KinomiCandy) \[Ambiguous Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1343645#taiko/2782966)
+  4. [Carnifex - Dark Days (Grimbow) \[Eclipse V2\]](https://osu.ppy.sh/beatmapsets/1238818#taiko/2879952)
+  5. [fn(ArcaeaSoundTeam) - Red and Blue and Green (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1209776#taiko/2518712)
 - Hidden
-  - [Nekomata Master+ - AFRO KNUCKLE (femboy mapper) \[Samba Oni\]](https://osu.ppy.sh/beatmapsets/1395286#taiko/2880034)
-  - [TUYU - Anoyo-iki no Bus ni Notte Saraba. (\_Rise) \[Inner Oni (Edit)\]](https://osu.ppy.sh/beatmapsets/1216596#taiko/2879910)
+  1. [Nekomata Master+ - AFRO KNUCKLE (femboy mapper) \[Samba Oni\]](https://osu.ppy.sh/beatmapsets/1395286#taiko/2880034)
+  2. [TUYU - Anoyo-iki no Bus ni Notte Saraba. (\_Rise) \[Inner Oni (Edit)\]](https://osu.ppy.sh/beatmapsets/1216596#taiko/2879910)
 - HardRock
-  - [96-glass - You're my everything (te2035) \[breakcore is my everything but twc not\]](https://osu.ppy.sh/beatmapsets/1324528#taiko/2879954)
-  - [Whispered - Unrestrained (LZD) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/569779#taiko/1207835)
+  1. [96-glass - You're my everything (te2035) \[breakcore is my everything but twc not\]](https://osu.ppy.sh/beatmapsets/1324528#taiko/2879954)
+  2. [Whispered - Unrestrained (LZD) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/569779#taiko/1207835)
 - DoubleTime
-  - [SECONDWALL - Light (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/1318825#taiko/2733144)
-  - [Infected Mushroom - Kipod (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/305394#taiko/683991)
+  1. [SECONDWALL - Light (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/1318825#taiko/2733144)
+  2. [Infected Mushroom - Kipod (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/305394#taiko/683991)
 - FreeMod
-  - [taigat - plAnet (CANTAX Remix) (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1157104#taiko/2414712)
-  - [owl\*tree feat.chi\*tree - Valsqotch (hoku) \[TWC Flutter ^-^\]](https://osu.ppy.sh/beatmapsets/1395252#taiko/2879960)
-  - [Frums - Zephyrs (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1395165#taiko/2879802)
+  1. [taigat - plAnet (CANTAX Remix) (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1157104#taiko/2414712)
+  2. [owl\*tree feat.chi\*tree - Valsqotch (hoku) \[TWC Flutter ^-^\]](https://osu.ppy.sh/beatmapsets/1395252#taiko/2879960)
+  3. [Frums - Zephyrs (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1395165#taiko/2879802)
 - Tiebreaker
-  - **[ulko - REGGAETON BUT IT HAS AMEN BREAKS (D3kuu) \[TATSUJIN\]](https://osu.ppy.sh/beatmapsets/1013247#taiko/2120869)**
+  1. **[ulko - REGGAETON BUT IT HAS AMEN BREAKS (D3kuu) \[TATSUJIN\]](https://osu.ppy.sh/beatmapsets/1013247#taiko/2120869)**
 
 ### 小组赛
 
 - NoMod
-  - [Noisia - Anomaly (maziari1105) \[Insane\]](https://osu.ppy.sh/beatmapsets/1222464#taiko/2542673)
-  - [uma vs. Morimori Atsushi - Re:End of a Dream (incandescence) \[Resolution\]](https://osu.ppy.sh/beatmapsets/1286433#taiko/2865224)
-  - [Aitsuki Nakuru & Kabocha - Lilith (Nwolf) \[Demon\]](https://osu.ppy.sh/beatmapsets/1387180#taiko/2865215)
-  - [IAHN - Parasite (Original Mix) (iceOC) \[Parasitized Dog\]](https://osu.ppy.sh/beatmapsets/1387184#taiko/2865222)
+  1. [Noisia - Anomaly (maziari1105) \[Insane\]](https://osu.ppy.sh/beatmapsets/1222464#taiko/2542673)
+  2. [uma vs. Morimori Atsushi - Re:End of a Dream (incandescence) \[Resolution\]](https://osu.ppy.sh/beatmapsets/1286433#taiko/2865224)
+  3. [Aitsuki Nakuru & Kabocha - Lilith (Nwolf) \[Demon\]](https://osu.ppy.sh/beatmapsets/1387180#taiko/2865215)
+  4. [IAHN - Parasite (Original Mix) (iceOC) \[Parasitized Dog\]](https://osu.ppy.sh/beatmapsets/1387184#taiko/2865222)
 - Hidden
-  - [Makai Toshi Niigata - Ukiyo-e Yokocho (HiroK) \[Inner Oni (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/839452#taiko/2865277)
-  - [Street - Reincarnation (eiri-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1279224#taiko/2657263)
+  1. [Makai Toshi Niigata - Ukiyo-e Yokocho (HiroK) \[Inner Oni (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/839452#taiko/2865277)
+  2. [Street - Reincarnation (eiri-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1279224#taiko/2657263)
 - HardRock
-  - [Zekk - Libertas (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1001338#taiko/2096131)
-  - [Sophie Twilight , Akari Amano, Hinata Natsuki, Erie - +Kyutie Ladies+ (DJ Mii-ko Remix) (KawaiiBass) \[Cute Vampire\]](https://osu.ppy.sh/beatmapsets/1313424#taiko/2722104)
+  1. [Zekk - Libertas (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1001338#taiko/2096131)
+  2. [Sophie Twilight , Akari Amano, Hinata Natsuki, Erie - +Kyutie Ladies+ (DJ Mii-ko Remix) (KawaiiBass) \[Cute Vampire\]](https://osu.ppy.sh/beatmapsets/1313424#taiko/2722104)
 - DoubleTime
-  - [USAO - Chariot (Extended Mix) (aabc271) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1387259#taiko/2865337)
-  - [hololive IDOL PROJECT - SHIJOSHUGI ADTRUCK (Maimaing) \[Oning\]](https://osu.ppy.sh/beatmapsets/1387197#taiko/2865248)
+  1. [USAO - Chariot (Extended Mix) (aabc271) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1387259#taiko/2865337)
+  2. [hololive IDOL PROJECT - SHIJOSHUGI ADTRUCK (Maimaing) \[Oning\]](https://osu.ppy.sh/beatmapsets/1387197#taiko/2865248)
 - FreeMod
-  - [Niwashi+Aoi - Nostalgic Lostlogic (kei821) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/883344#taiko/1846563)
-  - [KAH - energy trixxx (Faputa) \[Master\]](https://osu.ppy.sh/beatmapsets/1387222#taiko/2865276)
-  - [Equilibrium - Rise Again (LZD) \[Inner Oni TWC ver.\]](https://osu.ppy.sh/beatmapsets/645370#taiko/2865284)
+  1. [Niwashi+Aoi - Nostalgic Lostlogic (kei821) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/883344#taiko/1846563)
+  2. [KAH - energy trixxx (Faputa) \[Master\]](https://osu.ppy.sh/beatmapsets/1387222#taiko/2865276)
+  3. [Equilibrium - Rise Again (LZD) \[Inner Oni TWC ver.\]](https://osu.ppy.sh/beatmapsets/645370#taiko/2865284)
 - Tiebreaker
-  - **[NIWASHI - Playing with Ruby (goheegy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/835717#taiko/2865258)**
+  1. **[NIWASHI - Playing with Ruby (goheegy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/835717#taiko/2865258)**
 
 ## 比赛结果
 

@@ -50,7 +50,7 @@ Each user signed in to osu! has a user panel displayed in Extended Chat. By defa
 | ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap") | Purple - Test playing a beatmap either it's their beatmap or not. |
 | ![Player is submitting a beatmap](img/Chat_Console-Submitting.png "Player is submitting a beatmap") | Turquoise - Submitting (either uploading or updating) the beatmap that they have made. |
 | ![Player is modding a beatmap](img/Chat_Console-Modding.png "Player is modding a beatmap") | Green - Modding or editing someone else's beatmap. |
-| ![Player in Mulitplayer](img/Chat_Console-Multiplayer.png "Player in Mulitplayer") | Brown - User is in multiplayer, but not playing. |
+| ![Player in Multiplayer](img/Chat_Console-Multiplayer.png "Player in Multiplayer") | Brown - User is in multiplayer, but not playing. |
 | ![Player is playing in Multiplayer](img/Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | Yellow - Currently playing in multiplayer. |
 | ![Player is Afk](img/Chat_Console-Afk.png "Player is Afk") | Black - Inactive or away from keyboard (afk). |
 | ![Player is connected via IRC](img/Chat_Console-IRC.png "Player is connected via IRC") | Dark Blue without content - Player is not in-game, but signed in to an IRC client or stats are not available. |
@@ -66,7 +66,7 @@ Press the number or click the bar to activate:
 3. `Start Chat`: Opens a private chat tab with the user.
 4. `Invite to game`: (If you are in the Multi room) Request the user to come to your room.
 5. `Add (Remove) as Friend`: Adds (Removes) the user at your friends list
-6. `Report User`: Report the user for misbehavior. Should never be used unless stated otherwise. You can report a user in-game for a number of things, but also on the web, like the forums.
+6. `Report User`: Report the user for misbehaviour. Should never be used unless stated otherwise. You can report a user in-game for a number of things, but also on the web, like the forums.
 7. `Ignore User`: Any chat entry by the user will not appear in your chat console.
 8. `Close`: Closes the panel.
 
@@ -92,7 +92,7 @@ Press the number or click the bar to activate:
 | `/reply` or `/r` | Reply to the last received private message. | `/r Do you know any good doctor?` | (At Amigo tab) \[Previous comments\] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? |
 | `/savelog` | Saves current chat tab to a text file. | `/savelog` | (A folder called "Chat" will be created at the osu! directory which will contain all the future chat tab saves) |
 | `/watch [user]` | Start spectating `[user]`. | `/watch Amigo` | * Started spectating Amigo. (When Amigo plays a beatmap that you have, you will spectate his play \[after some buffering\] with your name on the left of Amigo's screen) |
-| `/nopm` | Toggle to allow private messages either from everyone or friends only | `/nopm` | (A pop-up banner will appear at the center detailing you are allowing everyone/friends only for private messages) |
+| `/nopm` | Toggle to allow private messages either from everyone or friends only | `/nopm` | (A pop-up banner will appear at the centre detailing you are allowing everyone/friends only for private messages) |
 | `/invite [user]` | Invites `[user]` to the multiplayer room along with the link. | `/invite Nathanael` | * Nathanael has been invited to the game |
 
 ### /keys
