@@ -20,11 +20,11 @@ We're ushering in this fearsome trial with a brief clip showcasing the pieces up
     </video>
 </div>
 
-[**CLICK HERE to go straight to the Winter 2021 Fanart Contest voting page and vote today!**](https://osu.ppy.sh/community/contests/136)
+[**Click here to go straight to the Winter 2021 Fanart Contest voting page and vote today!**](https://osu.ppy.sh/community/contests/136)
 
 Make sure to get in early, since the voting will only be open for roughly **7 days** from the date of this post before we take everything down in preparation to put up the appropriate decorations.
 
-In this case, said decorations will be a choice selection of the top voted entries (could be anywhere from 15 to 20 depending on the voting), which will be chronicled forever more as our Winter 2021 Seasonal backgrounds and appear on the main menu in all of their glory. Plus, their artists will win a nice sum of osu! supporter to tide them over into the new year, and the top 3 finalists will also receive a profile badge of their own work, too.
+In this case, said decorations will be a choice selection of the top voted entries (could be anywhere from 15 to 20 depending on the voting), which will be chronicled forever more as our Winter 2021 Seasonal backgrounds and appear on the main menu in all of their glory. Plus, their artists will win a nice sum of osu!supporter to tide them over into the new year, and the top 3 finalists will also receive a profile badge of their own work, too.
 
 Best of luck to anyone participating, and especially those brave enough to submit their art in the first place!
 
