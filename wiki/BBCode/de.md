@@ -10,14 +10,14 @@ Wenn vor dem Drücken des Markup-Buttons kein Text markiert wurde, wird um den C
 
 Benutzer, die die Formatierung in einem einzigen Textabschnitt setzen möchten, können BBCode-Tags um die Sektion setzen. Allerdings muss die Reihenfolge und die Verschachtelung der Tags **beachtet werden**. Ansonsten wird der Text nicht formatiert.
 
-Beispiele für korrekte und inkorrekte Benutzungen von verschachtelten Tags ist unten näher beschrieben:
+Beispiele für die korrekte und inkorrekte Benutzung von verschachtelten Tags sind unten näher beschrieben:
 
 - `[centre][b]Text[/b][/centre]` ist korrekt
 - `[b][centre]Text[/b][/centre]` ist inkorrekt
 
 ## Tags
 
-BBCode, wie viele andere Markup-Sprachen, formatiert Text durch ein System von Tags, die durch ein Paar eckiger Klammern (`[]`) gekennzeichnet sind. Diese Tags sind aufgeteilt in "öffnende" und "schließende" Tags, die durch das Einfügen eines Schrägstrichs (`/`) unterscheidbar werden. D. h., dass schließende Tags einen Schrägstrich direkt nach der öffnenden Klammer haben, wohingegen öffnende Tags dies nacht haben.
+BBCode, wie viele andere Markup-Sprachen, formatiert Text durch ein System von Tags, die durch ein Paar eckiger Klammern (`[]`) gekennzeichnet sind. Diese Tags sind aufgeteilt in "öffnende" und "schließende" Tags, die durch das Einfügen eines Schrägstrichs (`/`) unterscheidbar werden. D. h., dass schließende Tags einen Schrägstrich direkt nach der öffnenden Klammer haben, wohingegen öffnende Tags dies nicht haben.
 
 Es ist auch wichtig zu wissen, dass öffnende Tags manchmal Gleichheitszeichen (`=`) enthalten, um URLs, Schriftgröße und andere derartige Elemente zu markieren.
 
@@ -97,7 +97,7 @@ Schaltfläche in der Symbolleiste: ![Optionen bei der Schriftgröße](img/font-s
 
 Das Tag `[spoiler]` wird benutzt, um sensitive Daten mit einem schwarzen Vordergrund zu verdecken. Diese Daten werden beim Markieren sichtbar. Wenn der Vordergrund mit dem Farb-Tag [`[color]`](#farbe) gestapelt wird, dann wird der schwarze Vordergrund davon nicht beeinflusst. Allerdings wird der Text unter dem schwarzen Vordergrund unabhängig von der Lesbarkeit gefärbt sein.
 
-Das Tag wird meistens benutzt, um kritische/sensitive Informationen über eine TV-Show, eines Films oder anderer Medien zu verstecken, damit Leute nicht gespoilert werden. Es wird manchmal auch verwendet, um einen komödiantischen Effekt oder eine Betonung zu erzeugen.
+Das Tag wird meistens benutzt, um kritische/sensitive Informationen über eine TV-Show, einen Film oder andere Medien zu verstecken, damit Leute nicht gespoilert werden. Es wird manchmal auch verwendet, um einen komödiantischen Effekt oder eine Betonung zu erzeugen.
 
 ### Box
 
@@ -113,7 +113,7 @@ Das Tag `[box]` wird verwendet, um Texte und Bilder in einem anklickbaren Hyperl
 
 Der benutzerdefinierte Hyperlink wird durch das Argument `NAME` bestimmt. Die Spezifizierung dieses Arguments wird eine Überschrift in der Box anhand des Arguments erstellen und wird die Größe der Box entsprechend anpassen. Wenn die Spezifizierung nicht erfolgt, dann wird das Tag `[box]` standardmäßig eine Box ohne Überschrift erstellen (auf die nicht geklickt werden kann). Das Argument benutzt keine Anführungszeichen (`"`) und stellt Leerzeichen dar.
 
-Das Tag wird meistens benutzt, um große Fluten an Texten und Bildern zu verstecken, die den Forum-Beitrag immens verlängern. Am meisten sichtbar in den FAQ oder in [Skin](/wiki/Skinning)-Veröffentlichungsbeiträgen.
+Das Tag wird meistens benutzt, um große Fluten an Text und Bildern zu verstecken, die den Forum-Beitrag immens verlängern. Am meisten sichtbar in den FAQ oder in [Skin](/wiki/Skinning)-Veröffentlichungsbeiträgen.
 
 *Tipp: die Schaltfläche der BBCode-Box in der Symbolleiste wird "spoiler box" genannt, aber erstellt keinen `[spoilerbox]` Tag.*
 
@@ -151,7 +151,7 @@ Text
 [/code]
 ```
 
-Das Tag `[code]` wird benutzt, um *vorformatierte Codeblöcke* (auch *vorformatierter Text*) zu erstellen. Auf der osu!-Webseite formatiert dieses Tag Text in der Schriftart Mono Space innerhalb einer halbtransparenten grauen Box. Die Formatierung von Text innerhalb eines Codeblocks behandelt der Editor als reinen Text, sodass dieser nicht als Quellcode oder ähnliches interpretiert wird.
+Das Tag `[code]` wird benutzt, um *vorformatierte Codeblöcke* (auch *vorformatierter Text*) zu erstellen. Auf der osu!-Webseite formatiert dieses Tag Text in einer Monospace-Schriftart innerhalb einer halbtransparenten grauen Box. Die Formatierung von Text innerhalb eines Codeblocks behandelt der Editor als reinen Text, sodass dieser nicht als Quellcode oder ähnliches interpretiert wird.
 
 In den osu!-Foren werden Codeblöcke meistens verwendet, um Quellcode für ein [Storyboard](/wiki/Storyboard) zu zeigen, oder in Tutorials, die die Syntax für Tags, Befehle oder Quellcode präsentieren.
 
@@ -161,7 +161,7 @@ In den osu!-Foren werden Codeblöcke meistens verwendet, um Quellcode für ein [
 [centre]Text[/centre]
 ```
 
-Das Tag `[centre]` wird benutzt, um Text mittig in einer Box zu platzieren. Das ist meistens für den stylistischen Effekt in Titeln, Überschriften oder Gedichten. Wenn Text innerhalb des Tags `[quote]` gesetzt wird, dann wird dieser innerhalb des Zitatblocks zentriert sein, aber die stylistischen Linien usw. werden es nicht.
+Das Tag `[centre]` wird benutzt, um Text mittig in einer Box zu platzieren. Es wird meistens für den stylistischen Effekt in Titeln, Überschriften oder Gedichten verwendet. Wenn Text innerhalb des Tags `[quote]` gesetzt wird, dann wird dieser innerhalb des Zitatblocks zentriert sein, aber die stylistischen Linien usw. werden es nicht.
 
 ### URL
 
@@ -187,7 +187,7 @@ Das Tag `[profile]` wird benutzt, um zu der osu!-Profilseite eines Benutzers mit
 
 *Tipp: Die Benutzer-ID ist eine Zeichenkette an Nummern, die direkt dem `/users/` in der URL einer osu!-Profilseite folgen.*
 
-Wenn die Benutzer-ID verwendet wird, dann wird der Text innerhalb des öffnenden sowie schließenden Tags nicht verarbeitet und stattdessen den aktuellen Namen des Benutzers anzeigen. Sofern der Benutzername spezifiziert wird und der besagte Benutzer ändert seinen Namen, dann wird der Link nicht mehr funktionieren.
+Wenn die Benutzer-ID verwendet wird, dann wird der Text innerhalb des öffnenden sowie schließenden Tags nicht verarbeitet und stattdessen den aktuellen Namen des Benutzers anzeigen. Sofern der Benutzername spezifiziert wird und der besagte Benutzer seinen Namen ändert, wird der Link nicht mehr funktionieren.
 
 ### Formatierte Listen
 
@@ -269,7 +269,7 @@ Das Tag `[notice]` wird benutzt, um Paragraphen in große, umrandete Boxen mit e
 
 ## Legacy
 
-Die folgenden BBCode-Tags, die früher an verschiedenen Orten innerhalb der osu!-Webseite benutzt wurden, jetzt aber nicht zur Verfügung stehen. Ihre Benutzung wird für historische Zwecke unten genauer erläutert.
+Die folgenden BBCode-Tags, die früher an verschiedenen Orten innerhalb der osu!-Webseite benutzt wurden, stehen jetzt nicht mehr zur Verfügung. Ihre Benutzung wird für historische Zwecke unten genauer erläutert.
 
 ### Google
 
@@ -301,4 +301,4 @@ Das Tag *Überschrift (v2)* ist ein nicht mehr aktuelles Tag, das früher in den
 
 - Dieser Wikiartikel wurde adaptiert aus dem Forum-Beitrag ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) von [Stefan](https://osu.ppy.sh/users/626907).
 - Es gab einen Bug, der Nutzer erlaubte, den Text transparent zu machen durch die Benutzung des [Farb-Tags](#farbe) und die Beschriftung "transparent" nach dem Gleichheitszeichen (`=`).
-  - Der Text wird heute zu der Standardfarbe (weiß) zurückegesetzt, sobald das passiert.
+  - Der Text wird heute zu der Standardfarbe (weiß) zurückgesetzt, sobald das passiert.
