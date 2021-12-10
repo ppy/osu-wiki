@@ -6,7 +6,7 @@
 
 *Ya, judul utasmu menjadi penentu bagi pengguna osu! yang akan "tertarik" atau "tidak tertarik" pada proyek beatmap-mu, bahkan sebelum mereka masuk pada utas tersebut!*
 
-`[Discography]`/`[Album]`/`[Collab]` harus menjadi prefiks pada judul utas. Utasmu dapat diabaikan atau dipindahkan ke [AW](/wiki/Abandoned_wasteland) jika utasmu tidak memiliki cukup informasi.
+`[Discography]`/`[Album]`/`[Collab]` harus menjadi prefiks pada judul utas. Utasmu dapat diabaikan atau dipindahkan ke [Abandoned Wasteland](/wiki/Abandoned_wasteland) jika utasmu tidak memiliki cukup informasi.
 
 Contoh yang baik:
 
@@ -19,22 +19,22 @@ Contoh yang buruk:
 
 ## Prefiks mana yang harus saya gunakan?
 
-**Discography:** Daftar album/lagu yang dirilis oleh penyanyi/grup band/komposer/lagu secara keseluruhan.
+**Discography:** Daftar album atau lagu yang dirilis oleh penyanyi, grup band, komposer, atau *soundtrack* permainan.
 
 Contoh:
 
-- [Duca](https://osu.ppy.sh/community/forums/topics/98205)
-- [Linkin Park](https://osu.ppy.sh/community/forums/topics/121592)
-- [Cytus](https://osu.ppy.sh/community/forums/topics/177446)
+- [\[Discog\] osu! needs more Duca!](https://osu.ppy.sh/community/forums/topics/98205)
+- [\[Discography\] Linkin Park](https://osu.ppy.sh/community/forums/topics/121592)
+- [\[Discography\] Cytus](https://osu.ppy.sh/community/forums/topics/177446)
 
 **Album:** Daftar lagu pada sebuah album.
 
 Contoh:
 
-- [Anamanaguchi - Scott Pilgrim vs The World (The Game)](https://osu.ppy.sh/community/forums/topics/37908)
-- [Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
+- [\[Album\] Anamanaguchi - Scott Pilgrim vs The World (the game)](https://osu.ppy.sh/community/forums/topics/37908)
+- [\[Album\] Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
 
-**Collab:** Membuat [proyek *group-mapping*](/wiki/Beatmap/Beatmap_collaborations) pada lagu tertentu. Dapat berkisar dari permintaan pembuatan [storyboard](/wiki/Storyboard) hingga pembagian mapping dari sebuah [map marathon](/wiki/Beatmap/Marathon). [Referensi](https://osu.ppy.sh/community/forums/topics/35841)
+**Collab:** Membuat [proyek *group-mapping*](/wiki/Beatmap/Beatmap_collaborations) pada lagu tertentu. Dapat berkisar dari permintaan pembuatan [storyboard](/wiki/Storyboard) hingga pembagian mapping dari sebuah [map marathon](/wiki/Beatmap/Marathon). Pastikan kamu telah membaca [panduan untuk collab](/wiki/Guides/Collab_Information) sebelum memulai proyek ini!
 
 Contoh:
 

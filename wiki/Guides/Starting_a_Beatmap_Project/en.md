@@ -4,37 +4,37 @@
 
 ## Making an informative thread title
 
-*Yes, your thread's title will determine if other osu! users will "yay" or "nay" your Beatmap Project, even before they click on it!*
+*Yes, your thread's title will determine if other osu! users will "yay" or "nay" your beatmap project, even before they click on it!*
 
-This should consist `[Discography]` / `[Album]` / `[Collab]` before the title. Chances are high that your project will be ignored or moved to [AW](/wiki/Abandoned_wasteland) if the thread's title lacks on informations.
+`[Discography]` / `[Album]` / `[Collab]` should be added before the title. Chances are high that your project will be ignored or moved to the [Abandoned Wasteland](/wiki/Abandoned_wasteland) if the thread's title isn't descriptive enough.
 
 Good examples:
 
 - `[Album] Pandora Voxx -complete-`
 - `[Discography] Deemo`
 
-Bad examples:
+Bad example:
 
 - `starting a new project, need your help with this album`
 
 ### Which one do I use?
 
-**Discography:** List of albums/songs released by the singer/group/composer/game overall.
+**Discography:** List of albums or songs released by the singer, group, or composer, or as the soundtrack for a game.
 
-Example:
+Examples:
 
-- [Duca](https://osu.ppy.sh/community/forums/topics/98205)
-- [Linkin Park](https://osu.ppy.sh/community/forums/topics/121592)
-- [Cytus](https://osu.ppy.sh/community/forums/topics/177446)
+- [\[Discog\] osu! needs more Duca!](https://osu.ppy.sh/community/forums/topics/98205)
+- [\[Discography\] Linkin Park](https://osu.ppy.sh/community/forums/topics/121592)
+- [\[Discography\] Cytus](https://osu.ppy.sh/community/forums/topics/177446)
 
 **Album:** List of songs in the album.
 
-Example:
+Examples:
 
-- [Anamanaguchi - Scott Pilgrim vs The World (The Game)](https://osu.ppy.sh/community/forums/topics/37908)
-- [Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
+- [\[Album\] Anamanaguchi - Scott Pilgrim vs The World (the game)](https://osu.ppy.sh/community/forums/topics/37908)
+- [\[Album\] Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
 
-**Collab:** Creating a [group-mapping project](/wiki/Beatmap/Beatmap_collaborations) for a certain song. May range from [storyboard](/wiki/Storyboard) request to mapping parts of a [marathon map](/wiki/Beatmap/Marathon). [Reference](https://osu.ppy.sh/community/forums/topics/35841)
+**Collab:** Creating a [group-mapping project](/wiki/Beatmap/Beatmap_collaborations) for a certain song. May range from [storyboard](/wiki/Storyboard) request to mapping parts of a [marathon map](/wiki/Beatmap/Marathon). These may range from [storyboard](/wiki/Storyboard) requests to mapping parts of a [marathon map](/wiki/Beatmap/Marathon). Be sure to read this [guide on collabs](/wiki/Guides/Collab_Information) before starting!
 
 Example:
 
