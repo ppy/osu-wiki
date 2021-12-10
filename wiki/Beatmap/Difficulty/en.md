@@ -13,7 +13,7 @@ tags:
 
 A beatmap's **difficulty** is a game level, which is stored as a text file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)). It consists of [hit objects](/wiki/Hit_object) of a certain [game mode](/wiki/Game_mode), which are set up accordingly to the [timing](/wiki/Beatmapping/Timing_section) tailored to a specific song. Difficulties have different aspects, which directly affect user experience. The difficulty name and [star rating](/wiki/Beatmapping/Star_rating) usually give enough information to tell how challenging it is.
 
-The hit objects of a difficulty compose [patterns](/wiki/Beatmap/Pattern), which also vary per game mode and set the tone for overall look and feel of how a difficulty should be played. The gameplay of beatmap difficutlies can also be altered by various [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) set by the beatmap's author or toggled by [game modifiers](/wiki/Game_modifier).
+The hit objects of a difficulty compose [patterns](/wiki/Beatmap/Pattern), which also vary per game mode and set the tone for overall look and feel of how a difficulty should be played. The gameplay of beatmap difficulties can also be altered by various [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) set by the beatmap's author or toggled by [game modifiers](/wiki/Game_modifier).
 
 From the auditory perspective, a difficulty can augment the song by providing one or multiple sets of audio samples, or [hitsounds](/wiki/Beatmapping/Hitsound), that serve as an additional layer of feedback.
 
@@ -70,7 +70,7 @@ These are the typical levels of difficulty that a beatmap can fall under. Specif
 
 As of 27 July 2021, the osu! website automatically assigns a beatmap's difficulty rating colour based on their star rating according to the following spectrum:
 
-![osu! difficulty rating colour spectrum](img/osu-difficulty-spectrum.png)
+![osu! difficulty rating colour spectrum](/wiki/shared/star-rating/spectrum.png)
 
 In some instances, such as [AIMod](/wiki/Beatmap_Editor/AiMod), difficulty is classified into six level ranges based on star rating as follows:
 

@@ -32,7 +32,7 @@ The Beginners Global Taiko Showdown 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) |
+| Organizer | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) |
 | Player moderation | ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [kuudere-desu](https://osu.ppy.sh/users/10694200), ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_KR] [oL0](https://osu.ppy.sh/users/1134683), ![][flag_ID] [Reed\_405](https://osu.ppy.sh/users/9965069), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Mappool selector | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | All Stars mappool selector | ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
@@ -746,7 +746,7 @@ Sunday, 13 December 2020:
 2. The teams will first go through a **Qualifiers**. Then they will play in a **Group Stage** and finally play in a **double-elimination bracket**.
 3. The scoring system that will be used is **ScoreV2**.
 4. Any player who meets the requirements stated in the [rank restrictions](#rank-restrictions) section is allowed to sign up. Since BGTS will aim to get badged, some players might be declined by the osu! staff (via screening).
-5. Any members of staff apart from **organisers, map selectors (both general and All Stars), and referees** are allowed to play.
+5. Any members of staff apart from **organizers, map selectors (both general and All Stars), and referees** are allowed to play.
 6. Players and staff members must have read this ruleset entirely (and we will assume you did so throughout the tournament).
 7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
 8. Any rule changes or unexpected occurences will be announced in the AGTS Discord server.
@@ -846,7 +846,7 @@ Sunday, 13 December 2020:
 
 1. Every stage is held **during the weekend**. (It is however allowed to schedule on another day if no agreement is found on a time during the weekend)
 2. Matches are allowed to overlap if referees are available.
-3. The organiser will try to schedule as best as possible so it fits with the timezones. The schedule will be released the previous weekend of each stage.
+3. The organizer will try to schedule as best as possible so it fits with the timezones. The schedule will be released the previous weekend of each stage.
 4. Reschedules will only be considered if both teams agree on a time. Proof of that needs to be sent to the tournament staff before **Thursday at 23:59 UTC+0** in that particular week when their match takes place.
 5. Reschedules may only be requested by **a team captain**.
 

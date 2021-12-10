@@ -38,7 +38,7 @@ The Coffee Hispanic Showdown was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Organizer | ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Mappool selector | ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_PT] [MakiDonalds](https://osu.ppy.sh/users/11610772), ![][flag_BR] [niii_san](https://osu.ppy.sh/users/5403374) |
 | Referee | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_US] [bmax](https://osu.ppy.sh/users/6672998), ![][flag_ES] [Bubblegum45](https://osu.ppy.sh/users/10559526), ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_AR] [Emiru Ikuno 9](https://osu.ppy.sh/users/7102463), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_RU] [Kolibri](https://osu.ppy.sh/users/8715808), ![][flag_DE] [LwL](https://osu.ppy.sh/users/3556856), ![][flag_PT] [MakiDonalds](https://osu.ppy.sh/users/11610772), ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_PL] [P a t r i c k](https://osu.ppy.sh/users/6814521), ![][flag_CA] [Rijrya](https://osu.ppy.sh/users/11186709), ![][flag_US] [ruyunata](https://osu.ppy.sh/users/8880920), ![][flag_ES] [SansREPZ](https://osu.ppy.sh/users/8865297), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_CO] [TheAleboy](https://osu.ppy.sh/users/8921554), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CO] [Vanilla Aiz](https://osu.ppy.sh/users/12261024), ![][flag_AR] [Yorumi-](https://osu.ppy.sh/users/7755726) |
 | Team picker | ![][flag_BR] [Akane Hime](https://osu.ppy.sh/users/6772887), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_BR] [despairy](https://osu.ppy.sh/users/7339984), ![][flag_CO] [ElMick33](https://osu.ppy.sh/users/5458323), ![][flag_BR] [niii\_san](https://osu.ppy.sh/users/5403374) |
@@ -470,7 +470,7 @@ Monday, 17 August 2020:
 
 1. Coffee Hispanic Showdown is a **2v2 osu! tournament** and will use **Score V2** as the scoring system.
 2. The tournament will use **double-elimination** bracket system, meanings you have 2 chance of losing before getting eliminated from the tournament.
-3. This is a tournament where only players from [Hispanic countries](https://en.wikipedia.org/wiki/Hispanic#Spanish-speaking_countries_and_regions) can enter. In case of having a non-hispanic flag but being Hispanic, players should justify with the organiser regarding their nationality.
+3. This is a tournament where only players from [Hispanic countries](https://en.wikipedia.org/wiki/Hispanic#Spanish-speaking_countries_and_regions) can enter. In case of having a non-hispanic flag but being Hispanic, players should justify with the organizer regarding their nationality.
 4. There are 2 tiers splitted by osu! ranks, more details below:
    - Tier 1: BWS Rank #1 - #2,500
    - Tier 2: BWS Rank #2,501 - #15,000
@@ -490,7 +490,7 @@ Monday, 17 August 2020:
     - There will be 3 tiebreaker maps available; and each team will have to PM the dutying referee to chose their tiebreaker ban, the remaining tiebreaker left will be the one that gets played.
 12. Once they get into the Discord server, they need to change their Discord nickname to their osu! username.
 13. All members within the organisation couldn't participate in the tournament, with the exceptions of mappool selector, designer, and commentator.
-14. In case of any suspicious registrations, organiser has all the rights to reject the application.
+14. In case of any suspicious registrations, organizer has all the rights to reject the application.
 15. Any excessive toxic behaviour in the match/discord may proceed to a disqualification from the tournament.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"

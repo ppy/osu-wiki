@@ -21,7 +21,7 @@ Voici la liste des joueurs reconnus comme ayant atteint le rang 1 dans le [class
 
 Au fil des ans, trois systèmes différents ont été utilisés pour classer les joueurs :
 
-- [Ranked Score](/wiki/Score#ranked-score) (6 octobre 2007 - 24 juillet 2012)
+- [Ranked Score](/wiki/Score/Ranked_score) (6 octobre 2007 - 24 juillet 2012)
 - [ppv1](/wiki/Performance_points/ppv1) (24 juillet 2012 - 27 janvier 2014)
 - [ppv2](/wiki/Performance_points) (27 janvier 2014 - présent)
 
@@ -31,7 +31,7 @@ Alors que ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) était supposé être
 
 ## 2007
 
-*Note : Pendant la période où le [Ranked Score](/wiki/Score#ranked-score) était utilisé, le détenteur du rang 1 changeait fréquemment, donc les listes précédentes peuvent avoir une précision réduite. Des informations détaillées peuvent être trouvées sur la reconstruction estimée du classement mondial en Ranked Score, qui est disponible [ici](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
+*Note : Pendant la période où le [Ranked Score](/wiki/Score/Ranked_score) était utilisé, le détenteur du rang 1 changeait fréquemment, donc les listes précédentes peuvent avoir une précision réduite. Des informations détaillées peuvent être trouvées sur la reconstruction estimée du classement mondial en Ranked Score, qui est disponible [ici](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
 
 | Joueur | Du | Jusqu'au | Sources |
 | --: | :-- | :-- | :-- |
@@ -391,6 +391,6 @@ Voici la liste des plus longs jours consécutifs pendant lesquels un joueur a oc
 [flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
 [flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"

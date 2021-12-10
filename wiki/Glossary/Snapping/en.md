@@ -1,6 +1,6 @@
 # Snapping
 
-In [osu!catch](/wiki/Game_mode/osu!catch) every [dash](/wiki/Glossary/Dash) and [hyperdash](/wiki/Glossary/Hyperdash) can be clasified into two different snappings, basic-snapped or higher-snapped.
+In [osu!catch](/wiki/Game_mode/osu!catch) every [dash](/wiki/Glossary/Dash) and [hyperdash](/wiki/Glossary/Hyperdash) can be classified into two different snappings, basic-snapped or higher-snapped.
 
 ## Basic-snapped
 

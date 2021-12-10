@@ -17,7 +17,7 @@ tags:
 
 ## osu!
 
-In [osu!](/wiki/Game_mode/osu!), each hit object in a combo has its own combo number, in addition to a combo colour. New combos start at 1 and count up, and spinners also force the next object to start a new combo. More health is recovered with [Geki and Katu](/wiki/Score#osu!) hit scores, which can be given from the last hit object in a combo.
+In [osu!](/wiki/Game_mode/osu!), each hit object in a combo has its own combo number, in addition to a combo colour. New combos start at 1 and count up, and spinners also force the next object to start a new combo. More health is recovered with [Geki](/wiki/Geki) and [Katu](/wiki/Katu) hit scores, which can be given from the last hit object in a combo.
 
 ## osu!catch
 

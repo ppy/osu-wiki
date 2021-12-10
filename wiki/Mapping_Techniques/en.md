@@ -50,7 +50,7 @@ If you want to know how to make good sliders, see [Making Good Sliders](Making_G
 
 - [Anti-Jumps](Jumps#anti-jumps)
 - [Anti-SeibeiStyle-Jumps](Jumps#anti-seibeistyle-jumps)
-- [Center Anti-Jumps](Jumps#center-anti-jumps)
+- [Centre Anti-Jumps](Jumps#centre-anti-jumps)
 - [Large Jumps](Jumps#large-jumps)
 - [Oibon Jumps](Jumps#oibon-jumps)
 

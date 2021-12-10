@@ -84,7 +84,7 @@ Esta es la interfaz del estilo de juego osu! Standard.
 
 - La barra superior izquierda muestra tu "salud".
   - Esta disminuirá a un ritmo constante \[dependiendo de la dificultad del beatmap establecida por el(los) [mapper(s)](/wiki/Beatmapping), pero puedes reponerlo presionando las notas en el momento correcto.
-  - Un "hit" (golpe) perfecto ([300](/wiki/Score#osu!) o Geki Beat) incrementará tu salud más que un hit mal hecho([50](/wiki/Score#osu!)).
+  - Un "hit" (golpe) perfecto ([300](/wiki/Score/osu!) o Geki Beat) incrementará tu salud más que un hit mal hecho([50](/wiki/Score/osu!)).
   - Muchos errores quitarán una buena parte de tu salud.
 - Al lado de la barra de salud (a la derecha) se muestra tu puntaje.
 - Debajo del puntaje está tu precisión.

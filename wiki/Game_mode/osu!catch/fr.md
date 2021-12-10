@@ -76,7 +76,7 @@ Le placement du curseur en jeu n’a pas d’importance quand vous jouez normale
 
 ## Calcul du score
 
-*[Les valeurs de base peuvent être trouvées dans la section score d’osu!catch](/wiki/Score#osu!catch).*
+*Les valeurs des scores peuvent être trouvées dans l'article [système de notation d'osu!catch](/wiki/Score/osu!catch).*
 
 La section calcul du score détaille toutes les subtilités du score, y compris la formule mathématique.
 
