@@ -7,7 +7,7 @@ tags:
 
 # Performance Points Committee
 
-**Performance Points Committee** (atau *Komite Performance Points*) merupakan sebuah panel beranggotakan para pemain yang berpengalaman dan pengembang yang memfasilitasi dan menyetujui perubahan pada algoritma [performance points](/wiki/Performance_points) dan [star rating](/wiki/Beatmapping/Star_rating). Tujuan dari komite ini adalah untuk membantu para [pengembang osu!](/wiki/People/The_Team/Developers) dalam merumuskan algoritma perhitungan [performance point](/wiki/Performance_points) dan [star rating](/wiki/Beatmapping/Star_rating) yang akurat dengan mempertimbangkan berbagai masukan dari komunitas.
+**Performance Points Committee** (atau *Komite Performance Points*) merupakan sebuah panel beranggotakan para pemain yang berpengalaman dan pengembang yang memfasilitasi dan menyetujui perubahan pada algoritma [performance points](/wiki/Performance_points) dan [star rating](/wiki/Beatmapping/Star_rating). Tujuan dari komite tersebut adalah membantu [pengembang osu!](/wiki/People/The_Team/Developers) dalam percepatan penyelesaian perubahan tersebut dengan mempertimbangkan berbagai masukan dari komunitas.
 
 Panel ini pertama kali diperkenalkan kepada publik melalui [artikel berita *Performance Points & Star Rating Updates* pada bulan November 2021](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) sebagai bentuk tanggapan dari hasil [survei komunitas](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey) yang diselenggarakan beberapa bulan sebelumnya.
 
