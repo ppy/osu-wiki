@@ -6,9 +6,9 @@
 
 *En effet, le titre de votre fil de discussion déterminera si les autres utilisateurs d'osu! vont dire "oui" ou "non" à votre beatmap project, avant même de cliquer dessus !*
 
-Le titre doit être composé de `[Discography]` / `[Album]` / `[Collab]`. Il y a de fortes chances que votre projet soit ignoré ou déplacé vers [AW](/wiki/Abandoned_wasteland) si le titre du fil de discussion manque d'informations.
+`[Discography]` / `[Album]` / `[Collab]` doit être ajouté avant le titre. Il y a de fortes chances que votre projet soit ignoré ou déplacé vers [Abandoned Wasteland](/wiki/Abandoned_wasteland) si le titre du fil de discussion n'est pas assez descriptif.
 
-Un bon exemples :
+De bons exemples :
 
 - `[Album] Pandora Voxx -complete-`
 - `[Discography] Deemo`
@@ -19,7 +19,7 @@ Mauvais exemple :
 
 ### Lequel dois-je utiliser ?
 
-**Discography :** Liste des albums/chansons sortis par le chanteur/groupe/compositeur/jeu.
+**Discography :** Liste des albums ou des chansons publiés par le chanteur, le groupe ou le compositeur, ou comme bande sonore d'un jeu.
 
 Exemples :
 
@@ -34,7 +34,7 @@ Exemples :
 - [\[Album\] Anamanaguchi - Scott Pilgrim vs The World (the game)](https://osu.ppy.sh/community/forums/topics/37908)
 - [\[Album\] Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
 
-**Collab :** Créer un [projet de mapping de groupe](/wiki/Beatmap/Beatmap_collaborations) pour une certaine musique. Cela peut aller de la demande de [storyboarding](/wiki/Storyboard) au mapping de certaines parties d'un [marathon](/wiki/Beatmap/Marathon). [Référence](https://osu.ppy.sh/community/forums/topics/35841)
+**Collab :** Création d'un [projet collaboration](/wiki/Beatmap/Beatmap_collaborations) pour une chanson donnée. Cela peut aller d'une demande de [storyboard](/wiki/Storyboard), de mapping de parties d'un [marathon](/wiki/Beatmap/Marathon). Cela peut aller d'une demande de [storyboard](/wiki/Storyboard) au mapping de certaines parties d'une [beatmap marathon](/wiki/Beatmap/Marathon). N'oubliez pas de lire ce [guide sur les collaborations](/wiki/Guides/Collab_Information) avant de commencer !
 
 Exemple :
 
