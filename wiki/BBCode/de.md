@@ -57,8 +57,6 @@ Das Tag `[u]` wird benutzt, um mit Hilfe einer horizontalen Linie Text hervorzuh
 [strike]Text[/strike]
 ```
 
-*Tipp: "strikethrough" ist auch bekannt als "strike".*
-
 Das Tag `[strike]` wird benutzt, um die Entfernung eines zuvor enthaltenen Text zu markieren. Die Kennzeichung erfolgt durch eine horizontale Linie, die den Text durchstreicht.
 
 Schaltfläche in der Symbolleiste: ![Button zum Durchstreichen](img/strike.png "Durchstreichen")
@@ -78,12 +76,12 @@ Das zuvor genannte Argument darf keine Anführungszeichen (`"`) enthalten und ha
 ### Schriftgröße
 
 ```
-[size=NUMBER]Text[/size]
+[size=NUMMER]Text[/size]
 ```
 
 Das Tag `[size]` wird benutzt, um Text durch verschiedene Schriftgrößen zu gestalten. Momentan werden vier Größen von der osu!-Webseite unterstützt: 50, 85, 100, und 150. Die Größen werden intern als "winzig", "klein", "normal" und "groß" entsprechend bezeichnet.
 
-Das Argument `NUMBER` akzeptiert keine Anführungszeichen und nimmt nur eine der vier unterstützten Größen an. Wenn eine Nummer eingeben wird, die nicht einer der vier unterstützten entspricht, dann wird die Textgröße auf den Standardwert zurückgesetzt.
+Das Argument `NUMMER` akzeptiert keine Anführungszeichen und nimmt nur eine der vier unterstützten Größen an. Wenn eine Nummer eingeben wird, die nicht einer der vier unterstützten entspricht, dann wird die Textgröße auf den Standardwert zurückgesetzt.
 
 Schaltfläche in der Symbolleiste: ![Optionen bei der Schriftgröße](img/font-size-DE.png "Schriftgröße")
 
@@ -210,10 +208,10 @@ Schaltfläche in der Symbolleiste: ![Button für Listen](img/list.png "Liste") !
 ### Bilder
 
 ```
-[img]ADDRESS[/img]
+[img]ADRESSE[/img]
 ```
 
-Das Tag `[img]` wird benutzt, um Bilder aus dem Internet in osu!-Forum-Beiträgen einzubinden. Für die Benutzung des Tags müssen Nutzer den direkten Bildlink von einer Webseite einbinden (repräsentiert durch das Argument `ADDRESS`). Lokale Dateipfade (z. B. `C:\Users\Name\Pictures\image.jpg`) **werden nicht funktionieren**.
+Das Tag `[img]` wird benutzt, um Bilder aus dem Internet in osu!-Forum-Beiträgen einzubinden. Für die Benutzung des Tags müssen Nutzer den direkten Bildlink von einer Webseite einbinden (repräsentiert durch das Argument `ADRESSE`). Lokale Dateipfade (z. B. `C:\Users\Name\Pictures\image.jpg`) **werden nicht funktionieren**.
 
 *Hinweis: Die URL einer Webseite ist **nicht** dasselbe wie eine Bildadresse.*
 
