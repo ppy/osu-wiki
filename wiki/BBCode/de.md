@@ -83,7 +83,7 @@ Das zuvor genannte Argument darf keine Anführungszeichen (`"`) enthalten und ha
 
 Das Tag `[size]` wird benutzt, um Text durch verschiedene Schriftgrößen zu gestalten. Momentan werden vier Größen von der osu!-Webseite unterstützt: 50, 85, 100, und 150. Die Größen werden intern als "winzig", "klein", "normal" und "groß" entsprechend bezeichnet.
 
-Das Argument `NUMBER` akzeptiert keine Anführungszeichen und nimmt nur eine der vier unterstützten Größen an. Wenn eine Nummer eingeben wird, die nicht eine der vier unterstützten entspricht, dann wird die Textgröße auf den Standardwert zurückgesetzt.
+Das Argument `NUMBER` akzeptiert keine Anführungszeichen und nimmt nur eine der vier unterstützten Größen an. Wenn eine Nummer eingeben wird, die nicht einer der vier unterstützten entspricht, dann wird die Textgröße auf den Standardwert zurückgesetzt.
 
 Schaltfläche in der Symbolleiste: ![Optionen bei der Schriftgröße](img/font-size-DE.png "Schriftgröße")
 
