@@ -1,25 +1,21 @@
----
-no_native_review: true
----
-
 # Project Loved
 
 Le **Project Loved** est la plateforme de vote qui promeut les beatmaps dans la catégorie [loved](/wiki/Beatmap/Category#loved). Il est géré principalement par la [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team).
 
 ## Déplacer une beatmap vers Loved
 
-Les beatmaps sont déplacés vers loved par un processus de nomination et de vote.
+Les beatmaps sont déplacés vers la catégorie loved par un processus de nomination et de vote.
 
 Les membres de l'équipe du Project Loved appelés **capitaines** nomment régulièrement des beatmaps pour un mode de jeu spécifique. Ces ensembles proviennent presque toujours de propositions de la communauté d'osu!.
 
-Pour soumettre un beatmap pour loved, veuillez visiter la [page d'envoi d'une beatmap](https://loved.sh/submit) du site web du Project Loved et remplir le formulaire. Une fois le formulaire envoyé, vous pourrez voir votre proposition dans la liste de son mode de jeu respectif avec les autres. Vous trouverez ci-dessous les listes où ces propositions peuvent être consultées :
+Pour soumettre un beatmap pour la catégorie loved, veuillez visiter la [page de soumission d'une beatmap](https://loved.sh/submit) du site web du Project Loved et remplir le formulaire. Une fois le formulaire envoyé, vous pourrez voir votre proposition dans la liste de son mode de jeu respectif avec les autres. Vous trouverez ci-dessous les listes où ces propositions peuvent être consultées :
 
 - [Proposition pour le mode osu!](https://loved.sh/submissions/osu)
 - [Proposition pour le mode osu!taiko](https://loved.sh/submissions/taiko)
 - [Proposition pour le mode osu!catch](https://loved.sh/submissions/fruits)
 - [Proposition pour le mode osu!mania](https://loved.sh/submissions/mania)
 
-Les mapsets nominés sont ensuite publiés sur le forum [Project Loved](https://osu.ppy.sh/community/forums/120), où les membres de la communauté peuvent voter s'ils souhaitent que le mapset soit loved ou non. Les maps qui atteignent un certain pourcentage de votes positifs à la fin du scrutin sont transférées dans la catégorie "Loved".
+Les beatmaps nominés sont ensuite publiés sur le forum [Project Loved](https://osu.ppy.sh/community/forums/120), où les membres de la communauté peuvent voter s'ils souhaitent que la beatmap soit "loved" ou non. Les beatmaps qui atteignent un certain pourcentage de votes positifs à la fin du scrutin sont transférées dans la catégorie Loved.
 
 ### Éligibilité
 
@@ -29,10 +25,10 @@ Certains critères très minimes doivent être respectés pour que les beatmaps 
 - Son créateur ne désapprouve pas le fait qu'elle soit prêté.
 - Son créateur n'est ni banni ni restreint
 - Au moins une difficulté peut être jouable
-- Elle a au moins 30 favoris (s'applique uniquement aux maps osu!)
+- Elle a au moins 30 favoris (s'applique uniquement aux beatmaps du mode osu!)
 - Toutes les difficultés nominées ont au moins 30 secondes de [drain time](/wiki/Gameplay/Drain_time).
 
-Bien que de nombreuses maps [en attente et work in progress](/wiki/Beatmap/Category#work-in-progress-et-en-attente) répondent à ces critères, peu d'entre elles sont votées dans la catégorie Loved en raison des conditions de nomination et de vote plus sélectives.
+Bien que de nombreuses beatmaps [en attente et work in progress](/wiki/Beatmap/Category#work-in-progress-et-en-attente) répondent à ces critères, peu d'entre elles sont votées dans la catégorie loved en raison des conditions de nomination et de vote plus sélectives.
 
 Les beatmaps entrant dans la catégorie loved doivent respecter des règles supplémentaires :
 
@@ -46,7 +42,7 @@ Tout problème lié à ces règles est généralement résolu pendant que la map
 
 ### Priorité des nominations
 
-Il n'existe pas de règles strictes régissant les maps qu'un capitaine doit proposer pour loved, mais en général, les maps proposées sont très connues et appréciées par la communauté (comme l'indique le titre "loved"). Parfois, une beatmap sera également préféré s'il est nettement plus ancien que les autres ou si elle contiennent des beatmaps avec des styles de mapping uniques et de grande qualité.
+Il n'existe pas de règles strictes régissant les beatmaps qu'un capitaine doit proposer pour la catégorie loved, mais en général, les beatmaps proposées sont très connues et appréciées par la communauté (comme l'indique le titre "loved"). Parfois, une beatmap sera également préféré s'il est nettement plus ancien que les autres ou si elle contiennent des beatmaps avec des styles de mapping uniques et de grande qualité.
 
 ## Plus d'informations
 
