@@ -17,7 +17,7 @@ As of 27 July 2021, the osu! website automatically assigns a beatmap's difficult
 
 ![osu! difficulty rating colour spectrum](/wiki/shared/star-rating/spectrum.png)
 
-In some instances, such as [AIMod](/wiki/Beatmap_Editor/AiMod), difficulty is classified into six level ranges based on star rating as follows:
+In some instances, such as [AiMod](/wiki/Beatmap_Editor/AiMod), difficulty is classified into six level ranges based on star rating as follows:
 
 - ![](/wiki/shared/diff/easy-o.png) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-o.png) Normal: 2.0★–2.69★
