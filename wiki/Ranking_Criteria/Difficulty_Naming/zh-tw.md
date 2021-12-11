@@ -1,7 +1,7 @@
 ---
 no_native_review: true
 outdated: true
-outdated_since: 460d8a7a68bd338ad0184df32162877166038f1d
+outdated_since: c7f544369a2aada51f6d62a7725382afb03a6373
 ---
 
 # 難度命名
