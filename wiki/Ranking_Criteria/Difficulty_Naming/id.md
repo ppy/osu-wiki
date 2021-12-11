@@ -1,6 +1,6 @@
 # Penamaan tingkat kesulitan
 
-Tujuan dari penamaan tingkat kesulitan adalah untuk memberi tahu pemain seberapa sulit map itu. Artikel ini mencantumkan konvensi umum serta alternatif lain yang telah dikumpulkan selama bertahun-tahun. Namun, selama kumpulan dari nama tingkat kesulitan itu bersifat deskriptif dan dengan jelas menunjukkan perkembangan kesulitan, Anda dapat menggunakan jenis skema apapun.
+Tujuan dari penamaan tingkat kesulitan adalah untuk memberi tahu pemain seberapa sulit map itu. Artikel ini mencantumkan konvensi umum serta alternatif lain yang telah dikumpulkan selama bertahun-tahun. Namun, selama kumpulan dari nama tingkat kesulitan itu bersifat deskriptif dan menunjukkan eskalasi kesulitan secara jelas, kamu dapat menggunakan jenis skema apapun.
 
 ## Bawaan
 
@@ -23,7 +23,6 @@ Nama-nama tingkat kesulitan ini paling umum digunakan untuk setiap mode permaina
 - ![](/wiki/shared/diff/hard-t.png) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png) Oni
 - ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni
 
 ### osu!catch
 
@@ -186,7 +185,9 @@ Mapset yang memiliki lagu yang berasal dari game ritme lain sering kali mengguna
 Nama tingkat kesulitan berikut adalah alternatif umum dan tambahan untuk nama tingkat kesulitan bawaan:
 
 - ![](/wiki/shared/diff/easy-o.png) Beginner: dalam spread Easy-Normal-Hard-Insane-Expert, ini mengacu pada tingkat kesulitan terendah, bahkan di bawah Easy.
+- ![](/wiki/shared/diff/easy-t.png) Shokyuu: dalam spread Kantan-Futsuu-Muzukashii-Oni-Inner Oni, ini mengacu pada tingkat kesulitan terendah, bahkan di bawah Kantan.
 - ![](/wiki/shared/diff/normal-o.png) Advanced: dalam spread Easy-Normal-Hard-Insane-Expert, ini adalah tingkat kesulitan antara Normal dan Hard.
 - ![](/wiki/shared/diff/hard-o.png) Hyper: dalam spread Easy-Normal-Hard-Insane-Expert, yaitu tingkat kesulitan antara Hard dan Insane.
 - ![](/wiki/shared/diff/expert-o.png) Extra: dapat digunakan sebagai pengganti Expert.
 - ![](/wiki/shared/diff/expertplus-o.png) Extreme: dapat digunakan sebagai Expert yang lebih sulit.
+- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni: dapat digunakan sebagai Inner Oni yang lebih sulit.

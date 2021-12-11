@@ -11,7 +11,7 @@ tags:
 
 ## History
 
-[Ivalset](https://osu.ppy.sh/users/827) was promoted as the first BATm in early 2009. Later that same year he was replaced by [Pasonia](https://osu.ppy.sh/users/43345). Their initial roles were to organize and execute BAT promotion.
+[Ivalset](https://osu.ppy.sh/users/827) was promoted as the first BATm in early 2009. Later that same year he was replaced by [Pasonia](https://osu.ppy.sh/users/43345). Their initial roles were to organise and execute BAT promotion.
 
 ### Triumvir Conglomerate
 

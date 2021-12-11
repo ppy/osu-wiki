@@ -36,7 +36,7 @@ To be more specific, the Sudden Death mod will only fail the beatmap if any of t
 
 The Sudden Death mod **will not** fail the beatmap if any of the following happen:
 
-- Missing a [sliderend](/wiki/Hit_object/Slidertail) (i.e. a sliderbreak)
+- Missing a [slidertail](/wiki/Hit_object/Slidertail) (i.e. a sliderbreak)
 - Not holding/collecting on the empty slider path
 
 Unlike the Sudden Death mod's variant [Perfect](/wiki/Game_modifier/Perfect), the beatmap will not automatically retry the map. Instead, the player will be left with a normal failure screen upon missing.

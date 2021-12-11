@@ -94,7 +94,7 @@ The default controls for osu! are:
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
 
-If [Relax](/wiki/Game_modifier/Relax) game modifer was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
+If [Relax](/wiki/Game_modifier/Relax) game modifier was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
 
 If [Auto Pilot](/wiki/Game_modifier/Autopilot) game modifier was used, only the input from the input device will work. Time the tap on the hit objects with automated cursor movement. Spinners will follow the [Spun Out](/wiki/Game_modifier/Spun_Out) mod speed.
 
@@ -285,4 +285,4 @@ The system used to calculate health drain and health gain is complicated so it w
   - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 ) , or `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16), or `Brandy - Love Fighter`.
 - Notably, the older folders have their own naming convention (the folder names can only be found in *ancient* beatmap packs) and does not strictly follow the current enforced `{BeatmapSetID} {ArtistName} - {BeatmapName}` format.
-  - Downloading directly from the osu!website beatmaplist does follow the current enforced naming format regardless.
+  - Downloading directly from the osu!website beatmap list does follow the current enforced naming format regardless.

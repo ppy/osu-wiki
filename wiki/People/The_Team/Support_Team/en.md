@@ -9,7 +9,7 @@ The **Support Team**, also known as **Support Team Redux**, are members of the o
 The Support Team is responsible for:
 
 1. Testing and/or confirming bug reports to let the developers know and for them to resolve.
-2. Organizing threads at [Feature Requests](https://osu.ppy.sh/community/forums/4) and [Help](https://osu.ppy.sh/community/forums/5), marking them as *Resolved*, *Confirmed*, *Invalid*, *Duplicate* and/or *Added*.
+2. Organising threads at [Feature Requests](https://osu.ppy.sh/community/forums/4) and [Help](https://osu.ppy.sh/community/forums/5), marking them as *Resolved*, *Confirmed*, *Invalid*, *Duplicate* and/or *Added*.
 
 If someone needs any assistance on the said subforums, members of this team are available to help.
 
