@@ -89,7 +89,7 @@ Hype train melacak berapa banyak [hype](/wiki/Beatmap/Hype) mapset yang telah di
 
 ### Status nominasi
 
-Status bar nominasi akan melacak nominasi dari sebuah beatmap. Setelah beatmap tersebut menerima dua nominasi, maka beatmap tersebut akan [dikualifikasikan](/wiki/Beatmap/Category#qualified).
+Status bar nominasi akan melacak nominasi dari sebuah beatmap. Setelah beatmap tersebut menerima dua nominasi, maka beatmap tersebut akan [di-qualified](/wiki/Beatmap/Category#qualified).
 
 ### Informasi umum
 
