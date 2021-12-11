@@ -2,16 +2,14 @@
 tags:
   - combo flame
   - api kombo
-outdated: true
-outdated_since: 2eff49dbef81f27ad535446edb303eec56a59f69
 ---
 
 # Combo fire
 
-![Tangkapan layar kuno dari combo fire](img/combo-fire.jpg "Selamat tinggal combo fire")
+![](img/combo-fire.jpg "Combo fire yang berwarna kuning, oranye, dan merah (muncul saat pemain masih di bawah 500 combo")
 
-**Combo fire** atau *api kombo* adalah sebuah elemen alur permainan latar belakang yang berasal dari DS Game [osu! Tatakae! Ouendan!](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) yang akhirnya diintegrasikan ke dalam osu!. Ini akan menampilkan nyala api kuning yang menyala setelah mendapatkan sebuah [combo milestone](/wiki/Glossary/Combo_milestone). Jika pemain memperoleh 500x [kombo](/wiki/Glossary/Combo_(score_multiplier)), combo fire akan berubah warna dari kuning menjadi biru. Api akan padam jika kombo rusak, tetapi akan dapat diperoleh kembali jika kombo diperoleh kembali.
+![](img/blue-combo-fire.jpg "Combo fire yang berwarna biru (muncul saat pemain mencapai di atas 500 combo)")
 
-Combo fire dinonaktifkan pada 5 Maret 2013 karena masalah kinerja.
+**Combo fire** atau *api kombo* adalah sebuah elemen alur permainan latar belakang yang berasal dari permainan DS [Osu! Tatakae! Ouendan!](/wiki/iNiS_games) yang akhirnya diintegrasikan ke dalam osu!. Ini akan menampilkan nyala api kuning yang menyala setelah mendapatkan sebuah [combo milestone](/wiki/Glossary/Combo_milestone). Jika pemain memperoleh 500 [combo](/wiki/Glossary/Combo_(score_multiplier)), combo fire akan berubah warna dari kuning menjadi biru. Api akan padam jika kombo rusak, tetapi akan dapat diperoleh kembali jika kombo diperoleh kembali.
 
-<!--TODO: Add images and links-->
+Combo fire dinonaktifkan pada 5 Maret 2013 disebabkan oleh masalah kinerja.
