@@ -4,7 +4,7 @@
 
 **Note:** An active supporter tag is currently required to use the osu!tourney client.
 
-It is recommended that a **fresh osu! installation** is used. This is because the Songs database may become corrupted. You can have multiple osu! installations, just keep them in separated folders.  
+It is recommended that a **fresh osu! installation** is used. This is because the Songs database may become corrupted. You can have multiple osu! installations, just keep them in separated folders.
 To do this, copy `osu!.exe` into an empty folder and run it. A fresh osu! installation will be created. This is the only installation that needs to be modified from here.
 
 Open osu! and sign in, checking the `Remember Username` and `Remember Password` checkboxes.
