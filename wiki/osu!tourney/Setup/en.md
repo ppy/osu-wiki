@@ -1,8 +1,7 @@
 # osu!tourney setup
 
-*See also: [osu!lazer tournament client](/wiki/osu!tourney/osu!lazer_tournament_client)*
-
-**Note:** An active supporter tag is currently required to use the osu!tourney client.
+*See also: [osu!lazer tournament client](/wiki/osu!tourney/osu!lazer_tournament_client)*\
+*Note: An active [supporter tag](/wiki/osu!supporter) is currently required to use the osu!tourney client.*
 
 It is recommended that a **fresh osu! installation** is used. This is because the Songs database may become corrupted. You can have multiple osu! installations, just keep them in separated folders.
 To do this, copy `osu!.exe` into an empty folder and run it. A fresh osu! installation will be created. This is the only installation that needs to be modified from here.
