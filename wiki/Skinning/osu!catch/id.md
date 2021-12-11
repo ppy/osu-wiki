@@ -81,7 +81,7 @@ Catatan:
 Catatan:
 
 - Untuk memiliki beberapa comboburst, gunakan: `comboburst-fruits-{n}.png`.
-  - Salah satu dari gambar dalam grup akan muncul ketika pemain mencapai combo tertentu.
+  - Salah satu dari gambar dalam grup akan muncul ketika pemain mencapai combo milestone.
 - Pada versi 2.2-, elemen `comboburst.png` akan digunakan sebagai gantinya.
 - Comboburst ini hanya akan muncul ketika bermain mode osu!catch
 - Elemen ini dapat dimatikan melalui menu [options](/wiki/Options).
