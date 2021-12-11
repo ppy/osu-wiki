@@ -25,7 +25,7 @@ For those out of the loop, **Zomboy**'s music is *immensely* popular. Like, popu
 Try [the map from the video above](https://osu.ppy.sh/beatmapsets/449299) hosted by [Shadren](https://osu.ppy.sh/users/745494)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/224/The%20Dead%20Symphonic%20EP/Zomboy%20-%20Nuclear%20%28Hands%20Up%29.mp3" type="audio/mpeg">
 </audio>
 
 ### Mind Control
@@ -33,19 +33,19 @@ Try [the map from the video above](https://osu.ppy.sh/beatmapsets/449299) hosted
 Or check out [this popular unranked map](https://osu.ppy.sh/beatmapsets/174918) hosted by [69653863](https://osu.ppy.sh/users/1361697) (a.k.a. inverness)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/224/Songs/Zomboy%20-%20Mind%20Control.mp3" type="audio/mpeg">
 </audio>
 
 ### Lights Out
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/224/Neon%20Grave/Zomboy%20-%20Lights%20Out.mp3" type="audio/mpeg">
 </audio>
 
 ### Bad Intentions
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/224/Reanimated%20EP/Zomboy%20-%20Bad%20Intentions.mp3" type="audio/mpeg">
 </audio>
 
 ---
