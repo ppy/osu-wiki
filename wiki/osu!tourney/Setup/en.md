@@ -1,6 +1,6 @@
-<!-- TODO: mention lazer tournament client -->
-
 # osu!tourney setup
+
+*See also: [osu!lazer tournament client](/wiki/osu!tourney/osu!lazer_tournament_client)*
 
 **Note:** An active supporter tag is currently required to use the osu!tourney client.
 

@@ -1,5 +1,7 @@
 # Configuration d'osu!tourney
 
+*Voir également : [osu!lazer tournament client](/wiki/osu!tourney/osu!lazer_tournament_client)*
+
 **Remarque :** Un supporter tag actif est requis pour utiliser le client osu!tourney.
 
 Il est recommandé d'utiliser une **nouvelle installation d'osu!**. La base de données Songs peut être corrompue. Vous pouvez avoir plusieurs installations d'osu!, gardez-les alors dans des dossiers séparés.
