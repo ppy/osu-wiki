@@ -71,7 +71,7 @@ Schaltfläche in der Symbolleiste: ![Button zum Durchstreichen](img/strike.png "
 
 Das Tag `[color]` wird benutzt, um Text mit unterschiedlichen Webfarben zu gestalten. Es wird das [Hexadezimalsystem](https://de.wikipedia.org/wiki/Webfarbe#RGB-Farbraum) verwendet, um die Farbe zu spezifizieren. Die Farbe kann aber auch durch HTML-Farbnamen, wie z. B. "red" oder "green" notiert werden. Um dem Text eine Farbe zu geben, ersetze das Argument `HEXCODE` mit einem Hexadezimal- oder HTML-Farbcode.
 
-Das zuvor genannte Argument darf keine Anführungszeichen (`"`) enthalten und hat keinen Standardwert. Wenn kein Wert festgelegt wurde oder, wenn Anführungszeichen benutzt werden, dann wird das Tag nicht als BBCode-Tag verarbeitet.
+Das zuvor genannte Argument darf keine Anführungszeichen (`"`) enthalten und hat keinen Standardwert. Wenn kein Wert festgelegt wurde oder wenn Anführungszeichen benutzt werden, dann wird das Tag nicht als BBCode-Tag verarbeitet.
 
 ### Schriftgröße
 
@@ -298,5 +298,5 @@ Das Tag *Überschrift (v2)* ist ein nicht mehr aktuelles Tag, das früher in den
 ## Trivia
 
 - Dieser Wikiartikel wurde adaptiert aus dem Forum-Beitrag ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) von [Stefan](https://osu.ppy.sh/users/626907).
-- Es gab einen Bug, der Nutzer erlaubte, den Text transparent zu machen durch die Benutzung des [Farb-Tags](#farbe) und die Beschriftung "transparent" nach dem Gleichheitszeichen (`=`).
+- Es gab einen Bug, der Nutzern erlaubte, den Text transparent zu machen durch die Benutzung des [Farb-Tags](#farbe) und die Beschriftung "transparent" nach dem Gleichheitszeichen (`=`).
   - Der Text wird heute zu der Standardfarbe (weiß) zurückgesetzt, sobald das passiert.
