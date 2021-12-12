@@ -4,7 +4,7 @@ stub: true
 
 # Modding Queues
 
-[**Modding Queues**](https://osu.ppy.sh/community/forums/60) est un forum dédié aux demandes de [review des beatmaps](/wiki/Modding), ou mods. Il est constitué de fils de discussion, ou *queues*, appartenant à différents moddeurs et mappeurs. Chaque file d'attente a des exigences et des limites individuelles pour l'obtention des mods, qui doivent être respectées par les visiteurs afin de recevoir un mod.
+[**Modding Queues**](https://osu.ppy.sh/community/forums/60) est un forum dédié aux demandes de [review des beatmaps](/wiki/Modding), ou de modding. Il est constitué de fils de discussion, ou *queues*, appartenant à différents moddeurs et mappeurs. Chaque file d'attente a des exigences et des limites individuelles pour l'obtention des mods, qui doivent être respectées par les visiteurs afin de recevoir un mod.
 
 Chaque mode de jeu a son propre sous-forum pour les files d'attente, et osu! occupe la section principale du forum :
 

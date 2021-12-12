@@ -16,7 +16,7 @@ Afin de garantir la sécurité des centres officiels de la communauté, osu! dis
 
 Heureusement, il est encore facile pour vous de contribuer à la sécurité du site. Voici quelques-unes des nombreuses façons dont vous pouvez nous aider :
 
-- Suivez vos channels préférées dans le [tchat en jeu d'osu!](/wiki/Chat_Console), ou sur les forums.
+- Suivez vos canaux de discussion préférés dans le [tchat en jeu d'osu!](/wiki/Chat_Console), ou sur les forums.
 - Si vous êtes témoin d'un événement que vous jugez inapproprié ou dérangeant, utilisez [la commande `!report`](/wiki/Reporting_Bad_Behaviour) dans le tchat du jeu pour en informer les modérateurs.
 
 ## Aidez les autres membres de la communauté
@@ -31,16 +31,16 @@ Voici quelques-unes des façons dont vous pouvez aider les autres :
   - [Storyboarding](https://osu.ppy.sh/community/forums/20)
   - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
 - Marquez le forum comme lu en utilisant le lien en bas.
-- Suivez tous les nouveaux fils de discussion, lisez chacun d'entre eux et apportez votre aide quand vous le pouvez ; vous pouvez utiliser les icônes de unread pour vous assurer de rester à jour.
+- Suivez tous les nouveaux fils de discussion, lisez chacun d'entre eux et apportez votre aide quand vous le pouvez ; vous pouvez utiliser les icônes "non lu" pour vous assurer de rester à jour.
 - Lisez les [guides disponibles](/wiki/Guides) pour parfaire vos connaissances d'osu!. Si les guides qui s'y trouvent ne vous satisfont pas, vous pouvez essayer d'y contribuer !
 
 ## Aidez-nous à vérifier/modder les beatmaps !
 
-osu! dispose d'une équipe de reviewers qui vérifient si les [beatmaps](/wiki/Beatmap) sont prêts à être classés et joués par tous. Cependant, cela ne signifie pas que vous ne pouvez pas contribuer à ce secteur :
+osu! dispose d'une équipe de reviewers qui vérifient si les [beatmaps](/wiki/Beatmap) sont prêtes à être classées et jouées par tous. Cependant, cela ne signifie pas que vous ne pouvez pas contribuer à ce secteur :
 
 - Regardez ou cherchez dans la liste [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) les artistes ou les musiques que vous aimez et/ou auxquels vous voulez contribuer.
 - Jouez les beatmaps aux stades [*En attente* ou *Work in progress*](/wiki/Beatmap/Category#work-in-progress-et-en-attente) et laissez vos commentaires sur la page de discussion de la beatmap.
-- Lisez le [Guide de modding](/wiki/Modding) et les [Critères de classement](/wiki/Ranking_Criteria) pour connaître les bases du modding technique et savoir ce qui rend un beatmap classable.
+- Lisez le [Guide de modding](/wiki/Modding) et les [Critères de classement](/wiki/Ranking_Criteria) pour connaître les bases du modding technique et savoir ce qui rend une beatmap classable.
 - Rejoignez les `#mapping` et `#modreqs` sur le tchat en jeu et participez à la conversation ou suivez simplement.
 - Si vous avez le temps et l'envie, créez une [Modding Queue](https://osu.ppy.sh/community/forums/60) pour permettre aux créateurs des beatmaps de vous demander des mods.
 
@@ -60,7 +60,7 @@ Vous trouverez ci-dessous quelques-unes des façons dont vous pouvez contribuer 
 
 Démarré en 2017, le projet osu!lazer est le centre d'intérêt actuel de [l'équipe d'osu!](/wiki/People/The_Team), ainsi que le nouveau site web, qui est ce que vous voyez aujourd'hui ! Si vous souhaitez aider à rendre ces projets encore meilleurs et nous rapprocher de l'avenir d'osu!, il y a un certain nombre de choses que vous pouvez faire, mais ci-dessous ne sont que quelques exemples :
 
-- Aidez le projet [osu!lazer](https://github.com/ppy/osu). Il y a tellement de choses à implémenter dans la nouvelle version d'osu! et vous pouvez aider à les réaliser !
+- Aider le projet [osu!lazer](https://github.com/ppy/osu). Il y a tellement de choses à implémenter dans la nouvelle version d'osu! et vous pouvez aider à les réaliser !
 - Rendre le [nouveau site web](https://github.com/ppy/osu-web) encore meilleur.
 
 ## Évitez d'être négatif ! Rendez les gens heureux !

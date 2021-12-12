@@ -21,13 +21,13 @@ Bien que certains forums, tels que [Mapping Discussion](https://osu.ppy.sh/commu
 
 ## Rôles et groupes d'utilisateurs
 
-Certains utilisateurs peuvent appartenir à un ou plusieurs groupes personnalisés, en fonction de leurs tâches communautaires, de leurs droits d'accès ou de leur activité passée. Une liste complète des groupes d'utilisateurs se trouve à l'adresse [L'équipe § Groupes d'utilisateurs](/wiki/People/The_Team#groupes-d'utilisateurs).
+Certains utilisateurs peuvent appartenir à un ou plusieurs groupes personnalisés, en fonction de leurs tâches communautaires, de leurs droits d'accès ou de leur activité passée. Une liste complète des groupes d'utilisateurs se trouve sur la page [L'équipe § Groupes d'utilisateurs](/wiki/People/The_Team#groupes-d'utilisateurs).
 
 En plus des badges de groupes d'utilisateurs fournis par l'appartenance à un groupe, les utilisateurs peuvent avoir des [titres d'utilisateur personnalisés](/wiki/User_title) affichés sous l'avatar dans chacun de leurs messages.
 
 ### Modération
 
-*Voir également : [Reporting bad behaviour § Forum](/wiki/Reporting_Bad_Behaviour#forum)*
+*Voir également : [Signaler un mauvais comportement § Forum](/wiki/Reporting_Bad_Behaviour#forum)*
 
 Les [modérateurs](/wiki/People/The_Team/Global_Moderation_Team) sont des utilisateurs qui veillent à ce que les forums restent propres et appropriés, et répondent aux questions à ce sujet. Les modérateurs peuvent modifier ou supprimer des messages ou des sujets inappropriés, épingler des sujets et les déplacer entre différents forums, et empêcher temporairement les contrevenants de poster en les [réduisant au silence](/wiki/Silence).
 
@@ -35,7 +35,7 @@ Les [modérateurs](/wiki/People/The_Team/Global_Moderation_Team) sont des utilis
 
 Certains forums ont des objectifs différents qui ne se limitent pas à la discussion. Par conséquent, ils ont des règles et/ou des capacités techniques supplémentaires.
 
-- [Help](/wiki/Community/Forum/Help) : l'assistance technique de l'[Équipe du support](/wiki/People/The_Team/Support_Team) et des utilisateurs réguliers.
+- [Help](/wiki/Community/Forum/Help) : l'assistance technique de l'[Équipe du support](/wiki/People/The_Team/Support_Team) et autres utilisateurs.
 - [Feature Requests](/wiki/Community/Forum/Feature_Requests) : suggestions pour le développement d'osu!
 - [Modding Queues](/wiki/Community/Forum/Modding_Queues) : des review sur les beatmaps faites par d'autres mappeurs et moddeurs.
 - [Off-Topic](/wiki/Community/Forum/Off-Topic) : l'endroit pour les discussions pas si logiques.

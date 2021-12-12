@@ -1,4 +1,4 @@
-# Série de vidéos communautaires
+# Séries vidéo communautaires
 
 Page d'index des séries vidéo réalisées par les membres de la communauté.
 

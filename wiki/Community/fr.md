@@ -1,6 +1,6 @@
 # Communauté
 
-Cette page répertorie les moyens par lesquels les personnes de tout le site d'osu! peuvent entrer en contact les unes avec les autres. Si vous êtes à la recherche d'opportunités de contribution, mais ne savez pas par où commencer, assurez-vous de lire [Comment vous pouvez aider !](/wiki/Community/How_you_can_help!).
+Cette page répertorie les moyens par lesquels les utilisateurs de tout le site d'osu! peuvent entrer en contact les uns avec les autres. Si vous êtes à la recherche d'opportunités de contribution, mais ne savez pas par où commencer, assurez-vous de lire [Comment vous pouvez aider !](/wiki/Community/How_you_can_help!).
 
 ## Places
 
@@ -21,7 +21,7 @@ Cette page répertorie les moyens par lesquels les personnes de tout le site d'o
 ## Initiatives
 
 - [osu! community meetings](/wiki/Community/osu!_Community_Meetings)
-- [Série de vidéos](/wiki/Community/Video_series)
+- [Séries vidéo](/wiki/Community/Video_series)
   - [osu!academy](/wiki/Community/Video_series/osu!academy)
   - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
   - [osu!talk](/wiki/Community/Video_series/osu!talk)
