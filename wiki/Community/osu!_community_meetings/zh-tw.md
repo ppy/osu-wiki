@@ -10,13 +10,12 @@ no_native_review: true
 
 目前 osu! 社群會議的主持人為 [peppy](https://osu.ppy.sh/users/2)、[Ephemeral](https://osu.ppy.sh/users/102335)、和 [smoogipoo](https://osu.ppy.sh/users/1040328)。
 
-下一次的 osu! 社群會議預計在 **2021 年 12 月 11 日 (星期六 21:00 UTC)** 舉行。
-
-*提醒：若上述的會議日期已過，請查看此條目的英文版本以獲取最新日期。*
-
-<!--Translation: *Note: If the above date has passed, the most recent date can be found in the English version of this article.*-->
-
 會議通常每兩周召開一次，並提前一天在 [peppy 的 Twitter](https://twitter.com/ppy) 上發布提醒。
+
+下一次的 osu! 社群會議預定日期將於之後宣布。
+
+<!-- *提醒：若上述的會議日期已過，請查看此條目的英文版本以獲取最新日期。*
+Translation: *Note: If the above date has passed, the most recent date can be found in the English version of this article.*-->
 
 ## 參與其中
 
@@ -42,6 +41,7 @@ no_native_review: true
 | 3 | [2021 年 10 月 31 號](https://youtu.be/omvZbC7zJUI) | [筆記](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) |
 | 4 | [2021 年 11 月 14 號](https://youtu.be/rEWgTY-L95Y) | [筆記](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) |
 | 5 | [2021 年 11 月 28 號](https://youtu.be/SqMrY26Q6Tw) | [筆記](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) |
+| 6 | [2021 年 12 月 11 號](https://youtu.be/dtGjIyTFtMA) | [筆記](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) |
 
 ## 相關連結
 
