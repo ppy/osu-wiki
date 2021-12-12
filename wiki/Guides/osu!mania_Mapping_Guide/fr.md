@@ -132,7 +132,7 @@ S'il est juste, votre chanson est enfin chronométrée !
 
 #### MixMeister BPM Analyzer
 
-Nous voudrions aussi vous montrer un petit programme qui peut être très utile pour trouver le bon BPM très rapidement. Il s'appelle ***MixMeister BPM Analyzer***. Ce programme vous montrera le BPM moyen de votre chanson. Il a juste un point faible. Il ne peut pas vous montrer plusieurs BPM. Il vous montrera le BPM moyen de tous les points de BPM de votre chanson. Pour le dire simplement : Il n'aide qu'avec un seul BPM. Vous pouvez le rechercher sur Google ou simplement cliquer [ici] (https://dropbox.com/s/m4pjenvo4n65943/bpmanalyzer.zip?dl=0). N'essayez pas de l'utiliser pour timer toutes vos beatmaps. Vous n'apprendrez jamais à timer des musiques si vous laissez ce programme timer tout pour vous. Utilisez-le pour le comparer avec votre BPM pour vérifier si vous avez le bon !
+Nous voudrions aussi vous montrer un petit programme qui peut être très utile pour trouver le bon BPM très rapidement. Il s'appelle ***MixMeister BPM Analyzer***. Ce programme vous montrera le BPM moyen de votre chanson. Il a juste un point faible. Il ne peut pas vous montrer plusieurs BPM. Il vous montrera le BPM moyen de tous les points de BPM de votre chanson. Pour le dire simplement : Il n'aide qu'avec un seul BPM. Vous pouvez le rechercher sur Google ou simplement cliquer [ici](https://dropbox.com/s/m4pjenvo4n65943/bpmanalyzer.zip?dl=0). N'essayez pas de l'utiliser pour timer toutes vos beatmaps. Vous n'apprendrez jamais à timer des musiques si vous laissez ce programme timer tout pour vous. Utilisez-le pour le comparer avec votre BPM pour vérifier si vous avez le bon !
 
 #### Plusieurs BPM
 
