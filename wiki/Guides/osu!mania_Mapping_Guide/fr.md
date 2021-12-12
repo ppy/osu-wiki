@@ -42,7 +42,7 @@ Les détails sur les snaps à utiliser pour le classement sont détaillés dans 
 
 *Raccourci :* `Ctrl + (W, E, R), Shift + (W, E, R)`
 
-![Éditeur d'osu!mania](img/Mania_Editor-FR.jpg "Éditeur d'osu!mania")
+![Éditeur d'osu!mania](img/Mania_Editor-FR.png "Éditeur d'osu!mania")
 
 ## Principes de base
 
