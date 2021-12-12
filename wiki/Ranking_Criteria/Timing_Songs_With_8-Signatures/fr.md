@@ -2,7 +2,7 @@
 
 De temps en temps, des chansons sont mappées avec une signature temporelle qui n'est pas divisée en quarts de note (par exemple `3/4`, `4/4`, `7/4`, ...) mais en croches (par exemple `6/8`, `7/8`, ...). Comme l'éditeur actuel ne supporte pas ces signatures #/8 et que nous ne savons pas si cela va changer dans un futur proche, un ajout a été fait à la règle concernant cette question sur la [section correspondante des critères de classement](/wiki/Ranking_Criteria#timing).
 
-Afin de rendre ce tableau plus compréhensible et d'indiquer plus précisément ce que l'on entend par là, ce guide va maintenant expliquer un peu de théorie musicale pertinente derrière tout cela, et donner des exemples de la façon dont cela se traduit en osu! Pour cette raison, [troisbeatmaps] (https://assets.ppy.sh/media/wiki/TimeSignatures.rar) ont été préparés pour que vous puissiez les télécharger, et ils seront utilisés comme référence dans ce guide.
+Afin de rendre ce tableau plus compréhensible et d'indiquer plus précisément ce que l'on entend par là, ce guide va maintenant expliquer un peu de théorie musicale pertinente derrière tout cela, et donner des exemples de la façon dont cela se traduit en osu! Pour cette raison, [trois beatmaps](https://assets.ppy.sh/media/wiki/TimeSignatures.rar) ont été préparés pour que vous puissiez les télécharger, et ils seront utilisés comme référence dans ce guide.
 
 ## Théorie de la musique
 

@@ -4,7 +4,7 @@ Le **Ranking Criteria Council** était un groupe d'utilisateurs chargé de retra
 
 La plupart des règles appliquées par la [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) lors de l'évaluation des beatmaps n'étaient pas écrites et il n'existait pas de critères spécifiques aux modes à l'époque. Cela a conduit à des disqualifications répétées que la communauté de mapping considérait comme injustifiées, de sorte que le Ranking Criteria Council visait à amener tout le monde à un terrain d'entente.
 
-Ce projet a mis fin à l'utilisation du [sous-forum Ranking Criteria] (https://osu.ppy.sh/community/forums/87) par le public, en autorisant uniquement les messages des membres du conseil. Les membres du conseil ont prévu de discuter de tous les aspects du mapping et de formuler leurs propres propositions de critères de classement en conséquence.
+Ce projet a mis fin à l'utilisation du [sous-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87) par le public, en autorisant uniquement les messages des membres du conseil. Les membres du conseil ont prévu de discuter de tous les aspects du mapping et de formuler leurs propres propositions de critères de classement en conséquence.
 
 ## Membres initiaux
 
