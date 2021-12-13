@@ -4,8 +4,9 @@ tags:
   - streams
 ---
 
-# Stream
+# stream (spam)
 
-A **stream** is an [osu!](/wiki/Game_mode/osu!) [pattern](/wiki/Beatmap/Pattern) where many [hit circles](/wiki/Hit_object/Hit_circle) are placed close together and in quick succession. Streams usually represent high note density in a song and they are most commonly snapped to 1/4 ticks on the [timeline](/wiki/Beatmap_Editor/Timelines#hit-objects).
+**spam** stostosowany w [osu!](/wiki/Game_mode/osu!) korzysta z [patternów](/wiki/Beatmap/Pattern) wykorzystujący on [kółka](/wiki/Hit_object/Hit_circle) umieszcone bardzo blisko siebie (dystans kółek 0,5 optymalnie).
+najczęstsza gęstość nut wynosi 1/4 taktu na [osi czasu](/wiki/Beatmap_Editor/Timelines#hit-objects).
 
-Streams are usually played with smooth movement, as opposed to the snappy movement of [jumps](/wiki/Beatmap/Pattern/Jump). Most streams require the player to alternate clicking between both fingers due to their speed.
+Większość spamu wymaga od gracza naprzemiennego klikania dwoma palcami ze względu na ich szybkość.
