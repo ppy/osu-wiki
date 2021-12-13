@@ -10,7 +10,6 @@ Le premier mode de jeu et homonyme qui était basé sur la série ouendan.
 
 *[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan)* est un jeu de rythme pour la *Nintendo DS*. Le gameplay se compose de seulement trois éléments : taper des cercles sur l'écran tactile, faire glisser une balle sur un chemin fixe et faire tourner un spinner très rapidement. Tous ces éléments sont synchronisés avec des (reprises de) chansons japonaises populaires. Voici à quoi ressemble le jeu sur la *DS* :
 
-
 ![Exemple de gameplay de Osu! Tatakae! Ouendan sur Nintendo DS](/wiki/shared/Ouendan.jpg "Exemple de gameplay de Osu! Tatakae! Ouendan sur Nintendo DS")
 
 Les cercles sont visibles sur l'écran inférieur, et l'histoire sur l'écran supérieur. Chaque étape est en fait une histoire indépendante sur une personne en difficulté. C'est là que le *Ouendan* (Équipe de pom-pom girls) entre en jeu. Grâce au pouvoir magique du cheerleading masculin, le joueur doit aider les personnes en difficulté.
@@ -266,7 +265,7 @@ Le système utilisé pour calculer les pertes et les gains de vie est compliqué
 - Une rotation qui ne tourne pas autour du noyau central du spinner ne sera **pas** considérée comme une rotation valide.
 - La fumée dure plus longtemps que le tracé du curseur par défaut dans le jeu. Appliquez les effets de fumée de manière éparse pour éviter que les anciens effets de fumée ne disparaissent trop rapidement.
 - La mascotte d'osu! est [pippi](/wiki/Mascots#pippi).
-- Lorsqu'il est joué par [Auto] (/wiki/Game_modifier/Auto), le nom du joueur sera osu!
+- Lorsqu'il est joué par [Auto](/wiki/Game_modifier/Auto), le nom du joueur sera osu!
 
 ### Histoire
 
