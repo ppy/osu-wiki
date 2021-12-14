@@ -6,7 +6,7 @@ Berikut ini adalah beberapa peristiwa besar dalam sejarah osu! sejak awal berdir
 
 ## Juli
 
-osu! dimulai sebagai *proof-of-concept* bernama "ouentest". Versi pertama dirilis pada 1 Juli 2007 untuk sekelompok kecil teman dekat [peppy](https://osu.ppy.sh/users/2) dan memiliki sebuah [editor beatmap](/wiki/Beatmap_Editor) dan mode permainan yang sangat mendasar. Editor hanya dapat membuat [beatmap](/wiki/Beatmap) yang *sangat* sederhana tanpa fungsi *seeking* atau [*snapping*](/wiki/Beatmapping/Snapping) dan tidak ada slider atau spinner, hanya circle dan penghitung skor/kombo yang mendasar. Rilis pertama memakan waktu sekitar 16 jam waktu coding dan dilakukan dalam *single all-nighter*. `pUpdater` diperkenalkan (lekas dikenal sebagai `osume`) untuk menangani pembaruan ke versi terbaru.
+osu! dimulai sebagai *proof-of-concept* bernama "ouentest"[[1]][r]. Versi pertama dirilis pada 1 Juli 2007 untuk sekelompok kecil teman dekat [peppy](https://osu.ppy.sh/users/2) dan memiliki sebuah [editor beatmap](/wiki/Beatmap_Editor) dan mode permainan yang sangat mendasar. Editor hanya dapat membuat [beatmap](/wiki/Beatmap) yang *sangat* sederhana tanpa fungsi *seeking* atau [*snapping*](/wiki/Beatmapping/Snapping) dan tidak ada slider atau spinner, hanya circle dan penghitung skor/kombo yang mendasar. Rilis pertama memakan waktu sekitar 16 jam waktu coding dan dilakukan dalam *single all-nighter*. `pUpdater` diperkenalkan (lekas dikenal sebagai `osume`)[[2]][r] untuk menangani pembaruan ke versi terbaru.
 
 ![](img/2007-07_01.jpg "Pemilihan Lagu")
 
@@ -95,3 +95,8 @@ Peringkat baru, SS, ditambahkan ke sistem peringkat, menggantikan peringkat S da
 Lagu-lagu dapat disunting dengan menyeretnya ke jendela osu!. Keterangan alat ditambahkan, menjelaskan semua berbagai tombol di menu osu! dan antarmuka editor. Banyak skin-skin baru yang berkualitas diajukan oleh [skinner](/wiki/Skinning/Skinner) generasi awal ([Holiday oleh LuigiHann](https://osu.ppy.sh/community/forums/topics/1139), [WindWaker oleh awp](https://osu.ppy.sh/community/forums/topics/761)). Metode pengurutan baru ditambahkan ke layar pemilih lagu. peppy sekarang dapat mengirim pengumuman universal untuk semua pemain osu!. Perubahan kecil dibuat untuk meningkatkan kenyamanan gameplay (seperti peredupan lingkaran inaktif (non-active circle dimming)).
 
 ![](img/2007-12_01.jpg)
+
+## References
+
+1. [Postingan Twitter oleh peppy tentang awal mula osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
+2. [Postingan forum pUpdater  (aka osume)](https://osu.ppy.sh/community/forums/topics/4?n=1)
