@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
+---
+
 # osu! 랭크 기준
 
 ***참고: 이 문서는 [일반 랭크 기준](/wiki/Ranking_Criteria)의 연장입니다.***
