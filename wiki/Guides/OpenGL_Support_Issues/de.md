@@ -1,10 +1,10 @@
 # Probleme mit GL Unterstützung
 
-Die nächste große Veröffentlichung von osu! (kommt in August-September 2015) entfernt die DirectX Unterstützung, um unser Framework zu vereinfachen. Wenn du diesen Artikel siehst, bedeutet es, dass du, wenn der neue Build veröffentlich wurde, nicht in der Lage bist osu! auf deinem derzeitigen System zu spielen. Bitte lese dir die folgenden Informationen gründlich durch und versuche sie aus.
+Die nächste große Veröffentlichung von osu! (kommt in August-September 2015) entfernt die DirectX Unterstützung, um unser Framework zu vereinfachen. Wenn du diesen Artikel siehst, bedeutet es, dass du, wenn der neue Build veröffentlich wurde, nicht in der Lage bist osu! auf deinem derzeitigen System zu spielen. Bitte lese dir die folgenden Informationen gründlich durch und probiere sie aus.
 
 ## Fehlender oder alter Treiber
 
-Wenn du nicht den richtigen Grafikkartentreiber installiert hast, wird Windows den "Microsoft Basic Display Adapter" als Ersatztreiber verwenden, welcher für DirectX Spiele **funktioniert**, aber sehr langsam. Bei OpenGL wird es nicht funktionieren, daher solltest du auf Nummer sichergehen und den richtigen Treiber verwenden.
+Wenn du nicht den richtigen Grafikkartentreiber installiert hast, wird Windows den "Microsoft Basic Display Adapter" als Ersatztreiber verwenden, welcher für DirectX Spiele **funktioniert**, aber sehr langsam. Bei OpenGL wird es nicht funktionieren, daher solltest du auf Nummer sicher gehen und den richtigen Treiber verwenden.
 
 Als erstes überprüfe, ob dies auf dich zutrifft:
 
@@ -23,8 +23,8 @@ Bitte lade dir den Treiber von der Webseite des Herstellers deiner Grafikkarte h
 
 ## Falsche Bittiefe
 
-Dein Treiber mag vielleicht richtig sein, aber die Farbbittiefe kann dennoch möglicherweise falsch sein. Windows wird dann den Ersatztreiber verwenden, [wenn die Farbbittiefe nicht 32bpp ist](https://opengl.org/discussion_boards/showthread.php/145008-Why-my-OpenGL-program-uses-Microsoft-GDI-renderer-instead-of-my-GeForce-5200). Das Ändern [der Farbbittiefe zu 32bpp sollte das Problem lösen](https://windows.microsoft.com/en-us/windows/getting-best-display-monitor#getting-best-display-monitor&section_2).
+Dein Treiber mag vielleicht richtig sein, aber die Farbbittiefe kann dennoch möglicherweise falsch sein. Windows wird dann den Ersatztreiber verwenden, [wenn die Farbbittiefe nicht 32bpp ist](https://opengl.org/discussion_boards/showthread.php/145008-Why-my-OpenGL-program-uses-Microsoft-GDI-renderer-instead-of-my-GeForce-5200). Das Ändern [der Farbbittiefe zu 32bpp sollte das Problem lösen](https://support.microsoft.com/de-de/windows/erreichen-der-besten-anzeigeeigenschaften-f%C3%BCr-ihren-bildschirm-c7e01f63-9b51-2b23-0a0f-6b965af015a9).
 
 ## Zusätzliche Hilfe
 
-Wenn dein Problem nach den genannten Lösungen immernoch besteht, dann erstelle dir bitte ein Thread im [Hilfe-Forum](https://osu.ppy.sh/community/forums/5) mit dem Output von [diesem Programm](http://realtech-vr.com/home/glview) und deiner `gl\_info.txt`, wenn du den `Cutting Edge` Build benutzt.
+Wenn dein Problem nach den genannten Lösungen immernoch besteht, dann erstelle bitte einen Thread im [Hilfe-Forum](https://osu.ppy.sh/community/forums/5) mit dem Output von [diesem Programm](http://realtech-vr.com/home/glview) und deiner `gl\_info.txt`, wenn du den `Cutting Edge` Build benutzt.
