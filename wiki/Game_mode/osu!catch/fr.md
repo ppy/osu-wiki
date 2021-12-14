@@ -52,7 +52,6 @@ Les bananes peuvent être ignorées sans perte de santé. Cependant, cela peut c
 
 Les hyperfruits sont des fruits spéciaux qui apparaissent pour aider le catcher à attraper le fruit suivant lorsque le dash normal est considéré comme impossible à attraper dans un temps imparti strict. Par défaut, tous les hyperfruits ont une couleur rouge caractéristique qui entoure l'hyperfruit lui-même.
 
-
 En ramassant l'hyperfruit, le catcher verra sa vitesse passer à *hyperdash* (juste assez rapide pour attraper le prochain fruit), brille en rouge et laisse une *afterimage* rouge temporaire au point de collecte, jusqu'à ce que le prochain fruit ait été attrapé ou lâché, et le catcher redeviendra alors normal.
 
 ## Styles de jeu
@@ -207,7 +206,7 @@ Le système utilisé pour calculer les pertes et les gains de vie est compliqué
 
 ### Histoire
 
-![Logo d'osu!catch dans les modes spéciaux](/wiki/shared/Ctb_logo.jpg "Logo "Catch the Beat" en mode spécial")
+![Logo d'osu!catch dans les modes spéciaux](/wiki/shared/Ctb_logo.jpg "Logo Catch the Beat en mode spécial")
 
 - Jusqu'au 10 avril 2012 (10/04/2012), les beatmaps osu!catch ne pouvaient pas être classées ou être incluses dans des beatmaps classées. Cependant, cela a changé, et les mappeurs peuvent maintenant faire des difficultés spécifiques à osu!catch, à condition de suivre les directives. Ces directives sont en cours d'élaboration, mais au fur et à mesure que d'autres beatmaps osu!catch seront classées et que les joueurs donneront leur avis, les directives évolueront pour être aussi complètes que celles d'osu!
 - La première beatmap classée qui contient au moins une difficulté osu!catch est [Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin), avec la difficulté osu!catch guest mappée par Uran](https://osu.ppy.sh/beatmapsets/13676).
