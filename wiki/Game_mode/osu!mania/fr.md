@@ -1,4 +1,4 @@
-# osu!mania
+# osu!mania (mode de jeu)
 
 ![Gameplay d'osu!mania](/wiki/shared/mania-gameplay.jpg "l'Interface d'osu!mania")
 
