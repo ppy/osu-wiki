@@ -1,4 +1,4 @@
-# osu!catch (game mode)
+# osu!catch (mode de jeu)
 
 ![Gameplay d'osu!catch](/wiki/shared/catch-gameplay.jpg "Interface d'osu!catch")
 
