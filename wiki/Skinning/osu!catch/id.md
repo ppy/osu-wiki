@@ -31,7 +31,7 @@ Catatan:
 Catatan:
 
 - Nama animasi: `fruit-catcher-fail-{n}.png`
-- Elemen ini merupakan tampilan catcher ketika catcher tidak dapat menangkap buah.
+- Elemen ini merupakan tampilan catcher ketika miss.
 - Elemen ini menggantikan `fruit-catcher-kiai.png` jika sebuah fruit atau drop/droplet terlewatkan saat [kiai time](/wiki/Kiai_time).
 - Elemen ini harus menghadap ke kanan.
 
@@ -132,7 +132,7 @@ Catatan:
 
 Catatan:
 
-- Elemen ini muncul pertama; menutupi `fruit-pear.png`.
+- Elemen ini muncul pertama; melapisi `fruit-pear.png`.
 
 ---
 
@@ -162,7 +162,7 @@ Catatan:
 
 Catatan:
 
-- Elemen ini muncul kedua; menutupi `fruit-grapes.png`.
+- Elemen ini muncul kedua; melapisi `fruit-grapes.png`.
 
 ---
 
@@ -192,7 +192,7 @@ Catatan:
 
 Catatan:
 
-- Elemen ini muncul ketiga; menutupi `fruit-apple.png`.
+- Elemen ini muncul ketiga; melapisi `fruit-apple.png`.
 
 ---
 
@@ -229,7 +229,7 @@ Catatan:
 
 - Dapat dianimasikan tetapi hanya *frame* pertama yang digunakan.
   - Nama animasi: `fruit-orange-overlay-{n}.png`
-- Elemen ini muncul keempat (terakhir); menutupi `fruit-orange.png`.
+- Elemen ini muncul keempat (terakhir); melapisi `fruit-orange.png`.
 
 ---
 
@@ -259,7 +259,7 @@ Catatan:
 
 Catatan:
 
-- Elemen ini digunakan sebagai spinner pada osu!catch; menutupi `fruit-bananas.png`.
+- Elemen ini digunakan sebagai spinner pada osu!catch; melapisi `fruit-bananas.png`.
 
 ---
 
@@ -289,7 +289,7 @@ Catatan:
 Catatan:
 
 - Elemen ini tidak digunakan pada halaman ranking.
-- Elemen ini digunakan sebagai slider pada osu!catch; menutupi `fruit-drop.png`
+- Elemen ini digunakan sebagai slider pada osu!catch; melapisi `fruit-drop.png`
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
