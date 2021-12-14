@@ -100,3 +100,5 @@ Songs could be edited by dragging them into the osu! window; tooltips were added
 
 1. [peppy's Twitter post about the start of osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
 2. [pUpdater  (aka osume) forum post](https://osu.ppy.sh/community/forums/topics/4?n=1)
+
+[r]: #references

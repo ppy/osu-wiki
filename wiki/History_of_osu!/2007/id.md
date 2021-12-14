@@ -98,5 +98,7 @@ Lagu-lagu dapat disunting dengan menyeretnya ke jendela osu!. Keterangan alat di
 
 ## References
 
-1. [Postingan Twitter oleh peppy tentang awal mula osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
-2. [Postingan forum pUpdater  (aka osume)](https://osu.ppy.sh/community/forums/topics/4?n=1)
+1. [Kiriman forum Twitter oleh peppy tentang awal mula osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
+2. [Kiriman forum pUpdater  (aka osume)](https://osu.ppy.sh/community/forums/topics/4?n=1)
+
+[r]: #references
