@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 938d93592b43a91eee5a596bd4be6b5f838cce1a
----
-
 # Ranking criteria
 
 *Untuk ranking criteria [mode permainan](/wiki/Game_mode) yang spesifik, kunjungi: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania)*
@@ -47,14 +42,15 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 
 ### Peraturan
 
-- **Semua mode permainan dalam sebuah beatmap harus membentuk sebuah spread dimulai dari tingkat kesulitan terendah yang ditentukan oleh [drain time](/wiki/Gameplay/Drain_time) lagu tersebut.** Untuk tingkat kesulitan di atas tingkat kesulitan terendah yang diperlukan, spread tidak dapat melewati tingkat kesulitan mana pun dan tidak boleh ada perbedaan kesulitan yang sangat besar antara dua tingkat kesulitan mana pun.
-- **Setiap tingkat kesulitan harus patuh terhadap ranking criteria khusus tingkat kesulitan modenya.** Lihat ranking criteria [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania) untuk informasi lebih lanjut.
+- **Semua mode permainan dalam sebuah beatmap wajib membentuk sebuah spread dimulai dari tingkat kesulitan terendah yang ditentukan oleh [drain time](/wiki/Gameplay/Drain_time) lagu tersebut.** Untuk tingkat kesulitan di atas tingkat kesulitan terendah yang diperlukan, spread tidak dapat melewati tingkat kesulitan mana pun dan tidak boleh ada perbedaan kesulitan yang sangat besar antara dua tingkat kesulitan mana pun.
+- **Setiap tingkat kesulitan harus patuh terhadap ranking criteria khusus tingkat kesulitan modenya.** Lihat ranking criteria [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](/wiki/Ranking_Criteria/osu!mania) untuk informasi lebih lanjut.
 - **Setiap tingkat kesulitan dalam sebuah beatmap harus memiliki [drain time](/wiki/Gameplay/Drain_time) minimum 30 detik.**
 - **Jika [drain time](/wiki/Gameplay/Drain_time) dari tiap tingkat kesulitan itu...**
   - **...kurang dari 3:30**, tingkat kesulitan terendah dari setiap mode permainan yang disertakan tidak bisa lebih sulit dari Normal.
   - **...antara 3:30 dan 4:15**, tingkat kesulitan terendah dari setiap mode permainan yang disertakan tidak bisa lebih sulit dari Hard.
   - **...antara 4:15 dan 5:00**, kesulitan terendah dari setiap mode permainan yang disertakan tidak bisa lebih sulit dari Insane.
   - **Kesulitan di bawah tingkat kesulitan tertinggi dapat menggabungkan break times dengan drain time untuk memenuhi persyaratan di atas.** Hal ini tidak berlaku untuk tingkat kesulitan dengan drain time kurang dari 30 detik. Penilaian mengenai kesesuaian elemen permainan yang digunakan untuk tingkat kesulitan terendah Hard dan Insane tergantung pada anggota [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) untuk mode permainan masing-masing.
+  - **Beatmap osu!mania terikat oleh serangkaian ambang batas *drain time* dan aturan *spread* yang berbeda dengan mode permainan lainnya, yang telah ditentukan dalam [ranking criteria osu!mania](/wiki/Ranking_Criteria/osu!mania).**
 - **Nama tingkat kesulitan dalam beatmap secara jelas harus progresif dan akurat menunjukkan tingkat kesulitan masing-masing, kecuali:**
   - Tingkat kesulitan tertinggi dari setiap mode permainan.
   - Tingkat kesulitan tertinggi dari setiap mode permainan dengan tingkat kesulitan yang serupa, hanya berlaku untuk kesulitan Insane dan Extra (misalnya, tingkat kesulitan Insane dari set ENHIIII atau kesulitan Extra dari set ENHIIXXX).
@@ -192,7 +188,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 - **Previw point harus disetel dan konsisten di antara semua kesulitan beatmap.** Ini digunakan untuk menu pemilihan lagu dan pratinjau thumbnail online.
 - **Setiap file hitsound harus memiliki durasi setidaknya 25ms.** File yang lebih pendek dapat menyebabkan tidak ada suara yang dimainkan dalam game.
 - **File suara yang sepenuhnya sunyi harus menggunakan [file 44-byte ini](https://up.ppy.sh/files/blank.wav).** File lain memiliki ukuran file yang terlalu besar dan file 0-byte tidak berfungsi.
-- **[Hitsound storyboard](/wiki/Beatmapping/Hitsound#passive-hitsound) tidak dapat digunakan sebagai pengganti [hitsound aktif](/wiki/Beatmapping/Hitsound#active-hitsound).** Hal ini memberikan bentuk umpan balik pemain yang tidak akurat. Hitsound storyboard dalam situasi lain dapat diterima, tetapi tidak disarankan. osu!mania dikecualikan dari aturan ini.
+- **[Hitsound storyboard](/wiki/Beatmapping/Hitsound#hitsound-pasif) tidak dapat digunakan sebagai pengganti [hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif).** Hal ini memberikan bentuk umpan balik pemain yang tidak akurat. Hitsound storyboard dalam situasi lain dapat diterima, tetapi tidak disarankan. osu!mania dikecualikan dari aturan ini.
 
 ### Pedoman
 
@@ -201,7 +197,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 - **[Kompilasi lagu](/wiki/Beatmapping/Song_compilation) harus beirisi 3 lagu atau lebih.** hanya menggunakan 2 lagu dalam kompilasi adalah pengalaman yang kurang menyenangkan bagi pemain, dan harus dipecah menjadi beatmap terpisah. Pengecualian dapat dibuat untuk lagu yang secara eksklusif dirilis bersama.
 - **[Kompilasi lagu](/wiki/Beatmapping/Song_compilation) harus di-mix dengan benar dan tidak boleh memiliki jeda mendadak atau fade panjang di antara lagu yang berbeda.** Lagu yang digunakan untuk kompilasi harus serupa dalam kualitas audio, volume, dan panjangnya. Ini bertujuan untuk memastikan kompilasi memiliki pengalaman gameplay yang sama-sama padu seperti beatmap lainnya.
 - **Lagu yang dipotong harus menjaga kesan umum dan intensitas keseluruhan lagu.** Potongan yang mengubah struktur lagu (seperti tidak memasukkan atau mengatur ulang intro/verse/chorus/outro lagu) dapat menyebabkan misinterpretasi dan seringkali menimbulkan pengalaman bermain yang tidak memuaskan. Ini tidak berlaku untuk potongan resmi atau pembuatan ulang potongan resmi.
-- **[Suara gameplay](/wiki/Skinning/Sounds#gameplay) yang tidak termasuk dalam [hitsound aktif](/wiki/Beatmapping/Hitsound#active-hitsound) harus menggunakan format file `.mp3` atau` .ogg`.** File-file ini biasanya memiliki durasi yang lama dan jika dibandingkan file .wav memiliki ukuran yang lebih besar. Namun, .wav harus digunakan jika menghasilkan ukuran file yang lebih kecil.
+- **[Suara gameplay](/wiki/Skinning/Sounds#gameplay) yang tidak termasuk dalam [hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktifd) harus menggunakan format file `.mp3` atau` .ogg`.** File-file ini biasanya memiliki durasi yang lama dan jika dibandingkan file .wav memiliki ukuran yang lebih besar. Namun, .wav harus digunakan jika menghasilkan ukuran file yang lebih kecil.
 - **Hindari mengganti hit finish dalam sampel soft/normal dengan sampel kustom yang sering digunakan.** Menggunakan hit finish untuk mewakili snare/bass drum atau melodi lagu dapat terdengar menjengkelkan bagi siapa pun yang menonaktifkan hitsound beatmap. Mengganti whistle/clap direkomendasikan karena sampel tersebut lebih sering digunakan. Beatmap osu!taiko dikecualikan dari pedoman ini dan memiliki pedoman sampel hitsound sendiri.
 
 ## Video dan latar belakang

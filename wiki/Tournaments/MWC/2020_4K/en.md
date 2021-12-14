@@ -103,104 +103,104 @@ The osu!mania 4K World Cup 2020 was run by the [osu! team](/wiki/People/The_Team
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
 - FreeMod
-  - [evOke - Edison (Elekton) \[Challenge 1.2\]](https://osu.ppy.sh/beatmapsets/1157050#mania/2414492)
-  - [Apo11o"QUASAR"program - Saihate (Tidek) \[Coma [1,05x Rate]\]](https://osu.ppy.sh/beatmapsets/1178017#mania/2456769)
-  - [PolyphonicBranch feat. un:c & Lon - C158H251N39O46S (beta-endorphin) (Guilhermeziat) \[Skwid's Challenge\]](https://osu.ppy.sh/beatmapsets/768951#mania/2414239)
-  - [Penoreri - Lancelot ~Flame of the Rebellion~ (Gekido-) \[LN Master x1.05\]](https://osu.ppy.sh/beatmapsets/1211967#mania/2522711)
-  - [YZYX - Dysnomia (Chrubble) \[Aphasia 1.1x\]](https://osu.ppy.sh/beatmapsets/867111#mania/2595610)
-  - [Twenty One Pilots - Heathens (Magnetude Bootleg) (Abraxos) \[|-\\\]](https://osu.ppy.sh/beatmapsets/1218708#mania/2535695)
-  - [Venetian Snares - Sinthasomphone (Gekido-) \[Challenge x1.1\]](https://osu.ppy.sh/beatmapsets/872435#mania/2595134)
-  - [Camellia - ANOMALY (Couil) \[deviation\]](https://osu.ppy.sh/beatmapsets/599446#mania/1343180)
-  - [nonoc - Relive (Ticle) \[Snow Thaw\]](https://osu.ppy.sh/beatmapsets/995126#mania/2415389)
-  - [Camellia - Tornado (inteliser) \[demolition\]](https://osu.ppy.sh/beatmapsets/619276#mania/2532744)
-  - [Final Sketch feat. rgLed - Violent Arcade (Toaph Daddy) \[Sudden Death x1.1\]](https://osu.ppy.sh/beatmapsets/1245864#mania/2592116)
-  - [aaaa vs Frums - beepbit * futures (LeiN-) \[cosmonaut\]](https://osu.ppy.sh/beatmapsets/891963#mania/1864667)
-  - [Falcom Sound Team jdk - The Azure Arbitrator (Gekido-) \[Demiourgos (Cut)\]](https://osu.ppy.sh/beatmapsets/951869#mania/2503264)
-  - [Sasara Yuuna - dnabgib kaerB (Mipha-) \[egnellahC\]](https://osu.ppy.sh/beatmapsets/1208832#mania/2516945)
-  - [Nanahoshi Kangen Gakudan feat.Matsushita - Dansu Nanbaa wo Tomo ni (juankristal) \[T1M1N6 H311\]](https://osu.ppy.sh/beatmapsets/1252675#mania/2603455)
-  - [The Chemical Brothers ft. Q-Tip - Galvanize (Beat Juggle) (Razzy) \[Unbound (2019)\]](https://osu.ppy.sh/beatmapsets/1047442#mania/2189426)
+  1. [evOke - Edison (Elekton) \[Challenge 1.2\]](https://osu.ppy.sh/beatmapsets/1157050#mania/2414492)
+  2. [Apo11o"QUASAR"program - Saihate (Tidek) \[Coma [1,05x Rate]\]](https://osu.ppy.sh/beatmapsets/1178017#mania/2456769)
+  3. [PolyphonicBranch feat. un:c & Lon - C158H251N39O46S (beta-endorphin) (Guilhermeziat) \[Skwid's Challenge\]](https://osu.ppy.sh/beatmapsets/768951#mania/2414239)
+  4. [Penoreri - Lancelot ~Flame of the Rebellion~ (Gekido-) \[LN Master x1.05\]](https://osu.ppy.sh/beatmapsets/1211967#mania/2522711)
+  5. [YZYX - Dysnomia (Chrubble) \[Aphasia 1.1x\]](https://osu.ppy.sh/beatmapsets/867111#mania/2595610)
+  6. [Twenty One Pilots - Heathens (Magnetude Bootleg) (Abraxos) \[|-\\\]](https://osu.ppy.sh/beatmapsets/1218708#mania/2535695)
+  7. [Venetian Snares - Sinthasomphone (Gekido-) \[Challenge x1.1\]](https://osu.ppy.sh/beatmapsets/872435#mania/2595134)
+  8. [Camellia - ANOMALY (Couil) \[deviation\]](https://osu.ppy.sh/beatmapsets/599446#mania/1343180)
+  9. [nonoc - Relive (Ticle) \[Snow Thaw\]](https://osu.ppy.sh/beatmapsets/995126#mania/2415389)
+  10. [Camellia - Tornado (inteliser) \[demolition\]](https://osu.ppy.sh/beatmapsets/619276#mania/2532744)
+  11. [Final Sketch feat. rgLed - Violent Arcade (Toaph Daddy) \[Sudden Death x1.1\]](https://osu.ppy.sh/beatmapsets/1245864#mania/2592116)
+  12. [aaaa vs Frums - beepbit * futures (LeiN-) \[cosmonaut\]](https://osu.ppy.sh/beatmapsets/891963#mania/1864667)
+  13. [Falcom Sound Team jdk - The Azure Arbitrator (Gekido-) \[Demiourgos (Cut)\]](https://osu.ppy.sh/beatmapsets/951869#mania/2503264)
+  14. [Sasara Yuuna - dnabgib kaerB (Mipha-) \[egnellahC\]](https://osu.ppy.sh/beatmapsets/1208832#mania/2516945)
+  15. [Nanahoshi Kangen Gakudan feat.Matsushita - Dansu Nanbaa wo Tomo ni (juankristal) \[T1M1N6 H311\]](https://osu.ppy.sh/beatmapsets/1252675#mania/2603455)
+  16. [The Chemical Brothers ft. Q-Tip - Galvanize (Beat Juggle) (Razzy) \[Unbound (2019)\]](https://osu.ppy.sh/beatmapsets/1047442#mania/2189426)
 - Tiebreaker
-  - **[Camellia - Tojita Sekai (-mint-) \[Empyrean\]](https://osu.ppy.sh/beatmapsets/1252746#mania/2603556)**
+  1. **[Camellia - Tojita Sekai (-mint-) \[Empyrean\]](https://osu.ppy.sh/beatmapsets/1252746#mania/2603556)**
 
 ### Semifinals
 
 - FreeMod
-  - [Lon - Yuru Fuwa Jukai Girl (Wh1teh) \[k 1.25x\]](https://osu.ppy.sh/beatmapsets/1206072#mania/2511332)
-  - [Rregula & Dementia x Smooth - Obfuscate (Billain Remix) (Abraxos) \[Disambiguation\]](https://osu.ppy.sh/beatmapsets/1185353#mania/2496420)
-  - [Manabu Namiki - TENSHI (True Final Boss) (Mipha-) \[miphather 1.1x\]](https://osu.ppy.sh/beatmapsets/1187597#mania/2558208)
-  - [aran - L.F.O (Kamikaze) \[The Girl Playing This...\]](https://osu.ppy.sh/beatmapsets/1222594#mania/2542955)
-  - [KAKU P-MODEL - Big Brother (Wh1teh) \[Challenge\]](https://osu.ppy.sh/beatmapsets/500824#mania/1065834)
-  - [Ling tosite sigure - abnormalize (Shoegazer) \[desperation 1.15x\]](https://osu.ppy.sh/beatmapsets/574621#mania/1216961)
-  - [J-CORE SLi//CER - J-CORE SLi//CER Technique (AutotelicBrown) \[Ayumu's Dab\]](https://osu.ppy.sh/beatmapsets/1044242#mania/2182981)
-  - [Kakka - Alfheim (Tidek) \[Freya\]](https://osu.ppy.sh/beatmapsets/941878#mania/1966772)
-  - [Hatsuki Yura - Salamandra no Odoriko (Raveille) \[Sprites\]](https://osu.ppy.sh/beatmapsets/836808#mania/1752295)
-  - [Boys Like Girls - The Great Escape (Shoegazer) \[Departure 1.15x\]](https://osu.ppy.sh/beatmapsets/1186973#mania/2476817)
-  - [Camellia as "Reverse of Riot" - Completeness Under Incompleteness ("true prooF" Long ver.) (Monheim) \[Spectral 1.15\]](https://osu.ppy.sh/beatmapsets/1134132#mania/2562333)
-  - [Tenacious D - Master Exploder (Valedict) \[BLOW YA MIND 1.1x\]](https://osu.ppy.sh/beatmapsets/980802#mania/2052615)
-  - [Camellia - flower of wilderness (-mint-) \[lily (cut 1.05x)\]](https://osu.ppy.sh/beatmapsets/1218077#mania/2534305)
-  - [Le Dos-on - A (Elekton) \[ex 1.15 edit\]](https://osu.ppy.sh/beatmapsets/585451#mania/2534092)
-  - [Frums - dropdead (Chrubble) \[fatality\]](https://osu.ppy.sh/beatmapsets/957823#mania/2186287)
-  - [Moe Shop - Audiovisual (Paturages) \[720p\]](https://osu.ppy.sh/beatmapsets/1182067#mania/2495032)
+  1. [Lon - Yuru Fuwa Jukai Girl (Wh1teh) \[k 1.25x\]](https://osu.ppy.sh/beatmapsets/1206072#mania/2511332)
+  2. [Rregula & Dementia x Smooth - Obfuscate (Billain Remix) (Abraxos) \[Disambiguation\]](https://osu.ppy.sh/beatmapsets/1185353#mania/2496420)
+  3. [Manabu Namiki - TENSHI (True Final Boss) (Mipha-) \[miphather 1.1x\]](https://osu.ppy.sh/beatmapsets/1187597#mania/2558208)
+  4. [aran - L.F.O (Kamikaze) \[The Girl Playing This...\]](https://osu.ppy.sh/beatmapsets/1222594#mania/2542955)
+  5. [KAKU P-MODEL - Big Brother (Wh1teh) \[Challenge\]](https://osu.ppy.sh/beatmapsets/500824#mania/1065834)
+  6. [Ling tosite sigure - abnormalize (Shoegazer) \[desperation 1.15x\]](https://osu.ppy.sh/beatmapsets/574621#mania/1216961)
+  7. [J-CORE SLi//CER - J-CORE SLi//CER Technique (AutotelicBrown) \[Ayumu's Dab\]](https://osu.ppy.sh/beatmapsets/1044242#mania/2182981)
+  8. [Kakka - Alfheim (Tidek) \[Freya\]](https://osu.ppy.sh/beatmapsets/941878#mania/1966772)
+  9. [Hatsuki Yura - Salamandra no Odoriko (Raveille) \[Sprites\]](https://osu.ppy.sh/beatmapsets/836808#mania/1752295)
+  10. [Boys Like Girls - The Great Escape (Shoegazer) \[Departure 1.15x\]](https://osu.ppy.sh/beatmapsets/1186973#mania/2476817)
+  11. [Camellia as "Reverse of Riot" - Completeness Under Incompleteness ("true prooF" Long ver.) (Monheim) \[Spectral 1.15\]](https://osu.ppy.sh/beatmapsets/1134132#mania/2562333)
+  12. [Tenacious D - Master Exploder (Valedict) \[BLOW YA MIND 1.1x\]](https://osu.ppy.sh/beatmapsets/980802#mania/2052615)
+  13. [Camellia - flower of wilderness (-mint-) \[lily (cut 1.05x)\]](https://osu.ppy.sh/beatmapsets/1218077#mania/2534305)
+  14. [Le Dos-on - A (Elekton) \[ex 1.15 edit\]](https://osu.ppy.sh/beatmapsets/585451#mania/2534092)
+  15. [Frums - dropdead (Chrubble) \[fatality\]](https://osu.ppy.sh/beatmapsets/957823#mania/2186287)
+  16. [Moe Shop - Audiovisual (Paturages) \[720p\]](https://osu.ppy.sh/beatmapsets/1182067#mania/2495032)
 - Tiebreaker
-  - **[Camellia - Nacreous Snowmelt (-mint-) \[Pearlescence Edit\]](https://osu.ppy.sh/beatmapsets/1089407#mania/2588388)**
+  1. **[Camellia - Nacreous Snowmelt (-mint-) \[Pearlescence Edit\]](https://osu.ppy.sh/beatmapsets/1089407#mania/2588388)**
 
 ### Quarterfinals
 
 - FreeMod
-  - [Divine Heresy - Facebreaker (Shoegazer) \[Damnation\]](https://osu.ppy.sh/beatmapsets/1197643#mania/2494696)
-  - [Camellia - Maboroshi (-mint-) \[Mirage\]](https://osu.ppy.sh/beatmapsets/1210416#mania/2541097)
-  - [QUIL - Gympie Gympe (Valedict) \[1.15\]](https://osu.ppy.sh/beatmapsets/1233325#mania/2563988)
-  - [rissyuu feat. choko - Bi (Raveille) \[Bong Botes\]](https://osu.ppy.sh/beatmapsets/1012105#mania/2118448)
-  - [The Ghost of 3.13 - Forgotten (Shoegazer) \[Extra (263bpm)\]](https://osu.ppy.sh/beatmapsets/338665#mania/2436251)
-  - [Grimes - Kill V. Maim (BringoBrango) \[cut\]](https://osu.ppy.sh/beatmapsets/1181796#mania/2542323)
-  - [ZigZag - VerTex (\_underjoy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1069924#mania/2424979)
-  - [Venetian Snares - Frictional Nevada (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1047387#mania/2189312)
-  - [Igorrr & Ruby My Dear - Alain (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/999132#mania/2089593)
-  - [Triple-Q - Infinite Mashups (Valedict) \[Miscellaneous Mashing\]](https://osu.ppy.sh/beatmapsets/861402#mania/1802098)
-  - [Pyramyth - Dolphin Talk (TheToaphster) \[Echoes\]](https://osu.ppy.sh/beatmapsets/718149#mania/1516908)
-  - [Helblinde - C204 (LeiN-) \[Christina\]](https://osu.ppy.sh/beatmapsets/925325#mania/1933877)
-  - [Tipper - Bubble Control (cut) (lenpai) \[soapy\]](https://osu.ppy.sh/beatmapsets/781115#mania/2417385)
-  - [sakuraburst - anticrystal (Mipha-) \[spooky\]](https://osu.ppy.sh/beatmapsets/1223208#mania/2562631)
+  1. [Divine Heresy - Facebreaker (Shoegazer) \[Damnation\]](https://osu.ppy.sh/beatmapsets/1197643#mania/2494696)
+  2. [Camellia - Maboroshi (-mint-) \[Mirage\]](https://osu.ppy.sh/beatmapsets/1210416#mania/2541097)
+  3. [QUIL - Gympie Gympe (Valedict) \[1.15\]](https://osu.ppy.sh/beatmapsets/1233325#mania/2563988)
+  4. [rissyuu feat. choko - Bi (Raveille) \[Bong Botes\]](https://osu.ppy.sh/beatmapsets/1012105#mania/2118448)
+  5. [The Ghost of 3.13 - Forgotten (Shoegazer) \[Extra (263bpm)\]](https://osu.ppy.sh/beatmapsets/338665#mania/2436251)
+  6. [Grimes - Kill V. Maim (BringoBrango) \[cut\]](https://osu.ppy.sh/beatmapsets/1181796#mania/2542323)
+  7. [ZigZag - VerTex (\_underjoy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1069924#mania/2424979)
+  8. [Venetian Snares - Frictional Nevada (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1047387#mania/2189312)
+  9. [Igorrr & Ruby My Dear - Alain (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/999132#mania/2089593)
+  10. [Triple-Q - Infinite Mashups (Valedict) \[Miscellaneous Mashing\]](https://osu.ppy.sh/beatmapsets/861402#mania/1802098)
+  11. [Pyramyth - Dolphin Talk (TheToaphster) \[Echoes\]](https://osu.ppy.sh/beatmapsets/718149#mania/1516908)
+  12. [Helblinde - C204 (LeiN-) \[Christina\]](https://osu.ppy.sh/beatmapsets/925325#mania/1933877)
+  13. [Tipper - Bubble Control (cut) (lenpai) \[soapy\]](https://osu.ppy.sh/beatmapsets/781115#mania/2417385)
+  14. [sakuraburst - anticrystal (Mipha-) \[spooky\]](https://osu.ppy.sh/beatmapsets/1223208#mania/2562631)
 - Tiebreaker
-  - **[lapix - SYNERGY ([Crz]Crysarlene) \[miphather x crysather's union\]](https://osu.ppy.sh/beatmapsets/1069265#mania/2421665)**
+  1. **[lapix - SYNERGY ([Crz]Crysarlene) \[miphather x crysather's union\]](https://osu.ppy.sh/beatmapsets/1069265#mania/2421665)**
 
 ### Round of 16
 
 - FreeMod
-  - [Tyrfing - Verflucht (Shoegazer) \[Prophecy (216bpm)\]](https://osu.ppy.sh/beatmapsets/1171433#mania/2494675)
-  - [Tezuka feat. Oonishi Amimi - Bokura no Jikan (KeppSado) \[Lenfried's EXHAUST\]](https://osu.ppy.sh/beatmapsets/985765#mania/2062307)
-  - [Celldweller - Good L\_ck (Yo\_'re F\_cked) (AutotelicBrown) \[Ay\_m\_'s Desolation 1.35x\]](https://osu.ppy.sh/beatmapsets/1199295#mania/2497487)
-  - [Pastel\*Palettes - Yura-Yura Ring-Dong-Dance (Razzy) \[My Confidante\]](https://osu.ppy.sh/beatmapsets/870166#mania/1818485)
-  - [callasoiled - 4172756869 (isagen remix) (Elekton) \[dagbgefhfi\]](https://osu.ppy.sh/beatmapsets/881552#mania/1843149)
-  - [Lapix - Silvia (Azubeur) \[Another\]](https://osu.ppy.sh/beatmapsets/805336#mania/1690565)
-  - [nora2r - B.B.K.K.B.K.K. (RemiFlan) \[KICK KICK KICK KICK KICK KICK\]](https://osu.ppy.sh/beatmapsets/530022#mania/1123676)
-  - [Shiro Sagisu - Quatre Mains (a quatre mains) =3EM16= (Fullerene-) \[OD8\]](https://osu.ppy.sh/beatmapsets/1217631#mania/2533429)
-  - [YUC'e - Future Cider (snexe) \[Stage 4: Saccharine\]](https://osu.ppy.sh/beatmapsets/720291#mania/1520784)
-  - [X Kirby - Epic Manner (Guilhermeziat) \[Epic Streamz lol xd\]](https://osu.ppy.sh/beatmapsets/970737#mania/2032750)
-  - [Lil Peep & XXXTENTACION - Falling Down (Kamuy) \[downpour\]](https://osu.ppy.sh/beatmapsets/1132929#mania/2366298)
-  - [U-F SEQUENCER - -273.15 FREEZING MAELSTROM -Rei- (Elekton) \[cryo\]](https://osu.ppy.sh/beatmapsets/745749#mania/1572067)
-  - [Culprate - Yin (Toaph Daddy) \[Challenge (LN-edit)\]](https://osu.ppy.sh/beatmapsets/1057101#mania/2475793)
-  - [Frums - Wavetapper (-mint-) \[PASTFEELING\]](https://osu.ppy.sh/beatmapsets/866661#mania/2208846)
+  1. [Tyrfing - Verflucht (Shoegazer) \[Prophecy (216bpm)\]](https://osu.ppy.sh/beatmapsets/1171433#mania/2494675)
+  2. [Tezuka feat. Oonishi Amimi - Bokura no Jikan (KeppSado) \[Lenfried's EXHAUST\]](https://osu.ppy.sh/beatmapsets/985765#mania/2062307)
+  3. [Celldweller - Good L\_ck (Yo\_'re F\_cked) (AutotelicBrown) \[Ay\_m\_'s Desolation 1.35x\]](https://osu.ppy.sh/beatmapsets/1199295#mania/2497487)
+  4. [Pastel\*Palettes - Yura-Yura Ring-Dong-Dance (Razzy) \[My Confidante\]](https://osu.ppy.sh/beatmapsets/870166#mania/1818485)
+  5. [callasoiled - 4172756869 (isagen remix) (Elekton) \[dagbgefhfi\]](https://osu.ppy.sh/beatmapsets/881552#mania/1843149)
+  6. [Lapix - Silvia (Azubeur) \[Another\]](https://osu.ppy.sh/beatmapsets/805336#mania/1690565)
+  7. [nora2r - B.B.K.K.B.K.K. (RemiFlan) \[KICK KICK KICK KICK KICK KICK\]](https://osu.ppy.sh/beatmapsets/530022#mania/1123676)
+  8. [Shiro Sagisu - Quatre Mains (a quatre mains) =3EM16= (Fullerene-) \[OD8\]](https://osu.ppy.sh/beatmapsets/1217631#mania/2533429)
+  9. [YUC'e - Future Cider (snexe) \[Stage 4: Saccharine\]](https://osu.ppy.sh/beatmapsets/720291#mania/1520784)
+  10. [X Kirby - Epic Manner (Guilhermeziat) \[Epic Streamz lol xd\]](https://osu.ppy.sh/beatmapsets/970737#mania/2032750)
+  11. [Lil Peep & XXXTENTACION - Falling Down (Kamuy) \[downpour\]](https://osu.ppy.sh/beatmapsets/1132929#mania/2366298)
+  12. [U-F SEQUENCER - -273.15 FREEZING MAELSTROM -Rei- (Elekton) \[cryo\]](https://osu.ppy.sh/beatmapsets/745749#mania/1572067)
+  13. [Culprate - Yin (Toaph Daddy) \[Challenge (LN-edit)\]](https://osu.ppy.sh/beatmapsets/1057101#mania/2475793)
+  14. [Frums - Wavetapper (-mint-) \[PASTFEELING\]](https://osu.ppy.sh/beatmapsets/866661#mania/2208846)
 - Tiebreaker
-  - **[Camellia - farewell to today (-mint-) \[adieu\]](https://osu.ppy.sh/beatmapsets/1114788#mania/2328702)**
+  1. **[Camellia - farewell to today (-mint-) \[adieu\]](https://osu.ppy.sh/beatmapsets/1114788#mania/2328702)**
 
 ### Group stage
 
 - FreeMod
-  - [Cardboard Box - Nest (Guilhermeziat) \[Yolk 1.1\]](https://osu.ppy.sh/beatmapsets/576883#mania/2433644)
-  - [PSYQUI - Stepper (Scotty) \[impression\]](https://osu.ppy.sh/beatmapsets/1065389#mania/2230933)
-  - [40mP - Junjou Skirt (Monheim) \[Pure-Hearted\]](https://osu.ppy.sh/beatmapsets/1155440#mania/2411258)
-  - [DJ'TEKINA//SOMETHING - Internet bitch P*Light Remix (juankristal) \[Stage 3: E-girl\]](https://osu.ppy.sh/beatmapsets/1076027#mania/2251585)
-  - [sasakure.UK - Xlo (Valedict) \[Another\]](https://osu.ppy.sh/beatmapsets/1170658#mania/2442125)
-  - [Porter Robinson - Flicker (Hydria) \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560#mania/1045578)
-  - [Fractal Dreamers - Celestial Horizon (TheToaphster) \[Haven\]](https://osu.ppy.sh/beatmapsets/761380#mania/1601033)
-  - [An - ExaVid (Cut) (Abraxos) \[the end\]](https://osu.ppy.sh/beatmapsets/1229106#mania/2555585)
-  - [Feint - Tower Of Heaven (You Are Slaves) (noftrahtcehe) \[Hydria's SC\]](https://osu.ppy.sh/beatmapsets/597543#mania/1263201)
-  - [cubesato - My First Phone (Raveille) \[My First Long Note Map\]](https://osu.ppy.sh/beatmapsets/917317#mania/1915742)
-  - [Underoath - Coming Down Is Calming Down (Shoegazer) \[Desperation\]](https://osu.ppy.sh/beatmapsets/882967#mania/1845963)
-  - [Morimori Atsushi - MilK (Guilhermeziat) \[SilV\]](https://osu.ppy.sh/beatmapsets/967318#mania/2024439)
+  1. [Cardboard Box - Nest (Guilhermeziat) \[Yolk 1.1\]](https://osu.ppy.sh/beatmapsets/576883#mania/2433644)
+  2. [PSYQUI - Stepper (Scotty) \[impression\]](https://osu.ppy.sh/beatmapsets/1065389#mania/2230933)
+  3. [40mP - Junjou Skirt (Monheim) \[Pure-Hearted\]](https://osu.ppy.sh/beatmapsets/1155440#mania/2411258)
+  4. [DJ'TEKINA//SOMETHING - Internet bitch P*Light Remix (juankristal) \[Stage 3: E-girl\]](https://osu.ppy.sh/beatmapsets/1076027#mania/2251585)
+  5. [sasakure.UK - Xlo (Valedict) \[Another\]](https://osu.ppy.sh/beatmapsets/1170658#mania/2442125)
+  6. [Porter Robinson - Flicker (Hydria) \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560#mania/1045578)
+  7. [Fractal Dreamers - Celestial Horizon (TheToaphster) \[Haven\]](https://osu.ppy.sh/beatmapsets/761380#mania/1601033)
+  8. [An - ExaVid (Cut) (Abraxos) \[the end\]](https://osu.ppy.sh/beatmapsets/1229106#mania/2555585)
+  9. [Feint - Tower Of Heaven (You Are Slaves) (noftrahtcehe) \[Hydria's SC\]](https://osu.ppy.sh/beatmapsets/597543#mania/1263201)
+  10. [cubesato - My First Phone (Raveille) \[My First Long Note Map\]](https://osu.ppy.sh/beatmapsets/917317#mania/1915742)
+  11. [Underoath - Coming Down Is Calming Down (Shoegazer) \[Desperation\]](https://osu.ppy.sh/beatmapsets/882967#mania/1845963)
+  12. [Morimori Atsushi - MilK (Guilhermeziat) \[SilV\]](https://osu.ppy.sh/beatmapsets/967318#mania/2024439)
 - Tiebreaker
-  - **[Camellia - kannabis kultivation (Kamuy) \[psychoactive\]](https://osu.ppy.sh/beatmapsets/1065342#mania/2473505)**
+  1. **[Camellia - kannabis kultivation (Kamuy) \[psychoactive\]](https://osu.ppy.sh/beatmapsets/1065342#mania/2473505)**
 
 ## Match results
 

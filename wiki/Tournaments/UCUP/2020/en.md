@@ -35,8 +35,8 @@ The Ulat Bulu Cup 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773) |
-| Co-organiser | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174) |
+| Organizer | ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773) |
+| Co-organizer | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174) |
 | Mappool selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128) |
 | Referee | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275), ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919), ![][flag_ID] [Eg2nD](https://osu.ppy.sh/users/5365662), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Ryuujou](https://osu.ppy.sh/users/3416659), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465) |
 | Caster | ![][flag_ID] [Alice Pi](https://osu.ppy.sh/users/8787324), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
@@ -459,7 +459,7 @@ Sunday, 14 June 2020:
    - The team's maximum average BWS rank is #3,000
      - Badge-weighted seeding (BWS) is used in this tournament to more accurately seed players and enforce rank restrictions. It works by taking into account the amount of recorded tournament wins (via badges) that a player has in addition to their rank.
 6. Formed team must have at least **2 members** with a maximum of **3 members**.
-7. Match scheduling is decided by the organisers. Players may feel free to ask for a reschedule if the given schedule doesn't work for them.
+7. Match scheduling is decided by the organizers. Players may feel free to ask for a reschedule if the given schedule doesn't work for them.
 
 ### Stage regulations
 

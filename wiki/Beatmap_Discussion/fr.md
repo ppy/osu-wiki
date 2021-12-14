@@ -10,6 +10,8 @@ tags:
 
 # Discussion de la beatmap
 
+*Voir également : [Modding v1](/wiki/Modding/Forum_modding)*
+
 La **discussion de la beatmap** (aussi connu sous le nom de *Modding v2*) est un système pour gérer et simplifier le processus de [modding](/wiki/Modding). Il vise à fournir une interface claire et compréhensible, où l'amélioration d'une beatmap est au centre des préoccupations. Lorsqu'une beatmap est [soumise](/wiki/Submission), une page de discussion est automatiquement créée à côté de la page d'information de la beatmap. Lorsque la beatmap est mis à jour, la page de discussion est également mise à jour. La page de discussion peut être atteinte en cliquant sur le bouton `Discussion` de la page d'information. La page de discussion de la beatmap se compose de quelques éléments (de haut en bas) :
 
 - La sélection du mode
@@ -42,7 +44,7 @@ La sélection du mode change le [mode de jeu](/wiki/Game_mode) que vous modifiez
 
 ## En-tête de la beatmap
 
-*Pour plus d'informations sur le paramétrage des métadonnées, voir : [Song Setup § Song and Map Metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
+*Pour plus d'informations sur le paramétrage des métadonnées, voir : [Song Setup § Song and Map Metadata](/wiki/Beatmap_Editor/Song_Setup#métadonnées-des-chansons-et-des-maps)*
 
 ![](img/beatmap-header.png "En-tête de la beatmap")
 
@@ -90,7 +92,7 @@ Le train de la hype permet de savoir combien de [hypes](/wiki/Beatmap/Hype) un m
 
 ### Statut de la nomination
 
-Le statut de la nomination permet de suivre les nominations d'une beatmap. Lorsqu'une beatmap a reçu deux nominations, elle est qualifié.
+Le statut de la nomination permet de suivre les nominations d'une beatmap. Lorsqu'une beatmap a reçu deux nominations, elle est [qualifié](/wiki/Beatmap/Category#qualifiée).
 
 ### Informations générales
 
@@ -130,7 +132,7 @@ Si vous postez dans l'onglet `Chronologie`, vous devez inclure un horodatage dan
 
 ## Discussions
 
-![](img/discussions-FR.png "Là où la discussion a lieu !")
+![](img/discussion-FR.png "Là où la discussion a lieu !")
 
 Les discussions sont l'endroit où les messages du [champ de soumission](#champ-de-soumission) sont placés une fois soumis. Les utilisateurs qui visitent une page de discussion peuvent voir les messages rédigés par tous les autres utilisateurs, et pourront participer à la discussion sur les messages. Pour ce faire, il suffit de cliquer sur les boutons "Répondre" ou "Répliquer" sous un message et d'écrire une réponse. Après avoir terminé une réponse, appuyez sur la touche "Entrée" ou cliquez sur "Répondre" pour la soumettre à la discussion.
 

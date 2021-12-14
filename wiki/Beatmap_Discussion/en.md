@@ -9,6 +9,8 @@ tags:
 
 # Beatmap discussion
 
+*See also: [Modding v1](/wiki/Modding/Forum_modding)*
+
 **Beatmap discussion** (also known as *Modding v2*) is a system to manage and simplify the process of [modding](/wiki/Modding). It aims to provide a clear and understandable interface, where the improvement of a beatmap is in focus. When a beatmap is [submitted](/wiki/Submission), a discussion page is automatically created alongside the beatmap info page. When the beatmap is updated, the discussion page will be updated as well. The discussion page can be reached by clicking on the `Discussion` button on the info page. The beatmap discussion page consists of a few elements (from top-to-bottom):
 
 - Mode selection
@@ -89,7 +91,7 @@ The hype train tracks how many [hypes](/wiki/Beatmap/Hype) a mapset has received
 
 ### Nomination status
 
-The nomination status bar tracks a beatmap's nominations. Once a beatmap has received two nominations it will be qualified. <!--TODO: Insert 'Qualified' link-->
+The nomination status bar tracks a beatmap's nominations. Once a beatmap has received two nominations it will be [qualified](/wiki/Beatmap/Category#qualified)
 
 ### General info
 
@@ -115,7 +117,7 @@ Modding happens through three tabs, which separate posts of different types and 
 
 `Timeline` shows posts at specific points of a difficulty according to the first timestamp placed. Every post in this tab must include a timestamp to be posted. Any timestamps later on will have no influence on post order.
 
-`History` logs all changes to a discussion page in chronological order. Changes are colorcoded; with green being resolved posts and status changes, red being new problems after nomination, and blue being everything else. Clicking on any reference number will jump to the specific post. This tab is not used while modding, but is useful for [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and other staff to check issues.
+`History` logs all changes to a discussion page in chronological order. Changes are colour-coded with green being resolved posts and status changes, red being new problems after nomination, and blue being everything else. Clicking on any reference number will jump to the specific post. This tab is not used while modding, but is useful for [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and other staff to check issues.
 
 ## Submission field
 
@@ -123,7 +125,7 @@ Modding happens through three tabs, which separate posts of different types and 
 
 The submission field is where [mods](/wiki/Modding) are written. Once written, the mod must be submitted to the discussion page. This can be done by pressing one of the three type buttons; `Praise`, `Suggestion` or `Problem`.
 
-`Praise` is used for praise and encouragment. `Suggestion` is used for posts which aren't directly in conflict with any rules. `Problem` is used for posts which are in direct conflict with the [Ranking Criteria](/wiki/Ranking_Criteria), or which are considered intersubjectively wrong. Once a button is pressed the mod will be submitted to the discussion page.
+`Praise` is used for praise and encouragement. `Suggestion` is used for posts which aren't directly in conflict with any rules. `Problem` is used for posts which are in direct conflict with the [Ranking Criteria](/wiki/Ranking_Criteria), or which are considered intersubjectively wrong. Once a button is pressed the mod will be submitted to the discussion page.
 
 If you post in the `Timeline` tab, you must include a timestamp in your post. If your timestamp is close to another mod, you will have to confirm that it doesn't address the issue you are currently submitting. **Check each post before checking the box!** It might be beneficial to `Pin` the modding field while checking other issues. Enabling the pin will allow the submission field to scroll with you.
 
@@ -131,7 +133,7 @@ If you post in the `Timeline` tab, you must include a timestamp in your post. If
 
 ![](img/discussions.jpg "Where the discussion takes place!")
 
-Discussions are where posts from the [submission field](#submission-field) are placed once submitted. Users visiting a discussion page can see posts made by all other users, and will be able to participate in discussion on posts. This is done by clicking the `Respond` or `Reply` buttons below a post and writing a response. After finishing a reponse, pressing `Enter` or clicking `Reply` will submit it to the discussion.
+Discussions are where posts from the [submission field](#submission-field) are placed once submitted. Users visiting a discussion page can see posts made by all other users, and will be able to participate in discussion on posts. This is done by clicking the `Respond` or `Reply` buttons below a post and writing a response. After finishing a response, pressing `Enter` or clicking `Reply` will submit it to the discussion.
 
 The beatmap creator and authors of modposts have the ability to close issues with the `Mark as Resolved` button. This marks the issue has having been dealt with to other users and removes it from the `Pending` [sorting option](#sorting-options). Modposts can be reopened by any user by adding further replies to a post and clicking `Reply and Reopen`. This is used when modders stumble upon closed issues which have not been fixed fully, or a topic needs further discussion.
 

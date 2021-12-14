@@ -51,6 +51,16 @@ Kamu juga dapat mengajukan banding terhadap status *restricted* yang kamu miliki
 
 Harap kunjungi laman *[Pembatasan Akun](/wiki/Help_Centre/Account_Restrictions)* untuk informasi lebih lanjut mengenai sistem pembatasan akun dan proses banding yang berlaku.
 
+## Larangan turnamen
+
+### Apa itu larangan turnamen?
+
+Larangan turnamen merupakan larangan pada pemain untuk dapat berpartisipasi pada seluruh turnamen resmi.
+
+Seorang pengguna dapat dikenakan larangan turnamen jika pengguna secara sengaja melanggar peraturan komunitas osu! selama bermain dalam turnamen, tergantung dari tingkat pelanggarannya. Sebagai contoh perilaku buruk tersebut yaitu mencoba untuk mendapatkan keuntungan yang tidak adil pada turnamen resmi, berperilaku kasar pada semua pihak yang terlibat dalam turnamen, atau secara sengaja melakukan tindakan yang mengganggu jalannya turnamen.
+
+Secara umum, larangan turnamen memiliki durasi dari 3 bulan hingga lebih dari setahun. Bahkan larangan dapat bersifat permanen. Meskipun demikian, semua larangan turnamen bersifat **final** dan tidak dapat diajukan banding seperti pembatasan akun.
+
 ## Proses *login*
 
 ### Saya tidak ingat nama pengguna dan kata sandi milik saya!

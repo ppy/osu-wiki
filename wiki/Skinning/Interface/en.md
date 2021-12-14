@@ -1,6 +1,6 @@
 # Interface skinning
 
-*See also: [Skinning Interface Tutorial](/wiki/Skinning/Guides_and_important_threads) and [Interface](/wiki/Interface)*
+*See also: [Interface](/wiki/Interface)*
 
 Interface skinning elements are used in multiple game modes or parts of the client's user interface.
 
@@ -26,7 +26,7 @@ Notes:
   - If it is set to `Sometimes` the seasonal backgrounds will override this element while they are in active use.
 - `.jpg` extension only.
   - If the image type is `.png` change the extension to `.jpg`.
-    - If the background is transparent, the background color will be black.
+    - If the background is transparent, the background colour will be black.
 - The player can drag and drop an image to overwrite the skin's skinned image. **This will replace the image in the skin's folder!**
 
 ---
@@ -836,7 +836,7 @@ Notes:
 
 ### Hit bursts
 
-*Main page: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hierarchy)*
+*Main page: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hit-score-hierarchy)*
 
 ---
 

@@ -8,7 +8,7 @@ outdated: true
 
 # Advanced Global Taiko Showdown 2019
 
-![AGTS 2019 Logo](img/logo.png)
+![AGTS 2019 Logo](img/logo.jpg)
 
 L'**Advanced Global Taiko Showdown 2019** (***AGTS 2019***) est un tournoi par pays en format double élimination, deux-contre-deux organisé par ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) et ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) dans le mode de jeu osu!taiko. C'était le troisième tournoi de la série Global Taiko Showdown.
 
@@ -495,10 +495,10 @@ All-stars est un événement fait pour le fun, se déroulant le même week-end q
 [flag_CN]: /wiki/shared/flag/CN.gif "Chine"
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_DK]: /wiki/shared/flag/DK.gif "Danemark"
-[flag_EC]: /wiki/shared/flag/EC.gif "Equateur"
+[flag_EC]: /wiki/shared/flag/EC.gif "Équateur"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
@@ -510,7 +510,7 @@ All-stars est un événement fait pour le fun, se déroulant le même week-end q
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"

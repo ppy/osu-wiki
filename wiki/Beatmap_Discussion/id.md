@@ -7,6 +7,8 @@ tags:
 
 # Diskusi beatmap
 
+*Lihat juga: [Modding v1](/wiki/Modding/Forum_modding)*
+
 **Diskusi beatmap** (juga dikenal sebagai *Modding v2*) adalah sistem untuk mengatur dan memudahkan proses dari [modding](/wiki/Modding). Diskusi beatmap bertujuan untuk memberikan antarmuka yang jelas dan dapat dimengerti, yang di mana peningkatan pada beatmap menjadi hal yang utama. Ketika beatmap telah [dikirim](/wiki/Submission), laman diskusi secara otomatis dibuat di samping laman info beatmap. Ketika beatmap diperbarui, laman diskusi juga akan diperbarui. Laman diskusi dapat diakses dengan mengklik tombol `Diskusi` pada laman info. Laman diskusi beatmap terdiri dari beberapa elemen (dari atas ke bawah):
 
 - Pemilihan mode
@@ -41,7 +43,7 @@ Pemilihan mode merubah [mode permainan](/wiki/Game_mode) yang kamu modding. Pemi
 
 *Untuk informasi tentang pengaturan metadata, lihat: [Pengaturan Lagu & Metadata Map dan Lagu](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
 
-![](img/beatmap-header.jpg "Beatmap header")
+![](img/beatmap-header.png "Beatmap header")
 
 Beatmap header menampilkan judul dan artis yang telah ditentukan di dalam [beatmap editor](/wiki/Beatmap_Editor). Mengklik beatmap header akan mengarahkan kembali ke laman info.
 
@@ -87,7 +89,7 @@ Hype train melacak berapa banyak [hype](/wiki/Beatmap/Hype) mapset yang telah di
 
 ### Status nominasi
 
-Status bar nominasi akan melacak nominasi dari sebuah beatmap. Setelah beatmap tersebut menerima dua nominasi, maka beatmap tersebut akan dikualifikasikan.
+Status bar nominasi akan melacak nominasi dari sebuah beatmap. Setelah beatmap tersebut menerima dua nominasi, maka beatmap tersebut akan [di-qualified](/wiki/Beatmap/Category#qualified).
 
 ### Informasi umum
 

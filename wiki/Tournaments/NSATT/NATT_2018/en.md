@@ -38,7 +38,7 @@ The North American Taiko Tournament 2018 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) |
+| Organizer | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) |
 | Mappool selector | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
 | Referee | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [Dargin](https://osu.ppy.sh/users/7086439), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
 | Commentator | ![][flag_US] [Dargin](https://osu.ppy.sh/users/7086439), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |

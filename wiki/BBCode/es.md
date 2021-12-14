@@ -133,7 +133,7 @@ Ajusta relativamente el tamaño del texto.
 
 ### Spoiler
 
-*No debe confundirse con [Spoilerbox](#spoilerbox).*
+*No debe confundirse con [Spoilerbox](#caja-spoiler).*
 
 **Cubre el texto** con un fondo negro.
 
@@ -167,7 +167,7 @@ El lector, sin embargo, puede leer el párrafo haciendo clic en la spoilerbox pa
 
 ### Caja
 
-*No debe confundirse con [Spoilerbox](#spoilerbox).*
+*No debe confundirse con [Spoilerbox](#caja-spoiler).*
 
 **Oculta un párrafo** dentro de un cuadro identificable por el lector.
 El lector puede mostrar el párrafo haciendo clic en el nombre del cuadro.

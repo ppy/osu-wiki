@@ -48,6 +48,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | 名字 | 语言 | 专注范围 |
 | :-- | :-- | :-- |
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | 德语 | 聊天室管理员 |
+| ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) | 匈牙利语 | 聊天室管理员 |
 | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 俄语 | 聊天室管理员 |
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | 论坛管理员 |
 | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) |  | 锦标赛管理员 |
@@ -91,7 +92,6 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方团队 |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | 菲律宾语 | 聊天室管理员 |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | 德语 | 锦标赛管理员 |
-| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | 法语，部分西班牙语 | 聊天室管理员，论坛管理员，谱面制作社群的管理工作 |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | 葡萄牙语 | 聊天室管理员 |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | 粤语，中文 | 聊天室管理员 |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | 韩语，日语 | 聊天室管理员 |
@@ -117,7 +117,6 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | 波兰语 | 聊天室管理员 |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | 聊天室管理员 |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | 土耳其语，德语 | 聊天室管理员 |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | 聊天室管理员 |
 
 ### 按语言分组
 
@@ -137,7 +136,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985), ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#greek` |  |  |
 | `#hebrew` |  |  |
-| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) |  |
+| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) |
 | `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) |
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
@@ -167,6 +166,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 [flag_GB]: /wiki/shared/flag/GB.gif "英国"
 [flag_HK]: /wiki/shared/flag/HK.gif "香港"
 [flag_HM]: /wiki/shared/flag/HM.gif "赫德岛和麦克唐纳群岛"
+[flag_HU]: /wiki/shared/flag/HU.gif "匈牙利"
 [flag_ID]: /wiki/shared/flag/ID.gif "印度尼西亚"
 [flag_IT]: /wiki/shared/flag/IT.gif "意大利"
 [flag_JP]: /wiki/shared/flag/JP.gif "日本"

@@ -94,13 +94,13 @@ The default controls for osu! are:
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
 
-If [Relax](/wiki/Game_modifier/Relax) game modifer was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
+If [Relax](/wiki/Game_modifier/Relax) game modifier was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
 
 If [Auto Pilot](/wiki/Game_modifier/Autopilot) game modifier was used, only the input from the input device will work. Time the tap on the hit objects with automated cursor movement. Spinners will follow the [Spun Out](/wiki/Game_modifier/Spun_Out) mod speed.
 
 ## Scoring
 
-*Scoring Values can be found in [Score under osu! Scoring Values section](/wiki/Score#osu).*
+*Scoring values can be found in [osu! scoring system](/wiki/Score/osu!).*
 
 Scoring section details all the intricacies of scoring, including mathematical formula.
 
@@ -266,7 +266,7 @@ The system used to calculate health drain and health gain is complicated so it w
 - Changing spin direction in the middle of a spin will cause the spinner to slow down (spins per minute will go down to 0 to reset the spin orientation), then spin in the correct direction. The spin progress will not be lost during the reorientation (it will not increase instead), and will continue to increase on reverse spin.
 - Not spinning around the centre core of the spinner will **not** be considered as a valid spin.
 - Smoke last longer than default in-game cursor trail. Apply smoke effects sparsely to prevent old smoke effects disappearing too quickly.
-- Mascot for osu! is [pippi](/wiki/Mascots#-pippi).
+- Mascot for osu! is [pippi](/wiki/Mascots#pippi).
 - When played by [Auto](/wiki/Game_modifier/Auto), the player name will be osu!.
 
 ### History
@@ -285,4 +285,4 @@ The system used to calculate health drain and health gain is complicated so it w
   - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 ) , or `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16), or `Brandy - Love Fighter`.
 - Notably, the older folders have their own naming convention (the folder names can only be found in *ancient* beatmap packs) and does not strictly follow the current enforced `{BeatmapSetID} {ArtistName} - {BeatmapName}` format.
-  - Downloading directly from the osu!website beatmaplist does follow the current enforced naming format regardless.
+  - Downloading directly from the osu!website beatmap list does follow the current enforced naming format regardless.

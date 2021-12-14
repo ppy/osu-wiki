@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: c7f544369a2aada51f6d62a7725382afb03a6373
 ---
 
 # 難度命名
@@ -14,11 +16,11 @@ no_native_review: true
 
 ### osu!
 
-- ![](/wiki/shared/diff/easy-s.png) Easy　(簡單)
-- ![](/wiki/shared/diff/normal-s.png) Normal (普通)
-- ![](/wiki/shared/diff/hard-s.png) Hard (困難)
-- ![](/wiki/shared/diff/insane-s.png) Insane (瘋狂)
-- ![](/wiki/shared/diff/expert-s.png) Expert (專家)
+- ![](/wiki/shared/diff/easy-o.png) Easy　(簡單)
+- ![](/wiki/shared/diff/normal-o.png) Normal (普通)
+- ![](/wiki/shared/diff/hard-o.png) Hard (困難)
+- ![](/wiki/shared/diff/insane-o.png) Insane (瘋狂)
+- ![](/wiki/shared/diff/expert-o.png) Expert (專家)
 
 ### osu!taiko
 
@@ -51,146 +53,146 @@ no_native_review: true
 
 ### Beatmania IIDX
 
-- ![](/wiki/shared/diff/easy-s.png) Beginner
-- ![](/wiki/shared/diff/normal-s.png) Normal
-- ![](/wiki/shared/diff/hard-s.png) Hyper
-- ![](/wiki/shared/diff/insane-s.png) Another
-- ![](/wiki/shared/diff/expert-s.png) Black Another
-- ![](/wiki/shared/diff/expertplus-s.png) Leggendaria
+- ![](/wiki/shared/diff/easy-o.png) Beginner
+- ![](/wiki/shared/diff/normal-o.png) Normal
+- ![](/wiki/shared/diff/hard-o.png) Hyper
+- ![](/wiki/shared/diff/insane-o.png) Another
+- ![](/wiki/shared/diff/expert-o.png) Black Another
+- ![](/wiki/shared/diff/expertplus-o.png) Leggendaria
 
 ### DanceDanceRevolution
 
-- ![](/wiki/shared/diff/easy-s.png) Beginner
-- ![](/wiki/shared/diff/normal-s.png) Basic
-- ![](/wiki/shared/diff/hard-s.png) Difficult
-- ![](/wiki/shared/diff/insane-s.png) Expert
-- ![](/wiki/shared/diff/expert-s.png) Challenge
+- ![](/wiki/shared/diff/easy-o.png) Beginner
+- ![](/wiki/shared/diff/normal-o.png) Basic
+- ![](/wiki/shared/diff/hard-o.png) Difficult
+- ![](/wiki/shared/diff/insane-o.png) Expert
+- ![](/wiki/shared/diff/expert-o.png) Challenge
 
 ### DJMAX
 
-- ![](/wiki/shared/diff/easy-s.png) EZ
-- ![](/wiki/shared/diff/normal-s.png) NM
-- ![](/wiki/shared/diff/hard-s.png) HD
-- ![](/wiki/shared/diff/insane-s.png) MX
-- ![](/wiki/shared/diff/expert-s.png) SC
+- ![](/wiki/shared/diff/easy-o.png) EZ
+- ![](/wiki/shared/diff/normal-o.png) NM
+- ![](/wiki/shared/diff/hard-o.png) HD
+- ![](/wiki/shared/diff/insane-o.png) MX
+- ![](/wiki/shared/diff/expert-o.png) SC
 
 ### EZ2DJ, EZ2AC
 
-- ![](/wiki/shared/diff/easy-s.png) EZ
-- ![](/wiki/shared/diff/normal-s.png) NM
-- ![](/wiki/shared/diff/hard-s.png) HD
-- ![](/wiki/shared/diff/insane-s.png) SHD
-- ![](/wiki/shared/diff/expert-s.png) EX
+- ![](/wiki/shared/diff/easy-o.png) EZ
+- ![](/wiki/shared/diff/normal-o.png) NM
+- ![](/wiki/shared/diff/hard-o.png) HD
+- ![](/wiki/shared/diff/insane-o.png) SHD
+- ![](/wiki/shared/diff/expert-o.png) EX
 
 ### In The Groove
 
-- ![](/wiki/shared/diff/easy-s.png) Novice
-- ![](/wiki/shared/diff/easy-s.png) Easy
-- ![](/wiki/shared/diff/normal-s.png) Medium
-- ![](/wiki/shared/diff/hard-s.png) Hard
-- ![](/wiki/shared/diff/insane-s.png) Expert
+- ![](/wiki/shared/diff/easy-o.png) Novice
+- ![](/wiki/shared/diff/easy-o.png) Easy
+- ![](/wiki/shared/diff/normal-o.png) Medium
+- ![](/wiki/shared/diff/hard-o.png) Hard
+- ![](/wiki/shared/diff/insane-o.png) Expert
 
 ### Pop'n Music
 
-- ![](/wiki/shared/diff/easy-s.png) Easy
-- ![](/wiki/shared/diff/normal-s.png) Normal
-- ![](/wiki/shared/diff/hard-s.png) Hyper
-- ![](/wiki/shared/diff/insane-s.png) EX
+- ![](/wiki/shared/diff/easy-o.png) Easy
+- ![](/wiki/shared/diff/normal-o.png) Normal
+- ![](/wiki/shared/diff/hard-o.png) Hyper
+- ![](/wiki/shared/diff/insane-o.png) EX
 
 ### SOUND VOLTEX
 
 *大型的 SOUND VOLTEX 譜集常常使用多個版本的命名方式，即使該歌曲沒有在每個版本都出現。*
 
-- ![](/wiki/shared/diff/easy-s.png) BASIC / BSC
-- ![](/wiki/shared/diff/normal-s.png) NOVICE / NOV
-- ![](/wiki/shared/diff/hard-s.png) ADVANCED / ADV
-- ![](/wiki/shared/diff/insane-s.png) EXHAUST / EXH
+- ![](/wiki/shared/diff/easy-o.png) BASIC / BSC
+- ![](/wiki/shared/diff/normal-o.png) NOVICE / NOV
+- ![](/wiki/shared/diff/hard-o.png) ADVANCED / ADV
+- ![](/wiki/shared/diff/insane-o.png) EXHAUST / EXH
 
 #### SOUND VOLTEX II -infinite infection-
 
-- ![](/wiki/shared/diff/expert-s.png) INFINITE / INF
+- ![](/wiki/shared/diff/expert-o.png) INFINITE / INF
 
 #### SOUND VOLTEX III GRAVITY WARS
 
-- ![](/wiki/shared/diff/expert-s.png) GRAVITY / GRV
+- ![](/wiki/shared/diff/expert-o.png) GRAVITY / GRV
 
 #### SOUND VOLTEX IV HEAVENLY HAVEN
 
-- ![](/wiki/shared/diff/expert-s.png) MAXIMUM / MXM
-- ![](/wiki/shared/diff/expertplus-s.png) HEAVENLY / HVN
+- ![](/wiki/shared/diff/expert-o.png) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expertplus-o.png) HEAVENLY / HVN
 
 #### SOUND VOLTEX VIVID WAVE
 
-- ![](/wiki/shared/diff/expert-s.png) MAXIMUM / MXM
-- ![](/wiki/shared/diff/expertplus-s.png) VIVID / VVD
+- ![](/wiki/shared/diff/expert-o.png) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expertplus-o.png) VIVID / VVD
 
 ### Arcaea
 
-- ![](/wiki/shared/diff/normal-s.png) Past
-- ![](/wiki/shared/diff/hard-s.png) Present
-- ![](/wiki/shared/diff/insane-s.png) Future
-- ![](/wiki/shared/diff/expert-s.png) Beyond
+- ![](/wiki/shared/diff/normal-o.png) Past
+- ![](/wiki/shared/diff/hard-o.png) Present
+- ![](/wiki/shared/diff/insane-o.png) Future
+- ![](/wiki/shared/diff/expert-o.png) Beyond
 
 ### Lanota
 
-- ![](/wiki/shared/diff/normal-s.png) Whisper
-- ![](/wiki/shared/diff/hard-s.png) Acoustic
-- ![](/wiki/shared/diff/insane-s.png) Ultra
-- ![](/wiki/shared/diff/expert-s.png) Master
+- ![](/wiki/shared/diff/normal-o.png) Whisper
+- ![](/wiki/shared/diff/hard-o.png) Acoustic
+- ![](/wiki/shared/diff/insane-o.png) Ultra
+- ![](/wiki/shared/diff/expert-o.png) Master
 
 ### maimai, CHUNITHM, Ongeki
 
-- ![](/wiki/shared/diff/easy-s.png) EASY
-- ![](/wiki/shared/diff/normal-s.png) BASIC
-- ![](/wiki/shared/diff/hard-s.png) ADVANCED
-- ![](/wiki/shared/diff/insane-s.png) EXPERT
-- ![](/wiki/shared/diff/expert-s.png) MASTER
+- ![](/wiki/shared/diff/easy-o.png) EASY
+- ![](/wiki/shared/diff/normal-o.png) BASIC
+- ![](/wiki/shared/diff/hard-o.png) ADVANCED
+- ![](/wiki/shared/diff/insane-o.png) EXPERT
+- ![](/wiki/shared/diff/expert-o.png) MASTER
 
 #### maimai
 
-- ![](/wiki/shared/diff/expertplus-s.png) Re:MASTER
+- ![](/wiki/shared/diff/expertplus-o.png) Re:MASTER
 
 #### CHUNITHM
 
-- ![](/wiki/shared/diff/expertplus-s.png) WORLD'S END
+- ![](/wiki/shared/diff/expertplus-o.png) WORLD'S END
 
 #### Ongeki
 
-- ![](/wiki/shared/diff/expertplus-s.png) LUNATIC
+- ![](/wiki/shared/diff/expertplus-o.png) LUNATIC
 
 ### Cytus, Deemo, VOEZ
 
-- ![](/wiki/shared/diff/easy-s.png) Easy
-- ![](/wiki/shared/diff/normal-s.png) Normal
-- ![](/wiki/shared/diff/hard-s.png) Hard
-- ![](/wiki/shared/diff/insane-s.png) Insane
+- ![](/wiki/shared/diff/easy-o.png) Easy
+- ![](/wiki/shared/diff/normal-o.png) Normal
+- ![](/wiki/shared/diff/hard-o.png) Hard
+- ![](/wiki/shared/diff/insane-o.png) Insane
 
 #### Cytus
 
-- ![](/wiki/shared/diff/expert-s.png) Chaos
+- ![](/wiki/shared/diff/expert-o.png) Chaos
 
 #### Deemo
 
-- ![](/wiki/shared/diff/expert-s.png) Extra
+- ![](/wiki/shared/diff/expert-o.png) Extra
 
 #### VOEZ
 
-- ![](/wiki/shared/diff/expert-s.png) Special
+- ![](/wiki/shared/diff/expert-o.png) Special
 
 ### Touhou Project
 
-- ![](/wiki/shared/diff/easy-s.png) Easy
-- ![](/wiki/shared/diff/normal-s.png) Normal
-- ![](/wiki/shared/diff/hard-s.png) Hard
-- ![](/wiki/shared/diff/insane-s.png) Lunatic
-- ![](/wiki/shared/diff/expert-s.png) Extra / Extra Stage / Phantasm
+- ![](/wiki/shared/diff/easy-o.png) Easy
+- ![](/wiki/shared/diff/normal-o.png) Normal
+- ![](/wiki/shared/diff/hard-o.png) Hard
+- ![](/wiki/shared/diff/insane-o.png) Lunatic
+- ![](/wiki/shared/diff/expert-o.png) Extra / Extra Stage / Phantasm
 
 ## 可接受的代稱
 
 以下的難度名稱可作為預設難度名稱的替代及補充：
 
-- ![](/wiki/shared/diff/easy-s.png) Beginner (新手)：在預設的 Easy-Normal-Hard-Insane-Expert 分級中，指最低的難度，比Easy還要低。
-- ![](/wiki/shared/diff/normal-s.png) Advanced (進階)：在預設的 Easy-Normal-Hard-Insane-Expert 分級中，指介於 Normal 和 Hard 之間的難度。
-- ![](/wiki/shared/diff/hard-s.png) Hyper：在預設的 Easy-Normal-Hard-Insane-Expert 分級中，指介於 Hard 和 Insane 之間的難度。
-- ![](/wiki/shared/diff/expert-s.png) Extra：可替代 Expert。
-- ![](/wiki/shared/diff/expertplus-s.png) Extreme (極限)：指比 Expert 更難的難度。
+- ![](/wiki/shared/diff/easy-o.png) Beginner (新手)：在預設的 Easy-Normal-Hard-Insane-Expert 分級中，指最低的難度，比Easy還要低。
+- ![](/wiki/shared/diff/normal-o.png) Advanced (進階)：在預設的 Easy-Normal-Hard-Insane-Expert 分級中，指介於 Normal 和 Hard 之間的難度。
+- ![](/wiki/shared/diff/hard-o.png) Hyper：在預設的 Easy-Normal-Hard-Insane-Expert 分級中，指介於 Hard 和 Insane 之間的難度。
+- ![](/wiki/shared/diff/expert-o.png) Extra：可替代 Expert。
+- ![](/wiki/shared/diff/expertplus-o.png) Extreme (極限)：指比 Expert 更難的難度。

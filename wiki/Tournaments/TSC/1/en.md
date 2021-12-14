@@ -36,7 +36,7 @@ The Taiko Suiji Cup was run by various osu!taiko community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
+| Organizer | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
 | Mappool selector | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Referee | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_RU] [-dragon67](https://osu.ppy.sh/users/4328734), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_CA] [390](https://osu.ppy.sh/users/7622460), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) |
 | Streamer | ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035), ![][flag_DE] [\[TaikoTori\]](https://osu.ppy.sh/users/1074143) |

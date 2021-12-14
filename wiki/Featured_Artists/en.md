@@ -13,7 +13,7 @@ The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) sho
 
 Recent additions to the featured artist library are selected indirectly by the osu! community. If beatmappers create and rank maps for an artist, the [osu! team](/wiki/People/The_Team) may reach out to the artist to discuss the featured artist program. However, some artists are occasionally invited to become featured artists based on other factors, such as their expected appeal to osu!'s beatmapping audience.
 
-Most songs in the featured artist program are non-exclusively licensed for osu!. In rare cases an artist will create tracks exclusively for osu!, which are labeled with *osu! exclusive* on their featured artist listing.
+Most songs in the featured artist program are non-exclusively licensed for osu!. In rare cases an artist will create tracks exclusively for osu!, which are labelled with *osu! exclusive* on their featured artist listing.
 
 Details for a musician joining the featured artists can be found on the [music licensing](/wiki/Legal/Music_Licensing) article.
 
@@ -34,7 +34,7 @@ New featured artists are announced weekly on osu!'s [news feed](https://osu.ppy.
 
 Beatmappers are encouraged to create maps for featured artist tracks. These tracks are provided with [timing](/wiki/Beatmap_Editor/Timing) data and are already cleared for use within osu!, allowing users to immediately jump into mapping without worry. The work-in-progress development build of osu!, dubbed [osu!lazer](https://github.com/ppy/osu/releases)<!-- TODO: wiki link needs own page -->, will mark these maps prominently in-game.
 
-All mapping contests published on the [community contest listing](https://osu.ppy.sh/community/contests), such as the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) and the [Mapping Olympiad](/wiki/Contests#osu!-mapping-olympiad), require participants to map featured artist songs. Some community-run contests utilise these songs as well.
+All mapping contests published on the [community contest listing](https://osu.ppy.sh/community/contests), such as the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) and the [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), require participants to map featured artist songs. Some community-run contests utilise these songs as well.
 
 To promote mapping featured artist content, members of the community created the [Mappers' Guild](/wiki/Mappers_Guild), giving mappers an MMO-style quest system that they can participate in with other mappers. Prizes are rewarded for creating and ranking beatmaps, including three tiers of profile badges<!-- TODO: profile badges article -->. Mappers can join the guild by visiting the [Mappers' Guild website](https://mappersguild.com/).
 

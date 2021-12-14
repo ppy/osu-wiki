@@ -49,10 +49,9 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Avaliação, moderação |
-| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Avaliação |
+| ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |  | Avaliação |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonês, Chinês | Avaliação |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, um pouco de Árabe | Avaliação, estrutural, moderação, comunicação |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Avaliação |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estrutural, comunicação |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Avaliação, estrutural, comunicação |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Estrutural |
@@ -65,8 +64,9 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
+| ![][flag_HK] [Capu](https://osu.ppy.sh/users/2474015) | Alemão | Avaliação |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonês, Chinês | Avaliação |
-| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Tailandês | Avaliação |
+| ![][flag_HK] [radar](https://osu.ppy.sh/users/7131099) |  | Avaliação |
 
 ### osu!catch
 
@@ -80,11 +80,12 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, Francês | Avaliação |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Avaliação |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Argélia"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espanha"
 [flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
@@ -93,5 +94,4 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 [flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polônia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suécia"
-[flag_TH]: /wiki/shared/flag/TH.gif "Tailândia"
 [flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"

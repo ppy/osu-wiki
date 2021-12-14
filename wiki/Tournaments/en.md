@@ -23,7 +23,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu! World Cup 2018](OWC/2018) | 2018-11-10 | 2018-12-16 | ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_DE] Germany |
 | [osu! World Cup 2019](OWC/2019) | 2019-11-09 | 2019-12-22 | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_GB] United Kingdom |
 | [osu! World Cup 2020](OWC/2020) | 2020-10-24 | 2020-12-06 | ![][flag_US] United States | ![][flag_DE] Germany | ![][flag_CA] Canada |
-| [osu! World Cup 2021](OWC/2021) | 2021-10-09 | 2021-11-28 | *TBD* | *TBD* | *TBD* |
+| [osu! World Cup 2021](OWC/2021) | 2021-10-09 | 2021-11-28 | ![][flag_US] United States | ![][flag_DE] Germany | ![][flag_KR] South Korea |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -332,7 +332,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [UK Community Cup 8](UKCC/8) | 2020-03-28 | 2020-05-17 | 10man? | will is minecart | Gaurdians of Valhalla |
 | [UK Community Cup 9](UKCC/9) | 2020-08-29 | 2020-10-11 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup X](UKCC/X) | 2021-02-06 | 2021-04-12 | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) | ![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761) | ![][flag_GB] [Kerantina](https://osu.ppy.sh/users/7516484) |
-| [UK Community Cup 10](UKCC/10) | 2021-09-11 | 2021-10-31 | *TBA* | *TBA* | *TBA* |
+| [UK Community Cup 10](UKCC/10) | 2021-09-11 | 2021-10-31 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
 
 #### Ulat Bulu Cup
 
@@ -412,6 +412,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Advanced Global Taiko Showdown 2020](GTS/AGTS_2020) | 2020-09-12 | 2020-11-01 | ![][flag_SG] Singapore | ![][flag_CN] China A | ![][flag_JP] Japan A |
 | [Beginners Global Taiko Showdown 2020](GTS/BGTS_2020) | 2020-12-05 | 2021-02-07 | ![][flag_HK] Hong Kong | ![][flag_CA] Canada | ![][flag_RO] Romania |
 | [Continental Global Taiko Showdown 2021](GTS/CGTS_2021) | 2021-02-06 | 2021-04-17 | Asia | Europe | North America |
+| [Advanced Global Taiko Showdown 2021](GTS/AGTS_2021) | 2021-05-15 | 2021-06-27 | ![][flag_US] United States A | ![][flag_SG] Singapore A | ![][flag_MY] Malaysia A |
 
 #### North & South American Taiko Tournament
 
@@ -488,13 +489,14 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Catch the Beat Indonesia Cup 2018](CIC/2018) | 2018-07-28 | 2018-09-10 | ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988) | ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) |
 | Catch the Beat Indonesia Cup 2019 | 2019-08-18 | 2019-10-13 | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Nana Hiragi](https://osu.ppy.sh/users/13377985) |
 | [Catch the Beat Indonesia Cup 2020](CIC/2020) | 2020-07-10 | 2020-09-06 | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) |
-| [Catch the Beat Indonesia Cup 2021](CIC/2021) | 2021-06-01 | 2021-07-25 | *undecided* | *undecided* | *undecided* |
+| [Catch the Beat Indonesia Cup 2021](CIC/2021) | 2021-06-01 | 2021-08-01 | ![][flag_ID] [Dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | ![][flag_ID] [Nekuro](https://osu.ppy.sh/users/3222638) |
 
 #### Indonesia Convert Cup
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Indonesia Convert Cup 2020](ICC/2020) | 2020-09-13 | 2020-11-08 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
+| [Indonesia Convert Cup 2021](ICC/2021) | 2021-08-16 | 2021-10-11 | ![][flag_ID] [Dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
 
 #### osu! Cup Master
 

@@ -71,7 +71,7 @@ Game modifiers naming in results has been shorten (e.g. "Hard Rock" to "HR") to 
 
 During replays, half-speed replay has been added (after pressing `2x` Speed, it will show `0.5x` Speed). The playfield will not flash out the background at 100% dim. [Catch the Beat](/wiki/Game_mode/osu!catch) received joystick support (Up/Down: change song, Right: select, Left: exit).
 
-[A new ranking/modding system is in development](https://osu.ppy.sh/community/forums/topics/129625) which will replace the ancient forum-styled modding threads.
+[A new ranking/modding system is in development](https://osu.ppy.sh/community/forums/topics/129625) which will replace the ancient [forum-styled modding](/wiki/Modding/Forum_modding) threads.
 
 For Multi mode, players can now use Special mod (Relax/Autopilot/SpunOut/ManiaKeys) when Free Mod is enabled by the host. At the skinning side of things, widescreen taiko (taiko `@2x`) default sprites have been added. Favourite A/B have removed completely and superseded by the Collections.
 
@@ -128,7 +128,7 @@ Links:
 
 [peppy was confirmed for Comic Fiesta 2013 in Malaysia at 21st and 22nd of December in Kuala Lumpur City Center](https://osu.ppy.sh/community/forums/topics/163121). For day 1 (2013-12-21), osu! was shown as a stage event, demonstrating the game in four different game modes (osu!, Taiko, Catch the Beat, and osu!mania). For day 2 (2013-12-22), peppy gives an insight of osu! along with his future update plans at the panel room and showcased osu!tablet for the public to try it out.
 
-One of the current hot-topic for debate right now was that peppy was making a new game mode and was testing it as a proof-in-concept (testing if it's playable, competitive or flexible enough). Some players speculate it was [Tohousu!](https://osu.ppy.sh/community/forums/topics/19307) (dodging the bullet-hell, that was, inverse of [Catch the Beat](/wiki/Game_mode/osu!catch)). By time of writing, not much information was discovered about the new game mode. [A video clip about the talk was in ppy's blog](https://blog.ppy.sh/post/71405880656/i-have-a-few-posts-waiting-for-some-final-touches)
+One of the current hot-topic for debate right now was that peppy was making a new game mode and was testing it as a proof-in-concept (testing if it's playable, competitive or flexible enough). Some players speculate it was [Touhosu!](https://osu.ppy.sh/community/forums/topics/19307) (dodging the bullet-hell, that was, inverse of [Catch the Beat](/wiki/Game_mode/osu!catch)). By time of writing, not much information was discovered about the new game mode. [A video clip about the talk was in ppy's blog](https://blog.ppy.sh/post/71405880656/i-have-a-few-posts-waiting-for-some-final-touches)
 
 Links:
 

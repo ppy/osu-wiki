@@ -1,6 +1,6 @@
 ---
 tags:
-  - double time
+  - doubletime
   - double-time
   - DT
   - mod
@@ -48,10 +48,10 @@ Although this mod does greatly increase the hyperdash leniency, making fruits re
 
 ## Trivia
 
-- When the Double Time mod is enabled, the `Length`, `BPM`, and `Objects` values are colored in a light red with the new values. (Pictured below.)
-  - The `Objects` value is colored a light red even though no change in value is actually made.
+- When the Double Time mod is enabled, the `Length`, `BPM`, and `Objects` values are coloured in a light red with the new values. (Pictured below.)
+  - The `Objects` value is coloured a light red even though no change in value is actually made.
 - The `CS`, `AR`, and `HP` values will have a superscript triangle next to their values indicate a small increase in their values. (Pictured below.)
-- The name "Double Time" could be labeled as a misnomer, as the DT mod does not actually increase the speed of a beatmap by two times (200%); it speeds up beatmaps by 1.5x (150%).
+- The name "Double Time" could be labelled as a misnomer, as the DT mod does not actually increase the speed of a beatmap by two times (200%); it speeds up beatmaps by 1.5x (150%).
 
 ![Changed values](img/GM_DT.jpg "Screenshot of beatmap values being changed by the Double Time mod")
 

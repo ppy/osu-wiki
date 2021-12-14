@@ -44,7 +44,7 @@ Continuing the trend set by July, one would be hard pressed to find an aspect of
 
 Personal online best scores were added to song selection, fulfilling a long-time request, which required some fairly hefty database optimisation. Graphical improvements to the ranking screen and various elements of the default skin were made in an aim to make them feel even more clean and crisp than before. The display of slider tick score sprites (10/30) was implemented. Improvements were seen in the multiplayer match setup, allowing host control to be transferred. Many new [chat commands](/wiki/Chat_Console#commands-list) were added for user convenience.
 
-A new ranked status "![](img/fire.gif) [Approved](/wiki/Beatmap/Category#Approved)" was added for maps which were of great quality but exceed ranking length, difficulty, or other limits in some way. Maps in this status don't add to the player's scores, but have scoreboards and act otherwise like a ![](img/heart.gif) [Ranked](/wiki/Beatmap/Category#Ranked) map.
+A new ranked status "![](img/fire.gif) [Approved](/wiki/Beatmap/Category#approved)" was added for maps which were of great quality but exceed ranking length, difficulty, or other limits in some way. Maps in this status don't add to the player's scores, but have scoreboards and act otherwise like a ![](img/heart.gif) [Ranked](/wiki/Beatmap/Category#ranked) map.
 
 ## September
 
@@ -66,7 +66,7 @@ Due to people with large numbers of beatmaps complaining about the load time of 
 
 ## December
 
-The last month of 2008 had plenty in store for osu!'s development. By osu!'s second Christmas, the first version of the Storyboarding Editor was implemented, making storyboarding much more accessible to users. A second multiplayer mode was added: "Tag Play." It was a cooperative mode where players took turns playing a beatmap. Another addition to multiplayer was "Accuracy as a victory condition". MSN and Yahoo status were integrated, and users could fully customize key bindings and chat highlight trigger words.
+The last month of 2008 had plenty in store for osu!'s development. By osu!'s second Christmas, the first version of the Storyboarding Editor was implemented, making storyboarding much more accessible to users. A second multiplayer mode was added: "Tag Play." It was a cooperative mode where players took turns playing a beatmap. Another addition to multiplayer was "Accuracy as a victory condition". MSN and Yahoo status were integrated, and users could fully customise key bindings and chat highlight trigger words.
 
 Thumbnail and audible previews were added to the online beatmap listing, making browsing for a beatmap you'd like to play a much easier task.
 

@@ -39,9 +39,19 @@ Make sure to include any receipts that you received during the process (PayPal t
 
 If your account has been restricted, you'll likely know why after a brief conversation with the support team.
 
-In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three (3) months** from the date of your last offense before we consider an appeal from you to let you back into the game.
+In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three (3) months** from the date of your last offence before we consider an appeal from you to let you back into the game.
 
 Refer to *[Account Restrictions](/wiki/Help_Centre/Account_Restrictions)* for more information on account restrictions and the appeal process.
+
+## Tournament bans
+
+### What is a tournament ban?
+
+Tournament bans are as the name describes - a ban from participation in all officially supported tournaments.
+
+A user may receive a tournament ban for deliberately breaking the osu! community rules during tournament play, depending on the severity of the offence. Examples of such bad behaviour include attempting to gain an unfair advantage in an officially supported tournament by any means, being abusive to anyone involved in a tournament or being deliberately disruptive to the running of a tournament.
+
+Most tournament bans have a set duration, anywhere from 3 months to a year or more. Some bans may be permanent. Regardless of the duration of the ban, all tournament bans are **final** and cannot be appealed like restrictions can.
 
 ## Sign-in
 
@@ -132,7 +142,7 @@ At any point thereafter, you may purchase a [username change](https://osu.ppy.sh
 
 Please note that usernames must abide by our [community rules](/wiki/Rules#community-rules) in that they must not be broadly offensive to other users, overly provocative or otherwise inflammatory in any way. In addition, usernames that impersonate or assume the identity of major public figures (such as celebrities, politicians, etc.) are not allowed and will be forcefully reverted once we find out about them.
 
-If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in mind we will only perform this a limited number of times, so make sure you really want it!
+If you are only after minor capitalisation or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in mind we will only perform this a limited number of times, so make sure you really want it!
 
 ### Can I take another player's username?
 
@@ -178,7 +188,7 @@ If you create an account while on holiday in the United States, your account wil
 
 The support team can happily change your account's country upon request, **but only if you are actively living within that country at the time.**
 
-To confirm this, the [support team](/wiki/People/The_Team/Account_support_team) will ask for proof of residency - be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and signed in to your account.
+To confirm this, the [support team](/wiki/People/The_Team/Account_support_team) will ask for proof of residency - be it the appropriate passport, drivers licence for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and signed in to your account.
 
 We will never display this information to anyone else, and we encourage you to blank out any personal information (while still allowing us to determine which country the document is for!) if you are concerned about your privacy.
 

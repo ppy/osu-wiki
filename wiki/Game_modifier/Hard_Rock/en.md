@@ -1,7 +1,7 @@
 ---
 stub: true
 tags:
-  - hard rock
+  - hardrock
   - mod
   - game modifier
   - HR
@@ -33,13 +33,13 @@ The **Hard Rock** mod is a [game modifier](/wiki/Game_modifier) that aims to inc
 
 In [osu!](/wiki/Game_mode/osu!), (along with the increase in difficulty settings) the Hard Rock mod flips the beatmap on it's X-axis (shown below). This can sometimes make certain [patterns](/wiki/Beatmap/Pattern) feel unnatural, which can increase difficulty.
 
-Additionally, if a player has memorized or become familiar with the movements and patterns of the beatmap, switching to the Hard Rock mod can break that memorization and cause a sort of artificial difficulty.
+Additionally, if a player has memorised or become familiar with the movements and patterns of the beatmap, switching to the Hard Rock mod can break that memorisation and cause a sort of artificial difficulty.
 
 ![HR gameplay](img/HR-comparison-osu.jpg "Comparison of a regular play (left) vs a play with the Hard Rock mod enabled (right) in osu!")
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko), the Hard Rock mod increases the [slider velocity](/wiki/Hit_object/Slider_velocity) as well as the [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty). This mod is widely regarded as the most commonly used mod in osu!taiko due to it being the only difficulty increasing mod that does not require some sort of memorization or extremely fast hitting on harder difficulties.
+In [osu!taiko](/wiki/Game_mode/osu!taiko), the Hard Rock mod increases the [slider velocity](/wiki/Hit_object/Slider_velocity) as well as the [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty). This mod is widely regarded as the most commonly used mod in osu!taiko due to it being the only difficulty increasing mod that does not require some sort of memorisation or extremely fast hitting on harder difficulties.
 
 The hits required to finish a denden is increased due to the increase in OD. Therefore, the maximum possible score for osu!taiko difficulties with the Hard Rock mod on is larger than that of the [Hidden](/wiki/Game_modifier/Hidden) mod.
 

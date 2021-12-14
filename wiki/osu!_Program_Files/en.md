@@ -22,7 +22,7 @@ The Chat folder only appears if the player has "Automatically log private messag
 
 The name structure of the files is `{Tab_name}-{YYYYMMDD}-{HHMMSS}`, and can be opened in any text editor. An example of this is shown below:
 
-``#multiplayer-20121115-040845 (/savelog at #multiplayer tab in 15th November 2012 at 04hrs, 08mins, and 45secs).``
+``#multiplayer-20121115-040845`` (/savelog at #multiplayer tab in 15th November 2012 at 04hrs, 08mins, and 45secs).
 
 ### Downloads
 
@@ -38,7 +38,7 @@ The Localisation folder appears when the player has switched their language in t
 
 ### Replays
 
-*Note: Replays used to be replayed at a lower sample rate, but are now more optimized of a better experience*
+*Note: Replays used to be replayed at a lower sample rate, but are now more optimised of a better experience*
 
 The Replays folder holds the player's replay files. A replay file does not work when the beatmaps linked to it is missing. The replay also contains the results data, and reanimates the player's cursor movement while replaying. To create a replay, press F2 at the results screen, or click on the 'Save replay to Replays folder' (in Solo only).
 
@@ -46,7 +46,7 @@ The Replays folder holds the player's replay files. A replay file does not work 
 
 The file name structure is `{Local player name} - {Artist} - {Title} {[Difficulty]}{(YYYY-MM-DD)} {Game Mode}`. An example of this is shown below:
 
-``dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\]  (2013-08-12) OsuMania``
+``dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\] (2013-08-12) OsuMania``
 
 ### Screenshots
 
@@ -64,7 +64,7 @@ The Skins folder holds user-created skins, which can be used to customise the in
 
 ### Songs
 
-The Songs folder holds the player's osu! beatmaps. Usually contains `.osu` (difficulties), `.mp3`/`.ogg` (music files), `.jpg`/`.png`/`.gif` (background images), `.osb` (storyboard files) and `.mp4`/`.flv` (video files). May also contain `.wav`/`.ogg` (hitsound files) and folders (storyboard spites and/or skin folders).
+The Songs folder holds the player's osu! beatmaps. Usually contains `.osu` (difficulties), `.mp3`/`.ogg` (music files), `.jpg`/`.png`/`.gif` (background images), `.osb` (storyboard files) and `.mp4`/`.flv` (video files). May also contain `.wav`/`.ogg` (hitsound files) and folders (storyboard sprites and/or skin folders).
 
 The file name structure is `{Beatmap number} {Artist} - {Song Title}`.
 **Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
@@ -85,7 +85,7 @@ osu! data files. Contains some of osu!'s cache, like beatmap background cache an
 
 ## Database files (.db)
 
-The database files are databases that osu! requires to function propertly. The files contain vital information that osu! requires, such as saved scores, and the cached list of beatmaps saved on the player's device.
+The database files are databases that osu! requires to function properly. The files contain vital information that osu! requires, such as saved scores, and the cached list of beatmaps saved on the player's device.
 
 - `collections.db`: Stores the player's "Collections" in-game.
 - `osu!.db`: Stores osu!'s database of beatmaps.
@@ -101,7 +101,7 @@ Configuration files configure the initial settings for osu! to work. The files c
 
 ### .exe (Application)
 
-The main component. Click on it to start-up (only applies to Windows.) The .exe files are safe to open assuming the player used the osu!installer downloaded from the official website to install osu!.
+The main component. Click on it to start-up (only applies to Windows). The .exe files are safe to open assuming the player used the osu!installer downloaded from the official website to install osu!.
 
 osu!.exe (Start-up osu!)
 

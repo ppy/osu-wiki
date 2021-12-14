@@ -8,7 +8,7 @@ outdated: true
 
 # Intermediate Global Taiko Showdown 2019
 
-![IGTS 2019 Logo](img/logo.png)
+![IGTS 2019 Logo](img/logo.jpg)
 
 L'**Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) était un tournoi osu!taiko 2 contre 2 à double-élimination avec des équipes représentant leur pays. Il est organisé par ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) et ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). C'était la deuxième édition de l'Intermediate Global Taiko Showdown.
 
@@ -588,10 +588,10 @@ Le All-star est un évènement pour le fun qui a lieu le même weekend que la gr
 [flag_CO]: /wiki/shared/flag/CO.gif "Colombie"
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_DK]: /wiki/shared/flag/DK.gif "Danemark"
-[flag_EC]: /wiki/shared/flag/EC.gif "Equateur"
+[flag_EC]: /wiki/shared/flag/EC.gif "Équateur"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_GR]: /wiki/shared/flag/GR.gif "Grèce"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
@@ -604,7 +604,7 @@ Le All-star est un évènement pour le fun qui a lieu le même weekend que la gr
 [flag_PE]: /wiki/shared/flag/PE.gif "Pérou"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
