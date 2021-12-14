@@ -8,7 +8,7 @@ Wenn du nicht den richtigen Grafikkartentreiber installiert hast, wird Windows d
 
 Als erstes überprüfe, ob dies auf dich zutrifft:
 
-- Rechtsklick auf 'Dieser PC' und wähle 'Eigenschaften' aus oder drücke `Win` + `Pause` auf Ihrer Tastatur.
+- Rechtsklick auf 'Dieser PC' und wähle 'Eigenschaften' aus oder drücke `Win` + `Pause` auf deiner Tastatur.
 - Wähle Geräte-Manager auf der linken Seite aus.
 
 Überprüfe, ob du Microsoft Basic Display Adapter wie im folgenden Bild benutzt:
