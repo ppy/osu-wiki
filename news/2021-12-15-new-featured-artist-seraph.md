@@ -8,7 +8,7 @@ Gothic rock superstar **Seraph** steps aboard as our latest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/225/header.jpg)
 
-**Seraph** isn't your ordinary J-rock band — they're a monster of a musical unit with involvement from heaps of different creators in the dark, symophonic rock scene. Meeting and exceeding all expectations for high-paced and intense beatmaps, **Seraph** is the perfect companion to Featured Artists like [Ariabl'eyeS](https://osu.ppy.sh/beatmaps/artists/93), [Pratnallis](https://osu.ppy.sh/beatmaps/artists/175), and [Emille's Moonlight Serenade](https://osu.ppy.sh/beatmaps/artists/160).
+**Seraph** isn't your ordinary J-rock band — they're a monster of a musical unit with involvement from heaps of different creators in the dark, symphonic rock scene. Meeting and exceeding all expectations for high-paced and intense beatmaps, **Seraph** is the perfect companion to Featured Artists like [Ariabl'eyeS](https://osu.ppy.sh/beatmaps/artists/93), [Pratnallis](https://osu.ppy.sh/beatmaps/artists/175), and [Emille's Moonlight Serenade](https://osu.ppy.sh/beatmaps/artists/160).
 
 Spanning across their discography of 10 years and counting, a heavy batch of **40** grand tracks are pre-timed and ready for mapping from [**Seraph**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/225)!
 
