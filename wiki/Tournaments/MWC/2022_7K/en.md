@@ -172,7 +172,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_FI]: /wiki/shared/flag/FR.gif "Finland"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_IN]: /wiki/shared/flag/IN.gif "India"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
