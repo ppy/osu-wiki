@@ -52,13 +52,13 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 *Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-- ![](/wiki/shared/diff/easy-o.png) Easy
-- ![](/wiki/shared/diff/normal-o.png) Normal
-- ![](/wiki/shared/diff/hard-o.png) Hard
-- ![](/wiki/shared/diff/insane-o.png) Insane
-- ![](/wiki/shared/diff/expert-o.png) Expert
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-o.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
-### ![](/wiki/shared/diff/easy-o.png) Easy
+### ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 
 #### Rules
 
@@ -91,7 +91,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - [Overall difficulty](/wiki/Beatmapping/Overall_difficulty) / [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be between 1 and 3.
 - [Circle size](/wiki/Beatmapping/Circle_size) should be 4 or lower.
 
-### ![](/wiki/shared/diff/normal-o.png) Normal
+### ![](/wiki/shared/diff/normal-o.png?20211215) Normal
 
 #### Rules
 
@@ -132,7 +132,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - [Overall difficulty](/wiki/Beatmapping/Overall_difficulty) / [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be between 3 and 5.
 - [Circle size](/wiki/Beatmapping/Circle_size) should be 5 or lower.
 
-### ![](/wiki/shared/diff/hard-o.png) Hard
+### ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 
 #### Rules
 
@@ -159,7 +159,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be between 4 and 6.
 - [Circle size](/wiki/Beatmapping/Circle_size) should be 6 or lower.
 
-### ![](/wiki/shared/diff/insane-o.png) Insane
+### ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 
 #### Rules
 
@@ -182,7 +182,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be between 5 and 8.
 - [Circle size](/wiki/Beatmapping/Circle_size) should be 7 or lower.
 
-### ![](/wiki/shared/diff/expert-o.png) Expert
+### ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
 #### Rules
 
