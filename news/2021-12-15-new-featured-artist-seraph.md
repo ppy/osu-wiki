@@ -25,15 +25,15 @@ Spanning across their discography of 10 years and counting, a heavy batch of **4
 Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/831738) hosted by [Atalanta](https://osu.ppy.sh/users/7543834)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/225/Reflection/Seraph%20-%20Resurrection.mp3" type="audio/mpeg">
 </audio>
 
-### Mind Control
+### Last Queen
 
 Check out [the map that introduced **Seraph** to osu!](https://osu.ppy.sh/beatmapsets/986762) hosted by [ZcortezZ](https://osu.ppy.sh/users/2228245)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/225/Secret%20Garden/Seraph%20-%20Last%20Queen.mp3" type="audio/mpeg">
 </audio>
 
 ### for Black, Dear Dahlia
@@ -41,13 +41,13 @@ Check out [the map that introduced **Seraph** to osu!](https://osu.ppy.sh/beatma
 Check out [this brand new mapset](https://osu.ppy.sh/beatmapsets/1649891) hosted by [Akito](https://osu.ppy.sh/users/5716327) of the Mappers' Guild!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/225/Black%20Dahlia/Seraph%20-%20for%20Black%2C%20Dear%20Dahlia.mp3" type="audio/mpeg">
 </audio>
 
 ### Hollow
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/225/Reflection/Seraph%20-%20Hollow.mp3" type="audio/mpeg">
 </audio>
 
 ---
