@@ -21,12 +21,12 @@ It is osu!'s policy to:
 
 If you believe that content residing on or accessible through the osu! website or service infringes your copyright, please send a notice of claimed copyright infringement containing the following information to the Designated Agent listed below (consult legal counsel or refer to 17 U.S.C. 512(c) to confirm these requirements):
 
-1. A physical or electronic signature of a person authorized to act on behalf of the owner of the copyright that has been allegedly infringed;
+1. A physical or electronic signature of a person authorised to act on behalf of the owner of the copyright that has been allegedly infringed;
 2. Identification of the copyrighted works claimed to have been infringed, or if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
 3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit osu! to locate the material;
 4. Contact information for the notifier, such as an address, telephone number and, if available, an e-mail address;
-5. A statement that the notifier has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
-6. A statement that the information in the notification is accurate, and under penalty of perjury, that the notifying party is authorized to act on behalf of the owner of the copyright that is allegedly infringed.
+5. A statement that the notifier has a good faith belief that use of the material in the manner complained of is not authorised by the copyright owner, its agent, or the law; and
+6. A statement that the information in the notification is accurate, and under penalty of perjury, that the notifying party is authorised to act on behalf of the owner of the copyright that is allegedly infringed.
 
 Once a complete and proper notice of claimed copyright infringement is received by the Designated Agent, or if osu! otherwise comes to believe in good faith that a file on the osu! service may contain material that infringes copyright:
 

@@ -10,7 +10,7 @@ A YouTube video showcasing the osu! mascots can be seen at [Mascot Showcase](htt
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, stylized with a lowercase "p", is the osu! game mode mascot that joined on 2008-07. She is also known as pippidon in osu!taiko and appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by [Sarumaru](https://osu.ppy.sh/users/9427), the pippidon sprite was created by [crystalsuicune](https://osu.ppy.sh/users/9974), and the current art was designed by [Daru](https://osu.ppy.sh/users/32480).
+pippi, stylised with a lowercase "p", is the osu! game mode mascot that joined on 2008-07. She is also known as pippidon in osu!taiko and appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by [Sarumaru](https://osu.ppy.sh/users/9427), the pippidon sprite was created by [crystalsuicune](https://osu.ppy.sh/users/9974), and the current art was designed by [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![osu!catch icon](/wiki/shared/mode/catch.png) Yuzu
 
@@ -86,7 +86,7 @@ Designed by [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa was one of t
 
 ![Chirou](img/Chirou.png "Chirou")
 
-Designed by [pyun](https://osu.ppy.sh/users/981534), Chirou was one of the participants in the osu!taiko mascot design contest. She is very strict and demanding, a perfectionist, and does not like making mistakes—especially in her beats in osu!taiko. But past her strong outlook, if you get to her soft spot, she can be fluffy and cute. She is 14 years old, born on October 25th with blood type AB. She is also 4 feet 11 inches and weighs 100 pounds. Her hobbies include practicing drumming, keeping warm in her cape, and collecting gems or rocks. Chirou has made some appearances in various user fanart submissions.
+Designed by [pyun](https://osu.ppy.sh/users/981534), Chirou was one of the participants in the osu!taiko mascot design contest. She is very strict and demanding, a perfectionist, and does not like making mistakes—especially in her beats in osu!taiko. But past her strong outlook, if you get to her soft spot, she can be fluffy and cute. She is 14 years old, born on October 25th with blood type AB. She is also 4 feet 11 inches and weighs 100 pounds. Her hobbies include practising drumming, keeping warm in her cape, and collecting gems or rocks. Chirou has made some appearances in various user fanart submissions.
 
 ### Taikonator
 

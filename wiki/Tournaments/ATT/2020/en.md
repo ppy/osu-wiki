@@ -36,7 +36,7 @@ The Ausu!Taiko Tournament 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
+| Organizer | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
 | Mappool selector | ![][flag_DE] [frz](https://osu.ppy.sh/users/6956922), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
 | Referee | ![][flag_AU] [anim shnacc](https://osu.ppy.sh/users/11373924), ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_AU] [chenny](https://osu.ppy.sh/users/5845305), ![][flag_AU] [Likelihood](https://osu.ppy.sh/users/12998897), ![][flag_AU] [soliderror](https://osu.ppy.sh/users/10630542), ![][flag_AU] [sonniet](https://osu.ppy.sh/users/3773760) |
 | Streamer | ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102) |

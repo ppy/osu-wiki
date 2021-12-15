@@ -422,7 +422,7 @@ Sunday, 1 March 2020:
 2. This tournament uses a qualifier into a double-elimination bracket and single-player format. There are no teams here.
 3. The score system used will be **Score V2**.
 4. To participate you **must** join the Discord for the duration of the tournament.
-5. Match schedule is decided by the organisers. Players may ask for a reschedule if the current schedule does not work for them. Every stage will last one weekend.
+5. Match schedule is decided by the organizers. Players may ask for a reschedule if the current schedule does not work for them. Every stage will last one weekend.
 6. If there are no referees available, the match can be postponed.
 7. If both players get the same score on a Tiebreaker, the Tiebreaker will be replayed.
 8. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
@@ -473,7 +473,7 @@ Sunday, 1 March 2020:
 1. Every stage is scheduled for the weekend.
 2. Matches are allowed to overlap if referees are available.
 3. Players must complete their match at the designated time or both players are eliminated.
-4. However, if both players can come up with a better time than what we have scheduled for them, please inform the organisers for a reschedule. Organisers will rearrange the match if they are informed before Thursday of the week the match is to be played and a referee is available.
+4. However, if both players can come up with a better time than what we have scheduled for them, please inform the organizers for a reschedule. Organizers will rearrange the match if they are informed before Thursday of the week the match is to be played and a referee is available.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"

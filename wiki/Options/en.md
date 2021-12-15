@@ -2,7 +2,7 @@
 
 ![Options menu](img/options_basic.jpg "Options menu \(sidebar on left\)")
 
-In the main menu, click `Options` or press `O` (or press `Ctrl` + `O` which works in almost any screen) to access the options sidebar and change the avaliable options in osu! Once the options menu is opened, you can type to search for a specific setting. The searchbar's text will shake if the search query has no results.
+In the main menu, click `Options` or press `O` (or press `Ctrl` + `O` which works in almost any screen) to access the options sidebar and change the available options in osu! Once the options menu is opened, you can type to search for a specific setting. The search bar's text will shake if the search query has no results.
 
 When a setting that has a default value is changed, the grey vertical bar on the left will glow yellow for that setting. Clicking on this will reset the value back to its default value.
 
@@ -119,7 +119,7 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 | :-- | :-- | :-- | :-- |
 | `Resolution` | Set the game client resolution. The listed resolutions are limited to what your monitor/GPU supports. | Dropdown |  |
 | `Fullscreen mode` | Run the game client in fullscreen (usually decreases input latency). | Checkbox | `Enabled` |
-| `Render at native resolution` | Use the full native resolution but will display osu! in a smaller centered portion of the screen. | Checkbox | `Enabled` |
+| `Render at native resolution` | Use the full native resolution but will display osu! in a smaller centred portion of the screen. | Checkbox | `Enabled` |
 | `Horizontal position` | Adjust horizontal offset for letterboxing mode. Only appears if `Render at native resolution` is enabled. | Slider | `0%` |
 | `Vertical position` | Adjust vertical offset for letterboxing mode. Only appears if `Render at native resolution` is enabled. | Slider | `0%` |
 
@@ -176,7 +176,7 @@ This section is about settings that affect gameplay.
 | Name | Description | Type | Default |
 | :-- | :-- | :-- | :-- |
 | `Background dim` | Adjust the level of dimming applied to the background and storyboard while playing (can be set per-beatmap). | Slider | `80%` |
-| `Don't change dim level during breaks` | Disable brightening the dim level during breaks, making the background never visble. | Checkbox | `Disabled` |
+| `Don't change dim level during breaks` | Disable brightening the dim level during breaks, making the background never visible. | Checkbox | `Disabled` |
 | `Progress display` | Configure where and how the song progress bar is displayed. See below for details. | Dropdown | `Top-Right (Pie)` |
 | `Score meter type` | Configure accuracy meter appearing below the beatmap. Note that osu!catch will always use `Colour`. | Dropdown | `Hit error` |
 | `Score meter size` | Configure size of score meter. | Slider | `1x` |
@@ -224,7 +224,7 @@ This section is about audio related options.
 | Name | Description | Type | Default |
 | :-- | :-- | :-- | :-- |
 | `Output device` | Select the preferred output device for audio. (Options given are based on what your computer reports.) | Dropdown | `Default` |
-| `Audio compatibility mode` | Uses the legacy audio engine which has higher latecy but is more compatible. | Checkbox | `Disabled` |
+| `Audio compatibility mode` | Uses the legacy audio engine which has higher latency but is more compatible. | Checkbox | `Disabled` |
 
 ### Volume
 
@@ -233,7 +233,7 @@ This section is about audio related options.
 | `Master` | Controls the main volume. | Slider | `100%` |
 | `Music` | Controls the music volume. | Slider | `80%` |
 | `Effect` | Controls the hitsounds and in-game sounds. | Slider | `80%` |
-| `Ignore beatmap hitsounds` | Favor hitsounds supplied by the current skin instead of the beatmap's included hitsounds. | Checkbox | `Disabled` |
+| `Ignore beatmap hitsounds` | Favour hitsounds supplied by the current skin instead of the beatmap's included hitsounds. | Checkbox | `Disabled` |
 
 The master, music, and effect volume can be changed elsewhere by pressing `Alt` and scrolling up or down or by pressing `Alt` and pressing `Up` or `Down`.
 
@@ -262,10 +262,10 @@ This section is about skin related things.
 | `Preview gameplay` | Previews the skin by playing a random beatmap with auto mod. Mode is determined on what was selected in song selection. | Button |  |
 | `Open current skin folder` | Opens the selected skin folder. | Button |  |
 | `Export as .osk` | Exports the current skin as a `.osk` file to share. Once your game client is done exporting, it will open the directory containing the `.osk` file. | Button |  |
-| `Ignore all beatmap skins` | Favor the selected skin over the beatmap's included skin. This does not include hitsounds (see next option below). | Checkbox | `Disabled` |
+| `Ignore all beatmap skins` | Favour the selected skin over the beatmap's included skin. This does not include hitsounds (see next option below). | Checkbox | `Disabled` |
 | `Use skin's sound samples` | Always use the selected skin's hitsounds instead of the beatmap's included hitsounds. | Checkbox | `Enabled` |
 | `Use Taiko skin for Taiko mode` | Use osu!taiko-specific skin elements, if supplied by the selected skin. See [Skinning/osu!taiko](/wiki/Skinning/osu!taiko) for details. | Checkbox | `Disabled` |
-| `Always use skin cursor` | Favor the current skin's cursor over any cursors supplied by beatmaps. | Checkbox | `Disabled` |
+| `Always use skin cursor` | Favour the current skin's cursor over any cursors supplied by beatmaps. | Checkbox | `Disabled` |
 | `Cursor size` | Adjust the cursor size. | Slider | `1x` |
 | `Automatic cursor size` | Automatically adjusts the cursor size based on the circle size of the beatmap. | Checkbox | `Disabled` |
 | `Use combo colour as tint for slider ball` | Slider balls will use the current combo colour (usually transparent). Requires skin support. | Checkbox | `Enabled` |

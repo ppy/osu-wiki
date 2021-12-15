@@ -16,17 +16,17 @@ The following is a list of players who are recognised to have reached rank #1 in
 
 Over the years, there were three different systems used for ranking players:
 
-- [Ranked Score](/wiki/Score#ranked-score) (6 October 2007 – 24 July 2012)
+- [Ranked Score](/wiki/Score/Ranked_score) (6 October 2007 – 24 July 2012)
 - [ppv1](/wiki/Performance_points/ppv1) (24 July 2012 – 27 January 2014)
 - [ppv2](/wiki/Performance_points) (27 January 2014 – present)
 
-Because of this, this list only includes players who have reached rank #1 on the main leaderboard that was used at the time. *Italicized* dates and numbers indicate that the corresponding player is continuing their reign as the osu!'s rank #1 holder either from the previous year or into the following year.
+Because of this, this list only includes players who have reached rank #1 on the main leaderboard that was used at the time. *Italicised* dates and numbers indicate that the corresponding player is continuing their reign as the osu!'s rank #1 holder either from the previous year or into the following year.
 
 While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the first rank #1 holder, no sources were able to validate this claim.
 
 ## 2007
 
-*Note: During the period where [Ranked Score](/wiki/Score#ranked-score) was used, the rank #1 holder would change frequently, thus the earlier listings may have reduced accuracy. Detailed information can be found on the estimated reconstruction of the Ranked Score global leaderboard, which is available [here](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
+*Note: During the period where [Ranked Score](/wiki/Score/Ranked_score) was used, the rank #1 holder would change frequently, thus the earlier listings may have reduced accuracy. Detailed information can be found on the estimated reconstruction of the Ranked Score global leaderboard, which is available [here](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
