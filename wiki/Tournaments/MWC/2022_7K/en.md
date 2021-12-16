@@ -23,7 +23,7 @@ The **osu!mania 7K World Cup 2022** (***MWC 7K 2022***) is a country-based osu! 
 | Quarterfinals | 2022-01-29/2022-01-30 |
 | Semifinals | 2022-02-05/2022-02-06 |
 | Finals | 2022-02-12/2022-02-13 |
-| Grand Finals | 2022-03-19/2022-02-20 |
+| Grand Finals | 2022-02-19/2022-02-20 |
 
 ## Prizes
 
@@ -168,10 +168,9 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
    - Round of 16 and Quarterfinals: 14 beatmaps
-   - Semifinals: 16 beatmaps
-   - Finals: 18 beatmaps
+   - Semifinals and Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
-5. Possible mod choices for all maps are [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In) and [Flashlight](/wiki/Game_modifier/Flashlight).
+5. Possible mod choices for all maps are [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In), [Flashlight](/wiki/Game_modifier/Flashlight), and [Mirror](/wiki/Game_modifier/Mirror).
 6. The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling instructions
