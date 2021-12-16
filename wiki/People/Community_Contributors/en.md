@@ -159,7 +159,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which ar
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Outstanding contribution to the Global Moderation Team |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Outstanding contribution to the Mentorship project |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Outstanding contribution to the Mentorship project |
-| ![][flag_SE] [PuffBuck](https://osu.ppy.sh/users/4234525) | Outstanding contribution to World Cup moderation and organization |
+| ![][flag_SE] [PuffBuck](https://osu.ppy.sh/users/4234525) | Outstanding contribution to World Cup moderation and organisation |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | Outstanding, unwavering contribution to the osu!community at large |
 | ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943) | Outstanding contribution to the osu! World Cup |
 | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203) | Outstanding contribution to the osu! World Cup |

@@ -133,7 +133,7 @@ In short, in order to play or restart a [beatmap](/wiki/Beatmap), users must hav
 
 The main screen of osu! also had a barrage of slowly rising osu!coins in the background, along with a slightly changed main theme, in which the exclamation "circles!" was replaced with a robotic-sounding "and buy the coins" before the beat drop. Additional new textures, sound effects, animations, and music were created for this prank, including a counter that would display the amount of coins players had throughout their plays. [[37,38]][r]. <!--needs further verification-->
 
-The update was generally well-received by players and saw some actual support for a future implementation without the monetization. Despite this, peppy rolled back the implementation of osu!coins the following day with [a remark in its corresponding changelog update](https://osu.ppy.sh/comments/121803) about the feedback [[35,39,40,41]][r].
+The update was generally well-received by players and saw some actual support for a future implementation without the monetisation. Despite this, peppy rolled back the implementation of osu!coins the following day with [a remark in its corresponding changelog update](https://osu.ppy.sh/comments/121803) about the feedback [[35,39,40,41]][r].
 
 ---
 

@@ -28,7 +28,7 @@ Jedes Projekt wird in seinem dafür vorgesehenen Kanal diskutiert:
 | [osu!catch](/wiki/Game_mode/osu!catch) Star Rating und Performancepunkte | `#difficulty-catch` |
 | [osu!mania](/wiki/Game_mode/osu!mania) Star Rating und Performancepunkte | `#difficulty-mania` |
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
-| [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
+| [osu!-Wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
 | [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
 | [Modding](/wiki/Modding) Diskussionen und [NAT Meetings](/wiki/Modding/NAT_meetings) | `#modding` |
 | [Mappers' Guild](/wiki/Mappers_Guild) | `#mappers-guild` |
