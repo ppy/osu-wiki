@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "osu! World Cup 2021: Registrations now open!"
-date: 2021-09-16 09:00:00 +0000
+title: "osu!mania 7K World Cup 2022: Registrations now open!"
+date: 2021-12-16 09:00:00 +0000
 ---
 
-*add sauce here*
+The new year is almost here and for the first time since 2019 we're doubling your annual dose of osu!mania. The MWC7K 2022 registrations are now open!
 
 ![](/wiki/shared/news/2021-12-16-osu-mania-7k-world-cup-2022-registrations-now-open/mwc7k-2022-banner.jpg)
 
-For more details, refer to the **[osu!mania 7K World Cup 2022 wiki article](/wiki/Tournaments/MWC/2022_7K)**. You can discuss this event in the **[official discussion thread]()** or at the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
+For more details, refer to the **[osu!mania 7K World Cup 2022 wiki article](/wiki/Tournaments/MWC/2022_7K)**. You can discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1482564)** or at the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
 ## Tournament schedule
 
