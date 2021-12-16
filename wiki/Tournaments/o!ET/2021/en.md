@@ -39,7 +39,7 @@ The osu! European Tournament 2021 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133) |
+| Organizer | ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133) |
 | Mappool selector | ![][flag_GB] [Chugger](https://osu.ppy.sh/users/4491713), ![][flag_RU] [Grave-](https://osu.ppy.sh/users/2764492), ![][flag_DE] [mp4](https://osu.ppy.sh/users/8401905), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350) |
 | Referee | ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_RU] [Grave-](https://osu.ppy.sh/users/2764492), ![][flag_CA] [Jimarrah](https://osu.ppy.sh/users/11267857), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_DE] [mp4](https://osu.ppy.sh/users/8401905), ![][flag_FR] [Okupsa](https://osu.ppy.sh/users/9313135), ![][flag_DE] [Toffi](https://osu.ppy.sh/users/8438256), ![][flag_RU] [vitya490](https://osu.ppy.sh/users/8296795) |
 | Streamer | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_DE] [Toffi](https://osu.ppy.sh/users/8438256), ![][flag_NL] [wessel\_osu2](https://osu.ppy.sh/users/4382220) |
@@ -432,7 +432,7 @@ More detailed qualifier results can be accessed via these spreadsheets below:
 5. Each mappool and schedule for a weekend will be released at the latest on the Monday prior to that weekend, exceptions being exceptional circumstances or all matches that concluded early.
 6. Once all teams are formed, a Challonge bracket will be made and shuffled.
 7. A referee will be assigned to every match/lobby. Invites can be sent up to **10 minutes** ahead of the scheduled match time.
-8. As this tournament might award a badge to the winning team, some members on the staff list **are not allowed** to participate. This rule affects **referees, mappool selectors, playtesters and organisers**.
+8. As this tournament might award a badge to the winning team, some members on the staff list **are not allowed** to participate. This rule affects **referees, mappool selectors, playtesters and organizers**.
 9. Anyone participating in this tournament (including staff) must have common decency, and not be overly toxic for no reason, otherwise a ban from the tournament will be enforced.
 10. Reschedules are to be done before each Friday of the running stage at 23:59 UTC.
 

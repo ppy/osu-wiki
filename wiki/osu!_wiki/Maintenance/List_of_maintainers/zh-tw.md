@@ -28,6 +28,7 @@ no_native_review: true
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | 非活躍 | 法語 |
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **活躍** | 俄語 |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | [TPGPL](https://github.com/TPGPL) | **活躍** | 波蘭語 |
+| ![][flag_SE] [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | **活躍** | 芬兰语，瑞典語 |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | [WalterToro](https://github.com/WalterToro) | 非活躍 | 西班牙語 |
 
 ## 新聞團隊
@@ -61,4 +62,5 @@ osu! wiki [曾經](/wiki/History_of_osu!/osu!_wiki)使用 MediaWiki 構建，此
 [flag_PH]: /wiki/shared/flag/PH.gif "菲律賓"
 [flag_PL]: /wiki/shared/flag/PL.gif "波蘭"
 [flag_RU]: /wiki/shared/flag/RU.gif "俄羅斯"
+[flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
 [flag_US]: /wiki/shared/flag/US.gif "美國"
