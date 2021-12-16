@@ -149,13 +149,13 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 4. Each captain must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` starts picking the first beatmap of the match.
-   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the  !roll` to ban a beatmap.
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the  `!roll` to ban a beatmap.
 5. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a team takes more time than alloted, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
    - On subsequent occurrences:
-     - For a pick timer: a random map will be chosen from the mappool using !roll X, where X is the number of maps that were neither picked nor banned, excluding the Tiebreaker.
-     - For a ready timer: the referee will issue the !mp start 10 command, regardless of how many players from each team are present in the lobby, using !mp kick on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
+     - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of maps that were neither picked nor banned, excluding the Tiebreaker.
+     - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
    - Repeat offenders may receive further sanctions from the Tournament Management.
    - Each team will receive one "tactical timeout" of two minutes, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional*.
      - The tactical timeout may be called on a tiebreaker, provided that both team's captains agree to it.
