@@ -136,6 +136,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 3. Teams that lose a match in the losers bracket are eliminated from the tournament.
 
 ### Win conditions
+
 - In the Qualifiers, teams need to place in the top 16 seeded teams in order to advance to the Double Elimination stage.
 - In the Round of 16 and Quarterfinals, teams need to win 6 maps to win a match (best of 11).
 - In the Semifinals, Finals, and Grand Finals, teams need to win 7 maps to win the match (best of 13).
@@ -161,6 +162,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 6. Results for the Qualifiers Stage will be published via a Statistics sheet.
 
 ### Mappool instructions
+
 1. There will be one mappool for each stage, except for the Finals and Grand Finals, which will share the same mappool.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
