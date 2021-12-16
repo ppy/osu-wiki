@@ -49,6 +49,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 
 - [Discussion thread]()
 - [Livestream](https://www.twitch.tv/osulive)
+- **[Sign-up here](https://osu.ppy.sh/community/tournaments/31)**
 
 ## Ruleset
 
@@ -134,6 +135,11 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 2. Teams in the losers bracket must play 2 matches each weekend starting from the Semifinals.
 3. Teams that lose a match in the losers bracket are eliminated from the tournament.
 
+### Win conditions
+- In the Qualifiers, teams need to place in the top 16 seeded teams in order to advance to the Double Elimination stage.
+- In the Round of 16 and Quarterfinals, teams need to win 6 maps to win a match (best of 11).
+- In the Semifinals, Finals, and Grand Finals, teams need to win 7 maps to win the match (best of 13).
+
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes before the scheduled match time. Players must join the lobby in that period.
@@ -141,8 +147,8 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 2. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps can not be picked by any team for the entire duration of the match.
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 4. Each captain must use `!roll` once in `#multiplayer`.
-   - The captain with the higher roll decides which team **picks** first.
-   - The captain with the lower roll decides which team **bans** first.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+  - The loser of the `!roll` starts banning one beatmap, followed by the winner of the  !roll` to ban a beatmap.
 5. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a team takes more time than alloted, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
@@ -151,7 +157,20 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
      - For a ready timer: the referee will issue the !mp start 10 command, regardless of how many players from each team are present in the lobby, using !mp kick on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
    - Repeat offenders may receive further sanctions from the Tournament Management.
    - Each team will receive one "tactical timeout" of two minutes, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional*.
+      - The tactical timeout may be called on a tiebreaker, provided that both team's captains agree to it.
 6. Results for the Qualifiers Stage will be published via a Statistics sheet.
+
+### Mappool instructions
+1. There will be one mappool for each stage, except for the Finals and Grand Finals, which will share the same mappool.
+2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
+3. The mappool sizes are as follows:
+   - Qualifiers: 8 beatmaps
+   - Round of 16 and Quarterfinals: 14 beatmaps
+   - Semifinals: 16 beatmaps
+   - Finals: 18 beatmaps
+4. Each mappool has one tiebreaker, except for the Qualifiers.
+5. Possible mod choices for all maps are [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In) and [Flashlight](/wiki/Game_modifier/Flashlight).
+6. The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling instructions
 
