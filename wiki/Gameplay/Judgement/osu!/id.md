@@ -1,11 +1,10 @@
 ---
-no_native_review: true
-needs_cleanup: true  # see the original article
+outdated: true
 ---
 
 # Penilaian hit object
 
-## osu!
+## Judgement mechanics
 
 **Circle:**
 
@@ -27,52 +26,3 @@ needs_cleanup: true  # see the original article
 - Pada spinner, skor 300, 100, atau 50 diberikan tergantung pada jumlah putaran berhasil kamu lakukan dibandingkan dengan durasi spinner.
 - Sebuah miss akan diberikan jika pemain tidak dapat memperluas lingkaran spinner ke batas yang telah disesuaikan untuk setidaknya mendapatkan skor 50.
   - Perilaku skin v1: Sebuah miss akan diberikan jika pemain tidak dapat mengisi penuh meteran yang terdapat di kedua sisi spinner hingga batasan yang telah disesuaikan untuk setidaknya mendapatkan skor 50.
-
-## osu!taiko
-
-**Small/Large Notes:**
-
-- *GREAT* given if drummed inside the judgement circle perfectly with correct colour.
-- *GOOD* given if drummed slightly away from the judgement circle with correct colour.
-- *MISS/BAD* given if drummed too early, too late, missed the judgement circle, or drummed the wrong colour.
-
-**Drumroll:**
-
-- Constant 300/600 score with Kiai Time bonus when available given per small notes drummed successfully in the drumroll with any colour.
-- No score given when drummed on the gap of the small notes.
-- No *MISS/BAD* for not doing the drumroll as per *Taiko no Tatsujin* style.
-
-**Denden/Shaker:**
-
-- Constant 300 score given per hit/shake until completed.
-- *GREAT* given on the last hit/shake.
-- *MISS/BAD* damage given (not considered a miss) if failed to complete the Denden/Shaker successfully.
-
-## osu!catch
-
-**All except bananas:**
-
-- Full score when collected.
-- Miss when failed.
-
-**Bananas:**
-
-- Constant score of 1,100 per banana collected.
-- Nothing happens for missed bananas.
-
-## osu!mania
-
-**Notes:**
-
-- MAX (rainbow 300), 300, 200, 100 or 50 from a note depending on timing of hit.
-- A Miss given when missing a note or hit it way too early.
-
-**Hold notes:**
-
-- The judgement for hold notes depends on both starting hold and ending release points.
-- Keep holding till end of note, with initial and final with perfect timing: MAX
-- Keep holding till end of note, without releasing the note: 200
-- Do a *NG* and not recover the hold note: Miss
-- Do a *NG* and even hold back the note: 50
-
-NG: *Not Good*, a term in *StepMania/DDR*, which happens when the hold note was released during hold timing.

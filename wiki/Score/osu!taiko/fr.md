@@ -6,15 +6,7 @@ outdated_since: c78e8f94260067c49d36a55deaaf7f40cb796b39
 
 # Système de notation d'osu!taiko
 
-## Hit values
-
-| Image | Nom | Effet |
-| :-: | :-: | :-- |
-| ![](/wiki/Skinning/osu!taiko/img/taiko-hit300k.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300g.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300.png "GREAT") | (良) Great | Score obtenu lorsque la note est frappée exactement dans le cercle de jugement, avec la bonne couleur. Image: (1 et 2) Grande Note (3) Petite Note |
-| ![](/wiki/Skinning/osu!taiko/img/taiko-hit100k.png "GOOD") ![](/wiki/Skinning/osu!taiko/img/taiko-hit100.png "GOOD") | (可) Good | Score obtenu lorsque la note est frappée légèrement en avance ou en retard, avec la bonne couleur. Image: (1) Grande Note (2) Petite Note. |
-| ![](/wiki/Skinning/osu!taiko/img/taiko-hit0.png "MISS") | (不可) Miss | Score obtenu lorsque la note n'est pas frappée à temps, ou avec la mauvaise couleur. |
-
-## Score de l'objet
+*See also: [osu!taiko judgement system](/wiki/Gameplay/Judgement/osu!taiko)*
 
 Chaque GREAT (excepté le bonus 1.2x du Kiai Time) compte pour *300 + RoundDown(Combo / 10) fois n*, jusqu'à un maximum de *300 + 10 fois n* points, où *n* dépend de la difficulté de la beatmap.
 

@@ -4,15 +4,7 @@ needs_cleanup: true
 
 # osu!taiko scoring system
 
-## Hit values
-
-| Image | Name | Effect |
-| :-: | :-: | :-- |
-| ![](/wiki/Skinning/osu!taiko/img/taiko-hit300k.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300g.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300.png "GREAT") | (良) Great | A possible score one can get when hitting the note exactly on the hit area in correct colour. Picture: \[1 and 2\] Large Note \[3\] Small Note |
-| ![](/wiki/Skinning/osu!taiko/img/taiko-hit100k.png "GOOD") ![](/wiki/Skinning/osu!taiko/img/taiko-hit100.png "GOOD") | (可) Good | A possible score one can get when hitting the note slightly early or late on the hit area in correct colour. Picture: \[1\] Large Note \[2\] Small Note. |
-| ![](/wiki/Skinning/osu!taiko/img/taiko-hit0.png "MISS") | (不可) Miss | A possible score one can get for not hitting the note or hitting the note in wrong colour. |
-
-## Object score
+*See also: [osu!taiko judgement system](/wiki/Gameplay/Judgement/osu!taiko)*
 
 Each GREAT (excluding Kiai Time's 1.2x bonus) is worth `300 + RoundDown(Combo / 10)` times `n` up to a maximum of `300+10n` points, in which `n` depends on the difficulty rating of the song.
 

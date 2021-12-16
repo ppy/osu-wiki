@@ -4,7 +4,7 @@ outdated: true
 
 # osu! scoring system
 
-## Pontuação
+*See also: [osu! judgement system](/wiki/Gameplay/Judgement/osu!)*
 
 A pontuação de hit circles e finais de sliders é calculada da seguinte forma:
 

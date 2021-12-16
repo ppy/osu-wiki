@@ -4,7 +4,7 @@ outdated: true
 
 # osu! scoring system
 
-## Puan
+*See also: [osu! judgement system](/wiki/Gameplay/Judgement/osu!)*
 
 Her bir vuruş dairesi ve slider sonunda kazanacağınız puan aşağıdaki formülle hesaplanır:
 
