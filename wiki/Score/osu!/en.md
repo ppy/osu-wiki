@@ -21,7 +21,7 @@ Additionally each slider start, end and repeat tick awards 30 points, each slide
 
 Additional bonus of 1,000 points given for each spin of a spinner after the spinner meter is full.
 
-### Difficulty multiplier
+## Difficulty multiplier
 
 The **Difficulty multiplier** equals the old star rating. It can be calculated via the following formula:
 

@@ -21,7 +21,7 @@ Además, cada control deslizante de inicio, fin, y repetición de tics otorga 30
 
 Bonificación adicional de 1,000 puntos dados por cada giro de una ruleta después de que el medidor de giro esté lleno.
 
-### Cómo calcular el multiplicador de dificultad
+## Cómo calcular el multiplicador de dificultad
 
 [Tamaño de circulos (CS)](/wiki/Beatmap_Editor/Song_Setup), [Drenaje de vida (HP)](/wiki/Beatmap_Editor/Song_Setup) and [Dificultad general (OD)](/wiki/Beatmap_Editor/Song_Setup) cada uno da un punto en los *puntos de dificultad*.
 

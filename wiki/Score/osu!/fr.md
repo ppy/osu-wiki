@@ -23,7 +23,7 @@ De plus, chaque point de début, de fin ou de répétition du Slider donne 30pt,
 
 Un bonus supplémentaire de 1,000pt est obtenu pour chaque tour d'un Spinner dès que sa jauge est pleine.
 
-### Comment déterminer le multiplicateur de difficulté
+## Comment déterminer le multiplicateur de difficulté
 
 [Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup#taux-de-drain-de-santé) et [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) augmentent chacun un compteur de *points de difficulté* de 1 point.
 

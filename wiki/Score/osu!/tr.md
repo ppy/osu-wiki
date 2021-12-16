@@ -21,7 +21,7 @@ Ayrıca, her slider başı, sonu ve tekrar tiki 30 puan, her orta slider tiki 10
 
 Ek olarak spinner ölçer dolduktan sonra her bir dönüş için 1,000 puan kazanılır.
 
-### Zorluk çarpanı nasıl hesaplanır
+## Zorluk çarpanı nasıl hesaplanır
 
 [Daire Boyutu (CS)](/wiki/Beatmap_Editor/Song_Setup), [HP Tüketimi (HP)](/wiki/Beatmap_Editor/Song_Setup) ve [Genel Zorluk (OD)](/wiki/Beatmap_Editor/Song_Setup), *zorluk puanına* bir tık ekler.
 
