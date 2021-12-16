@@ -58,7 +58,7 @@ Members of the Mappers' Guild may also participate in the creation of showcase b
 
 The Mappers' Guild launched with a group of less than 10 mappers in late 2017. Given information on an upcoming featured artist at the time, [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19), they were tasked with creating six beatmaps to accompany the artist's [news post announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
 
-To promote older featured artists, the group increased its member count and ranked 8 beatmaps from different artists. These beatmaps were published in a [news post](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) alongside a downloadable beatmap pack<!-- TODO: beatmap pack article -->.
+To promote older featured artists, the group increased its member count and ranked 8 beatmaps from different artists. These beatmaps were published in a [news post](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) alongside a downloadable [beatmap pack](/wiki/Beatmap/Packs)
 
 Following in the footsteps of both of these beatmap packs, the Mappers' Guild continuously increased its member count while publishing packs for new featured artist announcements, such as [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), and [HyuN](https://osu.ppy.sh/beatmaps/artists/33), accompanied by other packs for older featured artist songs.
 
