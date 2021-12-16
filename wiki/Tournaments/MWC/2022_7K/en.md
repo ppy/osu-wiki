@@ -157,7 +157,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
      - For a ready timer: the referee will issue the !mp start 10 command, regardless of how many players from each team are present in the lobby, using !mp kick on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
    - Repeat offenders may receive further sanctions from the Tournament Management.
    - Each team will receive one "tactical timeout" of two minutes, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional*.
-      - The tactical timeout may be called on a tiebreaker, provided that both team's captains agree to it.
+     - The tactical timeout may be called on a tiebreaker, provided that both team's captains agree to it.
 6. Results for the Qualifiers Stage will be published via a Statistics sheet.
 
 ### Mappool instructions
