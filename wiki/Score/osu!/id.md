@@ -4,7 +4,7 @@ outdated: true
 
 # osu! scoring system
 
-*See also: [osu! judgement system](/wiki/Gameplay/Judgement/osu!)*
+*Lihat juga: [osu! judgement system](/wiki/Gameplay/Judgement/osu!)*
 
 Berikut adalah cara menghitung penilaian skor yang diberikan oleh setiap hit circle dan slider:
 

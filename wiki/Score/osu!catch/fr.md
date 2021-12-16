@@ -6,7 +6,7 @@ outdated_since: c78e8f94260067c49d36a55deaaf7f40cb796b39
 
 # Système de notation d'osu!catch
 
-*See also: [osu!catch judgement system](/wiki/Gameplay/Judgement/osu!catch)*
+*Voir aussi : [osu!catch judgement system](/wiki/Gameplay/Judgement/osu!catch)*
 
 Le scoring pour osu!catch utilise le même multiplicateur qu'[osu!](/wiki/Game_mode/osu!).
 Cependant, le fruit réceptionné s'ajoute différemment au score.

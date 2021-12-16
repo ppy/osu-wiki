@@ -6,7 +6,7 @@ outdated_since: c78e8f94260067c49d36a55deaaf7f40cb796b39
 
 # Système de notation d'osu!
 
-*See also: [osu! judgement system](/wiki/Gameplay/Judgement/osu!)*
+*Voir aussi : [osu! judgement system](/wiki/Gameplay/Judgement/osu!)*
 
 Le score accordé par chaque cercle et fin de Slider est calculé à l'aide de la formule suivante :
 

@@ -4,7 +4,7 @@ outdated: true
 
 # osu!mania scoring system
 
-*See also: [osu!mania judgement system](/wiki/Gameplay/Judgement/osu!mania)*
+*Ver también: [osu!mania judgement system](/wiki/Gameplay/Judgement/osu!mania)*
 
 Cada beatmap tiene el mismo máximo de puntaje total de 1 millón (1,000,000).
 

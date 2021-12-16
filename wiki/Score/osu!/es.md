@@ -4,7 +4,7 @@ outdated: true
 
 # osu! scoring system
 
-*See also: [osu! judgement system](/wiki/Gameplay/Judgement/osu!)*
+*Ver también: [osu! judgement system](/wiki/Gameplay/Judgement/osu!)*
 
 El puntaje dado por cada círculo de golpeo y el final de un control deslizante se calcula con la siguiente fórmula:
 
