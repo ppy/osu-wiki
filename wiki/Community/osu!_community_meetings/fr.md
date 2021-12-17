@@ -6,7 +6,9 @@ Il y a longtemps, dans le [passé lointain du jeu](https://twitter.com/ppy/statu
 
 Actuellement, les osu! community meetings sont présidés par [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335) et [smoogipoo](https://osu.ppy.sh/users/1040328).
 
-Le prochain osu! community meeting est prévu pour le : **11 décembre 2021 (Samedi 21:00 UTC)**. Les meetings ont généralement lieu toutes les deux semaines, les rappels étant annoncés sur le [compte Twitter de peppy](https://twitter.com/ppy) environ un jour avant.
+Les meetings ont généralement lieu toutes les deux semaines, les rappels étant annoncés sur le [compte Twitter de peppy](https://twitter.com/ppy) environ un jour avant.
+
+La date du prochain osu! community meeting sera annoncée ultérieurement.
 
 ## S'impliquer
 
@@ -32,6 +34,7 @@ Le premier osu! community meeting a eu lieu le 19 septembre 2021. Tous les meeti
 | 3 | [31 octobre 2021](https://youtu.be/omvZbC7zJUI) | [Document de synthèse](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) |
 | 4 | [14 novembre 2021](https://youtu.be/rEWgTY-L95Y) | [Document de synthèse](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) |
 | 5 | [28 novembre 2021](https://youtu.be/SqMrY26Q6Tw) | [Document de synthèse](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) |
+| 6 | [11 décembre 2021](https://youtu.be/dtGjIyTFtMA) | [Document de synthèse](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) |
 
 ## Liens connexes
 

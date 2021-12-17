@@ -41,8 +41,8 @@ The Catch French Beginner 4 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Co-organiser | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
+| Organizer | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
+| Co-organizer | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
 | Mappool selector | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
 | Referee | ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
 | Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |

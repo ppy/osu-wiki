@@ -52,7 +52,7 @@ osu! has a thriving community of technical and competitive people. They range fr
 
 Below are just a few of the ways you can contribute:
 
-- Browse the [Tournaments](https://osu.ppy.sh/community/forums/55) forum. Tournaments take a lot time and work to organize without hitches, and you can help out by being a spectator judge in some cases.
+- Browse the [Tournaments](https://osu.ppy.sh/community/forums/55) forum. Tournaments take a lot time and work to organise without hitches, and you can help out by being a spectator judge in some cases.
 - Check out what's going on in the [Development](https://osu.ppy.sh/community/forums/2) forum; this is where most serious projects happen.
   - Join the [osu!dev Discord](https://discord.gg/ppy)! Even just following along and staying up-to-date with osu! development and projects is a good way to stay informed.
 - Join a [beatmap project](https://osu.ppy.sh/community/forums/53) and learn how fun collaborating with others can be!

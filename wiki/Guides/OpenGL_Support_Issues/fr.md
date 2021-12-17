@@ -14,7 +14,7 @@ Tout d'abord, vérifions si cela s'applique à vous :
 
 Vérifiez si vous utilisez Microsoft Basic Display Adapter comme indiqué dans le diagramme suivant :
 
-![Gestionnaire de périphériques](img/Devicemanager.png "Gestionnaire de périphériques")
+![Gestionnaire de périphériques](img/devicemanager-FR.png "Gestionnaire de périphériques")
 
 Veuillez trouver les pilotes pour votre carte sur le site Web du fabricant. Voici quelques liens courants :
 
