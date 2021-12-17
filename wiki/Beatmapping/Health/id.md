@@ -18,7 +18,7 @@ Score burst akan muncul setelah menekan hit circle, mengganti skor dan nilai hea
 
 Pemulihan Health:
 
-- Sukses mengetuk hit circle ([mendapatkan nilai](/wiki/Gameplay/Judgement) lebih memberikan banyak health; hit circle terakhir di warna kombo memberikan tambahan health)
+- Sukses mengetuk hit circle ([judgement](/wiki/Gameplay/Judgement) yang lebih baik memberikan banyak health; hit circle terakhir pada warna kombo memberikan tambahan health)
 - Sukses mengetuk sebuah awal slider
 - Slider ball berhasil mengumpulkan slider tick
 - Slider ball berhasil menyentuh slider end atau reverse arrow (mendapatkan nilai lebih saat tick terakhir memberikan tambahan health)
