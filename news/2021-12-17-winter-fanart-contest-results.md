@@ -50,11 +50,11 @@ Excellent use of colour and contrast in this one really makes the whole thing po
 
 [![](https://assets.ppy.sh/contests/136/banners/DGen.jpg)](https://assets.ppy.sh/contests/136/winners/DGen.png)
 
-**3454** voters could not resist the warmth of [**DGen**](https://osu.ppy.sh/users/13290907)'s most festive entry, showcasing a snug pippi and dozing Chirou enjoying season-appropriate treats before a raging campfire. The tree's decorated with 1-2 and slider baubles, too. Very fitting considering most of them come from a farm.
+**3454** voters could not resist the warmth of [**DGen**](https://osu.ppy.sh/users/13290907)'s most festive entry, showcasing a snug pippi and dozing Chirou enjoying season-appropriate treats before a raging campfire. The tree's decorated with 1-2 patterns and slider baubles, too. Very fitting considering most of them come from a farm.
 
 [![](https://assets.ppy.sh/contests/136/banners/SvenJing.jpg)](https://assets.ppy.sh/contests/136/winners/SvenJing.png)
 
-Frigid elegance presides with [**SvenJing**](https://osu.ppy.sh/users/11215996) depiction of an ice-wielding pippi in a frozen landscape. **3341** voters were impressed by this artistic twist on the contest theme, and so should you!
+Frigid elegance presides with [**SvenJing**](https://osu.ppy.sh/users/11215996)'s depiction of an ice-wielding pippi in a frozen landscape. **3341** voters were impressed by this artistic twist on the contest theme, and so should you!
 
 Always a pleasure to see artists pushing the envelope beyond the normal!
 
@@ -64,7 +64,7 @@ Always a pleasure to see artists pushing the envelope beyond the normal!
 
 [![](https://assets.ppy.sh/contests/136/banners/157.jpg)](https://assets.ppy.sh/contests/136/winners/157.png)
 
-[**157**](https://osu.ppy.sh/users/9315038) introduces some new years flair to **3321** votes of approval with a yukata-clad Mocha set before a firework-lit cityscape. More beautiful use of colour and reflection really brings out the details in this piece, which multiply the longer you look.
+[**157**](https://osu.ppy.sh/users/9315038) introduces some new years flair to **3321** votes of approval with a yukata-clad Mocha set before a firework-lit cityscape. Beautiful use of colour and reflection really brings out the details in this piece, which multiply the longer you look.
 
 ...is that a pencil dog?
 
@@ -78,7 +78,7 @@ Creating a shot for the ages, **3106** cheered on [**McFriedFries**](https://osu
 
 [![](https://assets.ppy.sh/contests/136/banners/TJ_25.jpg)](https://assets.ppy.sh/contests/136/winners/TJ_25.png)
 
-[**TJ_25**](https://osu.ppy.sh/users/18470896)'s Alisa and pippi distributed **2979** gifts and got as many votes in return from excited viewers eager to see a few of their favorite references, such as the venerable 1-2 and the Funny Number.
+[**TJ_25**](https://osu.ppy.sh/users/18470896)'s Alisa and pippi distributed **2979** gifts and got as many votes in return from excited viewers eager to see a few of their favourite references, such as the venerable 1-2 and the Funny Number.
 
 Something else is going on in this one, you say? No idea what you're talking about.
 
@@ -114,7 +114,7 @@ osu!supporters even enjoy a special 50% discount! Classic ramen soup for only $3
 
 All of the finalist entries listed above are now available in-game as our Winter 2021 Seasonal backgrounds, accompanied by our very special osu!-themed winter tunes. They'll stick around until a little bit into the new year, so make sure to enjoy them while you can!
 
-A huge thanks goes out to everyone who took the leap to put their work out there and enter the contest - the legacy of osu!'s fanart contests is a really encouraging and wonderful one, and it has only ended up that way thanks to everyone who's participated over the years!
+A huge thanks goes out to everyone who took the leap to put their work out there and enter the contest — the legacy of osu!'s fanart contests is a really encouraging and wonderful one, and it has only ended up that way thanks to everyone who's participated over the years!
 
 Make sure to check out the [contest listing](https://osu.ppy.sh/community/contests/136) for the full rundown on the voting, if you're curious as to how things went down.
 
