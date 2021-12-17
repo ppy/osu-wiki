@@ -36,7 +36,7 @@ The overall vibes of this artwork are really something else, and hearken back to
 
 [![](https://assets.ppy.sh/contests/136/banners/Dreamxiety.jpg)](https://assets.ppy.sh/contests/136/winners/Dreamxiety.png)
 
-[**Dreamxiety**](https://osu.ppy.sh/users/13103233) is back at it again with **3982** voters thoroughly impressed by a doge-toting pippi enjoying a moment whilst Tama and Chirou build a snowman in a rather scenic wintry vista. Simply superb, as always!
+[**Dreamxiety**](https://osu.ppy.sh/users/13103233) is back at it again with **3982** voters thoroughly impressed by a doge-toting pippi enjoying a moment whilst Aiko and Chirou build a snowman in a rather scenic wintry vista. Simply superb, as always!
 
 [![](https://assets.ppy.sh/contests/136/banners/handakote.jpg)](https://assets.ppy.sh/contests/136/winners/handakote.png)
 
@@ -60,7 +60,7 @@ Always a pleasure to see artists pushing the envelope beyond the normal!
 
 [![](https://assets.ppy.sh/contests/136/banners/RedcXca.jpg)](https://assets.ppy.sh/contests/136/winners/RedcXca.png)
 
-[**RedcXca**](https://osu.ppy.sh/users/14056601)'s take on three camping mascots (mostly) enjoying some campfire warmth earned **3335** votes. If you saw pippi, Chirou, Tama and a don all sitting around a fire, what would you do?
+[**RedcXca**](https://osu.ppy.sh/users/14056601)'s take on three camping mascots (mostly) enjoying some campfire warmth earned **3335** votes. If you saw pippi, Chirou, Aiko and a don all sitting around a fire, what would you do?
 
 [![](https://assets.ppy.sh/contests/136/banners/157.jpg)](https://assets.ppy.sh/contests/136/winners/157.png)
 
@@ -70,7 +70,7 @@ Always a pleasure to see artists pushing the envelope beyond the normal!
 
 [![](https://assets.ppy.sh/contests/136/banners/ZunK.jpg)](https://assets.ppy.sh/contests/136/winners/ZunK.png)
 
-**3178** could not resist the allure of [**ZunK**](https://osu.ppy.sh/users/1070783)'s simmering winter stew, complete with crying fish. There's also an absurdly cute drooling mocha and inquisitive pippi all rugged up in winterwear, too!
+**3178** could not resist the allure of [**ZunK**](https://osu.ppy.sh/users/1070783)'s simmering winter stew, complete with crying fish. There's also an absurdly cute drooling Mocha and inquisitive pippi all rugged up in winterwear, too!
 
 [![](https://assets.ppy.sh/contests/136/banners/McFriedFries.jpg)](https://assets.ppy.sh/contests/136/winners/McFriedFries.png)
 
@@ -90,7 +90,7 @@ osu!supporters even enjoy a special 50% discount! Classic ramen soup for only $3
 
 [![](https://assets.ppy.sh/contests/136/banners/7thDeath.jpg)](https://assets.ppy.sh/contests/136/winners/7thDeath.png)
 
-[**7thDeath**](https://osu.ppy.sh/users/18656961) impressed **2328** snowflakes with a simple but undeniably cute rendition of both pippi and Mocha taking a wintry stroll in festive attire. Very nice!
+[**7thDeath**](https://osu.ppy.sh/users/18656961) impressed **2328** snowflakes with a simple but undeniably cute rendition of both pippi and Chirou taking a wintry stroll in festive attire. Very nice!
 
 [![](https://assets.ppy.sh/contests/136/banners/JoakiKun.jpg)](https://assets.ppy.sh/contests/136/winners/JoakiKun.png)
 
