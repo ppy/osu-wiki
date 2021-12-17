@@ -1,31 +1,26 @@
----
-no_native_review: true
-needs_cleanup: true  # see the original article
----
+# Système de jugement d'osu!catch
 
-# osu!catch judgement system
+## Valeurs de hit
 
-## Hit values
-
-![](/wiki/shared/Catch_trails.jpg "Chemins de fruits dans osu!catch")
+![](/wiki/shared/Catch_trails.jpg "Traîné des fruits d'osu!catch")
 
 | Image | Nom | Effet |
 | :-: | :-: | :-- |
-| ![](img/catch-300.jpg "Fruit") | Fruit | Un Fruit est équivalent à un cercle, isolé ou composant un Slider. Le capturer est équivalent à une frappe parfaite (représenté par un 300 en multijoueur et sur l'écran de résultats) |
-| ![](img/catch-100.jpg "Juice Drop") | Juice Drops (Slider Tick) | Ces grosses gouttes représentent les ticks d'un Slider, similaires aux points (ticks) à l'intérieur des Sliders. Il est obligatoire de les capturer pour conserver le combo. Elles font deux fois la taille d'une Droplet (Chemin d'un Slider). 30pt par Drop en cas de capture (représenté par un 100 en multijoueur et sur l'écran de résultats) |
-| ![](img/catch-50.jpg "Droplet") | Droplets (Chemin d'un Slider) | Ces gouttelettes représentent le Chemin d'un Slider, et sont plus petites que les Juice Drops. 10pt par Droplet en cas de capture. Ne pas les capturer diminue la précision et fait perdre un des 50 pouvant être obtenus, mais ne brise pas le combo (représenté par un 50 en multijoueur ou sur l'écran de résultats) |
-| (None) | Miss Droplets | Droplets (Chemin de Slider) ratées. Elles ne sont pas affichées sur l'écran de résultats, mais le sont côté serveur. Le combo ne sera pas brisé, mais cela diminue la précision et fait perdre un des 50 pouvant être obtenus. Cela n'est pas considéré comme un Miss. N'est pas affiché en multijoueur ou sur l'écran de résultats, mais l'est en tant que *Droplet Miss* dans le classement du site. |
-| ![](img/catch-banana.jpg "Banana") | Bananas | Équivalent du Spinner. Ces petites bananes rétrécissent lorsqu'elles s'approchent du Catcher. Il n'est pas obligatoire de les capturer. 1,100pt en cas de capture, ceci venant de la complétion du Spinner dans osu! qui offre 1000pt bonus ainsi que 100pt pour une rotation. |
-| ![](img/catch-0.jpg "Miss") | Miss | Fruit et Juice Drops ratés. Brise le combe. Obtenu lorsque la capture d'un Fruit/Juice Drops est échouée. Aucun score accordé et brise le combo. Visible uniquement sur l'écran de résultats. |
+| ![](img/catch-300.jpg "Fruit") | Fruit | Un gros fruit qui équivaut au point de départ, de répétition et d'arrivée d'un cercle normal ou d'un slider. L'attraper équivaut à un coup parfait (affiché comme 300 sur le multijoueur et le résultat). |
+| ![](img/catch-100.jpg "Juice Drop") | Juice Drops (Slider Tick) | Ces gros droplets signifient les ticks du slider, semblables aux points (ticks du slider) à l'intérieur des sliders. Il est obligatoire de l'attraper pour le combo. Elle est deux fois plus grande que le droplets (Slider Trails). 30 pour une capture réussie (affiché comme 100 sur le multijoueur et le résultat). |
+| ![](img/catch-50.jpg "Droplet") | Droplets (Slider Trail) | Ces petits droplets sont des slider trails. Elles forment les traces du slider et sont plus petites que les juice drops. 10 pour chaque droplets. Cela diminue la précision pour ne pas capturer mais ne casse pas le combo (montré comme 50 sur multijoueur et résultat). |
+| (None) | Miss Droplets | Des droplets (Slider Trails) non capturés. N'apparaît pas sur l'écran des résultats mais sur le serveur. Le combo ne sera pas cassé mais la précision diminuera et le score d'un des 50 sera perdu. N'est pas considéré comme un miss. N'apparaît pas dans les résultats multijoueurs, mais apparaît comme *Droplet Miss* dans le classement du site web. |
+| ![](img/catch-banana.jpg "Banana") | Bananas | L'équivalent du spinner. Les bananes deviennent de plus en plus petites au fur et à mesure qu'elles tombent vers le catcher. Il n'est pas obligatoire de les attraper. 1,100 donné, cependant celui-ci suit le spinner clear dans osu! qui combine 1000 comme bonus et 100 comme spinning score. |
+| ![](img/catch-0.jpg "Miss") | Miss | Les juice drops et les fruits normales ne sont pas prises. Casse les combos. Donné lorsque l'on n'a pas réussi à attraper les Fruit/Juice Drops. Aucun score n'est donné et le combo est rompu. Ceci ne peut être vu que sur l'écran des résultats. |
 
-## Judgement mechanics
+## Mécaniques du jugement
 
-**Tout sauf les bananes:**
+**Tout sauf les bananes :**
 
-- Score complet quand vous la collectez.
-- Miss quand vous manquez.
+- Score complet lors de la collecte.
+- Miss quand failed.
 
-**Bananes:**
+**Bananes :**
 
-- Score constant de 1 100 par banane collectée.
-- Rien ne se produit quand vous manquez des bananes.
+- Score constant de 1.100 par banane collectée.
+- Rien ne se passe pour les bananes miss.
