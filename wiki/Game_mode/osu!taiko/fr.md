@@ -1,90 +1,90 @@
-# osu!taiko
+# osu!taiko (mode de jeu)
 
-![Gameplay d'osu!taiko](/wiki/shared/taiko-gameplay.jpg "Interface osu!taiko")
+![Gameplay d'osu!taiko](/wiki/shared/taiko-gameplay.jpg "Interface d'osu!taiko")
 
-osu!taiko est un mode de jeu dans osu! qui reprend *quelques* éléments du jeux de rythme japonais, [Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin) (sorti sous le nom de [Taiko: Drum Master](http://fr.wikipedia.org/wiki/Taiko:_Drum_Master) en Amérique du Nord).
+osu!taiko est un mode de jeu d'osu! qui emprunte *certains* éléments au jeu de rythme japonais [Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin) (sorti sous le nom de [Taiko : Drum Master](http://en.wikipedia.org/wiki/Taiko:_Drum_Master) en Amérique du Nord).
 
 ## ![](/wiki/shared/mode/taiko.png) Gameplay
 
-### Sélection de chansons
+### Sélection des beatmaps
 
-Pour accéder au mode de jeux osu!taiko, pressez `Ctrl`+`2` en même temps.
+Pour accéder au mode de jeu osu!taiko, appuyez simultanément sur les touches `Ctrl`+`2`.
 
 Vous pouvez aussi cliquer sur le bouton `Mode` et sélectionner `osu!taiko`.
 
-### Les bases du gameplay
+### Les bases du jeu
 
 #### Terrain de jeu
 
-![Terrain de jeu Taiko](/wiki/shared/Taiko_playfield.jpg "terrain de jeu osu!taiko")
+![Terrain de jeu d'osu!taiko](/wiki/shared/Taiko_playfield.jpg "Terrain de jeu d'osu!taiko")
 
-Pour les joueurs expérimentés de *Taiko no Tatsujin*:
+Pour les joueurs ayant une expérience préalable de *Taiko no Tatsujin* :
 
-- Pas de danseur en mode chibi en bas de l'écran (Ils doivent être dans un storyboard)
-- La barre de vie doit être au moins à 50% pour réussir une chanson (Ce qui n’est pas très clair quand on joue avec le skin par défaut; regardez dans le [Recueil de Skin](https://osu.ppy.sh/community/forums/topics/180864) pour un skin décent d’osu!taiko)
-- *Kiai Time* déclenche le *"Go-Go Time"*
-  - Les gimmicks du gameplay comment les hit balloons ou les chemins fourches ne sont pas implémentés (seulement les base de l’infrastructure)
-- La disposition du fond d’écran est différent
-  - Les beatmap osu!taiko spécifiques ont généralement leur propre arrière-plan customisé, laissant la section haute vide
-  - Une vidéo ou une image d’arrière-plan statique doit prendre seulement la partie basse de l’écran
-  - S’il y a un élément du storyboard, il doit prendre toute la place de l’écran disponible sauf les parties importantes pour le gameplay
+- Pas de danseuses chibi en bas (doit être storyboardé)
+- La barre de vie doit être remplie à au moins 50 % pour réussir la beatmap (ce qui n'est pas vraiment évident avec le skin par défaut ; consultez le [Skin Compendium](https://osu.ppy.sh/community/forums/topics/180864) pour trouver un skin osu!taiko décent).
+- *Kiai Time* déclenche le *"Go-Go Time"*.
+  - Les astuces de gameplay comme les ballons ou les chemins bifurqués ne sont pas implémentées (seulement les bases du jeu).
+- Différence d'affichage en arrière-plan
+  - Les beatmaps spécifique à osu!taiko a généralement son propre fond personnalisé, laissant la section supérieure vide.
+  - Une vidéo ou une image d'arrière-plan statique ne prend que la partie inférieure de la beatmap.
+  - S'il y a un élément de storyboard, il occupera tout l'espace disponible à l'écran, sauf les parties importantes pour le jeu.
 
-Pour les personnes commençant le mode osu!taiko, l’écran est divisé en deux sections différentes; la section haute contient les éléments de gameplay tandis que la section basse contient une image ou une vidéo de la beatmap. Dans la section haute, il y a la barre de vie, qui contrairement aux autres mode de jeu, commence vide puis doit être rempli au minimum à 50% pour passer la difficulté. Dans la partie au milieu en haut en dessous de la barre de vie, un tambour de taiko est disposé dans le côté gauche et un tapis roulant qui amène les cercles à toucher de droite à gauche passant sur un cercle blanc divisé en deux servant de cercle de jugement juste à droite du tambour de taiko. Au dessus du tambour de taiko il y a une mascotte taiko animée qui va réagir en fonction du jugement reçu avec l’arrière plan du dessus qui change de couleur. En dernier, il y a le score, la précision et le temps restant de la beatmap en haut à droite.
+Pour les nouveaux venus dans le mode osu!taiko, l'écran est divisé en deux sections différentes : la section supérieure contient les éléments de jeu tandis que la section inférieure contient une image ou une vidéo pour la beatmap. Dans la partie supérieure, on trouve la barre de vie qui, contrairement aux autres modes de jeu, commence vide et doit être remplie à au moins 50 % ou à moitié pour passer la difficulté. Dans la partie supérieure centrale, sous la barre de vie, se trouve un tambour taiko sur le côté gauche et un tapis roulant qui transporte les objets de droite à gauche en passant par un double cercle blanc qui sert de cercle de jugement près du tambour taiko. Au-dessus du tambour taiko se trouve la mascotte taiko animée, qui réagit en fonction du jugement reçu et change la couleur du fond supérieur. Enfin, il y a le score habituel, la précision et le timer de la beatmap en haut à droite.
 
-Notez que la perte de vie est désactivée en osu!taiko, donc seulement le cercle touché va affecter la barre de vie. Le combo ne sera pas brisé s’il n’y a pas de cercle. Contrairement à osu!, la célébration d’un combo se fait tous les 50 cercles touchés à la suite. Le score de base peut être boosté après avoir obtenu un combo qui est un multiple de 10, mais se stoppe à 100 (limite combo maximum pour le boost) Si le combo est brisé, le boost va être réinitialisé. Durant le *Kiai Time*, chaque cerclé frappé réussi donnera au joueur 20% de points en plus par rapport à son score actuel. Le score gagné par un cercle réussi est affiché en rouge au dessus de la précision dans le coin en haut à droite.
+Veuillez noter que le drain de santé est désactivé dans osu!taiko, donc seuls les objets affecteront la barre de santé. Les combos ne sont pas interrompus lorsque vous jouez sur un terrain vide. Contrairement à osu!, les combos sont célébrés tous les 50 coups consécutifs. Le score de base sera boosté après avoir obtenu un combo qui est un multiple de 10, mais s'arrête à 100 (limite maximale de combo pour le boost). Si le combo est cassé, le boost revient au score de base. Pendant le *Kiai Time*, chaque coup réussi donne au joueur 20% de points supplémentaires par rapport au score actuel. Le score obtenu lors d'un coup peut être vérifié sous la précision dans le coin supérieur droit en rouge.
 
-#### Notes de Taiko
+#### Notes d'osu!taiko
 
-![Cercle de frappe Taiko](/wiki/shared/Taiko_hitcircles.jpg "hit circles osu!taiko")
+![Cercles d'osu!taiko](/wiki/shared/Taiko_hitcircles.jpg "Cercles d'osu!taiko")
 
-Chaque note taiko (ou notes, pour faire plus court) va apparaître soit en rouge soit en bleu. Ces cercles colorés sont nommés respectivements Don (notes rouges) et Katu (notes bleues).
+Chaque note d'osu!taiko (ou notes, pour faire court) apparaît comme un cercle rouge ou bleu pâle. Ces cercles colorés ont été nommés respectivement Don (notes rouges) et Katu (notes bleues).
 
-Si c’est une petite note rouge, pressez le bouton lié à la portion intérieure du tambour de taiko ou toucher la partie large (le centre) du *TaTaCon*. Si c’est une petite note bleu, pressez le bouton lié à la portion extérieure du tambour de taiko ou toucher les côtés du *TaTaCon*. Si la note est un **GRAND** cercle, pressez les deux touches liées soit à l’intérieur soit à l’extérieur du tambour, cela dépendra de la couleur de la note pour gagner le double des points (appuyer sur une seule touche ne va doubler les points).
+S'il s'agit d'une petite note rouge, appuyez sur le bouton lié à la partie intérieure du tambour taiko ou frappez la grande zone plate (centre) du *TaTaCon*. S'il s'agit d'une petite note bleue, appuyez sur le bouton lié à l'anneau extérieur du tambour taiko ou frappez les côtés du *TaTaCon*. Si la note est un **GRAND cercle**, appuyez sur le bouton lié à l'anneau extérieur du tambour taiko ou frappez les deux côtés du *TaTaCon*, selon la couleur de la note, pour obtenir le double point (une seule frappe correcte donnera le simple point).
 
-Vous devez appuyer sur les touches quand les notes passent dans le cercle blanc de jugement à côté du tambour. Appuyer sur la mauvaise couleur, ou sur les couleurs bleu et rouge en même temps, sera considéré comme un miss.
+Les notes doivent être pressées ou frappées dans le petit cercle blanc de jugement à côté du tambour. Frapper la mauvaise couleur, ou les deux couleurs rouge et bleue en même temps, sera considéré comme un miss.
 
 #### Drumrolls
 
-![Taiko drumroll](/wiki/shared/Taiko_drumroll.jpg "drumroll osu!taiko")
+![Drumroll d'osu!taiko](/wiki/shared/Taiko_drumroll.jpg "Drumroll d'osu!taiko")
 
-Frapper l'intérieur (ou l'extérieur) du tambour continuellement pour gagner des points jusqu'à la fin du drumroll. Pour les **GRANDE** notes, vous gagnerez le double des points, mais il n’y a pas besoin d’appuyer sur les deux touches intérieures ou extérieures. Une seule suffit. Notez que ces drumrolls sont plus difficiles car les points sont seulement gagner quand vous touchez les petits cercles blancs, contrairement au drumrolling dans *Taiko no Tatsujin* ou il faut frapper aussi vite que possible.
+Frappez le tambour intérieur (ou extérieur) de façon continue pour obtenir des points jusqu'à la fin du drumroll. Pour une note **LARGE**, frappez les deux boutons du tambour intérieur (ou extérieur) simultanément et sans interruption jusqu'à la fin. Notez que les coups du drumroll sont plafonnés et ne sont comptés que lorsqu'ils sont frappés sur les petits cercles, plutôt que de jouer le drumrool aussi vite que possible comme dans *Taiko no Tatsujin*.
 
-Les drumrolls peuvent être ignorés sans être pénalisant pour la vie, comme il ne font pas remonter la barre de vie du tout. Toutefois, vous ne gagnerez pas de points sur ce drumroll. Chaque frappe successive sur les petits cercles donnent toujours un score de 300.
+Les drumroll peuvent être ignorés sans pénalité de vie, car ils ne récupèrent pas du tout la barre de vie. Cependant, cela coûtera les éventuels points gagnés grâce au drumroll. Chaque coup réussi sur le petit cercledonne un score statique de 300.
 
 #### Dendens/Shaker
 
-![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "spinner osu!taiko (denden)")
+![Spinners d'osu!taiko](/wiki/shared/Taiko_spinner.jpg "Spinners d'osu!taiko (denden)")
 
-Frapper l’intérieur et l’extérieur du tambour **en alternance** (par exemple : rouge, bleu, rouge, bleu, rouge, bleu,...) jusqu’à ce que le compteur du denden atteigne 0. La couleur de départ n’importe pas (vous pouvez commencer par du bleu si vous le désirez), et ne pas le compléter amène à une perte de vie mais pas de break de combo. Frapper la même couleur ne va pas faire décroitre le compteur du denden, jusqu’à ce qu’une couleur différente soit frappée à la place.
+Frappez le tambour intérieur et extérieur **dans l'ordre** (comme rouge, bleu, rouge, bleu, rouge, bleu, ...) jusqu'à ce que le compteur denden atteigne 0. La couleur de départ n'a pas d'importance (vous pouvez commencer par le bleu si vous le souhaitez), et ne pas le terminer entraînera une pénalité de vie mais pas de rupture de combo. Frapper la même couleur ne décrémentera pas le compteur denden, jusqu'à ce qu'une couleur différente soit frappée à la place.
 
-Cela ne va pas incrémenter le compteur de combo, et cela ne va pas faire regagner de la vie. Chaque frappe de denden réussi donne seulement un score de 300 statique, et un denden complet donnera un score perfect (GREAT).
+Il n'incrémente pas le compteur de combo, et ne récupère pas la barre de vie de quelque manière que ce soit. Chaque coup denden réussi ne donne qu'un score statique de 300, et l'achèvement du denden donnera un score parfait (GREAT) de grande note.
 
-## Style de jeu
+## Styles de jeu
 
-*[Reportez vous à la page Style de jeu dans osu!taiko](/wiki/Play_style).*
+*Reportez-vous à la page [Styles de jeu sous osu!taiko](/wiki/Play_style).*
 
 ## Contrôles
 
-Les contrôles par défaut pour osu!taiko sont:
+Les contrôles par défaut pour osu!taiko sont :
 
-| Type | Souris | Clavier | TaTaCon |
+| Type | Souris | clavier | TaTaCon |
 | :-- | :-- | :-- | :-- |
-| Rouge | Clic gauche(L) | `X`(L) / `C`(R) | surface plate du tambour |
-| Bleu | Clic droit(L) | `Z`(L) / `V`(R) | Surface extérieure du tambour |
+| Rouge | Click gauche (L) | `X`(L) / `C`(R) | Surface plane du tambour |
+| Bleu | Click droit (L) | `Z`(L) / `V`(R) | Surface extérieure du tambour |
 
-L'emplacement du curseur dans le jeu n'a pas d'importance lors de la lecture.
+Le placement du curseur dans le jeu n'a pas d'importance lors du jeu.
 
-Si le mode [Relax](/wiki/Game_modifier/Relax) est utilisé, le jugement du score ne prend en compte que le temps de frappe (et corrige automatiquement la couleur incorrecte avec une couleur correcte).
+Si le mod [Relax](/wiki/Game_modifier/Relax) a été utilisé, le jugement du score ne tient compte que du timing des coups (il rectifie automatiquement les coups de mauvaise couleur avec la bonne couleur).
 
-Les contrôleurs de tambour *TaTaCon* sont principalement conçus pour les ports d'attache de *Taiko no Tatsujin* et de *Taiko: Drum Master*.
+Le contrôleur de batterie *TaTaCon* a été conçu principalement pour les portages domestiques de *Taiko no Tatsujin* et *Taiko : Drum Master*.
 
-## Calcul du score
+## Notation
 
-*Les valeurs des scores peuvent être trouvées dans l'article [système de notation d'osu!taiko](/wiki/Score/osu!taiko).*
+*Les valeurs des scores peuvent être trouvées dans [système de notation d'osu!taiko](/wiki/Score/osu!taiko).*
 
-La section calcul du score détaille toutes les subtilités du score, y compris la formule mathématique.
+La section sur la notation détaille toutes les subtilités de la notation, y compris la formule mathématique.
 
-Les termes pour annoncer un score en osu!taiko utilise les mêmes termes que *Taiko no Tatsujin* comme montré ci-dessous :
+Les termes de notation dans osu!taiko utilisent les mêmes termes que ceux utilisés dans *Taiko no Tatsujin* comme indiqué ci-dessous :
 
 - GREAT (良), ou 300
 - GOOD (可), ou 100
@@ -94,166 +94,166 @@ Les termes pour annoncer un score en osu!taiko utilise les mêmes termes que *Ta
 
 | Grade | Condition |
 | :-: | :-- |
-| SS | 100% de précision. |
-| S | Plus de 95% de précision (90+% GREATs, ou moins d’un GOOD toutes les 10 notes). |
-| A | Plus de 90% de précision (80+% GREATs, ou moins d’un GOOD toutes les 5 notes). |
-| B | Plus de 80% de précision (70+% GREATs, ou moins d’un GOOD toutes les 3.33 notes). |
+| SS | Précision de 100% |
+| S | Précision supérieure à 95% (+de 90% GREAT, ou moins d'un GOOD pour 10 notes). |
+| A | Précision supérieure à 90% (+ de 80% de GREAT, ou moins d'un GOOD pour 5 notes). |
+| B | Précision supérieure à 80% (+ de 70% de GREAT, ou moins d'un GOOD pour chaque 3.33 notes). |
 
-## Accuracy (Précision)
+## Précision
 
-L’accuracy de la musique est calculée par la somme de toutes les précisions divisées par le nombre de notes. Un GREAT (良) compte comme 100%, un GOOD (可) comme 50% (la moitié) et un MISS/BAD (不可) comme 0% (ce qui cassera le combo). Les drumrolls et spinners n’influencent pas l’accuracy.
+La précision de la musique est calculée par la somme de la précision de toutes les notes divisée par le nombre de notes. Un GREAT (良) compte pour 100%, un GOOD (可) pour 50% (moitié) et un MISS/BAD (不可) pour 0% (qui casse le combo). Les drumrolls et les spinners n'influencent pas la précision.
 
-En d’autres termes : `Accuracy = Total points de hits / (Nombre total de hits * 300)`
+En d'autres termes : `Précision = Total des points de hit / (Nombre total de hits * 300)`
 
-| Termes | Formule |
+| Term | Formula |
 | :-: | :-- |
-| **Total points de hits** | ((Misses \* 0) + (100s\[GOOD\] \* 0.5) + 300s\[GREAT\]) \* 300 |
-| **Nombre total de hits** | Misses + 100s\[GOOD\] + 300s\[GREAT\] |
+| **Total des points de hit** | (Miss \* 0) + (100s\[GOOD\] \* 0.5) + 300s\[GREAT\]) \* 300 |
+| **Nombre total de hits** | Miss + 100s\[GOOD\] + 300s\[GREAT\] |
 | **s** | Nombre de |
 
-Contrairement à osu! ou osu!catch, un miss en Taiko ne réduira pas considérablement le score du score maximal possible. Au lieu de cela, le score constant est réduit par coup si chaque coup est séparé de plus de 100 combos (avec l’existence des spinners et des grandes notes, la perte de score serait plus importante).
+Contrairement à osu! ou osu!catch, un miss dans Taiko ne réduira pas fortement le score du score maximum possible. Au lieu de cela, le score constantan est réduit par miss si chaque miss est séparé par plus de 100 combos (avec l'existence du shaker et des grandes notes, la perte de score serait plus grande).
 
-Par exemple, dans une difficultée typique, casser un combo au milieu de la chanson, sans compter les grandes notes et les spinners, entraînerait une perte maximale de 44 000 points (cela ramènera le combo à 100)
+Par exemple, dans une difficulté typique, casser un combo au milieu d'une musique, sans tenir compte des grosses notes et des spinners, entraînerait une perte maximale de 44 000 points (pour ramener le combo à 100).
 
 ### Score
 
-Chaque GREAT (excluant le bonus 1.2x du Kiai Time’s) vaut *300 + RoundDown (Combo / 10)* fois *n* jusqu'à un maximum de *300 + 10n* points, dans lequel *n* dépend de la difficulté du morceau.
+Chaque GREAT (à l'exception du bonus 1,2x de Kiai Time) vaut *300 + RoundDown(Combo / 10)* fois *n* jusqu'à un maximum de *300+10n* points, où *n* dépend du degré de difficulté de la musique.
 
-Chaque *GOOD* donne la moitié du score d’un *GREAT*, tandis que pour un *MISS/BAD* donne un score de zéro.
+Chaque *GOOD* donne la moitié de la note que donne le *GREAT*, tandis que la note zéro est donnée pour les *MISS/BAD*.
 
-Le double du score est donné pour un *hit réalisé avec succès* sur les grandes notes (c’est différent de *Taiko no Tatsujin*, les côtés droits et gauches du tambour doivent être toujours frapper au même moment précisément pour avoir un hit réalisé avec succès pour les grandes notes).
+Le score est doublé en cas de frappe réussie de grosses notes (à la différence de *Taiko no Tatsujin*, les tambours gauche et droit doivent être frappés en même temps de manière très précise afin de permettre une frappe réussie de grosses notes).
 
-Pour les longues notes jaunes (drumroll), chaque hit rapporte 300 points tandis que les grand hit rapportent 600 points.
+Pour les notes longues jaunes (drumrolls), 300 est donné par coup dans le petit tandis que 600 par coup est donné au grand.
 
-Pour les notes denden/spinner, chaque strike/spin donne 300 points et finir un denden/spinner donne un score deux fois plus grand qu'un GREAT du combo actuel.
+Pour les notes de denden/shaker, chaque frappe/shake donne 300 et terminer le denden/shaker donne deux fois plus de points qu'un GREAT du combo actuel.
 
-Une valeur typique de *n* (difficultée 4.5-5 étoile dans le vieux système de 5 étoiles) est 80, ce qui donne un score de 1,100/2,200 à 100 de combo et les combos d’après. Pour la difficultée 4 -4.5 étoiles, *n* est égal à 64 qui donne un score maximum par hit de 940/1,880. Dans la plus grande difficultée, *n* est égal à 96 qui donne un score maximum par hit de 1,260/2,520. Il y a des valeurs plus basses de *n* pour les difficultés plus faciles.
+Une valeur typique de *n* (difficultés de 4,5 à 5 étoiles dans l'ancien système de classement à 5 étoiles) est de 80, ce qui donne un score maximum de 1 100/2 200 à partir de 100 combos. Pour les difficultés 4 - 4,5 étoiles, *n* est égal à 64, ce qui donne un score maximum de 940/1 880 par coup. Dans le cas le plus difficile, *n* est égal à 96 et le score maximum par coup est de 1 260/2 520. Il existe des valeurs inférieures de *n* pour des difficultés encore plus faciles.
 
-Contrairement à [osu!](/wiki/Game_mode/osu!)/[osu!catch](/wiki/Game_mode/osu!catch), un miss en osu!taiko ne va pas causer une différence *drastique* de score par rapport au score maximal possible (dans osu!/osu!catch, plus le combo maximum est élevé et surtout plus près de la moitié du combo maximum, plus les dégâts de déviation dus à une frappe augmentent). A la place, un score constant de *n* (explique au dessus) est réduit par miss si chaque miss est séparé de plus de 100 combos. Avec l'existence des spinner et des grandes notes, la perte de score sera plus grande.
+Contrairement à [osu!](/wiki/Game_mode/osu!)/[osu!catch](/wiki/Game_mode/osu!catch), un miss dans osu!taiko n'entraînera pas une différence de score *drastique* par rapport au score maximum possible (dans osu!/osu!catch, l'écart de score dû à un échec augmente *de plus en plus* au fur et à mesure que le combo maximum augmente et se brise surtout autour de la moitié du combo maximum). Au lieu de cela, un score constant de *n* (expliqué ci-dessus) est réduit par miss si chaque miss est séparé par plus de 100 combos. Avec l'existence du shaker et des grosses notes, la perte de score serait plus importante.
 
-Par exemple, dans une difficultée normale(80), casser un combo au milieu d’une chanson sans prendre en compte les grandes notes et les spinners, va résulter d’une perte de 44,000 points (pour ramener le combo à 100, tous les scores doivent être en GREAT).
+Par exemple, dans une difficulté typique (80), casser un combo au milieu d'une musique sans tenir compte des grosses notes et des spinners, entraînerait une perte maximale de 44 000 points (pour ramener le combo à 100, toute la valeur du score GREAT).
 
-Aussi contrairement aux autres modes de jeux, le Kiai Time a un effet sur les scores car il fait référence au *"Go-Go Time"* dans le jeu *Taiko no Tatsujin*. Quand le Kiai Time est actif, Le tambour en haut à gauche change d’animation, le terrain de jeu à un arrière plan en dégradé et la surface de hit gagne un design enflammé autour d’elle. En plus, chaque note hit gagnent x1,2 de multiplicateur de score, les grandes notes jaunes (drumroll) incluses, exceptés pour les hits sur un denden/spinner (le hit final est toujours multiplié).
+Contrairement aux autres modes de jeu, le Kiai Time a un effet sur les scores car il fait référence au *"Go-Go Time"* dans *Taiko no Tatsujin*. Lorsque le mode Kiai Time est actif, le tambour en haut à gauche change d'animation, le terrain de jeu présente un dégradé d'arrière-plan et la zone de frappe est entourée d'un graphique de feu. De plus, toutes les notes frappées sont multipliées par 1,2, y compris les longues notes jaunes (drumrolls), à l'exception des notes frappées sur un denden/shaker (le dernier coup est toujours multiplié).
 
-Pour faire court : `Score = {Valeur du score + [min(RoundDown(Combo / 10), 10) * RoundDown(multiplicateur de score taiko * multiplicateur du mod brut)]} * Kiai Time`
+En d'autres termes : `Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(taiko score multiplier * raw mod multiplier)]} * Kiai Time`
 
-| Terme | Sens |
+| Terme | Signification |
 | :-: | :-- |
-| **Valeur du score** | La valeur du score gagné par un hit (300/600, 150/300, ou 0/0). |
-| **Combo** | (Combo avant ce hit -1) ou 0; dépendant du plus fort |
-| **multiplicateur de score taiko** | \[Dépent de la difficultée\] Les valeurs possibles sont : 32, 48, 64, 80, 96 |
-| **multiplicateur du mod brut** | Le multiplicateur *brut* du mod sélectionné (les multiplicateurs sont arrondis) |
-| **RoundDown** | Arrondis cette valeur en un nombre entier, en supprimant toutes les valeurs décimales. |
-| **min(x, y)** | Choisi toujours la valeur la plus basse entre *x* ou *y*. |
-| **Kiai Time** | Si le Kiai Time est actif, cette valeur est 1,2. Autrement cette valeur est 1,0. |
+| **ScoreValue** | La valeur du score obtenu par le coup (300/600, 150/300, ou 0/0). |
+| **Combo** | (Combo avant ce coup - 1) ou 0 ; la valeur la plus élevée étant retenue. |
+| **taiko score multiplier** | \[Cela dépend de l'indice de difficulté\] Les valeurs possibles sont : 32, 48, 64, 80, 96 |
+| **raw mod multiplier** | Le multiplicateur *raw* des mods sélectionnés (les multiplicateurs affichés sont généralement arrondis au chiffre supérieur). |
+| **RoundDown** | Arrondi plutôt cette valeur à un nombre entier, en supprimant toutes les valeurs décimales. |
+| **min(x, y)** | Choisis toujours la valeur la plus basse entre *x* et *y*. |
+| **Kiai Time** | Si le Kiai Time était actif, cette valeur est de 1,2. Sinon, la valeur est 1.0. |
 
-**Exceptions:**
+**Exceptions :**
 
-- Chaque drumroll hit réussi donne un score GREAT constant (300/600 pour les petits/grands drumroll respectivement) avec le Kiai Time bonus seulement.
-- Chaque touche de denden/spinner donne un score GREAT constant (300) sans le bonus Kiai Time excepté pour la dernière touche du denden/spinner, qui donne un grand score GREAT (600) avec le multiplicateur de combo actuel.
+- Chaque drumroll réussi donne une valeur de score GREAT constante (300/600 pour un petit/grand drumroll respectivement) avec un bonus de Kiai Time uniquement.
+- Chaque denden hit/shaker shake donne une valeur constante de GREAT Score (300) sans bonus de Kiai Time, sauf pour le dernier denden hit/shaker shake, qui donne une grande valeur de GREAT Score (600) avec le multiplicateur de combo actuel.
 
-### Jugement sur les objets de hit
+### Jugement des objets
 
-**Petite/Grande notes:**
+**Petites/Grandes notes :**
 
-- *GREAT* est donné si vous tapez dans le cercle de jugement parfaitement avec la bonne couleur.
-- *GOOD* est donné si vous tapez un petit peu avant/après le cercle de jugement avec la bonne couleur.
-- *MISS/BAD* est donné si vous tapez trop tôt, trop tard, miss le cercle de jugement, ou tapez la mauvaise couleur.
+- *GREAT* donné si on tambourine à l'intérieur du cercle parfaitement avec la couleur correcte.
+- *GOOD* donné si le tambour est légèrement éloigné du cercle de jugement avec une couleur correcte.
+- *MISS/BAD* donné si on a tambouriné trop tôt, trop tard, si on a manqué le cercle de jugement ou si on a tambouriné la mauvaise couleur.
 
-**Drumroll:**
+**Drumroll :**
 
-- Un score constant de 300/600 avec le bonus de Kiai Time quand il est disponible est donné pour chaque note frappée avec succès dans le drumroll de n'importe quelle note.
-- Aucun score n'est donné quand vous frappez entre deux petites notes.
-- Pas de *MISS/BAD* pour ne pas avoir fait le drumroll dans le style de *Taiko no Tatsujin*.
+- Score constant de 300/600 avec bonus de Kiai Time, si disponible, donné par petites notes frappées avec succès dans le drumroll avec n'importe quelle couleur.
+- Aucune note n'est donnée lorsqu'on tambourine sur l'écart des petites notes.
+- Pas de *MISS/BAD* pour ne pas avoir fait le drumroll selon le style *Taiko no Tatsujin*.
 
-**Denden/Spinner:**
+**Denden/Shaker :**
 
-- Un score constant de 300 est donné par hit/spin jusqu'à ce qu'il soit complèté.
-- *GREAT* est donné sur le dernier hit/spin.
-- *MISS/BAD* des dégâts sont donnés (mais ce n'est pas considéré comme un miss) si vous ne réussissez pas à compléter le Denden/Spinner.
+- Score constant de 300 par coup/secousse jusqu'à la fin.
+- *GREAT* donné sur le dernier coup/secousse.
+- Dégâts *MISS/BAD* donnés (non considérés comme un miss) en cas de miss du Denden/Shaker.
 
-### Multiplicateur de Score/Combo
+### Multiplicateur de score/combo
 
-**Les points suivants ajoutent tous un point au multiplicateur de score/combo :**
+**Ce qui suit ajoutent chacun un point au multiplicateur de score/combo :**
 
-- Avoir un *GREAT* ou un *GOOD* sur les grandes/petites notes.
+- Obtenir des notes *GREAT* ou *GOOD* sur des petites/grandes notes.
 
-**Les points suivants vont remettre à zéro le multiplicateur de :**
+**Ce qui suit remet le multiplicateur de score à zéro :**
 
-- Avoir un *MISS/BAD* sur des grandes/petites notes
+- Obtenir *MISS/BAD* sur les petites/grandes notes
 
-**Les points suivants ne remettent pas a zéro ou n’augmentent le multiplicateur :**
+**Ce qui suit ne permettent pas d'augmenter ou de réinitialiser le multiplicateur de score :**
 
-- Faire le drumroll.
-- Ne pas faire le drumroll.
+- Faire un drumroll.
+- Ne pas faire un drumroll.
 - Compléter le Denden/Shaker
-- Ne pas compléter Denden/Shaker
+- Ne pas compléter le Denden/Shaker
 
 ## Barre de vie
 
-Le système utilisé pour calculer le gain de vie est compliqué, du coup il ne sera pas expliqué en détail. Tout tourne autour de la difficulté des PV qui peut uniquement être changée par le mapper.
+Le système utilisé pour calculer le gain de vie est compliqué, il ne sera donc pas expliqué en détail. Tout tourne autour du paramètre de difficulté HP, qui ne peut être défini que par le mappeur lui-même.
 
-**Note:** La barre de vie doit être rempli au moins à **50%** pour réussir la beatmap.
+**Note :** La barre de vie doit être remplie au moins à **50%** pour passer la beatmap.
 
-**Les points suivants font que la vie augmente :**
+**Ce qui suit permettront de gagner de la vie :**
 
-- Avoir un *GREAT* ou un *GOOD* sur les petites/grandes notes.
+- Obtenir des notes *GREAT* ou *GOOD* sur des petites/grandes notes..
 
-**Les points suivants font que la vie baisse :**
+**Ce qui suit entraînera une perte de vie :**
 
-- Avoir un *MISS/BAD* sur les petites/grandes notes
-- Ne pas compléter le Denden/Spinner
+- Obtenir *MISS/BAD* sur les petites/grandes notes
+- Ne pas compléter le Denden/Shaker
 
-**Les points suivants ne font rien à la barre de vie :**
+**Ce qui suit ne fait rien à la barre de vie :**
 
-- Faire le drumroll.
-- Ne pas faire le drumroll.
-- Complète le Denden/Spinner
+- Faire un drumroll.
+- Ne pas faire un drumroll.
+- Compléter le Denden/Shaker
 
-**Note:** Il est entièrement possible pour une beatmap de ne *pas pouvoir la passer à cause du design* à cause de la beatmap ne contenant que des drumrolls et/ou des dendens/shakers.
+*Remarque :* il est tout à fait possible qu'une beatmap ne passe *jamais par conception* parce qu'il ne contient que des drumroll et/ou des dendens/shakers.
 
 ## Skinning
 
-*[Reportez vous à la page Skinning d’osu!taiko pour plus d’informations](/wiki/Skinning/osu!taiko).*
+*Voir la page [Skinning d'osu!taiko](/wiki/Skinning/osu!taiko) pour des informations complètes.*
 
-## Mapping osu!taiko
+## Mapping d'osu!taiko
 
-- Les notes rouges font référence à un hit circle normal,
-  - les grandes notes rouges doivent avoir un son hit de fin.
-- Les notes bleue doivent avoir un hitsound de clochette/applaudissement sur ces hit circle,
-  - les grandes notes bleue doivent avoir un son de finish et un son de clochette ensemble.
-- Les sliders sont représentés par une longue note jaune (aussi connu sous le nom de drumroll)
-- Le spinner est représenté par un shake.
+- Les notes rouges se réfèrent au cercle normal,
+  - Les grandes notes rouges ont besoin d'une finition sonore.
+- Les notes bleues doivent avoir un son de sifflet/clap sur ce cercle,
+  - Les grandes notes bleues ont besoin d'une finition et d'un sifflet ensemble.
+- Les sliders représentent la longue note jaune (également connue sous le nom de drumroll).
+- Les spinner représente un shaker.
 
-Le placement des notes n'importe pas.
+L'emplacement des notes n'a pas d'importance.
 
-### conversion des notes osu!
+### Conversion des beatmaps osu! > osu!taiko
 
-Quand une conversion de map arrive (jouer une map osu! en mode osu!taiko), les sliders très petits (moins d’un rythme) sont automatiquement convertis en note bleu ou rouge, dépendant du hitsound utilisé.
+Lorsqu'une conversion de beatmaps se produit (en jouant une beatmap osu! en mode osu!taiko), les sliders très courts (généralement moins d'un temps) sont automatiquement convertis en notes rouges ou bleues, selon le hitsound utilisé.
 
-Pour les maps avec un BPM de 125 ou moins, on donne 1/8 des drumrolls au lieu de 1/4.
+Pour les beatmaps avec 125BPM ou moins, les drumrolls 1/8 sont donnés au lieu des drumrolls 1/4.
 
-Notez que ce rythme 1/8 n'est pas souvent utilisé dans la musique. Il n'est pas suggéré de placer des sliders sur des rythmes 1/8.
+Notez que les rythmes 1/8 ne sont pas souvent utilisés en musique. Il n'est pas suggéré de placer un slider en rythme 1/8.
 
-Notez également que les drumrolls en 1/6 sont donnés si le taux de slider tick utilisé est de **3**.
+Notez également que des drumrolls 1/6 sont donnés si le slider tick rate de **3** a été utilisé.
 
-## Futilités
+## Le saviez-vous ?
 
 ### Gameplay
 
-- Jouer sur un terrain de jeux vide ne donnera aucun miss.
-- Drumroll: La limite haute d'un nombre de hit sur un slider est :
+- Jouer sur un terrain de jeu vide n'entraîne pas de miss.
+- Drumrolls : La limite supérieure du nombre d'occurrences du slider est :
   - 4 fois la longueur du slider, ou
-  - 8 fois la longueur du slider dans la musique si elle est égale ou inférieure à 125 BPM.
-- Contrairement aux autres modes de jeux, le *Kiai Time* a un effet sur le score car cela fait référence au *"Go-Go Time"* dans le jeu *Taiko no Tatsujin*. Quand le *Kiai Time* est activé, le tambour dans le coin en haut à gauche change d'animation (nommé *pippidon* ou *Don*/*Katsu* dans *Taiko no Tatsujin*), le terrain de jeu a un arrière plan dégradé et la zone de hit est enflammé.
-  -En plus, chaque note hit fait gagner x1,2 au multiplicateur de score, les longues notes jaunes incluses, excepté pour les hit sur un shaker (le hit final est toujours multiplié).
-- La mascotte pour osu!taiko est [pippidon](/wiki/Mascots#-pippi).
-- Quand vous jouez en mod [Auto](/wiki/Game_modifier/Auto), le nom du joueur sera *mekkadosu!*.
+  - 8 fois la longueur du slider dans les beatmaps qui sont égales ou inférieures à 125BPM.
+- Contrairement aux autres modes de jeu, *Kiai Time* a un effet sur les scores car il fait référence au *"Go-Go Time "* de *Taiko no Tatsujin*. Lorsque le mode *Kiai Time* est actif, le tambour en haut à gauche change d'animation (il s'appelle *pippidon* ou *Don*/*Katsu* dans *Taiko no Tatsujin*), le terrain de jeu présente un dégradé d'arrière-plan et la zone touchée est entourée d'un graphique de feu.
+  - En outre, toutes les notes frappées bénéficient d'un multiplicateur de score de 1,2x, y compris les longues notes jaunes, à l'exception des frappes sur un shaker (la dernière frappe est toujours multipliée).
+- La mascotte d'osu!taiko est [pippidon](/wiki/Mascots#pippi).
+- Lorsqu'il est joué par [Auto](/wiki/Game_modifier/Auto), le nom du joueur sera *mekkadosu!*.
 
-### Historique
+### Histoire
 
-![logo osu!taiko en modes spécial](img/Taiko_logo.jpg "Logo Taiko dans un mode spécial")
+![logo d'osu!taiko dans les modes spéciaux](img/Taiko_logo.jpg "Logo d'osu!taiko en mode spécial")
 
-- Le`Use Taiko skin for Taiko mode` dans la barre sur le côté en dessous de la section skin va utiliser les éléments du skin dans le dossier `taiko` quand vous jouez à osu!taiko, sans prendre en compte les éléments taiko du skin actuel. Le dossier utilisé pour contenir le skin *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)*, qui peut être téléchargé par le maintenant déprécié `osume.exe` (un exécutable permettant de mettre osu! à jour quand il en avait besoin) sous la catégorie `Skin`.
-- La première beatmap ranked qui contenait au moins une difficultée spécifique à osu!taiko est [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/beatmapsets/210)
-- La première beatmap ranked avec des beatmaps uniquement osu!taiko est [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/beatmapsets/55920)
+- L'option `Utiliser le skin Taiko pour le mode Taiko` dans le menu latéral des options sous la section Skin utilisera les éléments du skin du dossier `taiko` lorsque vous jouerez dans osu!taiko, sans tenir compte des éléments taiko du skin actuel. Le dossier contenait auparavant le skin *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)*, qui pouvait être téléchargé à partir du désormais obsolète `osume.exe` (un outil de mise à jour d'osu! quand osu! a besoin de se mettre à jour) sous l'onglet `Skin`.
+- La première beatmap classée qui contient au moins une difficulté osu!taiko est [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/beatmapsets/210)
+- La première beatmap composée de beatmaps d'osu!taiko classée est [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/beatmapsets/55920)
