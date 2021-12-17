@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Twitter
 
 osu! 有數個 Twitter 帳號，分別提供不同的功能。大部分的流量都很低，但能夠讓你在 osu! 生態圈外也能獲取新知。
