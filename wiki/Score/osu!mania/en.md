@@ -4,18 +4,7 @@ needs_cleanup: true
 
 # osu!mania scoring system
 
-## Hit values
-
-| Image | Name | Effect |
-| :-: | :-: | :-- |
-| ![](/wiki/Skinning/osu!mania/img/mania-hit300g.gif "Rainbow 300") | Rainbow 300 (MAX) | Perfect hit of the note or hold. Comparing to 300, getting this mark required dead-on accuracy to get it. Otherwise, a regular 300 will be given. Completing the beatmap with just this score will give the maximum 1,000,000 score (1 million score limit). This is equivalent to *Marvelous* in DDR term. |
-| ![](/wiki/Skinning/osu!mania/img/mania-hit300.png "300") | 300 | Almost perfect hit of the note or hold. Maximum score limit cannot be achieved if this score was given. |
-| ![](/wiki/Skinning/osu!mania/img/mania-hit200.png "200") | 200 | Slightly early or slightly late hit or hold. New players may get this mark a lot until they got accustomed to the mechanism of the conveyor, speed, buttons and the judgement area. |
-| ![](/wiki/Skinning/osu!mania/img/mania-hit100.png "100") | 100 | Early or late hit or hold. It does not affect the HP bar at all. |
-| ![](/wiki/Skinning/osu!mania/img/mania-hit50.png "50") | 50 | Very early or very late hit or hold. This score will be given for unreleased hold notes by default. Decreases HP, but not for a drastic amount. Does not break combo. |
-| ![](/wiki/Skinning/osu!mania/img/mania-hit0.png "Miss") | Miss | Not hitting the note or holding the note using the correct keys. Drastically drain the HP and breaks the current combo. |
-
-## Scoring
+*See also: [osu!mania judgement system](/wiki/Gameplay/Judgement/osu!mania)*
 
 In osu!mania, each beatmap has the same maximum total score of 1 million (1,000,000).
 
