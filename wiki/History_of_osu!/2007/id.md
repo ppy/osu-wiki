@@ -1,12 +1,12 @@
 # Sejarah osu! 2007
 
-Berikut ini adalah beberapa peristiwa besar dalam sejarah osu! sejak awal berdirinya. Terima kasih khusus kepada [Sinistro](https://osu.ppy.sh/users/5530) karena telah membantu menyusun konten tahun 2007/2008.
+Berikut ini adalah beberapa peristiwa besar yang terjadi di osu! selama tahun 2007. Terima kasih kepada [Sinistro](https://osu.ppy.sh/users/5530) atas bantuannya dalam menyusun sejarah osu! tahun 2007/2008.
 
 ![](img/2007.jpg)
 
 ## Juli
 
-osu! dimulai sebagai *proof-of-concept* bernama "ouentest"[[1]][r]. Versi pertama dirilis pada 1 Juli 2007 untuk sekelompok kecil teman dekat [peppy](https://osu.ppy.sh/users/2) dan memiliki sebuah [editor beatmap](/wiki/Beatmap_Editor) dan mode permainan yang sangat mendasar. Editor hanya dapat membuat [beatmap](/wiki/Beatmap) yang *sangat* sederhana tanpa fungsi *seeking* atau [*snapping*](/wiki/Beatmapping/Snapping) dan tidak ada slider atau spinner, hanya circle dan penghitung skor/kombo yang mendasar. Rilis pertama memakan waktu sekitar 16 jam waktu coding dan dilakukan dalam *single all-nighter*. `pUpdater` diperkenalkan (lekas dikenal sebagai `osume`)[[2]][r] untuk menangani pembaruan ke versi terbaru.
+osu! dimulai sebagai *proof-of-concept* bernama "ouentest"[[1]][r]. Versi pertama dirilis pada tanggal 1 Juli 2007 untuk sekelompok kecil teman dekat [peppy](https://osu.ppy.sh/users/2) dan memiliki sebuah [editor beatmap](/wiki/Beatmap_Editor) dan mode permainan yang sangat mendasar. Editor hanya dapat membuat [beatmap](/wiki/Beatmap) yang *sangat* sederhana tanpa fungsi *seeking* atau [*snapping*](/wiki/Beatmapping/Snapping) dan tidak ada slider atau spinner, hanya circle dan penghitung skor/kombo yang mendasar. Rilis pertama memakan waktu sekitar 16 jam waktu coding dan dilakukan dalam *single all-nighter*. `pUpdater` diperkenalkan (lekas dikenal sebagai `osume`)[[2]][r] untuk menangani pembaruan ke versi terbaru.
 
 ![](img/2007-07_01.jpg "Pemilihan Lagu")
 
@@ -16,7 +16,7 @@ osu! dimulai sebagai *proof-of-concept* bernama "ouentest"[[1]][r]. Versi pertam
 
 ![](img/2007-07_04.jpg "Hit circle")
 
-Pada akhir Juli, sistem menu diubah untuk menambahkan sedikit sentuhan desain pada game. Implementasi awal slider telah selesai, dengan slider ball berwarna jingga yang belum memiliki animasi dan beberapa lekukan yang relatif buruk. Beat snapping juga ditambahkan ke editor, serta timeline dan antarmuka editor yang lebih kokoh (tampilannya sangat mirip dengan apa yang Anda lihat dalam tampilan [Compose](/wiki/Beatmap_Editor/Compose) hari ini).
+Pada akhir bulan Juli, sistem menu diubah untuk menambahkan sedikit sentuhan desain pada game. Implementasi awal slider telah selesai, dengan slider ball berwarna jingga yang belum memiliki animasi dan beberapa lekukan yang relatif buruk. Beat snapping juga ditambahkan ke editor, serta timeline dan *interface* editor yang lebih kokoh (tampilannya sangat mirip dengan apa yang kamu lihat dalam tampilan [Compose](/wiki/Beatmap_Editor/Compose) hari ini).
 
 ![](img/2007-07_05.jpg "Editor")
 
@@ -28,7 +28,7 @@ Pada akhir Juli, sistem menu diubah untuk menambahkan sedikit sentuhan desain pa
 
 ## Agustus
 
-Menu utama telah diperbarui dengan tampilan baru, dan editor menerima banyak fungsi baru, termasuk dukungan salin dan tempel (copy dan paste). Menu tab dan menu konteks (*context menu*) ditambahkan, membuat fitur editor jauh lebih mudah diakses dibanding sebelumnya; slider lebih banyak mendapat dukungan, dengan ditambahkannya [slider tick](/wiki/Beatmapping/Slider_tick); diperkenalkannya [stacking](/wiki/Mapping_Techniques/Stack) [hit circles](/wiki/Hit_object/Hit_circle); dukungan lebih baik untuk skor terbaik lokal; dan format file `osu!` direvisi dan dirubah sepenuhnya, tetapi telah mencakup konversi file lama ke format baru.
+Menu utama telah diperbarui dengan tampilan baru, dan editor menerima banyak fungsi baru, termasuk dukungan salin dan tempel (copy dan paste). Menu tab dan menu konteks (*context menu*) ditambahkan, membuat fitur editor jauh lebih mudah diakses dibanding sebelumnya; slider lebih banyak mendapat dukungan, dengan ditambahkannya [slider tick](/wiki/Beatmapping/Slider_tick); diperkenalkannya [stacking](/wiki/Mapping_Techniques/Stack) [hit circles](/wiki/Hit_object/Hit_circle); dukungan lebih baik untuk skor terbaik lokal; dan format berkas `osu!` direvisi dan dirubah sepenuhnya, tetapi telah mencakup konversi berkas lama ke format baru.
 
 ![](img/2007-08_01.jpg "Pemilihan Lagu untuk Mode Play")
 
@@ -44,7 +44,7 @@ Peningkatan gameplay lebih baik dengan hadirnya combo fire, bar HP, cursor trail
 
 ![](img/2007-09.jpg)
 
-17 September, 2007 adalah tanggal "kelahiran" publik osu!. Forum-forum yang kita kenal sekarang dibentuk pada saat itu, dan dihosting menggunakan domain rumahan peppy (`ppy.sh`). osu! mulai mendapat perhatian saat disorot melalui pengumuman berita di [bemanistyle](http://www.bemanistyle.com) dalam [postingan ini](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483), yang menarik beberapa orang yang memiliki pengalaman game ritme sebelumnya.
+Tanggal 17 September 2007 merupakan tanggal peluncuran osu! secara publik. Forum-forum yang kita kenal sekarang dibentuk pada saat itu dan dihosting menggunakan domain rumahan peppy (`ppy.sh`). osu! mulai mendapat perhatian saat disorot melalui pengumuman berita di [bemanistyle](http://www.bemanistyle.com) dalam [postingan ini](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483), yang menarik beberapa orang yang memiliki pengalaman game ritme sebelumnya.
 
 ![](img/2007-09_01.jpg "Pembuatan slider dalam editor")
 
@@ -62,7 +62,7 @@ Beberapa saat setelah rilis secara publik, mod permainan pertama, [Easy](/wiki/D
 
 ## Oktober
 
-6 October, 2007 adalah hari ketika peringkat online dibuat tersedia untuk publik. Selain peringkat online, metode pengemasan `.osz` juga diluncurkan pada hari itu bersamaan dengan database beatmap online dengan sistem submisi berbasis web tahap awal. Peringkat online ditambahkan ke antarmuka dalam game dan juga ditampilkan di situs web.
+Pada tanggal 6 Oktober 2007, peringkat online dibuat tersedia untuk publik. Selain peringkat online, metode pengemasan `.osz` juga diluncurkan pada hari itu bersamaan dengan database beatmap online dengan sistem submisi berbasis web tahap awal. Peringkat online ditambahkan ke *interface* dalam game dan juga ditampilkan di situs web.
 
 ![](img/2007-10_01.jpg)
 
