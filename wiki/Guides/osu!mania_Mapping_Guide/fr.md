@@ -8,11 +8,11 @@
 
 osu!mania est l'un des quatre modes de jeu. osu!mania fait partie du genre **Vertical Scrolling Rhythm Game** (VSRG). Comme son nom l'indique, les notes de musique descendent ou montent de manière verticale. Il existe de nombreux jeux assez similaires à osu!mania tels que "Stepmania", "O2Jam" ou "Beatmania IIDX".
 
-Un avantage d'osu!mania est le nombre personnalisable de colonnes jouables et son éditeur de beatmaps simple à utiliser.
+Un des avantages d'osu!mania est le nombre personnalisable de colonnes jouables et son éditeur de beatmaps simple à utiliser.
 
 ### Qu'est-ce que l'éditeur de beatmaps ?
 
-Comme indiqué, l'éditeur permet un nombre personnalisable de colonnes. Pour des raisons de simplicité, ce guide s'articulera autour du mapping à 4 keys. Vous pouvez voir ci-dessous une capture d'écran qui détaille les compartiments de l'éditeur.
+Comme indiqué, l'éditeur permet un nombre personnalisable de colonnes. Pour des raisons de simplicité, ce guide s'articulera autour du mapping à 4 touches. Vous pouvez voir ci-dessous une capture d'écran qui détaille les compartiments de l'éditeur.
 
 #### Éditeur osu!mania
 
@@ -28,7 +28,7 @@ Comme indiqué, l'éditeur permet un nombre personnalisable de colonnes. Pour de
 
 *Raccourci :* `W, E, R`
 
-**6. Lock Notes** : Si l'option Lock Notes est activée, vous ne pouvez déplacer aucune note, ce qui est utile lors de la frappe. Si cette option n'est pas activée, vous pouvez accidentellement déplacer les notes lorsque vous les frappez.
+**6. Lock Notes** : Si l'option Lock Notes est activée, vous ne pouvez déplacer aucune note, ce qui est utile lors du hitsounding. Si cette option n'est pas activée, vous pouvez accidentellement déplacer les notes lorsque vous mettez des hitsounds.
 
 *Raccourci :* `L`
 
@@ -38,7 +38,7 @@ Les détails sur les snaps à utiliser pour le classement sont détaillés dans 
 
 *Raccourci :* `Ctrl + Molette de la souris`
 
-**8. Sample Set & Additions** : Les Sample Sets et les Additions vous permettent d'ajouter encore plus de hitsounds que ceux présentés au point 5. Par exemple, vous pouvez superposer un son de fin de batterie au son de fin normal. Ainsi, vous pouvez donner à votre morceau une variété encore plus grande de sons frappés !
+**8. Sample Set & Additions** : Les Sample Sets et les Additions vous permettent d'ajouter encore plus de hitsounds que ceux présentés au point 5. Par exemple, vous pouvez superposer un son de fin de batterie au son de fin normal. Ainsi, vous pouvez donner à votre morceau une variété encore plus grande de hitsounds !
 
 *Raccourci :* `Ctrl + (W, E, R), Shift + (W, E, R)`
 
@@ -71,8 +71,8 @@ Très bien ! Faisons glisser le `.mp3` de la chanson que nous voulons mapper dan
 | Nom | Description |
 | :-- | :-- |
 | HP Drain Rate (HP) : | Une valeur plus élevée signifie un drain plus punitif et une récupération plus faible, et vice versa. Une valeur de HP couramment utilisée serait **7** *Note : Seuls les 50 ou les miss draineront les HP*. |
-| Key Count : | Ici, vous devez définir le nombre de keys dans lequel vous voulez mapper. Dans ce guide, je vais utiliser 4K. Notez que seules les beatmaps 4K, 5K, 6K, 7K, 8K et 9K sont classables. La case à cocher "Co-Op" peut être sélectionnée lorsque vous choisissez 5K et plus, doublant ainsi le nombre de touches. Cela vous permet de jouer avec un ami sur un seul clavier. |
-| Approach Rate : | Ce point n'est pas utilisé dans osu!mania et vous pouvez l'ignorer. |
+| Key Count : | Ici, vous devez définir le nombre de touches dans lequel vous voulez mapper. Dans ce guide, je vais utiliser 4K. Notez que seules les beatmaps 4K, 5K, 6K, 7K, 8K et 9K sont classables. La case à cocher "Co-Op" peut être sélectionnée lorsque vous choisissez 5K et plus, doublant ainsi le nombre de touches. Cela vous permet de jouer avec un ami sur un seul clavier. |
+| Approach Rate : | Cette option n'est pas utilisée dans osu!mania et vous pouvez l'ignorer. |
 | Overall Difficulty (OD) : | L'OD modifie la fourchette d'erreur de frappe de tous les jugements, à l'exception de 300g. Il est recommandé d'utiliser un OD plus faible pour les beatmaps orientées Long Note, et vice versa pour les beatmaps orientées Note. |
 
 #### Design
@@ -92,21 +92,21 @@ Très bien ! Faisons glisser le `.mp3` de la chanson que nous voulons mapper dan
 
 | Nom | Description |
 | :-- | :-- |
-| Stacking : | Ce point n'a pas d'effet pour osu!mania donc pas besoin de changer quoi que ce soit ici. |
-| Allowed Modes : | Avec ce point, vous changez le mode de l'éditeur à celui que vous voulez utiliser pour votre carte. Ce guide est consacré à l'osu!mania, nous utilisons donc "osu!mania" bien sûr. Si vous choisissez "All", votre éditeur sera réglé sur osu!mania. **Si vous changez cette option alors que vous êtes dans une beatmap osu!mania existante, celle-ci sera écrasée**. |
+| Stacking : | Cette option n'a pas d'effet pour osu!mania donc pas besoin de changer quoi que ce soit ici. |
+| Allowed Modes : | Avec cette option, vous changez le mode de l'éditeur à celui que vous voulez utiliser pour votre carte. Ce guide est consacré à l'osu!mania, nous utilisons donc "osu!mania" bien sûr. Si vous choisissez "All", votre éditeur sera réglé sur osu!mania. **Si vous changez cette option alors que vous êtes dans une beatmap osu!mania existante, celle-ci sera écrasée**. |
 | Use special Style (N+1 style) for osu!mania : | Si vous mappez dans un keymode qui utilise une touche spéciale (5K et 8K), vous pouvez activer ce point. Cela permet au joueur d'échanger la **colonne spéciale** à sa gauche ou à sa droite selon ses réglages. Connue dans "BMS" sous le nom de "Scratch Column", elle est couramment utilisée dans 7+1K (8K) osu!mania. Le mapping en 7+1K est similaire au mapping d'une beatmap 7K, mais une **colonne spéciale** supplémentaire est générée à la discrétion du mappeur. |
 
-Le point **Colours** n'est pas utilisé dans osu!mania donc nous n'avons pas besoin de changer quoi que ce soit ici.
+L'option **Colours** n'est pas utilisée dans osu!mania donc nous n'avons pas besoin de changer quoi que ce soit ici.
 
-Le point **Audio** sera expliqué dans la partie "Hitsounds".
+L'option **Audio** sera expliquée dans la partie "Hitsounds".
 
 ### Timing
 
-Une fois que nous avons terminé la configuration de notre chanson, nous devons timer notre chanson. Le réglage du timing doit être précis par rapport au rythme de la chanson, sinon il sera difficile d'établir une correspondance exacte.
+Une fois que nous avons terminé la configuration de notre chanson, nous devons la timer. Le réglage du timing doit être précis par rapport au rythme de la chanson, sinon il sera difficile d'établir une correspondance exacte.
 
 #### Trouver le BPM
 
-Tout d'abord, vous devez écouter attentivement votre musique pour vous faire une idée du rythme. Une fois que vous pensez pouvoir entendre le rythme, commencez à appuyer sur "T" sur le temps jusqu'à ce que l'éditeur affiche une valeur. Vous pouvez appuyer plus longtemps pour obtenir un BPM plus précis, mais la plupart des chansons ont des valeurs de BPM entières, c'est-à-dire qu'elles n'ont pas de décimales.
+Tout d'abord, vous devez écouter attentivement votre musique pour vous faire une idée du rythme. Une fois que vous pensez pouvoir entendre le rythme, commencez à appuyer sur "T" sur chaques temps jusqu'à ce que l'éditeur affiche une valeur. Vous pouvez continuer de taper pour obtenir un BPM plus précis, mais la plupart des chansons ont des valeurs de BPM entières, c'est-à-dire qu'elles n'ont pas de décimales.
 
 Il devrait y avoir un tic-tac indiquant le BPM réglé, s'il n'est pas présent, vérifiez si votre volume **Effets** est assez élevé.
 
@@ -116,7 +116,7 @@ La plupart du temps, votre décalage sera légèrement décalé, c'est-à-dire q
 
 #### Vérification du BPM
 
-En général, le BPM initial trouvé sera légèrement différent, vous devrez vérifier que le BPM est correct.
+En général, le BPM initial trouvé sera légèrement décalé, vous devrez vérifier que le BPM est correct.
 
 *Notez que les mauvais offsets sont différents des mauvais BPMs.*
 
@@ -128,7 +128,7 @@ Si tout cela échoue, vous pouvez demander de l'aide dans le canal `#osu` ou `#o
 
 Le premier décalage est le premier temps de votre BPM actuel. Allez au point de votre chanson où vous pouvez entendre le premier temps, appuyez sur F6, cliquez sur le point de timing et appuyez sur "Use current time". Maintenant, le point de synchronisation devrait se trouver sur le décalage actuel, le premier temps.
 
-S'il est juste, votre chanson est enfin chronométrée !
+S'il est juste, votre chanson est enfin timée !
 
 #### MixMeister BPM Analyzer
 
@@ -152,17 +152,17 @@ Allez au point où le BPM change, appuyez sur F6 pour ouvrir le panneau Timing, 
 
 ### Pattern
 
-Une fois que vous avez enfin trouvé le bon timing dans votre beatmap, il est temps de commencer à mapper. Les motifs sont comme des blocs de construction de la beatmap, il est essentiel de connaître leurs noms et leurs objectifs. Nous allons ajouter une capture d'écran pour chaque motif avec une courte description de ce qu'ils sont et quand vous devez les utiliser.
+Une fois que vous avez enfin trouvé le bon timing dans votre beatmap, il est temps de commencer à mapper. Les patterns sont comme des blocs de construction de la beatmap, il est essentiel de connaître leurs noms et leurs objectifs. Nous allons ajouter une capture d'écran pour chaque motif avec une courte description de ce qu'ils sont et quand vous devez les utiliser.
 
 #### Long Note
 
-Le LN est le "Slider" dans osu!mania. L'utilisation des LN est la meilleure façon de représenter les sons longs dans votre chanson. Il y a beaucoup de façons d'utiliser un LN que nous allons expliquer dans une autre partie de ce guide.
+La LN est le "Slider" dans osu!mania. L'utilisation des LN est la meilleure façon de représenter les sons longs dans votre chanson. Il y a beaucoup de façons d'utiliser une LN que nous allons expliquer dans une autre partie de ce guide.
 
 ![Long Note](img/MT-Long_Note.jpg "Long Note")
 
 #### Chord
 
-Dans la capture d'écran, nous avons utilisé un chord de deux notes. Les chord signifient *plus d'une note*. Les "doubles", "triples" ou "quads" entrent dans cette catégorie. Ils sont utilisés pour mettre en valeur les sons forts de votre chanson, comme les grosses batteries ou les cymbales.
+Dans la capture d'écran, nous avons utilisé un chord de deux notes. Les chords signifient *plus d'une note*. Les "doubles", "triples" ou "quads" entrent dans cette catégorie. Ils sont utilisés pour mettre en valeur les sons forts de votre chanson, comme les grosses batteries ou les cymbales.
 
 Si vous prévoyez de classer votre beatmap, vous pouvez utiliser jusqu'à six notes ! Toute note supplémentaire est contraire aux critères de classement.
 
@@ -170,19 +170,19 @@ Si vous prévoyez de classer votre beatmap, vous pouvez utiliser jusqu'à six no
 
 #### Burst
 
-Les bursts sont des rafales rapides de notes. Ils ne sont pas nécessairement de 1/4, mais se définissent par une augmentation soudaine de la densité pendant une courte période de temps.
+Les bursts sont des rafales rapides de notes. Ils ne sont pas nécessairement en 1/4, mais se définissent par une augmentation soudaine de la densité pendant une courte période de temps.
 
 ![Burst](img/MT-Burst.jpg "Burst")
 
 #### Staircases
 
-Le staircase est surtout utilisé pour les sons rapides. Notez que certains staircase deviennent très difficiles à exécuter à partir d'un certain BPM, ceci est principalement dû aux jacks formés sur les colonnes 2 et 3.
+Le staircase est surtout utilisé pour les sons rapides. Notez que certains staircases deviennent très difficiles à exécuter à partir d'un certain BPM, ceci est principalement dû aux jacks formés sur les colonnes 2 et 3.
 
 ![Staircases](img/MT-Stream.jpg "Staircases")
 
 #### Roll
 
-Les rolling sont similaires aux staircases. Habituellement, les rolling sont délimités par un motif répétitif de 4 notes ou plus, mais plus généralement, ce sont des notes qui vont dans une certaine direction. Un 1234 est un roll et un 1324 est un split roll.
+Les rolls sont similaires aux staircases. Habituellement, les rolls sont délimités par un motif répétitif de 4 notes ou plus, mais plus généralement, ce sont des notes qui vont dans une certaine direction. Un 1234 est un roll et un 1324 est un split roll.
 
 ![Stair](img/MT-Stair.jpg "Stair")
 
@@ -194,7 +194,7 @@ Les rolling sont similaires aux staircases. Habituellement, les rolling sont dé
 
 #### Shield
 
-Le shield est reconnaissable au fait qu'il est toujours noté juste avant ou après un LN.
+Le shield est reconnaissable au fait qu'il est toujours situé juste avant ou après une LN.
 
 ![Shield](img/MT-Shield.jpg "Shield")
 
@@ -212,7 +212,7 @@ Le trill est utilisé pour deux sons changeant très rapidement dans votre musiq
 
 #### Chordtrill
 
-Le chord trill peut augmenter rapidement la difficulté de votre beatmap. Comme le trill, le chord trill est utilisé pour accentuer deux sons beaucoup plus forts qui changent très rapidement. Une alternative plus simple serait d'utiliser les chord trill `12` et `34` à la place.
+Le chord trill peut augmenter rapidement la difficulté de votre beatmap. Comme le trill, le chord trill est utilisé pour accentuer deux sons beaucoup plus forts qui changent très rapidement. Une alternative plus simple serait d'utiliser les chords trill `12` et `34` à la place.
 
 ![Chordtrill](img/MT-Chordtrill.jpg "Chordtrill")
 
@@ -222,21 +222,21 @@ Le chord trill peut augmenter rapidement la difficulté de votre beatmap. Comme 
 
 Un jumpstream peut être utilisé pour superposer des sons forts entre un stream constant de 1 note, en utilisant un chord de 2 notes lorsque cela est possible.
 
-Il y a beaucoup de façons différentes de mapper les jumpstreams. Dans la capture d'écran, nous pouvons voir une façon vraiment sûre de le mapper car il n'y a pas de 1/2 triple jacks.
+Il y a beaucoup de façons différentes de mapper les jumpstreams. Dans la capture d'écran, nous pouvons voir une façon vraiment basique de le mapper car il n'y a pas de 1/2 triple jacks.
 
 ![Jumpstream](img/MT-Jumpstream.jpg "Jumpstream")
 
-Ok ! Voici quelques-uns des différents pattern que vous pouvez utiliser dans votre musique ! Cependant, il existe encore de nombreuses autres configurations de pattern qui ne sont pas abordées dans ce guide. De nombreuses combinaisons fonctionnent bien ensemble. Essayez d'expérimenter ces pattern dans votre musique et nous pensons que vous pourrez trouver un bon mélange pour votre musique !
+Ok ! Voici quelques-uns des différents patterns que vous pouvez utiliser dans votre musique ! Cependant, il existe encore de nombreuses autres configurations de patterns qui ne sont pas abordées dans ce guide. De nombreuses combinaisons fonctionnent bien ensemble. Essayez d'expérimenter ces patterns dans votre musique et nous pensons que vous pourrez trouver un bon mélange pour votre musique !
 
 ### Mapping
 
-Une fois que nous savons quels motifs nous pouvons utiliser et comment ils sont appelés, nous pouvons commencer le mapping. Il suffit de faire glisser la musique que vous voulez mapper dans osu!, de remplir la configuration du morceau et d'ajouter le timing ! Si vos premiers essais sont étranges ou si vous n'aimez pas, n'abandonnez pas ! Personne n'est né maître en la matière. Testez votre beatmap aussi souvent que possible et lorsqu'elle est terminée, essayez d'obtenir le plus de retours possible ! Demande à tes amis qui jouent à osu!mania, demande à \#osumania ou écris directement à un joueur en jeu et demande-lui son avis. Cela aide vraiment beaucoup lorsque vous utilisez le playback rate de  25% pendant le mapping. Très bien, c'est parti ! Dans cette partie, nous souhaitons vous expliquer ce que vous devez surveiller lorsque vous mappez une difficulté Easy, Normal, Hard ou Insane.
+Une fois que nous savons quels patterns nous pouvons utiliser et comment ils sont appelés, nous pouvons commencer le mapping. Il suffit de faire glisser la musique que vous voulez mapper dans osu!, de remplir la configuration du morceau et d'ajouter le timing ! Si vos premiers essais sont étranges ou si vous n'aimez pas, n'abandonnez pas ! Personne n'est né maître en la matière. Testez votre beatmap aussi souvent que possible et lorsqu'elle est terminée, essayez d'obtenir le plus de retours possible ! Demande à tes amis qui jouent à osu!mania, demande sur \#osumania ou écris directement à un joueur en jeu et demande-lui son avis. Cela aide vraiment beaucoup lorsque vous utilisez le playback rate de 25% pendant le mapping. Très bien, c'est parti ! Dans cette partie, nous souhaitons vous expliquer ce que vous devez surveiller lorsque vous mappez une difficulté Easy, Normal, Hard ou Insane.
 
-**Notice** : Gardez à l'esprit que tout ce qui sera dit ici n'est qu'une ligne directrice et que vous ne devez pas le prendre comme une règle réelle. Vous n'avez pas besoin de suivre cette ligne directrice mot à mot.
+**Notice** : Gardez à l'esprit que tout ce qui sera dit ici n'est qu'une ligne directrice et que vous ne devez pas le prendre comme une règle établie. Vous n'avez pas besoin de suivre cette ligne directrice mot à mot.
 
 Si vous voulez classer votre beatmap, vous devez tenir compte de certains points.
 
-**Premièrement** : Vous avez besoin d'un spread complète dans votre beatmap. Une beatmap osu!mania nécessite généralement 3 difficultés ou plus. Un Easy/Normal, un Hard et un Insane. Bien sûr, vous pouvez décider vous-même si vous voulez une difficulté Easy ou Normal, mais il est préférable d'avoir les deux. Cependant, vous n'êtes pas obligé d'avoir une difficulté Easy dans votre mapset. Les [Critères de classement osu!mania](/wiki/Ranking_Criteria/osu!mania) stipulent que la difficulté la plus faible doit être inférieure à 2\*. Cela signifie que vous pouvez avoir un Normal comme difficulté la plus faible tant qu'elle est inférieure à 2\*. **Les beatmaps à approuver ne sont pas concernées par cette règle**.
+**Premièrement** : Vous avez besoin d'un spread complet dans votre beatmap. Une beatmap osu!mania nécessite généralement 3 difficultés ou plus. Une Easy/Normal, une Hard et une Insane. Bien sûr, vous pouvez décider vous-même si vous voulez une difficulté Easy ou Normal, mais il est préférable d'avoir les deux. Cependant, vous n'êtes pas obligé d'avoir une difficulté Easy dans votre mapset. Les [Critères de classement osu!mania](/wiki/Ranking_Criteria/osu!mania) stipulent que la difficulté la plus faible doit être inférieure à 2\*. Cela signifie que vous pouvez avoir une Normal comme difficulté la plus faible tant qu'elle est inférieure à 2\*. **Les beatmaps à approuver ne sont pas concernées par cette règle**.
 
 Lorsque vous créez un full spread, il est très important de regarder le pattern spread, et non le star rating ! Il peut arriver que le nombre d'étoiles soit très élevé à cause d'une seule partie très dense de votre beatmap. osu!mania dispose d'un outil très utile pour mapper différentes difficultés lorsque vous en avez déjà une prête. Par exemple : Vous avez déjà terminé la difficulté Hard de votre mapset et vous voulez maintenant en créer une Normal. Ouvrez la nouvelle difficulté, cliquez sur "Fichier", puis sur "Ouvrir la difficulté" et enfin sur "Pour référence". Choisissez maintenant la difficulté Hard. Un deuxième champ de mapping apparaît alors à côté du champ de mapping actuel. Il s'agit de la difficulté Hard. Il vous montre exactement comment vous avez placé le motif à cet endroit et vous pouvez vous en servir comme référence pour mapper la difficulté Normal !
 
@@ -248,9 +248,9 @@ Nous allons maintenant vous expliquer les **directives générales** sur ce qu'i
 
 **Comme nous l'avons dit, il s'agit juste d'une ligne directrice et vous n'êtes pas obligé de la suivre à la lettre**.
 
-**La difficulté "Easy"** : Comme son nom l'indique, nous avons choisi la difficulté Easy. Et c'est ce qu'elle doit être : Facile à jouer ! Nous voulons introduire les nouveaux joueurs à osu!mania et il doit apprendre les bases. C'est pourquoi nous voulons garder notre difficulté aussi simple que possible. Nous n'utilisons pas de motif 1/4, même le motif 1/2 doit être utilisé avec précaution. N'utilisez les chords que pour souligner le début ou la fin d'une partie avec une cymbale lourde. Assurez-vous de toujours essayer de bien équilibrer les mains. Utilisez beaucoup de LN pour les sons longs de votre chanson et pour cartographier les sons lourds de 1/4 et plus. Si vous voulez utiliser des chords par exemple dans votre kiai, assurez-vous que le joueur a suffisamment de temps pour réagir. Cela signifie qu'il faut lui donner un temps de battement de 1/1 ! Dans la plupart des chansons, le deuxième temps ou le temps principal est toujours plus fort que le premier, avec des sons lourds de batterie, de kicks ou de clap. Pour ces derniers, vous pouvez mapper un chord et utiliser une note normale pour les sons calmes. Mais tout de même : dans le meilleur des cas, n'utilisez que des notes normales et simples. N'utilisez pas non plus de notes simples lorsque vous avez un LN ! Le joueur doit d'abord apprendre à gérer un LN et à le relâcher au bon moment. Si vous voulez vraiment utiliser des notes simples pendant un LN, vous devez faire attention à ce que la note simple soit sur l'autre main. Cela signifie que lorsque vous avez mappé un LN sur la main droite, la note simple doit être pressée avec la main gauche ! N'oubliez pas non plus que si vous voulez ajouter une difficulté facile à votre chanson, vous devez essayer de la garder en dessous de 1,5\* pour avoir l'icône Easy.
+**La difficulté "Easy"** : Comme son nom l'indique, nous avons choisi la difficulté Easy. Et c'est ce qu'elle doit être : Facile à jouer ! Nous voulons introduire les nouveaux joueurs à osu!mania et ils doivent apprendre les bases. C'est pourquoi nous voulons garder notre difficulté aussi simple que possible. Nous n'utilisons pas de motif 1/4, même le motif 1/2 doit être utilisé avec précaution. N'utilisez les chords que pour souligner le début ou la fin d'une partie avec une cymbale lourde. Assurez-vous de toujours essayer de bien équilibrer les mains. Utilisez beaucoup de LN pour les sons longs de votre chanson et pour mapper les sons lourds de 1/4 et plus. Si vous voulez utiliser des chords par exemple dans votre kiai, assurez-vous que le joueur a suffisamment de temps pour réagir. Cela signifie qu'il faut lui donner un temps de battement de 1/1 ! Dans la plupart des chansons, le deuxième temps ou le temps principal est toujours plus fort que le premier, avec des sons lourds de batterie, de kicks ou de clap. Pour ces derniers, vous pouvez mapper un chord et utiliser une note normale pour les sons calmes. Mais tout de même : dans le meilleur des cas, n'utilisez que des notes normales et simples. N'utilisez pas non plus de notes simples lorsque vous avez une LN ! Le joueur doit d'abord apprendre à gérer une LN et à la relâcher au bon moment. Si vous voulez vraiment utiliser des notes simples pendant une LN, vous devez faire attention à ce que la note simple soit sur l'autre main. Cela signifie que lorsque vous avez mappé une LN sur la main droite, la note simple doit être pressée avec la main gauche ! N'oubliez pas non plus que si vous voulez ajouter une difficulté facile à votre chanson, vous devez essayer de la garder en dessous de 1,5\* pour avoir l'icône Easy.
 
-**La difficulté "Normal"** : Maintenant que nous savons comment créer une difficulté Easy, nous pouvons augmenter un peu la densité des notes pour la difficulté Normal. Nous pouvons utiliser plus de pattern 1/2 maintenant, mais nous devrions essayer d'éviter les pattern 1/4 ou les utiliser très prudemment. Dans le meilleur des cas, seulement lorsque votre musique a un bpm très bas ou seulement des short stairs. Nous pouvons également utiliser plus de chords maintenant. Si vous avez une grosse caisse claire ou une grosse cymbale au milieu de la partie, vous pouvez l'associer à un chord pour les mettre en valeur. Nous pouvons également utiliser des notes simples pendant un LN mais essayez d'utiliser des mains différentes comme expliqué dans la difficulté Easy ! Si vous avez plus d'une note pendant le LN, il est possible d'en avoir certaines sur la même main que le LN, mais la plupart d'entre elles doivent être jouées avec l'autre main ! Ici, nous devrions certainement mapper le kiai avec des chords et des notes normales comme déjà expliqué dans le Easy, mais n'en abusez pas. Selon le bpm de votre musique, vous pouvez aussi ajouter 1/2 notes normales ici. Mais n'oubliez pas : Le joueur vient d'apprendre le modèle de base et vous ne devez pas en abuser ! Un autre bon point pour un normal difficile est de suivre le PR (pitch relevancy) avec vos notes. Les sons plus aigus peuvent être mappés sur le côté droit, les sons plus graves sur le côté gauche du champ de jeu.
+**La difficulté "Normal"** : Maintenant que nous savons comment créer une difficulté Easy, nous pouvons augmenter un peu la densité des notes pour la difficulté Normal. Nous pouvons utiliser plus de pattern 1/2 maintenant, mais nous devrions essayer d'éviter les pattern 1/4 ou les utiliser très prudemment. Dans le meilleur des cas, seulement lorsque votre musique a un bpm très bas ou seulement des shorts stairs. Nous pouvons également utiliser plus de chords maintenant. Si vous avez une grosse caisse claire ou une grosse cymbale au milieu de la partie, vous pouvez l'associer à un chord pour les mettre en valeur. Nous pouvons également utiliser des notes simples pendant une LN mais essayez d'utiliser des mains différentes comme expliqué dans la difficulté Easy ! Si vous avez plus d'une note pendant la LN, il est possible d'en avoir certaines sur la même main que la LN, mais la plupart d'entre elles doivent être jouées avec l'autre main ! Ici, nous devrions certainement mapper le kiai avec des chords et des notes normales comme déjà expliqué dans le Easy, mais n'en abusez pas. Selon le bpm de votre musique, vous pouvez aussi ajouter 1/2 notes normales ici. Mais n'oubliez pas : Le joueur vient d'apprendre le modèle de base et vous ne devez pas en abuser ! Un autre bon point pour une difficulté normal est de suivre le PR (pitch relevancy) avec vos notes. Les sons plus aigus peuvent être mappés sur le côté droit, les sons plus graves sur le côté gauche du champ de jeu.
 
 **La difficulté "Hard"** : Dans la difficulté Hard, nous pouvons commencer à ajouter des motifs plus compliqués car le joueur doit avoir appris les bases de Easy et Normal. Nous pouvons commencer à ajouter de plus longues salves de 1/4 et des pattern stairs, nous pouvons également commencer à utiliser des chords de 3 notes pour les cymbales lourdes à la fin ou au début d'une partie. De même, en fonction du bpm et de la partie de votre beatmap, nous pouvons utiliser des jump streams courts mais assurez-vous qu'ils correspondent à la partie que vous mappez actuellement. Lorsque la musique devient plus trépidant et plus rapide, c'est le moment idéal pour ajouter un tel jumpstream. Vous pouvez également commencer à utiliser de courts pattern jack ici. Ce que vous devez éviter, ce sont les chord trills. Les chord trills ont une densité de pattern très élevée, ce qui peut entraîner un star ranting très élevé. Vous pouvez bien sûr utiliser de courts chord triples, mais ils ne devraient pas avoir un impact important sur le star ranting. Le kiai doit être la partie la plus dense de votre beatmap si possible. Aussi, vous pouvez essayer de combiner plus de LN et de 1/4 de pattern de notes simples. Essayez de combiner différentes longueurs de pattern LN en même temps ! Cela peut donner à votre beatmap une sensation spéciale en utilisant plus d'un LN en même temps. Mais fais très attention. Assurez-vous que chaque LN suit un son ! Ne les ajoutez pas "au hasard" dans votre musique juste parce que vous pensez que cela pourrait bien jouer. En fonction du BPM, il est également possible d'ajouter de courts pattern stairs 1/6 ou 1/8. Mais utilisez-les avec précaution. Ne les utilisez que si votre musique en offre suffisamment. Les stairs 1/6 ne doit pas être plus long qu'un 1/2 temps et le 1/8 pas plus long qu'un 1/4 temps ! Plus le bpm de votre chanson est bas, plus ces pattern stairs peuvent être longs.
 
