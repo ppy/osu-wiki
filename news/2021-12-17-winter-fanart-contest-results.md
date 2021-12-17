@@ -44,7 +44,7 @@ The overall vibes of this artwork are really something else, and hearken back to
 
 [![](https://assets.ppy.sh/contests/136/banners/ShovelKun.jpg)](https://assets.ppy.sh/contests/136/winners/ShovelKun.png)
 
-**3765** voters were impressed by [**ShovelKun**](https://osu.ppy.sh/users/9948284)'s festive urban delve into an aloof pippi and unmistakably cute Mocha posing for the camera before a muted cityscape. 
+**3765** voters were impressed to see [**ShovelKun**](https://osu.ppy.sh/users/9948284) delve into a festive urban style with an aloof pippi and unmistakably cute Mocha posing for the camera before a muted cityscape. 
 
 Excellent use of colour and contrast in this one really makes the whole thing pop, and the votes are the proof!
 
