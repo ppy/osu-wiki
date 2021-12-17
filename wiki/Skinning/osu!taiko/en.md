@@ -253,11 +253,11 @@ Notes:
 
 `taiko-glow.png`
 
-<!-- ![](img/taiko-glow.png) -->
+![](img/taiko-glow.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![No][false] (see notes) | Multiplicative | Centre | - |
+| All | ![No][false] | ![No][false] (see notes) | Multiplicative | Centre | 232x232 |
 
 Notes:
 
@@ -296,7 +296,7 @@ Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - This scrolls in a seamless loop, from the right side towards the left.
-- This element is disbaled if the beatmap has a storyboard.
+- This element is disabled if the beatmap has a storyboard.
 - Gets upscaled by 1.4x in-game.
 
 ---
@@ -471,7 +471,7 @@ Notes:
 Notes:
 
 - This element is also used in [osu!](/wiki/Game_mode/osu!).
-- This are the ticks of the roll.
+- These are the ticks of the roll.
 
 ## Shaker
 
