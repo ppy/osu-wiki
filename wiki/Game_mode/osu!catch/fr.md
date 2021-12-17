@@ -10,7 +10,7 @@ osu!catch, anciennement connu sous le nom de *Catch the Beat* ou *CtB*, est un m
 
 Pour accéder au mode de jeu osu!catch, appuyez simultanément sur les touches `Ctrl`+`3`.
 
-Vous pouvez aussi cliquer sur le bouton `Mode` et sélectionner `osu!le paramètre
+Vous pouvez aussi cliquer sur le bouton `Mode` et sélectionner `osu!catch`
 
 ### Les bases du jeu
 
