@@ -196,7 +196,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_FI] [Aakki](https://osu.ppy.sh/users/11077540) | Finnish |
 | ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280) | Spanish |
 | ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342) |  |
-| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/120247532) | Ukrainian |
+| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Ukrainian |
 | ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623) | Norwegian |
 | ![][flag_RU] [Froskya](https://osu.ppy.sh/users/4230454) | Russian |
 | ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | Lithuanian |
