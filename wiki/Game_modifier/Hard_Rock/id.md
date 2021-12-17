@@ -57,7 +57,7 @@ Dikarenakan kenaikan pada tingkat kesulitan yang lebih besar dibandingkan dengan
 
 *Catatan: Menggunakan mod ini pada mode osu!mania akan menyebabkan sebuah unranked play.*
 
-Pada [osu!mania](/wiki/Game_mode/osu!mania), hanya pengaturan kesulitan penilaian (OD) dan nilai AR yang ditingkatkan. Pengaturan kesulitan lainnya tetap tidak berubah. Posisi peletakkan not-not tidak terpengaruhi.
+Pada [osu!mania](/wiki/Game_mode/osu!mania), hanya [pengaturan](/wiki/Gameplay/Judgement) kesulitan penilaian (OD) dan nilai AR yang ditingkatkan. Pengaturan kesulitan lainnya tetap tidak berubah. Posisi peletakkan not-not tidak terpengaruhi.
 
 ## Trivia
 

@@ -10,4 +10,4 @@ tags:
 
 Di osu!, hit circle muncul dengan angka di atasnya; menunjukkan tempat mereka di dalam kombo. Hit cirlce juga dikelilingi oleh [approach circle](/wiki/Hit_object/Approach_circle), yang mengecil di sekelilingnya. Setelah approach cirlce tumpang tindih dengan hit cirlce, pemain harus mengklik hit cirlce untuk mendapatkan skor.
 
-Di osu!taiko, hit circle muncul dari kanan ke kiri sebagai nada merah atau biru (Don atau Katu). Saat hit cirlce mendekat dan segaris dengan lingkaran penilaian putih, tombol yang benar harus ditekan untuk mendapatkan skor.
+Di osu!taiko, hit circle muncul dari kanan ke kiri sebagai nada merah atau biru (Don atau Katu). Saat hit cirlce mendekat dan segaris dengan lingkaran [penilaian](/wiki/Gameplay/Judgement) putih, tombol yang benar harus ditekan untuk mendapatkan skor.

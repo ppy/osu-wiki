@@ -227,7 +227,7 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 | :-- | :-- |
 | Double ligne blanche | Mesure |
 | Ligne blanche | Temps commun |
-| Ligne verte | Vous/Ligne de jugement |
+| Ligne verte | Vous/Ligne de [jugement](/wiki/Gameplay/Judgement) |
 | Couleur bleue | Note actuellement sélectionnée |
 | Couleur blanche/rose/jaune | Couleur normale des notes |
 

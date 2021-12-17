@@ -510,7 +510,7 @@ Notes :
 
 Notes :
 
-- Cet élément est la représentation graphique de la judgement line.
+- Cet élément est la représentation graphique de la [judgement](/wiki/Gameplay/Judgement) line.
   - La judgement line est tracée au centre de l'image.
 - Cet élément est dessiné sur toute la largeur du stage, et non pas pour des colonnes individuelles.
 - Cet élément est étiré pour correspondre à la largeur du stage. (il est possible d'utiliser des images moins large)
