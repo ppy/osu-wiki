@@ -202,13 +202,13 @@ The SS Tournament 2018 had a prize pool of USD 200.
 
 ### Round of 16
 
- - NoMod
-   1. [Eiko Shimamiya - Higurashi no Naku Koro ni (Okorin) [Extra]](https://osu.ppy.sh/beatmapsets/333543#osu/738088)
-   2. [EYKHA (CV : Sawashiro Miyuki) LOU (CV : Uchida Maaya) MERYL (CV : Terui Haruka) - Delta Decision (Sotarks) [Linada's Extra]](https://osu.ppy.sh/beatmapsets/494606#osu/1097612)
-   3. [Suzaku - Anisakis -somatic mutation type"Forza" (ouranhshc) [Ultra]](https://osu.ppy.sh/beatmapsets/60521#osu/199593)
-   4. [Megpoid GUMI - Cosmos (val0108) [Cosmos]](https://osu.ppy.sh/beatmapsets/37054#osu/123374)
-   5. [LeaF - Evanescent (Anxient) [Extra]](https://osu.ppy.sh/beatmapsets/440997#osu/950963)
-   6. [Nico Nico Douga - Owens (AngelHoney) [Another]](https://osu.ppy.sh/beatmapsets/20406#osu/72469)
+- NoMod
+  1. [Eiko Shimamiya - Higurashi no Naku Koro ni (Okorin) [Extra]](https://osu.ppy.sh/beatmapsets/333543#osu/738088)
+  2. [EYKHA (CV : Sawashiro Miyuki) LOU (CV : Uchida Maaya) MERYL (CV : Terui Haruka) - Delta Decision (Sotarks) [Linada's Extra]](https://osu.ppy.sh/beatmapsets/494606#osu/1097612)
+  3. [Suzaku - Anisakis -somatic mutation type"Forza" (ouranhshc) [Ultra]](https://osu.ppy.sh/beatmapsets/60521#osu/199593)
+  4. [Megpoid GUMI - Cosmos (val0108) [Cosmos]](https://osu.ppy.sh/beatmapsets/37054#osu/123374)
+  5. [LeaF - Evanescent (Anxient) [Extra]](https://osu.ppy.sh/beatmapsets/440997#osu/950963)
+  6. [Nico Nico Douga - Owens (AngelHoney) [Another]](https://osu.ppy.sh/beatmapsets/20406#osu/72469)
 - DoubleTime
   1. [Pile, Mimori Suzuko, Nanjo Yoshino - soldier game (ZZHBOY) [Insane]](https://osu.ppy.sh/beatmapsets/212091#osu/498711)
   2. [T.M.Revolution - FLAGS (P A N) [Euny's Hard]](https://osu.ppy.sh/beatmapsets/395160#osu/864204)
