@@ -134,7 +134,7 @@ The ROI PRO Tournament was run by various community members.
 - HardRock
   1. [Kanzaki Elza starring ReoNa - Independence (Yasaija 714) \[Seto's Expert\]](https://osu.ppy.sh/beatmapsets/780318#osu/1828634)
   2. [Humanoid - MENDES (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/beatmapsets/21928#osu/75831)
-  3.[Sta - Shadows in the Light (Nerova Riuz GX) \[-presence?\]](https://osu.ppy.sh/beatmapsets/504690#osu/1073731)
+  3. [Sta - Shadows in the Light (Nerova Riuz GX) \[-presence?\]](https://osu.ppy.sh/beatmapsets/504690#osu/1073731)
 - DoubleTime
   1. [Perfume - NIGHT FLIGHT (eiri-) \[Voyage\]](https://osu.ppy.sh/beatmapsets/861719#osu/1802689)
   2. [TRUE - Sincerely (Kalibe) \[Emotion\]](https://osu.ppy.sh/beatmapsets/733581#osu/1548159)
