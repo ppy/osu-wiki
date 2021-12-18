@@ -42,6 +42,7 @@ Translation: *Note: If the above date has passed, the most recent date can be fo
 | 4 | [2021 年 11 月 14 號](https://youtu.be/rEWgTY-L95Y) | [筆記](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) |
 | 5 | [2021 年 11 月 28 號](https://youtu.be/SqMrY26Q6Tw) | [筆記](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) |
 | 6 | [2021 年 12 月 11 號](https://youtu.be/dtGjIyTFtMA) | [筆記](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) |
+| 7 | [2021 年 12 月 18 號]({{LINK}}) | [筆記](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) |
 
 ## 相關連結
 

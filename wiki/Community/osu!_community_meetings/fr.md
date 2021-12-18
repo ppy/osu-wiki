@@ -35,6 +35,7 @@ Le premier osu! community meeting a eu lieu le 19 septembre 2021. Tous les meeti
 | 4 | [14 novembre 2021](https://youtu.be/rEWgTY-L95Y) | [Document de synthèse](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) |
 | 5 | [28 novembre 2021](https://youtu.be/SqMrY26Q6Tw) | [Document de synthèse](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) |
 | 6 | [11 décembre 2021](https://youtu.be/dtGjIyTFtMA) | [Document de synthèse](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) |
+| 7 | [18 décembre 2021]({{LINK}}) | [Document de synthèse](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) |
 
 ## Liens connexes
 
