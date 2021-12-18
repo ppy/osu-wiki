@@ -4,7 +4,7 @@ title: "New Featured Artist: siromaru"
 date: 2021-12-18 09:00:00 +0000
 ---
 
-Spreading his wings to basically every rhythm game in existence, **siromaru** finally hops into our Featured Artist collection!
+Spreading his wings to soar into basically every rhythm game in existence, **siromaru** finally flies into our Featured Artist collection!
 
 ![](https://assets.ppy.sh/artists/226/header.jpg)
 
