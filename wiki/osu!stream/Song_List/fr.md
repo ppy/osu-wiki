@@ -2,7 +2,7 @@
 
 *Pour des informations sur le jeu de base, voir : [osu!stream](/wiki/osu!stream)*
 
-osu!stream propose jusqu'à 45 musiques jouables réparties dans différents packs de musiques. Depuis [la mise à jour de 2020] (https://news.osustream.com/post/611013728007274496/osustream-2020-release), toutes les musiques peuvent être téléchargées et jouées gratuitement.
+osu!stream propose jusqu'à 45 musiques jouables réparties dans différents packs de musiques. Depuis [la mise à jour de 2020](https://news.osustream.com/post/611013728007274496/osustream-2020-release), toutes les musiques peuvent être téléchargées et jouées gratuitement.
 
 Dans le menu Store, vous pouvez faire défiler la liste de tous les packs de musique disponibles et prévisualiser les beatmaps qu'ils contiennent avant de les télécharger. En sélectionnant le bouton `PREVIEW`, vous pourrez voir une courte démonstration de jeu des quatre difficultés dans une beatmap, de la difficulté la plus basse à la plus élevée [dans l'ordre correspondant du stream](/wiki/osu!stream#nouveau-système-de-gameplay).
 
@@ -232,7 +232,7 @@ Initialement, ce pack était inclus dans le lancement du jeu de base au prix de 
 | Lix - Electro Magnetic Pulse | *inconnu* | *inconnu* |
 | haru☆ - Septette for the Dead Princess | ![][flag_US] [Lybydose](https://osu.ppy.sh/users/64501) | *inconnu* |
 | Amane - BOOZEHOUND (DJ mix) | ![][flag_FR] [Sushi](https://osu.ppy.sh/users/43108) | *inconnu* |
-| Amane - Being Proof | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | *inconnu* |
+| Amane - Being Proof | ![][flag_PH] [James] (https://osu.ppy.sh/users/5728) | *inconnu* |
 
 Voir également :
 
