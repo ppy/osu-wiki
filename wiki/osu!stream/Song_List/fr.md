@@ -232,7 +232,7 @@ Initialement, ce pack était inclus dans le lancement du jeu de base au prix de 
 | Lix - Electro Magnetic Pulse | *inconnu* | *inconnu* |
 | haru☆ - Septette for the Dead Princess | ![][flag_US] [Lybydose](https://osu.ppy.sh/users/64501) | *inconnu* |
 | Amane - BOOZEHOUND (DJ mix) | ![][flag_FR] [Sushi](https://osu.ppy.sh/users/43108) | *inconnu* |
-| Amane - Being Proof | ![][flag_PH] [James] (https://osu.ppy.sh/users/5728) | *inconnu* |
+| Amane - Being Proof | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | *inconnu* |
 
 Voir également :
 
