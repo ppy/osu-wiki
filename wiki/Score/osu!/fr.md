@@ -6,18 +6,7 @@ outdated_since: c78e8f94260067c49d36a55deaaf7f40cb796b39
 
 # Système de notation d'osu!
 
-## Hit values
-
-| Image | Nom | Effet |
-| :-: | :-: | :-- |
-| ![](/wiki/Skinning/Interface/img/hit300.png "300") | 300 | Score obtenu lorsqu'un cercle est frappé précisément en rythme, lorsqu'un Slider est complété sans aucun tick raté, ou lorsqu'un Spinner est complété avec sa jauge au maximum. Un score de 300 apparaît avec une couleur bleue par défaut. Obtenir uniquement des 300 dans une beatmap récompense le joueur par un rang SS ou SSH. |
-| ![](/wiki/Skinning/Interface/img/hit300g.png "Geki") | (激) Geki | Un terme venant de Ouendan, appelé "Elite Beat!" dans EBA. Apparaît lorsque le dernier élément d'un combo est joué, dans lequel le joueur a obtenu uniquement des 300. Le Geki augmente de manière considérable la barre de vie. Possède une couleur bleue par défaut. |
-| ![](/wiki/Skinning/Interface/img/hit100.png "100") | 100 | Score obtenu lorsqu'un cercle est frappé légèrement en retard ou en avance, lorsqu'un Slider est complété avec peu de ticks ratés, ou lorsqu'un Spinner est complété avec sa jauge presque pleine. Un score de 100 apparaît avec une couleur verte par défaut. Quand des joueurs expérimentés testent une beatmap et qu'il obtiennent beaucoup de 100, cela peut signifier que le timing de cette beatmap est mal configuré. |
-| [](/wiki/Skinning/Interface/img/hit300k.png "300 Katu") ![](/wiki/Skinning/Interface/img/hit100k.png "100 Katu") | (喝) Katu ou Katsu | Un terme venant de Ouendan, appelé "Beat!" dans EBA. Apparaît lorsque le dernier élément d'un combo est joué, dans lequel le joueur a obtenu au moins un 100 mais pas de 50 ni de Miss. Le Geki augmente légèrement la barre de vie. Possède une couleur bleue ou verte par défaut, selon le score obtenu sur le Katu même (300 ou 100 respectivement). |
-| ![](/wiki/Skinning/Interface/img/hit50.png "50") | 50 | Score obtenu lorsqu'un cercle est frappé avec du délai, mais assez faible que pour ne pas causer de Miss, lorsqu'un Slider est complété avec beaucoup de ticks ratés, ou lorsqu'un Spinner est complété avec sa jauge modérément remplie. Un score de 50 apparaît avec une couleur orange par défaut. Obtenir un 50 dans un combo empêche l'obtention d'un Katu ou d'un Geki à la fin de celui-ci. |
-| ![](/wiki/Skinning/Interface/img/hit0.png "Miss") | Miss | Score obtenu lorsqu'un cercle n'est pas frappé, ou frappé avec trop de délai, lorsqu'un Slider n'est pas frappé ou maintenu sur au moins un tick, ou lorsqu'un Spinner est complété avec sa jauge peu remplie. Obtenir un Miss réinitialise le combo actuel, et empêche l'obtention d'un Katu ou d'un Geki à la fin de celui-ci. |
-
-## Score de l'objet
+*Voir aussi : [osu! judgement system](/wiki/Gameplay/Judgement/osu!)*
 
 Le score accordé par chaque cercle et fin de Slider est calculé à l'aide de la formule suivante :
 
@@ -34,7 +23,7 @@ De plus, chaque point de début, de fin ou de répétition du Slider donne 30pt,
 
 Un bonus supplémentaire de 1,000pt est obtenu pour chaque tour d'un Spinner dès que sa jauge est pleine.
 
-### Comment déterminer le multiplicateur de difficulté
+## Comment déterminer le multiplicateur de difficulté
 
 [Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup#taux-de-drain-de-santé) et [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) augmentent chacun un compteur de *points de difficulté* de 1 point.
 

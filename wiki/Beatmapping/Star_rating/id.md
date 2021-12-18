@@ -19,11 +19,11 @@ Sejak 27 Juli 2021, situs web osu! mengatur warna star rating beatmap secara oto
 
 Pada lokasi yang lain, seperti [AiMod](/wiki/Beatmap_Editor/AiMod), tingkat kesulitan diklasifikasikan ke dalam enam rentang level berdasarkan star rating berikut ini:
 
-- ![](/wiki/shared/diff/easy-o.png) Easy: 0.0★–1.99★
-- ![](/wiki/shared/diff/normal-o.png) Normal: 2.0★–2.69★
-- ![](/wiki/shared/diff/hard-o.png) Hard: 2.7★–3.99★
-- ![](/wiki/shared/diff/insane-o.png) Insane: 4.0★–5.29★
-- ![](/wiki/shared/diff/expert-o.png) Expert: 5.3★–6.49★
-- ![](/wiki/shared/diff/expertplus-o.png) Expert+: 6.5★ dan di atasnya
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy: 0.0★–1.99★
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal: 2.0★–2.69★
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard: 2.7★–3.99★
+- ![](/wiki/shared/diff/insane-o.png?20211215) Insane: 4.0★–5.29★
+- ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ dan di atasnya
 
 Sebagian besar ikon yang diberikan, sebanding dengan tingkat kesulitan map yang dimiliki, tetapi dalam beberapa kasus malah menyimpang cukup jauh. Inilah mengapa [ranking criteria](/wiki/Ranking_Criteria) menjelaskan aturan yang lebih akurat untuk menentukan tingkat kesulitan sebuah beatmap beserta mengevaluasi semua tingkat kesulitan (*spread*) yang ada dalam beatmap.
