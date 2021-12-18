@@ -8,7 +8,7 @@ tags:
   - pengumuman
 ---
 
-# BanchoBot<!-- omit in toc -->
+# BanchoBot
 
 *Untuk penggunaan lainnya, lihat [Bancho (disambiguasi)](/wiki/Disambiguation/Bancho).*
 
@@ -18,7 +18,7 @@ tags:
 
 BanchoBot juga memiliki [profil osu!](https://osu.ppy.sh/users/3) dan [akun Twitter](https://twitter.com/banchoboat).
 
-## Perintah<!-- omit in toc -->
+## Perintah
 
 *Untuk melihat daftar perintah yang tersedia pada permainan, kunjungi [Chat Console](/wiki/Chat_Console#daftar-perintah)*
 
@@ -143,7 +143,7 @@ Terdapat 7 status yang dapat ditampilkan oleh perintah `!stats`: Editing, Idle, 
 !report <nama pemain> <alasan>
 ```
 
-Perintah `!report` berfungsi memberi tahu [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) mengenai perilaku pemain yang tidak pantas. Jika nama pemain yang hendak dilaporkan mengandung karakter spasi, gantilah dengan garis bawah (contoh `really cool username` menjadi `really_cool_username`). Untuk melaporkan seorang moderator, silakan hubungi [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Berikut contoh hasil dari perintah tersebut:
+Perintah `!report` berfungsi memberi tahu [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) mengenai perilaku pemain yang tidak pantas. Jika nama pemain yang hendak dilaporkan mengandung karakter spasi, gantilah dengan garis bawah (contoh `really cool username` menjadi `really_cool_username`). Untuk melaporkan seorang moderator, silakan hubungi [Account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Berikut contoh hasil dari perintah tersebut:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese
@@ -153,4 +153,4 @@ Perintah `!report` berfungsi memberi tahu [Global Moderation Team](/wiki/People/
 ## Trivia
 
 - Di halaman profil BanchoBot, BanchoBot memiliki tanggal bergabung yang tertulis "Di sini sejak awal"
-  - Secara resmi, tanggal bergabung BanchoBot adalah tanggal 27 Agustus 2007 pukul 22:09:14 UTC-5
+- Secara resmi, tanggal bergabung BanchoBot adalah tanggal 27 Agustus 2007 pukul 22:09:14 UTC-5
