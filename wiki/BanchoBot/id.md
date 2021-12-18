@@ -8,21 +8,21 @@ tags:
   - pengumuman
 ---
 
-# BanchoBot
+# BanchoBot<!-- omit in toc -->
 
 *Untuk penggunaan lainnya, lihat [Bancho (disambiguasi)](/wiki/Disambiguation/Bancho).*
 
 ![Kartu pemain BanchoBot](img/BanchoBot.jpg "Kartu pemain BanchoBot")
 
-**BanchoBot** (atau biasa dikenal dengan *Bancho*) adalah sebuah bot yang dibuat untuk osu! membantu para pemain dalam obrolan dengan menampilkan informasi tertentu dan memberitahukan pesan terkait gim (cth. total bermain, jumlah pengulangan, dan lain-lain.), dan menanggapi beberapa perintah tertentu. BanchoBot diprogram oleh [Echo](https://osu.ppy.sh/users/431) dan merupakan penyedia dari [IRC Bancho](/wiki/Internet_Relay_Chat) (Internet Relay Chat).
+**BanchoBot** (atau biasa dikenal dengan *Bancho*) adalah sebuah bot yang dibuat untuk osu! membantu para pemain melalui obrolan dalam permainan dengan menampilkan informasi tertentu dan memberitahukan pesan terkait permainan (contoh total bermain, jumlah pengulangan, dan lain-lain.) serta menanggapi beberapa perintah tertentu. BanchoBot diprogram oleh [Echo](https://osu.ppy.sh/users/431) dan merupakan penyedia dari [IRC Bancho](/wiki/Internet_Relay_Chat) (Internet Relay Chat).
 
 BanchoBot juga memiliki [profil osu!](https://osu.ppy.sh/users/3) dan [akun Twitter](https://twitter.com/banchoboat).
 
-## Perintah
+## Perintah<!-- omit in toc -->
 
-*Untuk melihat daftar perintah saat berada di dalam gim, kunjungi [Chat Console](/wiki/Chat_Console#daftar-perintah)*
+*Untuk melihat daftar perintah yang tersedia pada permainan, kunjungi [Chat Console](/wiki/Chat_Console#daftar-perintah)*
 
-BanchoBot dapat merespon perintah pemain melalui pesan yang diketik secara khusus dalam obrolan. Semua perintah BanchoBot dimulai dengan sebuah tanda seru (`!`) diikuti dengan nama perintah yang tidak dipengaruhi oleh penggunaan huruf besar/kecil (tanpa spasi didalamnya). Perintah ini dapat digunakan di dalam kanal obrolan dan obrolan privat dengan BanchoBot.
+BanchoBot dapat merespon perintah pemain melalui pesan yang diketik secara khusus dalam obrolan. Semua perintah BanchoBot dimulai dengan sebuah tanda seru (`!`) diikuti dengan nama perintah yang tidak dipengaruhi oleh penggunaan huruf besar/kecil (tanpa spasi di antaranya). Perintah ini dapat digunakan di dalam *channel* obrolan dan obrolan privat dengan BanchoBot.
 
 Jika seorang pengguna biasa mencoba mengirim perintah dalam obrolan publik, pengguna lainnya tidak dapat melihatnya dan pemain yang mengirim perintah akan mendapatkan jawabannya melalui pesan pribadi dari BanchoBot. Pengguna juga dapat menggunakan perintah `/bb` untuk membuka tab BanchoBot secara otomatis dan mengirim perintah dengan segera.
 
@@ -137,13 +137,13 @@ Terdapat 7 status yang dapat ditampilkan oleh perintah `!stats`: Editing, Idle, 
 
 ### Report
 
-*Untuk mengetahui informasi tentang apa yang layak untuk dilaporkan, silahkan kunjungi artikel [Melaporkan Perilaku Buruk](/wiki/Reporting_Bad_Behaviour).*
+*Untuk mengetahui informasi tentang apa yang layak untuk dilaporkan, silahkan kunjungi artikel [Melaporkan perilaku buruk](/wiki/Reporting_Bad_Behaviour).*
 
 ```
 !report <nama pemain> <alasan>
 ```
 
-Perintah `!report` berfungsi memberi tahu [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) mengenai perilaku pemain yang tidak pantas. Jika nama pemain yang hendak dilaporkan mengandung karakter spasi, gantilah dengan garis bawah (cth. `really cool username` menjadi `really_cool_username`). Untuk melaporkan seorang moderator, silakan hubungi [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Berikut contoh hasil dari perintah tersebut:
+Perintah `!report` berfungsi memberi tahu [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) mengenai perilaku pemain yang tidak pantas. Jika nama pemain yang hendak dilaporkan mengandung karakter spasi, gantilah dengan garis bawah (contoh `really cool username` menjadi `really_cool_username`). Untuk melaporkan seorang moderator, silakan hubungi [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Berikut contoh hasil dari perintah tersebut:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese
@@ -152,5 +152,5 @@ Perintah `!report` berfungsi memberi tahu [Global Moderation Team](/wiki/People/
 
 ## Trivia
 
-- Di bawah tanggal bergabung pada laman profil BanchoBot, tertulis "Di sini sejak awal"
-  - Secara resmi, tanggal bergabung BanchoBot adalah 22:09:14 UTC-5, 27 Agustus 2007
+- Di halaman profil BanchoBot, BanchoBot memiliki tanggal bergabung yang tertulis "Di sini sejak awal"
+  - Secara resmi, tanggal bergabung BanchoBot adalah tanggal 27 Agustus 2007 pukul 22:09:14 UTC-5
