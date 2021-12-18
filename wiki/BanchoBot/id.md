@@ -8,7 +8,7 @@ tags:
   - pengumuman
 ---
 
-# BanchoBot<!-- omit in toc -->
+# BanchoBot
 
 *Untuk penggunaan lainnya, lihat [Bancho (disambiguasi)](/wiki/Disambiguation/Bancho).*
 
@@ -18,7 +18,7 @@ tags:
 
 BanchoBot juga memiliki [profil osu!](https://osu.ppy.sh/users/3) dan [akun Twitter](https://twitter.com/banchoboat).
 
-## Perintah<!-- omit in toc -->
+## Perintah
 
 *Untuk melihat daftar perintah yang tersedia pada permainan, kunjungi [Chat Console](/wiki/Chat_Console#daftar-perintah)*
 
