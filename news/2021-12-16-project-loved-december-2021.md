@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Project Loved: December 2021"
-date: 2021-12-16 12:00:00 +0000
+date: 2021-12-19 12:00:00 +0000
 ---
 
-Santa Claus brought you a new pack of Loved beatmaps!
+This festive time of year is all about appreciating one another, so why not share the love with some of your favourite beatmaps too?
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
@@ -66,7 +66,7 @@ I believe that this map will find a place in the Loved section, and becomes Natt
 166 BPM, 3:38 | 8.17★\
 *description written by [kotkeone](https://osu.ppy.sh/users/10083084)*
 
-Made for the Banger Bonanza Grand Finals and from the amazing rhythm game Rhythm Heaven, this rendition of Remix 10 in osu! uses sliders in many creative ways to recreate the feeling from the game. Along with a storyboard and video footage from the game itself, you act out the actions shown in the game, whether that be smacking away spiders or flipping books. Whatever it be, Sinnoh has created a enjoyable experience which I urge you to practice and master!
+Made for the [Banger Bonanza Grand Finals](https://osu.ppy.sh/community/forums/topics/1282642) and from the amazing rhythm game Rhythm Heaven, this rendition of Remix 10 in osu! uses sliders in many creative ways to recreate the feeling from the game. Along with a storyboard and video footage from the game itself, you act out the actions shown in the game, whether that be smacking away spiders or flipping books. Whatever it be, Sinnoh has created a enjoyable experience which I urge you to practice and master!
 
 [![](/wiki/shared/news/2021-12-16-project-loved-december-2021/724859.jpg)](https://osu.ppy.sh/community/forums/topics/1484676)
 
