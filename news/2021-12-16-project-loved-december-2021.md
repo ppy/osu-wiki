@@ -250,7 +250,7 @@ I personally didn't know any of Tachibana Gekka maps, so when I saw this map I w
 
 Sutavv making their first appearance in the Loved category and it is quite an entrance if I have to say so myself.
 
-- Star rating over 10: check\
+- Star rating over 10: check
 - A song by ExileLord: check
 
 Now with these two parameters you can already guess what is coming: hyperwalks! If you like to be precise in your movement, without having to worry too much about holding and letting go of your dash key, then you have arrived at the perfect map for you!
@@ -342,7 +342,7 @@ Definitely a long overdue gem, a really good one some might even add, so give a 
 The \[Delete upon download! (marathon)\] difficulty is *not* being nominated for Loved.\
 *description written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-Do you want even more stamina gaming? This wave definitely delivers some long-awaited handstream classics, as we decided to bundle up a few of the famous \\[Crz\\]Rachel Ariabl'eyeS charts and nominate them!
+Do you want even more stamina gaming? This wave definitely delivers some long-awaited handstream classics, as we decided to bundle up a few of the famous \[Crz\]Rachel Ariabl'eyeS charts and nominate them!
 
 This pack contains charts that have already gathered a decent reputation on their own. That includes Kegare Naki Bara Juuji, Senkou o Furea, Shuuen no Kane, Sougetsu Oratorio, Romanesque Romancia and Rin — all of them on 1.0 and 1.1 rate (due to mappack limitations we couldn't include more — the maps are already pretty fast on their own though!). All of them are centered around dense, neverending handstreams at respectable speeds that, albeit very comfortable, are designed to burn out the last drop of your stamina.
 
