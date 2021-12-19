@@ -21,6 +21,8 @@ We've been good kids during the whole year and Santa Claus brought us an early C
 
 Before jumping straight into this month's picks, we'd like to thank everyone in the community for the relentless support during this tumultuous year and we hope to keep you hyped on Project Loved for the future years!
 
+![](/wiki/shared/news/2021-12-16-project-loved-december-2021/banner.png)
+
 Let's move onto the last picks of 2021:
 
 ### Navigation
