@@ -33,4 +33,4 @@ On October 28, 2015, a graph with osu! versions distribution across the playerba
 
 ## See also
 
-In addition to the changes listed on the website, [peppy's blog](https://blog.ppy.sh/) may also be considered a form of changelog. Over the years, it has accumulated a vast collection of posts centered around osu!, its development, and ecosystem, including upcoming plans and developers' meeting notes.
+In addition to the changes listed on the website, [peppy's blog](https://blog.ppy.sh/) may also be considered a form of changelog. Over the years, it has accumulated a vast collection of posts centred around osu!, its development, and ecosystem, including upcoming plans and developers' meeting notes.

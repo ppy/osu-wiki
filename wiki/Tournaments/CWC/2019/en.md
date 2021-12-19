@@ -100,165 +100,165 @@ The osu!catch World Cup 2019 was run by various community members.
 **[Download the mappack here!](https://www.dropbox.com/s/w76kar8lt11u7kv/CWC%20GF%20Mappool.zip?dl=0&file_subpath=%2FCWC+GF+Mappool)**
 
 - NoMod
-  - [Masayoshi Iimori - BREAK OVER (- G i G a s -) \[SUPER MENTAL IS BREAK???\]](https://osu.ppy.sh/beatmapsets/743698#fruits/1568290)
-  - [Mitsuyoshi Takenobu no Ani - Amphisbaena (Ascendance) \[Mythic Another (2019 Edit Ver.)\]](https://osu.ppy.sh/beatmapsets/1009892#fruits/2114109)
-  - [Chroma - Made In Love (Bunnrei) \[Ai\]](https://osu.ppy.sh/beatmapsets/973405#fruits/2037794)
-  - [Shiron - CODE -CRiMSON- (CLSW) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/534978#fruits/1133219)
-  - [Omoi - Chiisana Koi no Uta (Synth Rock Cover) (val0108) \[Kroytz's EX EX\]](https://osu.ppy.sh/beatmapsets/609189#fruits/1312375)
-  - [Zekk - Calling (NeilPerry) \[winber1's Special Extra\]](https://osu.ppy.sh/beatmapsets/673878#fruits/1430468)
+  1. [Masayoshi Iimori - BREAK OVER (- G i G a s -) \[SUPER MENTAL IS BREAK???\]](https://osu.ppy.sh/beatmapsets/743698#fruits/1568290)
+  2. [Mitsuyoshi Takenobu no Ani - Amphisbaena (Ascendance) \[Mythic Another (2019 Edit Ver.)\]](https://osu.ppy.sh/beatmapsets/1009892#fruits/2114109)
+  3. [Chroma - Made In Love (Bunnrei) \[Ai\]](https://osu.ppy.sh/beatmapsets/973405#fruits/2037794)
+  4. [Shiron - CODE -CRiMSON- (CLSW) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/534978#fruits/1133219)
+  5. [Omoi - Chiisana Koi no Uta (Synth Rock Cover) (val0108) \[Kroytz's EX EX\]](https://osu.ppy.sh/beatmapsets/609189#fruits/1312375)
+  6. [Zekk - Calling (NeilPerry) \[winber1's Special Extra\]](https://osu.ppy.sh/beatmapsets/673878#fruits/1430468)
 - Hidden
-  - [Emilie Autumn - I Know Where You Sleep (- Magic Bomb -) \[Revealed\]](https://osu.ppy.sh/beatmapsets/673883#fruits/1426045)
-  - [uno & D.watt (IOSYS TRAX) - #Endroll (INO) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/732562#fruits/1545604)
-  - [Susumu Hirasawa - Aurora 2 (NachoPiggy) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10978#fruits/49206)
-  - [Shinra-bansho - Zenryoku Happy Life (Hailie) \[Extra\]](https://osu.ppy.sh/beatmapsets/806350#fruits/1692553)
+  1. [Emilie Autumn - I Know Where You Sleep (- Magic Bomb -) \[Revealed\]](https://osu.ppy.sh/beatmapsets/673883#fruits/1426045)
+  2. [uno & D.watt (IOSYS TRAX) - #Endroll (INO) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/732562#fruits/1545604)
+  3. [Susumu Hirasawa - Aurora 2 (NachoPiggy) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10978#fruits/49206)
+  4. [Shinra-bansho - Zenryoku Happy Life (Hailie) \[Extra\]](https://osu.ppy.sh/beatmapsets/806350#fruits/1692553)
 - HardRock
-  - [Dasu - Nakakapagpabagabag (Bunnrei) \[Schadenfreude\]](https://osu.ppy.sh/beatmapsets/755615#fruits/1590406)
-  - [Ponkichi - Hyakukakai to Shirotokkuri (F D Flourite) \[Axes\]](https://osu.ppy.sh/beatmapsets/934870#fruits/1951696)
-  - [Shindig - Zzz (squirrelpascals) \[I'm Home\]](https://osu.ppy.sh/beatmapsets/802730#fruits/1684963)
-  - [seleP - Scarlet Rose (pkk) \[X\]](https://osu.ppy.sh/beatmapsets/528089#fruits/1120184)
+  1. [Dasu - Nakakapagpabagabag (Bunnrei) \[Schadenfreude\]](https://osu.ppy.sh/beatmapsets/755615#fruits/1590406)
+  2. [Ponkichi - Hyakukakai to Shirotokkuri (F D Flourite) \[Axes\]](https://osu.ppy.sh/beatmapsets/934870#fruits/1951696)
+  3. [Shindig - Zzz (squirrelpascals) \[I'm Home\]](https://osu.ppy.sh/beatmapsets/802730#fruits/1684963)
+  4. [seleP - Scarlet Rose (pkk) \[X\]](https://osu.ppy.sh/beatmapsets/528089#fruits/1120184)
 - DoubleTime
-  - [Maksim Mrvica - Croatian Rhapsody (ZHSteven) \[Insane\]](https://osu.ppy.sh/beatmapsets/191590#fruits/881329)
-  - [Project Grimoire - Brionac \~Lugh Lamhfhata\~ (Rocma) \[Overdose\]](https://osu.ppy.sh/beatmapsets/734296#fruits/1555121)
-  - [Ni-Sokkususu - Shukusai no Elementalia (Silynn) \[haqi's Insane\]](https://osu.ppy.sh/beatmapsets/203309#fruits/880587)
-  - [Hatsuki Yura - Lunicode (GreenHue) \[KKip's Insane\]](https://osu.ppy.sh/beatmapsets/801001#fruits/1689336)
+  1. [Maksim Mrvica - Croatian Rhapsody (ZHSteven) \[Insane\]](https://osu.ppy.sh/beatmapsets/191590#fruits/881329)
+  2. [Project Grimoire - Brionac \~Lugh Lamhfhata\~ (Rocma) \[Overdose\]](https://osu.ppy.sh/beatmapsets/734296#fruits/1555121)
+  3. [Ni-Sokkususu - Shukusai no Elementalia (Silynn) \[haqi's Insane\]](https://osu.ppy.sh/beatmapsets/203309#fruits/880587)
+  4. [Hatsuki Yura - Lunicode (GreenHue) \[KKip's Insane\]](https://osu.ppy.sh/beatmapsets/801001#fruits/1689336)
 - Tiebreaker
-  - **[Camellia - gigadelic (Camellia's "THE TERA" Remix) \[" 10^12 " Long ver.\] (Minato Yukina) \[Final Showdown\]](https://osu.ppy.sh/beatmapsets/856174#fruits/1788806)**
+  1. **[Camellia - gigadelic (Camellia's "THE TERA" Remix) \[" 10^12 " Long ver.\] (Minato Yukina) \[Final Showdown\]](https://osu.ppy.sh/beatmapsets/856174#fruits/1788806)**
 
 ### Finals week 1
 
 **[Download the mappack here!](https://www.dropbox.com/s/b9fcomih3576nxz/CWC%20Finals%20Mappool.zip?dl=0)**
 
 - NoMod
-  - [Zekk - Feelsleft0ut (AJamez) \[:)\]](https://osu.ppy.sh/beatmapsets/856040#fruits/1788564)
-  - [solfa feat. Ceui - Koiiro Recipe (-Luminate) \[Marshmallow\]](https://osu.ppy.sh/beatmapsets/918591#fruits/1918175)
-  - [Dustvoxx - TRiGGER (Zekk Remix) (Deif) \[OVeRDOSE\]](https://osu.ppy.sh/beatmapsets/1003938#fruits/2101175)
-  - [cosMo@BousouP - Sadistic.Music Factory (JeirYagtama) \[Sadistic Fruit Factory\]](https://osu.ppy.sh/beatmapsets/747341#fruits/1719034)
-  - [Kitsune^2 - Free (Starrodkirby86) \[Freedom\]](https://osu.ppy.sh/beatmapsets/342207#fruits/756423)
-  - [BABYMETAL - YAVA! (\[ Kohioma \]) \[Yabai\]](https://osu.ppy.sh/beatmapsets/476612#fruits/1018019)
+  1. [Zekk - Feelsleft0ut (AJamez) \[:)\]](https://osu.ppy.sh/beatmapsets/856040#fruits/1788564)
+  2. [solfa feat. Ceui - Koiiro Recipe (-Luminate) \[Marshmallow\]](https://osu.ppy.sh/beatmapsets/918591#fruits/1918175)
+  3. [Dustvoxx - TRiGGER (Zekk Remix) (Deif) \[OVeRDOSE\]](https://osu.ppy.sh/beatmapsets/1003938#fruits/2101175)
+  4. [cosMo@BousouP - Sadistic.Music Factory (JeirYagtama) \[Sadistic Fruit Factory\]](https://osu.ppy.sh/beatmapsets/747341#fruits/1719034)
+  5. [Kitsune^2 - Free (Starrodkirby86) \[Freedom\]](https://osu.ppy.sh/beatmapsets/342207#fruits/756423)
+  6. [BABYMETAL - YAVA! (\[ Kohioma \]) \[Yabai\]](https://osu.ppy.sh/beatmapsets/476612#fruits/1018019)
 - Hidden
-  - [Kagamine Rin - Oni Kanojo (Spectator) \[Spec's CTB\]](https://osu.ppy.sh/beatmapsets/486433#fruits/1037254)
-  - [Gekidan Record - Ares no Tate (- Syamu -) \[Shield of Ares\]](https://osu.ppy.sh/beatmapsets/826598#fruits/1732259)
-  - [KAKU P-MODEL - Big Brother (Mismagius) \[NOGARD Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/992499#fruits/2075541)
-  - [Zhou Li Ming - Pi Li Pa La (bakabaka) \[Extra\]](https://osu.ppy.sh/beatmapsets/136065#fruits/340652)
+  1. [Kagamine Rin - Oni Kanojo (Spectator) \[Spec's CTB\]](https://osu.ppy.sh/beatmapsets/486433#fruits/1037254)
+  2. [Gekidan Record - Ares no Tate (- Syamu -) \[Shield of Ares\]](https://osu.ppy.sh/beatmapsets/826598#fruits/1732259)
+  3. [KAKU P-MODEL - Big Brother (Mismagius) \[NOGARD Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/992499#fruits/2075541)
+  4. [Zhou Li Ming - Pi Li Pa La (bakabaka) \[Extra\]](https://osu.ppy.sh/beatmapsets/136065#fruits/340652)
 - HardRock
-  - [Nekomata Master+ - squall (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/962382#fruits/2015148)
-  - [Halozy - Deconstruction Star (CLSW) \[Twilight Poinsettia\]](https://osu.ppy.sh/beatmapsets/319217#fruits/710613)
-  - [ITO KASHITARO - Yuudachi no Ribbon (Milan-) \[Rain\]](https://osu.ppy.sh/beatmapsets/479811#fruits/1024480)
-  - [e-ZUKA - Assailant in the Night (Saten) \[Speed\]](https://osu.ppy.sh/beatmapsets/52499#fruits/160486)
+  1. [Nekomata Master+ - squall (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/962382#fruits/2015148)
+  2. [Halozy - Deconstruction Star (CLSW) \[Twilight Poinsettia\]](https://osu.ppy.sh/beatmapsets/319217#fruits/710613)
+  3. [ITO KASHITARO - Yuudachi no Ribbon (Milan-) \[Rain\]](https://osu.ppy.sh/beatmapsets/479811#fruits/1024480)
+  4. [e-ZUKA - Assailant in the Night (Saten) \[Speed\]](https://osu.ppy.sh/beatmapsets/52499#fruits/160486)
 - DoubleTime
-  - [sana - Sunset March (Benita) \[Lacrima's Eventide\]](https://osu.ppy.sh/beatmapsets/959995#fruits/2018434)
-  - [Floating Cloud - Ame no chikumori no chihare (dazzulay) \[Fruit Dance\]](https://osu.ppy.sh/beatmapsets/838420#fruits/1755327)
-  - [Myrath - Endure The Silence (LMT) \[Another\]](https://osu.ppy.sh/beatmapsets/555454#fruits/1213261)
-  - [Yorushika - Itte. (deetz) \[Clearly\]](https://osu.ppy.sh/beatmapsets/985066#fruits/2061024)
+  1. [sana - Sunset March (Benita) \[Lacrima's Eventide\]](https://osu.ppy.sh/beatmapsets/959995#fruits/2018434)
+  2. [Floating Cloud - Ame no chikumori no chihare (dazzulay) \[Fruit Dance\]](https://osu.ppy.sh/beatmapsets/838420#fruits/1755327)
+  3. [Myrath - Endure The Silence (LMT) \[Another\]](https://osu.ppy.sh/beatmapsets/555454#fruits/1213261)
+  4. [Yorushika - Itte. (deetz) \[Clearly\]](https://osu.ppy.sh/beatmapsets/985066#fruits/2061024)
 - Tiebreaker
-  - **[RoughSketch feat. DD "Nakata" Metal - Booths of Fighters (Camellia's "Barrage of Flurries" Remix) (Ascendance) \[Ascendance & Plus's Onslaught\]](https://osu.ppy.sh/beatmapsets/809971#fruits/1699518)**
+  1. **[RoughSketch feat. DD "Nakata" Metal - Booths of Fighters (Camellia's "Barrage of Flurries" Remix) (Ascendance) \[Ascendance & Plus's Onslaught\]](https://osu.ppy.sh/beatmapsets/809971#fruits/1699518)**
 
 ### Semifinals
 
 **[Download the mappack here!](https://www.dropbox.com/s/gvrrfhmooy15pbl/CWC%20Semifinals%20Mappool.zip?dl=0)**
 
 - NoMod
-  - [M2U - Marionette (Absolute Zero) \[MBomb's Overdose\]](https://osu.ppy.sh/beatmapsets/797395#fruits/1895451)
-  - [Camellia - crystallized (Spectator) \[Crystal Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/751290#fruits/1581742)
-  - [succducc - me & u (Zyzyx) \[Forever\]](https://osu.ppy.sh/beatmapsets/931928#fruits/1945822)
-  - [DJ TOTTO - Shoujo Alice to Hakoniwa Gensou Concerto (F D Flourite) \[The White Queen (Overdose)\]](https://osu.ppy.sh/beatmapsets/830717#fruits/1766406)
-  - [Camellia feat. Nanahira - Amor De Verao (Kuron-kun) \[CAIPIRINHA\]](https://osu.ppy.sh/beatmapsets/746563#fruits/1573413)
-  - [Camellia - kodama (ProfessionalBox) \[-kevincela-'s Extra\]](https://osu.ppy.sh/beatmapsets/488016#fruits/1048276)
+  1. [M2U - Marionette (Absolute Zero) \[MBomb's Overdose\]](https://osu.ppy.sh/beatmapsets/797395#fruits/1895451)
+  2. [Camellia - crystallized (Spectator) \[Crystal Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/751290#fruits/1581742)
+  3. [succducc - me & u (Zyzyx) \[Forever\]](https://osu.ppy.sh/beatmapsets/931928#fruits/1945822)
+  4. [DJ TOTTO - Shoujo Alice to Hakoniwa Gensou Concerto (F D Flourite) \[The White Queen (Overdose)\]](https://osu.ppy.sh/beatmapsets/830717#fruits/1766406)
+  5. [Camellia feat. Nanahira - Amor De Verao (Kuron-kun) \[CAIPIRINHA\]](https://osu.ppy.sh/beatmapsets/746563#fruits/1573413)
+  6. [Camellia - kodama (ProfessionalBox) \[-kevincela-'s Extra\]](https://osu.ppy.sh/beatmapsets/488016#fruits/1048276)
 - Hidden
-  - [Grand Thaw - AltMirrorBell (Deif) \[Overdose\]](https://osu.ppy.sh/beatmapsets/959843#fruits/2009626)
-  - [REOL - drop pop candy (chickenbible) \[Step by Step\]](https://osu.ppy.sh/beatmapsets/860838#fruits/1801075)
-  - [DJ YOSHITAKA - Evans (Jerrysr) \[ignore's Another\]](https://osu.ppy.sh/beatmapsets/13694#fruits/50663)
-  - [xi - Mirage Garden (P o M u T a) \[Another445\]](https://osu.ppy.sh/beatmapsets/319940#fruits/726357)
+  1. [Grand Thaw - AltMirrorBell (Deif) \[Overdose\]](https://osu.ppy.sh/beatmapsets/959843#fruits/2009626)
+  2. [REOL - drop pop candy (chickenbible) \[Step by Step\]](https://osu.ppy.sh/beatmapsets/860838#fruits/1801075)
+  3. [DJ YOSHITAKA - Evans (Jerrysr) \[ignore's Another\]](https://osu.ppy.sh/beatmapsets/13694#fruits/50663)
+  4. [xi - Mirage Garden (P o M u T a) \[Another445\]](https://osu.ppy.sh/beatmapsets/319940#fruits/726357)
 - HardRock
-  - [Helblinde - Grief & Malice (Kyuare) \[Madness\]](https://osu.ppy.sh/beatmapsets/325817#fruits/723610)
-  - [Mr. Saturn - Saturn (Saturnalize) \[OverdoZe\]](https://osu.ppy.sh/beatmapsets/39797#fruits/356150)
-  - [jippusu - Mushikui Saikede Rhythm (Amamiya Yuko) \[RLC\]](https://osu.ppy.sh/beatmapsets/87547#fruits/240689)
-  - [sakuzyo - Imprinting (Squigly) \[Impress\]](https://osu.ppy.sh/beatmapsets/264299#fruits/602547)
+  1. [Helblinde - Grief & Malice (Kyuare) \[Madness\]](https://osu.ppy.sh/beatmapsets/325817#fruits/723610)
+  2. [Mr. Saturn - Saturn (Saturnalize) \[OverdoZe\]](https://osu.ppy.sh/beatmapsets/39797#fruits/356150)
+  3. [jippusu - Mushikui Saikede Rhythm (Amamiya Yuko) \[RLC\]](https://osu.ppy.sh/beatmapsets/87547#fruits/240689)
+  4. [sakuzyo - Imprinting (Squigly) \[Impress\]](https://osu.ppy.sh/beatmapsets/264299#fruits/602547)
 - DoubleTime
-  - [Cha Ji Yeon, LDN Noise - My Show (Ollapeu) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/759402#fruits/1597102)
-  - [Tamaki to Yumine (CV: Naganawa Maria Maekawa Ryouko) - Yonaka Jikaru (examination) \[Rain\]](https://osu.ppy.sh/beatmapsets/538744#fruits/1141091)
-  - [SEREBRO - Mi Mi Mi (Speed Up Ver.) (eiri-) \[Fashion Pink Lips\]](https://osu.ppy.sh/beatmapsets/907084#fruits/1892789)
-  - [TatshMusicCircle - Raikou -3rd Desire- (Kite) \[Extra\]](https://osu.ppy.sh/beatmapsets/143316#fruits/1836851)
+  1. [Cha Ji Yeon, LDN Noise - My Show (Ollapeu) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/759402#fruits/1597102)
+  2. [Tamaki to Yumine (CV: Naganawa Maria Maekawa Ryouko) - Yonaka Jikaru (examination) \[Rain\]](https://osu.ppy.sh/beatmapsets/538744#fruits/1141091)
+  3. [SEREBRO - Mi Mi Mi (Speed Up Ver.) (eiri-) \[Fashion Pink Lips\]](https://osu.ppy.sh/beatmapsets/907084#fruits/1892789)
+  4. [TatshMusicCircle - Raikou -3rd Desire- (Kite) \[Extra\]](https://osu.ppy.sh/beatmapsets/143316#fruits/1836851)
 - Tiebreaker
-  - **[DragonForce - Symphony Of The Night (Crowley) \[Myth of the Darkest Twilight\]](https://osu.ppy.sh/beatmapsets/984228#fruits/2059422)**
+  1. **[DragonForce - Symphony Of The Night (Crowley) \[Myth of the Darkest Twilight\]](https://osu.ppy.sh/beatmapsets/984228#fruits/2059422)**
 
 ### Quarterfinals
 
 **[Download the mappack here!](https://www.dropbox.com/s/xc7mkw9nkijacs5/CWC%20QF%20Mappool.zip?dl=0&file_subpath=%2FCWC+QF+Mappool)**
 
 - NoMod
-  - [Helblinde - Unconquered (IDu5t) \[Indestructible\]](https://osu.ppy.sh/beatmapsets/975136#fruits/2041090)
-  - [void (Mournfinale) - World Vanquisher (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/860457#fruits/1800318)
-  - [wowaka - Reversible Doll (Minato Yukina) \[Lasting Legacy\]](https://osu.ppy.sh/beatmapsets/952552#fruits/1989009)
-  - [ak+q - Axium Crisis (Lacrima) \[Vicious Labyrinth\]](https://osu.ppy.sh/beatmapsets/996639#fruits/2084648)
-  - [Akiyama Uni - Chi no Iro wa Kiiro (Hollow Wings) \[Extra\]](https://osu.ppy.sh/beatmapsets/119779#fruits/307410)
-  - [Loki - Interlude (Chewin) \[Drama\]](https://osu.ppy.sh/beatmapsets/659093#fruits/1395942)
+  1. [Helblinde - Unconquered (IDu5t) \[Indestructible\]](https://osu.ppy.sh/beatmapsets/975136#fruits/2041090)
+  2. [void (Mournfinale) - World Vanquisher (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/860457#fruits/1800318)
+  3. [wowaka - Reversible Doll (Minato Yukina) \[Lasting Legacy\]](https://osu.ppy.sh/beatmapsets/952552#fruits/1989009)
+  4. [ak+q - Axium Crisis (Lacrima) \[Vicious Labyrinth\]](https://osu.ppy.sh/beatmapsets/996639#fruits/2084648)
+  5. [Akiyama Uni - Chi no Iro wa Kiiro (Hollow Wings) \[Extra\]](https://osu.ppy.sh/beatmapsets/119779#fruits/307410)
+  6. [Loki - Interlude (Chewin) \[Drama\]](https://osu.ppy.sh/beatmapsets/659093#fruits/1395942)
 - Hidden
-  - [Rigel Theatre - La Sylphide (F D Flourite) \[Collab Aurora (Short ver.)\]](https://osu.ppy.sh/beatmapsets/955131#fruits/2072991)
-  - [ribbon room - mint tears (Rotte) \[Steven's flood tears\]](https://osu.ppy.sh/beatmapsets/117063#fruits/303383)
-  - [luz - Doku Ringo to Cinderella (Ametrin) \[Fairy Tale?\]](https://osu.ppy.sh/beatmapsets/664784#fruits/1406919)
+  1. [Rigel Theatre - La Sylphide (F D Flourite) \[Collab Aurora (Short ver.)\]](https://osu.ppy.sh/beatmapsets/955131#fruits/2072991)
+  2. [ribbon room - mint tears (Rotte) \[Steven's flood tears\]](https://osu.ppy.sh/beatmapsets/117063#fruits/303383)
+  3. [luz - Doku Ringo to Cinderella (Ametrin) \[Fairy Tale?\]](https://osu.ppy.sh/beatmapsets/664784#fruits/1406919)
 - HardRock
-  - [Amatsuki - How-to Sekai Seifuku (Crowley) \[Loneliness\]](https://osu.ppy.sh/beatmapsets/695892#fruits/1474313)
-  - [Jin feat. MARiA from GARNiDELiA - daze (short ver.) (luxoDeh) \[Crystal's Overdose\]](https://osu.ppy.sh/beatmapsets/165391#fruits/443046)
-  - [VY1 - Cyber Thunder Cider (tutuhaha) \[Cider\]](https://osu.ppy.sh/beatmapsets/47146#fruits/146610)
+  1. [Amatsuki - How-to Sekai Seifuku (Crowley) \[Loneliness\]](https://osu.ppy.sh/beatmapsets/695892#fruits/1474313)
+  2. [Jin feat. MARiA from GARNiDELiA - daze (short ver.) (luxoDeh) \[Crystal's Overdose\]](https://osu.ppy.sh/beatmapsets/165391#fruits/443046)
+  3. [VY1 - Cyber Thunder Cider (tutuhaha) \[Cider\]](https://osu.ppy.sh/beatmapsets/47146#fruits/146610)
 - DoubleTime
-  - [Kalafina - heavenly blue (Nelly) \[Gloria\]](https://osu.ppy.sh/beatmapsets/662744#fruits/1402831)
-  - [Denkishiki Karen Ongaku Shuudan - Endless ripples (Hareimu) \[Sadness\]](https://osu.ppy.sh/beatmapsets/433029#fruits/1475145)
-  - [Yasuda Rei - Best of my Love (NEVlR) \[A Colorful Path Of Inspiration\]](https://osu.ppy.sh/beatmapsets/910570#fruits/1900083)
+  1. [Kalafina - heavenly blue (Nelly) \[Gloria\]](https://osu.ppy.sh/beatmapsets/662744#fruits/1402831)
+  2. [Denkishiki Karen Ongaku Shuudan - Endless ripples (Hareimu) \[Sadness\]](https://osu.ppy.sh/beatmapsets/433029#fruits/1475145)
+  3. [Yasuda Rei - Best of my Love (NEVlR) \[A Colorful Path Of Inspiration\]](https://osu.ppy.sh/beatmapsets/910570#fruits/1900083)
 - Tiebreaker
-  - **[Virtual Self - Angel Voices (Sinnoh) \[Ghost\]](https://osu.ppy.sh/beatmapsets/939437#fruits/1962245)**
+  1. **[Virtual Self - Angel Voices (Sinnoh) \[Ghost\]](https://osu.ppy.sh/beatmapsets/939437#fruits/1962245)**
 
 ### Round of 16
 
 **[Download the mappack here!](https://www.dropbox.com/sh/4q19wyd0z6q4akw/AAD6Cc014HXigZvHPWSpNmbSa?dl=0)**
 
 - NoMod
-  - [a\_hisa - Tokei no Heya to Seishin Sekai (Spectator) \[Kyuare Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/639409#fruits/1356120)
-  - [Zeami feat. Tenco - Tenyou no Mai (Minato Yukina) \[EX\]](https://osu.ppy.sh/beatmapsets/800903#fruits/1681347)
-  - [Station Earth - Age Of Reason (-Ken) \[Overdose\]](https://osu.ppy.sh/beatmapsets/954217#fruits/1992201)
-  - [MiddleIsland - Tokiiro Serenade (AJamez) \[Zemblanity\]](https://osu.ppy.sh/beatmapsets/979140#fruits/2049204)
-  - [EGOIST - Fallen (TV Edit) (toybot) \[Amamiya Irrzhen's Extra\]](https://osu.ppy.sh/beatmapsets/222532#fruits/520208)
-  - [Tanchiky - Sanshi Suimei (nika mika) \[Miyabi\]](https://osu.ppy.sh/beatmapsets/811685#fruits/1702581)
+  1. [a\_hisa - Tokei no Heya to Seishin Sekai (Spectator) \[Kyuare Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/639409#fruits/1356120)
+  2. [Zeami feat. Tenco - Tenyou no Mai (Minato Yukina) \[EX\]](https://osu.ppy.sh/beatmapsets/800903#fruits/1681347)
+  3. [Station Earth - Age Of Reason (-Ken) \[Overdose\]](https://osu.ppy.sh/beatmapsets/954217#fruits/1992201)
+  4. [MiddleIsland - Tokiiro Serenade (AJamez) \[Zemblanity\]](https://osu.ppy.sh/beatmapsets/979140#fruits/2049204)
+  5. [EGOIST - Fallen (TV Edit) (toybot) \[Amamiya Irrzhen's Extra\]](https://osu.ppy.sh/beatmapsets/222532#fruits/520208)
+  6. [Tanchiky - Sanshi Suimei (nika mika) \[Miyabi\]](https://osu.ppy.sh/beatmapsets/811685#fruits/1702581)
 - Hidden
-  - [OISHII - PIZZA PLAZA (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/767009#fruits/1612277)
-  - [cillia - Donor Song (Hareimu) \[Sinnoh's Rain\]](https://osu.ppy.sh/beatmapsets/711681#fruits/1514441)
-  - [C.G mix - True Eyes (wanhyrzh) \[Final Mission\]](https://osu.ppy.sh/beatmapsets/17386#fruits/62199)
+  1. [OISHII - PIZZA PLAZA (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/767009#fruits/1612277)
+  2. [cillia - Donor Song (Hareimu) \[Sinnoh's Rain\]](https://osu.ppy.sh/beatmapsets/711681#fruits/1514441)
+  3. [C.G mix - True Eyes (wanhyrzh) \[Final Mission\]](https://osu.ppy.sh/beatmapsets/17386#fruits/62199)
 - HardRock
-  - [ak+q - Excelsia (Sorcerer) \[Rain\]](https://osu.ppy.sh/beatmapsets/737685#fruits/1556895)
-  - [FLOW - COLORS (TV Size) (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/873082#fruits/1824996)
-  - [Dollscythe - Flashes (Extended) (Skystar) \[yf's PP Insane\]](https://osu.ppy.sh/beatmapsets/512648#fruits/1090607)
+  1. [ak+q - Excelsia (Sorcerer) \[Rain\]](https://osu.ppy.sh/beatmapsets/737685#fruits/1556895)
+  2. [FLOW - COLORS (TV Size) (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/873082#fruits/1824996)
+  3. [Dollscythe - Flashes (Extended) (Skystar) \[yf's PP Insane\]](https://osu.ppy.sh/beatmapsets/512648#fruits/1090607)
 - DoubleTime
-  - [VINXIS - A Centralized View (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/972302#fruits/2035769)
-  - [Kawada Mami - Timeless time (wairo) \[Furely's Rain\]](https://osu.ppy.sh/beatmapsets/333441#fruits/1359832)
-  - [YUI - Rolling star (pkhg) \[Insane\]](https://osu.ppy.sh/beatmapsets/351838#fruits/775380)
+  1. [VINXIS - A Centralized View (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/972302#fruits/2035769)
+  2. [Kawada Mami - Timeless time (wairo) \[Furely's Rain\]](https://osu.ppy.sh/beatmapsets/333441#fruits/1359832)
+  3. [YUI - Rolling star (pkhg) \[Insane\]](https://osu.ppy.sh/beatmapsets/351838#fruits/775380)
 - Tiebreaker
-  - **[Eisyo-kobu - Oriental Blossom -Eika Shuuei- (Yumeno Himiko) \[Sakura\]](https://osu.ppy.sh/beatmapsets/910194#fruits/1899381)**
+  1. **[Eisyo-kobu - Oriental Blossom -Eika Shuuei- (Yumeno Himiko) \[Sakura\]](https://osu.ppy.sh/beatmapsets/910194#fruits/1899381)**
 
 ### Group stage
 
 **[Download the mappack here!](https://www.dropbox.com/sh/e3jgd039od90c85/AADfBfWbrPI5NHwpKWiv3fCCa?dl=0)**
 
 - NoMod
-  - [Roselia - Neo-Aspect (Underdogs) \[AJamez's Rain\]](https://osu.ppy.sh/beatmapsets/776620#fruits/1892842)
-  - [ITO KASHITARO - Hyakka Ryouran (F D Flourite) \[Sparks\]](https://osu.ppy.sh/beatmapsets/867277#fruits/1813016)
-  - [antiPLUR - One Life Left to Live (JBHyperion) \[Overdose\]](https://osu.ppy.sh/beatmapsets/957842#fruits/2005440)
-  - [onumi - CONFUSION PART ONE (Sinnoh) \[ASCENDANCE'S RAIN\]](https://osu.ppy.sh/beatmapsets/933700#fruits/2021599)
-  - [League of Legends - RISE (ft. The Glitch Mob, Mako, and The Word Alive) (SquareTude) \[Minorsonek's Insane\]](https://osu.ppy.sh/beatmapsets/858938#fruits/1795003)
-  - [zakuro - Inochi ni Kirawarete Iru. (Mirash) \[Delis' Extra\]](https://osu.ppy.sh/beatmapsets/693727#fruits/1467820)
+  1. [Roselia - Neo-Aspect (Underdogs) \[AJamez's Rain\]](https://osu.ppy.sh/beatmapsets/776620#fruits/1892842)
+  2. [ITO KASHITARO - Hyakka Ryouran (F D Flourite) \[Sparks\]](https://osu.ppy.sh/beatmapsets/867277#fruits/1813016)
+  3. [antiPLUR - One Life Left to Live (JBHyperion) \[Overdose\]](https://osu.ppy.sh/beatmapsets/957842#fruits/2005440)
+  4. [onumi - CONFUSION PART ONE (Sinnoh) \[ASCENDANCE'S RAIN\]](https://osu.ppy.sh/beatmapsets/933700#fruits/2021599)
+  5. [League of Legends - RISE (ft. The Glitch Mob, Mako, and The Word Alive) (SquareTude) \[Minorsonek's Insane\]](https://osu.ppy.sh/beatmapsets/858938#fruits/1795003)
+  6. [zakuro - Inochi ni Kirawarete Iru. (Mirash) \[Delis' Extra\]](https://osu.ppy.sh/beatmapsets/693727#fruits/1467820)
 - Hidden
-  - [NICODE & M2U - Predawn (Sulfur) \[Jeir's Rain\]](https://osu.ppy.sh/beatmapsets/748803#fruits/1602530)
-  - [cYsmix - Breeze (wonjae) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/840964#fruits/1761864)
-  - [SID - Ranbu no Melody (TV Size) (Kiddo-Kun) \[Happy's Insane\]](https://osu.ppy.sh/beatmapsets/22648#fruits/86920)
+  1. [NICODE & M2U - Predawn (Sulfur) \[Jeir's Rain\]](https://osu.ppy.sh/beatmapsets/748803#fruits/1602530)
+  2. [cYsmix - Breeze (wonjae) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/840964#fruits/1761864)
+  3. [SID - Ranbu no Melody (TV Size) (Kiddo-Kun) \[Happy's Insane\]](https://osu.ppy.sh/beatmapsets/22648#fruits/86920)
 - HardRock
-  - [Survive Said The Prophet - found & lost (TV Size) (Wei Wuxian) \[Platter\]](https://osu.ppy.sh/beatmapsets/893177#fruits/1866779)
-  - [Y&Co. feat. Karin - Sweet Rain (Sorcerer) \[Platter\]](https://osu.ppy.sh/beatmapsets/738169#fruits/1587421)
-  - [DECO\*27 - Ghost Rule (Awaken) \[G's Harder\]](https://osu.ppy.sh/beatmapsets/413117#fruits/928857)
+  1. [Survive Said The Prophet - found & lost (TV Size) (Wei Wuxian) \[Platter\]](https://osu.ppy.sh/beatmapsets/893177#fruits/1866779)
+  2. [Y&Co. feat. Karin - Sweet Rain (Sorcerer) \[Platter\]](https://osu.ppy.sh/beatmapsets/738169#fruits/1587421)
+  3. [DECO\*27 - Ghost Rule (Awaken) \[G's Harder\]](https://osu.ppy.sh/beatmapsets/413117#fruits/928857)
 - DoubleTime
-  - [Arashi - Natsu no Owari ni Omou Koto (mingmichael) \[Collab Platter\]](https://osu.ppy.sh/beatmapsets/332814#fruits/741868)
-  - [Helblinde - When Time Sleeps (Sinnoh) \[AFB's Platter\]](https://osu.ppy.sh/beatmapsets/554256#fruits/1743650)
-  - [Kalafina - Oblivious (Melt) \[Oblivious\]](https://osu.ppy.sh/beatmapsets/114188#fruits/295857)
+  1. [Arashi - Natsu no Owari ni Omou Koto (mingmichael) \[Collab Platter\]](https://osu.ppy.sh/beatmapsets/332814#fruits/741868)
+  2. [Helblinde - When Time Sleeps (Sinnoh) \[AFB's Platter\]](https://osu.ppy.sh/beatmapsets/554256#fruits/1743650)
+  3. [Kalafina - Oblivious (Melt) \[Oblivious\]](https://osu.ppy.sh/beatmapsets/114188#fruits/295857)
 - Tiebreaker
-  - **[Rita - dorchadas (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/812855#fruits/1704854)**
+  1. **[Rita - dorchadas (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/812855#fruits/1704854)**
 
 ## Match results
 

@@ -38,7 +38,7 @@ The Intermediate Global Taiko Showdown 2018 was run by various osu!taiko communi
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Organizer | ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Mappool selector | ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_ID] [Poii](https://osu.ppy.sh/users/7924938) |
 | Referee | ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_AU] [cactusthegreat](https://osu.ppy.sh/users/5592409), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_RU] [-\_-Nico-\_-](https://osu.ppy.sh/users/9689534), ![][flag_JP] [Noko_BSF](https://osu.ppy.sh/users/3811831), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Streamer | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_DE] [Heamburger](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316) |
@@ -405,7 +405,7 @@ Sunday, 12 August 2018:
    - Participant is not allowed to rank up further than rank **2,500 during the tournament's occurrence.**
    - Participant must join tournament's Discord server.
 3. The mapset will be announced the week before a stage begins.
-4. Match schedule is decided by the organisers, which will announce schedule the same day as the mapset every week. Each stage of this tournament will last a week, and that week starts when the mapset is announced a day before, so players need to get their match in before the week is over.
+4. Match schedule is decided by the organizers, which will announce schedule the same day as the mapset every week. Each stage of this tournament will last a week, and that week starts when the mapset is announced a day before, so players need to get their match in before the week is over.
 5. If both teams get a tie on the Tiebreaker, the Tiebreaker will be replayed with FreeMod applied.
 6. If a player disconnects from the game, the opponent wins the round.
    - If the player disconnects during the first five seconds of the song, the match will be restarted.

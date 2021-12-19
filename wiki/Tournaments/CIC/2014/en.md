@@ -35,7 +35,7 @@ The Catch the Beat Indonesia Cup 2014 was run by various Indonesian osu!catch co
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ID] [Ableh](https://osu.ppy.sh/users/917216), ![][flag_ID] [ursa](https://osu.ppy.sh/users/321063), ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) |
-| Schedule organiser | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] Nakata, ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) |
+| Schedule organizer | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] Nakata, ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) |
 | Referee | ![][flag_ID] [wendao2000](https://osu.ppy.sh/users/1843939), ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990), ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [nya10](https://osu.ppy.sh/users/678794), ![][flag_ID] Nakata |
 | Mappool selector | ![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165), ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514), ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) |
 | Screenshot database | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] [- Ruu -](https://osu.ppy.sh/users/3811821), ![][flag_ID] [AllRiseSilver](https://osu.ppy.sh/users/2212857) |

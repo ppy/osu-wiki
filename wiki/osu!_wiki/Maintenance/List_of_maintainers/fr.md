@@ -20,6 +20,7 @@ Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une rev
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | Inactif | Français |
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **Actif** | Russe |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | [TPGPL](https://github.com/TPGPL) | **Actif** | Polonais |
+| ![][flag_SE] [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | **Actif** | Finlandais, Suédois |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | [WalterToro](https://github.com/WalterToro) | Inactif | Espagnol |
 
 ## L'équipe de journalistes
@@ -52,5 +53,6 @@ Cette liste comprend les maintainers de la configuration MediaWiki, que le osu! 
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"

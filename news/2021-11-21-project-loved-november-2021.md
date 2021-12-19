@@ -176,14 +176,6 @@ This map is probably one of the best maps to get into no dash maps, as the map d
 
 Oh and how could I forget, the obligatory O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA!
 
-[![](/wiki/shared/news/2021-11-21-project-loved-november-2021/817364.jpg)](https://osu.ppy.sh/community/forums/topics/1467964)
-
-[StudioEIM - Crescent Moon Island](https://osu.ppy.sh/beatmapsets/817364#fruits) by [Emiru](https://osu.ppy.sh/users/3306180)\
-172 BPM, 2:05 | 6.70★\
-*description written by [Spectator](https://osu.ppy.sh/users/702598)*
-
-This map was featured in some tournaments back then as a mod pool like HR. If you've ever tried this map before, you should know that it's a very interesting map with fun stream patterns from Emiru, who's especially specialized in higher-SR mapping. Players who're fond of anti-flow streams and stairs must love this map as well since there are a lot of challenging yet exciting stair and anti-flow streams. Please give the map a try if either you're a fan of Emiru's mapping style, or want some challenging stream patterns.
-
 [![](/wiki/shared/news/2021-11-21-project-loved-november-2021/801435.jpg)](https://osu.ppy.sh/community/forums/topics/1467963)
 
 [ZUN - Kagayaku Hari no Kobitozoku \~ Little Princess](https://osu.ppy.sh/beatmapsets/801435#fruits) by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)\

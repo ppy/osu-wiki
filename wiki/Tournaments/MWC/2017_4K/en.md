@@ -117,107 +117,107 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 **[Download the mappack here! (123MB)](http://www.mediafire.com/file/jho7mgavbd8ktlo/MWC4K_2017_Finals.rar)**
 
 - FreeMod
-  - [Mick Gordon - The Mastermind (Pope Gadget) \[Brainstorm\]](https://osu.ppy.sh/beatmapsets/663258#mania/1403911)
-  - [Nine Inch Nails - March Of The Pigs (Valedict) \[OiNK\]](https://osu.ppy.sh/beatmapsets/544334#mania/1153543)
-  - [DJ Sharpnel - Lolit Speed (IcyWorld) \[Marathon\]](https://osu.ppy.sh/beatmapsets/644943#mania/1366733)
-  - [Hatsuki Yura - The Clockwork Rose -Tokei Shikake no Bara Shoujo- (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/740979#mania/1349843)
-  - [The Quick Brown Fox - Break (beary605) \[Smash\]](https://osu.ppy.sh/beatmapsets/500905#mania/1066057)
-  - [Makou - Hamsin (Wh1teh) \[!!\]](https://osu.ppy.sh/beatmapsets/663678#mania/1404752)
-  - [sakuraburst - descent (Ciel) \[delve\]](https://osu.ppy.sh/beatmapsets/664018#mania/1405397)
-  - [Camellia - K.Y.A.F.A. (Evening) \[UNSTOPPABLE DOMINATION\]](https://osu.ppy.sh/beatmapsets/477233#mania/1076362)
-  - [Miyu Tomita, Saori Oonishi, Naomi Ohzora, Kana Hanazawa - Hallelujah Essaim (JztCallMeRon) \[In the Name of God\]](https://osu.ppy.sh/beatmapsets/593598#mania/1255764)
-  - [Sound Horizon - Raijin no Hidariude (-Kamikaze-) \[Tempest w/ \_underjoy\]](https://osu.ppy.sh/beatmapsets/599091#mania/1266238)
-  - [Xanopticon - Psicicite (207bpm) (Shoegazer) \[Extreme\]](https://osu.ppy.sh/beatmapsets/659977#mania/1398964)
-  - [Camellia - Lunatic Rough Party!! (Fullerene-) \[Inspire\]](https://osu.ppy.sh/beatmapsets/494345#mania/1052580)
-  - [Behemoth - Daimonos (Wh1teh) \[Evangelion\]](https://osu.ppy.sh/beatmapsets/507176#mania/1078837)
-  - [Yuuyu - Scrap Syndrome (Halogen-) \[Manic Disassembly\]](https://osu.ppy.sh/beatmapsets/663256#mania/1403908)
-  - [Kairiki Bear - Inaiinai isonshou (feat. GUMI, Kagamine Rin) (juankristal) \[timing hell \[NSV\]\]](https://osu.ppy.sh/beatmapsets/663472#mania/1404354)
+  1. [Mick Gordon - The Mastermind (Pope Gadget) \[Brainstorm\]](https://osu.ppy.sh/beatmapsets/663258#mania/1403911)
+  2. [Nine Inch Nails - March Of The Pigs (Valedict) \[OiNK\]](https://osu.ppy.sh/beatmapsets/544334#mania/1153543)
+  3. [DJ Sharpnel - Lolit Speed (IcyWorld) \[Marathon\]](https://osu.ppy.sh/beatmapsets/644943#mania/1366733)
+  4. [Hatsuki Yura - The Clockwork Rose -Tokei Shikake no Bara Shoujo- (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/740979#mania/1349843)
+  5. [The Quick Brown Fox - Break (beary605) \[Smash\]](https://osu.ppy.sh/beatmapsets/500905#mania/1066057)
+  6. [Makou - Hamsin (Wh1teh) \[!!\]](https://osu.ppy.sh/beatmapsets/663678#mania/1404752)
+  7. [sakuraburst - descent (Ciel) \[delve\]](https://osu.ppy.sh/beatmapsets/664018#mania/1405397)
+  8. [Camellia - K.Y.A.F.A. (Evening) \[UNSTOPPABLE DOMINATION\]](https://osu.ppy.sh/beatmapsets/477233#mania/1076362)
+  9. [Miyu Tomita, Saori Oonishi, Naomi Ohzora, Kana Hanazawa - Hallelujah Essaim (JztCallMeRon) \[In the Name of God\]](https://osu.ppy.sh/beatmapsets/593598#mania/1255764)
+  10. [Sound Horizon - Raijin no Hidariude (-Kamikaze-) \[Tempest w/ \_underjoy\]](https://osu.ppy.sh/beatmapsets/599091#mania/1266238)
+  11. [Xanopticon - Psicicite (207bpm) (Shoegazer) \[Extreme\]](https://osu.ppy.sh/beatmapsets/659977#mania/1398964)
+  12. [Camellia - Lunatic Rough Party!! (Fullerene-) \[Inspire\]](https://osu.ppy.sh/beatmapsets/494345#mania/1052580)
+  13. [Behemoth - Daimonos (Wh1teh) \[Evangelion\]](https://osu.ppy.sh/beatmapsets/507176#mania/1078837)
+  14. [Yuuyu - Scrap Syndrome (Halogen-) \[Manic Disassembly\]](https://osu.ppy.sh/beatmapsets/663256#mania/1403908)
+  15. [Kairiki Bear - Inaiinai isonshou (feat. GUMI, Kagamine Rin) (juankristal) \[timing hell \[NSV\]\]](https://osu.ppy.sh/beatmapsets/663472#mania/1404354)
 - Tiebreaker
-  - **[Infected Mushroom - The Messenger 2012 (Sped Up Ver.) (Pope Gadget) \[Witness\]](https://osu.ppy.sh/beatmapsets/664041#mania/1484095)**
+  1. **[Infected Mushroom - The Messenger 2012 (Sped Up Ver.) (Pope Gadget) \[Witness\]](https://osu.ppy.sh/beatmapsets/664041#mania/1484095)**
 
 ### Semifinals
 
 **[Download the mappack here! (90MB)](http://www.mediafire.com/file/7mxtjr3r9k4bi54/MWC4K_2017_Semifinals.rar)**
 
 - FreeMod
-  - [9mm Parabellum Bullet - Punishment (Valedict) \[Retribution\]](https://osu.ppy.sh/beatmapsets/532682#mania/1128678)
-  - [Kaneko Chiharu - Lachryma \<Re:Queen'M\> (Fresh Chicken) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/415886#mania/901050)
-  - [aaaa + yadorigi - Sakase natsuzora, koi no hana. (scissorsf) \[flnowers\]](https://osu.ppy.sh/beatmapsets/464221#mania/993976)
-  - [Ekcle - The Impulsive State (Parachor) \[Entropy\_\]](https://osu.ppy.sh/beatmapsets/643857#mania/1364765)
-  - [The Flashbulb - Passage D (Jinjin) \[Delve\]](https://osu.ppy.sh/beatmapsets/475785#mania/1016508)
-  - [IOSYS - Endless Tewi-ma Park (arcwinolivirus) \[Arcwin Lost Tewicated\]](https://osu.ppy.sh/beatmapsets/392965#mania/855471)
-  - [USAO - Boss Rush (PiraTom) \[LN Rush\]](https://osu.ppy.sh/beatmapsets/595680#mania/1259719)
-  - [Fele - Peter on Crack (Cut) (Jole) \[this is brain surgery\]](https://osu.ppy.sh/beatmapsets/631020#mania/1394763)
-  - [Kidkanevil - Lantern 1 (Valedict) \[Fog\]](https://osu.ppy.sh/beatmapsets/630576#mania/1331160)
-  - [Kontinuum - Lost (feat. Savoi) \[Sunroof Remix\] (Otakujanai) \[Emotional Drift\]](https://osu.ppy.sh/beatmapsets/624059#mania/1321781)
-  - [Fractal Dreamers - Fortuna Redux (Kizunuko-P) \[Dream\]](https://osu.ppy.sh/beatmapsets/621965#mania/1311355)
-  - [Inferi - Those Who From the Heavens Came (XeoStyle) \[Investiture of the Gods\]](https://osu.ppy.sh/beatmapsets/413901#mania/897408)
-  - [C-Show - ERROR CODE (SpectorDG) \[SPE vs. ZEN's GRAVITY\]](https://osu.ppy.sh/beatmapsets/545342#mania/1155393)
-  - [Jeff Williams - Time to say Goodbye (feat. Casey Lee Williams) (juankristal) \[Team LNBY\]](https://osu.ppy.sh/beatmapsets/524244#mania/1112725)
+  1. [9mm Parabellum Bullet - Punishment (Valedict) \[Retribution\]](https://osu.ppy.sh/beatmapsets/532682#mania/1128678)
+  2. [Kaneko Chiharu - Lachryma \<Re:Queen'M\> (Fresh Chicken) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/415886#mania/901050)
+  3. [aaaa + yadorigi - Sakase natsuzora, koi no hana. (scissorsf) \[flnowers\]](https://osu.ppy.sh/beatmapsets/464221#mania/993976)
+  4. [Ekcle - The Impulsive State (Parachor) \[Entropy\_\]](https://osu.ppy.sh/beatmapsets/643857#mania/1364765)
+  5. [The Flashbulb - Passage D (Jinjin) \[Delve\]](https://osu.ppy.sh/beatmapsets/475785#mania/1016508)
+  6. [IOSYS - Endless Tewi-ma Park (arcwinolivirus) \[Arcwin Lost Tewicated\]](https://osu.ppy.sh/beatmapsets/392965#mania/855471)
+  7. [USAO - Boss Rush (PiraTom) \[LN Rush\]](https://osu.ppy.sh/beatmapsets/595680#mania/1259719)
+  8. [Fele - Peter on Crack (Cut) (Jole) \[this is brain surgery\]](https://osu.ppy.sh/beatmapsets/631020#mania/1394763)
+  9. [Kidkanevil - Lantern 1 (Valedict) \[Fog\]](https://osu.ppy.sh/beatmapsets/630576#mania/1331160)
+  10. [Kontinuum - Lost (feat. Savoi) \[Sunroof Remix\] (Otakujanai) \[Emotional Drift\]](https://osu.ppy.sh/beatmapsets/624059#mania/1321781)
+  11. [Fractal Dreamers - Fortuna Redux (Kizunuko-P) \[Dream\]](https://osu.ppy.sh/beatmapsets/621965#mania/1311355)
+  12. [Inferi - Those Who From the Heavens Came (XeoStyle) \[Investiture of the Gods\]](https://osu.ppy.sh/beatmapsets/413901#mania/897408)
+  13. [C-Show - ERROR CODE (SpectorDG) \[SPE vs. ZEN's GRAVITY\]](https://osu.ppy.sh/beatmapsets/545342#mania/1155393)
+  14. [Jeff Williams - Time to say Goodbye (feat. Casey Lee Williams) (juankristal) \[Team LNBY\]](https://osu.ppy.sh/beatmapsets/524244#mania/1112725)
 - Tiebreaker
-  - **[Camellia - Dans la mer de son (TheToaphster) \[Abyss\]](https://osu.ppy.sh/beatmapsets/556824#mania/1641834)**
+  1. **[Camellia - Dans la mer de son (TheToaphster) \[Abyss\]](https://osu.ppy.sh/beatmapsets/556824#mania/1641834)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (88MB)](http://www.mediafire.com/file/7baxea9hafezhob/MWC4K_2017_Quarterfinals.rar)**
 
 - FreeMod
-  - [BABYMETAL - Road of Resistance (hi19hi19) \[Uprising\]](https://osu.ppy.sh/beatmapsets/649356#mania/1375744)
-  - [Caravan Palace - Clash (Hydria) \[Hard\]](https://osu.ppy.sh/beatmapsets/646460#mania/1369706)
-  - [goreshit - looming shadow of a tree long gone (Shoegazer) \[extra\]](https://osu.ppy.sh/beatmapsets/360765#mania/792874)
-  - [yst - The Lost Dedicated (DDMythical) \[Another\]](https://osu.ppy.sh/beatmapsets/617988#mania/1302866)
-  - [8284 - Connaextion (LeiN-) \[TIMED\_OUT\]](https://osu.ppy.sh/beatmapsets/482242#mania/1029033)
-  - [Maika - Goldrop (Skorer) \[Yudaina LN\]](https://osu.ppy.sh/beatmapsets/482242#mania/1029033)
-  - [Getty vs. DJ DiA - Fox4-Raize- (Evening) \[GRAVITY VIP\]](https://osu.ppy.sh/beatmapsets/580157#mania/1228388)
-  - [Colorful Sounds Port - ETERNAL DRAIN (Wh1teh) \[Black Another\]](https://osu.ppy.sh/beatmapsets/468353#mania/1104774)
-  - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (juankristal) \[Machine Gun\]](https://osu.ppy.sh/beatmapsets/631861#mania/1341515)
-  - [Dustvoxx - Trigger (Zekk Remix) (Wonki) \[Trigger\]](https://osu.ppy.sh/beatmapsets/555076#mania/1174927)
-  - [Akira Complex - Odyssey (Au5 Remix) (Shoegazer) \[Dreamless\]](https://osu.ppy.sh/beatmapsets/519513#mania/1103630)
-  - [YUC'e - Sengoku HOP (c/f Athenarium) (Hydria) \[Insane\]](https://osu.ppy.sh/beatmapsets/605435#mania/1279175)
-  - [NOISIA - Groundhog (Beat Juggle) (Raspberriel) \[Sorry, Am I Putting You Off?\]](https://osu.ppy.sh/beatmapsets/591171#mania/1252742)
+  1. [BABYMETAL - Road of Resistance (hi19hi19) \[Uprising\]](https://osu.ppy.sh/beatmapsets/649356#mania/1375744)
+  2. [Caravan Palace - Clash (Hydria) \[Hard\]](https://osu.ppy.sh/beatmapsets/646460#mania/1369706)
+  3. [goreshit - looming shadow of a tree long gone (Shoegazer) \[extra\]](https://osu.ppy.sh/beatmapsets/360765#mania/792874)
+  4. [yst - The Lost Dedicated (DDMythical) \[Another\]](https://osu.ppy.sh/beatmapsets/617988#mania/1302866)
+  5. [8284 - Connaextion (LeiN-) \[TIMED\_OUT\]](https://osu.ppy.sh/beatmapsets/482242#mania/1029033)
+  6. [Maika - Goldrop (Skorer) \[Yudaina LN\]](https://osu.ppy.sh/beatmapsets/482242#mania/1029033)
+  7. [Getty vs. DJ DiA - Fox4-Raize- (Evening) \[GRAVITY VIP\]](https://osu.ppy.sh/beatmapsets/580157#mania/1228388)
+  8. [Colorful Sounds Port - ETERNAL DRAIN (Wh1teh) \[Black Another\]](https://osu.ppy.sh/beatmapsets/468353#mania/1104774)
+  9. [Blue Stahli - Shotgun Senorita (Zardonic Remix) (juankristal) \[Machine Gun\]](https://osu.ppy.sh/beatmapsets/631861#mania/1341515)
+  10. [Dustvoxx - Trigger (Zekk Remix) (Wonki) \[Trigger\]](https://osu.ppy.sh/beatmapsets/555076#mania/1174927)
+  11. [Akira Complex - Odyssey (Au5 Remix) (Shoegazer) \[Dreamless\]](https://osu.ppy.sh/beatmapsets/519513#mania/1103630)
+  12. [YUC'e - Sengoku HOP (c/f Athenarium) (Hydria) \[Insane\]](https://osu.ppy.sh/beatmapsets/605435#mania/1279175)
+  13. [NOISIA - Groundhog (Beat Juggle) (Raspberriel) \[Sorry, Am I Putting You Off?\]](https://osu.ppy.sh/beatmapsets/591171#mania/1252742)
 - Tiebreaker
-  - **[DragonForce - The Warrior Inside (\_underjoy) \[4K Collab Gladiator\]](https://osu.ppy.sh/beatmapsets/330405#mania/1038662)**
+  1. **[DragonForce - The Warrior Inside (\_underjoy) \[4K Collab Gladiator\]](https://osu.ppy.sh/beatmapsets/330405#mania/1038662)**
 
 ### Round of 16
 
 **[Download the mappack here! (65 MB)](http://www.mediafire.com/file/z7pmbh632dy178j/MWC4K_2017_Round_of_16.rar)**
 
 - FreeMod
-  - [hyi - you can recover (Valedict) \[restoration\]](https://osu.ppy.sh/beatmapsets/566156#mania/1199287)
-  - [GIRAFFES? GIRAFFES! - I Am S/H(im)e\[r\] (XeoStyle) \[I Am Us\]](https://osu.ppy.sh/beatmapsets/595712#mania/1259834)
-  - [KOAN Sound + asa - Fuego (sakuraburst remix) (Couil) \[HD\]](https://osu.ppy.sh/beatmapsets/622946#mania/1313120)
-  - [Schubert - Introduction And Variations 'Trockne Blumen' Variation 5 Remix&Arrange (Feerum) \[4K Irrsinnig\]](https://osu.ppy.sh/beatmapsets/557139#mania/1178997)
-  - [Team Grimoire - Sheriruth (DoNotMess) \[Future\]](https://osu.ppy.sh/beatmapsets/590341#mania/1295745)
-  - [Helblinde - Heaven's Fall (Kaito-kun) \[Extra\]](https://osu.ppy.sh/beatmapsets/541483#mania/1217314)
-  - [q/stol - Re/Im (Lude) \[Re/Extreme\]](https://osu.ppy.sh/beatmapsets/588066#mania/1245089)
-  - [USAO - Showdown (Side) \[puxtu's MX\]](https://osu.ppy.sh/beatmapsets/438839#mania/996693)
-  - [Sonitus Vir ft. Emily Smith - Lune Noir (Bites) \[4K MX\]](https://osu.ppy.sh/beatmapsets/57946#mania/225781)
-  - [MINTi - So Fresh So Good (Leo137) \[Leo137's 4K\]](https://osu.ppy.sh/beatmapsets/516485#mania/1097526)
-  - [Edwin Starr vs. Justice - War vs. Waters of Nazareth (Raspberriel) \[Massacre Edit\]](https://osu.ppy.sh/beatmapsets/602039#mania/1394983)
-  - [The Flashbulb - Three Hundred CC (edit) (Blocko) \[Another\]](https://osu.ppy.sh/beatmapsets/645827#mania/1368417)
-  - [Alesana - The Artist (Tornspirit) \[Collapse\]](https://osu.ppy.sh/beatmapsets/606247#mania/1280807)
+  1. [hyi - you can recover (Valedict) \[restoration\]](https://osu.ppy.sh/beatmapsets/566156#mania/1199287)
+  2. [GIRAFFES? GIRAFFES! - I Am S/H(im)e\[r\] (XeoStyle) \[I Am Us\]](https://osu.ppy.sh/beatmapsets/595712#mania/1259834)
+  3. [KOAN Sound + asa - Fuego (sakuraburst remix) (Couil) \[HD\]](https://osu.ppy.sh/beatmapsets/622946#mania/1313120)
+  4. [Schubert - Introduction And Variations 'Trockne Blumen' Variation 5 Remix&Arrange (Feerum) \[4K Irrsinnig\]](https://osu.ppy.sh/beatmapsets/557139#mania/1178997)
+  5. [Team Grimoire - Sheriruth (DoNotMess) \[Future\]](https://osu.ppy.sh/beatmapsets/590341#mania/1295745)
+  6. [Helblinde - Heaven's Fall (Kaito-kun) \[Extra\]](https://osu.ppy.sh/beatmapsets/541483#mania/1217314)
+  7. [q/stol - Re/Im (Lude) \[Re/Extreme\]](https://osu.ppy.sh/beatmapsets/588066#mania/1245089)
+  8. [USAO - Showdown (Side) \[puxtu's MX\]](https://osu.ppy.sh/beatmapsets/438839#mania/996693)
+  9. [Sonitus Vir ft. Emily Smith - Lune Noir (Bites) \[4K MX\]](https://osu.ppy.sh/beatmapsets/57946#mania/225781)
+  10. [MINTi - So Fresh So Good (Leo137) \[Leo137's 4K\]](https://osu.ppy.sh/beatmapsets/516485#mania/1097526)
+  11. [Edwin Starr vs. Justice - War vs. Waters of Nazareth (Raspberriel) \[Massacre Edit\]](https://osu.ppy.sh/beatmapsets/602039#mania/1394983)
+  12. [The Flashbulb - Three Hundred CC (edit) (Blocko) \[Another\]](https://osu.ppy.sh/beatmapsets/645827#mania/1368417)
+  13. [Alesana - The Artist (Tornspirit) \[Collapse\]](https://osu.ppy.sh/beatmapsets/606247#mania/1280807)
 - Tiebreaker
-  - **[BABYMETAL - Tales of The Destinies (Couil) \[Endless Journey\]](https://osu.ppy.sh/beatmapsets/611340#mania/1290602)**
+  1. **[BABYMETAL - Tales of The Destinies (Couil) \[Endless Journey\]](https://osu.ppy.sh/beatmapsets/611340#mania/1290602)**
 
 ### Group stage
 
 **[Download the mappack here! (89 MB)](http://www.mediafire.com/file/cjk4f8ilwc2s7uv/MWC4K_2017_Group_Stage.rar)**
 
 - FreeMod
-  - [Lifetheory - Daisy (Tidek) \[Life (Insane)\]](https://osu.ppy.sh/beatmapsets/323163#mania/718401)
-  - [Shawn Wasabi - Burnt Rice (855wa) \[Hard\]](https://osu.ppy.sh/beatmapsets/493347#mania/1063205)
-  - [YK. - Egg Of Life (Mwila Remix) (Paradoxq13) \[MX\]](https://osu.ppy.sh/beatmapsets/330513#mania/741552)
-  - [sakuzyo - Altale (Kuo Kyoka) \[Hyper Lv.22\]](https://osu.ppy.sh/beatmapsets/347779#mania/767309)
-  - [yuikonnu - Shinkai Shoujo (juankristal) \[Shoujo\]](https://osu.ppy.sh/beatmapsets/493322#mania/1050663)
-  - [Warak - REANIMATE (Mat) \[Complex LNs\]](https://osu.ppy.sh/beatmapsets/624267#mania/1315761)
-  - [Takemura Kiriko - Ninja Re Bang Bang (ecafree2) \[4K HD\]](https://osu.ppy.sh/beatmapsets/372942#mania/816807)
-  - [REDALiCE feat. anporin - Beautiful Dream (Dellvangel) \[CS' Challenge\]](https://osu.ppy.sh/beatmapsets/419697#mania/908398)
-  - [Niira Etsuko - Imaginary Waltz (-Troke-) \[Raccoon's MX\]](https://osu.ppy.sh/beatmapsets/189927#mania/480148)
-  - [Tim & Eric - Sports! (ilikexd) \[Hard\]](https://osu.ppy.sh/beatmapsets/306152#mania/685357)
-  - [Beltaine - Rockhill (Ryu Sei) \[Hard\]](https://osu.ppy.sh/beatmapsets/464358#mania/994291)
-  - [stereoberry - evangelize (blurry images) (Tidek) \[transparency (SV)\]](https://osu.ppy.sh/beatmapsets/577748#mania/1222765)
+  1. [Lifetheory - Daisy (Tidek) \[Life (Insane)\]](https://osu.ppy.sh/beatmapsets/323163#mania/718401)
+  2. [Shawn Wasabi - Burnt Rice (855wa) \[Hard\]](https://osu.ppy.sh/beatmapsets/493347#mania/1063205)
+  3. [YK. - Egg Of Life (Mwila Remix) (Paradoxq13) \[MX\]](https://osu.ppy.sh/beatmapsets/330513#mania/741552)
+  4. [sakuzyo - Altale (Kuo Kyoka) \[Hyper Lv.22\]](https://osu.ppy.sh/beatmapsets/347779#mania/767309)
+  5. [yuikonnu - Shinkai Shoujo (juankristal) \[Shoujo\]](https://osu.ppy.sh/beatmapsets/493322#mania/1050663)
+  6. [Warak - REANIMATE (Mat) \[Complex LNs\]](https://osu.ppy.sh/beatmapsets/624267#mania/1315761)
+  7. [Takemura Kiriko - Ninja Re Bang Bang (ecafree2) \[4K HD\]](https://osu.ppy.sh/beatmapsets/372942#mania/816807)
+  8. [REDALiCE feat. anporin - Beautiful Dream (Dellvangel) \[CS' Challenge\]](https://osu.ppy.sh/beatmapsets/419697#mania/908398)
+  9. [Niira Etsuko - Imaginary Waltz (-Troke-) \[Raccoon's MX\]](https://osu.ppy.sh/beatmapsets/189927#mania/480148)
+  10. [Tim & Eric - Sports! (ilikexd) \[Hard\]](https://osu.ppy.sh/beatmapsets/306152#mania/685357)
+  11. [Beltaine - Rockhill (Ryu Sei) \[Hard\]](https://osu.ppy.sh/beatmapsets/464358#mania/994291)
+  12. [stereoberry - evangelize (blurry images) (Tidek) \[transparency (SV)\]](https://osu.ppy.sh/beatmapsets/577748#mania/1222765)
 - Tiebreaker
-  - **[sakuraburst - sha (SitekX) \[dow\]](https://osu.ppy.sh/beatmapsets/595086#mania/1258514)**
+  1. **[sakuraburst - sha (SitekX) \[dow\]](https://osu.ppy.sh/beatmapsets/595086#mania/1258514)**
 
 ## Match results
 
