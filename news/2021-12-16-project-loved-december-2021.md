@@ -327,7 +327,7 @@ Fantastic job to our own \_underjoy as always for providing the huge variety of 
 141 – 183.3 BPM, 2:39 | 5.19★, 5.61★, 6.04★, 6.47★\
 *description written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
 
-Maybe you're an avid \[Bayonetta](https://www.youtube.com/watch?v=xYu8EKEbWP4) fan and recognized this amazing remaster of \[*Frank Sinatra - Fly Me To The Moon*](https://www.youtube.com/watch?v=Y2rDb4Ur2dw). Maybe you're simply an Evangelion fan that couldn't be bothered skipping the endings. Perhaps you are just a connoisseur of the Spanish mania charting scene [i\](spoilers: there are none!)[/i\]. Or finally, you might have stumbled upon some [juicy cola pack](https://etternaonline.com/pack/93499) before.
+Maybe you're an avid [Bayonetta](https://www.youtube.com/watch?v=xYu8EKEbWP4) fan and recognized this amazing remaster of [*Frank Sinatra - Fly Me To The Moon*](https://www.youtube.com/watch?v=Y2rDb4Ur2dw). Maybe you're simply an Evangelion fan that couldn't be bothered skipping the endings. Perhaps you are just a connoisseur of the Spanish mania charting scene *(spoilers: there are none!)*. Or finally, you might have stumbled upon some [juicy cola pack](https://etternaonline.com/pack/93499) before.
 
 Whatever the reason might be, it does not excuse the fact that this is Ska's debut in the Loved section with one of their most recognizable and enjoyable files out there! The chart itself is really fun. For those looking for both a speedy, tiresome, and technical challenge, here's a good contender for that. And how could we forget about rates, in case you think your arms are still usable moving up the rates.
 
@@ -514,7 +514,7 @@ This map is the definition of a hybrid. Diverse rice patterning meets short LN b
 
 ---
 
-From the [Project Loved Team](https://osu.ppy.sh/wiki/en/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selections and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end.
+From the [Project Loved Team](/wiki/en/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selections and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end.
 
 If you would like to submit maps to be considered for future votes, you may do so by filling out this form and if you wish to view currently submitted maps, you can check them on the [Project Loved website](https://loved.sh/submissions/osu).
 
