@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: c5ee74153aa8ac008034cce4efe4be4350f8034b
 ---
 
 # osu! 社群會議 (osu! community meetings)
