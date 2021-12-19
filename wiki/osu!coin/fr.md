@@ -2,6 +2,8 @@
 stub: true
 tags:
   - april fools
+outdated: true
+outdated_since: 272fedc0912ea2764990d3966f8147f1b9e0fa3d
 ---
 
 # osu!coin
