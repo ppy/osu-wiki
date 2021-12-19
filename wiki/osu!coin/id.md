@@ -2,8 +2,6 @@
 stub: true
 tags:
   - april fools
-outdated: true
-outdated_since: 272fedc0912ea2764990d3966f8147f1b9e0fa3d
 ---
 
 # osu!coin
@@ -16,6 +14,8 @@ outdated_since: 272fedc0912ea2764990d3966f8147f1b9e0fa3d
 
 [Pernyataan resmi tentang osu!coins](https://osu.ppy.sh/home/news/2015-03-31-osucoins) menjelaskan bahwa osu!coin ditambahkan ke dalam permainan, sebagai cara untuk membiayai pesawat jet pribadi milik ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), karena strategi monetisasi yang digunakan pada saat ini tidak akan bisa membiayai pesawat jet pribadi miliknya dalam masa hidupnya. Pernyataan tersebut berlanjut, menjelaskan bahwa setiap pemain baru akan diberikan 10 osu!coin, dan akan diberikan 10 lagi setiap harinya. Pemain lama akan diberikan dua tambahan osu!coin sebagai bonus. Pemain dapat mendapatkan lebih banyak osu!coin dengan mencapai [combo](/wiki/Glossary/Combo_(score_multiplier)) tertentu. Satu osu!coin akan diberikan untuk setiap 100x combo.
 
+![](img/earning-osu!coin.jpg "Contoh pemain yang mendapatkan osu!coin pada setiap 100x combo")
+
 Saat pemain kehabisan osu!coin, mereka tidak akan bisa memainkan beatmap apapun lagi. Tetapi, mereka dapat membeli lebih banyak osu!coin—atas kemauan mereka sendiri—dengan harga berikut:
 
 - $1 USD = 1 osu!coin
@@ -25,9 +25,13 @@ Saat pemain kehabisan osu!coin, mereka tidak akan bisa memainkan beatmap apapun 
 
 Keesokan harinya, peppy membatalkan implementasi osu!coin, membuka sub-domain yang baru untuk desain baru osu!web dan diakhiri dengan [sebuah komentar mengenai perbaikan bug dan beberapa peningkatan kecil](https://osu.ppy.sh/comments/121803).
 
+![](img/spending-osu!coin.jpg "Contoh pemain yang menggunakan osu!coin untuk bermain sebuah beatmap")
+
 ## Penerimaan
 
 Meskipun implementasi untuk osu!coins memerlukan beberapa tambahan elemen grafik, osu!coin tidak memengaruhi pengalaman selagi pada bermain, pemain tetap bisa bermain meskipun batas osu!coin sudah habis. Sebaliknya, tidak ada cara yang tersedia untuk membeli osu!coin (meskipun ada terdaftar pada menu opsi).
+
+![](img/purchase-osu!coin-menu.jpg "Menu pembelian osu!coin")
 
 Pembaruan ini diterima dengan baik oleh pemain osu! sebagai perubahan suasana dari berita-berita yang biasanya tegas.
 
