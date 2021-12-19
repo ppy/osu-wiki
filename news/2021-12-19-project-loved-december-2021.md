@@ -518,7 +518,7 @@ This map is the definition of a hybrid. Diverse rice patterning meets short LN b
 
 From the [Project Loved Team](/wiki/en/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selections and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end.
 
-If you would like to submit maps to be considered for future votes, you may do so by filling out this form and if you wish to view currently submitted maps, you can check them on the [Project Loved website](https://loved.sh/submissions/osu).
+If you would like to submit maps to be considered for future votes, you may do so by filling out [this form](https://loved.sh/submit) and if you wish to view currently submitted maps, you can check them on the [Project Loved website](https://loved.sh/submissions/osu).
 
 See you next year! 
 
