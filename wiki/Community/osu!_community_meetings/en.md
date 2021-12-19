@@ -26,15 +26,16 @@ We aim to take no more than 5 minutes per question, so please understand that qu
 
 The first osu! community meeting was hosted on September 19, 2021. All meetings have been and will continue to be recorded on YouTube, along with an accompanying summary document.
 
-| Meeting # | Link | Summary |
-| :-: | :-- | :-- |
-| 0 | [September 19, 2021](https://youtu.be/-LjNll8VYTM) | [Meeting notes](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) |
-| 1 | [October 3, 2021](https://youtu.be/D3OZCm6szVE) | [Meeting notes](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) |
-| 2 | [October 17, 2021](https://youtu.be/nLT-fLeogrw) | [Meeting notes](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) |
-| 3 | [October 31, 2021](https://youtu.be/omvZbC7zJUI) | [Meeting notes](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) |
-| 4 | [November 14, 2021](https://youtu.be/rEWgTY-L95Y) | [Meeting notes](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) |
-| 5 | [November 28, 2021](https://youtu.be/SqMrY26Q6Tw) | [Meeting notes](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) |
-| 6 | [December 11, 2021](https://youtu.be/dtGjIyTFtMA) | [Meeting notes](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) |
+| Meeting # | Link | Summary | Agenda |
+| :-: | :-- | :-- | :-- |
+| 0 | [September 19, 2021](https://youtu.be/-LjNll8VYTM) | [Meeting notes](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Introduction to these meetings, ranking criteria, difficulty and performance points, osu!lazer in general |
+| 1 | [October 3, 2021](https://youtu.be/D3OZCm6szVE) | [Meeting notes](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | Various community questions, development update |
+| 2 | [October 17, 2021](https://youtu.be/nLT-fLeogrw) | [Meeting notes](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | Various community questions |
+| 3 | [October 31, 2021](https://youtu.be/omvZbC7zJUI) | [Meeting notes](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | Various community questions |
+| 4 | [November 14, 2021](https://youtu.be/rEWgTY-L95Y) | [Meeting notes](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) | Performance point development process, various community questions, development update |
+| 5 | [November 28, 2021](https://youtu.be/SqMrY26Q6Tw) | [Meeting notes](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) | Various community questions, development update |
+| 6 | [December 11, 2021](https://youtu.be/dtGjIyTFtMA) | [Meeting notes](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) | Future of the osu! World Cups, various community questions |
+| 7 | [December 18, 2021](https://www.twitch.tv/videos/1236856715) | [Meeting notes](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) | peppy responds to various controversies and drama in the community |
 
 ## Related links
 
