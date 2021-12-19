@@ -170,7 +170,7 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 [flag_BR]: /wiki/shared/flag/BR.gif "Brasilien"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Schweiz"
-[flag_CL]: /wiki/shared/flag/CL.gif "China"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Deutschland"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanien"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finnland"
