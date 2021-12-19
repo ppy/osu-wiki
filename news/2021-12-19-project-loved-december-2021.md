@@ -281,7 +281,7 @@ Cast your vote and find out how far players, and maybe even you yourself, can pu
 145 – 170 BPM, 4:06 | 4.83★ – 5.82★\
 *description written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
 
-Whether you were someone who stumbled upon this without knowing what even a Dan is \[i\](which I commend you for, you're doing great)\[/i\], or someone who discovered Seiryuu's selection of jack maps after seeing *ceeeertain charts inside* in other courses, it is undeniable that both types of players ended up liking the pack to the point it became quite a popular collection!
+Whether you were someone who stumbled upon this without knowing what even a Dan is *(which I commend you for, you're doing great)*, or someone who discovered Seiryuu's selection of jack maps after seeing *ceeeertain charts inside* in other courses, it is undeniable that both types of players ended up liking the pack to the point it became quite a popular collection!
 
 The vast selection of songs (and patterns believe it or not) is very welcoming. It's not a stretch to say that there's no map alike, and that each chart holds a uniqueness to it that's not attributable by any other one chart in the pack. Point is: there is going to be a chart for everyone. Maybe you enjoy more anchor-y patterns. Perhaps you want to try your luck with more dense stuff. Alternatively, you can always try something faster than the rest. The choice is yours to make.
 
