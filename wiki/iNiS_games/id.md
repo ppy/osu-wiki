@@ -14,7 +14,7 @@ tags:
   - Ouendan
 ---
 
-# Permainan-permainan dari iNiS
+# Permainan-permainan iNiS
 
 *Lihat juga: [osu! (disambiguasi)](/wiki/Disambiguation/osu!)*
 
