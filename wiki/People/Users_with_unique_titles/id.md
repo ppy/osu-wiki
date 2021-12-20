@@ -1,5 +1,6 @@
 ---
 outdated: true
+outdated_since: a694bd60782cdbee9f84f72ab28e2c363989a596
 ---
 
 # Daftar pengguna dengan gelar khusus
