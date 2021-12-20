@@ -16,7 +16,7 @@ Es dauert normalerweise einige Tage für den Support, die E-Mail zu bearbeiten. 
 
 *Hauptartikel: [Hilfecenter](/wiki/Help_Centre)*
 
-*Siehe auch: [Einschrönkungen des Accounts](/wiki/Help_Centre/Account_Restrictions)*
+*Siehe auch: [Einschränkungen des Accounts](/wiki/Help_Centre/Account_Restrictions)*
 
 Du solltest das Team zu Account-bezogenen Themen kontaktieren, über die du keinen Einfluss hast. Bitte denke daran, so viel Kontext zu deinem Problem wie möglich zu schildern und die E-Mail von deiner mit osu! assoziierten E-Mail-Adresse zu senden.
 
