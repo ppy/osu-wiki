@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: a694bd60782cdbee9f84f72ab28e2c363989a596
----
-
 # Daftar pengguna dengan gelar khusus
 
 Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status keanggotaan mereka dalam suatu [gugus pengguna (*user group*)](/wiki/People/The_Team#gugus-pengguna). Meskipun demikian, terdapat beberapa pengguna yang secara khusus dianugerahi gelar-gelar tertentu dengan berbagai alasan mulai dari prestasi, kontribusi, hingga momen-momen unik yang telah mereka torehkan.
@@ -193,6 +188,15 @@ osu! menganugerahkan gelar **osu!mixer** kepada para pemenang kontes-kontes osu!
 - ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
 
 ¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) saat ini menyandang gelar **osu!mixer II** atas keberhasilannya dalam menjuarai dua kontes osu!remix yang berbeda, yakni [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) dan [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
+
+## Juara bertahan kontes osu!trivium Quiz
+
+osu! menganugerahkan gelar **osu!trivium Champion** kepada para pemenang [kontes osu!trivium Quiz](https://osu.ppy.sh/home/news/2021-11-10-osu!trivium-quiz-2021) selama satu tahun. Berikut ini adalah pemenang pada tahun 2021:
+
+- ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114)
+- ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621)
+- ![][flag_US] [Codazen](https://osu.ppy.sh/users/18291144)
+- ![][flag_MY] [squidstain](https://osu.ppy.sh/users/11073207)
 
 ## Featured Artist
 
