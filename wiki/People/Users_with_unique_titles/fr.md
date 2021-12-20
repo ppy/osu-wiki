@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: a694bd60782cdbee9f84f72ab28e2c363989a596
----
-
 # Utilisateurs avec des titres uniques
 
 Les titres d'utilisateurs sont généralement associés aux [groupes d'utilisateurs](/wiki/People/The_Team#groupes-dutilisateurs), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres étaient des récompenses pour des contributions ou des réalisations, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!.
@@ -193,6 +188,15 @@ Les concours osu!remix attribuent le titre **osu!mixer** comme premier prix.
 - ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
 
 ¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) a reçu le titre **osu!mixer II** pour avoir remporté le [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) et le concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
+
+## Gagnants actuels du concours osu!trivium Quiz
+
+Les [osu!trivium Quiz contests](https://osu.ppy.sh/home/news/2021-11-10-osu!trivium-quiz-2021) décernent à l'équipe ou à la personne gagnante le titre de **osu!trivium Champion**, qui dure un an. Voici les détenteurs du titre pour 2021 :
+
+- ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114)
+- ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621)
+- ![][flag_US] [Codazen](https://osu.ppy.sh/users/18291144)
+- ![][flag_MY] [squidstain](https://osu.ppy.sh/users/11073207)
 
 ## Featured Artists
 
