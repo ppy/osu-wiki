@@ -253,7 +253,7 @@ Notes :
 
 `taiko-glow.png`
 
-<!-- ![](img/taiko-glow.png) -->
+![](img/taiko-glow.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -338,7 +338,7 @@ Notes :
 
 `taiko-bar-left.png`
 
-<!-- ![](img/taiko-bar-left.png) -->
+![](img/taiko-bar-left.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
