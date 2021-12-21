@@ -1086,11 +1086,12 @@
 "vcc":                         "Rules/Visual_Content_Considerations"
 "visual_content":              "Rules/Visual_Content_Considerations"
 
-"scorev1":                     "Score/ScoreV1"
-"scorev2":                     "Score#scorev2"
-"total_score":                 "Score/Total_score"
-"ranked_score":                "Score/Ranked_score"
-"level":                       "Score/Total_score#level"
+"score":                       "Gameplay/Score"
+"scorev1":                     "Gameplay/Score/ScoreV1"
+"scorev2":                     "Gameplay/Score#scorev2"
+"total_score":                 "Gameplay/Score/Total_score"
+"ranked_score":                "Gameplay/Score/Ranked_score"
+"level":                       "Gameplay/Score/Total_score#level"
 
 "hotkeys": "Shortcut_key_reference"
 "keyboard_shortcuts": "Shortcut_key_reference"
