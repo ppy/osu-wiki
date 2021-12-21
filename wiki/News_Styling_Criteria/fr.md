@@ -2,6 +2,8 @@
 
 *Pour les articles du wiki, voir : [Critères de mise en forme des articles](/wiki/Article_styling_criteria)*
 
+**Attention : les articles de news sont disponible uniquement en Anglais, et une traduction de ces articles dans d'autres langues n'est pas prévu.**
+
 Les articles de news existent sur un système légèrement différent du wiki principal d'osu!, mais suivent des principes similaires. Leur rédaction implique une attention particulière à quelques caractéristiques et formats clés, comme indiqué ci-dessous.
 
 Comme toujours, tous les articles de news doivent avoir une orthographe et une grammaire correctes au strict minimum, ainsi que des informations correctes et à jour.
