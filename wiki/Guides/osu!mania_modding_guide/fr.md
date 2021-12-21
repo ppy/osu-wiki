@@ -8,7 +8,7 @@ Ce guide explique comment modifier une [beatmap](/wiki/Beatmap) dans [osu!mania]
 
 *Si vous êtes familiarisé avec la mise en page de la page de modding et avec la fonction de chaque bouton, passez directement à la section [Commençons à modder !](#commençons-à-modder-!)*
 
-Pour commencer à modder une beatmap, choisissez une beatmap dans la [liste des beatmaps en attente](https://osu.ppy.sh/beatmapsets?m=3&s=pending) ou demandez à n'importe quel mapper osu!mania s'il a quelque chose à classer, et lorsque vous êtes sur la page Beatmap, cliquez sur Discussion. Cela ouvrira la page de discussion, où le modding a lieu.
+Pour commencer à modder une beatmap, choisissez une beatmap dans la [liste des beatmaps en attente](https://osu.ppy.sh/beatmapsets?m=3&s=pending) ou demandez à n'importe quel mappeur osu!mania s'il a quelque chose à classer, et lorsque vous êtes sur la page Beatmap, cliquez sur Discussion. Cela ouvrira la page de discussion, où le modding a lieu.
 
 La page de discussion est remplie de nombreux boutons, qui sont tous expliqués ci-dessous :
 
@@ -29,7 +29,7 @@ En outre, il y a 3 boutons plus bas sur la page :
 
 ![](img/status-FR.jpg)
 
-- **Train de la hype :** Les hypes sont utilisés comme un moyen de promouvoir les beatmaps et de signaler l'intérêt de voir la beatmap classée. Les hypes sont nécessaires pour qu'une beatmap soit qualifié. En effet, pour qu'un Beatmap Nominator puisse nommer une beatmap, celui-ci doit atteindre au moins 5 hypes. Chaque utilisateur ne peut mettre en avant une beatmap qu'une seule fois, et les hypes sont distribués tous les 7 jours, jusqu'à un maximum de 10 hype.
+- **Train de la hype :** Les hypes sont utilisés comme un moyen de promouvoir les beatmaps et de signaler l'intérêt de voir la beatmap classée. Les hypes sont nécessaires pour qu'une beatmap soit qualifiée. En effet, pour qu'un Beatmap Nominator puisse nommer une beatmap, celle-ci doit atteindre au moins 5 hypes. Chaque utilisateur ne peut mettre en avant une beatmap qu'une seule fois, et les hypes sont distribués tous les 7 jours, jusqu'à un maximum de 10 hype.
 - **Suivre/Ne plus suivre :** En suivant une beatmap, des notifications apparaîtront chaque fois que quelque chose se passe dans la discussion sur la beatmap. Si vous suivez déjà une discussion sur la beatmap, vous pouvez également l'annuler en cliquant à nouveau sur le bouton.
 - **Page de la beatmap :** Retourne à la page des informations et des scores de la beatmap.
 
@@ -37,9 +37,9 @@ Les Beatmap Nominators/Moderators disposent de boutons supplémentaires, mais ce
 
 Avant de poster, assurez-vous que le bon onglet est sélectionné en fonction des modifications qui vont être suggérées. Au total, 3 options différentes sont disponibles :
 
-- **Général (Toutes les difficultés) :** Les messages postés ici seront affichés pour toutes les difficultés, ce qui est généralement réservé pour mentionner des choses qui affectent toutes les diffiucltés, comme des suggestions de points de synchronisation ou des métadonnées. La promotion d'une beatmap se fait également ici.
+- **Général (Toutes les difficultés) :** Les messages postés ici seront affichés pour toutes les difficultés, ce qui est généralement réservé pour mentionner des choses qui affectent toutes les difficultés, comme des suggestions de points de synchronisation ou des métadonnées. La promotion d'une beatmap se fait également ici.
 - **Général (Cette difficulté) :** Les messages affichés ici ne seront visibles que dans la difficulté définie ci-dessus. Les messages postés ici reflètent l'ensemble de la difficulté au lieu de points particuliers, tels que des commentaires sur l'ensemble de la difficulté ou des problèmes de spread avec les difficultés précédentes/suivantes.
-- **Chronologie :** C'est ici que se fait l'essentiel du modding. Tous les problèmes/suggestions pour les sections ou les notes dans la difficulté choisie ci-dessus appartiennent ici. Il est nécessaire de copier/coller un horodatage depuis l'éditeur vers la page de discussion avant de poster un message, afin que le mappeur sache de quelle section il s'agit.
+- **Chronologie :** C'est ici que se fait l'essentiel du modding. Tous les problèmes/suggestions pour les sections ou les notes dans la difficulté choisie ci-dessus se trouvent ici. Il est nécessaire de copier/coller un horodatage depuis l'éditeur vers la page de discussion avant de poster un message, afin que le mappeur sache de quelle section il s'agit.
 
 Si vous écrivez quelque chose dans le champ de texte de la page de discussion sur le modding, trois autres boutons généraux apparaissent, ainsi que deux boutons situationnels en fonction de la section choisie. Ces boutons sont importants pour déterminer l'importance d'un problème. Voici une explication rapide de chacun d'entre eux avant d'entrer dans les détails ci-dessous :
 
@@ -51,10 +51,10 @@ Si vous écrivez quelque chose dans le champ de texte de la page de discussion s
 
 ### Situationnel
 
-- **Hype! :** Visible uniquement dans la section Général (toutes difficultés) de la page de discussion du modding. Cela coûte 1 hype et augmente le hype de la beatmap de 1. Une beatmap doit avoir 5 hype avant de pouvoir être vérifiée par les Beatmap Nominators.
+- **Hype! :** Visible uniquement dans la section Général (toutes difficultés) de la page de discussion du modding. Cela coûte 1 hype et augmente la hype de la beatmap de 1. Une beatmap doit avoir 5 hype avant de pouvoir être vérifiée par les Beatmap Nominators.
 - **Note :** Seulement visible si vous êtes le propriétaire de la beatmap. Ceci laissera des notes publiques pour que les gens puissent les voir, principalement utilisées pour signaler tout ce qui semble étrange, ou tout plan futur avec la beatmap.
 
-Lorsqu'un message est marqué comme une **suggestion**, c'est pour des changements qui sont subjectifs et qui ne sont pas impossibles à classer. Des changements de patterns, des placements de notes spécifiques, et d'autres changements qui pourraient améliorer la carte. Ceci est principalement utilisé si le moddeur trouve certains patterns inconfortables, ou trouve une note qui semble déplacée mais n'est pas sûr.
+Lorsqu'un message est marqué comme une **suggestion**, c'est pour des changements qui sont subjectifs et qui ne sont pas impossibles à classer. Des changements de patterns, des placements de notes spécifiques, et d'autres changements qui pourraient améliorer la carte. Ceci est principalement utilisé si le moddeur trouve certains patterns inconfortables, ou trouve une note mal placée mais n'est pas sûr.
 
 Lorsqu'un message est marqué comme un **problème**, c'est pour des changements qui sont nécessaires pour le classement de la beatmap et qui sont objectivement nécessaires pour le classement. Ne postez pas de changements subjectifs en tant que problème, seulement lorsque quelque chose viole clairement les critères de classement ou est extrêmement inadapté, comme des SV sur une section où rien ne se passe qui pourrait les justifier, des notes unsnapped, ou un BPM complètement faux.
 
@@ -64,7 +64,7 @@ Vous pouvez consulter l'article [discussions de la beatmap](/wiki/Beatmap_Discus
 
 Pour commencer à modder, ouvrez la difficulté d'une beatmap dans l'éditeur. Choisissez ensuite **la même** difficulté dans le menu déroulant de la page de discussion de la beatmap, pour être sûr que les messages vont vers la bonne difficulté.
 
-**Avant de commencer** : Tous les points évoqués ci-dessous ne doivent pas nécessairement être couverts dans chaque mod. Si vous n'êtes pas sûr de quelque chose, comme les métadonnées ou le timing, laissez-le de côté. Cependant, il est bon de s'entraîner pour apprendre à couvrir tous les points ci-dessous, car il est nécessaire d'avoir de l'expérience dans tous pour devenir un Beatmap Nominator. Même si des erreurs sont commises, cela permet d'acquérir de l'expérience et d'apprendre.
+**Avant de commencer** : Tous les points évoqués ci-dessous ne doivent pas nécessairement être couverts dans chaque mod. Si vous n'êtes pas sûr de quelque chose, comme les métadonnées ou le timing, laissez-le de côté. Cependant, il est bon de s'entraîner pour apprendre à couvrir tous les points ci-dessous, car il est nécessaire d'avoir de l'expérience dans tous les domaines pour devenir un Beatmap Nominator. Même si des erreurs sont commises, cela permet d'acquérir de l'expérience et d'apprendre.
 
 ### AiMod
 
@@ -78,9 +78,9 @@ Rassembler toutes les questions importantes soulevées par AiMod dans un post **
 
 ### Timing
 
-Après avoir vérifié AiMod, **vérifier le  timing** d'une beatmap . Un timing correct est obligatoire pour qu'une beatmap soit classé, ainsi que pour des raisons de jouabilité générale.
+Après avoir vérifié AiMod, **vérifier le  timing** d'une beatmap . Un timing correct est obligatoire pour qu'une beatmap soit classée, ainsi que pour des raisons de jouabilité générale.
 
-Pour vérifier qu'une beatmap est correctement timer, il faut d'abord vérifier si le BPM est correct. La plupart du temps, ce n'est pas un problème, mais il est bon de le vérifier quand même. La meilleure façon de le faire est de vérifier si les battements de la chanson se posent sur une ligne de battement blanche de façon constante et ne dérivent pas en avance ou en retard. Augmenter le volume du hitsound et régler la vitesse de lecture de la beatmap plus lentement peut aider. Si les temps de la chanson dérivent tôt, diminuez le bpm, sinon, s'ils dérivent tard, augmentez le bpm jusqu'à ce qu'ils correspondent.
+Pour vérifier qu'une beatmap est correctement timée, il faut d'abord vérifier si le BPM est correct. La plupart du temps, ce n'est pas un problème, mais il est bon de le vérifier quand même. La meilleure façon de le faire est de vérifier si les battements de la chanson se posent sur une ligne de battement blanche de façon constante et ne divergent pas en avance ou en retard. Augmenter le volume du hitsound et régler la vitesse de lecture de la beatmap plus lentement peut aider. Si les temps de la chanson divergent en avance, diminuez le bpm, dans le cas contraire, augmentez le bpm jusqu'à ce qu'ils correspondent.
 
 Ensuite, vérifiez le décalage. La plupart des problèmes de timing surviennent lors du réglage de l'offset. Un décalage erroné de plus de 5 ms est impossible à classer, il est donc important de s'assurer qu'il est précis. Pour ce faire, assurez-vous que le temps principal de la chanson s'aligne exactement sur la ligne blanche principale. Augmentez le décalage si la musique est en avance, et diminuez-le si elle est en retard.
 
@@ -88,11 +88,11 @@ Le décalage est la position des points de synchronisation. Il devrait **toujour
 
 ### Métadonnées
 
-**La vérification des métadonnées de la beatmap** est importante pour le classement de la beatmap, mais à cause de sa maladresse, elle est souvent omise. Les métadonnées sont contenues dans l'onglet `General` de la fenêtre `Song Setup`, qui inclut le titre de la chanson, l'artiste, etc.
+**La vérification des métadonnées de la beatmap** est importante pour le classement de la beatmap, mais comme il s'agit d'une tache ardue, elle est souvent omise. Les métadonnées sont contenues dans l'onglet `General` de la fenêtre `Song Setup`, qui inclut le titre de la chanson, l'artiste, etc.
 
-Il est généralement ignoré en raison de l'effort requis pour trouver des sources **officielles** pour une preuve des métadonnées, l'un des principaux problèmes étant lorsque l'artiste et le titre sont écrits dans une langue différente, comme le japonais, le coréen ou le russe. Il n'est pas nécessaire de comprendre d'autres langues pour cela, il suffit que les métadonnées soient exactement les mêmes que dans la source officielle sur Internet.
+Elle est généralement ignorée en raison de l'effort requis pour trouver des sources **officielles** pour une preuve des métadonnées, l'un des principaux problèmes étant lorsque l'artiste et le titre sont écrits dans une langue différente, comme le japonais, le coréen ou le russe. Il n'est pas nécessaire de comprendre d'autres langues pour cela, il suffit que les métadonnées soient exactement les mêmes que dans la source officielle sur Internet.
 
-Bien que cette partie puisse être ignorée, la vérification des métadonnées et la publication d'un message à ce sujet peuvent être d'une grande aide pour le mappeur et les BN. Même si les métadonnées sont déjà correctes, il est également utile d'indiquer les bonnes sources de confirmation.
+Bien que cette partie puisse être ignorée, la vérification des métadonnées et la publication d'un message à ce sujet peuvent être d'une grande aide pour le mappeur et les BN. Même si les métadonnées sont déjà correctes, il est également utile d'indiquer les bonnes sources pour confirmation.
 
 Si vous n'êtes pas sûr d'une source légitime de métadonnées, le [serveur discord Metadata Heap](https://discord.gg/9Y4EdyM) est ouvert pour de telles questions.
 
