@@ -1,12 +1,12 @@
 # Noms des difficultés
 
-Le but de la dénomination de la difficulté est d'informer les joueurs de la difficulté d'une beatmap. Cet article énumère les conventions courantes ainsi que d'autres alternatives qui ont été recueillies au fil des ans. Cependant, tant que l'ensemble des noms de difficulté est descriptif et indique clairement la progression de la difficulté, vous pouvez utiliser tout type de schéma souhaité.
+Le but de la dénomination des difficultés est d'informer les joueurs de la difficulté d'une beatmap. Cet article énumère les conventions courantes ainsi que d'autres alternatives qui ont été recueillies au fil des ans. Cependant, tant que l'ensemble des noms de difficulté est descriptif et indique clairement la progression de la difficulté, vous pouvez utiliser tout type de schéma souhaité.
 
 ## Défaut
 
 Ces noms de difficulté sont les plus couramment utilisés pour chaque mode de jeu.
 
-*Remarque : Le nom de difficulté spéciale **Marathon** a historiquement permis aux mappeurs de soumettre des beatmaps de chansons plus longues, et est donc devenu populaire pour les beatmaps à difficulté unique. Aujourd'hui, ce nom n'a pas de signification particulière et n'est généralement utilisé que pour les chansons très longues ou les compilations de chansons.*
+*Remarque : Le nom de difficulté spécial **Marathon** a historiquement permis aux mappeurs de soumettre des beatmaps de musiques plus longues, et est donc devenu populaire pour les beatmaps à difficulté unique. Aujourd'hui, ce nom n'a pas de signification particulière et n'est généralement utilisé que pour les musiques très longues ou les compilations de musiques.*
 
 ### osu!
 
@@ -42,7 +42,7 @@ Ces noms de difficulté sont les plus couramment utilisés pour chaque mode de j
 
 ## Noms des difficultés d'autres jeux
 
-Les beatmaps de chansons provenant d'autres jeux de rythme empruntent souvent le système de dénomination des difficultés de ces jeux. L'utilisation de ces noms de difficulté est acceptable pour n'importe quelle chanson. Vous trouverez ici une liste des noms de difficulté les plus courants qui ont été utilisés dans osu! :
+Les beatmaps de musiques provenant d'autres jeux de rythme empruntent souvent le système de dénomination des difficultés de ces jeux. L'utilisation de ces noms de difficulté est acceptable pour n'importe quelle chanson. Vous trouverez ici une liste des noms de difficulté les plus courants qui ont été utilisés dans osu! :
 
 ### Beatmania IIDX
 
@@ -94,7 +94,7 @@ Les beatmaps de chansons provenant d'autres jeux de rythme empruntent souvent le
 
 ### SOUND VOLTEX
 
-*Remarque : les grands ensembles de maps de chansons de SOUND VOLTEX utilisent souvent des noms de difficultés provenant de plusieurs versions du jeu, même si la chanson n'apparaît pas dans toutes ces versions.*
+*Remarque : les grands beatmapsets de musiques de SOUND VOLTEX utilisent souvent des noms de difficulté provenant de plusieurs versions du jeu, même si la musique n'apparaît pas dans toutes ces versions.*
 
 - ![](/wiki/shared/diff/easy-o.png) BASIC / BSC
 - ![](/wiki/shared/diff/normal-o.png) NOVICE / NOV
@@ -182,12 +182,12 @@ Les beatmaps de chansons provenant d'autres jeux de rythme empruntent souvent le
 
 ## Des alternatives largement acceptées
 
-Les noms de difficultés suivants sont des alternatives et des ajouts courants aux noms de difficultés par défaut :
+Les noms de difficulté suivants sont des alternatives et des ajouts courants aux noms de difficulté par défaut :
 
 - ![](/wiki/shared/diff/easy-o.png) Beginner : dans un spread par défaut Easy-Normal-Hard-Insane-Expert, il s'agit du niveau de difficulté le plus bas, même en dessous de Easy.
 - ![](/wiki/shared/diff/easy-t.png) Shokyuu : dans un spread par défaut Kantan-Futsuu-Muzukashii-Oni-Inner Oni, il s'agit du niveau de difficulté le plus bas, inférieur à Kantan.
 - ![](/wiki/shared/diff/normal-o.png) Advanced : dans un spread par défaut Easy-Normal-Hard-Insane-Expert, c'est une difficulté entre Normal et Hard.
 - ![](/wiki/shared/diff/hard-o.png) Hyper : dans un spread par défaut Easy-Normal-Hard-Insane-Expert, une difficulté entre Hard et Insane.
 - ![](/wiki/shared/diff/expert-o.png) Extra : il peut être utilisé comme substitut d'Expert.
-- ![](/wiki/shared/diff/expertplus-o.png) Extreme : il peut être utilisé pour représenter un Expert plus difficile.
-- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni : il peut être utilisé pour représenter un Inner Oni plus difficile.
+- ![](/wiki/shared/diff/expertplus-o.png) Extreme : il peut être utilisé pour représenter une difficulté Expert plus difficile.
+- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni : il peut être utilisé pour représenter une difficulté Inner Oni plus difficile.
