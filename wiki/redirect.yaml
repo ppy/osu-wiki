@@ -236,6 +236,7 @@
 "game_modifier/9k":            "Game_modifier/xk"
 "xk":                          "Game_modifier/xk"
 
+"judgement":                   "Gameplay/Judgement"
 "acc":                         "Gameplay/Accuracy"
 "accuracy":                    "Gameplay/Accuracy"
 "approach_circle":             "Hit_object/Approach_circle"
@@ -299,7 +300,8 @@
 "fc":                          "Full_combo"
 "elite_beat!":                 "Geki"
 "激":                          "Geki"
-"grades":                      "Grade"
+"grade":                       "Gameplay/Grade"
+"grades":                      "Gameplay/Grade"
 "grid_snap":                   "Grid_snapping"
 "guest_difficulty":            "Beatmap/Guest_difficulty"
 "gd":                          "Beatmap/Guest_difficulty"
