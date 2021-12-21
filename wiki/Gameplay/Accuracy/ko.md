@@ -8,7 +8,7 @@
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_osu.png "Accuracy formula for osu!")
 
-osu!에서 정확도는 각 서클의 [점수](/wiki/Gameplay/Judgement)에 따라 가중치를 부여해 더한 뒤, 가능한 최대 서클 개수로 나누어서 계산합니다.
+osu!에서 정확도는 각 서클의 [판정](/wiki/Gameplay/Judgement)에 따라 가중치를 부여해 더한 뒤, 각 맵의 최대 서클 개수로 나누어서 계산합니다.
 
 서클 1개 당 정확도 판정:
 
