@@ -49,7 +49,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1482564)
 - [Livestream](https://www.twitch.tv/osulive)
-- [pick'ems](https://pickem.hwc.hr/tournaments/76) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/76) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - **[Sign-up here](https://osu.ppy.sh/community/tournaments/31)**
 
 ## Ruleset
