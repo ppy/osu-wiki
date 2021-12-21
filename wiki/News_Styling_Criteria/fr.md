@@ -34,7 +34,7 @@ Réfléchissez bien à ce que vous écrivez dans votre article et si cela intér
 
 ### Présentation
 
-Les articles de news doivent s'efforcer d'être aussi neutres que possible en termes de présentation.
+Les articles de news doivent s'efforcer d'être aussi agréablement neutres que possible en termes de présentation.
 
 L'expression "agréablement neutre", aussi vague soit-elle, désigne un article à la fois léger et robuste, qui dit ce qu'il doit dire sans blocs de texte géants. Il doit être cohérent en termes de formatage, de style et de registre. Les grandes quantités d'informations doivent être étayées ou supplantées par des supports visuels.
 
@@ -66,7 +66,7 @@ date: 2017-08-17 03:00:00 +0000
 
 ``title`` doit représenter le titre et le nom complet de l'article, avec tout formatage approprié. Le formatage Markdown n'est pas autorisé dans cette chaîne.
 
-``date`` doit représenter une chaîne combinée affichant une date de calendrier au format ISO 8601 (2017-08-17), suivie d'une chaîne de temps de 24 heures (03:00:00), suivie d'un décalage horaire par rapport à UTC (+0000). Cette date est utilisée pour déterminer l'affichage "il y a xx minutes/heures/jours" sur le site web lorsqu'il est fait référence aux dates de publication des articles de news visibles.
+``date`` doit représenter une chaîne combinée affichant une date de calendrier au format ISO 8601 (2017-08-17), suivie d'une chaîne de temps de 24 heures (03:00:00), suivie d'un décalage horaire par rapport à UTC (+0000). Cette date est utilisée pour déterminer l'affichage "il y a xx minutes/heures/jours" sur le site web lorsqu'il fait référence aux dates de publication des articles de news visibles.
 
 ### Markdown
 
@@ -132,8 +132,8 @@ Le texte alternatif ne doit pas être utilisé dans les bannières.
 
 ### HTML et contenu intégré
 
-L'utilisation limitée de HTML dans le but d'intégrer du contenu hors site tel que des vidéos YouTube, des VODs Twitch ou d'autres applets conçus pour mettre en valeur le contenu du site d'osu! ou du site d'osu! est autorisée.
+L'utilisation limitée de HTML dans le but d'intégrer du contenu hors site tel que des vidéos YouTube, des VODs Twitch ou d'autres applets conçus pour mettre en valeur le contenu d'osu! ou du site d'osu! est autorisée.
 
 L'utilisation de la balise ``<center>`` (ou tout autre style équivalent tel que ``<p align='center'>``) n'est pas autorisée car le style du système de news centre automatiquement les éléments non textuels.
 
-La largeur de tous les cadres de contenu intégré doit être fixée à ``width: 100%``. Pour être inclus dans les articles en général, le contenu intégré doit pouvoir s'afficher en pleine largeur sans se briser ou avoir l'air affreux.
+La largeur de tous les cadres de contenu intégré doit être fixée à ``width: 100%``. Pour être inclus dans les articles en général, le contenu intégré doit pouvoir s'afficher en pleine largeur sans problème ou sans être horrible.
