@@ -1,7 +1,3 @@
----
-outdated: true
----
-
 # osu! community meetings
 
 Les **osu! community meetings** sont un groupe de discussion bimensuel organisé par l'[équipe d'osu!](/wiki/People/The_Team). L'objectif principal de ces meetings est de donner à chacun une chance de parler directement avec les développeurs et les personnes responsables de la gestion de la communauté pour soulever des questions à discuter ou à approfondir.
@@ -10,7 +6,9 @@ Il y a longtemps, dans le [passé lointain du jeu](https://twitter.com/ppy/statu
 
 Actuellement, les osu! community meetings sont présidés par [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335) et [smoogipoo](https://osu.ppy.sh/users/1040328).
 
-Le prochain osu! community meeting est prévu pour le : **11 décembre 2021 (Samedi 21:00 UTC)**. Les meetings ont généralement lieu toutes les deux semaines, les rappels étant annoncés sur le [compte Twitter de peppy](https://twitter.com/ppy) environ un jour avant.
+Les meetings ont généralement lieu toutes les deux semaines, les rappels étant annoncés sur le [compte Twitter de peppy](https://twitter.com/ppy) environ un jour avant.
+
+La date du prochain osu! community meeting sera annoncée ultérieurement.
 
 ## S'impliquer
 
@@ -28,14 +26,16 @@ Nous avons l'intention de ne pas prendre plus de 5 minutes par question, compren
 
 Le premier osu! community meeting a eu lieu le 19 septembre 2021. Tous les meetings ont été et continueront d'être enregistrées sur YouTube, accompagnées d'un document de synthèse.
 
-| Meeting n° | Lien | Résumé |
-| :-: | :-- | :-- |
-| 0 | [19 septembre 2021](https://youtu.be/-LjNll8VYTM) | [Document de synthèse](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) |
-| 1 | [3 octobre 2021](https://youtu.be/D3OZCm6szVE) | [Document de synthèse](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) |
-| 2 | [17 octobre 2021](https://youtu.be/nLT-fLeogrw) | [Document de synthèse](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) |
-| 3 | [31 octobre 2021](https://youtu.be/omvZbC7zJUI) | [Document de synthèse](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) |
-| 4 | [14 novembre 2021](https://youtu.be/rEWgTY-L95Y) | [Document de synthèse](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) |
-| 5 | [28 novembre 2021](https://youtu.be/SqMrY26Q6Tw) | [Document de synthèse](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) |
+| Meeting n° | Lien | Résumé | Agenda |
+| :-: | :-- | :-- | :-- |
+| 0 | [19 septembre 2021](https://youtu.be/-LjNll8VYTM) | [Document de synthèse](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Introduction à ces meetings, critères de classement, points de difficulté et de performance, osu!lazer en général |
+| 1 | [3 octobre 2021](https://youtu.be/D3OZCm6szVE) | [Document de synthèse](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | Questions diverses de la communauté, mise à jour concernant le développement |
+| 2 | [17 octobre 2021](https://youtu.be/nLT-fLeogrw) | [Document de synthèse](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | Questions diverses de la communauté |
+| 3 | [31 octobre 2021](https://youtu.be/omvZbC7zJUI) | [Document de synthèse](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | Questions diverses de la communauté |
+| 4 | [14 novembre 2021](https://youtu.be/rEWgTY-L95Y) | [Document de synthèse](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) | Processus de développement des points de performance, diverses questions de la communauté, mise à jour concernant le développement |
+| 5 | [28 novembre 2021](https://youtu.be/SqMrY26Q6Tw) | [Document de synthèse](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) |  Questions diverses de la communauté, mise à jour concernant le développement |
+| 6 | [11 décembre 2021](https://youtu.be/dtGjIyTFtMA) | [Document de synthèse](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) | L'avenir des osu! World Cups, questions diverses sur la communauté |
+| 7 | [18 décembre 2021](https://www.twitch.tv/videos/1236856715) | [Document de synthèse](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) | peppy répond à diverses controverses et drames dans la communauté |
 
 ## Liens connexes
 
