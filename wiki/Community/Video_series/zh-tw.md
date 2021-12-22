@@ -1,5 +1,5 @@
 ---
-no_native_review
+no_native_review: true
 ---
 
 # 社群影片系列
