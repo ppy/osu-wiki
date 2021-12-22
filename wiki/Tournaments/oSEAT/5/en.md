@@ -105,6 +105,33 @@ Listed below are players who qualified into the Preliminary groups (along with t
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (204 MB)](https://drive.google.com/u/0/uc?id=1Qo_PPRZQtm2dIOoYRPDpOzLP8g8kfAIR&export=download)**
+
+- NoMod
+  1. [TRUE - Soundscape (Azunyan-) \[Fortissimo\]](https://osu.ppy.sh/beatmapsets/1173554#osu/2447685)
+  2. [Jun Kuroda - Coquette (Suicune3) \[Oni\]](https://osu.ppy.sh/beatmapsets/1551222#osu/3169923)
+  3. [FELT - Goodbye (Hysteria) \[Farewell (phox's Introless Edit)\]](https://osu.ppy.sh/beatmapsets/1655798#osu/3379847)
+  4. [IAHN - Transform (Original Mix) (Daycore) \[Eula's Extreme\]](https://osu.ppy.sh/beatmapsets/1381820#osu/3162796)
+  5. [Morimori Atsushi - Time Machine (Elcheer) \[03:45:104 1.05x (230bpm)\]](https://osu.ppy.sh/beatmapsets/1286317#osu/2670818)
+- Hidden
+  1. [Epica - Fight Your Demons (KogumaX) \[Expert\]](https://osu.ppy.sh/beatmapsets/1615425#osu/3298109)
+  2. [Tsukuyomi - Moonlight at midday (Seros) \[Extra\]](https://osu.ppy.sh/beatmapsets/1537310#osu/3143258)
+  3. [Blakfish - Jeremy Kyle Is A Marked Man (Serafeim) \[End on happiness\]](https://osu.ppy.sh/beatmapsets/1620017#osu/3307624)
+- HardRock
+  1. [ONE OK ROCK - One by One (Noob55) \[Kirishima-'s Extreme\]](https://osu.ppy.sh/beatmapsets/1183373#osu/2568117)
+  2. [Kanban Musume-tai - Suki de Sugoi ni Naritai na (Kyuuchie) \[Nagachienyuni's Caffeine Overdose\]](https://osu.ppy.sh/beatmapsets/1566547#osu/3198645)
+  3. [Tokoyami Towa - Palette (Restart Button) \[Expert\]](https://osu.ppy.sh/beatmapsets/1425822#osu/2935945)
+- DoubleTime
+  1. [Yonekura Chihiro - Be braver! (Shikibe Mayu) \[Shizurre's Insane\]](https://osu.ppy.sh/beatmapsets/1433072#osu/2950591)
+  2. [Kola Kid - timer (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/1089084#osu/2277128)
+  3. [ZUTOMAYO - STUDY ME (GIDZ) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1353446#osu/2911090)
+- FreeMod
+  1. [Rohi - LvC3 (VINXIS) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/1231655#osu/2560356)
+  2. [La priere - Senjou no Utahime (Hinsvar) \[Valkyrie\]](https://osu.ppy.sh/beatmapsets/1398580#osu/2885693)
+  3. [M2U - A Bella! (feat. Lucy) (rollpan) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/1517567#osu/3106686)
+
 ### Round of 32
 
 **[Download the mappack here! (135 MB)](https://drive.google.com/u/0/uc?id=1iARuFmoze2zdClpV9a52DDPikMYL4Fqg&export=download)**
@@ -228,6 +255,55 @@ Listed below are players who qualified into the Preliminary groups (along with t
   2. [Sakuzyo - FAFNIR (Sulfur) \[KKip's Insane\]](https://osu.ppy.sh/beatmapsets/777255#osu/1637690)
 
 ## Match results
+
+### Round of 32
+
+Thursday, 16 December 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[walle](https://osu.ppy.sh/users/8431549)** ![][flag_VN] | **6** | 0 | ![][flag_MY] [LITFAM123](https://osu.ppy.sh/users/13584478) | *win by default* |
+
+Friday, 17 December 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [ChaeY\_Milk](https://osu.ppy.sh/users/10383440) ![][flag_PH] | 0 | **6** | ![][flag_SG] **[wick](https://osu.ppy.sh/users/8004317)** | [#1](https://osu.ppy.sh/community/matches/95371164) |
+| Lower | **[Mumei Nanashi](https://osu.ppy.sh/users/5414124)** ![][flag_MY] | **6** | 4 | ![][flag_SG] [Moroha29](https://osu.ppy.sh/users/9182389) | [#1](https://osu.ppy.sh/community/matches/95378150) |
+| Lower | [Yorocchi](https://osu.ppy.sh/users/5286218) ![][flag_TH] | 3 | **6** | ![][flag_PH] **[Senjuro](https://osu.ppy.sh/users/3003839)** | [#1](https://osu.ppy.sh/community/matches/95373669) |
+| Lower | **[not\_aweeb](https://osu.ppy.sh/users/9375317)** ![][flag_MY] | **6** | 5 | ![][flag_PH] [2 and eight](https://osu.ppy.sh/users/8923608) | [#1](https://osu.ppy.sh/community/matches/95379998) |
+| Lower | [Inugami Korone](https://osu.ppy.sh/users/95387391) ![][flag_MY] | 4 | **6** | ![][flag_SG] **[RePeaTT](https://osu.ppy.sh/users/11132323)** | [#1](https://osu.ppy.sh/community/matches/95387391) |
+| Lower | **[\_Kolin](https://osu.ppy.sh/users/7249644)** ![][flag_US] (![][flag_PH]) | **6** | 4 | ![][flag_PH] [\[-Kurumi-\]](https://osu.ppy.sh/users/5414484) | [#1](https://osu.ppy.sh/community/matches/95372514) |
+| Upper | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ![][flag_ID] | 5 | **6** | ![][flag_SG] **[Dawnwing](https://osu.ppy.sh/users/5144534)** | [#1](https://osu.ppy.sh/community/matches/95372496) |
+| Lower | [Bunan-](https://osu.ppy.sh/users/2763354) ![][flag_ID] | 3 | **6** | ![][flag_PH] **[RuiTachi-](https://osu.ppy.sh/users/11807272)** | [#1](https://osu.ppy.sh/community/matches/95372515) |
+| Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | *win by default* |
+
+Saturday, 18 December 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[DeathAdderz](https://osu.ppy.sh/users/7457788)** ![][flag_ID] | **6** | 3 | ![][flag_SG] [marcellasne\_](https://osu.ppy.sh/users/6622650) | [#1](https://osu.ppy.sh/community/matches/95428414) |
+| Upper | [Vinno](https://osu.ppy.sh/users/10717635) ![][flag_ID] | 0 | **6** | ![][flag_TH] **[Salvotore](https://osu.ppy.sh/users/3394696)** | [#1](https://osu.ppy.sh/community/matches/95417908) |
+| Upper | **[Tebi](https://osu.ppy.sh/users/5407620)** ![][flag_SG] | **6** | 0 | ![][flag_TH] [Faken](https://osu.ppy.sh/users/10249166) | [#1](https://osu.ppy.sh/community/matches/95417931) |
+| Upper | **[deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **6** | 1 | ![][flag_PH] [konawiki](https://osu.ppy.sh/users/4003979) | [#1](https://osu.ppy.sh/community/matches/95424624) |
+| Lower | **[chantat on osu](https://osu.ppy.sh/users/12290117)** ![][flag_TH] | **6** | 1 | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) | [#1](https://osu.ppy.sh/community/matches/95425641) |
+| Lower | **[Rtzero](https://osu.ppy.sh/users/9262462)** ![][flag_SG] | **6** | 2 | ![][flag_SG] [Grantorio](https://osu.ppy.sh/users/5623529) | [#1](https://osu.ppy.sh/community/matches/95426137) |
+| Upper | [SkyArrow](https://osu.ppy.sh/users/10717635) ![][flag_VN] | 2 | **6** | ![][flag_SG] **[Picon](https://osu.ppy.sh/users/3394696)** | [#1](https://osu.ppy.sh/community/matches/95428247) |
+| Lower | [Cudi](https://osu.ppy.sh/users/9974314) ![][flag_ID] | 0 | **6** | ![][flag_PH] **[xidorn](https://osu.ppy.sh/users/7904667)** | [#1](https://osu.ppy.sh/community/matches/95430265) |
+| Upper | **[Tzero](https://osu.ppy.sh/users/6088976)** ![][flag_MY] | **6** | 5 | ![][flag_VN] [\[sin\]](https://osu.ppy.sh/users/11021073) | [#1](https://osu.ppy.sh/community/matches/95430248) |
+| Upper | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [-TwiHD](https://osu.ppy.sh/users/5470299) | [#1](https://osu.ppy.sh/community/matches/95420671) |
+
+Sunday, 19 December 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [megumic](https://osu.ppy.sh/users/7537133) ![][flag_SG] | 4 | **6** | ![][flag_VN] **[realshin](https://osu.ppy.sh/users/8006029)** | [#1](https://osu.ppy.sh/community/matches/95434900) |
+| Upper | **[GSBlank](https://osu.ppy.sh/users/2312106)** ![][flag_SG] | **6** | 4 | ![][flag_SG] [dlwlrma-](https://osu.ppy.sh/users/7908994) | [#1](https://osu.ppy.sh/community/matches/95468815) |
+| Upper | **[Eagle5324](https://osu.ppy.sh/users/11987104)** ![][flag_SG] | **6** | 4 | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | [#1](https://osu.ppy.sh/community/matches/95439297) |
+| Lower | **[\[AmPhyze\]](https://osu.ppy.sh/users/9552188)** ![][flag_TH] | **6** | 2 | ![][flag_MY] [Chizu-Kun](https://osu.ppy.sh/users/10288461) | [#1](https://osu.ppy.sh/community/matches/95464236) |
+| Lower | **[DaNoobSlayaar](https://osu.ppy.sh/users/8688777)** ![][flag_MY] | **6** | 0 | ![][flag_PH] [ToshiroKen](https://osu.ppy.sh/users/9550257) | [#1](https://osu.ppy.sh/community/matches/95465497) |
+| Upper | **[Rtyzen](https://osu.ppy.sh/users/2439822)** ![][flag_SG] | **6** | 4 | ![][flag_PH] [BronyPH](https://osu.ppy.sh/users/1492995) | [#1](https://osu.ppy.sh/community/matches/95465450) |
+| Upper | **[NathanRammu2044](https://osu.ppy.sh/users/8472976)** ![][flag_PH] | **6** | 0 | ![][flag_PH] [-Kedama](https://osu.ppy.sh/users/12147277) | [#1](https://osu.ppy.sh/community/matches/95466955) |
 
 ### Round of 64
 
