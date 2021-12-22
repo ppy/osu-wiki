@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 社群
 
 此頁面列出了來自世界各地的 osu! 玩家互相聯繫的方式。如果您在尋找貢獻機會，卻不知從何下手，請務必閱讀[如何協助](/wiki/Community/How_you_can_help!)。
