@@ -62,9 +62,9 @@ Pour comprendre le charme caché des cercles, ne vous fiez pas uniquement à vot
 
 ![Sliders](/wiki/shared/osu_slider.jpg "Sliders d'osu!")
 
-Il faut d'abord taper dessus au bon moment, mais cela ne s'arrête pas là. Une balle va commencer à se déplacer sur le chemin. Maintenez le bouton de la souris/du clavier (ou maintenez le stylo sur la tablette) et suivez la balle à l'intérieur du cercle orange épais qui l'entoure, au fur et à mesure de son déplacement. Le cercle extérieur orange, appelé follow circle, apparaîtra si vous tenez la slider ball, mais disparaîtra lorsque vous la relâcherez.
+Il faut d'abord taper dessus au bon moment, mais cela ne s'arrête pas là. Une balle va commencer à se déplacer sur la trajectoire. Maintenez le bouton de la souris/du clavier (ou maintenez le stylo sur la tablette) et suivez la balle à l'intérieur du cercle orange épais qui l'entoure, au fur et à mesure de son déplacement. Le cercle extérieur orange, appelé follow circle, apparaîtra si vous tenez la slider ball, mais disparaîtra lorsque vous la relâcherez.
 
-Parfois, comme dans la capture d'écran ci-dessus, la balle peut inverser sa direction et le joueur doit la suivre jusqu'au début du chemin ou vice versa. Le repère visuel est une flèche située sur le cercle de départ ou d'arrivée de la trajectoire.
+Parfois, comme dans la capture d'écran ci-dessus, la balle peut inverser sa direction et le joueur doit la suivre jusqu'au début de la trajectoire ou vice versa. Le repère visuel est une flèche située sur le cercle de départ ou d'arrivée de la trajectoire.
 
 #### Spinners
 
