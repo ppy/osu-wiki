@@ -29,7 +29,7 @@ Keesokan harinya, peppy menarik kembali seluruh osu!coin yang beredar, membuka s
 
 ## Respon komunitas
 
-Meskipun implementasi untuk osu!coins memerlukan beberapa tambahan elemen grafik, osu!coin tidak memengaruhi pengalaman selagi pada bermain, pemain tetap bisa bermain meskipun batas osu!coin sudah habis. Sebaliknya, tidak ada cara yang tersedia untuk membeli osu!coin (meskipun ada terdaftar pada menu opsi).
+Meskipun osu!coin dibuat agar seolah-olah terkesan resmi, osu!coin sama sekali tidak memengaruhi permainan yang ada. Para pemain tetap dapat bermain secara normal meskipun mereka sudah tidak lagi memiliki osu!coin. Di samping itu, osu!coin tidak dapat diperjualbelikan dan menu pembelian osu!coin yang ada juga hanya sekadar hiasan belaka.
 
 ![](img/purchase-osu!coin-menu.jpg "Menu pembelian osu!coin")
 
@@ -39,7 +39,5 @@ Pembaruan ini diterima dengan baik oleh pemain osu! sebagai perubahan suasana da
 
 - osu!academy memperkenalkan osu!coins: [Introduction to osu!coins (April Fools' 2015)](https://www.youtube.com/watch?v=BImc5McuK1o)
 - peppy mengumumkan osu!coins: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
-
-<!-- TODO: Add links and images -->
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
