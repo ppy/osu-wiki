@@ -88,219 +88,219 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (126.7 MB)](https://mega.nz/#!mgRE2AzS!UVX3eCXp-dvS-V5ns2QT4HBVHKsfBvAbqGVk6T1HgrI)**
 
 - NoMod
-  - [Drop - Dragon and Sakura Miko (Yusomi) [Itomori AR9.5]](https://osu.ppy.sh/beatmapsets/508656#osu/1081885)
-  - [lapix - SYNERGY (Akali) [REEEEEEEEEEEEEEEEEEEEEE]](https://osu.ppy.sh/beatmapsets/637233#osu/1351972)
-  - [xi - Ascension to Heaven (Night Mare) [Forecoming End]](https://osu.ppy.sh/beatmapsets/962661#osu/2015643)
-  - [YURRY CANON - Nadeshiko color Heart (kwk) [Sakase]](https://osu.ppy.sh/beatmapsets/682996#osu/1451733)
-  - [Pastel\*Palettes - Happy Synthesizer (ktgster) [Special]](https://osu.ppy.sh/beatmapsets/932654#osu/1947213)
-  - [Neuromonakh Feofan - Remeslo (Ksardas) [Rampage]](https://osu.ppy.sh/beatmapsets/905674#osu/1890216)
+  1. [Drop - Dragon and Sakura Miko (Yusomi) [Itomori AR9.5]](https://osu.ppy.sh/beatmapsets/508656#osu/1081885)
+  2. [lapix - SYNERGY (Akali) [REEEEEEEEEEEEEEEEEEEEEE]](https://osu.ppy.sh/beatmapsets/637233#osu/1351972)
+  3. [xi - Ascension to Heaven (Night Mare) [Forecoming End]](https://osu.ppy.sh/beatmapsets/962661#osu/2015643)
+  4. [YURRY CANON - Nadeshiko color Heart (kwk) [Sakase]](https://osu.ppy.sh/beatmapsets/682996#osu/1451733)
+  5. [Pastel\*Palettes - Happy Synthesizer (ktgster) [Special]](https://osu.ppy.sh/beatmapsets/932654#osu/1947213)
+  6. [Neuromonakh Feofan - Remeslo (Ksardas) [Rampage]](https://osu.ppy.sh/beatmapsets/905674#osu/1890216)
 - Hidden
-  - [kano - Houkago Stride (Clementine) [RLC]](https://osu.ppy.sh/beatmapsets/79878#osu/228679)
-  - [Niko - Made of Fire (lesjuh) [Oni]](https://osu.ppy.sh/beatmapsets/10112#osu/40017)
-  - [Yooh - Destroy -agitato- (Realazy) [AXE]](https://osu.ppy.sh/beatmapsets/839273#osu/1794985)
+  1. [kano - Houkago Stride (Clementine) [RLC]](https://osu.ppy.sh/beatmapsets/79878#osu/228679)
+  2. [Niko - Made of Fire (lesjuh) [Oni]](https://osu.ppy.sh/beatmapsets/10112#osu/40017)
+  3. [Yooh - Destroy -agitato- (Realazy) [AXE]](https://osu.ppy.sh/beatmapsets/839273#osu/1794985)
 - HardRock
-  - [SteelEmissary - Heat Haze Days [ver. Sansloid] (Marianna) [eh?!]](https://osu.ppy.sh/beatmapsets/978941#osu/2048601)
-  - [Mili - Ga1ahad and Scientific Witchery (Icekalt) [617]](https://osu.ppy.sh/beatmapsets/932901#osu/1947706)
-  - [LeaF - Evanescent (Anxient) [ktgster's Extreme]](https://osu.ppy.sh/beatmapsets/440997#osu/953133)
+  1. [SteelEmissary - Heat Haze Days [ver. Sansloid] (Marianna) [eh?!]](https://osu.ppy.sh/beatmapsets/978941#osu/2048601)
+  2. [Mili - Ga1ahad and Scientific Witchery (Icekalt) [617]](https://osu.ppy.sh/beatmapsets/932901#osu/1947706)
+  3. [LeaF - Evanescent (Anxient) [ktgster's Extreme]](https://osu.ppy.sh/beatmapsets/440997#osu/953133)
 - DoubleTime
-  - [senya - Shounen yo, Tokkou no Sakigake to Nare (-Mo-) [yf's Insane]](https://osu.ppy.sh/beatmapsets/562169#osu/1188554)
-  - [onoken feat.b - anqad(Long ver) (Seikatu) [Special]](https://osu.ppy.sh/beatmapsets/966420#osu/2022874)
-  - [Xi - Black Apple (Kite) [Extra Stage]](https://osu.ppy.sh/beatmapsets/21123#osu/73473)
-  - [An - artcore JINJA (Flower) [Lunatic]](https://osu.ppy.sh/beatmapsets/114987#osu/297411)
+  1. [senya - Shounen yo, Tokkou no Sakigake to Nare (-Mo-) [yf's Insane]](https://osu.ppy.sh/beatmapsets/562169#osu/1188554)
+  2. [onoken feat.b - anqad(Long ver) (Seikatu) [Special]](https://osu.ppy.sh/beatmapsets/966420#osu/2022874)
+  3. [Xi - Black Apple (Kite) [Extra Stage]](https://osu.ppy.sh/beatmapsets/21123#osu/73473)
+  4. [An - artcore JINJA (Flower) [Lunatic]](https://osu.ppy.sh/beatmapsets/114987#osu/297411)
 - FreeMod
-  - [OSTER project - Capriccio of My Mind (7odoa) [Extra]](https://osu.ppy.sh/beatmapsets/107475#osu/281632)
-  - [FOLiACETATE - Heterochromia Iridis (ktgster) [Terror]](https://osu.ppy.sh/beatmapsets/106443#osu/279481)
-  - [Savage Garden - I Want You (mtmcl) [Ridiculous]](https://osu.ppy.sh/beatmapsets/4548#osu/24428)
+  1. [OSTER project - Capriccio of My Mind (7odoa) [Extra]](https://osu.ppy.sh/beatmapsets/107475#osu/281632)
+  2. [FOLiACETATE - Heterochromia Iridis (ktgster) [Terror]](https://osu.ppy.sh/beatmapsets/106443#osu/279481)
+  3. [Savage Garden - I Want You (mtmcl) [Ridiculous]](https://osu.ppy.sh/beatmapsets/4548#osu/24428)
 - Tiebreaker
-  - **[Camellia - KillerBeast (Mir) [Death Rave]](https://osu.ppy.sh/beatmapsets/1019290#osu/2132924)**
+  1. **[Camellia - KillerBeast (Mir) [Death Rave]](https://osu.ppy.sh/beatmapsets/1019290#osu/2132924)**
 
 ### Finals
 
 **[Download the mappack here! (121.1 MB)](https://mega.nz/#!j15EzA4I!kmj97bAOL39LH8Y4NgLp8jO9ozJbw02QT-73XeUvWJA)**
 
 - NoMod
-  - [ZAQ - Last Proof (eLy) [Don't Give Up]](https://osu.ppy.sh/beatmapsets/596889#osu/1262025)
-  - [kanone - CO5M1C R4ILR0AD (fanzhen0019) [ON3 M0RE 3X7R4]](https://osu.ppy.sh/beatmapsets/715363#osu/1511771)
-  - [cosMo@BousouP - Oceanus (Kalindraz) [Blessing of Seas]](https://osu.ppy.sh/beatmapsets/898401#osu/1876720)
-  - [TRUE - Hiryuu no Kishi (Atalanta) [Beyond the Sky]](https://osu.ppy.sh/beatmapsets/734191#osu/1549194)
-  - [winddrums - Goddess Bless you (JinRong) [Oceanid]](https://osu.ppy.sh/beatmapsets/707158#osu/1495310)
-  - [S-C-U feat. Qrispy Joybox - anemone (Irreversible) [Spring]](https://osu.ppy.sh/beatmapsets/295753#osu/664328)
+  1. [ZAQ - Last Proof (eLy) [Don't Give Up]](https://osu.ppy.sh/beatmapsets/596889#osu/1262025)
+  2. [kanone - CO5M1C R4ILR0AD (fanzhen0019) [ON3 M0RE 3X7R4]](https://osu.ppy.sh/beatmapsets/715363#osu/1511771)
+  3. [cosMo@BousouP - Oceanus (Kalindraz) [Blessing of Seas]](https://osu.ppy.sh/beatmapsets/898401#osu/1876720)
+  4. [TRUE - Hiryuu no Kishi (Atalanta) [Beyond the Sky]](https://osu.ppy.sh/beatmapsets/734191#osu/1549194)
+  5. [winddrums - Goddess Bless you (JinRong) [Oceanid]](https://osu.ppy.sh/beatmapsets/707158#osu/1495310)
+  6. [S-C-U feat. Qrispy Joybox - anemone (Irreversible) [Spring]](https://osu.ppy.sh/beatmapsets/295753#osu/664328)
 - Hidden
-  - [Yooh - Seraphim (Long Ver.) (Realazy) [ANGELIC]](https://osu.ppy.sh/beatmapsets/660269#osu/1398123)
-  - [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (deadcode) [Extra]](https://osu.ppy.sh/beatmapsets/935707#osu/1967350)
-  - [LeaF - Monkey Business -Satire mix- (-PC) [Krazy]](https://osu.ppy.sh/beatmapsets/999031#osu/2089429)
+  1. [Yooh - Seraphim (Long Ver.) (Realazy) [ANGELIC]](https://osu.ppy.sh/beatmapsets/660269#osu/1398123)
+  2. [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (deadcode) [Extra]](https://osu.ppy.sh/beatmapsets/935707#osu/1967350)
+  3. [LeaF - Monkey Business -Satire mix- (-PC) [Krazy]](https://osu.ppy.sh/beatmapsets/999031#osu/2089429)
 - HardRock
-  - [Memme - Platina (Gamu) [Extra]](https://osu.ppy.sh/beatmapsets/1060173#osu/2219835)
-  - [Ryu\* - Sakura Mirage (STARLiGHT Mix) (Jean-Michel Jr) [Illusion]](https://osu.ppy.sh/beatmapsets/765795#osu/1918015)
-  - [Brandy - Cross Time !! (Leader) [captin's Extra]](https://osu.ppy.sh/beatmapsets/973162#osu/2067296)
+  1. [Memme - Platina (Gamu) [Extra]](https://osu.ppy.sh/beatmapsets/1060173#osu/2219835)
+  2. [Ryu\* - Sakura Mirage (STARLiGHT Mix) (Jean-Michel Jr) [Illusion]](https://osu.ppy.sh/beatmapsets/765795#osu/1918015)
+  3. [Brandy - Cross Time !! (Leader) [captin's Extra]](https://osu.ppy.sh/beatmapsets/973162#osu/2067296)
 - DoubleTime
-  - [Chata - Reviver (DakeDekaane) [Insane]](https://osu.ppy.sh/beatmapsets/177490#osu/427241)
-  - [MiddleIsland - Achromat (Tidek) [Insane]](https://osu.ppy.sh/beatmapsets/132728#osu/333675)
-  - [FELT - Closed Wings (Sylith) [Lunatic]](https://osu.ppy.sh/beatmapsets/161109#osu/428270)
-  - [Kishida Kyoudan & The Akeboshi Rockets - Rewriter (Suzully) [Rewriter]](https://osu.ppy.sh/beatmapsets/34376#osu/113587)
+  1. [Chata - Reviver (DakeDekaane) [Insane]](https://osu.ppy.sh/beatmapsets/177490#osu/427241)
+  2. [MiddleIsland - Achromat (Tidek) [Insane]](https://osu.ppy.sh/beatmapsets/132728#osu/333675)
+  3. [FELT - Closed Wings (Sylith) [Lunatic]](https://osu.ppy.sh/beatmapsets/161109#osu/428270)
+  4. [Kishida Kyoudan & The Akeboshi Rockets - Rewriter (Suzully) [Rewriter]](https://osu.ppy.sh/beatmapsets/34376#osu/113587)
 - FreeMod
-  - [Yousei Teikoku - Hades: The rise (Saten) [Collab]](https://osu.ppy.sh/beatmapsets/35719#osu/115603)
-  - [Tyrfing - Verflucht (Muya) [Another]](https://osu.ppy.sh/beatmapsets/965125#osu/2045906)
-  - [DragonForce - Ashes of the Dawn (pw384) [Extra]](https://osu.ppy.sh/beatmapsets/786141#osu/1650328)
+  1. [Yousei Teikoku - Hades: The rise (Saten) [Collab]](https://osu.ppy.sh/beatmapsets/35719#osu/115603)
+  2. [Tyrfing - Verflucht (Muya) [Another]](https://osu.ppy.sh/beatmapsets/965125#osu/2045906)
+  3. [DragonForce - Ashes of the Dawn (pw384) [Extra]](https://osu.ppy.sh/beatmapsets/786141#osu/1650328)
 - Tiebreaker
-  - **[gmtn. (witch's slave) - furioso melodia (Alumetorz) [Wrath]](https://osu.ppy.sh/beatmapsets/280107#osu/633993)**
+  1. **[gmtn. (witch's slave) - furioso melodia (Alumetorz) [Wrath]](https://osu.ppy.sh/beatmapsets/280107#osu/633993)**
 
 ### Semifinals
 
 **[Download the mappack here! (133.4 MB)](https://mega.nz/#!q95XnCTK!NUlb4R_zo7BZ1SIqJFSZ2wr0vHKD0aL5jBNp5XfduIo)**
 
 - NoMod
-  - [Yorushika - Deep Indigo (Sing) [That's Why I Gave Up on Mapping]](https://osu.ppy.sh/beatmapsets/949288#osu/1982289)
-  - [lapix - Nothing but Theory (azr8) [ultra jazzfunktion]](https://osu.ppy.sh/beatmapsets/914146#osu/1924570)
-  - [cosMo@BousouP - Sekai no Owari ni Aimashou (Realazy) [Lasse's owo Dimensions]](https://osu.ppy.sh/beatmapsets/872578#osu/1825921)
-  - [Co shu Nie - Character (Gillstar) [Expert]](https://osu.ppy.sh/beatmapsets/973603#osu/2038185)
-  - [t+pazolite - Ofcourse You Need and nEed and neEd and neeD and NEED ME? (Hellzero) [Ragnarok]](https://osu.ppy.sh/beatmapsets/32883#osu/107434)
-  - [3R2 - Devillic Sphere (Innovation) [Extra]](https://osu.ppy.sh/beatmapsets/795801#osu/1671244)
+  1. [Yorushika - Deep Indigo (Sing) [That's Why I Gave Up on Mapping]](https://osu.ppy.sh/beatmapsets/949288#osu/1982289)
+  2. [lapix - Nothing but Theory (azr8) [ultra jazzfunktion]](https://osu.ppy.sh/beatmapsets/914146#osu/1924570)
+  3. [cosMo@BousouP - Sekai no Owari ni Aimashou (Realazy) [Lasse's owo Dimensions]](https://osu.ppy.sh/beatmapsets/872578#osu/1825921)
+  4. [Co shu Nie - Character (Gillstar) [Expert]](https://osu.ppy.sh/beatmapsets/973603#osu/2038185)
+  5. [t+pazolite - Ofcourse You Need and nEed and neEd and neeD and NEED ME? (Hellzero) [Ragnarok]](https://osu.ppy.sh/beatmapsets/32883#osu/107434)
+  6. [3R2 - Devillic Sphere (Innovation) [Extra]](https://osu.ppy.sh/beatmapsets/795801#osu/1671244)
 - Hidden
-  - [lapix - Horizon Blue feat. Kanata.N (Mir) [Endless Expanse]](https://osu.ppy.sh/beatmapsets/974832#osu/2040486)
-  - [TAG - Theory of Eternity (kiddly) [Extra]](https://osu.ppy.sh/beatmapsets/35224#osu/227061)
-  - [The Wrecks - Favorite Liar (Kaifin) [Valley]](https://osu.ppy.sh/beatmapsets/520511#osu/1105826)
+  1. [lapix - Horizon Blue feat. Kanata.N (Mir) [Endless Expanse]](https://osu.ppy.sh/beatmapsets/974832#osu/2040486)
+  2. [TAG - Theory of Eternity (kiddly) [Extra]](https://osu.ppy.sh/beatmapsets/35224#osu/227061)
+  3. [The Wrecks - Favorite Liar (Kaifin) [Valley]](https://osu.ppy.sh/beatmapsets/520511#osu/1105826)
 - HardRock
-  - [Camellia feat. Nanahira - Hakuraku (Nyquill) [Nyquilfj's Collab]](https://osu.ppy.sh/beatmapsets/894415#osu/1869048)
-  - [HyuN feat. YURI - Disorder (lcfc) [Forever]](https://osu.ppy.sh/beatmapsets/891632#osu/1864007)
-  - [Hommarju - Shanghai Wu Long (Flask) [EXHAUST]](https://osu.ppy.sh/beatmapsets/918026#osu/1993287)
+  1. [Camellia feat. Nanahira - Hakuraku (Nyquill) [Nyquilfj's Collab]](https://osu.ppy.sh/beatmapsets/894415#osu/1869048)
+  2. [HyuN feat. YURI - Disorder (lcfc) [Forever]](https://osu.ppy.sh/beatmapsets/891632#osu/1864007)
+  3. [Hommarju - Shanghai Wu Long (Flask) [EXHAUST]](https://osu.ppy.sh/beatmapsets/918026#osu/1993287)
 - DoubleTime
-  - [monet - Noborenai Sakamichi (Mirash) [Insane]](https://osu.ppy.sh/beatmapsets/671607#osu/1424776)
-  - [ZYTOKINE - Dancing Dollz feat. cold kiss - REDALiCE Remix (MaridiuS) [Akitoshi's Insane]](https://osu.ppy.sh/beatmapsets/690966#osu/1464219)
-  - [yurika - THE EVENING STAR (y u z u k i) [Lunatic]](https://osu.ppy.sh/beatmapsets/27706#osu/92762)
-  - [Ceui - Shinai Naru Sekai e (Shad0w1and) [To My Beloved World]](https://osu.ppy.sh/beatmapsets/408441#osu/899410)
+  1. [monet - Noborenai Sakamichi (Mirash) [Insane]](https://osu.ppy.sh/beatmapsets/671607#osu/1424776)
+  2. [ZYTOKINE - Dancing Dollz feat. cold kiss - REDALiCE Remix (MaridiuS) [Akitoshi's Insane]](https://osu.ppy.sh/beatmapsets/690966#osu/1464219)
+  3. [yurika - THE EVENING STAR (y u z u k i) [Lunatic]](https://osu.ppy.sh/beatmapsets/27706#osu/92762)
+  4. [Ceui - Shinai Naru Sekai e (Shad0w1and) [To My Beloved World]](https://osu.ppy.sh/beatmapsets/408441#osu/899410)
 - FreeMod
-  - [P4koo - Crystal Illusion (Beomsan) [milr\_'s Expert]](https://osu.ppy.sh/beatmapsets/797393#osu/1676675)
-  - [Mutsuhiko Izumi - Red Goose (nold\_1702) [Superable]](https://osu.ppy.sh/beatmapsets/46239#osu/144029)
-  - [Camellia - Diastrophism (Regou) [Real's Extreme]](https://osu.ppy.sh/beatmapsets/923095#osu/1938201)
+  1. [P4koo - Crystal Illusion (Beomsan) [milr\_'s Expert]](https://osu.ppy.sh/beatmapsets/797393#osu/1676675)
+  2. [Mutsuhiko Izumi - Red Goose (nold\_1702) [Superable]](https://osu.ppy.sh/beatmapsets/46239#osu/144029)
+  3. [Camellia - Diastrophism (Regou) [Real's Extreme]](https://osu.ppy.sh/beatmapsets/923095#osu/1938201)
 - Tiebreaker
-  - **[Minami - Hollowness (Sparhten) [Liar's Ideal]](https://osu.ppy.sh/beatmapsets/914461#osu/1909993)**
+  1. **[Minami - Hollowness (Sparhten) [Liar's Ideal]](https://osu.ppy.sh/beatmapsets/914461#osu/1909993)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (136.1 MB)](https://mega.nz/#!6gh1VSCJ!0_jwlD4bKhaYG9wMVGcshaNetm5qHAa5_b9qYRVT9nY)**
 
 - NoMod
-  - [Yuna (CV: Kanada Sayaka) - Break Beat Bark! (SkyFlame) [Checkmate]](https://osu.ppy.sh/beatmapsets/924734#osu/1931547)
-  - [Camellia feat. Nanahira - HARDBASS FESTA (Slaked) [AKIBA-STYLE]](https://osu.ppy.sh/beatmapsets/995139#osu/2081564)
-  - [Amuro vs Killer - Mei (Rion-) [Extra]](https://osu.ppy.sh/beatmapsets/502775#osu/1069933)
-  - [Co shu Nie - asphyxia (Gillstar) [semaphore's extra]](https://osu.ppy.sh/beatmapsets/895512#osu/1902799)
-  - [Camellia - Fastest Crash (sukiNathan) [RLC's Paroxysm]](https://osu.ppy.sh/beatmapsets/331025#osu/733432)
-  - [69 de 74 - Holy Wind (Yooh) [Angelic]](https://osu.ppy.sh/beatmapsets/912972#osu/1907199)
+  1. [Yuna (CV: Kanada Sayaka) - Break Beat Bark! (SkyFlame) [Checkmate]](https://osu.ppy.sh/beatmapsets/924734#osu/1931547)
+  2. [Camellia feat. Nanahira - HARDBASS FESTA (Slaked) [AKIBA-STYLE]](https://osu.ppy.sh/beatmapsets/995139#osu/2081564)
+  3. [Amuro vs Killer - Mei (Rion-) [Extra]](https://osu.ppy.sh/beatmapsets/502775#osu/1069933)
+  4. [Co shu Nie - asphyxia (Gillstar) [semaphore's extra]](https://osu.ppy.sh/beatmapsets/895512#osu/1902799)
+  5. [Camellia - Fastest Crash (sukiNathan) [RLC's Paroxysm]](https://osu.ppy.sh/beatmapsets/331025#osu/733432)
+  6. [69 de 74 - Holy Wind (Yooh) [Angelic]](https://osu.ppy.sh/beatmapsets/912972#osu/1907199)
 - Hidden
-  - [yanaginagi - Muteki no Soldier (BinJip) [Invincible]](https://osu.ppy.sh/beatmapsets/52221#osu/182001)
-  - [SUPER STAR -MITSURU- - NEW GENERATION (Natteke) [Lesjuh]](https://osu.ppy.sh/beatmapsets/25158#osu/88145)
-  - [mzet:-P - Arcana Force (Down) [Extra]](https://osu.ppy.sh/beatmapsets/743357#osu/1567612)
+  1. [yanaginagi - Muteki no Soldier (BinJip) [Invincible]](https://osu.ppy.sh/beatmapsets/52221#osu/182001)
+  2. [SUPER STAR -MITSURU- - NEW GENERATION (Natteke) [Lesjuh]](https://osu.ppy.sh/beatmapsets/25158#osu/88145)
+  3. [mzet:-P - Arcana Force (Down) [Extra]](https://osu.ppy.sh/beatmapsets/743357#osu/1567612)
 - HardRock
-  - [Kanzaki Elza starring ReoNa - Independence (Yasaija 714) [Extra]](https://osu.ppy.sh/beatmapsets/780318#osu/1639219)
-  - [Awake - Supernova (DoKoLP) [DoKo]](https://osu.ppy.sh/beatmapsets/42909#osu/138008)
-  - [Qrispy Joybox feat.mao - Umeyukiyo (LKs) [Insane]](https://osu.ppy.sh/beatmapsets/100040#osu/265643)
+  1. [Kanzaki Elza starring ReoNa - Independence (Yasaija 714) [Extra]](https://osu.ppy.sh/beatmapsets/780318#osu/1639219)
+  2. [Awake - Supernova (DoKoLP) [DoKo]](https://osu.ppy.sh/beatmapsets/42909#osu/138008)
+  3. [Qrispy Joybox feat.mao - Umeyukiyo (LKs) [Insane]](https://osu.ppy.sh/beatmapsets/100040#osu/265643)
 - DoubleTime
-  - [Gekidan Record feat. Nekomata Master - Houkou Orpheus (celerih) [felys' White Hard]](https://osu.ppy.sh/beatmapsets/879051#osu/1855074)
-  - [Duca - Dreamer (timemon) [Insane]](https://osu.ppy.sh/beatmapsets/730660#osu/1542024)
-  - [Ax feat.Natsukawa Yoko - Sakimori Renka (Long Version) (Seikatu) [Insane]](https://osu.ppy.sh/beatmapsets/477999#osu/1021024)
-  - [a\_hisa - Tokei no Heya to Seishin Sekai (Asahina Momoko) [wring's Hyper]](https://osu.ppy.sh/beatmapsets/508947#osu/1207717)
+  1. [Gekidan Record feat. Nekomata Master - Houkou Orpheus (celerih) [felys' White Hard]](https://osu.ppy.sh/beatmapsets/879051#osu/1855074)
+  2. [Duca - Dreamer (timemon) [Insane]](https://osu.ppy.sh/beatmapsets/730660#osu/1542024)
+  3. [Ax feat.Natsukawa Yoko - Sakimori Renka (Long Version) (Seikatu) [Insane]](https://osu.ppy.sh/beatmapsets/477999#osu/1021024)
+  4. [a\_hisa - Tokei no Heya to Seishin Sekai (Asahina Momoko) [wring's Hyper]](https://osu.ppy.sh/beatmapsets/508947#osu/1207717)
 - FreeMod
-  - [Chata - Wan (Kalibe) [Sorrow]](https://osu.ppy.sh/beatmapsets/922995#osu/1927444)
-  - [Igorrr - Unpleasant Sonata (Sieg) [Insane]](https://osu.ppy.sh/beatmapsets/90385#osu/245284)
-  - [Ryu\* vs. kors k - Force of Wind (Jenny) [Extra]](https://osu.ppy.sh/beatmapsets/44519#osu/142239)
+  1. [Chata - Wan (Kalibe) [Sorrow]](https://osu.ppy.sh/beatmapsets/922995#osu/1927444)
+  2. [Igorrr - Unpleasant Sonata (Sieg) [Insane]](https://osu.ppy.sh/beatmapsets/90385#osu/245284)
+  3. [Ryu\* vs. kors k - Force of Wind (Jenny) [Extra]](https://osu.ppy.sh/beatmapsets/44519#osu/142239)
 - Tiebreaker
-  - **[Ito Kanako - Sky of Twilight (Natsu) [Stairway To Heaven]](https://osu.ppy.sh/beatmapsets/677104#osu/1432041)**
+  1. **[Ito Kanako - Sky of Twilight (Natsu) [Stairway To Heaven]](https://osu.ppy.sh/beatmapsets/677104#osu/1432041)**
 
 ### Round of 16
 
 **[Download the mappack here! (165.8 MB)](https://mega.nz/#!v15QmIaa!wCMR-il_t9Zmsob7-zsYHvrEvRGpPi5ROMSfly7rH-I)**
 
 - NoMod
-  - [Mimori Suzuko - Light for Knight (\_kotachi\_) [Destiny]](https://osu.ppy.sh/beatmapsets/801337#osu/1682101)
-  - PSYQUI - Still in my heart feat. Punipuni Denki (Nanashima Asami) \[I'm gonna miss you\]
-  - [LeaF - Wizdomiot (Asahina Momoko) [Lunatic]](https://osu.ppy.sh/beatmapsets/336099#osu/743896)
-  - [MiddleIsland - Aquaphobia EP (Cassu2) [1]](https://osu.ppy.sh/beatmapsets/622998#osu/1313190)
-  - [Primary - in the Garden (Kyuukai) [Endless Sky]](https://osu.ppy.sh/beatmapsets/629217#osu/1328177)
-  - [Reol - Gokusaishiki (Chaoslitz) [Myriad of Colors]](https://osu.ppy.sh/beatmapsets/422369#osu/916972)
+  1. [Mimori Suzuko - Light for Knight (\_kotachi\_) [Destiny]](https://osu.ppy.sh/beatmapsets/801337#osu/1682101)
+  2. PSYQUI - Still in my heart feat. Punipuni Denki (Nanashima Asami) \[I'm gonna miss you\]
+  3. [LeaF - Wizdomiot (Asahina Momoko) [Lunatic]](https://osu.ppy.sh/beatmapsets/336099#osu/743896)
+  4. [MiddleIsland - Aquaphobia EP (Cassu2) [1]](https://osu.ppy.sh/beatmapsets/622998#osu/1313190)
+  5. [Primary - in the Garden (Kyuukai) [Endless Sky]](https://osu.ppy.sh/beatmapsets/629217#osu/1328177)
+  6. [Reol - Gokusaishiki (Chaoslitz) [Myriad of Colors]](https://osu.ppy.sh/beatmapsets/422369#osu/916972)
 - Hidden
-  - [Thaehan - Help (Smug Nanachi) [xChorse x SmugNa x LMT's Extra]](https://osu.ppy.sh/beatmapsets/874269#osu/1836081)
-  - [Mutsuhiko Izumi - Green Green Dance (Long Version) (spboxer3) [Collab]](https://osu.ppy.sh/beatmapsets/34896#osu/122566)
-  - [Natsuiro Bikini no Prim - Nagisa no Koakuma Lovely\~Radio (CSY the corrupt) [Extreme]](https://osu.ppy.sh/beatmapsets/76709#osu/215888)
+  1. [Thaehan - Help (Smug Nanachi) [xChorse x SmugNa x LMT's Extra]](https://osu.ppy.sh/beatmapsets/874269#osu/1836081)
+  2. [Mutsuhiko Izumi - Green Green Dance (Long Version) (spboxer3) [Collab]](https://osu.ppy.sh/beatmapsets/34896#osu/122566)
+  3. [Natsuiro Bikini no Prim - Nagisa no Koakuma Lovely\~Radio (CSY the corrupt) [Extreme]](https://osu.ppy.sh/beatmapsets/76709#osu/215888)
 - HardRock
-  - [lasah - GHOST OF LORELEY (moph) [Expert]](https://osu.ppy.sh/beatmapsets/486177#osu/1036735)
-  - [Yuuyu - Scrap Syndrome (deetz) [Extra]](https://osu.ppy.sh/beatmapsets/973996#osu/2044722)
-  - [Jun.A - Ghost Lead (Scorpiour) [Lunatic]](https://osu.ppy.sh/beatmapsets/47516#osu/147370)
+  1. [lasah - GHOST OF LORELEY (moph) [Expert]](https://osu.ppy.sh/beatmapsets/486177#osu/1036735)
+  2. [Yuuyu - Scrap Syndrome (deetz) [Extra]](https://osu.ppy.sh/beatmapsets/973996#osu/2044722)
+  3. [Jun.A - Ghost Lead (Scorpiour) [Lunatic]](https://osu.ppy.sh/beatmapsets/47516#osu/147370)
 - DoubleTime
-  - [monet - Kagami no Sekai ni wa Watashi shika Inai -another version- (Mirash) [PandaHero's Insane]](https://osu.ppy.sh/beatmapsets/685725#osu/1469159)
-  - [3L, mariapolo - WARNING! (LunarSakuya) [Lunatic]](https://osu.ppy.sh/beatmapsets/92435#osu/249904)
-  - [ALiCE'S EMOTiON - Tag (Hardbeat Remix) (Takos) [Patchouli]](https://osu.ppy.sh/beatmapsets/28991#osu/96525)
-  - [Rib - Jitter Doll (Kalibe) [Insane]](https://osu.ppy.sh/beatmapsets/634997#osu/1350132)
+  1. [monet - Kagami no Sekai ni wa Watashi shika Inai -another version- (Mirash) [PandaHero's Insane]](https://osu.ppy.sh/beatmapsets/685725#osu/1469159)
+  2. [3L, mariapolo - WARNING! (LunarSakuya) [Lunatic]](https://osu.ppy.sh/beatmapsets/92435#osu/249904)
+  3. [ALiCE'S EMOTiON - Tag (Hardbeat Remix) (Takos) [Patchouli]](https://osu.ppy.sh/beatmapsets/28991#osu/96525)
+  4. [Rib - Jitter Doll (Kalibe) [Insane]](https://osu.ppy.sh/beatmapsets/634997#osu/1350132)
 - FreeMod
-  - [Yamamoto Mineko - Pilgrimage (Gust) [Atelier Totori]](https://osu.ppy.sh/beatmapsets/937285#osu/1994939)
-  - [LeaF - MEPHISTO [Extra] (Alumetorz)](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
-  - [Morimori Atsushi - Tits or get the fuck out!! (EvilElvis) [Delis' Extra]](https://osu.ppy.sh/beatmapsets/352169#osu/1072094)
+  1. [Yamamoto Mineko - Pilgrimage (Gust) [Atelier Totori]](https://osu.ppy.sh/beatmapsets/937285#osu/1994939)
+  2. [LeaF - MEPHISTO [Extra] (Alumetorz)](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
+  3. [Morimori Atsushi - Tits or get the fuck out!! (EvilElvis) [Delis' Extra]](https://osu.ppy.sh/beatmapsets/352169#osu/1072094)
 - Tiebreaker
-  - **[RD-Sounds feat. Meramipop/nayuta - Shiten (Icekalt) [Duet]](https://osu.ppy.sh/beatmapsets/908561#osu/1895860)**
+  1. **[RD-Sounds feat. Meramipop/nayuta - Shiten (Icekalt) [Duet]](https://osu.ppy.sh/beatmapsets/908561#osu/1895860)**
 
 ### Round of 32
 
 **[Download the mappack here! (132.7 MB)](https://mega.nz/#!K0gGXKjD!4Y3_duvE_K_0TeIlGYjpzg57SFoAkxhWS2cG3n4ptE8)**
 
 - NoMod
-  - [gi(a)rlish number - Bloom (Shizuku-) [Extra]](https://osu.ppy.sh/beatmapsets/551782#osu/1168674)
-  - [PSYQUI - Don't you want me feat. Such (Mir) [Jellyfish]](https://osu.ppy.sh/beatmapsets/832309#osu/1984424)
-  - [Kanon - Travel (Azzedd) [GIGA]](https://osu.ppy.sh/beatmapsets/808836#osu/1697299)
-  - [Reji - Shoujo wa Yoru to Azayakani (thzz) [Rumi's Extra]](https://osu.ppy.sh/beatmapsets/530701#osu/1149435)
-  - [M2U - Dual Fractal (Hailie) [Icekalt's Extra]](https://osu.ppy.sh/beatmapsets/865577#osu/1823007)
+  1. [gi(a)rlish number - Bloom (Shizuku-) [Extra]](https://osu.ppy.sh/beatmapsets/551782#osu/1168674)
+  2. [PSYQUI - Don't you want me feat. Such (Mir) [Jellyfish]](https://osu.ppy.sh/beatmapsets/832309#osu/1984424)
+  3. [Kanon - Travel (Azzedd) [GIGA]](https://osu.ppy.sh/beatmapsets/808836#osu/1697299)
+  4. [Reji - Shoujo wa Yoru to Azayakani (thzz) [Rumi's Extra]](https://osu.ppy.sh/beatmapsets/530701#osu/1149435)
+  5. [M2U - Dual Fractal (Hailie) [Icekalt's Extra]](https://osu.ppy.sh/beatmapsets/865577#osu/1823007)
 - Hidden
-  - [Tezuka x Qayo - NINI (Cherry Blossom) [Hanafubuki]](https://osu.ppy.sh/beatmapsets/935181#osu/1953873)
-  - [07th Expansion - Final Answer (gowww) [Insane]](https://osu.ppy.sh/beatmapsets/26226#osu/88633)
+  1. [Tezuka x Qayo - NINI (Cherry Blossom) [Hanafubuki]](https://osu.ppy.sh/beatmapsets/935181#osu/1953873)
+  2. [07th Expansion - Final Answer (gowww) [Insane]](https://osu.ppy.sh/beatmapsets/26226#osu/88633)
 - HardRock
-  - [BUTAOTOME - Futari Dake no Kotoba (celerih) [kiry's Insane]](https://osu.ppy.sh/beatmapsets/962568#osu/2015481)
-  - [sasakure.UK - Atropos (Cellina) [Anze's Extra]](https://osu.ppy.sh/beatmapsets/838536#osu/1799238)
+  1. [BUTAOTOME - Futari Dake no Kotoba (celerih) [kiry's Insane]](https://osu.ppy.sh/beatmapsets/962568#osu/2015481)
+  2. [sasakure.UK - Atropos (Cellina) [Anze's Extra]](https://osu.ppy.sh/beatmapsets/838536#osu/1799238)
 - DoubleTime
-  - [Sally - did -Less Extra- Ranko ver. (celerih) [Other Self]](https://osu.ppy.sh/beatmapsets/893725#osu/1867710)
-  - [Rita - Haru Hana no Iro (Frostmourne) [Insane]](https://osu.ppy.sh/beatmapsets/43015#osu/135109)
-  - [doriko feat. Hatsune Miku - Paradise Cage (KanbeKotori) [Insane]](https://osu.ppy.sh/beatmapsets/23483#osu/80384)
+  1. [Sally - did -Less Extra- Ranko ver. (celerih) [Other Self]](https://osu.ppy.sh/beatmapsets/893725#osu/1867710)
+  2. [Rita - Haru Hana no Iro (Frostmourne) [Insane]](https://osu.ppy.sh/beatmapsets/43015#osu/135109)
+  3. [doriko feat. Hatsune Miku - Paradise Cage (KanbeKotori) [Insane]](https://osu.ppy.sh/beatmapsets/23483#osu/80384)
 - FreeMod
-  - [Yorushika - Hachigatsu, Bou, Tsukiakari (Delis) [Extra]](https://osu.ppy.sh/beatmapsets/963814#osu/2017881)
-  - [Renard - Da Nu Nuttah (GamerX4life) [Nogard]](https://osu.ppy.sh/beatmapsets/62665#osu/205282)
+  1. [Yorushika - Hachigatsu, Bou, Tsukiakari (Delis) [Extra]](https://osu.ppy.sh/beatmapsets/963814#osu/2017881)
+  2. [Renard - Da Nu Nuttah (GamerX4life) [Nogard]](https://osu.ppy.sh/beatmapsets/62665#osu/205282)
 - Tiebreaker
-  - **[Meramipop - Eiya [Imperishable Challengers] (-Tochi) [Eternal Night]](https://osu.ppy.sh/beatmapsets/289225#osu/652034)**
+  1. **[Meramipop - Eiya [Imperishable Challengers] (-Tochi) [Eternal Night]](https://osu.ppy.sh/beatmapsets/289225#osu/652034)**
 
 ### Round of 64
 
 **[Download the mappack here! (84.8 MB)](https://mega.nz/file/ylAWBKIB#N19bjBeO5GmQPJRi33jERl4gxwJmnx69ZwXgmSeFrNU)**
 
 - NoMod
-  - [BUTA-OTOME - Blue Fireworks (BarkingMadDog) [Reminiscence]](https://osu.ppy.sh/beatmapsets/716455#osu/1513645)
-  - [Memme - Unison System (Leader) [Extra]](https://osu.ppy.sh/beatmapsets/937606#osu/1958595)
-  - [MAX COVERI - RUNNING IN THE 90'S (Monstrata) [SCHOOLBOY'S EXTRA]](https://osu.ppy.sh/beatmapsets/739262#osu/1609253)
-  - [Memme - Starving Days (Gamu) [Extra]](https://osu.ppy.sh/beatmapsets/275743#osu/625507)
-  - [Igorrr - Moldy Eye (grumd) [Insane]](https://osu.ppy.sh/beatmapsets/186899#osu/446261)
+  1. [BUTA-OTOME - Blue Fireworks (BarkingMadDog) [Reminiscence]](https://osu.ppy.sh/beatmapsets/716455#osu/1513645)
+  2. [Memme - Unison System (Leader) [Extra]](https://osu.ppy.sh/beatmapsets/937606#osu/1958595)
+  3. [MAX COVERI - RUNNING IN THE 90'S (Monstrata) [SCHOOLBOY'S EXTRA]](https://osu.ppy.sh/beatmapsets/739262#osu/1609253)
+  4. [Memme - Starving Days (Gamu) [Extra]](https://osu.ppy.sh/beatmapsets/275743#osu/625507)
+  5. [Igorrr - Moldy Eye (grumd) [Insane]](https://osu.ppy.sh/beatmapsets/186899#osu/446261)
 - Hidden
-  - [HACHI feat. Hatsune Miku - Suna no Wakusei (gowww) [Extra]](https://osu.ppy.sh/beatmapsets/841634#osu/1761256)
-  - [4 Elements - I Want You To Hold Me (Nightcore Mix) (Okoratu) [Insane]](https://osu.ppy.sh/beatmapsets/732997#osu/1546428)
+  1. [HACHI feat. Hatsune Miku - Suna no Wakusei (gowww) [Extra]](https://osu.ppy.sh/beatmapsets/841634#osu/1761256)
+  2. [4 Elements - I Want You To Hold Me (Nightcore Mix) (Okoratu) [Insane]](https://osu.ppy.sh/beatmapsets/732997#osu/1546428)
 - HardRock
-  - [Gentle Stick X M2U - Ineffabilis (buhei) [Yuki's Extra]](https://osu.ppy.sh/beatmapsets/340903#osu/766528)
-  - [sound piercer - Castorpollux (fanzhen0019) [bye]](https://osu.ppy.sh/beatmapsets/665535#osu/1408458)
+  1. [Gentle Stick X M2U - Ineffabilis (buhei) [Yuki's Extra]](https://osu.ppy.sh/beatmapsets/340903#osu/766528)
+  2. [sound piercer - Castorpollux (fanzhen0019) [bye]](https://osu.ppy.sh/beatmapsets/665535#osu/1408458)
 - DoubleTime
-  - [ROUND TABLE featuring Nino - Yakusoku no Basho (UnitedWeSin) [Insane]](https://osu.ppy.sh/beatmapsets/109425#osu/285600)
-  - [Yousei Teikoku - Gekkakou (osuplayer111) [Collab]](https://osu.ppy.sh/beatmapsets/31321#osu/102980)
-  - [Feint - 161914 (Aka) [fergas' Insane]](https://osu.ppy.sh/beatmapsets/224157#osu/689420)
+  1. [ROUND TABLE featuring Nino - Yakusoku no Basho (UnitedWeSin) [Insane]](https://osu.ppy.sh/beatmapsets/109425#osu/285600)
+  2. [Yousei Teikoku - Gekkakou (osuplayer111) [Collab]](https://osu.ppy.sh/beatmapsets/31321#osu/102980)
+  3. [Feint - 161914 (Aka) [fergas' Insane]](https://osu.ppy.sh/beatmapsets/224157#osu/689420)
 - FreeMod
-  - [Itou Kanako - Skyclad no Kansokusha -Remix- (Takos) [taka]](https://osu.ppy.sh/beatmapsets/33323#osu/110628)
-  - [zakuro - Inochi ni Kirawarete Iru. (Mirash) [Delis' Extra]](https://osu.ppy.sh/beatmapsets/693727#osu/1467820)
+  1. [Itou Kanako - Skyclad no Kansokusha -Remix- (Takos) [taka]](https://osu.ppy.sh/beatmapsets/33323#osu/110628)
+  2. [zakuro - Inochi ni Kirawarete Iru. (Mirash) [Delis' Extra]](https://osu.ppy.sh/beatmapsets/693727#osu/1467820)
 - Tiebreaker
-  - **[Tsukasa Yatoki - Heaven's Race Guitar Style (moph) [Collab]](https://osu.ppy.sh/beatmapsets/559171#osu/1182586)**
+  1. **[Tsukasa Yatoki - Heaven's Race Guitar Style (moph) [Collab]](https://osu.ppy.sh/beatmapsets/559171#osu/1182586)**
 
 ### Qualifiers
 
 - NoMod
-  - [FELT - New World (Hakurei Yoru) [Nightmare]](https://osu.ppy.sh/beatmapsets/486207#osu/1036841)
-  - [YUC'e - PUMP (Flare-kun) [-Jordan-kun's Love]](https://osu.ppy.sh/beatmapsets/615870#osu/1298998)
+  1. [FELT - New World (Hakurei Yoru) [Nightmare]](https://osu.ppy.sh/beatmapsets/486207#osu/1036841)
+  2. [YUC'e - PUMP (Flare-kun) [-Jordan-kun's Love]](https://osu.ppy.sh/beatmapsets/615870#osu/1298998)
 - Hidden
-  - [Hanatan - Nijigen Dream Fever (W h i t e) [Skystar's Extra]](https://osu.ppy.sh/beatmapsets/98042#osu/426663)
+  1. [Hanatan - Nijigen Dream Fever (W h i t e) [Skystar's Extra]](https://osu.ppy.sh/beatmapsets/98042#osu/426663)
 - HardRock
-  - [HyuN - Infinity Heaven (Niva) [Ad Infinitum]](https://osu.ppy.sh/beatmapsets/891345#osu/1863246)
+  1. [HyuN - Infinity Heaven (Niva) [Ad Infinitum]](https://osu.ppy.sh/beatmapsets/891345#osu/1863246)
 - DoubleTime
-  - [Rita - Little Busters! (Nhato Remix) (jonathanlfj) [Ecstasy]](https://osu.ppy.sh/beatmapsets/310133#osu/693117)
+  1. [Rita - Little Busters! (Nhato Remix) (jonathanlfj) [Ecstasy]](https://osu.ppy.sh/beatmapsets/310133#osu/693117)
 
 ## Match results
 
