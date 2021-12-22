@@ -50,7 +50,7 @@ Les articles de news sont des fichiers markdown (``.md``) nommés selon le forma
 
 Où `yyyy` est l'année à 4 chiffres, `mm` est le mois à 2 chiffres, et `dd` est la date à 2 chiffres.
 
-Les noms des fichier sont le titre de l'article lui-même avec tous les espaces remplacés par des traits d'union (`-`), et tous les caractères supplémentaires tels que les points (`.`), les points d'exclamation (`!`), les points d'interrogation (`?`), les virgules (`,`), les apostrophes (`'`), les guillemets (`"`), moins que (`<`), plus que (`>`), les deux-points (`:`), les barres obliques (`/`), les barres obliques (`\`), les barres verticales (`|`) et les astérisques (`*`) sont retirés.
+Les noms des fichiers sont le titre de l'article lui-même avec tous les espaces remplacés par des traits d'union (`-`), et tous les caractères supplémentaires tels que les points (`.`), les points d'exclamation (`!`), les points d'interrogation (`?`), les virgules (`,`), les apostrophes (`'`), les guillemets (`"`), moins que (`<`), plus que (`>`), les deux-points (`:`), les barres obliques (`/`), les barres obliques (`\`), les barres verticales (`|`) et les astérisques (`*`) sont retirés.
 
 ### En-têtes des fichiers
 
