@@ -8,7 +8,7 @@ tags:
   - pengumuman
 ---
 
-# BanchoBot<!-- omit in toc -->
+# BanchoBot
 
 *Untuk penggunaan lainnya, lihat [Bancho (disambiguasi)](/wiki/Disambiguation/Bancho).*
 
@@ -18,7 +18,7 @@ tags:
 
 BanchoBot juga memiliki [akun osu!](https://osu.ppy.sh/users/3) dan [akun Twitter](https://twitter.com/banchoboat)-nya tersendiri.
 
-## Perintah<!-- omit in toc -->
+## Perintah
 
 *Untuk melihat daftar perintah yang tersedia pada permainan, kunjungi [Chat Console](/wiki/Chat_Console#daftar-perintah)*
 
@@ -150,7 +150,7 @@ Perintah `!report` berfungsi untuk memberitahukan para anggota [Global Moderatio
 13:10 BanchoBot: Chat moderators have been alerted. Thanks for your help.
 ```
 
-## Trivia<!-- omit in toc -->
+## Trivia
 
 - Pada laman profil BanchoBot, BanchoBot tercatat sebagai salah satu pengguna yang telah bergabung dengan osu! sejak awal ("*Here since the beginning*")
 - Secara resmi, tanggal bergabung BanchoBot adalah tanggal 27 Agustus 2007 pukul 22:09:14 UTC-5
