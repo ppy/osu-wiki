@@ -6,4 +6,4 @@ stub: true
 
 *Untuk penggunaan lainnya, lihat [Skor (disambiguasi)](/wiki/Disambiguation/Score).*
 
-**Skor ranked** merupakan jumlah seluruh skor terbaik dari seluruh tingkat kesulitan beatmap ranked yang dimainkan secara *online*
+**Skor ranked** (*ranked score*) merupakan jumlah seluruh skor terbaik yang ditorehkan pada seluruh tingkat kesulitan beatmap-beatmap Ranked yang dimainkan secara *online*.
