@@ -91,7 +91,7 @@ If [Relax](/wiki/Game_modifier/Relax) mod was used, the score judgement only acc
 
 In addition to score boost, each cleared object fills a small part of the [health bar](/wiki/Glossary/Health_bar), which must be at least **50% full** for a player to pass the beatmap.
 
-After the beatmap is over, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!taiko), a short accuracy assessment in form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on amount of 300s, 100s, and misses.
+After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!taiko), a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on the amount of 300s, 100s, and misses.
 
 ## Skinning
 

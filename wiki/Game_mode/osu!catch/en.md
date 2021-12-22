@@ -80,7 +80,7 @@ The placement of in-game cursor does not matter when playing normally. If [Relax
 - [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: the higher it is, the more the object contributes to the total score. In osu!catch, combo may be [broken](/wiki/Glossary/Combobreak) by missing a large fruit or a drop, which also decreases [health](/wiki/Beatmapping/Health).
 - [Accuracy](/wiki/Gameplay/Accuracy#osu!catch) shows how many objects were caught in total. Small droplets decrease accuracy when missed, but do not break combo.
 
-After the beatmap is over, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!catch), a short accuracy assessment in form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on amount of missed objects.
+After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!catch), a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on the amount of missed objects.
 
 ## Skinning
 

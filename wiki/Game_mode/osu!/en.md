@@ -104,11 +104,11 @@ If [Auto Pilot](/wiki/Game_modifier/Autopilot) game modifier was used, only the 
 
 - [Judgement](/wiki/Gameplay/Judgement/osu!) determines a hit object's base scoring value (300, 100, 50, or 0 in case of a miss). For [hit circles](/wiki/Hit_object/Hit_circle), well-timed key presses are valued more, both in terms of score and accuracy. [Sliders](/wiki/Hit_object/Slider) and [spinners](/wiki/Hit_object/Spinner) don't have hit windows, but will break combo when missed or not cleared properly. Getting a higher judgement also provides a higher [health](/wiki/Beatmapping/Health) boost.
 - [Accuracy](/wiki/Gameplay/Accuracy#osu!) depends on judgement and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
-- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: the higher it is, the more the object contributes to the total score. Combo may be [broken](/wiki/Glossary/Combobreak) by a miss or a [slider break](/wiki/Gameplay/Slider_break).
+- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: clearing a hit object contributes more to the total score when combo is high and vice versa. Combo may be [broken](/wiki/Glossary/Combobreak) by a miss or a [slider break](/wiki/Gameplay/Slider_break).
 
 When combo is maintained, the total score grows exponentially. Objects closer to the end of the map are worth orders of magnitude more points than the ones in the beginning, which means that a player will lose way more potential score on them in case of mistimed hits. As a result, it's possible and very common for a score with lower accuracy to have a higher amount of points and beat a score with higher accuracy.
 
-After the beatmap is over, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!), a short accuracy assessment in form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on amount of 300s, 50s, and misses.
+After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!), a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on amount of 300s, 50s, and misses.
 
 ## Skinning
 
