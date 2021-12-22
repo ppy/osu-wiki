@@ -8,7 +8,7 @@ Le premier mode de jeu et homonyme qui était basé sur la série ouendan.
 
 ## Qu'est-ce que "Ouendan" ?
 
-*[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan)* est un jeu de rythme pour la *Nintendo DS*. Le gameplay se compose de seulement trois éléments : taper des cercles sur l'écran tactile, faire glisser une balle sur un chemin fixe et faire tourner un spinner très rapidement. Tous ces éléments sont synchronisés avec des (reprises de) chansons japonaises populaires. Voici à quoi ressemble le jeu sur la *DS* :
+*[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan)* est un jeu de rythme pour la *Nintendo DS*. Le gameplay se compose de seulement trois éléments : taper des cercles sur l'écran tactile, faire glisser une balle sur une trajectoire fixe et faire tourner un spinner très rapidement. Tous ces éléments sont synchronisés avec des (reprises de) chansons japonaises populaires. Voici à quoi ressemble le jeu sur la *DS* :
 
 ![Exemple de gameplay de Osu! Tatakae! Ouendan sur Nintendo DS](/wiki/shared/Ouendan.jpg "Exemple de gameplay de Osu! Tatakae! Ouendan sur Nintendo DS")
 
@@ -72,7 +72,7 @@ Parfois, comme dans la capture d'écran ci-dessus, la balle peut inverser sa dir
 
 Maintenez le bouton de la souris/du clavier (ou le stylo sur la tablette). À partir de là, utilisez la souris (ou le stylo) et faites tourner le spinner dans un mouvement circulaire (dans un sens ou dans l'autre) jusqu'à ce que le cercle du spinner s'élargisse complètement. Un avis *Clear* apparaîtra pour indiquer que le spinner est terminée. Si le spinner a été terminé prématurément, continuez à tourner pour obtenir un bonus de score et regagner un peu de vie.
 
-Le cercle blanc extérieur indique le temps restant pour compléter le spinner. Ce cercle devient rouge pour indiquer que le temps est presque écoulé. Les anciennes beatmaps, utilisant la *skin version 1.0*, auront un compteur/une jauge pour indiquer la proximité de la fin du spinner.
+Le cercle blanc extérieur indique le temps restant pour compléter le spinner. Ce cercle devient rouge pour indiquer que le temps est presque écoulé. Les anciennes beatmaps, utilisant le *skin version 1.0*, auront un compteur/une jauge pour indiquer la proximité de la fin du spinner.
 
 La petite case située sous le spinner indique le nombre de tours par minute. Le chiffre à l'intérieur de cette case correspond au nombre de rotations possibles, si l'on continue à faire tourner le spinner à cette vitesse pendant une minute. Si le bouton de la souris ou du clavier a été relâché (ou si le stylo n'a pas touché la tablette) au début de la rotation, le compteur s'arrête de lire la rotation.
 
@@ -88,7 +88,7 @@ Les contrôles par défaut pour osu! sont :
 
 | Mouse | Keyboard | Tablet/Touchscreen |
 | :-- | :-- | :-- |
-| Click gauche (M1) / Click droit (M2) | `Z` (K1) / `X` (K2) | Toucher l'écran (M1) |
+| Clic gauche (M1) / Clic droit (M2) | `Z` (K1) / `X` (K2) | Toucher l'écran (M1) |
 
 Les objets dans osu! acceptent n'importe quelle entrée du périphérique d'entrée, à condition que chaque objet ait été tapé à temps.
 
@@ -130,14 +130,14 @@ En d'autres termes : `Précision = Total des points des hits / (Total des nombre
 
 En d'autres termes, chaque *Miss* compte pour 0 point, chaque *50* compte pour 50 points, chaque *100* pour 100 points et chaque *300* pour 300 points.
 
-Additionnez-les tous et divisez la somme avec le nombre de hits multiplié par 300.
+Additionnez-les tous et divisez la somme par le nombre de hits multiplié par 300.
 
 - Si seulement 300s : un résultat de 1.00, ce qui signifie une précision de 100%.
 - Si seulement 100s : un résultat de 0,3333 (soit 100/300), ce qui signifie une précision de 33,33%.
 
 ### Score
 
-Le score donné par chaque cercle et slider end est calculé avec la formule suivante :
+Le score donné par chaque cercle, et fin de slider est calculé avec la formule suivante :
 
 `Score = Valeur du hit + (Valeur du hit * ((Multiplicateur de combo * Multiplicateur de difficulté * Multiplicateur de mod) / 25))`
 
@@ -239,7 +239,7 @@ Le système utilisé pour calculer les pertes et les gains de vie est compliqué
 - Miss d'un slider tick, ou d'une flèche d'un slider.
 - N'a pas réussi à remplir un spinner pour qu'un 50 soit donné.
 
-**Les éléments suivants réservent la vie dans la barre de vie :**
+**Les éléments suivants ne diminuent pas la vie dans la barre de vie :**
 
 - Pauses
 
