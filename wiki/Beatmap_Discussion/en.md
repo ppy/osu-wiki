@@ -91,7 +91,7 @@ The hype train tracks how many [hypes](/wiki/Beatmap/Hype) a mapset has received
 
 ### Nomination status
 
-The nomination status bar tracks a beatmap's nominations. Once a beatmap has received two nominations it will be qualified. <!--TODO: Insert 'Qualified' link-->
+The nomination status bar tracks a beatmap's nominations. Once a beatmap has received two nominations it will be [qualified](/wiki/Beatmap/Category#qualified)
 
 ### General info
 

@@ -1,36 +1,41 @@
 # Comment démarrer un projet de beatmap
 
-*[Veuillez préciser le type de projet (Discographie, Album, Collab) par LuigiHann](https://osu.ppy.sh/community/forums/topics/12193)*
-
-Note : Cet article concerne la section du forum [Beatmap Projects](https://osu.ppy.sh/community/forums/53) et la manière de l'aborder.
+*Remarque : Cet article concerne la section du forum [Beatmap Projects](https://osu.ppy.sh/community/forums/53) et la manière de l'aborder. Assurez-vous de lire les [règles du forum](https://osu.ppy.sh/community/forums/topics/453937) avant de poster vos messages.*
 
 ## Créer un titre de fil de discussion informatif
 
-*En effet, le titre de votre fil de discussion déterminera si les autres utilisateurs d'osu! vont dire "oui" ou "non" à votre Beatmap Project, avant même de cliquer dessus !*
+*En effet, le titre de votre fil de discussion déterminera si les autres utilisateurs d'osu! vont dire "oui" ou "non" à votre beatmap project, avant même de cliquer dessus !*
 
-Le titre doit être composé de `[Discographie]` / `[Album]` / `[Collab]`. Il y a de fortes chances que votre projet soit ignoré ou déplacé vers [AW](/wiki/Abandoned_wasteland) si le titre du fil de discussion manque d'informations.
+`[Discography]` / `[Album]` / `[Collab]` doit être ajouté avant le titre. Il y a de fortes chances que votre projet soit ignoré ou déplacé vers [Abandoned Wasteland](/wiki/Abandoned_wasteland) si le titre du fil de discussion n'est pas assez descriptif.
 
-**Exemples :**
-
-Un exemple de titre correct
+De bons exemples :
 
 - `[Album] Pandora Voxx -complete-`
 - `[Discography] Deemo`
 
-Un exemple de titre incorrect
+Mauvais exemple :
 
 - `starting a new project, need your help with this album`
 
 ### Lequel dois-je utiliser ?
 
-**Discographie :** Liste des albums/chansons sortis par le chanteur/groupe/compositeur/jeu.
+**Discography :** Liste des albums ou des chansons publiés par le chanteur, le groupe ou le compositeur, ou comme bande sonore d'un jeu.
 
-- Exemples : [Duca](https://osu.ppy.sh/community/forums/topics/98205), [Linkin Park](https://osu.ppy.sh/community/forums/topics/121592), [Cytus](https://osu.ppy.sh/community/forums/topics/177446)
+Exemples :
+
+- [\[Discog\] osu! needs more Duca!](https://osu.ppy.sh/community/forums/topics/98205)
+- [\[Discography\] Linkin Park](https://osu.ppy.sh/community/forums/topics/121592)
+- [\[Discography\] Cytus](https://osu.ppy.sh/community/forums/topics/177446)
 
 **Album :** Liste des chansons de l'album.
 
-- Exemples : [Anamanaguchi - Scott Pilgrim vs The World (The Game)](https://osu.ppy.sh/community/forums/topics/37908), [Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
+Exemples :
 
-**Collab :** Créer un projet de mapping de groupe pour une certaine musique. Cela peut aller de la demande de storyboarding au mapping de certaines parties d'un marathon. [Référence](https://osu.ppy.sh/community/forums/topics/35841)
+- [\[Album\] Anamanaguchi - Scott Pilgrim vs The World (the game)](https://osu.ppy.sh/community/forums/topics/37908)
+- [\[Album\] Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
 
-- Exemple : [Voca Nico Party Nonstop Mix - Marathon](https://osu.ppy.sh/community/forums/topics/188118)
+**Collab :** Création d'un [projet collaboration](/wiki/Beatmap/Beatmap_collaborations) pour une chanson donnée. Cela peut aller d'une demande de [storyboard](/wiki/Storyboard), de mapping de parties d'un [marathon](/wiki/Beatmap/Marathon). Cela peut aller d'une demande de [storyboard](/wiki/Storyboard) au mapping de certaines parties d'une [beatmap marathon](/wiki/Beatmap/Marathon). N'oubliez pas de lire ce [guide sur les collaborations](/wiki/Guides/Collab_Information) avant de commencer !
+
+Exemple :
+
+- [Within Temptation - The Unforgiving](https://osu.ppy.sh/beatmapsets/29157)

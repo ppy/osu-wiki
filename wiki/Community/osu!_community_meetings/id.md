@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: c5ee74153aa8ac008034cce4efe4be4350f8034b
+---
+
 # Pertemuan komunitas osu!
 
 **Pertemuan komunitas osu!** adalah panel diskusi yang diadakan oleh [tim inti osu!](/wiki/People/The_Team) setiap dua minggu sekali. Tujuan utama dari pertemuan-pertemuan tersebut adalah untuk memberikan kesempatan kepada seluruh pihak untuk berbicara secara langsung dengan pengembang dan orang-orang yang bertanggung jawab dalam mengatur komunitas untuk membahas tentang suatu hal atau pertimbangan lebih lanjut.
@@ -6,7 +11,9 @@
 
 Saat ini, pertemuan komunitas osu! diketuai oleh [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335), dan [smoogipoo](https://osu.ppy.sh/users/1040328).
 
-Pertemuan komunitas osu! berikutnya akan diadakan pada **Sabtu, 11 Desember 2021 pukul 21.00 UTC (Minggu, 12 Desember 2021 pukul 04.00 WIB)**. Pertemuan diadakan setiap dua minggu sekali dengan pengingat yang diumumkan melalui [akun Twitter peppy](https://twitter.com/ppy) sehari sebelumnya.
+Pertemuan diadakan setiap dua minggu sekali dengan pengingat yang diumumkan melalui [akun Twitter peppy](https://twitter.com/ppy) sehari sebelumnya.
+
+Tanggal pertemuan komunitas osu! selanjutnya akan diumumkan dikemudian hari.
 
 ## Cara berpartisipasi
 
@@ -32,6 +39,8 @@ Pertemuan komunitas osu! pertama diadakan pada 19 September 2021. Semua pertemua
 | 3 | [31 Oktober 2021](https://youtu.be/omvZbC7zJUI) | [Notulen pertemuan](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) |
 | 4 | [14 November 2021](https://youtu.be/rEWgTY-L95Y) | [Notulen pertemuan](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) |
 | 5 | [28 November 2021](https://youtu.be/SqMrY26Q6Tw) | [Notulen pertemuan](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) |
+| 6 | [11 Desember 2021](https://youtu.be/dtGjIyTFtMA) | [Notulen pertemuan](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) |
+| 7 | [18 Desember 2021](https://www.twitch.tv/videos/1236856715) | [Notulen pertemuan](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) |
 
 ## Tautan terkait
 

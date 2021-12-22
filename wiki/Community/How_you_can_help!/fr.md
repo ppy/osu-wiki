@@ -1,74 +1,74 @@
-# Comment pouvez-vous aider?
+# Comment vous pouvez aider !
 
-La communauté d'osu! est ouverte à tous, elle regroupe beaucoup de membres venant de plein d'endroits différents à travers le monde! Aidez nous à la faire grandir! 
+osu! a une communauté très vivante composée de personnes du monde entier. Et tout le monde peut faire partie de la communauté à sa manière ! 
 
-Ci-dessous voici quelques moyens d'aider la communauté :
+Vous trouverez ci-dessous quelques-unes des façons dont vous pouvez aider la communauté :
 
-## Aider en participant au wiki
+## Aidez-nous avec le wiki
 
-L'[osu!wiki](https://github.com/ppy/osu-wiki) est notre principale base de connaissance sur osu!, celui-ci traite de beaucoup de sujets différents et permet aux joueurs de trouver la réponse à leur question. De plus, le wiki cherche toujours des contributeurs pour aider à maintenir le site à jour avec des nouveaux sujets ou traductions d'articles du wiki.
+[Le wiki](https://github.com/ppy/osu-wiki) est notre base de connaissances officielle qui contient tout et n'importe quoi à propos d'osu!. Et en tant que tel, le wiki est toujours à la recherche de nouveaux contributeurs pour aider à maintenir le site à jour avec de nouvelles connaissances ou traductions.
 
-Si vous êtes nouveau sur l'osu!wiki, vous pouvez en savoir plus sur le [guide pour contribuer à celui-ci](/wiki/osu!_wiki/Contribution_guide).
+Si vous êtes un nouveau venu sur le osu! wiki, vous pouvez en savoir plus à ce sujet en consultant le [guide de contribution au osu! wiki](/wiki/osu!_wiki/Contribution_guide)
 
-## Aider à maintenir une ambiance saine sur osu!
+## Aidez-nous à préserver la convivialité et la sécurité d'osu!
 
-Afin de maintenir les canaux de discussion officiels de la communauté sains, osu! a une équipe de modération dédiée qui modère continuellement les forums et les chats in-game. 
+Afin de garantir la sécurité des centres officiels de la communauté, osu! dispose d'une équipe de modération spécialisée qui surveille les forums et les tchats en ligne 24 heures sur 24. 
 
-Heureusement, il est facile d'aider l'équipe de modération à garder ces endroits sûrs. Voici unes des nombreuses façons d'aider :
+Heureusement, il est encore facile pour vous de contribuer à la sécurité du site. Voici quelques-unes des nombreuses façons dont vous pouvez nous aider :
 
-- Suivez vos canaux favoris sur le [chat in-game d'osu!](/wiki/Chat_Console) ou sur les forums.
-- Si vous voyez quelque chose que vous pensez inappropriés ou dérangeant, utilisez [la commande `!report`](/wiki/Reporting_Bad_Behaviour) dans le chat in-game pour notifier les modérateurs.
+- Suivez vos canaux de discussion préférés dans le [tchat en jeu d'osu!](/wiki/Chat_Console), ou sur les forums.
+- Si vous êtes témoin d'un événement que vous jugez inapproprié ou dérangeant, utilisez [la commande `!report`](/wiki/Reporting_Bad_Behaviour) dans le tchat du jeu pour en informer les modérateurs.
 
-## Aider les autres membres de la communauté
+## Aidez les autres membres de la communauté
 
-Si vous rencontrez quelqu'un qui a un problème avec le jeu, aidez le ! Que ce soit une question sur un problème de driver, sur une beatmap ou sur le gameplay, si vous pouvez y répondre, vous pouvez aider la personne a résoudre son problème.
+Si vous rencontrez quelqu'un qui a un problème avec le jeu, donnez-lui un coup de main ! Qu'il s'agisse d'un problème de pilote, d'une question sur une beatmap ou de gameplay, si vous pouvez y répondre, vous pouvez aider la personne à résoudre son problème.
 
-Voici quelques façons d'aider les membres de la communauté:
+Voici quelques-unes des façons dont vous pouvez aider les autres :
 
-- Choisissez un forum qui vous intéresse :
+- Choisissez un forum qui suscite votre intérêt :
   - [Help](https://osu.ppy.sh/community/forums/5)
   - [Mapping Discussion](https://osu.ppy.sh/community/forums/56)
   - [Storyboarding](https://osu.ppy.sh/community/forums/20)
   - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
-- Marquez le forum comme lu en utilisant le lien en haut a droite.
-- Suivez les nouveaux threads, lisez chacun d'eux et aidez quand vous pouvez, vous pouvez utiliser l'icone non lue pour être sûr de les garder actifs.
-- Lisez les [guides disponibles](/wiki/Guides) pour peaufiner votre connaissance d'osu!. Si vous pensez que certains guides ne sont pas à jour ou mérite d'être traduits, vous pouvez y contribuer !
+- Marquez le forum comme lu en utilisant le lien en bas.
+- Suivez tous les nouveaux fils de discussion, lisez chacun d'entre eux et apportez votre aide quand vous le pouvez ; vous pouvez utiliser les icônes "non lu" pour vous assurer de rester à jour.
+- Lisez les [guides disponibles](/wiki/Guides) pour parfaire vos connaissances d'osu!. Si les guides qui s'y trouvent ne vous satisfont pas, vous pouvez essayer d'y contribuer !
 
-## Aider à vérifier/mod des beatmaps!
+## Aidez-nous à vérifier/modder les beatmaps !
 
-osu! a une équipe d'évaluateurs dédiée pour vérifier si les [beatmaps](/wiki/Beatmap) sont prêtes a être ranked et jouée par tous. Cependant, cela ne veux pas dire que vous ne pouvez pas y contribuer :
+osu! dispose d'une équipe de reviewers qui vérifient si les [beatmaps](/wiki/Beatmap) sont prêtes à être classées et jouées par tous. Cependant, cela ne signifie pas que vous ne pouvez pas contribuer à ce secteur :
 
-- Parcourez ou rechercher les listes de [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) d'artistes ou chansons que vous aimez ou auquel vous voudriez contribuer.
-- Jouez des beatmaps avec un statut [*Pending* ou *Work-in-progress*](/wiki/Beatmap/Category#work-in-progress-et-en-attente) et donnez un feedback sur la page de discussion de la beatmap.
-- Lire le [guide de modding](/wiki/Modding) et les [critères de ranking](/wiki/Ranking_Criteria) pour connaitre les bases du modding ainsi que les différents critères qui rendent une beatmap prête pour le statut "Classée" (Ranked).
-- Rejoignez les chats in-game `#mapping` et `#modreqs` et conversez ou gardez un œil sur le canal pour apporter votre aide si nécessaire.
-- Si le modding vous intéresse, créez une [Modding Queue](https://osu.ppy.sh/community/forums/60) pour permettre aux créateurs de beatmaps de pouvoir vous demander des mods.
+- Regardez ou cherchez dans la liste [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) les artistes ou les musiques que vous aimez et/ou auxquels vous voulez contribuer.
+- Jouez les beatmaps aux stades [*En attente* ou *Work in progress*](/wiki/Beatmap/Category#work-in-progress-et-en-attente) et laissez vos commentaires sur la page de discussion de la beatmap.
+- Lisez le [Guide de modding](/wiki/Modding) et les [Critères de classement](/wiki/Ranking_Criteria) pour connaître les bases du modding technique et savoir ce qui rend une beatmap classable.
+- Rejoignez les `#mapping` et `#modreqs` sur le tchat en jeu et participez à la conversation ou suivez simplement.
+- Si vous avez le temps et l'envie, créez une [Modding Queue](https://osu.ppy.sh/community/forums/60) pour permettre aux créateurs des beatmaps de vous demander des mods.
 
-## Aider ou rejoindre des projets en cours
+## Aidez ou rejoignez des projets communautaires gérés par les utilisateurs
 
-osu! a une communauté florissante de personnes techniques et compétitives. Ils vont des bricoleurs amateurs aux vétérans des jeux de rythme. Il y a de nombreuses propositions et projets réalisés exclusivement pour osu! et vous pouvez les aider, ou contribuer au futur d'osu! avec vos propres propositions/projets !
+osu! a une communauté florissante de personnes techniques et compétitives. Ils vont du bricoleur amateur au vétéran chevronné des jeux de rythme. De nombreuses propositions et projets sont en cours d'élaboration exclusivement pour osu! et vous pouvez les aider, ou conduire l'avenir d'osu! avec vos propres propositions/projets !
 
-Voici plusieurs manières de contribuer aux projets de la communauté :
+Vous trouverez ci-dessous quelques-unes des façons dont vous pouvez contribuer :
 
-- Parcourir le forum [Tournaments](https://osu.ppy.sh/community/forums/55). Les tournois prennent beaucoup de temps et d'énergie à organiser pour qu'ils se passent sans accroc, dans certains cas, vous pouvez aider en arbitrant les matches.
-- Vérifiez ce qu'il se passe sur le forum [Development](https://osu.ppy.sh/community/forums/2), c'est ici que les projets les plus sérieux sont maintenus.
-  - Rejoignez le [Discord osu!dev](https://discord.gg/ppy)! Même si vous souhaitez simplement suivre ce qu'il se passe et rester à jour sur le développement d'osu! ainsi que ses projets annexes.
-- Rejoignez un [projet de beatmap](https://osu.ppy.sh/community/forums/53) et apprenez à quel point la collaboration avec d'autres personnes peut être amusante !
-- Initiez votre propre projet ! Qu'il s'agisse de créer un modèle de jet privé au nom d'osu! ou tout simplement créer un projet relatif à osu! qui vous tient à cœur, tout est accepté !
+- Parcourez le forum [Tournaments](https://osu.ppy.sh/community/forums/55). Les tournois demandent beaucoup de temps et de travail pour être organisés sans accroc, et vous pouvez aider en étant juge spectateur dans certains cas.
+- Vérifiez ce qui se passe dans le forum [Development](https://osu.ppy.sh/community/forums/2) ; c'est là que se déroulent la plupart des projets sérieux.
+  - Rejoignez le [Discord osu!dev](https://discord.gg/ppy) ! Le simple fait de suivre et de rester au courant du développement et des projets d'osu! est un bon moyen de rester informé.
+- Rejoignez un [beatmap project](https://osu.ppy.sh/community/forums/53) et apprenez à quel point la collaboration avec d'autres personnes peut être amusante !
+- Lancez votre propre projet ! Qu'il s'agisse de faire revenir le dancing pippi, ou simplement de faire quelque chose de cool pour osu!, tout est accepté !
 
-## Contribuer au futur d'osu!
+## Contribuez à l'avenir d'osu!
 
-Démarré en 2017, le projet osu!lazer est le centre d'interêt actuel de l'équipe d'osu!, accompagné du nouveau site web, qui est celui que vous voyez actuellement ! Si vous voulez aider à améliorer ces projets, ci-dessous voici quelques exemples-type de contributions :
+Démarré en 2017, le projet osu!lazer est le centre d'intérêt actuel de [l'équipe d'osu!](/wiki/People/The_Team), ainsi que le nouveau site web, qui est ce que vous voyez aujourd'hui ! Si vous souhaitez aider à rendre ces projets encore meilleurs et nous rapprocher de l'avenir d'osu!, il y a un certain nombre de choses que vous pouvez faire, mais ci-dessous ne sont que quelques exemples :
 
-- Aidez le projet [osu!lazer](https://github.com/ppy/osu). Il y a encore beaucoup de fonctionnalités à implémenter sur la nouvelle version d'osu!, et vous pouvez nous aider !
-- Rendez le [nouveau site web](https://github.com/ppy/osu-web) meilleur.
+- Aider le projet [osu!lazer](https://github.com/ppy/osu). Il y a tellement de choses à implémenter dans la nouvelle version d'osu! et vous pouvez aider à les réaliser !
+- Rendre le [nouveau site web](https://github.com/ppy/osu-web) encore meilleur.
 
-## Évitez d'être négatif !
+## Évitez d'être négatif ! Rendez les gens heureux !
 
-Il y a un vieil adage selon lequel vous devriez faire partie de la solution, pas du problème. En le suivant, vous aidez osu! en faisant de la communauté un endroit meilleur. Les gens se plaindront toujours, mais il y aura toujours des manières de remonter le moral de la communauté :
+Un vieux dicton dit qu'il faut faire partie de la solution et non du problème. En suivant ce vieux dicton, vous aideriez osu! en rendant la communauté plus lumineuse. Les gens se plaindront toujours, mais il existe encore de nombreuses façons de contribuer à améliorer l'humeur de la communauté :
 
-- Soyez amicaux avec les autres, la vie est trop courte pour se disputer.
-- [Signalez les tricheurs quand vous les voyez](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play). Veuillez ne pas vous plaindre à leur sujet ou en parler sur les canaux de discussions, car un simple `!report <username> semble tricher` peut résoudre vos problèmes assez rapidement. 
-- Faites tout votre possible pour régler les situations négatives et les transformer en résultats positifs.
+- Soyez amicaux les uns envers les autres ; la vie est trop courte pour se disputer.
+- [Signalez les tricheurs lorsque vous les voyez](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play). Veuillez ne pas vous plaindre d'eux par d'autres moyens, car un simple `!report <username> seems to be cheating` peut régler vos problèmes en quelques minutes ou quelques heures.
+- Faites tout ce que vous pouvez pour gérer les situations négatives et les transformer en résultats positifs.
 
-**Bien que cet article ne puisse pas couvrir tous les points sur lesquels vous pouvez aider la communauté osu!, le simple fait de jouer au jeu peut aussi rendre osu! encore plus génial!**
+**Bien que cet article ne puisse pas couvrir tout ce que vous pouvez faire pour aider la communauté d'osu!, le simple fait de jouer peut rendre osu! encore plus génial !**
