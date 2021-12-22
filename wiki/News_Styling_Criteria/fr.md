@@ -2,7 +2,7 @@
 
 *Pour les articles du wiki, voir : [Critères de mise en forme des articles](/wiki/Article_styling_criteria)*
 
-**Attention : les articles de news sont disponible uniquement en Anglais, et une traduction de ces articles dans d'autres langues n'est pas prévu.**
+**Attention : les articles de news sont disponibles uniquement en Anglais, et une traduction de ces articles dans d'autres langues n'est pas prévu.**
 
 Les articles de news existent sur un système légèrement différent du wiki principal d'osu!, mais suivent des principes similaires. Leur rédaction implique une attention particulière à quelques caractéristiques et formats clés, comme indiqué ci-dessous.
 
@@ -50,7 +50,7 @@ Les articles de news sont des fichiers markdown (``.md``) nommés selon le forma
 
 Où `yyyy` est l'année à 4 chiffres, `mm` est le mois à 2 chiffres, et `dd` est la date à 2 chiffres.
 
-Les chaînes de titre d'article pour les noms de fichier sont le titre de l'article lui-même avec tous les espaces remplacés par des traits d'union (`-`), et tous les caractères supplémentaires tels que les points (`.`), les points d'exclamation (`!`), les points d'interrogation (` ? `), les virgules (`,`), les apostrophes (`'`), les guillemets (`"`), moins que (`<`), plus que (`>`), les deux-points (`:`), les barres obliques (`/`), les barres obliques (`\`), les barres verticales (`|`) et les astérisques (`*`) sont retirés.
+Les noms des fichier sont le titre de l'article lui-même avec tous les espaces remplacés par des traits d'union (`-`), et tous les caractères supplémentaires tels que les points (`.`), les points d'exclamation (`!`), les points d'interrogation (`?`), les virgules (`,`), les apostrophes (`'`), les guillemets (`"`), moins que (`<`), plus que (`>`), les deux-points (`:`), les barres obliques (`/`), les barres obliques (`\`), les barres verticales (`|`) et les astérisques (`*`) sont retirés.
 
 ### En-têtes des fichiers
 
@@ -84,7 +84,7 @@ Les niveaux d'en-tête 1 (``#``), 2 (``##``) et 3 (``###``) peuvent être utilis
 
 #### Gras
 
-Les caractères gras sont réservés à la mise en évidence d'objets ou de phrases importants, qu'il s'agisse de joueurs, de scores ou de tout autre élément considéré contextuellement comme un point central de l'article en question.
+Les caractères gras sont réservés à la mise en évidence d'objets ou de phrases importantes, qu'il s'agisse de joueurs, de scores ou de tout autre élément considéré contextuellement comme un point central de l'article en question.
 
 #### Italiques
 
