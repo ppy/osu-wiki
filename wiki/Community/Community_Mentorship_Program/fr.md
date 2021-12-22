@@ -2,6 +2,7 @@
 stub: true
 tags:
   - mentoring
+  - mentorat
 ---
 
 # Community Mentorship Program
@@ -9,8 +10,6 @@ tags:
 Le **Community Mentorship Program** est un moyen pour les mappeurs inexpérimentés de s'engager dans la communauté de mapping grâce au mentorship de mappeurs ou de moddeurs expérimentés. 
 
 Le programme est organisé via Discord et est géré par cycles saisonniers. Chaque cycle est annoncé via une annonce sur le forum et les cycles occasionnels sont annoncés via des annonces sur la page d'accueil.
-
-<!-- TODO: fill with current mentorship information -->
 
 ## Programmes de mentorship antérieurs
 

@@ -50,11 +50,11 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 *Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-- ![](/wiki/shared/diff/easy-c.png) Cup
-- ![](/wiki/shared/diff/normal-c.png) Salad
-- ![](/wiki/shared/diff/hard-c.png) Platter
-- ![](/wiki/shared/diff/insane-c.png) Rain
-- ![](/wiki/shared/diff/expert-c.png) Overdose
+- ![](/wiki/shared/diff/easy-c.png?20211215) Cup
+- ![](/wiki/shared/diff/normal-c.png?20211215) Salad
+- ![](/wiki/shared/diff/hard-c.png?20211215) Platter
+- ![](/wiki/shared/diff/insane-c.png?20211215) Rain
+- ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
 ### Snapping reference table
 
@@ -66,7 +66,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 | **Rain** | 125 ms or higher | 62-124 ms | 125 ms or higher | 62-124 ms |
 | **Overdose** | - | - | - | - |
 
-### ![](/wiki/shared/diff/easy-c.png) Cup
+### ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 
 #### Rules
 
@@ -84,7 +84,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - [HP Drain Rate](/wiki/Beatmapping/HP_drain_rate) should be between 2 and 3.
 - [Circle Size](/wiki/Beatmapping/Circle_size) should be between 2 and 3.
 
-### ![](/wiki/shared/diff/normal-c.png) Salad
+### ![](/wiki/shared/diff/normal-c.png?20211215) Salad
 
 #### Rules
 
@@ -109,7 +109,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - [HP Drain Rate](/wiki/Beatmapping/HP_drain_rate) should be between 3 and 4.
 - [Circle Size](/wiki/Beatmapping/Circle_size) should be between 2.5 and 3.5.
 
-### ![](/wiki/shared/diff/hard-c.png) Platter
+### ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 
 #### Rules
 
@@ -139,7 +139,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - [HP Drain Rate](/wiki/Beatmapping/HP_drain_rate) should be between 4 and 5.
 - [Circle Size](/wiki/Beatmapping/Circle_size) should be between 3 and 4.
 
-### ![](/wiki/shared/diff/insane-c.png) Rain
+### ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 
 #### Rules
 
@@ -165,7 +165,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - [HP Drain Rate](/wiki/Beatmapping/HP_drain_rate) should be between 5 and 6.
 - [Circle Size](/wiki/Beatmapping/Circle_size) should be between 3 and 5.
 
-### ![](/wiki/shared/diff/expert-c.png) Overdose
+### ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
 #### Rules
 

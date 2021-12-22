@@ -227,7 +227,7 @@ El botón de **Insertar Descanso** pondrá/detendrá el "Descanso" en la marca d
 | :-- | :-- |
 | Doble línea Blanca | Medida |
 | Línea Blanca | Tiempo común |
-| Línea Verde | Tú / Linea de juicio |
+| Línea Verde | Tú / Linea de [juicio](/wiki/Gameplay/Judgement) |
 | Color Azul | Nota seleccionada actualmente |
 | Color Blanco/Rosa/Amarillo | Color de notas normales |
 

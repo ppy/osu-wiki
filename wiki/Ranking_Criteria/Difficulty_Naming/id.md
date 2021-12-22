@@ -1,11 +1,6 @@
----
-outdated: true
-outdated_since: 460d8a7a68bd338ad0184df32162877166038f1d
----
-
 # Penamaan tingkat kesulitan
 
-Tujuan dari penamaan tingkat kesulitan adalah untuk memberi tahu pemain seberapa sulit map itu. Artikel ini mencantumkan konvensi umum serta alternatif lain yang telah dikumpulkan selama bertahun-tahun. Namun, selama kumpulan dari nama tingkat kesulitan itu bersifat deskriptif dan dengan jelas menunjukkan perkembangan kesulitan, Anda dapat menggunakan jenis skema apapun.
+Tujuan dari penamaan tingkat kesulitan adalah untuk memberi tahu pemain seberapa sulit map itu. Artikel ini mencantumkan konvensi umum serta alternatif lain yang telah dikumpulkan selama bertahun-tahun. Namun, selama kumpulan dari nama tingkat kesulitan itu bersifat deskriptif dan menunjukkan eskalasi kesulitan secara jelas, kamu dapat menggunakan jenis skema apapun.
 
 ## Bawaan
 
@@ -15,36 +10,35 @@ Nama-nama tingkat kesulitan ini paling umum digunakan untuk setiap mode permaina
 
 ### osu!
 
-- ![](/wiki/shared/diff/easy-o.png) Easy
-- ![](/wiki/shared/diff/normal-o.png) Normal
-- ![](/wiki/shared/diff/hard-o.png) Hard
-- ![](/wiki/shared/diff/insane-o.png) Insane
-- ![](/wiki/shared/diff/expert-o.png) Expert
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-o.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
 ### osu!taiko
 
-- ![](/wiki/shared/diff/easy-t.png) Kantan
-- ![](/wiki/shared/diff/normal-t.png) Futsuu
-- ![](/wiki/shared/diff/hard-t.png) Muzukashii
-- ![](/wiki/shared/diff/insane-t.png) Oni
-- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni
+- ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
+- ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
+- ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png?20211215) Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
 
 ### osu!catch
 
-- ![](/wiki/shared/diff/easy-c.png) Cup
-- ![](/wiki/shared/diff/normal-c.png) Salad
-- ![](/wiki/shared/diff/hard-c.png) Platter
-- ![](/wiki/shared/diff/insane-c.png) Rain
-- ![](/wiki/shared/diff/expert-c.png) Overdose
+- ![](/wiki/shared/diff/easy-c.png?20211215) Cup
+- ![](/wiki/shared/diff/normal-c.png?20211215) Salad
+- ![](/wiki/shared/diff/hard-c.png?20211215) Platter
+- ![](/wiki/shared/diff/insane-c.png?20211215) Rain
+- ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
 ### osu!mania
 
-- ![](/wiki/shared/diff/easy-m.png) Easy
-- ![](/wiki/shared/diff/normal-m.png) Normal
-- ![](/wiki/shared/diff/hard-m.png) Hard
-- ![](/wiki/shared/diff/insane-m.png) Insane
-- ![](/wiki/shared/diff/expert-m.png) Expert
+- ![](/wiki/shared/diff/easy-m.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-m.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-m.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-m.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
 ## Skema penamaan tingkat kesulitan dari game lain
 
@@ -52,146 +46,148 @@ Mapset yang memiliki lagu yang berasal dari game ritme lain sering kali mengguna
 
 ### Beatmania IIDX
 
-- ![](/wiki/shared/diff/easy-o.png) Beginner
-- ![](/wiki/shared/diff/normal-o.png) Normal
-- ![](/wiki/shared/diff/hard-o.png) Hyper
-- ![](/wiki/shared/diff/insane-o.png) Another
-- ![](/wiki/shared/diff/expert-o.png) Black Another
-- ![](/wiki/shared/diff/expertplus-o.png) Leggendaria
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper
+- ![](/wiki/shared/diff/insane-o.png?20211215) Another
+- ![](/wiki/shared/diff/expert-o.png?20211215) Black Another
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Leggendaria
 
 ### DanceDanceRevolution
 
-- ![](/wiki/shared/diff/easy-o.png) Beginner
-- ![](/wiki/shared/diff/normal-o.png) Basic
-- ![](/wiki/shared/diff/hard-o.png) Difficult
-- ![](/wiki/shared/diff/insane-o.png) Expert
-- ![](/wiki/shared/diff/expert-o.png) Challenge
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner
+- ![](/wiki/shared/diff/normal-o.png?20211215) Basic
+- ![](/wiki/shared/diff/hard-o.png?20211215) Difficult
+- ![](/wiki/shared/diff/insane-o.png?20211215) Expert
+- ![](/wiki/shared/diff/expert-o.png?20211215) Challenge
 
 ### DJMAX
 
-- ![](/wiki/shared/diff/easy-o.png) EZ
-- ![](/wiki/shared/diff/normal-o.png) NM
-- ![](/wiki/shared/diff/hard-o.png) HD
-- ![](/wiki/shared/diff/insane-o.png) MX
-- ![](/wiki/shared/diff/expert-o.png) SC
+- ![](/wiki/shared/diff/easy-o.png?20211215) EZ
+- ![](/wiki/shared/diff/normal-o.png?20211215) NM
+- ![](/wiki/shared/diff/hard-o.png?20211215) HD
+- ![](/wiki/shared/diff/insane-o.png?20211215) MX
+- ![](/wiki/shared/diff/expert-o.png?20211215) SC
 
 ### EZ2DJ, EZ2AC
 
-- ![](/wiki/shared/diff/easy-o.png) EZ
-- ![](/wiki/shared/diff/normal-o.png) NM
-- ![](/wiki/shared/diff/hard-o.png) HD
-- ![](/wiki/shared/diff/insane-o.png) SHD
-- ![](/wiki/shared/diff/expert-o.png) EX
+- ![](/wiki/shared/diff/easy-o.png?20211215) EZ
+- ![](/wiki/shared/diff/normal-o.png?20211215) NM
+- ![](/wiki/shared/diff/hard-o.png?20211215) HD
+- ![](/wiki/shared/diff/insane-o.png?20211215) SHD
+- ![](/wiki/shared/diff/expert-o.png?20211215) EX
 
 ### In The Groove
 
-- ![](/wiki/shared/diff/easy-o.png) Novice
-- ![](/wiki/shared/diff/easy-o.png) Easy
-- ![](/wiki/shared/diff/normal-o.png) Medium
-- ![](/wiki/shared/diff/hard-o.png) Hard
-- ![](/wiki/shared/diff/insane-o.png) Expert
+- ![](/wiki/shared/diff/easy-o.png?20211215) Novice
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Medium
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-o.png?20211215) Expert
 
 ### Pop'n Music
 
-- ![](/wiki/shared/diff/easy-o.png) Easy
-- ![](/wiki/shared/diff/normal-o.png) Normal
-- ![](/wiki/shared/diff/hard-o.png) Hyper
-- ![](/wiki/shared/diff/insane-o.png) EX
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper
+- ![](/wiki/shared/diff/insane-o.png?20211215) EX
 
 ### SOUND VOLTEX
 
 *Catatan: Banyak mapset dari lagu-lagu SOUND VOLTEX sering menggunakan nama tingkat kesulitan dari berbagai versi game, meskipun lagu tersebut tidak muncul di semuanya.*
 
-- ![](/wiki/shared/diff/easy-o.png) BASIC / BSC
-- ![](/wiki/shared/diff/normal-o.png) NOVICE / NOV
-- ![](/wiki/shared/diff/hard-o.png) ADVANCED / ADV
-- ![](/wiki/shared/diff/insane-o.png) EXHAUST / EXH
+- ![](/wiki/shared/diff/easy-o.png?20211215) BASIC / BSC
+- ![](/wiki/shared/diff/normal-o.png?20211215) NOVICE / NOV
+- ![](/wiki/shared/diff/hard-o.png?20211215) ADVANCED / ADV
+- ![](/wiki/shared/diff/insane-o.png?20211215) EXHAUST / EXH
 
 #### SOUND VOLTEX II -infinite infection-
 
-- ![](/wiki/shared/diff/expert-o.png) INFINITE / INF
+- ![](/wiki/shared/diff/expert-o.png?20211215) INFINITE / INF
 
 #### SOUND VOLTEX III GRAVITY WARS
 
-- ![](/wiki/shared/diff/expert-o.png) GRAVITY / GRV
+- ![](/wiki/shared/diff/expert-o.png?20211215) GRAVITY / GRV
 
 #### SOUND VOLTEX IV HEAVENLY HAVEN
 
-- ![](/wiki/shared/diff/expert-o.png) MAXIMUM / MXM
-- ![](/wiki/shared/diff/expertplus-o.png) HEAVENLY / HVN
+- ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) HEAVENLY / HVN
 
 #### SOUND VOLTEX VIVID WAVE
 
-- ![](/wiki/shared/diff/expert-o.png) MAXIMUM / MXM
-- ![](/wiki/shared/diff/expertplus-o.png) VIVID / VVD
+- ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) VIVID / VVD
 
 ### Arcaea
 
-- ![](/wiki/shared/diff/normal-o.png) Past
-- ![](/wiki/shared/diff/hard-o.png) Present
-- ![](/wiki/shared/diff/insane-o.png) Future
-- ![](/wiki/shared/diff/expert-o.png) Beyond
+- ![](/wiki/shared/diff/normal-o.png?20211215) Past
+- ![](/wiki/shared/diff/hard-o.png?20211215) Present
+- ![](/wiki/shared/diff/insane-o.png?20211215) Future
+- ![](/wiki/shared/diff/expert-o.png?20211215) Beyond
 
 ### Lanota
 
-- ![](/wiki/shared/diff/normal-o.png) Whisper
-- ![](/wiki/shared/diff/hard-o.png) Acoustic
-- ![](/wiki/shared/diff/insane-o.png) Ultra
-- ![](/wiki/shared/diff/expert-o.png) Master
+- ![](/wiki/shared/diff/normal-o.png?20211215) Whisper
+- ![](/wiki/shared/diff/hard-o.png?20211215) Acoustic
+- ![](/wiki/shared/diff/insane-o.png?20211215) Ultra
+- ![](/wiki/shared/diff/expert-o.png?20211215) Master
 
 ### maimai, CHUNITHM, Ongeki
 
-- ![](/wiki/shared/diff/easy-o.png) EASY
-- ![](/wiki/shared/diff/normal-o.png) BASIC
-- ![](/wiki/shared/diff/hard-o.png) ADVANCED
-- ![](/wiki/shared/diff/insane-o.png) EXPERT
-- ![](/wiki/shared/diff/expert-o.png) MASTER
+- ![](/wiki/shared/diff/easy-o.png?20211215) EASY
+- ![](/wiki/shared/diff/normal-o.png?20211215) BASIC
+- ![](/wiki/shared/diff/hard-o.png?20211215) ADVANCED
+- ![](/wiki/shared/diff/insane-o.png?20211215) EXPERT
+- ![](/wiki/shared/diff/expert-o.png?20211215) MASTER
 
 #### maimai
 
-- ![](/wiki/shared/diff/expertplus-o.png) Re:MASTER
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Re:MASTER
 
 #### CHUNITHM
 
-- ![](/wiki/shared/diff/expertplus-o.png) WORLD'S END
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) WORLD'S END
 
 #### Ongeki
 
-- ![](/wiki/shared/diff/expertplus-o.png) LUNATIC
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) LUNATIC
 
 ### Cytus, Deemo, VOEZ
 
-- ![](/wiki/shared/diff/easy-o.png) Easy
-- ![](/wiki/shared/diff/normal-o.png) Normal
-- ![](/wiki/shared/diff/hard-o.png) Hard
-- ![](/wiki/shared/diff/insane-o.png) Insane
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 
 #### Cytus
 
-- ![](/wiki/shared/diff/expert-o.png) Chaos
+- ![](/wiki/shared/diff/expert-o.png?20211215) Chaos
 
 #### Deemo
 
-- ![](/wiki/shared/diff/expert-o.png) Extra
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra
 
 #### VOEZ
 
-- ![](/wiki/shared/diff/expert-o.png) Special
+- ![](/wiki/shared/diff/expert-o.png?20211215) Special
 
 ### Touhou Project
 
-- ![](/wiki/shared/diff/easy-o.png) Easy
-- ![](/wiki/shared/diff/normal-o.png) Normal
-- ![](/wiki/shared/diff/hard-o.png) Hard
-- ![](/wiki/shared/diff/insane-o.png) Lunatic
-- ![](/wiki/shared/diff/expert-o.png) Extra / Extra Stage / Phantasm
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-o.png?20211215) Lunatic
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra / Extra Stage / Phantasm
 
 ## Alternatif yang diterima secara luas
 
 Nama tingkat kesulitan berikut adalah alternatif umum dan tambahan untuk nama tingkat kesulitan bawaan:
 
-- ![](/wiki/shared/diff/easy-o.png) Beginner: dalam spread Easy-Normal-Hard-Insane-Expert, ini mengacu pada tingkat kesulitan terendah, bahkan di bawah Easy.
-- ![](/wiki/shared/diff/normal-o.png) Advanced: dalam spread Easy-Normal-Hard-Insane-Expert, ini adalah tingkat kesulitan antara Normal dan Hard.
-- ![](/wiki/shared/diff/hard-o.png) Hyper: dalam spread Easy-Normal-Hard-Insane-Expert, yaitu tingkat kesulitan antara Hard dan Insane.
-- ![](/wiki/shared/diff/expert-o.png) Extra: dapat digunakan sebagai pengganti Expert.
-- ![](/wiki/shared/diff/expertplus-o.png) Extreme: dapat digunakan sebagai Expert yang lebih sulit.
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: dalam spread Easy-Normal-Hard-Insane-Expert, ini mengacu pada tingkat kesulitan terendah, bahkan di bawah Easy.
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: dalam spread Kantan-Futsuu-Muzukashii-Oni-Inner Oni, ini mengacu pada tingkat kesulitan terendah, bahkan di bawah Kantan.
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: dalam spread Easy-Normal-Hard-Insane-Expert, ini adalah tingkat kesulitan antara Normal dan Hard.
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: dalam spread Easy-Normal-Hard-Insane-Expert, yaitu tingkat kesulitan antara Hard dan Insane.
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: dapat digunakan sebagai pengganti Expert.
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: dapat digunakan sebagai Expert yang lebih sulit.
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: dapat digunakan sebagai Inner Oni yang lebih sulit.

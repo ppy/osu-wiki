@@ -196,7 +196,7 @@ tags:
 | ![][flag_FI] [Aakki](https://osu.ppy.sh/users/11077540) | Финский |
 | ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280) | Испанский |
 | ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342) |  |
-| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/120247532) | Украинский |
+| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Украинский |
 | ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623) | Норвежский |
 | ![][flag_RU] [Froskya](https://osu.ppy.sh/users/4230454) | Русский |
 | ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | Литовский |
