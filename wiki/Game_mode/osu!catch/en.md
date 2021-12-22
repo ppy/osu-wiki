@@ -74,11 +74,11 @@ The placement of in-game cursor does not matter when playing normally. If [Relax
 
 ## Scoring
 
-[The osu!catch score](/wiki/Gameplay/Score/osu!catch) is a weighted sum of all hit objects' values. It depends on the following:
+[Score in osu!catch](/wiki/Gameplay/Score/osu!catch) is a weighted sum of multiple components of gameplay. It depends on the following:
 
 - [Base scoring values](/wiki/Gameplay/Judgement/osu!catch) of objects are fixed and do not depend on [judgement](/wiki/Gameplay/Judgement).
-- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: the higher it is, the more the object contributes to the total score. In osu!catch, combo may be [broken](/wiki/Glossary/Combobreak) by missing a large fruit or a drop, which also decreases available F[health](/wiki/Beatmapping/Health).
-- [Accuracy](/wiki/Gameplay/Accuracy#osu!catch) shows how many objects were caught in total. Small droplets, when missed, only decrease accuracy, but do not break combo.
+- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: the higher it is, the more the object contributes to the total score. In osu!catch, combo may be [broken](/wiki/Glossary/Combobreak) by missing a large fruit or a drop, which also decreases [health](/wiki/Beatmapping/Health).
+- [Accuracy](/wiki/Gameplay/Accuracy#osu!catch) shows how many objects were caught in total. Small droplets decrease accuracy when missed, but do not break combo.
 
 After the beatmap is over, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!catch), a short accuracy assessment in form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on amount of missed objects.
 

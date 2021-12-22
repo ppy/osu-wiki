@@ -186,10 +186,10 @@ The **[05 March 2015 (2015-03-05) update](https://osu.ppy.sh/home/changelog)** g
 
 ## Scoring
 
-[The osu!mania score](/wiki/Gameplay/Score/osu!mania) is capped at 1 million and consists of two parts, each contributing 50% of total score:
+[Score in osu!mania](/wiki/Gameplay/Score/osu!mania) is capped at 1 million and consists of two parts, each contributing 50% of the total score:
 
-1. Base score, which is [judgement](/wiki/Gameplay/Judgement/osu!mania)-centered. Judgement determines an object's base scoring value (MAX, 300, 200, 100, 50, or 0 in case of a miss).
-2. Bonus score, which is based on judgement and a floating bonus multiplier, which increases with a rainbow 300 or 300, and decreases with a 200 or below.
+1. Base score, which is [judgement](/wiki/Gameplay/Judgement/osu!mania)-centred. Judgement determines a hit object's base scoring value (MAX, 300, 200, 100, 50, or 0 in case of a miss).
+2. Bonus score, which is based on judgement and a floating bonus multiplier, which increases when getting a 300 or rainbow 300, and decreases with a 200 or below.
 
 In addition, score also has the following components:
 
