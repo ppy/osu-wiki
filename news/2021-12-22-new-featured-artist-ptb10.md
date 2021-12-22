@@ -8,7 +8,7 @@ date: 2021-12-22 09:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/227/header.jpg)
 
-Hailing from England, **PTB10** has been constructing his own blend of electronic music inspired by the vast electronic scene (namely rhythm game music) and a touch of film/game scores. In gaming scenes, he first entered the spotlight via the community-focused game *Cytoid*, eventually progressing towards commercial games like *Cytus II*, *DEEMO*, *Dynamix*, *VOEZ*, and much more!
+Hailing from England, **PTB10** has been constructing his own blend of electronic music inspired by the vast electronic scene (namely rhythm game music) and a touch of film/game scores. In gaming scenes, he first entered the spotlight via the community-focused game *Cytoid*, eventually progressing towards commercial games like *Cytus II*, *DEEMO*, *Dynamix*, *VOEZ*, and many more!
 
 **8** mindblowing tracks are at your doorstep and ready for mapping from [**PTB10**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/227).
 
