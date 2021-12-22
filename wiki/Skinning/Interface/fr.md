@@ -843,7 +843,7 @@ Notes :
 
 `hit0.png`
 
-![](img/hit0.png)
+![](/wiki/shared/judgement/osu!/hit0.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -861,7 +861,7 @@ Notes :
 
 `hit50.png`
 
-![](img/hit50.png)
+![](/wiki/shared/judgement/osu!/hit50.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -879,7 +879,7 @@ Notes :
 
 `hit100.png`
 
-![](img/hit100.png)
+![](/wiki/shared/judgement/osu!/hit100.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -897,7 +897,7 @@ Notes :
 
 `hit100k.png`
 
-![](img/hit100k.png)
+![](/wiki/shared/judgement/osu!/hit100k.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -915,7 +915,7 @@ Notes :
 
 `hit300.png`
 
-![](img/hit300.png)
+![](/wiki/shared/judgement/osu!/hit300.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -933,7 +933,7 @@ Notes :
 
 `hit300g.png`
 
-![](img/hit300g.png)
+![](/wiki/shared/judgement/osu!/hit300g.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -951,7 +951,7 @@ Notes :
 
 `hit300k.png`
 
-![](img/hit300k.png)
+![](/wiki/shared/judgement/osu!/hit300k.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
