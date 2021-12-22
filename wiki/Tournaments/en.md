@@ -73,6 +73,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!mania 4K World Cup 2019](MWC/2019_4K) | 2019-09-21 | 2019-10-27 | ![][flag_KR] South Korea | ![][flag_BR] Brazil | ![][flag_US] United States |
 | [osu!mania 4K World Cup 2020](MWC/2020_4K) | 2020-08-15 | 2020-09-20 | ![][flag_BR] Brazil | ![][flag_JP] Japan | ![][flag_KR] South Korea |
 | [osu!mania 4K World Cup 2021](MWC/2021_4K) | 2021-07-31 | 2021-09-19 | ![][flag_BR] Brazil | ![][flag_US] United States | ![][flag_MY] Malaysia |
+| [osu!mania 7K World Cup 2022](MWC/2022_7K) | 2021-12-16 | 2022-02-20 | TBD | TBD | TBD |
 
 ## Community
 
@@ -332,7 +333,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [UK Community Cup 8](UKCC/8) | 2020-03-28 | 2020-05-17 | 10man? | will is minecart | Gaurdians of Valhalla |
 | [UK Community Cup 9](UKCC/9) | 2020-08-29 | 2020-10-11 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup X](UKCC/X) | 2021-02-06 | 2021-04-12 | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) | ![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761) | ![][flag_GB] [Kerantina](https://osu.ppy.sh/users/7516484) |
-| [UK Community Cup 10](UKCC/10) | 2021-09-11 | 2021-10-31 | *TBA* | *TBA* | *TBA* |
+| [UK Community Cup 10](UKCC/10) | 2021-09-11 | 2021-10-31 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
 
 #### Ulat Bulu Cup
 

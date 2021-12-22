@@ -17,11 +17,11 @@ outdated: true
 
 ### Названия сложностей
 
-- ![Кантан](/wiki/shared/diff/easy-t.png "Кантан") `Кантан` (Kantan), аналог `изи`;
-- ![Футсуу](/wiki/shared/diff/normal-t.png "Футсуу") `Футсуу` (Futsuu), аналог `нормала`;
-- ![Музукаши](/wiki/shared/diff/hard-t.png "Музукаши") `Музукаши` (Muzukashii), аналог `харда`;
-- ![Они](/wiki/shared/diff/insane-t.png "Они") `Они` (Oni), аналог `инсейна`. Ударение на первый слог!
-- ![Иннер](/wiki/shared/diff/expert-t.png "Иннер") `Иннер они` и `Ура они` (Inner Oni, Ura Oni), аналоги `эксперта`.
+- ![Кантан](/wiki/shared/diff/easy-t.png?20211215 "Кантан") `Кантан` (Kantan), аналог `изи`;
+- ![Футсуу](/wiki/shared/diff/normal-t.png?20211215 "Футсуу") `Футсуу` (Futsuu), аналог `нормала`;
+- ![Музукаши](/wiki/shared/diff/hard-t.png?20211215 "Музукаши") `Музукаши` (Muzukashii), аналог `харда`;
+- ![Они](/wiki/shared/diff/insane-t.png?20211215 "Они") `Они` (Oni), аналог `инсейна`. Ударение на первый слог!
+- ![Иннер](/wiki/shared/diff/expert-t.png?20211215 "Иннер") `Иннер они` и `Ура они` (Inner Oni, Ura Oni), аналоги `эксперта`.
 
 ### Игровые элементы
 

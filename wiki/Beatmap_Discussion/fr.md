@@ -92,7 +92,7 @@ Le train de la hype permet de savoir combien de [hypes](/wiki/Beatmap/Hype) un m
 
 ### Statut de la nomination
 
-Le statut de la nomination permet de suivre les nominations d'une beatmap. Lorsqu'une beatmap a reçu deux nominations, elle est qualifié.
+Le statut de la nomination permet de suivre les nominations d'une beatmap. Lorsqu'une beatmap a reçu deux nominations, elle est [qualifié](/wiki/Beatmap/Category#qualifiée).
 
 ### Informations générales
 
