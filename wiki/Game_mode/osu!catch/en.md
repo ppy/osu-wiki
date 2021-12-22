@@ -76,6 +76,7 @@ The placement of in-game cursor does not matter when playing normally. If [Relax
 
 [Score in osu!catch](/wiki/Gameplay/Score/osu!catch) is a weighted sum of multiple components of gameplay. It depends on the following:
 
+- [Judgement](/wiki/Gameplay/Judgement) only provides fixed score values for each caught hit object and does not depend on hit accuracy.
 - [Base scoring values](/wiki/Gameplay/Judgement/osu!catch) of objects are fixed and do not depend on [judgement](/wiki/Gameplay/Judgement).
 - [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: the higher it is, the more the object contributes to the total score. In osu!catch, combo may be [broken](/wiki/Glossary/Combobreak) by missing a large fruit or a drop, which also decreases [health](/wiki/Beatmapping/Health).
 - [Accuracy](/wiki/Gameplay/Accuracy#osu!catch) shows how many objects were caught in total. Small droplets decrease accuracy when missed, but do not break combo.

@@ -89,7 +89,7 @@ If [Relax](/wiki/Game_modifier/Relax) mod was used, the score judgement only acc
 - [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: the higher it is, the more the object contributes to the total score. Combo may be [broken](/wiki/Glossary/Combobreak) by a miss. In osu!taiko, the score multiplier derived from combo is limited and doesn't affect total score as much as it does in osu! or osu!catch.
 - [Kiai time](/wiki/Kiai_time): in osu!taiko, active kiai time increases score gain by 20%, just as it does in the original *Taiko no Tatsujin* series.
 
-In addition to score boost, each cleared object fills a small part of the [health bar](/wiki/Glossary/Health_bar), which must be at least **50% full** for a player to pass the beatmap.
+In addition to giving score, each cleared object fills a small part of the [health bar](/wiki/Glossary/Health_bar), which must be at least **50% full** for a player to pass a beatmap.
 
 After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!taiko), a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on the amount of 300s, 100s, and misses.
 
