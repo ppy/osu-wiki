@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: c5ee74153aa8ac008034cce4efe4be4350f8034b
----
-
 # Pertemuan komunitas osu!
 
 **Pertemuan komunitas osu!** adalah panel diskusi yang diadakan oleh [tim inti osu!](/wiki/People/The_Team) setiap dua minggu sekali. Tujuan utama dari pertemuan-pertemuan tersebut adalah untuk memberikan kesempatan kepada seluruh pihak untuk berbicara secara langsung dengan pengembang dan orang-orang yang bertanggung jawab dalam mengatur komunitas untuk membahas tentang suatu hal atau pertimbangan lebih lanjut.
@@ -31,16 +26,16 @@ Kami menargetkan untuk membahas sebuah pertanyaan tidak lebih lama daripada 5 me
 
 Pertemuan komunitas osu! pertama diadakan pada 19 September 2021. Semua pertemuan yang telah dan akan terjadi akan terus direkam di YouTube bersama dokumen ringkasan pertemuan.
 
-| Pertemuan ke # | Tautan | Ringkasan |
-| :-: | :-- | :-- |
-| 0 | [19 September 2021](https://youtu.be/-LjNll8VYTM) | [Notulen pertemuan](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) |
-| 1 | [3 Oktober 2021](https://youtu.be/D3OZCm6szVE) | [Notulen pertemuan](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) |
-| 2 | [17 Oktober 2021](https://youtu.be/nLT-fLeogrw) | [Notulen pertemuan](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) |
-| 3 | [31 Oktober 2021](https://youtu.be/omvZbC7zJUI) | [Notulen pertemuan](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) |
-| 4 | [14 November 2021](https://youtu.be/rEWgTY-L95Y) | [Notulen pertemuan](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) |
-| 5 | [28 November 2021](https://youtu.be/SqMrY26Q6Tw) | [Notulen pertemuan](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) |
-| 6 | [11 Desember 2021](https://youtu.be/dtGjIyTFtMA) | [Notulen pertemuan](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) |
-| 7 | [18 Desember 2021](https://www.twitch.tv/videos/1236856715) | [Notulen pertemuan](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) |
+| Pertemuan ke # | Tautan | Ringkasan | Agenda |
+| :-: | :-- | :-- | :-- |
+| 0 | [19 September 2021](https://youtu.be/-LjNll8VYTM) | [Notulen pertemuan](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Perkenalan meeting ini, ranking criteria, tingkat kesulitan, dan performance point, serta osu!lazer secara umum |
+| 1 | [3 Oktober 2021](https://youtu.be/D3OZCm6szVE) | [Notulen pertemuan](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | Pertanyaan-pertanyaan beragam dari komunitas dan berita mengenai pengembangan game |
+| 2 | [17 Oktober 2021](https://youtu.be/nLT-fLeogrw) | [Notulen pertemuan](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | Pertanyaan-pertanyaan beragam dari komunitas |
+| 3 | [31 Oktober 2021](https://youtu.be/omvZbC7zJUI) | [Notulen pertemuan](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | Pertanyaan-pertanyaan beragam dari komunitas |
+| 4 | [14 November 2021](https://youtu.be/rEWgTY-L95Y) | [Notulen pertemuan](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) | Proses pengembangan performance point, pertanyaan-pertanyaan beragam dari komunitas, dan berita mengenai pengembangan game |
+| 5 | [28 November 2021](https://youtu.be/SqMrY26Q6Tw) | [Notulen pertemuan](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) | Pertanyaan-pertanyaan beragam dari komunitas dan berita mengenai pengembangan game |
+| 6 | [11 Desember 2021](https://youtu.be/dtGjIyTFtMA) | [Notulen pertemuan](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) | Masa depan dari osu! World Cup dan pertanyaan-pertanyaan beragam dari komunitas |
+| 7 | [18 Desember 2021](https://www.twitch.tv/videos/1236856715) | [Notulen pertemuan](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) | peppy menjawab berbagai perdebatan dan drama yang terjadi pada komunitas |
 
 ## Tautan terkait
 
