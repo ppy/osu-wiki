@@ -75,7 +75,7 @@ Catatan:
 
 `taiko-hit0.png`
 
-![](img/taiko-hit0.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit0.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Blend Mode | Origin | Ukuran Resolusi SD yang Disarankan |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -90,7 +90,7 @@ Catatan:
 
 `taiko-hit100.png`
 
-![](img/taiko-hit100.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit100.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Blend Mode | Origin | Ukuran Resolusi SD yang Disarankan |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -105,7 +105,7 @@ Catatan:
 
 `taiko-hit100k.png`
 
-![](img/taiko-hit100k.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit100k.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Blend Mode | Origin | Ukuran Resolusi SD yang Disarankan |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -120,7 +120,7 @@ Catatan:
 
 `taiko-hit300.png`
 
-![](img/taiko-hit300.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit300.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Blend Mode | Origin | Ukuran Resolusi SD yang Disarankan |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -135,7 +135,7 @@ Catatan:
 
 `taiko-hit300k.png`
 
-![](img/taiko-hit300k.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit300k.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Blend Mode | Origin | Ukuran Resolusi SD yang Disarankan |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -150,7 +150,7 @@ Catatan:
 
 `taiko-hit300g.png`
 
-![](img/taiko-hit300g.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit300g.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Blend Mode | Origin | Ukuran Resolusi SD yang Disarankan |
 |:-:|:-:|:-:|:-:|:-:|:-:|
