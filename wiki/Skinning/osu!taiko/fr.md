@@ -75,7 +75,7 @@ Notes :
 
 `taiko-hit0.png`
 
-![](img/taiko-hit0.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit0.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -90,7 +90,7 @@ Notes :
 
 `taiko-hit100.png`
 
-![](img/taiko-hit100.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit100.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -105,7 +105,7 @@ Notes :
 
 `taiko-hit100k.png`
 
-![](img/taiko-hit100k.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit100k.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -120,7 +120,7 @@ Notes :
 
 `taiko-hit300.png`
 
-![](img/taiko-hit300.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit300.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -135,7 +135,7 @@ Notes :
 
 `taiko-hit300k.png`
 
-![](img/taiko-hit300k.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit300k.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -150,7 +150,7 @@ Notes :
 
 `taiko-hit300g.png`
 
-![](img/taiko-hit300g.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit300g.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -253,7 +253,7 @@ Notes :
 
 `taiko-glow.png`
 
-<!-- ![](img/taiko-glow.png) -->
+![](img/taiko-glow.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -338,7 +338,7 @@ Notes :
 
 `taiko-bar-left.png`
 
-<!-- ![](img/taiko-bar-left.png) -->
+![](img/taiko-bar-left.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|

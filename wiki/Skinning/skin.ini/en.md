@@ -519,7 +519,7 @@ Keys: 5
   - Notes:
     - If not defined, the height scale of the smallest column width is used
 - `HitPosition:`
-  - Question: On which height should the judgement line be drawn at?
+  - Question: On which height should the [judgement](/wiki/Gameplay/Judgement) line be drawn at?
   - Value: integer
   - Default: `402`
   - Notes:

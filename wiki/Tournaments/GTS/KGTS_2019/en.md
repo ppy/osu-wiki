@@ -79,61 +79,61 @@ This competition has come to an end and resulted in the following podium:
 **[Download the map pack here! (257 MB)](https://mega.nz/#!ksd22AJI!tkIx7KJuhgHlRjBI8NNaUrsJS6QMo960MVon7OsqzTs)**
 
 - NoMod
-  - [Omoi feat. Hatsune Miku - Chiisana Koi no Uta (Synth Rock Cover) (seanhappy8520) \[kata's Taiko\]](https://osu.ppy.sh/beatmapsets/619757#taiko/2125364)
-  - [Camellia feat. Nanahira - Toryoka (katacheh) \[Taiko\]](https://osu.ppy.sh/beatmapsets/1021737#taiko/2137764)
-  - [Camellia feat. Nanahira - NANI THE FUCK!! (katacheh) \[!@#$%^&\*\]](https://osu.ppy.sh/beatmapsets/1030207#taiko/2154163)
-  - [DJ Noriken feat. Nanahira - Sweet Wishes (katacheh) \[LastWish\]](https://osu.ppy.sh/beatmapsets/670625#taiko/1418246)
-  - [Camellia feat. Nanahira - Energy Drink Girl Fein-chan! (Camellia-s "MONSTERISTIC" Remix) (katacheh) \[Cannabis\]](https://osu.ppy.sh/beatmapsets/911801#taiko/1903847)
-  - [Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.) (katacheh) \[Braindropped\]](https://osu.ppy.sh/beatmapsets/758043#taiko/1594580)
+  1. [Omoi feat. Hatsune Miku - Chiisana Koi no Uta (Synth Rock Cover) (seanhappy8520) \[kata's Taiko\]](https://osu.ppy.sh/beatmapsets/619757#taiko/2125364)
+  2. [Camellia feat. Nanahira - Toryoka (katacheh) \[Taiko\]](https://osu.ppy.sh/beatmapsets/1021737#taiko/2137764)
+  3. [Camellia feat. Nanahira - NANI THE FUCK!! (katacheh) \[!@#$%^&\*\]](https://osu.ppy.sh/beatmapsets/1030207#taiko/2154163)
+  4. [DJ Noriken feat. Nanahira - Sweet Wishes (katacheh) \[LastWish\]](https://osu.ppy.sh/beatmapsets/670625#taiko/1418246)
+  5. [Camellia feat. Nanahira - Energy Drink Girl Fein-chan! (Camellia-s "MONSTERISTIC" Remix) (katacheh) \[Cannabis\]](https://osu.ppy.sh/beatmapsets/911801#taiko/1903847)
+  6. [Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.) (katacheh) \[Braindropped\]](https://osu.ppy.sh/beatmapsets/758043#taiko/1594580)
 - Hidden
-  - [Camellia feat. Nanahira - Tsukitourou (Lite Show Magic Remix) (katacheh) \[Taiko\*\]](https://osu.ppy.sh/beatmapsets/715813#taiko/1512541)
+  1. [Camellia feat. Nanahira - Tsukitourou (Lite Show Magic Remix) (katacheh) \[Taiko\*\]](https://osu.ppy.sh/beatmapsets/715813#taiko/1512541)
 - HardRock
-  - [xi - Azalea (katacheh) \[Taiko\]](https://osu.ppy.sh/beatmapsets/921318#taiko/1923909)
+  1. [xi - Azalea (katacheh) \[Taiko\]](https://osu.ppy.sh/beatmapsets/921318#taiko/1923909)
 - DoubleTime
-  - [Liz Triangle - The Night Circus (katacheh) \[kata's kAlEiDoScOpE\]](https://osu.ppy.sh/beatmapsets/429603#taiko/926907)
-  - [FamilyMart Jingle (katacheh) \[kata's FaMiLyMaRt\]](https://osu.ppy.sh/beatmapsets/417976#taiko/904910)
-  - [Valkyrie - Ikenai Borderline (katacheh) \[KataKataEYE\]](https://osu.ppy.sh/beatmapsets/453428#taiko/972337)
+  1. [Liz Triangle - The Night Circus (katacheh) \[kata's kAlEiDoScOpE\]](https://osu.ppy.sh/beatmapsets/429603#taiko/926907)
+  2. [FamilyMart Jingle (katacheh) \[kata's FaMiLyMaRt\]](https://osu.ppy.sh/beatmapsets/417976#taiko/904910)
+  3. [Valkyrie - Ikenai Borderline (katacheh) \[KataKataEYE\]](https://osu.ppy.sh/beatmapsets/453428#taiko/972337)
 - FreeMod
-  - [G.I.Joe - Katacheh (bobson860412) \[katacheh\]](https://osu.ppy.sh/beatmapsets/952496#taiko/1989237)
-  - [Camellia feat. Nanahira - Bassline Yatteru? w (katacheh) \[Line? Holy shit!!\]](https://osu.ppy.sh/beatmapsets/821339#taiko/1721561)
-  - [Toromaru - Enigma II (katacheh) \[Taiko\]](https://osu.ppy.sh/beatmapsets/967637#taiko/2024993)
+  1. [G.I.Joe - Katacheh (bobson860412) \[katacheh\]](https://osu.ppy.sh/beatmapsets/952496#taiko/1989237)
+  2. [Camellia feat. Nanahira - Bassline Yatteru? w (katacheh) \[Line? Holy shit!!\]](https://osu.ppy.sh/beatmapsets/821339#taiko/1721561)
+  3. [Toromaru - Enigma II (katacheh) \[Taiko\]](https://osu.ppy.sh/beatmapsets/967637#taiko/2024993)
 - Tiebreaker
-  - **[RoughSketch & Massive New Krew ft. Nanahira - Extreme Music School (katacheh) \[Taiko^School+Extreme\]](https://osu.ppy.sh/beatmapsets/608906#taiko/1285965)**
+  1. **[RoughSketch & Massive New Krew ft. Nanahira - Extreme Music School (katacheh) \[Taiko^School+Extreme\]](https://osu.ppy.sh/beatmapsets/608906#taiko/1285965)**
 
 ### Week 1
 
 **[Download the map pack here! (61 MB)](https://mega.nz/#!B50RkarY!iGux2mHdNWUx1Yiel9fc0XF7tWNrcxKKODTQEaw6OrU)**
 
 - NoMod
-  - [LeaF - Aleph-0 (katacheh) \[Level Aleph\]](https://osu.ppy.sh/beatmapsets/587295#taiko/1243626)
-  - [t+pazolite feat. Nanahira - Ukakuf Kins (katacheh) \[Tomorrow\]](https://osu.ppy.sh/beatmapsets/961953#taiko/2014222)
+  1. [LeaF - Aleph-0 (katacheh) \[Level Aleph\]](https://osu.ppy.sh/beatmapsets/587295#taiko/1243626)
+  2. [t+pazolite feat. Nanahira - Ukakuf Kins (katacheh) \[Tomorrow\]](https://osu.ppy.sh/beatmapsets/961953#taiko/2014222)
 - Hidden
-  - [ARForest - Final Resonance (katacheh) \[Taiko\]](https://osu.ppy.sh/beatmapsets/1016259#taiko/2126946)
+  1. [ARForest - Final Resonance (katacheh) \[Taiko\]](https://osu.ppy.sh/beatmapsets/1016259#taiko/2126946)
 - HardRock
-  - [xi - over the top (katacheh) \[kata's Taiko\]](https://osu.ppy.sh/beatmapsets/464217#taiko/993972)
+  1. [xi - over the top (katacheh) \[kata's Taiko\]](https://osu.ppy.sh/beatmapsets/464217#taiko/993972)
 - DoubleTime
-  - [Umetora - Ifuudoudou (katacheh) \[kata's UltimateDance\]](https://osu.ppy.sh/beatmapsets/377666#taiko/826668)
-  - [Emilia(CV:Setsunan) - Unfinished START (katacheh) \[Oni\]](https://osu.ppy.sh/beatmapsets/477590#taiko/1207303)
+  1. [Umetora - Ifuudoudou (katacheh) \[kata's UltimateDance\]](https://osu.ppy.sh/beatmapsets/377666#taiko/826668)
+  2. [Emilia(CV:Setsunan) - Unfinished START (katacheh) \[Oni\]](https://osu.ppy.sh/beatmapsets/477590#taiko/1207303)
 - FreeMod
-  - [ARM vs uno - Shoujo Satori no Satorittaa (katacheh) \[kata's-M SatoriTaiko<3\]](https://osu.ppy.sh/beatmapsets/507946#taiko/1080370)
-  - [ARForest - Hemisphere (katacheh) \[kata'sphere\]](https://osu.ppy.sh/beatmapsets/531722#taiko/1130030)
-  - [Camellia feat. Nanahira - Rawstyle Bomb (katacheh) \[ks.\]](https://osu.ppy.sh/beatmapsets/837825#taiko/1754180)
+  1. [ARM vs uno - Shoujo Satori no Satorittaa (katacheh) \[kata's-M SatoriTaiko<3\]](https://osu.ppy.sh/beatmapsets/507946#taiko/1080370)
+  2. [ARForest - Hemisphere (katacheh) \[kata'sphere\]](https://osu.ppy.sh/beatmapsets/531722#taiko/1130030)
+  3. [Camellia feat. Nanahira - Rawstyle Bomb (katacheh) \[ks.\]](https://osu.ppy.sh/beatmapsets/837825#taiko/1754180)
 - Tiebreaker
-  - **[Ryu\* - Cirno's Perfect Math Class - Ryu\* remix - (katacheh) \[kata's PerfectShiftClass\]](https://osu.ppy.sh/beatmapsets/481441#taiko/1027526)**
+  1. **[Ryu\* - Cirno's Perfect Math Class - Ryu\* remix - (katacheh) \[kata's PerfectShiftClass\]](https://osu.ppy.sh/beatmapsets/481441#taiko/1027526)**
 
 ### Qualifiers
 
 **[Download the map pack here! (20 MB)](https://mega.nz/#!99cylKYb!ccf43d3e7MlEQwRM8C0DBwxoe1_ZlagETHCFOviObDg)**
 
 - NoMod
-  - [IOSYS - The dive in cucumber bar (katacheh) \[kata's-M cUcUmbAr\]](https://osu.ppy.sh/beatmapsets/423020#taiko/914272)
-  - [nora2r - ULTRA B+K (bobson860412) \[Bass Kata\]](https://osu.ppy.sh/beatmapsets/559634#taiko/1183557)
+  1. [IOSYS - The dive in cucumber bar (katacheh) \[kata's-M cUcUmbAr\]](https://osu.ppy.sh/beatmapsets/423020#taiko/914272)
+  2. [nora2r - ULTRA B+K (bobson860412) \[Bass Kata\]](https://osu.ppy.sh/beatmapsets/559634#taiko/1183557)
 - Hidden
-  - [IOSYS - Tanoshii Yoru no Ochakai - Ringo's Tea Party (katacheh) \[TaikoParty\]](https://osu.ppy.sh/beatmapsets/468400#taiko/1001889)
+  1. [IOSYS - Tanoshii Yoru no Ochakai - Ringo's Tea Party (katacheh) \[TaikoParty\]](https://osu.ppy.sh/beatmapsets/468400#taiko/1001889)
 - HardRock
-  - [Neko Hacker feat. Nanahira - Chocolate Adventure (katacheh) \[Taiko\]](https://osu.ppy.sh/beatmapsets/947466#taiko/1978869)
+  1. [Neko Hacker feat. Nanahira - Chocolate Adventure (katacheh) \[Taiko\]](https://osu.ppy.sh/beatmapsets/947466#taiko/1978869)
 - DoubleTime
-  - [HimeHina - Hitogata (katacheh) \[Jojijoji Taiko\]](https://osu.ppy.sh/beatmapsets/915443#taiko/1911868)
+  1. [HimeHina - Hitogata (katacheh) \[Jojijoji Taiko\]](https://osu.ppy.sh/beatmapsets/915443#taiko/1911868)
 
 ## Match results
 
