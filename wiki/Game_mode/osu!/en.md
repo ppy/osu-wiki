@@ -108,7 +108,7 @@ If [Auto Pilot](/wiki/Game_modifier/Autopilot) game modifier was used, only the 
 
 When combo is maintained, the total score grows exponentially. Objects closer to the end of the map are worth orders of magnitude more points than the ones in the beginning, which means that a player will lose way more potential score on them in case of mistimed hits. As a result, it's possible and very common for a score with lower accuracy to have a higher amount of points and beat a score with higher accuracy.
 
-After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!), a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on amount of 300s, 50s, and misses.
+After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!), a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on the amount of 300s, 50s, and misses.
 
 ## Skinning
 
