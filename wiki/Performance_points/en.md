@@ -97,7 +97,7 @@ Consider the following tips:
 - Play efficiently and figure out which play style works best for you.
 - Focus on getting a handful of exceptional scores instead of "farming" hundreds of just okay scores.<!-- "farming" will need to be linked once a stub or section is created -->
 - Aim to improve your accuracy. Even 1% makes a massive difference.
-- Aim for higher combos. Full combos (FC) or [SS](/wiki/Grade) scores give tremendous amounts of score.
+- Aim for higher combos. Full combos (FC) or [SS](/wiki/Gameplay/Grade) scores give tremendous amounts of score.
 
 ### Why didn't I gain the full amount of pp from a map I played?
 

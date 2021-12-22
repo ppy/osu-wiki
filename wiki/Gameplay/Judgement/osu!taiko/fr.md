@@ -9,9 +9,9 @@ needs_cleanup: true  # see the original article
 
 | Image | Nom | Effet |
 | :-: | :-: | :-- |
-| ![](/wiki/Skinning/osu!taiko/img/taiko-hit300k.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300g.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300.png "GREAT") | (良) Great | Score obtenu lorsque la note est frappée exactement dans le cercle de jugement, avec la bonne couleur. Image: (1 et 2) Grande Note (3) Petite Note |
-| ![](/wiki/Skinning/osu!taiko/img/taiko-hit100k.png "GOOD") ![](/wiki/Skinning/osu!taiko/img/taiko-hit100.png "GOOD") | (可) Good | Score obtenu lorsque la note est frappée légèrement en avance ou en retard, avec la bonne couleur. Image: (1) Grande Note (2) Petite Note. |
-| ![](/wiki/Skinning/osu!taiko/img/taiko-hit0.png "MISS") | (不可) Miss | Score obtenu lorsque la note n'est pas frappée à temps, ou avec la mauvaise couleur. |
+| ![](/wiki/shared/judgement/osu!taiko/taiko-hit300k.png "GREAT") ![](/wiki/shared/judgement/osu!taiko/taiko-hit300g.png "GREAT") ![](/wiki/shared/judgement/osu!taiko/taiko-hit300.png "GREAT") | (良) Great | Score obtenu lorsque la note est frappée exactement dans le cercle de jugement, avec la bonne couleur. Image: (1 et 2) Grande Note (3) Petite Note |
+| ![](/wiki/shared/judgement/osu!taiko/taiko-hit100k.png "GOOD") ![](/wiki/shared/judgement/osu!taiko/taiko-hit100.png "GOOD") | (可) Good | Score obtenu lorsque la note est frappée légèrement en avance ou en retard, avec la bonne couleur. Image: (1) Grande Note (2) Petite Note. |
+| ![](/wiki/shared/judgement/osu!taiko/taiko-hit0.png "MISS") | (不可) Miss | Score obtenu lorsque la note n'est pas frappée à temps, ou avec la mauvaise couleur. |
 
 ## Judgement mechanics
 

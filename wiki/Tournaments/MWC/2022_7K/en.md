@@ -40,7 +40,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Mappool selector | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754), ![][flag_PL] [_underjoy](https://osu.ppy.sh/users/2235750) |
+| Mappool selector | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750) |
 | Commentator | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576) |
 | Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -49,6 +49,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1482564)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/76) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - **[Sign-up here](https://osu.ppy.sh/community/tournaments/31)**
 
 ## Ruleset
@@ -60,6 +61,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 2. Beatmap scoring will be based on Score V2.
 3. The beatmaps for each round will be announced by the mappool selectors on the Sunday before the actual matches take place.
    - Every mappool, except for the Qualifier stage, will contain a *tiebreaker* beatmap. It will only be played in case of a tie in the scoreline in the *best of* system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
+   - Additional mappools may be added depending on the amount of signups.
 4. Match schedule will be handled by the Tournament Management.
 5. If no referee is available at match time, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
@@ -144,7 +146,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes before the scheduled match time. Players must join the lobby in that period.
-   - The room settings are Game mode: "osu!", Team mode: "Team Vs" and Score mode: "ScoreV2". The room name must follow this pattern: "MWC7K2022: (Red Team) vs (Blue Team)". The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
+   - The room settings are Game mode: "osu!mania", Team mode: "Team Vs" and Score mode: "ScoreV2". The room name must follow this pattern: "MWC7K2022: (Red Team) vs (Blue Team)". The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps can not be picked by any team for the entire duration of the match.
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 4. Each captain must use `!roll` once in `#multiplayer`.
@@ -192,6 +194,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_IN]: /wiki/shared/flag/IN.gif "India"
