@@ -1,16 +1,16 @@
 # Negara-negara yang berpartisipasi dalam turnamen-turnamen osu!
 
-Artikel ini berisi daftar negara yang berpartisipasi dalam turnamen resmi [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), dan [osu!mania](/wiki/Game_mode/osu!mania). Artikel ini juga mencantumkan peringkat tim yang pernah mencapai 3 besar dalam turnamen.
+Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turnamen [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), dan [osu!mania](/wiki/Game_mode/osu!mania) resmi yang telah diselenggarakan sejauh ini. Di samping itu, artikel ini juga mendata negara-negara mana saja yang pernah mencapai posisi 3 besar dalam sejarah keikutsertaan mereka pada turnamen-turnamen resmi tersebut.
 
-*Catatan: Turnamen resmi yang memperbolehkan tim yang bukan perwakilan suatu negara tidak termasuk dalam daftar ini.*
+*Catatan: Turnamen-turnamen resmi yang memperbolehkan tim-tim yang bukan merupakan perwakilan suatu negara untuk ikut bertanding tidak diikutsertakan dalam tabel-tabel di bawah ini.*
 
-*Catatan: sebuah tim yang merupakan gabungan antar-negara (contoh. Argentina-Kolombia) tidak termasuk dalam daftar ini.*
+*Catatan: Tim-tim yang mewakili lebih dari satu negara (semisal Argentina-Kolombia) tidak diikutsertakan dalam tabel-tabel di bawah ini.*
 
-## Peringkat
+## Tabel medali
 
 <!-- last update: OWC 2021-->
 
-### Peringkat umum
+### Tabel medali keseluruhan
 
 | Peringkat | Negara | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
@@ -34,7 +34,7 @@ Artikel ini berisi daftar negara yang berpartisipasi dalam turnamen resmi [osu!]
 | 16 | ![][flag_FR] Prancis |  |  | 2 |
 | 17 | ![][flag_SE] Swedia |  |  | 1 |
 
-### ![][osu!] Peringkat osu!
+### ![][osu!] Tabel medali osu!
 
 | Peringkat | Negara | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
@@ -50,7 +50,7 @@ Artikel ini berisi daftar negara yang berpartisipasi dalam turnamen resmi [osu!]
 | 10 | ![][flag_BR] Brazil |  |  | 1 |
 | 10 | ![][flag_CA] Kanada |  |  | 1 |
 
-### ![][osu!taiko] Peringkat osu!taiko
+### ![][osu!taiko] Tabel medali osu!taiko
 
 | Peringkat | Negara | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
@@ -64,7 +64,7 @@ Artikel ini berisi daftar negara yang berpartisipasi dalam turnamen resmi [osu!]
 | 6 | ![][flag_CN] Tiongkok |  |  | 1 |
 | 6 | ![][flag_GB] Britania Raya |  |  | 1 |
 
-### ![][osu!catch] Peringkat osu!catch
+### ![][osu!catch] Tabel medali osu!catch
 
 | Peringkat | Negara | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
@@ -78,7 +78,7 @@ Artikel ini berisi daftar negara yang berpartisipasi dalam turnamen resmi [osu!]
 | 6 | ![][flag_TW] Taiwan |  | 1 |  |
 | 7 | ![][flag_SE] Swedia |  |  | 1 |
 
-### ![][osu!mania] Peringkat osu!mania
+### ![][osu!mania] Tabel medali osu!mania
 
 | Peringkat | Negara | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
@@ -93,7 +93,7 @@ Artikel ini berisi daftar negara yang berpartisipasi dalam turnamen resmi [osu!]
 | 8 | ![][flag_ID] Indonesia |  |  | 1 |
 | 8 | ![][flag_GB] Britania Raya |  |  | 1 |
 
-## Attendance
+## Riwayat partisipasi
 
 ### ![][osu!] osu! World Cup
 
@@ -318,8 +318,8 @@ Artikel ini berisi daftar negara yang berpartisipasi dalam turnamen resmi [osu!]
 [SCrown]: /wiki/shared/crown-silver.png "Juara 2"
 [BCrown]: /wiki/shared/crown-bronze.png "Juara 3"
 
-[true]: /wiki/shared/true.png "Hadir"
-[false]: /wiki/shared/false.png "Tidak hadir"
+[true]: /wiki/shared/true.png "Berpartisipasi"
+[false]: /wiki/shared/false.png "Tidak berpartisipasi"
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
