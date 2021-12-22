@@ -62,9 +62,9 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ![][flag_HK] [Capu](https://osu.ppy.sh/users/2474015) | Almanca | Değerlendirme |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Almanca | Değerlendirme |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Kantonca, Çince | Değerlendirme |
-| ![][flag_HK] [radar](https://osu.ppy.sh/users/7131099) |  | Değerlendirme |
+| ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  | Değerlendirme |
 
 ### osu!catch
 
@@ -78,12 +78,13 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Değerlendirme |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arapça, Fransızca | Değerlendirme |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Değerlendirme |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belçika"
 [flag_CL]: /wiki/shared/flag/CL.gif "Şili"
+[flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Cezayir"
 [flag_ES]: /wiki/shared/flag/ES.gif "İspanya"
 [flag_GB]: /wiki/shared/flag/GB.gif "Birleşik Krallık"

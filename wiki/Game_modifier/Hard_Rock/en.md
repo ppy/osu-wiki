@@ -57,7 +57,7 @@ Due to this much larger spike in difficulty compared to other [game modes](/wiki
 
 *Notice: Using this mod on osu!mania will result in an unranked play.*
 
-In [osu!mania](/wiki/Game_mode/osu!mania), only the judgement difficulty (OD) and the AR values are increased. All other difficulty settings are left as-is. Note placement is not affected.
+In [osu!mania](/wiki/Game_mode/osu!mania), only the [judgement](/wiki/Gameplay/Judgement) difficulty (OD) and the AR values are increased. All other difficulty settings are left as-is. Note placement is not affected.
 
 ## Trivia
 

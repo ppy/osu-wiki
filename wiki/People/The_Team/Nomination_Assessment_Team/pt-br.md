@@ -64,9 +64,9 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ![][flag_HK] [Capu](https://osu.ppy.sh/users/2474015) | Alemão | Avaliação |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Alemão | Avaliação |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonês, Chinês | Avaliação |
-| ![][flag_HK] [radar](https://osu.ppy.sh/users/7131099) |  | Avaliação |
+| ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  | Avaliação |
 
 ### osu!catch
 
@@ -80,12 +80,13 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Avaliação |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, Francês | Avaliação |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Avaliação |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Argélia"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espanha"
 [flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
