@@ -204,7 +204,7 @@ At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value
 | :-- | :-- | :-- |
 | Sampleset | Auto, Normal, Soft, Drum | Change the Sampleset ignoring the current one on timing section. Ex : Timing **Drum 66%**, while this Sampleset is **Soft**, will play all related **Soft** sound on the notes like clap , normal , finish, whistle with 66% volume. |
 | Additions | Auto, Normal, Soft, Drum | Basically the same as above, BUT Additions setting overwrite Sampleset setting. Ex : Timing **Drum 55%**, Sampleset **Soft**, while this Additions is **Normal**, will play all related **Normal** sound on the notes like clap , normal , finish, whistle with 55% volume. |
-| Select (`1`) | **Left-cilck/drag:** Move timestamp and location of a note. **Right-Click:** Remove note. **`Ctrl` + Click:** Multiple selection. | Select and modify existing notes. |
+| Select (`1`) | **Left-click/drag:** Move timestamp and location of a note. **Right-Click:** Remove note. **`Ctrl` + Click:** Multiple selection. | Select and modify existing notes. |
 | Circle (`2`) | **Left/Right-click:** Place/Remove note. | Add note to current column based on mouse position. |
 | Hold (`3`) | **Left-click (Hold):** Place hold note and adjust length. **Release on end:** Set hold length | Add hold note to current column based on mouse position. |
 
@@ -227,7 +227,7 @@ At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value
 | :-- | :-- |
 | Double white line | Measure |
 | White line | Common Time |
-| Green line | You / Judgement Line |
+| Green line | You / [Judgement](/wiki/Gameplay/Judgement) Line |
 | Blue colour | Currently-selected note |
 | White/Pink/Yellow colour | Normal notes colour |
 

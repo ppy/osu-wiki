@@ -21,7 +21,7 @@ Em termos simples,
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-No [osu!](/wiki/Game_mode/osu!), a precisão é calculada ao pesar o julgamento recebido por cada nota (em função seu respectivo valor) e dividir pela pontuação máxima atribuível a ela.
+No [osu!](/wiki/Game_mode/osu!), a precisão é calculada ao pesar o [julgamento](/wiki/Gameplay/Judgement) recebido por cada nota (em função seu respectivo valor) e dividir pela pontuação máxima atribuível a ela.
 
 Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total de hits * 300)`
 

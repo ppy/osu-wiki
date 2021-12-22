@@ -8,7 +8,7 @@ It introduced a brand new gameplay system, with new gameplay elements such as ho
 
 [osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/community/forums/topics/59924)
 
-Development for this version ended in 2020. For more information, read the [blog post](https://blog.ppy.sh/osu-stream-2020-release/) about its last release. The source code along with beatmap conversion and testing tools has been made available in the same year under a permissive license on [GitHub](https://github.com/ppy/osu-stream) for anyone curious, and all previously paid maps are now available for free from the in-game "Store".
+Development for this version ended in 2020. For more information, read the [blog post](https://blog.ppy.sh/osu-stream-2020-release/) about its last release. The source code along with beatmap conversion and testing tools has been made available in the same year under a permissive licence on [GitHub](https://github.com/ppy/osu-stream) for anyone curious, and all previously paid maps are now available for free from the in-game "Store".
 
 ## Installation
 
@@ -243,7 +243,7 @@ The score given by each hit circle and end of a slider is calculated with the fo
 
 | Term | Meaning |
 | :-: | :-- |
-| **Hit Value** | The hit circle judgement (50, 100 or 300). |
+| **Hit Value** | The hit circle [judgement](/wiki/Gameplay/Judgement) (50, 100 or 300). |
 | **Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher. |
 | **Fixed multiplier** | The multiplier that fixes the score into 600.000 |
 

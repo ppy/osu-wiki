@@ -19,10 +19,10 @@ The NAT are responsible for a variety of mapping-related tasks that can be separ
 
 - **Evaluation:** Evaluating the proficiency and activity of both current Beatmap Nominators and applicants. Most NAT members are responsible for contributing to this subcategory.
 - **Structural:** Documenting topics surrounding the ranking process, amending rules and guidelines to the [ranking criteria](/wiki/Ranking_Criteria), developing and maintaining related tools and websites.
-- **Moderation:** Handling user reports and assessing inappropriate behavior of Beatmap Nominators. This subcategory is a joint effort between the NAT and the GMT.
+- **Moderation:** Handling user reports and assessing inappropriate behaviour of Beatmap Nominators. This subcategory is a joint effort between the NAT and the GMT.
 - **Communication:** Promoting transparency between the NAT and the mapping/modding community, including the creation and hosting of meetings.
 
-A member of the NAT can engage with any tasks within any subcategory that they choose, despite what their primary responsibilities may be listed as. For example, if a member of the NAT prioritizes the Structural subcategory, they are not responsible for all tasks within the subcategory and they can still help with tasks from any other subcategory.
+A member of the NAT can engage with any tasks within any subcategory that they choose, despite what their primary responsibilities may be listed as. For example, if a member of the NAT prioritises the Structural subcategory, they are not responsible for all tasks within the subcategory and they can still help with tasks from any other subcategory.
 
 In addition to moderation abilities, NAT also possess the ability to [nominate](/wiki/Beatmap_ranking_procedure#nominations), [qualify](/wiki/Beatmap_ranking_procedure#qualification), and [reset nominations](/wiki/Beatmap_ranking_procedure#nomination-resets) on beatmaps. In this area they are considered largely the same as [full BNs](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators), and all BN rules and expectations besides activity apply to NAT members. NAT members are not expected to nominate maps regularly the way BNs are due to having additional responsibilities in the osu! mapping and modding community.
 
@@ -47,6 +47,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, moderation |
+| ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |  | Evaluation |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic | Evaluation, structural, moderation, communication |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, communication |
@@ -61,9 +62,9 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_HK] [Capu](https://osu.ppy.sh/users/2474015) | German | Evaluation |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | German | Evaluation |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese | Evaluation |
-| ![][flag_HK] [radar](https://osu.ppy.sh/users/7131099) |  | Evaluation |
+| ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  | Evaluation |
 
 ### osu!catch
 
@@ -77,6 +78,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Evaluation |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French | Evaluation |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
 
@@ -84,6 +86,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"

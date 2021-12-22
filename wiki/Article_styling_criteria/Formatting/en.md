@@ -569,7 +569,7 @@ The link text of the user link should be the user's current name.
 Whenever linking to a single difficulty, use this format as the link text:
 
 ```
-{artist} - {title} ({creator}) [{difficuty_name}]
+{artist} - {title} ({creator}) [{difficulty_name}]
 ```
 
 The link must actually link to that difficulty. Beatmap difficulty URLs must be formatted as follows:
@@ -634,7 +634,7 @@ The text in the quotation marks (*title text*) should give additional context to
 
 ### Display
 
-If an image is the sole content of a paragraph, it displays as a centered block. Otherwise, it flows with the surrounding inline text.
+If an image is the sole content of a paragraph, it displays as a centred block. Otherwise, it flows with the surrounding inline text.
 
 Block images with title text display the title text as a caption below the image.
 
