@@ -25,19 +25,19 @@ Hailing from England, **PTB10** has been constructing his own blend of electroni
 Try [the map seen above](https://osu.ppy.sh/beatmapsets/1648460) hosted by [Altai](https://osu.ppy.sh/users/5745865)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/227/Starfall/PTB10%20-%20Starfall.mp3" type="audio/mpeg">
 </audio>
 
 ### Oasis
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/227/Oasis/PTB10%20-%20Oasis.mp3" type="audio/mpeg">
 </audio>
 
 ### Swift Transaction
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/227/Swift%20Transaction/PTB10%20-%20Swift%20Transaction.mp3" type="audio/mpeg">
 </audio>
 
 ---
