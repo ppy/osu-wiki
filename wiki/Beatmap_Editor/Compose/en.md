@@ -227,7 +227,7 @@ At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value
 | :-- | :-- |
 | Double white line | Measure |
 | White line | Common Time |
-| Green line | You / Judgement Line |
+| Green line | You / [Judgement](/wiki/Gameplay/Judgement) Line |
 | Blue colour | Currently-selected note |
 | White/Pink/Yellow colour | Normal notes colour |
 

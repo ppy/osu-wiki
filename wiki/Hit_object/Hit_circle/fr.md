@@ -10,7 +10,7 @@ Les *hit circles* sont des [hit objects](/wiki/Hit_object) colorés et circulair
 
 Dans osu!, les hit circles apparaissent avec un numéro, indiquant leur place dans un combo. Ils sont également entourés de [approach circle](/wiki/Hit_object/Approach_circle), qui rétrécissent autour d'eux. Le joueur doit cliquer lorsque le approach circle recouvre le hit circle, pour gagner le maximum de points.
 
-Dans osu!taiko, les hit circles apparaissent de droite à gauche sous forme de notes rouges ou bleues (Don ou Katu). Lorsque les hit circles s'approchent et s'alignent avec le judgement circle blanc, il faut appuyer sur la ou les bonnes touches pour marquer des points.
+Dans osu!taiko, les hit circles apparaissent de droite à gauche sous forme de notes rouges ou bleues (Don ou Katu). Lorsque les hit circles s'approchent et s'alignent avec le [judgement](/wiki/Gameplay/Judgement) circle blanc, il faut appuyer sur la ou les bonnes touches pour marquer des points.
 
 <!-- TODO: Include Skinnable Property-->
 

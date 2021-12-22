@@ -18,5 +18,6 @@ Ein normaler Artikel, mit einem ähnlichen Titel, muss die Kopfnote ["Für ander
 - [osu!](osu!)
 - [Ouendan](Ouendan)
 - [Rank](Rank)
+- [Score](Score)
 - [Star](Star)
 - [Version](Version)
