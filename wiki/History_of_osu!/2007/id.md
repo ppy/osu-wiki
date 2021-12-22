@@ -44,7 +44,7 @@ Peningkatan gameplay lebih baik dengan hadirnya combo fire, bar HP, cursor trail
 
 ![](img/2007-09.jpg)
 
-Tanggal 17 September 2007 merupakan tanggal peluncuran osu! secara publik. Forum-forum yang kita kenal sekarang dibentuk pada saat itu dan dihosting menggunakan domain rumahan peppy (`ppy.sh`). osu! mulai mendapat perhatian saat disorot melalui pengumuman berita di [bemanistyle](http://www.bemanistyle.com) dalam [postingan ini](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483), yang menarik beberapa orang yang memiliki pengalaman game ritme sebelumnya.
+Tanggal 17 September 2007 merupakan tanggal peluncuran osu! secara publik. Forum-forum yang kita kenal sekarang dibentuk pada saat itu dan dihosting menggunakan domain rumahan peppy (`ppy.sh`). osu! mulai mendapat perhatian saat disorot melalui [pengumuman berita](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483) di forum [bemanistyle](http://www.bemanistyle.com), yang menarik beberapa orang yang memiliki pengalaman game ritme sebelumnya.
 
 ![](img/2007-09_01.jpg "Pembuatan slider dalam editor")
 
