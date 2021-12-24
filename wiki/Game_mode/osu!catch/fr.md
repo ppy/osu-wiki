@@ -72,111 +72,13 @@ Le placement du curseur dans le jeu n'a pas d'importance lorsque vous jouez norm
 
 ## Notation
 
-*Les valeurs de notation peuvent être trouvées dans [système de notation d'osu!catch](/wiki/Score/osu!catch).*
+Le [score dans osu!catch](/wiki/Gameplay/Score/osu!catch) est une somme pondérée de plusieurs composantes de la jouabilité. Il dépend des éléments suivants :
 
-La section sur la notation détaille toutes les subtilités de la notation, y compris la formule mathématique.
+- Le [jugement](/wiki/Gameplay/Judgement/osu!catch) ne fournit que des valeurs de score fixes pour chaque objet attrapé et ne dépend pas de la précision.
+- Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) est un multiplicateur de score : clear un objet contribue davantage au score total lorsque le combo est élevé et vice versa. Dans osu!catch, le combo peut être [cassé](/wiki/Glossary/Combobreak) en réalisant un miss sur un large fruit ou un drop, ce qui diminue également la [vie](/wiki/Beatmapping/Health).
+- La [précision](/wiki/Gameplay/Accuracy#osu!catch) indique combien d'objets ont été attrapés au total. Les petits droplets diminuent la précision lorsqu'elles sont miss, mais ne cassent pas le combo.
 
-### Grades
-
-| Grade | Condition |
-| :-: | :-- |
-| SS | Précision de 100.00% |
-| S | Précision entre 98,01% et 99,99% (un rang 'S' est possible même avec plusieurs ratés, comme dans *osu!mania*). |
-| A | Précision entre 94,01% et 98,00% |
-| B | Précision entre 90.01% et 94.00% |
-| C | Précision entre 85.01% et 90.00% |
-| D | Toute autre précision inférieure à 85,00 %. |
-
-Un S ou SS argenté peut être obtenu en utilisant le mod *[Hidden](/wiki/Game_modifier/Hidden)* et/ou *[Flashlight](/wiki/Game_modifier/Flashlight)*.
-
-### Précision
-
-La précision est définie par le nombre de prises par rapport au nombre de miss, à l'exclusion des bananes de spinner.
-
-En d'autres termes : `Précision = Nombre total de fruits capturés / Nombre total de fruits`
-
-| Terme | Formule |
-| :-: | :-- |
-| **Nombre total de fruits capturés** | Droplets + Drops + Fruits |
-| **Nombre total de fruits** | Miss + Miss des droplets + Droplets + Drops + Fruits |
-
-**Exception :**
-
-- Notez que les bananes (ou les fruits du spinner) sont considérées comme des bonus ou des points supplémentaires à obtenir et ne comptent pas pour la précision.
-
-Notez que si vous utilisez l'API pour calculer la précision, le nombre de droplets est inférieur à **count50** et le nombre de droplets missest inférieur à **countkatu**.
-
-### Score
-
-Le score pour osu!catch suit le même multiplicateur que dans [osu!](/wiki/Game_mode/osu!). Cependant, le fruit qui additionne les points est différent de celui d'osu!
-
-- Un fruit de taille normale donne un score de 300 fois le multiplicateur.
-- Un large juice drop (tick du slider) donne un score de 100.
-- Le plus petit drop (également appelée "droplet", ou piste/chemin du slider) donne un score de 10.
-- Chaque banane collectée (pendant la durée du spinner) donne un score fixe de 1 100, indépendamment du mod et du multiplicateur de combo.
-
-Le combo ne sera pas perdu pour les droplets miss (considérées comme *Miss Droplet* dans le classement du serveur) dans ce mode mais une baisse de précision et un gain de score en découlent.
-
-`Score = Valeur du hit + [Valeur du hit * ((Multiplicateur de combo * Multiplicateur de difficulté * Multiplicateur de mod) / 25)]`
-
-| Terme | Signification |
-| :-: | :-- |
-| **Valeur du hit** | Le jugement du cercle (50, 100 ou 300), les éventuels ticks du slider et le bonus du spinner. |
-| **Multiplicateur de combo** | (Combo avant ce coup - 1) ou 0 ; la valeur la plus élevée étant retenue. |
-| **Multiplicateur de difficulté** | Les paramètres de difficulté pour la beatmap |
-| **Multiplicateur de mod** | Le multiplicateur des mods sélectionnés |
-
-**Note :** Il y a une différence entre les méthodes de notation d'osu! et d'osu!catch :
-
-- Les 300 et l'incrément de combo ne sont pas donnés à un spinner terminé.
-- Les ticks du slider inversé sont comptés comme un score complet d'un hit.
-  - Notez que dans osu!, un tick inversé ne donne que 30 points.
-
-### Jugement des objets
-
-**Tout sauf les bananes :**
-
-- Score complet lors de la collecte.
-- Miss quand failed.
-
-**Bananes :**
-
-- Score constant de 1.100 par banane collectée.
-- Rien ne se passe pour les bananes miss.
-
-### Multiplicateur de score/combo
-
-**Ce qui suit ajoutent chacun un point au multiplicateur de score/combo :**
-
-- Collecter un fruit
-- Collecter des juice drops
-
-**Ce qui suit remet le multiplicateur de score à zéro :**
-
-- Miss de fruits
-- Miss des juice drops
-
-**Ce qui suit ne permettent pas d'augmenter ou de réinitialiser le multiplicateur de score :**
-
-- Collecter des droplets
-- Collecter des bananes
-
-## Barre de vie
-
-Le système utilisé pour calculer les pertes et les gains de vie est compliqué, il ne sera donc pas expliqué en détail. Tout tourne autour du paramètre de difficulté HP, qui ne peut être défini que par le mappeur lui-même.
-
-**Ce qui suit permet de regagner de la vie :**
-
-- Collecter des fruits, juice drops, ou des bananas.
-
-**Ce qui suit entraînera une perte de vie :**
-
-- Un life drain constant
-- Ne pas collecter de fruits ou de juice drops
-
-**Les éléments suivants n'ont pas d'influence sur la barre de vie :**
-
-- Pauses
+Après avoir terminé une beatmap, le score se voit attribuer un [grade](/wiki/Gameplay/Grade#osu!catch), une courte évaluation de la précision sous la forme d'une seule lettre. Un SS doré ou argenté indique une précision de 100 %, et tout le reste, de S à D, dépend de la quantité d'objets miss.
 
 ## Skinning
 
