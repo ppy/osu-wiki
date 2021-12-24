@@ -184,133 +184,17 @@ Arrangement de touches *Symétrique* pour le second set
 
 ## Notation
 
-*Les valeurs des scores peuvent être trouvées dans l'article [système de notation d'osu!mania](/wiki/Score/osu!mania).*
+Le [score dans osu!mania](/wiki/Gameplay/Score/osu!mania) est plafonné à 1 million et se compose de deux parties, chacune contribuant à 50% du score total :
 
-La section notation détaille tous les recoins des notation, formules mathématiques comprises.
+1. Le score de base, qui est centré sur le [jugement](/wiki/Gameplay/Judgement/osu!mania). Le jugement détermine la valeur du score de base d'un objet (MAX, 300, 200, 100, 50, ou 0 en cas d'échec).
+2. Le score de bonus, qui est basé sur le jugement et un multiplicateur de bonus flottant, qui augmente lorsqu'on obtient un MAX ou un 300, et diminue avec un 200 ou moins.
 
-### Grades
+En outre, le score comporte également les éléments suivants :
 
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100% de précision (seulement des MAX et/ou 300). |
-| S | Supérieur à 95% de précision (un rang 'S' même avec plusieurs miss, comme dans *osu!catch*). |
-| A | Supérieur à 90% de précision. |
-| B | Supérieur à 80% de précision. |
-| C | Supérieur à 70% de précision. |
-| D | Tout le reste. |
+- La [précision](/wiki/Gameplay/Accuracy#osu!mania) dépend du jugement et montre la précision des coups. Les appuis trop tôt ou trop tard sur les touches, ainsi que les miss, diminuent la précision globale.
+- Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) indique combien d'objets ont été touchés à la suite. Il n'a aucun effet sur le score total et peut être [cassé](/wiki/Glossary/Combobreak) par un miss.
 
-Il est possible d'obtenir un rang SSH ou un SH (S ou SS d'argent) avec le mod [Hidden](/wiki/Game_modifier/Hidden)/[Fade In](/wiki/Game_modifier/Fade_In) ou [Flashlight](/wiki/Game_modifier/Flashlight).
-
-### Précision
-
-La précision est calculée d'une manière similaire à [osu!](/wiki/Game_mode/osu!) dans ce mode.
-
-En d'autres termes : `Précision = Total des points de hit / (Nombre total de hit * 300)`
-
-| Terme | Formule |
-| :-: | :-- |
-| **Total des points de hits** | `(Nombre de 50s * 50 + Nombre de 100s * 100 + Nombre de 200s * 200 + Nombre de 300s * 300 + Nombre de 300s arc-en-ciel * 300)` |
-| **Nombre total de hits** | `(Nombre de miss + N + Nombre de 50s * 50 + Nombre de 100s * 100 + Nombre de 200s * 200 + Nombre de 300s * 300 + Nombre de 300s arc-en-ciel * 300)` |
-
-Notez que les MAX (ou 300 arc-en-ciel) et 300 valent tous les deux le maximum pour le calcul de la précision, malgré qu'un MAX vaille plus en terme de score qu'un 300.
-
-### Score
-
-Chaque beatmap a le même score maximal de 1 million (1,000,000).
-
-Le score est donné en deux parties, le score de base et le score bonus, chacun contribuant pour 50% du score total.
-
-- Le score de base est basé sur le jugement des hits.
-  - Un 300 arc-en-ciel vaut un peu plus qu'un 300.
-- Le score bonus est basé sur le jugement des hit ainsi que le multiplicateur bonus flottant.
-  - Le multiplicateur augmente avec les 300 arc-en-ciel ou les 300, alors qu'il diminue avec les autres.
-  - Meilleur est le jugement, plus élevé sera le multiplicateur.
-    - Il y a un maximum au multiplicateur.
-
-Le score donné par chaque note est calculé comme suit :
-
-```
-Score = BaseScore + BonusScore
-
-BaseScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitValue / 320)
-
-BonusScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitBonusValue * Sqrt(Bonus) / 320)
-Bonus = Bonus avant ce hit + HitBonus - HitPunishment / ModDivider
-Bonus est limité à [0, 100], initialement 100.
-
-MaxScore = 1 000 000
-ModMultiplier = Le multiplicateur de score des mods sélectionnés (réduction de difficulté et/ou nK)
-ModDivider = Le diviseur de sanction des mods sélectionnés (augmentation de difficulté)
-
-Judgement  HitValue  HitBonusValue  HitBonus  HitPunishment
-   MAX       320          32            2
-   300       300          32            1
-   200       200          16                        8
-   100       100           8                       24
-    50        50           4                       44
-  Miss         0           0                        ∞
-
-       Mod  ModMultiplier  ModDivider
-      Easy       0.5
-    NoFail       0.5
-  HalfTime       0.5
-  HardRock                    1.08
-DoubleTime                     1.1
- NightCore                     1.1
-    FadeIn                    1.06
-    Hidden                    1.06
-Flashlight                    1.06
-```
-
-### Jugement des objets
-
-**Notes :**
-
-- MAX (300 arc-en-ciel), 300, 200, 100 ou 50 depuis une note dépendant du timing du hit.
-- Un miss est donné lorsqu'une note est mss ou qu'un hit a été fait trop tôt.
-
-**Hold notes :**
-
-- Le jugement des hold notes dépend à la fois du début et de la fin de la note.
-- Continuer de la tenir jusqu'à la fin de la note, avec un timing parfait de l'initial et du final : MAX
-- Continuer de la tenir jusqu'à la fin de la note, sans relâcher la note : 200
-- Faire un *NG* et ne pas récupérer la hold note : Miss
-- Faire un *NG* et continuer de maintenir la note : 50
-
-NG : *Not Good*, un terme de *StepMania/DDR*, qui apparaît lorsqu'une note est relâchée alors qu'elle ne devrait pas l'être.
-
-### Multiplicateur de Score/combo
-
-**Une des conditions suivantes doit être remplie pour ajouter un point au multiplicateur de score/combo :**
-
-- La note est complétée avec la bonne touche.
-- La note est tenue avec la bonne touche.
-
-**Un des cas suivants va réinitialiser le multiplicateur de score/combo :**
-
-- La note n'est pas complétée.
-- La hold note est lâchée alors que la note n'est pas finie.
-
-**Le cas suivant ne va pas affecter le multiplicateur de score :**
-
-- Lâcher la hold note à la fin de la note.
-
-## Barre de vie
-
-Le système calculant le gain de vie est complexe, il ne sera donc pas traité en détail. Tout dépend du paramètre HP paramétré par le mappeur lui-même.
-
-**Les conditions suivantes vont redonner de la vie :**
-
-- Avoir un 300 arc-en-ciel, un 300, ou un 200.
-- Tenir une note avec la bonne touche.
-
-**La condition qui suit résultera en une perte de vie :**
-
-- Obtenir un 50 ou un Miss.
-
-**Le cas qui suit conservera la barre de vie :**
-
-- Rien.
+Après avoir terminé une beatmap, le score se voit attribuer un [grade](/wiki/Gameplay/Grade#osu!mania), une courte évaluation de la précision sous la forme d'une seule lettre. Un SS doré ou argenté indique une précision de 100 %.
 
 ## Skinning
 
