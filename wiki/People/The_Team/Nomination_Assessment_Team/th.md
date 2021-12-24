@@ -62,9 +62,9 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 
 | ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
-| ![][flag_HK] [Capu](https://osu.ppy.sh/users/2474015) | เยอรมัน | การประเมิน |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | เยอรมัน | การประเมิน |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | กวางตุ้ง, จีน | การประเมิน |
-| ![][flag_HK] [radar](https://osu.ppy.sh/users/7131099) |  | การประเมิน |
+| ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  | การประเมิน |
 
 ### osu!catch
 
@@ -78,12 +78,13 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 
 | ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | การประเมิน |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | อาหรับ, ฝรั่งเศส | การประเมิน |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | การประเมิน |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "เบลเยียม"
 [flag_CL]: /wiki/shared/flag/CL.gif "ชิลี"
+[flag_DE]: /wiki/shared/flag/DE.gif "เยอรมนี"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "แอลจีเรีย"
 [flag_ES]: /wiki/shared/flag/ES.gif "สเปน"
 [flag_GB]: /wiki/shared/flag/GB.gif "สหราชอาณาจักร"

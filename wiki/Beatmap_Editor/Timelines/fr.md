@@ -64,7 +64,7 @@ Au centre se trouve le terrain de jeu proprement dit. Le terrain de jeu est comp
 | :-- | :-- |
 | Blanc épais | Mesure complète |
 | Blanc | Temps commun |
-| Vert | Horodatage actuel/Ligne de jugement |
+| Vert | Horodatage actuel/Ligne de [jugement](/wiki/Gameplay/Judgement) |
 
 | Couleur de la note | Description |
 | :-- | :-- |

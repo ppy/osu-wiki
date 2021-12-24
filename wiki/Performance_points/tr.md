@@ -85,7 +85,7 @@ Aşağıdaki ipuçlarını göz önünde bulundurun:
 - Verimli bir şekilde oynayın ve sizin için hangi oyun tarzının en uygun olduğunu bulun.
 - Yüzlerce ortalama skor "farmlamaya" değil birkaç tane benzersiz skor elde etmeye odaklanın.
 - İsabet oranınızı geliştirmeye odaklanın. %1 bile büyük bir farka yol açar.
-- Yüksek komboları hedefleyin. Full combo (FC) veya [SS](/wiki/Grade) aşırı yüksek skorlar verir.
+- Yüksek komboları hedefleyin. Full combo (FC) veya [SS](/wiki/Gameplay/Grade) aşırı yüksek skorlar verir.
 
 ### Neden oynadığım bir mapten alabileceğim pp'nin tamamını alamadım?
 
