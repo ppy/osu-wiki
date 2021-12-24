@@ -81,42 +81,42 @@ Round of 16 schedule can be found in [this spreadsheet](https://docs.google.com/
 ### Round of 16
 
 - FreeMod
-  - [Risk Junk - quaver (Reba) \[Kawawa's Hyper\]](https://osu.ppy.sh/beatmapsets/361372#mania/793970)
-  - [ARForest - Metheus (McEndu) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301463#mania/2699444)
-  - [Ono Hideyuki - Sola (OrdLyn) \[relaxation\]](https://osu.ppy.sh/beatmapsets/705472#mania/1492102)
-  - [Artisan - Summon (Mipha-) \[miphather\]](https://osu.ppy.sh/beatmapsets/1257417#mania/2612884)
-  - [MuryokuP - Overture (Cryolien) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301465#mania/2699446)
-  - [Cinnamons x Evening Cinema - Summer time (\[Sick\]Catcat) \[Memori : shinyi\]](https://osu.ppy.sh/beatmapsets/1279771#mania/2658499)
-  - [Gareth Coker - Ori and the Will of the Wisps Main Theme (Xecus Fate) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301461#mania/2699442)
-  - [Rabpit  - Saika (Rumia-) \[Lv.24\]](https://osu.ppy.sh/beatmapsets/182221#mania/437109)
-  - [Jun Kuroda - waitin' for u (\_Rokii) \[Hard\]](https://osu.ppy.sh/beatmapsets/994276#mania/2086283)
-  - [SoundTeMP - Peaceful Forest (Lenfried-) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301482#mania/2699468)
-  - [Oskar Schuster - Fjarlaegur (Cypix Remix) (Tidek) \[7K Isolation\]](https://osu.ppy.sh/beatmapsets/1301462#mania/2699443)
+  1. [Risk Junk - quaver (Reba) \[Kawawa's Hyper\]](https://osu.ppy.sh/beatmapsets/361372#mania/793970)
+  2. [ARForest - Metheus (McEndu) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301463#mania/2699444)
+  3. [Ono Hideyuki - Sola (OrdLyn) \[relaxation\]](https://osu.ppy.sh/beatmapsets/705472#mania/1492102)
+  4. [Artisan - Summon (Mipha-) \[miphather\]](https://osu.ppy.sh/beatmapsets/1257417#mania/2612884)
+  5. [MuryokuP - Overture (Cryolien) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301465#mania/2699446)
+  6. [Cinnamons x Evening Cinema - Summer time (\[Sick\]Catcat) \[Memori : shinyi\]](https://osu.ppy.sh/beatmapsets/1279771#mania/2658499)
+  7. [Gareth Coker - Ori and the Will of the Wisps Main Theme (Xecus Fate) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301461#mania/2699442)
+  8. [Rabpit  - Saika (Rumia-) \[Lv.24\]](https://osu.ppy.sh/beatmapsets/182221#mania/437109)
+  9. [Jun Kuroda - waitin' for u (\_Rokii) \[Hard\]](https://osu.ppy.sh/beatmapsets/994276#mania/2086283)
+  10. [SoundTeMP - Peaceful Forest (Lenfried-) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301482#mania/2699468)
+  11. [Oskar Schuster - Fjarlaegur (Cypix Remix) (Tidek) \[7K Isolation\]](https://osu.ppy.sh/beatmapsets/1301462#mania/2699443)
 - Tiebreaker
-  - **[mafumafu - I wanna be a girl (Kawawa) \[Cinderella\]](https://osu.ppy.sh/beatmapsets/1111963#mania/2323202)**
+  1. **[mafumafu - I wanna be a girl (Kawawa) \[Cinderella\]](https://osu.ppy.sh/beatmapsets/1111963#mania/2323202)**
 
 ### Group stage
 
 - FreeMod
-  - [u's - Bokura wa Ima no Naka de(TV Size) (arcwinolivirus) \[Normal\]](https://osu.ppy.sh/beatmapsets/569665#mania/1207647)
-  - [SOUND HOLIC Vs. dj TAKA feat. YURiCa - TIEFSEE (arcwinolivirus) \[Lv.9\]](https://osu.ppy.sh/beatmapsets/977173#mania/2045295)
-  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (Asherz007) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1216672#mania/2531565)
-  - [a\_hisa - Town of Windmill (Benzopirene) \[Easy\]](https://osu.ppy.sh/beatmapsets/1296336#mania/2689628)
-  - [\*namirin - Mawaru Sora Usagi (SurfChu85) \[Sky Rabbit\]](https://osu.ppy.sh/beatmapsets/580328#mania/1228750)
-  - [TRUE - Hiryuu no Kishi (TV Size) (Remuring) \[Madoka's Normal\]](https://osu.ppy.sh/beatmapsets/1042985#mania/2179983)
-  - [Sutopuri - Palette Dance (Noch Einen) \[Hard\]](https://osu.ppy.sh/beatmapsets/1171748#mania/2448402)
-  - [Hatsuki Yura - Izayoi Warabeuta (Elementaires) \[HD\]](https://osu.ppy.sh/beatmapsets/319989#mania/712126)
-  - [she - VHS Layer 006 (Benzopirene) \[SV Layer\]](https://osu.ppy.sh/beatmapsets/1296334#mania/2689624)
+  1. [u's - Bokura wa Ima no Naka de(TV Size) (arcwinolivirus) \[Normal\]](https://osu.ppy.sh/beatmapsets/569665#mania/1207647)
+  2. [SOUND HOLIC Vs. dj TAKA feat. YURiCa - TIEFSEE (arcwinolivirus) \[Lv.9\]](https://osu.ppy.sh/beatmapsets/977173#mania/2045295)
+  3. [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (Asherz007) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1216672#mania/2531565)
+  4. [a\_hisa - Town of Windmill (Benzopirene) \[Easy\]](https://osu.ppy.sh/beatmapsets/1296336#mania/2689628)
+  5. [\*namirin - Mawaru Sora Usagi (SurfChu85) \[Sky Rabbit\]](https://osu.ppy.sh/beatmapsets/580328#mania/1228750)
+  6. [TRUE - Hiryuu no Kishi (TV Size) (Remuring) \[Madoka's Normal\]](https://osu.ppy.sh/beatmapsets/1042985#mania/2179983)
+  7. [Sutopuri - Palette Dance (Noch Einen) \[Hard\]](https://osu.ppy.sh/beatmapsets/1171748#mania/2448402)
+  8. [Hatsuki Yura - Izayoi Warabeuta (Elementaires) \[HD\]](https://osu.ppy.sh/beatmapsets/319989#mania/712126)
+  9. [she - VHS Layer 006 (Benzopirene) \[SV Layer\]](https://osu.ppy.sh/beatmapsets/1296334#mania/2689624)
 - Tiebreaker
-  - **[ChouCho - starlog (17VA) \[LordRaika's Hard\]](https://osu.ppy.sh/beatmapsets/254713#mania/595725)**
+  1. **[ChouCho - starlog (17VA) \[LordRaika's Hard\]](https://osu.ppy.sh/beatmapsets/254713#mania/595725)**
 
 ### Qualifiers
 
 - FreeMod
-  - [Klippa - Mulch (DaDarkDragon) [Stage 1: Dissolution]](https://osu.ppy.sh/beatmapsets/1291022#mania/2679858)
-  - [tieff - Human Touch (Otis1204) [Stage 2: Trace]](https://osu.ppy.sh/beatmapsets/1291009#mania/2679842)
-  - [Mimineko - Forget Me Not (DaDarkDragon) [Stage 3: Harmony]](https://osu.ppy.sh/beatmapsets/1291016#mania/2679851)
-  - [Waterflame - Grind District (Benzopirene) [Stage 4: Impetuousness]](https://osu.ppy.sh/beatmapsets/1291017#mania/2679852)
+  1. [Klippa - Mulch (DaDarkDragon) [Stage 1: Dissolution]](https://osu.ppy.sh/beatmapsets/1291022#mania/2679858)
+  2. [tieff - Human Touch (Otis1204) [Stage 2: Trace]](https://osu.ppy.sh/beatmapsets/1291009#mania/2679842)
+  3. [Mimineko - Forget Me Not (DaDarkDragon) [Stage 3: Harmony]](https://osu.ppy.sh/beatmapsets/1291016#mania/2679851)
+  4. [Waterflame - Grind District (Benzopirene) [Stage 4: Impetuousness]](https://osu.ppy.sh/beatmapsets/1291017#mania/2679852)
 
 ## Match results
 
