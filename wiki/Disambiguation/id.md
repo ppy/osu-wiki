@@ -18,5 +18,6 @@ Jika pada sebuah artikel mempunyai judul yang mirip, harus menggunakan [hatnote 
 - [osu!](osu!)
 - [Ouendan](Ouendan)
 - [Rank](Rank)
+- [Score](Score)
 - [Star](Star)
 - [Versi](Version)

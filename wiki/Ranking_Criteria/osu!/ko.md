@@ -58,13 +58,13 @@ outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
 
 *주 문서: [난이도명](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-- ![](/wiki/shared/diff/easy-o.png) Easy
-- ![](/wiki/shared/diff/normal-o.png) Normal
-- ![](/wiki/shared/diff/hard-o.png) Hard
-- ![](/wiki/shared/diff/insane-o.png) Insane
-- ![](/wiki/shared/diff/expert-o.png) Expert
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-o.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
-### ![](/wiki/shared/diff/easy-o.png) Easy
+### ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 
 #### 규칙
 
@@ -95,7 +95,7 @@ outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
 - [OD](/wiki/Beatmapping/Overall_difficulty) / [HP](/wiki/Beatmapping/HP_drain_rate)는 1 이상 3 이하여야 합니다.
 - [CS](/wiki/Beatmapping/Circle_size)는 4 이하여야 합니다.
 
-### ![](/wiki/shared/diff/normal-o.png) Normal
+### ![](/wiki/shared/diff/normal-o.png?20211215) Normal
 
 #### 규칙
 
@@ -135,7 +135,7 @@ outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
 - [OD](/wiki/Beatmapping/Overall_difficulty) / [HP](/wiki/Beatmapping/HP_drain_rate)는 3 이상 5 이하여야 합니다.
 - [CS](/wiki/Beatmapping/Circle_size)는 5 이하여야 합니다.
 
-### ![](/wiki/shared/diff/hard-o.png) Hard
+### ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 
 #### Rules
 
@@ -160,7 +160,7 @@ outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
 - [HP](/wiki/Beatmapping/HP_drain_rate)는 4 이상 6 이하여야 합니다.
 - [CS](/wiki/Beatmapping/Circle_size)는 6 이하여야 합니다.
 
-### ![](/wiki/shared/diff/insane-o.png) Insane
+### ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 
 #### 가이드라인
 
@@ -178,7 +178,7 @@ outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
 - [HP](/wiki/Beatmapping/HP_drain_rate)는 5 이상 8 이하여야 합니다.
 - [CS](/wiki/Beatmapping/Circle_size)는 7 이하여야 합니다.
 
-### ![](/wiki/shared/diff/expert-o.png) Expert
+### ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
 #### 가이드라인
 

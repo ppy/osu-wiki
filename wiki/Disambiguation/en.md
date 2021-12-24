@@ -18,5 +18,6 @@ A regular article, if it has a similar title, must use the ["For other uses" hat
 - [osu!](osu!)
 - [Ouendan](Ouendan)
 - [Rank](Rank)
+- [Score](Score)
 - [Star](Star)
 - [Version](Version)
