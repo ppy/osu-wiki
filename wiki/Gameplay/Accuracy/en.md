@@ -10,7 +10,7 @@ Accuracy is a percentile measurement of a player's ability to hit [hit objects](
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_osu.png "Accuracy formula for osu!")
 
-In osu!, accuracy is calculated by weighting the judgement gained from each hit object by its value and divided by the maximum possible amount.
+In osu!, accuracy is calculated by weighting the [judgement](/wiki/Gameplay/Judgement) gained from each hit object by its value and divided by the maximum possible amount.
 
 Reference for one hit circle:
 

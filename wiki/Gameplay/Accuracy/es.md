@@ -8,7 +8,7 @@ La precisión es una forma de medir la consistencia de un jugador. Hay tres tipo
 
 ![Precisión = (50 * número de 50s + 100 * número de 100s + 300 * número de 300s) / 300(número de 0s + número de 50s + número de 100s + número de 300s)](img/accuracy_osu.png "Formula de precisión para osu!")
 
-En osu!, la precisión se calcula ponderando el criterio con el que se le da a cada nota, multiplicado por su valor y dividido por la cantidad maxima posible.
+En osu!, la precisión se calcula ponderando el [juicio](/wiki/Gameplay/Judgement) obtenido por cada nota, multiplicado por su valor y dividido por la cantidad maxima posible.
 
 Referencias para un círculo de golpe
 

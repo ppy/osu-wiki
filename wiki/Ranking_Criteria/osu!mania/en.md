@@ -10,11 +10,11 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 *Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-- ![](/wiki/shared/diff/easy-m.png) Easy
-- ![](/wiki/shared/diff/normal-m.png) Normal
-- ![](/wiki/shared/diff/hard-m.png) Hard
-- ![](/wiki/shared/diff/insane-m.png) Insane
-- ![](/wiki/shared/diff/expert-m.png) Expert
+- ![](/wiki/shared/diff/easy-m.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-m.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-m.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-m.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
 ### Common terms
 
@@ -87,7 +87,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 *Key mode-specific guidelines are constructed based on the most common Ranked key modes (4 key and 7 key). Any other key modes should apply these guidelines when applicable.*
 
-### ![](/wiki/shared/diff/easy-m.png) Easy
+### ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 
 #### Rules
 
@@ -106,7 +106,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Avoid using chords during consecutive 1/2 note patterns.** However, using a chord to begin or to end a pattern is fine.
 - **Avoid chords with more than 2 notes.** This includes long note patterns that involve notes in more than two columns.
 
-### ![](/wiki/shared/diff/normal-m.png) Normal
+### ![](/wiki/shared/diff/normal-m.png?20211215) Normal
 
 #### Rules
 
@@ -143,7 +143,7 @@ Additional guidelines for *7 key Normal* difficulties:
 - **Bracket patterns should be used sparingly.**
 - **Long notes played with adjacent keys that are held simultaneously should be released at the same time.** Long notes with multiple release timings require coordination that players of this level cannot reasonably handle.
 
-### ![](/wiki/shared/diff/hard-m.png) Hard
+### ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 
 #### Guidelines
 
@@ -171,7 +171,7 @@ Additional guidelines for *7 key Hard* difficulties:
 - **Keep chord distance in a chordstream at a 1/1 or higher interval.** Anything denser than that can hurt readability.
 - **Occasional hands can be used in streams, so long as they are separated by at least one measure (4 beats).**
 
-### ![](/wiki/shared/diff/insane-m.png) Insane
+### ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 
 #### Guidelines
 
@@ -196,7 +196,7 @@ Additional guidelines for *7 key Insane* difficulties:
   - ...1/4, it's recommended to use a single note instead unless there is extremely clear musical justification.
 - **Bracket streams should be used sparingly.**
 
-### ![](/wiki/shared/diff/expert-m.png) Expert
+### ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
 #### Guidelines
 
