@@ -98,150 +98,15 @@ Si le modificateur de jeu [Auto Pilot](/wiki/Game_modifier/Autopilot) a été ut
 
 ## Notation
 
-*Les valeurs des scores peuvent être trouvées dans l'article [système de notation d'osu!](/wiki/Score/osu!).*
+Le [score dans osu!](/wiki/Gameplay/Score/osu!) est une somme pondérée de plusieurs composantes du gameplay. Il dépend des éléments suivants :
 
-La section sur la notation détaille toutes les subtilités de la notation, y compris la formule mathématique.
+- Le [jugement](/wiki/Gameplay/Judgement/osu!) détermine la valeur de base du score d'un objet (300, 100, 50 ou 0 en cas de miss). Pour les [cercles](/wiki/Hit_object/Hit_circle), les pressions de touches bien synchronisées sont plus valorisées, à la fois en termes de score et de précision. Les [sliders](/wiki/Hit_object/Slider) et les [spinners](/wiki/Hit_object/Spinner) n'ont pas de hit windows mais ils briseront le combo s'ils sont miss ou mal clear. Obtenir un jugement plus élevé permet également d'augmenter la [vie](/wiki/Beatmapping/Health).
+- La [précision](/wiki/Gameplay/Accuracy#osu!) dépend du jugement et montre la précision des coups. Les coups trop tôt ou trop tard sur les touches, ainsi que les miss, diminuent la précision globale.
+- Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) est un multiplicateur de score : clear un objet contribue davantage au score total lorsque le combo est élevé et vice versa. Le combo peut être [cassé](/wiki/Glossary/Combobreak) par un miss ou un [slider break](/wiki/Gameplay/Slider_break).
 
-### Grades
+Lorsque le combo est maintenu, le score total augmente de façon exponentielle. Les objets situés plus près de la fin de la beatmap valent des ordres de grandeur plus élevés que ceux du début, ce qui signifie qu'un joueur perdra beaucoup plus de points potentiels sur eux en cas de coups mal placés. Par conséquent, il est possible et très courant qu'un score avec une précision moindre ait un nombre de points plus élevé et batte un score avec une meilleure précision.
 
-| Grade | Condition |
-| :-: | :-- |
-| SS | Précision de 100% |
-| S | Plus de 90% de 300, moins de 1% de 50 et aucun miss. |
-| A | Plus de 80% de 300 et aucun miss **OU** plus de 90% de 300 |
-| B | Plus de 70% de 300 et aucun miss **OU** plus de 80% de 300 |
-| C | Plus de 60% de 300 |
-| D | N'importe quoi d'autre |
-
-Un S ou SS argenté peut être obtenu en utilisant le mod *[Hidden](/wiki/Game_modifier/Hidden)* et/ou *[Flashlight](/wiki/Game_modifier/Flashlight)*.
-
-### Précision
-
-La précision est calculée en pondérant le jugement acquis sur chaque note par sa valeur et en divisant par le maximum possible.
-
-En d'autres termes : `Précision = Total des points des hits / (Total des nombres de hits * 300p)`
-
-| Terme | Formule |
-| :-: | :-- |
-| **Total des points des hits** | `(50s * 50p) + (100s * 100p) + (300s * 300p)` |
-| **Total des nombres de hits** | `Miss + 50s + 100s + 300s` |
-| **s** | Nombre de |
-| **p** | Points |
-
-En d'autres termes, chaque *Miss* compte pour 0 point, chaque *50* compte pour 50 points, chaque *100* pour 100 points et chaque *300* pour 300 points.
-
-Additionnez-les tous et divisez la somme par le nombre de hits multiplié par 300.
-
-- Si seulement 300s : un résultat de 1.00, ce qui signifie une précision de 100%.
-- Si seulement 100s : un résultat de 0,3333 (soit 100/300), ce qui signifie une précision de 33,33%.
-
-### Score
-
-Le score donné par chaque cercle, et fin de slider est calculé avec la formule suivante :
-
-`Score = Valeur du hit + (Valeur du hit * ((Multiplicateur de combo * Multiplicateur de difficulté * Multiplicateur de mod) / 25))`
-
-| Terme | Signification |
-| :-: | :-- |
-| **Valeur du hit** | Le jugement du cercle (50, 100 ou 300), les ticks du slider et le bonus du spinner. |
-| **Multiplicateur de combo** | (Combo avant ce coup - 1) ou 0 ; la valeur la plus élevée étant retenue. |
-| **Multiplicateur de difficulté** | Le paramètre de difficulté pour la beatmap (voir l'en-tête suivant). |
-| **Multiplicateur de mod** | Le multiplicateur des mods sélectionnés |
-
-En outre, chaque début de slider et de fin rapporte 30 points, chaque tick du slider rapporte 10 points et chaque rotation d'un spinner rapporte 100 points.
-
-Un bonus supplémentaire de 1 000 points est accordé pour chaque tour de spinner après que le compteur de roulettes soit plein.
-
-#### Comment calculer le multiplicateur de difficulté
-
-[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup) et [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup) donnent chacun un point de *difficulté*.
-
-Les *points de difficulté* accumulés affectent le **multiplicateur de difficulté** de la manière suivante :
-
-| Plage de points de difficulté | Multiplicateur de difficulté |
-| :-: | :-- |
-| 0 - 5 | 2x multiplicateur |
-| 6 - 12 | 3x multiplicateur |
-| 13 - 17 | 4x multiplicateur |
-| 18 - 24 | 5x multiplicateur |
-| 25 - 30 | 6x multiplicateur |
-
-La limite supérieure est de 27 points de difficulté avec CS7, OD10 et HP10. La limite inférieure est de 2 points de difficulté avec CS2, OD0 et HP0.
-
-CS ne peut normalement pas descendre en dessous de 2 ou dépasser 7 (nécessite une modification directe du fichier `.osu`).
-
-Notez que les modificateurs de jeu (comme Hard Rock/Easy) ne changeront pas le **multiplicateur de difficulté**. Il ne tiendra compte que des valeurs d'origine.
-
-### Jugement des objets
-
-**Cercles :**
-
-- 300, 100 ou 50 donnés d'un cercle normal, selon la précision avec laquelle le joueur tape dessus.
-- Un miss est donné si le joueur ne clique pas du tout sur le cercle ou s'il le fait trop tôt.
-
-**Sliders :**
-
-- Le jugement des sliders ne dépend pas de la précision du hit initiale.
-- Les sliders se composent de slider ticks, qui comprennent les points de début, de fin et de répétition..
-- Un 300 donné si le joueur réussit à obtenir tous les ticks du slider, un 100 donné si le joueur en obtient au moins la moitié, et un 50 donné si le joueur parvient à collecter ne serait-ce qu'un seul des ticks.
-- Le fait de toucher un slider **trop tôt** n'entraîne pas un échec mais remet le multiplicateur de score à **0**.
-  - Le fait de ne pas collecter les ticks du slider qu'ils soient affichés ou non, n'entraînera pas un échec, mais remettra le multiplicateur de score à **0**.
-  - Le fait de rater le slider end n'entraîne pas un échec mais n'augmente pas le multiplicateur de score.
-- Un miss est donné si le joueur ne récupère aucun des ticks du slider.
-
-**Spinner :**
-
-- Un 300, 100 ou 50 donné en fonction du nombre de tours effectués par rapport à la longueur du spinner.
-- Un miss si le joueur n'est pas en mesure d'élargir le cercle de rotation à une limite satisfaisante pour qu'un 50 soit donné.
-  - Comportement d'un skin v1 : Un miss si le joueur ne parvient pas à remplir le compteur affiché de part et d'autre du spinner à une limite satisfaisante pour qu'un 50 soit donné.
-
-### Multiplicateur de score/combo
-
-**Les éléments suivants ajoutent chacun un point au multiplicateur de score/combo :**
-
-- Une frappe réussie sur le cercle.
-- Une frappe réussi au début d'un slider.
-- La sliderball a collecté une slider tick avec succès.
-- Le sliderball a touché la flèche d'un slider avec succès.
-- Un spinner terminée/semi-complétée réussie.
-
-**Ce qui suit remet le multiplicateur de score à zéro :**
-
-- Miss d'un cercle.
-- Taper un slider trop tôt.
-- Miss le début ou un tick d'un slider.
-- Impossibilité d'élargir le spinner à une taille satisfaisante.
-  - Comportement d'un skin v1 : N'a pas réussi à remplir au moins la moitié de la jauge d'un spinner.
-
-**Les éléments suivants ne permettent pas d'augmenter ou de réinitialiser le multiplicateur de score :**
-
-- Miss la fin d'un slider (aura pour résultat d'obtenir Katu ou 100/50 Hit).
-- Spinner : Bonus de 1,000
-
-## Barre de vie
-
-Le système utilisé pour calculer les pertes et les gains de vie est compliqué, il ne sera donc pas expliqué en détail. Tout tourne autour du paramètre de difficulté HP, qui ne peut être défini que par le mappeur lui-même.
-
-**Ce qui suit permet de retrouver de la vie :**
-
-- Une frappe réussie sur le cercle (un meilleur jugement permet de gagner plus de vie ; le dernier cercle d'un combo de couleurs donne plus de vie).
-- Une frappe réussi sur un départ d'un slider.
-- Le sliderball a collecté un slider tick avec succès.
-- Le sliderball a touché la fin ou une flèche d'un slider réussi (un meilleur jugement à la fin du tick conduit à un gain de vie plus important).
-- Terminer un spinner et continuer à tourner pendant la durée du spinner (un meilleur jugement à la fin du spinner permet de gagner plus de vie).
-
-**Ce qui suit entraînera une perte de vie :**
-
-- Health drain constant.
-- Un miss a été donné.
-- Miss un cercle.
-- Taper un début de slider trop tôt
-- Miss d'un slider tick, ou d'une flèche d'un slider.
-- N'a pas réussi à remplir un spinner pour qu'un 50 soit donné.
-
-**Les éléments suivants ne diminuent pas la vie dans la barre de vie :**
-
-- Pauses
+Après avoir terminé une beatmap, le score se voit attribuer un [grade](/wiki/Gameplay/Grade#osu!), une courte évaluation de la précision sous la forme d'une seule lettre. Un SS doré ou argenté indique une précision de 100 %, et tout le reste, de S à D, dépend de la quantité de 300, de 50 et de miss.
 
 ## Skinning
 
