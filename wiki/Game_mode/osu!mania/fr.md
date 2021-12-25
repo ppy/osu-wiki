@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2dccc07cb4759a455196482e5f00383834f9813b
+---
+
 # osu!mania
 
 *[Cliquez pour retourner à la page des Modes de Jeu](/wiki/Game_mode).*
