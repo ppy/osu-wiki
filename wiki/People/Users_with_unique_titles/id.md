@@ -191,7 +191,7 @@ osu! menganugerahkan gelar **osu!mixer** kepada para pemenang kontes-kontes osu!
 
 ## Juara bertahan kontes osu!trivium Quiz
 
-osu! menganugerahkan gelar **osu!trivium Champion** kepada para pemenang [kontes osu!trivium Quiz](https://osu.ppy.sh/home/news/2021-11-10-osu!trivium-quiz-2021) selama satu tahun. Berikut ini adalah pemenang pada tahun 2021:
+osu! menganugerahkan gelar **osu!trivium Champion** kepada para pemenang [kontes osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) selama satu tahun. Berikut ini adalah pemenang pada tahun 2021:
 
 - ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114)
 - ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621)
