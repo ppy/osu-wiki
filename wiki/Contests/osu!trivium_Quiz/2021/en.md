@@ -15,7 +15,7 @@ Teams of up to 4 people competed against each other in answering questions about
 ## Contest schedule
 
 | Event | Timestamp |
-| :-- | :-- |
+| --: | :-- |
 | Announcement | 2021-11-11 |
 | Answer submission deadline | 2021-12-13 12:00 UTC |
 | Results | 2021-12-19 |
