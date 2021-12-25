@@ -540,6 +540,8 @@ Notes :
 
 `selection-mod-scorev2.png`
 
+![](img/selection-mod-scorev2.png)
+
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
