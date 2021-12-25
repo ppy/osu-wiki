@@ -21,7 +21,7 @@ Teams of up to 4 people competed against each other in answering questions about
 ## Prizes
 
 | Placing | Prize(s) |
-| :-- | :-- |
+| :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 24 months of osu!supporter to distribute freely |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 16 months of osu!supporter to distribute freely |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 8 months of osu!supporter to distribute freely |
@@ -49,7 +49,7 @@ The osu!trivium Quiz 2020 was run by various community members.
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Team | Players |
-| :-- | :-- | :-- |
+| :-: | :-- | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | nerd neck esoteric collection of individuals | ![][flag_US] [1103](https://osu.ppy.sh/users/7306698), ![][flag_US] [GalacticLightN](https://osu.ppy.sh/users/4772172), ![][flag_US] [Leebs](https://osu.ppy.sh/users/7636779), ![][flag_US] [headstack](https://osu.ppy.sh/users/10322186) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 21 | ![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889), ![][flag_CL] [Eunha](https://osu.ppy.sh/users/7701428), ![][flag_CL] [kanocchi](https://osu.ppy.sh/users/2321050), ![][flag_CL] [saumensch](https://osu.ppy.sh/users/18157510) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 5 | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621), ![][flag_US] [icedtea](https://osu.ppy.sh/users/9631242) |
