@@ -10,7 +10,7 @@ Submissions to this contest include the following elements:
 
 ## Links
 
-- [Contest listing](https://osu.ppy.sh/contests/115)
+- [Contest listing](https://osu.ppy.sh/community/contests/115)
 - [Contest announcement](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love)
 - [Voting announcement](https://osu.ppy.sh/home/news/2021-03-26-a-labour-of-love-voting-open)
 - [Results summary](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love)
