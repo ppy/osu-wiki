@@ -8,7 +8,7 @@ tags:
 
 ![osu!trivium Quiz 2021 banner](img/banner.png)
 
-The **osu!trivium Quiz 2021** was a free-for-all osu! trivia quiz contest hosted by [mangomizer](https://osu.ppy.sh/users/1893718). It was the second osu!trivium Quiz, the world's hardest quiz on osu!.
+The **osu!trivium Quiz 2021** was a free-for-all osu! trivia quiz contest hosted by ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718). It was the second osu!trivium Quiz, the world's hardest quiz on osu!.
 
 Teams of up to 4 people competed against each other in answering questions about the game's lore, obscure facts, and various quirky happenings in the community throughout the years.
 
