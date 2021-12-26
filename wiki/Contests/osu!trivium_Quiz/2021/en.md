@@ -15,7 +15,7 @@ Teams of up to 4 people competed against each other in answering questions about
 ## Contest schedule
 
 | Event | Timestamp |
-| :-- | :-- |
+| --: | :-- |
 | Announcement | 2021-11-11 |
 | Answer submission deadline | 2021-12-13 12:00 UTC |
 | Results | 2021-12-19 |
@@ -23,7 +23,7 @@ Teams of up to 4 people competed against each other in answering questions about
 ## Prizes
 
 | Placing | Prize(s) |
-| :-- | :-- |
+| :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **osu!trivium Champion** user title for one year, profile badge, 24 months of osu!supporter to distribute freely |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Profile badge, 16 months of osu!supporter to distribute freely |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Profile badge, 8 months of osu!supporter to distribute freely |
@@ -53,7 +53,7 @@ The osu!trivium Quiz 2021 was run by various community members.
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Team | Players |
-| :-- | :-- | :-- |
+| :-: | :-- | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Squid Balls | ![][flag_MY] [squidstain](https://osu.ppy.sh/users/11073207), ![][flag_US] [Codazen](https://osu.ppy.sh/users/18291144), ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114), ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | untouchaball-epic-fail-crew-9000-nightmarecore-mix | ![][flag_US] [1103](https://osu.ppy.sh/users/7306698), ![][flag_US] [GalacticLightN](https://osu.ppy.sh/users/4772172), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | sleep squad | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_SE] [PuffBuck](https://osu.ppy.sh/users/4234525), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
