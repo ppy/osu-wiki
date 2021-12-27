@@ -12,7 +12,7 @@ Welcome aboard a brand new voting platform by helping decide who the top 20 best
 
 For those unaware, the osu! community has typically hosted a yearly top 20 vote on any number of platforms in the past with no real centralized place to handle anything.  This new platform should make it easier across the board to participate in such things, for users and hosts alike.
 
-This year's Top 20 vote will be run on the Clicker's Choice website, which is already home to the top player voting for Germany, Poland, Canada, UK and many other countries.
+This year's top 20 vote will be run on the Clicker's Choice website, which is already home to the top player voting for Germany, Poland, Canada, UK and many other countries.
 
 As a voter, it's pretty straightforward — just [visit the site](https://choice.hwc.hr/vote/6), log in via osu!, and start voting! **Everything from the criteria to the deadlines is also available on the voting page.** 
 
