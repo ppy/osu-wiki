@@ -8,7 +8,7 @@ It's time for the community to decide the top 20 osu! players of 2021!
 
 ![](/wiki/shared/news/2021-12-27-clickers-choice-2021/top_20_players_of_2021_banner.png)
 
-2021 was an incredible year for many circle clickers, some even with record-breaking performances in solo-play and tournaments. Now that the year's coming to an end, we're bringing you the **9th iteration of the international top 20 voting**, courtesy of my latest project: [Clicker's Choice](https://choice.hwc.hr/)!
+2021 was an incredible year for many circle clickers, some even with record-breaking performances in solo play and tournaments. Now that the year's coming to an end, we're bringing you the **9th iteration of the international top 20 voting**, courtesy of my latest project: [Clicker's Choice](https://choice.hwc.hr/)!
 
 The Top 20 vote will be run on the Clicker's Choice website, which is already home to the top player voting for Germany, Poland, Canada, UK and many other countries. Clicker's Choice aims to make it easier for users to vote, while also making it simpler for the host to tabulate and evaluate results.
 
