@@ -8,7 +8,7 @@
 
 Seluruh beatmap perlu diraih dengan mode permainan [osu!](/wiki/Game_mode/osu!) untuk mendapatkan lencana kecuali paket beatmap tersebut menspesifikasikan mode permainan tertentu. Penggunaan [mod pengurang kesulitan](/wiki/Game_modifier#pengurang-kesulitan) atau [mod peningkat kesulitan](/wiki/Game_modifier#peningkat-kesulitan) diperbolehkan.
 
-Meskipun demikian, perlu diperhatikan bahwa isi dari seluruh Video Game Pack, Anime Pack, Internet! Pack, dan Rhythm Game Pack yang ada telah banyak berubah sejak paket-paket tersebut [pertama kali diperkenalkan pada tahun 2008](https://osu.ppy.sh/community/forums/topics/1853).
+Meskipun demikian, perlu diperhatikan bahwa isi dari seluruh Video Game Pack, Anime Pack, Internet! Pack, dan Rhythm Game Pack yang ada telah banyak berubah sejak paket-paket tersebut [pertama kali diperkenalkan pada tahun 2008](https://osu.ppy.sh/community/forums/topics/1853). Untuk daftar paket-paket beatmap ini pada kondisi aslinya, lihat [Paket Beatmap Lama](/wiki/Medals/Legacy_Beatmap_Packs).
 
 ## Skill
 
