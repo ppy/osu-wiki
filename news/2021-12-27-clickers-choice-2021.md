@@ -22,7 +22,7 @@ As a voter, it's pretty straightforward - just log in through osu! and start vot
 
 If you have any further questions, feel free to join the hwchr projects discord server or contact [hallowatcher](https://osu.ppy.sh/users/1874761) directly.
 
-[TOP 20 VOTING](https://choice.hwc.hr/vote/6?mtm_campaign=news-post-2021&mtm_kwd=top-20-voting) | [HOMEPAGE](https://choice.hwc.hr/?mtm_campaign=news-post-2021&mtm_kwd=homepage) | [DISCORD](https://u.hwc.hr/discord))
+[TOP 20 VOTING](https://choice.hwc.hr/vote/6?mtm_campaign=news-post-2021&mtm_kwd=top-20-voting) | [HOMEPAGE](https://choice.hwc.hr/?mtm_campaign=news-post-2021&mtm_kwd=homepage) | [DISCORD](https://u.hwc.hr/discord)
 
 Happy voting, and happy holidays!
 
