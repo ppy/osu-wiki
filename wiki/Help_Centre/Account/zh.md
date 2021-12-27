@@ -1,5 +1,6 @@
 ---
 outdated: true
+outdated_since: c0e3ac1f17bcbdd620c144f55f813351bf320b83
 tags:
   - profile
   - issue
@@ -21,8 +22,6 @@ tags:
   - 设备
   - 用户名
   - 删除
-outdated: true
-outdated_since: c0e3ac1f17bcbdd620c144f55f813351bf320b83
 ---
 
 # 帐号
