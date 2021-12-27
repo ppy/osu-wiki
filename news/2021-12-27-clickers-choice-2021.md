@@ -27,4 +27,3 @@ If you have any further questions, feel free to join the hwchr projects discord 
 Happy voting, and happy holidays!
 
 —hallowatcher
-
