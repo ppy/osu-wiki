@@ -16,8 +16,8 @@ The Top 20 vote will be run on the Clicker's Choice website, which is already ho
 Poland, Canada, UK and many other countries. Clicker's Choice aims to make it easier for users to vote, while also
 making it simpler for the host to tabulate and evaluate results.
 
-As a voter, it's pretty straightforward - just log in through osu! and start voting! Everything regarding the criteria
-and deadlines are on the voting page as well. Here's a showcase of the entire process:
+As a voter, it's pretty straightforward - just log in through osu! and start voting! **Everything regarding the criteria
+and deadlines are on the voting page as well.** Here's a showcase of the entire process:
 
 <insert video of voting and saving, filling up last 2 players to cut time>
 
