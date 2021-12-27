@@ -20,7 +20,7 @@ As a voter, it's pretty straightforward — just log in through osu! and start v
     </video>
 </div>
 
-If you have any further questions, feel free to join the hwchr projects discord server or contact [hallowatcher](https://osu.ppy.sh/users/1874761) directly.
+If you have any further questions, feel free to contact [hallowatcher](https://osu.ppy.sh/users/1874761) directly.
 
 [TOP 20 VOTING](https://choice.hwc.hr/vote/6?mtm_campaign=news-post-2021) | [HOMEPAGE](https://choice.hwc.hr/?mtm_campaign=news-post-2021)
 Happy voting, and happy holidays!
