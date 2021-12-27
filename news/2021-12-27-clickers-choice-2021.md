@@ -17,7 +17,7 @@ Poland, Canada, UK and many other countries. Clicker's Choice aims to make it ea
 making it simpler for the host to tabulate and evaluate results.
 
 As a voter, it's pretty straightforward - just log in through osu! and start voting! Everything regarding the criteria
-and deadlines are on the voting page as well. Here's an example of the entire process:
+and deadlines are on the voting page as well. Here's a showcase of the entire process:
 
 <insert video of voting and saving, filling up last 2 players to cut time>
 
