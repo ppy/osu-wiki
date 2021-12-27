@@ -4,7 +4,7 @@ title: "Clicker's Choice: Top 20 osu! Players of 2021"
 date: 2021-12-27 09:00:00 +0000
 ---
 
-Welcome aboard a brand new voting platform by helping decide who the top 20 best osu! players of 2021 are!
+Welcome aboard a brand new platform to help you vote for the top 20 osu! players of 2021!
 
 ![](/wiki/shared/news/2021-12-27-clickers-choice-2021/top_20_players_of_2021_banner.png)
 
