@@ -1,18 +1,22 @@
 ---
 layout: post
-title: "The Best osu! Players of 2021"
+title: "Clicker's Choice: Top 20 osu! Players of 2021"
 date: 2021-12-27 09:00:00 +0000
 ---
 
-It's time for the community to decide the top 20 osu! players of 2021!
+Welcome aboard a brand new voting platform by helping decide who the top 20 best osu! players of 2021 are!
 
 ![](/wiki/shared/news/2021-12-27-clickers-choice-2021/top_20_players_of_2021_banner.png)
 
-2021 was an incredible year for many circle clickers, some even with record-breaking performances in solo play and tournaments. Now that the year's coming to an end, we're bringing you the **9th iteration of the international top 20 voting**, courtesy of my latest project: [Clicker's Choice](https://choice.hwc.hr/)!
+2021 was an incredible year for many circle clickers, some even with record-breaking performances in solo-play and tournaments. As the year draw to a close, we're sending things off with the **9th iteration of the international top 20 voting**, hosted courtesy of my latest project: [Clicker's Choice](https://choice.hwc.hr/)!
 
-The Top 20 vote will be run on the Clicker's Choice website, which is already home to the top player voting for Germany, Poland, Canada, UK and many other countries. Clicker's Choice aims to make it easier for users to vote, while also making it simpler for the host to tabulate and evaluate results.
+For those unaware, the osu! community has typically hosted a yearly top 20 vote on any number of platforms in the past with no real centralized place to handle anything.  This new platform should make it easier across the board to participate in such things, for users and hosts alike.
 
-As a voter, it's pretty straightforward — just log in through osu! and start voting! **Everything regarding the criteria and deadlines are on the voting page as well.** Here's a showcase of the entire process:
+This year's Top 20 vote will be run on the Clicker's Choice website, which is already home to the top player voting for Germany, Poland, Canada, UK and many other countries.
+
+As a voter, it's pretty straightforward — just [visit the site](https://choice.hwc.hr/vote/6), log in via osu!, and start voting! **Everything from the criteria to the deadlines is also available on the voting page.** 
+
+Check out a quick preview of just how easy it is to get involved below:
 
 <div align="center">
     <video width="100%" controls>
@@ -20,9 +24,7 @@ As a voter, it's pretty straightforward — just log in through osu! and start v
     </video>
 </div>
 
-If you have any further questions, feel free to contact [hallowatcher](https://osu.ppy.sh/users/1874761) directly.
-
-But other than that, what are you waiting for? [Go ahead and vote!](https://choice.hwc.hr/vote/6)
+What are you waiting for? [**Go ahead and vote now!**](https://choice.hwc.hr/vote/6)
 
 Happy voting, and happy holidays!
 
