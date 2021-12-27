@@ -64,9 +64,9 @@ NAT самостоятельно отслеживает появление но�
 
 | Имя | Языки | Сферы деятельности |
 | :-- | :-- | :-- |
-| ![][flag_HK] [Capu](https://osu.ppy.sh/users/2474015) | Немецкий | Аттестация номинаторов |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Немецкий | Аттестация номинаторов |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Кантонский диалект, китайский | Аттестация номинаторов |
-| ![][flag_HK] [radar](https://osu.ppy.sh/users/7131099) |  | Аттестация номинаторов |
+| ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  | Аттестация номинаторов |
 
 ### osu!catch
 
@@ -80,12 +80,13 @@ NAT самостоятельно отслеживает появление но�
 
 | Имя | Языки | Сферы деятельности |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Аттестация номинаторов |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Арабский, французский | Аттестация номинаторов |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Аттестация номинаторов |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Бельгия"
 [flag_CL]: /wiki/shared/flag/CL.gif "Чили"
+[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Алжир"
 [flag_ES]: /wiki/shared/flag/ES.gif "Испания"
 [flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"

@@ -539,6 +539,8 @@ Notes:
 
 `selection-mod-scorev2.png`
 
+![](img/selection-mod-scorev2.png)
+
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
@@ -842,7 +844,7 @@ Notes:
 
 `hit0.png`
 
-![](img/hit0.png)
+![](/wiki/shared/judgement/osu!/hit0.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -860,7 +862,7 @@ Notes:
 
 `hit50.png`
 
-![](img/hit50.png)
+![](/wiki/shared/judgement/osu!/hit50.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -878,7 +880,7 @@ Notes:
 
 `hit100.png`
 
-![](img/hit100.png)
+![](/wiki/shared/judgement/osu!/hit100.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -896,7 +898,7 @@ Notes:
 
 `hit100k.png`
 
-![](img/hit100k.png)
+![](/wiki/shared/judgement/osu!/hit100k.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -914,7 +916,7 @@ Notes:
 
 `hit300.png`
 
-![](img/hit300.png)
+![](/wiki/shared/judgement/osu!/hit300.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -932,7 +934,7 @@ Notes:
 
 `hit300g.png`
 
-![](img/hit300g.png)
+![](/wiki/shared/judgement/osu!/hit300g.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -950,7 +952,7 @@ Notes:
 
 `hit300k.png`
 
-![](img/hit300k.png)
+![](/wiki/shared/judgement/osu!/hit300k.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |

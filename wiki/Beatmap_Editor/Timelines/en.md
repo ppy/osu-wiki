@@ -64,7 +64,7 @@ In the centre is the actual playfield. The playfield is made up of two parts: li
 | :-- | :-- |
 | Thick White | Full measure |
 | White | Common Time |
-| Green | Current timestamp/Judgement line |
+| Green | Current timestamp/[Judgement](/wiki/Gameplay/Judgement) line |
 
 | Note Colour | Description |
 | :-- | :-- |
