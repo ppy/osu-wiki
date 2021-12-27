@@ -8,7 +8,7 @@ Below is a sorted list of guides created by members of the osu! community, most 
 
 - [Audio editing guide](Audio_Editing)
 - [Changing the title text](/wiki/Beatmap/Title_Text#changing-title-text)
-- [Compressing files](Compressing_Files)
+- [Compressing files](Compressing_files)
 - [Custom hitsound library](Custom_Hitsound_Library)
 - [Custom sample overrides](Custom_Sample_Overrides)
 - [How to change a map's artist or title](Changing_the_Artist_or_Title)
@@ -20,7 +20,7 @@ Below is a sorted list of guides created by members of the osu! community, most 
 - [osu!mania mapping guide](osu!mania_Mapping_Guide)
 - [Setting the offset on the correct beat](Setting_the_Offset_on_the_Correct_Beat)
 - [Using custom hitsounds](Using_custom_hitsounds)
-- [Videos from YouTube](Videos_From_YouTube)
+- [Videos from YouTube](Videos_from_YouTube)
 
 ## Modding
 
