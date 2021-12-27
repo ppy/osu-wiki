@@ -10,7 +10,7 @@ Akurasi adalah suatu pengukur konsistensi pemain untuk menekan [hit object](/wik
 
 ![Akurasi = (50 \* jumlah 50 + 100 \* jumlah 100 + 300 \* jumlah 300) / 300(jumlah 0 + jumlah 50 + jumlah 100 + jumlah 300)](img/accuracy_osu.png "Formula akurasi untuk osu!")
 
-Di osu!, akurasi dikalkulasi dengan menimbang penilaian yang diperoleh dari setiap hit objek berdasarkan nilainya dan dibagi dengan jumlah maksimum yang mungkin.
+Di osu!, akurasi dikalkulasi dengan menimbang [judgement](/wiki/Gameplay/Judgement) yang diperoleh dari setiap hit objek berdasarkan nilainya dan dibagi dengan jumlah maksimum yang mungkin.
 
 Referensi untuk satu hit lingkaran:
 

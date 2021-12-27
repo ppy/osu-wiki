@@ -243,7 +243,7 @@ Die Punkte, die von jedem Hit-Circle und jedem Ende eines Sliders vergeben werde
 
 | Begriff | Bedeutung |
 | :-: | :-- |
-| **Trefferwert** | Die Bewertung des Hit-Circles (50, 100 oder 300). |
+| **Trefferwert** | Die [Bewertung](/wiki/Gameplay/Judgement) des Hit-Circles (50, 100 oder 300). |
 | **Combo-Multiplikator** | (Combo vor dem Treffer - 1) oder 0; abhängig davon, was höher ist. |
 | **Fester Multiplikator** | Der Multiplikator, der den Punktestand bei 600.000 fixiert. |
 

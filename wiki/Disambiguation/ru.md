@@ -18,5 +18,6 @@
 - [Ouendan](Ouendan)
 - [osu!](osu!)
 - [Ранк](Rank)
+- [Score](Score)
 - [Звезда](Star)
 - [Версия](Version)
