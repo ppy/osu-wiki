@@ -10,7 +10,7 @@ Welcome aboard a brand new voting platform by helping decide who the top 20 best
 
 2021 was an incredible year for many circle clickers, some even with record-breaking performances in solo play and tournaments. As the year draws to a close, we're sending things off with the **9th iteration of the international top 20 voting**, hosted courtesy of my latest project: [Clicker's Choice](https://choice.hwc.hr/)!
 
-For those unaware, the osu! community has typically hosted a yearly top 20 vote on any number of platforms in the past with no real centralized place to handle anything.  This new platform should make it easier across the board to participate in such things, for users and hosts alike.
+For those unaware, the osu! community has typically hosted a yearly top 20 vote on any number of platforms in the past with no real centralized place to handle anything. This new platform should make it easier across the board to participate in such things, for users and hosts alike.
 
 This year's top 20 vote will be run on the Clicker's Choice website, which is already home to the top player voting for Germany, Poland, Canada, UK and many other countries.
 
