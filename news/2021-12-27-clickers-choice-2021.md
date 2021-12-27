@@ -22,7 +22,7 @@ As a voter, it's pretty straightforward — just log in through osu! and start v
 
 If you have any further questions, feel free to contact [hallowatcher](https://osu.ppy.sh/users/1874761) directly.
 
-[What are you waiting for? Click here to vote now!](https://choice.hwc.hr/vote/6)
+But other than that, what are you waiting for? [Go ahead and vote!](https://choice.hwc.hr/vote/6)
 
 
 Happy voting, and happy holidays!
