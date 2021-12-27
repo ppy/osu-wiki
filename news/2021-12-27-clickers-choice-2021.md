@@ -24,7 +24,6 @@ If you have any further questions, feel free to contact [hallowatcher](https://o
 
 But other than that, what are you waiting for? [Go ahead and vote!](https://choice.hwc.hr/vote/6)
 
-
 Happy voting, and happy holidays!
 
 —hallowatcher
