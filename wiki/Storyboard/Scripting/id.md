@@ -1,22 +1,34 @@
----
-outdated: true
-outdated_since: 029eb57bd83c4d5d74fb54d65723f05b44411250
----
-
-# Storyboard Scripting
+# Storyboard scripting
 
 ![Sebuah contoh scripting di .osb.](img/SBS_Base.jpg "Sebuah contoh scripting di .osb.")
 
-  Selain menggunakan [Storyboard Editor](/wiki/Beatmap_Editor/Design) (tab Design) untuk membuat [Storyboards](/wiki/Storyboard) pada beatmap, Anda juga dapat menggunakan teks editor biasa (seperti Notepad atau [Notepad++](http://www.notepad-plus-plus.org/)). Ini disebut sebagai "**Storyboarding by Scripting**" (SBS), dan membantu Anda agar lebih presisi (hingga satuan pixel dan milidetik) dalam perihal mengatur kapan sprite muncul, apa yang mereka lakukan, dan sebagainya.
+ Selain menggunakan [storyboard editor bawaan](/wiki/Beatmap_Editor/Design) untuk membuat [Storyboards](/wiki/Storyboard) pada beatmap, kamu juga dapat menggunakan teks editor biasa seperti Notepad atau [Notepad++](http://www.notepad-plus-plus.org/) atau [Visual Studio Code](https://code.visualstudio.com/). Alur kerja ini disebut "**S]storyboarding by Scripting**" (SBS), dan membantu storyboard menjadi lebih tepat (hingga satuan pixel dan milidetik) dalam perihal mengatur kapan sprite muncul, apa yang mereka lakukan, dan sebagainya.
 
-## Petunjuk Pemula
+Untuk mempelajari bagian spesifik dari scripting, tuju pada salah satu artikel di bawah ini:
 
-[Doomsday telah menyediakan petunjuk yang bagus untuk pemula mengenai konsep dari SBS disini (12:22).](http://www.youtube.com/watch?v=UJ1YLDs-bZg)
+- Konsep dasar:
+  - [Peraturan umum storyboarding](General_Rules)
+  - [Objek](Objects)
+  - [Perintah dasar](Commands)
+  - [Perintah gabungan](Compound_Commands)
+  - [Variabel](Variables)
+- Ekstra:
+  - [Memutar audio](Audio)
+  - [Contekan storyboard scripting](Cheat_Sheet)
+  - [osu! file toggles](osu!_File_Toggles)
+  - [Tulisan cepat dari perintah](Shorthand)
 
-## Spesifikasi Lengkap
+## Gambaran umum
 
-Secara garis besar, spesifikasi ini dibuat berdasarkan pada [Spesifikasi Resmi](https://osu.ppy.sh/community/forums/topics/1869) dan pengalaman saat membuat SB yang besar. Ini **bukanlah petunjuk langkah-demi-langkah**, meskipun contoh sederhana telah disediakan. Ini dimaksudkan untuk memberikan penjelasan mendalam mengenai bagaimana SBS diinterpretasikan menjadi berbagai aksi tertentu pada layar osu!
+[Doomsday](https://osu.ppy.sh/users/18983) telah menyediakan gambaran umum untuk pemula mengenai storyboard scripting: [osu! - Storyboard Scripting for Beginners (12:22)](http://www.youtube.com/watch?v=UJ1YLDs-bZg)
 
-[Tolong baca peraturan sebelum membuat SBS.](/wiki/Storyboard/Scripting/General_Rules) Peraturan tersebut akan membantu Anda agar tidak menghadapi kesulitan ke depannya. [Untuk spesifikasi sprite/objek](/wiki/Storyboard/Scripting/Objects) dan [moveset](/wiki/Storyboard/Scripting/Commands).
+## Spesifikasi lengkap
 
-Catatan: **Simpan di beatmap terlebih dahulu** sebelum menyimpannya di Notepad. Selain itu, editor kadang tidak peka terhadap aksi yang kita lakukan, maka **pastikan untuk sering melakukan penyimpanan**.
+*Catatan: Simpan proyek kamu pada editor bawaan terlebih dahulu, agar storyboard dapat dioptimisasi, lalu simpan itu pada teks editor. Selain itu, editor kadang tidak peka terhadap aksi yang kita lakukan, maka **pastikan untuk sering melakukan penyimpanan**.*
+
+Secara garis besar, spesifikasi ini dibuat berdasarkan pada [spesifikasi resmi](https://osu.ppy.sh/community/forums/topics/1869) dan pengalaman saat membuat storyboard yang besar. Artikel ini bukanlah petunjuk langkah-demi-langkah, meskipun contoh storyboard sederhana telah disediakan. Artikel ini dimaksudkan untuk memberikan penjelasan mendalam mengenai bagaimana perintah dasar scripting diinterpretasikan menjadi berbagai aksi tertentu pada layar osu!
+
+Sebelum membuat storyboard script, lihat [istilah dan konsep dasar](/wiki/Storyboard/Scripting/General_Rules) agar dapat mencegah salah paham dan masalah yang akan datang. Untuk penjelasan lebih dalam, lihat:
+
+- [Objek storyboard](/wiki/Storyboard/Scripting/Objects)
+- [Perintah storyboard scripting](/wiki/Storyboard/Scripting/Commands)
