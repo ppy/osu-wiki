@@ -8,29 +8,29 @@ tags:
   - raccourcis
 ---
 
-# Référence des touches de raccourci
+# Liste des raccourcis claviers
 
 Il existe de nombreux raccourcis dans osu! qui peuvent être utilisés dans le jeu ou en mode veille sur n'importe quel écran. Ils sont listés ci-dessous avec leurs fonctions.
 
 *Remarque : Cet article répertorie les raccourcis clavier par défaut. Vous pouvez modifier certains d'entre eux dans les [options](/wiki/Options).*
 
-## Dans tout le jeu
+## Général
 
 Ces raccourcis fonctionnent partout :
 
 | Raccourci | Action |
 | :-- | :-- |
-| `Alt` + `F4` | Ferme le client (pas d'invite). Si vous êtes dans le gameplay, dans l'éditeur de beatmaps ou dans osu!direct, revient à la sélection des beatmaps ou au menu principal (pour osu!direct). |
+| `Alt` + `F4` | Ferme le client (sans confirmation). Si vous êtes dans le gameplay, dans l'éditeur de beatmaps ou dans osu!direct, revient à la sélection des beatmaps ou au menu principal (pour osu!direct). |
 | `Alt` + `Up/Down Arrow` | Règle le volume principal, utilisez les flèches gauche et droite pour régler les volumes des effets et de la musique. |
-| `Ctrl` + `Alt` + `Shift` + `S` | Recharge le skin actuel. Si vous appuyez sur cette touche pendant le jeu ou sur l'écran des résultats, elle sera exécutée après le retour à l'écran de sélection des beatmaps. |
+| `Ctrl` + `Alt` + `Shift` + `S` | Recharge le skin actuel. Si vous appuyez sur cette touche en jeu, ou sur l'écran des résultats, elle sera exécutée après le retour à l'écran de sélection des beatmaps. |
 | `Ctrl` + `F11` | Active/Désactive le graphique des temps de trame. Appuyez sur `Ctrl` pour le mettre en pause. |
 | `F7` | Fait défiler les limiteurs de fréquence d'images. |
 | `F8` | Active/Désactive la fenêtre de tchat. |
 | `F9` | Active/Désactive la fenêtre de tchat étendue. |
 | `F10` | Active/Désactive tous les boutons de la souris (sauf la molette de la souris, qui est toujours activée). |
 | `F12` | Prend une capture d'écran. Cliquez sur la boîte de dialogue pour ouvrir le dossier des captures d'écran. |
-| `Shift` + `F12` | Prend une capture d'écran et téléchargez-la sur le serveur pour la partager. La capture d'écran sera également enregistrée localement. Cela ouvrira la capture d'écran sur votre navigateur web. |
-| `Insert` | C'est la [boss key](https://fr.wikipedia.org/wiki/Boss_key). Réduisez le client de jeu dans la zone de notification. Cela rendra également le jeu muet. |
+| `Shift` + `F12` | Prend une capture d'écran et l'upload sur le serveur à des fins de partage. La capture d'écran sera également enregistrée localement. Cela ouvrira la capture d'écran sur votre navigateur web. |
+| `Insert` | C'est la [boss key](https://fr.wikipedia.org/wiki/Boss_key). Réduit le client dans la zone de notification. Cela rendra également le jeu muet. |
 | `Shift` + `F1` | Ouvre [osu!status](https://twitter.com/osustatus) sur votre navigateur web. (Uniquement lorsqu'une erreur de connexion apparaît). |
 | `Ctrl` + `O` | Ouvre la barre latérale des options. Vous ne pouvez pas entrer dans l'assistant de décalage si vous n'êtes pas dans le menu principal. |
 
@@ -46,20 +46,20 @@ Ces raccourcis fonctionnent partout :
 | `P` deux fois, puis `M` | Entre dans le mode [Multi](/wiki/Multi). |
 | `E` deux fois | Entre dans le mode Edit. |
 | `O` | Ouvre la barre latérale des options. |
-| `Q` | Affiche l'invite de sortie. |
-| `Esc` | Affiche l'invite de sortie, lorsque le menu d'options et de lecture est fermé. |
+| `Q` | Affiche le menu de sortie |
+| `Esc` | Affiche le menu de sortie, lorsque le menu d'options et de lecture est fermé. |
 | `F` | Active/Désactive le compteur de FPS. |
 
 ### Jukebox
 
 | Raccourci | Action |
 | :-- | :-- |
-| `Z` ou `F1` | Lit la musique précédente. |
+| `Z` ou `F1` | Joue la musique précédente. |
 | `X` ou `F2` | Joue la musique. Si elle est en cours, recommence la musique. |
 | `C` | Active/Désactive la pause et la lecture. |
-| `F4` | Arrête la lecture (réinitialise l'heure actuelle). |
+| `F4` | Arrête la lecture (réinitialise le temps). |
 | `V` ou `F5` | Joue la musique suivante. |
-| `J` ou `F6` | Ouvre le menu de saut vers. |
+| `J` ou `F6` | Ouvre le menu de saut. |
 | `R` | Joue une musique au hasard. |
 
 ## Sélection des beatmaps
@@ -72,7 +72,7 @@ Ces raccourcis fonctionnent partout :
 | `F2` | Sélectionne aléatoirement une beatmap. |
 | `Shift` + `F2` | Retourne à la beatmap précédemment sélectionnée de manière aléatoire. |
 | `F3` | Ouvre les options de la beatmap. |
-| `F5` | Retraite les beatmaps (cela peut vous demander de continuer). |
+| `F5` | Recharger les beatmaps (demande une confirmation). |
 | `Shift` + `Delete` | Affiche la boîte de dialogue de suppression des beatmaps. Elle vous demandera si vous voulez supprimer les beatmap (toutes les difficultés), une seule difficulté ou toutes les beatmaps visibles. |
 | `Ctrl` + `1` | Passe en mode de jeu [osu!](/wiki/Game_mode/osu!). |
 | `Ctrl` + `2` | Passe en mode de jeu [osu!taiko](/wiki/Game_mode/osu!taiko). |
@@ -118,7 +118,7 @@ Ces raccourcis fonctionnent partout :
 | `B` | Score V2 |
 | `3` jusqu'à `9` | 3K jusqu'à 9K (osu!mania) |
 
-## Mode de lecture
+## En jeu
 
 | Raccourci | Action |
 | :-- | :-- |
@@ -126,8 +126,8 @@ Ces raccourcis fonctionnent partout :
 | `Esc` | Met le jeu en pause, ou revient à la sélection des beatmaps si vous regardez une rediffusion ou si le mode Auto ou Cinema est utilisé. |
 | `Space` | Passe au gameplay. |
 | `Tab` | Active/Désactive le scoreboard. |
-| `Shift` + `Tab` | Active/Désactive le masquage de l'interface du jeu. |
-| `H` | Active/Désactive le masquage du tableau d'affichage et de l'interface du replay (lorsque vous regardez une replay ou que vous êtes spectateur). |
+| `Shift` + `Tab` | Active/Désactive l'interface du jeu. |
+| `H` | Active/Désactive le tableau de score et l'interface du replay (lorsque vous regardez une replay ou que vous êtes spectateur). |
 | `F3` ou `F4` | Ajuste la vitesse pour osu!mania (peut être utilisé vers le début du jeu). |
 | `Ctrl` + `R` ou `` ` `` | Doit être tenu brièvement. Réessaie rapidement la beatmap en cours (saute l'intro). |
 
