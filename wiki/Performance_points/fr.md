@@ -93,7 +93,7 @@ Considérez les conseils suivants :
 - Jouez efficacement et déterminez le style de jeu qui vous convient le mieux.
 - Concentrez-vous sur l'obtention d'une poignée de résultats exceptionnels au lieu de "farmer" des centaines de résultats tout juste corrects.
 - Cherchez à améliorer votre précision. Même 1 % fait une énorme différence.
-- Visez des combos plus élevés. Les full combos (FC) ou les scores [SS](/wiki/Grade) donnent une grande quantité de score.
+- Visez des combos plus élevés. Les full combos (FC) ou les scores [SS](/wiki/Gameplay/Grade) donnent une grande quantité de score.
 
 ### Pourquoi n'ai-je pas gagné la totalité des pp d'une beatmap que j'ai jouée ?
 

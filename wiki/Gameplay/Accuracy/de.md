@@ -10,7 +10,7 @@ Die Genauigkeit ist ein prozentualer Messwert für die Fertigkeit eines Spielers
 
 ![Genauigkeit = (50 \* Anzahl der 50er + 100 \* Anzahl der 100er + 300 \* Anzahl der 300er) / 300(Anzahl der 0er + Anzahl der 50er + Anzahl der 100er + Anzahl der 300er)](img/accuracy_osu.png "Genauigkeitsformel für osu!")
 
-In osu! wird die Genauigkeit berechnet, indem die Bewertung jedes Hit-Objekts nach seinem Wert gewichtet und durch den maximal möglichen Wert geteilt wird.
+In osu! wird die Genauigkeit berechnet, indem die [Bewertung](/wiki/Gameplay/Judgement) jedes Hit-Objekts nach seinem Wert gewichtet und durch den maximal möglichen Wert geteilt wird.
 
 Referenz für einen Hit-Circle:
 

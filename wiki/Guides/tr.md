@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: acdcb1efbd3ac94eef628b095b78cbacfcdac000
+---
+
 # Kılavuzlar
 
 Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!forumlarda başlayıp osu! wiki'ye taşınmış olan kılavuzların sıralı listesi mevcuttur.
