@@ -188,13 +188,13 @@ Pada umumnya, riwayat nama-nama pengguna yang pernah kamu gunakan akan dapat ter
 
 ### Bendera yang tertera pada laman profil osu! saya tidak benar!
 
-**Mohon maaf, kami tidak dapat mengubah benderamu.**
+**Mohon maaf, namun kami tidak dapat mengubah benderamu.**
 
 Pada saat kamu pertama kali membuat akun, sistem kami akan secara otomatis memasangkan bendera yang sesuai dengan lokasi pendaftaranmu pada akun milikmu.
 
-Sebelumnya, kami menyediakan layanan untuk pengguna yang ingin mengganti benderanya dengan meminta pengguna untuk memberikan bukti dokumen kependudukan. Namun setelah banyak penyalahgunaan terjadi pada layanan ini, kami tidak punya opsi lain selain menghentikan layanan ini.
+Sebelumnya, kami membuka layanan penggantian bendera kepada para pengguna yang ingin mengubah benderanya dengan catatan mereka memiliki dokumen-dokumen kependudukan yang terkait. Meskipun demikian, karena dalam prakteknya layanan ini telah banyak disalahgunakan, kami memutuskan untuk tidak lagi melanjutkan layanan ini.
 
-Mohon untuk mengerti bahwa saat ini kami tidak dapat mengubah benderamu dengan alasan apapun. Tanpa memperhatikan bahwa kamu pernah mendengar atau mengenal pengguna yang pernah menggunakan layanan ini.
+Harap dimengerti bahwa untuk saat ini kami tidak dapat mengubah benderamu dengan alasan apapun, terlepas dari apakah kamu (atau seseorang yang kamu tahu) sebelumnya pernah menggunakan layanan ini ataupun tidak.
 
 ### Apakah saya dapat memiliki lebih dari satu akun?
 
