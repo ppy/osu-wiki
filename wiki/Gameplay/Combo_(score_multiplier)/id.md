@@ -33,15 +33,15 @@ tags:
 
 **Berikut ini adalah hal-hal yang akan mengatur ulang combo multiplier menjadi nol:**
 
-- *MISS* pada hit circle.
+- Gagal mengenai hit circle.
 - Menekan slider terlalu awal.
-- *MISS* pada awal slider atau gagal mengumpulkan slider tick.
-- Gagal memperluas lingkaran spinner ke ukuran yang telah disesuaikan.
+- Gagal mengenai awal slider atau slider tick yang ada pada badan slider.
+- Gagal untuk mencapai jumlah putaran yang diperlukan untuk dapat menyelesaikan spinner.
   - Tampilan pada skin v1: Gagal untuk mengisi setidaknya setengah dari meteran spinner.
 
 **Berikut ini adalah hal-hal yang tidak akan menambah atau mengatur ulang combo multiplier:**
 
-- *MISS* pada bagian akhir slider (akan menghasilkan Katu atau 100/50 hit)
+- Gagal menyelesaikan slider (yang akan menghasilkan Katu atau *hit judgement* 100/50).
 - Spinner dengan bonus poin 1,000
 
 ### osu!taiko
@@ -70,8 +70,8 @@ tags:
 
 **Berikut ini adalah hal-hal yang akan mengatur ulang combo multiplier menjadi nol:**
 
-- *Fruit* tidak tertangkap.
-- *Juice drop* tidak tertangkap.
+- Terdapat *fruit* yang gagal tertangkap..
+- Terdapat *juice drop* yang gagal tertangkap..
 
 **Berikut ini adalah hal-hal yang tidak akan menambah atau mengatur ulang combo multiplier:**
 
