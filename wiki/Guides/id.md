@@ -6,8 +6,8 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 
 *Halaman utama: [Beatmapping](/wiki/Beatmapping)*
 
-- [Panduan pengeditan Audio](Audio_Editing)
-- [Mengubah Judul Teks](/wiki/Beatmap/Title_Text#mengganti-judul-teks)
+- [Panduan menyunting audio](Audio_Editing)
+- [Mengubah judul teks](/wiki/Beatmap/Title_Text#mengganti-judul-teks)
 - [Mengompres berkas](Compressing_Files)
 - [Daftar hitsound khusus](Custom_Hitsound_Library)
 - [Custom sample overrides](Custom_Sample_Overrides)
@@ -32,7 +32,7 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 ## Permainan
 
 - [Cara mencari dan mengunduh beatmap](Searching_and_Downloading_Beatmaps)
-- [Cara menggunakan Offset Wizard](How_to_Use_the_Offset_Wizard)
+- [Cara menggunakan offset wizard](How_to_Use_the_Offset_Wizard)
 - [Panduan untuk membeli tablet](Tablet_Purchase)
 - [Panduan untuk pemula](Beginner's_Tutorial)
 
