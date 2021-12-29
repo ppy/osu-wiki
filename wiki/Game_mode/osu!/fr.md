@@ -10,7 +10,7 @@ Le premier mode de jeu et homonyme qui était basé sur la série ouendan.
 
 *[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan)* est un jeu de rythme pour la *Nintendo DS*. Le gameplay se compose de seulement trois éléments : taper des cercles sur l'écran tactile, faire glisser une balle sur une trajectoire fixe et faire tourner un spinner très rapidement. Tous ces éléments sont synchronisés avec des (reprises de) chansons japonaises populaires. Voici à quoi ressemble le jeu sur la *DS* :
 
-![Exemple de gameplay de Osu! Tatakae! Ouendan sur Nintendo DS](/wiki/shared/Ouendan.jpg "Exemple de gameplay de Osu! Tatakae! Ouendan sur Nintendo DS")
+![Exemple de gameplay d'Osu! Tatakae! Ouendan sur Nintendo DS](/wiki/shared/Ouendan.jpg "Exemple de gameplay d'Osu! Tatakae! Ouendan sur Nintendo DS")
 
 Les cercles sont visibles sur l'écran inférieur, et l'histoire sur l'écran supérieur. Chaque étape est en fait une histoire indépendante sur une personne en difficulté. C'est là que le *Ouendan* (Équipe de pom-pom girls) entre en jeu. Grâce au pouvoir magique du cheerleading masculin, le joueur doit aider les personnes en difficulté.
 
@@ -25,7 +25,7 @@ Le gameplay met l'accent sur :
 - Le contrôle des périphériques d'entrée.
 - Le timing des frappes sur l'objet apparu à l'écran.
 - La possibilité de faire tourner la souris (ou le stylo pour les tablettes) sur les spinners.
-- Une endurance physique et la force mentale (en particulier les musiques plus longues, de type marathon).
+- Une endurance physique et la force mentale (en particulier pour les musiques plus longues, de type marathon).
 - Un positionnement correct et coordination main-œil.
 
 Ce sont quelques-unes des compétences essentielles pour devenir un *champion du rythme d'osu!*.
@@ -62,7 +62,7 @@ Pour comprendre le charme caché des cercles, ne vous fiez pas uniquement à vot
 
 ![Sliders](/wiki/shared/osu_slider.jpg "Sliders d'osu!")
 
-Il faut d'abord taper dessus au bon moment, mais cela ne s'arrête pas là. Une balle va commencer à se déplacer sur la trajectoire. Maintenez le bouton de la souris/du clavier (ou maintenez le stylo sur la tablette) et suivez la balle à l'intérieur du cercle orange épais qui l'entoure, au fur et à mesure de son déplacement. Le cercle extérieur orange, appelé follow circle, apparaîtra si vous tenez la slider ball, mais disparaîtra lorsque vous la relâcherez.
+Il faut d'abord appuyer dessus au bon moment, mais cela ne s'arrête pas là. Une balle va commencer à se déplacer sur la trajectoire. Maintenez le bouton de la souris/du clavier (ou maintenez le stylo sur la tablette) et suivez la balle à l'intérieur du cercle orange épais qui l'entoure, au fur et à mesure de son déplacement. Le cercle extérieur orange, appelé follow circle, apparaîtra si vous tenez la slider ball, mais disparaîtra lorsque vous la relâcherez.
 
 Parfois, comme dans la capture d'écran ci-dessus, la balle peut inverser sa direction et le joueur doit la suivre jusqu'au début de la trajectoire ou vice versa. Le repère visuel est une flèche située sur le cercle de départ ou d'arrivée de la trajectoire.
 
@@ -70,7 +70,7 @@ Parfois, comme dans la capture d'écran ci-dessus, la balle peut inverser sa dir
 
 ![Spinner](/wiki/shared/osu_spinner.jpg "Spinners d'osu!")
 
-Maintenez le bouton de la souris/du clavier (ou le stylo sur la tablette). À partir de là, utilisez la souris (ou le stylo) et faites tourner le spinner dans un mouvement circulaire (dans un sens ou dans l'autre) jusqu'à ce que le cercle du spinner s'élargisse complètement. Un avis *Clear* apparaîtra pour indiquer que le spinner est terminée. Si le spinner a été terminé prématurément, continuez à tourner pour obtenir un bonus de score et regagner un peu de vie.
+Maintenez le bouton de la souris/du clavier (ou le stylet sur la tablette). À partir de là, utilisez la souris (ou le stylet) et faites tourner le spinner dans un mouvement circulaire (dans un sens ou dans l'autre) jusqu'à ce que le cercle du spinner s'élargisse complètement. Un avis *Clear* apparaîtra pour indiquer que le spinner est terminé. Si le spinner a été terminé prématurément, continuez à tourner pour obtenir un bonus de score et regagner un peu de vie.
 
 Le cercle blanc extérieur indique le temps restant pour compléter le spinner. Ce cercle devient rouge pour indiquer que le temps est presque écoulé. Les anciennes beatmaps, utilisant le *skin version 1.0*, auront un compteur/une jauge pour indiquer la proximité de la fin du spinner.
 
@@ -86,7 +86,7 @@ Sur la *DS*, c'est un bon moyen de rayer l'écran tactile (ou la protection d'é
 
 Les contrôles par défaut pour osu! sont :
 
-| Mouse | Keyboard | Tablet/Touchscreen |
+| Souris | Clavier | Tablette/Écran tactile|
 | :-- | :-- | :-- |
 | Clic gauche (M1) / Clic droit (M2) | `Z` (K1) / `X` (K2) | Toucher l'écran (M1) |
 
@@ -96,7 +96,7 @@ Si le modificateur de jeu [Relax](/wiki/Game_modifier/Relax) a été utilisé, s
 
 Si le modificateur de jeu [Auto Pilot](/wiki/Game_modifier/Autopilot) a été utilisé, seule l'entrée du périphérique d'entrée fonctionnera. Ce dernier va frapper sur les objets avec un mouvement automatique du curseur. Les spinners suivront la vitesse du mod [Spun Out](/wiki/Game_modifier/Spun_Out).
 
-## Notation
+## Calcul du score
 
 Le [score dans osu!](/wiki/Gameplay/Score/osu!) est une somme pondérée de plusieurs composantes du gameplay. Il dépend des éléments suivants :
 
@@ -135,16 +135,16 @@ Après avoir terminé une beatmap, le score se voit attribuer un [grade](/wiki/G
 ### Histoire
 
 - Ancienne version d'osu! utilisée pour émuler certains éléments de la série *Ouendan* avant d'être retirée ou remplacée :
-  - [Combo fire](/wiki/Glossary/Combo_fire) lorsque vous atteignez de nouvelles étapes de combo.
+  - [Combo fire](/wiki/Glossary/Combo_fire) lorsque vous atteignez un nouveau palier de combo.
   - La première version du skin par défaut utilisant le comportement du skin v1, qui était *osu!default by peppy*, fournit une copie presque identique de l'interface *Ouendan*.
     - Il a été remplacé par un skin par défaut plus joli, utilisant le comportement du skin v2.
   - La différence la plus notable entre le comportement des skins v1 et v2 est le spinner.
     - Le comportement du skin v1 pour un spinner incrémenterait le compteur du spinner de bas en haut par niveaux jusqu'à ce qu'il soit plein comme dans la série *Ouendan*.
       - Le timer est un cercle à l'intérieur du spinner qui converge vers le centre du spinner. Le spinner s'arrête lorsque le cercle du timer a atteint le centre du spinner.
     - Le comportement du skin v2 pour un spinner étend lentement le cercle du spinner à sa taille maximale et s'illumine lorsqu'il est terminé.
-      - Le timer est le cercle extérieur du spinner qui change de couleur. Le spinner s'arrête lorsque le cercle du spinner a complètement changer de couleur.
+      - Le timer est le cercle extérieur du spinner qui change de couleur. Le spinner s'arrête lorsque le cercle du spinner a complètement changé de couleur.
 - Les trois premières beatmaps classées le même jour (07 octobre 2007, 07/10/2007) lors de la mise en ligne du classement sont les suivants :
-  - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1), ou `discoprince` ; qui a été apparemment mapper en une heure environ.
+  - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1), ou `discoprince` ; qui a été apparemment mappé en environ une heure.
   - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3) , ou `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16), ou `Brandy - Love Fighter`.
 - Notamment, les anciens dossiers ont leur propre convention d'appellation (les noms de dossiers ne peuvent être trouvés que dans les *anciens* packs de beatmaps) et ne suivent pas strictement le format actuel imposé `{BeatmapSetID} {ArtistName} - {BeatmapName}`.
