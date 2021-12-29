@@ -243,7 +243,7 @@ The score given by each hit circle and end of a slider is calculated with the fo
 
 | Term | Meaning |
 | :-: | :-- |
-| **Hit Value** | The hit circle judgement (50, 100 or 300). |
+| **Hit Value** | The hit circle [judgement](/wiki/Gameplay/Judgement) (50, 100 or 300). |
 | **Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher. |
 | **Fixed multiplier** | The multiplier that fixes the score into 600.000 |
 
