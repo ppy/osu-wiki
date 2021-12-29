@@ -33,7 +33,7 @@ In osu!taiko, accuracy is calculated by taking the sum of the note accuracy (how
 
 In osu!catch, accuracy is calculated by taking the total number of non-spinner hit objects collected, divided by the total number of non-spinner objects. All hit objects have the same value; except for bananas, as they are part of the spinner objects.
 
-*Notes for API users:*
+*Notes for [API](/wiki/osu!api) users:*
 
 - The number of caught drops is returned as `count100`.
 - The number of caught droplets is returned as `count50`.
