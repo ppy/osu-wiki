@@ -48,13 +48,13 @@ Wir bitten Spieler von zu Recht eingeschränkten Accounts einige Zeit zu warten,
 
 ## Meine Auszeit ist vorbei. Wie lege ich Beschwerde ein?
 
-Du kannst durch eine E-Mail mit dem Nutzernamen deines Accounts an [accounts@ppy.sh](mailto:accounts@ppy.sh) eine Beschwerde einreichen. Stelle sicher, dass du die E-Mail von der E-Mail-Adresse aus sendest, die mit deinem Account verknüpft ist. Erwarte eine Antwort innerhalb einer Woche nachdem du die Beschwerde eingereicht hast. Wenn du danach noch keine Antwort erhalten hast, dann kontaktiere uns bitte via Twitter oder E-Mail - es gibt die Möglichkeit, dass wir sie nicht erhalten haben.
+Du kannst durch eine E-Mail mit dem Nutzernamen deines Accounts an [accounts@ppy.sh](mailto:accounts@ppy.sh) eine Beschwerde einreichen. Stelle sicher, dass du die E-Mail von der E-Mail-Adresse aus sendest, die mit deinem Account verknüpft ist. Erwarte eine Antwort innerhalb einer Woche nachdem du die Beschwerde eingereicht hast. Wenn du danach noch keine Antwort erhalten hast, dann kontaktiere uns bitte via Twitter oder E-Mail - es besteht die Möglichkeit, dass wir sie nicht erhalten haben.
 
 Beim Einreichen einer Beschwerde erwarten wir die folgenden Punkte:
 
 - **Geschichte deines Accounts.** Es muss nicht zu detailiert sein. Das hier sollte alle Verstöße gegen wichtige Vorschriften beinhalten (Multi-Accounting, das Teilen von Accounts, Cheaten oder Stummschaltungen). Du musst nicht an jedes Datum, jede Stummschaltung oder jeden Account, den du erstellt hast, denken, solange du mit deinen Taten ehrlich bist. Dies beinhaltet jede Regel, die du während der Einschränkung gebrochen hast, sofern anwendbar.
 - **Warum du die Regeln gebrochen hast.** Eine Erklärung, was dich dazu geführt hat, neue Accounts zu erstellen, deinen Account weiter zu geben, zu schummeln, usw. wird uns helfen (und dir) zu bestimmen, ob die Gefahr besteht, dass du einen weiteren Verstoß begehst. Wenn du während einer Einschränkung Verstöße begehst, dann sind wir ebenso daran interessiert zu wissen, warum.
-- **Wie du die Möglichkeiten erhalten hast.** Das bezieht sich am meisten auf Cheaten - wir wollen wiseen, wie du an die benutzten Tools gelangt bist, wie du darauf gestoßen bist und ob sich die Tools noch auf deinem Computer befinden.
+- **Wie du die Möglichkeiten erhalten hast.** Das bezieht sich am meisten auf Cheaten - wir wollen wissen, wie du an die benutzten Tools gelangt bist, wie du darauf gestoßen bist und ob sich die Tools noch auf deinem Computer befinden.
 - **Warum wir dich zurücklassen sollten.** Meistens bezieht sich das auf den zweiten Punkt. Wir wollen sicher gehen, dass du die Regeln nicht noch einmal brichst! Bitte verstehe, dass wir mehr in deiner Beschwerde erwarten, wenn es viele Verstöße gab.
 
 ## Was, wenn meiner Beschwerde Recht gegeben wird?
