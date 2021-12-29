@@ -49,7 +49,7 @@ Les notes doivent être pressées ou frappées dans le petit cercle blanc de jug
 
 Frappez le tambour intérieur (ou extérieur) de façon continue pour obtenir des points jusqu'à la fin du drumroll. Pour une note **LARGE**, frappez les deux boutons du tambour intérieur (ou extérieur) simultanément et sans interruption jusqu'à la fin. Notez que les coups du drumroll sont plafonnés et ne sont comptés que lorsqu'ils sont frappés sur les petits cercles, plutôt que de jouer le drumrool aussi vite que possible comme dans *Taiko no Tatsujin*.
 
-Les drumroll peuvent être ignorés sans pénalité de vie, car ils ne récupèrent pas du tout la barre de vie. Cependant, cela coûtera les éventuels points gagnés grâce au drumroll. Chaque coup réussi sur le petit cercledonne un score statique de 300.
+Les drumroll peuvent être ignorés sans pénalité de vie, car ils ne permettent pas de faire remonter la barre de vie. Cependant, cela coûtera les éventuels points gagnés grâce au drumroll. Chaque coup réussi sur le petit cercledonne un score statique de 300.
 
 #### Dendens/Shaker
 
