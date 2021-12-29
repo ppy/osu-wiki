@@ -1,5 +1,4 @@
 ---
-outdated: true
 tags:
   - profile
   - issue
@@ -189,17 +188,13 @@ Pada umumnya, riwayat nama-nama pengguna yang pernah kamu gunakan akan dapat ter
 
 ### Bendera yang tertera pada laman profil osu! saya tidak benar!
 
-**Kami dapat mengubah benderamu dari satu negara ke negara lain, namun hanya apabila kamu dapat menunjukkan kepada kami bukti-bukti kependudukan atau kewarganegaraan yang diisukan oleh negara yang bersangkutan.**
+**Mohon maaf, namun kami tidak dapat mengubah benderamu.**
 
 Pada saat kamu pertama kali membuat akun, sistem kami akan secara otomatis memasangkan bendera yang sesuai dengan lokasi pendaftaranmu pada akun milikmu.
 
-Sebagai contoh, apabila kamu menbuat akunmu pada saat kamu sedang berlibur di Amerika Serikat, akunmu akan memiliki bendera Amerika Serikat dan kamu juga akan terdaftar pada peringkat negara (*country ranking*) Amerika Serikat.
+Sebelumnya, kami membuka layanan penggantian bendera kepada para pengguna yang ingin mengubah benderanya dengan catatan mereka memiliki dokumen-dokumen kependudukan yang terkait. Meskipun demikian, karena dalam prakteknya layanan ini telah banyak disalahgunakan, kami memutuskan untuk tidak lagi melanjutkan layanan ini.
 
-Apabila kamu ingin mengubah bendera yang tertera pada laman profil osu! milikmu, **harap hubungi tim layanan dukungan kami**.
-
-Tim kami akan memintamu untuk menunjukkan dokumen-dokumen kependudukan atau kewarganegaraan milikmu sebagai bukti - entah itu paspor, SIM, KTP, ataupun dokumen-dokumen lainnya yang memiliki kekuatan hukum serupa. Harap kirimkan dokumen-dokumen tersebut dalam bentuk foto yang di dalamnya turut menyertakan gambar klien osu! yang tengah terhubung masuk dengan akun milikmu.
-
-Kami tidak akan membocorkan informasi-informasi ini kepada pihak lain, dan kami sangat menyarankan agar kamu dapat terlebih dahulu menyensor informasi-informasi yang bersifat pribadi (seperti nama, tanggal lahir, dan lain sebagainya) sebelum kamu mengirimkan foto yang bersangkutan kepada kami.
+Harap dimengerti bahwa untuk saat ini kami tidak dapat mengubah benderamu dengan alasan apapun, terlepas dari apakah kamu (atau seseorang yang kamu tahu) sebelumnya pernah menggunakan layanan ini ataupun tidak.
 
 ### Apakah saya dapat memiliki lebih dari satu akun?
 
