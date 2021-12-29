@@ -60,4 +60,4 @@ Wembley, WA, 6014
 Australia
 ```
 
-*Terakhir diperbarui pada 7 November 2019. [Lihat riwayat kebijakan ini di sini](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Copyright/en.md).*
+*Terakhir diperbarui pada tanggal 7 November 2019. [Lihat riwayat kebijakan ini di sini](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Copyright/en.md).*
