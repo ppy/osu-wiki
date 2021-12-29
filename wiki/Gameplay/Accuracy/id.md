@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: a4d801f4dbb4b86901f63773b7993647eb5b7ba8
+---
+
 # Akurasi
 
 <!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
