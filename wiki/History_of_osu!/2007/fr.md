@@ -98,7 +98,7 @@ Les musiques peuvent être éditées en les glissant dans la fenêtre d'osu! ; l
 
 ## Références
 
-1. [peppy's Twitter post about the start of osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
-2. [pUpdater  (aka osume) forum post](https://osu.ppy.sh/community/forums/topics/4?n=1)
+1. [post Twitter de peppy sur le début d'osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
+2. [pUpdater  (alias osume) post forum](https://osu.ppy.sh/community/forums/topics/4?n=1)
 
 [r]: #références

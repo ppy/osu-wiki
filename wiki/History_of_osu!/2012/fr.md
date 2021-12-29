@@ -27,7 +27,7 @@ L'événement principal de cette mise à jour était osu!mania. De nombreux joue
 
 Le saviez-vous ? : Pour les joueurs qui sont entrés dans le lobby multijoueur avant la mise à jour vers la build b20121008, ils peuvent voir une apparition comique d'osu!mania nommé comme "3" sans l'icône du mode de jeu (comme vu ci-dessous). Il est néanmoins impossible d'entrer dans la salle sans appliquer la mise à jour, et encore moins d'y jouer.
 
-![](img/2012-10_03.jpg "Entrer dans le multijoueur sans la build b20121008 a cassé osu!mania")
+![](img/2012-10_03.jpg "Accéder au multijoueur sans la build b20121008 a cassé osu!mania")
 
 Liens :
 
