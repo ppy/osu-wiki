@@ -4,9 +4,9 @@
 
 osu!stream propose jusqu'à 45 musiques jouables réparties dans différents packs de musiques. Depuis [la mise à jour de 2020](https://news.osustream.com/post/611013728007274496/osustream-2020-release), toutes les musiques peuvent être téléchargées et jouées gratuitement.
 
-Dans le menu Store, vous pouvez faire défiler la liste de tous les packs de musique disponibles et prévisualiser les beatmaps qu'ils contiennent avant de les télécharger. En sélectionnant le bouton `PREVIEW`, vous pourrez voir une courte démonstration de jeu des quatre difficultés dans une beatmap, de la difficulté la plus basse à la plus élevée [dans l'ordre correspondant du stream](/wiki/osu!stream#nouveau-système-de-gameplay).
+Dans le menu Store, vous pouvez faire défiler la liste de tous les packs de musiques disponibles et prévisualiser les beatmaps qu'ils contiennent avant de les télécharger. En sélectionnant le bouton `PREVIEW`, vous pourrez voir une courte démonstration de jeu des quatre difficultés dans une beatmap, de la difficulté la plus basse à la plus élevée [dans l'ordre correspondant du stream](/wiki/osu!stream#nouveau-système-de-gameplay).
 
-Tout comme les [featured artists](/wiki/Featured_Artists) qu'osu! possède aujourd'hui, toutes les musiques disponibles dans le jeu sont soit commandées soit sous licence avant leur sortie. Il est à noter que les beatmaps osu!stream sont au format de fichier `.osf2` (au lieu de [`.osz`](/wiki/osu!_File_Formats/Osz_(file_format))) et ne sont donc pas compatibles avec le client d'osu!.
+Tout comme les [featured artists](/wiki/Featured_Artists) qu'osu! possède aujourd'hui, toutes les musiques disponibles dans le jeu sont soit commandées soit sous licence avant leur sortie. Il est à noter que les beatmaps d'osu!stream sont au format de fichier `.osf2` (au lieu de [`.osz`](/wiki/osu!_File_Formats/Osz_(file_format))) et ne sont donc pas compatibles avec le client d'osu!.
 
 ## Bundled songs
 
@@ -28,7 +28,7 @@ Voir également :
 - [Profil osu! de nekodex](https://osu.ppy.sh/users/102)
 - [Profil osu! de tieff](https://osu.ppy.sh/users/89619)
 - [Profil osu! de Natteke](https://osu.ppy.sh/users/157177)
-- [Profil de SkyMarshall](https://hafskjold.net/skymarshallarts/)
+- [Site web de SkyMarshall](https://hafskjold.net/skymarshallarts/)
 
 ## Free Pack 1
 
@@ -80,7 +80,7 @@ Voir également :
 
 Prix : **Gratuit** / **USD$1.99** (Avant la [mise à jour de 2020](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
-Ce pack comprend quatre musique de l'extraordinaire Cranky.
+Ce pack comprend quatre musiques de l'extraordinaire Cranky.
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
@@ -132,7 +132,7 @@ Voir également :
 
 Prix : **Gratuit** / **USD$0.99** (Avant la [mise à jour de 2020](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
-Ce pack comprend quatre musique de style électronique interprétées par divers musiciens du monde entier.
+Ce pack comprend quatre musiques de style électronique interprétées par divers musiciens du monde entier.
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
@@ -202,9 +202,9 @@ Voir également :
 
 Prix : **Gratuit** / **USD$1.99** (pre-[v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release))
 
-Ce pack comprend quatre musiques/arrangements de compositions originales du projet Touhou par divers musiciens du monde entier. 
+Ce pack comprend quatre musiques/arrangements de compositions originales de Touhou Project par divers musiciens du monde entier. 
 
-Initialement, ce pack était inclus dans le lancement du jeu de base au prix de 1,99 USD$. Cependant, en raison de problèmes juridiques liés à la distribution de ressources liées au projet Touhou sur l'App Store en tant que contenu payant, ce pack a été retiré dans la [mise à jour v1.1](https://news.osustream.com/post/10624373514/osustream-v11-release). Ce pack a donc été réédité en tant que contenu gratuit dans la [mise à jour 2020](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
+Initialement, ce pack était inclus dans le lancement du jeu de base au prix de 1,99 USD$. Cependant, en raison de problèmes juridiques liés à la distribution de ressources liées à Touhou Project sur l'App Store en tant que contenu payant, ce pack a été retiré dans la [mise à jour v1.1](https://news.osustream.com/post/10624373514/osustream-v11-release). Ce pack a donc été réédité en tant que contenu gratuit dans la [mise à jour 2020](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
@@ -223,9 +223,9 @@ Voir également :
 
 Prix : **Gratuit** / **USD$1.99** (pre-[v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release))
 
-Ce pack comprend quatre musiques/arrangements de compositions originales du projet Touhou par divers musiciens du monde entier. 
+Ce pack comprend quatre musiques/arrangements de compositions originales de Touhou Project par divers musiciens du monde entier. 
 
-Initialement, ce pack était inclus dans le lancement du jeu de base au prix de 1,99 USD$. Cependant, en raison de problèmes juridiques liés à la distribution de ressources liées au projet Touhou sur l'App Store en tant que contenu payant, ce pack a été retiré dans la [mise à jour v1.1](https://news.osustream.com/post/10624373514/osustream-v11-release). Ce pack a donc été réédité en tant que contenu gratuit dans la [mise à jour 2020](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
+Initialement, ce pack était inclus dans le lancement du jeu de base au prix de 1,99 USD$. Cependant, en raison de problèmes juridiques liés à la distribution de ressources liées à Touhou Project sur l'App Store en tant que contenu payant, ce pack a été retiré dans la [mise à jour v1.1](https://news.osustream.com/post/10624373514/osustream-v11-release). Ce pack a donc été réédité en tant que contenu gratuit dans la [mise à jour 2020](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |
@@ -256,7 +256,7 @@ Voir également :
 
 ---
 
-![L'écran de chargement de l'aperçu](img/Os-Demo_Load.jpg "L'écran de chargement de l'aperçu")
+![L'écran de chargement](img/Os-Demo_Load.jpg "L'écran de chargement")
 
 ---
 
