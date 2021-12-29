@@ -45,7 +45,7 @@ La osu! Mapping World Cup est gérée par différents membres de la communauté.
 
 - [Fil de discussion](https://osu.ppy.sh/community/forums/topics/843987)
 - [Livestream](https://www.twitch.tv/osumwc)
-- [Serveur discord](https://discord.gg/DybsJTr)
+- [Serveur Discord](https://discord.gg/DybsJTr)
 
 ## Participants
 
