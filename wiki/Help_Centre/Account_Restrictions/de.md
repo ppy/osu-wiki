@@ -19,20 +19,20 @@ Wenn dein Account eingeschränkt wurde, verfalle nicht in Panik. Folge bitte die
 
 - **Warte 24 Stunden.** Einige Einschränkungen sind das Ergebnis automatischer Prozesse. Bitte warte 24 Stunden, da wir täglich jede neue Einschränkung überprüfen - wenn deine Einschränkung ein Irrtum war, wird sie hoffentlich innerhalb dieses Zeitrahmens aufgehoben.
 - **Kontaktiere unser [Account-Support-Team](/wiki/People/The_Team/Account_support_team).** Wenn dein Account nach dieser Dauer immer noch eingeschränkt ist, sende bitte eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) **von der E-Mail-Adresse, die mit deinem Account verknüpft ist,** um nach Details zu deiner Einschränkung zu fragen. Stelle sicher, dass du deinen Benutzernamen sowie jedes Detail, warum du glaubst, dass dein Account eingeschränkt wurde, der E-Mail hinzufügst. Je mehr du uns erzählst, desto leichter ist es für uns, das Problem zu lösen.
-- Wenn du überzeugt bist, dass deine Einschränkung ein Irrtum ist, dann kontaktiere uns bitte sofort, damit wir deinen Fall besprechen können.
+- Wenn du der festen Überzeugung bist, dass deine Einschränkung ein Irrtum ist, dann kontaktiere uns bitte sofort, damit wir deinen Fall besprechen können.
 
 Wenn dein Account aufgrund von [Regelbruch](/wiki/Rules) eingeschränkt wurde, wird eine Auszeit von drei Monaten gesetzt, bis du wieder eine Beschwerde einlegen darfst.
 
 Wenn dein originaler Account nicht eingeschränkt ist, dann darfst du dich dort einloggen und normal weiterspielen, aber stelle sicher, dass du ab diesem Zeitpunkt nicht mehr in deine Multi-Accounts einloggst. Machst du es trotzdem, wird das zu härteren Strafen führen.
 
-Wenn deine Beschwerde zugelassen wurde und dein Account nach dem Spielen erneut eingeschränkt wird, gerate nicht in Panik! Automatisierte Systeme könnten dein Account fälschlicherweise gekennzeichnet, aber dein Account wird innerhalb von 24 Stunden wieder entsperrt, falls das der Fall sein sollte. Sende uns gerne eine E-Mail oder einen Tweet, um unsere Aufmerksamkeit zu gewinnen und schneller entsperrt zu werden!
+Wenn deine Beschwerde zugelassen wurde und dein Account nach dem Spielen erneut eingeschränkt wird, gerate nicht in Panik! Automatisierte Systeme könnten deinen Account fälschlicherweise gekennzeichnet haben, aber dein Account wird innerhalb von 24 Stunden wieder entsperrt, falls das der Fall sein sollte. Sende uns gerne eine E-Mail oder einen Tweet, um unsere Aufmerksamkeit zu gewinnen und schneller entsperrt zu werden!
 
 ## Warum wurde mein Account eingeschränkt?
 
 Es gibt mehrere Gründe, warum dein Account eingeschränkt werden kann.
 
-- **Es ist nicht dein erster Account.** Multi-Accounting ist gegen die Regeln. Jeder andere Account neben dem ersten des Spielers wird dauerhaft gesperrt, aber ihr originaler wird in den meisten Fällen unberührt bleiben und der Spieler wird dazu aufgemuntert, auf diesem weiter zu spielen. Wenn das Multi-Accounting häufig auftritt, wird der originale Account als Warnung stumm geschalten und der Hauptaccount wird eingeschränkt, sollte das Verhalten dennoch anhalten. Wenn dein Account eingeschränkt ist und du andere besitzt, bitte greife nicht auf diese zu, sondern nutze ausschließlich den originalen Account. Wenn du Probleme beim Zugriff oder Verifizieren deines Accounts hast, sende uns bitte eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh), damit wir dir helfen können, wieder Zugriff auf deinen Account zu bekommen.
-- **Du hast jemandem erlaubt, auf deinem Account zu spielen.** Das Teilen von Accounts ist ebenso gegen die Regeln. Wenn du jemandem, Zugriff auf dein Account gibst, dann wird dieser eingeschränkt. Der Account des Spielers, der deinen Account benutzt hat, wird wahrscheinlich stumm geschalten oder gesperrt. Wenn das ausversehen passiert ist, lass uns das bitte sobald wie möglich durch eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) wissen.
+- **Es ist nicht dein erster Account.** Multi-Accounting ist gegen die Regeln. Jeder andere Account neben dem ersten des Spielers wird dauerhaft gesperrt, aber der originale Account wird in den meisten Fällen unberührt bleiben und der Spieler wird dazu ermutigt, auf diesem weiter zu spielen. Wenn das Multi-Accounting häufig auftritt, wird der originale Account als Warnung stumm geschaltet und der Hauptaccount wird eingeschränkt, sollte das Verhalten dennoch anhalten. Wenn dein Account eingeschränkt ist und du andere besitzt, bitte greife nicht auf diese zu, sondern nutze ausschließlich den originalen Account. Wenn du Probleme beim Zugriff oder Verifizieren deines Accounts hast, sende uns bitte eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh), damit wir dir helfen können, wieder Zugriff auf deinen Account zu bekommen.
+- **Du hast jemandem erlaubt, auf deinem Account zu spielen.** Das Teilen von Accounts ist ebenso gegen die Regeln. Wenn du jemandem Zugriff auf dein Account gibst, dann wird dieser eingeschränkt. Der Account des Spielers, der deinen Account benutzt hat, wird wahrscheinlich stumm geschaltet oder gesperrt. Wenn das ausversehen passiert ist, lass uns das bitte sobald wie möglich durch eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) wissen.
 - **Du schummelst.** Die Benutzung eines Drittanbieter-Programms, Makros oder jeglicher anderer Form von unfairem Vorteil wird in einer sofortigen Einschränkung enden.
 - **Andere Gründe.** Das Account-Team behält sich das Recht vor, Accounts auch aus anderen Gründen einzuschränken.
 
@@ -40,7 +40,7 @@ Wir bitten Spieler von zu Recht eingeschränkten Accounts einige Zeit zu warten,
 
 ## Was mache ich während der Auszeit vor dem Einreichen einer Beschwerde?
 
-- **Habe Spaß am Spiel!** Während dein Account eingeschränkt ist und du eine Auszeit hast, kannst du immer noch das Spiel spielen (solange du auf deinem originalen Account spielst!). Die Scores, die du erreichst werden eingereicht und bleiben dir erhalten nachdem die Einschränkung aufgehoben wurde, sofern dein Spielstand nicht zurückgesetzt wird.
+- **Habe Spaß am Spiel!** Während dein Account eingeschränkt ist und du eine Auszeit hast, kannst du immer noch das Spiel spielen (solange du auf deinem originalen Account spielst!). Die Scores, die du erreichst werden eingereicht und bleiben dir erhalten nachdem die Einschränkung aufgehoben wurde, sofern dein Account nicht zurückgesetzt wird.
 - **Behalte gutes Verhalten bei.** Wir verstehen, dass ein eingeschränkter Account frustierend sein kann, aber siehe es als Chance, um etwas Auszeit zu nehmen - weg von der Community. Versuche Interaktionen mit der Community für zumindest ein paar Tage zu vermeiden (egal, ob es über Discord, Social Media oder andere Formen von Kontakten ist), um die Aktionen zu reflektieren, die gegebenenfalls zu einer Einschränkung deines Accounts geführt haben.
 - **Versichere dich, dass du die Regeln respektierst.** Langfristige Einschränkungen sind Bestrafungen für das Brechen der Regeln. Wenn du weitermachst während der Einschränkung, dann wird die Auszeit für das Einreichen einer Beschwerde auf 3 Monate zurückgesetzt. Das beinhaltet beispielsweise weiteres Schummeln, auf den Account anderer Spieler zugreifen oder neue Accounts erstellen, um der Einschränkung zu entgehen.
 - **Folge den Anweisungen des Support-Teams.** Die drei monatige Auszeit ist eine Chance, um deine eigenen Aktionen zu reflektieren. Wenn du versucht Beschwerde vor dem Ablaufen der Auszeit einzureichen, werden deine E-Mails ignoriert. Wenn du unsicher bist, wann deine Auszeit ausläuft, und du Beschwerde einlegen darfst oder auf welchem Account du spielen solltest (und die Beschwerde aus einreichen), darfst du uns gerne eine E-Mail senden, um zu fragen.
@@ -59,16 +59,16 @@ Beim Einreichen einer Beschwerde erwarten wir die folgenden Punkte:
 
 ## Was, wenn meiner Beschwerde Recht gegeben wird?
 
-Wenn wir dich zurück lassen, dann musst du eine Einverständnis auf einige Bedingungen geben, bevor die Einschränkung aufgehoben wird.
+Wenn wir uns entscheiden, dich wieder zuzulassen, werden wir verlangen, dass du einigen Bedingungen zustimmst, bevor wir dein Konto wieder freigeben.
 
 - **Du wirst keine Verstöße mehr begehen.** Das beinhaltet Cheaten und das Teilen von Accounts.
 - **Du wirst keine weiteren Accounts erstellen, sei es für dich selbst oder jemand anderen.**
 - **Du solltest dein Account nicht mit anderen Konten verknüpfen**, einschließlich das Spielen auf gemeinsam genutzten Computern.
-- **Jedes Fehlverhalten wird in einer sofortigen Einschränkung enden**. Das beinhaltet Stummschaltungen.
+- **Jedes Fehlverhalten wird in einer sofortigen Einschränkung enden**. Dies beinhaltet schwerwiegende Stummschaltungen.
 
 Zusätzlich erlauben wir keine Änderung der Flagge von deinem Account für ein Jahr.
 
-In some cases, an appeal returnee may be banned from official and badged tournaments, both as a competitor and member of the tournament's team. Die Dauer der Sperrung ist 1 Jahr pro Verstoß (wenn der Nutzer zum zweiten Mal Beschwerde eingelegt hat, dauert die Sperrung 2 Jahre). Die E-mail zur Entsperrung wird die Dauer der Sperrung darlegen.
+In einigen Fällen kann ein wieder zugelassener Spieler von offiziellen und mit einem Abzeichen versehenen Wettbewerben ausgeschlossen werden, sowohl als Teilnehmer als auch als Mitglied des Organisationsteams. Die Dauer der Sperrung ist 1 Jahr pro Verstoß (wenn der Nutzer zum zweiten Mal Beschwerde eingelegt hat, dauert die Sperrung 2 Jahre). Die E-mail zur Entsperrung wird die Dauer der Sperrung darlegen.
 
 **Das Cheaten oder Teilen von Accounts während eines offiziellen Wettbewerbs oder eines Wettbewerbs mit Abzeichen wird zu einer dauerhaften Sperrung des Nutzers zu zukünftigen Wettbewerben führen.** Für diese Sperrung kann keine Beschwerde eingelegt werden (deine E-Mail wird ignoriert, solltest du es versuchen) und die Sperrung wird unter allen Umständen nicht entfernt, gemildert oder aufgegeben.
 
@@ -106,10 +106,10 @@ Bitte habe Verständnis, dass das Senden einer E-Mail an diese Adresse nur eine 
 | Grund der Einschränkung | Dauer der Auszeit | Hinweise zur Beschwerde |
 | :-- | :-- | :-- |
 | Beurteilungsfehler | Keine Auszeit | Sofern als irrtümlich erwiesen, hat das keinen Einfluss auf den Account. |
-| Multi-Account | Dauerhaft (Multis) | Hauptaccount wird uneingeschränkt bleiben, möglicherweise stummgeschalten. |
+| Multi-Account | Dauerhaft (Multis) | Hauptaccount wird uneingeschränkt bleiben, möglicherweise stummgeschaltet. |
 | Exzessives Multi-Accounting | 3 Monate | Beschwerdebedingungen treffen zu, Sperrung von Wettbewerben für ein Jahr |
 | Teilen des Accounts | 3 Monate | Beschwerdebedingungen treffen zu, Sperrung von Wettbewerben für ein Jahr, und teilweise Rücksetzung |
 | Cheaten | 3 Monate | Beschwerdebedingungen treffen zu, Sperrung von Wettbewerben für ein Jahr, und vollständige Rücksetzung |
 | Exzessives Fehlverhalten | Variabel | Beschwerdebedingungen treffen zu. Auszeit hängt von dem früheren Verhalten ab. |
-| Cheaten/Teilen für ein Wettbewerb | 6 Monate | Beschwerdebedingungen treffen zu, entsprechende Rücksetzung, dauerhafte Sperrung von Wettbwerben |
+| Cheaten/Teilen für einen Wettbewerb | 6 Monate | Beschwerdebedingungen treffen zu, entsprechende Rücksetzung, dauerhafte Sperrung von Wettbewerben |
 | Nachfolgende Verstöße | 6 Monate | Beschwerdebedingungen treffen zu, entsprechende Rücksetzung, Sperrung von Wettbewerben für ein Jahr pro Verstoß |
