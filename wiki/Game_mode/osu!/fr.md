@@ -86,7 +86,7 @@ Sur la *DS*, c'est un bon moyen de rayer l'écran tactile (ou la protection d'é
 
 Les contrôles par défaut pour osu! sont :
 
-| Souris | Clavier | Tablette/Écran tactile|
+| Souris | Clavier | Tablette/Écran tactile |
 | :-- | :-- | :-- |
 | Clic gauche (M1) / Clic droit (M2) | `Z` (K1) / `X` (K2) | Toucher l'écran (M1) |
 
