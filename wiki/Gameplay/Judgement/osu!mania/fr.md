@@ -16,7 +16,7 @@
 **Notes :**
 
 - MAX (Rainbow 300), 300, 200, 100 ou 50 depuis une note dépendant du timing du hit.
-- Un miss est donné lorsqu'une note est mss ou qu'un hit a été fait trop tôt.
+- Un miss est donné lorsqu'une note est manquée ou qu'un hit a été fait trop tôt.
 
 **Hold notes :**
 

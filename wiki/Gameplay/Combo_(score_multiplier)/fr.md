@@ -10,7 +10,7 @@ tags:
 
 *Pour d'autres utilisations, voir [Combo (désambiguïsation)](/wiki/Disambiguation/Combo).*
 
-Un **combo** désigne le nombre d'[objets](/wiki/Hit_object) qu'un joueur a touché consécutivement sans manquer ou réaliser de [sliderbreak](/wiki/Gameplay/Slider_break). Ce nombre est affiché à différents endroits pendant le jeu :
+Un **combo** désigne le nombre d'[objets](/wiki/Hit_object) qu'un joueur a touché consécutivement sans miss ou [sliderbreak](/wiki/Gameplay/Slider_break). Ce nombre est affiché à différents endroits en jouant une beatmap :
 
 - En bas à gauche dans le mode [osu!](/wiki/Game_mode/osu!).
 - Sur les drums dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko).
@@ -26,27 +26,27 @@ Le *combo maximum* est le combo le plus élevé réalisé par le joueur au cours
 **Les éléments suivants ajoutent chacun un point au multiplicateur de score/combo :**
 
 - Une frappe réussie sur le cercle.
-- Une frappe réussi au début d'un slider.
-- La sliderball a collecté une slider tick avec succès.
-- Le sliderball a touché la flèche d'un slider avec succès.
-- Un spinner terminée/semi-complétée réussie.
+- Une frappe réussie sur le début d'un slider.
+- La sliderball a collecté un slidertick.
+- Le sliderball a touché la reverse arrow ou la fin d'un slider.
+- Un spinner a été joué au moins jusqu'à la moitié de sa jauge.
 
 **Ce qui suit remet le multiplicateur de score à zéro :**
 
-- Miss d'un cercle.
-- Taper un slider trop tôt.
-- Miss le début ou un tick d'un slider.
-- Impossibilité d'élargir le spinner à une taille satisfaisante.
-  - Comportement d'un skin v1 : N'a pas réussi à remplir au moins la moitié de la jauge d'un spinner.
+- Un cercle a été manqué.
+- Le début d'un slider a été cliqué trop tôt.
+- Le début d'un slider ou un slidertick a été manqué.
+- Un spinner n'a pas suffisamment été joué.
+  - Comportement d'un skin v1 : La jauge du spinner n'a pas été remplie au moins à moitié.
 
-**Les éléments suivants ne permettent pas d'augmenter ou de réinitialiser le multiplicateur de score :**
+**Les éléments suivants n'augmentent et ne réinitialisent pas le multiplicateur de score :**
 
-- Miss la fin d'un slider (aura pour résultat d'obtenir Katu ou 100/50 Hit).
-- Spinner : Bonus de 1,000
+- Manquer la fin d'un slider (aura pour résultat d'obtenir un Katu ou un 100/50).
+- Obtenir les 1000 points bonus des spinners
 
 ### osu!taiko
 
-**Ce qui suit ajoutent chacun un point au multiplicateur de score/combo :**
+**Ce qui suit ajoute un point au multiplicateur de score/combo :**
 
 - Obtenir des notes *GREAT* ou *GOOD* sur des petites/grandes notes.
 
@@ -54,26 +54,26 @@ Le *combo maximum* est le combo le plus élevé réalisé par le joueur au cours
 
 - Obtenir *MISS/BAD* sur les petites/grandes notes
 
-**Ce qui suit ne permettent pas d'augmenter ou de réinitialiser le multiplicateur de score :**
+**Les éléments suivants n'augmentent et ne réinitialisent pas le multiplicateur de score :**
 
-- Faire un drumroll.
-- Ne pas faire un drumroll.
-- Compléter le Denden/Shaker
-- Ne pas compléter le Denden/Shaker
+- Jouer un drumroll.
+- Ne pas jouer un drumroll.
+- Terminer un Denden/Shaker
+- Ne pas terminer un Denden/Shaker
 
 ### osu!catch
 
-**Ce qui suit ajoutent chacun un point au multiplicateur de score/combo :**
+**Ce qui suit ajoute un point au multiplicateur de score/combo :**
 
 - Collecter un fruit
 - Collecter des juice drops
 
 **Ce qui suit remet le multiplicateur de score à zéro :**
 
-- Miss de fruits
-- Miss des juice drops
+- Manquer un fruit
+- Manquer un juice drop
 
-**Ce qui suit ne permettent pas d'augmenter ou de réinitialiser le multiplicateur de score :**
+**Les éléments suivants n'augmentent et ne réinitialisent pas le multiplicateur de score :**
 
 - Collecter des droplets
 - Collecter des bananes
@@ -85,10 +85,10 @@ Le *combo maximum* est le combo le plus élevé réalisé par le joueur au cours
 - La note est complétée avec la bonne touche.
 - La note est tenue avec la bonne touche.
 
-**Un des cas suivants va réinitialiser le multiplicateur de score/combo :**
+**Ce qui suit remet le multiplicateur de score à zéro :**
 
 - La note n'est pas complétée.
-- La hold note est lâchée alors que la note n'est pas finie.
+- La hold note a été lâchée alors qu'elle n'est pas terminée.
 
 **Le cas suivant ne va pas affecter le multiplicateur de score :**
 
