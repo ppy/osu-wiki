@@ -814,6 +814,9 @@
 "ki_bar":                           "Client/Interface/Health_bar"
 "kiai_bar":                         "Client/Interface/Health_bar"
 "spirit_bar":                       "Client/Interface/Health_bar"
+"visual_settings":                  "Client/Interface/Visual_settings"
+"visual_setting":                   "Client/Interface/Visual_settings"
+"vs":                               "Client/Interface/Visual_settings"
 
 "shortcut_key_reference":           "Client/Keyboard_shortcuts"
 "keys":                             "Client/Keyboard_shortcuts"
@@ -1455,9 +1458,6 @@
 "cjb_2018":    "Tournaments/CJB_4K/2018"
 "cjb_4k/2018": "Tournaments/CJB_4K/2018"
 "cjb_4k_2018": "Tournaments/CJB_4K/2018"
-
-"visual_setting":              "Visual_Settings"
-"vs":                          "Visual_Settings"
 
 # TODO: These redirects block access to index pages. They can be brought back
 # after a change on osu-web allows for page subtitles to use redirects.
