@@ -39,7 +39,9 @@ A beatmapek .osz fájlok. Ezek tartalmazzák a zenét és egyéb, a játékhoz s
   - Ha a böngésződ megkérdezi, mit szeretnél csinálni a fájllal, válaszd a "Megnyitás: Osu" lehetőséget, ha tudod. A fájl ekkor letöltődik, az osu! pedig automatikusan megnyitja és importálja azt.
   - Ha elmented a fájlt, vagy a böngésződ nem enged választani, akkor töltsd le, menj a letöltési könyvtárba és vagy kattints rá duplán az osu!-ba való automatikus importáláshoz, vagy ha az osu! már fut, húzd bele a fájlt az ablakába. Ha jól értesz a számítógépekhez, az .osz fájlokat az osu! "Songs" mappájába is másolhatod (alapértelmezett helye a Program Files).
 - Menj és játssz! Nyomj F5-öt a számválasztó képernyőn, ha az nem frissül automatikusan.
+
 Arra figyelj, hogy az bizonyos idő alatt letölthető beatmapek száma korlátozott. Ha túl sokat töltöttél le és a rendszer letiltott, más módokon is letölthetsz beatmapeket, amelyek nem számítanak a kvótába:
+
 - Tölts le [beatmap csomagokat](https://osu.ppy.sh/beatmaps/packs). Ezek archív fájlok, amelyek egyszerre több beatmapet tartalmaznak. Általában .zip vagy .rar archívumként kapod őket. Tölts le egyet, csomagold ki a kedvenc programoddal (pl. [7-Zip](https://www.7-zip.org)) és importáld az .osz fájlokat ahogy egyébként is tennéd.
 - Használj egy tükörszervert. A tükörszervereket a közösség ajánlja fel, ezek segítségével az osu! weboldal letöltési kvótája nélkül szerezhetsz be beatmapeket. A legnépszerűbb a [yas-online](https://osu.yas-online.net), de több is van az interneten.
 - Ha tudsz torrentezni, [itt találsz a közösség egy tagja által biztosított torrent fájlokat](https://osu.ppy.sh/community/forums/topics/147478), amelyekkel több beatmap-csomagot is letölthetsz egyszerre.

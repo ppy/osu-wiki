@@ -15,11 +15,13 @@ outdated: true
 ##### Windows
 
 ###### 最低系統要求
+
 - 1 GHz 以上的中央處理器
 - 512 MB 以上的記憶體
 - [NET 框架 3.5 以上](https://www.microsoft.com/zh-hk/download/details.aspx?id=48130)
 
 ###### 如何安裝
+
 - 下載[osu! 安裝包。](https://osu.ppy.sh/home/download)
 - 找你剛才下載的文件，雙擊它，然後按照說明安裝 osu! 。
 - 雙擊運行該新安裝的 osu! 遊戲。它位於您的桌面或開始菜單。
@@ -28,7 +30,9 @@ outdated: true
 - 享受 osu! 帶來的樂趣！
 
 ###### 添加譜面
-一個譜面是包含歌曲和播放所需要的文件。包括 .osz 文件。
+
+個譜面是包含歌曲和播放所需要的文件。包括 .osz 文件。
+
 - 前往[譜面列表](https://osu.ppy.sh/beatmapsets)，找一個你喜歡的譜面，點擊它的標題，打開其歌曲的網頁。
 - 單擊粉色的下載（Download）按鈕。
 - 如果你不想下載包括視頻的譜面，請單擊紫色的（No Video）按鈕。
