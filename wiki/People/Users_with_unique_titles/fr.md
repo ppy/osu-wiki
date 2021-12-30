@@ -189,6 +189,15 @@ Les concours osu!remix attribuent le titre **osu!mixer** comme premier prix.
 
 ¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) a reçu le titre **osu!mixer II** pour avoir remporté le [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) et le concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
 
+## Gagnants actuels du concours osu!trivium Quiz
+
+Les [osu!trivium Quiz contests](/wiki/Contests/osu!trivium_Quiz) décernent à l'équipe ou à la personne gagnante le titre de **osu!trivium Champion**, qui dure un an. Voici les détenteurs du titre pour 2021 :
+
+- ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114)
+- ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621)
+- ![][flag_US] [Codazen](https://osu.ppy.sh/users/18291144)
+- ![][flag_MY] [squidstain](https://osu.ppy.sh/users/11073207)
+
 ## Featured Artists
 
 Les [Featured Artists](/wiki/Featured_Artists) possédant un compte osu! reçoivent le titre **Featured Artist** pour montrer leur implication.

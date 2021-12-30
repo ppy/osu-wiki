@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2dccc07cb4759a455196482e5f00383834f9813b
+---
+
 # osu! (oyun modu)
 
 *Diğer kullanımlar için, bakınız: [osu! (anlam ayrımı)](/wiki/Disambiguation/osu!).*

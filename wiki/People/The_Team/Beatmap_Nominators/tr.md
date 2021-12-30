@@ -198,7 +198,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_FI] [Aakki](https://osu.ppy.sh/users/11077540) | Fince |
 | ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280) | İspanyolca |
 | ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342) |  |
-| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/120247532) | Ukrayna |
+| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Ukrayna |
 | ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623) | Norveç |
 | ![][flag_RU] [Froskya](https://osu.ppy.sh/users/4230454) | Rusça |
 | ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | Litvanca |

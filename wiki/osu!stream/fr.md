@@ -243,7 +243,7 @@ Le score donné par chaque note et la fin d'un slider est calculé avec la formu
 
 | Terme | Signification |
 | :-: | :-- |
-| **Hit Value** | Le hit circle judgement (50, 100 ou 300). |
+| **Hit Value** | Le hit circle [judgement](/wiki/Gameplay/Judgement) (50, 100 ou 300). |
 | **Combo multiplier** | (Combo avant ce hit - 1) ou 0 ; le plus élevé des deux. |
 | **Fixed multiplier** | Le multiplicateur qui fixe le score à 600.000 |
 
