@@ -11,7 +11,7 @@ Cela signifie que vous pouvez désormais annoncer et rejoindre des parties multi
 - Cette nouvelle activité fantaisiste sur Discord ne **fonctionne qu'avec la version spéciale d'Halloween du jeu et toutes les nouvelles versions à venir** - elle ne **fonctionnera pas du tout** si vous ne faites pas cela.
 - Assurez-vous que Discord détecte osu! comme un jeu enregistré sur votre système - il le fait généralement par défaut, donc vous ne devriez pas avoir à vous en soucier. Vous pouvez vérifier cela dans la section `Paramètre d'utilisateur` -> `Status d'activité` du menu des options de Discord.
 - Activez l'option `Affiche l'activité en cours en tant que message de statut` dans l'onglet `Status d'activité`. Cette option n'est pas nécessaire pour rejoindre les jeux annoncés par d'autres, mais elle est nécessaire pour annoncer les vôtres.
-- Commencez n'importe quelle partie multijoueur, rendez-vous sur votre Discord locale et cliquez sur cette icône : ![le bouton vert brillant devant le signe plus](img/shiny-green-button.jpg). Cela peut prendre quelques secondes pour apparaître si vous venez juste de commencer une partie.
+- Commencez n'importe quelle partie multijoueur, rendez-vous sur votre Discord local et cliquez sur cette icône : ![le bouton vert brillant devant le signe plus](img/shiny-green-button.jpg). Cela peut prendre quelques secondes pour apparaître si vous venez juste de commencer une partie.
 
 Voici une [vidéo](https://assets.ppy.sh/media/halloween-2017/themoon.mp4) en action.
 
