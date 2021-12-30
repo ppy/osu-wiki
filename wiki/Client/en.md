@@ -1,22 +1,24 @@
 ---
-stub: true  # this could make for a good introductory page
+stub: true
 tags:
-  game client
+  - game client
 ---
 
 # Client
+
+<!-- TODO: this could make for a good introductory page -->
 
 Index page for articles about the osu! game client and its main sections.
 
 ## Introduction
 
-- [Installation](/wiki/Client/Installation)
-- [Keyboard shortcuts](/wiki/Client/Keyboard_shortcuts)
-- [Interface](/wiki/Client/Interface)
-- [Options](/wiki/Client/Options)
-- [Beatmap editor](/wiki/Client/Beatmap_editor)
+- [Installation](Installation)
+- [Keyboard shortcuts](Keyboard_shortcuts)
+- [Interface](Interface)
+- [Options](Options)
+- [Beatmap editor](Beatmap_editor)
 
 ## Technical details
 
-- [File formats](/wiki/Client/File_formats)
-- [Program files](/wiki/Client/Program_files)
+- [File formats](File_formats)
+- [Program files](Program_files)
