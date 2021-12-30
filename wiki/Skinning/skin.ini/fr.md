@@ -519,7 +519,7 @@ Keys: 5
   - Notes :
     - Si elle n'est pas définie, l'échelle de hauteur de la plus petite largeur de colonne est utilisée.
 - `HitPosition:`
-  - Question : A quelle hauteur doit être tracée la judgment line ?
+  - Question : A quelle hauteur doit être tracée la [judgment](/wiki/Gameplay/Judgement) line ?
   - Valeur : *entier*
   - Par défaut : `402`
   - Notes :

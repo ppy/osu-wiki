@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 2dccc07cb4759a455196482e5f00383834f9813b
 ---
 
 # osu!catch
