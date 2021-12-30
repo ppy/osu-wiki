@@ -726,6 +726,7 @@
 "multiplay":                   "Multi"
 
 
+"game_client":                      "Client"
 "beatmap_editor":                   "Client/Beatmap_editor"
 "editor":                           "Client/Beatmap_editor"
 "aimod":                            "Client/Beatmap_editor/AiMod"
