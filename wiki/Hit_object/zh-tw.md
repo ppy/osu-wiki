@@ -1,7 +1,7 @@
 ---
 tags:
-- hit objects
-- 打擊物件
+  - hit objects
+  - 打擊物件
 no_native_review: true
 ---
 
