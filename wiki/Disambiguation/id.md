@@ -1,10 +1,10 @@
 # Disambiguasi
 
-Artikel **disambiguasi** di [wiki osu!](/wiki/Main_Page) menyoroti istilah-istilah yang ambigu dan menjelaskan arti yang memungkinkan dari istilah tersebut.
+Dalam [osu! wiki](/wiki/Main_Page), artikel **disambiguasi** merupakan artikel yang membahas seputar kata-kata dan singkatan-singkatan yang dapat memiliki lebih dari satu arti beserta penjelasan untuk masing-masing pengertiannya.
 
-Jika pada sebuah artikel mempunyai judul yang mirip, harus menggunakan [hatnote berupa "Untuk penggunaan lainnya"](/wiki/Article_styling_criteria/Formatting#for-other-uses) disertai dengan tautan menuju ke laman disambiguasinya.
+Apabila suatu artikel memiliki judul yang serupa dengan artikel lainnya, artikel tersebut harus mencantumkan [keterangan disambiguasi](/wiki/Article_styling_criteria/Formatting#for-other-uses) beserta tautan menuju laman disambiguasinya.
 
-## Daftar artikel yang mengandung keambiguan
+## Daftar artikel disambiguasi
 
 - [Bancho](Bancho)
 - [Easy](Easy)
@@ -18,6 +18,6 @@ Jika pada sebuah artikel mempunyai judul yang mirip, harus menggunakan [hatnote 
 - [osu!](osu!)
 - [Ouendan](Ouendan)
 - [Rank](Rank)
-- [Score](Score)
+- [Skor](Score)
 - [Star](Star)
 - [Versi](Version)
