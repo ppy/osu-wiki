@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - store
   - product
@@ -24,7 +23,7 @@ tags:
 
 *Note : Ces produits ne sont plus disponibles à la vente dans la boutique osu!store.*
 
-Vous avez un problème avec un produit de osu!store ? Vérifiez s'il existe une solution à votre problème !
+Vous avez un problème avec un produit du osu!store ? Vérifiez s'il existe une solution à votre problème !
 
 ## osu!keyboard
 
@@ -103,7 +102,7 @@ Tout d'abord, [téléchargez le paquet contenant les fichiers par défaut d'osu!
 
 **Suivez ces étapes pour préparer votre appareil osu!go sous Windows :**
 
-1. Cliquez avec le bouton droit de la souris sur le bouton de menu `Démarrer` et sélectionnez `Gestion dus disques`.
+1. Cliquez avec le bouton droit de la souris sur le bouton de menu `Démarrer` et sélectionnez `Gestion des disques`.
 2. **Dans la vue Gestion des disques, assurez-vous de suivre ces instructions *TRES* attentivement et de les appliquer UNIQUEMENT au périphérique osu!go.** Vous pouvez potentiellement perdre des données si vous manipulez cette boîte de dialogue incorrectement.
 3. Vérifiez l'état dans lequel votre ordinateur reconnaît l'appareil.
 
