@@ -1,10 +1,10 @@
 # osu!mania (mode de jeu)
 
-![Gameplay d'osu!mania](/wiki/shared/mania-gameplay.jpg "l'Interface d'osu!mania")
+![Gameplay d'osu!mania](/wiki/shared/mania-gameplay.jpg "Interface d'osu!mania")
 
-Ce mode a été énormément utilisé dans à peu près tous les principaux jeux de rythme. Il requiert une bonne coordination main et/ou jambe où les notes (avec leur quantité dépendant du BPM et de la difficulté) se déplacent sur un tapis-roulant. Le joueur devra appuyer sur la touche correcte pour la note spécifique à temps. Même si le mode de jeu a été originalement fait comme une imitation du style de jeu de *Beatmania*, osu!mania permet de changer le nombre de touches ou de retourner verticalement l'orientation du terrain de jeu (cela signifie qu'on peut le faire ressembler à *Guitar Hero* \[5 touches\] ou  à*Dance Dance Revolution* \[4 touches\] et ainsi de suite).
+Ce mode de jeu a été utilisé dans à peu près tous les principaux jeux de rythme. Il requiert une bonne coordination des mains et/ou des jambes et les notes (leur quantité dépendant du BPM et de la difficulté) défilent d'un bout à l'autre de l'écran. Le joueur devra appuyer sur la bonne touche à temps. Même si le mode de jeu a été originalement fait comme une imitation du style de jeu de *Beatmania*, osu!mania permet de changer le nombre de touches ou de retourner verticalement l'orientation du playfield (cela signifie qu'on peut le faire ressembler à *Guitar Hero* \[5 touches\] ou à *Dance Dance Revolution* \[4 touches\] et ainsi de suite).
 
-Il est en quelque sorte similaire à [osu!taiko](/wiki/Game_mode/osu!taiko), mais avec plus de boutons bougeant verticalement plutôt qu'horizontalement.
+Il est en quelque sorte similaire à [osu!taiko](/wiki/Game_mode/osu!taiko), mais avec plus de notes bougeant verticalement plutôt qu'horizontalement.
 
 ## ![](/wiki/shared/mode/mania.png) Explication du gameplay
 
@@ -12,21 +12,21 @@ Il est en quelque sorte similaire à [osu!taiko](/wiki/Game_mode/osu!taiko), mai
 
 Pour accéder au mode de jeu osu!mania, appuyez sur `Ctrl`+`4` en même temps.
 
-Alternativement, cliquez sur le bouton `Mode` et sélectionnez `osu!mania`.
+Vous pouvez également cliquer sur le bouton `Mode` et sélectionner `osu!mania`.
 
-#### Les touches et les jugements
+#### Les touches et le jugement
 
 Dans l'écran de sélection des beatmaps, le nombre à côté du *K* montre combien de touches seront utilisées pour jouer. La beatmap sera jouée avec un jugement plus léger si le symbole "↓" suit le *K*.
 
 Par exemple, *4K↓* signifie que la map sera jouée avec 4 touches et un jugement de timing plus souple que la normale.
 
-Sachez que le jugement d'une beatmap est déterminé automatiquement.
+Notez que le jugement d'une beatmap est déterminé automatiquement.
 
 #### Beatmaps spécifiques à osu! et différences de conversion depuis les beatmaps d'osu!
 
 Lors de la conversion d'une beatmap non spécifique, les touches varient par défaut de 4 à 7.
 
-Avec le modificateur de jeu [xK](/wiki/Game_modifier/xK), le joueur peut manuellement définir le nombre de touches de 1 à un total de 9 touches avec une réduction du multiplicateur de score. Cependant, le modificateur de jeu ne fonctionnera pas avec des beatmaps spécifiques à osu!mania.
+Avec le modificateur de jeu [xK](/wiki/Game_modifier/xK), le joueur peut manuellement définir le nombre de touches de 1 à un total de 9 touches avec une réduction du multiplicateur de score. Cependant, le modificateur de jeu ne fonctionnera pas sur les beatmaps spécifiques à osu!mania.
 
 Avec le modificateur de jeu [Co-Op](/wiki/Game_modifier/Co-op), la scène sera divisée en deux, utilisant le schéma Co-Op, et permettra au joueur de jouer en utilisant entre 2 et 18 touches avec une réduction du multiplicateur de score. Sachez que le nombre de touches prédéfini ne sera pas doublé sur les beatmaps spécifiques à osu!mania, il va diviser en deux la scène (la scène de gauche a la priorité en cas de nombres impairs), utilisant le schéma Co-Op, et aucune réduction du multiplicateur de score.
 
@@ -34,7 +34,7 @@ Avec le modificateur de jeu [Co-Op](/wiki/Game_modifier/Co-op), la scène sera d
 
 ![La valeur du changement de vitesse est située en haut à droite](img/Mania_SC.jpg "La valeur de changement de vitesse est située en haut à droite")
 
-**La vitesse de déroulement des notes** peut être changée en appuyant sur `Ctrl` (ou `Shift`) avec `+` (plus vite) / `-` (moins vite).
+**La vitesse de défilement des notes** peut être changée en appuyant sur `Ctrl` (ou `Shift`) avec `+` (plus vite) / `-` (moins vite).
 
 Le minimum est 1 et le maximum est 40.
 
@@ -42,7 +42,7 @@ Le minimum est 1 et le maximum est 40.
 
 ![La densité de la beatmap dépend du changement de vitesse](img/Mania_SCDifference.png "La densité de la beatmap dépend du changement de vitesse")
 
-**La mise à l'échelle basée sur le BPM** est l'ancien système de mise à l'échelle qui est celui par défaut. Il met à l'échelle la vitesse de déroulement en fonction du BPM actuel. Il y aura donc une différence au niveau de la vitesse de défilement lorsque vous jouerez une beatmap de 100 BPM (défilement lent) et une beatmap de 200 BPM (défilement rapide) avec la même vitesse de mise à l'échelle.
+**La mise à l'échelle basée sur le BPM** est l'ancien système de mise à l'échelle qui est celui par défaut. Il met à l'échelle la vitesse de défilement en fonction du BPM actuel. Il y aura donc une différence au niveau de la vitesse de défilement lorsque vous jouerez une beatmap de 100 BPM (défilement lent) et une beatmap de 200 BPM (défilement rapide) avec la même vitesse de mise à l'échelle.
 
 ![Activer la Mise à l'échelle fixée en désactivant `Vitesses de défilement osu!mania basées sur le BPM`](img/Mania_Scale.png "Activer la Mise à l'échelle fixée en désactivant `Vitesses de défilement osu!mania basées sur le BPM` dans la barre latérale d'options")
 
@@ -52,13 +52,13 @@ Sachez que ces deux systèmes seront quand même affectés par les changements d
 
 ### Gameplay
 
-#### Terrain de jeu
+#### Playfield
 
-![Terrain de jeu d'osu!mania](/wiki/shared/Mania_playfield.jpg "Le terrain de jeu d'osu!mania")
+![Playfield d'osu!mania](/wiki/shared/Mania_playfield.jpg "Le playfield d'osu!mania")
 
-Par défaut, les notes vont de haut en bas (la flèche de démarrage montre la direction des notes), avec les touches en bas et la ligne de jugement au dessus de ces touches. Pour changer le sens du terrain de jeu, il faut aller dans la barre latérale `Options` ; cliquer sur le bouton `Paramètres osu!mania` pour définir les touches de jeu et activer le `Défilement de bas en haut (à la DDR)`.
+Par défaut, les notes vont de haut en bas (la flèche de démarrage montre la direction des notes), avec les touches en bas et la ligne de jugement au dessus de ces touches. Pour changer le sens du playfield, il faut aller dans la barre latérale `Options` ; cliquer sur le bouton `Paramètres osu!mania` pour définir les touches de jeu et activer le `Défilement de bas en haut (à la DDR)`.
 
-La barre de vie se situe à droite du tapis roulant. Notez que le drain de vie est désactivé dans osu!mania, seul les notes peuvent affecter la barre de vie. Le combo ne s'arrêtera pas si une touche est jouée alors que la ligne de jugement est vide.
+La barre de vie se situe sur la droite de la scène. Notez que le drain de vie est désactivé dans osu!mania, seules les notes peuvent affecter la barre de vie. Le combo ne s'arrêtera pas si une touche est jouée alors que la ligne de jugement est vide.
 
 **La vitesse de défilement** peut être modifiée en appuyant sur `Ctrl` (ou `Shift`) avec `+` (plus vite) / `-` (moins vite) ou juste `F3` (plus vite) / `F4` (moins vite).
 
@@ -66,15 +66,15 @@ La barre de vie se situe à droite du tapis roulant. Notez que le drain de vie e
 
 ![les notes d'osu!mania](/wiki/shared/Mania_notes.jpg "Les notes d'osu!mania")
 
-Les notes sont les cercles d'osu!mania. La note tombante doit être frappée sur la ligne de jugement, avec la touche correspondant à la bonne note. Plusieurs touches correspondant aux notes tombantes doivent être frappées simultanément si les notes tombent simultanément.
+Les notes sont les cercles d'osu!mania. La note tombante doit être appuyée sur la ligne de jugement, avec la touche correspondant à la bonne note. Plusieurs touches correspondant aux notes tombantes doivent être appuyées simultanément si les notes tombent simultanément.
 
-Une explosion du score se fera quand une touche a été frappée au bon moment sur la ligne de jugement.
+Une explosion du score se fera quand une touche a été appuyée au bon moment sur la ligne de jugement.
 
 #### Hold notes
 
 ![Les hold notes d'osu!mania](/wiki/shared/Mania_holdnotes.jpg "les hold notes d'osu!mania")
 
-Les hold notes sont les sliders et les spinners d'osu!mania. Quand une hold note atteint la ligne de jugement, frappez la note qui démarre avec la touche correcte, tenez-la, et relâchez-la à la fin de la hold notes.
+Les hold notes sont les sliders et les spinners d'osu!mania. Quand une hold note atteint la ligne de jugement, appuyez sur la note qui démarre avec la touche correcte, tenez-la, et relâchez-la à la fin de la hold note.
 
 La régénération de la barre de vie s'active lentement lorsque vous tenez une/des hold note(s). Dépendamment de la musique et des caprices du mapping, il est possible que d'autres notes ou hold notes apparaissent lorsque vous tenez déjà une note.
 
@@ -99,8 +99,8 @@ Les paramètres de touches par défaut sont pour le style *Symétrique*.
 Il *y avait* deux différents styles de configuration, *Symétrique* et *de Gauche à Droite* :
 
 - le style *Symétrique* imite le placement des boutons de *DJMAX*, dans lequel la touche centrale est la touche `Espace` pour simuler la sensation d'appuyer sur la pédale de la version arcade. La touche du centre correspond à la colonne du milieu (nombres impairs seulement) et les autres colonnes correspondent aux touches à la même place.
-- le style *de Gauche à Droite* imite le placement des boutons de *Beatmania IIDX*, où la première colonne correspond à *key1*, puis la seconde colonne à la *key2* et ainsi de suite.
-  - Cependant, l'option pour le sélectionner a été supprimée et le style actuel est basé sur le style "Symétrique". Pour des raisons légales, le style "de Droite à Gauche" est gardé ici.
+- le style *de Gauche à Droite* imite le placement des boutons de *Beatmania IIDX*, où la première colonne correspond à *key1*, puis la seconde colonne à *key2* et ainsi de suite.
+  - Cependant, l'option pour le sélectionner a été supprimée et le style actuel est basé sur le style "Symétrique". Le style "de Droite à Gauche" est gardé ici.
 
 Arrangement des touches *Symétrique* (Pour le style *DJMAX*)
 
@@ -182,23 +182,23 @@ Arrangement de touches *Symétrique* pour le second set
 | 7K | K3, K4 | - | K6, K7 | B4 | B5 | B6 |
 | 9K | K3, K4 | - | K6, K7 | B3, B4 | B5 | B6, B7 |
 
-## Notation
+## Scoring
 
 Le [score dans osu!mania](/wiki/Gameplay/Score/osu!mania) est plafonné à 1 million et se compose de deux parties, chacune contribuant à 50% du score total :
 
-1. Le score de base, qui est centré sur le [jugement](/wiki/Gameplay/Judgement/osu!mania). Le jugement détermine la valeur du score de base d'un objet (MAX, 300, 200, 100, 50, ou 0 en cas d'échec).
-2. Le score de bonus, qui est basé sur le jugement et un multiplicateur de bonus flottant, qui augmente lorsqu'on obtient un MAX ou un 300, et diminue avec un 200 ou moins.
+1. Le score de base, qui est centré sur le [jugement](/wiki/Gameplay/Judgement/osu!mania). Le jugement détermine la valeur du score de base d'un objet (MAX, 300, 200, 100, 50, ou 0 en cas de note manquée).
+2. Le score bonus, qui est basé sur le jugement et un multiplicateur de bonus flottant, qui augmente lorsqu'on obtient un MAX ou un 300, et diminue avec un 200 ou moins.
 
 En outre, le score comporte également les éléments suivants :
 
-- La [précision](/wiki/Gameplay/Accuracy#osu!mania) dépend du jugement et montre la précision des coups. Les appuis trop tôt ou trop tard sur les touches, ainsi que les miss, diminuent la précision globale.
+- La [précision](/wiki/Gameplay/Accuracy#osu!mania) dépend du jugement et montre la précision avec laquelle le joueur a appuyé sur les touches. Appuyer trop tôt ou trop tard, ainsi que manquer les notes, diminuent la précision globale.
 - Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) indique combien d'objets ont été touchés à la suite. Il n'a aucun effet sur le score total et peut être [cassé](/wiki/Glossary/Combobreak) par un miss.
 
-Après avoir terminé une beatmap, le score se voit attribuer un [grade](/wiki/Gameplay/Grade#osu!mania), une courte évaluation de la précision sous la forme d'une seule lettre. Un SS doré ou argenté indique une précision de 100 %.
+Après avoir terminé une beatmap, le score se voit attribuer une [note](/wiki/Gameplay/Grade#osu!mania), une courte évaluation de la précision sous la forme d'une seule lettre. Un SS doré ou argenté indique une précision de 100 %.
 
 ## Skinning
 
-*Référez-vous à la page de [Skinning d'osu!mania](/wiki/Skinning/osu!mania). pour des informations complètes*
+*Référez-vous à la page [Skinning d'osu!mania](/wiki/Skinning/osu!mania). pour des informations complètes*
 
 ## Beatmapping
 
@@ -221,15 +221,15 @@ Activez le bouton `Co-op mode` pour forcer le modificateur *Co-Op* quand elle se
   - Par exemple, pour une beatmap 4K, utiliser les modificateurs 2K et Co-Op n'affectera pas le score.
   - Respectivement, pour une beatmap 5K, utiliser le modificateur 5K n'affectera pas non plus le score.
   - Utiliser le modificateur xK ou Co-Op sur les beatmaps spécifiques à osu!mania n'affectera pas non plus le score.
-- La mascotte d'osu!mania est [Mani & Mari](/wiki/Mascots#-mani-&-mari).
-- Lors de l'utilisation d'[Auto](/wiki/Game_modifier/Auto), le nom du joueur sera *osu!topus*.
+- Les mascottes d'osu!mania sont [Mani & Mari](/wiki/Mascots#-mani-&-mari).
+- Lorsque le mod [Auto](/wiki/Game_modifier/Auto) est utilisé, le nom du joueur sera *osu!topus*.
 
 ### Histoire
 
 ![Le logo d'osu!mania dans les Modes Spéciaux](img/Mania_logo.png "le logo d'osu!mania dans les Modes Spéciaux")
 
-- osu!mania est sorti le [8 October 2012 (08/10/2012), principalement implémenté par woc2006](https://osu.ppy.sh/community/forums/posts/1825880).
-- L'ancien éditeur d'osu!mania *demandait* au mappeur de placer des cercles et des sliders dans un terrain de jeu d'osu!, où la scène sera retranscrite en notes propres basées sur la position des cercles et autres hit objects utilisés.
+- osu!mania est sorti le [8 octobre 2012 (08/10/2012), principalement implémenté par woc2006](https://osu.ppy.sh/community/forums/posts/1825880).
+- L'ancien éditeur d'osu!mania *demandait* au mappeur de placer des cercles et des sliders dans un playfield du mode osu!, où la scène sera retranscrite en notes propres basées sur la position des cercles et autres hit objects utilisés.
 - La toute première beatmap osu!mania a être officiellement classée est [fripSide - only my railgun (TV Size) (DJPop)](https://osu.ppy.sh/beatmapsets/63089).
 
 ## Références
