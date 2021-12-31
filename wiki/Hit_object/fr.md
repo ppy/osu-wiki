@@ -1,7 +1,7 @@
 ---
 tags:
-- hit objects
-- objets
+  - hit objects
+  - objets
 ---
 
 # Objets
