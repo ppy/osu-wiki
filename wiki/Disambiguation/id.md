@@ -1,6 +1,6 @@
 # Disambiguasi
 
-Dalam [osu! wiki](/wiki/Main_Page), artikel **disambiguasi** merupakan artikel yang membahas seputar kata-kata dan singkatan-singkatan yang dapat memiliki lebih dari satu arti beserta penjelasan untuk masing-masing pengertiannya.
+Dalam [osu! wiki](/wiki/Main_Page), artikel **disambiguasi** merupakan artikel yang membahas seputar kata-kata dan istilah-istilah yang dapat memiliki lebih dari satu arti beserta penjelasan singkat untuk masing-masing pengertiannya.
 
 Apabila suatu artikel memiliki judul yang serupa dengan artikel lainnya, artikel tersebut harus mencantumkan [keterangan disambiguasi](/wiki/Article_styling_criteria/Formatting#for-other-uses) beserta tautan menuju laman disambiguasinya.
 
