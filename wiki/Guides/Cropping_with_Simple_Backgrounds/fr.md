@@ -1,14 +1,10 @@
----
-no_native_review: true
----
-
 # Comment recadrer des images avec des arrière-plans simples
 
-Je vais donc vous montrer une méthode rapide pour supprimer les fonds unicolores. Comme dans le tutoriel précédent, ici aussi, nous allons utiliser GIMP et l'image que vous pouvez voir.
+Nous allons donc vous montrer une méthode rapide pour supprimer les arrière-plan unicolores. Comme dans le tutoriel précédent, ici aussi, nous allons utiliser GIMP et l'image que vous pouvez voir.
 
 ![Image](img/CSB-1.png "Image")
 
-## Étape 1 \#1
+## Étape \#1
 
 Sélectionnez l'outil baguette magique dans "Ajouter au mode de sélection actuel" (cela vous aidera à sélectionner plusieurs parties à la fois) et sélectionnez tous les espaces blancs de l'arrière-plan que vous ne voulez pas.
 
