@@ -86,7 +86,7 @@ Badge images that do not meet these standards will be refused with given reasoni
 
 In rare circumstances, some long-running community tournaments may qualify for in-game main-menu banner support. It's at the osu! team's discretion to decide if your tournament can be advertised in-game, as there are many factors to consider. The minimum requirements to request in-game advertising are as follows:
 
-- Your tournament meets the [criteria for applicable tournaments](#criteria) that can be found below
+- Your tournament meets the [criteria for applicable tournaments](#criteria)
 - You have successfully run *at least* two tournaments in the past
 - The live streams of your current tournament average over 100 concurrent viewers
 - You are able to provide the schedule of the matches and live streams ahead of time
