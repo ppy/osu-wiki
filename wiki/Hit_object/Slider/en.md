@@ -1,9 +1,9 @@
 ---
 tags:
-- hit objects
-- sliderhead
-- sliderbody
-- slideranchor
+  - hit objects
+  - sliderhead
+  - sliderbody
+  - slideranchor
 ---
 
 # Slider

@@ -1,7 +1,7 @@
 ---
 stub: true
 tags:
-- ticks
+  - ticks
 ---
 
 # Slider tick rate
