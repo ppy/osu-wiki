@@ -7,7 +7,7 @@ The [osu! team](/wiki/People/The_Team) runs a program where they may opt to prov
 Officially supported tournaments have access to:
 
 - **Profile badge prizes for first-place winners**
-- Assessment for a main-menu banner during major matches (generally quarterfinals and above), subject to availability and criteria (see the [relevant section](#Requesting-main-menu-banner-support) below)
+- Assessment for a main-menu banner during major matches (generally quarterfinals and above), subject to availability and criteria (see the [relevant section](#requesting-main-menu-banner-support) below)
 - A listing in the [automatic tournament registrations system](https://osu.ppy.sh/community/tournaments)
 - A dedicated screening process to prevent players with serious integrity infringements (cheating, multiaccounting, tournament bans) from playing
 
@@ -100,7 +100,7 @@ If you satisfy the above criteria, you may make a request for main-menu banner s
 - The banner must clearly display the logo, motif AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
 - The banner must be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
 
- Please do not submit a main menu banner with your original request — you will be asked and pointed to this section if you are authorized to make use of one.
+Please do not submit a main menu banner with your original request—you will be asked and pointed to this section if you are authorized to make use of one.
 
 ## Requesting support
 
