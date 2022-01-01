@@ -104,9 +104,9 @@ Please do not submit a main menu banner with your original request—you will be
 
 ## Requesting support
 
-To start with, the request for support **must be made well before the tournament actually commences play.** 
+To start with, the request for support **must be made well before the tournament actually commences play.**
 
-There are no specific timelines for this, but we recommend at least two to three weeks before play commences to account for delays in the screening process. 
+There are no specific timelines for this, but we recommend at least two to three weeks before play commences to account for delays in the screening process.
 
 You may be required to postpone the start of your tournament during periods of high delay, but the osu! team will make efforts to ensure this does not happen.
 
@@ -134,7 +134,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - The tournament must be run only four or fewer times per year.
 - The tournament must have all players screened by the [account support team](/wiki/People/The_Team/Account_support_team) **before play commences**.
 - The tournament must not be "self-reffed". A dedicated referee must be present during every match.
-- The tournament must not prevent players, who pass the screening, from participation without both ample evidence presented publicly against them and the approval of the account support team. 
+- The tournament must not prevent players, who pass the screening, from participation without both ample evidence presented publicly against them and the approval of the account support team.
   - This only applies in circumstances where they would otherwise meet the sign-up criteria for the tournament.
   - This includes preventing users who are perceived to be "sandbagging" from play.
     - Should an organizer have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the Tournament Committee for a case-by-case review using the link listed below.
