@@ -12,7 +12,7 @@ Untuk mempelajari topik-topik yang berhubungan dengan *storyboard scripting*, tu
   - [Perintah dasar](Commands)
   - [Perintah gabungan](Compound_Commands)
   - [Variabel](Variables)
-- Topik-topik lainnya::
+- Topik-topik lainnya:
   - [Memutar audio](Audio)
   - [Contekan storyboard scripting](Cheat_Sheet)
   - [osu! file toggles](osu!_File_Toggles)
