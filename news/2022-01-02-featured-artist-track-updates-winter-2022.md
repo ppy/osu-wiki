@@ -8,7 +8,7 @@ We're launching into 2022 with a collection of updates to our older Featured Art
 
 ![](/wiki/shared/news/banners/featured-artist.jpg)
 
-We're keeping things simple: **click an artist's name or banner to visit their Featured Artist page.** All new songs are marked with a slick *NEW* icon.
+We're keeping things simple: **click on an artist's name or banner to visit their Featured Artist page.** All new songs are marked with a slick *NEW* icon.
 
 ![](/wiki/shared/news/2022-01-02-featured-artist-track-updates-winter-2022/new.png)
 
@@ -184,7 +184,7 @@ Bringing Japanese folk metal to the forefront yet again, **GYZE** returns with t
 
 [![](https://assets.ppy.sh/artists/172/header.jpg)](https://osu.ppy.sh/beatmaps/artists/172)
 
-Singlehandedly raising the skill ceiling for osu!'s finger control limits, **II-L** follows up with a whole **12** new tracks, filling out a few of their older albums and introducing a new track from the community-run tournament *GTS*:
+Singlehandedly raising the skill ceiling for osu!'s finger control limits, **II-L** follows up with a whole **12** new tracks, filling out a few of their older albums and introducing a new track from the community-run tournament [*GTS*](/wiki/Tournaments/GTS):
 
 - **II-L - EXPLORER-3**
 - **II-L - EXPLORER-4**
@@ -262,7 +262,7 @@ Speaking of rhythm games, **Reku Mochizuki** steps up to the plate with a quick 
 
 [![](https://assets.ppy.sh/artists/194/header.jpg)](https://osu.ppy.sh/beatmaps/artists/194)
 
-**Release Hallucination**'s newest **3** track EP joins our Featured Artist library. If you're in the mood for awesome J-rock/metal marathons, we can guarantee one of these songs will be perfect for you.
+**Release Hallucination**'s newest **3**-track EP joins our Featured Artist library. If you're in the mood for awesome J-rock/metal marathons, we can guarantee one of these songs will be perfect for you.
 
 - **Release Hallucination - ANIMA**
 - **Release Hallucination - The Children For Justice**
@@ -331,7 +331,7 @@ Vocalist extraordinaire **Sennzai** is up to bat. Sporting **5** new tracks with
 
 [![](https://assets.ppy.sh/artists/130/header.jpg)](https://osu.ppy.sh/beatmaps/artists/130)
 
-Doujin J-rock group **Symholic** is here with glimpes of both new and old. On the new side, there's 4 songs from the unit's newest album, plus a 5th metal-focused oldie from the group's main producer (a.k.a. Paspal).
+Doujin J-rock group **Symholic** is here with glimpes of both new and old. On the new side, there're 4 songs from the unit's newest album, plus a 5th metal-focused oldie from the group's main producer (a.k.a. Paspal).
 
 - **Symholic / Xorsizer - Junshin no tsurugi -Virgin Blade-**
 - **Symholic / Xorsizer - Orthology**
