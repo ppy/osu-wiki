@@ -150,7 +150,7 @@ Running back into the gothic rock realm, **ELFENSJoN** dropped a new album just 
 
 A humble batch of two new tracks are available from one of our oldest Featured Artists: **Fractal Dreamers**! Give some love to these collaborative orchestral/electronic gems.
 
-### skymuted & Evin a`k - Memory at Angels Landing
+### skymuted & Evin a\`k - Memory at Angels Landing
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/15/Memory%20at%20Angels%20Landing/skymuted%20%26%20Evin%20a%60k%20-%20Memory%20at%20Angels%20Landing.mp3" type="audio/mpeg">
