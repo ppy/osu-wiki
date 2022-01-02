@@ -4,7 +4,7 @@ title: "Featured Artist Track Updates: Winter 2022"
 date: 2022-01-02 09:00:00 +0000
 ---
 
-We're launching into 2022 with a collection of updates to our older Featured Artist listings! Over **100** songs are available, so pick one up and start your next map.
+We're launching into 2022 with a collection of updates to our older Featured Artist listings! Over **100** new songs are available. Start your next map already.
 
 ![](/wiki/shared/news/banners/featured-artist.jpg)
 
@@ -38,7 +38,7 @@ Relaxing electronic mastermind **Aiobahn** steps in with their two newest songs!
 
 [![](https://assets.ppy.sh/artists/93/header.jpg)](https://osu.ppy.sh/beatmaps/artists/93)
 
-Famed for their high-tempo gothic rock sound, **Ariabl'eyeS** comes in hot with **15** more songs on their listing! This artist is practically a classic to the osu! community, so if you somehow haven't heard of them yet, now's the time to jump in with one of their new songs.
+Famed for their high-tempo gothic rock sound, **Ariabl'eyeS** comes in hot with **15** more songs on their listing! This artist is practically a classic in the osu! community, so if you somehow haven't heard of them yet, now's the time to jump in with one of these new songs.
 
 - **Ariabl'eyeS - Hiiro ni Somarishi Shoujo to Akuma**
 - **Ariabl'eyeS - Kyoumei Sonata**
@@ -56,7 +56,7 @@ Famed for their high-tempo gothic rock sound, **Ariabl'eyeS** comes in hot with 
 - **Ariabl'eyeS - Torikago no Serenade**
 - **Ariabl'eyeS - Unmei no Kousaku**
 
-For good measure, listen to a couple stellar songs:
+For good measure, listen to a couple songs too:
 
 ### Ariabl'eyeS - Hiiro ni Somarishi Shoujo to Akuma
 
@@ -121,7 +121,7 @@ Slurp up these tunes:
 
 [![](https://assets.ppy.sh/artists/69/header.jpg)](https://osu.ppy.sh/beatmaps/artists/69)
 
-Transcending back into the gothic rock realm, **ELFENSJoN** dropped a new album just a week ago featuring vocals from the legendary *Hanatan/YURiCA*! All the songs are up for grabs, so pick them up while supplies last (which is forever):
+Running back into the gothic rock realm, **ELFENSJoN** dropped a new album just a week ago featuring vocals from the legendary *Hanatan/YURiCA*! All the songs are up for grabs, so pick them up while supplies last (which is forever):
 
 - **ELFENSJoN - Akatsuki o Houmureba**
 - **ELFENSJoN - FALLEN**
@@ -148,7 +148,7 @@ Transcending back into the gothic rock realm, **ELFENSJoN** dropped a new album 
 
 [![](https://assets.ppy.sh/artists/15/header.jpg)](https://osu.ppy.sh/beatmaps/artists/15)
 
-A humble two new tracks are available from one of our oldest Featured Artists: **Fractal Dreamers**! Give some love to these collaborative orchestral/electronic gems.
+A humble batch of two new tracks are available from one of our oldest Featured Artists: **Fractal Dreamers**! Give some love to these collaborative orchestral/electronic gems.
 
 ### skymuted & Evin a`k - Memory at Angels Landing
 
@@ -166,7 +166,7 @@ A humble two new tracks are available from one of our oldest Featured Artists: *
 
 [![](https://assets.ppy.sh/artists/148/header.jpg)](https://osu.ppy.sh/beatmaps/artists/148)
 
-Bringing Japanese folk metal to the forefront yet again, **GYZE** returns with two new ninja-themed tracks!
+Bringing Japanese folk metal to the forefront yet again, **GYZE** returns with two new ninja-themed tracks:
 
 ### GYZE - GOD SAMURAI NINJA
 
@@ -246,7 +246,7 @@ Singlehandedly raising the skill ceiling for osu!'s finger control limits, **II-
 
 [![](https://assets.ppy.sh/artists/163/header.jpg)](https://osu.ppy.sh/beatmaps/artists/163)
 
-Speaking of rhythm game sound, **Reku Mochizuki** steps up to the plate with a quick **3** tracks with more hardcore leanings than any other artist on this list:
+Speaking of rhythm games, **Reku Mochizuki** steps up to the plate with a quick **3** tracks with more hardcore leanings than any other artist on this list:
 
 - **Reku Mochizuki - 7colors memories feat. Seyaka**
 - **Reku Mochizuki - Perfect ConfeCute**
@@ -355,7 +355,7 @@ Doujin J-rock group **Symholic** is here with glimpes of both new and old. On th
 
 [![](https://assets.ppy.sh/artists/45/header.jpg)](https://osu.ppy.sh/beatmaps/artists/45)
 
-As if their listing weren't packed enough, **UNDEAD CORPORATION** is back with **3** more metal sensations, conveniently paired with instrumental versions!
+As if their listing wasn't already packed, **UNDEAD CORPORATION** is back with **3** more metal sensations, conveniently paired with instrumental versions!
 
 - **UNDEAD CORPORATION - Blaze**
 - **UNDEAD CORPORATION - Fragments**
@@ -386,9 +386,15 @@ Topping off our Featured Artist additions is **Zekk**! From solo works to collab
     <source src="LINK" type="audio/mpeg">
 </audio>
 
+### Zekk & poplavor - glow feat. Such
+
+<audio controls>
+    <source src="LINK" type="audio/mpeg">
+</audio>
+
 ---
 
-osu!'s new year's resolution is to provide you with an endless supply of awesome new music to use in your circle clicking endeavours. We think it's safe to say that we're already on the path towards success.
+osu!'s New Year's resolution is to provide you with an endless supply of awesome new music to use in your circle clicking endeavours. It's safe to say we're already on the path towards achieving that.
 
 Of course, this means we'll be diving back into our usual twice-per-week new Featured Artist announcements starting this Wednesday!
 
