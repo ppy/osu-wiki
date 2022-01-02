@@ -5,7 +5,7 @@
 ## Pembatasan aktivitas
 
 ::: Infobox
-![](img/ID-silence-profile.png "Contoh riwayat pelanggaran yang tertera pada laman profil")
+![](img/silence-profile-ID.png "Contoh riwayat pelanggaran yang tertera pada laman profil")
 :::
 
 Para pengguna yang sedang di-*silence* oleh moderator tidak akan dapat melakukan hal-hal berikut:
