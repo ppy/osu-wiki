@@ -87,9 +87,9 @@ Surprising absolutely nobody, **23** songs from **Camellia**'s newest and vaguel
 - **Camellia - FINAL BLENDERMAN APPEARED. (feat. RichaadEB)**
 - **Camellia - WYSI (When You See It)**
 - **Camellia - We Magicians Still Alive in 2021**
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1516120) hosted by [Mir](https://osu.ppy.sh/users/8688812)
-    - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1517336) hosted by [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721)
-    - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1517582) hosted by [HowToPlayLN](https://osu.ppy.sh/users/10879600)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1516120) hosted by [Mir](https://osu.ppy.sh/users/8688812)
+  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1517336) hosted by [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721)
+  - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1517582) hosted by [HowToPlayLN](https://osu.ppy.sh/users/10879600)
 - **Camellia - Hello (BPM) 2021**
 - **Camellia feat. Camellia - AREA 52**
 - **Camellia - Kisaragi**
