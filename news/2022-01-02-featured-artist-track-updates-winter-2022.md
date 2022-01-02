@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured Artist Track Updates: Winter 2022"
-date: 2022-01-02 09:00:00 +0000
+date: 2022-01-02 12:00:00 +0000
 ---
 
 We're launching into 2022 with a collection of updates to our older Featured Artist listings! Over **100** new songs are available. Start your next map already.
@@ -25,13 +25,13 @@ Relaxing electronic mastermind **Aiobahn** steps in with their two newest songs!
 ### Aiobahn - resonance (feat. KOCHO)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/166/Songs/Aiobahn%20-%20resonance%20(feat.%20KOCHO).mp3" type="audio/mpeg">
 </audio>
 
 ### Aiobahn - wish (feat. somunia)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/166/Songs/Aiobahn%20-%20wish%20(feat.%20somunia).mp3" type="audio/mpeg">
 </audio>
 
 ## [Ariabl'eyeS](https://osu.ppy.sh/beatmaps/artists/93)
@@ -61,13 +61,13 @@ For good measure, listen to a couple songs too:
 ### Ariabl'eyeS - Hiiro ni Somarishi Shoujo to Akuma
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/93/Akaki%20Akuma%20no%20Tragedia/Ariabl%27eyeS%20-%20Hiiro%20ni%20Somarishi%20Shoujo%20to%20Akuma.mp3" type="audio/mpeg">
 </audio>
 
 ### Ariabl'eyeS - Dearest you
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/93/Seiren%20Femme%20fatale/Ariabl%27eyeS%20-%20Dearest%20you.mp3" type="audio/mpeg">
 </audio>
 
 ## [Camellia](https://osu.ppy.sh/beatmaps/artists/31)
@@ -108,13 +108,13 @@ Slurp up these tunes:
 ### Camellia - WYSI (When You See It)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/31/U.U.F.O/Camellia%20-%20WYSI%20(When%20You%20See%20It).mp3" type="audio/mpeg">
 </audio>
 
 ### Camellia - Purge My Existence Out Of This World (feat. BTMC)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/31/U.U.F.O/Camellia%20-%20Purge%20My%20Existence%20Out%20Of%20This%20World%20(feat.%20BTMC).mp3" type="audio/mpeg">
 </audio>
 
 ## [ELFENSJoN](https://osu.ppy.sh/beatmaps/artists/69)
@@ -135,13 +135,13 @@ Running back into the gothic rock realm, **ELFENSJoN** dropped a new album just 
 ### ELFENSJoN - Akatsuki o Houmureba
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/69/EPHEMERA/ELFENSJoN%20-%20Akatsuki%20o%20Houmureba.mp3" type="audio/mpeg">
 </audio>
 
 ### ELFENSJoN - WIEGENLIED
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/69/EPHEMERA/ELFENSJoN%20-%20WIEGENLIED.mp3" type="audio/mpeg">
 </audio>
 
 ## [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15)
@@ -153,13 +153,13 @@ A humble batch of two new tracks are available from one of our oldest Featured A
 ### skymuted & Evin a`k - Memory at Angels Landing
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/15/Memory%20at%20Angels%20Landing/skymuted%20%26%20Evin%20a%60k%20-%20Memory%20at%20Angels%20Landing.mp3" type="audio/mpeg">
 </audio>
 
 ### Reku Mochizuki & skymuted - Realm in the Sky
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/15/Realm%20in%20the%20Sky/Reku%20Mochizuki%20%26%20skymuted%20-%20Realm%20in%20the%20Sky.mp3" type="audio/mpeg">
 </audio>
 
 ## [GYZE](https://osu.ppy.sh/beatmaps/artists/148)
@@ -171,13 +171,13 @@ Bringing Japanese folk metal to the forefront yet again, **GYZE** returns with t
 ### GYZE - GOD SAMURAI NINJA
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/148/Songs/GYZE%20-%20GOD%20SAMURAI%20NINJA.mp3" type="audio/mpeg">
 </audio>
 
 ### GYZE - NINJA DANCE
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/148/Songs/GYZE%20-%20NINJA%20DANCE.mp3" type="audio/mpeg">
 </audio>
 
 ## [II-L](https://osu.ppy.sh/beatmaps/artists/172)
@@ -202,19 +202,19 @@ Singlehandedly raising the skill ceiling for osu!'s finger control limits, **II-
 ### II-L - Asteroid Field of DECAPLETS
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/172/Songs/II-L%20-%20Asteroid%20Field%20of%20DECAPLETS.mp3" type="audio/mpeg">
 </audio>
 
 ### II-L - SPUTNIK-1
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/172/MISSION%20SPUTNIK/II-L%20-%20SPUTNIK-1.mp3" type="audio/mpeg">
 </audio>
 
 ### II-L - EXPLORER-5
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/172/EXPLORERS%20PROGRAM/II-L%20-%20EXPLORER-5.mp3" type="audio/mpeg">
 </audio>
 
 ## [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124)
@@ -233,13 +233,13 @@ Singlehandedly raising the skill ceiling for osu!'s finger control limits, **II-
 ### Jun Kuroda - Cast a spell feat. Sennzai
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/124/Into%20your%20memory/Jun%20Kuroda%20-%20Cast%20a%20spell%20feat.%20Sennzai.mp3" type="audio/mpeg">
 </audio>
 
 ### Jun Kuroda - wish upon a polar star
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/124/Into%20your%20memory/Jun%20Kuroda%20-%20wish%20upon%20a%20polar%20star.mp3" type="audio/mpeg">
 </audio>
 
 ## [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163)
@@ -252,10 +252,10 @@ Speaking of rhythm games, **Reku Mochizuki** steps up to the plate with a quick 
 - **Reku Mochizuki - Perfect ConfeCute**
 - **Reku Mochizuki - Serenity Wisteria -Reblooming-**
 
-### Reku Mochizuki - 7colors memories feat. Seyaka
+### Reku Mochizuki - Perfect ConfeCute
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/163/Songs/Reku%20Mochizuki%20-%20Perfect%20ConfeCute.mp3" type="audio/mpeg">
 </audio>
 
 ## [Release Hallucination](https://osu.ppy.sh/beatmaps/artists/194)
@@ -271,7 +271,7 @@ Speaking of rhythm games, **Reku Mochizuki** steps up to the plate with a quick 
 ### Release Hallucination - ANIMA
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/194/ANIMA/Release%20Hallucination%20-%20ANIMA.mp3" type="audio/mpeg">
 </audio>
 
 ## [seatrus](https://osu.ppy.sh/beatmaps/artists/185)
@@ -294,13 +294,13 @@ You're seeing things correctly. We've picked up **11** hyper-intense electronic 
 ### seatrus - O∞
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/185/Loudly%20Cloudy/seatrus%20-%20O.mp3" type="audio/mpeg">
 </audio>
 
 ### seatrus - CIRCVMZENITHALARK
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/185/Loudly%20Cloudy/seatrus%20-%20CIRCVMZENITHALARK.mp3" type="audio/mpeg">
 </audio>
 
 ## [Sennzai](https://osu.ppy.sh/beatmaps/artists/110)
@@ -318,13 +318,13 @@ Vocalist extraordinaire **Sennzai** is up to bat. Sporting **5** new tracks with
 ### Feryquitous feat. Sennzai - Compensation
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/110/RedemptioN/Feryquitous%20feat.%20Sennzai%20-%20Compensation.mp3" type="audio/mpeg">
 </audio>
 
 ### Laur feat. Sennzai - Lure
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/110/RedemptioN/Laur%20feat.%20Sennzai%20-%20Lure.mp3" type="audio/mpeg">
 </audio>
 
 ## [Symholic](https://osu.ppy.sh/beatmaps/artists/130)
@@ -342,13 +342,13 @@ Doujin J-rock group **Symholic** is here with glimpes of both new and old. On th
 ### Symholic / Xorsizer - Junshin no tsurugi -Virgin Blade-
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/130/X%20-Kaikou%20Seshi%20Souheki%20no%20Claymore%20-/Symholic%20%20Xorsizer%20-%20Junshin%20no%20tsurugi%20-Virgin%20Blade-.mp3" type="audio/mpeg">
 </audio>
 
 ### Paspal - Night Blooming Lilies
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/130/Songs/Paspal%20-%20Night%20Blooming%20Lilies.mp3" type="audio/mpeg">
 </audio>
 
 ## [UNDEAD CORPORATION](https://osu.ppy.sh/beatmaps/artists/45)
@@ -364,7 +364,7 @@ As if their listing wasn't already packed, **UNDEAD CORPORATION** is back with *
 ### UNDEAD CORPORATION - Blaze
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/45/Fragments/UNDEAD%20CORPORATION%20-%20Blaze.mp3" type="audio/mpeg">
 </audio>
 
 ## [Zekk](https://osu.ppy.sh/beatmaps/artists/76)
@@ -383,13 +383,13 @@ Topping off our Featured Artist additions is **Zekk**! From solo works to collab
 ### Zekk - Turbulence
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/76/Songs/Zekk%20-%20Turbulence.mp3" type="audio/mpeg">
 </audio>
 
 ### Zekk & poplavor - glow feat. Such
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/76/Songs/Zekk%20%26%20poplavor%20-%20glow%20feat.%20Such.mp3" type="audio/mpeg">
 </audio>
 
 ---
