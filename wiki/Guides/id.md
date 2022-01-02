@@ -8,7 +8,7 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 
 - [Panduan menyunting audio](Audio_Editing)
 - [Mengubah judul teks](/wiki/Beatmap/Title_Text#mengganti-judul-teks)
-- [Mengompres berkas](Compressing_Files)
+- [Mengompres berkas](Compressing_files)
 - [Daftar hitsound khusus](Custom_Hitsound_Library)
 - [Custom sample overrides](Custom_Sample_Overrides)
 - [Cara mengganti artis atau judul lagu dari sebuah beatmap](Changing_the_Artist_or_Title)
@@ -20,7 +20,7 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 - [Panduan Mapping osu!mania](osu!mania_Mapping_Guide)
 - [Mengatur offset dengan ketukan yang tepat](Setting_the_Offset_on_the_Correct_Beat)
 - [Menambahkan hitsound khusus](Using_custom_hitsounds)
-- [Video dari YouTube](Videos_From_Youtube)
+- [Video dari YouTube](Videos_from_Youtube)
 
 ## Modding
 

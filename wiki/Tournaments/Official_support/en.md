@@ -7,7 +7,7 @@ The [osu! team](/wiki/People/The_Team) runs a program where they may opt to prov
 Officially supported tournaments have access to:
 
 - **Profile badge prizes for first-place winners**
-- Assessment for a main-menu banner during major matches (generally quarterfinals and above), subject to availability and criteria (see the [FAQ](#frequently-asked-questions) section below)
+- Assessment for a main-menu banner during major matches (generally quarterfinals and above), subject to availability and criteria (see the [relevant section](#requesting-main-menu-banner-support) below)
 - A listing in the [automatic tournament registrations system](https://osu.ppy.sh/community/tournaments)
 - A dedicated screening process to prevent players with serious integrity infringements (cheating, multiaccounting, tournament bans) from playing
 
@@ -82,9 +82,16 @@ Please consult the following examples of approved badges:
 
 Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly rare, but should be accounted for.
 
-## Designing your main-menu banner
+## Requesting main-menu banner support
 
-In rare circumstances, some long-running community tournaments may qualify for in-game main-menu banner support. Such images must adhere to the following standards:
+In rare circumstances, some long-running community tournaments may qualify for in-game main-menu banner support. It's at the osu! team's discretion to decide if your tournament can be advertised in-game, as there are many factors to consider. The minimum requirements to request in-game advertising are as follows:
+
+- Your tournament meets the [criteria for applicable tournaments](#criteria)
+- You have successfully run *at least* two tournaments in the past
+- The live streams of your current tournament average over 100 concurrent viewers
+- You are able to provide the schedule of the matches and live streams ahead of time
+
+If you satisfy the above criteria, you may make a request for main-menu banner support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). The banner must adhere to the following standards:
 
 - The banner image must be a PNG.
 - The banner image must be **1500x256**px in dimension.
@@ -97,9 +104,9 @@ Please do not submit a main menu banner with your original request—you will be
 
 ## Requesting support
 
-To start with, the request for support **must be made well before the tournament actually commences play.** 
+To start with, the request for support **must be made well before the tournament actually commences play.**
 
-There are no specific timelines for this, but we recommend at least two to three weeks before play commences to account for delays in the screening process. 
+There are no specific timelines for this, but we recommend at least two to three weeks before play commences to account for delays in the screening process.
 
 You may be required to postpone the start of your tournament during periods of high delay, but the osu! team will make efforts to ensure this does not happen.
 
@@ -127,7 +134,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - The tournament must be run only four or fewer times per year.
 - The tournament must have all players screened by the [account support team](/wiki/People/The_Team/Account_support_team) **before play commences**.
 - The tournament must not be "self-reffed". A dedicated referee must be present during every match.
-- The tournament must not prevent players, who pass the screening, from participation without both ample evidence presented publicly against them and the approval of the account support team. 
+- The tournament must not prevent players, who pass the screening, from participation without both ample evidence presented publicly against them and the approval of the account support team.
   - This only applies in circumstances where they would otherwise meet the sign-up criteria for the tournament.
   - This includes preventing users who are perceived to be "sandbagging" from play.
     - Should an organizer have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the Tournament Committee for a case-by-case review using the link listed below.
@@ -191,14 +198,3 @@ For other contests, email us and ask personally. We'll try to work something out
 ### Can a team-based tournament match be played if a team is missing a player? {#team-player-missing}
 
 Yes, a match can still be played even if one of the teams is missing one or more players.
-
-### Can I request to advertise my tournament on the main menu? {#main-menu-advertise}
-
-Yes, you can. It's at the osu! team's discretion to decide if your tournament can be advertised in-game, as there are many factors to consider.
-
-The minimum requirements to request in-game advertising are as follows:
-
-- Your tournament meets the [criteria for applicable tournaments](#criteria) that can be found at the top of this article
-- You have successfully run *at least* two tournaments in the past
-- The live streams of your current tournament average over 100 concurrent viewers
-- You are able to provide the schedule of the matches and live streams ahead of time
