@@ -10,7 +10,7 @@ tags:
 
 *A ne pas confondre avec le Katu de osu!taiko.*
 
-**Katu (喝)**, *Katsu*, ou *Beat!*, est un terme de [score](/wiki/Score) qui désigne un [combo](/wiki/Beatmapping/Combo) terminé sans la meilleure [précision](/wiki/Gameplay/Accuracy) possible sur chaque note. Cependant, le Katu ne peut pas être réalisé si un combo contient un 50 ou un miss.
+**Katu (喝)**, *Katsu*, ou *Beat!*, est un terme de [jugement](/wiki/Gameplay/Judgement) qui désigne un [combo](/wiki/Beatmapping/Combo) terminé sans la meilleure [précision](/wiki/Gameplay/Accuracy) possible sur chaque note. Cependant, le Katu ne peut pas être réalisé si un combo contient un 50 ou un miss.
 
 Il existe deux types de Katu qui dépendent de la valeur de précision du dernier coup du combo. Le premier type vaut 300 points de base, et le second vaut 100 points de base. Le Katu à 100 points donne moins de HP, et le Katu à 300 points donne moins de HP qu'un [Geki](/wiki/Geki).
 

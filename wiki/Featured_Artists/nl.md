@@ -1,6 +1,6 @@
 ---
 tags:
-- FA
+  - FA
 no_native_review: true
 ---
 

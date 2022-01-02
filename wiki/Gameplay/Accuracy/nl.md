@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: a4d801f4dbb4b86901f63773b7993647eb5b7ba8
 ---
 
 # Nauwkeurigheid
@@ -12,7 +14,7 @@ De nauwkeurigheid is een meting van de consistentie van een speler. Er zijn drie
 
 ![Nauwkeurigheid = (50 \* aantal 50s + 100 \* aantal 100s + 300 \* aantal 300s) / 300(aantal 0s + aantal 50s + aantal 100s + aantal 300s)](img/accuracy_osu.png "Nauwkeurigheidsformule voor osu!")
 
-In osu! wordt nauwkeurigheid berekend door de beoordeling van elk hitobject te wegen en dan te delen door de hoogst mogelijke waarde die behaald kan worden voor dat object.
+In osu! wordt nauwkeurigheid berekend door de [beoordeling](/wiki/Gameplay/Judgement) van elk hitobject te wegen en dan te delen door de hoogst mogelijke waarde die behaald kan worden voor dat object.
 
 Referentie voor één hitcirkel:
 

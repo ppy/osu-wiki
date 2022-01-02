@@ -19,12 +19,12 @@ As of 27 July 2021, the osu! website automatically assigns a beatmap's difficult
 
 In some instances, such as [AiMod](/wiki/Beatmap_Editor/AiMod), difficulty is classified into six level ranges based on star rating as follows:
 
-- ![](/wiki/shared/diff/easy-o.png) Easy: 0.0★–1.99★
-- ![](/wiki/shared/diff/normal-o.png) Normal: 2.0★–2.69★
-- ![](/wiki/shared/diff/hard-o.png) Hard: 2.7★–3.99★
-- ![](/wiki/shared/diff/insane-o.png) Insane: 4.0★–5.29★
-- ![](/wiki/shared/diff/expert-o.png) Expert: 5.3★–6.49★
-- ![](/wiki/shared/diff/expertplus-o.png) Expert+: 6.5★ and above
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy: 0.0★–1.99★
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal: 2.0★–2.69★
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard: 2.7★–3.99★
+- ![](/wiki/shared/diff/insane-o.png?20211215) Insane: 4.0★–5.29★
+- ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ and above
 
 Note that while the intended difficulty levels of most beatmaps match the colours or level ranges they are given, some may deviate significantly due to certain factors. This is why the [ranking criteria](/wiki/Ranking_Criteria) offers more decisive ground rules to determine a beatmap's actual difficulty level and spread regardless of its star rating.
 

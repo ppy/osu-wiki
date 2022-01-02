@@ -58,9 +58,9 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
-| ![][flag_HK] [Capu](https://osu.ppy.sh/users/2474015) | 德语 | 评估 |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | 德语 | 评估 |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | 粤语，中文 | 评估 |
-| ![][flag_HK] [radar](https://osu.ppy.sh/users/7131099) |  | 评估 |
+| ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  | 评估 |
 
 ### osu!catch
 
@@ -74,12 +74,13 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | 评估 |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | 阿拉伯语，法语 | 评估 |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | 评估 |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "比利时"
 [flag_CL]: /wiki/shared/flag/CL.gif "智利"
+[flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "阿尔及利亚"
 [flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
 [flag_GB]: /wiki/shared/flag/GB.gif "英国"

@@ -63,9 +63,9 @@ NAT държи потенциалните NAT членове в списъка �
 
 | Име | Допълнителен език | Основни отговорности |
 | :-- | :-- | :-- |
-| ![][flag_HK] [Capu](https://osu.ppy.sh/users/2474015) | Немски | Оценка |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Немски | Оценка |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Кантонски, Китайски | Оценка |
-| ![][flag_HK] [radar](https://osu.ppy.sh/users/7131099) |  | Оценка |
+| ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  | Оценка |
 
 ### osu!catch
 
@@ -79,6 +79,7 @@ NAT държи потенциалните NAT членове в списъка �
 
 | Име | Допълнителен език | Основни отговорности |
 | :-- | :-- | :-- |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Оценка |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Арабски, Френски | Оценка |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Оценка |
 
@@ -86,6 +87,7 @@ NAT държи потенциалните NAT членове в списъка �
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Белгия"
 [flag_CL]: /wiki/shared/flag/CL.gif "Чили"
+[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Алжир"
 [flag_ES]: /wiki/shared/flag/ES.gif "Испания"
 [flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"

@@ -1,9 +1,9 @@
 ---
 tags:
-- hit objects
-- sliderhead
-- sliderbody
-- slideranchor
+  - hit objects
+  - sliderhead
+  - sliderbody
+  - slideranchor
 ---
 
 # Slider
@@ -18,7 +18,7 @@ Slider dapat dibuat di [editor beatmap](/wiki/Beatmap_Editor) dengan memilih iko
 
 Mapper bebas memindahkan/menambah/menghapus titik kontrol slider setelah slider selesai. Mapper dapat menghapus titik kontrol slider dengan mengklik kanan titik kontrol slider setelah slider dipilih, atau menambahkan titik kontrol slider dengan menahan `Ctrl` dan mengklik di mana saja di dalam slider (klik dua kali atau `Ctrl`+klik titik kontrol slider untuk membuat titik kontrol slider merah). Slider juga dapat dibalik dengan mengklik dan menyeret slider tail di timeline.
 
-Mappper juga dapat menyesuaikan jumlah tick pada slider beatmap mereka di bagian `Timing`. Lebih banyak tick membuat kombo naik lebih cepat (1x lebih banyak per tick) dan dengan demikian menawarkan peluang untuk skor yang lebih tinggi, tetapi pada saat yang sama memberikan lebih banyak peluang bagi pemain untuk gagal karena penilaian menjadi lebih sulit.
+Mappper juga dapat menyesuaikan jumlah tick pada slider beatmap mereka di bagian `Timing`. Lebih banyak tick membuat kombo naik lebih cepat (1x lebih banyak per tick) dan dengan demikian menawarkan peluang untuk skor yang lebih tinggi, tetapi pada saat yang sama memberikan lebih banyak peluang bagi pemain untuk gagal karena [judgement](/wiki/Gameplay/Judgement) menjadi lebih sulit.
 
 ## Hitsounding slider
 
