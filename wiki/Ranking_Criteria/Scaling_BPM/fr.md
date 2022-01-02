@@ -4,7 +4,7 @@ Les règles et les directives des critères de classement sont basées sur des m
 
 Nous utiliserons les directives suivantes d'une difficulté Normal d'osu! comme exemple :
 
-> **Incluez un écart de rythme de 1/1 ou plus pour chaque deux mesures de jeu.**
+> **Incluez un écart de rythme de 1/1 ou plus toutes les deux mesures de jeu.**
 
 Par souci de simplicité, considérez le 180 BPM comme un point médian.
 
@@ -14,7 +14,7 @@ Par souci de simplicité, considérez le 180 BPM comme un point médian.
 
 Cette faible gamme de BPM pourrait facilement être assimilée à une augmentation du tempo à partir de la base de 180 BPM.
 
-- **Lorsque le tempo d'une musique passe de 180 BPM à ~240 BPM,** moins le rythme en 1/2 est acceptable.
+- **Lorsque le tempo d'une musique passe de 180 BPM à ~240 BPM,** le rythme en 1/2 est moins acceptable.
 - **Près de 240 BPM,** un rythme minimal de 1/2 doit être utilisé.
 - **Au delà de 240 BPM,** aucun rythme en 1/2 ne doit être utilisé, tout comme les beatmaps au-dessus de 120 BPM doivent éviter le rythme en 1/4.
 
