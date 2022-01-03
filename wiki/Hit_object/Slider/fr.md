@@ -1,10 +1,10 @@
 ---
 tags:
-- hit objects
-- sliderhead
-- sliderbody
-- slideranchor
-- objets
+  - hit objects
+  - sliderhead
+  - sliderbody
+  - slideranchor
+  - objets
 ---
 
 # Slider

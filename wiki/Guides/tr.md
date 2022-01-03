@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: acdcb1efbd3ac94eef628b095b78cbacfcdac000
+---
+
 # Kılavuzlar
 
 Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!forumlarda başlayıp osu! wiki'ye taşınmış olan kılavuzların sıralı listesi mevcuttur.
@@ -40,7 +45,7 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 
 - [Karışık Arkaplanları Kırpmak](Cropping_with_Complex_Backgrounds)
 - [Basit Arkaplanları Kırpmak](Cropping_with_Simple_Backgrounds)
-- [Düzgünce Ortalanmış Spinnerlar Yapmak](Making_Properly_Centered_Spinners)
+- [Düzgünce Ortalanmış Spinnerlar Yapmak](Making_Properly_Centred_Spinners)
 
 ## Diğer
 

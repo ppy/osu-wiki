@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: acdcb1efbd3ac94eef628b095b78cbacfcdac000
 ---
 
 # ガイド
@@ -44,7 +46,7 @@ no_native_review: true
 
 - [複雑な背景でのトリミング](Cropping_with_Complex_Backgrounds)
 - [シンプルな背景でのトリミング](Cropping_with_Simple_Backgrounds)
-- [適切に中央に配置されたスピナーの作成](Making_Properly_Centered_Spinners)
+- [適切に中央に配置されたスピナーの作成](Making_Properly_Centred_Spinners)
 
 ## その他
 
