@@ -2,7 +2,7 @@
 
 The [osu! team](/wiki/People/The_Team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on 04 January 2022. For any queries and clarifications, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on January 4, 2022. For any queries and clarifications, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -19,7 +19,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - The tournament series must be run only four or fewer times per year.
 - The tournament must have at least 64 players or 16 teams qualifying, OR operate on a Round of 16 double-elimination format at a minimum. Larger scales and formats are permitted.
 - The tournament is organised and run by an *experienced team of accomplished and reputable volunteers***¹** , **OR**, the tournament *has been run at least once before without receiving rewards*.
-- Staff members must not participate in the tournament themselves at any point, and registered players are unable to later assist as staff either. For our definition on “staff”, please refer to the [FAQ](#what-is-considered-staff).
+- Staff members must not participate in the tournament themselves at any point, and registered players are unable to later assist as staff either. For our definition on "staff", please refer to the [FAQ](#what-is-considered-staff).
 - The forum thread for the tournament must contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
 
@@ -31,7 +31,7 @@ To start with, the request for support **must be made well before the tournament
 
 You may be required to postpone the start of your tournament during periods of high delay, but the osu! team will make efforts to ensure this does not happen.
 
-If your tournament satisfies the [eligibility criteria](#eligibility), you can make a request for support but sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) with the following information:
+If your tournament satisfies the [eligibility criteria](#eligibility), you can make a request for support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) with the following information:
 
 - The name of your tournament
 - A brief description of your tournament, including its scoring type and any other appropriate features
@@ -80,7 +80,7 @@ LAN tournaments are also required to add links to VODs and a copy of the entire 
 
 Tournament organizers are expected to ensure that their tournaments run smoothly and with minimal disruption where possible.
 
-Users under an active (or permanent) tournament ban are expected to disclose their tournament ban status to any badged tournament they're helping with. They may be enlisted as general help (ie. any non-staff role such as a commentator, streamer, etc) in an officially supported tournament at the host's discretion, but we encourage careful consideration of such choices as said individuals have already run afoul of the rules once (or more). They may not act as [staff](#what-is-considered-staff) UNLESS the host requests an exemption for them when sending in the player list for screening. The account support team will then assess these on a case-by-case basis with the user's history in mind.
+Users under an active (or permanent) tournament ban are expected to disclose their tournament ban status to any badged tournament they're helping with. They may be enlisted as general help (i.e. any non-staff role such as a commentator, streamer, etc.) in an officially supported tournament at the host's discretion, but we encourage careful consideration of such choices as said individuals have already run afoul of the rules once (or more). They may not act as [staff](#what-is-considered-staff) UNLESS the host requests an exemption for them when sending in the player list for screening. The account support team will then assess these on a case-by-case basis with the user's history in mind.
 
 ### Players
 
@@ -116,7 +116,7 @@ Player2, Team 2, 1234567
 Player3, Team 3, 1234567
 ```
 
-Once screening concludes, the account support team will provide a list of any players from your tournament that failed screening and are not considered eligible for tournament play, without providing specific reasoning. Individual players who are unhappy with their screening outcome should be told to consult [accounts@ppy.sh](mailto:accounts@ppy.sh) via email.
+Once screening concludes, the account support team will provide a list of any players from your tournament who failed screening and are not considered eligible for tournament play, without providing specific reasoning. Individual players who are unhappy with their screening outcome should be told to consult [accounts@ppy.sh](mailto:accounts@ppy.sh) via email.
 
 **Allowing users that have failed screening to play in your tournament will result in an immediate withdrawal of support and will result in future requests for support to be denied.**
 
@@ -135,7 +135,7 @@ Please consult the following examples of approved badges:
 
 Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly rare, but should be accounted for.
 
-In rare cases, the osu!team may choose to award exceptional tournaments that go above and beyond the expected standards with badges for the top three finalists. This is done at the discretion of the osu!team - you will be contacted if your tournament is deemed worthy.
+In rare cases, the osu!team may choose to award exceptional tournaments that go above and beyond the expected standards with badges for the top three finalists. This is done at the discretion of the osu!team—you will be contacted if your tournament is deemed worthy.
 
 ### Requesting main-menu banner support
 
@@ -143,9 +143,9 @@ In rare circumstances, some long-running community tournaments may qualify for i
 
 - Your tournament meets the [eligibility criteria for applicable tournaments](#eligibility).
 - You have successfully run *at least* two tournaments in the past.
-- The live streams of your current tournament average over 100 concurrent viewers.
+- The livestreams of your current tournament average over 100 concurrent viewers.
 - Your tournament is nearing its conclusion (e.g. your tournament is at Quarterfinals or above and it started on Round of 32).
-- You are able to provide the schedule of the matches and live streams ahead of time.
+- You are able to provide the schedule of the matches and livestreams ahead of time.
 
 If you satisfy the above criteria, you may make a request for main-menu banner support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). The banner must adhere to the following standards:
 
@@ -183,7 +183,7 @@ We have historically had issues where unscrupulous organizers have geared tourna
 
 ### Can a player who has been eliminated from play in my tournament join the staff after the fact and not cause problems? {#player-join-staff}
 
-If we are going by the above definition of “staff”, then the answer is no. The role they would assume could conceivably influence the outcome of the tournament. A player may conclude play in your tournament and join as a commentator, for example, but not as a referee, organizer, or anything further.
+If we are going by the above definition of "staff", then the answer is no. The role they would assume could conceivably influence the outcome of the tournament. A player may conclude play in your tournament and join as a commentator, for example, but not as a referee, organizer, or anything further.
 
 ### What should I do if a player in my tournament gets restricted? {#player-restriction}
 
