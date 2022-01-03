@@ -45,7 +45,7 @@ Vous trouverez ci-dessous une liste triée des guides créés par les membres de
 
 - [Recadrage avec des arrière-plans complexes](Cropping_with_Complex_Backgrounds)
 - [Recadrage avec des arrière-plans simples](Cropping_with_Simple_Backgrounds)
-- [Faire des spinners correctement centrés](Making_Properly_Centered_Spinners)
+- [Faire des spinners correctement centrés](Making_Properly_Centred_Spinners)
 
 ## Divers
 

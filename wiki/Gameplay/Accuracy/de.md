@@ -71,7 +71,7 @@ Die Formel ist im Wesentlichen die Standardabweichung der Trefferfehler (in Mill
 
 ### Spin
 
-*Hinweis: Spin wird nur für den [osu! Spielmodus](/wiki/Spielmodus/osu!) verwendet.*
+*Hinweis: Spin wird nur für den [osu! Spielmodus](/wiki/Game_mode/osu!) verwendet.*
 
 Zusätzlich zur Genauigkeit werden in der gleichen Meldung auch einige Informationen zu Spinnern angezeigt. <!-- This line could use some more information on what that information is, how it's calculated, what it means, etc. etc. -->
 

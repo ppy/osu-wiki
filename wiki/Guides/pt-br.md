@@ -46,7 +46,7 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 
 - [Corte com Planos de Fundo Complexos](Cropping_with_Complex_Backgrounds)
 - [Corte com Planos de Fundo Simples](Cropping_with_Simple_Backgrounds)
-- [Fazendo Spinners Propriamente Centralizados](Making_Properly_Centered_Spinners)
+- [Fazendo Spinners Propriamente Centralizados](Making_Properly_Centred_Spinners)
 
 ## Diversos
 

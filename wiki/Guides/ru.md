@@ -44,7 +44,7 @@ outdated_since: acdcb1efbd3ac94eef628b095b78cbacfcdac000
 
 - [Как удалить "сложный" фон на картинке](Cropping_with_Complex_Backgrounds)
 - [Как удалить "простой" фон на картинке](Cropping_with_Simple_Backgrounds)
-- [Создание круглых картинок](Making_Properly_Centered_Spinners)
+- [Создание круглых картинок](Making_Properly_Centred_Spinners)
 
 ## Разное
 
