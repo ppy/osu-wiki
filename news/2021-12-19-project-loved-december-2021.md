@@ -8,7 +8,7 @@ This festive time of year is all about appreciating one another, so why not shar
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-To those who need a reminder, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](/wiki/Beatmap/Category#loved). All of the maps are chosen by the Loved Captains of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll, or you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! You can read more about this project on the wiki page!
+To those who need a reminder, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](/wiki/en/Beatmap/Category#loved). All of the maps are chosen by the Loved Captains of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll, or you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! You can read more about this project on the wiki page!
 
 As usual, we would like to thank everyone for your participation in the November votes. If you would like to view the results from the previous round, you may do so by clicking the following links:
 
@@ -516,7 +516,7 @@ This map is the definition of a hybrid. Diverse rice patterning meets short LN b
 
 ---
 
-From the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selections and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end.
+From the [Project Loved Team](/wiki/en/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selections and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end.
 
 If you would like to submit maps to be considered for future votes, you may do so by filling out [this form](https://loved.sh/submit) and if you wish to view currently submitted maps, you can check them on the [Project Loved website](https://loved.sh/submissions/osu).
 

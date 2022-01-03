@@ -252,7 +252,7 @@ YES! EAT! RULEBLAZING!
 
 What some might consider one of the most unforgettable DJ SHARPNEL tracks has finally been brought up to the Loved scene from the experienced hands of Shoegazer, one of the most well-known pillars of the mapping community thus far! They've really been putting quite an unsurmountable amount of effort in charting Jea's tracks all throughout this year. You can find their compendium in their [*Sharpnel Instrumentality Project*](https://osu.ppy.sh/beatmapsets/1457890#mania/2996179), where all of their tracks have been compiled.
 
-Coming back to the topic however, most people will recognize this map from its usage in the [**osu!mania World Cup 2021**](/wiki/Tournaments/MWC/2021_4K) on the Finals mappool. Thankfully you will not be forced to play this intense ordeal at 1.35x as all the other beasts who arrived at that round had to! Everyone is free to play this magnificent Jumpstream experience at their own pace, so feel free to give it a shot yourself.
+Coming back to the topic however, most people will recognize this map from its usage in the [**osu!mania World Cup 2021**](/wiki/en/Tournaments/MWC/2021_4K) on the Finals mappool. Thankfully you will not be forced to play this intense ordeal at 1.35x as all the other beasts who arrived at that round had to! Everyone is free to play this magnificent Jumpstream experience at their own pace, so feel free to give it a shot yourself.
 
 Also, it is morally correct to change the track your girlfriend is listening to *FAKE PROMISE* at any given time. This has happened before... right?
 
@@ -306,7 +306,7 @@ Over time this chart has proven to be a fan favorite to those who follow Mon's w
 
 The [Guil cult](https://cdn.discordapp.com/attachments/694872212553072642/909926192235286548/Guil_Day_2.png) shall await no longer, for their savior hast bestowed them with yet another gem. This time in the shape of an... an egg. It's an egg. Yeah.
 
-But this is not an ordinary egg. It's none other than *Nest*! For those with tournament experience, this might ring a couple of bells as it was used in the [**Springtime Osu!mania Free-for-all Tournament 4**](/wiki/Tournaments/SOFT/4). Or just SOFT4. I believe that makes the name a little bit more memorable.
+But this is not an ordinary egg. It's none other than *Nest*! For those with tournament experience, this might ring a couple of bells as it was used in the [**Springtime Osu!mania Free-for-all Tournament 4**](/wiki/en/Tournaments/SOFT/4). Or just SOFT4. I believe that makes the name a little bit more memorable.
 
 But what makes the map so special? It is a complete speed test, meant for everyone thanks to the vast selection of rates! Maybe you only like the Yolk. But for those yearning for the full egg experience, oh boy do brace yourself as the chart couldn't be more relentless. Be prepared, for the egg has no mercy on its victims.
 
