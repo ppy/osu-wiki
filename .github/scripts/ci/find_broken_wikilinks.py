@@ -30,10 +30,8 @@ class Link(typing.NamedTuple):
 
     # Link position within the line. Example:
     #   See also: [Difficulty names](/wiki/Beatmap/Difficulty#naming-conventions)
-    #             ^ link_start       ^ location_start        ^ extra_start      ^ link_end
+    #             ^ link_start                                                  ^ link_end
     link_start: int
-    location_start: int
-    extra_start: int
     link_end: int
 
     @property
@@ -172,8 +170,6 @@ def find_link(s: str, index=0) -> typing.Optional[Link]:
                     title=s[start + 1: mid - 1],
                     extra=s[extra: end],
                     link_start=start,
-                    location_start=mid,
-                    extra_start=extra,
                     link_end=end,
                 )
             continue
@@ -181,7 +177,7 @@ def find_link(s: str, index=0) -> typing.Optional[Link]:
     return None
 
 
-def find_links(s: str) -> list[Link]:
+def find_links(s: str) -> typing.List[Link]:
     results = []
     index = 0
     match = find_link(s, index)
