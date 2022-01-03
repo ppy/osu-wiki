@@ -11,7 +11,7 @@ Das Support-Team ist verantwortlich für:
 1. das Testen und/oder Bestätigen von Fehlerberichten, um die Entwickler wissen zu lassen, was nicht einwandfrei läuft.
 2. das Organisieren von Threads in den Foren [Feature Requests](https://osu.ppy.sh/community/forums/4) und [Hilfe](https://osu.ppy.sh/community/forums/5) sowie das Markieren der Threads als *Resolved* (Gelöst), *Confirmed* (Bestätigt), *Invalid* (Ungültig), *Duplicate* (Duplikat) und/oder *Added* (Hinzugefügt).
 
-Wenn jemand Hilfe im Forum brauchen sollte, sind sie die erste Anschlusstelle für Unterstützung.
+Wenn jemand Hilfe im Forum brauchen sollte, sind sie die erste Anlaufstelle für Unterstützung.
 
 ## Teammitglieder
 
