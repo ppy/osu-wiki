@@ -33,7 +33,7 @@ no_native_review: true
 
 ## 新聞團隊
 
-所有網站上的[新聞稿]((https://osu.ppy.sh/home/news))的管理者、編輯、和批准者。
+所有網站上的[新聞稿](https://osu.ppy.sh/home/news)的管理者、編輯、和批准者。
 
 | osu! 個人檔案 | GitHub 個人檔案 |
 | :-- | :-- |

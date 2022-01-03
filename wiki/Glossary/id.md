@@ -5,7 +5,6 @@ Halaman indeks untuk semua artikel tentang istilah khusus osu!.
 - [Objek aktif](Active_object)
 - [Riwayat perubahan](Changelog)
 - [Choke](Choke)
-- [Combo (pengali skor)](Combo_(score_multiplier))
 - [Warna combo](Combo_colour)
 - [Combo fire](Combo_fire)
 - [Combo milestone](Combo_milestone)

@@ -61,9 +61,9 @@ Notes :
 
 ## Bouton
 
-`button-Gauche.png`
+`button-left.png`
 
-![](img/button-Gauche.png)
+![](img/button-left.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -194,7 +194,7 @@ Notes :
 
 `selection-mod-autoplay.png`
 
-![](img/selection-mod-auEn hautlay.png)
+![](img/selection-mod-autoplay.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |

@@ -141,7 +141,7 @@
 
 - サウンドエフェクトはサポートされていません。これはプレイヤーの注意を逸らしてしまう危険性もあるので、BATや熟練者の指導に従うとよいでしょう。
 - [loopあるいは](/wiki/Storyboard/Scripting/Compound_Commands)[triggerはサポートしていません](/wiki/Storyboard/Scripting/Compound_Commands)。
-- [Move-X](/wiki/Storyboard/Scripting/Commands)/[Move-Y](/wiki/Storyboard/Scripting_Commands) コマンドは存在しません。
+- [Move-X](/wiki/Storyboard/Scripting/Commands)/[Move-Y](/wiki/Storyboard/Scripting/Commands) コマンドは存在しません。
 - 画像の座標は*常に* 320,240になります。座標を指定するためにMoveコマンドを使う必要があるでしょう。ただしこれは強制ではありません。
   - [ストーリーボードスクリプトを行っていた場合はデザインで各オブジェクトに割り当てられた](/wiki/Storyboard/Scripting)*特殊なコマンド*を読み込み直す必要があります。
 

@@ -137,7 +137,7 @@ Certains de ces paramètres sont disponibles dans des onglets en dessous des men
 
 ### Rechercher
 
-![](img/search-bar-FR.jpg)
+![](img/search-bar-FR.png)
 
 *Remarque : Il est impossible d'effectuer une recherche tout en ayant la console de tchat ou le menu des options ouvert. En effet, tout ce qui sera écrit sera considéré comme un message dans le chat ou une recherche dans les options.*
 
@@ -225,7 +225,7 @@ Vous pouvez naviguer dans la liste de beatmaps de différentes façons : en util
 
 ![](img/game-mode-selector-FR.jpg "Liste des modes de jeu disponibles")
 
-![](img/gameplay-toolbox-FR.jpg)
+![](img/gameplay-toolbox-FR.png)
 
 Cette section peut être appelée la boîte à outils de jeu. On va expliquer l'utilisation de chaque bouton de gauche à droite.
 
