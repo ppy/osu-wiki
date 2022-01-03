@@ -94,7 +94,7 @@ Les paramètres de touches par défaut sont pour le style *Symétrique*.
 
 ### Normal
 
-![Configuration des touches par défaut dans osu!mania (Options-> Contrôles)](/wiki/shared/Mania_key_layouts.jpg "osu!mania key layout")
+![Configuration des touches par défaut dans osu!mania (Options-> Contrôles)](/wiki/shared/Mania_key_layouts.jpg "Disposition des touches d'osu!mania")
 
 Il *y avait* deux différents styles de configuration, *Symétrique* et *de Gauche à Droite* :
 
@@ -144,7 +144,7 @@ Arrangement des touches pour *de Droite à Gauche* (pour le style *Beatmania IID
 
 ### Co-Op
 
-![Configuration des touches par défaut dans osu!mania (Co-Op)](/wiki/shared/Mania_key_layouts2.jpg "osu!mania key layout (Co-Op)")
+![Configuration des touches par défaut dans osu!mania (Co-Op)](/wiki/shared/Mania_key_layouts2.jpg "Disposition des touches d'osu!mania (Co-Op)")
 
 La **[mise à jour du 5 Mars 2015 (05/03/2015)](https://osu.ppy.sh/home/changelog)** a apporté à osu!mania un nouveau mod nommé [Co-Op](/wiki/Game_modifier/Co-op). Avec ce mod activé, un nouveau set de touches sera donné en plus du set primaire de touches.
 
