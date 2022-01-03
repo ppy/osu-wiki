@@ -10,7 +10,7 @@ Officially supported tournaments have access to:
 
 - [**Profile badge prizes for first-place winners**](#profile-badges)
 - Assessment for a [main-menu banner advertisement](#requesting-main-menu-banner-support) during major matches, subject to availability and criteria
-- A dedicated screening process to prevent players with serious integrity infringements (cheating, multiaccounting, tournament bans) from playing
+- A dedicated screening process to prevent players with serious integrity infringements (cheating, multi-accounting, tournament bans) from playing
 
 ## Eligibility
 
@@ -69,7 +69,7 @@ In addition, all promotional material or any services associated with a tourname
 - A dedicated referee must be present during every match. Players cannot "self-ref". 
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post in a clear accessible format.
 
-Once the tournament has concluded, the touranment organizers will need to submit the following to the account support team:
+Once the tournament has concluded, the tournament organizers will need to submit the following to the account support team:
 
 - A list of applicable badge recipients (a.k.a. the winners of your tournament)
 - A link to the publicly viewable catalogue of your tournament's match history
@@ -170,7 +170,7 @@ For all of these reasons (and more), we ask that profile badge prizes are only a
 
 ### What is considered "staff" as far as tournament management goes? {#what-is-considered-staff}
 
-We consider referees, mappool selectors, playtesters, judges, team organizers, or any other form of managerial position directly involved in the maintenance and operation of a tournament to be a part of its staff.
+We consider referees, mappool selectors, mappool playtesters, judges, team organizers, or any other form of managerial position directly involved in the maintenance and operation of a tournament to be a part of its staff.
 
 Commentators and streamers are not considered by us as staff, and may play or interact in tournaments freely so long as they are not directly involved in any managerial aspect of running the tournament or violate anything mentioned above.
 
