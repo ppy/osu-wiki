@@ -12,26 +12,26 @@ Pour accéder au mode de jeu osu!taiko, appuyez simultanément sur les touches `
 
 Vous pouvez aussi cliquer sur le bouton `Mode` et sélectionner `osu!taiko`.
 
-### Les bases du jeu
+### Les bases du gameplay
 
-#### Terrain de jeu
+#### Playfield
 
-![Terrain de jeu d'osu!taiko](/wiki/shared/Taiko_playfield.jpg "Terrain de jeu d'osu!taiko")
+![Playfield d'osu!taiko](/wiki/shared/Taiko_playfield.jpg "Playfield d'osu!taiko")
 
 Pour les joueurs ayant une expérience préalable de *Taiko no Tatsujin* :
 
 - Pas de danseuses chibi en bas (doit être storyboardé)
 - La barre de vie doit être remplie à au moins 50 % pour réussir la beatmap (ce qui n'est pas vraiment évident avec le skin par défaut ; consultez le [Skin Compendium](https://osu.ppy.sh/community/forums/topics/180864) pour trouver un skin osu!taiko décent).
-- *Kiai Time* déclenche le *"Go-Go Time"*.
-  - Les astuces de gameplay comme les ballons ou les chemins bifurqués ne sont pas implémentées (seulement les bases du jeu).
+- Le *Kiai Time* déclenche le *"Go-Go Time"*.
+  - Certains éléments de gameplay comme les ballons ou les chemins bifurqués ne sont pas implémentés (seules les bases sont présentes).
 - Différence d'affichage en arrière-plan
-  - Les beatmaps spécifique à osu!taiko a généralement son propre fond personnalisé, laissant la section supérieure vide.
+  - Les beatmaps spécifiques à osu!taiko ont généralement leur propre fond personnalisé, laissant la section supérieure vide.
   - Une vidéo ou une image d'arrière-plan statique ne prend que la partie inférieure de la beatmap.
   - S'il y a un élément de storyboard, il occupera tout l'espace disponible à l'écran, sauf les parties importantes pour le jeu.
 
-Pour les nouveaux venus dans le mode osu!taiko, l'écran est divisé en deux sections différentes : la section supérieure contient les éléments de jeu tandis que la section inférieure contient une image ou une vidéo pour la beatmap. Dans la partie supérieure, on trouve la barre de vie qui, contrairement aux autres modes de jeu, commence vide et doit être remplie à au moins 50 % ou à moitié pour passer la difficulté. Dans la partie supérieure centrale, sous la barre de vie, se trouve un tambour taiko sur le côté gauche et un tapis roulant qui transporte les objets de droite à gauche en passant par un double cercle blanc qui sert de cercle de jugement près du tambour taiko. Au-dessus du tambour taiko se trouve la mascotte taiko animée, qui réagit en fonction du jugement reçu et change la couleur du fond supérieur. Enfin, il y a le score habituel, la précision et le timer de la beatmap en haut à droite.
+Pour les nouveaux venus dans le mode osu!taiko, l'écran est divisé en deux sections différentes : la section supérieure contient les éléments de jeu tandis que la section inférieure contient une image ou une vidéo pour la beatmap. Dans la partie supérieure, on trouve la barre de vie qui, contrairement aux autres modes de jeu, commence vide et doit être remplie au moins à moitié pour réussir la beatmap. Dans la partie supérieure centrale, sous la barre de vie, se trouve un tambour taiko sur le côté gauche et un tapis roulant qui transporte les objets de droite à gauche en passant par un double cercle blanc qui sert de cercle de jugement près du tambour taiko. Au-dessus du tambour taiko se trouve la mascotte taiko animée, qui réagit en fonction du jugement reçu et change la couleur du fond supérieur. Enfin, il y a le score habituel, la précision et le timer de la beatmap en haut à droite.
 
-Veuillez noter que le drain de santé est désactivé dans osu!taiko, donc seuls les objets affecteront la barre de santé. Les combos ne sont pas interrompus lorsque vous jouez sur un terrain vide. Contrairement à osu!, les combos sont célébrés tous les 50 coups consécutifs. Le score de base sera boosté après avoir obtenu un combo qui est un multiple de 10, mais s'arrête à 100 (limite maximale de combo pour le boost). Si le combo est cassé, le boost revient au score de base. Pendant le *Kiai Time*, chaque coup réussi donne au joueur 20% de points supplémentaires par rapport au score actuel. Le score obtenu lors d'un coup peut être vérifié sous la précision dans le coin supérieur droit en rouge.
+Veuillez noter que le drain de santé est désactivé dans osu!taiko, donc seuls les objets affecteront la barre de santé. Le combo ne sera pas cassé si vous appuyez dans le vide. Contrairement à osu!, les combos sont célébrés tous les 50 coups consécutifs. Le score de base sera boosté après avoir obtenu un combo qui est un multiple de 10, mais s'arrête à 100 (limite maximale de combo pour le boost). Si le combo est cassé, le boost revient au score de base. Pendant le *Kiai Time*, chaque coup réussi donne au joueur 20% de points supplémentaires par rapport au score actuel. Le score obtenu lors d'un coup peut être vérifié sous la précision dans le coin supérieur droit en rouge.
 
 #### Notes d'osu!taiko
 
@@ -47,49 +47,49 @@ Les notes doivent être pressées ou frappées dans le petit cercle blanc de jug
 
 ![Drumroll d'osu!taiko](/wiki/shared/Taiko_drumroll.jpg "Drumroll d'osu!taiko")
 
-Frappez le tambour intérieur (ou extérieur) de façon continue pour obtenir des points jusqu'à la fin du drumroll. Pour une note **LARGE**, frappez les deux boutons du tambour intérieur (ou extérieur) simultanément et sans interruption jusqu'à la fin. Notez que les coups du drumroll sont plafonnés et ne sont comptés que lorsqu'ils sont frappés sur les petits cercles, plutôt que de jouer le drumrool aussi vite que possible comme dans *Taiko no Tatsujin*.
+Frappez le tambour intérieur (ou extérieur) de façon continue pour obtenir des points jusqu'à la fin du drumroll. Pour une note **LARGE**, frappez les deux boutons du tambour intérieur (ou extérieur) simultanément et sans interruption jusqu'à la fin. Notez que les coups du drumroll sont plafonnés et ne sont comptés que lorsqu'ils sont frappés sur les petits cercles, plutôt que de jouer le drumroll aussi vite que possible comme dans *Taiko no Tatsujin*.
 
-Les drumroll peuvent être ignorés sans pénalité de vie, car ils ne permettent pas de faire remonter la barre de vie. Cependant, cela coûtera les éventuels points gagnés grâce au drumroll. Chaque coup réussi sur le petit cercledonne un score statique de 300.
+Les drumrolls peuvent être ignorés sans pénalité de vie, car ils ne permettent pas de faire remonter la barre de vie. Cependant, cela coûtera les éventuels points gagnés grâce au drumroll. Chaque coup réussi sur le petit cercle donne un score statique de 300.
 
 #### Dendens/Shaker
 
 ![Spinners d'osu!taiko](/wiki/shared/Taiko_spinner.jpg "Spinners d'osu!taiko (denden)")
 
-Frappez le tambour intérieur et extérieur **dans l'ordre** (comme rouge, bleu, rouge, bleu, rouge, bleu, ...) jusqu'à ce que le compteur denden atteigne 0. La couleur de départ n'a pas d'importance (vous pouvez commencer par le bleu si vous le souhaitez), et ne pas le terminer entraînera une pénalité de vie mais pas de rupture de combo. Frapper la même couleur ne décrémentera pas le compteur denden, jusqu'à ce qu'une couleur différente soit frappée à la place.
+Frappez le tambour intérieur et extérieur **dans l'ordre** (comme rouge, bleu, rouge, bleu, rouge, bleu, ...) jusqu'à ce que le compteur denden atteigne 0. La couleur de départ n'a pas d'importance (vous pouvez commencer par le bleu si vous le souhaitez), et ne pas le terminer entraînera une pénalité de vie mais pas de réinitialisation du combo. Frapper la même couleur ne décrémentera pas le compteur denden, jusqu'à ce qu'une couleur différente soit frappée à la place.
 
-Il n'incrémente pas le compteur de combo, et ne récupère pas la barre de vie de quelque manière que ce soit. Chaque coup denden réussi ne donne qu'un score statique de 300, et l'achèvement du denden donnera un score parfait (GREAT) de grande note.
+Il n'incrémente pas le compteur de combo, et ne redonne pas de vie de quelque manière que ce soit. Chaque coup denden réussi ne donne qu'un score statique de 300, et terminer le denden donnera un score parfait (GREAT).
 
 ## Styles de jeu
 
-*Reportez-vous à la page [Styles de jeu sous osu!taiko](/wiki/Play_style).*
+*Voir [Styles de jeu sous osu!taiko](/wiki/Play_style).*
 
 ## Contrôles
 
 Les contrôles par défaut pour osu!taiko sont :
 
-| Type | Souris | clavier | TaTaCon |
+| Type | Souris | Clavier | TaTaCon |
 | :-- | :-- | :-- | :-- |
-| Rouge | Click gauche (L) | `X`(L) / `C`(R) | Surface plane du tambour |
-| Bleu | Click droit (L) | `Z`(L) / `V`(R) | Surface extérieure du tambour |
+| Rouge | Clic gauche (L) | `X`(L) / `C`(R) | Surface plane du tambour |
+| Bleu | Clic droit (L) | `Z`(L) / `V`(R) | Surface extérieure du tambour |
 
-Le placement du curseur dans le jeu n'a pas d'importance lors du jeu.
+La position du curseur n'a pas d'importance dans ce mode de jeu.
 
-Si le mod [Relax](/wiki/Game_modifier/Relax) a été utilisé, le jugement du score ne tient compte que du timing des coups (il rectifie automatiquement les coups de mauvaise couleur avec la bonne couleur).
+Si le mod [Relax](/wiki/Game_modifier/Relax) été utilisé, le jugement du score ne tient compte que du timing des coups (il rectifie automatiquement les coups de mauvaise couleur avec la bonne couleur).
 
 Le contrôleur de batterie *TaTaCon* a été conçu principalement pour les portages domestiques de *Taiko no Tatsujin* et *Taiko : Drum Master*.
 
-## Notation
+## Scoring
 
 Le [score dans osu!taiko](/wiki/Gameplay/Score/osu!taiko) est une somme pondérée de plusieurs composantes de la jouabilité. Il dépend des éléments suivants :
 
-- Le [jugement](/wiki/Gameplay/Judgement/osu!taiko) détermine la valeur de base du score d'un objet (300, 100, ou 0 en cas de miss). La valeur des notes large et regular dépend du timing du coup, tandis que la valeur de base de tous les autres objets est constante.
-- La [précision](/wiki/Gameplay/Accuracy#osu!taiko) dépend du jugement et montre la précision des coups. Les pressions de touche trop tôt ou trop tard, ainsi que les miss, diminuent la précision globale.
-- Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) est un multiplicateur de score : clear un objet touché contribue davantage au score total lorsque le combo est élevé et vice versa. Le combo peut être [cassé](/wiki/Glossary/Combobreak) par un miss. Dans osu!taiko, le multiplicateur de score dérivé du combo est limité et n'affecte pas le score total autant qu'il le fait dans osu! ou osu!catch.
+- Le [jugement](/wiki/Gameplay/Judgement/osu!taiko) détermine la valeur de base du score d'un objet (300, 100, ou 0 en cas de miss). La valeur des notes normales et des grandes notes dépend du timing du coup, tandis que la valeur de base de tous les autres objets est constante.
+- La [précision](/wiki/Gameplay/Accuracy#osu!taiko) dépend du jugement et montre la précision des coups. Les pressions de touche trop tôt ou trop tard, ainsi que les notes normales, diminuent la précision globale.
+- Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) est un multiplicateur de score : jouer un objet contribue davantage au score total lorsque le combo est élevé et vice versa. Le combo peut être [cassé](/wiki/Glossary/Combobreak) par un miss. Dans osu!taiko, le multiplicateur de score dérivé du combo est limité et n'affecte pas le score total autant qu'il le fait dans osu! ou osu!catch.
 - Le [Kiai time](/wiki/Kiai_time) : dans osu!taiko, le kiai time augmente le gain de points de 20%, tout comme dans la série originale *Taiko no Tatsujin*.
 
-En plus de donner des points, chaque objet remplit une petite partie de la [barre de vie](/wiki/Glossary/Health_bar), qui doit être remplie au moins à **50%** pour qu'un joueur puisse clear une beatmap.
+En plus de donner des points, chaque objet remplit une petite partie de la [barre de vie](/wiki/Glossary/Health_bar), qui doit être remplie au moins à **50%** pour qu'un joueur puisse terminer une beatmap.
 
-Après avoir complété une beatmap, le score se voit attribuer un [grade](/wiki/Gameplay/Grade#osu!taiko), une courte évaluation de la précision sous la forme d'une seule lettre. Un SS doré ou argenté indique une précision de 100 %, et tout le reste, de S à D, dépend de la quantité de 300, 100 et de ratés.
+Après avoir complété une beatmap, le score se voit attribuer une [note](/wiki/Gameplay/Grade#osu!taiko), une courte évaluation de la précision sous la forme d'une seule lettre. Un SS doré ou argenté indique une précision de 100 %, et tout le reste, de S à D, dépend de la quantité de 300, 100 et de notes manquées.
 
 ## Skinning
 
@@ -98,11 +98,11 @@ Après avoir complété une beatmap, le score se voit attribuer un [grade](/wiki
 ## Mapping d'osu!taiko
 
 - Les notes rouges se réfèrent au cercle normal,
-  - Les grandes notes rouges ont besoin d'une finition sonore.
-- Les notes bleues doivent avoir un son de sifflet/clap sur ce cercle,
-  - Les grandes notes bleues ont besoin d'une finition et d'un sifflet ensemble.
+  - Les grandes notes rouges ont besoin d'un hitsound de type finish.
+- Les notes bleues doivent avoir un hitsound de type whistle/clap,
+  - Les grandes notes bleues ont besoin de hitsounds de type whistle et finish en même temps.
 - Les sliders représentent la longue note jaune (également connue sous le nom de drumroll).
-- Les spinner représente un shaker.
+- Les spinners représentent un shaker.
 
 L'emplacement des notes n'a pas d'importance.
 
@@ -120,14 +120,14 @@ Notez également que des drumrolls 1/6 sont donnés si le slider tick rate de **
 
 ### Gameplay
 
-- Jouer sur un terrain de jeu vide n'entraîne pas de miss.
+- Appuyer dans le vide n'entraîne pas de miss.
 - Drumrolls : La limite supérieure du nombre d'occurrences du slider est :
   - 4 fois la longueur du slider, ou
   - 8 fois la longueur du slider dans les beatmaps qui sont égales ou inférieures à 125BPM.
 - Contrairement aux autres modes de jeu, *Kiai Time* a un effet sur les scores car il fait référence au *"Go-Go Time "* de *Taiko no Tatsujin*. Lorsque le mode *Kiai Time* est actif, le tambour en haut à gauche change d'animation (il s'appelle *pippidon* ou *Don*/*Katsu* dans *Taiko no Tatsujin*), le terrain de jeu présente un dégradé d'arrière-plan et la zone touchée est entourée d'un graphique de feu.
   - En outre, toutes les notes frappées bénéficient d'un multiplicateur de score de 1,2x, y compris les longues notes jaunes, à l'exception des frappes sur un shaker (la dernière frappe est toujours multipliée).
 - La mascotte d'osu!taiko est [pippidon](/wiki/Mascots#pippi).
-- Lorsqu'il est joué par [Auto](/wiki/Game_modifier/Auto), le nom du joueur sera *mekkadosu!*.
+- Lorsque le mod [Auto](/wiki/Game_modifier/Auto) est utilisé, le nom du joueur sera *mekkadosu!*.
 
 ### Histoire
 
@@ -135,4 +135,4 @@ Notez également que des drumrolls 1/6 sont donnés si le slider tick rate de **
 
 - L'option `Utiliser le skin Taiko pour le mode Taiko` dans le menu latéral des options sous la section Skin utilisera les éléments du skin du dossier `taiko` lorsque vous jouerez dans osu!taiko, sans tenir compte des éléments taiko du skin actuel. Le dossier contenait auparavant le skin *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)*, qui pouvait être téléchargé à partir du désormais obsolète `osume.exe` (un outil de mise à jour d'osu! quand osu! a besoin de se mettre à jour) sous l'onglet `Skin`.
 - La première beatmap classée qui contient au moins une difficulté osu!taiko est [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/beatmapsets/210)
-- La première beatmap composée de beatmaps d'osu!taiko classée est [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/beatmapsets/55920)
+- La première beatmap classée composée uniquement de difficultés osu!taiko est [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/beatmapsets/55920)
