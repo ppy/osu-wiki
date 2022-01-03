@@ -22,7 +22,7 @@ Le zoom du playfield est basé sur le paramètre CS (Circle Size). Un CS plus fa
 
 Le catcher peut se déplacer de gauche à droite, les fruits tombant de haut en bas. Le catcher ne peut pas dépasser les murs de gauche et de droite du playfield.
 
-Tous les fruits resteront sur l'assiette jusqu'à la fin de leur combo, après quoi ils rebondiront hors de l'assiette. Le timing et l'endroit où le fruit tombe sur l'assiette n'ont pas d'importance ; attraper le fruit donnera le score maximal tandis que manquer le fruit donnera un miss.
+Tous les fruits resteront sur l'assiette jusqu'à la fin de leur combo, après quoi ils rebondiront hors de l'assiette. Le timing ainsi que l'endroit où le fruit tombe sur l'assiette n'ont pas d'importance ; attraper le fruit donnera le score maximal tandis que manquer le fruit donnera un miss.
 
 #### Fruits
 
@@ -68,7 +68,7 @@ En ramassant l'hyperfruit, le catcher verra sa vitesse passer à *hyperdash* (ju
 - Appuyez et maintenez la touche `leftShift`(D) avec l'une des touches fléchées pour que le catcher *dash* dans cette direction à une vitesse de x2.0 (indiqué par une **lueur vive** du catcher).
   - Vous pouvez également appuyer sur le bouton Left Click(D) de la souris et le maintenir enfoncé pour déclencher le dash.
 
-Le placement du curseur dans le jeu n'a pas d'importance lorsque vous jouez normalement. Si le mod [Relax](/wiki/Game_modifier/Relax) a été activé, le contrôle du catcher sera le curseur du jeu à la place. Cependant, le score ne sera pas ajouté aux classements lorsque le mod Relax est activé (car cela va à l'encontre du seul défi de osu!catch : la vitesse fixe du catcher et le contrôle du plateau du catcher).
+Le placement du curseur dans le jeu n'a pas d'importance lorsque vous jouez normalement. Si le mod [Relax](/wiki/Game_modifier/Relax) a été activé, le contrôle du catcher sera le curseur du jeu à la place. Cependant, le score ne sera pas ajouté aux classements lorsque le mod Relax est activé (car cela va à l'encontre du seul défi d'osu!catch : la vitesse fixe du catcher et le contrôle du plateau du catcher).
 
 ## Notation
 
