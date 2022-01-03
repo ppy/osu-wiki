@@ -1,6 +1,36 @@
 import argparse
 import os
 import sys
+import typing
+
+Redirects = typing.Dict[str, typing.Tuple[str, int]]
+
+class Link(typing.NamedTuple):
+    # The whole link, with braces and extra parts. Examples:
+    #   - [Graveyard](Category#graveyard)
+    #   - [](img/difficulty.png "Difficulty example")
+    full_link: str
+
+    # Link location (external or internal, may be relative). Examples:
+    #   - Category
+    #   - /wiki/Beatmap/Category
+    #   - https://osu.ppy.sh/beatmaps/artists
+    location: str
+
+    # Link location AND extra part (everything in parens, including ?query-string, #section-name, or "title text").
+    # Examples:
+    #   - Category#graveyard
+    #   - /wiki/Beatmap/Category
+    #   - https://osu.ppy.sh/beatmaps/artists
+    full_location: str
+
+    # Link position within the line. Example:
+    #   See also: [Difficulty names](/wiki/Beatmap/Difficulty#naming-conventions)
+    #             ^ link_start       ^ location_start        ^ extra_start      ^ link_end
+    link_start: int
+    location_start: int
+    extra_start: int
+    link_end: int
 
 
 def red(s):
@@ -19,7 +49,7 @@ def blue(s):
     return f"\x1b[34m{s}\x1b[0m"
 
 
-def load_redirects(path):
+def load_redirects(path: str) -> Redirects:
     redirects = {}
     with open(path, "r", encoding='utf-8') as fd:
         for line_number, line in enumerate(fd, start=1):
@@ -31,15 +61,15 @@ def load_redirects(path):
     return redirects
 
 
-def child(path):
+def child(path: str) -> str:
     return path[path.find('/', 1) + 1:]
 
 
-def directory(filename):
+def directory(filename: str) -> str:
     return filename[filename.find('/') + 1:filename.rfind('/')]
 
 
-def check_redirect(redirects, link):
+def check_redirect(redirects: Redirects, link: str):
     link = link.lower()
     try:
         redirect = redirects[link]
@@ -51,7 +81,7 @@ def check_redirect(redirects, link):
     return (True, "")
 
 
-def check_link(redirects, directory, link):
+def check_link(redirects: Redirects, directory: str, link: str) -> typing.Tuple[bool, str]:
     if link.startswith("/wiki/"):
         # absolute wikilink
         if os.path.exists(link[1:]):
@@ -75,7 +105,7 @@ def is_in_comment(s, start, end):
     return s.rfind("<!--", 0, start) != -1 and s.find("-->", end, -1)
 
 
-def find_link(s, index=0):
+def find_link(s: str, index=0) -> typing.Optional[Link]:
     found_brackets = False
     started = False
     start = None
@@ -114,23 +144,28 @@ def find_link(s, index=0):
                     return None
                 if extra is None:
                     extra = end
-                return {
-                    'whole': s[start:end + 1],
-                    'link': s[mid + 1: extra],
-                    'link+': s[mid + 1: end],
-                    'pos': (start, mid, extra, end)
-                }
+
+                return Link(
+                    full_link=s[start: end + 1],
+                    location=s[mid + 1: extra],
+                    full_location=s[mid + 1: end],
+                    link_start=start,
+                    location_start=mid,
+                    extra_start=extra,
+                    link_end=end,
+                )
             continue
+
     return None
 
 
-def find_links(s):
+def find_links(s: str) -> list[Link]:
     results = []
     index = 0
     match = find_link(s, index)
     while match:
         results.append(match)
-        match = find_link(s, match['pos'][3] + 1)
+        match = find_link(s, match.link_end + 1)
     return results
 
 
@@ -178,23 +213,24 @@ def main():
         with open(filename, "r", encoding='utf-8') as fd:
             for linenumber, line in enumerate(fd, start=1):
                 for match in find_links(line):
-                    if match['link+'] == "/wiki/Sitemap":
+                    if match.full_location == "/wiki/Sitemap":
                         continue
-                    success, note = check_link(redirects, directory(filename), match['link'])
+                    success, note = check_link(redirects, directory(filename), match.location)
                     if success:
                         continue
 
                     if exit_code == 0:
                         print_error()
                     exit_code = 1
-                    print(f"{yellow(filename)}:{linenumber}:{match['pos'][1] + 1}: {red(match['link'])}")
+                    print(f"{yellow(filename)}:{linenumber}:{match.link_start + 1}: {red(match.location)}")
                     if note:
                         print(note)
-                    bracket = green(line[match['pos'][0]:match['pos'][1] + 1])
-                    link = red(line[match['pos'][1] + 1:match['pos'][2]])
-                    extra = blue(line[match['pos'][2]:match['pos'][3]])
-                    end = green(line[match['pos'][3]])
-                    print(line.replace(match['whole'], bracket + link + extra + end), end="\n\n")
+
+                    bracket = green(line[match.link_start: match.location_start + 1])
+                    link = red(line[match.location_start + 1: match.link_end])
+                    extra = blue(line[match.extra_start: match.link_end])
+                    end = green(line[match.link_end])
+                    print(line.replace(match.full_link, bracket + link + extra + end), end="\n\n")
 
     if exit_code == 0:
         print_clean()
