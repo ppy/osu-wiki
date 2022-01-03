@@ -100,6 +100,7 @@
 "osu!_community_meetings":      "Community/osu!_community_meetings"
 "osu!dev_discord_server":       "Community/osu!dev_Discord_server"
 "organisations":                "Community/Organisations"
+"organisations/osu!_uci":       "Community/Organisations/osu!_UCI"
 "project_loved":                "Community/Project_Loved"
 "osu!talk":                     "Community/Video_series/osu!talk"
 "osu!mapping":                  "Community/Video_series/osu!mapping"
@@ -283,7 +284,6 @@
 "combobursts":                 "Glossary/Comboburst"
 "combo_burst":                 "Glossary/Comboburst"
 "combo_bursts":                "Glossary/Comboburst"
-"Glossary/Combo_(score_multiplier)": "Gameplay/Combo_(score_multiplier)"
 "comboset":                    "Gameplay/Combo_(score_multiplier)"
 "combo_set":                   "Gameplay/Combo_(score_multiplier)"
 "cookie":                      "Glossary/Cookie"
@@ -816,6 +816,7 @@
 "external_ports/osu!stream": "osu!stream"
 "game_modes/external_ports/osu!stream": "osu!stream"
 
+"osu!support":                 "osu!supporter"
 "supporter":                   "osu!supporter"
 
 "talk":                        "Community/Video_series/osu!talk"
@@ -1080,6 +1081,7 @@
 "licencing":                   "Rules/Content_Usage_Guidelines"
 "licensing":                   "Rules/Content_Usage_Guidelines"
 "explicit":                    "Rules/Explicit_Content"
+"song_content_rules":          "Rules/Song_content_rules"
 "scr":                         "Rules/Song_Content_Rules"
 "song_content":                "Rules/Song_Content_Rules"
 "songs_content":               "Rules/Song_Content_Rules"
@@ -1087,9 +1089,16 @@
 "visual_content":              "Rules/Visual_Content_Considerations"
 
 "score":                       "Gameplay/Score"
+"score/osu!":                  "Gameplay/Score/osu!"
+"score/osu!taiko":             "Gameplay/Score/osu!taiko"
+"score/osu!catch":             "Gameplay/Score/osu!catch"
+"score/osu!mania":             "Gameplay/Score/osu!mania"
 "scorev1":                     "Gameplay/Score/ScoreV1"
+"score/scorev1":               "Gameplay/Score/ScoreV1"
 "scorev2":                     "Gameplay/Score#scorev2"
+"score/total_score":           "Gameplay/Score/Total_score"
 "total_score":                 "Gameplay/Score/Total_score"
+"score/ranked_score":          "Gameplay/Score/Ranked_score"
 "ranked_score":                "Gameplay/Score/Ranked_score"
 "level":                       "Gameplay/Score/Total_score#level"
 
