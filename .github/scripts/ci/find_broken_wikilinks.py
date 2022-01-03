@@ -6,23 +6,27 @@ import typing
 Redirects = typing.Dict[str, typing.Tuple[str, int]]
 
 class Link(typing.NamedTuple):
-    # The whole link, with braces and extra parts. Examples:
-    #   - [Graveyard](Category#graveyard)
-    #   - [](img/difficulty.png "Difficulty example")
-    full_link: str
+    """
+    A Markdown link, external or internal. May be relative. Example:
 
-    # Link location (external or internal, may be relative). Examples:
-    #   - Category
-    #   - /wiki/Beatmap/Category
-    #   - https://osu.ppy.sh/beatmaps/artists
+        See [Difficulty Names](/wiki/Beatmap/Difficulty#naming-conventions)
+
+    - title: 'Difficulty Names'
+    - location: '/wiki/Beatmap/Difficulty'
+    - extra: '#naming-conventions'
+
+    Another example:
+
+        ![Player is AFK](img/chat-console-afk.png "Player is away from keyboard")
+
+    - title: 'Player is AFK'
+    - location: 'img/chat-console-afk.png'
+    - extra: ' "Player is away from keyboard"'
+    """
+
+    title: str
     location: str
-
-    # Link location AND extra part (everything in parens, including ?query-string, #section-name, or "title text").
-    # Examples:
-    #   - Category#graveyard
-    #   - /wiki/Beatmap/Category
-    #   - https://osu.ppy.sh/beatmaps/artists
-    full_location: str
+    extra: str
 
     # Link position within the line. Example:
     #   See also: [Difficulty names](/wiki/Beatmap/Difficulty#naming-conventions)
@@ -31,6 +35,24 @@ class Link(typing.NamedTuple):
     location_start: int
     extra_start: int
     link_end: int
+
+    @property
+    def content(self):
+        return self.location + self.extra
+
+    @property
+    def full_link(self):
+        return f"[{self.title}]{self.content}"
+
+    @property
+    def full_colored_link(self):
+        return "{title_in_braces}{left_brace}{location}{extra}{right_brace}".format(
+            title_in_braces=green(f"[{self.title}]"),
+            left_brace=green("("),
+            location=red(self.location),
+            extra=blue(self.extra),
+            right_brace=green(")"),
+        )
 
 
 def red(s):
@@ -72,11 +94,11 @@ def directory(filename: str) -> str:
 def check_redirect(redirects: Redirects, link: str):
     link = link.lower()
     try:
-        redirect = redirects[link]
+        destination, line_no = redirects[link]
     except KeyError:
         return (False, "")
-    if not os.path.exists(f"wiki/{redirect[0]}"):
-        note = f"{blue('Note:')} Broken redirect (redirect.yaml:{redirect[1]}: {link} --> {redirect[0]})"
+    if not os.path.exists(f"wiki/{destination}"):
+        note = f"{blue('Note:')} Broken redirect (redirect.yaml:{line_no}: {link} --> {destination})"
         return (False, note)
     return (True, "")
 
@@ -146,9 +168,9 @@ def find_link(s: str, index=0) -> typing.Optional[Link]:
                     extra = end
 
                 return Link(
-                    full_link=s[start: end + 1],
                     location=s[mid + 1: extra],
-                    full_location=s[mid + 1: end],
+                    title=s[start + 1: mid - 1],
+                    extra=s[extra: end],
                     link_start=start,
                     location_start=mid,
                     extra_start=extra,
@@ -188,14 +210,12 @@ def print_clean():
 def parse_args(args):
     parser = argparse.ArgumentParser()
     parser.add_argument("-t", "--target", nargs="+", required=True, help="path to an article you want to check")
-    parser.add_argument("-r", "--root", default=".", help="path to the repository root (default: current working directory)")
     return parser.parse_args(args)
 
 
 def main():
     args = parse_args(sys.argv[1:])
-    redirect_path = os.path.join(os.path.expanduser(args.root), "wiki/redirect.yaml")
-    redirects = load_redirects(redirect_path)
+    redirects = load_redirects("wiki/redirect.yaml")
 
     exit_code = 0
     for filename in args.target:
@@ -213,7 +233,7 @@ def main():
         with open(filename, "r", encoding='utf-8') as fd:
             for linenumber, line in enumerate(fd, start=1):
                 for match in find_links(line):
-                    if match.full_location == "/wiki/Sitemap":
+                    if match.content == "/wiki/Sitemap":
                         continue
                     success, note = check_link(redirects, directory(filename), match.location)
                     if success:
@@ -226,11 +246,7 @@ def main():
                     if note:
                         print(note)
 
-                    bracket = green(line[match.link_start: match.location_start + 1])
-                    link = red(line[match.location_start + 1: match.link_end])
-                    extra = blue(line[match.extra_start: match.link_end])
-                    end = green(line[match.link_end])
-                    print(line.replace(match.full_link, bracket + link + extra + end), end="\n\n")
+                    print("{}{}{}".format(line[:match.link_start], match.full_colored_link, line[match.link_end + 1:]), end="\n\n")
 
     if exit_code == 0:
         print_clean()
