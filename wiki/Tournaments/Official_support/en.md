@@ -2,16 +2,51 @@
 
 The [osu! team](/wiki/People/The_Team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
+For any queries and clarifications, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+
 ## Benefits
 
 Officially supported tournaments have access to:
 
-- **Profile badge prizes for first-place winners**
-- Assessment for a main-menu banner during major matches (generally quarterfinals and above), subject to availability and criteria (see the [relevant section](#requesting-main-menu-banner-support) below)
-- A listing in the [automatic tournament registrations system](https://osu.ppy.sh/community/tournaments)
+- [**Profile badge prizes for first-place winners**](#profile-badges)
+- Assessment for a [main-menu banner advertisement](#requesting-main-menu-banner-support) during major matches, subject to availability and criteria
 - A dedicated screening process to prevent players with serious integrity infringements (cheating, multiaccounting, tournament bans) from playing
 
+## Eligibility
+
+Community-run tournaments which abide by the following hard criteria are eligible for support:
+
+- The tournament series must be run only four or fewer times per year.
+- The tournament must have at least 64 players or 16 teams qualifying, OR operate on a Round of 16 double-elimination format at a minimum. Larger scales and formats are permitted.
+- The tournament is organised and run by an *experienced team of accomplished and reputable volunteers***¹** , **OR**, the tournament *has been run at least once before without receiving rewards*.
+- Staff members must not participate in the tournament themselves at any point, and registered players are unable to later assist as staff either. For our definition on “staff”, please refer to the [FAQ](#what-is-considered-staff).
+- The forum thread for the tournament must contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
+  - `https://pif.ephemeral.ink/tournament-reports`
+
+**¹**: An "experienced" team member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of the osu! World Cup team. This may vary at the discretion of the account support team.
+
+## Requesting Support
+
+To start with, the request for support **must be made well before the tournament actually commences play.** There are no specific timelines for this, but we recommend at least two to three weeks before play commences to account for delays in the screening process.
+
+You may be required to postpone the start of your tournament during periods of high delay, but the osu! team will make efforts to ensure this does not happen.
+
+If your tournament satisfies the [eligibility criteria](#eligibility), you can make a request for support but sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) with the following information:
+
+- The name of your tournament
+- A brief description of your tournament, including its scoring type and any other appropriate features
+- Any applicable dates for your tournament
+- Any links to public off-site chatrooms or servers used for the event (Discord, etc.)
+- A link to the forum thread located under the [Tournaments forum](https://osu.ppy.sh/community/forums/55) that announces/details your tournament
+- Any links to previous iterations of the same tournament (only where applicable)
+- A list of the players involved in running the tournament
+- A list of players who have registered for the tournament (see [tournament screening](#tournament-screening))
+
+Please allow up to three weeks for a response. We will try our best to handle all requests within a week, but we occasionally have large spikes in workload that can make this impossible.
+
 ## Expectations
+
+Tournament organizers are expected to monitor their tournament for anything that runs afoul of the expectations outlined below, and are single-handedly responsible for reporting such incidents to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Failure to adhere to this may result in withdrawal of official support.
 
 ### Tournaments
 
@@ -24,21 +59,38 @@ Community-run tournaments receiving this support are expected to abide by the fo
 
 In addition, all promotional material or any services associated with a tournament receiving official support should adhere to the [osu! community rules](/wiki/Rules). This includes things like Twitter accounts, Discord servers, and so on.
 
-### Integrity
+**The tournament must also abide by the following practices throughout:**
 
-Hosts are expected to ensure that their tournaments run smoothly and with minimal disruption where possible.
+- All players must be screened by the account support team before play commences (qualifiers are exempt from this). See [tournament screening](#tournament-screening) for more details.
+- The tournament must not prevent players who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
+  - This only applies in circumstances where they would otherwise meet the sign-up criteria for the tournament.
+  - This includes preventing users who are perceived to be "sandbagging" from play.
+    - Should an organizer have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the Tournament Committee for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
+- A dedicated referee must be present during every match. Players cannot "self-ref". 
+- All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post in a clear accessible format.
 
-Users under an active (or permanent) tournament ban/cooldown may be enlisted as general help (aka, any non-staff role such as a commentator, streamer, etc) in an officially supported tournament at the host's discretion, but we encourage careful consideration of such choices as said individuals have already run afoul of the rules once (or more). They may not act as hosts, mappoolers, playtesters, or any other trusted position that has ready access to confidential information which could influence the outcome of the tournament if shared.
+Once the tournament has concluded, the touranment organizers will need to submit the following to the account support team:
+
+- A list of applicable badge recipients (a.k.a. the winners of your tournament)
+- A link to the publicly viewable catalogue of your tournament's match history
+
+LAN tournaments are also required to add links to VODs and a copy of the bracket of the entire tournament in order to be eligible for a badge prize.
+
+### Staff
+
+Tournament organizers are expected to ensure that their tournaments run smoothly and with minimal disruption where possible.
+
+Users under an active (or permanent) tournament ban are expected to disclose their tournament ban status to any badged tournament they're helping with. They may be enlisted as general help (ie. any non-staff role such as a commentator, streamer, etc) in an officially supported tournament at the host's discretion, but we encourage careful consideration of such choices as said individuals have already run afoul of the rules once (or more). They may not act as [staff](#what-is-considered-staff) UNLESS the host requests an exemption for them when sending in the player list for screening. The account support team will then assess these on a case-by-case basis with the user's history in mind.
 
 ### Players
 
-Participants in officially supported tournaments are expected to adhere to the [osu! community rules](/wiki/Rules) at all times, regardless of their rank, accomplishments, or other achievements.
+Participants in officially supported tournaments are expected to adhere to the [osu! community rules](/wiki/Rules) at all times, regardless of their rank, accomplishments, or other achievements. They are also expected to treat all volunteers involved in hosting a tournament with respect, and to not deliberately attempt to waste their time or otherwise excessively complicate the undertaking of a tournament with their actions.
 
-Tournament players are also expected to treat all volunteers involved in hosting a tournament with respect, and to not deliberately attempt to waste their time or otherwise excessively complicate the undertaking of a tournament with their actions.
+At the osu! team's discretion, offending players may be issued timed or permanent tournament bans depending on the severity of their behaviour. Repeat offenders may risk incurring a permanent tournament ban or a restriction.
 
-Organizers who find the behaviour of any player enrolled in an officially supported tournament questionable or disruptive may report such things to the osu! support team for prompt review. At the osu! team's discretion, offending players may be issued timed or permanent tournament bans depending on the severity of their behaviour. Repeat offenders may risk incurring a permanent tournament ban or a restriction.
+## Other Procedures
 
-## Tournament screening
+### Tournament screening
 
 A major part of being an officially supported tournament is access to the screening process. Similar to the "security checks" undertaken by all World Cup players, screening helps prevent people with recent serious infringements or tournament bans from disrupting play.
 
@@ -54,19 +106,21 @@ The comma-separated list should look like this:
 Player1, 1234567
 Player2, 1234567
 Player3, 1234567
-
-HostGuy, 1234567
-RefLady, 1234567
-CommentatorThing, 1234567
 ```
 
-Once screening concludes, the osu! Support Team will provide a list of any players from your tournament that failed screening and are not considered eligible for tournament play. No individual reasons will be given for why a player does not pass screening.
+For team-based tournaments, the expected format is:
 
-Individual players who are unhappy with their screening outcome should be told to consult [accounts@ppy.sh](mailto:accounts@ppy.sh) via email.
+```csv
+Player1, Team 1, 1234567
+Player2, Team 2, 1234567
+Player3, Team 3, 1234567
+```
+
+Once screening concludes, the account support team will provide a list of any players from your tournament that failed screening and are not considered eligible for tournament play, without providing specific reasoning. Individual players who are unhappy with their screening outcome should be told to consult [accounts@ppy.sh](mailto:accounts@ppy.sh) via email.
 
 **Allowing users that have failed screening to play in your tournament will result in an immediate withdrawal of support and will result in future requests for support to be denied.**
 
-## Designing your profile badge
+### Profile Badges
 
 Profile badge images must adhere to the following standards:
 
@@ -82,88 +136,31 @@ Please consult the following examples of approved badges:
 
 Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly rare, but should be accounted for.
 
-## Requesting main-menu banner support
+In rare cases, the osu!team may choose to award exceptional tournaments that go above and beyond the expected standards with badges for the top three finalists. This is done at the discretion of the osu!team - you will be contacted if your tournament is deemed worthy.
+
+### Requesting main-menu banner support
 
 In rare circumstances, some long-running community tournaments may qualify for in-game main-menu banner support. It's at the osu! team's discretion to decide if your tournament can be advertised in-game, as there are many factors to consider. The minimum requirements to request in-game advertising are as follows:
 
-- Your tournament meets the [criteria for applicable tournaments](#criteria)
-- You have successfully run *at least* two tournaments in the past
-- The live streams of your current tournament average over 100 concurrent viewers
-- You are able to provide the schedule of the matches and live streams ahead of time
+- Your tournament meets the [eligibility criteria for applicable tournaments](#eligibility).
+- You have successfully run *at least* two tournaments in the past.
+- The live streams of your current tournament average over 100 concurrent viewers.
+- Your tournament is nearing its conclusion (e.g. your tournament is at Quarterfinals or above and it started on Round of 32).
+- You are able to provide the schedule of the matches and live streams ahead of time.
 
 If you satisfy the above criteria, you may make a request for main-menu banner support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). The banner must adhere to the following standards:
 
 - The banner image must be a PNG.
 - The banner image must be **1500x256**px in dimension.
-  - All banner images will be treated as `2x`, meaning that they will be exported at 50% scale by us in a `1x` image.
+  - All banner images will be treated as `2x`, meaning that they will be exported at 50% scale by us into a `1x` image.
   - Design your images appropriately to ensure things are legible at half size.
 - The banner must clearly display the logo, motif AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
 - The banner must be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
+- The banner must not include any sort of sponsorship or promote anything besides the tournament.
 
 Please do not submit a main menu banner with your original request—you will be asked and pointed to this section if you are authorized to make use of one.
 
-## Requesting support
-
-To start with, the request for support **must be made well before the tournament actually commences play.**
-
-There are no specific timelines for this, but we recommend at least two to three weeks before play commences to account for delays in the screening process.
-
-You may be required to postpone the start of your tournament during periods of high delay, but the osu! team will make efforts to ensure this does not happen.
-
-Please read the criteria laid out below, then send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) with the following information:
-
-- The name of your tournament
-- A brief description of your tournament, including its scoring type and any other appropriate features
-- Any applicable dates for your tournament
-- Any links to public off-site chatrooms or servers used for the event (Discord, etc.)
-- A link to the forum thread located under the [Tournaments forum](https://osu.ppy.sh/community/forums/55) that announces/details your tournament
-- Any links to previous iterations of the same tournament (only where applicable)
-- A list of the players involved in running the tournament
-- A list of players who have registered for the tournament
-
-Please allow **at least a week** for a response. We will try our best to handle all requests within a week, but we occasionally have large spikes in workload that can make this impossible.
-
-### Criteria
-
-Community-run tournaments which abide by the following hard criteria are eligible for support:
-
-- The tournament must have at least 64 players or 16 teams minimum into the qualifier rounds, **OR** operate on a Round of 16 double-elimination format at a minimum. Larger scales and formats are permitted.
-- The tournament is organised and run by an *experienced team of accomplished and reputable volunteers***¹** , **OR**, the tournament *has been run at least once before without receiving rewards*.
-- Any of the staff members involved in the managing or organisation of the tournament must not be participating in the tournament themselves at any point.
-  - To clarify further, if you play in a given tournament at all, you are unable to later assist as a referee, mappool selector or anything similar until that instance of the tournament concludes. You either play or help run, not both.
-- The tournament must be run only four or fewer times per year.
-- The tournament must have all players screened by the [account support team](/wiki/People/The_Team/Account_support_team) **before play commences**.
-- The tournament must not be "self-reffed". A dedicated referee must be present during every match.
-- The tournament must not prevent players, who pass the screening, from participation without both ample evidence presented publicly against them and the approval of the account support team.
-  - This only applies in circumstances where they would otherwise meet the sign-up criteria for the tournament.
-  - This includes preventing users who are perceived to be "sandbagging" from play.
-    - Should an organizer have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the Tournament Committee for a case-by-case review using the link listed below.
-- The forum thread for the tournament must contain a clearly visible link in a normal-sized font to [this reporting form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
-  - `https://pif.ephemeral.ink/tournament-reports`
-
-**¹**: An "experienced" team member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of the osu! World Cup team. This may vary at the discretion of the account support team.
-
-### During the tournament
-
-If a tournament satisfies the criteria outlined above, it must also abide by the following practices during play:
-
-- Tournament organizers will be expected to monitor the matches of their tournament for toxic behaviour or anything that goes against the expectations laid out above, and report it to the account support team.
-- Tournament organizers who spot potentially suspicious play during their tournament are **single-handedly responsible for reporting such incidents to the account support team** via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
-- All multiplayer games relevant to the tournament must be created with the `!mp make` command, so that they do not expire.
-- All matches undertaken for the tournament must be recorded and their history made publicly available on the original forum post for the tournament as a clearly marked link in a normal-sized font or larger.
-- In the event that a player becomes restricted during the course of the tournament, you may need to replay certain matches where they were involved in order to preserve the competitive integrity of the tournament.
-  - Organizers should contact the account support team to receive information and guidance on these (hopefully rare) cases.
-
-### After the tournament
-
-Once the tournament has concluded, the organizers will need to submit the following to the account support team:
-
-- A list of applicable badge recipients (a.k.a. the winners of your tournament)
-- A link to the publicly viewable catalogue of your tournament's match history
-
-LAN tournaments are also required to add links to VODs and a copy of the bracket of the entire tournament in order to be considered for a badge prize.
-
-## Frequently asked questions
+## Frequently Asked Questions
 
 ### Why does a tournament have to run at least twice or more in order to qualify for profile badges without experienced staff present? {#twice-or-more}
 
@@ -173,7 +170,7 @@ For all of these reasons (and more), we ask that profile badge prizes are only a
 
 ### What is considered "staff" as far as tournament management goes? {#what-is-considered-staff}
 
-We consider referees, mappool selectors, judges, team organizers, or any other form of managerial position directly involved in the maintenance and operation of a tournament to be a part of its staff.
+We consider referees, mappool selectors, playtesters, judges, team organizers, or any other form of managerial position directly involved in the maintenance and operation of a tournament to be a part of its staff.
 
 Commentators and streamers are not considered by us as staff, and may play or interact in tournaments freely so long as they are not directly involved in any managerial aspect of running the tournament or violate anything mentioned above.
 
@@ -181,9 +178,11 @@ We have historically had issues where unscrupulous organizers have geared tourna
 
 ### Can a player who has been eliminated from play in my tournament join the staff after the fact and not cause problems? {#player-join-staff}
 
-Generally no, unless the role they are assuming is not one that could conceivably alter the outcome of the tournament.
+If we are going by the above definition of “staff”, then the answer is no. The role they would assume could conceivably influence the outcome of the tournament. A player may conclude play in your tournament and join as a commentator, for example, but not as a referee, organizer, or anything further.
 
-A player may conclude play in your tournament and join as a commentator, for example, but not as a referee, organizer, or anything further.
+### What should I do if a player in my tournament gets restricted? {#player-restriction}
+
+In the unlikely event that a player becomes restricted during the course of the tournament, you may need to replay certain matches where they were involved in order to preserve the competitive integrity of the tournament. Tournament organizers should contact the account support team to receive information and guidance on these (hopefully rare) cases.
 
 ### Why can't badges be awarded to recurring monthly (or weekly) tournaments? {#recurring-contests}
 
