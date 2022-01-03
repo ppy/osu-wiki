@@ -2,7 +2,7 @@
 
 The [osu! team](/wiki/People/The_Team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-For any queries and clarifications, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on 04 January 2022. For any queries and clarifications, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -74,7 +74,7 @@ Once the tournament has concluded, the tournament organizers will need to submit
 - A list of applicable badge recipients (a.k.a. the winners of your tournament)
 - A link to the publicly viewable catalogue of your tournament's match history
 
-LAN tournaments are also required to add links to VODs and a copy of the bracket of the entire tournament in order to be eligible for a badge prize.
+LAN tournaments are also required to add links to VODs and a copy of the entire tournament bracket in order to be eligible for badges.
 
 ### Staff
 
@@ -131,8 +131,7 @@ Profile badge images must adhere to the following standards:
 
 Please consult the following examples of approved badges:
 
-![](https://assets.ppy.sh/profile-badges/flc2-2020@2x.png)
-![](https://assets.ppy.sh/profile-badges/irt2-2020@2x.png)
+![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/timeskip-2021@2x.png)
 
 Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly rare, but should be accounted for.
 
@@ -157,6 +156,12 @@ If you satisfy the above criteria, you may make a request for main-menu banner s
 - The banner must clearly display the logo, motif AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
 - The banner must be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
 - The banner must not include any sort of sponsorship or promote anything besides the tournament.
+
+Please consult the following examples of acceptable banners:
+
+![](https://assets.ppy.sh/main-menu/corsace-2021/gf3.png)
+
+![](https://assets.ppy.sh/main-menu/egts-2021/gf.png)
 
 Please do not submit a main menu banner with your original request—you will be asked and pointed to this section if you are authorized to make use of one.
 
