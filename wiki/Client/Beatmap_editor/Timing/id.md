@@ -2,7 +2,7 @@
 
 *Kunjungi juga: [Bagaimana cara mengatur waktu lagu](/wiki/Guides/How_to_Time_Songs)*
 
-![Cuplikan tab timing di dalam editor](img/Timing_base.jpg)
+![Cuplikan tab timing di dalam editor](/wiki/shared/timing/Timing_base.jpg)
 
 **Tab timing** di dalam [beatmap editor](/wiki/Beatmap_Editor) memungkinkan para mapper untuk mengubah pengaturan timing dari sebuah [beatmap](/wiki/Beatmap). Timing biasanya merupakan sebuah langkah pertama dalam membuat sebuah beatmap.
 
@@ -10,7 +10,7 @@ Timing terdiri dari sebuah [offset](/wiki/Beatmapping/Offset) lagu, [beats per m
 
 ## Jendela Timing dan Control Point
 
-![Cuplikan Timing dan jendela Control Point](img/TimingSetup.png)
+![Cuplikan Timing dan jendela Control Point](/wiki/shared/timing/TimingSetup.png)
 
 Timing point dapat ditambahkan dari jendela `Timing dan Control Points` di editor (pintasan default `F6`). Timing point membagi lagu menjadi beberapa bagian timing untuk mencerminkan perubahan keakuratan timing lagu.
 
