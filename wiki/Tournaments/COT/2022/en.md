@@ -1,9 +1,7 @@
 ---
 tags:
+  - COT
   - COT2022
-  - COT 2022
-  - КОТ2022
-  - КОТ 2022
 ---
 
 # osu!catch CIS Open Tournament 2022
