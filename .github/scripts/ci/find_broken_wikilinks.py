@@ -211,14 +211,14 @@ def print_clean():
 
 def parse_args(args):
     parser = argparse.ArgumentParser()
-    parser.add_argument("-t", "--target", nargs="*", help="path to an article you want to check")
+    parser.add_argument("-t", "--target", nargs="*", help="paths to the articles you want to check")
     return parser.parse_args(args)
 
 
 def main():
     args = parse_args(sys.argv[1:])
     if not args.target:
-        print("No arguments supplied")
+        print("Notice: No articles to check.")
         sys.exit(0)
 
     redirects = load_redirects("wiki/redirect.yaml")
