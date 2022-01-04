@@ -6,7 +6,7 @@ Liste de guides et de sujets importants, créés par la communauté.
 
 - [Comment recadrer des images avec des arrière-plans complexes](/wiki/Guides/Cropping_with_Complex_Backgrounds)
 - [Comment recadrer des images avec des arrière-plans simples](/wiki/Guides/Cropping_with_Simple_Backgrounds)
-- [Comment faire des spinners correctement centrés dans les skins](/wiki/Guides/Making_Properly_Centered_Spinners)
+- [Comment faire des spinners correctement centrés dans les skins](/wiki/Guides/Making_Properly_Centred_Spinners)
 - [Comment ajuster le fichier skin.ini](https://osu.ppy.sh/community/forums/topics/575880) par [Lyawi](https://osu.ppy.sh/users/5851253)
 - [Nouveau tutoriel sur le skinning](https://tutorial.skinship.xyz/tutorial/introduction) par [RockRoller](https://osu.ppy.sh/users/8388854)
 - [Guides sur le skinning (skinship)](https://tutorial.skinship.xyz/guides) par [RockRoller](https://osu.ppy.sh/users/8388854)

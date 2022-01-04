@@ -5,7 +5,6 @@ Page d'index pour tous les articles concernant les termes spécifiques à osu!
 - [Objet actif](Active_object)
 - [Changelog](Changelog)
 - [Choke](Choke)
-- [Combo (multiplicateur de score)](Combo_(score_multiplier))
 - [Couleur de combo](Combo_colour)
 - [Combo fire](Combo_fire)
 - [Combo milestone](Combo_milestone)

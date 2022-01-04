@@ -44,7 +44,7 @@ Untuk dapat beralih dari satu mode permainan ke mode permainan lainnya, klik tom
 
 *Laman utama: [osu!mania](osu!mania)*
 
-*osu!mania* merupakan mode permainan VSRG (*vertical-scrolling rhythm game*) yang menuntut para pemainnya untuk dapat mengenai not-not yang ada layaknya bermain piano. Mode permainan ini [pada awalnya]((https://osu.ppy.sh/community/forums/topics/100751)) dirancang oleh [woc2006](https://osu.ppy.sh/users/1105845) dan didasarkan pada permainan-permainan VSRG lainnya seperti [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) dan [Beatmania](https://en.wikipedia.org/wiki/Beatmania). Maskot dari mode permainan ini adalah [Mani and Mari](/wiki/Mascots#-mani-&-mari), sepasang saudara kembar yang masing-masing memiliki rambut berwarna ungu dan ungu cerah.
+*osu!mania* merupakan mode permainan VSRG (*vertical-scrolling rhythm game*) yang menuntut para pemainnya untuk dapat mengenai not-not yang ada layaknya bermain piano. Mode permainan ini [pada awalnya](https://osu.ppy.sh/community/forums/topics/100751) dirancang oleh [woc2006](https://osu.ppy.sh/users/1105845) dan didasarkan pada permainan-permainan VSRG lainnya seperti [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) dan [Beatmania](https://en.wikipedia.org/wiki/Beatmania). Maskot dari mode permainan ini adalah [Mani and Mari](/wiki/Mascots#-mani-&-mari), sepasang saudara kembar yang masing-masing memiliki rambut berwarna ungu dan ungu cerah.
 
 ![Tampilan permainan osu!mania](/wiki/shared/mania-gameplay.jpg "Permainan osu!mania")
 

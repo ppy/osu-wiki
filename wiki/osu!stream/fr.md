@@ -230,7 +230,7 @@ La couleur de fond est le violet et les lumières s'assombrissent en fonction de
 
 | Terme | Formule |
 | :-: | :-- |
-| **HitValue** | Number of misses \* 0 + Number of 50s \* 1 + Number of 100s * 2 + Number of 300s \* 4) |
+| **HitValue** | Number of misses \* 0 + Number of 50s \* 1 + Number of 100s \* 2 + Number of 300s \* 4) |
 | **PerfectHitValue** | (Number of misses + Number of 50s + Number of 100s + Number of 300s) \* 4 |
 
 En d'autres termes, chaque miss vaut 0% de précision, chaque 50 vaut 25%, chaque 100 vaut 50%, et chaque 300 vaut 100%.
@@ -247,8 +247,7 @@ Le score donné par chaque note et la fin d'un slider est calculé avec la formu
 | **Combo multiplier** | (Combo avant ce hit - 1) ou 0 ; le plus élevé des deux. |
 | **Fixed multiplier** | Le multiplicateur qui fixe le score à 600.000 |
 
-En outre, chaque tick de début, de fin et de répétition du slider rapporte 30 points et chaque tour d'un spinner rapporte 100 points.
-Il y a un bonus supplémentaire de 10 points en fonction de la vitesse à laquelle vous faites tourner le spinner une fois que le spinner meter est plein.
+En outre, chaque tick de début, de fin et de répétition du slider rapporte 30 points et chaque tour d'un spinner rapporte 100 points. Il y a un bonus supplémentaire de 10 points en fonction de la vitesse à laquelle vous faites tourner le spinner une fois que le spinner meter est plein.
 
 ### Hit circle judgement
 
