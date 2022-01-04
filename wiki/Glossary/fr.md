@@ -16,7 +16,6 @@ Page d'index pour tous les articles concernant les termes spécifiques à osu!
 - [Hyperdash](Hyperdash)
 - [Lead-in](Lead-in)
 - [Local song offset](Local_song_offset)
-- [Loved](Loved)
 - [Snapping](Snapping)
 - [Touhosu!](Touhosu!)
 - [Trigger distance](Trigger_distance)
