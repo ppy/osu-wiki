@@ -31,9 +31,11 @@ From lowest to highest, the possible grades are D, C, B, A, S, and SS. Silver S 
 | Grade | Condition |
 | :-: | :-- |
 | SS | 100% accuracy |
-| S | Over 95% accuracy (90+% GREATs, or less than 1 GOOD for every 10 notes) |
-| A | Over 90% accuracy (80+% GREATs, or less than 1 GOOD for every 5 notes) |
-| B | Over 80% accuracy (70+% GREATs, or less than 1 GOOD for every 3.33 notes) |
+| S | Over 90% GREATs and no misses |
+| A | Over 80% GREATs and no misses **OR** over 90% GREATs |
+| B | Over 70% GREATs and no misses **OR** over 80% GREATs |
+| C | Over 60% GREATs |
+| D | Any other passing score |
 
 ## osu!catch
 
@@ -50,7 +52,7 @@ From lowest to highest, the possible grades are D, C, B, A, S, and SS. Silver S 
 
 | Grade | Condition |
 | :-: | :-- |
-| SS | 100% accuracy (only MAX and/or 300) |
+| SS | 100% accuracy |
 | S | Over 95% accuracy (an S rank is possible even with several misses, like in osu!catch) |
 | A | Over 90% accuracy |
 | B | Over 80% accuracy |
