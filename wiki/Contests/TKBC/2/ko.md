@@ -1,7 +1,7 @@
 ---
 tags:
-- TKBC
-- TKBC2
+  - TKBC
+  - TKBC2
 ---
 
 # Taiko Korean Beatmap Contest #2

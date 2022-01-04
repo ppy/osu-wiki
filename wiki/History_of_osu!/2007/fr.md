@@ -11,7 +11,7 @@ Ce qui suit contient certains des évènements majeurs de l'histoire d'osu! en 2
 
 ## Juillet
 
-osu! a débuté en tant que preuve de concept nommée "ouentest". La première version a été publiée le 1er juillet 2007 à un petit groupe d'amis proches de [peppy](https://osu.ppy.sh/users/2) et contenait un [éditeur de beatmaps](/wiki/Beatmap_Editor) très basique ainsi qu'un seul mode de jeu. L'éditeur pouvait seulement permettre la création de [beatmaps](/wiki/Beatmap) *très* simplistes sans fonction de recherche ou de [snapping](/wiki/Beatmapping/Snapping) disponibles, et il n'y avait ni sliders, ni spinners, seulement des cercles et des compteurs basiques de score/combo. La première version a pris environ 16 heures de programmation, et a été réalisée en *une seule nuit blanche*. `pUpdater` a été introduit (connu peu après sous le nom d'`osume`) pour prendre en charge les mises à jour à la dernière version.
+osu! a débuté en tant que preuve de concept nommée "ouentest"[[1]][r]. La première version a été publiée le 1er juillet 2007 à un petit groupe d'amis proches de [peppy](https://osu.ppy.sh/users/2) et contenait un [éditeur de beatmaps](/wiki/Beatmap_Editor) très basique ainsi qu'un seul mode de jeu. L'éditeur pouvait seulement permettre la création de [beatmaps](/wiki/Beatmap) *très* simplistes sans fonction de recherche ou de [snapping](/wiki/Beatmapping/Snapping) disponibles, et il n'y avait ni sliders, ni spinners, seulement des cercles et des compteurs basiques de score/combo. La première version a pris environ 16 heures de programmation, et a été réalisée en *une seule nuit blanche*. `pUpdater` a été introduit (connu peu après sous le nom d'`osume`)[[2]][r] pour prendre en charge les mises à jour à la dernière version.
 
 ![](img/2007-07_01.jpg "Sélection de musiques")
 
@@ -33,7 +33,7 @@ osu! a débuté en tant que preuve de concept nommée "ouentest". La première v
 
 ## Août
 
-Le menu principal a été mis à jour avec un nouveau look, et beaucoup de fonctionnalités ont été ajoutées à l'éditeur, incluant le support du copier-coller. La barre de menu de Windows ainsi que le curseur ont été ajoutés, rendant les fonctionnalités de l'éditeur plus accessibles qu'avant ; les sliders ont été améliorés avec la présence des [sliders ticks](/wiki/Beatmapping/Slider_tick) ; l'[empilement](/wiki/Mapping_Techniques/Stack) de [cercles](/wiki/Hit_object/Hit_circle) était présent ; les scores locaux étaient mieux pris en charge ; et le format `.osu` a été revu et complètement refait, tout en incluant une conversion des anciens fichiers à ce nouveau format.
+Le menu principal a été mis à jour avec un nouveau look, et beaucoup de fonctionnalités ont été ajoutées à l'éditeur, incluant le support du copier-coller. L'onglet menu et le menu contextuel ont été ajoutés, rendant les fonctionnalités de l'éditeur plus accessibles qu'avant ; les sliders ont été améliorés avec la présence des [sliders ticks](/wiki/Beatmapping/Slider_tick) ; l'[empilement](/wiki/Mapping_Techniques/Stack) de [cercles](/wiki/Hit_object/Hit_circle) était présent ; les scores locaux étaient mieux pris en charge ; et le format `.osu` a été revu et complètement refait, tout en incluant une conversion des anciens fichiers à ce nouveau format.
 
 ![](img/2007-08_01.jpg "Menu de sélection de musiques")
 
@@ -49,7 +49,7 @@ Le gameplay a été amélioré avec les débuts du [combo fire](/wiki/Glossary/C
 
 ![](img/2007-09.jpg)
 
-Le 17 septembre 2007 marque la "naissance" d'osu! pour le grand public. Les forums ont été établis, et hébergés sur le domaine de peppy (`ppy.sh`). L'attention du public a été gagnée via un article sur le site [bemanistyle](http://bemanistyle.com) qui a fait quelques intéressés dans les habitués de jeux de rythme.
+Le 17 septembre 2007 marque la "naissance" d'osu! pour le grand public. Les forums ont été établis, et hébergés sur le domaine de peppy (`ppy.sh`). L'attention du public a été gagnée via un [article](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483) sur le site [bemanistyle](http://bemanistyle.com) qui a fait quelques intéressés dans les habitués de jeux de rythme.
 
 ![](img/2007-09_01.jpg "Création de sliders dans l'éditeur")
 
@@ -81,7 +81,7 @@ La version 2 de `pUpdater`(`osume`) a été publiée, prenant en charge des tél
 
 ## Novembre
 
-Un nouvelle note, le *SS*, a été ajoutée au système de ranking, remplaçant les *S* dans les cas où la perfection était atteinte. Les mods [No Video](/wiki/Game_modifier/No_Video) et [Hidden](/wiki/Game_modifier/Hidden) *(HD)* ont été introduits, les notes *S* argenté et *SS* argenté également. Pour la première fois, les joueurs pouvaient modifier et assigner les sets d'échantillons normal et soft suivant les sections. Les fichiers `.osz` pouvaient maintenant être chargés avec un double-clic, ou en les glissant sur l'icône d'osu!.
+Un nouvelle note, le *SS*, a été ajoutée au système de ranking, remplaçant les *S* dans les cas où la perfection était atteinte. Les mods [No Video](/wiki/Game_modifier/No_Video) et [Hidden](/wiki/Game_modifier/Hidden) *(HD)* ont été introduits, les notes *S* argenté et *SS* argenté également. Pour la première fois, les joueurs pouvaient modifier et assigner les sets d'échantillons normal et soft suivant les sections. Les fichiers `.osz` pouvaient maintenant être chargés avec un double-clic, ou en les glissant sur l'icône ou la fenêtre d'osu!.
 
 ![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
 
@@ -97,6 +97,13 @@ Le [système de publication de beatmaps](/wiki/Submission) *(BSS)* a été rendu
 
 ## Décembre
 
-Les musiques peuvent être éditées en les glissant dans la fenêtre d'osu! ; les info-bulles qui expliquent les boutons variés des menus d'osu! et de l'interface d'édition ont été ajoutées ; beaucoup de nouveaux skins de qualité ont été publiés par les premiers skinners ([Holiday par LuigiHann](https://osu.ppy.sh/community/forums/topics/1139), et [WindWaker par awp](https://osu.ppy.sh/community/forums/topics/761)) ; de nouvelles méthodes de tri ont été ajoutées au menu de sélection de musiques ; peppy pouvait maintenant envoyer des annonces globales à tous les joueurs d'osu! ; et des changements mineurs ont été apportés au gameplay.
+Les musiques peuvent être éditées en les glissant dans la fenêtre d'osu! ; les info-bulles qui expliquent les boutons variés des menus d'osu! et de l'interface d'édition ont été ajoutées ; beaucoup de nouveaux skins de qualité ont été publiés par les premiers [skinners](/wiki/Skinning/Skinner) ([Holiday par LuigiHann](https://osu.ppy.sh/community/forums/topics/1139), et [WindWaker par awp](https://osu.ppy.sh/community/forums/topics/761)) ; de nouvelles méthodes de tri ont été ajoutées au menu de sélection de musiques ; peppy pouvait maintenant envoyer des annonces globales à tous les joueurs d'osu! ; et des changements mineurs ont été apportés au gameplay.
 
 ![](img/2007-12_01.jpg)
+
+## Références
+
+1. [post Twitter de peppy sur le début d'osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
+2. [pUpdater  (alias osume) post forum](https://osu.ppy.sh/community/forums/topics/4?n=1)
+
+[r]: #références
