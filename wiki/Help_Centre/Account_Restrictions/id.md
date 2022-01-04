@@ -21,7 +21,7 @@ Apabila akunmu di-*restrict*, jangan panik. Harap ikuti langkah-langkah di bawah
 - **Hubungi [account support team](/wiki/People/The_Team/Account_support_team) kami.** Apabila akunmu masih tetap di-*restrict* setelah 1x24 jam, harap kirimi kami email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) **dengan menggunakan alamat email yang kamu gunakan untuk membuat akunmu**. Pastikan kamu menyertakan nama penggunamu dan rincian seputar hal-hal apa saja yang kamu curigai menyebabkan akunmu di-*restrict* dalam email yang kamu kirim. Semakin lengkap informasi yang kamu berikan, semakin mudah bagi kami untuk dapat menyelesaikan masalahmu.
 - Apabila menurutmu *restriction* yang kamu peroleh merupakan kekeliruan, harap hubungi kami secepatnya agar kasusmu dapat dibicarakan lebih lanjut.
 
-Apabila akunmu di-*restrict* karena kamu telah melanggar [peraturan yang berlaku](/wiki/Rules), kamu akan diberikan masa tunggu selama tiga bulan sebelum kamu dapat mengajukan banding.
+Apabila akunmu di-*restrict* karena kamu telah melanggar [peraturan yang berlaku](/wiki/Rules), kamu akan diberikan masa tunggu/suspensi selama tiga bulan sebelum kamu dapat mengajukan banding.
 
 Apabila akunmu di-*restrict* karena kamu memiliki lebih dari satu akun namun akun utama yang kamu miliki tidak di-*restrict*, kamu dapat tetap bermain di akun utama tersebut seperti biasa. Meskipun demikian, harap pastikan ke depannya kamu tidak kembali membuat atau menggunakan akun-akun lainnya karena tindakan ini dapat berujung pada sanksi-sanksi yang lebih berat.
 
