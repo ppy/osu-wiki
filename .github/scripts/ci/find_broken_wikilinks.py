@@ -115,7 +115,7 @@ def check_link(redirects: Redirects, directory: str, link: str) -> typing.Tuple[
         else:
             # may have a redirect
             return check_redirect(redirects, child(link))
-    elif not (link.startswith("http") or link.startswith("mailto:") or link.startswith("irc:")):
+    elif not any(link.startswith(prefix) for prefix in ("http://", "https://", "mailto:")):
         # relative wikilink
         if os.path.exists(f"wiki/{directory}/{link}"):
             return (True, "")
