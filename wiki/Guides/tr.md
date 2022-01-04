@@ -16,7 +16,7 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 - [Sanatçı ya da Başlık Adı Değiştirme](Changing_the_Artist_or_Title)
 - [Başlık Metnini Değiştirme](/wiki/Beatmap/Title_Text#changing-title-text)
 - [Collab Bilgisi](Collab_Information)
-- [Dosyaları Sıkıştırmak](Compressing_Files)
+- [Dosyaları Sıkıştırmak](Compressing_files)
 - [Özel Vuruş Sesi Kütüphanesi](Custom_Hitsound_Library)
 - [Özel Ses Seti Bindirmeleri](Custom_Sample_Overrides)
 - [Şarkılar Naısl Zamanlanır](How_to_Time_Songs)
@@ -24,7 +24,7 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 - [osu!mania Map Yapım Kılavuzu](osu!mania_Mapping_Guide)
 - [Ofseti Doğru Vuruşa Ayarlamak](Setting_the_Offset_on_the_Correct_Beat)
 - [Bir Beatmap Projesi Başlatmak](Starting_a_Beatmap_Project)
-- [YouTube'dan Videolar](Videos_from_Youtube)
+- [YouTube'dan Videolar](Videos_from_YouTube)
 
 ## Modlama
 
