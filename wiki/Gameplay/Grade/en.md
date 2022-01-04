@@ -45,7 +45,6 @@ From lowest to highest, the possible grades are D, C, B, A, S, and SS. Silver S 
 | C | 85.01% to 90.00% accuracy |
 | D | Any other accuracy under 85.00% |
 
-
 ## osu!mania
 
 | Grade | Condition |
