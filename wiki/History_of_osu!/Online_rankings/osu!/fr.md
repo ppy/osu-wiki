@@ -13,6 +13,8 @@ tags:
   - classements
   - meilleur joueur
 no_native_review: true
+outdated: true
+outdated_since: af1924df8cfa9b43fa3f4cb2c4fb5935bf1b81d9
 ---
 
 # L'histoire des classements du mode osu!
