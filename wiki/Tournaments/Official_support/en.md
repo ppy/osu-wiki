@@ -46,7 +46,7 @@ Please allow up to three weeks for a response. We will try our best to handle al
 
 ## Expectations
 
-Tournament organizers are expected to monitor their tournament for anything that runs afoul of the expectations outlined below, and are single-handedly responsible for reporting such incidents to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Failure to adhere to this may result in withdrawal of official support.
+Tournament organisers are expected to monitor their tournament for anything that runs afoul of the expectations outlined below, and are single-handedly responsible for reporting such incidents to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Failure to adhere to this may result in withdrawal of official support.
 
 ### Tournaments
 
@@ -65,11 +65,11 @@ In addition, all promotional material or any services associated with a tourname
 - The tournament must not prevent players who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This only applies in circumstances where they would otherwise meet the sign-up criteria for the tournament.
   - This includes preventing users who are perceived to be "sandbagging" from play.
-    - Should an organizer have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the Tournament Committee for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
+    - Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the Tournament Committee for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
 - A dedicated referee must be present during every match. Players cannot "self-ref". 
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post in a clear accessible format.
 
-Once the tournament has concluded, the tournament organizers will need to submit the following to the account support team:
+Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team:
 
 - A list of applicable badge recipients (a.k.a. the winners of your tournament)
 - A link to the publicly viewable catalogue of your tournament's match history
@@ -78,7 +78,7 @@ LAN tournaments are also required to add links to VODs and a copy of the entire 
 
 ### Staff
 
-Tournament organizers are expected to ensure that their tournaments run smoothly and with minimal disruption where possible.
+Tournament organisers are expected to ensure that their tournaments run smoothly and with minimal disruption where possible.
 
 Users under an active (or permanent) tournament ban are expected to disclose their tournament ban status to any badged tournament they're helping with. They may be enlisted as general help (i.e. any non-staff role such as a commentator, streamer, etc.) in an officially supported tournament at the host's discretion, but we encourage careful consideration of such choices as said individuals have already run afoul of the rules once (or more). They may not act as [staff](#what-is-considered-staff) UNLESS the host requests an exemption for them when sending in the player list for screening. The account support team will then assess these on a case-by-case basis with the user's history in mind.
 
@@ -94,7 +94,7 @@ At the osu! team's discretion, offending players may be issued timed or permanen
 
 A major part of being an officially supported tournament is access to the screening process. Similar to the "security checks" undertaken by all World Cup players, screening helps prevent people with recent serious infringements or tournament bans from disrupting play.
 
-Tournament organizers will be expected to provide the following:
+Tournament organisers will be expected to provide the following:
 
 - A comma-separated list (or spreadsheet) including player usernames and user IDs
 - A second comma-separated list (or spreadsheet) including staff/assistant usernames and user IDs (basically for anyone involved in the running or development of the tournament)
@@ -163,7 +163,7 @@ Please consult the following examples of acceptable banners:
 
 ![](https://assets.ppy.sh/main-menu/egts-2021/gf.png)
 
-Please do not submit a main menu banner with your original request—you will be asked and pointed to this section if you are authorized to make use of one.
+Please do not submit a main menu banner with your original request—you will be asked and pointed to this section if you are authorised to make use of one.
 
 ## Frequently Asked Questions
 
@@ -175,19 +175,19 @@ For all of these reasons (and more), we ask that profile badge prizes are only a
 
 ### What is considered "staff" as far as tournament management goes? {#what-is-considered-staff}
 
-We consider referees, mappool selectors, mappool playtesters, judges, team organizers, or any other form of managerial position directly involved in the maintenance and operation of a tournament to be a part of its staff.
+We consider referees, mappool selectors, mappool playtesters, judges, team organisers, or any other form of managerial position directly involved in the maintenance and operation of a tournament to be a part of its staff.
 
 Commentators and streamers are not considered by us as staff, and may play or interact in tournaments freely so long as they are not directly involved in any managerial aspect of running the tournament or violate anything mentioned above.
 
-We have historically had issues where unscrupulous organizers have geared tournaments specifically (i.e. picked maps they're familiar with, adjusted seeds/brackets, etc.) to farm profile badges for themselves and their friends. While we understand that most groups will not do this, we must enforce this restriction to keep things fair for everyone.
+We have historically had issues where unscrupulous organisers have geared tournaments specifically (i.e. picked maps they're familiar with, adjusted seeds/brackets, etc.) to farm profile badges for themselves and their friends. While we understand that most groups will not do this, we must enforce this restriction to keep things fair for everyone.
 
 ### Can a player who has been eliminated from play in my tournament join the staff after the fact and not cause problems? {#player-join-staff}
 
-If we are going by the above definition of "staff", then the answer is no. The role they would assume could conceivably influence the outcome of the tournament. A player may conclude play in your tournament and join as a commentator, for example, but not as a referee, organizer, or anything further.
+If we are going by the above definition of "staff", then the answer is no. The role they would assume could conceivably influence the outcome of the tournament. A player may conclude play in your tournament and join as a commentator, for example, but not as a referee, organiser, or anything further.
 
 ### What should I do if a player in my tournament gets restricted? {#player-restriction}
 
-In the unlikely event that a player becomes restricted during the course of the tournament, you may need to replay certain matches where they were involved in order to preserve the competitive integrity of the tournament. Tournament organizers should contact the account support team to receive information and guidance on these (hopefully rare) cases.
+In the unlikely event that a player becomes restricted during the course of the tournament, you may need to replay certain matches where they were involved in order to preserve the competitive integrity of the tournament. Tournament organisers should contact the account support team to receive information and guidance on these (hopefully rare) cases.
 
 ### Why can't badges be awarded to recurring monthly (or weekly) tournaments? {#recurring-contests}
 
