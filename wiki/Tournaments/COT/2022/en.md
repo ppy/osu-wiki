@@ -36,7 +36,7 @@ The **osu!catch CIS Open Tournament 2022** (***COT 2021***) is a double-eliminat
 
 ## Organisation
 
-COT 2022 was run by various osu! community members mostly hailing from Commonwealth of Independent States.
+COT 2022 is run by various osu! community members mostly hailing from the Commonwealth of Independent States.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -45,7 +45,7 @@ COT 2022 was run by various osu! community members mostly hailing from Commonwea
 | Streamer | ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
 | Commentator | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164),  ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
 | Referee | ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
-| Designers | ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
+| Designer | ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
 | Spreadsheet manager | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) |
 | Wiki editor | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) |
 
@@ -64,24 +64,23 @@ COT 2022 was run by various osu! community members mostly hailing from Commonwea
 1. Map scoring is based on **[ScoreV2](/wiki/Score#scorev2).**
 2. The match lobby will be created by the referee, and the players will be invited.
 3. Players have a strict 10-minute grace period available to play the match. If 10 minutes pass and a player does not show up the match, the other player will receive a win by default.
-4. Warm ups aren't allowed.
-5. During the lobby it is not allowed to show any form of harassment during livestreaming. By organizers after breaking the rule the player may be disqualified.
-6. At the start of the match, both players roll. The roll winner decides to ban or pick first.
+4. Warmups are not allowed.
+5. It is not allowed to show any form of harassment in a livestreamed lobby. As per staff decision, a player may be disqualified for breaking this rule.
+6. At the start of the match, both players `!roll`. The roll winner decides who gets to ban or pick first.
 7. The referee is not allowed to play in the match, which means the referee should not be in the lobby during the match process.
-8. Each player is allowed 1 or 2 bans per match. Banned maps are removed from the mappool for the duration of the match and not allowed to be picked. A player is not allowed to ban 2 maps from the same mod pool.
+8. Each player is allowed 1 or 2 bans per match. Banned maps are removed from the mappool for the duration of the match and are not allowed to be picked. A player is not allowed to ban 2 maps from the same mod pool.
 9. Players have 2 minutes to select a map; if they fail to choose in the allotted time, the map choice will be random.
-10. Each player may use a tactical timeout with the 2 minute length which can be used once during the tournament. The tactical timeout is optional and it is not required to use it.
-11. After choosing a map players have a 2 minute preparation. A referee will start the match when both players are ready. After that, when the timer ends, referee starts the match.
-12. NF is forced on every map.
-13. In the case of a disconnection: if the disconnection happened in the first 30 seconds during the match, it will be replayed. If the disconnection happened after 30 seconds, then the score won't count.
+10. Each player may use a tactical 2-minute timeout once during the tournament. The tactical timeout is optional.
+11. After choosing a map, players have 2 minutes to prepare. A referee will start the the timer when both players are ready.
+12. NoFail is forced on every map.
+13. If a player disconnects during the first 30 seconds of the match, it will be replayed. If the disconnect happened after 30 seconds, then the disconnected player's score will not count.
 
 ### Qualifiers
 
 1. All the rules found above will be in effect during the qualifier lobbies. Qualifier lobbies will be Head to Head and there are no bans or warmups.
-2. In the lobby, the players will play through the entire mappool in the order given on the mappool sheet. This means you will play through the NM maps, then HD, then HR, and then DT.
-3. You will play through the pool once.
-4. In the event of any disconnects, the player who disconnects will be allowed to replay the map after the run by themselves.
-5. Qualifier scores will be hidden until all players have played, in order to prevent seed manipulation. Which means that the player placing 32th place will play against the player placing 1st place etc.
+2. In the lobby, the players will play through the entire mappool once, in the order given on the mappool sheet. This means you will play through the NM maps, then HD, then HR, and then DT.
+3. In the event of any disconnects, the player who disconnects will be allowed to replay the map after the run by themselves.
+4. Qualifier scores will be hidden until all players have played, in order to prevent seed manipulation, which means that the player placing 32nd will play against the player placing 1st, etc.
 
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
