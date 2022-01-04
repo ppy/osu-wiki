@@ -34,6 +34,12 @@ class Link(typing.NamedTuple):
     link_start: int
     link_end: int
 
+    # Sections of a link. Example:
+    #    ![Player is AFK](img/chat-console-afk.png "Player is away from keyboard")
+    #                     ^ ----- location ----- ^
+    #                                             ^ ---------- extra ---------- ^
+    #                     ^ --------------------- content --------------------- ^
+    #     ^ ------------------ full_link / full_coloured_link ------------------ ^
     @property
     def content(self):
         return self.location + self.extra
@@ -43,7 +49,7 @@ class Link(typing.NamedTuple):
         return f"[{self.title}]{self.content}"
 
     @property
-    def full_colored_link(self):
+    def full_coloured_link(self):
         return "{title_in_braces}{left_brace}{location}{extra}{right_brace}".format(
             title_in_braces=green(f"[{self.title}]"),
             left_brace=green("("),
@@ -242,7 +248,7 @@ def main():
                     if note:
                         print(note)
 
-                    print("{}{}{}".format(line[:match.link_start], match.full_colored_link, line[match.link_end + 1:]), end="\n\n")
+                    print("{}{}{}".format(line[:match.link_start], match.full_coloured_link, line[match.link_end + 1:]), end="\n\n")
 
     if exit_code == 0:
         print_clean()
