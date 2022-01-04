@@ -52,10 +52,10 @@ class Link(typing.NamedTuple):
     def full_coloured_link(self):
         return "{title_in_braces}{left_brace}{location}{extra}{right_brace}".format(
             title_in_braces=green(f"[{self.title}]"),
-            left_brace=green("("),
+            left_brace=green('('),
             location=red(self.location),
             extra=blue(self.extra),
-            right_brace=green(")"),
+            right_brace=green(')'),
         )
 
 
@@ -77,7 +77,7 @@ def blue(s):
 
 def load_redirects(path: str) -> Redirects:
     redirects = {}
-    with open(path, "r", encoding='utf-8') as fd:
+    with open(path, 'r', encoding='utf-8') as fd:
         for line_number, line in enumerate(fd, start=1):
             split = line.split('"')
             try:
@@ -210,7 +210,7 @@ def print_clean():
 
 def parse_args(args):
     parser = argparse.ArgumentParser()
-    parser.add_argument("-t", "--target", nargs="*", help="paths to the articles you want to check")
+    parser.add_argument("-t", "--target", nargs='*', help="paths to the articles you want to check")
     return parser.parse_args(args)
 
 
@@ -234,7 +234,7 @@ def main():
         )):
             continue
 
-        with open(filename, "r", encoding='utf-8') as fd:
+        with open(filename, 'r', encoding='utf-8') as fd:
             for linenumber, line in enumerate(fd, start=1):
                 for match in find_links(line):
                     if match.content == "/wiki/Sitemap":
