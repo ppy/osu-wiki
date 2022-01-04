@@ -1,18 +1,16 @@
----
-outdated: true
-outdated_since: 8b4224f1287d609d0b6b564055ef2cbca4a694e5
----
-
 # Gameplay
 
 - [Précision](/wiki/Gameplay/Accuracy)
+- [Combo (multiplicateur de score)](/wiki/Gameplay/Combo_(score_multiplier))
 - [Longueur de drain](/wiki/Gameplay/Drain_time)
 - [Fingerlock](/wiki/Gameplay/Fingerlock)
+- [Grade](/wiki/Gameplay/Grade)
 - [Dispositif d'entrée](/wiki/Gameplay/Input_device)
+- [Jugement](/wiki/Gameplay/Judgement)
 - [Mind block](/wiki/Gameplay/Mind_block)
+- [Notelock](/wiki/Gameplay/Notelock)
 - [Temps de jeu](/wiki/Gameplay/Play_time)
+- [Score](/wiki/Gameplay/Score)
 - [Slider break](/wiki/Gameplay/Slider_break)
-- [Spectateur](/wiki/Gameplay/Spectating)
+- [Spectateurs](/wiki/Gameplay/Spectating)
 - [Protection pour tablette](/wiki/Gameplay/Tablet_cover)
-
-<!-- TODO: category needs some fleshing out and this index probably shouldn't be empty -->
