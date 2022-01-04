@@ -20,7 +20,7 @@ From lowest to highest, the possible grades are D, C, B, A, S, and SS. Silver S 
 | Grade | Condition |
 | :-: | :-- |
 | SS | 100% accuracy |
-| S | Over 90% 300s, less than 1% 50s and no misses |
+| S | Over 90% 300s, 1% or less 50s, and no misses |
 | A | Over 80% 300s and no misses **OR** over 90% 300s |
 | B | Over 70% 300s and no misses **OR** over 80% 300s |
 | C | Over 60% 300s |
