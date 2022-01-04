@@ -50,14 +50,12 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1482564)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/76) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Sign-up here](https://osu.ppy.sh/community/tournaments/31)**
 
 ## Ruleset
 
 ### Tournament rules
 
 1. The osu!mania 7K World Cup is a country-based team tournament, played on the osu!mania game mode.
-   - *Notice: While this competition has been planned as a 2 versus 2 setup, this might change depending on the amount of registrations.*
 2. Beatmap scoring will be based on Score V2.
 3. The beatmaps for each round will be announced by the mappool selectors on the Sunday before the actual matches take place.
    - Every mappool, except for the Qualifier stage, will contain a *tiebreaker* beatmap. It will only be played in case of a tie in the scoreline in the *best of* system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
@@ -87,7 +85,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 13. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
 14. Exchanging players between games is allowed without limitations.
 15. Beatmaps must not be reused in the same match, except for rematches.
-16. **The minimum team size for a team is 2 players, and the maximum is 4.**
+16. **The minimum size for a team is 2 players, and the maximum is 4.**
 17. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
 18. All players and staff must be treated with respect. Instructions of the referees and the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
 19. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
@@ -170,7 +168,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
    - Round of 16 and Quarterfinals: 14 beatmaps
-   - Semifinals and Finals: 16 beatmaps
+   - Semifinals, Finals, and Grand Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. Possible mod choices for all maps are [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In), [Flashlight](/wiki/Game_modifier/Flashlight), and [Mirror](/wiki/Game_modifier/Mirror).
 6. The tiebreaker will be played under FreeMod conditions.

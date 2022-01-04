@@ -47,7 +47,7 @@ Tato pravidla platí striktně pro beatmapy odeslané prostřednictvím herního
 1. **Ujistěte se, že máte oprávnění používat jakýkoli obsah obsažený ve vaší beatmapě.** To zahrnuje písničky, videa, hity, grafiku a další obsah, který není vaší vlastní tvorbou. Pokud si nejste jisti, kde najít obsah, který je zdarma k použití, prohlédněte si naši rostoucí knihovnu [Vybraní umělci](https://osu.ppy.sh/beatmaps/artists) pro hudbu se 100% licencí pro použití v osu! a [Pokyny k používání obsahu](Content_Usage_Guidelines) pro další informace.
 2. **Držte se tématu v [diskuze o beatmapě](/wiki/Beatmap_Discussion).** Tato vlákna/diskuze se týkají příslušné beatmapy a ničeho jiného. Pokud máte problém s něčím, co přímo nesouvisí s beatmapou, napište to do příslušného fóra.
 3. **Neplagiujte ani se nepokoušejte ukrást práci jiných lidí.** Nenahrávejte ani nepoužívejte práce jiných lidí bez jejich výslovného svolení (včetně, ale nejen, vzhledů atd.).
-4. **Řiďte se [Pravidla pro obsah skladeb](Pravidla_obsahu_skladby) a [Úvahy o vizuálním obsahu](Visual_Content_Considerations).**
+4. **Řiďte se [Pravidla pro obsah skladeb](Song_Content_Rules) a [Úvahy o vizuálním obsahu](Visual_Content_Considerations).**
 
 ## Co se stane, když poruším pravidla?
 

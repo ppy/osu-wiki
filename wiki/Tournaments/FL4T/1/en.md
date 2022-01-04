@@ -403,7 +403,7 @@ Sunday, 14 February 2021:
 | #9 | ![][flag_TH] [-\[DaNieL\_TH\]-](https://osu.ppy.sh/users/6456531) | 10.75 |
 | #10 | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983) | 12.25 |
 | #10 | ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) | 12.25 |
-| #12 | ![][flag_ID] [Dellia](htbtps://osu.ppy.sh/users/12143152) | 13.25 |
+| #12 | ![][flag_ID] [Dellia](https://osu.ppy.sh/users/12143152) | 13.25 |
 | #12 | ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) | 13.25 |
 | #14 | ![][flag_PH] [Lawrence Angelo](https://osu.ppy.sh/users/10373568) | 13.5 |
 | #15 | ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936) | 14.5 |

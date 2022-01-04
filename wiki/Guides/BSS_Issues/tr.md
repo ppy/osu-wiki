@@ -1,7 +1,7 @@
 ---
 tags:
-- I can't submit my own beatmap!
-- beatmap submission system issues
+  - I can't submit my own beatmap!
+  - beatmap submission system issues
 ---
 
 # BSS sorunları nasıl çözümlenir

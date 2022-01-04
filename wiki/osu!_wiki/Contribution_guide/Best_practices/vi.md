@@ -50,9 +50,6 @@ Khi bạn tạo một fork từ repo `osu-wiki`, bạn đã tạo một snapshot
 
 1. Đi tới fork repo `osu-wiki` của bạn.
 2. Chọn branch mà bạn muốn cập nhật từ trình đơn thả xuống.
-
-![](img/select-branch.png "Chọn branch lỗi thời từ fork repo của bạn")
-
 3. Nhấn `Fetch upstream` và chọn `Fetch and merge`.
 
 ![](img/update-branch.png "Cập nhật branch lỗi thời")
