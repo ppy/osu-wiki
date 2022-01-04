@@ -1,30 +1,30 @@
 ---
 tags:
+  - COT
   - COT2022
-  - COT 2022
-  - КОТ22
-  - КОТ 2022
+  - КОТ
+  - КОТ2022
 ---
 
 # osu!catch CIS Open Tournament 2022
 
 ![COT 2021 banner](img/banner.png)
 
-**osu!catch CIS Open Tournament 2022** (***COT 2021***) это сольный osu!catch турнир в формате double-elimination организованный ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) и ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). В турнире могут принимать участие русскоговорящие игроки из стран СНГ и Прибалтики. COT22 является второй итерацией турнира osu!catch CIS Open Tournament.
+**osu!catch CIS Open Tournament 2022** (***COT2022***, ***КОТ2022***) это сольный osu!catch турнир в формате double-elimination организованный ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) и ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). В турнире могут принимать участие русскоговорящие игроки из стран СНГ и Прибалтики. COT22 является второй итерацией турнира osu!catch CIS Open Tournament.
 
 ## Расписание турнира
 
 | Стадия | Дата |
 | --: | :-- |
 | Регистрация | 2022-01-01/2022-01-15 |
-| Screening phase | 2022-01-16/2022-01-30 |
+| Скрининг | 2022-01-16/2022-01-30 |
 | Квалификация | 2022-02-05/2022-02-06 |
-| Round of 32 | 2022-02-12/2022-02-13 |
-| Round of 16 | 2022-02-19/2022-02-20 |
-| Quarterfinals | 2022-02-26/2022-02-27 |
-| Semifinals | 2022-03-05/2022-03-06 |
-| Finals | 2022-03-12/2022-03-13 |
-| Grand Finals | 2022-03-19/2022-03-20 |
+| 1/16 раунда | 2022-02-12/2022-02-13 |
+| 1/8 раунда | 2022-02-19/2022-02-20 |
+| Четвертьфинал | 2022-02-26/2022-02-27 |
+| Полуфинал | 2022-03-05/2022-03-06 |
+| Финал | 2022-03-12/2022-03-13 |
+| Гранд-финал | 2022-03-19/2022-03-20 |
 
 ## Призы
 
@@ -46,7 +46,7 @@ COT 2022 организован различными членами сообще
 | Комментаторы | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164),  ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
 | Рефери | ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
 | Дизайнеры | ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
-| Гугл-док | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) |
+| Редактор гугл-дока | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) |
 | Редактор вики | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) |
 
 ## Ссылки
