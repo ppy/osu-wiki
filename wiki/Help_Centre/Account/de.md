@@ -141,7 +141,6 @@ Zuletzt sind wir uns bewusst, dass einige Dienstleister keine automatisierten E-
 - `t-online.de`
 
 ## Namensänderungen
-<!--TODO: change link in account_support_team after merge of 6584-->
 
 ### Kann ich den Benutzernamen meines Accounts ändern?
 

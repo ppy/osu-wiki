@@ -1,4 +1,4 @@
-<!-- TODO: change links as soon as German articles are available (line 32, 42, 46 and 47) -->
+<!-- TODO: change links as soon as German articles are available (line 42, 46 and 47) -->
 
 # Account-Support-Team
 
@@ -29,7 +29,7 @@ Du solltest das Team zu Account-bezogenen Themen kontaktieren, über die du kein
   - Entfernung von Forumsbeiträgen und Kommentaren.
 - Fälle von Fehlverhalten, die du [gestehen möchtest](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#was-kann-ich-tun,-wenn-ich-die-Regeln-gebrochen-habe?).
 - [Verlust des Zugriffs auf die E-Mail](/wiki/Help_Centre/Installation_and_registration#wo-registriere-ich-mich-für-osu!?), die mit deinem osu!-Account verbunden ist oder, wenn dein Account gestohlen wurde.
-- [Rücksetzungen des Benutzernamens und Rechtschreibfehlerkorrekturen](/wiki/Help_Centre/Account#name-changes).
+- [Rücksetzungen des Benutzernamens und Rechtschreibfehlerkorrekturen](/wiki/Help_Centre/Account#namensänderungen).
 - [Registrierungen von Bot-Accounts](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
