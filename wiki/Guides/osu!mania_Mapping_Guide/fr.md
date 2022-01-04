@@ -73,7 +73,7 @@ Très bien ! Faisons glisser le `.mp3` de la chanson que nous voulons mapper dan
 | HP Drain Rate (HP) : | Une valeur plus élevée signifie un drain plus punitif et une récupération plus faible, et vice versa. Une valeur de HP couramment utilisée serait **7** *Note : Seuls les 50 ou les miss draineront les HP*. |
 | Key Count : | Ici, vous devez définir le nombre de touches dans lequel vous voulez mapper. Dans ce guide, je vais utiliser 4K. Notez que seules les beatmaps 4K, 5K, 6K, 7K, 8K et 9K sont classables. La case à cocher "Co-Op" peut être sélectionnée lorsque vous choisissez 5K et plus, doublant ainsi le nombre de touches. Cela vous permet de jouer avec un ami sur un seul clavier. |
 | Approach Rate : | Cette option n'est pas utilisée dans osu!mania et vous pouvez l'ignorer. |
-| Overall Difficulty (OD) : | L'OD modifie la fourchette d'erreur de frappe de tous les jugements, à l'exception de 300g. Il est recommandé d'utiliser un OD plus faible pour les beatmaps orientées Long Note, et vice versa pour les beatmaps orientées Note. |
+| Overall Difficulty (OD) : | L'OD modifie la fourchette d'erreur de frappe de tous les [jugements](/wiki/Gameplay/Judgement), à l'exception de 300g. Il est recommandé d'utiliser un OD plus faible pour les beatmaps orientées Long Note, et vice versa pour les beatmaps orientées Note. |
 
 #### Design
 
@@ -142,7 +142,7 @@ Allez au point où le BPM change, appuyez sur F6 pour ouvrir le panneau Timing, 
 
 #### Timing Setup Panel
 
-![Timing Setup](/wiki/Beatmap_Editor/Timing/img/TimingSetup.png "Timing Setup")
+![Timing Setup](/wiki/shared/timing/TimingSetup.png "Timing Setup")
 
 | Nom | Description |
 | :-- | :-- |

@@ -36,7 +36,7 @@ __F,0,500,1000,1,0
 
 ## Commande Trigger (T)
 
-En plus du feedback "implicite" du joueur via les couches séparées [Pass/Fail](/wiki/Storyboard/Scripting/General_Rules), vous pouvez utiliser l'une des nombreuses **conditions de déclenchement** pour provoquer une série d'[événements](/wiki/Storyboard/Scripting/Commandes) à chaque fois que cette condition est remplie dans une certaine période de temps. La spécification officielle les appelle "boucles de déclenchement" en raison de leur similitude syntaxique avec les boucles (L), mais ce ne sont pas des boucles du tout, donc ici ils sont simplement appelés "déclencheurs".
+En plus du feedback "implicite" du joueur via les couches séparées [Pass/Fail](/wiki/Storyboard/Scripting/General_Rules), vous pouvez utiliser l'une des nombreuses **conditions de déclenchement** pour provoquer une série d'[événements](/wiki/Storyboard/Scripting/Commands) à chaque fois que cette condition est remplie dans une certaine période de temps. La spécification officielle les appelle "boucles de déclenchement" en raison de leur similitude syntaxique avec les boucles (L), mais ce ne sont pas des boucles du tout, donc ici ils sont simplement appelés "déclencheurs".
 
 ### Utilisation
 
