@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mappers' Report: February"
-date: 2021-03-05 08:00:00 +0000 
+date: 2021-03-05 08:00:00 +0000
 ---
 
 News news and even more news! The February issue of the Mappers' Report is here to inform you about everything mapping-related that happened last month!
