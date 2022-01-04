@@ -129,7 +129,7 @@ Profile badge images must adhere to the following standards:
 - The badge must clearly display the logo, motif, or name of your tournament.
 - The badge must be cleanly designed and of reasonable visual quality.
 
-Please consult the following examples of approved badges:
+Please consult the following examples of approved badge designs:
 
 ![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/timeskip-2021@2x.png)
 
@@ -157,7 +157,7 @@ If you satisfy the above criteria, you may make a request for main-menu banner s
 - The banner must be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
 - The banner must not include any sort of sponsorship or promote anything besides the tournament.
 
-Please consult the following examples of acceptable banners:
+Please consult the following examples of acceptable banner designs:
 
 ![](https://assets.ppy.sh/main-menu/corsace-2021/gf3.png)
 
