@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: a4d801f4dbb4b86901f63773b7993647eb5b7ba8
 ---
 
 # 准确度
@@ -12,7 +14,7 @@ no_native_review: true
 
 ![准确度 = (50 \* 50的数量 + 100 \* 100的数量 + 300 \* 300的数量) / 300( 0的数量 + 50的数量 + 100的数量 + 300的数量)](img/accuracy_osu.png "osu!的准确度公式")
 
-在 osu! 中，准确度以每个被击中的物件所得判定按其价值加权计算，并除以可能的最大数额。
+在 osu! 中，准确度以每个被击中的物件所得[判定](/wiki/Gameplay/Judgement)按其价值加权计算，并除以可能的最大数额。
 
 对于单个圆圈的参考：
 

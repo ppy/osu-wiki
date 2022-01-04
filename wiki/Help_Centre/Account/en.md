@@ -178,19 +178,15 @@ Your profile will show all your previous purchased name changes, but we only sel
 
 ## Other issues
 
-### The flag on my account profile is wrong!
+### The flag/country on my account profile is wrong!
 
-**We can change this for you, but only if you are actively living in the country that you wish to change to.**
+**Unfortunately, we cannot change this for you.**
 
-We determine your country as shown on your profile page from the area in which you first registered your account from.
+The country associated with your osu! profile is based on the geographical location of the connection you used to register the account and is permanently assigned during account creation.
 
-If you create an account while on holiday in the United States, your account will show as belonging to the US - you'll even appear on the country rankings for the US too.
+In the past, we offered the ability for users to change their account country by providing proof of residence documents, but after countless instances of abuse by unscrupulous players, we were left with no option but to stop offering such services.
 
-The support team can happily change your account's country upon request, **but only if you are actively living within that country at the time.**
-
-To confirm this, the [support team](/wiki/People/The_Team/Account_support_team) will ask for proof of residency - be it the appropriate passport, drivers licence for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and signed in to your account.
-
-We will never display this information to anyone else, and we encourage you to blank out any personal information (while still allowing us to determine which country the document is for!) if you are concerned about your privacy.
+Please understand that we cannot adjust this under any circumstances, regardless of people you've heard of or might know who have had it done before.
 
 ### Can I make more than one account?
 
