@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - install
   - download
@@ -32,7 +31,7 @@ Vous pouvez également [cliquer ici](https://osu.ppy.sh/home/download) pour un l
 
 ## Inscription
 
-*Page principale : [Registration](/wiki/Registration)*
+*Page principale : [Inscription](/wiki/Registration)*
 
 ### Où puis-je m'inscrire sur osu! ?
 

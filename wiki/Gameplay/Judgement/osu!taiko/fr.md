@@ -1,34 +1,29 @@
----
-no_native_review: true
-needs_cleanup: true  # see the original article
----
+# Système de jugement d'osu!taiko
 
-# osu!taiko judgement system
-
-## Hit values
+## Valeurs de hit
 
 | Image | Nom | Effet |
 | :-: | :-: | :-- |
-| ![](/wiki/Skinning/osu!taiko/img/taiko-hit300k.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300g.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300.png "GREAT") | (良) Great | Score obtenu lorsque la note est frappée exactement dans le cercle de jugement, avec la bonne couleur. Image: (1 et 2) Grande Note (3) Petite Note |
-| ![](/wiki/Skinning/osu!taiko/img/taiko-hit100k.png "GOOD") ![](/wiki/Skinning/osu!taiko/img/taiko-hit100.png "GOOD") | (可) Good | Score obtenu lorsque la note est frappée légèrement en avance ou en retard, avec la bonne couleur. Image: (1) Grande Note (2) Petite Note. |
-| ![](/wiki/Skinning/osu!taiko/img/taiko-hit0.png "MISS") | (不可) Miss | Score obtenu lorsque la note n'est pas frappée à temps, ou avec la mauvaise couleur. |
+| ![](/wiki/shared/judgement/osu!taiko/taiko-hit300k.png "GREAT") ![](/wiki/shared/judgement/osu!taiko/taiko-hit300g.png "GREAT") ![](/wiki/shared/judgement/osu!taiko/taiko-hit300.png "GREAT") | (良) Great | Score possible que l'on peut obtenir en frappant la note exactement sur la zone dans la bonne couleur. Image : \[1 et 2\] Grande note \[3\] Petite note |
+| ![](/wiki/shared/judgement/osu!taiko/taiko-hit100k.png "GOOD") ![](/wiki/shared/judgement/osu!taiko/taiko-hit100.png "GOOD") | (可) Good | Un score possible que l'on peut obtenir en frappant la note légèrement en avance ou en retard sur la zone de la bonne couleur. Image : \[1\] Grande note \[2\] Petite note. |
+| ![](/wiki/shared/judgement/osu!taiko/taiko-hit0.png "MISS") | (不可) Miss | Un score possible que l'on peut obtenir si l'on ne frappe pas la note ou si l'on frappe la note dans la mauvaise couleur. |
 
-## Judgement mechanics
+## Mécaniques du jugement
 
-**Petite/Grande notes:**
+**Petites/Grandes notes :**
 
-- *GREAT* est donné si vous tapez dans le cercle de jugement parfaitement avec la bonne couleur.
-- *GOOD* est donné si vous tapez un petit peu avant/après le cercle de jugement avec la bonne couleur.
-- *MISS/BAD* est donné si vous tapez trop tôt, trop tard, miss le cercle de jugement, ou tapez la mauvaise couleur.
+- *GREAT* donné si on tambourine à l'intérieur du cercle parfaitement avec la couleur correcte.
+- *GOOD* donné si le tambour est légèrement éloigné du cercle de jugement avec une couleur correcte.
+- *MISS/BAD* donné si on a tambouriné trop tôt, trop tard, si on a manqué le cercle de jugement ou si on a tambouriné la mauvaise couleur.
 
-**Drumroll:**
+**Drumroll :**
 
-- Un score constant de 300/600 avec le bonus de Kiai Time quand il est disponible est donné pour chaque note frappée avec succès dans le drumroll de n'importe quelle note.
-- Aucun score n'est donné quand vous frappez entre deux petites notes.
-- Pas de *MISS/BAD* pour ne pas avoir fait le drumroll dans le style de *Taiko no Tatsujin*.
+- Score constant de 300/600 avec bonus de Kiai Time, si disponible, donné par petites notes frappées avec succès dans le drumroll avec n'importe quelle couleur.
+- Aucune note n'est donnée lorsqu'on tambourine sur l'écart des petites notes.
+- Pas de *MISS/BAD* pour ne pas avoir fait le drumroll selon le style *Taiko no Tatsujin*.
 
-**Denden/Spinner:**
+**Denden/Shaker :**
 
-- Un score constant de 300 est donné par hit/spin jusqu'à ce qu'il soit complèté.
-- *GREAT* est donné sur le dernier hit/spin.
-- *MISS/BAD* des dégâts sont donnés (mais ce n'est pas considéré comme un miss) si vous ne réussissez pas à compléter le Denden/Spinner.
+- Score constant de 300 par coup/secousse jusqu'à la fin.
+- *GREAT* donné sur le dernier coup/secousse.
+- Dégâts *MISS/BAD* donnés (non considérés comme un miss) en cas de miss du Denden/Shaker.

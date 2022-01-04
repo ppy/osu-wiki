@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: a4d801f4dbb4b86901f63773b7993647eb5b7ba8
+---
+
 # Genauigkeit
 
 <!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
@@ -10,7 +15,7 @@ Die Genauigkeit ist ein prozentualer Messwert für die Fertigkeit eines Spielers
 
 ![Genauigkeit = (50 \* Anzahl der 50er + 100 \* Anzahl der 100er + 300 \* Anzahl der 300er) / 300(Anzahl der 0er + Anzahl der 50er + Anzahl der 100er + Anzahl der 300er)](img/accuracy_osu.png "Genauigkeitsformel für osu!")
 
-In osu! wird die Genauigkeit berechnet, indem die Bewertung jedes Hit-Objekts nach seinem Wert gewichtet und durch den maximal möglichen Wert geteilt wird.
+In osu! wird die Genauigkeit berechnet, indem die [Bewertung](/wiki/Gameplay/Judgement) jedes Hit-Objekts nach seinem Wert gewichtet und durch den maximal möglichen Wert geteilt wird.
 
 Referenz für einen Hit-Circle:
 
@@ -66,7 +71,7 @@ Die Formel ist im Wesentlichen die Standardabweichung der Trefferfehler (in Mill
 
 ### Spin
 
-*Hinweis: Spin wird nur für den [osu! Spielmodus](/wiki/Spielmodus/osu!) verwendet.*
+*Hinweis: Spin wird nur für den [osu! Spielmodus](/wiki/Game_mode/osu!) verwendet.*
 
 Zusätzlich zur Genauigkeit werden in der gleichen Meldung auch einige Informationen zu Spinnern angezeigt. <!-- This line could use some more information on what that information is, how it's calculated, what it means, etc. etc. -->
 

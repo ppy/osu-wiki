@@ -1,9 +1,9 @@
 ---
 tags:
-- hit objects
-- sliderhead
-- sliderbody
-- slideranchor
+  - hit objects
+  - sliderhead
+  - sliderbody
+  - slideranchor
 ---
 
 # Slider
@@ -18,7 +18,7 @@ Sliders can be created in the [beatmap editor](/wiki/Beatmap_Editor) by selectin
 
 It is possible to move/add/remove slider control points after the slider is finished. Remove control points by right clicking them after the slider has been selected, or add a control point by holding `Ctrl` and clicking anywhere inside the slider(double click, or hold `Ctrl` and click a control point to make it red). Sliders can also be reversed by clicking and dragging the slidertail in the timeline.<!-- TODO: Insert curve types/algorithm in here maybe-->
 
-Mappers can also adjust the number of ticks on their beatmap's sliders in the `Timing` section. More ticks make the combo rise faster (1x more per tick) and thus offer the opportunity for higher scores, but at the same time they provide more chances for the player to fail as judgement becomes harsher.
+Mappers can also adjust the number of ticks on their beatmap's sliders in the `Timing` section. More ticks make the combo rise faster (1x more per tick) and thus offer the opportunity for higher scores, but at the same time they provide more chances for the player to fail as [judgement](/wiki/Gameplay/Judgement) becomes harsher.
 
 ## Hitsounding sliders
 
