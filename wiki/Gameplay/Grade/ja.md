@@ -1,5 +1,5 @@
 ---
-stub: true
+outdated: true
 tags:
   - ランク
 ---
