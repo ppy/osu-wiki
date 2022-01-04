@@ -1,4 +1,7 @@
-<!-- TODO: strange descriptions in many places and unhelpful order if you're trying to see what this game mode is all about. -->
+---
+outdated: true
+outdated_since: 2dccc07cb4759a455196482e5f00383834f9813b
+---
 
 # osu! (mode permainan)
 
