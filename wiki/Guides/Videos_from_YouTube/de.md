@@ -10,7 +10,7 @@ tags:
 
 # Videos von YouTube
 
-*Bitte beachte, dass das Herunterladen von YouTube-Videos ein Vertoß von den [YouTube-Nutzungsbedingungen](https://www.youtube.com/t/terms) darstellt.*
+*Bitte beachte, dass das Herunterladen von YouTube-Videos ein Vertoß gegen die [Nutzungsbedingungen](https://www.youtube.com/t/terms) darstellt.*
 
 [YouTube](https://youtube.com) ist eine nützliche Quelle für Kreative, die nach Hintergrundvideos für ihre [Beatmaps](/wiki/Beatmap) schauen. Wenn ein Song ein Musikvideo hat, dann wird es in den meisten Fällen auf YouTube sein und wahrscheinlich in der richtigen Größe komprimiert. Die Qualität ist gut, aber die Videodatei ist auch nicht extrem groß.
 
