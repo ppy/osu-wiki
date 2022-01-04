@@ -33,7 +33,7 @@ Le *combo maximum* est le combo le plus élevé réalisé par le joueur au cours
 
 **Ce qui suit remet le multiplicateur de score à zéro :**
 
-- Un cercle a été manqué.
+- Un cercle a été manqué (miss).
 - Le début d'un slider a été cliqué trop tôt.
 - Le début d'un slider ou un slidertick a été manqué.
 - Un spinner n'a pas suffisamment été joué.

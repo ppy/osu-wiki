@@ -4,7 +4,7 @@
 
 | Image | Nom | Effet |
 | :-: | :-: | :-- |
-| ![](/wiki/shared/judgement/osu!mania/mania-hit300g.gif "Rainbow 300") | Rainbow 300 (MAX) | Frappe parfaite de la note ou le hold. Comparé au 300, l'obtention de cette note exige une précision absolue. Sinon, un 300 normal sera donné. Compléter la beatmap avec ce seul score donnera le score maximum de 1 000 000 (limite de 1 million de points). C'est l'équivalent de *Marvelous* en termes de DDR. |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit300g.gif "Rainbow 300") | Rainbow 300 (MAX) | Frappe parfaite de la note ou du hold. Comparé au 300, l'obtention de cette note exige une précision absolue. Sinon, un 300 normal sera donné. Compléter la beatmap avec ce seul score donnera le score maximum de 1 000 000 (limite de 1 million de points). C'est l'équivalent de *Marvelous* en termes de DDR. |
 | ![](/wiki/shared/judgement/osu!mania/mania-hit300.png "300") | 300 | Réussite presque parfaite de la note ou du hold. La limite maximale de score ne peut être atteinte si ce score a été donné. |
 | ![](/wiki/shared/judgement/osu!mania/mania-hit200.png "200") | 200 | Un coup ou un hold légèrement en avance ou légèrement en retard. Les nouveaux joueurs risquent d'obtenir souvent cette note jusqu'à ce qu'ils s'habituent au mécanisme du tapis roulant, à la vitesse, aux boutons et à la zone de jugement. |
 | ![](/wiki/shared/judgement/osu!mania/mania-hit100.png "100") | 100 | Frappe ou hold trop tôt ou trop tard. Il n'affecte pas du tout la barre de HP. |
