@@ -17,7 +17,7 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 - [Mudando o Artista ou Título](Changing_the_Artist_or_Title)
 - [Mudando o texto do Título](/wiki/Beatmap/Title_Text#changing-title-text)
 - [Informação de Collab](Collab_Information)
-- [Compactando Arquivos](Compressing_Files)
+- [Compactando Arquivos](Compressing_files)
 - [Biblioteca de Hitsound Customizado](Custom_Hitsound_Library)
 - [Sobreposição de Amostra Customizado](Custom_Sample_Overrides)
 - [Como Fazer o Timing de Músicas](How_to_Time_Songs)
@@ -25,7 +25,7 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 - [Guia de Mapping de osu!mania](osu!mania_Mapping_Guide)
 - [Pondo o Offset na Batida Correta](Setting_the_Offset_on_the_Correct_Beat)
 - [Começando um Projeto de Beatmap](Starting_a_Beatmap_Project)
-- [Vídeos do YouTube](Videos_from_Youtube)
+- [Vídeos do YouTube](Videos_from_YouTube)
 
 ## Modding
 
