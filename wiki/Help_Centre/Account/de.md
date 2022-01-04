@@ -27,7 +27,7 @@ tags:
 
 *Hauptseite: [Hilfecenter](/wiki/Help_Centre)*
 
-Alles, was mit deinem osu!-Account zu tun hat. Lies die unteren Abschnitte, ob es eine passende Lösung für dein Problem gibt.
+Alles, was mit deinem osu!-Account zu tun hat. Lies die unteren Abschnitte, um herauszufinden, ob es eine passende Lösung für dein Problem gibt.
 
 ## Supporter
 
@@ -57,7 +57,7 @@ Siehe *[Einschränkungen des Accounts](/wiki/Help_Centre/Account_Restrictions)* 
 
 ### Was ist eine Wettbewerbssperre?
 
-Wettbewerbssperren sind, wie der Name beschreibt, ein Verbot an der Teilnahme an allen offiziell unterstützten Wettbewerben.
+Wettbewerbssperren sind, wie der Name beschreibt, ein Verbot der Teilnahme an allen offiziell unterstützten Wettbewerben.
 
 Ein Benutzer kann eine Wettbewerbssperre für einen Bruch der osu!-Communityregeln während eines Turnierspiels bekommen, abhängig von dem Schweregrad des Verstoßes. Beispiele für solches Fehlverhalten sind unter anderem das Erlangen eines unfairen Vorteils in offiziell unterstützten Wettbewerben, jemanden beleidigen, der an einem Turnier teilnimmt, oder die absichtliche Störung des Turnierablaufs.
 
@@ -86,7 +86,7 @@ Wenn das erfolgreich ist, wirst du dein eigenes Passwort ohne die Hilfe der Supp
 
 Sofern das für dich nicht funktioniert, sende uns bitte sofort ein Support-Ticket an [accounts@ppy.sh](mailto:accounts@ppy.sh) mit so vielen identifizierenden Informationen wie möglich, die uns helfen werden, dich als Eigentümer deines Accounts zu ermitteln.
 
-Von deiner Registrierungs-E-Mail aus zu schreiben ist ein großer Bonus hier. Des Weiteren alle Informationen, die du uns geben kannst, die nur der Besitzer des Accounts weiß.
+Von deiner Registrierungs-E-Mail aus zu schreiben ist ein großer Bonus hier, ebenso wie alle weiteren Informationen, die du uns geben kannst, die nur der Besitzer des Accounts weiß.
 
 Bitte beziehe keine Replays oder Score-Daten in dein Ticket mit ein - wir können das nicht benutzen, um den Account als dein Eigentum zu verifizieren.
 
@@ -98,7 +98,7 @@ Es gibt ein paar Dinge, die du versuchen kannst, um das Problem zu lösen:
 
 #### Hast du dein Passwort korrekt eingegeben?
 
-Wenn du dein Passwort vergessen haben solltest, kannst du die [Seite zum Zurücksetzen des Passworts](https://osu.ppy.sh/home/password-reset) verwenden, um wieder an dein Account zu gelangen.
+Wenn du dein Passwort vergessen haben solltest, kannst du die [Seite zum Zurücksetzen des Passworts](https://osu.ppy.sh/home/password-reset) verwenden, um wieder an deinen Account zu gelangen.
 
 #### Benutzt du irgendwelche Proxy-Server oder VPNs?
 
@@ -108,7 +108,7 @@ Einige VPN-Anbieter und Proxy-Server erlauben die Arbeit mit osu! aus unerfindli
 
 ### Ich bekomme den Fehler immer noch!
 
-**Wir benötigen die Datei `network.log` von dir, um herauszufinden, was schiefläuft, falls keiner der obigen Lösungen funktionieren.**
+**Wir benötigen die Datei `network.log` von dir, um herauszufinden, was schiefläuft, falls keine der obigen Lösungen funktionieren.**
 
 Für Informationen, wie du die Datei `network.log` an uns senden kannst, siehe [Hilfecenter § Log-Dateien](/wiki/Help_Centre#log-dateien).
 
@@ -120,7 +120,7 @@ In seltenen Fällen musst du dich aufgrund dieser Probleme gegebenenfalls bei de
 
 Wenn dir das passiert, dann warte einfach eine Weile und versuche es später nochmal.
 
-Nach einigen Stunden im absoluten Maximum wird der Status für die meisten Leute gelöscht und sie können sich wieder einloggen.
+Nach maximal ein paar Stunden wird der Status für die meisten Leute gelöscht und sie können sich wieder einloggen.
 
 ### Ich erhalte keine E-Mails von osu!/Ich habe meine E-Mail vergessen!
 
@@ -149,25 +149,25 @@ Zuletzt sind wir uns bewusst, dass einige Dienstleister keine automatisierten E-
 
 Wenn du zu irgendeinem Zeitpunkt ein [Supporter-Tag](https://osu.ppy.sh/home/support) gekauft hast (oder es dir geschenkt wurde), wirst du deinen Nutzernamen **einmal** kostenlos ändern können. Diese Namensänderung kann auf der [osu!store](https://osu.ppy.sh/store/products/32)-Seite eingelöst werden.
 
-Zu jedem späteren Zeitpunkt kannst du dir eine [Namensänderung](https://osu.ppy.sh/store/products/32) kaufen, um deinen Benutzernamen deinem Wunsch nach zu ändern. Jedoch wird jede Änderung schrittweise teurer - die zweite kostet $8 USD, die dritte $16 USD, und so weiter, bis zu einer Höhe von $100 USD. Wir machen das, um Leute daran zu hindern, das System zu missbrauchen und ihren Namen in kurze Abständen zu ändern.
+Zu jedem späteren Zeitpunkt kannst du dir eine [Namensänderung](https://osu.ppy.sh/store/products/32) kaufen, um deinen Benutzernamen deinem Wunsch nach zu ändern. Jedoch wird jede Änderung schrittweise teurer - die zweite kostet $8 USD, die dritte $16 USD, und so weiter, bis zu einer Höhe von $100 USD. Wir machen das, um Leute daran zu hindern, das System zu missbrauchen und ihren Namen in kurzen Abständen zu ändern.
 
 Bitte beachte, dass Nutzernamen sich an unsere [Communityregeln](/wiki/Rules#communityregeln) in der Weise halten müssen, dass sich andere Nutzer nicht angegriffen fühlen dürfen, sowie, dass kein übermäßig provokantes oder hetzerisches Verhalten vorkommt. Des Weiteren sind Nutzernamen, die den Namen von Personen des öffentlichen Lebens ähneln (zum Beispiel Prominente, Politiker, etc.), nicht erlaubt und werden zwingend geändert, sobald wir davon Kenntnis nehmen.
 
-Enthält dein Nutzername nur geringfügige Grammatik-/Rechtschreibfehler, dann kannst du eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) senden und nach einer kostenlosen Namensänderung fragen, um diese Probleme zu lösen. Wir werden kein Geld für diese Namensänderung verlangen, aber du **MUSST** diese via der Support-E-Mail durchführen. Behalte im Auge, dass wir das nur einige begrenzte Male machen, also sei dir sicher, dass du die Änderung wirklich möchtest!
+Enthält dein Nutzername nur geringfügige Grammatik-/Rechtschreibfehler, dann kannst du eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) senden und nach einer kostenlosen Namensänderung fragen, um diese Probleme zu lösen. Wir werden kein Geld für diese Namensänderung verlangen, aber du **MUSST** diese via der Support-E-Mail durchführen. Bedenke, dass wir das nur einige begrenzte Male machen, also sei dir sicher, dass du die Änderung wirklich möchtest!
 
 ### Kann ich den Namen eines anderen Spielers annehmen?
 
 **Ja, aber nur unter bestimmten Umständen.**
 
-Wenn ein Spieler für mindestens 6 Monate nicht eingeloggt war und keine Plays hat, darf ihr Nutzername via der [Änderungsseite im osu!store](https://osu.ppy.sh/store/products/32) für die entsprechende Standardgebühr beansprucht werden.
+Wenn ein Spieler für mindestens 6 Monate nicht eingeloggt war und keine Plays hat, darf sein Nutzername via der [Änderungsseite im osu!store](https://osu.ppy.sh/store/products/32) für die entsprechende Standardgebühr beansprucht werden.
 
-Sofern dieser Spieler **tatsächlich** Plays in einer der Spielmodi hat, bestimmt eine [nicht-lineare Funktion](https://www.desmos.com/calculator/b89siyv9j8), wie viel zusätzliche Zeit zu den 6 Monaten hinzugefügt wird. Dadurch wird verhindert, dass Leute Nutzernamen von aktiven oder kürzlich zurückgetretenen Spielern stehlen.
+Sofern dieser Spieler **tatsächlich** Plays in einem der Spielmodi hat, bestimmt eine [nicht-lineare Funktion](https://www.desmos.com/calculator/b89siyv9j8), wie viel zusätzliche Zeit zu den 6 Monaten hinzugefügt wird. Dadurch wird verhindert, dass Leute Nutzernamen von aktiven oder kürzlich zurückgetretenen Spielern stehlen.
 
 ### Ist es möglich meinen Namen auf meinen alten Namen zurückzusetzen?
 
 **Ja, aber nur unter bestimmten Umständen.**
 
-Wir erlauben kostenlose Zurücksetzungen für die direkt vorherigen Namen eines Nutzers. Kontaktiere einfach [accounts@ppy.sh](mailto:accounts@ppy.sh) und fordere deine Namensänderung an.
+Wir erlauben kostenlose Zurücksetzungen für den direkten vorherigen Namen eines Nutzers. Kontaktiere einfach [accounts@ppy.sh](mailto:accounts@ppy.sh) und fordere deine Namensänderung an.
 
 Änderungen zu anderen vorherigen Namen müssen via [dem Shop gekauft werden](https://osu.ppy.sh/store/products/32).
 
@@ -195,7 +195,7 @@ Dein Profil wird alle deine vorher gekauften Namensänderungen anzeigen, aber wi
 
 Das mit deinem osu!-Profil verknüpfte Land basiert auf der geographischen Lage der Verbindung, die du benutzt hast, als du deinen Account registriert hast. Das Land wird deinem Account dauerhaft zugewiesen.
 
-In der Vergangenheit haben wir unseren Spieler die Möglichkeit gegeben, die Flagge ihres Accounts ändern zu können, sofern sie Beweise für ihren Aufenthalt liefern konnten. Nach etlichen Fällen von Missbrauch durch skrupellose Spieler hatten wir keine andere Wahl als dieses Angebot einzustellen.
+In der Vergangenheit haben wir unseren Spielern die Möglichkeit gegeben, die Flagge ihres Accounts ändern zu können, sofern sie Beweise für ihren Aufenthalt liefern konnten. Nach etlichen Fällen von Missbrauch durch skrupellose Spieler hatten wir keine andere Wahl als dieses Angebot einzustellen.
 
 Bitte habe Verständnis, dass wir dies unter keinen Umständen ändern können, ungeachtet der Leute, von denen du gehört hast oder die du kennst, bei denen es funktioniert hat.
 
@@ -239,6 +239,6 @@ Solltest du in einem öffentlichen Ort spielen, achte auf die Sicherheit deines 
 
 **Du kannst über die Webseite alle Maps einsehen, die du gespielt hast.**
 
-**Wenn du ein aktives Supporter-Tag besitzt**, kannst du alle Maps sehen, auf denen du ein Score erzielt hast. Dazu musst du auf die [beatmap-auflistung](https://osu.ppy.sh/beatmapsets) gehen, auf `Mehr Suchoptionen` klicken und dann den Filter `Gespielt` aktivieren. Alternativ kannst du auch [die gefilterte Liste an Beatmaps](https://osu.ppy.sh/beatmapsets?played=played) direkt abrufen.
+**Wenn du ein aktives Supporter-Tag besitzt**, kannst du alle Maps sehen, auf denen du einen Score erzielt hast. Dazu musst du auf die [beatmap-auflistung](https://osu.ppy.sh/beatmapsets) gehen, auf `Mehr Suchoptionen` klicken und dann den Filter `Gespielt` aktivieren. Alternativ kannst du auch [die gefilterte Liste an Beatmaps](https://osu.ppy.sh/beatmapsets?played=played) direkt abrufen.
 
-Leider können wir nicht speichern, welche Beatmaps ein Spieler heruntergeladen hat. Das heißt, es ist unmöglich davon eine Auflistung davon zu erhalten. Das nächste, wie du an das rankommen würdest, wäre die Benutzung des zuvor erwähnten Filters, um zumindest an die vorher gespielten Maps zu gelangen.
+Leider speichern wir nicht, welche Beatmaps ein Spieler heruntergeladen hat. Das heißt, es ist unmöglich davon eine Auflistung zu erhalten. Das nächste, wie du an das rankommen würdest, wäre die Benutzung des zuvor erwähnten Filters, um zumindest an die vorher gespielten Maps zu gelangen.
