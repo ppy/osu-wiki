@@ -142,7 +142,7 @@ Go to the point where the BPM changes, press F6 to open the Timing panel, add an
 
 #### Timing Setup Panel
 
-![Timing Setup](/wiki/Beatmap_Editor/Timing/img/TimingSetup.png "Timing Setup")
+![Timing Setup](/wiki/shared/timing/TimingSetup.png "Timing Setup")
 
 | Name | Description |
 | :-- | :-- |
