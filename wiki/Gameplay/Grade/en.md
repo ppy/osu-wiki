@@ -1,5 +1,6 @@
 ---
 tags:
+  - letter grade
   - rank
   - silver s
   - sh
