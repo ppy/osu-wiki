@@ -35,7 +35,7 @@ Di samping empat komponen utama di atas, Beatmap Editor juga memiliki komponen-k
 
 - [AiMod](AiMod): Sebuah sistem otomatis yang memuat laporan pada sebuah beatmap jika terjadi kesalahan.
 - [Beat snap divisor](Beat_Snap_Divisor): Menentukan pada ketukan berapa sebuah hit object akan ditempatkan.
-- [Distance snap](Distance_Snap): Menentukan jarak penempatan standar antar satu hit object dengan hit object lainnya.
+- [Distance snap](Distance_snap): Menentukan jarak penempatan standar antar satu hit object dengan hit object lainnya.
 - [Kiai time](/wiki/Kiai_time): Timing section khusus yang dapat digunakan untuk memberikan penekanan tambahan pada bagian-bagian beatmap tertentu.
 - [Menu](Menu): Membantu kamu untuk memberikan petunjuk dalam Beatmap Editor.
 - [SB load](SB_Load): Sebuah angka yang digunakan untuk memberitahu seberapa beratnya storyboard.

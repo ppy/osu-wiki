@@ -37,7 +37,7 @@ Beatmap düzenleyicinin diğer kısımlarına şunlar dahildir:
 
 - [AiMod](AiMod): Bir beatmaptaki hataları otomatik olarak bildiren bir sistem
 - [Nota ızgara bölücü](Beat_Snap_Divisor): Zaman çizelgesine vuruşların nasıl yerleştirileceğine karar verir
-- [Mesafe aralığı](Distance_Snap): Objelerin ne kadar yakın ve ya uzak olduğunu ayarlayan çarpan
+- [Mesafe aralığı](Distance_snap): Objelerin ne kadar yakın ve ya uzak olduğunu ayarlayan çarpan
 - [Kiai zamanı](/wiki/Kiai_time): Beatmapin bir kısmını vurgulamak için kullanılan özel zamanlama kısmı
 - [Menü](Menu): Düzenleyicide gezinmenize yardımcı olur
 - [SB yükü](SB_Load): Storyboard'un ne kadar kaynak gerektirdiğini gösterir

@@ -17,6 +17,6 @@ outdated: true
 
 - [Mapowanie](/wiki/Beatmapping) (podstawy mapowania)
 - [Podziałka czasowa](Beat_Snap_Divisor)
-- [Odległość pomiędzy obiektami](Distance_Snap)
+- [Odległość pomiędzy obiektami](Distance_snap)
 - [Własne paczki dźwięków](/wiki/Guides/Custom_Sample_Overrides)
 - [Czas Kiai](/wiki/Kiai_time)

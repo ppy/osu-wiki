@@ -17,6 +17,6 @@ Der **Beatmap Editor** ist osu!s grafisches Ingame-Interface zum Erstellen von [
 
 - [Beatmapping](/wiki/Beatmapping) (Grundladen zum Mapping)
 - [Beat Snap Divisor](Beat_Snap_Divisor)
-- [Distance Snap](Distance_Snap)
+- [Distance Snap](Distance_snap)
 - [Custom Sample Overrides](/wiki/Guides/Custom_Sample_Overrides)
 - [Kiai Time](/wiki/Kiai_time)

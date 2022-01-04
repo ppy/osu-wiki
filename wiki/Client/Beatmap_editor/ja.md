@@ -37,7 +37,7 @@
 
 - [AiMod](AiMod): ビートマップの問題点を報告する自動システム
 - [Beat snap divisor](Beat_Snap_Divisor): オブジェクトのタイムラインへのスナップを決定する
-- [Distance snap](Distance_Snap): ヒットしたオブジェクトの近さや遠さに影響を与える乗数
+- [Distance snap](Distance_snap): ヒットしたオブジェクトの近さや遠さに影響を与える乗数
 - [気合いタイム](/wiki/Kiai_time): ビートマップの一部分を強調するための特別なタイミングセクション
 - [メニュー](Menu): ビートマップエディターの操作をサポート
 - [SB load](SB_Load): ストーリーボードの負荷の大きさを示す数値
