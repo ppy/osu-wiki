@@ -20,7 +20,7 @@ Ces raccourcis fonctionnent partout :
 
 | Raccourci | Action |
 | :-- | :-- |
-| `Alt` + `F4` | Ferme le client (sans confirmation). Si vous êtes dans en jeu, dans l'éditeur de beatmaps ou dans osu!direct, revient à la sélection des beatmaps ou au menu principal (pour osu!direct). |
+| `Alt` + `F4` | Ferme le client (sans confirmation). Si vous êtes en jeu, dans l'éditeur de beatmaps ou dans osu!direct, revient à la sélection des beatmaps ou au menu principal (pour osu!direct). |
 | `Alt` + `Up/Down Arrow` | Règle le volume principal, utilisez les flèches gauche et droite pour régler les volumes des effets et de la musique. |
 | `Ctrl` + `Alt` + `Shift` + `S` | Recharge le skin actuel. Si vous appuyez sur cette touche en jeu, ou sur l'écran des résultats, elle sera exécutée après le retour à l'écran de sélection des beatmaps. |
 | `Ctrl` + `F11` | Active/Désactive le graphique des temps de trame. Appuyez sur `Ctrl` pour le mettre en pause. |
