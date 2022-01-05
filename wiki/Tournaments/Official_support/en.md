@@ -2,7 +2,7 @@
 
 The [osu! team](/wiki/People/The_Team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on January 5, 2022. For any queries and clarifications, please consult #tournaments on the [osu!dev Discord Server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on January 5, 2022. For any queries and clarifications, please consult the `#tournaments` channel on the [osu!dev Discord server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -11,7 +11,6 @@ Officially supported tournaments have access to:
 - A dedicated [screening process](#tournament-screening) to prevent players with serious integrity infringements (cheating, multi-accounting, tournament bans) from playing.
 - [Profile badge prizes](#profile-badges) for first-place winners.
 - Assessment for a [main-menu banner advertisement](#requesting-main-menu-banner-support) during major matches, subject to availability and criteria.
-
 
 ## Eligibility
 
@@ -23,7 +22,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - Staff members must not participate in the tournament themselves at any point, and registered players are unable to later assist as staff either. For our definition on "staff", please refer to the [FAQ](#what-is-considered-staff).
 - The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
-  - This report form is overseen by the Tournament Committee. We encourage all users—participants and staff alike to make use of this form where necessary. 
+  - This report form is overseen by the Tournament Committee. We encourage all users—participants and staff alike—to make use of this form where necessary. 
 
 **¹**: An "experienced" team member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of the osu! World Cup team. This may vary at the discretion of the account support team.
 
@@ -35,10 +34,10 @@ You may be required to postpone the start of your tournament during periods of h
 
 If your tournament satisfies the [eligibility criteria](#eligibility), you can make a request for support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) with the following information:
 
-- A brief description of your tournament, including any applicable dates, gamemode, and any other appropriate features
+- A brief description of your tournament, including any applicable dates, game modes, and any other appropriate features
 - Any links to:
   - The forum thread located under the [Tournaments forum](https://osu.ppy.sh/community/forums/55) that announces/details your tournament.
-    - For regional tournaments, the thread may be created in the appropriate Language subforum.
+    - For regional tournaments, the thread may be created in the appropriate language subforum.
   - Public Discord servers or any other off-site chatrooms used for the event.
   - Previous iterations of the same tournament series (only where applicable).
 - Separate lists for:
@@ -155,7 +154,7 @@ If you satisfy the above criteria, you may make a request for main-menu banner s
 - The submitted file must be a **PNG**.
 - The dimensions must be **1500x256px**.
   - All banner images will be treated as `2x`, meaning that they will be exported at 50% scale by us into a `1x` image. Design your images appropriately to ensure things are legible at half size.
-- It must clearly display the logo, motif AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
+- It must clearly display the logo, motif, AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
 - It must be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
 - It must not include any sort of sponsorship or promote anything besides the tournament.
 
