@@ -292,4 +292,4 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 | `Shift` tout en ajustant le BPM ou le décalage | Incrémente 5 fois le montant normal. |
 | `Ctrl` tout en ajustant le BPM | Incrémente de 0,25. |
 | `Ctrl` tout en ajustant l'offset | Incrémente de 1. |
-| `Ctrl` tout en ajustant le slider velocity | Incrémente de 0.1. |
+| `Ctrl` tout en ajustant le slider velocity | Incrémente de 0,1. |
