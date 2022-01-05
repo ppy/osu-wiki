@@ -18,7 +18,7 @@ No esta limitado solo al interior del juego, también se usa en otros lugares co
 
 Uso: `!report usuario [razón]`
 
-Los parámetros dentro de **[** y **]** son opcionales.
+Los parámetros dentro de **\[** y **\]** son opcionales.
 
 Si el usuario tiene un espacio en su nombre de usuario, debe ser reemplazado por un guion bajo `_` porque el chat de osu! dentro del juego esta basado en [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)").
 

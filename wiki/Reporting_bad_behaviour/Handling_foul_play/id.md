@@ -43,7 +43,7 @@ Maaf, tapi jika kamu telah dibanned, mereka telah 100% yakin bahwa kamu telah be
 
 Catatan: *Penggunaan perintah !report harus menggunakan bahasa Inggris agar para moderator mengerti laporan yang kamu berikan*
 
-Bantuanmu dalam memberantas perbuatan curang sangat diapresiasi. Kamu juga dapat mengirim surel secara langsung ke osu@ppy.sh untuk respon yang cukup cepat.
+Bantuanmu dalam memberantas perbuatan curang sangat diapresiasi. Kamu juga dapat mengirim surel secara langsung ke [osu@ppy.sh](mailto:osu@ppy.sh) untuk respon yang cukup cepat.
 
 ## Apakah menggunakan perangkat keras yang dispesialisasikan dihitung sebagai berbuat curang?
 
@@ -63,7 +63,7 @@ Nyatanya, ini sulit untuk mengawasi kecuali kami berdiri tepat di sampingmu, tap
 
 ## Bagaimana cara saya mengajukan sebuah pelepasan status banned?
 
-1. Kirimkan surelmu ke *accounts@ppy.sh* dengan judul Ban Appeal: \<username\>
+1. Kirimkan surelmu ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan judul Ban Appeal: \<username\>
 2. Sertakan nama penggunamu ke tiket dan nyatakan bahwa kamu berharap status bannedmu dicabut.
 3. Waktu tunggu hingga **lima** hari. Jika kamu membuat sebuah pengajuan dan ditolak, segala pengajuan ke depannya akan ditolak.
 

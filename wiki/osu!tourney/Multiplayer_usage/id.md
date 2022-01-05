@@ -1,6 +1,6 @@
 # Penggunaan Untuk Multiplayer
 
-_Halaman utama: [osu!tourney](/wiki/osu!tourney)_
+*Halaman utama: [osu!tourney](/wiki/osu!tourney)*
 
 ## Pembuatan Match
 
@@ -18,7 +18,7 @@ Nama-nama tim (`Nama Tim 1` dan `Nama Tim 2`) dapat diganti sesuai keinginan, **
 
 ### Perintah Pengelolaan Klien Turnamen
 
-_Lihat juga: [Perintah Pengelolaan Klien Turnamen](/wiki/osu!tourney/Tournament_Management_Commands "Perintah Pengelolaan Klien Turnamen")_
+*Lihat juga: [Perintah Pengelolaan Klien Turnamen](/wiki/osu!tourney/Tournament_Management_Commands "Perintah Pengelolaan Klien Turnamen")*
 
 Pastikan untuk memberikan slot yang benar untuk pemain yang bergabung ke ruangan dengan menggunakan perintah `!mp move` dan`!mp team`.
 

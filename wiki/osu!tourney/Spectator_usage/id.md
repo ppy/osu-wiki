@@ -1,6 +1,6 @@
 # Penggunaan Untuk Spektator
 
-_Halaman utama: [osu!tourney](/wiki/osu!tourney)_
+*Halaman utama: [osu!tourney](/wiki/osu!tourney)*
 
 ![antarmuka osu!tourney](img/Osutourneymain.png "Antarmuka Dasar klien osu!tourney")
 

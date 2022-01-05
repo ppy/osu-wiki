@@ -1,6 +1,6 @@
 # Pemasangan
 
-_Halaman utama: [osu!tourney](/wiki/osu!tourney)_
+*Halaman utama: [osu!tourney](/wiki/osu!tourney)*
 
 **Catatan:** Saat ini supporter tag yang aktif diperlukan untuk menjalankan klien osu!tourney.
 

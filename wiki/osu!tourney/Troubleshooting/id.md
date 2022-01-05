@@ -1,6 +1,6 @@
 # Penyelesaian Masalah
 
-_Halaman utama: [osu!tourney](/wiki/osu!tourney)_
+*Halaman utama: [osu!tourney](/wiki/osu!tourney)*
 
 ## Bagaimana cara membuat klien osu! baru tanpa menghapus klien yang ada?
 
@@ -38,6 +38,7 @@ Ada kemungkinan bahwa ruangan anda salah penamaannya atau anda menggunakan akron
 Pastikan ruangan diberi nama dengan benar mengikuti [panduan penggunaan untuk multiplayer](/wiki/osu!tourney/Multiplayer_Usage) dengan seksama.
 
 ## Nama-nama tim tidak muncul!
+
 Lihat jawaban sebelumnya.
 
 ## Bagaimana cara menyiarkan turnamen saya ke layanan streaming seperti Twitch?

@@ -1,6 +1,6 @@
 # Diagnostic
 
-_Page principale: [osu!tourney](/wiki/osu!tourney)_
+*Page principale: [osu!tourney](/wiki/osu!tourney)*
 
 ## Comment créer un nouvelle installation d'osu! sans désinstaller le jeu actuel ?
 
