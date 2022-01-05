@@ -20,7 +20,7 @@ Cette page répertorie les moyens par lesquels les utilisateurs de tout le site 
 
 ## Initiatives
 
-- [osu! community meetings](/wiki/Community/osu!_Community_Meetings)
+- [osu! community meetings](/wiki/Community/osu!_community_meetings)
 - [Séries vidéo](/wiki/Community/Video_series)
   - [osu!academy](/wiki/Community/Video_series/osu!academy)
   - [osu!mapping](/wiki/Community/Video_series/osu!mapping)

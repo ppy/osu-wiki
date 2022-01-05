@@ -33,7 +33,7 @@ jobs:
 
           # set up sparse checkout
           git sparse-checkout init
-          git sparse-checkout set '**/*.md' '**/.remark*' '**/*.json' '**/*.yaml' '.github/scripts'
+          git sparse-checkout set '**/*.md' '**/.remark*' '**/*.json' '**/*.yaml' '.github/scripts' 'wiki/**/*'
 
           # fetch the merge commit ref
           git -c protocol.version=2 fetch --no-tags --prune --progress --depth=2 origin +${GITHUB_SHA}:refs/remotes/origin/${BRANCH}
@@ -88,6 +88,11 @@ jobs:
         run: |
           pip install yamllint
           python .github/scripts/ci/run_yamllint.py --config .yamllint.yaml
+
+      - name: find broken wikilinks
+        run: |
+          ARTICLES=$( git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} "wiki/**/*.md" "news/*.md" )
+          python .github/scripts/ci/find_broken_wikilinks.py --target $ARTICLES
 
       - name: check if translations are marked as outdated
         shell: bash
