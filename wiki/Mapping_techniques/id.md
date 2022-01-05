@@ -9,7 +9,7 @@ Banyak mapper-mapper hebat yang mempertajam keahliannya dengan cara meniru tekni
 Berikut beberapa tautan yang menuju ke teknik-teknik mapping yang biasa digunakan oleh para mapper.
 Jika ingin, kamu juga bisa mendapatkan sekumpulan teknik mapping di artikel [Dasar teknik-teknik mapping](Basics).
 
-Jika kamu ingin mengetahui cara membuat slider yang bagus, kunjungi artikel [Membuat Slider yang Bagus](Making_Good_Sliders).
+Jika kamu ingin mengetahui cara membuat slider yang bagus, kunjungi artikel [Membuat Slider yang Bagus](Making_good_sliders).
 
 ## Daftar Teknik Mapping
 

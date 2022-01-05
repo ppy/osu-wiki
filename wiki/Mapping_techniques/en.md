@@ -1,23 +1,23 @@
 # Mapping techniques
 
-Mapping Techniques are methods of hit object placements/patterns that are widely used by known beatmappers in their maps.
+Mapping techniques are methods of hit object placements/patterns that are widely used by known beatmappers in their maps.
 
 These pages are here as a beginner's guide to help explain how to do such techniques until you have developed your own mapping style.
 For starters, it is recommended to observe and copy these mapping techniques from experienced mappers while allowing your creativity flow freely little-by-little.
 Many great mappers have sharpened their skills at first by imitating others they admired, so there is no shame in doing that yourself.
 
 Below are links to the some of the well known mapping techniques widely used by mappers.
-If need be, you could also get a gist of mapping techniques at [Mapping Techniques/Basics](Basics/).
+If need be, you could also get a gist of mapping techniques at [Mapping techniques/Basics](Basics/).
 
-If you want to know how to make good sliders, see [Making Good Sliders](Making_Good_Sliders).
+If you want to know how to make good sliders, see [Making Good Sliders](Making_good_sliders).
 
-## List of Mapping Techniques
+## List of mapping techniques
 
 <!-- please place all mapping techniques in alphabetical order -->
 
 ### Formations
 
-*Main page: [Mapping Techniques/Formations](Formations)*
+*Main page: [Mapping techniques/Formations](Formations)*
 
 #### Creative
 
@@ -44,7 +44,7 @@ If you want to know how to make good sliders, see [Making Good Sliders](Making_G
 
 ### Jumps
 
-*Main page: [Mapping Techniques/Jumps](Jumps)*
+*Main page: [Mapping techniques/Jumps](Jumps)*
 
 #### Hit Circle
 
@@ -62,7 +62,7 @@ If you want to know how to make good sliders, see [Making Good Sliders](Making_G
 
 ### Rhythm
 
-*Main page: [Mapping Techniques/Rhythm](Rhythm)*
+*Main page: [Mapping techniques/Rhythm](Rhythm)*
 
 #### Spacing
 
@@ -93,7 +93,7 @@ If you want to know how to make good sliders, see [Making Good Sliders](Making_G
 
 ### Spinners
 
-*Main page: [Mapping Techniques/Spinners](Spinners)*
+*Main page: [Mapping techniques/Spinners](Spinners)*
 
 #### Additional Effects
 
@@ -108,7 +108,7 @@ If you want to know how to make good sliders, see [Making Good Sliders](Making_G
 
 ### Sliders
 
-*Main page: [Mapping Techniques/Sliders](Sliders)*
+*Main page: [Mapping techniques/Sliders](Sliders)*
 
 #### Patterns
 
@@ -142,7 +142,7 @@ If you want to know how to make good sliders, see [Making Good Sliders](Making_G
 
 ### Unrankable
 
-*Main page: [Mapping Techniques/Unrankable](Unrankable)*
+*Main page: [Mapping techniques/Unrankable](Unrankable)*
 
 - [Burai Sliders](Unrankable#burai-sliders)
 - [Hold Sliders](Unrankable#hold-sliders)

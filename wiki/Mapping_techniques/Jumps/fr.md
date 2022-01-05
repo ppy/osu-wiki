@@ -1,6 +1,6 @@
 # Techniques de mapping pour les jumps
 
-*Voir [Techniques de mapping/Basique](/wiki/Mapping_Techniques/Basics#jumps) pour une description des jumps.*
+*Voir [Techniques de mapping/Basique](/wiki/Mapping_techniques/Basics#jumps) pour une description des jumps.*
 
 ## Cercles
 
@@ -41,7 +41,7 @@ Les **oibon jumps** sont des sauts du côté gauche de l'écran vers le côté d
 
 Nominateur : [Blue Dragon](https://osu.ppy.sh/users/19048)
 
-Le **b&f sliderbased jumps** consiste à faire un [back and forth](/wiki/Mapping_Techniques/Rhythm#back-and-forth-beats) jump (ou triangle) en utilisant le slider comme base pour le jump.
+Le **b&f sliderbased jumps** consiste à faire un [back and forth](/wiki/Mapping_techniques/Rhythm#back-and-forth-beats) jump (ou triangle) en utilisant le slider comme base pour le jump.
 
 ### Endpoint Slider Jumps
 

@@ -11,7 +11,7 @@ Accidental reports are ignored. Users who deliberately send invalid reports can 
 | Offensive private messages | **None**: [ignore the user](/wiki/Chat_Console#commands-list) instead. For permanent effect, use the in-game ignore list located in [options](/wiki/Options). |
 | Infringements related to modding and/or mapping | NAT, via the [NAT/BN Management](https://bn.mappersguild.com/reports) website |
 | Inappropriate conduct from a [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) or [GMT](/wiki/People/The_Team/Global_Moderation_Team) member | [Account support team](/wiki/People/The_Team/Account_support_team) at [support@ppy.sh](mailto:support@ppy.sh) |
-| Sexual abuse or extreme misbehaviour | Refer to [Reporting Abuse](/wiki/Reporting_Bad_Behaviour/Abuse) |
+| Sexual abuse or extreme misbehaviour | Refer to [Reporting Abuse](/wiki/Reporting_bad_behaviour/Abuse) |
 
 For anything else, see instructions below.
 

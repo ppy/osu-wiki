@@ -9,11 +9,11 @@ Setiap jendela osu! ditetapkan untuk satu slot di ruangan.
 
 ![Pemain ditempatkan ke jendela berdasarkan slotnya di ruangan](img/Osutourneywindows.png "Pemain ditempatkan ke jendela berdasarkan slotnya di ruangan")
 
-Para pemain harus menempati slot yang sesuai di ruangan agar klien dapat bekerja dengan benar. Informasi lebih lanjut dapat ditemukan di [panduan penggunaan untuk multiplayer](/wiki/osu!tourney/Multiplayer_Usage).
+Para pemain harus menempati slot yang sesuai di ruangan agar klien dapat bekerja dengan benar. Informasi lebih lanjut dapat ditemukan di [panduan penggunaan untuk multiplayer](/wiki/osu!tourney/Multiplayer_usage).
 
 ![panel kendali osu!tourney](img/Osutourneypanel.png "panel kendali osu!tourney")
 
-Panel kendali ditampilkan di bagian bawah klien. Secara standar panel ini menampilkan format penamaan yang diperlukan untuk ruangan supaya dapat muncul di panel kendali. Informasi lebih lanjut dapat ditemukan di [panduan penggunaan untuk multiplayer](/wiki/osu!tourney/Multiplayer_Usage).
+Panel kendali ditampilkan di bagian bawah klien. Secara standar panel ini menampilkan format penamaan yang diperlukan untuk ruangan supaya dapat muncul di panel kendali. Informasi lebih lanjut dapat ditemukan di [panduan penggunaan untuk multiplayer](/wiki/osu!tourney/Multiplayer_usage).
 
 Fungsi masing-masing tombol dijelaskan di bawah ini:
 

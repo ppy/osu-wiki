@@ -99,7 +99,7 @@ After the "circle" is completed, a few more hit circles are placed to go straigh
 
 ## Symmetrical Shapes
 
-*See [Mapping Techniques/Basics](/wiki/Mapping_Techniques/Basics#symmetry) for a description on symmetry.*
+*See [Mapping techniques/Basics](/wiki/Mapping_techniques/Basics#symmetry) for a description on symmetry.*
 
 ### Circle Formation
 

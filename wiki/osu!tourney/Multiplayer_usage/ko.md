@@ -16,11 +16,11 @@
 
 ### 토너먼트 관리 명령어
 
-*메인 페이지: [토너먼트 관리 명령어](/wiki/osu!tourney/Tournament_Management_Commands "Tournament Management Commands")*
+*메인 페이지: [토너먼트 관리 명령어](/wiki/osu!tourney/Tournament_management_commands "Tournament management commands")*
 
 알맞는 플레이어에게 알맞는 슬롯을 배정하기 위해 `!mp move` 와 `!mp team` 명령어를 활용하세요.
 
-[관전자용 가이드](/wiki/osu!tourney/Spectator_Usage) 에서 설명했던 바와 같이, 각 클라이언트의 윈도우는 슬롯의 번호대로 지정됩니다. `tournament.cfg` 파일 내의 `TeamSize` 항목을 알맞게 수정하였다면, 블루팀은 `TeamSize` 개 만큼의 슬롯을 차지하며 레드팀은 하단 `TeamSize` 개 만큼의 슬롯을 차지합니다.
+[관전자용 가이드](/wiki/osu!tourney/Spectator_usage) 에서 설명했던 바와 같이, 각 클라이언트의 윈도우는 슬롯의 번호대로 지정됩니다. `tournament.cfg` 파일 내의 `TeamSize` 항목을 알맞게 수정하였다면, 블루팀은 `TeamSize` 개 만큼의 슬롯을 차지하며 레드팀은 하단 `TeamSize` 개 만큼의 슬롯을 차지합니다.
 
 예를 들어 `TeamSize = 4` 라면, 첫째부터 넷째 슬롯까지를 블루팀이 사용하며, 다섯째부터 여덟째 슬롯까지를 레드팀이 사용합니다. `TeamSize = 3` 이라면, 첫째부터 셋째 슬롯 까지를 블루팀이, 넷째부터 여섯째 슬롯까지를 레드팀이 사용합니다.
 

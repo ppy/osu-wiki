@@ -1,6 +1,6 @@
 # 应对作弊行为
 
-*主页面：[举报不当行为](/wiki/Reporting_Bad_Behaviour).*
+*主页面：[举报不当行为](/wiki/Reporting_bad_behaviour).*
 
 ## 为什么我被限制（restricted）了？
 

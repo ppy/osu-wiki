@@ -41,6 +41,6 @@ Il s'agit d'un spinner qui est le dernier objet d'une beatmap.
 
 ### Short Spinners
 
-*À ne pas confondre avec un [Ninja Spinner](/wiki/Mapping_Techniques/Unrankable#ninja-spinners).*
+*À ne pas confondre avec un [Ninja Spinner](/wiki/Mapping_techniques/Unrankable#ninja-spinners).*
 
 ¯\\\_(ツ)\_/¯

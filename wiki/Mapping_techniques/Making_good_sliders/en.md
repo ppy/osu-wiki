@@ -48,7 +48,7 @@ Disable grid snap and move them both in by a tiny bit at a time until the slider
 
 ## Beat Blankets
 
-*Main page: [Blanket Combos](/wiki/Mapping_Techniques/Formations#blanket-combos)*
+*Main page: [Blanket Combos](/wiki/Mapping_techniques/Formations#blanket-combos)*
 
 ![Image example of beat blankets (with hit circle)](img/MGS_blankets.png)
 

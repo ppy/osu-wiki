@@ -17,13 +17,13 @@ The team names (`Team Name 1` and `Team Name 2`) can be replaced with any team n
 
 ## Room management
 
-### Tournament Management Commands
+### Tournament management commands
 
-*Main page: [Tournament Management Commands](/wiki/osu!tourney/Tournament_Management_Commands)*
+*Main page: [Tournament management commands](/wiki/osu!tourney/Tournament_management_commands)*
 
 Make sure to assign the correct slots to the players joining the room using the `!mp move` and `!mp team` commands.
 
-As explained in the [spectator usage guide](/wiki/osu!tourney/Spectator_Usage), each window in the client is assigned to a slot in the multiplayer lobby. After properly setting the value of `TeamSize` in the `tournament.cfg` file, the blue team will occupy the first `TeamSize` number of slots slots and the red team will occupy the `TeamSize` number of slots below those.
+As explained in the [spectator usage guide](/wiki/osu!tourney/Spectator_usage), each window in the client is assigned to a slot in the multiplayer lobby. After properly setting the value of `TeamSize` in the `tournament.cfg` file, the blue team will occupy the first `TeamSize` number of slots slots and the red team will occupy the `TeamSize` number of slots below those.
 
 For example, with `TeamSize = 4`, the 1st, 2nd, 3rd and 4th slots will belong to the blue team, and the 5th, 6th, 7th and 8th slots will belong to the red team. With `TeamSize = 3`, the 1st, 2nd and 3rd slots will belong to the blue team, and the 4th, 5th and 6th slots will belong to the red team.
 

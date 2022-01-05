@@ -15,11 +15,11 @@
 
 ### トーナメント管理コマンド
 
-*メインページ: [トーナメント管理コマンド](/wiki/osu!tourney/Tournament_Management_Commands)*
+*メインページ: [トーナメント管理コマンド](/wiki/osu!tourney/Tournament_management_commands)*
 
 ルームに参加するプレイヤーには、`!mp move`と`!mp team`コマンドを使って、正しいスロットを割り当てるようにしてください。
 
-[観戦のやり方ガイド](/wiki/osu!tourney/Spectator_Usage)で説明されているように、クライアントの各ウィンドウはマルチプレイヤーロビーのスロットに割り当てられています。`tournament.cfg`ファイルで`TeamSize`の値を適切に設定した後、青チームは最初の`TeamSize`数のスロットを占有し、赤チームはその下の`TeamSize`数のスロットを占有します。
+[観戦のやり方ガイド](/wiki/osu!tourney/Spectator_usage)で説明されているように、クライアントの各ウィンドウはマルチプレイヤーロビーのスロットに割り当てられています。`tournament.cfg`ファイルで`TeamSize`の値を適切に設定した後、青チームは最初の`TeamSize`数のスロットを占有し、赤チームはその下の`TeamSize`数のスロットを占有します。
 
 例えば、`TeamSize = 4`の場合、1、2、3、4番目のスロットが青チームに、5、6、7、8番目のスロットが赤チームに属することになります。`TeamSize = 3`では、1、2、3枠が青チームに、4、5、6枠が赤チームに属することになります。
 

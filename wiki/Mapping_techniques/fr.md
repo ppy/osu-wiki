@@ -7,7 +7,7 @@ Ces pages sont un guide pour les débutants, pour leurs expliquer comment réali
 Vous trouverez ci-dessous des liens vers certaines techniques de mapping connues, et toutes largement utilisées par les mappers.
 Si nécessaire, vous pourriez également obtenir un essentiel des techniques de mapping sur l'article [techniques de mapping/Notions de base](Basics/).
 
-Si vous voulez savoir comment faire de bons sliders, voir [Faire de bons sliders](Making_Good_Sliders).
+Si vous voulez savoir comment faire de bons sliders, voir [Faire de bons sliders](Making_good_sliders).
 
 ## Liste des Techniques de mapping
 

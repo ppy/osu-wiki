@@ -16,11 +16,11 @@ Os nomes dos times (`Nome do Time 1` e `Nome do Time 2`) podem ser substituídos
 
 ### Comandos de gerenciamento de torneio
 
-*Página principal: [Comandos de gerenciamento de torneio](/wiki/osu!tourney/Tournament_Management_Commands)*
+*Página principal: [Comandos de gerenciamento de torneio](/wiki/osu!tourney/Tournament_management_commands)*
 
 Tenha certeza de atribuir os *slots* corretos para os jogadores utilizando os comandos `!mp move` e `!mp team`.
 
-Como explicado no [guia de utilização do espectador](/wiki/osu!tourney/Spectator_Usage), cada janela do cliente é atribuída a um *slot* da sala *multiplayer*. Depois de definir o valor de `TeamSize` no arquivo `tournament.cfg`, o time azul ocupará os primeiros *slots* e o time vermelho ocupará os outros.
+Como explicado no [guia de utilização do espectador](/wiki/osu!tourney/Spectator_usage), cada janela do cliente é atribuída a um *slot* da sala *multiplayer*. Depois de definir o valor de `TeamSize` no arquivo `tournament.cfg`, o time azul ocupará os primeiros *slots* e o time vermelho ocupará os outros.
 
 Por exemplo, com `TeamSize = 4`, o primeiro, segundo, terceiro e quarto *slots* serão do time azul, e o quinto, sexto, sétimo e oitavo *slots* serão do time vermelho. Com `TeamSize = 3`, o primeiro, segundo e terceiro *slots* serão do time azul e o quarto, quinto e sexto *slots* serão do time vermelho.
 

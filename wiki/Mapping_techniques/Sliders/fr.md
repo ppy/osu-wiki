@@ -1,6 +1,6 @@
 # Techniques de mapping pour les sliders
 
-*Voir aussi : [Réaliser de bons sliders](/wiki/Mapping_Techniques/Making_Good_Sliders)*
+*Voir aussi : [Réaliser de bons sliders](/wiki/Mapping_techniques/Making_good_sliders)*
 
 ## Patterns
 
@@ -22,8 +22,8 @@ Nominateur : [Lizzy](https://osu.ppy.sh/users/1394757)
 Le **introverted flow** est (traduit littéralement du latin) "dirigé vers l'intérieur".
 Cela peut être vu comme :
 
-- une forte chute de flow d'un arc à un autre qui parfois [blankets](/wiki/Mapping_Techniques/Formations#blanket-combos) le début du précédent.
-- une chute moins prononcée qui fait du premier arc [blanket](/wiki/Mapping_Techniques/Formations#blanket-combos) la fin du second, avec ou sans cercles entre les deux.
+- une forte chute de flow d'un arc à un autre qui parfois [blankets](/wiki/Mapping_techniques/Formations#blanket-combos) le début du précédent.
+- une chute moins prononcée qui fait du premier arc [blanket](/wiki/Mapping_techniques/Formations#blanket-combos) la fin du second, avec ou sans cercles entre les deux.
 
 ### Mirrored Sliders
 
@@ -49,7 +49,7 @@ Ils sont généralement réalisés avec des [Etna sliders](#etna-sliders), mais 
 
 *Aussi connu sous le nom de : **Kick Slider***
 
-*À ne pas confondre avec les [Hold Sliders](/wiki/Mapping_Techniques/Unrankable#hold-sliders).*
+*À ne pas confondre avec les [Hold Sliders](/wiki/Mapping_techniques/Unrankable#hold-sliders).*
 
 Nominateur : [kingcobra52](https://osu.ppy.sh/users/9934)
 
