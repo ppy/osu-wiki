@@ -11,7 +11,7 @@ Unten findet sich eine Liste an Tutorials, die von Mitgliedern der osu!-Communit
 - [Ratgeber für das Bearbeiten von Audio](Audio_Editing)
 - [Den Titeltext ändern](/wiki/Beatmap/Title_Text#changing-title-text)
 - [Dateien komprimieren](Compressing_files)
-- [Eigene Bibliothek für Hitsounds](Custom_Hitsound_Library)
+- [Bibliothek für selbst erstellte Hitsounds](Custom_Hitsound_Library)
 - [Benutzerdefinierte Überschreibung von Audiosamples](Custom_Sample_Overrides)
 - [Wie man den Künstler oder Titel einer Map ändert](Changing_the_Artist_or_Title)
 - [Wie man Probleme mit dem BSS löst](BSS_Issues)

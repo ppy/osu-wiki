@@ -18,7 +18,7 @@ Dieses Tutorial ist gedacht für alle, die **keine** Videos außerhalb von YouTu
 
 ## Benutzung von Online-Tools
 
-[YouTube to Mp3](https://ytmp3.cc) ist ein Dienst, um YouTube-Videos online zu konvertieren. Den Service zu benutzen, ist dabei sehr simpel: Als erstes musst du den Link zu deinem gewünschten YouTube-Video in das Textfeld kopieren. Wähle dann `mp4` und drücke auf `Convert`. Im Anschluss kannst du auf `Download` klicken und die Datei herunterladen, sobald der Download abgeschlossen wurde.
+[YouTube to Mp3](https://ytmp3.cc) ist ein Dienst, um YouTube-Videos online zu konvertieren. Den Service zu benutzen, ist dabei sehr simpel: Als erstes musst du den Link zu deinem gewünschten YouTube-Video in das Textfeld kopieren. Wähle dann `mp4` und drücke auf `Convert`. Im Anschluss kannst du auf `Download` klicken und die Datei herunterladen, sobald die Konvertierung abgeschlossen wurde.
 
 ## youtube-dl verwenden
 
