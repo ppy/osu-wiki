@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 8b4224f1287d609d0b6b564055ef2cbca4a694e5
+---
+
 # Gameplay
 
 - [Genauigkeit](/wiki/Gameplay/Accuracy)

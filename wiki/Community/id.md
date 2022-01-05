@@ -20,7 +20,7 @@ Berikut ini merupakan daftar artikel yang membahas seputar cara komunikasi yang 
 
 ## Inisiatif
 
-- [Pertemuan komunitas osu!](/wiki/Community/osu!_Community_Meetings)
+- [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings)
 - [Serial video](/wiki/Community/Video_series)
   - [osu!academy](/wiki/Community/Video_series/osu!academy)
   - [osu!mapping](/wiki/Community/Video_series/osu!mapping)

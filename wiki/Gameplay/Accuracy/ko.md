@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: a4d801f4dbb4b86901f63773b7993647eb5b7ba8
+---
+
 # 정확도
 
 정확도는 플레이어의 일관성을 표시합니다. 플레이어가 가질 수 있는 정확도는 세 가지 타입으로 분류할 수 있습니다. 첫 번째로 비트맵에서 얻은 점수에 따라 좌우되는 정확도입니다. 두 번째로 더 좋은 점수를 돋보이게 하기 위해 가중치가 적용된 점수의 전반적인 정확도입니다. 마지막은 [퍼포먼스 포인트](/wiki/Performance_points) 정확도로, 제출된 점수의 정확도에 따라 달라집니다.
@@ -8,7 +13,7 @@
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_osu.png "Accuracy formula for osu!")
 
-osu!에서 정확도는 각 서클의 점수에 따라 가중치를 부여해 더한 뒤, 가능한 최대 서클 개수로 나누어서 계산합니다.
+osu!에서 정확도는 각 서클의 [판정](/wiki/Gameplay/Judgement)에 따라 가중치를 부여해 더한 뒤, 각 맵의 최대 서클 개수로 나누어서 계산합니다.
 
 서클 1개 당 정확도 판정:
 

@@ -1,16 +1,16 @@
 ---
 tags:
-- hit objects
-- sliderhead
-- sliderbody
-- slideranchor
+  - hit objects
+  - sliderhead
+  - sliderbody
+  - slideranchor
 ---
 
 # Slider
 
 Sebuah *slider* adalah [hit object](/wiki/Hit_object) di [osu!](/wiki/Game_mode/osu!), yang terdiri dari sliderhead, sliderbody dan slider tail. Setelah approach circle mencapai batas sliderhead, seperti dengan [hit circle](/wiki/Hit_object/Hit_circle), pemain harus mengklik sliderhead dan kemudian, dengan menahan tombol, mengikuti bola yang bergerak (disebut sliderball) di sepanjang jalur slider hingga slider tail tercapai. Jika ada reverse arrow, pemain harus mengikuti sliderball kembali di sepanjang jalur slider yang sama. Slider dengan reverse arrow disebut [reverse slider](/wiki/Hit_object/Reverse_slider). Kecepatan slider ditentukan oleh [slider velocity](/wiki/Hit_object/Slider_velocity) dan pengganda slider velocity timing section saat ini.
 
-Slider tick adalah lingkaran kecil yang muncul secara berkala di sepanjang sliderbody. Pemain hanya gagal untuk melakukan slider sepenuhnya jika kursor berada di luar jangkauan slider ball (ditentukan oleh lingkaran di sekitar slider ball) atau tombol tidak ditekan saat slider ball melewati slider tick. Berada di luar jangkauan bola slider atau tidak menekan tombol pada waktu lain tidak akan menghasilkan penalti (meskipun tidak disarankan karena dapat dengan mudah mengakibatkan sliderbreak). Melewati slider tail atau slide rtick akan memberikan Mengklik hit circle akan menambahkan [health](/wiki/Beatmapping/Health) yang sangat kecil ke [health bar](/wiki/Glosarium/Health_bar); biasanya hanya cukup untuk menjaga health bar di tempatnya.
+Slider tick adalah lingkaran kecil yang muncul secara berkala di sepanjang sliderbody. Pemain hanya gagal untuk melakukan slider sepenuhnya jika kursor berada di luar jangkauan slider ball (ditentukan oleh lingkaran di sekitar slider ball) atau tombol tidak ditekan saat slider ball melewati slider tick. Berada di luar jangkauan bola slider atau tidak menekan tombol pada waktu lain tidak akan menghasilkan penalti (meskipun tidak disarankan karena dapat dengan mudah mengakibatkan sliderbreak). Melewati slider tail atau slide rtick akan memberikan Mengklik hit circle akan menambahkan [health](/wiki/Beatmapping/Health) yang sangat kecil ke [health bar](/wiki/Glossary/Health_bar); biasanya hanya cukup untuk menjaga health bar di tempatnya.
 
 ## Editor
 
@@ -18,7 +18,7 @@ Slider dapat dibuat di [editor beatmap](/wiki/Beatmap_Editor) dengan memilih iko
 
 Mapper bebas memindahkan/menambah/menghapus titik kontrol slider setelah slider selesai. Mapper dapat menghapus titik kontrol slider dengan mengklik kanan titik kontrol slider setelah slider dipilih, atau menambahkan titik kontrol slider dengan menahan `Ctrl` dan mengklik di mana saja di dalam slider (klik dua kali atau `Ctrl`+klik titik kontrol slider untuk membuat titik kontrol slider merah). Slider juga dapat dibalik dengan mengklik dan menyeret slider tail di timeline.
 
-Mappper juga dapat menyesuaikan jumlah tick pada slider beatmap mereka di bagian `Timing`. Lebih banyak tick membuat kombo naik lebih cepat (1x lebih banyak per tick) dan dengan demikian menawarkan peluang untuk skor yang lebih tinggi, tetapi pada saat yang sama memberikan lebih banyak peluang bagi pemain untuk gagal karena penilaian menjadi lebih sulit.
+Mappper juga dapat menyesuaikan jumlah tick pada slider beatmap mereka di bagian `Timing`. Lebih banyak tick membuat kombo naik lebih cepat (1x lebih banyak per tick) dan dengan demikian menawarkan peluang untuk skor yang lebih tinggi, tetapi pada saat yang sama memberikan lebih banyak peluang bagi pemain untuk gagal karena [judgement](/wiki/Gameplay/Judgement) menjadi lebih sulit.
 
 ## Hitsounding slider
 

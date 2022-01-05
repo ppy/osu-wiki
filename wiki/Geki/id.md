@@ -9,7 +9,7 @@ no_native_review: true
 
 *Lihat juga: [Katu](/wiki/Katu)*
 
-**Geki (激)** atau *Elite Beat!* merupakan sebuah indikator dalam [sistem penilaian osu!](/wiki/Score) yang akan muncul setiap kali seorang pemain berhasil mengenai seluruh objek yang ada dalam suatu rangkaian combo dengan [akurasi](/wiki/Gameplay/Accuracy) yang sempurna. Apabila seorang pemain berhasil memunculkan Geki, *health bar* yang dimiliki oleh pemain yang bersangkutan akan terisi ulang secara signifikan.
+**Geki (激)** atau *Elite Beat!* merupakan sebuah indikator dalam [judgement](/wiki/Gameplay/Judgement) yang akan muncul setiap kali seorang pemain berhasil mengenai seluruh objek yang ada dalam suatu rangkaian combo dengan [akurasi](/wiki/Gameplay/Accuracy) yang sempurna. Apabila seorang pemain berhasil memunculkan Geki, *health bar* yang dimiliki oleh pemain yang bersangkutan akan terisi ulang secara signifikan.
 
 Terminologi Geki sendiri berasal dari permainan [Elite Beat Agents](/wiki/iNiS_games) pada konsol Nintendo DS yang mendasari awal terbentuknya [osu!](/wiki/Game_mode).
 
