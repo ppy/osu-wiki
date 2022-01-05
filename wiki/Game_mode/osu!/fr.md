@@ -145,7 +145,7 @@ Après avoir terminé une beatmap, le score se voit attribuer un [grade](/wiki/G
       - Le timer est le cercle extérieur du spinner qui change de couleur. Le spinner s'arrête lorsque le cercle du spinner a complètement changé de couleur.
 - Les trois premières beatmaps classées le même jour (07 octobre 2007, 07/10/2007) lors de la mise en ligne du classement sont les suivants :
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1), ou `discoprince` ; qui a été apparemment mappé en environ une heure.
-  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3) , ou `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
+  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3), ou `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16), ou `Brandy - Love Fighter`.
 - Notamment, les anciens dossiers ont leur propre convention d'appellation (les noms de dossiers ne peuvent être trouvés que dans les *anciens* packs de beatmaps) et ne suivent pas strictement le format actuel imposé `{BeatmapSetID} {ArtistName} - {BeatmapName}`.
   - Le téléchargement direct à partir de la liste des beatmaps du site osu! respecte le format d'appellation actuellement en vigueur.
