@@ -14,7 +14,7 @@ Who would've guessed that jazz and rhythm games could work hand in hand?
 
 Japanese producer **NIWASHI** is known for their extensive collection of artcore tracks, many of which intently give off a speedy jazz vibe.
 
-**14** staggering tracks. One fantastic beatmapper (that's you). Get started already by finding your favourite track from [**NIWASHI**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/227) and opening its beatmap template in the editor.
+**14** staggering tracks. One fantastic beatmapper (that's you). Get started already by finding your favourite track from [**NIWASHI**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/228) and opening its beatmap template in the editor.
 
 The complexity and density of these tracks perfectly lends to novel beatmaps, as made clear through [Down](https://osu.ppy.sh/users/4694602)'s iconic beatmap of [Playing With Ruby](https://osu.ppy.sh/beatmapsets/1306570). See the map's rank \#1 and \#2 scores in the video below, then check out the rest of what's up for grabs:
 
@@ -60,6 +60,6 @@ Try out one of these super cool maps:
 
 Want more music in your circle-clicking life? The [@osugame Twitter](https://twitter.com/osugame) can help with that. New artist announcements come every Wednesday and Saturday, and our feed is the first place you'll hear about it! 
 
-Generic self-promotion speil aside, we think you'll appreciate our upcoming Featured Artists. Stay tuned for more!
+Generic self-promotion spiel aside, we think you'll appreciate our upcoming Featured Artists. Stay tuned for more!
 
 —pishifat
