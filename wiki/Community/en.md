@@ -20,7 +20,7 @@ This page lists ways for people from all around osu! to get in touch with each o
 
 ## Initiatives
 
-- [osu! community meetings](/wiki/Community/osu!_Community_Meetings)
+- [osu! community meetings](/wiki/Community/osu!_community_meetings)
 - [Video series](/wiki/Community/Video_series)
   - [osu!academy](/wiki/Community/Video_series/osu!academy)
   - [osu!mapping](/wiki/Community/Video_series/osu!mapping)

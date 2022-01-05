@@ -10,7 +10,7 @@ Les soumissions à ce concours comprennent les éléments suivants :
 
 ## Liens
 
-- [Liste des concours](https://osu.ppy.sh/contests/115)
+- [Liste des concours](https://osu.ppy.sh/community/contests/115)
 - [Annonce du concours](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love)
 - [Annonce du vote](https://osu.ppy.sh/home/news/2021-03-26-a-labour-of-love-voting-open)
 - [Résumé des résultats](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love)

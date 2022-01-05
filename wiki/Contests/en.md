@@ -220,6 +220,15 @@ The **Skinning Contest** is a skinning contest where artistic creators from all 
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/Skinning_Contest/1) | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) by ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) by ![][flag_EE] [Krizto](https://osu.ppy.sh/users/13474556) | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) by ![][flag_RU] [NikStrim](https://osu.ppy.sh/users/10577559) | [#1](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results) |
 
+#### osu!trivium Quiz
+
+The **osu!trivium Quiz** is a trivia contest where players compete in answering hard osu!-related trivia questions.
+
+| Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
+| :-: | :-- | :-- | :-- | :-- |
+| [#1](/wiki/Contests/osu!trivium_Quiz/2020) | nerd neck esoteric collection of individuals (![][flag_US] [1103](https://osu.ppy.sh/users/7306698), ![][flag_US] [GalacticLightN](https://osu.ppy.sh/users/4772172), ![][flag_US] [Leebs](https://osu.ppy.sh/users/7636779), and ![][flag_US] [headstack](https://osu.ppy.sh/users/10322186)) | 21 (![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889), ![][flag_CL] [Eunha](https://osu.ppy.sh/users/7701428), ![][flag_CL] [kanocchi](https://osu.ppy.sh/users/2321050), and ![][flag_CL] [saumensch](https://osu.ppy.sh/users/18157510)) | 5 (![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621), and ![][flag_US] [icedtea](https://osu.ppy.sh/users/9631242)) | [#1](https://www.youtube.com/watch?v=KIgdjSleasg) |
+| [#2](/wiki/Contests/osu!trivium_Quiz/2021) | Squid balls (![][flag_MY] [squidstain](https://osu.ppy.sh/users/11073207), ![][flag_US] [Codazen](https://osu.ppy.sh/users/18291144), ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114), and ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621)) | untouchaball-epic-fail-crew-9000-nightmarecore-mix (![][flag_US] [1103](https://osu.ppy.sh/users/7306698), ![][flag_US] [GalacticLightN](https://osu.ppy.sh/users/4772172), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), and ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110)) | sleep squad (![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_SE] [PuffBuck](https://osu.ppy.sh/users/4234525), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), and ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347)) | [#1](https://www.twitch.tv/videos/1237832029) |
+
 ## Community-run contests
 
 *Unofficial contests* are contests that are hosted by the members of the community.

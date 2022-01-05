@@ -373,7 +373,7 @@ Saturday, 17 December 2011:
 
 | Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| E | ![][flag_FI] Finland | 0 | **3** | ![][flag_MY] **Malaysia** | [#1](hhttps://osu.ppy.sh/community/matches/2203425) |
+| E | ![][flag_FI] Finland | 0 | **3** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/2203425) |
 
 Sunday, 18 December 2011:
 

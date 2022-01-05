@@ -230,7 +230,7 @@ Die Hintergrundfarbe ist violett und die Lichter verdunkeln sich, abhängig von 
 
 | Begriff | Formel |
 | :-: | :-- |
-| **Trefferwert** | (Anzahl der Misses \* 0 + Anzahl der 50er \* 1 + Anzahl der 100er * 2 + Anzahl der 300er \* 4) |
+| **Trefferwert** | (Anzahl der Misses \* 0 + Anzahl der 50er \* 1 + Anzahl der 100er \* 2 + Anzahl der 300er \* 4) |
 | **perfekter Trefferwert** | (Anzahl der Misses + Anzahl der 50er + Anzahl der 100er + Anzahl der 300er) \* 4 |
 
 Mit anderen Worten, jeder Miss ist 0%, jeder 50er ist 25%, jeder 100er ist 50% und jeder 300er ist 100% Genauigkeit wert.
@@ -247,8 +247,7 @@ Die Punkte, die von jedem Hit-Circle und jedem Ende eines Sliders vergeben werde
 | **Combo-Multiplikator** | (Combo vor dem Treffer - 1) oder 0; abhängig davon, was höher ist. |
 | **Fester Multiplikator** | Der Multiplikator, der den Punktestand bei 600.000 fixiert. |
 
-Außerdem gibt es für jeden Start-, End- und Wiederholungstick eines Sliders 30 Punkte und für jede volle Umdrehung eines Spinners 100 Punkte.
-Es gibt einen weiteren Bonus von 10 Punkten, abhängig von den Umdrehungen pro Minute, nachdem die Spinnermessleiste gefüllt ist.
+Außerdem gibt es für jeden Start-, End- und Wiederholungstick eines Sliders 30 Punkte und für jede volle Umdrehung eines Spinners 100 Punkte. Es gibt einen weiteren Bonus von 10 Punkten, abhängig von den Umdrehungen pro Minute, nachdem die Spinnermessleiste gefüllt ist.
 
 ### Bewertung des Hit-Circles
 

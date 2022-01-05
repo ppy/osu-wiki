@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: a4d801f4dbb4b86901f63773b7993647eb5b7ba8
+---
+
 # Precisión
 
 La precisión es una forma de medir la consistencia de un jugador. Hay tres tipos de precisión que un jugador puede tener. Una de ellas es la precisión del beatmap que depende de los puntajes obtenidos. Otra, es la precisión general del jugador, que se mide a partir de sus mejores puntajes. Y por ultimo, la precisión [pp](/wiki/Performance_points) del jugador, que depende de la precisión del puntaje obtenido.
