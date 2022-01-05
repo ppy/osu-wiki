@@ -8,7 +8,7 @@ Saat ini, pertemuan komunitas osu! diketuai oleh [peppy](https://osu.ppy.sh/user
 
 Pertemuan diadakan setiap dua minggu sekali dengan pengingat yang diumumkan melalui [akun Twitter peppy](https://twitter.com/ppy) sehari sebelumnya.
 
-Tanggal pertemuan komunitas osu! selanjutnya akan diumumkan dikemudian hari.
+Pertemuan komunitas osu! berikutnya akan diadakan pada **Minggu, 9 Januari 2022 pukul 01.00 UTC (08.00 WIB)**.
 
 ## Cara berpartisipasi
 
