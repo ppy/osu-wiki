@@ -10,7 +10,7 @@ tags:
 
 # Liste des raccourcis claviers
 
-Il existe de nombreux raccourcis dans osu! qui peuvent être utilisés dans le jeu ou en mode veille sur n'importe quel écran. Ils sont listés ci-dessous avec leurs fonctions.
+Il existe de nombreux raccourcis dans osu! qui peuvent être utilisés en jeu ou depuis n'importe quel menu. Ils sont listés ci-dessous avec leurs fonctions.
 
 *Remarque : Cet article répertorie les raccourcis clavier par défaut. Vous pouvez modifier certains d'entre eux dans les [options](/wiki/Options).*
 
@@ -20,7 +20,7 @@ Ces raccourcis fonctionnent partout :
 
 | Raccourci | Action |
 | :-- | :-- |
-| `Alt` + `F4` | Ferme le client (sans confirmation). Si vous êtes dans le gameplay, dans l'éditeur de beatmaps ou dans osu!direct, revient à la sélection des beatmaps ou au menu principal (pour osu!direct). |
+| `Alt` + `F4` | Ferme le client (sans confirmation). Si vous êtes dans en jeu, dans l'éditeur de beatmaps ou dans osu!direct, revient à la sélection des beatmaps ou au menu principal (pour osu!direct). |
 | `Alt` + `Up/Down Arrow` | Règle le volume principal, utilisez les flèches gauche et droite pour régler les volumes des effets et de la musique. |
 | `Ctrl` + `Alt` + `Shift` + `S` | Recharge le skin actuel. Si vous appuyez sur cette touche en jeu, ou sur l'écran des résultats, elle sera exécutée après le retour à l'écran de sélection des beatmaps. |
 | `Ctrl` + `F11` | Active/Désactive le graphique des temps de trame. Appuyez sur `Ctrl` pour le mettre en pause. |
@@ -257,7 +257,7 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 | :-- | :-- |
 | `W` | Active/Désactive l'ajout du Whistle vers la sélection. |
 | `E` | Active/Désactive l'ajout du Finish vers la sélection. |
-| `R` | Active/Désactive l'ajout du Clap vers la sélection.. |
+| `R` | Active/Désactive l'ajout du Clap vers la sélection. |
 | `Shift` + (`Q`, `W`, `E`, ou `R`) | Change le jeu d'échantillons pour la sélection en auto, normal, soft, ou drum respectivement. |
 | `Ctrl` + (`Q`, `W`, `E`, ou `R`) | Change le jeu d'addition pour la sélection à auto, normal, soft, ou drum respectivement. |
 | `Ctrl` + `Shift` + `I` | Ouvre la boîte de dialogue d'importation d'échantillons. |
@@ -267,7 +267,7 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 | Raccourci | Action |
 | :-- | :-- |
 | `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, or `9`) | Définit le [diviseur de mesure](/wiki/Beatmap_Editor/Beat_Snap_Divisor) à 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 et 1/9 respectivement. |
-| `Shift` (tout en glissant dans la timeline) | Ignorez le snapping du diviseur de mesure. |
+| `Shift` (tout en glissant dans la timeline) | Ignore le snapping du diviseur de mesure. |
 | `J` | Recule la sélection d'un diviseur. |
 | `K` | Avance la sélection d'un diviseur. |
 
@@ -280,7 +280,7 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 | `Ctrl` + `Y` | Revient en arrière. |
 | `Ctrl` + `X` | Coupe le sprite sélectionné. |
 | `Ctrl` + `C` | Copie le sprite sélectionné. |
-| `Ctrl` + `V` | Colle le sprite à l'heure actuelle. *Remarque : les sprites collés n'apparaîtront pas dans la liste des calques tant que la beatmap n'aura pas été sauvegardé et rechargé. |
+| `Ctrl` + `V` | Colle le sprite à l'horodatage actuel. *Remarque : les sprites collés n'apparaîtront pas dans la liste des calques tant que la beatmap n'aura pas été sauvegardé et rechargé. |
 | `Delete` | Supprime le sprite sélectionné du calque. |
 | `W`, `A`, `S`, `D` | Déplace le sprite sélectionné vers le haut, la gauche, le bas ou la droite, respectivement d'un [osu!pixel](/wiki/osupixel). |
 
