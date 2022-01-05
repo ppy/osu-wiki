@@ -2,6 +2,8 @@
 
 Section dedicated for osu! tournaments. Tournaments have their dedicated forum which can be found [through this link](https://osu.ppy.sh/community/forums/55).
 
+Please visit the [Official tournament support](/wiki/Tournaments/Official_support) page for details on how to request official support for your tournament (badges, screening process, etc.). 
+
 ## Official World Cups
 
 Official tournaments hosted by the Tournament Management.
@@ -693,7 +695,6 @@ Unofficial tournaments/competitions hosted by the communities.
 
 - [List of countries that participated in osu! tournaments](Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
-- Requirements for receiving the [official support](/wiki/Tournaments/Official_support) for a tournament (badges, screening process, etc.)
 
 [GCrown]: /wiki/shared/crown-gold.png "1st place"
 [SCrown]: /wiki/shared/crown-silver.png "2nd place"
