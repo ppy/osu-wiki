@@ -16,7 +16,6 @@ Halaman indeks untuk semua artikel tentang istilah khusus osu!.
 - [Hyperdash](Hyperdash)
 - [Lead-in](Lead-in)
 - [Offset lokal](Local_song_offset)
-- [Loved](Loved)
 - [Snapping](Snapping)
 - [Touhosu!](Touhosu!)
 - [Trigger distance](Trigger_distance)
