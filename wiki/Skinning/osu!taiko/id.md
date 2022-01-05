@@ -359,7 +359,7 @@ Catatan:
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| v1 - v2.0 | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Pojok Kanan Atas | Max width: 56px |
+| v1 - v2.0 | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Pojok Kanan Atas | Lebar maksimal: 56px |
 | v2.1+ | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Pojok Kanan Atas | 90x200 |
 
 Catatan:
@@ -377,7 +377,7 @@ Catatan:
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| v1 - v2.0 | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Pojok Kanan Atas | Max width: 72px |
+| v1 - v2.0 | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Pojok Kanan Atas | Lebar maksimal: 72px |
 | v2.1+ | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Pojok Kanan Atas | 90x200 |
 
 Catatan:
