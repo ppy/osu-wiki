@@ -16,7 +16,8 @@ Catatan:
 
 - Nama animasi: `pippidonclear{n}.png`.
   - Kamu hanya dapat menganimasikan elemen ini dengan maksimum 7 *frame* (dari 0 sampai 6).
-  - Jika dianimasikan, sangat direkomendasikan untuk menganimasikan 7 *frame* tersebut. (Jika tidak, *frame* terakhir dari animasi akan digunakan untuk pengganti *frame* yang tidak dianimasikan dengan urutan *frame* di bawah ini.)
+  - Apabila dianimasikan, kamu sangat direkomendasikan untuk menganimasikan ketujuh *frame* tersebut.
+  - Apabila tidak dianimasikan, *frame* terakhir dari animasi akan digunakan untuk menggantikan *frame* yang tidak dianimasikan dengan urutan *frame* di bawah ini.
   - Urutan *frame* animasi elemen ini adalah `0 1 2 3 4 5 6 5 6 5 4 3 2 1 0`.
 - Kecepatan animasi tergantung oleh ketukan per menit (BPM).
 - Animasi ini hanya akan diputar ketika pemain mencapai angka-angka combo (*combo milestone*) tertentu, yang setelahnya akan kembali digantikan oleh elemen *idle* atau kiai.
