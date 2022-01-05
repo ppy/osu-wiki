@@ -134,7 +134,7 @@ Stejně jako téměř všechno tady, osu! wiki je psána a udržována dobrovoln
 
 [Historie osu!](/wiki/History_of_osu!) • [Historie osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Časová osa mapování a úprav](/wiki/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
-[Obsah](/wiki/Sitemap) • [Jak přispět?](/wiki/osu!_wiki_Contribution_Guide) • [Kritéria pro návrh článku](/wiki/Article_Styling_Criteria) • [Kritéria pro návrh zpráv](/wiki/News_Styling_Criteria)
+[Obsah](/wiki/Sitemap) • [Jak přispět?](/wiki/osu!_wiki/Contribution_guide) • [Kritéria pro návrh článku](/wiki/Article_styling_criteria) • [Kritéria pro návrh zpráv](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

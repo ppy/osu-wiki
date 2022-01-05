@@ -6,7 +6,7 @@ needs_cleanup: true
 
 # How to time songs
 
-![Timing menu](/wiki/Beatmap_Editor/Timing/img/Timing_base.jpg "Timing menu")
+![Timing menu](/wiki/shared/timing/Timing_base.jpg "Timing menu")
 
 ## Introduction
 

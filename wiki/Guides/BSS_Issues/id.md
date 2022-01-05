@@ -1,8 +1,8 @@
 ---
 tags:
-- tidak bisa submit map
-- tidak bisa upload map
-- masalah sistem submisi beatmap
+  - tidak bisa submit map
+  - tidak bisa upload map
+  - masalah sistem submisi beatmap
 ---
 
 # Bagaimana mengatasi masalah pada BSS

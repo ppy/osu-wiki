@@ -1,6 +1,6 @@
 # Paket-paket beatmap lama
 
-Paket beatmap telah menjadi bagian yang tak terpisahkan dari komunitas osu! sejak [pertama kali diperkenalkan](https://osu.ppy.sh/community/forums/topics/1853) oleh ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) pada 2008, di mana pada kala itu paket-paket beatmap tertentu telah dijadikan syarat untuk dapat membuka [medali-medali yang ada](/wiki/Medals). Meskipun demikian, dengan perkembangan osu! yang semakin pesat seiring tahunnya, beatmap-beatmap yang ada juga ikut berevolusi dan—karena permintaan yang besar dari publik—[pada 16 Januari 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) tim osu! merombak ulang isi berbagai paket beatmap yang ada agar tidak lekang termakan zaman.
+Paket beatmap telah menjadi bagian yang tak terpisahkan dari komunitas osu! sejak [pertama kali diperkenalkan](https://osu.ppy.sh/community/forums/topics/1853) oleh ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) pada tahun 2008, di mana pada kala itu paket-paket beatmap tertentu telah dijadikan syarat untuk dapat membuka [medali-medali yang ada](/wiki/Medals). Meskipun demikian, dengan perkembangan osu! yang semakin pesat seiring tahunnya, beatmap-beatmap yang ada juga ikut berevolusi dan—karena permintaan yang besar dari publik—[pada tanggal 16 Januari 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) tim osu! merombak ulang isi berbagai paket beatmap yang ada agar tidak lekang termakan zaman.
 
 Berikut ini merupakan komposisi asli dari paket-paket beatmap yang bersangkutan sebelum mereka dirombak ulang sebagaimana yang telah disebutkan di atas.
 
@@ -400,7 +400,7 @@ Daftar beatmap:
 
 ## Trivia
 
-- Beatmap [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), yang terkandung dalam paket beatmap Internet Pack (Volume 1), terkenal sebagai beatmap yang dahulu pernah di-[approve](wiki/Beatmap/Category#approved) meskipun hanya tersusun atas satu spinner. Walaupun [status Approved beatmap tersebut kini telah dicabut](https://osu.ppy.sh/community/forums/posts/149328), beatmap tersebut tetap dapat diunduh dan menjadi bagian dari paket beatmap Internet Pack (Volume 1).
+- Beatmap [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), yang terkandung dalam paket beatmap Internet Pack (Volume 1), terkenal sebagai beatmap yang dahulu pernah di-[approve](/wiki/Beatmap/Category#approved) meskipun hanya tersusun atas satu spinner. Walaupun [status Approved beatmap tersebut kini telah dicabut](https://osu.ppy.sh/community/forums/posts/149328), beatmap tersebut tetap dapat diunduh dan menjadi bagian dari paket beatmap Internet Pack (Volume 1).
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

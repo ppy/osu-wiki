@@ -198,7 +198,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_FI] [Aakki](https://osu.ppy.sh/users/11077540) | Finlandia |
 | ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280) | Spanyol |
 | ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342) |  |
-| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/120247532) | Ukraina |
+| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Ukraina |
 | ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623) | Norwegia |
 | ![][flag_RU] [Froskya](https://osu.ppy.sh/users/4230454) | Rusia |
 | ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | Lituania |
