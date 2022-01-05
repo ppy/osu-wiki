@@ -21,7 +21,7 @@ Para pengguna yang sedang di-*silence* oleh moderator tidak akan dapat melakukan
 Di samping itu, seluruh pesan yang sebelumnya telah dikirim oleh pengguna yang bersangkutan akan ikut terhapus dari seluruh kanal *chat* dan *private message* yang aktif [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5 "ppy blog").
 
 ::: Infobox
-![](img/silence-ingame.png "Keterangan bahwa seseorang sedang di-*silence* pada *in-game chat*")
+![](img/silence-ingame.png "Keterangan bahwa seseorang sedang di-silence pada in-game chat")
 :::
 
 Setelah seorang pengguna di-*silence*, sebuah pesan yang menyatakan durasi *silence* yang berlaku akan muncul pada layar *chat* pengguna yang bersangkutan. Adapun riwayat pelanggaran yang pernah dilakukan oleh tiap-tiap pengguna dapat dilihat pada bagian bawah laman profil mereka masing-masing, yang akan hilang dengan sendirinya setelah 28 hari.
@@ -32,11 +32,11 @@ Apabila kamu yakin bahwa kamu telah di-*silence* secara sewenang-wenang, harap h
 
 ## Penyebab-penyebab umum *silence*
 
-*Perhatian: osu! tidak memandang segala bentuk "cacian" atau "hinaan" yang semata-mata ditujukan untuk saling menghibur diri dalam ranah pribadi (private message) sebagai suatu pelanggaran. Meskipun demikian, apabila sampai terdapat pihak yang merasa terlecehkan atas cacian-cacian dan hinaan-hinaan ini, maka hukuman yang sesuai akan dijatuhkan kepada para pelanggar sesuai dengan laporan yang kami terima.*
+*Perhatian: osu! tidak memandang segala bentuk "cacian" atau "hinaan" yang semata-mata ditujukan untuk saling menghibur diri di dalam ranah pribadi (private message) sebagai suatu pelanggaran. Meskipun demikian, apabila sampai terdapat pihak yang merasa terlecehkan atas cacian-cacian dan hinaan-hinaan ini, maka hukuman yang sesuai akan dijatuhkan kepada para pelanggar sesuai dengan laporan yang kami terima.*
 
 Berikut merupakan tindakan-tindakan yang dapat menyebabkan seseorang terkena *silence* pada umumnya:
 
 - Berperilaku tidak sepantasnya dalam kanal *chat* atau ruang-ruang publik lainnya (semisal `#multiplayer` atau laman diskusi beatmap, komentar, dan lain-lain), yang meliputi — namun tidak terbatas pada — mengirimkan spam, berceloteh yang tidak sewajarnya, berperilaku rasis, dan lain sebagainya
 - Mengunggah atau memposting konten-konten yang tidak sepantasnya (baik itu dalam bentuk avatar, beatmap, rincian profil, biodata, banner, ataupun yang lainnya)
 
-Durasi *silence* yang dijatuhkan akan bervariasi tergantung pada seberapa berat pelanggaran yang dilakukan. *Silence* dapat bertumpuk satu sama lain, yang akan memperpanjang durasi *silence* seiring dengan semakin banyaknya pelanggaran yang diperbuat. Sebagai catatan, apabila seorang pengguna telah melakukan pelanggaran yang sangat berat, atau apabila pengguna tersebut telah berulang kali melanggar peraturan tanpa merasa jera sedikit pun, maka pengguna tersebut dapat langsung di-[*restrict*](/wiki/Help_Centre/Account_Restrictions) alih-alih di-*silence* sebagaimana pada umumnya.
+Durasi *silence* yang dijatuhkan akan bervariasi tergantung pada seberapa berat pelanggaran yang dilakukan. *Silence* dapat bertumpuk satu sama lain, yang akan memperpanjang durasi *silence* seiring dengan semakin banyaknya pelanggaran yang diperbuat. Sebagai catatan, apabila seorang pengguna telah melakukan pelanggaran yang sangat berat, atau apabila pengguna tersebut telah berulang kali melanggar peraturan tanpa merasa jera sedikit pun, maka pengguna tersebut dapat langsung di-[*restrict*](/wiki/Help_Centre/Account_Restrictions) tanpa harus di-*silence* lebih lanjut terlebih dahulu.
