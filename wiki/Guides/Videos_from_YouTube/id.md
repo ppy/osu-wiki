@@ -23,7 +23,7 @@ Tutorial ini ditujukan untuk mereka yang **tidak dapat** menemukan video selain 
 [youtube-dl](https://youtube-dl.org) merupakan program berbasis *command-line* untuk men-*download* video dari YouTube dan situs lainnya.
 
 1. *Download* youtube-dl dan buka konsol yang kamu biasa pakai (PowerShell, CMD, Terminal)
-2. Gunakan perintah di bawah ini dan tekan Enter
+2. Gunakan perintah di bawah ini dan tekan `Enter`
 
 ```cmd
 youtube-dl -f bestvideo <video link>
@@ -35,4 +35,4 @@ youtube-dl -f bestvideo <video link>
 
 *Laman utama: [Mengompres berkas](/wiki/Guides/Compressing_files)*
 
-Setelah men-*download* video, kamu dapat memuat video ke dalam beatmap secara normal melalui [tab design](/wiki/Beatmap_editor/Design) pada [editor beatmap](wiki/Beatmap_editor). Namun tidak hanya video akan memiliki audio yang tidak akan digunakan dan memakan ukuran beatmap, [Ranking Criteria](/wiki/Ranking_Criteria#video-and-background) beatmap juga melarang penggunaan video yang memiliki audio karena audio tidak digunakan. Lihat artikel [Mengompres berkas](/wiki/Guides/Compressing_files) untuk tutorial menghilangkan audio dari video.
+Setelah men-*download* video, kamu dapat memuat video ke dalam beatmap secara normal melalui [tab design](/wiki/Beatmap_editor/Design) pada [editor beatmap](/wiki/Beatmap_editor). Namun tidak hanya video akan memiliki audio yang tidak akan digunakan dan memakan ukuran beatmap, [Ranking Criteria](/wiki/Ranking_Criteria#video-and-background) beatmap juga melarang penggunaan video yang memiliki audio karena audio tidak digunakan. Lihat artikel [Mengompres berkas](/wiki/Guides/Compressing_files) untuk tutorial menghilangkan audio dari video.

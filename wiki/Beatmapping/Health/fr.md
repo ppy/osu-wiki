@@ -21,7 +21,7 @@ Des bursts de score apparaissent après avoir frappé des cercles, modifiant les
 
 Récupération de vie :
 
-- Une frappe réussie sur le cercle (un meilleur jugement permet de gagner plus de vie ; le dernier cercle d'un combo d'une couleur donne plus de vie).
+- Une frappe réussie sur le cercle (un meilleur [jugement](/wiki/Gameplay/Judgement) permet de gagner plus de vie ; le dernier cercle d'un combo d'une couleur donne plus de vie).
 - Une frappe réussie sur un début de slider
 - La slider ball a réussi à collecter un slider tick
 - La slider ball a touché la fin du slider ou une flèche inversée avec succès (un meilleur jugement à la marque de fin permet de gagner plus de vie)
