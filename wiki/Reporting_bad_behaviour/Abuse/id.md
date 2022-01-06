@@ -67,7 +67,7 @@ Harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) **sesegera mu
 
 Apabila kamu ingin melampirkan suatu bukti (baik itu berupa *screenshot*, *chat log*, ataupun yang lainnya) namun kamu merasa malu atau tidak enak hati kepada pihak-pihak tertentu, kamu dapat menyensornya terlebih dahulu.
 
-Kami akan memproses laporanmu dengan segera.
+Kami akan menindaklanjuti laporanmu dengan segera.
 
 ## Seseorang yang saya kenal dilecehkan oleh salah seorang anggota tim sukarelawan (NAT, GMT), namun mereka terlalu takut untuk angkat bicara!
 
