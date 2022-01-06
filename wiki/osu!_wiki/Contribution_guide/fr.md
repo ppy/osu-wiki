@@ -59,6 +59,6 @@ En plus d'un processus de révision manuelle, le dépôt osu! wiki possède [un 
 
 ## Merge
 
-Vos modifications seront éventuellement vérifiées par l'un des [wiki maintainers](/wiki/osu!_wiki/Maintenance/List_of_maintainers), généralement après avoir été review par d'autres collaborateurs. Si rien ne se passe après un laps de temps raisonnable, demandez dans les commentaires de la pull request, ou dans le canal `#osu-wiki` du [serveur Discord osu!dev](/wiki/osu!dev_Discord_server). Vos modifications apparaîtront sur le osu! wiki peu de temps après la fusion (dans de rares cas, cela peut prendre jusqu'à cinq heures)
+Vos modifications seront éventuellement vérifiées par l'un des [wiki maintainers](/wiki/osu!_wiki/Maintenance/List_of_maintainers), généralement après avoir été review par d'autres collaborateurs. Si rien ne se passe après un laps de temps raisonnable, demandez dans les commentaires de la pull request, ou dans le canal `#osu-wiki` du [serveur Discord osu!dev](/wiki/osu!dev_Discord_server). Vos modifications apparaîtront sur le osu! wiki peu de temps après la fusion (dans de rares cas, cela peut prendre jusqu'à cinq heures).
 
 [osu_wiki]: https://github.com/ppy/osu-wiki
