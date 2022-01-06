@@ -21,11 +21,11 @@ This tutorial is intended for those who **can not** find the video elsewhere but
 [youtube-dl](https://youtube-dl.org) is a command-line program to download videos from YouTube and other sites.
 
 1. Download youtube-dl and navigate to it in your preferred console (PowerShell, CMD, Terminal)
-2. Use the command below and press Enter
+2. Use the command below and press `Enter`
 
 ```cmd
 youtube-dl -f bestvideo <video link>
-``` 
+```
 
 ![Downloading YouTube videos with youtube-dl](img/example.jpg "Downloading YouTube videos with youtube-dl")
 

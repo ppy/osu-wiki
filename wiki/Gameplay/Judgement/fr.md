@@ -1,9 +1,8 @@
 ---
 stub: true
-no_native_review: true
 ---
 
-# Judgement
+# Jugement
 
 - [osu!](osu!)
 - [osu!taiko](osu!taiko)
