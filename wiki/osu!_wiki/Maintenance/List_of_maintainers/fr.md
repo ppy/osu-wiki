@@ -25,7 +25,7 @@ Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une rev
 
 ## L'équipe de rédaction
 
-Curateur, rédacteurs et approbateurs de tous les [news posts](https://osu.ppy.sh/home/news) qui apparaissent sur le site web.
+Curateurs, rédacteurs et approbateurs de tous les [news posts](https://osu.ppy.sh/home/news) qui apparaissent sur le site web.
 
 | Profil osu! | Profil GitHub |
 | :-- | :-- |
