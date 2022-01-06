@@ -8,7 +8,7 @@ outdated_since: 1e0790f39673fbd138af78b285f3f06a3e9e7ca0
 
 # Mappers' Guild
 
-**Mappers' Guild** osu!'nun [featured artistleri](/wiki/Featured_Artists) için [beatmapler](/wiki/Beatmap) oluşturmaktan sorumlu bir mapper grubudur. Bir MMO loncasıymış gibi yürütülen grup, featured artistlerin beatmaplerinin derecelendirilme prosedürüne katkıda bulunarak ve mapleme ile alakalı görevleri tamamlayarak mapperların ödüller kazanmalarını sağlayan bir sistemdir.
+**Mappers' Guild** osu!'nun [Featured Artistleri](/wiki/Featured_Artists) için [beatmapler](/wiki/Beatmap) oluşturmaktan sorumlu bir mapper grubudur. Bir MMO loncasıymış gibi yürütülen grup, Featured Artistlerin beatmaplerinin derecelendirilme prosedürüne katkıda bulunarak ve mapleme ile alakalı görevleri tamamlayarak mapperların ödüller kazanmalarını sağlayan bir sistemdir.
 
 Loncanın organizasyonu ve tartışması [osu!dev Discord sunucusundaki](https://discord.gg/ppy) `#mappers-guild` kanalında bulunabilir.
 
@@ -18,7 +18,7 @@ Loncanın organizasyonu ve tartışması [osu!dev Discord sunucusundaki](https:/
 
 3 ya da daha fazla dereceli mape sahip mapperlar loncaya istedikleri zaman [Mappers' Guild web sayfasına](https://mappersguild.com/) osu! hesaplarıyla giriş yaparak katılabilirler. Web sayfasındaki görevleri ve mapleme aktivitesini herkes görebilir.
 
-Mapperlar Mappers' Guild'e bağlı olan featured artistlerin maplerinin derecelendirilme prosedürüne katkıda bulunarak ödüller kazanabilir. Bu, temel olarak beatmap oluşturmaya odaklanır, ancak [modlama](/wiki/Modding) yaparak, [storyboard](/wiki/Storyboard) oluşturarak, ya da lonca içindeki görevleri tamamlayarak katkıda bulunan kullanıcılara da ödül verilir.
+Mapperlar Mappers' Guild'e bağlı olan Featured Artistlerin maplerinin derecelendirilme prosedürüne katkıda bulunarak ödüller kazanabilir. Bu, temel olarak beatmap oluşturmaya odaklanır, ancak [modlama](/wiki/Modding) yaparak, [storyboard](/wiki/Storyboard) oluşturarak, ya da lonca içindeki görevleri tamamlayarak katkıda bulunan kullanıcılara da ödül verilir.
 
 ### Partiler
 
@@ -28,7 +28,7 @@ Partiler birlikte görev tamamlamak için kayıt yaptıran mapper gruplarıdır.
 
 ### Görevler
 
-Görevler, mapperlar featured artist mapleri oluştururken belirli gereksinimleri sağladıklarında onları ödüllendirir. Görevler genellikle yeni bir featured artist için belirli bir sayıda beatmap oluşturmayı kapsar, ancak bazı görevler ufak map numaraları gerektirir.
+Görevler, mapperlar Featured Artist mapleri oluştururken belirli gereksinimleri sağladıklarında onları ödüllendirir. Görevler genellikle yeni bir Featured Artist için belirli bir sayıda beatmap oluşturmayı kapsar, ancak bazı görevler ufak map numaraları gerektirir.
 
 Her bir görevin parti büyüklüğü/rütbesi şartları, kabul etme bedeli, ve bitiş tarihi vardır. Bir partinin bütün üyeleri görevi kabul etmek için belirtilen bedeli ödemek zorundadır. Bu bedel genellikle tek kişilik görevler ve map numaraları gerektiren görevler için daha büyüktür.
 
@@ -48,17 +48,17 @@ Eğer beatmap bir göreve bağlıysa zorluk oluşturmak kullanıcıya daha fazla
 
 ## Tarihçe
 
-Mappers' Guild 10 mapperdan daha az bir grup ile 2017'nin sonlarına doğru oluşturuldu. O dönemde yeni eklenecek olan bir featured artist, [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19), hakkındaki ön bilgilendirme ile sanatçının [haber duyurusuna](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) eklenmek üzere onlar 5 tane beatmapin oluşturulması için görevlendirildi.
+Mappers' Guild 10 mapperdan daha az bir grup ile 2017'nin sonlarına doğru oluşturuldu. O dönemde yeni eklenecek olan bir Featured Artist, [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19), hakkındaki ön bilgilendirme ile sanatçının [haber duyurusuna](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) eklenmek üzere onlar 5 tane beatmapin oluşturulması için görevlendirildi.
 
-Daha önceki featured artistleri tanıtmak için, grup üye sayısını arttırdı ve farklı sanatçılardan 8 tane beatmap derecelendirdi. Bu beatmapler indirilebilir bir beatmap paketiyle birlikte bir [haber gönderisi](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) ile yayımlandı.
+Daha önceki Featured Artistleri tanıtmak için, grup üye sayısını arttırdı ve farklı sanatçılardan 8 tane beatmap derecelendirdi. Bu beatmapler indirilebilir bir beatmap paketiyle birlikte bir [haber gönderisi](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) ile yayımlandı.
 
-Her iki beatmap paketinin izinden giderek, Mappers' Guild, daha eski featured artist şarkılarının paketlerine ek olarak, [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), ve [HyuN](https://osu.ppy.sh/beatmaps/artists/33) gibi, yeni featured artist duyuruları için paketler yayımlarken üye sayısını da sürekli olarak arttırdı.
+Her iki beatmap paketinin izinden giderek, Mappers' Guild, daha eski Featured Artist şarkılarının paketlerine ek olarak, [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), ve [HyuN](https://osu.ppy.sh/beatmaps/artists/33) gibi, yeni Featured Artist duyuruları için paketler yayımlarken üye sayısını da sürekli olarak arttırdı.
 
 ### Otomasyon
 
 Mappers' Guild için başlangıçtaki plan görevler gibi MMO elementleri bulundurmak olsa da, belirli sayıdaki lonca katılımcıları için bitiş tarihlerini manuel olarak idare etmenin oldukça elverişsiz olduğu belirlendi. 2018'in sonlarına doğru, ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) ve ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) Mappers' Guild sistemini otomatikleştirecek, ödüllerin paylaştırılmasını ve görev/parti sistemlerinin yönetimini daha elverişli hale getirecek bir websitesi geliştirmeye başladı.
 
-Mappers' Guild ile ilgili her şeyin günümüzde kontrol edildiği yer olan [Mappers' Guild websitesi](https://mappersguild.com/), 1 Mart 2019 tarihinde faaliyete geçti. Herkese açık olduğu için, lonca 500'ün üzerinde bir üye sayısına ulaşmıştır ve osu! topluluğunun geri kalanını featured artist mapleme içerikleriyle güncel tutmak amacıyla [güncelleme haber gönderilerini](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) yayımlamaktadır.
+Mappers' Guild ile ilgili her şeyin günümüzde kontrol edildiği yer olan [Mappers' Guild websitesi](https://mappersguild.com/), 1 Mart 2019 tarihinde faaliyete geçti. Herkese açık olduğu için, lonca 500'ün üzerinde bir üye sayısına ulaşmıştır ve osu! topluluğunun geri kalanını Featured Artist mapleme içerikleriyle güncel tutmak amacıyla [güncelleme haber gönderilerini](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) yayımlamaktadır.
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Şili"
 [flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"
