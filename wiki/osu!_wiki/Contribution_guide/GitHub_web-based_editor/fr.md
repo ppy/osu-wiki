@@ -68,4 +68,4 @@ Les articles sont stockés dans des dossiers contenant le texte original (`en.md
 
 ## Quelle est la prochaine étape ?
 
-Lorsque tout est prêt, utilisez [Guide de contribution au osu! wiki § Auto-contrôle](/wiki/osu!_wiki/Contribution_guide#auto-contrôle) pour relire vos modifications. Après cela, envoyez vos changements pour révision en [ouvrant un pull request](/wiki/osu!_wiki/Contribution_guide#pull-request) au dépôt `ppy/osu-wiki`.
+Lorsque tout est prêt, utilisez [Guide de contribution au osu! wiki § Self-check](/wiki/osu!_wiki/Contribution_guide#self-check) pour relire vos modifications. Après cela, envoyez vos changements pour révision en [ouvrant un pull request](/wiki/osu!_wiki/Contribution_guide#pull-request) au dépôt `ppy/osu-wiki`.
