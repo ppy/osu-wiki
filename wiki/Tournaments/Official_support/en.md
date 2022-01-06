@@ -22,7 +22,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - Staff members must not participate in the tournament themselves at any point, and registered players are unable to later assist as staff either. For our definition on "staff", please refer to the [FAQ](#what-is-considered-staff).
 - The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
-  - This report form is overseen by the Tournament Committee. We encourage all users—participants and staff alike—to make use of this form where necessary. 
+  - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users—participants and staff alike—to make use of this form where necessary. 
 
 **¹**: An "experienced" team member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of an official World Cup volunteer team for any game mode. This may vary at the discretion of the account support team.
 
@@ -67,7 +67,7 @@ In addition, all promotional material or any services associated with a tourname
 - The tournament must not prevent players who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This only applies in circumstances where they would otherwise meet the sign-up criteria for the tournament.
   - This includes preventing users who are perceived to be "sandbagging" from play.
-    - Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the Tournament Committee for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
+    - Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
 - A dedicated referee must be present during every match. Players cannot "self-ref". 
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post in a clear and accessible format.
 
@@ -180,13 +180,11 @@ If a user has access to information that could conceivably influence the outcome
 
 Commentators, streamers, and graphic designers are designated as **helpers**, and may participate in tournaments/contests freely so long as they are not directly involved in any organisational aspect of the tournament/contest.
 
-Participants who have been eliminated from the tournament/contest may not be enlisted as staff or assist in any organisational capacity **with the sole exception** of setting replays for mappool showcases.
-
 We have historically had issues where unscrupulous organisers have geared tournaments specifically (i.e. picked maps they're familiar with, adjusted seeds/brackets, etc.) to farm profile badges for themselves and their friends. While we understand that most groups will not do this, we must enforce this restriction to keep things fair for everyone.
 
 ### Can a player who has been eliminated from play in my tournament join the staff after the fact and not cause problems? {#player-join-staff}
 
-Staff cannot. Helpers can.
+No. Participants who have been eliminated from the tournament/contest may not be enlisted as staff or assist in any organisational capacity **with the sole exception** of setting replays for mappool showcases. They can, however, be enlisted as a helper.
 
 ### What should I do if a player in my tournament gets restricted? {#player-restriction}
 
