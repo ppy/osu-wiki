@@ -99,7 +99,23 @@ jobs:
         env:
           PULL_REQUEST_TAG: 'SKIP_OUTDATED_CHECK'
         run: |
-          if ${{ contains(github.event.pull_request.body, env.PULL_REQUEST_TAG) }}; then
+          function skip_check () {
+            if ${{ github.event_name == 'pull_request' }}; then
+              ${{ contains(github.event.pull_request.body, env.PULL_REQUEST_TAG) }}
+            elif ${{ github.event_name == 'push' }}; then {
+              commits_url="${{ github.event.push.repository.commits_url }}"
+              suffix='{/sha}'
+              desired_suffix='/${{ github.sha }}/pulls'
+              pulls_url="${commits_url/$suffix/$desired_suffix}"
+              pr_body=$( curl -sS "$pulls_url" | jq -r '.[0].body' || true )
+
+              # don't fail on network errors
+              [[ -z $pr_body ]] || [[ $pr_body =~ $PULL_REQUEST_TAG ]]
+            }
+            fi
+          }
+
+          if skip_check; then
             echo "Outdated articles check suppressed ($PULL_REQUEST_TAG tag found in the pull request)"
             exit 0
           fi
