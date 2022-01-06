@@ -76,7 +76,7 @@ Das Support-Team erwartet, dass Nutzer ihre vergangenen Verstöße auflisten und
 
 *Es wird vermutlich einige Zeit dauern, auf deine Beschwerde zu antworten, aber keine Beschwerden werden ignoriert.*
 
-## Was kann ich tun, wenn ich die Regeln gebrochen habe? {#was-kann-ich-tun-wenn-ich-die-regeln-gebrochen-habe?}
+## Was kann ich tun, wenn ich die Regeln gebrochen habe?
 
 Wenn du gegen die Regeln verstoßen hast und dies bereinigen möchtest, wende dich bitte an [accounts@ppy.sh](mailto:accounts@ppy.sh) und erkläre, was du getan hast. Ehrlichkeit wird sehr wertgeschätzt und das wird wahrscheinlich nicht in einer permanenten Strafe enden.
 
