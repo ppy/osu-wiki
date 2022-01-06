@@ -86,7 +86,7 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
   - `osu!` tidak boleh digunakan sebagai sumber/*source*, kecuali jika musik dibuat khusus untuk osu! (dikenal juga sebagai osu! original), seperti pembuatan musik untuk tiebreaker dalam suatu turnamen.
 - **Metadata yang melebihi batas kolom (81 karakter) harus disingkat.** Mulailah dengan menghilangkan penanda tambahan dan jika masih tidak cukup, tunjukkan bahwa judul telah disingkat menggunakan `...` di tempat yang masuk akal.
 - **Jika artis atau judul disingkat agar sesuai dengan batas kolom, informasi yang dihilangkan harus ditambahkan ke tags.**
-- **Jika lagu tersebut merupakan lagu terlisensi di pustaka featured artist, `featured artist` harus ditambahkan ke tags.**
+- **Jika lagu tersebut merupakan lagu terlisensi di pustaka Featured Artist, `featured artist` harus ditambahkan ke tags.**
 - **Tags harus terkait dengan beatmap dan tidak menyesatkan hasil pencarian.** Tags yang menjelaskan gaya, lagu, storyboard, video, atau konten latar belakang beatmap dianggap terkait dengan beatmap tersebut.
 
 #### Standardisasi
