@@ -200,7 +200,7 @@ The [osu!trivium Quiz contests](/wiki/Contests/osu!trivium_Quiz) award its winni
 
 ## Featured Artists
 
-[Featured Artists](/wiki/Featured_Artists) with osu! accounts are given the **Featured Artist** title to show their involvement.
+[Featured Artists](/wiki/Featured_artists) with osu! accounts are given the **Featured Artist** title to show their involvement.
 
 ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) and ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) have the **osu!musician** title for earlier contributions to osu!'s sound design and official themes, and ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) opted to keep the **osu!mixer** title (which has since been upgraded into osu!mixer II) when he became a Featured Artist.
 
