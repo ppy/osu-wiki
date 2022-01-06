@@ -24,7 +24,7 @@ Aantal nieuwe aanbevolen artiest uitgaven per jaar:
 
 - **2016:** 8
 - **2017:** 11
-- **2018:** 20
+- **2018:** 12
 - **2019:** 31
 - **2020:** 65
 - **2021:** 101
