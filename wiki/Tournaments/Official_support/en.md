@@ -186,7 +186,7 @@ We have historically had issues where unscrupulous organisers have geared tourna
 
 ### Can a player who has been eliminated from play in my tournament join the staff after the fact and not cause problems? {#player-join-staff}
 
-Staff—no. Helper—yes.
+Staff cannot. Helpers can.
 
 ### What should I do if a player in my tournament gets restricted? {#player-restriction}
 
