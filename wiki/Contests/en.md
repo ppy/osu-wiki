@@ -37,11 +37,11 @@ The **Monthly Beatmapping Contest**, in its initial concept, was a mapping conte
 
 After a long hiatus, the Monthly Beatmapping Contest was rebooted in January 2020 with a brand new schedule, ruleset, voting procedure, and reward scheme. Many aspects of the competition were dramatically altered to make the contests more engaging and attractive, in which some of them were as follows:
 
-- Instead of a single song, the contest now offers a selection of songs from different [featured artists](/wiki/Featured_Artists) each month, in which all participating mappers are free to map and submit their entries for.
+- Instead of a single song, the contest now offers a selection of songs from different [Featured Artists](/wiki/Featured_Artists) each month, in which all participating mappers are free to map and submit their entries for.
 - Participating mappers now only have to submit a single difficulty instead of a complete mapset.
 - Participating mappers now have to adhere to a certain mapping theme and/or limitation set in the ruleset, such as "Star rating may not exceed 4.00★" or "Every object should overlap another object".
 
-| Contest iteration | Featured artist | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | Screening Crew's #1 | Results |
+| Contest iteration | Featured Artist | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | Screening Crew's #1 | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [January 2020](https://osu.ppy.sh/community/contests/84) | [MYLK](https://osu.ppy.sh/beatmaps/artists/62) | ![osu!][osu!] | ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865) | [#1](https://osu.ppy.sh/home/news/2020-02-20-monthly-beatmapping-contest-1-results) |
 | [February 2020](https://osu.ppy.sh/community/contests/89) | [Voicians](https://osu.ppy.sh/beatmaps/artists/59) | ![osu!][osu!] | ![][flag_RU] [Aphestra](https://osu.ppy.sh/users/11949191) | ![][flag_US] [UndeadCapulet](https://osu.ppy.sh/users/2523533) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | [#1](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results) |

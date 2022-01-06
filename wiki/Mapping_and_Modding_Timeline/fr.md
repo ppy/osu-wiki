@@ -409,7 +409,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 ### Mars
 
 - **01/03/2019 :** La [Mappers' Guild](/wiki/Mappers_Guild) est passée d'une inscription sur dossier à une inscription automatique pour toute personne ayant 3 maps classées.
-  - Les beatmaps des [Artistes associés](/wiki/Featured_Artists) ont été créées et classées plus fréquemment.
+  - Les beatmaps des [Artistes Associés](/wiki/Featured_Artists) ont été créées et classées plus fréquemment.
   - Le canal `#mappers-guild` a été créé dans le [serveur Discord osu!dev](/wiki/osu!dev_Discord_server).
 - **13/03/2019 :** La règle exigeant que les nominations consécutives soient espacées d'au moins 24 heures a été supprimée.
   - Cette règle a fait l'objet d'une plainte majeure de la part des mappeurs et des Beatmap Nominators, car elle donnait l'impression de faire perdre inutilement du temps à tout le monde. Si un problème était découvert après la première nomination, le deuxième nominateur évitait souvent de le signaler pour éviter une attente supplémentaire de 24 heures.
