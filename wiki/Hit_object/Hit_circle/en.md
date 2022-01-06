@@ -10,7 +10,7 @@ tags:
 
 In osu!, hit circles appear with a number on top; showing their place in a combo. Hit circles are also outlined with [approach circles](/wiki/Hit_object/Approach_circle), which shrink around them. Once the approach circle overlaps the hit circle, the player should click on/tap the hit circle to earn score.
 
-In osu!taiko, hit circles appear from right-to-left as either red or blue notes (Don or Katu). As hit circles approach and line up with the white judgement circle the correct key(s) must be pressed to gain score.
+In osu!taiko, hit circles appear from right-to-left as either red or blue notes (Don or Katu). As hit circles approach and line up with the white [judgement](/wiki/Gameplay/Judgement) circle the correct key(s) must be pressed to gain score.
 
 <!-- TODO: Include Skinnable Property-->
 
