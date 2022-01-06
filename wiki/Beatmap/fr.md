@@ -28,7 +28,7 @@ Une *difficulté* est un fichier avec [l'extension `.osu`](/wiki/osu!_File_Forma
 
 Les auteurs de beatmaps peuvent [publier](/wiki/Submission) leur création dans la [liste des beatmaps](https://osu.ppy.sh/beatmapsets). Bien que chaque beatmap est attribuée à [une seule personne](/wiki/Beatmap/Beatmap_host), il s'agit souvent d'un effort commun: certaines difficultés peuvent être créées par d'autres personnes qui travaillent [en collaboration](/wiki/Beatmap/Beatmap_collaborations) ou [séparément](/wiki/Beatmap/Guest_difficulty).
 
-Après soumission, une beatmap reçoit des champs d'informations supplémentaires, comme une description, la langue, le genre, et le marqueur de contenu explicite, qui peut être changé par le créateur de la beatmap sur le site. La beatmap acquiert également un [texte de titre](/wiki/Beatmap/Title_Text), dont l'apparence peut être altérée avec l'aide de [l'équipe de nomination](/wiki/People/The_Team/Nomination_Assessment_Team).
+Après soumission, une beatmap reçoit des champs d'informations supplémentaires, comme une description, la langue, le genre, et le marqueur de contenu explicite, qui peut être changé par le créateur de la beatmap sur le site. La beatmap acquiert également un [texte de titre](/wiki/Beatmap/Title_text), dont l'apparence peut être altérée avec l'aide de [l'équipe de nomination](/wiki/People/The_Team/Nomination_Assessment_Team).
 
 ### Identification
 

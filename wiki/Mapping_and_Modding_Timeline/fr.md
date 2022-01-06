@@ -181,7 +181,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
   - Les BAT (souvent appelé newBAT à cette époque) désigne les beatmaps à classer.
   - Les QAT s'assure que les beatmaps qualifiés étaient de qualité suffisante. Les beatmaps qui ne répondaient pas aux normes de qualité étaient disqualifiées.
   - Cela a essentiellement inversé la fusion des BAT et des MAT l'année dernière.
-  - La division a été mise en œuvre dans le cadre d'un essai manuel pour le [modding v2](/wiki/Beatmap_Discussion) qui tente d'automatiser la promotion et la retraite des BAT.
+  - La division a été mise en œuvre dans le cadre d'un essai manuel pour le [modding v2](/wiki/Beatmap_discussion) qui tente d'automatiser la promotion et la retraite des BAT.
   - Malgré les tentatives de présenter les disqualifications comme un changement positif pour la qualité des maps, la communauté les a perçues de manière négative. Cela était particulièrement évident dans le cas de beatmaps controversées comme [disqualification on *Halozy - Genryuu Kaiko*](https://osu.ppy.sh/community/forums/posts/3591479)
 
 ### Octobre
