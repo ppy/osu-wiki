@@ -23,9 +23,8 @@ Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une rev
 | ![][flag_SE] [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | **Actif** | Finlandais, Suédois |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | [WalterToro](https://github.com/WalterToro) | Inactif | Espagnol |
 
-## L'équipe de journalistes
-
-Conservateurs, rédacteurs et approbateurs de tous les [news posts](https://osu.ppy.sh/home/news) qui apparaissent sur le site web.
+## L'équipe de rédaction
+Curateur, rédacteurs et approbateurs de tous les [news posts](https://osu.ppy.sh/home/news) qui apparaissent sur le site web.
 
 | Profil osu! | Profil GitHub |
 | :-- | :-- |
