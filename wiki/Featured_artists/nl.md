@@ -27,7 +27,8 @@ Aantal nieuwe aanbevolen artiest uitgaven per jaar:
 - **2018:** 20
 - **2019:** 31
 - **2020:** 65
-- **2021:** *nog te bepalen*
+- **2021:** 101
+- **2022:** *nog te bepalen*
 
 Nieuwe aanbevolen artiesten worden wekelijks aangekondigd op osu!'s [newsfeed](https://osu.ppy.sh/home/news). De meeste aankondigingen bevatten een lijst van de nummers waarvoor osu! een licentie kreeg en een link naar hun aanbevolen artiest pagina. Sommige aankondigingen zijn ook gepaard met beatmappingwedstrijden of beatmaps die gemaakt werden door de [Mappers' Gilde](/wiki/Mappers_Guild).
 
