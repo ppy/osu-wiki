@@ -10,7 +10,7 @@ Officially supported tournaments have access to:
 
 - A dedicated [screening process](#tournament-screening) to prevent players with serious integrity infringements (cheating, multi-accounting, tournament bans) from playing.
 - [Profile badge prizes](#profile-badges) for first-place winners.
-- Assessment for a [main-menu banner advertisement](#requesting-main-menu-banner-support) during major matches, subject to availability and criteria.
+- Potential consideration for a [main-menu banner advertisement](#requesting-main-menu-banner-support) during major matches
 
 ## Eligibility
 
@@ -24,7 +24,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
   - `https://pif.ephemeral.ink/tournament-reports`
   - This report form is overseen by the Tournament Committee. We encourage all users—participants and staff alike—to make use of this form where necessary. 
 
-**¹**: An "experienced" team member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of the osu! World Cup team. This may vary at the discretion of the account support team.
+**¹**: An "experienced" team member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of an official World Cup volunteer team for any game mode. This may vary at the discretion of the account support team.
 
 ## Requesting Support
 
@@ -145,7 +145,7 @@ Long-running community tournaments may qualify for in-game main-menu banner supp
 
 - Your tournament meets the [eligibility criteria for applicable tournaments](#eligibility).
 - The tournament has successfully run for *at least* two badged iterations in the past.
-- The livestreams of your current tournament average over 100 concurrent viewers.
+- The livestreams of your current tournament average a reasonable viewership for any game modes featured in them. More popular modes (such as osu!) will be expected to have higher average viewership in order to qualify.
 - Your tournament is nearing its conclusion (e.g. your tournament is at Quarterfinals or above and it started on Round of 32).
 - You are able to provide the schedule of the matches and livestreams ahead of time.
 
