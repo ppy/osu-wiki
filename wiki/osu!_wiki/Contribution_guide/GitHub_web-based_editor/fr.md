@@ -27,7 +27,7 @@ Après avoir lu [Bonnes pratiques § Faire des modifications](/wiki/osu!_wiki/Co
 1. Cliquez sur le nom de la branche courante dans le coin inférieur gauche, ou appuyez sur `F1` et tapez `branch`.
 
   - Sélectionnez `Create new branch...`, entrez le nom de la branche, et appuyez sur `Entrée`.
-  - Pour vous aider à vous souvenir du contenu de votre travail, choisissez un nom descriptif. Par exemple, pour une traduction française de [Discussion de la beatmap](/wiki/Beatmap_Discussion), vous pourriez utiliser `beatmap-discussion-FR`.
+  - Pour vous aider à vous souvenir du contenu de votre travail, choisissez un nom descriptif. Par exemple, pour une traduction française de [Discussion de la beatmap](/wiki/Beatmap_discussion), vous pourriez utiliser `beatmap-discussion-FR`.
 
 2. Pour revenir à vos modifications, sélectionnez le nom de la branche appropriée dans la liste déroulante mentionnée précédemment.
 
