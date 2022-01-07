@@ -4,12 +4,12 @@ stub: true
 
 # Marathon
 
-**Marathon** adalah istilah yang digunakan untuk mendeskripsikan sebuah [beatmap](/wiki/Beatmap) yang berdurasi lima menit atau lebih. Biasanya beatmap ini dibuat secara kolaboratif untuk mengurangi waktu dan beban pengerjaannya.
+**Marathon** merupakan istilah yang digunakan untuk mendeskripsikan sebuah [beatmap](/wiki/Beatmap) yang berdurasi lima menit atau lebih. Pada umumnya, beatmap-beatmap marathon dibuat secara kolaboratif dengan beban pengerjaan yang merata antar setiap mapper yang terlibat di dalamnya.
 
 ## Sejarah
 
-Ketika beatmap marathon pertama kali diperkenalkan, durasi awalnya ditetapkan setidaknya *enam* menit dan terdapat satu tingkat kesulitan (dengan pengecualian setiap beatmap dapat memiliki satu tingkat kesulitan [osu!taiko](/wiki/Game_mode/osu!taiko)).
+Ketika konsep beatmap marathon pertama kali diperkenalkan, suatu beatmap hanya boleh memiliki satu tingkat kesulitan (plus satu tingkat kesulitan [osu!taiko](/wiki/Game_mode/osu!taiko) pada kasus-kasus tertentu) yang berdurasi setidaknya *enam* menit untuk dapat dikategorikan sebagai beatmap marathon.
 
-Beatmap marathon juga memiliki satu tingkat kesulitan yang dinamai "Marathon" untuk melewati Sistem Submisi Beatmap pada saat itu dan mencegah beatmap memasuki kategori [Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending). Saat beatmap tersebut di-*ranking*, beatmap marathon masuk ke dalam kategori [Approved](/wiki/Beatmap/Category#approved) sebagai ganti dari kategori [Ranked](/wiki/Beatmap/Category#ranked) untuk memberitahu bahwa beatmap tersebut merupakan marathon map. Di kemudian hari kategori tersebut ditinggalkan dan digantikan oleh kategori Ranked.
+Di samping itu, tingkat kesulitan yang ada pada beatmap-beatmap marathon di kala itu juga hanya dapat dinamai "Marathon". Hal ini dimaksudkan agar beatmap-beatmap marathon tidak sampai jatuh ke dalam kategori [Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) ketika diunggah melalui Beatmap Submission System. Pada saat suatu beatmap marathon di-*rank*, beatmap tersebut akan dimasukkan ke dalam kategori [Approved](/wiki/Beatmap/Category#approved) untuk menandakan bahwa beatmap yang bersangkutan tidak sama dengan beatmap-beatmap [Ranked](/wiki/Beatmap/Category#ranked) yang ada pada umumnya.
 
-Kriteria map marathon kemudian disesuaikan menjadi map dengan [drain time](/wiki/Gameplay/Drain_time) sekurang-kurangnya lima menit dan [penamaan tingkat kesulitan dapat berupa apa pun](/wiki/Ranking_Criteria/Difficulty_Naming). Hal ini berlangsung hingga aturan yang baru diperkenalkan pada tahun 2019.
+Berhubung seiring waktu kategori Approved perlahan mulai ditinggalkan dan digantikan oleh kategori Ranked, definisi beatmap marathon pun kemudian disesuaikan untuk mencakup seluruh beatmap yang memiliki [drain time](/wiki/Gameplay/Drain_time) sekurang-kurangnya lima menit tanpa batasan [penamaan tingkat kesulitan](/wiki/Ranking_Criteria/Difficulty_Naming). Definisi ini sendiri berlaku hingga peraturan Ranking Criteria yang baru disahkan pada tahun 2019.
