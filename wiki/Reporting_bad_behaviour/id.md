@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2bad0ad3bfcdc272e5832ecf6d29bd61fcc6c23a
+---
+
 # Melaporkan perilaku buruk
 
 osu! memiliki [sebuah tim moderator](/wiki/People/The_Team/Global_Moderation_Team) yang setia untuk menjaga permainan dan ekosistemnya bersih dan aman. Jika kamu melihat perilaku yang melanggar peraturan atau konten tidak pantas, laporkan hal tersebut dengan menggunakan metode yang dijelaskan di bawah ini. Sebagai alternatif, kamu dapat mengontak moderator yang sedang *online* secara langsung jika laporanmu tidak ditangani secara benar dalam jangka waktu yang wajar sebagai cara terakhir.
