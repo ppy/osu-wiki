@@ -22,7 +22,7 @@ layout: main_page
 
 # 游戏客户端
 
-通过了解游戏的高度自定义系统和技术细节，深入 osu! 所展现的韵律与节奏世界。
+通过了解游戏的多样化自定义系统和技术细节，深入 osu! 所展现的韵律与节奏世界。
 
 [界面](/wiki/Interface) • [设置](/wiki/Options) • [视觉设置](/wiki/Visual_Settings) • [快捷键](/wiki/Shortcut_key_reference) • [配置文件](/wiki/osu!_Program_Files/User_Configuration_File) • [目录文件](/wiki/osu!_Program_Files)
 
@@ -33,7 +33,7 @@ layout: main_page
 
 # 游戏玩法
 
-关于游戏物件、要素、机制与竞技内容。
+osu! 的物件、要素、机制与竞技内容。
 
 [游戏模式](/wiki/Game_mode)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
@@ -44,7 +44,7 @@ layout: main_page
 
 # [谱面编辑](/wiki/Beatmap_Editor)
 
-osu! 的谱面都是社区玩家们的智慧结晶，想与大家分享你喜欢的歌却不知道从何下手？来学习一下如何利用游戏内的谱面编辑器吧。
+osu! 的谱面都是社区玩家们的智慧结晶，想与大家分享你喜欢的歌却不知道从何下手？来学习一下如何使用游戏内的谱面编辑器吧。
 
 栏目：[Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song setup](/wiki/Beatmap_Editor/Song_Setup)
 
@@ -66,7 +66,7 @@ Ranking 指的是让谱面获得排行榜功能，从而为众人所知的过程
 </div>
 <div class="wiki-main-page-panel">
 
-# 规章制度与法律术语
+# 规章制度与法律条款
 
 了解这些让 osu! 社区安全运营的准则，包括音乐许可、媒体内容规范、聊天与论坛规章制度。
 
@@ -125,9 +125,9 @@ Ranking 指的是让谱面获得排行榜功能，从而为众人所知的过程
 </div>
 <div class="wiki-main-page-panel">
 
-# Wiki and meta pages
+# wiki 和其他页面
 
-osu! wiki 由志愿者编写并维护，提交建议、报告问题、撰写新文章均在 [osu-wiki 的 GitHub 存储库](https://github.com/ppy/osu-wiki)进行。
+osu! wiki 由志愿者编写并维护。提交建议、报告问题、撰写新文章均在 [osu-wiki 的 GitHub 存储库](https://github.com/ppy/osu-wiki)进行。
 
 [osu! 的历史](/wiki/History_of_osu!) • [osu! wiki 的历史](/wiki/History_of_osu!/osu!_wiki) • [制谱与摸图的时间线](/wiki/Mapping_and_Modding_Timeline) • [愚人节玩笑](/wiki/History_of_osu!/April_Fools)
 
