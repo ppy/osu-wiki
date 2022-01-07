@@ -206,7 +206,7 @@ Don, Don-chan
 
 #### Aspetto
 - Taiko (Skin)
-{Skin ufficiale per [Options's trigger](/wiki/Options#Skin)}
+{Skin ufficiale per [Options's trigger](/wiki/Client/Options#Skin)}
 
 #### Creator
 - Yukiko Yokoo (横尾有希子) \[Art\]

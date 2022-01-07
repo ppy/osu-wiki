@@ -208,7 +208,7 @@ Don, Don-chan
 
 #### Występowanie
 - Taiko (Skin)
-{Oficjalna skórka dost. [w opcjach](/wiki/Options#Skin)}
+{Oficjalna skórka dost. [w opcjach](/wiki/Client/Options#Skin)}
 
 #### Twórcy
 - Yukiko Yokoo (横尾有希子) \[Wygląd\]

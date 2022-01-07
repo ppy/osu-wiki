@@ -8,7 +8,7 @@ tags:
 
 *For other uses, see [NC (disambiguation)](/wiki/Disambiguation/NC).*
 
-**New combos** (more commonly known as *NCs*) signal the start of a new [combo](/wiki/Beatmapping/Combo). How new combos behave during gameplay depends on the currently selected [game mode](/wiki/Game_mode). They can be selected while [beatmapping](/wiki/Beatmapping) in the [beatmap editor](/wiki/Beatmap_Editor) by clicking the `New Combo` button on the right side of the `Compose` tab, or by using the shortcut `Q`. New combos are an integral part to [colourhaxing](/wiki/Beatmapping/Colourhaxing).
+**New combos** (more commonly known as *NCs*) signal the start of a new [combo](/wiki/Beatmapping/Combo). How new combos behave during gameplay depends on the currently selected [game mode](/wiki/Game_mode). They can be selected while [beatmapping](/wiki/Beatmapping) in the [beatmap editor](/wiki/Client/Beatmap_editor) by clicking the `New Combo` button on the right side of the `Compose` tab, or by using the shortcut `Q`. New combos are an integral part to [colourhaxing](/wiki/Beatmapping/Colourhaxing).
 
 ## osu!
 

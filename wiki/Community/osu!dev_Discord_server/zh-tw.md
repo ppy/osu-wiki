@@ -30,6 +30,6 @@ tags:
 | [osu!mania](/wiki/Game_mode/osu!mania) 星級和 pp | `#difficulty-mania` |
 | [圖譜聚光燈](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
-| [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
+| [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
 | [審圖](/wiki/Modding)討論 及 [NAT 會議](/wiki/Modding/NAT_meetings) | `#modding` |
-| [製圖者公會 (Mappers' Guild)](/wiki/Mappers_Guild) | `#mappers-guild` |
+| [製圖者公會 (Mappers' Guild)](/wiki/Community/Mappers_Guild) | `#mappers-guild` |

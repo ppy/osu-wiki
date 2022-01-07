@@ -52,7 +52,7 @@ Di osu!mania, akurasi dikalkulasi mirip dengan [osu!](#-osu!).
 
 Grafik performa adalah sebuah grafik yang menampilkan performa pemain (berdasarkan bar nyawa) selama bermain (waktu). Informasi tambahan dapat ditampilkan dengan menunjuk kursor dalam-game di atasnya.
 
-*Catatan: Informasi tambahan hanya dapat dilihat setelah bermain sebuah beatmap atau menonton sebuah putaran ulang terekspor. Setelah keluar dari [layar hasil](/wiki/Interface#papan-peringkat-skor-daring), informasi ini tidak akan tersimpan.*
+*Catatan: Informasi tambahan hanya dapat dilihat setelah bermain sebuah beatmap atau menonton sebuah putaran ulang terekspor. Setelah keluar dari [layar hasil](/wiki/Client/Interface#papan-peringkat-skor-daring), informasi ini tidak akan tersimpan.*
 
 ### Akurasi
 

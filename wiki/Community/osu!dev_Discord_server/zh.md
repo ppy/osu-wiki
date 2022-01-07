@@ -33,6 +33,6 @@ no_native_review: true
 | [osu!mania](/wiki/Game_mode/osu!mania) 星级和 PP | `#difficulty-mania` |
 | [月赛](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
-| [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
+| [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
 | [摸图](/wiki/Modding)讨论区和 [NAT 会议](/wiki/Modding/NAT_meetings) | `#modding` |
-| [Mappers' Guild](/wiki/Mappers_Guild) | `#mappers-guild` |
+| [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |

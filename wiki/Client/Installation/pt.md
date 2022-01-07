@@ -51,7 +51,7 @@ A Beatmap é um arquivo .osz que contêm a música e outros arquivos necessário
 - peppy's FAQ [1](https://osu.ppy.sh/p/faq)
 - peppy's download page [2](https://osu.ppy.sh/home/download)
 - peppy's osu! (OS X) testing release [3](https://osu.ppy.sh/community/forums/posts/909738)
-- An unofficial guide on [installing osu! on macOS](/wiki/Installation/macOS)
+- An unofficial guide on [installing osu! on macOS](/wiki/Client/Installation/macOS)
 - KcLKcL's Solution: Running osu! In Ubuntu or Xubuntu [5](https://osu.ppy.sh/community/forums/topics/14614)
 - doomed151's General Information and Download (osu!droid) [6](https://osu.ppy.sh/community/forums/topics/62680)
   - Official Website [7](http://osudroid.com)

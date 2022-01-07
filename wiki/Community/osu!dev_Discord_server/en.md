@@ -28,6 +28,6 @@ Each main development discussed in the server has its own channel:
 | [osu!mania](/wiki/Game_mode/osu!mania) star rating and performance points | `#difficulty-mania` |
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
-| [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
+| [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
 | [Modding](/wiki/Modding) discussion and [NAT meetings](/wiki/Modding/NAT_meetings) | `#modding` |
-| [Mappers' Guild](/wiki/Mappers_Guild) | `#mappers-guild` |
+| [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |

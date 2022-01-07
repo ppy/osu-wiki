@@ -7,7 +7,7 @@ tags:
 
 # Star rating
 
-Le **star rating** (***SR***) décrit la difficulté d'une [beatmap](/wiki/Beatmap), qui est automatiquement calculée par le client d'osu!. Le star rating joue un rôle important dans l'attribution des [points de performance](/wiki/Performance_points). Ce nombre peut être vu sur l'[écran de sélection des chansons](/wiki/Interface#écran-de-selection-des-beatmaps) et sur la page d'information d'une beatmap.
+Le **star rating** (***SR***) décrit la difficulté d'une [beatmap](/wiki/Beatmap), qui est automatiquement calculée par le client d'osu!. Le star rating joue un rôle important dans l'attribution des [points de performance](/wiki/Performance_points). Ce nombre peut être vu sur l'[écran de sélection des chansons](/wiki/Client/Interface#écran-de-selection-des-beatmaps) et sur la page d'information d'une beatmap.
 
 ## Difficulté
 
@@ -17,7 +17,7 @@ Le **star rating** (***SR***) décrit la difficulté d'une [beatmap](/wiki/Beatm
 
 ![Plages de classement par étoiles](/wiki/shared/star-rating/spectrum.png)
 
-Dans certains cas, comme dans [AiMod](/wiki/Beatmap_Editor/AiMod), la difficulté est classée en six niveaux selon le star rating, comme suit :
+Dans certains cas, comme dans [AiMod](/wiki/Client/Beatmap_editor/AiMod), la difficulté est classée en six niveaux selon le star rating, comme suit :
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy : 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal : 2.0★–2.69★

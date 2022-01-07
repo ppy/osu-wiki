@@ -10,10 +10,10 @@
 
 Users who are silenced by moderators cannot do the following:
 
-- Use [chat](/wiki/Chat_Console) (public and private), both in-game and on the website
+- Use [chat](/wiki/Client/Interface/Chat_console) (public and private), both in-game and on the website
 - Post on any of the osu! forums
 - Leave comments anywhere on the website (news, changelog, beatmaps)
-- Take part in [beatmap discussions](/wiki/Beatmap_Discussion)
+- Take part in [beatmap discussions](/wiki/Beatmap_discussion)
 - Edit profile details (e.g. avatar, "me!" section)
 - Submit and update beatmaps
 - Partake in [multiplayer](/wiki/Multi) games

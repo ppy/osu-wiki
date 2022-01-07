@@ -29,6 +29,6 @@ Chaque partie du développement possède son propre canal de discussion :
 | Discussions et modifications apportées au Star Rating et aux points de performance dans le mode [osu!mania](/wiki/Game_mode/osu!mania) | `#difficulty-mania` |
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
-| [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
+| [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
 | Discussions sur le [Modding](/wiki/Modding)/[Réunions de la NAT](/wiki/Modding/NAT_meetings) | `#modding` |
-| [Mappers' Guild](/wiki/Mappers_Guild) | `#mappers-guild` |
+| [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |

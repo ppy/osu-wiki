@@ -41,11 +41,11 @@ Pemilihan mode merubah [mode permainan](/wiki/Game_mode) yang kamu modding. Pemi
 
 ## Beatmap header
 
-*Untuk informasi tentang pengaturan metadata, lihat: [Pengaturan Lagu & Metadata Map dan Lagu](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
+*Untuk informasi tentang pengaturan metadata, lihat: [Pengaturan Lagu & Metadata Map dan Lagu](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)*
 
 ![](img/beatmap-header.png "Beatmap header")
 
-Beatmap header menampilkan judul dan artis yang telah ditentukan di dalam [beatmap editor](/wiki/Beatmap_Editor). Mengklik beatmap header akan mengarahkan kembali ke laman info.
+Beatmap header menampilkan judul dan artis yang telah ditentukan di dalam [beatmap editor](/wiki/Client/Beatmap_editor). Mengklik beatmap header akan mengarahkan kembali ke laman info.
 
 ## Menu tingkat kesulitan
 

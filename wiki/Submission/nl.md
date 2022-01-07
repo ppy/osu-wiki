@@ -4,7 +4,7 @@ no_native_review: true
 
 # Inzending
 
-[Beatmaps](/wiki/Beatmap) kunnen ingezonden worden naar de osu! website via de  [in-game editor](/wiki/Beatmap_Editor). Door een beatmap in te zenden kan deze aandacht krijgen van andere gebruikers en eventueel de [Ranked](/wiki/Beatmap/Category#ranked)- of [Loved](/wiki/Beatmap/Category#loved)-categorieën betreden.
+[Beatmaps](/wiki/Beatmap) kunnen ingezonden worden naar de osu! website via de  [in-game editor](/wiki/Client/Beatmap_editor). Door een beatmap in te zenden kan deze aandacht krijgen van andere gebruikers en eventueel de [Ranked](/wiki/Beatmap/Category#ranked)- of [Loved](/wiki/Beatmap/Category#loved)-categorieën betreden.
 
 ![](img/bss_warning.png "Beatmap Submission System scherm")
 

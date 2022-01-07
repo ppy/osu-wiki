@@ -1,6 +1,6 @@
 # Submisi Beatmap
 
-[Beatmap](/wiki/Beatmap) dapat diunggah ke situs osu! melalui [in-game editor](/wiki/Beatmap_Editor). Mengunggah sebuah beatmap memberikan sebuah perhatian kepada pengguna lain dan berpotensi dapat mengikuti kategori [Ranked](/wiki/Beatmap/Category#ranked) atau [Loved](/wiki/Beatmap/Category#loved).
+[Beatmap](/wiki/Beatmap) dapat diunggah ke situs osu! melalui [in-game editor](/wiki/Client/Beatmap_editor). Mengunggah sebuah beatmap memberikan sebuah perhatian kepada pengguna lain dan berpotensi dapat mengikuti kategori [Ranked](/wiki/Beatmap/Category#ranked) atau [Loved](/wiki/Beatmap/Category#loved).
 
 ![](img/bss_warning.png "Tampilan Beatmap Submission System")
 

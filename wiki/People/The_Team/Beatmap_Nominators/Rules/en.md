@@ -39,7 +39,7 @@ Each mode has its own required minimum for monthly activity.
 - **Do not nominate a beatmap without properly checking all difficulties of the mode(s) you are nominating.** Improper checking includes just running a modding tool before nominating or not even downloading the beatmap.
 - **Do not nominate a beatmap if you are unsure of something.** In such cases, ask fellow nominators for assistance before making any rushed decisions. This includes unfamiliar game modes, suspiciously grey area/unrankable issues, quality issues or complex timing.
 - **Do not nominate a beatmap if you cannot reasonably judge it.** Being able to reasonably evaluate a beatmap, either through playtesting or modding experience, is a core part of being able to judge a beatmap’s quality. If you are deemed not to have sufficient playing skill or modding experience, we may call your ability to judge the beatmap into question.
-- **Make sure no mod posts in the [beatmap discussion](/wiki/Beatmap_Discussion) have been ignored before nominating a beatmap.** Posts without a sufficient reply may count as ignored. When in doubt, double check if the Code of Conduct for Mapping and Modding has been violated on the beatmap discussion and act accordingly.
+- **Make sure no mod posts in the [beatmap discussion](/wiki/Beatmap_discussion) have been ignored before nominating a beatmap.** Posts without a sufficient reply may count as ignored. When in doubt, double check if the Code of Conduct for Mapping and Modding has been violated on the beatmap discussion and act accordingly.
 
 ### Qualification
 

@@ -208,7 +208,7 @@ Don, Don-chan
 
 #### Aparece em
 - Taiko (Skin)
-{Official skin for [Options's trigger](/wiki/Options#Skin)}
+{Official skin for [Options's trigger](/wiki/Client/Options#Skin)}
 
 #### Criador
 - Yukiko Yokoo (横尾有希子) \[Art\]
