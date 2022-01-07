@@ -14,10 +14,11 @@ outdated_since: c5ee74153aa8ac008034cce4efe4be4350f8034b
 
 會議通常每兩周召開一次，並提前一天在 [peppy 的 Twitter](https://twitter.com/ppy) 上發布提醒。
 
-下一次的 osu! 社群會議預定日期將於之後宣布。
+下一次的 osu! 社群會議預計在 **2022 年 1 月 9 日 (星期日 01:00 UTC)** 舉行。
 
-<!-- *提醒：若上述的會議日期已過，請查看此條目的英文版本以獲取最新日期。*
-Translation: *Note: If the above date has passed, the most recent date can be found in the English version of this article.*-->
+*提醒：若上述的會議日期已過，請查看此條目的英文版本以獲取最新日期。*
+
+<!-- Translation: *Note: If the above date has passed, the most recent date can be found in the English version of this article.* -->
 
 ## 參與其中
 
