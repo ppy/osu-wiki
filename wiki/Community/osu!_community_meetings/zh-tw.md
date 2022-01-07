@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: c5ee74153aa8ac008034cce4efe4be4350f8034b
 ---
 
 # osu! 社群會議 (osu! community meetings)
@@ -12,10 +14,11 @@ no_native_review: true
 
 會議通常每兩周召開一次，並提前一天在 [peppy 的 Twitter](https://twitter.com/ppy) 上發布提醒。
 
-下一次的 osu! 社群會議預定日期將於之後宣布。
+下一次的 osu! 社群會議預計在 **2022 年 1 月 9 日 (星期日 01:00 UTC)** 舉行。
 
-<!-- *提醒：若上述的會議日期已過，請查看此條目的英文版本以獲取最新日期。*
-Translation: *Note: If the above date has passed, the most recent date can be found in the English version of this article.*-->
+*提醒：若上述的會議日期已過，請查看此條目的英文版本以獲取最新日期。*
+
+<!-- Translation: *Note: If the above date has passed, the most recent date can be found in the English version of this article.* -->
 
 ## 參與其中
 
@@ -42,6 +45,7 @@ Translation: *Note: If the above date has passed, the most recent date can be fo
 | 4 | [2021 年 11 月 14 號](https://youtu.be/rEWgTY-L95Y) | [筆記](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) |
 | 5 | [2021 年 11 月 28 號](https://youtu.be/SqMrY26Q6Tw) | [筆記](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) |
 | 6 | [2021 年 12 月 11 號](https://youtu.be/dtGjIyTFtMA) | [筆記](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) |
+| 7 | [2021 年 12 月 18 號](https://www.twitch.tv/videos/1236856715) | [筆記](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) |
 
 ## 相關連結
 

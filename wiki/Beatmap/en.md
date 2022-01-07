@@ -30,7 +30,7 @@ Beatmap authors can [submit](/wiki/Submission) their creations to the public [be
 
 <!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
 
-After the submission, a beatmap gains additional metadata fields, such as description, language, genre, and the explicit content marker, which can be changed by the beatmap author themselves on the website. The beatmap also acquires [title text](Title_Text), appearance of which may be altered with the aid of [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
+After the submission, a beatmap gains additional metadata fields, such as description, language, genre, and the explicit content marker, which can be changed by the beatmap author themselves on the website. The beatmap also acquires [title text](/wiki/Beatmap/Title_text), appearance of which may be altered with the aid of [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
 
 ### Identification
 
@@ -115,4 +115,4 @@ osu! community regularly runs different contests in order to promote creativity 
 
 *Main page: [Featured Artists](/wiki/Featured_Artists)*
 
-Featured Artists is a community program by the [osu! team](/wiki/People/The_Team) that focuses on licensing music by various artists for osu! and making it available for mapping. The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist and provides pre-timed templates for mapping.
+Featured Artists is a community program by the [osu! team](/wiki/People/The_Team) that focuses on licensing music by various artists for osu! and making it available for mapping. The website's [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist and provides pre-timed templates for mapping.

@@ -58,7 +58,7 @@ Seri *podcast* ini telah diatur sehingga siapa pun dapat dengan bebas masuk ke d
 | 44 | [pishifat](https://osu.ppy.sh/users/3178418) | QAT | [Tautan](https://www.youtube.com/watch?v=YseljuHjmLo) |
 | 45 | [Rafis](https://osu.ppy.sh/users/2558286) | Pemain pro osu! | [Tautan](https://www.youtube.com/watch?v=wKhuovIMa8k) |
 | 46 | [Spare](https://osu.ppy.sh/users/2204373) | Pemain top osu! di Britania Raya | [Tautan](https://www.youtube.com/watch?v=MTWgwsIxPRc) |
-| 47 | [Helblinde](https://osu.ppy.sh/users/48053) | Featured artist | [Tautan](https://www.youtube.com/watch?v=cviwU4xkM-w) |
+| 47 | [Helblinde](https://osu.ppy.sh/users/48053) | Featured Artist | [Tautan](https://www.youtube.com/watch?v=cviwU4xkM-w) |
 | 48 | [MatsumotoRise](https://osu.ppy.sh/users/672726) | Pemain pro osu! | [Tautan](https://www.youtube.com/watch?v=8-3d2ZHw2O4) |
 | 49 | [Toy](https://osu.ppy.sh/users/2757689) | Pemain pro osu! | [Tautan](https://www.youtube.com/watch?v=lI8mIJLOu_k) |
 

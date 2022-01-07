@@ -1,10 +1,10 @@
 ---
 tags:
-- hit objects
-- sliderhead
-- sliderbody
-- slideranchor
-- objets
+  - hit objects
+  - sliderhead
+  - sliderbody
+  - slideranchor
+  - objets
 ---
 
 # Slider
@@ -19,7 +19,7 @@ Les sliders peuvent être créés dans l'[éditeur de beatmap](/wiki/Beatmap_Edi
 
 Vous êtes libre de déplacer/ajouter/supprimer les points de contrôle des sliders une fois que le slider est terminé. Vous pouvez supprimer les points de contrôle en faisant un clic droit après que le slider ait été sélectionné, ou ajouter un point de contrôle en maintenant la touche `Ctrl` et en cliquant n'importe où à l'intérieur des sliders (double-cliquez ou ctrl + clic sur un slider point pour faire un point de contrôle rouge). Les sliders peuvent également être inversés en cliquant et en faisant glisser la slidertail dans la timeline.
 
-Les utilisateurs peuvent également ajuster le nombre de ticks sur les sliders de leur beatmap dans l'onglet `Timing`. Plus il y a de ticks, plus le combo augmente rapidement (1x de plus par tick), ce qui permet de réaliser des scores plus élevés, mais en même temps, le joueur a plus de chances d'échouer car le jugement devient plus sévère.
+Les utilisateurs peuvent également ajuster le nombre de ticks sur les sliders de leur beatmap dans l'onglet `Timing`. Plus il y a de ticks, plus le combo augmente rapidement (1x de plus par tick), ce qui permet de réaliser des scores plus élevés, mais en même temps, le joueur a plus de chances d'échouer car le [jugement](/wiki/Gameplay/Judgement) devient plus sévère.
 
 ## Hitsounding pour les sliders
 

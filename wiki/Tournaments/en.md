@@ -2,6 +2,8 @@
 
 Section dedicated for osu! tournaments. Tournaments have their dedicated forum which can be found [through this link](https://osu.ppy.sh/community/forums/55).
 
+Please visit the [Official tournament support](/wiki/Tournaments/Official_support) page for details on how to request official support for your tournament (badges, screening process, etc.). 
+
 ## Official World Cups
 
 Official tournaments hosted by the Tournament Management.
@@ -73,6 +75,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!mania 4K World Cup 2019](MWC/2019_4K) | 2019-09-21 | 2019-10-27 | ![][flag_KR] South Korea | ![][flag_BR] Brazil | ![][flag_US] United States |
 | [osu!mania 4K World Cup 2020](MWC/2020_4K) | 2020-08-15 | 2020-09-20 | ![][flag_BR] Brazil | ![][flag_JP] Japan | ![][flag_KR] South Korea |
 | [osu!mania 4K World Cup 2021](MWC/2021_4K) | 2021-07-31 | 2021-09-19 | ![][flag_BR] Brazil | ![][flag_US] United States | ![][flag_MY] Malaysia |
+| [osu!mania 7K World Cup 2022](MWC/2022_7K) | 2021-12-16 | 2022-02-20 | TBD | TBD | TBD |
 
 ## Community
 
@@ -692,7 +695,6 @@ Unofficial tournaments/competitions hosted by the communities.
 
 - [List of countries that participated in osu! tournaments](Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
-- Requirements for receiving the [official support](/wiki/Tournaments/Official_support) for a tournament (badges, screening process, etc.)
 
 [GCrown]: /wiki/shared/crown-gold.png "1st place"
 [SCrown]: /wiki/shared/crown-silver.png "2nd place"

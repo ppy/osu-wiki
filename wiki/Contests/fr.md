@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: b87446df1a2a7a76a68595503495f1cbc9cfc0b4
+---
+
 # Concours
 
 Cette section est dédiée aux concours organisés par la communauté d'osu!.
@@ -35,11 +40,11 @@ Le **Monthly Beatmapping Contest**, dans son concept initial, était un concours
 
 Après une longue interruption, le Monthly Beatmapping Contest a été relancé en janvier 2020 avec un tout nouveau calendrier, de nouvelles règles, une nouvelle procédure de vote et un nouveau système de récompense. De nombreux aspects du concours ont été radicalement modifiés afin de rendre le concours plus attrayant et plus intéressant, dont voici quelques exemples :
 
-- Au lieu d'une musique unique, le concours propose désormais une sélection de musiques de différents [featured artists](/wiki/Featured_Artists) chaque mois, pour lesquelles tous les mappeurs participants sont libres de mapper et de soumettre leurs entrées.
+- Au lieu d'une musique unique, le concours propose désormais une sélection de musiques de différents [Featured Artists](/wiki/Featured_Artists) chaque mois, pour lesquelles tous les mappeurs participants sont libres de mapper et de soumettre leurs entrées.
 - Les mappeurs participants ne doivent désormais soumettre qu'une seule difficulté au lieu d'un mapset complet.
 - Les mappeurs participants doivent maintenant adhérer à un certain thème de mapping et/ou à une limitation définie dans les règles, telles que "Le classement par étoiles ne doit pas dépasser 4,00★" ou "Chaque objet doit chevaucher un autre objet".
 
-| Itération du concours | Featured artist | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | Screening Crew's #1 | Résultats |
+| Itération du concours | Featured Artist | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | Screening Crew's #1 | Résultats |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [Janvier 2020](https://osu.ppy.sh/community/contests/84) | [MYLK](https://osu.ppy.sh/beatmaps/artists/62) | ![osu!][osu!] | ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865) | [#1](https://osu.ppy.sh/home/news/2020-02-20-monthly-beatmapping-contest-1-results) |
 | [Février 2020](https://osu.ppy.sh/community/contests/89) | [Voicians](https://osu.ppy.sh/beatmaps/artists/59) | ![osu!][osu!] | ![][flag_RU] [Aphestra](https://osu.ppy.sh/users/11949191) | ![][flag_US] [UndeadCapulet](https://osu.ppy.sh/users/2523533) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | [#1](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results) |
