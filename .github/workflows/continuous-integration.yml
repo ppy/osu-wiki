@@ -107,10 +107,7 @@ jobs:
               suffix='{/sha}'
               desired_suffix='/${{ github.sha }}/pulls'
               pulls_url="${commits_url/$suffix/$desired_suffix}"
-              pr_body=$( curl -sS "$pulls_url" | jq -r '.[0].body' || true )
-
-              # don't fail on network errors
-              [[ -z $pr_body ]] || [[ $pr_body =~ $PULL_REQUEST_TAG ]]
+              [[ $( curl -sS "$pulls_url" | jq -r '.[0].body' ) =~ $PULL_REQUEST_TAG ]]
             }
             fi
           }
@@ -121,5 +118,5 @@ jobs:
           fi
 
           # get the first commit of the branch associated with the PR; GitHub's ubuntu-latest has curl/jq: https://github.com/actions/virtual-environments
-          first_commit_hash=$( curl -sS "${{ github.event.pull_request.commits_url }}?per_page=1" | jq -r '.[0].sha' || true )
+          first_commit_hash=$( curl -sS "${{ github.event.pull_request.commits_url }}?per_page=1" | jq -r '.[0].sha' )
           bash .github/scripts/ci/check_freshness.sh -f "${{ github.sha }}~1" -t "${{ github.sha }}" -s "$first_commit_hash"
