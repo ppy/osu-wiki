@@ -32,6 +32,6 @@ tags:
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
 | [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
 | [Official tournament support](/wiki/Tournaments/Official_support) | `#tournaments` |
-| [osu! 社群會議](/wiki/Community/osu!_community_meetings/) | `#community-meetings` |
+| [osu! 社群會議](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
 | [審圖](/wiki/Modding)討論 及 [NAT 會議](/wiki/Modding/NAT_meetings) | `#modding` |
 | [製圖者公會 (Mappers' Guild)](/wiki/Mappers_Guild) | `#mappers-guild` |
