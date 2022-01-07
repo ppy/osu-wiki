@@ -161,9 +161,11 @@ Feminino
 Ryuuta
 
 #### Aniversario
+
 ?
 
 #### Altura
+
 ?
 
 #### Aparece em
@@ -186,6 +188,7 @@ Masculino
 2008 \[Até 2014\]
 
 #### Peso
+
 ?
 
 #### Curiosidades
@@ -230,6 +233,7 @@ Masculino
 2008 \[Até 2014\]
 
 #### Peso
+
 ?
 
 #### Curiosidades
@@ -259,6 +263,7 @@ Don, Don-chan
 #### Aparece em
 
 - Taiko (Skin)
+
 {Official skin for [Options's trigger](/wiki/Client/Options#Skin)}
 
 #### Criador

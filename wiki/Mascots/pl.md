@@ -233,6 +233,7 @@ Mężczyzna
 2008 \[Zakończył karierę:2014\]
 
 #### Waga
+
 ?
 
 #### Dane biograficzne
@@ -262,6 +263,7 @@ Don, Don-chan
 #### Występowanie
 
 - Taiko (Skin)
+
 {Oficjalna skórka dost. [w opcjach](/wiki/Client/Options#Skin)}
 
 #### Twórcy

@@ -261,6 +261,7 @@ Don, Don-chan
 #### Einsatz in
 
 - Taiko (Skin)
+
 {Official skin for [Options's trigger](/wiki/Client/Options#Skin)}
 
 #### Ersteller
