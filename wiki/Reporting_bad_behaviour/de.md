@@ -9,7 +9,7 @@ Versehentliche Meldungen werden ignoriert. Benutzer, die absichtlich invalide Me
 | Art des Verstoßes | Kontaktperson |
 | :-- | :-- |
 | Offensive private Nachrichten | **Keine**: [ignoriere den Benutzer](/wiki/Chat_Console#commands-list) stattdessen. Für einen dauerhaften Effekt muss die Ignorieren-Liste in den [Optionen](/wiki/Options) des Spiel-Clients genutzt werden. |
-| Verstöße bezogen auf Modding und/oder Mapping | [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) oder Mitglieder des [GMT](/wiki/People/The_Team/Global_Moderation_Team) mit Schwerpunkt auf Mapping/Modding-Community-Moderation, via der [NAT-/BN-Management-](https://bn.mappersguild.com/reports)-Webseite |
+| Verstöße bezogen auf Modding und/oder Mapping | [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) oder Mitglieder des [GMTs](/wiki/People/The_Team/Global_Moderation_Team) mit Schwerpunkt auf Mapping/Modding-Community-Moderation, via der [NAT-/BN-Management](https://bn.mappersguild.com/reports)-Webseite |
 | Unangebrachtes Verhalten von einem [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) oder [GMT](/wiki/People/The_Team/Global_Moderation_Team) Mitglied | [Account-Support-Team](/wiki/People/The_Team/Account_support_team) unter [support@ppy.sh](mailto:support@ppy.sh) |
 | Sexueller Missbrauch oder extremes Fehlverhalten | Gehe zu [Missbrauch melden](/wiki/Reporting_bad_behaviour/Abuse) |
 
