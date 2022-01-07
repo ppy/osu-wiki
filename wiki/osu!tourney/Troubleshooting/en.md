@@ -40,7 +40,7 @@ If the client is still not spectating, click the `Panic` button.
 ## The rooms are not showing up!
 
 It is possible that your room is named incorrectly or you used the wrong acronym in the `tournament.cfg` file.
-Make sure that the room is named correctly by following the [multiplayer usage guide](/wiki/osu!tourney/Multiplayer_Usage) closely.
+Make sure that the room is named correctly by following the [multiplayer usage guide](/wiki/osu!tourney/Multiplayer_usage) closely.
 
 ## The team names are not showing!
 

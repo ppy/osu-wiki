@@ -58,7 +58,7 @@ The podcast series is set up so that anyone is free to join in on the live sessi
 | 44 | [pishifat](https://osu.ppy.sh/users/3178418) | QAT | [Link](https://www.youtube.com/watch?v=YseljuHjmLo) |
 | 45 | [Rafis](https://osu.ppy.sh/users/2558286) | Pro osu! player | [Link](https://www.youtube.com/watch?v=wKhuovIMa8k) |
 | 46 | [Spare](https://osu.ppy.sh/users/2204373) | Top UK osu! player | [Link](https://www.youtube.com/watch?v=MTWgwsIxPRc) |
-| 47 | [Helblinde](https://osu.ppy.sh/users/48053) | Featured artist | [Link](https://www.youtube.com/watch?v=cviwU4xkM-w) |
+| 47 | [Helblinde](https://osu.ppy.sh/users/48053) | Featured Artist | [Link](https://www.youtube.com/watch?v=cviwU4xkM-w) |
 | 48 | [MatsumotoRise](https://osu.ppy.sh/users/672726) | Pro osu! player | [Link](https://www.youtube.com/watch?v=8-3d2ZHw2O4) |
 | 49 | [Toy](https://osu.ppy.sh/users/2757689) | Pro osu! player | [Link](https://www.youtube.com/watch?v=lI8mIJLOu_k) |
 
