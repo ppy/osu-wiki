@@ -12,7 +12,7 @@ Untuk memastikan akunmu tetap dalam keadaan baik, kamu disarankan untuk membuat 
 
 Kami menyediakan banyak daftar lagu berlisensi yang dapat mapper gunakan, lagu-lagu ini tersedia melalui program [Artis Unggulan](/wiki/Featured_Artists). Setiap lagu dalam [daftar ini](https://osu.ppy.sh/beatmaps/artists) gratis untuk digunakan dalam osu! tanpa berisiko dihapus di masa yang akan datang.
 
-Saat mencari lagu di luar katalog artis unggulan osu!, periksa terlebih dahulu apakah pembuat lagu telah menyatakan secara eksplisit mengenai syarat penggunaan aset atau tidak. Informasi ini sering kali dapat ditemukan di bagian deskripsi dari platform yang digunakan untuk perilisan musik mereka (misalnya BandCamp, Soundcloud, YouTube) atau situs web pribadi mereka. Jika sebuah lagu dilisensikan menggunakan [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/3.0/) atau tersedia untuk digunakan secara non-komersial, maka lagu tersebut aman untuk digunakan dalam pembuatan beatmap.
+Saat mencari lagu di luar katalog artis unggulan osu!, periksa terlebih dahulu apakah pembuat lagu telah menyatakan secara eksplisit mengenai syarat penggunaan aset atau tidak. Informasi ini sering kali dapat ditemukan di bagian deskripsi dari platform yang digunakan untuk perilisan musik mereka (misalnya BandCamp, Soundcloud, YouTube) atau situs web pribadi mereka. Jika sebuah lagu dilisensikan menggunakan [Creative Commons License](https://creativecommons.org/about/cclicenses/) atau tersedia untuk digunakan secara non-komersial, maka lagu tersebut aman untuk digunakan dalam pembuatan beatmap.
 
 Jika kamu ingin membuat beatmap dengan sebuah lagu yang hak penggunaannya belum jelas, sebaiknya hubungi artis yang bersangkutan terlebih dahulu untuk mendapatkan izin. Sebagian besar artis memiliki metode kontak yang diberi label pada platform di mana mereka merilis musik, situs web pribadi, dan media sosial mereka.
 
@@ -22,7 +22,7 @@ Meskipun musik sering kali dibatasi hak cipta, efek suara (sound effects) yang d
 
 ## Visual
 
-Aset visual meliputi latar belakang/storyboard/video yang digunakan dalam beatmap mengikuti persyaratan penggunaan yang sama seperti aset audio.
+Aset visual meliputi [latar belakang](/wiki/Beatmap/Background)/[storyboard](/wiki/Storyboard)/video yang digunakan dalam beatmap mengikuti persyaratan penggunaan yang sama seperti aset audio.
 
 Mengenai musik, kami menyarankan untuk mencari masukan artis tentang syarat penggunaan dan meminta izin jika persyaratan tersebut kurang jelas. Misalnya, jika kamu tertarik menggunakan latar belakang dari seorang artis di pixiv, kunjungi profil mereka untuk meminta izin penggunaan atau kirim mereka pesan untuk meminta izin.
 

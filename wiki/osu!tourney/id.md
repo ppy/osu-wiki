@@ -7,9 +7,8 @@ Pengguna yang mengalami masalah **teknis** saat menjalankan klien bisa membaca [
 ## Artikel terkait
 
 - [Pemasangan](Setup)
-- [Penggunaan Untuk Multiplayer](Multiplayer_Usage)
-- [Penggunaan Untuk Spektator](Spectator_Usage)
+- [Penggunaan Untuk Multiplayer](Multiplayer_usage)
+- [Penggunaan Untuk Spektator](Spectator_usage)
 - [Skinning](Skinning)
-- [Perintah Pengelolaan Klien Turnamen](Tournament_Management_Commands)
+- [Perintah Pengelolaan Klien Turnamen](Tournament_management_commands)
 - [Penyelesaian Masalah](Troubleshooting)
-- [Hadiah](Prizes)

@@ -25,7 +25,7 @@ tags:
 
 *Laman utama: [Pusat bantuan](/wiki/Help_Centre)*
 
-Berikut merupakan jawaban atas pertanyaan-pertanyaan yang umum diajukan seputar segala hal yang berhubungan dengan akun osu! milikmu. Harap baca artikel ini dengan seksama untuk mengetahui apakah pertanyaan yang hendak kamu ajukan telah terperinci di dalamnya.
+Berikut merupakan jawaban atas pertanyaan-pertanyaan yang umum diajukan seputar segala hal yang berhubungan dengan akun osu! milikmu. Harap simak artikel ini dengan seksama untuk mengetahui apakah pertanyaan yang hendak kamu ajukan telah terperinci di dalamnya.
 
 ## Supporter
 
@@ -50,6 +50,16 @@ Apabila kamu tidak yakin mengapa akunmu di-*restrict*, kamu dapat meminta penjel
 Kamu juga dapat mengajukan banding terhadap status *restricted* yang kamu miliki. Dalam situasi di mana kamu telah terbukti melanggar, kamu harus menunggu setidaknya tiga (3) bulan terhitung dari tanggal pelanggaran terakhir yang kamu lakukan sebelum banding yang kamu ajukan dapat kami terima.
 
 Harap kunjungi laman *[Pembatasan Akun](/wiki/Help_Centre/Account_Restrictions)* untuk informasi lebih lanjut mengenai sistem pembatasan akun dan proses banding yang berlaku.
+
+## Larangan turnamen
+
+### Apa itu larangan turnamen?
+
+Larangan turnamen merupakan larangan pada pemain untuk dapat berpartisipasi pada seluruh turnamen resmi.
+
+Seorang pengguna dapat dikenakan larangan turnamen jika pengguna secara sengaja melanggar peraturan komunitas osu! selama bermain dalam turnamen, tergantung dari tingkat pelanggarannya. Sebagai contoh perilaku buruk tersebut yaitu mencoba untuk mendapatkan keuntungan yang tidak adil pada turnamen resmi, berperilaku kasar pada semua pihak yang terlibat dalam turnamen, atau secara sengaja melakukan tindakan yang mengganggu jalannya turnamen.
+
+Secara umum, larangan turnamen memiliki durasi dari 3 bulan hingga lebih dari setahun. Bahkan larangan dapat bersifat permanen. Meskipun demikian, semua larangan turnamen bersifat **final** dan tidak dapat diajukan banding seperti pembatasan akun.
 
 ## Proses *login*
 
@@ -138,7 +148,7 @@ Apabila sebelumnya kamu pernah memiliki [supporter tag](https://osu.ppy.sh/home/
 
 Apabila setelahnya kamu ingin [kembali mengganti nama penggunamu](https://osu.ppy.sh/store/products/32), kamu harus membayar sejumlah uang yang jumlahnya semakin meningkat seiring waktu mulai dari $8 USD untuk penggantian nama kedua, $16 USD untuk penggantian nama ketiga, dan seterusnya hingga maksimal $100 USD. Skema ini sendiri kami terapkan untuk mencegah terdapatnya pihak-pihak yang menyalahgunakan layanan penggantian nama ini dengan itikad yang tidak baik.
 
-Harap diingat bahwa nama pengguna yang hendak kamu pilih harus sesuai dengan [Peraturan Komunitas](/wiki/Rules) yang berlaku, di mana nama yang bersangkutan tidak boleh mengandung unsur-unsur yang ofensif, provokatif, ataupun menghina dari segi apapun. Di samping itu, kami juga tidak membenarkan penggunaan nama yang ditujukan untuk meniru tokoh-tokoh masyarakat (baik itu artis, politisi, ataupun yang lainnya); apabila kamu tidak patuh, kami berhak untuk mengembalikan nama penggunamu seperti sedia kala.
+Harap diingat bahwa nama pengguna yang hendak kamu pilih harus sesuai dengan [Peraturan Komunitas](/wiki/Rules#peraturan-komunitas) yang berlaku, di mana nama yang bersangkutan tidak boleh mengandung unsur-unsur yang ofensif, provokatif, ataupun menghina dari segi apapun. Di samping itu, kami juga tidak membenarkan penggunaan nama yang ditujukan untuk meniru tokoh-tokoh masyarakat (baik itu artis, politisi, ataupun yang lainnya); apabila kamu tidak patuh, kami berhak untuk mengembalikan nama penggunamu seperti sedia kala.
 
 Apabila kamu hanya ingin mengoreksi hal-hal seperti penggunaan huruf besar/kecil atau salah ketik (*typo*) yang ada, kamu dapat menghubungi kami melalui alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh). Proses koreksi ini tidak dipungut biaya, namun kamu **HARUS** menghubungi kami melalui email. Harap untuk tidak menggunakan layanan ini secara berlebihan!
 
@@ -148,7 +158,7 @@ Apabila kamu hanya ingin mengoreksi hal-hal seperti penggunaan huruf besar/kecil
 
 Apabila pemilik dari nama pengguna yang hendak kamu ambil tidak tercatat memiliki riwayat permainan apapun dan tidak pernah melakukan *login* dalam kurun waktu setidaknya 6 bulan ke belakang, maka kamu dapat mengambil nama pengguna yang bersangkutan melalui [laman penggantian nama pengguna](https://osu.ppy.sh/store/products/32) seperti biasa.
 
-Apabila pemilik dari nama pengguna yang hendak kamu ambil **tercatat memiliki riwayat permainan**, maka nama pengguna yang bersangkutan baru akan dapat kamu ambil setelah 6 bulan + jangka waktu tambahan sebagaimana yang ditentukan oleh [formula berikut](https://www.desmos.com/calculator/b89siyv9j8 "Grafik Desmos"). Hal ini ditujukan untuk mencegah terambilnya nama pengguna milik pemain lain yang masih aktif atau baru saja pensiun.
+Apabila pemilik dari nama pengguna yang hendak kamu ambil **tercatat memiliki riwayat permainan**, maka nama pengguna yang bersangkutan baru akan dapat kamu ambil setelah 6 bulan + jangka waktu tambahan sebagaimana yang ditentukan oleh [formula berikut](https://www.desmos.com/calculator/b89siyv9j8). Hal ini ditujukan untuk mencegah terambilnya nama pengguna milik pemain lain yang masih aktif atau baru saja pensiun.
 
 ### Apakah saya dapat mengambil kembali nama pengguna saya yang terdahulu?
 
@@ -178,17 +188,13 @@ Pada umumnya, riwayat nama-nama pengguna yang pernah kamu gunakan akan dapat ter
 
 ### Bendera yang tertera pada laman profil osu! saya tidak benar!
 
-**Kami dapat mengubah benderamu dari satu negara ke negara lain, namun hanya apabila kamu dapat menunjukkan kepada kami bukti-bukti kependudukan atau kewarganegaraan yang diisukan oleh negara yang bersangkutan.**
+**Mohon maaf, namun kami tidak dapat mengubah benderamu.**
 
 Pada saat kamu pertama kali membuat akun, sistem kami akan secara otomatis memasangkan bendera yang sesuai dengan lokasi pendaftaranmu pada akun milikmu.
 
-Sebagai contoh, apabila kamu menbuat akunmu pada saat kamu sedang berlibur di Amerika Serikat, akunmu akan memiliki bendera Amerika Serikat dan kamu juga akan terdaftar pada peringkat negara (*country ranking*) Amerika Serikat.
+Sebelumnya, kami membuka layanan penggantian bendera kepada para pengguna yang ingin mengubah benderanya dengan catatan mereka memiliki dokumen-dokumen kependudukan yang terkait. Meskipun demikian, karena dalam prakteknya layanan ini telah banyak disalahgunakan, kami memutuskan untuk tidak lagi melanjutkan layanan ini.
 
-Apabila kamu ingin mengubah bendera yang tertera pada laman profil osu! milikmu, **harap hubungi tim layanan dukungan kami**.
-
-Tim kami akan memintamu untuk menunjukkan dokumen-dokumen kependudukan atau kewarganegaraan milikmu sebagai bukti - entah itu paspor, SIM, KTP, ataupun dokumen-dokumen lainnya yang memiliki kekuatan hukum serupa. Harap kirimkan dokumen-dokumen tersebut dalam bentuk foto yang di dalamnya turut menyertakan gambar klien osu! yang tengah terhubung masuk dengan akun milikmu.
-
-Kami tidak akan membocorkan informasi-informasi ini kepada pihak lain, dan kami sangat menyarankan agar kamu dapat terlebih dahulu menyensor informasi-informasi yang bersifat pribadi (seperti nama, tanggal lahir, dan lain sebagainya) sebelum kamu mengirimkan foto yang bersangkutan kepada kami.
+Harap dimengerti bahwa untuk saat ini kami tidak dapat mengubah benderamu dengan alasan apapun, terlepas dari apakah kamu (atau seseorang yang kamu tahu) sebelumnya pernah menggunakan layanan ini ataupun tidak.
 
 ### Apakah saya dapat memiliki lebih dari satu akun?
 

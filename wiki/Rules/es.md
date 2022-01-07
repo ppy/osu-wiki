@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2787f766bf4cf7b8e2e3afd824e15adcb4e79798
+---
+
 # Reglas
 
 Estas reglas son la base sobre la cual mantenemos la comunidad de osu! como un lugar entretenido y acogedor para todos.
@@ -22,7 +27,7 @@ Estas reglas son la base sobre la cual mantenemos la comunidad de osu! como un l
 6. **Sé consciente de lo que compartes con otros, especialmente si el contenido es potencialmente perturbador o de naturaleza extremádamente gráfica.** Si tienes que pensarlo dos veces sobre si algo es o no apropiado de enlazar, probablemente no está bien. Evita cosas con luces rápidas y parpadeantes, gore, imágenes de abuso u cualquier otro contenido muy gráfico.
 7. **Mantén los enlaces a sitios legales y adecuados.** Sitios de transmiciones piratas y cualquier cosa relacionada a piratería, como programas pirateados, de cualquier tipo no está bien y no los queremos en nuestro chat (sitios oficialmente licenciados como Animelab y Crunchyroll están bien). Promocionar enlaces de Twitch para otros videojuegos está bien, pero SOLO en `#videogames`.
 8. **No promociones servidores de chat de terceros de ningún tipo, incluyendo servidores/grupos de Discord, Teamspeak o Skype.** El chat de osu! es principalmente sobre osu! y no sobre compartir links a tus servidores personales. Hazlo a través de mensajes privados (MP) si es que tienes que hacerlo.
-9. **En los canales de idiomas específicos, debes hablar el idioma dominante (inglés en `#english`, tailandés en `#thai`, etc) si es que estás participando en alguna discusión.** En el caso que el lenguaje de un canal no sea explícito (o inferido por el nombre del canal, como en tailandés para `#thai` u holandés para `#dutch`), este siempre será inglés. Los canales #lobby y #help pueden ser usados en cualquier idioma, a diferencia de los otros canales. *Miembros del [personal de moderación](/wiki/People/Global_Moderation_Team) no necesitan seguir esta regla, cuando hacen su trabajo.*
+9. **En los canales de idiomas específicos, debes hablar el idioma dominante (inglés en `#english`, tailandés en `#thai`, etc) si es que estás participando en alguna discusión.** En el caso que el lenguaje de un canal no sea explícito (o inferido por el nombre del canal, como en tailandés para `#thai` u holandés para `#dutch`), este siempre será inglés. Los canales #lobby y #help pueden ser usados en cualquier idioma, a diferencia de los otros canales. *Miembros del [personal de moderación](/wiki/People/The_Team/Global_Moderation_Team) no necesitan seguir esta regla, cuando hacen su trabajo.*
 
 ## Reglas del Foro
 

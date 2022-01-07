@@ -7,7 +7,7 @@ tags:
 
 ![SAS logo](img/logo.png)
 
-The **Score Attack Showdown** (***SAS***) was a worldwide 1v1 osu!mania 4K tournament hosted by ![][flag_US] [KamaTheCrimson](https://osu.ppy.sh/users/6362259). The tournament featured a variety of customly made maps from the most unique and veteran osu!mania 4K mappers in its mappools. It was the first installment of the Score Attack Showdown.
+The **Score Attack Showdown** (***SAS***) was a worldwide 1v1 osu!mania 4K tournament hosted by ![][flag_US] [KamaTheCrimson](https://osu.ppy.sh/users/6362259). The tournament featured a variety of customly made maps from the most unique and veteran osu!mania 4K mappers in its mappools. It was the first instalment of the Score Attack Showdown.
 
 ## Tournament schedule
 
@@ -35,7 +35,7 @@ The Score Attack Showdown was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_US] [KamaTheCrimson](https://osu.ppy.sh/users/6362259) |
+| Organizer | ![][flag_US] [KamaTheCrimson](https://osu.ppy.sh/users/6362259) |
 | Mapper | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_CA] [BringoBrango](https://osu.ppy.sh/users/10274043), ![][flag_DE] [Cokiiplay](https://osu.ppy.sh/users/6760124), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_GB] [Monheim](https://osu.ppy.sh/users/6814203), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_SG] [riunosk](https://osu.ppy.sh/users/5594381), ![][flag_ID] [Rivals\_7](https://osu.ppy.sh/users/4610379), ![][flag_TH] [RuleBlazing](https://osu.ppy.sh/users/7312402), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [Valedict](https://osu.ppy.sh/users/2537082), ![][flag_SE] [Vortex-](https://osu.ppy.sh/users/4999669), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Score validator | ![][flag_US] [\[GS\]Diamond](https://osu.ppy.sh/users/13076648), ![][flag_US] [\[ Klondike \]](https://osu.ppy.sh/users/10946799) ![][flag_US] [KamaTheCrimson](https://osu.ppy.sh/users/6362259), ![][flag_BR] [LeMarcinho](https://osu.ppy.sh/users/13347579), ![][flag_US] [NovaSagittarii](https://osu.ppy.sh/users/11664177), ![][flag_US] [Playboi Carti](https://osu.ppy.sh/users/4833676), ![][flag_US] [---Rose---](https://osu.ppy.sh/users/9481266), ![][flag_DE] [Sirbeyy](https://osu.ppy.sh/users/12917829), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_GB] [XxNewson1234xX](https://osu.ppy.sh/users/9895650) |
 | Designer | ![][flag_US] [KamaTheCrimson](https://osu.ppy.sh/users/6362259) |
@@ -45,10 +45,10 @@ The Score Attack Showdown was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1151413)
-- [SAS Discord server](https://discord.gg/DJ239vF "Discord")
-- [Livestream](https://www.twitch.tv/itsmestro "Twitch")
-- [Score submission form](https://forms.gle/B5Rcy618hi5pwamq6 "Google Forms")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0 "Google Sheets")**
+- [SAS Discord server](https://discord.gg/DJ239vF)
+- [Livestream](https://www.twitch.tv/itsmestro)
+- [Score submission form](https://forms.gle/B5Rcy618hi5pwamq6)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0)**
 
 ## Participants
 
@@ -204,7 +204,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 5
 
-**[Download the mappack here! (35 MB)](https://cdn.discordapp.com/attachments/711778005399109687/780169704618721300/SAS_Round_5.zip "Discord")**
+**[Download the mappack here! (35 MB)](https://cdn.discordapp.com/attachments/711778005399109687/780169704618721300/SAS_Round_5.zip)**
 
 - Hybrid: [Camellia - B L A C K - R A Y (Toaph Daddy) \[D A R K - M A G I C I A N x1.05\]](https://osu.ppy.sh/beatmapsets/1306124#mania/2707896)
 - Tech: [Frums - Quantum Distress Signal (Valedict) \[Hysteria\]](https://osu.ppy.sh/beatmapsets/1233691#mania/2564612)
@@ -213,7 +213,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 4
 
-**[Download the mappack here! (30 MB)](https://cdn.discordapp.com/attachments/711778005399109687/777633478010339358/SAS_Round_4.zip "Discord")**
+**[Download the mappack here! (30 MB)](https://cdn.discordapp.com/attachments/711778005399109687/777633478010339358/SAS_Round_4.zip)**
 
 - Hybrid: [TRAELMYX - Late For Class! (HowToPlayLN) \[RuleNote don't want to make SV on this difficulty\]](https://osu.ppy.sh/beatmapsets/1279459#mania/2657939)
 - Tech: [3l3d3p - Ibitbt (Monheim) \[F4w4rD\]](https://osu.ppy.sh/beatmapsets/1287682#mania/2673545)
@@ -222,7 +222,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 3
 
-**[Download the mappack here! (24 MB)](https://cdn.discordapp.com/attachments/711778005399109687/775098856210694233/SAS_Round_3.zip "Discord")**
+**[Download the mappack here! (24 MB)](https://cdn.discordapp.com/attachments/711778005399109687/775098856210694233/SAS_Round_3.zip)**
 
 - Hybrid: [s-don vs. Hino Isuka - Trrricksters!! (zero2snow) \[Nooonsense!!\]](https://osu.ppy.sh/beatmapsets/1294819#mania/2686701)
 - Tech: [Frums - Flashbacklog (Kamuy) \[\< flashback database to username sysdate - Dragolord;\>\]](https://osu.ppy.sh/beatmapsets/1294546#mania/2686268)
@@ -231,7 +231,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 2
 
-**[Download the mappack here! (27 MB)](https://cdn.discordapp.com/attachments/711778005399109687/772567150929641502/SAS_Round_2.zip "Discord")**
+**[Download the mappack here! (27 MB)](https://cdn.discordapp.com/attachments/711778005399109687/772567150929641502/SAS_Round_2.zip)**
 
 - Hybrid: [plusol - Angel Temple (BringoBrango) \[Ascension (SAS edit)\]](https://osu.ppy.sh/beatmapsets/1286284#mania/2670767)
 - Tech: [Kola Kid - spaceman (cut) (Vortex-) \[I always wanted you to go, into space man (1.1x)\]](https://osu.ppy.sh/beatmapsets/1290983#mania/2679801)
@@ -240,7 +240,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 1
 
-**[Download the mappack here! (20 MB)](https://cdn.discordapp.com/attachments/711916285746872412/770020679361232896/SAS_Round_1.zip "Discord")**
+**[Download the mappack here! (20 MB)](https://cdn.discordapp.com/attachments/711916285746872412/770020679361232896/SAS_Round_1.zip)**
 
 - Hybrid: [WEDNESDAY CAMPANELLA - Shakushain (Penguinosity) \[Shakushaku\]](https://osu.ppy.sh/beatmapsets/1282584#mania/2663884)
 - Tech: [Ben Briggs - Fearless Living (RuleBlazing) \[Coward\]](https://osu.ppy.sh/beatmapsets/1283930#mania/2666220)
@@ -249,7 +249,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-*Note: All scores listed are the sum of scores from each mappool. More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0 "Google Sheets").*
+*Note: All scores listed are the sum of scores from each mappool. More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0).*
 
 ### Round 5
 

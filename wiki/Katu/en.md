@@ -10,7 +10,7 @@ tags:
 
 *Not to be confused with osu!taiko's Katu.*
 
-**Katu (喝)**, *Katsu*, or *Beat!*, is a [scoring](/wiki/Score) term for when a [combo](/wiki/Beatmapping/Combo) is completed without the highest possible [accuracy](/wiki/Gameplay/Accuracy) on every note. However, Katu can't be achieved if a combo contains a 50 or a miss.
+**Katu (喝)**, *Katsu*, or *Beat!*, is a [judgement](/wiki/Gameplay/Judgement) term for when a [combo](/wiki/Beatmapping/Combo) is completed without the highest possible [accuracy](/wiki/Gameplay/Accuracy) on every note. However, Katu can't be achieved if a combo contains a 50 or a miss.
 
 There are two types of Katu which depend on accuracy value of the last hit in combo. The first type is worth 300 base score points, and the second one is worth 100 base score points. The 100-point Katu gives the least amount of HP, and 300-point Katu gives less HP than a [Geki](/wiki/Geki).
 
@@ -28,8 +28,8 @@ Katu comes from the Nintendo DS game [Elite Beat Agents](/wiki/iNiS_games), whic
 
 ## Gameplay in iNiS games
 
-- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs "YouTube")
-- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI "YouTube")
+- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs)
+- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI)
 
 ## Other game modes
 
@@ -55,6 +55,6 @@ Katu triggers the second-tier on the storyboard during the gameplay, which usual
 
 Obtaining Katu triggers several events:
 
-- [Fail Layer](/wiki/Storyboard_Scripting/General_Rules#layers) is deactivated.
-- [Pass Layer](/wiki/Storyboard_Scripting/General_Rules#layers) is activated.
+- [Fail Layer](/wiki/Storyboard/Scripting/General_Rules#layers) is deactivated.
+- [Pass Layer](/wiki/Storyboard/Scripting/General_Rules#layers) is activated.
 - "Passing" event is triggered, if the previous state was "Fail".

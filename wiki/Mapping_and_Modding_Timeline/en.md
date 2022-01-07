@@ -11,10 +11,10 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### October
 
 - **2007-10-21:** [Ranking Criteria](/wiki/Ranking_Criteria) launched. <!-- https://osu.ppy.sh/community/forums/topics/439 -->
-- **2007-10-29:**: Forum thread icons were standardized for the ranking process.
+- **2007-10-29:**: Forum thread icons were standardised for the ranking process.
   - A `star` (![star icon](/wiki/shared/icon/star.gif)) icon marked good maps that need more work.
   - A `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icon marked beatmaps considered for ranking.
-  - A `heart` (![heart icon](/wiki/shared/icon/heart.gif)) icon marked ranked beatmaps. These could only be placed after a beatmap was bubbled, ensuring two nominations per beatmap.
+  - A `heart` (![heart icon](/wiki/shared/icon/heart.gif)) icon marked ranked beatmaps. These could only be placed after a beatmap was [bubbled](/wiki/Modding/Bubble), ensuring two nominations per beatmap.
   - A `nuke` (![nuke icon](/wiki/shared/icon/nuke.gif)) icon marked beatmaps that could not be ranked under any circumstances. <!-- https://osu.ppy.sh/forum/t/619 + missing info on flame/nuke -->
 
 **200 beatmaps** were ranked in 2007.
@@ -46,8 +46,8 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### February
 
-- **2009-02-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) was promoted as the first [BAT manager](/wiki/Modding/Bat_Managers). <!-- https://osu.ppy.sh/community/forums/topics/36869?start=81784 -->
-  - His primary role was to organize new BAT promotion and improve the current BAT's activity/proficiency.<!-- https://osu.ppy.sh/community/forums/topics/9639 -->
+- **2009-02-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) was promoted as the first [BAT manager](/wiki/Modding/BAT_Managers). <!-- https://osu.ppy.sh/community/forums/topics/36869?start=81784 -->
+  - His primary role was to organise new BAT promotion and improve the current BAT's activity/proficiency.<!-- https://osu.ppy.sh/community/forums/topics/9639 -->
 
 ### March
 
@@ -66,7 +66,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
   - ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) was the group's first [MAT Leader](/wiki/Modding/MAT_Leaders). <!-- https://osu.ppy.sh/community/forums/topics/21854 -->
   - MAT members had a purple title on the forums.
   - The MAT was initially titled the "intermediate modding team" consisting of established modders who weren't ready to enter the BAT yet.
-  - The MAT's goals were to reduce BAT workload, identify maps that were slipping between the cracks in the ranking cycle, and increase quality control, both of which were pressing issues at the time. In hindsight, none of its goals were fully realized. <!-- https://osu.ppy.sh/community/forums/topics/21682 -->
+  - The MAT's goals were to reduce BAT workload, identify maps that were slipping between the cracks in the ranking cycle, and increase quality control, both of which were pressing issues at the time. In hindsight, none of its goals were fully realised. <!-- https://osu.ppy.sh/community/forums/topics/21682 -->
 
 **1400 beatmaps** were ranked in 2009.
 
@@ -120,7 +120,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### July
 
-- **2012-07-22:** The first iteration of [Performance Points](/wiki/Performance_Points) known as [ppv1](/wiki/Performance_Points/ppv1) was established, replacing total ranked score leaderboards.
+- **2012-07-22:** The first iteration of [Performance Points](/wiki/Performance_points) known as [ppv1](/wiki/Performance_points/ppv1) was established, replacing total ranked score leaderboards.
 
 ### August
 
@@ -171,7 +171,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### February
 
-- **2014-02-10:** To improve organization, mapping and modding system internal management shifted from the forums to Trello. <!-- https://osu.ppy.sh/community/forums/topics/185379 -->
+- **2014-02-10:** To improve organisation, mapping and modding system internal management shifted from the forums to Trello. <!-- https://osu.ppy.sh/community/forums/topics/185379 -->
 - **2014-02-18:** [Approved](/wiki/Beatmap/Category#approved) beatmap category was retired.
   - Marathon beatmaps were promoted to Ranked with 3 BAT nominations (2 `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icons + 1 `flame` (![flame icon](/wiki/shared/icon/flame.gif)) icon). <!-- date is not accurate. this is date of last approved map's approval -->
 
@@ -216,7 +216,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 - **2015-06-04:** Realtime Beatmap Nominator Ranking was introduced to automatically assess BN nomination quality/activity. <!-- https://osu.ppy.sh/community/forums/topics/334994 -->
   - The system was dropped soon after its announcement due to implementation concerns by osu!'s developers. <!-- ephemeral is source(?) -->
-- **2015-06-06:** QAT disqualifications were anonymized on the forums.
+- **2015-06-06:** QAT disqualifications were anonymised on the forums.
   - All posts were written under a user named "[Quality Assurance Team](https://osu.ppy.sh/users/6616586)".
   - This was set up in response to frequent attacks on the QAT's disqualifications, often relating to removing high performance points scores (e.g. the [disqualification on *Dragonforce - The Last Journey Home*](https://osu.ppy.sh/community/forums/posts/4009572)) or relating to forced opinions (e.g. the [disqualification on *Reol - Asymmetry*](https://osu.ppy.sh/community/forums/posts/4206479)).
   - The community referred to the anonymous QAT account as the "QAT bot".
@@ -224,7 +224,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### August
 
-- **2015-08-25:** Qualified beatmaps no longer rewarded players with [Performance Points](/wiki/Performance_Points).
+- **2015-08-25:** Qualified beatmaps no longer rewarded players with [Performance Points](/wiki/Performance_points).
   - This was done in response to widespread complaints about Performance Points losses on qualified beatmaps.
   - Tension between players and the QAT was relieved after this change. <!-- https://osu.ppy.sh/community/forums/topics/352460 -->
 - **2015-08-26:** Anonymous QAT disqualifications were discontinued.
@@ -269,13 +269,13 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 - **2016-08-05:** The [Quality Assurance Team blog](/wiki/Quality_Assurance_Team_Blog) was created.
   - The QAT was receiving criticism about being too closed-off from the rest of the mapping community, so this blog was created to increase transparency for QAT decision making and community activity. <!-- https://osu.ppy.sh/community/forums/topics/578437 -->
-- **2016-08-26:** The [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) was implemented to establish modding behavior expectations.
+- **2016-08-26:** The [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) was implemented to establish modding behaviour expectations.
   - These rules and guidelines were treated as common sense up until this point. By documenting them, moderation could be made more consistent.<!-- https://osu.ppy.sh/community/forums/topics/447557 -->
 
 ### September
 
 - **2016-09-30:** The [Community Mentorship Program](/wiki/Community_Mentorship_Program) re-launched after a long hiatus.
-  - Its new structure was centered around [Discord](https://discord.com) communication and seasonal cycles.
+  - Its new structure was centred around [Discord](https://discord.com) communication and seasonal cycles.
   - The program was led by ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) <!-- https://osu.ppy.sh/community/forums/topics/506906 -->
 
 ### October
@@ -292,7 +292,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
   - To allow adequate time to veto, consecutive nominations could not be set within 24 hours of each other.
   - Inconclusive vetoes were mediated by the QAT shortly after this system's implementation. <!-- date is not exact at all, but logs are from deleted discord chat -->
 - **2016-11-02:** Beatmap Nominator files were created to keep tabs on all individual BN members.
-  - These files included modding/nomination activity, disqualifications, and behavior issues.
+  - These files included modding/nomination activity, disqualifications, and behaviour issues.
   - Members of the BN with 3 or more "strikes" logged in these files would be removed from the group. <!-- QAT folder archives -->
 
 **1720 beatmaps** were ranked in 2016.
@@ -326,21 +326,21 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### September
 
-- **2017-09-10:** The "[QAT Upheaval](https://osu.ppy.sh/community/forums/topics/635507)" was implemented. This was a series of changes in response to dissatisfaction from the mapping community under leadership by [osu!team](/wiki/People/The_Team) higher-ups. Following this change, the QAT began self-leadership without higher-up intervention.
+- **2017-09-10:** The "[QAT Upheaval](https://osu.ppy.sh/community/forums/topics/635507)" was implemented. This was a series of changes in response to dissatisfaction from the mapping community under leadership by [osu! team](/wiki/People/The_Team) higher-ups. Following this change, the QAT began self-leadership without higher-up intervention.
   - [BN Tiers](/wiki/Modding/Beatmap_Nominator_Tiers) were replaced with [Probationary Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominators). Two probationary BN members could not nominate the same beatmap and users could not be in Probation for more than two months at a time.
   - Beatmap Nominators were given purple titles on the forums.
-  - ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) were appointed as [QAT leaders](/wiki/Modding/QAT_Leaders) by a vote of BN/QAT members. Their responsibility was to work with the osu!team to maintain the mapping and modding communities.
+  - ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) were appointed as [QAT leaders](/wiki/Modding/QAT_Leaders) by a vote of BN/QAT members. Their responsibility was to work with the osu! team to maintain the mapping and modding communities.
   - Tenure based Beatmap Nominator and Quality Assurance Team profile badges were created. This and other Beatmap Nominator rewards were planned to re-motivate the currently dissatisfied team. <!-- https://osu.ppy.sh/community/forums/topics/635507 + https://osu.ppy.sh/community/forums/topics/640679 -->
   - With less authoritative leadership and more users capable of nominating beatmaps after these changes, mapping standards stopped being strictly controlled. Controversial beatmaps that would have likely not been ranked under the previous system (e.g. *[FELT - Rendezvous](https://osu.ppy.sh/beatmapsets/725171#osu/1541573)*) reached ranked status.
 
 ### October
 
-- **2017-10-01:** [BN tests](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) were replaced with the QAT reviewing each BN applicant's anonymized mods.
+- **2017-10-01:** [BN tests](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) were replaced with the QAT reviewing each BN applicant's anonymised mods.
   - This change was made because BN test cheating had become unrealistic to avoid. <!-- date not exact, based on discord logs -->
 
 ### December
 
-- **2017-12-17:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) stepped down from involvement in the osu!team, including his heavy participation in the QAT. <!-- https://clips.twitch.tv/BrightFragilePepperoniAllenHuhu -->
+- **2017-12-17:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) stepped down from involvement in the osu! team, including his heavy participation in the QAT. <!-- https://clips.twitch.tv/BrightFragilePepperoniAllenHuhu -->
 
 **1847 beatmaps** were ranked in 2017.
 
@@ -356,9 +356,9 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
   - QAT members could be involved in multiple branches.
   - This aimed to give purpose to some QAT members who felt that they had no specific roles in the mapping/modding community. This feeling was largely relevant because the QAT had little involvement with Quality Assurance anymore. <!-- source is discord logs -->
 - **2018-03-03:** `#modding` channel was created in the [osu!dev Discord server](/wiki/osu!dev_Discord_server).
-  - While its goal was to shift mapping discussion away from the BN Discord server, this discussion center was rarely used apart from scheduled QAT meetings. <!-- source is discord logs -->
+  - While its goal was to shift mapping discussion away from the BN Discord server, this discussion centre was rarely used apart from scheduled QAT meetings. <!-- source is discord logs -->
 - **2018-03-24:** Ranking Criteria subforum was re-opened for public proposal discussions and the UBKRC was discontinued.
-  - The UBKRC was discontinued at this time because all subsections of the general and game mode Ranking Criteria were finalized. <!-- https://osu.ppy.sh/community/forums/topics/720532 -->
+  - The UBKRC was discontinued at this time because all subsections of the general and game mode Ranking Criteria were finalised. <!-- https://osu.ppy.sh/community/forums/topics/720532 -->
 
 ### April
 
@@ -371,11 +371,11 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### May
 
 - **2018-05-22:** ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) became a [QAT leader](/wiki/Modding/QAT_Leaders) after ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) stepped down.
-  - Like his predecessor, he continued working with the osu!team to manage the mapping/modding scenes. <!-- source is discord logs -->
+  - Like his predecessor, he continued working with the osu! team to manage the mapping/modding scenes. <!-- source is discord logs -->
 
 ### June
 
-- **2018-06-21:** The [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) initiative was created.
+- **2018-06-21:** The [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) initiative was created.
   - This was designed to ensure that all qualified beatmaps were reviewed by at least 2 BN or QAT members before rank.
   - The program was managed via Trello and automated by ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) through Aiess.
   - This change was one of the primary reasons that the QAT was later renamed. <!-- https://osu.ppy.sh/community/forums/topics/764134 + https://trello.com/b/iEsda45d/quality-assurance-helpers -->
@@ -388,10 +388,10 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### December
 
-- **2018-12-12:** The osu!team took a [negative stance on beatmap commissions](https://osu.ppy.sh/community/forums/topics/840838).
+- **2018-12-12:** The osu! team took a [negative stance on beatmap commissions](https://osu.ppy.sh/community/forums/topics/840838).
   - The team acknowledged that commissions will happen, but pledged to take no action unless members of the BN or QAT were involved.
 - **2018-12-17:** ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) became a [QAT leader](/wiki/Modding/QAT_Leaders) after ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) stepped down.
-  - Like his predecessor, he continued working with the osu!team to manage the mapping/modding scenes. <!-- source is discord logs -->
+  - Like his predecessor, he continued working with the osu! team to manage the mapping/modding scenes. <!-- source is discord logs -->
 - **2018-12-17:** The QAT was declared as having no future in its current state and ideas for reform were encouraged.
   - This decision was made because the QAT had not been involved in anything Quality Assurance related for years, however a system needed to exist to maintain the Beatmap Nominators and mapping community in general.
   - Some concerns at the time about the QAT included:
@@ -419,7 +419,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### May
 
-- **2019-05-05:** The BN/QAT restructure was finalized.
+- **2019-05-05:** The BN/QAT restructure was finalised.
   - The Quality Assurance Team was renamed to the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
   - Beatmap Nominators became responsible for disqualifications and veto mediation. Veto mediation was handled through a blind vote rather than a discussion.
   - The [Beatmap Nominator website](https://bn.mappersguild.com/) was published to automate many BN/NAT tasks.
@@ -445,20 +445,24 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### February
 
-- **2020-02-07:** The first Elite Nominator profile badges were awarded to recognize continued exceptional performance from members of the BN team.
+- **2020-02-07:** The first Elite Nominator profile badges were awarded to recognise continued exceptional performance from members of the BN team.
   - These were originally planned in the QAT Upheaval two years prior. <!-- https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019 -->
 - **2020-02-21:**  NAT leadership as a concept was discontinued as ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) stepped down as NAT leader.
   - Tasks specific to NAT leaders were delegated to the whole team.
-- **2020-02-24:** The [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) system was transferred from Trello to the [Beatmap Nominator website](https://bn.mappersguild.com/).
+- **2020-02-24:** The [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) system was transferred from Trello to the [Beatmap Nominator website](https://bn.mappersguild.com/).
   - This change was made to account for Quality Assurance activity in Beatmap Nominator evaluations.
 
 ### April
 
-- **2020-04-11:** The Mappers' Report <!-- TODO: stub --> led by ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) was created to summarize mapping community events via front page news posts.
+- **2020-04-11:** The Mappers' Report<!-- TODO: stub --> led by ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) was created to summarise mapping community events via front page news posts.
+
+### June
+
+- **2020-06-09:** The [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines) article was added to the wiki and promoted in the [Beatmap Submission System](/wiki/Submission) to encourage appropriate permission for all assets in new beatmap submissions.
 
 ### October
 
-- **2020-10-02:** [Beatmap Nominator Expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) were established to combat behavior concerns within the group. <!-- https://github.com/ppy/osu-wiki/pull/4281 -->
+- **2020-10-02:** [Beatmap Nominator Expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) were established to combat behaviour concerns within the group. <!-- https://github.com/ppy/osu-wiki/pull/4281 -->
   - Concerns included low approachability, uncivil actions in community settings, and questionable ranking quality standards.
   - This resulted in the immediate removal of 5 Beatmap Nominators.
 - **2020-10-29:** Beatmap Nominator game mode proficiency became visible on osu! web. <!-- https://github.com/ppy/osu-web/pull/6747 -->
@@ -481,6 +485,47 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 - **2021-01-05:** `Explicit` label for beatmaps was implemented to clean up inappropriate old ranked content and permit previously unacceptable song content. <!-- https://github.com/ppy/osu-web/pull/6575 -->
   - This change did not apply to visual content in pending beatmaps. These continue to follow [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations).
 - **2021-01-30:** In-game chat channel `#modhelp` was replaced by `#mapping` because the original channel was primarily used for mapping discussion.
+
+### March
+
+- **2021-03-09:** In conjunction with the [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines), an addition to the Ranking Criteria began requiring mappers to source their background images and other media in their descriptions.
+- **2021-03-15:** Requirements for re-joining the Beatmap Nominators were loosened.
+  - All applicants needed to undergo the application, but returning group members had shorter cooldown options and were allowed to provide 1-2 months of modding activity instead of the previous 3 month standard.<!-- https://github.com/ppy/osu-wiki/pull/5027/files -->
+- **2021-03-16:** Beatmap Nominators were given automatically renewing osu!supporter.
+  - This change was made in response to a lack of incentives for dedicated members of the mapping scene. <!-- https://osu.ppy.sh/community/forums/topics/1268711?n=58 -->
+- **2021-03-16:** The limit of ranked maps per day per mode was increased from 8 to 10 to compensate for an overflowing Qualified beatmaps category.
+
+### April
+
+- **2021-04-08:** A Ranking Criteria Rule disallowing multiple Qualified beatmaps of the same song was removed.
+  - Concerns about malicious disqualification practices were relieved by this change.
+
+### May
+
+- **2021-05-12:** The Nomination Assessment Team began a trial for new Beatmap Nominator evaluations. <!-- https://osu.ppy.sh/community/forums/topics/1400803?n=1 -->
+  - This trial only included osu! members and concluded in August.
+  - A subset of Beatmap Nominators were given evaluation roles equal to the NAT, allowing them to contribute to and decide the outcomes of BN applications and current BN evaluations.
+  - The first batch of trial members included ~10 users, while the second batch included ~20 users.
+- **2021-05-13:** An option to change difficulty owner was added to the Beatmap Discussion page. <!-- https://github.com/ppy/osu-web/pull/7517 -->
+  - This allowed guest difficulty creators to resolve issues on their beatmaps. Only the mapset host could resolve issues prior to this change, which was a major frustration to mappers.
+
+### June
+
+- **2021-06-14:** The Global Moderation Team began accepting applications from mapping-focused users to bridge the growing tension between the GMT and mapping/modding scenes. <!-- https://discord.com/channels/316154420591067136/316586967171203075/854061295702769694 / document any effects of this later -->
+
+### August 
+
+- **2021-08-14:** osu!taiko began a trial of Beatmap Nominator evaluations mimicking osu!'s trial from 2021-05-12.
+
+### September
+
+- **2021-09-11:** ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) changed Ranking Criteria rule about the Source field. <!-- https://github.com/ppy/osu-wiki/commit/02dee3fff09c3e890dc408271bb3d2d93c3c5b2d -->
+  - Mapping community members were unhappy with the lack of public discussion behind this change and later made adaptations to close new loopholes. <!-- https://osu.ppy.sh/community/forums/topics/1417764?n=1 -->
+- **2021-09-18:** After a decade-long hiatus, the osu! community meetings returned in the form of stage voice chats on the osu!dev Discord. The first primary topic addressed was [concerns with osu!mania's Ranking Criteria](https://osu.ppy.sh/community/forums/topics/1388182?n=1), along with other issues like general Ranking Criteria complexity, engaging with newer mappers, and more.
+  - osu!mania Ranking Criteria changes were put up for discussion and, if agreed upon, may take effect soon. <!-- document effects of this with next update https://osu.ppy.sh/community/forums/topics/1418542?n=1 / https://osu.ppy.sh/community/forums/topics/1418560?n=1 -->
+- **2021-09-24:** [Quality Assurance checks](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) no longer counted towards Beatmap Nominator activity. <!-- https://osu.ppy.sh/community/forums/topics/1423554?n=1 -->
+  - This was implemented because it seemed like some users were using this as a loophole to avoid actively contributing as a Beatmap Nominator.
+  - Prior to this change, every QA check was considered equal to 1/4 of a nomination.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

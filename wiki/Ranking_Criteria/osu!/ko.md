@@ -1,8 +1,13 @@
+---
+outdated: true
+outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
+---
+
 # osu! 랭크 기준
 
 ***참고: 이 문서는 [일반 랭크 기준](/wiki/Ranking_Criteria)의 연장입니다.***
 
-이 **osu! 랭크 기준** 문서는 [osu! 스탠다드](/wiki/Game_mode/osu!) [비트맵](/wiki/Beatmap)이 [비트맵 랭킹 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 따라야 하는 [규칙과 가이드라인](/wiki/Ranking_Criteria#general-terms)을 제시합니다.
+이 **osu! 랭크 기준** 문서는 [osu! 스탠다드](/wiki/Game_mode/osu!) [비트맵](/wiki/Beatmap)이 [비트맵 랭킹 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 따라야 하는 [규칙과 가이드라인](/wiki/Ranking_Criteria#일반-용-(general-terms))을 제시합니다.
 
 ## 종합
 
@@ -53,13 +58,13 @@
 
 *주 문서: [난이도명](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-- ![](/wiki/shared/diff/easy-o.png) Easy
-- ![](/wiki/shared/diff/normal-o.png) Normal
-- ![](/wiki/shared/diff/hard-o.png) Hard
-- ![](/wiki/shared/diff/insane-o.png) Insane
-- ![](/wiki/shared/diff/expert-o.png) Expert
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-o.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
-### ![](/wiki/shared/diff/easy-o.png) Easy
+### ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 
 #### 규칙
 
@@ -90,7 +95,7 @@
 - [OD](/wiki/Beatmapping/Overall_difficulty) / [HP](/wiki/Beatmapping/HP_drain_rate)는 1 이상 3 이하여야 합니다.
 - [CS](/wiki/Beatmapping/Circle_size)는 4 이하여야 합니다.
 
-### ![](/wiki/shared/diff/normal-o.png) Normal
+### ![](/wiki/shared/diff/normal-o.png?20211215) Normal
 
 #### 규칙
 
@@ -130,7 +135,7 @@
 - [OD](/wiki/Beatmapping/Overall_difficulty) / [HP](/wiki/Beatmapping/HP_drain_rate)는 3 이상 5 이하여야 합니다.
 - [CS](/wiki/Beatmapping/Circle_size)는 5 이하여야 합니다.
 
-### ![](/wiki/shared/diff/hard-o.png) Hard
+### ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 
 #### Rules
 
@@ -155,7 +160,7 @@
 - [HP](/wiki/Beatmapping/HP_drain_rate)는 4 이상 6 이하여야 합니다.
 - [CS](/wiki/Beatmapping/Circle_size)는 6 이하여야 합니다.
 
-### ![](/wiki/shared/diff/insane-o.png) Insane
+### ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 
 #### 가이드라인
 
@@ -173,7 +178,7 @@
 - [HP](/wiki/Beatmapping/HP_drain_rate)는 5 이상 8 이하여야 합니다.
 - [CS](/wiki/Beatmapping/Circle_size)는 7 이하여야 합니다.
 
-### ![](/wiki/shared/diff/expert-o.png) Expert
+### ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
 #### 가이드라인
 

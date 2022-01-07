@@ -10,7 +10,7 @@ tags:
 
 ![MP7K 2020 logo](img/logo.png)
 
-The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2020*) is a 1v1 osu!mania 7-key tournament made for osu! players living in Poland or of Polish heritage. It is the second installment of the Mistrzostwa Polski w 7K.
+The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2020*) is a 1v1 osu!mania 7-key tournament made for osu! players living in Poland or of Polish heritage. It is the second instalment of the Mistrzostwa Polski w 7K.
 
 ## Tournament schedule
 
@@ -19,7 +19,7 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 | Registration phase | 2020-10-12/2020-10-25 |
 | Qualifiers showcase | 2020-11-01 |
 | Qualifiers | 2020-11-06/2020-11-08 |
-| Group Stage | 2020-11-14/2020-11-15 |
+| Group stage | 2020-11-14/2020-11-15 |
 | Round of 16 | 2020-11-21/2020-11-22 |
 | Quarterfinals | 2020-11-28/2020-11-29 |
 | Semifinals | 2020-12-05/2020-12-06 |
@@ -48,12 +48,10 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1160806)
-- [Livestream](https://www.twitch.tv/polishosumania "Twitch")
-- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv "Discord")
+- [Livestream](https://www.twitch.tv/polishosumania)
+- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv)
 
 ## Participants
-
-### Qualified participants
 
 | Seed | Users |
 | :-- | :-- |
@@ -61,7 +59,7 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 | Mid (#9 - #16) | ![][flag_PL] [paprotkaaaaa](https://osu.ppy.sh/users/6034749), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Shadow Cultist](https://osu.ppy.sh/users/3827078), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [M1si3k](https://osu.ppy.sh/users/7447943), ![][flag_PL] [Hentu](https://osu.ppy.sh/users/7706642), ![][flag_PL] [szuncoll](https://osu.ppy.sh/users/12393014), ![][flag_PL] [Modren](https://osu.ppy.sh/users/1828621) |
 | Low (#17 - #24) | ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [Bersis](https://osu.ppy.sh/users/3557582), ![][flag_PL] [Matie](https://osu.ppy.sh/users/10144756), ![][flag_PL] [Moskas](https://osu.ppy.sh/users/1934077), ![][flag_PL] [Ilikecook](https://osu.ppy.sh/users/11389137), ![][flag_PL] [vipera767](https://osu.ppy.sh/users/4258883), ![][flag_PL] [Bobini-](https://osu.ppy.sh/users/7352299), ![][flag_PL] [LosDaniel](https://osu.ppy.sh/users/6105427) |
 
-### Groups
+## Groups
 
 | Group | High | Mid | Low |
 | :-: | :-- | :-- | :-- |
@@ -76,53 +74,53 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 
 ## Match schedule: Round of 16
 
-Round of 16 schedule can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSI38OTqk6QlqVJ7ww16TzawYt3B9jfpy2JDP3AEZM8d8tcy1WU13EMMOG8FK9dKOyywrTeBy7SOyxc/pubhtml "Google Sheets").
+Round of 16 schedule can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSI38OTqk6QlqVJ7ww16TzawYt3B9jfpy2JDP3AEZM8d8tcy1WU13EMMOG8FK9dKOyywrTeBy7SOyxc/pubhtml).
 
 ## Mappools
 
 ### Round of 16
 
 - FreeMod
-  - [Risk Junk - quaver (Reba) \[Kawawa's Hyper\]](https://osu.ppy.sh/beatmapsets/361372#mania/793970)
-  - [ARForest - Metheus (McEndu) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301463#mania/2699444)
-  - [Ono Hideyuki - Sola (OrdLyn) \[relaxation\]](https://osu.ppy.sh/beatmapsets/705472#mania/1492102)
-  - [Artisan - Summon (Mipha-) \[miphather\]](https://osu.ppy.sh/beatmapsets/1257417#mania/2612884)
-  - [MuryokuP - Overture (Cryolien) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301465#mania/2699446)
-  - [Cinnamons x Evening Cinema - Summer time (\[Sick\]Catcat) \[Memori : shinyi\]](https://osu.ppy.sh/beatmapsets/1279771#mania/2658499)
-  - [Gareth Coker - Ori and the Will of the Wisps Main Theme (Xecus Fate) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301461#mania/2699442)
-  - [Rabpit  - Saika (Rumia-) \[Lv.24\]](https://osu.ppy.sh/beatmapsets/182221#mania/437109)
-  - [Jun Kuroda - waitin' for u (\_Rokii) \[Hard\]](https://osu.ppy.sh/beatmapsets/994276#mania/2086283)
-  - [SoundTeMP - Peaceful Forest (Lenfried-) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301482#mania/2699468)
-  - [Oskar Schuster - Fjarlaegur (Cypix Remix) (Tidek) \[7K Isolation\]](https://osu.ppy.sh/beatmapsets/1301462#mania/2699443)
+  1. [Risk Junk - quaver (Reba) \[Kawawa's Hyper\]](https://osu.ppy.sh/beatmapsets/361372#mania/793970)
+  2. [ARForest - Metheus (McEndu) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301463#mania/2699444)
+  3. [Ono Hideyuki - Sola (OrdLyn) \[relaxation\]](https://osu.ppy.sh/beatmapsets/705472#mania/1492102)
+  4. [Artisan - Summon (Mipha-) \[miphather\]](https://osu.ppy.sh/beatmapsets/1257417#mania/2612884)
+  5. [MuryokuP - Overture (Cryolien) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301465#mania/2699446)
+  6. [Cinnamons x Evening Cinema - Summer time (\[Sick\]Catcat) \[Memori : shinyi\]](https://osu.ppy.sh/beatmapsets/1279771#mania/2658499)
+  7. [Gareth Coker - Ori and the Will of the Wisps Main Theme (Xecus Fate) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301461#mania/2699442)
+  8. [Rabpit  - Saika (Rumia-) \[Lv.24\]](https://osu.ppy.sh/beatmapsets/182221#mania/437109)
+  9. [Jun Kuroda - waitin' for u (\_Rokii) \[Hard\]](https://osu.ppy.sh/beatmapsets/994276#mania/2086283)
+  10. [SoundTeMP - Peaceful Forest (Lenfried-) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301482#mania/2699468)
+  11. [Oskar Schuster - Fjarlaegur (Cypix Remix) (Tidek) \[7K Isolation\]](https://osu.ppy.sh/beatmapsets/1301462#mania/2699443)
 - Tiebreaker
-  - **[mafumafu - I wanna be a girl (Kawawa) \[Cinderella\]](https://osu.ppy.sh/beatmapsets/1111963#mania/2323202)**
+  1. **[mafumafu - I wanna be a girl (Kawawa) \[Cinderella\]](https://osu.ppy.sh/beatmapsets/1111963#mania/2323202)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
-  - [u's - Bokura wa Ima no Naka de(TV Size) (arcwinolivirus) \[Normal\]](https://osu.ppy.sh/beatmapsets/569665#mania/1207647)
-  - [SOUND HOLIC Vs. dj TAKA feat. YURiCa - TIEFSEE (arcwinolivirus) \[Lv.9\]](https://osu.ppy.sh/beatmapsets/977173#mania/2045295)
-  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (Asherz007) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1216672#mania/2531565)
-  - [a\_hisa - Town of Windmill (Benzopirene) \[Easy\]](https://osu.ppy.sh/beatmapsets/1296336#mania/2689628)
-  - [\*namirin - Mawaru Sora Usagi (SurfChu85) \[Sky Rabbit\]](https://osu.ppy.sh/beatmapsets/580328#mania/1228750)
-  - [TRUE - Hiryuu no Kishi (TV Size) (Remuring) \[Madoka's Normal\]](https://osu.ppy.sh/beatmapsets/1042985#mania/2179983)
-  - [Sutopuri - Palette Dance (Noch Einen) \[Hard\]](https://osu.ppy.sh/beatmapsets/1171748#mania/2448402)
-  - [Hatsuki Yura - Izayoi Warabeuta (Elementaires) \[HD\]](https://osu.ppy.sh/beatmapsets/319989#mania/712126)
-  - [she - VHS Layer 006 (Benzopirene) \[SV Layer\]](https://osu.ppy.sh/beatmapsets/1296334#mania/2689624)
+  1. [u's - Bokura wa Ima no Naka de(TV Size) (arcwinolivirus) \[Normal\]](https://osu.ppy.sh/beatmapsets/569665#mania/1207647)
+  2. [SOUND HOLIC Vs. dj TAKA feat. YURiCa - TIEFSEE (arcwinolivirus) \[Lv.9\]](https://osu.ppy.sh/beatmapsets/977173#mania/2045295)
+  3. [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (Asherz007) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1216672#mania/2531565)
+  4. [a\_hisa - Town of Windmill (Benzopirene) \[Easy\]](https://osu.ppy.sh/beatmapsets/1296336#mania/2689628)
+  5. [\*namirin - Mawaru Sora Usagi (SurfChu85) \[Sky Rabbit\]](https://osu.ppy.sh/beatmapsets/580328#mania/1228750)
+  6. [TRUE - Hiryuu no Kishi (TV Size) (Remuring) \[Madoka's Normal\]](https://osu.ppy.sh/beatmapsets/1042985#mania/2179983)
+  7. [Sutopuri - Palette Dance (Noch Einen) \[Hard\]](https://osu.ppy.sh/beatmapsets/1171748#mania/2448402)
+  8. [Hatsuki Yura - Izayoi Warabeuta (Elementaires) \[HD\]](https://osu.ppy.sh/beatmapsets/319989#mania/712126)
+  9. [she - VHS Layer 006 (Benzopirene) \[SV Layer\]](https://osu.ppy.sh/beatmapsets/1296334#mania/2689624)
 - Tiebreaker
-  - **[ChouCho - starlog (17VA) \[LordRaika's Hard\]](https://osu.ppy.sh/beatmapsets/254713#mania/595725)**
+  1. **[ChouCho - starlog (17VA) \[LordRaika's Hard\]](https://osu.ppy.sh/beatmapsets/254713#mania/595725)**
 
 ### Qualifiers
 
 - FreeMod
-  - [Klippa - Mulch (DaDarkDragon) [Stage 1: Dissolution]](https://osu.ppy.sh/beatmapsets/1291022#mania/2679858)
-  - [tieff - Human Touch (Otis1204) [Stage 2: Trace]](https://osu.ppy.sh/beatmapsets/1291009#mania/2679842)
-  - [Mimineko - Forget Me Not (DaDarkDragon) [Stage 3: Harmony]](https://osu.ppy.sh/beatmapsets/1291016#mania/2679851)
-  - [Waterflame - Grind District (Benzopirene) [Stage 4: Impetuousness]](https://osu.ppy.sh/beatmapsets/1291017#mania/2679852)
+  1. [Klippa - Mulch (DaDarkDragon) [Stage 1: Dissolution]](https://osu.ppy.sh/beatmapsets/1291022#mania/2679858)
+  2. [tieff - Human Touch (Otis1204) [Stage 2: Trace]](https://osu.ppy.sh/beatmapsets/1291009#mania/2679842)
+  3. [Mimineko - Forget Me Not (DaDarkDragon) [Stage 3: Harmony]](https://osu.ppy.sh/beatmapsets/1291016#mania/2679851)
+  4. [Waterflame - Grind District (Benzopirene) [Stage 4: Impetuousness]](https://osu.ppy.sh/beatmapsets/1291017#mania/2679852)
 
 ## Match results
 
-### Group Stage
+### Group stage
 
 Saturday, 14 November 2020:
 
@@ -160,7 +158,7 @@ Sunday, 15 November 2020:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4DrJH1ut5nwkm8Df6MIwzpekAVhp0hg1uIe1ytQJdPDaFkjKzYJFxzDEQuyOE0fVpqFvLZdZ5ra8W/pubhtml "Google Sheets").
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4DrJH1ut5nwkm8Df6MIwzpekAVhp0hg1uIe1ytQJdPDaFkjKzYJFxzDEQuyOE0fVpqFvLZdZ5ra8W/pubhtml).
 
 ## Ruleset
 
@@ -245,7 +243,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 - In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This rule is enforced within Group Stage of the tournament.
 
-#### Bans, protected picks, rolls and song selection
+#### Bans, protected picks, rolls, and song selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Mirror, Hidden, Fade In, or Flashlight can be used. Protected maps and bans are hidden.
 - Players are to choose one (1) protected map within the map pool which they want to keep not bannable (from their opponent). They must inform the match referee in a private message of which map they choose to protect. If the player does not inform the match referee of their desired map choice in 60 seconds, the player will lose an opportunity to choose a protected map.

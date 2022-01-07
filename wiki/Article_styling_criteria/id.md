@@ -12,11 +12,11 @@ Kriteria gaya artikel atau *Article styling criteria* (ASC) berfungsi sebagai ga
 
 Semua artikel harus bertujuan memiliki tata bahasa yang tepat, ejaan yang benar, dan informasi yang akurat.
 
-Untuk menyarankan perubahan terkait kriteria gaya artikel, [buat sebuah open issue di GitHub](https://github.com/ppy/osu-wiki/issues/new "GitHub").
+Untuk menyarankan perubahan terkait kriteria gaya artikel, [buat sebuah open issue di GitHub](https://github.com/ppy/osu-wiki/issues/new).
 
 ## Standar
 
-*Perhatian: Artikel di bawah ini menggunakan format [RFC 2119](https://tools.ietf.org/html/rfc2119 "IETF Tools") untuk menggambarkan tingkat persyaratan.*
+*Perhatian: Artikel di bawah ini menggunakan format [RFC 2119](https://tools.ietf.org/html/rfc2119) untuk menggambarkan tingkat persyaratan.*
 
 Kriteria gaya artikel dibagi menjadi dua artikel:
 

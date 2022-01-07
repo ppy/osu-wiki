@@ -45,7 +45,7 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 ## Links
 
 - [Diskussionsthread](https://osu.ppy.sh/community/forums/topics/279723)
-- [osu! Taiko World Cup 2015 auf Twitch](https://www.twitch.tv/osulive "Twitch")
+- [osu! Taiko World Cup 2015 auf Twitch](https://www.twitch.tv/osulive)
 
 ## Regelsätze
 
@@ -102,7 +102,7 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 4. Die besten 2 Teams in der Gruppe kommen in die Double-Elimination Etappen.
    1. Dies hängt jedoch an der Gesamtanzahl an Teams ab und kann daher variieren.
 5. Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
-6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png "puush") teilen sich die Etappen wie folgt auf:
+6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
    | Etappe | Match ID |
    | :-- | :-- |
    | Achtelfinale | A, B, C, D, E, F, G, H |
@@ -155,10 +155,10 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 4. Die Zeiten der Partien werden vom Turnier Management festgelegt. Die Termine werden am Sonntag angekündigt, bevor die eigentliche Etappe stattfindet. Der Turnier Management bemüht sich die Zeiten so gut wie möglich an den Zeitzonen der teilnehmenden Spieler anzupassen.
 5. Die Kapitäne sind für die Anwesenheit deren Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Es müssen vom jeweiligen Team mindestens 3 Spieler anwesend sein, ansonsten zählt die Partie als aufgegeben.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australien"
+[flag_DE]: /wiki/shared/flag/DE.gif "Deutschland"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spanien"
+[flag_FR]: /wiki/shared/flag/FR.gif "Frankreich"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polen"
+[flag_US]: /wiki/shared/flag/US.gif "Vereinigte Staaten"

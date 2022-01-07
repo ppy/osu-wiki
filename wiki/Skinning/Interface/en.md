@@ -1,6 +1,6 @@
 # Interface skinning
 
-*See also: [Skinning Interface Tutorial](/wiki/Skinning_Interface_Tutorial) and [Interface](/wiki/Interface)*
+*See also: [Interface](/wiki/Interface)*
 
 Interface skinning elements are used in multiple game modes or parts of the client's user interface.
 
@@ -26,7 +26,7 @@ Notes:
   - If it is set to `Sometimes` the seasonal backgrounds will override this element while they are in active use.
 - `.jpg` extension only.
   - If the image type is `.png` change the extension to `.jpg`.
-    - If the background is transparent, the background color will be black.
+    - If the background is transparent, the background colour will be black.
 - The player can drag and drop an image to overwrite the skin's skinned image. **This will replace the image in the skin's folder!**
 
 ---
@@ -539,6 +539,8 @@ Notes:
 
 `selection-mod-scorev2.png`
 
+![](img/selection-mod-scorev2.png)
+
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
@@ -836,13 +838,13 @@ Notes:
 
 ### Hit bursts
 
-*Main page: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hierarchy)*
+*Main page: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hit-score-hierarchy)*
 
 ---
 
 `hit0.png`
 
-![](img/hit0.png)
+![](/wiki/shared/judgement/osu!/hit0.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -860,7 +862,7 @@ Notes:
 
 `hit50.png`
 
-![](img/hit50.png)
+![](/wiki/shared/judgement/osu!/hit50.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -878,7 +880,7 @@ Notes:
 
 `hit100.png`
 
-![](img/hit100.png)
+![](/wiki/shared/judgement/osu!/hit100.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -896,7 +898,7 @@ Notes:
 
 `hit100k.png`
 
-![](img/hit100k.png)
+![](/wiki/shared/judgement/osu!/hit100k.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -914,7 +916,7 @@ Notes:
 
 `hit300.png`
 
-![](img/hit300.png)
+![](/wiki/shared/judgement/osu!/hit300.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -932,7 +934,7 @@ Notes:
 
 `hit300g.png`
 
-![](img/hit300g.png)
+![](/wiki/shared/judgement/osu!/hit300g.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -950,7 +952,7 @@ Notes:
 
 `hit300k.png`
 
-![](img/hit300k.png)
+![](/wiki/shared/judgement/osu!/hit300k.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -1126,7 +1128,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![Yes][true] | ![Yes][true] | (Varies) | Top Left | - |
+| All | ![Yes][true] | ![Yes][true] | (Varies) | Top Left | max height: 120px |
 
 Notes:
 
@@ -1878,7 +1880,7 @@ Notes:
 
 Notes:
 
-- This element is used in [multi](/wiki/multi) only.
+- This element is used in [multi](/wiki/Multi) only.
 
 ## Score entry
 

@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmap Aday Gösterici olma
 
 [Beatmap Aday Göstericilere](/wiki/People/The_Team/Beatmap_Nominators) katılmak isteyen kullanıcıların [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) tarafından yönetilen bir başvuru sürecinden geçmesi gerekir. Başvurular [NAT websitesi](http://bn.mappersguild.com/) üzerinden yürütülür.
@@ -51,6 +55,6 @@ Aşağıdakiler Beatmap Aday Göstericilerden beklenen modlama özellikleridir. 
 
 - Her başvuranın `Mod Skoru`'nun `Gerekli Asgari Skoru` karşıladığına emin olunacaktır.
 - Yeterli skora sahip modderlar başvurdukları oyun moduna karşılık gelen NAT üyeleri tarafından, aşağıdaki kriterler göz önünde bulundurularak değerlendirilecektir:
-  - Genel davranış: Modların uygulanış tarzı ve [Etik Davranış Kurallarında](/wiki/Ranking_Criteria/Code_of_Conduct) belirtilen diğer davranış beklentileri, aynı zamanda sohbette/forumlarda gösterilen genel davranış.
+  - Genel davranış: Modların uygulanış tarzı ve [Etik Davranış Kurallarında](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) belirtilen diğer davranış beklentileri, aynı zamanda sohbette/forumlarda gösterilen genel davranış.
   - Modlama kabiliyetleri: Genel [Derecelendirme Kriterleri](/wiki/Ranking_Criteria) ve her oyun modunun kendine özel kriterleri hakkında sahip olunan bilgi. Metaveri, Zamanlama gibi ek kabiliyetler de göz önüne alınacaktır.
 - Her bir modderın değerlendirilmesinden sonra, modderın Beatmap Aday Göstericilere katılıp katılmayacağı üzerine tartışılır.

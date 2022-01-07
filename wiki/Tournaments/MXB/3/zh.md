@@ -46,12 +46,12 @@ tags:
 
 ## 链接
 
-- [Challonge](https://challonge.com/zh_CN/MXB3rd "Challonge")
+- [Challonge](https://challonge.com/zh_CN/MXB3rd)
 - 直播间
-  - [Flow Light](https://live.bilibili.com/73668 "Bilibili")
-  - [IA daisuki](https://live.bilibili.com/4353181 "Bilibili")
-  - [NimaPro](https://live.bilibili.com/12166146 "Bilibili")
-  - [Rasis](https://live.bilibili.com/5333 "Bilibili")
+  - [Flow Light](https://live.bilibili.com/73668)
+  - [IA daisuki](https://live.bilibili.com/4353181)
+  - [NimaPro](https://live.bilibili.com/12166146)
+  - [Rasis](https://live.bilibili.com/5333)
 
 ## 颁奖
 
@@ -86,93 +86,93 @@ tags:
 
 ### 决赛
 
-**下载完整图池包！（118 MB）- [百度云盘](https://pan.baidu.com/s/1v2mmoQVy_bdNR5_0W5j06w "Baidu Netdisk")（提取码：`ploo`）- [Google 云端硬盘](https://drive.google.com/file/d/1zLUvsmKgd5ppPWZEvFxDA4WEAMgkzdRH "Google Drive")**
+**下载完整图池包！（118 MB）- [百度云盘](https://pan.baidu.com/s/1v2mmoQVy_bdNR5_0W5j06w)（提取码：`ploo`）- [Google 云端硬盘](https://drive.google.com/file/d/1zLUvsmKgd5ppPWZEvFxDA4WEAMgkzdRH)**
 
 - FreeMod
-  - [LeaF - I \[\_UJ's Another\]](https://osu.ppy.sh/beatmapsets/426638#mania/928341)
-  - [LeaF - Calamity Fortune \[Euphoria\]](https://osu.ppy.sh/beatmapsets/435450#mania/938145)
-  - [Camellia - K.Y.A.F.A. \[DomaUMR0's Extra\]](https://osu.ppy.sh/beatmapsets/468440#mania/1007635)
-  - [DragonForce - Symphony of the Night \[Melody of the Darkne\]](https://osu.ppy.sh/beatmapsets/478042#mania/1095862)
-  - [Morimori Atsushi - PUPA \[Metamorphosis\]](https://osu.ppy.sh/beatmapsets/492056#mania/1048321)
-  - [chunbaiP - Akari \[SC\]](https://osu.ppy.sh/beatmapsets/550095#mania/1165111)
-  - [penoreri - Everlasting Message \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/628672#mania/1325361)
-  - [Imperial Circus Dead Decadence - Danzai no Homura to Koibito Tachi no Rondo \[Shutsugen\]](https://osu.ppy.sh/beatmapsets/654588#mania/1387496)
-  - [stereoberry - ametsuchi \[petrichor\]](https://osu.ppy.sh/beatmapsets/671311#mania/1419426)
-  - [Yooh - Knock The Gate (short Ver.) \[Extra [Fantastic SV]\]](https://osu.ppy.sh/beatmapsets/797589#mania/1675081)
-  - [senya - Banbutsu no Ou \[LN\]](https://osu.ppy.sh/beatmapsets/908627#mania/1895977)
-  - [DJ SHARPNEL - BLUE NOAH 2006 \[2010\]](https://osu.ppy.sh/beatmapsets/915929#mania/1912937)
-  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- \[Another\]](https://osu.ppy.sh/beatmapsets/938847#mania/1961132)
-  - [penoreri - Prayer \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/952639#mania/1989158)
+  1. [LeaF - I \[\_UJ's Another\]](https://osu.ppy.sh/beatmapsets/426638#mania/928341)
+  2. [LeaF - Calamity Fortune \[Euphoria\]](https://osu.ppy.sh/beatmapsets/435450#mania/938145)
+  3. [Camellia - K.Y.A.F.A. \[DomaUMR0's Extra\]](https://osu.ppy.sh/beatmapsets/468440#mania/1007635)
+  4. [DragonForce - Symphony of the Night \[Melody of the Darkne\]](https://osu.ppy.sh/beatmapsets/478042#mania/1095862)
+  5. [Morimori Atsushi - PUPA \[Metamorphosis\]](https://osu.ppy.sh/beatmapsets/492056#mania/1048321)
+  6. [chunbaiP - Akari \[SC\]](https://osu.ppy.sh/beatmapsets/550095#mania/1165111)
+  7. [penoreri - Everlasting Message \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/628672#mania/1325361)
+  8. [Imperial Circus Dead Decadence - Danzai no Homura to Koibito Tachi no Rondo \[Shutsugen\]](https://osu.ppy.sh/beatmapsets/654588#mania/1387496)
+  9. [stereoberry - ametsuchi \[petrichor\]](https://osu.ppy.sh/beatmapsets/671311#mania/1419426)
+  10. [Yooh - Knock The Gate (short Ver.) \[Extra [Fantastic SV]\]](https://osu.ppy.sh/beatmapsets/797589#mania/1675081)
+  11. [senya - Banbutsu no Ou \[LN\]](https://osu.ppy.sh/beatmapsets/908627#mania/1895977)
+  12. [DJ SHARPNEL - BLUE NOAH 2006 \[2010\]](https://osu.ppy.sh/beatmapsets/915929#mania/1912937)
+  13. [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- \[Another\]](https://osu.ppy.sh/beatmapsets/938847#mania/1961132)
+  14. [penoreri - Prayer \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/952639#mania/1989158)
 - Tiebreaker
-  - **[Camellia & Nanahira - senpai, notice me! \[Senpai!!\]](https://osu.ppy.sh/beatmapsets/719648#mania/1683462)**
+  1. **[Camellia & Nanahira - senpai, notice me! \[Senpai!!\]](https://osu.ppy.sh/beatmapsets/719648#mania/1683462)**
 
 ### 半决赛
 
-**下载完整图池包！（77 MB）- [百度云盘](https://pan.baidu.com/s/1WbMvDnuRXqWQlcjGvW6LiQ "Baidu Netdisk")（提取码：`tydk`）- [Google 云端硬盘](https://drive.google.com/file/d/1ovBrmPRGZzOxCOAGSBKpbEiljhyWEnsH "Google Drive")**
+**下载完整图池包！（77 MB）- [百度云盘](https://pan.baidu.com/s/1WbMvDnuRXqWQlcjGvW6LiQ)（提取码：`tydk`）- [Google 云端硬盘](https://drive.google.com/file/d/1ovBrmPRGZzOxCOAGSBKpbEiljhyWEnsH)**
 
 - FreeMod
-  - [IOSYS - Endless Tewi-ma Park \[Arcwin Tewicated\]](https://osu.ppy.sh/beatmapsets/392965#mania/855472)
-  - [Team Grimoire - Sheriruth \[Future\]](https://osu.ppy.sh/beatmapsets/590341#mania/1295745)
-  - [senya - Sono Kami no Zirenma ni \[MX(LN)\]](https://osu.ppy.sh/beatmapsets/637525#mania/1352487)
-  - [Glome - Cynthia (With Moonlight) \[hyper\]](https://osu.ppy.sh/beatmapsets/716826#mania/1514659)
-  - [Camellia - Routing \[Tofu's Another\]](https://osu.ppy.sh/beatmapsets/730034#mania/1637717)
-  - [DJ Noriken - #MAGiCVLGiRL_TRVP_B3VTZ \[ZVPH'Z\_ACC\]](https://osu.ppy.sh/beatmapsets/742179#mania/1565516)
-  - [naotyu- feat. Eri Sasaki - Candy Tall Woman \[Syrup\]](https://osu.ppy.sh/beatmapsets/772698#mania/1624238)
-  - [Tia - Deal with the Devil \[trickery\]](https://osu.ppy.sh/beatmapsets/832413#mania/1743908)
-  - [Nanahira ft. Camellia - Petals \[Blossom\]](https://osu.ppy.sh/beatmapsets/852255#mania/1781436)
-  - [Chroma - I \[Exhaust\]](https://osu.ppy.sh/beatmapsets/865895#mania/1810417)
-  - [uma - Imaginary world \[Insane\]](https://osu.ppy.sh/beatmapsets/890068#mania/1860563)
-  - [Sakuzyo - Kronos \[z3\_5724's 4K Enteral Sound\]](https://osu.ppy.sh/beatmapsets/970406#mania/2030997)
+  1. [IOSYS - Endless Tewi-ma Park \[Arcwin Tewicated\]](https://osu.ppy.sh/beatmapsets/392965#mania/855472)
+  2. [Team Grimoire - Sheriruth \[Future\]](https://osu.ppy.sh/beatmapsets/590341#mania/1295745)
+  3. [senya - Sono Kami no Zirenma ni \[MX(LN)\]](https://osu.ppy.sh/beatmapsets/637525#mania/1352487)
+  4. [Glome - Cynthia (With Moonlight) \[hyper\]](https://osu.ppy.sh/beatmapsets/716826#mania/1514659)
+  5. [Camellia - Routing \[Tofu's Another\]](https://osu.ppy.sh/beatmapsets/730034#mania/1637717)
+  6. [DJ Noriken - #MAGiCVLGiRL_TRVP_B3VTZ \[ZVPH'Z\_ACC\]](https://osu.ppy.sh/beatmapsets/742179#mania/1565516)
+  7. [naotyu- feat. Eri Sasaki - Candy Tall Woman \[Syrup\]](https://osu.ppy.sh/beatmapsets/772698#mania/1624238)
+  8. [Tia - Deal with the Devil \[trickery\]](https://osu.ppy.sh/beatmapsets/832413#mania/1743908)
+  9. [Nanahira ft. Camellia - Petals \[Blossom\]](https://osu.ppy.sh/beatmapsets/852255#mania/1781436)
+  10. [Chroma - I \[Exhaust\]](https://osu.ppy.sh/beatmapsets/865895#mania/1810417)
+  11. [uma - Imaginary world \[Insane\]](https://osu.ppy.sh/beatmapsets/890068#mania/1860563)
+  12. [Sakuzyo - Kronos \[z3\_5724's 4K Enteral Sound\]](https://osu.ppy.sh/beatmapsets/970406#mania/2030997)
 - Tiebreaker
-  - **[Camellia - Tornado \[Disaster\]](https://osu.ppy.sh/beatmapsets/965851#mania/2021759)**
+  1. **[Camellia - Tornado \[Disaster\]](https://osu.ppy.sh/beatmapsets/965851#mania/2021759)**
 
 ### 八强赛
 
-**下载完整图池包！（85 MB） - [百度云盘](https://pan.baidu.com/s/1JH-52Xp4Ez2J4oCGo8jv7Q "Baidu Netdisk")（提取码：`wtvh`） - [Google 云端硬盘](https://drive.google.com/file/d/1ZVxWmXj5uEVS1MgjF9k_YR9gafInsLNy "Google Drive")**
+**下载完整图池包！（85 MB） - [百度云盘](https://pan.baidu.com/s/1JH-52Xp4Ez2J4oCGo8jv7Q)（提取码：`wtvh`） - [Google 云端硬盘](https://drive.google.com/file/d/1ZVxWmXj5uEVS1MgjF9k_YR9gafInsLNy)**
 
 - FreeMod
-  - [Xceon feat.Mayumi Morinaga - Sakurayozora (Extended Mix) \[Expert\]](https://osu.ppy.sh/beatmapsets/316411#mania/705048)
-  - [Warak - REANIMATE \[Another\]](https://osu.ppy.sh/beatmapsets/319055#mania/710851)
-  - [Iced Blade feat. Rita - Sora no Kodou (short ver.) \[4K Insane\]](https://osu.ppy.sh/beatmapsets/437682#mania/958534)
-  - [Toromaru - Enigma \[Enigmatic Linde's EXHAUST\]](https://osu.ppy.sh/beatmapsets/475478#mania/1015872)
-  - [Hitori Tori - perthed again (yambabom remix) \[Advanced\]](https://osu.ppy.sh/beatmapsets/569392#mania/1457791)
-  - [aaaa + Shike - Lueur de la nuit \[INF\]](https://osu.ppy.sh/beatmapsets/629456#mania/1328890)
-  - [Xu Mengyuan - Magic Piano \[infilect's Hyper\]](https://osu.ppy.sh/beatmapsets/651184#mania/1379669)
-  - [Anamanaguchi - SPF 420 \[Introduction\]](https://osu.ppy.sh/beatmapsets/733019#mania/1546477)
-  - [Ruby my dear - Nour \[Edgy\]](https://osu.ppy.sh/beatmapsets/754382#mania/1588263)
-  - [Y..J - Ten Thousand Tons of Anonymous Letters \[A message\]](https://osu.ppy.sh/beatmapsets/768928#mania/1616973)
-  - [NoKANY - Floating Metropolis-Living City#E6BBAD- \[Another\]](https://osu.ppy.sh/beatmapsets/868435#mania/1818942)
-  - [40mP - Junjou Skirt \[1\]](https://osu.ppy.sh/beatmapsets/912583#mania/1906356)
+  1. [Xceon feat.Mayumi Morinaga - Sakurayozora (Extended Mix) \[Expert\]](https://osu.ppy.sh/beatmapsets/316411#mania/705048)
+  2. [Warak - REANIMATE \[Another\]](https://osu.ppy.sh/beatmapsets/319055#mania/710851)
+  3. [Iced Blade feat. Rita - Sora no Kodou (short ver.) \[4K Insane\]](https://osu.ppy.sh/beatmapsets/437682#mania/958534)
+  4. [Toromaru - Enigma \[Enigmatic Linde's EXHAUST\]](https://osu.ppy.sh/beatmapsets/475478#mania/1015872)
+  5. [Hitori Tori - perthed again (yambabom remix) \[Advanced\]](https://osu.ppy.sh/beatmapsets/569392#mania/1457791)
+  6. [aaaa + Shike - Lueur de la nuit \[INF\]](https://osu.ppy.sh/beatmapsets/629456#mania/1328890)
+  7. [Xu Mengyuan - Magic Piano \[infilect's Hyper\]](https://osu.ppy.sh/beatmapsets/651184#mania/1379669)
+  8. [Anamanaguchi - SPF 420 \[Introduction\]](https://osu.ppy.sh/beatmapsets/733019#mania/1546477)
+  9. [Ruby my dear - Nour \[Edgy\]](https://osu.ppy.sh/beatmapsets/754382#mania/1588263)
+  10. [Y..J - Ten Thousand Tons of Anonymous Letters \[A message\]](https://osu.ppy.sh/beatmapsets/768928#mania/1616973)
+  11. [NoKANY - Floating Metropolis-Living City#E6BBAD- \[Another\]](https://osu.ppy.sh/beatmapsets/868435#mania/1818942)
+  12. [40mP - Junjou Skirt \[1\]](https://osu.ppy.sh/beatmapsets/912583#mania/1906356)
 - Tiebreaker
-  - **[gmtn. (witch's slave) - furioso melodia \[4K furioso maratona\]](https://osu.ppy.sh/beatmapsets/307371#mania/725897)**
+  1. **[gmtn. (witch's slave) - furioso melodia \[4K furioso maratona\]](https://osu.ppy.sh/beatmapsets/307371#mania/725897)**
 
 ### 小组赛
 
-**下载完整图池包！（73 MB） - [百度云盘](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow "Baidu Netdisk")（提取码： `wbbx`） - [Google 云端硬盘](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn "Google Drive")**
+**下载完整图池包！（73 MB） - [百度云盘](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow)（提取码： `wbbx`） - [Google 云端硬盘](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn)**
 
 - FreeMod
-  - [Junk - Qualia \[4K HD+\]](https://osu.ppy.sh/beatmapsets/177155#mania/426499)
-  - [stereoberry - evangelize (blurry images) \[transparency (SV)\]](https://osu.ppy.sh/beatmapsets/577748#mania/1222765)
-  - [F-777 - Dance Of The Violins \[error's Hard\]](https://osu.ppy.sh/beatmapsets/642684#mania/1490025)
-  - [Phlogiston - Night Jam \[Sleepless\]](https://osu.ppy.sh/beatmapsets/670141#mania/1571268)
-  - [K A Z M A S A - RTCMON \[uwu\]](https://osu.ppy.sh/beatmapsets/749852#mania/1579336)
-  - [Morimori Atsushi vs. uma - Arche \[MX\]](https://osu.ppy.sh/beatmapsets/757718#mania/1593977)
-  - [Aoi - Orivia no Genjutsu \[Illusion\]](https://osu.ppy.sh/beatmapsets/758477#mania/1595408)
-  - [Nanawo Akari - One Room Sugar Life(Full ver.) \[Hard\]](https://osu.ppy.sh/beatmapsets/841023#mania/1782167)
-  - [Zekk - Calling \[HD\]](https://osu.ppy.sh/beatmapsets/855193#mania/1787004)
-  - [feat.MeAqua(ver.DECO27+Hatsune Miku) - Ai Kotoba III \[MeAqua\]](https://osu.ppy.sh/beatmapsets/951443#mania/1987026)
+  1. [Junk - Qualia \[4K HD+\]](https://osu.ppy.sh/beatmapsets/177155#mania/426499)
+  2. [stereoberry - evangelize (blurry images) \[transparency (SV)\]](https://osu.ppy.sh/beatmapsets/577748#mania/1222765)
+  3. [F-777 - Dance Of The Violins \[error's Hard\]](https://osu.ppy.sh/beatmapsets/642684#mania/1490025)
+  4. [Phlogiston - Night Jam \[Sleepless\]](https://osu.ppy.sh/beatmapsets/670141#mania/1571268)
+  5. [K A Z M A S A - RTCMON \[uwu\]](https://osu.ppy.sh/beatmapsets/749852#mania/1579336)
+  6. [Morimori Atsushi vs. uma - Arche \[MX\]](https://osu.ppy.sh/beatmapsets/757718#mania/1593977)
+  7. [Aoi - Orivia no Genjutsu \[Illusion\]](https://osu.ppy.sh/beatmapsets/758477#mania/1595408)
+  8. [Nanawo Akari - One Room Sugar Life(Full ver.) \[Hard\]](https://osu.ppy.sh/beatmapsets/841023#mania/1782167)
+  9. [Zekk - Calling \[HD\]](https://osu.ppy.sh/beatmapsets/855193#mania/1787004)
+  10. [feat.MeAqua(ver.DECO27+Hatsune Miku) - Ai Kotoba III \[MeAqua\]](https://osu.ppy.sh/beatmapsets/951443#mania/1987026)
 - Tiebreaker
-  - **[u's - No brand girls \[Maximum Live!\]](https://osu.ppy.sh/beatmapsets/207612#mania/515574)**
+  1. **[u's - No brand girls \[Maximum Live!\]](https://osu.ppy.sh/beatmapsets/207612#mania/515574)**
 
 ### 资格赛
 
-**下载完整图池包！（14 MB） - [百度云盘](https://pan.baidu.com/s/1XkNuvDcQUlKfT_5dmEYVNA "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/file/d/11pY2Li_O_XBvJz60xfdAhxOjGQghkvM- "Google Drive")**
+**下载完整图池包！（14 MB） - [百度云盘](https://pan.baidu.com/s/1XkNuvDcQUlKfT_5dmEYVNA) - [Google 云端硬盘](https://drive.google.com/file/d/11pY2Li_O_XBvJz60xfdAhxOjGQghkvM-)**
 
 - FreeMod
-  - [Porno Graffiti - The Day feat. Aruvn (dj-Jo Remix) Extended Version \[Stage 1: Reborn\]](https://osu.ppy.sh/beatmapsets/961881#mania/2014099)
-  - [M2U - Lune \[Stage 2: Moonlight\]](https://osu.ppy.sh/beatmapsets/948056#mania/1979982)
-  - [Alan Walker - The Spectre \[Stage 3:The Spectre\]](https://osu.ppy.sh/beatmapsets/959232#mania/2008278)
-  - [Shawn Wasabi - Marble Soda \[Stage 4: Ramune\]](https://osu.ppy.sh/beatmapsets/946991#mania/1977877)
+  1. [Porno Graffiti - The Day feat. Aruvn (dj-Jo Remix) Extended Version \[Stage 1: Reborn\]](https://osu.ppy.sh/beatmapsets/961881#mania/2014099)
+  2. [M2U - Lune \[Stage 2: Moonlight\]](https://osu.ppy.sh/beatmapsets/948056#mania/1979982)
+  3. [Alan Walker - The Spectre \[Stage 3:The Spectre\]](https://osu.ppy.sh/beatmapsets/959232#mania/2008278)
+  4. [Shawn Wasabi - Marble Soda \[Stage 4: Ramune\]](https://osu.ppy.sh/beatmapsets/946991#mania/1977877)
 
 ## 比赛结果
 
@@ -225,7 +225,7 @@ tags:
 
 ### 资格赛
 
-[点此查看](https://docs.qq.com/sheet/DSWlYeVZIR01xRG5s "Tencent QQ") 资格赛得分情况。
+[点此查看](https://docs.qq.com/sheet/DSWlYeVZIR01xRG5s) 资格赛得分情况。
 
 ## 规则
 
@@ -266,7 +266,7 @@ tags:
 #### 淘汰赛
 
 - 淘汰赛采用双败赛制。这意味着参加淘汰赛的选手必须在本阶段输掉两场比赛才能被淘汰出局。
-- 可以在[这里](https://challonge.com/zh_CN/MXB3rd "Challonge")找到 MXB 赛程。
+- 可以在[这里](https://challonge.com/zh_CN/MXB3rd)找到 MXB 赛程。
 - 在胜者组比赛中，在一场比赛中符合获胜条件的选手将被宣布为该场比赛的获胜者，并将进入胜者组的下一阶段。这场比赛的失败者将落入败者组。
 - 在败者组的比赛中，在一场比赛中符合获胜条件的选手将被宣布为比赛的胜利者，并将进一步败者组的下一阶段。这场比赛的失败者将被淘汰出局。
 - 在胜者组的玩家每个阶段都只需要进行一场比赛。唯一的例外是，如果在总决赛阶段，该选手在第一场比赛中输给了败者组中惟一的获胜者，那么他需要进行第二场比赛来决定是否成为总冠军。

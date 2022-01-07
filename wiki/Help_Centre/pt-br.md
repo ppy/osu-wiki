@@ -104,7 +104,7 @@ Se você está interessado em apenas pequenas mudanças como capitalização ou 
 
 Se um jogador não entrou por pelo menos 6 meses e não tem nenhuma play, o nome de usuário dele poderá ser pego via a [página de troca de nome de usuário da osu!store](https://osu.ppy.sh/store/products/32) por uma taxa padrão associada com trocas de nome de usuário.
 
-Se o jogador tem qualquer play através de todos os modos de jogo, uma [função não-linear](https://www.desmos.com/calculator/b89siyv9j8 "Gráfico Desmos") é utilizado para calcular quanto tempo extra é adicionado a esses 6 meses. Isso é para prevenir as pessoas de roubarem nomes de usuário de jogadores ativos ou recentemente aposentados.
+Se o jogador tem qualquer play através de todos os modos de jogo, uma [função não-linear](https://www.desmos.com/calculator/b89siyv9j8) é utilizado para calcular quanto tempo extra é adicionado a esses 6 meses. Isso é para prevenir as pessoas de roubarem nomes de usuário de jogadores ativos ou recentemente aposentados.
 
 #### É possível mudar meu nome de volta ou revertir para meu antigo nome de usuário?
 
@@ -649,7 +649,7 @@ Nesses casos, você pode abrir um ticket com a equipe do suporte enviando um ema
 
 A maior parte do tempo, você irá ser permitido a editar sua página de usuário novamente, mas usuários que abusarem desse perdão irão perder a possibilidade de editar sua página de usuário para sempre, então tome cuidado!
 
-Se você em algum ponto estiver com dúvidas de que algo é apropriado para se colocar na sua página de usuário, você pode mandar uma mensagem para quaisquer membros do [Global Moderation Team](/wiki/People/Global_Moderation_Team) com o que você planeja colocar na sua página e eles irão te informar se está tudo bem.
+Se você em algum ponto estiver com dúvidas de que algo é apropriado para se colocar na sua página de usuário, você pode mandar uma mensagem para quaisquer membros do [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) com o que você planeja colocar na sua página e eles irão te informar se está tudo bem.
 
 #### Posso completamente bloquear um usuário de entrar em contato comigo?
 

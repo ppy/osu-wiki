@@ -1,7 +1,7 @@
 ---
 stub: true
 tags:
-  - hard rock
+  - hardrock
   - mod
   - game modifier
   - HR
@@ -57,11 +57,11 @@ Dikarenakan kenaikan pada tingkat kesulitan yang lebih besar dibandingkan dengan
 
 *Catatan: Menggunakan mod ini pada mode osu!mania akan menyebabkan sebuah unranked play.*
 
-Pada [osu!mania](/wiki/Game_mode/osu!mania), hanya pengaturan kesulitan penilaian (OD) dan nilai AR yang ditingkatkan. Pengaturan kesulitan lainnya tetap tidak berubah. Posisi peletakkan not-not tidak terpengaruhi.
+Pada [osu!mania](/wiki/Game_mode/osu!mania), hanya [judgement](/wiki/Gameplay/Judgement) overall difficulty (OD) dan nilai AR yang ditingkatkan. Pengaturan kesulitan lainnya tetap tidak berubah. Posisi peletakkan note-note tidak terpengaruhi.
 
 ## Trivia
 
-- Mod Hard Rock dinamai dari kesulitan tersusah pada permainan [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS "Wikipedia"), "[Elite Beat Agents](/wiki/iNiS_games)"
+- Mod Hard Rock dinamai dari kesulitan tersusah pada permainan [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS), "[Elite Beat Agents](/wiki/iNiS_games)"
 - Mod Hard Rock akan mematikan mod [Easy](/wiki/Game_modifier/Easy). Dan sebaliknya.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

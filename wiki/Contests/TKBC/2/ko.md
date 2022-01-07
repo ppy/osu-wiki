@@ -1,7 +1,7 @@
 ---
 tags:
-- TKBC
-- TKBC2
+  - TKBC
+  - TKBC2
 ---
 
 # Taiko Korean Beatmap Contest #2
@@ -72,4 +72,4 @@ Taiko Korean Beatmap Contest #2는 한국 태고 매핑 커뮤니티 인원들�
 - Source랑 Tags는 전부 비워주세요.
 - 이메일에 아티스트와 곡명, 그리고 주제와 연관되는 간략한 이유를 포함해서 제출해주시기 바랍니다.
 
-[flag_KR]: /wiki/shared/flag/KR.gif "대한민국"
+[flag_KR]: /wiki/shared/flag/KR.gif

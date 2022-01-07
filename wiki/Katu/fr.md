@@ -10,7 +10,7 @@ tags:
 
 *A ne pas confondre avec le Katu de osu!taiko.*
 
-**Katu (喝)**, *Katsu*, ou *Beat!*, est un terme de [score](/wiki/Score) qui désigne un [combo](/wiki/Beatmapping/Combo) terminé sans la meilleure [précision](/wiki/Gameplay/Accuracy) possible sur chaque note. Cependant, le Katu ne peut pas être réalisé si un combo contient un 50 ou un miss.
+**Katu (喝)**, *Katsu*, ou *Beat!*, est un terme de [jugement](/wiki/Gameplay/Judgement) qui désigne un [combo](/wiki/Beatmapping/Combo) terminé sans la meilleure [précision](/wiki/Gameplay/Accuracy) possible sur chaque note. Cependant, le Katu ne peut pas être réalisé si un combo contient un 50 ou un miss.
 
 Il existe deux types de Katu qui dépendent de la valeur de précision du dernier coup du combo. Le premier type vaut 300 points de base, et le second vaut 100 points de base. Le Katu à 100 points donne moins de HP, et le Katu à 300 points donne moins de HP qu'un [Geki](/wiki/Geki).
 
@@ -28,8 +28,8 @@ Katu vient du jeu Nintendo DS [Elite Beat Agents](/wiki/iNiS_games), sur lequel 
 
 ## Le gameplay dans les jeux iNiS
 
-- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs "YouTube")
-- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI "YouTube")
+- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs)
+- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI)
 
 ## Autres modes de jeu
 
@@ -55,6 +55,6 @@ Katu déclenche le deuxième niveau sur le storyboard pendant le jeu, ce qui mon
 
 L'obtention de Katu déclenche plusieurs événements :
 
-- [Fail Layer](/wiki/Storyboard_Scripting/General_Rules#layers) est désactivé.
-- [Pass Layer](/wiki/Storyboard_Scripting/General_Rules#layers) est activé.
+- [Fail Layer](/wiki/Storyboard/Scripting/General_Rules#layers) est désactivé.
+- [Pass Layer](/wiki/Storyboard/Scripting/General_Rules#layers) est activé.
 - L'événement "Passing" est déclenché, si l'état précédent était "Fail".

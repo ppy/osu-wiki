@@ -14,7 +14,7 @@ Les cercles sont sur l'écran du bas, et l'histoire sur l'écran du haut. Chaque
 
 *Explication complète: [osu!](/wiki/Game_mode/osu!)*
 
-La majorité des joueurs n'ayant pas d'écran tactile, le jeu a été fait pour être joué avec une souris, ainsi que l'utilisation d'une variété d'appareils de pointage. Différents styles de jeu peuvent être trouvés sur la page des [styles de jeu](/wiki/Play_Styles). Il y a quelques musiques qui vont pousser la souris et le joueur à leurs limites, mais toutes les beatmaps (classées ou approuvées) ont été testées et (la plupart) sont passables en utilisant seulement la souris.
+La majorité des joueurs n'ayant pas d'écran tactile, le jeu a été fait pour être joué avec une souris, ainsi que l'utilisation d'une variété d'appareils de pointage. Différents styles de jeu peuvent être trouvés sur la page des [styles de jeu](/wiki/Play_style). Il y a quelques musiques qui vont pousser la souris et le joueur à leurs limites, mais toutes les beatmaps (classées ou approuvées) ont été testées et (la plupart) sont passables en utilisant seulement la souris.
 
 #### Bases du gameplay
 
@@ -308,7 +308,7 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 
 *Une explication détaillée des notations peut être trouvée sur la page de chaque mode de jeu ou sur [la page des Scores](/wiki/Score).*
 
-*Une explication détaillée des calculs de la précision peut être trouvée sur la page de chaque mode de jeu ou sur [the Accuracy page](/wiki/Accuracy).*
+*Une explication détaillée des calculs de la précision peut être trouvée sur la page de chaque mode de jeu ou sur [the Accuracy page](/wiki/Gameplay/Accuracy).*
 
 ### Grades
 
@@ -371,11 +371,11 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 
 ## Points de Performance
 
-*Explication complète: [Performance Points](/wiki/Performance_Points)*
+*Explication complète: [Performance Points](/wiki/Performance_points)*
 
 Les points de performance(pp) est une métrique de classement visant à être plus pertinente par rapport au contexte d'un jeu continuel tel qu'osu!. Elle vise à mettre en valeur les compétences du joueur plutôt que le temps joué. Les points de performance sont énormément basés sur la difficulté de la map, déterminé par un algorithme unique à chaque mode de jeu. Basé sur la difficulté seule, chaque score se verra attribué un classement et un valeur de pp. Le rang de performance est beaucoup basé sur les performances de maps individuelles. Le meilleur moyen de l'améliorer est de faire de bons scores sur des musiques difficiles, et jouer beaucoup de musiques. sachez que les modes de jeu sont séparés; jouer osu!, osu!taiko, osu!catch, ou osu!mania augmentera votre montant de pp pour ce mode de jeu uniquement.
 
-Pour les questions concernant les pp, veuillez d'abord consulter [la page du wiki sur les pp](/wiki/Performance_Points).
+Pour les questions concernant les pp, veuillez d'abord consulter [la page du wiki sur les pp](/wiki/Performance_points).
 
 ---
 

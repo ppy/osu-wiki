@@ -7,9 +7,8 @@
 ## 相关页面
 
 - [设置](Setup)
-- [多人游戏房间管理](Multiplayer_Usage)
-- [使用指南](Spectator_Usage)
+- [多人游戏房间管理](Multiplayer_usage)
+- [使用指南](Spectator_usage)
 - [皮肤](Skinning)
-- [比赛管理指令](Tournament_Management_Commands)
+- [比赛管理指令](Tournament_management_commands)
 - [故障排除](Troubleshooting)
-- [奖品](Prizes)

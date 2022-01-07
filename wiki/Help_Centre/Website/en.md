@@ -26,7 +26,7 @@ This section is dedicated to issues with the osu! website.
 
 You can always send a single reply to your currently open ticket asking about the state of your case, but make sure not to do this more than once or twice a week. You can also contact us on Twitter at [@osusupport](https://twitter.com/osusupport) to ask about your ticket.
 
-In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the team will **always** tell you when they will no longer be responding to you first. If you have not received a notification like this, you do not need to worry about it!
+In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the [support team](/wiki/People/The_Team/Account_support_team) will **always** tell you when they will no longer be responding to you first. If you have not received a notification like this, you do not need to worry about it!
 
 ### Can I completely block another user from contacting me?
 
@@ -94,7 +94,7 @@ Even if your [supporter tag](https://osu.ppy.sh/home/support) happens to run out
 
 In such cases, you may open up a ticket with the support team by emailing [accounts@ppy.sh](mailto:accounts@ppy.sh) and discussing your situation with them.
 
-If at any point you are in doubt as to whether something is appropriate for a Me! page, you may message any of the members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
+If at any point you are in doubt as to whether something is appropriate for a Me! page, you may message any of the members of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
 
 ### Do I need to use my email address to register?
 

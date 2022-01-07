@@ -19,7 +19,7 @@ Links:
 On 2012-10-08, osu!mania was finally released to the public build ([woc2006](https://osu.ppy.sh/users/1105845))! In addition to this:
 
 - Per-object hitsounds were added in the editor. ([mm201](https://osu.ppy.sh/users/30655))
-- Allow recovery from failing in [multiplayer](/wiki/Multi) by reaching full HP. (Exception if [Sudden Death](/wiki/SD) or [Perfect](/wiki/PF) mod was enabled)
+- Allow recovery from failing in [multiplayer](/wiki/Multi) by reaching full HP. (Exception if [Sudden Death](/wiki/Game_modifier/Sudden_Death) or [Perfect](/wiki/Game_modifier/Perfect) mod was enabled)
 - Scrolling support to in-game online ranking list.
 - Fixes on [skin selector](/wiki/Options#skin) to make it play more realistically.
 
@@ -47,7 +47,7 @@ A few notable changes to fix the previous update (osu!mania) and to give what th
 
 For supporters, they were given the luxury to set their image as osu! background rather than the usual background colour. Practically speaking, this does not affect anyone and it was more to a gimmick if anything. However, the background change requires you to be online to *actually work*, as osu! needs to verify your osu!supporter tag in order to work. Gameplay was not affected in any way.
 
-Button status overlay was considered a nice addition. Now, you can actually *see* how you/they handle your/their hit either by using the keyboard/mouse or repeatably using that one button. By default, this would only work in osu! during a replay or spectating a play. You can manually make it to appear during gameplay at the [Options under Input Tab - General](/wiki/Options#general.1) as "Always show key overlay". It was placed at the top of the screen initially but later switched to the right of the screen because it was obstructing the HP bar and player's concentration.
+Button status overlay was considered a nice addition. Now, you can actually *see* how you/they handle your/their hit either by using the keyboard/mouse or repeatedly using that one button. By default, this would only work in osu! during a replay or spectating a play. You can manually make it to appear during gameplay at the [Options under Input Tab - General](/wiki/Options#general.1) as "Always show key overlay". It was placed at the top of the screen initially but later switched to the right of the screen because it was obstructing the HP bar and player's concentration.
 
 Links:
 
@@ -91,7 +91,7 @@ On 2012-12-21, osu! was given quite a major update. The most notable changes wer
 4. Fun Spoiler Settings was changed to [Visual Settings](/wiki/Visual_Settings) and placed at the bottom of the screen
 5. No Video mod was moved to Visual Settings
 
-Technical issues and bugs were expected. The widescreen support, despite being functional, caused some images and videos to look weird (head of a character not visible, missing or partly hidden text) as the top and bottom were cropped. [Storyboards](/wiki/Storyboards) currently don't support widescreen, instead, letterboxes or black bars appear on the sides which caused them to look cramped. This created an issue for [Catch the Beat](/wiki/Game_mode/osu!catch) as the fruit would go *over* the black bars that were supposed to be in the boundary when using widescreen. Some storyboards also do not function properly (some images do not stay in the playing area, but instead, extend out to the black bars). These issues were currently known and were being fixed as solution to the issues were discussed and found.
+Technical issues and bugs were expected. The widescreen support, despite being functional, caused some images and videos to look weird (head of a character not visible, missing or partly hidden text) as the top and bottom were cropped. [Storyboards](/wiki/Storyboard) currently don't support widescreen, instead, letterboxes or black bars appear on the sides which caused them to look cramped. This created an issue for [Catch the Beat](/wiki/Game_mode/osu!catch) as the fruit would go *over* the black bars that were supposed to be in the boundary when using widescreen. Some storyboards also do not function properly (some images do not stay in the playing area, but instead, extend out to the black bars). These issues were currently known and were being fixed as solution to the issues were discussed and found.
 
 Links:
 

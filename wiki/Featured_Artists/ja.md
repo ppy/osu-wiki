@@ -23,10 +23,11 @@ tags:
 
 - **2016:** 8
 - **2017:** 11
-- **2018:** 20
+- **2018:** 12
 - **2019:** 31
 - **2020:** 65
-- **2021:** *未定*
+- **2021:** 101
+- **2022:** *未定*
 
 新しい注目アーティストは、osu!の[ニュースフィード](https://osu.ppy.sh/home/news)で毎週発表されます。ほとんどの発表は、そのアーティストのライセンス楽曲の一覧と、注目アーティストのページへのリンクを含んでいますが、一部の発表はマッピングコンテストや[Mappers' Guild](/wiki/Mappers_Guild)によって作成されたビートマップと対になっています。
 
@@ -34,7 +35,7 @@ tags:
 
 ビートマッパーは、注目アーティストのトラックのビートマップを作成することが推奨されます。これらのトラックは[タイミング](/wiki/Beatmap_Editor/Timing)データが提供されており、osu!での使用が許可されているので、ユーザーは安心してすぐにマッピングに取り掛かることができます。osu!の開発中のビルドである[osu!lazer](https://github.com/ppy/osu/releases)では、これらのマップがゲーム内で目立つようになっています。
 
-[コミュニティコンテスト一覧](https://osu.ppy.sh/community/contests)で公開されているすべてのマッピングコンテスト、例えば[Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)や[Mapping Olympiad](/wiki/Contests#osu!-mapping-olympiad)では、参加者は注目アーティストの曲をマッピングする必要があります。コミュニティで開催されるコンテストでは、これらの曲が利用されることもあります。
+[コミュニティコンテスト一覧](https://osu.ppy.sh/community/contests)で公開されているすべてのマッピングコンテスト、例えば[Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)や[Mapping Olympiad](/wiki/Contests/Mapping_Olympiad)では、参加者は注目アーティストの曲をマッピングする必要があります。コミュニティで開催されるコンテストでは、これらの曲が利用されることもあります。
 
 注目アーティストのコンテンツのマッピングを促進するために、コミュニティのメンバーは[Mappers' Guild](/wiki/Mappers_Guild)を作り、マッパーにMMOスタイルのクエストシステムを与え、他のマッパーと一緒に参加できるようにしました。ビートマップを作成してランキングに参加すると、3段階のプロフィールバッジなどの賞品が与えられます。マッパーは[Mappers' Guildウェブサイト](https://mappersguild.com/)にアクセスしてギルドに参加することができます。
 

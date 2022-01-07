@@ -18,7 +18,7 @@ Hasil pemungutan suara yang ada akan menentukan apakah konten yang bersangkutan 
 - Apabila total suara “yes” yang masuk dari anggota-anggota GMT, NAT, dan BN setelah digabungkan mencapai 70% atau lebih, konten yang bersangkutan dinyatakan layak guna.
 - Apabila total suara “yes” yang masuk dari anggota-anggota GMT, NAT, dan BN setelah digabungkan tidak melebihi 70%, konten yang bersangkutan dinyatakan tidak layak guna dan harus dihapus dengan segera dari lingkungan osu!.
 
-Segala keputusan yang tercapai bersifat **mutlak** dan tidak dapat diganggu gugat kecuali apabila terdapat intervensi lebih lanjut dari pihak osu!team.
+Segala keputusan yang tercapai bersifat **mutlak** dan tidak dapat diganggu gugat kecuali apabila terdapat intervensi lebih lanjut dari pihak [tim inti osu!](/wiki/People/The_Team).
 
 ### Contoh kasus
 

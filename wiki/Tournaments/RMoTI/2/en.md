@@ -18,6 +18,10 @@ The **Rapid Monthly osu! Tournament Invitational #2** (***RMoTI 2***) was a 1v1 
 | Losers Round 4, 5 and 6 | 2017-05-14 |
 | Finals and Grand Finals | 2017-05-14 |
 
+## Prizes
+
+The prizes were handed out in the form of points. Every 36 points could be redeemed for a month of the osu!supporter tag. Invitational winners were awarded twice the amount awarded in RMoTs. The winner of the Invitational tournament got 96 points, second place got 48 points etc.
+
 ## Organisation
 
 | Position | Member(s) |
@@ -29,17 +33,13 @@ The **Rapid Monthly osu! Tournament Invitational #2** (***RMoTI 2***) was a 1v1 
 | Streamer | ![][flag_SE] [BeatingHeart](https://osu.ppy.sh/users/4586549), ![][flag_PL] [FreezingTooEasy](https://osu.ppy.sh/users/4022318) |
 | Commentator | ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575), ![][flag_SE] [ErroTheCube](https://osu.ppy.sh/users/4425262), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344), ![][flag_DE] [Niegth](https://osu.ppy.sh/users/1991114), ![][flag_SI] [ultraregen](https://osu.ppy.sh/users/4106122) |
 
-## Prizes
-
-The prizes were handed out in the form of points. Every 36 points could be redeemed for a month of the osu!supporter tag. Invitational winners were awarded twice the amount awarded in RMoTs. The winner of the Invitational tournament got 96 points, second place got 48 points etc.
-
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/589111)
-- [Challonge](https://challonge.com/rmotinvitational2 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1l2rR7m_h4suoXIwGPJzy78_0m8DbF0aO_W062f2U714 "Google Sheets")**
+- [Challonge](https://challonge.com/rmotinvitational2)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1l2rR7m_h4suoXIwGPJzy78_0m8DbF0aO_W062f2U714)**
 
-### Predictions
+## Predictions
 
 Anyone was allowed to predict the outcome of the tournament until the starting date. The predictions took place on Challonge and the top three predicters were awarded half the amount of points awarded in RMoTs.
 
@@ -79,35 +79,6 @@ The filler players are chosen according to a few criteria in the following prior
 
 ![][flag_SE] [ErroTheCube](https://osu.ppy.sh/users/4425262), ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575), ![][flag_PL] [Malson](https://osu.ppy.sh/users/6047395) and ![][flag_NL] [Senpaii Hentaii](https://osu.ppy.sh/users/7093651) gained the right to participate in the Invitational, ErroTheCube being seeded higher than the other three.
 
-## Mappool
-
-- NoMod
-  - [DECO\*27 feat. Hatsune Miku - Streaming Heart (Tsumetaku) [Tt's Insane]](https://osu.ppy.sh/beatmapsets/160126#osu/401894)
-  - [EastNewSound - Eisou Youga \~Meikyou Shisui\~ (Forseen) [Lunatic]](https://osu.ppy.sh/beatmapsets/83130#osu/229699)
-  - [GRANRODEO - Punky Funky Love (Feb) [Insane]](https://osu.ppy.sh/beatmapsets/372625#osu/816125)
-  - [Hatsune Miku - Rubik's Cube (rui) [7x7x7]](https://osu.ppy.sh/beatmapsets/33651#osu/114635)
-  - [ONE OK ROCK - Liar (Snepif) [Insanity]](https://osu.ppy.sh/beatmapsets/240761#osu/556320)
-  - [Streetlight Manifesto - Ungrateful (pishifat) [Insane]](https://osu.ppy.sh/beatmapsets/436968#osu/946016)
-- Hidden
-  - [Razihel & Virtual Riot - One For All, All For One (Fort) [Chaoz's Insane]](https://osu.ppy.sh/beatmapsets/275655#osu/671745)
-  - [SOUTAISEIRIRON - Shikaku Kakumei (EvilElvisV2) [Insane]](https://osu.ppy.sh/beatmapsets/135092#osu/338533)
-- HardRock
-  - [CHiCO with HoneyWorks - color (monstrata) [K i A i's Insane]](https://osu.ppy.sh/beatmapsets/373114#osu/821339)
-  - [sky\_delta vs Street - Load of the Ciel (Nerova Riuz GX) [apple's Insane]](https://osu.ppy.sh/beatmapsets/365591#osu/808343)
-- DoubleTime
-  - [sana - Kotonoha Clinic (Kite) [Hard]](https://osu.ppy.sh/beatmapsets/419189#osu/918202)
-  - [Zektbach - L'avide (Mao) [Hyper]](https://osu.ppy.sh/beatmapsets/123359#osu/339360)
-- FreeMod
-  - [Fall Out Boy - Alone Together (Krewella Remix) (Aia) [Kyshiro's Light Insane]](https://osu.ppy.sh/beatmapsets/290995#osu/711305)
-  - [ONE OK ROCK - Rock, Scissors, Paper (Haya) [Insane]](https://osu.ppy.sh/beatmapsets/82282#osu/229493)
-- Tiebreaker
-  - **[supercell - Kimi no Shiranai Monogatari (monstrata) [Celestial]](https://osu.ppy.sh/beatmapsets/289074#osu/651744)**
-  - **[Camellia - Racemization (Smoothie World) [Fizz's Another]](https://osu.ppy.sh/beatmapsets/347765#osu/791625)**
-  - **[Porter Robinson - Divinity (feat. Amy Millan) (VINXIS) [We Will Wait]](https://osu.ppy.sh/beatmapsets/204453#osu/634479)**
-  - **[nano - Hysteria (theramdans) [Collab]](https://osu.ppy.sh/beatmapsets/168662#osu/412306)**
-  - **[Halozy - Masshiro na Yuki (MrSergio) [Everlasting Snow]](https://osu.ppy.sh/beatmapsets/388887#osu/848143)**
-  - **[DJ Noriken - Elecktrick U-Phoria (Extended Mix) (sionKotori) [Illuminate]](https://osu.ppy.sh/beatmapsets/392682#osu/854972)**
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -117,6 +88,35 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] [Malson](https://osu.ppy.sh/users/6047395) |
+
+## Mappool
+
+- NoMod
+  1. [DECO\*27 feat. Hatsune Miku - Streaming Heart (Tsumetaku) [Tt's Insane]](https://osu.ppy.sh/beatmapsets/160126#osu/401894)
+  2. [EastNewSound - Eisou Youga \~Meikyou Shisui\~ (Forseen) [Lunatic]](https://osu.ppy.sh/beatmapsets/83130#osu/229699)
+  3. [GRANRODEO - Punky Funky Love (Feb) [Insane]](https://osu.ppy.sh/beatmapsets/372625#osu/816125)
+  4. [Hatsune Miku - Rubik's Cube (rui) [7x7x7]](https://osu.ppy.sh/beatmapsets/33651#osu/114635)
+  5. [ONE OK ROCK - Liar (Snepif) [Insanity]](https://osu.ppy.sh/beatmapsets/240761#osu/556320)
+  6. [Streetlight Manifesto - Ungrateful (pishifat) [Insane]](https://osu.ppy.sh/beatmapsets/436968#osu/946016)
+- Hidden
+  1. [Razihel & Virtual Riot - One For All, All For One (Fort) [Chaoz's Insane]](https://osu.ppy.sh/beatmapsets/275655#osu/671745)
+  2. [SOUTAISEIRIRON - Shikaku Kakumei (EvilElvisV2) [Insane]](https://osu.ppy.sh/beatmapsets/135092#osu/338533)
+- HardRock
+  1. [CHiCO with HoneyWorks - color (monstrata) [K i A i's Insane]](https://osu.ppy.sh/beatmapsets/373114#osu/821339)
+  2. [sky\_delta vs Street - Load of the Ciel (Nerova Riuz GX) [apple's Insane]](https://osu.ppy.sh/beatmapsets/365591#osu/808343)
+- DoubleTime
+  1. [sana - Kotonoha Clinic (Kite) [Hard]](https://osu.ppy.sh/beatmapsets/419189#osu/918202)
+  2. [Zektbach - L'avide (Mao) [Hyper]](https://osu.ppy.sh/beatmapsets/123359#osu/339360)
+- FreeMod
+  1. [Fall Out Boy - Alone Together (Krewella Remix) (Aia) [Kyshiro's Light Insane]](https://osu.ppy.sh/beatmapsets/290995#osu/711305)
+  2. [ONE OK ROCK - Rock, Scissors, Paper (Haya) [Insane]](https://osu.ppy.sh/beatmapsets/82282#osu/229493)
+- Tiebreaker
+  1. **[supercell - Kimi no Shiranai Monogatari (monstrata) [Celestial]](https://osu.ppy.sh/beatmapsets/289074#osu/651744)**
+  2. **[Camellia - Racemization (Smoothie World) [Fizz's Another]](https://osu.ppy.sh/beatmapsets/347765#osu/791625)**
+  3. **[Porter Robinson - Divinity (feat. Amy Millan) (VINXIS) [We Will Wait]](https://osu.ppy.sh/beatmapsets/204453#osu/634479)**
+  4. **[nano - Hysteria (theramdans) [Collab]](https://osu.ppy.sh/beatmapsets/168662#osu/412306)**
+  5. **[Halozy - Masshiro na Yuki (MrSergio) [Everlasting Snow]](https://osu.ppy.sh/beatmapsets/388887#osu/848143)**
+  6. **[DJ Noriken - Elecktrick U-Phoria (Extended Mix) (sionKotori) [Illuminate]](https://osu.ppy.sh/beatmapsets/392682#osu/854972)**
 
 ## Ruleset
 

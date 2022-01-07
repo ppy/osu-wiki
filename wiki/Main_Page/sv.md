@@ -16,7 +16,7 @@ Välkommen till osu! wikin, ett projekt som innehåller ett brett utbud av osu! 
 
 # Kom igång
 
-[Välkommen](/wiki/Welcome) • [Registrering](/wiki/Registration) • [Installation](/wiki/Installation) • [Spelgränssnitt](/wiki/Interface) • [Spelinställningar](/wiki/Options) • [Tangentbindningar](/wiki/Shortcut_Key_Reference) • [Översikt](/wiki/Sitemap) • [Guider](/wiki/Guides) • [Hjälpcenter](/wiki/Help_Centre)
+[Registrering](/wiki/Registration) • [Installation](/wiki/Installation) • [Spelgränssnitt](/wiki/Interface) • [Spelinställningar](/wiki/Options) • [Tangentbindningar](/wiki/Shortcut_key_reference) • [Översikt](/wiki/Sitemap) • [Guider](/wiki/Guides) • [Hjälpcenter](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -30,14 +30,14 @@ Välkommen till osu! wikin, ett projekt som innehåller ett brett utbud av osu! 
 
 # [Beatmap Editor](/wiki/Beatmap_Editor)
 
-Sektioner: ([Komponera](/wiki/Beatmap_Editor/Compose) • [Designa](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Låt Setup](/wiki/Beatmap_Editor/Song_Setup)) • Komponenter: ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Svårhetsgrader](/wiki/Beatmap/Difficulty) • [Hit Objects](/wiki/Hit_Objects) • [Mappingtekniker](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
+Sektioner: ([Komponera](/wiki/Beatmap_Editor/Compose) • [Designa](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Låt Setup](/wiki/Beatmap_Editor/Song_Setup)) • Komponenter: ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Svårhetsgrader](/wiki/Beatmap/Difficulty) • [Hit Objects](/wiki/Hit_object) • [Mappingtekniker](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Onlineredigering och Ranking
 
-[Inlämning](/wiki/Submission) • [Beatmap Approval](/wiki/Submission/Beatmap_Ranking_Procedure) • [Modding](/wiki/Modding) • [Ranking kriterier](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[Inlämning](/wiki/Submission) • [Beatmap Approval](/wiki/Beatmap_ranking_procedure) • [Modding](/wiki/Modding) • [Ranking kriterier](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -51,7 +51,7 @@ Sektioner: ([Komponera](/wiki/Beatmap_Editor/Compose) • [Designa](/wiki/Beatma
 
 # Personer
 
-[Teamet](/wiki/People/The_Team) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Språk moderatorer](/wiki/People/Language_Moderators) • [Nomineringsbedömningsteamet](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Supportteam](/wiki/People/Support_Team)
+[Teamet](/wiki/People/The_Team) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Språk moderatorer](/wiki/People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated) • [Nomineringsbedömningsteamet](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Supportteam](/wiki/People/The_Team/Support_Team)
 
 </div>
 </div>

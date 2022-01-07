@@ -13,7 +13,7 @@ tags:
 ![Icône du mod CM](/wiki/shared/mods/CM.png "Icône du mod Cinema (CM)")
 
 *Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*\
-*À ne pas confondre avec [Cinématographie](https://fr.wikipedia.org/wiki/Cinéma "Wikipédia").*
+*À ne pas confondre avec [Cinématographie](https://fr.wikipedia.org/wiki/Cinéma).*
 
 ## À propos
 

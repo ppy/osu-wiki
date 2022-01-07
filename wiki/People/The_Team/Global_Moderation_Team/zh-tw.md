@@ -155,33 +155,33 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 
 <!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->
 
-[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
-[flag_AT]: /wiki/shared/flag/AT.gif "奧地利"
-[flag_AU]: /wiki/shared/flag/AU.gif "澳洲"
-[flag_BR]: /wiki/shared/flag/BR.gif "巴西"
-[flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
-[flag_DE]: /wiki/shared/flag/DE.gif "德國"
-[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
-[flag_FI]: /wiki/shared/flag/FI.gif "芬蘭"
-[flag_FR]: /wiki/shared/flag/FR.gif "法國"
-[flag_GB]: /wiki/shared/flag/GB.gif "英國"
-[flag_HK]: /wiki/shared/flag/HK.gif "香港"
-[flag_HM]: /wiki/shared/flag/HM.gif "赫德島和麥克唐納群島"
-[flag_ID]: /wiki/shared/flag/ID.gif "印尼"
-[flag_IT]: /wiki/shared/flag/IT.gif "義大利"
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
-[flag_KR]: /wiki/shared/flag/KR.gif "南韓"
-[flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
-[flag_MY]: /wiki/shared/flag/MY.gif "馬來西亞"
-[flag_NL]: /wiki/shared/flag/NL.gif "荷蘭"
-[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
-[flag_PH]: /wiki/shared/flag/PH.gif "菲律賓"
-[flag_PL]: /wiki/shared/flag/PL.gif "波蘭"
-[flag_PT]: /wiki/shared/flag/PT.gif "葡萄牙"
-[flag_RU]: /wiki/shared/flag/RU.gif "俄羅斯"
-[flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
-[flag_TH]: /wiki/shared/flag/TH.gif "泰國"
-[flag_TR]: /wiki/shared/flag/TR.gif "土耳其"
-[flag_TW]: /wiki/shared/flag/TW.gif "台灣"
-[flag_US]: /wiki/shared/flag/US.gif "美國"
+[flag_AR]: /wiki/shared/flag/AR.gif
+[flag_AT]: /wiki/shared/flag/AT.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
+[flag_CH]: /wiki/shared/flag/CH.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
+[flag_HM]: /wiki/shared/flag/HM.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_PT]: /wiki/shared/flag/PT.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_TH]: /wiki/shared/flag/TH.gif
+[flag_TR]: /wiki/shared/flag/TR.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_US]: /wiki/shared/flag/US.gif
 [flag___]: /wiki/shared/flag/__.gif
