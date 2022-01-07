@@ -1,5 +1,6 @@
 ---
 no_native_review: true
+outdated: true
 ---
 
 # Signaler un mauvais comportement
