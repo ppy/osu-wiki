@@ -73,5 +73,5 @@ mod 初体验类奖章可以通过初次使用相应的 mods 来完成谱面获�
 
 ## 其它
 
-- [查看旧版曲包（2009-2016），Stefan 更新前的版本](Legacy_Beatmap_Packs)。
+- [查看旧版曲包（2009-2016），Stefan 更新前的版本](Legacy_beatmap_packs)。
 - peppy 在论坛中关于[成就图案](https://osu.ppy.sh/community/forums/topics/80448)的征集。
