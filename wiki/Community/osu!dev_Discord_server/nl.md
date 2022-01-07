@@ -30,5 +30,7 @@ De belangrijkste ontwikkelingen die in de server besproken worden hebben hun eig
 | [Beatmaps in de schijnwerpers](https://osu.ppy.sh/rankings/osu/charts) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
 | [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
+| [Official tournament support](/wiki/Tournaments/Official_support) | `#tournaments` |
+| [osu! community meetings](/wiki/Community/osu!_community_meetings/) | `#community-meetings` |
 | [Modding](/wiki/Modding) discussie en [NAT-meetings](/wiki/Modding/NAT_meetings) | `#modding` |
 | [Mappers' Gilde](/wiki/Mappers_Guild) | `#mappers-guild` |
