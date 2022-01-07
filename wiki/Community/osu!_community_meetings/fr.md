@@ -8,7 +8,7 @@ Actuellement, les osu! community meetings sont présidés par [peppy](https://os
 
 Les meetings ont généralement lieu toutes les deux semaines, les rappels étant annoncés sur le [compte Twitter de peppy](https://twitter.com/ppy) environ un jour avant.
 
-La date du prochain osu! community meeting sera annoncée ultérieurement.
+Le prochain osu! community meeting est prévu pour le : **9 janvier 2022 (Dimanche 01:00 UTC)**.
 
 ## S'impliquer
 
