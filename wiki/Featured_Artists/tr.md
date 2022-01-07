@@ -23,10 +23,11 @@ Her yıl yeni çıkan Featured Artistler:
 
 - **2016:** 8
 - **2017:** 11
-- **2018:** 20
+- **2018:** 12
 - **2019:** 31
 - **2020:** 65
-- **2021:** *belli değil*
+- **2021:** 101
+- **2022:** *belli değil*
 
 Yeni Featured Artistler haftalık olarak osu!'nun [haber kaynağında](https://osu.ppy.sh/home/news) duyurulur. Çoğu duyuru sanatçının lisanslı şarkılarının bir listesini ve onların Featured Artist sayfasına bir linki içerir, lakin bazı duyurular mapleme yarışmaları veya [Mappers' Guild](/wiki/Mappers_Guild) tarafından oluşturulan beatmapler ile eşleştirilir.
 

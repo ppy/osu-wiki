@@ -23,10 +23,11 @@ Les nouvelles sorties d'Artistes Associés par an :
 
 - **2016 :** 8
 - **2017 :** 11
-- **2018 :** 20
+- **2018 :** 12
 - **2019 :** 31
 - **2020 :** 65
-- **2021 :** *à déterminer*
+- **2021 :** 101
+- **2022 :** *à déterminer*
 
 Les nouveaux Artistes Associés sont annoncés chaque semaine sur le [fil d'actualités](https://osu.ppy.sh/home/news) d'osu!. La plupart des annonces comprennent une liste des chansons sous licence de l'artiste et un lien vers sa page d'Artiste Associé, mais certaines annonces sont associées à des concours de mapping ou à des beatmaps créés par la [Mappers' Guild](/wiki/Mappers_Guild).
 
