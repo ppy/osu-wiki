@@ -14,7 +14,7 @@ osu! 使用 IRC 协议进行[游戏内聊天](/wiki/Client/Interface/Chat_consol
 
 ### 如何连接
 
-通过你的 IRC 客户端连接到[cho.ppy.sh](irc://cho.ppy.sh) 或 [irc.ppy.sh](irc://irc.ppy.sh) (两个是相同的主机) ,端口为 IRC 默认端口6667,昵称(nickname)是你的 osu! 用户名。
+通过你的 IRC 客户端连接到`cho.ppy.sh` 或 `irc.ppy.sh` (两个是相同的主机) ,端口为 IRC 默认端口6667,昵称(nickname)是你的 osu! 用户名。
 
 ### 在 Bancho 上验证
 
@@ -27,7 +27,7 @@ osu! 使用 IRC 协议进行[游戏内聊天](/wiki/Client/Interface/Chat_consol
 * - Please click the following link to complete this process:
 ```
 
-点击链接中的 URL，你会看到一个"Authorise IRC connection" 按钮，点击以后，你会完成认证并加入到 [\#osu](irc://cho.ppy.sh/osu).
+点击链接中的 URL，你会看到一个"Authorise IRC connection" 按钮，点击以后，你会完成认证并加入到 `#osu`.
 
 或者，将密码输入到你的 IRC 客户端中，完成认证。
 

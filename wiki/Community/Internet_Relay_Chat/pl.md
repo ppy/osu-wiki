@@ -14,7 +14,7 @@ osu! używa protokołu IRC dla [czatu wewnętrznego](/wiki/Client/Interface/Chat
 
 ### Jak się połączyć?
 
-Po przygotowaniu klienta IRC, należy użyć swojej nazwy użytkownika jako nicku i połączyć się do [cho.ppy.sh](irc://cho.ppy.sh) LUB [irc.ppy.sh](irc://irc.ppy.sh) (oba łączą się do tego samego hosta) na porcie **6667** (domyślny port IRC).
+Po przygotowaniu klienta IRC, należy użyć swojej nazwy użytkownika jako nicku i połączyć się do `cho.ppy.sh` LUB `irc.ppy.sh` (oba łączą się do tego samego hosta) na porcie **6667** (domyślny port IRC).
 
 ### Autoryzacja BanchoBot
 
@@ -27,7 +27,7 @@ Następująca wiadomość pojawi się przy pierwszym połączeniu:
 * - Please click the following link to complete this process:
 ```
 
-Na stronie podanej w otrzymanej wiadomości znajduje się przycisk „Authorise IRC connection”. Naciśnięcie go umożliwia czatowanie z innymi, a następnie automatycznie dołącza użytkownika do kanału [\#osu](irc://cho.ppy.sh/osu).
+Na stronie podanej w otrzymanej wiadomości znajduje się przycisk „Authorise IRC connection”. Naciśnięcie go umożliwia czatowanie z innymi, a następnie automatycznie dołącza użytkownika do kanału `#osu`.
 
 Aby nie musieć klikać tego przycisku przy każdorazowym połączeniu, należy podane hasło umieścić w odpowiednim polu w kliencie IRC.
 
