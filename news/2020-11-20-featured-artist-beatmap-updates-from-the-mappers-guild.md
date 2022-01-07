@@ -8,7 +8,7 @@ New beatmap packs! New medals! And new quests! Learn how mapping and Featured Ar
 
 ![](/wiki/shared/news/banners/mappersguild.png)
 
-What is this *Mappers' Guild* thing? In short, it's a way for mappers to earn rewards for mapping songs from osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists). If you're out of the loop, check out the [Mappers' Guild wiki page](/wiki/Mappers_Guild) and [its website](https://mappersguild.com)!
+What is this *Mappers' Guild* thing? In short, it's a way for mappers to earn rewards for mapping songs from osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists). If you're out of the loop, check out the [Mappers' Guild wiki page](/wiki/Community/Mappers_Guild) and [its website](https://mappersguild.com)!
 
 A lot has changed since [our last update](https://osu.ppy.sh/home/news/2020-03-23-featured-artist-beatmap-updates-from-the-mappers-guild) and now! Two artists are being announced per week and mappers have been grinding out maps like their lives depend on it. 
 

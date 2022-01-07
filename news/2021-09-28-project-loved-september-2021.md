@@ -10,7 +10,7 @@ With a new season comes the September iteration of Project Loved!
 
 First of all, let us quickly remind everyone about the Project Loved concept in case someone forgot about it. Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the Loved Captains of their respective game modes. Each banner will redirect you to the respective beatmap's poll, or you can immediately view them all on the forum [here](https://osu.ppy.sh/community/forums/120). 
 
-The voting process lasts for 10 days, so don't forget to check out the threads and get involved! You can find out more about this project over on the [wiki](/wiki/Project_Loved)!
+The voting process lasts for 10 days, so don't forget to check out the threads and get involved! You can find out more about this project over on the [wiki](/wiki/Community/Project_Loved)!
 
 As usual, we would like to thank everyone who participated in the August votes. You're helping to keep this project alive by doing so, and we appreciate it! If you would like to view the results from the previous round, you may do so by clicking the following links:
 
