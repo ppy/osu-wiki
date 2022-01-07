@@ -2,6 +2,7 @@
 tags:
   - development
   - Softwareentwicklung
+no_native_review: true
 ---
 
 # osu!dev Discord-Server

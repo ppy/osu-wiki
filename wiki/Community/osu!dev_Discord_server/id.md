@@ -1,6 +1,7 @@
 ---
 tags:
   - development
+no_native_review: true
 ---
 
 # Server Discord osu!dev

@@ -1,6 +1,7 @@
 ---
 tags:
   - development
+no_native_review: true
 ---
 
 # Servidor de Discord do osu!dev

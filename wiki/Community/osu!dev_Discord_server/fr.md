@@ -2,6 +2,7 @@
 tags:
   - development
   - développement
+no_native_review: true
 ---
 
 # Serveur Discord osu!dev
