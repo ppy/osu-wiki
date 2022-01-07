@@ -51,6 +51,7 @@
 "approved":                    "Beatmap/Category#approved"
 "qualified":                   "Beatmap/Category#qualified"
 "loved":                       "Beatmap/Category#loved"
+"glossary/loved":              "Beatmap/Category#loved"
 "pending":                     "Beatmap/Category#pending"
 "dead":                        "Beatmap/Category#graveyard"
 "graveyard":                   "Beatmap/Category#graveyard"

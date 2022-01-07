@@ -218,7 +218,7 @@ Wir erwägen, zusätzlich Käufe von "Rücksetzung des Scores" im osu!store für
 
 Das bedeutet aber nicht, dass du einen neuen Account erstellen kannst! Mehrere Accounts zu besitzen ist gegen die [Regeln](/wiki/Rules#communityregeln) und wir werden jeden solcher Accounts deaktivieren, auf die wir aufmerksam werden.
 
-### Kann ich meinem Account löschen?
+### Kann ich meinen Account löschen?
 
 *Für mehr Informationen über die Löschung von Accounts, siehe: [deine Rechte und Kontrolle](/wiki/Legal/Privacy#your-rights-and-control).*
 

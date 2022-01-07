@@ -30,7 +30,7 @@ Pembuat beatmap dapat [mengunggah](/wiki/Submission) kreasi mereka ke [daftar be
 
 <!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
 
-Setelah di-submit, sebuah beatmap akan mendapatkan tambahan tempat khusus untuk metadata, seperti deskripsi, bahasa, genre, dan penanda konten eksplisit yang dapat diubah oleh pembuat beatmap di situs web. Beatmap juga mendapatkan [judul teks](Title_Text), yang dapat diubah dengan meminta bantuan kepada [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
+Setelah di-submit, sebuah beatmap akan mendapatkan tambahan tempat khusus untuk metadata, seperti deskripsi, bahasa, genre, dan penanda konten eksplisit yang dapat diubah oleh pembuat beatmap di situs web. Beatmap juga mendapatkan [judul teks](/wiki/Beatmap/Title_text), yang dapat diubah dengan meminta bantuan kepada [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
 
 ### Identifikasi
 
@@ -115,4 +115,4 @@ Komunitas osu! secara rutin mengadakan kontes-kontes yang berbeda untuk mempromo
 
 *Artikel utama: [Featured Artist](/wiki/Featured_Artists)*
 
-Featured Artist adalah program komunitas yang dibuat oleh [tim inti osu!](/wiki/People/The_Team) yang berfokus pada pemberian lisensi musik dari berbagai artis untuk osu! dan membuatnya tersedia untuk mapping. Situs web [daftar featured artist](https://osu.ppy.sh/beatmaps/artists) memamerkan setiap artis yang terlibat sekaligus menyediakan template untuk mapping.
+Featured Artist adalah program komunitas yang dibuat oleh [tim inti osu!](/wiki/People/The_Team) yang berfokus pada pemberian lisensi musik dari berbagai artis untuk osu! dan membuatnya tersedia untuk mapping. Situs web [daftar Featured Artist](https://osu.ppy.sh/beatmaps/artists) memamerkan setiap artis yang terlibat sekaligus menyediakan template untuk mapping.
