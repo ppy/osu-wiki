@@ -114,7 +114,7 @@ Links:
 
 ## December
 
-Voting for the community beatmapping contest \#1 (announced back in September) was opened. Monthly beatmapping contest \#13 was opened. osu!mania 7K World Cup 2017 registrations was opened. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) had outdone himself and produced a beautiful festive intro track for Christmas, which can be heard upon opening the game. [Loki/Thaehan](https://osu.ppy.sh/beatmaps/artists/7) and [sakuraburst](https://osu.ppy.sh/beatmaps/artists/8) were announced to be the newest featured artists in osu!. osu! World Cup 2016 concluded with United States overtaking China. A day past Christmas, the Christmas fanart contest resulted with [\[ Piyori \]](https://osu.ppy.sh/users/4457608) capturing the most votes.
+Voting for the community beatmapping contest \#1 (announced back in September) was opened. Monthly beatmapping contest \#13 was opened. osu!mania 7K World Cup 2017 registrations was opened. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) had outdone himself and produced a beautiful festive intro track for Christmas, which can be heard upon opening the game. [Loki/Thaehan](https://osu.ppy.sh/beatmaps/artists/7) and [sakuraburst](https://osu.ppy.sh/beatmaps/artists/8) were announced to be the newest Featured Artists in osu!. osu! World Cup 2016 concluded with United States overtaking China. A day past Christmas, the Christmas fanart contest resulted with [\[ Piyori \]](https://osu.ppy.sh/users/4457608) capturing the most votes.
 
 Links:
 
