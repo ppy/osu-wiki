@@ -1,6 +1,6 @@
 # Tournament Committee
 
-**Tournament Committee** merupakan sebuah panel yang beranggotakan nama-nama yang telah banyak menyelenggarakan atau berkiprah di dalam ranah turnamen.
+**Tournament Committee** merupakan sebuah panel yang beranggotakan pengguna-pengguna yang telah banyak menyelenggarakan atau berkiprah di dalam ranah turnamen.
 
 Mereka bertanggung jawab untuk:
 
