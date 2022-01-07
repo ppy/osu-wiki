@@ -24,6 +24,7 @@ Cada desenvolvimento principal discutido no servidor tem seu próprio canal:
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
 | [Classificação de estrelas](/wiki/Beatmapping/Star_rating) e [pontos de performance](/wiki/Performance_points) no [osu!](/wiki/Game_mode/osu!) | `#difficulty-osu` |
 | Classificação de estrelas e pontos de performance no [osu!taiko](/wiki/Game_mode/osu!taiko) | `#difficulty-taiko` |
+| Classificação de estrelas e pontos de performance no [osu!catch](/wiki/Game_mode/osu!catch) | `#difficulty-catch` |
 | Classificação de estrelas e pontos de performance no [osu!mania](/wiki/Game_mode/osu!mania) | `#difficulty-mania` |
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
