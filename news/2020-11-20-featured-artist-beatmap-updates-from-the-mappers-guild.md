@@ -562,7 +562,6 @@ The requirements for each single-mapset quest is essentially the same: **Create 
 - **Zekk single (osu!)**: [Zekk - D4NCE](https://osu.ppy.sh/beatmapsets/1140776#osu/2382798) by [eiri-](https://osu.ppy.sh/users/3388410)
 - **Zekk single (osu!catch)**: [Zekk - Fluctuation](https://osu.ppy.sh/beatmapsets/1148215#fruits/2397357) by [Jemzuu](https://osu.ppy.sh/users/7890134)
 - **Zekk single (osu!taiko)**: [Zekk - Voyage](https://osu.ppy.sh/beatmapsets/1160498#taiko/2421285) by [eiri-](https://osu.ppy.sh/users/3388410)
-[MIMI - Shijima ni Saku](https://osu.ppy.sh/beatmapsets/1159718#osu/2419834) hosted by [eiri-](https://osu.ppy.sh/users/3388410)
 
 ## Major contributors
 
@@ -623,7 +622,7 @@ Each of these users have hosted 3+ ranked mapsets or created 10+ ranked difficul
 | [Sonnyc](https://osu.ppy.sh/users/11771) | 2 | 11 |
 | [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | 2 | 12 |
 | [-Joni-](https://osu.ppy.sh/users/9988837) | 2 | 14 |
-| [Blocko](https://osu.ppy.sh/users/4075092) | 1 | 12 | 
+| [Blocko](https://osu.ppy.sh/users/4075092) | 1 | 12 |
 
 ---
 
