@@ -331,7 +331,7 @@ Ces options n'ont d'effet que lorsque vous travaillez dans l'éditeur de beatmap
 | `Toujours utiliser le skin par défaut` | Utilise le skin par défaut d'osu! dans l'éditeur malgré les paramètres du skin actuel. | Case à cocher | `Désactivé` |
 | `Sliders progressifs` | Active les sliders progressifs dans l'éditeur. | Case à cocher | `Activé` |
 | `Animations des éléments comme dans le jeu` | Active l'animations des éléments dans l'éditeur. | Case à cocher | `Désactivé` |
-| `"Follow points"` | Active les follow points dans l'éditeur. | Case à cocher | `Activé` |
+| `Follow points` | Active les follow points dans l'éditeur. | Case à cocher | `Activé` |
 | `Empilage des notes` | Empile les cercles comme en jeu. | Case à cocher | `Activé` |
 
 Ces options peuvent être écrasées manuellement en utilisant le menu `Affichage` dans l'éditeur de beatmaps.
