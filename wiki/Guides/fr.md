@@ -37,7 +37,6 @@ Vous trouverez ci-dessous une liste triée des guides créés par les membres de
 - [Comment chercher et télécharger des beatmaps](Searching_and_Downloading_Beatmaps)
 - [Tutoriel pour débutants](Beginner's_Tutorial)
 - [Comment utiliser l'assistant de décalage](How_to_Use_the_Offset_Wizard)
-- [Recherche et téléchargement de beatmaps](Searching_and_Downloading_Beatmaps)
 - [Achat de tablettes](Tablet_Purchase)
 
 ## Skinning
