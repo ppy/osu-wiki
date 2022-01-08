@@ -41,10 +41,10 @@ Si vous cliquez sur le bouton `Connecté en tant que {nom d'utilisateur}`, il af
 
 | Nom | Description | Type |
 | :-- | :-- | :-- |
-| `1. Consulter le profil` | Consultez votre profil sur le site web. | Bouton |
-| `2. Se déconnecter` | Se déconnectez du client. | Bouton |
-| `3. Changer d'avatar` | Change votre photo de profil (cela vous redirigera vers le site web). | Bouton |
-| `4. Fermer` | Ferme cette boîte de dialogue. Vous pouvez également appuyer sur `Esc`. | Bouton |
+| `1. Consulter le profil` | Consulter votre profil sur le site web. | Bouton |
+| `2. Se déconnecter` | Se déconnecter du client. | Bouton |
+| `3. Changer d'avatar` | Changer votre photo de profil (cela vous redirigera vers le site web). | Bouton |
+| `4. Fermer` | Fermer cette boîte de dialogue. Vous pouvez également appuyer sur `Esc`. | Bouton |
 
 Vous pouvez accéder à ce menu en cliquant sur votre carte de joueur lorsqu'elle est disponible.
 
@@ -72,7 +72,7 @@ Si vous ouvrez la liste déroulante pour le `Canal de mise à jour`, les options
 | :-- | :-- |
 | `Stable` | Version publique stable. |
 | `Bêta` | Version de développement - obtient les nouvelles fonctionnalités plus tôt, mais peut comporter des bugs. |
-| `Expérimental` | Version de développement - obtient les nouvelles fonctionnalités encore plus tôt, mais peut être significativement remplis de bugs. |
+| `Expérimental` | Version de développement - obtient les nouvelles fonctionnalités encore plus tôt, mais peut comporter encore plus de bugs. |
 
 ## Graphismes
 
@@ -105,7 +105,7 @@ Si vous ouvrez la liste déroulante pour `Images par seconde :`, vous serez pré
 | `Optimal` | Limite le client à huit fois la fréquence de rafraîchissement de votre moniteur, plafonnant à 960 FPS. |
 | `Illimité (en jeu)` | Limite le client à la fréquence de rafraîchissement de votre moniteur. Voir l'explication ci-dessous pour plus de détails. |
 
-- Explication sur le `VSync` : En termes simples, l'utilisation de VSync oblige le jeu à attendre le chargement complet de l'image avant de l'afficher.
+- Explication sur la `VSync` : En termes simples, l'utilisation de la VSync oblige le jeu à attendre le chargement complet de l'image avant de l'afficher.
   - Vous pouvez l'utiliser si vous constatez un certain "déchirement" (lorsque la partie inférieure du jeu est en retard sur la partie supérieure du jeu).
   - Malgré ce qui a été dit plus haut, cela peut provoquer un certain décalage ou des ralentissements car le client doit attendre le chargement de chaque image.
 - Explication sur `Illimité (en jeu)` : L'illimité ne s'applique que lorsque vous jouez une beatmap.
@@ -130,10 +130,10 @@ Si vous ouvrez la liste déroulante pour `Images par seconde :`, vous serez pré
 | Nom | Description | Type | Par défaut |
 | :-- | :-- | :-- | :-- |
 | `Sliders progressifs` | Les sliders vont "serpenter" depuis leur position de départ. | Case à cocher | `Activé` |
-| `Vidéo d'arrière-plan` | Autorise la lecture de la vidéo d'arrière-plan de la beatmap pendant le jeu (peut être désactivé sur chaque beatmap indépendamment). | Case à cocher | `Activé` |
+| `Vidéo d'arrière-plan` | Autorise la lecture de la vidéo d'arrière-plan de la beatmap lorsque vous jouez (peut être désactivé sur chaque beatmap indépendamment). | Case à cocher | `Activé` |
 | `Storyboards` | Permet de lire les storyboards des beatmaps (peut être désactivé sur chaque beatmap indépendamment). | Case à cocher | `Activé` |
-| `"Combo bursts"` | Permettre aux combo bursts de s'afficher lorsqu'on atteint une étape d'un combo. | Case à cocher | `Désactivé` |
-| `Lueurs de fond` | Affiche une lueur subtile derrière chaque explosion de coup. Ne désactive pas la lueur pendant le Kiai Time. | Case à cocher | `Activé` |
+| `"Combo bursts"` | Permet aux combo bursts de s'afficher lorsqu'on atteint un palier de combo. | Case à cocher | `Désactivé` |
+| `Lueurs de fond` | Affiche une lueur subtile derrière chaque cercle cliqué. Ne désactive pas la lueur pendant le Kiai Time. | Case à cocher | `Activé` |
 | `Effets spéciaux` | Affiche, graphiquement parlant, des effets de type concert. Cette fonction est automatiquement désactivée si votre ordinateur ne peut pas la gérer. | Case à cocher | `Désactivé` |
 | `Filtre adoucissant` | Ajuste les shaders pour être moins flashy. Ceci activera automatiquement `Effets spéciaux`. | Case à cocher | `Activé` |
 | `Captures d'écran :` | Définit le format du fichier de capture d'écran. | Liste déroulante | `JPEG (plus léger)` |
@@ -143,7 +143,7 @@ Si vous ouvrez la liste déroulante pour `Images par seconde :`, vous serez pré
 | Nom | Description | Type | Par défaut |
 | :-- | :-- | :-- | :-- |
 | `Neige` | Affiche les effets de neige sur le menu principal (activé de force pendant l'hiver). | Case à cocher | `Désactivé` |
-| `Parallaxe` | Affiche une légère parallaxe lors de la navigation dans les menus du jeu (n'est pas activé en jeu). | Case à cocher | `Activé` |
+| `Parallaxe` | Affiche une légère parallaxe lors de la navigation dans les menus du jeu (ne fonctionne pas pendant une beatmap). | Case à cocher | `Activé` |
 | `Trucs et astuces` | Affiche un conseil chaque fois que vous visitez le menu principal. (Les conseils ne sont pas affichés dans la version Cutting Edge). | Case à cocher | `Activé` |
 | `Voix d'accueil` | Joue les sons "welcome" et "see ya" à l'ouverture et à la fermeture du jeu respectivement. | Case à cocher | `Activé` |
 | `Thème musical d'osu! au démarrage` | Si cette option est activée, la musique du thème principal sera jouée après l'ouverture du client. Une fois la musique changée, vous ne pouvez pas la rejouer tant que le client n'a pas été redémarré. | Case à cocher | `Activé` |
@@ -175,7 +175,7 @@ Cette section concerne les paramètres qui affectent la jouabilité.
 
 | Nom | Description | Type | Par défaut |
 | :-- | :-- | :-- | :-- |
-| `Assombrir l'arrière-plan` | Ajuste le niveau d'assombrissement appliqué à l'arrière-plan et au storyboard pendant le jeu (peut être réglé sur chaque beatmap indépendamment). | Curseur | `80%` |
+| `Assombrir l'arrière-plan` | Ajuste le niveau d'assombrissement appliqué à l'arrière-plan et au storyboard lorsque vous jouez (peut être réglé sur chaque beatmap indépendamment). | Curseur | `80%` |
 | `Don't change dim level during breaks` | Désactive l'éclaircissement du niveau d'obscurité pendant les pauses, rendant l'arrière-plan toujours invisible. | Case à cocher | `Désactivé` |
 | `Barre de progression` | Configure l'endroit et le mode d'affichage de la barre de progression de la musique. Voir ci-dessous pour plus de détails. | Liste déroulante | `En haut à droite (disque)` |
 | `Indicateur de performance` | Configure le compteur de précision apparaissant sous la beatmap. Notez qu'osu!catch utilisera toujours le paramètre `Couleur`. | Liste déroulante | `Précision` |
@@ -268,7 +268,7 @@ Cette section traite des questions relatives aux skins.
 | `Toujours utiliser le curseur du skin choisi` | Favorise le curseur du skin actuelle sur tous les curseurs fournis par les beatmaps. | Case à cocher | `Désactivé` |
 | `Taille du curseur` | Ajuste la taille du curseur. | Curseur | `1x` |
 | `Ajustement automatique de la taille du curseur` | Ajuste automatiquement la taille du curseur en fonction de la taille de l'approach circle d'une beatmap. | Case à cocher | `Désactivé` |
-| `Colorer les sliderballs en fonction de la couleur des sliders` | Les sliderballs utiliseront la couleur actuelle du combo (généralement transparente). Nécessite le support du skin. | Case à cocher | `Activé` |
+| `Colorer les sliderballs en fonction de la couleur des sliders` | Les sliderballs utiliseront la couleur actuelle du combo (généralement transparente). Nécessite la prise en charge du skin. | Case à cocher | `Activé` |
 
 ## Contrôles
 
@@ -285,11 +285,11 @@ Cette section traite des périphériques d'entrée.
 | `Faire correspondre la zone active de la tablette à la fenêtre d'osu!` | Limite les périphériques d'entrée à un positionnement absolu (par exemple, les tablettes à stylet) à la seule fenêtre du client. | Case à cocher | `Désactivé` |
 | `Confirmer le curseur :` | Empêche le curseur de la souris de quitter la fenêtre du client. Voir ci-dessous pour plus de détails. | Liste déroulante | `Seulement en plein écran` |
 | `Molette de la souris désactivée pendant les parties` | Désactive la molette de la souris pendant le jeu. L'utilisation de la molette de la souris peut modifier la valeur du volume principal. | Case à cocher | `Désactivé` |
-| `Boutons de la souris désactivés pendant les parties` | Désactive les boutons de la souris pendant le jeu. Ceci est utile pour les utilisateurs de claviers. | Case à cocher | `Désactivé` |
-| `Visualiser les clics` | Montre un effet d'ondulation subtile lorsque vous cliquez avec votre périphérique d'entré. | Case à cocher | `Désactivé` |
+| `Boutons de la souris désactivés pendant les parties` | Désactive les boutons de la souris lorsque vous jouez. Ceci est utile pour les utilisateurs de claviers. | Case à cocher | `Désactivé` |
+| `Visualiser les clics` | Montre un effet d'ondulation subtile lorsque vous cliquez avec votre périphérique d'entrée. | Case à cocher | `Désactivé` |
 
 - Lorsque `Contourner le pilote du dispositif de pointage` est activé, il affichera le nombre de rapports qu'il reçoit par seconde et la latence en millisecondes.
-- L'effet d'ondulation du curseur peut être déclenché en appuyant sur `M1` et `M2` pendant le jeu.
+- L'effet d'ondulation du curseur peut être déclenché en appuyant sur `M1` et `M2` lorsque vous jouez.
 
 ---
 
@@ -363,9 +363,9 @@ Cette section concerne le tchat, les spectateurs, le multi, et osu!direct.
 | Nom | Description | Type | Par défaut |
 | :-- | :-- | :-- | :-- |
 | `Discord Rich Presence` | Fournit des [données de présence riches à Discord](/wiki/Guides/Discord_Rich_Presence). | Case à cocher | `Activé` |
-| `Intégrer au status Yahoo! Messenger` | Votre messager Yahoo! affichera la musique que vous êtes en train de lire ou d'écouter. Ce paramètre doit être défini sur le site Web. | Case à cocher | `Désactivé` |
-| `Intégrer au messages perso MSN` | Votre Windows Live Messenger affichera la musique que vous êtes en train de jouer ou d'écouter. | Case à cocher | `Désactivé` |
-| `Téléchargements osu!direct automatiques` | Pour les [osu!supporter](/wiki/osu!supporter) uniquement. Lorsque vous êtes spectateur ou en multijoueur, la beatmap sera téléchargé automatiquement. | Case à cocher | `Activé` |
+| `Intégrer au statut Yahoo! Messenger` | Votre Yahoo! Messenger affichera la musique que vous êtes en train de jouer ou d'écouter. Ce paramètre doit être défini sur le site Web. | Case à cocher | `Désactivé` |
+| `Intégrer au message perso MSN` | Votre Windows Live Messenger affichera la musique que vous êtes en train de jouer ou d'écouter. | Case à cocher | `Désactivé` |
+| `Téléchargements osu!direct automatiques` | Pour les [osu!supporter](/wiki/osu!supporter) uniquement. Lorsque vous êtes spectateur ou en multijoueur, la beatmap sera téléchargée automatiquement. | Case à cocher | `Activé` |
 | `Ne pas télécharger les vidéos` | Pour les [osu!supporter](/wiki/osu!supporter) uniquement. Les téléchargements d'osu!direct seront limités aux versions non-vidéo des beatmaps. | Case à cocher | `Désactivé` |
 
 ### Tchat
@@ -427,5 +427,5 @@ b{YYYY}{MM}{DD}.{revision}{type}
 
 - L'ancien écran d'options était un véritable écran avec des onglets, des boutons et un fond bleu pâle foncé.
 - L'ancien écran d'options comportait également un écran de sélection du skin qui vous permet également de prévisualiser la lecture en direct d'une beatmap dans osu!
-  - Après que l'écran des options a été déplacé vers une barre latérale, cet écran était toujours accessible en ouvrant un fichier skin.
+  - Après que l'écran des options ait été transformé en barre latérale, cet écran était toujours accessible en ouvrant un fichier skin.
   - Cet accès a été supprimé par la suite après l'apparition des aperçus de skins et des fonctions d'aperçu en direct.
