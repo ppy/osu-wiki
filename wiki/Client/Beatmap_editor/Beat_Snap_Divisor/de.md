@@ -8,7 +8,7 @@ outdated: true
 
 Der Beat Snap Divisor wird benutzt, um die Positionen, auf denen Noten gelegt werden können, zu limitieren. Um die Zählzeit zu erhöhen, bewegen Sie einfach den Balken nach rechts.
 
-Jede dieser Einstellungen benutzt für die Ticks in der [Timeline](/wiki/Beatmap_Editor/Timelines) unterschiedliche Farben. Die Ticks sind wie folgt:
+Jede dieser Einstellungen benutzt für die Ticks in der [Timeline](/wiki/Client/Beatmap_editor/Timelines) unterschiedliche Farben. Die Ticks sind wie folgt:
 
 ### Divisor 1/1
 
@@ -56,7 +56,7 @@ Jede dieser Einstellungen benutzt für die Ticks in der [Timeline](/wiki/Beatmap
 - Achtel-Beats
 - Fügt gelbe Ticks als Ergänzung zu roten und blauen hinzu
 
-Halten Sie die `Alt` Taste gedrückt und drehen Sie am Mausrad, um den [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) zu verändern.
+Halten Sie die `Alt` Taste gedrückt und drehen Sie am Mausrad, um den [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap) zu verändern.
 
 ## osu!mania
 

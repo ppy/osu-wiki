@@ -2,7 +2,7 @@
 
 ![Design tab](img/SE_base.jpg "Design tab")
 
-The **Storyboard Editor** is a section of the in-game [Beatmap Editor](/wiki/Beatmap_Editor), under the Design tab, which enables simple [Storyboarding](/wiki/Storyboard). It is a good introduction to the fundamental concept before the more advanced [Storyboard Scripting](/wiki/Storyboard/Scripting).
+The **Storyboard Editor** is a section of the in-game [Beatmap Editor](/wiki/Client/Beatmap_editor), under the Design tab, which enables simple [Storyboarding](/wiki/Storyboard). It is a good introduction to the fundamental concept before the more advanced [Storyboard Scripting](/wiki/Storyboard/Scripting).
 
 It would be favourable to do crash courses out of every commands using random images at least once before attempting some serious storyboarding. It would help you memorise and understand the usage better.
 

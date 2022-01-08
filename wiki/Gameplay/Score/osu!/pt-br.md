@@ -23,7 +23,7 @@ Cada rotação dos spinners confere 100 pontos **enquanto ele não estiver compl
 
 ## Como é calculado o Multiplicador de Dificuldade
 
-[Tamanho dos Círculos - CS (Circle Size)](/wiki/Beatmap_Editor/Song_Setup), [Dreno de HP - HP (HP Drain)](/wiki/Beatmap_Editor/Song_Setup) e [Dificuldade Geral - OD (Overall Difficulty)](/wiki/Beatmap_Editor/Song_Setup) todos influenciam nos **Pontos de Dificuldade**.
+[Tamanho dos Círculos - CS (Circle Size)](/wiki/Client/Beatmap_editor/Song_Setup), [Dreno de HP - HP (HP Drain)](/wiki/Client/Beatmap_editor/Song_Setup) e [Dificuldade Geral - OD (Overall Difficulty)](/wiki/Client/Beatmap_editor/Song_Setup) todos influenciam nos **Pontos de Dificuldade**.
 
 O valor acumulado dos pontos de dificuldade nesses três aspectos afetam *Multiplicador de Dificuldade* da seguinte maneira:
 

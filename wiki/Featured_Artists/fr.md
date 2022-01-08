@@ -29,14 +29,14 @@ Les nouvelles sorties d'Artistes Associés par an :
 - **2021 :** 101
 - **2022 :** *à déterminer*
 
-Les nouveaux Artistes Associés sont annoncés chaque semaine sur le [fil d'actualités](https://osu.ppy.sh/home/news) d'osu!. La plupart des annonces comprennent une liste des chansons sous licence de l'artiste et un lien vers sa page d'Artiste Associé, mais certaines annonces sont associées à des concours de mapping ou à des beatmaps créés par la [Mappers' Guild](/wiki/Mappers_Guild).
+Les nouveaux Artistes Associés sont annoncés chaque semaine sur le [fil d'actualités](https://osu.ppy.sh/home/news) d'osu!. La plupart des annonces comprennent une liste des chansons sous licence de l'artiste et un lien vers sa page d'Artiste Associé, mais certaines annonces sont associées à des concours de mapping ou à des beatmaps créés par la [Mappers' Guild](/wiki/Community/Mappers_Guild).
 
 ## Utilisation par la communauté
 
-Les mappeurs sont encouragés à créer des maps pour les pistes des Artistes Associés. Ces morceaux sont fournis avec des données de [timing](/wiki/Beatmap_Editor/Timing) et sont déjà autorisés à être utilisés sur osu!, ce qui permet aux utilisateurs de se lancer immédiatement dans la création de beatmap sans crainte. La version en cours de développement d'osu!, appelée [osu!lazer](https://github.com/ppy/osu/releases), mettra ces maps en évidence dans le jeu.
+Les mappeurs sont encouragés à créer des maps pour les pistes des Artistes Associés. Ces morceaux sont fournis avec des données de [timing](/wiki/Client/Beatmap_editor/Timing) et sont déjà autorisés à être utilisés sur osu!, ce qui permet aux utilisateurs de se lancer immédiatement dans la création de beatmap sans crainte. La version en cours de développement d'osu!, appelée [osu!lazer](https://github.com/ppy/osu/releases), mettra ces maps en évidence dans le jeu.
 
 Tous les concours de mapping publiés sur la [liste des concours communautaires](https://osu.ppy.sh/community/contests), tels que le [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) et le [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), exigent des participants qu'ils mappent les chansons des Artistes Associés. Certains concours organisés par la communauté utilisent également ces chansons.
 
-Pour promouvoir le mapping du contenu des artistes, les membres de la communauté ont créé la [Mappers' Guild](/wiki/Mappers_Guild), qui offre aux mappeurs un système de quêtes de type MMO auquel ils peuvent participer avec d'autres mappeurs. Des prix sont décernés pour la création et le classement de beatmaps, y compris trois niveaux de badges de profil. Les mappeurs peuvent rejoindre la guilde en visitant le [site Web de la Mappers' Guild](https://mappersguild.com/).
+Pour promouvoir le mapping du contenu des artistes, les membres de la communauté ont créé la [Mappers' Guild](/wiki/Community/Mappers_Guild), qui offre aux mappeurs un système de quêtes de type MMO auquel ils peuvent participer avec d'autres mappeurs. Des prix sont décernés pour la création et le classement de beatmaps, y compris trois niveaux de badges de profil. Les mappeurs peuvent rejoindre la guilde en visitant le [site Web de la Mappers' Guild](https://mappersguild.com/).
 
 Si un `.osz` préprogrammé de la liste des Artistes Associés comporte des erreurs de quelque nature que ce soit, elles peuvent être signalées sur [ce fil de discussion du forum](https://osu.ppy.sh/community/forums/topics/783985).

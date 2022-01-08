@@ -82,7 +82,7 @@ The following are user groups which are made up of the osu! community members th
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | General housekeeper, World Cup organizer and administrator, wiki maintainer |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! developer, osu!mania mode developer |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) manager |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) professor, media and character designer |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/Community/Video_series/osu!academy) professor, media and character designer |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

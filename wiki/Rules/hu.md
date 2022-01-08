@@ -39,7 +39,7 @@ Ezek az általános szabályok egyfajta alapként szolgálnak, hogy az osu! egy 
 
 ## Beatmap Közzétételi Szabályok
 
-Ezek a szabályok szigorúan azokra a beatmap-ekre vonatkoznak, amik a játékon belüli [Beatmap Közzétételi Rendszer](/wiki/Submission) használatával lettek nyilvánosak. Ezek a szálak az osu! kliens által automatikusan jönnek létre, amikor a [szerkesztő](/wiki/Beatmap_Editor) segítségével a beatmap-ek publikálásra kerülnek.
+Ezek a szabályok szigorúan azokra a beatmap-ekre vonatkoznak, amik a játékon belüli [Beatmap Közzétételi Rendszer](/wiki/Submission) használatával lettek nyilvánosak. Ezek a szálak az osu! kliens által automatikusan jönnek létre, amikor a [szerkesztő](/wiki/Client/Beatmap_editor) segítségével a beatmap-ek publikálásra kerülnek.
 
 Léteznek jobban részletezett szabályok is a beatmap-ek felépítésére, lásd: [Rangsorolási Követelmények](/wiki/Ranking_Criteria).
 

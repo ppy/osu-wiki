@@ -14,7 +14,7 @@ L'**hybrid** est une méthode de jeu pour le mode [osu!](/wiki/Game_mode/osu!) q
 
 L'hybrid peut être réalisé de plusieurs manières différentes :
 
-- Certains joueurs qui pratiquement l'hybrid frappent sur des [objets](/wiki/Hit_object) en changeant la touche avec laquelle ils frappent (`Z` et `X` par défaut) à intervalles réguliers tout au long d'une beatmap. Tout en utilisant l'alternating sur les [stacks](/wiki/Mapping_Techniques/Stack) chaque fois que possible.
+- Certains joueurs qui pratiquement l'hybrid frappent sur des [objets](/wiki/Hit_object) en changeant la touche avec laquelle ils frappent (`Z` et `X` par défaut) à intervalles réguliers tout au long d'une beatmap. Tout en utilisant l'alternating sur les [stacks](/wiki/Mapping_techniques/Stack) chaque fois que possible.
 - Certains joueurs qui pratiquement l'hybrid utilisent une combinaison d'alternating et de single-tapping en fonction de la vitesse de la beatmap : certaines vitesses sont plus faciles à frapper en une seule fois qu'en alternating et de nombreux joueurs s'en accommodent. Les vitesses auxquelles cela se produit varient d'un joueur à l'autre.
 - D'autres joueurs qui pratiquement l'hybrid utilisent une combinaison de [double tapping](/wiki/Play_style/Double_tapping), de single-tapping et d'alternating, apparemment au gré des envies. Il ne s'agit bien sûr que de préférences personnelles.
 

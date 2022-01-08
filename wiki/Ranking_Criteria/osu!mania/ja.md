@@ -8,7 +8,7 @@
 
 ### 難易度名
 
-*メイン記事: [難易度のネーミング](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*メイン記事: [難易度のネーミング](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal

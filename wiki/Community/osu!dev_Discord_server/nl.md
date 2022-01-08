@@ -29,8 +29,6 @@ De belangrijkste ontwikkelingen die in de server besproken worden hebben hun eig
 | [osu!mania](/wiki/Game_mode/osu!mania) star rating en prestatiepunten | `#difficulty-mania` |
 | [Beatmaps in de schijnwerpers](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
-| [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
-| [Official tournament support](/wiki/Tournaments/Official_support) | `#tournaments` |
-| [osu! community meetings](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
+| [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
 | [Modding](/wiki/Modding) discussie en [NAT-meetings](/wiki/Modding/NAT_meetings) | `#modding` |
-| [Mappers' Gilde](/wiki/Mappers_Guild) | `#mappers-guild` |
+| [Mappers' Gilde](/wiki/Community/Mappers_Guild) | `#mappers-guild` |

@@ -152,7 +152,7 @@ En la zona **central inferior**, hay una **línea de tiempo** con marcas y los b
 | Blanco brillante largo | Sección de prueba actual |
 | Amarillo largo | Punto de vista previa |
 | Amarillo arriba | Inicio del tiempo de drenaje |
-| Verde arriba | Puntos heredados. (Ver [Configuración de sincronización](/wiki/Beatmap_Editor/Timing)) |
+| Verde arriba | Puntos heredados. (Ver [Configuración de sincronización](/wiki/Client/Beatmap_editor/Timing)) |
 | Rojo arriba | Marcas de tiempo. (Ver configuración de tiempo) |
 | Azul abajo | Marcador |
 
@@ -182,7 +182,7 @@ En la zona **central inferior**, hay una **línea de tiempo** con marcas y los b
 
 ![Divisor de ritmo (osu!mania ver.)](img/BEM_BSD.jpg "Divisor de ritmo (osu!mania ver.)")
 
-*Articulo principal: [Divisor de ritmo](/wiki/Beatmap_Editor/Beat_Snap_Divisor)*
+*Articulo principal: [Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)*
 
 **En terminos simples, ajustar la longitud dada de un hilo de color (sección de tiempo) para un espacio de diseño de bordado (medidas, dividido por los divisores que se llamaran beats) en la tela (canción).** Ya que osu!mania prioriza mucho cada sincronización de las notas, **Signatura de compás** (MM:B) desde la sección de Tiempo se agrega (15:3 = 15a medida 3ra pulsación) al lado de la barra de ajuste para facilitar la referencia del mapper. Puede ir a un valor negativo (-8:-3 por ejemplo) si la primera sección de tiempo está a *unos segundos de distancia* del inicio del archivo de la canción del Beatmap.
 
@@ -219,7 +219,7 @@ El botón de **Insertar Descanso** pondrá/detendrá el "Descanso" en la marca d
 | Nombre | Descripción |
 | :-- | :-- |
 | Cuadro izquierdo | Intensidad de las notas (línea de tiempo). |
-| Centro | Area de juego verdadera ([Divisor de ritmo](/wiki/Beatmap_Editor/Beat_Snap_Divisor)). |
+| Centro | Area de juego verdadera ([Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)). |
 
 #### Colour notes
 

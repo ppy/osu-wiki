@@ -84,7 +84,7 @@ Catatan:
   - Salah satu dari gambar dalam grup akan muncul ketika pemain mencapai combo milestone.
 - Pada versi 2.2-, elemen `comboburst.png` akan digunakan sebagai gantinya.
 - Comboburst ini hanya akan muncul ketika bermain mode osu!catch
-- Elemen ini dapat dimatikan melalui menu [options](/wiki/Options).
+- Elemen ini dapat dimatikan melalui menu [options](/wiki/Client/Options).
 - Elemen ini harus menghadap ke kanan.
 
 ## Fruit
@@ -101,7 +101,7 @@ Catatan:
 
 - Elemen ini berdenyut pada lokasi di mana fruit akan dapat ditangkap selama [kiai time](/wiki/Kiai_time).
 - Elemen ini dapat digunakan juga pada mode [osu!](/wiki/Game_mode/osu!) dan [osu!taiko](/wiki/Game_mode/osu!taiko).
-- Elemen ini dapat dimatikan melalui menu [options](/wiki/Options).
+- Elemen ini dapat dimatikan melalui menu [options](/wiki/Client/Options).
 - Pewarnaan tergantung oleh warna combo fruit.
 
 ---

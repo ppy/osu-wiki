@@ -58,7 +58,7 @@ Vous pouvez accéder à ce menu en cliquant sur votre carte de joueur lorsqu'ell
 | :-- | :-- | :-- | :-- |
 | `Sélection de la langue :` | Affichez une liste de langues à sélectionner. | Liste déroulante |  |
 | `Métadonnées des maps dans leur langue d'origine dès que possible` | Dans l'écran de sélection des beatmaps, les beatmaps affichent leurs métadonnées originales ou non traduites, si elles sont disponibles. | Case à cocher | `Désactivé` |
-| `Appliquer la police de caractère Tahoma dans le chat` | Utilise l'ancienne police (Tahoma) au lieu de la police actuelle (Aller) dans la [console de tchat](/wiki/Chat_Console). | Case à cocher | `Désactivé` |
+| `Appliquer la police de caractère Tahoma dans le chat` | Utilise l'ancienne police (Tahoma) au lieu de la police actuelle (Aller) dans la [console de tchat](/wiki/Client/Interface/Chat_console). | Case à cocher | `Désactivé` |
 
 ### Mises à jour
 
@@ -248,7 +248,7 @@ Le volume principal, le volume de la musique et le volume des effets peuvent êt
 | `Décalage audio` | Le décalage (en millisecondes) que toutes les beatmaps utiliseront (en plus du décalage local). | Curseur | `0ms` |
 | `Démarrer l'assistant` | Ouvre l'assistant de décalage. | Bouton |  |
 
-- Pour plus de détails sur l'assistant de décalage, voir [Offset Wizard](/wiki/Options/Offset_Wizard).
+- Pour plus de détails sur l'assistant de décalage, voir [Offset Wizard](/wiki/Client/Options/Offset_Wizard).
 - Pour plus de détails sur l'utilisation de l'assistant de décalage, voir [How to use Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard).
 
 ## Skin
@@ -309,7 +309,7 @@ Si vous ouvrez la liste déroulante pour `Confirmer le curseur :`, les options s
 
 | Nom | Description | Type |
 | :-- | :-- | :-- |
-| `Configurer les touches` | Affiche une boîte de dialogue qui vous permet de voir ou de modifier la configuration des touches du clavier. Voir [Configuration des touches](/wiki/Options/Keyboard_Bindings) pour plus de détails. | Bouton |
+| `Configurer les touches` | Affiche une boîte de dialogue qui vous permet de voir ou de modifier la configuration des touches du clavier. Voir [Configuration des touches](/wiki/Client/Options/Keyboard_bindings) pour plus de détails. | Bouton |
 | `Paramètres osu!mania` | Affiche une boîte de dialogue qui vous permet de voir ou de modifier la configuration des touches pour osu!mania. Voir [osu!mania layout](/wiki/Game_mode/osu!mania) pour plus de détails. | Bouton |
 
 ### Divers
@@ -323,7 +323,7 @@ Si vous ouvrez la liste déroulante pour `Confirmer le curseur :`, les options s
 
 ![Icône de la section Éditeur](img/editor-FR.jpg "Icône de la section Éditeur")
 
-Cette section concerne l'[éditeur de beatmaps](/wiki/Beatmap_Editor).
+Cette section concerne l'[éditeur de beatmaps](/wiki/Client/Beatmap_editor).
 
 Ces options n'ont d'effet que lorsque vous travaillez dans l'éditeur de beatmaps ou en mode test (test de lecture d'une beatmap).
 

@@ -1,7 +1,7 @@
 # Beatmapping
 
 **Beatmapping** es el proceso de crear [beatmaps](/wiki/Beatmap) en osu! para que los jugadores jueguen.
-Esto implica elegir una canción, [timing](/wiki/Beatmap_Editor/Timing), colocación de [objetos](/wiki/Hit_object), y (opcionalmente) [skinning](/wiki/Skinning) y [storyboarding](/wiki/Storyboard#storyboarding).
+Esto implica elegir una canción, [timing](/wiki/Client/Beatmap_editor/Timing), colocación de [objetos](/wiki/Hit_object), y (opcionalmente) [skinning](/wiki/Skinning) y [storyboarding](/wiki/Storyboard#storyboarding).
 
 Los mappers generalmente quieren obtener su beatmaps [clasificado](/wiki/Beatmap) que consiste en el [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure).
 
@@ -14,11 +14,11 @@ Para crear un nuevo mapa de ritmo, ve al modo de edición y luego arrastra y sue
 Esto debería abrirse y dirigirte a la pantalla de edición con tu archivo de audio.
 Tu nueva canción estará disponible en la parte inferior de la lista de canciones, resaltada en púrpura.
 Si no aparece en la selección de la canción por algún motivo, presiona `F5` para restablecer la memoria caché de beatmap y debería aparecer.
-Haga clic en la canción, esto abrirá el [editor de beatmap](/wiki/Beatmap_Editor) y el cuadro de `configuración de la canción`.
+Haga clic en la canción, esto abrirá el [editor de beatmap](/wiki/Client/Beatmap_editor) y el cuadro de `configuración de la canción`.
 
 ### Configuración de la canción
 
-*Ver también: [Configuración de la canción](/wiki/Beatmap_Editor/Song_Setup)*
+*Ver también: [Configuración de la canción](/wiki/Client/Beatmap_editor/Song_Setup)*
 
 Al crear un nuevo [mapset](/wiki/Beatmap), siempre verás este cuadro antes que cualquier otra cosa del editor de beatmaps.
 
@@ -31,7 +31,7 @@ El siguiente paso es agregar tiempo a tu beatmap.
 
 ### Tiempo
 
-*Ver también: [Tiempo](/wiki/Beatmap_Editor/Timing)*
+*Ver también: [Tiempo](/wiki/Client/Beatmap_editor/Timing)*
 
 **¡El tiempo es vital!**
 Los mapas cronometrados incorrectamente no serán considerados para el ranking.
@@ -42,14 +42,14 @@ Esto te ahorrará a ti (y a la comunidad de modding) muchas molestias más adela
 
 ### Componer
 
-*Ver también: [Componer](/wiki/Beatmap_Editor/Compose)*
+*Ver también: [Componer](/wiki/Client/Beatmap_editor/Compose)*
 
 La pestaña de composición del editor de beatmaps es donde probablemente pasarás la mayor parte de tu tiempo de beatmapping.
 Es donde puedes colocar visualmente objetos de golpeo y alternar sus [sonidos de golpeo](/wiki/Beatmapping/Hitsound)
 
 ### Diseño
 
-*Ver también: [Diseño](/wiki/Beatmap_Editor/Design) y [Storyboarding](/wiki/Storyboard#storyboarding)*
+*Ver también: [Diseño](/wiki/Client/Beatmap_editor/Design) y [Storyboarding](/wiki/Storyboard#storyboarding)*
 
 La pestaña de diseño del editor de beatmaps es donde puedes establecer la imagen de fondo del beatmap, agregar un video y/o crear un guión gráfico básico.
 Dependiendo de lo que hagas, puedes usar la pestaña de diseño mucho o nada en absoluto, si llegas a hacer [SBS](/wiki/Storyboard/Scripting) (secuencias de comandos del guión gráfico).
