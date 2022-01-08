@@ -53,12 +53,13 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 
 ## Participants
 
-
 *Notice: the following team list is pending.*
+
 | | Country | Members |
+| :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [DUELODER](https://osu.ppy.sh/users/8224116), [Greedom](https://osu.ppy.sh/users/10696707), [LeongKat](https://osu.ppy.sh/users/11429144) |
 | ![][flag_AU] | **Australia** | **[sankansuki](https://osu.ppy.sh/users/2877926)**, [ruka](https://osu.ppy.sh/users/6117525), [Nerd Guy](https://osu.ppy.sh/users/11247298), [Bounter](https://osu.ppy.sh/users/11149878) |
-| ![][flag_BR] | **Brazil ** | **[SillyFangirl](https://osu.ppy.sh/users/2288363)** |
+| ![][flag_BR] | **Brazil** | **[SillyFangirl](https://osu.ppy.sh/users/2288363)** |
 | ![][flag_BE] | **Belgium** | **[Coolgamer](https://osu.ppy.sh/users/4700778)**, [shaafs](https://osu.ppy.sh/users/8811695), [yetii](https://osu.ppy.sh/users/6914714) |
 | ![][flag_CA] | **Canada** | **[LelPop](https://osu.ppy.sh/users/10242770)**, [ItsRewindTime](https://osu.ppy.sh/users/13622614), [NunotabaShinobu](https://osu.ppy.sh/users/10809497), [UmmmMrMoo](https://osu.ppy.sh/users/15314355) |
 | ![][flag_CL] | **Chile** | **[Matiias](https://osu.ppy.sh/users/3215366)**, [faz\_cL](https://osu.ppy.sh/users/7853143), [Gonzaalooo](https://osu.ppy.sh/users/1948903), [Skalim](https://osu.ppy.sh/users/2225008) |
