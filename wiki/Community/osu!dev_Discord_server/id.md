@@ -1,6 +1,7 @@
 ---
 tags:
   - development
+no_native_review: true
 ---
 
 # Server Discord osu!dev
@@ -29,5 +30,7 @@ Setiap topik pengembangan yang dibahas telah memiliki *channel* masing - masing:
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
 | [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
+| [Official tournament support](/wiki/Tournaments/Official_support) | `#tournaments` |
+| [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
 | Diskusi [Modding](/wiki/Modding) dan [Pertemuan anggota NAT](/wiki/Modding/NAT_meetings) | `#modding` |
 | [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |
