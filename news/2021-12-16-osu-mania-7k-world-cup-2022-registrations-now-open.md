@@ -15,7 +15,7 @@ For more details, refer to the **[osu!mania 7K World Cup 2022 wiki article](/wik
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | Dec 16 – Dec 30 |
-| Qualifier showcase | Jan 08 (14:00 UTC) |
+| Qualifier showcase | Jan 09 (14:00 UTC) |
 | Qualifier stage | Jan 15 & Jan 16 |
 | Round of 16 | Jan 22 & Jan 23 |
 | Quarterfinals | Jan 29 & Jan 30 |
