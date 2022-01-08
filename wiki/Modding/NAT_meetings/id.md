@@ -6,7 +6,7 @@ tags:
 
 # Rapat terbuka NAT
 
-**Rapat terbuka NAT** adalah diskusi terarah yang diselenggarakan oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) di channel `#modding` pada [server Discord osu!dev](/wiki/osu!dev_Discord_server). Topik rapat berkaitan dengan ekosistem [mapping](/wiki/Beatmapping) dan [modding](/wiki/Modding), termasuk masalah, potensi solusi, ide baru, dan laporan perkembangan. Meskipun kontributor terbanyak dalam diskusi ini adalah anggota NAT atau [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators), siapapun diperbolehkan untuk berpartisipasi.
+**Rapat terbuka NAT** adalah diskusi terarah yang diselenggarakan oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) di channel `#modding` pada [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server). Topik rapat berkaitan dengan ekosistem [mapping](/wiki/Beatmapping) dan [modding](/wiki/Modding), termasuk masalah, potensi solusi, ide baru, dan laporan perkembangan. Meskipun kontributor terbanyak dalam diskusi ini adalah anggota NAT atau [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators), siapapun diperbolehkan untuk berpartisipasi.
 
 Rapat terbuka biasanya diumumkan lebih dari seminggu sebelumnya di channel `#modding`.
 

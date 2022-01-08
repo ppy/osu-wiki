@@ -81,7 +81,7 @@ outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | osu! & pp 系统开发者 |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! 开发团队 & osu!mania 开发者 |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) 管理 |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) 教授 & 媒体/人物 设计 |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/Community/Video_series/osu!academy) 教授 & 媒体/人物 设计 |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"

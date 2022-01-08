@@ -48,7 +48,7 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 
 | Pengguna | Kontribusi |
 | :-- | :-- |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Penemu [osu!academy](/wiki/osu!academy) |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Penemu [osu!academy](/wiki/Community/Video_series/osu!academy) |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | Kontributor pemberitaan + osu!weekly |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Kontribusi moderasi luar biasa (10k+ kill) |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Kontribusi moderasi luar biasa (10k+ kill) |

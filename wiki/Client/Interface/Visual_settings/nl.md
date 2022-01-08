@@ -10,7 +10,7 @@ outdated_since: acf6219ad2a73826433837b35b0fe5335a22ae8a
 
 **Visuele instellingen** is een verborgen aanpassingsoverlay aan de onderkant van het speelveld. Je kan deze overlay gebruiken wanneer een beatmap aan het laden is of wanneer de gameplay gepauzeerd is. Als de visuele instellingen-overlay geopend is zal de beatmap niet starten totdat jouw cursor dit menu verlaat.
 
-*Opmerking: Visuele instellingen worden opgeslagen per beatmap maar zullen verloren gaan wanneer je osu! sluit. Om deze instellingen op alle beatmaps toe te passen (voor altijd) kan je het [opties](/wiki/Options)-menu gebruiken.*
+*Opmerking: Visuele instellingen worden opgeslagen per beatmap maar zullen verloren gaan wanneer je osu! sluit. Om deze instellingen op alle beatmaps toe te passen (voor altijd) kan je het [opties](/wiki/Client/Options)-menu gebruiken.*
 
 Het is ook mogelijk om de visuele instellingen te bereiken door het spel te pauzeren. Dit werkt echter niet in [Multi](/wiki/Multi) matches, omdat dit zal worden beschouwd als een poging om de match te beëindigen en de lobby te verlaten.
 

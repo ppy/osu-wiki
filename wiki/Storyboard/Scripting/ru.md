@@ -7,7 +7,7 @@ outdated_since: 048320d762fbf8472b04389126e719d219bc41f3
 
 ![Пример скрипта в .osb](img/SBS_Base.jpg "Пример скрипта в .osb")
 
-Помимо [встроенного редактора](/wiki/Beatmap_Editor/Design), для создания [сторибордов](/wiki/Storyboard) можно применять простой текстовый редактор (к примеру, Блокнот, [Notepad++](http://www.notepad-plus-plus.org/) или [Visual Studio Code](https://code.visualstudio.com/)). Это называется *скриптингом* (storyboarding by scripting, SBS) и позволяет более точно (до пикселей и миллисекунд) описывать время и место появления спрайтов, их поведение и так далее.
+Помимо [встроенного редактора](/wiki/Client/Beatmap_editor/Design), для создания [сторибордов](/wiki/Storyboard) можно применять простой текстовый редактор (к примеру, Блокнот, [Notepad++](http://www.notepad-plus-plus.org/) или [Visual Studio Code](https://code.visualstudio.com/)). Это называется *скриптингом* (storyboarding by scripting, SBS) и позволяет более точно (до пикселей и миллисекунд) описывать время и место появления спрайтов, их поведение и так далее.
 
 ## Обзор
 

@@ -4,7 +4,7 @@
 
 Les **paramètres visuels** sont des options de personnalisation cachées situées en bas du terrain de jeu. Il est possible d'y accéder lorsque la beatmap est en cours de chargement ou lorsque le jeu est en pause. Lorsque le menu des paramètres visuels est affiché, la beatmap ne commencera pas et attendra que le curseur quitte le menu des paramètres visuels.
 
-*Remarque : Les modifications des paramètres visuels sont sauvegardées par beatmap mais certaines d'entre elles seront perdues après la fermeture d'osu!. Pour les définir globalement (et pour toujours), utilisez la barre latérale [options](/wiki/Options).*
+*Remarque : Les modifications des paramètres visuels sont sauvegardées par beatmap mais certaines d'entre elles seront perdues après la fermeture d'osu!. Pour les définir globalement (et pour toujours), utilisez la barre latérale [options](/wiki/Client/Options).*
 
 Il est également possible d'accéder au menu des paramètres visuels en mettant le jeu en pause. Toutefois, cette méthode ne fonctionne pas dans les matchs [multijoueurs](/wiki/Multi), car elle est considérée comme une tentative de quitter le match et vous devrez quitter la salle.
 

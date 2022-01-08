@@ -1,6 +1,6 @@
 # Fichier de configuration de l'utilisateur
 
-Il s'agit d'une liste d'options dans le fichier `osu!.<votre nom de compte PC>.cfg`. Beaucoup de ces options sont disponibles dans le [menu des options](/wiki/Options) du jeu , et il est recommandé de les modifier à cet endroit. Ne modifiez ces valeurs manuellement que si vous le devez vraiment.
+Il s'agit d'une liste d'options dans le fichier `osu!.<votre nom de compte PC>.cfg`. Beaucoup de ces options sont disponibles dans le [menu des options](/wiki/Client/Options) du jeu , et il est recommandé de les modifier à cet endroit. Ne modifiez ces valeurs manuellement que si vous le devez vraiment.
 
 ## Modifiable via le menu des options
 

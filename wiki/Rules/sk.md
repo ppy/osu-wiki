@@ -39,7 +39,7 @@ Tieto pravidlá sú základy, pomocou ktorých sa snažíme udžať osu! komunit
 
 ## Pravidlá o odosielaní beatmáp
 
-Tieto pravidlá sá týkajú striktne beatmáp odoslaných priamo z hry pomocou [systému odosielania beatmáp](/wiki/Submission). Tieto vlákna/diskusie sú vytvorené, keď sa beatmapa odošle s osu! [editora](/wiki/Beatmap_Editor).
+Tieto pravidlá sá týkajú striktne beatmáp odoslaných priamo z hry pomocou [systému odosielania beatmáp](/wiki/Submission). Tieto vlákna/diskusie sú vytvorené, keď sa beatmapa odošle s osu! [editora](/wiki/Client/Beatmap_editor).
 
 Sú tu tiež viac detailné pravidlá týkajúce sa konštrukcie beatmáp, ktoré sa nazývajú [Kritéria pre ohodnotenie](/wiki/Ranking_Criteria).
 

@@ -8,7 +8,7 @@ Proposal mengenai peraturan serta saran dibahas di [Sub-forum Ranking Criteria](
 
 ### Penamaan tingkat kesulitan
 
-*Artikel utama: [Penamaan Tingkat Kesulitan](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*Artikel utama: [Penamaan Tingkat Kesulitan](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal

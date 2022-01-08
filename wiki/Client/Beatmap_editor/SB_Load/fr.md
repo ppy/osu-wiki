@@ -10,8 +10,8 @@ Il est préférable qu'une carte ne dépasse jamais 5x de charge SB. Cela permet
 
 ## Où il est exposé
 
-- Testé dans l'[éditeur de beatmap](/wiki/Beatmap_Editor).
-- L'[Éditeur de storyboard](/wiki/Beatmap_Editor/Design), bien que les chiffres puissent ne pas être aussi précis.
+- Testé dans l'[éditeur de beatmap](/wiki/Client/Beatmap_editor).
+- L'[Éditeur de storyboard](/wiki/Client/Beatmap_editor/Design), bien que les chiffres puissent ne pas être aussi précis.
 
 ## Suggestions de réduction
 

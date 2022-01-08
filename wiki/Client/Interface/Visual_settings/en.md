@@ -4,7 +4,7 @@
 
 **Visual settings** is a hidden customisation overlay located at the bottom of the playfield. It can be accessed while the beatmap is loading or when gameplay is paused. When the visual settings overlay is shown, the beatmap will be delayed until the cursor leaves the visual settings overlay.
 
-*Notice: Visual settings changes are saved per beatmap but some of them will be lost after closing osu!. To set these globally (and forever) use the [options](/wiki/Options) sidebar.*
+*Notice: Visual settings changes are saved per beatmap but some of them will be lost after closing osu!. To set these globally (and forever) use the [options](/wiki/Client/Options) sidebar.*
 
 Alternatively, it is possible to access visual settings overlay by pausing the game. However, this method does not work in [Multi](/wiki/Multi) matches as it will be treated as attempting to quit the match and leave the room instead.
 

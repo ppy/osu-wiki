@@ -14,7 +14,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 
 **Poza [zasadami społeczności](/wiki/Rules) moderatorzy globalni podlegają również [kodeksowi postępowania „Przymierze współpracy”](/wiki/Contributor_Code_of_Conduct).**
 
-Jeżeli zauważysz, że zachowanie któregoś moderatora globalnego jest nieodpowiednie (lub łamie kodeks postępowania „Przymierze współpracy”), wyślij wiadomość na adres [abuse@ppy.sh](mailto:abuse@ppy.sh) z jak największą liczbą szczegółów. Sprawdź [„Zgłaszanie nadużyć”](/wiki/Reporting_Bad_Behaviour/Abuse), by dowiedzieć się więcej.
+Jeżeli zauważysz, że zachowanie któregoś moderatora globalnego jest nieodpowiednie (lub łamie kodeks postępowania „Przymierze współpracy”), wyślij wiadomość na adres [abuse@ppy.sh](mailto:abuse@ppy.sh) z jak największą liczbą szczegółów. Sprawdź [„Zgłaszanie nadużyć”](/wiki/Reporting_bad_behaviour/Abuse), by dowiedzieć się więcej.
 
 ## Zadania
 

@@ -48,7 +48,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 
 | Utilisateur | Contributions |
 | :-- | :-- |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Création de la [osu!academy](/wiki/osu!academy) |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Création de la [osu!academy](/wiki/Community/Video_series/osu!academy) |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | osu!weekly + Contributeur des news |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Présence remarquable dans la modération (10k+ kills) |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Présence remarquable dans la modération (10k+ kills) |

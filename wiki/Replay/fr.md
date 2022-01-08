@@ -14,11 +14,11 @@ Tant que le fichier local avec pour extension `.osr` est disponible avec la bonn
 
 ![](img/Replay_Auto.jpg "Replay avec Auto, en hors ligne et avec un compte en ligne respectivement.")
 
-Pour relancer un replay depuis le début, restez appuyé sur un des boutons par défaut (`` ` ``/`~`) (qui peuvent être changés dans les [options dans la catégorie Clavier](/wiki/Options#clavier); avec le bouton `Configuer les touches` -> **Quick Retry (hold briefly)**) ou en appuyant sur `Ctrl`+`R` pendant un court instant.
+Pour relancer un replay depuis le début, restez appuyé sur un des boutons par défaut (`` ` ``/`~`) (qui peuvent être changés dans les [options dans la catégorie Clavier](/wiki/Client/Options#clavier); avec le bouton `Configuer les touches` -> **Quick Retry (hold briefly)**) ou en appuyant sur `Ctrl`+`R` pendant un court instant.
 L'écran devrait s'assombrir et un son sera joué lorsque le replay sera relancé.
 Relâcher trop tôt ne permettra pas au relancement de s'effectuer.
 
-Il est toujours possible d'accéder à la [console de chat](/wiki/Chat_Console) (`F8`)/[console de chat étendue](/wiki/Chat_Console#la-console-de-chat-étendue) (`F9`) .
+Il est toujours possible d'accéder à la [console de chat](/wiki/Client/Interface/Chat_console) (`F8`)/[console de chat étendue](/wiki/Client/Interface/Chat_console#la-console-de-chat-étendue) (`F9`) .
 Appuyez sur `Tab` pour cacher/afficher le classement actuellement sélectionné.
 Appuyez sur `H` pour cacher/afficher les éléments du replays exceptés les mods utilisés et la notice **UNRANKED** si la partie est jouée par [Auto](/wiki/Game_modifier/Auto).
 
@@ -165,7 +165,7 @@ Les éléments du Multi ne seront pas sauvegardés comme montré sur la comparai
 
 ### Spectateur
 
-Le mode spectateur requiert l'accès à la [Console de chat étendue](/wiki/Chat_Console#extended-chat-console), vous devez donc vous connecter à Bancho pour observer un joueur.
+Le mode spectateur requiert l'accès à la [Console de chat étendue](/wiki/Client/Interface/Chat_console#extended-chat-console), vous devez donc vous connecter à Bancho pour observer un joueur.
 
 Après cela, appuyez sur `F9` pour accéder à la console de chat étendue et choisissez le jouer à observer.
 Vous devez avoir la **même** difficulté/beatmap que le joueur, ou un message d'avertissement apparaîtra en bas à droite pour vous dire que vous ne possédez pas la beatmap, vous ne pouvez donc pas obtenir le replay.

@@ -12,13 +12,13 @@ tags:
 
 ![BanchoBot ユーザーカード](img/BanchoBot.jpg "BanchoBot ユーザーカード")
 
-**BanchoBot**（*Bancho*と呼ばれることもあります）はosu!のために作られたオンラインチャットボットで、ゲームに関するメッセージ（例：累計プレイ回数、リトライ回数など）をお知らせしたり、特定のコマンドに応答したりして、ゲーム内のチャットでプレイヤーを支援します。[Echo](https://osu.ppy.sh/users/431)によってプログラムされ、[Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat)を提供しています。
+**BanchoBot**（*Bancho*と呼ばれることもあります）はosu!のために作られたオンラインチャットボットで、ゲームに関するメッセージ（例：累計プレイ回数、リトライ回数など）をお知らせしたり、特定のコマンドに応答したりして、ゲーム内のチャットでプレイヤーを支援します。[Echo](https://osu.ppy.sh/users/431)によってプログラムされ、[Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat)を提供しています。
 
 BanchoBotは[osu!プロフィール](https://osu.ppy.sh/users/3)や[Twitterアカウント](https://twitter.com/banchoboat)を持っています。
 
 ## コマンド
 
-*ゲーム内クライアントのコマンド一覧については、こちらを参照してください: [チャットコンソール](/wiki/Chat_Console#コマンド一覧)*
+*ゲーム内クライアントのコマンド一覧については、こちらを参照してください: [チャットコンソール](/wiki/Client/Interface/Chat_console#コマンド一覧)*
 
 BanchoBotは、チャットで特定のメッセージを介してプレイヤーのコマンドに応答することができます。BanchoBotの全てのコマンドは、感嘆符(`!`)で始まり、その後に大文字小文字を区別しないコマンド名（間にスペースを入れない）が続きます。これらのコマンドは、チャットチャンネルやBanchoBotとのプライベートメッセージで使用できます。
 
@@ -137,7 +137,7 @@ BanchoBotの全コマンドの一覧は以下の通りです：
 
 ### Report
 
-*報告する価値があるものについては、[悪い行動の報告](/wiki/Reporting_Bad_Behaviour)を参照してください。*
+*報告する価値があるものについては、[悪い行動の報告](/wiki/Reporting_bad_behaviour)を参照してください。*
 
 ```
 !report <user> <reason>

@@ -20,7 +20,7 @@ Berikut adalah daftar pemain yang diakui telah mencapai peringkat #1 di [peringk
 
 Selama bertahun-tahun, ada tiga sistem berbeda yang digunakan untuk menentukan peringkat pemain:
 
-- [Ranked Score](/wiki/Score/Ranked_score) (6 Oktober 2007 – 24 Juli 2012)
+- [Ranked Score](/wiki/Gameplay/Score/Ranked_score) (6 Oktober 2007 – 24 Juli 2012)
 - [ppv1](/wiki/Performance_points/ppv1) (24 Juli 2012 – 27 Januari 2014)
 - [ppv2](/wiki/Performance_points) (27 Januari 2014 – sekarang)
 
@@ -30,7 +30,7 @@ Walaupun ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) diasumsikan sebagai pe
 
 ## 2007
 
-*Catatan: Selama periode di mana [Ranked Score](/wiki/Score/Ranked_score) digunakan, pemegang peringkat #1 akan sering berubah, sehingga daftar awal mungkin tidak akurat. Informasi mendetail dapat ditemukan di perkiraan rekonstruksi papan peringkat global Ranked Score, yang tersedia [di sini](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
+*Catatan: Selama periode di mana [Ranked Score](/wiki/Gameplay/Score/Ranked_score) digunakan, pemegang peringkat #1 akan sering berubah, sehingga daftar awal mungkin tidak akurat. Informasi mendetail dapat ditemukan di perkiraan rekonstruksi papan peringkat global Ranked Score, yang tersedia [di sini](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
 
 | Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
