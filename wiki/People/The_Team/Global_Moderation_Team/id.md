@@ -17,7 +17,7 @@ tags:
 ## Peran dan Tanggung Jawab
 
 ***Catatan: Untuk melaporkan seorang moderator yang berperilaku buruk atau melanggar Kode Etik Kontributor, silakan hubungi [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
-*Lihat juga: [Melaporkan Penyalahgunaan](/wiki/Reporting_Bad_Behaviour).*
+*Lihat juga: [Melaporkan Penyalahgunaan](/wiki/Reporting_bad_behaviour).*
 
 Global Moderation Team bertanggung jawab atas kesejahteraan obrolan dan forum, dan mengurus interaksi di dalam komunitas. Mereka harus didekati jika Anda memiliki pertanyaan yang berkaitan dengan aspek moderasi permainan, yang akan mencakup (namun tidak terbatas pada):
 
@@ -35,7 +35,7 @@ Menjadi anggota dari Global Moderation Team membutuhkan jumlah kontribusi yang s
 Faktor terpenting agar dipertimbangkan adalah perilaku, aktivitas, pemahaman terhadap [peraturan](/wiki/Rules), dan kesabaran:
 
 1. Demonstrasikan perilaku yang baik dengan bersikap sopan dan memperlakukan pengguna lain dengan hormat. Jaga akun kamu terbebas dari silence atau masalah serius yang sangat penting.
-2. Demonstrasikan aktivitas in-game dengan berpartisipasi di obrolan dan/atau forum. [Laporkan perilaku buruk](/wiki/Reporting_Bad_Behaviour) dan masalah melalui sistem report. Jawab pertanyaan-pertanyaan dan bantu selesaikan isu yang dialami pengguna lain.
+2. Demonstrasikan aktivitas in-game dengan berpartisipasi di obrolan dan/atau forum. [Laporkan perilaku buruk](/wiki/Reporting_bad_behaviour) dan masalah melalui sistem report. Jawab pertanyaan-pertanyaan dan bantu selesaikan isu yang dialami pengguna lain.
 3. Memiliki pemahaman yang cukup tentang [peraturan](/wiki/Rules) serta penerapannya. Penting untuk mengetahui apa saja yang dapat diterima dan tidak diterima di osu!
 4. Bersabarlah. GMT tidak menambahkan secara spontan anggota yang telah membantu hanya beberapa hari. Butuh waktu bagi GMT untuk mengevaluasi seseorang⁠ — kepribadian mereka, apa yang dapat mereka bantu, aktivitas mereka, dll.
 

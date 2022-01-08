@@ -53,7 +53,7 @@ W porównaniu do [Alumni osu!](/wiki/People/The_Team/osu!_Alumni), czyli byłych
 
 | Użytkownik | Wkład |
 | :-- | :-- |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Prowadzenie [akademii osu!](/wiki/osu!academy). |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Prowadzenie [akademii osu!](/wiki/Community/Video_series/osu!academy). |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | Znaczący wkład w osu!weekly i inne aktualności. |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Znaczący wkład w moderowanie czatu (ponad 10 tysięcy uciszeń). |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Znaczący wkład w moderowanie czatu (ponad 10 tysięcy uciszeń). |

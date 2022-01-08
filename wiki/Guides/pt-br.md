@@ -15,7 +15,7 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 - [Adicionando Hitsounds Customizados](Using_custom_hitsounds)
 - [Edição de Áudio](Audio_Editing)
 - [Mudando o Artista ou Título](Changing_the_Artist_or_Title)
-- [Mudando o texto do Título](/wiki/Beatmap/Title_Text#changing-title-text)
+- [Mudando o texto do Título](/wiki/Beatmap/Title_text#changing-title-text)
 - [Informação de Collab](Collab_Information)
 - [Compactando Arquivos](Compressing_files)
 - [Biblioteca de Hitsound Customizado](Custom_Hitsound_Library)

@@ -28,7 +28,7 @@ outdated_since: e57be1caacf5940ee203eb163acd89d4523cd58c
 - **背景 / 故事板 / 视频的内容不得有任何不健康内容。** 包括裸体、近裸体、性暗示、暴力和滥用药品（毒品）等等。详见[视觉内容注意事项](/wiki/Rules/Visual_Content_Considerations)。
 - **包含重复频闪、脉冲图像，或视频、故事板中有对比度、颜色和亮度的快速变化的谱面必须使用癫痫警告。** 如果警告会影响游戏，则必须延长歌曲导入时间。3 HZ 以下的闪烁一般不会引起人的不适。如果有疑问，请在摸图时添加该警告并讨论确认其必要性。
 - **谱面文件夹中不能有未使用文件或 0 字节的文件。** 0 字节的文件会影响文件夹中其他文件的正常上传。这条规则的唯一例外是自动生成的 `thumbs.db` 文件。
-- **[休息时间](/wiki/Beatmap/Break)必须按照[谱面编辑器](/wiki/Beatmap_Editor)的限制插入**
+- **[休息时间](/wiki/Beatmap/Break)必须按照[谱面编辑器](/wiki/Client/Beatmap_editor)的限制插入**
 - **同游戏模式下所有难度的 `Letterbox during breaks` 设定必须一致，如果其包含相同的休息时间和 / 或故事板。**
 - **如果谱面有对其他媒体的剧透，则请在谱面描述中标注剧透警告**
 
@@ -191,19 +191,19 @@ outdated_since: e57be1caacf5940ee203eb163acd89d4523cd58c
 
 ### 规定
 
-- **必须使用[非继承时间点](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)来准确地定位歌曲的拍子记号。** 如果错误的拍子记号持续超过一个小节，则必须在下一个强拍（Downbeat）添加非继承时间点以重置拍子记号。由于编辑器不支持 #/4 拍子记号，可以重置节拍器或编辑 `.osu` 文件。对于其他不支持的时间记号，参见[范例图表](/wiki/shared/timing/Timing_signature_reference_chart.png)，查阅[这个指南](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)获取更多信息。
+- **必须使用[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)来准确地定位歌曲的拍子记号。** 如果错误的拍子记号持续超过一个小节，则必须在下一个强拍（Downbeat）添加非继承时间点以重置拍子记号。由于编辑器不支持 #/4 拍子记号，可以重置节拍器或编辑 `.osu` 文件。对于其他不支持的时间记号，参见[范例图表](/wiki/shared/timing/Timing_signature_reference_chart.png)，查阅[这个指南](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)获取更多信息。
 - **有单 BPM 和多 BPM 时间点的谱面必须将每个音符对准。** 这意味着 [BPM](/wiki/Beatmapping/Beats_per_minute) 和[偏移](/wiki/Beatmapping/Offset)与歌曲完全同步。不断改变BPM的节拍图也许不可能完美地计时，那么则应该在不影响游戏玩法的情况下尽可能地精确。在休息或旋转时的复杂时间是可选的。
-- **[非继承时间点](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)在谱面集的每个难度中必须相同。** 每个时间点在每个难度中必须有相同的 [BPM](/wiki/Beatmapping/Beats_per_minute) 和[偏移](/wiki/Beatmapping/Offset)。
-- **任何难度都不能有额外的[非继承时间点](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)。** 这可能会影响主菜单脉冲特效、NightCore Mod，或者由于毫秒舍入误差而导致时间偏移。可以接受的情况有：
+- **[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)在谱面集的每个难度中必须相同。** 每个时间点在每个难度中必须有相同的 [BPM](/wiki/Beatmapping/Beats_per_minute) 和[偏移](/wiki/Beatmapping/Offset)。
+- **任何难度都不能有额外的[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)。** 这可能会影响主菜单脉冲特效、NightCore Mod，或者由于毫秒舍入误差而导致时间偏移。可以接受的情况有：
   - 使 NightCore Mod 的节拍和曲段的开头对齐。
   - 适应使用不支持的节拍的曲段（如 1/11）。
-- **不能将两个[非继承时间点](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)或两个[继承时间点](/wiki/Beatmap_Editor/Timing#inherited-timing-point)放置在同一点。** 将两个非继承或两个继承定时点彼此重叠将导致滑块速度和音量设置的错误行为。
-- **[继承时间点](/wiki/Beatmap_Editor/Timing#inherited-timing-point)不能放在第一个[非继承时间点](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)之前。** 如果没有任何要继承的设置，继承时间点将无法正常工作。如果要在第一个非继承时间点之前修改敲击音效或滑块速度，则必须将其前移一个完整的拍子，以便使用继承时间点。
-- **谱面的第一个[非继承时间点](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)不能用于切换 Kiai。** 这样做将导致 Kiai 在出现之前闪烁。必须使用与第一个[非继承时间点](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)位置相同的[继承时间点](/wiki/Beatmap_Editor/Timing#inherited-timing-point)来切换 Kiai。
+- **不能将两个[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)或两个[继承时间点](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)放置在同一点。** 将两个非继承或两个继承定时点彼此重叠将导致滑块速度和音量设置的错误行为。
+- **[继承时间点](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)不能放在第一个[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)之前。** 如果没有任何要继承的设置，继承时间点将无法正常工作。如果要在第一个非继承时间点之前修改敲击音效或滑块速度，则必须将其前移一个完整的拍子，以便使用继承时间点。
+- **谱面的第一个[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)不能用于切换 Kiai。** 这样做将导致 Kiai 在出现之前闪烁。必须使用与第一个[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)位置相同的[继承时间点](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)来切换 Kiai。
 - **物件必须按照 AiMod 的时间点来对齐。** 处于使用不支持的节拍（如 1/11）的曲段中的物件可以：
   - 不与 AiMod 对齐，保持对目标节拍的对齐。
   - 通过暂时改变 BPM 来对齐。
-- **由于新的[非继承时间点](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)而被错误对齐的物件必须在新的时间部分内对齐其末端。** 对于转盘和 osu!mania 长音符，可以通过拖动一个对象的尾部使其对齐时间线来实现。对于滑条，这可以通过修改滑条速度操作或编辑 `.osu` 文件来实现。
+- **由于新的[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)而被错误对齐的物件必须在新的时间部分内对齐其末端。** 对于转盘和 osu!mania 长音符，可以通过拖动一个对象的尾部使其对齐时间线来实现。对于滑条，这可以通过修改滑条速度操作或编辑 `.osu` 文件来实现。
 
 ### 准则
 

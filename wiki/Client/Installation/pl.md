@@ -4,9 +4,9 @@ outdated: true
 
 # Instalacja
 
-*Zobacz także: [Instalacja/macOS](/wiki/Installation/macOS)*
+*Zobacz także: [Instalacja/macOS](/wiki/Client/Installation/macOS)*
 
-Ten artykuł przybliży ci proces instalacji osu! na urządzenia z systemem Windows. [Akademia osu!](/wiki/osu!academy) podjęła ten temat w swoim [poradniku wideo](https://www.youtube.com/watch?v=0V5GwzmMhpU).
+Ten artykuł przybliży ci proces instalacji osu! na urządzenia z systemem Windows. [Akademia osu!](/wiki/Community/Video_series/osu!academy) podjęła ten temat w swoim [poradniku wideo](https://www.youtube.com/watch?v=0V5GwzmMhpU).
 
 ## Minimalne wymagania systemowe
 
@@ -66,5 +66,5 @@ Możesz dodawać beatmapy na dwa sposoby - poprzez stronę internetową oraz pop
      1. Rozpakuj ją.
      2. Przenieś folder ze skórką do folderu `Skins` w katalogu z zainstalowanym osu!.
      3. Jeżeli osu! jest uruchomione, musisz je zrestartować, aby skórka została załadowana.
-     4. Przejdź do [opcji](/wiki/Options) i wprowadź frazę `Skórka`.
+     4. Przejdź do [opcji](/wiki/Client/Options) i wprowadź frazę `Skórka`.
      5. Przejdź do menu rozwijanego `Wybierz skórkę:` i wybierz pobraną skórkę z listy.

@@ -248,7 +248,7 @@ If you want to remove an element, you must use a transparent image in place of t
 
 There are two ways to do this:
 
-- Disable `Hit Lighting` in the [options](/wiki/Options).
+- Disable `Hit Lighting` in the [options](/wiki/Client/Options).
 - Use a transparent image called `lighting.png` in your skin.
 
 ##### I meant the particles after clicking!

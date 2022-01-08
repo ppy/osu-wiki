@@ -69,7 +69,7 @@ Le 1er avril 2012, l'ensemble du site web d'osu! avait 50 % de chances que le mo
 
 ### Bad Apple Ranking Chart
 
-Le "Bad Apple Ranking Chart" était un tableau de classement de blague basé sur une variété de beatmaps qui mettait en vedette la chanson "Bad Apple !!!" dans le cadre de la blague du poisson d'avril 2012 d'osu!. Annoncé par le biais d'un [newspost](https://osu.ppy.sh/community/forums/posts/1431905) le 1er avril 2012, le tableau de classement fonctionnait en fait comme un véritable tableau de travail à l'époque et affichait les 40 meilleurs joueurs ayant obtenu le meilleur [score classé](/wiki/Score/Ranked_score) dans l'une des sélections de beatmaps "Bad Apple !!!" [[20,21,22]][r]. Un extrait de l'article de presse susmentionné est inscrit ci-dessous :
+Le "Bad Apple Ranking Chart" était un tableau de classement de blague basé sur une variété de beatmaps qui mettait en vedette la chanson "Bad Apple !!!" dans le cadre de la blague du poisson d'avril 2012 d'osu!. Annoncé par le biais d'un [newspost](https://osu.ppy.sh/community/forums/posts/1431905) le 1er avril 2012, le tableau de classement fonctionnait en fait comme un véritable tableau de travail à l'époque et affichait les 40 meilleurs joueurs ayant obtenu le meilleur [score classé](/wiki/Gameplay/Score/Ranked_score) dans l'une des sélections de beatmaps "Bad Apple !!!" [[20,21,22]][r]. Un extrait de l'article de presse susmentionné est inscrit ci-dessous :
 
 > Nous avons décidé de dédier cette charte à la meilleure chanson et vidéo jamais créée, Bad Apple !!!. Vous pouvez trouver le super tableau ici
 

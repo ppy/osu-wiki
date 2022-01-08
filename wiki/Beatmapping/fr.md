@@ -1,7 +1,7 @@
 # Beatmapping
 
 Le **Beatmapping** est le processus de création de [beatmaps](/wiki/Beatmap) par le biais du client osu!
-Cela implique de choisir une chanson, [timing](/wiki/Beatmap_Editor/Timing), le placement de [objects](/wiki/Hit_object), et (éventuellement) le [skinning](/wiki/Skinning) et le [storyboarding](/wiki/Storyboard#storyboarding).
+Cela implique de choisir une chanson, [timing](/wiki/Client/Beatmap_editor/Timing), le placement de [objects](/wiki/Hit_object), et (éventuellement) le [skinning](/wiki/Skinning) et le [storyboarding](/wiki/Storyboard#storyboarding).
 
 Les mappeurs veulent généralement que leurs beatmaps obtiennent le statut [classé](/wiki/Beatmap). Pour en savoir plus à propos de ceci, vous pouvez jeter un aperçu à la [procédure de classement d'une beatmap](/wiki/Beatmap_ranking_procedure).
 
@@ -20,11 +20,11 @@ Votre nouvelle chanson sera disponible en bas de la liste des chansons, surlign�
 
 S'il ne figure pas dans la sélection de chanson pour une raison quelconque, appuyez sur `F5` pour réinitialiser le cache de beatmaps afin de le faire apparaître.
 
-Cliquez sur la chanson, cela ouvrira la fenêtre de l'[éditeur de beatmap](/wiki/Beatmap_Editor) et la `Configuration de la chanson`.
+Cliquez sur la chanson, cela ouvrira la fenêtre de l'[éditeur de beatmap](/wiki/Client/Beatmap_editor) et la `Configuration de la chanson`.
 
 ### Configuration de la chanson
 
-*Main page: [Configuration de la chanson](/wiki/Beatmap_Editor/Song_Setup)*
+*Main page: [Configuration de la chanson](/wiki/Client/Beatmap_editor/Song_Setup)*
 
 En faisant un nouveau [mapset](/wiki/Beatmap), vous verrez toujours cette boîte de dialogue avant toute autre partie de l'éditeur de beatmap.
 
@@ -39,7 +39,7 @@ L'étape suivante consiste à ajouter un timing à votre beatmap.
 
 ### Timing
 
-*Page principale : [Timing](/wiki/Beatmap_Editor/Timing)*
+*Page principale : [Timing](/wiki/Client/Beatmap_editor/Timing)*
 
 **Le timing est vital!**
 Les beatmaps mal synchronisées ne seront pas prises en compte pour le classement.
@@ -51,7 +51,7 @@ Cela vous (ainsi que les gens qui vérifieront votre beatmap) évitera beaucoup 
 
 ### Composer
 
-*Page principale : [Composer](/wiki/Beatmap_Editor/Compose)*
+*Page principale : [Composer](/wiki/Client/Beatmap_editor/Compose)*
 
 L'onglet Composer de l'éditeur de beatmap est l'endroit où vous passerez probablement la majorité de votre temps à composer.
 
@@ -59,6 +59,6 @@ C’est également ici que vous pouvez placer des hit objects et gérer leurs [h
 
 ### Conception
 
-*Page principale : [Conception](/wiki/Beatmap_Editor/Design) et [Storyboarding](/wiki/Storyboard#storyboarding)*
+*Page principale : [Conception](/wiki/Client/Beatmap_editor/Design) et [Storyboarding](/wiki/Storyboard#storyboarding)*
 
 L'onglet Conception de l'éditeur de beatmap est l'endroit où vous pouvez définir l'image de fond de beatmap, ajouter une vidéo et/ou créer un storyboard.

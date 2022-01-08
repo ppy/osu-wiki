@@ -8,7 +8,7 @@ tags:
 
 *Untuk penggunaan lainnya, lihat [NC (disambiguasi)](/wiki/Disambiguation/NC).*
 
-**Kombo baru** (*New Combo* atau biasa disebut dengan *NC*) adalah tanda untuk mengawali sebuah [kombo](/wiki/Beatmapping/Combo) baru. Kombo baru berjalan sesuai [mode permainan](/wiki/Game_mode) yang dipilih. Mereka dapat dipilih ketika sedang [membuat beatmap](/wiki/Beatmapping) di dalam [beatmap editor](/wiki/Beatmap_Editor) dengan mengklik `New Combo` pada sisi kanan tab `Compose`, atau menggunakan jalan pintas yaitu `Q`. Kombo baru meliputi seluruh bagian dari [colourhaxing](/wiki/Beatmapping/Colourhaxing).
+**Kombo baru** (*New Combo* atau biasa disebut dengan *NC*) adalah tanda untuk mengawali sebuah [kombo](/wiki/Beatmapping/Combo) baru. Kombo baru berjalan sesuai [mode permainan](/wiki/Game_mode) yang dipilih. Mereka dapat dipilih ketika sedang [membuat beatmap](/wiki/Beatmapping) di dalam [beatmap editor](/wiki/Client/Beatmap_editor) dengan mengklik `New Combo` pada sisi kanan tab `Compose`, atau menggunakan jalan pintas yaitu `Q`. Kombo baru meliputi seluruh bagian dari [colourhaxing](/wiki/Beatmapping/Colourhaxing).
 
 ## osu!
 

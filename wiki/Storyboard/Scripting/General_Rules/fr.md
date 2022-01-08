@@ -22,7 +22,7 @@ Cette page et le reste du guide décrivent les lignes de code de script qui sont
   - La zone de jeu générale a une largeur de 510 pixels et une hauteur de 385 pixels. `(510x385)`.
 - Les coordonnées sont spécifiées avec X allant vers la **droite**, Y allant vers le **bas**, et l'origine (0,0) dans le coin supérieur gauche de l'écran. Ce système est différent des systèmes de coordonnées euclidiens traditionnels, mais il est identique à la plupart des systèmes informatiques graphiques.
 - Vous êtes autorisé à spécifier des coordonnées en dehors de ces limites (par exemple, pour qu'un sprite arrive du hors-écran).
-- Les coordonnées de votre curseur seront affichées dans l'onglet Design de l'[éditeur de beatmaps](/wiki/Beatmap_Editor).
+- Les coordonnées de votre curseur seront affichées dans l'onglet Design de l'[éditeur de beatmaps](/wiki/Client/Beatmap_editor).
 
 **Coordonnées de l'éditeur :**
 

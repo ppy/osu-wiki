@@ -8,7 +8,7 @@
 
 ![](img/main-menu.jpg "Main Menu")
 
-The [osu!cookie](/wiki/Glossary/Cookie) \[1\] pulses according to the [BPM](/wiki/Beatmapping/Beats_per_minute) of any song currently playing on the main menu. In addition, bars will extend out of the osu!cookie in accordance to the song's volume. If no song is playing, it pulses at a slow 60 BPM. The elements of the main menu are as follows:
+The [osu!cookie](/wiki/Client/Interface/Cookie) \[1\] pulses according to the [BPM](/wiki/Beatmapping/Beats_per_minute) of any song currently playing on the main menu. In addition, bars will extend out of the osu!cookie in accordance to the song's volume. If no song is playing, it pulses at a slow 60 BPM. The elements of the main menu are as follows:
 
 - \[2\] Click Play (`P`) or the logo to switch to the Solo mode song selection screen.
 - \[3\] Click Edit (`E`) to open the Editor mode song selection screen.
@@ -17,7 +17,7 @@ The [osu!cookie](/wiki/Glossary/Cookie) \[1\] pulses according to the [BPM](/wik
 - \[6\] A random useful tip is displayed below the menu.
 - \[7\] In the lower-left is a link to the osu! website, as well as copyright information.
 - \[8\] Connection result to [Bancho](/wiki/Bancho_(server))! In this picture it is not shown, but the connection result looks like a chain link.
-- \[9\] In the bottom right are the chat controls for the extended [chat window](/wiki/Chat_Console) (called "Player List" here) and the regular chat window (`F9` & `F8`, respectively).
+- \[9\] In the bottom right are the chat controls for the extended [chat window](/wiki/Client/Interface/Chat_console) (called "Player List" here) and the regular chat window (`F9` & `F8`, respectively).
 - \[10\] In the upper right is the osu! jukebox which plays the songs in random order. The top shows the song currently playing. The buttons, from left to right, do as follows:
   - Previous Track
   - Play
@@ -35,7 +35,7 @@ The [osu!cookie](/wiki/Glossary/Cookie) \[1\] pulses according to the [BPM](/wik
 Access this screen by clicking your profile at the top left of the main menu. You cannot access the Chat Consoles while viewing the user option screen. You can select any item by pressing the corresponding number on the option:
 
 1. `View Profile`: Opens up your profile page in your default web browser.
-2. `Sign Out`: Sign out of your account (after signing out, the [Options](/wiki/Options) sidebar will prompt you to sign in).
+2. `Sign Out`: Sign out of your account (after signing out, the [Options](/wiki/Client/Options) sidebar will prompt you to sign in).
 3. `Change Avatar`: Open up the edit avatar page in your default web browser.
 4. `Close`: Close this dialog
 
@@ -64,7 +64,7 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 7. The [mods](/wiki/Game_modifier) that you have activated (see #12), as well as the option to select them. The option marked "Free Mods" toggles whether or not players can select their own mods. If yes, they can pick any combination of mods *except for speed-altering mods like [Double Time](/wiki/Game_modifier/Double_Time)*. If no, the host decides what mods will be used. The host can pick speed-altering mods regardless of whether or not Free Mods is turned on.
 8. The team mode and win conditions.
 9. The ready button.
-10. The [chat console](/wiki/Chat_Console).
+10. The [chat console](/wiki/Client/Interface/Chat_console).
 11. The leave button.
 12. Where your activated mods appear.
 
@@ -87,7 +87,7 @@ Before continuing on, this screen has too many elements to note with easily, not
 
 ![](img/beatmap-metadata.jpg)
 
-This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. In the top left is the ranked status of the beatmap. The title is next. Normally, the romanised title is shown, but if you select `Prefer metadata in original language` in the [Options](/wiki/Options), it will show the Unicode title; this is shown in the upper picture. The beatmapper is also shown, and beatmap information is shown below. From left to right, the values are as follows:
+This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. In the top left is the ranked status of the beatmap. The title is next. Normally, the romanised title is shown, but if you select `Prefer metadata in original language` in the [Options](/wiki/Client/Options), it will show the Unicode title; this is shown in the upper picture. The beatmapper is also shown, and beatmap information is shown below. From left to right, the values are as follows:
 
 - **Length**: The total length of the beatmap, from start to finish and including breaks. Not to be confused with [drain time](/wiki/Gameplay/Drain_time).
 - **BPM**: The BPM of the beatmap. If (like in the lower picture) there are two BPMS and one in parentheses, this means that the BPM changes throughout the song. It shows the slowest and fastest BPMs, and the value in parentheses is the BPM at the start of the beatmap.
@@ -163,7 +163,7 @@ Supported filters:
 - `status`: Ranked status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short.
 - `played`: Time since last played in days
 - `unplayed`: Shows only unplayed maps. A comparison with no set value must be used. The comparison itself is ignored.
-- `speed`: Saved osu!mania scroll speed. Always 0 for unplayed maps or if the [Remember osu!mania scroll speed per beatmap](/wiki/Options#gameplay) option is off
+- `speed`: Saved osu!mania scroll speed. Always 0 for unplayed maps or if the [Remember osu!mania scroll speed per beatmap](/wiki/Client/Options#gameplay) option is off
 
 Supported comparisons:
 
@@ -264,7 +264,7 @@ Click the `Beatmap Options` button, press `F3` or right-click your mouse while h
 
 Click on **your user panel** to access the **User Options Menu**.
 
-Click the **[osu!cookie](/wiki/Glossary/Cookie)** to **start playing the selected beatmap**.
+Click the **[osu!cookie](/wiki/Client/Interface/Cookie)** to **start playing the selected beatmap**.
 
 ## Results screen
 
@@ -296,15 +296,15 @@ This is your online leaderboard. You can go here by scrolling down from the resu
    1. `Overall`: Your position on the map's leaderboard, where you compete against players that used [mods](/wiki/Game_modifier), even if you didn't use any yourself.
    2. `Accuracy`: How [precisely](/wiki/Gameplay/Accuracy) did you play the beatmap. Will only be counted when your old score is surpassed.
    3. `Max Combo`: Your longest combo on the map you played.
-   4. `Ranked Score`: Your [best result](/wiki/Score/Ranked_score) on the beatmap.
+   4. `Ranked Score`: Your [best result](/wiki/Gameplay/Score/Ranked_score) on the beatmap.
    5. `Total Score`: Not taken into account, since it does not affect your position in online rankings.
    6. `Performance`: The amount of [unweighted PP](/wiki/Performance_points#why-didnt-i-gain-the-full-amount-of-pp-from-a-map-i-played?) you would receive for the play.
 6. `Overall Ranking` section. It's available only for beatmaps with online leaderboards. You also need to be online to see this section.
    1. `Overall`: Your global ranking in the world.
    2. `Accuracy`: Your average [accuracy](/wiki/Gameplay/Accuracy#accuracy) over all beatmaps you have played.
    3. `Max Combo`: The longest combo over all beatmaps you have played.
-   4. [`Ranked Score`](/wiki/Score/Ranked_score): The number of points earned from all ranked beatmaps that you have ever played, with every map being counted exactly once.
-   5. [`Total Score`](/wiki/Score/Total_score): Same as ranked score, but it takes into account all beatmaps available on the osu! website, and also underplayed or failed beatmaps. This counts towards your level.
+   4. [`Ranked Score`](/wiki/Gameplay/Score/Ranked_score): The number of points earned from all ranked beatmaps that you have ever played, with every map being counted exactly once.
+   5. [`Total Score`](/wiki/Gameplay/Score/Total_score): Same as ranked score, but it takes into account all beatmaps available on the osu! website, and also underplayed or failed beatmaps. This counts towards your level.
    6. `Perfomance`: Displays your total amount of Performance Points, and also how many PP the submitted play was worth.
 7. Information about the beatmap with its playcount and pass rate.
 8. Beatmap rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.

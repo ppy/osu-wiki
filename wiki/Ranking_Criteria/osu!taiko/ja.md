@@ -12,7 +12,7 @@ osu!taiko Ranking Criteria(osu!taiko譜面のランク基準)はTaiko譜面を�
 
 ### 難易度名(Difficulty Names)
 
-*参考: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*参考: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu

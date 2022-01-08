@@ -52,7 +52,7 @@ no_native_review: true
 
 | Потребител | Принос |
 | :-- | :-- |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Откри [osu!академия](/wiki/osu!academy) |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Откри [osu!академия](/wiki/Community/Video_series/osu!academy) |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | osu!weekly + сътрудник в новини |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Изключително модераторско присъствие (10k+ kills) |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Изключително модераторско присъствие (10k+ kills) |

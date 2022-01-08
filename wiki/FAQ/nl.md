@@ -42,7 +42,7 @@ Nu over naar het speelwijze.
 
 ### Speluitzicht
 
-Voor meer informatie kan je [hierheen](/wiki/Interface) gaan.
+Voor meer informatie kan je [hierheen](/wiki/Client/Interface) gaan.
 
 ![](/wiki/shared/osu-gameplay.jpg)
 

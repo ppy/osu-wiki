@@ -1,6 +1,6 @@
 # Skinning de l'interface
 
-*Voir également : [Interface](/wiki/Interface)*
+*Voir également : [Interface](/wiki/Client/Interface)*
 
 Les éléments de skinning de l'interface sont utilisés dans plusieurs modes de jeu ou parties de l'interface utilisateur du client.
 
@@ -56,7 +56,7 @@ Notes :
 Notes :
 
 - Si elle n'est pas skinnée, la petite icône du mode de jeu actuel sera utilisée à la place.
-- Doit être activé dans les [options](/wiki/Options) pour être visible.
+- Doit être activé dans les [options](/wiki/Client/Options) pour être visible.
   - Cette option peut être activée de force pendant les vacances (Noël).
 
 ## Bouton
@@ -718,7 +718,7 @@ Notes :
 Notes :
 
 - Utilisé lors de l'utilisation de storyboards 4:3 sur écran large.
-- Pendant le beatmapping, désactivez le `support écran large` dans [song setup](/wiki/Beatmap_Editor/Song_Setup) pour que cela apparaisse.
+- Pendant le beatmapping, désactivez le `support écran large` dans [song setup](/wiki/Client/Beatmap_editor/Song_Setup) pour que cela apparaisse.
 - Cet élément est étiré pour s'adapter à la surface nécessaire.
 - Le pilier droit est retourné à l'horizontale.
 
@@ -984,7 +984,7 @@ Notes :
 - Puisque l'image est tournée, l'origine sur l'image elle-même est en haut à gauche..
 - Cet élément est utilisé dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch).
 - Cet élément est tourné de 90 degrés dans le sens des aiguilles d'une montre et étiré de 1,05x dans le jeu.
-- Doit être activé dans les [options](/wiki/Options) pour être visible.
+- Doit être activé dans les [options](/wiki/Client/Options) pour être visible.
 
 ---
 
@@ -1005,7 +1005,7 @@ Notes :
   - K2/R : à 398px de hauteur
   - M1/D : à 446px de hauteur
   - M2 : à 492px de hauteur
-- Activable dans les [options](/wiki/Options).
+- Activable dans les [options](/wiki/Client/Options).
 - Se rétrécit brièvement lorsque l'on appuie sur les touches.
 - La teinte varie en fonction de l'emplacement du bouton et de l'état :
   - Blanc, si la touche n'est pas pressée.
@@ -2178,7 +2178,7 @@ Notes :
 
 - Nom de l'animation : `menu-back-{n}.png`.
 - Le bouton retour natif n'est pas skinnable.
-  - Si cet élément est skinné, il remplacera le nouveau partout, sauf dans les [options](/wiki/Options).
+  - Si cet élément est skinné, il remplacera le nouveau partout, sauf dans les [options](/wiki/Client/Options).
 
 ---
 
@@ -2192,7 +2192,7 @@ Notes :
 
 Notes :
 
-- Les versions 2.2+ du skin peuvent supporter les vignettes (doivent être activées dans les [options](/wiki/Options)) pour la sélection des beatmaps.
+- Les versions 2.2+ du skin peuvent supporter les vignettes (doivent être activées dans les [options](/wiki/Client/Options)) pour la sélection des beatmaps.
   - Les vignettes sont positionnées à 9px de la bordure de l'image de gauche.
   - La taille des vignettes est de 115x85
 - Cet élément est utilisé à différents endroits :

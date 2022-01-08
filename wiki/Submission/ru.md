@@ -5,7 +5,7 @@ needs_cleanup: true  # нужно заново перевести
 
 # Публикация карты
 
-[Карты](/wiki/Beatmap) могут быть загружены на сайт osu! с помощью [внутриигрового редактора](/wiki/Beatmap_Editor). Публикация карты позволит ей получить внимание от других игроков и даже возможно получить статус [Рейтинговой](/wiki/Beatmap/Category#ranked) или [Любимой](/wiki/Beatmap/Category#loved).
+[Карты](/wiki/Beatmap) могут быть загружены на сайт osu! с помощью [внутриигрового редактора](/wiki/Client/Beatmap_editor). Публикация карты позволит ей получить внимание от других игроков и даже возможно получить статус [Рейтинговой](/wiki/Beatmap/Category#ranked) или [Любимой](/wiki/Beatmap/Category#loved).
 
 ![](img/bss_warning.png "Окно Beatmap Submission System")
 

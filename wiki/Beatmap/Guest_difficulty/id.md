@@ -22,6 +22,6 @@ Guest difficulty bukanlah sebuah tingkat kesulitan yang dibuat oleh beberapa map
 ![](img/gd_ownership.png "Contoh panel kontrol kepemilikan guest difficulty")
 :::
 
-Pada [laman diskusi beatmap](/wiki/Beatmap_Discussion), beatmap host dapat melakukan transfer kepemilikan tingkat kesulitan untuk mapper yang membuat tingkat kesulitan tersebut melalui tombol `Difficulty Owner`. Hal ini membuat pemilik guest difficulty dapat menyelesaikan masalah yang ada pada tingkat kesulitan mapnya secara mandiri.
+Pada [laman diskusi beatmap](/wiki/Beatmap_discussion), beatmap host dapat melakukan transfer kepemilikan tingkat kesulitan untuk mapper yang membuat tingkat kesulitan tersebut melalui tombol `Difficulty Owner`. Hal ini membuat pemilik guest difficulty dapat menyelesaikan masalah yang ada pada tingkat kesulitan mapnya secara mandiri.
 
 Kepemilikan guest difficulty tidak dapat diubah setelah beatmap menjadi [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), atau [Loved](/wiki/Beatmap/Category#loved).
