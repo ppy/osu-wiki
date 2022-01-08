@@ -426,7 +426,7 @@ Sunday, 8 March 2015:
 3. Match schedule will be settled by the Tournament Management (see below).
 4. Failed players' scores do get added to the team score.
 5. If no staff or referee is available, the match will be postponed.
-6. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
+6. Use of the [Visual Settings](/wiki/Client/Interface/Visual_settings) options are allowed.
 7. If the game ends in a draw, the game will be nullified.
 8. If a player disconnects, they get treated as if they failed the map.
 9. Maps cannot be reused in the same match unless the game was nullified.

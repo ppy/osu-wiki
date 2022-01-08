@@ -25,14 +25,14 @@ You should contact this team regarding account-related topics that are out of yo
   - profile content removals;
   - beatmap removals;
   - forum post and comment removals.
-- Instances of misbehaviour that you [wish to admit](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?).
+- Instances of misbehaviour that you [wish to admit](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?).
 - [Loss of access to the email](/wiki/Help_Centre/Installation_and_registration#where-do-i-register-for-osu!?) tied to your osu! account, or when your account is stolen.
 - Username [reverts and minor spelling corrections](/wiki/Help_Centre/Account#name-changes).
 - [Bot account registrations](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*Note: To report an extreme case of misbehaviour or sexual abuse from any user, including a moderator, see [Reporting Abuse](/wiki/Reporting_Bad_Behaviour/Abuse).*
+*Note: To report an extreme case of misbehaviour or sexual abuse from any user, including a moderator, see [Reporting Abuse](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Concerns about a moderator's misbehaviour.
 - Concerns about a moderator breaking [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct).

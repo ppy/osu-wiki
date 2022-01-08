@@ -9,7 +9,7 @@ tags:
 
 ## Sejarah
 
-QAT dibuat sebagai bagian dari uji coba manual terhadap [modding v2](/wiki/Beatmap_Discussion) yang mencoba mengotomatiskan promosi menjadi BAT dan pensiun dari BAT. Tim ini meninjau beatmap yang dikualifikasi dan akan mendiskualifikasi beatmap yang tidak memenuhi [kriteria ranking](/wiki/Ranking_Criteria) atau standar kualitas secara pribadi dari tim.
+QAT dibuat sebagai bagian dari uji coba manual terhadap [modding v2](/wiki/Beatmap_discussion) yang mencoba mengotomatiskan promosi menjadi BAT dan pensiun dari BAT. Tim ini meninjau beatmap yang dikualifikasi dan akan mendiskualifikasi beatmap yang tidak memenuhi [kriteria ranking](/wiki/Ranking_Criteria) atau standar kualitas secara pribadi dari tim.
 
 Reputasi QAT di antara mapper dan pemain sebagian besar negatif karena seringnya diskualifikasi terhadap map yang diyakini pengguna untuk ranked. Sebagian besar pemain tidak senang dengan hilangnya [performance points](/wiki/Performance_points) dan mapper tidak setuju dengan tindakan QAT berupa standar kualitas yang ketat.
 

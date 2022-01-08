@@ -14,11 +14,11 @@ As long as the local replay emulation file with a `.osr` file extension is avail
 
 ![](img/Replay_Auto.jpg "Replay with Auto, offline and online account play respectively")
 
-To rewatch a replay, press and hold the custom default grave/tilde (`` ` ``/`~`) key (which can be changed in [Options sidebar under keyboard](/wiki/Options#keyboard); inside the `Change keyboard bindings` button as **Quick Retry (hold briefly)**) or `Ctrl`+`R` for a while.
+To rewatch a replay, press and hold the custom default grave/tilde (`` ` ``/`~`) key (which can be changed in [Options sidebar under keyboard](/wiki/Client/Options#keyboard); inside the `Change keyboard bindings` button as **Quick Retry (hold briefly)**) or `Ctrl`+`R` for a while.
 The screen should darken and a sound will be played when the quick restart was successful.
 Releasing the key early will fail the quick retry.
 
-Access to the [Chat Console](/wiki/Chat_Console) (`F8`)/[Extended Chat Console](/wiki/Chat_Console#extended-chat-console) (`F9`) will still be available.
+Access to the [Chat Console](/wiki/Client/Interface/Chat_console) (`F8`)/[Extended Chat Console](/wiki/Client/Interface/Chat_console#extended-chat-console) (`F9`) will still be available.
 Press the `Tab` key to hide/show the currently-selected leaderboard.
 Press the `H` key to hide/show all elements of replay except the game mods used and **UNRANKED** notice if played by [Auto](/wiki/Game_modifier/Auto).
 
@@ -163,7 +163,7 @@ Multi elements will not be saved as shown in the image comparison above (refer t
 
 ### Spectator
 
-As spectator mode requires access to the [Extended Chat Console](/wiki/Chat_Console#extended-chat-console), please sign in with an active in-game account and connect to Bancho.
+As spectator mode requires access to the [Extended Chat Console](/wiki/Client/Interface/Chat_console#extended-chat-console), please sign in with an active in-game account and connect to Bancho.
 
 After that, press `F9` to access the Extended Chat Console and pick a player to spectate.
 Make sure to have the **same** difficulty/beatmap as the player, or a small red-outline warning box will appear at the bottom-right for not having the difficulty/beatmap specified, hence no spectator's replay.

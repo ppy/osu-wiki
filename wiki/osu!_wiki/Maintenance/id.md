@@ -2,7 +2,7 @@
 
 *Lihat juga: [panduan kontribusi osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
 
-Artikel ini menjelaskan aspek teknis atau administratif dari osu! wiki. Artikel ini juga mencakup prosedur pemeliharaan yang diperlukan agar tetap mutakhir—yang mungkin kamu dapat [berkontribusi pada salah satu rutinitas](#rutinitas). Untuk semua diskusi yang terkait dengan wiki, gunakan channel `#osu-wiki` di [server Discord osu!dev](/wiki/osu!dev_Discord_server).
+Artikel ini menjelaskan aspek teknis atau administratif dari osu! wiki. Artikel ini juga mencakup prosedur pemeliharaan yang diperlukan agar tetap mutakhir—yang mungkin kamu dapat [berkontribusi pada salah satu rutinitas](#rutinitas). Untuk semua diskusi yang terkait dengan wiki, gunakan channel `#osu-wiki` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
 
 ## Administrator
 
@@ -33,7 +33,7 @@ Di GitHub, pull request dan *issue* dapat ditandai dan diklasifikasikan dengan m
 
 ### Tautan dan pengalihan
 
-Kebanyakan artikel osu! wiki memiliki tautan alternatif, yang disiapkan menggunakan berkas [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml). Pengalihan dimaksudkan untuk digunakan di luar osu! wiki, misalnya, di forum, atau di [chat](/wiki/Chat_Console), di mana mereka dapat dengan cepat diubah menjadi referensi sebaris, contohnya:
+Kebanyakan artikel osu! wiki memiliki tautan alternatif, yang disiapkan menggunakan berkas [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml). Pengalihan dimaksudkan untuk digunakan di luar osu! wiki, misalnya, di forum, atau di [chat](/wiki/Client/Interface/Chat_console), di mana mereka dapat dengan cepat diubah menjadi referensi sebaris, contohnya:
 
 ```
 Menurut [[RC]], ini dilarang.
@@ -70,7 +70,7 @@ Beberapa fitur mungkin tidak berhubungan langsung dengan situs web osu!, tetapi 
 
 *Catatan: situs web [status osu-wiki](https://clayton.cc/osu-wiki-status/en) menampilkan daftar semua artikel yang membutuhkan pemeliharaan, dikelompokkan berdasarkan kategori.*
 
-Wiki bergantung pada masukan dari komunitas osu!. Kamu dapat membantu pengelola dan kontributor lain dengan melakukan apa yang kamu bisa lakukan. Untuk informasi tentang cara melakukannya, baca [panduan kontribusi](/wiki/osu!_wiki/Contribution_guide). Jika suatu saat kamu merasa perlu bantuan, mintalah bantuan di channel `#osu-wiki` di [server Discord osu!dev](/wiki/osu!dev_Discord_server).
+Wiki bergantung pada masukan dari komunitas osu!. Kamu dapat membantu pengelola dan kontributor lain dengan melakukan apa yang kamu bisa lakukan. Untuk informasi tentang cara melakukannya, baca [panduan kontribusi](/wiki/osu!_wiki/Contribution_guide). Jika suatu saat kamu merasa perlu bantuan, mintalah bantuan di channel `#osu-wiki` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
 
 ### Terjemahan
 

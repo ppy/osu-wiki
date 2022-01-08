@@ -22,7 +22,7 @@ osu! begon als een proof-of-concept met de naam "ouentest". De eerste versie wer
 
 ![](img/2007-07_04.jpg "Hitcirkels")
 
-Eind juli werd het menusysteem gewijzigd om het spel wat meer stijl te geven. Een eerste implementatie van sliders werd voltooid, met een niet geanimeerde oranje schuifbal en enkele vrij lelijke bochten. Beat snapping werd toegevoegd aan de editor, evenals een tijdlijn en een meer robuuste editor interface (vrij gelijkaardig aan wat je vandaag ziet in [Compose](/wiki/Beatmap_Editor/Compose) view).
+Eind juli werd het menusysteem gewijzigd om het spel wat meer stijl te geven. Een eerste implementatie van sliders werd voltooid, met een niet geanimeerde oranje schuifbal en enkele vrij lelijke bochten. Beat snapping werd toegevoegd aan de editor, evenals een tijdlijn en een meer robuuste editor interface (vrij gelijkaardig aan wat je vandaag ziet in [Compose](/wiki/Client/Beatmap_editor/Compose) view).
 
 ![](img/2007-07_05.jpg "De editor")
 

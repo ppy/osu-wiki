@@ -17,7 +17,7 @@ tags:
 ## Rol ve sorumluluklar
 
 ***Not: Uygunsuz davranış sergileyen veya İştirakçi Etik Davranış Kurallarına uymayan bir moderatörü bildirmek için, [hesap destek ekibiyle](/wiki/People/The_Team/Account_support_team#support@ppy.sh) iletişime geçin.***\
-*Ayrıca bakınız: [Olumsuz Davranış Bildirme](/wiki/Reporting_Bad_Behaviour)*
+*Ayrıca bakınız: [Olumsuz Davranış Bildirme](/wiki/Reporting_bad_behaviour)*
 
 Küresel Moderasyon Takımı sohbetin ve forumun düzeninden sorumludurlar, ve topluluk içerisindeki etkileşimleri gözetirler. Oyunun moderasyon kısmıyla ilgili konularda onlara danışılmalıdır. Bu konular, aşağıdakilerle sınırlı olmaksızın, şunları içerir:
 
@@ -35,7 +35,7 @@ Küresel Moderasyon Takımı üyesi olmak dikkate değer bir miktar katkıda bul
 Tavır ve davranışlar, aktiflik durumu, [kurallara](/wiki/Rules) uyum, ve sabırlı olmak adaylık için en önemli faktörlerdendir:
 
 1. Diğer kullanıcılara karşı kibar ve saygılı davranarak olumlu tutumunuzu gösterebilirsiniz. Hesabınızı ciddi susturulma cezalarından veya problemlerden uzak tutmak çok önemlidir. 
-2. Oyun içerisindeki aktifliğinizi sohbet veya forum içerisindeki tartışmalara, muhabbetlere katılarak gösterin. Uygunsuz davranışları ve sorunları [rapor sistemiyle rapor edin](/wiki/Reporting_Bad_Behaviour). Soruları cevaplayın, diğerlerinin sorunlarında onlara yardımcı olun. 
+2. Oyun içerisindeki aktifliğinizi sohbet veya forum içerisindeki tartışmalara, muhabbetlere katılarak gösterin. Uygunsuz davranışları ve sorunları [rapor sistemiyle rapor edin](/wiki/Reporting_bad_behaviour). Soruları cevaplayın, diğerlerinin sorunlarında onlara yardımcı olun. 
 3. [Kurallar](/wiki/Rules) ve nasıl uygulandığı hakkında doğru bir anlayışınız olsun. osu! içerisinde neyin kabul edilebilir neyin edilemez konusunda bilginizin olması önemlidir.
 4. Sabırlı olun. GMT sadece birkaç gün boyunca yardım eden kullanıcıları rastgele takıma almaz. GMT’nin kullanıcıları değerlendirmesi – onların kişiliği, hangi konuda yardımcı olabilirler, ne kadar aktifler vs. - biraz zaman alan bir süreçtir. 
 

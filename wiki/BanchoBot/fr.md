@@ -15,13 +15,13 @@ tags:
 
 ![La carte d'utilisateur de BanchoBot](img/BanchoBot.jpg "La carte d'utilisateur de BanchoBot")
 
-**BanchoBot** (parfois appelé *Bancho*) est un robot de chat en ligne créé pour osu! qui aide les gens dans le chat du jeu en annonçant des messages relatifs au jeu (par exemple le nombre total de parties jouées, de tentatives, etc.) et en répondant à certaines commandes. Il a été programmé par [Echo](https://osu.ppy.sh/users/431) et est le fournisseur de [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat).
+**BanchoBot** (parfois appelé *Bancho*) est un robot de chat en ligne créé pour osu! qui aide les gens dans le chat du jeu en annonçant des messages relatifs au jeu (par exemple le nombre total de parties jouées, de tentatives, etc.) et en répondant à certaines commandes. Il a été programmé par [Echo](https://osu.ppy.sh/users/431) et est le fournisseur de [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
 
 BanchoBot a aussi son propre [profil osu!](https://osu.ppy.sh/users/3) et son [compte Twitter](https://twitter.com/banchoboat).
 
 ## Commandes
 
-*Pour une liste des commandes du client en jeu, voir : [Console de chat](/wiki/Chat_Console#la-liste-des-commandes)*
+*Pour une liste des commandes du client en jeu, voir : [Console de chat](/wiki/Client/Interface/Chat_console#la-liste-des-commandes)*
 
 BanchoBot peut répondre aux commandes des joueurs par des messages spécifiques tapés dans le chat. Toutes les commandes de BanchoBot commencent par un point d'exclamation (`!`) suivi du nom de la commande, qui n'est pas sensible à la casse (sans espace entre les deux). Ces commandes peuvent être utilisées dans les canaux de discussion et dans les messages privés avec BanchoBot.
 
@@ -140,7 +140,7 @@ Il y a un total de 7 statuts qui peuvent être affichés par la commande `!stats
 
 ### Report
 
-*Pour des informations sur ce qui mérite d'être signalé, voir [Signaler un mauvais comportement](/wiki/Reporting_Bad_Behaviour).*
+*Pour des informations sur ce qui mérite d'être signalé, voir [Signaler un mauvais comportement](/wiki/Reporting_bad_behaviour).*
 
 ```
 !report <utilisateur> <raison>

@@ -6,7 +6,7 @@ outdated: true
 
 ![BanchoBot's player card](img/BanchoBot.jpg "BanchoBot's player card")
 
-L'host del [server della chat di osu!](/wiki/Internet_Relay_Chat).
+L'host del [server della chat di osu!](/wiki/Community/Internet_Relay_Chat).
 
 ha un profilo!
 

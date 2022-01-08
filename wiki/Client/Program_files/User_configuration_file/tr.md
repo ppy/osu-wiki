@@ -1,6 +1,6 @@
 # Kullanıcı yapılandırma dosyası
 
-Bu, `osu!.<PC hesap isminiz>.cfg` dosyasındaki seçeneklerin bir listesidir. Bu seçeneklerin bir çoğu oyun içerisindeki [seçenekler menüsünde](/wiki/Options) mevcuttur, ve bunları oradan değiştirmeniz önerilir. Yalnızca gerçekten zorunda kaldığınızda bu değerleri manuel olarak düzenleyin.
+Bu, `osu!.<PC hesap isminiz>.cfg` dosyasındaki seçeneklerin bir listesidir. Bu seçeneklerin bir çoğu oyun içerisindeki [seçenekler menüsünde](/wiki/Client/Options) mevcuttur, ve bunları oradan değiştirmeniz önerilir. Yalnızca gerçekten zorunda kaldığınızda bu değerleri manuel olarak düzenleyin.
 
 ## Seçenekler menüsünden değiştirilebilenler
 

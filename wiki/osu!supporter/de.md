@@ -16,12 +16,12 @@ Kurz gefasst: Die Unterstützungen tragen dazu bei, dass osu! am Laufen ist, ohn
 
 - osu!direct (Direkter Download von Beatmaps im Spielclient)
 - osu!test (Testclient für osu!, um neue Updates und Features vor Veröffentlichung auszuprobieren)
-- [Chat Console](/wiki/Chat_Console): Hellgelber Name im Chat (die anderen sehen dich in dieser Farbe, du siehst dich nach wie vor in weiß).
+- [Chat Console](/wiki/Client/Interface/Chat_console): Hellgelber Name im Chat (die anderen sehen dich in dieser Farbe, du siehst dich nach wie vor in weiß).
 - [Beatmap listing](https://osu.ppy.sh/beatmapsets) (?): Unterscheidet Beatmap Suchergebnisse zwischen "Gespielt" und "Ungespielt".
 - [Skinning](/wiki/Skinning): Zusätzliche Skin-Elemente können verwendet und editiert werden.
   - Genauer gesagt, `menu-background.jpg` (Hauptmenü); `matchsetup-background.png` (Multiplayer); `search-background.png` (osu!direct)
 - [Feature Requests](https://osu.ppy.sh/community/forums/4): Zusätzliche Votes für das Feature Requests Forum (Zwei Stück pro Monat).
-- [Songauswahl](/wiki/Interface): Die Möglichkeit, bei Beatmap Rankings nach Land, Freunden und mod-spezifischen Scores zu filtern.
+- [Songauswahl](/wiki/Client/Interface): Die Möglichkeit, bei Beatmap Rankings nach Land, Freunden und mod-spezifischen Scores zu filtern.
 - Dein Profil: `https://osu.ppy.sh/users/`
   - Du kannst deine eigene individuelle Userpage aktivieren.
     - Dieser wird nie deaktiviert, selbst wenn du kein osu!supporter mehr bist.

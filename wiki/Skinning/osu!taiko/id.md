@@ -1,6 +1,6 @@
 # Elemen-elemen skinning osu!taiko
 
-Kamu dapat mengganti elemen-elemen permainan osu!taiko dengan menambahkan folder yang bernama `taiko` di dalam folder skin yang digunakan atau dengan mengaktifkan opsi `Gunakan skin Taiko untuk mode Taiko` yang ada pada menu [Options](/wiki/Options). Apabila tidak, osu! akan secara otomatis memasang skin osu!taiko *default* setiap kali kamu bermain osu!taiko.
+Kamu dapat mengganti elemen-elemen permainan osu!taiko dengan menambahkan folder yang bernama `taiko` di dalam folder skin yang digunakan atau dengan mengaktifkan opsi `Gunakan skin Taiko untuk mode Taiko` yang ada pada menu [Options](/wiki/Client/Options). Apabila tidak, osu! akan secara otomatis memasang skin osu!taiko *default* setiap kali kamu bermain osu!taiko.
 
 ## Pippidon
 

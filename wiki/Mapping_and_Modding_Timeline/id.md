@@ -52,7 +52,7 @@ Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2008.
 ### Maret
 
 - **2009-03-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) meluncurkan [Delegation of the Beatmap Approval Deciding Authorities; Submission Squad](/wiki/Modding/Delegation_of_the_Beatmap_Approval_Deciding_Authorities_Submission_Squad) (*BADASS*). <!-- https://osu.ppy.sh/community/forums/topics/10638 -->
-  - Grup ini dibentuk sebagai suatu upaya untuk membuat proses pelantikan BAT (yang sebelumnya terbatas hanya pada pengguna-pengguna tertentu yang memiliki akses ke kanal [IRC](/wiki/Internet_Relay_Chat) `#bat`) menjadi lebih transparan dan terbuka bagi khalayak umum.
+  - Grup ini dibentuk sebagai suatu upaya untuk membuat proses pelantikan BAT (yang sebelumnya terbatas hanya pada pengguna-pengguna tertentu yang memiliki akses ke kanal [IRC](/wiki/Community/Internet_Relay_Chat) `#bat`) menjadi lebih transparan dan terbuka bagi khalayak umum.
 
 ### November
 
@@ -74,7 +74,7 @@ Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 
 ### Juli
 
-- **2010-07-24:** Siklus pertama [Community Mentorship Program](/wiki/Community_Mentorship_Program#program-pendampingan-terdahulu) diluncurkan.
+- **2010-07-24:** Siklus pertama [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program#program-pendampingan-terdahulu) diluncurkan.
   - Para pengguna yang tertarik untuk memperdalam ilmu lebih jauh seputar mapping dan modding dapat mendaftarkan diri mereka masing-masing untuk mengikuti sesi bimbingan dari anggota-anggota MAT dan BAT yang berpartisipasi.
   - Program ini diberhentikan pada tahun 2013. <!-- https://osu.ppy.sh/community/forums/topics/34111 + https://osu.ppy.sh/community/forums/topics/34194 -->
 
@@ -183,7 +183,7 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
   - Anggota-anggota BAT (yang di kala itu disebut juga dengan newBAT) bertugas untuk menominasikan beatmap.
   - Anggota-anggota QAT bertugas untuk mengecek beatmap-beatmap yang dinominasikan oleh anggota-anggota BAT. Apabila QAT menemui suatu beatmap yang dinilai tidak memenuhi standar jaminan mutu, QAT memiliki kuasa untuk mendiskualifikasi beatmap yang bersangkutan dari kategori Qualified.
   - Pemecahan peran ini menandakan untuk pertama kalinya osu! memiliki dua badan moderasi beatmap yang terpisah sejak penggabungan BAT dan MAT di tahun sebelumnya.
-  - Pemecahan peran ini utamanya ditujukan untuk menguji sistem [modding v2](/wiki/Beatmap_Discussion) yang di kala itu diklaim dapat melantik dan memberhentikan anggota-anggota BAT secara otomatis berdasarkan parameter-parameter tertentu. <!-- https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat -->
+  - Pemecahan peran ini utamanya ditujukan untuk menguji sistem [modding v2](/wiki/Beatmap_discussion) yang di kala itu diklaim dapat melantik dan memberhentikan anggota-anggota BAT secara otomatis berdasarkan parameter-parameter tertentu. <!-- https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat -->
   - Walaupun perubahan-perubahan ini diberlakukan dengan tujuan dan itikad yang baik, dalam kenyataannya publik tidak menyambut kehadiran QAT dengan hangat. Hal ini tercermin pada reaksi anggota-anggota komunitas yang sangat kecewa terhadap sikap QAT yang dinilai semena-mena dalam menangani kontroversi yang terjadi pada beatmap-beatmap seperti [*Halozy - Genryuu Kaiko*](https://osu.ppy.sh/community/forums/posts/3591479).
 
 ### Oktober
@@ -274,7 +274,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 
 ### September
 
-- **2016-09-30:** Program [Community Mentorship](/wiki/Community_Mentorship_Program) diluncurkan ulang.
+- **2016-09-30:** Program [Community Mentorship](/wiki/Community/Community_Mentorship_Program) diluncurkan ulang.
   - Tidak seperti program Community Mentorship terdahulu, program Community Mentorship kali ini menggunakan [Discord](https://discord.com) sebagai sarana komunikasi utama antar para mentor dan *mentee*-nya masing-masing.
   - Program ini diketuai oleh ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) dan ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923). <!-- https://osu.ppy.sh/community/forums/topics/506906 -->
 
@@ -315,7 +315,7 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
 - **2017-05-22:** Server Discord khusus Beatmap Nominator resmi dibuka.
   - Pada server tersebut, anggota-anggota BN yang ada terbagi secara acak ke dalam berbagai sub-divisi. Setiap sub-divisi dipimpin oleh satu orang perwakilan dari QAT dan dibebaskan untuk menentukan arah geraknya masing-masing.
   - Hal-hal yang berkaitan dengan organisasi internal QAT turut berpindah dari forum osu! ke server ini.
-- **2017-05-23:** ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) meluncurkan bot Discord [Aiess](/wiki/Projects#miscellaneous).
+- **2017-05-23:** ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) meluncurkan bot Discord [Aiess](/wiki/Community/Projects#miscellaneous).
   - Bot ini berfungsi untuk menampilkan pesan (*feed*) secara *real-time* setiap terdapat nominasi dan diskualifikasi baru pada server-server Discord.
 
 ### Juni
@@ -348,14 +348,14 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### Februari
 
-- **2018-02-08:** [Mappers' Guild](/wiki/Mappers_Guild) didirikan untuk menaungi para mapper yang ingin membuat beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists). <!-- https://osu.ppy.sh/community/forums/topics/700654 -->
+- **2018-02-08:** [Mappers' Guild](/wiki/Community/Mappers_Guild) didirikan untuk menaungi para mapper yang ingin membuat beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists). <!-- https://osu.ppy.sh/community/forums/topics/700654 -->
 
 ### Maret
 
 - **2018-03-01:** QAT memperkenalkan sistem divisi tugas bagi anggota-anggotanya: evaluasi BN, diskualifikasi, metadata, spotlights, blog, Ranking Criteria, dan kepemimpinan umum.
   - Anggota-anggota QAT dapat berada pada beberapa divisi tugas yang berbeda.
   - Perubahan ini diberlakukan agar anggota-anggota QAT lebih memiliki tujuan dan alur kerja yang nyata. Sebelumnya, banyak anggota QAT yang mengeluhkan kurang jelasnya arahan yang mereka terima. <!-- source is discord logs -->
-- **2018-03-03:** Kanal `#modding` pada [server Discord osu!dev](/wiki/osu!dev_Discord_server) mulai dibuka.
+- **2018-03-03:** Kanal `#modding` pada [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server) mulai dibuka.
   - Kanal ini dibentuk sebagai suatu ruang diskusi yang terbuka bagi seluruh kalangan untuk membahas berbagai hal yang berkaitan dengan mapping dan modding serta sebagai tempat untuk menggelar rapat publik QAT. <!-- source is discord logs -->
 - **2018-03-24:** Sub-forum Ranking Criteria kembali dibuka untuk umum setelah UBKRC dibubarkan.
   - Pembubaran UBKRC berkaitan dengan telah disahkannya Ranking Criteria versi baru yang diusung oleh UBKRC. <!-- https://osu.ppy.sh/community/forums/topics/720532 -->
@@ -410,9 +410,9 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
 
 ### Maret
 
-- **2019-03-01:** [Mappers' Guild](/wiki/Mappers_Guild) mulai menerima siapapun yang memiliki setidaknya 3 beatmap Ranked untuk dapat menjadi anggota tanpa terkecuali.
+- **2019-03-01:** [Mappers' Guild](/wiki/Community/Mappers_Guild) mulai menerima siapapun yang memiliki setidaknya 3 beatmap Ranked untuk dapat menjadi anggota tanpa terkecuali.
   - Sistem penerimaan anggota Mappers' Guild yang lebih terbuka ini mengakibatkan jumlah beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists) yang ada meningkat tajam.
-  - Kanal `#mappers-guild` dibuat secara khusus pada [server Discord osu!dev](/wiki/osu!dev_Discord_server) untuk mendukung perubahan ini.
+  - Kanal `#mappers-guild` dibuat secara khusus pada [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server) untuk mendukung perubahan ini.
 - **2019-03-13:** Peraturan yang mempersyaratkan selang waktu antar nominasi pertama dan nominasi kedua pada suatu beatmap harus lebih dari 24 jam dihapus.
   - Peraturan tersebut dihapus karena para mapper merasa bahwa dalam praktiknya peraturan ini tidak efektif dan hanya membuang-buang waktu.
   - Anggota-anggota Beatmap Nominator diberikan kuasa untuk menempatkan veto pada beatmap yang berstatus Qualified. Sebelumnya, veto hanya bisa ditempatkan pada beatmap yang telah dinominasikan namun belum mencapai status Qualified.<!-- https://osu.ppy.sh/community/forums/posts/6885033 -->
@@ -429,7 +429,7 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
 
 ### Agustus
 
-- **2019-08-05:** ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) merilis program [Mapset Verifier](/wiki/Projects#modding) yang ditujukan untuk membantu anggota-anggota Beatmap Nominator dalam menangani berbagai isu yang terdapat pada suatu beatmap.
+- **2019-08-05:** ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) merilis program [Mapset Verifier](/wiki/Community/Projects#modding) yang ditujukan untuk membantu anggota-anggota Beatmap Nominator dalam menangani berbagai isu yang terdapat pada suatu beatmap.
 - **2019-08-06:** Anggota-anggota Beatmap Nominator mulai diperlibatkan dalam proses penerimaan anggota BN baru.
   - Anggota-anggota BN dapat memberikan masukan seputar kandidat-kandidat BN yang ada.
   - Walaupun anggota-anggota BN tidak memilki hak suara, masukan-masukan yang diterima akan dijadikan bahan pertimbangan oleh NAT. <!-- https://github.com/pishifat/qat/commit/a8245a4c6fefcfe9368ffc1eee7e13ad6f8bb6af -->

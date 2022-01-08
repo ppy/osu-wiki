@@ -5,9 +5,9 @@ outdated_since: 2d446e0407bca810b5c85a8271c4d88f15eecbd5
 
 # 注目アーティストのショーケースビートマップ
 
-[Mappers' Guild](/wiki/Mappers_Guild)のメンバーは、osu!で未発表の注目アーティストの楽曲を使って、限定の「ショーケースビートマップ」を作成することがあります。注目アーティストが発表されると、このビートマップは対応する[ニュース記事](https://osu.ppy.sh/home/news)で取り上げられ、[@osugameのTwitter](https://twitter.com/osugame)でもしばしば宣伝されます。
+[Mappers' Guild](/wiki/Community/Mappers_Guild)のメンバーは、osu!で未発表の注目アーティストの楽曲を使って、限定の「ショーケースビートマップ」を作成することがあります。注目アーティストが発表されると、このビートマップは対応する[ニュース記事](https://osu.ppy.sh/home/news)で取り上げられ、[@osugameのTwitter](https://twitter.com/osugame)でもしばしば宣伝されます。
 
-注目アーティストのショーケースビートマップに参加するには、Mappers' Guildのメンバーが[期間限定のミステリー・クエスト](/wiki/Mappers_Guild#quests)を受けるか、[Guild rank](/wiki/Mappers_Guild#rewards)がTier1(またはそれ以上)に達した後、ビートマップ作成のために直接招待される必要があります。
+注目アーティストのショーケースビートマップに参加するには、Mappers' Guildのメンバーが[期間限定のミステリー・クエスト](/wiki/Community/Mappers_Guild#quests)を受けるか、[Guild rank](/wiki/Community/Mappers_Guild#rewards)がTier1(またはそれ以上)に達した後、ビートマップ作成のために直接招待される必要があります。
 
 この記事では、Mappers' Guildのメンバーがこれまでに作成した全てのショーケースビートマップをリストアップしています。
 

@@ -27,7 +27,7 @@ tags:
 
 ## Description
 
-The **Hard Rock** mod is a [game modifier](/wiki/Game_modifier) that aims to increase the difficulty over most (if not all) aspects of a [beatmap](/wiki/Beatmap). It achieves this goal by raising the [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) by 30%, and all other difficulty settings by 40%.
+The **Hard Rock** mod is a [game modifier](/wiki/Game_modifier) that aims to increase the difficulty over most (if not all) aspects of a [beatmap](/wiki/Beatmap). It achieves this goal by raising the [circle size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size) by 30%, and all other difficulty settings by 40%.
 
 ### osu!
 

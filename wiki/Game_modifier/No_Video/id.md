@@ -28,7 +28,7 @@ tags:
 
 Mod **No Video** dahulunya adalah sebuah [game modifier](/wiki/Game_modifier) yang mengizinkan pemain untuk mematikan latar belakang video pada [beatmap](/wiki/Beatmap). Mod ini digunakan untuk meningkatkan framerate dan performa permainan.
 
-Fungsi mod ini telah digantikan dengan sebuah pengaturan pada bagian [Visual Settings](/wiki/Visual_Settings). Oleh sebab itu, ikon dan mod ini tidak digunakan lagi.
+Fungsi mod ini telah digantikan dengan sebuah pengaturan pada bagian [Visual Settings](/wiki/Client/Interface/Visual_settings). Oleh sebab itu, ikon dan mod ini tidak digunakan lagi.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

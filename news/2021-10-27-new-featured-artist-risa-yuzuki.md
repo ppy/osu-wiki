@@ -12,7 +12,7 @@ Multi-talented **Risa Yuzuki** (nicknamed *Yuzurisa*) is coveted throughout the 
 
 We've picked up **17** tracks from her discography stretching back to 2014, all prepped for mapping from [**Risa Yuzuki**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/211)! These songs all include instrumental production from familiar artists like *xi*, *EmoCosine*, [*Street*](https://osu.ppy.sh/beatmaps/artists/89), [*Cranky*](https://osu.ppy.sh/beatmaps/artists/23), and [*BlackY*](https://osu.ppy.sh/beatmaps/artists/150) (plus a LOT more), so we're willing to bet there's at least a few tracks you'll love.
 
-If you need some convincing, a few members of the Mappers' Guild have been working behind-the-scenes to create some [showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps) specifically for this announcement!
+If you need some convincing, a few members of the Mappers' Guild have been working behind-the-scenes to create some [showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) specifically for this announcement!
 
 Check it out for yourself:
 

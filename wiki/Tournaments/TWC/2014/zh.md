@@ -56,7 +56,7 @@ outdated: true
 3. 每回合比赛的时间编排都会由主办方决定。
 4. 若没有裁判或主办人员在场，比赛会被延期。
 5. 任何不及格的玩家的得分都不会计算到所属队伍的总分。
-6. 玩家可以自由调整 [Visual Settings](/wiki/Visual_Settings) 里的选项。
+6. 玩家可以自由调整 [Visual Settings](/wiki/Client/Interface/Visual_settings) 里的选项。
 7. 若比赛出现和局，该局会被作废。
 8. 若有玩家断线，他们会被视为不及格。
 9. 除非比赛结果被作废，每张比赛地图皆不可被重复选择。
