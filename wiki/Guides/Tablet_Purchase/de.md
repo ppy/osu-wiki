@@ -32,17 +32,17 @@ Das HUION H430P (4096) ist vergleichbar mit dem osu!tablet (tatsächlich wird es
 
 ### Wacom
 
-Wacom ist der "Markenname" für Tablets. Tablets sind alles, was sie herstellen und sie sind weithin akzeptiert (von Künstlern) als eine Firma, die die beste Qualität sowie die zuverlässigsten Tablets bietet. Einige würden den Kauf bei Wacom empfehlen, da das Unternehmen als Marktführer beim Verkauf von Tablets gilt. Sie produzieren 3 Hauptlinien:
+Wacom ist der "Markenname" für Tablets. Tablets sind alles, was sie herstellen und sie sind weithin akzeptiert (von Künstlern) als eine Firma, die die beste Qualität sowie die zuverlässigsten Tablets bietet. Einige würden den Kauf bei Wacom empfehlen, da das Unternehmen als Marktführer beim Verkauf von Tablets gilt. Sie produzieren 3 Hauptreihen:
 
 - Cintiq - Tablets zum "direkt auf den Bildschirm malen". Sie werden in professionellen High-End-Anwendungen eingesetzt und kosten ein hübsches Sümmchen.
-- Intuos - Die professionelle Linie von Tablets. Diese haben Funktionen weit über die Bamboo-Linie hinaus, aber haben keinen Bildschirm.
-- Bamboo - Die generelle Linie von Tablets für Verbraucher. Diese sind günstig und haben alle Funktionen, die du brauchst, um als Hobbyist zu starten.
+- Intuos - Die professionelle Reihe von Tablets. Diese haben Funktionen weit über die Bamboo-Reihe hinaus, aber haben keinen Bildschirm.
+- Bamboo - Die generelle Reihe von Tablets für allgemeine Verbraucher. Diese sind günstig und haben alle Funktionen, die du brauchst, um als Hobbyist zu starten.
 
-Es gibt andere Linien von Wacom, wie z. B. die Tablets Graphire oder Volito, aber diese werden nicht weitergeführt und wurden von den oben genannten Linien ersetzt.
+Es gibt andere Reihen von Wacom, wie z. B. die Tablets Graphire oder Volito, aber diese werden nicht weitergeführt und wurden von den oben genannten Reihen ersetzt.
 
-Für osu! wirst du wahrscheinlich kein Cintiq oder Intuos benötigen, da diese beiden Linien für professionelle Arbeiten im Grafikdesign oder in der Illustration gedacht sind und vielmehr kosten als die Tablets in der Bamboo-Linie. Sie haben eine höhere Drucksensivität, mehr gebündelte Grafiksoftware und fortgeschrittene Funktionen, wie Drehung- oder Neigungssensivität. Diese kommen in osu! nicht zur Geltung, also kaufe dir diese nur, wenn du dein Tablet neben osu! auch für seriöses Grafikdesign verwenden möchtest.
+Für osu! wirst du wahrscheinlich kein Cintiq oder Intuos benötigen, da diese beiden Reihen für professionelle Arbeiten im Grafikdesign oder in der Illustration gedacht sind und vielmehr kosten als die Tablets in der Bamboo-Reihe. Sie haben eine höhere Drucksensivität, mehr gebündelte Grafiksoftware und fortgeschrittene Funktionen, wie Drehung- oder Neigungssensivität. Diese kommen in osu! nicht zur Geltung, also kaufe dir diese nur, wenn du dein Tablet neben osu! auch für seriöses Grafikdesign verwenden möchtest.
 
-Zum Zeitpunkt der Erstellung dieses Artikels gibt es 3 Versionen von Bamboo, wobei alle verwirrenderweise unter dem Spitznamen "Bamboo" aufgelistet werden (Die Intuos-Linien werden durch Zahlen unterschieden, Intuos5 ist aktuell die neueste). Einige würden empfehlen, entweder die zweite oder dritte Generation von Bamboo zu kaufen. Die erste hatte die zusätzlichen Buttons am oberen Rand des Tablets anstatt an der Seite, was die Benutzung in osu! erschwert.
+Zum Zeitpunkt der Erstellung dieses Artikels gibt es 3 Versionen von Bamboo, wobei alle verwirrenderweise unter dem Spitznamen "Bamboo" aufgelistet werden (Die Intuos-Reihen werden durch Zahlen unterschieden, Intuos5 ist aktuell die neueste). Einige würden empfehlen, entweder die zweite oder dritte Generation von Bamboo zu kaufen. Die erste hatte die zusätzlichen Buttons am oberen Rand des Tablets anstatt an der Seite, was die Benutzung in osu! erschwert.
 
 ![](img/gen1.jpg "Erste Generation Bamboo (Pen und Touch, Touch und Fun - Bamboo Fun gezeigt)")
 
@@ -50,7 +50,7 @@ Zum Zeitpunkt der Erstellung dieses Artikels gibt es 3 Versionen von Bamboo, wob
 
 ![](img/gen3.jpg "Dritte Generation Bamboo (Connect, Capture, Create - Connect gezeigt)")
 
-Du solltest dich von den Banboo Touch Tablets fernhalten, da diese keine Stifteingabe unterstützen. Sie sind einfach Multitouch-Trackpads für deinen Computer. Offen gesagt [hat Apple es besser gemacht](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad).
+Du solltest dich von den Bamboo Touch Tablets fernhalten, da diese keine Stifteingabe unterstützen. Sie sind einfach Multitouch-Trackpads für deinen Computer. Offen gesagt [hat Apple es besser gemacht](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad).
 
 Die anderen Modelle von Bamboo gibt es in zwei Größen, klein und groß. In der zweiten Generation waren Bamboo Touch, Pen sowie Pen und Touch die "kleinen", wohingegen Fun und Craft die "großen" waren. In der dritten Generation sind Connect und Capture die "kleinen", Create ist "groß".
 
