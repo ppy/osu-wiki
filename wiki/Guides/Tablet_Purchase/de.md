@@ -1,6 +1,6 @@
 # Ratgeber für den Kauf von Tablets
 
-Wenn du osu! gespielt und mit anderen Spielern gechattet hast, dann hast du bestimmt schon etwas von den sogenannten "Tablets" sowie ihre Effekte auf den Spielverlauf in osu! gehört. Tablets sind Unterlagen, die an deinen Computer angeschlossen und über einen Stift gesteuert werden. Während du den Stift über die Unterlage ziehst, bewegt sich der Mauszeiger mit dem Stift und beim Antippen wird die Maus geklickt. Du kannst dir Tablets für osu! wie einen Arcade-Stick für Kampfspiele vorstellen. Keine Voraussetzung, aber manche Spieler bevorzugen es.
+Wenn du osu! gespielt und mit anderen Spielern gechattet hast, dann hast du bestimmt schon etwas von den sogenannten "Tablets" sowie ihren Effekten auf den Spielverlauf in osu! gehört. Tablets sind Unterlagen, die an deinen Computer angeschlossen und über einen Stift gesteuert werden. Während du den Stift über die Unterlage ziehst, bewegt sich der Mauszeiger mit dem Stift und beim Antippen wird die Maus geklickt. Du kannst dir Tablets für osu! wie einen Arcade-Stick für Kampfspiele vorstellen. Keine Voraussetzung, aber manche Spieler bevorzugen es.
 
 ## Warum Tablets?
 
@@ -40,9 +40,9 @@ Wacom ist der "Markenname" für Tablets. Tablets sind alles, was sie herstellen 
 
 Es gibt andere Linien von Wacom, wie z. B. die Tablets Graphire oder Volito, aber diese werden nicht weitergeführt und wurden von den oben genannten Linien ersetzt.
 
-Für osu! wirst du wahrscheinlich kein Cintiq oder Intuos benötigen, da diese beiden Linien für professionelle Arbeiten im Grafikdesign oder in der Illustration gedacht sind und vielmehr kosten als die Tablets in der Bamboo-Linie. Sie haben eine höhere Drucksensivität, mehr gebündelte Grafiksoftware und fortgeschrittene Funktionen, wie Drehung- oder Neigungssensivität. Diese kommen in osu! nicht zur Bedeutung, also kaufe dir diese nur, wenn du dein Tablet neben osu! auch für seriöses Grafikdesign verwenden möchtest.
+Für osu! wirst du wahrscheinlich kein Cintiq oder Intuos benötigen, da diese beiden Linien für professionelle Arbeiten im Grafikdesign oder in der Illustration gedacht sind und vielmehr kosten als die Tablets in der Bamboo-Linie. Sie haben eine höhere Drucksensivität, mehr gebündelte Grafiksoftware und fortgeschrittene Funktionen, wie Drehung- oder Neigungssensivität. Diese kommen in osu! nicht zur Geltung, also kaufe dir diese nur, wenn du dein Tablet neben osu! auch für seriöses Grafikdesign verwenden möchtest.
 
-Zum Zeitpunkt der Erstellung dieses Artikels gibt es 3 Versionen von Bamboo, wobei alle verwirrend unter dem Spitznamen "Bamboo" aufgelistet werden (Die Intuos-Linien werden durch Zahlen unterschieden, Intuos5 ist der neueste aktuell). Einige würden empfehlen, entweder die zweite oder dritte Generation von Bamboo zu kaufen. Die erste hatte die zusätzlichen Buttons am oberen Rand des Tablets anstatt an der Seite, was die Benutzung in osu! erschwert.
+Zum Zeitpunkt der Erstellung dieses Artikels gibt es 3 Versionen von Bamboo, wobei alle verwirrenderweise unter dem Spitznamen "Bamboo" aufgelistet werden (Die Intuos-Linien werden durch Zahlen unterschieden, Intuos5 ist aktuell die neueste). Einige würden empfehlen, entweder die zweite oder dritte Generation von Bamboo zu kaufen. Die erste hatte die zusätzlichen Buttons am oberen Rand des Tablets anstatt an der Seite, was die Benutzung in osu! erschwert.
 
 ![](img/gen1.jpg "Erste Generation Bamboo (Pen und Touch, Touch und Fun - Bamboo Fun gezeigt)")
 
@@ -54,11 +54,11 @@ Du solltest dich von den Banboo Touch Tablets fernhalten, da diese keine Stiftei
 
 Die anderen Modelle von Bamboo gibt es in zwei Größen, klein und groß. In der zweiten Generation waren Bamboo Touch, Pen sowie Pen und Touch die "kleinen", wohingegen Fun und Craft die "großen" waren. In der dritten Generation sind Connect und Capture die "kleinen", Create ist "groß".
 
-Für osu! wirst du wahrscheinlich die "kleinen" Tablets benötigen, da es eine häufige Strategie ist, den Bereich zum Spielen zu reduzieren. Dadurch musst du deinen Arm während dem Spielen weniger bewegen. Jedoch ist das eine personelle Präferenz, ob du ein größeres Tablet möchtest oder nicht. Es lohnt sich allerdings, wenn du dich mit digitalem Zeichnen beschäftigst. Zeichnen ist viel angenehmer auf einem größeren Tablet.
+Für osu! wirst du wahrscheinlich die "kleinen" Tablets benötigen, da es eine häufige Strategie ist, den Bereich zum Spielen zu reduzieren. Dadurch musst du deinen Arm während dem Spielen weniger bewegen. Jedoch ist das eine persönliche Präferenz, ob du ein größeres Tablet möchtest oder nicht. Es lohnt sich allerdings, wenn du dich mit digitalem Zeichnen beschäftigst. Zeichnen ist viel angenehmer auf einem größeren Tablet.
 
-Und zuletzt werden CTL-480 Tablets günstig auf Second-Hand-Seiten wie eBay oder Amazon angeboten, auch wenn sie oft schwer zu finden sind, da die Produktion eingestellt wurde. Sie sind definitive eine Überlegung wert, wenn du eins für einen gerechtfertigten Preis gefunden hast, insbesondere, wenn du ein digitaler Künstler bist. Neben Wacom CTL-480, welches von den Spielern häufig genutzt und viel gelobt wird, gibt es auch die CTL-470 Aufstellung (wie die Modelle 470, 471 und 472) und die neueste CTL-4100 Serie, die die gleiche Qualität hat, wenn nicht sogar besser als die von CTL-480.
+Und zuletzt werden CTL-480 Tablets günstig auf Second-Hand-Seiten wie eBay oder Amazon angeboten, auch wenn sie oft schwer zu finden sind, da die Produktion eingestellt wurde. Sie sind definitiv eine Überlegung wert, wenn du eins für einen gerechtfertigten Preis gefunden hast, insbesondere, wenn du ein digitaler Künstler bist. Neben Wacom CTL-480, welches von den Spielern häufig genutzt und viel gelobt wird, gibt es auch die CTL-470 Aufstellung (wie die Modelle 470, 471 und 472) und die neueste CTL-4100 Serie, die die gleiche Qualität hat, wenn nicht sogar besser als die von CTL-480.
 
-Für osu! sind die Unterschiede zwischen den Intuos- und Bamboo-Linien vernachlässigbar. Der einzige wirkliche Unterschied ist, dass die Intuos-Linien eine größere Auswahl an Tabletgrößen haben als Bamboo.
+Für osu! sind die Unterschiede zwischen den Intuos- und Bamboo-Reihen vernachlässigbar. Der einzige wirkliche Unterschied ist, dass die Intuos-Reihen eine größere Auswahl an Tabletgrößen haben als Bamboo.
 
 ### Andere Tablet-Marken
 
