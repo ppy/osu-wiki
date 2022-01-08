@@ -6,7 +6,7 @@ outdated: true
 
 音符时值是用来限制物件摆放的位置使得它们能准确地落在节拍上，减小音符时值可以在一个全音符内放置更多的物件
 
-不同的音符时值会在[时间轴上以不同颜色的线条来表现](/wiki/Beatmap_Editor/Timelines)，具体如下：
+不同的音符时值会在[时间轴上以不同颜色的线条来表现](/wiki/Client/Beatmap_editor/Timelines)，具体如下：
 
 ## osu!，osu!taiko，osu!catch
 
@@ -58,7 +58,7 @@ outdated: true
 
 1/3 和 1/6 时值比较特殊，因为这意味着你的 BPM 可以被3整除，但这是比较“少见”的
 
-在滑条上按下 `Alt` 按钮可以将它转换成[固定间距的滑条](/wiki/Beatmap_Editor/Distance_Snap)
+在滑条上按下 `Alt` 按钮可以将它转换成[固定间距的滑条](/wiki/Client/Beatmap_editor/Distance_snap)
 
 ## osu!mania
 

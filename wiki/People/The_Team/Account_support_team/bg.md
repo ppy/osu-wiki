@@ -29,14 +29,14 @@ no_native_review: true
   - премахнато съдържание от профил;
   - изтрит бийтмап;
   - изтрит коментар или публикация от форум.
-- Случаи на лошо поведение за които [желаете да признаете](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?).
+- Случаи на лошо поведение за които [желаете да признаете](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?).
 - [Загубен достъп до имейла](/wiki/Help_Centre/Installation_and_registration#sign-in) свързан към osu! профил, или при откраднат профил.
 - [Правописни корекции и връщане](/wiki/Help_Centre/Account#name-changes) на променено потребителско име.
 - [Регистриране на бот профил](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*Бележка: За докладване на екстремни случаи с лошо поведение или сексуален тормоз от потребител, включително модератор, виж [докладване за нередност](/wiki/Reporting_Bad_Behaviour/Abuse).*
+*Бележка: За докладване на екстремни случаи с лошо поведение или сексуален тормоз от потребител, включително модератор, виж [докладване за нередност](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Притеснения относно лошо поведение на модератор.
 - Притеснения относно нарушаване на [Правила за поведение на сътрудници](/wiki/Contributor_Code_of_Conduct) от страна на модератор.

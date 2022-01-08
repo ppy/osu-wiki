@@ -18,7 +18,7 @@ Notes :
   - L'une des images du jeu apparaîtra lorsqu'une étape du combo sera atteinte.
 - Pour la v2.2-, ce sont les combobursts de osu! et osu!catch.
 - Pour la v2.3+, ce sont les combobursts d'osu!
-- Ceci peut être désactivé dans les [options](/wiki/Options).
+- Ceci peut être désactivé dans les [options](/wiki/Client/Options).
 - Elle doit être orientée vers la droite.
 
 ## Nombres par défaut
@@ -206,7 +206,7 @@ Notes :
 - La teinte dépend de la couleur de la combinaison du hit circle.
 - Cet élément se rétracte avec le temps.
   - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, cet élément ne sera pas utilisé.
-    - Pour afficher le premier hit circle avec le mod Hidden activé, le joueur devra l'activer dans les [options](/wiki/Options).
+    - Pour afficher le premier hit circle avec le mod Hidden activé, le joueur devra l'activer dans les [options](/wiki/Client/Options).
 - Cela devrait être un cercle.
 
 ---
@@ -261,7 +261,7 @@ Notes :
 
 Notes :
 
-- Cet élément n'est utilisé que dans l'[éditeur](/wiki/Beatmap_Editor).
+- Cet élément n'est utilisé que dans l'[éditeur](/wiki/Client/Beatmap_editor).
 - Cela devrait être un cercle.
 
 ---
@@ -292,7 +292,7 @@ Notes :
 
 Notes :
 
-- Ceci peut être désactivé dans les [options](/wiki/Options).
+- Ceci peut être désactivé dans les [options](/wiki/Client/Options).
 - La teinte dépend de la couleur de la combinaison du hit circle.
 - Utilisé pendant les kiai time :
   - Post-image colorée faisant partie de l'explosion d'un hitburst.

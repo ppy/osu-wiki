@@ -1,6 +1,6 @@
 # Fichiers de programmes d'osu!
 
-*Voir aussi : [Formats de fichiers](/wiki/osu!_File_Formats)*
+*Voir aussi : [Formats de fichiers](/wiki/Client/File_formats)*
 
 ![La structure des fichiers du dossier d'installation d'osu!, sous Windows et macOS](img/file_structure.jpg "La structure des fichiers du dossier d'installation d'osu!, sous Windows et macOS")
 
@@ -18,7 +18,7 @@ Par défaut, osu! est installé dans les emplacements suivants :
 
 ### Chat
 
-Le dossier Chat n'apparaît que si le joueur a activé l'option "Enregistrer automatiquement les messages privés" dans les Options, ou si le joueur exécute la commande "/savelog" dans la [console de tchat](/wiki/Chat_Console).
+Le dossier Chat n'apparaît que si le joueur a activé l'option "Enregistrer automatiquement les messages privés" dans les Options, ou si le joueur exécute la commande "/savelog" dans la [console de tchat](/wiki/Client/Interface/Chat_console).
 
 La structure du nom des fichiers est `{Tab_name}-{YYYYMMDD}-{HHMMSS}`, et peut être ouverte dans n'importe quel éditeur de texte. Un exemple est présenté ci-dessous :
 
@@ -30,7 +30,7 @@ Le dossier Downloads contient les beatmaps téléchargés par osu!direct (néces
 
 ### Exports
 
-Le dossier Exports apparaît si le joueur utilise l'option "Exporter en .osk" du [sélecteur de skin](/wiki/Options) ou l'option "Export un package..." de l'[éditeur](/wiki/Beatmap_Editor/Menu). Il contiendra les beatmaps et les skins que le joueur a exportés d'osu!.
+Le dossier Exports apparaît si le joueur utilise l'option "Exporter en .osk" du [sélecteur de skin](/wiki/Client/Options) ou l'option "Export un package..." de l'[éditeur](/wiki/Client/Beatmap_editor/Menu). Il contiendra les beatmaps et les skins que le joueur a exportés d'osu!.
 
 ### Localisation
 
@@ -97,7 +97,7 @@ Les fichiers de base de données sont des bases de données dont osu! a besoin p
 Les fichiers de configuration configurent les paramètres initiaux pour que osu! fonctionne. Les fichiers peuvent être ouverts avec un éditeur de texte.
 
 - `osu!.cfg` : Stocke les informations de sécurité concernant les fichiers de l'application osu! et la version actuelle. Il ne doit jamais être modifié manuellement.
-- `osu!.<operating system username>.cfg` : Stocke les données des [Options](/wiki/Options) et d'autres paramètres du jeu. Voir [Fichier de configuration de l'utilisateur](/wiki/osu!_Program_Files/User_Configuration_File).
+- `osu!.<operating system username>.cfg` : Stocke les données des [Options](/wiki/Client/Options) et d'autres paramètres du jeu. Voir [Fichier de configuration de l'utilisateur](/wiki/Client/Program_files/User_configuration_file).
 
 ### .exe (Application)
 

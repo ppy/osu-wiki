@@ -6,7 +6,7 @@
 
 *Yes, your thread's title will determine if other osu! users will "yay" or "nay" your beatmap project, even before they click on it!*
 
-`[Discography]` / `[Album]` / `[Collab]` should be added before the title. Chances are high that your project will be ignored or moved to the [Abandoned Wasteland](/wiki/Abandoned_wasteland) if the thread's title isn't descriptive enough.
+`[Discography]` / `[Album]` / `[Collab]` should be added before the title. Chances are high that your project will be ignored or moved to the [Abandoned Wasteland](/wiki/Community/Forum/Abandoned_Wasteland) if the thread's title isn't descriptive enough.
 
 Good examples:
 

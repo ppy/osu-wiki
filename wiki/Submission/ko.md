@@ -1,6 +1,6 @@
 # 비트맵 등록
 
-유저들은 [인게임 에디터](/wiki/Beatmap_Editor)를 통해 osu! 웹사이트에 [비트맵](/wiki/Beatmap)을 등록할 수 있습니다. 비트맵을 등록할 경우 다른 유저들로부터 주목을 받거나 [랭크](/wiki/Beatmap/Category#ranked) 또는 [러브드](/wiki/Beatmap/Category#loved) 카테고리에 진입할 수 있게 됩니다.
+유저들은 [인게임 에디터](/wiki/Client/Beatmap_editor)를 통해 osu! 웹사이트에 [비트맵](/wiki/Beatmap)을 등록할 수 있습니다. 비트맵을 등록할 경우 다른 유저들로부터 주목을 받거나 [랭크](/wiki/Beatmap/Category#ranked) 또는 [러브드](/wiki/Beatmap/Category#loved) 카테고리에 진입할 수 있게 됩니다.
 
 ![](img/bss_warning.png "비트맵 업로드 시스템 (Beatmap Submission System) 화면")
 

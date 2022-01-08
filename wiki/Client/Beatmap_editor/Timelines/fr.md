@@ -1,10 +1,10 @@
 # Timeline de l'éditeur de beatmap
 
-Dans l'[éditeur de beatmap](/wiki/Beatmap_Editor), il existe trois timelines différentes qu'un mappeur peut rencontrer. Cet article explique le fonctionnement de chacune d'entre elles.
+Dans l'[éditeur de beatmap](/wiki/Client/Beatmap_editor), il existe trois timelines différentes qu'un mappeur peut rencontrer. Cet article explique le fonctionnement de chacune d'entre elles.
 
 ## Raccourcis
 
-*Pour une liste de raccourcis clavier pour la timeline, voir : [Référence des raccourcis clavier](/wiki/Shortcut_key_reference)*
+*Pour une liste de raccourcis clavier pour la timeline, voir : [Référence des raccourcis clavier](/wiki/Client/Keyboard_shortcuts)*
 
 ## Lecteur de morceaux
 
@@ -23,8 +23,8 @@ La timeline elle-même utilise quelques coches qui ont diverses significations.
 | Blanc (long) | Horodatage actuel |
 | Jaune (tick long) | Point d'aperçu |
 | Jaune (tick haut) | Début du temps de drain |
-| Vert (tick haut) | Points hérités (Voir [Timing](/wiki/Beatmap_Editor/Timing)) |
-| Rouge (tick haut) | Points de timing (Voir [Timing](/wiki/Beatmap_Editor/Timing)) |
+| Vert (tick haut) | Points hérités (Voir [Timing](/wiki/Client/Beatmap_editor/Timing)) |
+| Rouge (tick haut) | Points de timing (Voir [Timing](/wiki/Client/Beatmap_editor/Timing)) |
 | Bleu (tick bas) | Signets |
 | Gris (en surbrillance) | Temps de pause |
 | Orange (en surbrillance) | Kiai time |
@@ -39,7 +39,7 @@ Il existe deux types différents de timeline des objets, selon le mode de jeu ut
 
 ![La timeline des objets dans les modes osu!, osu!taiko, et osu!catch](/wiki/shared/BE_NTL.jpg "Cela montre la timeline des objets par rapport au diviseur de mesures et à l'horodatage du beat snap.")
 
-En mode [compose](/wiki/Beatmap_Editor/Compose), cette timeline se trouve sous l'onglet `Compose` pour tous les modes de jeu, sauf pour [osu!mania](/wiki/Game_mode/osu!mania).
+En mode [compose](/wiki/Client/Beatmap_editor/Compose), cette timeline se trouve sous l'onglet `Compose` pour tous les modes de jeu, sauf pour [osu!mania](/wiki/Game_mode/osu!mania).
 
 | Nom | Description |
 | :-- | :-- |
@@ -75,7 +75,7 @@ Au centre se trouve le terrain de jeu proprement dit. Le terrain de jeu est comp
 
 ![Timeline du storyboard](/wiki/shared/SE_STM.jpg "Cela montre la timeline pour les transformations du sprite sélectionné.")
 
-La timeline [design](/wiki/Beatmap_Editor/Design) est située sous l'onglet `Design`.
+La timeline [design](/wiki/Client/Beatmap_editor/Design) est située sous l'onglet `Design`.
 
 ### Timeline
 
@@ -101,7 +101,7 @@ S'il y a une transformation, celle-ci est éclairée par sa couleur. De plus, el
 
 ![Timeline du Timing](img/TT-FR.png "Timeline du Timing")
 
-La timeline du [timing](/wiki/Beatmap_Editor/Timing) est située sous l'onglet `Timing`.
+La timeline du [timing](/wiki/Client/Beatmap_editor/Timing) est située sous l'onglet `Timing`.
 
 ### Timeline du Timing
 

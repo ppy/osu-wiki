@@ -1,10 +1,10 @@
 # Offset Wizard
 
-*Kunjungi juga: [Bagaimana cara menggunakan Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard) dan [Universal offset](/wiki/Universal_offset)*
+*Kunjungi juga: [Bagaimana cara menggunakan Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard) dan [Universal offset](/wiki/Client/Options/Universal_offset)*
 
-**Offset Wizard** adalah sebuah alat bawaan yang membantu pengguna dalam mencocokkan [Universal offset](/wiki/Universal_offset) ke nilai yang benar untuk perangkat mereka. Ini diperlukan bila [hitsound](/wiki/Beatmapping/Hitsound) terasa tidak sinkron dengan musik, di setiap beatmap dimainkan. Untuk informasi lebih lanjut tentang cara melakukan ini, kunjungi [Bagaimana cara menggunakan Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard).
+**Offset Wizard** adalah sebuah alat bawaan yang membantu pengguna dalam mencocokkan [Universal offset](/wiki/Client/Options/Universal_offset) ke nilai yang benar untuk perangkat mereka. Ini diperlukan bila [hitsound](/wiki/Beatmapping/Hitsound) terasa tidak sinkron dengan musik, di setiap beatmap dimainkan. Untuk informasi lebih lanjut tentang cara melakukan ini, kunjungi [Bagaimana cara menggunakan Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard).
 
-Untuk mengakses ke Offset Wizard, buka menu [Options](/wiki/Options) dan ketik `offset` pada pencarian cepat. Lalu tekan pada tombol `Offset wizard`.
+Untuk mengakses ke Offset Wizard, buka menu [Options](/wiki/Client/Options) dan ketik `offset` pada pencarian cepat. Lalu tekan pada tombol `Offset wizard`.
 
 Saat membuka Offset Wizard, pengguna disambut dengan tick metronom, dan bar hijau vertikal yang bergulir melintasi layar berulang kali. Lagu yang terakhir dipilih akan diputar, meskipun ini dapat diubah melalui kotak musik di pojok kanan atas layar.
 

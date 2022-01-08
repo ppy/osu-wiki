@@ -236,7 +236,7 @@ outdated: true
 4. 如果没有工作人员或者裁判在，比赛将会推迟。
 5. 如果有玩家中途游戏失败，失败的玩家的分数将不会计算分数。
    - 如果在游戏失败后重新满血复活，分数将会重新计算。
-6. 允许使用 [Visual Settings](/wiki/Visual_Settings) 。
+6. 允许使用 [Visual Settings](/wiki/Client/Interface/Visual_settings) 。
 7. 如果出现平局（所有人的分数一样），该局比赛无效。
 8. 如果玩家掉线，将会判游戏失败。
 9. 除非比赛无效，比赛用图不会在该场比赛中再次使用。

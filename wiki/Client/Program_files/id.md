@@ -1,6 +1,6 @@
 # Berkas Program osu!
 
-*Lihat juga: [Format berkas osu!](/wiki/osu!_File_Formats)*
+*Lihat juga: [Format berkas osu!](/wiki/Client/File_formats)*
 
 ![Struktur berkas pada folder instalasi osu! yang ada pada Windows dan macOS](img/file_structure.jpg "Struktur berkas pada folder instalasi osu! yang ada pada Windows dan macOS")
 
@@ -16,7 +16,7 @@ Secara umum, osu! terinstal pada lokasi berikut ini:
 
 ### Chat
 
-Folder ini hanya muncul apabila anda menggunakan "/savelog" di [Chat Console](/wiki/Chat_Console) atau jika anda mengaktifkan "Simpan catatan(log) pesan pribadi secara otomatis" di Pengaturan.
+Folder ini hanya muncul apabila anda menggunakan "/savelog" di [Chat Console](/wiki/Client/Interface/Chat_console) atau jika anda mengaktifkan "Simpan catatan(log) pesan pribadi secara otomatis" di Pengaturan.
 
 Struktur nama berkas ini adalah `{Nama_Tab}-{YYYYMMDD}-{HHMMSS}` dalam format .txt, yang pada dasarnya boleh dibuka melalui aplikasi *text editor* pilihan(Notepad, contohnya). Berikut adalah contoh nama berkas yang tersimpan:
 
@@ -28,7 +28,7 @@ Folder pengunduhan atau *downloads* menyimpan beatmap yang di download melalui o
 
 ### Exports
 
-Folder Exports muncul ketika pemain menggunakan fungsi [Ekspor Sebagai .osk pada Pengaturan](/wiki/Options) atau [Ekspor Map... pada Beatmap Editor"](/wiki/Beatmap_Editor/Menu). Folder tersebut akan menyimpan beatmap dan skin yang pemain ekspor dari osu!.
+Folder Exports muncul ketika pemain menggunakan fungsi [Ekspor Sebagai .osk pada Pengaturan](/wiki/Client/Options) atau [Ekspor Map... pada Beatmap Editor"](/wiki/Client/Beatmap_editor/Menu). Folder tersebut akan menyimpan beatmap dan skin yang pemain ekspor dari osu!.
 
 ### Localisation
 
@@ -95,7 +95,7 @@ Berkas-berkas database adalah basis data yang dibutuhkan osu! untuk berfungsi de
 Berkas-berkas konfigurasi yang digunakan untuk mengkonfigurasi pengaturan awal osu! sehingga dapat berjalan. Berkas-berkas tersebut dapat dibuka dengan *text editor*.
 
 - `osu!.cfg`: Menyimpan informasi keamanan tentang berkas osu! dan versi yang saat ini digunakan. Berkas ini jangan pernah diubah secara manual.
-- `osu!.<nama pengguna sistem operasi>.cfg`: Menyimpan data [Pengaturan](/wiki/Options) dan pengaturan game lainnya. Lihat [Berkas Konfigurasi Pengguna](/wiki/osu!_Program_Files/User_Configuration_File).
+- `osu!.<nama pengguna sistem operasi>.cfg`: Menyimpan data [Pengaturan](/wiki/Client/Options) dan pengaturan game lainnya. Lihat [Berkas Konfigurasi Pengguna](/wiki/Client/Program_files/User_configuration_file).
 
 ### .exe (Aplikasi)
 
