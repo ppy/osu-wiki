@@ -281,13 +281,13 @@ These users were awarded their respective titles for having significantly contri
 
 | User | Title |
 | :-- | :-- |
-| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | World Cup Organizer |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | World Cup Organiser |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter <!-- achievements and some other graphics --> |
 | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
-| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup Organizer |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup Organiser |
 | ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter <!-- maria and yuzu and a bunch of artwork for old site --> |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
-| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup Organizer |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup Organiser |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
