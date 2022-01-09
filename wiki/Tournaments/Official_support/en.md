@@ -2,7 +2,7 @@
 
 The [osu! team](/wiki/People/The_Team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on January 5, 2022. For any queries and clarifications, please consult the `#tournaments` channel on the [osu!dev Discord server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on January 9, 2022. For any queries and clarifications, please consult the `#tournaments` channel on the [osu!dev Discord server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -17,20 +17,18 @@ Officially supported tournaments have access to:
 Community-run tournaments which abide by the following hard criteria are eligible for support:
 
 - The tournament series must run no more than four times per year.
-- The tournament must have at least 64 players or 16 teams qualifying, OR operate on a Round of 16 double-elimination format at a minimum. Larger scales and formats are permitted.
-- The tournament is organised and run by an *experienced team of accomplished and reputable volunteers***¹** , **OR**, the tournament *has been run at least once before without receiving rewards*.
+- The tournament must operate on a Round of 16 double-elimination format at a minimum, OR have at least 64 players (or 16 teams) participating. Larger scales and formats are permitted.
+- The tournament is organised and run by an *experienced team of accomplished and reputable staff**¹*** , **OR**, the tournament *has been run at least once before without receiving rewards*.
 - Staff members must not participate in the tournament themselves at any point, and registered players are unable to later assist as staff either. For our definition on "staff", please refer to the [FAQ](#what-is-considered-staff).
 - The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users—participants and staff alike—to make use of this form where necessary. 
 
-**¹**: An "experienced" team member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of an official World Cup volunteer team for any game mode. This may vary at the discretion of the account support team.
+**¹**: An "experienced" staff member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of an official World Cup volunteer team for any game mode. This may vary at the discretion of the account support team.
 
 ## Requesting Support
 
 To start with, the request for support **must be made well before the tournament actually commences play.** There are no specific timelines for this, but we recommend at least two to three weeks before play commences to account for delays in the screening process.
-
-You may be required to postpone the start of your tournament during periods of high delay, but the account support team will make efforts to ensure this does not happen.
 
 If your tournament satisfies the [eligibility criteria](#eligibility), you can make a request for support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) with the following information:
 
@@ -63,21 +61,19 @@ In addition, all promotional material or any services associated with a tourname
 
 **The tournament must also abide by the following practices throughout:**
 
-- All players must be screened by the account support team before play commences (qualifiers are exempt from this). See [tournament screening](#tournament-screening) for more details.
-- The tournament must not prevent players who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
-  - This only applies in circumstances where they would otherwise meet the sign-up criteria for the tournament.
-  - This includes preventing users who are perceived to be "sandbagging" from play.
-    - Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
+- All players must be screened by the account support team before play commences**²**. See [tournament screening](#tournament-screening) for more details.
+- If a player satisfies the sign-up criteria (if any), the tournament must not prevent players who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
+  - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
 - A dedicated referee must be present during every match. Players cannot "self-ref". 
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post in a clear and accessible format.
+
+**²**: Play "commences" once any seedings or brackets have been determined. Therefore, qualifiers may be exempt from this.
 
 Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team:
 
 - A list of applicable badge recipients (a.k.a. the winners of your tournament).
 - An appropriately designed badge ([see below](#profile-badges)).
 - A link to the publicly viewable catalogue of your tournament's match history.
-
-LAN tournaments are also required to add links to VODs and a copy of the entire tournament bracket in order to be eligible for badges.
 
 ### Staff
 
