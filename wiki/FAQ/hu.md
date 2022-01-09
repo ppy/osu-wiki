@@ -91,7 +91,7 @@ Ez az osu! felülete.
   - Egy tévesztés az életerőd egy jó részét elveszi.
 - Az életerő-csík mellett (jobb oldalon) a pontszámod látható.
 - A pontszám alatt van a pontosságod.
-- A kör a pontosság mellett és a pontszám alatt egy időmérő, ami a szám hosszát mutatja. Az [Options](/wiki/Options) képernyőn módosíthatod, a "Folyamatjelző sáv helye" beállítással.
+- A kör a pontosság mellett és a pontszám alatt egy időmérő, ami a szám hosszát mutatja. Az [Options](/wiki/Client/Options) képernyőn módosíthatod, a "Folyamatjelző sáv helye" beállítással.
 - A bal alsó sarokban lévő szám a kombó/pontszorzó-számláló.
 
 ## Alternatív játékmódok

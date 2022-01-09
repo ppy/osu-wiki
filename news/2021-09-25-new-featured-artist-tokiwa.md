@@ -48,7 +48,7 @@ Try [the osu!taiko + osu!mania map](https://osu.ppy.sh/beatmapsets/976366) hoste
 
 And try out this map of... oh, it doesn't exist yet. Visit [**tokiwa**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/202) to bring the rest of these top-tier tracks to the forefront of osu! through your top-tier maps.
 
-That's all for this week! If you're looking for a reason to get involved with Featured Artist mapping, take a peek at the fancy perks of the [Mappers' Guild](/wiki/Mappers_Guild)! If you're only here to click circles though, you can always peek at the [@osugame Twitter](https://twitter.com/osugame) for details on our next Featured Artists.
+That's all for this week! If you're looking for a reason to get involved with Featured Artist mapping, take a peek at the fancy perks of the [Mappers' Guild](/wiki/Community/Mappers_Guild)! If you're only here to click circles though, you can always peek at the [@osugame Twitter](https://twitter.com/osugame) for details on our next Featured Artists.
 
 Until next week!
 

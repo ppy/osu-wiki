@@ -152,7 +152,7 @@ At the **bottom-centre**, there is a **timeline** with markings and the compulso
 | Bright White Long | Current test section |
 | Yellow Long | Preview point. |
 | Yellow up | Start of Drain time. |
-| Green up | Inherited Points. (See [Timing Setup](/wiki/Beatmap_Editor/Timing)) |
+| Green up | Inherited Points. (See [Timing Setup](/wiki/Client/Beatmap_editor/Timing)) |
 | Red up | Timing Points. (See Timing Setup) |
 | Blue Down | Bookmark |
 
@@ -182,7 +182,7 @@ At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value
 
 ![Beat Snap Divisor (osu!mania ver.)](img/BEM_BSD.jpg "Beat Snap Divisor (osu!mania ver.)")
 
-*Main article: [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)*
+*Main article: [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)*
 
 **In layman's term, adjusting given length of a coloured sewing thread (timing section) for an embroidery design space (measures, divided by the divisor to be called beats) on the cloth (song).** Since osu!mania highly prioritise every timing of the notes, **Time signature** (MM:B) from the Timing section is added (15:3 = 15th measure 3rd beat) beside the adjustment bar for easier mapper's reference. It can go to negative value (-8:-3 for example) if the first timing section is a *few seconds away* from the start of the beatmap's song file.
 
@@ -219,7 +219,7 @@ At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value
 | Name | Description |
 | :-- | :-- |
 | Left Box | Notes intensity (Timeline). |
-| Centre | Actual Playfield ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)). |
+| Centre | Actual Playfield ([Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)). |
 
 #### Colour notes
 

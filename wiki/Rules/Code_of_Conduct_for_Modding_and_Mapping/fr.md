@@ -13,7 +13,7 @@ Le **code de conduite pour le modding et le mapping** est un ensemble de règles
   - N'ayez pas peur des nouveaux mappeurs et moddeurs : ce sont eux qui peuvent bénéficier le plus de votre contribution ! Soyez patient, compréhensif et fournissez autant d'explications que possible afin qu'ils puissent apprendre et s'améliorer plus rapidement.
   - Si vous êtes vous-même nouveau, n'ayez pas peur de le dire ! Cela permettra aux membres plus expérimentés de la communauté de vous orienter dans la bonne direction. Tout le monde a été nouveau et dans votre position un jour !
 - Traitez les autres comme vous souhaiteriez être traité. Les gens sont plus réceptifs aux suggestions gentilles et utiles qu'aux suggestions hostiles. Essayez de comprendre le point de vue des autres plutôt que de l'attaquer - personne n'aime se sentir inutile, incompétent ou stupide. Si vous êtes masochiste, supposez que tous les autres ne le sont pas.
-- Si vous souhaitez commenter ou discuter d'une beatmap, rendez-vous sur la [page de discussion de cette beatmap](/wiki/Beatmap_Discussion) - et non sur les médias sociaux ou dans la section des commentaires, car il est peu probable que vos préoccupations soient entendues par une personne ayant le pouvoir de les traiter de manière appropriée.
+- Si vous souhaitez commenter ou discuter d'une beatmap, rendez-vous sur la [page de discussion de cette beatmap](/wiki/Beatmap_discussion) - et non sur les médias sociaux ou dans la section des commentaires, car il est peu probable que vos préoccupations soient entendues par une personne ayant le pouvoir de les traiter de manière appropriée.
 - Les attaques personnelles, les commentaires haineux, les plaisanteries déplacées, le déraillement du fil de discussion et le déclenchement d'un drame général ne sont pas acceptables sous quelque forme que ce soit et **ne seront pas tolérés**.
 
 ## Créer un mod post
@@ -54,7 +54,7 @@ Parfois, un seul mod et une seule réponse ne suffisent pas à mettre toutes les
 - Vous n'arrivez toujours pas à vous mettre d'accord ? Demandez à quelqu'un de plus expérimenté, comme un membre des [BN](/wiki/People/The_Team/Beatmap_Nominators) ou de la [NAT](/wiki/People/The_Team/Nomination_Assessment_Team). N'oubliez pas que ce sont des gens occupés ! Si vous vous rendez compte qu'il existe une alternative plus appropriée à ce que vous avez suggéré à l'origine, n'ayez pas peur de mettre votre fierté de côté - **parfois, avoir tort peut être bien plus précieux qu'avoir raison**.
 - **Il n'y a pas d'opinion "erronée".** C'est au mappeur et aux moddeurs de se mettre d'accord de manière civilisée. Essayez de comprendre les autres points de vue plutôt que de les attaquer, car on ne sait jamais quand cela peut être utile à l'avenir.
 - Si vous ne pouvez pas expliquer quelque chose par la logique, vous ne pourrez pas non plus l'expliquer par la violence. Plutôt que de poursuivre une discussion qui ne progresse pas, partez et réessayez avec le prochain moddeur/mappeur.
-- Lorsque les choses semblent échapper à tout contrôle, ou si la discussion a du mal à rester dans le sujet, [appelez un modérateur](/wiki/Reporting_Bad_Behaviour). Ne contribuez pas au problème en continuant à poster.
+- Lorsque les choses semblent échapper à tout contrôle, ou si la discussion a du mal à rester dans le sujet, [appelez un modérateur](/wiki/Reporting_bad_behaviour). Ne contribuez pas au problème en continuant à poster.
 
 ## Beatmaps qualifiées
 

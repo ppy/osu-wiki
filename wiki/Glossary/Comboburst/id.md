@@ -15,6 +15,6 @@ tags:
 
 Untuk osu!, osu!taiko, dan osu!catch, bintang-bintang akan menembak keluar dari sisi kiri atau kanan arena bermain untuk kombo kurang dari 100x, lalu kedua sisi secara bersamaan untuk kombo 100x atau lebih tinggi. Untuk osu!mania, bintang-bintang akan meluncur keluar dari kiri dan kanan panggung.
 
-*Catatan: Combo burst dapat dinonaktifkan di [options](/wiki/Options).*
+*Catatan: Combo burst dapat dinonaktifkan di [options](/wiki/Client/Options).*
 
 <!--TODO: Add images and links-->

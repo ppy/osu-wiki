@@ -30,7 +30,7 @@ Semua aturan pastinya adalah: ATURAN. Ini BUKAN petunjuk dan TIDAK boleh dilangg
 
 - **Not Finish/Not Besar**
 
-**Not Finish tidak boleh berada di awal atau di tengah suatu [stream](/wiki/Mapping_Techniques/Formations) 1/4 atau lebih kecil.** Ini untuk memastikan agar pola dapat dimainkan, karena sering kali not finish di tengah atau di awal stream 1/4 atau lebih kecil dianggap terlalu susah untuk ditangkap/ditekan.
+**Not Finish tidak boleh berada di awal atau di tengah suatu [stream](/wiki/Mapping_techniques/Formations) 1/4 atau lebih kecil.** Ini untuk memastikan agar pola dapat dimainkan, karena sering kali not finish di tengah atau di awal stream 1/4 atau lebih kecil dianggap terlalu susah untuk ditangkap/ditekan.
 
 ## Petunjuk
 

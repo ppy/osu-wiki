@@ -8,7 +8,7 @@
 
 ### 난이도 이름
 
-*메인 문서: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*메인 문서: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu

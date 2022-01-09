@@ -26,7 +26,7 @@ Alors que la musique est souvent soumise à des droits d'auteur, les effets sono
 
 ## Visuel
 
-Les ressources visuelles comprennent les [arrière-plan](/wiki/Beatmap/Background)/[storyboard](/wiki/Storyboards)/vidéo d'une beatmap suivent les mêmes exigences d'utilisation que les ressources audio.
+Les ressources visuelles comprennent les [arrière-plan](/wiki/Beatmap/Background)/[storyboard](/wiki/Storyboard)/vidéo d'une beatmap suivent les mêmes exigences d'utilisation que les ressources audio.
 
 Comme pour la musique, nous vous recommandons de demander l'avis d'un artiste sur les conditions d'utilisation et de lui demander la permission lorsque ces conditions ne sont pas claires. Par exemple, si vous souhaitez utiliser l'arrière-plan d'un artiste sur pixiv, consultez son profil pour connaître les conditions d'utilisation ou envoyez-lui un message pour lui demander la permission.
 

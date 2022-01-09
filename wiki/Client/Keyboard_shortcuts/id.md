@@ -11,7 +11,7 @@ tags:
 
 Di osu!, terdapat pintasan-pintasan yang dapat digunakan baik in-game maupun saat idle di tampilan mana pun. Pintasan-pintasan tersebut tertulis di bawah beserta fungsinya.
 
-*Catatan: Artikel ini berisi pintasan tombol default. Kamu bisa mengubah beberapa di antaranya melalui [pengaturan](/wiki/Options)*
+*Catatan: Artikel ini berisi pintasan tombol default. Kamu bisa mengubah beberapa di antaranya melalui [pengaturan](/wiki/Client/Options)*
 
 ## Umum
 
@@ -144,7 +144,7 @@ Pintasan-pintasan ini bekerja di mana pun:
 
 ## Beatmap editor
 
-*Halaman utama: [Beatmap Editor](/wiki/Beatmap_Editor)*
+*Halaman utama: [Beatmap Editor](/wiki/Client/Beatmap_editor)*
 
 ### Umum
 
@@ -169,10 +169,10 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Ctrl` + `N` | Menampilkan perhatian untuk menghapus semua objek. |
 | `Ctrl` + `Panah Atas/Bawah` | Menambah/mengurangi kecepatan playback sebanyak 25%. |
 | `Ctrl` + `Shift` + `Panah Atas/Bawah` | Menambah/mengurangi kecepatan playback sebanyak 5%. |
-| `F1` | Pindah ke mode [compose](/wiki/Beatmap_Editor/Compose). |
-| `F2` | Pindah ke mode [design](/wiki/Beatmap_Editor/Design). |
-| `F3` | Pindah ke mode [timing](/wiki/Beatmap_Editor/Timing). |
-| `F4` | Membuka dialog [song setup](/wiki/Beatmap_Editor/Song_Setup). |
+| `F1` | Pindah ke mode [compose](/wiki/Client/Beatmap_editor/Compose). |
+| `F2` | Pindah ke mode [design](/wiki/Client/Beatmap_editor/Design). |
+| `F3` | Pindah ke mode [timing](/wiki/Client/Beatmap_editor/Timing). |
+| `F4` | Membuka dialog [song setup](/wiki/Client/Beatmap_editor/Song_Setup). |
 | `F5` | Memasuki mode tes. |
 | `F6` | Membuka dialog timing dan control points. |
 | `Ctrl` + `P` | Menambahkan timing point uninherited pada timestamp saat ini. Jika tidak dilakukan di dalam mode timing, membuka dialog timing dan titik kontrol. |
@@ -215,13 +215,13 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `1`, `2`, `3`, atau `4` | Berpindah di antara mode penaruhan/pemilihan: select, circle, slider, dan spinner secara berurutan (osu!, osu!taiko, atau osu!catch). |
 | `1`, `2`, atau `3` | Berpindah di antara mode penaruhan/pemilihan: select, circle, dan hold secara berurutan (osu!mania). |
 | `Ctrl` + `Alt` + `Roda Mouse ke Atas/Bawah` | Berpindah di antara mode penaruhan/pemilihan. |
-| `Ctrl` + `Shift` + `A` | Membuka [AiMod](/wiki/Beatmap_Editor/AiMod). |
+| `Ctrl` + `Shift` + `A` | Membuka [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
 
 #### Playfield
 
 | Pintasan | Aksi |
 | :-- | :-- |
-| `Alt` | Mengaktifkan/menonaktifkan sementara [distance snap](/wiki/Beatmap_Editor/Distance_Snap) ketika ditahan. |
+| `Alt` | Mengaktifkan/menonaktifkan sementara [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) ketika ditahan. |
 | `Y` | Mengaktifkan/menonaktifkan distance snap. |
 | `Shift` | Mengaktifkan/menonaktifkan sementara grid snap ketika ditahan. |
 | `T` | Mengaktifkan/menonaktifkan grid snap. |
@@ -265,7 +265,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 | Pintasan | Aksi |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, atau `9`) | Menyetel [beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9 secara berurutan. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, atau `9`) | Menyetel [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9 secara berurutan. |
 | `Shift` (ketika men-drag pada timeline) | Mengabaikan beat snap divisor snapping. |
 | `J` | Menggeser objek-objek yang dipilih ke belakang sebanyak satu divisor. |
 | `K` | Menggeser objek-objek yang dipilih ke depan sebanyak satu divisor. |

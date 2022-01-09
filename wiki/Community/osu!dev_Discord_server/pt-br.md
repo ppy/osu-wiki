@@ -29,8 +29,8 @@ Cada desenvolvimento principal discutido no servidor tem seu próprio canal:
 | Classificação de estrelas e pontos de performance no [osu!mania](/wiki/Game_mode/osu!mania) | `#difficulty-mania` |
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
-| [Projeto Loved](/wiki/Project_Loved) | `#osu-loved` |
+| [Projeto Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
 | [Official tournament support](/wiki/Tournaments/Official_support) | `#tournaments` |
 | [osu! community meetings](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
 | Discussão sobre [Modding](/wiki/Modding) e [NAT meetings](/wiki/Modding/NAT_meetings) | `#modding` |
-| [Mappers' Guild](/wiki/Mappers_Guild) | `#mappers-guild` |
+| [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |

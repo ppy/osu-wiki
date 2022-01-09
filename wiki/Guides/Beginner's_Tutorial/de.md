@@ -86,9 +86,9 @@ Hab keine Angst, etwas zu üben, bei dem du aus dem einen oder anderen Grund imm
 
 *Hauptseite: [Benutzung des Offset-Assistenten](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
 
-Abhängig von den Geräten, mit denen du osu! spielst, wirst du möglicherweise feststellen, dass die Hit-Circles nicht ganz im Takt der Musik liegen. Um dies zu korrigieren, kannst du den globalen Offset-Wert in den [Einstellungen](/wiki/Options) ändern. Der globale Offset verändert, wann der erste Kreis auf Beatmaps erscheint (entweder früher oder später als voreingestellt), was wiederum die restlichen Kreise um den gleichen Betrag verschiebt. Ein negativer Offset-Wert lässt die Kreise etwas später erscheinen, ein positiver Wert lässt sie früher erscheinen.
+Abhängig von den Geräten, mit denen du osu! spielst, wirst du möglicherweise feststellen, dass die Hit-Circles nicht ganz im Takt der Musik liegen. Um dies zu korrigieren, kannst du den globalen Offset-Wert in den [Einstellungen](/wiki/Client/Options) ändern. Der globale Offset verändert, wann der erste Kreis auf Beatmaps erscheint (entweder früher oder später als voreingestellt), was wiederum die restlichen Kreise um den gleichen Betrag verschiebt. Ein negativer Offset-Wert lässt die Kreise etwas später erscheinen, ein positiver Wert lässt sie früher erscheinen.
 
-Im [Offset-Assistenten](/wiki/Options/Offset_Wizard), welchen du in den [Einstellungen](/wiki/Options) findest, wird ein Beispiellied mit einem Metronom-Beat abgespielt. Mit den Pfeiltasten nach oben/unten oder deinem Mausrad kannst du den Offset schrittweise anpassen, bis die Schläge des Metronoms mit den Balken, welche die Mittellinie kreuzen, übereinstimmen.
+Im [Offset-Assistenten](/wiki/Client/Options/Offset_Wizard), welchen du in den [Einstellungen](/wiki/Client/Options) findest, wird ein Beispiellied mit einem Metronom-Beat abgespielt. Mit den Pfeiltasten nach oben/unten oder deinem Mausrad kannst du den Offset schrittweise anpassen, bis die Schläge des Metronoms mit den Balken, welche die Mittellinie kreuzen, übereinstimmen.
 
 Beim Spielen einer Beatmap wirst du am unteren Bildschirmrand den Hit-Error-Grafen sehen. Sobald du einen Kreis triffst, erscheint irgendwo entlang des Grafen eine weiße Linie, je nachdem, wie genau du warst. Wenn sich alle deine Treffer links von der Mitte befinden, versuch, deinen globalen Offset leicht zu erhöhen. Wenn sie sich alle auf der rechten Seite befinden, versuch ihn zu verringern.
 
@@ -96,7 +96,7 @@ Passe deinen globalen Offset an, bis du glücklich damit bist. Die richtige Eins
 
 ### Raw Input
 
-*Siehe auch: [Optionen](/wiki/Options#maus)*
+*Siehe auch: [Optionen](/wiki/Client/Options#maus)*
 
 Ein meist übersehendes Feature ist "Raw Input". Raw Input erlaubt das direkte Einlesen deines Eingabegeräts in osu! selbst. Du kannst es auch verwenden, wenn es dir nicht gefällt, wie Windows mit deinem Mauszeiger umgeht, oder besonders dann, wenn du ein Tablet verwendest. Versuch es und spiele damit ein paar Beatmaps, vielleicht fühlst du dich sehr viel wohler damit.
 

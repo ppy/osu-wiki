@@ -13,7 +13,7 @@ outdated_since: 2da3d3ec26261552cc7ae67298d375b939addbf3
 
 ### 难度名称
 
-*主页面：[难度命名](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*主页面：[难度命名](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal

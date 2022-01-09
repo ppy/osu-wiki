@@ -39,7 +39,7 @@ Ten zbiór zasad to podstawa, dzięki której społeczność osu! jest przyjazny
 
 ## Zasady dot. przesyłania beatmap
 
-Te zasady dotyczą wyłącznie beatmap udostępnionych poprzez [system przesyłania beatmap](/wiki/Submission). Wątki są tworzone przez klient gry automatycznie, gdy beatmapa zostanie przesłana poprzez [edytor](/wiki/Beatmap_Editor).
+Te zasady dotyczą wyłącznie beatmap udostępnionych poprzez [system przesyłania beatmap](/wiki/Submission). Wątki są tworzone przez klient gry automatycznie, gdy beatmapa zostanie przesłana poprzez [edytor](/wiki/Client/Beatmap_editor).
 
 Treściwy zbiór zasad dotyczących tworzenia beatmap znany jest jako [kryteria rankingowe](/wiki/Ranking_Criteria).
 

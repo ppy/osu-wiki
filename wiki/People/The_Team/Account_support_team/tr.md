@@ -25,14 +25,14 @@ Erişiminizin ötesindeki hesap ile ilişkili konular hakkında bu ekiple irtiba
   - profil içeriğinin kaldırılması;
   - beatmapin kaldırılması;
   - forum gönderisinin ve yorumun kaldırılması.
-- [İtiraf etmek istediğiniz](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?) olumsuz davranışlar.
+- [İtiraf etmek istediğiniz](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?) olumsuz davranışlar.
 - osu! hesabınızla ilişkili [e-postanıza olan erişimi kaybetmeniz](/wiki/Help_Centre/Installation_and_registration#sign-in), veya hesabınızın çalınması.
 - Kullanıcı adı [geri çevirme veya ufak yazım düzeltmeleri](/wiki/Help_Centre/Account#name-changes).
 - [Bot hesabı başvuruları](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*Not: Ekstrem derecede uygunsuz bir davranışı veya, moderatörler dahil, herhangi bir kullanıcı tarafından yapılan cinsel tacizi bildirmek için, bakınız: [Kötüye Kullanım Bildirme](/wiki/Reporting_Bad_Behaviour/Abuse).
+*Not: Ekstrem derecede uygunsuz bir davranışı veya, moderatörler dahil, herhangi bir kullanıcı tarafından yapılan cinsel tacizi bildirmek için, bakınız: [Kötüye Kullanım Bildirme](/wiki/Reporting_bad_behaviour/Abuse).
 
 - Bir moderatörün uygunsuz davranışları hakkındaki şikayetler.
 - [İştirakçi Etik Davranış Kurallarını](/wiki/Contributor_Code_of_Conduct) çiğneyen bir moderatör hakkındaki şikayetler.

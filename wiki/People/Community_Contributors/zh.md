@@ -53,7 +53,7 @@ no_native_review: true
 
 | 玩家 | 贡献 |
 | :-- | :-- |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | 建立 [osu!学院](/wiki/osu!academy) |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | 建立 [osu!学院](/wiki/Community/Video_series/osu!academy) |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | 帮助撰写 osu!weekly 和新闻 |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | 杰出摸图贡献（10k+ 次） |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 杰出摸图贡献（10k+ 次） |

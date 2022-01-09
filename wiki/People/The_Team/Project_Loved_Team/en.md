@@ -6,7 +6,7 @@ tags:
 
 # Project Loved Team
 
-The **Project Loved Team** are members of the osu! community who manage [Project Loved](/wiki/Project_Loved), the voting platform that promotes [beatmaps](/wiki/Beatmap) to the [Loved](/wiki/Beatmap/Category#loved) category. They are distinguished by their usergroup badge that reads `LVD` and the username colour that is candy pink on the forums.
+The **Project Loved Team** are members of the osu! community who manage [Project Loved](/wiki/Community/Project_Loved), the voting platform that promotes [beatmaps](/wiki/Beatmap) to the [Loved](/wiki/Beatmap/Category#loved) category. They are distinguished by their usergroup badge that reads `LVD` and the username colour that is candy pink on the forums.
 
 The [Project Loved group page](https://osu.ppy.sh/groups/31) lists all of the team members.
 

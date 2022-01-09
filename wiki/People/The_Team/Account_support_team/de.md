@@ -27,14 +27,14 @@ Du solltest das Team zu Account-bezogenen Themen kontaktieren, über die du kein
   - Entfernung von Profilinhalten;
   - Entfernung von Beatmaps;
   - Entfernung von Forumsbeiträgen und Kommentaren.
-- Fälle von Fehlverhalten, die du [gestehen möchtest](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#was-kann-ich-tun,-wenn-ich-die-regeln-gebrochen-habe?).
+- Fälle von Fehlverhalten, die du [gestehen möchtest](/wiki/Reporting_bad_behaviour/Handling_foul_play#was-kann-ich-tun,-wenn-ich-die-regeln-gebrochen-habe?).
 - [Verlust des Zugriffs auf die E-Mail](/wiki/Help_Centre/Installation_and_registration#wo-registriere-ich-mich-für-osu!?), die mit deinem osu!-Account verbunden ist oder, wenn dein Account gestohlen wurde.
 - [Rücksetzungen des Benutzernamens und Rechtschreibfehlerkorrekturen](/wiki/Help_Centre/Account#namensänderungen).
 - [Registrierungen von Bot-Accounts](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*Tipp: Um einen extremen Fall von Fehlverhalten oder sexuellem Missbrauch von jeglichem Benutzer, ebenso Moderatoren, zu melden, siehe [Missbrauch melden](/wiki/Reporting_Bad_Behaviour/Abuse).*
+*Tipp: Um einen extremen Fall von Fehlverhalten oder sexuellem Missbrauch von jeglichem Benutzer, ebenso Moderatoren, zu melden, siehe [Missbrauch melden](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Bedenken über das Fehlverhalten eines Moderators.
 - Bedenken über einen Moderator, der die [Richtlinien für Mitwirkende](/wiki/Contributor_Code_of_Conduct) bricht.
