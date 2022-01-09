@@ -1159,6 +1159,7 @@ Notes:
 - This element represents the "passing" zone.
 - This element is not used in [osu!mania](/wiki/Game_mode/osu!mania).
 - Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`
+- A `scorebar-colour.png` is required for this element to appear.
 
 ---
 
@@ -1176,6 +1177,7 @@ Notes:
 - this element represents the "warning" zone
 - This element is not used in [osu!mania](/wiki/Game_mode/osu!mania)
 - Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`
+- A `scorebar-colour.png` is required for this element to appear.
 
 ---
 
@@ -1193,6 +1195,7 @@ Notes:
 - This element represents the "critical" zone.
 - This element is not used in [osu!mania](/wiki/Game_mode/osu!mania)
 - Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`
+- A `scorebar-colour.png` is required for this element to appear.
 
 ---
 
