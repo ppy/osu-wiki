@@ -1,6 +1,6 @@
 ---
 outdated:  true
-outdated_since: 4f1afcbc7ea7ebfdc1273e5b79d2d6f68bbe5d92
+outdated_since: 5c650edf4a7c5fe0ab7b8b06cc2477b314687fce
 ---
 
 # Negara-negara yang berpartisipasi dalam turnamen-turnamen osu!
