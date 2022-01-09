@@ -107,8 +107,9 @@ For team-based tournaments, the expected format is:
 
 ```csv
 Player1,Team1,1234567
-Player2,Team2,1234567
-Player3,Team3,1234567
+Player2,Team1,1234567
+Player3,Team2,1234567
+Player4,Team2,1234567
 ```
 
 Once screening concludes, the account support team will provide a list of any players from your tournament who failed screening and are not considered eligible for tournament play, without providing specific reasoning. Individual players who are unhappy with their screening outcome should be told to consult [accounts@ppy.sh](mailto:accounts@ppy.sh) via email.
