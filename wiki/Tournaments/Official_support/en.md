@@ -182,7 +182,7 @@ We have historically had issues where unscrupulous organisers have geared tourna
 
 No. Players who have been eliminated from the tournament/contest may not be enlisted as staff or assist in any organisational capacity with the sole exception of setting replays for mappool showcases. They can, however, be enlisted as a helper.
 
-A user who has not participated in any gameplay (including qualifiers) **AND** has not been scheduled for any matches does not qualify as a player/participant in our eyes, and therefore may be enlisted as staff (they have not been "eliminated" per se).
+A user who has passed screening but has not participated in any gameplay (including qualifiers) **AND** has not been scheduled for any matches does not qualify as a player/participant in our eyes, and therefore may be enlisted as staff (they have not been "eliminated" per se).
 
 ### What should I do if a player in my tournament gets restricted? {#player-restriction}
 
