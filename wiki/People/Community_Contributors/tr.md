@@ -48,7 +48,7 @@ osu! ekibinin emektar eski üyelerinden oluşan [osu! Alumni](/wiki/People/The_T
 
 | Kullanıcı | Katkılar |
 | :-- | :-- |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) kurucusu |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/Community/Video_series/osu!academy) kurucusu |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | osu!weekly + Haber İştirakçisi |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Olağanüstü moderasyon varlığı (10k+ öldürme) |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Olağanüstü moderasyon varlığı (10k+ öldürme) |

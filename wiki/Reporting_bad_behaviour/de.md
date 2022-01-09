@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2bad0ad3bfcdc272e5832ecf6d29bd61fcc6c23a
+---
+
 # Melden von schlechtem Verhalten
 
 osu! hat [ein Team von Moderatoren](/wiki/People/The_Team/Global_Moderation_Team), die sich dem Sauberhalten und dem Schutz der Community verschrieben haben. Wenn dir regelbrechendes Verhalten oder anstößiger Inhalt auffällt, dann melde es über eine der unten beschriebenen Methoden. Alternativ darfst du auch eine der Moderatoren direkt ansprechen, sofern deine Meldung nicht in einem angemessenen Zeitraum bearbeitet wurde—mache dies nur als letzte Möglichkeit.
@@ -8,7 +13,7 @@ Versehentliche Meldungen werden ignoriert. Benutzer, die absichtlich invalide Me
 
 | Art des Verstoßes | Kontaktperson |
 | :-- | :-- |
-| Offensive private Nachrichten | **Keine**: [ignoriere den Benutzer](/wiki/Chat_Console#commands-list) stattdessen. Für einen dauerhaften Effekt muss die Ignorieren-Liste in den [Optionen](/wiki/Options) des Spiel-Clients genutzt werden. |
+| Offensive private Nachrichten | **Keine**: [ignoriere den Benutzer](/wiki/Client/Interface/Chat_console#commands-list) stattdessen. Für einen dauerhaften Effekt muss die Ignorieren-Liste in den [Optionen](/wiki/Client/Options) des Spiel-Clients genutzt werden. |
 | Verstöße bezogen auf Modding und/oder Mapping | NAT, via der [NAT-/BN-Management-](https://bn.mappersguild.com/reports)-Webseite |
 | Unangebrachtes Verhalten von einem [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) oder [GMT](/wiki/People/The_Team/Global_Moderation_Team) Mitglied | [Account-Support-Team](/wiki/People/The_Team/Account_support_team) unter [support@ppy.sh](mailto:support@ppy.sh) |
 | Sexueller Missbrauch oder extremes Fehlverhalten | Gehe zu [Missbrauch melden](/wiki/Reporting_bad_behaviour/Abuse) |

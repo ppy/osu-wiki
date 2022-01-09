@@ -13,7 +13,7 @@ outdated_since: 0c67d13667b2e598e463c9a46234f929669d9d2d
 
 ### 难度名
 
-*主页面：[难度命名](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*主页面：[难度命名](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad

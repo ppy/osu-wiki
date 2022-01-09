@@ -25,14 +25,14 @@ Vous devriez contacter cette équipe pour les sujets concernant votre compte qui
   - Les suppressions de contenu du profil;
   - Les suppressions de beatmaps;
   - Les suppressions de posts sur le forum et commentaires.
-- De la mauvaise conduite que vous [souhaitez avouer](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#que-puis-je-faire-si-j'ai-enfreint-les-règles?).
+- De la mauvaise conduite que vous [souhaitez avouer](/wiki/Reporting_bad_behaviour/Handling_foul_play#que-puis-je-faire-si-j'ai-enfreint-les-règles?).
 - [Perte d'accès à l'email](/wiki/Help_Centre/Installation_and_registration#inscription) attaché à votre compte osu!, ou lorsque votre compte a été volé.
 - [Rétablissement d'anciens pseudos et corrections de fautes mineures dans votre pseudo](/wiki/Help_Centre/Account#changements-de-nom).
 - [Inscriptions de comptes bot](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*Remarque : Pour signaler un cas extrême de mauvaise conduite ou d'abus sexuel de n'importe quel utilisateur (modérateur inclus), voir : [Signaler un abus](/wiki/Reporting_Bad_Behaviour/Abuse).*
+*Remarque : Pour signaler un cas extrême de mauvaise conduite ou d'abus sexuel de n'importe quel utilisateur (modérateur inclus), voir : [Signaler un abus](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Préoccupations concernant la mauvaise conduite d'un modérateur.
 - Préoccupations concernant un modérateur brisant [le Code de conduite du contributeur](/wiki/Contributor_Code_of_Conduct).

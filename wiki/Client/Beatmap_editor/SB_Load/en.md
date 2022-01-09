@@ -10,8 +10,8 @@ It's best if a map never exceeds 5x SB Load. This ensures that the map is viewab
 
 ## Where It's Displayed
 
-- Testing in [Beatmap Editor](/wiki/Beatmap_Editor).
-- [Storyboard Editor](/wiki/Beatmap_Editor/Design), though numbers may not be as accurate.
+- Testing in [Beatmap Editor](/wiki/Client/Beatmap_editor).
+- [Storyboard Editor](/wiki/Client/Beatmap_editor/Design), though numbers may not be as accurate.
 
 ## Suggestions for Reduction
 

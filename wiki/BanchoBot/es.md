@@ -7,11 +7,11 @@ outdated: true
 
 ![Tarjeta de jugador de BanchoBot](img/BanchoBot.jpg "Tarjeta de jugador de BanchoBot")
 
-BanchoBot es un bot (es decir, una serie de comandos con respuestas automáticas) que ayuda a la gente en el chat mostrando determinada información y anunciando mensajes relacionados con el juego. Ha sido programado por [Echo49](https://osu.ppy.sh/users/431) y es el anfitrión del [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). También tiene un [perfil de osu!](https://osu.ppy.sh/users/3) y [cuenta de Twitter](https://twitter.com/banchoboat)!
+BanchoBot es un bot (es decir, una serie de comandos con respuestas automáticas) que ayuda a la gente en el chat mostrando determinada información y anunciando mensajes relacionados con el juego. Ha sido programado por [Echo49](https://osu.ppy.sh/users/431) y es el anfitrión del [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat). También tiene un [perfil de osu!](https://osu.ppy.sh/users/3) y [cuenta de Twitter](https://twitter.com/banchoboat)!
 
 ## Comandos
 
-*Para obtener una lista de los comandos del juego, consulta: [Consola de chat](/wiki/Chat_Console#lista-de-comandos)*
+*Para obtener una lista de los comandos del juego, consulta: [Consola de chat](/wiki/Client/Interface/Chat_console#lista-de-comandos)*
 
 Todos los comandos de BanchoBot empiezan con `!` seguido del comando. Estos comandos funcionan tanto en el juego como en clientes IRC externos. Se pueden usar tanto en canales de chat multijugador como en la pestaña de mensajes privados con BanchoBot. Si un usuario normal envía un comando de BanchoBot en un canal público, otros jugadores no lo verán, pero la respuesta se mostrará en un mensaje privado de BanchoBot.
 
@@ -141,7 +141,7 @@ Tama: ok
 !REPORT <usuario> <motivo>
 ```
 
-*Para información acerca de lo que merece ser reportado, ve [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour).*
+*Para información acerca de lo que merece ser reportado, ve [Reporting Bad Behaviour](/wiki/Reporting_bad_behaviour).*
 
 *Aviso: Al introducir el usuario, reemplaza los espacios con un guion bajo (`_`).*
 

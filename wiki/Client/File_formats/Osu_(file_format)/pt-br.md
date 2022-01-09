@@ -45,7 +45,7 @@ O conteúdo seguinte é separado em seções, indicadas por títulos em colchete
 
 ## Editor
 
-Estas opções são relevantes apenas ao abrir mapas no [editor de beatmap](/wiki/Beatmap_Editor). Elas não afetam a jogabilidade.
+Estas opções são relevantes apenas ao abrir mapas no [editor de beatmap](/wiki/Client/Beatmap_editor). Elas não afetam a jogabilidade.
 
 | Opção | Tipo do valor | Descrição |
 | :-- | :-- | :-- |

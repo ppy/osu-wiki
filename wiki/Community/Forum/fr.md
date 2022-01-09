@@ -27,7 +27,7 @@ En plus des badges de groupes d'utilisateurs fournis par l'appartenance à un gr
 
 ### Modération
 
-*Voir également : [Signaler un mauvais comportement § Forum](/wiki/Reporting_Bad_Behaviour#forum)*
+*Voir également : [Signaler un mauvais comportement § Forum](/wiki/Reporting_bad_behaviour#forum)*
 
 Les [modérateurs](/wiki/People/The_Team/Global_Moderation_Team) sont des utilisateurs qui veillent à ce que les forums restent propres et appropriés, et répondent aux questions à ce sujet. Les modérateurs peuvent modifier ou supprimer des messages ou des sujets inappropriés, épingler des sujets et les déplacer entre différents forums, et empêcher temporairement les contrevenants de poster en les [réduisant au silence](/wiki/Silence).
 
@@ -48,7 +48,7 @@ En outre, il existe d'autres forums similaires à celui de Abandoned Wasteland, 
 [Le premier message public du forum](https://osu.ppy.sh/community/forums/topics/2) est daté du 28 août 2007 et appartient à [peppy](/wiki/People/peppy). À cette époque, le site web d'osu! utilisait [phpBB](https://fr.wikipedia.org/wiki/PhpBB) comme moteur de forum, qui a été considérablement étendu au fil des ans pour répondre aux besoins du jeu et de la communauté. Voici quelques-unes de ses personnalisations :
 
 - Intégration avec le [système de soumission des beatmaps](/wiki/Submission)
-- Les systèmes [kudosu](/wiki/Kudosu) et [classement des beatmap](/wiki/Beatmap_ranking_procedure)
+- Les systèmes [kudosu](/wiki/Modding/Kudosu) et [classement des beatmap](/wiki/Beatmap_ranking_procedure)
 - Les forums [Help](/wiki/Community/Forum/Help) et [Feature Requests](/wiki/Community/Forum/Feature_Requests)
 - [osu!supporter](/wiki/osu!supporter) et les pages des utilisateurs
 

@@ -4,7 +4,7 @@
 
 **Görsel Ayarlar** oyun alanının altında bulunan gizli bir kişiselleştirme panelidir. Beatmap yüklemedeyken veya oyun duraklatıldığında bu panele erişilebilir. Görsel ayarlar paneli ekranda gözüktüğünde, imleç görsel ayarlar panelinden dışarı çıkana kadar beatmapin akışı duraklatılır.
 
-*Bildirim: Görsel ayarlar değişiklikleri her bir beatmap için kaydedilir fakat bazıları osu! kapatıldığında sıfırlanır. Bunları evrensel (ve ebedi) olarak ayarlamak için [seçenekler](/wiki/Options) menüsünü kullanın.*
+*Bildirim: Görsel ayarlar değişiklikleri her bir beatmap için kaydedilir fakat bazıları osu! kapatıldığında sıfırlanır. Bunları evrensel (ve ebedi) olarak ayarlamak için [seçenekler](/wiki/Client/Options) menüsünü kullanın.*
 
 Alternatif olarak, oyunu duraklatarak görsel ayarlar paneline erişmek mümkündür. Ancak, bu yöntem [Çok oyunculu](/wiki/Multi) maçlarda maçtan çıkma ve odayı terk etme olarak algılanacağı için çalışmaz.
 

@@ -7,7 +7,7 @@ tags:
 
 # Slider velocity
 
-*Slider velocity* is a number which describes how far a [slider](/wiki/Hit_object/Slider) will travel in one full beat. A base velocity can be assigned through the `Timing` tab in the [beatmap editor](/wiki/Beatmap_Editor) from the main window. A multiplier to this value can then be set for different sections of a beatmap by adding [inheriting timing points](/wiki/Beatmap_Editor/Timing) and changing the slider velocity multiplier value.
+*Slider velocity* is a number which describes how far a [slider](/wiki/Hit_object/Slider) will travel in one full beat. A base velocity can be assigned through the `Timing` tab in the [beatmap editor](/wiki/Client/Beatmap_editor) from the main window. A multiplier to this value can then be set for different sections of a beatmap by adding [inheriting timing points](/wiki/Client/Beatmap_editor/Timing) and changing the slider velocity multiplier value.
 
 Slider velocity is measured as *hundreds of [osupixels](/wiki/osupixel) per beat*, so a slider with a velocity of 1.00 will travel 100 osupixels (or, 100 pixels at 640x480 resolution) in one full beat. Since velocity is dependent on the length of a beat, sliders with the same velocity setting will travel faster with higher BPM.
 

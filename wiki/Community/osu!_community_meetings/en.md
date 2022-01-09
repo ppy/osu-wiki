@@ -8,7 +8,7 @@ Currently, the osu! community meetings are being chaired by [peppy](https://osu.
 
 Meetings are generally held every two weeks, with reminders announced on [peppy's Twitter](https://twitter.com/ppy) about a day beforehand.
 
-The next osu! community meeting date will be announced at a later date.
+The next osu! community meeting is scheduled to take place on: **January 9, 2022 (Sunday 01:00 UTC)**.
 
 ## Getting involved
 

@@ -8,7 +8,7 @@ outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 
 *[난이도](/wiki/Beatmap/Difficulty)와 혼동에 주의하세요.*
 
-**비트맵**은 노래에 맞추어 창작된 게임 난이도입니다. 이는 [히트 오브젝트](/wiki/Hit_object), [타이밍](/wiki/Beatmap_Editor/Timing) 정보, 난이도 설정, 그리고 시각적 효과를 포함하고 있습니다.
+**비트맵**은 노래에 맞추어 창작된 게임 난이도입니다. 이는 [히트 오브젝트](/wiki/Hit_object), [타이밍](/wiki/Client/Beatmap_editor/Timing) 정보, 난이도 설정, 그리고 시각적 효과를 포함하고 있습니다.
 
 비트맵은 **[비트맵셋](/wiki/Beatmap)**의 일부에 포함되어 만들어집니다. 비트맵들을 한데 묶어서 웹사이트에 [제출](/wiki/Submission)해 [비트맵 목록](https://osu.ppy.sh/beatmapsets)에 보이게 합니다. 통상적으로 한 노래에 서로 다른 [난이도](/wiki/Beatmap/Difficulty)를 가진 비트맵들로 구성됩니다.
 
@@ -49,4 +49,4 @@ Ranked 상태인 비트맵은 [랭킹 크리테리아](/wiki/Ranking_Criteria)�
 
 *Loved 카테고리의 역사를 알고 싶으면 [Loved의 역사](/wiki/Beatmap/History_of_Loved)를 참고하세요*
 
-Loved 상태인 비트맵은 [랭킹 크리테리아](/wiki/Ranking_Criteria) 기준에 도달하지 않을 수 있지만, 커뮤니티에 의해 *loved* 되며 [Project Loved](/wiki/Project_Loved)의 정기적인 커뮤니티 투표에 따라 추가됩니다. 이 비트맵들은 리더보드를 가지지만 [퍼포먼스 포인트](/wiki/Performance_points)를 얻을 수 없고, Loved 상태를 벗어나면 기록된 모든 점수가 사라지게 됩니다. (보통 제작자의 요청이 있을때). 이 비트맵들은 노래 선택 화면에서 하트 아이콘 (![](/wiki/shared/status/loved.png))으로 표기됩니다.
+Loved 상태인 비트맵은 [랭킹 크리테리아](/wiki/Ranking_Criteria) 기준에 도달하지 않을 수 있지만, 커뮤니티에 의해 *loved* 되며 [Project Loved](/wiki/Community/Project_Loved)의 정기적인 커뮤니티 투표에 따라 추가됩니다. 이 비트맵들은 리더보드를 가지지만 [퍼포먼스 포인트](/wiki/Performance_points)를 얻을 수 없고, Loved 상태를 벗어나면 기록된 모든 점수가 사라지게 됩니다. (보통 제작자의 요청이 있을때). 이 비트맵들은 노래 선택 화면에서 하트 아이콘 (![](/wiki/shared/status/loved.png))으로 표기됩니다.

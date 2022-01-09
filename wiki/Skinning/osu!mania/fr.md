@@ -117,7 +117,7 @@ Notes :
 - Pour avoir plusieurs combobursts, utilisez : `comboburst-mania-{n}.png`.
   - Une des images du set apparaîtra lorsqu'une étape de combo sera atteinte.
 - Ces combobursts sont spécifiques au mode osu!mania
-- Ils peuvent être désactivés dans les [options](/wiki/Options).
+- Ils peuvent être désactivés dans les [options](/wiki/Client/Options).
 - Contrairement aux combobursts des modes osu! et osu!catch, il ne faut pas couper les bords de ce set d'images.
 
 ## Touches

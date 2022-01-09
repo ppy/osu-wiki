@@ -2,6 +2,7 @@
 tags:
   - development
   - développement
+no_native_review: true
 ---
 
 # Serveur Discord osu!dev
@@ -12,7 +13,7 @@ Le lien d'invitation permanent est <https://discord.gg/ppy>.
 
 ## Vérification
 
-Par défaut, seuls les utilisateurs vérifiés ont l'autorisation de discuter dans le reste du serveur Discord. Si un utilisateur non-vérifié souhaite le devenir, celui-ci doit poster un message dans le canal `#arrival` du serveur Discord accompagné de ses motivations et intentions. Une fois ceci fait, un membre de l'équipe d'osu! s'occupera de vérifier l'utilisateur. *Prenez note que la vérification n'est pas immédiate et qu'elle peut prendre un certain temps.* 
+Par défaut, seuls les utilisateurs vérifiés ont l'autorisation de discuter dans le reste du serveur Discord. Si un utilisateur non-vérifié souhaite le devenir, celui-ci doit poster un message dans le canal `#arrival` du serveur Discord accompagné de ses motivations et intentions. Une fois ceci fait, un membre de l'équipe d'osu! s'occupera de vérifier l'utilisateur. *Prenez note que la vérification n'est pas immédiate et qu'elle peut prendre un certain temps.*
 
 ## Projets
 
@@ -29,6 +30,8 @@ Chaque partie du développement possède son propre canal de discussion :
 | Discussions et modifications apportées au Star Rating et aux points de performance dans le mode [osu!mania](/wiki/Game_mode/osu!mania) | `#difficulty-mania` |
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
-| [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
+| [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
+| [Official tournament support](/wiki/Tournaments/Official_support) | `#tournaments` |
+| [osu! community meetings](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
 | Discussions sur le [Modding](/wiki/Modding)/[Réunions de la NAT](/wiki/Modding/NAT_meetings) | `#modding` |
-| [Mappers' Guild](/wiki/Mappers_Guild) | `#mappers-guild` |
+| [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |

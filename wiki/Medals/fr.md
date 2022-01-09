@@ -8,7 +8,7 @@ Les médailles **Beatmap Packs** sont des médailles attribuées après avoir te
 
 Toutes les beatmaps doivent être jouées dans le mode de jeu [osu!](/wiki/Game_mode/osu!) pour obtenir le badge, sauf indication contraire. L'utilisation de [mods réduisant la difficulté](/wiki/Game_modifier#difficulté-réduite) ou de [mods augmentant la difficulté](/wiki/Game_modifier#difficulté-augmentée) est autorisée.
 
-Il convient toutefois de noter que le contenu de tous les packs Video Game Packs, Anime Packs, Internet! Packs et Rhythm Game Packs a été considérablement modifié depuis [leur première introduction en 2008](https://osu.ppy.sh/community/forums/topics/1853). Pour la liste de ces beatmaps packs dans leur état d'origine, voir [Anciens beatmaps packs](/wiki/Medals/Legacy_Beatmap_Packs).
+Il convient toutefois de noter que le contenu de tous les packs Video Game Packs, Anime Packs, Internet! Packs et Rhythm Game Packs a été considérablement modifié depuis [leur première introduction en 2008](https://osu.ppy.sh/community/forums/topics/1853). Pour la liste de ces beatmaps packs dans leur état d'origine, voir [Anciens beatmaps packs](/wiki/Medals/Legacy_beatmap_packs).
 
 ## Skill
 
