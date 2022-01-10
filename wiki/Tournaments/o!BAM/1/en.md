@@ -54,7 +54,7 @@ The osu! Battle Archive Malaysia is run by various community members.
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1393142)
 - [Discord server](https://discord.gg/GYqWsQbEbF)
 - [Challonge brackets](https://challonge.com/oBAM)
-- [Livestream channel](https://www.twitch.tv/osumalaysia)
+- [Livestream](https://www.twitch.tv/osumalaysia)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1GY_On5qdet-PYSYbfMEqOJq780CTUKxDHdcf9nJDjbQ/edit#gid=1947051038)**
 
 ## Participants
