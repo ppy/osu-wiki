@@ -201,7 +201,7 @@ This competition has come to an end and resulted in the following podium:
   1. [ShinRa-Bansho - Zenryoku Happy Life (Asagi) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/819611#osu/1718454)
   2. [ARForest - Hemisphere (Chizu-Kun) \[Meridian\]](https://osu.ppy.sh/beatmapsets/1588043#osu/3243430)
   3. [Sangatsu no Phantasia - Seishun nante Iranaiwa (Smug Nanachi) \[Adolescence\]](https://osu.ppy.sh/beatmapsets/1146237#osu/2393405)
-  4. [Camellia - WE ARE *NOT* CURZED (Mir) \[Revelation\]](https://osu.ppy.sh/beatmapsets/1253922#osu/2605902)
+  4. [Camellia - WE ARE \*NOT\* CURZED (Mir) \[Revelation\]](https://osu.ppy.sh/beatmapsets/1253922#osu/2605902)
   5. [Yui Horie & Hiroshi Kamiya - cat say hard word (Lotragon) \[Stress\]](https://osu.ppy.sh/beatmapsets/1266610#osu/2632396)
 - Hidden
   1. [rei sirose - Totemo Suteki na Rokugatsu deshita (SMOKELIND) \[EX\]](https://osu.ppy.sh/beatmapsets/1404349#osu/2896396)
