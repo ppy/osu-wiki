@@ -27,7 +27,7 @@ The **osu! Battle Archive Malaysia** (***o!BAM***) was a Malaysian double-elimin
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter per team member, animated profile banners, exclusive wrist-rest custom-designed by [Wristlabs](https://wristlabs.net) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter per team member, animated profile banners, exclusive wrist-rest custom-designed by [Wrist Labs](https://wristlabs.net) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter per team member, animated profile banners |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter per team member, animated profile banners |
 
@@ -548,7 +548,7 @@ Wednesday, 15 September 2021:
 4. Based on their performance in the Qualifier, players will be ranked based on the amount of Z-Score they accumulate.
    - Z-Score compares your team score relative to the average team score achieved in a map and assigns a value to it. Z-Score is measured in terms of the standard deviation of the team score from the mean team score achieved within that map. If your value is higher than 0, it means that your total team score is more than the average team score on that specific map, and vice versa with values lower than 0.
    - Z-Score is calculated PER MAP. Your Qualifiers standing will be determined by your team's total Z-Score on all 10 maps played, and will be sorted by ascending total Z-Score, with the team with the highest total Z-Score value placing 1st.
-5. The 32 Teams with the **highest amount of Z-Score in total** will advance to the Round of 32 as follows:
+5. The 32 teams with the **highest amount of Z-Score in total** will advance to the Round of 32 as follows:
 
 | Qualifier ranking | Round of 32 bracket |
 | :-: | :-- |
