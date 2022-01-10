@@ -567,7 +567,7 @@ Wednesday, 15 September 2021:
 4. Both captains will execute `!roll` command. The team that get the highest number will get to pick the first map and then ban after another team pick which map will be banned.
 5. Each team is obligated to ban **two beatmaps** from the mappool, with the first ban given prior to the beginning of the match and the second ban given after 4 maps have been played. These beatmaps are not allowed to be picked by any player during the entire match.
 6. In a FreeMod pick, Both players has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the four mods.
-   - Both teams need at least 1 `HR` or 1 `HD` (EZHD counts as using HD)
+   - Both teams need at least 1 **HR** or 1 **HD** (EZHD counts as using HD)
    - EZ will have their own independent multiplier depending on the FM pick.
    - There is no bonus multiplier for FL
    - Playing a FreeMod pick without any mods activated is not allowed.
