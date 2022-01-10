@@ -561,14 +561,14 @@ Wednesday, 15 September 2021:
 1. The match lobby will be created by the referee, and all four players will be invited.
 2. Teams have a strict 15 minute grace period to have both players available to play the match. If 15 minutes pass and a team does not have enough players to play the match, the other team will receive a win by default.
 3. The referee can give host to the players for warmups only. The referee will clear host for the after warmups. A team will select a map by naming the map in the multiplayer chat for the referee to mpcommand.
-1. both captains will `!roll`. The higher number rolling captain gets first pick second ban.
-2. Each Team is obligated to ban **two beatmaps** from the mappool, with the first ban given prior to the beginning of the match and the second ban given after 4 maps have been played. These beatmaps are not allowed to be picked by any player during the entire match.
-4. In a FreeMod pick, Both players has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the four mods.
+4. Both captains will execute `!roll` command. The team that get the highest number will get to pick the first map and then ban after another team pick which map will be banned.
+5. Each team is obligated to ban **two beatmaps** from the mappool, with the first ban given prior to the beginning of the match and the second ban given after 4 maps have been played. These beatmaps are not allowed to be picked by any player during the entire match.
+6. In a FreeMod pick, Both players has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the four mods.
    - Both teams need at least 1 __HR__ or 1 __HD__ (EZHD counts as using HD)
    - EZ will have their own independent multiplier depending on the FM pick.
    - There is no bonus multiplier for FL
    - Playing a FreeMod pick without any mods activated is not allowed.
-5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
+7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
