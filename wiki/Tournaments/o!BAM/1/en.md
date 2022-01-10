@@ -37,7 +37,7 @@ The osu! Battle Archive Malaysia is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976) |
+| Organiser | ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976) |
 | Administrator | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |
 | Mappool selector | ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |
 | Streamer | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [Koyaiba](https://osu.ppy.sh/users/7062729) | 
