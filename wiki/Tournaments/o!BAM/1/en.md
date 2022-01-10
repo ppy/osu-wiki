@@ -14,7 +14,7 @@ The **osu! Battle Archive Malaysia** (***o!BAM***) was a Malaysian double-elimin
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2021-08-10/2021-08-29 |
-| Qualifiers | 2021-09-04/2021-09-05
+| Qualifiers | 2021-09-04/2021-09-05 |
 | Live drawings | 2021-09-06 (21:00 UTC+8) |
 | Round of 32 | 2021-09-11/2021-09-12 |
 | Round of 16 | 2021-09-18/2021-09-19 |
