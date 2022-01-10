@@ -63,7 +63,7 @@ The osu! Battle Archive Malaysia is run by various community members.
 | :-- | :-- |
 | **nomicstreamers** | ![][flag_MY] **[DuoX](https://osu.ppy.sh/users/9560694)**, ![][flag_SG] [ShaneLiang](https://osu.ppy.sh/users/6716499) |
 | **:seemsgood:** | ![][flag_MY] **[malaidan](https://osu.ppy.sh/users/14279913)**, ![][flag_MY] [haruchi](https://osu.ppy.sh/users/4845266) |
-| **1v2** | ![][flag_MY] **[KumaXione](https://osu.ppy.sh/users/2582531)**, ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) |
+| **1v2** | ![][flag_MY] **[Kumaxione](https://osu.ppy.sh/users/2582531)**, ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) |
 | **Cokoroi** | ![][flag_MY] **[Beckon](https://osu.ppy.sh/users/5114388)**, ![][flag_MY] [Low Sens Player](https://osu.ppy.sh/users/8892909) |
 | **KEMOMIMI EDM SKWAD** | ![][flag_MY] **[MeeSahKey](https://osu.ppy.sh/users/12353050)**, ![][flag_MY] [Eiya](https://osu.ppy.sh/users/9888771) |
 | **Like Father Like Son** | ![][flag_MY] **[Lucy_LuQ](https://osu.ppy.sh/users/14319338)**, ![][flag_MY] [Hachune Miku](https://osu.ppy.sh/users/10584780) |
