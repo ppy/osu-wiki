@@ -29,7 +29,7 @@ The **osu! Battle Archive Malaysia** (***o!BAM***) was a Malaysian double-elimin
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter per each team member, animated profile banners, exclusive wrist-rest custom-designed by [Wristlabs.net](https://wristlabs.net)  |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter per each team member, animated profile banners |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months supporter per player,Animated Profile Banners |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter per each team member, animated profile banners |
 
 ## Organisation
 
