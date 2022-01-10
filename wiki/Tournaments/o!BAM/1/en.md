@@ -15,21 +15,21 @@ The **osu! Battle Archive Malaysia** (***o!BAM***) was a Malaysian double-elimin
 | --: | :-- |
 | Registration phase | 2021-08-10/2021-08-29 |
 | Qualifiers | 2021-09-04/2021-09-05 |
-| Live drawings | 2021-09-06 (21:00 UTC+8) |
+| Live drawings | 2021-09-06 (13:00 UTC+0) |
 | Round of 32 | 2021-09-11/2021-09-12 |
 | Round of 16 | 2021-09-18/2021-09-19 |
 | Quarterfinals | 2021-09-25/2021-09-26 |
-| Semifinals | 2021-10-2/2021-10-3 |
-| Finals week 1 | 2021-10-9/2021-10-10 |
-| Finals week 2 | 2021-10-16/2021-10-17 |
+| Semifinals | 2021-10-02/2021-10-03 |
+| Finals (week 1) | 2021-10-09/2021-10-10 |
+| Finals (week 2) | 2021-10-16/2021-10-17 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months supporter per player,Animated Profile Banners, Exclusive Wrist-rest custom-designed by Wristlabs.net  |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 months supporter per player,Animated Profile Banners |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months supporter per player,Animated Profile Banners |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter per each team member, animated profile banners, exclusive wrist-rest custom-designed by [Wristlabs.net](https://wristlabs.net)  |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter per each team member, animated profile banners |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter per each team member, animated profile banners |
 
 ## Organisation
 
@@ -37,7 +37,7 @@ The osu! Battle Archive Malaysia is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976) |
+| Organiser | ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976) |
 | Administrator | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |
 | Mappool selector | ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |
 | Streamer | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [Koyaiba](https://osu.ppy.sh/users/7062729) | 
@@ -54,16 +54,16 @@ The osu! Battle Archive Malaysia is run by various community members.
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1393142)
 - [Discord server](https://discord.gg/GYqWsQbEbF)
 - [Challonge brackets](https://challonge.com/oBAM)
-- [Livestream channel](https://www.twitch.tv/osumalaysia)
+- [Livestream](https://www.twitch.tv/osumalaysia)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1GY_On5qdet-PYSYbfMEqOJq780CTUKxDHdcf9nJDjbQ/edit#gid=1947051038)**
 
 ## Participants
 
 | Team | Members |
 | :-- | :-- |
-| **nomicstreamers** | ![][flag_MY] **[DuoX](https://osu.ppy.sh/users/9560694)**, ![][flag_SG] [ShaneLiang](https://osu.ppy.sh/users/6716499) |
+| **nomicstreamers** | ![][flag_MY] **[DuoX](https://osu.ppy.sh/users/9560694)**, ![][flag_MY] [ShaneLiang](https://osu.ppy.sh/users/6716499) |
 | **:seemsgood:** | ![][flag_MY] **[malaidan](https://osu.ppy.sh/users/14279913)**, ![][flag_MY] [haruchi](https://osu.ppy.sh/users/4845266) |
-| **1v2** | ![][flag_MY] **[KumaXione](https://osu.ppy.sh/users/2582531)**, ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) |
+| **1v2** | ![][flag_MY] **[Kumaxione](https://osu.ppy.sh/users/2582531)**, ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) |
 | **Cokoroi** | ![][flag_MY] **[Beckon](https://osu.ppy.sh/users/5114388)**, ![][flag_MY] [Low Sens Player](https://osu.ppy.sh/users/8892909) |
 | **KEMOMIMI EDM SKWAD** | ![][flag_MY] **[MeeSahKey](https://osu.ppy.sh/users/12353050)**, ![][flag_MY] [Eiya](https://osu.ppy.sh/users/9888771) |
 | **Like Father Like Son** | ![][flag_MY] **[Lucy_LuQ](https://osu.ppy.sh/users/14319338)**, ![][flag_MY] [Hachune Miku](https://osu.ppy.sh/users/10584780) |
@@ -74,14 +74,14 @@ The osu! Battle Archive Malaysia is run by various community members.
 | **hidden sucks** | ![][flag_MY] **[zorrospg](https://osu.ppy.sh/users/18042234)**, ![][flag_MY] [727 not funny](https://osu.ppy.sh/users/14844663) |
 | **"5 digit btw"** | ![][flag_MY] **[Zeph2003](https://osu.ppy.sh/users/10343292)**, ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) |
 | **Communist LSD enjoyers** | ![][flag_MY] **[TequilaWolf](https://osu.ppy.sh/users/3633477)**, ![][flag_MY] [seabee](https://osu.ppy.sh/users/13472074) |
-| **hongjiapai trading co. ltd.** | ![][flag_MY] **[Ayumu Uehara](https://osu.ppy.sh/users/13626098)**, ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777) |
+| **洪家派贸易有限公司(hongjiapai trading co. ltd)** | ![][flag_MY] **[Ayumu Uehara](https://osu.ppy.sh/users/13626098)**, ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777) |
 | **stwopid** | ![][flag_MY] **[Ltwoed](https://osu.ppy.sh/users/13670830)**, ![][flag_MY] [Cupid2](https://osu.ppy.sh/users/8189611) |
 | **Hutao Enjoyers** | ![][flag_MY] **[CookieDASH](https://osu.ppy.sh/users/8249895)**, ![][flag_MY] [Chibi Maruko](https://osu.ppy.sh/users/5585377) |
 | **Ahmad** | ![][flag_MY] **[domiyyyy](https://osu.ppy.sh/users/12126638)**, ![][flag_MY] [maharun](https://osu.ppy.sh/users/7537273) |
 | **cutest malaysia couple** | ![][flag_MY] **[Chiyuu](https://osu.ppy.sh/users/8226107)**, ![][flag_MY] [Zygody](https://osu.ppy.sh/users/3677251) |
 | **Horny 14s** | ![][flag_MY] **[Snowy5441](https://osu.ppy.sh/users/13865320)**, ![][flag_MY] [AsianEnd](https://osu.ppy.sh/users/17010088) |
 | **I was forced to play this** | ![][flag_MY] **[[Winter]](https://osu.ppy.sh/users/7373182)**, ![][flag_MY] [Fancyyy](https://osu.ppy.sh/users/12616268) |
-| **Good Morning China I have Ice Cream now I Love Ice Cream** | ![][flag_MY] **[sealw4ll](https://osu.ppy.sh/users/12289818)**, ![][flag_MY] [MinaMyoui](https://osu.ppy.sh/users/6996926) |
+| **早上好中国现在我有冰激淋我很喜欢冰激淋(Good Morning China I have Ice Cream now I Love Ice Cream)** | ![][flag_MY] **[sealw4ll](https://osu.ppy.sh/users/12289818)**, ![][flag_MY] [MinaMyoui](https://osu.ppy.sh/users/6996926) |
 | **The Alieppie Supremacy** | ![][flag_MY] **[Aleppie](https://osu.ppy.sh/users/766445)**, ![][flag_MY] [Alippie](https://osu.ppy.sh/users/13173302) |
 | **low combo SS** | ![][flag_MY] **[vernonlim](https://osu.ppy.sh/users/10167542)**, ![][flag_MY] [cloud_chaser02](https://osu.ppy.sh/users/7673764) |
 | **Mio Supremacy** | ![][flag_MY] **[Judicious](https://osu.ppy.sh/users/8087710)**, ![][flag_MY] [Changed](https://osu.ppy.sh/users/8009988) |
@@ -101,7 +101,7 @@ The osu! Battle Archive Malaysia is run by various community members.
 | **Ascendants** | ![][flag_MY] **[Inugami Korone](https://osu.ppy.sh/users/4474918)**, ![][flag_MY] [Mumei Nanashi](https://osu.ppy.sh/users/5414124/osu) |
 | **ur mom** | ![][flag_MY] **[Houshou Marine](https://osu.ppy.sh/users/6402211)**, ![][flag_MY] [Banner](https://osu.ppy.sh/users/14290988) |
 | **"oh no"** | ![][flag_MY] **[RushiaFanGirl](https://osu.ppy.sh/users/11918602)**, ![][flag_MY] [Illuxz](https://osu.ppy.sh/users/11916798) |
-| **Snowflakes fluttering north wind howling** | ![][flag_MY] **[JKLiew02](https://osu.ppy.sh/users/17434745)**, ![][flag_MY] [Iyouka](https://osu.ppy.sh/users/7138499) |
+| **雪花飘飘北风啸啸(Snowflakes fluttering north wind howling)** | ![][flag_MY] **[JKLiew02](https://osu.ppy.sh/users/17434745)**, ![][flag_MY] [Iyouka](https://osu.ppy.sh/users/7138499) |
 | **Chicken Sandwich** | ![][flag_MY] **[fernsfurn](https://osu.ppy.sh/users/14831389)**, ![][flag_MY] [Fuurin_Desu](https://osu.ppy.sh/users/18173411) |
 | **LOLI ANNIHILATOR** | ![][flag_MY] **[xanotic](https://osu.ppy.sh/users/18097295)**, ![][flag_MY] [[MY]ISPROGILER](https://osu.ppy.sh/users/10911621) |
 | **poggers9000** | ![][flag_MY] **[Hinnoa](https://osu.ppy.sh/users/11001723)**, ![][flag_MY] [Havvik](https://osu.ppy.sh/users/9868585) |
@@ -201,7 +201,7 @@ This competition has come to an end and resulted in the following podium:
   1. [ShinRa-Bansho - Zenryoku Happy Life (Asagi) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/819611#osu/1718454)
   2. [ARForest - Hemisphere (Chizu-Kun) \[Meridian\]](https://osu.ppy.sh/beatmapsets/1588043#osu/3243430)
   3. [Sangatsu no Phantasia - Seishun nante Iranaiwa (Smug Nanachi) \[Adolescence\]](https://osu.ppy.sh/beatmapsets/1146237#osu/2393405)
-  4. [Camellia - WE ARE *NOT* CURZED (Mir) \[Revelation\]](https://osu.ppy.sh/beatmapsets/1253922#osu/2605902)
+  4. [Camellia - WE ARE \*NOT\* CURZED (Mir) \[Revelation\]](https://osu.ppy.sh/beatmapsets/1253922#osu/2605902)
   5. [Yui Horie & Hiroshi Kamiya - cat say hard word (Lotragon) \[Stress\]](https://osu.ppy.sh/beatmapsets/1266610#osu/2632396)
 - Hidden
   1. [rei sirose - Totemo Suteki na Rokugatsu deshita (SMOKELIND) \[EX\]](https://osu.ppy.sh/beatmapsets/1404349#osu/2896396)
@@ -274,7 +274,7 @@ This competition has come to an end and resulted in the following podium:
 - FreeMod
   1. [Renard - TU4AR (P o M u T a) \[Extra\]](https://osu.ppy.sh/beatmapsets/82802#osu/228919)
   2. [Nakiri Ayame - Good-bye sengen (Deppyforce) \[Insane (tourney edit)\]](https://osu.ppy.sh/beatmapsets/715913#osu/1512691)
--Tiebreaker
+- Tiebreaker
   1. **[Camellia - Bassline Yatteru? w (Mir) \[Line Line Line\]](https://osu.ppy.sh/beatmapsets/715913#osu/1512691)**
 
 ### Round of 32
@@ -330,13 +330,13 @@ Friday, 15 October 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **nomicstreamers** | **7** | 1 | Communist LSD enjoyers | [#1](https://osu.ppy.sh/community/matches/92425987)
+| **nomicstreamers** | **7** | 1 | Communist LSD enjoyers | [#1](https://osu.ppy.sh/community/matches/92425987) |
 
 Sunday, 17 October 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **"5 digit btw"** | **7** | 3 | nomicstreamers | [#1](https://osu.ppy.sh/community/matches/92543092)
+| **"5 digit btw"** | **7** | 3 | nomicstreamers | [#1](https://osu.ppy.sh/community/matches/92543092) |
 
 ### Finals
 
@@ -344,25 +344,25 @@ Friday, 8 October 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Communist LSD enjoyers** | **7** | 1 | 1v2 | [#1](https://osu.ppy.sh/community/matches/92085133)
+| **Communist LSD enjoyers** | **7** | 1 | 1v2 | [#1](https://osu.ppy.sh/community/matches/92085133) |
 
 Saturday, 9 October 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| nomicstreamers | 3 | **7** | **"5 digit btw"** | [#1](https://osu.ppy.sh/community/matches/92140758)
+| nomicstreamers | 3 | **7** | **"5 digit btw"** | [#1](https://osu.ppy.sh/community/matches/92140758) |
 
 Sunday, 10 October 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| low combo SS | 3 | **7** | **Ascendants** | [#1](https://osu.ppy.sh/community/matches/92202772)
+| low combo SS | 3 | **7** | **Ascendants** | [#1](https://osu.ppy.sh/community/matches/92202772) |
 
 Monday, 11 October 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Communist LSD enjoyers** | **7** | 6 | Ascendants | [#1](https://osu.ppy.sh/community/matches/92250750)
+| **Communist LSD enjoyers** | **7** | 6 | Ascendants | [#1](https://osu.ppy.sh/community/matches/92250750) |
 
 ### Semifinals
 
@@ -370,29 +370,29 @@ Friday, 1 October 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Hutao Enjoyers** | **6** | 2 | ur mom | [#1](https://osu.ppy.sh/community/matches/91743361)
-| **1v2** | **6** | 2 | Martin n willy show | [#1](https://osu.ppy.sh/community/matches/91745670)
-| :seemsgood: | 4 | **6** | **Ascendants** | [#1](https://osu.ppy.sh/community/matches/91745843)
+| **Hutao Enjoyers** | **6** | 2 | ur mom | [#1](https://osu.ppy.sh/community/matches/91743361) |
+| **1v2** | **6** | 2 | Martin n willy show | [#1](https://osu.ppy.sh/community/matches/91745670) |
+| :seemsgood: | 4 | **6** | **Ascendants** | [#1](https://osu.ppy.sh/community/matches/91745843) |
 
 Saturday, 2 October 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **nomicstreamers** | **6** | 0 | low combo SS | [#1](https://osu.ppy.sh/community/matches/91803867)
-| **cutest malaysia couple** | **6** | 0 |	:okniceperson: | [#1](https://osu.ppy.sh/community/matches/91806781)
+| **nomicstreamers** | **6** | 0 | low combo SS | [#1](https://osu.ppy.sh/community/matches/91803867) |
+| **cutest malaysia couple** | **6** | 0 |	:okniceperson: | [#1](https://osu.ppy.sh/community/matches/91806781) |
 
 Sunday, 3 October 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Ascendants** | **6** | 3 | cutest malaysia couple | [#1](https://osu.ppy.sh/community/matches/91865888)
+| **Ascendants** | **6** | 3 | cutest malaysia couple | [#1](https://osu.ppy.sh/community/matches/91865888) |
 
 Monday, 4 October 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Hutao Enjoyers | 5 | **6** | **1v2** | [#1](https://osu.ppy.sh/community/matches/91908160)
-| **"5 digit btw"** | **6** | 2 |	Communist LSD enjoyers | [#1](https://osu.ppy.sh/community/matches/91909065)
+| Hutao Enjoyers | 5 | **6** | **1v2** | [#1](https://osu.ppy.sh/community/matches/91908160) |
+| **"5 digit btw"** | **6** | 2 |	Communist LSD enjoyers | [#1](https://osu.ppy.sh/community/matches/91909065) |
 
 ### Quarterfinals
 
@@ -400,40 +400,42 @@ Friday, 24 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **nomicstreamers** | **6** | 1 | 1v2 | [#1](https://osu.ppy.sh/community/matches/91398903)
-| **Martin n willy show** | **6** | 5 | Chicken Sandwich | [#1](https://osu.ppy.sh/community/matches/91402172)
+| **nomicstreamers** | **6** | 1 | 1v2 | [#1](https://osu.ppy.sh/community/matches/91398903) |
+| **Martin n willy show** | **6** | 5 | Chicken Sandwich | [#1](https://osu.ppy.sh/community/matches/91402172) |
 
 Saturday, 25 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **:okniceperson:** | **6** | 1 | Amamiya Kokoro | [#1](https://osu.ppy.sh/community/matches/91443708)
-| **ur mom** | **6** | 1 | stwopid | [#1](https://osu.ppy.sh/community/matches/91450122)
-| **chunchunmaru** | **6** | 4 | Supremacy | [#1](https://osu.ppy.sh/community/matches/91454313)
-| **pufferfishes** | **6** | 4 | Horny 14s | [#1](https://osu.ppy.sh/community/matches/91456363)
-| **low combo SS** | **6** | 4 | Hutao Enjoyers | [#1](https://osu.ppy.sh/mp/91456569)
+| **:okniceperson:** | **6** | 1 | Amamiya Kokoro | [#1](https://osu.ppy.sh/community/matches/91443708) |
+| **ur mom** | **6** | 1 | stwopid | [#1](https://osu.ppy.sh/community/matches/91450122) |
+| **chunchunmaru** | **6** | 4 | Supremacy | [#1](https://osu.ppy.sh/community/matches/91454313) |
+| **pufferfishes** | **6** | 4 | Horny 14s | [#1](https://osu.ppy.sh/community/matches/91456363) |
+| **low combo SS** | **6** | 4 | Hutao Enjoyers | [#1](https://osu.ppy.sh/community/matches/91456569) |
 
 Sunday, 26 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **123ganggang** | **6** | 1 | Brown Switch Gaming | [#1](https://osu.ppy.sh/community/matches/91515381)
-| **Monkeybsns** | **6** | 0 | Sheep | [#1](https://osu.ppy.sh/community/matches/91517997)
-| **Ascendants** | **6** | 2 | hongjiapai trading co. ltd | [#1](https://osu.ppy.sh/community/matches/91517870)
-| pufferfishes| 2 | **6** | **ur mom** | [#1](https://osu.ppy.sh/community/matches/91520127)
-| **Communist LSD enjoyers** | **6** | 1 | :seemsgood: | [#1](https://osu.ppy.sh/community/matches/91520137)
+| **123ganggang** | **6** | 1 | Brown Switch Gaming | [#1](https://osu.ppy.sh/community/matches/91515381) |
+| **Monkeybsns** | **6** | 0 | Sheep | [#1](https://osu.ppy.sh/community/matches/91517997) |
+| **Ascendants** | **6** | 2 | 洪家派贸易有限公司(hongjiapai trading co. ltd) | [#1](https://osu.ppy.sh/community/matches/91517870) |
+| pufferfishes| 2 | **6** | **ur mom** | [#1](https://osu.ppy.sh/community/matches/91520127) |
+| **Communist LSD enjoyers** | **6** | 1 | :seemsgood: | [#1](https://osu.ppy.sh/community/matches/91520137) |
 
 Monday, 27 September 2021
+
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **"5 digit btw"** | **6** | 0 | cutest malaysia couple | [#1](https://osu.ppy.sh/mp/91564531)
-| 123ganggang | 3 | **6** | **Martin n willy show** | [#1](https://osu.ppy.sh/community/matches/91566500)
-| chunchunmaru | 1 | **6** | **:okniceperson:** | [#1](https://osu.ppy.sh/community/matches/91566502)
+| **"5 digit btw"** | **6** | 0 | cutest malaysia couple | [#1](https://osu.ppy.sh/community/matches/91564531) |
+| 123ganggang | 3 | **6** | **Martin n willy show** | [#1](https://osu.ppy.sh/community/matches/91566500) |
+| chunchunmaru | 1 | **6** | **:okniceperson:** | [#1](https://osu.ppy.sh/community/matches/91566502) |
 
 Tuesday, 28 September 2021
+
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Monkeybsns | 2 | **6** | **Ascendants** | [#1](https://osu.ppy.sh/community/matches/91607642)
+| Monkeybsns | 2 | **6** | **Ascendants** | [#1](https://osu.ppy.sh/community/matches/91607642) |
 
 ### Round of 16
 
@@ -441,7 +443,7 @@ Thursday, 16 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Brown Switch Gaming** | **5** | 3 | Good Morning China I have Ice Cream now I Love Ice Cream | [#1](https://osu.ppy.sh/community/matches/91035935) |
+| **Brown Switch Gaming** | **5** | 3 | 早上好中国现在我有冰激淋我很喜欢冰激淋(Good Morning China I have Ice Cream now I Love Ice Cream) | [#1](https://osu.ppy.sh/community/matches/91035935) |
 
 Friday, 17 September 2021:
 
@@ -453,25 +455,25 @@ Saturday, 18 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| KEMOMIMI EDM SKWAD | 1 | **5** | **Sheep** | [#1](https://osu.ppy.sh/mp/91101361)
-| TUYU Enjoyers	| 3 | **5**| **stwopid** | [#1](https://osu.ppy.sh/mp/91103976)
-| Like Father Like Son | 1 | **5** | **hongjiapai trading co. ltd**| [#1](https://osu.ppy.sh/community/matches/91106492)
-| Ahmad | 1 | **5** | **Amamiya Kokoro**| [#1](https://osu.ppy.sh/community/matches/91107642)
-| **nomicstreamers** | **5** | 1 | :okniceperson: | [#1](https://osu.ppy.sh/community/matches/91108059)
+| KEMOMIMI EDM SKWAD | 1 | **5** | **Sheep** | [#1](https://osu.ppy.sh/community/matches/91101361) |
+| TUYU Enjoyers	| 3 | **5**| **stwopid** | [#1](https://osu.ppy.sh/community/matches/91103976) |
+| Like Father Like Son | 1 | **5** | **洪家派贸易有限公司(hongjiapai trading co. ltd)**| [#1](https://osu.ppy.sh/community/matches/91106492) |
+| Ahmad | 1 | **5** | **Amamiya Kokoro**| [#1](https://osu.ppy.sh/community/matches/91107642) |
+| **nomicstreamers** | **5** | 1 | :okniceperson: | [#1](https://osu.ppy.sh/community/matches/91108059) |
 
 Sunday, 19 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **1v2** | **5** | 1 |	chunchunmaru | [#1](https://osu.ppy.sh/mp/91151060)
-| **Communist LSD enjoyers** | **5** | 1 | ur mom | [#1](https://osu.ppy.sh/community/matches/91157843)
-| **Hutao Enjoyers** | **5** | 4 | Monkeybsns | [#1](https://osu.ppy.sh/community/matches/91160656)
-| The Alieppie Supremacy | 0 | **5** | **Mio Supremacy** | [#1](https://osu.ppy.sh/community/matches/91161963)
-| **cutest malaysia couple** | **5** | 2 | 123ganggang | [#1](https://osu.ppy.sh/mp/91162071)
-| **"5 digit btw"** | **5** | 0 | Martin n willy show | [#1](https://osu.ppy.sh/mp/91164633)
-| **:seemsgood:** | **5** | 0 | pufferfishes | [#1](https://osu.ppy.sh/community/matches/91164653)
-| Rocket League Players | 4 | **5** | **Chicken Sandwich** | [#1](https://osu.ppy.sh/community/matches/91167814)
-| **low combo SS** | **5** | 2 | Ascendants | [#1](https://osu.ppy.sh/community/matches/91167941)
+| **1v2** | **5** | 1 |	chunchunmaru | [#1](https://osu.ppy.sh/community/matches/91151060) |
+| **Communist LSD enjoyers** | **5** | 1 | ur mom | [#1](https://osu.ppy.sh/community/matches/91157843) |
+| **Hutao Enjoyers** | **5** | 4 | Monkeybsns | [#1](https://osu.ppy.sh/community/matches/91160656) |
+| The Alieppie Supremacy | 0 | **5** | **Mio Supremacy** | [#1](https://osu.ppy.sh/community/matches/91161963) |
+| **cutest malaysia couple** | **5** | 2 | 123ganggang | [#1](https://osu.ppy.sh/mp/91162071) |
+| **"5 digit btw"** | **5** | 0 | Martin n willy show | [#1](https://osu.ppy.sh/mp/91164633) |
+| **:seemsgood:** | **5** | 0 | pufferfishes | [#1](https://osu.ppy.sh/community/matches/91164653) |
+| Rocket League Players | 4 | **5** | **Chicken Sandwich** | [#1](https://osu.ppy.sh/community/matches/91167814) |
+| **low combo SS** | **5** | 2 | Ascendants | [#1](https://osu.ppy.sh/community/matches/91167941) |
 
 ### Round of 32
 
@@ -479,47 +481,47 @@ Friday, 10 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **cutest malaysia couple** | **5** | 1 | Like Father Like Son | [#1](https://osu.ppy.sh/mp/90671087) |
-| **nomicstreamers** | **5** | 0 | | The Maid of Orléans | [#1](https://osu.ppy.sh/community/matches/90674004) |
+| **cutest malaysia couple** | **5** | 1 | Like Father Like Son | [#1](https://osu.ppy.sh/community/matches/90671087) |
+| **nomicstreamers** | **5** | 0 | The Maid of Orléans | [#1](https://osu.ppy.sh/community/matches/90674004) |
 
 Saturday, 11 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **:okniceperson:** | **5**  | 1 | Horny 14s | [#1](https://osu.ppy.sh/community/matches/90723362) |
-| **ur mom** | **5** | 1 | Mio Supremacy | [#1](https://osu.ppy.sh/mp/90730637) |
-| **low combo SS** | **5** | 0 | Brown Switch Gaming | [#1](https://osu.ppy.sh/mp/90733016) |
+| **:okniceperson:** | **5** | 1 | Horny 14s | [#1](https://osu.ppy.sh/community/matches/90723362) |
+| **ur mom** | **5** | 1 | Mio Supremacy | [#1](https://osu.ppy.sh/community/matches/90730637) |
+| **low combo SS** | **5** | 0 | Brown Switch Gaming | [#1](https://osu.ppy.sh/community/matches/90733016) |
 | Sheep | 4 | **5** | **Martin n willy show** | [#1](https://osu.ppy.sh/community/matches/90735842) |
 
 Sunday, 12 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **"5 digit btw"** | **5** | 1 | KEMOMIMI EDM SKWAD | [#1](https://osu.ppy.sh/community/matches/90793204)
-| **Ascendants** | **5** | 1 | Good Morning China I have Ice Cream now I Love Ice Cream | [#1](https://osu.ppy.sh/community/matches/90796718)
-| **Monkeybsns** | **5** | 0 | Chicken Sandwich | [#1](https://osu.ppy.sh/community/matches/90796727)
-| **:seemsgood:** | **5** | 0 | Ahmad | [#1](https://osu.ppy.sh/community/matches/90797103)
-| Amamiya Kokoro | 3 | **5** | **pufferfishes** | [#1](https://osu.ppy.sh/mp/90799380)
-| **1v2** | **5** | 0 | TUYU Enjoyers |  [#1](https://osu.ppy.sh/community/matches/90802376)
-| **Communist LSD enjoyers** | **5** | 0 | The Alieppie Supremacy | [#1](https://osu.ppy.sh/community/matches/90802379)
+| **"5 digit btw"** | **5** | 1 | KEMOMIMI EDM SKWAD | [#1](https://osu.ppy.sh/community/matches/90793204) |
+| **Ascendants** | **5** | 1 | 早上好中国现在我有冰激淋我很喜欢冰激淋(Good Morning China I have Ice Cream now I Love Ice Cream) | [#1](https://osu.ppy.sh/community/matches/90796718) |
+| **Monkeybsns** | **5** | 0 | Chicken Sandwich | [#1](https://osu.ppy.sh/community/matches/90796727) |
+| **:seemsgood:** | **5** | 0 | Ahmad | [#1](https://osu.ppy.sh/community/matches/90797103) |
+| Amamiya Kokoro | 3 | **5** | **pufferfishes** | [#1](https://osu.ppy.sh/community/matches/90799380) |
+| **1v2** | **5** | 0 | TUYU Enjoyers | [#1](https://osu.ppy.sh/community/matches/90802376) |
+| **Communist LSD enjoyers** | **5** | 0 | The Alieppie Supremacy | [#1](https://osu.ppy.sh/community/matches/90802379) |
 
 Monday, 13 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| hongjiapai trading co. ltd | 4 | **5** | **123ganggang** |  [#1](https://osu.ppy.sh/community/matches/90850024)
+| 洪家派贸易有限公司(hongjiapai trading co. ltd) | 4 | **5** | **123ganggang** | [#1](https://osu.ppy.sh/community/matches/90850024) |
 
 Tuesday, 14 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **chunchunmaru**  | **5** | 0 | stwopid | [#1](https://osu.ppy.sh/community/matches/90888112)
+| **chunchunmaru** | **5** | 0 | stwopid | [#1](https://osu.ppy.sh/community/matches/90888112) |
 
 Wednesday, 15 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Hutao Enjoyers** | **5** | 0 | Rocket League Players | [#1](https://osu.ppy.sh/community/matches/90942079)
+| **Hutao Enjoyers** | **5** | 0 | Rocket League Players | [#1](https://osu.ppy.sh/community/matches/90942079) |
 
 ## Ruleset
 
@@ -539,6 +541,7 @@ Wednesday, 15 September 2021:
 12. There will be pickems available **internationally** for anyone to have a chance to earn a prize, even if they aren't local.
 
 ### Qualifiers Rules
+
 1. Each Team's Captain will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
 2. In the lobby, all teams will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Teams **are not allowed** to join in (or register for) more than one Qualifier lobby.
@@ -564,7 +567,7 @@ Wednesday, 15 September 2021:
 4. Both captains will execute `!roll` command. The team that get the highest number will get to pick the first map and then ban after another team pick which map will be banned.
 5. Each team is obligated to ban **two beatmaps** from the mappool, with the first ban given prior to the beginning of the match and the second ban given after 4 maps have been played. These beatmaps are not allowed to be picked by any player during the entire match.
 6. In a FreeMod pick, Both players has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the four mods.
-   - Both teams need at least 1 __HR__ or 1 __HD__ (EZHD counts as using HD)
+   - Both teams need at least 1 `HR` or 1 `HD` (EZHD counts as using HD)
    - EZ will have their own independent multiplier depending on the FM pick.
    - There is no bonus multiplier for FL
    - Playing a FreeMod pick without any mods activated is not allowed.
