@@ -21,7 +21,7 @@ The **osu! Battle Archive Malaysia** (***o!BAM***) was a Malaysian double-elimin
 | Quarterfinals | 2021-09-25/2021-09-26 |
 | Semifinals | 2021-10-02/2021-10-03 |
 | Finals (week 1) | 2021-10-09/2021-10-10 |
-| Finals week 2 | 2021-10-16/2021-10-17 |
+| Finals (week 2) | 2021-10-16/2021-10-17 |
 
 ## Prizes
 
