@@ -456,7 +456,7 @@ Saturday, 18 September 2021:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | KEMOMIMI EDM SKWAD | 1 | **5** | **Sheep** | [#1](https://osu.ppy.sh/community/matches/91101361) |
-| TUYU Enjoyers | 3 | **5**| **stwopid** | [#1](https://osu.ppy.sh/community/matches/91103976) |
+| TUYU Enjoyers | 3 | **5** | **stwopid** | [#1](https://osu.ppy.sh/community/matches/91103976) |
 | Like Father Like Son | 1 | **5** | **洪家派贸易有限公司(hongjiapai trading co. ltd)** | [#1](https://osu.ppy.sh/community/matches/91106492) |
 | Ahmad | 1 | **5** | **Amamiya Kokoro** | [#1](https://osu.ppy.sh/community/matches/91107642) |
 | **nomicstreamers** | **5** | 1 | :okniceperson: | [#1](https://osu.ppy.sh/community/matches/91108059) |
