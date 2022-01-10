@@ -547,7 +547,7 @@ Wednesday, 15 September 2021:
 3. Teams **are not allowed** to join in (or register for) more than one Qualifier lobby.
 4. Based on their performance in the Qualifier, players will be ranked based on the amount of Z-Score they accumulate.
    - Z-Score compares your team score relative to the average team score achieved in a map and assigns a value to it. Z-Score is measured in terms of the standard deviation of the team score from the mean team score achieved within that map. If your value is higher than 0, it means that your total team score is more than the average team score on that specific map, and vice versa with values lower than 0.
-   - Z-Score is calculated PER MAP. Your Qualifiers standing will be determined by your team's total Z-Score on all 10 maps played, and will be sorted by ascending total Z-score, with the team with the highest total Z-Score value placing 1st.
+   - Z-Score is calculated PER MAP. Your Qualifiers standing will be determined by your team's total Z-Score on all 10 maps played, and will be sorted by ascending total Z-Score, with the team with the highest total Z-Score value placing 1st.
 5. The 32 Teams with the **highest amount of Z-Score in total** will advance to the Round of 32 as follows:
 
 | Qualifier ranking | Round of 32 bracket |
