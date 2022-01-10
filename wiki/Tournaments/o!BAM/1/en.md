@@ -33,7 +33,7 @@ The **osu! Battle Archive Malaysia** (***o!BAM***) was a Malaysian double-elimin
 
 ## Organisation
 
-The osu! Battle Archive Malaysia is run by various community members.
+The osu! Battle Archive Malaysia was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
