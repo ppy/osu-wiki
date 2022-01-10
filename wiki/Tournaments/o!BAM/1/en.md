@@ -42,7 +42,7 @@ The osu! Battle Archive Malaysia is run by various community members.
 | Mappool selector | ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |
 | Streamer | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [Koyaiba](https://osu.ppy.sh/users/7062729) | 
 | Commentator | ![][flag_MY] [MyAngelFable](https://osu.ppy.sh/users/11234664), ![][flag_MY] [Malaidan](https://osu.ppy.sh/users/14279913), ![][flag_MY] [fancyyy](https://osu.ppy.sh/users/12616268), ![][flag_MY] [sealw4ll](https://osu.ppy.sh/users/12289818), ![][flag_MY] [Banner](https://osu.ppy.sh/users/14290988), ![][flag_MY] [MinaMyoui](https://osu.ppy.sh/users/6996926), ![][flag_MY] [IHateAutoNicks](https://osu.ppy.sh/users/10758397), ![][flag_MY] [Chiyuu](https://osu.ppy.sh/users/8226107), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612) |
-| Referee | ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594),![][flag_VN] [rock-on](https://osu.ppy.sh/users/9676089), ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706), ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846), ![][flag_FR] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777), ![][flag_FR] [Wen4ng3L](https://osu.ppy.sh/users/9288833), ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [MinaMyoui](https://osu.ppy.sh/users/6996926) |
+| Referee | ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594),![][flag_VN] [rock-on](https://osu.ppy.sh/users/9676089), ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706), ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846), ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777), ![][flag_FR] [Wen4ng3L](https://osu.ppy.sh/users/9288833), ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [MinaMyoui](https://osu.ppy.sh/users/6996926) |
 | Graphic Designer | ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594) |
 | Spreadsheet manager | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976)
 | Statistician | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Khoo Hao Yit](https://osu.ppy.sh/users/9534110) |
@@ -86,7 +86,7 @@ The osu! Battle Archive Malaysia is run by various community members.
 | **low combo SS** | ![][flag_MY] **[vernonlim](https://osu.ppy.sh/users/10167542)**, ![][flag_MY] [cloud_chaser02](https://osu.ppy.sh/users/7673764) |
 | **Mio Supremacy** | ![][flag_MY] **[Judicious](https://osu.ppy.sh/users/8087710)**, ![][flag_MY] [Changed](https://osu.ppy.sh/users/8009988) |
 | **safe spot** | ![][flag_MY] **[Addam](https://osu.ppy.sh/users/11716599)**, ![][flag_MY] [Kiddthehaz](https://osu.ppy.sh/users/10838547) |
-| **chunchunmaru** | ![][flag_MY] **[MyAngelFable](https://osu.ppy.sh/users/11234664)**, ![][flag_MY] [_Rel_](https://osu.ppy.sh/users/11622287) |
+| **chunchunmaru** | ![][flag_MY] **[MyAngelFable](https://osu.ppy.sh/users/11234664)**, ![][flag_MY] [\_Rel_\](https://osu.ppy.sh/users/11622287) |
 | **play4fun** | ![][flag_MY] **[kurakura](https://osu.ppy.sh/users/15542056)**, ![][flag_MY] [afiqXD](https://osu.ppy.sh/users/15230343) |
 | **TUYU Enjoyers** | ![][flag_MY] **[Racers03](https://osu.ppy.sh/users/11621976)**, ![][flag_MY] [Yaro](https://osu.ppy.sh/users/9196013) |
 | **The Maid of Orléans** | ![][flag_MY] **[SuiseiMyWife](https://osu.ppy.sh/users/9773374)**, ![][flag_MY] [seoster](https://osu.ppy.sh/users/12841949) |
@@ -336,7 +336,7 @@ Sunday, 17 October 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **"5 digit btw"** | **7** | 3 | nomicstreamers | [#1](https://osu.ppy.sh/community/matches/92542468%20https://osu.ppy.sh/community/matches/92543092)
+| **"5 digit btw"** | **7** | 3 | nomicstreamers | [#1](https://osu.ppy.sh/community/matches/92543092)
 
 ### Finals
 
@@ -344,13 +344,13 @@ Friday, 8 October 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Communist LSD enjoyers** | **7** | 1 | 1v2 | [#1](https://osu.ppy.sh/mp/92085133)
+| **Communist LSD enjoyers** | **7** | 1 | 1v2 | [#1](https://osu.ppy.sh/community/matches/92085133)
 
 Saturday, 9 October 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| nomicstreamers | 3 | **7** | **"5 digit btw"** | [#1](https://osu.ppy.sh/mp/92140758)
+| nomicstreamers | 3 | **7** | **"5 digit btw"** | [#1](https://osu.ppy.sh/community/matches/92140758)
 
 Sunday, 10 October 2021:
 
@@ -362,7 +362,7 @@ Monday, 11 October 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Communist LSD enjoyers** | **7** | 6 | Ascendants | [#1](https://osu.ppy.sh/mp/92250750)
+| **Communist LSD enjoyers** | **7** | 6 | Ascendants | [#1](https://osu.ppy.sh/community/matches/92250750)
 
 ### Semifinals
 
@@ -370,15 +370,15 @@ Friday, 1 October 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Hutao Enjoyers** | **6** | 2 | ur mom | [#1](https://osu.ppy.sh/mp/91743361)
-| **1v2** | **6** | 2 | Martin n willy show | [#1](https://osu.ppy.sh/mp/91745670)
+| **Hutao Enjoyers** | **6** | 2 | ur mom | [#1](https://osu.ppy.sh/community/matches/91743361)
+| **1v2** | **6** | 2 | Martin n willy show | [#1](https://osu.ppy.sh/community/matches/91745670)
 | :seemsgood: | 4 | **6** | **Ascendants** | [#1](https://osu.ppy.sh/community/matches/91745843)
 
 Saturday, 2 October 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **nomicstreamers** | **6** | 0 | low combo SS | [#1](https://osu.ppy.sh/mp/91803867)
+| **nomicstreamers** | **6** | 0 | low combo SS | [#1](https://osu.ppy.sh/community/matches/91803867)
 | **cutest malaysia couple** | **6** | 0 |	:okniceperson: | [#1](https://osu.ppy.sh/community/matches/91806781)
 
 Sunday, 3 October 2021:
@@ -433,7 +433,7 @@ Monday, 27 September 2021
 Tuesday, 28 September 2021
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Monkeybsns | 2 | **6** | **Ascendants** | [#1](https://osu.ppy.sh/mp/91607642)
+| Monkeybsns | 2 | **6** | **Ascendants** | [#1](https://osu.ppy.sh/community/matches/91607642)
 
 ### Round of 16
 
@@ -441,13 +441,13 @@ Thursday, 16 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Brown Switch Gaming** | 0 | **5** | 早上好中国现在我有冰激淋我很喜欢冰激淋 | [#1](https://osu.ppy.sh/mp/91035935) |
+| **Brown Switch Gaming** | **5** | 3 | Good Morning China I have Ice Cream now I Love Ice Cream | [#1](https://osu.ppy.sh/community/matches/91035935) |
 
 Friday, 17 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Brown Switch Gaming** | **5** | 3 | Good Morning China I have Ice Cream now I Love Ice Cream | [#1](https://osu.ppy.sh/community/matches/90979402) |
+| The Maid of Orléans | 0 | **5** | **Horny 14s** | [#1](https://osu.ppy.sh/community/matches/90979402) |
 
 Saturday, 18 September 2021:
 
@@ -513,7 +513,7 @@ Tuesday, 14 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **chunchunmaru**  | **5** | 0 | stwopid | [#1](https://osu.ppy.sh/mp/90888112)
+| **chunchunmaru**  | **5** | 0 | stwopid | [#1](https://osu.ppy.sh/community/matches/90888112)
 
 Wednesday, 15 September 2021:
 
@@ -561,14 +561,14 @@ Wednesday, 15 September 2021:
 1. The match lobby will be created by the referee, and all four players will be invited.
 2. Teams have a strict 15 minute grace period to have both players available to play the match. If 15 minutes pass and a team does not have enough players to play the match, the other team will receive a win by default.
 3. The referee can give host to the players for warmups only. The referee will clear host for the after warmups. A team will select a map by naming the map in the multiplayer chat for the referee to mpcommand.
-1. both captains will `!roll`. The higher number rolling captain gets first pick second ban.
-2. Each Team is obligated to ban **two beatmaps** from the mappool, with the first ban given prior to the beginning of the match and the second ban given after 4 maps have been played. These beatmaps are not allowed to be picked by any player during the entire match.
-4. In a FreeMod pick, Both players has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the four mods.
+4. Both captains will execute `!roll` command. The team that get the highest number will get to pick the first map and then ban after another team pick which map will be banned.
+5. Each team is obligated to ban **two beatmaps** from the mappool, with the first ban given prior to the beginning of the match and the second ban given after 4 maps have been played. These beatmaps are not allowed to be picked by any player during the entire match.
+6. In a FreeMod pick, Both players has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the four mods.
    - Both teams need at least 1 __HR__ or 1 __HD__ (EZHD counts as using HD)
    - EZ will have their own independent multiplier depending on the FM pick.
    - There is no bonus multiplier for FL
    - Playing a FreeMod pick without any mods activated is not allowed.
-5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
+7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
