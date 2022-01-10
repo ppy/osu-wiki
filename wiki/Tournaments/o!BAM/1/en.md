@@ -15,7 +15,7 @@ The **osu! Battle Archive Malaysia** (***o!BAM***) was a Malaysian double-elimin
 | --: | :-- |
 | Registration phase | 2021-08-10/2021-08-29 |
 | Qualifiers | 2021-09-04/2021-09-05 |
-| Live drawings | 2021-09-06 (13:00 UTC+0) |
+| Live drawings | 2021-09-06 (13:00 UTC) |
 | Round of 32 | 2021-09-11/2021-09-12 |
 | Round of 16 | 2021-09-18/2021-09-19 |
 | Quarterfinals | 2021-09-25/2021-09-26 |
@@ -27,9 +27,9 @@ The **osu! Battle Archive Malaysia** (***o!BAM***) was a Malaysian double-elimin
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter per each team member, animated profile banners, exclusive wrist-rest custom-designed by [Wristlabs.net](https://wristlabs.net) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter per each team member, animated profile banners |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter per each team member, animated profile banners |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter per team member, animated profile banners, exclusive wrist-rest custom-designed by [Wristlabs](https://wristlabs.net) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter per team member, animated profile banners |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter per team member, animated profile banners |
 
 ## Organisation
 
@@ -43,7 +43,7 @@ The osu! Battle Archive Malaysia was run by various community members.
 | Streamer | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [Koyaiba](https://osu.ppy.sh/users/7062729) |
 | Commentator | ![][flag_MY] [MyAngelFable](https://osu.ppy.sh/users/11234664), ![][flag_MY] [Malaidan](https://osu.ppy.sh/users/14279913), ![][flag_MY] [fancyyy](https://osu.ppy.sh/users/12616268), ![][flag_MY] [sealw4ll](https://osu.ppy.sh/users/12289818), ![][flag_MY] [Banner](https://osu.ppy.sh/users/14290988), ![][flag_MY] [MinaMyoui](https://osu.ppy.sh/users/6996926), ![][flag_MY] [IHateAutoNicks](https://osu.ppy.sh/users/10758397), ![][flag_MY] [Chiyuu](https://osu.ppy.sh/users/8226107), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612) |
 | Referee | ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594),![][flag_VN] [rock-on](https://osu.ppy.sh/users/9676089), ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706), ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846), ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777), ![][flag_MY] [Wen4ng3L](https://osu.ppy.sh/users/9288833), ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [MinaMyoui](https://osu.ppy.sh/users/6996926) |
-| Graphic Designer | ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594) |
+| Graphic designer | ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594) |
 | Spreadsheet manager | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976) |
 | Statistician | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Khoo Hao Yit](https://osu.ppy.sh/users/9534110) |
 | Wiki editor | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594) |
@@ -74,14 +74,14 @@ The osu! Battle Archive Malaysia was run by various community members.
 | **hidden sucks** | ![][flag_MY] **[zorrospg](https://osu.ppy.sh/users/18042234)**, ![][flag_MY] [727 not funny](https://osu.ppy.sh/users/14844663) |
 | **"5 digit btw"** | ![][flag_MY] **[Zeph2003](https://osu.ppy.sh/users/10343292)**, ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) |
 | **Communist LSD enjoyers** | ![][flag_MY] **[TequilaWolf](https://osu.ppy.sh/users/3633477)**, ![][flag_MY] [seabee](https://osu.ppy.sh/users/13472074) |
-| **洪家派贸易有限公司(hongjiapai trading co. ltd)** | ![][flag_MY] **[Ayumu Uehara](https://osu.ppy.sh/users/13626098)**, ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777) |
+| **洪家派贸易有限公司 (Hongjiapai Trading Co., Ltd)** | ![][flag_MY] **[Ayumu Uehara](https://osu.ppy.sh/users/13626098)**, ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777) |
 | **stwopid** | ![][flag_MY] **[Ltwoed](https://osu.ppy.sh/users/13670830)**, ![][flag_MY] [Cupid2](https://osu.ppy.sh/users/8189611) |
 | **Hutao Enjoyers** | ![][flag_MY] **[CookieDASH](https://osu.ppy.sh/users/8249895)**, ![][flag_MY] [Chibi Maruko](https://osu.ppy.sh/users/5585377) |
 | **Ahmad** | ![][flag_MY] **[domiyyyy](https://osu.ppy.sh/users/12126638)**, ![][flag_MY] [maharun](https://osu.ppy.sh/users/7537273) |
 | **cutest malaysia couple** | ![][flag_MY] **[Chiyuu](https://osu.ppy.sh/users/8226107)**, ![][flag_MY] [Zygody](https://osu.ppy.sh/users/3677251) |
 | **Horny 14s** | ![][flag_MY] **[Snowy5441](https://osu.ppy.sh/users/13865320)**, ![][flag_MY] [AsianEnd](https://osu.ppy.sh/users/17010088) |
 | **I was forced to play this** | ![][flag_MY] **[[Winter]](https://osu.ppy.sh/users/7373182)**, ![][flag_MY] [Fancyyy](https://osu.ppy.sh/users/12616268) |
-| **早上好中国现在我有冰激淋我很喜欢冰激淋(Good Morning China I have Ice Cream now I Love Ice Cream)** | ![][flag_MY] **[sealw4ll](https://osu.ppy.sh/users/12289818)**, ![][flag_MY] [MinaMyoui](https://osu.ppy.sh/users/6996926) |
+| **早上好中国现在我有冰激淋我很喜欢冰激淋 (Good Morning China I Have Ice Cream Now I Love Ice Cream)** | ![][flag_MY] **[sealw4ll](https://osu.ppy.sh/users/12289818)**, ![][flag_MY] [MinaMyoui](https://osu.ppy.sh/users/6996926) |
 | **The Alieppie Supremacy** | ![][flag_MY] **[Aleppie](https://osu.ppy.sh/users/766445)**, ![][flag_MY] [Alippie](https://osu.ppy.sh/users/13173302) |
 | **low combo SS** | ![][flag_MY] **[vernonlim](https://osu.ppy.sh/users/10167542)**, ![][flag_MY] [cloud_chaser02](https://osu.ppy.sh/users/7673764) |
 | **Mio Supremacy** | ![][flag_MY] **[Judicious](https://osu.ppy.sh/users/8087710)**, ![][flag_MY] [Changed](https://osu.ppy.sh/users/8009988) |
@@ -101,7 +101,7 @@ The osu! Battle Archive Malaysia was run by various community members.
 | **Ascendants** | ![][flag_MY] **[Inugami Korone](https://osu.ppy.sh/users/4474918)**, ![][flag_MY] [Mumei Nanashi](https://osu.ppy.sh/users/5414124/osu) |
 | **ur mom** | ![][flag_MY] **[Houshou Marine](https://osu.ppy.sh/users/6402211)**, ![][flag_MY] [Banner](https://osu.ppy.sh/users/14290988) |
 | **"oh no"** | ![][flag_MY] **[RushiaFanGirl](https://osu.ppy.sh/users/11918602)**, ![][flag_MY] [Illuxz](https://osu.ppy.sh/users/11916798) |
-| **雪花飘飘北风啸啸(Snowflakes fluttering north wind howling)** | ![][flag_MY] **[JKLiew02](https://osu.ppy.sh/users/17434745)**, ![][flag_MY] [Iyouka](https://osu.ppy.sh/users/7138499) |
+| **雪花飘飘北风啸啸 (Snowflakes Fluttering North Wind Howling)** | ![][flag_MY] **[JKLiew02](https://osu.ppy.sh/users/17434745)**, ![][flag_MY] [Iyouka](https://osu.ppy.sh/users/7138499) |
 | **Chicken Sandwich** | ![][flag_MY] **[fernsfurn](https://osu.ppy.sh/users/14831389)**, ![][flag_MY] [Fuurin_Desu](https://osu.ppy.sh/users/18173411) |
 | **LOLI ANNIHILATOR** | ![][flag_MY] **[xanotic](https://osu.ppy.sh/users/18097295)**, ![][flag_MY] [[MY]ISPROGILER](https://osu.ppy.sh/users/10911621) |
 | **poggers9000** | ![][flag_MY] **[Hinnoa](https://osu.ppy.sh/users/11001723)**, ![][flag_MY] [Havvik](https://osu.ppy.sh/users/9868585) |
@@ -123,7 +123,7 @@ The osu! Battle Archive Malaysia was run by various community members.
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Player |
+| Placing | Team |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **5 digit btw** (![][flag_MY] **[Zeph2003](https://osu.ppy.sh/users/10343292)**, ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **nomicstreamers** (![][flag_MY] **[DuoX](https://osu.ppy.sh/users/9560694)**, ![][flag_MY] [ShaneLiang](https://osu.ppy.sh/users/6716499)) |
@@ -419,7 +419,7 @@ Sunday, 26 September 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **123ganggang** | **6** | 1 | Brown Switch Gaming | [#1](https://osu.ppy.sh/community/matches/91515381) |
 | **Monkeybsns** | **6** | 0 | Sheep | [#1](https://osu.ppy.sh/community/matches/91517997) |
-| **Ascendants** | **6** | 2 | 洪家派贸易有限公司(hongjiapai trading co. ltd) | [#1](https://osu.ppy.sh/community/matches/91517870) |
+| **Ascendants** | **6** | 2 | 洪家派贸易有限公司 (Hongjiapai Trading Co., Ltd) | [#1](https://osu.ppy.sh/community/matches/91517870) |
 | pufferfishes | 2 | **6** | **ur mom** | [#1](https://osu.ppy.sh/community/matches/91520127) |
 | **Communist LSD enjoyers** | **6** | 1 | :seemsgood: | [#1](https://osu.ppy.sh/community/matches/91520137) |
 
@@ -443,7 +443,7 @@ Thursday, 16 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Brown Switch Gaming** | **5** | 3 | 早上好中国现在我有冰激淋我很喜欢冰激淋(Good Morning China I have Ice Cream now I Love Ice Cream) | [#1](https://osu.ppy.sh/community/matches/91035935) |
+| **Brown Switch Gaming** | **5** | 3 | 早上好中国现在我有冰激淋我很喜欢冰激淋 (Good Morning China I Have Ice Cream Now I Love Ice Cream) | [#1](https://osu.ppy.sh/community/matches/91035935) |
 
 Friday, 17 September 2021:
 
@@ -457,7 +457,7 @@ Saturday, 18 September 2021:
 | --: | :-: | :-: | :-- | :-- |
 | KEMOMIMI EDM SKWAD | 1 | **5** | **Sheep** | [#1](https://osu.ppy.sh/community/matches/91101361) |
 | TUYU Enjoyers | 3 | **5** | **stwopid** | [#1](https://osu.ppy.sh/community/matches/91103976) |
-| Like Father Like Son | 1 | **5** | **洪家派贸易有限公司(hongjiapai trading co. ltd)** | [#1](https://osu.ppy.sh/community/matches/91106492) |
+| Like Father Like Son | 1 | **5** | **洪家派贸易有限公司 (Hongjiapai Trading Co., Ltd)** | [#1](https://osu.ppy.sh/community/matches/91106492) |
 | Ahmad | 1 | **5** | **Amamiya Kokoro** | [#1](https://osu.ppy.sh/community/matches/91107642) |
 | **nomicstreamers** | **5** | 1 | :okniceperson: | [#1](https://osu.ppy.sh/community/matches/91108059) |
 
@@ -498,7 +498,7 @@ Sunday, 12 September 2021:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **"5 digit btw"** | **5** | 1 | KEMOMIMI EDM SKWAD | [#1](https://osu.ppy.sh/community/matches/90793204) |
-| **Ascendants** | **5** | 1 | 早上好中国现在我有冰激淋我很喜欢冰激淋(Good Morning China I have Ice Cream now I Love Ice Cream) | [#1](https://osu.ppy.sh/community/matches/90796718) |
+| **Ascendants** | **5** | 1 | 早上好中国现在我有冰激淋我很喜欢冰激淋 (Good Morning China I Have Ice Cream Now I Love Ice Cream) | [#1](https://osu.ppy.sh/community/matches/90796718) |
 | **Monkeybsns** | **5** | 0 | Chicken Sandwich | [#1](https://osu.ppy.sh/community/matches/90796727) |
 | **:seemsgood:** | **5** | 0 | Ahmad | [#1](https://osu.ppy.sh/community/matches/90797103) |
 | Amamiya Kokoro | 3 | **5** | **pufferfishes** | [#1](https://osu.ppy.sh/community/matches/90799380) |
@@ -509,7 +509,7 @@ Monday, 13 September 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| 洪家派贸易有限公司(hongjiapai trading co. ltd) | 4 | **5** | **123ganggang** | [#1](https://osu.ppy.sh/community/matches/90850024) |
+| 洪家派贸易有限公司 (Hongjiapai Trading Co., Ltd) | 4 | **5** | **123ganggang** | [#1](https://osu.ppy.sh/community/matches/90850024) |
 
 Tuesday, 14 September 2021:
 
@@ -527,28 +527,28 @@ Wednesday, 15 September 2021:
 
 ### General Rules
 
-1. osu! Battle Archive Malaysia uses double-elimination bracket and is a 2v2 osu! tournament.
+1. osu! Battle Archive Malaysia uses a double-elimination bracket and is a 2v2 osu! tournament.
 2. Only players with the country flag of ![][flag_MY] Malaysia may participate.
-3. Teams can only have 2 players, this means no substitution.
+3. Teams can only have 2 players. This means no substitution.
 4. The score system used will be **Score V2**.
-5. There is no solo rank range. However there is a team rank range. (BWS will be used)
-6. The 2 players must have an **average rank of #2,000 - #99,999**.
+5. There is no solo rank range. A team rank range using the Badge Weighting System (BWS) is used instead with the following formula: `rank^(0.9937^(badges^2))`.
+6. The 2 players must have an **average BWS rank of #2,000 - #99,999**.
 7. Teams will be seeded by **Qualifier seeding**.
-8. The bracket stage will be seeded as follows: A randomized **Top Seed** will face against a randomized **Low Seed** in the RO32. A randomized **High Seed** will face against a randomized **Mid Seed** in the RO32.
+8. The bracket stage will be seeded as follows: A randomised **Top Seed** will face against a randomized **Low Seed** in the RO32. A randomised **High Seed** will face against a randomized **Mid Seed** in the RO32.
 9. Grand Finals will have a **bracket reset** if the team coming from loser's bracket wins the first match.
 10. Match schedules and mappools **will be released on the Monday** before those matches should be played.
 11. Match schedules will be written in UTC+8.
-12. There will be pickems available **internationally** for anyone to have a chance to earn a prize, even if they aren't local.
+12. There will be pickems available **internationally** for anyone to have a chance at earning a prize, even if they aren't local.
 
 ### Qualifiers Rules
 
-1. Each Team's Captain will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
+1. Each team captain will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the tournament management in advance.
 2. In the lobby, all teams will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Teams **are not allowed** to join in (or register for) more than one Qualifier lobby.
-4. Based on their performance in the Qualifier, players will be ranked based on the amount of Z Score they accumulate.
-   - Z Score compares your team score relative to the average team score achieved in a map and assigns a value to it. Z-score is measured in terms of standard deviation of the team score from the mean team score achieved within that map. If your value is higher than 0, it means that your total team score is more than the average team score on that specific map, and vice versa with values lower than 0.
-   - Z Score is calculated PER MAP. Your Qualifiers standing will be determined by your team’s total Z Score on all 10 maps played, and will be sorted by ascending total Z Score, with the team with the highest total Z Score value placing 1st.
-5. The 32 Teams with the **lowest amount of Z Score in total** will advance to the Round of 32 as follows:
+4. Based on their performance in the Qualifier, players will be ranked based on the amount of Z-Score they accumulate.
+   - Z-Score compares your team score relative to the average team score achieved in a map and assigns a value to it. Z-Score is measured in terms of the standard deviation of the team score from the mean team score achieved within that map. If your value is higher than 0, it means that your total team score is more than the average team score on that specific map, and vice versa with values lower than 0.
+   - Z-Score is calculated PER MAP. Your Qualifiers standing will be determined by your team's total Z-Score on all 10 maps played, and will be sorted by ascending total Z-score, with the team with the highest total Z-Score value placing 1st.
+5. The 32 Teams with the **highest amount of Z-Score in total** will advance to the Round of 32 as follows:
 
 | Qualifier ranking | Round of 32 bracket |
 | :-: | :-- |
@@ -562,14 +562,14 @@ Wednesday, 15 September 2021:
 ### Match procedure
 
 1. The match lobby will be created by the referee, and all four players will be invited.
-2. Teams have a strict 15 minute grace period to have both players available to play the match. If 15 minutes pass and a team does not have enough players to play the match, the other team will receive a win by default.
-3. The referee can give host to the players for warmups only. The referee will clear host for the after warmups. A team will select a map by naming the map in the multiplayer chat for the referee to mpcommand.
-4. Both captains will execute `!roll` command. The team that get the highest number will get to pick the first map and then ban after another team pick which map will be banned.
+2. Teams have a strict 15-minute grace period to have both players available to play the match. If 15 minutes pass and a team does not have enough players to play the match, the other team will receive a win by default.
+3. The referee can give host to the players for warmups only. The referee will clear the host after warmups. A team will select a map by naming the map in the multiplayer chat for the referee to set.
+4. Both captains will do a `!roll`. The team with the higher number will get to pick the first map, and then both teams ban a map starting from the team with the lower number.
 5. Each team is obligated to ban **two beatmaps** from the mappool, with the first ban given prior to the beginning of the match and the second ban given after 4 maps have been played. These beatmaps are not allowed to be picked by any player during the entire match.
-6. In a FreeMod pick, Both players has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the four mods.
+6. In a FreeMod pick, both players have to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of those four mods.
    - Both teams need at least 1 **HR** or 1 **HD** (EZHD counts as using HD)
    - EZ will have their own independent multiplier depending on the FM pick.
-   - There is no bonus multiplier for FL
+   - There is no bonus multiplier for FL.
    - Playing a FreeMod pick without any mods activated is not allowed.
 7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
