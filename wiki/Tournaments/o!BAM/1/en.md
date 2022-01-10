@@ -409,7 +409,7 @@ Saturday, 25 September 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **:okniceperson:** | **6** | 1 | Amamiya Kokoro | [#1](https://osu.ppy.sh/community/matches/91443708)
 | **ur mom** | **6** | 1 | stwopid | [#1](https://osu.ppy.sh/community/matches/91450122)
-| **chunchunmaru Mio**** | **6** | 4 | Supremacy | [#1](https://osu.ppy.sh/community/matches/91454313)
+| **chunchunmaru** | **6** | 4 | Supremacy | [#1](https://osu.ppy.sh/community/matches/91454313)
 | **pufferfishes** | **6** | 4 | Horny 14s | [#1](https://osu.ppy.sh/community/matches/91456363)
 | **low combo SS** | **6** | 4 | Hutao Enjoyers | [#1](https://osu.ppy.sh/mp/91456569)
 
