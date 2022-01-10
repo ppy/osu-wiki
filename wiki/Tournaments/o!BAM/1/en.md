@@ -171,7 +171,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Noah - Immortal Saga (Chizu-Kun) \[Divinity\]](https://osu.ppy.sh/beatmapsets/1593842#osu/3255601)
   3. [Roselia - FIRE BIRD (fogo) \[Hitze\]](https://osu.ppy.sh/beatmapsets/1078199#osu/2256146)
   4. [kiraku - connection (Halgoh) \[descent into the cybertech swamp\]](https://osu.ppy.sh/beatmapsets/1317565#osu/2729871)
-  5. [Camellia - *Feels Seasickness...* (taku) \[mal de mer\]](https://osu.ppy.sh/beatmapsets/1002687#osu/2098737)
+  5. [Camellia - \*Feels Seasickness...\* (taku) \[mal de mer\]](https://osu.ppy.sh/beatmapsets/1002687#osu/2098737)
   6. [DUSTCELL - CULT (anna apple) \[Love, Assault, and Worship\]](https://osu.ppy.sh/beatmapsets/1271997#osu/2643204)
 - Hidden
   1. [Ogura Yui - Clear Morning (Rtyzen) \[Extra\]](https://osu.ppy.sh/beatmapsets/1593625#osu/3255137)
