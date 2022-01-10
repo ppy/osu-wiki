@@ -61,7 +61,7 @@ The osu! Battle Archive Malaysia is run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| **nomicstreamers** | ![][flag_MY] **[DuoX](https://osu.ppy.sh/users/9560694)**, ![][flag_SG] [ShaneLiang](https://osu.ppy.sh/users/6716499) |
+| **nomicstreamers** | ![][flag_MY] **[DuoX](https://osu.ppy.sh/users/9560694)**, ![][flag_MY] [ShaneLiang](https://osu.ppy.sh/users/6716499) |
 | **:seemsgood:** | ![][flag_MY] **[malaidan](https://osu.ppy.sh/users/14279913)**, ![][flag_MY] [haruchi](https://osu.ppy.sh/users/4845266) |
 | **1v2** | ![][flag_MY] **[Kumaxione](https://osu.ppy.sh/users/2582531)**, ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) |
 | **Cokoroi** | ![][flag_MY] **[Beckon](https://osu.ppy.sh/users/5114388)**, ![][flag_MY] [Low Sens Player](https://osu.ppy.sh/users/8892909) |
