@@ -319,7 +319,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Sangatsu no Phantasia - Pink Lemonade (Chirony) \[Expert\]](https://osu.ppy.sh/beatmapsets/941246#osu/1965652)
   2. [slythe - cyber imagination (Mismagius) \[Present™\]](https://osu.ppy.sh/beatmapsets/790282#osu/2138306)
 - DoubleTime
-  1. [Hua Ling / Miao*Jiang / Yan Ning / kinsen - Let the Wind Tell You (Moecho) \[About the Sunsets, the Moonlights, and the Starry Skies\]](https://osu.ppy.sh/beatmapsets/1378997#osu/2849349)
+  1. [Hua Ling / Miao\*Jiang / Yan Ning / kinsen - Let the Wind Tell You (Moecho) \[About the Sunsets, the Moonlights, and the Starry Skies\]](https://osu.ppy.sh/beatmapsets/1378997#osu/2849349)
   2. [Kiryu - Meltdown (fartownik) \[Nuclear\]](https://osu.ppy.sh/beatmapsets/666564#osu/1410772)
 
 ## Match results
