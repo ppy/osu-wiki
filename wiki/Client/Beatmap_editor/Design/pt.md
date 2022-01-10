@@ -1,11 +1,11 @@
 # Design
 
-O **Editor de Storyboard** é uma seção do [Editor de Beatmap](/wiki/Beatmap_Editor), localizado na aba Design, que permite a criação simplificada de [Storyboards](/wiki/Storyboard), e é normalmente uma boa introdução para o conceito antes de tentar fazer [Storyboard Scripting](/wiki/Storyboard/Scripting).
+O **Editor de Storyboard** é uma seção do [Editor de Beatmap](/wiki/Client/Beatmap_editor), localizado na aba Design, que permite a criação simplificada de [Storyboards](/wiki/Storyboard), e é normalmente uma boa introdução para o conceito antes de tentar fazer [Storyboard Scripting](/wiki/Storyboard/Scripting).
 
 ## Destaques
 
 - Mostra as coordenadas de onde o cursor esta e sua orientação na linha do tempo (em milissegundos).
-- Mostra o nivel de [SB Load](/wiki/Beatmap_Editor/SB_Load) de todas as imagens visíveis.
+- Mostra o nivel de [SB Load](/wiki/Client/Beatmap_editor/SB_Load) de todas as imagens visíveis.
 - Diferentes camadas selecionáveis (background, failing, passing, foreground, e [Hit Objects](/wiki/Hit_object)).
 - Efeitos de manipulação principais:
   - Movement (Movimento)

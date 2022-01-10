@@ -14,13 +14,13 @@ Une **beatmap** (parfois appelée *beatmapset*) est un ensemble de niveaux ([dif
 - Un [storyboard](/wiki/Storyboard) avec des mouvements graphiques et des effets spéciaux, servant d'animation de fond ou de thème pour la musique (optionnel).
 - Un [skin personnalisé](/wiki/Skinning), qui change l'apparence de l'interface et des éléments de jeu (optionnels).
 
-*Note: Quelques fonctionnalités visuelles et audio peuvent être désactivées via la fenêtre des [paramètres graphiques](/wiki/Visual_Settings)*
+*Note: Quelques fonctionnalités visuelles et audio peuvent être désactivées via la fenêtre des [paramètres graphiques](/wiki/Client/Interface/Visual_settings)*
 
 ## Difficulté
 
 *Article principal: [Difficultés](/wiki/Beatmap/Difficulty)*
 
-Une *difficulté* est un fichier avec [l'extension `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) qui décrit le positionnement des éléments d'une beatmap, des hitsounds et d'effets spéciaux comme le [kiai time](/wiki/Kiai_time). Elle contient également des [paramètres de difficulté](/wiki/Beatmap_Editor/Song_Setup#difficulté) et d'autres paramètres qui affectent directement le jeu. Les difficultés d'une beatmap ont des structures différentes et peuvent parfois n'être jouées que dans un seul [mode de jeu](/wiki/Game_mode). Le système de [notation par étoile](/wiki/Beatmapping/Star_rating) est utilisé pour se donner une idée du niveau requis pour jouer une difficulté.
+Une *difficulté* est un fichier avec [l'extension `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) qui décrit le positionnement des éléments d'une beatmap, des hitsounds et d'effets spéciaux comme le [kiai time](/wiki/Kiai_time). Elle contient également des [paramètres de difficulté](/wiki/Client/Beatmap_editor/Song_Setup#difficulté) et d'autres paramètres qui affectent directement le jeu. Les difficultés d'une beatmap ont des structures différentes et peuvent parfois n'être jouées que dans un seul [mode de jeu](/wiki/Game_mode). Le système de [notation par étoile](/wiki/Beatmapping/Star_rating) est utilisé pour se donner une idée du niveau requis pour jouer une difficulté.
 
 ## Publication
 

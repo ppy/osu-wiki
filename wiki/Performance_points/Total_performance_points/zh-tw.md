@@ -11,4 +11,4 @@ tags:
 
 所有玩家的總 pp 排名能在 [全球排行榜](https://osu.ppy.sh/rankings/osu/performance) 找到。亦可將游標停在網站的頂部選單的`排行榜`上，並點擊`成績`。
 
-玩家的個人排名在 osu! 的[介面](/wiki/Interface)中也隨處可見。
+玩家的個人排名在 osu! 的[介面](/wiki/Client/Interface)中也隨處可見。

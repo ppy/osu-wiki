@@ -117,7 +117,7 @@ Observações:
 - Para ter multiplos combobursts, use: `comboburst-mania-{n}.png`.
   - Uma das imagens no conjunto vai aparecer quando um marco de combo for atingido.
 - Estes combobursts são especificamente apenas para o modo osu!mania
-- Pode ser desativado nas [options](/wiki/Options).
+- Pode ser desativado nas [options](/wiki/Client/Options).
 - Ao contrário do modo osu! e osu!catch combobursts, os lados das imagens do conjunto não devem ser cortadas.
 
 ## Receptores

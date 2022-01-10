@@ -1,10 +1,10 @@
 # Assistant de décalage
 
-*Voir également : [Comment utiliser l'assistant de décalage](/wiki/Guides/How_to_Use_the_Offset_Wizard) et [Décalage universel](/wiki/Universal_offset).*
+*Voir également : [Comment utiliser l'assistant de décalage](/wiki/Guides/How_to_Use_the_Offset_Wizard) et [Décalage universel](/wiki/Client/Options/Universal_offset).*
 
-L'**Assistant de décalage** est un outil intégré qui aide l'utilisateur à calibrer le [décalage universel](/wiki/Universal_offset) à la valeur correcte pour son appareil. Cela est nécessaire lorsque les [hitsounds](/wiki/Beatmapping/Hitsound) ne sont pas synchronisés avec la musique, et ce pour chaque beatmap que vous jouez. Pour plus d'informations sur la façon de procéder, voir [Comment utiliser l'assistant de décalage](/wiki/Guides/How_to_Use_the_Offset_Wizard).
+L'**Assistant de décalage** est un outil intégré qui aide l'utilisateur à calibrer le [décalage universel](/wiki/Client/Options/Universal_offset) à la valeur correcte pour son appareil. Cela est nécessaire lorsque les [hitsounds](/wiki/Beatmapping/Hitsound) ne sont pas synchronisés avec la musique, et ce pour chaque beatmap que vous jouez. Pour plus d'informations sur la façon de procéder, voir [Comment utiliser l'assistant de décalage](/wiki/Guides/How_to_Use_the_Offset_Wizard).
 
-Pour accéder à l'assistant de décalage, ouvrez le menu [Options](/wiki/Options) et tapez `décalage` dans la barre de recherche rapide. Cliquez ensuite sur le bouton `Démarrer l'assistant`.
+Pour accéder à l'assistant de décalage, ouvrez le menu [Options](/wiki/Client/Options) et tapez `décalage` dans la barre de recherche rapide. Cliquez ensuite sur le bouton `Démarrer l'assistant`.
 
 À l'ouverture de l'assistant de décalage, l'utilisateur est accueilli par le tic-tac d'un métronome et par des barres vertes verticales défilant à l'écran de manière répétée. La dernière chanson sélectionnée commence à être jouée, mais il est possible de la modifier grâce au juke-box situé dans le coin supérieur droit de l'écran.
 

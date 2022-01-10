@@ -8,7 +8,7 @@ tags:
 
 # Project Loved Team
 
-**Project Loved Team** merupakan gugus pengguna (*usergroup*) yang bertugas untuk mengelola keberlangsungan [Project Loved](/wiki/Project_Loved). Adapun Project Loved sendiri merupakan suatu sistem yang bertujuan untuk mempromosikan sekumpulan [beatmap](/wiki/Beatmap) ke dalam kategori [Loved](/wiki/Beatmap/Category#loved) berdasarkan hasil jajak pendapat publik. Mereka dibedakan oleh sebuah lencana yang bertuliskan `LVD` dan warna nama pengguna yang berwarna pink permen di forum.
+**Project Loved Team** merupakan gugus pengguna (*usergroup*) yang bertugas untuk mengelola keberlangsungan [Project Loved](/wiki/Community/Project_Loved). Adapun Project Loved sendiri merupakan suatu sistem yang bertujuan untuk mempromosikan sekumpulan [beatmap](/wiki/Beatmap) ke dalam kategori [Loved](/wiki/Beatmap/Category#loved) berdasarkan hasil jajak pendapat publik. Mereka dibedakan oleh sebuah lencana yang bertuliskan `LVD` dan warna nama pengguna yang berwarna pink permen di forum.
 
 [Halaman grup Project Loved](https://osu.ppy.sh/groups/31) mencantumkan semua anggota tim.
 

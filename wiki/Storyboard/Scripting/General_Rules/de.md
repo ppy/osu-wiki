@@ -22,7 +22,7 @@
   - Üblicher Spielbereich ist 510 Pixel breit und 385 Pixel hoch `(510x385)`.
 - Koordinaten sind spezifiziert durch X (positive Werte gehen nach rechts) und Y (positive Werte gehen nach unten), der Nullpunkt (0,0) liegt daher auf der oberen, linken Ecke vom Bildschirm. Dies unterscheidet sich vom traditionellen, euklidischen Koordinatensystem, ist aber jedoch noch das meist verwendeste Computer-Grafiksystemen.
 - Ihnen ist es nicht gestattet Koordinaten außerhalb des Bereiches zu verwenden (z. B. für Sprites, die sich außerhalb der Zone in die Zone bewegen).
-- Die Koordinaten von Ihrem Cursor werden auch im [Beatmap Editor](/wiki/Beatmap_Editor) im Tab "Design" angezeigt.
+- Die Koordinaten von Ihrem Cursor werden auch im [Beatmap Editor](/wiki/Client/Beatmap_editor) im Tab "Design" angezeigt.
 
 **Editor Koordinaten:**
 

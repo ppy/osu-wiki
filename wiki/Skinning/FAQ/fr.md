@@ -248,7 +248,7 @@ Si vous voulez supprimer un élément, vous devez utiliser une image transparent
 
 Il y a deux façons de procéder :
 
-- Désactiver les lueurs de fond dans les [options](/wiki/Options).
+- Désactiver les lueurs de fond dans les [options](/wiki/Client/Options).
 - Utilisez une image transparente appelée `lighting.png` dans votre skin.
 
 ##### Je parlais des particules après le clic !

@@ -4,7 +4,7 @@ no_native_review: true
 
 # Veto d'une beatmap
 
-Le *veto d'une beatmap* permet à un [Beatmap Nominator](/wiki/People/Beatmap_Nominators) de ne pas qualifier une beatmap s'il estime qu'il existe des problèmes importants concernant la qualité de la beatmap qui la rendent impropre à la section [classée](/wiki/Beatmap/Category#classée). L'une de leurs principales responsabilités est de chercher à discuter ou à clarifier tout problème de qualité qui, selon eux, doit être résolu avant que la map ne puisse passer à la [qualification](/wiki/Beatmap_ranking_procedure#qualification).
+Le *veto d'une beatmap* permet à un [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) de ne pas qualifier une beatmap s'il estime qu'il existe des problèmes importants concernant la qualité de la beatmap qui la rendent impropre à la section [classée](/wiki/Beatmap/Category#classée). L'une de leurs principales responsabilités est de chercher à discuter ou à clarifier tout problème de qualité qui, selon eux, doit être résolu avant que la map ne puisse passer à la [qualification](/wiki/Beatmap_ranking_procedure#qualification).
 
 Tout Beatmap Nominator peut mettre un veto sur une beatmap, à condition qu'il soit formellement qualifié pour le(s) mode(s) de jeu en question, comme indiqué dans les [règles des Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators/Rules). Chaque veto d'une beatmap doit être discuté par les deux parties - le mappeur ainsi que le Nominateur mettant le veto sur la beatmap - dans le but de trouver un compromis.
 

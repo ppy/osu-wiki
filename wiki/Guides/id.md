@@ -7,7 +7,7 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 *Halaman utama: [Beatmapping](/wiki/Beatmapping)*
 
 - [Panduan menyunting audio](Audio_Editing)
-- [Mengubah judul teks](/wiki/Beatmap/Title_Text#mengganti-judul-teks)
+- [Mengubah judul teks](/wiki/Beatmap/Title_text#mengganti-judul-teks)
 - [Mengompres berkas](Compressing_files)
 - [Daftar hitsound khusus](Custom_Hitsound_Library)
 - [Custom sample overrides](Custom_Sample_Overrides)

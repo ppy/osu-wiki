@@ -409,7 +409,7 @@ Sunday, 10\. May 2015
 3. 比赛日程将会由赛事管理小组公布（暂未公布）。
 4. 如果没有工作人员或者裁判在，比赛会被延期。
 5. 如果有玩家失败，失败的玩家的分数将不会计算分数。
-6. 允许使用 [Visual Settings](/wiki/Visual_Settings) 。
+6. 允许使用 [Visual Settings](/wiki/Client/Interface/Visual_settings) 。
 7. 如果比赛以平分结束（所有人的分数一样），该局比赛无效。
 8. 掉线玩家判为游戏失败。
 9. 除非比赛无效，比赛用图不能在该场比赛中再次使用。

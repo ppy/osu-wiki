@@ -8,7 +8,7 @@
 
 ### 난이도명(Difficulty names)
 
-*메인 문서: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*메인 문서: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
