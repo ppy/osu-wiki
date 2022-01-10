@@ -113,7 +113,7 @@ The osu! Battle Archive Malaysia is run by various community members.
 | **pen el grande** | ![][flag_MY] **[Zervail](https://osu.ppy.sh/users/13047340)**, ![][flag_MY] [DARKWEBXD](https://osu.ppy.sh/users/13060849) |
 | **amriourmommy** | ![][flag_MY] **[\[Fubuki\]](https://osu.ppy.sh/users/14411486)**, ![][flag_MY] [GideonTan](https://osu.ppy.sh/users/17426621) |
 | **Monkeybsns** | ![][flag_MY] **[ClawViper](https://osu.ppy.sh/users/2681361)**, ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134) |
-| **aidanyunusfanclub** | ![][flag_MY] **[pootisman1547](https://osu.ppy.sh/users/6611419)**, ![][flag_MY] [#RESTRICTED](https://osu.ppy.sh/users/18897374) |
+| **aidanyunusfanclub** | ![][flag_MY] **[pootisman1547](https://osu.ppy.sh/users/6611419)**, ![][flag_MY] [PenguinMann](https://osu.ppy.sh/users/18897374) |
 | **HD Sairyō** | ![][flag_MY] **[Benzi_LZK](https://osu.ppy.sh/users/12017783)**, ![][flag_MY] [Wish_](https://osu.ppy.sh/users/14300067) |
 | **wodehek** | ![][flag_MY] **[-Aozora](https://osu.ppy.sh/users/9720319)**, ![][flag_MY] [jon_yy](https://osu.ppy.sh/users/17402630) |
 | **Moist Shades** | ![][flag_MY] **[Aasheda_](https://osu.ppy.sh/users/7614055)**, ![][flag_MY] [ManzMalaya](https://osu.ppy.sh/users/3999924) |
