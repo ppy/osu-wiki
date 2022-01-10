@@ -84,7 +84,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | ![][flag_RO] | **Romania** | **[robby250](https://osu.ppy.sh/users/2653437)**, [AlexPlayz OSU](https://osu.ppy.sh/users/18341280), [fakebrin](https://osu.ppy.sh/users/8185118) |
 | ![][flag_RU] | **Russian Federation** | **[Mage](https://osu.ppy.sh/users/5527957)**, [Legend27](https://osu.ppy.sh/users/6283029), [karayss](https://osu.ppy.sh/users/7156634), [Illumnus](https://osu.ppy.sh/users/9504954) |
 | ![][flag_SG] | **Singapore** | **[DarryllV](https://osu.ppy.sh/users/11759693)**, [awdse22](https://osu.ppy.sh/users/8743513), [ByeForNow](https://osu.ppy.sh/users/7199159), [Paralit](https://osu.ppy.sh/users/876528) |
-| ![][flag_KR] | **South Korea** | **[Estonians](https://osu.ppy.sh/users/7014697)**, [yz1155](https://osu.ppy.sh/users/2071008), [dressurf](https://osu.ppy.sh/users/758406), [133](https://osu.ppy.sh/users/12346181) |
+| ![][flag_KR] | **South Korea** | **[Estonians](https://osu.ppy.sh/users/7014697)**, [yz1155](https://osu.ppy.sh/users/2071008), [dressurf](https://osu.ppy.sh/users/758406), [0133](https://osu.ppy.sh/users/12346181) |
 | ![][flag_ES] | **Spain** | **[aitor98](https://osu.ppy.sh/users/3154852)**, [CrewK fanboy](https://osu.ppy.sh/users/7860283), [Notpx-](https://osu.ppy.sh/users/8519296), [Quenlla](https://osu.ppy.sh/users/4725379) |
 | ![][flag_SE] | **Sweden** | **[Sadcat](https://osu.ppy.sh/users/4123399)**, [Craty](https://osu.ppy.sh/users/3918056), [Vortex-](https://osu.ppy.sh/users/4999669) |
 | ![][flag_CH] | **Switzerland** | **[Akayro](https://osu.ppy.sh/users/2573716)**, [Gamer97](https://osu.ppy.sh/users/4952941) |
