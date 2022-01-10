@@ -35,7 +35,7 @@ Le premier osu! community meeting a eu lieu le 19 septembre 2021. Tous les meeti
 | 4 | [14 novembre 2021](https://youtu.be/rEWgTY-L95Y) | [Document de synthèse](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) | Processus de développement des points de performance, diverses questions de la communauté, mise à jour concernant le développement |
 | 5 | [28 novembre 2021](https://youtu.be/SqMrY26Q6Tw) | [Document de synthèse](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) |  Questions diverses de la communauté, mise à jour concernant le développement |
 | 6 | [11 décembre 2021](https://youtu.be/dtGjIyTFtMA) | [Document de synthèse](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) | L'avenir des osu! World Cups, questions diverses sur la communauté |
-| 7 | [18 décembre 2021](https://www.twitch.tv/videos/1236856715) | [Document de synthèse](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) | peppy répond à diverses controverses et drames dans la communauté |
+| 7 | [18 décembre 2021](https://youtu.be/v-LgY3UKhkg) | [Document de synthèse](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) | peppy répond à diverses controverses et drames dans la communauté |
 | 8 | [9 janvier 2022](https://youtu.be/JXgQ6YEDCGg) | [Document de synthèse](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | Mécanique des HP (drain de santé), questions diverses de la communauté |
 
 ## Liens associés
