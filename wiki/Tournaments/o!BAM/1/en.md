@@ -7,7 +7,7 @@ tags:
 
 ![o!BAM banner](img/banner.png) 
 
-The **osu! Battle Archive Malaysia** (***o!BAM***) is a was a Malaysian double-elimination 2v2 osu! tournament hosted by ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292) and ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976) This was the first instalment of the osu! Battle Archive Malaysia.
+The **osu! Battle Archive Malaysia** (***o!BAM***) was a Malaysian double-elimination 2v2 osu! tournament hosted by ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292) and ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976). It was the first instalment of the osu! Battle Archive Malaysia.
 
 ## Tournament schedule
 
