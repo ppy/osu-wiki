@@ -480,7 +480,7 @@ Friday, 10 September 2021:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **cutest malaysia couple** | **5** | 1 | Like Father Like Son | [#1](https://osu.ppy.sh/mp/90671087) |
-| **nomicstreamers** | **5** | 0 | | The Maid of Orléans | [#1](https://osu.ppy.sh/community/matches/90674004) |
+| **nomicstreamers** | **5** | 0 | The Maid of Orléans | [#1](https://osu.ppy.sh/community/matches/90674004) |
 
 Saturday, 11 September 2021:
 
