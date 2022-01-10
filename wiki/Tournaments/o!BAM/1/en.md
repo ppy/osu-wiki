@@ -539,6 +539,7 @@ Wednesday, 15 September 2021:
 12. There will be pickems available **internationally** for anyone to have a chance to earn a prize, even if they aren't local.
 
 ### Qualifiers Rules
+
 1. Each Team's Captain will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
 2. In the lobby, all teams will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Teams **are not allowed** to join in (or register for) more than one Qualifier lobby.
