@@ -360,6 +360,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Yuri Cup](YC/1) | 2020-02-22 | 2020-04-05 | Corim's Bad Dream | a la verga | Rtzero x Rtzer0 |
 
+### osu! Battle Archive Malaysia
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Battle Archive Malaysia](o!BAM/1) | 2021-08-10 | 2021-10-17 | 5 digit btw | nomicstreamers | Communist LSD enjoyers |
+
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 #### 3 Digit Taiko World Cup
@@ -456,12 +462,6 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Vaf's Autumn Fiesta](VAF/1) | 2021-05-15 | 2021-07-11 | ![][flag_JP] [yu-k1\_](https://osu.ppy.sh/users/16347853) | ![][flag_HK] [J a c k y](https://osu.ppy.sh/users/8011704) | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
-
-### osu! Battle Archive Malaysia
-
-| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! Battle Archive Malaysia](o!BAM/1) | 2021-08-10 | 2021-10-17 | 5 digit btw | nomicstreamers | Communist LSD enjoyers |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
