@@ -7,14 +7,14 @@ tags:
 
 ![o!BAM banner](img/banner.png) 
 
-The **osu! Battle Archive Malaysia** (***o!BAM***) is a was a Malaysian double-elimination 2v2 osu! tournament hosted by ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292) and ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976) This was the first instalment of the osu! Battle Archive Malaysia.
+The **osu! Battle Archive Malaysia** (***o!BAM***) was a Malaysian double-elimination 2v2 osu! tournament hosted by ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292) and ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976). It was the first instalment of the osu! Battle Archive Malaysia.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2021-08-10/2021-08-29 |
-| Qualifiers | 2021-09-04/2021-09-05
+| Qualifiers | 2021-09-04/2021-09-05 |
 | Live drawings | 2021-09-06 (21:00 UTC+8) |
 | Round of 32 | 2021-09-11/2021-09-12 |
 | Round of 16 | 2021-09-18/2021-09-19 |
@@ -171,7 +171,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Noah - Immortal Saga (Chizu-Kun) \[Divinity\]](https://osu.ppy.sh/beatmapsets/1593842#osu/3255601)
   3. [Roselia - FIRE BIRD (fogo) \[Hitze\]](https://osu.ppy.sh/beatmapsets/1078199#osu/2256146)
   4. [kiraku - connection (Halgoh) \[descent into the cybertech swamp\]](https://osu.ppy.sh/beatmapsets/1317565#osu/2729871)
-  5. [Camellia - *Feels Seasickness...* (taku) \[mal de mer\]](https://osu.ppy.sh/beatmapsets/1002687#osu/2098737)
+  5. [Camellia - \*Feels Seasickness...\* (taku) \[mal de mer\]](https://osu.ppy.sh/beatmapsets/1002687#osu/2098737)
   6. [DUSTCELL - CULT (anna apple) \[Love, Assault, and Worship\]](https://osu.ppy.sh/beatmapsets/1271997#osu/2643204)
 - Hidden
   1. [Ogura Yui - Clear Morning (Rtyzen) \[Extra\]](https://osu.ppy.sh/beatmapsets/1593625#osu/3255137)
@@ -319,7 +319,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Sangatsu no Phantasia - Pink Lemonade (Chirony) \[Expert\]](https://osu.ppy.sh/beatmapsets/941246#osu/1965652)
   2. [slythe - cyber imagination (Mismagius) \[Present™\]](https://osu.ppy.sh/beatmapsets/790282#osu/2138306)
 - DoubleTime
-  1. [Hua Ling / Miao*Jiang / Yan Ning / kinsen - Let the Wind Tell You (Moecho) \[About the Sunsets, the Moonlights, and the Starry Skies\]](https://osu.ppy.sh/beatmapsets/1378997#osu/2849349)
+  1. [Hua Ling / Miao\*Jiang / Yan Ning / kinsen - Let the Wind Tell You (Moecho) \[About the Sunsets, the Moonlights, and the Starry Skies\]](https://osu.ppy.sh/beatmapsets/1378997#osu/2849349)
   2. [Kiryu - Meltdown (fartownik) \[Nuclear\]](https://osu.ppy.sh/beatmapsets/666564#osu/1410772)
 
 ## Match results
@@ -409,7 +409,7 @@ Saturday, 25 September 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **:okniceperson:** | **6** | 1 | Amamiya Kokoro | [#1](https://osu.ppy.sh/community/matches/91443708)
 | **ur mom** | **6** | 1 | stwopid | [#1](https://osu.ppy.sh/community/matches/91450122)
-| **chunchunmaru Mio**** | **6** | 4 | Supremacy | [#1](https://osu.ppy.sh/community/matches/91454313)
+| **chunchunmaru** | **6** | 4 | Supremacy | [#1](https://osu.ppy.sh/community/matches/91454313)
 | **pufferfishes** | **6** | 4 | Horny 14s | [#1](https://osu.ppy.sh/community/matches/91456363)
 | **low combo SS** | **6** | 4 | Hutao Enjoyers | [#1](https://osu.ppy.sh/mp/91456569)
 
