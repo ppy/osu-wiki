@@ -527,7 +527,7 @@ Wednesday, 15 September 2021:
 
 ### General Rules
 
-1. osu!Battle Archive Malaysia uses double-elimination bracket and is a 2v2 osu! tournament.
+1. osu! Battle Archive Malaysia uses double-elimination bracket and is a 2v2 osu! tournament.
 2. Only players with the country flag of ![][flag_MY] Malaysia may participate.
 3. Teams can only have 2 players, this means no substitution.
 4. The score system used will be **Score V2**.
