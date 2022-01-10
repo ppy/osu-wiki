@@ -42,7 +42,7 @@ The osu! Battle Archive Malaysia was run by various community members.
 | Mappool selector | ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |
 | Streamer | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [Koyaiba](https://osu.ppy.sh/users/7062729) |
 | Commentator | ![][flag_MY] [MyAngelFable](https://osu.ppy.sh/users/11234664), ![][flag_MY] [Malaidan](https://osu.ppy.sh/users/14279913), ![][flag_MY] [fancyyy](https://osu.ppy.sh/users/12616268), ![][flag_MY] [sealw4ll](https://osu.ppy.sh/users/12289818), ![][flag_MY] [Banner](https://osu.ppy.sh/users/14290988), ![][flag_MY] [MinaMyoui](https://osu.ppy.sh/users/6996926), ![][flag_MY] [IHateAutoNicks](https://osu.ppy.sh/users/10758397), ![][flag_MY] [Chiyuu](https://osu.ppy.sh/users/8226107), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612) |
-| Referee | ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594),![][flag_VN] [rock-on](https://osu.ppy.sh/users/9676089), ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706), ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846), ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777), ![][flag_MY] [Wen4ng3L](https://osu.ppy.sh/users/9288833), ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [MinaMyoui](https://osu.ppy.sh/users/6996926) |
+| Referee | ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_VN] [rock-on](https://osu.ppy.sh/users/9676089), ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706), ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846), ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777), ![][flag_MY] [Wen4ng3L](https://osu.ppy.sh/users/9288833), ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [MinaMyoui](https://osu.ppy.sh/users/6996926) |
 | Graphic designer | ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594) |
 | Spreadsheet manager | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976) |
 | Statistician | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Khoo Hao Yit](https://osu.ppy.sh/users/9534110) |
@@ -567,7 +567,7 @@ Wednesday, 15 September 2021:
 4. Both captains will do a `!roll`. The team with the higher number will get to pick the first map, and then both teams ban a map starting from the team with the lower number.
 5. Each team is obligated to ban **two beatmaps** from the mappool, with the first ban given prior to the beginning of the match and the second ban given after 4 maps have been played. These beatmaps are not allowed to be picked by any player during the entire match.
 6. In a FreeMod pick, both players have to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of those four mods.
-   - Both teams need at least 1 **HR** or 1 **HD** (EZHD counts as using HD)
+   - Both teams need at least 1 **HR** or 1 **HD** (EZHD counts as using HD).
    - EZ will have their own independent multiplier depending on the FM pick.
    - There is no bonus multiplier for FL.
    - Playing a FreeMod pick without any mods activated is not allowed.
