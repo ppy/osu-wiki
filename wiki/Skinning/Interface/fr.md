@@ -1160,6 +1160,7 @@ Notes :
 - Cet élément représente la zone de "dépassement".
 - Cet élément n'est pas utilisé dans [osu!mania](/wiki/Game_mode/osu!mania).
 - Position Y à 16 ; la position x est placée à la fin de `scorebar-colour.png` recadrée.
+- Un fichier `scorebar-colour.png` est nécessaire pour que cet élément apparaisse.
 
 ---
 
@@ -1177,6 +1178,7 @@ Notes :
 - cet élément représente la zone "d'alerte".
 - Cet élément n'est pas utilisé dans [osu!mania](/wiki/Game_mode/osu!mania).
 - Position Y à 16 ; la position x est placée à la fin de la `scorebar-colour.png` recadrée.
+- Un fichier `scorebar-colour.png` est nécessaire pour que cet élément apparaisse.
 
 ---
 
@@ -1194,6 +1196,7 @@ Notes :
 - Cet élément représente la zone "critique".
 - Cet élément n'est pas utilisé dans [osu!mania](/wiki/Game_mode/osu!mania).
 - Position Y à 16 ; la position x est placée à la fin de la `scorebar-colour.png` recadrée.
+- Un fichier `scorebar-colour.png` est nécessaire pour que cet élément apparaisse.
 
 ---
 
