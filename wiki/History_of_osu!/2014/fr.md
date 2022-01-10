@@ -26,7 +26,7 @@ Le 21 août 2014, un [newspost](https://osu.ppy.sh/home/news/2014-08-21-restruct
 
 ## Octobre
 
-Le mois d'octobre a apporté une poignée de nouveaux ajouts au jeu de base, notamment un nouvel écran de connexion et un nouveau système de défilement dans [osu!mania](/wiki/Game_mode/osu!mania) basé sur le BPM de la beatmap, de nouvelles séquences d'intro et d'outro, et une chanson de thème personnalisée qui devait être jouée au démarrage (par opposition à une beatmap aléatoire).
+Le mois d'octobre a apporté une poignée de nouveaux ajouts au jeu de base, notamment un nouvel écran de connexion et un nouveau système de défilement dans [osu!mania](/wiki/Game_mode/osu!mania) basé sur le BPM de la beatmap, de nouvelles séquences d'intro et d'outro, et un thème musical personnalisé qui devait être jouée au démarrage (par opposition à une beatmap aléatoire).
 
 De plus, [peppy](https://osu.ppy.sh/users/2) a également publié la version "osu!test" (désormais connue sous le nom de "Cutting Edge") pour tous les joueurs, et non plus seulement pour les [osu!supporter](https://osu.ppy.sh/home/support), afin de faciliter les efforts de débogage.
 

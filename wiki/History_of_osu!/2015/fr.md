@@ -20,7 +20,7 @@ Les tout premiers autocollants osu! Beatmap Blueprint ont été ajoutés à l'[o
 
 La prise en charge de la [télécommande Wii](https://en.wikipedia.org/wiki/Wii_Remote) a été ajoutée pour [osu!taiko](/wiki/Game_mode/osu!taiko) le 26 mars 2015 [[5]][r].
 
-Le 31 mars 2015, les [osu!coins](/wiki/History_of_osu!/April_Fools#osu!coins) ont été ajoutées comme monnaie de jeu pour osu! dans le cadre d'une blague de poisson d'avril. Ces pièces ont été créées pour parodier l'utilisation courante de la monnaie du jeu et des [microtransactions](https://en.wikipedia.org/wiki/Microtransaction) dans les jeux mobiles [free-to-play](https://fr.wikipedia.org/wiki/Free-to-play). Les osu!coins ont été rapidement retirées le jour suivant.
+Le 31 mars 2015, les [osu!coins](/wiki/History_of_osu!/April_Fools#osu!coins) ont été ajoutés comme monnaie de jeu pour osu! dans le cadre d'une blague de poisson d'avril. Ces pièces ont été créées pour parodier l'utilisation courante de la monnaie du jeu et des [microtransactions](https://en.wikipedia.org/wiki/Microtransaction) dans les jeux mobiles [free-to-play](https://fr.wikipedia.org/wiki/Free-to-play). Les osu!coins ont été rapidement retirés le jour suivant.
 
 ## Avril
 
@@ -38,7 +38,7 @@ L'ancien classement des Beatmap Nominator (BN) a été entièrement déprécié 
 
 Parmi les changements et les annonces faites autour du classement des beatmaps, [un changement a été apporté au processus de classement](https://osu.ppy.sh/community/forums/topics/325973) le 5 mai 2015 qui a permis aux joueurs de contester les disqualifications faites par la Quality Assurance Team (QAT), en raison de l'absence de tout moyen de contester les problèmes que la QAT peut soulever. Le nouveau changement a permis de soumettre un formulaire en cas de litige, où une décision finale pourrait être prise concernant une beatmap et s'il elle est prête à être classée [[12]][r].
 
-La [chaîne YouTube osu!news](https://www.youtube.com/channel/UCZKQIqv9O2tddMNUMAxWaqQ) a téléchargé sa [première vidéo](https://www.youtube.com/watch?v=KQbudVxEjr8) au public le 8 mai 2015. La chaîne était gérée par différents membres de la communauté et visait à créer des vidéos sur les skins, les tournois, le mapping, les concours et d'autres nouvelles de la communauté [[12,13]][r].
+La [chaîne YouTube osu!news](https://www.youtube.com/channel/UCZKQIqv9O2tddMNUMAxWaqQ) a mis en ligne sa [première vidéo](https://www.youtube.com/watch?v=KQbudVxEjr8) au public le 8 mai 2015. La chaîne était gérée par différents membres de la communauté et visait à créer des vidéos sur les skins, les tournois, le mapping, les concours et d'autres nouvelles de la communauté [[12,13]][r].
 
 Le osu!keyboard (également connu sous le nom de "osu! 'nono' keyboard") a été ajouté à l'osu!store le 30 mai 2015, pour environ 40 $ au lancement. Annoncés initialement dans un [tweet de peppy](https://twitter.com/ppy/status/603797988742336512) le 28 mai 2015, il n'y avait que 100 claviers disponibles au lancement, et ils ressemblaient plus à un pavé numérique qu'à un clavier de taille normale [[14,15]][r].
 
@@ -64,7 +64,7 @@ Les Chat Moderators ont été officiellement fusionnés dans la Global Moderatio
 
 ## Septembre
 
-L'ancien compteur d'images par seconde a été remplacé par un nouvel "affichage de rafraîchissement et de latence" le 2 septembre 2015. Ce nouvel affichage indiquait toujours le nombre d'images par seconde (FPS) en cours, mais la nouvelle modification faisait en sorte qu'il était masqué s'il dépassait 500 FPS. En outre, un nouveau compteur a été ajouté sous le compteur de FPS, qui affiche exactement la latence introduite pendant le rendu des images (mesurée en millisecondes). Les images "bégayées" ou "abandonnées" sont affichées sous la forme de rectangles colorés à gauche du compteur afin de mieux visualiser la latence du rendu d'image que subit l'utilisateur [[26,27]][r].
+L'ancien compteur d'images par seconde a été remplacé par un nouvel "affichage de rafraîchissement et de latence" le 2 septembre 2015. Ce nouvel affichage indiquait toujours le nombre d'images par seconde (FPS) en cours, mais la nouvelle modification faisait en sorte qu'il était masqué s'il dépassait 500 FPS. En outre, un nouveau compteur a été ajouté sous le compteur de FPS, qui affiche exactement la latence introduite pendant le rendu des images (mesurée en millisecondes). Les images "saccadée" ou en "chute" sont affichées sous la forme de rectangles colorés à gauche du compteur afin de mieux visualiser la latence du rendu d'image que subit l'utilisateur [[26,27]][r].
 
 Le 26 septembre 2015, [cYsmix](http://cysmix.com/) est devenu l'un des premiers artistes officiels d'osu!. Ce partenariat a donné lieu à la création de trois titres réalisés spécifiquement pour osu! ainsi qu'à la création d'un concours de mapping utilisant ces titres. Les quatre titres sont les suivants :
 
