@@ -46,7 +46,7 @@ Quand une médiation de veto est lancée, un jury choisi au hasard va être sél
 
 ### Quality Assurance
 
-Les BN non probatoires peuvent faire une "Quality Assurance" en vérifiant à tout moment les beatmaps qualifiées pour détecter des problèmes. La page de la Quality Assurance peut être trouvé [sur le site des BN](https://bn.mappersguild.com/qualityassurance).
+Les BN non probatoires peuvent faire une "Quality Assurance" en vérifiant à tout moment les beatmaps qualifiées pour détecter des problèmes. La page de la Quality Assurance peut être trouvée [sur le site des BN](https://bn.mappersguild.com/qualityassurance).
 
 ### Review du contenu
 
