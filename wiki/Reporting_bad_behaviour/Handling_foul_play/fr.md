@@ -24,7 +24,7 @@ Il s'agit d'une règle "à un coup". Dès leur première infraction, les tricheu
 
 osu! utilise des mesures automatisées combinées à une confirmation manuelle. Si vous ne savez pas pourquoi vous êtes restreint, contactez [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-## Prouvez que je/ils ont triché ! Dites-nous comment vous le savez !
+## Prouvez que j'ai/qu'ils ont triché(s) ! Dites-nous comment vous le savez !
 
 l'Équipe du support ne fournira aucune "preuve" concernant les restrictions, mais toutes sont placées avec une suspicion bien fondée. Il est extrêmement improbable que les utilisateurs normaux soient visés par de telles actions.
 

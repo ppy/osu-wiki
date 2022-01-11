@@ -23,7 +23,7 @@ Du plus bas au plus haut, les grades possibles sont D, C, B, A, S, S Argenté, S
 | Note | Condition |
 | :-: | :-- |
 | SS | Précision de 100% |
-| S | Plus de 90% de 300s, moins de 1% de 50s et aucun miss. |
+| S | Plus de 90% de 300s, moins de 1% de 50s et aucun miss |
 | A | Plus de 80% de 300s et aucun miss **OU** plus de 90% de 300s |
 | B | Plus de 70% de 300s et aucun miss **OU** plus de 80% de 300s |
 | C | Plus de 60% de 300s |
@@ -34,7 +34,7 @@ Du plus bas au plus haut, les grades possibles sont D, C, B, A, S, S Argenté, S
 | Note | Condition |
 | :-: | :-- |
 | SS | Précision de 100% |
-| S | Plus de 90% de GREATs et aucun miss. |
+| S | Plus de 90% de GREATs et aucun miss |
 | A | Plus de 80% de GREATs et aucun miss **OU** plus de 90% de GREATS |
 | B | Plus de 70% de GREATs et aucun miss **OU** plus de 80% de GREATS |
 | C | Plus de 60% de GREATs |
@@ -56,8 +56,8 @@ Du plus bas au plus haut, les grades possibles sont D, C, B, A, S, S Argenté, S
 | Note | Condition |
 | :-: | :-- |
 | SS | 100% de précision |
-| S | Plus de 95% (un rang S est possible même avec plusieurs miss, comme dans le mode osu!catch). |
-| A | Plus de 90%. |
-| B | Plus de 80%. |
-| C | Plus de 70%. |
-| D | Toute autre précision inférieure à 70%. |
+| S | Plus de 95% (un rang S est possible même avec plusieurs miss, comme dans le mode osu!catch) |
+| A | Plus de 90% |
+| B | Plus de 80% |
+| C | Plus de 70% |
+| D | Toute autre précision inférieure à 70% |

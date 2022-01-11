@@ -1,6 +1,6 @@
 # Signaler un mauvais comportement
 
-osu! a [une équipe de modérateurs](/wiki/People/The_Team/Global_Moderation_Team) qui s'efforce de garder le jeu et son écosystème propres et sûrs. Si vous constatez un comportement contraire aux règles ou un contenu inapproprié, signalez-le en utilisant l'une des méthodes décrites ci-dessous. Vous pouvez également contacter directement l'un des modérateurs en ligne si votre report n'a pas été traité correctement dans un délai raisonnable, mais uniquement en dernier recours.
+osu! a [une équipe de modérateurs](/wiki/People/The_Team/Global_Moderation_Team) qui s'efforcent de garder le jeu et son écosystème propres et sûrs. Si vous constatez un comportement contraire aux règles ou un contenu inapproprié, signalez-le en utilisant l'une des méthodes décrites ci-dessous. Vous pouvez également contacter directement l'un des modérateurs en ligne si votre report n'a pas été traité correctement dans un délai raisonnable, mais uniquement en dernier recours.
 
 Les reports accidentels sont ignorés. Les utilisateurs qui envoient délibérément des reports non valides risquent d'être [réduits au silence](/wiki/Silence).
 

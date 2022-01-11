@@ -8,24 +8,24 @@ Malheureusement, en raison de l'étendue du matériel sur lequel fonctionne osu!
 
 Il est assez difficile de fournir une assistance lorsque tous les types de problèmes sont regroupés sous le seul mot "lag". Commençons donc par définir certains termes pour des scénarios spécifiques.
 
-### Latence audio
+### Saccade audio
 
-La piste audio des beatmaps se rembobine dans le temps ou s'interrompt. En fait, lorsque le jeu est lent, vous pouvez l'entendre dans l'audio. Lors du diagnostic ou du signalement, il peut être utile de :
+La piste audio des beatmaps revient en arrière ou s'interrompt. Lorsque le jeu lag, vous pouvez l'entendre dans l'audio. Lors du diagnostic ou du signalement, il peut être utile de :
 
-- Vérifiez si cela se produit sur tous les périphériques audio disponibles. Si vous utilisez un casque USB, essayez plutôt de vous connecter via la sortie analogique de votre PC.
-- Vérifiez si l'activation du paramètre "Mode de compatibilité audio" dans les options est utile.
+- Vérifier si cela se produit sur tous les périphériques audio disponibles. Si vous utilisez un casque USB, essayez plutôt de vous connecter via la sortie analogique de votre PC.
+- Vérifier si l'activation du paramètre "Mode de compatibilité audio" dans les options vous aide.
 
 ### Spike frame
 
 Pendant le jeu, tout ce qui s'affiche à l'écran s'arrête pendant une durée suffisamment longue pour nuire à l'expérience de jeu. Cela peut se produire plus d'une fois, de façon aléatoire ou à intervalles réguliers. Lors du diagnostic ou du signalement, il peut être utile de :
 
 - Comptez combien de fois cela se produit dans une session de jeu moyenne.
-- Vérifiez si cela se produit toujours.
-- Vérifiez la fréquence à laquelle cela se produit, et si c'est à un intervalle régulier.
-- Vérifiez si cela se produit toujours après un redémarrage du PC.
-- Essayez de fermer toute application qui affiche des superpositions en jeu (Discord, Steam, NVIDIA Shadowplay, etc.).
-- Assurez-vous que le [mode jeu](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) est activé. Cela permet à Windows de fournir des cœurs et des ressources dédiés à osu!
-- Ouvrez le gestionnaire des tâches et classez la liste (sous Détails) par CPU. Recherchez toute utilisation élevée du CPU lorsque des pics se produisent, par exemple par un scan de virus ou de logiciels malveillants en arrière-plan. Vous pouvez exécuter osu! en mode fenêtré ou laisser le gestionnaire de tâches sur un deuxième écran pour diagnostiquer cela pendant que vous jouez ou que vous exécutez une beatmap avec le mod Auto.
+- Vérifier si cela se produit toujours.
+- Vérifier la fréquence à laquelle cela se produit, et si c'est à un intervalle régulier.
+- Vérifier si cela se produit toujours après un redémarrage du PC.
+- Essayer de fermer toute application qui affiche des superpositions en jeu (Discord, Steam, NVIDIA Shadowplay, etc.).
+- Vous assurer que le [mode jeu](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) est activé. Cela permet à Windows de fournir des cœurs et des ressources dédiés à osu!
+- Ouvrir le gestionnaire des tâches et classer la liste (sous Détails) par CPU. Recherchez toute utilisation élevée du CPU lorsque des pics se produisent, par exemple par un scan de virus ou de logiciels malveillants en arrière-plan. Vous pouvez exécuter osu! en mode fenêtré ou laisser le gestionnaire de tâches sur un deuxième écran pour diagnostiquer cela pendant que vous jouez ou que vous exécutez une beatmap avec le mod Auto.
 
 ### Latence d'entrée
 
@@ -45,13 +45,13 @@ Pendant le jeu, un ou plusieurs périphériques d'entrée cessent de répondre. 
 
 Pendant le jeu, la fréquence d'images ne peut pas suivre, ce qui entraîne des mouvements saccadés des objets à l'écran. Cela peut également se traduire par une latence d'entrée perçue plus élevée. Lors du diagnostic ou du signalement, il peut être utile de :
 
-- Vérifiez si cela se produit toujours après un redémarrage du PC.
-- Essayez de fermer toute application qui affiche des superpositions sur le jeu (Discord, Steam, NVIDIA Shadowplay, etc.).
-- Assurez-vous que vous ne forcez pas l'activation du vsync dans vos pilotes d'affichage (elle doit être réglée sur "off" ou "préférence de l'application").
-- Essayez de changer le limiteur d'images et voyez si cela améliore la situation.
-- Assurez-vous que vous exécutez osu! en mode plein écran exclusif (et non sans bordure). Cela améliorera toujours les performances.
-- Assurez-vous que le [mode de jeu](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) est activé. Il permet à Windows de fournir des cœurs et des ressources dédiés à osu!
-- Ouvrez le gestionnaire des tâches et classez la liste (sous Détails) par CPU. Recherchez toute utilisation élevée du CPU lorsque des pics se produisent, par exemple par un scan de virus ou de logiciels malveillants en arrière-plan. Vous pouvez exécuter osu! en mode fenêtré ou laisser le gestionnaire de tâches sur un deuxième écran pour diagnostiquer cela pendant que vous jouez ou que vous exécutez une beatmap avec le mod Auto.
+- Vérifier si cela se produit toujours après un redémarrage du PC.
+- Essayer de fermer toute application qui affiche des superpositions sur le jeu (Discord, Steam, NVIDIA Shadowplay, etc.).
+- Vous assurer que vous ne forcez pas l'activation du vsync dans vos pilotes d'affichage (elle doit être réglée sur "off" ou "préférence de l'application").
+- Essayer de changer le limiteur d'images et voir si cela améliore la situation.
+- Vous assurer que vous exécutez osu! en mode plein écran exclusif (et non sans bordure). Cela améliorera toujours les performances.
+- Vous assurer que le [mode de jeu](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) est activé. Il permet à Windows de fournir des cœurs et des ressources dédiés à osu!
+- Ouvrir le gestionnaire des tâches et classer la liste (sous Détails) par CPU. Recherchez toute utilisation élevée du CPU lorsque des pics se produisent, par exemple par un scan de virus ou de logiciels malveillants en arrière-plan. Vous pouvez exécuter osu! en mode fenêtré ou laisser le gestionnaire de tâches sur un deuxième écran pour diagnostiquer cela pendant que vous jouez ou que vous exécutez une beatmap avec le mod Auto.
 
 ## Limiteurs d'images
 
