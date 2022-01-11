@@ -17,14 +17,14 @@ La piste audio des beatmaps revient en arrière ou s'interrompt. Lorsque le jeu 
 
 ### Spike frame
 
-Pendant le jeu, tout ce qui s'affiche à l'écran s'arrête pendant une durée suffisamment longue pour nuire à l'expérience de jeu. Cela peut se produire plus d'une fois, de façon aléatoire ou à intervalles réguliers. Lors du diagnostic ou du signalement, il peut être utile de :
+Lorsque vous êtes en train de jouer, tout ce qui s'affiche à l'écran s'arrête pendant une durée suffisamment longue pour nuire à l'expérience de jeu. Cela peut se produire plus d'une fois, de façon aléatoire ou à intervalles réguliers. Lors du diagnostic ou du signalement, il peut être utile de :
 
-- Comptez combien de fois cela se produit dans une session de jeu moyenne.
+- Compter combien de fois cela se produit dans une session de jeu moyenne.
 - Vérifier si cela se produit toujours.
 - Vérifier la fréquence à laquelle cela se produit, et si c'est à un intervalle régulier.
 - Vérifier si cela se produit toujours après un redémarrage du PC.
-- Essayer de fermer toute application qui affiche des superpositions en jeu (Discord, Steam, NVIDIA Shadowplay, etc.).
-- Vous assurer que le [mode jeu](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) est activé. Cela permet à Windows de fournir des cœurs et des ressources dédiés à osu!
+- Essayer de fermer toute application qui affiche des overlays en jeu (Discord, Steam, NVIDIA Shadowplay, etc.).
+- Vous assurer que le [mode jeu](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) est activé. Cela permet à Windows de fournir des cœurs et des ressources dédiés à osu!.
 - Ouvrir le gestionnaire des tâches et classer la liste (sous Détails) par CPU. Recherchez toute utilisation élevée du CPU lorsque des pics se produisent, par exemple par un scan de virus ou de logiciels malveillants en arrière-plan. Vous pouvez exécuter osu! en mode fenêtré ou laisser le gestionnaire de tâches sur un deuxième écran pour diagnostiquer cela pendant que vous jouez ou que vous exécutez une beatmap avec le mod Auto.
 
 ### Latence d'entrée
@@ -46,7 +46,7 @@ Pendant le jeu, un ou plusieurs périphériques d'entrée cessent de répondre. 
 Pendant le jeu, la fréquence d'images ne peut pas suivre, ce qui entraîne des mouvements saccadés des objets à l'écran. Cela peut également se traduire par une latence d'entrée perçue plus élevée. Lors du diagnostic ou du signalement, il peut être utile de :
 
 - Vérifier si cela se produit toujours après un redémarrage du PC.
-- Essayer de fermer toute application qui affiche des superpositions sur le jeu (Discord, Steam, NVIDIA Shadowplay, etc.).
+- Essayer de fermer toute application qui affiche des overlays sur le jeu (Discord, Steam, NVIDIA Shadowplay, etc.).
 - Vous assurer que vous ne forcez pas l'activation du vsync dans vos pilotes d'affichage (elle doit être réglée sur "off" ou "préférence de l'application").
 - Essayer de changer le limiteur d'images et voir si cela améliore la situation.
 - Vous assurer que vous exécutez osu! en mode plein écran exclusif (et non sans bordure). Cela améliorera toujours les performances.
@@ -55,7 +55,7 @@ Pendant le jeu, la fréquence d'images ne peut pas suivre, ce qui entraîne des 
 
 ## Limiteurs d'images
 
-osu! offre plusieurs choix de limiteurs de frame. Chacun d'entre eux présente des avantages et des inconvénients. Notez que quel que soit le réglage, osu! limitera la fréquence d'images dans les menus pour économiser l'utilisation CPU.
+osu! offre plusieurs choix de limiteurs d'images. Chacun d'entre eux présente des avantages et des inconvénients. Notez que quel que soit le réglage, osu! limitera la fréquence d'images dans les menus pour économiser l'utilisation CPU.
 
 ### VSync
 
@@ -65,13 +65,13 @@ Généralement non recommandé pour les écrans 60Hz. Il peut devenir plus utile
 
 ### Économie d'énergie
 
-Ce limiteur d'images vise à économiser l'énergie tout en offrant une expérience de jeu cohérente. Il fonctionnera à la fréquence de rafraîchissement du moniteur 2 fois inférieure et tentera de maintenir un rythme d'images constant.
+Ce limiteur d'images vise à économiser l'énergie tout en offrant une expérience de jeu constante. Il fonctionnera à la fréquence de rafraîchissement du moniteur 2 fois inférieure et tentera de maintenir un rythme d'images constant.
 
 Recommandé pour les PC plus anciens ou pour économiser la batterie d'un ordinateur portable.
 
 ### Optimal
 
-Ce limiteur de frame tente de maintenir un taux de frame 8 fois supérieure à votre taux de rafraîchissement, avec un maximum de 960 FPS. C'est le limiteur d'images que nous recommandons aux utilisateurs qui ne veulent pas pousser leur CPU/GPU à l'extrême, tout en maintenant des niveaux élevés de performance résultant d'une faible latence d'entrée.
+Ce limiteur d'images tente de maintenir un taux d'images 8 fois supérieure à votre taux de rafraîchissement, avec un maximum de 960 FPS. C'est le limiteur d'images que nous recommandons aux utilisateurs qui ne veulent pas pousser leur CPU/GPU à l'extrême, tout en maintenant des niveaux élevés de performance résultant d'une faible latence d'entrée.
 
 Peut être préféré à illimité afin de réduire le nombre d'images rendues, ce qui réduit le risque de surcharge du [ramasse-miettes](https://fr.wikipedia.org/wiki/Ramasse-miettes_(informatique)) (qui peut entraîner des spike frame).
 

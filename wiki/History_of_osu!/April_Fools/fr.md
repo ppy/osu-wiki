@@ -26,9 +26,9 @@ Chaque année, l'[équipe osu!](/wiki/People/The_Team) aime faire des blagues à
 
 ### "Lemon Tree" est classée
 
-La [beatmap](/wiki/Beatmap) ["Best of No.1 Hits - Lemon Tree (MillhioreF)"](https://osu.ppy.sh/beatmapsets/57878#osu/174267) a été [classée](/wiki/Beatmap/Category#classée) le 1er avril 2009, dans le cadre du poisson d'avril de cette année-là. La beatmap était une blague très populaire au sein de la communauté, les utilisateurs affirmant sarcastiquement qu'une telle beatmap devrait rester classée pour toujours [[1,2,3]][r]. Son statut classée a été supprimé par l'équipe de modération peu de temps après [[2]][r].
+La [beatmap](/wiki/Beatmap) ["Best of No.1 Hits - Lemon Tree (MillhioreF)"](https://osu.ppy.sh/beatmapsets/57878#osu/174267) a été [classée](/wiki/Beatmap/Category#classée) le 1er avril 2009, dans le cadre du poisson d'avril de cette année-là. La beatmap était une blague très populaire au sein de la communauté, les utilisateurs affirmant sarcastiquement qu'une telle beatmap devrait rester classée pour toujours [[1,2,3]][r]. Son statut de beatmap classée a été supprimé par l'équipe de modération peu de temps après [[2]][r].
 
-Après un certain temps, la beatmap originale a été supprimée à la demande de son créateur, mais il a finalement été remis en ligne le 24 août 2012 par [MillhioreF](https://osu.ppy.sh/users/941094) à des fins d'archivage [[4]][r].
+Après un certain temps, la beatmap originale a été supprimée à la demande de son créateur, mais elle a finalement été remise en ligne le 24 août 2012 par [MillhioreF](https://osu.ppy.sh/users/941094) à des fins d'archivage [[4]][r].
 
 ---
 
@@ -36,7 +36,7 @@ Après un certain temps, la beatmap originale a été supprimée à la demande d
 
 ### touhosu!
 
-Pour le poisson d'avril de 2010, le site web d'osu! ainsi que l'écran du menu principal du jeu ont été modifiés pour mettre en scène des personnages et des références au [Projet Touhou](https://fr.wikipedia.org/wiki/Touhou_Project). Les modifications comprenaient l'ajout du personnage de Marisa Kirisame et l'affichage de papillons de couleurs différentes dans un motif circulaire sur le menu principal et le site web, ainsi que le remplacement du nom "osu!" par "touhosu!" à certains endroits du site web [[5,6,7]][r].
+Pour le poisson d'avril de 2010, le site web d'osu! ainsi que l'écran du menu principal du jeu ont été modifiés pour mettre en scène des personnages et des références à [Touhou Project](https://fr.wikipedia.org/wiki/Touhou_Project). Les modifications comprenaient l'ajout du personnage de Marisa Kirisame et l'affichage de papillons de couleurs différentes dans un motif circulaire sur le menu principal et le site web, ainsi que le remplacement du nom "osu!" par "touhosu!" à certains endroits du site web [[5,6,7]][r].
 
 ![](img/2010-touhosu-main-screen.jpg "L'écran du menu principal dans osu! le 1er avril 2010")
 
@@ -52,7 +52,7 @@ Il a également été rapporté à l'époque que [Ephemeral](https://osu.ppy.sh/
 
 ### osu!core
 
-"osu!core" est le nom donné à la blague du poisson d'avril 2011 d'osu!. Cette blague a eu pour effet d'accélérer le son de chaque beatmap dans le style des remixes de [Nightcore](https://fr.wikipedia.org/wiki/Nightcore). Bien qu'il ne s'agisse que d'un poisson d'avril, il est devenu réalité lorsque le mod [Nightcore](/wiki/Game_modifier/Nightcore) a été introduit en tant que [modificateurs de jeu](/wiki/Game_modifier) jouable dans osu! plus tard [[10,11,12,13]][r].
+"osu!core" est le nom donné à la blague du poisson d'avril 2011 d'osu!. Cette blague a eu pour effet d'accélérer le son de chaque beatmap dans le style des remixes de [Nightcore](https://fr.wikipedia.org/wiki/Nightcore). Bien qu'il ne s'agisse que d'un poisson d'avril, il est devenu réalité lorsque le mod [Nightcore](/wiki/Game_modifier/Nightcore) a été introduit en tant que [modificateur de jeu](/wiki/Game_modifier) jouable dans osu! plus tard [[10,11,12,13]][r].
 
 ---
 
@@ -68,7 +68,7 @@ Le 1er avril 2012, l'ensemble du site web d'osu! avait 50 % de chances que le mo
 
 ### Bad Apple Ranking Chart
 
-Le "Bad Apple Ranking Chart" était un tableau de classement basé sur une variété de beatmaps qui mettait en vedette la chanson "Bad Apple !!" dans le cadre de la blague du poisson d'avril de 2012 d'osu!. Annoncé par le biais d'un [newspost](https://osu.ppy.sh/community/forums/posts/1431905) le 1er avril 2012, le tableau de classement fonctionnait en fait comme un véritable tableau à l'époque et affichait les 40 meilleurs joueurs ayant obtenu le meilleur [score classé](/wiki/Gameplay/Score/Ranked_score) dans l'une des sélections des beatmaps "Bad Apple !!" [[20,21,22]][r]. Un extrait de l'article de news mentionné est présent ci-dessous :
+Le "Bad Apple Ranking Chart" était un tableau de classement basé sur une variété de beatmaps qui mettait en vedette la chanson "Bad Apple !!" dans le cadre de la blague du poisson d'avril de 2012 d'osu!. Annoncé par le biais d'un [newspost](https://osu.ppy.sh/community/forums/posts/1431905) le 1er avril 2012, le tableau de classement fonctionnait en fait comme un véritable tableau à l'époque et affichait les 40 meilleurs joueurs ayant obtenu le meilleur [score classé](/wiki/Gameplay/Score/Ranked_score) dans l'une des sélections des beatmaps "Bad Apple !!" [[20,21,22]][r]. Un extrait du newspost mentionné est présent ci-dessous :
 
 > Nous avons décidé de dédier cette charte à la meilleure chanson et vidéo jamais créée, Bad Apple !!. Vous pouvez trouver le super tableau ici.
 
@@ -99,7 +99,7 @@ Le clip de "Bad Apple!!" était une sorte de blague à l'époque, les remixes de
 
 ## 2013
 
-### BanchoBot devient un tsundere
+### BanchoBot devient une tsundere
 
 Le 1er avril 2013, [BanchoBot](/wiki/BanchoBot) a été transformé en [tsundere](https://fr.wikipedia.org/wiki/Tsundere). En ce jour de poisson d'avril, chaque fois qu'un utilisateur donnait une commande à BanchoBot ou l'invitait à parler dans un chat public, ses messages de chat étaient remplacés par des réponses stéréotypées d'une tsundere avec un intérêt romantique [[24,25,26,27,28,29]][r].
 
@@ -127,7 +127,7 @@ Le 1er avril 2014, l'écran du menu principal d'osu! a été temporairement modi
 
 ![](img/2015-osucoins.png "Les osu!coins")
 
-Le 31 mars 2015, [peppy](https://osu.ppy.sh/users/2) a publié [un message](https://osu.ppy.sh/home/news/2015-03-31-osucoins) annonçant l'ajout d'une nouvelle monnaie en jeu, appelée "osu!coin" [[33,34]][r]. L'article expliquait ce qu'était cette monnaie et comment elle fonctionnait, et présentait une vidéo spécialement créée pour l'occasion, intitulée d'[osu!academy](https://www.youtube.com/watch?v=BImc5McuK1o). En outre, peppy a également plaisanté sur le fait que ce changement était motivé par le fait que le gain monétaire actuel provenant des dons des joueurs n'aurait pas été suffisant pour lui permettre de s'acheter un jet personnel de son vivant :
+Le 31 mars 2015, [peppy](https://osu.ppy.sh/users/2) a publié [un newspost](https://osu.ppy.sh/home/news/2015-03-31-osucoins) annonçant l'ajout d'une nouvelle monnaie en jeu, appelée "osu!coin" [[33,34]][r]. L'article expliquait ce qu'était cette monnaie et comment elle fonctionnait, et présentait une vidéo spécialement créée pour l'occasion, intitulée d'[osu!academy](https://www.youtube.com/watch?v=BImc5McuK1o). En outre, peppy a également plaisanté sur le fait que ce changement était motivé par le fait que le gain monétaire actuel provenant des dons des joueurs n'aurait pas été suffisant pour lui permettre de s'acheter un jet personnel de son vivant :
 
 > Au taux de rendement actuel, il serait peu probable que je puisse acheter un jet personnel de mon vivant, ce qui est l'un de mes principaux objectifs de vie. J'ai donc discuté avec l'équipe des autres formes de monétisation possibles, en étudiant les tendances actuelles des jeux gratuits similaires actuellement disponibles sur le marché.
 
@@ -135,9 +135,9 @@ Le 31 mars 2015, [peppy](https://osu.ppy.sh/users/2) a publié [un message](http
 
 *Remarque : En [temps universel coordonné (UTC)](https://fr.wikipedia.org/wiki/Temps_universel_coordonné), le message a été publié le 31 mars 2015. Cependant, au moment de la publication, peppy vivait actuellement en Australie, où la date actuelle était le 1er avril 2015.*
 
-En bref, pour jouer ou redémarrer une [beatmap](/wiki/Beatmap), les utilisateurs devaient avoir dépensé 1 osu!coin, et une fois qu'ils n'avaient plus d'osu!coins, ils devaient soit arrêter de jouer et attendre le jour suivant, soit payer de l'argent réel pour obtenir plus d'osu!coins. Malgré cette description, le jeu n'était pas affecté et les utilisateurs pouvaient continuer à jouer normalement, même si toutes leurs pièces osu!coins étaient épuisées [[33,35,36,37]][r].
+En bref, pour jouer ou recommencer une [beatmap](/wiki/Beatmap), les utilisateurs devaient avoir dépensé 1 osu!coin, et une fois qu'ils n'avaient plus d'osu!coins, ils devaient soit arrêter de jouer et attendre le jour suivant, soit payer de l'argent réel pour obtenir plus d'osu!coins. Malgré cette description, le jeu n'était pas affecté et les utilisateurs pouvaient continuer à jouer normalement, même si tous leurs osu!coins étaient épuisés [[33,35,36,37]][r].
 
-L'écran principal d'osu! comportait également un barrage d'osu!coins qui montaient lentement en arrière-plan, ainsi qu'un thème principal légèrement modifié, dans lequel l'exclamation "circles!" était remplacée par un "and buy the coins" à la sonorité robotique avant le beat drop. De nouvelles textures, des effets sonores, des animations et de la musique ont été créés pour cette blague, y compris un compteur qui affiche le nombre de pièces dont disposent les joueurs tout au long de leurs parties. [[37,38]][r].
+L'écran principal d'osu! comportait également un barrage d'osu!coins qui montaient lentement en arrière-plan, ainsi qu'un thème principal légèrement modifié, dans lequel l'exclamation "circles!" était remplacée par un "and buy the coins" à la sonorité robotique avant le beat drop. De nouvelles textures, des effets sonores, des animations et de la musique ont été créés pour cette blague, y compris un compteur qui affiche le nombre d'osu!coins dont disposent les joueurs tout au long de leurs parties. [[37,38]][r].
 
 La mise à jour a été généralement bien accueillie par les joueurs et a bénéficié d'un soutien réel pour une mise en œuvre future sans monétisation. Malgré cela, peppy a annulé l'implémentation d'osu!coins le jour suivant avec [une remarque dans la mise à jour du journal des modifications](https://osu.ppy.sh/comments/121803) sur les commentaires [[35,39,40,41]][r].
 
@@ -147,9 +147,9 @@ La mise à jour a été généralement bien accueillie par les joueurs et a bén
 
 ### osu! en réalité virtuelle
 
-Le 1er avril 2016, [un news](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) a été publié détaillant l'annonce de plans visant à ajouter le support de l'[Oculus Rift](https://fr.wikipedia.org/wiki/Oculus_Rift) comme nouvelle [méthode d'entrée](/wiki/Gameplay/Input_device) dans osu!. Le message, écrit par [Evrien](https://osu.ppy.sh/users/791660), fait référence à de nombreuses citations d'une supposée interview de [peppy](https://osu.ppy.sh/users/2) dans laquelle il explique son raisonnement pour l'annonce et ses idées sur la façon dont le concept pourrait fonctionner [[42]][r].
+Le 1er avril 2016, [un newspost](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) a été publié détaillant l'annonce de plans visant à ajouter le support de l'[Oculus Rift](https://fr.wikipedia.org/wiki/Oculus_Rift) comme nouvelle [méthode d'entrée](/wiki/Gameplay/Input_device) dans osu!. Le message, écrit par [Evrien](https://osu.ppy.sh/users/791660), fait référence à de nombreuses citations d'une supposée interview de [peppy](https://osu.ppy.sh/users/2) dans laquelle il explique son raisonnement pour l'annonce et ses idées sur la façon dont le concept pourrait fonctionner [[42]][r].
 
-En ce qui concerne la façon dont les joueurs peuvent utiliser l'Oculus Rift comme méthode d'entrée, le news décrit que "le joueur aura un point de vue à la première personne du curseur qui se déplace vers et depuis les objets à l'écran..." et qu'il frappera les objets en "... demandant au joueur de produire des sons semblables à des voyelles avec sa bouche". Aucun changement réel n'a été apporté au jeu en ce qui concerne l'utilisation de l'Oculus Rift ou d'un dispositif similaire de [réalité virtuelle (VR)](https://fr.wikipedia.org/wiki/Réalité_virtuelle) pour contrôler osu! [[42]][r].
+En ce qui concerne la façon dont les joueurs peuvent utiliser l'Oculus Rift comme méthode d'entrée, le newspost décrit que "le joueur aura un point de vue à la première personne du curseur qui se déplace vers et depuis les objets à l'écran..." et qu'il frappera les objets en "... demandant au joueur de produire des sons semblables à des voyelles avec sa bouche". Aucun changement réel n'a été apporté au jeu en ce qui concerne l'utilisation de l'Oculus Rift ou d'un dispositif similaire de [réalité virtuelle (VR)](https://fr.wikipedia.org/wiki/Réalité_virtuelle) pour contrôler osu! [[42]][r].
 
 Cependant, même si les développeurs officiels d'osu! n'ont pas eu l'intention d'ajouter un véritable support VR, l'idée d'osu! en VR a suscité l'intérêt de certains fans. Cet intérêt a fini par déboucher sur un projet de fans non officiel qui a été lancé peu après et qui visait à créer un client gratuit et open source pour pratiquer osu!. Le but était de créer un client libre et open source permettant de jouer à osu! avec plus de fonctionnalités et de [beatmaps](/wiki/Beatmap) et des [modificateurs de jeu](/wiki/Game_modifier), y compris la possibilité de jouer en VR. Nommé "[McOsu](https://store.steampowered.com/app/607260/McOsu)", le projet a été achevé et publié sur [Steam](https://fr.wikipedia.org/wiki/Steam) le 20 mars 2017 [[43,44,45,46]][r].
 
@@ -163,7 +163,7 @@ Cependant, même si les développeurs officiels d'osu! n'ont pas eu l'intention 
 
 Le 1er avril 2016, de nombreux joueurs d'osu! ont eu la surprise de découvrir qu'ils avaient soudainement et inexplicablement reçu un tag [osu!supporter](https://osu.ppy.sh/home/support) alors qu'ils n'en avaient jamais acheté ni reçu en cadeau. Le tag de supporter qui a été donné aux joueurs était entièrement fonctionnel et agissait comme un tag de supporter ordinaire ; cependant, le changement a été annulé le jour suivant [[51,52,53,54,55,56,57]][r].
 
-### Spinning de osu! cookie sur le site web
+### Rotation du osu! cookie sur le site web
 
 Dans le cadre de la poignée de blagues du poisson d'avril 2016, le [osu! cookie](/wiki/Brand_identity_guidelines) du site web d'osu! tournait occasionnellement de 180 degrés dans le sens des aiguilles d'une montre, puis repartait rapidement à la verticale de 180 degrés dans la même direction [[58,59,60,61]][r].
 
@@ -177,7 +177,7 @@ Comme annoncé dans un [tweet de peppy](https://twitter.com/ppy/status/848021525
 
 ## 2018
 
-### Spinning de osu! cookie
+### Rotation du osu! cookie
 
 Le 1er avril 2018, l'[osu! cookie](/wiki/Brand_identity_guidelines) de l'écran du menu principal tournait lentement dans le sens des aiguilles d'une montre au fur et à mesure que le temps passait, et le cookie de l'écran de sélection des beatmaps tournait lentement dans le sens inverse des aiguilles d'une montre. En passant la souris sur ces cookies, vous les agrandissez comme d'habitude, mais vous les faites tourner plus vite [[62,63,64,65,66,67]][r].
 
@@ -195,7 +195,7 @@ Pour le poisson d'avril 2019, il y avait environ 1 chance sur 20 d'entendre l'ef
 
 ### MillhioreF rejoint les Featured Artists
 
-[MillhioreF](https://osu.ppy.sh/users/941094), un modérateur, développeur et joueur du mod [Easy](/wiki/Game_modifier/Easy) de longue date d'osu! - a été annoncé dans [un news](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) comme ayant "rejoint" la liste des [Featured Artists](/wiki/Featured_Artists) en tant que "Millhiore Firianno Biscotti" le 1er avril 2020 avec une sélection de cinq chansons pour commencer [[71]][r] :
+[MillhioreF](https://osu.ppy.sh/users/941094), un modérateur, développeur et joueur du mod [Easy](/wiki/Game_modifier/Easy) de longue date d'osu! - a été annoncé dans [un newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) comme ayant "rejoint" la liste des [Featured Artists](/wiki/Featured_Artists) en tant que "Millhiore Firianno Biscotti" le 1er avril 2020 avec une sélection de cinq chansons pour commencer [[71]][r] :
 
 - Waltz o' the Irish
 - The Waltzing Irishman

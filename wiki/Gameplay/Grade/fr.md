@@ -5,18 +5,19 @@ tags:
   - silver s
   - sh
   - xh
-  - lettre de grade
+  - lettre
   - classement
   - s argenté
+  - notes
 ---
 
-# Grade
+# Note
 
 *Pour d'autres utilisations, voir [Rank (désambiguïsation)](/wiki/Disambiguation/Rank).*
 
-Les **grades** sont un ensemble de lettres représentant la performance d'un joueur sur une [beatmap](/wiki/Beatmap) donnée. Elles accompagnent le [score](/wiki/Gameplay/Score) total sur l'écran des résultats et apparaissent dans toutes les listes aux côtés des scores.
+Les **notes** sont un ensemble de lettres représentant la performance d'un joueur sur une [beatmap](/wiki/Beatmap) donnée. Elles accompagnent le [score](/wiki/Gameplay/Score) total sur l'écran des résultats et apparaissent dans toutes les listes aux côtés des scores.
 
-Du plus bas au plus haut, les grades possibles sont D, C, B, A, S, S Argenté, SS, et SS Argenté. Les notes argenté ne peuvent être obtenues qu'en utilisant les [modificateurs de jeu](/wiki/Game_modifier) [Hidden](/wiki/Game_modifier/Hidden), [Flashlight](/wiki/Game_modifier/Flashlight), ou [Fade In](/wiki/Game_modifier/Fade_In).
+Du plus bas au plus haut, les notes possibles sont D, C, B, A, S, S d'argent, SS, et SS d'argent. Les notes argentées ne peuvent être obtenues qu'en utilisant les [modificateurs de jeu](/wiki/Game_modifier) [Hidden](/wiki/Game_modifier/Hidden), [Flashlight](/wiki/Game_modifier/Flashlight), ou [Fade In](/wiki/Game_modifier/Fade_In).
 
 ## osu!
 
@@ -27,7 +28,7 @@ Du plus bas au plus haut, les grades possibles sont D, C, B, A, S, S Argenté, S
 | A | Plus de 80% de 300s et aucun miss **OU** plus de 90% de 300s |
 | B | Plus de 70% de 300s et aucun miss **OU** plus de 80% de 300s |
 | C | Plus de 60% de 300s |
-| D | Toute autre pourcentage de 300s inférieure à 60% |
+| D | Tout autre pourcentage de 300s inférieur à 60% |
 
 ## osu!taiko
 
@@ -38,7 +39,7 @@ Du plus bas au plus haut, les grades possibles sont D, C, B, A, S, S Argenté, S
 | A | Plus de 80% de GREATs et aucun miss **OU** plus de 90% de GREATS |
 | B | Plus de 70% de GREATs et aucun miss **OU** plus de 80% de GREATS |
 | C | Plus de 60% de GREATs |
-| D | Toute autre pourcentage de GREATs inférieure à 60% |
+| D | Tout autre pourcentage de GREATs inférieur à 60% |
 
 ## osu!catch
 
