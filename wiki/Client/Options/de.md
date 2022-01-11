@@ -18,7 +18,7 @@ Wenn du nicht in den Spiel-Client eingeloggt bist, wird das Optionsmenü automat
 
 Wenn du ein Gast bist, stehen dir diese Optionen zur Verfügung:
 
- Name | Beschreibung | Typ | Standardwert |
+| Name | Beschreibung | Typ | Standardwert |
 | :-- | :-- | :-- | :-- |
 | `Benutzername` | Gebe deinen Benutzernamen an. | Text | *(leer)* |
 | `Passwort` | Gebe dein Passwort an. | Passwort | *(leer)* |
