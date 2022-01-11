@@ -40,9 +40,9 @@ Vous trouverez ci-dessous une liste triée des guides créés par les membres de
 
 *Page principale : [Guides de skinning et sujets importants](/wiki/Skinning/Guides_and_important_threads)*
 
+- [Comment faire des spinners correctement centrés dans les skins](Making_Properly_Centred_Spinners)
 - [Comment recadrer des images avec des arrière-plans complexes](Cropping_with_Complex_Backgrounds)
 - [Comment recadrer des images avec des arrière-plans simples](Cropping_with_Simple_Backgrounds)
-- [Comment faire des spinners correctement centrés dans les skins](Making_Properly_Centred_Spinners)
 
 ## Divers
 
