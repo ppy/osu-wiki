@@ -20,7 +20,7 @@ Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hau
 | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | Organisator und Verwalter des World Cups |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderation und Community-Berater |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Organisator und Verwalter des World Cups |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Projekt- und Community-Wartung, Featured Artist Kontaktaufnahme |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Projekt- und Community-Betreuer, Featured Artist Kontaktaufnahme |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Leitung für Design, ständiger Beobachter der Creative Cloud |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Berater für die Modding- und Mapping-Szene |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Organisator und Verwalter des World Cups |
@@ -41,11 +41,11 @@ Darüber hinaus ist das [Account-Support-Team](Account_support_team) da, um bei 
 
 ## Benutzergruppen
 
-Die folgenden Benutzergruppen bestehen aus Mitgliedern der osu! Community, die helfen, osu! zu erhalten. Die meisten dieser Benutzergruppen sind an den jeweiligen Forumsfarben, Chatfarben im Spiel, Profiltiteln und/oder Profilabzeichen zu erkennen.
+Die folgenden Benutzergruppen bestehen aus Mitgliedern der osu!-Community, die helfen, osu! zu erhalten. Die meisten dieser Benutzergruppen sind an den jeweiligen Farben im Forum, Chatfarben im Spiel, Profiltiteln und/oder Profilabzeichen zu erkennen.
 
 | Name | Beschreibung |
 | :-- | :-- |
-| [Beatmap Nominators](Beatmap_Nominators) | Sorgen dafür, dass deine Beatmap in den "qualifiziert"-Status kommen |
+| [Beatmap Nominators](Beatmap_Nominators) | Sorgen dafür, dass deine Beatmap in den "qualifiziert"-Status kommt |
 | [Entwickler](Developers) | Machen das Spiel besser, indem sie neue Inhalte zum Spiel hinzufügen und Spielfehler beheben |
 | [Global Moderation Team](Global_Moderation_Team) | Behalten die Übersicht über die Foren und den In-Game Chat |
 | [osu! Alumni](osu!_Alumni) | Diejenigen, die für ihre Beiträge bekannt sind und inzwischen weitergezogen sind |
@@ -61,7 +61,7 @@ Die folgenden Benutzergruppen bestehen aus Mitgliedern der osu! Community, die h
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Allgemeiner Hausmeister und Helfer, Chibi-Künstler. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Audio-Designer, [offizieller osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Organisator und Administrator des World Cups |
-| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Allgemeiner Hausmeister, Community Manager |
+| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Allgemeiner Hausmeister, Community-Manager |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu!-Entwickler, Entwickler von IRC-Integration für In-Game-Chat, Wartung der Website. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour Gastgeber, World Cup Streamer, Wettbewerbsorganisator |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! Entwickler, Entwickler von osz2 und p2p Backend |
@@ -73,13 +73,13 @@ Die folgenden Benutzergruppen bestehen aus Mitgliedern der osu! Community, die h
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | osu!-Entwickler, Schöpfer von mm-Slidern |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone-Entwickler |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | osu! Entwickler, Mappers' Guild Organisator |
-| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Forum Designer |
+| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Forum-Designer |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, coole Sachen-Macher-Typ der Extraklasse |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Ursprüngliches Pippi-Konzept und Artwork Designer. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Früher Community-Manager und -Leiter, Mitwirkung an Sitzungsprotokollen und FAQ |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | osu! und pp-Entwickler |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Allgemeiner Hausmeister, Organisator und Administrator des World Cups, Wiki-Wartung |
-| ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! Entwickler, osu!mania Modus Entwickler |
+| ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu!-Entwickler, Entwickler für den osu!mania-Modus |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) Manager |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/Community/Video_series/osu!academy) Professor, Medien- und Charakterdesigner |
 

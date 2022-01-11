@@ -166,7 +166,7 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
 | ![][flag_CN] [Nymph](https://osu.ppy.sh/users/601990) | BAT |
 | ![][flag_CN] [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
-| ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Chat Moderator, Support Team |
+| ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Chat Moderator, Support-Team |
 | ![][flag_TH] [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ![][flag_FI] [Orkel](https://osu.ppy.sh/users/39385) | Chat Moderator |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | GMT |
@@ -221,7 +221,7 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
 | ![][flag_TR] [UnderminE](https://osu.ppy.sh/users/444223) | Chat Moderator |
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, Support Team |
+| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, Support-Team |
 | ![][flag_PH] [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, Verwaltung von Wettbewerben |
 | ![][flag_KR] [Where](https://osu.ppy.sh/users/549172) | GMT |
