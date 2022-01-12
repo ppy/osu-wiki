@@ -123,7 +123,7 @@ Wenn du die Dropdown-Liste zu `FPS-Limit` öffnest, wirst du folgende Optionen s
 | `Horizontale Position` | Passe den horizontalen Offset für den Letterbox-Modus an. Erscheint nur, wenn `Render at native resolution` aktiviert ist. | Slider | `0%` |
 | `Vertikale Position` | Passe den vertikalen Offset für den Letterbox-Modus an. Erscheint nur, wenn `Render at native resolution` aktiviert ist. | Slider | `0%` |
 
-- Wenn `Vollbildmodus` deaktiviert ist, dann wird darunter `Das ausführen ohne Vollbildmodus wird die Eingabe Verzögerung verbessern` erscheinen.
+- Wenn der `Vollbildmodus` deaktiviert ist, dann wird darunter `Das ausführen ohne Vollbildmodus wird die Eingabe Verzögerung verbessern` erscheinen.
 
 ### Grafikeinstellungen
 
