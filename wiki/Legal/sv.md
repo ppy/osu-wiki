@@ -1,6 +1,7 @@
 ---
 no_native_review: true
 ---
+
 # Legal
 
 Indexsida för alla juridiska artiklar. Dessa länkar finns också i sidfoten på osu! hemsidan.
