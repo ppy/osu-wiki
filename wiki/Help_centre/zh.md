@@ -19,12 +19,12 @@ tags:
 
 | 小节 | 主要内容 |
 | :-- | :-- |
-| [帐号](/wiki/Help_Centre/Account) | osu!support，账号限制，登入，名字更改，个人资料 |
-| [作图与编辑器](/wiki/Help_Centre/Beatmapping) | 谱面维护，谱面所有权，谱面槽位 |
-| [客户端](/wiki/Help_Centre/Client) | 漏洞和崩溃，游玩问题，网络连接，性能问题 |
-| [安装与注册](/wiki/Help_Centre/Installation_and_registration) | 下载游戏，注册帐号 |
-| [商店](/wiki/Help_Centre/Store) | 周边产品如 osu!go, osu!keyboard, osu!tablet |
-| [网站](/wiki/Help_Centre/Website) | 屏蔽用户，获得支持，网站外观 |
+| [帐号](/wiki/Help_centre/Account) | osu!support，账号限制，登入，名字更改，个人资料 |
+| [作图与编辑器](/wiki/Help_centre/Beatmapping) | 谱面维护，谱面所有权，谱面槽位 |
+| [客户端](/wiki/Help_centre/Client) | 漏洞和崩溃，游玩问题，网络连接，性能问题 |
+| [安装与注册](/wiki/Help_centre/Installation_and_registration) | 下载游戏，注册帐号 |
+| [商店](/wiki/Help_centre/Store) | 周边产品如 osu!go, osu!keyboard, osu!tablet |
+| [网站](/wiki/Help_centre/Website) | 屏蔽用户，获得支持，网站外观 |
 
 ## 让我们帮助你
 

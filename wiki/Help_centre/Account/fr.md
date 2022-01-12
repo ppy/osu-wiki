@@ -24,7 +24,7 @@ tags:
 
 # Compte
 
-*Page principale : [Centre d'aide](/wiki/Help_Centre)*
+*Page principale : [Centre d'aide](/wiki/Help_centre)*
 
 Vous trouverez ici tout ce qui concerne votre compte osu!. Lisez ce qui ce trouve en dessous afin de savoir s'il existe une solution appropriée à votre problème.
 
@@ -50,7 +50,7 @@ Si votre compte a été restreint, vous saurez probablement pourquoi après une 
 
 Dans les situations où nous sommes absolument sûrs qu'un acte répréhensible a eu lieu, nous vous demanderons d'attendre une période de **trois mois** à partir de la date de votre dernière infraction avant de considérer un appel de votre part pour vous laisser revenir sur le jeu.
 
-Consultez la page *[restrictions du compte](/wiki/Help_Centre/Account_Restrictions)* pour plus d'informations sur les restrictions des comptes et des procédures d'appels.
+Consultez la page *[restrictions du compte](/wiki/Help_centre/Account_restrictions)* pour plus d'informations sur les restrictions des comptes et des procédures d'appels.
 
 ## Bans des tournois
 
@@ -109,7 +109,7 @@ Certains fournisseurs de VPN et serveurs proxy ne fonctionnent tout simplement p
 
 **Nous aurons besoin d'un fichier `network.log` de votre part pour comprendre ce qui se passe si aucune des solutions ci-dessus ne fonctionne.**
 
-Pour savoir comment obtenir un fichier `network.log`, voir [Centre d'aide § Fichiers log](/wiki/Help_Centre#fichiers-log).
+Pour savoir comment obtenir un fichier `network.log`, voir [Centre d'aide § Fichiers log](/wiki/Help_centre#fichiers-log).
 
 Dans de rares cas, vous devrez peut-être contacter votre fournisseur d'accès internet (FAI) pour vous renseigner sur ces problèmes. Certains fournisseurs d'accès ont toujours eu des problèmes de connexion à osu!, généralement en raison d'un mauvais routage.
 

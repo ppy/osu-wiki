@@ -22,12 +22,12 @@ Harap pilih jenis permasalahan yang paling menggambarkan masalah yang kamu hadap
 
 | Jenis permasalahan | Topik-topik yang terlingkup |
 | :-- | :-- |
-| [Akun](/wiki/Help_Centre/Account) | osu!supporter, pembatasan akun (*restriction*), proses *login*, penggantian nama pengguna, data profil |
-| [Beatmapping dan Editor](/wiki/Help_Centre/Beatmapping) | Pengelolaan beatmap, kepemilikan beatmap, sistem kuota beatmap (*beatmap slots*) |
-| [Klien](/wiki/Help_Centre/Client) | *Bug* dan *crash*, permainan, koneksi, performa |
-| [Instalasi dan pendaftaran](/wiki/Help_Centre/Installation_and_registration) | Pengunduhan, pembuatan akun |
-| [osu!store](/wiki/Help_Centre/Store) | osu!go, osu!keyboard, osu!tablet, berbagai piranti dan cinderamata resmi lainnya |
-| [Situs web](/wiki/Help_Centre/Website) | Pemblokiran pengguna, layanan dukungan, tampilan situs web |
+| [Akun](/wiki/Help_centre/Account) | osu!supporter, pembatasan akun (*restriction*), proses *login*, penggantian nama pengguna, data profil |
+| [Beatmapping dan Editor](/wiki/Help_centre/Beatmapping) | Pengelolaan beatmap, kepemilikan beatmap, sistem kuota beatmap (*beatmap slots*) |
+| [Klien](/wiki/Help_centre/Client) | *Bug* dan *crash*, permainan, koneksi, performa |
+| [Instalasi dan pendaftaran](/wiki/Help_centre/Installation_and_registration) | Pengunduhan, pembuatan akun |
+| [osu!store](/wiki/Help_centre/Store) | osu!go, osu!keyboard, osu!tablet, berbagai piranti dan cinderamata resmi lainnya |
+| [Situs web](/wiki/Help_centre/Website) | Pemblokiran pengguna, layanan dukungan, tampilan situs web |
 
 ## Bantu kami memahami masalahmu
 

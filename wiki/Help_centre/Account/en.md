@@ -15,7 +15,7 @@ tags:
 
 # Account
 
-*Main page: [Help centre](/wiki/Help_Centre)*
+*Main page: [Help centre](/wiki/Help_centre)*
 
 Everything related to your osu! account. Read below to find out if there's a suitable solution to your issue.
 
@@ -41,7 +41,7 @@ If your account has been restricted, you'll likely know why after a brief conver
 
 In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three (3) months** from the date of your last offence before we consider an appeal from you to let you back into the game.
 
-Refer to *[Account Restrictions](/wiki/Help_Centre/Account_Restrictions)* for more information on account restrictions and the appeal process.
+Refer to *[Account Restrictions](/wiki/Help_centre/Account_restrictions)* for more information on account restrictions and the appeal process.
 
 ## Tournament bans
 
@@ -100,7 +100,7 @@ Some VPN providers and proxy servers simply do not work with osu! for whatever r
 
 **We'll need a `network.log` file from you to figure out what's going on if neither of the above solutions work.**
 
-For information on how to get a `network.log` file to send to us, see [Help Centre § Log files](/wiki/Help_Centre#log-files).
+For information on how to get a `network.log` file to send to us, see [Help Centre § Log files](/wiki/Help_centre#log-files).
 
 Rarely, you might need to contact your Internet Service Provider (ISP) to inquire about these problems. Certain ISPs have historically had issues connecting to osu!, usually due to poor routing.
 

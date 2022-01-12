@@ -25,7 +25,7 @@ tags:
 
 # Account
 
-*Hauptseite: [Hilfecenter](/wiki/Help_Centre)*
+*Hauptseite: [Hilfecenter](/wiki/Help_centre)*
 
 Alles, was mit deinem osu!-Account zu tun hat. Lies die unteren Abschnitte, um herauszufinden, ob es eine passende Lösung für dein Problem gibt.
 
@@ -51,7 +51,7 @@ Wenn dein Account eingeschränkt wurde, wirst du wahrscheinlich nach einem kurze
 
 In Situationen, in denen wir uns sicher sind, dass Schummelei oder Fehlverhalten stattgefunden haben, erwarten wir, dass du **drei (3) Monate** ab dem Zeitpunkt deines letzten Verstoßes wartest. Danach darfst du eine Beschwerde einreichen, die wir prüfen, um dich wieder ins Spiel zu lassen.
 
-Siehe *[Einschränkungen des Accounts](/wiki/Help_Centre/Account_Restrictions)* für mehr Informationen über Accounteinschränkungen und das Beschwerdeverfahren.
+Siehe *[Einschränkungen des Accounts](/wiki/Help_centre/Account_restrictions)* für mehr Informationen über Accounteinschränkungen und das Beschwerdeverfahren.
 
 ## Wettbewerbssperre
 
@@ -110,7 +110,7 @@ Einige VPN-Anbieter und Proxy-Server erlauben die Arbeit mit osu! aus unerfindli
 
 **Wir benötigen die Datei `network.log` von dir, um herauszufinden, was schiefläuft, falls keine der obigen Lösungen funktionieren.**
 
-Für Informationen, wie du die Datei `network.log` an uns senden kannst, siehe [Hilfecenter § Log-Dateien](/wiki/Help_Centre#log-dateien).
+Für Informationen, wie du die Datei `network.log` an uns senden kannst, siehe [Hilfecenter § Log-Dateien](/wiki/Help_centre#log-dateien).
 
 In seltenen Fällen musst du dich aufgrund dieser Probleme gegebenenfalls bei deinem Internetdienstanbieter (ISP) erkundigen. Bestimmte ISPs hatten in der Vergangenheit immer wieder Probleme beim Verbinden mit osu!, in der Regel durch schlechtes Routing.
 

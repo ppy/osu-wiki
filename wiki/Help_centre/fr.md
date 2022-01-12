@@ -20,12 +20,12 @@ Choisissez la section qui correspond le plus à votre problème pour trouver une
 
 | Section | Domaine d'intérêt |
 | :-- | :-- |
-| [Compte](/wiki/Help_Centre/Account) | osu!supporter, restrictions, ouverture de session, changements de nom, données de profil |
-| [Beatmapping et Éditeur](/wiki/Help_Centre/Beatmapping) | Maintenance de vos beatmaps, propriété des beatmaps, emplacements des beatmaps |
-| [Client](/wiki/Help_Centre/Client) | Bugs et crashs, gameplay, connexion, performances |
-| [Installation et inscription](/wiki/Help_Centre/Installation_and_registration) | Télécharger le jeu, créer un compte |
-| [Boutique](/wiki/Help_Centre/Store) | Marchandise, osu!go, osu!keyboard, osu!tablet |
-| [Site web](/wiki/Help_Centre/Website) | Blocage des utilisateurs, contacter le support, apparence du site |
+| [Compte](/wiki/Help_centre/Account) | osu!supporter, restrictions, ouverture de session, changements de nom, données de profil |
+| [Beatmapping et Éditeur](/wiki/Help_centre/Beatmapping) | Maintenance de vos beatmaps, propriété des beatmaps, emplacements des beatmaps |
+| [Client](/wiki/Help_centre/Client) | Bugs et crashs, gameplay, connexion, performances |
+| [Installation et inscription](/wiki/Help_centre/Installation_and_registration) | Télécharger le jeu, créer un compte |
+| [Boutique](/wiki/Help_centre/Store) | Marchandise, osu!go, osu!keyboard, osu!tablet |
+| [Site web](/wiki/Help_centre/Website) | Blocage des utilisateurs, contacter le support, apparence du site |
 
 ## Aidez-nous à vous aider
 

@@ -20,7 +20,7 @@ tags:
 
 # Client
 
-*Main page: [Help centre](/wiki/Help_Centre)*
+*Main page: [Help centre](/wiki/Help_centre)*
 
 Having trouble with the game client? Find out if your issue is listed among the most common problems encountered by our users.
 
@@ -276,7 +276,7 @@ The default value works for most people, but if you find it isn't for you, you c
 1. Open osu!.
 2. Click the `Options` button on the main menu, or press `Ctrl` + `O`.
 3. Type `offset` into the quick-search bar. This will take you to the current universal offset your client is using.
-4. Use the slider to adjust your universal offset. Alternatively, try using the [offset wizard](/wiki/Options/Offset_Wizard) to help you with this process.
+4. Use the slider to adjust your universal offset. Alternatively, try using the [offset wizard](/wiki/Client/Options/Offset_Wizard) to help you with this process.
 
 If this still doesn't help, you may want to try updating your sound card or motherboard audio drivers.
 
@@ -510,4 +510,4 @@ If you have a lot of beatmaps, please wait at least 10-15 minutes before blaming
 
 If it doesn't resolve, a reboot can sometimes help.
 
-**If you are still having lag spikes or stuttering during gameplay, have a look through the [performance troubleshooting guide](/wiki/Performance_Troubleshooting) for more related problems and their solutions.**
+**If you are still having lag spikes or stuttering during gameplay, have a look through the [performance troubleshooting guide](/wiki/Performance_troubleshooting) for more related problems and their solutions.**

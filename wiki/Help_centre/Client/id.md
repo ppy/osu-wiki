@@ -27,7 +27,7 @@ tags:
 
 # Klien
 
-*Laman utama: [Pusat bantuan](/wiki/Help_Centre)*
+*Laman utama: [Pusat bantuan](/wiki/Help_centre)*
 
 Apakah kamu mengalami masalah dengan klien osu! milikmu? Harap simak artikel ini dengan seksama untuk mengetahui apakah persoalan yang tengah kamu hadapi telah terperinci di dalamnya.
 
@@ -283,7 +283,7 @@ Untuk dapat mengatur nilai `Universal Offset` yang kamu gunakan, ikuti langkah-l
 1. Buka osu!.
 2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
 3. Ketik `offset` atau pada kolom pencarian (*quick-search bar*) yang muncul.
-4. Atur nilai *offset* yang kamu gunakan hingga objek-objek permainan yang ada tersinkronisasi dengan baik terhadap musik yang mengalun. Apabila kamu ragu, kamu dapat menggunakan *[offset wizard](/wiki/Options/Offset_Wizard)* sebagai acuan pengaturanmu.
+4. Atur nilai *offset* yang kamu gunakan hingga objek-objek permainan yang ada tersinkronisasi dengan baik terhadap musik yang mengalun. Apabila kamu ragu, kamu dapat menggunakan *[offset wizard](/wiki/Client/Options/Offset_Wizard)* sebagai acuan pengaturanmu.
 
 Terakhir, jangan lupa untuk senantiasa memperbaharui *driver* milik *sound card* dan *motherboard* yang kamu gunakan.
 
@@ -515,4 +515,4 @@ Apabila kamu memiliki koleksi beatmap dalam jumlah yang sangat banyak, harap ber
 
 Apabila masalahmu masih belum kunjung terselesaikan, cobalah untuk me-*restart* PC milikmu.
 
-**Apabila kamu sudah mencoba semua hal di atas namun kamu tetap menjumpai *lag* dan/atau *stutter* ketika kamu bermain, harap periksa [panduan berikut](/wiki/Performance_Troubleshooting) untuk mendapatkan arahan lebih lanjut seputar masalah yang kamu hadapi.**
+**Apabila kamu sudah mencoba semua hal di atas namun kamu tetap menjumpai *lag* dan/atau *stutter* ketika kamu bermain, harap periksa [panduan berikut](/wiki/Performance_troubleshooting) untuk mendapatkan arahan lebih lanjut seputar masalah yang kamu hadapi.**

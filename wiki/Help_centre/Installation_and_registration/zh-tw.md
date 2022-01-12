@@ -14,13 +14,13 @@ tags:
 
 # 安裝與註冊
 
-*主頁面：[幫助中心](/wiki/Help_Centre)*
+*主頁面：[幫助中心](/wiki/Help_centre)*
 
 此條目說明了安裝 osu! 和建立帳號的疑難排解。
 
 ## 安裝
 
-*主頁面：[安裝](/wiki/Installation)*
+*主頁面：[安裝](/wiki/Client/Installation)*
 
 ### 要怎麼下載 osu!？
 

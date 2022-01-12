@@ -9,13 +9,13 @@ tags:
 
 # Installation and registration
 
-*Main page: [Help centre](/wiki/Help_Centre)*
+*Main page: [Help centre](/wiki/Help_centre)*
 
 This section is dedicated to issues with installing osu! and creating your own account.
 
 ## Installation
 
-*Main page: [Installation](/wiki/Installation)*
+*Main page: [Installation](/wiki/Client/Installation)*
 
 ### How do I download osu!?
 

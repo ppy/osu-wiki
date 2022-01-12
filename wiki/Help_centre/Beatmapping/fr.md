@@ -16,7 +16,7 @@ tags:
 
 # Beatmapping et Éditeur
 
-*Page principale : [Centre d'aide](/wiki/Help_Centre)*
+*Page principale : [Centre d'aide](/wiki/Help_centre)*
 
 Cette section est consacrée aux problèmes liés à l'éditeur de beatmaps et au beatmapping en général.
 
@@ -52,4 +52,4 @@ Par défaut, chaque utilisateur dispose de 4 emplacements en attente. Un emplace
 
 Vous pouvez supprimer vous-même votre beatmap lorsqu'elle tombe dans le cimetière des beatmaps, ce qui se passera après un mois (28 jours) sans mise à jour.
 
-Une fois que votre beatmap se trouve au cimetière, vous pouvez la supprimer vous-même en vous rendant sur la [page de discussion](/wiki/Beatmap_Discussion) de votre beatmap et en cliquant sur le bouton `Supprimer` qui apparaît sur le côté droit de l'écran après avoir fait défiler la page.
+Une fois que votre beatmap se trouve au cimetière, vous pouvez la supprimer vous-même en vous rendant sur la [page de discussion](/wiki/Beatmap_discussion) de votre beatmap et en cliquant sur le bouton `Supprimer` qui apparaît sur le côté droit de l'écran après avoir fait défiler la page.

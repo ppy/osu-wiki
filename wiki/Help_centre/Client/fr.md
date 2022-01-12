@@ -26,7 +26,7 @@ tags:
 
 # Client
 
-*Page principale : [Centre d'aide](/wiki/Help_Centre)*
+*Page principale : [Centre d'aide](/wiki/Help_centre)*
 
 Vous avez des problèmes avec le client de jeu ? Découvrez si votre problème figure parmi les problèmes les plus courants rencontrés par nos utilisateurs.
 
@@ -282,7 +282,7 @@ La valeur par défaut convient à la plupart des joueurs, mais si vous trouvez q
 1. Ouvrez osu!
 2. Cliquez sur le bouton `Options` du menu principal, ou appuyez sur `Ctrl` + `O`.
 3. Tapez `décalage audio` dans la barre de recherche rapide. Vous obtiendrez ainsi le décalage global actuel utilisé par votre client.
-4. Utilisez le curseur pour ajuster votre décalage universel. Vous pouvez également utiliser l'[assistant de décalage](/wiki/Options/Offset_Wizard) pour vous aider dans ce processus.
+4. Utilisez le curseur pour ajuster votre décalage universel. Vous pouvez également utiliser l'[assistant de décalage](/wiki/Client/Options/Offset_Wizard) pour vous aider dans ce processus.
 
 Si cela ne suffit toujours pas, vous pouvez essayer de mettre à jour les pilotes audio de votre carte son ou de votre carte mère.
 
@@ -516,4 +516,4 @@ Si vous avez beaucoup de beatmaps, attendez au moins 10 à 15 minutes avant de d
 
 Si le problème ne se résout pas, un redémarrage peut parfois aider.
 
-**Si vous rencontrez toujours des pics de lag ou du stuttering pendant la partie, consultez le [guide de dépannage des performances](/wiki/Performance_Troubleshooting) pour d'autres problèmes connexes et leurs solutions.**
+**Si vous rencontrez toujours des pics de lag ou du stuttering pendant la partie, consultez le [guide de dépannage des performances](/wiki/Performance_troubleshooting) pour d'autres problèmes connexes et leurs solutions.**

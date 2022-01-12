@@ -17,12 +17,12 @@ Choose the section that matches your problem the most to find a suitable solutio
 
 | Section | Area of focus |
 | :-- | :-- |
-| [Account](/wiki/Help_Centre/Account) | osu!supporter, restrictions, signing-in, name changes, profile data |
-| [Beatmapping and Editor](/wiki/Help_Centre/Beatmapping) | Maintaining your beatmaps, beatmap ownership, beatmap slots |
-| [Client](/wiki/Help_Centre/Client) | Bugs and crashes, gameplay, connection, performance |
-| [Installation and registration](/wiki/Help_Centre/Installation_and_registration) | Downloading the game, creating an account |
-| [Store](/wiki/Help_Centre/Store) | Merchandise, osu!go, osu!keyboard, osu!tablet |
-| [Website](/wiki/Help_Centre/Website) | Blocking users, contacting with the support, site appearance |
+| [Account](/wiki/Help_centre/Account) | osu!supporter, restrictions, signing-in, name changes, profile data |
+| [Beatmapping and Editor](/wiki/Help_centre/Beatmapping) | Maintaining your beatmaps, beatmap ownership, beatmap slots |
+| [Client](/wiki/Help_centre/Client) | Bugs and crashes, gameplay, connection, performance |
+| [Installation and registration](/wiki/Help_centre/Installation_and_registration) | Downloading the game, creating an account |
+| [Store](/wiki/Help_centre/Store) | Merchandise, osu!go, osu!keyboard, osu!tablet |
+| [Website](/wiki/Help_centre/Website) | Blocking users, contacting with the support, site appearance |
 
 ## Help us help you
 

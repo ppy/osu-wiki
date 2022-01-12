@@ -23,7 +23,7 @@ tags:
 
 # Akun
 
-*Laman utama: [Pusat bantuan](/wiki/Help_Centre)*
+*Laman utama: [Pusat bantuan](/wiki/Help_centre)*
 
 Berikut merupakan jawaban atas pertanyaan-pertanyaan yang umum diajukan seputar segala hal yang berhubungan dengan akun osu! milikmu. Harap simak artikel ini dengan seksama untuk mengetahui apakah pertanyaan yang hendak kamu ajukan telah terperinci di dalamnya.
 
@@ -49,7 +49,7 @@ Apabila kamu tidak yakin mengapa akunmu di-*restrict*, kamu dapat meminta penjel
 
 Kamu juga dapat mengajukan banding terhadap status *restricted* yang kamu miliki. Dalam situasi di mana kamu telah terbukti melanggar, kamu harus menunggu setidaknya tiga (3) bulan terhitung dari tanggal pelanggaran terakhir yang kamu lakukan sebelum banding yang kamu ajukan dapat kami terima.
 
-Harap kunjungi laman *[Pembatasan Akun](/wiki/Help_Centre/Account_Restrictions)* untuk informasi lebih lanjut mengenai sistem pembatasan akun dan proses banding yang berlaku.
+Harap kunjungi laman *[Pembatasan Akun](/wiki/Help_centre/Account_restrictions)* untuk informasi lebih lanjut mengenai sistem pembatasan akun dan proses banding yang berlaku.
 
 ## Larangan turnamen
 
@@ -108,7 +108,7 @@ Sepengetahuan kami, terdapat beberapa penyedia jasa layanan *proxy server* dan j
 
 **Harap kirimi kami berkas `network.log` milikmu agar kami dapat membantumu lebih lanjut.**
 
-Untuk mengetahui cara mendapatkan berkas `network.log` yang dimaksud, harap lihat [Berkas-berkas log](/wiki/Help_Centre#berkas-berkas-log).
+Untuk mengetahui cara mendapatkan berkas `network.log` yang dimaksud, harap lihat [Berkas-berkas log](/wiki/Help_centre#berkas-berkas-log).
 
 Kamu juga dapat meminta bantuan kepada pihak penyedia layanan internet (*Internet Service Provider*/ISP) yang kamu gunakan. Terkadang, beberapa ISP tidak dapat terhubung dengan osu! karena sistem pengantaran paket jaringan (*routing*) mereka yang sedang bermasalah.
 

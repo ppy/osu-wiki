@@ -19,12 +19,12 @@ Wähle den Abschnitt, der deinem Problem am meisten ähnelt, damit du eine passe
 
 | Abschnitt | Schwerpunkte |
 | :-- | :-- |
-| [Account](/wiki/Help_Centre/Account) | osu!supporter, Sperrungen, Einloggen, Namensänderungen, Profildaten |
-| [Mapping und Editor](/wiki/Help_Centre/Beatmapping) | Deine Beatmaps pflegen, Beatmap-Eigentümerschaft, Beatmap-Slots |
-| [Client](/wiki/Help_Centre/Client) | Fehler und Abstürze, Spielverlauf, Verbindung, Leistung |
-| [Installation und Registrierung](/wiki/Help_Centre/Installation_and_registration) | Das Spiel herunterladen, einen Account erstellen |
-| [Store](/wiki/Help_Centre/Store) | Merchandise, osu!go, osu!keyboard, osu!tablet |
-| [Webseite](/wiki/Help_Centre/Website) | Benutzer blockieren, den Support kontaktieren, Erscheinungsbild der Website |
+| [Account](/wiki/Help_centre/Account) | osu!supporter, Sperrungen, Einloggen, Namensänderungen, Profildaten |
+| [Mapping und Editor](/wiki/Help_centre/Beatmapping) | Deine Beatmaps pflegen, Beatmap-Eigentümerschaft, Beatmap-Slots |
+| [Client](/wiki/Help_centre/Client) | Fehler und Abstürze, Spielverlauf, Verbindung, Leistung |
+| [Installation und Registrierung](/wiki/Help_centre/Installation_and_registration) | Das Spiel herunterladen, einen Account erstellen |
+| [Store](/wiki/Help_centre/Store) | Merchandise, osu!go, osu!keyboard, osu!tablet |
+| [Webseite](/wiki/Help_centre/Website) | Benutzer blockieren, den Support kontaktieren, Erscheinungsbild der Website |
 
 ## Helfe uns, dir zu helfen
 

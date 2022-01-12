@@ -11,7 +11,7 @@ tags:
 
 # Beatmapping and Editor
 
-*Main page: [Help centre](/wiki/Help_Centre)*
+*Main page: [Help centre](/wiki/Help_centre)*
 
 This section is dedicated to issues with the Beatmap Editor and beatmapping in general.
 
@@ -47,4 +47,4 @@ By default, every user has 4 pending slots. One slot is added for every ranked b
 
 You can delete your beatmap yourself by waiting for it to decay to the beatmap Graveyard, which it will do so after a month (28 days) without updates.
 
-Once your beatmap is in the Graveyard, you can delete it yourself by going to the [Discussion page](/wiki/Beatmap_Discussion) of your beatmap and clicking the `Delete` button that appears on the right side of the screen after scrolling down.
+Once your beatmap is in the Graveyard, you can delete it yourself by going to the [Discussion page](/wiki/Beatmap_discussion) of your beatmap and clicking the `Delete` button that appears on the right side of the screen after scrolling down.

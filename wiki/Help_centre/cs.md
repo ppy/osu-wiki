@@ -18,12 +18,12 @@ Vyberte část, která nejvíce odpovídá vašemu problému, abyste našli vhod
 
 | Sekce | Témata |
 | :-- | :-- |
-| [Účet](/wiki/Help_Centre/Account) | osu!supporter, omezení, přihlášení, změna jména, data profilu |
-| [Beatmapping a Editor](/wiki/Help_Centre/Beatmapping) | Údržba beatmap, vlastnictví beatmapy, beatmapové sloty |
-| [Klient](/wiki/Help_Centre/Client) | Bugy a pády, gameplay, připojení, výkon |
-| [Instalace a registrace](/wiki/Help_Centre/Installation_and_registration) | Stahování hry, vytváření účtu |
-| [Obchod](/wiki/Help_Centre/Store) | Zboží, osu!go, osu!keyboard, osu!tablet |
-| [Webová stránka](/wiki/Help_Centre/Website) | Blokování uživatelů, kontakt s podporou, vzhled stránek |
+| [Účet](/wiki/Help_centre/Account) | osu!supporter, omezení, přihlášení, změna jména, data profilu |
+| [Beatmapping a Editor](/wiki/Help_centre/Beatmapping) | Údržba beatmap, vlastnictví beatmapy, beatmapové sloty |
+| [Klient](/wiki/Help_centre/Client) | Bugy a pády, gameplay, připojení, výkon |
+| [Instalace a registrace](/wiki/Help_centre/Installation_and_registration) | Stahování hry, vytváření účtu |
+| [Obchod](/wiki/Help_centre/Store) | Zboží, osu!go, osu!keyboard, osu!tablet |
+| [Webová stránka](/wiki/Help_centre/Website) | Blokování uživatelů, kontakt s podporou, vzhled stránek |
 
 ## Pomozte nám, pomóct vám
 

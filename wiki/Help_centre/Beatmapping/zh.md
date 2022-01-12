@@ -17,7 +17,7 @@ tags:
 
 # 作图与编辑器
 
-*主页面： [帮助中心](/wiki/Help_Centre)*
+*主页面： [帮助中心](/wiki/Help_centre)*
 
 此文章将讲述作图与编辑器的一般问题。
 
@@ -53,4 +53,4 @@ tags:
 
 谱面闲置一个月（28天）后，会进入 Graveyard 状态，这时你可以自己删除你的这张谱面。
 
-一旦你的谱面进入 Graveyard 状态，你通过在网页上点击[谱面讨论页面](/wiki/Beatmap_Discussion)的 `删除` 按钮来删除它。
+一旦你的谱面进入 Graveyard 状态，你通过在网页上点击[谱面讨论页面](/wiki/Beatmap_discussion)的 `删除` 按钮来删除它。

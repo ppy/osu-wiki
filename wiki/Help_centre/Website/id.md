@@ -21,7 +21,7 @@ tags:
 
 # Situs web
 
-*Laman utama: [Pusat bantuan](/wiki/Help_Centre)*
+*Laman utama: [Pusat bantuan](/wiki/Help_centre)*
 
 Laman ini akan membahas berbagai permasalahan dan pertanyaan yang sering diutarakan seputar situs web osu! secara garis besar.
 

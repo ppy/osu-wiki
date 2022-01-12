@@ -31,7 +31,7 @@ Se sua conta foi restrita, você provavelmente saberá o porque após uma breve 
 
 Em situações que nós estamos absolutamente seguros de que jogo sujo ou transgressão foi realmente cometido, nós iremos pedir que você espere um período de **três (3) meses** da data de sua última ofença antes de nós considerarmos um recurso de você para lhe deixar voltar ao jogo.
 
-Refira-se as *[Restrições de conta](/wiki/Help_Centre/Account_Restrictions)* para mais informação sobre restrições de conta de o processo de abrir um recurso.
+Refira-se as *[Restrições de conta](/wiki/Help_centre/Account_restrictions)* para mais informação sobre restrições de conta de o processo de abrir um recurso.
 
 ### Conectar-se
 

@@ -15,13 +15,13 @@ tags:
 
 # Installation et inscription
 
-*Page principale : [Centre d'aide](/wiki/Help_Centre)*
+*Page principale : [Centre d'aide](/wiki/Help_centre)*
 
 Cette section est consacrée aux problèmes liés à l'installation d'osu! et à la création de votre propre compte.
 
 ## Installation
 
-*Page principale : [Installation](/wiki/Installation)*
+*Page principale : [Installation](/wiki/Client/Installation)*
 
 ### Comment télécharger osu! ?
 

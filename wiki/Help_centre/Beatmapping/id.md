@@ -17,7 +17,7 @@ tags:
 
 # Beatmapping dan Editor
 
-*Laman utama: [Pusat bantuan](/wiki/Help_Centre)*
+*Laman utama: [Pusat bantuan](/wiki/Help_centre)*
 
 Laman ini akan membahas berbagai permasalahan dan pertanyaan yang sering diutarakan seputar proses pembuatan beatmap (*beatmapping*) dan penggunaan Beatmap Editor secara garis besar.
 
@@ -53,4 +53,4 @@ Secara *default*, kamu memiliki 4 slot beatmap Pending/WIP yang akan bertambah p
 
 Satu-satunya cara agar kamu dapat menghapus beatmap milikmu adalah dengan mengabaikan/tidak memperbarui beatmap yang bersangkutan selama satu bulan (28 hari) dan menunggu hingga beatmap tersebut terkubur di dalam Beatmap Graveyard.
 
-Setelah beatmap yang hendak kamu hapus terkubur di dalam Beatmap Graveyard, tuju [laman diskusi](/wiki/Beatmap_Discussion) milik beatmap yang bersangkutan dan klik tombol `Hapus` yang ada pada bagian kanan layar untuk menghapusnya.
+Setelah beatmap yang hendak kamu hapus terkubur di dalam Beatmap Graveyard, tuju [laman diskusi](/wiki/Beatmap_discussion) milik beatmap yang bersangkutan dan klik tombol `Hapus` yang ada pada bagian kanan layar untuk menghapusnya.
