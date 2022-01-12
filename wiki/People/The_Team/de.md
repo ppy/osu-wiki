@@ -48,6 +48,7 @@ Die folgenden Benutzergruppen bestehen aus Mitgliedern der osu!-Community, die h
 | [Beatmap Nominators](Beatmap_Nominators) | Sorgen dafür, dass deine Beatmap in den "qualifiziert"-Status kommt |
 | [Entwickler](Developers) | Machen das Spiel besser, indem sie neue Inhalte zum Spiel hinzufügen und Spielfehler beheben |
 | [Global Moderation Team](Global_Moderation_Team) | Behalten die Übersicht über die Foren und den In-Game Chat |
+| [Nomination Assessment Team](Nomination_Assessment_Team) | Verwaltung der Beatmap Nominators |
 | [osu! Alumni](osu!_Alumni) | Diejenigen, die für ihre Beiträge bekannt sind und inzwischen weitergezogen sind |
 | [Project Loved Team](Project_Loved_Team) | Erkennen der Beatmaps, die die Community am meisten liebt |
 | [Support-Team](Support_Team) | Hilfe / Feature-Request Unterstützung |
