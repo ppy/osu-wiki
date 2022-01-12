@@ -8,7 +8,7 @@ tags:
 
 # Health
 
-**Health** atau *HP*, adalah nilai yang ditentukan jika seorang pemain menyelesaikan atau gagal dalam sebuah [beatmap](/wiki/Beatmap). Health dapat dilihat di dalam [health bar](/wiki/Glossary/Health_bar), yang diperbarui selama gameplay. Pengaturan kesulitan [HP drain rate](/wiki/Beatmapping/HP_drain_rate) menentukan seberapa susah untuk menjaga nilai health agar tetap tinggi. 
+**Health** atau *HP*, adalah nilai yang ditentukan jika seorang pemain menyelesaikan atau gagal dalam sebuah [beatmap](/wiki/Beatmap). Health dapat dilihat di dalam [health bar](/wiki/Client/Interface/Health_bar), yang diperbarui selama gameplay. Pengaturan kesulitan [HP drain rate](/wiki/Beatmapping/HP_drain_rate) menentukan seberapa susah untuk menjaga nilai health agar tetap tinggi. 
 
 ## osu!
 
@@ -18,7 +18,7 @@ Score burst akan muncul setelah menekan hit circle, mengganti skor dan nilai hea
 
 Pemulihan Health:
 
-- Sukses mengetuk hit circle (mendapatkan nilai lebih memberikan banyak health; hit circle terakhir di warna kombo memberikan tambahan health)
+- Sukses mengetuk hit circle ([judgement](/wiki/Gameplay/Judgement) yang lebih baik memberikan banyak health; hit circle terakhir pada warna kombo memberikan tambahan health)
 - Sukses mengetuk sebuah awal slider
 - Slider ball berhasil mengumpulkan slider tick
 - Slider ball berhasil menyentuh slider end atau reverse arrow (mendapatkan nilai lebih saat tick terakhir memberikan tambahan health)

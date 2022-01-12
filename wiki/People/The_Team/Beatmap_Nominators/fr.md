@@ -9,7 +9,7 @@ tags:
 
 *Voir également : [Règles pour les Beatmap Nominators](Rules), [Attentes à l'égard des Beatmap Nominators](Expectations), [Informations générales sur les Beatmap Nominators](General_Information), et [Devenir un Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
-Les **Beatmap Nominators** (***BN***) sont un groupe chargé de la [nomination des beatmaps](/wiki/Beatmap_ranking_procedure). Ils ont une couleur violette sur leur nom d'utilisateur sur le forum et dans les [discussions des beatmaps](/wiki/Beatmap_Discussion).
+Les **Beatmap Nominators** (***BN***) sont un groupe chargé de la [nomination des beatmaps](/wiki/Beatmap_ranking_procedure). Ils ont une couleur violette sur leur nom d'utilisateur sur le forum et dans les [discussions des beatmaps](/wiki/Beatmap_discussion).
 
 ## Rôles et responsabilités
 
@@ -197,7 +197,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ![][flag_FI] [Aakki](https://osu.ppy.sh/users/11077540) | Finlandais |
 | ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280) | Espagnol |
 | ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342) |  |
-| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/120247532) | Ukrainien |
+| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Ukrainien |
 | ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623) | Norvégien |
 | ![][flag_RU] [Froskya](https://osu.ppy.sh/users/4230454) | Russe |
 | ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | Lituanien |

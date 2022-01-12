@@ -14,12 +14,12 @@ tags:
 
 Hybrid can be performed in many different ways:
 
-- Some hybrid players tap [hit objects](/wiki/Hit_object) by switching between which key they single-tap with (`Z` and `X` by default) at regular intervals throughout a beatmap. While also alternating on [stacks](/wiki/Mapping_Techniques/Stack) whenever possible.
-- Some hybrid players use a combination of alternating and single-tapping depending on the speed of the beatmap: some speeds are easier to single-tap with as apposed to alternating and many hybrid players accomodate for that. The speeds at which this occurs vary from player to player.
+- Some hybrid players tap [hit objects](/wiki/Hit_object) by switching between which key they single-tap with (`Z` and `X` by default) at regular intervals throughout a beatmap. While also alternating on [stacks](/wiki/Mapping_techniques/Stack) whenever possible.
+- Some hybrid players use a combination of alternating and single-tapping depending on the speed of the beatmap: some speeds are easier to single-tap with as opposed to alternating and many hybrid players accommodate for that. The speeds at which this occurs vary from player to player.
 - Other hybrid players use a combination of [double tapping](/wiki/Play_style/Double_tapping), single-tapping, and alternating seemingly at whim. This is, of course, all just personal preference.
 
 ## Arguments
 
-Arguments in-favor of the hybrid tapping style typically reference the fact that hybrid can take advantage of both single-tapping and alternating at any time and thus have the advantages of both styles.
+Arguments in favour of the hybrid tapping style typically reference the fact that hybrid can take advantage of both single-tapping and alternating at any time and thus have the advantages of both styles.
 
 On the contrary, many players argue that learning more "advanced" hybrid techniques can be very difficult and can require more effort be put into to planning which key to press next instead of clicking the circles to the beat. Both arguments, of course, are truly down to personal opinion.

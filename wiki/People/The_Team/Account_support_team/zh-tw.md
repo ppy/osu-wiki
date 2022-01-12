@@ -29,14 +29,14 @@ no_native_review: true
   - 個人檔案內容遭移除；
   - 圖譜遭移除；
   - 論壇帖子或留言遭移除。
-- 你想[承認](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?)的不良行為。
+- 你想[承認](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?)的不良行為。
 - [無法存取](/wiki/Help_Centre/Installation_and_registration#要怎麼下載-osu!？)你的 osu! 帳號綁定的電子郵件信箱，或帳號被盜用。
 - [復原使用者名稱或修正拼寫錯誤](/wiki/Help_Centre/Account#用户名更改)。
 - [機器人帳號註冊](/wiki/Bot_account)。
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*提醒：若要檢舉任何玩家 (包括管理員) 的極端不當行為或性騷擾，請見[檢舉性騷擾](/wiki/Reporting_Bad_Behaviour/Abuse)。*
+*提醒：若要檢舉任何玩家 (包括管理員) 的極端不當行為或性騷擾，請見[檢舉性騷擾](/wiki/Reporting_bad_behaviour/Abuse)。*
 
 - 對於管理員不當行為的疑慮。
 - 對於管理員觸犯了[貢獻者行為準則](/wiki/Contributor_Code_of_Conduct)的疑慮。

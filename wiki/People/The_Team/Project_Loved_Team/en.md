@@ -6,7 +6,7 @@ tags:
 
 # Project Loved Team
 
-The **Project Loved Team** are members of the osu! community who manage [Project Loved](/wiki/Project_Loved), the voting platform that promotes [beatmaps](/wiki/Beatmap) to the [Loved](/wiki/Beatmap/Category#loved) category. They are distinguished by their usergroup badge that reads `LVD` and the username colour that is candy pink on the forums.
+The **Project Loved Team** are members of the osu! community who manage [Project Loved](/wiki/Community/Project_Loved), the voting platform that promotes [beatmaps](/wiki/Beatmap) to the [Loved](/wiki/Beatmap/Category#loved) category. They are distinguished by their usergroup badge that reads `LVD` and the username colour that is candy pink on the forums.
 
 The [Project Loved group page](https://osu.ppy.sh/groups/31) lists all of the team members.
 
@@ -141,7 +141,7 @@ Below listed are the users, who once were a part of the Project Loved Team.
 ## Trivia
 
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) created the original team of captains in September 2017 along with the [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) system that was later renamed to Project Loved. Until late 2019, he oversaw and managed the whole project.
-- Prior to the 28th of April, 2021, the [Project Loved group page](https://osu.ppy.sh/groups/31) was not public and used only for administrational purposes. As of now, it is publicly available.
+- Prior to the 28th of April, 2021, the [Project Loved group page](https://osu.ppy.sh/groups/31) was not public and used only for administrative purposes. As of now, it is publicly available.
   - Until the 16th of April, 2021, the only people that had been in the group were ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), and ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689). Now, all of the Project Loved Team belongs to the group.
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"

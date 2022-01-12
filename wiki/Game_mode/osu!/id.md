@@ -1,4 +1,7 @@
-<!-- TODO: strange descriptions in many places and unhelpful order if you're trying to see what this game mode is all about. -->
+---
+outdated: true
+outdated_since: 2dccc07cb4759a455196482e5f00383834f9813b
+---
 
 # osu! (mode permainan)
 
@@ -96,7 +99,7 @@ Apabila kamu bermain menggunakan mod [Relax](/wiki/Game_modifier/Relax), kamu ha
 
 ## Penilaian
 
-*Mohon lihat laman [Sistem skor pada mode osu!](/wiki/Score/osu!) untuk informasi lebih lanjut seputar penilaian skor yang dipakai oleh osu!.*
+*Mohon lihat laman [Sistem skor pada mode osu!](/wiki/Gameplay/Score/osu!) untuk informasi lebih lanjut seputar penilaian skor yang dipakai oleh osu!.*
 
 Berikut ini adalah penjelasan mengenai penilaian skor yang digunakan dipakai oleh osu! untuk menentukan skor kamu.
 
@@ -150,7 +153,7 @@ Sedangkan pada bagian spinner, bonus tambahan senilai 1.000 poin akan diberikan 
 
 #### Perhitungan Difficulty multiplier
 
-[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup) dan [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup) masing-masing memiliki pengaruhnya tersendiri pada *difficulty point*.
+[Circle Size (CS)](/wiki/Client/Beatmap_editor/Song_Setup), [HP Drain (HP)](/wiki/Client/Beatmap_editor/Song_Setup) dan [Overall Difficulty (OD)](/wiki/Client/Beatmap_editor/Song_Setup) masing-masing memiliki pengaruhnya tersendiri pada *difficulty point*.
 
 *Difficulty point* yang terkumpul juga dapat mempengaruhi **Difficulty multiplier** dengan ketentuan sebagai berikut sebagai berikut:
 

@@ -16,4 +16,4 @@ Beatmaps could be nuked for a multitude of reasons, but the most common ones wer
   - Extremely challenging or unconventional beatmaps (e.g. consisting of a single [spinner](/wiki/Hit_object/Spinner)).
 - Not following the [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping).
 
-Nukes technically still exist on the forums, but with the addition of [Modding v2](/wiki/Beatmap_Discussion) and [vetoes](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) they have effectively been replaced and have no use in the current modding system.
+Nukes technically still exist on the forums, but with the addition of [Modding v2](/wiki/Beatmap_discussion) and [vetoes](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) they have effectively been replaced and have no use in the current modding system.

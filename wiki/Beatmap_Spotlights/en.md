@@ -81,7 +81,7 @@ The Beatmap Spotlights project is currently organised in pre-defined seasons. Ea
 2. Seasons are fully prepared before they start.
    - Every curated beatmap is selected and locked in before a season starts.
    - Once a season begins, the whole schedule will be released.
-3. Each season is split into weeks. Each week is labeled with a letter.
+3. Each season is split into weeks. Each week is labelled with a letter.
    - Each letter represents the playlist of a weekly multiplayer lobby.
    - Weeks cycle through the entire season and repeat twice.
 4. Once a season finishes, there will be a break of 3 weeks before a new season begins. During that time, readjustments to the project can be made.

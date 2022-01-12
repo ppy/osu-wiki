@@ -1,6 +1,6 @@
 # Pemasangan
 
-_Halaman utama: [osu!tourney](/wiki/osu!tourney)_
+*Halaman utama: [osu!tourney](/wiki/osu!tourney)*
 
 **Catatan:** Saat ini supporter tag yang aktif diperlukan untuk menjalankan klien osu!tourney.
 
@@ -25,7 +25,7 @@ Jangan mengubah file `tournament.cfg` saat osu! sedang dijalankan. Tutup osu! da
 - `TeamSize`: Jumlah pemain per tim. Klien akan membuka 1-8 jendela per tim, jendela yang terbuka ditentukan oleh nilai ini. Nilai maksimalnya adalah 8.
 - `ClientNameSize`: Besar tulisan nama pemain pada klien turnamen yang disoroti dengan warna kuning.
 - `privateserver`: Dibiarkan saja jangan disentuh.
-- `acronym`: Singkatan untuk turnamen. Hal ini mempengaruhi penamaan ruang yang akan digunakan untuk turnamen, periksa [panduan penggunaan multiplayer](/wiki/osu!tourney/Multiplayer_Usage) untuk informasi lebih lanjut.
+- `acronym`: Singkatan untuk turnamen. Hal ini mempengaruhi penamaan ruang yang akan digunakan untuk turnamen, periksa [panduan penggunaan multiplayer](/wiki/osu!tourney/Multiplayer_usage) untuk informasi lebih lanjut.
 - `BufferTimeoutTime`: Jumlah waktu tunggu klien untuk pemain *buffer* sebelum melanjutkan permainan tanpa mereka *(pemain yang buffer)*.
   - Tidak disarankan untuk mengubahnya.
 - `BufferTotalTime`: Jumlah waktu *buffer* klien untuk mengurangi frekuensi jeda untuk menunggu *buffer*. Hal ini mengakibatkan penundaan antara klien dan pemain.

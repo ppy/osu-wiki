@@ -10,7 +10,7 @@ tags:
 
 # Meetings de la NAT
 
-Les **réunions de la NAT** sont des discussions organisées par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) dans le canal `#modding` du [serveur Discord osu!dev](/wiki/osu!dev_Discord_server). Les sujets de réunion concernent l'écosystème du [mapping](/wiki/Beatmapping) et du [modding](/wiki/Modding), y compris les problèmes, les solutions potentielles, les nouvelles idées et les rapports d'avancement. Bien que la plupart des contributeurs aux discussions soient des membres de la NAT ou des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), tout le monde est autorisé à participer.
+Les **réunions de la NAT** sont des discussions organisées par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) dans le canal `#modding` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server). Les sujets de réunion concernent l'écosystème du [mapping](/wiki/Beatmapping) et du [modding](/wiki/Modding), y compris les problèmes, les solutions potentielles, les nouvelles idées et les rapports d'avancement. Bien que la plupart des contributeurs aux discussions soient des membres de la NAT ou des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), tout le monde est autorisé à participer.
 
 Les réunions sont généralement annoncées plus d'une semaine à l'avance dans le canal `#modding`.
 

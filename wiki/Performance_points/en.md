@@ -10,7 +10,7 @@ It aims to shift the focus of skill progression from the amount of time played t
 
 The first initial implementation of such a score was revealed to the public during April 2012 and was known only as the mysterious *'???'* project, the enigmatic system eventually received its full name later on in the month.
 
-Known thereafter as "pp" (an abbreviation for "performance points"), this new system sought to change the previous standard of player performance from simply total [score](/wiki/Score) to something that accurately reflected skill. The new system was met to widespread acclaim among the player base at the time.
+Known thereafter as "pp" (an abbreviation for "performance points"), this new system sought to change the previous standard of player performance from simply total [score](/wiki/Gameplay/Score) to something that accurately reflected skill. The new system was met to widespread acclaim among the player base at the time.
 
 Several months after its reveal, the 20120722-24 osu! release officially implemented the system to fully replace the old [Ranked](/wiki/Beatmap/Category#ranked) score system, with new scores being calculated every 30 minutes. Later on in August of the same year, the system was improved to update in real-time.
 
@@ -97,7 +97,7 @@ Consider the following tips:
 - Play efficiently and figure out which play style works best for you.
 - Focus on getting a handful of exceptional scores instead of "farming" hundreds of just okay scores.<!-- "farming" will need to be linked once a stub or section is created -->
 - Aim to improve your accuracy. Even 1% makes a massive difference.
-- Aim for higher combos. Full combos (FC) or [SS](/wiki/Grade) scores give tremendous amounts of score.
+- Aim for higher combos. Full combos (FC) or [SS](/wiki/Gameplay/Grade) scores give tremendous amounts of score.
 
 ### Why didn't I gain the full amount of pp from a map I played?
 

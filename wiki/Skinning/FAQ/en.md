@@ -34,9 +34,9 @@ Do note, however, the folder called `taiko` (case-insensitive) is reserved for o
 
 ### How do I reload my skin in osu!?
 
-You will need to have your skin selected, then press this keystoke to reload a skin in osu! is `Ctrl` + `Alt` + `Shift` + `S`.
+You will need to have your skin selected, then press this keystroke to reload a skin in osu! is `Ctrl` + `Alt` + `Shift` + `S`.
 
-You can also exit and reopen osu! or start the updater to reload the skin, but it usually is much quicker to use the four-keystoke combination to reload the skin in osu!
+You can also exit and reopen osu! or start the updater to reload the skin, but it usually is much quicker to use the four-keystroke combination to reload the skin in osu!
 
 ### What are skinning sets?
 
@@ -139,7 +139,7 @@ It is really important to include various screenshots of gameplay and the song s
 
 Skin v1.0 was the old skinning style that was used from the game's skinning support launch until March 2013. After that point in time, skin v2.0 was released along side a brand new set of skinning elements with some changes. To see a changelog of skinning updates, see the [Versions section in the skin.ini article](/wiki/Skinning/skin.ini#versions).
 
-It may not seem important to denote which version to use, but understand that some older features may not be available in the latest version of skinning and vise versa.
+It may not seem important to denote which version to use, but understand that some older features may not be available in the latest version of skinning and vice versa.
 
 ## Audio
 
@@ -248,7 +248,7 @@ If you want to remove an element, you must use a transparent image in place of t
 
 There are two ways to do this:
 
-- Disable `Hit Lighting` in the [options](/wiki/Options).
+- Disable `Hit Lighting` in the [options](/wiki/Client/Options).
 - Use a transparent image called `lighting.png` in your skin.
 
 ##### I meant the particles after clicking!

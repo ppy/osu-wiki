@@ -1,18 +1,14 @@
----
-no_native_review: true
----
-
 # L'histoire d'osu! en 2014
 
 ## Janvier
 
-L'ensemble du système des [points de performance (pp)](/wiki/Performance_points) a été complètement désactivé pour maintenance le 20 janvier 2014 en raison d'erreurs de calcul survenues au cours des mois précédents \[1\]. Cette désactivation a ensuite été suivie d'une annonce, le 26 janvier 2014, détaillant une refonte complète du système de pp, qui a été mise en service le lendemain \[2,3\]. Le nouveau système a été conçu et mis en œuvre par [Tom94](https://osu.ppy.sh/users/1857058) et visait à baser les scores de pp sur une nouvelle "valeur de difficulté" (distincte du [classement par étoiles](/wiki/Beatmapping/Star_rating)) qui était déterminée pour chaque combinaison de [beatmap](/wiki/Beatmap) et de [mod](/wiki/Game_modifier) dans le jeu \[1\]. En conséquence, l'ancien système de pp a été renommé "ppv1" et le nouveau système a été nommé "ppv2".
+L'ensemble du système des [points de performance (pp)](/wiki/Performance_points) a été complètement désactivé pour une maintenance le 20 janvier 2014 en raison d'erreurs de calcul survenues au cours des mois précédents \[1\]. Cette désactivation a ensuite été suivie d'une annonce, le 26 janvier 2014, détaillant une refonte complète du système de pp, qui a été mise en service le lendemain \[2,3\]. Le nouveau système a été conçu et mis en œuvre par [Tom94](https://osu.ppy.sh/users/1857058) et visait à baser les scores de pp sur une nouvelle "valeur de difficulté" (distincte du [star rating](/wiki/Beatmapping/Star_rating)) qui était déterminée pour chaque combinaison de [beatmap](/wiki/Beatmap) et de [mod](/wiki/Game_modifier) dans le jeu \[1\]. En conséquence, l'ancien système de pp a été renommé "ppv1" et le nouveau système a été nommé "ppv2".
 
 ## Mars
 
-Le 1er mars 2014, le système de points de performance remanié par Tom94 quelques mois auparavant était prêt à être mis en ligne pour [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch) et [osu!mania](/wiki/Game_mode/osu!mania) en tant que système de classement officiel pour ces modes, tout en rappelant que le système actuel n'était pas encore terminé à 100 % et qu'il fallait encore recueillir les commentaires des joueurs \[4\].
+Le 1er mars 2014, le système des points de performance remanié par Tom94 quelques mois auparavant était prêt à être mis en ligne pour [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch) et [osu!mania](/wiki/Game_mode/osu!mania) en tant que système de classement officiel pour ces modes, tout en rappelant que le système actuel n'était pas encore terminé à 100 % et qu'il fallait encore recueillir les commentaires des joueurs \[4\].
 
-Comme les éléments de [skinning](/wiki/Skinning) se sont développés, l'élément `playfield.jpg` a été déprécié et remplacé par un nouvel élément générique qui n'est pas modifiable. `playfield.jpg` était un élément qui permettait aux skinneurs d'utiliser n'importe quelle image comme arrière-plan par défaut d'une beatmap si aucune n'était fournie. Cette fonctionnalité a été apportée plus tard sous la forme de `menu-background.jpg`, qui modifiait à la fois l'écran principal et les fonds par défaut du champ de jeu \[5,6\].
+Comme les éléments de [skinning](/wiki/Skinning) se sont développés, l'élément `playfield.jpg` a été déprécié et remplacé par un nouvel élément générique qui n'est pas modifiable. `playfield.jpg` était un élément qui permettait aux skinneurs d'utiliser n'importe quelle image comme arrière-plan par défaut d'une beatmap si aucune n'était fournie. Cette fonctionnalité a été apportée plus tard sous la forme de `menu-background.jpg`, qui modifiait à la fois l'écran principal et les arrière-plan par défaut du terrain de jeu \[5,6\].
 
 ![](img/2014-03_01.jpg "Arrière-plan par défaut pour les beatmaps sans arrière-plan spécifié")
 
@@ -30,9 +26,9 @@ Le 21 août 2014, un [newspost](https://osu.ppy.sh/home/news/2014-08-21-restruct
 
 ## Octobre
 
-Le mois d'octobre a apporté une poignée de nouveaux ajouts au jeu de base, notamment un nouvel écran de connexion et un nouveau système de défilement dans [osu!mania](/wiki/Game_mode/osu!mania) basé sur le BPM de la beatmap, de nouvelles séquences d'intro et d'outro, et une chanson thème personnalisée qui devait être jouée au démarrage (par opposition à une beatmap aléatoire).
+Le mois d'octobre a apporté une poignée de nouveaux ajouts au jeu de base, notamment un nouvel écran de connexion et un nouveau système de défilement dans [osu!mania](/wiki/Game_mode/osu!mania) basé sur le BPM de la beatmap, de nouvelles séquences d'intro et d'outro, et un thème musical personnalisé qui devait être jouée au démarrage (par opposition à une beatmap aléatoire).
 
-De plus, [peppy](https://osu.ppy.sh/users/2) a également publié la version "osu!test" (désormais connue sous le nom de "Cutting Edge") pour tous les joueurs, et non plus seulement pour les [osu!supporters](https://osu.ppy.sh/home/support), afin de faciliter les efforts de débogage.
+De plus, [peppy](https://osu.ppy.sh/users/2) a également publié la version "osu!test" (désormais connue sous le nom de "Cutting Edge") pour tous les joueurs, et non plus seulement pour les [osu!supporter](https://osu.ppy.sh/home/support), afin de faciliter les efforts de débogage.
 
 ## Références
 

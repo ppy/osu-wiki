@@ -18,8 +18,8 @@ In order to keep the official community hubs safe, osu! has a dedicated moderati
 
 Fortunately, it is still easy for you to help keep everything safe here. The following are just a few of the many ways you can help:
 
-- Follow your favourite channels in the [osu! in-game chat](/wiki/Chat_Console), or on the forums.
-- If you see something happening that you think is inappropriate or disturbing in any way, use [the `!report` command](/wiki/Reporting_Bad_Behaviour) in the in-game chat to notify the moderators of it.
+- Follow your favourite channels in the [osu! in-game chat](/wiki/Client/Interface/Chat_console), or on the forums.
+- If you see something happening that you think is inappropriate or disturbing in any way, use [the `!report` command](/wiki/Reporting_bad_behaviour) in the in-game chat to notify the moderators of it.
 
 ## Help other community members
 
@@ -52,7 +52,7 @@ osu! has a thriving community of technical and competitive people. They range fr
 
 Below are just a few of the ways you can contribute:
 
-- Browse the [Tournaments](https://osu.ppy.sh/community/forums/55) forum. Tournaments take a lot time and work to organize without hitches, and you can help out by being a spectator judge in some cases.
+- Browse the [Tournaments](https://osu.ppy.sh/community/forums/55) forum. Tournaments take a lot time and work to organise without hitches, and you can help out by being a spectator judge in some cases.
 - Check out what's going on in the [Development](https://osu.ppy.sh/community/forums/2) forum; this is where most serious projects happen.
   - Join the [osu!dev Discord](https://discord.gg/ppy)! Even just following along and staying up-to-date with osu! development and projects is a good way to stay informed.
 - Join a [beatmap project](https://osu.ppy.sh/community/forums/53) and learn how fun collaborating with others can be!
@@ -70,7 +70,7 @@ Started in 2017, the osu!lazer project is the current focus of [the osu! team](/
 There is an old saying that you should become part of the solution, not the problem. Simply by following this old saying, you'd be helping osu! by making the community a brighter place. People will always complain, but there are still so many ways you can help lighten up the mood in the community:
 
 - Be friendly to each other; life is too short to argue.
-- [Report cheaters when you see them](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play). Please do not complain about them through other mediums as a simple `!report <username> seems to be cheating` can fix your problems within minutes to hours.
+- [Report cheaters when you see them](/wiki/Reporting_bad_behaviour/Handling_foul_play). Please do not complain about them through other mediums as a simple `!report <username> seems to be cheating` can fix your problems within minutes to hours.
 - Go out of your way to mediate negative situations and turn them into positive outcomes.
 
 **While this article cannot cover how much more you can help the osu! community, simply playing the game as well can make osu! even more awesome!**

@@ -189,6 +189,15 @@ The osu!remix contests award the **osu!mixer** title as a first-place prize.
 
 ¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) was awarded with the **osu!mixer II** title instead for having won both the [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) and the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest.
 
+## Current osu!trivium Quiz contest winners
+
+The [osu!trivium Quiz contests](/wiki/Contests/osu!trivium_Quiz) award its winning team or individual the **osu!trivium Champion** title, which lasts for one year. These are the title holders for 2021:
+
+- ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114)
+- ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621)
+- ![][flag_US] [Codazen](https://osu.ppy.sh/users/18291144)
+- ![][flag_MY] [squidstain](https://osu.ppy.sh/users/11073207)
+
 ## Featured Artists
 
 [Featured Artists](/wiki/Featured_Artists) with osu! accounts are given the **Featured Artist** title to show their involvement.
@@ -272,13 +281,13 @@ These users were awarded their respective titles for having significantly contri
 
 | User | Title |
 | :-- | :-- |
-| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | World Cup Organizer |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | World Cup Organiser |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter <!-- achievements and some other graphics --> |
 | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
-| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup Organizer |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup Organiser |
 | ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter <!-- maria and yuzu and a bunch of artwork for old site --> |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
-| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup Organizer |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup Organiser |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |

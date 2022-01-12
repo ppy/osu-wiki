@@ -18,5 +18,6 @@
 - [Ouendan](Ouendan)
 - [osu!](osu!)
 - [ランク](Rank)
+- [Score](Score)
 - [Star](Star)
 - [バージョン](Version)

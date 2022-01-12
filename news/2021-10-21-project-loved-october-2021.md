@@ -8,7 +8,7 @@ The spookiest month of the year is upon us and Project Loved brings back the bes
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-To those who need a quick refresher, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the Loved Captains of their respective game modes. Each banner in the news post will redirect you to the respective beatmap's poll, or you can view them all directly on the Project Loved forum [here](https://osu.ppy.sh/community/forums/120). The voting process only lasts for 10 days, so remember to cast your votes! You can read more about this project on the [wiki page](/wiki/Project_Loved)!
+To those who need a quick refresher, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the Loved Captains of their respective game modes. Each banner in the news post will redirect you to the respective beatmap's poll, or you can view them all directly on the Project Loved forum [here](https://osu.ppy.sh/community/forums/120). The voting process only lasts for 10 days, so remember to cast your votes! You can read more about this project on the [wiki page](/wiki/Community/Project_Loved)!
 
 As usual, we would like to thank everyone for your participation in the September votes. We hope you enjoyed the massive 4-year celebratory round and are having fun with the new maps added to the Loved category! If you would like to view the results from the previous round, you may do so by clicking the following links:
 
@@ -320,7 +320,7 @@ For anyone yearning to play the most unconventional yet fun and unique maps, wan
 
 FelixSpade makes their first appearance to the Loved votings, with their awesome map of *Despair of ELFERIA*. To give a bit of a briefing on who Felix is, they're a well-known hardworking member of the charting community who has been putting out high quality charts for years at this point. Felix has specifically built up a good reputation amongst LN enthusiasts for having some real standout maps, one of which we have here today.
 
-*Despair of ELFERIA* is as heavily layered and intense as the song it's reflecting, never skipping a beat to be as engaging and challenging as it can be. The LNs are executed quite tastefully, as Felix knew exactly where to layer things heavier and lighter depending on which point of the song you're in. Besides that, I think it's also worth mentioning that this chart has been used in numerous large-scale tournaments, such as [SOFT 5](/wiki/no/Tournaments/SOFT/5), and others which can be found on the map page.
+*Despair of ELFERIA* is as heavily layered and intense as the song it's reflecting, never skipping a beat to be as engaging and challenging as it can be. The LNs are executed quite tastefully, as Felix knew exactly where to layer things heavier and lighter depending on which point of the song you're in. Besides that, I think it's also worth mentioning that this chart has been used in numerous large-scale tournaments, such as [SOFT 5](/wiki/Tournaments/SOFT/5), and others which can be found on the map page.
 
 It's not easy to make a four-minute long LN map as well put together as this, so hats off to Felix. We're happy to bring you this crowd-favorite, as well as Felix's first map to the Loved section, and we look forward to what the future may bring for them!
 

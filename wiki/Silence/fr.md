@@ -10,10 +10,10 @@ Le **silence** est un terme utilisé pour décrire la sanction consistant à lim
 
 Les utilisateurs qui sont réduits au silence par les modérateurs ne peuvent pas faire ce qui suit :
 
-- Utiliser le [tchat](/wiki/Chat_Console) (public et privé), tant dans le jeu que sur le site web.
+- Utiliser le [tchat](/wiki/Client/Interface/Chat_console) (public et privé), tant dans le jeu que sur le site web.
 - Postez sur l'un des forums d'osu!.
 - Laissez des commentaires n'importe où sur le site (news, changelog, beatmaps).
-- Participez aux [discussions sur les beatmaps](/wiki/Beatmap_Discussion)
+- Participez aux [discussions sur les beatmaps](/wiki/Beatmap_discussion)
 - Modifier les détails du profil (par exemple, l'avatar, la section "moi!")
 - Envoyer et mettre à jour les beatmaps
 - Participer à des jeux [multijoueurs](/wiki/Multi)

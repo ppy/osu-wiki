@@ -12,7 +12,7 @@ A familiar name to those who witnessed [*MONONOKE*](https://osu.ppy.sh/beatmapse
 
 **21** awesome tracks across the spectrum of hardcore electronic genres are now available for mapping from [**seatrus**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/185)!
 
-For those who haven't heard of **seatrus** yet, we've organized a few [showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps) to get you invested. Experience [*seatrus - TH3 5UMMONERS*](https://osu.ppy.sh/beatmapsets/1497954) through this split-skin video and check out the rest down below!
+For those who haven't heard of **seatrus** yet, we've organized a few [showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) to get you invested. Experience [*seatrus - TH3 5UMMONERS*](https://osu.ppy.sh/beatmapsets/1497954) through this split-skin video and check out the rest down below!
 
 <div align="center">
     <video width="95%" controls>

@@ -8,13 +8,13 @@
 
 ### 난이도 이름
 
-*메인 문서: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*메인 문서: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
 
-- ![](/wiki/shared/diff/easy-t.png) Kantan
-- ![](/wiki/shared/diff/normal-t.png) Futsuu
-- ![](/wiki/shared/diff/hard-t.png) Muzukashii
-- ![](/wiki/shared/diff/insane-t.png) Oni
-- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+- ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
+- ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
+- ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png?20211215) Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
 
 ### 게임 플레이 요소
 
@@ -75,7 +75,7 @@
 
 특정 난이도의 룰과 가이드라인은 각각 해당하는 난이도에만 적용되며 *osu!taiko 난이도에 **모두** 적용되지 않습니다.* 리듬과 연관된 룰과 가이드라인은 180 BPM을 기준으로 작성되었으며, 노래가 기준보다 많이 느리거나 빠른 경우, 몇몇 변수는 [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM)에 적힌 것과 같이 달라질 수 있습니다.
 
-### ![](/wiki/shared/diff/easy-t.png) Kantan
+### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 
 #### 규칙
 
@@ -95,7 +95,7 @@
 - OD 4 이하.
 - HP 6 이상. 노트 갯수에 따라 HP를 6보다 약간 낮은 수치로 조정할 수 있습니다.
 
-### ![](/wiki/shared/diff/normal-t.png) Futsuu
+### ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 
 #### 규칙
 
@@ -125,7 +125,7 @@
 - OD 5 이하.
 - HP 5 이상. 노트 갯수에 따라 HP를 5보다 약간 낮은 수치로 조정할 수 있습니다.
 
-### ![](/wiki/shared/diff/hard-t.png) Muzukashii
+### ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 
 #### 규칙
 
@@ -148,7 +148,7 @@
 - OD 5 이하.
 - HP 5 이상. 노트 갯수에 따라 HP를 5보다 약간 낮은 수치로 조정할 수 있습니다.
 
-### ![](/wiki/shared/diff/insane-t.png) Oni
+### ![](/wiki/shared/diff/insane-t.png?20211215) Oni
 
 #### 규칙
 
@@ -170,7 +170,7 @@
 - OD 5 이상.
 - HP 5 이상. 노트 갯수에 따라 HP를 5보다 약간 낮은 수치로 조정할 수 있습니다.
 
-### ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+### ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
 
 #### 가이드라인
 

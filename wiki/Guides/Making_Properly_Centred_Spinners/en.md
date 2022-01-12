@@ -76,7 +76,7 @@ First, take the background at 1024x768 and crop out the top 46 pixels and bottom
 
 ### Use the channels tab to turn off editing the alpha channel
 
-Technically, you are done, but if you want to make the background "fill in" with a background spinner meter, then you can use the template skin, or make it yourself. Bring in the template spinner-meter. To recolour it, turn off the alpha channel by selecting it, so you don't modify the transparency at all. Then use the bucket fill and fill the entire area with a gray colour or whatever colour you want (I used black).
+Technically, you are done, but if you want to make the background "fill in" with a background spinner meter, then you can use the template skin, or make it yourself. Bring in the template spinner-meter. To recolour it, turn off the alpha channel by selecting it, so you don't modify the transparency at all. Then use the bucket fill and fill the entire area with a grey colour or whatever colour you want (I used black).
 
 ![Tutorial Image 11](img/MPCS_11.png "Tutorial Image 11")
 

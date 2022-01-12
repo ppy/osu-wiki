@@ -8,7 +8,7 @@ tags:
 
 # Health
 
-**Health** or *HP*, is the value that determines if a player has passed or failed a [beatmap](/wiki/Beatmap). Health can be seen in the [health bar](/wiki/Glossary/Health_bar), which updates as gameplay progresses. The [HP drain rate](/wiki/Beatmapping/HP_drain_rate) difficulty setting determines how difficult it is to keep a high health value.
+**Health** or *HP*, is the value that determines if a player has passed or failed a [beatmap](/wiki/Beatmap). Health can be seen in the [health bar](/wiki/Client/Interface/Health_bar), which updates as gameplay progresses. The [HP drain rate](/wiki/Beatmapping/HP_drain_rate) difficulty setting determines how difficult it is to keep a high health value.
 
 ## osu!
 
@@ -18,7 +18,7 @@ Score bursts will appear after tapping hit circles, changing score and health va
 
 Health recovery:
 
-- A successful tap on the hit circle (better judgement leads to more health gain; the last hit circle in a colour combo awards more health)
+- A successful tap on the hit circle (better [judgement](/wiki/Gameplay/Judgement) leads to more health gain; the last hit circle in a colour combo awards more health)
 - A successful tap on a slider start
 - The slider ball collected a slider tick successfully
 - The slider ball touched the slider end or a reverse arrow successfully (better judgement at the end tick leads to more health gain)

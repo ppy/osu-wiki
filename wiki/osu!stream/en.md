@@ -8,7 +8,7 @@ It introduced a brand new gameplay system, with new gameplay elements such as ho
 
 [osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/community/forums/topics/59924)
 
-Development for this version ended in 2020. For more information, read the [blog post](https://blog.ppy.sh/osu-stream-2020-release/) about its last release. The source code along with beatmap conversion and testing tools has been made available in the same year under a permissive license on [GitHub](https://github.com/ppy/osu-stream) for anyone curious, and all previously paid maps are now available for free from the in-game "Store".
+Development for this version ended in 2020. For more information, read the [blog post](https://blog.ppy.sh/osu-stream-2020-release/) about its last release. The source code along with beatmap conversion and testing tools has been made available in the same year under a permissive licence on [GitHub](https://github.com/ppy/osu-stream) for anyone curious, and all previously paid maps are now available for free from the in-game "Store".
 
 ## Installation
 
@@ -230,7 +230,7 @@ The background colour is Purple and the lights will darken depending on current 
 
 | Term | Formula |
 | :-: | :-- |
-| **HitValue** | (Number of misses \* 0 + Number of 50s \* 1 + Number of 100s * 2 + Number of 300s \* 4) |
+| **HitValue** | (Number of misses \* 0 + Number of 50s \* 1 + Number of 100s \* 2 + Number of 300s \* 4) |
 | **PerfectHitValue** | (Number of misses + Number of 50s + Number of 100s + Number of 300s) \* 4 |
 
 In other words, each miss is worth 0% accuracy, each 50 is 25%, each 100 is 50%, and each 300 is 100%.
@@ -243,12 +243,11 @@ The score given by each hit circle and end of a slider is calculated with the fo
 
 | Term | Meaning |
 | :-: | :-- |
-| **Hit Value** | The hit circle judgement (50, 100 or 300). |
+| **Hit Value** | The hit circle [judgement](/wiki/Gameplay/Judgement) (50, 100 or 300). |
 | **Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher. |
 | **Fixed multiplier** | The multiplier that fixes the score into 600.000 |
 
-Additionally, each slider start, end, and repeat tick awards 30 points and each revolution of a spinner awards 100 points.
-There is an additional bonus of 10 points depending on the speed of spinning the spinner after the spinner meter is full.
+Additionally, each slider start, end, and repeat tick awards 30 points and each revolution of a spinner awards 100 points. There is an additional bonus of 10 points depending on the speed of spinning the spinner after the spinner meter is full.
 
 ### Hit circle judgement
 

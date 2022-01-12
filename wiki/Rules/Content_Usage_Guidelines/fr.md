@@ -16,7 +16,7 @@ Pour garantir le bon fonctionnement de votre compte, il est recommandé de crée
 
 Nous fournissons aux mappeurs une bibliothèque de chansons sous licence via le programme [Featured Artist](/wiki/Featured_Artists). Chaque chanson de [cette liste](https://osu.ppy.sh/beatmaps/artists) est libre d'utilisation dans osu! et ne risque pas d'être supprimée.
 
-Lorsque vous recherchez des chansons en dehors du catalogue des featured artist d'osu!, vérifiez si leur créateur a explicitement indiqué les conditions d'utilisation. Ces informations se trouvent souvent dans les sections de description des plateformes de diffusion de musique d'un artiste (par exemple Bandcamp, Soundcloud, YouTube) ou sur son site web personnel. Si une chanson est sous licence [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/3.0/) ou est disponible pour un usage non commercial, vous pouvez créer et soumettre une beatmap pour elle en toute sécurité.
+Lorsque vous recherchez des chansons en dehors du catalogue des Featured Artist d'osu!, vérifiez si leur créateur a explicitement indiqué les conditions d'utilisation. Ces informations se trouvent souvent dans les sections de description des plateformes de diffusion de musique d'un artiste (par exemple Bandcamp, Soundcloud, YouTube) ou sur son site web personnel. Si une chanson est sous licence [Creative Commons License](https://creativecommons.org/about/cclicenses/) ou est disponible pour un usage non commercial, vous pouvez créer et soumettre une beatmap pour elle en toute sécurité.
 
 Si vous souhaitez créer une beatmap pour une chanson et que ses droits d'utilisation ne sont pas clairs, il est recommandé de contacter l'artiste pour obtenir son autorisation. La plupart des artistes ont des méthodes de contact indiquées sur leurs plateformes de diffusion de musique, leurs sites web personnels et leurs médias sociaux.
 
@@ -26,7 +26,7 @@ Alors que la musique est souvent soumise à des droits d'auteur, les effets sono
 
 ## Visuel
 
-Les ressources visuelles comprennent les [arrière-plan](/wiki/Beatmap/Background)/[storyboard](/wiki/Storyboards)/vidéo d'une beatmap suivent les mêmes exigences d'utilisation que les ressources audio.
+Les ressources visuelles comprennent les [arrière-plan](/wiki/Beatmap/Background)/[storyboard](/wiki/Storyboard)/vidéo d'une beatmap suivent les mêmes exigences d'utilisation que les ressources audio.
 
 Comme pour la musique, nous vous recommandons de demander l'avis d'un artiste sur les conditions d'utilisation et de lui demander la permission lorsque ces conditions ne sont pas claires. Par exemple, si vous souhaitez utiliser l'arrière-plan d'un artiste sur pixiv, consultez son profil pour connaître les conditions d'utilisation ou envoyez-lui un message pour lui demander la permission.
 

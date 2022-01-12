@@ -88,7 +88,7 @@ Away with the security measures, users allowed to choose which game mode their p
 
 In-game wise, the main menu gets a new visualisation, with a blazing flare around the osu! symbol dependent on intensity of currently playing song's BPM. Performance have been optimised in song selection with many (more than ten-thousand) maps. Update process robustness and performance have been improved.
 
-Gameplay-wise, lead-in time was automatically add to any beatmaps which start abruptly to allow enough time to adjust [Visual Settings](/wiki/Visual_Settings) and total press counts for each key on the input overlay was added. For online results storages, personal best rank was show on beatmap info pages besides the \#1 player. Score submission from mania charts was allowed and Top 50 replays was stored rather than the usual Top 40. Quick repeat sliders not reaching their maximum combo has been fixed. Disqus comments added to beatmap pages. Finally, prototype testing of score meter for all modes was underway for osu!test.
+Gameplay-wise, lead-in time was automatically add to any beatmaps which start abruptly to allow enough time to adjust [Visual Settings](/wiki/Client/Interface/Visual_settings) and total press counts for each key on the input overlay was added. For online results storages, personal best rank was show on beatmap info pages besides the \#1 player. Score submission from mania charts was allowed and Top 50 replays was stored rather than the usual Top 40. Quick repeat sliders not reaching their maximum combo has been fixed. Disqus comments added to beatmap pages. Finally, prototype testing of score meter for all modes was underway for osu!test.
 
 ![](img/2013-06_01.jpg "Account creation process")
 
@@ -111,7 +111,7 @@ Links:
 
 [The new regional BATmanagers](https://osu.ppy.sh/community/forums/topics/132667) began their first major recruitment of new BAT in to the team with the [Summer 2013 NewBAT Applications](https://osu.ppy.sh/community/forums/topics/142864). This provided a chance for the new managers to adequately handle new applications. The new regional managers were [NatsumeRin](https://osu.ppy.sh/users/151679) representing Asia/Oceania, [Kurai](https://osu.ppy.sh/users/77089) representing Europe, and [Garven](https://osu.ppy.sh/users/244216) representing America.
 
-On 2013-07-02, peppy made the [osu!api](https://osu.ppy.sh/community/forums/topics/141240) open to the public (previously available only through private requests). This allowed independent developers to work on third party services for osu!. On 2013-07-11, the previously broken "forgot password" page has been fixed. 2013-07-18 brought updates to Bancho's fallback connectivity. On 2013-07-21, widescreen support for storyboards was added in the song setup dialog. Two new in-game overlays were added to track accuracy as you play or watch others play. Refer to [Options](/wiki/Options) page for further information.
+On 2013-07-02, peppy made the [osu!api](https://osu.ppy.sh/community/forums/topics/141240) open to the public (previously available only through private requests). This allowed independent developers to work on third party services for osu!. On 2013-07-11, the previously broken "forgot password" page has been fixed. 2013-07-18 brought updates to Bancho's fallback connectivity. On 2013-07-21, widescreen support for storyboards was added in the song setup dialog. Two new in-game overlays were added to track accuracy as you play or watch others play. Refer to [Options](/wiki/Client/Options) page for further information.
 
 ![](img/2013-07_01.jpg "Hit-error overlay")
 
@@ -128,7 +128,7 @@ Links:
 
 [peppy was confirmed for Comic Fiesta 2013 in Malaysia at 21st and 22nd of December in Kuala Lumpur City Center](https://osu.ppy.sh/community/forums/topics/163121). For day 1 (2013-12-21), osu! was shown as a stage event, demonstrating the game in four different game modes (osu!, Taiko, Catch the Beat, and osu!mania). For day 2 (2013-12-22), peppy gives an insight of osu! along with his future update plans at the panel room and showcased osu!tablet for the public to try it out.
 
-One of the current hot-topic for debate right now was that peppy was making a new game mode and was testing it as a proof-in-concept (testing if it's playable, competitive or flexible enough). Some players speculate it was [Tohousu!](https://osu.ppy.sh/community/forums/topics/19307) (dodging the bullet-hell, that was, inverse of [Catch the Beat](/wiki/Game_mode/osu!catch)). By time of writing, not much information was discovered about the new game mode. [A video clip about the talk was in ppy's blog](https://blog.ppy.sh/post/71405880656/i-have-a-few-posts-waiting-for-some-final-touches)
+One of the current hot-topic for debate right now was that peppy was making a new game mode and was testing it as a proof-in-concept (testing if it's playable, competitive or flexible enough). Some players speculate it was [Touhosu!](https://osu.ppy.sh/community/forums/topics/19307) (dodging the bullet-hell, that was, inverse of [Catch the Beat](/wiki/Game_mode/osu!catch)). By time of writing, not much information was discovered about the new game mode. [A video clip about the talk was in ppy's blog](https://blog.ppy.sh/post/71405880656/i-have-a-few-posts-waiting-for-some-final-touches)
 
 Links:
 

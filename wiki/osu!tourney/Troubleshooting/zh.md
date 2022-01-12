@@ -33,7 +33,7 @@
 
 ## 房间没有出现！
 
-这可能是因为你的多人房间名称不正确或者你在 `tournament.cfg` 填入了错误的缩写。确保你使用了正确的多人房间名称，请遵循：[多人游戏房间管理](/wiki/osu!tourney/Multiplayer_Usage)。
+这可能是因为你的多人房间名称不正确或者你在 `tournament.cfg` 填入了错误的缩写。确保你使用了正确的多人房间名称，请遵循：[多人游戏房间管理](/wiki/osu!tourney/Multiplayer_usage)。
 
 ## 队伍名称没有出现！
 

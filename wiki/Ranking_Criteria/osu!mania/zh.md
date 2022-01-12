@@ -8,13 +8,13 @@
 
 ### 难度名称
 
-*主页面：[难度命名](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*主页面：[难度命名](/wiki/Ranking_Criteria/Difficulty_naming)*
 
-- ![](/wiki/shared/diff/easy-m.png) Easy
-- ![](/wiki/shared/diff/normal-m.png) Normal
-- ![](/wiki/shared/diff/hard-m.png) Hard
-- ![](/wiki/shared/diff/insane-m.png) Insane
-- ![](/wiki/shared/diff/expert-m.png) Expert
+- ![](/wiki/shared/diff/easy-m.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-m.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-m.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-m.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
 ### 常用术语
 
@@ -83,7 +83,7 @@
 
 *键位模式相关的指南基于最常用的 Ranked 键位（4 键和 7 键）建立。当可用时，其他键位也应适用相应的指南。*
 
-### ![](/wiki/shared/diff/easy-m.png) Easy
+### ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 
 #### 规定
 
@@ -102,7 +102,7 @@
 - **避免在连续的 1/2 物件梗中使用多押。** 然而，可以在梗的结尾使用多押。
 - **避免使用 2 个物件以上的多押。** 这包含涉及两列以上的物件的长物件梗。
 
-### ![](/wiki/shared/diff/normal-m.png) Normal
+### ![](/wiki/shared/diff/normal-m.png?20211215) Normal
 
 #### 规定
 
@@ -140,7 +140,7 @@
 - **相邻键位的长物件若需同时按下，其也应同时被放开。** 多种释放时间点的长物件所需要的协调性是这个水平的玩家达不到的。
 - **避免使用连续三个及以上的叠。** 较长的叠玩家虽然很好读，但打起来还是很累。
 
-### ![](/wiki/shared/diff/hard-m.png) Hard
+### ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 
 #### 指南
 
@@ -160,6 +160,7 @@
 
 - **避免使用3个物件以上的多押。** 这里也包括涉及3列以上的长滑条梗。
 - **避免使用连续5个及以上的叠。** 较长的叠玩家虽然很好读，但打起来还是很累。
+
 保证双押连打中的双押距离在 1/1 及以上的区间。任何比这更密集的梗将会影响到可读性。
 
 *7键 Hard* 难度的附加指南：
@@ -169,7 +170,7 @@
 - **保证多押连打中的多押的间距在 1/1 及以上。** 任何比这更密集的梗将会影响到可读性。
 - **连打中可以偶尔使用三押，只要他们的间距超过一个小节（4拍）。**
 
-### ![](/wiki/shared/diff/insane-m.png) Insane
+### ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 
 #### 指南
 
@@ -194,7 +195,7 @@
   - ...1/4，则推荐只使用单键连打，除非在这首歌有非常明确的理由可以不这么做。
 - **应谨慎使用 Bracket 连打。**
 
-### ![](/wiki/shared/diff/expert-m.png) Expert
+### ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
 #### 指南
 

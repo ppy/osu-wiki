@@ -6,7 +6,7 @@ no_native_review: true
 
 維護者會定期查看[議題追蹤頁](https://github.com/ppy/osu-wiki/issues)及審核貢獻者的 Pull Request。與其他貢獻者不同，維護者能夠編輯 Pull Request 並合併至儲存庫的 `master` 分支中，使變更正式上線。
 
-如果您在編輯時需要協助、或是您的 Pull Request 需要審核，請至 [osu!dev Discord 伺服器](/wiki/osu!dev_Discord_server)的 `#osu-wiki` 頻道傳送訊息，維護者或其他貢獻者將會回覆 (請用英文撰寫)。
+如果您在編輯時需要協助、或是您的 Pull Request 需要審核，請至 [osu!dev Discord 伺服器](/wiki/Community/osu!dev_Discord_server)的 `#osu-wiki` 頻道傳送訊息，維護者或其他貢獻者將會回覆 (請用英文撰寫)。
 
 <!-- changed "all maintainers know English" to "please ask your question in english"-->
 
@@ -28,11 +28,12 @@ no_native_review: true
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | 非活躍 | 法語 |
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **活躍** | 俄語 |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | [TPGPL](https://github.com/TPGPL) | **活躍** | 波蘭語 |
+| ![][flag_SE] [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | **活躍** | 芬兰语，瑞典語 |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | [WalterToro](https://github.com/WalterToro) | 非活躍 | 西班牙語 |
 
 ## 新聞團隊
 
-所有網站上的[新聞稿]((https://osu.ppy.sh/home/news))的管理者、編輯、和批准者。
+所有網站上的[新聞稿](https://osu.ppy.sh/home/news)的管理者、編輯、和批准者。
 
 | osu! 個人檔案 | GitHub 個人檔案 |
 | :-- | :-- |
@@ -61,4 +62,5 @@ osu! wiki [曾經](/wiki/History_of_osu!/osu!_wiki)使用 MediaWiki 構建，此
 [flag_PH]: /wiki/shared/flag/PH.gif "菲律賓"
 [flag_PL]: /wiki/shared/flag/PL.gif "波蘭"
 [flag_RU]: /wiki/shared/flag/RU.gif "俄羅斯"
+[flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
 [flag_US]: /wiki/shared/flag/US.gif "美國"

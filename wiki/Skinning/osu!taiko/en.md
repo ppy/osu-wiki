@@ -1,6 +1,6 @@
 # osu!taiko skinning
 
-You can override the osu!taiko playfield parts by creating a folder called `taiko` inside your skin folder. If this approach is used, the user will need to explicitly enable this in the [options](/wiki/Options) (enable the `Use Taiko skin for Taiko mode` button), otherwise the default skin elements will be used.
+You can override the osu!taiko playfield parts by creating a folder called `taiko` inside your skin folder. If this approach is used, the user will need to explicitly enable this in the [options](/wiki/Client/Options) (enable the `Use Taiko skin for Taiko mode` button), otherwise the default skin elements will be used.
 
 ## Pippidon
 
@@ -75,7 +75,7 @@ Notes:
 
 `taiko-hit0.png`
 
-![](img/taiko-hit0.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit0.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -90,7 +90,7 @@ Notes:
 
 `taiko-hit100.png`
 
-![](img/taiko-hit100.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit100.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -105,7 +105,7 @@ Notes:
 
 `taiko-hit100k.png`
 
-![](img/taiko-hit100k.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit100k.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -120,7 +120,7 @@ Notes:
 
 `taiko-hit300.png`
 
-![](img/taiko-hit300.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit300.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -135,7 +135,7 @@ Notes:
 
 `taiko-hit300k.png`
 
-![](img/taiko-hit300k.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit300k.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -150,7 +150,7 @@ Notes:
 
 `taiko-hit300g.png`
 
-![](img/taiko-hit300g.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit300g.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -253,7 +253,7 @@ Notes:
 
 `taiko-glow.png`
 
-<!-- ![](img/taiko-glow.png) -->
+![](img/taiko-glow.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -296,7 +296,7 @@ Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - This scrolls in a seamless loop, from the right side towards the left.
-- This element is disbaled if the beatmap has a storyboard.
+- This element is disabled if the beatmap has a storyboard.
 - Gets upscaled by 1.4x in-game.
 
 ---
@@ -338,7 +338,7 @@ Notes:
 
 `taiko-bar-left.png`
 
-<!-- ![](img/taiko-bar-left.png) -->
+![](img/taiko-bar-left.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|

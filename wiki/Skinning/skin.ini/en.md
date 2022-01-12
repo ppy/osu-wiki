@@ -18,7 +18,7 @@ The version number, seen in the headings, is what will be used in the `Version` 
 
 If your `skin.ini` does not specify a `Version`, it will default to this version.
 
-- Hitcircle numbers are part of hitburst explosions.
+- Hit circle numbers are part of hitburst explosions.
 - Large expansion of hitlighting (`lighting.png`).
 - Old styled spinner (`spinner-circle.png`, `spinner-background.png`, and `spinner-metre.png`).
 - Segmented countdown image build-up.
@@ -35,7 +35,7 @@ If your `skin.ini` does not specify a `Version`, it will default to this version
   - Use the suffix `@2x.png` in the skinning element to let osu! know that the skinning element is higher in quality.
 - New style spinner (`spinner-middle.png`, `spinner-middle2.png`, `spinner-top.png`, `spinner-bottom.png`, and `spinner-glow.png`).
 - Countdown sequence instead of segmented image.
-  - Countdowns are now centered.
+  - Countdowns are now centred.
 - Hitcircle numbers are no longer part of hitburst explosions.
 - Red coloured play-warningarrow during end of breaks.
 - Smaller expansion of `lighting.png`.
@@ -54,7 +54,7 @@ If your `skin.ini` does not specify a `Version`, it will default to this version
 **interface/UI changes**
 
 - Thumbnail support.
-  - Must be enabled by the user in the [Options](/wiki/Options) and be supported by the skin in the [skin.ini](/wiki/Skinning/skin.ini) file.
+  - Must be enabled by the user in the [Options](/wiki/Client/Options) and be supported by the skin in the [skin.ini](/wiki/Skinning/skin.ini) file.
 - Changes star rating display to scaling `star.png` instead of partially widthed `star.png`.
 - Panel text alignment optimisations.
 
@@ -125,7 +125,7 @@ Before viewing the `skin.ini` commands below, here are some notes.
 
 *tl;dr `0 = no` and `1 = yes`*
 
-Some commands only accept a boolean value (a `true` or a `false` value). When skinning, osu! is setup to only recognize a `1` (one) as `true` while a `0` (zero) as `false`.
+Some commands only accept a boolean value (a `true` or a `false` value). When skinning, osu! is setup to only recognise a `1` (one) as `true` while a `0` (zero) as `false`.
 
 Here is a classic example:
 
@@ -144,7 +144,7 @@ When viewing these tables:
 - *number* means a **whole** or **decimal** number (e.g. `1.5`, `4.295`, `2`, `3.0`).
 - *integer* means **whole** numbers only (e.g. `-13`, `-632`, `135` , `9`).
   - *positive integer* means **positive whole** numbers only (e.g. `376`, `22`, or `5`).
-- *comma-split list with positive integers* is-- literally-- a list of positive integers splited with commas (e.g. `1, 2, 3, 55`).
+- *comma-split list with positive integers* is-- literally-- a list of positive integers split with commas (e.g. `1, 2, 3, 55`).
 
 ### RGB and RGB(a)
 
@@ -157,7 +157,7 @@ A few commands may ask for a colour in the *RGB* or *RGB(a)* format.
 
 ### Sections
 
-osu! organizes the commands with a heading command. Which may look like this `[General]`. osu! only uses five sections throughout the skin.ini file, which are indicated with the section headers below.
+osu! organises the commands with a heading command. Which may look like this `[General]`. osu! only uses five sections throughout the skin.ini file, which are indicated with the section headers below.
 
 ## \[General\]
 
@@ -194,7 +194,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Values: `0` or `1`
   - Default: `0`
   - Notes:
-    - The default sliderball will always get tinted, if enabled in [options](/wiki/Options).
+    - The default sliderball will always get tinted, if enabled in [options](/wiki/Client/Options).
 - `ComboBurstRandom`
   - Question: Should combobursts be shown in a random order?
   - Values: `0` or `1`
@@ -207,7 +207,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Default: `1`
   - Notes:
     - `0` = top-left corner
-    - `1` = centered
+    - `1` = centred
 - `CursorExpand:`
   - Question: Should the cursor expand when clicked?
   - Values: `0` or `1`
@@ -338,7 +338,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Default: `2,170,255`
   - Notes:
     - This is for [osu!](/wiki/Game_mode/osu!).
-    - Default sliderball's colour if tinting is disabled in [options](/wiki/Options).
+    - Default sliderball's colour if tinting is disabled in [options](/wiki/Client/Options).
 - `SliderBorder:`
   - Question: What colour should be used for the sliderborders?
   - Value: *RGB*
@@ -374,13 +374,13 @@ osu! organizes the commands with a heading command. Which may look like this `[G
 ## \[Fonts\]
 
 - `HitCirclePrefix:`
-  - Question: What prefix is used for the hitcircle numbers?
+  - Question: What prefix is used for the hit circle numbers?
   - Value: text *(path/filename prefix)*
   - Default: `default`
   - Notes:
     - You can use a custom path
 - `HitCircleOverlap:`
-  - Question: By how many pixels should the hitcircle numbers overlap?
+  - Question: By how many pixels should the hit circle numbers overlap?
   - Value: *integer*
   - Default: `-2`
   - Notes:
@@ -434,7 +434,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
 
 **Notes:**
 
-- If you want to fully customize the osu!mania stage, use skin version `2.5` or higher.
+- If you want to fully customise the osu!mania stage, use skin version `2.5` or higher.
 - Commands that are asking where to position something horizontally are based on a height of 480 pixels.
 - When a command is depend on the total number of keys:
   - using too many and the extras are ignored.
@@ -498,7 +498,7 @@ Keys: 5
   - Notes:
     - It is suggested to keep this thin if high keycounts or wide keys are used.
 - `ColumnLineWidth:`
-  - Question: How thick are the column seperators individually?
+  - Question: How thick are the column separators individually?
   - Value: comma-split list with numbers
   - Default: `2`
 - `BarlineHeight:`
@@ -519,7 +519,7 @@ Keys: 5
   - Notes:
     - If not defined, the height scale of the smallest column width is used
 - `HitPosition:`
-  - Question: On which height should the judgement line be drawn at?
+  - Question: On which height should the [judgement](/wiki/Gameplay/Judgement) line be drawn at?
   - Value: integer
   - Default: `402`
   - Notes:
@@ -534,12 +534,12 @@ Keys: 5
   - Question: On which height should the hitbursts appear at?
   - Value: *integer*
   - Notes:
-    - The hitbursts will be vertically centered on the stage.
+    - The hitbursts will be vertically centred on the stage.
 - `ComboPosition:`
   - Question: On which height should the combo counter appear at?
   - Value: *integer*
   - Notes:
-    - The combo counter will be vertically centered on the stage.
+    - The combo counter will be vertically centred on the stage.
 - `JudgementLine:`
   - Question: Should an additional line be drawn above the StageHint?
   - Value: `0` or `1`
@@ -559,7 +559,7 @@ Keys: 5
     - `1` = (left (SP) or outer (DP) lane)
     - `2` = (right (SP) or inner (DP) lane)
     - For even keycounts, more than 4.
-    - For DP, the center between the stages is used for determining positions.
+    - For DP, the centre between the stages is used for determining positions.
 - `ComboBurstStyle:`
   - Question: On what side should the comboburst appear?
   - Value: `0`, `1`, or `2`
@@ -687,7 +687,7 @@ Keys: 5
   - Notes:
     - These are the lines that separate the columns.
 - `ColourBarline:`
-  - Question: What colour should be used for the bar seperator?
+  - Question: What colour should be used for the bar separator?
   - Value: *RGB(a)*
   - Default: `255,255,255,255`
   - Notes:
@@ -756,7 +756,7 @@ Keys: 5
   - Question: What is the name of the bottom stage image?
   - Value: text *(path to image)*
   - Notes:
-    - This will **not** be streched to fit
+    - This will **not** be stretched to fit
 - `StageHint:`
   - Question: What is the name of the stage hint image?
   - Value: text *(path to image)*

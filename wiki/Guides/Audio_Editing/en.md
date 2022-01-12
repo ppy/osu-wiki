@@ -1,10 +1,10 @@
 # Audio editing guide
 
-[osu!academy](/wiki/osu!academy) covered this in [Episode 15: Audio Encoding (4:02)](https://www.youtube.com/watch?v=muu3HkG38kk). That episode also contains how to install and use Audacity with LAME's `.mp3` export ability.
+[osu!academy](/wiki/Community/Video_series/osu!academy) covered this in [Episode 15: Audio Encoding (4:02)](https://www.youtube.com/watch?v=muu3HkG38kk). That episode also contains how to install and use Audacity with LAME's `.mp3` export ability.
 
 This article serves as guide to help you do minor edits to your audio files for beatmapping purposes. By expanding it, you can help fellow beatmappers to create suitable audio files for any need.
 
-*By no means is this the software that you can only use, rather this only lists from those who had added them here. If you know of other tools that could be used and can explain how to use them for the descirbed sections below, please add them.*
+*By no means is this the software that you can only use, rather this only lists from those who had added them here. If you know of other tools that could be used and can explain how to use them for the described sections below, please add them.*
 
 ## Audacity (and LAME)
 
@@ -38,7 +38,7 @@ Install Audacity and LAME, open Audacity then follow these steps:
    1. Click `Edit`
    2. Click `Copy`
 4. Find a location for where you can loop the part you have copied.
-   - This could be the end of the part you had highlighed.
+   - This could be the end of the part you had highlighted.
 5. Press `Ctrl` + `V`, or
    1. Click `Edit`
    2. Click `Paste`
@@ -76,7 +76,7 @@ Install Audacity and LAME, open Audacity then follow these steps:
 ## mp3DirectCut
 
 [mp3DirectCut](https://mpesch3.de) is a free to use audio editing software.
-This tool is recommended when you only want to raise/lower the volume or crop the audio as it doesn't require you to re-encode the audio, meaning less quailty loss.
+This tool is recommended when you only want to raise/lower the volume or crop the audio as it doesn't require you to re-encode the audio, meaning less quality loss.
 
 ### Looping
 
@@ -90,7 +90,7 @@ Install and open mp3DirectCut, then follow these steps:
    1. Click `Edit`
    2. Click `Copy`
 4. Find a location for where you can loop the part you have copied.
-   - This could be the end of the part you had highlighed.
+   - This could be the end of the part you had highlighted.
 5. Press `Ctrl` + `V`, or
    1. Click `Edit`
    2. Click `Paste`

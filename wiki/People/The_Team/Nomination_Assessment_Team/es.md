@@ -14,7 +14,7 @@ Los miembros del NAT se distinguen por su nombre de usuario rojo y su título de
 
 **Todos los miembros del Equipo de Evaluación de Nominaciones han jurado respetar [el Código de Conducta de los Colaboradores](/wiki/Contributor_Code_of_Conduct) además de las [Reglas de la Comunidad](/wiki/Rules).**
 
-Si encuentra a algún miembro del Equipo de Evaluación de Nominaciones actuando de manera inapropiada, por favor contacte [abuse@ppy.sh](mailto:abuse@ppy.sh) de inmediato con toda la información posible. Para más detalles, vea [Reportando Abuso](/wiki/Reporting_Bad_Behaviour/Abuse).
+Si encuentra a algún miembro del Equipo de Evaluación de Nominaciones actuando de manera inapropiada, por favor contacte [abuse@ppy.sh](mailto:abuse@ppy.sh) de inmediato con toda la información posible. Para más detalles, vea [Reportando Abuso](/wiki/Reporting_bad_behaviour/Abuse).
 
 ## Responsabilidades
 
@@ -65,9 +65,9 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 
 | Nombre | Idiomas adicionales | Responsabilidades primarias |
 | :-- | :-- | :-- |
-| ![][flag_HK] [Capu](https://osu.ppy.sh/users/2474015) | Alemán | Evaluación |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Alemán | Evaluación |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonés, chino | Evaluación |
-| ![][flag_HK] [radar](https://osu.ppy.sh/users/7131099) |  | Evaluación |
+| ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  | Evaluación |
 
 ### osu!catch
 
@@ -81,12 +81,13 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 
 | Nombre | Idiomas adicionales | Responsabilidades primarias |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Evaluación |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, francés | Evaluación |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluación |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
 [flag_ES]: /wiki/shared/flag/ES.gif "España"
 [flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"

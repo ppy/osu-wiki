@@ -8,13 +8,13 @@ Proposal mengenai peraturan serta saran dibahas di [Sub-forum Ranking Criteria](
 
 ### Penamaan tingkat kesulitan
 
-*Artikel utama: [Penamaan Tingkat Kesulitan](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*Artikel utama: [Penamaan Tingkat Kesulitan](/wiki/Ranking_Criteria/Difficulty_naming)*
 
-- ![](/wiki/shared/diff/easy-m.png) Easy
-- ![](/wiki/shared/diff/normal-m.png) Normal
-- ![](/wiki/shared/diff/hard-m.png) Hard
-- ![](/wiki/shared/diff/insane-m.png) Insane
-- ![](/wiki/shared/diff/expert-m.png) Expert
+- ![](/wiki/shared/diff/easy-m.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-m.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-m.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-m.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
 ### Istilah umum
 
@@ -87,7 +87,7 @@ Peraturan dan pedoman tingkat kesulitan spesifik hanya berlaku untuk tingkat kes
 
 *Panduan key mode spesifik dibuat berdasarkan key mode Ranked yang paling umum digunakan (4 key and 7 key). Key mode lain harus menerapkan pedoman ini jika diharuskan.*
 
-### ![](/wiki/shared/diff/easy-m.png) Easy
+### ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 
 #### Peraturan
 
@@ -106,7 +106,7 @@ Peraturan dan pedoman tingkat kesulitan spesifik hanya berlaku untuk tingkat kes
 - **Hindari penggunaan chord selama penggunaan 1/2 berturut-turut.** Namun, menggunakan chord untuk awal atau akhir tidak menjadi masalah.
 - **Hindari penggunaan chord lebih dari dua note.** Ini termasuk long note yang melibatkan note lebih dari dua kolom.
 
-### ![](/wiki/shared/diff/normal-m.png) Normal
+### ![](/wiki/shared/diff/normal-m.png?20211215) Normal
 
 #### Peraturan
 
@@ -143,7 +143,7 @@ Tambahan pedoman untuk tingkat kesulitan *7 key Normal*:
 - **Pola braket harus digunakan secara hemat.**
 - **Long note yang dimainkan dengan key berdekatan yang dipegang secara bersamaan harus dilepaskan pada waktu yang bersamaan.** Long note dengan beberapa waktu rilis membutuhkan koordinasi tangan yang tidak dapat ditangani oleh pemain di level ini.
 
-### ![](/wiki/shared/diff/hard-m.png) Hard
+### ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 
 #### Pedoman
 
@@ -171,7 +171,7 @@ Tambahan pedoman untuk tingkat kesulitan *7 key Hard*:
 - **Jaga jarak chord chordstream pada interval 1/1 atau lebih.** Lebih rapat dari itu akan sukar untuk dibaca.
 - **Sesekali tangan dapat digunakan dalam stream, asalkan dipisahkan setidaknya satu takaran (4 ketukan)**
 
-### ![](/wiki/shared/diff/insane-m.png) Insane
+### ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 
 #### Pedoman
 
@@ -196,7 +196,7 @@ Tambahan pedoman untuk tingkat kesulitan *7 key Insane*:
   - ... 1/4, disarankan untuk menggunakan single note kecuali terdapat alasan musik yang sangat jelas.
 - **Bracket streams harus digunakan secara hemat.**
 
-### ![](/wiki/shared/diff/expert-m.png) Expert
+### ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
 #### Pedoman
 

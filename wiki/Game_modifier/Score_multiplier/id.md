@@ -13,7 +13,7 @@ tags:
 
 ## Deskripsi
 
-**Pengali Skor** adalah sebuah nilai yang digunakan untuk menentukan seberapa banyak osu! sebaiknya mengalikan [skor](/wiki/Score) yang diterima dari setiap [hit object](/wiki/Hit_object) sepanjang beatmap itu. Secara default, Pengali Skor adalah 1.00x, tetapi nilai ini bisa diubah menggunakan [game modifier](/wiki/Game_modifier).
+**Pengali Skor** adalah sebuah nilai yang digunakan untuk menentukan seberapa banyak osu! sebaiknya mengalikan [skor](/wiki/Gameplay/Score) yang diterima dari setiap [hit object](/wiki/Hit_object) sepanjang beatmap itu. Secara default, Pengali Skor adalah 1.00x, tetapi nilai ini bisa diubah menggunakan [game modifier](/wiki/Game_modifier).
 
 Sebagai contoh, jika pemain memainkan sebuah [beatmap](/wiki/Beatmap) osu! tanpa menggunakan mod, dan mendapatkan skor akhir sebanyak 100,000, maka skor akhirnya akan tetap jadi 100,000. Tetapi, jika pemain yang tadi mendapatkan *skor yang sama* pada *beatmap yang sama*, dengan mod [Hard Rock](/wiki/Game_modifier/Hard_Rock), maka skor akhirnya akan menjadi 106,000 karena nilai Pengali Skor pada mod Hard Rock adalah 1.06x. Selama sesi permainan pada betamap itu, nilai pengali skor itu dikalikan dengan skor pada saat itu secara-langsung, walaupun itu mungkin untuk mengalikan skor akhirnya dengan hanya mengalikan dua nilai bersama: `skorAkhir * pengaliSkor`.
 

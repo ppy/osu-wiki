@@ -12,7 +12,7 @@ tags:
 
 **Kiai Time** (atau *kiai*) adalah istilah yang diberikan untuk bagian waktu "khusus" untuk membantu menekankan bagian tertentu dari [beatmap](/wiki/Beatmap). Pemain dapat mengetahui jika suatu bagian dari beatmap tersebut adalah bagian waktu kiai jika mereka melihat efek visual tambahan di latar belakang. (seperti, hit circle bercahaya, bintang berterbangan, dan bintang berterjunan).
 
-Saat kiai sedang aktif, semua [hit object](/wiki/Hit_object) yang dikenai akan berkedip mengikuti [main beat](/wiki/Beatmap_Editor/Timing) dan bintang akan meledak dari kursor saat [hit circle](/wiki/Hit_object/Hit_circle) dikenai. Jika tidak, mereka akan jatuh dari kursor saat kursor berada pada [slider](/wiki/Hit_object/Slider) atau [spinner](/wiki/Hit_object/Spinner).
+Saat kiai sedang aktif, semua [hit object](/wiki/Hit_object) yang dikenai akan berkedip mengikuti [main beat](/wiki/Client/Beatmap_editor/Timing) dan bintang akan meledak dari kursor saat [hit circle](/wiki/Hit_object/Hit_circle) dikenai. Jika tidak, mereka akan jatuh dari kursor saat kursor berada pada [slider](/wiki/Hit_object/Slider) atau [spinner](/wiki/Hit_object/Spinner).
 
 ## Beatmapping
 
@@ -20,4 +20,4 @@ Waktu kiai paling sering digunakan untuk "bagian terkuat dari sebuah lagu", yang
 
 ## osu!taiko
 
-Pada beatmap [osu!taiko](/wiki/Game_mode/osu!taiko), bagian kiai memberikan [skor](/wiki/Score) 20% lebih banyak.
+Pada beatmap [osu!taiko](/wiki/Game_mode/osu!taiko), bagian kiai memberikan [skor](/wiki/Gameplay/Score) 20% lebih banyak.

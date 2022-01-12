@@ -8,11 +8,11 @@ outdated: true
 
 ![Kiai Time aparece na parte superior esquerda do editor quando ativado.](img/Kiai_Time_edit.jpg "Kiai Time aparece na parte superior esquerda do editor quando ativado.")
 
-**Kiai Time** é aplicado pelo [mapper](/wiki/Beatmapping) em um [beatmap](/wiki/Beatmap) entre duas [Timing Sections](/wiki/Beatmap_Editor/Timing). Você pode reconhecer i kiai time por causa dos flashes na tela e você também vera uma fonte jogando estrelas, também acontecem efeitos de flash nos [Hit Objects](/wiki/Hit_object) de acordo com a [main beat](/wiki/Beatmap_Editor/Timing) e estrelas vão explodir do cursor quando um [Circle](/wiki/Hit_object/Hit_circle) é acertado ou vão cair do cursor quando seguindo um [slider](/wiki/Hit_object/Slider) ou um [Spinner](/wiki/Hit_object/Spinner).
+**Kiai Time** é aplicado pelo [mapper](/wiki/Beatmapping) em um [beatmap](/wiki/Beatmap) entre duas [Timing Sections](/wiki/Client/Beatmap_editor/Timing). Você pode reconhecer i kiai time por causa dos flashes na tela e você também vera uma fonte jogando estrelas, também acontecem efeitos de flash nos [Hit Objects](/wiki/Hit_object) de acordo com a [main beat](/wiki/Client/Beatmap_editor/Timing) e estrelas vão explodir do cursor quando um [Circle](/wiki/Hit_object/Hit_circle) é acertado ou vão cair do cursor quando seguindo um [slider](/wiki/Hit_object/Slider) ou um [Spinner](/wiki/Hit_object/Spinner).
 
 ## Kiai Time em beatmaps
 
-O termo mais comum para Kiai Time quando [editando](/wiki/Beatmap_Editor) beatmaps é a "parte mais forte da musica" sendo normalmente o refrão. Algumas musicas não possuem refrão mas tem uma parte importante que se destaca, então você pode adicionar Kiai Time nessa sessão. Tenha em mente que abusar do kiai time pode deixar seu beatmap fora dos padrões para ranking. kiai excessivo é odiado por jogadores por causa da obstrução visual que acontece durante os efeitos de iluminação.
+O termo mais comum para Kiai Time quando [editando](/wiki/Client/Beatmap_editor) beatmaps é a "parte mais forte da musica" sendo normalmente o refrão. Algumas musicas não possuem refrão mas tem uma parte importante que se destaca, então você pode adicionar Kiai Time nessa sessão. Tenha em mente que abusar do kiai time pode deixar seu beatmap fora dos padrões para ranking. kiai excessivo é odiado por jogadores por causa da obstrução visual que acontece durante os efeitos de iluminação.
 
 ## Coisas para se considerar quando usar Kiai
 
