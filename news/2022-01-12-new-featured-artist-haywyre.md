@@ -27,7 +27,7 @@ Curious where the hype behind **Haywyre** comes from? His presence on osu! start
 Play through [the map above](https://osu.ppy.sh/beatmapsets/848400) hosted by [Twigglykun](https://osu.ppy.sh/users/9126943)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/230/Songs/Haywyre%20-%20Insight.mp3" type="audio/mpeg">
 </audio>
 
 ### Everchanging
@@ -35,7 +35,7 @@ Play through [the map above](https://osu.ppy.sh/beatmapsets/848400) hosted by [T
 Check out [the map that introduced **Haywyre** to osu!](https://osu.ppy.sh/beatmapsets/461903) hosted by [Beige](https://osu.ppy.sh/users/685229) (previously known as **W h i t e**)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/230/Songs/Haywyre%20-%20Everchanging.mp3" type="audio/mpeg">
 </audio>
 
 ### Dichotomy (Soft Mix)
@@ -43,7 +43,7 @@ Check out [the map that introduced **Haywyre** to osu!](https://osu.ppy.sh/beatm
 If you're tired of circles, rectangles await you on [this osu!mania beatmap](https://osu.ppy.sh/beatmapsets/631054) hosted by [BilliumMoto](https://osu.ppy.sh/users/3862471)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/230/Two%20Fold%20Pt.%201/Haywyre%20-%20Dichotomy%20%28Soft%20Mix%29.mp3" type="audio/mpeg">
 </audio>
 
 ---
