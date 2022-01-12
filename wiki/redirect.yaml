@@ -119,6 +119,7 @@
 "osu!": "Disambiguation/osu!"
 "rank": "Disambiguation/Rank"
 "ranks": "Disambiguation/Rank"
+"snapping": "Disambiguation/Snapping"
 "version": "Disambiguation/Version"
 "versions": "Disambiguation/Version"
 
@@ -290,6 +291,7 @@
 "cookie":                      "Client/Interface/Cookie"
 "logo":                        "Client/Interface/Cookie"
 "osu!cookie":                  "Client/Interface/Cookie"
+"dash_snapping":               "Gameplay/Dash_snapping"
 "drain_time":                  "Gameplay/Drain_time"
 "ds":                          "iNiS_games"
 "creator":                     "Beatmapping"
