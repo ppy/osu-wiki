@@ -3,9 +3,9 @@ alumni:
   roles:
     academy: osu!academy-Gründer
     admin: Administration
-    chat: Chat Moderator
+    chat: Chat-Moderator
     dev: osu!dev
-    media: osu!media Erstellung
+    media: osu!media-Erstellung
     support: Support-Team
     tournaments: Verwaltung von Wettbewerben
 gmt:
@@ -15,12 +15,12 @@ gmt:
     chat: Chat-Moderation
     forum: Forum-Moderation
     team: offizielle Präsenz des Teams
-    dev: osu! Entwicklung
+    dev: osu!-Entwicklung
     player: Spieler-Support
     support: Technischer Support
     tournaments: Verwaltung von Wettbewerben
     wiki: Wiki-Administration
-    mapping: Moderation der Mapping/Modding Community
+    mapping: Moderation der Mapping-/Modding-Community
 nat:
   areas:
     communication: Kommunikation
@@ -28,7 +28,7 @@ nat:
     moderation: Moderation
     structural: strukturell
 languages:
-  partial: irgendeine <Sprache>
+  partial: etwas <language>
   ar: Arabisch
   bg: Bulgarisch
   bn: Bengalisch
