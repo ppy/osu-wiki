@@ -69,7 +69,7 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612) | QAT |
 | ![][flag_AR] [Extor](https://osu.ppy.sh/users/555) | BAT |
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | BAT |
-| ![][flag_DE] [Ezoda](https://osu.ppy.sh/users/1231180) | Support Team |
+| ![][flag_DE] [Ezoda](https://osu.ppy.sh/users/1231180) | Support-Team |
 | ![][flag_SG] [Faust](https://osu.ppy.sh/users/65152) | BAT |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | QAT, NAT |
 | ![][flag_US] [foulcoon](https://osu.ppy.sh/users/19883) | BAT |
@@ -171,7 +171,7 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ![][flag_FI] [Orkel](https://osu.ppy.sh/users/39385) | Chat Moderator |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | GMT |
 | ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | GMT, Support Team |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | GMT, Support-Team |
 | ![][flag_NL] [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
 | ![][flag_HK] [Pokie](https://osu.ppy.sh/users/207340) | BAT |
 | ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) | BAT |
@@ -230,7 +230,7 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ![][flag_HK] [wmfchris](https://osu.ppy.sh/users/7401) | BAT |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | BAT |
 | ![][flag_CN] [xierbaliti](https://osu.ppy.sh/users/34044) | BAT |
-| ![][flag_FR] [XPJ38](https://osu.ppy.sh/users/273531) | Support Team |
+| ![][flag_FR] [XPJ38](https://osu.ppy.sh/users/273531) | Support-Team |
 | ![][flag_SE] [Xytox](https://osu.ppy.sh/users/2229274) | GMT |
 | ![][flag_FR] [yaya](https://osu.ppy.sh/users/50163) | BAT |
 | ![][flag_US] [yeahyeahyeahhh](https://osu.ppy.sh/users/58042) | MAT |
