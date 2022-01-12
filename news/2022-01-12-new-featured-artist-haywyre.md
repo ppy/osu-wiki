@@ -10,7 +10,7 @@ A monument to contemporary dance music, **Haywyre** joins our Featured Artist li
 
 **Haywyre** is one of those musicians who feels almost too famous to really be part of our humble circle-clicking game.
 
-This grammy nominated producer and pianist has toured with the likes of *Zedd* and *GRiZ* thanks to the distinct vision he puts forth with each of his electronic tunes. Inspired by creators like our very own [KOAN Sound](https://osu.ppy.sh/beatmaps/artists/49) and various classical composers/pianists, **Haywyre**'s one-of-a-kind sound is surprisingly well suited for the world of rhythm gaming.
+This grammy-nominated producer and pianist has toured with the likes of *Zedd* and *GRiZ* thanks to the distinct vision he puts forth with each of his electronic tunes. Inspired by creators like our very own [KOAN Sound](https://osu.ppy.sh/beatmaps/artists/49) and various classical composers/pianists, **Haywyre**'s one-of-a-kind sound is surprisingly well suited for the world of rhythm gaming.
 
 **13** tracks are on the table today, each of which has a beatmap template ready to go from [**Haywyre**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/230)!
 
