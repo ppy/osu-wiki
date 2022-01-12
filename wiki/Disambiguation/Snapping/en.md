@@ -2,7 +2,7 @@
 
 **Snapping** can have multiple meanings:
 
-## Mapping
+## Beatmapping
 
 - [Beat snapping](/wiki/Beatmapping/Snapping), a hit object's position within a single musical beat, which is split automatically using the [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)
 - [Grid snapping](/wiki/Grid_snapping), a hit object's position on the playfield
