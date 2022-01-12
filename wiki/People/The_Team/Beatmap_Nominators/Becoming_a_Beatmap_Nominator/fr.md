@@ -1,6 +1,6 @@
 # Devenir un Beatmap Nominator
 
-Les utilisateurs souhaitant rejoindre les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) doivent passer par un processus de candidature supervisé par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT). 
+Les utilisateurs souhaitant rejoindre les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) doivent passer par un processus de candidature supervisé par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
 
 Les candidatures se font via le [site web de la NAT](http://bn.mappersguild.com/bnapps).
 
@@ -53,7 +53,7 @@ Voici les caractéristiques de modding attendues des Beatmap Nominators. L'absen
 
 - Le `ModScore` de toutes les candidatures sera vérifié pour confirmer qu'elles ont atteint le score minimum requis.
 - Les moddeurs ayant obtenu un score suffisant seront évalués par les membres de la NAT correspondant au mode de jeu pour lequel ils ont postulé, en tenant compte des critères suivants :
-  - Attitude générale : Le ton des mods et les autres attentes comportementales du [Code de conduite](/wiki/Ranking_Criteria/Code_of_Conduct), ainsi que le comportement général dans le tchat/forum.
+  - Attitude générale : Le ton des mods et les autres attentes comportementales du [Code de conduite](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), ainsi que le comportement général dans le tchat/forum.
   - Capacités de modding : Connaissance des [critères de classement](/wiki/Ranking_Criteria) généraux et des critères spécifiques de chaque mode de jeu. Des capacités supplémentaires comme les métadonnées, le timing et d'autres seront également prises en compte.
 - Après l'évaluation de chaque moddeur, une discussion sera faite pour savoir si le moddeur rejoindra les Beatmap Nominators.
 

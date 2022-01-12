@@ -65,7 +65,7 @@ When a post is marked as a **suggestion** it is for changes that are subjective 
 
 When a post is marked as a **problem** it is for changes that are required for the rankability of the beatmap and are objectively needed for ranked. Do not post subjective changes as a problem, only when something clearly violates the Ranking Criteria or is extremely unfitting, such as SVs on a section where nothing happens which could justify them, unsnapped notes, or completely mistimed BPM.
 
-You can visit the [beatmap discussion](/wiki/Beatmap_Discussion) article for more details.
+You can visit the [beatmap discussion](/wiki/Beatmap_discussion) article for more details.
 
 ## Let's start modding!
 

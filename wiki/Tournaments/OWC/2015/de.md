@@ -146,7 +146,7 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 5. Wenn kein Schiedrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 6. Die Ergebnisse von gescheiterten Spielern wird nicht zum Teamergebnis mit angerechnet.
    - Das Überleben und Wiederbeleben während einer Map wird als Bestehen betrachtet.
-7. Das Benutzen der [visuellen Einstellungen](/wiki/Visual_Settings) ist erlaubt.
+7. Das Benutzen der [visuellen Einstellungen](/wiki/Client/Interface/Visual_settings) ist erlaubt.
 8. Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
 9. Wenn ein Spieler die Verbindung verlieren sollte, wird es so gehandhabt, als wäre der Spieler an der Beatmap gescheitert.
    1. Matches mit Verbindungsabbrüchen innerhalb von 30 Sekunden nach Beginn einer Map können wiederholt werden. Dies liegt jedoch im Ermessen des Schiedsrichters.

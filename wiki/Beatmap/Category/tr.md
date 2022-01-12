@@ -7,7 +7,7 @@ outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 
 *[Zorluklar](/wiki/Beatmap/Difficulty) ile karıştırılmamalıdır.*
 
-**Beatmapler** şarkılar için oluşturulmuş oyun seviyeleridir. [Vuruş objeleri](/wiki/Hit_object), [zamanlama](/wiki/Beatmap_Editor/Timing) bilgisi, zorluk ayarları, ve görsel efektler içerir.
+**Beatmapler** şarkılar için oluşturulmuş oyun seviyeleridir. [Vuruş objeleri](/wiki/Hit_object), [zamanlama](/wiki/Client/Beatmap_editor/Timing) bilgisi, zorluk ayarları, ve görsel efektler içerir.
 
 Beatmapler, **[beatmap setlerinin](/wiki/Beatmap)** bir parçası olarak yapılır. Beatmap setleri, websitesine [gönderilebilmesi](/wiki/Submission) ve [beatmap listesinde](https://osu.ppy.sh/beatmapsets) gözükmesi için beatmapleri bir arada gruplar. Her bir beatmapi farklı bir [zorluk](/wiki/Beatmap/Difficulty) olan setler genellikle tek bir şarkıyı barındırır.
 
@@ -47,4 +47,4 @@ Dereceli beatmapler, [derecelendirme kriterlerinin](/wiki/Ranking_Criteria) stan
 
 *Sevilen kategorisinin tarihçesi için, bakınız: [Sevilen'in Tarihçesi](/wiki/Beatmap/History_of_Loved)*
 
-Sevilen beatmapler [derecelendirme kriterlerine](/wiki/Ranking_Criteria) uymuyor olabilir, ancak topluluk tarafından *Sevilen* beatmaplerdir ve bu yüzden [Project Loved](/wiki/Project_Loved) içerisinde yapılan topluluk oylamalarıyla düzenli bir şekilde eklenir. Sıralamaya sahiptirler, fakat [performans puanı](/wiki/Performance_points) kazandırmaz ve Sevilen kategorisinden çıktığında tüm skorlar silinir (bu genellikle sadece yaratıcının isteği üzerine gerçekleştirilir). Sevilen beatmapler şarkı seçim ekranında kalp ikonu (![](/wiki/shared/status/loved.png)) ile ayırt edilebilir.
+Sevilen beatmapler [derecelendirme kriterlerine](/wiki/Ranking_Criteria) uymuyor olabilir, ancak topluluk tarafından *Sevilen* beatmaplerdir ve bu yüzden [Project Loved](/wiki/Community/Project_Loved) içerisinde yapılan topluluk oylamalarıyla düzenli bir şekilde eklenir. Sıralamaya sahiptirler, fakat [performans puanı](/wiki/Performance_points) kazandırmaz ve Sevilen kategorisinden çıktığında tüm skorlar silinir (bu genellikle sadece yaratıcının isteği üzerine gerçekleştirilir). Sevilen beatmapler şarkı seçim ekranında kalp ikonu (![](/wiki/shared/status/loved.png)) ile ayırt edilebilir.

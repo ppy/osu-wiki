@@ -194,7 +194,7 @@ Outils et/ou services créés par la communauté osu!. Vous êtes libres d'ajout
 
 ### Internet Relay Chat (IRC)
 
-*Voir: [Internet Relay Chat](/wiki/Internet_Relay_Chat)*
+*Voir: [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat)*
 
 - [irc4osu!](https://osu.ppy.sh/community/forums/topics/430741)—Un client IRC multiplateforme pour osu!.
   - [GitHub](https://github.com/arogan-group/irc4osu)

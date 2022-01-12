@@ -1,6 +1,6 @@
 # Règles pour les Beatmap Nominators
 
-Les règles énumérées ici concernent ce que les [Beatmap Nominators](/wiki/People/Beatmap_Nominators) peuvent et ne peuvent pas faire lorsqu'ils nominent des beatmaps et donnent le ton de la conduite générale attendue de ces utilisateurs. Ces règles sont le résultat d'une discussion au sein de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) et ont pris en compte les commentaires des Beatmap Nominators lors de leur proposition.
+Les règles énumérées ici concernent ce que les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) peuvent et ne peuvent pas faire lorsqu'ils nominent des beatmaps et donnent le ton de la conduite générale attendue de ces utilisateurs. Ces règles sont le résultat d'une discussion au sein de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) et ont pris en compte les commentaires des Beatmap Nominators lors de leur proposition.
 
 Les Beatmap Nominators possèdent les outils pour nominer des beatmaps et façonner le monde d'osu! en promouvant de nouveaux contenus pour qu'ils soient inclus dans les listes officielles, pour cette raison ils doivent respecter les règles à tout moment. La violation de l'une de ces règles peut entraîner l'exclusion du Beatmap Nominator concerné de la liste des Beatmap Nominators. Les violations de ces règles peuvent être rapportées à un membre de la NAT directement.
 
@@ -13,7 +13,7 @@ Un comportement durable en contradiction avec ces attentes est un motif d'exclus
 ## Conduite
 
 - **Ne suivez pas les règles ou les amendements non finalisés.**
-- **Respectez en tout temps les [règles de la communauté d'osu!](/wiki/Rules) et le [Code de conduite pour le modding et le mapping](/wiki/Ranking_Criteria/Code_of_Conduct).** En tant que Beatmap Nominator, votre comportement doit servir d'exemple positif aux autres membres de la communauté. Si vous enfreignez le code de conduite, vous pouvez être placé en probation temporaire ou, dans des cas extrêmes, être exclu de la liste des Beatmap Nominators.
+- **Respectez en tout temps les [règles de la communauté d'osu!](/wiki/Rules) et le [Code de conduite pour le modding et le mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping).** En tant que Beatmap Nominator, votre comportement doit servir d'exemple positif aux autres membres de la communauté. Si vous enfreignez le code de conduite, vous pouvez être placé en probation temporaire ou, dans des cas extrêmes, être exclu de la liste des Beatmap Nominators.
 - **Ne prenez pas part ou ne participez pas à des commissions rémunérées de modding, de classement ou de beatmapping.** Il ne devrait jamais y avoir de question sur la légitimité ou les motivations des membres de l'équipe d'osu! (BN, NAT ou autre) impliqués dans le [processus de classement](/wiki/Beatmap_ranking_procedure).
 
 ## Activité
@@ -39,7 +39,7 @@ Chaque mode a son propre minimum requis pour l'activité mensuelle.
 - **Ne nominez pas une beatmap sans avoir vérifié toutes les difficultés du ou des modes que vous nominez.** Une vérification incorrecte comprend l'exécution d'un outil de modding avant même d'avoir nominé ou téléchargé la beatmap.
 - **Ne nominez pas une beatmap si vous n'êtes pas sûr de quelque chose.** Dans ce cas, demandez de l'aide aux autres Beatmap Nominators avant de prendre une décision précipitée. Cela inclut les modes de jeu avec lesquels vous n'êtes pas familier, de zones grises suspectes, de problèmes de qualité ou de timing complexe.
 - **Ne nominez pas une beatmap si vous ne pouvez pas raisonnablement la juger.** Pour pouvoir juger de la qualité d'une beatmap, il est essentiel de pouvoir l'évaluer de manière raisonnable, que ce soit par le biais d'un test de la beatmap en jeu ou d'une expérience de modding. Si vous êtes considéré comme n'ayant pas les compétences de jeu ou l'expérience de modding suffisante, nous pouvons remettre en question votre capacité à juger la beatmap.
-- **Assurez-vous qu'aucun message de modding dans la [discussion de la beatmap](/wiki/Beatmap_Discussion) n'a été ignoré avant de nominer une beatmap.** Les messages sans réponse suffisante peuvent être considérés comme ignorés. En cas de doute, vérifiez si le code de conduite pour le mapping et le modding a été violé dans la discussion de la beatmap et agissez en conséquence.
+- **Assurez-vous qu'aucun message de modding dans la [discussion de la beatmap](/wiki/Beatmap_discussion) n'a été ignoré avant de nominer une beatmap.** Les messages sans réponse suffisante peuvent être considérés comme ignorés. En cas de doute, vérifiez si le code de conduite pour le mapping et le modding a été violé dans la discussion de la beatmap et agissez en conséquence.
 
 ### Qualification
 

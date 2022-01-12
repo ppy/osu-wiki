@@ -2,7 +2,7 @@
 
 ![An example of scripting in .osb](img/SBS_Base.jpg "An example of scripting in .osb")
 
-In addition to the [built-in storyboard editor](/wiki/Beatmap_Editor/Design), a plain text editor, such as Notepad, [Notepad++](https://www.notepad-plus-plus.org/), or [Visual Studio Code](https://code.visualstudio.com/), can also be used to create [storyboards](/wiki/Storyboard) for beatmaps. This workflow is called **storyboarding by scripting** (*SBS*) and it allows one to be more precise (to the pixel and the millisecond) as to when sprites appear, how they behave, and so on.
+In addition to the [built-in storyboard editor](/wiki/Client/Beatmap_editor/Design), a plain text editor, such as Notepad, [Notepad++](https://www.notepad-plus-plus.org/), or [Visual Studio Code](https://code.visualstudio.com/), can also be used to create [storyboards](/wiki/Storyboard) for beatmaps. This workflow is called **storyboarding by scripting** (*SBS*) and it allows one to be more precise (to the pixel and the millisecond) as to when sprites appear, how they behave, and so on.
 
 To study a specific part of scripting, head to one of the articles below:
 

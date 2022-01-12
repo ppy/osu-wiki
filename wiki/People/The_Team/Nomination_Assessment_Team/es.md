@@ -14,7 +14,7 @@ Los miembros del NAT se distinguen por su nombre de usuario rojo y su título de
 
 **Todos los miembros del Equipo de Evaluación de Nominaciones han jurado respetar [el Código de Conducta de los Colaboradores](/wiki/Contributor_Code_of_Conduct) además de las [Reglas de la Comunidad](/wiki/Rules).**
 
-Si encuentra a algún miembro del Equipo de Evaluación de Nominaciones actuando de manera inapropiada, por favor contacte [abuse@ppy.sh](mailto:abuse@ppy.sh) de inmediato con toda la información posible. Para más detalles, vea [Reportando Abuso](/wiki/Reporting_Bad_Behaviour/Abuse).
+Si encuentra a algún miembro del Equipo de Evaluación de Nominaciones actuando de manera inapropiada, por favor contacte [abuse@ppy.sh](mailto:abuse@ppy.sh) de inmediato con toda la información posible. Para más detalles, vea [Reportando Abuso](/wiki/Reporting_bad_behaviour/Abuse).
 
 ## Responsabilidades
 

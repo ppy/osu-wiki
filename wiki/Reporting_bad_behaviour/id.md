@@ -8,8 +8,8 @@ Laporan yang tidak disengaja akan diabaikan. Pengguna yang sengaja mengirim lapo
 
 | Sifat pelanggaran | Kontak yang dapat diakses |
 | :-- | :-- |
-| Pesan pribadi yang tidak pantas | **Tidak ada**: [abaikan pengguna](/wiki/Chat_Console#commands-list) saja. Untuk efek permanen, gunakan daftar abaikan pengguna dalam permainan yang ada pada [options](/wiki/Options). |
-| Pelanggaran terkait modding dan/atau mapping | NAT, melalui website [NAT/BN Management](https://bn.mappersguild.com/reports) |
+| Pesan pribadi yang tidak pantas | **Tidak ada**: [abaikan pengguna](/wiki/Client/Interface/Chat_console#commands-list) saja. Untuk efek permanen, gunakan daftar abaikan pengguna dalam permainan yang ada pada [options](/wiki/Client/Options). |
+| Pelanggaran terkait modding dan/atau mapping | NAT atau para anggota [GMT](/wiki/People/The_Team/Global_Moderation_Team) yang memoderasi komunitas mapping/modding, dengan melalui situs web [NAT/BN Management](https://bn.mappersguild.com/reports) |
 | Pelanggaran tingkah laku dari seorang member [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) atau [GMT](/wiki/People/The_Team/Global_Moderation_Team) | [Account support team](/wiki/People/The_Team/Account_support_team) di [support@ppy.sh](mailto:support@ppy.sh) |
 | Pelecehan seksual atau kelakuan buruk ekstrim | Rujuk ke artikel [Melaporkan Penyalahgunaan](/wiki/Reporting_bad_behaviour/Abuse) |
 

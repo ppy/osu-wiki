@@ -16,4 +16,4 @@ Beatmap dapat di-nuke karena berbagai alasan, tetapi yang paling umum adalah:
   - Beatmap yang sangat menantang atau tidak biasa/lazim (misalnya [spinner](/wiki/Hit_object/Spinner) yang saling bertepatan)
 - Tidak mengikuti [Kode Etik](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping).
 
-Secara teknis, ikon nuke masih ada di forum osu!. Meskipun demikian, seiring dengan telah berubahnya sistem modding yang ada dari sistem yang lama menuju sistem [Modding v2](/wiki/Beatmap_Discussion) dan [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) yang berlaku saat ini, ikon nuke kini sudah tidak lagi digunakan.
+Secara teknis, ikon nuke masih ada di forum osu!. Meskipun demikian, seiring dengan telah berubahnya sistem modding yang ada dari sistem yang lama menuju sistem [Modding v2](/wiki/Beatmap_discussion) dan [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) yang berlaku saat ini, ikon nuke kini sudah tidak lagi digunakan.

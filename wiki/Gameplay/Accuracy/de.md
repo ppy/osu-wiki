@@ -52,7 +52,7 @@ In osu!mania wird die Genauigkeit ähnlich wie bei [osu!](#-osu!) berechnet.
 
 Die Leistungskurve ist ein Diagramm, das die Leistung des Spielers (basierend auf seinem Lebensbalken) im Verlauf eines Spiels (Zeit) anzeigt. Zusätzliche Informationen können angezeigt werden, wenn man den Mauszeiger im Spiel darüber bewegt.
 
-*Hinweis: Die zusätzlichen Informationen können nur nach dem Abspielen einer Beatmap oder nach dem Ansehen eines Replays angezeigt werden. Nach dem Verlassen des [Ergebnisbildschirms](/wiki/Interface#ranking-screen) werden diese Informationen nicht gespeichert.*
+*Hinweis: Die zusätzlichen Informationen können nur nach dem Abspielen einer Beatmap oder nach dem Ansehen eines Replays angezeigt werden. Nach dem Verlassen des [Ergebnisbildschirms](/wiki/Client/Interface#ranking-screen) werden diese Informationen nicht gespeichert.*
 
 ### Genauigkeit
 

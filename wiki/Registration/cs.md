@@ -2,7 +2,7 @@
 
 *Poznámka: [osu! pravidla](/wiki/Rules) zakazují používání dvou nebo více účtů!*
 
-1. Po [instalaci](/wiki/Installation) osu! vás vyzve k přihlášení nebo registraci. Za předpokladu, že jste tady, protože potřebujete účet, klikněte na `Vytvořit účet`.
+1. Po [instalaci](/wiki/Client/Installation) osu! vás vyzve k přihlášení nebo registraci. Za předpokladu, že jste tady, protože potřebujete účet, klikněte na `Vytvořit účet`.
    
    ![Registrační formulář ve hře](img/ingame-registration.jpg "Registrační formulář")
 
@@ -17,6 +17,6 @@
 
 Nezapomeňte si velmi pečlivě přečíst [pravidla](/wiki/Rules)
 
-Jakmile to bude hotové, jste připraveni začít své rytmické dobrodružství! Můžete [přidat beatmapy](/wiki/Installation#přidávání-beatmap), [vytvořit skin](/wiki/Skinning), nebo [vytvořit beatmapu](/wiki/Beatmapping). Můžete se také zastavit a říci "Ahoj" v [úvodním subforu](https://osu.ppy.sh/community/forums/8).
+Jakmile to bude hotové, jste připraveni začít své rytmické dobrodružství! Můžete [přidat beatmapy](/wiki/Client/Installation#přidávání-beatmap), [vytvořit skin](/wiki/Skinning), nebo [vytvořit beatmapu](/wiki/Beatmapping). Můžete se také zastavit a říci "Ahoj" v [úvodním subforu](https://osu.ppy.sh/community/forums/8).
 
-Pokud potřebujete další pomoc ve hře, můžete se zeptat v `#help` [Internet Relay Chat](/wiki/Internet_Relay_Chat) (IRC) otevřením chatovací konzoly (zmáčknutím `F8` nebo `F9` ve hře) pak napište `/join help`. Svou otázku můžete také zveřejnit v [subforum nápovědy](https://osu.ppy.sh/community/forums/5).
+Pokud potřebujete další pomoc ve hře, můžete se zeptat v `#help` [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC) otevřením chatovací konzoly (zmáčknutím `F8` nebo `F9` ve hře) pak napište `/join help`. Svou otázku můžete také zveřejnit v [subforum nápovědy](https://osu.ppy.sh/community/forums/5).

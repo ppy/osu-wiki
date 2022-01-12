@@ -87,7 +87,7 @@ Le [score dans osu!taiko](/wiki/Gameplay/Score/osu!taiko) est une somme pondér�
 - Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) est un multiplicateur de score : jouer un objet contribue davantage au score total lorsque le combo est élevé et vice versa. Le combo peut être [cassé](/wiki/Glossary/Combobreak) par un miss. Dans osu!taiko, le multiplicateur de score dérivé du combo est limité et n'affecte pas le score total autant qu'il le fait dans osu! ou osu!catch.
 - Le [Kiai time](/wiki/Kiai_time) : dans osu!taiko, le kiai time augmente le gain de points de 20%, tout comme dans la série originale *Taiko no Tatsujin*.
 
-En plus de donner des points, chaque objet remplit une petite partie de la [barre de vie](/wiki/Glossary/Health_bar), qui doit être remplie au moins à **50%** pour qu'un joueur puisse terminer une beatmap.
+En plus de donner des points, chaque objet remplit une petite partie de la [barre de vie](/wiki/Client/Interface/Health_bar), qui doit être remplie au moins à **50%** pour qu'un joueur puisse terminer une beatmap.
 
 Après avoir complété une beatmap, le score se voit attribuer une [note](/wiki/Gameplay/Grade#osu!taiko), une courte évaluation de la précision sous la forme d'une seule lettre. Un SS doré ou argenté indique une précision de 100 %, et tout le reste, de S à D, dépend de la quantité de 300, 100 et de notes manquées.
 

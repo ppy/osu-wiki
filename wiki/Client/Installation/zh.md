@@ -1,8 +1,8 @@
 # 安装
 
-*另见：[在 macOS 上安装](/wiki/Installation/macOS)*
+*另见：[在 macOS 上安装](/wiki/Client/Installation/macOS)*
 
-该页面会简要地告诉你怎么让 osu! 在 Windows 上运行。[osu!academy](/wiki/osu!academy) 制作了一个[视频教程](https://www.bilibili.com/video/av90868810)来解释怎么在 Windows 上面安装 osu!。
+该页面会简要地告诉你怎么让 osu! 在 Windows 上运行。[osu!academy](/wiki/Community/Video_series/osu!academy) 制作了一个[视频教程](https://www.bilibili.com/video/av90868810)来解释怎么在 Windows 上面安装 osu!。
 
 ## 最低系统要求
 
@@ -46,7 +46,7 @@
 4. 找到后缀名为 `.osz` 的谱面集文件并打开。
    - 或者，你也可以把谱面集文件放入 osu! 安装目录下的 `Songs` 文件夹。
 5. osu! 会处理好余下的事情并加载谱面集。
-   - 如果你因为某些原因没看到它们，在[歌曲选择](/wiki/Interface#选歌界面)页面内按下 `F5` 来重新处理谱面文件。
+   - 如果你因为某些原因没看到它们，在[歌曲选择](/wiki/Client/Interface#选歌界面)页面内按下 `F5` 来重新处理谱面文件。
 
 ### osu!direct
 
@@ -57,7 +57,7 @@
 3. 双击列表内的乐曲或点击右边的 `Download` 按钮来下载它。
    - 如果你不想下载随谱面文件一起的视频文件，点击 `DL NoVideo`。
 4. osu! 完成下载后，将会自动加载谱面集。
-   - 如果你因为某些原因没看到它们，在[歌曲选择](/wiki/Interface#选歌界面)页面内按下 `F5` 来重新处理谱面文件。
+   - 如果你因为某些原因没看到它们，在[歌曲选择](/wiki/Client/Interface#选歌界面)页面内按下 `F5` 来重新处理谱面文件。
 
 ## 添加皮肤
 
@@ -73,5 +73,5 @@
      1. 先解压。
      2. 把皮肤文件夹移动到 osu! 安装目录下的 `Skins` 文件夹。
      3. 如果 osu! 还开着，你可能需要按下 `Ctrl` + `Alt` + `Shift` + `S` 来让皮肤出现在列表。
-     4. 在 osu! 里进入[选项（Options）](/wiki/Options)搜索 `皮肤（Skin）`。
+     4. 在 osu! 里进入[选项（Options）](/wiki/Client/Options)搜索 `皮肤（Skin）`。
      5. 下滑到 `当前皮肤：` 选项，选择下载好的皮肤。

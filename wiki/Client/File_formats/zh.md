@@ -17,8 +17,8 @@ outdated: true
 
 | 文件格式 | 用途 |
 | :-- | :-- |
-| [.osu][Osu Link] | 参见[Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup) |
-| [.osb][Osb Link] | 参见[Design](/wiki/Beatmap_Editor/Design) |
+| [.osu][Osu Link] | 参见[Compose](/wiki/Client/Beatmap_editor/Compose), [Timing](/wiki/Client/Beatmap_editor/Timing), [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) |
+| [.osb][Osb Link] | 参见[Design](/wiki/Client/Beatmap_editor/Design) |
 
 ### 回放
 

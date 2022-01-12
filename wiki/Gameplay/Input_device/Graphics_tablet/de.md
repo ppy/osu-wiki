@@ -12,6 +12,6 @@ Ein **Grafiktablett**, oder einfach nur *Tablet*, ist ein Eingabegerät, das urs
 
 *Hinweis für Tablet-Spieler: Die Verwendung eines Tablet-PCs oder von Tablet-Klicks in osu! kann manchmal fehlerhaft verarbeitet werden. Um dies zu beheben, aktiviere den Punkt "TabletPC-Unterstützung erzwingen" im Optionsmenü.*
 
-![](img/os-tabletpc-option.jpg "TabletPC-Unterstützung in osu!")
+![](img/os-tabletpc-option-DE.jpg "TabletPC-Unterstützung in osu!")
 
 <!-- TODO: mention tap-x as a way of clicking with a tablet -->
