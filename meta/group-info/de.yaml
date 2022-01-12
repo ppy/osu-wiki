@@ -26,7 +26,7 @@ nat:
     communication: Kommunikation
     evaluation: Beurteilung
     moderation: Moderation
-    structural: strukturell
+    structural: Strukturell
 languages:
   partial: irgendeine <Sprache>
   ar: Arabisch
