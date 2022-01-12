@@ -182,7 +182,7 @@ Dieser Abschnitt ist über Einstellungen, die den Spielverlauf beeinflussen.
 | `Genauigkeitsmetergröße` | Stelle die Größe des Genauigkeitsmeters ein. | Slider | `1x` |
 | `Tasten-Overlay` | Zeigt den Status des Tasten-Overlays an, auch während dem normalen Spiel. | Checkbox | `Deaktiviert` |
 | `Approach Circle des ersten Objektes beim Mod "Hidden"` | Zeigt nur den Approach Circle des ersten Hit-Objektes beim Spielen der Mod "Hidden" an. | Checkbox | `Aktiviert` |
-| `osu!mania-Scrollgeschwindigkeit anhand BPM skalieren` | Stelle die Scrollgeschwindigkeit von osu!mania abhängig von den BPM der Beatmap. | Checkbox | `Deaktiviert` |
+| `osu!mania-Scrollgeschwindigkeit anhand BPM skalieren` | Stelle die Scrollgeschwindigkeit von osu!mania abhängig von den BPM der Beatmap ein. | Checkbox | `Deaktiviert` |
 | `osu!mania-Scrollgeschwindigkeit für jede Beatmap merken` | Speichert die Scrollgeschwindigkeit, die du pro Beatmap eingestellt hast. | Checkbox | `Deaktiviert` |
 
 ---
