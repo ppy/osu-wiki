@@ -4,7 +4,7 @@
 
 Klicke auf `Options` oder drücke `O` (oder drücke `Strg` + `O`, was in den meisten Menüs funktioniert), um auf die Optionsleiste zuzugreifen und die verfügbaren Optionen in osu! ändern zu können. Sobald sich das Optionsmenü geöffnet hat, kannst du etwas eintippen, um nach einer bestimmten Einstellung zu suchen. Der Text in der Suchleiste wird zittern, sollte die Suchanfrage keine Ergebnisse liefern.
 
-Wenn eine Einstellung, die einen Standardwert hat, geändert wird, dann wird die vertikale Leiste auf der linken Seite für diese Einstellung gelb leuchten.
+Wenn eine Einstellung, die einen Standardwert hat, geändert wird, dann wird die vertikale Leiste auf der linken Seite für diese Einstellung gelb leuchten. Durch Klicken darauf wird der Wert auf seinen Standardwert zurückgesetzt.
 
 ## Allgemein
 
@@ -111,7 +111,7 @@ Wenn du die Dropdown-Liste zu `FPS-Limit` öffnest, wirst du folgende Optionen s
 - Erklärung für `Unbegrenzt (nur im Spiel)`: Unbegrenzt trifft nur zu, wenn du eine Beatmap spielst.
   - Sofern du keine Beatmap spielst, ist die Bildrate auf die zweifache Bildwiederholrate deines Bildschirms oder 240 FPS begrenzt, je nachdem, was höher liegt.
   - Diese Einstellung wird **nicht empfohlen**. `Unbegrenzt (nur im Spiel)` zu benutzen, kann zu Bildschirmfehlern führen.
-  - Stattdessen die Einstellung `Optimal` zu verwenden, bietet unfassbare Änderungen in der Systemlatenzzeit (Ein- und Ausgabe) im Vergleich zu `Unbegrenzt (nur im Spiel)`.
+  - Verwendet man stattdessen die Option `Optimal`, verändert sich die Latenzzeit des Systems (zwischen Eingabe und Ausgabe) im Vergleich zu `Unbegrenzt (nur im Spiel)` nicht merklich.
 
 ### Bildschirmauflösung
 
@@ -121,7 +121,7 @@ Wenn du die Dropdown-Liste zu `FPS-Limit` öffnest, wirst du folgende Optionen s
 | `Vollbildmodus` | Führt den Spiel-Client im Vollbildmodus aus (normalerweise reduziert das die Eingabelatenzzeit). | Checkbox | `Aktiviert` |
 | `Render at native resolution` | Benutze die volle native Auflösung, aber stelle osu! in einem kleineren, zentrierten Teil des Bildschirms dar. | Checkbox | `Aktiviert` |
 | `Horizontale Position` | Passe den horizontalen Offset für den Letterbox-Modus an. Erscheint nur, wenn `Render at native resolution` aktiviert ist. | Slider | `0%` |
-| `Vertikale Position` | Passe den vertikalen Offset für den Pillarbox-Modus an. Erscheint nur, wenn `Render at native resolution` aktiviert ist. | Slider | `0%` |
+| `Vertikale Position` | Passe den vertikalen Offset für den Letterbox-Modus an. Erscheint nur, wenn `Render at native resolution` aktiviert ist. | Slider | `0%` |
 
 - Wenn `Vollbildmodus` deaktiviert ist, dann wird darunter `Das ausführen ohne Vollbildmodus wird die Eingabe Verzögerung verbessern` erscheinen.
 
@@ -183,7 +183,7 @@ Dieser Abschnitt ist über Einstellungen, die den Spielverlauf beeinflussen.
 | `Tasten-Overlay` | Zeigt den Status des Tasten-Overlays an, auch während dem normalen Spiel. | Checkbox | `Deaktiviert` |
 | `Approach Circle des ersten Objektes beim Mod "Hidden"` | Zeigt nur den Approach Circle des ersten Hit-Objektes beim Spielen der Mod "Hidden" an. | Checkbox | `Aktiviert` |
 | `osu!mania-Scrollgeschwindigkeit anhand BPM skalieren` | Stelle die Scrollgeschwindigkeit von osu!mania abhängig von den BPM der Beatmap. | Checkbox | `Deaktiviert` |
-| `osu!mania-Scrollgeschwindigkeit für jede Beatmap merken` | Speichert die Scrollgeschwindigkeit, die du für pro Beatmap eingestellt hast. | Checkbox | `Deaktiviert` |
+| `osu!mania-Scrollgeschwindigkeit für jede Beatmap merken` | Speichert die Scrollgeschwindigkeit, die du pro Beatmap eingestellt hast. | Checkbox | `Deaktiviert` |
 
 ---
 
@@ -223,7 +223,7 @@ In diesem Abschnitt geht es um audiobezogene Optionen.
 
 | Name | Beschreibung | Typ | Standardwert |
 | :-- | :-- | :-- | :-- |
-| `Wiedergabegeräte` | Wähle dein bevorzugtes Wiedergabegerät für die Audio aus. (Die angegebenen Optionen hängen davon ab, was dein Computer unterstützt.) | Dropdown-Menü | `Standard` |
+| `Wiedergabegeräte` | Wähle dein bevorzugtes Wiedergabegerät für das Audio aus. (Die angegebenen Optionen hängen davon ab, was dein Computer unterstützt.) | Dropdown-Menü | `Standard` |
 | `Audio compatibility mode` | Benutzt die alte Audio-Engine, die eine höhere Latenzzeit hat, aber kompatibler ist. | Checkbox | `Deaktiviert` |
 
 ### Lautstärke
@@ -235,7 +235,7 @@ In diesem Abschnitt geht es um audiobezogene Optionen.
 | `Effekte` | Kontrolliert die Lautstärke der Hitsounds sowie anderer Soundeffekte im Spiel. | Slider | `80%` |
 | `Hitsounds ignorieren` | Bevorzugt Hitsounds, die vom aktuellen Skin bereitgestellt werden, anstatt die Hitsounds, die in der Beatmap enthalten sind. | Checkbox | `Deaktiviert` |
 
-Die allgemeine, Musik- sowie Effektelautstärke kann an anderer Stelle auch durch das Drücken von `Alt` sowie Hoch- und Runterscrollen oder durch das Drücken von `Alt` sowie `Up` oder `Down` eingestellt werden.
+Die allgemeine, Musik- sowie Effektelautstärke kann an anderer Stelle auch durch das Drücken von `Alt` sowie Hoch- und Runterscrollen oder durch das Drücken von `Alt` sowie `nach oben` oder `nach unten` eingestellt werden.
 
 ### Universeller Audio-Offset
 
@@ -313,7 +313,7 @@ Wenn du die Dropdown-Liste für `Mauszeiger eingrenzen` öffnest, hast du Folgen
 | Name | Beschreibung | Typ | Standardwert |
 | :-- | :-- | :-- | :-- |
 | `TabletPC-Unterstützung erzwingen` | Verbessert die Kompatibilität mit Grafik-Tablets und Tablet-PCs. | Checkbox | `Deaktiviert` |
-| `Wiimote-/TaTaCon-Unterstützung aktivieren` | Aktiviere die Unterstützung für den Nintendo's Wii Taiko Drum Controller und die Wiimotes. Kopple das Gerät über Bluetooth, bevor du es aktivierst. | Checkbox | `Deaktiviert` |
+| `Wiimote-/TaTaCon-Unterstützung aktivieren` | Aktiviere die Unterstützung für den Nintendo Wii Taiko Drum Controller und die Wiimotes. Kopple das Gerät über Bluetooth, bevor du es aktivierst. | Checkbox | `Deaktiviert` |
 
 ## Editor
 
@@ -425,7 +425,7 @@ b{YYYY}{MM}{DD}.{revision}{type}
 
 ### Geschichte
 
-- Das alte Options-Fenster war tatsächlich ein Fenster, das Tabs, Buttons und einen dunklen hellblauen Hintergrund hatte.
+- Das alte Options-Fenster war tatsächlich ein Fenster, das Tabs, Buttons und einen dunklen blassblauen Hintergrund hatte.
 - Das alte Options-Fenster hatte ebenfalls einen Skin-Auswahlbildschirm, der eine Live-Vorschau von einer Beatmap in osu! anbot.
   - Nachdem das Options-Fenster in die Seitenleiste verschoben wurde, war das alte Fenster immer noch durch das Öffnen einer Skin-Datei aufrufbar.
   - Der Zugriff darauf wurde später entfernt, nachdem die Vorschau für Skins und die Live-Vorschau eingeführt wurden.
