@@ -7,7 +7,7 @@ no_native_review: true
 
 osu! é um jogo fortemente voltado para a comunidade. Todos os níveis do jogo (beatmaps) são criados e carregados por membros da comunidade, muitas vezes sem a obtenção correta da permissão dos detentores de direitos autorais relevantes. Fazemos o possível para não anunciar ou lucrar diretamente com o conteúdo carregado, e o jogo é inteiramente financiado por doações de usuários.
 
-Grande parte das doações que recebemos é usada para reinvestir no [licenciamento de músicas](/wiki/Legal/Music_Licensing). Averiguações sobre licenciamento podem ser enviadas para [music@ppy.sh](mailto:music@ppy.sh).
+Grande parte das doações que recebemos é usada para reinvestir no [licenciamento de músicas](/wiki/Legal/Music_licensing). Averiguações sobre licenciamento podem ser enviadas para [music@ppy.sh](mailto:music@ppy.sh).
 
 Falhando nisso, osu! adotou a seguinte política com relação à violação de direitos autorais, de acordo com o Digital Millennium Copyright Act, 17 U.S.C. 512.
 
