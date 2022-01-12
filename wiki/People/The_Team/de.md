@@ -13,7 +13,7 @@ tags:
 
 Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hauptverantwortlich dafür, dass das Spiel für alle großartig ist.
 
-| Name | Rolle <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
+| Name | Rolle |
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Projektleiter** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Berater für die Modding- und Mapping-Szene |
@@ -53,8 +53,6 @@ Die folgenden Benutzergruppen bestehen aus Mitgliedern der osu!-Community, die h
 | [Support-Team](Support_Team) | Hilfe / Feature-Request Unterstützung |
 
 ## Inaktive Mitglieder des Kernteams
-
-<!-- Jim is the only person here that has never had an osu! profile (PR #4611) -->
 
 | Name | Rolle |
 | :-- | :-- |
