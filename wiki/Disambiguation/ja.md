@@ -19,5 +19,6 @@
 - [osu!](osu!)
 - [ランク](Rank)
 - [Score](Score)
+- [Snapping](Snapping)
 - [Star](Star)
 - [バージョン](Version)
