@@ -1,8 +1,8 @@
 # Directives d'utilisation du contenu
 
-En tant que mappeur, vous devez avoir l'autorisation des détenteurs des droits d'auteur pour les éléments audio/visuels/de gameplay inclus dans vos beatmaps. Sans autorisation, vos beatmaps risquent d'être supprimés et l'accès au système de mise en ligne risque de vous être refusé, conformément à la [politique de copyright d'osu!](/wiki/Legal/Copyright).
+En tant que mappeur, vous devez avoir l'autorisation des détenteurs des droits d'auteur pour les éléments audio/visuels/de gameplay inclus dans vos beatmaps. Sans autorisation, vos beatmaps risquent d'être supprimées et l'accès au système de mise en ligne risque de vous être refusé, conformément à la [politique de copyright d'osu!](/wiki/Legal/Copyright).
 
-Pour garantir le bon fonctionnement de votre compte, il est recommandé de créer des beatmaps en utilisant des actifs parmi les suivants :
+Pour garantir le bon fonctionnement de votre compte, il est recommandé de créer des beatmaps en utilisant du contenu qui fait parti des cas suivants :
 
 - Légalement autorisé à être utilisé dans osu!
 - Autorisés à être utilisés par leur(s) créateur(s)
@@ -32,7 +32,7 @@ De nombreux sites d'hébergement d'images disposent de filtres de recherche pour
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/)
 
-Si vous avez reçu l'autorisation d'un musicien d'utiliser sa musique, l'œuvre d'art de son album ou toute autre œuvre d'art officielle de l'artiste peut également être utilisée comme arrière-plan/storyboard. Toutefois, si cela n'est pas clair, demandez l'autorisation.
+Si vous avez reçu l'autorisation d'un musicien d'utiliser sa musique, la couverture de son album ou toute autre image officielle de l'artiste peut également être utilisée comme arrière-plan/storyboard. Toutefois, si cela n'est pas clair, demandez l'autorisation.
 
 ## Gameplay
 
@@ -42,4 +42,4 @@ Nous ne tolérons pas les mises en ligne présentant un gameplay (objets) corres
 
 ---
 
-Bien qu'il soit parfois difficile d'entrer en contact avec les créateurs de ressources audio/visuelles, les mappeurs sont souvent ouverts à ce que d'autres téléchargent et créditent leurs difficultés ! Notez que le plagiat du contenu du jeu est également inacceptable, donc toute difficulté qui n'est pas créée uniquement par vous doit être tagués en conséquence.
+Bien qu'il soit parfois difficile d'entrer en contact avec les créateurs de ressources audio/visuelles, les mappeurs sont souvent ouverts à ce que d'autres téléchargent et créditent leurs difficultés ! Notez que le plagiat du contenu du jeu est également inacceptable, donc toute difficulté qui n'est pas créée uniquement par vous doit être taguée en conséquence.

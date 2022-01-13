@@ -2,7 +2,7 @@
 
 ![Capture d'écran d'une beatmap contenant un contenu explicite](img/explicit-tag.jpg "Un exemple de beatmap qui est marqué avec le tag 'explicite'.")
 
-Les mappeurs peuvent déclarer si le contenu de leurs beatmap est *explicite* en cochant la case `Contenu explicite` qui se trouve dans le [menu déroulant genre et langue](/wiki/Beatmap/Genre_and_language) sur la liste web de la beatmap correspondant. Cette fonctionnalité a quelques attentes et règles qui définit son utilisation.
+Les mappeurs peuvent déclarer si le contenu de leurs beatmap est *explicite* en cochant la case `Contenu explicite` qui se trouve dans le [menu déroulant genre et langue](/wiki/Beatmap/Genre_and_language) sur la liste web de la beatmap correspondant. Cette fonctionnalité a quelques attentes et règles qui définissent son utilisation.
 
 Quelle que soit la nature du contenu audio, assurez-vous qu'il est également conforme aux [règles générales relatives au contenu des musiques](/wiki/Rules/Song_Content_Rules).
 
@@ -14,7 +14,7 @@ D'une manière générale, la plupart des formes de musique peuvent être utilis
 
 ## Qu'est-ce qui est considéré comme un usage intensif de langage explicite ?
 
-L'utilisation légère (ou unique) d'un blasphème courant ne suffit pas à qualifier une beatmap pour le considérer comme du contenu explicite. Les beatmaps contenant ce type de langage peuvent être laissées sans être tagués comme explicites, tant que le langage correspond à ce que l'on pourrait raisonnablement attendre d'un film classé comme nécessitant un "accompagnement parental" (PG-13). Si vous pensez que cela est pertinent pour une musique, partez du principe que ce n'est pas le cas.
+L'utilisation légère (ou unique) d'un blasphème courant ne suffit pas à qualifier une beatmap en tant que contenu explicite. Les beatmaps contenant ce type de langage peuvent être laissées sans être taguées comme explicites, tant que le langage correspond à ce que l'on pourrait raisonnablement attendre d'un film classé comme nécessitant un "accompagnement parental" (PG-13). Si vous pensez que cela est pertinent pour une musique, partez du principe que ce n'est pas le cas.
 
 L'utilisation de blasphèmes doit être soutenue, significative, fortement incendiaire ou très répétitive pour être considérée comme explicite.
 

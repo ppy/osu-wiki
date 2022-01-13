@@ -4,9 +4,9 @@ Conformément à la [règle communautaire n°5](/wiki/Rules#règles-communautair
 
 Cela comprend :
 
-- La mise en ligne des beatmaps, **même ceux tagués comme [explicites](/wiki/Rules/Explicit_Content)**.
-- Les détails du profil (avatars, images de couverture)
-- Toute autre pièce jointe ou lien hypertexte (messages du forum, commentaires, messages de discussion sur une beatmap)
+- la mise en ligne des beatmaps, **même celles taguées comme [explicites](/wiki/Rules/Explicit_Content)**.
+- les détails du profil (avatars, images de couverture)
+- toute autre pièce jointe ou lien hypertexte (messages du forum, commentaires, messages de discussion sur une beatmap)
 
 Dans l'intérêt de garder les choses aussi propres que possible, la règle communautaire n°5 s'applique à tout ce qui pourrait être raisonnablement considéré comme "douteux".
 
@@ -22,26 +22,26 @@ En cas de doute, essayez de tenir compte des valeurs collectives partagées par 
 
 Les images ou éléments visuels contenant l'un des éléments suivants ne sont **pas autorisés** :
 
-- **Le contenu sexuel impliquant ou visant des mineurs**
-- **La violence excessive, le gore, le démembrement, la décapitation ou la mutilation.**
-- **Des allusions sexuelles importantes**
-- **l'Exhibition ou sollicitation à caractère sexuel**
-- **Du contenu érotique ou représentations graphiques de la sexualité**
-- **Des exemples de consommation, de préparation de drogues ou d'identification à la sous-culture des drogues illicites**¹
-- **Des représentations de contenus politiques, culturels, religieux ou sociaux délibérément incendiaires**
+- **le contenu sexuel impliquant ou visant des mineurs**
+- **la violence excessive, le gore, le démembrement, la décapitation ou la mutilation.**
+- **des allusions sexuelles importantes**
+- **l'exhibition ou sollicitation à caractère sexuel**
+- **du contenu érotique ou représentations graphiques de la sexualité**
+- **des exemples de consommation, de préparation de drogues ou d'identification à la sous-culture des drogues illicites**¹
+- **des représentations de contenus politiques, culturels, religieux ou sociaux délibérément incendiaires**
 
 En outre, les images ou les éléments visuels dont on peut raisonnablement penser qu'ils sont de mauvaise qualité (qu'il s'agisse de la qualité objective de l'image ou de la composition/création subjective) peuvent également être empêchés d'être utilisés dans une beatmap lorsqu'ils ne sont pas directement liés à un sujet pertinent.
 
-*¹* : Cette règle peut faire l'objet d'exceptions en fonction de la nature de la drogue, de son usage et de sa sous-culture, notamment dans le cas de drogues faisant l'objet d'une décriminalisation et d'une réglementation rapides dans le monde entier, comme la marijuana. Les demandes d'exceptions spécifiques à cette règle doivent être faites en contactant l'[équipe d'assistance aux comptes](/wiki/People/The_Team/Account_support_team) à l'adresse [support@ppy.sh](mailto:support@ppy.sh).
+*¹* : Cette règle peut faire l'objet d'exceptions en fonction de la nature de la drogue, de son usage et de sa sous-culture, notamment dans le cas de drogues faisant l'objet d'une décriminalisation et d'une réglementation rapides dans le monde entier, comme la marijuana. Les demandes d'exceptions spécifiques à cette règle doivent être faites en contactant l'[équipe de support aux comptes](/wiki/People/The_Team/Account_support_team) à l'adresse [support@ppy.sh](mailto:support@ppy.sh).
 
 ## Exceptions
 
 Les images ou les éléments visuels contenant des exemples des éléments suivants peuvent être considérés comme acceptables :
 
-- Des représentations légères à modérées de la violence (petites quantités de sang, blessures non critiques ou superficielles)
-- Une nudité artistique (dans le contexte d'une œuvre d'art classique ou d'une œuvre liée à l'élément, telle qu'une pochette d'album présentant une nudité mineure)
-- Une romance légère, flirt ou affection intime (câlins, embrassades, baisers sans connotation sexuelle, main dans la main, etc.)
-- Des maillots de bain de conception raisonnable (maillot de bain standard avec couverture générale, bikini ordinaire)
+- des représentations légères à modérées de la violence (petites quantités de sang, blessures non critiques ou superficielles)
+- une nudité artistique (dans le contexte d'une œuvre d'art classique ou d'une œuvre liée à l'élément, telle qu'une pochette d'album présentant une nudité mineure)
+- une romance légère, flirt ou affection intime (câlins, embrassades, baisers sans connotation sexuelle, main dans la main, etc.)
+- des maillots de bain de conception raisonnable (maillot de bain standard avec couverture générale, bikini ordinaire)
 
 Dans certaines circonstances, des exceptions peuvent s'appliquer pour l'utilisation artistique de contenus "à fort coefficient de travail", tels que des storyboards ou des contenus vidéo sur mesure (c'est-à-dire créés spécifiquement). Ces exceptions doivent être accordées directement par l'équipe d'assistance. Les personnes intéressées peuvent les contacter directement via [support@ppy.sh](mailto:support@ppy.sh).
 
