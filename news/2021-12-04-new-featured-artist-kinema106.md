@@ -12,7 +12,7 @@ Dive into a crowd of *Kantai Collection*-inspired tracks created by **KINEMA106*
 
 We're in for a big one this time. **37** top-notch songs have been prepped for your eager mapping fingers and are available on [**KINEMA106**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/222)!
 
-It should come as no surprise that **KINEMA106** is popular among circle clickers. This brand of J-rock is essentially in our blood at this point, so we've organized a ton of maps for you to explore (most of which come from the swell folks over at the [Mappers' Guild](/wiki/Mappers_Guild)).
+It should come as no surprise that **KINEMA106** is popular among circle clickers. This brand of J-rock is essentially in our blood at this point, so we've organized a ton of maps for you to explore (most of which come from the swell folks over at the [Mappers' Guild](/wiki/Community/Mappers_Guild)).
 
 Take a look for yourself:
 

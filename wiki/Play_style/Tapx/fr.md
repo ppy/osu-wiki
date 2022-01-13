@@ -11,7 +11,7 @@ tags:
 
 *Note : Ce style de jeu nécessite l'utilisation d'une tablette graphique.*
 
-Le **tapx** est une méthode de jeu pour les joueurs de [tablette uniquement](/wiki/Play_style#tablet-only) dans le mode [osu!](/wiki/Game_mode/osu!) qui consiste à cliquer sur les cercles, faire glisser les sliders, ou faire tourner les spinners en tapotant un stylet sur une tablette, avec une touche secondaire du clavier et/ou de la tablette pour les [streams](/wiki/Beatmap/Pattern/Stream) et les [stacks](/wiki/Mapping_Techniques/Stack). Cette méthode est assez difficile pour la plupart des joueurs et n'est pas très populaire parmi les joueurs sur tablette.
+Le **tapx** est une méthode de jeu pour les joueurs de [tablette uniquement](/wiki/Play_style#tablet-only) dans le mode [osu!](/wiki/Game_mode/osu!) qui consiste à cliquer sur les cercles, faire glisser les sliders, ou faire tourner les spinners en tapotant un stylet sur une tablette, avec une touche secondaire du clavier et/ou de la tablette pour les [streams](/wiki/Beatmap/Pattern/Stream) et les [stacks](/wiki/Mapping_techniques/Stack). Cette méthode est assez difficile pour la plupart des joueurs et n'est pas très populaire parmi les joueurs sur tablette.
 
 ## Streaming
 

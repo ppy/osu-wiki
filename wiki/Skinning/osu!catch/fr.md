@@ -86,7 +86,7 @@ Notes:
   - L'une des images de la série apparaîtra lorsqu'une étape du combo sera atteinte.
 - Sur la v2.2-, `comboburst.png` sera utilisé à la place.
 - Combobursts spécifiques à osu!catch
-- Ceci peut être désactivé dans les [options](/wiki/Options).
+- Ceci peut être désactivé dans les [options](/wiki/Client/Options).
 - Elle doit être orientée vers la droite.
 
 ## Fruits
@@ -103,7 +103,7 @@ Notes:
 
 - Il s'agit d'une pulsation sur la ligne de catch de l'endroit où le fruit a atterri pendant le [kiai time](/wiki/Kiai_time).
 - Cet élément est également utilisé dans [osu!](/wiki/Game_mode/osu!) et [osu!taiko](/wiki/Game_mode/osu!taiko).
-- Ceci peut être désactivé dans les [options](/wiki/Options).
+- Ceci peut être désactivé dans les [options](/wiki/Client/Options).
 - La teinte dépend de la couleur de la combinaison de fruits.
 
 ---

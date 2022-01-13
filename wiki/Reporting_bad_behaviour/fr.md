@@ -1,19 +1,15 @@
----
-no_native_review: true
----
-
 # Signaler un mauvais comportement
 
-osu! a [une équipe de modérateurs](/wiki/People/The_Team/Global_Moderation_Team) qui s'efforce de garder le jeu et son écosystème propres et sûrs. Si vous constatez un comportement contraire aux règles ou un contenu inapproprié, signalez-le en utilisant l'une des méthodes décrites ci-dessous. Vous pouvez également contacter directement l'un des modérateurs en ligne si votre report n'a pas été traité correctement dans un délai raisonnable, mais uniquement en dernier recours.
+osu! a [une équipe de modérateurs](/wiki/People/The_Team/Global_Moderation_Team) qui s'efforcent de garder le jeu et son écosystème propres et sûrs. Si vous constatez un comportement contraire aux règles ou un contenu inapproprié, signalez-le en utilisant l'une des méthodes décrites ci-dessous. Vous pouvez également contacter directement l'un des modérateurs en ligne si votre signalement n'a pas été traité correctement dans un délai raisonnable, mais uniquement en dernier recours.
 
-Les reports accidentels sont ignorés. Les utilisateurs qui envoient délibérément des reports non valides risquent d'être [réduits au silence](/wiki/Silence).
+Les signalements accidentels sont ignorés. Les utilisateurs qui envoient délibérément des reports non valides risquent d'être [réduits au silence](/wiki/Silence).
 
 ## Cas particuliers
 
 | Nature de l'infraction | Point de contact |
 | :-- | :-- |
-| Messages privés offensants | **Aucun** : [ignorez l'utilisateur](/wiki/Chat_Console#la-liste-des-commandes). Pour un effet permanent, utilisez la liste d'ignorés du jeu située dans les [options](/wiki/Options). |
-| Infractions liées au modding et/ou au mapping | NAT, via le site web [NAT/BN Management](https://bn.mappersguild.com/reports) |
+| Messages privés offensants | **Aucun** : [ignorez l'utilisateur](/wiki/Client/Interface/Chat_console#la-liste-des-commandes). Pour un effet permanent, utilisez la liste d'utilisateurs à ignorer du jeu située dans les [options](/wiki/Client/Options). |
+| Infractions liées au modding et/ou au mapping | [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) ou des membres de la [GMT](/wiki/People/The_Team/Global_Moderation_Team) en se concentrant sur la modération de la communauté de mapping/modding, via le site web [NAT/BN Management](https://bn.mappersguild.com/reports) |
 | Comportement inapproprié d'un membre de la [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) ou de la [GMT](/wiki/People/The_Team/Global_Moderation_Team). | L'[équipe de support aux comptes](/wiki/People/The_Team/Account_support_team) à [support@ppy.sh](mailto:support@ppy.sh) |
 | Abus sexuel ou mauvais comportement extrême | Voir [Signaler un abus](/wiki/Reporting_bad_behaviour/Abuse) |
 

@@ -44,7 +44,7 @@ Try [this osu!taiko set](https://osu.ppy.sh/beatmapsets/1402379) hosted by [rubi
 
 [**2ToneDisco**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/157) is where you'll find each of these songs plus a whole bunch more, all available as pre-timed beatmap templates. Crack your mapping knuckles and strike while the iron's hot.
 
-Ever wondered how many beatmaps have been ranked specifically for these Featured Artist announcements? [Niva](https://osu.ppy.sh/users/197805) investigated the last 4 years of Featured Artist news posts and documented each relevant mapset in the [Featured Artist showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps) wiki article. It's a cool demonstration of the effort Mappers' Guild contributors put into these announcements behind the scenes, so check it out if you're at all curious.
+Ever wondered how many beatmaps have been ranked specifically for these Featured Artist announcements? [Niva](https://osu.ppy.sh/users/197805) investigated the last 4 years of Featured Artist news posts and documented each relevant mapset in the [Featured Artist showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) wiki article. It's a cool demonstration of the effort Mappers' Guild contributors put into these announcements behind the scenes, so check it out if you're at all curious.
 
 That's all for now, but we'll be back again on Wednesday with another artist for you to drool over. Watch the [@osugame Twitter](https://twitter.com/osugame) for updates and we'll see you next week!
 

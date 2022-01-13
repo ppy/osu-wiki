@@ -20,7 +20,7 @@ osu! comenzó como una prueba de concepto llamado "ouentest". La primera versió
 
 ![](img/2007-07_04.jpg "Círculos de golpeo")
 
-A finales de Julio, el sistema de menú fue cambiado para añadir un poco de estilo al juego. Se completó una implementación inicial de deslizadores, con una bola deslizante naranja no animada y algunas curvas relativamente feas. La sincronización de ritmo se agregó al editor, como una línea de tiempo y una interfaz de edición más robusta (muy similar a lo que ves en [Compose](/wiki/Beatmap_Editor/Compose) actualmente).
+A finales de Julio, el sistema de menú fue cambiado para añadir un poco de estilo al juego. Se completó una implementación inicial de deslizadores, con una bola deslizante naranja no animada y algunas curvas relativamente feas. La sincronización de ritmo se agregó al editor, como una línea de tiempo y una interfaz de edición más robusta (muy similar a lo que ves en [Compose](/wiki/Client/Beatmap_editor/Compose) actualmente).
 
 ![](img/2007-07_05.jpg "El editor")
 
@@ -77,7 +77,7 @@ La pantalla para seleccionar canciones vio mejoras, con agrupación de dificulta
 
 ![](img/2007-10_03.jpg "Mensaje de error")
 
-La versión 2 de `pUpdater` (`osume`) fue lanzada, soportando la descarga de paquetes opcionales. Esto incluyó hacer que los primeros skins hechos por el usuario estén disponibles para todos los jugadores a través del actualizador. El editor vio la implementación de [ajuste basado en distancia](/wiki/Beatmap_Editor/Distance_Snap), soporte de marcadores, múltiples tipos de curvas para los deslizadores, colores personalizados, juego de prueba, tiempo de entrada, y mucho más.
+La versión 2 de `pUpdater` (`osume`) fue lanzada, soportando la descarga de paquetes opcionales. Esto incluyó hacer que los primeros skins hechos por el usuario estén disponibles para todos los jugadores a través del actualizador. El editor vio la implementación de [ajuste basado en distancia](/wiki/Client/Beatmap_editor/Distance_snap), soporte de marcadores, múltiples tipos de curvas para los deslizadores, colores personalizados, juego de prueba, tiempo de entrada, y mucho más.
 
 ## Noviembre
 

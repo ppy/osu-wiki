@@ -15,7 +15,7 @@ tags:
 
 Hybrid có thể được dùng ở nhiều cách:
 
-- Vài người chơi hybrid bấm [những nốt](/wiki/Hit_object) với việc chuyển đổi giữa hai nút mà học single-tap bằng (`Z` hoặc `X` là mặc định) đều đặn trong suốt một map nào đó. Trong khi có thể alternating trên những [stacks](/wiki/Mapping_Techniques/Stack) khi có thể.
+- Vài người chơi hybrid bấm [những nốt](/wiki/Hit_object) với việc chuyển đổi giữa hai nút mà học single-tap bằng (`Z` hoặc `X` là mặc định) đều đặn trong suốt một map nào đó. Trong khi có thể alternating trên những [stacks](/wiki/Mapping_techniques/Stack) khi có thể.
 - Nhiều người chơi hybrid dùng sự kết hợp giữa cả hai alternating và single-tapping tùy vào tốc độ của map họ chơi: có những tốc độ dễ hơn để single-tap với như được áp dụng cho alternating và nhiều người chơi hybrid cung cấp cho điều đó, nhưng tốc độ ở đây có thể tùy vào nhiều người chơi khác nhau
 - Còn vài người chơi hybrid cũng có dùng sự kết hợp của 3 kiểu chơi [double tapping](/wiki/Play_style/Double_tapping), single-tapping, và alternating có vẻ như ý thích. Và chắc chắn, đây là chỉ tham khảo từ nhiều người chơi
 

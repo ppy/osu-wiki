@@ -24,7 +24,7 @@ tags:
 | 职责 | 成员 |
 | --: | :-- |
 | 项目负责人 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) |
-| 项目管理 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |
+| 项目管理 | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) |
 | 网站管理 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227) |
 
 ## 策展
@@ -33,46 +33,45 @@ tags:
 
 ### osu! 策展人
 
-- ![][flag_US] **[pishifat](https://osu.ppy.sh/users/3178418)**
+- ![][flag_FI] **[Nowaie](https://osu.ppy.sh/users/5428909)**
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- ![][flag_DE] [IceKalt](https://osu.ppy.sh/users/5410645)
-- ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572)
 - ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850)
 - ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
-- ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660)
+- ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943)
 - ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
 - ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332)
-- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
+- ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 
 ### osu!taiko 策展人
 
 - ![][flag_DE] **[OnosakiHito](https://osu.ppy.sh/users/290128)**
 - ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000)
-- ![][flag_JP] [Charlotte](https://osu.ppy.sh/users/3686901)
-- ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851)
+- ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864)
+- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
 - ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
-- ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817)
-- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
+- ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
+- ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
 
 ### osu!catch 策展人
 
-- ![][flag_GB] **[JBHyperion](https://osu.ppy.sh/users/4879508)**
-- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
-- ![][flag_CA] [SadEgg](https://osu.ppy.sh/users/10278243)
+- ![][flag_CA] **[SadEgg](https://osu.ppy.sh/users/10278243)**
+- ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
+- ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276)
 - ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
 - ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### osu!mania 策展人
 
 - ![][flag_GB] **[Hydria](https://osu.ppy.sh/users/808176)**
+- ![][flag_KR] [Aruel](https://osu.ppy.sh/users/3984370)
+- ![][flag_CA] [BringoBrango](https://osu.ppy.sh/users/10274043)
 - ![][flag_AU] [CrumpetFiddler](https://osu.ppy.sh/users/3518705)
+- ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768)
 - ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600)
 - ![][flag_DO] [Kaito-kun](https://osu.ppy.sh/users/4715184)
+- ![][flag_MY] [Kibitz](https://osu.ppy.sh/users/7418493)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
-- ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098)
-- ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767)
 
 ## 赛季
 
@@ -180,21 +179,24 @@ tags:
 
 2020 年八月 ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) 退出了该项目，在 2020 年 11 月底  ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) 也随 Kurokami 辞职。于是 ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) 和 ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) 一起接管了该项目。
 
+[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
+[flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 [flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
 [flag_CN]: /wiki/shared/flag/CN.gif "中国"
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_DO]: /wiki/shared/flag/DO.gif "多米尼加"
-[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
 [flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
 [flag_FR]: /wiki/shared/flag/FR.gif "法国"
 [flag_GB]: /wiki/shared/flag/GB.gif "英国"
 [flag_HK]: /wiki/shared/flag/HK.gif "香港"
 [flag_HU]: /wiki/shared/flag/HU.gif "匈牙利"
 [flag_JP]: /wiki/shared/flag/JP.gif "日本"
+[flag_KR]: /wiki/shared/flag/KR.gif "韩国"
 [flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
+[flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
 [flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
 [flag_PL]: /wiki/shared/flag/PL.gif "波兰"
-[flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
 [flag_TH]: /wiki/shared/flag/TH.gif "泰国"
+[flag_TN]: /wiki/shared/flag/TN.gif "突尼斯"
 [flag_US]: /wiki/shared/flag/US.gif "美国"

@@ -8,13 +8,13 @@ outdated: true
 
 ## osu! Chat
 
-osu! usa o protocolo IRC para o [chat do jogo](/wiki/Chat_Console). Você pode se conectar com um cliente externo e conversar com seus osu!amigos mesmo quando não está jogando. Note que o osu! Bancho usa uma implementação personalizada do protocolo IRC, e não possui todas as funcionalidades conhecidas; Nem todas as ferramentas do seu cliente IRC externo vão funcionar corretamente.
+osu! usa o protocolo IRC para o [chat do jogo](/wiki/Client/Interface/Chat_console). Você pode se conectar com um cliente externo e conversar com seus osu!amigos mesmo quando não está jogando. Note que o osu! Bancho usa uma implementação personalizada do protocolo IRC, e não possui todas as funcionalidades conhecidas; Nem todas as ferramentas do seu cliente IRC externo vão funcionar corretamente.
 
 **Observação: [HexChat](https://hexchat.github.io/) é conhecido por ter problemas com o IRC do osu!** ([histórico de bugs do HexChat's no GitHub](https://github.com/hexchat/hexchat/issues/818)), considere usar outro cliente caso isso te incomode.
 
 ### Como Se Conectar
 
-Uma vez que você instalou um cliente externo você precisa se conectar usando seu nome de usuário do osu! em [cho.ppy.sh](irc://cho.ppy.sh) OU [irc.ppy.sh](irc://irc.ppy.sh) (ambos destinam-se para o mesmo host) na porta **6667** (a porta padrão do IRC).
+Uma vez que você instalou um cliente externo você precisa se conectar usando seu nome de usuário do osu! em `cho.ppy.sh` OU `irc.ppy.sh` (ambos destinam-se para o mesmo host) na porta **6667** (a porta padrão do IRC).
 
 ### Autenticando-se no Bancho
 
@@ -27,7 +27,7 @@ Quando você se conecta ao bancho você recebe uma mensagem assim:
 * - Please click the following link to complete this process: (Clique no link abaixo para completar esse processo)
 ```
 
-Quando você entrar no endereço informado você verá uma tela com a opção "Authorise IRC connection" (Autorizar conexão IRC). Ao simplesmente clicar nesse botão você estará autenticado e será conectado automaticamente em [\#osu](irc://cho.ppy.sh/osu).
+Quando você entrar no endereço informado você verá uma tela com a opção "Authorise IRC connection" (Autorizar conexão IRC). Ao simplesmente clicar nesse botão você estará autenticado e será conectado automaticamente em `#osu`.
 
 Se você não deseja fazer essa autenticação toda vez que se conecta você pode pode incluir o código de autenticação no seu perfil do IRC ou use quando estiver conectando.
 

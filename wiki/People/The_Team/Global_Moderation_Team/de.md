@@ -18,7 +18,7 @@ tags:
 ## Rollen und Verantwortlichkeiten
 
 ***Tipp: Um das Fehlverhalten eines Moderators zu melden, kontaktiere das [Account-Support-Team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
-*Siehe auch: [Melden von schlechtem Verhalten](/wiki/Reporting_Bad_Behaviour)*
+*Siehe auch: [Melden von schlechtem Verhalten](/wiki/Reporting_bad_behaviour)*
 
 Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig und kümmern sich um reibungslose Interaktionen innerhalb der Community. Du solltest dich an sie wenden, wenn du Fragen im Bezug auf die Moderationsaspekte des Spiels hast, das würde auch (aber nicht beschränkt auf) miteinbeziehen:
 
@@ -36,7 +36,7 @@ Der Weg, um ein Mitglied des **Globales Moderationsteam** zu werden, benötigt e
 Die wichtigsten Faktoren für die Entscheidung sind Verhalten, Aktivität, Verständnis [der Regeln](/wiki/Rules) und Geduld:
 
 1. Demonstriere ein gutes Verhalten durch Höflichkeit und das Respektieren anderer. Dein Account frei von jeglichen Stummschaltungen oder Verstößen zu halten, ist essenziell.
-2. Demonstriere Aktivität im Spiel durch die Teilnahme am Chat und/oder in den Foren. [Melde jedes Fehlverhalten](/wiki/Reporting_Bad_Behaviour) und Probleme via dem Meldesystem. Beantworte Fragen und helfe anderen mit Problemen.
+2. Demonstriere Aktivität im Spiel durch die Teilnahme am Chat und/oder in den Foren. [Melde jedes Fehlverhalten](/wiki/Reporting_bad_behaviour) und Probleme via dem Meldesystem. Beantworte Fragen und helfe anderen mit Problemen.
 3. Habe ein grundlegendes Verständnis [der Regeln](/wiki/Rules) und wie diese angewendet werden. Es ist wichtig zu wissen, was akzeptabel innerhalb von osu! ist und was nicht.
 4. Sei geduldig. Das GMT fügt nicht spontan Mitglieder hinzu, die ein paar Tage geholfen haben. Es braucht Zeit für das GMT, um jemanden zu bewerten - seine Persönlichkeit, mit was er helfen kann, seine Aktivität, usw.
 

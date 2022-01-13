@@ -86,9 +86,9 @@ N'ayez pas peur de pratiquer quelque chose qui vous fait toujours rater pour une
 
 *Page principale : [Comment utiliser l'Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
 
-Selon les appareils que vous utilisez pour jouer à osu!, il se peut que les cercles ne soient pas tout à fait en phase avec la musique. Pour corriger cela, vous pouvez modifier la valeur du décalage global dans les [options](/wiki/Options). Le global offset modifie le moment où la première note apparaît sur les beatmaps (plus tôt ou plus tard que la valeur par défaut), ce qui retarde le reste des notes de la même quantité. Une valeur de décalage négative fera apparaître les notes légèrement plus tard, et une valeur positive les fera apparaître plus tôt.
+Selon les appareils que vous utilisez pour jouer à osu!, il se peut que les cercles ne soient pas tout à fait en phase avec la musique. Pour corriger cela, vous pouvez modifier la valeur du décalage global dans les [options](/wiki/Client/Options). Le global offset modifie le moment où la première note apparaît sur les beatmaps (plus tôt ou plus tard que la valeur par défaut), ce qui retarde le reste des notes de la même quantité. Une valeur de décalage négative fera apparaître les notes légèrement plus tard, et une valeur positive les fera apparaître plus tôt.
 
-Dans l'[Offset Wizard](/wiki/Options/Offset_Wizard), auquel vous pouvez accéder à partir des [options](/wiki/Options), une musique sera joué avec un battement d'un métronome sur le dessus. Ajustez le décalage progressivement à l'aide des touches fléchées haut/bas ou de la molette de votre souris jusqu'à ce que les battements du métronome correspondent lorsque les barres traversent la ligne centrale.
+Dans l'[Offset Wizard](/wiki/Client/Options/Offset_Wizard), auquel vous pouvez accéder à partir des [options](/wiki/Client/Options), une musique sera joué avec un battement d'un métronome sur le dessus. Ajustez le décalage progressivement à l'aide des touches fléchées haut/bas ou de la molette de votre souris jusqu'à ce que les battements du métronome correspondent lorsque les barres traversent la ligne centrale.
 
 Lorsque vous jouez une beatmap, vous remarquerez le graphique Hit Error en bas de l'écran. En frappant une note, une ligne blanche apparaît quelque part le long de celle-ci, en fonction de votre précision. Si toutes vos frappes se trouvent à gauche du centre, essayez d'augmenter légèrement votre global offset. S'ils sont tous à droite, essayez de le diminuer.
 
@@ -96,7 +96,7 @@ Ajustez votre global offset jusqu'à ce que vous en soyez satisfait. L'obtention
 
 ### Entrée brute
 
-*Voir également : [Options](/wiki/Options#pointage)*
+*Voir également : [Options](/wiki/Client/Options#pointage)*
 
 Une caractéristique souvent négligée du jeu est la fonction d'entrée brute. Elle permet la lecture directe de votre périphérique d'entrée dans osu! lui-même. Vous pouvez également l'utiliser si vous n'aimez pas la façon dont Windows gère le curseur de votre souris, ou particulièrement recommandé si vous utilisez une tablette. Essayez-la et jouez quelques maps avec elle, vous pourriez vous sentir beaucoup plus à l'aise avec elle !
 

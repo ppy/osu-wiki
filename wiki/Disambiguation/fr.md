@@ -19,5 +19,6 @@ Un article ordinaire, s'il a un titre similaire, doit utiliser la hatnote ["Pour
 - [Ouendan](Ouendan)
 - [Rank](Rank)
 - [Score](Score)
+- [Snapping](Snapping)
 - [Star](Star)
 - [Version](Version)
