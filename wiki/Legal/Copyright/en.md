@@ -6,7 +6,7 @@ legal: true
 
 osu! is a heavily community-oriented game. All game levels (beatmaps) are created and uploaded by community members, often without correctly obtaining permission from relevant copyright holders. We go out of our way to not advertise or profit directly from uploaded content, and the game is funded entirely by user donations.
 
-A large portion of the donations we receive are used to reinvest in [music licensing](/wiki/Legal/Music_Licensing). Licensing enquiries may be sent to [music@ppy.sh](mailto:music@ppy.sh).
+A large portion of the donations we receive are used to reinvest in [music licensing](/wiki/Legal/Music_licensing). Licensing enquiries may be sent to [music@ppy.sh](mailto:music@ppy.sh).
 
 Failing that, osu! has adopted the following policy concerning copyright infringement in accordance with the Digital Millennium Copyright Act, 17 U.S.C. 512.
 
