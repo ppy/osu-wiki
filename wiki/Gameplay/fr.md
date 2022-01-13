@@ -2,6 +2,7 @@
 
 - [Précision](/wiki/Gameplay/Accuracy)
 - [Combo (multiplicateur de score)](/wiki/Gameplay/Combo_(score_multiplier))
+- [Dash snapping](/wiki/Gameplay/Dash_snapping)
 - [Longueur de drain](/wiki/Gameplay/Drain_time)
 - [Fingerlock](/wiki/Gameplay/Fingerlock)
 - [Grade](/wiki/Gameplay/Grade)

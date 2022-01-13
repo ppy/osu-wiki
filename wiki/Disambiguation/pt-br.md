@@ -23,5 +23,6 @@ Artigos que discutem tópicos com títulos similares, devem usar a [*hatnote* "P
 - [osu!](osu!)
 - [Rank](Rank)
 - [Score](Score)
+- [Snapping](Snapping)
 - [Star](Star)
 - [Versão](Version)

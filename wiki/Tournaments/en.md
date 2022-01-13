@@ -201,7 +201,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu! Asia Oceania Tournament](o!AOT/1) | 2019-07-26 | 2019-09-22 | 進撃のバブルティー | 黃建智 | 과로사 |
 | [osu! Asia Oceania Tournament 2](o!AOT/2) | 2020-07-03 | 2020-08-16 | Floating up | PUPU | :peepolaughpoint: |
 
-### osu! Battle Archive Malaysia
+#### osu! Battle Archive Malaysia
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
