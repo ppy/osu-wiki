@@ -12,7 +12,7 @@ Six months ago, the osu!team released a [public survey](https://osu.ppy.sh/home/
 
 For the reasons above, we are now opening surveys for the **osu!taiko** and **osu!mania** game modes.
 
-The link to the survey will require you to authenticate your osu! profile — please do not change any of the pre-populated fields on the first page of the survey, otherwise your response may not be recorded.
+The link to the survey will require you to authenticate your osu! profile — please do not change any of the pre-populated fields on the first page of the survey, otherwise your response may not be recorded. **As long as those fields have the proper information in them, you can proceed onwards and start answering questions.**
 
 - [**osu!taiko survey**](https://form-auth.ppy.sh/form/2022-taiko-pp-sr-survey)
 - [**osu!mania survey**](https://form-auth.ppy.sh/form/2022-mania-pp-sr-survey)
