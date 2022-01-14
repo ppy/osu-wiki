@@ -4,7 +4,7 @@ title: "osu!taiko and osu!mania Performance Points & Star Rating Survey"
 date: 2022-01-14 17:00:00 +0000
 ---
 
-A call to arms for players from the osu!taiko and osu!mania game modes! We want your feedback on the way performance points and star rating development should proceed - read on to get involved!
+A call to arms for players from the osu!taiko and osu!mania game modes! We want your feedback on the way performance points and star rating development should proceed — read on to get involved!
 
 ![](/wiki/shared/news/2022-01-14-taiko-mania-pp-sr-survey/star-rating.jpg)
 
@@ -12,15 +12,15 @@ Six months ago, the osu!team released a [public survey](https://osu.ppy.sh/home/
 
 For the reasons above, we are now opening surveys for the **osu!taiko** and **osu!mania** game modes.
 
-The link to the survey will require you to authenticate your osu! profile - please do not change any of the pre-populated fields on the first page of the survey, otherwise your response may not be recorded.
+The link to the survey will require you to authenticate your osu! profile — please do not change any of the pre-populated fields on the first page of the survey, otherwise your response may not be recorded.
 
-* [**Please click this link to access the osu!taiko survey!**](https://form-auth.ppy.sh/form/2022-taiko-pp-sr-survey)
-* [**Please click this link to access the osu!mania survey!**](https://form-auth.ppy.sh/form/2022-mania-pp-sr-survey)
+- [**osu!taiko survey**](https://form-auth.ppy.sh/form/2022-taiko-pp-sr-survey)
+- [**osu!mania survey**](https://form-auth.ppy.sh/form/2022-mania-pp-sr-survey)
 
 Each survey should take no more than 5 minutes to complete, so make sure to pass the news along to any of your friends that might be interested! Your opinion is extremely valuable to us.
 
 For those who wish to become more involved, development of osu!'s difficulty systems is centralised on the [osu!dev Discord](https://discord.gg/ppy), with discussions taking place both on [GitHub](https://github.com/ppy/osu-performance) and in the respective `#difficulty` channels for each game mode.
 
-We'll be making the results of this poll visible in **2 weeks time** so that everybody can get a feel for where their fellow manic drummer stands.
+We'll be making the results of this poll visible in **2 weeks' time** so that everybody can get a feel for where their fellow manic drummers stand.
 
 —osu!team
