@@ -50,6 +50,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1482564)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/76) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTU6E9UIC-w-fQ72ExX-LCpX1k_GvTIg2R28fWhEdx9iKwhYdQkW2JCzLoZiW9XjOfih_k-ap2KJe7R/pubhtml)
 
 ## Participants
 
@@ -83,7 +84,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | ![][flag_RO] | **Romania** | **[robby250](https://osu.ppy.sh/users/2653437)**, [AlexPlayz OSU](https://osu.ppy.sh/users/18341280), [fakebrin](https://osu.ppy.sh/users/8185118) |
 | ![][flag_RU] | **Russian Federation** | **[Mage](https://osu.ppy.sh/users/5527957)**, [Legend27](https://osu.ppy.sh/users/6283029), [karayss](https://osu.ppy.sh/users/7156634), [Illumnus](https://osu.ppy.sh/users/9504954) |
 | ![][flag_SG] | **Singapore** | **[DarryllV](https://osu.ppy.sh/users/11759693)**, [awdse22](https://osu.ppy.sh/users/8743513), [ByeForNow](https://osu.ppy.sh/users/7199159), [Paralit](https://osu.ppy.sh/users/876528) |
-| ![][flag_KR] | **South Korea** | **[Estonians](https://osu.ppy.sh/users/7014697)**, [yz1155](https://osu.ppy.sh/users/2071008), [dressurf](https://osu.ppy.sh/users/758406), [133](https://osu.ppy.sh/users/12346181) |
+| ![][flag_KR] | **South Korea** | **[Estonians](https://osu.ppy.sh/users/7014697)**, [yz1155](https://osu.ppy.sh/users/2071008), [dressurf](https://osu.ppy.sh/users/758406), [0133](https://osu.ppy.sh/users/12346181) |
 | ![][flag_ES] | **Spain** | **[aitor98](https://osu.ppy.sh/users/3154852)**, [CrewK fanboy](https://osu.ppy.sh/users/7860283), [Notpx-](https://osu.ppy.sh/users/8519296), [Quenlla](https://osu.ppy.sh/users/4725379) |
 | ![][flag_SE] | **Sweden** | **[Sadcat](https://osu.ppy.sh/users/4123399)**, [Craty](https://osu.ppy.sh/users/3918056), [Vortex-](https://osu.ppy.sh/users/4999669) |
 | ![][flag_CH] | **Switzerland** | **[Akayro](https://osu.ppy.sh/users/2573716)**, [Gamer97](https://osu.ppy.sh/users/4952941) |
@@ -91,6 +92,21 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | ![][flag_TH] | **Thailand** | **[LostCool](https://osu.ppy.sh/users/766374)**, [Myzki](https://osu.ppy.sh/users/3221985), [harlemshake555](https://osu.ppy.sh/users/7355319), [PanicP](https://osu.ppy.sh/users/561493) |
 | ![][flag_GB] | **United Kingdom** | **[Vygatron](https://osu.ppy.sh/users/3628783)**, [username1947](https://osu.ppy.sh/users/16162078), [Lelloq](https://osu.ppy.sh/users/8610776), [aid\_](https://osu.ppy.sh/users/12808079) |
 | ![][flag_US] | **United States** | **[Alter-](https://osu.ppy.sh/users/4980256)**, [Terni](https://osu.ppy.sh/users/3279570), [\[GS\]Teo](https://osu.ppy.sh/users/7081478), [RevVoJH](https://osu.ppy.sh/users/7286896) |
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (60 MB)](https://drive.google.com/uc?id=11kEZFgZe1k76BG6yRqiuSFwyFa4dxP4C&export=download)**
+
+1. [Machinedrum - Mltply (Cut Ver.) (lenpai) \[Stage 1: Dplct\]](https://osu.ppy.sh/beatmapsets/1670396#mania/3411673)
+2. [Fudanshi Crisis - Scarlet Tempest (guden) \[Stage 2: Vermilion\]](https://osu.ppy.sh/beatmapsets/1670391#mania/3411668)
+3. [Akatsuki Records - HANIPAGANDA (Garalulu) \[Stage 3: Stacked\]](https://osu.ppy.sh/beatmapsets/1670404#mania/3411686)
+4. [3R2 - Farewell (MapleSyrup-) \[Stage 4: Recital\]](https://osu.ppy.sh/beatmapsets/1670394#mania/3411671)
+5. [LeaF - Arianrhod (\_underjoy) \[Stage 5: Chronostasis\]](https://osu.ppy.sh/beatmapsets/1670403#mania/3411684)
+6. [Getty - Sonic Bass (Remuring) \[Stage 6: Pressure\]](https://osu.ppy.sh/beatmapsets/1670398#mania/3411677)
+7. [Feryquitous - THE SEVENS CODE (\_Kobii) \[Stage 7: Secrecy\]](https://osu.ppy.sh/beatmapsets/1670393#mania/3411670)
+8. [technoplanet - Intuition (Evening) \[Stage 8: Advent of Colour\]](https://osu.ppy.sh/beatmapsets/1670397#mania/3411676)
 
 ## Ruleset
 

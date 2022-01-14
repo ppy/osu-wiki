@@ -2,12 +2,11 @@
 tags:
   - development
   - développement
-no_native_review: true
 ---
 
 # Serveur Discord osu!dev
 
-**osu!dev** est le serveur [Discord](https://discordapp.com) officiel pour travailler sur les projets open-source et communautaires relatifs à osu!. C'est le lieu principal pour contribuer au développement d'osu! et entrer en contact avec [le staff d'osu!](/wiki/People/The_Team).
+**osu!dev** est le serveur [Discord](https://discordapp.com) officiel pour travailler sur les projets open-source et communautaires relatifs à osu!. C'est le lieu principal pour contribuer au développement d'osu! et entrer en contact avec [l'équipe d'osu!](/wiki/People/The_Team).
 
 Le lien d'invitation permanent est <https://discord.gg/ppy>.
 
@@ -31,7 +30,7 @@ Chaque partie du développement possède son propre canal de discussion :
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
 | [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
-| [Official tournament support](/wiki/Tournaments/Official_support) | `#tournaments` |
+| [Support officiel des tournois](/wiki/Tournaments/Official_support) | `#tournaments` |
 | [osu! community meetings](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
 | Discussions sur le [Modding](/wiki/Modding)/[Réunions de la NAT](/wiki/Modding/NAT_meetings) | `#modding` |
 | [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |

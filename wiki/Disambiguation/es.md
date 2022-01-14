@@ -23,5 +23,6 @@ Un articulo regular, si tiene un titulo similar, tiene que usar la [nota "Para o
 - [Ouendan](Ouendan)
 - [Rank](Rank)
 - [Score](Score)
+- [Snapping](Snapping)
 - [Star](Star)
 - [Version](Version)

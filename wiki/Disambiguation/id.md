@@ -19,5 +19,6 @@ Apabila suatu artikel memiliki judul yang serupa dengan artikel lainnya, artikel
 - [Ouendan](Ouendan)
 - [Rank](Rank)
 - [Skor](Score)
+- [Snapping](Snapping)
 - [Star](Star)
 - [Versi](Version)

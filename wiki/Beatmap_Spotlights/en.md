@@ -22,7 +22,7 @@ The Beatmap Spotlights project is run by various community members across all ga
 | Role | Members |
 | :-- | :-- |
 | Project lead | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) |
-| Project manager | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |
+| Project manager | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) |
 | Website manager | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227) |
 
 ## Curators
@@ -31,17 +31,14 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 
 ### osu! curators
 
-- ![][flag_US] **[pishifat](https://osu.ppy.sh/users/3178418)**
+- ![][flag_FI] **[Nowaie](https://osu.ppy.sh/users/5428909)**
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
-- ![][flag_DE] [IceKalt](https://osu.ppy.sh/users/5410645)
 - ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850)
 - ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
 - ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943)
 - ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
 - ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421)
 - ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 
 ### osu!taiko curators
@@ -49,28 +46,30 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 - ![][flag_DE] **[OnosakiHito](https://osu.ppy.sh/users/290128)**
 - ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000)
 - ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864)
-- ![][flag_JP] [Charlotte](https://osu.ppy.sh/users/3686901)
+- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
 - ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+- ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
 
 ### osu!catch curators
 
 - ![][flag_CA] **[SadEgg](https://osu.ppy.sh/users/10278243)**
-- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
+- ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
+- ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276)
 - ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
-- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### osu!mania curators
 
 - ![][flag_GB] **[Hydria](https://osu.ppy.sh/users/808176)**
+- ![][flag_KR] [Aruel](https://osu.ppy.sh/users/3984370)
 - ![][flag_CA] [BringoBrango](https://osu.ppy.sh/users/10274043)
 - ![][flag_AU] [CrumpetFiddler](https://osu.ppy.sh/users/3518705)
-- ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370)
+- ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768)
 - ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600)
 - ![][flag_DO] [Kaito-kun](https://osu.ppy.sh/users/4715184)
+- ![][flag_MY] [Kibitz](https://osu.ppy.sh/users/7418493)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
-- ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767)
 
 ## Spotlights seasons
 
@@ -187,7 +186,6 @@ In August 2020, ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) stepped
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
@@ -196,9 +194,9 @@ In August 2020, ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) stepped
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
