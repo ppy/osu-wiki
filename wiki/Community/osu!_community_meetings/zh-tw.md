@@ -40,7 +40,7 @@ no_native_review: true
 | 1 | [2021 年 10 月 3 號](https://youtu.be/D3OZCm6szVE) | [筆記](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | 各類由社群提出的問題、開發最新進度 |
 | 2 | [2021 年 10 月 17 號](https://youtu.be/nLT-fLeogrw) | [筆記](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | 各類由社群提出的問題 |
 | 3 | [2021 年 10 月 31 號](https://youtu.be/omvZbC7zJUI) | [筆記](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | 各類由社群提出的問題 |
-| 4 | [2021 年 11 月 14 號](https://youtu.be/rEWgTY-L95Y) | [筆記](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) | 各類由社群提出的問題、開發最新進度 |
+| 4 | [2021 年 11 月 14 號](https://youtu.be/rEWgTY-L95Y) | [筆記](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) | pp 開發過程、各類由社群提出的問題、開發最新進度 |
 | 5 | [2021 年 11 月 28 號](https://youtu.be/SqMrY26Q6Tw) | [筆記](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) | 各類由社群提出的問題、開發最新進度 |
 | 6 | [2021 年 12 月 11 號](https://youtu.be/dtGjIyTFtMA) | [筆記](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) | osu! 世界盃的未來、各類由社群提出的問題 |
 | 7 | [2021 年 12 月 18 號](https://youtu.be/v-LgY3UKhkg) | [筆記](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) | peppy 對社群中發生的各種爭議及戲劇性事件的回應 |
