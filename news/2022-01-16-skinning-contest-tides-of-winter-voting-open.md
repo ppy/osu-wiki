@@ -6,7 +6,7 @@ date: 2022-01-16 12:00:00 +0000
 
 Just as the Winter tides arrive at our doorsteps, we've got the *coolest* skins of all time packed with ice cubes inside a deep frost. Here, come inside and see what's going on!
 
-![](/wiki/shared/news/2022-01-15-skinning-contest-tides-of-winter-voting-open/banner.jpg)
+![](/wiki/shared/news/2022-01-16-skinning-contest-tides-of-winter-voting-open/banner.jpg)
 
 There are a total of **17 freezing entries** delicately crafted by **17 skinners extraordinaire** among yours truly. While they have put forward their best craftsmanship, the task of choosing the coldest falls into your hands! Before casting your votes, be sure to check them all out by yourself in order to appreciate the effort put into them to the fullest.
 
