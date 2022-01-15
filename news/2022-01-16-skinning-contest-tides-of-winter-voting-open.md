@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skinning Contest: Tides of Winter - Voting Open"
-date: 2022-01-16 08:00:00 +0000
+date: 2022-01-16 12:00:00 +0000
 ---
 
 Just as the Winter tides arrives at our doorsteps, we've got the *coolest* skins of all time packed with ice cubes inside a deepfrost. Here, come inside and see what's going on!
