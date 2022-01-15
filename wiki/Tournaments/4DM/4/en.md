@@ -29,13 +29,13 @@ The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based
 | Grand Finals | 2022-02-19/2022-02-20 | 
 
 ## Prizes
-<!-- 
+
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 6 months of osu!supporter for each team member |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter for each team member |
-| *4th-8th place* | 1 month of osu!supporter for each team member | -->
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, $35 for each team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $20 for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $10 for each team member |
+| *4th-8th place* | 1 month of osu!supporter for each team member |
 
 <!-- ![](img/badge.jpg "4DM3 winner badge") -->
 <!-- 
@@ -49,14 +49,9 @@ The 4 Digit osu!mania World Cup 4 was run by various community members.
 | :-- | :-- |
 | Organizer | ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061) |
 | Mappool selector | ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190), ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142) |
-<!-- | Mappool helper | arccat, ERA Leon, HowToPlayLN, juankristal, Kiraz, Komirin, Lerck, Logan636, Penguinosity, Polytetral, RuleBlazing, Urusai, yetii, Yuragi, zero2snow |
-| Consultant | Logan636 |
-| Referee | Albionthegreat, AlexDunk, Chimchar, Doelon, ERA Leon, Fenestrox, Kiraz, Kyonkichi, Lerck, Logg45vs, Mortelspawn_, richp2k, Sinsa92, StartAndSelect, Silhoueska Elze, SunApple, SurfChu85, -mint- |
-| Streamer | Albionthegreat, Bexi, Camopoltergeist, Lenn, Mortelspawn, Myuka, NightNarumi, RhymesWithMash, Trymatic |
-| Commentator | AdamAckerville, Albionthegreat, Antunder, Cryolien, dhlee727, Halo, H1Pur, juankristal, Orca-, Doelon, Fenestrox, -mint-, Paturages, Raveille, richp2k, Sinsa, spamblock, Steeeven, SunApple, Yuragi |
-| Designer |  |
-| Statistician |  |
-| Wiki editor | Albionthegreat, chxu | -->
+| Designer | ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), [][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061) |
+| Statistician | ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595) |
+| Wiki editor | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190) |
 
 ## Links
 
@@ -134,89 +129,73 @@ Sunday, 16 January 2022:
 
 ## Ruleset
 
-### General rules
+4DM4 will attempt to closely follow the rules of the most recent 4k osu!mania World Cup whose wiki page is hyperlinked [here](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2021_4K).
 
-1. This tournament uses double-elimination bracket and a three-on-three format.
-2. The country whose team they will play for is determined by the country whose flag is represented based on their osu! profile.
-3. At the end of the registration and screening phases, a team captain will be picked by the hosts from each country's signup list based on a number of aspects relating to tournament competency.
-4. This team captain will pick the members to play alongside them on their country's team.
-5. Teams will consist of a minimum of 3 members, and a maximum of 6 members per team.
+### Team formation
 
-### Rank restrictions
+**The country whose team you will play for is determined by the country whose flag is represented on your osu! profile.**
 
-1. Player must be within the global osu!mania rank range of #1,000 - #9,999 both when they submit their registration form and until teams are selected/announced.
-2. Player must have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.
+- A team captain will be picked by the hosts from each country's signup list based on a number of aspects, this decision is discrete and final.
+- This team captain will pick the members to play alongside them on their country's team. Team captains have full control over how they would like to pick their country's team, this can include holding tryouts, interviews, or just simply picking from the list of signups with no other input.
+- Teams will consist of a minimum of 3 members, and a maximum of 6 members per team.
 
-### Stage regulations
-<!-- 
-#### Qualifiers
+### Qualifiers
 
-1. After teams are selected, the first weekend of tournament play will be the Qualifier Stage in order to cut down to a pre-decided number of teams to advance into the following stage, as well as to determine teams’ seeding. There will be a total of five different qualifier maps, each meant to test a different skillset found in map pools throughout the tournament. Each of these maps will be made by the map selectors and not released until approximately one week before the Qualifier Stage takes place in order to provide no advantage through familiarity.
-2. For the Qualifier Stage, each team will play these five maps in a scheduled lobby. Teams will present 3 players to play each map (switching which 3 play between maps is allowed), and will play each of the five qualifier maps up to two times in the lobby. Whichever team score was the highest per stage will be recorded. (e.g. if a team scores 975000, 975000, 980000 on one go and then 980000, 985000, 970000 on the next go, the 2nd go will be the one recorded because the total team score was higher on the second go.)
-3. Teams will be ranked on their qualifier performances based on their “score rating”, meaning essentially how well they rank on each qualifier stage compared to every other team. The amount of teams who will advance from qualifiers into the following stage is determined by this logic:
-   - If 32 or a greater number of teams enter, the 32 best-performing teams will advance into a Group Stage consisting of 8 groups of 4 differently seeded players.
-   - If between 24 and 31 teams enter, the 24 best-performing teams will advance into a Group Stage consisting of 8 groups of 3 differently seeded players.
-   - If between 20 and 23 teams enter, the 20 best-performing teams will advance into a Group Stage consisting of 4 groups of 5 differently seeded players.
-   - If fewer than 20 teams enter, the number of teams that will advance is the highest power of 2 that is fewer than the number of entering teams (For example, if 19 teams enter, then 16 teams will advance. If 15 teams enter, then 8 teams will advance.) In this case, Group Stage will not occur and players will advance directly into the bracket stages.
-4. The results of the Qualifier Stage will also be used to determine the “seed” of each team. However, this concept will be explained in the Group Stage category below, as seeding is very pertinent in how the Group Stage works.
+After teams are selected, the first weekend of tournament play will be the Qualifier Stage in order to cut down to a pre-decided number of teams to advance into the following stage, as well as to determine each team's "seed" (More about team "seeds" will be discussed later). There will be a total of five different qualifier maps, each meant to test a different skillset found in map pools throughout the tournament. The qualifier maps will follow this structure:
 
-#### Group stage
+- **Stage 1: SV**
+- **Stage 2: Consistency**
+- **Stage 3: LN**
+- **Stage 4: Jumpstream/Speed**
+- **Stage 5: Tech/Hybrid**
 
-1. Based on the results of the Qualifier Stage, teams will be given a qualifier rank based off of their “score rating”, essentially meaning how well each team ranks on each qualifier stage compared to every other team. Teams, based off of this aforementioned rank, will be given a “seed”, meaning be classified into a certain ranking range with other teams around their qualifier rank in an attempt to generalize each teams’ overall comparative skill level with their “seed”. As the exact number of entering teams cannot be known yet, there are several possibilities for the ranking ranges used in determining each seed, so all possibilities will be listed below.
-2. If 32 teams remain after qualifiers, there will be 4 different seeds, and seeding will be decided as such:
-   - Top Seed: Qualifier Rank #1 - #8
-   - High Seed: Qualifier Rank #9 - #16
-   - Low Seed: Qualifier Rank #17 - #24
-   - Bottom Seed: Qualifier Rank #25 - #32
-3. If 24 teams remain after qualifiers, there will be 3 different seeds, and seeding will be decided as such:
-   - High Seed: Qualifier Rank #1-8
-   - Mid Seed: Qualifier Rank #9-16
-   - Low Seed: Qualifier Rank #17-24
-4. If 20 teams remain after qualifiers, there will be 5 different seeds, and seeding will be decided as such:
-   - Top Seed: Qualifier Rank #1-4
-   - High Seed: Qualifier Rank #5-8
-   - Mid Seed: Qualifier Rank #9-12
-   - Low Seed: Qualifier Rank #13-16
-   - Bottom Seed: Qualifier Rank #17-20
-5. In Group Stage, there will be multiple “groups” formed from a single player of each seed (The number of different groups will be the number of remaining teams after qualifiers divided by the number of different existing seeds). Teams will be scheduled to face every other member of their group in a Best-of-7 match (first to 4 points wins) on a mappool containing 9 FreeMod maps and 1 tiebreaker map. This mappool will be released approximately one week before Group Stage matches are played. The two (four if the 4-group, 5-seed version of group stage is played) highest-ranking teams of each group will advance.
-6. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-   - Most matches won.
-   - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
-   - Most beatmaps won.
-   - Winner of the match played previously between the tied teams.
-7. In the event of a triple tie:
-   - Have higher `∑{(total score difference) / (maximum score)}`.
-   - Winner of the rematch.
+For the Qualifier Stage, each team will play these five maps in a scheduled lobby. Teams will present three players to play each map (switching which three play between maps is allowed), and will play each of the five qualifier maps up to two times in the lobby. Whichever team score was the highest per stage will be recorded. (For example, if a team scores 975000, 975000, 980000 on one round and then 980000, 985000, 970000 on the next round, the 2nd round will be the one recorded because the total team score was higher on the second round.)
 
-#### Bracket stages
+Teams will be ranked based on the “score rating” of their qualifier performances, meaning that each teams' performance on each of the five qualifier maps will be ranked compared to every other team and the ranks that each team achieves on these five maps will then be added up. The teams will then be sorted based on their "score rating" from lowest to highest, with lower score ratings being ranked better than higher score ratings. Essentially, a team's qualifier performance is ranked based on how well they perform compared to every other participating team.
 
-1. After the Group Stage, the remaining teams will be placed into a double-elimination bracket. Assuming the Group Stage occurs, bracket placements will be calculated by a formula which is directly based on performance in the Group Stage as well as the Qualifiers and considers the following factors in priority from top to bottom:
-   - Standing position out of Group \[# in Group\]
-   - Matches won in Group Stage \[MW\]
-   - Map Win:Loss ratio in Group Stage \[W:L\]
-   - Qualifiers seed \[Qualifier seed\]
-2. The formula works as such (it will be slightly altered if 4-group, 5-seed version of group stage is played): `(2 - [# in Group]) + [MW] * 0.1 + [W:L] * 0.001 + (32 - [Qualifier seed]) * 0.00001`
-3. For each team, a number will be calculated by this formula. These numbers will then be ranked from lowest to highest, with the 1st ranked team facing the 16th ranked team, 2nd facing 15th, and so on.
-4. The number of points needed to win each match as well as the size of the map pool used for the match will vary depending on stage. Map pools will be released approximately one week prior to their respective stages.
-   - Quarterfinals: Best-of-9, first to 5 points wins. Mappool containing 11 FreeMod maps and 1 tiebreaker map.
-   - Semifinals: Best-of-11, first to 6 points wins. Mappool containing 13 FreeMod maps and 1 tiebreaker map.
-   - Finals: Best-of-11, first to 6 points wins. Mappool containing 13 FreeMod maps and 1 tiebreaker map.
-   - Grand Finals: Best-of-13, first to 7 points wins. Mappool containing 15 FreeMod maps and 1 tiebreaker map.
+The results of the Qualifier Stage will also be used to determine the “seed” of each team.
 
 ### Match procedures
 
-1. Team captains will be invited to their match lobby by a referee no less than 5 minutes before the match is scheduled to commence. In the time before the match, team captains will invite and gather their teams into the lobby.
-2. When both team members have 3 members present in the lobby, the match will commence by each team selecting a warmup map to play. This map must be an osu!mania 4k map and be less than 5 minutes long.
-3. After warmups, both team captains will `!roll` in the lobby chat. The captain with the lower of the two rolls will choose a map in the FreeMod pool to ban from play, then the captain with the higher roll will choose a map in the FreeMod pool to ban from play, as well as their first pick to play from the FreeMod pool.
-4. After each map concludes, the team with the highest team score on the map will be awarded one point.
-5. Picks will alternate between team captains until a winner is decided by being the first to get the required amount of points to win that round.
-6. If both teams tie at match point, the tiebreaker map will be played, the team who wins the tiebreaker map will win the game.
-7. Matches will be played with the TeamVS mode on **Score V2**.
-8. The Red Team will occupy slots 1 - 3, and the Blue Team will occupy slots 4 - 6.
-9. Allowed mods in the FreeMod pool are Hidden, FadeIn, Flashlight, and Mirror. The tiebreaker map is also played under FreeMod conditions.
-10. If a player disconnects during a match, their score is counted as a failed score. However, if this disconnect happens before 30 seconds of the map is played, the referee can decide to let the teams rematch.
-11. If a team cannot gather 3 members into the match lobby by 10 minutes after the match’s scheduled start time, the opposing team will be declared a win by default. If neither team can gather 3 members into the match lobby by 10 minutes after the match’s scheduled start time, the team with the higher seed out of qualifiers will be declared a win by default.
-12. For any additional rules left out of this forum, please refer to the [official rules of the latest 4K osu!mania world cup](/wiki/Tournaments/MWC/2019_4K#ruleset), as these rules will be what 4DM3 will attempt to closely follow. -->
+After Qualifiers are over and every team has either gotten a seed or not qualified, the bracket will then begin. 4DM4 will use a standard Double Elimination bracket where the top seeded team will face the bottom seeded team, second highest will face second lowest, so on and so forth. Each team must lose two different matches to be eliminated from the tournament, this means that every team will get the chance to at least play two separate pools.
+
+**Matches will be played with the following rules:**
+
+- Team captains will be notified of their match via ping on discord by the referee of their match 30 minutes before the match is scheduled to commence. At this time, team captains shall give the link of one map they wish to play as warmup to the referee of their match. This map must be an osu!mania 4k map and must be no longer than 5 minutes. Referees may refuse a teams warmup and demand another one from the team captain if the map does not meet these guidelines or is found to be offensive. Failure to provide a warmup to the referee at this time may result in this team skipping their warmup map.
+- Team captains will be invited to their match lobby by a referee no less than 5 minutes before the match is scheduled to commence. In the time before the match, team captains will invite and gather their teams into the lobby.
+- When both team members have 3 members present in the lobby, the match will commence by each team playing their selected warmup map. 
+- After warmups, both team captains will !roll in the lobby chat. The captain with the lower of the two rolls will choose a map in the freemod pool to ban from play, then the captain with the higher roll will choose a map in the freemod pool to ban from play, as well as their first pick to play from the freemod pool.
+- Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.
+- Each team will receive one "tactical timeout" of two minutes, to be used as extra time to pick or ban a beatmap. The tactical timeout may only be used by the team who has to pick and can also be used when getting ready.
+- If a tiebreaker gets played, both teams may use their tactical timeout, but only one timeout can be given.
+- After each map concludes, the team with the highest team score on the map will be awarded one point. Picks will alternate between team captains until a winner is decided by being the first to get the required amount of points to win that round.
+- If both teams tie at match point, the tiebreaker map will be played, the team who wins the tiebreaker map will win the match.
+
+### Additional Rules
+
+The tournament hosts are responsible for scheduling all matches and informing players of when they are scheduled to play. If a team is unhappy with when they are scheduled by the hosts to play, they have the option to reschedule their match as late as the end of Thursday of the week before the weekend of their match. Instructions on how to do so will be provided in the discord server.
+
+Please note that while the organizers will try to schedule all matches for the best possible time for both teams, timezone conflicts may make some matches be forced to occur in the early mornings or late nights.
+
+- If no referee is available to referee a match, the match shall be delayed.
+- If no streamers are available to broadcast the match, the match will still happen without being broadcasted.
+- If no commentators are available to commentate the match but broadcasters are available to broadcast the match, the match will still be broadcasted but without commentary.
+
+Please note that while we will try to broadcast every match, we may be unable to due to overlapping matches and/or lack of streamer availability. Rescheduled matches will be prioritized under non-rescheduled matches in terms of being broadcasted.
+
+Each respective stage of the tournament is to be completed in a single weekend, using the same map pool for the entire weekend. Weekday matches are allowed if both team captains agree to them and they take place before the weekend of that scheduled stage. As aforementioned, map pools will be released roughly a week before the stage they are to be played on. The latest a map in a released map pool may be slightly updated (for example, as to fixing a notable timing or snapping issue) is by 23:59UTC of the Monday after the map pool is released.
+
+Tournament hosts have the right to revoke any signed player’s eligibility to participate in the tournament due to an obvious excess of skill compared to the tournament’s target demographic, or due to blacklist-worthy community offenses that may not see them screened out of the tournament in the Screening Phase.
+Please note that tournament hosts will only enact restrictions of this caliber in the most extreme of scenarios for reasons seen as precautionary protection of the tournament’s fairness to its players, as the hosts acknowledge that the reasons for doing this are inherently very subjective and broad.
+
+Repeated and excessive toxic behavior toward any staff member, player, or spectator either in match multiplayer chatroom, the official discord server, or the official twitch channel chatroom is strictly prohibited and will lead to, in successive order with host’s discretion to skip certain steps:
+
+1. <span style="color:green">Casual, undocumented warning</span>
+2. <span style="color:yellow">Formal, documented warning</span>
+3. <span style="color:orange">Timeout of player wherever necessary for a subjective amount of time (Players on timeout during tournament match will be disallowed to play during their match and must be swapped out for other players)</span>
+4. <span style="color:red">Official ban from the tournament as well as a ban from the official discord server and twitch channel</span>
+
+If one player on a team has their account restricted while still participating in the tournament for reasons of believed cheating, multiaccounting, or anything else, this player's entire team shall be disqualified from the tournament with no exceptions. Depending on the case, the team most recently defeated in a match by the newly disqualified team may be allowed to advance in this disqualified team's place. If this happens, the result of this former match will be voided.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
