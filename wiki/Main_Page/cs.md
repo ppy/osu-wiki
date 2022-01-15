@@ -77,7 +77,7 @@ Přečtěte si o postupech a předpisech, které udržují osu! a její komunitu
 
 Mediální předpisy: [Pokyny k použití médií](/wiki/Rules/Content_Usage_Guidelines) • [Explicitní obsah](/wiki/Rules/Explicit_Content) • [Pravidla obsahu písní](/wiki/Rules/Song_Content_Rules) • [Aspekty vizuálního obsahu](/wiki/Rules/Visual_Content_Considerations)
 
-[Právní stránky](/wiki/Legal): [Podmínky služby](/wiki/Legal/Terms) • [Soukromí](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Licencování hudby](/wiki/Legal/Music_Licensing)
+[Právní stránky](/wiki/Legal): [Podmínky služby](/wiki/Legal/Terms) • [Soukromí](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Licencování hudby](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">

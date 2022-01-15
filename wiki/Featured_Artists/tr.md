@@ -15,7 +15,7 @@ Featured Artist kütüphanesine son eklenenler osu! topluluğu tarafından dolay
 
 Featured Artist programındaki çoğu şarkı osu!'ya özel olmayarak lisanslanmıştır. Nadir durumlarda bir sanatçı, bulundukları Featured Artistin listesinde *osu!'ya özel* olarak etiketlenmiş olan osu!'ya özel parçalar yaratabilir.
 
-Featured Artistlere katılmak isteyen bir müzisyen için detaylar [müzik lisanslama](/wiki/Legal/Music_Licensing) makalesinde bulunabilir.
+Featured Artistlere katılmak isteyen bir müzisyen için detaylar [müzik lisanslama](/wiki/Legal/Music_licensing) makalesinde bulunabilir.
 
 ## Çıkanlar
 
