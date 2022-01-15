@@ -15,7 +15,7 @@ Recent additions to the Featured Artist library are selected indirectly by the o
 
 Most songs in the Featured Artist program are non-exclusively licensed for osu!. In rare cases an artist will create tracks exclusively for osu!, which are labelled with *osu! exclusive* on their Featured Artist listing.
 
-Details for a musician joining the Featured Artists can be found on the [music licensing](/wiki/Legal/Music_Licensing) article.
+Details for a musician joining the Featured Artists can be found on the [music licensing](/wiki/Legal/Music_licensing) article.
 
 ## Releases
 

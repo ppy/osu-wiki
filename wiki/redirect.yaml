@@ -500,9 +500,9 @@
 "legal/tos":                   "Legal/Terms"
 "privacy":                     "Legal/Privacy"
 "privacy_policy":              "Legal/Privacy"
-"music_licencing":             "Legal/Music_Licensing"
-"music_licensing":             "Legal/Music_Licensing"
-
+"music_licencing":             "Legal/Music_licensing"
+"music_licensing":             "Legal/Music_licensing"
+"legal/music_licensing":       "Legal/Music_licensing"
 
 "mapping_technique":                      "Mapping_Techniques"
 "map_techs":                              "Mapping_Techniques"

@@ -77,7 +77,7 @@ no_native_review: true
 
 媒體規章：[內容使用準則](/wiki/Rules/Content_Usage_Guidelines) • [兒少不宜內容](/wiki/Rules/Explicit_Content) • [歌曲內容規範](/wiki/Rules/Song_Content_Rules) • [視覺內容考量](/wiki/Rules/Visual_Content_Considerations)
 
-[法律頁面](/wiki/Legal): [服務條款](/wiki/Legal/Terms) • [隱私權政策](/wiki/Legal/Privacy) • [版權 (DMCA)](/wiki/Legal/Copyright) • [音樂授權](/wiki/Legal/Music_Licensing)
+[法律頁面](/wiki/Legal): [服務條款](/wiki/Legal/Terms) • [隱私權政策](/wiki/Legal/Privacy) • [版權 (DMCA)](/wiki/Legal/Copyright) • [音樂授權](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">
