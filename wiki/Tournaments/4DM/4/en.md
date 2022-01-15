@@ -75,31 +75,30 @@ The 4 Digit osu!mania World Cup 4 was run by various community members.
 
 ### Round of 32
 
-<!-- **[Download the mappack here! (50 MB)](https://cdn.discordapp.com/attachments/796521304357470268/803376289625014333/4DM3_GS_Map_Pack.zip)**
-
 - FreeMod
-  1. [Draw the Emotional & Foreground Eclipse - Stay by my side (Herkkupala) \[Hard\]](https://osu.ppy.sh/beatmapsets/447784#mania/961240)
-  2. [w\_tre - Shannon's Theorem (inteliser) \[HD\]](https://osu.ppy.sh/beatmapsets/1330504#mania/2756621)
-  3. [P4koo - 8th:Planet (Guitar Ver. feat. BlueArpeggio) (Asherz007) \[Another\]](https://osu.ppy.sh/beatmapsets/858501#mania/1794165)
-  4. [M2U - White Rose (Meowstic) \[HD\]](https://osu.ppy.sh/beatmapsets/764367#mania/1607344)
-  5. [Shawn Wasabi - Marble Soda (-mint-) \[Hard\]](https://osu.ppy.sh/beatmapsets/946991#mania/2313313)
-  6. [Mili - Yubikiri-Genman (MyZterioN-) \[edit\]](https://osu.ppy.sh/beatmapsets/1072177#mania/2807044)
-  7. [Opeth - Ending Credits (Davvy) \[Doloroso\]](https://osu.ppy.sh/beatmapsets/1039463#mania/2172822)
-  8. [Cute Girls Doing Cute Things - Main Heroine (Mestro) \[Episode\]](https://osu.ppy.sh/beatmapsets/1356641#mania/2807630)
-  9. [dark cat - sleeping with you (RuleBlazing) \[cuddle\]](https://osu.ppy.sh/beatmapsets/1356415#mania/2807210)
+  1. [Falcom Sound Team jdk - Get Over The Barrier! -Roaring Version- \[Nightmare x1.05\]](https://osu.ppy.sh/beatmapsets/1558235#mania/3207670)
+  2. [Street - Phi \[Flawless 1.1x (209bpm)\]](https://osu.ppy.sh/beatmapsets/1667815#mania/3405626)
+  3. [toby fox - Heartache \[Hard 1.05x (125bpm)\]](https://osu.ppy.sh/beatmapsets/1667507#mania/3405580)
+  4. [callasoiled - 4172756869 (isagen remix) (Cut Ver.) \[guden's hard\]](https://osu.ppy.sh/beatmapsets/1670826#mania/3412492)
+  5. [meganeko - Feral (osu! edit) \[Hard\]](https://osu.ppy.sh/beatmapsets/1182004#mania/2480623)
+  6. [Yooh - Enter The Fire \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1459163#mania/2998437)
+  7. [Zekk - Freefall \[HYDRIA'S HARD\]](https://osu.ppy.sh/beatmapsets/1402506#mania/2959764)
+  8. [Aimer - Through My Blood \<AM\> \[Stage 3: Energy\]](https://osu.ppy.sh/beatmapsets/856473#mania/1789302)
+  9. [Totemo - Origami \[Folding\]](https://osu.ppy.sh/beatmapsets/1412584#mania/2911816)
+  10. [Rabpit - Saika \[LN Master\]](https://osu.ppy.sh/beatmapsets/1060785#mania/2220965)
+  11. [One Direction - Best Song Ever (Kat Krazy Remix) \[Maybe It's The Way She Talks\]](https://osu.ppy.sh/beatmapsets/1369294#mania/3016266)
+  12. [Riya - Artificial Chariot \[Futuristic Sound\]](https://osu.ppy.sh/beatmapsets/1643788#mania/3355308)
 - Tiebreaker
-  1. **[Neko Hacker - Night Sky (feat. Mashilo & ichika) (HowToPlayLN) \[LoliSerenade's Starry Night\]](https://osu.ppy.sh/beatmapsets/1149641#mania/2400063)**
+  1. **[Sephid feat. Darkxixin - Little Raven \[DannyPX x HowToPlayLN Flying Experience\]](https://osu.ppy.sh/beatmapsets/1670829#mania/3412495)**
 
 ### Qualifiers
 
-**[Download the mappack here! (25 MB)](https://cdn.discordapp.com/attachments/796521304357470268/799964988508733500/4DM3_Q_Map_Pack.rar)**
-
 - FreeMod
-  1. [Sound Souler - Blackorient (DannyPX) \[Stage 1: Black Rose\]](https://osu.ppy.sh/beatmapsets/1349422#mania/2793977)
-  2. [Grabbitz - My Cloud (Logan636) \[Stage 2: Utopia\]](https://osu.ppy.sh/beatmapsets/1349413#mania/2793965)
-  3. [An - Axeria (\[Crz\]Crysarlene) \[Stage 3: Luminous\]](https://osu.ppy.sh/beatmapsets/1349415#mania/2793968)
-  4. [Rivers of Nihil - Old Nothing (Lerck) \[Stage 4: Rejoice, transcend\]](https://osu.ppy.sh/beatmapsets/1349409#mania/2793960)
-  5. [IGLOOGHOST - Mei Mode (DannyPX) \[Stage 5: Incantation\]](https://osu.ppy.sh/beatmapsets/1349416#mania/2793969) -->
+  1. [she - Music Like This \[Stage 1: SV Like This\]](https://osu.ppy.sh/beatmapsets/1665415#mania/3399945)
+  2. [Fractal Dreamers - Defiance \[Stage 2: Antihero\]](https://osu.ppy.sh/beatmapsets/1665424#mania/3399962)
+  3. [IAHN - Transform (Original Mix) \[Stage 3: Homeomorphism\]](https://osu.ppy.sh/beatmapsets/1665268#mania/3399625)
+  4. [Fleshgod Apocalypse - Fury \[Stage 4: Conflagration\]](https://osu.ppy.sh/beatmapsets/1665436#mania/3399979)
+  5. [katagiri - HIVEMIND \[Stage 5: Controlled Chaos\]](https://osu.ppy.sh/beatmapsets/1665437#mania/3399980)
 
 ## Match results
 
