@@ -1,11 +1,12 @@
 ---
 tags:
   - hit objects
+  - objek ketukan
 ---
 
 # Hit object
 
-*Hit object* merupakan elemen permainan yang dapat diinteraksikan oleh pemain selama pemain memainkan sebuah [beatmap](/wiki/Beatmap). Setiap [mode permainan](/wiki/Game_mode) memiliki *hit object*-*hit object*-nya tersendiri yang mengubah pengalaman bermain itu sendiri. Berikut adalah daftar *hit object* yang dibagi berdasarkan mode permainannya:
+*Hit object* merupakan elemen-elemen permainan yang bersifat interaktif di dalam sebuah [beatmap](/wiki/Beatmap). Setiap [mode permainan](/wiki/Game_mode) memiliki berbagai *hit object*-nya tersendiri yang mendefinisikan pengalaman bermainnya masing-masing. Berikut merupakan daftar *hit object* yang ada di osu!, yang dibagi berdasarkan mode permainannya:
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
@@ -14,6 +15,6 @@ tags:
 | [spinner](/wiki/Hit_object/Spinner) | denden | [banana](/wiki/Hit_object/Banana) | x |
 | x | x | [hyperfruit](/wiki/Hit_object/Hyperfruit) | x |
 
-Hold note pada osu!mania tidak dapat disamakan dengan slider pada osu! karena kedua *hit object* tersebut diprogram berbeda, namun disini kami mengkategorikan sebagai hal yang sama untuk menyederhanakan tabel di atas. Elemen permainan yang tidak dapat diinteraksi oleh pemain selama bermain seperti *health bar* atau *kiai star* dikategorikan sebagai elemen tambahan atau bagian dari *user interface*.
+Walaupun hold note pada osu!mania pada dasarnya tidak sama dengan slider pada osu! karena perbedaan perilaku antar keduanya, di sini kami mengkategorikan keduanya sebagai hal yang sama untuk menyederhanakan tabel di atas. Adapun elemen-elemen permainan yang tidak bersifat interaktif seperti *health bar* atau *kiai star* dikategorikan sebagai elemen tambahan atau bagian dari *user interface*.
 
-Pada mode permainan osu!, objek hit circle atau slider yang akan dapat diketuk berikutnya akan lebih diterangkan daripada *hit object* lainnya. Meskipun demikian, efek tersebut tidak akan terlihat ketika nilai [approach rate](/wiki/Beatmapping/Approach_rate) sangat tinggi.
+Pada mode permainan osu!, hit circle atau slider yang dimainkan berikutnya akan berwarna lebih terang dibanding *hit object* lainnya. Meskipun demikian, efek tersebut tidak akan terlihat pada beatmap-beatmap yang memiliki [approach rate](/wiki/Beatmapping/Approach_rate) yang sangat tinggi.
