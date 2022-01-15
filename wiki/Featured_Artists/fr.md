@@ -15,7 +15,7 @@ Les ajouts récents à la bibliothèque des Artistes Associés sont sélectionn�
 
 La plupart des chansons figurant dans le programme des Artistes Associés font l'objet d'une licence non exclusive pour osu!. Dans de rares cas, un artiste créera des morceaux exclusivement pour osu!, qui seront étiquetés *osu! exclusive* sur leur liste d'Artistes Associés.
 
-Les détails concernant l'intégration d'un musicien aux Artistes Associés peuvent être trouvés dans l'article [music licensing](/wiki/Legal/Music_Licensing).
+Les détails concernant l'intégration d'un musicien aux Artistes Associés peuvent être trouvés dans l'article [music licensing](/wiki/Legal/Music_licensing).
 
 ## Publication
 
