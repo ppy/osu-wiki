@@ -8,7 +8,7 @@ Just as the Winter tides arrives at our doorsteps, we've got the *coolest* skins
 
 ![](/wiki/shared/news/2022-01-15-skinning-contest-tides-of-winter-voting-open/banner.jpg)
 
-There is a total of **17 gelid entries** delicately crafted by **17 skinners extraordinaire** among yours truly. While they have put forward their best craftsmanship, the task of choosing the coldest falls onto your hands! Before casting your votes, be sure to check them all out by yourself in order to appreciate the effort put into them to the fullest.
+There is a total of **17 freezing entries** delicately crafted by **17 skinners extraordinaire** among yours truly. While they have put forward their best craftsmanship, the task of choosing the coldest falls onto your hands! Before casting your votes, be sure to check them all out by yourself in order to appreciate the effort put into them to the fullest.
 
 We have listed all of these majestic icy-cold pieces of artistry inside our resident deepfreezer, otherwise known as the one and only [completed skins compendium](https://compendium.skinship.xyz/contests/2). You are free to browse around, examine them thoroughly, and you are highly encouraged to do so. Though, be sure to wear your gloves on, as some of these might be the most frosty skins you'll ever see!
 
