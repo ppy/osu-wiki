@@ -10,19 +10,19 @@ tags:
 
 # BanchoBot
 
-*Für andere Verwendungen, siehe [Bancho (Begriffsabgrenzung)](/wiki/Disambiguation/Bancho).*
+*Für andere Bedeutungen, siehe [Bancho (Begriffsabgrenzung)](/wiki/Disambiguation/Bancho).*
 
-![BanchoBot's Benutzerkarte](img/BanchoBot.jpg "BanchoBot's Benutzerkarte")
+![BanchoBots Benutzerkarte](img/BanchoBot.jpg "BanchoBot's Benutzerkarte")
 
-**BanchoBot** (manchmal auch *Bancho* genannt) ist ein Online-Chat-Bot, der für osu! entwickelt wurde und den Spielern im Chat hilft, indem er spielbezogene Nachrichten (z. B. Anzahl der Plays, wiederholte Versuche, usw.) ansagt und auf bestimmte Befehle reagiert. Es wurde von [Echo](https://osu.ppy.sh/users/431) programmiert und ist der Bereitsteller des [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
+**BanchoBot** (manchmal auch *Bancho* genannt) ist ein Online-Chat-Bot, der für osu! entwickelt wurde und den Spielern im Chat hilft, indem er spielbezogene Nachrichten (z. B. Anzahl der Plays, wiederholte Versuche, usw.) ansagt und auf bestimmte Befehle reagiert. Er wurde von [Echo](https://osu.ppy.sh/users/431) programmiert und ist der Bereitsteller des [Bancho IRCs](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
 
-BanchoBot hat auch sein eigenes [osu! Profil](https://osu.ppy.sh/users/3) und [Twitter-Konto](https://twitter.com/banchoboat).
+BanchoBot hat auch sein eigenes [osu!-Profil](https://osu.ppy.sh/users/3) und [Twitter-Konto](https://twitter.com/banchoboat).
 
 ## Befehle
 
-*Für eine Liste der Client-Befehle im Spiel, siehe: [Chat-Konsole](/wiki/Client/Interface/Chat_console#commands-list)*
+*Für eine Liste der Client-Befehle im Spiel, siehe: [Chat-Konsole](/wiki/Client/Interface/Chat_console#liste-an-chatbefehlen)*
 
-BanchoBot kann durch spezifische getippte Nachrichten im Chat auf Spielerbefehle reagieren. Alle BanchoBot-Befehle beginnen mit einem Ausrufezeichen (`!`), gefolgt von dem Namen des Befehls (ohne Leerzeichen dazwischen). Diese Befehle können in Chat-Kanälen und in privaten Nachrichten mit BanchoBot verwendet werden.
+BanchoBot kann durch spezifisch getippte Nachrichten im Chat auf Spielerbefehle reagieren. Alle BanchoBot-Befehle beginnen mit einem Ausrufezeichen (`!`), gefolgt von dem Namen des Befehls (ohne Leerzeichen dazwischen). Diese Befehle können in Chat-Kanälen und in privaten Nachrichten mit BanchoBot verwendet werden.
 
 Wenn ein normaler Benutzer einen Befehl in einem öffentlichen Chat-Kanal sendet, sehen andere Benutzer ihn nicht, und die Antwort wird in einer privaten Nachricht mit BanchoBot angezeigt. Benutzer können auch den Befehl `/bb` im Spiel-Client verwenden, um automatisch einen Tab mit BanchoBot zu öffnen und den Befehl sofort zu senden.
 
@@ -56,7 +56,7 @@ Eine Liste aller BanchoBot-Befehle befindet sich unten:
 
 <!--note for editors: the code block above reflects the exact response from banchobot -->
 
-*Tipp: Der Befehl `!request` wird von BanchoBot nicht mehr unterstützt.
+*Hinweis: Der Befehl `!request` wird von BanchoBot nicht mehr unterstützt.
 
 ### Roll
 
@@ -82,7 +82,7 @@ Eine Liste aller BanchoBot-Befehle befindet sich unten:
 !stats <Benutzername>
 ```
 
-`!stats` zeigt die Spielstatistiken des eingegebenen Benutzers und seinen aktuellen Status an. Die Ausgabe hängt von dem [Spielmodus](/wiki/Game_mode) ab, den der eingegebene Benutzer zuletzt gespielt hat, obwohl BanchoBot nicht anzeigt, aus welchem Spielmodus die Statistiken stammen. Wenn BanchoBot die Statistiken eines Benutzers anzeigen soll, der noch nie osu! gespielt hat, antwortet er mit "Benutzer nicht gefunden", auch wenn der Benutzer existiert. Ein Beispiel für das Senden dieses Befehls wird unten gezeigt:
+`!stats` zeigt die Spielstatistiken des eingegebenen Benutzers und seinen aktuellen Status an. Die Ausgabe hängt von dem [Spielmodus](/wiki/Game_mode) ab, den der eingegebene Benutzer zuletzt gespielt hat, obwohl BanchoBot nicht anzeigt, aus welchem Spielmodus die Statistiken stammen. Wenn BanchoBot die Statistiken eines Benutzers anzeigen soll, der noch nie osu! gespielt hat, antwortet er mit `User not found`, auch wenn der Benutzer existiert. Ein Beispiel für das Senden dieses Befehls wird unten gezeigt:
 
 ```
 13:01 pippi: !stats peppy
@@ -92,7 +92,7 @@ Eine Liste aller BanchoBot-Befehle befindet sich unten:
 13:01 BanchoBot: Accuracy: 87.13%
 ```
 
-Es gibt insgesamt 7 Stati, die mit dem Befehl `!stats` angezeigt werden können: Editing, Idle, Lobby, Modding, Multiplayer, Multiplaying und Playing. Ein Beispiel für das Senden dieses Befehls für einen Benutzer mit einem verfügbaren Status ist unten dargestellt:
+Es gibt insgesamt 7 Status, die mit dem Befehl `!stats` angezeigt werden können: Editing, Idle, Lobby, Modding, Multiplayer, Multiplaying und Playing. Ein Beispiel für das Senden dieses Befehls für einen Benutzer mit einem verfügbaren Status ist unten dargestellt:
 
 ```
 13:01 pippi: !stats peppy
@@ -145,7 +145,7 @@ Es gibt insgesamt 7 Stati, die mit dem Befehl `!stats` angezeigt werden können:
 !report <Benutzer> <Grund>
 ```
 
-`!report` benachrichtigt das [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) über das unangemessene Verhalten eines Benutzers. Wenn ein Benutzer Leerzeichen in seinem Benutzernamen hat, werden diese durch Unterstriche ersetzt (z. B. wird aus `really cool username` `really_cool_username`). Um einen Moderator zu melden, kontaktiere das [Account-Support-Team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Ein Beispiel für die Meldung eines normalen Benutzers durch BanchoBot ist unten dargestellt:
+`!report` benachrichtigt das [Globale Moderationsteam](/wiki/People/The_Team/Global_Moderation_Team) über das unangemessene Verhalten eines Benutzers. Wenn ein Benutzer Leerzeichen in seinem Benutzernamen hat, werden diese durch Unterstriche ersetzt (z. B. wird aus `wirklich cooler benutzername` `wirklich_cooler_benutzername`). Um einen Moderator zu melden, kontaktiere das [Account-Support-Team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Ein Beispiel für die Meldung eines normalen Benutzers durch BanchoBot ist unten dargestellt:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese
@@ -154,5 +154,5 @@ Es gibt insgesamt 7 Stati, die mit dem Befehl `!stats` angezeigt werden können:
 
 ## Trivia
 
-- Auf der BanchoBot-Benutzerseite steht unter dem Beitrittsdatum "Seit dem Anfang hier"
+- Auf der Benutzerseite von BanchoBot steht unter dem Beitrittsdatum "Seit dem Anfang hier"
   - Das offizielle Beitrittsdatum von BanchoBot ist der 27. August 2007, 22:09:14 UTC-5
