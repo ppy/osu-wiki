@@ -74,7 +74,7 @@ Lisez les procédures et règlements qui assurent la sécurité d'osu! et de sa 
 
 Réglementation des médias : [Directives d'utilisation du contenu](/wiki/Rules/Content_Usage_Guidelines) • [Contenu explicite](/wiki/Rules/Explicit_Content) • [Règles relatives au contenu des chansons](/wiki/Rules/Song_Content_Rules) • [Considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations)
 
-[Mentions légales](/wiki/Legal) : [Conditions d'utilisation](/wiki/Legal/Terms) • [Politique de confidentialité](/wiki/Legal/Privacy) • [Politique de droit d'auteur](/wiki/Legal/Copyright) • [Licence musicale](/wiki/Legal/Music_Licensing)
+[Mentions légales](/wiki/Legal) : [Conditions d'utilisation](/wiki/Legal/Terms) • [Politique de confidentialité](/wiki/Legal/Privacy) • [Politique de droit d'auteur](/wiki/Legal/Copyright) • [Licence musicale](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">

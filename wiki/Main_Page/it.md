@@ -77,7 +77,7 @@ Leggi le procedure e regole che tengono osu! e la sua comunità al riparo, dal l
 
 Regole dei media: [Linee guida sull'uso di contenuto](/wiki/Rules/Content_Usage_Guidelines) • [Contenuto eslpicito](/wiki/Rules/Explicit_Content) • [Regole sul contenuto della canzone](/wiki/Rules/Song_Content_Rules) • [Considerazioni sul materiale visivo](/wiki/Rules/Visual_Content_Considerations)
 
-[Pagine legali](/wiki/Legal): [Termini di Servizio](/wiki/Legal/Terms) • [Privacy](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Licenziamento della musica](/wiki/Legal/Music_Licensing)
+[Pagine legali](/wiki/Legal): [Termini di Servizio](/wiki/Legal/Terms) • [Privacy](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Licenziamento della musica](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">
