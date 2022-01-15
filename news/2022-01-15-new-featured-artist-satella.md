@@ -25,25 +25,25 @@ A few of **satella**'s tracks also include vocal performances by [Aitsuki Nakuru
 Play through [the map from the video](https://osu.ppy.sh/beatmapsets/1352944) mapped by [Sakura Airi](https://osu.ppy.sh/users/8682057)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/231/Irith/satella%20feat.%20Aitsuki%20Nakuru%20-%20Irith.mp3" type="audio/mpeg">
 </audio>
 
 ### satella feat. Sennzai - Thophia
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/231/Thophia/satella%20feat.%20Sennzai%20-%20Thophia.mp3" type="audio/mpeg">
 </audio>
 
-### satella - Innerverse
+### satella - Inverter
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/231/Unitone%20PHASE%2007/satella%20-%20Inverter.mp3" type="audio/mpeg">
 </audio>
 
 ### satella - Anima feat. An
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/231/Thophia/satella%20-%20Anima%20feat.%20An.mp3" type="audio/mpeg">
 </audio>
 
 ---
