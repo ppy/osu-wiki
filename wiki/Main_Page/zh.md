@@ -75,7 +75,7 @@ Ranking 指的是让谱面获得排行榜功能，从而为众人所知的过程
 
 媒体内容规范：[内容使用规范](/wiki/Rules/Content_Usage_Guidelines) • [少儿不宜内容](/wiki/Rules/Explicit_Content) • [歌曲内容规范](/wiki/Rules/Song_Content_Rules) • [视觉内容注意事项](/wiki/Rules/Visual_Content_Considerations)
 
-[法律页面](/wiki/Legal): [服务条款](/wiki/Legal/Terms) • [隐私政策](/wiki/Legal/Privacy) • [版权政策 (DMCA)](/wiki/Legal/Copyright) • [音乐许可](/wiki/Legal/Music_Licensing)
+[法律页面](/wiki/Legal): [服务条款](/wiki/Legal/Terms) • [隐私政策](/wiki/Legal/Privacy) • [版权政策 (DMCA)](/wiki/Legal/Copyright) • [音乐许可](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">
