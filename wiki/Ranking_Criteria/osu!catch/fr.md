@@ -42,7 +42,7 @@ Les règles et directives générales s'appliquent à tous les types de difficul
 
 - **Les attrapeurs personnalisés doivent en outre inclure l'élément `lighting.png` pour compléter le skin.** L'ajout de cet élément est toutefois facultatif et ses dimensions par défaut sont de 184x184 pixels, mais elles peuvent varier en fonction de la visibilité souhaitée de l'élément.
 
-## Spécifique à une difficulté :
+## Spécifique à une difficulté
 
 Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au niveau de difficulté pour lequel elles sont listées et ne *s'appliquent donc pas à **toutes** les difficultés d'osu!catch*. Les règles et directives relatives au rythme s'appliquent aux beatmaps d'environ 180 BPM. Si votre chanson est nettement plus rapide ou plus lente, certaines variables peuvent être différentes, comme indiqué dans [Mise à l'échelle du BPM sur les critères de classement](/wiki/Ranking_Criteria/Scaling_BPM).
 
