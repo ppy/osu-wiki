@@ -74,7 +74,7 @@ Lese über die Prozeduren und Kontrollen, die osu! und seine Community schützen
 
 Medienregulierungen: [Richtlinien für die Nutzung von Inhalten](/wiki/Rules/Content_Usage_Guidelines) • [Expliziter Inhalt](/wiki/Rules/Explicit_Content) • [Regeln für Songinhalte](/wiki/Rules/Song_Content_Rules) • [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_Content_Considerations)
 
-[Rechtliche Seiten](/wiki/Legal): [Allgemeine Geschäftsbedingungen](/wiki/Legal/Terms) • [Datenschutz](/wiki/Legal/Privacy) • [Urheberrecht (DMCA)](/wiki/Legal/Copyright) • [Musiklizensierung](/wiki/Legal/Music_Licensing)
+[Rechtliche Seiten](/wiki/Legal): [Allgemeine Geschäftsbedingungen](/wiki/Legal/Terms) • [Datenschutz](/wiki/Legal/Privacy) • [Urheberrecht (DMCA)](/wiki/Legal/Copyright) • [Musiklizensierung](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">
