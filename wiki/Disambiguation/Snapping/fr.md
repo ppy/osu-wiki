@@ -9,5 +9,5 @@ Le **Snapping** peut avoir plusieurs significations :
 
 ## Gameplay
 
-- Le [dash snapping](/wiki/Gameplay/Dash_snapping), un terme du mode [osu!catch](/wiki/Game_mode/osu!catch) qui décrit le mouvement nécessaire à un joueur pour attraper le fruit suivant.
-- Un style de jeu du mode [osu!](/wiki/Game_mode/osu!) caractérisé par des mouvements rapides et irréguliers, lorsque le curseur se pose rapidement sur les objets au lieu de se déplacer uniformément entre eux.
+- Le [dash snapping](/wiki/Gameplay/Dash_snapping), un terme du mode [osu!catch](/wiki/Game_mode/osu!catch) qui décrit le mouvement nécessaire à un joueur pour attraper le prochain fruit.
+- Un style de jeu du mode [osu!](/wiki/Game_mode/osu!) caractérisé par des mouvements rapides et irréguliers, lorsque le curseur se pose rapidement sur les objets au lieu de se déplacer entre eux de manière uniforme.
