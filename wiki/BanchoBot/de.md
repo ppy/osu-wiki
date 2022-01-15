@@ -12,7 +12,7 @@ tags:
 
 *Für andere Bedeutungen, siehe [Bancho (Begriffsabgrenzung)](/wiki/Disambiguation/Bancho).*
 
-![BanchoBots Benutzerkarte](img/BanchoBot.jpg "BanchoBot's Benutzerkarte")
+![BanchoBots Benutzerkarte](img/BanchoBot.jpg "BanchoBots Benutzerkarte")
 
 **BanchoBot** (manchmal auch *Bancho* genannt) ist ein Online-Chat-Bot, der für osu! entwickelt wurde und den Spielern im Chat hilft, indem er spielbezogene Nachrichten (z. B. Anzahl der Plays, wiederholte Versuche, usw.) ansagt und auf bestimmte Befehle reagiert. Er wurde von [Echo](https://osu.ppy.sh/users/431) programmiert und ist der Bereitsteller des [Bancho IRCs](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
 
