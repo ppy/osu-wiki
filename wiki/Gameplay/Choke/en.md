@@ -11,4 +11,4 @@ The term is also used by many other online communities to describe the same or s
 
 ## Causes of chokes
 
-The key characteristic of a choke is its randomness and inconsistent performance. This excludes regular or pattern-specific misses or [slider breaks](/wiki/Gameplay/Slider_break), which are usually tied to a player's skill level, or how the beatmap is constructed. Chokes are typically caused by excessive mental stress and nervousness during gameplay, as well as overall fatigue.
+The key characteristic of a choke is its randomness and inconsistent performance. This excludes regular or pattern-specific misses or [slider breaks](/wiki/Gameplay/Judgement/Slider_break), which are usually tied to a player's skill level, or how the beatmap is constructed. Chokes are typically caused by excessive mental stress and nervousness during gameplay, as well as overall fatigue.

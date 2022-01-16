@@ -362,6 +362,8 @@
 "mod_request":                 "Modding/Mod_request"
 "modder":                      "Modding/Modder"
 "modders":                     "Modding/Modder"
+"notelock":                    "Gameplay/Judgement/Notelock"
+"gameplay/notelock":           "Gameplay/Judgement/Notelock"
 "nuke":                        "Modding/Nuke"
 "offset":                      "Disambiguation/Offset"
 "offsets":                     "Disambiguation/Offset"
@@ -377,8 +379,10 @@
 "sample_set":                  "Beatmapping/Sampleset"
 "skins":                       "Skin"
 "skinner":                     "Skinning/Skinner"
-"sliderbreak":                 "Gameplay/Slider_break"
-"slider_break":                "Gameplay/Slider_break"
+"sliderbreak":                 "Gameplay/Judgement/Slider_break"
+"gameplay/sliderbreak":        "Gameplay/Judgement/Slider_break"
+"slider_break":                "Gameplay/Judgement/Slider_break"
+"gameplay/slider_break":       "Gameplay/Judgement/Slider_break"
 "slider_tick":                 "Beatmapping/Slider_tick"
 "slider_ticks":                "Beatmapping/Slider_tick"
 "slidertick":                  "Beatmapping/Slider_tick"
@@ -1742,9 +1746,6 @@
 "skin_tutorial_mania": "Skinning/Guides_and_important_threads"
 "skin_mania_tutorial": "Skinning/Guides_and_important_threads"
 "mania_skin_tutorial": "Skinning/Guides_and_important_threads"
-
-# Removed duplicate sliderbreak article
-"gameplay/sliderbreak": "Gameplay/Slider_break"
 
 # Shortcuts to user title info
 "bested_the_reapers_game": "People/Users_with_unique_titles#gameplay-related"

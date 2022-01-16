@@ -11,4 +11,4 @@ Istilah ini juga digunakan oleh banyak komunitas online lainnya untuk menggambar
 
 ## Penyebab choke
 
-Karakteristik utama dari sebuah choke adalah ketidakpastian dan performa yang tak konsisten. Hal ini mengecualikan miss biasa atau miss pada pola khusus atau [slider break](/wiki/Gameplay/Slider_break) yang biasanya berhubungan dengan level kemampuan pemain atau bagaimana beatmap terbentuk. Choke seringkali disebabkan oleh tekanan mental yang berlebihan dan kegugupan ketika bermain serta kelelahan secara umum.
+Karakteristik utama dari sebuah choke adalah ketidakpastian dan performa yang tak konsisten. Hal ini mengecualikan miss biasa atau miss pada pola khusus atau [slider break](/wiki/Gameplay/Judgement/Slider_break) yang biasanya berhubungan dengan level kemampuan pemain atau bagaimana beatmap terbentuk. Choke seringkali disebabkan oleh tekanan mental yang berlebihan dan kegugupan ketika bermain serta kelelahan secara umum.
