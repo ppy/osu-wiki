@@ -163,7 +163,7 @@ Ce processus est définitivement fastidieux. Timer une beatmap qui contient du m
 Au bout du compte, vous devriez retenir ces quelques conseils importants :
 
 - **Sauvegardez toujours votre ancien timing avant de faire n'importe quel changement.**
-    - Utilisez des marques-pages, copiez le fichier .osu dans un bloc-notes, ou écrivez le BPM/Offset sur une feuille de papier, au cas où les changements que vous faites sont encore pire. 
+  - Utilisez des marques-pages, copiez le fichier .osu dans un bloc-notes, ou écrivez le BPM/Offset sur une feuille de papier, au cas où les changements que vous faites sont encore pire. 
 - **Pensez à resnap les notes après un changement de timing.**
 - **Gardez toujours un œil sur les résultats des tests.**
 - **Appuyez vous aussi sur vos autre sens, n'utilisez pas que vos oreilles.** Des fois, la même partie d'une musique peut-être perçue différemment. Essayez de vous concentrer sur les résultats des tests, pas seulement sur votre audition.
@@ -184,4 +184,3 @@ Vous devriez seulement aider d'autres personnes au niveau du timing si :
 - Vous savez ce que vous faites. Ne vous dépêchez pas d'aller aider des gens pour du multitiming, à part si vous êtes réellement sûr que vous allez arriver à maintenir et corriger (si nécessaire) le résultat donné par le mapper durant tout le processus de classement, et que le résultat que vous allez donner va être correct ou au moins plus précis.
 
 C'est tout ce que vous devriez vraiment savoir à propos du timing. Même si ce guide est écrit pour réduire la quantité de beatmaps mal timées, il n'est sûrement pas parfait. N'hésitez pas à demander autour de vous si vous avez des problèmes, puisque le timing n'est absolument pas un sujet simple à maîtriser.
-
