@@ -45,7 +45,7 @@ The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based
 <!-- 
 Generous donations from ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) helped fund some of the prizes. -->
 
-## Organisation
+## Staff
 
 ![4DM4 staff](img/banner-staff.png)
 
@@ -116,13 +116,21 @@ Saturday, 15 January 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-<!-- | **China** ![][flag_CN] | **4** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/74530175) | -->
+| **Malaysia** ![][flag_MY] | **5** | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/96519118) |
+| **Indonesia** ![][flag_ID] | **5** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/96521858) |
+| Spain ![][flag_ES] | 0 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/96534534) |
+| Sweden ![][flag_SE] | 3 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/96536357) |
+| Singapore ![][flag_SG] | 3 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/96537056) |
+| **United Kingdom** ![][flag_UK] | **5** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/96538355) |
+| **Peru** ![][flag_PE] | **5** | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/96543171) |
+| **Canada** ![][flag_CA] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/96554977) |
 
 Sunday, 16 January 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-<!-- | **Brazil** ![][flag_BR] | **4** | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/74614785) | -->
+| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_VE] Venezuela | [#1](https://osu.ppy.sh/community/matches/96564391) |
+| **Thailand** ![][flag_TH] | **5** | 0 | ![][flag_DO] Dominican Republic | [#1](https://osu.ppy.sh/community/matches/96570653) |
 
 ### Qualifiers
 
@@ -243,4 +251,5 @@ If one player on a team has their account restricted while still participating i
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
