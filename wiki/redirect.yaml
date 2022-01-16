@@ -322,6 +322,8 @@
 "grid_snap":                   "Grid_snapping"
 "guest_difficulty":            "Beatmap/Guest_difficulty"
 "gd":                          "Beatmap/Guest_difficulty"
+"health":                      "Gameplay/Health"
+"beatmapping/health":          "Gameplay/Health"
 "hit_sound":                   "Beatmapping/Hitsound"
 "hit_sounds":                  "Beatmapping/Hitsound"
 "hitsound":                    "Beatmapping/Hitsound"
