@@ -10,7 +10,7 @@ needs_cleanup: true
 
 ## Introduction
 
-Timer une musique n'est pas si compliqué que ce qu'il parait. Vous avez seulement besoin de deux choses: le sens du rythme et un peu de dextérité. Une oreille musicale et de l'expérience dans les jeux de rythme ne sont pas requis, mais peuvent aider à améliorer votre map.
+Timer une musique n'est pas si compliqué que ce qu'il parait. Vous avez seulement besoin de deux choses: le sens du rythme et un peu de dextérité. Une oreille musicale et de l'expérience dans les jeux de rythme ne sont pas requis, mais cela peut aider à améliorer votre beatmap.
 
 Vous êtes aussi supposé savoir ce que sont le [BPM](/wiki/Beatmapping/Beats_per_minute) et l'[offset](/wiki/Disambiguation/Offset) sont, ainsi que de savoir comment créer des sections non héritées (souvent appelés red offsets).
 
