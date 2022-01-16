@@ -5,7 +5,7 @@ tags:
 
 # Critères de mise en forme d'article
 
-*Pour la mise en forme de news, voir: [Critères de mise en forme de news](/wiki/News_Styling_Criteria)*
+*Pour la mise en forme de news, voir: [Critères de mise en forme de news](/wiki/News_styling_criteria)*
 
 Les critères de mise en forme d'article (ASC pour Article Styling Criteria) sont les normes de mise en forme du osu!wiki afin de garder une cohérence dans la clarté, le format et la disposition de tous les articles.
 

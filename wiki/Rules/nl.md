@@ -67,6 +67,6 @@ Sommige overtredingen hebben een minimum tijd (meestal 48 uur of meer) als ze er
 
 Als, na herhaaldelijke overtredingen, je nog steeds de regels verbreekt, kan je account permanent en onherroepelijk gelimiteerd worden.
 
-Gelimiteerde accounts kunnen niet online spelen, scores zetten, met andere gebruikers chatten en zijn voor alle doeleinden 'verbannen' van interactie met de gemeenschap. Restrictie voor het verbreken gemeenschap regels kan alleen verwijderd worden na in beroep te zijn gegaan, als drie maanden gepasseerd zijn ([meer voorwaarden kunnen van toepassing zijn](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
+Gelimiteerde accounts kunnen niet online spelen, scores zetten, met andere gebruikers chatten en zijn voor alle doeleinden 'verbannen' van interactie met de gemeenschap. Restrictie voor het verbreken gemeenschap regels kan alleen verwijderd worden na in beroep te zijn gegaan, als drie maanden gepasseerd zijn ([meer voorwaarden kunnen van toepassing zijn](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns)).
 
 Ernstige overtredingen die ver buiten onze strekking van regels gaan en in jurisdictie van illegaal materiaal als per internationaal gemeenschappelijke wetten zal resulteren in het per direct beëindigen van je account. Dit is van toepassing op bijna uitsluitend extreem grafisch of anders weerzinwekkende overtredingen, zoals het verspreiden van kinderpornografie of ander materiaal van misbruik.
