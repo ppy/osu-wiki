@@ -25,7 +25,7 @@ Un bonus supplémentaire de 1,000pt est obtenu pour chaque tour d'un Spinner dè
 
 ## Comment déterminer le multiplicateur de difficulté
 
-[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup#taux-de-drain-de-santé) et [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) augmentent chacun un compteur de *points de difficulté* de 1 point.
+[Circle Size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Client/Beatmap_editor/Song_Setup#taux-de-drain-de-santé) et [Overall Difficulty (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty) augmentent chacun un compteur de *points de difficulté* de 1 point.
 
 La valeur finale du compteur affecte le **multiplicateur de difficulté** comme suit:-
 

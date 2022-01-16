@@ -48,7 +48,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad
@@ -90,16 +90,16 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **[Hyperdashes](/wiki/Glossary/Hyperdash) of any kind are disallowed.** This is to ensure a manageable step in difficulty for novice players.
 - **[Dashes](/wiki/Glossary/Dash) must have at least a 125 ms gap between their two objects.**
-- **[Dashes](/wiki/Glossary/Dash) that are [basic-snapped](/wiki/Glossary/Snapping#basic-snapped) must not be used more than two times between consecutive [fruits](/wiki/Hit_object/Fruit).**
-- **[Dashes](/wiki/Glossary/Dash) that are [higher-snapped](/wiki/Glossary/Snapping#higher-snapped) must always be followed by a [walk](/wiki/Glossary/Walk).**
+- **[Dashes](/wiki/Glossary/Dash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than two times between consecutive [fruits](/wiki/Hit_object/Fruit).**
+- **[Dashes](/wiki/Glossary/Dash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must always be followed by a [walk](/wiki/Glossary/Walk).**
 - **[Edge dashes](/wiki/Glossary/Edge_dash) must not be used.** They require extremely precise timing which cannot be expected of less-experienced players.
 - **At least 250 ms must be left between circles/sliders and the start and end of [spinners](/wiki/Hit_object/Spinner).** This is to ensure readability.
 
 #### Guidelines
 
 - **All distances should be clear on whether they require the player to [walk](/wiki/Glossary/Walk) or [dash](/wiki/Glossary/Dash).** This is to ensure that players can easily recognise patterns that require dashing.
-- **[Dashes](/wiki/Glossary/Dash) that are [basic-snapped](/wiki/Glossary/Snapping#basic-snapped) should not be used consecutively when different beat snaps are used.** For example, a 1/1 dash followed by a 1/2 dash.
-- **[Dashes](/wiki/Glossary/Dash) that are [higher-snapped](/wiki/Glossary/Snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Antiflow) patterns.**
+- **[Dashes](/wiki/Glossary/Dash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) should not be used consecutively when different beat snaps are used.** For example, a 1/1 dash followed by a 1/2 dash.
+- **[Dashes](/wiki/Glossary/Dash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Antiflow) patterns.**
 - **[Combos](/wiki/Beatmapping/Combo) should not exceed 10 objects including slider tails and repeats.** [Spinners](/wiki/Hit_object/Spinner) are an exception.
 - **Note density should follow a mostly 1/1 and 1/2 pattern.** 1/3 and/or 1/4 patterns should be used sparingly.
 
@@ -116,20 +116,20 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **[Hyperdashes](/wiki/Glossary/Hyperdash) must have at least a 125 ms gap between their two objects.**
 - **[Hyperdashes](/wiki/Glossary/Hyperdash) cannot be used on individual [drops](/wiki/Hit_object/Juice_stream#drop) and/or slider repetitions.** The accuracy and control required is unreasonable at this level and can create a situation where the player potentially fails to read the slider path.
 - **[Hyperdashes](/wiki/Glossary/Hyperdash) of a different beat snap must not be used between consecutive [fruits](/wiki/Hit_object/Fruit).** For example, a 1/2 hyperdash followed by a 1/4 hyperdash.
-- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [basic-snapped](/wiki/Glossary/Snapping#basic-snapped) must not be used more than two times between consecutive [fruits](/wiki/Hit_object/Fruit).**
-- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [higher-snapped](/wiki/Glossary/Snapping#higher-snapped) must not be used in conjunction with any other [dashes](/wiki/Glossary/Dash) or hyperdashes.**
+- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than two times between consecutive [fruits](/wiki/Hit_object/Fruit).**
+- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must not be used in conjunction with any other [dashes](/wiki/Glossary/Dash) or hyperdashes.**
 - **[Dashes](/wiki/Glossary/Dash) must have at least a 62 ms gap between their two objects.**
-- **[Dashes](/wiki/Glossary/Dash) that are [basic-snapped](/wiki/Glossary/Snapping#basic-snapped) must not be used more than four times between consecutive [fruits](/wiki/Hit_object/Fruit).**
-- **[Dashes](/wiki/Glossary/Dash) that are [higher-snapped](/wiki/Glossary/Snapping#higher-snapped) can be used up to two times between consecutive [fruits](/wiki/Hit_object/Fruit), provided there isn't a direction change between them.**
+- **[Dashes](/wiki/Glossary/Dash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than four times between consecutive [fruits](/wiki/Hit_object/Fruit).**
+- **[Dashes](/wiki/Glossary/Dash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) can be used up to two times between consecutive [fruits](/wiki/Hit_object/Fruit), provided there isn't a direction change between them.**
 - **[Edge dashes](/wiki/Glossary/Edge_dash) must not be used.** They require extremely precise timing which cannot be expected of less-experienced players.
 - **At least 125 ms must be left between circles/sliders and the start of [spinners](/wiki/Hit_object/Spinner).** This is to ensure readability.
 - **At least 250 ms must be left between circles/sliders and the end of [spinners](/wiki/Hit_object/Spinner).** This is to ensure readability.
 
 #### Guidelines
 
-- **Strong [hyperdashes](/wiki/Glossary/Hyperdash) should not be used.** For [basic-snapped](/wiki/Glossary/Snapping#basic-snapped) hyperdashes, a limit of 1.5 times the [trigger distance](/wiki/Glossary/Trigger_distance) is recommended. For [higher-snapped](/wiki/Glossary/Snapping#higher-snapped) hyperdashes, a limit of 1.3 times the trigger distance is recommended instead.
-- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [basic-snapped](/wiki/Glossary/Snapping#basic-snapped) may be used in conjunction with [antiflow](/wiki/Beatmapping/Antiflow) patterns.** If used, the spacing should not exceed a distance snap of 1.2 times the [trigger distance](/wiki/Glossary/Trigger_distance) when followed by a [walk](/wiki/Glossary/Walk), or 1.1 times the trigger distance when followed by a basic-snapped [dash](/wiki/Glossary/Dash).
-- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [higher-snapped](/wiki/Glossary/Snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Antiflow) patterns.** If used, the spacing should not exceed a distance snap of 1.1 times the [trigger distance](/wiki/Glossary/Trigger_distance) and the movement after the hyperdash must be a [walk](/wiki/Glossary/Walk).
+- **Strong [hyperdashes](/wiki/Glossary/Hyperdash) should not be used.** For [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) hyperdashes, a limit of 1.5 times the [trigger distance](/wiki/Glossary/Trigger_distance) is recommended. For [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) hyperdashes, a limit of 1.3 times the trigger distance is recommended instead.
+- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) may be used in conjunction with [antiflow](/wiki/Beatmapping/Antiflow) patterns.** If used, the spacing should not exceed a distance snap of 1.2 times the [trigger distance](/wiki/Glossary/Trigger_distance) when followed by a [walk](/wiki/Glossary/Walk), or 1.1 times the trigger distance when followed by a basic-snapped [dash](/wiki/Glossary/Dash).
+- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Antiflow) patterns.** If used, the spacing should not exceed a distance snap of 1.1 times the [trigger distance](/wiki/Glossary/Trigger_distance) and the movement after the hyperdash must be a [walk](/wiki/Glossary/Walk).
 - **[Combos](/wiki/Beatmapping/Combo) should not exceed 12 objects including slider tails and repeats.** [Spinners](/wiki/Hit_object/Spinner) are an exception.
 - **Note density should follow a mostly 1/2 and/or 1/3 pattern.** 1/4 and/or 1/6 patterns should be used sparingly.
 
@@ -144,17 +144,17 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **[Hyperdashes](/wiki/Glossary/Hyperdash) and [dashes](/wiki/Glossary/Dash) must have at least a 62 ms gap between their two objects.**
-- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [basic-snapped](/wiki/Glossary/Snapping#basic-snapped) must not be used more than four times between consecutive [fruits](/wiki/Hit_object/Fruit).**
-- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [basic-snapped](/wiki/Glossary/Snapping#basic-snapped) must not be used more than two times within a slider.** The slider path must be simple and easy-to-follow.
-- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [higher-snapped](/wiki/Glossary/Snapping#higher-snapped) must not be used in conjunction with higher-snapped [dashes](/wiki/Glossary/Dash) or any other hyperdashes.**
-- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [higher-snapped](/wiki/Glossary/Snapping#higher-snapped) must not be used within a slider.**
+- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than four times between consecutive [fruits](/wiki/Hit_object/Fruit).**
+- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than two times within a slider.** The slider path must be simple and easy-to-follow.
+- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must not be used in conjunction with higher-snapped [dashes](/wiki/Glossary/Dash) or any other hyperdashes.**
+- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must not be used within a slider.**
 - **At least 125 ms must be left between circles/sliders and the start and end of [spinners](/wiki/Hit_object/Spinner).** This is to ensure readability.
 
 #### Guidelines
 
 - **[Hyperdashes](/wiki/Glossary/Hyperdash) should not be used on individual [drops](/wiki/Hit_object/Juice_stream#drop) and/or slider repetitions.**
-- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [basic-snapped](/wiki/Glossary/Snapping#basic-snapped) should not be used consecutively when different beat snaps are used.** For example, a 1/1 hyperdash followed by a 1/2 hyperdash.
-- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [higher-snapped](/wiki/Glossary/Snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Antiflow) [dashes](/wiki/Glossary/Dash) with a gap lower than 250ms.**
+- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) should not be used consecutively when different beat snaps are used.** For example, a 1/1 hyperdash followed by a 1/2 hyperdash.
+- **[Hyperdashes](/wiki/Glossary/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Antiflow) [dashes](/wiki/Glossary/Dash) with a gap lower than 250ms.**
 - **[Edge dashes](/wiki/Glossary/Edge_dash) may only be used singularly (not in conjunction with other [dashes](/wiki/Glossary/Dash) or [hyperdashes](/wiki/Glossary/Hyperdash)).**
 - **[Combos](/wiki/Beatmapping/Combo) should not exceed 16 objects including slider tails and repeats.** [Spinners](/wiki/Hit_object/Spinner) are an exception.
 - **Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern.** 1/8 patterns and higher should be used sparingly.

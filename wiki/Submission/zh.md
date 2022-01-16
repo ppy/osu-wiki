@@ -1,6 +1,6 @@
 # 提交谱面
 
-制作好的[谱面](/wiki/Beatmap)可以通过[谱面编辑器](/wiki/Beatmap_Editor)提交至 osu! 官网上。提交后的谱面就能得到其他玩家的关注，并有机会被标记为 [Ranked](/wiki/Beatmap/Category#ranked) 或 [Loved](/wiki/Beatmap/Category#loved)。
+制作好的[谱面](/wiki/Beatmap)可以通过[谱面编辑器](/wiki/Client/Beatmap_editor)提交至 osu! 官网上。提交后的谱面就能得到其他玩家的关注，并有机会被标记为 [Ranked](/wiki/Beatmap/Category#ranked) 或 [Loved](/wiki/Beatmap/Category#loved)。
 
 ![](img/bss-warning-ZH.png "谱面提交系统的截图")
 

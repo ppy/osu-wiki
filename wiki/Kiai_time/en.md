@@ -11,7 +11,7 @@ tags:
 
 **Kiai Time** (or *kiai*) is a term given for a "special" timing section to help emphasise a part of a [beatmap](/wiki/Beatmap). Players can tell if a part of a beatmap has a kiai timing section if they see added visual effects in the background (e.g., flashing beats, flying stars, and fountains).
 
-While kiai is active, all [hit objects](/wiki/Hit_object) will flash at the rhythm of the [main beat](/wiki/Beatmap_Editor/Timing) and stars will explode from the cursor when a [hit circle](/wiki/Hit_object/Hit_circle) is hit. Otherwise, they will fall from the cursor when a [slider](/wiki/Hit_object/Slider) or [spinner](/wiki/Hit_object/Spinner) is followed.
+While kiai is active, all [hit objects](/wiki/Hit_object) will flash at the rhythm of the [main beat](/wiki/Client/Beatmap_editor/Timing) and stars will explode from the cursor when a [hit circle](/wiki/Hit_object/Hit_circle) is hit. Otherwise, they will fall from the cursor when a [slider](/wiki/Hit_object/Slider) or [spinner](/wiki/Hit_object/Spinner) is followed.
 
 ## Beatmapping
 
@@ -19,6 +19,6 @@ Kiai time is most commonly used for the "strongest part of a song" which is usua
 
 ## osu!taiko
 
-On [osu!taiko](/wiki/Game_mode/osu!taiko) beatmaps, kiai sections give 20% more [score](/wiki/Score).
+On [osu!taiko](/wiki/Game_mode/osu!taiko) beatmaps, kiai sections give 20% more [score](/wiki/Gameplay/Score).
 
 <!-- TODO: Add links -->

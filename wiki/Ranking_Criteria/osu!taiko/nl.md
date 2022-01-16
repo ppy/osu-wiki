@@ -14,7 +14,7 @@ Over deze regels en richtlijnen is gediscussieerd in het [Ranking Criteria subfo
 
 ### Namen moeilijkheidsgraden
 
-*Hoofdartikel: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*Hoofdartikel: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu

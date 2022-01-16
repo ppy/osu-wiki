@@ -4,7 +4,7 @@
 
 ![Capture d'écran de l'onglet "timing" dans l'éditeur](img/Timing_base-FR.jpg)
 
-L'onglet **timing** de l'[éditeur de beatmap](/wiki/Beatmap_Editor) permet aux mappeurs de modifier les paramètres de timing d'une [beatmap](/wiki/Beatmap). La synchronisation est généralement la première étape de la création d'une nouvelle beatmap.
+L'onglet **timing** de l'[éditeur de beatmap](/wiki/Client/Beatmap_editor) permet aux mappeurs de modifier les paramètres de timing d'une [beatmap](/wiki/Beatmap). La synchronisation est généralement la première étape de la création d'une nouvelle beatmap.
 
 Le timing est constitué du [décalage](/wiki/Beatmapping/Offset), des [battements par minute (BPM)](/wiki/Beatmapping/Beats_per_minute) et du [mètre](https://fr.wikipedia.org/wiki/Pulsation_(musique)) d'une chanson. Un timing correct sur les beatmaps est nécessaire pour que les joueurs puissent maintenir la [précision](/wiki/Gameplay/Accuracy) pendant qu'ils jouent. Les beatmaps mal timés ne peuvent pas passer par la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 

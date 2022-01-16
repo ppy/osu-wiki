@@ -20,7 +20,7 @@ Disse regler er grundlaget for hvordan vi holder osu! fællesskabet et sjovt og 
 ## In-Game Chat Regler
 
 1. **Vær respektfuld og opmærksom på andre brugere i kanalen og undgå at spamme chatten.** En person der fylder halvdelen af skærmen er irriterende, så undgå det hvor muligt. Andre folk chatter også!
-2. **Lad moderatorerne håndtere problemer i chatten.** Du kan kontakte dem med [`!report` kommandoen](/wiki/Reporting_Bad_Behaviour) og så skal de nok sørge for resten.
+2. **Lad moderatorerne håndtere problemer i chatten.** Du kan kontakte dem med [`!report` kommandoen](/wiki/Reporting_bad_behaviour) og så skal de nok sørge for resten.
 3. **Hvis nogen bliver timed out, silenced eller restricted, skal du lade dem være og ikke snakke om dem.** Deres sag involverer kun dem og spillets administratorer - ingen andre.
 4. **Frem fairplay og giv ikke opmærksomhed til snyderi eller giftige personer.** Giftige personer eksisterer desværre, og hvis man giver dem opmærksomhed tilskynder man dem bare til at fortsætte eller i værste tilfælde kan det inspirere andre til at gøre det samme. Rapporter dem i stedet vha. chat kommandoen `!report` eller knapperne på deres profil.
 5. **Hold chatten ren og passende for alle aldre. Det betyder at NSFW emner skal undgås så meget som muligt.** NSFW emner er absolut ikke passende for et fællesskab der inkluderer alle aldre. Gør hvad du vil i privatbeskeder (inden for rimelighedens grænser), men hold de offentlige kanaler rene.
@@ -43,7 +43,7 @@ Disse regler er grundlaget for hvordan vi holder osu! fællesskabet et sjovt og 
 
 *Note: Disse regler gælder **alle indsendte maps**, ikke kun dem der er Ranked. For at se mere specifikke regler ift. Ranked beatmaps, se [Ranking Kriteriet](/wiki/Ranking_Criteria).*
 
-Disse regler gælder strengt talt for beatmaps der indsendes via det in-game [Beatmap Indsendelses-System](/wiki/Submission). Disse tråde/diskussioner bliver oprettet af osu!-klienten når et beatmap indsendes gennem [editoren](/wiki/Beatmap_Editor).
+Disse regler gælder strengt talt for beatmaps der indsendes via det in-game [Beatmap Indsendelses-System](/wiki/Submission). Disse tråde/diskussioner bliver oprettet af osu!-klienten når et beatmap indsendes gennem [editoren](/wiki/Client/Beatmap_editor).
 
 1. **Sørg for at du har tilladelse til at bruge alt indhold, der er involveret i dit beatmap.** Dette inkluderer sange, videoer, hitsounds, grafik, og andet indhold der ikke er dit eget. Hvis du er i tvivl om hvor du kan finde indhold der er gratis at bruge, har vi et voksende bibliotek af sange tilgængeligt på [Featured Artist](https://osu.ppy.sh/beatmaps/artists)-siden, som alle er 100% licenseret til brug i osu!.
 2. **Hold dig til emnet i Beatmap diskussioner.** Disse tråde/diskussioner handler om det aktuelle beatmap og intet andet. Hvis du har et problem med noget der ikke direkte vedrører beatmappet, kan du lave et opslag i det relevante forum.

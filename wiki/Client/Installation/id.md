@@ -1,8 +1,8 @@
 # Instalasi
 
-*Lihat juga: [Instalasi osu! pada perangkat MacOS](/wiki/Installation/macOS)*
+*Lihat juga: [Instalasi osu! pada perangkat MacOS](/wiki/Client/Installation/macOS)*
 
-Laman ini akan menjelaskan langkah-langkah agar osu! dapat dipasang dan dijalankan pada perangkat Windows milikmu. Apabila kamu butuh panduan lebih lanjut, kamu dapat menonton [video tutorial berikut](https://www.youtube.com/watch?v=0V5GwzmMhpU) yang ditayangkan pada saluran YouTube [osu!academy](/wiki/osu!academy).
+Laman ini akan menjelaskan langkah-langkah agar osu! dapat dipasang dan dijalankan pada perangkat Windows milikmu. Apabila kamu butuh panduan lebih lanjut, kamu dapat menonton [video tutorial berikut](https://www.youtube.com/watch?v=0V5GwzmMhpU) yang ditayangkan pada saluran YouTube [osu!academy](/wiki/Community/Video_series/osu!academy).
 
 ## Persyaratan sistem minimum
 
@@ -46,7 +46,7 @@ Terdapat dua cara untuk menambahkan beatmap ke dalam osu!, yaitu dengan mengundu
 4. Cari dan buka berkas beatmap yang telah kamu unduh, di mana berkas ini memiliki ekstensi `.osz`.
    - Kamu juga dapat menempatkan file beatmap yang telah diunduh langsung ke dalam folder `Songs` pada direktori osu! kamu.
 5. osu! akan secara otomatis memuat beatmap yang bersangkutan ke dalam klien permainan.
-   - Apabila beatmap gagal termuat, tekan `F5` pada layar [Song Selection](/wiki/Interface#layar-pemilihan-lagu) agar osu! dapat memproses dan memuat ulang semua beatmap yang kamu miliki.
+   - Apabila beatmap gagal termuat, tekan `F5` pada layar [Song Selection](/wiki/Client/Interface#layar-pemilihan-lagu) agar osu! dapat memproses dan memuat ulang semua beatmap yang kamu miliki.
 
 ### osu!direct
 
@@ -57,7 +57,7 @@ Terdapat dua cara untuk menambahkan beatmap ke dalam osu!, yaitu dengan mengundu
 3. Klik dua kali pada lagu yang dipilih atau klik `Download` pada menu yang muncul di sebelah kanan layar untuk mengunduhnya.
    - Apabila kamu tidak ingin mengunduh video yang disertakan dalam berkas beatmap, klik `DL NoVideo`.
 4. Setelah beatmap selesai terunduh, osu! akan secara otomatis memuat beatmap yang bersangkutan ke dalam klien permainan.
-   - Apabila beatmap gagal termuat, tekan `F5` pada layar [Song Selection](/wiki/Interface#layar-pemilihan-lagu) agar osu! dapat memproses dan memuat ulang semua beatmap yang kamu miliki.
+   - Apabila beatmap gagal termuat, tekan `F5` pada layar [Song Selection](/wiki/Client/Interface#layar-pemilihan-lagu) agar osu! dapat memproses dan memuat ulang semua beatmap yang kamu miliki.
 
 ## Menambahkan skin
 
@@ -73,5 +73,5 @@ Terdapat dua cara untuk menambahkan beatmap ke dalam osu!, yaitu dengan mengundu
      1. Ekstrak berkas skin yang telah diunduh.
      2. Pindahkan folder hasil ekstraksi ke dalam folder `Skins` pada direktori osu!.
      3. Apabila osu! sedang aktif, skin akan muncul dalam daftar skin setelah kamu menekan kombinasi tombol `Ctrl` + `Alt` + `Shift` + `S`.
-     4. Di dalam osu!, pilih menu [Options](/wiki/Options) dan ketik `Skin` pada layar pencarian yang muncul.
+     4. Di dalam osu!, pilih menu [Options](/wiki/Client/Options) dan ketik `Skin` pada layar pencarian yang muncul.
      5. Pilih skin yang telah kamu unduh tersebut pada menu `Skin yang dipakai:`.

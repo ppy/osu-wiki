@@ -8,7 +8,7 @@ Currently, the osu! community meetings are being chaired by [peppy](https://osu.
 
 Meetings are generally held every two weeks, with reminders announced on [peppy's Twitter](https://twitter.com/ppy) about a day beforehand.
 
-The next osu! community meeting date will be announced at a later date.
+The next osu! community meeting is scheduled to take place on: **January 22, 2022 (Saturday 21:00 UTC)**.
 
 ## Getting involved
 
@@ -35,7 +35,8 @@ The first osu! community meeting was hosted on September 19, 2021. All meetings 
 | 4 | [November 14, 2021](https://youtu.be/rEWgTY-L95Y) | [Meeting notes](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) | Performance point development process, various community questions, development update |
 | 5 | [November 28, 2021](https://youtu.be/SqMrY26Q6Tw) | [Meeting notes](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) | Various community questions, development update |
 | 6 | [December 11, 2021](https://youtu.be/dtGjIyTFtMA) | [Meeting notes](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) | Future of the osu! World Cups, various community questions |
-| 7 | [December 18, 2021](https://www.twitch.tv/videos/1236856715) | [Meeting notes](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) | peppy responds to various controversies and drama in the community |
+| 7 | [December 18, 2021](https://youtu.be/v-LgY3UKhkg) | [Meeting notes](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) | peppy responds to various controversies and drama in the community |
+| 8 | [January 9, 2022](https://youtu.be/JXgQ6YEDCGg) | [Meeting notes](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | HP mechanics (health drain), various community questions |
 
 ## Related links
 

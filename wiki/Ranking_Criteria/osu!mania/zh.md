@@ -8,7 +8,7 @@
 
 ### 难度名称
 
-*主页面：[难度命名](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*主页面：[难度命名](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal

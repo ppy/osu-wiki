@@ -1,8 +1,8 @@
 # Installation
 
-*Voir aussi : [Installation sur macOS](/wiki/Installation/macOS)*
+*Voir aussi : [Installation sur macOS](/wiki/Client/Installation/macOS)*
 
-Cette page vous explique comment faire fonctionner osu! sur votre appareil Windows. La [osu!academy](/wiki/osu!academy) propose un [tutoriel vidéo](https://www.youtube.com/watch?v=0V5GwzmMhpU) qui explique comment installer osu! sur Windows.
+Cette page vous explique comment faire fonctionner osu! sur votre appareil Windows. La [osu!academy](/wiki/Community/Video_series/osu!academy) propose un [tutoriel vidéo](https://www.youtube.com/watch?v=0V5GwzmMhpU) qui explique comment installer osu! sur Windows.
 
 ## Configuration minimale requise
 
@@ -46,7 +46,7 @@ Il y a deux façons d'ajouter beatmaps, via le site web ou osu!direct (nécessit
 4. Localisez et ouvrez le fichier beatmap, il a une extension `.osz`.
    - Alternativement, vous pouvez aussi placer le fichier dans le répertoire `Songs` de l'installation d'osu!, ou glisser le ficher sur la fenêtre d'osu!.
 5. osu! s'occupera automatiquement du reste pour vous et chargera la beatmap.
-   - Si, pour une raison quelconque, vous ne les voyez pas, appuyez sur `F5` dans la [sélection des chansons](/wiki/Interface#écran-de-sélection-des-beatmaps) pour retraiter vos beatmaps.
+   - Si, pour une raison quelconque, vous ne les voyez pas, appuyez sur `F5` dans la [sélection des chansons](/wiki/Client/Interface#écran-de-sélection-des-beatmaps) pour retraiter vos beatmaps.
 
 ### osu!direct
 
@@ -57,7 +57,7 @@ Il y a deux façons d'ajouter beatmaps, via le site web ou osu!direct (nécessit
 3. Double-cliquez sur la chanson dans la liste ou cliquez sur `Download` à droite pour la télécharger.
    - Si vous ne voulez pas télécharger la vidéo qui accompagne la beatmap, cliquez sur `DL NoVideo` à la place.
 4. Lorsque osu! a fini de télécharger la beatmap, il la chargera automatiquement.
-   - Si, pour une raison quelconque, vous ne les voyez pas, appuyez sur `F5` dans la [sélection des chansons](/wiki/Interface#écran-de-sélection-des-beatmaps) pour retraiter vos beatmaps.
+   - Si, pour une raison quelconque, vous ne les voyez pas, appuyez sur `F5` dans la [sélection des chansons](/wiki/Client/Interface#écran-de-sélection-des-beatmaps) pour retraiter vos beatmaps.
 
 ## Ajout de skins
 
@@ -73,5 +73,5 @@ Il y a deux façons d'ajouter beatmaps, via le site web ou osu!direct (nécessit
      1. Extrayez-le en utilisant un logiciel adapté (comme [7zip](https://www.7-zip.org/download.html) par exemple).
      2. Déplacez le dossier du skin extrait dans le répertoire `Skins` du chemin d'installation d'osu!
      3. Si osu! est en cours d'exécution, le skin apparaîtra dans la liste seulement après avoir appuyé sur `Ctrl` + `Alt` + `Shift` + `S`.
-     4. Dans osu!, allez dans les [Options](/wiki/Options) et cherchez `Skin`.
+     4. Dans osu!, allez dans les [Options](/wiki/Client/Options) et cherchez `Skin`.
      5. Faites défiler l'écran jusqu'à l'option `Skin actuel` et sélectionnez le skin que vous avez téléchargé.

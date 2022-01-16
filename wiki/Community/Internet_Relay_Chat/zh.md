@@ -8,13 +8,13 @@ outdated: true
 
 ## osu! 聊天
 
-osu! 使用 IRC 协议进行[游戏内聊天](/wiki/Chat_Console)([英文:Chat Console](/wiki/Chat_Console). 通过其他的 IRC 客户端，你可以不打开 osu! 即可和你的好友聊天。注意 osu! Bancho 使用的 IRC 协议并不是标准的 IRC 协议，因此某些 IRC 客户端在 osu! Bancho 上可能无法正常运行。
+osu! 使用 IRC 协议进行[游戏内聊天](/wiki/Client/Interface/Chat_console)([英文:Chat Console](/wiki/Client/Interface/Chat_console). 通过其他的 IRC 客户端，你可以不打开 osu! 即可和你的好友聊天。注意 osu! Bancho 使用的 IRC 协议并不是标准的 IRC 协议，因此某些 IRC 客户端在 osu! Bancho 上可能无法正常运行。
 
 **注意：已知[HexChat](https://hexchat.github.io/)连接 osu! Bancho 时会发生一些问题 .**([这里是 Github 上的 issue](https://github.com/hexchat/hexchat/issues/818)), 如果这个问题很恼人的话，考虑换一个客户端。
 
 ### 如何连接
 
-通过你的 IRC 客户端连接到[cho.ppy.sh](irc://cho.ppy.sh) 或 [irc.ppy.sh](irc://irc.ppy.sh) (两个是相同的主机) ,端口为 IRC 默认端口6667,昵称(nickname)是你的 osu! 用户名。
+通过你的 IRC 客户端连接到`cho.ppy.sh` 或 `irc.ppy.sh` (两个是相同的主机) ,端口为 IRC 默认端口6667,昵称(nickname)是你的 osu! 用户名。
 
 ### 在 Bancho 上验证
 
@@ -27,7 +27,7 @@ osu! 使用 IRC 协议进行[游戏内聊天](/wiki/Chat_Console)([英文:Chat C
 * - Please click the following link to complete this process:
 ```
 
-点击链接中的 URL，你会看到一个"Authorise IRC connection" 按钮，点击以后，你会完成认证并加入到 [\#osu](irc://cho.ppy.sh/osu).
+点击链接中的 URL，你会看到一个"Authorise IRC connection" 按钮，点击以后，你会完成认证并加入到 `#osu`.
 
 或者，将密码输入到你的 IRC 客户端中，完成认证。
 

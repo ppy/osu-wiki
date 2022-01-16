@@ -283,7 +283,7 @@ Outra opção seria [visitar a lista de beatmaps listados pela dificuldade](http
 
 ### O que o Level em meu perfil faz??
 
-Absolutamente nada. Não existe diferenças comparando um jogador level 100 contra um jogador level 1 (com exceção do nível de habilidade e experiência em jogo) Não existem "privilégios" para jogadores com level mais alto ou desvantagens para iniciantes. Level é baseado no seu total de pontos acumulado quando jogando online com sua conta.. [a Formula pode ser encontrada aqui](/wiki/Score)
+Absolutamente nada. Não existe diferenças comparando um jogador level 100 contra um jogador level 1 (com exceção do nível de habilidade e experiência em jogo) Não existem "privilégios" para jogadores com level mais alto ou desvantagens para iniciantes. Level é baseado no seu total de pontos acumulado quando jogando online com sua conta.. [a Formula pode ser encontrada aqui](/wiki/Gameplay/Score)
 
 ### Porque as estatísticas do meu perfil são diferentes das que vejo durante o jogo?
 

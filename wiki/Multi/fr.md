@@ -8,7 +8,7 @@ needs_cleanup: true
 
 Le Multi (aussi connu en tant que *Multijoueur*) a été introduit le 3 Juin 2008 sous la version b335 d'osu!, et s'agit d'un mode de jeu dans lequel jusqu'à 16 joueurs peuvent s'affronter sur une beatmap choisie par l'hôte.
 
-L'[osu!academy](/wiki/osu!academy) a couvert ce sujet dans  l'[Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) ainsi que celui des [panneaux des joueurs en ligne](/wiki/Chat_Console#la-console-de-chat-étendue).
+L'[osu!academy](/wiki/Community/Video_series/osu!academy) a couvert ce sujet dans  l'[Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) ainsi que celui des [panneaux des joueurs en ligne](/wiki/Client/Interface/Chat_console#la-console-de-chat-étendue).
 
 ## Comment y entrer
 
@@ -89,7 +89,7 @@ Les trois boutons au-dessus de la console de chat sont des commandes que vous po
 | `Créer une salle` | **Créer une nouvelle salle dans le lobby** |
 | `Salle au hasard` | Se rendre dans une **salle disponible** *aléatoirement* choisie selon la **différence de classement**. |
 
-La [console de chat](/wiki/Chat_Console) sera disponible en bas de l'écran et affichera le canal `#lobby` par défaut.
+La [console de chat](/wiki/Client/Interface/Chat_console) sera disponible en bas de l'écran et affichera le canal `#lobby` par défaut.
 
 ## Nouvelle salle
 
@@ -115,7 +115,7 @@ La partie haute montre le nom de l'écran à gauche, votre statut dans la salle 
 
 ---
 
-La partie du bas montre [la console de chat](/wiki/Chat_Console).
+La partie du bas montre [la console de chat](/wiki/Client/Interface/Chat_console).
 Un nouvel onglet appelé `#multiplayer` sera ouvert, avec [BanchoBot](/wiki/BanchoBot) qui fournira un lien vers l'historique des matchs.
 Le lien est `https://osu.ppy.sh/community/matches/x` (remplacez "x" avec le nombre généré par Bancho pour cette salle).
 

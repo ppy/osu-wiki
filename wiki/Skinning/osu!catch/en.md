@@ -84,7 +84,7 @@ Notes:
   - One of the images in the set will be appear when a combo milestone is met.
 - On v2.2-, `comboburst.png` will be used instead.
 - osu!catch-specific combobursts
-- This can be disabled in the [options](/wiki/Options).
+- This can be disabled in the [options](/wiki/Client/Options).
 - This should face towards the right.
 
 ## Fruits
@@ -101,7 +101,7 @@ Notes:
 
 - This pulsates on the catch line for where fruit's landing location during [kiai time](/wiki/Kiai_time).
 - This element is also used in [osu!](/wiki/Game_mode/osu!) and [osu!taiko](/wiki/Game_mode/osu!taiko).
-- This can be disabled in the [options](/wiki/Options).
+- This can be disabled in the [options](/wiki/Client/Options).
 - Tinting depends on the fruit's combo colour.
 
 ---

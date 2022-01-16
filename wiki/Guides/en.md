@@ -7,7 +7,7 @@ Below is a sorted list of guides created by members of the osu! community, most 
 *Main page: [Beatmapping](/wiki/Beatmapping)*
 
 - [Audio editing guide](Audio_Editing)
-- [Changing the title text](/wiki/Beatmap/Title_Text#changing-title-text)
+- [Changing the title text](/wiki/Beatmap/Title_text#changing-title-text)
 - [Compressing files](Compressing_files)
 - [Custom hitsound library](Custom_Hitsound_Library)
 - [Custom sample overrides](Custom_Sample_Overrides)
