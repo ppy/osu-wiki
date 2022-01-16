@@ -31,6 +31,7 @@ Essayez de vous immerger et d'imaginer la structure de la musique, vous pouvez y
 Écoutez la musique assez longtemps, et vous allez finir par attraper le rythme de la musique puis arriver à la timer avec succès. La distance entre les notes va être calculée par l'éditeur, et avant de mapper, nous avons seulement à définir le bon BPM et la bonne mesure.
 
 Voici le plan :
+
 1. Trouver la bonne tempo (BPM) de la musique et le bon offset pour le fichier audio ;
 2. Ajuster l'offset le plus précisément possible par rapport à la musique ;
 3. Ajuster le BPM ;
