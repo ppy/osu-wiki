@@ -28,7 +28,7 @@ tags:
 
 *Note: The method used to slow down the song may cause it to sound muddy or robotic.*
 
-The **Half Time** mod is a [game modifier](/wiki/Game_modifier) that decreases the overall [beatmap](/wiki/Beatmap)'s speed (BPM) to 75% of the original, increases the length of the song by 33%, and decreases the [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), [and health (HP)](/wiki/Beatmapping/Health) by a small amount.
+The **Half Time** mod is a [game modifier](/wiki/Game_modifier) that decreases the overall [beatmap](/wiki/Beatmap)'s speed (BPM) to 75% of the original, increases the length of the song by 33%, and decreases the [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), [and health (HP)](/wiki/Gameplay/Health) by a small amount.
 
 ### osu!taiko
 

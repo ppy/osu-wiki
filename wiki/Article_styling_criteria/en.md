@@ -5,7 +5,7 @@ tags:
 
 # Article styling criteria
 
-*For news posts, see: [News Styling Criteria](/wiki/News_Styling_Criteria)*
+*For news posts, see: [News Styling Criteria](/wiki/News_styling_criteria)*
 
 The article styling criteria (ASC) serve as the osu! wiki's enforced styling standards to keep consistency in clarity, formatting, and layout in all articles.
 

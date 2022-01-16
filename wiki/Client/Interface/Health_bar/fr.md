@@ -9,9 +9,9 @@ tags:
 
 # Barre de vie
 
-*Pour la santé en tant que mécanique de jeu, voir : [Health](/wiki/Beatmapping/Health)*
+*Pour la santé en tant que mécanique de jeu, voir : [Health](/wiki/Gameplay/Health)*
 
-La **barre de vie** (également connue sous le nom de *HP bar*) est une barre qui affiche la [santé](/wiki/Beatmapping/Health) restante du joueur. Dans tous les [modes de jeu](/wiki/Game_mode) à l'exception du mode [osu!mania](/wiki/Game_mode/osu!mania), un indicateur se déplace le long de la barre de santé pour indiquer l'état de santé actuel du joueur.
+La **barre de vie** (également connue sous le nom de *HP bar*) est une barre qui affiche la [santé](/wiki/Gameplay/Health) restante du joueur. Dans tous les [modes de jeu](/wiki/Game_mode) à l'exception du mode [osu!mania](/wiki/Game_mode/osu!mania), un indicateur se déplace le long de la barre de santé pour indiquer l'état de santé actuel du joueur.
 
 Dans les modes [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch), si la barre de santé se vide complètement, le joueur échoue la [beatmap](/wiki/Beatmap) actuel (en supposant qu'aucun modificateur de jeu spécial n'est activé).
 

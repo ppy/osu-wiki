@@ -14,7 +14,7 @@ Il existe deux registres de langue sur le wiki : neutre et informel.
 
 Le registre neutre est la valeur par défaut sur le wiki.
 
-Le registre informel est spécial et attribué à une petite poignée d'articles. Parmi les exemples de ce registre figurent la [FAQ](/wiki/FAQ) et le [Centre d'aide](/wiki/Help_Centre).
+Le registre informel est spécial et attribué à une petite poignée d'articles. Parmi les exemples de ce registre figurent la [FAQ](/wiki/FAQ) et le [Centre d'aide](/wiki/Help_centre).
 
 Pour les deux registres, toutes les règles de cette partie des critères de style de l'article doivent être suivies. Les exceptions pour l'un ou l'autre registre seront notées.
 
@@ -34,7 +34,7 @@ Les variantes orthographiques de l'anglais britannique doivent être utilisées 
 Les noms d'articles, lorsqu'ils sont écrits dans un paragraphe, ne doivent pas prendre de majuscule, sauf s'il s'agit d'un lien qui pointe vers l'article ou d'un nom propre (par exemple, BanchoBot). Voici un exemple :
 
 ```markdown
-Si vous voulez en savoir plus sur le tchat, reportez-vous à [Console de chat](/wiki/Chat_Console).
+Si vous voulez en savoir plus sur le tchat, reportez-vous à [Console de chat](/wiki/Client/Interface/Chat_console).
 ```
 
 ### Modificateurs de jeu
