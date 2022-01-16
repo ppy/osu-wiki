@@ -130,7 +130,7 @@ Sunday, 16 January 2022:
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1ahkEH9dOcpeAWHYfpUOKo_0AjD_aIOYzmsa8fKfGBAs/edit?rm=minimal)
 - Average rank was determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 - Ties in average rank were broken by total scores
-- Only the top 32 team proceeded to the brackets
+- Only the top 32 teams proceeded to the brackets
 
 | Seed | Team | Average rank |
 | --: | :-- | --: |
