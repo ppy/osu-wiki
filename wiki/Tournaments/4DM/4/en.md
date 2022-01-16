@@ -129,11 +129,51 @@ Sunday, 16 January 2022:
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1ahkEH9dOcpeAWHYfpUOKo_0AjD_aIOYzmsa8fKfGBAs/edit?rm=minimal)
 - Average rank was determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Ties in average rank were broken by total scores
 - Only the top 32 team proceeded to the brackets
 
 | Seed | Team | Average rank |
 | --: | :-- | --: |
-<!-- | #1 | ![][flag_BR] Brazil | 2 | -->
+| #1 | ![][flag_US] United States | 2 |
+| #2 | ![][flag_FR] France | 3.2 |
+| #3 | ![][flag_TH] Thailand | 7 |
+| #4 | ![][flag_NL] Netherlands | 7.4 |
+| #5 | ![][flag_ID] Indonesia | 9.6 |
+| #6 | ![][flag_VN] Vietnam | 9.6 |
+| #7 | ![][flag_MY] Malaysia | 11 |
+| #8 | ![][flag_CA] Canada | 11 |
+| #9 | ![][flag_BR] Brazil | 11.6 |
+| #10 | ![][flag_PH] Philippines | 11.8 |
+| #11 | ![][flag_SG] Singapore | 12 |
+| #12 | ![][flag_PE] Peru | 14 |
+| #13 | ![][flag_GB] United Kingdom | 14.6 |
+| #14 | ![][flag_SE] Sweden | 14.8 |
+| #15 | ![][flag_DE] Germany | 15 |
+| #16 | ![][flag_ES] Spain | 15.6 |
+| #17 | ![][flag_TW] Taiwan | 15.8 |
+| #18 | ![][flag_AU] Australia | 16.2 |
+| #19 | ![][flag_JP] Japan | 17 |
+| #20 | ![][flag_MX] Mexico | 17 |
+| #21 | ![][flag_RU] Russian Federation | 19.8 |
+| #22 | ![][flag_PL] Poland | 21.2 |
+| #23 | ![][flag_HK] Hong Kong | 21.8 |
+| #24 | ![][flag_VE] Venezuela | 23.4 |
+| #25 | ![][flag_BE] Belgium | 23.4 |
+| #26 | ![][flag_CL] Chile | 25.2 |
+| #27 | ![][flag_DE] Denmark | 25.4 |
+| #28 | ![][flag_AR] Argentina | 25.4 |
+| #29 | ![][flag_IT] Italy | 25.6 |
+| #30 | ![][flag_DO] Dominican Republic | 26.6 |
+| #31 | ![][flag_FI] Finland | 31.2 |
+| #32 | ![][flag_PA] Panama | 31.6 |
+| #33 | ![][flag_EC] Ecuador | 31.6 |
+| #34 | ![][flag_UA] Ukraine | 31.8 |
+| #35 | ![][flag_GT] Guatemala | 34.6 |
+| #36 | ![][flag_AE] United Arab Emirates | 35.4 |
+| #37 | ![][flag_NI] Nicaragua | 35.4 |
+| #38 | ![][flag_UY] Uruguay | 35.6 |
+| #39 | ![][flag_ZA] South Africa | 38.8 |
+| #40 | ![][flag_CO] Colombia | 40 |
 
 ## Structure
 
@@ -205,6 +245,7 @@ Repeated and excessive toxic behavior toward any staff member, player, or specta
 
 If one player on a team has their account restricted while still participating in the tournament for reasons of believed cheating, multiaccounting, or anything else, this player's entire team shall be disqualified from the tournament with no exceptions. Depending on the case, the team most recently defeated in a match by the newly disqualified team may be allowed to advance in this disqualified team's place. If this happens, the result of this former match will be voided.
 
+[flag_AE]: /wiki/shared/flag/AE.gif "United Arab Emirates"
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
@@ -213,12 +254,15 @@ If one player on a team has their account restricted while still participating i
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_GT]: /wiki/shared/flag/GT.gif "Guatemala"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IL]: /wiki/shared/flag/IL.gif "Israel"
@@ -228,9 +272,11 @@ If one player on a team has their account restricted while still participating i
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NI]: /wiki/shared/flag/NI.gif "Nicaragua"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PA]: /wiki/shared/flag/PA.gif "Panama"
 [flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
@@ -241,6 +287,9 @@ If one player on a team has their account restricted while still participating i
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
 [flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
+[flag_ZA]: /wiki/shared/flag/ZA.gif "South Africa"
