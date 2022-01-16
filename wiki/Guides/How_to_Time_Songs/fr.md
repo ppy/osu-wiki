@@ -32,8 +32,8 @@ Essayez de vous immerger et d'imaginer la structure de la musique, vous pouvez y
 
 Voici le plan :
 
-1. Trouver le bon tempo (BPM) de la musique et le bon offset pour le fichier audio;
-2. Ajuster l'offset le plus précisément possible par rapport à la musique;
+1. Trouver la bonne tempo (BPM) de la musique et le bon offset pour le fichier audio ;
+2. Ajuster l'offset le plus précisément possible par rapport à la musique ;
 3. Ajuster le BPM ;
 4. Définir la bonne mesure. (4/4 ou 3/4, généralement 4/4) ;
 5. Tester la beatmap. Si nécessaire, répéter les étapes 2 et 3.
