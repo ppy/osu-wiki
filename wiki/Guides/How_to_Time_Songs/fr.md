@@ -24,7 +24,7 @@ Les préparations du fichier peuvent varier de simples coupures de certaines par
 
 ### Buts et objectifs
 
-Quasiment toutes les musiques ont un rythme, qui fonctionne de la même manière que le squelette humain. C'est la base sur laquelle toute la musique est construite; il est suivi d'instruments musicaux, et si la musique possède des paroles, elle le suit aussi. Chaque musique possède sa propre structure, et notre but ici est de la reconnaître et de la reproduire.
+Quasiment toutes les musiques ont un rythme, qui fonctionne de la même manière que le squelette humain. C'est la base sur laquelle toute la musique est construite ; elle est suivi d'instruments musicaux, et si la musique possède des paroles, elle le suit aussi. Chaque musique possède sa propre structure, et notre but ici est de la reconnaître et de la reproduire.
 
 Essayez de vous immerger et d'imaginer la structure de la musique, vous pouvez y intégrer la séparation des lignes habituelle (partition en 4/4, la mesure standard) - c'est la que les notes se situent, et la distance entre elle est donnée par le BPM de la musique (plus grand BPM = moins de temps pris pour compléter une mesure). Ceci peut-être observé à travers la chronologie de la musique sur le haut de l'écran. L'offset est la différence de temps entre le premier beat d'une mesure (offset rouge) et le temps dans le fichier .mp3. Vous pouvez aussi regarder [cet article sur Wikipédia (en anglais)](https://en.wikipedia.org/wiki/Rhythm).
 
