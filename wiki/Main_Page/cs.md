@@ -40,7 +40,7 @@ Vše od klikání na kruhy, údery do bubnů, chytání ovoce až po hraní na s
 
 [Herní módy](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Obtížnost](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Módy](/wiki/Game_modifier) • [Skóre](/wiki/Gameplay/Score) • [Replay](/wiki/Replay) • [Medajle](/wiki/Medals) • [Multi](/wiki/Multi)
+[Beatmap](/wiki/Beatmap) • [Obtížnost](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Módy](/wiki/Game_modifier) • [Skóre](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medajle](/wiki/Medals) • [Multi](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

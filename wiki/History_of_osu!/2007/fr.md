@@ -39,7 +39,7 @@ Le menu principal a été mis à jour avec un nouveau look, et beaucoup de fonct
 
 ![](img/2007-08_02.jpg "Évolution graphique des frappes")
 
-Le gameplay a été amélioré avec les débuts du [combo fire](/wiki/Glossary/Combo_fire), de la barre de [vie (ou HP)](/wiki/Beatmapping/Health), de la trainée du curseur, et des sliders plus beaux. À ce stade, osu! possède une humble collection d'environ 10 beatmaps, créées par l'équipe de test composée d'environ 5 personnes.
+Le gameplay a été amélioré avec les débuts du [combo fire](/wiki/Gameplay/Combo_fire), de la barre de [vie (ou HP)](/wiki/Gameplay/Health), de la trainée du curseur, et des sliders plus beaux. À ce stade, osu! possède une humble collection d'environ 10 beatmaps, créées par l'équipe de test composée d'environ 5 personnes.
 
 ![](img/2007-08_03.jpg "Menu de sélection de musiques pour l'éditeur")
 
@@ -93,7 +93,7 @@ Un nouvelle note, le *SS*, a été ajoutée au système de ranking, remplaçant 
 
 ![](img/2007-11_03.jpg "Test de l'utilisation d'IRC")
 
-Le [système de publication de beatmaps](/wiki/Submission) *(BSS)* a été rendu public, autorisant les utilisateurs à facilement envoyer et partager leurs créations. Cela a introduit le statut des maps [En attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) et [Classée](/wiki/Beatmap/Category#classée) pour aider à l'organisation de la collection grandissante des maps publiées. Le chat en jeu a été ajouté grâce a un client [IRC](/wiki/Community/Internet_Relay_Chat) *(Internet Relay Chat)* réalisé a partir de rien, et connecté a un serveur IRC standard (sans [Bancho](/wiki/Bancho_(server))) ; le chat étendu était visible ; les avatars et statistiques simples étaient affichés en jeu en utilisant une communication `http` ; les contrôles audios ont aussi été ajoutés au menu principal, qui jouait une musique aléatoire au démarrage ; les [replays](/wiki/Replay) pouvaient être regardés pour les score locaux et en ligne. Les joueurs pouvaient regarder d'autres joueurs (les données spectateurs étaient envoyées en brut via IRC).
+Le [système de publication de beatmaps](/wiki/Submission) *(BSS)* a été rendu public, autorisant les utilisateurs à facilement envoyer et partager leurs créations. Cela a introduit le statut des maps [En attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) et [Classée](/wiki/Beatmap/Category#classée) pour aider à l'organisation de la collection grandissante des maps publiées. Le chat en jeu a été ajouté grâce a un client [IRC](/wiki/Community/Internet_Relay_Chat) *(Internet Relay Chat)* réalisé a partir de rien, et connecté a un serveur IRC standard (sans [Bancho](/wiki/Bancho_(server))) ; le chat étendu était visible ; les avatars et statistiques simples étaient affichés en jeu en utilisant une communication `http` ; les contrôles audios ont aussi été ajoutés au menu principal, qui jouait une musique aléatoire au démarrage ; les [replays](/wiki/Gameplay/Replay) pouvaient être regardés pour les score locaux et en ligne. Les joueurs pouvaient regarder d'autres joueurs (les données spectateurs étaient envoyées en brut via IRC).
 
 ## Décembre
 

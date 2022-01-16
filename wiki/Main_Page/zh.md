@@ -38,7 +38,7 @@ osu! 的物件、要素、机制与竞技内容。
 
 [游戏模式](/wiki/Game_mode)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[谱面](/wiki/Beatmap) • [难度](/wiki/Beatmap/Difficulty) • [物件](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [分数](/wiki/Gameplay/Score) • [回放](/wiki/Replay) • [奖章](/wiki/Medals) • [多人游戏](/wiki/Multi)
+[谱面](/wiki/Beatmap) • [难度](/wiki/Beatmap/Difficulty) • [物件](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [分数](/wiki/Gameplay/Score) • [回放](/wiki/Gameplay/Replay) • [奖章](/wiki/Medals) • [多人游戏](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

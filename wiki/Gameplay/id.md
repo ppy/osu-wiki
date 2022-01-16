@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 091042b514b2b47faad0d1031030cb1d43253f63
+---
+
 # Gameplay
 
 - [Akurasi](/wiki/Gameplay/Accuracy)
@@ -9,9 +14,9 @@
 - [Alat input](/wiki/Gameplay/Input_device)
 - [Judgement](/wiki/Gameplay/Judgement)
 - [Mind block](/wiki/Gameplay/Mind_block)
-- [Notelock](/wiki/Gameplay/Notelock)
+- [Notelock](/wiki/Gameplay/Judgement/Notelock)
 - [Play Time](/wiki/Gameplay/Play_time)
 - [Score](/wiki/Gameplay/Score)
-- [Slider break](/wiki/Gameplay/Slider_break)
+- [Slider break](/wiki/Gameplay/Judgement/Slider_break)
 - [Spectate](/wiki/Gameplay/Spectating)
 - [Sampul tablet](/wiki/Gameplay/Tablet_cover)

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 091042b514b2b47faad0d1031030cb1d43253f63
+---
+
 # Gameplay
 
 - [Précision](/wiki/Gameplay/Accuracy)
@@ -9,9 +14,9 @@
 - [Dispositif d'entrée](/wiki/Gameplay/Input_device)
 - [Jugement](/wiki/Gameplay/Judgement)
 - [Mind block](/wiki/Gameplay/Mind_block)
-- [Notelock](/wiki/Gameplay/Notelock)
+- [Notelock](/wiki/Gameplay/Judgement/Notelock)
 - [Temps de jeu](/wiki/Gameplay/Play_time)
 - [Score](/wiki/Gameplay/Score)
-- [Slider break](/wiki/Gameplay/Slider_break)
+- [Slider break](/wiki/Gameplay/Judgement/Slider_break)
 - [Spectateurs](/wiki/Gameplay/Spectating)
 - [Protection pour tablette](/wiki/Gameplay/Tablet_cover)

@@ -275,7 +275,7 @@ Can tüketimi ve can kazanımını hesaplamak için kullanılan sistem karmaşı
 ### Tarihçe
 
 - osu!'nun eski versiyonu, değiştirilmeden veya kaldırılmadan önce *Ouendan* serisindeki bazı özellikleri taklit ederdi.
-  - Yeni kombo eşiklerine ulaşıldığında [kombo alevinin](/wiki/Glossary/Combo_fire) çıkması.
+  - Yeni kombo eşiklerine ulaşıldığında [kombo alevinin](/wiki/Gameplay/Combo_fire) çıkması.
   - Adı *osu!default by peppy* olan, v1 tema özelliklerini kullanan varsayılan temanın ilk versiyonu *Ouendan* arayüzünün neredeyse birebir kopyasını içerirdi.
     - v2 tema özelliklerini kullanan daha güzel bir varsayılan tema ile değiştirildi.
   - v1 ve v2 temaları arasındaki en önemli davranış farkı, spinnerdır.
