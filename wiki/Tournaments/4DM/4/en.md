@@ -7,13 +7,11 @@ tags:
 
 # 4 Digit osu!mania World Cup 4
 
-![4DM4 logo](img/banner.png)
+![4DM4 logo](img/banner.jpg)
 
 The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), and ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061). This was the fourth installment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
-
-<!-- ![4DM4 schedule](img/banner-schedule.png) -->
 
 | Event | Timestamp |
 | --: | :-- |
@@ -31,10 +29,6 @@ The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based
 
 ## Prizes
 
-<!-- ![4DM4 prizes](img/banner-prizes.png) -->
-
-![](img/badge.png "4DM4 winner badge")
-
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, $35 for each team member |
@@ -42,12 +36,7 @@ The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $10 for each team member |
 | *4th-8th place* | 1 month of osu!supporter for each team member |
 
-<!-- 
-Generous donations from ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) helped fund some of the prizes. -->
-
 ## Staff
-
-<!-- ![4DM4 staff](img/banner-staff.png) -->
 
 The 4 Digit osu!mania World Cup 4 was run by various community members.
 
@@ -66,8 +55,6 @@ The 4 Digit osu!mania World Cup 4 was run by various community members.
 | Wiki editor | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190) |
 
 ## Links
-
-<!-- ![4DM4 links](img/banner-links.png) -->
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1452835)
 - [4DM Discord server](https://discord.gg/NzYtsxV)
@@ -149,8 +136,6 @@ Sunday, 16 January 2022:
 <!-- | #1 | ![][flag_BR] Brazil | 2 | -->
 
 ## Structure
-
-<!-- ![4DM4 structure](img/banner-structure.png) -->
 
 4DM4 will attempt to closely follow the rules of the most recent 4k osu!mania World Cup whose wiki page is hyperlinked [here](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2021_4K).
 
