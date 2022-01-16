@@ -431,7 +431,7 @@ Depuis l'icône *Entrées* dans les *Options* comme mo,tré ci-dessus, sous la s
 
 #### Game over ? Qu'est-ce que j'ai raté ?
 
-*Explication complète: [Replay](/wiki/Replay)*
+*Explication complète: [Replay](/wiki/Gameplay/Replay)*
 
 Après avoir raté une beatmap, appuyer sur la touche `F1` relance un replay de la partie. Le replay se termine quand l'écran noircit, avec le osu!logo au milieu, plutôt que l'écran de game over. Pour revoir le replay encore une fois, maintenez la touche grave/tilde (\`/~) (peut être changé dans les Options; dans *Configurer les touches* dans **Quick Retry (hold briefly)**) out `Ctrl`+`R` pour un moment.
 

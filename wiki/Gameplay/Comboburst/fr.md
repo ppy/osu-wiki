@@ -7,7 +7,7 @@ tags:
 
 # Combo burst
 
-Les **combo bursts** célèbrent l'obtention d'un [combo milestone](/wiki/Glossary/Combo_milestone) en faisant clignoter une image d'éclat de combo. Ces images sont différentes pour chaque mode de jeu.
+Les **combo bursts** célèbrent l'obtention d'un [combo milestone](/wiki/Gameplay/Combo_milestone) en faisant clignoter une image d'éclat de combo. Ces images sont différentes pour chaque mode de jeu.
 
 - Dans les modes [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch), un personnage surgit du côté gauche ou droit de la fenêtre. Par défaut, ce personnage sera respectivement [pippi](/wiki/Mascots#-pippi) et [Yuzu](/wiki/Mascots#-yuzu).
 - Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), une collection de fleurs éclatera derrière le [pippidon](/wiki/Mascots#don).

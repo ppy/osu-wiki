@@ -12,4 +12,4 @@ tags:
 
 ![フルコンボと壊れたコンボのスコアのスクリーンショット](img/combo-comparison.png "一番上のスコアがフルコンボで、一番下のスコアが壊れたコンボです。")
 
-[コンボの倍率効果](/wiki/Glossary/Combo_multiplier_effect)により、[osu!](/wiki/Game_mode/osu!)、[osu!taiko](/wiki/Game_mode/osu!taiko)、[osu!catch](/wiki/Game_mode/osu!catch)の[ゲームモード](/wiki/Game_mode)では、フルコンボが最も多くのスコアを獲得します。
+[コンボの倍率効果](/wiki/Gameplay/Combo_multiplier_effect)により、[osu!](/wiki/Game_mode/osu!)、[osu!taiko](/wiki/Game_mode/osu!taiko)、[osu!catch](/wiki/Game_mode/osu!catch)の[ゲームモード](/wiki/Game_mode)では、フルコンボが最も多くのスコアを獲得します。

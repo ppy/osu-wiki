@@ -6,9 +6,9 @@ tags:
 
 # 激
 
-*次も参照してください: [喝](/wiki/Katu)*
+*次も参照してください: [喝](/wiki/Gameplay/Judgement/Katu)*
 
-激、またはエリートビートは、全ての音に対して可能な限り高い[精度](/wiki/Gameplay/Accuracy)で[コンボ](/wiki/Beatmapping/Combo)を完成させた場合の[判定](/wiki/Gameplay/Judgement)用語です。激は300点の[喝](/wiki/Katu)と比較して、より高いHPブーストを得ることができます。
+激、またはエリートビートは、全ての音に対して可能な限り高い[精度](/wiki/Gameplay/Accuracy)で[コンボ](/wiki/Beatmapping/Combo)を完成させた場合の[判定](/wiki/Gameplay/Judgement)用語です。激は300点の[喝](/wiki/Gameplay/Judgement/Katu)と比較して、より高いHPブーストを得ることができます。
 
 激はニンテンドーDSのゲーム[押忍！闘え！応援団](/wiki/iNiS_games)に由来しており、[osu!](/wiki/Game_mode/osu!)のベースとなっています。
 

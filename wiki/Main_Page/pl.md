@@ -14,7 +14,7 @@ Witaj na wiki osu!, projekcie skupiającym szeroką gamę informacji powiązanyc
 
 # Podstawy
 
-[Instalacja](/wiki/Client/Installation) • [Rejestracja](/wiki/Registration) • [Centrum pomocy](/wiki/Help_Centre) • [Najczęściej zadawane pytania](/wiki/FAQ)
+[Instalacja](/wiki/Client/Installation) • [Rejestracja](/wiki/Registration) • [Centrum pomocy](/wiki/Help_centre) • [Najczęściej zadawane pytania](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -32,7 +32,7 @@ Witaj na wiki osu!, projekcie skupiającym szeroką gamę informacji powiązanyc
 
 [Tryby gry](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmapa](/wiki/Beatmap) • [Obiekty rozgrywki](/wiki/Hit_object) • [Modyfikatory](/wiki/Game_modifier) • [Wynik](/wiki/Gameplay/Score) • [Powtórka](/wiki/Replay) • [Tryb wieloosobowy](/wiki/Multi)
+[Beatmapa](/wiki/Beatmap) • [Obiekty rozgrywki](/wiki/Hit_object) • [Modyfikatory](/wiki/Game_modifier) • [Wynik](/wiki/Gameplay/Score) • [Powtórka](/wiki/Gameplay/Replay) • [Tryb wieloosobowy](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

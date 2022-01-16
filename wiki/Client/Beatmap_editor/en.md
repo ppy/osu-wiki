@@ -38,7 +38,7 @@ Other components of the beatmap editor include:
 - [AiMod](AiMod): An automated system that reports problems in a beatmap
 - [Beat snap divisor](Beat_Snap_Divisor): Determines how objects snap to the timeline
 - [Distance snap](Distance_snap): The multiplier that affects how close or far hit objects are placed from each other
-- [Kiai time](/wiki/Kiai_time): Special timing sections that help emphasise a part of a beatmap
+- [Kiai time](/wiki/Gameplay/Kiai_time): Special timing sections that help emphasise a part of a beatmap
 - [Menu](Menu): Helps you navigate the beatmap editor
 - [SB load](SB_Load): A number used to tell how demanding a storyboard is
 - [Timelines](Timelines): Displays placed hit objects, breaks, and more

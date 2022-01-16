@@ -14,7 +14,7 @@ tags:
 1. The [timing windows](/wiki/Beatmapping/Overall_difficulty#timing) of two hit objects overlap.
 2. The first object of those two has not been judged yet (hit or missed).
 
-In this case, the second object is said to be *locked* behind the first one, which makes osu! ignore the player's input on it until the first object's hit window has passed. Notelock only becomes a problem if the player is unable to return to the previous object and interact with it properly, thus removing the lock. In this case, a locked note may cause a cascading failure, forcing the player to miss more and more subsequent objects, until they run out of [health](/wiki/Beatmapping/Health) and fail the beatmap.
+In this case, the second object is said to be *locked* behind the first one, which makes osu! ignore the player's input on it until the first object's hit window has passed. Notelock only becomes a problem if the player is unable to return to the previous object and interact with it properly, thus removing the lock. In this case, a locked note may cause a cascading failure, forcing the player to miss more and more subsequent objects, until they run out of [health](/wiki/Gameplay/Health) and fail the beatmap.
 
 When notelock occurs, the clicked hit circle will shake. This does not happen for sliders and spinners.
 

@@ -147,7 +147,7 @@ Allez au point où le BPM change, appuyez sur F6 pour ouvrir le panneau Timing, 
 | Nom | Description |
 | :-- | :-- |
 | Timing Point : | Le point de synchronisation ou "ligne rouge" est là pour synchroniser votre chanson. Sans lui, vous ne pouvez pas commencer le mapping. Reportez-vous aux étapes ci-dessus pour [*timer*](#timing) votre chanson. |
-| Inherited Point : | Le point hérité ou "Ligne verte" est utilisé pour ajouter des "effets" à votre beatmap. Avec ces effets, vous pouvez modifier le volume, l'ensemble d'échantillons, le slider velocity (SV) et vous pouvez ajouter un [Kiai Time](/wiki/Kiai_time). |
+| Inherited Point : | Le point hérité ou "Ligne verte" est utilisé pour ajouter des "effets" à votre beatmap. Avec ces effets, vous pouvez modifier le volume, l'ensemble d'échantillons, le slider velocity (SV) et vous pouvez ajouter un [Kiai Time](/wiki/Gameplay/Kiai_time). |
 | Kiai : | Le Kiai peut être sélectionné dans "Style" et peut être ajouté entre deux points hérités. Le Kiai Time est normalement utilisé dans le refrain de votre chanson. Il fera apparaître des fontaines étoilées des deux côtés de l'écran et est utilisé pour mettre en valeur une section de la beatmap. |
 
 ### Pattern

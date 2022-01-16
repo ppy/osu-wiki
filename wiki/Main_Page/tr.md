@@ -14,7 +14,7 @@ osu! ile ilgili çok çeşitli bilgiler içeren bir proje olan osu! wiki'ye hoş
 
 # Başlarken
 
-[Kurulum](/wiki/Client/Installation) • [Kayıt](/wiki/Registration) • [Yardım Merkezi](/wiki/Help_Centre) • [SSS](/wiki/FAQ)
+[Kurulum](/wiki/Client/Installation) • [Kayıt](/wiki/Registration) • [Yardım Merkezi](/wiki/Help_centre) • [SSS](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -32,7 +32,7 @@ osu! ile ilgili çok çeşitli bilgiler içeren bir proje olan osu! wiki'ye hoş
 
 [Oyun modları](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Vuruş objesi](/wiki/Hit_object) • [Modlar](/wiki/Game_modifier) • [Skor](/wiki/Gameplay/Score) • [Tekrar](/wiki/Replay) • [Çoklu](/wiki/Multi)
+[Beatmap](/wiki/Beatmap) • [Vuruş objesi](/wiki/Hit_object) • [Modlar](/wiki/Game_modifier) • [Skor](/wiki/Gameplay/Score) • [Tekrar](/wiki/Gameplay/Replay) • [Çoklu](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

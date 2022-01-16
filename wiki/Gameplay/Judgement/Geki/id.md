@@ -7,7 +7,7 @@ no_native_review: true
 
 # Geki
 
-*Lihat juga: [Katu](/wiki/Katu)*
+*Lihat juga: [Katu](/wiki/Gameplay/Judgement/Katu)*
 
 **Geki (激)** atau *Elite Beat!* merupakan sebuah indikator dalam [judgement](/wiki/Gameplay/Judgement) yang akan muncul setiap kali seorang pemain berhasil mengenai seluruh objek yang ada dalam suatu rangkaian combo dengan [akurasi](/wiki/Gameplay/Accuracy) yang sempurna. Apabila seorang pemain berhasil memunculkan Geki, *health bar* yang dimiliki oleh pemain yang bersangkutan akan terisi ulang secara signifikan.
 

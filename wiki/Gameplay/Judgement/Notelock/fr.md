@@ -14,7 +14,7 @@ tags:
 1. Les [timing windows](/wiki/Beatmapping/Overall_difficulty#timing) de deux objets se chevauchent.
 2. Le premier de ces deux objets n'a pas encore été jugé (touché ou manqué).
 
-Dans ce cas, on dit que le deuxième objet est *verrouillé* derrière le premier, ce qui fait qu'osu! ignore les actions du joueur sur cet objet jusqu'à ce que la hit window du premier objet soit passée. Le notelock ne devient un problème que si le joueur est incapable de revenir à l'objet précédent et de le jouer, ce qui lèverait le verrouillage. Dans ce cas, une note verrouillée peut provoquer un échec en forçant le joueur à manquer de plus en plus d'objets suivants, jusqu'à ce qu'il n'ait plus de [santé](/wiki/Beatmapping/Health) et échoue la beatmap.
+Dans ce cas, on dit que le deuxième objet est *verrouillé* derrière le premier, ce qui fait qu'osu! ignore les actions du joueur sur cet objet jusqu'à ce que la hit window du premier objet soit passée. Le notelock ne devient un problème que si le joueur est incapable de revenir à l'objet précédent et de le jouer, ce qui lèverait le verrouillage. Dans ce cas, une note verrouillée peut provoquer un échec en forçant le joueur à manquer de plus en plus d'objets suivants, jusqu'à ce qu'il n'ait plus de [santé](/wiki/Gameplay/Health) et échoue la beatmap.
 
 Lorsque le notelock se produit, l'objet bloqué tremble. Cela ne se produit pas pour les sliders et les spinners.
 
