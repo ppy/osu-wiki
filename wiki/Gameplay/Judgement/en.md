@@ -16,3 +16,7 @@ stub: true
 ## Concepts
 
 - [Combobreak](Combobreak)
+- [Geki](Geki)
+- [Katu](Katu)
+- [Notelock](Notelock)
+- [Slider break](Slider_break)
