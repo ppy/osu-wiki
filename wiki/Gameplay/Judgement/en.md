@@ -13,7 +13,7 @@ stub: true
 - [osu!catch](osu!catch)
 - [osu!mania](osu!mania)
 
-## Concepts
+## Mechanics
 
 - [Combobreak](Combobreak)
 - [Geki](Geki)
