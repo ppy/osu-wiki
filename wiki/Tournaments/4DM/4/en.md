@@ -14,7 +14,7 @@ The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based
 
 ## Tournament schedule
 
-![4DM4 schedule](img/banner-schedule.png)
+<!-- ![4DM4 schedule](img/banner-schedule.png) -->
 
 | Event | Timestamp |
 | --: | :-- |
@@ -32,7 +32,7 @@ The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based
 
 ## Prizes
 
-![4DM4 prizes](img/banner-prizes.png)
+<!-- ![4DM4 prizes](img/banner-prizes.png) -->
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -47,7 +47,7 @@ Generous donations from ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) 
 
 ## Staff
 
-![4DM4 staff](img/banner-staff.png)
+<!-- ![4DM4 staff](img/banner-staff.png) -->
 
 The 4 Digit osu!mania World Cup 4 was run by various community members.
 
@@ -61,7 +61,7 @@ The 4 Digit osu!mania World Cup 4 was run by various community members.
 
 ## Links
 
-![4DM4 links](img/banner-links.png)
+<!-- ![4DM4 links](img/banner-links.png) -->
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1452835)
 - [4DM Discord server](https://discord.gg/NzYtsxV)
@@ -121,7 +121,7 @@ Saturday, 15 January 2022:
 | Spain ![][flag_ES] | 0 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/96534534) |
 | Sweden ![][flag_SE] | 3 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/96536357) |
 | Singapore ![][flag_SG] | 3 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/96537056) |
-| **United Kingdom** ![][flag_UK] | **5** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/96538355) |
+| **United Kingdom** ![][flag_GB] | **5** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/96538355) |
 | **Peru** ![][flag_PE] | **5** | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/96543171) |
 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/96554977) |
 
@@ -144,7 +144,7 @@ Sunday, 16 January 2022:
 
 ## Structure
 
-![4DM4 structure](img/banner-structure.png)
+<!-- ![4DM4 structure](img/banner-structure.png) -->
 
 4DM4 will attempt to closely follow the rules of the most recent 4k osu!mania World Cup whose wiki page is hyperlinked [here](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2021_4K).
 
