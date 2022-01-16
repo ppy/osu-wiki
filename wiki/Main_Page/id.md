@@ -76,7 +76,7 @@ Ketahui prosedur-prosedur hukum dan peraturan-peraturan yang berlaku di osu! leb
 
 Peraturan media: [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) • [Konten eksplisit](/wiki/Rules/Explicit_Content) • [Aturan konten musik](/wiki/Rules/Song_Content_Rules) • [Pertimbangan konten visual](/wiki/Rules/Visual_Content_Considerations)
 
-[Halaman legal](/wiki/Legal): [Ketentuan layanan osu!](/wiki/Legal/Terms) • [Ketentuan privasi](/wiki/Legal/Privacy) • [Ketentuan hak cipta (DMCA)](/wiki/Legal/Copyright) • [Lisensi musik](/wiki/Legal/Music_Licensing)
+[Halaman legal](/wiki/Legal): [Ketentuan layanan osu!](/wiki/Legal/Terms) • [Ketentuan privasi](/wiki/Legal/Privacy) • [Ketentuan hak cipta (DMCA)](/wiki/Legal/Copyright) • [Lisensi musik](/wiki/Legal/Music_licensing)
   
 </div>
 <div class="wiki-main-page-panel">

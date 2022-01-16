@@ -76,7 +76,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 Медиа: [Рекомендации для медиа](/wiki/Rules/Content_Usage_Guidelines) • [Откровенное содержимое](/wiki/Rules/Explicit_Content) • [Правила для песен](/wiki/Rules/Song_Content_Rules) • [Критерии визуального содержания](/wiki/Rules/Visual_Content_Considerations)
 
-[Правовые документы](/wiki/Legal): [Пользовательское соглашение](/wiki/Legal/Terms) • [Политика конфиденциальности](/wiki/Legal/Privacy) • [Защита авторских прав (DMCA)](/wiki/Legal/Copyright) • [Лицензирование музыки](/wiki/Legal/Music_Licensing)
+[Правовые документы](/wiki/Legal): [Пользовательское соглашение](/wiki/Legal/Terms) • [Политика конфиденциальности](/wiki/Legal/Privacy) • [Защита авторских прав (DMCA)](/wiki/Legal/Copyright) • [Лицензирование музыки](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">

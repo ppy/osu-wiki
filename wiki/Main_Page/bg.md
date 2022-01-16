@@ -75,7 +75,7 @@ no_native_review: true
 
 Медийни регламенти: [Указания за употреба на медия](/wiki/Rules/Content_Usage_Guidelines) • [Explicit съдържание](/wiki/Rules/Explicit_Content) • [Правила за музикално съдържание](/wiki/Rules/Song_Content_Rules) • [Съображения за визуално съдържание](/wiki/Rules/Visual_Content_Considerations)
 
-[Страници с условия](/wiki/Legal): [Условия за ползване](/wiki/Legal/Terms) • [Поверителност](/wiki/Legal/Privacy) • [Авторско право (DMCA)](/wiki/Legal/Copyright) • [Лицензирана музика](/wiki/Legal/Music_Licensing)
+[Страници с условия](/wiki/Legal): [Условия за ползване](/wiki/Legal/Terms) • [Поверителност](/wiki/Legal/Privacy) • [Авторско право (DMCA)](/wiki/Legal/Copyright) • [Лицензирана музика](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">

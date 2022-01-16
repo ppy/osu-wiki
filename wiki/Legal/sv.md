@@ -1,12 +1,8 @@
----
-no_native_review: true
----
+# Juridisk information
 
-# Legal
+Indexsida för alla juridiska artiklar. Dessa länkar finns även i sidfoten längst ned på osu!-hemsidan.
 
-Indexsida för alla juridiska artiklar. Dessa länkar finns också i sidfoten på osu! hemsidan.
-
-- [osu! Copyright Policy](Copyright)
-- [osu! Musiklicencser](Music_licensing)
-- [osu! Integritetspolicy](Privacy)
-- [osu! Användarvillkor](Terms)
+- [osu!-copyright policy](Copyright)
+- [osu!-musiklicensiering](Music_licensing)
+- [osu!-sekretesspolicy](Privacy)
+- [osu!-användarvillkor](Terms)

@@ -24,7 +24,7 @@ Curious where the hype behind **Haywyre** comes from? His presence on osu! start
 
 ### Insight
 
-Play through [the map above](https://osu.ppy.sh/beatmapsets/848400) hosted by [Twigglykun](https://osu.ppy.sh/users/9126943)!
+Play through [the map above](https://osu.ppy.sh/beatmapsets/848400) hosted by [Twiggykun](https://osu.ppy.sh/users/9126943)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/230/Songs/Haywyre%20-%20Insight.mp3" type="audio/mpeg">
