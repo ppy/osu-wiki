@@ -151,7 +151,7 @@ However, even though the official osu! developers have/had no intention of genui
 
 ### Dancing Auto mod cursor/dancing pippi
 
-"Dancing pippi" (also known as "dancing Auto mod cursor") is the nickname given to one of osu!'s April Fools' jokes for 2016 in which an update was released that caused the game cursor in [Auto](/wiki/Game_modifier/Auto) mod [replays](/wiki/Replay) to circle around the current [hit object](/wiki/Hit_object) in pixel-perfect fashion before eventually hitting the object right on time, in contrast to the Auto mod's usual robotic and perfectly straight movements. The aforementioned update was rolled back in a subsequent one the next day [[47,48,49,50]][r]. <!--still needs official official verification-->
+"Dancing pippi" (also known as "dancing Auto mod cursor") is the nickname given to one of osu!'s April Fools' jokes for 2016 in which an update was released that caused the game cursor in [Auto](/wiki/Game_modifier/Auto) mod [replays](/wiki/Gameplay/Replay) to circle around the current [hit object](/wiki/Hit_object) in pixel-perfect fashion before eventually hitting the object right on time, in contrast to the Auto mod's usual robotic and perfectly straight movements. The aforementioned update was rolled back in a subsequent one the next day [[47,48,49,50]][r]. <!--still needs official official verification-->
 
 ### Free osu! supporter tags
 

@@ -255,7 +255,7 @@ En outre, chaque tick de début, de fin et de répétition du slider rapporte 30
 
 - Un cercle de 300, 100 ou 50 est attribué à partir d'une frappe normale, selon la précision de la frappe.
 - Un miss est donné si un cercle a été frappé trop tôt ou n'a pas été frappé du tout.
-  - Si vous tapez dessus trop tôt, l'objet va trembler, on parle ici d'un [Notelock](/wiki/Gameplay/Notelock). Techniquement, il ne se passe rien, si ce n'est que l'on peut voir que l'objet a été touché trop tôt.
+  - Si vous tapez dessus trop tôt, l'objet va trembler, on parle ici d'un [Notelock](/wiki/Gameplay/Judgement/Notelock). Techniquement, il ne se passe rien, si ce n'est que l'on peut voir que l'objet a été touché trop tôt.
 
 **Hold-circle**
 
