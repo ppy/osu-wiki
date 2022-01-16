@@ -2,9 +2,8 @@
 tags:
   - 4DM
   - 4DM4
+  - 4DMWC4
 ---
-
-<!-- TODO: logo, badge images, figure out prizes  -->
 
 # 4 Digit osu!mania World Cup 4
 
