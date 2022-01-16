@@ -13,7 +13,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # Початок роботи
 
-[Встановлення](/wiki/Client/Installation) • [Реєстрація](/wiki/Registration) • [Центр допомоги](/wiki/Help_Centre) • [ЧаПи](/wiki/FAQ)
+[Встановлення](/wiki/Client/Installation) • [Реєстрація](/wiki/Registration) • [Центр допомоги](/wiki/Help_centre) • [ЧаПи](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">

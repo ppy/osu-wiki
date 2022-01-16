@@ -16,7 +16,7 @@ no_native_review: true
 
 幫助您入門 osu! 的重要文章及指南。如果發生任何問題或不確定的情況，請前往[幫助論壇](https://osu.ppy.sh/forum/5)。
 
-[規範](/wiki/Rules) • [安裝](/wiki/Client/Installation) • [註冊](/wiki/Registration) • [幫助中心](/wiki/Help_Centre)
+[規範](/wiki/Rules) • [安裝](/wiki/Client/Installation) • [註冊](/wiki/Registration) • [幫助中心](/wiki/Help_centre)
 
 [聊天控制台](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [常見問題](/wiki/FAQ) • [指南](/wiki/Guides) • [術語表](/wiki/Glossary)
 
@@ -86,9 +86,9 @@ no_native_review: true
 
 這裡存放著常見問題的解答。
 
-[幫助中心](/wiki/Help_Centre) • [效能問題排解](/wiki/Performance_troubleshooting) • [帳號支援團隊](/wiki/People/The_Team/Account_support_team) • [幫助論壇](https://osu.ppy.sh/forum/5)
+[幫助中心](/wiki/Help_centre) • [效能問題排解](/wiki/Performance_troubleshooting) • [帳號支援團隊](/wiki/People/The_Team/Account_support_team) • [幫助論壇](https://osu.ppy.sh/forum/5)
 
-個人檔案限制：[禁言](/wiki/Silence) • [帳號限制](/wiki/Help_Centre/Account_Restrictions)
+個人檔案限制：[禁言](/wiki/Silence) • [帳號限制](/wiki/Help_centre/Account_restrictions)
 
 各盡其責：[如何協助](/wiki/Community/How_you_can_help!) • [回報不良行為](/wiki/Reporting_bad_behaviour) • [回報騷擾行為](/wiki/Reporting_bad_behaviour/Abuse) • [回報作弊玩家](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 

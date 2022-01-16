@@ -14,7 +14,7 @@ no_native_review: true
 
 这些文章将帮助你更好地了解 osu!，如果有不清楚的地方也可以参考[论坛里的帮助版](https://osu.ppy.sh/forum/5)
 
-[规章制度](/wiki/Rules) • [安装](/wiki/Client/Installation) • [注册](/wiki/Registration) • [帮助中心](/wiki/Help_Centre)
+[规章制度](/wiki/Rules) • [安装](/wiki/Client/Installation) • [注册](/wiki/Registration) • [帮助中心](/wiki/Help_centre)
 
 [聊天面板](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [常见问题](/wiki/FAQ) • [教程](/wiki/Guides) • [Glossary](/wiki/Glossary)
 
@@ -84,9 +84,9 @@ Ranking 指的是让谱面获得排行榜功能，从而为众人所知的过程
 
 常见问题的解决方案可在此找到。
 
-[帮助中心](/wiki/Help_Centre) • [性能问题检查](/wiki/Performance_troubleshooting) • [账号支持团队](/wiki/People/The_Team/Account_support_team) • [帮助论坛](https://osu.ppy.sh/forum/5)
+[帮助中心](/wiki/Help_centre) • [性能问题检查](/wiki/Performance_troubleshooting) • [账号支持团队](/wiki/People/The_Team/Account_support_team) • [帮助论坛](https://osu.ppy.sh/forum/5)
 
-账号受限：[禁言](/wiki/Silence) • [账号受限](/wiki/Help_Centre/Account_Restrictions)
+账号受限：[禁言](/wiki/Silence) • [账号受限](/wiki/Help_centre/Account_restrictions)
 
 我能做什么：[如何提供帮助](/wiki/Community/How_you_can_help!) • [举报不当行为](/wiki/Reporting_bad_behaviour) • [举报滥用行为](/wiki/Reporting_bad_behaviour/Abuse) • [举报作弊行为](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 

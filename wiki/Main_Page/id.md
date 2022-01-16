@@ -15,7 +15,7 @@ Selamat datang di osu! wiki, sebuah basis pengetahuan open-source yang mengandun
   
 Artikel-artikel berikut ini akan memandumu untuk dapat mengenal osu! lebih dalam. Apabila kamu memiliki pertanyaan-pertanyaan lebih lanjut, harap kunjungi [sub-forum Help](https://osu.ppy.sh/forum/5).
 
-[Peraturan](/wiki/Rules) • [Instalasi](/wiki/Client/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat Bantuan](/wiki/Help_Centre)
+[Peraturan](/wiki/Rules) • [Instalasi](/wiki/Client/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat Bantuan](/wiki/Help_centre)
   
 [Konsol chat](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Panduan](/wiki/Guides) • [Glosarium](/wiki/Glossary)
 
@@ -85,9 +85,9 @@ Peraturan media: [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guideline
 
 Temukan jawaban atas pertanyaan-pertanyaan yang umum diajukan di sini.
 
-[Pusat bantuan](/wiki/Help_Centre) • [Pemecahan masalah kinerja osu!](/wiki/Performance_troubleshooting) • [Account support team](/wiki/People/The_Team/Account_support_team) • [Help](https://osu.ppy.sh/forum/5)
+[Pusat bantuan](/wiki/Help_centre) • [Pemecahan masalah kinerja osu!](/wiki/Performance_troubleshooting) • [Account support team](/wiki/People/The_Team/Account_support_team) • [Help](https://osu.ppy.sh/forum/5)
 
-Pembatasan profil: [Silence](/wiki/Silence) • [Pembatasan akun](/wiki/Help_Centre/Account_Restrictions)
+Pembatasan profil: [Silence](/wiki/Silence) • [Pembatasan akun](/wiki/Help_centre/Account_restrictions)
 
 Lakukan bagianmu: [Bagaimana dan apa yang harus dibantu](/wiki/Community/How_you_can_help!) • [Laporkan tindakan buruk](/wiki/Reporting_bad_behaviour) • [Laporkan penyalahgunaan](/wiki/Reporting_bad_behaviour/Abuse) • [Laporkan kecurangan](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 

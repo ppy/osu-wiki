@@ -14,7 +14,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 # 시작하기
 
-[설치하기](/wiki/Client/Installation) • [회원가입](/wiki/Registration) • [고객 지원](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[설치하기](/wiki/Client/Installation) • [회원가입](/wiki/Registration) • [고객 지원](/wiki/Help_centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">

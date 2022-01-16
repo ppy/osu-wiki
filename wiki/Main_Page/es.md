@@ -16,7 +16,7 @@ Bienvenido al wiki de osu!, un proyecto que contiene una amplia gama de informac
 
 # Empezamos
 
-[Instalación](/wiki/Client/Installation) • [Registro](/wiki/Registration) • [Centro de ayuda](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[Instalación](/wiki/Client/Installation) • [Registro](/wiki/Registration) • [Centro de ayuda](/wiki/Help_centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">

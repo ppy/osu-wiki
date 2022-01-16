@@ -14,7 +14,7 @@ Witaj na wiki osu!, projekcie skupiającym szeroką gamę informacji powiązanyc
 
 # Podstawy
 
-[Instalacja](/wiki/Client/Installation) • [Rejestracja](/wiki/Registration) • [Centrum pomocy](/wiki/Help_Centre) • [Najczęściej zadawane pytania](/wiki/FAQ)
+[Instalacja](/wiki/Client/Installation) • [Rejestracja](/wiki/Registration) • [Centrum pomocy](/wiki/Help_centre) • [Najczęściej zadawane pytania](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">

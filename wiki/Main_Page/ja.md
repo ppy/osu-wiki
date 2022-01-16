@@ -13,7 +13,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 # はじめに
 
-[インストール](/wiki/Client/Installation) • [登録](/wiki/Registration) • [ヘルプセンター](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[インストール](/wiki/Client/Installation) • [登録](/wiki/Registration) • [ヘルプセンター](/wiki/Help_centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
