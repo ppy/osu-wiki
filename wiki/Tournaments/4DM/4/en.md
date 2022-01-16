@@ -34,6 +34,8 @@ The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based
 
 <!-- ![4DM4 prizes](img/banner-prizes.png) -->
 
+![](img/badge.png "4DM4 winner badge")
+
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, $35 for each team member |
@@ -41,7 +43,6 @@ The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $10 for each team member |
 | *4th-8th place* | 1 month of osu!supporter for each team member |
 
-<!-- ![](img/badge.jpg "4DM3 winner badge") -->
 <!-- 
 Generous donations from ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) helped fund some of the prizes. -->
 
