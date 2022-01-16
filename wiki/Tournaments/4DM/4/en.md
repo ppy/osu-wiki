@@ -14,6 +14,8 @@ The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based
 
 ## Tournament schedule
 
+![4DM4 schedule](img/banner-schedule.png)
+
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2021-11-20/2021-12-11 |
@@ -30,6 +32,8 @@ The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based
 
 ## Prizes
 
+![4DM4 prizes](img/banner-prizes.png)
+
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, $35 for each team member |
@@ -43,6 +47,8 @@ Generous donations from ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) 
 
 ## Organisation
 
+![4DM4 staff](img/banner-staff.png)
+
 The 4 Digit osu!mania World Cup 4 was run by various community members.
 
 | Position | Member(s) |
@@ -54,6 +60,8 @@ The 4 Digit osu!mania World Cup 4 was run by various community members.
 | Wiki editor | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190) |
 
 ## Links
+
+![4DM4 links](img/banner-links.png)
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1452835)
 - [4DM Discord server](https://discord.gg/NzYtsxV)
@@ -126,7 +134,9 @@ Sunday, 16 January 2022:
 | --: | :-- | --: |
 <!-- | #1 | ![][flag_BR] Brazil | 2 | -->
 
-## Ruleset
+## Structure
+
+![4DM4 structure](img/banner-structure.png)
 
 4DM4 will attempt to closely follow the rules of the most recent 4k osu!mania World Cup whose wiki page is hyperlinked [here](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2021_4K).
 
