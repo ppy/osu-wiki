@@ -207,12 +207,6 @@ The results of the Qualifier Stage will also be used to determine the “seed”
 
 After Qualifiers are over and every team has either gotten a seed or not qualified, the bracket will then begin. 4DM4 will use a standard Double Elimination bracket where the top seeded team will face the bottom seeded team, second highest will face second lowest, so on and so forth. Each team must lose two different matches to be eliminated from the tournament, this means that every team will get the chance to at least play two separate pools.
 
-**Win conditions are as follows:**
-
-- In the Round of 32 and Round of 16, teams need to win 5 maps to win a match (best of 9).
-- In the Quarterfinals and Semifinals, teams need to win 6 maps to win a match (best of 11).
-- In the Finals and Grand Finals, teams need to win 7 maps to win the match (best of 13).
-
 **Matches will be played with the following rules:**
 
 - Team captains will be notified of their match via ping on discord by the referee of their match 30 minutes before the match is scheduled to commence. At this time, team captains shall give the link of one map they wish to play as warmup to the referee of their match. This map must be an osu!mania 4k map and must be no longer than 5 minutes. Referees may refuse a teams warmup and demand another one from the team captain if the map does not meet these guidelines or is found to be offensive. Failure to provide a warmup to the referee at this time may result in this team skipping their warmup map.
@@ -223,6 +217,7 @@ After Qualifiers are over and every team has either gotten a seed or not qualifi
 - Each team will receive one "tactical timeout" of two minutes, to be used as extra time to pick or ban a beatmap. The tactical timeout may only be used by the team who has to pick and can also be used when getting ready.
 - If a tiebreaker gets played, both teams may use their tactical timeout, but only one timeout can be given.
 - After each map concludes, the team with the highest team score on the map will be awarded one point. Picks will alternate between team captains until a winner is decided by being the first to get the required amount of points to win that round.
+- In the Round of 32 and Round of 16, teams need to win 5 maps to win a match (best of 9). In the Quarterfinals and Semifinals, teams need to win 6 maps to win a match (best of 11). In the Finals and Grand Finals, teams need to win 7 maps to win the match (best of 13).
 - If both teams tie at match point, the tiebreaker map will be played, the team who wins the tiebreaker map will win the match.
 
 ### Additional Rules
