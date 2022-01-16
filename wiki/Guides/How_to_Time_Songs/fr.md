@@ -6,7 +6,7 @@ needs_cleanup: true
 
 # Comment timer les musiques
 
-![Menu du Timing](/wiki/shared/timing/Timing_base.jpg "Timing menu")
+![Menu Timing](/wiki/shared/timing/Timing_base.jpg "Menu Timing")
 
 ## Introduction
 
