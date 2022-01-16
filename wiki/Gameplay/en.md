@@ -1,11 +1,19 @@
 # Gameplay
 
 - [Accuracy](/wiki/Gameplay/Accuracy)
+- [Choke](/wiki/Gameplay/Choke)
 - [Combo (score multiplier)](/wiki/Gameplay/Combo_(score_multiplier))
+- [Combo fire](/wiki/Gameplay/Combo_fire)
+- [Combo milestone](/wiki/Gameplay/Combo_milestone)
+- [Combo multiplier effect](/wiki/Gameplay/Combo_multiplier_effect)
+- [Comboburst](/wiki/Gameplay/Comboburst)
+- [Dash](/wiki/Gameplay/Dash)
 - [Dash snapping](/wiki/Gameplay/Dash_snapping)
 - [Drain Time](/wiki/Gameplay/Drain_time)
+- [Edge dash](/wiki/Gameplay/Edge_dash)
 - [Fingerlock](/wiki/Gameplay/Fingerlock)
 - [Grade](/wiki/Gameplay/Grade)
+- [Hyperdash](/wiki/Gameplay/Hyperdash)
 - [Input device](/wiki/Gameplay/Input_device)
 - [Judgement](/wiki/Gameplay/Judgement)
 - [Mind block](/wiki/Gameplay/Mind_block)
@@ -15,5 +23,6 @@
 - [Slider break](/wiki/Gameplay/Slider_break)
 - [Spectating](/wiki/Gameplay/Spectating)
 - [Tablet cover](/wiki/Gameplay/Tablet_cover)
+- [Walk](/wiki/Gameplay/Walk)
 
 <!-- TODO: category needs some fleshing out and this index probably shouldn't be empty -->
