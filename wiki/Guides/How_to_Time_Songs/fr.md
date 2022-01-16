@@ -183,3 +183,4 @@ Vous devriez seulement aider d'autres personnes au niveau du timing si :
 - Vous savez ce que vous faites. Ne vous dépêchez pas d'aller aider des gens pour du multitiming, à part si vous êtes réellement sûr que vous allez arriver à maintenir et corriger (si nécessaire) le résultat donné par le mapper durant tout le processus de classement, et que le résultat que vous allez donner va être correct ou au moins plus précis.
 
 C'est tout ce que vous devriez vraiment savoir à propos du timing. Même si ce guide est écrit pour réduire la quantité de beatmaps mal timées, il n'est sûrement pas parfait. N'hésitez pas à demander autour de vous si vous avez des problèmes, puisque le timing n'est absolument pas un sujet simple à maîtriser.
+
