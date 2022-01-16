@@ -20,7 +20,7 @@ Si vous allez travailler sur une beatmap et que vous compter la classée, il est
 
 Les préparations du fichier peuvent varier de simples coupures de certaines parties de la musique jusqu’à l'ajout/la suppression d'effets sonores. Il est mieux de faire tout ceci **avant de timer votre musique**, car **n'importe quel** changement audio, re-encodage inclus, va *changer le timing*.
 
-## Timing Simple (une barre rouge)
+## Timing Simple (une ligne rouge)
 
 ### Buts et objectifs
 
