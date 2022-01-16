@@ -207,7 +207,7 @@ The results of the Qualifier Stage will also be used to determine the “seed”
 
 After Qualifiers are over and every team has either gotten a seed or not qualified, the bracket will then begin. 4DM4 will use a standard Double Elimination bracket where the top seeded team will face the bottom seeded team, second highest will face second lowest, so on and so forth. Each team must lose two different matches to be eliminated from the tournament, this means that every team will get the chance to at least play two separate pools.
 
-#### Win conditions
+**Win conditions are as follows:**
 
 - In the Round of 32 and Round of 16, teams need to win 5 maps to win a match (best of 9).
 - In the Quarterfinals and Semifinals, teams need to win 6 maps to win a match (best of 11).
