@@ -4,7 +4,7 @@ needs_cleanup: true
 
 <!-- TODO: some outdated info and this could be simplified a lot. it's a pretty long read for what you get -->
 
-# Comment timer des musiques
+# Comment timer les musiques
 
 ![Menu du Timing](/wiki/shared/timing/Timing_base.jpg "Timing menu")
 
