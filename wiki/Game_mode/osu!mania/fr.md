@@ -192,7 +192,7 @@ Le [score dans osu!mania](/wiki/Gameplay/Score/osu!mania) est plafonné à 1 mil
 En outre, le score comporte également les éléments suivants :
 
 - La [précision](/wiki/Gameplay/Accuracy#osu!mania) dépend du jugement et montre la précision avec laquelle le joueur a appuyé sur les touches. Appuyer trop tôt ou trop tard, ainsi que manquer les notes, diminuent la précision globale.
-- Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) indique combien d'objets ont été touchés à la suite. Il n'a aucun effet sur le score total et peut être [cassé](/wiki/Glossary/Combobreak) par un miss.
+- Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) indique combien d'objets ont été touchés à la suite. Il n'a aucun effet sur le score total et peut être [cassé](/wiki/Gameplay/Judgement/Combobreak) par un miss.
 
 Après avoir terminé une beatmap, le score se voit attribuer une [note](/wiki/Gameplay/Grade#osu!mania), une courte évaluation de la précision sous la forme d'une seule lettre. Un SS doré ou argenté indique une précision de 100 %.
 

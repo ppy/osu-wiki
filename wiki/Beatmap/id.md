@@ -20,7 +20,7 @@ tags:
 
 *Artikel utama: [Tingkat kesulitan](/wiki/Beatmap/Difficulty)*
 
-*Tingkat kesulitan* adalah sebuah file dengan [ekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) yang menjelaskan penempatan hit object, hitsound, dan efek-efek spesial seperti [kiai time](/wiki/Kiai_time). File ini juga berisi [pengaturan tingkat kesulitan](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) dan parameter lainnya yang secara langsung memengaruhi gameplay. Tingkat kesulitan pada sebuah beatmap mempunyai struktur yang berbeda dan terkadang dapat dimainkan hanya pada satu [mode permainan](/wiki/Game_mode) saja. Sistem [star rating](/wiki/Beatmapping/Star_rating) digunakan untuk memvisualisasikan skill/kemampuan seseorang berdasarkan tingkat kesulitannya.
+*Tingkat kesulitan* adalah sebuah file dengan [ekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) yang menjelaskan penempatan hit object, hitsound, dan efek-efek spesial seperti [kiai time](/wiki/Gameplay/Kiai_time). File ini juga berisi [pengaturan tingkat kesulitan](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) dan parameter lainnya yang secara langsung memengaruhi gameplay. Tingkat kesulitan pada sebuah beatmap mempunyai struktur yang berbeda dan terkadang dapat dimainkan hanya pada satu [mode permainan](/wiki/Game_mode) saja. Sistem [star rating](/wiki/Beatmapping/Star_rating) digunakan untuk memvisualisasikan skill/kemampuan seseorang berdasarkan tingkat kesulitannya.
 
 ## Submisi
 
@@ -91,7 +91,7 @@ Pengguna osu! di semua mode permainan menggunakan beatmap untuk [menaikkan perin
 - Peringkat negara berisi pemain yang memiliki bendera yang sama;
 - Peringkat teman menampilkan posisi seorang pemain pada suatu map untuk dibandingkan dengan teman-teman lainnya.
 
-Peringkat 500 skor teratas di setiap tingkat kesulitan pada sebuah beatmap akan memiliki [tayangan ulang](/wiki/Replay), yang dapat ditonton secara online atau disimpan untuk ditampilkan di waktu mendatang pada papan peringkat lokal.
+Peringkat 500 skor teratas di setiap tingkat kesulitan pada sebuah beatmap akan memiliki [tayangan ulang](/wiki/Gameplay/Replay), yang dapat ditonton secara online atau disimpan untuk ditampilkan di waktu mendatang pada papan peringkat lokal.
 
 ### Chart dan Spotlight
 

@@ -12,7 +12,7 @@ There are two language registers on the wiki: neutral and informal.
 
 The neutral register is the default on the wiki.
 
-The informal register is special and given to a small handful of articles. Some examples with this register include [FAQ](/wiki/FAQ) and [Help Centre](/wiki/Help_Centre).
+The informal register is special and given to a small handful of articles. Some examples with this register include [FAQ](/wiki/FAQ) and [Help Centre](/wiki/Help_centre).
 
 For both registers, all rules in this part of the article style criteria must be followed. Exceptions for either register will be noted.
 
@@ -32,7 +32,7 @@ British English spelling variants must be used when there are conflicting spelli
 Article names, when written in a paragraph, must not be capitalised, unless it is a link that points to the article or it is a proper noun (e.g. BanchoBot). The following is an example:
 
 ```markdown
-If you want to know more about chat, refer to [Chat Console](/wiki/Chat_Console).
+If you want to know more about chat, refer to [Chat Console](/wiki/Client/Interface/Chat_console).
 ```
 
 ### Game modifiers
