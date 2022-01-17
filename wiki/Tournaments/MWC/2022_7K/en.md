@@ -120,23 +120,23 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 **[Download the mappack here (89 MB)](https://drive.google.com/uc?id=1uc1oILMX9J7dw1huWo3Kd3r31qROfIRm)**
 
 - Rice
-  1. [Laur - Attractor Dimension (Wonki) \[7K\] Insane\]](https://osu.ppy.sh/beatmapsets/1587984#mania/3243265)
-  2. [cosMo@bousouP - Oceanus (\_Kobii) \[7K\] Insane \[210bpm\]](https://osu.ppy.sh/beatmapsets/1676381#mania/3424741)
-  3. [Mr.T - electro peaceful(8bit) (qodtjr) \[7K\] Notes of Peace\]](https://osu.ppy.sh/beatmapsets/707059#mania/1494875)
-  4. [sakuzyo - Lost Memory (DaDarkDragon) \[7K\] Memories \[1,1x Rate\]](https://osu.ppy.sh/beatmapsets/1312121#mania/2719418)
-  5. [BEMANI Sound Team "Power Of Nature" - Tadoru Kimi wo Koete (guden) \[7K\] Wayfarer\]](https://osu.ppy.sh/beatmapsets/1539977#mania/3148168)
-  6. [TAKU INOUE & Hoshimachi Suisei - Sanji Juunihun (Evening) \[7K\] CHANGE THE WORLD (EDIT)\]](https://osu.ppy.sh/beatmapsets/1676465#mania/3424887)
+  1. [Laur - Attractor Dimension (Wonki) \[\[7K\] Insane\]](https://osu.ppy.sh/beatmapsets/1587984#mania/3243265)
+  2. [cosMo@bousouP - Oceanus (\_Kobii) \[\[7K\] Insane \[210bpm\]\]](https://osu.ppy.sh/beatmapsets/1676381#mania/3424741)
+  3. [Mr.T - electro peaceful(8bit) (qodtjr) \[\[7K\] Notes of Peace\]](https://osu.ppy.sh/beatmapsets/707059#mania/1494875)
+  4. [sakuzyo - Lost Memory (DaDarkDragon) \[\[7K\] Memories \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1312121#mania/2719418)
+  5. [BEMANI Sound Team "Power Of Nature" - Tadoru Kimi wo Koete (guden) \[\[7K\] Wayfarer\]](https://osu.ppy.sh/beatmapsets/1539977#mania/3148168)
+  6. [TAKU INOUE & Hoshimachi Suisei - Sanji Juunihun (Evening) \[\[7K\] CHANGE THE WORLD (EDIT)\]](https://osu.ppy.sh/beatmapsets/1676465#mania/3424887)
 - LN
-  1. [M2U - Yoake no Uta feat. Dazbee (SurfChu85) \[7K\] Daybreak\]](https://osu.ppy.sh/beatmapsets/1477099#mania/3030679)
-  2. [dj TAKA feat. Erika Mochizuki - MOON (paulkappa) \[7K\] Slave of Sadness\]](https://osu.ppy.sh/beatmapsets/1666530#mania/3402422)
-  3. [Yuki Kajiura - Himeboshi (\_underjoy) \[7K\] Tranquility\]](https://osu.ppy.sh/beatmapsets/1069926#mania/3424740)
-  4. [Crush - OHIO (JuHaa) \[7K\] HIOH!\]](https://osu.ppy.sh/beatmapsets/1566789#mania/3199120)
+  1. [M2U - Yoake no Uta feat. Dazbee (SurfChu85) \[\[7K\] Daybreak\]](https://osu.ppy.sh/beatmapsets/1477099#mania/3030679)
+  2. [dj TAKA feat. Erika Mochizuki - MOON (paulkappa) \[\[7K\] Slave of Sadness\]](https://osu.ppy.sh/beatmapsets/1666530#mania/3402422)
+  3. [Yuki Kajiura - Himeboshi (\_underjoy) \[\[7K\] Tranquility\]](https://osu.ppy.sh/beatmapsets/1069926#mania/3424740)
+  4. [Crush - OHIO (JuHaa) \[\[7K\] HIOH!\]](https://osu.ppy.sh/beatmapsets/1566789#mania/3199120)
 - Hybrid
   1. [Camellia vs. Tsukasa Kaminose - Gunkyouzouteki Soseiriron (\_Stan) \[Imi\[7\]ation // 7K\]](https://osu.ppy.sh/beatmapsets/1262927#mania/2687659)
-  2. [Cuvelia - Tenkuu no Yoake (AncuL) \[7K\] Imaginary\]](https://osu.ppy.sh/beatmapsets/630583#mania/1331170)
-  3. [M2U - White Rose (JuHaa) \[7K\] White picture\]](https://osu.ppy.sh/beatmapsets/1514154#mania/3099963)
+  2. [Cuvelia - Tenkuu no Yoake (AncuL) \[\[7K\] Imaginary\]](https://osu.ppy.sh/beatmapsets/630583#mania/1331170)
+  3. [M2U - White Rose (JuHaa) \[\[7K\] White picture\]](https://osu.ppy.sh/beatmapsets/1514154#mania/3099963)
 - Tiebreaker
-  1. **[Nekomata Gekidan - envidia (Umo-) \[7K\] Envy\]](https://osu.ppy.sh/beatmapsets/1330328#mania/2756301)**
+  1. **[Nekomata Gekidan - envidia (Umo-) \[\[7K\] Envy\]](https://osu.ppy.sh/beatmapsets/1330328#mania/2756301)**
 
 ### Qualifiers
 
