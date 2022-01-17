@@ -124,6 +124,12 @@ Sunday, 16 January 2022:
 | --: | :-: | :-: | :-- | :-- |
 | **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_VE] Venezuela | [#1](https://osu.ppy.sh/community/matches/96564391) |
 | **Thailand** ![][flag_TH] | **5** | 0 | ![][flag_DO] Dominican Republic | [#1](https://osu.ppy.sh/community/matches/96570653) |
+| **Philippines** ![][flag_PH] | **5** | 4 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/96580459) |
+| Germany ![][flag_DE] | 3 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/96581164) |
+| **Vietnam** ![][flag_VN] | **5** | 1 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/96582903) |
+| **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/96596638) |
+| **France** ![][flag_FR] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/96601285) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_PA] Panama | [#1](https://osu.ppy.sh/community/matches/96605796) |
 
 ### Qualifiers
 
@@ -160,7 +166,7 @@ Sunday, 16 January 2022:
 | #24 | ![][flag_VE] Venezuela | 23.4 |
 | #25 | ![][flag_BE] Belgium | 23.4 |
 | #26 | ![][flag_CL] Chile | 25.2 |
-| #27 | ![][flag_DE] Denmark | 25.4 |
+| #27 | ![][flag_DK] Denmark | 25.4 |
 | #28 | ![][flag_AR] Argentina | 25.4 |
 | #29 | ![][flag_IT] Italy | 25.6 |
 | #30 | ![][flag_DO] Dominican Republic | 26.6 |
@@ -257,6 +263,7 @@ If one player on a team has their account restricted while still participating i
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
 [flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
 [flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
