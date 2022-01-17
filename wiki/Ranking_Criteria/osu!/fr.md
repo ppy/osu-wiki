@@ -80,7 +80,7 @@ Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au 
 - **Utilisez des formes de sliders simples et facilement compréhensibles.** Les nouveaux joueurs peuvent ne pas comprendre comment suivre des formes plus complexes.
 - **Il doit y avoir au moins 4 temps entre la fin d'un spinner et l'objet suivant.** Cela permet de garantir un temps suffisant pour cliquer sur un objet qui suit un spinner.
 - **Évitez les spinners de moins de 4 temps.** Les joueurs ont besoin de temps pour reconnaître qu'ils doivent commencer à tourner.
-- **Évitez de recouvrir entièrement les flèches des sliders avec des objets dans les 4 temps où la flèche est atteinte.** Cela donne aux joueurs suffisamment de temps pour reconnaître la flèche.
+- **Évitez de recouvrir entièrement les flèches inversées des sliders avec des objets dans les 4 temps où la flèche inversée est atteinte.** Cela donne aux joueurs suffisamment de temps pour reconnaître la flèche.
 - **Évitez l'[overlapping](/wiki/Mapping_techniques/Overlap) complet des slider bodies à moins de 4 temps l'un de l'autre.** En procédant ainsi, les sliders peuvent être mal considérés comme un cercle en raison de l'obscurcissement du slider body.
 - **Assurez-vous que vos combos ne sont pas déraisonnablement courts ou longs.** Les combos doivent refléter des motifs exprimés dans la musique, tels que des mesures de musique ou des phrases vocales/instrumentales.
 - **Évitez l'[overlapping](/wiki/Mapping_techniques/Overlap) des objets avec d'autres éléments des skins par défaut et spécifiques à la beatmap.** Il s'agit de tous les éléments qui font partie de l'interface et qui peuvent être skinnée.
@@ -113,7 +113,7 @@ Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au 
 - **Utilisez des formes de sliders simples et facilement compréhensibles.** Les nouveaux joueurs peuvent ne pas comprendre comment suivre des formes plus complexes.
 - **Il doit y avoir au moins 2 temps entre l'extrémité d'un spinner et l'objet suivant.** Ceci permet de garantir un temps suffisant pour cliquer sur un objet qui suit un spinner.
 - **Évitez les spinners de moins de 3 temps.** Les joueurs ont besoin de temps pour reconnaître qu'ils doivent commencer à tourner.
-- **Évitez de recouvrir entièrement les flèches des sliders avec des objets dans les 3 temps où la flèche est atteinte.** Cela donne aux joueurs suffisamment de temps pour reconnaître la flèche.
+- **Évitez de recouvrir entièrement les flèches inversées des sliders avec des objets dans les 3 temps où la flèche inversée est atteinte.** Cela donne aux joueurs suffisamment de temps pour reconnaître la flèche.
 - **Évitez l'[overlapping](/wiki/Mapping_techniques/Overlap) complet des slider bodies à moins de 3 temps l'un de l'autre.** En procédant ainsi, les sliders peuvent être mal considérés comme un cercle en raison de l'obscurcissement du slider body.
 - **Assurez-vous que vos combos ne sont pas déraisonnablement courts ou longs.** Les combos doivent refléter des motifs exprimés dans la musique, tels que des mesures de musique ou des phrases vocales/instrumentales.
 - **Évitez l'[overlapping](/wiki/Mapping_techniques/Overlap) des objets avec d'autres éléments des skins par défaut et spécifiques à la beatmap.** Il s'agit de tous les éléments qui font partie de l'interface et qui peuvent être skinnée.
@@ -137,7 +137,7 @@ Si un niveau de difficulté Normal est requis et utilisé comme le niveau de dif
 #### Règles
 
 - **Les objets séparés de 1/2 ou moins ne doivent pas se [chevaucher](/wiki/Mapping_techniques/Overlap) complètement.** Les slider heads ou tails entièrement recouvertes par des slider tails sont exemptées, pour autant que leurs slider bodies soient visibles.
-- **N'utilisez pas de [flèches de slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
+- **N'utilisez pas de [flèches inversées de slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
 - **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures de sliders claires et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire en supposant que le joueur possède un skin qui rend les cercles de fin de slider totalement transparents. 
   - Les sliders ambigus avec des cercles de suivi qui couvrent la totalité de la trajectoire du slider sont autorisés, à condition que les limites du slider soient simples.
 
@@ -149,7 +149,7 @@ Si un niveau de difficulté Normal est requis et utilisé comme le niveau de dif
 - **Évitez un espacement visuellement similaire pour des rythmes différents.** Les variations d'espacement par le biais de [jumps](/wiki/Beatmap/Pattern/Jump) sur les points d'emphase sont encouragées, mais seulement si ces jumps sont reconnaissables et différents des autres écarts rythmiques.
 - **Les slider tick hitsounds sont déconseillés.** Si vous souhaitez les utiliser, veillez à ce que leur volume soit équilibré (c'est-à-dire nettement plus faible que celui des hitsounds ordinaires). Un tick très fort du slider, surtout s'il n'est utilisé qu'une ou deux fois, peut être extrêmement déstabilisant.
 - **Évitez les spinners de moins de 2 temps.** Les joueurs ont besoin de temps pour reconnaître qu'ils doivent commencer à tourner.
-- **Évitez de recouvrir entièrement les flèches des sliders avec des objets dans les 2 temps où la flèche est atteinte.** Cela donne aux joueurs suffisamment de temps pour reconnaître la flèche.
+- **Évitez de recouvrir entièrement les flèches inversées des sliders avec des objets dans les 2 temps où la flèche inversée est atteinte.** Cela donne aux joueurs suffisamment de temps pour reconnaître la flèche.
 - **Évitez l'[overlapping](/wiki/Mapping_techniques/Overlap) complet des slider bodies à moins de 2 temps l'un de l'autre.** En procédant ainsi, les sliders peuvent être mal considérés comme un cercle en raison de l'obscurcissement du slider body.
 
 #### Directives sur les paramètres de difficultés
@@ -168,11 +168,11 @@ Si un niveau de difficulté Normal est requis et utilisé comme le niveau de dif
 
 #### Directives
 
-- **Les objets séparés de 1/4 ou moins ne doivent pas se [chevaucher](/wiki/Mapping_techniques/Overlap) complètement,** surtout sur les difficultés plus simples de Insane.
-- **Évitez les [flèches de slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
+- **Les objets séparés de 1/4 ou moins ne doivent pas se [chevaucher](/wiki/Mapping_techniques/Overlap) complètement,** surtout sur les difficultés Insane plus simples.
+- **Évitez les [flèches inversées de slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
 - **Évitez les [jumps](/wiki/Beatmap/Pattern/Jump) et les [streams](/wiki/Beatmap/Pattern/Stream) dont les cercles ne se [chevauchent](/wiki/Mapping_techniques/Overlap) pas.** Il s'agit de techniques de beatmapping principalement réservées aux difficultés Expert.
 - **Les slider tick hitsounds sont déconseillés.** Si vous souhaitez les utiliser, veillez à ce que leur volume soit équilibré (c'est-à-dire nettement plus faible que celui des hitsounds ordinaires). Un tick très fort du slider, surtout s'il n'est utilisé qu'une ou deux fois, peut être extrêmement déstabilisant.
-- **Évitez de recouvrir entièrement les flèches des sliders avec des cercles, des sliders heads ou des sliders tails dans un délai de 1/2 avant que la flèche ne soit atteinte.** Cela donne aux joueurs suffisamment de temps pour reconnaître la flèche.
+- **Évitez de recouvrir entièrement les flèches inversées des sliders avec des cercles, des sliders heads ou des sliders tails dans un délai de 1/2 avant que la flèche inversée ne soit atteinte.** Cela donne aux joueurs suffisamment de temps pour reconnaître la flèche.
 - **Évitez l'[overlapping](/wiki/Mapping_techniques/Overlap) complet des slider bodies à 1/2 l'un de l'autre.** En procédant ainsi, les sliders peuvent être mal considérés comme un cercle en raison de l'obscurcissement du slider body.
 
 #### Directives sur les paramètres de difficultés
@@ -191,7 +191,7 @@ Si un niveau de difficulté Normal est requis et utilisé comme le niveau de dif
 
 #### Directives
 
-- **Évitez les [flèches de slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
+- **Évitez les [flèches inversées de slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
 - **Les slider tick hitsounds sont déconseillés.** Si vous souhaitez les utiliser, veillez à ce que leur volume soit équilibré (c'est-à-dire nettement plus faible que celui des hitsounds ordinaires). Un tick très fort du slider, surtout s'il n'est utilisé qu'une ou deux fois, peut être extrêmement déstabilisant.
 
 #### Directives sur les paramètres de difficultés
