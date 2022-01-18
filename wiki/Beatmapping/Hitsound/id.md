@@ -3,6 +3,8 @@ stub: true
 tags:
   - hit sounds
   - hitsounds
+outdated: true
+outdated_since: eb6a0011021cd4db92cd5e9a4668777e10bc9517
 ---
 
 # Hitsound
