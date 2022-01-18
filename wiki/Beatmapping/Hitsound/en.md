@@ -29,7 +29,7 @@ If a hitsound is on a non-clickable edge, for example a slider repeat or spinner
 
 ## Storyboarded hitsound
 
-Sound samples may be added through storyboarding to mimic hitsounds on objects. Unlike actual hitsounds, however, these always play at the given time regardless of whether the player hit the object. For that reason, they are often not recommended outside of osu!mania.
+Sound samples may be added through storyboarding to mimic hitsounds. Unlike actual hitsounds, however, these always play at the given time regardless of whether the player hit the object. For that reason, they are often not recommended.
 
 ## Keysound
 
