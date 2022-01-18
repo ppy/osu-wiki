@@ -73,7 +73,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Avoid [slider velocity](/wiki/Hit_object/Slider_velocity) above 1.3.**
 - **Note density should consist of mostly 1/1, 2/1, or slower rhythms.**
 - **Avoid using sliders shorter than 1/2 of a beat.** These are too fast to be comprehended by new players.
-- **Avoid [overlapping](/wiki/Mapping_techniques/Overlap) circles, slider starts, and slider ends.** These can be confusing for new players. 1/1 overlaps due to [distance snapping](/wiki/Client/Beatmap_editor/Distance_snap) should be avoided with higher spacing or [slider velocity](/wiki/Hit_object/Slider_velocity).
+- **Avoid [overlapping](/wiki/Mapping_techniques/Overlap) circles, slider heads, and slider tails.** These can be confusing for new players. 1/1 overlaps due to [distance snapping](/wiki/Client/Beatmap_editor/Distance_snap) should be avoided with higher spacing or [slider velocity](/wiki/Hit_object/Slider_velocity).
 - **Avoid 1/1 sliders with multiple reverses.** New players are unable to read additional reverses because they are visible for such a short amount of time.
 - **Avoid slider-only sections.** Aiming and following a lot of sliders in a row can be tiring for new players. In such cases, circles and rest moments without hit objects to click or follow should be used.
 - **Frequently manipulating [slider velocity](/wiki/Hit_object/Slider_velocity) is discouraged.** Slider velocity should only be changed for sections of music with different pacings and should not be drastically variable.
@@ -104,7 +104,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **[Time-distance equality](/wiki/Mapping_techniques/Time-distance_equality) should be used.** Variations are acceptable if they are clearly different from spacing used for different rhythms. When hit objects are more than 1 beat apart and have relatively high spacing on the playfield, time-distance equality does not need to be as precise.
 - **When [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) is used, try to keep it between 0.8x and 1.3x.** Values too much higher or lower may make the difference between [slider velocity](/wiki/Hit_object/Slider_velocity) and spacing counterintuitive. A higher distance snap can be used to avoid [overlapping](/wiki/Mapping_techniques/Overlap), but the slider velocity should be increased if you find yourself doing this often.
 - **Note density should consist of mostly 1/1, occasional 1/2, or slower rhythms.**
-- **Avoid [overlapping](/wiki/Mapping_techniques/Overlap) circles, slider starts, and slider ends.** These can be confusing for new players. 1/2 overlaps due to [distance snapping](/wiki/Client/Beatmap_editor/Distance_snap) are an exception.
+- **Avoid [overlapping](/wiki/Mapping_techniques/Overlap) circles, slider heads, and slider tails.** These can be confusing for new players. 1/2 overlaps due to [distance snapping](/wiki/Client/Beatmap_editor/Distance_snap) are an exception.
 - **Avoid long chains of hit objects with 1/2 gaps.** Too many consecutive hit objects [overlapping](/wiki/Mapping_techniques/Overlap) can be confusing for new players.
 - **Avoid 1/2 sliders with multiple reverses.** New players are unable to read additional reverses because they are visible for such a short amount of time.
 - **Avoid slider-only sections.** Aiming and following a lot of sliders in a row can be tiring for new players. In such cases, circles and rest moments without hit objects to click or follow should be used.
