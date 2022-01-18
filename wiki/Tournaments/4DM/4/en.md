@@ -74,6 +74,24 @@ The 4 Digit osu!mania World Cup 4 was run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+- FreeMod
+  1. [LV.4 - -273.15 (Shoegazer) \[Crystallize\]](https://osu.ppy.sh/beatmapsets/1630846#mania/3344318)
+  2. [Jea - I am Maid (chxu) \[littlewhitebutterflies 1.1x (223bpm)\]](https://osu.ppy.sh/beatmapsets/1573813#mania/3213384)
+  3. [Nitro Fun - Time Goes By (chxu) \[Another 1.1x (141bpm)\]](https://osu.ppy.sh/beatmapsets/1577136#mania/3409004)
+  4. [sylcmyk - sylcmyk's theme (aeoliancarp) \[Palette \[1.05x\]\]](https://osu.ppy.sh/beatmapsets/1570575#mania/3207138)
+  5. [Sakuzyo - Lexus Cyanixs (hi19hi19) \[Very Artcore\]](https://osu.ppy.sh/beatmapsets/1671142#mania/3413320)
+  6. [MiddleIsland - Delrio (Raveille) \[Insane\]](https://osu.ppy.sh/beatmapsets/1251408#mania/3280707)
+  7. [ginkiha x t+pazolite x Hommarju - CROSSING DELTA (AlexDunk) \[Ping's Insane\]](https://osu.ppy.sh/beatmapsets/1063841#mania/3202242)
+  8. [Eve - Tokyo Ghetto (MyZterioN-) \[Angst (cut)\]](https://osu.ppy.sh/beatmapsets/1477236#mania/3030941)
+  9. [U1 overground - Hunny Bunny (-MysticEyes) \[Celestial\]](https://osu.ppy.sh/beatmapsets/1002446#mania/2098217)
+  10. [M2U - Masquerade (Yana Feiya) \[Dance\]](https://osu.ppy.sh/beatmapsets/1221446#mania/2540817)
+  11. [Vital Mode - Metastasis (zero2snow) \[Stage 1: Translation\]](https://osu.ppy.sh/beatmapsets/1414148#mania/2914800)
+  12. [TOKYO MACHINE - TURBO (Cut Ver) (H1Pur) \[SV on the gas\]](https://osu.ppy.sh/beatmapsets/1570808#mania/3207557)
+- Tiebreaker
+  1. **[Daisuke Ishiwatari - Necessary Discrepancy (juankristal) \[Diva of Hope\]](https://osu.ppy.sh/beatmapsets/1676480#mania/3424920)**
+
 ### Round of 32
 
 - FreeMod
