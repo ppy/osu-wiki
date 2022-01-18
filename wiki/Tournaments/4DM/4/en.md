@@ -223,6 +223,7 @@ After Qualifiers are over and every team has either gotten a seed or not qualifi
 - Each team will receive one "tactical timeout" of two minutes, to be used as extra time to pick or ban a beatmap. The tactical timeout may only be used by the team who has to pick and can also be used when getting ready.
 - If a tiebreaker gets played, both teams may use their tactical timeout, but only one timeout can be given.
 - After each map concludes, the team with the highest team score on the map will be awarded one point. Picks will alternate between team captains until a winner is decided by being the first to get the required amount of points to win that round.
+- If team scores on a map are tied, no points will be awarded and the teams will play the map again.
 - In the Round of 32 and Round of 16, teams need to win 5 maps to win a match (best of 9). In the Quarterfinals and Semifinals, teams need to win 6 maps to win a match (best of 11). In the Finals and Grand Finals, teams need to win 7 maps to win the match (best of 13).
 - If both teams tie at match point, the tiebreaker map will be played, the team who wins the tiebreaker map will win the match.
 
@@ -236,7 +237,7 @@ Please note that while the organizers will try to schedule all matches for the b
 - If no streamers are available to broadcast the match, the match will still happen without being broadcasted.
 - If no commentators are available to commentate the match but broadcasters are available to broadcast the match, the match will still be broadcasted but without commentary.
 
-Please note that while we will try to broadcast every match, we may be unable to due to overlapping matches and/or lack of streamer availability. Rescheduled matches will be prioritized under non-rescheduled matches in terms of being broadcasted.
+Please note that while 4DM4 will try to broadcast every match, certain matches may be unable to be broadcasted due to overlapping matches and/or lack of streamer availability. Rescheduled matches will be prioritized under non-rescheduled matches in terms of being broadcasted.
 
 Each respective stage of the tournament is to be completed in a single weekend, using the same map pool for the entire weekend. Weekday matches are allowed if both team captains agree to them and they take place before the weekend of that scheduled stage. As aforementioned, map pools will be released roughly a week before the stage they are to be played on. The latest a map in a released map pool may be slightly updated (for example, as to fixing a notable timing or snapping issue) is by 23:59UTC of the Monday after the map pool is released.
 
