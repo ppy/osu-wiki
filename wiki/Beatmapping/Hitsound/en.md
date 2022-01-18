@@ -21,11 +21,11 @@ Beatmappers can replace any default sound samples with custom samples using a [b
 
 ## Active hitsound
 
-A hitsound is considered *active* if it is on a clickable hitobject edge, for example a circle or slider head. These help the player judge whether they clicked early or late by producing a clear impact sound at the time of clicking. If clicked correctly, the sound should match up with the beats in the song the objects are mapped to.
+A hitsound is considered *active* if it is on a clickable part of a hit object, for example a hit circle or slider start. These help the player judge whether they clicked early or late by playing a clear impactful sound at the time of clicking. If clicked correctly, the sound should match up with a beat in the song.
 
 ## Passive hitsound
 
-If a hitsound is on a non-clickable edge, for example a slider repeat or spinner tail, it is considered *passive*. These always play at the same time as long as the player is interacting with the hitobject, unlike active hitsounds. Passive hitsounds neither need to have a clear impact nor be audible, but often are when over beats in the song to help the player maintain rhythm.
+If a hitsound is on a non-clickable part of a hit object, for example a slider repeat or spinner end, it is considered *passive*. These always play at the same time as long as the player is interacting with the hit object, unlike active hitsounds. Passive hitsounds do not need to have a clear impact or be audible, but often use the same sounds as active hitsounds when over beats in the song in order to help the player maintain rhythm.
 
 ## Storyboarded hitsound
 
