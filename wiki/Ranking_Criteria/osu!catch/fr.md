@@ -2,7 +2,7 @@
 
 ***Note : Ce document est une extension des [critères généraux de classement](/wiki/Ranking_Criteria).***
 
-Cet **critères de classement d'osu!** définit les [règles et directives](/wiki/Ranking_Criteria#termes-généraux) que les [beatmaps](/wiki/Game_mode/osu!catch) spécifiques à [osu!catch](/wiki/Beatmap) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
+Cette liste de **critères de classement d'osu!** définit les [règles et directives](/wiki/Ranking_Criteria#termes-généraux) que les [beatmaps](/wiki/Game_mode/osu!catch) spécifiques à [osu!catch](/wiki/Beatmap) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Global
 
@@ -14,17 +14,17 @@ Les règles et directives générales s'appliquent à tous les types de difficul
 
 - **Votre beatmap doit être théoriquement possible à SS.** Cela signifie qu'il doit être possible d'attraper absolument tous les [fruits](/wiki/Hit_object/Fruit), les [drop](/wiki/Hit_object/Juice_stream#drop) et les [droplets](/wiki/Hit_object/Juice_stream#droplet).
 - **Chaque beatmap doit utiliser au moins deux [couleurs de combos](/wiki/Glossary/Combo_colour) personnalisées différentes, sauf si le skin par défaut est forcé.** Les couleurs des combos ne doivent en aucun cas se mélanger à l'arrière-plan/le storyboard/la vidéo de la beatmap. Ainsi, les objets sont toujours visibles pour le joueur et les couleurs de combos du skin personnalisé ne se mélangent pas accidentellement avec l'arrière-plan.
-- **N'utilisez pas les keysounds sans le soutien de hitnormal.** Si les sons s'intègrent parfaitement à la musique, l'effet de rétroaction pour la touche des notes est minime.
+- **N'utilisez pas les keysounds sans support de hitnormal.** Si les sons s'intègrent parfaitement à la musique, l'effet de rétroaction pour la touche des notes est minime.
 
 #### Directives
 
 - **Tous les cercles et les slider heads doivent représenter un son existant dans la musique.** Il s'agit généralement d'un son distinct, mais il peut également s'agir d'un son continu dont le début ou la fin sont indiscernables.
 - **Les sliderends étendus doivent être snapped en fonction de la structure rythmique de la musique.** Si la chanson utilise un rythme direct, il faut utiliser 1/4, 1/8 et 1/16. Si la chanson utilise un rythme swing, il faut utiliser 1/6 ou 1/12. Si la chanson a un son dans un rythme différent de celui recommandé, le rythme réel est toujours prioritaire.
-- **Les [dashs](/wiki/Glossary/Dash) et les [hyperdashes](/wiki/Glossary/Hyperdash) ne doivent pas être utilisés lorsque la destination du dash ou de l'hyperdash est située près du bord gauche ou droit du terrain de jeu.** Cela crée un mouvement inconfortable car l'attrapeur est arrêté de force lorsqu'il atteint la limite du terrain de jeu (x:16 à gauche et x:496 à droite).
+- **Les [dashs](/wiki/Glossary/Dash) et les [hyperdashes](/wiki/Glossary/Hyperdash) ne doivent pas être utilisés lorsque la destination du dash ou de l'hyperdash est située près du bord gauche ou droit du terrain de jeu.** Cela crée un mouvement inconfortable car le catcher est arrêté de force lorsqu'il atteint la limite du terrain de jeu (x:16 à gauche et x:496 à droite).
 - **S'assurer que les [combos](/wiki/Beatmapping/Combo) n'atteignent pas des longueurs déraisonnables.** Les [fruits](/wiki/Hit_object/Fruit) attrapés s'empilent sur le plateau et peuvent potentiellement obstruer la vue du joueur. N'oubliez pas que les slider tails, les répétitions et les [spinners](/wiki/Hit_object/Spinner) [bananes](/wiki/Hit_object/Banana) comptent également comme des "fruits". De nouveaux combos doivent être placés régulièrement pour vider l'assiette et éviter cela.
 - **Essayez d'avoir au moins un [spinner](/wiki/Hit_object/Spinner) dans chaque difficulté pour créer une variété dans la beatmap et une fluctuation dans les scores.** Cependant, si un spinner n'a pas sa place dans la musique, il n'est pas nécessaire de le forcer.
 - **L'[Overall Difficulty](/wiki/Beatmapping/Overall_difficulty) doit avoir la même valeur que l'[Approach Rate](/wiki/Beatmapping/Approach_rate).** Il s'agit simplement d'une valeur standardisée, car Overall Difficulty n'affecte pas la jouabilité, pas plus que le nombre de [fruits](/wiki/Hit_object/Fruit) que possède un [spinner](/wiki/Hit_object/Spinner). Overall Difficulty n'affecte que le score maximum d'une difficulté.
-  - Si une difficulté utilise un Approach Rate plus faible qu'une ou plusieurs difficultés du niveau de difficulté inférieur, la Overall Difficulty doit être égale à la valeur de la Overall Difficulty la plus élevée du niveau de difficulté précédent.
+  - Si une difficulté utilise un Approach Rate plus faible qu'une ou plusieurs difficultés du niveau de difficulté inférieur, l'Overall Difficulty doit être égale à la valeur de l'Overall Difficulty la plus élevée du niveau de difficulté précédent.
 - **Le slider tick rate doit être réglé en fonction de la chanson.** Par exemple, si votre chanson n'utilise que le 1/3 snapping, utiliser le tick rate 2 ou 4 ne serait pas approprié.
 - **Utilisez le même  slider tick rate pour chaque difficulté.** Car il s'agit d'une propriété de la musique plutôt que du mapping. Cependant, les difficultés inférieures peuvent utiliser des tick rates plus faibles pour réduire les exigences de précision pour les nouveaux joueurs, à condition qu'ils suivent toujours le rythme de la chanson. Utiliser des tick rates élevés uniquement pour augmenter le score/le combo/la difficulté est insensé.
 - **Évitez d'utiliser des [couleurs de combos](/wiki/Glossary/Combo_colour) avec une luminosité de ~50 ou moins.** Les couleurs sombres ont un impact sur la lisibilité des [fruits](/wiki/Hit_object/Fruit) avec une faible luminosité de fond.
@@ -34,13 +34,13 @@ Les règles et directives générales s'appliquent à tous les types de difficul
 
 #### Règles
 
-- **Les attrapeurs personnalisés doivent être inclus dans le format de skin v2.** Ceci est pour assurer un affichage correct sur tous les skins. Les noms de fichiers requis sont `fruit-catcher-idle.png`, `fruit-catcher-kiai.png` et `fruit-catcher-fail.png`.
+- **Les catchers personnalisés doivent être inclus dans le format de skin v2.** Ceci est pour assurer un affichage correct sur tous les skins. Les noms de fichiers requis sont `fruit-catcher-idle.png`, `fruit-catcher-kiai.png` et `fruit-catcher-fail.png`.
 - **Les objets personnalisés doivent inclure tous les éléments nécessaires et être colorés dans une échelle de couleurs grises.** Cela permet de s'assurer que vos images sont clairement définies et de qualité acceptable. Les éléments nécessaires se trouvent sur [Skinning/osu!catch](/wiki/Skinning/osu!catch). En outre, il est recommandé d'utiliser des éléments transparents pour les superpositions.
-- **Les éléments du skin doivent avoir la même taille que leurs homologues skinnée par défaut.** Ceci afin qu'ils représentent correctement la hitbox et n'altèrent pas le gameplay. Les dimensions actuelles utilisées dans le skin par défaut sont 128x128 pixels pour les [fruits](/wiki/Hit_object/Fruit), 82x103 pour les [drops](/wiki/Hit_object/Juice_stream#drop) et 306x320 pour l'attrapeur.
+- **Les éléments du skin doivent avoir la même taille que leurs homologues skinnée par défaut.** Ceci afin qu'ils représentent correctement la hitbox et n'altèrent pas le gameplay. Les dimensions actuelles utilisées dans le skin par défaut sont 128x128 pixels pour les [fruits](/wiki/Hit_object/Fruit), 82x103 pour les [drops](/wiki/Hit_object/Juice_stream#drop) et 306x320 pour le catcher.
 
 #### Directives
 
-- **Les attrapeurs personnalisés doivent en outre inclure l'élément `lighting.png` pour compléter le skin.** L'ajout de cet élément est toutefois facultatif et ses dimensions par défaut sont de 184x184 pixels, mais elles peuvent varier en fonction de la visibilité souhaitée de l'élément.
+- **Les catchers personnalisés doivent en outre inclure l'élément `lighting.png` pour compléter le skin.** L'ajout de cet élément est toutefois facultatif et ses dimensions par défaut sont de 184x184 pixels, mais elles peuvent varier en fonction de la visibilité souhaitée de l'élément.
 
 ## Spécifique à une difficulté
 
@@ -90,7 +90,7 @@ Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au 
 
 - **Les [Hyperdash](/wiki/Glossary/Hyperdash) de toute sorte sont interdits.** Ceci afin de garantir un niveau de difficulté raisonnable pour les joueurs novices.
 - **Les [dash](/wiki/Glossary/Dash) doivent avoir un écart d'au moins 125 ms entre leurs deux objets.**
-- **Les [dashs](/wiki/Glossary/Dash) qui sont [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) ne doivent pas être utilisés plus de deux fois entre des [fruits](/wiki/Hit_object/Fruit) consécutifs.**
+- **Les [dashs](/wiki/Glossary/Dash) qui sont [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) ne doivent pas être utilisés plus de deux fois consécutifs entre des [fruits](/wiki/Hit_object/Fruit).**
 - **Les [dashs](/wiki/Glossary/Dash) qui sont [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) doivent toujours être suivis d'un [walk](/wiki/Glossary/Walk).**
 - **Les [edge dashes](/wiki/Glossary/Edge_dash) ne doivent pas être utilisés.** Ils exigent un timing extrêmement précis que l'on ne peut attendre des joueurs moins expérimentés.
 - **Il faut laisser au moins 250 ms entre les cercles/slider et le début et la fin des [spinners](/wiki/Hit_object/Spinner).** Ceci afin de garantir la lisibilité.
@@ -116,11 +116,11 @@ Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au 
 - **Les [hyperdash](/wiki/Glossary/Hyperdash) doivent avoir un écart d'au moins 125 ms entre leurs deux objets.**
 - **Les [hyperdashes](/wiki/Glossary/Hyperdash) ne peuvent pas être utilisés sur les [drop](/wiki/Hit_object/Juice_stream#drop) individuelles et/ou les répétitions de sliders.** La précision et le contrôle requis sont déraisonnables à ce niveau et peuvent créer une situation où le joueur ne parvient pas à lire la trajectoire du slider.
 - **Les [hyperdash](/wiki/Glossary/Hyperdash) d'un rythme différent ne doivent pas être utilisés entre des [fruits](/wiki/Hit_object/Fruit) consécutifs.** Par exemple, un 1/2 hyperdash suivi d'un 1/4 hyperdash.
-- **Les [hyperdash](/wiki/Glossary/Hyperdash) qui sont [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) ne doivent pas être utilisés plus de deux fois entre des [fruits](/wiki/Hit_object/Fruit) consécutifs.**
+- **Les [hyperdash](/wiki/Glossary/Hyperdash) qui sont [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) ne doivent pas être utilisés plus de deux fois consécutifs entre des [fruits](/wiki/Hit_object/Fruit).**
 - **Les [hyperdash](/wiki/Glossary/Hyperdash) qui sont [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) ne doivent pas être utilisés en conjonction avec d'autres [dash](/wiki/Glossary/Dash) ou hyperdash.**
 - **Les [dash](/wiki/Glossary/Dash) doivent avoir un écart d'au moins 62 ms entre leurs deux objets.**
-- **Les [dash](/wiki/Glossary/Dash) qui sont [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) ne doivent pas être utilisés plus de quatre fois entre des [fruits](/wiki/Hit_object/Fruit) consécutifs.**
-- **Les [dash](/wiki/Glossary/Dash) qui sont [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) peuvent être utilisés jusqu'à deux fois entre des [fruits](/wiki/Hit_object/Fruit) consécutifs, à condition qu'il n'y ait pas de changement de direction entre eux.**
+- **Les [dash](/wiki/Glossary/Dash) qui sont [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) ne doivent pas être utilisés plus de quatre fois consécutifs entre des [fruits](/wiki/Hit_object/Fruit).**
+- **Les [dash](/wiki/Glossary/Dash) qui sont [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) peuvent être utilisés jusqu'à deux fois consécutifs entre des [fruits](/wiki/Hit_object/Fruit), à condition qu'il n'y ait pas de changement de direction entre eux.**
 - **Les [edge dashes](/wiki/Glossary/Edge_dash) ne doivent pas être utilisés.** Ils exigent un timing extrêmement précis que l'on ne peut attendre des joueurs moins expérimentés.
 - **Il faut laisser au moins 125 ms entre les cercles et les sliders et le début des [spinners](/wiki/Hit_object/Spinner).** Ceci afin de garantir la lisibilité.
 - **Il faut laisser au moins 250 ms entre les cercles/sliders et la fin des [spinners](/wiki/Hit_object/Spinner).** Ceci afin de garantir la lisibilité.
@@ -144,7 +144,7 @@ Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au 
 #### Règles
 
 - **Les [hyperdashes](/wiki/Glossary/Hyperdash) et les [dash](/wiki/Glossary/Dash) doivent avoir un écart d'au moins 62 ms entre leurs deux objets.**
-- **Les [hyperdashs](/wiki/Glossary/Hyperdash) qui sont [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) ne doivent pas être utilisés plus de quatre fois entre des [fruits](/wiki/Hit_object/Fruit) consécutifs.**
+- **Les [hyperdashs](/wiki/Glossary/Hyperdash) qui sont [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) ne doivent pas être utilisés plus de quatre fois consécutifs entre des [fruits](/wiki/Hit_object/Fruit).**
 - **Les [hyperdashs](/wiki/Glossary/Hyperdash) qui sont [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) ne doivent pas être utilisés plus de deux fois dans un slider.** Le chemin du slider doit être simple et facile à suivre.
 - **Les [hyperdashs](/wiki/Glossary/Hyperdash) qui sont [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) ne doivent pas être utilisés en conjonction avec des [dash](/wiki/Glossary/Dash) ou tout autre hyperdash.**
 - **Les [hyperdash](/wiki/Glossary/Hyperdash) qui sont [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) ne doivent pas être utilisés dans un slider.**
