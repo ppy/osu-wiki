@@ -1,14 +1,14 @@
 # Dash snapping
 
-In [osu!catch](/wiki/Game_mode/osu!catch) every [dash](/wiki/Glossary/Dash) and [hyperdash](/wiki/Glossary/Hyperdash) can be classified into two different snappings, basic-snapped or higher-snapped.
+In [osu!catch](/wiki/Game_mode/osu!catch) every [dash](/wiki/Gameplay/Dash) and [hyperdash](/wiki/Gameplay/Hyperdash) can be classified into two different snappings, basic-snapped or higher-snapped.
 
 ## Basic-snapped
 
-The term **basic-snapped** is used for any [dash](/wiki/Glossary/Dash) or [hyperdash](/wiki/Glossary/Hyperdash) whose time between [active objects](/wiki/Glossary/Active_object) is at least two times longer than the time required to allow dashes or hyperdashes, respectively. For example, a hyperdash between objects separated by 250 ms in a Platter classifies as a basic-snapped hyperdash.
+The term **basic-snapped** is used for any [dash](/wiki/Gameplay/Dash) or [hyperdash](/wiki/Gameplay/Hyperdash) whose time between [active objects](/wiki/Glossary/Active_object) is at least two times longer than the time required to allow dashes or hyperdashes, respectively. For example, a hyperdash between objects separated by 250 ms in a Platter classifies as a basic-snapped hyperdash.
 
 ## Higher-snapped
 
-The term **higher-snapped** is used for any [dash](/wiki/Glossary/Dash) or [hyperdash](/wiki/Glossary/Hyperdash) that doesn't meet the requirement to be a basic-snapped one (i.e. the time between the objects is shorter than the threshold to be classified as basic).
+The term **higher-snapped** is used for any [dash](/wiki/Gameplay/Dash) or [hyperdash](/wiki/Gameplay/Hyperdash) that doesn't meet the requirement to be a basic-snapped one (i.e. the time between the objects is shorter than the threshold to be classified as basic).
 
 ## Snapping reference table
 

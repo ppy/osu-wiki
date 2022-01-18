@@ -267,7 +267,7 @@ O sistema usado para calcular o dreno de vida é complicado, então não será e
 ### Histórico
 
 - As versões antigas do osu! costumavam emular alguns elementos da série *Ouendan*, mas com o passar do tempo foram removidos ou substituídos.
-  - [Combo fire](/wiki/Glossary/Combo_fire) ao atingir algumas metas de combo.
+  - [Combo fire](/wiki/Gameplay/Combo_fire) ao atingir algumas metas de combo.
   - A primeira versão da skin padrão era uma cópia quase idêntica da interface do *Ouendan*.
     - Foi substituída pela por uma mais atualizada que está de acordo com novos padrões de comportamentos de skins.
   - A diferença mais notável entre o padrão de comportamento antigo e o novo está no spinner.

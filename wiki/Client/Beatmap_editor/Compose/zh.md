@@ -151,7 +151,7 @@
 | 颜色 | 描述 |
 | :-- | :-- |
 | 灰色 | 休息时间 |
-| 橘色 | [Kiai Time](/wiki/Kiai_time) |
+| 橘色 | [Kiai Time](/wiki/Gameplay/Kiai_time) |
 
 #### 书签指令
 

@@ -75,7 +75,7 @@ Le placement du curseur dans le jeu n'a pas d'importance lorsque vous jouez norm
 Le [score dans osu!catch](/wiki/Gameplay/Score/osu!catch) est une somme pondérée de plusieurs composantes du gameplay. Il dépend des éléments suivants :
 
 - Le [jugement](/wiki/Gameplay/Judgement/osu!catch) ne fournit que des valeurs de score fixes pour chaque objet attrapé et ne dépend pas de la précision.
-- Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) est un multiplicateur de score : attraper un objet contribue davantage au score total lorsque le combo est élevé et vice versa. Dans osu!catch, le combo peut être [cassé](/wiki/Glossary/Combobreak) en réalisant un miss sur un large fruit ou un drop, ce qui diminue également la [vie](/wiki/Beatmapping/Health).
+- Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) est un multiplicateur de score : attraper un objet contribue davantage au score total lorsque le combo est élevé et vice versa. Dans osu!catch, le combo peut être [cassé](/wiki/Gameplay/Judgement/Combobreak) en réalisant un miss sur un large fruit ou un drop, ce qui diminue également la [vie](/wiki/Gameplay/Health).
 - La [précision](/wiki/Gameplay/Accuracy#osu!catch) indique combien d'objets ont été attrapés au total. Les petits droplets diminuent la précision s'ils ne sont pas attrapés, mais ne cassent pas le combo.
 
 Après avoir terminé une beatmap, le score se voit attribuer une [note](/wiki/Gameplay/Grade#osu!catch), une courte évaluation de la précision sous la forme d'une seule lettre. Un SS doré ou argenté indique une précision de 100 %, et tout le reste, de S à D, dépend de la quantité d'objets manqués.

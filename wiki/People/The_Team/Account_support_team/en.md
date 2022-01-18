@@ -12,22 +12,22 @@ It usually takes a few days for support to get to the email. If there is no resp
 
 ## Role and tasks
 
-*Main article: [Help Centre](/wiki/Help_Centre)*
+*Main article: [Help Centre](/wiki/Help_centre)*
 
-*See also: [Account Restrictions](/wiki/Help_Centre/Account_Restrictions)*
+*See also: [Account Restrictions](/wiki/Help_centre/Account_restrictions)*
 
 You should contact this team regarding account-related topics that are out of your control. Please remember to provide as much context on your issue as possible and send a email from the address associated with your osu! account.
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
-- [Appeals of restrictions placed on your account](/wiki/Help_Centre/Account_Restrictions), including:
+- [Appeals of restrictions placed on your account](/wiki/Help_centre/Account_restrictions), including:
   - silences;
   - profile content removals;
   - beatmap removals;
   - forum post and comment removals.
 - Instances of misbehaviour that you [wish to admit](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?).
-- [Loss of access to the email](/wiki/Help_Centre/Installation_and_registration#where-do-i-register-for-osu!?) tied to your osu! account, or when your account is stolen.
-- Username [reverts and minor spelling corrections](/wiki/Help_Centre/Account#name-changes).
+- [Loss of access to the email](/wiki/Help_centre/Installation_and_registration#where-do-i-register-for-osu!?) tied to your osu! account, or when your account is stolen.
+- Username [reverts and minor spelling corrections](/wiki/Help_centre/Account#name-changes).
 - [Bot account registrations](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
@@ -36,8 +36,8 @@ You should contact this team regarding account-related topics that are out of yo
 
 - Concerns about a moderator's misbehaviour.
 - Concerns about a moderator breaking [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct).
-- [Payment issues](/wiki/Help_Centre/Account#supporter) for orders from [osu!store](https://osu.ppy.sh/store/listing).
-- Technical issues that couldn't or haven't been resolved in [the Help forum](https://osu.ppy.sh/community/forums/5), such as [connectivity issues](/wiki/Help_Centre/Client#online-features).
+- [Payment issues](/wiki/Help_centre/Account#supporter) for orders from [osu!store](https://osu.ppy.sh/store/listing).
+- Technical issues that couldn't or haven't been resolved in [the Help forum](https://osu.ppy.sh/community/forums/5), such as [connectivity issues](/wiki/Help_centre/Client#online-features).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 

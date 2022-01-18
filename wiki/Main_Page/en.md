@@ -15,7 +15,7 @@ Welcome to the osu! wiki, the open-source knowledge base containing a wide range
 
 Important articles and guides that will help you dive into osu!. In case anything goes wrong or appears uncertain, make sure to visit the [Help forum](https://osu.ppy.sh/forum/5).
 
-[Rules](/wiki/Rules) • [Installation](/wiki/Client/Installation) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_Centre)
+[Rules](/wiki/Rules) • [Installation](/wiki/Client/Installation) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_centre)
 
 [Chat console](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Guides](/wiki/Guides) • [Glossary](/wiki/Glossary)
 
@@ -39,7 +39,7 @@ Everything about clicking circles, striking drums, catching fruits, and playing 
 
 [Game modes](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Difficulty](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Replay) • [Medals](/wiki/Medals) • [Multi](/wiki/Multi)
+[Beatmap](/wiki/Beatmap) • [Difficulty](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medals](/wiki/Medals) • [Multi](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -85,9 +85,9 @@ Media regulations: [Content usage guidelines](/wiki/Rules/Content_Usage_Guidelin
 
 Answers to frequent questions and solutions to common issues live here.
 
-[Help centre](/wiki/Help_Centre) • [Performance troubleshooting](/wiki/Performance_troubleshooting) • [Account support team](/wiki/People/The_Team/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
+[Help centre](/wiki/Help_centre) • [Performance troubleshooting](/wiki/Performance_troubleshooting) • [Account support team](/wiki/People/The_Team/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
 
-Profile restrictions: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_Centre/Account_Restrictions)
+Profile restrictions: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_centre/Account_restrictions)
 
 Do your part: [How and what to help with](/wiki/Community/How_you_can_help!) • [Report bad behaviour](/wiki/Reporting_bad_behaviour) • [Report abuse](/wiki/Reporting_bad_behaviour/Abuse) • [Report cheating](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 

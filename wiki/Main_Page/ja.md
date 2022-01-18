@@ -13,7 +13,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 # はじめに
 
-[インストール](/wiki/Client/Installation) • [登録](/wiki/Registration) • [ヘルプセンター](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[インストール](/wiki/Client/Installation) • [登録](/wiki/Registration) • [ヘルプセンター](/wiki/Help_centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -31,7 +31,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 [ゲームモード](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[ビートマップ](/wiki/Beatmap) • [ヒットオブジェクト](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [スコア](/wiki/Gameplay/Score) • [リプレイ](/wiki/Replay) • [マルチ](/wiki/Multi)
+[ビートマップ](/wiki/Beatmap) • [ヒットオブジェクト](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [スコア](/wiki/Gameplay/Score) • [リプレイ](/wiki/Gameplay/Replay) • [マルチ](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
