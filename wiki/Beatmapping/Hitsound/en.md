@@ -29,7 +29,7 @@ If a hitsound is on a non-clickable part of a hit object, for example a slider r
 
 ## Storyboarded hitsound
 
-Sound samples may be added through storyboarding to mimic hitsounds. Unlike actual hitsounds, however, these always play at the given time regardless of whether the player hit the object. For that reason, they are often not recommended.
+Sound samples may be added through storyboarding to mimic hitsounds. Unlike actual hitsounds, however, these always play at the given time regardless of whether the player hit the object. For that reason, they are often not recommended. Some mappers use these to maintain hitsound patterns between hit objects.
 
 ## Keysound
 
