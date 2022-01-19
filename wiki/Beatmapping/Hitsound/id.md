@@ -25,7 +25,7 @@ Sebuah hitsound dikatakan *aktif* jika hitsound tersebut berada pada *hit object
 
 Jika sebuah hitsound berada pada hit object dan bagian tersebut tidak dapat ditekan, contohnya slider repeat atau spinner end, hitsound tersebut dikatakan *pasif*. Hitsound ini selalu diputar pada waktu yang sama selama pemain berinteraksi dengan *hit object* tersebut. Hitsound pasif tidak harus terdengar jelas atau berpengaruh secara besar, namun hitsound tersebut selalu berupa sampel yang sama dengan hitsound aktif saat hitsound tersebut berada pada ketukan yang berbeda untuk membantu pemain tetap dalam irama.
 
-# Hitsound pada storyboard
+# Hitsound storyboard
 
 Sampel suara dapat ditambahkan pada storyboard untuk meniru sebuah hitsound. Tidak seperti hitsound sungguhan, sampel suara ini dapat diputar kapanpun tanpa harus ditekan oleh pemain. Sehingga sampel suara ini selalu tidak direkomendasikan untuk digunakan pada mapping. Beberapa mapper menggunakan ini untuk menjaga pola hitsound yang ada di antara *hit object*.
 
