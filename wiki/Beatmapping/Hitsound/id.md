@@ -3,6 +3,8 @@ stub: true
 tags:
   - hit sounds
   - hitsounds
+outdated: true
+outdated_since: eb6a0011021cd4db92cd5e9a4668777e10bc9517
 ---
 
 # Hitsound
@@ -26,6 +28,8 @@ Sebuah hitsound aktif berkaitan ke clicking pemain dengan mencapai dampak puncak
 Sebuah pasif hitsound tidak berkaitan ke clicking pemain. Ini biasanya efek suara yang menemani hitsound aktif.
 
 Hitsound dapat ditambahkan bersamaan dengan storyboard, tapi karena mereka tidak terhubung dengan clicking pemain, mereka juga tergolong sebagai pasif.
+
+<!-- TODO for translator: Update `[Hitsound storyboard](/wiki/Beatmapping/Hitsound#hitsound-pasif)` in Ranking_Criteria/id.md when the "Storyboarded hitsound" section is translated here -->
 
 ## Keysound
 
