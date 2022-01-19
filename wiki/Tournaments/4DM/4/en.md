@@ -15,17 +15,17 @@ The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2021-11-20/2021-12-11 |
-| Screening phase | 2021-12-12/2021-12-25 |
-| Team captain announcement | 2021-12-18 |
-| Participating team announcement | 2021-12-26 |
-| Qualifiers | 2022-01-08/2022-01-09 |
-| Group stage | 2022-01-15/2022-01-16 |
-| Round of 16 | 2022-01-22/2022-01-23 |
-| Quarterfinals | 2022-01-29/2022-01-30 |
-| Semifinals | 2022-02-05/2022-02-06 |
-| Finals | 2022-02-12/2022-02-13 |
-| Grand Finals | 2022-02-19/2022-02-20 | 
+| Registration phase | 2021\-11\-20/2021\-12\-11 |
+| Screening phase | 2021\-12\-12/2021\-12\-25 |
+| Team captain announcement | 2021\-12\-18 |
+| Participating team announcement | 2021\-12\-26 |
+| Qualifiers | 2022\-01\-08/2022\-01\-09 |
+| Round of 32 | 2022\-01\-15/2022\-01\-16 |
+| Round of 16 | 2022\-01\-22/2022\-01\-23 |
+| Quarterfinals | 2022\-01\-29/2022\-01\-30 |
+| Semifinals | 2022\-02\-05/2022\-02\-06 |
+| Finals | 2022\-02\-12/2022\-02\-13 |
+| Grand Finals | 2022\-02\-19/2022\-02\-20 | 
 
 ## Prizes
 
@@ -43,7 +43,7 @@ The 4 Digit osu!mania World Cup 4 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061) |
-| Pooler | ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190), ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845)|
+| Pooler | ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190), ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845) |
 | Mapper | ![][flag_PH] [Arccat](https://osu.ppy.sh/users/4848294), ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190), ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_TH] [RuleBlazing](https://osu.ppy.sh/users/7312402), ![][flag_CL] [Urusai](https://osu.ppy.sh/users/469808), ![][flag_BE] [yetii](https://osu.ppy.sh/users/6914714), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Tester | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_IT] [Kiraz](https://osu.ppy.sh/users/3807675), ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379), ![][flag_MY] [\[-Leon-\]](https://osu.ppy.sh/users/13382147), ![][flag_RU] [Lerck](https://osu.ppy.sh/users/10450696), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_BR] [Yuragi](https://osu.ppy.sh/users/8501380), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Consultant | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) |
@@ -240,7 +240,7 @@ Sunday, 16 January 2022:
 
 ## Structure
 
-4DM4 will attempt to closely follow the rules of the most recent 4k osu!mania World Cup whose wiki page is hyperlinked [here](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2021_4K).
+4DM4 will attempt to closely follow the rules of the most recent 4k osu!mania World Cup whose wiki page is hyperlinked [here](/wiki/en/Tournaments/MWC/2021_4K).
 
 ### Team formation
 
@@ -303,10 +303,10 @@ Please note that tournament hosts will only enact restrictions of this caliber i
 
 Repeated and excessive toxic behavior toward any staff member, player, or spectator either in match multiplayer chatroom, the official discord server, or the official twitch channel chatroom is strictly prohibited and will lead to, in successive order with host’s discretion to skip certain steps:
 
-1. <span style="color:green">Casual, undocumented warning</span>
-2. <span style="color:yellow">Formal, documented warning</span>
-3. <span style="color:orange">Timeout of player wherever necessary for a subjective amount of time (Players on timeout during tournament match will be disallowed to play during their match and must be swapped out for other players)</span>
-4. <span style="color:red">Official ban from the tournament as well as a ban from the official discord server and twitch channel</span>
+1. Casual, undocumented warning
+2. Formal, documented warning
+3. Timeout of player wherever necessary for a subjective amount of time (Players on timeout during tournament match will be disallowed to play during their match and must be swapped out for other players)
+4. Official ban from the tournament as well as a ban from the official discord server and twitch channel
 
 If one player on a team has their account restricted while still participating in the tournament for reasons of believed cheating, multiaccounting, or anything else, this player's entire team shall be disqualified from the tournament with no exceptions. Depending on the case, the team most recently defeated in a match by the newly disqualified team may be allowed to advance in this disqualified team's place. If this happens, the result of this former match will be voided.
 
@@ -318,7 +318,6 @@ If one player on a team has their account restricted while still participating i
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
@@ -331,8 +330,6 @@ If one player on a team has their account restricted while still participating i
 [flag_GT]: /wiki/shared/flag/GT.gif "Guatemala"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
-[flag_IN]: /wiki/shared/flag/IN.gif "India"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
@@ -340,18 +337,14 @@ If one player on a team has their account restricted while still participating i
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NI]: /wiki/shared/flag/NI.gif "Nicaragua"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PA]: /wiki/shared/flag/PA.gif "Panama"
 [flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
