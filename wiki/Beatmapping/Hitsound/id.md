@@ -29,8 +29,6 @@ Jika sebuah hitsound berada pada hit object dan bagian tersebut tidak dapat dite
 
 Sampel suara dapat ditambahkan pada storyboard untuk meniru sebuah hitsound. Tidak seperti hitsound sungguhan, sampel suara ini dapat diputar kapanpun tanpa harus ditekan oleh pemain. Sehingga sampel suara ini selalu tidak direkomendasikan untuk digunakan pada mapping. Beberapa mapper menggunakan ini untuk menjaga pola hitsound yang ada di antara *hit object*.
 
-<!-- TODO for translator: Update `[Hitsound storyboard](/wiki/Beatmapping/Hitsound#hitsound-pasif)` in Ranking_Criteria/id.md when the "Storyboarded hitsound" section is translated here -->
-
 ## Keysound
 
 Keysound merupakan sampel hitsound yang sangat mirip dengan, atau diambil langsung dari, musik dan digunakan untuk mereplika pitch dari not musik. Cara ini biasanya memberikan umpan balik yang rendah kepada pemain, tapi bisa membuat bermain lebih menarik dan membuat sebagian dari map lebih menonjol ketika diterapkan dengan baik.
