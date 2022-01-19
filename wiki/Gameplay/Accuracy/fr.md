@@ -8,7 +8,7 @@ La précision est une mesure en pourcentage de la capacité d'un joueur à touch
 
 ![Précision = (300 \* nombre de 300s + 100 \* nombre de 100s + 50 \* nombre de 50s) / (300 \* (nombre de 300s + nombre de 100s + nombre de 50s + nombre de miss))](img/accuracy_osu_updated.png "Formule de précision pour osu!")
 
-Dans osu!, la précision est calculée en pondérant le [jugement](/wiki/Gameplay/Judgement) obtenu de chaque hit object et en le divisant par la valeur maximum qu'il est possible de réaliser.
+Dans osu!, la précision est calculée en pondérant le [jugement](/wiki/Gameplay/Judgement) obtenu de chaque hit object et en le divisant par la valeur maximale qu'il est possible de réaliser.
 
 Référence pour un seul hit circle :
 
