@@ -27,7 +27,7 @@ Curious what this deviation from the norm sounds like? Take a peek this video of
 Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1080204) or [an osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1434606), both hosted by [wafer](https://osu.ppy.sh/users/9416836)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/232/Metamodernity/Vansire%20-%20Metamodernity.mp3" type="audio/mpeg">
 </audio>
 
 ### Every Time Around
@@ -35,7 +35,7 @@ Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1080204) or [a
 Or check out [this map](https://osu.ppy.sh/beatmapsets/1280657) also hosted by [wafer](https://osu.ppy.sh/users/9416836)! 
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/232/After%20Fillmore%20County/Vansire%20-%20Every%20Time%20Around.mp3" type="audio/mpeg">
 </audio>
 
 ### That I Miss You
@@ -43,7 +43,7 @@ Or check out [this map](https://osu.ppy.sh/beatmapsets/1280657) also hosted by [
 Experience [this map](https://osu.ppy.sh/beatmapsets/1159563) hosted by [wafer](https://osu.ppy.sh/users/9416836) or [another interpretation](https://osu.ppy.sh/beatmapsets/1464519) hosted by [jschlatt](https://osu.ppy.sh/users/6787940)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/232/That%20I%20Miss%20You/Vansire%20-%20That%20I%20Miss%20You.mp3" type="audio/mpeg">
 </audio>
 
 ### Nice to See You (feat. Floor Cry)
@@ -51,7 +51,7 @@ Experience [this map](https://osu.ppy.sh/beatmapsets/1159563) hosted by [wafer](
 Treat yourself to [this map](https://osu.ppy.sh/beatmapsets/1484447) hosted by [Mimari](https://osu.ppy.sh/users/14339830)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/232/Angel%20Youth/Vansire%20-%20Nice%20to%20See%20You%20(feat.%20Floor%20Cry).mp3" type="audio/mpeg">
 </audio>
 
 To finish up your circle clicking session, run through [this compilation of **Vansire** songs](https://osu.ppy.sh/beatmapsets/1461317) hosted (yet again) by [wafer](https://osu.ppy.sh/users/9416836)!
