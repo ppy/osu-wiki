@@ -62,7 +62,7 @@ The 4 Digit osu!mania World Cup 4 is run by various community members.
 - [Livestream](https://twitch.tv/4digitmwc)
 - [Tournament bracket](https://challonge.com/4DMWC4)
 - [Pick'em predictions website](https://pickem.hwc.hr/tournaments/77) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- Spreadsheet
+- Spreadsheets
   - **[Master](https://docs.google.com/spreadsheets/d/e/2PACX-1vT6kGUH_gfmW9Se6gdksXY62L0jlaQqIPTCIdwT399DFvx4nVZaOHHawlGzEr0ESHkcsmSVzEr1iudd/pubhtml)**
   - [Statistics](https://docs.google.com/spreadsheets/d/1ahkEH9dOcpeAWHYfpUOKo_0AjD_aIOYzmsa8fKfGBAs/edit?rm=minimal)
 
@@ -238,7 +238,7 @@ Sunday, 16 January 2022:
 | #39 | ![][flag_ZA] South Africa | 38.8 |
 | #40 | ![][flag_CO] Colombia | 40.0 |
 
-## Structure
+## Ruleset
 
 4DM4 will attempt to closely follow the rules of [the most recent osu!mania 4K World Cup](/wiki/Tournaments/MWC/2021_4K).
 
@@ -246,13 +246,13 @@ Sunday, 16 January 2022:
 
 **The country whose team you will play for is determined by the country whose flag is represented on your osu! profile.**
 
-- A team captain will be picked by the hosts from each country's signup list based on a number of aspects, this decision is discrete and final.
-- This team captain will pick the members to play alongside them on their country's team. Team captains have full control over how they would like to pick their country's team, this can include holding tryouts, interviews, or just simply picking from the list of signups with no other input.
-- Teams will consist of a minimum of 3 members, and a maximum of 6 members per team.
+- A team captain will be picked by the hosts from each country's signup list based on a number of aspects. This decision is discrete and final.
+- The team captain will pick the members to play alongside them on their country's team. Team captains have full control over how they would like to pick their country's team. This can include holding tryouts, interviews, or just simply picking from the list of signups with no other input.
+- Teams will consist of a minimum of 3 and a maximum of 6 members per team.
 
 ### Qualifiers
 
-After teams are selected, the first weekend of tournament play will be the Qualifier Stage in order to cut down to a pre-decided number of teams to advance into the following stage, as well as to determine each team's "seed" (More about team "seeds" will be discussed later). There will be a total of five different qualifier maps, each meant to test a different skillset found in map pools throughout the tournament. The qualifier maps will follow this structure:
+After teams are selected, the first weekend of tournament play will be the Qualifier Stage in order to cut down to a pre-decided number of teams to advance into the following stage, as well as to determine each team's seed (see [Match procedures](#match-procedures)). There will be a total of five different qualifier maps, each meant to test a different skillset found in map pools throughout the tournament. The qualifier maps will follow this structure:
 
 - **Stage 1: SV**
 - **Stage 2: Consistency**
@@ -262,51 +262,52 @@ After teams are selected, the first weekend of tournament play will be the Quali
 
 For the Qualifier Stage, each team will play these five maps in a scheduled lobby. Teams will present three players to play each map (switching which three play between maps is allowed), and will play each of the five qualifier maps up to two times in the lobby. Whichever team score was the highest per stage will be recorded. (For example, if a team scores 975000, 975000, 980000 on one round and then 980000, 985000, 970000 on the next round, the 2nd round will be the one recorded because the total team score was higher on the second round.)
 
-Teams will be ranked based on the “score rating” of their qualifier performances, meaning that each teams' performance on each of the five qualifier maps will be ranked compared to every other team and the ranks that each team achieves on these five maps will then be added up. The teams will then be sorted based on their "score rating" from lowest to highest, with lower score ratings being ranked better than higher score ratings. Essentially, a team's qualifier performance is ranked based on how well they perform compared to every other participating team.
+Teams will be ranked based on the "score rating" of their qualifier performances, meaning that each teams' performance on each of the five qualifier maps will be compared to every other team by adding up the scores that each team achieves on these five maps. The teams will then be sorted based on their score rating from lowest to highest, where lower is better.
 
-The results of the Qualifier Stage will also be used to determine the “seed” of each team.
+Teams that advance to the following stages will be seeded by the results of the Qualifier Stage.
 
 ### Match procedures
 
-After Qualifiers are over and every team has either gotten a seed or not qualified, the bracket will then begin. 4DM4 will use a standard Double Elimination bracket where the top seeded team will face the bottom seeded team, second highest will face second lowest, so on and so forth. Each team must lose two different matches to be eliminated from the tournament, this means that every team will get the chance to at least play two separate pools.
+After Qualifiers are over and every team has either gotten a seed or not qualified, the bracket will then begin. 4DM4 will use a standard Double Elimination bracket where the top-seeded team will face the bottom-seeded team, second highest will face second lowest, etc. Each team must lose two different matches to be eliminated from the tournament, which means that every team will get the chance to play at least two separate pools.
 
 **Matches will be played with the following rules:**
 
-- Team captains will be notified of their match via ping on discord by the referee of their match 30 minutes before the match is scheduled to commence. At this time, team captains shall give the link of one map they wish to play as warmup to the referee of their match. This map must be an osu!mania 4k map and must be no longer than 5 minutes. Referees may refuse a teams warmup and demand another one from the team captain if the map does not meet these guidelines or is found to be offensive. Failure to provide a warmup to the referee at this time may result in this team skipping their warmup map.
+- Team captains will be notified of their match via ping on Discord by the referee of their match 30 minutes before the match is scheduled to commence. At this time, team captains shall give the link to one map they wish to play as warmup to the referee of their match. This map must be an osu!mania 4k map and must be no longer than 5 minutes. Referees may refuse a team's warmup map and demand another one from the team captain if it does not meet these guidelines or is found to be offensive. Failure to provide a warmup to the referee may result in this team skipping their warmup map.
 - Team captains will be invited to their match lobby by a referee no less than 5 minutes before the match is scheduled to commence. In the time before the match, team captains will invite and gather their teams into the lobby.
-- When both team members have 3 members present in the lobby, the match will commence by each team playing their selected warmup map.
-- After warmups, both team captains will !roll in the lobby chat. The captain with the lower of the two rolls will choose a map in the freemod pool to ban from play, then the captain with the higher roll will choose a map in the freemod pool to ban from play, as well as their first pick to play from the freemod pool.
+- When both teams have 3 members present in the lobby, the match will commence starting with warmups.
+- After warmups, both team captains will `!roll` in the lobby chat. The captain who rolled lower will choose a map to ban from the FreeMod pool, and then the other captain will do the same, as well as be the first to pick a map to play from the FreeMod pool.
 - Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.
-- Each team will receive one "tactical timeout" of two minutes, to be used as extra time to pick or ban a beatmap. The tactical timeout may only be used by the team who has to pick and can also be used when getting ready.
-- If a tiebreaker gets played, both teams may use their tactical timeout, but only one timeout can be given.
+- Each team will receive one tactical timeout of two minutes, to be used as extra time to pick or ban a beatmap. The tactical timeout may only be used by the team who has to pick and can also be used when getting ready.
+- If a tiebreaker map gets played, both teams may use their tactical timeout, but only one timeout can be given.
 - After each map concludes, the team with the highest team score on the map will be awarded one point. Picks will alternate between team captains until a winner is decided by being the first to get the required amount of points to win that round.
 - If team scores on a map are tied, no points will be awarded and the teams will play the map again.
 - In the Round of 32 and Round of 16, teams need to win 5 maps to win a match (best of 9). In the Quarterfinals and Semifinals, teams need to win 6 maps to win a match (best of 11). In the Finals and Grand Finals, teams need to win 7 maps to win the match (best of 13).
-- If both teams tie at match point, the tiebreaker map will be played, the team who wins the tiebreaker map will win the match.
+- If both teams tie at match point, the tiebreaker map will be played, and the team who wins the tiebreaker map will win the match.
 
 ### Additional Rules
 
-The tournament hosts are responsible for scheduling all matches and informing players of when they are scheduled to play. If a team is unhappy with when they are scheduled by the hosts to play, they have the option to reschedule their match as late as the end of Thursday of the week before the weekend of their match. Instructions on how to do so will be provided in the discord server.
+The tournament hosts are responsible for scheduling all matches and informing players of when they are scheduled to play. If a team is unhappy with their scheduled time, they have the option to reschedule their match as late as the end of Thursday of the week before the weekend of their match. Instructions on how to do so will be provided in the Discord server.
 
-Please note that while the organizers will try to schedule all matches for the best possible time for both teams, timezone conflicts may make some matches be forced to occur in the early mornings or late nights.
+Please note that while the organisers will try to schedule all matches for the best possible time for both teams, timezone conflicts may force some matches to occur in the early mornings or late nights.
 
 - If no referee is available to referee a match, the match shall be delayed.
 - If no streamers are available to broadcast the match, the match will still happen without being broadcasted.
 - If no commentators are available to commentate the match but broadcasters are available to broadcast the match, the match will still be broadcasted but without commentary.
 
-Please note that while 4DM4 will try to broadcast every match, certain matches may be unable to be broadcasted due to overlapping matches and/or lack of streamer availability. Rescheduled matches will be prioritized under non-rescheduled matches in terms of being broadcasted.
+Please note that certain matches may be unable to be broadcasted due to overlapping matches and/or lack of streamer availability. Priority will be given to non-rescheduled matches.
 
-Each respective stage of the tournament is to be completed in a single weekend, using the same map pool for the entire weekend. Weekday matches are allowed if both team captains agree to them and they take place before the weekend of that scheduled stage. As aforementioned, map pools will be released roughly a week before the stage they are to be played on. The latest a map in a released map pool may be slightly updated (for example, as to fixing a notable timing or snapping issue) is by 23:59UTC of the Monday after the map pool is released.
+Each respective stage of the tournament is to be completed in a single weekend, using the same mappool for the entire weekend. Weekday matches are allowed if both team captains agree to them and they take place before the weekend of that scheduled stage. As mentioned before, mappools will be released roughly a week before the stage they are to be played on. The latest a map in a released mappool may be slightly updated (for example, to fixing a notable timing or snapping issue) by 23:59 UTC of the Monday after the mappool is released.
 
-Tournament hosts have the right to revoke any signed player’s eligibility to participate in the tournament due to an obvious excess of skill compared to the tournament’s target demographic, or due to blacklist-worthy community offenses that may not see them screened out of the tournament in the Screening Phase.
-Please note that tournament hosts will only enact restrictions of this caliber in the most extreme of scenarios for reasons seen as precautionary protection of the tournament’s fairness to its players, as the hosts acknowledge that the reasons for doing this are inherently very subjective and broad.
+Tournament hosts have the right to revoke any signed player's eligibility to participate in the tournament due to an obvious excess of skill compared to the tournament's target demographic, or due to blacklist-worthy community offenses that may not see them screened out of the tournament in the screening phase.
 
-Repeated and excessive toxic behavior toward any staff member, player, or spectator either in match multiplayer chatroom, the official discord server, or the official twitch channel chatroom is strictly prohibited and will lead to, in successive order with host’s discretion to skip certain steps:
+Please note that tournament hosts will only enact restrictions of this calibre in the most extreme of scenarios for reasons seen as precautionary protection of the tournament's fairness to its players, as the hosts acknowledge that the reasons for doing this are inherently very subjective and broad.
+
+Repeated and excessive toxic behavior towards any staff member, player, or spectator either in match multiplayer lobby, the official Discord server, or the official Twitch channel is strictly prohibited and will lead to, in successive order or with a few steps skipped at the host's discretion:
 
 1. Casual, undocumented warning
 2. Formal, documented warning
-3. Timeout of player wherever necessary for a subjective amount of time (Players on timeout during tournament match will be disallowed to play during their match and must be swapped out for other players)
-4. Official ban from the tournament as well as a ban from the official discord server and twitch channel
+3. Timeout of a player wherever necessary for a subjective amount of time. Players on timeout during tournament match will be disallowed to play during their match and must be swapped out for other players.
+4. Official ban from the tournament as well as a ban from the official Discord server and Twitch chat.
 
 If one player on a team has their account restricted while still participating in the tournament for reasons of believed cheating, multiaccounting, or anything else, this player's entire team shall be disqualified from the tournament with no exceptions. Depending on the case, the team most recently defeated in a match by the newly disqualified team may be allowed to advance in this disqualified team's place. If this happens, the result of this former match will be voided.
 
