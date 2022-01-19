@@ -29,6 +29,8 @@ Sebuah pasif hitsound tidak berkaitan ke clicking pemain. Ini biasanya efek suar
 
 Hitsound dapat ditambahkan bersamaan dengan storyboard, tapi karena mereka tidak terhubung dengan clicking pemain, mereka juga tergolong sebagai pasif.
 
+<!-- TODO for translator: Update `[Hitsound storyboard](/wiki/Beatmapping/Hitsound#hitsound-pasif)` in Ranking_Criteria/id.md when the "Storyboarded hitsound" section is translated here -->
+
 ## Keysound
 
 Keysound adalah sampel hitsound yang sangat mirip kepada, atau diambil langsung dari, musik dan digunakan untuk mereplika pitch dari not musik. Cara ini biasanya memberikan umpan balik yang rendah kepada pemain, tapi bisa membuat bermain lebih menarik dan membuat sebagian dari map lebih menonjol ketika diterapkan dengan baik.
