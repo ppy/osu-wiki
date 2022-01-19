@@ -9,23 +9,23 @@ tags:
 
 ![4DM4 logo](img/banner.jpg)
 
-The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), and ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061). This was the fourth installment of the 4 Digit osu!mania World Cup.
+The **4 Digit osu!mania World Cup 4** (***4DM4***) is a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), and ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061). This is the fourth instalment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2021\-11\-20/2021\-12\-11 |
-| Screening phase | 2021\-12\-12/2021\-12\-25 |
-| Team captain announcement | 2021\-12\-18 |
-| Participating team announcement | 2021\-12\-26 |
-| Qualifiers | 2022\-01\-08/2022\-01\-09 |
-| Round of 32 | 2022\-01\-15/2022\-01\-16 |
-| Round of 16 | 2022\-01\-22/2022\-01\-23 |
-| Quarterfinals | 2022\-01\-29/2022\-01\-30 |
-| Semifinals | 2022\-02\-05/2022\-02\-06 |
-| Finals | 2022\-02\-12/2022\-02\-13 |
-| Grand Finals | 2022\-02\-19/2022\-02\-20 | 
+| Registration phase | 2021-11-20/2021-12-11 |
+| Screening phase | 2021-12-12/2021-12-25 |
+| Team captain announcement | 2021-12-18 |
+| Participating team announcement | 2021-12-26 |
+| Qualifiers | 2022-01-08/2022-01-09 |
+| Round of 32 | 2022-01-15/2022-01-16 |
+| Round of 16 | 2022-01-22/2022-01-23 |
+| Quarterfinals | 2022-01-29/2022-01-30 |
+| Semifinals | 2022-02-05/2022-02-06 |
+| Finals | 2022-02-12/2022-02-13 |
+| Grand Finals | 2022-02-19/2022-02-20 |
 
 ## Prizes
 
@@ -38,7 +38,7 @@ The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based
 
 ## Staff
 
-The 4 Digit osu!mania World Cup 4 was run by various community members.
+The 4 Digit osu!mania World Cup 4 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -69,7 +69,7 @@ The 4 Digit osu!mania World Cup 4 was run by various community members.
 ## Participants
 
 |  | Country | Members |
-| :-: | :-: | :-- |
+| :-: | :-- | :-- |
 | ![][flag_AR] | **Argentina** | **[menphiss](https://osu.ppy.sh/users/6185083)**, [BL5](https://osu.ppy.sh/users/13187997), [-Tebo-](https://osu.ppy.sh/users/12092659), [DUELODER](https://osu.ppy.sh/users/8224116), [Mateo12345](https://osu.ppy.sh/users/16481146), [chwisuwu](https://osu.ppy.sh/users/11394892) |
 | ![][flag_AU] | **Australia** | **[\[ Decku \]](https://osu.ppy.sh/users/13360768)**, [FluffyGMD](https://osu.ppy.sh/users/10502251), [fvrex](https://osu.ppy.sh/users/11863699), [HD_AdreNaline](https://osu.ppy.sh/users/10540368), [Maid Bnot](https://osu.ppy.sh/users/16954929), [Nerd Guy](https://osu.ppy.sh/users/11247298) |
 | ![][flag_BE] | **Belgium** | **[spamblock](https://osu.ppy.sh/users/11968058)**, [shaafs](https://osu.ppy.sh/users/8811695), [brug](https://osu.ppy.sh/users/13031731), [flyerbram002](https://osu.ppy.sh/users/12725421), [xXyarnuXx](https://osu.ppy.sh/users/15103105), [hydreigon2004](https://osu.ppy.sh/users/14053380) |
@@ -197,26 +197,26 @@ Sunday, 16 January 2022:
 
 | Seed | Team | Average rank |
 | --: | :-- | --: |
-| #1 | ![][flag_US] United States | 2 |
+| #1 | ![][flag_US] United States | 2.0 |
 | #2 | ![][flag_FR] France | 3.2 |
-| #3 | ![][flag_TH] Thailand | 7 |
+| #3 | ![][flag_TH] Thailand | 7.0 |
 | #4 | ![][flag_NL] Netherlands | 7.4 |
 | #5 | ![][flag_ID] Indonesia | 9.6 |
 | #6 | ![][flag_VN] Vietnam | 9.6 |
-| #7 | ![][flag_MY] Malaysia | 11 |
-| #8 | ![][flag_CA] Canada | 11 |
+| #7 | ![][flag_MY] Malaysia | 11.0 |
+| #8 | ![][flag_CA] Canada | 11.0 |
 | #9 | ![][flag_BR] Brazil | 11.6 |
 | #10 | ![][flag_PH] Philippines | 11.8 |
-| #11 | ![][flag_SG] Singapore | 12 |
-| #12 | ![][flag_PE] Peru | 14 |
+| #11 | ![][flag_SG] Singapore | 12.0 |
+| #12 | ![][flag_PE] Peru | 14.0 |
 | #13 | ![][flag_GB] United Kingdom | 14.6 |
 | #14 | ![][flag_SE] Sweden | 14.8 |
-| #15 | ![][flag_DE] Germany | 15 |
+| #15 | ![][flag_DE] Germany | 15.0 |
 | #16 | ![][flag_ES] Spain | 15.6 |
 | #17 | ![][flag_TW] Taiwan | 15.8 |
 | #18 | ![][flag_AU] Australia | 16.2 |
-| #19 | ![][flag_JP] Japan | 17 |
-| #20 | ![][flag_MX] Mexico | 17 |
+| #19 | ![][flag_JP] Japan | 17.0 |
+| #20 | ![][flag_MX] Mexico | 17.0 |
 | #21 | ![][flag_RU] Russian Federation | 19.8 |
 | #22 | ![][flag_PL] Poland | 21.2 |
 | #23 | ![][flag_HK] Hong Kong | 21.8 |
@@ -236,11 +236,11 @@ Sunday, 16 January 2022:
 | #37 | ![][flag_NI] Nicaragua | 35.4 |
 | #38 | ![][flag_UY] Uruguay | 35.6 |
 | #39 | ![][flag_ZA] South Africa | 38.8 |
-| #40 | ![][flag_CO] Colombia | 40 |
+| #40 | ![][flag_CO] Colombia | 40.0 |
 
 ## Structure
 
-4DM4 will attempt to closely follow the rules of the most recent 4k osu!mania World Cup whose wiki page is hyperlinked [here](/wiki/en/Tournaments/MWC/2021_4K).
+4DM4 will attempt to closely follow the rules of [the most recent osu!mania 4K World Cup](/wiki/Tournaments/MWC/2021_4K).
 
 ### Team formation
 
@@ -274,7 +274,7 @@ After Qualifiers are over and every team has either gotten a seed or not qualifi
 
 - Team captains will be notified of their match via ping on discord by the referee of their match 30 minutes before the match is scheduled to commence. At this time, team captains shall give the link of one map they wish to play as warmup to the referee of their match. This map must be an osu!mania 4k map and must be no longer than 5 minutes. Referees may refuse a teams warmup and demand another one from the team captain if the map does not meet these guidelines or is found to be offensive. Failure to provide a warmup to the referee at this time may result in this team skipping their warmup map.
 - Team captains will be invited to their match lobby by a referee no less than 5 minutes before the match is scheduled to commence. In the time before the match, team captains will invite and gather their teams into the lobby.
-- When both team members have 3 members present in the lobby, the match will commence by each team playing their selected warmup map. 
+- When both team members have 3 members present in the lobby, the match will commence by each team playing their selected warmup map.
 - After warmups, both team captains will !roll in the lobby chat. The captain with the lower of the two rolls will choose a map in the freemod pool to ban from play, then the captain with the higher roll will choose a map in the freemod pool to ban from play, as well as their first pick to play from the freemod pool.
 - Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.
 - Each team will receive one "tactical timeout" of two minutes, to be used as extra time to pick or ban a beatmap. The tactical timeout may only be used by the team who has to pick and can also be used when getting ready.
