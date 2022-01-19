@@ -11,7 +11,7 @@ stub: true
 - [osu!catch](osu!catch)
 - [osu!mania](osu!mania)
 
-## Mécanique
+## Mécaniques
 
 - [Combobreak](Combobreak)
 - [Geki](Geki)
