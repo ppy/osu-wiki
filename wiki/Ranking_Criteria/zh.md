@@ -215,7 +215,7 @@ outdated_since: e57be1caacf5940ee203eb163acd89d4523cd58c
 
 - **主动音效（[Active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound)）：** 敲击时发出的音效。
 - **被动音效（[Passive hitsounds](/wiki/Beatmapping/Hitsound#passive-hitsound)）：** 未敲击时发出的音效，比如环境声音。
-- **故事版音效（Storyboarded hit sounds）：** 通过故事版代码控制的声音。
+- **故事版音效（[Storyboarded hitsounds](/wiki/Beatmapping/Hitsound#storyboarded-hitsound)）：** 通过故事版代码控制的声音。
 - **剪辑（Cut）：** 一个为了减短谱面游戏时间而去除了一部分音频的歌曲文件。
 
 ### 规定
