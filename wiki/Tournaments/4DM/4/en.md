@@ -272,7 +272,7 @@ After Qualifiers are over and every team has either gotten a seed or not qualifi
 
 **Matches will be played with the following rules:**
 
-- Team captains will be notified of their match via ping on Discord by the referee of their match 30 minutes before the match is scheduled to commence. At this time, team captains shall give the link to one map they wish to play as warmup to the referee of their match. This map must be an osu!mania 4k map and must be no longer than 5 minutes. Referees may refuse a team's warmup map and demand another one from the team captain if it does not meet these guidelines or is found to be offensive. Failure to provide a warmup to the referee may result in this team skipping their warmup map.
+- Team captains will be notified of their match via ping on Discord by the referee of their match 30 minutes before the match is scheduled to commence. At this time, team captains shall give the link to one map they wish to play as warmup to the referee of their match. This map must be an osu!mania 4k map and must be no longer than 5 minutes. Referees may refuse a team's warmup map and demand another one from the team captain if it does not meet these guidelines or is found to be offensive. Failure to provide a warmup to the referee may result in the team skipping their warmup map.
 - Team captains will be invited to their match lobby by a referee no less than 5 minutes before the match is scheduled to commence. In the time before the match, team captains will invite and gather their teams into the lobby.
 - When both teams have 3 members present in the lobby, the match will commence starting with warmups.
 - After warmups, both team captains will `!roll` in the lobby chat. The captain who rolled lower will choose a map to ban from the FreeMod pool, and then the other captain will do the same, as well as be the first to pick a map to play from the FreeMod pool.
@@ -302,14 +302,14 @@ Tournament hosts have the right to revoke any signed player's eligibility to par
 
 Please note that tournament hosts will only enact restrictions of this calibre in the most extreme of scenarios for reasons seen as precautionary protection of the tournament's fairness to its players, as the hosts acknowledge that the reasons for doing this are inherently very subjective and broad.
 
-Repeated and excessive toxic behavior towards any staff member, player, or spectator either in match multiplayer lobby, the official Discord server, or the official Twitch channel is strictly prohibited and will lead to, in successive order or with a few steps skipped at the host's discretion:
+Repeated and excessive toxic behavior towards any staff member, player, or spectator either in a multiplayer lobby, the official Discord server, or the official Twitch channel is strictly prohibited and will lead to, in successive order or with a few steps skipped at the host's discretion:
 
 1. Casual, undocumented warning
 2. Formal, documented warning
 3. Timeout of a player wherever necessary for a subjective amount of time. Players on timeout during tournament match will be disallowed to play during their match and must be swapped out for other players.
 4. Official ban from the tournament as well as a ban from the official Discord server and Twitch chat.
 
-If one player on a team has their account restricted while still participating in the tournament for reasons of believed cheating, multiaccounting, or anything else, this player's entire team shall be disqualified from the tournament with no exceptions. Depending on the case, the team most recently defeated in a match by the newly disqualified team may be allowed to advance in this disqualified team's place. If this happens, the result of this former match will be voided.
+If one player on a team has their account restricted while participating in the tournament, for reasons of believed cheating, multiaccounting, or anything else, their entire team shall be disqualified from the tournament with no exceptions. Depending on the case, the team most recently defeated in a match by the newly disqualified team may be allowed to advance in this disqualified team's place. If this happens, the result of this former match will be voided.
 
 [flag_AE]: /wiki/shared/flag/AE.gif "United Arab Emirates"
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
