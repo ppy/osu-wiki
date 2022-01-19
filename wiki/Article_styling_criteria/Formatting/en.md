@@ -539,7 +539,7 @@ Good examples include the following:
 Wiki links that point to a sub-article should include the parent article's folder name in its link text. See the following example:
 
 ```markdown
-*See also: [Beatmap Editor/Design](/wiki/Beatmap_Editor/Design)*
+*See also: [Beatmap Editor/Design](/wiki/Client/Beatmap_editor/Design)*
 ```
 
 ##### Section links

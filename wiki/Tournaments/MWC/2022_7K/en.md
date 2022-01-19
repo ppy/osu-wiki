@@ -93,7 +93,50 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | ![][flag_GB] | **United Kingdom** | **[Vygatron](https://osu.ppy.sh/users/3628783)**, [username1947](https://osu.ppy.sh/users/16162078), [Lelloq](https://osu.ppy.sh/users/8610776), [aid\_](https://osu.ppy.sh/users/12808079) |
 | ![][flag_US] | **United States** | **[Alter-](https://osu.ppy.sh/users/4980256)**, [Terni](https://osu.ppy.sh/users/3279570), [\[GS\]Teo](https://osu.ppy.sh/users/7081478), [RevVoJH](https://osu.ppy.sh/users/7286896) |
 
+## Match schedule: Round of 16
+
+### Saturday, January 22, 2022
+
+| Team A | | | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| South Korea | ![][flag_KR] | ![][flag_CH] | Switzerland | Jan 22 (Sat) 11:00 UTC | Jan 22 (Sat) 20:00 UTC+9 | Jan 22 (Sat) 12:00 UTC+1 |
+| Malaysia | ![][flag_MY] | ![][flag_US] | United States | Jan 22 (Sat) 12:00 UTC | Jan 22 (Sat) 20:00 UTC+8 | Jan 22 (Sat) 08:00 UTC-4 |
+| Indonesia | ![][flag_ID] | ![][flag_CL] | Chile | Jan 22 (Sat) 13:00 UTC | Jan 22 (Sat) 20:00 UTC+7 | Jan 22 (Sat) 10:00 UTC-3 |
+| Spain | ![][flag_ES] | ![][flag_JP] | Japan | Jan 22 (Sat) 14:00 UTC | Jan 22 (Sat) 15:00 UTC+1 | Jan 22 (Sat) 23:00 UTC+9 |
+
+### Sunday, January 23, 2022
+
+| Team A | | | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| China | ![][flag_CN] | ![][flag_TW] | Taiwan | Jan 23 (Sun) 08:00 UTC | Jan 23 (Sun) 16:00 UTC+8 | Jan 23 (Sun) 16:00 UTC+8 |
+| Thailand | ![][flag_TH] | ![][flag_RU] | Russian Federation | Jan 23 (Sun) 11:00 UTC | Jan 23 (Sun) 18:00 UTC+7 | Jan 23 (Sun) 14:00 UTC+3 |
+| Philippines | ![][flag_PH] | ![][flag_PL] | Poland | Jan 23 (Sun) 12:00 UTC | Jan 23 (Sun) 20:00 UTC+8 | Jan 23 (Sun) 13:00 UTC+1 |
+| Canada | ![][flag_CA] | ![][flag_BR] | Brazil | Jan 23 (Sun) 20:00 UTC | Jan 23 (Sun) 15:00 UTC-5 | Jan 23 (Sun) 17:00 UTC-3 |
+
 ## Mappools
+
+### Round of 16
+
+**[Download the mappack here (89 MB)](https://drive.google.com/uc?id=1uc1oILMX9J7dw1huWo3Kd3r31qROfIRm)**
+
+- Rice
+  1. [Laur - Attractor Dimension (Wonki) \[\[7K\] Insane\]](https://osu.ppy.sh/beatmapsets/1587984#mania/3243265)
+  2. [cosMo@bousouP - Oceanus (\_Kobii) \[\[7K\] Insane \[210bpm\]\]](https://osu.ppy.sh/beatmapsets/1676381#mania/3424741)
+  3. [Mr.T - electro peaceful(8bit) (qodtjr) \[\[7K\] Notes of Peace\]](https://osu.ppy.sh/beatmapsets/707059#mania/1494875)
+  4. [sakuzyo - Lost Memory (DaDarkDragon) \[\[7K\] Memories \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1312121#mania/2719418)
+  5. [BEMANI Sound Team "Power Of Nature" - Tadoru Kimi wo Koete (guden) \[\[7K\] Wayfarer\]](https://osu.ppy.sh/beatmapsets/1539977#mania/3148168)
+  6. [TAKU INOUE & Hoshimachi Suisei - Sanji Juunihun (Evening) \[\[7K\] CHANGE THE WORLD (EDIT)\]](https://osu.ppy.sh/beatmapsets/1676465#mania/3424887)
+- LN
+  1. [M2U - Yoake no Uta feat. Dazbee (SurfChu85) \[\[7K\] Daybreak\]](https://osu.ppy.sh/beatmapsets/1477099#mania/3030679)
+  2. [dj TAKA feat. Erika Mochizuki - MOON (paulkappa) \[\[7K\] Slave of Sadness\]](https://osu.ppy.sh/beatmapsets/1666530#mania/3402422)
+  3. [Yuki Kajiura - Himeboshi (\_underjoy) \[\[7K\] Tranquility\]](https://osu.ppy.sh/beatmapsets/1069926#mania/3424740)
+  4. [Crush - OHIO (JuHaa) \[\[7K\] HIOH!\]](https://osu.ppy.sh/beatmapsets/1566789#mania/3199120)
+- Hybrid
+  1. [Camellia vs. Tsukasa Kaminose - Gunkyouzouteki Soseiriron (\_Stan) \[Imi\[7\]ation // 7K\]](https://osu.ppy.sh/beatmapsets/1262927#mania/2687659)
+  2. [Cuvelia - Tenkuu no Yoake (AncuL) \[\[7K\] Imaginary\]](https://osu.ppy.sh/beatmapsets/630583#mania/1331170)
+  3. [M2U - White Rose (JuHaa) \[\[7K\] White picture\]](https://osu.ppy.sh/beatmapsets/1514154#mania/3099963)
+- Tiebreaker
+  1. **[Nekomata Gekidan - envidia (Umo-) \[\[7K\] Envy\]](https://osu.ppy.sh/beatmapsets/1330328#mania/2756301)**
 
 ### Qualifiers
 
@@ -107,6 +150,12 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 6. [Getty - Sonic Bass (Remuring) \[Stage 6: Pressure\]](https://osu.ppy.sh/beatmapsets/1670398#mania/3411677)
 7. [Feryquitous - THE SEVENS CODE (\_Kobii) \[Stage 7: Secrecy\]](https://osu.ppy.sh/beatmapsets/1670393#mania/3411670)
 8. [technoplanet - Intuition (Evening) \[Stage 8: Advent of Colour\]](https://osu.ppy.sh/beatmapsets/1670397#mania/3411676)
+
+## Match results
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1Io6SHPkPIgC_59uVEk7KJ1u6wmcvAqGp_TJ2IovTmok/edit?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1_Lq1HaM_2L1aZSpb7T6rI9J7zJe79cfrrMVjqrySoKA/edit?rm=minimal).
 
 ## Ruleset
 

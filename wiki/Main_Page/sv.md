@@ -16,14 +16,14 @@ Välkommen till osu! wikin, ett projekt som innehåller ett brett utbud av osu! 
 
 # Kom igång
 
-[Registrering](/wiki/Registration) • [Installation](/wiki/Client/Installation) • [Spelgränssnitt](/wiki/Client/Interface) • [Spelinställningar](/wiki/Client/Options) • [Tangentbindningar](/wiki/Client/Keyboard_shortcuts) • [Översikt](/wiki/Sitemap) • [Guider](/wiki/Guides) • [Hjälpcenter](/wiki/Help_Centre)
+[Registrering](/wiki/Registration) • [Installation](/wiki/Client/Installation) • [Spelgränssnitt](/wiki/Client/Interface) • [Spelinställningar](/wiki/Client/Options) • [Tangentbindningar](/wiki/Client/Keyboard_shortcuts) • [Översikt](/wiki/Sitemap) • [Guider](/wiki/Guides) • [Hjälpcenter](/wiki/Help_centre)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Gameplay
 
-[FAQ](/wiki/FAQ) • [Multiplayer](/wiki/Multi) • [Spellägen](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
+[FAQ](/wiki/FAQ) • [Multiplayer](/wiki/Gameplay/Multiplayer) • [Spellägen](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

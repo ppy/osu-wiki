@@ -84,7 +84,7 @@ Le **taux de drain de santé**, communément abrégé en HP, détermine le taux 
 
 Dans osu! et osu!catch, cela affecte également les [HP passifs](/wiki/Client/Interface/Health_bar) (la vitesse constante à laquelle les HP diminuent, sauf pendant les [pauses](/wiki/Beatmap/Break).
 
-*Note : Plus d'HP sont récupérés avec les scores [Geki](/wiki/Geki) et [Katu](/wiki/Katu), qui peuvent être donnés par le dernier objet dans un combo.*
+*Note : Plus d'HP sont récupérés avec les scores [Geki](/wiki/Gameplay/Judgement/Geki) et [Katu](/wiki/Gameplay/Judgement/Katu), qui peuvent être donnés par le dernier objet dans un combo.*
 
 ### Circle Size
 

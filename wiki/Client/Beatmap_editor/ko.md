@@ -17,7 +17,7 @@ outdated_since: 993a853c26c65bbe4117e35e8afbfb066132ebdf
 - [AiMod](AiMod): 모든 매퍼가 제일 처음에 보게되는 "모더" 역할을 하는 도구입니다.
 - [Beat Snap Divisor](Beat_Snap_Divisor): 노래에 맞춰 다양한 박자를 표현할 수 있게 도와줍니다.
 - [Distance Snap](Distance_snap): 노트 간의 거리를 일정하게 가깝게 또는 멀리 유지시켜주는 역할을 담당합니다.
-- [Kiai Time](/wiki/Kiai_time): 특정 구간에 대해 반짝임 및 별이 분수처럼 나오는 화려한 연출을 만들어 낼 수 있습니다.
+- [Kiai Time](/wiki/Gameplay/Kiai_time): 특정 구간에 대해 반짝임 및 별이 분수처럼 나오는 화려한 연출을 만들어 낼 수 있습니다.
 - [Menu](Menu): 비트맵 최상단에 위치하고 있으며, 여러가지 작용과 설정을 할 수 있는 메뉴들이 존재합니다.
 - [SB Load](SB_Load): 스토리보드가 요구하는 작업 처리 양을 나타내는 값입니다. 나타내는 값이 5x를 넘는 경우 오래된 PC에 무리를 줄 수 있습니다
 - [Timelines](Timelines): 비트맵 에디터의 상단에 위치해있으며, 이곳에서는 타임라인에 배치된 노트들이나 브레이크 타임 및 여러 가지 사항들을 보여줍니다.

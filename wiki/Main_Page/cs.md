@@ -16,7 +16,7 @@ Vítejte na osu! wiki, projekt obsahující širokou škálu osu! souvisejícíc
 
 Důležité články a příručky, které vám pomohou ponořit se do osu!. Pokud se něco pokazí nebo se zdá nejisté, navštivte [fórum nápovědy](https://osu.ppy.sh/forum/5).
 
-[Pravidla](/wiki/Rules) • [Instalace](/wiki/Client/Installation) • [Registrace](/wiki/Registration) • [Centrum nápovědy](/wiki/Help_Centre)
+[Pravidla](/wiki/Rules) • [Instalace](/wiki/Client/Installation) • [Registrace](/wiki/Registration) • [Centrum nápovědy](/wiki/Help_centre)
 
 [Chat konzole](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Návody](/wiki/Guides) • [Glosář](/wiki/Glossary)
 
@@ -40,7 +40,7 @@ Vše od klikání na kruhy, údery do bubnů, chytání ovoce až po hraní na s
 
 [Herní módy](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Obtížnost](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Módy](/wiki/Game_modifier) • [Skóre](/wiki/Gameplay/Score) • [Replay](/wiki/Replay) • [Medajle](/wiki/Medals) • [Multi](/wiki/Multi)
+[Beatmap](/wiki/Beatmap) • [Obtížnost](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Módy](/wiki/Game_modifier) • [Skóre](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medajle](/wiki/Medals) • [Multi](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -86,9 +86,9 @@ Mediální předpisy: [Pokyny k použití médií](/wiki/Rules/Content_Usage_Gui
 
 Zde najdete odpovědi na časté otázky a řešení běžných problémů.
 
-[Centrum nápovědy](/wiki/Help_Centre) • [Odstraňování problémů s výkonem](/wiki/Performance_troubleshooting) • [Tým podpory účtu](/wiki/People/The_Team/Account_support_team) • [Fórum nápovědy](https://osu.ppy.sh/forum/5)
+[Centrum nápovědy](/wiki/Help_centre) • [Odstraňování problémů s výkonem](/wiki/Performance_troubleshooting) • [Tým podpory účtu](/wiki/People/The_Team/Account_support_team) • [Fórum nápovědy](https://osu.ppy.sh/forum/5)
 
-Omezení profilu: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_Centre/Account_Restrictions)
+Omezení profilu: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_centre/Account_restrictions)
 
 Udělejte svojí část: [Jak a s čím pomoci](/wiki/Community/How_you_can_help!) • [Nahlásit špatné chování](/wiki/Reporting_bad_behaviour) • [Nahlásit zneužití](/wiki/Reporting_bad_behaviour/Abuse) • [Nahlásit cheating](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 

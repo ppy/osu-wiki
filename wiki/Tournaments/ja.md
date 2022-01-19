@@ -432,6 +432,7 @@ osu! World Cupは、国別に行われる4対4のチーム対抗トーナメン�
 | 4 Digit osu!mania World Cup | 2019-06-03 | 2019-07-27 | ![][flag_US] アメリカ合衆国 | ![][flag_AR] アルゼンチン | ![][flag_PH] フィリピン |
 | [4 Digit osu!mania World Cup 2](4DM/2) | 2020-02-15 | 2020-03-28 | ![][flag_US] アメリカ合衆国 | ![][flag_AR] アルゼンチン | ![][flag_PH] フィリピン |
 | [4 Digit osu!mania World Cup 3](4DM/3) | 2021-01-23 | 2021-03-07 | ![][flag_PH] フィリピン | ![][flag_MY] マレーシア | ![][flag_BR] ブラジル |
+| [4 Digit osu!mania World Cup 4](4DM/4) | 2022-01-08 | 2022-02-20 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania 4K Chinese National Cup
 
