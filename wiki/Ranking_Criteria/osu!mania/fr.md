@@ -2,7 +2,7 @@
 
 Les **critères de classement d'osu!mania** sont des règles et des directives qui s'appliquent à la création des difficultés spécifiques à osu!mania. Pour qu'une difficulté spécifique à osu!mania soit classée, il est obligatoire que la création obéisse aux critères énumérés. Bien que **toutes les règles doivent être suivies en toute circonstance**, les directives peuvent être ignorées dans des circonstances exceptionnelles. Ces circonstances exceptionnelles doivent être justifiées par une explication exhaustive de la raison pour laquelle la directive a été ignorée et pourquoi le fait de ne pas l'ignorer nuira à la qualité globale de la création.
 
-Les propositions de règles ainsi que les suggestions sont discutées dans le [Sous-forum Ranking Criteria] (https://osu.ppy.sh/community/forums/87). Toute règle ayant fait l'objet d'une discussion et d'un processus d'approbation par la communauté est listée ici car elle a été approuvée dans le fil de discussion correspondant.
+Les propositions de règles ainsi que les suggestions sont discutées dans le [Sous-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Toute règle ayant fait l'objet d'une discussion et d'un processus d'approbation par la communauté est listée ici car elle a été approuvée dans le fil de discussion correspondant.
 
 ## Glossaire
 
