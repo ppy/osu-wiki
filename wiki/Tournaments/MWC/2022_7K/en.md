@@ -99,7 +99,6 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_CH] | Switzerland | Jan 22 (Sat) 10:00 UTC | Jan 22 (Sat) 19:00 UTC+9 | Jan 22 (Sat) 11:00 UTC+1 |
 | Indonesia | ![][flag_ID] | ![][flag_CL] | Chile | Jan 22 (Sat) 13:00 UTC | Jan 22 (Sat) 20:00 UTC+7 | Jan 22 (Sat) 10:00 UTC-3 |
 | Spain | ![][flag_ES] | ![][flag_JP] | Japan | Jan 22 (Sat) 14:00 UTC | Jan 22 (Sat) 15:00 UTC+1 | Jan 22 (Sat) 23:00 UTC+9 |
 | Malaysia | ![][flag_MY] | ![][flag_US] | United States | Jan 22 (Sat) 16:00 UTC | Jan 23 (Sun) 00:00 UTC+8 | Jan 22 (Sat) 11:00 UTC-5 |
@@ -110,6 +109,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Canada | ![][flag_CA] | ![][flag_BR] | Brazil | Jan 23 (Sun) 03:00 UTC | Jan 22 (Sat) 22:00 UTC-5 | Jan 23 (Sun) 00:00 UTC-3 |
 | China | ![][flag_CN] | ![][flag_TW] | Taiwan | Jan 23 (Sun) 08:00 UTC | Jan 23 (Sun) 16:00 UTC+8 | Jan 23 (Sun) 16:00 UTC+8 |
+| South Korea | ![][flag_KR] | ![][flag_CH] | Switzerland | Jan 23 (Sun) 10:00 UTC | Jan 23 (Sun) 19:00 UTC+9 | Jan 23 (Sun) 11:00 UTC+1 |
 | Thailand | ![][flag_TH] | ![][flag_RU] | Russian Federation | Jan 23 (Sun) 11:00 UTC | Jan 23 (Sun) 18:00 UTC+7 | Jan 23 (Sun) 14:00 UTC+3 |
 | Philippines | ![][flag_PH] | ![][flag_PL] | Poland | Jan 23 (Sun) 12:00 UTC | Jan 23 (Sun) 20:00 UTC+8 | Jan 23 (Sun) 13:00 UTC+1 |
 
