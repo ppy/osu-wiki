@@ -27,7 +27,7 @@ Dans osu!taiko, la précision est calculée en prenant la somme de la précision
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-![Précision = (nombre de fruits attrapés + nombre de drops attrapés + nombre de droplets attrapés) / (nombre de tout les fruits + nombre de tout les drops + nombre de tout les droplets)](img/accuracy_catch_updated.png "La formule de la précision pour osu!catch")
+![Précision = (nombre de fruits attrapés + nombre de drops attrapés + nombre de droplets attrapés) / (nombre de tous les fruits + nombre de tout les drops + nombre de tous les droplets)](img/accuracy_catch_updated.png "La formule de la précision pour osu!catch")
 
 Dans osu!catch, la précision est calculée en prenant le nombre total de hit objects non-spinner collectés, divisé par le nombre total d'objets non-spinner. Tous les hit objects ont la même valeur, à l'exception des bananes, car elles font partie des objets spinner.
 
