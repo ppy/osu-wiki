@@ -22,13 +22,13 @@
 
 *参见：[Mods](/wiki/Game_modifier)。*
 
-**mod 入门**是在特定的[游戏模组（mod）](/wiki/Game_modifier)下通过[Qualified](/wiki/Beatmap/Category#qualified)，[Ranked](/wiki/Beatmap/Category#ranked)，或者 [Approved](/wiki/Beatmap/Category#approved)谱面获得。这些奖章是为了激励新玩家尝试并体验各种各样的 mod 而设立的。但是请注意，如果玩家同时使用多个 mods。则玩家**不会**获得*任何* mod 奖章。
+**Mod 入门**是在特定的[游戏模组（Mod）](/wiki/Game_modifier)下通过 [Qualified](/wiki/Beatmap/Category#qualified)，[Ranked](/wiki/Beatmap/Category#ranked)，或者 [Approved](/wiki/Beatmap/Category#approved) 谱面获得。这些奖章是为了激励新玩家尝试并体验各种各样的 Mod 而设立的。但是请注意，如果玩家同时使用多个 Mods。则玩家**不会**获得*任何* Mod 奖章。
 
 除非另有说明，否则这些奖章都可以在任何 [游戏模式](/wiki/Game_mode) 中解锁。
 
 ## 隐藏
 
-**隐藏奖章**通过*神秘*的方式来获得，不会具体告诉玩家获得奖章的方法(因此得名)。使用特殊方法通过谱面。但是仍有一些提示给那些想要收集全奖章的人，如下所示：
+**隐藏奖章**通过*神秘*的方式来获得，不会具体告诉玩家获得奖章的方法（因此得名）。使用特殊方法通过谱面。但是仍有一些提示给那些想要收集全奖章的人，如下所示：
 
 - 奖章的名字；
 - 奖章的简要说明；
