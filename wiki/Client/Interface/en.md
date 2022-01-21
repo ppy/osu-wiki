@@ -249,7 +249,7 @@ Click the `Mods` button or press `F1` to open the **[Mod Selection Screen](/wiki
 
 In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a multiplier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a multiplier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](/wiki/Game_modifier/Relax) and [Auto Pilot](/wiki/Game_modifier/Autopilot) fall in that category.
 
-Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like DoubleTime, have multiple variations—click on the mod again to cycle through them. The score multiplier value displays the combined effect all selected mods will have on your score. Click `Reset all mods` or press `1` to deselect all currently selected mods. Click `Close` or press `2` or `Esc` to return to the song selection screen.
+Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like Double Time, have multiple variations—click on the mod again to cycle through them. The score multiplier value displays the combined effect all selected mods will have on your score. Click `Reset all mods` or press `1` to deselect all currently selected mods. Click `Close` or press `2` or `Esc` to return to the song selection screen.
 
 Click the `Random` button or press `F2` to have the game **randomly scroll through all of your beatmaps and pick one.**
 
