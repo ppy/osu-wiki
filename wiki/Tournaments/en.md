@@ -2,7 +2,7 @@
 
 Section dedicated for osu! tournaments. Tournaments have their dedicated forum which can be found [through this link](https://osu.ppy.sh/community/forums/55).
 
-Please visit the [Official tournament support](/wiki/Tournaments/Official_support) page for details on how to request official support for your tournament (badges, screening process, etc.). 
+Please visit the [Official tournament support](/wiki/Tournaments/Official_support) page for details on how to request official support for your tournament (badges, screening process, etc.).
 
 ## Official World Cups
 
@@ -528,6 +528,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | 4 Digit osu!mania World Cup | 2019-06-03 | 2019-07-27 | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_PH] Philippines |
 | [4 Digit osu!mania World Cup 2](4DM/2) | 2020-02-15 | 2020-03-28 | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_PH] Philippines |
 | [4 Digit osu!mania World Cup 3](4DM/3) | 2021-01-23 | 2021-03-07 | ![][flag_PH] Philippines | ![][flag_MY] Malaysia | ![][flag_BR] Brazil |
+| [4 Digit osu!mania World Cup 4](4DM/4) | 2022-01-08 | 2022-02-20 | *TBD* | *TBD* | *TBD* |
 
 #### :thonking: Mania Tournament
 
