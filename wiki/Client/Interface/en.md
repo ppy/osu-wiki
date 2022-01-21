@@ -111,7 +111,7 @@ These options organise beatmaps into various expandable groups:
 | :-: | :-- |
 | `No grouping` | Beatmaps will not be grouped but will still be sorted in the order specified by Sort. |
 | `By Difficulty` | Beatmaps will be grouped by their star rating, rounded down to a whole number. |
-| `By Artist` | Beatmaps will be grouped by the artist's first character of their name. |
+| `By Artist` | Beatmaps will be grouped by the first character of the artist's name. |
 | `Recently Played` | Beatmaps will be grouped by when you last played them. |
 | `Collections` | This will show the collections you have created. *Note that this will hide beatmaps not listed in a collection!* |
 | `By BPM` | Beatmaps will be grouped according to BPM in multiples of 60. |
@@ -137,7 +137,7 @@ Sort beatmaps in a certain order.
 | `By BPM` | Beatmaps will be sorted lowest to highest by their BPM. For maps with changing BPM, the highest will be used. |
 | `By Creator` | Beatmaps will be sorted alphabetically by creator. |
 | `By Date Added` | Beatmaps will be sorted by when they were added, from oldest to newest. |
-| `By Difficulty` | Beatmaps will be sorted from easiest to hardest by star difficulty. *Note that this will split apart mapsets!* |
+| `By Difficulty` | Beatmaps will be sorted by star rating, from easiest to hardest. *Note that this will split apart the difficulties of the beatmap!* |
 | `By Length` | Beatmaps will be sorted by length, from shortest to longest. |
 | `By Rank Achieved` | Beatmaps will be sorted by the highest rank achieved on them, from worst to best. |
 | `By Title` | Beatmaps will be sorted alphabetically by the song title. |
@@ -249,7 +249,7 @@ Click the `Mods` button or press `F1` to open the **[Mod Selection Screen](/wiki
 
 In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a multiplier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a multiplier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](/wiki/Game_modifier/Relax) and [Auto Pilot](/wiki/Game_modifier/Autopilot) fall in that category.
 
-Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like Double Time, have multiple variations; click on the mod again to cycle through. The score multiplier value displays the combined effect the multipliers of the mod(s) of you have selected will have on your score. Click `Reset all mods` or press `1` to deselect all currently selected mods. Click `Close` or press `2` or `Esc` to return to the song selection screen.
+Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like DoubleTime, have multiple variations—click on the mod again to cycle through them. The score multiplier value displays the combined effect all selected mods will have on your score. Click `Reset all mods` or press `1` to deselect all currently selected mods. Click `Close` or press `2` or `Esc` to return to the song selection screen.
 
 Click the `Random` button or press `F2` to have the game **randomly scroll through all of your beatmaps and pick one.**
 
