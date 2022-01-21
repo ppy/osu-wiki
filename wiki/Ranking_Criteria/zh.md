@@ -4,9 +4,9 @@
 
 **Ranking Criteria** 列出了让[谱面](/wiki/Beatmap)通过[谱面ranking程序](/wiki/Beatmap_ranking_procedure)时须遵守的[规则和准则](#一般术语)
 
-可在 [Ranking Criteria 论坛](https://osu.ppy.sh/community/forums/87)中提出和讨论对本文的更正。并参照 *[如何建议更改Ranking准则](https://osu.ppy.sh/community/forums/topics/720532)* 来提供贡献。注意，若仅对本文中的遣词、语法、组句进行改变，而不改变其原意，则无需发帖至论坛。
+可在 [Ranking Criteria 论坛](https://osu.ppy.sh/community/forums/87)中提出和讨论对本文的更正。并参照 *[如何建议更改 Ranking 准则](https://osu.ppy.sh/community/forums/topics/720532)* 来提供贡献。注意，若仅对本文中的遣词、语法、组句进行改变，而不改变其原意，则无需发帖至论坛。
 
-**注意[摸图和作图的行为准则](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)、[八分拍歌曲Timing测定](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)和[歌曲内容规定](/wiki/Rules/Song_Content_Rules)是 Ranking Criteria 的一部分，适用于 osu! 中所有的游戏模式。**
+**注意[摸图和作图的行为准则](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)、[八分拍歌曲 Timing 测定](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)和[歌曲内容规定](/wiki/Rules/Song_Content_Rules)是 Ranking Criteria 的一部分，适用于 osu! 中所有的游戏模式。**
 
 ## 术语
 
@@ -44,14 +44,14 @@
 ### 规定
 
 - **谱面内的每个游戏模式，都必须从符合歌曲[掉血时间](/wiki/Gameplay/Drain_time)所允许的最低难度开始，到最高难度之间，有合理、连续的难度分布。** 不能跳过任何难度等级，任何相邻的两个难度之间也不能存在巨大的星数差距。
-- **每个难度必须遵循其模式的 ranking criteria 。** 参见 [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch)，和 [osu!mania](osu!mania) 的 ranking criteria 获取更多信息。
+- **每个难度必须遵循其模式的 Ranking Criteria 。** 参见 [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch)，和 [osu!mania](osu!mania) 的 Ranking Criteria 获取更多信息。
 - **谱面最短的[掉血时间](/wiki/Gameplay/Drain_time) 为 30 秒。**
 - **如果谱面的[掉血时间](/wiki/Gameplay/Drain_time) 符合以下条件：**
   - **小于 3:30，则最低难度不得高于 Normal。**
   - **在 3:30 到 4:15 之间，则最低难度不得高于 Hard。**
   - **在 4:15 到 5:00 之间，则最低难度不得高于 Insane。**
   - **最高难度以下的难度可以使用包含休息时间的总游戏时长来替代掉血时间，作为度量标准而达到规定阈值。** 这不包含掉血时间在 30 秒以下的难度。一般由该游戏模式的 [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) 和 [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) 成员来判断谱面中作为最低难度的 Hard 或者 Insane 谱面是否合格。
-  - **osu!mania 谱面则使用了不同的难度分布规则和最低难度限制。参见：[osu!mania ranking criteria](/wiki/Ranking_Criteria/osu!mania).**
+  - **osu!mania 谱面则使用了不同的难度分布规则和最低难度限制。参见：[osu!mania Ranking Criteria](/wiki/Ranking_Criteria/osu!mania).**
 - **谱面的难度名称必须清晰准确表示出它所属的难度区间，除了：**
   - 每个游戏模式内的最高难度。
   - 每个游戏模式内多个难度相近的最高难度，可在 Insane 和 Extra 难度区间应用。（如 ENHIIII 中的 Insane 难度，或 ENHIIXXX 中的 Extra 难度）
