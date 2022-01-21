@@ -1,6 +1,6 @@
 # Ranking Criteria
 
-*若想了解各游戏模式的具体标准，请参阅 [osu!](osu!)，[osu!taiko](osu!taiko)，[osu!catch](osu!catch) 和 [osu!mania](osu!mania)。*
+*查看每个游戏模式具体的标准，请参阅 [osu!](osu!)，[osu!taiko](osu!taiko)，[osu!catch](osu!catch) 和 [osu!mania](osu!mania)。*
 
 **Ranking Criteria** 列出了让[谱面](/wiki/Beatmap)通过[谱面ranking程序](/wiki/Beatmap_ranking_procedure)时须遵守的[规则和准则](#一般术语)
 
@@ -24,6 +24,7 @@
 - **包含快速、重复的闪烁图像，或视频、故事板内含有对比度、颜色、亮度的快速变化内容的谱面，必须开启光敏性癫痫警告。** 如果警告会影响谱面游玩，则必须在歌曲前增加足够的空白时间。3 HZ（即：1秒闪烁3次） 以下的闪烁图像一般无须担心。如果有疑问，请开启警告并在摸图时讨论是否有必要开启它。
 - **谱面文件夹中不能有未使用文件或 0 字节的文件。** 0 字节的文件会影响文件夹中其他文件的正常上传。仅自动生成的 `thumbs.db` 文件除外。
 - **[休息时间](/wiki/Beatmap/Break)必须按照[谱面编辑器](/wiki/Client/Beatmap_editor)的限制插入。**
+- **[难度](/wiki/Client/Beatmap_editor/Song_Setup#difficulty)的各项设定参数必须保证能直接在[谱面编辑器](/wiki/Client/Beatmap_editor)内编辑复现。**
 - **如果相同游戏模式下的难度包含相同的休息时间或相同的故事板，则它们的`休息段使用黑边填充背景`设定必须一致，**
 - **如果谱面包含剧透内容，则必须在谱面描述中标注剧透警告。**
 
