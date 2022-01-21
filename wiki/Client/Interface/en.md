@@ -60,6 +60,8 @@ After selecting `Play` in the main menu, you can choose between three options:
 
 ## Multiplayer Lobby
 
+*Main page: [Multi](/wiki/Gameplay/Multiplayer)*
+
 ![](img/multi-lobby.jpg "Multi Lobby")
 
 The multiplayer lobby allows you to play with as well as against other players. For more information on how to play in multiplayer, see [Multi](/wiki//Gameplay/Multiplayer).
