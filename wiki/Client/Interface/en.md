@@ -83,8 +83,6 @@ Before continuing on, this screen has too many elements to note with easily, not
 
 ![](img/metadata-comparison.jpg)
 
-![](img/beatmap-metadata.jpg)
-
 This area displays **information on the beatmap difficulty currently selected.** When entering the song selection screen, the song playing on the jukebox is selected by default. The top-left icon displays the [beatmap category](/wiki/Beatmap/Category), where this particular one is [ranked](/wiki/Beatmap/Category#ranked).
 
 The song title is normally shown as romanised (lower picture), but if you select `Prefer metadata in original language` in the [Options](/wiki/Client/Options), it will show the Unicode title (upper picture). The difficulty name of the beatmap is shown between square brackets (`[]`). The creator who mapped the beatmap is shown below the title, and even more information is listed below. From left to right, the values are as follows:
