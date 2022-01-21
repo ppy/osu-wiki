@@ -1,12 +1,12 @@
 # Ranking Criteria
 
-*若想了解不同游戏模式具体的标准，参见 [osu!](osu!)，[osu!taiko](osu!taiko)，[osu!catch](osu!catch) 和 [osu!mania](osu!mania)。*
+*若想了解各游戏模式的具体标准，请参阅 [osu!](osu!)，[osu!taiko](osu!taiko)，[osu!catch](osu!catch) 和 [osu!mania](osu!mania)。*
 
 **Ranking Criteria** 列出了让[谱面](/wiki/Beatmap)通过[谱面ranking程序](/wiki/Beatmap_ranking_procedure)时须遵守的[规则和准则](#一般术语)
 
-本文中规则和准则的改变会在 [Ranking Criteria 论坛](https://osu.ppy.sh/community/forums/87)中提出和讨论。参照 *[如何建议更改Ranking准则](https://osu.ppy.sh/community/forums/topics/720532)* 来提供贡献。注意，若在仅改变本文的语言、语法、组织，而不改变其原意的情况下则无需发帖至论坛。
+可在 [Ranking Criteria 论坛](https://osu.ppy.sh/community/forums/87)中提出和讨论对本文的更正。并参照 *[如何建议更改Ranking准则](https://osu.ppy.sh/community/forums/topics/720532)* 来提供贡献。注意，若仅对本文中的遣词、语法、组句进行改变，而不改变其原意，则无需发帖至论坛。
 
-**注意[摸图和作图行为准则](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)、[八分拍歌曲测定](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)、[歌曲内容规定](/wiki/Rules/Song_Content_Rules)是 Ranking Criteria 的一部分，适用于 osu! 中所有的游戏模式。**
+**注意[摸图和作图的行为准则](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)、[八分拍歌曲Timing测定](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)和[歌曲内容规定](/wiki/Rules/Song_Content_Rules)是 Ranking Criteria 的一部分，适用于 osu! 中所有的游戏模式。**
 
 ## 术语
 
@@ -21,15 +21,15 @@
 
 - **两个物件不能出现在同一时间上。** 包括圆圈、滑条、转盘覆盖的全部时间段。osu!mania 模式除外。
 - **背景图片、背景视频、故事板不得出现任何违规内容。** 包括裸体、近乎裸体、性暗示、暴力、滥用药品（毒品）等元素。参见[视觉内容注意事项](/wiki/Rules/Visual_Content_Considerations)。
-- **必须在包含快速、重复的闪烁图像，或视频、故事板内含有对比度、颜色、亮度的快速变化内容的谱面中开启光敏性癫痫警告。** 如果警告会影响谱面游玩，则必须在歌曲前增加足够的空白时间。3 HZ（或：1秒变化3帧） 以下的闪烁图像一般无须担心。如果有疑问，请开启警告并在摸图时讨论是否有必要开启它。
-- **谱面文件夹中不能有未使用文件或 0 字节的文件。** 0 字节的文件会影响文件夹中其他文件的正常上传。自动生成的 `thumbs.db` 文件除外。
+- **包含快速、重复的闪烁图像，或视频、故事板内含有对比度、颜色、亮度的快速变化内容的谱面，必须开启光敏性癫痫警告。** 如果警告会影响谱面游玩，则必须在歌曲前增加足够的空白时间。3 HZ（即：1秒闪烁3次） 以下的闪烁图像一般无须担心。如果有疑问，请开启警告并在摸图时讨论是否有必要开启它。
+- **谱面文件夹中不能有未使用文件或 0 字节的文件。** 0 字节的文件会影响文件夹中其他文件的正常上传。仅自动生成的 `thumbs.db` 文件除外。
 - **[休息时间](/wiki/Beatmap/Break)必须按照[谱面编辑器](/wiki/Client/Beatmap_editor)的限制插入。**
 - **如果相同游戏模式下的难度包含相同的休息时间或相同的故事板，则它们的`休息段使用黑边填充背景`设定必须一致，**
-- **如果谱面包含剧透内容，则请在谱面描述中标注剧透警告。**
+- **如果谱面包含剧透内容，则必须在谱面描述中标注剧透警告。**
 
 ### 准则
 
-- **谱面使用的素材作者应列在谱面介绍内。** 参见[内容使用准则](/wiki/Rules/Content_Usage_Guidelines)，谱面使用的素材只有获得素材创作者的授权才能在 osu! 内使用。他们的授权可能会详细说明允许谱师如何合规使用这些素材。如果极难追溯到素材的来源、创作者允许无授权转载、授权已展示在艺术家、曲名、谱面元数据参考区域时，则通常无需在谱面介绍内再次标注。
+- **谱面使用素材的作者应列在谱面介绍内。** 参见[内容使用准则](/wiki/Rules/Content_Usage_Guidelines)，谱面使用的素材只有获得素材创作者的授权才能在 osu! 内使用。他们的授权可能会详细说明允许谱师如何合规使用这些素材。如果极难追溯到素材的来源、创作者允许无授权转载、授权已展示在艺术家、曲名、谱面元数据参考区域时，则通常无需在谱面介绍内再次标注。
 从描述中省略信用的常见原因包括寻找来源的难度过大、创作者希望保持无信用，以及艺术家、标题或来源字段中存在信用。
 - **不鼓励在别的 Ranked 谱面中重复使用你的 Ranked 难度。** 这是为了避免 Ranked 内容中不必要的重复。
 - **不应通过编辑 `.osu` 文件来修改滑条点倍率。** 大多数自定义值会导致滑条点偏离于歌曲节奏，虽然有部分谱面使用了 0.5，1.333 和 1.5 这些值，但也只能在符合歌曲节奏时使用。
