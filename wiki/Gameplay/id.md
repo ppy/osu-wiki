@@ -1,22 +1,30 @@
----
-outdated: true
-outdated_since: 8a5f5265f6fa698fdea71e909684ba286ee85111
----
-
 # Gameplay
 
 - [Akurasi](/wiki/Gameplay/Accuracy)
+- [Choke](/wiki/Gameplay/Choke)
 - [Combo (pengali skor)](/wiki/Gameplay/Combo_(score_multiplier))
+- [Combo fire](/wiki/Gameplay/Combo_fire)
+- [Combo milestone](/wiki/Gameplay/Combo_milestone)
+- [Efek pengali combo](/wiki/Gameplay/Combo_multiplier_effect)
+- [Comboburst](/wiki/Gameplay/Comboburst)
+- [Dash](/wiki/Gameplay/Dash)
 - [Dash snapping](/wiki/Gameplay/Dash_snapping)
-- [Drain Time](/wiki/Gameplay/Drain_time)
+- [Drain time](/wiki/Gameplay/Drain_time)
+- [Edge dash](/wiki/Gameplay/Edge_dash)
 - [Fingerlock](/wiki/Gameplay/Fingerlock)
 - [Grade](/wiki/Gameplay/Grade)
-- [Alat input](/wiki/Gameplay/Input_device)
+- [Hyperdash](/wiki/Gameplay/Hyperdash)
+- [Perangkat input](/wiki/Gameplay/Input_device)
 - [Judgement](/wiki/Gameplay/Judgement)
+- [Kiai time](/wiki/Gameplay/Kiai_time)
 - [Mind block](/wiki/Gameplay/Mind_block)
+- [Multiplayer](/wiki/Gameplay/Multiplayer)
 - [Notelock](/wiki/Gameplay/Judgement/Notelock)
-- [Play Time](/wiki/Gameplay/Play_time)
-- [Score](/wiki/Gameplay/Score)
+- [Pass](/wiki/Gameplay/Pass)
+- [Play time](/wiki/Gameplay/Play_time)
+- [Replay](/wiki/Gameplay/Replay)
+- [Skor](/wiki/Gameplay/Score)
 - [Slider break](/wiki/Gameplay/Judgement/Slider_break)
-- [Spectate](/wiki/Gameplay/Spectating)
+- [Spectating](/wiki/Gameplay/Spectating)
 - [Sampul tablet](/wiki/Gameplay/Tablet_cover)
+- [Walk](/wiki/Gameplay/Walk)
