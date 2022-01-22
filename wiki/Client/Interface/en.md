@@ -4,9 +4,9 @@ This article explains everything you need to know on how to use the osu! game cl
 
 ![](img/intro-screen.jpg "Introduction screen")
 
-## Main Menu
+## Main menu
 
-![](img/main-menu.jpg "Main Menu")
+![](img/main-menu.jpg "Main menu")
 
 - \[1\] The [osu! cookie](/wiki/Client/Interface/Cookie). Clicking on it opens the main menu. It pulses according to the [BPM](/wiki/Beatmapping/Beats_per_minute) of the music and bars extend around it visualising the audio spectrum. If no song is playing, it pulses at a slow 60 BPM.
 - \[2\] Click `Play` (or press `P`) to play osu! either for yourself or with others.
@@ -19,7 +19,7 @@ This article explains everything you need to know on how to use the osu! game cl
 - \[9\] The [chat](/wiki/Client/Interface/Chat_console), and to its left a toggle for the extended chat window, which lists currently online users. They are also toggleable with `F8` and `F9` respectively.
 - \[10\] The jukebox. In the main menu, it plays songs in a random order. See below for more information about the buttons in this menu.
 - \[11\] The number of [beatmap difficulties](/wiki/Beatmap/Difficulty) available (despite what it says), how long you have been playing for, and your system clock.
-- \[12\] Your profile. Clicking on it shows the [User Options](#user-options).
+- \[12\] Your profile. Clicking on it shows the [user options](#user-options).
 
 ---
 
@@ -27,19 +27,19 @@ The jukebox has the following buttons:
 
 | Button | Description |
 | :-: | :-- |
-| ![](img/jukebox/previous-track.jpg "Previous Track") | Previous track |
+| ![](img/jukebox/previous-track.jpg "Previous track") | Previous track |
 | ![](img/jukebox/play.jpg "Play") | Play |
 | ![](img/jukebox/pause.jpg "Pause") | Pause |
-| ![](img/jukebox/stop.jpg "Stop") | Stop and reset the current song to its beginning |
-| ![](img/jukebox/next-track.jpg "Next Track") | Next track |
-| ![](img/jukebox/view-song-info.jpg "View Song Info") | Toggle between having the information for the current song showing permanently, or fading out after a little while. |
-| ![](img/jukebox/jump-to-window.jpg "Jump To Window") | Jump to a specific song. You can search for songs or filter by collection. |
+| ![](img/jukebox/stop.jpg "Stop the music!") | Stop and reset the current song to its beginning |
+| ![](img/jukebox/next-track.jpg "Next track") | Next track |
+| ![](img/jukebox/view-song-info.jpg "View song info") | Toggle between having the information for the current song showing permanently, or fading out after a little while. |
+| ![](img/jukebox/jump-to-window.jpg "Jump To window") | Jump to a specific song. You can search for songs or filter by collection. |
 
 The jukebox can also be controlled using [keyboard shortcuts](/wiki/Client/Keyboard_shortcuts#jukebox).
 
-## User Options
+## User options
 
-![](img/user-options.jpg "User Options")
+![](img/user-options.jpg "User options")
 
 Access this screen by clicking on your profile at the top left of the main menu. You can select any item by pressing its corresponding number:
 
@@ -48,27 +48,27 @@ Access this screen by clicking on your profile at the top left of the main menu.
 - `3. Change Avatar`: Open the [edit avatar page](https://osu.ppy.sh/home/account/edit#avatar) on the website.
 - `4. Close`: Close this dialog.
 
-## Play Menu
+## Play menu
 
-![](img/play-menu.jpg "Play Menu")
+![](img/play-menu.jpg "Play menu")
 
 After selecting `Play` in the main menu, you can choose between three options:
 
-- Click `Solo` (or press `P`) to play on your own. This leads you to the [Song Selection Screen](#song-selection-screen).
+- Click `Solo` (or press `P`) to play on your own. This leads you to the [song selection screen](#song-select).
 - Click `Multi` (or press `M`) to play with other people. You will be directed to the [Multi](/wiki/Gameplay/Multiplayer) Lobby.
 - Click `Back` to return to the main menu.
 
-## Multiplayer Lobby
+## Multiplayer lobby
 
 *Main page: [Multi](/wiki/Gameplay/Multiplayer)*
 
-![](img/multi-lobby.jpg "Multi Lobby")
+![](img/multi-lobby.jpg "Multiplayer lobby")
 
-The multiplayer lobby allows you to play with as well as against other players. For more information on how to play in multiplayer, see [Multi](/wiki//Gameplay/Multiplayer).
+The multiplayer lobby allows you to play with as well as against other players.
 
-## Song Select
+## Song select
 
-![](img/song-selection.jpg "Song Selection")
+![](img/song-selection.jpg "Song select")
 
 The currently selected [game mode](/wiki/Game_mode) icon can be seen in the bottom left options, above `Mode`. The mode icon is also faintly visible at the centre of the screen. These are the four you will see:
 
@@ -79,7 +79,7 @@ The currently selected [game mode](/wiki/Game_mode) icon can be seen in the bott
 
 Before continuing on, this screen has too many elements to note with easily, noticeable numbers. The subsections below will focus on one part of the screen at a time, starting from the top down and left to right.
 
-### Beatmap Information
+### Beatmap information
 
 ![](img/metadata-comparison.jpg)
 
@@ -171,7 +171,7 @@ Supported filters:
 | `status` | Beatmap status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short. |
 | `played` | Time since last played in days |
 | `unplayed` | Shows only unplayed maps. A comparison with no set value must be used (e.g. `unplayed=`). The comparison itself is ignored. |
-| `speed` | Saved osu!mania scroll speed. Always 0 for unplayed maps or if the [Remember osu!mania scroll speed per beatmap](/wiki/Client/Options#gameplay) option is off. |
+| `speed` | Saved osu!mania scroll speed. Always 0 for unplayed maps or if the [`Remember osu!mania scroll speed per beatmap`](/wiki/Client/Options#gameplay) option is off. |
 
 Supported comparisons:
 
@@ -243,9 +243,9 @@ Press `Esc` or click the `Back` button to return to main menu.
 
 Click on the `Mode` button to open a list of game modes available in osu!. Alternatively, you can press `Ctrl` and `1` (osu!), `2` (osu!taiko), `3` (osu!catch), or `4` (osu!mania) to change the game mode. Switching to another mode will also switch to its [leaderboards](/wiki/Ranking), as one may observe by seeing the displayed rank change.
 
-![](img/game-modifiers.jpg "Mod Selection Screen")
+![](img/game-modifiers.jpg "mod selection screen")
 
-Click the `Mods` button or press `F1` to open the **[Mod Selection Screen](/wiki/Game_modifier)**.
+Click the `Mods` button or press `F1` to open the **[mod selection screen](/wiki/Game_modifier)**.
 
 In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a multiplier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a multiplier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](/wiki/Game_modifier/Relax) and [Auto Pilot](/wiki/Game_modifier/Autopilot) fall in that category.
 
@@ -257,9 +257,9 @@ Click the `Random` button or press `F2` to have the game **randomly scroll throu
 
 ![](img/beatmap-options.jpg "Possible commands for a beatmap")
 
-Click the `Beatmap Options` button, press `F3` or right-click your mouse while hovering over the beatmap to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
+Click the `Beatmap Options` button, press `F3` or right-click your mouse while hovering over the beatmap to bring up the **beatmap options menu for options on the currently selected beatmap**.
 
-- Press `1` or click the `Manage Collections` button to bring up the Collections screen - here, you can manage pre-existing collections, as well as add or remove the currently selected beatmap or mapset to or from a collection.
+- Press `1` or click the `Manage Collections` button to bring up the collection manager—here, you can manage pre-existing collections, as well as add or remove the currently selected beatmap or mapset to or from a collection.
 - Press `2` or click `Delete...` to delete the \[1\] currently selected difficulty, \[2\] delete the currently selected beatmap, or \[3\] delete **all VISIBLE beatmaps**.
   - Note that deleted beatmaps are moved to the Recycle Bin.
 - Press `3` or click `Remove from Unplayed` to mark an unplayed beatmap as played (that is, change its box colour from pink to orange).
@@ -269,7 +269,7 @@ Click the `Beatmap Options` button, press `F3` or right-click your mouse while h
 
 Click on **your user panel** to access the **user options menu**.
 
-Click the **[osu!cookie](/wiki/Client/Interface/Cookie)** to **start playing the selected beatmap**.
+Click one the **[osu! cookie](/wiki/Client/Interface/Cookie)** to **start playing the selected beatmap**.
 
 ## Results screen
 
@@ -294,7 +294,7 @@ This is your online leaderboard. You can go here by scrolling down from the resu
 - \[1\] Your user panel. It shows your [performance points (pp)](/wiki/Performance_points), global rank, total score, overall [accuracy](/wiki/Gameplay/Accuracy), and level bar.
 - \[2\] `Save replay to Replays folder`: You can watch the replay later either by opening it from a local leaderboard, or by going to `Replays` directory and double clicking it.
 - \[3\] `Add as online favourite`: Include the beatmap into your list of favourites, which is located on your osu! profile page under the `Beatmaps` section.
-- \[4\] Local leaderboard: All your results are stored on your computer. To see them, navigate to the [song selection screen](#song-selection-screen) and select `Local Rankings` from the drop-down menu above the scoreboard.
+- \[4\] Local leaderboard: All your results are stored on your computer. To see them, navigate to the [song selection screen](#song-select) and select `Local Rankings` from the drop-down menu above the scoreboard.
 - \[5\] `Beatmap Ranking` section. Available only for maps with online leaderboards ([qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked), or [loved](/wiki/Beatmap/Category#loved)). You also need to be online to see this section. See below for more details.
 - \[6\] `Overall Ranking` section. It's available only for beatmaps with online leaderboards. You also need to be online to see this section. See below for more details.
 - \[7\] Information about the beatmap with its play count and pass rate.
@@ -307,7 +307,7 @@ The categories in the ranking panel are as follows:
 
 | Category | Beatmap Ranking | Overall Ranking |
 | :-: | :-- | :-- |
-| `Overall` | Your position on the map's leaderboard. Note that scores with [Mods](/wiki/Game_modifier) also appear on this same leaderboard. | Your [global rank](/wiki/Ranking#performance-points-ranking) against everyone in the world. |
+| `Overall` | Your position on the map's leaderboard. Note that scores with [mods](/wiki/Game_modifier) also appear on this same leaderboard. | Your [global rank](/wiki/Ranking#performance-points-ranking) against everyone in the world. |
 | [`Accuracy`](/wiki/Gameplay/Accuracy) | How accurately you played the beatmap. This is only counted when your old score is surpassed. | A weighted average of the accuracy of your best scores. |
 | `Max Combo` | The longest combo on the map you played. | The longest combo over all beatmaps you have played. |
 | [`Ranked Score`](/wiki/Gameplay/Score/Ranked_score) | Your [best result](/wiki/Gameplay/Score/Ranked_score) on the beatmap. | The number of points earned from all ranked beatmaps that you have ever played, with every map being counted exactly once. |
