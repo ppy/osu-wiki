@@ -17,7 +17,7 @@ As usual, we would like to thank everyone for your participation in the December
 - [Results for osu!catch](https://osu.ppy.sh/community/forums/posts/8453093)
 - [Results for osu!mania](https://osu.ppy.sh/community/forums/posts/8453092)
 
-In January, we had no additions so we'd like to use this space to celebrate this new year with you. The team wish you the best for this new year and we sincerely thank you all for your continuous love and support. Keep being amazing! 
+In January, we've had no new additions to the team, so we'd like to use this space to celebrate this new year with you. The team wishes you the best for this new year and we sincerely thank you all for your continuous love and support. Keep being amazing! 
  
 Without any further delay, let's move onto this month's picks!
 
@@ -131,7 +131,7 @@ But this is not just a traditional stamina map. It features a lot of inspiring p
 214 BPM, 3:01 | 6.57★\
 *description written by [Gamelan4](https://osu.ppy.sh/users/9856910)*
 
-*goreshit - wasting my time * is quite a familiar name in Loved. We had the pleasure to bring back in 2018 SKSalt's awesome rendition of this track, and 4 years later we present you the same song, but by a different mapper and most importantly with a completely different approach and style.
+*goreshit - wasting my time* is quite a familiar name in Loved. We had the pleasure to bring back in 2018 SKSalt's awesome rendition of this track, and 4 years later we present you the same song, but by a different mapper and most importantly with a completely different approach and style.
 
 yea's version is a pure stamina-stream map, featuring several deathstreams with patterning that drains your stamina fast and steady, all justified by the never-ending nature and structure of a goreshit track. This map will absolutely waste your keycaps due to the intense smashing it requires but it is definitely not a waste of time, so you should give it a try!
 
@@ -255,7 +255,7 @@ Ah well, as the song puts it artfully: *f\*\*k it*, I'm casting my vote. Are you
 
 This is an old one, but this is a good one. Cokiiplay has been mapping all kinds of skillsets and in all kinds of styles in the last few years, and as we were able to catch them for their comeback, we also welcome them for their first Loved nomination!
 
-*Pop Up Tha Bass* is arguably Cokiiplay's most notorious SV map, namely being featured in the finals of the [4-digit MWC of 2021](https://osu.ppy.sh/wiki/Tournaments/4DM/3). It is mostly reading-oriented, switching between slowjam buildups, bombastic drops and longjack transitions. Beware of some of the odd snaps in transitions here and there — the high OD can really bite you when you're going for a SS!
+*Pop Up Tha Bass* is arguably Cokiiplay's most notorious SV map, namely being featured in the finals of the [4-digit MWC of 2021](https://osu.ppy.sh/wiki/Tournaments/4DM/3). It is mostly reading-oriented, switching between slowjam buildups, bombastic drops and longjack transitions. Beware of some of the odd snaps in transitions here and there — the high OD can really bite you when you're going for an SS!
 
 Like what you're seeing? Pop up tha votes!
 
@@ -269,7 +269,7 @@ LeiN- makes their return to the Loved votings, with their map of GYARI's incredi
 
 LeiN is a long-time veteran of the mania community who I'm sure needs no introduction at this point, as they've produced some of the most prolific charts that mania has seen. From [sink to the deep sea world](https://osu.ppy.sh/beatmapsets/355103#mania/781930), to [Crack traxxxx](https://osu.ppy.sh/beatmapsets/123456#mania/315723), LeiN has built up an impressively diverse and impactful selection of maps over the years and has really shown no signs of slowing down.
 
-Taking a look at what we're nominating for this wave however, \[I\]Akari ga\[/i\] is just a fun chart to play through and through. It's a very jack-oriented map, which compliments the cadence of the vocals in this song, but LeiN also works in some tricky bursts and flams to add extra flavor. The chaotic yet organized nature of the chart really does feel like a great representation of the song, which is something that LeiN has always been particularly good at.
+Taking a look at what we're nominating for this wave however, *Akari ga* is just a fun chart to play through and through. It's a very jack-oriented map, which compliments the cadence of the vocals in this song, but LeiN also works in some tricky bursts and flams to add extra flavor. The chaotic yet organized nature of the chart really does feel like a great representation of the song, which is something that LeiN has always been particularly good at.
 
 We hope that all of you have fun with the map and enjoy it as much as we do. Make sure to give your vote, and let LeiN know how much we all love the work they've put in to make great content for so long!
 
@@ -296,7 +296,7 @@ Let's give a warm welcome to Nixo, as we're glad to finally bring them into the 
 The \[Envory's Hard\], \[Shikkou's Hard\] and \[Jakads' Extreme [wip\]] difficulties are *not* being nominated for Loved.\
 *description written by [Paturages](https://osu.ppy.sh/users/1375479)*
 
-Well, uh, *here we go again*! I don't really have words for this one. I feel like a lot of people may have heard of this one, and each have their own perception, feedback and words about this mapset. For those getting a feeling of déjà-vu, [this is not the first time we are introducing *Architecture* in a Loved nomination](https://osu.ppy.sh/community/forums/topics/885957).
+Well, uh, *here we go again*! I don't really have words for this one. I feel like a lot of people may have heard of this one, and each have their own perception, feedback and words about this mapset. For those getting a feeling of déjà vu, [this is not the first time we are introducing *Architecture* in a Loved nomination](https://osu.ppy.sh/community/forums/topics/885957).
 
 As many years have passed since the map's inception and the first Loved voting, players have improved as more and more ruthless maps have seen the light of day and have also been utterly annihilated by extraterrestrial beings. Despite all that, even now, the highest difficulty is still a very highly demanding chart for a majority of people to even get an HP pass on. It has undoubtedly left its mark in the whole osu!mania history, especially with a fair number of players covering and sharing their progress on the map for years.
 
@@ -308,7 +308,7 @@ Are you willing to give a chance to *Architecture*? A long time has passed since
 237 BPM, 3:17 | 4.58★, 5.14★\
 *description written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
 
-How did we end up from a rather fancy pop song such as *Modern Talking's Brother Louie* to *Pate Ja Rykä*'s Finnish interpretation that is *Takas Pelikentil*? Honestly, we would have no clue if this wasn't charted by the hands of Wh1teh, being a finn themselves! Most probably they'll know better than anyone else, but this does not mean that we don't get to enjoy it, because the chart is precisely made to be enjoyed after all.
+How did we end up from a rather fancy pop song such as *Modern Talking's Brother Louie* to Pate and Rykä's Finnish interpretation that is *Takas Pelikentil*? Honestly, we would have no clue if this wasn't charted by the hands of Wh1teh, being a finn themselves! Most probably they'll know better than anyone else, but this does not mean that we don't get to enjoy it, because the chart is precisely made to be enjoyed after all.
 
 Maybe the... "avant-garde" background caught you an eye while you were scrolling through [Fennec Fantasy](https://etternaonline.com/pack/36). Or maybe just the song choice already made it worth to try it out. Hell, maybe you're Finnish, you enjoy European dance-pop, and Counter Strike (which I'd argue is not a common mix per se). All of the aforementioned matters naught, as that'd just be like judging a book by its cover. And this book offers a very intense and honestly fun experience. Just try not to get tired while experiencing it!
 
