@@ -269,7 +269,7 @@ Click the `Beatmap Options` button, press `F3` or right-click your mouse while h
 
 Click on **your user panel** to access the **user options menu**.
 
-Click one the **[osu! cookie](/wiki/Client/Interface/Cookie)** to **start playing the selected beatmap**.
+Click on the **[osu! cookie](/wiki/Client/Interface/Cookie)** to **start playing the selected beatmap**.
 
 ## Results screen
 
