@@ -25,7 +25,7 @@ As an innovator in the EDM scene, it's only fitting that you experience **Boom K
 Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1673457) created by [elicz1](https://osu.ppy.sh/users/8039342) and [Zelq](https://osu.ppy.sh/users/8953955)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/233/Songs/Boom%20Kitty%20-%20Any%20Other%20Way%20%28feat.%20Ivy%20Marie%29.mp3" type="audio/mpeg">
 </audio>
 
 ### Boom Kitty & HeliXiX - Tokyo Takedown
@@ -33,7 +33,7 @@ Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1673457) creat
 Check out [the osu!taiko map that introduced **Boom Kitty** to our community](https://osu.ppy.sh/beatmapsets/798245) hosted by [realy0_](https://osu.ppy.sh/users/8863359)! 
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/233/Songs/Boom%20Kitty%20%26%20Ubi%20-%20Tokyo%20Takedown.mp3" type="audio/mpeg">
 </audio>
 
 ### Boom Kitty - Firewall
@@ -41,7 +41,7 @@ Check out [the osu!taiko map that introduced **Boom Kitty** to our community](ht
 More osu!taiko? [More osu!taiko](https://osu.ppy.sh/beatmapsets/1254357). Hosted by [Jaltzu](https://osu.ppy.sh/users/2597417).
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/232/That%20I%20Miss%20You/Vansire%20-%20That%20I%20Miss%20You.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/233/Songs/Boom%20Kitty%20-%20Firewall.mp3" type="audio/mpeg">
 </audio>
 
 ---
