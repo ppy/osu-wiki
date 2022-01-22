@@ -57,7 +57,7 @@ The Springtime Osu!mania Free-for-all Tournament 6 will offer a $250 minimum cas
 
 ## Links
 
-- [Discussion thread]()
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1506993)
 - [Livestream](https://www.twitch.tv/osusoft)
 - [SOFT Discord server](https://discord.gg/qd575a3)
 - [Challonge](https://challonge.com/SOFT6)
