@@ -285,7 +285,7 @@ Below are the results screens of the other game modes.
 
 ![](img/results-catch.jpg "Accuracy in osu!catch")
 
-### Online Leaderboard
+### Extended results screen
 
 ![](img/extended-results-screen.jpg "An example of an online osu! score")
 
@@ -307,12 +307,12 @@ The categories in the ranking panel are as follows:
 
 | Category | Beatmap Ranking | Overall Ranking |
 | :-: | :-- | :-- |
-| `Overall` | Your position on the map's leaderboard, where you compete against players that used [Mods](/wiki/Game_modifier), even if you didn't use any yourself. | Your global ranking in the world. |
-| `Accuracy` | How [precisely](/wiki/Gameplay/Accuracy) did you play the beatmap. Will only be counted when your old score is surpassed. | Your average [accuracy](/wiki/Gameplay/Accuracy#accuracy) over all beatmaps you have played. |
-| `Max Combo` | Your longest combo on the map you played. | The longest combo over all beatmaps you have played. |
+| `Overall` | Your position on the map's leaderboard. Note that scores with [Mods](/wiki/Game_modifier) also appear on this same leaderboard. | Your [global rank](/wiki/Ranking#performance-points-ranking) against everyone in the world. |
+| [`Accuracy`](/wiki/Gameplay/Accuracy) | How accurately you played the beatmap. This is only counted when your old score is surpassed. | A weighted average of the accuracy of your best scores. |
+| `Max Combo` | The longest combo on the map you played. | The longest combo over all beatmaps you have played. |
 | [`Ranked Score`](/wiki/Gameplay/Score/Ranked_score) | Your [best result](/wiki/Gameplay/Score/Ranked_score) on the beatmap. | The number of points earned from all ranked beatmaps that you have ever played, with every map being counted exactly once. |
-| [`Total Score`](/wiki/Gameplay/Score/Total_score) | Not taken into account, since it does not affect your position in online rankings. | Same as ranked score, but it takes into account all beatmaps available on the osu! website, and also underplayed or failed beatmaps. This counts towards your [level](/wiki/Gameplay/Score/Total_score#level). |
-| `Performance` | The amount of [unweighted pp](/wiki/Performance_points#why-didnt-i-gain-the-full-amount-of-pp-from-a-map-i-played?) you would receive for the play. | Displays your total amount of performance points, and also how much pp the submitted play was worth. |
+| [`Total Score`](/wiki/Gameplay/Score/Total_score) | Not taken into account, since it does not affect your position in online rankings. | Same as ranked score, but it takes into account all beatmaps available on the osu! website, including underplayed or failed beatmaps. This counts towards your [level](/wiki/Gameplay/Score/Total_score#level). |
+| [`Performance`](/wiki/Performance_points) | The amount of [unweighted pp](/wiki/Performance_points#why-didnt-i-gain-the-full-amount-of-pp-from-a-map-i-played?) you would receive for the play. | Your total amount of performance points, and how much pp the submitted play was worth. |
 
 ### Medals
 
