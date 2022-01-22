@@ -32,7 +32,7 @@ The **Springtime osu!mania Free-for-all Tournament 6** (***SOFT 6***) is a 1v1 c
 
 ## Prizes
 
-The Springtime Osu!mania Free-for-all Tournament 6 will offer a $250 minimum cash prize pool!
+The Springtime osu!mania Free-for-all Tournament 6 will offer a $250 minimum cash prize pool!
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -138,7 +138,7 @@ The Springtime Osu!mania Free-for-all Tournament 6 will offer a $250 minimum cas
   - You are experiencing this event as a competitor and every choice made in the process directly affects how you will progress in the tournament.
   - If you dislike something, you are allowed to state your concerns. However, do so reasonably. Keep in mind that some of your fellow competitors and other users on this website have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
 - ***It is our right as the SOFT6 staff to reprimand users for intolerable behaviour.***
-  - SOFT6 staff will have sole discretion over decisions that affect a player's standing in the tournament. However, other members of the tournament may forward any information to staff members that in any way represents uncalled for behaviour towards other users or staff. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so please be respectful to other users and staff.
+  - SOFT6 staff will have sole discretion over decisions that affect a player's standing in the tournament. However, other members of the tournament may forward any information to staff members that in any way represents uncalled-for behaviour towards other users or staff. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so please be respectful to other users and staff.
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
 #### Warm-up songs
