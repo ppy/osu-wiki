@@ -32,7 +32,6 @@ The **Springtime osu!mania Free-for-all Tournament 6** (***SOFT 6***) is a 1v1 c
 
 ## Prizes
 
-
 The Springtime Osu!mania Free-for-all Tournament 6 will offer a $250 minimum cash prize pool!
 
 | Placing | Prize(s) |
@@ -76,7 +75,6 @@ The Springtime Osu!mania Free-for-all Tournament 6 will offer a $250 minimum cas
   - **Round of 32 and Round of 16:** 12-song mappool, best of 9 (first to 5), one tiebreaker song
   - **Quarterfinals and Semifinals:** 14-song mappool, best of 11 (first to 6), one tiebreaker song
   - **Finals and Grand Finals:** 16-song mappool, best of 13 (first to 7), one tiebreaker song
-
 
 #### Qualification process
 
@@ -174,7 +172,6 @@ The Springtime Osu!mania Free-for-all Tournament 6 will offer a $250 minimum cas
 - Maps with a player disconnection that occurs within the first 30 seconds, or 25% of the song (whichever comes first) will be nullified and re-attempted.
 - Matches will have a two-disconnection limit. Upon the third disconnection, a point will be handed immediately to the player still active within the lobby.
 - A two-minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in the [Protocol](#protocol) will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
-
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
