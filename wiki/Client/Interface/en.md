@@ -316,6 +316,8 @@ The categories in the ranking panel are as follows:
 
 ### Medals
 
+*Main page: [Medals](/wiki/Medals)*
+
 ![](img/medal-unlock.jpg "Unlocking a medal")
 
-Above is what it looks like to receive a medal.
+Sometimes, when specific conditions are met, you may receive a medal.
