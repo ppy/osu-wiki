@@ -27,13 +27,13 @@ The jukebox has the following buttons:
 
 | Button | Description |
 | :-: | :-- |
-| ![](img/previous-track.jpg "Previous Track") | Previous track |
-| ![](img/play.jpg "Play") | Play |
-| ![](img/pause.jpg "Pause") | Pause |
-| ![](img/stop.jpg "Stop") | Stop and reset the current song to its beginning |
-| ![](img/next-track.jpg "Next Track") | Next track |
-| ![](img/view-song-info.jpg "View Song Info") | Toggle between having the information for the current song showing permanently, or fading out after a little while. |
-| ![](img/jump-to-window.jpg "Jump To Window") | Jump to a specific song. You can search for songs or filter by collection. |
+| ![](img/jukebox/previous-track.jpg "Previous Track") | Previous track |
+| ![](img/jukebox/play.jpg "Play") | Play |
+| ![](img/jukebox/pause.jpg "Pause") | Pause |
+| ![](img/jukebox/stop.jpg "Stop") | Stop and reset the current song to its beginning |
+| ![](img/jukebox/next-track.jpg "Next Track") | Next track |
+| ![](img/jukebox/view-song-info.jpg "View Song Info") | Toggle between having the information for the current song showing permanently, or fading out after a little while. |
+| ![](img/jukebox/jump-to-window.jpg "Jump To Window") | Jump to a specific song. You can search for songs or filter by collection. |
 
 The jukebox can also be controlled using [keyboard shortcuts](/wiki/Client/Keyboard_shortcuts#jukebox).
 
