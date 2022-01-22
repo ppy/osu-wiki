@@ -314,6 +314,8 @@ The categories in the ranking panel are as follows:
 | [`Total Score`](/wiki/Gameplay/Score/Total_score) | Not taken into account, since it does not affect your position in online rankings. | Same as ranked score, but it takes into account all beatmaps available on the osu! website, and also underplayed or failed beatmaps. This counts towards your [level](/wiki/Gameplay/Score/Total_score#level). |
 | `Performance` | The amount of [unweighted pp](/wiki/Performance_points#why-didnt-i-gain-the-full-amount-of-pp-from-a-map-i-played?) you would receive for the play. | Displays your total amount of performance points, and also how much pp the submitted play was worth. |
 
+### Medals
+
 ![](img/medal-unlock.jpg "Unlocking a medal")
 
 Above is what it looks like to receive a medal.
