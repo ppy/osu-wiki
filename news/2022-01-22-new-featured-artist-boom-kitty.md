@@ -12,7 +12,7 @@ That's right, all you fans of *Geometry Dash* and *Beat Saber* can finally put d
 
 Proven to be a perfect fit in the rhythm game scene, we've snagged a whopping **30** tracks for [**Boom Kitty**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/233) from his decade-spanning discography.
 
-As an innovator in the EDM scene, it's only fitting that you experience **Boom Kitty**'s musical talents through a quick video of osu!lazer's editor innovations throuhgout the last few years. Once you're done with that, feel free to check out the rest of these previews below and start mapping!
+As an innovator in the EDM scene, it's only fitting that you experience **Boom Kitty**'s musical talents through a quick video of osu!lazer's editor innovations throughout the last few years. Once you're done with that, feel free to check out the rest of these previews below and start mapping!
 
 <div align="center">
     <video width="100%" controls>
@@ -46,8 +46,8 @@ More osu!taiko? [More osu!taiko](https://osu.ppy.sh/beatmapsets/1254357). Hosted
 
 ---
 
-[**Boom Kitty**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/233) has 27 *more* tracks pre-timed and ready for you to overthink in the editor. You'll need to peruse those for yourself to figure out which you'd like to map, of course. Get moving already.
+[**Boom Kitty**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/233) has 27 *more* tracks pre-timed and ready for you to overthink in the editor. You'll need to pick through those yourself to figure out which ones you'd like to map, of course. Get moving already!
 
-Congrats on making it through another week of music bombardment! The Featured Artist streak will continue next week with another two artists of course, so stay tuned for details about that on the [@osugame Twitter](https://twitter.com/osugame) and we'll see you in a hot minute.
+Congrats on making it through another week of music bombardment! The Featured Artist streak will continue next week with another two artists of course, so stay tuned for any details about that on the [@osugame Twitter](https://twitter.com/osugame), and we'll see you in a hot minute.
 
 —pishifat
