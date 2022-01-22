@@ -106,7 +106,7 @@ The Springtime Osu!mania Free-for-all Tournament 6 will offer a $250 minimum cas
 #### Group stage
 
 - After Playoff Stage, the remaining players will be divided into 4 different groups based on their qualification seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for Group Stage) are then formed by randomly selecting one player from each seed group.
-- Group Stage will consist of **two (2) rounds**. In the **first round** of Group Stage, there will be 2 matches per group. 
+- Group Stage will consist of **two (2) rounds**. In the **first round** of Group Stage, there will be 2 matches per group.
   - The first match is a match between the Top Seed and High Seed. The winner of this match will advance to the Bracket Stage. The loser of this match will play in the second round of Group Stage.
   - The second match is a match between the Bottom seed and Low seed. The winner of this match will get to play in the second round of Group Stage. The loser of this match will be eliminated from the tournament.
 - In the **second round** of Group Stage, the loser of the first match and the winner of the second match will face each other. The winner of this match will advance to the Bracket Stage. The loser will be eliminated.
