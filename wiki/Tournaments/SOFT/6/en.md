@@ -78,7 +78,7 @@ The Springtime Osu!mania Free-for-all Tournament 6 will offer a $250 minimum cas
 
 #### Qualification process
 
-- All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. **The maximum number of players who can advance to the subsequent round is 128**. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
+- All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. **The maximum number of players who can advance to the subsequent round is 128.** The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
   - If 32 players enter, all 32 players will qualify and no one gets eliminated.
   - If 33 players enter, the worst-performing player gets eliminated and the top 32 will advance to the next round.
   - If 49 players enter, the 17 worst-performing players get eliminated and the top 32 will advance to the next round.
@@ -86,7 +86,7 @@ The Springtime Osu!mania Free-for-all Tournament 6 will offer a $250 minimum cas
   - If 64 players enter, all 64 players will qualify and no one gets eliminated.
   - If 127 players enter, the 63 worst-performing players get eliminated and the top 64 will advance to the next round.
 - The qualification round will have a 4-song mappool that widely varies in skillsets tested. These tested skillsets will correspond to skillsets commonly seen in mappools throughout the tournament.
-- **All four maps will be created by the mappool selectors and will be unreleased prior to the tournament qualification stage, to provide 0 opportunity for advantage through familiarity**.
+- **All four maps will be created by the mappool selectors and will be unreleased prior to the tournament qualification stage, to provide 0 opportunity for advantage through familiarity.**
 - All players will play the qualifier maps in the designated stage order. Every player needs to play each map fully at least once to be considered a valid participant.
 - All players will have two chances at each qualifier map, in which the highest of the two runs on each qualifier map will be used to calculate their final score.
 - Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average score rating on all four songs, with the best average score rating being seed \#1.
@@ -122,7 +122,7 @@ The Springtime Osu!mania Free-for-all Tournament 6 will offer a $250 minimum cas
 
 #### Protocol
 
-- Overlaps between matches may happen in certain stages; as a result, streaming every match is not viable. Tournament staff will do their best to give every player in the tourney some stream time.
+- Overlaps between matches may happen in certain stages. As a result, streaming every match is not viable. Tournament staff will do their best to give every player in the tourney some stream time.
 - Your matches will be listed in schedules. **It is your duty as a player to properly identify your timeslot and reschedule your match with your opponent as soon as possible if a reschedule is necessary.**
 - Reschedules will only be considered if both players agree to a time. This needs to be done and notified to the tournament staff before **Wednesday at 23:59 UTC+0** during the particular week when your match takes place.
 - ***It is your right as a player and tournament entrant to expect that staff will perform to the best of their abilities in moderating matches in such a way that they will conclude in a timely manner.***
@@ -131,14 +131,14 @@ The Springtime Osu!mania Free-for-all Tournament 6 will offer a $250 minimum cas
   - If both players arrive on time, tournament proceedings will begin promptly at the start time of the match, **no earlier and no later.**
   - If your match starts in less than five (5) minutes and you have not been invited to your corresponding multiplayer room, notify any Tournament Staff member who is online on Discord or in-game that you are a player in SOFT6 and you currently do not have an invitation to your match. They will alleviate the situation by notifying the designated referees for your match to give you an invitation to your corresponding multiplayer room.
 - ***It is our right as tournament staff to expect that you will arrive for your matches before your expected time.***
-  - Players will be given a grace period of ten (10) minutes after the match start time to enter their room; if they have not entered by this point, the match will be forfeited and the player that has arrived will win by default. However, exceptions will be given to players who were late due to technical issues/staff impropriety.
+  - Players will be given a grace period of ten (10) minutes after the match start time to enter their room. If they have not entered by this point, the match will be forfeited and the player that has arrived will win by default. However, exceptions will be given to players who were late due to technical issues/staff impropriety.
     - **Players who enter the room during the grace period cannot select a warm-up for the match.**
-  - In the extreme circumstance where both players do not show, **the player with the higher group stage seed in the match-up will advance automatically**. During Playoff Stage, **the player with the higher qualifier seed in the match-up will advance automatically**.
+  - In the extreme circumstance where both players do not show, **the player with the higher group stage seed in the match-up will advance automatically.** During Playoff Stage, **the player with the higher qualifier seed in the match-up will advance automatically.**
 - ***It is your privilege as a player and tournament entrant to have an opinion about the content/structure used in the tournament.***
   - You are experiencing this event as a competitor and every choice made in the process directly affects how you will progress in the tournament.
   - If you dislike something, you are allowed to state your concerns. However, do so reasonably. Keep in mind that some of your fellow competitors and other users on this website have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
 - ***It is our right as the SOFT6 staff to reprimand users for intolerable behaviour.***
-  - SOFT6 staff will have sole discretion over decisions that affect a player's standing in the tournament. However, other members of the tournament may forward any information to staff members that in any way represents uncalled for behaviour towards other users or staff. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful.
+  - SOFT6 staff will have sole discretion over decisions that affect a player's standing in the tournament. However, other members of the tournament may forward any information to staff members that in any way represents uncalled for behaviour towards other users or staff. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so please be respectful to other users and staff.
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
 #### Warm-up songs
