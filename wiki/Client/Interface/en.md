@@ -243,7 +243,7 @@ Press `Esc` or click the `Back` button to return to main menu.
 
 Click on the `Mode` button to open a list of game modes available in osu!. Alternatively, you can press `Ctrl` and `1` (osu!), `2` (osu!taiko), `3` (osu!catch), or `4` (osu!mania) to change the game mode. Switching to another mode will also switch to its [leaderboards](/wiki/Ranking), as one may observe by seeing the displayed rank change.
 
-![](img/game-modifiers.jpg "mod selection screen")
+![](img/game-modifiers.jpg "Mod selection screen")
 
 Click the `Mods` button or press `F1` to open the **[mod selection screen](/wiki/Game_modifier)**.
 
