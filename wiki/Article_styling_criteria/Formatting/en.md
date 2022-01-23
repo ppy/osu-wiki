@@ -270,6 +270,17 @@ A notice should be placed where appropriate in a section, but must start off the
 - `Caution` should be used to warn the reader to avoid unintended consequences.
 - `Warning` should be used to warn the reader that action may be taken against them.
 
+## Stacked notices and hatnotes
+
+Multiple notices and hatnotes may be stacked when necessary. When doing this, they must be stacked without blank lines and use trailing backslashes:
+
+```markdown
+*Warning: {warning}.*\
+*See also: {article}*
+```
+
+In many cases, it may be more fitting to embed extraneous notices or hatnotes into paragraph text instead of stacking many of them.
+
 ## Emphasising
 
 ### Bold
