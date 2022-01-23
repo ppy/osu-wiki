@@ -48,7 +48,7 @@ After the changes are double-checked, committed, and pushed to your fork, you ne
 
 ## Review
 
-All changes to the osu! wiki are moderated. During that stage, other collaborators point out possible mistakes and ways to fix them, either in free form, or by suggesting direct edits to the pull request. Just like with any other peer review, you need to address the comments by applying the suggestions, or by explaining why you'd rather keep things your way.
+All changes to the osu! wiki are moderated. During that stage, other collaborators point out possible mistakes and ways to fix them, either in free form, or by suggesting direct edits to the pull request. Just like with any other peer review, you need to address the comments by [applying the suggestions](/wiki/osu!_wiki/Contribution_guide/Best_practices#applying-reviews), or by explaining why you'd rather keep things your way.
 
 If no one has checked in after a couple of days, try the following:
 
