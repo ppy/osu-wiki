@@ -230,7 +230,7 @@ Cette catégorie contient des déclarations d'allocation explicites de concepts 
 - **Les [éléments de jeu](/wiki/Ranking_Criteria/Skin_Set_List) doivent être visibles.** Vous ne pouvez pas rendre invisible un élément qui nuirait à la jouabilité de la beatmap car cela rendrait la beatmap peu intuitif ou même impossible à jouer (`cursormiddle.png` est une exception car il affecte le comportement de la traînée du curseur). Les éléments qui ne sont pas pertinents pour le jeu ne peuvent être transparents que s'il y a une raison valable pour cela et si l'action elle-même ne nuit pas à l'utilisation des éléments de l'interface.
 - **Les éléments skinnée doivent être recadrés proprement afin qu'ils ne présentent pas d'artefacts pixelisés autour d'eux ou d'ombres à moitié recadrées.**
 - **Les éléments skinnée ne peuvent pas dépasser les dimensions au point de chevaucher d'autres éléments de skinning qu'ils ne chevaucheraient pas normalement dans le skin par défaut.** Cela ne s'applique qu'aux parties visibles d'une image, qui pourraient fausser l'expérience de jeu en obstruant visuellement des éléments normalement visibles.
-- **Lors du skinning des [éléments de jeu] (/wiki/Ranking_Criteria/Skin_Set_List), des ensembles complets d'éléments doivent être skinnée afin d'éviter les conflits entre les skins spécifiques à l'utilisateur et ceux spécifiques à la beatmap.** Lors du skinning d'un élément marqué comme facultatif, vous devez inclure tous les éléments requis du jeu respectif, mais vous êtes libre d'ignorer les autres éléments facultatifs à moins qu'ils ne soient regroupés avec l'élément que vous skinnez. Toutefois, si un élément de skinning obligatoire d'un ensemble n'est pas utilisé ou si le skin par défaut est forcé, il n'est pas nécessaire d'inclure cet élément.
+- **Lors du skinning des [éléments de jeu](/wiki/Ranking_Criteria/Skin_Set_List), des ensembles complets d'éléments doivent être skinnée afin d'éviter les conflits entre les skins spécifiques à l'utilisateur et ceux spécifiques à la beatmap.** Lors du skinning d'un élément marqué comme facultatif, vous devez inclure tous les éléments requis du jeu respectif, mais vous êtes libre d'ignorer les autres éléments facultatifs à moins qu'ils ne soient regroupés avec l'élément que vous skinnez. Toutefois, si un élément de skinning obligatoire d'un ensemble n'est pas utilisé ou si le skin par défaut est forcé, il n'est pas nécessaire d'inclure cet élément.
 
 ### Directives
 
@@ -247,7 +247,7 @@ Cette catégorie contient des déclarations d'allocation explicites de concepts 
 - **Axis-specific command :** Une commande qui ne s'applique qu'à un seul axe spatial spécifié, par exemple `MoveX` et `MoveY`.
 - **Active :** De la première heure de début à la dernière heure de fin des commandes dans l'objet.
 - **Rendered :** Se réfère souvent à un sprite à l'écran qui n'est pas complètement effacé.
-- **osu!pixel :** La plus petite dimension de l'onglet de conception. Apparaît dans le coin supérieur droit de l'écran de l'éditeur, par exemple "x : 104 ; y : 88`".
+- **osu!pixel :** La plus petite dimension de l'onglet de conception. Apparaît dans le coin supérieur droit de l'écran de l'éditeur, par exemple `x : 104 ; y : 88`.
 
 ### Règles
 
