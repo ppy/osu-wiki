@@ -282,11 +282,39 @@ Lead paragraphs may bold the first occurrence of the article's title.
 
 Italics must use single asterisks (`*`).
 
-Names of work or video games should be italicised. osu!—the game—is exempt from this.
-
 The first occurrence of an abbreviation, acronym, or initialism may be italicised.
 
 Italics may also be used to provide emphasis or help with readability.
+
+Names of work or video games should be italicised. osu!—the game—is exempt from this.
+
+As an example, when referring to songs in the format of `{artist} - {title}`, the whole part is a reference to the work and should therefore be italicised:
+
+```markdown
+*cYsmix - triangles* is a one of the three intro songs that can be heard when starting the game client.
+```
+
+Artist names are otherwise generally not italicised. This means that in free-form references, only the title should be italicised, because the artist name is then not part of the name of the work:
+
+```markdown
+*Blue Zenith* by xi is an infamous song in the osu! community due to a famous score set by a top player on a beatmap of the song.
+```
+
+### Emphasis and links
+
+Linked text appears in a different colour which already provides emphasis, and therefore does not need further emphasis:
+
+```markdown
+[Camellia - OOPARTS] is an example of a song officially created specifically for osu!, otherwise known as an *osu! original*, since it was specifically commissioned as the osu! World Cup 2020 tiebreaker song.
+```
+
+This however does not apply if the referenced work is not the only part of the link:
+
+```markdown
+[Voltaeyx's beatmap of *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794) amassed considerable popularity in 2018 due to its unique overlapping slider patterns.
+```
+
+The above type of construction should be used sparingly, and must not be used in places with many links, such as tables or lists.
 
 ## Headings
 
