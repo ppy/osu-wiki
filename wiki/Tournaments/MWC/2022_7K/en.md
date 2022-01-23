@@ -178,6 +178,8 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 
 ### Round of 16
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1np4ZxbrZoAvYPlBE2_XXQg9eBz2wFFvud9xgO8U3EyA/edit?rm=minimal)
+
 Saturday, January 22, 2022
 
 | Team A | | | Team B | Match link |
