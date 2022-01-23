@@ -321,6 +321,10 @@ Contractions must not be used.
 
 The serial comma, also known as the Oxford or Harvard comma, must be used.
 
+### Em dash
+
+Em dashes (`—`) must be used without spaces around them. Hyphens must not be used in their place.
+
 ### Logical quotations
 
 Refer to [Wikipedia's Manual of Style for logical quotations](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside).
