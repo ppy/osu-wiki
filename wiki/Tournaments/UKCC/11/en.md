@@ -17,7 +17,7 @@ The **UK Community Cup 11** (***UKCC 11***) is a British 2v2 double-elimination 
 | --: | :-- |
 | Registration phase | 2022-01-23/2022-02-13 (23:59 UTC) |
 | Qualifier showcase | 2022-02-14 |
-| Qualifiers stage | 2022-02-19/2022-02-20 |
+| Qualifier stage | 2022-02-19/2022-02-20 |
 | Round of 32 | 2022-02-26/2022-02-27 |
 | Round of 16 | 2022-03-05/2022-03-06 |
 | Quarterfinals | 2022-03-12/2022-03-13 |
@@ -27,7 +27,7 @@ The **UK Community Cup 11** (***UKCC 11***) is a British 2v2 double-elimination 
 
 ## Organisation
 
-The UK Community Cup 11 was run by various community members.
+The UK Community Cup 11 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -46,7 +46,7 @@ The UK Community Cup 11 was run by various community members.
 - [Discord](https://discord.gg/EtsU7Cw)
 - [Livestream](https://twitch.tv/osuukcc)
 - [Rules and information document](https://docs.google.com/document/d/1rkDOmvN4o5VKTbFcBXUXAjG2kPjNhpan9-WwgYlfpE8/edit?usp=sharing)
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti8gGxxCJIHsQXy3gJNAKH9EqATfo/edit#gid=0)
+- [Main spreadsheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti8gGxxCJIHsQXy3gJNAKH9EqATfo/edit#gid=0)
 
 ## Ruleset
 
@@ -54,12 +54,12 @@ The UK Community Cup 11 was run by various community members.
 
 - This tournament is a 2v2 double-elimination British osu! tournament.
 - To be able to participate, players must have a **![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag or be able to provide proof of residency to the hosts**.
-- Teams that register must have a combined BWS rank of **1000** or greater. Any team that does not have this when signups end will be disqualified.
-- Players are reminded to use **common sense** when picking team names, any team names the tournament administration deem unacceptable will be asked to be changed. **Refusal** to change name / not providing an acceptable team name may result in a team being disqualified from the tournament. **(Names that triggers bancho’s autocorrect may be asked to be changed as well)**
+- Teams that register must have a combined Badge Weighting System (BWS) rank of **1000** or greater. Any team that does not have this when signups end will be disqualified.
+- Players are reminded to use **common sense** when picking team names; any team names the tournament administration deems unacceptable will be asked to be changed. **Refusal** to change name or not providing an acceptable team name may result in a team being disqualified from the tournament. **(Names that trigger Bancho's chat filters may be asked to be changed as well)**
 - Matches will be **Team Vs**, with **ScoreV2** as the scoring system used.
 - Seeding will be done based on the sum of normalised scores from qualifier maps.
 - All staff (apart from the hosts, mappool selectors and referees) are allowed to participate in the tournament.
-- All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the Discord server or during matches (this includes homophobia, racism and toxicity) will result in a **ban** and the offending player will be **blacklisted** from participating from future UKCC tournaments.
+- All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the Discord server or during matches (this includes homophobia, racism, and toxicity) will result in a **ban** and the offending player will be **blacklisted** from participating from future UKCC tournaments.
 - **Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.**
 - Players are **required** to join the public Discord server so that they are contactable by other players and staff. If a player can't be contacted or is not responding to messages through Discord, in-game messages, or forum PMs, contact the staff.
 - Mappools are to be released the Monday before a stage is due to happen.
@@ -68,23 +68,23 @@ The UK Community Cup 11 was run by various community members.
 
 - Schedules for the next round are released on the Monday before a stage is due to happen and **all** matches will be scheduled for the weekend. You can reschedule for weekdays at the staff's discretion.
 - In order to reschedule, you must contact your opponents, agree on a time, and be able to provide **proof** (by form of a screenshot/image) of the agreed reschedule to the hosts.
-- In effort to ensure that as many matches take place as possible, reschedules are allowed up to **2 hours before your match is due to be played**. However, your opponent holds the right to **refuse a reschedule if asked less than 12 hours from the scheduled time**.
-- If it is impossible to find a time to reschedule to that suits both teams, both teams should talk to the hosts (![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147) or ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823)) who will attempt to sort something out.
+- In order to ensure that as many matches take place as possible, reschedules are allowed up to **2 hours before your match is due to be played**. However, your opponent holds the right to **refuse a reschedule if asked less than 12 hours before the scheduled time**.
+- If it is impossible to find a time to reschedule to that suits both teams, both teams should talk to the hosts (![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), or ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823)) who will attempt to sort something out.
 - Matches that are uncertain to happen (for example, losers' bracket matches) will still appear on the schedule. They are to be rescheduled if needed in the same way as confirmed matches.
 - If a match needs rescheduling to a time after a related losers' bracket match, the matches relying on the outcome of the rescheduled match will be rescheduled by staff and 24 hours will be given for rescheduling them, if needed.
 
 ### Pre-match
 
 - Referees will create the lobby approximately **10 minutes** before the match is due to start.
-- Teams have a 10 minute grace period after their scheduled match time to join the lobby. If a player fails to join the lobby in this time, then the default win will go to the other player. If both teams do not show up, both teams will recieve losses.
-- We take no-shows seriously, if you fail to show up to your match without valid reason, you may forfeit your right to future UKCC tournaments.
+- Teams have a 10-minute grace period after their scheduled match time to join the lobby. If a player fails to join the lobby in this time, then the default win will go to the other player. If both teams do not show up, both teams will receive losses.
+- We take no-shows seriously. If you fail to show up to your match without valid reason, you may forfeit your right to participate in future UKCC tournaments.
 - The referee cannot play during the match.
 
 ### Qualifiers
 
 - Teams will play through every map in the qualifier pool **once**.
 - The **top 32** scores from qualifiers will make it through to the bracket stage.
-- **Seeding** will be done based on the sum of normalized scores from the qualifier maps.
+- **Seeding** will be done based on the sum of normalised scores from the qualifier maps.
 
 ### Rolling
 
@@ -94,7 +94,7 @@ The UK Community Cup 11 was run by various community members.
 
 - Teams have **2 minutes** to ban a map. Failure to ban a map within this time limit results in a lost ban.
 - For the Round of 32 to Round of 16, there will be one ban per team.
-- From the Quarterfinals onwards, there will be two bans per team.
+- From the Quarterfinals and onwards, there will be two bans per team.
 - There are no restrictions on bans and picks. Teams are free to ban/pick any map regardless of mod.
 
 #### Warm-ups
@@ -105,7 +105,7 @@ The UK Community Cup 11 was run by various community members.
 
 - Teams have **2 minutes** to pick a map. Failure to pick a map within this time limit results in pick choice being passed to the opposing team.
 - **Failed scores will count**.
-- For FreeMod picks, one player from each team must select any combination of **Hidden or HardRock**.
+- For FreeMod picks, one player from each team must select any combination of **Hidden or Hard Rock**.
 - Tiebreakers are FreeMod, however NoMod can be used.
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
