@@ -39,7 +39,7 @@ tags:
 
 ## 링크
 
-- [포럼 스레드]()
+- [포럼 스레드](https://osu.ppy.sh/community/forums/topics/1507792)
 - [결과 시트]()
 - [엔트리 모음]()
 

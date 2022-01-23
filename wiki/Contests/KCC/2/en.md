@@ -39,7 +39,7 @@ The **Korean Charting Contest 2022** (***KCC2022***) is a osu!mania mapping cont
 
 ## Links
 
-- [Forum thread]()
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1507792)
 - [Results sheet]()
 - [Entries]()
 
