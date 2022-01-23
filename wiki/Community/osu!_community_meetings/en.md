@@ -37,7 +37,7 @@ The first osu! community meeting was hosted on September 19, 2021. All meetings 
 | 6 | [December 11, 2021](https://youtu.be/dtGjIyTFtMA) | [Meeting notes](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) | Future of the osu! World Cups, various community questions |
 | 7 | [December 18, 2021](https://youtu.be/v-LgY3UKhkg) | [Meeting notes](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) | peppy responds to various controversies and drama in the community |
 | 8 | [January 9, 2022](https://youtu.be/JXgQ6YEDCGg) | [Meeting notes](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | HP mechanics (health drain), various community questions |
-| 9 | [January 22, 2022]({{LINK}}) | [Meeting notes](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | Various community questions, development update |
+| 9 | [January 22, 2022](https://youtu.be/Prx0XzHl6-M) | [Meeting notes](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | Various community questions, development update |
 
 ## Related links
 
