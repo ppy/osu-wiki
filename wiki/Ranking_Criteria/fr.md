@@ -247,7 +247,7 @@ Cette catégorie contient des déclarations d'allocation explicites de concepts 
 - **Axis-specific command :** Une commande qui ne s'applique qu'à un seul axe spatial spécifié, par exemple `MoveX` et `MoveY`.
 - **Active :** De la première heure de début à la dernière heure de fin des commandes dans l'objet.
 - **Rendered :** Se réfère souvent à un sprite à l'écran qui n'est pas complètement effacé.
-- **osu!pixel :** La plus petite dimension de l'onglet de conception. Apparaît dans le coin supérieur droit de l'écran de l'éditeur, par exemple "x : 104 ; y : 88`.
+- **osu!pixel :** La plus petite dimension de l'onglet de conception. Apparaît dans le coin supérieur droit de l'écran de l'éditeur, par exemple "x : 104 ; y : 88`".
 
 ### Règles
 
