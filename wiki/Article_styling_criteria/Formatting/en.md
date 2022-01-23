@@ -807,7 +807,13 @@ The following is an example of what a table should look like:
 
 ## Blockquotes
 
-The blockquote is limited to quoting text from someone. It must not be used to format text otherwise.
+The blockquote is limited to quoting text from someone. It must not be used to format text otherwise. The name of the quoted person that follows the quote must be prepended by an em dash (`—`) as follows:
+
+```
+> plz enjoy game
+
+—rrtyui
+```
 
 ## Thematic breaks
 
