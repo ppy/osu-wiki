@@ -72,6 +72,7 @@ COT 2022 is run by various osu! community members mostly hailing from the Common
 - DoubleTime
 1. [ZUTOMAYO - Humanoid (Jemzuu) \[Imai Lisa & Du5t's Platter\]](https://osu.ppy.sh/beatmapsets/1052572#fruits/2241108)
 2. [XX:me - Torikago (Mordred) \[Dakini's Insane\]](https://osu.ppy.sh/beatmapsets/764067#fruits/1624401)
+
 ## Ruleset
 
 ### General rules
