@@ -2,6 +2,8 @@
 
 Thanks for your interest in making the osu! wiki better! This article covers the contribution process step by step. In case you are familiar with GitHub, feel free to follow the common feature-branch workflow for proposing changes and skip to the [self-check](#self-check) section.
 
+New contributors are not expected to be familiar with GitHub or [git](https://git-scm.com/), because they're tools mainly tailored towards developers. Don't worry if you don't get something right the first time—a [wiki maintainer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) will either point you in the right direction or fix it for you.
+
 In case you need tips or advice during any stage, don't hesitate to ask in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
 
 ## Areas of interest
