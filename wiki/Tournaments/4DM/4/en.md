@@ -112,6 +112,26 @@ The 4 Digit osu!mania World Cup 4 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+- FreeMod
+  1. [Amaryllis - Never Again (chxu) \[Elekton's Challenge (edit)\]](https://osu.ppy.sh/beatmapsets/1681907#mania/3436263)
+  2. [Ryuno - love hurts. (lonely dance mix) (Mipha-) \[heartbreak 1.05x (126bpm)\]](https://osu.ppy.sh/beatmapsets/1671238#mania/3413561)
+  3. [iPPei - Higanbara (MyZterioN-) \[U-16 (cut) 1.1x (139bpm)\]](https://osu.ppy.sh/beatmapsets/1321795#mania/3274656)
+  4. [SLAM & NATO - PARADOXX (Shoegazer) \[Iconoclasm 1.05x (231bpm)\]](https://osu.ppy.sh/beatmapsets/1621312#mania/3310445)
+  5. [The Flashbulb - Ninedump (HowToPlayLN) \[Stage 2: Unspecified\]](https://osu.ppy.sh/beatmapsets/1159933#mania/2420266)
+  6. [xi - Double Helix (0DZ0) \[DZ's Polymerization\]](https://osu.ppy.sh/beatmapsets/1671835#mania/3414661)
+  7. [Dictate - Militant (Penguinosity) \[Stage 4: Crewmate\]](https://osu.ppy.sh/beatmapsets/1294796#mania/2686656)
+  8. [Bethas - Disintegrate (Lerck) \[Desconstruir (4DM4 ver.)\]](https://osu.ppy.sh/beatmapsets/1484109#mania/3436305)
+  9. [Tokyo Machine - FLAMES (DannyPX) \[BURNING\]](https://osu.ppy.sh/beatmapsets/1303266#mania/2702686)
+  10. [YOASOBI - kaibutsu (RuleBlazing) \[NSV\]](https://osu.ppy.sh/beatmapsets/1388448#mania/2867509)
+  11. [ZeRo-BaSs - Atomic Trigger 3 (chxu) \[Everybody Down!\]](https://osu.ppy.sh/beatmapsets/1667776#mania/3405870)
+  12. [Mafumafu - Tachiiri Kinshi (Raveille) \[No Entry\]](https://osu.ppy.sh/beatmapsets/987136#mania/2064918)
+  13. [432pro - kawaii-catgirl-gif.png (zero2snow) \[sauce.zip\]](https://osu.ppy.sh/beatmapsets/1653253#mania/3374652)
+  14. [ElyOtto - SugarCrash! ft. Kim Petras, Curtis Waters (Orca-) \[Feel Good\]](https://osu.ppy.sh/beatmapsets/1481410#mania/3038835)
+- Tiebreaker
+  1. **[Dustvoxx ft. USAO - Divergence (DannyPX) \[Convergence\]](https://osu.ppy.sh/beatmapsets/1457122#mania/2994727)**
+
 ### Round of 16
 
 - FreeMod
