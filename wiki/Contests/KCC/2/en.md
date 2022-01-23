@@ -46,7 +46,9 @@ The **Korean Charting Contest 2022** (***KCC2022***) is a osu!mania mapping cont
 ## Song list
 
 ### Instrumental
+
 ### Vocal
+
 
 ## Results
 
