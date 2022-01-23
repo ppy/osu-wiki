@@ -4,7 +4,7 @@
 
 Die **Community Mitwirkenden** sind eine handvoll Leute, die aufgrund ihrer besonderen Arbeit - sei es Features, Tools oder Organisatorisches - eine bedeutende Auswirkung auf die Community haben und diese zu der gemacht haben, was sie heute ist. Diese Personen haben dafür ein Abzeichen auf ihrem Profil bekommen, das zeigt, dass sie etwas Bemerkenswertes für die gesamte Community getan haben.
 
-Nicht zu verwechseln mit [osu! Alumni](/wiki/Personen/Das_Team/osu!_Alumni), die frühere Mitglieder verschiedener osu!-Teams waren und nun zurückgetreten sind. Community Contributor Abzeichen werden an freiwillige Helfer vergeben, die sich über ihre Pflicht hinaus für die Verbesserung von osu! und der Community Umgebung eingesetzt haben.
+Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die frühere Mitglieder verschiedener osu!-Teams waren und nun zurückgetreten sind. Community Contributor Abzeichen werden an freiwillige Helfer vergeben, die sich über ihre Pflicht hinaus für die Verbesserung von osu! und der Community Umgebung eingesetzt haben.
 
 ## 2013
 
