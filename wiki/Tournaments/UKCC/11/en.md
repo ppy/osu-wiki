@@ -78,7 +78,7 @@ The UK Community Cup 11 is run by various community members.
 - Referees will create the lobby approximately **10 minutes** before the match is due to start.
 - Teams have a 10-minute grace period after their scheduled match time to join the lobby. If a player fails to join the lobby in this time, then the default win will go to the other player. If both teams do not show up, both teams will receive losses.
 - We take no-shows seriously. If you fail to show up to your match without valid reason, you may forfeit your right to participate in future UKCC tournaments.
-- The referee cannot play during the match.
+- The referee cannot play in the match.
 
 ### Qualifiers
 
