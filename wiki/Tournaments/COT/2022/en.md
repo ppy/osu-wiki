@@ -9,21 +9,21 @@ tags:
 
 ![COT 2021 banner](img/banner.png)
 
-The **osu!catch CIS Open Tournament 2022** (***COT 2021***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) and ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). The tournament is open to all players from Commonwealth of Independent States and Baltic states. It is the second iteration of the osu!catch CIS Open Tournament series.
+The **osu!catch CIS Open Tournament 2022** (***COT 2022***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) and ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). The tournament is open to all players from Commonwealth of Independent States and Baltic states. It is the second iteration of the osu!catch CIS Open Tournament series.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2022-01-01/2022-01-15 |
-| Screening phase | 2022-01-16/2022-01-30 |
-| Qualifiers | 2022-02-05/2022-02-06 |
-| Round of 32 | 2022-02-12/2022-02-13 |
-| Round of 16 | 2022-02-19/2022-02-20 |
-| Quarterfinals | 2022-02-26/2022-02-27 |
-| Semifinals | 2022-03-05/2022-03-06 |
-| Finals | 2022-03-12/2022-03-13 |
-| Grand Finals | 2022-03-19/2022-03-20 |
+| Screening phase | 2022-01-16/2022-01-19 |
+| Qualifiers | 2022-01-29/2022-01-30 |
+| Round of 32 | 2022-02-05/2022-02-06 |
+| Round of 16 | 2022-02-12/2022-02-13 |
+| Quarterfinals | 2022-02-19/2022-02-20 |
+| Semifinals | 2022-02-26/2022-02-27 |
+| Finals | 2022-03-05/2022-03-06 |
+| Grand Finals | 2022-03-12/2022-03-13 |
 
 ## Prizes
 
@@ -53,7 +53,7 @@ COT 2022 is run by various osu! community members mostly hailing from the Common
 - **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS_Sx4MyWdGOYD9raofZ46uomMbVW6wm48/edit?usp=sharing)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1493650)
 - [Discord server](https://discord.gg/ZqCdWBKGrM)
-- [Challonge brackets](https://challonge.com/ru/cot22)
+- [Challonge bracket](https://challonge.com/ru/cot22)
 - [Livestream channel](https://www.twitch.tv/playosuru/)
 
 ## Ruleset
