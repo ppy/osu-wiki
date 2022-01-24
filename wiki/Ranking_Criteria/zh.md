@@ -189,7 +189,7 @@
 - **同一谱面的预览时间点必须一致。** 这用于游戏中的歌曲选择菜单和网页中的在线歌曲试听。
 - **每一个音效长度至少为 25 毫秒。** 长度更短的文件无法在游戏中播放出声音。
 - **完全静音的文件必须使用[这个 44 字节文件](https://up.ppy.sh/files/blank.wav)。** 其他静音音效文件可能会过大，而 0 字节的文件不能使用。
-- **[故事板敲击音效](/wiki/Beatmapping/Hitsound#passive-hitsound)不能替换[主动打击音效](/wiki/Beatmapping/Hitsound#active-hitsound)。** 这会给玩家不准确的反馈。在其他情况下，可以但不鼓励使用故事板敲击音效。osu!mania 不受这一规定的约束。
+- **[故事板敲击音效](/wiki/Beatmapping/Hitsound#storyboarded-hitsound)不能替换[主动打击音效](/wiki/Beatmapping/Hitsound#active-hitsound)。** 这会给玩家不准确的反馈。在其他情况下，可以但不鼓励使用故事板敲击音效。osu!mania 不受这一规定的约束。
 
 ### 准则
 
