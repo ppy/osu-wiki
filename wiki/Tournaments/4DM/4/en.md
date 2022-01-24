@@ -205,7 +205,7 @@ Sunday, 23 January 2022:
 | **Russian Federation** ![][flag_RU] | **5** | 3 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/96895007) |
 | **Mexico** ![][flag_MX] | **5** | 4 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/96898836) |
 | **Sweden** ![][flag_SE] | **5** | 0 | ![][flag_DO] Dominican Republic | [#1](https://osu.ppy.sh/community/matches/96903303) |
-| **Netherlands** ![][flag_NL] | **5** | 4 | ![][flag_UK] United Kingdom | [#1](https://osu.ppy.sh/community/matches/96903298) |
+| **Netherlands** ![][flag_NL] | **5** | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/96903298) |
 
 ### Round of 32
 
