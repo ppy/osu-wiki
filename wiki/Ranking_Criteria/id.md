@@ -185,10 +185,10 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 - **[Hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif) harus menggunakan format file `.wav` atau` .ogg`.** File `.mp3` memiliki sedikit tundaan, dan oleh karena itu hanya digunakan untuk [hitsound pasif](/wiki/Beatmapping/Hitsound#hitsound-pasif), seperti suara ambient.
 - **[Hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif) tidak boleh memiliki tundaan lebih dari 5 milidetik.** "Tundaan" disini merupakan puncak suara daripada awal suara. Hal ini memastikan umpan balik hitsound tersinkron dengan lagu secara efektif. `normal-hitfinish.wav` skin default mengalami sedikit tundaan, namun masih dapat digunakan sebagai hitsound kustom.
 - **Hitsound harus dapat didengar.** Tujuannya adalah untuk memberikan masukan, jadi hitsound dengan volume yang sangat rendah atau sampel yang menyatu dengan sampel lagu tidak dapat diterima. Mode permainan tertentu mencantumkan pengecualian untuk aturan ini pada ranking criteria-nya masing-masing.
-- **Previw point harus disetel dan konsisten di antara semua kesulitan beatmap.** Ini digunakan untuk menu pemilihan lagu dan pratinjau thumbnail online.
+- **Preview point harus disetel dan konsisten di antara semua kesulitan beatmap.** Ini digunakan untuk menu pemilihan lagu dan pratinjau thumbnail online.
 - **Setiap file hitsound harus memiliki durasi setidaknya 25ms.** File yang lebih pendek dapat menyebabkan tidak ada suara yang dimainkan dalam game.
 - **File suara yang sepenuhnya sunyi harus menggunakan [file 44-byte ini](https://up.ppy.sh/files/blank.wav).** File lain memiliki ukuran file yang terlalu besar dan file 0-byte tidak berfungsi.
-- **[Hitsound storyboard](/wiki/Beatmapping/Hitsound#hitsound-pasif) tidak dapat digunakan sebagai pengganti [hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif).** Hal ini memberikan bentuk umpan balik pemain yang tidak akurat. Hitsound storyboard dalam situasi lain dapat diterima, tetapi tidak disarankan. osu!mania dikecualikan dari aturan ini.
+- **[Hitsound storyboard](/wiki/Beatmapping/Hitsound#hitsound-storyboard) tidak dapat digunakan sebagai pengganti [hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif).** Hitsound ini memberikan umpan balik kepada pemain secara tidak akurat. Pada situasi lain, hitsound storyboard dapat digunakan walaupun tidak disarankan. Beatmap-beatmap osu!mania dikecualikan dari aturan ini.
 
 ### Pedoman
 
