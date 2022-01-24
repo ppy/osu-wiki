@@ -68,7 +68,7 @@ Les règles et directives générales s'appliquent à tous les types de difficul
 
 ### Directives
 
-- **Chaque note doit correspondre à un son présent dans la musique.** Il doit s'agir d'un son distinct, mais il peut aussi représenter de manière cohérente un son continu avec un début ou une fin indiscernable. Des exceptions en faveur de la simplification doivent être faites lorsque suivre la musique de manière tout à fait précise...
+- **Chaque note doit correspondre à un son présent dans la musique.** Il doit s'agir d'un son distinct, mais il peut aussi représenter de manière cohérente un son continu avec un début ou une fin indiscernable. Des exceptions à des fins de simplification doivent être faites lorsqu'il suit la musique de manière tout à fait précise...
   - serait déraisonnable de jouer avec une précision totale.
   - serait représenté efficacement par un snap cohérent et prévisible.
   - provoquerait un pic de difficulté inapproprié.
