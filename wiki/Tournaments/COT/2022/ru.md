@@ -64,17 +64,17 @@ COT 2022 организован различными членами сообще
 ### Квалификация
 
 - NoMod
-1. [Koinata Miho, Jougasaki Mika, Hayami Kanade - Twintail no Kaze (Spectator) \[Collab Overdose\]](https://osu.ppy.sh/beatmapsets/1328225#fruits/2751483)
-2. [BESTie - Excuse Me (Euny) \[ShadrEuny's Ex\]](https://osu.ppy.sh/beatmapsets/423925#fruits/915925)
+  1. [Koinata Miho, Jougasaki Mika, Hayami Kanade - Twintail no Kaze (Spectator) \[Collab Overdose\]](https://osu.ppy.sh/beatmapsets/1328225#fruits/2751483)
+  2. [BESTie - Excuse Me (Euny) \[ShadrEuny's Ex\]](https://osu.ppy.sh/beatmapsets/423925#fruits/915925)
 - Hidden
-1. [A-One feat. Shihori - Magic Girl !! (Greaper) \[Deif's Rain\]](https://osu.ppy.sh/beatmapsets/1644488#fruits/3356804)
-2. [Jenny Rom - The Game of Love (E=MC2) Mix (ztrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/14412#fruits/52741)
+  1. [A-One feat. Shihori - Magic Girl !! (Greaper) \[Deif's Rain\]](https://osu.ppy.sh/beatmapsets/1644488#fruits/3356804)
+  2. [Jenny Rom - The Game of Love (E=MC2) Mix (ztrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/14412#fruits/52741)
 - HardRock
-1. [Lime - Chronomia (Rocma) \[Rain\]](https://osu.ppy.sh/beatmapsets/1471328#fruits/3207951)
-2. [Helblinde - Above the Clouds ([ Rizen ]) \[Timeless\]](https://osu.ppy.sh/beatmapsets/344252#fruits/785162)
+  1. [Lime - Chronomia (Rocma) \[Rain\]](https://osu.ppy.sh/beatmapsets/1471328#fruits/3207951)
+  2. [Helblinde - Above the Clouds ([ Rizen ]) \[Timeless\]](https://osu.ppy.sh/beatmapsets/344252#fruits/785162)
 - DoubleTime
-1. [ZUTOMAYO - Humanoid (Jemzuu) \[Imai Lisa & Du5t's Platter\]](https://osu.ppy.sh/beatmapsets/1052572#fruits/2241108)
-2. [XX:me - Torikago (Mordred) \[Dakini's Insane\]](https://osu.ppy.sh/beatmapsets/764067#fruits/1624401)
+  1. [ZUTOMAYO - Humanoid (Jemzuu) \[Imai Lisa & Du5t's Platter\]](https://osu.ppy.sh/beatmapsets/1052572#fruits/2241108)
+  2. [XX:me - Torikago (Mordred) \[Dakini's Insane\]](https://osu.ppy.sh/beatmapsets/764067#fruits/1624401)
 
 ## Правила
 
