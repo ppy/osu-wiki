@@ -121,7 +121,7 @@ Are your hands warm enough for this speedy trial?
 250 BPM, 3:17 | 7.06★\
 *description written by [Boaz](https://osu.ppy.sh/users/13302996)*
 
-*Jeff Williams - Time to say Goodbye (feat. Casey Lee Williams)* by HiroK is one of the more popular RWBY taiko maps out there and that's for a good reason. This map was used as a NoMod pick in the [Taiko World Cup 2020](https://osu.ppy.sh/wiki/Tournaments/TWC/2020), introducing some interesting and speedy patterns.
+*Jeff Williams - Time to say Goodbye (feat. Casey Lee Williams)* by HiroK is one of the more popular RWBY taiko maps out there and that's for a good reason. This map was used as a NoMod pick in the [Taiko World Cup 2020](/wiki/Tournaments/TWC/2020), introducing some interesting and speedy patterns.
 
 But this is not just a traditional stamina map. It features a lot of inspiring patterns within the streams, some well-executed 1/3-snapped streams, and let's not forget the incredible flow this map brings to the table. All of these being the recipe for a very impressive and original stamina map.
 
@@ -255,7 +255,7 @@ Ah well, as the song puts it artfully: *f\*\*k it*, I'm casting my vote. Are you
 
 This is an old one, but this is a good one. Cokiiplay has been mapping all kinds of skillsets and in all kinds of styles in the last few years, and as we were able to catch them for their comeback, we also welcome them for their first Loved nomination!
 
-*Pop Up Tha Bass* is arguably Cokiiplay's most notorious SV map, namely being featured in the finals of the [4-digit MWC of 2021](https://osu.ppy.sh/wiki/Tournaments/4DM/3). It is mostly reading-oriented, switching between slowjam buildups, bombastic drops and longjack transitions. Beware of some of the odd snaps in transitions here and there — the high OD can really bite you when you're going for an SS!
+*Pop Up Tha Bass* is arguably Cokiiplay's most notorious SV map, namely being featured in the finals of the [4-digit MWC of 2021](/wiki/Tournaments/4DM/3). It is mostly reading-oriented, switching between slowjam buildups, bombastic drops and longjack transitions. Beware of some of the odd snaps in transitions here and there — the high OD can really bite you when you're going for an SS!
 
 Like what you're seeing? Pop up tha votes!
 
@@ -293,7 +293,7 @@ Let's give a warm welcome to Nixo, as we're glad to finally bring them into the 
 
 [DJ Myosuke & Noizenecio - Architecture](https://osu.ppy.sh/beatmapsets/339222#mania) by [Mat](https://osu.ppy.sh/users/2668921) and [FAMoss](https://osu.ppy.sh/users/7707789)\
 300 BPM, 4:05 | 4.35★, 5.58★, 7.83★, 8.02★\
-The \[Envory's Hard\], \[Shikkou's Hard\] and \[Jakads' Extreme [wip\]] difficulties are *not* being nominated for Loved.\
+The \[Envory's Hard\], \[Shikkou's Hard\] and \[Jakads' Extreme \[wip\]\] difficulties are *not* being nominated for Loved.\
 *description written by [Paturages](https://osu.ppy.sh/users/1375479)*
 
 Well, uh, *here we go again*! I don't really have words for this one. I feel like a lot of people may have heard of this one, and each have their own perception, feedback and words about this mapset. For those getting a feeling of déjà vu, [this is not the first time we are introducing *Architecture* in a Loved nomination](https://osu.ppy.sh/community/forums/topics/885957).
@@ -346,7 +346,7 @@ Back to osu!mania: you should try this one if you're looking to improve your LN 
 54 BPM, 2:27 | 3.52★\
 *description written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
 
-This chart might not come as a surprise for those who've partaken in the [Springtime osu!mania Free-for-all Tournament 5](https://osu.ppy.sh/wiki/Tournaments/SOFT/5) (or just *SOFT5* to keep it short), specially for those who were able to get past the Qualifier stage.
+This chart might not come as a surprise for those who've partaken in the [Springtime osu!mania Free-for-all Tournament 5](/wiki/Tournaments/SOFT/5) (or just *SOFT5* to keep it short), specially for those who were able to get past the Qualifier stage.
 
 Why this chart in particular someone might ask? We simply want to give our utmost attention to probably one of the most underappreciated mappers in the community, that being Davvy himself! Let it be for his niche likes in a rhythmgamecore community or his involvement and passion in mapping and playing all sorts of classical tracks and instruments. His work being mostly underground hasn't stopped him from charting very precise and complex tracks such as [John Coltrane's *Giant Steps*](https://osu.ppy.sh/beatmapsets/1592995#mania/3253520) just to name one.
 
