@@ -534,7 +534,7 @@ Gute Beispiele:
 Wiki-Links, die zu einem Unterartikel zeigen, sollten den Namen des übergeordneten Ordners in ihrem Linktext haben. Siehe das folgende Beispiel:
 
 ```markdown
-*Siehe auch: [Beatmap-Editor/Design](/wiki/Beatmap_Editor/Design)*
+*Siehe auch: [Beatmap-Editor/Design](/wiki/Client/Beatmap_editor/Design)*
 ```
 
 ##### Links zu Abschnitten

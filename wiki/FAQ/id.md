@@ -415,7 +415,7 @@ Buka menu *Options* dan pilih *Input* -> **Keyboard** dari pilihan-pilihan yang 
 
 #### Saya gagal! Kesalahan-kesalahan apa sajakah yang telah saya lakukan selama saya bermain?
 
-*Penjelasan lebih lanjut: [Replay](/wiki/Replay)*
+*Penjelasan lebih lanjut: [Replay](/wiki/Gameplay/Replay)*
 
 Apabila kamu gagal menyelesaikan sebuah beatmap, kamu dapat melihat tayangan ulang dari permainan kamu dengan menekan tombol `F1` untuk kamu telaah lebih lanjut. Tayangan ulang tersebut dapat kamu tonton hingga pada titik di mana kamu menemukan kegagalan. Untuk dapat kembali menonton tayangan ulang tersebut setelahnya, kamu dapat menekan tombol tilde (`~`) atau dengan menekan `Ctrl`+`R` secara bersamaan pada keyboard kamu. Di samping itu, kamu juga dapat menekan tombol `Esc` untuk kembali ke menu Song Selection dan tombol `F2` untuk menyimpan tayangan ulang yang bersangkutan.
 

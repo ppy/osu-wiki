@@ -18,7 +18,7 @@ Les joueurs ont eu de nouveaux défis sous la forme de [mods](/wiki/Game_modifie
 
 ![](img/relax.png "Relax \(v1\)") ![](img/half_time.png "Half Time \(v1\)")
 
-Pour contrebalancer les nouveaux mods de février, les mods [Relax](/wiki/Game_modifier/Relax) *(RX)* et [Half Time](/wiki/Game_modifier/Half_Time) *(HT)* sont arrivés pour rendre la vie des joueurs plus simple ce mois-ci. Les utilisateurs sont a présent capables de prendre des captures d'écrans, et d'importer ou exporter des [replays](/wiki/Replay). Les animations peuvent être [storyboardées](/wiki/Storyboard) pour la première fois, et le menu de sélection de skin a été ajouté. Les optimisations de performances ont vu une chute de 82% pour le chargement du menu de sélection des musiques (via un nouveau format pour la base de données de beatmaps locale). D'autres ajustements liés a la performance ont été réalisés, incluant l'introduction du limiteur de FPS, et quelques autres options graphiques. Le projet [Bancho](/wiki/Bancho_(server)) a commencé le 24 mars 2008. L'idée était de créer un serveur pour la famille d'osu!, qui gérerait les communications entre les utilisateurs et enlèverait la dépendance a l'[IRC](/wiki/Community/Internet_Relay_Chat).
+Pour contrebalancer les nouveaux mods de février, les mods [Relax](/wiki/Game_modifier/Relax) *(RX)* et [Half Time](/wiki/Game_modifier/Half_Time) *(HT)* sont arrivés pour rendre la vie des joueurs plus simple ce mois-ci. Les utilisateurs sont a présent capables de prendre des captures d'écrans, et d'importer ou exporter des [replays](/wiki/Gameplay/Replay). Les animations peuvent être [storyboardées](/wiki/Storyboard) pour la première fois, et le menu de sélection de skin a été ajouté. Les optimisations de performances ont vu une chute de 82% pour le chargement du menu de sélection des musiques (via un nouveau format pour la base de données de beatmaps locale). D'autres ajustements liés a la performance ont été réalisés, incluant l'introduction du limiteur de FPS, et quelques autres options graphiques. Le projet [Bancho](/wiki/Bancho_(server)) a commencé le 24 mars 2008. L'idée était de créer un serveur pour la famille d'osu!, qui gérerait les communications entre les utilisateurs et enlèverait la dépendance a l'[IRC](/wiki/Community/Internet_Relay_Chat).
 
 ## Avril
 
@@ -32,7 +32,7 @@ Le mode [osu!taiko](/wiki/Game_mode/osu!taiko) *(Taiko)* a vu le jour ce mois-ci
 
 ## Juin
 
-Une étape importante de l'histoire d'osu! a été atteinte avec l'ajout du [multijoueur](/wiki/Multi). Les possibilités de skinning ont été agrandies pour à la fois le coté graphique et sonore. Enfin, le chat multi-canal a été rendu possible pour la première fois.
+Une étape importante de l'histoire d'osu! a été atteinte avec l'ajout du [multijoueur](/wiki/Gameplay/Multiplayer). Les possibilités de skinning ont été agrandies pour à la fois le coté graphique et sonore. Enfin, le chat multi-canal a été rendu possible pour la première fois.
 
 ## Juillet
 
@@ -50,7 +50,7 @@ Un nouveau statut classé a été ajouté, "![](img/fire.gif) [Approuvée](/wiki
 
 ![](img/flashlight.png "Flashlight \(v1\)") ![](img/spun_out.png "Spun Out \(v1\)") ![](img/auto.png "Auto \(v1\)")
 
-Une série de nouveau mods a été rendue publique ce mois-ci : [Flashlight](/wiki/Game_modifier/Flashlight) *(FL)*, [Spun Out](/wiki/Game_modifier/Spun_Out) *(SO)* et [Auto](/wiki/Game_modifier/Auto) *(AT)*. Auto émule un joueur artificiel qui peut compléter (presque) n'importe quelle beatmap avec une [précision](/wiki/Gameplay/Accuracy) parfaite, et est aussi accessible depuis le mode de test de l'éditeur. Les limites de la création des beatmaps ont été poussées plus loin avec l'ajout de plus d'éléments personnalisables (incluant les [comboburst](/wiki/Glossary/Comboburst), l'échantillon sonore clap, la possibilité d'assigner des sons à des points individuels de sliders et des sections de timing en découlant). Le menu de sélection des musiques a aussi reçu une refonte. 
+Une série de nouveau mods a été rendue publique ce mois-ci : [Flashlight](/wiki/Game_modifier/Flashlight) *(FL)*, [Spun Out](/wiki/Game_modifier/Spun_Out) *(SO)* et [Auto](/wiki/Game_modifier/Auto) *(AT)*. Auto émule un joueur artificiel qui peut compléter (presque) n'importe quelle beatmap avec une [précision](/wiki/Gameplay/Accuracy) parfaite, et est aussi accessible depuis le mode de test de l'éditeur. Les limites de la création des beatmaps ont été poussées plus loin avec l'ajout de plus d'éléments personnalisables (incluant les [comboburst](/wiki/Gameplay/Comboburst), l'échantillon sonore clap, la possibilité d'assigner des sons à des points individuels de sliders et des sections de timing en découlant). Le menu de sélection des musiques a aussi reçu une refonte. 
 
 ## Octobre
 

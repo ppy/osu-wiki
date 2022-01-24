@@ -17,7 +17,7 @@ Outros conteúdos do editor de beatmap incluem:
 - [AiMod](AiMod): O primeiro modder que todos os mappers podem usar.
 - [Beat Snap Divisor](Beat_Snap_Divisor): A coisa na timeline que te ajuda a fazer um beatmap, em relação à timings.
 - [Distance Snap](Distance_snap): A coisa que afeta o quão longe ou perto as notas serão posicionadas.
-- [Kiai Time](/wiki/Kiai_time): Notas que fazem surgir um monte de estrelas e luzes brilhantes durante uma certa seção do mapa.
+- [Kiai Time](/wiki/Gameplay/Kiai_time): Notas que fazem surgir um monte de estrelas e luzes brilhantes durante uma certa seção do mapa.
 - [Menu](Menu): Uma explicação sobre os botões no topo do editor de beatmap
 - [SB Load](SB_Load): Um número usado para indicar o quão pesado é um storyboard. Qualquer número acima de 5x é ruim para computadores antigos.
 - [Timelines](Timelines): O painel do topo do editor de beatmap que mostra notas, breaks (pausas) e mais.

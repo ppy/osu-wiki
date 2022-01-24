@@ -67,6 +67,6 @@ Vissa brott har en lägsta varaktighet (vanligtvis 48 timmar eller mer) om de ä
 
 Om du fortsätter att bryta reglerna efter flera straff kan ditt konto bli permanent begränsat.
 
-Begränsade konton kan inte spela online, skicka in scores, chatta med andra användare och är "förbjudna" från interaktion med communityn. Begränsningar för brott mot våra communityregler kan endast tas bort efter överklagande till supportpersonalen efter att tre månader har gått ([fler villkor kan gälla](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
+Begränsade konton kan inte spela online, skicka in scores, chatta med andra användare och är "förbjudna" från interaktion med communityn. Begränsningar för brott mot våra communityregler kan endast tas bort efter överklagande till supportpersonalen efter att tre månader har gått ([fler villkor kan gälla](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns)).
 
 Allvarliga regelbrytningar som går långt utanför våra communityregler och till  jurisdiktion för olagligt innehåll enligt internationell gemensam lag kommer att resultera i omedelbar avstängning. Detta gäller nästan uteslutande för extremt grafiska eller på annat sätt avskyvärda regelbrytningar, såsom distribution av barnpornografi eller annat missbruksmaterial.

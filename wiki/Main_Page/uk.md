@@ -13,7 +13,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # Початок роботи
 
-[Встановлення](/wiki/Client/Installation) • [Реєстрація](/wiki/Registration) • [Центр допомоги](/wiki/Help_Centre) • [ЧаПи](/wiki/FAQ)
+[Встановлення](/wiki/Client/Installation) • [Реєстрація](/wiki/Registration) • [Центр допомоги](/wiki/Help_centre) • [ЧаПи](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -31,7 +31,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 [Режими гри](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Карти](/wiki/Beatmap) • [Ігрові об\'єкти](/wiki/Hit_object) • [Модифікатори](/wiki/Game_modifier) • [Ігрові очки](/wiki/Gameplay/Score) • [Повтор](/wiki/Replay) • [Мультиплеєр](/wiki/Multi)
+[Карти](/wiki/Beatmap) • [Ігрові об\'єкти](/wiki/Hit_object) • [Модифікатори](/wiki/Game_modifier) • [Ігрові очки](/wiki/Gameplay/Score) • [Повтор](/wiki/Gameplay/Replay) • [Мультиплеєр](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
