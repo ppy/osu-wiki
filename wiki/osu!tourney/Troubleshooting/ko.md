@@ -34,7 +34,7 @@
 ## 멀티플레이어 방이 표시되지 않습니다!
 
 방의 이름이 제대로 적히지 않았거나 `tournament.cfg` 내에 있는 acronym 이 틀렸을 수 있습니다.
-방의 이름이 [멀티플레이어 사용법](/wiki/osu!tourney/Multiplayer_Usage) 의 서식을 따르는지 확인하세요.
+방의 이름이 [멀티플레이어 사용법](/wiki/osu!tourney/Multiplayer_usage) 의 서식을 따르는지 확인하세요.
 
 ## 팀 이름이 표시되지 않습니다!
 

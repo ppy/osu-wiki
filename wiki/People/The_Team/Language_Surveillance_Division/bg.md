@@ -17,7 +17,7 @@ tags:
 
 ## Задачи
 
-Хората от LSD бяха случайно избрани членове на общността от osu! екип за да действат като модератори в ненатоварени общности и подфоруми. За разлика от глобалните модератори, те нямат всички функции като оцветено име или титла. В [IRC](/wiki/Internet_Relay_Chat), обаче, бяха [оператори](/wiki/Internet_Relay_Chat#why-are-some-usernames-prefixed-with-different-signs?) и можеха да [заглушават](/wiki/Silence).
+Хората от LSD бяха случайно избрани членове на общността от osu! екип за да действат като модератори в ненатоварени общности и подфоруми. За разлика от глобалните модератори, те нямат всички функции като оцветено име или титла. В [IRC](/wiki/Community/Internet_Relay_Chat), обаче, бяха [оператори](/wiki/Community/Internet_Relay_Chat#why-are-some-usernames-prefixed-with-different-signs?) и можеха да [заглушават](/wiki/Silence).
 
 LSD също така служеше като междинна група преди повишение на изчакващо попълнение към [глобалния модераторски екип](/wiki/People/The_Team/Global_Moderation_Team). На моменти двете групи дори споделяха обща цел и качествена характеристика.<!-- internal reference: https://osu.ppy.sh/community/forums/topics/123465 -->
 

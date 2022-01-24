@@ -34,7 +34,7 @@ While this summarizes the winners and their prizes, details on the rest of the p
 
 ## osu! results
 
-This month's contest was themed around [blankets](/wiki/Mapping_Techniques/Blanket)!
+This month's contest was themed around [blankets](/wiki/Mapping_techniques/Blanket)!
 
 During the [screening](/wiki/Contests/Monthly_Beatmapping_Contest#screening) process, experienced mappers narrowed down the contest's **20+** entries to **5** finalists. These 5 entries were thoroughly evaluated by a different team of [judges](/wiki/Contests/Monthly_Beatmapping_Contest#judging), resulting in the... uh, results!
 

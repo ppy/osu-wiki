@@ -1,6 +1,6 @@
 ---
 tags:
-- development
+  - development
 no_native_review: true
 ---
 
@@ -27,8 +27,8 @@ De belangrijkste ontwikkelingen die in de server besproken worden hebben hun eig
 | [osu!taiko](/wiki/Game_mode/osu!taiko) star rating en prestatiepunten | `#difficulty-taiko` |
 | [osu!catch](/wiki/Game_mode/osu!catch) star rating en prestatiepunten | `#difficulty-catch` |
 | [osu!mania](/wiki/Game_mode/osu!mania) star rating en prestatiepunten | `#difficulty-mania` |
-| [Beatmaps in de schijnwerpers](https://osu.ppy.sh/rankings/osu/charts) | `#osu-spotlights` |
+| [Beatmaps in de schijnwerpers](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
-| [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
+| [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
 | [Modding](/wiki/Modding) discussie en [NAT-meetings](/wiki/Modding/NAT_meetings) | `#modding` |
-| [Mappers' Gilde](/wiki/Mappers_Guild) | `#mappers-guild` |
+| [Mappers' Gilde](/wiki/Community/Mappers_Guild) | `#mappers-guild` |

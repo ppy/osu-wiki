@@ -81,128 +81,128 @@ Listed below are the players who were admitted into the Group stage along with t
 **[Download the mappack here! (144 MB)](https://drive.google.com/u/0/uc?id=1pC_tzYe-pfkRSE-71XAosA8vSCLI4Nx2&export=download)**
 
 - NoMod
-  - [KOTOKO - Art as Heart (Nana Abe) \[Pastel Love Melody\]](https://osu.ppy.sh/beatmapsets/1267314#fruits/2633788)
-  - [BEMANI Sound Team "Nekomata Master" - Painful Fate (Down) \[Dailycare's Nosedive\]](https://osu.ppy.sh/beatmapsets/1193072#fruits/2486013)
-  - [Tadokoro Azusa - 1HOPE SNIPER (Sotarks) \[Kalibe's Extra\]](https://osu.ppy.sh/beatmapsets/824132#fruits/1726866)
-  - [ISOMERZ (DJ Raisei + seatrus) - Symmetric (Realazy) \[Emantiomorphs\]](https://osu.ppy.sh/beatmapsets/1381824#fruits/2855075)
-  - [Bossfight - Milky Ways (-GN) \[Extreme AR9\]](https://osu.ppy.sh/beatmapsets/1526769#fruits/3147006)
+  1. [KOTOKO - Art as Heart (Nana Abe) \[Pastel Love Melody\]](https://osu.ppy.sh/beatmapsets/1267314#fruits/2633788)
+  2. [BEMANI Sound Team "Nekomata Master" - Painful Fate (Down) \[Dailycare's Nosedive\]](https://osu.ppy.sh/beatmapsets/1193072#fruits/2486013)
+  3. [Tadokoro Azusa - 1HOPE SNIPER (Sotarks) \[Kalibe's Extra\]](https://osu.ppy.sh/beatmapsets/824132#fruits/1726866)
+  4. [ISOMERZ (DJ Raisei + seatrus) - Symmetric (Realazy) \[Emantiomorphs\]](https://osu.ppy.sh/beatmapsets/1381824#fruits/2855075)
+  5. [Bossfight - Milky Ways (-GN) \[Extreme AR9\]](https://osu.ppy.sh/beatmapsets/1526769#fruits/3147006)
 - Hidden
-  - [KikuoHana - Desert Theater (Keqing) \[Mirage (\#1)\]](https://osu.ppy.sh/beatmapsets/1382362#fruits/2856086)
-  - [Katakiri Rekka - Answer (ShirohaMyMommy) \[GlazeE's Extra\]](https://osu.ppy.sh/beatmapsets/1062653#fruits/2237075)
-  - [Falcom Sound Team jdk - Seductive Shudder (jonathanlfj) \[Bewitching OWC\]](https://osu.ppy.sh/beatmapsets/1306626#fruits/2709094)
-  - [L.E.D. - CHRONO DIVER -NORNIR- (yf\_bmp) \[Gust's Another\]](https://osu.ppy.sh/beatmapsets/1363479#fruits/2831889)  
+  1. [KikuoHana - Desert Theater (Keqing) \[Mirage (\#1)\]](https://osu.ppy.sh/beatmapsets/1382362#fruits/2856086)
+  2. [Katakiri Rekka - Answer (ShirohaMyMommy) \[GlazeE's Extra\]](https://osu.ppy.sh/beatmapsets/1062653#fruits/2237075)
+  3. [Falcom Sound Team jdk - Seductive Shudder (jonathanlfj) \[Bewitching OWC\]](https://osu.ppy.sh/beatmapsets/1306626#fruits/2709094)
+  4. [L.E.D. - CHRONO DIVER -NORNIR- (yf\_bmp) \[Gust's Another\]](https://osu.ppy.sh/beatmapsets/1363479#fruits/2831889)  
 - HardRock
-  - [Yonekura Chihiro - DEAR MY WAKER (Skystar) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/1579180#fruits/3224533)
-  - [UNDEAD CORPORATION - Flowering Night Fever (Alheak) \[Flowering\]](https://osu.ppy.sh/beatmapsets/393663#fruits/856743)
-  - [ICE - Entrance (Icekalt) \[Ausgang\]](https://osu.ppy.sh/beatmapsets/1276389#fruits/2651888)
-  - [Nekomata Master+ - Rengoku no Elferia (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/1489153#fruits/3052739)
+  1. [Yonekura Chihiro - DEAR MY WAKER (Skystar) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/1579180#fruits/3224533)
+  2. [UNDEAD CORPORATION - Flowering Night Fever (Alheak) \[Flowering\]](https://osu.ppy.sh/beatmapsets/393663#fruits/856743)
+  3. [ICE - Entrance (Icekalt) \[Ausgang\]](https://osu.ppy.sh/beatmapsets/1276389#fruits/2651888)
+  4. [Nekomata Master+ - Rengoku no Elferia (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/1489153#fruits/3052739)
 - DoubleTime
-  - [Shimotsuki Haruka - Akahitoha (ImpurePug) \[Lv9's Insane\]](https://osu.ppy.sh/beatmapsets/974417#fruits/2249851)
-  - [Yousei Teikoku - last moment (IsomirDiAngelo) \[meiikyuu's Insane\]](https://osu.ppy.sh/beatmapsets/1172342#fruits/2612500)
-  - [Yorushika - Tada Kimi ni Hare (GreenHue) \[KKip's Stone in a Summer Moor\]](https://osu.ppy.sh/beatmapsets/847238#fruits/1816958)
-  - [Mandy Moore - Lock Me In Your Heart (Raburauza) \[We'll dance together\]](https://osu.ppy.sh/beatmapsets/1260471#fruits/2620285)
+  1. [Shimotsuki Haruka - Akahitoha (ImpurePug) \[Lv9's Insane\]](https://osu.ppy.sh/beatmapsets/974417#fruits/2249851)
+  2. [Yousei Teikoku - last moment (IsomirDiAngelo) \[meiikyuu's Insane\]](https://osu.ppy.sh/beatmapsets/1172342#fruits/2612500)
+  3. [Yorushika - Tada Kimi ni Hare (GreenHue) \[KKip's Stone in a Summer Moor\]](https://osu.ppy.sh/beatmapsets/847238#fruits/1816958)
+  4. [Mandy Moore - Lock Me In Your Heart (Raburauza) \[We'll dance together\]](https://osu.ppy.sh/beatmapsets/1260471#fruits/2620285)
 - Tiebreaker
-  - **[Camellia - GHOST (2020 Halloween+++++++++ VIP) (Iled) \[We will meet again...\]](https://osu.ppy.sh/beatmapsets/1464577#fruits/3008085)**
+  1. **[Camellia - GHOST (2020 Halloween+++++++++ VIP) (Iled) \[We will meet again...\]](https://osu.ppy.sh/beatmapsets/1464577#fruits/3008085)**
 
 ### Semifinals
 
 **[Download the mappack here! (116 MB)](https://drive.google.com/u/0/uc?id=1QhezIrutzzr1sF00YTg_LLYW7vy9Ch9o&export=download)**
 
 - NoMod
-  - [Poparzeni Kawa Trzy - Bylas dla mnie wszystkim (fartownik) \[Skubi's Poetry\]](https://osu.ppy.sh/beatmapsets/555030#fruits/1193512)
-  - [Project Grimoire - Aenbharr (Star Stream) \[Aonbharr\]](https://osu.ppy.sh/beatmapsets/1367187#fruits/2830966)
-  - [In Flames - Take This Life (LMT) \[End Me\]](https://osu.ppy.sh/beatmapsets/709296#fruits/1499387)
-  - [sakuraburst - dragonlands (Minorsonek) \[Pulchritudinous\]](https://osu.ppy.sh/beatmapsets/1009637#fruits/2113585)
-  - [Creo - Shape of the Sun (NeilPerry) \[Conflux\]](https://osu.ppy.sh/beatmapsets/1051126#fruits/2196768)
+  1. [Poparzeni Kawa Trzy - Bylas dla mnie wszystkim (fartownik) \[Skubi's Poetry\]](https://osu.ppy.sh/beatmapsets/555030#fruits/1193512)
+  2. [Project Grimoire - Aenbharr (Star Stream) \[Aonbharr\]](https://osu.ppy.sh/beatmapsets/1367187#fruits/2830966)
+  3. [In Flames - Take This Life (LMT) \[End Me\]](https://osu.ppy.sh/beatmapsets/709296#fruits/1499387)
+  4. [sakuraburst - dragonlands (Minorsonek) \[Pulchritudinous\]](https://osu.ppy.sh/beatmapsets/1009637#fruits/2113585)
+  5. [Creo - Shape of the Sun (NeilPerry) \[Conflux\]](https://osu.ppy.sh/beatmapsets/1051126#fruits/2196768)
 - Hidden
-  - [REOL - VIP KID (Sparhten) \[Isolophobia\]](https://osu.ppy.sh/beatmapsets/1164168#fruits/2609556)
-  - [Ricky Montgomery - Line Without a Hook (Cheri) \[Expert\]](https://osu.ppy.sh/beatmapsets/1172523#fruits/2445615)
-  - [koushirou - Amata no Mai -Dance of many- (IOException) \[Expert\]](https://osu.ppy.sh/beatmapsets/1228557#fruits/2554582)
-  - [TOTAL OBJECTION - Higurashi Moratorium (rollpan) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/702512#fruits/1486534)  
+  1. [REOL - VIP KID (Sparhten) \[Isolophobia\]](https://osu.ppy.sh/beatmapsets/1164168#fruits/2609556)
+  2. [Ricky Montgomery - Line Without a Hook (Cheri) \[Expert\]](https://osu.ppy.sh/beatmapsets/1172523#fruits/2445615)
+  3. [koushirou - Amata no Mai -Dance of many- (IOException) \[Expert\]](https://osu.ppy.sh/beatmapsets/1228557#fruits/2554582)
+  4. [TOTAL OBJECTION - Higurashi Moratorium (rollpan) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/702512#fruits/1486534)  
 - HardRock
-  - [Falcom Sound Team jdk - Desert After Tears (Deca) \[lfj's Nightmare\]](https://osu.ppy.sh/beatmapsets/1150262#fruits/2524307)
-  - [S.F.A - Dienos Advento (Nathan) \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1085630#fruits/2367232)
-  - [BEMANI Sound Team "Nekomata Master" - The last of world music (LMT) \[Expert\]](https://osu.ppy.sh/beatmapsets/1060582#fruits/2220546)
-  - [ZUN - The Venerable Ancient Battlefield \~ Suwa Foughten Field (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/100444#fruits/266778)
+  1. [Falcom Sound Team jdk - Desert After Tears (Deca) \[lfj's Nightmare\]](https://osu.ppy.sh/beatmapsets/1150262#fruits/2524307)
+  2. [S.F.A - Dienos Advento (Nathan) \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1085630#fruits/2367232)
+  3. [BEMANI Sound Team "Nekomata Master" - The last of world music (LMT) \[Expert\]](https://osu.ppy.sh/beatmapsets/1060582#fruits/2220546)
+  4. [ZUN - The Venerable Ancient Battlefield \~ Suwa Foughten Field (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/100444#fruits/266778)
 - DoubleTime
-  - [Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](https://osu.ppy.sh/beatmapsets/22276#fruits/86324)
-  - [Tatsh - Lunatic Tears... (Tatsh Remix) (Mordred) \[Insane\]](https://osu.ppy.sh/beatmapsets/1460718#fruits/3001358)
-  - [Hiroyuki Sawano - BLOWIN' (ktgster) \[Insane\]](https://osu.ppy.sh/beatmapsets/560165#fruits/1185385)
-  - [Noisia - Groundhog (Beat Juggle) (Arphimigon) \[Pro\]](https://osu.ppy.sh/beatmapsets/475154#fruits/1130379)
+  1. [Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](https://osu.ppy.sh/beatmapsets/22276#fruits/86324)
+  2. [Tatsh - Lunatic Tears... (Tatsh Remix) (Mordred) \[Insane\]](https://osu.ppy.sh/beatmapsets/1460718#fruits/3001358)
+  3. [Hiroyuki Sawano - BLOWIN' (ktgster) \[Insane\]](https://osu.ppy.sh/beatmapsets/560165#fruits/1185385)
+  4. [Noisia - Groundhog (Beat Juggle) (Arphimigon) \[Pro\]](https://osu.ppy.sh/beatmapsets/475154#fruits/1130379)
 - Tiebreaker
-  - **[USAO - TAPIOCA (Realazy) \[Fury\]](https://osu.ppy.sh/beatmapsets/1267298#fruits/2633754)**
+  1. **[USAO - TAPIOCA (Realazy) \[Fury\]](https://osu.ppy.sh/beatmapsets/1267298#fruits/2633754)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (105 MB)](https://drive.google.com/u/0/uc?id=1rdBRZtIkpWYC7rKyRsEnChvf_PPWeu1n&export=download)**
 
 - NoMod
-  - [Yorushika - Itte. (AIR) \[Hard\]](https://osu.ppy.sh/beatmapsets/1190533#fruits/2480520)
-  - [Mitsuyoshi Takenobu no Ani - Amphisbaena (toybot) \[Demonic Another\]](https://osu.ppy.sh/beatmapsets/576022#fruits/1219592)
-  - [Elements Garden - Mugen Kidou (Nathan) \[AR9.2\]](https://osu.ppy.sh/beatmapsets/1312130#fruits/2719438)
-  - [Silentroom - Nhelv (Nyxa) \[Shiirn's inferiorem\]](https://osu.ppy.sh/beatmapsets/917915#fruits/2011189)
+  1. [Yorushika - Itte. (AIR) \[Hard\]](https://osu.ppy.sh/beatmapsets/1190533#fruits/2480520)
+  2. [Mitsuyoshi Takenobu no Ani - Amphisbaena (toybot) \[Demonic Another\]](https://osu.ppy.sh/beatmapsets/576022#fruits/1219592)
+  3. [Elements Garden - Mugen Kidou (Nathan) \[AR9.2\]](https://osu.ppy.sh/beatmapsets/1312130#fruits/2719438)
+  4. [Silentroom - Nhelv (Nyxa) \[Shiirn's inferiorem\]](https://osu.ppy.sh/beatmapsets/917915#fruits/2011189)
 - Hidden
-  - [Izumi Akazawa (CV. Madoka Yonezawa) - Responsibility Response (Natsu) \[Salsa\]](https://osu.ppy.sh/beatmapsets/420677#fruits/909990)
-  - [tarolabo - Zeitmesser (Charles445) \[Expert\]](https://osu.ppy.sh/beatmapsets/310339#fruits/693542)
-  - [ZUN - Heian Alien (Halfslashed) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1301413#fruits/2699287)
+  1. [Izumi Akazawa (CV. Madoka Yonezawa) - Responsibility Response (Natsu) \[Salsa\]](https://osu.ppy.sh/beatmapsets/420677#fruits/909990)
+  2. [tarolabo - Zeitmesser (Charles445) \[Expert\]](https://osu.ppy.sh/beatmapsets/310339#fruits/693542)
+  3. [ZUN - Heian Alien (Halfslashed) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1301413#fruits/2699287)
 - HardRock
-  - [Rigel Theatre - Rinn Ding Dong (kwk) \[Sakase\]](https://osu.ppy.sh/beatmapsets/804648#fruits/1689162)
-  - [yumemidoll - Lyrith -Meikyuu Lyrith- (eiri-) \[Alheak's Extra\]](https://osu.ppy.sh/beatmapsets/757681#fruits/1593926)
-  - [Fujiwara Marina - Zettai\*Daisuki (Natteke desu) \[Diffname was redacted by corsace staff and i can't blame them\]](https://osu.ppy.sh/beatmapsets/1544407#fruits/3156684)
+  1. [Rigel Theatre - Rinn Ding Dong (kwk) \[Sakase\]](https://osu.ppy.sh/beatmapsets/804648#fruits/1689162)
+  2. [yumemidoll - Lyrith -Meikyuu Lyrith- (eiri-) \[Alheak's Extra\]](https://osu.ppy.sh/beatmapsets/757681#fruits/1593926)
+  3. [Fujiwara Marina - Zettai\*Daisuki (Natteke desu) \[Diffname was redacted by corsace staff and i can't blame them\]](https://osu.ppy.sh/beatmapsets/1544407#fruits/3156684)
 - DoubleTime
-  - [Suzuyu - Mezameta Asa ni wa Kimi ga Tonari ni (Riana) \[Insane\]](https://osu.ppy.sh/beatmapsets/1293806#fruits/2684841)
-  - [-45 - Midorigo Queen Bee (Luscent) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1055780#fruits/2206544)
-  - [Hana - Kuukirikigaku Shoujo to Shounen no Uta (Bellicose) \[Gust's Another\]](https://osu.ppy.sh/beatmapsets/1055510#fruits/2262846)
+  1. [Suzuyu - Mezameta Asa ni wa Kimi ga Tonari ni (Riana) \[Insane\]](https://osu.ppy.sh/beatmapsets/1293806#fruits/2684841)
+  2. [-45 - Midorigo Queen Bee (Luscent) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1055780#fruits/2206544)
+  3. [Hana - Kuukirikigaku Shoujo to Shounen no Uta (Bellicose) \[Gust's Another\]](https://osu.ppy.sh/beatmapsets/1055510#fruits/2262846)
 - Tiebreaker
-  - **[TRUE - Hiryuu no Kishi (Atalanta) \[Beyond the Sky\]](https://osu.ppy.sh/beatmapsets/734191#fruits/1549194)**
+  1. **[TRUE - Hiryuu no Kishi (Atalanta) \[Beyond the Sky\]](https://osu.ppy.sh/beatmapsets/734191#fruits/1549194)**
 
 ### Round of 16
 
 **[Download the mappack here! (94 MB)](https://drive.google.com/u/0/uc?id=1n6zq2kuoN79QqndoptT5g1OBSFhLF4Hc&export=download)**
 
 - NoMod
-  - [gi(a)rlish number - Bloom (Azunyan-) \[My Voice\]](https://osu.ppy.sh/beatmapsets/1373933#fruits/2840314)
-  - [Chroma - I (Kawashiro) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/880256#fruits/1877959)
-  - [Sota Fujimori - ACCELERATE (Chaoslitz) \[Ametrin's Extra (\#9)\]](https://osu.ppy.sh/beatmapsets/852406#fruits/1782387)
-  - [FELT - a wonderful moon (Naitoshi) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/190847#fruits/454385)
+  1. [gi(a)rlish number - Bloom (Azunyan-) \[My Voice\]](https://osu.ppy.sh/beatmapsets/1373933#fruits/2840314)
+  2. [Chroma - I (Kawashiro) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/880256#fruits/1877959)
+  3. [Sota Fujimori - ACCELERATE (Chaoslitz) \[Ametrin's Extra (\#9)\]](https://osu.ppy.sh/beatmapsets/852406#fruits/1782387)
+  4. [FELT - a wonderful moon (Naitoshi) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/190847#fruits/454385)
 - Hidden
-  - [zts - lastendconductor (Yohanes) \[Intricate\]](https://osu.ppy.sh/beatmapsets/685558#fruits/1451093)
-  - [Parov Stelar - Catgroove (Blue Dragon) \[Insane\]](https://osu.ppy.sh/beatmapsets/144955#fruits/359780)
-  - [KOTOKO - Unite + reactioN (-Gamu-) \[D.N.Angel\]](https://osu.ppy.sh/beatmapsets/49406#fruits/153451)
+  1. [zts - lastendconductor (Yohanes) \[Intricate\]](https://osu.ppy.sh/beatmapsets/685558#fruits/1451093)
+  2. [Parov Stelar - Catgroove (Blue Dragon) \[Insane\]](https://osu.ppy.sh/beatmapsets/144955#fruits/359780)
+  3. [KOTOKO - Unite + reactioN (-Gamu-) \[D.N.Angel\]](https://osu.ppy.sh/beatmapsets/49406#fruits/153451)
 - HardRock
-  - [Hoshimachi Suisei & Amane Kanata - Tsukiakari (KotarOwU) \[Insane\]](https://osu.ppy.sh/beatmapsets/1293878#fruits/2727727)
-  - [Zekk - Duplication (Elayue) \[Insane\]](https://osu.ppy.sh/beatmapsets/1484383#fruits/3044231)
-  - [Falcom Sound Team jdk - Over Drive (Kite) \[Origin\]](https://osu.ppy.sh/beatmapsets/40233#fruits/127846)
+  1. [Hoshimachi Suisei & Amane Kanata - Tsukiakari (KotarOwU) \[Insane\]](https://osu.ppy.sh/beatmapsets/1293878#fruits/2727727)
+  2. [Zekk - Duplication (Elayue) \[Insane\]](https://osu.ppy.sh/beatmapsets/1484383#fruits/3044231)
+  3. [Falcom Sound Team jdk - Over Drive (Kite) \[Origin\]](https://osu.ppy.sh/beatmapsets/40233#fruits/127846)
 - DoubleTime
-  - [556t - Kyuuen no Hana (Kyubey) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/484497#fruits/1033514)
-  - [Kanzaki Elza starring ReoNa - step, step (Stratos) \[Kowari's Insane\]](https://osu.ppy.sh/beatmapsets/1337889#fruits/2771476)
-  - [Shikata Akiko - Haizora no Shizuku (ScubDomino) \[Reiji x Shurelia's Insane\]](https://osu.ppy.sh/beatmapsets/1438186#fruits/3139332)
+  1. [556t - Kyuuen no Hana (Kyubey) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/484497#fruits/1033514)
+  2. [Kanzaki Elza starring ReoNa - step, step (Stratos) \[Kowari's Insane\]](https://osu.ppy.sh/beatmapsets/1337889#fruits/2771476)
+  3. [Shikata Akiko - Haizora no Shizuku (ScubDomino) \[Reiji x Shurelia's Insane\]](https://osu.ppy.sh/beatmapsets/1438186#fruits/3139332)
 - Tiebreaker
-  - **[Camellia - PLANET//SHAPER (Leader) \[Collab\]](https://osu.ppy.sh/beatmapsets/346853#fruits/765525)**
+  1. **[Camellia - PLANET//SHAPER (Leader) \[Collab\]](https://osu.ppy.sh/beatmapsets/346853#fruits/765525)**
 
 ### Group stage
 
 **[Download the mappack here! (101 MB)](https://drive.google.com/u/0/uc?id=1bJFVnOkST8dFyFd_FgHMtHKiqM2bAsiE&export=download)**
 
 - NoMod
-  - [Hotaru Murasaki - Re:TrymenT (Kyuukai) \[SeaRasp's:InsanE\]](https://osu.ppy.sh/beatmapsets/563680#fruits/1199190)
-  - [ESTi X M2U - Obelisque (Strawberry) \[SRY\]](https://osu.ppy.sh/beatmapsets/92265#fruits/249530)
-  - [KOKIA - Chouwa oto \~with reflection\~ (Mirash) \[three twenty five fifteen twenty one twenty three one\]](https://osu.ppy.sh/beatmapsets/848951#fruits/1775268)
-  - [Linkin Park - Breaking The Habit (Mordred) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1365175#fruits/2925905)
+  1. [Hotaru Murasaki - Re:TrymenT (Kyuukai) \[SeaRasp's:InsanE\]](https://osu.ppy.sh/beatmapsets/563680#fruits/1199190)
+  2. [ESTi X M2U - Obelisque (Strawberry) \[SRY\]](https://osu.ppy.sh/beatmapsets/92265#fruits/249530)
+  3. [KOKIA - Chouwa oto \~with reflection\~ (Mirash) \[three twenty five fifteen twenty one twenty three one\]](https://osu.ppy.sh/beatmapsets/848951#fruits/1775268)
+  4. [Linkin Park - Breaking The Habit (Mordred) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1365175#fruits/2925905)
 - Hidden
-  - [narry feat. F9 - aquamarine (Shurelia) \[Deep Blue\]](https://osu.ppy.sh/beatmapsets/1557792#fruits/3182198)
-  - [xi - Valhalla (Nyquill) \[445\]](https://osu.ppy.sh/beatmapsets/81681#fruits/226576)
-  - [Festa - Lemuria (QuiescentRabbit) \[Elcheer's Extra\]](https://osu.ppy.sh/beatmapsets/835474#fruits/1766008)
+  1. [narry feat. F9 - aquamarine (Shurelia) \[Deep Blue\]](https://osu.ppy.sh/beatmapsets/1557792#fruits/3182198)
+  2. [xi - Valhalla (Nyquill) \[445\]](https://osu.ppy.sh/beatmapsets/81681#fruits/226576)
+  3. [Festa - Lemuria (QuiescentRabbit) \[Elcheer's Extra\]](https://osu.ppy.sh/beatmapsets/835474#fruits/1766008)
 - HardRock
-  - [Saratoga (CV: Uesaka Sumire) - Souzetsu Gekkou (Kirylin) \[Hard\]](https://osu.ppy.sh/beatmapsets/765452#fruits/2178005)
-  - [t+pazolite - Oshama Scramble! (DTM9 Nowa) \[thiev's EXPERT\]](https://osu.ppy.sh/beatmapsets/833895#fruits/2021785)
-  - [Namie Amuro - Hope (iYiyo) \[Insane\]](https://osu.ppy.sh/beatmapsets/677398#fruits/1432615)
+  1. [Saratoga (CV: Uesaka Sumire) - Souzetsu Gekkou (Kirylin) \[Hard\]](https://osu.ppy.sh/beatmapsets/765452#fruits/2178005)
+  2. [t+pazolite - Oshama Scramble! (DTM9 Nowa) \[thiev's EXPERT\]](https://osu.ppy.sh/beatmapsets/833895#fruits/2021785)
+  3. [Namie Amuro - Hope (iYiyo) \[Insane\]](https://osu.ppy.sh/beatmapsets/677398#fruits/1432615)
 - DoubleTime
-  - [onoken feat. Misaki - Mayoi Zuki (Firika) \[Lost\]](https://osu.ppy.sh/beatmapsets/1087208#fruits/2273789)
-  - [FELT - Story (Yohanes) \[Fizz's Insane\]](https://osu.ppy.sh/beatmapsets/297409#fruits/732932)
-  - [Foreground Eclipse - To The Terminus (Giralda) \[captin's Hard\]](https://osu.ppy.sh/beatmapsets/277481#fruits/724226)
+  1. [onoken feat. Misaki - Mayoi Zuki (Firika) \[Lost\]](https://osu.ppy.sh/beatmapsets/1087208#fruits/2273789)
+  2. [FELT - Story (Yohanes) \[Fizz's Insane\]](https://osu.ppy.sh/beatmapsets/297409#fruits/732932)
+  3. [Foreground Eclipse - To The Terminus (Giralda) \[captin's Hard\]](https://osu.ppy.sh/beatmapsets/277481#fruits/724226)
 - Tiebreaker
-  - **[Chata - Nocte of desperatio (Giralda) \[Walpurgisnacht\]](https://osu.ppy.sh/beatmapsets/178685#fruits/429789)**
+  1. **[Chata - Nocte of desperatio (Giralda) \[Walpurgisnacht\]](https://osu.ppy.sh/beatmapsets/178685#fruits/429789)**
 
 ## Match results
 
@@ -338,7 +338,7 @@ Sunday, 12 September 2021:
 
 ### General rules
 
-1. Map scoring is based on **[ScoreV2](/wiki/Score#scorev2).**
+1. Map scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the Tournament Management. If there are any players who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#reschedule-request` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.

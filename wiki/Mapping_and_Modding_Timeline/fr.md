@@ -52,7 +52,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 ### Mars
 
 - **04/03/2009 :** ![] [flag_US] [Ivalset](https://osu.ppy.sh/users/827) a lancé la première [Délégation des pouvoirs de décision en matière d'approbation des beatmap ; escouade de soumission](/wiki/Modding/Delegation_of_the_Beatmap_Approval_Deciding_Authorities_Submission_Squad) (*BADASS*). 
-  - Ce changement a été lancé parce que les BAT précédentes ont été ajoutées sur la base d'un vote informel du canal `#bat` sur l'[IRC](/wiki/Internet_Relay_Chat) d'osu! qui n'était pas visible par suffisamment d'utilisateurs.
+  - Ce changement a été lancé parce que les BAT précédentes ont été ajoutées sur la base d'un vote informel du canal `#bat` sur l'[IRC](/wiki/Community/Internet_Relay_Chat) d'osu! qui n'était pas visible par suffisamment d'utilisateurs.
 
 ### Novembre
 
@@ -74,7 +74,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Juillet
 
-- **24/07/2010 :** La première itération du [Community Mentorship Program](/wiki/Community_Mentorship_Program#programmes-de-mentorship-antérieurs) a été lancée.
+- **24/07/2010 :** La première itération du [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program#programmes-de-mentorship-antérieurs) a été lancée.
   - Les utilisateurs peuvent s'inscrire pour apprendre à mapper et à modder directement auprès des membres bénévoles de MAT et BAT.
   - Le programme a été interrompu en 2013.
 
@@ -181,7 +181,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
   - Les BAT (souvent appelé newBAT à cette époque) désigne les beatmaps à classer.
   - Les QAT s'assure que les beatmaps qualifiés étaient de qualité suffisante. Les beatmaps qui ne répondaient pas aux normes de qualité étaient disqualifiées.
   - Cela a essentiellement inversé la fusion des BAT et des MAT l'année dernière.
-  - La division a été mise en œuvre dans le cadre d'un essai manuel pour le [modding v2](/wiki/Beatmap_Discussion) qui tente d'automatiser la promotion et la retraite des BAT.
+  - La division a été mise en œuvre dans le cadre d'un essai manuel pour le [modding v2](/wiki/Beatmap_discussion) qui tente d'automatiser la promotion et la retraite des BAT.
   - Malgré les tentatives de présenter les disqualifications comme un changement positif pour la qualité des maps, la communauté les a perçues de manière négative. Cela était particulièrement évident dans le cas de beatmaps controversées comme [disqualification on *Halozy - Genryuu Kaiko*](https://osu.ppy.sh/community/forums/posts/3591479)
 
 ### Octobre
@@ -272,7 +272,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Septembre
 
-- **30/09/2016 :** Le [Community Mentorship Program](/wiki/Community_Mentorship_Program) a été relancé après une longue interruption.
+- **30/09/2016 :** Le [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) a été relancé après une longue interruption.
   - Sa nouvelle structure était centrée sur la communication par [Discord](https://discord.com) et les cycles saisonniers.
   - Le programme était dirigé par ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) et ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923)
 
@@ -313,7 +313,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 - **22/05/2017 :** Le serveur Discord Beatmap Nominator a été créé pour les sous-divisions des BN.
   - Les sous-divisions ont été conçues comme des groupes de discussion composés de nominateurs sélectionnés au hasard dans les deux niveaux, dirigés par un membre de la QAT.
   - La plupart des responsables des QAT sont passés à ce serveur malgré la résistance des hauts responsables d'osu!
-- **23/05/2017 :** Le bot Discord [Aiess](/wiki/Projects#miscellaneous) a été créé par ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817).
+- **23/05/2017 :** Le bot Discord [Aiess](/wiki/Community/Projects#miscellaneous) a été créé par ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817).
   - Il s'agit d'un flux d'événements liés aux mapping sur les serveurs Discord d'osu! en commençant par les flux de nomination et de disqualification.
 
 ### Juin
@@ -346,14 +346,14 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Février
 
-- **08/02/2018 :** La [Mappers' Guild](/wiki/Mappers_Guild) a été ouverte aux candidatures publiques pour la création généralisée de beatmaps des [Artistes Associés](/wiki/Featured_Artists).
+- **08/02/2018 :** La [Mappers' Guild](/wiki/Community/Mappers_Guild) a été ouverte aux candidatures publiques pour la création généralisée de beatmaps des [Artistes Associés](/wiki/Featured_Artists).
 
 ### Mars
 
 - **01/03/2018 :** Les QAT  a séparé ses tâches en branches : évaluation des BE, disqualifications, métadonnées, spotlights, blog, critères de classement et direction générale.
   - Les membres des QAT peuvent être impliqués dans plusieurs branches.
   - L'objectif était de donner une raison d'être à certains membres du QAT qui estimaient ne pas avoir de rôle spécifique dans la communauté du mapping/modding. Ce sentiment s'explique en grande partie par le fait que la QAT n'est plus guère impliquée dans l'assurance qualité.
-- **03/03/2018 :** Le canal `#modding` a été créé sur le [serveur Discord osu!dev](/wiki/osu!dev_Discord_server).
+- **03/03/2018 :** Le canal `#modding` a été créé sur le [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
   - Alors que son objectif était de déplacer les discussions sur le mapping hors du serveur Discord des BN, ce centre de discussion était rarement utilisé en dehors des réunions programmées du QAT.
 - **24/03/2018 :** Le sous-forum Critères de classement a été rouvert pour les discussions publiques des propositions et l'UBKRC a été supprimé.
   - L'UBKRC a été interrompu à ce moment-là parce que toutes les sous-sections des critères de classement généraux et par mode de jeu ont été finalisées.
@@ -408,9 +408,9 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Mars
 
-- **01/03/2019 :** La [Mappers' Guild](/wiki/Mappers_Guild) est passée d'une inscription sur dossier à une inscription automatique pour toute personne ayant 3 maps classées.
-  - Les beatmaps des [Artistes associés](/wiki/Featured_Artists) ont été créées et classées plus fréquemment.
-  - Le canal `#mappers-guild` a été créé dans le [serveur Discord osu!dev](/wiki/osu!dev_Discord_server).
+- **01/03/2019 :** La [Mappers' Guild](/wiki/Community/Mappers_Guild) est passée d'une inscription sur dossier à une inscription automatique pour toute personne ayant 3 maps classées.
+  - Les beatmaps des [Artistes Associés](/wiki/Featured_Artists) ont été créées et classées plus fréquemment.
+  - Le canal `#mappers-guild` a été créé dans le [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
 - **13/03/2019 :** La règle exigeant que les nominations consécutives soient espacées d'au moins 24 heures a été supprimée.
   - Cette règle a fait l'objet d'une plainte majeure de la part des mappeurs et des Beatmap Nominators, car elle donnait l'impression de faire perdre inutilement du temps à tout le monde. Si un problème était découvert après la première nomination, le deuxième nominateur évitait souvent de le signaler pour éviter une attente supplémentaire de 24 heures.
   - Parallèlement à ce changement, les Beatmap Nominators peuvent opposer leur veto aux beatmaps qualifiées. Cette règle existait à l'origine parce que les Beatmap Nominators avaient besoin de 24 heures pour appliquer potentiellement des vetos aux maps avec une nomination.
@@ -427,7 +427,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Août
 
-- **05/08/2019 :** ![] [flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) a publié l'outil [Mapset Verifier](/wiki/Projects#modding), qui automatise une partie importante des processus de vérification des beatmaps pour les Beatmap Nominators.
+- **05/08/2019 :** ![] [flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) a publié l'outil [Mapset Verifier](/wiki/Community/Projects#modding), qui automatise une partie importante des processus de vérification des beatmaps pour les Beatmap Nominators.
 - **06/08/2019 :** Les Beatmap Nominators ont pu participer à l'évaluation des demandes des BN.
   - Les contributions des BN sont visibles pour les NAT lorsqu'il s'agit de parvenir à un consensus, bien qu'elles soient rarement utilisées pour influencer un vote.
   - La NAT utilise souvent la contribution des BN pour aider à déterminer les futurs membres du NAT.

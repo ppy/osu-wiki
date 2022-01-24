@@ -382,7 +382,7 @@ La competición ha concluido con el siguiente podio:
 4. Si no hay un árbitro o miembro de la organización disponible, el partido será pospuesto.
 5. El puntaje de jugadores que fallen un mapa no se agrega al puntaje total del equipo
    - Revivir y sobrevivir hasta el final se considera como pasarlo.
-6. Está permitido el uso de [Visual Settings](/wiki/Visual_Settings).
+6. Está permitido el uso de [Visual Settings](/wiki/Client/Interface/Visual_settings).
 7. Si un mapa termina en empate, será anulado.
 8. Si un jugador se desconecta, es tratado como si hubiese fallado el mapa.
 9. Los mapas no pueden ser re-usados en el mismo partido a menos que alguno haya sido anulado.

@@ -1,6 +1,6 @@
 ---
 no_native_review: true
-needs_cleanup: true  # see the original article
+outdated: true
 ---
 
 # Graus (Níveis de Pontuação)

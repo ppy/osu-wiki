@@ -1,7 +1,7 @@
 ---
 tags:
-- I can't submit my own beatmap!
-- beatmap submission system issues
+  - I can't submit my own beatmap!
+  - beatmap submission system issues
 ---
 
 # BSS sorunları nasıl çözümlenir
@@ -9,7 +9,7 @@ tags:
 Eğer ki **[Beatmap Gönderme Sistemi](/wiki/Submission)** (*Beatmap Submission System*, ***BSS***) kendi beatmapinizi karşıya yüklemenize bu beatmape sahip olmadığınız için izin vermiyorsa aşağıdaki adımları uygulayın:
 
 1. Beatmap setinin klasörüne gidin.
-   - Oraya [beatmap editoründe](/wiki/Beatmap_Editor) `Dosya`, ardından `Müzik Dosyasını Aç` seçenekleri ile kolaylıkla gidebilirsiniz.
+   - Oraya [beatmap editoründe](/wiki/Client/Beatmap_editor) `Dosya`, ardından `Müzik Dosyasını Aç` seçenekleri ile kolaylıkla gidebilirsiniz.
 2. osu!'dan çıkın (Bu yaptığınız değişikliklerin doğru şekilde uygulandığından emin olmak içindir).
 3. `.osu` dosyasını herhangi bir düz metin düzenleyici ile (örn. Not Defteri) açın.
 4. `Creator` için kendi kullanıcı adınızı girin. (Eğer kullanıcı adınızda boşluk varsa, boşluk kullanın.)

@@ -32,11 +32,11 @@ Mode [Taiko](/wiki/Game_mode/osu!taiko) pertama kali memperlihatkan eksistensiny
 
 ## Juni
 
-Pencapaian utama dalam sejarah osu! dicapai dengan penambahan mode permainan [Multi (multiplayer)](/wiki/Multi). Opsi skinning lebih diperluas lebih lanjut mengenai grafik dan suara. Terakhir, obrolan multi-channel dapat dilakukan untuk pertama kalinya.
+Pencapaian utama dalam sejarah osu! dicapai dengan penambahan mode permainan [Multi (multiplayer)](/wiki/Gameplay/Multiplayer). Opsi skinning lebih diperluas lebih lanjut mengenai grafik dan suara. Terakhir, obrolan multi-channel dapat dilakukan untuk pertama kalinya.
 
 ## Juli
 
-Editor, multiplayer, storyboarding, opsi grafis, dan konsol obrolan (chat console) semuanya menerima banyak peningkatan pada bulan ini. Layar opsi menerima layout baru, dan [pengaturan kunci kustom (custom key bindings)](/wiki/Options/Keyboard_Bindings) diperkenalkan.
+Editor, multiplayer, storyboarding, opsi grafis, dan konsol obrolan (chat console) semuanya menerima banyak peningkatan pada bulan ini. Layar opsi menerima layout baru, dan [pengaturan kunci kustom (custom key bindings)](/wiki/Client/Options/Keyboard_bindings) diperkenalkan.
 
 ## Agustus
 
@@ -60,7 +60,7 @@ Kemajuan pertama tercatat dengan pengimplementasian OpenGL dan debut mode permai
 
 ![](img/fruit_ryuuta.png "Catcher mode Catch the Beat")
 
-Bulan November, kita dapat melihat pengenalan mode permainan baru, [Catch the Beat](/wiki/Game_mode/osu!catch). Dukungan OpenGL juga memulai debutnya di bulan ini, implementasi ini memungkinkan osu! untuk berjalan di sebagian besar sistem. Fitur baru lainnya dalam pembaruan ini termasuk dukungan daftar teman dalam game, tab pesan pribadi, panduan tutorial/[offset wizard](/wiki/Options/Offset_Wizard), dan osu!direct, sebuah pengunduh beatmap dalam game untuk osu!supporter.
+Bulan November, kita dapat melihat pengenalan mode permainan baru, [Catch the Beat](/wiki/Game_mode/osu!catch). Dukungan OpenGL juga memulai debutnya di bulan ini, implementasi ini memungkinkan osu! untuk berjalan di sebagian besar sistem. Fitur baru lainnya dalam pembaruan ini termasuk dukungan daftar teman dalam game, tab pesan pribadi, panduan tutorial/[offset wizard](/wiki/Client/Options/Offset_Wizard), dan osu!direct, sebuah pengunduh beatmap dalam game untuk osu!supporter.
 
 Karena pemain yang memiliki beatmap dalam jumlah besar selalu mengeluhkan tentang waktu muat osu!, peppy menghabiskan hari-harinya untuk mengoptimalkan apa pun yang dapat ia optimalkan, hasilnya peningkatkan kinerja yang hampir tak terukir dalam skala (let's just say somewhere over 9,000). Waktu muat lebih dari satu menit telah dioptimalkan menjadi hanya sekian milidetik.
 

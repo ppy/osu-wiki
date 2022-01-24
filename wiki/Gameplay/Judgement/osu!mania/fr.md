@@ -1,34 +1,29 @@
----
-no_native_review: true
-needs_cleanup: true  # see the original article
----
+# Système de jugement d'osu!mania
 
-# osu!mania judgement system
-
-## Hit values
+## Valeurs de hit
 
 | Image | Nom | Effet |
 | :-: | :-: | :-- |
-| ![](/wiki/Skinning/osu!mania/img/mania-hit300g.gif "300 Arc-en-Ciel") | 300 Arc-en-Ciel (MAX) | Frappe ou maintien parfait de la note. En comparaison avec un 300, obtenir ce score nécessite une précision hors pair. Sinon, un 300 ordinaire sera accordé. Terminer une beatmap avec ce score uniquement permet d'obtenir le score maximum de 1,000,000 (score limite de 1 million). Est équivalent au terme *Marvelous* du jeu DDR. |
-| ![](/wiki/Skinning/osu!mania/img/mania-hit300.png "300") | 300 | Frappe ou maintien presque parfait de la note. Le score maximum ne peut être atteint si ce score est obtenu. |
-| ![](/wiki/Skinning/osu!mania/img/mania-hit200.png "200") | 200 | Frappe ou maintien de la note avec un léger délai. Les nouveaux joueurs peuvent obtenir fréquemment ce score jusqu'à ce qu'ils s'habituent aux mécanismes de défilement et de vitesse, aux touches et à la zone de jugement. |
-| ![](/wiki/Skinning/osu!mania/img/mania-hit100.png "100") | 100 | Frappe ou maintien de la note avec un délai modéré. N'affecte pas la jauge de vie. |
-| ![](/wiki/Skinning/osu!mania/img/mania-hit50.png "50") | 50 | Frappe ou maintien de la note avec un délai important. Score par défaut si une note maintenue n'est pas relâchée. Faible réduction de la jauge de vie. Brise le combo. |
-| ![](/wiki/Skinning/osu!mania/img/mania-hit0.png "Miss") | Miss | Ne pas frapper ou maintenir la note, ou utiliser les mauvaises touches. Importante réduction de la jauge de vie et brise le combo. |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit300g.gif "Rainbow 300") | Rainbow 300 (MAX) | Frappe parfaite de la note ou du hold. Comparé au 300, l'obtention de cette note exige une précision absolue. Sinon, un 300 normal sera donné. Compléter la beatmap avec ce seul score donnera le score maximum de 1 000 000 (limite de 1 million de points). C'est l'équivalent de *Marvelous* en termes de DDR. |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit300.png "300") | 300 | Réussite presque parfaite de la note ou du hold. La limite maximale de score ne peut être atteinte si ce score a été donné. |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit200.png "200") | 200 | Un coup ou un hold légèrement en avance ou légèrement en retard. Les nouveaux joueurs risquent d'obtenir souvent cette note jusqu'à ce qu'ils s'habituent au mécanisme du tapis roulant, à la vitesse, aux boutons et à la zone de jugement. |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit100.png "100") | 100 | Frappe ou hold trop tôt ou trop tard. Il n'affecte pas du tout la barre de HP. |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit50.png "50") | 50 | Coup ou hold très tôt ou très tard. Ce score sera donné par défaut pour les notes de maintien non libérées. Diminue les HP, mais pas de manière drastique. Ne casse pas le combo. |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit0.png "Miss") | Miss | Ne pas frapper la note ou hold la note en utilisant les bonnes touches. Draine drastiquement les HP et casse le combo en cours. |
 
-## Judgement mechanics
+## Mécaniques du jugement
 
-**Notes:**
+**Notes :**
 
-- MAX (300 arc-en-ciel), 300, 200, 100 ou 50 depuis une note dépendant du timing du hit.
-- Un Miss est donné lorsqu'une note est manquée ou qu'un hit a été fait trop tôt.
+- MAX (Rainbow 300), 300, 200, 100 ou 50 depuis une note dépendant du timing du hit.
+- Un miss est donné lorsqu'une note est manquée ou qu'un hit a été fait trop tôt.
 
-**Longues notes:**
+**Hold notes :**
 
-- Le jugement des longues notes dépend à la fois du début et de la fin de la note.
+- Le jugement des hold notes dépend à la fois du début et de la fin de la note.
 - Continuer de la tenir jusqu'à la fin de la note, avec un timing parfait de l'initial et du final : MAX
 - Continuer de la tenir jusqu'à la fin de la note, sans relâcher la note : 200
-- Faire un *NG* et ne pas récupérer la longue note : Miss
+- Faire un *NG* et ne pas récupérer la hold note : Miss
 - Faire un *NG* et continuer de maintenir la note : 50
 
 NG : *Not Good*, un terme de *StepMania/DDR*, qui apparaît lorsqu'une note est relâchée alors qu'elle ne devrait pas l'être.

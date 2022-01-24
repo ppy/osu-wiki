@@ -13,6 +13,7 @@ tags:
 The **[changelog](https://osu.ppy.sh/home/changelog)** is a page where the [osu! development team](/wiki/People/The_Team/Developers) details their day-by-day improvements, additions, and bug fixes to the game. All changes from prior releases are recorded here for archiving purposes.
 
 The changelogs for the website and osu!(lazer) are generated automatically based on GitHub releases of those projects, while the rest are maintained manually.
+
 ## History
 
 <!-- TODO(TicClick): wrap the images in infoboxes -->

@@ -2,6 +2,8 @@
 
 Section dedicated for osu! tournaments. Tournaments have their dedicated forum which can be found [through this link](https://osu.ppy.sh/community/forums/55).
 
+Please visit the [Official tournament support](/wiki/Tournaments/Official_support) page for details on how to request official support for your tournament (badges, screening process, etc.).
+
 ## Official World Cups
 
 Official tournaments hosted by the Tournament Management.
@@ -199,6 +201,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu! Asia Oceania Tournament](o!AOT/1) | 2019-07-26 | 2019-09-22 | 進撃のバブルティー | 黃建智 | 과로사 |
 | [osu! Asia Oceania Tournament 2](o!AOT/2) | 2020-07-03 | 2020-08-16 | Floating up | PUPU | :peepolaughpoint: |
 
+#### osu! Battle Archive Malaysia
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Battle Archive Malaysia](o!BAM/1) | 2021-08-10 | 2021-10-17 | 5 digit btw | nomicstreamers | Communist LSD enjoyers |
+
 #### osu! European Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -334,6 +342,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [UK Community Cup 9](UKCC/9) | 2020-08-29 | 2020-10-11 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup X](UKCC/X) | 2021-02-06 | 2021-04-12 | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) | ![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761) | ![][flag_GB] [Kerantina](https://osu.ppy.sh/users/7516484) |
 | [UK Community Cup 10](UKCC/10) | 2021-09-11 | 2021-10-31 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
+| [UK Community Cup 11](UKCC/11) | 2022-01-23 | 2022-04-03 | *TBD* | *TBD* | *TBD* |
 
 #### Ulat Bulu Cup
 
@@ -520,6 +529,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | 4 Digit osu!mania World Cup | 2019-06-03 | 2019-07-27 | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_PH] Philippines |
 | [4 Digit osu!mania World Cup 2](4DM/2) | 2020-02-15 | 2020-03-28 | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_PH] Philippines |
 | [4 Digit osu!mania World Cup 3](4DM/3) | 2021-01-23 | 2021-03-07 | ![][flag_PH] Philippines | ![][flag_MY] Malaysia | ![][flag_BR] Brazil |
+| [4 Digit osu!mania World Cup 4](4DM/4) | 2022-01-08 | 2022-02-20 | *TBD* | *TBD* | *TBD* |
 
 #### :thonking: Mania Tournament
 
@@ -693,7 +703,6 @@ Unofficial tournaments/competitions hosted by the communities.
 
 - [List of countries that participated in osu! tournaments](Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
-- Requirements for receiving the [official support](/wiki/Tournaments/Official_support) for a tournament (badges, screening process, etc.)
 
 [GCrown]: /wiki/shared/crown-gold.png "1st place"
 [SCrown]: /wiki/shared/crown-silver.png "2nd place"

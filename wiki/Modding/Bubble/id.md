@@ -25,7 +25,7 @@ Bubble pada awalnya diperkenalkan oleh ![][flag_AU] peppy pada 29 Oktober 2007 u
 
 Pada 3 Oktober 2010, MAT mendapatkan izin untuk menggunakan ikon bubble bersama BAT<!-- internal reference: https://osu.ppy.sh/community/forums/topics/38403 -->. Hal ini menyebabkan [proto-bubbles](/wiki/Modding/Proto-bubble) menjadi usang dan kedua tim telah menggunakan bubble sejak itu.
 
-Setelah [sistem diskusi beatmap](/wiki/Beatmap_Discussion) telah diimplementasi sepenuhnya dan menjadi *interface* utama untuk modding pada November 2017, kontrol manajemen beatmap berbasis forum dikeluarkan, dengan bubble yang secara alami digantikan oleh nominasi.
+Setelah [sistem diskusi beatmap](/wiki/Beatmap_discussion) telah diimplementasi sepenuhnya dan menjadi *interface* utama untuk modding pada November 2017, kontrol manajemen beatmap berbasis forum dikeluarkan, dengan bubble yang secara alami digantikan oleh nominasi.
 
 ## Mekanisme kerja
 
@@ -52,6 +52,6 @@ Pada dua kasus tersebut, ikon utas beatmap tersebut akan menjadi bubble pop (![I
 
 ## Lihat juga
 
-- *[the end of bubbles](https://www.youtube.com/watch?v=9Za-1_hxkxE)*, sebuah episode dari seri YouTube [osu!mapping](/wiki/osu!mapping)
+- *[the end of bubbles](https://www.youtube.com/watch?v=9Za-1_hxkxE)*, sebuah episode dari seri YouTube [osu!mapping](/wiki/Community/Video_series/osu!mapping)
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

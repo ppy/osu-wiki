@@ -10,7 +10,7 @@ pp bertujuan untuk mengubah pusat perhatian perkembangan kemampuan (*skill*) pem
 
 Awal implementasi dari skor tersebut pertama diperlihatkan kepada publik pada April 2012 dan hanya dikenal sebagai proyek misterius *'???'*. Sistem misterius ini kemudian mendapatkan istilah resminya pada akhir bulan itu.
 
-Sistem baru ini, yang kemudian dikenal sebagai "pp" (singkatan untuk "performance points"), diharapkan dapat mengubah patokan performa pemain sebelumnya yang sebenarnya hanya berasal dari total [skor](/wiki/Score) menjadi sesuatu yang benar-benar mencerminkan *skill*. Sistem baru ini disambut dengan baik oleh para pemain pada saat itu.
+Sistem baru ini, yang kemudian dikenal sebagai "pp" (singkatan untuk "performance points"), diharapkan dapat mengubah patokan performa pemain sebelumnya yang sebenarnya hanya berasal dari total [skor](/wiki/Gameplay/Score) menjadi sesuatu yang benar-benar mencerminkan *skill*. Sistem baru ini disambut dengan baik oleh para pemain pada saat itu.
 
 Beberapa bulan setelah pengungkapannya, osu! 20120722-24 secara resmi mengimplementasikan sistem tersebut untuk sepenuhnya mengganti sistem skoring [Ranked](/wiki/Beatmap/Category#ranked), dengan skor baru diperhitungkan setiap 30 menit. Pada Agustus di tahun yang sama, sistem ini ditingkatkan untuk meng-*update* secara *real-time*.
 
@@ -97,7 +97,7 @@ Pertimbangkan tip-tip berikut ini:
 - Bermainlah secara efisien dan cari tahu cara bermain yang cocok bagimu.
 - Fokus dalam mendapatkan beberapa skor yang mengagumkan daripada "farming" ratusan skor yang biasa saja.
 - Berusahalah untuk meningkatkan akurasimu. Bahkan 1% saja sudah membuat perbedaan yang sangat besar.
-- Berusahalah untuk mencapai kombo yang lebih banyak. Full Combo (FC) atau skor [SS](/wiki/Grade) dapat memberikan jumlah skor yang sangat banyak.
+- Berusahalah untuk mencapai kombo yang lebih banyak. Full Combo (FC) atau skor [SS](/wiki/Gameplay/Grade) dapat memberikan jumlah skor yang sangat banyak.
 
 ### Kenapa saya tidak mendapatkan seluruh jumlah pp dari map yang saya telah mainkan? 
 

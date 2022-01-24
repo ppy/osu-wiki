@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 2dccc07cb4759a455196482e5f00383834f9813b
 ---
 
 # osu!mania
@@ -188,7 +190,7 @@ Ligado *Simétrico* para el segundo conjunto de teclas.
 
 ## Puntuaciones
 
-*Los valores de puntuación pueden encontrarse en [Sistema de puntuación de osu!mania](/wiki/Score/osu!mania).*
+*Los valores de puntuación pueden encontrarse en [Sistema de puntuación de osu!mania](/wiki/Gameplay/Score/osu!mania).*
 
 La sección de puntuación detalla todas las complejidades de la puntuación, incluyendo las fórmulas matemáticas.
 

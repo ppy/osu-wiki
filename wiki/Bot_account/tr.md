@@ -9,13 +9,13 @@ tags:
 
 # Bot hesabı
 
-**Bot hesabı** gerçek bir kişi yerine otomatik bir hizmet sağlayıcısı tarafından kullanılan özel bir osu! hesap türüdür. Websitesinde, `BOT` etiketli beyaz bir grup rozetine sahiptir, ve profillerinde sadece `ben!` kısmı görünür. Bot hesapları çoğunlukla [çoklu oyunculu](/wiki/Multi) lobi kanalları veya özel mesajlar aracılığıyla topluluğa çeşitli hizmetler sunan "sohbet botlarını" barındırmak için kullanılır.
+**Bot hesabı** gerçek bir kişi yerine otomatik bir hizmet sağlayıcısı tarafından kullanılan özel bir osu! hesap türüdür. Websitesinde, `BOT` etiketli beyaz bir grup rozetine sahiptir, ve profillerinde sadece `ben!` kısmı görünür. Bot hesapları çoğunlukla [çoklu oyunculu](/wiki/Gameplay/Multiplayer) lobi kanalları veya özel mesajlar aracılığıyla topluluğa çeşitli hizmetler sunan "sohbet botlarını" barındırmak için kullanılır.
 
 Bot hesapları yalnızca bir [başvuru süreci](#bot-hesabı-oluşturmak) ile oluşturulabilir. Bot hesabı oluşturma amacıyla normal yollarla kaydolmak birden fazla hesap kullanımı sayılır ve [topluluk kurallarına](/wiki/Rules#topluluk-kuralları) aykırıdır.
 
 ## Bot hesaplarının faydaları
 
-Kişisel hesaplar ve bot hesapları arasındaki en temel fark [sohbette](/wiki/Chat_Console) mesaj gönderirken uygulanan mesaj kotasıdır. Hesabın [susturulma](/wiki/Silence) riski olmaksızın sağladığı hizmetlerin daha fazla kullanıcıyla etkileşebilmesi için bot hesapları daha yüksek bir kotaya sahiptir:
+Kişisel hesaplar ve bot hesapları arasındaki en temel fark [sohbette](/wiki/Client/Interface/Chat_console) mesaj gönderirken uygulanan mesaj kotasıdır. Hesabın [susturulma](/wiki/Silence) riski olmaksızın sağladığı hizmetlerin daha fazla kullanıcıyla etkileşebilmesi için bot hesapları daha yüksek bir kotaya sahiptir:
 
 - Kişisel hesaplar her 5 saniyede 10 mesaj gönderebilir
 - Bot hesapları her 60 saniyede 300 mesaj gönderebilir

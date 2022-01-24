@@ -316,7 +316,7 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 
 ## Scoring
 
-*Detailed explanation of scoring can be found at the game style's own respective page or [the Score page](/wiki/Score)).*
+*Detailed explanation of scoring can be found at the game style's own respective page or [the Score page](/wiki/Gameplay/Score)).*
 
 *Detailed explanation of accuracy calculation can be found at the game style's own respective page or [the Accuracy page](/wiki/Gameplay/Accuracy).*
 
@@ -425,7 +425,7 @@ Lastly, **Rivenation** did a project for [advanced beatmap searching](https://os
 
 **Absolutely nothing**. There is no difference in any way when comparing a Level 100 player against a Level 1 player except the player's own skills and experience of the game mode in question. There is no handicap for the lower level nor is there an advantage for the higher level (except personal experience and hardware used).
 
-Level will be based on total score accumulated when online with account regardless of pass or fail on the beatmap. [Formula given here](/wiki/Score).
+Level will be based on total score accumulated when online with account regardless of pass or fail on the beatmap. [Formula given here](/wiki/Gameplay/Score).
 
 #### Why is my profile stats different ingame?
 
@@ -435,7 +435,7 @@ Keep in mind that osu! has four game modes so you might be looking at the wrong 
 
 #### How do I change the default keyboard key input for my game mode of choice?
 
-*Full explanation: [Options](/wiki/Options)*
+*Full explanation: [Options](/wiki/Client/Options)*
 
 ![Options sidebar with quickicons](/wiki/shared/Options_quickicons.jpg "Options quickicons")
 
@@ -445,7 +445,7 @@ From the *Input* icon in the *Options* sidebar as shown above, under **Keyboard*
 
 #### Game over? Where did I mess up?
 
-*Full explanation: [Replay](/wiki/Replay)*
+*Full explanation: [Replay](/wiki/Gameplay/Replay)*
 
 After failing a beatmap, press the `F1` key to replay the currently failed play. The replay ends when the screen darkens, with an osu!logo in the middle, rather than the game over screen. To rewatch the replay again, hold the custom default grave/tilde (\`/~) key (can be changed in Options sidebar; inside *Change keyboard bindings* as **Quick Retry (hold briefly)**) or `Ctrl`+`R` for a while.
 
@@ -453,7 +453,7 @@ Due to the non-standard replay screen, use the `Esc` key to return to Song Selec
 
 #### Does osu! have keyboard shortcuts?
 
-*Full list: [Shortcut key reference](/wiki/Shortcut_key_reference)*
+*Full list: [Shortcut key reference](/wiki/Client/Keyboard_shortcuts)*
 
 Pressing the `Insert` key (in default keyboard setting) will hide, pause (if playing) and mute osu! into the *Windows* sidebar. Find the *osu!logo* in the *Windows* sidebar, and click on it to return osu! to the state before pressing the key. It is called the **Boss key**, and can be modified in `Change keyboard bindings` (in `Options`, under *Keyboard* section), located at the end of the *Universal* section.
 

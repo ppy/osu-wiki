@@ -8,7 +8,7 @@
 
 Seluruh beatmap perlu diraih dengan mode permainan [osu!](/wiki/Game_mode/osu!) untuk mendapatkan lencana kecuali paket beatmap tersebut menspesifikasikan mode permainan tertentu. Penggunaan [mod pengurang kesulitan](/wiki/Game_modifier#pengurang-kesulitan) atau [mod peningkat kesulitan](/wiki/Game_modifier#peningkat-kesulitan) diperbolehkan.
 
-Namun perlu diperhatikan bahwa konten-konten dari seluruh Video Game Packs, Anime Packs, Internet! Packs, dan Rhythm Game Packs telah berubah drastis sejak [pengenalan paket-paket tersebut pada 2008](https://osu.ppy.sh/community/forums/topics/1853). Untuk daftar paket-paket beatmap ini pada kondisi aslinya, lihat [Paket Beatmap Lama](/wiki/Medals/Legacy_Beatmap_Packs).
+Meskipun demikian, perlu diperhatikan bahwa isi dari seluruh Video Game Pack, Anime Pack, Internet! Pack, dan Rhythm Game Pack yang ada telah banyak berubah sejak paket-paket tersebut [pertama kali diperkenalkan pada tahun 2008](https://osu.ppy.sh/community/forums/topics/1853). Untuk daftar paket-paket beatmap ini pada kondisi aslinya, lihat [Paket Beatmap Lama](/wiki/Medals/Legacy_beatmap_packs).
 
 ## Skill
 
@@ -40,7 +40,7 @@ Karena medali Hush-Hush adalah semacam pencapaian rahasia, persyaratan pembuka m
 
 **Medali Beatmap Spotlights** adalah medali yang diberikan ketika pemain menyelesaikan paket beatmap yang dirilis sebagai bagian dari [Monthly Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). Agar medali dalam kategori ini dapat terbuka, pemain perlu bermain seluruh beatmap *pada paket mode game apapun* yang dipertandingkan dalam Beatmap Spotlight ranking chart. Penggunaan [mod pengurang kesulitan](/wiki/Game_modifier#pengurang-kesulitan) atau [mod peningkat kesulitan](/wiki/Game_modifier#peningkat-kesulitan) diperbolehkan.
 
-Meskipun Monthly Beatmap Spotlights telah dihentikan sejak April 2018 untuk digantikan oleh [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018), seluruh medali yang bersangkutan masih dapat diperoleh hingga saat ini.
+Meskipun Monthly Beatmap Spotlights telah digantikan oleh [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018) sejak bulan April tahun 2018, seluruh medali yang terkait dengan Monthly Beatmap Spotlights masih dapat diperoleh hingga saat ini.
 
 ## Seasonal Spotlights
 

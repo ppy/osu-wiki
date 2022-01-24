@@ -9,13 +9,13 @@ tags:
 
 # Akun bot
 
-**Akun bot** adalah jenis akun osu! yang dijalankan oleh layanan otomatis dan bukan orang sungguhan. Jika diperiksa lewat situs web, akun-akun ini memiliki lencana berlabel putih dan bertuliskan `BOT` dan hanya bagian `me!` yang terlihat di profil mereka. Akun bot paling sering digunakan untuk meng-host "bot obrolan" yang menawarkan berbagai fungsi kepada komunitas melalui *channel* ruangan [multiplayer](/wiki/Multi) atau pesan pribadi.
+**Akun bot** adalah jenis akun osu! yang dijalankan oleh layanan otomatis dan bukan orang sungguhan. Jika diperiksa lewat situs web, akun-akun ini memiliki lencana berlabel putih dan bertuliskan `BOT` dan hanya bagian `me!` yang terlihat di profil mereka. Akun bot paling sering digunakan untuk meng-host "bot obrolan" yang menawarkan berbagai fungsi kepada komunitas melalui *channel* ruangan [multiplayer](/wiki/Gameplay/Multiplayer) atau pesan pribadi.
 
 Akun bot hanya dapat dibuat melalui [proses pengajuan](#mendaftarkan-akun-bot). Upaya membuat akun bot dengan mendaftarkan akun osu! seperti biasa akan dianggap sebagai memiliki banyak akun dan merupakan pelanggaran terhadap [peraturan komunitas](/wiki/Rules#peraturan-komunitas).
 
 ## Keuntungan akun bot
 
-Perbedaan utama antara akun pribadi dan akun bot terdapat pada batas jumlah pengiriman pesan dalam [obrolan](/wiki/Chat_Console). Akun bot memiliki batas jumlah pengiriman pesan yang lebih tinggi supaya layanan mereka dapat berinteraksi dengan lebih banyak pengguna tanpa risiko membuat akun tersebut [di-silence](/wiki/Silence):
+Perbedaan utama antara akun pribadi dan akun bot terdapat pada batas jumlah pengiriman pesan dalam [obrolan](/wiki/Client/Interface/Chat_console). Akun bot memiliki batas jumlah pengiriman pesan yang lebih tinggi supaya layanan mereka dapat berinteraksi dengan lebih banyak pengguna tanpa risiko membuat akun tersebut [di-silence](/wiki/Silence):
 
 - Akun pribadi dapat mengirim 10 pesan per 5 detik
 - Akun bot dapat mengirim 300 pesan per 60 detik

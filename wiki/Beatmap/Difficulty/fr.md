@@ -17,15 +17,15 @@ tags:
 
 La **difficulté** d'une beatmap est un niveau de jeu, qui est stocké dans un fichier texte avec [l'extension `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Il est composé d'[objets](/wiki/Hit_object) d'un certain [mode de jeu](/wiki/Game_mode), qui sont configurés en fonction du [timing](/wiki/Beatmapping/Timing_section) adapté à une musique spécifique. Les difficultés présentent différents aspects, qui affectent directement l'expérience de l'utilisateur. Le nom de la difficulté et le [classement en étoiles](/wiki/Beatmapping/Star_rating) donnent généralement suffisamment d'informations pour déterminer le niveau de difficulté.
 
-Les objets d'une difficulté composent des [motifs](/wiki/Beatmap/Pattern), qui varient également selon le mode de jeu et donnent l'aspect général dont une difficulté doit être jouée. La jouabilité des difficultés d'une beatmap peut également être modifiée par divers [paramètres de difficulté](/wiki/Beatmap_Editor/Song_Setup#difficulté) définis par l'auteur de la beatmap ou activés par des [modificateurs de jeu](/wiki/Game_modifier).
+Les objets d'une difficulté composent des [motifs](/wiki/Beatmap/Pattern), qui varient également selon le mode de jeu et donnent l'aspect général dont une difficulté doit être jouée. La jouabilité des difficultés d'une beatmap peut également être modifiée par divers [paramètres de difficulté](/wiki/Client/Beatmap_editor/Song_Setup#difficulté) définis par l'auteur de la beatmap ou activés par des [modificateurs de jeu](/wiki/Game_modifier).
 
 Du point de vue auditif, une difficulté peut augmenter la musique en fournissant un ou plusieurs ensembles d'échantillons audio, ou [hitsounds](/wiki/Beatmapping/Hitsound), qui servent de couche supplémentaire.
 
-Les [composants visuels](/wiki/Beatmap) d'une difficulté, contrairement à ses motifs, fournissent une expérience auxiliaire pendant le jeu et peuvent être désactivés dans la superposition des [paramètres visuels](/wiki/Visual_Settings) pour la plupart. Si certains d'entre eux, comme les [storyboards](/wiki/Storyboard) ou les [skins personnalisés](/wiki/Skinning), appartiennent à l'ensemble de la beatmap, la plupart des composants visuels peuvent varier en fonction de la difficulté (par exemple, les sections [kiai time](/wiki/Kiai_time) et les [couleurs de combos](/wiki/Glossary/Combo_colour)).
+Les [composants visuels](/wiki/Beatmap) d'une difficulté, contrairement à ses motifs, fournissent une expérience auxiliaire pendant le jeu et peuvent être désactivés dans la superposition des [paramètres visuels](/wiki/Client/Interface/Visual_settings) pour la plupart. Si certains d'entre eux, comme les [storyboards](/wiki/Storyboard) ou les [skins personnalisés](/wiki/Skinning), appartiennent à l'ensemble de la beatmap, la plupart des composants visuels peuvent varier en fonction de la difficulté (par exemple, les sections [kiai time](/wiki/Gameplay/Kiai_time) et les [couleurs de combos](/wiki/Glossary/Combo_colour)).
 
 ## Niveaux de difficulté
 
-*Voir aussi : [Nom de la difficulté](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*Voir aussi : [Nom de la difficulté](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 Ce sont les niveaux de difficulté typiques d'une beatmap. Les définitions et exigences spécifiques de chacun d'entre eux se trouvent dans les [critères de classement](/wiki/Ranking_Criteria) de leur mode respectif.
 
@@ -71,7 +71,7 @@ Ce sont les niveaux de difficulté typiques d'une beatmap. Les définitions et e
 
 ![Spectre de difficulté](/wiki/shared/star-rating/spectrum.png)
 
-Dans certains cas, comme dans [AIMod](/wiki/Beatmap_Editor/AiMod), la difficulté est classée en six niveaux selon le star rating, comme suit :
+Dans certains cas, comme dans [AIMod](/wiki/Client/Beatmap_editor/AiMod), la difficulté est classée en six niveaux selon le star rating, comme suit :
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy:  0.0★–1.99★
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal : 2.0★–2.69★

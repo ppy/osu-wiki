@@ -68,10 +68,10 @@ Les gagnants des précédentes osu!taiko World Cups avec le titre d'utilisateur 
 | Tournoi | Titre | Porteurs des titres |
 | :-:| :-- | :-- |
 | [TWC 2011](/wiki/Tournaments/TWC/2011) | Former osu!taiko Champion : #1 | ![][flag_TW] [Numbers 596108](https://osu.ppy.sh/users/194653), ![][flag_TW] [TW-KUMA01](https://osu.ppy.sh/users/244499) |
-| [TWC 2012](/wiki/Tournaments/TWC/2012) | Former osu!taiko Champion : #2 | ![][flag_JP] [-Asuke-](https://osu.ppy.sh/users/863073), ![][flag_JP][pota-row](https://osu.ppy.sh/users/858415), ![][flag_JP] [TTTL](https://osu.ppy.sh/users/164583) |
+| [TWC 2012](/wiki/Tournaments/TWC/2012) | Former osu!taiko Champion : #2 | ![][flag_JP] [-Asuke-](https://osu.ppy.sh/users/863073), ![][flag_JP] [pota-row](https://osu.ppy.sh/users/858415), ![][flag_JP] [TTTL](https://osu.ppy.sh/users/164583) |
 | [TWC #3](/wiki/Tournaments/TWC/3) | Former osu!taiko Champion : #3 | ![][flag_TW] [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910), ![][flag_TW] [oiu850714](https://osu.ppy.sh/users/437607), ![][flag_TW] [yikao](https://osu.ppy.sh/users/352674), ![][flag_TW] [zx\_baka\_0502442](https://osu.ppy.sh/users/457766) |
 | [TWC 2014](/wiki/Tournaments/TWC/2014) | Former osu!taiko Champion : 2014 | ![][flag_JP] [NeGaTiVeMiNd](https://osu.ppy.sh/users/965038), ![][flag_JP] [Orukaa](https://osu.ppy.sh/users/987895), ![][flag_JP] [pagr42](https://osu.ppy.sh/users/1500725), ![][flag_JP] [reg](https://osu.ppy.sh/users/2335982), ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878) |
-| [TWC 2015](/wiki/Tournaments/TWC/2015) | Former osu!taiko Champion : 2015 | ![][flag_JP] [\_Rydan](https://osu.ppy.sh/users/5309575), ![][flag_JP] [1RoHa\_](https://osu.ppy.sh/users/4632503), ![][flag_JP][cagalin](https://osu.ppy.sh/users/2586173) |
+| [TWC 2015](/wiki/Tournaments/TWC/2015) | Former osu!taiko Champion : 2015 | ![][flag_JP] [\_Rydan](https://osu.ppy.sh/users/5309575), ![][flag_JP] [1RoHa\_](https://osu.ppy.sh/users/4632503), ![][flag_JP] [cagalin](https://osu.ppy.sh/users/2586173) |
 | [TWC 2016](/wiki/Tournaments/TWC/2016) | Former osu!taiko Champion : 2016 | ![][flag_JP] [coDMo2ooo](https://osu.ppy.sh/users/3644233), ![][flag_JP] [Pitapan](https://osu.ppy.sh/users/695452) |
 | [TWC 2017](/wiki/Tournaments/TWC/2017) | Former osu!taiko Champion : 2017 | ![][flag_JP] [\_yu68](https://osu.ppy.sh/users/6170507), ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968), ![][flag_JP] [shinchikuhome](https://osu.ppy.sh/users/3174184), ![][flag_JP] [sobatsuyu](https://osu.ppy.sh/users/2076374) |
 | [TWC 2018](/wiki/Tournaments/TWC/2018) | Former osu!taiko Champion : 2018 | ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767), ![][flag_JP] [zkane2](https://osu.ppy.sh/users/6359835) |
@@ -189,6 +189,15 @@ Les concours osu!remix attribuent le titre **osu!mixer** comme premier prix.
 
 ¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) a reçu le titre **osu!mixer II** pour avoir remporté le [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) et le concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
 
+## Gagnants actuels du concours osu!trivium Quiz
+
+Les [osu!trivium Quiz contests](/wiki/Contests/osu!trivium_Quiz) décernent à l'équipe ou à la personne gagnante le titre de **osu!trivium Champion**, qui dure un an. Voici les détenteurs du titre pour 2021 :
+
+- ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114)
+- ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621)
+- ![][flag_US] [Codazen](https://osu.ppy.sh/users/18291144)
+- ![][flag_MY] [squidstain](https://osu.ppy.sh/users/11073207)
+
 ## Featured Artists
 
 Les [Featured Artists](/wiki/Featured_Artists) possédant un compte osu! reçoivent le titre **Featured Artist** pour montrer leur implication.
@@ -206,6 +215,7 @@ Les [Featured Artists](/wiki/Featured_Artists) possédant un compte osu! reçoiv
 | ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379) | [Dictate](https://osu.ppy.sh/beatmaps/artists/21) |
 | ![][flag_US] [erikmcclure](https://osu.ppy.sh/users/19898921) | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) |
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) |
+| ![][flag_JP] [II-L](https://osu.ppy.sh/users/15223576) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
 | ![][flag_JP] [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ![][flag_RO] [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |

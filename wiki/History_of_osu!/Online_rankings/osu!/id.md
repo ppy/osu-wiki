@@ -20,7 +20,7 @@ Berikut adalah daftar pemain yang diakui telah mencapai peringkat #1 di [peringk
 
 Selama bertahun-tahun, ada tiga sistem berbeda yang digunakan untuk menentukan peringkat pemain:
 
-- [Ranked Score](/wiki/Score/Ranked_score) (6 Oktober 2007 – 24 Juli 2012)
+- [Ranked Score](/wiki/Gameplay/Score/Ranked_score) (6 Oktober 2007 – 24 Juli 2012)
 - [ppv1](/wiki/Performance_points/ppv1) (24 Juli 2012 – 27 Januari 2014)
 - [ppv2](/wiki/Performance_points) (27 Januari 2014 – sekarang)
 
@@ -30,7 +30,7 @@ Walaupun ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) diasumsikan sebagai pe
 
 ## 2007
 
-*Catatan: Selama periode di mana [Ranked Score](/wiki/Score/Ranked_score) digunakan, pemegang peringkat #1 akan sering berubah, sehingga daftar awal mungkin tidak akurat. Informasi mendetail dapat ditemukan di perkiraan rekonstruksi papan peringkat global Ranked Score, yang tersedia [di sini](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
+*Catatan: Selama periode di mana [Ranked Score](/wiki/Gameplay/Score/Ranked_score) digunakan, pemegang peringkat #1 akan sering berubah, sehingga daftar awal mungkin tidak akurat. Informasi mendetail dapat ditemukan di perkiraan rekonstruksi papan peringkat global Ranked Score, yang tersedia [di sini](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
 
 | Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
@@ -270,7 +270,13 @@ Walaupun ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) diasumsikan sebagai pe
 | Pemain | Sejak | Hingga | Sumber |
 | --: | :-- | :-- | :-- |
 | ![][flag_DE] [WhiteCat](https://osu.ppy.sh/users/4504101) | *2019-10-06* | 2021-04-08 | [\[1\]](https://web.archive.org/web/20191006200709/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/whitecat/) [\[3\]](https://web.archive.org/web/20210119102542/https://old.reddit.com/r/osugame/comments/de8duf/whitecat_is_now_1_global_on_osustandard/) [\[4\]](https://web.archive.org/web/20210203170702if_/https://www.youtube.com/watch?v=Bx4R7lovF-0) |
-| ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902) | 2021-04-08 | Present | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/7562902) [\[3\]](https://ameobea.me/osutrack/user/mrekk/) [\[4\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[5\]](https://osu.ppy.sh/scores/osu/3584256449") [\[6\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[7\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
+| ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902) | 2021-04-08 | *Saat Ini* | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/7562902) [\[3\]](https://ameobea.me/osutrack/user/mrekk/) [\[4\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[5\]](https://osu.ppy.sh/scores/osu/3584256449") [\[6\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[7\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
+
+## 2022
+
+| Pemain | Sejak | Hingga | Sumber |
+| --: | :-- | :-- | :-- |
+| ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902) | *2021-04-08* | Saat Ini | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/7562902) [\[3\]](https://ameobea.me/osutrack/user/mrekk/) [\[4\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[5\]](https://osu.ppy.sh/scores/osu/3584256449") [\[6\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[7\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
 
 ## Jumlah Pencapaian
 

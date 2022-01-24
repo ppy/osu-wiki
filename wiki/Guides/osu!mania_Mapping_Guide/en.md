@@ -73,7 +73,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 | HP Drain Rate (HP): | A higher value means a more punishing drain and a lower recovery, vice versa. A commonly used HP value would be **7** *Note: Only 50 or Misses will drain HP* |
 | Key Count: | Here you have to set the key count in which you want to map. In this Guide I will use 4K. Note that only 4K, 5K, 6K, 7K, 8K and 9K maps are rankable. The checkbox "Co-Op" can be selected when you choose 5K and above,  doubling the keycount. This allows you to play with a friend on one keyboard. |
 | Approach Rate: | This point is not used in osu!mania and you can ignore it. |
-| Overall Difficulty (OD): | OD changes the hit error range of all judgements except 300g. It is recommended to use lower OD for maps that are Long Note oriented, vice versa for Note oriented maps. |
+| Overall Difficulty (OD): | OD changes the hit error range of all [judgements](/wiki/Gameplay/Judgement) except 300g. It is recommended to use lower OD for maps that are Long Note oriented, vice versa for Note oriented maps. |
 
 #### Design
 
@@ -142,12 +142,12 @@ Go to the point where the BPM changes, press F6 to open the Timing panel, add an
 
 #### Timing Setup Panel
 
-![Timing Setup](/wiki/Beatmap_Editor/Timing/img/TimingSetup.png "Timing Setup")
+![Timing Setup](/wiki/shared/timing/TimingSetup.png "Timing Setup")
 
 | Name | Description |
 | :-- | :-- |
 | Timing Point: | The timing point or "Red Line" is there to time your song. Without it you can't start mapping. Refer to above on steps to [**Timing**](#timing) your song |
-| Inherited Point: | The inherited point or "Green Line" is used to add "effects" to your map. With these, you can change the volume, the sample set, the slider velocity (SV) and you can add a [Kiai-Time](/wiki/Kiai_time). |
+| Inherited Point: | The inherited point or "Green Line" is used to add "effects" to your map. With these, you can change the volume, the sample set, the slider velocity (SV) and you can add a [Kiai-Time](/wiki/Gameplay/Kiai_time). |
 | Kiai: | The Kiai can be selected in "Style" and can be added between two inherited points. The Kiai Time is normally used in the chorus of your Song. It'll spawn star fountains on both sides of the screen and is used to emphasise a section of the map. |
 
 ### Pattern

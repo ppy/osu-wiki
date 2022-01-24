@@ -17,7 +17,7 @@ The **Global Moderation Team** (formerly known as the Global Mod Team, Administr
 ## Roles and responsibilities
 
 ***Note: To report a moderator misbehaving or breaking the Contributor Code of Conduct, contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
-*See also: [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour)*
+*See also: [Reporting Bad Behaviour](/wiki/Reporting_bad_behaviour)*
 
 The Global Moderation Team is responsible for the welfare of the chat and forum, and takes care of interactions within the community. They should be approached with any questions pertaining the moderation aspect of the game, which would include (but is not limited to):
 
@@ -35,7 +35,7 @@ Becoming a member of the Global Moderation Team requires a notable amount of con
 The most important factors for consideration are behaviour, activity, understanding of [the rules](/wiki/Rules), and patience:
 
 1. Demonstrate good behaviour by being polite and treating other users with respect. Keeping your account free of any serious silences or issues is essential.
-2. Demonstrate in-game activity by participating in the chat and/or the forums. [Report any misbehaviour](/wiki/Reporting_Bad_Behaviour) and problems via the report system. Answer questions and assist others with issues.
+2. Demonstrate in-game activity by participating in the chat and/or the forums. [Report any misbehaviour](/wiki/Reporting_bad_behaviour) and problems via the report system. Answer questions and assist others with issues.
 3. Have a proper understanding of [the rules](/wiki/Rules) and how they are applied. It is important to know what is acceptable within osu! and what is not.
 4. Be patient. The GMT does not spontaneously add members who have been helping for just a few days. It takes time for the GMT to evaluate someone⁠—their personality, what they can help with, their activity, etc.
 
