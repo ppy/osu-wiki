@@ -4,6 +4,13 @@ osu! does its best to run with sane default settings and proactively alert you i
 
 Unfortunately, due to the scope of hardware which osu! runs on, it's very hard to ensure optimal performance for every single user. This page aims to help you self-diagnose performance issues you have, but also provides specific terms you can learn (and checks you can perform) to help us help you when you reach out for support.
 
+## Things to check
+
+- Are you using a skin? If so, try switching to the default and see if things improve. Some skins can be crafted in a way which can cause performance issues on some or all systems.
+- Is your frame limiter set to "unlimited"? Set it to "optimal" and see if it helps. See [its section below](#unlimited) for more information on why "unlimited" is usually not the best choice.
+- Are you running windowed? Switch to fullscreen.
+- Have you updated your drivers (especially GPU)? Try doing so and see if things improve. Alternatively, if you recently updated them, try rolling back.
+
 ## The types of "lag"
 
 It is quite difficult to provide support when every kind of issue is grouped under the single word “lag”, so let’s start by defining some terms for specific scenarios.
