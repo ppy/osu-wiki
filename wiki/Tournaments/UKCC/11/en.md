@@ -55,7 +55,7 @@ The UK Community Cup 11 is run by various community members.
 - This tournament is a 2v2 double-elimination British osu! tournament.
 - To be able to participate, players must have a **![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag or be able to provide proof of residency to the hosts**.
 - Teams that register must have a combined Badge Weighting System (BWS) rank of **1000** or greater. Any team that does not have this when signups end will be disqualified.
-- Players are reminded to use **common sense** when picking team names; any team names the tournament administration deems unacceptable will be asked to be changed. **Refusal** to change name or not providing an acceptable team name may result in a team being disqualified from the tournament. **(Names that trigger Bancho's chat filters may be asked to be changed as well)**
+- Players are reminded to use **common sense** when picking team names; any team names the tournament administration deems unacceptable will be asked to be changed. **Refusal** to change name or not providing an acceptable team name may result in a team being disqualified from the tournament. **(Names that trigger Bancho's chat filters may be asked to be changed as well.)**
 - Matches will be **Team Vs**, with **ScoreV2** as the scoring system used.
 - Seeding will be done based on the sum of normalised scores from qualifier maps.
 - All staff (apart from the hosts, mappool selectors and referees) are allowed to participate in the tournament.
