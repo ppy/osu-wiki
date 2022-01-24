@@ -179,6 +179,34 @@ The 4 Digit osu!mania World Cup 4 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 22 January 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Hong Kong** ![][flag_HK] | **5** | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/96817497) |
+| **Malaysia** ![][flag_MY] | **5** | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/96826010) |
+| **Thailand** ![][flag_TH] | **5** | 0 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/96829522) |
+| **Vietnam** ![][flag_VN] | **5** | 3 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/96832190) |
+| Indonesia ![][flag_ID] | 3 | **5** | ![][flag_PE] **Peru** | [#1](https://osu.ppy.sh/community/matches/96835252) |
+| **Germany** ![][flag_DE] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/96843753) |
+| **Venezuela** ![][flag_VE] | **5** | 4 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/96857076) |
+
+Sunday, 23 January 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Canada ![][flag_CA] | 0 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/96864985) |
+| **United States** ![][flag_US] | **5** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/96872299) |
+| **Singapore** ![][flag_SG] | **5** | 1 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/96881779) |
+| **France** ![][flag_FR] | **5** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/96881551) |
+| **Spain** ![][flag_ES] | **5** | 0 | ![][flag_PA] Panama | [#1](https://osu.ppy.sh/community/matches/96893977) |
+| **Russian Federation** ![][flag_RU] | **5** | 3 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/96895007) |
+| **Mexico** ![][flag_MX] | **5** | 4 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/96898836) |
+| **Sweden** ![][flag_SE] | **5** | 0 | ![][flag_DO] Dominican Republic | [#1](https://osu.ppy.sh/community/matches/96903303) |
+| **Netherlands** ![][flag_NL] | **5** | 4 | ![][flag_UK] United Kingdom | [#1](https://osu.ppy.sh/community/matches/96903298) |
+
 ### Round of 32
 
 Saturday, 15 January 2022:
