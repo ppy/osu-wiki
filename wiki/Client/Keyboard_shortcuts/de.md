@@ -37,7 +37,7 @@ Diese Kürzel können überall verwendet werden:
 - `P`: Spielmenü
 - `P` -> `P`: Solo
   - alternativ: `E` -> `P` -> `P`
-- `P` -> `M`: [Multiplayer](/wiki/Multi)
+- `P` -> `M`: [Multiplayer](/wiki/Gameplay/Multiplayer)
   - alternativ: `E` -> `P` -> `M`
 - `P` -> `E`: Bearbeitungsmodus
 - `D`: osu!direct (nur für [osu!-Supporter](/wiki/osu!supporter))
@@ -62,7 +62,7 @@ Diese Kürzel können überall verwendet werden:
 
 ## Songauswahl
 
-**Hinweis:** Nicht alle dieser Hotkeys funktionieren in der Songauswahl des [Mehrspielermodus](/wiki/Multi).
+**Hinweis:** Nicht alle dieser Hotkeys funktionieren in der Songauswahl des [Mehrspielermodus](/wiki/Gameplay/Multiplayer).
 
 - `Alt` + `Pfeil oben`: Lautstärke erhöhen
 - `Alt` + `Pfeil unten`: Lautstärke verringern

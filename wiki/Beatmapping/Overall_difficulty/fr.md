@@ -23,7 +23,7 @@ Des valeurs d'OD plus élevées signifient une hit window plus courte pour frapp
 | 100 | `280ms - 16ms * OD` |
 | 300 | `160ms - 12ms * OD` |
 
-Si le joueur frappe en dehors de la hit window du 50, cela comptera comme un miss. Si les hit windows de deux objets se chevauchent, le second objet sera inaccessible jusqu'à ce que le premier disparaisse à cause du [notelock](/wiki/Gameplay/Notelock).
+Si le joueur frappe en dehors de la hit window du 50, cela comptera comme un miss. Si les hit windows de deux objets se chevauchent, le second objet sera inaccessible jusqu'à ce que le premier disparaisse à cause du [notelock](/wiki/Gameplay/Judgement/Notelock).
 
 ## Sliders et spinners
 

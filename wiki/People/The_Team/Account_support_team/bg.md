@@ -16,22 +16,22 @@ no_native_review: true
 
 ## Роли и задачи
 
-*Главен артикул: [Помощен център](/wiki/Help_Centre)*
+*Главен артикул: [Помощен център](/wiki/Help_centre)*
 
-*Виж също: [Профилни ограничения](/wiki/Help_Centre/Account_Restrictions)*
+*Виж също: [Профилни ограничения](/wiki/Help_centre/Account_restrictions)*
 
 Трябва да пишете с този екип само за профилно-свързани теми, които са извън ваш контрол. Моля, помнете че трябва да предоставите възможно най-подробно описание за затруднението ви и изпратите писмо от имейл адреса свързан към вашия osu! профил.
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
-- [Обжалване за ограничение над ваш профил](/wiki/Help_Centre/Account_Restrictions), включително:
+- [Обжалване за ограничение над ваш профил](/wiki/Help_centre/Account_restrictions), включително:
   - заглушаване;
   - премахнато съдържание от профил;
   - изтрит бийтмап;
   - изтрит коментар или публикация от форум.
 - Случаи на лошо поведение за които [желаете да признаете](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?).
-- [Загубен достъп до имейла](/wiki/Help_Centre/Installation_and_registration#sign-in) свързан към osu! профил, или при откраднат профил.
-- [Правописни корекции и връщане](/wiki/Help_Centre/Account#name-changes) на променено потребителско име.
+- [Загубен достъп до имейла](/wiki/Help_centre/Installation_and_registration#sign-in) свързан към osu! профил, или при откраднат профил.
+- [Правописни корекции и връщане](/wiki/Help_centre/Account#name-changes) на променено потребителско име.
 - [Регистриране на бот профил](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
@@ -40,8 +40,8 @@ no_native_review: true
 
 - Притеснения относно лошо поведение на модератор.
 - Притеснения относно нарушаване на [Правила за поведение на сътрудници](/wiki/Contributor_Code_of_Conduct) от страна на модератор.
-- [Платежни затруднения](/wiki/Help_Centre/Account#supporter) при пазаруване от [osu!store](https://osu.ppy.sh/store/listing).
-- Технически затруднения които не могат да бъдат разрешени в [помощния форум](https://osu.ppy.sh/community/forums/5), като [проблеми със свързване](/wiki/Help_Centre/Client#online-features).
+- [Платежни затруднения](/wiki/Help_centre/Account#supporter) при пазаруване от [osu!store](https://osu.ppy.sh/store/listing).
+- Технически затруднения които не могат да бъдат разрешени в [помощния форум](https://osu.ppy.sh/community/forums/5), като [проблеми със свързване](/wiki/Help_centre/Client#online-features).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 

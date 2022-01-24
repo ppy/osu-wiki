@@ -32,7 +32,7 @@ Catatan:
 
 - Nama animasi: `fruit-catcher-fail-{n}.png`
 - Elemen ini merupakan tampilan catcher ketika miss.
-- Elemen ini menggantikan `fruit-catcher-kiai.png` jika sebuah fruit atau drop/droplet terlewatkan saat [kiai time](/wiki/Kiai_time).
+- Elemen ini menggantikan `fruit-catcher-kiai.png` jika sebuah fruit atau drop/droplet terlewatkan saat [kiai time](/wiki/Gameplay/Kiai_time).
 - Elemen ini harus menghadap ke kanan.
 
 ---
@@ -49,7 +49,7 @@ Catatan:
 
 - Nama animasi: `fruit-catcher-kiai-{n}.png`
 - Elemen ini merupakan tampilan catcher selama kiai time.
-- `fruit-catcher-fail.png` menggantikan elemen ini jika sebuah fruit atau drop/droplet terlewatkan saat [kiai time](/wiki/Kiai_time).
+- `fruit-catcher-fail.png` menggantikan elemen ini jika sebuah fruit atau drop/droplet terlewatkan saat [kiai time](/wiki/Gameplay/Kiai_time).
 - Elemen ini harus menghadap ke kanan.
 
 ---
@@ -99,7 +99,7 @@ Catatan:
 
 Catatan:
 
-- Elemen ini berdenyut pada lokasi di mana fruit akan dapat ditangkap selama [kiai time](/wiki/Kiai_time).
+- Elemen ini berdenyut pada lokasi di mana fruit akan dapat ditangkap selama [kiai time](/wiki/Gameplay/Kiai_time).
 - Elemen ini dapat digunakan juga pada mode [osu!](/wiki/Game_mode/osu!) dan [osu!taiko](/wiki/Game_mode/osu!taiko).
 - Elemen ini dapat dimatikan melalui menu [options](/wiki/Client/Options).
 - Pewarnaan tergantung oleh warna combo fruit.

@@ -8,7 +8,7 @@ Saat ini, pertemuan komunitas osu! diketuai oleh [peppy](https://osu.ppy.sh/user
 
 Pertemuan diadakan setiap dua minggu sekali dengan pengingat yang diumumkan melalui [akun Twitter peppy](https://twitter.com/ppy) sehari sebelumnya.
 
-Pertemuan komunitas osu! berikutnya akan diadakan pada **hari Sabtu, 22 Januari 2022 pukul 21.00 UTC (Minggu, 23 Januari 2022 04.00 WIB)**.
+Pertemuan komunitas osu! berikutnya akan diadakan pada **hari Minggu, 6 Februari 2022 pukul 01.00 UTC (Minggu, 6 Februari 2022 08.00 WIB)**.
 
 ## Cara berpartisipasi
 
@@ -37,6 +37,7 @@ Pertemuan komunitas osu! pertama diadakan pada 19 September 2021. Semua pertemua
 | 6 | [11 Desember 2021](https://youtu.be/dtGjIyTFtMA) | [Notulen pertemuan](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) | Masa depan osu! World Cup serta berbagai pertanyaan dari para anggota komunitas |
 | 7 | [18 Desember 2021](https://youtu.be/v-LgY3UKhkg) | [Notulen pertemuan](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) | Tanggapan peppy seputar berbagi konflik dan drama yang sedang hangat diperbincangkan oleh para anggota komunitas |
 | 8 | [9 Januari 2022](https://youtu.be/JXgQ6YEDCGg) | [Notulen pertemuan](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | Mekanisme HP (*health drain*) yang berlaku di osu! serta berbagai pertanyaan dari para anggota komunitas |
+| 9 | [22 Januari 2022](https://youtu.be/Prx0XzHl6-M) | [Notulen pertemuan](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | Berbagai pertanyaan dari para anggota komunitas serta berita-berita terkini seputar pengembangan osu! |
 
 ## Tautan terkait
 

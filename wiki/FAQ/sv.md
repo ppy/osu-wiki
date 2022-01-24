@@ -428,7 +428,7 @@ Från ikonen för *Inmatning* i *Inställningar* visad ovan, under **Tangentbord
 
 #### Game over? Vad gjorde jag för fel?
 
-*Fullständig förklaring: [Replay](/wiki/Replay)*
+*Fullständig förklaring: [Replay](/wiki/Gameplay/Replay)*
 
 Efter att en beatmap misslyckas, tryck på `F1` för att visa reprisen. Den slutar när skärmen mörknar och *osu!loggan* dyker upp i mitten, istället för att game-over-skärmen. Tryck på grave/tilde (\`/~) -knappen (kan ändras i inställningar: *Ändra tangentbindningar*->**Quick Retry (hold briefly)**) eller håll in `Ctrl` + `R` en kort stund, för att spela upp reprisen igen.
 
