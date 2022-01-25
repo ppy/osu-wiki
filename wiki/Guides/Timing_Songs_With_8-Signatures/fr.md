@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Timing des chansons avec des signatures en #/8
 
 De temps en temps, des musiques sont mappées avec une signature temporelle qui n'est pas divisée en quart de note (par exemple `3/4`, `4/4`, `7/4`, ...) mais en huitièmes de note (par exemple `6/8`, `7/8`, ...). Comme l'éditeur actuel ne prend pas en charge ces signatures #/8 et que nous ne savons pas si cela va changer dans un futur proche, un ajout a été fait à la règle concernant cette question sur la [section correspondante des critères de classement](/wiki/Ranking_Criteria#timing).

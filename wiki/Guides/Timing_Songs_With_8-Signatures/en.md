@@ -1,6 +1,6 @@
 # Timing songs with #/8-signatures
 
-Every now and then, songs are being mapped that have a time signature that is not divided into quarter-notes (e.g. `3/4`, `4/4`, `7/4`, ...) but into eighth-notes (e.g. `6/8`, `7/8`, ...). Since the current editor does not support those #/8-signatures and we don't know whether this will change in the near future, an addition has been made to the rule concerning this matter on the [corresponding section of the Ranking Criteria](/wiki/Ranking_Criteria#timing).
+Every now and then, songs are being mapped that have a time signature that is not divided into quarter-notes (e.g. `3/4`, `4/4`, `7/4`, ...) but into eighth-notes (e.g. `6/8`, `7/8`, ...). The current editor does not support those #/8-signatures but will in the future.
 
 To make that chart more understandable and state more precisely what is meant, this guide will now explain a bit of the relevant music theory behind this, and give examples of how it translates into osu!. For this reason, [three mapsets](https://assets.ppy.sh/media/wiki/TimeSignatures.rar) have been prepared for you to download, which will be used as a reference in this guide.
 
