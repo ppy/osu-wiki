@@ -1,6 +1,6 @@
 ---
-outdated:true
-outdated_since:19d497357
+outdated: true
+outdated_since: 19d497357fd186a011c088fb28c3645fbde1261f
 ---
 
 <!-- TODO: change link as soon as German article is available (line 12) -->
