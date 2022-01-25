@@ -170,7 +170,7 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | Herausragende, unermüdliche Unterstützung und Hilfe für Spieler |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Herausragende, unermüdliche Unterstützung und Hilfe für Spieler |
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Herausragende Beiträge für die Mappers' Guild und Beatmap Nominatoren |
-| ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835) | Herausragende Beiträge zu osu! Open-Source-Projekten |
+| ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835) | Herausragende Beiträge zu Open-Source-Projekten für osu! |
 
 ## 2021
 
