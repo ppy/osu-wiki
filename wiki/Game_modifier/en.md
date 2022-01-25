@@ -4,6 +4,10 @@ tags:
  - game modifier
  - overview
  - list of mods
+ - NoMod
+ - No Mod
+ - FreeMod
+ - Free Mod
 ---
 
 <!-- READ BEFORE EDITING:
