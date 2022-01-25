@@ -72,11 +72,11 @@ A pull request shows other people how your edits will affect the files. Add some
 
 Reviews are best applied directly through the GitHub web interface. Use the `Add suggestion to batch` button when in the `Files changed` tab to apply multiple reviews simultaneously.
 
-![Applying a batch review][img/apply-batch-review.gif]
+![Applying a batch review](img/apply-batch-review.gif)
 
 You may also use the `Commit suggestion` button to apply a single suggestion individually, but don't forget to set a descriptive commit message. Keep in mind however, that fewer commits are better than lots of small ones.
 
-![Applying a single review][img/apply-single-review.gif]
+![Applying a single review](img/apply-single-review.gif)
 
 Using this system will automatically mark suggestions as resolved. When applying reviews manually (e.g. when the reviewer didn't add a direct suggestion), mark them as resolved *after committing the change* to prevent forgetting any. Applying reviews automatically is preferred, as it prevents errors and alleviates reviewers from potentially needing to check if their review was applied correctly, especially when there are many changes.
 
