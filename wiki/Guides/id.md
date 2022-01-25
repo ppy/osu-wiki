@@ -1,3 +1,8 @@
+---
+outdated:true
+outdated_since:19d497357
+---
+
 # Panduan
 
 Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota komunitas osu!. Sebagian besar panduan di bawah ini pada mulanya berasal dari utas pada forum osu! yang kemudian dipindahkan ke laman wiki.

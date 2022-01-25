@@ -1,3 +1,8 @@
+---
+outdated:true
+outdated_since:19d497357
+---
+
 <!-- TODO: change link as soon as German article is available (line 12) -->
 
 # Tutorials
