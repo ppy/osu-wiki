@@ -70,7 +70,7 @@ A pull request shows other people how your edits will affect the files. Add some
 
 ## Applying reviews
 
-Reviews are best applied directly through the GitHub web interface. Use the `Add suggestion to batch` button when in the `Files changed` tab to apply multiple reviews simultaneously.
+Reviews are best applied directly through the github web interface. Use the `Add suggestion to batch` button when in the `Files changed` tab to apply multiple reviews simultaneusly.
 
 ![][img/apply-batch-review.gif]
 
@@ -78,7 +78,7 @@ You may also use the `Commit suggestion` button to apply a single suggestion ind
 
 ![][img/apply-single-review.gif]
 
-Using this system will automatically mark suggestions as resolved. When applying reviews manually (e.g. when the reviewer didn't add a direct suggestion), mark them as resolved *after committing the change* to prevent forgetting any. Applying reviews automatically is preferred, as it prevents errors and alleviates reviewers from potentially needing to check if their review was applied correctly, especially when there are many changes.
+Using this system will automatically mark suggestions as resolved. When applying reviews manually (e.g. when the reviewer didnt add a direct suggestion), mark them as resolved *after committing the change* to prevent forgetting any. Applying reviews automatically is preferred, as it prevents errors and alleviates reviewers from potentially needing to check if their review was applied correctly, especially when there are many changes.
 
 ## Resolving conflicts
 
