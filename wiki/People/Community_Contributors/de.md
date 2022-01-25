@@ -90,7 +90,7 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | Benutzer | Beiträge |
 | :-- | :-- |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Herausragende Arbeit bei der Gründung der frühen osu!taiko-Community, mehrjährige Tätigkeit im BAT/QAT |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Herausragende Beiträge zur osu!catch Community, Überarbeitung der Ranking-Kriterien und Wettbewerben |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Herausragende Beiträge zur osu!catch-Community, Überarbeitung der Ranking-Kriterien und Wettbewerben |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Herausragende Beiträge zu zahlreichen Medienprojekten, Wettbewerben und eine langjährige Zugehörigkeit zum GMT |
 | ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) | Jahrelange engagierte Arbeit für das BVT/QAT und immenser Beitrag zur Überarbeitung der Ranking-Kriterien |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Jahrelanges Engagement für das BAT/QAT, maßgebliche Beteiligung an der Überarbeitung der Ranking-Kriterien und am Beatmap Nominator Test Management |
@@ -98,7 +98,7 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) | Hunderte von Stunden an Statistiken und Analysen zu den Wettbewerben des World Cup |
 | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) | Herausragende Präsenz als Schiedsrichter bei Dutzenden Community-Wettbewerben |
 | ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660) | Hervorragende Leistungen bei Castings, Kommentierungen und ereignisbezogenen Berichten/Rückblicken |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Der Kopf hinter zahllosen Verbesserungen von osu!, von pp, einer neu geschriebenen Grafik-Engine, Star-Rating und mehr! |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Der Kopf hinter zahllosen Verbesserungen von osu!, von pp, zu einer neu geschriebenen Grafik-Engine, über Star-Rating und mehr! |
 | ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | Herausragender Beitrag zum osu!lazer-Projekt |
 | ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | Herausragender Beitrag zum osu!lazer-Projekt mit über 90 Pull Requests und Hunderten von Commits |
 | ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Herausragender Beitrag zum osu!lazer-Projekt |
