@@ -1,3 +1,8 @@
+---
+outdated:true
+outdated_since:7742320aa
+---
+
 # Ranking criteria
 
 *[게임 모드](/wiki/Game_mode) 고유의 Ranking Criteria를 보려면, 다음을 참조하세요: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch)와 [osu!mania](osu!mania)*

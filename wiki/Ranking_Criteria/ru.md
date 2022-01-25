@@ -1,5 +1,6 @@
 ---
-outdated: true
+outdated:true
+outdated_since:7742320aa
 ---
 
 # Критерии ранкинга
