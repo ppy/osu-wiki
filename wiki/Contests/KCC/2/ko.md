@@ -6,7 +6,7 @@ tags:
 
 # Korean Charting Contest 2022
 
-![KCC2022 배너]()
+![KCC2022 배너](img/banner.png)
 
 **Korean Charting Contest 2022** (***KCC2022***) 은 한국인을 위한 osu!mania 매핑 대회입니다.
 
@@ -26,7 +26,7 @@ tags:
 | ![은상](/wiki/shared/crown-silver.png "2위") | 20,000 KRW |
 | ![동상](/wiki/shared/crown-bronze.png "3위") | 10,000 KRW |
 
-![KCC2022 뱃지]()
+![KCC2022 뱃지](img/badge.png)
 
 ## 주최
 
@@ -34,28 +34,12 @@ tags:
 | :-- | :-- |
 | 주최자 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) |
 | 매니저 | ![][flag_KR] [Oni Suika](https://osu.ppy.sh/users/4848023) |
-| 디자이너 |  |
+| 디자이너 | ![][flag_KR] [Manwon](https://osu.ppy.sh/users/4129020) |
 | 심사위원 | ![][flag_CN] [_Stan](https://osu.ppy.sh/users/1653229), ![][flag_SG] [Evening](https://osu.ppy.sh/users/2193881), ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783), ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573), ![][flag_KR] [Remuring](https://osu.ppy.sh/users/6522146) |
 
 ## 링크
 
 - [포럼 스레드](https://osu.ppy.sh/community/forums/topics/1507792)
-- [결과 시트]()
-- [엔트리 모음]()
-
-## 곡 리스트
-
-### Instrumental
-
-### Vocal
-
-## 결과
-
-| 순위 | 매퍼 |
-| :-: | :-- |
-| ![금상](/wiki/shared/crown-gold.png "1위") |  |
-| ![은상](/wiki/shared/crown-silver.png "2위") |  |
-| ![동상](/wiki/shared/crown-bronze.png "3위") |  |
 
 ## 규칙
 

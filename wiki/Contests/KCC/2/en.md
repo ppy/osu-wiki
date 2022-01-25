@@ -6,7 +6,7 @@ tags:
 
 # Korean Charting Contest 2022
 
-![KCC2022 banner]()
+![KCC2022 banner](img/banner.png)
 
 The **Korean Charting Contest 2022** (***KCC2022***) is a osu!mania mapping contest for users from ![][flag_KR] South Korea.
 
@@ -26,7 +26,7 @@ The **Korean Charting Contest 2022** (***KCC2022***) is a osu!mania mapping cont
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 20,000 KRW |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10,000 KRW |
 
-![KCC2022 badge]()
+![KCC2022 badge](img/badge.png)
 
 ## Organisation
 
@@ -34,7 +34,7 @@ The **Korean Charting Contest 2022** (***KCC2022***) is a osu!mania mapping cont
 | :-- | :-- |
 | Organizer | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) |
 | Manager | ![][flag_KR] [Oni Suika](https://osu.ppy.sh/users/4848023) |
-| Designer |  |
+| Designer | ![][flag_KR] [Manwon](https://osu.ppy.sh/users/4129020) |
 | Judge | ![][flag_CN] [_Stan](https://osu.ppy.sh/users/1653229), ![][flag_SG] [Evening](https://osu.ppy.sh/users/2193881), ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783), ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573), ![][flag_KR] [Remuring](https://osu.ppy.sh/users/6522146) |
 
 ## Links
@@ -42,20 +42,6 @@ The **Korean Charting Contest 2022** (***KCC2022***) is a osu!mania mapping cont
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1507792)
 - [Results sheet]()
 - [Entries]()
-
-## Song list
-
-### Instrumental
-
-### Vocal
-
-## Results
-
-| Place | Mapper |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") |  |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  |
 
 ## Ruleset
 
