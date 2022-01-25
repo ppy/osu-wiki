@@ -105,6 +105,37 @@ Listed below are players who qualified into the Preliminary groups (along with t
 
 ## Mappools
 
+### Finals (week 2)
+
+**[Download the mappack here! (185 MB)](https://drive.google.com/u/0/uc?id=1sveB_3TPuXj7_oJNIFs-GkCmwOQIs_Pa&export=download)**
+
+- NoMod
+  1. [ELFENSJoN - ASH OF ROUGE (Xayah) \[pog\]](https://osu.ppy.sh/beatmapsets/1471010#osu/3019994)
+  2. [UNDEAD CORPORATION - The silent world (Aeril) \[Armageddon\]](https://osu.ppy.sh/beatmapsets/1581330#osu/3229017)
+  3. [TOMOSUKE - Macuilxochitl (Raijodo) \[Flower (phox's CS4 Edit)\]](https://osu.ppy.sh/beatmapsets/1683090#osu/3438884)
+  4. [Silentroom - NULCTRL (factal Remix) (Xarr) \[fluid\]](https://osu.ppy.sh/beatmapsets/1256524#osu/2611132)
+  5. [Spire - Somnambulism (verychill) \[LMT's Lucid Nightmare\]](https://osu.ppy.sh/beatmapsets/1171893#osu/3120531)
+  6. [tarolabo - eth ken (ktgster) \[Extreme (phox's AR9 Edit)\]](https://osu.ppy.sh/beatmapsets/1683088#osu/3438882)  
+- Hidden
+  1. [Yorushika - Walk (Ryuusei Aika) \[Whitening Memory, Catchpenny Pattern and You\]](https://osu.ppy.sh/beatmapsets/1518479#osu/3108320)
+  2. [void (Mournfinale) - World Vanquisher (Deppyforce) \[De-structurization\]](https://osu.ppy.sh/beatmapsets/1683078#osu/3438866)
+  3. [Kijibato - w/WWW feat. Hoshimiya Toto (-Tynamo) \[Endless\]](https://osu.ppy.sh/beatmapsets/1329408#osu/2753990)
+  4. [DJ Myosuke - Behemoth (Mazzerin) \[D357RUC710N\]](https://osu.ppy.sh/beatmapsets/1612153#osu/3291477)
+- HardRock
+  1. [EPICA - The Cosmic Algorithm (Mordred) \[anime map\]](https://osu.ppy.sh/beatmapsets/1479445#osu/3035067)
+  2. [Otokaze - SaiGetsu (Cut Ver.) (Yusomi) \[Years\]](https://osu.ppy.sh/beatmapsets/746240#osu/1572866)
+  3. [Given - Fuyu no Hanashi (Yudragen) \[All that you've left behind, has become my everything\]](https://osu.ppy.sh/beatmapsets/1401056#osu/2890370)
+  4. [ClariS - Hitorigoto (TV Size) (Net0) \[Faito's Expert\]](https://osu.ppy.sh/beatmapsets/1292749#osu/2688323)
+- DoubleTime
+  1. [LazuLight - Diamond City Lights (\[ TNTlealu \]) \[Rainbow\]](https://osu.ppy.sh/beatmapsets/1464031#osu/3017567)
+  2. [-45 - System Sun (Lasse) \[Insane (Flask's 1.12x (170bpm) Edit)\]](https://osu.ppy.sh/beatmapsets/1658007#osu/3384275)
+  3. [Denkishiki Karen Ongaku Shuudan - Aoki Kotou no Anguis (OliBomby) \[TheBlank's Insane\]](https://osu.ppy.sh/beatmapsets/989342#osu/2069602)
+  4. [Hatsune Miku - With a Dance Number (val0108) \[0108 style\]](https://osu.ppy.sh/beatmapsets/29691#osu/98415)
+- FreeMod
+  1. [USAO - Hastur (Extended Mix) (Regou) \[Anomaly\]](https://osu.ppy.sh/beatmapsets/1313256#osu/2721644)
+  2. [Utah Saints - Something Good '08 (Radio Edit) (xDololow) \[Running Child\]](https://osu.ppy.sh/beatmapsets/456463#osu/2194972)
+  3. [xi - Blue Zenith (Asphyxia) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/292301#osu/658127)
+
 ### Finals (week 1)
 
 **[Download the mappack here! (172 MB)](https://drive.google.com/u/0/uc?id=182y2MbubZEM0g5WCiEWX1wOgdCvL5btH&export=download)**
@@ -344,6 +375,27 @@ Listed below are players who qualified into the Preliminary groups (along with t
   2. [Sakuzyo - FAFNIR (Sulfur) \[KKip's Insane\]](https://osu.ppy.sh/beatmapsets/777255#osu/1637690)
 
 ## Match results
+
+### Finals (week 1)
+
+Saturday, 22 January 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Rexeez](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **8** | 3 | ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837) | [#1](https://osu.ppy.sh/community/matches/96834092) |
+| Lower | [Crezz](https://osu.ppy.sh/users/7108275) ![][flag_ID] | 5 | **8** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/96833378) |
+
+Sunday, 23 January 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **8** | 4 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/96881059) |
+
+Monday, 24 January 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Tebi](https://osu.ppy.sh/users/5407620) ![][flag_SG] | 2 | **8** | ![][flag_PH] **[NathanRammu2044](https://osu.ppy.sh/users/8472976)** | [#1](https://osu.ppy.sh/community/matches/96927354) |
 
 ### Semifinals
 
