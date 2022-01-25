@@ -15,7 +15,7 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | Benutzer | Beiträge |
 | :-- | :-- |
 | ![][flag_GB] [Darkimmortal](https://osu.ppy.sh/users/10886) | Entwicklung und Wartung des [osu!record-Service](https://osu.ppy.sh/community/forums/topics/108092) (Replay `.osr` zu Videodatei). |
-| ![][flag_DE] [nanashiRei](https://osu.ppy.sh/users/807630) | Hosting und Wartung eines der am längsten laufenden [Nachbildung einer Beatmap-Auflistung](https://osu.yas-online.net/). |
+| ![][flag_DE] [nanashiRei](https://osu.ppy.sh/users/807630) | Hosting und Wartung einer der am längsten laufenden [Nachbildung einer Beatmap-Auflistung](https://osu.yas-online.net/). |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Unzählige grafische Beiträge zum Spiel-Client und zu allem anderen. |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | Gestaltung der [Achievements](/wiki/Medals). |
 | ![][flag_US] [akrolsmir](https://osu.ppy.sh/users/576800) | Entwickler und Aufrechthaltung des [AIBat](https://osu.ppy.sh/community/forums/topics/55305), dem bekanntesten Drittanbietertool für Beatmap-Modding, das heute von den meisten Benutzern in der Community verwendet wird. |
@@ -157,8 +157,8 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Herausragende Beiträge zum Spielmodus osu!catch und zum Management |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Herausragende Beiträge zu Management- und Führungsangelegenheiten |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Herausragende Beiträge für das globale Moderationsteam |
-| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Herausragende Beiträge zum Mentorship-Projekt |
-| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Herausragende Beiträge zum Mentorship-Projekt |
+| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Herausragende Beiträge zum Mentorenprogramm |
+| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Herausragende Beiträge zum Mentorenprogramm |
 | ![][flag_SE] [PuffBuck](https://osu.ppy.sh/users/4234525) | Herausragende Beiträge zur Moderation und Organisation des World Cups |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | Herausragende, unermüdliche Beiträge für die osu!-Community im Allgemeinen |
 | ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943) | Herausragende Beiträge zum osu! World Cup |
