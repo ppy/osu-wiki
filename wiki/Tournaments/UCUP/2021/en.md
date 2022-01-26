@@ -1,7 +1,7 @@
 ---
 tags:
-  - UCUP
-  - UCUP 4
+  - UCUP4
+  - UCUP2021
   - UCUP 2021
 ---
 
