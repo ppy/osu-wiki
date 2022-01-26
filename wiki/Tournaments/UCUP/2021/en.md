@@ -10,7 +10,7 @@ tags:
 
 ![Ulat Cup 2021 logo](img/logo.jpg)
 
-The **Ulat Cup 2021** (***UCUP 2021***) was a double-elimination 2v2 osu! tournament hosted by ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548). The tournament was open to all teams of two with an ![][flag_ID] Indonesian player as their captain regardless of rank. Despite the change in format from its previous iterations, the tournament was formally regarded as the 4th instalment of the Ulat Bulu Cup tournament series.
+The **Ulat Cup 2021** (***UCUP 2021***) was a double-elimination 2v2 osu! tournament hosted by ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548). The tournament was open to all teams of two with an ![][flag_ID] Indonesian player as their captain regardless of rank. Despite the change in format from its previous iterations, the tournament was formally regarded as the fourth instalment of the Ulat Bulu Cup tournament series.
 
 ## Tournament schedule
 
