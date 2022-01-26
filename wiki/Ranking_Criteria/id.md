@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 7742320aaa249169bcb0536d8fc19dc7d32015fe
+---
+
 # Ranking criteria
 
 *Untuk ranking criteria [mode permainan](/wiki/Game_mode) yang spesifik, kunjungi: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania)*
@@ -6,7 +11,7 @@ Kumpulan **ranking criteria** ini menjabarkan [aturan dan pedoman](#istilah-umum
 
 Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Lihat *[How to propose Ranking Criteria changes](https://osu.ppy.sh/community/forums/topics/720532)* untuk panduan kontribusi. Catat bahwa perubahan pada bahasa, tata bahasa, atau organisasi dokumen ini dapat melewati tahap post forum selama tidak mengubah arti aturan atau pedoman.
 
-**Perlu diingat bahwa [kode etik modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), panduan [timing lagu dengan birama #/8](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) dan [aturan konten lagu](/wiki/Rules/Song_Content_Rules) adalah bagian dari ranking criteria dan berlaku untuk semua mode permainan.**
+**Perlu diingat bahwa [kode etik modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), panduan [timing lagu dengan birama #/8](/wiki/Guides/Timing_Songs_With_8-Signatures) dan [aturan konten lagu](/wiki/Rules/Song_Content_Rules) adalah bagian dari ranking criteria dan berlaku untuk semua mode permainan.**
 
 ## Glosarium
 
@@ -158,7 +163,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 
 ### Peraturan
 
-- **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) harus digunakan untuk memetakan tanda birama lagu secara akurat.** Jika tanda birama yang salah berlangsung selama lebih dari satu bar, sebuah uninherited timing point harus ditambahkan pada waktu istirahat berikutnya untuk mengatur ulang tanda birama. Untuk birama #/4 yang tidak didukung editor, metronome resets atau pengeditan file `.osu` itu diperbolehkan. Untuk tanda birama yang tidak didukung, lihat [bagan referensi](/wiki/shared/timing/Timing_signature_reference_chart.png), dan lihat [panduan ini](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) untuk informasi lebih lanjut.
+- **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) harus digunakan untuk memetakan tanda birama lagu secara akurat.** Jika tanda birama yang salah berlangsung selama lebih dari satu bar, sebuah uninherited timing point harus ditambahkan pada waktu istirahat berikutnya untuk mengatur ulang tanda birama. Untuk birama #/4 yang tidak didukung editor, metronome resets atau pengeditan file `.osu` itu diperbolehkan. Untuk tanda birama yang tidak didukung, lihat [bagan referensi](/wiki/shared/timing/Timing_signature_reference_chart.png), dan lihat [panduan ini](/wiki/Guides/Timing_Songs_With_8-Signatures) untuk informasi lebih lanjut.
 - **Beatmap harus di-time dengan sempurna.** Ini berarti [BPM](/wiki/Beatmapping/Beats_per_minute) dan [offset](/wiki/Beatmapping/Offset) tersinkron dengan lagu. Beatmap dengan BPM yang terus berubah mungkin mustahil untuk di-time dengan sempurna sehingga harus seakurat mungkin tanpa mempengaruhi gameplay secara negatif. Timing yang rumit selama break atau spinner itu opsional.
 - **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) harus sama di setiap tingkat kesulitan sebuah beatmap.** Setiap titik harus memiliki [BPM](/wiki/Beatmapping/Beats_per_minute) dan [offset](/wiki/Beatmapping/Offset) di setiap tingkat kesulitan.
 - **Tidak boleh ada tambahan [uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) di tingkat kesulitan apapun.** Hal ini dapat secara tidak sengaja memengaruhi denyut menu utama, menambah suara yang tidak diinginkan ke mod Nightcore, atau menyebabkan timing bergeser. Penggunaan yang dapat diterima meliputi:
@@ -185,10 +190,10 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 - **[Hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif) harus menggunakan format file `.wav` atau` .ogg`.** File `.mp3` memiliki sedikit tundaan, dan oleh karena itu hanya digunakan untuk [hitsound pasif](/wiki/Beatmapping/Hitsound#hitsound-pasif), seperti suara ambient.
 - **[Hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif) tidak boleh memiliki tundaan lebih dari 5 milidetik.** "Tundaan" disini merupakan puncak suara daripada awal suara. Hal ini memastikan umpan balik hitsound tersinkron dengan lagu secara efektif. `normal-hitfinish.wav` skin default mengalami sedikit tundaan, namun masih dapat digunakan sebagai hitsound kustom.
 - **Hitsound harus dapat didengar.** Tujuannya adalah untuk memberikan masukan, jadi hitsound dengan volume yang sangat rendah atau sampel yang menyatu dengan sampel lagu tidak dapat diterima. Mode permainan tertentu mencantumkan pengecualian untuk aturan ini pada ranking criteria-nya masing-masing.
-- **Previw point harus disetel dan konsisten di antara semua kesulitan beatmap.** Ini digunakan untuk menu pemilihan lagu dan pratinjau thumbnail online.
+- **Preview point harus disetel dan konsisten di antara semua kesulitan beatmap.** Ini digunakan untuk menu pemilihan lagu dan pratinjau thumbnail online.
 - **Setiap file hitsound harus memiliki durasi setidaknya 25ms.** File yang lebih pendek dapat menyebabkan tidak ada suara yang dimainkan dalam game.
 - **File suara yang sepenuhnya sunyi harus menggunakan [file 44-byte ini](https://up.ppy.sh/files/blank.wav).** File lain memiliki ukuran file yang terlalu besar dan file 0-byte tidak berfungsi.
-- **[Hitsound storyboard](/wiki/Beatmapping/Hitsound#hitsound-pasif) tidak dapat digunakan sebagai pengganti [hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif).** Hal ini memberikan bentuk umpan balik pemain yang tidak akurat. Hitsound storyboard dalam situasi lain dapat diterima, tetapi tidak disarankan. osu!mania dikecualikan dari aturan ini.
+- **[Hitsound storyboard](/wiki/Beatmapping/Hitsound#hitsound-storyboard) tidak dapat digunakan sebagai pengganti [hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif).** Hitsound ini memberikan umpan balik kepada pemain secara tidak akurat. Pada situasi lain, hitsound storyboard dapat digunakan walaupun tidak disarankan. Beatmap-beatmap osu!mania dikecualikan dari aturan ini.
 
 ### Pedoman
 

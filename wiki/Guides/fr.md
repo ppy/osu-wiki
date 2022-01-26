@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 19d497357fd186a011c088fb28c3645fbde1261f
+---
+
 # Guides
 
 Vous trouverez ci-dessous une liste triée des guides créés par les membres de la communauté osu!, la plupart d'entre eux proviennent des forums osu! et ont été transférés sur le wiki osu!
