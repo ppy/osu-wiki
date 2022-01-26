@@ -1,6 +1,6 @@
 # Timing des chansons avec des signatures en #/8
 
-De temps en temps, des musiques sont mappées avec une signature temporelle qui n'est pas divisée en quart de note (par exemple `3/4`, `4/4`, `7/4`, ...) mais en huitièmes de note (par exemple `6/8`, `7/8`, ...). Comme l'éditeur actuel ne prend pas en charge ces signatures #/8 et que nous ne savons pas si cela va changer dans un futur proche, un ajout a été fait à la règle concernant cette question sur la [section correspondante des critères de classement](/wiki/Ranking_Criteria#timing).
+De temps en temps, des musiques sont mappées avec une signature temporelle qui n'est pas divisée en quart de note (par exemple `3/4`, `4/4`, `7/4`, ...) mais en huitièmes de note (par exemple `6/8`, `7/8`, ...). L'éditeur actuel ne prend pas en charge ces signatures #/8 dans un futur proche.
 
 Afin de rendre ce tableau plus compréhensible et d'indiquer plus précisément ce que l'on entend par là, ce guide va maintenant expliquer un peu de théorie musicale pertinente derrière tout cela, et donner des exemples de la façon dont cela se traduit dans osu!. Pour cette raison, [trois beatmapsets](https://assets.ppy.sh/media/wiki/TimeSignatures.rar) ont été préparés pour que vous puissiez les télécharger, et ils seront utilisés comme référence dans ce guide.
 
