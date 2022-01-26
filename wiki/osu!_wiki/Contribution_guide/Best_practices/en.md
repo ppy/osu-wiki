@@ -74,11 +74,11 @@ Reviews are best applied directly through the GitHub web interface. Use the `Add
 
 ![Applying a batch review](img/applying-batch-review.gif)
 
-You may also use the `Commit suggestion` button to apply a single suggestion individually, but don't forget to set a descriptive commit message. Keep in mind however, that fewer commits are better than lots of small ones.
+You may also use the `Commit suggestion` button to apply a single suggestion individually, provided that you make commits sparingly and [with informative messages](#making-edits).
 
 ![Applying a single review](img/applying-single-review.gif)
 
-Using this system will automatically mark suggestions as resolved. When applying reviews manually (e.g. when the reviewer didn't add a direct suggestion), mark them as resolved *after committing the change* to prevent forgetting any. Applying reviews automatically is preferred, as it prevents errors and alleviates reviewers from potentially needing to check if their review was applied correctly, especially when there are many changes.
+Using this system will automatically mark suggestions as resolved. When applying reviews manually (e.g. when the reviewer didn't add a direct suggestion), mark them as resolved *after committing the change* to prevent forgetting any. Letting GitHub apply reviews automatically is preferred, as it ensures that suggestions are applied correctly and prevents any manual copy errors.
 
 ## Resolving conflicts
 
