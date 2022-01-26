@@ -75,7 +75,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 
 #### NoMod
 
-In [tournament](/wiki/Tournaments) matches, **NoMod** (***NM***) refers to not using any mods. Many tournaments require some mods to be used by default as part of their rules or format, such as No Fail or ScoreV2, which become exceptions to this notion.
+In [tournament](/wiki/Tournaments) matches, **NoMod** (***NM***) refers to not using any mods. Many tournaments require some mods to be used by default as part of their rules or format, such as [No Fail](/wiki/Game_modifier/No_Fail) or [ScoreV2](/wiki/Game_modifier/ScoreV2), which become exceptions to this notion.
 
 #### FreeMod
 
