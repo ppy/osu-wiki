@@ -537,7 +537,7 @@ Sunday, 26 September 2021:
 4. In a FreeMod pick, **one player from each team must play with Hidden and the other player must play with either NoMod, Easy, HardRock, Hidden+Easy, or Hidden+HardRock**.
    - Playing a FreeMod pick without any mods activated (NoMod) will incur a **x0.7 score penalty** to the corresponding player.
 5. The tiebreaker will be played under FreeMod conditions, although players are not forced to pick mods.
-    - The x0.7 score penalty for NoMod players does not apply in the tiebreaker. 
+   - The x0.7 score penalty for NoMod players does not apply in the tiebreaker. 
 6. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
