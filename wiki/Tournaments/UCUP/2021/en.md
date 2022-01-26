@@ -475,23 +475,23 @@ Sunday, 26 September 2021:
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
 2. The mappools for each round will be announced by the Tournament Management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) or team(s) who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#reschedule` channel in the tournament's Discord server.
-4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
+4. A referee will create a multiplayer room 10 minutes in advance and will start sending out invites.
 5. If a team does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players and teams who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+7. **NoFail will be enforced in all beatmaps.** This is to ensure that points are awarded more fairly towards players and teams who perform better in general during the course of the beatmap, regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they had failed the beatmap. 
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
-9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most. 
-   - In case the disconnected player fails to report back to their team after the maximum allowance of 15 minutes had passed, the opposing team may be declared to win the match by default.
+9. If a player disconnects between beatmaps, the match can be delayed by up to 15 minutes.
+   - In case the disconnected player fails to report back to their team after the maximum allowance of 15 minutes pass, the opposing team may be declared to win the match by default.
 10. Lag is not a valid reason to nullify a beatmap.
-11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
+11. If any problems occur during the match, the Tournament Management will make a decision based on the referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
-    - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player (and, by extension, their team) may be disqualified right away from the tournament and/or blacklisted from the future iterations of the tournament by the Tournament Management.
+    - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player (and, by extension, their team) may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the Tournament Management.
     - Usage of any tools and programs that are against [osu!'s community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
 
 ### Tournament registration
 
-1. All players who are interested in participating in the tournament are required to form a team of two and register as a team.
+1. All players who are interested in participating in the tournament are required to register as teams of two.
    - In order to be eligible to play in the tournament, a team has to be captained by an ![][flag_ID] Indonesian player.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the Tournament Management.
 3. The list of players and teams who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
@@ -508,20 +508,20 @@ Sunday, 26 September 2021:
 5. Teams are allowed a maximum of **90 seconds** of break in between the beatmaps.
 6. Based on their performance in the Qualifier, teams will be ranked based on their **average rank combined from each individual Qualifier beatmaps**. The 32 teams with the highest average rank combined will advance to the knock-out stages. 
    - If there are two (or more) teams who share the same average rank, the team that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
-7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
+7. Failure to attend in any of the predetermined Qualifier lobbies will result in instant elimination from the tournament.
 
 #### Knock-out stage rules
 
-1. The 32 teams who managed to qualify into the knock-out stages will be matched to each other based on their Qualifiers seeding.
+1. The 32 teams who managed to qualify into the knock-out stages will be matched against each other based on their Qualifier seeding.
 2. Teams will compete against each other using the modified Double Elimination system.
 3. The modified Double Elimination System works as follows:
    - Teams who lose in the upper bracket can still play again on the lower bracket.
    - Teams who lose in the lower bracket will be eliminated from the tournament.
-   - In the Grand Final, the winner of the the Upper Bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, will need to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
+   - In the Grand Final, the winner of the the Upper Bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, will need to win two matches and enforce a bracket reset against their opponent in order to claim the championship title.
 4. Teams who can compete in the next round are determined by the following criteria:
-   - In the Round of 32 and Round of 16, each team needs to win 5 points in order to win a match. (Best-of-9)
-   - In the Quarterfinals and Semifinals each team needs to win 6 points in order to to win a match. (Best-of-11)
-   - In both of the Finals weeks (including the Grand Final), each team needs to win 7 points in order to to win a match. (Best-of-13)   
+   - In the Round of 32 and Round of 16, each team needs to win 5 points in order to win a match (Best-of-9).
+   - In the Quarterfinals and Semifinals each team needs to win 6 points in order to to win a match (Best-of-11).
+   - In both of the Finals weeks (including the Grand Final), each team needs to win 7 points in order to to win a match (Best-of-13).
    - Teams who win by default.
    - If there are teams who are disqualified from the tournament.
 
