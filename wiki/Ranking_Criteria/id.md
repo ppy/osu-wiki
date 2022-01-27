@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 7742320aaa249169bcb0536d8fc19dc7d32015fe
+---
+
 # Ranking criteria
 
 *Untuk ranking criteria [mode permainan](/wiki/Game_mode) yang spesifik, kunjungi: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania)*
@@ -6,7 +11,7 @@ Kumpulan **ranking criteria** ini menjabarkan [aturan dan pedoman](#istilah-umum
 
 Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Lihat *[How to propose Ranking Criteria changes](https://osu.ppy.sh/community/forums/topics/720532)* untuk panduan kontribusi. Catat bahwa perubahan pada bahasa, tata bahasa, atau organisasi dokumen ini dapat melewati tahap post forum selama tidak mengubah arti aturan atau pedoman.
 
-**Perlu diingat bahwa [kode etik modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), panduan [timing lagu dengan birama #/8](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) dan [aturan konten lagu](/wiki/Rules/Song_Content_Rules) adalah bagian dari ranking criteria dan berlaku untuk semua mode permainan.**
+**Perlu diingat bahwa [kode etik modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), panduan [timing lagu dengan birama #/8](/wiki/Guides/Timing_Songs_With_8-Signatures) dan [aturan konten lagu](/wiki/Rules/Song_Content_Rules) adalah bagian dari ranking criteria dan berlaku untuk semua mode permainan.**
 
 ## Glosarium
 
@@ -158,7 +163,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 
 ### Peraturan
 
-- **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) harus digunakan untuk memetakan tanda birama lagu secara akurat.** Jika tanda birama yang salah berlangsung selama lebih dari satu bar, sebuah uninherited timing point harus ditambahkan pada waktu istirahat berikutnya untuk mengatur ulang tanda birama. Untuk birama #/4 yang tidak didukung editor, metronome resets atau pengeditan file `.osu` itu diperbolehkan. Untuk tanda birama yang tidak didukung, lihat [bagan referensi](/wiki/shared/timing/Timing_signature_reference_chart.png), dan lihat [panduan ini](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) untuk informasi lebih lanjut.
+- **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) harus digunakan untuk memetakan tanda birama lagu secara akurat.** Jika tanda birama yang salah berlangsung selama lebih dari satu bar, sebuah uninherited timing point harus ditambahkan pada waktu istirahat berikutnya untuk mengatur ulang tanda birama. Untuk birama #/4 yang tidak didukung editor, metronome resets atau pengeditan file `.osu` itu diperbolehkan. Untuk tanda birama yang tidak didukung, lihat [bagan referensi](/wiki/shared/timing/Timing_signature_reference_chart.png), dan lihat [panduan ini](/wiki/Guides/Timing_Songs_With_8-Signatures) untuk informasi lebih lanjut.
 - **Beatmap harus di-time dengan sempurna.** Ini berarti [BPM](/wiki/Beatmapping/Beats_per_minute) dan [offset](/wiki/Beatmapping/Offset) tersinkron dengan lagu. Beatmap dengan BPM yang terus berubah mungkin mustahil untuk di-time dengan sempurna sehingga harus seakurat mungkin tanpa mempengaruhi gameplay secara negatif. Timing yang rumit selama break atau spinner itu opsional.
 - **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) harus sama di setiap tingkat kesulitan sebuah beatmap.** Setiap titik harus memiliki [BPM](/wiki/Beatmapping/Beats_per_minute) dan [offset](/wiki/Beatmapping/Offset) di setiap tingkat kesulitan.
 - **Tidak boleh ada tambahan [uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) di tingkat kesulitan apapun.** Hal ini dapat secara tidak sengaja memengaruhi denyut menu utama, menambah suara yang tidak diinginkan ke mod Nightcore, atau menyebabkan timing bergeser. Penggunaan yang dapat diterima meliputi:
@@ -181,14 +186,14 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 - **File audio lagu dan file hitsound harus memiliki kualitas yang wajar.** Cobalah untuk menemukan file sumber kualitas tertinggi yang tersedia daripada mengambil file dari situs web video streaming. Lagu harus dinormalisasi ke volume rilis aslinya dan tidak boleh di-encode ke bit rate yang lebih tinggi dari file aslinya.
 - **Beatmap wajib memiliki hitsound.** Hitnormal memberikan umpan balik kepada pemain, dan additions (peluit, tepuk tangan, dan penutup) memberi aksen pada bagian penting dari musik.
   - **beatmap pada osu!mania tidak memerlukan hitsound additions.** Hal ini untuk memudahkan para mapper osu!mania dari berbagai latar belakang untuk didekati dengan lebih mudah. Masih sangat disarankan untuk menambahkan hitsound untuk meningkatkan nuansa beatmap Anda. Jika hitsound tidak digunakan, maka addition dan *sample control point* tidak boleh ditambahkan.
-- **Semua objek yang diklik harus memiliki suara [hitsound aktif](/wiki/Beatmapping/Hitsound#active-hitsound).** Beatmap osu!mania dikecualikan dari ini karena konstruksi ritme mode ini.
-- **[Hitsound aktif](/wiki/Beatmapping/Hitsound#active-hitsound) harus menggunakan format file `.wav` atau` .ogg`.** File `.mp3` memiliki sedikit tundaan, dan oleh karena itu hanya digunakan untuk [hitsound pasif](/wiki/Beatmapping/Hitsound#passive-hitsound), seperti suara ambient.
-- **[Hitsound aktif](/wiki/Beatmapping/Hitsound#active-hitsound) tidak boleh memiliki tundaan lebih dari 5 milidetik.** "Tundaan" disini merupakan puncak suara daripada awal suara. Hal ini memastikan umpan balik hitsound tersinkron dengan lagu secara efektif. `normal-hitfinish.wav` skin default mengalami sedikit tundaan, namun masih dapat digunakan sebagai hitsound kustom.
+- **Semua objek yang diklik harus memiliki suara [hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif).** Beatmap osu!mania dikecualikan dari ini karena konstruksi ritme mode ini.
+- **[Hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif) harus menggunakan format file `.wav` atau` .ogg`.** File `.mp3` memiliki sedikit tundaan, dan oleh karena itu hanya digunakan untuk [hitsound pasif](/wiki/Beatmapping/Hitsound#hitsound-pasif), seperti suara ambient.
+- **[Hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif) tidak boleh memiliki tundaan lebih dari 5 milidetik.** "Tundaan" disini merupakan puncak suara daripada awal suara. Hal ini memastikan umpan balik hitsound tersinkron dengan lagu secara efektif. `normal-hitfinish.wav` skin default mengalami sedikit tundaan, namun masih dapat digunakan sebagai hitsound kustom.
 - **Hitsound harus dapat didengar.** Tujuannya adalah untuk memberikan masukan, jadi hitsound dengan volume yang sangat rendah atau sampel yang menyatu dengan sampel lagu tidak dapat diterima. Mode permainan tertentu mencantumkan pengecualian untuk aturan ini pada ranking criteria-nya masing-masing.
-- **Previw point harus disetel dan konsisten di antara semua kesulitan beatmap.** Ini digunakan untuk menu pemilihan lagu dan pratinjau thumbnail online.
+- **Preview point harus disetel dan konsisten di antara semua kesulitan beatmap.** Ini digunakan untuk menu pemilihan lagu dan pratinjau thumbnail online.
 - **Setiap file hitsound harus memiliki durasi setidaknya 25ms.** File yang lebih pendek dapat menyebabkan tidak ada suara yang dimainkan dalam game.
 - **File suara yang sepenuhnya sunyi harus menggunakan [file 44-byte ini](https://up.ppy.sh/files/blank.wav).** File lain memiliki ukuran file yang terlalu besar dan file 0-byte tidak berfungsi.
-- **[Hitsound storyboard](/wiki/Beatmapping/Hitsound#hitsound-pasif) tidak dapat digunakan sebagai pengganti [hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif).** Hal ini memberikan bentuk umpan balik pemain yang tidak akurat. Hitsound storyboard dalam situasi lain dapat diterima, tetapi tidak disarankan. osu!mania dikecualikan dari aturan ini.
+- **[Hitsound storyboard](/wiki/Beatmapping/Hitsound#hitsound-storyboard) tidak dapat digunakan sebagai pengganti [hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif).** Hitsound ini memberikan umpan balik kepada pemain secara tidak akurat. Pada situasi lain, hitsound storyboard dapat digunakan walaupun tidak disarankan. Beatmap-beatmap osu!mania dikecualikan dari aturan ini.
 
 ### Pedoman
 
@@ -197,7 +202,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 - **[Kompilasi lagu](/wiki/Beatmapping/Song_compilation) harus beirisi 3 lagu atau lebih.** hanya menggunakan 2 lagu dalam kompilasi adalah pengalaman yang kurang menyenangkan bagi pemain, dan harus dipecah menjadi beatmap terpisah. Pengecualian dapat dibuat untuk lagu yang secara eksklusif dirilis bersama.
 - **[Kompilasi lagu](/wiki/Beatmapping/Song_compilation) harus di-mix dengan benar dan tidak boleh memiliki jeda mendadak atau fade panjang di antara lagu yang berbeda.** Lagu yang digunakan untuk kompilasi harus serupa dalam kualitas audio, volume, dan panjangnya. Ini bertujuan untuk memastikan kompilasi memiliki pengalaman gameplay yang sama-sama padu seperti beatmap lainnya.
 - **Lagu yang dipotong harus menjaga kesan umum dan intensitas keseluruhan lagu.** Potongan yang mengubah struktur lagu (seperti tidak memasukkan atau mengatur ulang intro/verse/chorus/outro lagu) dapat menyebabkan misinterpretasi dan seringkali menimbulkan pengalaman bermain yang tidak memuaskan. Ini tidak berlaku untuk potongan resmi atau pembuatan ulang potongan resmi.
-- **[Suara gameplay](/wiki/Skinning/Sounds#gameplay) yang tidak termasuk dalam [hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktifd) harus menggunakan format file `.mp3` atau` .ogg`.** File-file ini biasanya memiliki durasi yang lama dan jika dibandingkan file .wav memiliki ukuran yang lebih besar. Namun, .wav harus digunakan jika menghasilkan ukuran file yang lebih kecil.
+- **[Suara gameplay](/wiki/Skinning/Sounds#gameplay) yang tidak termasuk dalam [hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif) harus menggunakan format file `.mp3` atau` .ogg`.** File-file ini biasanya memiliki durasi yang lama dan jika dibandingkan file .wav memiliki ukuran yang lebih besar. Namun, .wav harus digunakan jika menghasilkan ukuran file yang lebih kecil.
 - **Hindari mengganti hit finish dalam sampel soft/normal dengan sampel kustom yang sering digunakan.** Menggunakan hit finish untuk mewakili snare/bass drum atau melodi lagu dapat terdengar menjengkelkan bagi siapa pun yang menonaktifkan hitsound beatmap. Mengganti whistle/clap direkomendasikan karena sampel tersebut lebih sering digunakan. Beatmap osu!taiko dikecualikan dari pedoman ini dan memiliki pedoman sampel hitsound sendiri.
 
 ## Video dan latar belakang

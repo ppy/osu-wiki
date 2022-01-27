@@ -21,6 +21,7 @@ Below is a sorted list of guides created by members of the osu! community, most 
 - [Setting the offset on the correct beat](Setting_the_Offset_on_the_Correct_Beat)
 - [Using custom hitsounds](Using_custom_hitsounds)
 - [Videos from YouTube](Videos_from_YouTube)
+- [Timing Songs with #/8 Signatures](Timing_Songs_With_8-Signatures)
 
 ## Modding
 

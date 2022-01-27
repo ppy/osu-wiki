@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 3301b00d5740b959a91ed18f5dc55a4660a218bb
 tags:
  - mod
  - game modifier
