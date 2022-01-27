@@ -99,19 +99,19 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Taiwan | ![][flag_TW] | ![][flag_CL] | Chile | Jan 29 (Sat) 12:00 UTC | Jan 29 (Sat) 20:00 UTC+8 | Jan 29 (Sat) 09:00 UTC-3 |
+| United States | ![][flag_US] | ![][flag_ES] | Spain | Jan 29 (Sat) 11:00 UTC | Jan 29 (Sat) 06:00 UTC-5 | Jan 29 (Sat) 12:00 UTC+1 |
+| Taiwan | ![][flag_TW] | ![][flag_CL] | Chile | Jan 29 (Sat) 13:00 UTC | Jan 29 (Sat) 21:00 UTC+8 | Jan 29 (Sat) 10:00 UTC-3 |
 | Poland | ![][flag_PL] | ![][flag_RU] | Russian Federation | Jan 29 (Sat) 14:00 UTC | Jan 29 (Sat) 15:00 UTC+1 | Jan 29 (Sat) 17:00 UTC+3 |
-| Switzerland | ![][flag_CH] | ![][flag_BR] | Brazil | Jan 29 (Sat) 16:00 UTC | Jan 29 (Sat) 17:00 UTC+1 | Jan 29 (Sat) 13:00 UTC-3 |
-| United States | ![][flag_US] | ![][flag_ES] | Spain | Jan 29 (Sat) 18:00 UTC | Jan 29 (Sat) 13:00 UTC-5 | Jan 29 (Sat) 19:00 UTC+1 |
+| Switzerland | ![][flag_CH] | ![][flag_BR] | Brazil | Jan 29 (Sat) 20:00 UTC | Jan 29 (Sat) 21:00 UTC+1 | Jan 29 (Sat) 17:00 UTC-3 |
 
 ### Sunday, January 30, 2022
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_CA] | Canada | Jan 30 (Sun) 01:00 UTC | Jan 30 (Sun) 10:00 UTC+9 | Jan 29 (Sat) 20:00 UTC-5 |
-| Philippines | ![][flag_PH] | ![][flag_TH] | Thailand | Jan 30 (Sun) 05:00 UTC | Jan 30 (Sun) 13:00 UTC+8 | Jan 30 (Sun) 12:00 UTC+7 |
+| South Korea | ![][flag_KR] | ![][flag_CA] | Canada | Jan 30 (Sun) 03:00 UTC | Jan 30 (Sun) 12:00 UTC+9 | Jan 29 (Sat) 22:00 UTC-5 |
 | China | ![][flag_CN] | ![][flag_ID] | Indonesia | Jan 30 (Sun) 07:00 UTC | Jan 30 (Sun) 15:00 UTC+8 | Jan 30 (Sun) 14:00 UTC+7 |
-| Malaysia | ![][flag_MY] | ![][flag_JP] | Japan | Jan 30 (Sun) 09:00 UTC | Jan 30 (Sun) 17:00 UTC+8 | Jan 30 (Sun) 18:00 UTC+9 |
+| Philippines | ![][flag_PH] | ![][flag_TH] | Thailand | Jan 30 (Sun) 11:00 UTC | Jan 30 (Sun) 19:00 UTC+8 | Jan 30 (Sun) 18:00 UTC+7 |
+| Malaysia | ![][flag_MY] | ![][flag_JP] | Japan | Jan 30 (Sun) 14:00 UTC | Jan 30 (Sun) 22:00 UTC+8 | Jan 30 (Sun) 23:00 UTC+9 |
 
 ## Mappools
 
