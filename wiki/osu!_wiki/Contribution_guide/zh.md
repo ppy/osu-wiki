@@ -1,6 +1,6 @@
 # osu! wiki 贡献指南
 
-感谢你有兴趣让 osu! wiki 变得更好！这篇文章逐步介绍了贡献过程。如果你熟悉 Github，则可以按照通用功能分支工作流程提出更改并跳到[自检](#自检)部分。
+感谢你有兴趣让 osu! wiki 变得更好！这篇文章逐步介绍了贡献过程。如果你熟悉 GitHub，则可以按照通用功能分支工作流程提出更改并跳到[自检](#自检)部分。
 
 如果你对某些内容感到困惑，需要帮助，欢迎在 [osu!dev Discord 频道](https://discord.gg/ppy)（ `#osu-wiki` 频道）中询问我们。
 
@@ -14,7 +14,7 @@
 
 osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献，请按如下操作：
 
-0. [创建](https://github.com/signup)一个 Github 账号。
+0. [创建](https://github.com/signup)一个 GitHub 账号。
 1. 打开 [`ppy/osu-wiki`][osu_wiki] 仓库，然后点击右上角的 `Fork` 来制作可控的 wiki 副本分支。如果想要回到你的分支，前往 [`ppy/osu-wiki`][osu_wiki] 仓库然后再次按下 `Fork`。
 
   - 如果你的分支已经因 Fork 过久以致过时，请按照[最佳实践 § 同步分支](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork)来同步你的分支。
@@ -51,8 +51,8 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 如果一段时间内没有人检查你的文章，请尝试这样做：
 
 - 确保你已解决所有建议 - 他们可能在等待你的回复。
-- 在 [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server)（`#osu-wiki` 频道）或者 Github 的评论中询问其他 osu! wiki 编辑者。
-- 要获得翻译帮助，请检查几个你的语言的已合并 Pull request，并与他们的审阅者或者作者联系（[示例 GitHub 查询](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BZH%5D)。注：对于中文文章，你可以在 Github 的评论或描述中 `@osu-translate-zh` 来寻求 osu!中文翻译组织 的审阅。
+- 在 [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server)（`#osu-wiki` 频道）或者 GitHub 的评论中询问其他 osu! wiki 编辑者。
+- 要获得翻译帮助，请检查几个你的语言的已合并 Pull request，并与他们的审阅者或者作者联系（[示例 GitHub 查询](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BZH%5D)。注：对于中文文章，你可以在 GitHub 的评论或描述中 `@osu-translate-zh` 来寻求 osu!中文翻译组织 的审阅。
 - 叫你的朋友快速检查一下！
 
 除了人工审核过程之外，osu! wiki 存储库也可以进行 [自动检查](/wiki/osu!_wiki/Maintenance#ci-checks)，可确保你的更改遵循 wiki 的通用样式并且没有格式错误。 要查看它们的状态，请在 `Actions` 选项卡中找到你的 Pull request，然后按照错误下面的诊断消息（如果有）进行操作。
