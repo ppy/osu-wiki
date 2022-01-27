@@ -19,7 +19,7 @@ Les [spinners](/wiki/Hit_object/Spinner) et les [sliders](/wiki/Hit_object/Slide
 
 ## Hitsound actif
 
-Un hitsound est considéré comme *actif* s'il est sur un objet cliquable, par exemple un hitcircle ou un slider head. Cela aide les joueurs à juger si il cliquent trop tôt ou trop tard en jouant un son clair et puissant au moment de cliquer. Si l'objet est cliqué correctement, le son sera en accord avec le beat de la musique.
+Un hitsound est considéré comme *actif* s'il est sur un objet cliquable, par exemple un hitcircle ou un slider head. Cela aide le joueur à juger s'il clique trop tôt ou trop tard en jouant un son clair et puissant au moment de cliquer. Si l'objet est cliqué correctement, le son sera en accord avec le beat de la musique.
 
 ## Hitsound passif
 
@@ -27,7 +27,7 @@ Si un hitsound est une partie non cliquable d'un objet, par exemple une répéti
 
 ## Hitsound storyboardé
 
-Les sets de hitsounds peuvent être ajouter à travers le storyboarding pour imiter les hitsounds. Ils sont différent des hitsounds actuels, cependant, ils sont toujours jouer dans un temps donnée indépendamment de comment le joueur clique sur l'objet. Pour cette raison, ils sont souvent déconseillé. Plusieurs mappeurs utilise ces derniers pour maintenir un pattern d'hitsounds entre les objets.
+Les sets de hitsounds peuvent être ajoutés à travers le storyboarding pour imiter les hitsounds. Ils sont différents des hitsounds actuels, cependant, ils sont toujours joués dans un temps donné indépendamment de comment le joueur clique sur l'objet. Pour cette raison, ils sont souvent déconseillés. Plusieurs mappeurs utilisent ces derniers pour maintenir un pattern de hitsounds entre les objets.
 
 ## Keysound
 
