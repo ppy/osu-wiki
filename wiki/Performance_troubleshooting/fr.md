@@ -1,13 +1,15 @@
----
-outdated: true
-outdated_since: 7a800e4ec3986ff1f135020a46e7c208287d0b2a
----
-
 # Dépannage des performances d'osu!
 
 osu! fait de son mieux pour fonctionner avec des paramètres par défaut sains et vous avertit de manière proactive si vous faites ou exécutez quelque chose qui pourrait entraîner une baisse des performances de votre jeu.
 
 Malheureusement, en raison de l'étendue du matériel sur lequel fonctionne osu!, il est très difficile de garantir des performances optimales pour chaque utilisateur. Cette page a pour but de vous aider à auto-diagnostiquer les problèmes de performance que vous rencontrez, mais elle fournit également des termes spécifiques que vous pouvez apprendre (et des vérifications que vous pouvez effectuer) pour nous aider lorsque vous contactez le support.
+
+## Points à vérifier
+
+- Utilisez-vous un skin ? Si c'est le cas, essayez de revenir au skin par défaut et voyez si les choses s'améliorent. Certains skins peuvent être conçus d'une manière qui peut entraîner des problèmes de performances sur certains ou tous les systèmes.
+- Votre limiteur d'images est-il réglé sur "illimité" ? Réglez-le sur "optimal" et voyez si cela vous aide. Voir [sa section ci-dessous](#illimité) pour plus d'informations sur les raisons pour lesquelles "illimité" n'est généralement pas le meilleur choix.
+- Vous êtes en mode fenêtré ? Passez en mode plein écran.
+- Avez-vous mis à jour vos pilotes (en particulier le GPU) ? Essayez de le faire et voyez si les choses s'améliorent. Sinon, si vous les avez récemment mis à jour, essayez de revenir en arrière.
 
 ## Les types de "lags"
 
