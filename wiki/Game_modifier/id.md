@@ -4,6 +4,7 @@ tags:
  - game modifier
  - overview
  - list of mods
+ - daftar mod
  - NoMod
  - No Mod
  - FreeMod
@@ -14,9 +15,9 @@ tags:
 
 *Untuk penggunaan lainnya, lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod).*
 
-![Layar pemilihan mod](img/mod-selection-screen-ID.jpg "perbandingan layar pemilihan mod antara mode permainan osu!(kiri atas), osu!taiko (kanan atas), osu!catch (kiri bawah), dan osu!mania (kanan bawah)")
+![Layar pemilihan mod](img/mod-selection-screen-ID.jpg "perbandingan layar pemilihan mod antara mode permainan osu! (kiri atas), osu!taiko (kanan atas), osu!catch (kiri bawah), dan osu!mania (kanan bawah)")
 
-**Game modifier** (disingkat menjadi "mod") merupakan sebuah modifikasi opsional terhadap elemen dan tingkat kesulitan dari sebuah [beatmap](/wiki/Beatmap) di mana pemain dapat mengaktifkannya melalui `Layar Pemilihan Mod` (di atas). Mod dapat membuat beatmap menjadi lebih mudah, lebih sulit, atau hanya untuk kesenangan saja.
+**Game modifier** (yang pada umumnya disingkat sebagai "mod") merupakan elemen permainan yang dapat mengubah ataupun memodifikasi tampilan serta tingkat kesulitan dari suatu [beatmap](/wiki/Beatmap). Mod-mod yang ada di osu! dapat diaktifkan dari `Layar Pemilihan Mod` (sebagaimana yang tertera di atas), di mana penggunaan suatu mod dapat membuat beatmap menjadi lebih mudah, lebih sulit, atau murni ditujukan untuk kesenangan semata.
 
 Pemain dapat mengakses `Layar Pemilihan Mod` pada layar pemilihan lagu dengan mengklik tombol `Mods` di pojok kiri bawah layar atau dengan menekan `F1`. Setelah memasuki `Layar Pemilihan Mod`, Shortcut untuk memilih mod tertentu juga tersedia. Shortcut tersebut dapat diubah melalui pengaturan.
 
@@ -67,15 +68,15 @@ Setiap mod yang berada di bawah, mempunyai ikon dari mode permainan yang sesuai 
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-### Istilah-istilah terkait dengan mod
+### Istilah-istilah yang terkait dengan mod
 
 #### NoMod
 
-Di dalam sebuah pertandingan [turnamen](/wiki/Tournaments), Istilah **NoMod** (***NM***) digunakan untuk map yang harus dimainkan tanpa menggunakan mod apapun. Banyak turnamen-turnamen mewajibkan penggunaan mod tertentu sebagai mod yang harus digunakan selama pertandingan seperti [No Fail](/wiki/Game_modifier/No_Fail) atau [ScoreV2](/wiki/Game_modifier/ScoreV2), sehingga *NoMod* juga dapat berarti map yang dimainkan hanya akan menggunakan mod-mod tersebut saja.
+Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **NoMod** (***NM***) mengacu pada beatmap-beatmap yang harus dimainkan tanpa menggunakan mod apapun (di samping [No Fail](/wiki/Game_modifier/No_Fail) dan [ScoreV2](/wiki/Game_modifier/ScoreV2) yang pada umumnya merupakan syarat wajib turnamen).
 
 #### FreeMod
 
-Di dalam sebuah pertandingan [turnamen](/wiki/Tournaments), Istilah **FreeMod** (***FM***) digunakan untuk map yang dimainkan dapat dengan menggunakan sebuah mod apapun atau kombinasi dari beberapa mod. Beberapa turnamen juga memiliki aturan khusus dalam pemilihan mod atau kombinasi mod yang diperbolehkan, atau bahkan memperbolehkan tidak menggunakan mod apapun pada map-map tersebut.
+Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **FreeMod** (***FM***) mengacu pada beatmap-beatmap yang dapat dimainkan baik dengan ataupun tanpa mod. Turnamen-turnamen tertentu terkadang memiliki aturan khusus yang mempersyaratkan mod-mod apa saja yang dapat digunakan serta komposisi penggunaan mod seperti apa yang diperbolehkan pada beatmap-beatmap FreeMod.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
