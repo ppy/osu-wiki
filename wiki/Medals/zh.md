@@ -4,11 +4,11 @@
 
 ## 曲包
 
-**曲包奖章**在完成某些[主题曲包](https://osu.ppy.sh/beatmaps/packs?type=theme)或者[艺术家/专辑曲包](https://osu.ppy.sh/beatmaps/packs?type=artist)后获得。这些奖章通过完成曲包中每个谱面集的其中一个难度来获得。
+**曲包奖章**在完成某些[主题曲包](https://osu.ppy.sh/beatmaps/packs?type=theme)或者[艺术家/专辑曲包](https://osu.ppy.sh/beatmaps/packs?type=artist)后获得。这些奖章通过完成曲包中每个谱面集的任意一个难度来获得。
 
 除非另外说明，否则必须在 [osu!](/wiki/Game_mode/osu!) 游戏模式中完成谱面才有资格获得奖章。允许使用[降低难度的 mods](/wiki/Game_modifier#difficulty-reduction) 和[提升难度的 mods](/wiki/Game_modifier#difficulty-increase)。
 
-然而值得注意的是，所有 Video Game Packs, Anime Packs, Internet! Pack 和 Rhythm Game Packs 自 [2008 年首次推出](https://osu.ppy.sh/community/forums/topics/1853) 以来发生了巨大变化。 有关处于旧版的曲包的列表，请参见[旧版曲包](/wiki/Medals/Legacy_beatmap_packs)。
+然而值得注意的是，所有 Video Game Packs, Anime Packs, Internet! Pack 和 Rhythm Game Packs 自 [2008 年首次推出](https://osu.ppy.sh/community/forums/topics/1853) 以来已经发生了巨大变化。欲查看旧版曲包的列表，参见[旧版曲包](/wiki/Medals/Legacy_beatmap_packs)。
 
 ## 实力
 
