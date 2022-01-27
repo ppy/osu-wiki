@@ -14,9 +14,9 @@ To the surprise of exactly nobody, 2021 is in fact a year like any other, and na
 
 There's one catch: **you have to have played the map at least once during 2021**. Duh.
 
-The top 10 most popular picks for each gamemode will be anointed as the Community Favourites as 2021, earning the #1 pick a shiny new profile badge and 6 months of osu!supporter to carry them half way through the year towards their next award-winning creation.
+The top 10 most popular picks for each game mode will be appointed as the Community Favourites of 2021, earning the #1 pick a shiny new profile badge and 6 months of osu!supporter to carry them halfway through this year towards their next award-winning creation.
 
-Much like last year, we'll also be doing a special **Mappers' Favourite of 2021** award to spice things up a bit for each game mode. If you've ranked a map at any point in history, your vote will automagically count towards this particular award - you don't need to do anything else to participate outside of voting normally.
+Much like last year, we'll also be doing a special **Mappers' Favourite of 2021** award to spice things up a bit for each game mode. If you've ranked a map at any point in history, your vote will automagically count towards this particular award ⁠— you don't need to do anything else to participate outside of voting normally.
 
 To get the ball rolling, we've decided to also include some entirely unrelated statistics below to help illustrate just how much of a titan 2021 was for mapping:
 
@@ -28,9 +28,9 @@ To get the ball rolling, we've decided to also include some entirely unrelated s
 Excited? You should be! Now, go vote:
 
 - [osu!](https://osu.ppy.sh/community/contests/138)
-- [osu!taiko](https://osu.ppy.sh//community/contests/139)
-- [osu!catch](https://osu.ppy.sh//community/contests/140)
-- [osu!mania](https://osu.ppy.sh//community/contests/141)
+- [osu!taiko](https://osu.ppy.sh/community/contests/139)
+- [osu!catch](https://osu.ppy.sh/community/contests/140)
+- [osu!mania](https://osu.ppy.sh/community/contests/141)
 
 The voting will remain open for **14 days** from the date of this post, so make sure to get involved quick! 
 
