@@ -21,7 +21,7 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 - [Mengatur offset dengan ketukan yang tepat](Setting_the_Offset_on_the_Correct_Beat)
 - [Menambahkan hitsound khusus](Using_custom_hitsounds)
 - [Video dari YouTube](Videos_from_YouTube)
-- [Timing lagu dengan birama #/8](Timing_Songs_With_8-Signatures)
+- [Menentukan timing lagu dengan birama #/8](Timing_Songs_With_8-Signatures)
 
 ## Modding
 
