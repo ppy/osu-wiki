@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 8dff6615e53eaa5370c5a9078b365f55f65dccc1
----
-
 # Bonnes pratiques
 
 Cette page couvre certaines des tâches auxquelles vous pouvez être confronté lors de votre contribution. Les approches mentionnées ici sont destinées à faciliter le processus et peuvent être appliquées à d'autres projets hébergés sur GitHub ou des plateformes similaires.
@@ -73,6 +68,18 @@ Une pull request montre aux autres utilisateurs comment vos modifications vont a
   - [La résolution automatique des issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
 - Assurez-vous de cocher la case "`Allow edits from maintainers`, car cela permettra aux maintainers du wiki de vous aider à améliorer la pull request si nécessaire.
 
+## Appliquer les reviews
+
+Les reviews sont mieux appliquées directement par l'interface web de GitHub. Utilisez le bouton `Add suggestion to batch` dans l'onglet `Files changed` pour appliquer plusieurs reviews simultanément.
+
+![Application d'un batch review](img/applying-batch-review.gif)
+
+Vous pouvez également utiliser le bouton `Commit suggestion` pour appliquer une seule suggestion individuellement, à condition que vous fassiez des commits avec parcimonie et [avec des messages informatifs](#faire-des-modifications).
+
+![Application d'un seul review](img/applying-single-review.gif)
+
+L'utilisation de ce système marquera automatiquement les suggestions comme résolues. Lorsque vous appliquez les révisions manuellement (par exemple, lorsque le reviewer n'a pas ajouté de suggestion directe), marquez-les comme résolues *après avoir validé la modification* pour éviter d'en oublier. Il est préférable de laisser GitHub appliquer les reviews automatiquement, car cela garantit que les suggestions sont appliquées correctement et évite toute erreur de copie manuelle.
+
 ## Résoudre les conflits
 
 Il y a deux raisons pour lesquelles un conflit a pu se produire :
@@ -85,7 +92,7 @@ En fonction de la gravité des conflits, vous avez deux possibilités pour réso
 1. Si votre demande de modification comporte le bouton `Resolve conflicts`, cliquez dessus. Cela ouvrira une version légèrement différente de l'éditeur web.
 
    1. GitHub mettra en évidence les zones conflictuelles. Trouvez l'une d'entre elles.
-   2. Tout ce qui ce trouve de`<<<<<<<` à `=======` sont vos changements, alors que tout ce qui ce trouve de `=======` à `>>>>>>> master` est ce qui se trouve dans la branche `ppy/master`.
+   2. Tout ce qui ce trouve de `<<<<<<<` à `=======` sont vos changements, alors que tout ce qui ce trouve de `=======` à `>>>>>>> master` est ce qui se trouve dans la branche `ppy/master`.
    3. A partir de là, vous devrez corriger manuellement le conflit et supprimer les lignes portant les mentions `<<<<<<<`, `=======`, et `>>>>>>> master`.
    4. Répétez le processus pour tous les conflits.
    5. Une fois terminé, cliquez sur `Mark as resolved` (ceci n'est disponible que lorsque toutes les parties conflictuelles du fichier sont résolues).
