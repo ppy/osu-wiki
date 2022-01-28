@@ -1,17 +1,12 @@
----
-outdated: true
-outdated_since: 7742320aaa249169bcb0536d8fc19dc7d32015fe
----
-
 # Ranking criteria
 
 *Untuk ranking criteria [mode permainan](/wiki/Game_mode) yang spesifik, kunjungi: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania)*
 
-Kumpulan **ranking criteria** ini menjabarkan [aturan dan pedoman](#istilah-umum) yang harus diikuti [beatmaps](/wiki/Beatmap) untuk melalui [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
+Kumpulan **ranking criteria** ini menjabarkan [aturan dan pedoman](#istilah-umum) yang harus diikuti [beatmap](/wiki/Beatmap) untuk melalui [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
 
-Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Lihat *[How to propose Ranking Criteria changes](https://osu.ppy.sh/community/forums/topics/720532)* untuk panduan kontribusi. Catat bahwa perubahan pada bahasa, tata bahasa, atau organisasi dokumen ini dapat melewati tahap post forum selama tidak mengubah arti aturan atau pedoman.
+Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Lihat *[How to propose Ranking Criteria changes](https://osu.ppy.sh/community/forums/topics/720532)* untuk panduan kontribusi. Perlu diingat bahwa perubahan pada bahasa, tata bahasa, atau organisasi dokumen ini dapat melewati tahap post forum selama tidak mengubah arti aturan atau pedoman.
 
-**Perlu diingat bahwa [kode etik modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), panduan [timing lagu dengan birama #/8](/wiki/Guides/Timing_Songs_With_8-Signatures) dan [aturan konten lagu](/wiki/Rules/Song_Content_Rules) adalah bagian dari ranking criteria dan berlaku untuk semua mode permainan.**
+**Perlu diingat bahwa [kode etik dalam modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) dan [aturan konten musik](/wiki/Rules/Song_Content_Rules) adalah bagian dari ranking criteria dan berlaku untuk semua mode permainan.**
 
 ## Glosarium
 
@@ -26,20 +21,20 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 
 - **Tidak ada dua hit object yang dapat ditempatkan pada tick yang sama.** Hal ini termasuk hit circle dan durasi slider dan spinner. beatmap osu!mania dikecualikan dari peraturan ini.
 - **Tidak boleh ada gambar tidak senonoh di background/storyboard/konten video.** Hal ini termasuk ketelanjangan, hampir ketelanjangan, referensi seksual, kekerasan, penyalahgunaan obat, dll. Lihat [Pertimbangan Konten Visual](/wiki/Rules/Visual_Content_Considerations) untuk aturan yang lebih detail.
-- **Beatmap yang berisi lampu tembak yang berulang, gambar yang berkedip, atau perubahan kontras, kecerahan atau warna yang cepat dalam storyboard atau video harus menggunakan peringatan epilepsi.** Jika peringatan mengganggu gameplay, audio lead-in harus dibuat lebih lama. Efek kedip pada 3 Hz (3 kedipan per detik) dan di bawahnya tidak memungkinkan timbulnya kekhawatiran. Jika ragu, tambahkan peringatan dan konfirmasi kebutuhannya selama proses modding.
+- **Beatmap dengan storyboard atau video yang mengandung sorotan cahaya yang berulang, gambar yang berkedip, atau elemen visual yang kontras, kecerahan, atau warnanya berubah dengan cepat dalam jangka waktu yang singkat harus menggunakan peringatan epilepsi.** Jika peringatan mengganggu gameplay, audio lead-in harus dibuat lebih lama. Efek kedip pada 3 Hz (3 kedipan per detik) dan di bawahnya tidak memungkinkan timbulnya kekhawatiran. Jika ragu, tambahkan peringatan dan konfirmasi kebutuhannya selama proses modding.
 - **Tidak boleh ada file yang tidak digunakan atau file 0-byte di folder beatmap.** File 0-byte mencegah file lain di folder beatmap untuk diunggah dengan benar. File `thumbs.db` yang dibuat secara otomatis adalah satu-satunya pengecualian.
-- **[Waktu istirahat](/wiki/Beatmap/Break) harus disisipkan dengan batasan [editor beatmap](/wiki/Client/Beatmap_editor).**
-- **[Pengaturan tingkat kesulitan](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) tidak boleh menggunakan presisi lebih dari yang mungkin di [editor beatmap](/wiki/Client/Beatmap_editor).**
-- **Pengaturan `Letterbox saat istirahat` harus konsisten antara tingkat kesulitan pada mode yang sama jika terdapat periode istirahat dan jika disertakan, storyboard yang sama.**
+- **[Break](/wiki/Beatmap/Break) harus disisipkan dengan batasan [editor beatmap](/wiki/Client/Beatmap_editor).**
+- **[Pengaturan tingkat kesulitan](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) tidak boleh menggunakan presisi desimal lebih dari yang dapat diatur pada [editor beatmap](/wiki/Client/Beatmap_editor).**
+- **Pengaturan `Letterbox during break` harus konsisten antara tingkat kesulitan pada mode yang sama jika terdapat periode break dan jika disertakan, storyboard yang sama.**
 - **Beatmap yang berisi spoiler untuk media lain harus ditandai dengan peringatan spoiler pada deskripsi beatmap.**
 
 ### Pedoman
 
-- **Pencipta dari segala media yang digunakan dalam beatmap harus diberi pengakuan dalam deskripsi beatmap.** Sesuai dengan [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines), media yang digunakan dalam beatmap harus diizinkan untuk digunakan di osu!, dan kebijakan lisensinya biasanya merinci mengenai cara memberi pengakuan kepada penciptanya. Alasan umum untuk menghilangkan pengakuan dari deskripsi yaitu sulitnya mencari sumber, keinginan pencipta untuk tidak diberi pengakuan, dan adanya pengakuan di kolom artis, judul, atau sumber.
-- **Menggunakan kembali tingkat kesulitan Ranked Anda di Ranked beatmap lainnya itu tidak dianjurkan.** Hal ini ditujukan untuk menghindari konten Ranked berulang.
-- **Slider tick rate tidak boleh dimodifikasi melalui file `.osu`.** Sebagian besar nilai kustom menghasilkan slider tick yang unsnap, namun tick rate 0,5, 1,333, dan 1,5 memiliki kegunaan praktis dan hanya dapat diterapkan jika tidak menyebabkan slider tick ter-unsnap.
+- **Pencipta dari segala media yang digunakan dalam beatmap harus diberikan pengakuan (*credit*) dalam deskripsi beatmap.** Sesuai dengan [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines), media yang digunakan dalam beatmap harus diizinkan untuk digunakan di osu!, dan kebijakan lisensinya biasanya merincikan bagaimana cara memberikan pengakuan kepada penciptanya. Alasan umum untuk menghilangkan pengakuan dari deskripsi yaitu sulitnya mencari sumber, keinginan pencipta untuk tidak diberi pengakuan, dan adanya pengakuan di kolom artis, judul, atau sumber.
+- **Menggunakan kembali tingkat kesulitan Ranked kamu di beatmap Ranked lainnya itu tidak dianjurkan.** Hal ini ditujukan untuk menghindari konten Ranked berulang.
+- **Slider tick rate tidak boleh dimodifikasi melalui file `.osu`.** Sebagian besar nilai kustom menghasilkan slider tick yang *unsnap*, namun tick rate 0,5, 1,333, dan 1,5 memiliki kegunaan praktis dan hanya dapat diterapkan jika tidak menyebabkan slider tick ter-*unsnap*.
 - **Kiai harus dimulai dengan suara dalam musik.** Jika tidak dilakukan, lampu kilat kiai akan terasa tidak mempunyai hubungan dengan lagu.
-- **Pengaturan `Aktifkan hitung mundur` harus konsisten di antara tingkat kesulitan dalam mode yang sama.** Jika tingkat kesulitan tidak memiliki periode intro yang cukup lama untuk hitung mundur, pengaturan ini tidak perlu konsisten.
+- **Pengaturan `Enable countdown` harus konsisten di antara tingkat kesulitan dalam mode yang sama.** Jika tingkat kesulitan tidak memiliki periode intro yang cukup lama untuk hitung mundur, pengaturan ini tidak perlu konsisten.
 
 ## Beatmap
 
@@ -54,7 +49,7 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
   - **...kurang dari 3:30**, tingkat kesulitan terendah dari setiap mode permainan yang disertakan tidak bisa lebih sulit dari Normal.
   - **...antara 3:30 dan 4:15**, tingkat kesulitan terendah dari setiap mode permainan yang disertakan tidak bisa lebih sulit dari Hard.
   - **...antara 4:15 dan 5:00**, kesulitan terendah dari setiap mode permainan yang disertakan tidak bisa lebih sulit dari Insane.
-  - **Kesulitan di bawah tingkat kesulitan tertinggi dapat menggabungkan break times dengan drain time untuk memenuhi persyaratan di atas.** Hal ini tidak berlaku untuk tingkat kesulitan dengan drain time kurang dari 30 detik. Penilaian mengenai kesesuaian elemen permainan yang digunakan untuk tingkat kesulitan terendah Hard dan Insane tergantung pada anggota [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) untuk mode permainan masing-masing.
+  - **Kesulitan di bawah tingkat kesulitan tertinggi dapat menggabungkan break times dengan drain time untuk memenuhi persyaratan di atas.** Hal ini tidak berlaku untuk tingkat kesulitan dengan drain time kurang dari 30 detik. Penilaian mengenai kesesuaian elemen permainan yang digunakan untuk tingkat kesulitan terendah Hard dan Insane tergantung pada para anggota [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) untuk mode permainan masing-masing.
   - **Beatmap osu!mania terikat oleh serangkaian ambang batas *drain time* dan aturan *spread* yang berbeda dengan mode permainan lainnya, yang telah ditentukan dalam [ranking criteria osu!mania](/wiki/Ranking_Criteria/osu!mania).**
 - **Nama tingkat kesulitan dalam beatmap secara jelas harus progresif dan akurat menunjukkan tingkat kesulitan masing-masing, kecuali:**
   - Tingkat kesulitan tertinggi dari setiap mode permainan.
@@ -84,7 +79,7 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 - **Pembuat [guest difficulty](/wiki/Beatmap/Guest_difficulty), storyboard, skin dan hitsound harus ditambahkan ke tags beatmap.** Hal ini bertujuan memberikan pengakuan dan membantu orang lain mengidentifikasi kontributor utama dari beatmap. Nama pengguna yang berisi karakter tunggal dipisahkan oleh spasi harus mengganti spasi dengan garis bawah.
 - **[Sumber metadata utama](/wiki/Beatmap/Primary_metadata_source) harus dijadikan referensi metadata.** Jangan mengubah metadata dari sumber utama kecuali untuk mematuhi aturan pemformatan dan standardisasi di bawah. Jika tidak ada sumber yang tersedia, gunakan sumber yang paling umum dan dapat dikenali.
 - **Artis lagu harus dapat dilacak ke orang yang ada.** Jika tidak ada orang yang tercatat sebagai artis, gunakan `Unknown Artist`. Artis tunggal sebuah lagu tidak boleh merupakan suatu karakter atau program fiksi kecuali jika itu adalah alias artis.
-- **Anda harus menggunakan kolom Sumber/*Source* jika lagu berasal atau terkait langsung dengan media lain seperti video game, film, serial, acara, dll.** Hal ini juga berlaku jika lagu tersebut ditampilkan atau dikaitkan dengan sebuah media setelah dirilis, tetapi utamanya diketahui karena dari sumbernya. Jika sebuah lagu memiliki banyak sumber yang berpotensi, opsi apa pun valid.
+- **Kamu harus menggunakan kolom Sumber/*Source* jika lagu berasal atau terkait langsung dengan media lain seperti video game, film, serial, acara, dll.** Hal ini juga berlaku jika lagu tersebut ditampilkan atau dikaitkan dengan sebuah media setelah dirilis, tetapi utamanya diketahui karena dari sumbernya. Jika sebuah lagu memiliki banyak sumber yang berpotensi, opsi apa pun valid.
   - Bagi remix, aransemen, atau kover yang berdasarkan lagu aslinya, sumber dari lagu aslinya harus digunakan.
   - Nama situs web dapat digunakan sebagai sumber, ketika lagu dikaitkan dengan fenomena budaya tertentu yang berhubungan dengan *platform*, atau lagu tersebut disusun/*composed* sebagai lagu tema/latar belakang dari situs web.
   - Dalam kasus [kompilasi lagu](/wiki/Beatmapping/Song_compilation)/remix/medley/dll. yang memiliki lagu tanpa sumber yang sama, sumber harus diletakkan di tags, bukan di kolom sumber (kecuali kompilasi secara jelas terkait dengan sumber itu sendiri).
@@ -163,14 +158,14 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 
 ### Peraturan
 
-- **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) harus digunakan untuk memetakan tanda birama lagu secara akurat.** Jika tanda birama yang salah berlangsung selama lebih dari satu bar, sebuah uninherited timing point harus ditambahkan pada waktu istirahat berikutnya untuk mengatur ulang tanda birama. Untuk birama #/4 yang tidak didukung editor, metronome resets atau pengeditan file `.osu` itu diperbolehkan. Untuk tanda birama yang tidak didukung, lihat [bagan referensi](/wiki/shared/timing/Timing_signature_reference_chart.png), dan lihat [panduan ini](/wiki/Guides/Timing_Songs_With_8-Signatures) untuk informasi lebih lanjut.
+- **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) harus digunakan untuk memetakan tanda birama lagu secara akurat.** Jika tanda birama yang salah berlangsung selama lebih dari satu bar, sebuah uninherited timing point harus ditambahkan pada break berikutnya untuk mengatur ulang tanda birama. Untuk birama #/4 yang tidak didukung editor, pengaturan ulang metronom (*metronome reset*) atau pengeditan berkas `.osu` diperbolehkan. Untuk tanda birama yang tidak didukung, lihat [bagan referensi](/wiki/shared/timing/Timing_signature_reference_chart.png), dan lihat [panduan ini](/wiki/Guides/Timing_Songs_With_8-Signatures) untuk informasi lebih lanjut.
 - **Beatmap harus di-time dengan sempurna.** Ini berarti [BPM](/wiki/Beatmapping/Beats_per_minute) dan [offset](/wiki/Beatmapping/Offset) tersinkron dengan lagu. Beatmap dengan BPM yang terus berubah mungkin mustahil untuk di-time dengan sempurna sehingga harus seakurat mungkin tanpa mempengaruhi gameplay secara negatif. Timing yang rumit selama break atau spinner itu opsional.
 - **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) harus sama di setiap tingkat kesulitan sebuah beatmap.** Setiap titik harus memiliki [BPM](/wiki/Beatmapping/Beats_per_minute) dan [offset](/wiki/Beatmapping/Offset) di setiap tingkat kesulitan.
 - **Tidak boleh ada tambahan [uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) di tingkat kesulitan apapun.** Hal ini dapat secara tidak sengaja memengaruhi denyut menu utama, menambah suara yang tidak diinginkan ke mod Nightcore, atau menyebabkan timing bergeser. Penggunaan yang dapat diterima meliputi:
   - Menyelaraskan ketukan mod Nightcore dengan dimulainya bagian musik.
   - Mengakomodasi objek dalam bagian musik yang membutuhkan pembagi beat snap yang tidak didukung (mis. 1/11).
 - **Tidak boleh ada dua [uninherited](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) atau dua [inherited timing points](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) di titik yang sama.** Memiliki dua uninherited atau dua inherited timing point di atas satu sama lain akan menyebabkan perilaku yang tidak diinginkan untuk pengaturan kecepatan slider dan volume.
-- **Sebuah [inherited timing point](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) tidak boleh diletakkan sebelum [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) pertama.** Tanpa pengaturan apa pun untuk diturunkan, inherited timing point tidak dapat berfungsi dengan baik. Jika Anda ingin mengubah hitsound atau kecepatan slider sebelum uninherited timing point pertama, uninherited timing point itu harus dipindahkan kembali satu hitungan penuh sehingga inherited timing point dapat digunakan.
+- **Sebuah [inherited timing point](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) tidak boleh diletakkan sebelum [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) pertama.** Tanpa pengaturan apa pun untuk diturunkan, inherited timing point tidak dapat berfungsi dengan baik. Jika kamu ingin mengubah hitsound atau kecepatan slider sebelum uninherited timing point pertama, uninherited timing point itu harus dipindahkan kembali satu hitungan penuh sehingga inherited timing point dapat digunakan.
 - **[Uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) pertama sebuah beatmap tidak dapat digunakan untuk menyalakan kiai** Melakukan ini akan menyebabkan kiai berkedip sebelum objek muncul. Sebuah [inherited point](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) di posisi yang sama dengan uninherited timing point harus digunakan untuk menyalakan kiai.
 - **Objek harus di-snap ke timeline sesuai dengan AiMod.** Objek di bagian musik yang membutuhkan pembagi beat snap yang tidak didukung (mis. 1/11) dapat:
   - Tetap unsnapped, selama sejajar dengan pembagi ketukan yang diinginkan.
@@ -185,7 +180,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 - **Beatmap hanya dapat berisi satu file lagu yang digunakan oleh semua tingkat kesulitan.** Beberapa file lagu dalam satu set beatmap tidak didukung dan menghasilkan perilaku yang tidak terduga dengan waktu pratinjau, metadata, dll.
 - **File audio lagu dan file hitsound harus memiliki kualitas yang wajar.** Cobalah untuk menemukan file sumber kualitas tertinggi yang tersedia daripada mengambil file dari situs web video streaming. Lagu harus dinormalisasi ke volume rilis aslinya dan tidak boleh di-encode ke bit rate yang lebih tinggi dari file aslinya.
 - **Beatmap wajib memiliki hitsound.** Hitnormal memberikan umpan balik kepada pemain, dan additions (peluit, tepuk tangan, dan penutup) memberi aksen pada bagian penting dari musik.
-  - **beatmap pada osu!mania tidak memerlukan hitsound additions.** Hal ini untuk memudahkan para mapper osu!mania dari berbagai latar belakang untuk didekati dengan lebih mudah. Masih sangat disarankan untuk menambahkan hitsound untuk meningkatkan nuansa beatmap Anda. Jika hitsound tidak digunakan, maka addition dan *sample control point* tidak boleh ditambahkan.
+  - **beatmap pada osu!mania tidak memerlukan hitsound additions.** Hal ini untuk memudahkan para mapper osu!mania dari berbagai latar belakang untuk didekati dengan lebih mudah. Masih sangat disarankan untuk menambahkan hitsound untuk meningkatkan nuansa beatmap kamu. Jika hitsound tidak digunakan, maka addition dan *sample control point* tidak boleh ditambahkan.
 - **Semua objek yang diklik harus memiliki suara [hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif).** Beatmap osu!mania dikecualikan dari ini karena konstruksi ritme mode ini.
 - **[Hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif) harus menggunakan format file `.wav` atau` .ogg`.** File `.mp3` memiliki sedikit tundaan, dan oleh karena itu hanya digunakan untuk [hitsound pasif](/wiki/Beatmapping/Hitsound#hitsound-pasif), seperti suara ambient.
 - **[Hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif) tidak boleh memiliki tundaan lebih dari 5 milidetik.** "Tundaan" disini merupakan puncak suara daripada awal suara. Hal ini memastikan umpan balik hitsound tersinkron dengan lagu secara efektif. `normal-hitfinish.wav` skin default mengalami sedikit tundaan, namun masih dapat digunakan sebagai hitsound kustom.
@@ -198,7 +193,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 ### Pedoman
 
 - **File audio dari sebuah lagu tidak boleh diperpanjang secara artifisial untuk memenuhi batasan waktu di bagian beatmap dari kriteria ini.** Hal ini mencakup (tetapi tidak terbatas pada) mengulangi bagian dari file audio, menurunkan [BPM](/wiki/Beatmapping/Beats_per_minute) dari seluruh atau sebagian dari lagu tersebut, atau menambahkan sedikit musik ke lagu tersebut tanpa memasukkannya ke seluruh lagu. Ini tidak berlaku untuk [kompilasi lagu](/wiki/Beatmapping/Song_compilation) atau file audio yang kurang dari panjang beatmap minimum yang dapat di-rank.
-- **Jika Anda tidak membuat map pada 20% terakhir dari file audio beatmap Anda, maka audio harus dipotong.** Waktu intro tidak disertakan. Ini tidak berlaku jika lebih dari 20% outro ditempati oleh storyboard/video, atau jika lebih dari 20% audio lagu tidak dapat dimap karena fade-out atau masalah timing.
+- **Jika kamu tidak membuat map pada 20% terakhir dari file audio beatmap kamu, maka audio harus dipotong.** Waktu intro tidak disertakan. Ini tidak berlaku jika lebih dari 20% outro ditempati oleh storyboard/video, atau jika lebih dari 20% audio lagu tidak dapat dimap karena fade-out atau masalah timing.
 - **[Kompilasi lagu](/wiki/Beatmapping/Song_compilation) harus beirisi 3 lagu atau lebih.** hanya menggunakan 2 lagu dalam kompilasi adalah pengalaman yang kurang menyenangkan bagi pemain, dan harus dipecah menjadi beatmap terpisah. Pengecualian dapat dibuat untuk lagu yang secara eksklusif dirilis bersama.
 - **[Kompilasi lagu](/wiki/Beatmapping/Song_compilation) harus di-mix dengan benar dan tidak boleh memiliki jeda mendadak atau fade panjang di antara lagu yang berbeda.** Lagu yang digunakan untuk kompilasi harus serupa dalam kualitas audio, volume, dan panjangnya. Ini bertujuan untuk memastikan kompilasi memiliki pengalaman gameplay yang sama-sama padu seperti beatmap lainnya.
 - **Lagu yang dipotong harus menjaga kesan umum dan intensitas keseluruhan lagu.** Potongan yang mengubah struktur lagu (seperti tidak memasukkan atau mengatur ulang intro/verse/chorus/outro lagu) dapat menyebabkan misinterpretasi dan seringkali menimbulkan pengalaman bermain yang tidak memuaskan. Ini tidak berlaku untuk potongan resmi atau pembuatan ulang potongan resmi.
@@ -209,7 +204,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 
 ### Peraturan
 
-- **Anda harus memiliki gambar latar belakang pada setiap kesulitan beatmap Anda.** File latar belakang yang berbeda untuk tingkat kesulitan yang berbeda itu diperbolehkan.
+- **Kamu harus memiliki gambar latar belakang pada setiap kesulitan beatmap kamu.** File latar belakang yang berbeda untuk tingkat kesulitan yang berbeda itu diperbolehkan.
 - **Berikut ini adalah persyaratan untuk gambar latar:**
   - **Lebar minimum:** 160px
   - **Tinggi minimum:** 120px
@@ -219,7 +214,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 - **Dimensi video tidak boleh melebihi lebar 1280 dan tinggi 720 pixel.** Selain itu, meng-upscale video resolusi rendah ke resolusi yang lebih tinggi harus dihindari untuk memastikan file video tidak menjadi terlalu besar atau menghabiskan banyak sumber daya.
 - **[Offset](/wiki/Beatmapping/Offset) video harus benar jika itu sinkron dengan lagu.** Offset yang salah dapat menyebabkan representasi visual yang tidak sesuai dengan lagu. Jika video yang sama muncul dalam beberapa tingkat kesulitan, itu harus selalu memiliki offset yang sama.
 - **Trek audio video harus dihapus dari file video.** Trek audio dalam video tidak digunakan di osu!, jadi menghapusnya mengurangi ukuran file dari beatmap tersebut. Ini juga berlaku pada video dengan trek audio yang dibisukan.
-  - *Kunjungi laman [Kompresi berkas § Video](/wiki/Guides/Compressing_files#video) untuk panduan lebih lanjut.*
+  - *Kunjungi laman [Mengompres berkas § Video](/wiki/Guides/Compressing_files#video) untuk panduan lebih lanjut.*
 
 ### Pedoman
 
@@ -229,11 +224,11 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 
 ### Peraturan
 
-- **Jika Anda menggunakan elemen apa pun yang dibuat oleh anggota komunitas lain, mintalah izin terlebih dahulu.** Menghormati karya orang lain adalah hal yang terpenting dan kebanyakan orang akan senang jika karya mereka ditampilkan dalam proyek Anda! Jadi, jika Anda tidak tahu siapa yang membuat elemen yang Anda akan gunakan, Anda tidak boleh menggunakannya.
-- **[Elemen gameplay](/wiki/Ranking_Criteria/Skin_Set_List) harus dapat dilihat.** Anda tidak dapat membuat elemen apa pun yang dapat mengganggu permainan beatmap tidak terlihat karena akan membuat beatmap tidak intuitif atau bahkan mustahil untuk dimainkan (`cursormiddle.png` adalah pengecualian karena mempengaruhi perilaku cursor trail). Elemen yang tidak relevan untuk gameplay dapat transparan hanya jika ada alasan yang valid dan tidak mengganggu penggunaan elemen antarmuka secara negatif.
+- **Jika kamu menggunakan elemen apa pun yang dibuat oleh anggota komunitas lain, mintalah izin terlebih dahulu.** Menghormati karya orang lain adalah hal yang terpenting dan kebanyakan orang akan senang jika karya mereka ditampilkan dalam proyek kamu! Jadi, jika kamu tidak tahu siapa yang membuat elemen yang kamu akan gunakan, kamu tidak boleh menggunakannya.
+- **[Elemen gameplay](/wiki/Ranking_Criteria/Skin_Set_List) harus dapat dilihat.** kamu tidak dapat membuat elemen apa pun yang dapat mengganggu permainan beatmap tidak terlihat karena akan membuat beatmap tidak intuitif atau bahkan mustahil untuk dimainkan (`cursormiddle.png` adalah pengecualian karena mempengaruhi perilaku cursor trail). Elemen yang tidak relevan untuk gameplay dapat transparan hanya jika ada alasan yang valid dan tidak mengganggu penggunaan elemen antarmuka secara negatif.
 - **Elemen skin harus dipotong dengan rapi agar tidak ada artefak ber-pixel di sekitarnya atau bayangan yang setengah terpotong.**
 - **Elemen yang diberi skin tidak boleh melebihi dimensi hingga mereka tumpang tindih dengan elemen skin lainnya yang biasanya tidak tumpang tindih di skin default.** Ini hanya berlaku untuk bagian gambar yang dapat dilihat, yang dapat mengubah pengalaman gameplay dengan menghalangi elemen yang biasanya terlihat secara visual.
-- **Saat meng-skin [elemen gameplay](/wiki/Ranking_Criteria/Skin_Set_List), set lengkap elemen perlu di-skin untuk menghindari konflik antara skin khusus pengguna dan khusus beatmap.** Saat meng-skin elemen yang ditandai sebagai opsional, Anda perlu menyertakan semua elemen yang diperlukan dari set masing-masing, tetapi Anda bebas untuk melewatkan elemen opsional lainnya kecuali mereka dikelompokkan dengan elemen yang Anda skin. Namun, jika elemen skin yang diperlukan dalam satu set tidak akan digunakan atau skin default dipaksa, elemen tersebut tidak perlu disertakan.
+- **Saat meng-skin [elemen gameplay](/wiki/Ranking_Criteria/Skin_Set_List), set lengkap elemen perlu di-skin untuk menghindari konflik antara skin khusus pengguna dan khusus beatmap.** Saat meng-skin elemen yang ditandai sebagai opsional, kamu perlu menyertakan semua elemen yang diperlukan dari set masing-masing, tetapi kamu bebas untuk melewatkan elemen opsional lainnya kecuali mereka dikelompokkan dengan elemen yang kamu telah skin. Namun, jika elemen skin yang diperlukan dalam satu set tidak akan digunakan atau skin default dipaksa, elemen tersebut tidak perlu disertakan.
 
 ### Pedoman
 
@@ -254,7 +249,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 
 ### Peraturan
 
-- **Gambar storyboard tidak boleh memiliki luas lebih dari 17,000,000 pixel untuk menjaga waktu pemuatan gambar besar dalam rentang yang wajar untuk sebagian besar komputer.** Selain itu, saat menggunakannya Anda mungkin perlu mengubah skala gambar Anda sesuai dengan dimensi maksimum internal editor storyboard, yaitu 854 x 480 osu!pixel.
+- **Gambar storyboard tidak boleh memiliki luas lebih dari 17,000,000 pixel untuk menjaga waktu pemuatan gambar besar dalam rentang yang wajar untuk sebagian besar komputer.** Selain itu, saat menggunakannya kamu mungkin perlu mengubah skala gambar kamu sesuai dengan dimensi maksimum internal editor storyboard, yaitu 854 x 480 osu!pixel.
 - **Tingkat kesulitan tidak boleh menampilkan error penguraian saat memuat.** Artinya parser tidak dapat membaca bagian dari instruksi storyboard.
 - **Setelan `Widescreen support` harus konsisten antara tingkat kesulitan yang memiliki storyboard dalam sebuah beatmap,** kecuali storyboard dengan tingkat kesulitan tertentu dirancang untuk aspek rasio yang berbeda.
 
