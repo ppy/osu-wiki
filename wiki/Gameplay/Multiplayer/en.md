@@ -96,7 +96,7 @@ The [options](/wiki/Client/Options) can be accessed by pressing `Ctrl` + `O` whi
 
 There is a phrase in the top-left displaying `Match Setup`, and whether you're the host or a player.
 
-In the middle, there's a box containing information about the player's profile. This will display the account's name, the [total pp](wiki/Performance_points/Total_performance_points), the [overall accuracy](/wiki/Beatmapping/Overall_difficulty), the level, the rank and the [game mode](/wiki/Game_mode) that is currently chosen.
+In the middle, there's a box containing information about the player's profile. This will display the account's name, the [total pp](/wiki/Performance_points/Total_performance_points), the [overall accuracy](/wiki/Beatmapping/Overall_difficulty), the level, the rank and the [game mode](/wiki/Game_mode) that is currently chosen.
 
 At the right side is a button to pause the currently playing song.
 
