@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Denunciare un abuso
 
 ## Non so se dovrei segnalare questo o no
