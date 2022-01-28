@@ -102,7 +102,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | United States | ![][flag_US] | ![][flag_ES] | Spain | Jan 29 (Sat) 11:00 UTC | Jan 29 (Sat) 06:00 UTC-5 | Jan 29 (Sat) 12:00 UTC+1 |
 | Taiwan | ![][flag_TW] | ![][flag_CL] | Chile | Jan 29 (Sat) 13:00 UTC | Jan 29 (Sat) 21:00 UTC+8 | Jan 29 (Sat) 10:00 UTC-3 |
 | Poland | ![][flag_PL] | ![][flag_RU] | Russian Federation | Jan 29 (Sat) 14:00 UTC | Jan 29 (Sat) 15:00 UTC+1 | Jan 29 (Sat) 17:00 UTC+3 |
-| Switzerland | ![][flag_CH] | ![][flag_BR] | Brazil | Jan 29 (Sat) 16:00 UTC | Jan 29 (Sat) 17:00 UTC+1 | Jan 29 (Sat) 13:00 UTC-3 |
+| Switzerland | ![][flag_CH] | ![][flag_BR] | Brazil | Jan 29 (Sat) 20:00 UTC | Jan 29 (Sat) 21:00 UTC+1 | Jan 29 (Sat) 17:00 UTC-3 |
 
 ### Sunday, January 30, 2022
 
