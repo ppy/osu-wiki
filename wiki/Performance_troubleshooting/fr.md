@@ -1,5 +1,6 @@
 ---
-no_native_review: true
+outdated: true
+outdated_since: 7a800e4ec3986ff1f135020a46e7c208287d0b2a
 ---
 
 # Dépannage des performances d'osu!
@@ -12,24 +13,24 @@ Malheureusement, en raison de l'étendue du matériel sur lequel fonctionne osu!
 
 Il est assez difficile de fournir une assistance lorsque tous les types de problèmes sont regroupés sous le seul mot "lag". Commençons donc par définir certains termes pour des scénarios spécifiques.
 
-### Bégaiements audio
+### Saccade audio
 
-La piste audio des beatmaps se rembobine dans le temps ou s'interrompt. En fait, lorsque le jeu est lent, vous pouvez l'entendre dans l'audio. Lors du diagnostic ou du signalement, il peut être utile de :
+La piste audio des beatmaps revient en arrière ou s'interrompt. Lorsque le jeu lag, vous pouvez l'entendre dans l'audio. Lors du diagnostic ou du signalement, il peut être utile de :
 
-- Vérifiez si cela se produit sur tous les périphériques audio disponibles. Si vous utilisez un casque USB, essayez plutôt de vous connecter via la sortie analogique de votre PC.
-- Vérifiez si l'activation du "Mode de compatibilité audio" dans les paramètres est utile.
+- Vérifier si cela se produit sur tous les périphériques audio disponibles. Si vous utilisez un casque USB, essayez plutôt de vous connecter via la sortie analogique de votre PC.
+- Vérifier si l'activation du paramètre "Mode de compatibilité audio" dans les options vous aide.
 
 ### Spike frame
 
-Pendant le jeu, tout ce qui s'affiche à l'écran s'arrête pendant une durée suffisamment longue pour nuire à l'expérience de jeu. Cela peut se produire plus d'une fois, de façon aléatoire ou à intervalles réguliers. Lors du diagnostic ou du signalement, il peut être utile de :
+Lorsque vous êtes en train de jouer, tout ce qui s'affiche à l'écran s'arrête pendant une durée suffisamment longue pour nuire à l'expérience de jeu. Cela peut se produire plus d'une fois, de façon aléatoire ou à intervalles réguliers. Lors du diagnostic ou du signalement, il peut être utile de :
 
-- Comptez combien de fois cela se produit dans une session de jeu moyenne.
-- Vérifiez si cela se produit toujours.
-- Vérifiez la fréquence à laquelle cela se produit, et si c'est à un intervalle régulier.
-- Vérifiez si cela se produit toujours après un redémarrage du PC.
-- Essayez de fermer toute application qui affiche des superpositions sur le jeu (Discord, Steam, NVIDIA Shadowplay, etc.).
-- Assurez-vous que le [mode de jeu](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) est activé. Cela permet à Windows de fournir des cœurs et des ressources dédiés à osu!
-- Ouvrez le gestionnaire des tâches et classez la liste (sous Détails) par CPU. Recherchez toute utilisation élevée du CPU lorsque des pics se produisent, par exemple par un scanner de virus ou de logiciels malveillants en arrière-plan. Vous pouvez exécuter osu! en mode fenêtré ou laisser le gestionnaire de tâches sur un deuxième écran pour diagnostiquer cela pendant que vous jouez ou que vous exécutez une beatmap en auto.
+- Compter combien de fois cela se produit dans une session de jeu moyenne.
+- Vérifier si cela se produit toujours.
+- Vérifier la fréquence à laquelle cela se produit, et si c'est à un intervalle régulier.
+- Vérifier si cela se produit toujours après un redémarrage du PC.
+- Essayer de fermer toute application qui affiche des overlays en jeu (Discord, Steam, NVIDIA Shadowplay, etc.).
+- Vous assurer que le [mode jeu](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) est activé. Cela permet à Windows de fournir des cœurs et des ressources dédiés à osu!.
+- Ouvrir le gestionnaire des tâches et classer la liste (sous Détails) par CPU. Recherchez toute utilisation élevée du CPU lorsque des pics se produisent, par exemple par un scan de virus ou de logiciels malveillants en arrière-plan. Vous pouvez exécuter osu! en mode fenêtré ou laisser le gestionnaire de tâches sur un deuxième écran pour diagnostiquer cela pendant que vous jouez ou que vous exécutez une beatmap avec le mod Auto.
 
 ### Latence d'entrée
 
@@ -47,35 +48,35 @@ Pendant le jeu, un ou plusieurs périphériques d'entrée cessent de répondre. 
 
 ### Faible fréquence d'images
 
-Pendant le jeu, la fréquence d'images ne peut pas suivre, ce qui entraîne des mouvements saccadés et maladroits des objets à l'écran. Cela peut également se traduire par une latence d'entrée perçue plus élevée. Lors du diagnostic ou du signalement, il peut être utile de :
+Pendant le jeu, la fréquence d'images ne peut pas suivre, ce qui entraîne des mouvements saccadés des objets à l'écran. Cela peut également se traduire par une latence d'entrée perçue plus élevée. Lors du diagnostic ou du signalement, il peut être utile de :
 
-- Vérifiez si cela se produit toujours après un redémarrage du PC.
-- Essayez de fermer toute application qui affiche des superpositions sur le jeu (Discord, Steam, NVIDIA Shadowplay, etc.).
-- Assurez-vous que vous ne forcez pas l'activation de vsync dans vos pilotes d'affichage (elle doit être réglée sur "off" ou "préférence de l'application").
-- Essayez de changer le limiteur d'images et voyez si cela améliore la situation.
-- Assurez-vous que vous exécutez osu! en mode plein écran exclusif (et non sans bordure). Cela améliorera toujours les performances.
-- Assurez-vous que le [mode de jeu](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) est activé. Il permet à Windows de fournir des cœurs et des ressources dédiés à osu!
-- Ouvrez le gestionnaire des tâches et classez la liste (sous Détails) par CPU. Recherchez toute utilisation élevée du processeur pendant les périodes de faible fréquence d'images, par exemple par un scanner de virus ou de logiciels malveillants en arrière-plan. Vous pouvez exécuter osu! en mode fenêtré ou laisser le gestionnaire de tâches sur un deuxième écran pour diagnostiquer cela pendant que vous jouez ou que vous exécutez une beatmap en autoplay.
+- Vérifier si cela se produit toujours après un redémarrage du PC.
+- Essayer de fermer toute application qui affiche des overlays sur le jeu (Discord, Steam, NVIDIA Shadowplay, etc.).
+- Vous assurer que vous ne forcez pas l'activation du vsync dans vos pilotes d'affichage (elle doit être réglée sur "off" ou "préférence de l'application").
+- Essayer de changer le limiteur d'images et voir si cela améliore la situation.
+- Vous assurer que vous exécutez osu! en mode plein écran exclusif (et non sans bordure). Cela améliorera toujours les performances.
+- Vous assurer que le [mode de jeu](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) est activé. Il permet à Windows de fournir des cœurs et des ressources dédiés à osu!
+- Ouvrir le gestionnaire des tâches et classer la liste (sous Détails) par CPU. Recherchez toute utilisation élevée du CPU lorsque des pics se produisent, par exemple par un scan de virus ou de logiciels malveillants en arrière-plan. Vous pouvez exécuter osu! en mode fenêtré ou laisser le gestionnaire de tâches sur un deuxième écran pour diagnostiquer cela pendant que vous jouez ou que vous exécutez une beatmap avec le mod Auto.
 
 ## Limiteurs d'images
 
-osu! offre plusieurs choix de limiteurs de frame. Chacun d'entre eux présente des avantages et des inconvénients. Notez que quel que soit le réglage, osu! limitera la fréquence d'images dans les menus pour économiser l'utilisation du CPU.
+osu! offre plusieurs choix de limiteurs d'images. Chacun d'entre eux présente des avantages et des inconvénients. Notez que quel que soit le réglage, osu! limitera la fréquence d'images dans les menus pour économiser l'utilisation CPU.
 
 ### VSync
 
 Ce limiteur d'images repose sur un mécanisme de synchronisation verticale fourni par le pilote. Il garantit l'absence de déchirement de l'écran, mais ajoute 1 à 2 frames de latence en raison de la nécessité de mettre les frames en mémoire tampon avant l'affichage.
 
-Généralement non recommandé pour les écrans 60Hz. Il peut devenir plus utile à des taux de rafraîchissement supérieurs à 120Hz, mais avec les moniteurs GSync et FreeSync, l'obligation d'utiliser VSync pour éviter le déchirement est levée.
+Généralement non recommandé pour les écrans 60Hz. Il peut devenir plus utile à des taux de rafraîchissement supérieurs à 120Hz, mais avec les moniteurs GSync (NVIDIA) et FreeSync (AMD), l'obligation d'utiliser VSync pour éviter le déchirement est levée.
 
 ### Économie d'énergie
 
-Ce limiteur d'images vise à économiser l'énergie tout en offrant une expérience de jeu cohérente. Il fonctionnera à une fréquence de rafraîchissement du moniteur de 2x et tentera de maintenir un rythme d'images constant.
+Ce limiteur d'images vise à économiser l'énergie tout en offrant une expérience de jeu constante. Il fonctionnera à la fréquence de rafraîchissement du moniteur 2 fois inférieure et tentera de maintenir un rythme d'images constant.
 
 Recommandé pour les PC plus anciens ou pour économiser la batterie d'un ordinateur portable.
 
 ### Optimal
 
-Ce limiteur de frame tente de maintenir un taux de frame 8x votre taux de rafraîchissement, avec un maximum de 960 FPS. C'est le limiteur d'images que nous recommandons aux utilisateurs qui ne veulent pas pousser leur CPU/GPU à l'extrême, tout en maintenant des niveaux élevés de performance résultant d'une faible latence d'entrée.
+Ce limiteur d'images tente de maintenir un taux d'images 8 fois supérieure à votre taux de rafraîchissement, avec un maximum de 960 FPS. C'est le limiteur d'images que nous recommandons aux utilisateurs qui ne veulent pas pousser leur CPU/GPU à l'extrême, tout en maintenant des niveaux élevés de performance résultant d'une faible latence d'entrée.
 
 Peut être préféré à illimité afin de réduire le nombre d'images rendues, ce qui réduit le risque de surcharge du [ramasse-miettes](https://fr.wikipedia.org/wiki/Ramasse-miettes_(informatique)) (qui peut entraîner des spike frame).
 
@@ -95,7 +96,7 @@ Néanmoins, si la production de chaleur et la surcharge potentielle de votre mat
 
 *Avis aux utilisateurs de Cutting Edge : si vous changez la valeur de `CustomFrameLimit` pour un nombre supérieur à 999, elle sera ramenée à 999 ; sur Stable, vous pouvez fixer la valeur au-dessus de 1000 sans problème.*
 
-*Attention : vous ne pouvez pas activer ce paramètre avec le raccourci `F7` dans le jeu, même si vous suivez les étapes ci-dessous : vous devez passer à `Custom` dans les Paramètres avant de quitter le jeu pour qu'il soit disponible à la prochaine exécution d'osu!. Sinon, vous devrez à nouveau modifier manuellement le paramètre `FrameSync`.*
+*Attention : vous ne pouvez pas activer ce paramètre avec le raccourci `F7` dans le jeu, même si vous suivez les étapes ci-dessous : vous devez passer à `Personnalisée` dans les options avant de quitter le jeu pour qu'il soit disponible à la prochaine exécution d'osu!. Sinon, vous devrez à nouveau modifier manuellement le paramètre `FrameSync`.*
 
 Ce limiteur d'images tente de maintenir une fréquence d'images égale à vos préférences. Cependant, il s'agit d'un paramètre qui ne peut être modifié par défaut dans le menu du jeu.
 

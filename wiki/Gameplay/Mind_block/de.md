@@ -11,7 +11,7 @@ tags:
 
 # Denkblockade
 
-*Nicht zu verwechseln mit [Notelock](/wiki/Gameplay/Notelock) oder [Fingerlock](/wiki/Gameplay/Fingerlock).*
+*Nicht zu verwechseln mit [Notelock](/wiki/Gameplay/Judgement/Notelock) oder [Fingerlock](/wiki/Gameplay/Fingerlock).*
 
 **Denkblockade** oder **Mindblock** ist ein Begriff, der verwendet wird, um zu beschreiben, wenn ein Spieler wiederholt an einem zuvor einfachen Abschnitt einer [Beatmap](/wiki/Beatmap) scheitert oder ihn verfehlt, oft als Ergebnis des wiederholten Versuchs der Beatmap. Der Begriff wird als "Denkblockade" bezeichnet, da das Ereignis, das er beschreibt, den Eindruck erweckt, dass das Gehirn (der Verstand) des Spielers im übertragenen Sinne daran gehindert wird, eine Full Combo zu erzielen oder den besagten Abschnitt abzuschließen.
 

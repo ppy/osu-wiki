@@ -41,7 +41,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | :-- | :-- |
 | Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Mappool selector | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750) |
-| Commentator | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576) |
+| Commentator | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_US] [-Sparky-](https://osu.ppy.sh/users/3187959) |
 | Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 
@@ -93,7 +93,73 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | ![][flag_GB] | **United Kingdom** | **[Vygatron](https://osu.ppy.sh/users/3628783)**, [username1947](https://osu.ppy.sh/users/16162078), [Lelloq](https://osu.ppy.sh/users/8610776), [aid\_](https://osu.ppy.sh/users/12808079) |
 | ![][flag_US] | **United States** | **[Alter-](https://osu.ppy.sh/users/4980256)**, [Terni](https://osu.ppy.sh/users/3279570), [\[GS\]Teo](https://osu.ppy.sh/users/7081478), [RevVoJH](https://osu.ppy.sh/users/7286896) |
 
+## Match schedule: Quarterfinals
+
+### Saturday, January 29, 2022
+
+| Team A | | | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| United States | ![][flag_US] | ![][flag_ES] | Spain | Jan 29 (Sat) 11:00 UTC | Jan 29 (Sat) 06:00 UTC-5 | Jan 29 (Sat) 12:00 UTC+1 |
+| Taiwan | ![][flag_TW] | ![][flag_CL] | Chile | Jan 29 (Sat) 13:00 UTC | Jan 29 (Sat) 21:00 UTC+8 | Jan 29 (Sat) 10:00 UTC-3 |
+| Poland | ![][flag_PL] | ![][flag_RU] | Russian Federation | Jan 29 (Sat) 14:00 UTC | Jan 29 (Sat) 15:00 UTC+1 | Jan 29 (Sat) 17:00 UTC+3 |
+| Switzerland | ![][flag_CH] | ![][flag_BR] | Brazil | Jan 29 (Sat) 20:00 UTC | Jan 29 (Sat) 21:00 UTC+1 | Jan 29 (Sat) 17:00 UTC-3 |
+
+### Sunday, January 30, 2022
+
+| Team A | | | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| South Korea | ![][flag_KR] | ![][flag_CA] | Canada | Jan 30 (Sun) 03:00 UTC | Jan 30 (Sun) 12:00 UTC+9 | Jan 29 (Sat) 22:00 UTC-5 |
+| China | ![][flag_CN] | ![][flag_ID] | Indonesia | Jan 30 (Sun) 07:00 UTC | Jan 30 (Sun) 15:00 UTC+8 | Jan 30 (Sun) 14:00 UTC+7 |
+| Philippines | ![][flag_PH] | ![][flag_TH] | Thailand | Jan 30 (Sun) 11:00 UTC | Jan 30 (Sun) 19:00 UTC+8 | Jan 30 (Sun) 18:00 UTC+7 |
+| Malaysia | ![][flag_MY] | ![][flag_JP] | Japan | Jan 30 (Sun) 14:00 UTC | Jan 30 (Sun) 22:00 UTC+8 | Jan 30 (Sun) 23:00 UTC+9 |
+
 ## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here (109 MB)](https://drive.google.com/uc?id=1JhpOSJ2m2jt1XHeuvM71hqZBBiZvy_Kz)**
+
+- Rice
+  1. [USAO - Phalanx (Evening) \[\[7K\] SKY\_PIERCER.tar.gz\]](https://osu.ppy.sh/beatmapsets/1681593#mania/3435340)
+  2. [ck - Carnation (ck remix) (TakJun) \[\[7K\] CarnationJun\]](https://osu.ppy.sh/beatmapsets/1638338#mania/3354720)
+  3. [nmk - Shoujo ga Mita Nippon no Hara Fuukei -Spell Music Mix- (qodtjr) \[\[7K\] Alice\]](https://osu.ppy.sh/beatmapsets/1089000#mania/2276927)
+  4. [naotyu- - L99 (hoo9030) \[\[7K\] EX Challenge \[0.95x Rate\]\]](https://osu.ppy.sh/beatmapsets/1427458#mania/2940516)
+  5. [Pop'n Masters - Popperz Chronicle (lenpai) \[\[7K\] Another\]](https://osu.ppy.sh/beatmapsets/1509343#mania/3432698)
+  6. [The Flashbulb - Kirlian Shores (tyrcs) \[\[7K\] Beside the Sea +\]](https://osu.ppy.sh/beatmapsets/1084086#mania/3383148)
+- LN
+  1. [Jamie Christopherson - Island Village (X\_Devil) \[\[7K\] LineageII: Talking Island Village\]](https://osu.ppy.sh/beatmapsets/1054940#mania/2204243)
+  2. [Lime - 8bit Voyager (Leeju) \[Leeju's 7K Journey\]](https://osu.ppy.sh/beatmapsets/1656843#mania/3381798)
+  3. [Jay Chou - Mojito (Wilben\_Chan) \[\[7K\] Sweet Love\]](https://osu.ppy.sh/beatmapsets/1557864#mania/3182371)
+  4. [ryo(supercell) - Love is War (Mwk Remix) (Chenut BS) \[\[7K\] LOVE DECLARATION\]](https://osu.ppy.sh/beatmapsets/1046089#mania/3431581)
+- Hybrid
+  1. [Holo Bass - Power Stance (MapleSyrup-) \[\[7K\] Domination 1.05x\]](https://osu.ppy.sh/beatmapsets/1681558#mania/3435273)
+  2. [Linear ring - Enchanted love (qodtjr) \[\[7K\] Blind\]](https://osu.ppy.sh/beatmapsets/1486478#mania/3047946)
+  3. [Liquid Tension Experiment - The Passage of Time (Davvy) \[\[7K\] Samsara\]](https://osu.ppy.sh/beatmapsets/1360458#mania/2815242)
+- Tiebreaker
+  1. **[Silentroom - Nhelv (Evening) \[\[7K\] Divergence & Convergence (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/1681594#mania/3435342)**
+
+### Round of 16
+
+**[Download the mappack here (89 MB)](https://drive.google.com/uc?id=1uc1oILMX9J7dw1huWo3Kd3r31qROfIRm)**
+
+- Rice
+  1. [Laur - Attractor Dimension (Wonki) \[\[7K\] Insane\]](https://osu.ppy.sh/beatmapsets/1587984#mania/3243265)
+  2. [cosMo@bousouP - Oceanus (\_Kobii) \[\[7K\] Insane \[210bpm\]\]](https://osu.ppy.sh/beatmapsets/1676381#mania/3424741)
+  3. [Mr.T - electro peaceful(8bit) (qodtjr) \[\[7K\] Notes of Peace\]](https://osu.ppy.sh/beatmapsets/707059#mania/1494875)
+  4. [sakuzyo - Lost Memory (DaDarkDragon) \[\[7K\] Memories \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1312121#mania/2719418)
+  5. [BEMANI Sound Team "Power Of Nature" - Tadoru Kimi wo Koete (guden) \[\[7K\] Wayfarer\]](https://osu.ppy.sh/beatmapsets/1539977#mania/3148168)
+  6. [TAKU INOUE & Hoshimachi Suisei - Sanji Juunihun (Evening) \[\[7K\] CHANGE THE WORLD (EDIT)\]](https://osu.ppy.sh/beatmapsets/1676465#mania/3424887)
+- LN
+  1. [M2U - Yoake no Uta feat. Dazbee (SurfChu85) \[\[7K\] Daybreak\]](https://osu.ppy.sh/beatmapsets/1477099#mania/3030679)
+  2. [dj TAKA feat. Erika Mochizuki - MOON (paulkappa) \[\[7K\] Slave of Sadness\]](https://osu.ppy.sh/beatmapsets/1666530#mania/3402422)
+  3. [Yuki Kajiura - Himeboshi (\_underjoy) \[\[7K\] Tranquility\]](https://osu.ppy.sh/beatmapsets/1069926#mania/3424740)
+  4. [Crush - OHIO (JuHaa) \[\[7K\] HIOH!\]](https://osu.ppy.sh/beatmapsets/1566789#mania/3199120)
+- Hybrid
+  1. [Camellia vs. Tsukasa Kaminose - Gunkyouzouteki Soseiriron (\_Stan) \[Imi\[7\]ation // 7K\]](https://osu.ppy.sh/beatmapsets/1262927#mania/2687659)
+  2. [Cuvelia - Tenkuu no Yoake (AncuL) \[\[7K\] Imaginary\]](https://osu.ppy.sh/beatmapsets/630583#mania/1331170)
+  3. [M2U - White Rose (JuHaa) \[\[7K\] White picture\]](https://osu.ppy.sh/beatmapsets/1514154#mania/3099963)
+- Tiebreaker
+  1. **[Nekomata Gekidan - envidia (Umo-) \[\[7K\] Envy\]](https://osu.ppy.sh/beatmapsets/1330328#mania/2756301)**
 
 ### Qualifiers
 
@@ -107,6 +173,34 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 6. [Getty - Sonic Bass (Remuring) \[Stage 6: Pressure\]](https://osu.ppy.sh/beatmapsets/1670398#mania/3411677)
 7. [Feryquitous - THE SEVENS CODE (\_Kobii) \[Stage 7: Secrecy\]](https://osu.ppy.sh/beatmapsets/1670393#mania/3411670)
 8. [technoplanet - Intuition (Evening) \[Stage 8: Advent of Colour\]](https://osu.ppy.sh/beatmapsets/1670397#mania/3411676)
+
+## Match results
+
+### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1np4ZxbrZoAvYPlBE2_XXQg9eBz2wFFvud9xgO8U3EyA/edit?rm=minimal).
+
+Saturday, January 22, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Indonesia** ![][flag_ID] | **6** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/96833931) |
+| Spain ![][flag_ES] | 4 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/96836932) |
+| **Malaysia** ![][flag_MY] | **6** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/96842328) |
+
+Sunday, January 23, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Canada** ![][flag_CA] | **6** | 3 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/96871014) |
+| **China** ![][flag_CN] | **6** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/96879069) |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/96881672) |
+| **Thailand** ![][flag_TH] | **6** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/96883025) |
+| **Philippines** ![][flag_PH] | **6** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/96884707) |
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1Io6SHPkPIgC_59uVEk7KJ1u6wmcvAqGp_TJ2IovTmok/edit?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1_Lq1HaM_2L1aZSpb7T6rI9J7zJe79cfrrMVjqrySoKA/edit?rm=minimal).
 
 ## Ruleset
 

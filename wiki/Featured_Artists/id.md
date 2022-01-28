@@ -15,7 +15,7 @@ osu! secara proaktif senantiasa mengajak para musisi dari seluruh belahan dunia 
 
 Dalam proses perizinannya, pada umumnya osu! tidak menuntut suatu lisensi eksklusif kepada para musisi yang membatasi hak guna lagu-lagu yang ada hanya pada lingkungan osu! semata. Meskipun demikian, dalam beberapa kasus tertentu, terdapat beberapa musisi yang secara khusus menggubah lagu-lagu baru untuk osu! yang ditandai dengan label *osu! exclusive* pada laman Featured Artist musisi-musisi terkait.
 
-Bagi para musisi yang sekiranya tertarik untuk bergabung ke dalam Featured Artist kami, harap kunjungi laman [lisensi musik](/wiki/Legal/Music_Licensing).
+Bagi para musisi yang sekiranya tertarik untuk bergabung ke dalam Featured Artist kami, harap kunjungi laman [lisensi musik](/wiki/Legal/Music_licensing).
 
 ## Jumlah rilis
 

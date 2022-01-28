@@ -20,7 +20,7 @@ A **beatmap** (sometimes called *beatmapset*) is a set of game levels ([difficul
 
 *Main article: [Difficulty](/wiki/Beatmap/Difficulty)*
 
-A *difficulty* is a file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)) which describes the placement of hit objects, hitsounds, and special effects like [kiai time](/wiki/Kiai_time). It also contains [difficulty settings](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) and other parameters that directly affect gameplay. Difficulties of a beatmap have different structure and sometimes can be played in only one [game mode](/wiki/Game_mode). The [star rating](/wiki/Beatmapping/Star_rating) system is used to visualise a difficulty's skill requirement.
+A *difficulty* is a file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)) which describes the placement of hit objects, hitsounds, and special effects like [kiai time](/wiki/Gameplay/Kiai_time). It also contains [difficulty settings](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) and other parameters that directly affect gameplay. Difficulties of a beatmap have different structure and sometimes can be played in only one [game mode](/wiki/Game_mode). The [star rating](/wiki/Beatmapping/Star_rating) system is used to visualise a difficulty's skill requirement.
 
 ## Submission
 
@@ -91,7 +91,7 @@ osu! players across all game modes use beatmaps to [rank up globally](/wiki/Perf
 - Country-specific ranking made of players bearing the same flag;
 - Friend ranking that shows a player's position on the map compared to their friends.
 
-The top 500 scores on every difficulty of a beatmap provide [replays](/wiki/Replay), which can be watched online or saved for further display in a local leaderboard.
+The top 500 scores on every difficulty of a beatmap provide [replays](/wiki/Gameplay/Replay), which can be watched online or saved for further display in a local leaderboard.
 
 ### Charts and Spotlights
 

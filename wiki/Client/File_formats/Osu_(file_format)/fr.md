@@ -141,7 +141,7 @@ Chaque timing point influence une partie spécifique de la map, communément app
 
 Les timing points ont deux effets supplémentaires qui peuvent être basculés en utilisant les bits 0 et 3 (du moins au plus significatif) dans l'entier `effects` :
 
-- 0 : Si le [kiai time](/wiki/Kiai_time) est activé ou non.
+- 0 : Si le [kiai time](/wiki/Gameplay/Kiai_time) est activé ou non.
 - 3 : L'omission ou non de la première barre de mesure dans osu!taiko et osu!mania
 
 Le reste des bits est inutilisé.

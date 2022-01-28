@@ -13,7 +13,7 @@ Bem-vindo ao osu! wiki, um projeto que contém uma ampla variedade de informaç�
 
 # Introdução
 
-[Instalação](/wiki/Client/Installation) • [Registro](/wiki/Registration) • [Central de Ajuda](/wiki/Help_Centre) • [Perguntas Frequentes](/wiki/FAQ)
+[Instalação](/wiki/Client/Installation) • [Registro](/wiki/Registration) • [Central de Ajuda](/wiki/Help_centre) • [Perguntas Frequentes](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -31,7 +31,7 @@ Bem-vindo ao osu! wiki, um projeto que contém uma ampla variedade de informaç�
 
 [Modos de Jogo](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Hit object](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Pontuação](/wiki/Gameplay/Score) • [Replay](/wiki/Replay) • [Multi](/wiki/Multi)
+[Beatmap](/wiki/Beatmap) • [Hit object](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Pontuação](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Multi](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

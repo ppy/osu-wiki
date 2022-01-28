@@ -16,7 +16,7 @@ De nieuwe toevoegingen aan de aanbevolen artiesten-bibliotheek worden indirect g
 
 De meeste nummers in het aanbevolen artiesten programma zijn niet-exclusief gelicencieerd aan osu!. In uitzonderlijke gevallen maken artiesten nummers exclusief voor osu!, die ook gelabeld worden als *osu! exclusive* op hun aanbevolen artiest pagina.
 
-Voor muzikanten die in het aanbovelen artiesten programma zullen toetreden zijn er meer details beschikbaar in het [muzieklicentiëring](/wiki/Legal/Music_Licensing)-artikel.
+Voor muzikanten die in het aanbovelen artiesten programma zullen toetreden zijn er meer details beschikbaar in het [muzieklicentiëring](/wiki/Legal/Music_licensing)-artikel.
 
 ## Uitgaven
 

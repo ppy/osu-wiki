@@ -82,7 +82,7 @@ HP Drain Rate, commonly abbreviated as HP, determines the rate of health recover
 
 In osu! and osu!catch, this also affects the [Passive HP](/wiki/Client/Interface/Health_bar) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Beatmap/Break).
 
-*Note: More HP is recovered with [Geki](/wiki/Geki) and [Katu](/wiki/Katu) hit scores, which can be given from the last hit object in a combo.*
+*Note: More HP is recovered with [Geki](/wiki/Gameplay/Judgement/Geki) and [Katu](/wiki/Gameplay/Judgement/Katu) hit scores, which can be given from the last hit object in a combo.*
 
 ### Circle Size
 

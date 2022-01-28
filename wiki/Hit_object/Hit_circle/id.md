@@ -6,7 +6,7 @@ tags:
 
 # Hit circle
 
-*Hit circle* adalah [hit object](/wiki/Hit_object) berwarna dan berbentuk lingkaran yang ada di [beatmap](/wiki/Beatmap) [osu!](/wiki/Game_mode/osu!) dan [osu!taiko](/wiki/Game_mode/osu!taiko). Penampilannya berbeda-beda di setiap mode permainan, tetapi umumnya pemain harus mengklik lingkaran hit tepat waktu dengan lagu untuk mendapatkan [skor](/wiki/Gameplay/Score) berdasarkan seberapa [akurat](/wiki/Gameplay/Accuracy) mereka (misalnya jika mereka mengklik terlalu dini, skor mereka akan berkurang). Mengklik hit circle akan menambahkan [health](/wiki/Beatmapping/Health) yang sangat kecil ke [health bar](/wiki/Client/Interface/Health_bar), dan tambahan yang lebih besar di akhir kombo.
+*Hit circle* adalah [hit object](/wiki/Hit_object) berwarna dan berbentuk lingkaran yang ada di [beatmap](/wiki/Beatmap) [osu!](/wiki/Game_mode/osu!) dan [osu!taiko](/wiki/Game_mode/osu!taiko). Penampilannya berbeda-beda di setiap mode permainan, tetapi umumnya pemain harus mengklik lingkaran hit tepat waktu dengan lagu untuk mendapatkan [skor](/wiki/Gameplay/Score) berdasarkan seberapa [akurat](/wiki/Gameplay/Accuracy) mereka (misalnya jika mereka mengklik terlalu dini, skor mereka akan berkurang). Mengklik hit circle akan menambahkan [health](/wiki/Gameplay/Health) yang sangat kecil ke [health bar](/wiki/Client/Interface/Health_bar), dan tambahan yang lebih besar di akhir kombo.
 
 Di osu!, hit circle muncul dengan angka di atasnya; menunjukkan tempat mereka di dalam kombo. Hit cirlce juga dikelilingi oleh [approach circle](/wiki/Hit_object/Approach_circle), yang mengecil di sekelilingnya. Setelah approach cirlce tumpang tindih dengan hit cirlce, pemain harus mengklik hit cirlce untuk mendapatkan skor.
 

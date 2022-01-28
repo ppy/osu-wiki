@@ -11,7 +11,7 @@ outdated_since: 8b4224f1287d609d0b6b564055ef2cbca4a694e5
 - [Eingabegerät](/wiki/Gameplay/Input_device)
 - [Denkblockade](/wiki/Gameplay/Mind_block)
 - [Spielzeit](/wiki/Gameplay/Play_time)
-- [Slider break](/wiki/Gameplay/Slider_break)
+- [Slider break](/wiki/Gameplay/Judgement/Slider_break)
 - [Zuschauen](/wiki/Gameplay/Spectating)
 - [Tablet-Abdeckung](/wiki/Gameplay/Tablet_cover)
 

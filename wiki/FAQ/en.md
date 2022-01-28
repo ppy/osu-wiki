@@ -445,7 +445,7 @@ From the *Input* icon in the *Options* sidebar as shown above, under **Keyboard*
 
 #### Game over? Where did I mess up?
 
-*Full explanation: [Replay](/wiki/Replay)*
+*Full explanation: [Replay](/wiki/Gameplay/Replay)*
 
 After failing a beatmap, press the `F1` key to replay the currently failed play. The replay ends when the screen darkens, with an osu!logo in the middle, rather than the game over screen. To rewatch the replay again, hold the custom default grave/tilde (\`/~) key (can be changed in Options sidebar; inside *Change keyboard bindings* as **Quick Retry (hold briefly)**) or `Ctrl`+`R` for a while.
 

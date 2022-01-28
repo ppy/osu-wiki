@@ -16,7 +16,7 @@ Benvenuto alla wiki di osu!, la base delle conoscenze contenente un'ampia gamma 
 
 Articoli importanti e guide che ti aiuteranno ad immergerti in osu!. Nel caso qualcosa vada male o ti appare incerto, assicurati di visitare il [Forum d'aiuto](https://osu.ppy.sh/forum/5).
 
-[Regole](/wiki/Rules) • [Installazione](/wiki/Client/Installation) • [Registrazione](/wiki/Registration) • [Centro aiuto](/wiki/Help_Centre)
+[Regole](/wiki/Rules) • [Installazione](/wiki/Client/Installation) • [Registrazione](/wiki/Registration) • [Centro aiuto](/wiki/Help_centre)
 
 [Console della chat](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Guide](/wiki/Guides) • [Glossario](/wiki/Glossary)
 
@@ -40,7 +40,7 @@ Tutto riguardo al cliccare cerchi, colpire tamburi, raccogliere frutta, e suonar
 
 [Modalità di gioco](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Difficoltà](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Mod](/wiki/Game_modifier) • [Punteggio](/wiki/Gameplay/Score) • [Replay](/wiki/Replay) • [Medaglie](/wiki/Medals) • [Multi](/wiki/Multi)
+[Beatmap](/wiki/Beatmap) • [Difficoltà](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Mod](/wiki/Game_modifier) • [Punteggio](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medaglie](/wiki/Medals) • [Multi](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -77,7 +77,7 @@ Leggi le procedure e regole che tengono osu! e la sua comunità al riparo, dal l
 
 Regole dei media: [Linee guida sull'uso di contenuto](/wiki/Rules/Content_Usage_Guidelines) • [Contenuto eslpicito](/wiki/Rules/Explicit_Content) • [Regole sul contenuto della canzone](/wiki/Rules/Song_Content_Rules) • [Considerazioni sul materiale visivo](/wiki/Rules/Visual_Content_Considerations)
 
-[Pagine legali](/wiki/Legal): [Termini di Servizio](/wiki/Legal/Terms) • [Privacy](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Licenziamento della musica](/wiki/Legal/Music_Licensing)
+[Pagine legali](/wiki/Legal): [Termini di Servizio](/wiki/Legal/Terms) • [Privacy](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Licenziamento della musica](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -86,9 +86,9 @@ Regole dei media: [Linee guida sull'uso di contenuto](/wiki/Rules/Content_Usage_
 
 Le riposte a domande frequenti e soluzioni per problemi comuni vivono qui.
 
-[Centro aiuto](/wiki/Help_Centre) • [Risoluzione problemi performance](/wiki/Performance_troubleshooting) • [Team di supporto account](/wiki/People/The_Team/Account_support_team) • [Forum d'aiuto](https://osu.ppy.sh/forum/5)
+[Centro aiuto](/wiki/Help_centre) • [Risoluzione problemi performance](/wiki/Performance_troubleshooting) • [Team di supporto account](/wiki/People/The_Team/Account_support_team) • [Forum d'aiuto](https://osu.ppy.sh/forum/5)
 
-Restrizioni del profilo: [Silenziamento](/wiki/Silence) • [Restrizioni account](/wiki/Help_Centre/Account_Restrictions)
+Restrizioni del profilo: [Silenziamento](/wiki/Silence) • [Restrizioni account](/wiki/Help_centre/Account_restrictions)
 
 Fai la tua parte: [Come e in cosa aiutare](/wiki/Community/How_you_can_help!) • [Segnala comportamenti scorretti](/wiki/Reporting_bad_behaviour) • [Segnala abuso](/wiki/Reporting_bad_behaviour/Abuse) • [Segnala gli imbrogli](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 

@@ -14,7 +14,7 @@ no_native_review: true
 
 这些文章将帮助你更好地了解 osu!，如果有不清楚的地方也可以参考[论坛里的帮助版](https://osu.ppy.sh/forum/5)
 
-[规章制度](/wiki/Rules) • [安装](/wiki/Client/Installation) • [注册](/wiki/Registration) • [帮助中心](/wiki/Help_Centre)
+[规章制度](/wiki/Rules) • [安装](/wiki/Client/Installation) • [注册](/wiki/Registration) • [帮助中心](/wiki/Help_centre)
 
 [聊天面板](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [常见问题](/wiki/FAQ) • [教程](/wiki/Guides) • [Glossary](/wiki/Glossary)
 
@@ -38,7 +38,7 @@ osu! 的物件、要素、机制与竞技内容。
 
 [游戏模式](/wiki/Game_mode)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[谱面](/wiki/Beatmap) • [难度](/wiki/Beatmap/Difficulty) • [物件](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [分数](/wiki/Gameplay/Score) • [回放](/wiki/Replay) • [奖章](/wiki/Medals) • [多人游戏](/wiki/Multi)
+[谱面](/wiki/Beatmap) • [难度](/wiki/Beatmap/Difficulty) • [物件](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [分数](/wiki/Gameplay/Score) • [回放](/wiki/Gameplay/Replay) • [奖章](/wiki/Medals) • [多人游戏](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -75,7 +75,7 @@ Ranking 指的是让谱面获得排行榜功能，从而为众人所知的过程
 
 媒体内容规范：[内容使用规范](/wiki/Rules/Content_Usage_Guidelines) • [少儿不宜内容](/wiki/Rules/Explicit_Content) • [歌曲内容规范](/wiki/Rules/Song_Content_Rules) • [视觉内容注意事项](/wiki/Rules/Visual_Content_Considerations)
 
-[法律页面](/wiki/Legal): [服务条款](/wiki/Legal/Terms) • [隐私政策](/wiki/Legal/Privacy) • [版权政策 (DMCA)](/wiki/Legal/Copyright) • [音乐许可](/wiki/Legal/Music_Licensing)
+[法律页面](/wiki/Legal): [服务条款](/wiki/Legal/Terms) • [隐私政策](/wiki/Legal/Privacy) • [版权政策 (DMCA)](/wiki/Legal/Copyright) • [音乐许可](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -84,9 +84,9 @@ Ranking 指的是让谱面获得排行榜功能，从而为众人所知的过程
 
 常见问题的解决方案可在此找到。
 
-[帮助中心](/wiki/Help_Centre) • [性能问题检查](/wiki/Performance_troubleshooting) • [账号支持团队](/wiki/People/The_Team/Account_support_team) • [帮助论坛](https://osu.ppy.sh/forum/5)
+[帮助中心](/wiki/Help_centre) • [性能问题检查](/wiki/Performance_troubleshooting) • [账号支持团队](/wiki/People/The_Team/Account_support_team) • [帮助论坛](https://osu.ppy.sh/forum/5)
 
-账号受限：[禁言](/wiki/Silence) • [账号受限](/wiki/Help_Centre/Account_Restrictions)
+账号受限：[禁言](/wiki/Silence) • [账号受限](/wiki/Help_centre/Account_restrictions)
 
 我能做什么：[如何提供帮助](/wiki/Community/How_you_can_help!) • [举报不当行为](/wiki/Reporting_bad_behaviour) • [举报滥用行为](/wiki/Reporting_bad_behaviour/Abuse) • [举报作弊行为](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 

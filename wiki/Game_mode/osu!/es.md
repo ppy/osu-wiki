@@ -273,7 +273,7 @@ El sistema utilizado para calcular el drenaje de la salud y la ganancia de salud
 ### Historia
 
 - ¡La versión anterior de osu! solia emular algunos de los elementos de la serie *Ouendan* antes de ser eliminados o remplazados.
-  - El [combo de fuego](/wiki/Glossary/Combo_fire) aparecía cuando alcanzabas los nuevos hitos del combo.
+  - El [combo de fuego](/wiki/Gameplay/Combo_fire) aparecía cuando alcanzabas los nuevos hitos del combo.
 - La primera versión del skin por defecto que usa el comportamiento de skin v1, fue la skin *osu! Default por peppy*, proporcionaba una copia casi idéntica de la interfaz *Ouendan*.
   - Fue reemplazado por un aspecto predeterminado más actual que usa el comportamiento de la skin v2.
   - La diferencia de característica más notable entre el comportamiento de la skin v1 y v2 es la ruleta.

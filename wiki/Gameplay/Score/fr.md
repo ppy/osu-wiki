@@ -27,5 +27,5 @@ C'est alors que le ScoreV2 entre en jeu.
 Le ScoreV2 essaie de normaliser les systèmes de scoring des différents modes de jeu à un score de 1,000,000 (1 million) avec un modificateur de score égal à 1.00x avec un score bonus provenant des Spinners pour osu!, des Drumrolls pour osu!taiko, et des bananes pour osu!catch.
 Chaque objet fait à présent partie du score de 1 million et sont réajustées en conséquence, plutôt que d'utiliser leurs propres valeurs de score et formules bonus.
 
-Le ScoreV2 peut être testé en mode [Multijoueur](/wiki/Multi) en tant que Condition de Victoire dans les Options de Salon.
+Le ScoreV2 peut être testé en mode [Multijoueur](/wiki/Gameplay/Multiplayer) en tant que Condition de Victoire dans les Options de Salon.
 Depuis le [22 février 2017 (2017-02-22)](https://osu.ppy.sh/home/changelog/stable40/20170222.3), le système ScoreV2 peut être testé en mode *Solo* en utilisant le mod **NON-CLASSÉ** [ScoreV2](/wiki/Game_modifier/ScoreV2).

@@ -22,7 +22,7 @@ From the auditory perspective, a difficulty can augment the song by providing on
   - a very small paragraph on every key component, including those from Beatmap#overview;
 -->
 
-[Visual components](/wiki/Beatmap) of a difficulty, contrary to its patterns, provide auxiliary experience during gameplay and can be disabled in the [visual settings](/wiki/Client/Interface/Visual_settings) overlay for the most part. While some of them, such as [storyboards](/wiki/Storyboard) or [custom skins](/wiki/Skinning), belong to the beatmap as a whole, most of the visual components may vary per difficulty (e.g., [kiai time](/wiki/Kiai_time) sections and [combo colours](/wiki/Glossary/Combo_colour)).
+[Visual components](/wiki/Beatmap) of a difficulty, contrary to its patterns, provide auxiliary experience during gameplay and can be disabled in the [visual settings](/wiki/Client/Interface/Visual_settings) overlay for the most part. While some of them, such as [storyboards](/wiki/Storyboard) or [custom skins](/wiki/Skinning), belong to the beatmap as a whole, most of the visual components may vary per difficulty (e.g., [kiai time](/wiki/Gameplay/Kiai_time) sections and [combo colours](/wiki/Glossary/Combo_colour)).
 
 ## Difficulty levels
 

@@ -36,7 +36,7 @@ L'éditeur de beatmap inclut également :
 - [AiMod](AiMod) : Un système automatisé qui signale les problèmes dans une beatmap.
 - [Beat snap divisor](Beat_Snap_Divisor) : Détermine comment les objets sont fixés à la timeline.
 - [Distance snap](Distance_snap) : Détermine la distance entre 2 objets consécutifs en prenant en compte le rythme de la musique.
-- [Kiai time](/wiki/Kiai_time) : Des sections spécifiques du timing qui aident à mettre en valeur une partie de la beatmap.
+- [Kiai time](/wiki/Gameplay/Kiai_time) : Des sections spécifiques du timing qui aident à mettre en valeur une partie de la beatmap.
 - [Menu](Menu) : Aide à naviguer à travers l'éditeur de beatmap.
 - [SB load](SB_Load) : Un nombre indiquant à quel point le storyboard est lourd en terme de performances.
 - [Timelines](Timelines) : Affiche les hits objects, les pauses et autres.

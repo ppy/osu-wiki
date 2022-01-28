@@ -19,14 +19,14 @@ tags:
 | Стадия | Дата |
 | --: | :-- |
 | Регистрация | 2022-01-01/2022-01-15 |
-| Скрининг | 2022-01-16/2022-01-30 |
-| Квалификация | 2022-02-05/2022-02-06 |
-| 1/16 раунда | 2022-02-12/2022-02-13 |
-| 1/8 раунда | 2022-02-19/2022-02-20 |
-| Четвертьфинал | 2022-02-26/2022-02-27 |
-| Полуфинал | 2022-03-05/2022-03-06 |
-| Финал | 2022-03-12/2022-03-13 |
-| Гранд-финал | 2022-03-19/2022-03-20 |
+| Скрининг | 2022-01-16/2022-01-19 |
+| Квалификация | 2022-01-29/2022-01-30 |
+| 1/16 раунда | 2022-02-05/2022-02-06 |
+| 1/8 раунда | 2022-02-12/2022-02-13 |
+| Четвертьфинал | 2022-02-19/2022-02-20 |
+| Полуфинал | 2022-02-26/2022-02-27 |
+| Финал | 2022-03-05/2022-03-06 |
+| Гранд-финал | 2022-03-12/2022-03-13 |
 
 ## Призы
 
@@ -43,7 +43,7 @@ COT 2022 организован различными членами сообще
 | Должность | Член(ы) |
 | :-- | :-- |
 | Организаторы | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
-| Маппул | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [Xetopia](https://osu.ppy.sh/users/6689101), ![][flag_RU] [Rebbel](https://osu.ppy.sh/users/4595355), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_CL] [Pekorrat](https://osu.ppy.sh/users/1250096) |
+| Маппулеры | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [Xetopia](https://osu.ppy.sh/users/6689101), ![][flag_RU] [Rebbel](https://osu.ppy.sh/users/4595355), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_CL] [Pekorrat](https://osu.ppy.sh/users/1250096) |
 | Стримеры | ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
 | Комментаторы | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164), ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
 | Рефери | ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
@@ -58,6 +58,23 @@ COT 2022 организован различными членами сообще
 - [Дискорд-сервер](https://discord.gg/ZqCdWBKGrM)
 - [Сетка Challonge](https://challonge.com/ru/cot22)
 - [Канал трансляций](https://www.twitch.tv/playosuru/)
+
+## Маппулы
+
+### Квалификация
+
+- NoMod
+  1. [Koinata Miho, Jougasaki Mika, Hayami Kanade - Twintail no Kaze (Spectator) \[Collab Overdose\]](https://osu.ppy.sh/beatmapsets/1328225#fruits/2751483)
+  2. [BESTie - Excuse Me (Euny) \[ShadrEuny's Ex\]](https://osu.ppy.sh/beatmapsets/423925#fruits/915925)
+- Hidden
+  1. [A-One feat. Shihori - Magic Girl !! (Greaper) \[Deif's Rain\]](https://osu.ppy.sh/beatmapsets/1644488#fruits/3356804)
+  2. [Jenny Rom - The Game of Love (E=MC2) Mix (ztrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/14412#fruits/52741)
+- HardRock
+  1. [Lime - Chronomia (Rocma) \[Rain\]](https://osu.ppy.sh/beatmapsets/1471328#fruits/3207951)
+  2. [Helblinde - Above the Clouds ([ Rizen ]) \[Timeless\]](https://osu.ppy.sh/beatmapsets/344252#fruits/785162)
+- DoubleTime
+  1. [ZUTOMAYO - Humanoid (Jemzuu) \[Imai Lisa & Du5t's Platter\]](https://osu.ppy.sh/beatmapsets/1052572#fruits/2241108)
+  2. [XX:me - Torikago (Mordred) \[Dakini's Insane\]](https://osu.ppy.sh/beatmapsets/764067#fruits/1624401)
 
 ## Правила
 
@@ -80,11 +97,10 @@ COT 2022 организован различными членами сообще
 ### Квалификация
 
 1. Все правила выше будут действовать в лобби квалификации. Лобби квалификациии будут в формате Head to Head, ScoreV2 без банов и вармапов.
-2. Маппул в лобби будет сыгран в порядке, указанном в гугл-доке: сначала вы будете играть NM карты, затем — HD, затем — HR, и наконец — DT.
-3. На прохождение маппула даётся одна попытка.
-4. В случае дисконнекта рефери даст отключившемуся игроку возможность в одиночку переиграть карту после лобби.
-5. Игроки будут распределены по сетке согласно результатам квалификации: игрок, занявший 32-е место на квалификации, будет играть против игрока на 1-м месте, и т.д.
+2. На прохождение маппула даётся одна попытка. Маппул в лобби будет сыгран в порядке, указанном в гугл-доке: сначала вы будете играть NM карты, затем — HD, затем — HR, и наконец — DT.
+3. В случае дисконнекта рефери даст отключившемуся игроку возможность в одиночку переиграть карту после лобби.
+4. Игроки будут распределены по сетке согласно результатам квалификации: игрок, занявший 32-е место на квалификации, будет играть против игрока на 1-м месте, и т.д.
 
-[flag_RU]: /wiki/shared/flag/RU.gif "Россия"
+[flag_RU]: /wiki/shared/flag/RU.gif "Российская Федерация"
 [flag_UA]: /wiki/shared/flag/UA.gif "Украина"
 [flag_CL]: /wiki/shared/flag/CL.gif "Чили"
