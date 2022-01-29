@@ -13,7 +13,7 @@ Liens :
 
 ## Février
 
-Une nouvelle version de l'éditeur osu!mania était en cours de développement. Le skin du mode Taiko comporte désormais une barre de "métadonnées" (titre de la chanson et artiste sous le terrain de jeu), le terrain de jeu du mode Taiko n'est plus transparent et s'adapte au kiai time. La FAQ originale a été remplacée par le [osu! wiki](/wiki/FAQ).
+Une nouvelle version de l'éditeur osu!mania était en cours de développement. Le skin du mode Taiko comporte désormais une barre de "métadonnées" (titre de la musique et artiste sous le terrain de jeu), le terrain de jeu du mode Taiko n'est plus transparent et s'adapte au kiai time. La FAQ originale a été remplacée par le [osu! wiki](/wiki/FAQ).
 
 La commande `!faq` de BanchoBot est ouverte au public depuis [traduction](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdHhUUjNSa19QendtcTdYUjE2S2hnVHc#gid=24). Le légendaire [BanchoBot](/wiki/BanchoBot) a enfin un [profil](https://osu.ppy.sh/users/3) ! L'affichage des panneaux de l'utilisateur s'ajuste maintenant pour afficher quatre colonnes sur tous les modes d'écran large.
 
@@ -69,7 +69,7 @@ Liens :
 
 Le nom des modificateurs de jeu dans les résultats a été raccourci (par exemple, "Hard Rock" en "HR") afin de réduire l'utilisation de l'espace limité. *La plupart* des replays cassés dans le passé ont été corrigés. Un nouveau système de spectateur où vous pouvez suivre la cible du spectateur s'il était spectateur de quelqu'un d'autre. Le système de mise à jour a été retravaillé, notamment il ne forcera plus les redémarrages sauf si nécessaire.
 
-Pendant les rediffusions, la rediffusion à demi-vitesse a été ajoutée (après avoir appuyé sur "2x" vitesse, il affichera "0,5x" vitesse). Le champ de jeu ne clignote plus en arrière-plan lorsque la luminosité est de 100 %. [Catch the Beat](/wiki/Game_mode/osu!catch) a reçu le support des joysticks (Haut/Bas : changer de chanson, Droite : sélectionner, Gauche : quitter).
+Pendant les rediffusions, la rediffusion à demi-vitesse a été ajoutée (après avoir appuyé sur "2x" vitesse, il affichera "0,5x" vitesse). Le champ de jeu ne clignote plus en arrière-plan lorsque la luminosité est de 100 %. [Catch the Beat](/wiki/Game_mode/osu!catch) a reçu le support des joysticks (Haut/Bas : changer de musique, Droite : sélectionner, Gauche : quitter).
 
 [Un nouveau système de classement/modding est en cours de développement](https://osu.ppy.sh/community/forums/topics/129625), ce qui remplacera les anciens fils de discussion de style forum.
 

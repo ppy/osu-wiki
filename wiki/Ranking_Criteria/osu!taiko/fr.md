@@ -12,11 +12,11 @@ Les règles énoncées ci-dessous sont tenues d'être respectées en toutes circ
 
 - **Finish notes**
 
-**Les Finish Notes ne doivent pas être placées au milieu ou au début d'un stream 1/4 ou moins.** A la fin de la map, les Finish Streams sont autorisés s'ils correspondent à certains sons de la musique. Les Finisher Notes à la fin d'un stream doivent être de couleur différente que la note précédente.
+**Les Finish Notes ne doivent pas être placées au milieu ou au début d'un stream 1/4 ou moins.** A la fin de la beatmap, les Finish Streams sont autorisés s'ils correspondent à certains sons de la musique. Les Finisher Notes à la fin d'un stream doivent être de couleur différente que la note précédente.
 
 ## Conseils
 
-Ces informations sont importantes et devraient être suivis par la plupart des mappers. Cependant, ce ne sont pas des règles, ce qui veut dire qu'un mapper peut choisir de les ignorer sous certaines circonstances. Si vous êtes sur le point d'ignorer un conseil, posez vous des questions : "Est-ce que ce que je m'apprête à apporter quelque chose de positif à ma map ?" Soyez certain de ce que vous faites.
+Ces informations sont importantes et devraient être suivis par la plupart des mappers. Cependant, ce ne sont pas des règles, ce qui veut dire qu'un mapper peut choisir de les ignorer sous certaines circonstances. Si vous êtes sur le point d'ignorer un conseil, posez vous des questions : "Est-ce que ce que je m'apprête à apporter quelque chose de positif à ma beatmap ?" Soyez certain de ce que vous faites.
 
 - **Slider Velocity**
 
@@ -24,7 +24,7 @@ Le *Slider Velocity* devrait être réglé sur 1,40 ou 1,60 pour les difficulté
 
 - **Streams**
 
-Pour la plupart des maps, ne placez vos notes que sur les 1/1, 1/2 et 1/4 pour les streams. 1/3 et 1/6 ne devraient utilisés que s'il y a un tempo similaire dans la musique. Evitez de faire les streams en 1/8.
+Pour la plupart des beatmaps, ne placez vos notes que sur les 1/1, 1/2 et 1/4 pour les streams. 1/3 et 1/6 ne devraient utilisés que s'il y a un tempo similaire dans la musique. Evitez de faire les streams en 1/8.
 
 - **Changement de BPM**
 

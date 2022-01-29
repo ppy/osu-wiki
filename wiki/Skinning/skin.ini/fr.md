@@ -777,7 +777,7 @@ Keys: 5
   - Question : Quel est le nom de l'image de la flèche d'avertissement ?
   - Valeur : texte *(chemin vers l'image)*
   - Notes :
-    - Elle apparaît trois lignes de barre avant le début de la map, si le temps est suffisant.
+    - Elle apparaît trois lignes de barre avant le début de la beatmap, si le temps est suffisant.
 - `Hit0:`
   - Question : Quel est le nom de l'image hit0 ?
   - Valeur : texte *(chemin vers l'image)*

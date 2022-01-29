@@ -10,7 +10,7 @@ Ouvrez osu! et authentifiez-vous, cochez les cases `Retenir le nom d'utilisateur
 
 Fermez osu! et créez un fichier `tournament.cfg` dans le dossier d'installation. Démarrez osu! encore une fois et le client osu!tourney devrait s'ouvrir.
 
-Ajoutez les musiques du map pool au dossier `/Songs/` avant de démarrer le client. N'importe quelle beatmap soumise que le client n'a pas sera automatiquement téléchargée.
+Ajoutez les musiques du beatmap pool au dossier `/Songs/` avant de démarrer le client. N'importe quelle beatmap soumise que le client n'a pas sera automatiquement téléchargée.
 
 Après avoir fermé le client, le fichier `tournament.cfg` sera rempli avec les lignes suivantes :
 

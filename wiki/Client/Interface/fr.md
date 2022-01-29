@@ -86,7 +86,7 @@ Avant de continuer, on peut voir que cet écran contient beaucoup trop d'éléme
 
 ![](img/beatmap-metadata-FR.jpg)
 
-Dans cette partie de l'écran se situent **les informations sur la difficulté de la beatmap sélectionnée.** Par défaut, la beatmap dont la musique est jouée par le jukebox est sélectionnée dans l'écran de sélection de beatmaps. En haut à gauche se situe la catégorie de la map (par exemple, deux chevrons signifient que la beatmap est *classée*). À sa droite se situe le titre de la beatmap. Par défaut, le titre romanisé est affiché, mais si vous sélectionnez `Métadonnées des maps dans leur langue d'origine dès que possible` dans les [options](/wiki/Client/Options), le titre au format Unicode sera affiché, comme on peut voir sur la première image. Le créateur de la beatmap est également affiché, ainsi que les informations de la beatmap en dessous. De gauche à droite, on peut lire :
+Dans cette partie de l'écran se situent **les informations sur la difficulté de la beatmap sélectionnée.** Par défaut, la beatmap dont la musique est jouée par le jukebox est sélectionnée dans l'écran de sélection de beatmaps. En haut à gauche se situe la catégorie de la beatmap (par exemple, deux chevrons signifient que la beatmap est *classée*). À sa droite se situe le titre de la beatmap. Par défaut, le titre romanisé est affiché, mais si vous sélectionnez `Métadonnées des maps dans leur langue d'origine dès que possible` dans les [options](/wiki/Client/Options), le titre au format Unicode sera affiché, comme on peut voir sur la première image. Le créateur de la beatmap est également affiché, ainsi que les informations de la beatmap en dessous. De gauche à droite, on peut lire :
 
 - **Durée** : La durée totale de la beatmap, du début à la fin et en comptant les pauses. À ne pas confondre avec le [drain time](/wiki/Gameplay/Drain_time).
 - **BPM** : Le BPM de la beatmap. Si (comme sur la deuxième image) deux BPM sont présents, dont un entre parenthèses, cela veut dire que le BPM change pendant la musique. On peut y voir le BPM le plus lent et le BPM le plus rapide, tandis que la valeur entre parenthèses est le BPM au début de la beatmap.
@@ -162,7 +162,7 @@ Filtres disponibles :
 - `status` : Le statut en ligne. La valeur peut être `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, ou `loved`, (ou, pour faire court, `r`/`a`/`p`/`n`/`u`/`l`).
 - `played` : Le temps depuis la dernière fois que la beatmap a été jouée (en jours).
 - `unplayed` : Affiche uniquement les beatmaps non jouées. Une comparaison sans valeur ajoutée doit être utilisée (la comparaison en elle-même est ignorée).
-- `speed` : La vitesse de défilement sauvegardée dans le mode osu!mania. Cette valeur sera toujours égale à 0 sur les beatmaps non jouées si l'option [Se souvenir des vitesses de défilement sur chaque map osu!mania](/wiki/Client/Options#gameplay) est désactivée.
+- `speed` : La vitesse de défilement sauvegardée dans le mode osu!mania. Cette valeur sera toujours égale à 0 sur les beatmaps non jouées si l'option [Se souvenir des vitesses de défilement sur chaque beatmap osu!mania](/wiki/Client/Options#gameplay) est désactivée.
 
 Comparaisons supportées:
 

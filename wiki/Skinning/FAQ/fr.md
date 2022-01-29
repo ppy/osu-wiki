@@ -127,7 +127,7 @@ osu! gameplay
 [url=https://example.com/skin-download-link-here.osk]Download link[/url][/centre]
 ```
 
-Il est vraiment important d'inclure diverses captures d'écran du gameplay et du choix des chansons, etc. Beaucoup de gens voudront voir à quoi ressemble votre skin avant de le télécharger sans réfléchir ! Vous pouvez utiliser upppy ou imgur pour les télécharger.
+Il est vraiment important d'inclure diverses captures d'écran du gameplay et du choix des musiques, etc. Beaucoup de gens voudront voir à quoi ressemble votre skin avant de le télécharger sans réfléchir ! Vous pouvez utiliser upppy ou imgur pour les télécharger.
 
 ## skin.ini
 

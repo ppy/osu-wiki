@@ -4,7 +4,7 @@ Song Setup est la quatrième section de [l'éditeur de beatmap](/wiki/Client/Bea
 
 ## Général
 
-### Métadonnées des chansons et des maps
+### Métadonnées des musiques et des beatmaps
 
 *Voir également : [\[Guide\] Metadata](https://osu.ppy.sh/community/forums/topics/249288 "forums osu!")*
 
@@ -12,13 +12,13 @@ Song Setup est la quatrième section de [l'éditeur de beatmap](/wiki/Client/Bea
 
 Ces champs doivent être remplis avant de créer une deuxième difficulté. Il s'agit principalement de s'assurer que les métadonnées seront cohérentes pour toutes les difficultés du beatmapset.
 
-Les données des champs "artiste", "titre" et "source" doivent provenir de la [source primaire de métadonnées](/wiki/Beatmap/Primary_metadata_source) de la chanson.
+Les données des champs "artiste", "titre" et "source" doivent provenir de la [source primaire de métadonnées](/wiki/Beatmap/Primary_metadata_source) de la musique.
 
 Ces champs doivent être remplis avant de créer une deuxième difficulté. Ceci est principalement pour s'assurer que les métadonnées seront cohérentes à travers toutes les difficultés de la beatmap.
 
 #### Artiste
 
-**Le groupe, le chanteur, le compositeur ou le groupe qui a interprété ou créé la chanson**. Normalement, cette information est automatiquement extraite des métadonnées du fichier MP3, mais vérifiez l'orthographe et la ponctuation.
+**Le groupe, le chanteur, le compositeur ou le groupe qui a interprété ou créé la musique**. Normalement, cette information est automatiquement extraite des métadonnées du fichier MP3, mais vérifiez l'orthographe et la ponctuation.
 
 *Attention : Les titres d'animes ou de jeux doivent être placés dans le champ [Source](#source). Les noms de Vocaloid ou de sociétés doivent être placés dans le champ [Tags](#tags).*
 
@@ -32,11 +32,11 @@ Ce champ doit préférer l'orthographe des sources officielles de sortie. L'arti
 
 #### Titre
 
-**Le titre de la chanson** Normalement, il est automatiquement extrait des métadonnées du fichier MP3, mais vérifiez l'orthographe et la ponctuation.
+**Le titre de la musique** Normalement, il est automatiquement extrait des métadonnées du fichier MP3, mais vérifiez l'orthographe et la ponctuation.
 
 ##### Titre romanisé
 
-**Le nom romanisé de la chanson.** Ce champ ne sera disponible que si des caractères Unicode sont utilisés dans le champ [Titre](#titre).
+**Le nom romanisé de la musique.** Ce champ ne sera disponible que si des caractères Unicode sont utilisés dans le champ [Titre](#titre).
 
 #### Créateur de la beatmap
 
@@ -52,13 +52,13 @@ Ce champ peut également être utilisé pour indiquer qu'il s'agit d'une difficu
 
 #### Source
 
-**L'origine de la chanson.** En général, ce champ ne doit être utilisé que pour les chansons d'animes ou de jeux vidéo et occasionnellement pour les chansons de novels (films, télévision ou Internet).
+**L'origine de la musique.** En général, ce champ ne doit être utilisé que pour les musiques d'animes ou de jeux vidéo et occasionnellement pour les musiques de novels (films, télévision ou Internet).
 
-Si la chanson est tirée d'un anime, d'un jeu vidéo ou si elle est célèbre pour son utilisation dans un film ou une émission de télévision, le titre de cette source doit être ajouté dans ce champ. Dans le cas contraire, ce champ doit être laissé vide.
+Si la musique est tirée d'un anime, d'un jeu vidéo ou si elle est célèbre pour son utilisation dans un film ou une émission de télévision, le titre de cette source doit être ajouté dans ce champ. Dans le cas contraire, ce champ doit être laissé vide.
 
 *Remarque : Ce champ ne doit pas être utilisé pour les titres d'album, qui doivent être placés dans le champ [Tags](#tags).*
 
-Toutes les chansons n'ont pas besoin de quelque chose dans le champ source. La source est seulement pour les chansons qui sont tirées de quelque chose (par exemple, un jeu vidéo ou un anime). Les chansons rock et pop ordinaires peuvent laisser ce champ vide. D'autres informations pertinentes doivent être saisies dans le champ [Tags](#tags), comme le titre de l'album ou des informations sur le sous-genre.
+Toutes les musiques n'ont pas besoin de quelque chose dans le champ source. La source est seulement pour les musiques qui sont tirées de quelque chose (par exemple, un jeu vidéo ou un anime). Les musiques rock et pop ordinaires peuvent laisser ce champ vide. D'autres informations pertinentes doivent être saisies dans le champ [Tags](#tags), comme le titre de l'album ou des informations sur le sous-genre.
 
 #### Tags
 

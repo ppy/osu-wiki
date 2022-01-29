@@ -7,7 +7,7 @@
 Nominateur : [NoHItter](https://osu.ppy.sh/users/124455)
 
 La **post-spinner note** est constituée d'un objet après un long spinner.
-Il est généralement placé à la fin de la chanson.
+Il est généralement placé à la fin de la musique.
 
 ### Pre-Spinner Note
 
@@ -17,7 +17,7 @@ La **pre-spinner note** est constituée d'un objet qui est placé juste avant un
 Cet objet donne le *battement* tandis que le spinner fournit la résolution de ce *battement*.
 Le spinner suit généralement 1/2, 1/3/ 1/4 ou 1/6 de temps après pour ne pas paraître disjoint de l'objet.
 
-Des maps antérieures peuvent chevaucher ces objets et le spinner.
+Des beatmaps antérieures peuvent chevaucher ces objets et le spinner.
 **Cependant, si vous les chevauchez, votre carte ne sera pas classée !**
 
 ## Variation du spinner
@@ -29,8 +29,8 @@ Nominateur : [Lilac](https://osu.ppy.sh/users/58197)
 Les **double spinners** sont assez explicites.
 Il s'agit de placer deux spinners l'un juste après l'autre, généralement pour produire un hitsound pour le spinner suivant sans utiliser de cercle ou de [pre-spinner note](#pre-spinner-note).
 
-Il existe des maps classées qui utilisent 3 spinners à la suite, mais elles sont très rares.
-Cette technique est généralement utilisée avant une pause ou vers la fin d'une chanson.
+Il existe des beatmaps classées qui utilisent 3 spinners à la suite, mais elles sont très rares.
+Cette technique est généralement utilisée avant une pause ou vers la fin d'une musique.
 
 ### End Spinner
 

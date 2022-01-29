@@ -6,7 +6,7 @@ Avec une grande variété de musique disponible, la plupart d'entre elles pourro
 - Promotrice de tension ou de division raciale
 - Extrêmement et insupportablement fort ou excessivement écrêté
 
-Veuillez noter que les chansons au contenu explicite sont [couvertes par des règles différentes](/wiki/Rules/Explicit_Content).
+Veuillez noter que les musiques au contenu explicite sont [couvertes par des règles différentes](/wiki/Rules/Explicit_Content).
 
 ## Qu'est-ce qui est considéré comme un contenu "fortement politisé" ?
 

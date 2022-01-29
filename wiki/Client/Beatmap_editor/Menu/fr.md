@@ -42,7 +42,7 @@
 
 | Nom | Description |
 | :-- | :-- |
-| Ouvrir le dossier Songs | Ouvre l'emplacement du dossier des chansons dans osu!/Songs. |
+| Ouvrir le dossier Songs | Ouvre l'emplacement du dossier des musiques dans osu!/Songs. |
 | Ouvrir le fichier `.osu` dans le bloc-note | Ouvre le fichier de difficulté de la beatmap dans Microsoft Notepad. |
 | Ouvrir le fichier `.osb` dans le bloc-note | Ouvre le fichier de base (storyboard) dans Microsoft Notepad. |
 
@@ -60,7 +60,7 @@
 
 ### Commandes Rétablir/Annuler
 
-Notez que ces commandes peuvent être désactivées dans les [Options](/wiki/Client/Options) pour éviter les plantages lors de l'édition de chansons marathon.
+Notez que ces commandes peuvent être désactivées dans les [Options](/wiki/Client/Options) pour éviter les plantages lors de l'édition de musiques marathon.
 
 | Nom | Description |
 | :-- | :-- |
@@ -89,7 +89,7 @@ Notez que ces commandes peuvent être désactivées dans les [Options](/wiki/Cli
 
 | Nom | Description |
 | :-- | :-- |
-| Inverser (`Ctrl` + `G`) | **Slider :** Inverse le placement de la numérotation. **Tout sélectionner :** Le design de votre beatmap va dans l'autre sens. Exemple : Un hitcircle à la 10ème seconde sera déplacé à la dernière 10ème seconde de la chanson et vice versa. |
+| Inverser (`Ctrl` + `G`) | **Slider :** Inverse le placement de la numérotation. **Tout sélectionner :** Le design de votre beatmap va dans l'autre sens. Exemple : Un hitcircle à la 10ème seconde sera déplacé à la dernière 10ème seconde de la musique et vice versa. |
 | Symétrie horizontale (`Ctrl` + `H`) | Retourne la ou les notes de gauche à droite (par rapport à la ligne de l'axe des y de l'origine du terrain de jeu) et vice versa. |
 | Symétrie verticale (`Ctrl` + `J`) | Retourne la ou les notes de haut en bas (par rapport à la ligne de l'axe x de l'origine du terrain de jeu) et vice versa. |
 | Rotation 90° horaire (`Ctrl` + `>`) | Fait pivoter la ou les notes de 90° vers la droite. |
@@ -167,7 +167,7 @@ Notez que ces commandes peuvent être désactivées dans les [Options](/wiki/Cli
 | :-- | :-- |
 | Insérer des notes en cercle... (`Ctrl` + `Shift` + `D`) | Crée un flow circulaire de cercles. Vous pouvez ajuster la Distance Snap (0.1x - 2.0x) {Espacement entre les notes}, l'angle Offset (0° - 180°) {Angle de rotation}, la répétition et les points (3 - 14/282) {Nombre de cercles}. |
 | Convertir un slider en stream... | (Sélectionnez un slider) Change le curseur en flow de cercles. Vous pouvez choisir entre deux options : Par nombre d'objets ou Par distance instantanée. **Par nombre d'objets :** Ajustez le slider flow avec la quantité donnée de cercles (1 - 17/100). **Par la distance instantanée :** Ajuste le slider flow avec une distance donnée entre deux notes (0.10x - 5.00x). Peut résulter en une quantité absurde de cercles, puisqu'il s'appuie sur le diviseur de mesure (un temps = une note). **Beat Snap Divisor :** Ajusteur de timing des notes. |
-| Activer le live mapping (`Ctrl` + Tab) | Maps osu!/osu!catch/osu!taiko : utilisez les touches osu!taiko pour saisir des cercles/fruit/taiko, tout en jouant le morceau dans l'éditeur. Les notes sont placées selon l'emplacement du curseur. Différents sons en fonction de la touche osu!taiko sur laquelle vous avez appuyée. maps osu!mania : utilisez les touches osu!mania pour placer des cercles, tout en jouant un morceau dans l'éditeur. La note est placée selon la touche sur laquelle vous avez appuyée. Ne fonctionne pas pour les sliders/holds. |
+| Activer le live mapping (`Ctrl` + Tab) | Beatmaps osu!/osu!catch/osu!taiko : utilisez les touches osu!taiko pour saisir des cercles/fruit/taiko, tout en jouant le morceau dans l'éditeur. Les notes sont placées selon l'emplacement du curseur. Différents sons en fonction de la touche osu!taiko sur laquelle vous avez appuyée. beatmaps osu!mania : utilisez les touches osu!mania pour placer des cercles, tout en jouant un morceau dans l'éditeur. La note est placée selon la touche sur laquelle vous avez appuyée. Ne fonctionne pas pour les sliders/holds. |
 | Importer un bruitage | [Keysound and Sound Sampling.](/wiki/Client/Beatmap_editor/Compose) |
 
 ## Design
@@ -215,7 +215,7 @@ Notez que ces commandes peuvent être désactivées dans les [Options](/wiki/Cli
 | :-- | :-- |
 | Repositionner tous les élements | Repositionne toutes les notes à leurs sections respectives. |
 | Déplacer tout les élements de... | Déplace toutes les notes par #ms |
-| Recalculer la longueur des sliders | Fait recalculer la longueur des sliders à osu!. (Il est préférable de l'utiliser si le bpm/la vitesse du slider/le multiplicateur de vitesse du slider a changé.) **Attention :** Faire cela peut raccourcir la longueur de tous les sliders ! Vérifiez votre map après utilisation ! |
+| Recalculer la longueur des sliders | Fait recalculer la longueur des sliders à osu!. (Il est préférable de l'utiliser si le bpm/la vitesse du slider/le multiplicateur de vitesse du slider a changé.) **Attention :** Faire cela peut raccourcir la longueur de tous les sliders ! Vérifiez votre beatmap après utilisation ! |
 | Supprimer toutes les sections temporelles | Purge le timing |
 
 ### Commande de prévisualisation

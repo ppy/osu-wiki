@@ -41,7 +41,7 @@ Ce mod a le même effet dans tous les modes de jeu.
 ## Le saviez-vous ?
 
 - Le mod Nightcore était à l'origine une [blague de poisson d'avril](https://osu.ppy.sh/community/forums/topics/49733) mais a ensuite été ajouté au jeu en tant que mod jouable.
-- Le mod Nightcore tire son nom du genre (ou pour certains, du sous-genre) "Nightcore" dans lequel les chansons sont modifiées ou créées pour être accélérées d'environ 10 à 30 % et avoir des voix plus aiguës. Bien que la validité et l'histoire de ce type de musique soient controversées.
+- Le mod Nightcore tire son nom du genre (ou pour certains, du sous-genre) "Nightcore" dans lequel les musiques sont modifiées ou créées pour être accélérées d'environ 10 à 30 % et avoir des voix plus aiguës. Bien que la validité et l'histoire de ce type de musique soient controversées.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

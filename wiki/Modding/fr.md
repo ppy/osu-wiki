@@ -10,7 +10,7 @@ Les mods sont principalement utilisés pour améliorer les beatmaps visant la ca
 
 Bien qu'il existe d'innombrables façons de découvrir les beatmaps à modder, voici quelques méthodes courantes :
 
-- Le forum [Modding Queues](https://osu.ppy.sh/community/forums/60) est la plateforme la plus utilisée pour trouver des beatmaps à modder et demander des mods. Un utilisateur peut créer son propre fil de discussion, appelé "file d'attente", pour que d'autres utilisateurs puissent poster des maps à modder.
+- Le forum [Modding Queues](https://osu.ppy.sh/community/forums/60) est la plateforme la plus utilisée pour trouver des beatmaps à modder et demander des mods. Un utilisateur peut créer son propre fil de discussion, appelé "file d'attente", pour que d'autres utilisateurs puissent poster des beatmaps à modder.
 
   Le créateur de chaque file d'attente en dicte les règles, contrôlant quelles beatmaps sont viables pour recevoir des mods. Les files d'attente sont généralement ouvertes aux demandes de deux types de mods :
 

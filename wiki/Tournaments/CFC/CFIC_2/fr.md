@@ -38,7 +38,7 @@ La Catch French Intermediate Cup 2 était gérée par différents membres de la 
 | Poste | Membre(s) |
 | :-- | :-- |
 | Organisateur | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Sélectionneur de map | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
+| Sélectionneur de beatmap | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
 | Arbitre | ![][flag_FR] [Apsuko](https://osu.ppy.sh/users/9313135), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Streamer | ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
 | Commentateur | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
@@ -84,7 +84,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) |
 
-## Liste des maps
+## Liste des beatmaps
 
 ### Grandes Finales
 
@@ -337,10 +337,10 @@ Dimanche, 23 Février 2020:
 
 ### Règlements de match
 
-1. Les joueurs banniront à chaque match **2 maps chacun** pour un total de 4 maps bannies.
+1. Les joueurs banniront à chaque match **2 beatmaps chacun** pour un total de 4 beatmaps bannies.
 2. Les joueurs lanceront un `!roll` au début du match pour déterminer l'ordre des choix.
 3. Les joueurs seront forcés de prendre un mod sur un pick FreeMod.
-4. Les joueurs ne pourront pas ban plus d'une map dans un mod.
+4. Les joueurs ne pourront pas ban plus d'une beatmap dans un mod.
 5. Un joueur ne peut pas choisir deux cartes du même mod à la suite.
 6. Le Hidden sera autorisé pour accompagner du Hard Rock ou du Double Time.
 7. Le Tiebreaker est joué en FreeMod.

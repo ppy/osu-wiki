@@ -29,4 +29,4 @@ Pour changer le volume d'un slider à mi-parcours, le sampleset actuel doit êtr
 
 ## Techniques des sliders
 
-Les sliders sont souvent associés à des sons longs ou tenus dans la musique, mais peuvent être utilisés n'importe où tant qu'il y a un rythme pour les soutenir. Les sliders sont utilisés pour rendre la lecture intuitive lorsque les chansons ont des changements de rythme, car les slidertails donnent un feedback mais sont jouées passivement. Les sliders sont également utilisés pour simplifier le rythme sur des difficultés plus faciles.
+Les sliders sont souvent associés à des sons longs ou tenus dans la musique, mais peuvent être utilisés n'importe où tant qu'il y a un rythme pour les soutenir. Les sliders sont utilisés pour rendre la lecture intuitive lorsque les musiques ont des changements de rythme, car les slidertails donnent un feedback mais sont jouées passivement. Les sliders sont également utilisés pour simplifier le rythme sur des difficultés plus faciles.

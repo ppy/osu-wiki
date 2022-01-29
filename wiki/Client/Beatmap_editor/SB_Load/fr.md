@@ -4,7 +4,7 @@ La **Charge du SB** (abréviation de storyboard load) est un nombre utilisé dan
 
 Sans storyboarding, cette valeur est de 1x (car l'espace de 640x480 doit être dessiné une fois). Si l'on inclut une seule image qui occupe exactement la moitié de l'écran, on obtient 1,5x ; si l'on inclut deux images qui se chevauchent entièrement et occupent la moitié de l'écran, on obtient 2x.
 
-Il est préférable qu'une carte ne dépasse jamais 5x de charge SB. Cela permet de s'assurer que la map est visible pour la plupart des joueurs sans causer de stress excessif sur le matériel graphique.
+Il est préférable qu'une carte ne dépasse jamais 5x de charge SB. Cela permet de s'assurer que la beatmap est visible pour la plupart des joueurs sans causer de stress excessif sur le matériel graphique.
 
 [Message original du forum](https://osu.ppy.sh/community/forums/posts/525077)
 
@@ -21,15 +21,15 @@ Voici quelques suggestions importantes pour réduire la pression qu'un storyboar
 
 ### Désactiver votre image de fond
 
-Par défaut, l'arrière-plan que vous choisissez pour votre map est affiché en arrière-plan pendant toute la chanson, même si vous faites un storyboard devant. Cela fonctionne très bien si vous avez un SB minimaliste, ou si votre image de fond est affichée en arrière-plan tout au long de votre SB.
+Par défaut, l'arrière-plan que vous choisissez pour votre beatmap est affiché en arrière-plan pendant toute la musique, même si vous faites un storyboard devant. Cela fonctionne très bien si vous avez un SB minimaliste, ou si votre image de fond est affichée en arrière-plan tout au long de votre SB.
 
 Cependant, si vous commencez à faire du storyboarding avec d'autres arrière-plans devant votre arrière-plan, cela pose un problème. Vous voyez, osu! continue à dessiner votre arrière-plan même s'il y a des choses devant lui, et plus vous avez de couches, plus osu! doit en traiter, donc si vous avez des couches cachées, vous gaspillez des ressources système.
 
 Alors, que faites-vous ?
 
-osu! possède une fonction d'élimination des redondances qui désactivera automatiquement l'affichage de votre image d'arrière-plan tout au long de la chanson si vous utilisez la même image n'importe où dans votre storyboard. Donc, si votre image de fond est utilisée comme fond pour une seule "scène" de votre storyboard, ou si elle fait partie d'un diaporama, appelez simplement votre image dans le SB de la même manière que vous appelez toutes les autres images, et tout ira bien.
+osu! possède une fonction d'élimination des redondances qui désactivera automatiquement l'affichage de votre image d'arrière-plan tout au long de la musique si vous utilisez la même image n'importe où dans votre storyboard. Donc, si votre image de fond est utilisée comme fond pour une seule "scène" de votre storyboard, ou si elle fait partie d'un diaporama, appelez simplement votre image dans le SB de la même manière que vous appelez toutes les autres images, et tout ira bien.
 
-Mais si vous avez des éléments de storyboard différents sur toute la map, et que vous voulez juste ajouter une image qui s'affichera comme fond dans le menu de sélection des chansons, et comme vignette sur le site web, alors ce que vous faites est de définir l'image comme fond normalement, et ensuite ajouter une seule ligne de code SB sous le titre "//Storyboard Layer 0 (Background)" de votre `.osb` (ou `.osu`, si vous faites des choses différentes sur chaque difficulté). Cette ligne appelle simplement l'arrière-plan, et ne fait rien avec.
+Mais si vous avez des éléments de storyboard différents sur toute la beatmap, et que vous voulez juste ajouter une image qui s'affichera comme fond dans le menu de sélection des musiques, et comme vignette sur le site web, alors ce que vous faites est de définir l'image comme fond normalement, et ensuite ajouter une seule ligne de code SB sous le titre "//Storyboard Layer 0 (Background)" de votre `.osb` (ou `.osu`, si vous faites des choses différentes sur chaque difficulté). Cette ligne appelle simplement l'arrière-plan, et ne fait rien avec.
 
 **Remplacez simplement "background.jpg" par le nom de fichier de votre image dans la ligne suivante :**
 
@@ -44,7 +44,7 @@ Pour chaque png que vous utilisez dans votre storyboard, osu! doit en dessiner l
 - **Découpez vos images autant que possible.** Photoshop dispose d'un outil qui peut faire cela pour vous. Il vous suffit de cliquer sur Image -> Trim et vous obtiendrez plusieurs options pour recadrer les espaces vides autour de vos bords.
 - **Utilisez les différentes options d'"origine" que vous offre le storyboard.** Disons que vous avez un sprite d'un personnage dont la tête bouge de haut en bas. Dans la plupart des images, il y a un morceau d'espace vide en haut du sprite, parce que vous voulez que toutes les images soient alignées, n'est-ce pas ? Mais si vous définissez l'origine sur BottomCentre, la hauteur du sprite n'aura aucune importance, il sera toujours aligné depuis le bas. Vous pouvez donc éliminer l'espace vide en haut.
 - **Plusieurs petites images peuvent être préférables à une grande image.** Cela peut être assez spécifique à la situation, mais disons que vous avez un grand sprite qui ne contient que cinq petites étoiles. En coupant ce sprite, vous risquez de laisser un tas d'espace vide au milieu. Découper le sprite en plusieurs petits sprites peut sembler inefficace, mais comme la contrainte d'osu! provient du nombre de pixels plutôt que du nombre de fichiers, cela peut être une grande amélioration.
-  - De même, si vous disposez d'une image "cadre" plein écran, avec une grande fenêtre ou un écran donnant sur le reste de votre SB, envisagez de la diviser en 4 images, une pour le côté gauche, une pour le côté droit, une pour le haut et une pour le bas. Maintenant, au lieu de dessiner presque tout un écran de pixels clairs, votre espace vide est en faite vide, car seule la bordure est dessinée. Vous voudrez probablement avoir un peu de chevauchement dans les coins pour éviter que des trous n'apparaissent lorsque la map est jouée à certaines résolutions, mais essayez de garder le chevauchement aussi mince que possible.
+  - De même, si vous disposez d'une image "cadre" plein écran, avec une grande fenêtre ou un écran donnant sur le reste de votre SB, envisagez de la diviser en 4 images, une pour le côté gauche, une pour le côté droit, une pour le haut et une pour le bas. Maintenant, au lieu de dessiner presque tout un écran de pixels clairs, votre espace vide est en faite vide, car seule la bordure est dessinée. Vous voudrez probablement avoir un peu de chevauchement dans les coins pour éviter que des trous n'apparaissent lorsque la beatmap est jouée à certaines résolutions, mais essayez de garder le chevauchement aussi mince que possible.
 
 ### N'oubliez pas que vous pouvez recolorer les images en utilisant le codage SB
 
