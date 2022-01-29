@@ -22,12 +22,12 @@ In case you *somehow* haven't heard the timeless classic yet, shove your face in
     </video>
 </div>
 
-### Ghost Assassin
+### Ghost Assassin (feat. Veela)
 
 Explore [the original map from the video above](https://osu.ppy.sh/beatmapsets/198820) hosted by [alacat](https://osu.ppy.sh/users/869782) or [this modern rendition](https://osu.ppy.sh/beatmapsets/953367) hosted by [Marle](https://osu.ppy.sh/users/4800816)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/235/Songs/Maduk%20-%20Ghost%20Assassin%20%28feat.%20Veela%29.mp3" type="audio/mpeg">
 </audio>
 
 ### Misun - Eli Eli (Maduk Remix)
@@ -35,7 +35,7 @@ Explore [the original map from the video above](https://osu.ppy.sh/beatmapsets/1
 See how **Maduk** transforms pop songs into drum & bass through [this beatmap](https://osu.ppy.sh/beatmapsets/708908) hosted by [Milan-](https://osu.ppy.sh/users/1052994) or [this new marathon](https://osu.ppy.sh/beatmapsets/1654092) hosted by [elicz1](https://osu.ppy.sh/users/8039342)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/235/Songs/Misun%20-%20Eli%20Eli%20%28Maduk%20Remix%29.mp3" type="audio/mpeg">
 </audio>
 
 ### Company (feat. Juul)
@@ -43,7 +43,7 @@ See how **Maduk** transforms pop songs into drum & bass through [this beatmap](h
 Try out [this new mapset](https://osu.ppy.sh/beatmapsets/1667478) hosted by [Zer0-](https://osu.ppy.sh/users/4260033)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/235/Songs/Maduk%20-%20Company%20%28feat.%20Juul%29.mp3" type="audio/mpeg">
 </audio>
 
 ### Go (feat. Lachi)
@@ -51,7 +51,7 @@ Try out [this new mapset](https://osu.ppy.sh/beatmapsets/1667478) hosted by [Zer
 Check your low approach rate capabilities with [this mapset](https://osu.ppy.sh/beatmapsets/1675558) hosted by our own drum & bass legend [Strategas](https://osu.ppy.sh/users/2971837)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/235/Songs/Maduk%20-%20Go%20%28feat.%20Lachi%29.mp3" type="audio/mpeg">
 </audio>
 
 ---
