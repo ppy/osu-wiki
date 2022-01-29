@@ -14,7 +14,7 @@ Drum & bass has almost always been a staple in our circle clicking game. The gen
 
 And that's only the tip of the iceberg. We have **21** tracks up and ready for mapping from [**Maduk**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/235)!
 
-In case you *somehow* haven't heard the timeless classic yet, shove your face into this video of [Ghost Assassin](https://osu.ppy.sh/beatmapsets/198820) showcasing a few skins  from the ongoing [Winter-themed skinning contest](https://osu.ppy.sh/community/contests/137), then take a listen to the rest of the previews below:
+In case you *somehow* haven't heard the timeless classic yet, shove your face into this video of [Ghost Assassin](https://osu.ppy.sh/beatmapsets/198820) showcasing a few skins from the ongoing [winter-themed skinning contest](https://osu.ppy.sh/community/contests/137), then take a listen to the rest of the previews below:
 
 <div align="center">
     <video width="100%" controls>
