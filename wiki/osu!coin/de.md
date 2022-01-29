@@ -9,7 +9,7 @@ tags:
 
 ![Mehrere osu!coins](img/coins2x.png)![Ein einzelner osu!coin](img/coin2x.png)
 
-Der **osu!coin** war eine scherzhafte Spielwährung, die sich über Monetarisierungssysteme für andere kostenlose Spiele lustig gemacht hat. Die Währung wurde als Aprilscherz 2015 eingeführt und erlaubte Spieler eine einzige [Beatmap](/wiki/Beatmap) zu spielen, im Austausch gegen einen osu!coin.
+Der **osu!coin** war eine scherzhafte Spielwährung, die sich über Monetarisierungssysteme für andere kostenlose Spiele lustig gemacht hat. Die Währung wurde als Aprilscherz 2015 eingeführt und erlaubte Spielern eine einzige [Beatmap](/wiki/Beatmap) zu spielen, im Austausch gegen einen osu!coin.
 
 ## Veröffentlichung
 
@@ -38,7 +38,7 @@ Das Update wurde generell gut angenommen von den Spielern, da es eine willkommen
 
 ## Weiterführende Links
 
-- osu!academy führt osu!coins ein: [Introduction to osu!coins (April Fools' 2015)](https://www.youtube.com/watch?v=BImc5McuK1o)
+- osu!academy führt osu!coins vor: [Introduction to osu!coins (April Fools' 2015)](https://www.youtube.com/watch?v=BImc5McuK1o)
 - peppy kündigt osu!coins an: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australien"

@@ -9,7 +9,7 @@ tags:
 
 Indexseite für Artikel über den Spiel-Client von osu! und seine Hauptabschnitte.
 
-## Grundlagen
+## Übersicht
 
 - [Installation](Installation)
 - [Tastenkürzel](Keyboard_shortcuts)
