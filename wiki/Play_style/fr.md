@@ -18,7 +18,7 @@ Ce style de jeu est largement considéré comme la méthode la plus difficile à
 
 La double souris est un style de jeu dans lequel un joueur a une souris dans chaque main ; il utilise une souris pour taper et une autre pour déplacer le curseur dans le jeu.
 
-Ce style de jeu était considéré comme une blague par la plupart des joueurs jusqu'en mai 2013, lorsque le joueur canadien ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) a commencé à obtenir les meilleurs scores sur des beatmaps très respectées comme [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatbeatmapsets/29691) et [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatbeatmapsets/41823) en jouant avec deux souris.
+Ce style de jeu était considéré comme une blague par la plupart des joueurs jusqu'en mai 2013, lorsque le joueur canadien ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) a commencé à obtenir les meilleurs scores sur des beatmaps très respectées comme [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) et [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) en jouant avec deux souris.
 
 *Note : Il est également courant pour les joueurs qui jouent en double souris de scotcher la souris utilisée pour cliquer sur le bureau.*
 
