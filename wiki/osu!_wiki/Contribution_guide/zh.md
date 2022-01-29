@@ -2,6 +2,8 @@
 
 感谢你有兴趣让 osu! wiki 变得更好！这篇文章逐步介绍了贡献过程。如果你熟悉 GitHub，则可以按照通用功能分支工作流程提出更改并跳到[自检](#自检)部分。
 
+新贡献者可能不熟悉 GitHub 或 [git](https://git-scm.com/)，因为它们是主要为开发人员量身定制的工具。 如果你第一次没有做对，请不要担心——[wiki 维护者](/wiki/osu!_wiki/Maintenance/List_of_maintainers)会为你指出正确的方向或者帮助你修复它。
+
 如果你对某些内容感到困惑，需要帮助，欢迎在 [osu!dev Discord 频道](https://discord.gg/ppy)（ `#osu-wiki` 频道）中询问我们。
 
 ## 感兴趣的领域
@@ -46,7 +48,7 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 
 ## 审阅
 
-所有对 osu! wiki 的更改都需要审阅。在这个阶段，其他合作者会指出可能出现的错误以及修复它们的方法，无论任何形式，还是建议直接在 Pull request 中编辑。和其他审阅者一样，你需要应用他们的建议或者解释你不想进行修改的原因。
+所有对 osu! wiki 的更改都需要审阅。在这个阶段，其他合作者会指出可能出现的错误以及修复它们的方法，无论任何形式，还是建议直接在 Pull request 中编辑。和其他审阅者一样，你需要[应用他们的建议](/wiki/osu!_wiki/Contribution_guide/Best_practices#applying-reviews)或者解释你不想进行修改的原因。
 
 如果一段时间内没有人检查你的文章，请尝试这样做：
 
