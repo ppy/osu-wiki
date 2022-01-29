@@ -4,17 +4,17 @@ title: "New Featured Artist: Maduk"
 date: 2022-01-29 09:00:00 +0000
 ---
 
-Our latest Featured Artist **Maduk** is here to fully engulf your eardrums in liquid drum & bass.
+Our latest Featured Artist **Maduk** is here to fully submerge your eardrums in liquid drum & bass!
 
 ![](https://assets.ppy.sh/artists/235/header.jpg)
 
-Drum & bass has almost always been a staple in our circle clicking game. The genre offers a perfect stream:jump ratio at a familiar ~174 BPM, all while being a pleasure to listen to.
+Drum & bass has almost always been a staple in our circle clicking game. The genre offers a perfect stream-to-jump ratio at a familiar ~174 BPM, all while being a pleasure to listen to.
 
 **Maduk** can be credited for much of the success of drum & bass on osu!. [Ghost Assassin](https://osu.ppy.sh/beatmapsets/198820) has collected literally *millions* of plays since being ranked in 2014, setting the stage for hundreds of drum & bass maps that came soon after.
 
 And that's only the tip of the iceberg. We have **21** tracks up and ready for mapping from [**Maduk**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/235)!
 
-In case you *somehow* haven't heard the timeless classic yet, shove your face into this video of [Ghost Assassin](https://osu.ppy.sh/beatmapsets/198820) showcasing skins in the ongoing [Winter-themed skinning contest](https://osu.ppy.sh/community/contests/137), then take a listen to the rest of the previews below:
+In case you *somehow* haven't heard the timeless classic yet, shove your face into this video of [Ghost Assassin](https://osu.ppy.sh/beatmapsets/198820) showcasing a few skins  from the ongoing [Winter-themed skinning contest](https://osu.ppy.sh/community/contests/137), then take a listen to the rest of the previews below:
 
 <div align="center">
     <video width="100%" controls>
