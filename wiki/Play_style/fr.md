@@ -8,7 +8,7 @@ Cette page détaille les différentes façons dont les joueurs peuvent choisir d
 
 *Remarque : La souris était autrefois la seule façon de jouer à osu!, jusqu'à ce que d'autres méthodes de jeu soient prises en charge au fil du temps.*
 
-Aussi connu sous le nom de *souris pure*, les joueurs qui n'utilisent que la souris se déplacent avec le curseur en tapant, en suivant les sliders et en faisant tourner les spinners en cliquant uniquement sur les boutons gauche et droit de la souris.
+Aussi connu sous le nom de *mouse only*, les joueurs qui n'utilisent que la souris se déplacent avec le curseur en tapant, en suivant les sliders et en faisant tourner les spinners en cliquant uniquement sur les boutons gauche et droit de la souris.
 
 Ce style de jeu est largement considéré comme la méthode la plus difficile à utiliser et les joueurs utilisant uniquement la souris qui se classent bien dans les classements généraux sont généralement très respectés par la communauté.
 
