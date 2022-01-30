@@ -1,6 +1,6 @@
 # osu! ranking criteria
 
-***注意: 这个文件是[通用 ranking criteria](/wiki/Ranking_Criteria)的扩展。***
+***注意: 这个文件是[通用 Ranking Criteria](/wiki/Ranking_Criteria)的扩展。***
 
 为了使 [osu!](/wiki/Game_mode/osu!) 特定模式的[谱面](/wiki/Beatmap)通过[谱面 Ranking 程序](/wiki/Beatmap_ranking_procedure)，则必须遵守 **osu! ranking criteria** 内列出的[规定和准则](/wiki/Ranking_Criteria#general-terms)。
 
