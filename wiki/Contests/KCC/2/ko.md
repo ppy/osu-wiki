@@ -12,7 +12,7 @@ tags:
 
 ## 대회 일정
 
-| 일정 | 날짜 (UTC+09) |
+| 일정 | 날짜 (UTC+9) |
 | --: | :-- |
 | 제출 기간 | 2022-01-30/2022-02-27 |
 | 심사 기간 | 2022-02-28/2022-03-13 |
@@ -22,7 +22,7 @@ tags:
 
 | 순위 | 상품 |
 | :-: | :-- |
-| ![금상](/wiki/shared/crown-gold.png "1위") | 50,000 KRW, 프로필 뱃지(미정) |
+| ![금상](/wiki/shared/crown-gold.png "1위") | 50,000 KRW, 프로필 뱃지 (미정) |
 | ![은상](/wiki/shared/crown-silver.png "2위") | 20,000 KRW |
 | ![동상](/wiki/shared/crown-bronze.png "3위") | 10,000 KRW |
 
@@ -40,6 +40,20 @@ tags:
 ## 링크
 
 - [포럼 스레드](https://osu.ppy.sh/community/forums/topics/1507792)
+
+## 곡 리스트
+
+### Instrumental
+
+- lapix - shime (Extended Mix) (3:44) / 160bpm
+- Mitsukiyo - rolling beat (2:31) / 170bpm
+- Laur - PRAGMATISM -RESURRECTION- (2:36) / 174bpm
+
+### Vocal
+
+- fishbowl feat.Yukichi Kasaku/men - Shinkai (3:37) / 133bpm
+- Tokyo Jihen - Sounan (3:20) / 156bpm
+- Kabocha feat. Sennzai - Morphobia (3:54) / 145bpm
 
 ## 규칙
 
@@ -73,5 +87,5 @@ tags:
 
 [flag_CN]: /wiki/shared/flag/CN.gif "중국"
 [flag_KR]: /wiki/shared/flag/KR.gif "대한민국"
-[flag_SG]: /wiki/shared/flag/SG.gif "싱가포르"
 [flag_PH]: /wiki/shared/flag/PH.gif "필리핀"
+[flag_SG]: /wiki/shared/flag/SG.gif "싱가포르"
