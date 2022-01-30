@@ -179,6 +179,34 @@ The 4 Digit osu!mania World Cup 4 is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 29 January 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ![][flag_JP] | **6** | 3 | ![][flag_VE] Venezuela | [#1](https://osu.ppy.sh/community/matches/97121829) |
+| **Philippines** ![][flag_PH] | **6** | 0 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/97121928) |
+| Australia ![][flag_AU] | 3 | **6** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/97131419) |
+| **Thailand** ![][flag_TH] | **6** | 3 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/97132771) |
+| **Indonesia** ![][flag_ID] | **6** | 2 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/97134265) |
+| Taiwan ![][flag_TW] | 1 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/97136509) |
+| **United Kingdom** ![][flag_GB] | **6** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/97139761) |
+| **France** ![][flag_FR] | **6** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/97142006) |
+| Poland ![][flag_PL] | 3 | **6** | ![][flag_ES] **Spain** | [#1](https://osu.ppy.sh/community/matches/97144679) |
+| United States ![][flag_US] | 1 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/97158583) |
+| Netherlands ![][flag_NL] | 5 | **6** | ![][flag_PE] **Peru** | [#1](https://osu.ppy.sh/community/matches/97155865) |
+| **Canada** ![][flag_CA] | **6** | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/97158595) |
+
+Sunday, 30 January 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Philippines** ![][flag_PH] | **6** | 5 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/97180810) |
+| **Indonesia** ![][flag_ID] | **6** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/97183731) |
+| Spain ![][flag_ES] | 2 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/97185419) |
+| **Canada** ![][flag_CA] | **6** | 3 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/97185525) |
+
 ### Round of 16
 
 Saturday, 22 January 2022:
