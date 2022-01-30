@@ -64,7 +64,7 @@ Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* 
 
 1. Layangkan kursormu ke atas postingan forum yang hendak kamu laporkan.
 2. Dari deretan tombol yang muncul pada pojok kanan atas layar, klik tombol yang memiliki simbol peringatan.
-2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
+3. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
 
 ### Melaporkan komentar yang tidak pantas
 
