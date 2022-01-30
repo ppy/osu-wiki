@@ -1,7 +1,7 @@
 ---
 stub: true
 tags:
-  - no fail
+  - nofail
   - NF
   - mod
   - game modifier
@@ -24,7 +24,7 @@ tags:
 
 ## Description
 
-The **No Fail** mod is a [game modifier](/wiki/Game_modifier) that prevents the player from failing on [beatmaps](/wiki/Beatmap). Enabling the No Fail mod makes the player incapable of failing a [beatmap](/wiki/Beatmap) even if the [life bar](/wiki/Glossary/Health_bar) drops to zero. Although, if the player has not scored any points during the beatmap, the play *will* fail instead.
+The **No Fail** mod is a [game modifier](/wiki/Game_modifier) that prevents the player from failing on [beatmaps](/wiki/Beatmap). Enabling the No Fail mod makes the player incapable of failing a [beatmap](/wiki/Beatmap) even if the [life bar](/wiki/Client/Interface/Health_bar) drops to zero. Although, if the player has not scored any points during the beatmap, the play *will* fail instead.
 
 As of 16 January 2021, the No Fail mod may incur a certain penalty to the amount of [performance points](/wiki/Performance_points) that a player gains from a play depending on how many misses they get. Starting from a base value of 1.0x (100%), each miss will decrease the performance point gain multiplier by -0.02x (0.5%) up to a maximum of 0.9x (90%). <!-- pp change newspost: https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates -->
 

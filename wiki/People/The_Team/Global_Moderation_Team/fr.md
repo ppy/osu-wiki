@@ -21,7 +21,7 @@ La **Global Moderation Team** (anciennement appelée Global Mod Team, Administra
 ## Rôles et responsabilités
 
 ***Remarque : pour signaler qu'un modérateur s'est mal comporté ou a enfreint le code de conduite des contributeurs, contactez l'[équipe de support aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
-*Voir aussi : [Signaler un mauvais comportement](/wiki/Reporting_Bad_Behaviour)*
+*Voir aussi : [Signaler un mauvais comportement](/wiki/Reporting_bad_behaviour)*
 
 La Global Moderation Team est responsable du bien-être du tchat et du forum, et s'occupe des interactions au sein de la communauté. Vous pouvez la solliciter pour toute question relative à la modération du jeu, ce qui inclut (mais ne se limite pas à) :
 
@@ -39,7 +39,7 @@ Devenir membre de la Global Moderation Team exige une contribution importante. L
 Les facteurs les plus importants à prendre en compte sont le comportement, l'activité, la compréhension des [règles](/wiki/Rules) et la patience :
 
 1. Faites preuve d'un bon comportement en étant poli et en traitant les autres utilisateurs avec respect. Il est essentiel que votre compte soit exempt de silences ou de problèmes graves.
-2. Faire preuve d'activité dans le jeu en participant au chat et/ou aux forums. [Signaler tout mauvais comportement](/wiki/Reporting_Bad_Behaviour) et tout problème via le système de signalement. Répondre aux questions et aider les autres à résoudre leurs problèmes.
+2. Faire preuve d'activité dans le jeu en participant au chat et/ou aux forums. [Signaler tout mauvais comportement](/wiki/Reporting_bad_behaviour) et tout problème via le système de signalement. Répondre aux questions et aider les autres à résoudre leurs problèmes.
 3. Avoir une bonne compréhension des [règles](/wiki/Rules) et de leur application. Il est important de savoir ce qui est acceptable au sein d'osu! et ce qui ne l'est pas.
 4. Soyez patient. La GMT n'ajoute pas spontanément des membres qui aident depuis quelques jours seulement. Il est nécessaire de donner du temps à la GMT afin d'évaluer une personne - sa personnalité, ce qu'elle peut faire, son activité, etc.
 
@@ -61,6 +61,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | Nom | Langues supplémentaires | Domaine d'intérêt |
 | :-- | :-- | :-- |
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Allemand | Modération du tchat |
+| ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) | Hongrois | Modération du tchat |
 | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russe | Modération du tchat |
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Modération du forum |
 | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) |  | Gestion des tournois |
@@ -104,7 +105,6 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Présence officielle de l'équipe |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippin | Modération du tchat |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Allemand | Gestion des tournois |
-| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Français, un peu de Espagnol | Modération du tchat, modération du forum, modération de la communauté modding/mapping |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugais | Modération du tchat |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Cantonais, Chinois | Modération du tchat |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Coréen, Japonais | Modération du tchat |
@@ -130,7 +130,6 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polonais | Modération du tchat |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Modération du tchat |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turc, Allemand | Modération du tchat |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | Modération du tchat |
 
 ### Regroupés par langues modérées
 
@@ -150,7 +149,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985), ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#greek` |  |  |
 | `#hebrew` |  |  |
-| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) |  |
+| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) |
 | `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) |
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
@@ -177,9 +176,10 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_HM]: /wiki/shared/flag/HM.gif "Îles Heard et McDonald"
+[flag_HM]: /wiki/shared/flag/HM.gif "Île Heard et îles McDonald"
+[flag_HU]: /wiki/shared/flag/HU.gif "Hongrie"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italie"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
@@ -190,7 +190,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"

@@ -1,8 +1,8 @@
 ---
 tags:
-- tidak bisa submit map
-- tidak bisa upload map
-- masalah sistem submisi beatmap
+  - tidak bisa submit map
+  - tidak bisa upload map
+  - masalah sistem submisi beatmap
 ---
 
 # Bagaimana mengatasi masalah pada BSS
@@ -10,7 +10,7 @@ tags:
 Jika **[Sistem Submisi Beatmap](/wiki/Submission)** (***BSS***) tidak mengizinkan Anda mengunggah beatmap milik sendiri karena dikatakan bahwa map bukan milik Anda, maka lakukan hal berikut ini:
 
 1. Pergi ke folder beatmap.
-   - Secara singkat dapat melalui [beatmap editor](/wiki/Beatmap_Editor) pada menu `File` lalu pilih opsi `Open Song Folder`.
+   - Secara singkat dapat melalui [beatmap editor](/wiki/Client/Beatmap_editor) pada menu `File` lalu pilih opsi `Open Song Folder`.
 2. Keluar dari osu! (Ini untuk memastikan bahwa perubahan diterapkan dengan benar.)
 3. Buka berkas tingkat kesulitan `.osu` menggunakan editor plain text apapun (Misalnya. Notepad).
 4. Masukkan nama pengguna ke kotak `Creator`. (Jika nama pengguna memiliki spasi, maka gunakan spasi.)

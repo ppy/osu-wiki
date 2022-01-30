@@ -3,7 +3,7 @@
 | Nama medali | Persyaratan |
 | :-- | :-- |
 | Finality | Selesaikan sebuah beatmap dengan status Qualified, Ranked, atau Approved dengan mod [Sudden Death](/wiki/Game_modifier/Sudden_Death) dinyalakan. |
-| Perfectionist | Selesaikan sebuah beatmap dengan status Qualified, Ranked, atau Approved dengan mod [Perfect](wiki/Game_modifier/Perfect) dinyalakan. |
+| Perfectionist | Selesaikan sebuah beatmap dengan status Qualified, Ranked, atau Approved dengan mod [Perfect](/wiki/Game_modifier/Perfect) dinyalakan. |
 | Rock Around The Clock | Selesaikan sebuah beatmap dengan status Qualified, Ranked, atau Approved dengan mod [Hard Rock](/wiki/Game_modifier/Hard_Rock) dinyalakan. |
 | Time And A Half | Selesaikan sebuah beatmap dengan status Qualified, Ranked, atau Approved dengan mod [Double Time](/wiki/Game_modifier/Double_Time) dinyalakan. |
 | Sweet Rave Party | Selesaikan sebuah beatmap dengan status Qualified, Ranked, atau Approved dengan mod [Nightcore](/wiki/Game_modifier/Nightcore) dinyalakan. |

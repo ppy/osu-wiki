@@ -15,13 +15,13 @@ outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
 
 ![BanchoBot 的资料卡](img/BanchoBot.jpg "BanchoBot 的资料卡")
 
-**BanchoBot**（有时被称为 *Bancho*）是一个专为 osu! 设计的游戏内聊天机器人，它会在聊天频道内发布一些游戏相关的信息（比如你的游玩次数，重试次数等），并回应某些指令来帮助玩家。它由 [Echo](https://osu.ppy.sh/users/431) 编写，同时也提供了 Bancho 的 [IRC](/wiki/Internet_Relay_Chat) （互联网中继聊天）服务器。
+**BanchoBot**（有时被称为 *Bancho*）是一个专为 osu! 设计的游戏内聊天机器人，它会在聊天频道内发布一些游戏相关的信息（比如你的游玩次数，重试次数等），并回应某些指令来帮助玩家。它由 [Echo](https://osu.ppy.sh/users/431) 编写，同时也提供了 Bancho 的 [IRC](/wiki/Community/Internet_Relay_Chat) （互联网中继聊天）服务器。
 
 BanchoBot 拥有自己的 [osu! 个人资料](https://osu.ppy.sh/users/3)和一个[推特账号](https://twitter.com/banchoboat)。
 
 ## 指令
 
-*关于客户端指令，请参见：[聊天面板/命令列表](/wiki/Chat_Console#命令列表)*
+*关于客户端指令，请参见：[聊天面板/命令列表](/wiki/Client/Interface/Chat_console#命令列表)*
 
 BanchoBot 可通过玩家在聊天中发送的特殊信息来回应指令。所有 BanchoBot 的指令都以**英文半角感叹号**（`!`）开头，后跟指令名称且不区分大小写。这些指令可以在聊天频道中使用，也可以在与 BanchoBot 的私聊中使用。
 
@@ -130,7 +130,7 @@ BanchoBot 可通过玩家在聊天中发送的特殊信息来回应指令。所�
 
 ### 举报
 
-*关于什么值得举报的信息，参见：[举报不当行为](/wiki/Reporting_Bad_Behaviour)。*
+*关于什么值得举报的信息，参见：[举报不当行为](/wiki/Reporting_bad_behaviour)。*
 
 ```
 !report <用户名> <原因（最好用英文）>

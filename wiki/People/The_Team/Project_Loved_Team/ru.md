@@ -8,7 +8,7 @@ tags:
 
 # Команда Project Loved
 
-**Команда Project Loved** — пользователи, управляющие платформой голосования [Project Loved](/wiki/Project_Loved), которая продвигает карты в категорию [Loved](/wiki/Beatmap/Category#любимые). Их можно узнать по значку `LVD` в профиле и по нику, который имеет розовый цвет на форуме.
+**Команда Project Loved** — пользователи, управляющие платформой голосования [Project Loved](/wiki/Community/Project_Loved), которая продвигает карты в категорию [Loved](/wiki/Beatmap/Category#любимые). Их можно узнать по значку `LVD` в профиле и по нику, который имеет розовый цвет на форуме.
 
 Состав команды можно найти на [странице группы Project Loved](https://osu.ppy.sh/groups/31).
 
@@ -21,14 +21,13 @@ tags:
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983)
+- ![][flag_US] [kotkeone](https://osu.ppy.sh/users/10083084)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
-- ![][flag_US] [Wixonater](https://osu.ppy.sh/users/10083084)
 
 ### osu!taiko
 
 - ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861)
 - ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910)
-- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
 - ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438)
 - ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563)
 - ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
@@ -43,9 +42,11 @@ tags:
 ### osu!mania
 
 - ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750)
-- ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
+- ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722)
 - ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
+- ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479)
 - ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)
+- ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
 
 ## Координаторы
 
@@ -58,11 +59,13 @@ tags:
 
 Перечисленные ниже игроки проверяют все карты, номинированные на попадание в Loved, и вместе с мапперами исправляют возможные ошибки в метаданных до того, как карты одобрят.
 
+- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
-- ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
+- ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196)
+- ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
 
@@ -119,6 +122,7 @@ tags:
 
 ### Капитаны osu!mania
 
+- ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
 - ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852)
 - ![][flag_US] [Alter-](https://osu.ppy.sh/users/4980256)
@@ -133,6 +137,7 @@ tags:
 ### Редакторы видео
 
 - ![][flag_GB] [Striiker](https://osu.ppy.sh/users/7291594)
+- ![][flag_US] [ThatsNotAName](https://osu.ppy.sh/users/9682904)
 - ![][flag_HU] [verto](https://osu.ppy.sh/users/2015300)
 
 ## Факты
@@ -149,10 +154,11 @@ tags:
 [flag_ES]: /wiki/shared/flag/ES.gif "Испания"
 [flag_FR]: /wiki/shared/flag/FR.gif "Франция"
 [flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"
+[flag_GR]: /wiki/shared/flag/GR.gif "Греция"
 [flag_HU]: /wiki/shared/flag/HU.gif "Венгрия"
 [flag_IT]: /wiki/shared/flag/IT.gif "Италия"
 [flag_JP]: /wiki/shared/flag/JP.gif "Япония"
-[flag_KR]: /wiki/shared/flag/KR.gif "Южная Корея"
+[flag_KR]: /wiki/shared/flag/KR.gif "Республика Корея"
 [flag_LT]: /wiki/shared/flag/LT.gif "Литва"
 [flag_LV]: /wiki/shared/flag/LV.gif "Латвия"
 [flag_NL]: /wiki/shared/flag/NL.gif "Нидерланды"
@@ -164,4 +170,4 @@ tags:
 [flag_TN]: /wiki/shared/flag/TN.gif "Тунис"
 [flag_TR]: /wiki/shared/flag/TR.gif "Турция"
 [flag_TW]: /wiki/shared/flag/TW.gif "Тайвань"
-[flag_US]: /wiki/shared/flag/US.gif "США"
+[flag_US]: /wiki/shared/flag/US.gif "Соединённые Штаты Америки"

@@ -1,0 +1,67 @@
+separator: ", "
+alumni:
+  roles:
+    academy: osu!academy-Gründer
+    admin: Administration
+    chat: Chat-Moderator
+    dev: osu!dev
+    media: osu!media-Erstellung
+    support: Support-Team
+    tournaments: Verwaltung von Wettbewerben
+gmt:
+  all_mods: alle Moderatoren
+  areas:
+    beatmap: Beatmap-Moderation
+    chat: Chat-Moderation
+    forum: Forum-Moderation
+    team: offizielle Präsenz des Teams
+    dev: osu!-Entwicklung
+    player: Spieler-Support
+    support: Technischer Support
+    tournaments: Verwaltung von Wettbewerben
+    wiki: Wiki-Administration
+    mapping: Moderation der Mapping-/Modding-Community
+nat:
+  areas:
+    communication: Kommunikation
+    evaluation: Beurteilung
+    moderation: Moderation
+    structural: Strukturell
+languages:
+  partial: etwas <language>
+  ar: Arabisch
+  bg: Bulgarisch
+  bn: Bengalisch
+  ca: Katalanisch
+  da: Dänisch
+  de: Deutsch
+  el: Griechisch
+  es: Spanisch
+  et: Estnisch
+  fi: Finnisch
+  fil: Philippinisch
+  fr: Französisch
+  gl: Galizisch
+  hr: Kroatisch
+  hu: Ungarisch
+  id: Indonesisch
+  it: Italienisch
+  ja: Japanisch
+  ko: Koreanisch
+  lt: Litauisch
+  ms: Malaiisch
+  nl: Niederländisch
+  no: Norwegisch
+  pl: Polnisch
+  pt: Portugiesisch
+  ro: Rumänisch
+  ru: Russisch
+  sr: Serbisch
+  sv: Schwedisch
+  te: Telugu
+  th: Thailändisch
+  tr: Türkisch
+  ur: Urdu
+  vi: Vietnamesisch
+  yue: Kantonesisch
+  zh: Chinesisch

@@ -6,3 +6,7 @@ rules:
   comments: disable
   document-start: disable
   line-length: disable
+  truthy:
+    # no: Norway language code in meta/group-info
+    # on: list of Github Actions triggers
+    check-keys: false

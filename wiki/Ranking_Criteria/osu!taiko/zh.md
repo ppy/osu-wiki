@@ -13,13 +13,13 @@ outdated_since: 77ca2ba1c9070cde43e44918cd1b249f2266f2c8
 
 ### 难度名
 
-*主页面：[难度命名](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*主页面：[难度命名](/wiki/Ranking_Criteria/Difficulty_naming)*
 
-- ![](/wiki/shared/diff/easy-t.png) Kantan
-- ![](/wiki/shared/diff/normal-t.png) Futsuu
-- ![](/wiki/shared/diff/hard-t.png) Muzukashii
-- ![](/wiki/shared/diff/insane-t.png) Oni
-- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+- ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
+- ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
+- ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png?20211215) Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
 
 ### 游戏物件
 
@@ -80,7 +80,7 @@ outdated_since: 77ca2ba1c9070cde43e44918cd1b249f2266f2c8
 
 具体难度的规定和指南只适用于与它们在文中所列出位置相对应的难度，因此*不是**每个** osu! 难度都适用*。节奏相关的指南适用于 BPM180 左右的歌曲。如果你的歌曲的 BPM 比 180 快很多或者慢很多，一些数值会不一样，[缩放 BPM](/wiki/Ranking_Criteria/Scaling_BPM)中有更详细的介绍。
 
-### ![](/wiki/shared/diff/easy-t.png) Kantan
+### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 
 #### 规定
 
@@ -100,7 +100,7 @@ outdated_since: 77ca2ba1c9070cde43e44918cd1b249f2266f2c8
 - OD 应该不超过 4
 - HP 应该不小于 6。在音符数目较多时，HP 可以适当降低到 6 以下。
 
-### ![](/wiki/shared/diff/normal-t.png) Futsuu
+### ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 
 #### 规定
 
@@ -130,7 +130,7 @@ outdated_since: 77ca2ba1c9070cde43e44918cd1b249f2266f2c8
 - OD 应该不超过 5。
 - HP 应该不小于 5。在音符数目较多时，HP 可以适当降低到 5 以下。
 
-### ![](/wiki/shared/diff/hard-t.png) Muzukashii
+### ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 
 #### 规定
 
@@ -153,7 +153,7 @@ outdated_since: 77ca2ba1c9070cde43e44918cd1b249f2266f2c8
 - OD 应该不超过 5。
 - HP 应该不小于 5。在音符数目较多时，HP 可以适当降低到 5 以下。
 
-### ![](/wiki/shared/diff/insane-t.png) Oni
+### ![](/wiki/shared/diff/insane-t.png?20211215) Oni
 
 #### 规定
 
@@ -175,7 +175,7 @@ outdated_since: 77ca2ba1c9070cde43e44918cd1b249f2266f2c8
 - OD 应该不小于 5。
 - HP 应该不小于 5。在音符数目较多时可以适当降低到 5 以下。
 
-### ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+### ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
 
 #### 指南
 

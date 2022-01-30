@@ -8,7 +8,7 @@ tags:
 
 # Project Loved Team
 
-**Project Loved Team** merupakan gugus pengguna (*usergroup*) yang bertugas untuk mengelola keberlangsungan [Project Loved](/wiki/Project_Loved). Adapun Project Loved sendiri merupakan suatu sistem yang bertujuan untuk mempromosikan sekumpulan [beatmap](/wiki/Beatmap) ke dalam kategori [Loved](/wiki/Beatmap/Category#loved) berdasarkan hasil jajak pendapat publik. Mereka dibedakan oleh sebuah lencana yang bertuliskan `LVD` dan warna nama pengguna yang berwarna pink permen di forum.
+**Project Loved Team** merupakan gugus pengguna (*usergroup*) yang bertugas untuk mengelola keberlangsungan [Project Loved](/wiki/Community/Project_Loved). Adapun Project Loved sendiri merupakan suatu sistem yang bertujuan untuk mempromosikan sekumpulan [beatmap](/wiki/Beatmap) ke dalam kategori [Loved](/wiki/Beatmap/Category#loved) berdasarkan hasil jajak pendapat publik. Mereka dibedakan oleh sebuah lencana yang bertuliskan `LVD` dan warna nama pengguna yang berwarna pink permen di forum.
 
 [Halaman grup Project Loved](https://osu.ppy.sh/groups/31) mencantumkan semua anggota tim.
 
@@ -21,14 +21,13 @@ Sebagian besar anggota Project Loved Team merupakan tokoh-tokoh komunitas terpil
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983)
+- ![][flag_US] [kotkeone](https://osu.ppy.sh/users/10083084)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
-- ![][flag_US] [Wixonater](https://osu.ppy.sh/users/10083084)
 
 ### osu!taiko
 
 - ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861)
 - ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910)
-- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
 - ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438)
 - ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563)
 - ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
@@ -43,9 +42,11 @@ Sebagian besar anggota Project Loved Team merupakan tokoh-tokoh komunitas terpil
 ### osu!mania
 
 - ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750)
-- ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
+- ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722)
 - ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
+- ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479)
 - ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)
+- ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
 
 ## Koordinator
 
@@ -58,11 +59,13 @@ Koordinator secara garis besar bertanggung jawab untuk memastikan semua kapten s
 
 Peninjau metadata bertugas untuk memeriksa kesiapan setiap beatmap yang hendak dibawa ke tahapan pemungutan suara. Mereka bekerja sama dengan para pembuat beatmap untuk memperbaiki setiap kesalahan metadata yang ada sebelum beatmap-beatmap yang bersangkutan dipromosikan ke dalam kategori Loved.
 
+- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
-- ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
+- ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196)
+- ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
 
@@ -74,7 +77,7 @@ Moderator konten terdiri dari anggota-anggota khusus [Global Moderation Team](/w
 - ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
 - ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437)
 
-## Anggota yang sudah pensiun 
+## Anggota yang sudah pensiun
 
 Di bawah ini tercantum pengguna yang pernah menjadi bagian Project Loved Team
 
@@ -119,6 +122,7 @@ Di bawah ini tercantum pengguna yang pernah menjadi bagian Project Loved Team
 
 ### Kapten-kapten osu!mania
 
+- ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
 - ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852)
 - ![][flag_US] [Alter-](https://osu.ppy.sh/users/4980256)
@@ -133,6 +137,7 @@ Di bawah ini tercantum pengguna yang pernah menjadi bagian Project Loved Team
 ### Editor video
 
 - ![][flag_GB] [Striiker](https://osu.ppy.sh/users/7291594)
+- ![][flag_US] [ThatsNotAName](https://osu.ppy.sh/users/9682904)
 - ![][flag_HU] [verto](https://osu.ppy.sh/users/2015300)
 
 ## Trivia
@@ -149,6 +154,7 @@ Di bawah ini tercantum pengguna yang pernah menjadi bagian Project Loved Team
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
 [flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
 [flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
+[flag_GR]: /wiki/shared/flag/GR.gif "Yunani"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hungaria"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Jepang"

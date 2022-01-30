@@ -8,13 +8,13 @@
 
 ### 난이도명(Difficulty names)
 
-*메인 문서: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*메인 문서: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
 
-- ![](/wiki/shared/diff/easy-m.png) Easy
-- ![](/wiki/shared/diff/normal-m.png) Normal
-- ![](/wiki/shared/diff/hard-m.png) Hard
-- ![](/wiki/shared/diff/insane-m.png) Insane
-- ![](/wiki/shared/diff/expert-m.png) Expert
+- ![](/wiki/shared/diff/easy-m.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-m.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-m.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-m.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
 ### 통용어(Common terms)
 
@@ -87,7 +87,7 @@
 
 *키 모드별 가이드라인은 일반적인 랭크맵 키 모드(4키 및 7키)를 기반으로 작성됩니다. 그 외 키 모드도 해당하는 경우에 이 가이드라인을 따라야 합니다.*
 
-### ![](/wiki/shared/diff/easy-m.png) Easy
+### ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 
 #### 규칙
 
@@ -106,7 +106,7 @@
 - **1/2박자로 노트를 연속해서 배치하는 도중 코드를 넣는 걸 권장하지 않습니다.** 패턴의 시작과 끝에는 코드를 넣어도 무방합니다.
 - **노트 2개 초과하는 코드 사용을 권장하지 않습니다.** 롱노트가 지속하는 경우도 하나의 노트로 계산합니다.
 
-### ![](/wiki/shared/diff/normal-m.png) Normal
+### ![](/wiki/shared/diff/normal-m.png?20211215) Normal
 
 #### 규칙
 
@@ -142,7 +142,7 @@
 - **브래킷은 조금만 사용해야 합니다.**
 - **인접한 칼럼에서 있는 롱노트는 길이가 비슷하면 동시에 끝나야 합니다.** 릴리즈가 서로 다른 롱노트를 처리하기 위해 필요한 협응력 레벨은 이 수준의 플레이어들에게 너무 어렵습니다.
 
-### ![](/wiki/shared/diff/hard-m.png) Hard
+### ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 
 #### 가이드라인
 
@@ -170,7 +170,7 @@
 - **코드스트림 도중 코드간의 간격을 1/1박자 이상으로 두어야 합니다.** 더 밀도가 높으면 가독성을 해칠 수 있습니다.
 - **스트림 중 트리플이 종종 사용될 수 있지만 트리플간의 간격을 4박자 이상으로 두어야 합니다.**
 
-### ![](/wiki/shared/diff/insane-m.png) Insane
+### ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 
 #### 가이드라인
 
@@ -195,7 +195,7 @@
   - ...1/4박자일 경우, 명확한 음악적 정당성이 없는 한 1개 사용을 권장합니다.
 - **브래킷 스트림은 조금만 사용해야 합니다.**
 
-### ![](/wiki/shared/diff/expert-m.png) Expert
+### ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
 #### 가이드라인
 

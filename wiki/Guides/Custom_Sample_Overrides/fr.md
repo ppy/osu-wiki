@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Vue d'ensemble des échantillons personnalisées
 
 Pour l'instant, il est possible de mettre en œuvre des ensembles d'échantillons par beatmap et par skin.
@@ -62,7 +58,5 @@ Les trois échantillons suivants sont additifs, ce qui signifie que lorsque vous
 
 ## Articles connexes
 
-Voir également :
-
-- [Bibliothèque de sons personnalisés](/wiki/Guides/Custom_Hitsound_Library)
+- [Bibliothèque de hitsounds personnalisés](/wiki/Guides/Custom_Hitsound_Library)
 - [Skinning/Sons](/wiki/Skinning/Sounds)

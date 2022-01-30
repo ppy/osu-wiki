@@ -27,7 +27,7 @@ no_native_review: true
 
 **No Video** Mod 讓玩家可以停用[圖譜](/wiki/Beatmap)的背景影片，進而提高幀數及遊戲效能。
 
-此 Mod 的功能已被[畫面設置](/wiki/Visual_Settings)中的選項取代，因此 NV Mod 及其圖示都已不再使用。
+此 Mod 的功能已被[畫面設置](/wiki/Client/Interface/Visual_settings)中的選項取代，因此 NV Mod 及其圖示都已不再使用。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

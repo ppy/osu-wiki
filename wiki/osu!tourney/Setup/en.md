@@ -1,10 +1,9 @@
-<!-- TODO: mention lazer tournament client -->
-
 # osu!tourney setup
 
-**Note:** An active supporter tag is currently required to use the osu!tourney client.
+*See also: [osu!lazer tournament client](/wiki/osu!tourney/osu!lazer_tournament_client)*\
+*Note: An active [supporter tag](/wiki/osu!supporter) is currently required to use the osu!tourney client.*
 
-It is recommended that a **fresh osu! installation** is used. This is because the Songs database may become corrupted. You can have multiple osu! installations, just keep them in separated folders.  
+It is recommended that a **fresh osu! installation** is used. This is because the Songs database may become corrupted. You can have multiple osu! installations, just keep them in separated folders.
 To do this, copy `osu!.exe` into an empty folder and run it. A fresh osu! installation will be created. This is the only installation that needs to be modified from here.
 
 Open osu! and sign in, checking the `Remember Username` and `Remember Password` checkboxes.
@@ -25,7 +24,7 @@ Do not modify the `tournament.cfg` file while osu! is running. Close osu! and ed
 - `TeamSize`: The number of players per team. The client will open 1-8 windows per team depending on this value. Maximum value is 8.
 - `ClientNameSize`: The size of the player names.
 - `privateserver`: Leave this untouched.
-- `acronym`: An abbreviation for the tournament. This affects the required naming for the tournament rooms, check the [multiplayer usage guide](/wiki/osu!tourney/Multiplayer_Usage) for more information.
+- `acronym`: An abbreviation for the tournament. This affects the required naming for the tournament rooms, check the [multiplayer usage guide](/wiki/osu!tourney/Multiplayer_usage) for more information.
 - `BufferTimeoutTime`: Amount of time the client will wait for a player to buffer before continuing gameplay without them.
   - It is not recommended to change this.
 - `BufferTotalTime`: Amount of time that the client buffers to reduce the frequency of pausing to wait for the buffer. This produces a delay between the client and the players.

@@ -7,9 +7,8 @@ Users encountering **problems** with the client may read the [troubleshooting gu
 ## Related articles
 
 - [Setup](Setup)
-- [Multiplayer Usage](Multiplayer_Usage)
-- [Spectator Usage](Spectator_Usage)
+- [Multiplayer usage](Multiplayer_usage)
+- [Spectator usage](Spectator_usage)
 - [Skinning](Skinning)
-- [Tournament Management Commands](Tournament_Management_Commands)
+- [Tournament management commands](Tournament_management_commands)
 - [Troubleshooting](Troubleshooting)
-- [Prizes](Prizes)

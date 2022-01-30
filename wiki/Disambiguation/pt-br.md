@@ -22,5 +22,7 @@ Artigos que discutem tópicos com títulos similares, devem usar a [*hatnote* "P
 - [Ouendan](Ouendan)
 - [osu!](osu!)
 - [Rank](Rank)
+- [Score](Score)
+- [Snapping](Snapping)
 - [Star](Star)
 - [Versão](Version)

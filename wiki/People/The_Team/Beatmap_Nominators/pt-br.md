@@ -49,6 +49,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | Nome | Línguas adicionais |
 | :-- | :-- |
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonésio |
+| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
 | ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Russo |
 | ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | Japonês |
@@ -56,13 +57,14 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Coreano |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Chinês |
 | ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) |  |
-| ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280) | Espanhol |
-| ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
+| ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) | Português |
 | ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | Chinês |
+| ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Holandês |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Espanhol |
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chinês |
+| ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763) | Chinês |
 | ![][flag_DE] [FuJu](https://osu.ppy.sh/users/10773882) | Alemão |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Chinês |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonésio |
@@ -70,17 +72,18 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_AU] [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Chinês, um pouco de Francês |
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Chinês |
-| ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | Espanhol |
-| ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | Francês, Alemão |
+| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  |
 | ![][flag_HK] [Kyle Y](https://osu.ppy.sh/users/3565813) | Chinês, Cantonês |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Alemão |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Coreano |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinês |
+| ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Alemão |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Russo |
 | ![][flag_GB] [mnyui](https://osu.ppy.sh/users/14261540) |  |
+| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Alemão |
 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | Dinamarquês |
 | ![][flag_GB] [mrowswares](https://osu.ppy.sh/users/9558549) |  |
 | ![][flag_US] [Nana Abe](https://osu.ppy.sh/users/6443117) |  |
@@ -94,14 +97,13 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Alemão |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Chinês, Cantonês |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Francês |
-| ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Francês |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Coreano |
+| ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Russo |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ![][flag_FR] [Sajinn](https://osu.ppy.sh/users/13513687) | Francês |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Russo |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russo |
-| ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Alemão, Sérvio |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romeno, Francês |
@@ -118,24 +120,27 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urdu, um pouco de Árabe |
-| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | Chinês, Cantonês |
+| ![][flag_GB] [-Dusk](https://osu.ppy.sh/users/6092181) | Urdu, um pouco de Árabe |
+| ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | Coreano |
+| ![][flag_HK] [BlackBN](https://osu.ppy.sh/users/6291741) | Chinês, Cantonês |
 | ![][flag_MY] [CallMeLyra](https://osu.ppy.sh/users/15272997) |  |
-| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Alemão |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chinês, Cantonês |
-| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamita |
+| ![][flag_BR] [D0UG](https://osu.ppy.sh/users/13806900) | Português |
+| ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253) | Espanhol |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Espanhol |
-| ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Filipino |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Espanhol |
+| ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Alemão |
+| ![][flag_IE] [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
 | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, Francês, um pouco de Italiano |
 | ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) |  |
 | ![][flag_BR] [Idealism](https://osu.ppy.sh/users/3869519) | Português |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Holandês |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finlandês, Japonês |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japonês, Cantonês, Chinês |
-| ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Chinês, Cantonês |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinês |
-| ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
+| ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |  |
+| ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223) | Indonésio |
+| ![][flag_PH] [Rosemi Lovelock](https://osu.ppy.sh/users/1259391) | Filipino |
 | ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Alemão, um pouco de Francês |
 | ![][flag_US] [yenmaster](https://osu.ppy.sh/users/12565402) |  |
 
@@ -144,15 +149,18 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | Nome | Línguas adicionais |
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Tailandês |
-| ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Espanhol |
-| ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | Norueguês |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Cantonês |
+| ![][flag_NL] [Chatie](https://osu.ppy.sh/users/6524765) | Holandês |
 | ![][flag_AT] [Daletto](https://osu.ppy.sh/users/7592136) | Alemão |
-| ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
+| ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonésio |
+| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | Holandês |
 | ![][flag_RU] [Lacrima](https://osu.ppy.sh/users/4915649) | Russo |
+| ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Alemão |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Russo |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Grego |
 | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Polonês |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Coreano |
+| ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Coreano |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_CN] [Souvenir](https://osu.ppy.sh/users/14057792) | Chinês |
 | ![][flag_BR] [zerokt](https://osu.ppy.sh/users/13776127) | Português |
@@ -162,22 +170,22 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | Nome | Línguas adicionais |
 | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinês |
+| ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
-| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonésio |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Sueco, um pouco de Francês |
-| ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Chinês |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Coreano |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
-| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | Espanhol, Português, Galego, Italiano, Japonês |
+| ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Coreano |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
+| ![][flag_ID] [Lita-](https://osu.ppy.sh/users/15205070) | Indonésio |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | Indonésio |
 | ![][flag_ID] [Mirea](https://osu.ppy.sh/users/8404646) | Indonésio |
+| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
 | ![][flag_KR] [Paran](https://osu.ppy.sh/users/13340203) | Coreano |
-| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chinês, Cantonês |
+| ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063) | Espanhol |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonésio |
-| ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | Holandês |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinês |
-| ![][flag_ID] [Lita-](https://osu.ppy.sh/users/15205070) | Indonésio |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Coreano |
 
 ### Nomeadores de Beatmap em Teste
@@ -186,37 +194,39 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Holandês |
-| ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763) | Chinês |
+| ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Filipino |
+| ![][flag_FI] [Aakki](https://osu.ppy.sh/users/11077540) | Finlandês |
+| ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280) | Espanhol |
+| ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342) |  |
+| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Ucraniano |
+| ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623) | Norueguês |
 | ![][flag_RU] [Froskya](https://osu.ppy.sh/users/4230454) | Russo |
-| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Alemão |
+| ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | Lituano |
+| ![][flag_US] [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 
 #### osu!taiko
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | Coreano |
-| ![][flag_BR] [D0UG](https://osu.ppy.sh/users/13806900) | Português |
-| ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253) | Espanhol |
-| ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484]) |  |
+| ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484) |  |
 | ![][flag_FI] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Um pouco de Japonês, um pouco de Alemão |
-| ![][flag_IE] [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
+| ![][flag_RU] [Lexa14](https://osu.ppy.sh/users/15397129) | Russo |
+| ![][flag_BR] [Toofu](https://osu.ppy.sh/users/11004271) | Português |
 
 #### osu!catch
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Chinês, Cantonês |
-| ![][flag_NL] [Chatie](https://osu.ppy.sh/users/6524765) | Holandês |
-| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | Holandês |
+| ![][flag_PL] [Mniam](https://osu.ppy.sh/users/6050530) | Polonês |
+| ![][flag_DE] [Sanyi](https://osu.ppy.sh/users/7496029) | Alemão |
+| ![][flag_CA] [Ymiir](https://osu.ppy.sh/users/3922569) |  |
 
 #### osu!mania
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ![][flag_AU] [DarkistDeci](https://osu.ppy.sh/users/13360768) |  |
-| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
-| ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063) | Espanhol |
+| ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Chinês |
+| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chinês, Cantonês |
 
 ## History
 
@@ -245,6 +255,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 [flag_IE]: /wiki/shared/flag/IE.gif "Irlanda"
 [flag_IT]: /wiki/shared/flag/IT.gif "Itália"
 [flag_KR]: /wiki/shared/flag/KR.gif "Coreia do Sul"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lituânia"
 [flag_MX]: /wiki/shared/flag/MX.gif "México"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malásia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
@@ -258,5 +269,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 [flag_TH]: /wiki/shared/flag/TH.gif "Tailândia"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunísia"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ucrânia"
 [flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnã"

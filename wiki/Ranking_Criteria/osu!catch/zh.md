@@ -13,13 +13,13 @@ outdated_since: 0c67d13667b2e598e463c9a46234f929669d9d2d
 
 ### 难度名
 
-*主页面：[难度命名](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*主页面：[难度命名](/wiki/Ranking_Criteria/Difficulty_naming)*
 
-- ![](/wiki/shared/diff/easy-c.png) Cup
-- ![](/wiki/shared/diff/normal-c.png) Salad
-- ![](/wiki/shared/diff/hard-c.png) Platter
-- ![](/wiki/shared/diff/insane-c.png) Rain
-- ![](/wiki/shared/diff/expert-c.png) Overdose
+- ![](/wiki/shared/diff/easy-c.png?20211215) Cup
+- ![](/wiki/shared/diff/normal-c.png?20211215) Salad
+- ![](/wiki/shared/diff/hard-c.png?20211215) Platter
+- ![](/wiki/shared/diff/insane-c.png?20211215) Rain
+- ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
 ### 游戏术语
 
@@ -78,7 +78,7 @@ outdated_since: 0c67d13667b2e598e463c9a46234f929669d9d2d
 
 具体难度的规定和指南只适用于与它们在文中所列出位置相对应的难度，因此*不是**每个** osu!catch 难度都适用*。节奏相关的指南适用于 BPM180 左右的歌曲。如果你的歌曲的 BPM 比 180 快很多或者慢很多，一些数值会不一样，[缩放 BPM](/wiki/Ranking_Criteria/Scaling_BPM)中有更详细的介绍。
 
-### ![](/wiki/shared/diff/easy-c.png) Cup
+### ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 
 #### 规定
 
@@ -96,7 +96,7 @@ outdated_since: 0c67d13667b2e598e463c9a46234f929669d9d2d
 - HP 应该在 2-3 之间。
 - CS 应该在 2-3 之间。
 
-### ![](/wiki/shared/diff/normal-c.png) Salad
+### ![](/wiki/shared/diff/normal-c.png?20211215) Salad
 
 #### 规定
 
@@ -120,7 +120,7 @@ outdated_since: 0c67d13667b2e598e463c9a46234f929669d9d2d
 - HP 应该在 3-4 之间。
 - CS 应该在 2.5-3.5 之间。
 
-### ![](/wiki/shared/diff/hard-c.png) Platter
+### ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 
 #### 规定
 
@@ -149,7 +149,7 @@ outdated_since: 0c67d13667b2e598e463c9a46234f929669d9d2d
 - HP 应该在 4-5 之间。
 - CS 应该在 3-4 之间。
 
-### ![](/wiki/shared/diff/insane-c.png) Rain
+### ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 
 #### 规定
 
@@ -171,7 +171,7 @@ outdated_since: 0c67d13667b2e598e463c9a46234f929669d9d2d
 - HP 应该在 5-6 之间。
 - CS 应该在 3-5 之间。
 
-### ![](/wiki/shared/diff/expert-c.png) Overdose
+### ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
 #### 规定
 

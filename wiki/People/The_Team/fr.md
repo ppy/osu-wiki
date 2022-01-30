@@ -82,7 +82,7 @@ Les groupes d'utilisateurs suivants sont constitués de membres de la communaut�
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Gouvernant général, Organisateur et administrateur de la World Cup, responsable du wiki |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Développeur d'osu!, développeur du mode osu!mania |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Gérant du [osu!store](https://osu.ppy.sh/store/listing) |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Professeur de la [osu!academy](/wiki/osu!academy), concepteur de médias et de personnages |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Professeur de la [osu!academy](/wiki/Community/Video_series/osu!academy), concepteur de médias et de personnages |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australie"
@@ -93,7 +93,7 @@ Les groupes d'utilisateurs suivants sont constitués de membres de la communaut�
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_GR]: /wiki/shared/flag/GR.gif "Grèce"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexique"

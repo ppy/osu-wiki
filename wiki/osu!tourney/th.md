@@ -7,9 +7,8 @@
 ## บทความที่เกี่ยวข้อง
 
 - [การติดตั้ง](Setup)
-- [การใช้งานในห้องผู้เล่นหลายคน](Multiplayer_Usage)
-- [การใช้งานในการรับชม](Spectator_Usage)
+- [การใช้งานในห้องผู้เล่นหลายคน](Multiplayer_usage)
+- [การใช้งานในการรับชม](Spectator_usage)
 - [การทำสกิน](Skinning)
-- [คำสั่งการจัดการทัวร์นาเม้น](Tournament_Management_Commands)
+- [คำสั่งการจัดการทัวร์นาเม้น](Tournament_management_commands)
 - [วิธีแก้ปัญหาเบื้องต้น](Troubleshooting)
-- [ของรางวัล](Prizes)

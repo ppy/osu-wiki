@@ -1,11 +1,6 @@
----
-outdated: true
-outdated_since: 479d30f33c08a1412e6e0763f6fcb425e678ca3f
----
-
 # L'histoire de la catégorie Loved
 
-La catégorie de beatmaps [Loved](/wiki/Beatmap/Category#loved) est actuellement gérée par le [Project Loved](/wiki/Project_Loved). Cependant, cela n'a pas toujours été le cas. Project Loved est le troisième système principal qui a promu les beatmaps à la catégorie Loved ; avant lui, il y avait d'autres méthodes pour le faire, ainsi que de longues périodes de stagnation pour la catégorie Loved.
+La catégorie de beatmaps [Loved](/wiki/Beatmap/Category#loved) est actuellement gérée par le [Project Loved](/wiki/Community/Project_Loved). Cependant, cela n'a pas toujours été le cas. Project Loved est le troisième système principal qui a promu les beatmaps à la catégorie Loved ; avant lui, il y avait d'autres méthodes pour le faire, ainsi que de longues périodes de stagnation pour la catégorie Loved.
 
 ## Demande de fonctionnalité (février 2015)
 
@@ -43,11 +38,11 @@ Avant le deuxième tour du "Captain's Pick", Toy [a annoncé sur les forums](htt
 
 Après quelques tours du style de sondage originel, Toy a décidé d'utiliser un format de vote légèrement différent où les maps ne seraient plus en compétition les unes avec les autres. À partir de ce moment, chaque map a eu son propre sondage, demandant à la communauté si elle voulait ou non que cette map spécifique soit ajoutée à la catégorie Loved. Si un pourcentage minimum de votants répondait "oui", la map passait le cap du vote. En raison du nombre élevé de sondages sur le forum, un [nouveau forum](https://osu.ppy.sh/community/forums/120) a été créé spécifiquement pour le vote des potentielles maps Loved, et c'est à partir de ce moment que le projet a été officiellement appelé "Project Loved".
 
-En décembre 2020, les efforts de développement du [site web officiel du Project Loved](https://loved.sh/) ont commencé, et celui-ci a été lancé peu de temps après simplement comme une page d'administration pour les coordinateurs au début. À la mi-2021, le site a été mis à la disposition du reste de l'équipe. Finalement, en août 2021, les formulaires et les spreadsheets Google utilisés pour les soumissions et la visualisation des beatmaps ont été complètement abandonnés et ont commencé à être hébergés sur le site web.
+Lors de la préparation du cycle de mars 2021, la plupart des tâches administratives de Loved ont été transférées sur le [site web du Project Loved](https://loved.sh) créé par ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350). Le site web est ensuite devenu un centre public, remplaçant les différents services Google par des pages permettant de [consulter les soumissions](https://loved.sh/submissions), [soumettre de nouvelles maps](https://loved.sh/submit) et [consulter les consentements des mappeurs à participer à Loved](https://loved.sh/mappers) en août. 
 
 ## Système actuel
 
-Le [Project Loved](/wiki/Project_Loved) est le système actuel utilisé pour transférer les maps vers la catégorie Loved. Vous trouverez plus de détails et d'informations sur comment rendre des beatmaps éligibles aux votes dans l'article wiki du Project Loved.
+Le [Project Loved](/wiki/Community/Project_Loved) est le système actuel utilisé pour transférer les maps vers la catégorie Loved. Vous trouverez plus de détails et d'informations sur comment rendre des beatmaps éligibles aux votes dans l'article wiki du Project Loved.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australie"
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"

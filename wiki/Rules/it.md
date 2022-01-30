@@ -9,13 +9,13 @@ Queste regole sono la base da cui attingiamo per aiutare a mantenere la communit
 3. **Sii buono l'uno con l'altro.** Le molestie o altri antagonismi non hanno posto nella community di osu!. Siamo qui per cliccare cerchi, battere tamburi, raccogliere frutta e colpire fino a diciotto tasti contemporaneamente, non per darci fastidio ed offenderci l'uno con l'altro.
 4. **Non essere un cretino.** Se in un qualsiasi momento ti stai chiedendo se stai infrangendo questa regola, probabilmente è così.
 5. **Siamo una community di tutte le età.** Ciò significa che i contenuti 18+/[NSFW](https://it.wikipedia.org/wiki/NSFW) come l'uso di droghe ed argomenti di natura sessuale non sono i benvenuti qui.
-6. **Tieniti pulito.** osu! non è il luogo per avere appuntamenti o flirtare. Usare linguaggio sessuale, arte figurativa o fare delle mosse non gradite su altri membri della comunità in pubblico o in privato NON va bene. Se mai ti sentissi a disagio nel come qualcuno ti parla, [segnalacelo in via confidenziale](/wiki/Reporting_Bad_Behaviour/Abuse) così che possiamo aiutarti (e potenzialmente prevenire che altri vengano affetti).
+6. **Tieniti pulito.** osu! non è il luogo per avere appuntamenti o flirtare. Usare linguaggio sessuale, arte figurativa o fare delle mosse non gradite su altri membri della comunità in pubblico o in privato NON va bene. Se mai ti sentissi a disagio nel come qualcuno ti parla, [segnalacelo in via confidenziale](/wiki/Reporting_bad_behaviour/Abuse) così che possiamo aiutarti (e potenzialmente prevenire che altri vengano affetti).
 7. **Nel caso in cui le regole non prevalgano, subentrerà il buon senso.** L'amministrazione ha la discrezione esplicita di applicare il proprio giudizio su ciò che ritiene opportuno.
 
 ## Regole della chat di gioco
 
 1. **Sii rispettoso e attento agli altri utenti del canale ed evita il flooding o lo spamming.** Una persona che occupa metà dello schermo in una volta è fastidiosa, quindi evita di farlo ovunque sia possibile. Anche altre persone stanno cercando di chattare!
-2. **Lascia che i moderatori gestiscano i problemi nella chat.** Puoi indicare le persone problematiche con [il comando `!report`](/wiki/Reporting_Bad_Behaviour) in chat e loro gestiranno il resto.
+2. **Lascia che i moderatori gestiscano i problemi nella chat.** Puoi indicare le persone problematiche con [il comando `!report`](/wiki/Reporting_bad_behaviour) in chat e loro gestiranno il resto.
 3. **Se qualcuno è stato silenziato o il suo account posto in modalità restrittiva, lasciali stare e non iniziare a parlare di loro.** Se qualcuno si vede il proprio account venir limitato, il loro caso coinvolge solo loro e l'amministrazione del gioco - assolutamente nessun altro!
 4. **Incoraggia il gioco leale e non prestare attenzione a imbroglioni o altri utenti tossici.** Queste persone purtroppo esistono e dare loro attenzione può incoraggiarle a continuare o provocare altri nell'agire come loro. Segnalali tramite il comando della chat `!report` o i pulsanti nella pagina del loro profilo e prosegui.
 5. **Mantieni la chat pulita e appropriata per una commmunity di tutte le età, evitando gli argomenti NSFW laddove possibile.** La roba NSFW in realtà non è appropriata per una community di tutte le età. Fai quello che ti piace nei messaggi privati (entro limiti ragionevoli) ma mantieni i canali pubblici perfettamente puliti per il bene di tutti.
@@ -38,10 +38,10 @@ Queste regole sono la base da cui attingiamo per aiutare a mantenere la communit
 
 *Nota: Queste regole si applicano a **tutte le mappe inviate** non solo quelle CLassificate. Per regole più specifiche riguardo le beatmap Classificate, vedi i [Criteri di Classificazione](/wiki/Ranking_Criteria).*
 
-Queste regole si applicano strettamente alle beatmap inviate tramite il [Sistema di Invio Beatmap](/wiki/Submission) all'interno del gioco. Questi thread/discussioni sono creati automaticamente tramite il client di osu! quando una beatmap viene inviata tramite [l'editor](/wiki/Beatmap_Editor).
+Queste regole si applicano strettamente alle beatmap inviate tramite il [Sistema di Invio Beatmap](/wiki/Submission) all'interno del gioco. Questi thread/discussioni sono creati automaticamente tramite il client di osu! quando una beatmap viene inviata tramite [l'editor](/wiki/Client/Beatmap_editor).
 
 1. **Assicurati di avere il permesso di usare qualsiasi contenuto coinvolto nella tua beatmap.** Questo include canzoni, video, suoni, immagini e qualsiasi altro contenuto che non sia di tua creazione. Se non sei sicuro di dove trovare il contenuto che è libero di essere utilizzato, dai un'occhiata alla nostra crescente libreria di brani dagli [Artisti in Primo Piano](https://osu.ppy.sh/beatmaps/artists), tutti al 100% concessi in licenza per l'uso in osu! e alle nostre [Linee guida per l'uso di contenuti](Content_Usage_Guidelines) per altre informazioni.
-2. **Rimani coerente nella [discussione della beatmap](/wiki/Beatmap_Discussion).** Questi thread/discussioni riguardano la beatmap in questione e nient'altro. Se hai un problema con qualcosa che non appartiene direttamente alla beatmap, pubblicalo nel forum appropriato.
+2. **Rimani coerente nella [discussione della beatmap](/wiki/Beatmap_discussion).** Questi thread/discussioni riguardano la beatmap in questione e nient'altro. Se hai un problema con qualcosa che non appartiene direttamente alla beatmap, pubblicalo nel forum appropriato.
 3. **Non plagiare o tentare di rubare il lavoro degli altri.** Non caricare o utilizzare il lavoro di altre persone senza il loro esplicito permesso (incluso, ma non limitato a, skin e difficoltà create da altri utenti).
 4. **Segui le [Regole sul Contenuto della Canzone](Song_Content_Rules) e [Considerazioni sul Materiale Visivo](Visual_Content_Considerations).**
 
@@ -60,8 +60,8 @@ Venir [Silenziato](/wiki/Silence) e altre violazioni **automaticamente** aumenta
 
 Alcuni reati hanno una durata minima (in genere 42 ore o più) se sono particolarmente severi, sebbene siano quasi esclusivamente riservati a gravi infrazioni, come la condivisione di contenuti grafici o molestie incessanti di altri utenti.
 
-Se dopo diverse infrazioni continui a violare le regole, il tuo account potrebbe essere [permanentemente e irrevocabilmente ristretto](/wiki/Help_Centre/Account_Restrictions).
+Se dopo diverse infrazioni continui a violare le regole, il tuo account potrebbe essere [permanentemente e irrevocabilmente ristretto](/wiki/Help_centre/Account_restrictions).
 
-Gli account ristretti non possono giocare online, inviare punteggi, chattare con altri utenti e sono a tutti gli effetti "banditi" dall'interazione con la comunità. La restrizione per la violazione delle regole della comunità può essere rimossa solo dopo aver fatto ricorso allo staff di supporto dopo il trascorrimento di 3 mesi ([si applicano più condizioni](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
+Gli account ristretti non possono giocare online, inviare punteggi, chattare con altri utenti e sono a tutti gli effetti "banditi" dall'interazione con la comunità. La restrizione per la violazione delle regole della comunità può essere rimossa solo dopo aver fatto ricorso allo staff di supporto dopo il trascorrimento di 3 mesi ([si applicano più condizioni](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns)).
 
 I reati gravi che vanno ben oltre la portata delle nostre regole e nella giurisdizione dei contenuti illegali secondo la common law internazionale comporteranno la chiusura immediata dell'account. Ciò si applica quasi esclusivamente a reati estremamente grafici o altrimenti aberranti, come la distribuzione di materiale pedopornografico o altro materiale di abuso.

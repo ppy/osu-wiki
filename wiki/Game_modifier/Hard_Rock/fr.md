@@ -1,7 +1,7 @@
 ---
 stub: true
 tags:
-  - hard rock
+  - hardrock
   - mod
   - game modifier
   - HR
@@ -28,7 +28,7 @@ tags:
 
 ## Description
 
-Le mod **Hard Rock** est un [modificateur de jeu](/wiki/Game_modifier) qui vise à augmenter la difficulté de la plupart (sinon de tous) les aspects d'une [beatmap](/wiki/Beatmap). Il atteint cet objectif en augmentant le [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) de 30%, et tous les autres paramètres de difficulté de 40%.
+Le mod **Hard Rock** est un [modificateur de jeu](/wiki/Game_modifier) qui vise à augmenter la difficulté de la plupart (sinon de tous) les aspects d'une [beatmap](/wiki/Beatmap). Il atteint cet objectif en augmentant le [circle size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size) de 30%, et tous les autres paramètres de difficulté de 40%.
 
 ### osu!
 
@@ -58,7 +58,7 @@ En raison de ce pic de difficulté beaucoup plus important que pour les autres [
 
 *Avis : L'utilisation de ce mod dans osu!mania entraînera un jeu non classé.*
 
-Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), seules le judgement difficulty (OD) et les valeurs AR sont augmentées. Tous les autres paramètres de difficulté restent inchangés. Le placement des notes n'est pas affecté.
+Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), seules le [judgement](/wiki/Gameplay/Judgement) difficulty (OD) et les valeurs AR sont augmentées. Tous les autres paramètres de difficulté restent inchangés. Le placement des notes n'est pas affecté.
 
 ## Le saviez-vous ?
 

@@ -1,84 +1,95 @@
 ---
 outdated: true
+outdated_since: 8dff6615e53eaa5370c5a9078b365f55f65dccc1
+no_native_review: true
 ---
 
-# 흔히 발생하는 문제
+# 모범 사례
 
-*메인 페이지: [osu! wiki 기여 가이드](/wiki/osu!_wiki/Contribution_guide).*
+이 페이지에서는 위키에 기여하는 동안 직면할 수 있는 몇가지 것들에 대해 설명합니다. 여기에 언급된 내용은 작업을 더 쉽게 만들기 위해 작성되었으며, GitHub 또는 유사한 플랫폼에서 호스팅되는 프로젝트에 적용할수도 있습니다.
 
-## 누군가가 커밋 메시지에 의미 있는 내용을 채우라고 합니다
+## 설명
 
-모든 커밋의 내용이 `Update en.md` 혹은 그와 비슷한 경우에도 이에 해당될 수 있습니다.
+*Git이나 GitHub에 대한 더 자세한 내용은 [GitHub 문서](https://docs.github.com)를 확인하세요*
 
-누군가가 이것에 대해 지적을 했거나 모든 커밋 메시지가 동일하다면, GitHub의 웹 인터페이스를 이용하여 파일을 이동, 수정, 혹은 여러 파일들을 삭제할 당시에 의미 있는 내용을 적지 않았다는 것이 됩니다.
+**Git**은 파일에 대한 변경 사항의 관리를 도와주는 시스템으로 osu! wiki의 데이터 및 변경 이력을 Git 저장소에 기록합니다. **GitHub**은 Git 저장소에 대한 웹 인터페이스를 제공하고 관리를 위한 여러 기능을 제공하는 개발 플랫폼입니다.
 
-의미 있는 내용이란, Github에서 diff를 따로 확인하지 않고도 모든 사람이 전체적인 내용을 이해할 수 있는 메시지입니다. 이 메시지는 72글자의 글자 제한이 있으므로 메시지를 짧게 작성할 필요가 있습니다. 만약 메시지를 짧게 유지하는 것이 힘들 것 같은 경우에는, 커밋을 나눠야 할 수도 있습니다. **`Update en.md` 혹은 그와 비슷한 메시지는 어느 게 변경되었는지를 알 수가 없으므로 아무런 의미가 없다는 것을 명심해주세요.**
+## Fork된 저장소 동기화
 
----
+GitHub에 있는 저장소를 변경하려면 *Fork*라고 불리는 제어된 저장소의 사본을 얻어야 합니다. `osu-wiki` 저장소의 Fork를 만든다면, 그 순간의 저장소의 스냅샷을 가져옵니다. 의미있는 기여를 위해서는 **항상 Fork된 저장소를 동기화** 할 필요가 있습니다. 이러한 작업은 GitHub에서 직접 할 수 있습니다:
 
-이 문제를 해결하는 방법 (GitHub의 웹 인터페이스 및 GitHub Desktop 에디터 기준):
+1. Fork한 `osu-wiki` 저장소로 이동하세요.
+2. 드롭다운 메뉴의 `master` branch를 선택하세요.
+3. `Fetch upstream`를 클릭하고, `Fetch and merge`를 선택하세요.
 
-1. 당신이 fork 한 `osu-wiki` 레포지토리로 이동하세요.
-2. 문제가 되는 branch와 동일한 이름에 번호를 붙이거나, 원하는 이름으로 새로운 branch를 생성하세요.
-3. Pull request를 생성하세요.
-4. `base fork` 그리고 `head fork` 메뉴가 없는 경우에는, `compare across forks` 링크를 클릭해주세요.
-5. `head fork`를 fork 한 프로젝트로 바꿔주세요.
-6. `compare`를 문제가 있는 branch로 바꿔주세요.
-7. `base fork`를 fork 한 프로젝트로 바꿔주세요.
-8. `base`를 새로 만든 branch로 바꿔주세요.
-9. `Create pull request`를 클릭하세요.
-10. 제목 및 설명 부분을 무시하고 다시 `Create pull request`를 눌러주세요.
-11. 타임라인의 제일 아래쪽으로 스크롤을 내린 뒤, `Merge pull request` 버튼 옆에 있는 아래 화살표를 클릭해주세요.
-12. `Squash and merge` 클릭해주세요.
-13. 다시 한번 `Squash and merge`를 클릭해주세요.
-14. 제목을 고쳐주세요 (이것은 나중에 커밋 메시지가 될 내용입니다; 의미 있는 내용이 되도록 작성합시다).
-15. 설명을 고쳐주세요 (이것은 나중에 커밋에 대한 설명이 됩니다; 필수는 아니지만 변경해주세요).
-16. `Confirm squash and merge`를 클릭해주세요.
-17. [`ppy/osu-wiki` 레포지토리](https://github.com/ppy/osu-wiki)로 이동하세요.
-18. 문제가 있던 branch에 대한 Pull request를 닫아주세요.
-19. 새로 생성한 branch에 대한 Pull request를 열어주세요.
-20. 닫혔던 Pull request에 있던 설명을 새로 생성한 Pull request에 복사하세요. 닫은 Pull reuqest에 대한 참조를 포함시키면 도움이 됩니다.
-21. `Create pull request`를 클릭하세요. 이제 커밋을 수정했습니다. 모든 내용이 확인되었고 Pull request를 병합할 준비가 확실하게 됐다면, 누군가에게 병합을 요청하세요.
+![](img/update-branch.png "Updating the outdated branch")
 
-엄밀히 말하면, Github 웹 인터페이스를 사용하여 커밋을 스쿼시 할 경우에만 가장 좋은 방법입니다. GitHub Desktop에서는 커밋을 스쿼시하는 것이 불가능합니다.
-
-## 제 branch가 오래됐습니다!
-
-`osu-wiki` 레포지토리를 fork하여 생성하면, 그 당시에 내용을 가져옵니다. 문제는 이것이 자동으로 업데이트가 되지 않으며, GitHub은 이것에 대해 해결책을 주지 않습니다.
+이렇게 branch를 원본 저장소의 내용으로 업데이트 할 수 있습니다.
 
 ---
 
-이것을 해결하기 위해, [Upriver](https://upriver.github.io/)라는 서비스/스크립트가 있습니다. 저 페이지에 명시된 것과 같이, GitHub API만을 이용하여 레포지토리를 업스트림과 손쉽게 동기화 할수 있습니다.
+이 작업은대부분의 경우엔 정상적으로 작동하지만 기능이 제한되어 있습니다. 예를 들자면, 이 기능은 업스트림의 `master` branch만을 병합하기에 원하지 않는 내용은 덮어쓸 수 없습니다.
 
-1. [Upriver](https://upriver.github.io/)로 이동하세요.
-2. `Sign in with GitHub`를 클릭하세요. 이미 가입되어 있다면 이 단계는 넘어가셔도 됩니다.
-3. `Authorize upriver`를 클릭하세요. 이미 이 작업을 수행했었다면 이 단계는 넘어가셔도 됩니다.
-4. 다음과 같이 설정하세요:
-   - into: *fork한 `osu-wiki` 레포지토리*
-   - branch: `master`
-   - from: `ppy/osu-wiki`
-   - branch: `master`
-   - force?: 체크
-5. `Pull`을 클릭하세요.
-6. `Close`를 클릭하세요.
-7. (이제 Upriver를 종료하셔도 됩니다).
+만약 GitHub 기능을 하다가 이러한 문제에 직면했거나, 내용을 덮어쓰고 싶다면 osu! wiki의 기여자들이 작성한 워크플로우를 이용하시면 됩니다.
 
-아무런 문제가 없다면, 당신의 마스터 branch는 `ppy:master`와 차이가 없을 겁니다. 이제 충돌할 문제없이 새 branch를 만들 수 있습니다.
+1. **Fork한 저장소**를 열고 `Action` 탭으로 이동하세요
+2. `Workflows`에서 `Sync from osu! upstream` 항목을 찾으세요.
+3. `Run workflow`를 클릭하고 추가적인 내용을 채워 넣으세요:
 
-## 제 Pull request에 충돌하는 부분이 있습니다!
+![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
 
-이것이 발생하는 원인은 2가지가 있습니다:
+- **Use workflow form**: 동기화를 원하는 branch의 이름을 적으세요. 기본적으로 `master`로 설정되어 있습니다.
+- **Overwrite any changes in the target repository**:
+  - `true`: branch의 내용을 `ppy/osu-wiki`의 `master` branch의 내용으로 완전히 복사합니다.
+  - `false` (기본값): 변경한 내용을 `ppy/osu-wiki`의 내용과 복사합니다.
+- **Create a backup of your target branch**:
+  - `true`: 변경하기 전 내용을 `backup-{선택한 branch}`이라는 branch로 백업합니다.
+  - `false` (기본값): 백업을 만들지 않습니다. 
 
-- branch가 만료되었을 때 파일을 수정
-- 다른 사람들과의 원만하지 못한 의사소통으로 인해 두 사람이 같은 항목을 수정하게 되었지만, 다른 사람의 것이 먼저 병합 (절차상으로 당신이 수정한 파일이 구식이 됩니다).
+4. `Run Workflow` 버튼을 누르고 작업이 완료 될 때까지 기다리세요. 이 기능이 어떻게 작동되는지 궁금하다면 `Sync from osu! upstream` 워크플로우 작업을 클릭하시면 됩니다.
 
-충돌의 심각도에 따라, 2가지의 해결 방법이 있습니다.
+![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
 
-1. Pull request에 `Resolve conflicts` 버튼이 있다면 클릭하세요. 그러면 조금 다른 종류의 웹 에디터가 열릴 겁니다.
-   1. GitHub이 충돌한 부분을 강조할 겁니다. 그 부분을 찾으세요.
-   2. `<<<<<<<`에서 `=======`까지의 모든 내용이 여러분이 변경한 부분입니다. 반면, `=======`부터 `>>>>>>> master`까지는 `ppy/master` branch에 있는 내용입니다.
-   3. 여기서 충돌을 수동으로 수정한 뒤, `<<<<<<<`, `=======`, `>>>>>>> master` 마크를 삭제해야 합니다.
-   4. 모든 항목에 대해 위와 같은 내용을 실행하세요.
-   5. 다 끝났다면, `Mark as resolved`를 클릭하세요. (이 버튼은 충돌된 모든 부분이 해결되어야 클릭할 수 있습니다.)
-2. 너무 복잡하게 꼬여서 `Resolve conflicts` 버튼이 막혀있다면 운이 없는겁니다. [branch를 업데이트 하고](#제-branch가-오래됐습니다) 내용을 다시 변경해주세요.
-   - *참고: GitHub 웹 인터페이스를 이용하는 경우에만 해당됩니다.* 문제를 해결하는 방법이 있지만 이 글에서는 설명하지 않으며, 충돌하는 변경 사항들을 덮어쓰고 다시 되돌리기 때문에 실행할만한 가치는 없습니다.
+## 수정하기
+
+*또다른 참조: [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
+
+osu! wiki의 Fork에서는 자유롭게 내용을 변경하고 적용할 수 있습니다. **Commit**은 저장소의 "세이브 포인트", **Branch**는 여러 버전의 저장소로 전환할 수 있는 작업 영역입니다. 작업을 더 쉽고 기록을 깔끔하게 남기고 싶다면 다음 내용을 참조하세요:
+
+- [`master` branch를 동기화하세요](#Fork된-저장소-동기화).
+- 항상 '마스터'에서 새 branch를 만들어 작업을 시작하고 변경 사항만 유지하고, `update-staff-log`와 같이 의미있는 이름을 붙이세요.
+- 합리적인 크기의 변경 사항이 있는 경우에만 커밋하세요. 10개의 작은 수정을 하기 보다는 문서 전체를 커밋하는게 좋습니다.
+- 다른 사람들이 수정한 내용이 무엇인지 알 수 있도록, **간결하고 의미있는 내용의 커밋 메시지를 사용하세요**. `Rewrite the section about jump patterns` 같은 내용이 `Update en.md`보다 더 많은것을 설명할 수 있습니다.
+
+## Pull Request 열기
+
+Pull Request는 수정한 내용이 파일에 어떠한 식으로 적용되는지 사람들에게 보여줍니다. 그러니 Purll Request에 몇가지 정보를 추가하여 어떠한 의도가 있었는지 설명하세요:
+
+- `Title`: 변경 사항에 대한 매우 짧은 설명을 담은 제목을 문서의 이름과 같이 적으세요. 변역의 경우, 제목 앞에 대괄호와 함께 언어 이름을 2글자로 적어주시면 됩니다. 예:
+  - ``[KO] Add `BBCode` ``
+  - ``Update `Beatmapping` and `Beatmap/Difficulty` ``
+- `Description`: 유지 관리자 및 잠재적 리뷰어에게 알릴 내용을 적으세요. 예:
+  - A short summary of the changes, especially if they affect several articles
+  - The pull request's completeness, or ideas related to it
+  - [Automatic resolution of relevant issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
+- `Allow edits from maintainers` 항목이 체크되어 있는지 확인하세요. 위키 관리자가 Pull Request를 개선하는데 도움을 줄 수 있습니다.
+
+## 충돌 해결
+
+충돌이 발생하는데에는 2가지 이유가 있습니다:
+
+- 오래된 Branch의 파일을 수정했을 경우
+- 다른 사람들과의 소통의 부재로 같은 문서를 수정했고, 다른 사람의 변경 사항이먼저 병합되어 자신이 작성한 파일이 오래된 Branch의 것이 되었을 경우
+
+충돌의 심각도에 따라 2가지의 문제 해결 방법이 있습니다:
+
+1. 작성한 Pull Request에 `Resolve conflicts` 버튼이 있다면 클릭하세요. 그러면 약간 다른 버전의 웹 에디터가 열립니다.
+
+   1. 충돌이 발생한 부분은 GitHub에서 강조하여 보여줍니다. 그 부분을 찾으세요.
+   2. 모든 `<<<<<<<` 부터 `=======` 까지의 내용은 자신이 수정한 내용이고, `=======` 부터 `>>>>>>> master` 까지의 내용은 `ppy/master` branch의 내용입니다.
+   3. 여기에서 충돌이 발생한 부분을 직접 수정하고 `<<<<<<<`, `=======`, `>>>>>>> master` 표시가 있는 줄을 삭제하세요.
+   4. 충돌이 발생한 모든 부분에서 다음과 같은 작업을 반복하세요.
+   5. 작업을 완료했다면 `Mark as resolved`를 클릭하세요 (파일의 모든 충돌이 해결되었을 경우에만 사용할 수 있습니다).
+
+2. 만약 충돌이 너무 복잡하게 되어있어 GitHub에서 `Resolve conflicts` 버튼을 차단했다면, 운이 좋지 못한 것이니 [Branch를 업데이트](#Fork된-저장소-동기화) 작업을 진행하고 다시 편집을 해야 합니다.
+   - *참고: 이는 GitHub 웹 인터페이스 사용이 제한된 경우에만 해당됩니다.* 수정할 방법은 있지만, 이 문서의 범주에 속하지 않아 다루지 않습니다. 그리고 다른 방법 또한 충돌하는 변경 사항을 덮어쓰고 되돌리기 때문에 할 가치가 없습니다.

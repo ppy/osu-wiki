@@ -1,7 +1,7 @@
 ---
 stub: true
 tags:
-  - half time
+  - halftime
   - mod
   - game modifier
   - HT
@@ -28,7 +28,7 @@ tags:
 
 *Note: The method used to slow down the song may cause it to sound muddy or robotic.*
 
-The **Half Time** mod is a [game modifier](/wiki/Game_modifier) that decreases the overall [beatmap](/wiki/Beatmap)'s speed (BPM) to 75% of the original, increases the length of the song by 33%, and decreases the [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), [and health (HP)](/wiki/Beatmapping/Health) by a small amount.
+The **Half Time** mod is a [game modifier](/wiki/Game_modifier) that decreases the overall [beatmap](/wiki/Beatmap)'s speed (BPM) to 75% of the original, increases the length of the song by 33%, and decreases the [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), [and health (HP)](/wiki/Gameplay/Health) by a small amount.
 
 ### osu!taiko
 
@@ -42,10 +42,10 @@ In [osu!catch](/wiki/Game_mode/osu!catch), the BPM and the speed of the catcher 
 
 ## Trivia
 
-- When the Half Time mod is enabled, the `Length`, `BPM`, and `Objects` values will be colored in a light blue with the new values. (Pictured below.)
-  - The `Objects` value will still be colored light blue even though no change in value is actually made.
+- When the Half Time mod is enabled, the `Length`, `BPM`, and `Objects` values will be coloured in a light blue with the new values. (Pictured below.)
+  - The `Objects` value will still be coloured light blue even though no change in value is actually made.
 - The `CS`, `AR`, and `HP` values will have a superscript triangle next to their values that indicates a small decrease in their values (pictured below).
-- The name "Half Time" could be labeled as a misnomer, as the HT mod does not actually decrease the speed of a beatmap by 0.5x times (50%); it decreases the speed of beatmaps by 0.75x (75%).
+- The name "Half Time" could be labelled as a misnomer, as the HT mod does not actually decrease the speed of a beatmap by 0.5x times (50%); it decreases the speed of beatmaps by 0.75x (75%).
 
 ![Changed values](img/GM_HT.jpg "Screenshot of beatmap values being changed by the Half Time mod")
 

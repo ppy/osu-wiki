@@ -1,6 +1,6 @@
 ---
 tags:
-- ヒットオブジェクト
+  - ヒットオブジェクト
 ---
 
 <!-- TODO: should also have articles for each hit object -->

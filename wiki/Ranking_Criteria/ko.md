@@ -1,12 +1,17 @@
+---
+outdated: true
+outdated_since: 7742320aaa249169bcb0536d8fc19dc7d32015fe
+---
+
 # Ranking criteria
 
 *[게임 모드](/wiki/Game_mode) 고유의 Ranking Criteria를 보려면, 다음을 참조하세요: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch)와 [osu!mania](osu!mania)*
 
-**Ranking criteria** 조항들은 [비트맵](/wiki/Beatmap)이 [비트맵 랭크 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 반드시 따라야 하는 [규칙과 가이드라인](#general-terms)입니다.
+**Ranking criteria** 조항들은 [비트맵](/wiki/Beatmap)이 [비트맵 랭크 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 반드시 따라야 하는 [규칙과 가이드라인](#일반-용-(general-terms))입니다.
 
 이 문서의 규칙과 가이드라인은 [Ranking Criteria 포럼](https://osu.ppy.sh/community/forums/87)에서 제안되고 토의됩니다. 이에 기여하고 싶다면 *[Ranking Criteria 변경을 제안하는 법](https://osu.ppy.sh/community/forums/topics/720532)* 을 참조하세요. 단, 이 문서의 언어, 문법, 구성에 대한 변경은 규칙과 가이드라인의 의미를 바꾸지 않는 이상은 포럼 글 작성을 생략해도 됩니다.
 
-**[매핑과 모딩에 관한 code of conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), [8분의 #박자로 구성된 곡의 타이밍 맞추기](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)에 대한 가이드와 [곡 콘텐츠 규칙](/wiki/Rules/Song_Content_Rules)도 ranking criteria의 일부이며, 모든 모드에 적용되는 사실에 유의하시기 바랍니다.**
+**[매핑과 모딩에 관한 code of conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), [8분의 #박자로 구성된 곡의 타이밍 맞추기](/wiki/Guides/Timing_Songs_With_8-Signatures)에 대한 가이드와 [곡 콘텐츠 규칙](/wiki/Rules/Song_Content_Rules)도 ranking criteria의 일부이며, 모든 모드에 적용되는 사실에 유의하시기 바랍니다.**
 
 ## 용어 사전(Glossary)
 
@@ -23,8 +28,8 @@
 - **배경/스토리보드/비디오 내용에는 부적절한 모습이 없어야 합니다.** 여기에는 나체, 준-나체, 성적 언급, 폭력, 약물 남용 등이 포함됩니다. 자세한 규칙은 [시각 콘텐츠 주의사항](/wiki/Rules/Visual_Content_Considerations)을 참조하세요.
 - **반복적인 스트로브와, 맥동하는 이미지, 또는 스토리보드나 비디오의 대조, 밝기 또는 색상의 급격한 변화를 포함하는 스토리보드나 비디오를 사용하는 비트맵은 광과민성 발작 경고(epilepsy warning)를 사용해야 합니다.** 경고가 게임 플레이를 방해할 경우 오디오 리드인(Audio lead-in)을 더 길게 해야 합니다. 3Hz 이하의 스트로브 효과는 문제를 일으킬 가능성이 없습니다. 확신이 없을 경우 경고를 추가한 뒤 이것이 꼭 필요한지 모딩 과정을 통해 확인받아주세요.
 - **비트맵의 폴더에 사용되지 않은 파일이나 0바이트 파일이 있어서는 안 됩니다.** 0바이트 파일은 비트맵 폴더의 다른 파일이 제대로 업로드되는 것을 방해합니다. 자동으로 생성되는 `thumbs.db` 파일은 유일한 예외로 둡니다.
-- **[브레이크(Breaks)](/wiki/Glossray#break)는 반드시 [비트맵 에디터](/wiki/Beatmap_Editor)의 제한 내에서 삽입되어야 합니다.**
-- **[난이도 세팅(Difficulty settings)](/wiki/Beatmap_Editor/Song_Setup#difficulty)은 절대로 [비트맵 에디터](/wiki/Beatmap_Editor)에서 가능한 이상의 소수점 아래 자릿수를 가져서는 안 됩니다.**
+- **[브레이크(Breaks)](/wiki/Beatmap/Break)는 반드시 [비트맵 에디터](/wiki/Client/Beatmap_editor)의 제한 내에서 삽입되어야 합니다.**
+- **[난이도 세팅(Difficulty settings)](/wiki/Client/Beatmap_editor/Song_Setup#difficulty)은 절대로 [비트맵 에디터](/wiki/Client/Beatmap_editor)에서 가능한 이상의 소수점 아래 자릿수를 가져서는 안 됩니다.**
 - **`Letterbox during breaks` 세팅은 같은 모드의 난이도가 브레이크를 포함하고, 같은 스토리보드를 사용한다면 일관되게 적용되어야 합니다.**
 - **비트맵이 다른 매체에 대한 스포일러를 포함하고 있다면 비트맵 설명란에 스포일러 경고 표시가 필요합니다.**<!-- TODO: This and the following rule should be game features, not RC rules. Aside from being ineffective, it doesn't make sense for this to be included in RC because you can edit it after Ranked. -->
 
@@ -159,19 +164,19 @@
 
 ### 규칙
 
-- **반드시 [적색 타이밍 포인트(Uninherited timing points)](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)를 사용하여 곡의 박자를 정확하게 매핑해야 합니다.** 잘못된 박자가 1 bar을 넘게 유지된 다면, 다음 다운비트에 적색 타이밍 포인트를 추가하여 박자를 재설정해야 합니다. 편집기에서 지원하지 않는 #/4 박자에 관해서는 박자 재설정이나 `.osu` 파일의 편집이 허용됩니다. 지원하지 않는 다른 박자에 대해서는 이 [예시 차트](/wiki/shared/timing/Timing_signature_reference_chart.png)를 참조하고 자세한 내용은 [이 가이드](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)를 참조해주세요.
+- **반드시 [적색 타이밍 포인트(Uninherited timing points)](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)를 사용하여 곡의 박자를 정확하게 매핑해야 합니다.** 잘못된 박자가 1 bar을 넘게 유지된 다면, 다음 다운비트에 적색 타이밍 포인트를 추가하여 박자를 재설정해야 합니다. 편집기에서 지원하지 않는 #/4 박자에 관해서는 박자 재설정이나 `.osu` 파일의 편집이 허용됩니다. 지원하지 않는 다른 박자에 대해서는 이 [예시 차트](/wiki/shared/timing/Timing_signature_reference_chart.png)를 참조하고 자세한 내용은 [이 가이드](/wiki/Guides/Timing_Songs_With_8-Signatures)를 참조해주세요.
 - **비트맵은 완벽하게 타이밍이 맞춰져야 합니다.** 이는 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [오프셋](/wiki/Beatmapping/Offset)이 곡과 완벽하게 싱크 되어야 한다는 것입니다. 지속적으로 BPM이 변화하는 비트맵은 완벽하게 타이밍을 맞추기 어려울 수 있어도 플레이에 악영향을 미치지 않는 한도에서 가능한 정확하게 맞춰져야 합니다. 브레이크와 스피너 동안의 복잡한 타이밍은 필수적이지 않습니다.
-- **[적색 타이밍 포인트(Uninherited timing points)](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)는 비트맵의 모든 난이도에서 동일해야 합니다.** 각 포인트는 각 난이도에서 동일한 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [offset](/wiki/Beatmapping/Offset)을 가져야 합니다.
-- **어떠한 난이도에도 불필요한 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)가 있어서는 안 됩니다.** 이는 메인 메뉴의 펄싱에 영향을 주고 의도치 않은 소리를 나이트 코어 모드에 추가하거나, 타이밍이 밀리게 만들 수 있습니다. 허용되는 경우는:
+- **[적색 타이밍 포인트(Uninherited timing points)](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)는 비트맵의 모든 난이도에서 동일해야 합니다.** 각 포인트는 각 난이도에서 동일한 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [offset](/wiki/Beatmapping/Offset)을 가져야 합니다.
+- **어떠한 난이도에도 불필요한 [적색 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)가 있어서는 안 됩니다.** 이는 메인 메뉴의 펄싱에 영향을 주고 의도치 않은 소리를 나이트 코어 모드에 추가하거나, 타이밍이 밀리게 만들 수 있습니다. 허용되는 경우는:
   - 곡의 음악적 구간을 나이트 코어 모드의 비트와 맞추기 위한 경우.
   - 지원되지 않는 비트 스냅 (예를 들어 1/11)을 요구하는 음악적 구간을 포함하기 위해.
-- **두 개의 [적색](/wiki/Beatmap_Editor/Timing#uninherited-timing-point) 또는 두 개의 [녹색 타이밍 포인트(Inherited timing points)](/wiki/Beatmap_Editor/Timing#inherited-timing-point)를 동일한 지점에 배치해서는 안 됩니다.** 두 개의 적색 또는 녹색 타이밍 포인트가 서로 겹쳐지면 슬라이더 속도 및 볼륨 설정에 대한 의도하지 않은 동작이 있을 수 있습니다.
-- **[녹색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#inherited-timing-point)는 첫 번째 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point) 앞에 배치할 수 없습니다.** 앞에서 받아올 설정이 없다면 [녹색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#inherited-timing-point)는 제대로 동작하지 않습니다. 만약 히트사운드나 슬라이더 속도 변화를 첫번째 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point) 이전에 사용하고 싶다면 해당 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)를 한마디 앞으로 옮겨서 [녹색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#inherited-timing-point)가 사용될 수 있도록 해야합니다.
-- **비트맵의 첫 번째 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)는 키아이(kiai)를 활성화하는 데 사용할 수 없습니다.** 이렇게 하면 오브젝트가 나타나기 전에 키아이가 반짝이게 됩니다. 대신 첫 번째 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)와 동일한 위치에 있는 [녹색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#inherited-timing-point)을 사용하여 키아이를 활성화해야 합니다.
+- **두 개의 [적색](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) 또는 두 개의 [녹색 타이밍 포인트(Inherited timing points)](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)를 동일한 지점에 배치해서는 안 됩니다.** 두 개의 적색 또는 녹색 타이밍 포인트가 서로 겹쳐지면 슬라이더 속도 및 볼륨 설정에 대한 의도하지 않은 동작이 있을 수 있습니다.
+- **[녹색 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)는 첫 번째 [적색 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) 앞에 배치할 수 없습니다.** 앞에서 받아올 설정이 없다면 [녹색 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)는 제대로 동작하지 않습니다. 만약 히트사운드나 슬라이더 속도 변화를 첫번째 [적색 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) 이전에 사용하고 싶다면 해당 [적색 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)를 한마디 앞으로 옮겨서 [녹색 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)가 사용될 수 있도록 해야합니다.
+- **비트맵의 첫 번째 [적색 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)는 키아이(kiai)를 활성화하는 데 사용할 수 없습니다.** 이렇게 하면 오브젝트가 나타나기 전에 키아이가 반짝이게 됩니다. 대신 첫 번째 [적색 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)와 동일한 위치에 있는 [녹색 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)을 사용하여 키아이를 활성화해야 합니다.
 - **모든 오브젝트는 AiMod에 따라 타임라인 틱에 스냅되어야 합니다.** 지원되지 않는 비트 스냅이 필요한 경우 (1/11 등) 음악적 구간의 오브젝트들은:
   - 의도된 비트 스냅에 맞는 이상, 언스냅 상태로 남겨질 수 있습니다.
   - 일시적인 [BPM](/wiki/Beatmapping/Beats_per_minute) 변화로 스냅시킬 수 있습니다.
-- **[적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)를 통과하거나 약간 앞에서 끝나서 잘못 스냅된 오브젝트는 오브젝트의 끝이 새 타이밍 구간에 스냅되어야 합니다.** 스피너나 osu!mania의 롱노트의 경우 오브젝트의 끝을 타임라인에서 드래그하면 됩니다. 슬라이더의 경우는 슬라이더 속도를 고치거나 `.osu` 파일을 수정해줘야 합니다.
+- **[적색 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)를 통과하거나 약간 앞에서 끝나서 잘못 스냅된 오브젝트는 오브젝트의 끝이 새 타이밍 구간에 스냅되어야 합니다.** 스피너나 osu!mania의 롱노트의 경우 오브젝트의 끝을 타임라인에서 드래그하면 됩니다. 슬라이더의 경우는 슬라이더 속도를 고치거나 `.osu` 파일을 수정해줘야 합니다.
 
 ## 오디오(Audio)
 
@@ -189,7 +194,7 @@
 - **프리뷰 포인트는 반드시 설정되어야 하며 비트맵의 모든 난이도 간에 일관되어야 합니다.** 이것은 곡 선택 메뉴와 온라인 섬네일 프리뷰에 모두 사용됩니다.
 - **모든 히트사운드 파일은 최소한 25ms 길이가 되어야 합니다.** 더 짧은 파일은 게임 내에서 아무 소리가 들리지 않을 수도 있습니다.
 - **완전한 묵음 히트사운드는 이 [44바이트 파일](https://up.ppy.sh/files/blank.wav)을 사용해야 합니다.** 다른 파일들은 불필요하게 파일 사이즈가 크며, 0바이트 파일은 작동하지 않습니다.
-- **[스토리보드 히트사운드](/wiki/Beatmapping/Hitsound#passive-hitsound)는 [액티브 히트사운드](/wiki/Beatmapping/Hitsound#active-hitsound)를 대신해 사용될 수 없습니다.** 이는 플레이어들에게 부정확한 피드백을 줍니다. 다른 상황에서의 스토리보드 히트사운드는 허용되지만, 권장되지 않습니다. osu!mania는 이 규칙에서 제외됩니다.
+- **[스토리보드 히트사운드](/wiki/Beatmapping/Hitsound#storyboarded-hitsound)는 [액티브 히트사운드](/wiki/Beatmapping/Hitsound#active-hitsound)를 대신해 사용될 수 없습니다.** 이는 플레이어들에게 부정확한 피드백을 줍니다. 다른 상황에서의 스토리보드 히트사운드는 허용되지만, 권장되지 않습니다. osu!mania는 이 규칙에서 제외됩니다.
 
 ### 가이드라인
 

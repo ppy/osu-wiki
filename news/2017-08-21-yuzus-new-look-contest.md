@@ -16,9 +16,9 @@ There's a few things to keep in mind, however. This contest is about giving Yuzu
 
 ## Who is Yuzu?
 
-[![](/wiki/Mascots/Yuzu_Profile.png)](https://osu.ppy.sh/wiki/Mascots/Gallery#yuzu)
+[![](/wiki/Mascots/Gallery/img/Yuzu-Daru.png)](/wiki/Mascots/Gallery#yuzu)
 
-Yuzu is the _osu!catch_ mascot. He's most commonly seen in the base game skin, holding up the catcher.
+Yuzu is the *osu!catch* mascot. He's most commonly seen in the base game skin, holding up the catcher.
 
 The official colour for osu!catch is **blue**, and thus Yuzu's primary colour should be blue in your character design as well.
 
@@ -56,9 +56,9 @@ Breathe some life into his character.
 
 ## Can I add anything else?
 
-You could consider something like an assistant or a sidekick. 2B from _NieR: Automata_ has Pod 042, so why couldn't Yuzu have his own assistant too?
+You could consider something like an assistant or a sidekick. 2B from *NieR: Automata* has Pod 042, so why couldn't Yuzu have his own assistant too?
 
-Perhaps a floating plate, a cat holding a net, or some nifty gadget that helps explain _hyperdashing_ are all things you could consider.
+Perhaps a floating plate, a cat holding a net, or some nifty gadget that helps explain *hyperdashing* are all things you could consider.
 
 ---
 

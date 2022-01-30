@@ -20,7 +20,7 @@ tags:
 - Singkatan: NC
 - Tipe: Peningkat Kesulitan
 - Pengali Skor:
-  - ![][osu!]: 1.06x
+  - ![][osu!]: 1.12x
   - ![][osu!taiko]: 1.12x
   - ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x

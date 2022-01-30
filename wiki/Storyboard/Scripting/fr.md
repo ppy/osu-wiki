@@ -1,22 +1,34 @@
----
-outdated: true
-outdated_since: 029eb57bd83c4d5d74fb54d65723f05b44411250
----
+# Scénarisation d'un storyboard
 
-# Storyboard Scripting
+![Un exemple de script dans un .osb](img/SBS_Base.jpg "Un exemple de script dans un .osb")
 
-![Un exemple de script en .osb.](img/SBS_Base.jpg "Un exemple de script en .osb.")
+Outre l'[éditeur de storyboard intégré](/wiki/Client/Beatmap_editor/Design), un éditeur de texte simple, tel que Notepad, [Notepad++](https://www.notepad-plus-plus.org/) ou [Visual Studio Code](https://code.visualstudio.com/), peut également être utilisé pour créer des [storyboards](/wiki/Storyboard) pour les beatmaps. Ce flux de travail est appelé **storyboarding by scripting** (*SBS*) et permet d'être plus précis (au pixel près et à la milliseconde près) quant au moment où les sprites apparaissent, à leur comportement, etc.
 
-En plus d'utiliser l'[éditeur de Storyboard](/wiki/Beatmap_Editor/Design)(Design tab) pour créer des [Storyboards](/wiki/Storyboard) pour les maps, vous pouvez également utiliser un éditeur de texte en clair (tel que Notepad ou [Notepad++](http://www.notepad-plus-plus.org/)). Cela s'appelle "**Storyboarding by Scripting**" (SBS) et vous permet d'être plus précis (au pixel et à la milliseconde près) quant au moment où les sprites apparaissent, ce qu'ils font, etc.
+Pour étudier une partie spécifique du scripting, consultez l'un des articles ci-dessous :
 
-## Guide du débutant
+- Concepts de base :
+  - [Règles générales pour le storyboarding](General_Rules)
+  - [Objets d'un storyboard](Objects)
+  - [Commandes de script d'un storyboard](Commands)
+  - [Commandes composées de script d'un storyboard](Compound_Commands)
+  - [Variables de script d'un storyboard](Variables)
+- Extra :
+  - [Échantillons audio d'un storyboard](Audio)
+  - [Aide-mémoire sur le scénario d'un storyboard](Cheat_Sheet)
+  - [Bascule du fichier Storyboard .osu](osu!_File_Toggles)
+  - [Raccourci de script d'un storyboard](Shorthand)
 
-[Doomsday a fourni un bon tutoriel pour débutant aux concepts de SBS ici (12:22).](http://www.youtube.com/watch?v=UJ1YLDs-bZg)
+## Vue d'ensemble
+
+Il y a une vue d'ensemble des concepts de script de scénarisation fournis par [Doomsday](https://osu.ppy.sh/users/18983) : [osu! - Storyboard Scripting for Beginners (12:22)](https://www.youtube.com/watch?v=UJ1YLDs-bZg).
 
 ## Spécifications complètes
 
-Il est principalement basé sur [les spécifications officielles](https://osu.ppy.sh/community/forums/topics/1869) et l'expérience dans la fabrication de gros Storyboards. Ce n'est **pas un guide étape par étape**, bien que des exemples simples soient fournis. Il est destiné à détailler de manière exhaustive comment SBS se traduit en actions à l'écran dans osu!.
+*Note : Sauvegardez d'abord votre travail dans l'éditeur intégré, car il optimise certaines choses, et ensuite seulement dans un éditeur de texte simple. **Sauvegardez souvent** votre travail pour éviter toute perte de progression accidentelle.*
 
-[S'il vous plaît lisez les règles avant de faire du SBS.](/wiki/Storyboard/Scripting/General_Rules) Cela vous évitera des soucis plus tard. [Pour les spécifications sprite/objet.](/wiki/Storyboard/Scripting/Objects) et [leur moveset](/wiki/Storyboard/Scripting/Commands).
+Le processus de script des storyboards est principalement basé sur [les spécifications officielles](https://osu.ppy.sh/community/forums/topics/1869) et sur l'expérience de la réalisation de grands storyboards. Bien que les articles du osu! wiki fournissent des exemples simples, ils ne sont pas des guides étape par étape. Les explications visent plutôt à détailler de manière exhaustive comment les commandes de script de base se traduisent en actions à l'écran dans osu!.
 
-Remarque: **Enregistrez d'abord la beatmap** avant de l'enregistrer dans le Bloc-notes. En outre, l'éditeur peut parfois être insensible alors **sauvegarder souvent**.
+Avant d'écrire des scripts de storyboard, consultez les [règles générales pour le storyboarding](/wiki/Storyboard/Scripting/General_Rules) pour éviter tout problème et tout malentendu. Pour des explications plus approfondies, voir :
+
+- [Objets d'un storyboard](/wiki/Storyboard/Scripting/Objects)
+- [Commandes de script d'un storyboard](/wiki/Storyboard/Scripting/Commands)

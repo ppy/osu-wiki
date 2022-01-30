@@ -108,25 +108,25 @@ There was only one mappool for all matches, made of beatmaps from the last four 
 **[Download the mappack here! (182 MB)](http://www.mediafire.com/file/2telo31u7xasasn/RMoT%20Invitational%20%235%20-%20Mappool.zip)**
 
 - NoMod
-  - [BTS - FIRE (Nathan) [apple's Insane]](https://osu.ppy.sh/beatmapsets/479385#osu/1068523)
-  - [Falcom Sound Team jdk - Over Drive (Kite) [Insane]](https://osu.ppy.sh/beatmapsets/40233#osu/127762)
-  - [Memme - Dajiahao (Erhu ver.) (Kamio Misuzu) [Extra]](https://osu.ppy.sh/beatmapsets/284847#osu/643565)
-  - [Omoi - Snow Drive (01.23) (Kroytz) [pk's Insane]](https://osu.ppy.sh/beatmapsets/478405#osu/1083055)
-  - [Suzumu - Kakumeisei ousama densenbyou (tutuhaha) [Frey's Insane]](https://osu.ppy.sh/beatmapsets/307686#osu/688305)
-  - [ZUN - Hartmann's Youkai Girl (Gomo Psivarh) [Ipvarsh]](https://osu.ppy.sh/beatmapsets/25062#osu/84964)
+  1. [BTS - FIRE (Nathan) [apple's Insane]](https://osu.ppy.sh/beatmapsets/479385#osu/1068523)
+  2. [Falcom Sound Team jdk - Over Drive (Kite) [Insane]](https://osu.ppy.sh/beatmapsets/40233#osu/127762)
+  3. [Memme - Dajiahao (Erhu ver.) (Kamio Misuzu) [Extra]](https://osu.ppy.sh/beatmapsets/284847#osu/643565)
+  4. [Omoi - Snow Drive (01.23) (Kroytz) [pk's Insane]](https://osu.ppy.sh/beatmapsets/478405#osu/1083055)
+  5. [Suzumu - Kakumeisei ousama densenbyou (tutuhaha) [Frey's Insane]](https://osu.ppy.sh/beatmapsets/307686#osu/688305)
+  6. [ZUN - Hartmann's Youkai Girl (Gomo Psivarh) [Ipvarsh]](https://osu.ppy.sh/beatmapsets/25062#osu/84964)
 - Hidden
-  - [Draw the Emotional - Morning glow (UnitedWeSin) [Lunatic]](https://osu.ppy.sh/beatmapsets/146626#osu/363298)
-  - [Nightwish - Dead to the World (Luvdic) [Insane]](https://osu.ppy.sh/beatmapsets/149115#osu/368503)
+  1. [Draw the Emotional - Morning glow (UnitedWeSin) [Lunatic]](https://osu.ppy.sh/beatmapsets/146626#osu/363298)
+  2. [Nightwish - Dead to the World (Luvdic) [Insane]](https://osu.ppy.sh/beatmapsets/149115#osu/368503)
 - HardRock
-  - [44teru-k - Yami ~ Shoujo no Yume , Kyomu no Sekai ~ ([Twinkle]) [Hyper]](https://osu.ppy.sh/beatmapsets/149173#osu/374403)
-  - [SawanoHiroyuki[nZk]:mica - Summer Tears (appleeaterx) [Insane]](https://osu.ppy.sh/beatmapsets/406467#osu/892298)
+  1. [44teru-k - Yami ~ Shoujo no Yume , Kyomu no Sekai ~ ([Twinkle]) [Hyper]](https://osu.ppy.sh/beatmapsets/149173#osu/374403)
+  2. [SawanoHiroyuki[nZk]:mica - Summer Tears (appleeaterx) [Insane]](https://osu.ppy.sh/beatmapsets/406467#osu/892298)
 - DoubleTime
-  - [LiSA - traumerei (Knotts) [Karia's Hard]](https://osu.ppy.sh/beatmapsets/204925#osu/483885)
-  - [Nishino Kana - Day 7 (yanlu) [Collab]](https://osu.ppy.sh/beatmapsets/93138#osu/251475)
+  1. [LiSA - traumerei (Knotts) [Karia's Hard]](https://osu.ppy.sh/beatmapsets/204925#osu/483885)
+  2. [Nishino Kana - Day 7 (yanlu) [Collab]](https://osu.ppy.sh/beatmapsets/93138#osu/251475)
 - FreeMod
-  - [HO-KAGO TEA TIME - Singing! (CDFA) [Insane]](https://osu.ppy.sh/beatmapsets/54083#osu/164603)
-  - [syrela - Pulsation (Lasse) [Insane]](https://osu.ppy.sh/beatmapsets/677886#osu/1436970)
-  - [xi - Akasha (Atsuro) [FCL's Hyper]](https://osu.ppy.sh/beatmapsets/403427#osu/909551)
+  1. [HO-KAGO TEA TIME - Singing! (CDFA) [Insane]](https://osu.ppy.sh/beatmapsets/54083#osu/164603)
+  2. [syrela - Pulsation (Lasse) [Insane]](https://osu.ppy.sh/beatmapsets/677886#osu/1436970)
+  3. [xi - Akasha (Atsuro) [FCL's Hyper]](https://osu.ppy.sh/beatmapsets/403427#osu/909551)
 - Tiebreaker
   1. **[u's - Moment Ring (Chaoslitz) [wkyik's Insane]](https://osu.ppy.sh/beatmapsets/437113#osu/1030059)**
   2. **[Noriko Mitose - EXEC_SPHILIA/. (Mir) [Infel]](https://osu.ppy.sh/beatmapsets/540867#osu/1146845)**

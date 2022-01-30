@@ -4,7 +4,7 @@
 
 Bir başkasının [beatmapine](/wiki/Beatmap) geri bildirim sağlama eylemine **modlama** denir. Modlama işlemini yapan bir kullanıcı *modlayıcı*, ve onların beatmapin tartışma kısmındaki toplu gönderileri ise *mod* olarak adlandırılır.
 
-Modlar temelde [Dereceli durumuna](/wiki/Beatmap/Category#ranked) ulaşması hedeflenen beatmaplerin iyileştirilmesi için kullanılır. Detaylı ve analitik bir süreç olduğundan, beatmapleri modlamak kullanıcıların beatmapleme anlayışlarını geliştirebilecekleri popüler bir yoldur.
+Modlar temelde [Dereceli durumuna](/wiki/Beatmap/Category#dereceli) ulaşması hedeflenen beatmaplerin iyileştirilmesi için kullanılır. Detaylı ve analitik bir süreç olduğundan, beatmapleri modlamak kullanıcıların beatmapleme anlayışlarını geliştirebilecekleri popüler bir yoldur.
 
 ## Modlayacak beatmapleri bulma
 
@@ -23,7 +23,7 @@ Modlayacak beatmapleri keşfetmenin sayısız yolu olsa da, bir kaç yaygın yö
 
 ## Nasıl modlanır
 
-Bir beatmap setini modlamak için, en güncel sürümü indirerek ve onun [tartışma sayfasını](/wiki/Beatmap_Discussion) açarak başlayın. Modlamak istediğiniz [zorluğu](/wiki/Beatmap/Difficulty) oynayın ve oynanış ile ilgili sorunları aklınızda tutun. Bitirdiğinizde, zorluğu düzenleyicide açın ve diğer sorunlar için analiz edin.
+Bir beatmap setini modlamak için, en güncel sürümü indirerek ve onun [tartışma sayfasını](/wiki/Beatmap_discussion) açarak başlayın. Modlamak istediğiniz [zorluğu](/wiki/Beatmap/Difficulty) oynayın ve oynanış ile ilgili sorunları aklınızda tutun. Bitirdiğinizde, zorluğu düzenleyicide açın ve diğer sorunlar için analiz edin.
 
 Bir sorun ile karşı karşıya geldiğinizde, ilgili vuruş objelerini seçin, ardından zaman damgası bilgisini metin olarak kopyalamak için kopyalama kısayolunu (`Ctrl` + `C`) kullanın. Beatmapin tartışma kısmında, mevcut zaman damgalarını yapıştırın (`Ctrl` + `V`) ve geri bildirimlerinizi ekleyin. `Zaman Çizgisi` sekmesi beatmapin spesifik kısımlarını ile ilgili sorunlar için kullanılır, `Genel (Bu zorluk)` sekmesi beatmapin daha geniş kısımlarına geri bildirim bırakmak için kullanılır, ve `Genel (Tüm zorluklar)` ise beatmap setinin tüm zorluklarını ilgilendiren sorunlar için kullanılır.
 
