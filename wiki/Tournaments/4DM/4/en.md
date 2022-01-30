@@ -112,6 +112,26 @@ The 4 Digit osu!mania World Cup 4 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+- FreeMod
+  1. [DJ SHARPNEL - Utakata (Piece of Poetry) (Shoegazer) \[Prayer 1.1x (218bpm)\]](https://osu.ppy.sh/beatmapsets/1405425#mania/2898345)
+  2. [E-Type - Set The World On Fire (Sped Up Ver.) (Jole) \[this is fine 0.95x (139bpm)\]](https://osu.ppy.sh/beatmapsets/1456779#mania/2997918)
+  3. [F-777 - Ultra Violet (chxu) \[Hyperbolic x1.05\]](https://osu.ppy.sh/beatmapsets/1687224#mania/3448235)
+  4. [Blitz Lunar - The Labyrinth of Skadi (hi19hi19) \[Skaldic Chip Jam x1.05\]](https://osu.ppy.sh/beatmapsets/1685723#mania/3445070)
+  5. [Aries - AMY'S GRAVE (Valedict) \[Viola (Low LN)\]](https://osu.ppy.sh/beatmapsets/1685790#mania/3445214)
+  6. [Frums - Q.E. (Pizza69) \[Insane\]](https://osu.ppy.sh/beatmapsets/1558484#mania/3183463)
+  7. [Calliope Mori - Excuse My Rudeness, But Could You Please RIP? (Nhato Remix) (HowToPlayLN) \[Stage 5: Lethalization\]](https://osu.ppy.sh/beatmapsets/1319472#mania/2733309)
+  8. [Laur - Viyella's Tears (arpia97) \[MASTER\]](https://osu.ppy.sh/beatmapsets/1315273#mania/2725694)
+  9. [Nitro - [line:theta] (\_Stan) \[4K Thanatos\]](https://osu.ppy.sh/beatmapsets/1022040#mania/2280512)
+  10. [Mili - Boys in Kaleidosphere (Ballistic) \[Jabberwock (edit)\]](https://osu.ppy.sh/beatmapsets/1431044#mania/2945782)
+  11. [wa. remixed celas - Gin no Kaze (Penguinosity) \[Gale Rising\]](https://osu.ppy.sh/beatmapsets/1624710#mania/3317209)
+  12. [lapix - Roll the Dice (Logan636) \[Logan x chxu's Toss Up!!\]](https://osu.ppy.sh/beatmapsets/1687203#mania/3448190)
+  13. [aran - Mazy Metroplex (Orca-) \[Your Heart\]](https://osu.ppy.sh/beatmapsets/1686708#mania/3447254)
+  14. [Nizikawa - Bass Battle (vs. Freezer) (Tidek) \[Encounter\]](https://osu.ppy.sh/beatmapsets/1374142#mania/2840693)
+- Tiebreaker
+  1. **[Silentroom - Nhelv (Full version, 2020 Remaster) (DannyPX) \[Celestial (4DM4 edit)\]](https://osu.ppy.sh/beatmapsets/1687253#mania/3448287)**
+
 ### Quarterfinals
 
 - FreeMod
