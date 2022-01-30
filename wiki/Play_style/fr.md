@@ -24,13 +24,13 @@ Ce style de jeu était considéré comme une blague par la plupart des joueurs j
 
 ### Souris et clavier
 
-La souris et le clavier sont le style de jeu le plus populaire dans osu! car ils utilisent les périphériques informatiques les plus basiques et sollicitent moins la main qui tient la souris.
+La souris et le clavier sont le style de jeu le plus populaire dans osu! car il utilise les périphériques informatiques les plus basiques et sollicite moins la main qui tient la souris.
 
 Les joueurs avec souris et clavier jouent presque exactement de la même manière que les joueurs avec souris uniquement, à la seule différence que deux touches du clavier (`Z` et `X` par défaut) sont utilisées pour taper au lieu de la souris elle-même.
 
-Certains joueurs n'utilisent que le clavier pour taper, tandis que d'autres ne passent au clavier qu'en cas de stream (action de taper une série très rapide d'objets en succession rapide) et utilisent la souris pour cliquer pour tout le reste.
+Certains joueurs n'utilisent que le clavier pour taper, tandis que d'autres ne passent au clavier qu'en cas de stream (action de taper une série d'objets en succession rapide) et utilisent la souris pour cliquer pour tout le reste.
 
-*Note : La superposition des touches montre les pressions du clavier comme `K1` et `K2`.*
+*Note : Le compteur de clics montre les pressions du clavier comme `K1` et `K2`.*
 
 ### Tablette seulement
 
@@ -38,15 +38,15 @@ Certains joueurs n'utilisent que le clavier pour taper, tandis que d'autres ne p
 
 *Remarque : Ce style de jeu nécessite l'utilisation d'une [tablette graphique](/wiki/Gameplay/Input_device/Graphics_tablet).*
 
-Les joueurs sur tablette font passer un stylet au-dessus d'une tablette graphique pour naviguer avec le curseur et ne tapent les coups qu'en tapant le stylet sur la surface de la tablette graphique elle-même.
+Les joueurs sur tablette font passer un stylet au-dessus d'une tablette graphique pour naviguer avec le curseur et ne cliquent sur les objets qu'en tapant avec le stylet sur la surface de la tablette graphique elle-même.
 
-*Remarque : La superposition d'entrée montrera toutes les touches de la tablette comme `M1`.*
+*Remarque : Le compteur de clics montrera toutes les touches de la tablette comme `M1`.*
 
 #### Tapx
 
-La communauté considère qu'il est pratiquement impossible de réaliser des streams en continu avec une seule entrée tactile à un BPM élevé. Ainsi, pour faire des streams en continu en tant que joueur sur tablette uniquement, un joueur doit alterner entre le tapotement de son stylo sur la tablette et l'appui sur une touche secondaire assignée (généralement une touche de la tablette ou du clavier). Cette méthode est parfois appelée *tapx*.
+La communauté considère qu'il est pratiquement impossible de réaliser des streams en continu avec une seule entrée tactile à un BPM élevé. Ainsi, pour faire des streams en continu en tant que joueur sur tablette uniquement, un joueur doit alterner entre le tapotement de son stylet sur la tablette et l'appui sur une touche secondaire assignée (généralement une touche de la tablette ou du clavier). Cette méthode est parfois appelée *tapx*.
 
-*Remarque : Comme le stylet a été considéré comme `M1`, seul le bouton de tapotement secondaire fonctionnera, et `X` est généralement le bouton de tapotement secondaire par défaut.*
+*Remarque : Comme le stylet est considéré comme `M1`, seul le bouton de clic secondaire fonctionnera, et `X` est généralement le bouton de clic secondaire par défaut.*
 
 ### Tablette et clavier
 
@@ -54,7 +54,7 @@ La communauté considère qu'il est pratiquement impossible de réaliser des str
 
 La tablette et le clavier sont un style de jeu populaire parmi de nombreux joueurs passionnés, compétitifs et de haut niveau.
 
-Les joueurs munis d'une tablette ou d'un clavier "survolent" ou "font glisser" le stylet de la tablette pour naviguer avec le curseur et tapent à l'aide du clavier ou des boutons de la tablette.
+Les joueurs munis d'une tablette ou d'un clavier font "hover" (survoler) ou "drag" (font glisser) le stylet de la tablette pour naviguer avec le curseur et tapent à l'aide du clavier ou des boutons de la tablette.
 
 À l'instar de la souris et du clavier, certains joueurs utilisent uniquement le stylet de la tablette pour taper, tandis que d'autres passeront au clavier lors des streams.
 
@@ -68,7 +68,7 @@ Lorsqu'un joueur avec un écran tactile touche l'écran, son appareil déplace s
 
 Ce style de jeu peut ressembler à celui de [osu!stream](/wiki/osu!stream) en raison de l'action de toucher directement l'écran plutôt que de déplacer un curseur.
 
-*Remarque : La superposition des touches indique l'entrée tactile comme `M1`.*
+*Remarque : Le compteur de clics indique l'entrée tactile comme `M1`.*
 
 ### Écran tactile et clavier
 
@@ -78,8 +78,8 @@ L'écran tactile et le clavier est un style de jeu qui utilise un clavier pour s
 
 - **Pavé tactile/trackpad de l'ordinateur portable** : Bien que cette méthode soit possible, la plupart des joueurs préfèrent ne pas utiliser de trackpad en raison de l'extrême difficulté que cela représente. Plus précisément, les joueurs affirment que le contrôle du mouvement du curseur sur l'espace limité du pavé tactile/trackpad de l'ordinateur portable est maladroit, lent et crée beaucoup de friction. Le trackpad est utilisé pour déplacer le curseur dans le jeu.
 - **Joystick** : Une façon créative de contrôler le curseur d'osu!. Dans ce style de jeu, le joueur tient et déplace un joystick pour faire bouger le curseur et, selon la conception du joystick du joueur, tape en utilisant les boutons de déclenchement/de face du joystick, ou avec les touches du clavier pour enregistrer les battements. Ce style de jeu est largement considéré comme une sorte de "défi" en raison des inconvénients évidents et de l'habileté requise pour contrôler le mouvement du joystick.
-- **Plaque métallique** : Il s'agit d'une méthode spéciale pour remplacer le clavier pour taper des rythmes. La méthode a été introduite par ![][flag_US] [geckogates](https://osu.ppy.sh/users/geckogates) et nécessite un peu de câblage et de connaissances électroniques pour la construire. Le joueur attachera un fil aux doigts qui cliquent (connectés au circuit du clavier pour `Z` et `X`) et touchera les plaques de métal pour enregistrer les battements.
-- **Manette de jeu** : Tout comme le joystick, cette méthode est considérée comme une façon créative et originale de jouer à osu!. Selon la marque de la manette, le joueur peut utiliser un trackpad intégré, un stick de contrôle/analogique ou un D-Pad pour contrôler le curseur. Certains joueurs trouveront plus confortable d'utiliser les boutons déjà présents sur la manette pour frapper, ou d'utiliser un clavier ordinaire.
+- **Plaque métallique** : Il s'agit d'une méthode spéciale qui remplace le clavier pour taper. La méthode a été introduite par ![][flag_US] [geckogates](https://osu.ppy.sh/users/geckogates) et nécessite un peu de câblage et de connaissances électroniques pour la construire. Le joueur attachera un fil aux doigts qui cliquent (connectés au circuit du clavier pour `Z` et `X`) et touchera les plaques de métal pour enregistrer les battements.
+- **Manette de jeu** : Tout comme le joystick, cette méthode est considérée comme une façon créative et originale de jouer à osu!. Selon la marque de la manette, le joueur peut utiliser un trackpad intégré, un stick de contrôle/analogique ou un D-Pad pour contrôler le curseur. Certains joueurs trouveront plus confortable d'utiliser les boutons déjà présents sur la manette pour cliquer, ou d'utiliser un clavier ordinaire.
 
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -95,7 +95,7 @@ Il existe deux styles principaux de réglage de l'emplacement des touches sur le
 
 ### Manette taiko
 
-Le manette taiko est le style de jeu et la manette par défaut de la série [Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin) ([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master) pour les États-Unis).
+La manette taiko est le style de jeu et la manette par défaut de la série [Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin) ([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master) pour les États-Unis).
 
 *Remarque : certains joueurs expérimentés qui utilisent une manette taiko peuvent créer la leur à partir de zéro, tandis que d'autres l'achètent dans des magasins de retail ou en ligne.*
 
@@ -117,11 +117,11 @@ Pour jouer avec un clavier, les joueurs appuient sur les flèches gauche et droi
 
 Il est possible de modifier les touches utilisées ; certains joueurs apprécient les touches `A`/`D` pour les déplacements et la barre d'espace ou la touche `rightShift` pour les dashs.
 
-La superposition des touches montre que les flèches sont saisies comme `L` et `R` et le bouton du dash comme `D`.
+Le compteur de clics montre que les flèches sont saisies comme `L` et `R` et le bouton du dash comme `D`.
 
 ### Clavier et souris
 
-Le clavier et la souris est un style de jeu alternatif mineur du clavier, dans lequel les joueurs peuvent effectuer des dashs en utilisant des clics de souris à la place. Bien que certains joueurs préfèrent l'inverse et préfèrent contrôler les mouvements de gauche et de droite en utilisant les boutons gauche/droit de la souris et activer les dashs avec le clavier.
+Le clavier et la souris sont un style de jeu alternatif mineur du clavier, dans lequel les joueurs peuvent effectuer des dashs en utilisant des clics de souris à la place. Bien que certains joueurs préfèrent l'inverse et préfèrent contrôler les mouvements de gauche et de droite en utilisant les boutons gauche/droit de la souris et activer les dashs avec le clavier.
 
 ### Joystick
 
@@ -139,7 +139,7 @@ Pour le dash, de nombreux joueurs utilisent l'un des boutons de leur manette de 
 
 ### Autres styles
 
-- **Souris uniquement** : Le jeu à la souris est un style de jeu dans lequel les joueurs contrôlent tous les mouvements et les dash du catcher uniquement par le biais de la souris. Cette option n'est toutefois disponible que sur les souris d'ordinateur dotées des boutons M4 et M5 (qui se trouvent généralement sur le côté gauche de la souris).
+- **Souris uniquement** : Jouer uniquement à la souris est un style de jeu dans lequel les joueurs contrôlent tous les mouvements et les dashs du catcher uniquement par le biais de la souris. Cette option n'est toutefois disponible que sur les souris d'ordinateur dotées des boutons M4 et M5 (qui se trouvent généralement sur le côté gauche de la souris).
 
 ## ![](/wiki/shared/mode/mania.png) osu!mania
 
