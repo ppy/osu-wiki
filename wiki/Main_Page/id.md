@@ -113,7 +113,7 @@ osu! tidak akan dapat berada pada titik ini tanpa dukungan dari mereka yang tela
 
 Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
-[Kontributor komunitas](/wiki/People/Community_Contributors) • [Daftar pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles)
+[Para kontributor komunitas](/wiki/People/Community_Contributors) • [Daftar pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles)
 
 </div>
 <div class="wiki-main-page-panel">
