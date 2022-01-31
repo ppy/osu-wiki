@@ -70,7 +70,7 @@ Agar suatu beatmap dapat memiliki *leaderboard*-nya tersendiri, beatmap tersebut
   
 # Aturan dan hukum
   
-Kenali berbagai prosedur hukum dan peraturan yang berlaku di osu! secara lebih rinci, mulai dari proses lisensi musik, pedoman penggunaan konten, hingga etika penggunaan layanan forum dan *chat* yang osu! sediakan.
+Kenali berbagai prosedur hukum dan peraturan yang berlaku di osu!, mulai dari proses lisensi musik, pedoman penggunaan konten, hingga etika penggunaan layanan forum dan *chat* yang osu! sediakan.
 
 [Peraturan](/wiki/Rules) • [Kode Etik Contributor Covenant](/wiki/Contributor_Code_of_Conduct) • [Kode etik dalam modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
