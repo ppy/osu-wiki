@@ -24,7 +24,7 @@ Artikel-artikel berikut akan memandumu untuk dapat mengenal osu!. Apabila kamu m
 
 # Klien permainan
 
-osu! merupakan permainan yang kaya akan fitur. Kenali berbagai hal yang melandasi osu! secara lebih mendalam, mulai dari berbagai pengaturan yang tersedia, seluk-beluk teknisnya, hingga ragam format berkas yang osu! gunakan.
+osu! merupakan permainan yang kaya akan fitur. Kenali fitur-fitur ini beserta segala seluk-beluknya, mulai dari berbagai pengaturan yang tersedia, rincian teknisnya, hingga ragam format berkas yang osu! gunakan.
   
 [Tampilan antarmuka](/wiki/Client/Interface) • [Menu Options](/wiki/Client/Options) • [Menu Visual Settings](/wiki/Client/Interface/Visual_settings) • [Tombol-tombol shortcut](/wiki/Client/Keyboard_shortcuts) • [Berkas-berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas-berkas program osu!](/wiki/Client/Program_files)
 
@@ -118,7 +118,7 @@ Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 </div>
 <div class="wiki-main-page-panel">
 
-# Hal-hal terkait pengembangan
+# Untuk para pengembang
   
 Segala sesuatu yang sekiranya dapat berguna bagi mereka yang ingin berpartisipasi dalam pengembangan osu!, baik itu dalam bidang pemrograman maupun media.
 
@@ -129,7 +129,7 @@ Segala sesuatu yang sekiranya dapat berguna bagi mereka yang ingin berpartisipas
 
 # Seputar wiki dan hal-hal meta lainnya
   
-Semua hal yang ada di osu!, tidak terkecuali osu! wiki, utamanya dikelola dan dikembangkan oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke osu! wiki, harap kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
+Semua hal yang ada di osu!, tidak terkecuali osu! wiki, utamanya dikelola dan dikembangkan oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke osu! wiki, harap kunjungi [repositori osu-wiki di situs web GitHub](https://github.com/ppy/osu-wiki).
 
 [Sejarah osu!](/wiki/History_of_osu!) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Sejarah mapping dan modding](/wiki/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
