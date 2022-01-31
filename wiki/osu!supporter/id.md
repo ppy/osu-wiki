@@ -12,7 +12,7 @@ Secara umum, dengan membeli osu!supporter tag, Anda secara langsung telah menduk
 
 ![Spanduk produk osu!supporter](img/store-product.jpg?1 "Spanduk produk osu!supporter dari osu!store")
 
-Untuk mendapatkan osu!supporter, masuk (atau [daftar](/wiki/sign_up)). Lalu pergi ke [halaman toko](https://osu.ppy.sh/store/products/supporter-tag). Gunakan slider atau tombol bulan (terletak di bawah slider) untuk memilih durasi osu!supporter. Durasi yang berbeda akan mengubah harga yang harus Anda bayar. Mata uang yang digunakan adalah Dolar Amerika Serikat (USD). Jika negara Anda menggunakan mata uang yang berbeda, mohon gunakan konverter mata uang seperti [OANDA](https://www.oanda.com/currency/converter/) atau [Google](https://www.google.com/search?q=usd+exchange+rate) untuk memeriksa harga. Harga yang ditampilkan di halaman osu!store adalah per akun.
+Untuk mendapatkan osu!supporter, masuk (atau [daftar](/wiki/Registration)). Lalu pergi ke [halaman toko](https://osu.ppy.sh/store/products/supporter-tag). Gunakan slider atau tombol bulan (terletak di bawah slider) untuk memilih durasi osu!supporter. Durasi yang berbeda akan mengubah harga yang harus Anda bayar. Mata uang yang digunakan adalah Dolar Amerika Serikat (USD). Jika negara Anda menggunakan mata uang yang berbeda, mohon gunakan konverter mata uang seperti [OANDA](https://www.oanda.com/currency/converter/) atau [Google](https://www.google.com/search?q=usd+exchange+rate) untuk memeriksa harga. Harga yang ditampilkan di halaman osu!store adalah per akun.
 
 ### Memilih durasi
 

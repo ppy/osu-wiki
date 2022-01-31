@@ -4,11 +4,11 @@ The **Ranking Criteria Council** was a group of users tasked with reworking the 
 
 Many of the rules that the [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) operated by when evaluating maps were unwritten and there were no mode-specific criteria at the time. This led to repeated disqualifications that the mapping community viewed as unjustified, so the Ranking Criteria Council aimed to bring everyone to common ground.
 
-This project discontinued use of the [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87) from the public, only allowing posts from members of the council. Members of the council planned on discussing all aspects of mapping and forming their own Ranking Criteira proposals accordingly.
+This project discontinued use of the [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87) from the public, only allowing posts from members of the council. Members of the council planned on discussing all aspects of mapping and forming their own Ranking Criteria proposals accordingly.
 
 ## Initial members
 
-Members of the Ranking Criteria Council were hand-picked to represent different regions of players and mappers, mimicking membership of the [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate).
+Members of the Ranking Criteria Council were hand-picked to represent different regions of players and mappers, mimicking membership of the [Triumvir Conglomerate](/wiki/Modding/BAT_Managers#triumvir-conglomerate).
 
 ### osu! members
 
@@ -163,9 +163,9 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CZ]: /wiki/shared/flag/CL.gif "Czech Republic"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"

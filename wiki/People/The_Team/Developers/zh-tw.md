@@ -6,6 +6,8 @@ tags:
   - osu!devs
   - osu! dev
   - osu! devs
+outdated: true
+outdated_since: b5ffad1bde58fd33ff05bc06bb2843bc8707275e
 ---
 
 # 開發團隊
@@ -52,11 +54,11 @@ osu! 的開發工作由 osu! 的製作者 ![][flag_AU] **[peppy](https://osu.ppy
 
 - ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
 
-[flag_AU]: /wiki/shared/flag/AU.gif "澳洲"
-[flag_DE]: /wiki/shared/flag/DE.gif "德國"
-[flag_FR]: /wiki/shared/flag/FR.gif "法國"
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
-[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
-[flag_SK]: /wiki/shared/flag/SK.gif "斯洛伐克"
-[flag_US]: /wiki/shared/flag/US.gif "美國"
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_SK]: /wiki/shared/flag/SK.gif
+[flag_US]: /wiki/shared/flag/US.gif
 [flag___]: /wiki/shared/flag/__.gif

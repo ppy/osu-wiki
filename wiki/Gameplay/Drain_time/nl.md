@@ -6,7 +6,7 @@ no_native_review: true
 
 # Drain-tijd
 
-**Drain-tijd** verwijst naar de totale duur van een [beatmap](/wiki/Beatmap) waar eem speler actief moet zijn. Deze tijd begint te tellen vanaf het eerste [hitobject](/wiki/Hit_Objects), en is exclusief pauzes. Het woord *drain* komt van [osu!](/wiki/Game_mode/osu!) en [osu!catch](/wiki/Game_mode/osu!catch)'s [health drain](/wiki/Beatmapping/Health_Drain)-systeem, waar de HP-balk van een speler voortdurend daalt terwijl je een beatmap speelt.
+**Drain-tijd** verwijst naar de totale duur van een [beatmap](/wiki/Beatmap) waar eem speler actief moet zijn. Deze tijd begint te tellen vanaf het eerste [hitobject](/wiki/Hit_object), en is exclusief pauzes. Het woord *drain* komt van [osu!](/wiki/Game_mode/osu!) en [osu!catch](/wiki/Game_mode/osu!catch)'s [health drain](/wiki/Beatmapping/Health_drain)-systeem, waar de HP-balk van een speler voortdurend daalt terwijl je een beatmap speelt.
 
 Beatmaps met erg lange drain-tijden worden vaak *[marathons](/wiki/Beatmap/Marathon)* genoemd omdat ze uitzonderlijk veel uithoudingsvermogen vergen om te voltooien.
 

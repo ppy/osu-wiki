@@ -1,55 +1,55 @@
-# Informations sur les collaborations
+# Comment démarrer une collaboration sur une beatmap
 
-Les collaborations sont une sorte de mapping difficile à réaliser. Il y a beaucoup de facteurs à inclure... Voici quelques conseils à prendre en compte lors d'une collaboration.
+Les collaborations sont l'un des types de mapping les plus difficiles à réaliser. Il y a beaucoup de facteurs à prendre en compte... Voici quelques conseils à prendre en compte lors de la réalisation d'une collaboration.
 
-## Être sûr
+## Soyez sûr
 
-Qu'est ce que cela veut dire ?
+Qu'est-ce que ça veut dire ?
 
-- Être sûr de la **chanson** vous choisissez.
-- Être sûr de séparer les **parties et inclure des pauses**. (C'est beaucoup plus amusant si vous pouvez diviser les parties de manière uniforme.)
-- Être sûr que tout le monde est d'accord sur les **options de la map**.
-- Être sûr de demander à tous les **mappers** que vous souhaitez inviter avant de les inclure sur une map. (C'est plus poli.)
-- Être sûr que vous pouvez **suivre jusqu'au bout** la collaboration. (Que vous puissiez continuer et que tout le monde dans la collaboration soit présent et attentif à tout moment)
+- Soyez sûr de la **musique** que vous choisissez.
+- Soyez sûr de diviser les **parties et d'envisager des pauses**. (C'est beaucoup plus amusant si vous pouvez diviser les parties de manière égale).
+- Soyez sûrs que les deux parties sont d'accord sur les **configurations de la map**.
+- Soyez sûr des **mappeurs** que vous envisagez et demandez-leur avant de soumettre une map. (C'est poli.)
+- Soyez sûr que vous pouvez **suivre jusqu'au bout** une collaboration. (Que vous pouvez continuer et que la personne qui participe à la collaboration doit être attentive et présente à tout moment).
 
-Cette étape sert, en quelque sorte, de confirmation pour voir si les collaborations sont faites pour vous. À partir d'ici, il y a quelques points à suivre.
+Cette étape est, en fait, une étape de confirmation pour voir si la collaboration vous convient. À partir de là, elle se ramifie à partir des points suivants.
 
-## Sélection de la chanson
+## Sélection des musiques
 
-Une étape qui peut être facilement écartée, mais dangereux si vous faites comme cela.
+Une démarche qui peut être facilement écartée, dangereuse si elle est faite.
 
-- Choississez une chanson que tout le monde accepte.
-- Le timing est toujours important.
-- Les chansons qui ont des modifications distinctes dans la musique ou des parties distinctes sont généralement celles à choisir lors d'une collaboration.
+- Choisissez une musique sur laquelle vous êtes tous d'accord.
+- Le timing est toujours une chose importante.
+- Les chansons qui présentent des changements distincts dans la musique ou qui ont des parties distinctes sont généralement celles à choisir lors d'une collaboration.
 
 ## Partitionnement
 
-Généralement il est préférable de savoir de quelle partie vous vous occupez et ce que les autres personnes feront avant de commencer à faire le mapping.
+Il est généralement bon d'avoir des parties dans lesquelles vous et la ou les autres personnes avec lesquelles vous travaillez pouvez clairement commencer à établir un mapping.
 
-- Premièrement, il est recommandé de bien marquer votre section de la chanson. Faites le autant que possible.
-- Peu importe qui commence, il est bien plus facile de mapper du début à la fin plutôt que chacun de son côté. De cette façon, il est plus facile de s'organiser et la map se jouera mieux.
-- Souvenez vous de séparer les parties avec des pauses. **La plupart des personnes oublient cela.**
+- Tout d'abord, il est conseillé de mettre un signet sur votre section de la chanson. De préférence même que possible.
+- Peu importe qui commence à mapper, il est beaucoup plus facile d'aller du début à la fin plutôt que de mapper toutes les parties à la fois. De cette façon, il est beaucoup plus facile d'être fluide et de mieux jouer.
+- N'oubliez pas de faire des pauses. **La plupart des gens l'oublient.**
 
-## Options de la map
+## Paramètres de la carte
 
-Si vous ne pouvez pas vous mettre d'accord sur les options de la map, sa qualité risque d'en prendre un coup. Vous devriez vous mettre d'accord sur :
+Si vous ne pouvez pas vous mettre d'accord sur les paramètres de la carte... cela va être préjudiciable.
 
-- la vitesse des sliders. C'était un gros problème pour Last Time Travel et Gonna Be Here.
-- la distance et l'espacement des notes. Regardez [Be Your Wings](https://osu.ppy.sh/beatmapsets/8518).
-- la configuration de la difficulté.
+- Je suis d'accord pour un Slider Velocity. C'était un grand tueur pour Last Time Travel et Gonna Be Here.
+- Je suis d'accord sur le snapping à distance et l'espacement en général. Regardez [Be Your Wings](https://osu.ppy.sh/beatmapsets/8518).
+- Je suis d'accord sur les paramètres de difficulté.
 
-## Mappers
+## Mappeurs
 
-C'est la partie qui rend le plus de personnes folles. Avoir les mappers de vos rêves n'est pas facile, mais si vous réussissez à les avoir, vous devez être prêt sur tous les aspects avant de commencer.
+C'est la partie où la plupart des gens deviennent fous. Obtenir les mappeurs dont vous rêvez n'est peut-être pas si facile, mais si vous les obtenez, vous devez être prêt dans tous les domaines avant de commencer.
 
-- Développez vos propres compétences en mapping. C'est un des aspects clés. Si la personne avec laquelle vous collaborez n'aime pas comment vous mappez... Vous pouvez dire au revoir à votre collaboration.
-- Choisissez quelqu'un qui a un style similaire au vôtre. Il sera plus facile d'être sur la même longueur d'onde quand vous ferez le mapping.
-- Soyez sûr que vous pouvez vous contacter facilement... **C'est important car si les personnes avec qui vous travaillez disparaissent pour n'importe quelle raison, vous serez coincés.**
+- Développez vos propres compétences en mapping. C'est l'un des aspects essentiels. Si la personne avec qui vous voulez collaborer n'aime pas votre façon de mapper... Vous pouvez dire adieu à la collaboration.
+- Choisissez quelqu'un qui a un style similaire au vôtre. Il est souvent plus facile d'établir une correspondance et de travailler ensemble.
+- Assurez-vous que vous pouvez tous vous contacter facilement... **C'est important, car si les personnes avec lesquelles vous travaillez disparaissent pour une raison ou une autre, vous êtes laissé en plan**.
 
-Souvenez-vous qu'une bonne map est une map qui prend du temps à faire et qui a un grand potentiel. Les collaborations sont souvent très difficile à faire ranked. Quelques raisons à cela :
+Rappelez-vous, gardez toujours à l'esprit qu'une bonne map est une map qui prend du temps et qui est au maximum de son potentiel. Les collaborations sont souvent l'une des maps les plus difficiles à classer. Pour quelques raisons :
 
-- Vous avez plus d'un mapper, et si les modders trouvent un problème dans une section d'un autre mapper, l'autre mapper devra le résoudre.
-- Certaines parties peuvent entrer en conflit et le flow de la map peut être difficile à prendre en main.
-- Les collaborations sont les maps les plus difficile à démarrer et à compléter.
+- Vous avez plus d'un mappeur, et si des moddeurs trouvent un problème dans la section des autres mappeurs, ce seront eux qui devront résoudre le problème.
+- Les pièces peuvent s'entrechoquer et le flux de la map peut être vraiment difficile à réaliser.
+- Les collaborations sont les maps la plus difficile à démarrer et à terminer.
 
-N'oubliez pas que les collaborations, même si elles sont complexes au début et à la fin, sont souvent les plus enrichissantes une fois terminées.
+N'oubliez pas que les collaborations, bien qu'elles soient complexes à mettre en place et à suivre, sont souvent les plus gratifiantes une fois terminées.

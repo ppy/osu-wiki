@@ -1,6 +1,6 @@
 ---
 tags:
-  - double time
+  - doubletime
   - double-time
   - DT
   - mod
@@ -32,7 +32,7 @@ tags:
 
 *Catatan: Cara yang digunakan untuk mempercepat lagu tersebut tidak menaikkan pitch lagunya.*
 
-Mod **Double Time** adalah sebuah [game modifier](/wiki/Game_modifier) yang meningkatkan kesulitan pada sebuah [beatmap](/wiki/Beatmap) dengan menaikkan kecepatan tempo (BPM) menjadi 150% (1.5x) dengan memperpendek durasi lagu sebesar 33%, serta meningkatkan [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), dan [health (HP)](/wiki/Beatmapping/Health).
+Mod **Double Time** adalah sebuah [game modifier](/wiki/Game_modifier) yang meningkatkan kesulitan pada sebuah [beatmap](/wiki/Beatmap) dengan menaikkan kecepatan tempo (BPM) menjadi 150% (1.5x) dengan memperpendek durasi lagu sebesar 33%, serta meningkatkan [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), dan [health (HP)](/wiki/Gameplay/Health).
 
 Double Time sering dianggap sebagai salah satu mod terbaik yang digunakan untuk memperoleh banyak [performance points](/wiki/Performance_points) (PP) pada tingkat kesulitan yang lebih mudah pada mode permainan [osu!](/wiki/Game_mode/osu!).
 

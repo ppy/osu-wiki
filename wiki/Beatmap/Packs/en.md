@@ -7,7 +7,7 @@ outdated: true
 
 # Beatmap packs
 
-A beatmaps pack is a `.zip` file containing beatmaps. The name of the pack is based on what they contain (e.g. `Approved Beatmap Pack #7` would only contain [approved](/wiki/approved) beatmaps).
+A beatmaps pack is a `.zip` file containing beatmaps. The name of the pack is based on what they contain (e.g. `Approved Beatmap Pack #7` would only contain [approved](/wiki/Beatmap/Category#approved) beatmaps).
 
 It is worth noting that the most packs are:
 
@@ -27,9 +27,9 @@ Beatmaps packs are split into 4 categories:
 
 ## Fully Completing Your Song List
 
-This is for those who really want to *fully complete your song list* (and not just download your favorite songs).
+This is for those who really want to *fully complete your song list* (and not just download your favourite songs).
 
-Keep in mind that you will need quite a lot of digital space to storage these beatmaps. As beatmap packs (and torrents) also downloads with the video and other beatmap skinable elements.
+Keep in mind that you will need quite a lot of digital space to storage these beatmaps. As beatmap packs (and torrents) also downloads with the video and other beatmap skinnable elements.
 
 ### Beatmap Pack Listing
 

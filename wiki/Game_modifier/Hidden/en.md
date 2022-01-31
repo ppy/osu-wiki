@@ -37,7 +37,7 @@ The **Hidden** mod is a [game modifier](/wiki/Game_modifier) that increases the 
 
 ### osu!
 
-In [osu!](/wiki/Game_mode/osu!), the Hidden mod eliminates the approach circles and causes the hit objects to fade out shortly after appearing, forcing players to more or less memorize the timing, and—to a lesser degree—the placement and slider path.
+In [osu!](/wiki/Game_mode/osu!), the Hidden mod eliminates the approach circles and causes the hit objects to fade out shortly after appearing, forcing players to more or less memorise the timing, and—to a lesser degree—the placement and slider path.
 
 Although it should be noted that the Hidden mod is considered the easiest difficulty increasing mod amongst top players due to the consistency of when hit objects appear and disappear. As a result of this consistency, it is very much possible to learn when to tap objects based on when they fade out alone.
 
@@ -49,7 +49,7 @@ In [osu!taiko](/wiki/Game_mode/osu!taiko), the notes fade out at around halfway 
 
 On beatmaps with high overall difficulty, the Hidden mod is used by experienced players to increase score instead of the [Hard Rock (HR)](/wiki/Game_modifier/Hard_Rock) mod because HR occasionally makes the timing window too small.
 
-Unlike osu!, the Hidden mod is typically regarded as much harder to read or "get used-to" due to requiring the player to memorize which color comes next.
+Unlike osu!, the Hidden mod is typically regarded as much harder to read or "get used-to" due to requiring the player to memorise which colour comes next.
 
 ![HD gameplay taiko](img/HD-taiko.jpg "Gameplay of osu!taiko with the Hidden mod enabled")
 
@@ -69,10 +69,10 @@ In [osu!mania](/wiki/Game_mode/osu!mania), the Hidden mod functions as the inver
 
 ## Trivia
 
-- The Hidden mod debuted in Ouendan 2, which was the second Japanese DS game in the [Osu! Tatake! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia") series (the series that osu! is based on).
+- The Hidden mod debuted in Ouendan 2, which was the second Japanese DS game in the [Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) series (the series that osu! is based on).
 - If a beatmap is passed with an S or SS grade with the Hidden mod enabled, the beatmap will award the silver variant of the grade instead.
 - By default, in [osu!](/wiki/Game_mode/osu!) the first [hit object](/wiki/Hit_object)'s [approach circle](/wiki/Hit_object/Approach_circle) will be temporarily visible at the start of a map so as to help players better gauge when to tap said hit object. This may be turned off in the Options under `Gameplay`.
-- In osu!mania, the Hidden mod is a variant of the [Fade In](/wiki/Game_modififer/Fade_In) mod.
+- In osu!mania, the Hidden mod is a variant of the [Fade In](/wiki/Game_modifier/Fade_In) mod.
 - The current version of the Hidden mod in osu!mania used to be a separate mod called [Fade Out](/wiki/Game_modifier/Fade_Out).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

@@ -14,5 +14,5 @@ Les **MAT Leaders** supervisaient la [Mapping Assistance Team (*MAT*)](/wiki/Mod
 
 Le poste a ensuite été occupé par ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) du 26 août 2010 jusqu'à la dissolution du MAT le 23 avril 2013.
 
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

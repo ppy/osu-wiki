@@ -9,7 +9,7 @@ tags:
 
 *Untuk nilai AR yang disarankan, silakan lihat: [Ranking criteria](/wiki/Ranking_Criteria)*
 
-**Approach rate** (***AR***) pengaturan kesulitan [beatmap](/wiki/Beatmap) yang ditentukan ketika [hit objects](/wiki/Hit_Objects) mulai memudar sehubungan dengan kapan mereka harus ditekan atau diklik. Pengaturan ini hanya ada di jenis permainan [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch).
+**Approach rate** (***AR***) pengaturan kesulitan [beatmap](/wiki/Beatmap) yang ditentukan ketika [hit objects](/wiki/Hit_object) mulai memudar sehubungan dengan kapan mereka harus ditekan atau diklik. Pengaturan ini hanya ada di jenis permainan [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch).
 
 Nilai AR memiliki jarak antara 0 sampai 10. AR yang tinggi mempunyai arti bahwa hit object akan ditampilkan dalam waktu yang lebih singkat, sehingga pemain hanya mempunyai sedikit waktu untuk bereaksi. Di sisi lain, AR yang rendah memberikan banyak waktu bagi pemain untuk bereaksi. Tetapi, hasilnya akan memberikan sejumlah hit object yang besar ketika muncul dilayar dalam sekaligus. Akan tetapi, hal ini dapat menyebabkan munculnya jumlah hit object yang banyak di layar pemain dalam waktu sekaligus.
 

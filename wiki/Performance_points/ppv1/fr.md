@@ -4,7 +4,7 @@ outdated: true
 
 # ppv1
 
-La **première version des performance points** (abrégée en **ppv1**) était un ancien système de classement des joueurs au niveau mondial et national de tous les modes de jeu de osu!. Il remplaça l'ancien système de classement par score total et fut abandonné au profit des [ppv2](/wiki/Performance_Points).
+La **première version des performance points** (abrégée en **ppv1**) était un ancien système de classement des joueurs au niveau mondial et national de tous les modes de jeu de osu!. Il remplaça l'ancien système de classement par score total et fut abandonné au profit des [ppv2](/wiki/Performance_points).
 
 ## Historique
 
@@ -12,7 +12,7 @@ Les ppv1 ont été lancés en avril 2012, initialement mentionnés dans les prof
 
 Ce système se mettait à jour initialement par intervalles réguliers, généralement toutes les 24 heures, pour finalement fonctionner en temps réel le 16 août 2012.
 
-Il fut abandonné et remplacé par [ppv2](/wiki/Performance_Points) le 27 janvier 2014 à la suite de critiques lancées par les joueurs sur l'opacité de l'algorithme et la favorisation des difficultés Hard jouées avec des mods au détriment des difficultés Insane. Il a également permis à peppy de déporter le travail de maintien et mise à jour du système de classement à et ainsi soulager sa charge de travail.
+Il fut abandonné et remplacé par [ppv2](/wiki/Performance_points) le 27 janvier 2014 à la suite de critiques lancées par les joueurs sur l'opacité de l'algorithme et la favorisation des difficultés Hard jouées avec des mods au détriment des difficultés Insane. Il a également permis à peppy de déporter le travail de maintien et mise à jour du système de classement à et ainsi soulager sa charge de travail.
 
 ## Algorithme
 

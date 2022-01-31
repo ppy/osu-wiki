@@ -56,7 +56,7 @@ Achieving a certain amount of points can grant the contestant unique prizes:
 
 ## Points
 
-A more detailed leaderboard is available on [Google Sheets](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing "Google Spreadsheet").
+A more detailed leaderboard is available on [Google Sheets](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing).
 
 | User(s) | Points |
 | :-- | :-- |
@@ -78,8 +78,8 @@ A more detailed leaderboard is available on [Google Sheets](https://docs.google.
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea" 
-[flag_PH]: /wiki/shared/flag/PH.gif "Phillipines"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

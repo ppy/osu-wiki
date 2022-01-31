@@ -19,7 +19,7 @@ tags:
 ## 角色與責任
 
 ***提醒：若要檢舉管理員的不當行為或違反貢獻者行為準則，請聯繫[帳號管理團隊](/wiki/People/The_Team/Account_support_team#support@ppy.sh)***\
-*另見：[檢舉不當行為](/wiki/Reporting_Bad_Behaviour)*
+*另見：[檢舉不當行為](/wiki/Reporting_bad_behaviour)*
 
 GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以詢問他們任何關於 osu! 管理層面的問題。包括但不限於：
 
@@ -37,7 +37,7 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 列入考慮的最重要因素為活躍度、對[規範](/wiki/Rules)的了解、行為以及耐心：
 
 1. 表現良好的行為：尊重他人，保持禮貌。確保你的帳號不被禁言，或遇到其他嚴重的問題。
-2. 在論壇或聊天頻道活躍，透過檢舉系統[回報任何不當行為](/wiki/Reporting_Bad_Behaviour)。回答並協助他人解決問題。
+2. 在論壇或聊天頻道活躍，透過檢舉系統[回報任何不當行為](/wiki/Reporting_bad_behaviour)。回答並協助他人解決問題。
 3. 對[規範](/wiki/Rules)及如何運用有適當的了解。知道在 osu! 中什麼可以被接受，什麼不能是很重要的。
 4. 要有耐心。GMT 不會主動邀請只貢獻了幾天的玩家。GMT 需要時間來評估他人，像是個性、能貢獻的項目、活躍度...等。
 
@@ -155,33 +155,33 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 
 <!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->
 
-[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
-[flag_AT]: /wiki/shared/flag/AT.gif "奧地利"
-[flag_AU]: /wiki/shared/flag/AU.gif "澳洲"
-[flag_BR]: /wiki/shared/flag/BR.gif "巴西"
-[flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
-[flag_DE]: /wiki/shared/flag/DE.gif "德國"
-[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
-[flag_FI]: /wiki/shared/flag/FI.gif "芬蘭"
-[flag_FR]: /wiki/shared/flag/FR.gif "法國"
-[flag_GB]: /wiki/shared/flag/GB.gif "英國"
-[flag_HK]: /wiki/shared/flag/HK.gif "香港"
-[flag_HM]: /wiki/shared/flag/HM.gif "赫德島和麥克唐納群島"
-[flag_ID]: /wiki/shared/flag/ID.gif "印尼"
-[flag_IT]: /wiki/shared/flag/IT.gif "義大利"
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
-[flag_KR]: /wiki/shared/flag/KR.gif "南韓"
-[flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
-[flag_MY]: /wiki/shared/flag/MY.gif "馬來西亞"
-[flag_NL]: /wiki/shared/flag/NL.gif "荷蘭"
-[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
-[flag_PH]: /wiki/shared/flag/PH.gif "菲律賓"
-[flag_PL]: /wiki/shared/flag/PL.gif "波蘭"
-[flag_PT]: /wiki/shared/flag/PT.gif "葡萄牙"
-[flag_RU]: /wiki/shared/flag/RU.gif "俄羅斯"
-[flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
-[flag_TH]: /wiki/shared/flag/TH.gif "泰國"
-[flag_TR]: /wiki/shared/flag/TR.gif "土耳其"
-[flag_TW]: /wiki/shared/flag/TW.gif "台灣"
-[flag_US]: /wiki/shared/flag/US.gif "美國"
+[flag_AR]: /wiki/shared/flag/AR.gif
+[flag_AT]: /wiki/shared/flag/AT.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
+[flag_CH]: /wiki/shared/flag/CH.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
+[flag_HM]: /wiki/shared/flag/HM.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_PT]: /wiki/shared/flag/PT.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_TH]: /wiki/shared/flag/TH.gif
+[flag_TR]: /wiki/shared/flag/TR.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_US]: /wiki/shared/flag/US.gif
 [flag___]: /wiki/shared/flag/__.gif

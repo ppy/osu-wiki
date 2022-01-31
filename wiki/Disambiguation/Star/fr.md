@@ -10,7 +10,7 @@ stub: true
 
 Le terme **star** a quatre significations :
 
-1. Étape du processus de modification d'une beatmap au cours de laquelle un modérateur juge qu'une beatmap est sur la bonne voie mais doit être améliorée avant d'être approuvée par une bulle.
+1. Étape du processus de [modification d'une beatmap](/wiki/Modding/Forum_modding) au cours de laquelle un modérateur juge qu'une beatmap est sur la bonne voie mais doit être améliorée avant d'être approuvée par une [bulle](/wiki/Modding/Bubble).
    - Il s'agit par exemple d'ajustements du timing, d'un espacement incorrect des beats dans certaines zones ou de la création de versions de difficulté supplémentaires.
    - Les beatmaps qui reçoivent une étoile sont signalées par une étoile graphique à côté du titre de leur fil de discussion.
    - Une étoile peut être retirée par un autre modder s'il estime que la beatmap doit être améliorée.
@@ -19,4 +19,4 @@ Le terme **star** a quatre significations :
 3. Un autre terme pour "[Kudosu](/wiki/Modding/Kudosu)".
    - Ils sont donnés aux modders de beatmap et peuvent être utilisés pour élever une beatmap au-dessus des autres.
 4. Un autre terme pour "[Star Priority](/wiki/Modding/Star_priority)".
-   - Ces étoiles sont attribuées aux [supporters d'osu](/wiki/osu!support) et sont utilisées dans les [Feature Requests](https://osu.ppy.sh/community/forums/4).
+   - Ces étoiles sont attribuées aux [supporters d'osu](/wiki/osu!supporter) et sont utilisées dans les [Feature Requests](https://osu.ppy.sh/community/forums/4).

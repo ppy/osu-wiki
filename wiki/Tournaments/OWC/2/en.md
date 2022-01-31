@@ -10,16 +10,16 @@ tags:
 
 ![OWC #2 logo](img/logo.png)
 
-The **osu! World Cup #2** (***OWC #2***), also commonly known as **osu! World Cup 2011** (***OWC 2011***), was a single elimination country-based osu! tournament organized by various osu! community members under the provision of the [osu! team](/wiki/People/The_Team). It was the second installment of the osu! World Cup.
+The **osu! World Cup #2** (***OWC #2***), also commonly known as **osu! World Cup 2011** (***OWC 2011***), was a single elimination country-based osu! tournament organized by various osu! community members under the provision of the [osu! team](/wiki/People/The_Team). It was the second instalment of the osu! World Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2011-10-29/2011-11-20 |
-| Group Stage week 1 | 2011-11-21/2011-11-27 |
-| Group Stage week 2 | 2011-11-28/2011-12-04 |
-| Group Stage week 3 | 2011-12-05/2011-12-11 |
+| Group stage week 1 | 2011-11-21/2011-11-27 |
+| Group stage week 2 | 2011-11-28/2011-12-04 |
+| Group stage week 3 | 2011-12-05/2011-12-11 |
 | *Winter break* | 2011-12-12/2012-01-01 |
 | Round of 16 | 2012-01-02/2012-01-08 |
 | Quarterfinals | 2012-01-09/2012-02-05 |
@@ -30,17 +30,17 @@ The **osu! World Cup #2** (***OWC #2***), also commonly known as **osu! World Cu
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag for each team member, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter for each team member, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter for each team member |
 
 ![](img/badge.jpg "OWC #2 winner badge")
 
-## Organization
+## Organisation
 
 The osu! World Cup #2 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) |
 | Streamer | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_NL] [dlovan](https://osu.ppy.sh/users/190684), ![][flag_AR] [Metro](https://osu.ppy.sh/users/306737), ![][flag_CA] [YodaSnipe](https://osu.ppy.sh/users/673746) |
@@ -53,24 +53,8 @@ The osu! World Cup #2 was run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/65535)
 - [Livestream link (livestream.com)](https://livestream.com/osuworldcup)
-- [Livestream link (Own3d.tv)](https://www.own3d.tv/MetroAR)
+- [Livestream link (own3d.tv)](https://www.own3d.tv/MetroAR)
 - [Pre-tournament interviews](https://docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit)
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Team |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [CheEZ](https://osu.ppy.sh/users/272117), [K i R i K a R u](https://osu.ppy.sh/users/139670), [moneto](https://osu.ppy.sh/users/242788), [Reisen Udongein](https://osu.ppy.sh/users/232942), [Remilia-Scarlet](https://osu.ppy.sh/users/602783)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] **Japan** (**[SiLviA](https://osu.ppy.sh/users/409747)**, [Apricot](https://osu.ppy.sh/users/438547), [Flute](https://osu.ppy.sh/users/211278), [Iris](https://osu.ppy.sh/users/758181), [Sinch](https://osu.ppy.sh/users/360552), [tobaku2784](https://osu.ppy.sh/users/113855), *[val0108](https://osu.ppy.sh/users/243917)¹*) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] **Brazil** (**[Blue Dragon](https://osu.ppy.sh/users/19048)**, [antsu](https://osu.ppy.sh/users/92953), [Caco](https://osu.ppy.sh/users/635173), [fabriciorby](https://osu.ppy.sh/users/209664), [Fumi-chan](https://osu.ppy.sh/users/181432), [Katsuri](https://osu.ppy.sh/users/701726), *[K3nsh1n\_H1mur4](https://osu.ppy.sh/users/197834)¹*, *[Asterio](https://osu.ppy.sh/users/803906)²*, *[gabaeba](https://osu.ppy.sh/users/867902)²*) |
-
-¹ *Denotes players that were being brought in either as an extra player, a substitute player, an emergency reserve player during the running of the Group Stage.*
-
-² *Denotes players that were being brought in as a substitute player prior to the beginning of the knock-out stages.*
-
-![OWC #2 bracket](img/bracket.jpg)
 
 ## Participants
 
@@ -124,6 +108,22 @@ This competition has come to an end and resulted in the following podium:
 | ![][flag_DE] Germany | ![][flag_NZ] New Zealand | ![][flag_PL] Poland | ![][flag_KR] South Korea | ![][flag_LV] Latvia | ![][flag_RU] Russian Federation | ![][flag_SE] Sweden | ![][flag_TH] Thailand |
 | ![][flag_JP] Japan | ![][flag_PH] Philippines | ![][flag_UA] Ukraine | ![][flag_VN] Vietnam | ![][flag_PT] Portugal | ![][flag_UY] Uruguay | ![][flag_TW] Taiwan | ![][flag_US] United States |
 
+![](img/bracket.jpg "OWC #2 bracket")
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [CheEZ](https://osu.ppy.sh/users/272117), [K i R i K a R u](https://osu.ppy.sh/users/139670), [moneto](https://osu.ppy.sh/users/242788), [Reisen Udongein](https://osu.ppy.sh/users/232942), [Remilia-Scarlet](https://osu.ppy.sh/users/602783)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] **Japan** (**[SiLviA](https://osu.ppy.sh/users/409747)**, [Apricot](https://osu.ppy.sh/users/438547), [Flute](https://osu.ppy.sh/users/211278), [Iris](https://osu.ppy.sh/users/758181), [Sinch](https://osu.ppy.sh/users/360552), [tobaku2784](https://osu.ppy.sh/users/113855), *[val0108](https://osu.ppy.sh/users/243917)¹*) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] **Brazil** (**[Blue Dragon](https://osu.ppy.sh/users/19048)**, [antsu](https://osu.ppy.sh/users/92953), [Caco](https://osu.ppy.sh/users/635173), [fabriciorby](https://osu.ppy.sh/users/209664), [Fumi-chan](https://osu.ppy.sh/users/181432), [Katsuri](https://osu.ppy.sh/users/701726), *[K3nsh1n\_H1mur4](https://osu.ppy.sh/users/197834)¹*, *[Asterio](https://osu.ppy.sh/users/803906)²*, *[gabaeba](https://osu.ppy.sh/users/867902)²*) |
+
+¹ *Denotes players that were being brought in either as an extra player, a substitute player, an emergency reserve player during the running of the Group Stage.*
+
+² *Denotes players that were being brought in as a substitute player prior to the beginning of the knock-out stages.*
+
 ## Mappools
 
 ### Finals
@@ -131,145 +131,145 @@ This competition has come to an end and resulted in the following podium:
 *In addition of nine other new maps, the Finals mappool also saw all of the six previously featured Tiebreaker maps from earlier rounds returning as NoMod picks.*
 
 - NoMod
-  - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#osu/93021) -- *(Group Stage week 1 Tiebreaker)*
-  - [Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947) -- *(Group Stage week 2 Tiebreaker)*
-  - [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#osu/99342) -- *(Group Stage week 3 Tiebreaker)*
-  - [Hatsune Miku - Rubik's Cube (rui) \[7x7x7\]](https://osu.ppy.sh/beatmapsets/33651#osu/114635) -- *(Round of 16 Tiebreaker)*
-  - [Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (bakabaka) \[Yuri\]](https://osu.ppy.sh/beatmapsets/36569#osu/118226) -- *(Quarterfinals Tiebreaker)*
-  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/28107#osu/93842) -- *(Semifinals Tiebreaker)*
-  - [44teru-k - F.I (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/25828#osu/106033)
-  - [Sound Horizon - Raijin no Hidariude (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/16792#osu/60089)
-  - [Yousei Teikoku - Mischievous of Alice (Furawa) \[Alice\]](https://osu.ppy.sh/beatmapsets/35546#osu/142356)
-  - [SUPER STAR -MITSURU- - ALL MY TURN (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/beatmapsets/30877#osu/101713)
-  - [DJ Sharpnel - Exciting Hyper Highspeed Star (xBubu) \[Highspeed\]](https://osu.ppy.sh/beatmapsets/16619#osu/62589)
-  - [Nico Nico Douga - Owens (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/20406#osu/72469)
-  - [Eoin O' Broin - Deep Space (galvenize) \[Another\]](https://osu.ppy.sh/beatmapsets/25098#osu/85550)
-  - [Dio ft. Sef - Tijdmachine (GladiOol) \[Lesjuh! '11\]](https://osu.ppy.sh/beatmapsets/6997#osu/129875)
-  - [Seiryu X Donald - Time to Donald (James) \[Another\]](https://osu.ppy.sh/beatmapsets/6950#osu/30613)
+  1. [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#osu/93021) -- *(Group Stage week 1 Tiebreaker)*
+  2. [Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947) -- *(Group Stage week 2 Tiebreaker)*
+  3. [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#osu/99342) -- *(Group Stage week 3 Tiebreaker)*
+  4. [Hatsune Miku - Rubik's Cube (rui) \[7x7x7\]](https://osu.ppy.sh/beatmapsets/33651#osu/114635) -- *(Round of 16 Tiebreaker)*
+  5. [Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (bakabaka) \[Yuri\]](https://osu.ppy.sh/beatmapsets/36569#osu/118226) -- *(Quarterfinals Tiebreaker)*
+  6. [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/28107#osu/93842) -- *(Semifinals Tiebreaker)*
+  7. [44teru-k - F.I (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/25828#osu/106033)
+  8. [Sound Horizon - Raijin no Hidariude (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/16792#osu/60089)
+  9. [Yousei Teikoku - Mischievous of Alice (Furawa) \[Alice\]](https://osu.ppy.sh/beatmapsets/35546#osu/142356)
+  10. [SUPER STAR -MITSURU- - ALL MY TURN (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/beatmapsets/30877#osu/101713)
+  11. [DJ Sharpnel - Exciting Hyper Highspeed Star (xBubu) \[Highspeed\]](https://osu.ppy.sh/beatmapsets/16619#osu/62589)
+  12. [Nico Nico Douga - Owens (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/20406#osu/72469)
+  13. [Eoin O' Broin - Deep Space (galvenize) \[Another\]](https://osu.ppy.sh/beatmapsets/25098#osu/85550)
+  14. [Dio ft. Sef - Tijdmachine (GladiOol) \[Lesjuh! '11\]](https://osu.ppy.sh/beatmapsets/6997#osu/129875)
+  15. [Seiryu X Donald - Time to Donald (James) \[Another\]](https://osu.ppy.sh/beatmapsets/6950#osu/30613)
 - Tiebreaker
-  - **[Fear, and Loathing in Las Vegas - Just Awake (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/44527#osu/139446)**
+  1. **[Fear, and Loathing in Las Vegas - Just Awake (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/44527#osu/139446)**
 
 ### Semifinals
 
 - NoMod
-  - [Seiryu - Time to Air (Alace) \[DaRRi MIx\]](https://osu.ppy.sh/beatmapsets/4597#osu/24594)
-  - [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#osu/96523)
-  - [Hatsune Miku - Hiatus (wcx19911123) \[Insane\]](https://osu.ppy.sh/beatmapsets/32046#osu/105003)
-  - [paraoka - Manima ni (Short Ver.) (Mixagji) \[0108\]](https://osu.ppy.sh/beatmapsets/39275#osu/131362)
-  - [07th Expansion - Final Answer (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/26226#osu/88633)
-  - [DJ YOSHITAKA - Evans (Alace) \[Another\]](https://osu.ppy.sh/beatmapsets/22301#osu/77017)
-  - [Syuiro - Ama no Jaku (Natteke) \[Insane\]](https://osu.ppy.sh/beatmapsets/39817#osu/126677)
-  - [Mutsuhiko Izumi - Chinese Snowy Dance (Chocopikel) \[Insane\]](https://osu.ppy.sh/beatmapsets/41860#osu/132013)
-  - [Kucchy vs Akky - Yakumo \~ JOINT STRUGGLE (DJPop) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/12909#osu/48096)
-  - [Rex - Heart of Witch (yeahyeahyeahhh) [InoStyle]](https://osu.ppy.sh/beatmapsets/20309#osu/71746)
-  - [Team Nekokan - Can't Defeat Airman (Sushi) \[Insane\]](https://osu.ppy.sh/beatmapsets/24084#osu/82033)
-  - [Megpoid GUMI - Jinsei Reset Button (manten) \[Ex.\]](https://osu.ppy.sh/beatmapsets/39971#osu/127426)
-  - [Hatsune Miku - Kagerou Days (m i z u k i) \[mizuki\]](https://osu.ppy.sh/beatmapsets/37638#osu/128668)
-  - [Paramore - Looking Up (Lesjuh) \[Hard\]](https://osu.ppy.sh/beatmapsets/17563#osu/66662)
+  1. [Seiryu - Time to Air (Alace) \[DaRRi MIx\]](https://osu.ppy.sh/beatmapsets/4597#osu/24594)
+  2. [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#osu/96523)
+  3. [Hatsune Miku - Hiatus (wcx19911123) \[Insane\]](https://osu.ppy.sh/beatmapsets/32046#osu/105003)
+  4. [paraoka - Manima ni (Short Ver.) (Mixagji) \[0108\]](https://osu.ppy.sh/beatmapsets/39275#osu/131362)
+  5. [07th Expansion - Final Answer (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/26226#osu/88633)
+  6. [DJ YOSHITAKA - Evans (Alace) \[Another\]](https://osu.ppy.sh/beatmapsets/22301#osu/77017)
+  7. [Syuiro - Ama no Jaku (Natteke) \[Insane\]](https://osu.ppy.sh/beatmapsets/39817#osu/126677)
+  8. [Mutsuhiko Izumi - Chinese Snowy Dance (Chocopikel) \[Insane\]](https://osu.ppy.sh/beatmapsets/41860#osu/132013)
+  9. [Kucchy vs Akky - Yakumo \~ JOINT STRUGGLE (DJPop) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/12909#osu/48096)
+  10. [Rex - Heart of Witch (yeahyeahyeahhh) [InoStyle]](https://osu.ppy.sh/beatmapsets/20309#osu/71746)
+  11. [Team Nekokan - Can't Defeat Airman (Sushi) \[Insane\]](https://osu.ppy.sh/beatmapsets/24084#osu/82033)
+  12. [Megpoid GUMI - Jinsei Reset Button (manten) \[Ex.\]](https://osu.ppy.sh/beatmapsets/39971#osu/127426)
+  13. [Hatsune Miku - Kagerou Days (m i z u k i) \[mizuki\]](https://osu.ppy.sh/beatmapsets/37638#osu/128668)
+  14. [Paramore - Looking Up (Lesjuh) \[Hard\]](https://osu.ppy.sh/beatmapsets/17563#osu/66662)
 - Tiebreaker
-  - **[DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/28107#osu/93842)**
+  1. **[DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/28107#osu/93842)**
 
 ### Quarterfinals
 
 - NoMod
-  - [Hatsune Miku - Recommended Spell (val0108) \[Spell\]](https://osu.ppy.sh/beatmapsets/28864#osu/96055)
-  - [Demetori - Emotional Skyscraper \~ World's End (Lybydose) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13204#osu/48985)
-  - [SHIKI - BABYLON (miccoliasms) \[Another\]](https://osu.ppy.sh/beatmapsets/31373#osu/103132)
-  - [Insert Rupee - Facing Fears (OC ReMix) (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/36541#osu/118054)
-  - [ALiCE'S EMOTiON - Lorelei (saymun) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/16437#osu/59643)
-  - [Hatsune Miku - the last effect (Holoaz) \[Holoid\]](https://osu.ppy.sh/beatmapsets/29355#osu/97423)
-  - [Comp - Gensou no Satellite (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmapsets/4404#osu/63604)
-  - [Ryu - I'm so Happy (tsuka) \[Extreme\]](https://osu.ppy.sh/beatmapsets/29471#osu/110915)
-  - [Amane - Midsummer Festival (Natteke) \[Lunatteke\]](https://osu.ppy.sh/beatmapsets/21924#osu/75822)
-  - [Makou - Fermion (MoonFragrance) \[Maximum\]](https://osu.ppy.sh/beatmapsets/20723#osu/72284)
-  - [seiya-murai feat.ALT - Sumidagawa Karenka (kiddly) \[Extreme\]](https://osu.ppy.sh/beatmapsets/28796#osu/95870)
-  - [Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/19789#osu/69405)
-  - [Lou Bega - Mambo No.5 (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/33393#osu/108936)
-  - [Pizuya's Cell x MyonMyon - Romantic Children (Frill) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/18009#osu/68431)
+  1. [Hatsune Miku - Recommended Spell (val0108) \[Spell\]](https://osu.ppy.sh/beatmapsets/28864#osu/96055)
+  2. [Demetori - Emotional Skyscraper \~ World's End (Lybydose) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13204#osu/48985)
+  3. [SHIKI - BABYLON (miccoliasms) \[Another\]](https://osu.ppy.sh/beatmapsets/31373#osu/103132)
+  4. [Insert Rupee - Facing Fears (OC ReMix) (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/36541#osu/118054)
+  5. [ALiCE'S EMOTiON - Lorelei (saymun) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/16437#osu/59643)
+  6. [Hatsune Miku - the last effect (Holoaz) \[Holoid\]](https://osu.ppy.sh/beatmapsets/29355#osu/97423)
+  7. [Comp - Gensou no Satellite (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmapsets/4404#osu/63604)
+  8. [Ryu - I'm so Happy (tsuka) \[Extreme\]](https://osu.ppy.sh/beatmapsets/29471#osu/110915)
+  9. [Amane - Midsummer Festival (Natteke) \[Lunatteke\]](https://osu.ppy.sh/beatmapsets/21924#osu/75822)
+  10. [Makou - Fermion (MoonFragrance) \[Maximum\]](https://osu.ppy.sh/beatmapsets/20723#osu/72284)
+  11. [seiya-murai feat.ALT - Sumidagawa Karenka (kiddly) \[Extreme\]](https://osu.ppy.sh/beatmapsets/28796#osu/95870)
+  12. [Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/19789#osu/69405)
+  13. [Lou Bega - Mambo No.5 (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/33393#osu/108936)
+  14. [Pizuya's Cell x MyonMyon - Romantic Children (Frill) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/18009#osu/68431)
 - Tiebreaker
-  - **[Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (bakabaka) \[Yuri\]](https://osu.ppy.sh/beatmapsets/36569#osu/118226)**
+  1. **[Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (bakabaka) \[Yuri\]](https://osu.ppy.sh/beatmapsets/36569#osu/118226)**
 
 ### Round of 16
 
 - NoMod
-  - [xi - Halcyon (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/20871#osu/73699)
-  - [Two Door Cinema Club - Cigarettes In The Theatre (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/37461#osu/120461)
-  - [Sakaue Nachi - Think of You (orioncomet) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/24838#osu/84358)
-  - [Akita Neru - Gotya Gotya Uruse\~! (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/22182#osu/76638)
-  - [HOUJIROU - Maihime \~buki\~ (Sandpig) \[Another\]](https://osu.ppy.sh/beatmapsets/28765#osu/95795)
-  - [Max Coveri - Running in the 90's (Gabi) \[Insane\]](https://osu.ppy.sh/beatmapsets/18482#osu/65417)
-  - [Kagamine Rin - Tokyo Teddy Bear (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/39838#osu/127138)
-  - [SHK - Weep Irish (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/28545#osu/95360)
-  - [Dark PHOENiX - Taketori Hishou (Aakiha) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/19320#osu/68036)
-  - [cranky - R176 (taka1235) \[Another\]](https://osu.ppy.sh/beatmapsets/31367#osu/103102)
-  - [Tamura Yukari - Endless Story (lolcubes) \[Insane\]](https://osu.ppy.sh/beatmapsets/38426#osu/123021)
-  - [Katy Perry - E.T. (La Cataline) \[Futuristic\]](https://osu.ppy.sh/beatmapsets/36077#osu/116708)
-  - [Megpoid GUMI - Chocolate (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/26652#osu/89721)
-  - [DCX - Flying High (DJ Splash Remix) (yeahyeahyeahhh) \[InoSane\]](https://osu.ppy.sh/beatmapsets/22194#osu/76663)
+  1. [xi - Halcyon (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/20871#osu/73699)
+  2. [Two Door Cinema Club - Cigarettes In The Theatre (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/37461#osu/120461)
+  3. [Sakaue Nachi - Think of You (orioncomet) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/24838#osu/84358)
+  4. [Akita Neru - Gotya Gotya Uruse\~! (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/22182#osu/76638)
+  5. [HOUJIROU - Maihime \~buki\~ (Sandpig) \[Another\]](https://osu.ppy.sh/beatmapsets/28765#osu/95795)
+  6. [Max Coveri - Running in the 90's (Gabi) \[Insane\]](https://osu.ppy.sh/beatmapsets/18482#osu/65417)
+  7. [Kagamine Rin - Tokyo Teddy Bear (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/39838#osu/127138)
+  8. [SHK - Weep Irish (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/28545#osu/95360)
+  9. [Dark PHOENiX - Taketori Hishou (Aakiha) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/19320#osu/68036)
+  10. [cranky - R176 (taka1235) \[Another\]](https://osu.ppy.sh/beatmapsets/31367#osu/103102)
+  11. [Tamura Yukari - Endless Story (lolcubes) \[Insane\]](https://osu.ppy.sh/beatmapsets/38426#osu/123021)
+  12. [Katy Perry - E.T. (La Cataline) \[Futuristic\]](https://osu.ppy.sh/beatmapsets/36077#osu/116708)
+  13. [Megpoid GUMI - Chocolate (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/26652#osu/89721)
+  14. [DCX - Flying High (DJ Splash Remix) (yeahyeahyeahhh) \[InoSane\]](https://osu.ppy.sh/beatmapsets/22194#osu/76663)
 - Tiebreaker
-  - **[Hatsune Miku - Rubik's Cube (rui) \[7x7x7\]](https://osu.ppy.sh/beatmapsets/33651#osu/114635)**
+  1. **[Hatsune Miku - Rubik's Cube (rui) \[7x7x7\]](https://osu.ppy.sh/beatmapsets/33651#osu/114635)**
 
-### Group Stage week 3
+### Group stage week 3
 
 - NoMod
-  - [Ruru Ichinose - Hinarin's Relation of Misfortune (Mafiamaster) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/12344#osu/46486)
-  - [Furries in a Blender - Ridorii (-Lennox-) \[Insane\]](https://osu.ppy.sh/beatmapsets/29727#osu/98496)
-  - [DJ Sadan - Theme of Laura (IceBeam) \[Insane\]](https://osu.ppy.sh/beatmapsets/38281#osu/122776)
-  - [Drop - Gensou Kidan (Kaguyahime+Mikotonori Ver.) (Shinxyn) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/15943#osu/57405)
-  - [Tatsh - reunion (ouranhshc) \[Insane\]](https://osu.ppy.sh/beatmapsets/24523#osu/83338)
-  - [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/30128#osu/105534)
-  - [Hate vs Brilliance - Quark (tsuka) \[Extra\]](https://osu.ppy.sh/beatmapsets/20323#osu/85166)
-  - [Nekomata Master - Far east nightbird (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/29538#osu/97942)
-  - [sun3 - Higan Retour (saymun) \[Alazy\]](https://osu.ppy.sh/beatmapsets/14464#osu/54371)
-  - [HHH (Ryu & Dai) - So Fabulous!! (Gabi) \[Another\]](https://osu.ppy.sh/beatmapsets/15977#osu/57510)
-  - [Yasuharu Takanashi - Fairy Tail Main Theme (Suck) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/13686#osu/50625)
-  - [DJ YOSHITAKA - FLOWER (TKiller) \[Intense\]](https://osu.ppy.sh/beatmapsets/29996#osu/104635)
-  - [Pendulum - The Vulture (La Cataline) \[Insane\]](https://osu.ppy.sh/beatmapsets/24163#osu/82249)
-  - [Hatsune Miku - Kusaregedou to Chocolate (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/25248#osu/85494)
+  1. [Ruru Ichinose - Hinarin's Relation of Misfortune (Mafiamaster) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/12344#osu/46486)
+  2. [Furries in a Blender - Ridorii (-Lennox-) \[Insane\]](https://osu.ppy.sh/beatmapsets/29727#osu/98496)
+  3. [DJ Sadan - Theme of Laura (IceBeam) \[Insane\]](https://osu.ppy.sh/beatmapsets/38281#osu/122776)
+  4. [Drop - Gensou Kidan (Kaguyahime+Mikotonori Ver.) (Shinxyn) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/15943#osu/57405)
+  5. [Tatsh - reunion (ouranhshc) \[Insane\]](https://osu.ppy.sh/beatmapsets/24523#osu/83338)
+  6. [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/30128#osu/105534)
+  7. [Hate vs Brilliance - Quark (tsuka) \[Extra\]](https://osu.ppy.sh/beatmapsets/20323#osu/85166)
+  8. [Nekomata Master - Far east nightbird (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/29538#osu/97942)
+  9. [sun3 - Higan Retour (saymun) \[Alazy\]](https://osu.ppy.sh/beatmapsets/14464#osu/54371)
+  10. [HHH (Ryu & Dai) - So Fabulous!! (Gabi) \[Another\]](https://osu.ppy.sh/beatmapsets/15977#osu/57510)
+  11. [Yasuharu Takanashi - Fairy Tail Main Theme (Suck) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/13686#osu/50625)
+  12. [DJ YOSHITAKA - FLOWER (TKiller) \[Intense\]](https://osu.ppy.sh/beatmapsets/29996#osu/104635)
+  13. [Pendulum - The Vulture (La Cataline) \[Insane\]](https://osu.ppy.sh/beatmapsets/24163#osu/82249)
+  14. [Hatsune Miku - Kusaregedou to Chocolate (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/25248#osu/85494)
 - Tiebreaker
-  - **[Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#osu/99342)**
+  1. **[Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#osu/99342)**
 
-### Group Stage week 2
+### Group stage week 2
 
 - NoMod
-  - [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/24325#osu/82734)
-  - [REDALiCE - Selfish (happy30) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/28060#osu/105531)
-  - [Suzaku - VANESSA (La Cataline) \[Another\]](https://osu.ppy.sh/beatmapsets/27862#osu/97663)
-  - [Tatsh - Fuushi Kaden (happy30) \[Hard\]](https://osu.ppy.sh/beatmapsets/15486#osu/56044)
-  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Crazy Jay\]](https://osu.ppy.sh/beatmapsets/24448#osu/91462)
-  - [Sum 41 - Thanks For Nothing (Natteke) \[Hard\]](https://osu.ppy.sh/beatmapsets/23547#osu/80552)
-  - [Hatsune Miku - Netoge Haijin Sprechchor (Lalarun) \[Insane\]](https://osu.ppy.sh/beatmapsets/25802#osu/87369)
-  - [Kuripurin - Jutenija (qinche) \[Jutenija\]](https://osu.ppy.sh/beatmapsets/25500#osu/86377)
-  - [capsule - JUMPER (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/21130#osu/73494)
-  - [kors k - Wuv U (Nakagawa-Kanon) \[dksslqj Style\]](https://osu.ppy.sh/beatmapsets/34556#osu/116739)
-  - [Hatsune Miku - Subarashii Sekai (val0108) \[S.S\]](https://osu.ppy.sh/beatmapsets/25825#osu/96351)
-  - [IOSYS - Poinsettia (Aakiha) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/18382#osu/65233)
-  - [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmapsets/17103#osu/61124)
-  - [Mutsuhiko Izumi - Russian Snowy Dance (Chocopikel) \[Insane\]](https://osu.ppy.sh/beatmapsets/38872#osu/124275)
+  1. [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/24325#osu/82734)
+  2. [REDALiCE - Selfish (happy30) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/28060#osu/105531)
+  3. [Suzaku - VANESSA (La Cataline) \[Another\]](https://osu.ppy.sh/beatmapsets/27862#osu/97663)
+  4. [Tatsh - Fuushi Kaden (happy30) \[Hard\]](https://osu.ppy.sh/beatmapsets/15486#osu/56044)
+  5. [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Crazy Jay\]](https://osu.ppy.sh/beatmapsets/24448#osu/91462)
+  6. [Sum 41 - Thanks For Nothing (Natteke) \[Hard\]](https://osu.ppy.sh/beatmapsets/23547#osu/80552)
+  7. [Hatsune Miku - Netoge Haijin Sprechchor (Lalarun) \[Insane\]](https://osu.ppy.sh/beatmapsets/25802#osu/87369)
+  8. [Kuripurin - Jutenija (qinche) \[Jutenija\]](https://osu.ppy.sh/beatmapsets/25500#osu/86377)
+  9. [capsule - JUMPER (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/21130#osu/73494)
+  10. [kors k - Wuv U (Nakagawa-Kanon) \[dksslqj Style\]](https://osu.ppy.sh/beatmapsets/34556#osu/116739)
+  11. [Hatsune Miku - Subarashii Sekai (val0108) \[S.S\]](https://osu.ppy.sh/beatmapsets/25825#osu/96351)
+  12. [IOSYS - Poinsettia (Aakiha) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/18382#osu/65233)
+  13. [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmapsets/17103#osu/61124)
+  14. [Mutsuhiko Izumi - Russian Snowy Dance (Chocopikel) \[Insane\]](https://osu.ppy.sh/beatmapsets/38872#osu/124275)
 - Tiebreaker
-  - **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)**
+  1. **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)**
 
-### Group Stage week 1
+### Group stage week 1
 
 - NoMod
-  - [Hatsune Miku - BadBye (goodbye) \[GoodBye\]](https://osu.ppy.sh/beatmapsets/30939#osu/101916)
-  - [DystopiaGround - True Theory of Inheritance (Ignacio) \[Insane\]](https://osu.ppy.sh/beatmapsets/24477#osu/83215)
-  - [Humanoid - MENDES (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/beatmapsets/21928#osu/75831)
-  - [Bomfunk MC's - Freestyler (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/35629#osu/115352)
-  - [Megurine Luka - Leia (Mafiamaster) \[gowww\]](https://osu.ppy.sh/beatmapsets/29064#osu/96587)
-  - [Niko - Night of Fire (Gabi) \[Insane\]](https://osu.ppy.sh/beatmapsets/18923#osu/66820)
-  - [Dj Verstarker - Jump Jump (2008) (SeymourLyon) \[Jump like CRAZY!!!\]](https://osu.ppy.sh/beatmapsets/6004#osu/28152)
-  - [Wiklund - The Digital Force (Metroid) \[Magnetic Force\]](https://osu.ppy.sh/beatmapsets/11153#osu/43691)
-  - [B0UNC3 - ALIVE (tieff) \[Hard\]](https://osu.ppy.sh/beatmapsets/17598#osu/62712)
-  - [Nudarai - Nuclear Fusion (Sandpig) \[U235\]](https://osu.ppy.sh/beatmapsets/25557#osu/87207)
-  - [Hana - Aerodynamics Girls and Boys Poem (Aenna) \[Pook\]](https://osu.ppy.sh/beatmapsets/23507#osu/80784)
-  - [TeddyLoid - Theme for Scanty & Knee Socks (ztrot) \[Larto's Insane\]](https://osu.ppy.sh/beatmapsets/24886#osu/111142)
-  - [Lia - Kokoro ni Todoku Uta (Holoaz) \[Holo\]](https://osu.ppy.sh/beatmapsets/26549#osu/89428)
-  - [nomico - Bad Apple!! (James) \[Hard\]](https://osu.ppy.sh/beatmapsets/6252#osu/28755)
+  1. [Hatsune Miku - BadBye (goodbye) \[GoodBye\]](https://osu.ppy.sh/beatmapsets/30939#osu/101916)
+  2. [DystopiaGround - True Theory of Inheritance (Ignacio) \[Insane\]](https://osu.ppy.sh/beatmapsets/24477#osu/83215)
+  3. [Humanoid - MENDES (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/beatmapsets/21928#osu/75831)
+  4. [Bomfunk MC's - Freestyler (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/35629#osu/115352)
+  5. [Megurine Luka - Leia (Mafiamaster) \[gowww\]](https://osu.ppy.sh/beatmapsets/29064#osu/96587)
+  6. [Niko - Night of Fire (Gabi) \[Insane\]](https://osu.ppy.sh/beatmapsets/18923#osu/66820)
+  7. [Dj Verstarker - Jump Jump (2008) (SeymourLyon) \[Jump like CRAZY!!!\]](https://osu.ppy.sh/beatmapsets/6004#osu/28152)
+  8. [Wiklund - The Digital Force (Metroid) \[Magnetic Force\]](https://osu.ppy.sh/beatmapsets/11153#osu/43691)
+  9. [B0UNC3 - ALIVE (tieff) \[Hard\]](https://osu.ppy.sh/beatmapsets/17598#osu/62712)
+  10. [Nudarai - Nuclear Fusion (Sandpig) \[U235\]](https://osu.ppy.sh/beatmapsets/25557#osu/87207)
+  11. [Hana - Aerodynamics Girls and Boys Poem (Aenna) \[Pook\]](https://osu.ppy.sh/beatmapsets/23507#osu/80784)
+  12. [TeddyLoid - Theme for Scanty & Knee Socks (ztrot) \[Larto's Insane\]](https://osu.ppy.sh/beatmapsets/24886#osu/111142)
+  13. [Lia - Kokoro ni Todoku Uta (Holoaz) \[Holo\]](https://osu.ppy.sh/beatmapsets/26549#osu/89428)
+  14. [nomico - Bad Apple!! (James) \[Hard\]](https://osu.ppy.sh/beatmapsets/6252#osu/28755)
 - Tiebreaker
-  - **[supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#osu/93021)**
+  1. **[supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#osu/93021)**
 
-## Match Results
+## Match results
 
 ### Finals
 
@@ -345,7 +345,7 @@ Friday, 13 January 2012:
 | --: | :-: | :-: | :-- | :-- |
 | ![][flag_BR] **Brazil** | **3** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/2385313) |
 
-### Group Stage (Week 3)
+### Group stage week 3
 
 Saturday, 10 December 2011:
 
@@ -373,7 +373,7 @@ Saturday, 17 December 2011:
 
 | Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| E | ![][flag_FI] Finland | 0 | **3** | ![][flag_MY] **Malaysia** | [#1](hhttps://osu.ppy.sh/community/matches/2203425) |
+| E | ![][flag_FI] Finland | 0 | **3** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/2203425) |
 
 Sunday, 18 December 2011:
 
@@ -383,7 +383,7 @@ Sunday, 18 December 2011:
 | H | ![][flag_AR] **Argentina** | **3** | 0 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/2206788) |
 | G | ![][flag_BR] **Brazil** | **3** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/2243425) |
 
-### Group Stage (Week 2)
+### Group stage week 2
 
 Saturday, 3 December 2011:
 
@@ -426,7 +426,7 @@ Saturday, 10 December 2011:
 | D | ![][flag_CA] **Canada** | **3** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/2159276) |
 | H | ![][flag_AT] Austria | 1 | **3** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/2161204) |
 
-### Group Stage (Week 1)
+### Group stage week 1
 
 Saturday, 19 November 2011:
 
@@ -479,7 +479,7 @@ Sunday, 27 November 2011:
 ### Tournament rules
 
 1. The osu! World Cup is a 4v4, country-based team tournament played on the osu! game mode.
-2. Beatmap scoring is based on **[ScoreV1](/wiki/Score#scorev1)**.
+2. Beatmap scoring is based on **[ScoreV1](/wiki/Gameplay/Score/ScoreV1)**.
 3. The beatmaps for each round will be announced by the tournament host on the discussion thread in advance before the actual matches take place. Only these beatmaps will be used during the respective matches. 
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie.
 4. The match schedule will be settled by the Tournament Management (see the [scheduling instructions](#scheduling-instructions)).
@@ -607,7 +607,7 @@ Time Zone: (...)
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"

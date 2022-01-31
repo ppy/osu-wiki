@@ -16,7 +16,7 @@ Nello schermo inferiore si vedono i cerchi, in quello superiore una storia relat
 
 ### Come si gioca?
 
-Dal momento che la maggior parte degli utenti PC non possiede un touch-screen è possibile giocare a osu! sia utilizzando il mouse sia tramite una lunga e fantasiosa lista di altri dispositivi. La lista degli stili di gioca è reperibile \[qui\][1](/wiki/Play_Styles).
+Dal momento che la maggior parte degli utenti PC non possiede un touch-screen è possibile giocare a osu! sia utilizzando il mouse sia tramite una lunga e fantasiosa lista di altri dispositivi. La lista degli stili di gioca è reperibile \[qui\][1](/wiki/Play_style).
 
 ### Le basi del gameplay
 

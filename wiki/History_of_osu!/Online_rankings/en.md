@@ -18,7 +18,7 @@ Numerous players have held rank #1 in each game mode under different ranking sys
 
 *Main page: [osu!](osu!)*
 
-As of June 3, 2021, on the [osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) the rank #1 player is ![][flag_AU] [rushia1](https://osu.ppy.sh/users/7562902/osu).
+As of July 19, 2021, on the [osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) the rank #1 player is ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
 ## ![][osu!taiko] osu!taiko
 
@@ -38,10 +38,11 @@ As of June 7, 2021, on the [osu!catch performance rankings](https://osu.ppy.sh/r
 
 As of June 3, 2021, on the [osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) the rank #1 player is ![][flag_KR] [Jakads](https://osu.ppy.sh/users/259972/mania).
 
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
+
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"

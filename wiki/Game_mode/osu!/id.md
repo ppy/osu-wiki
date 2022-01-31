@@ -1,8 +1,11 @@
-<!-- TODO: strange descriptions in many places and unhelpful order if you're trying to see what this game mode is all about. -->
+---
+outdated: true
+outdated_since: 2dccc07cb4759a455196482e5f00383834f9813b
+---
 
 # osu! (mode permainan)
 
-*Untuk kegunaan lain, lihat [osu! (disambiguasi)](/wiki/Disambiguasi/osu!).*
+*Untuk kegunaan lain, lihat [osu! (disambiguasi)](/wiki/Disambiguation/osu!).*
 
 ![Tampilan antarmuka permainan osu!](/wiki/shared/osu-gameplay.jpg "Tampilan antarmuka permainan osu!")
 
@@ -10,7 +13,7 @@ Mode permainan pertama yang namanya terinspirasi dan didasari dari seri Ouendan.
 
 ## Apa itu "Ouendan"?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* merupakan sebuah permainan pada konsol *Nintendo DS* yang mendasari dan menginspirasi awal terbentuknya osu!. Permainan tersebut pada intinya hanya didasari pada tiga aturan yang harus kamu ikuti di dalamnya: sentuh circle-circle yang muncul pada layar, ikuti slider-slider sesuai dengan alur yang tergambar, dan putar spinner yang ada secepat mungkin. Elemen-elemen yang ada di dalam permainan tersebut akan secara silih berganti muncul di dalam layar permainan sejalan dengan irama yang hadir dari lagu yang sedang dimainkan. Permainan tersebut tampak seperti ini pada layar *DS*:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* merupakan sebuah permainan pada konsol *Nintendo DS* yang mendasari dan menginspirasi awal terbentuknya osu!. Permainan tersebut pada intinya hanya didasari pada tiga aturan yang harus kamu ikuti di dalamnya: sentuh circle-circle yang muncul pada layar, ikuti slider-slider sesuai dengan alur yang tergambar, dan putar spinner yang ada secepat mungkin. Elemen-elemen yang ada di dalam permainan tersebut akan secara silih berganti muncul di dalam layar permainan sejalan dengan irama yang hadir dari lagu yang sedang dimainkan. Permainan tersebut tampak seperti ini pada layar *DS*:
 
 ![Contoh tampilan permainan Osu! Tatakae! Ouendan pada layar Nintendo DS](/wiki/shared/Ouendan.jpg "Contoh tampilan permainan Osu! Tatakae! Ouendan pada layar Nintendo DS")
 
@@ -80,7 +83,7 @@ Pada kotak kecil yang terdapat pada bagian bawah layar, kamu dapat melihat seber
 
 ## Play style
 
-*Mohon lihat laman [Gaya permainan](/wiki/Play_Styles) untuk informasi lebih lanjut seputar gaya-gaya permainan yang umum digunakan di osu!.*
+*Mohon lihat laman [Gaya permainan](/wiki/Play_style) untuk informasi lebih lanjut seputar gaya-gaya permainan yang umum digunakan di osu!.*
 
 ## Kontrol
 
@@ -96,7 +99,7 @@ Apabila kamu bermain menggunakan mod [Relax](/wiki/Game_modifier/Relax), kamu ha
 
 ## Penilaian
 
-*Mohon lihat laman [Penilaian skor pada mode osu!](/wiki/Score#osu) untuk informasi lebih lanjut seputar penilaian skor yang dipakai oleh osu!.*
+*Mohon lihat laman [Sistem skor pada mode osu!](/wiki/Gameplay/Score/osu!) untuk informasi lebih lanjut seputar penilaian skor yang dipakai oleh osu!.*
 
 Berikut ini adalah penjelasan mengenai penilaian skor yang digunakan dipakai oleh osu! untuk menentukan skor kamu.
 
@@ -150,7 +153,7 @@ Sedangkan pada bagian spinner, bonus tambahan senilai 1.000 poin akan diberikan 
 
 #### Perhitungan Difficulty multiplier
 
-[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup) dan [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup) masing-masing memiliki pengaruhnya tersendiri pada *difficulty point*.
+[Circle Size (CS)](/wiki/Client/Beatmap_editor/Song_Setup), [HP Drain (HP)](/wiki/Client/Beatmap_editor/Song_Setup) dan [Overall Difficulty (OD)](/wiki/Client/Beatmap_editor/Song_Setup) masing-masing memiliki pengaruhnya tersendiri pada *difficulty point*.
 
 *Difficulty point* yang terkumpul juga dapat mempengaruhi **Difficulty multiplier** dengan ketentuan sebagai berikut sebagai berikut:
 
@@ -265,11 +268,8 @@ Sistem yang digunakan untuk menghitung *health drain* dan *health gain* per obje
 
 ### Sejarah
 
-![Kombo Api](/wiki/shared/combo-fire.jpg "Combo Fire")
-
 - Pada versi lama, osu! menggunakan beberapa elemen dari seri *Ouendan* sebelum akhirnya mulai dihapus atau digantikan.
-  - Efek kombo api yang muncul ketika mencapai kombo baru.
-    - Dihapus pada 05 Maret 2013 dikarenakan terdapat masalah pada kinerja.
+  - Efek [kombo api](/wiki/Gameplay/Combo_fire) yang muncul ketika mencapai kombo baru.
   - Versi pertama pada skin default menggunakan perilaku skin v1 yang merupakan skin *osu! Default oleh peppy*, skin ini menyediakan antarmuka yang hampir identik dengan Ouendan.
     - Kemudian, skin tersebut digantikan dengan skin default yang lebih bagus yang menggunakan perilaku skin v2.
   - Perbedaan fitur yang paling mencolok antara perilaku skin v1 dan v2 adalah pada bagian spinner.

@@ -60,7 +60,7 @@ Another year, another wave of Beatmap Nominators! As with every issue, here's wh
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
-Head over to the [Beatmap Nominator website](https://bn.mappersguild.com "Beatmap Nominators") and apply today!
+Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and apply today!
 
 ## Mappers' Showcase
 
@@ -90,7 +90,7 @@ Of course, storyboarding isn't so limiting as to only allow rough lines sketches
 
 And that's about it for this time! Be sure to check out their future works—we certainly are looking forward to them!
 
-Think you've got what it takes to become the next great storyboarder? No? Well, either way, if you want to learn more about storyboarding, seek advice and feedback for your own creations, or just want to keep up with the latest in the making, then we highly recommend to stop by at the [osu! storyboarder banquet Discord server](https://discord.gg/B8NX7YW "Discord")! You may be surprised at what people are brewing up...
+Think you've got what it takes to become the next great storyboarder? No? Well, either way, if you want to learn more about storyboarding, seek advice and feedback for your own creations, or just want to keep up with the latest in the making, then we highly recommend to stop by at the [osu! storyboarder banquet Discord server](https://discord.gg/B8NX7YW)! You may be surprised at what people are brewing up...
 
 ## Mapping Contests
 
@@ -126,7 +126,7 @@ osu! is an all-ages game, but not all music is suitable for all ages. In an effo
 
 However, there is one important thing to mention. Having this feature enabled on your map does not mean that you are allowed to upload literally anything. Be sure that everything you upload to osu! abides by our [community rules](/wiki/Rules).
 
-If you are unsure about whether or not the content you want to include in your beatmap line up with the rules, feel free to submit a content case on the [Beatmap Nominator website](https://bn.mappersguild.com/discussionvote "Beatmap Nominators").
+If you are unsure about whether or not the content you want to include in your beatmap line up with the rules, feel free to submit a content case on the [Beatmap Nominator website](https://bn.mappersguild.com/discussionvote).
 
 <a id="conclusion"></a>
 
@@ -134,7 +134,7 @@ If you are unsure about whether or not the content you want to include in your b
 
 And with that, we conclude the first issue of the Mappers’ Report for 2021. This one might be a little bit shorter than normal, but them's the punches, yo.
 
-As always, should you have anything interesting mapping or modding related you would like to see being mentioned in the next issue, please do not hesitate to contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord")!
+As always, should you have anything interesting mapping or modding related you would like to see being mentioned in the next issue, please do not hesitate to contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H)!
 
 Hope to see you there soon, thank you for reading and stay safe and healthy!
 

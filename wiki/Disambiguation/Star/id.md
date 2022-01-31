@@ -10,7 +10,7 @@ stub: true
 
 **Star** dapat mempunyai beberapa arti:
 
-1. Tahapan dalam proses modding beatmap di mana seorang moderator menilai beatmap untuk berada di jalur yang benar tetapi perlu beberapa perbaikan sebelum dapat di-approve dengan bubble.
+1. Tahapan dalam proses [modding beatmap](/wiki/Modding/Forum_modding) di mana seorang moderator menilai beatmap untuk berada di jalur yang benar tetapi perlu beberapa perbaikan sebelum dapat di-approve dengan [bubble](/wiki/Modding/Bubble).
    - Contohnya termasuk penyesuaian timing, beat spacing yang tidak benar di beberapa area, atau membuat versi tingkat kesulitan tambahan.
    - Beatmap yang menerima star dilambangkan dengan grafik star di sebelah judul utasnya.
    - Star dapat dihapus oleh moderator lain jika beatmap dianggap membutuhkan lebih banyak perbaikan.

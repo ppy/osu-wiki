@@ -72,11 +72,11 @@ Multi-mode contests are planned to be hosted approximately 2 months anterior to 
 
 Interested in becoming a judge? Awesome! Whichever judging section you wish to take part in, all you have to do is to click on the link below.
 
-[**Please fill out this form in order to apply as a judge!**](https://forms.gle/he4sT7DeX5UVr4j27 "Google Forms")
+[**Please fill out this form in order to apply as a judge!**](https://forms.gle/he4sT7DeX5UVr4j27)
 
 ---
 
-With all the exciting news, it is time to wrap things up. We hope that the 2021 edition of osu! Beatmapping Championship, with its traditional and brand-new features, has piqued your interest. For forthcoming updates, [follow us on Twitter](https://twitter.com/osubwc "Twitter") and [join our Discord server](https://discord.gg/CZp4bNx "Discord")!
+With all the exciting news, it is time to wrap things up. We hope that the 2021 edition of osu! Beatmapping Championship, with its traditional and brand-new features, has piqued your interest. For forthcoming updates, [follow us on Twitter](https://twitter.com/osubwc) and [join our Discord server](https://discord.gg/CZp4bNx)!
 
 We are eagerly waiting for your applications and looking forward to meeting with you by early May 2021!
 

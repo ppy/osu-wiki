@@ -14,15 +14,15 @@ tags:
 
 ![Kartu pemain BanchoBot](img/BanchoBot.jpg "Kartu pemain BanchoBot")
 
-**BanchoBot** (atau biasa dikenal dengan *Bancho*) adalah sebuah bot yang dibuat untuk osu! membantu para pemain dalam obrolan dengan menampilkan informasi tertentu dan memberitahukan pesan terkait gim (cth. total bermain, jumlah pengulangan, dan lain-lain.), dan menanggapi beberapa perintah tertentu. BanchoBot diprogram oleh [Echo](https://osu.ppy.sh/users/431) dan merupakan penyedia dari [IRC Bancho](/wiki/Internet_Relay_Chat) (Internet Relay Chat).
+**BanchoBot** (atau biasa dikenal dengan *Bancho*) merupakan sebuah bot yang dirancang untuk berbagai keperluan yang terkait dengan sistem *in-game chat* yang dimiliki oleh osu!, mulai dari memberitahukan statistik-statistik tertentu kepada para pemain (semisal berapa lama seorang pemain telah bermain, berapa kali seorang pemain telah mengulang suatu beatmap, dan lain sebagainya) hingga menanggapi berbagai macam perintah. BanchoBot diprogram oleh [Echo](https://osu.ppy.sh/users/431) dan merupakan induk dari [sistem IRC Bancho](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) yang digunakan oleh osu!.
 
-BanchoBot juga memiliki [profil osu!](https://osu.ppy.sh/users/3) dan [akun Twitter](https://twitter.com/banchoboat).
+BanchoBot juga memiliki [akun osu!](https://osu.ppy.sh/users/3) dan [akun Twitter](https://twitter.com/banchoboat)-nya tersendiri.
 
 ## Perintah
 
-*Untuk melihat daftar perintah saat berada di dalam gim, kunjungi [Chat Console](/wiki/Chat_Console#daftar-perintah)*
+*Untuk melihat daftar perintah yang tersedia pada permainan, kunjungi [Chat Console](/wiki/Client/Interface/Chat_console#daftar-perintah)*
 
-BanchoBot dapat merespon perintah pemain melalui pesan yang diketik secara khusus dalam obrolan. Semua perintah BanchoBot dimulai dengan sebuah tanda seru (`!`) diikuti dengan nama perintah yang tidak dipengaruhi oleh penggunaan huruf besar/kecil (tanpa spasi didalamnya). Perintah ini dapat digunakan di dalam kanal obrolan dan obrolan privat dengan BanchoBot.
+BanchoBot dapat merespon perintah-perintah tertentu yang diketik oleh para pemain di dalam *chat*. Seluruh perintah Banchobot dimulai dengan tanda seru (!) dan diikuti oleh kode perintah yang dapat diinputkan baik dengan huruf besar maupun kecil (*case insensitive*). Perintah-perintah ini dapat digunakan baik di dalam *channel-channel* obrolan publik maupun di dalam *private message* dengan BanchoBot.
 
 Jika seorang pengguna biasa mencoba mengirim perintah dalam obrolan publik, pengguna lainnya tidak dapat melihatnya dan pemain yang mengirim perintah akan mendapatkan jawabannya melalui pesan pribadi dari BanchoBot. Pengguna juga dapat menggunakan perintah `/bb` untuk membuka tab BanchoBot secara otomatis dan mengirim perintah dengan segera.
 
@@ -80,7 +80,7 @@ Daftar perintah BanchoBot selengkapnya adalah sebagai berikut:
 !stats <nama pemain>
 ```
 
-`!stats` menampilkan data statistik dari seorang pemain. Hasil yang keluar tergantung dari [mode permainan](/wiki/Game_Modes) yang terakhir pemain tersebut mainkan, meskipun BanchoBot tidak akan menampilkan dari mana statistik mode permainan tersebut berasal. Jika kamu mencoba menanyakan tentang pemain yang tidak pernah bermain di osu!, BanchoBot akan menanggapi dengan `User not found`, meskipun pemain tersebut memang ada. Berikut contoh hasil dari perintah tersebut:
+`!stats` menampilkan data statistik dari seorang pemain. Hasil yang keluar tergantung dari [mode permainan](/wiki/Game_mode) yang terakhir pemain tersebut mainkan, meskipun BanchoBot tidak akan menampilkan dari mana statistik mode permainan tersebut berasal. Jika kamu mencoba menanyakan tentang pemain yang tidak pernah bermain di osu!, BanchoBot akan menanggapi dengan `User not found`, meskipun pemain tersebut memang ada. Berikut contoh hasil dari perintah tersebut:
 
 ```
 13:01 pippi: !stats peppy
@@ -123,7 +123,7 @@ Terdapat 7 status yang dapat ditampilkan oleh perintah `!stats`: Editing, Idle, 
 !faq list
 ```
 
-`!faq` menampilkan isi entri. Alternatifnya, argumen `list` juga dapat digunakan untuk melihat seluruh daftar entri yang tersedia. Secara umum, BanchoBot akan menanggapinya menggunakan bahasa Inggris, tapi kamu juga bisa meminta supaya BanchoBot menanggapinya menggunakan bahasa yang berbeda dengan mengawali entri dengan [kode bahasa](/wiki/Article_Styling_Criteria#locales). Berikut contoh hasil dari perintah tersebut:
+`!faq` menampilkan isi entri. Alternatifnya, argumen `list` juga dapat digunakan untuk melihat seluruh daftar entri yang tersedia. Secara umum, BanchoBot akan menanggapinya menggunakan bahasa Inggris, tapi kamu juga bisa meminta supaya BanchoBot menanggapinya menggunakan bahasa yang berbeda dengan mengawali entri dengan [kode bahasa](/wiki/Article_styling_criteria/Formatting#locales). Berikut contoh hasil dari perintah tersebut:
 
 ```
 13:03 pippi: !faq peppy
@@ -137,13 +137,13 @@ Terdapat 7 status yang dapat ditampilkan oleh perintah `!stats`: Editing, Idle, 
 
 ### Report
 
-*Untuk mengetahui informasi tentang apa yang layak untuk dilaporkan, silahkan kunjungi artikel [Melaporkan Perilaku Buruk](/wiki/Reporting_Bad_Behaviour).*
+*Untuk mengetahui informasi tentang apa yang layak untuk dilaporkan, silahkan kunjungi artikel [Melaporkan perilaku buruk](/wiki/Reporting_bad_behaviour).*
 
 ```
 !report <nama pemain> <alasan>
 ```
 
-Perintah `!report` berfungsi memberi tahu [Global Moderation Team](/wiki/Global_Moderation_Team) mengenai perilaku pemain yang tidak pantas. Jika nama pemain yang hendak dilaporkan mengandung karakter spasi, gantilah dengan garis bawah (cth. `really cool username` menjadi `really_cool_username`). Untuk melaporkan seorang moderator, silakan hubungi [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Berikut contoh hasil dari perintah tersebut:
+Perintah `!report` berfungsi untuk memberitahukan para anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) mengenai perilaku seorang pemain yang tidak pantas. Apabila nama pemain yang hendak dilaporkan mengandung karakter spasi, gantilah karakter spasi tersebut dengan karakter garis bawah (contoh `really cool username` menjadi `really_cool_username`). Apabila kamu ingin melaporkan seorang moderator, silakan hubungi [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Berikut merupakan contoh hasil dari perintah tersebut:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese
@@ -152,5 +152,5 @@ Perintah `!report` berfungsi memberi tahu [Global Moderation Team](/wiki/Global_
 
 ## Trivia
 
-- Di bawah tanggal bergabung pada laman profil BanchoBot, tertulis "Di sini sejak awal"
-  - Secara resmi, tanggal bergabung BanchoBot adalah 22:09:14 UTC-5, 27 Agustus 2007
+- Pada laman profil BanchoBot, BanchoBot tercatat sebagai salah satu pengguna yang telah bergabung dengan osu! sejak awal ("*Here since the beginning*")
+- Secara resmi, tanggal bergabung BanchoBot adalah tanggal 27 Agustus 2007 pukul 22:09:14 UTC-5

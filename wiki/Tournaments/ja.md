@@ -432,6 +432,7 @@ osu! World Cupは、国別に行われる4対4のチーム対抗トーナメン�
 | 4 Digit osu!mania World Cup | 2019-06-03 | 2019-07-27 | ![][flag_US] アメリカ合衆国 | ![][flag_AR] アルゼンチン | ![][flag_PH] フィリピン |
 | [4 Digit osu!mania World Cup 2](4DM/2) | 2020-02-15 | 2020-03-28 | ![][flag_US] アメリカ合衆国 | ![][flag_AR] アルゼンチン | ![][flag_PH] フィリピン |
 | [4 Digit osu!mania World Cup 3](4DM/3) | 2021-01-23 | 2021-03-07 | ![][flag_PH] フィリピン | ![][flag_MY] マレーシア | ![][flag_BR] ブラジル |
+| [4 Digit osu!mania World Cup 4](4DM/4) | 2022-01-08 | 2022-02-20 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania 4K Chinese National Cup
 
@@ -515,12 +516,13 @@ osu! World Cupは、国別に行われる4対4のチーム対抗トーナメン�
 [GCrown]: /wiki/shared/crown-gold.png "1位"
 [SCrown]: /wiki/shared/crown-silver.png "2位"
 [BCrown]: /wiki/shared/crown-bronze.png "3位"
+
 [flag_AR]: /wiki/shared/flag/AR.gif "アルゼンチン"
 [flag_AU]: /wiki/shared/flag/AU.gif "オーストラリア"
 [flag_BR]: /wiki/shared/flag/BR.gif "ブラジル"
 [flag_CA]: /wiki/shared/flag/CA.gif "カナダ"
 [flag_CL]: /wiki/shared/flag/CL.gif "チリ"
-[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_CN]: /wiki/shared/flag/CN.gif "中華人民共和国"
 [flag_DE]: /wiki/shared/flag/DE.gif "ドイツ"
 [flag_DK]: /wiki/shared/flag/DK.gif "デンマーク"
 [flag_ES]: /wiki/shared/flag/ES.gif "スペイン"

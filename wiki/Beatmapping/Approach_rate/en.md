@@ -9,7 +9,7 @@ tags:
 
 *For suggested AR values, see: [Ranking criteria](/wiki/Ranking_Criteria)*
 
-**Approach rate** (***AR***) is a [beatmap](/wiki/Beatmap) difficulty setting that defines when [hit objects](/wiki/Hit_Objects) start to fade in relative to when they should be hit or collected. It exists only in [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch).
+**Approach rate** (***AR***) is a [beatmap](/wiki/Beatmap) difficulty setting that defines when [hit objects](/wiki/Hit_object) start to fade in relative to when they should be hit or collected. It exists only in [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch).
 
 AR values range from 0 to 10. Higher approach rates mean that hit objects will be shown for a shorter period of time, giving less time for a player to react. On the other hand, lower approach rates allow more reaction time, but can result in an overwhelming amount of hit objects appearing on the screen at once.
 

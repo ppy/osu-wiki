@@ -12,7 +12,7 @@ tags:
 ![CM mod icon](/wiki/shared/mods/CM.png "Cinema (CM) mod icon")
 
 *For the full list of all mods, see: [Game modifier](/wiki/Game_modifier)*\
-*Not to be confused with [Cinematography](https://en.wikipedia.org/wiki/Cinematography "Wikipedia").*
+*Not to be confused with [Cinematography](https://en.wikipedia.org/wiki/Cinematography).*
 
 ## About
 

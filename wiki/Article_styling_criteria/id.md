@@ -6,17 +6,17 @@ tags:
 
 # Kriteria gaya artikel
 
-*Untuk postingan berita, kunjungi: [Kriteria Gaya Berita](/wiki/News_Styling_Criteria)*
+*Untuk postingan berita, kunjungi: [Kriteria Gaya Berita](/wiki/News_styling_criteria)*
 
 Kriteria gaya artikel atau *Article styling criteria* (ASC) berfungsi sebagai gaya standar osu! wiki yang diberlakukan untuk menjaga konsistensi dalam kejelasan, pemformatan, dan tata letak pada semua artikel.
 
 Semua artikel harus bertujuan memiliki tata bahasa yang tepat, ejaan yang benar, dan informasi yang akurat.
 
-Untuk menyarankan perubahan terkait kriteria gaya artikel, [buat sebuah open issue di GitHub](https://github.com/ppy/osu-wiki/issues/new "GitHub").
+Untuk menyarankan perubahan terkait kriteria gaya artikel, [buat sebuah open issue di GitHub](https://github.com/ppy/osu-wiki/issues/new).
 
 ## Standar
 
-*Perhatian: Artikel di bawah ini menggunakan format [RFC 2119](https://tools.ietf.org/html/rfc2119 "IETF Tools") untuk menggambarkan tingkat persyaratan.*
+*Perhatian: Artikel di bawah ini menggunakan format [RFC 2119](https://tools.ietf.org/html/rfc2119) untuk menggambarkan tingkat persyaratan.*
 
 Kriteria gaya artikel dibagi menjadi dua artikel:
 

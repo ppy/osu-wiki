@@ -1,6 +1,11 @@
+---
+outdated: true
+outdated_since: d2a93c7e0e135bbf0a1944230cab0a334b2ef58f
+---
+
 # Beatmap Aday Göstericiler için Kurallar
 
-Burada listelenen kurallar [Beatmap Aday Göstericilerin](/wiki/People/Beatmap_Nominators) beatmapleri aday gösterirken neler yapıp neler yapamayacağını etkiler, aynı zamanda onlardan beklenen genel davranış şeklini belirler. Bu kurallar [Aday Gösterme Denetleme Takımı](/wiki/People/Nomination_Assessment_Team) içerisindeki müzakerelerin bir sonucudur ve Beatmap Aday Göstericilerin geri bildirimleri de göz önüne alınarak oluşturulmuştur.
+Burada listelenen kurallar [Beatmap Aday Göstericilerin](/wiki/People/The_Team/Beatmap_Nominators) beatmapleri aday gösterirken neler yapıp neler yapamayacağını etkiler, aynı zamanda onlardan beklenen genel davranış şeklini belirler. Bu kurallar [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) içerisindeki müzakerelerin bir sonucudur ve Beatmap Aday Göstericilerin geri bildirimleri de göz önüne alınarak oluşturulmuştur.
 
 Beatmap Aday Göstericiler beatmapleri resmi listelere eklenmek üzere aday göstererek yeni içeriklerin oluşturulmasını destekleyerek osu!'nun dünyasını şekillendirme yetkisine sahiptirler, bu nedenle her zaman kurallara uymalıdırlar. Bu kurallardan herhangi birinin ihlali ilgili Beatmap Aday Göstericinin Beatmap Aday Göstericilerden kaldırılmasına neden olabilir. Bu kuralların ihlali Aday Gösterme Denetleme Takımının bir üyesine doğrudan bildirilebilir.
 
@@ -13,7 +18,7 @@ Bu beklentilerle ters düşen tekrarlı davranışlar Aday Gösterme Denetleme T
 ## Davranış
 
 - **Tamamlanmamış kuralları veya kural tasarılarını dikkate almayın.**
-- **[osu! Topluluk Kurallarına](/wiki/Rules) ve [Modlama ve Mapleme Etik Davranış Kurallarına](/wiki/Ranking_Criteria/Code_of_Conduct) her daim uyun.** Bir Beatmap Aday Gösterici olarak, sergilediğiniz davranış topluluğun diğer üyelerine olumlu bir örnek oluşturmalıdır. Etik Davranış Kurallarının ihlali sizin geçici olarak deneme sürecine yerleştirilmenize, veya olağanüstü durumlarda, Beatmap Aday Göstericilerden kaldırılmanıza sebep olabilir.
+- **[osu! Topluluk Kurallarına](/wiki/Rules) ve [Modlama ve Mapleme Etik Davranış Kurallarına](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) her daim uyun.** Bir Beatmap Aday Gösterici olarak, sergilediğiniz davranış topluluğun diğer üyelerine olumlu bir örnek oluşturmalıdır. Etik Davranış Kurallarının ihlali sizin geçici olarak deneme sürecine yerleştirilmenize, veya olağanüstü durumlarda, Beatmap Aday Göstericilerden kaldırılmanıza sebep olabilir.
 - **Ücretli modlama, derecelendirme VEYA beatmap oluşturma komisyonlarında yer almayın ya da bunlara katılmayın.** Derecelendirme sürecinde "resmi" osu! ekip üyelerinin (BN, NAT veya diğerleri) meşrutiyeti ya da arzuları söz konusu olmamalıdır.
 
 ## Aktivite

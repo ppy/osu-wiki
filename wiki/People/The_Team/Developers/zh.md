@@ -10,6 +10,8 @@ tags:
   - osu! 开发者
   - osu! 开发团队
   - 开发者
+outdated: true
+outdated_since: b5ffad1bde58fd33ff05bc06bb2843bc8707275e
 ---
 
 # 开发团队

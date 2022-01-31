@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 3301b00d5740b959a91ed18f5dc55a4660a218bb
 tags:
  - mod
  - game modifier
@@ -16,7 +18,7 @@ tags:
 
 Oyuncular, `Mod Seçim Ekranı`'na, şarkı seçme ekranının sol köşesinde yer alan `Mods` butonuna basarak, ya da klavyelerindeki `F1` tuşuna basarak ulaşabilirler. Ayrıca, `Mod Seçim Ekranı`'nda belirli modları seçmenize olanak sağlayan klavye kısayolları da bulunur. Bu kısayollar Seçenekler içerisinden değiştirilebilir.
 
-Seçim ekranında modlar üç farklı kategoriye ayrılmıştır: `Zorluk Azaltma`, `Zorluk Arttırma`, ve `Özel`. Aynı zamanda, bunlar [`Skor Çarpanı`](/wiki/Score_multiplier)'nı arttırabilir, azaltabilir, veya sıfırlayabilir. Birden fazla mod aynı anda seçildiğinde, modların çarpanları birbiriyle çarpılacaktır (örn., `1.06x * 1.12x = 1.1872x`).
+Seçim ekranında modlar üç farklı kategoriye ayrılmıştır: `Zorluk Azaltma`, `Zorluk Arttırma`, ve `Özel`. Aynı zamanda, bunlar [`Skor Çarpanı`](/wiki/Game_modifier/Score_multiplier)'nı arttırabilir, azaltabilir, veya sıfırlayabilir. Birden fazla mod aynı anda seçildiğinde, modların çarpanları birbiriyle çarpılacaktır (örn., `1.06x * 1.12x = 1.1872x`).
 
 ## Modların listesi
 
@@ -59,7 +61,7 @@ Aşağıda belirtilen her modun yanında uyumlu olduğu oyun modlarının ikonu 
 
 *Not: Bu modlar eskiden kullanılabiliyordu, fakat artık mevcut değil.*
 
-- [10K](/wiki/Game_modifier/10k) ![][osu!mania]
+- [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 

@@ -11,7 +11,7 @@ El primer modo de juego y homónimo que se basó en la serie ouendan.
 
 ## ¿Qué es "Ouendan"?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* es un juego de ritmo para la *Nintendo DS*. La jugabilidad consta de solo tres elementos: tocar círculos en la pantalla táctil, arrastrar una bola por un camino fijo y girar una ruleta muy rápido. Todos estos elementos están sincronizados con (covers de) populares canciones japonesas. Se ve así en el *DS*:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* es un juego de ritmo para la *Nintendo DS*. La jugabilidad consta de solo tres elementos: tocar círculos en la pantalla táctil, arrastrar una bola por un camino fijo y girar una ruleta muy rápido. Todos estos elementos están sincronizados con (covers de) populares canciones japonesas. Se ve así en el *DS*:
 
 ![Gameplay de ejemplo de Osu! Tatakae! Ouendan en la Nintendo DS](/wiki/shared/Ouendan.jpg "Ejemplo de partida de Osu! Tatakae! Ouendan en Nintendo DS")
 
@@ -83,7 +83,7 @@ En la *DS*, esta es una buena manera de rayar la pantalla táctil (o protector d
 
 ## Estilos de juego
 
-*[Consulte la página de estilos de juego bajo el nombre de osu!](/wiki/Play_Styles).*
+*[Consulte la página de estilos de juego bajo el nombre de osu!](/wiki/Play_style).*
 
 ## Controles
 
@@ -101,7 +101,7 @@ Si se usó el modificador de juego [Auto Pilot](/wiki/Game_modifier/Autopilot), 
 
 ## Puntuación
 
-*[¡Los valores de puntuación se pueden encontrar en Score bajo el nombre de Sección de valores de puntuación de osu!](/wiki/Score#osu).*
+*[¡Los valores de puntuación se pueden encontrar en Score bajo el nombre de Sección de valores de puntuación de osu!](/wiki/Gameplay/Score/osu!).*
 
 La sección de puntuación detalla todas las complejidades de la puntuación, incluida la fórmula matemática.
 
@@ -157,7 +157,7 @@ Bonificación adicional de 1,000 puntos dados por cada giro de una ruleta despu�
 
 #### Cómo calcular el multiplicador de dificultad
 
-[Tamaño de circulos (CS)](/wiki/Beatmap_Editor/Song_Setup), [Drenaje de vida (HP)](/wiki/Beatmap_Editor/Song_Setup) and [Dificultad general (OD)](/wiki/Beatmap_Editor/Song_Setup) cada uno da un punto en los *puntos de dificultad*.
+[Tamaño de circulos (CS)](/wiki/Client/Beatmap_editor/Song_Setup), [Drenaje de vida (HP)](/wiki/Client/Beatmap_editor/Song_Setup) and [Dificultad general (OD)](/wiki/Client/Beatmap_editor/Song_Setup) cada uno da un punto en los *puntos de dificultad*.
 
 Los *puntos de dificultad* acumulados afectan el **multiplicador de dificultad** como tal:
 
@@ -267,20 +267,17 @@ El sistema utilizado para calcular el drenaje de la salud y la ganancia de salud
 - Al cambiar la dirección de giro en el medio de una rotación, la ruleta disminuirá la velocidad (los giros por minuto bajarán a 0 para restablecer la orientación de giro) y luego girará en la dirección correcta. El progreso del giro no se perderá durante la reorientación (no aumentará en cambio), y continuará aumentando en el giro inverso.
 - No girar alrededor del centro de la ruleta **no** se considerará un giro válido.
 - El humo dura más que el rastro del cursor predeterminado en el juego. Aplica esparcidamente los efectos del humo para evitar que los efectos de humo mas viejos desaparezcan demasiado rápido.
-- La mascota de osu! es [pippi](/wiki/Mascots#-pippi).
+- La mascota de osu! es [pippi](/wiki/Mascots#pippi).
 - Cuando se juega con [Auto](/wiki/Game_modifier/Auto), el nombre del jugador será osu!.
 
 ### Historia
 
-![Combo de fuego](/wiki/shared/combo-fire.jpg "Combo de fuego")
-
-- ¡La versión anterior de osu! solia emular algunos de los elementos de la serie *ouendan* antes de ser eliminados o remplazados.
-  - El combo de fuego aparecía cuando alcanzabas los nuevos hitos del combo.
-    - Eliminado el 05 de marzo de 2013 (2013-03-05), debido a problemas de rendimiento.
-- La primera versión del skin por defecto que usa el comportamiento de skin v1, fue la skin *osu! Default por peppy*, proporcionaba una copia casi idéntica de la interfaz *ouendan*.
+- ¡La versión anterior de osu! solia emular algunos de los elementos de la serie *Ouendan* antes de ser eliminados o remplazados.
+  - El [combo de fuego](/wiki/Gameplay/Combo_fire) aparecía cuando alcanzabas los nuevos hitos del combo.
+- La primera versión del skin por defecto que usa el comportamiento de skin v1, fue la skin *osu! Default por peppy*, proporcionaba una copia casi idéntica de la interfaz *Ouendan*.
   - Fue reemplazado por un aspecto predeterminado más actual que usa el comportamiento de la skin v2.
   - La diferencia de característica más notable entre el comportamiento de la skin v1 y v2 es la ruleta.
-    - El comportamiento de la skin v1 para una ruleta incrementaría el medidor de la ruleta de abajo hacia arriba en niveles hasta que esté lleno según la serie *ouendan*.
+    - El comportamiento de la skin v1 para una ruleta incrementaría el medidor de la ruleta de abajo hacia arriba en niveles hasta que esté lleno según la serie *Ouendan*.
       - El temporizador es un círculo dentro de la ruleta que convergerje al núcleo central de la ruleta. La ruleta termina cuando el círculo del temporizador alcanza el centro del núcleo de la ruleta.
     - El comportamiento de la skin v2 para una ruleta expandiría lentamente el círculo giratorio a su tamaño completo y se iluminaría cuando se completara.
       - El temporizador es el círculo exterior de la ruleta que cambia de color. La ruleta termina cuando el color del círculo del temporizador cambia por completo.

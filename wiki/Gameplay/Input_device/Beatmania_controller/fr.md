@@ -6,7 +6,7 @@ stub: true
 
 ![](img/beatmania-controller.jpg "Contrôleur Beatmania à 7 boutons")
 
-Un **contrôleur Beatmania** est un type de contrôleur de jeu compatible avec la série de jeux *[Beatmania](https://fr.wikipedia.org/wiki/Beatmania "Wikipédia")*.
+Un **contrôleur Beatmania** est un type de contrôleur de jeu compatible avec la série de jeux *[Beatmania](https://fr.wikipedia.org/wiki/Beatmania)*.
 
 En raison de leur nature, les contrôleurs Beatmania sont le plus souvent utilisées comme dispositifs d'entrée dans le mode [osu!mania](/wiki/Game_mode/osu!mania).
 

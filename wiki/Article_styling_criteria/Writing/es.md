@@ -7,7 +7,7 @@ no_native_review: true
 
 *Para los estándares de formato, ver: [Criterios para el estilo del artículo/formato](../Formatting)*
 
-*Aviso: Este artículo utiliza [RFC 2119](https://tools.ietf.org/html/rfc2119 "IETF Tools") para describir los niveles de exigencia.*
+*Aviso: Este artículo utiliza [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.*
 
 Todos los artículos en inglés deben usar un inglés sencillo.
 
@@ -17,7 +17,7 @@ Hay dos registros de lenguaje en la wiki: neutral e informal.
 
 El registro neutral es el predeterminado en el wiki.
 
-El registro informal es especial y se da a un pequeño puñado de artículos. Algunos ejemplos con este registro incluyen [FAQ](/wiki/FAQ) y [Centro de Ayuda](/wiki/Help_Centre).
+El registro informal es especial y se da a un pequeño puñado de artículos. Algunos ejemplos con este registro incluyen [FAQ](/wiki/FAQ) y [Centro de Ayuda](/wiki/Help_centre).
 
 Para ambos registros, se deben seguir todas las reglas de esta parte del criterio para el estilo de los artículos. Las excepciones para cualquiera de los dos registros serán anotadas.
 
@@ -37,7 +37,7 @@ Las variantes de ortografía del inglés británico deben ser utilizadas cuando 
 Los nombres de los artículos, cuando se escriben en un párrafo, no deben escribirse en mayúsculas, a menos que se trate de un vínculo que apunte al artículo o sea un sustantivo propio (por ejemplo, BanchoBot). El siguiente es un ejemplo:
 
 ```markdown
-Si quieres saber más sobre el chat, consulta [Consola de chat](/wiki/Chat_Console).
+Si quieres saber más sobre el chat, consulta [Consola de chat](/wiki/Client/Interface/Chat_console).
 ```
 
 ### Modificadores del juego
@@ -129,7 +129,7 @@ Las marcas comerciales no deben ir seguidas de la marca comercial o de los símb
 
 ### Formato de la fecha
 
-Los formatos que se encuentran en [Wikipedia:Manual de Estilo/Fechas y números & Formatos](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats "Wikipedia") son todos formatos de fecha aceptados. El formato de la fecha debe ser consistente en todo el artículo.
+Los formatos que se encuentran en [Wikipedia:Manual de Estilo/Fechas y números & Formatos](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats) son todos formatos de fecha aceptados. El formato de la fecha debe ser consistente en todo el artículo.
 
 El formato de fecha "AAAA-MM-DD" sólo debe ser usado en tablas.
 
@@ -212,7 +212,7 @@ Los títulos de usuario que incluyan `osu!` como parte del nombre del título de
 - `osu! Alumni`
 - `osu! Champion`
 
-Para todos los demás términos, osu! debe ser tratado como un [sustantivo calificativo](https://en.wikipedia.org/wiki/Noun_adjunct "Wikipedia"). Esto significa añadir un espacio entre osu! y el sustantivo que modifica. Los ejemplos incluyen:
+Para todos los demás términos, osu! debe ser tratado como un [sustantivo calificativo](https://en.wikipedia.org/wiki/Noun_adjunct). Esto significa añadir un espacio entre osu! y el sustantivo que modifica. Los ejemplos incluyen:
 
 - `osu! tournaments`
 - `osu! community`
@@ -301,27 +301,27 @@ Preferir: Los Beatmap Nominators pueden nominar tu beatmap.
 
 ---
 
-[Artículos con registros informales](#lenguage-register) pueden ignorar esta sección; sin embargo, `Yo` en los párrafos debe ser evitado.
+[Artículos con registros informales](#registro-del-lenguaje) pueden ignorar esta sección; sin embargo, `Yo` en los párrafos debe ser evitado.
 
 ## Gramática y sintaxis
 
-Los artículos deben preferir el uso de una [gramática y sintaxis más simple](https://www.thepunctuationguide.com/british-versus-american-style.html "The Punctuation Guide").
+Los artículos deben preferir el uso de una [gramática y sintaxis más simple](https://www.thepunctuationguide.com/british-versus-american-style.html).
 
 ### Contracciones
 
 No se deben usar contracciones.
 
-[Los artículos con registros informales](#lenguage-register) pueden usar contracciones; sin embargo, el uso debe mantenerse consistente a lo largo de todo el artículo.
+[Los artículos con registros informales](#registro-del-lenguaje) pueden usar contracciones; sin embargo, el uso debe mantenerse consistente a lo largo de todo el artículo.
 
 ### Números
 
 *Para el formato de los números, ver [Manual de Estilo de Wikipedia sobre el formato de los números](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Numbers)*
 
-[Los artículos con registros informales](#lenguage-register) pueden ignorar esta sección; sin embargo, el uso debe mantenerse consistente a lo largo de todo el artículo.
+[Los artículos con registros informales](#registro-del-lenguaje) pueden ignorar esta sección; sin embargo, el uso debe mantenerse consistente a lo largo de todo el artículo.
 
 ### Punto y coma
 
-[Artículos con registros informales](#language-register) deben evitar el uso de punto y coma (`;`).
+[Artículos con registros informales](#registro-del-lenguaje) deben evitar el uso de punto y coma (`;`).
 
 ### Coma en serie
 
@@ -329,7 +329,7 @@ Se debe usar la coma en serie, también conocida como la coma de Oxford o Harvar
 
 ### Citas lógicas
 
-Consulte [el Manual de Estilo de Wikipedia para citas lógicas](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside "Wikipedia").
+Consulte [el Manual de Estilo de Wikipedia para citas lógicas](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside).
 
 Del Manual de Estilo de Wikipedia:
 
@@ -337,4 +337,4 @@ Del Manual de Estilo de Wikipedia:
 
 ## Pronunciación
 
-La pronunciación escrita debe utilizar el [Alfabeto Fonético Internacional](https://en.wikipedia.org/wiki/Help:IPA/English "Wikipedia").
+La pronunciación escrita debe utilizar el [Alfabeto Fonético Internacional](https://en.wikipedia.org/wiki/Help:IPA/English).

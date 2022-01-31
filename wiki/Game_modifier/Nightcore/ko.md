@@ -14,7 +14,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 ![NC 모드 아이콘](/wiki/shared/mods/NC.png "나이트코어 (NC) 모드 아이콘")
 
 *모든 모드의 목록을 확인하려면 [여기](/wiki/Game_modifier)를 눌러주세요.*\
-*[나이트코어 (장르)](https://en.wikipedia.org/wiki/Nightcore "위키피디아")와 혼동하지 말아주세요.*\
+*[나이트코어 (장르)](https://en.wikipedia.org/wiki/Nightcore)와 혼동하지 말아주세요.*\
 *비슷한 모드: [더블 타임 (모드)](/wiki/Game_modifier/Double_Time)*
 
 ## 나이트코어 모드

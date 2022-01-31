@@ -10,7 +10,7 @@ pp bertujuan untuk mengubah pusat perhatian perkembangan kemampuan (*skill*) pem
 
 Awal implementasi dari skor tersebut pertama diperlihatkan kepada publik pada April 2012 dan hanya dikenal sebagai proyek misterius *'???'*. Sistem misterius ini kemudian mendapatkan istilah resminya pada akhir bulan itu.
 
-Sistem baru ini, yang kemudian dikenal sebagai "pp" (singkatan untuk "performance points"), diharapkan dapat mengubah patokan performa pemain sebelumnya yang sebenarnya hanya berasal dari total [skor](/wiki/Score) menjadi sesuatu yang benar-benar mencerminkan *skill*. Sistem baru ini disambut dengan baik oleh para pemain pada saat itu.
+Sistem baru ini, yang kemudian dikenal sebagai "pp" (singkatan untuk "performance points"), diharapkan dapat mengubah patokan performa pemain sebelumnya yang sebenarnya hanya berasal dari total [skor](/wiki/Gameplay/Score) menjadi sesuatu yang benar-benar mencerminkan *skill*. Sistem baru ini disambut dengan baik oleh para pemain pada saat itu.
 
 Beberapa bulan setelah pengungkapannya, osu! 20120722-24 secara resmi mengimplementasikan sistem tersebut untuk sepenuhnya mengganti sistem skoring [Ranked](/wiki/Beatmap/Category#ranked), dengan skor baru diperhitungkan setiap 30 menit. Pada Agustus di tahun yang sama, sistem ini ditingkatkan untuk meng-*update* secara *real-time*.
 
@@ -24,7 +24,7 @@ Pada 16 Januari 2021, perubahan dilakukan pada sistem ppv2 yang bertujuan member
 - Mengenalkan faktor pengali untuk pengurangan pp yang terpengaruhi oleh mod [No Fail](/wiki/Game_modifier/No_Fail) berdasarkan jumlah miss pada sebuah permainan
 - Mengenalkan faktor pengali untuk pengurangan pp yang terpengaruhi oleh mod [Spun Out](/wiki/Game_modifier/Spun_Out) berdasarkan jumlah spinner pada beatmap tersebut
 - Menyesuaikan nilai dari kerugian pp oleh miss untuk berdampak lebih kecil pada map lebih lama dengan kombo yang lebih tinggi
-- Mengurangi perolehan pp untuk [akurasi](/wiki/Accuracy) yang lebih rendah
+- Mengurangi perolehan pp untuk [akurasi](/wiki/Gameplay/Accuracy) yang lebih rendah
 
 ppv2 pada saat ini bersifat aktif dengan pembaruan yang dirilis di [changelognya](https://osu.ppy.sh/p/changelog?category=pp).
 
@@ -32,7 +32,7 @@ ppv2 pada saat ini bersifat aktif dengan pembaruan yang dirilis di [changelognya
 
 Performance point memiliki tumpuan besar pada kalkulasi tingkat kesulitan suatu beatmap, di mana kalkulasi tersebut ditentukan oleh algoritma yang dibuat unik untuk masing-masing [game mode](/wiki/Game_mode).
 
-Tingkat kesulitan dari beatmap yang dimainkan menentukan jumlah akhir pp dari skor mereka. Secara matematis, rumus penghitungan pp memiliki empat nilai inti: **[aim](#aim)**, **[speed](#speed)**, **[akurasi](#accuracy)**, dan **[strain](#strain)**. Semuanya kemudian digabungkan dalam ukuran yang berbeda-beda untuk menghasilkan skor keseluruhan yang terkait dengan tingkat [kesulitan](/wiki/Beatmap/Difficulty) dan performa pemain dalam beatmap tersebut.
+Tingkat kesulitan dari beatmap yang dimainkan menentukan jumlah akhir pp dari skor mereka. Secara matematis, rumus penghitungan pp memiliki empat nilai inti: **[aim](#aim)**, **[speed](#speed)**, **[akurasi](#akurasi)**, dan **[strain](#strain)**. Semuanya kemudian digabungkan dalam ukuran yang berbeda-beda untuk menghasilkan skor keseluruhan yang terkait dengan tingkat [kesulitan](/wiki/Beatmap/Difficulty) dan performa pemain dalam beatmap tersebut.
 
 Setelah itu, skor "dibobotkan" satu sama lain untuk memastikan bahwa hanya skor-skor terbaik yang didapatkan pemain yang paling berpengaruh terhadap  ranking performance point mereka secara keseluruhan. Diketahui sebagai [*sistem pembobotan*](#sistem-pembobotan), sistem ini bertujuan untuk mencegah perolehan skor dengan pp kecil secara cepat dan berulang pada beatmap yang mudah dengan mengurangi jumlah pp yang sebenarnya diperoleh berdasarkan skor terbaik lainnya yang dimiliki pemain tersebut.
 
@@ -64,7 +64,7 @@ Hasilnya, mod seperti [Double Time](/wiki/Game_modifier/Double_Time) dan [Half T
 
 ### Akurasi
 
-*Lihat juga: [Akurasi](/wiki/Accuracy)*
+*Lihat juga: [Akurasi](/wiki/Gameplay/Accuracy)*
 
 *Akurasi* adalah sebuah pengukuran persen dari kemampuan pemain untuk mengenai [hit objek](/wiki/Hit_object) pada waktunya; Berhubungan dengan algoritma pp, itu juga adalah sebuah nilai inti yang digunakan untuk mengevaluasi kinerja individu pemain pada sebuah beatmap.
 
@@ -74,7 +74,7 @@ Skor dengan jumlah akurasi yang tinggi itu dipertimbangkan oleh algoritma terseb
 
 *Strain* adalah nilai inti yang mempertimbangkan berapa kali, dan untuk berapa lama, seorang pemain dikenakan bagian dengan intensitas tinggi dalam beatmap tertentu.
 
-Bagian dengan kecepatan sangat tinggi atau [pola](/wiki/Beatmap/Pattern) yang sangat sulit dalam suatu beatmap akan secara signifkan meningkatkan nilai strainnya. Sebagai contoh, beatmap dengan banyak [stream](/wiki/Beatmap/id/Pattern/Stream) atau bagian jump yang cepat akan mempunyai nilai strain yang tinggi, dan akibatnya meningkatkan jumlah pp yang diperoleh pada beatmap itu.
+Bagian dengan kecepatan sangat tinggi atau [pola](/wiki/Beatmap/Pattern) yang sangat sulit dalam suatu beatmap akan secara signifkan meningkatkan nilai strainnya. Sebagai contoh, beatmap dengan banyak [stream](/wiki/Beatmap/Pattern/Stream) atau bagian jump yang cepat akan mempunyai nilai strain yang tinggi, dan akibatnya meningkatkan jumlah pp yang diperoleh pada beatmap itu.
 
 <!-- consult reg contributors before moving FAQ to a new location-->
 
@@ -97,7 +97,7 @@ Pertimbangkan tip-tip berikut ini:
 - Bermainlah secara efisien dan cari tahu cara bermain yang cocok bagimu.
 - Fokus dalam mendapatkan beberapa skor yang mengagumkan daripada "farming" ratusan skor yang biasa saja.
 - Berusahalah untuk meningkatkan akurasimu. Bahkan 1% saja sudah membuat perbedaan yang sangat besar.
-- Berusahalah untuk mencapai kombo yang lebih banyak. Full Combo (FC) atau skor [SS](/wiki/Grade) dapat memberikan jumlah skor yang sangat banyak.
+- Berusahalah untuk mencapai kombo yang lebih banyak. Full Combo (FC) atau skor [SS](/wiki/Gameplay/Grade) dapat memberikan jumlah skor yang sangat banyak.
 
 ### Kenapa saya tidak mendapatkan seluruh jumlah pp dari map yang saya telah mainkan? 
 

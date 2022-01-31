@@ -6,7 +6,7 @@ Ce système a été mis en place en réponse au changement de fonction de la [Qu
 
 ## Permissions
 
-- Les BN Tier 1 pouvaient placer la première nomination d'une map (ou la deuxième nomination pour les beatmaps [approuvées](/wiki/Beatmap/Category#approved)).
+- Les BN Tier 1 pouvaient placer la première nomination d'une map (ou la deuxième nomination pour les beatmaps [approuvées](/wiki/Beatmap/Category#approuvée)).
 - Les BN Tier 2 pouvaient placer la première, deuxième ou troisième nomination d'une map.
 
 ## Test des Beatmap Nominator Tiers
@@ -27,4 +27,4 @@ La communauté du mapping a considéré ce changement comme improductif et inuti
 
 ![](img/commentary.png "Exemple de commentaire de la communauté sur les niveaux des BN")
 
-Les paliers des Beatmap Nominators étaient le prédécesseur de la distinction des [Full Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators) et des [Probationary Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominators) mis en place en septembre 2017. Leurs permissions étaient presque les mêmes, cependant un utilisateur ne pouvait pas rester dans le niveau inférieur (probation) pendant plus de 2 mois. Si un utilisateur n'était pas prêt pour le BN complet après 2 mois, il était entièrement retiré du groupe des BN.
+Les paliers des Beatmap Nominators étaient le prédécesseur de la distinction des [Full Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators#beatmap-nominators-confirmés) et des [Probationary Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators#beatmap-nominators-probatoires) mis en place en septembre 2017. Leurs permissions étaient presque les mêmes, cependant un utilisateur ne pouvait pas rester dans le niveau inférieur (probation) pendant plus de 2 mois. Si un utilisateur n'était pas prêt pour le BN complet après 2 mois, il était entièrement retiré du groupe des BN.

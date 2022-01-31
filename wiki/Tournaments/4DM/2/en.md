@@ -8,7 +8,7 @@ tags:
 
 ![4DM2 logo](img/logo.jpg)
 
-The **4 Digit osu!mania World Cup 2** (***4DM2***) was a worldwide country-based double-elimination 3v3 osu!mania 4K tournament hosted by ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) and ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095). This was the second installment of the 4 Digit osu!mania World Cup.
+The **4 Digit osu!mania World Cup 2** (***4DM2***) was a worldwide country-based double-elimination 3v3 osu!mania 4K tournament hosted by ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) and ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095). This was the second instalment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
 
@@ -17,21 +17,21 @@ The **4 Digit osu!mania World Cup 2** (***4DM2***) was a worldwide country-based
 | Registration phase | 2020-01-01/2020-01-25 |
 | Live drawings | 2020-02-08 (01:00 UTC) |
 | Qualifiers | 2020-02-15/2020-02-16 |
-| Group Stage | 2020-02-22/2020-02-25 |
+| Group stage | 2020-02-22/2020-02-25 |
 | Round of 16 | 2020-02-29/2020-03-01 |
 | Quarterfinals | 2020-03-07/2020-03-08 |
 | Semifinals | 2020-03-14/2020-03-15 |
-| Finals Week 1 | 2020-03-20/2020-03-22 |
-| Finals Week 2 | 2020-03-28 |
+| Finals week 1 | 2020-03-20/2020-03-22 |
+| Finals week 2 | 2020-03-28 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 6 months of osu!supporter tag for each team member |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag for each team member |
-| *4th-8th place* | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 6 months of osu!supporter for each team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter for each team member |
+| *4th-8th place* | 1 month of osu!supporter for each team member |
 
 ![](img/badge.png "4DM2 winner badge")
 
@@ -43,9 +43,9 @@ The 4 Digit osu!mania World Cup 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| Map selector | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_TH] [RuleBlazing](https://osu.ppy.sh/users/7312402), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
-| Map tester | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_PE] [DaZeRo5](https://osu.ppy.sh/users/6114633), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414) |
+| Organizer | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
+| Mappool selector | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_TH] [RuleBlazing](https://osu.ppy.sh/users/7312402), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
+| Mappool tester | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_PE] [DaZeRo5](https://osu.ppy.sh/users/6114633), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414) |
 | Referee | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_TH] [-\[DaNieL\_TH\]-](https://osu.ppy.sh/users/6456531), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_ID] [Yangga](https://osu.ppy.sh/users/12143152) |
 | Streamer | ![][flag_US] [\[GS\]Ery](https://osu.ppy.sh/users/9872668), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Commentator | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_AU] [\[GS\]Choccy](https://osu.ppy.sh/users/13111686), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_US] [furret osu](https://osu.ppy.sh/users/11952501), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_NZ] [WhiteWeebWolf](https://osu.ppy.sh/users/8927299) |
@@ -117,131 +117,131 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Finals Week 2
+### Finals week 2
 
 **[Download the map pack here! (101 MB)](https://www.dropbox.com/s/w8i2vgeunb4iure/Grand%20Finals%20%284DM2%20IS%20GONE%29.zip?dl=0)**
 
 - FreeMod
-  - [Treyarch Sound - Archangel (Civilization) \[Detain\]](https://osu.ppy.sh/beatmapsets/828771#mania/1736352)
-  - [Silentroom - Primatrix (Xonica) \[Utopia\]](https://osu.ppy.sh/beatmapsets/931209#mania/1944488)
-  - [Nothing's Carved In Stone - Out of Control (Valedict) \[Crime Coefficient\]](https://osu.ppy.sh/beatmapsets/1097918#mania/2294006)
-  - [Fightstar - Floods (\[Crz\]Crysarlene) \[Uprising\]](https://osu.ppy.sh/beatmapsets/1130088#mania/2360664)
-  - [Rainbowdragoneyes - Midnight Massacre 2007 (HowToPlayLN) \[13 years later someone has mapped this x1.05\]](https://osu.ppy.sh/beatmapsets/1130026#mania/2360880)
-  - [YZYX - Dysnomia (Chrubble) \[Aphasia\]](https://osu.ppy.sh/beatmapsets/867111#mania/1812736)
-  - [Ras - TURNDOWN(gdbg edit) (-Rem-) \[remuther-\]](https://osu.ppy.sh/beatmapsets/912732#mania/2360648)
-  - [Camellia - This Future (we didn't expect) (Evening) \[btoa\]](https://osu.ppy.sh/beatmapsets/1086076#mania/2271109)
-  - [Sky\_delta - Crystal Clear and Nothing feat. Kanata.N (HowToPlayLN) \[arpia97 x Ticle Ionic Collab (edit)\]](https://osu.ppy.sh/beatmapsets/1130238#mania/2361007)
-  - [Camellia feat. Mayumi Morinaga - re:||BIRTH (\[Crz\]Crysarlene) \[end\]](https://osu.ppy.sh/beatmapsets/1130027#mania/2360556)
-  - [An - Catanoph (TheToaphster) \[Eternity\]](https://osu.ppy.sh/beatmapsets/696257#mania/1474927)
-  - [uno & D.watt (IOSYS TRAX) - #Endroll (ByeForNow) \[LN-VENLY\]](https://osu.ppy.sh/beatmapsets/759313#mania/2156119)
-  - [Hige Driver - Ukigumo (Turtwig) \[4DM IS BURNING (edit)\]](https://osu.ppy.sh/beatmapsets/1129799#mania/2360113)
-  - [Akira Complex - Ether Strike (Kamuy) \[SVoid\]](https://osu.ppy.sh/beatmapsets/1020073#mania/2134472)
-  - [Chroma - Strange Inventor (zero2snow) \[Snowy Blazing's unstable\]](https://osu.ppy.sh/beatmapsets/1130028#mania/2360558)
+  1. [Treyarch Sound - Archangel (Civilization) \[Detain\]](https://osu.ppy.sh/beatmapsets/828771#mania/1736352)
+  2. [Silentroom - Primatrix (Xonica) \[Utopia\]](https://osu.ppy.sh/beatmapsets/931209#mania/1944488)
+  3. [Nothing's Carved In Stone - Out of Control (Valedict) \[Crime Coefficient\]](https://osu.ppy.sh/beatmapsets/1097918#mania/2294006)
+  4. [Fightstar - Floods (\[Crz\]Crysarlene) \[Uprising\]](https://osu.ppy.sh/beatmapsets/1130088#mania/2360664)
+  5. [Rainbowdragoneyes - Midnight Massacre 2007 (HowToPlayLN) \[13 years later someone has mapped this x1.05\]](https://osu.ppy.sh/beatmapsets/1130026#mania/2360880)
+  6. [YZYX - Dysnomia (Chrubble) \[Aphasia\]](https://osu.ppy.sh/beatmapsets/867111#mania/1812736)
+  7. [Ras - TURNDOWN(gdbg edit) (-Rem-) \[remuther-\]](https://osu.ppy.sh/beatmapsets/912732#mania/2360648)
+  8. [Camellia - This Future (we didn't expect) (Evening) \[btoa\]](https://osu.ppy.sh/beatmapsets/1086076#mania/2271109)
+  9. [Sky\_delta - Crystal Clear and Nothing feat. Kanata.N (HowToPlayLN) \[arpia97 x Ticle Ionic Collab (edit)\]](https://osu.ppy.sh/beatmapsets/1130238#mania/2361007)
+  10. [Camellia feat. Mayumi Morinaga - re:||BIRTH (\[Crz\]Crysarlene) \[end\]](https://osu.ppy.sh/beatmapsets/1130027#mania/2360556)
+  11. [An - Catanoph (TheToaphster) \[Eternity\]](https://osu.ppy.sh/beatmapsets/696257#mania/1474927)
+  12. [uno & D.watt (IOSYS TRAX) - #Endroll (ByeForNow) \[LN-VENLY\]](https://osu.ppy.sh/beatmapsets/759313#mania/2156119)
+  13. [Hige Driver - Ukigumo (Turtwig) \[4DM IS BURNING (edit)\]](https://osu.ppy.sh/beatmapsets/1129799#mania/2360113)
+  14. [Akira Complex - Ether Strike (Kamuy) \[SVoid\]](https://osu.ppy.sh/beatmapsets/1020073#mania/2134472)
+  15. [Chroma - Strange Inventor (zero2snow) \[Snowy Blazing's unstable\]](https://osu.ppy.sh/beatmapsets/1130028#mania/2360558)
 - Tiebreaker
-  - **[Camellia - overcomplexification ("Quaternion" Long ver.) (HowToPlayLN) \[RuleNote x Sere2snow Labyrinthine\]](https://osu.ppy.sh/beatmapsets/1130230#mania/2360991)**
+  1. **[Camellia - overcomplexification ("Quaternion" Long ver.) (HowToPlayLN) \[RuleNote x Sere2snow Labyrinthine\]](https://osu.ppy.sh/beatmapsets/1130230#mania/2360991)**
 
-### Finals Week 1
+### Finals week 1
 
 **[Download the map pack here! (116 MB)](https://www.dropbox.com/s/qngtsvfx96rpv4q/Finals%20Week%201.zip?dl=0)**
 
 - FreeMod
-  - [Le Dos-on - A (Elekton) \[ex\]](https://osu.ppy.sh/beatmapsets/585451#mania/1240177)
-  - [3L - Endless Night (Gekido-) \[Eternal\]](https://osu.ppy.sh/beatmapsets/956232#mania/2001931)
-  - [Tenacious D - Master Exploder (Valedict) \[BLOW YA MIND\]](https://osu.ppy.sh/beatmapsets/980802#mania/2052615)
-  - [Team Grimoire - TiamaT:F minor (zero2snow) \[Beginner(220.4bpm edit)\]](https://osu.ppy.sh/beatmapsets/1125267#mania/2351117)
-  - [Terminal 11 - Counter Clockwise Chant Pattern (Phil) \[Xaywise\]](https://osu.ppy.sh/beatmapsets/659039#mania/1395854)
-  - [Primary - in the Garden (Tamaki Iroha) \[Garden \[1.15x Rate\] (edit)\]](https://osu.ppy.sh/beatmapsets/1077579#mania/2349764)
-  - [Camellia - epimerization (Chrubble) \[catalyst\]](https://osu.ppy.sh/beatmapsets/907828#mania/1894490)
-  - [Camellia feat. Nanahira - Ska-sh All Neurons!! (HowToPlayLN) \[Re-forward !!\]](https://osu.ppy.sh/beatmapsets/1122764#mania/2349915)
-  - [P\*Light feat. mow\*2 - OVERDRIVERS (inteliser) \[OVERFLOW \[LN\]\]](https://osu.ppy.sh/beatmapsets/578558#mania/1224999)
-  - [Hino Isuka - #be\_fortunate (HowToPlayLN) \[#be\_edited\]](https://osu.ppy.sh/beatmapsets/1099229#mania/2349916)
-  - [Umeri - paranoia (Raveille) \[who are you\]](https://osu.ppy.sh/beatmapsets/997300#mania/2086120)
-  - [Snails & Pegboard Nerds - Deep in the Night (Barely Alive Remix) (-\[DaNieL\_TH\]-) \[KILLA IN THE NIGHT\]](https://osu.ppy.sh/beatmapsets/1098856#mania/2295767)
-  - [Akira Complex - BLACK JACKAL (MAD HOLIC) \[Stage 1 : Equality\]](https://osu.ppy.sh/beatmapsets/1109412#mania/2318366)
+  1. [Le Dos-on - A (Elekton) \[ex\]](https://osu.ppy.sh/beatmapsets/585451#mania/1240177)
+  2. [3L - Endless Night (Gekido-) \[Eternal\]](https://osu.ppy.sh/beatmapsets/956232#mania/2001931)
+  3. [Tenacious D - Master Exploder (Valedict) \[BLOW YA MIND\]](https://osu.ppy.sh/beatmapsets/980802#mania/2052615)
+  4. [Team Grimoire - TiamaT:F minor (zero2snow) \[Beginner(220.4bpm edit)\]](https://osu.ppy.sh/beatmapsets/1125267#mania/2351117)
+  5. [Terminal 11 - Counter Clockwise Chant Pattern (Phil) \[Xaywise\]](https://osu.ppy.sh/beatmapsets/659039#mania/1395854)
+  6. [Primary - in the Garden (Tamaki Iroha) \[Garden \[1.15x Rate\] (edit)\]](https://osu.ppy.sh/beatmapsets/1077579#mania/2349764)
+  7. [Camellia - epimerization (Chrubble) \[catalyst\]](https://osu.ppy.sh/beatmapsets/907828#mania/1894490)
+  8. [Camellia feat. Nanahira - Ska-sh All Neurons!! (HowToPlayLN) \[Re-forward !!\]](https://osu.ppy.sh/beatmapsets/1122764#mania/2349915)
+  9. [P\*Light feat. mow\*2 - OVERDRIVERS (inteliser) \[OVERFLOW \[LN\]\]](https://osu.ppy.sh/beatmapsets/578558#mania/1224999)
+  10. [Hino Isuka - #be\_fortunate (HowToPlayLN) \[#be\_edited\]](https://osu.ppy.sh/beatmapsets/1099229#mania/2349916)
+  11. [Umeri - paranoia (Raveille) \[who are you\]](https://osu.ppy.sh/beatmapsets/997300#mania/2086120)
+  12. [Snails & Pegboard Nerds - Deep in the Night (Barely Alive Remix) (-\[DaNieL\_TH\]-) \[KILLA IN THE NIGHT\]](https://osu.ppy.sh/beatmapsets/1098856#mania/2295767)
+  13. [Akira Complex - BLACK JACKAL (MAD HOLIC) \[Stage 1 : Equality\]](https://osu.ppy.sh/beatmapsets/1109412#mania/2318366)
 - Tiebreaker
-  - **[Camellia - Luin Of Celtchar (\[GS\]Logan) \[Penguinosity's Rupture (edit)\]](https://osu.ppy.sh/beatmapsets/1125395#mania/2351425)**
+  1. **[Camellia - Luin Of Celtchar (\[GS\]Logan) \[Penguinosity's Rupture (edit)\]](https://osu.ppy.sh/beatmapsets/1125395#mania/2351425)**
 
 ### Semifinals
 
 **[Download the map pack here! (79 MB)](https://www.dropbox.com/s/bxytgvryoqsuud6/SF.zip?dl=0)**
 
 - NoMod
-  - [goreshit - looming shadow of a tree long gone (-Rem-) \[blight\]](https://osu.ppy.sh/beatmapsets/1100396#mania/2298957)
-  - [AAAA + Umeboshi Chazuke - Sayonara Cosmonaut (Toaph Daddy) \[Farewell\]](https://osu.ppy.sh/beatmapsets/1033243#mania/2160320)
-  - [N.M.S.T - Snowflakes (-Rem-) \[memory (183.75bpm)\]](https://osu.ppy.sh/beatmapsets/998597#mania/2088657)
-  - [Cornandbeans - Rose (frolica) \[x1.2 / 218.88bpm\]](https://osu.ppy.sh/beatmapsets/584237#mania/1236102)
-  - [Frums - 24eeev0-$ (\[Crz\]Crysarlene) \[Bliss\]](https://osu.ppy.sh/beatmapsets/1120940#mania/2342177)
-  - [SHK - Log-in (AutotelicBrown) \[Ayumu's gimmick\]](https://osu.ppy.sh/beatmapsets/456581#mania/978439)
-  - [Camellia - KillerBeast (RuleBlazing) \[Beast Warriors\]](https://osu.ppy.sh/beatmapsets/1048494#mania/2191557)
-  - [Tenkitsune & Trifect - Fallen World (feat. Jasper In The Company Of Others) (Kamuy) \[surge (edit)\]](https://osu.ppy.sh/beatmapsets/922984#mania/2343060)
-  - [Zekk - Libertas (Kamuy) \[manumissio vindicta\]](https://osu.ppy.sh/beatmapsets/1089211#mania/2277328)
-  - [lapix - Nexta (-MysticEyes) \[LNexta\]](https://osu.ppy.sh/beatmapsets/800341#mania/1680252)
-  - [Pastel*Palettes - Zettai Sengen \~Recital\~ (Raveille) \[LN or Escape!\]](https://osu.ppy.sh/beatmapsets/1098509#mania/2295130)
-  - [Yooh - Heracles (BossMadWolf) \[Immortal\]](https://osu.ppy.sh/beatmapsets/1108434#mania/2316550)
-  - [MYTK - fly (Tantei B) \[Vol Stationnaire\]](https://osu.ppy.sh/beatmapsets/1112778#mania/2324767)
+  1. [goreshit - looming shadow of a tree long gone (-Rem-) \[blight\]](https://osu.ppy.sh/beatmapsets/1100396#mania/2298957)
+  2. [AAAA + Umeboshi Chazuke - Sayonara Cosmonaut (Toaph Daddy) \[Farewell\]](https://osu.ppy.sh/beatmapsets/1033243#mania/2160320)
+  3. [N.M.S.T - Snowflakes (-Rem-) \[memory (183.75bpm)\]](https://osu.ppy.sh/beatmapsets/998597#mania/2088657)
+  4. [Cornandbeans - Rose (frolica) \[x1.2 / 218.88bpm\]](https://osu.ppy.sh/beatmapsets/584237#mania/1236102)
+  5. [Frums - 24eeev0-$ (\[Crz\]Crysarlene) \[Bliss\]](https://osu.ppy.sh/beatmapsets/1120940#mania/2342177)
+  6. [SHK - Log-in (AutotelicBrown) \[Ayumu's gimmick\]](https://osu.ppy.sh/beatmapsets/456581#mania/978439)
+  7. [Camellia - KillerBeast (RuleBlazing) \[Beast Warriors\]](https://osu.ppy.sh/beatmapsets/1048494#mania/2191557)
+  8. [Tenkitsune & Trifect - Fallen World (feat. Jasper In The Company Of Others) (Kamuy) \[surge (edit)\]](https://osu.ppy.sh/beatmapsets/922984#mania/2343060)
+  9. [Zekk - Libertas (Kamuy) \[manumissio vindicta\]](https://osu.ppy.sh/beatmapsets/1089211#mania/2277328)
+  10. [lapix - Nexta (-MysticEyes) \[LNexta\]](https://osu.ppy.sh/beatmapsets/800341#mania/1680252)
+  11. [Pastel*Palettes - Zettai Sengen \~Recital\~ (Raveille) \[LN or Escape!\]](https://osu.ppy.sh/beatmapsets/1098509#mania/2295130)
+  12. [Yooh - Heracles (BossMadWolf) \[Immortal\]](https://osu.ppy.sh/beatmapsets/1108434#mania/2316550)
+  13. [MYTK - fly (Tantei B) \[Vol Stationnaire\]](https://osu.ppy.sh/beatmapsets/1112778#mania/2324767)
 - Tiebreaker
-  - **[lapix - SYNERGY (\[Crz\]Crysarlene) \[Ace\]](https://osu.ppy.sh/beatmapsets/1069265#mania/2238360)**
+  1. **[lapix - SYNERGY (\[Crz\]Crysarlene) \[Ace\]](https://osu.ppy.sh/beatmapsets/1069265#mania/2238360)**
 
 ### Quarterfinals
 
 **[Download the map pack here! (88 MB)](https://puu.sh/FfWVG/063f62c285.zip)**
 
 - FreeMod
-  - [AAAA - Hoshizora no Kanransha (Len) \[LeiN-'s 4K Insane\]](https://osu.ppy.sh/beatmapsets/877047#mania/1837281)
-  - [Renard - Dash Hopes II (\[Crz\]Crysarlene) \[Easy\]](https://osu.ppy.sh/beatmapsets/1117749#mania/2334906)
-  - [The Flashbulb - Ant IDM (Vortex-) \[The Antbulb\]](https://osu.ppy.sh/beatmapsets/1069279#mania/2243617)
-  - [Frequent - Lucid (feat. Jan Amit) (Elekton) \[lull\]](https://osu.ppy.sh/beatmapsets/901710#mania/1882727)
-  - [Breakbot - Baby I'm Yours feat. Irfane (Curiossity) \[Listen baby\]](https://osu.ppy.sh/beatmapsets/881430#mania/1842950)
-  - [Veil of Maya - Mikasa (Shoegazer) \[Salvation\]](https://osu.ppy.sh/beatmapsets/828101#mania/1735096)
-  - [ARM feat.Nicole Curry - Come to Life (HowToPlayLN) \[Inspiration\]](https://osu.ppy.sh/beatmapsets/1117755#mania/2334914)
-  - [96Neko - Paintings? Oh, yeah. (juankristal) \[PaiLNfull\]](https://osu.ppy.sh/beatmapsets/516224#mania/1103346)
-  - [Kanae Shinjou(CV: Suzuko Mimori) - Fatto shite Tougenkyou (inteliser) \[GRAND \[LN\]\]](https://osu.ppy.sh/beatmapsets/850458#mania/1778113)
-  - [q/stol - LOVE THIS MOMENT (RuleBlazing) \[Night Club\]](https://osu.ppy.sh/beatmapsets/1117809#mania/2335013)
-  - [The Tech Thieves - Fake (Erkfir) \[Faked It (Edit)\]](https://osu.ppy.sh/beatmapsets/1048516#mania/2259015)
+  1. [AAAA - Hoshizora no Kanransha (Len) \[LeiN-'s 4K Insane\]](https://osu.ppy.sh/beatmapsets/877047#mania/1837281)
+  2. [Renard - Dash Hopes II (\[Crz\]Crysarlene) \[Easy\]](https://osu.ppy.sh/beatmapsets/1117749#mania/2334906)
+  3. [The Flashbulb - Ant IDM (Vortex-) \[The Antbulb\]](https://osu.ppy.sh/beatmapsets/1069279#mania/2243617)
+  4. [Frequent - Lucid (feat. Jan Amit) (Elekton) \[lull\]](https://osu.ppy.sh/beatmapsets/901710#mania/1882727)
+  5. [Breakbot - Baby I'm Yours feat. Irfane (Curiossity) \[Listen baby\]](https://osu.ppy.sh/beatmapsets/881430#mania/1842950)
+  6. [Veil of Maya - Mikasa (Shoegazer) \[Salvation\]](https://osu.ppy.sh/beatmapsets/828101#mania/1735096)
+  7. [ARM feat.Nicole Curry - Come to Life (HowToPlayLN) \[Inspiration\]](https://osu.ppy.sh/beatmapsets/1117755#mania/2334914)
+  8. [96Neko - Paintings? Oh, yeah. (juankristal) \[PaiLNfull\]](https://osu.ppy.sh/beatmapsets/516224#mania/1103346)
+  9. [Kanae Shinjou(CV: Suzuko Mimori) - Fatto shite Tougenkyou (inteliser) \[GRAND \[LN\]\]](https://osu.ppy.sh/beatmapsets/850458#mania/1778113)
+  10. [q/stol - LOVE THIS MOMENT (RuleBlazing) \[Night Club\]](https://osu.ppy.sh/beatmapsets/1117809#mania/2335013)
+  11. [The Tech Thieves - Fake (Erkfir) \[Faked It (Edit)\]](https://osu.ppy.sh/beatmapsets/1048516#mania/2259015)
 - Tiebreaker
-  - **[Camellia - farewell to today (-mint-) \[sayonara\]](https://osu.ppy.sh/beatmapsets/1114788#mania/2333692)**
+  1. **[Camellia - farewell to today (-mint-) \[sayonara\]](https://osu.ppy.sh/beatmapsets/1114788#mania/2333692)**
 
 ### Round of 16
 
 **[Download the map pack here! (83 MB)](https://puu.sh/Fdtx1/bd12368c8b.zip)**
 
 - FreeMod
-  - [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/860089#mania/2007200)
-  - [Momo - Belladonna (\[Crz\]Crysarlene) \[Novice (220bpm)\]](https://osu.ppy.sh/beatmapsets/1113536#mania/2326315)
-  - [Izayoi - Night of Knights (Shoegazer) \[Insane\]](https://osu.ppy.sh/beatmapsets/477209#mania/1019346)
-  - [The Ghost Of 3.13 - Mara (Sorry For All The Mess) (Cut) (Todestrieb) \[Broken\]](https://osu.ppy.sh/beatmapsets/912424#mania/1906068)
-  - [mattaku - Estpolis Denki II \~Battle #2\~ (Kamikaze) \[Architect [1,2x Rate]\]](https://osu.ppy.sh/beatmapsets/988572#mania/2067887)
-  - [Underoath - Coming Down Is Calming Down (Shoegazer) \[Desperation\]](https://osu.ppy.sh/beatmapsets/882967#mania/1845963)
-  - [aran - L.F.O (-MysticEyes) \[Another\]](https://osu.ppy.sh/beatmapsets/882805#mania/1848364)
-  - [senya - Tsuzurenu Mori no Shoujo (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/704155#mania/1489611)
-  - [KillerBlood - The Diary of Angels and Devils Trickeries (Kamuy) \[deception\]](https://osu.ppy.sh/beatmapsets/1079511#mania/2258535)
-  - [Slappy - Hanami (RuleBlazing) \[Edit\]](https://osu.ppy.sh/beatmapsets/1101411#mania/2329945)
-  - [Moe shop - Love Taste (w/ Jamie Paige & Shiki) (zero2snow) \[Sour (SV)\]](https://osu.ppy.sh/beatmapsets/1113833#mania/2326952)
+  1. [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/860089#mania/2007200)
+  2. [Momo - Belladonna (\[Crz\]Crysarlene) \[Novice (220bpm)\]](https://osu.ppy.sh/beatmapsets/1113536#mania/2326315)
+  3. [Izayoi - Night of Knights (Shoegazer) \[Insane\]](https://osu.ppy.sh/beatmapsets/477209#mania/1019346)
+  4. [The Ghost Of 3.13 - Mara (Sorry For All The Mess) (Cut) (Todestrieb) \[Broken\]](https://osu.ppy.sh/beatmapsets/912424#mania/1906068)
+  5. [mattaku - Estpolis Denki II \~Battle #2\~ (Kamikaze) \[Architect [1,2x Rate]\]](https://osu.ppy.sh/beatmapsets/988572#mania/2067887)
+  6. [Underoath - Coming Down Is Calming Down (Shoegazer) \[Desperation\]](https://osu.ppy.sh/beatmapsets/882967#mania/1845963)
+  7. [aran - L.F.O (-MysticEyes) \[Another\]](https://osu.ppy.sh/beatmapsets/882805#mania/1848364)
+  8. [senya - Tsuzurenu Mori no Shoujo (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/704155#mania/1489611)
+  9. [KillerBlood - The Diary of Angels and Devils Trickeries (Kamuy) \[deception\]](https://osu.ppy.sh/beatmapsets/1079511#mania/2258535)
+  10. [Slappy - Hanami (RuleBlazing) \[Edit\]](https://osu.ppy.sh/beatmapsets/1101411#mania/2329945)
+  11. [Moe shop - Love Taste (w/ Jamie Paige & Shiki) (zero2snow) \[Sour (SV)\]](https://osu.ppy.sh/beatmapsets/1113833#mania/2326952)
 - Tiebreaker
-  - **[Camellia - Heart of Android : Even If It's Only By Mechanism (Antalf) \[Cipher\]](https://osu.ppy.sh/beatmapsets/1042122#mania/2325913)**
+  1. **[Camellia - Heart of Android : Even If It's Only By Mechanism (Antalf) \[Cipher\]](https://osu.ppy.sh/beatmapsets/1042122#mania/2325913)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
-  - [Hyper Potions - Ski (\[GS\]Logan) \[HowToPlayLN's Lubricity (edit)\]](https://osu.ppy.sh/beatmapsets/1110745#mania/2320858)
-  - [LeaF - Wizdomiot (Elekton) \[Valen's 4K Hyper\]](https://osu.ppy.sh/beatmapsets/353634#mania/935375)
-  - [Triodust - Ju Tou San Chi Tian Qi Qing (Mentholzzz) \[Insane\]](https://osu.ppy.sh/beatmapsets/626890#mania/1321158)
-  - [Phlogiston - Night Jam (Shoegazer) \[Sleepless\]](https://osu.ppy.sh/beatmapsets/670141#mania/1571268)
-  - [enzo + O2i3 - Mentanpindoradora (PiraTom) \[ORANGE\]](https://osu.ppy.sh/beatmapsets/609865#mania/1287833)
-  - [Eve - As You Like It (Raveille) \[Stage 3: Regulation\]](https://osu.ppy.sh/beatmapsets/1017847#mania/2130198)
-  - [Mili - Boys in Kaleidosphere (Turtwig) \[Abstraction\]](https://osu.ppy.sh/beatmapsets/1063420#mania/2316822)
-  - [Hayashi Yuki - Chimu no Jiriki (tailsdk) \[NYATY Stage 1: Lag\]](https://osu.ppy.sh/beatmapsets/709976#mania/1500822)
-  - [Getter Jaani - Rockefeller Street (\[GS\]Logan) \[ProSVperity\]](https://osu.ppy.sh/beatmapsets/1110967#mania/2321275)
+  1. [Hyper Potions - Ski (\[GS\]Logan) \[HowToPlayLN's Lubricity (edit)\]](https://osu.ppy.sh/beatmapsets/1110745#mania/2320858)
+  2. [LeaF - Wizdomiot (Elekton) \[Valen's 4K Hyper\]](https://osu.ppy.sh/beatmapsets/353634#mania/935375)
+  3. [Triodust - Ju Tou San Chi Tian Qi Qing (Mentholzzz) \[Insane\]](https://osu.ppy.sh/beatmapsets/626890#mania/1321158)
+  4. [Phlogiston - Night Jam (Shoegazer) \[Sleepless\]](https://osu.ppy.sh/beatmapsets/670141#mania/1571268)
+  5. [enzo + O2i3 - Mentanpindoradora (PiraTom) \[ORANGE\]](https://osu.ppy.sh/beatmapsets/609865#mania/1287833)
+  6. [Eve - As You Like It (Raveille) \[Stage 3: Regulation\]](https://osu.ppy.sh/beatmapsets/1017847#mania/2130198)
+  7. [Mili - Boys in Kaleidosphere (Turtwig) \[Abstraction\]](https://osu.ppy.sh/beatmapsets/1063420#mania/2316822)
+  8. [Hayashi Yuki - Chimu no Jiriki (tailsdk) \[NYATY Stage 1: Lag\]](https://osu.ppy.sh/beatmapsets/709976#mania/1500822)
+  9. [Getter Jaani - Rockefeller Street (\[GS\]Logan) \[ProSVperity\]](https://osu.ppy.sh/beatmapsets/1110967#mania/2321275)
 - Tiebreaker
-  - **[xi vs Feryquitous - Cyberspace (HowToPlayLN) \[RuleNoteSerenade's Induction\]](https://osu.ppy.sh/beatmapsets/1110640#mania/2320709)**
+  1. **[xi vs Feryquitous - Cyberspace (HowToPlayLN) \[RuleNoteSerenade's Induction\]](https://osu.ppy.sh/beatmapsets/1110640#mania/2320709)**
 
 ### Qualifiers
 
 - FreeMod
-  - [cubesato + sweez + hsgn - Le Petit Prince (RuleBlazing) \[Stage 1 : Snowvy Vlazing\]](https://osu.ppy.sh/beatmapsets/1106056#mania/2311662)
-  - [Dropgun - Fire Blazing (Logan636) \[Stage 2: Ignition\]](https://osu.ppy.sh/beatmapsets/1106164#mania/2311852)
-  - [Nekomata Master - Izanami's Wail (\[Crz\]Crysarlene) \[Stage 3: Betwixt\]](https://osu.ppy.sh/beatmapsets/1106156#mania/2311839)
-  - [void feat. Gt. HAKKYOU-KUN - Never Escape (HowToPlayLN) \[Stage 4: Surrounded\]](https://osu.ppy.sh/beatmapsets/1105727#mania/2311135)
+  1. [cubesato + sweez + hsgn - Le Petit Prince (RuleBlazing) \[Stage 1 : Snowvy Vlazing\]](https://osu.ppy.sh/beatmapsets/1106056#mania/2311662)
+  2. [Dropgun - Fire Blazing (Logan636) \[Stage 2: Ignition\]](https://osu.ppy.sh/beatmapsets/1106164#mania/2311852)
+  3. [Nekomata Master - Izanami's Wail (\[Crz\]Crysarlene) \[Stage 3: Betwixt\]](https://osu.ppy.sh/beatmapsets/1106156#mania/2311839)
+  4. [void feat. Gt. HAKKYOU-KUN - Never Escape (HowToPlayLN) \[Stage 4: Surrounded\]](https://osu.ppy.sh/beatmapsets/1105727#mania/2311135)
 
 ## Match results
 
@@ -335,7 +335,7 @@ Sunday, 1 March 2020:
 | **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/58851567) |
 | **France** ![][flag_FR] | **5** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/58853975) |
 
-### Group Stage
+### Group stage
 
 Saturday, 22 February 2020:
 
@@ -444,7 +444,7 @@ Tuesday, 25 February 2020:
    - If fewer than 20 teams enter, the number of teams that will advance is the highest power of 2 that is fewer than the number of entering teams (For example, if 19 teams enter, then 16 teams will advance. If 15 teams enter, then 8 teams will advance.) In this case, Group Stage will not occur and players will advance directly into the bracket stages.
 4. The results of the Qualifier Stage will also be used to determine the “seed” of each team. However, this concept will be explained in the Group Stage category below, as seeding is very pertinent in how the Group Stage works.
 
-#### Group Stage
+#### Group stage
 
 1. Based on the results of the Qualifier Stage, teams will be given a qualifier rank based off of their “score rating”, essentially meaning how well each team ranks on each qualifier stage compared to every other team. Teams, based off of this aforementioned rank, will be given a “seed”, meaning be classified into a certain ranking range with other teams around their qualifier rank in an attempt to generalize each teams’ overall comparative skill level with their “seed”. As the exact number of entering teams cannot be known yet, there are several possibilities for the ranking ranges used in determining each seed, so all possibilities will be listed below.
 2. If 32 teams remain after qualifiers, there will be 4 different seeds, and seeding will be decided as such:

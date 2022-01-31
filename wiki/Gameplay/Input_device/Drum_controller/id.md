@@ -10,4 +10,4 @@ stub: true
 
 ## Input
 
-Pemilik kontroller drum Taiko untuk [PlayStation 4 (PS4)](https://en.wikipedia.org/wiki/PlayStation_4 "Wikipedia") atau [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch "Wikipedia") perlu untuk memasang kontroller ke komputer melalui USB dan mengatur key dalam pengaturan permainan osu!. Tatacon perlu untuk memasangkan kontroller ke komputer sebelum menghidupkan opsi layanan Wiimote/Tatacon pada pengaturan osu!. Sebagian besar kontroller drum pihak ketiga juga akan bekerja dengan osu!, tetapi dukungan mungkin akan berbeda-beda.
+Pemilik kontroller drum Taiko untuk [PlayStation 4 (PS4)](https://en.wikipedia.org/wiki/PlayStation_4) atau [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) perlu untuk memasang kontroller ke komputer melalui USB dan mengatur key dalam pengaturan permainan osu!. Tatacon perlu untuk memasangkan kontroller ke komputer sebelum menghidupkan opsi layanan Wiimote/Tatacon pada pengaturan osu!. Sebagian besar kontroller drum pihak ketiga juga akan bekerja dengan osu!, tetapi dukungan mungkin akan berbeda-beda.

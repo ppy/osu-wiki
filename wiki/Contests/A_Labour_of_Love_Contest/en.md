@@ -10,7 +10,7 @@ Submissions to this contest include the following elements:
 
 ## Links
 
-- [Contest listing](https://osu.ppy.sh/contests/115)
+- [Contest listing](https://osu.ppy.sh/community/contests/115)
 - [Contest announcement](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love)
 - [Voting announcement](https://osu.ppy.sh/home/news/2021-03-26-a-labour-of-love-voting-open)
 - [Results summary](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love)
@@ -45,55 +45,55 @@ Submissions to this contest include the following elements:
 Contest judging will be handled by a panel of mappers (including storyboarders) and a panel of musicians. Because each group has its own specialty, the highest scoring team in each group will earn a separate prize.
 
 - **Community vote**
-    - Prizes
-        - **Runner-up:** 3 months of osu!supporter 
-        - **Winner:**  6 months of osu!supporter + *Community Pick* profile badge
+  - Prizes
+    - **Runner-up:** 3 months of osu!supporter 
+    - **Winner:**  6 months of osu!supporter + *Community Pick* profile badge
 - **Mapper panel** (focusing on mapping quality)
-    - Prizes
-        - **Runner-up:** 3 months of osu!supporter 
-        - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
-    - Panelists:
-        - ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993)
-        - ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
-        - ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992)
-        - ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645)
-        - ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777)
-        - ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581)
-        - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
-        - ![][flag_CZ] [NyarkoO](https://osu.ppy.sh/users/6622567)
-        - ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771)
-        - ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547)
-        - ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406)
-        - ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421)
-        - ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926)
-        - ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
+  - Prizes
+    - **Runner-up:** 3 months of osu!supporter 
+    - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
+  - Panelists:
+    - ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993)
+    - ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
+    - ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992)
+    - ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645)
+    - ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777)
+    - ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581)
+    - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
+    - ![][flag_CZ] [NyarkoO](https://osu.ppy.sh/users/6622567)
+    - ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771)
+    - ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547)
+    - ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406)
+    - ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421)
+    - ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926)
+    - ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 - **Musician panel** (focusing on remix quality)
-    - Prizes
-        - **Runner-up:** 3 months of osu!supporter 
-        - **Winner:**  6 months of osu!supporter + *Musicians' Pick* profile badge
-    - Panelists:
-        - ![][flag_CA] Kuba Oms
-        - ![][flag_JP] [A__](https://osu.ppy.sh/users/12011880)
-        - ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993)
-        - ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379)
-        - ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088)
-        - ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406)
+  - Prizes
+    - **Runner-up:** 3 months of osu!supporter 
+    - **Winner:**  6 months of osu!supporter + *Musicians' Pick* profile badge
+  - Panelists:
+    - ![][flag_CA] Kuba Oms
+    - ![][flag_JP] [A__](https://osu.ppy.sh/users/12011880)
+    - ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993)
+    - ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379)
+    - ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088)
+    - ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406)
 - **Overall prizes** (combination of both panels focusing on all areas)
-    - **Runner-up:** 3 months of osu!supporter + *Overall runner-up* profile badge
-    - **Winner:**
-        - 6 months of osu!supporter
-        - *Overall winner* profile badge
-        - *Elite Mapper*, *Elite Storyboarder*, and *osu!mixer* user titles
-        - Submission bundled with new osu! downloads and fast-tracked to Ranked status
+  - **Runner-up:** 3 months of osu!supporter + *Overall runner-up* profile badge
+  - **Winner:**
+    - 6 months of osu!supporter
+    - *Overall winner* profile badge
+    - *Elite Mapper*, *Elite Storyboarder*, and *osu!mixer* user titles
+    - Submission bundled with new osu! downloads and fast-tracked to Ranked status
 
 If a team wins in multiple of the above categories, they will be rewarded a profile badge reflecting all relevant categories.
 
 ## Rules
 
 - **Submission must be a "full beatmap experience" including the following:**
-    - Remix of the song **Kuba Oms - My Love**
-    - Beatmap spread following the [ranking criteria](/wiki/Ranking_Criteria)
-    - Storyboard or custom video
+  - Remix of the song **Kuba Oms - My Love**
+  - Beatmap spread following the [ranking criteria](/wiki/Ranking_Criteria)
+  - Storyboard or custom video
 - **Submission must be in `.osz` format.**
 - **Beatmap must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be questioned.

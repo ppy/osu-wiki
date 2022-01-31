@@ -3,13 +3,15 @@ tags:
   - TWC
   - TWC2021
   - 世界杯
+outdated: true
+outdated_since: fd12864fe0d9d5c4e43f09e681be0c1ad040e200
 ---
 
 # osu!taiko 2021 世界杯
 
 ![TWC 2021 标志](/wiki/shared/news/banners/TWC_2021.jpg)
 
-**osu!taiko 2021 世界杯**（***TWC 2021***）是由 [osu!team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu!taiko 世界杯的第 11 届。
+**osu!taiko 2021 世界杯**（***TWC 2021***）是由 [osu!团队](/wiki/People/The_Team)举办的基于国家/地区间的官方锦标赛。这是 osu!taiko 世界杯的第 11 届。
 
 *注意：比赛正在进行中，该翻译版本最后更新日期为 2021 年 3 月 12 日 21:00 UTC+08，最新赛程安排及图池更新请按[英文原文](/wiki/Tournaments/TWC/2021?locale=en)为准。*
 
@@ -95,8 +97,6 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 | ![][flag_US] | **美国** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [cheese salad](https://osu.ppy.sh/users/6349821), [R J](https://osu.ppy.sh/users/6490509), [3san](https://osu.ppy.sh/users/8050850), [ChurroChef](https://osu.ppy.sh/users/9258564) |
 | ![][flag_VN] | **越南** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [-BunZ-](https://osu.ppy.sh/users/7556673), [SaraSoul](https://osu.ppy.sh/users/13493346) |
 
----
-
 ## 比赛排程：十六强赛
 
 *小提示：* **中国标准时间** *（又名* **北京时间** *）比协调世界时间快八小时（* **UTC+08** *）。*
@@ -124,49 +124,49 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 ### 十六强赛
 
 - NoMod
-  - [Electric Music Department (Jingumae Sando Academy) - Hyper Bass Feat. Yunomi (7\_7 bootleg) (EJ\_\_) \[sv\]](https://osu.ppy.sh/beatmapsets/1351301#taiko/2797899)
-  - [T-HEY - the Chameleon (femboy mapper) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1395289#taiko/2880037)
-  - [Neko Hacker - Aimai Cyborg (feat. Ugokuchan & JungMato) (KinomiCandy) \[Ambiguous Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1343645#taiko/2782966)
-  - [Carnifex - Dark Days (Grimbow) \[Eclipse V2\]](https://osu.ppy.sh/beatmapsets/1238818#taiko/2879952)
-  - [fn(ArcaeaSoundTeam) - Red and Blue and Green (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1209776#taiko/2518712)
+  1. [Electric Music Department (Jingumae Sando Academy) - Hyper Bass Feat. Yunomi (7\_7 bootleg) (EJ\_\_) \[sv\]](https://osu.ppy.sh/beatmapsets/1351301#taiko/2797899)
+  2. [T-HEY - the Chameleon (femboy mapper) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1395289#taiko/2880037)
+  3. [Neko Hacker - Aimai Cyborg (feat. Ugokuchan & JungMato) (KinomiCandy) \[Ambiguous Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1343645#taiko/2782966)
+  4. [Carnifex - Dark Days (Grimbow) \[Eclipse V2\]](https://osu.ppy.sh/beatmapsets/1238818#taiko/2879952)
+  5. [fn(ArcaeaSoundTeam) - Red and Blue and Green (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1209776#taiko/2518712)
 - Hidden
-  - [Nekomata Master+ - AFRO KNUCKLE (femboy mapper) \[Samba Oni\]](https://osu.ppy.sh/beatmapsets/1395286#taiko/2880034)
-  - [TUYU - Anoyo-iki no Bus ni Notte Saraba. (\_Rise) \[Inner Oni (Edit)\]](https://osu.ppy.sh/beatmapsets/1216596#taiko/2879910)
+  1. [Nekomata Master+ - AFRO KNUCKLE (femboy mapper) \[Samba Oni\]](https://osu.ppy.sh/beatmapsets/1395286#taiko/2880034)
+  2. [TUYU - Anoyo-iki no Bus ni Notte Saraba. (\_Rise) \[Inner Oni (Edit)\]](https://osu.ppy.sh/beatmapsets/1216596#taiko/2879910)
 - HardRock
-  - [96-glass - You're my everything (te2035) \[breakcore is my everything but twc not\]](https://osu.ppy.sh/beatmapsets/1324528#taiko/2879954)
-  - [Whispered - Unrestrained (LZD) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/569779#taiko/1207835)
+  1. [96-glass - You're my everything (te2035) \[breakcore is my everything but twc not\]](https://osu.ppy.sh/beatmapsets/1324528#taiko/2879954)
+  2. [Whispered - Unrestrained (LZD) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/569779#taiko/1207835)
 - DoubleTime
-  - [SECONDWALL - Light (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/1318825#taiko/2733144)
-  - [Infected Mushroom - Kipod (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/305394#taiko/683991)
+  1. [SECONDWALL - Light (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/1318825#taiko/2733144)
+  2. [Infected Mushroom - Kipod (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/305394#taiko/683991)
 - FreeMod
-  - [taigat - plAnet (CANTAX Remix) (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1157104#taiko/2414712)
-  - [owl\*tree feat.chi\*tree - Valsqotch (hoku) \[TWC Flutter ^-^\]](https://osu.ppy.sh/beatmapsets/1395252#taiko/2879960)
-  - [Frums - Zephyrs (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1395165#taiko/2879802)
+  1. [taigat - plAnet (CANTAX Remix) (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1157104#taiko/2414712)
+  2. [owl\*tree feat.chi\*tree - Valsqotch (hoku) \[TWC Flutter ^-^\]](https://osu.ppy.sh/beatmapsets/1395252#taiko/2879960)
+  3. [Frums - Zephyrs (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1395165#taiko/2879802)
 - Tiebreaker
-  - **[ulko - REGGAETON BUT IT HAS AMEN BREAKS (D3kuu) \[TATSUJIN\]](https://osu.ppy.sh/beatmapsets/1013247#taiko/2120869)**
+  1. **[ulko - REGGAETON BUT IT HAS AMEN BREAKS (D3kuu) \[TATSUJIN\]](https://osu.ppy.sh/beatmapsets/1013247#taiko/2120869)**
 
 ### 小组赛
 
 - NoMod
-  - [Noisia - Anomaly (maziari1105) \[Insane\]](https://osu.ppy.sh/beatmapsets/1222464#taiko/2542673)
-  - [uma vs. Morimori Atsushi - Re:End of a Dream (incandescence) \[Resolution\]](https://osu.ppy.sh/beatmapsets/1286433#taiko/2865224)
-  - [Aitsuki Nakuru & Kabocha - Lilith (Nwolf) \[Demon\]](https://osu.ppy.sh/beatmapsets/1387180#taiko/2865215)
-  - [IAHN - Parasite (Original Mix) (iceOC) \[Parasitized Dog\]](https://osu.ppy.sh/beatmapsets/1387184#taiko/2865222)
+  1. [Noisia - Anomaly (maziari1105) \[Insane\]](https://osu.ppy.sh/beatmapsets/1222464#taiko/2542673)
+  2. [uma vs. Morimori Atsushi - Re:End of a Dream (incandescence) \[Resolution\]](https://osu.ppy.sh/beatmapsets/1286433#taiko/2865224)
+  3. [Aitsuki Nakuru & Kabocha - Lilith (Nwolf) \[Demon\]](https://osu.ppy.sh/beatmapsets/1387180#taiko/2865215)
+  4. [IAHN - Parasite (Original Mix) (iceOC) \[Parasitized Dog\]](https://osu.ppy.sh/beatmapsets/1387184#taiko/2865222)
 - Hidden
-  - [Makai Toshi Niigata - Ukiyo-e Yokocho (HiroK) \[Inner Oni (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/839452#taiko/2865277)
-  - [Street - Reincarnation (eiri-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1279224#taiko/2657263)
+  1. [Makai Toshi Niigata - Ukiyo-e Yokocho (HiroK) \[Inner Oni (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/839452#taiko/2865277)
+  2. [Street - Reincarnation (eiri-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1279224#taiko/2657263)
 - HardRock
-  - [Zekk - Libertas (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1001338#taiko/2096131)
-  - [Sophie Twilight , Akari Amano, Hinata Natsuki, Erie - +Kyutie Ladies+ (DJ Mii-ko Remix) (KawaiiBass) \[Cute Vampire\]](https://osu.ppy.sh/beatmapsets/1313424#taiko/2722104)
+  1. [Zekk - Libertas (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1001338#taiko/2096131)
+  2. [Sophie Twilight , Akari Amano, Hinata Natsuki, Erie - +Kyutie Ladies+ (DJ Mii-ko Remix) (KawaiiBass) \[Cute Vampire\]](https://osu.ppy.sh/beatmapsets/1313424#taiko/2722104)
 - DoubleTime
-  - [USAO - Chariot (Extended Mix) (aabc271) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1387259#taiko/2865337)
-  - [hololive IDOL PROJECT - SHIJOSHUGI ADTRUCK (Maimaing) \[Oning\]](https://osu.ppy.sh/beatmapsets/1387197#taiko/2865248)
+  1. [USAO - Chariot (Extended Mix) (aabc271) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1387259#taiko/2865337)
+  2. [hololive IDOL PROJECT - SHIJOSHUGI ADTRUCK (Maimaing) \[Oning\]](https://osu.ppy.sh/beatmapsets/1387197#taiko/2865248)
 - FreeMod
-  - [Niwashi+Aoi - Nostalgic Lostlogic (kei821) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/883344#taiko/1846563)
-  - [KAH - energy trixxx (Faputa) \[Master\]](https://osu.ppy.sh/beatmapsets/1387222#taiko/2865276)
-  - [Equilibrium - Rise Again (LZD) \[Inner Oni TWC ver.\]](https://osu.ppy.sh/beatmapsets/645370#taiko/2865284)
+  1. [Niwashi+Aoi - Nostalgic Lostlogic (kei821) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/883344#taiko/1846563)
+  2. [KAH - energy trixxx (Faputa) \[Master\]](https://osu.ppy.sh/beatmapsets/1387222#taiko/2865276)
+  3. [Equilibrium - Rise Again (LZD) \[Inner Oni TWC ver.\]](https://osu.ppy.sh/beatmapsets/645370#taiko/2865284)
 - Tiebreaker
-  - **[NIWASHI - Playing with Ruby (goheegy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/835717#taiko/2865258)**
+  1. **[NIWASHI - Playing with Ruby (goheegy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/835717#taiko/2865258)**
 
 ## 比赛结果
 
@@ -229,8 +229,6 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 | **英国** ![][flag_GB] | **5** | 1 | ![][flag_CH] 瑞士 | [#1](https://osu.ppy.sh/community/matches/77455105) |
 | **俄罗斯** ![][flag_RU] | **5** | 0 | ![][flag_CR] 哥斯达黎加 | [#1](https://osu.ppy.sh/community/matches/77454888) |
 | **日本** ![][flag_JP] | **5** | 0 | ![][flag_CL] 智利 | [#1](https://osu.ppy.sh/community/matches/77458452) |
-
----
 
 ## 规则
 
@@ -323,9 +321,9 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
    - 房间名称中提到的第一个队伍必须是红队，第二个队伍必须是蓝队。
 2. 每队队长可以选择 Ban **一张谱面**，本场比赛中无法选择被 Ban 的谱面。
 3. 谱面选择权将在两位队长之间交替。
-4. 两位队长必须在 #multiplayer 中使用 “!roll”。
-   - !roll 胜的队伍先 Pick。
-   - !roll 输的队伍先 Ban。
+4. 两位队长必须在 `#multiplayer` 中使用 `!roll`。
+   - `!roll` 胜的队伍先 Pick。
+   - `!roll` 输的队伍先 Ban。
 5. 接下来队长可以随意从图池中挑选谱面
    - 决胜局只能选择 Tiebreaker。
 6. 队伍将有 2 分钟的时间选择谱面，以及 2 分钟的准备时间。
@@ -364,8 +362,8 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 7. 队长有权负责队伍的可用性，以确保每个队伍可以在每场比赛上场至少四名队员。如果队伍无法提供两名队员参加比赛，则该比赛将被视为弃权。
 
 [flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
-[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
+[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 [flag_BR]: /wiki/shared/flag/BR.gif "巴西"
 [flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
 [flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
@@ -382,8 +380,8 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 [flag_IT]: /wiki/shared/flag/IT.gif "意大利"
 [flag_JP]: /wiki/shared/flag/JP.gif "日本"
 [flag_KR]: /wiki/shared/flag/KR.gif "韩国"
-[flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
 [flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
+[flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
 [flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
 [flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"

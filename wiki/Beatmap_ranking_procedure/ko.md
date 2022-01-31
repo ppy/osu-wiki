@@ -27,7 +27,7 @@ BN들에게 지명을 요청하기 전 다른 사람들에게 충분한 모딩�
 
 ## Qualification
 
-BN으로부터 2개의 지명을 받은 비트맵은 [Qualified](/wiki/Beatmap/Category#qualified) 카테고리로 이동됩니다. Qualified된 비트맵은 점수 리더보드를 갖게 되지만, [pp](/wiki/Performance_Points)를 주지는 않습니다. 비트맵이 최소 7일 이상 Qualified 상태에 있었을 경우, 해당 비트맵은 [ranking queue](Ranking_queue)를 통해 [랭크](#랭크)됩니다.
+BN으로부터 2개의 지명을 받은 비트맵은 [Qualified](/wiki/Beatmap/Category#qualified) 카테고리로 이동됩니다. Qualified된 비트맵은 점수 리더보드를 갖게 되지만, [pp](/wiki/Performance_points)를 주지는 않습니다. 비트맵이 최소 7일 이상 Qualified 상태에 있었을 경우, 해당 비트맵은 [ranking queue](Ranking_queue)를 통해 [랭크](#랭크)됩니다.
 
 Qualified 카테고리는 비트맵을 좀 더 다양한 유저들이 비트맵을 접할 수 있게 해주며 비트맵에 있을지도 모르는 문제점을 발견할 수 있게 도와줍니다. 비트맵 토론 페이지에 문제점을 게시할 경우 BN 또는 NAT 멤버들에게 보고할 수 있습니다. 대기(Pending)중인 비트맵과는 다르게, Qualified된 비트맵들은 제작자가 업데이트 할 수 없습니다. 그렇기 때문에 문제점 또는 피드백을 수용하기 위해선 먼저 [지명 초기화](#지명-초기화)을 통해 비트맵을 다시 대기(Pending)상태로 옮겨야 합니다.
 

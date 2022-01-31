@@ -4,9 +4,9 @@
 
 osu!stream features up to 45 playable songs spread across various bundles and song packs. As of [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release), all songs are available for download and play for free.
 
-At the Store menu, you can scroll through the list of all available song packs and preview the beatmaps inside before downloading. Upon selecting the `PREVIEW` button, you'll be able to see a short gameplay demo of all four difficulties in a beatmap from the lowest difficulty to the highest [in their corresponding stream order](wiki/osu!stream#new-game-play-system).
+At the Store menu, you can scroll through the list of all available song packs and preview the beatmaps inside before downloading. Upon selecting the `PREVIEW` button, you'll be able to see a short gameplay demo of all four difficulties in a beatmap from the lowest difficulty to the highest [in their corresponding stream order](/wiki/osu!stream#new-game-play-system).
 
-Just like the [featured artists](wiki/en/Featured_Artists) osu! has nowadays, all songs available in the game are either commissioned or licensed ahead of their release. It is worth noting that osu!stream beatmaps come in the `.osf2` file format (instead of [`.osz`](/wiki/osu%21_File_Formats/Osz_%28file_format%29)) and are therefore not compatible with the regular osu! client.
+Just like the [Featured Artists](/wiki/Featured_Artists) osu! has nowadays, all songs available in the game are either commissioned or licensed ahead of their release. It is worth noting that osu!stream beatmaps come in the `.osf2` file format (instead of [`.osz`](/wiki/osu!_File_Formats/Osz_(file_format))) and are therefore not compatible with the regular osu! client.
 
 ## Bundled songs
 
@@ -274,13 +274,13 @@ See also:
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_TW]: /wiki/shared/flag/TW.gif "Alace"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

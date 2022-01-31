@@ -1,6 +1,11 @@
+---
+outdated: true
+outdated_since: d2a93c7e0e135bbf0a1944230cab0a334b2ef58f
+---
+
 # Aturan bagi Beatmap Nominator
 
-Aturan yang tercantum di sini mempengaruhi apa yang [Beatmap Nominators](/wiki/People/Beatmap_Nominators) bisa dan tidak bisa lakukan saat menominasi beatmap, juga untuk mengatur pola perilaku umum yang diharapkan dari mereka. Aturan-aturan ini adalah hasil diskusi dari [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) dan telah memperhitungkan umpan balik dari Beatmap Nominator berdasarkan proposal mereka.
+Aturan yang tercantum di sini mempengaruhi apa yang [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) bisa dan tidak bisa lakukan saat menominasi beatmap, juga untuk mengatur pola perilaku umum yang diharapkan dari mereka. Aturan-aturan ini adalah hasil diskusi dari [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) dan telah memperhitungkan umpan balik dari Beatmap Nominator berdasarkan proposal mereka.
 
 Beatmap Nominator memiliki alat untuk menominasi beatmap dan membentuk dunia osu! dengan cara mempromosikan konten baru agar dimasukkan ke dalam daftar resmi, dan dengan alasan ini mereka harus selalu mematuhi aturan. Melanggar salah satu dari ini dapat membuat Beatmap Nominator tersebut dihapus dari Beatmap Nominator. Pelanggaran aturan tersebut dapat dilaporkan ke anggota Nomination Assessment Team secara langsung.
 
@@ -13,7 +18,7 @@ Perilaku bertentangan yang berkelanjutan dengan ekspektasi ini akan menjadi alas
 ## Etika
 
 - **Jangan mengikuti aturan atau amandemen yang belum selesai.**
-- **Patuhi [Aturan Komunitas osu!](/wiki/Rules) dan [Kode Etik Modding dan Mapping](/wiki/Ranking_Criteria/Code_of_Conduct) setiap saat.** Sebagai seorang Beatmap Nominator, perilaku Anda harus menjadi contoh positif bagi anggota lainnya di komunitas. Melanggar Kode Etik dapat mengakibatkan Anda ditempatkan dalam masa percobaan sementara, atau kasus yang lebih parah, yaitu dikeluarkan dari Beatmap Nominator.
+- **Patuhi [Aturan Komunitas osu!](/wiki/Rules) dan [Kode Etik Modding dan Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) setiap saat.** Sebagai seorang Beatmap Nominator, perilaku Anda harus menjadi contoh positif bagi anggota lainnya di komunitas. Melanggar Kode Etik dapat mengakibatkan Anda ditempatkan dalam masa percobaan sementara, atau kasus yang lebih parah, yaitu dikeluarkan dari Beatmap Nominator.
 - **Jangan ambil bagian atau berpartisipasi dalam komisi modding, ranking ATAU beatmapping berbayar.** Tidak boleh ada pertanyaan tentang legitimasi atau motif dari anggota "resmi" tim osu! (BN, NAT atau lainnya) yang terlibat dalam proses ranking.
 
 ## Aktivitas

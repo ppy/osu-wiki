@@ -6,7 +6,7 @@ stub: true
 
 ![](img/beatmania-controller.jpg "Kontroller Beatmania 7 tombol")
 
-**Kontroller Beatmania** adalah sebuah tipe dari kontroller gim yang cocok digunakan pada seri game *[Beatmania](https://en.wikipedia.org/wiki/Beatmania "Wikipedia")*.
+**Kontroller Beatmania** adalah sebuah tipe dari kontroller gim yang cocok digunakan pada seri game *[Beatmania](https://en.wikipedia.org/wiki/Beatmania)*.
 
 Karena sifatnya, kontroller Beatmania paling sering digunakan sebagai perangkat input di [osu!mania](/wiki/Game_mode/osu!mania).
 

@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2014 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2014** (***RDOC 2014***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273). It was the first installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2014** (***RDOC 2014***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273). It was the first instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -21,11 +21,11 @@ The **Royal Danish osu!Cup 2014** (***RDOC 2014***) was a Danish 1v1 double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 8 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
-| *4th place* | 2 months of osu!supporter tag |
-| *5-6th place* | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 8 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
+| *4th place* | 2 months of osu!supporter |
+| *5-6th place* | 1 month of osu!supporter |
 
 ## Organisation
 
@@ -34,7 +34,7 @@ The Royal Danish osu!Cup 2014 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273) |
-| Map selector | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Heibel](https://osu.ppy.sh/users/983000) |
+| Mappool selector | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Heibel](https://osu.ppy.sh/users/983000) |
 | Referee | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Heibel](https://osu.ppy.sh/users/983000) |
 | Other helpers | ![][flag_DK] [Vocalover](https://osu.ppy.sh/users/2281840), ![][flag_SE] [Kotayo](https://osu.ppy.sh/users/1730025), ![][flag_DK] [PlasticSmoothie](https://osu.ppy.sh/users/296565) |
 | Designer | ![][flag_DK] [Nickyeh](https://osu.ppy.sh/users/2314944) |
@@ -97,95 +97,95 @@ This competition has come to an end and resulted in the following podium:
 ### Sunday
 
 - NoMod
-  - [Hommarju feat. R.Cena - Chousai Kenbo Sengen \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#osu/99342)
-  - [Hanatan - Kimi no Kiseki \[Insane\]](https://osu.ppy.sh/beatmapsets/80624#osu/224235)
-  - [The Quick Brown Fox - Big Money \[$100\]](https://osu.ppy.sh/beatmapsets/101766#osu/272026)
-  - [U - Kansha Kangeki \[Insane\]](https://osu.ppy.sh/beatmapsets/62736#osu/186428)
-  - [Akita Neru - Gotya Gotya Uruse\~! \[Insane\]](https://osu.ppy.sh/beatmapsets/22182#osu/76638)
-  - [LeaF - Calamity Fortune \[SCV's Insane\]](https://osu.ppy.sh/beatmapsets/96103#osu/261725)
+  1. [Hommarju feat. R.Cena - Chousai Kenbo Sengen \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#osu/99342)
+  2. [Hanatan - Kimi no Kiseki \[Insane\]](https://osu.ppy.sh/beatmapsets/80624#osu/224235)
+  3. [The Quick Brown Fox - Big Money \[$100\]](https://osu.ppy.sh/beatmapsets/101766#osu/272026)
+  4. [U - Kansha Kangeki \[Insane\]](https://osu.ppy.sh/beatmapsets/62736#osu/186428)
+  5. [Akita Neru - Gotya Gotya Uruse\~! \[Insane\]](https://osu.ppy.sh/beatmapsets/22182#osu/76638)
+  6. [LeaF - Calamity Fortune \[SCV's Insane\]](https://osu.ppy.sh/beatmapsets/96103#osu/261725)
 - Hidden
-  - [Hanatan - Shiwa \[Insane\]](https://osu.ppy.sh/beatmapsets/130704#osu/329967)
-  - [Harada Hitomi, Kayano Ai & Ogura Yui - Maware! Setsugekka (TV Size) \[Insane\]](https://osu.ppy.sh/beatmapsets/122658#osu/314170)
-  - [Yousei Teikoku - Kuusou Mesorogiwi \[Insane\]](https://osu.ppy.sh/beatmapsets/39031#osu/124701)
+  1. [Hanatan - Shiwa \[Insane\]](https://osu.ppy.sh/beatmapsets/130704#osu/329967)
+  2. [Harada Hitomi, Kayano Ai & Ogura Yui - Maware! Setsugekka (TV Size) \[Insane\]](https://osu.ppy.sh/beatmapsets/122658#osu/314170)
+  3. [Yousei Teikoku - Kuusou Mesorogiwi \[Insane\]](https://osu.ppy.sh/beatmapsets/39031#osu/124701)
 - HardRock
-  - [yanaginagi - Killer Song \[Insane\]](https://osu.ppy.sh/beatmapsets/46765#osu/145442)
-  - [Ginsaku - Iroha Uta \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/48801#osu/159780)
-  - [Kozato - 45nen no Yukizakura \[Another\]](https://osu.ppy.sh/beatmapsets/50771#osu/155930)
+  1. [yanaginagi - Killer Song \[Insane\]](https://osu.ppy.sh/beatmapsets/46765#osu/145442)
+  2. [Ginsaku - Iroha Uta \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/48801#osu/159780)
+  3. [Kozato - 45nen no Yukizakura \[Another\]](https://osu.ppy.sh/beatmapsets/50771#osu/155930)
 - DoubleTime
-  - [Haruna Luna - Overfly \[Natsu's Insane\]](https://osu.ppy.sh/beatmapsets/85812#osu/235949)
-  - [Coldplay - Paradise \[Collab\]](https://osu.ppy.sh/beatmapsets/59619#osu/178614)
-  - [8#Prince - fake doll \[Fake\]](https://osu.ppy.sh/beatmapsets/68036#osu/197189)
+  1. [Haruna Luna - Overfly \[Natsu's Insane\]](https://osu.ppy.sh/beatmapsets/85812#osu/235949)
+  2. [Coldplay - Paradise \[Collab\]](https://osu.ppy.sh/beatmapsets/59619#osu/178614)
+  3. [8#Prince - fake doll \[Fake\]](https://osu.ppy.sh/beatmapsets/68036#osu/197189)
 - FreeMod
-  - [Leftymonster - START \[Finish\]](https://osu.ppy.sh/beatmapsets/70102#osu/201700)
-  - [Yuyoyuppe - Reon \[Insane\]](https://osu.ppy.sh/beatmapsets/55980#osu/244119)
-  - [yuikonnu - Yakimochi no Kotae -another story- \[Insane\]](https://osu.ppy.sh/beatmapsets/93397#osu/252000)
-  - [B.o.B feat. Hayley Williams - Airplanes (Feint Remix) \[Insane\]](https://osu.ppy.sh/beatmapsets/83494#osu/230523)
+  1. [Leftymonster - START \[Finish\]](https://osu.ppy.sh/beatmapsets/70102#osu/201700)
+  2. [Yuyoyuppe - Reon \[Insane\]](https://osu.ppy.sh/beatmapsets/55980#osu/244119)
+  3. [yuikonnu - Yakimochi no Kotae -another story- \[Insane\]](https://osu.ppy.sh/beatmapsets/93397#osu/252000)
+  4. [B.o.B feat. Hayley Williams - Airplanes (Feint Remix) \[Insane\]](https://osu.ppy.sh/beatmapsets/83494#osu/230523)
 - Tiebreaker
-  - **[Utagumi Setsugekka - Yumemi Sunrise \[Insane\]](https://osu.ppy.sh/beatmapsets/132312#osu/338862)**
+  1. **[Utagumi Setsugekka - Yumemi Sunrise \[Insane\]](https://osu.ppy.sh/beatmapsets/132312#osu/338862)**
 
 ### Saturday
 
 - NoMod
-  - [Lon - Yuru Fuwa Jukai Girl \[Insane\]](https://osu.ppy.sh/beatmapsets/50462#osu/155064)
-  - [Liberatus - Doll's Garden \[Another\]](https://osu.ppy.sh/beatmapsets/82072#osu/227347)
-  - [La Cataline - Helical (remix) \[Insane\]](https://osu.ppy.sh/beatmapsets/95716#osu/256892)
-  - [kors k feat. Furukawa Mirin - Drive Me Crazy \[Another\]](https://osu.ppy.sh/beatmapsets/65950#osu/192697)
-  - [Wotamin - Gigantic O.T.N \[SCV's Insane\]](https://osu.ppy.sh/beatmapsets/80214#osu/225301)
-  - [Umetora - Ifuudoudou \[Insane\]](https://osu.ppy.sh/beatmapsets/84023#osu/231825)
+  1. [Lon - Yuru Fuwa Jukai Girl \[Insane\]](https://osu.ppy.sh/beatmapsets/50462#osu/155064)
+  2. [Liberatus - Doll's Garden \[Another\]](https://osu.ppy.sh/beatmapsets/82072#osu/227347)
+  3. [La Cataline - Helical (remix) \[Insane\]](https://osu.ppy.sh/beatmapsets/95716#osu/256892)
+  4. [kors k feat. Furukawa Mirin - Drive Me Crazy \[Another\]](https://osu.ppy.sh/beatmapsets/65950#osu/192697)
+  5. [Wotamin - Gigantic O.T.N \[SCV's Insane\]](https://osu.ppy.sh/beatmapsets/80214#osu/225301)
+  6. [Umetora - Ifuudoudou \[Insane\]](https://osu.ppy.sh/beatmapsets/84023#osu/231825)
 - Hidden
-  - [Anamanaguchi - STILL SPLODIN' THO (Interlude) \[Kyshiro's Insane\]](https://osu.ppy.sh/beatmapsets/104151#osu/274200)
-  - [Evoluutiomies - Suklaapallit \[Mukun Suklaapallit\]](https://osu.ppy.sh/beatmapsets/24372#osu/82962)
-  - [Masayoshi Minoshima - Necro Fantasia \[Insane\]](https://osu.ppy.sh/beatmapsets/89810#osu/243983)
+  1. [Anamanaguchi - STILL SPLODIN' THO (Interlude) \[Kyshiro's Insane\]](https://osu.ppy.sh/beatmapsets/104151#osu/274200)
+  2. [Evoluutiomies - Suklaapallit \[Mukun Suklaapallit\]](https://osu.ppy.sh/beatmapsets/24372#osu/82962)
+  3. [Masayoshi Minoshima - Necro Fantasia \[Insane\]](https://osu.ppy.sh/beatmapsets/89810#osu/243983)
 - HardRock
-  - [An - artcore JINJA \[Hard\]](https://osu.ppy.sh/beatmapsets/114987#osu/297410)
-  - [Harry - Earth day \[TVO's Hard day\]](https://osu.ppy.sh/beatmapsets/65228#osu/194498)
-  - [mafumafu & amatsuki - Kasyokusei:Idol Syoukougun \[Insane\]](https://osu.ppy.sh/beatmapsets/76366#osu/215181)
+  1. [An - artcore JINJA \[Hard\]](https://osu.ppy.sh/beatmapsets/114987#osu/297410)
+  2. [Harry - Earth day \[TVO's Hard day\]](https://osu.ppy.sh/beatmapsets/65228#osu/194498)
+  3. [mafumafu & amatsuki - Kasyokusei:Idol Syoukougun \[Insane\]](https://osu.ppy.sh/beatmapsets/76366#osu/215181)
 - DoubleTime
-  - [Gunther - I'm Not Justin Bieber B\*\*ch \[Hard\]](https://osu.ppy.sh/beatmapsets/139605#osu/348705)
-  - [yanaginagi - Hero no Jouken \[Hero\]](https://osu.ppy.sh/beatmapsets/96917#osu/259463)
-  - [KOKIA - Fate \[Twin Blades\]](https://osu.ppy.sh/beatmapsets/55606#osu/168612)
+  1. [Gunther - I'm Not Justin Bieber B\*\*ch \[Hard\]](https://osu.ppy.sh/beatmapsets/139605#osu/348705)
+  2. [yanaginagi - Hero no Jouken \[Hero\]](https://osu.ppy.sh/beatmapsets/96917#osu/259463)
+  3. [KOKIA - Fate \[Twin Blades\]](https://osu.ppy.sh/beatmapsets/55606#osu/168612)
 - FreeMod
-  - [ALiCE'S EMOTiON - LUNA \[Lunatic\]](https://osu.ppy.sh/beatmapsets/47124#osu/152180)
-  - [Linked Horizon - Guren no Yumiya (TV Size) \[Insane\]](https://osu.ppy.sh/beatmapsets/87630#osu/239265)
-  - [Annabel - Signal Graph (TV Size) \[Insane\]](https://osu.ppy.sh/beatmapsets/55007#osu/188891)
-  - [Mamemi - -Rayrain- \[Lunatic\]](https://osu.ppy.sh/beatmapsets/27212#osu/97609)
+  1. [ALiCE'S EMOTiON - LUNA \[Lunatic\]](https://osu.ppy.sh/beatmapsets/47124#osu/152180)
+  2. [Linked Horizon - Guren no Yumiya (TV Size) \[Insane\]](https://osu.ppy.sh/beatmapsets/87630#osu/239265)
+  3. [Annabel - Signal Graph (TV Size) \[Insane\]](https://osu.ppy.sh/beatmapsets/55007#osu/188891)
+  4. [Mamemi - -Rayrain- \[Lunatic\]](https://osu.ppy.sh/beatmapsets/27212#osu/97609)
 - Tiebreaker
-  - **[ClariS - Colorful \[Insane\]](https://osu.ppy.sh/beatmapsets/134008#osu/336295)**
+  1. **[ClariS - Colorful \[Insane\]](https://osu.ppy.sh/beatmapsets/134008#osu/336295)**
 
 ### Friday
 
 - NoMod
-  - [Satou Shizuku - Growing! \[Gu's Hard\]](https://osu.ppy.sh/beatmapsets/77928#osu/218551)
-  - [Uchida Maaya - -Across the line- \[Hard\]](https://osu.ppy.sh/beatmapsets/118429#osu/304445)
-  - [Nanahira - Fukkura Fuwaama Cake \[Normal\]](https://osu.ppy.sh/beatmapsets/43581#osu/137798)
-  - [Nano – Now or never \[Hard\]](https://osu.ppy.sh/beatmapsets/51755#osu/163977)
-  - [Yanaginagi – Muteki no soldier \[Ra's Hard\]](https://osu.ppy.sh/beatmapsets/52221#osu/184680)
-  - [Ellie Goulding - Burn \[Hard\]](https://osu.ppy.sh/beatmapsets/118166#osu/303987)
+  1. [Satou Shizuku - Growing! \[Gu's Hard\]](https://osu.ppy.sh/beatmapsets/77928#osu/218551)
+  2. [Uchida Maaya - -Across the line- \[Hard\]](https://osu.ppy.sh/beatmapsets/118429#osu/304445)
+  3. [Nanahira - Fukkura Fuwaama Cake \[Normal\]](https://osu.ppy.sh/beatmapsets/43581#osu/137798)
+  4. [Nano – Now or never \[Hard\]](https://osu.ppy.sh/beatmapsets/51755#osu/163977)
+  5. [Yanaginagi – Muteki no soldier \[Ra's Hard\]](https://osu.ppy.sh/beatmapsets/52221#osu/184680)
+  6. [Ellie Goulding - Burn \[Hard\]](https://osu.ppy.sh/beatmapsets/118166#osu/303987)
 - Hidden
-  - [DJ YOSHITAKA - Evans -prototype- \[Standard\]](https://osu.ppy.sh/beatmapsets/62205#osu/206338)
-  - [Shimamiya Eiko - Higurashi no Naku Koro ni (TV Size) \[Hard\]](https://osu.ppy.sh/beatmapsets/67202#osu/195419)
-  - [Yousei Teikoku - filament (TV Size) \[Lolcubes' Hard\]](https://osu.ppy.sh/beatmapsets/43560#osu/137326)
+  1. [DJ YOSHITAKA - Evans -prototype- \[Standard\]](https://osu.ppy.sh/beatmapsets/62205#osu/206338)
+  2. [Shimamiya Eiko - Higurashi no Naku Koro ni (TV Size) \[Hard\]](https://osu.ppy.sh/beatmapsets/67202#osu/195419)
+  3. [Yousei Teikoku - filament (TV Size) \[Lolcubes' Hard\]](https://osu.ppy.sh/beatmapsets/43560#osu/137326)
 - HardRock
-  - [Evoluutiomies - Suklaapallit \[Mansikkapallit\]](https://osu.ppy.sh/beatmapsets/24372#osu/82885)
-  - [Ichigo - Kuoria \[Hard\]](https://osu.ppy.sh/beatmapsets/87170#osu/263269)
-  - [nano.RIPE - Real World (TV Size) \[Hard\]](https://osu.ppy.sh/beatmapsets/69328#osu/200125)
+  1. [Evoluutiomies - Suklaapallit \[Mansikkapallit\]](https://osu.ppy.sh/beatmapsets/24372#osu/82885)
+  2. [Ichigo - Kuoria \[Hard\]](https://osu.ppy.sh/beatmapsets/87170#osu/263269)
+  3. [nano.RIPE - Real World (TV Size) \[Hard\]](https://osu.ppy.sh/beatmapsets/69328#osu/200125)
 - DoubleTime
-  - [DJ THT meets Scarlet - Live 2 Dance (Nightcore Mix) \[Normal\]](https://osu.ppy.sh/beatmapsets/79363#osu/221510)
-  - [Hanazawa Kana - Renai Circulation (Short Ver.) \[JoJo's Normal\]](https://osu.ppy.sh/beatmapsets/27509#osu/133681)
-  - [Hayaya-P - Ping-Pong Dash! \[Normal\]](https://osu.ppy.sh/beatmapsets/58051#osu/183362)
+  1. [DJ THT meets Scarlet - Live 2 Dance (Nightcore Mix) \[Normal\]](https://osu.ppy.sh/beatmapsets/79363#osu/221510)
+  2. [Hanazawa Kana - Renai Circulation (Short Ver.) \[JoJo's Normal\]](https://osu.ppy.sh/beatmapsets/27509#osu/133681)
+  3. [Hayaya-P - Ping-Pong Dash! \[Normal\]](https://osu.ppy.sh/beatmapsets/58051#osu/183362)
 - FreeMod
-  - [Cave Story (LEAF XCEED Music Division) – Imminent Chaos \[Hard\]](https://osu.ppy.sh/beatmapsets/102629#osu/271034)
-  - [nano - No pain, No game \[Hard\]](https://osu.ppy.sh/beatmapsets/60214#osu/180428)
-  - [ZUN - Hartmann's Youkai Girl \[Harvisp\]](https://osu.ppy.sh/beatmapsets/25062#osu/85986)
-  - [18 narco & capo - R.I.P \[Hard\]](https://osu.ppy.sh/beatmapsets/15771#osu/56909)
+  1. [Cave Story (LEAF XCEED Music Division) – Imminent Chaos \[Hard\]](https://osu.ppy.sh/beatmapsets/102629#osu/271034)
+  2. [nano - No pain, No game \[Hard\]](https://osu.ppy.sh/beatmapsets/60214#osu/180428)
+  3. [ZUN - Hartmann's Youkai Girl \[Harvisp\]](https://osu.ppy.sh/beatmapsets/25062#osu/85986)
+  4. [18 narco & capo - R.I.P \[Hard\]](https://osu.ppy.sh/beatmapsets/15771#osu/56909)
 - Tiebreaker
-  - **[Nero's Day At Disneyland - No Money Down, Low Monthly Payments \[Hard\]](https://osu.ppy.sh/beatmapsets/111825#osu/307285)**
+  1. **[Nero's Day At Disneyland - No Money Down, Low Monthly Payments \[Hard\]](https://osu.ppy.sh/beatmapsets/111825#osu/307285)**
 
 ## Match results
 
 ### Grand Finals
 
-Sunday, 2014-02-23:
+Sunday, 23 February 2014:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -194,7 +194,7 @@ Sunday, 2014-02-23:
 
 ### Finals
 
-Saturday, 2014-02-22:
+Saturday, 22 February 2014:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -202,7 +202,7 @@ Saturday, 2014-02-22:
 | LB | **PlasticSmoothie** ![][flag_DK] | **4** | 3 | ![][flag_DK] Gupply |
 | UB | **Tropians** ![][flag_DK] | **4** | 1 | ![][flag_DK] Broniel |
 
-Sunday, 2014-02-23:
+Sunday, 23 February 2014:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -210,7 +210,7 @@ Sunday, 2014-02-23:
 
 ### Semifinals
 
-Saturday, 2014-02-22:
+Saturday, 22 February 2014:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -225,7 +225,7 @@ Saturday, 2014-02-22:
 
 ### Quarterfinals
 
-Friday, 2014-02-21:
+Friday, 21 February 2014:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -248,7 +248,7 @@ Friday, 2014-02-21:
 
 ### Round of 16
 
-Friday, 2014-02-21:
+Friday, 21 February 2014:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -270,7 +270,7 @@ Friday, 2014-02-21:
 
 ### Round of 32
 
-Friday, 2014-02-21:
+Friday, 21 February 2014:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -290,7 +290,7 @@ Friday, 2014-02-21:
 | UB | **Gupply** ![][flag_DK] | **3** | 0 | ![][flag_DK] Tenasow |
 | UB | Karrusel ![][flag_DK] | 1 | **3** | ![][flag_DK] **Kozhler** |
 
-Tonarionototoro received a bye into Round of 16 since winthermens couldnt play.
+Tonarionototoro received a bye into Round of 16, since winthermens couldn't play.
 
 ## Ruleset
 

@@ -8,13 +8,11 @@ tags:
 
 # UK osu!standard tournament!
 
-![OUKT 1 Banner](img/logo.png)
+![OUKT 1 banner](img/logo.png)
 
-## Introduction
+The **UK osu!standard tournament!** (***OUKT1***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the first iteration of the **osu! UK Tournament** (***OUKT***) series.
 
-The **UK osu!standard tournament!** (***OUKT1***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 1st iteration of the **osu! UK Tournament** (***OUKT***) series.
-
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -30,8 +28,8 @@ The **UK osu!standard tournament!** (***OUKT1***) was a ![][flag_GB] United King
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter |
 
 ## Organisation
 
@@ -40,13 +38,13 @@ The OUKT1 was run by various community members
 | Position | Member(s) |
 | :-- | :-- |
 | Organizer | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
-| Map Selectors | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) |
-| Referees | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_US] [Rinnou Kouriri](https://osu.ppy.sh/users/1518370) |
+| Mappool selector | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) |
+| Referee | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_US] [Rinnou Kouriri](https://osu.ppy.sh/users/1518370) |
 
 ## Links
 
 - [Fourm thread](https://osu.ppy.sh/community/forums/topics/165077)
-- [Challonge page](https://challonge.com/UKosu "Challonge")
+- [Challonge page](https://challonge.com/UKosu)
 
 ## Participants
 
@@ -71,120 +69,118 @@ The OUKT1 was run by various community members
 
 **[Download the mappack here! (98 MB)](https://drive.google.com/open?id=11lIJSeyRMWucvYUK_RGKCC8aX8De62gf)**
 
-- Nomod
-  - [Yousei Teikoku - Wahrheit (Saten) \[Saten\]](https://osu.ppy.sh/beatmapsets/53923#osu/164183)
-  - [Awake - Supernova (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmapsets/42909#osu/138008)
-  - [Ryu\* - Mind Mapping (kors k mix) (wring) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/47199#osu/146583)
-  - [sakuzyo - AXION (rrtyui) \[KING\]](https://osu.ppy.sh/beatmapsets/41693#osu/131579)
-  - [USAO - ZED (Mr Color) \[Znother\]](https://osu.ppy.sh/beatmapsets/60115#osu/246748)
-  - [Shiraishi - Shinsekai (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/24634#osu/83674)
-  - [Ryu\* Vs. Sota - Go Beyond!! (yongtw123) \[Sp's Darkness\]](https://osu.ppy.sh/beatmapsets/19705#osu/84398)
-  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (7odoa) \[Insane\]](https://osu.ppy.sh/beatmapsets/30485#osu/100627)
+- NoMod
+  1. [Yousei Teikoku - Wahrheit (Saten) \[Saten\]](https://osu.ppy.sh/beatmapsets/53923#osu/164183)
+  2. [Awake - Supernova (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmapsets/42909#osu/138008)
+  3. [Ryu\* - Mind Mapping (kors k mix) (wring) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/47199#osu/146583)
+  4. [sakuzyo - AXION (rrtyui) \[KING\]](https://osu.ppy.sh/beatmapsets/41693#osu/131579)
+  5. [USAO - ZED (Mr Color) \[Znother\]](https://osu.ppy.sh/beatmapsets/60115#osu/246748)
+  6. [Shiraishi - Shinsekai (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/24634#osu/83674)
+  7. [Ryu\* Vs. Sota - Go Beyond!! (yongtw123) \[Sp's Darkness\]](https://osu.ppy.sh/beatmapsets/19705#osu/84398)
+  8. [Inspector K - Disconnected Hardkore (CanBlaster Remix) (7odoa) \[Insane\]](https://osu.ppy.sh/beatmapsets/30485#osu/100627)
 - Hidden
-  - [Renard - Blue Night (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmapsets/31333#osu/116006)
-  - [Pendulum - The Island (MaxNRG Remix) (Tshemmp) \[Insane\]](https://osu.ppy.sh/beatmapsets/48284#osu/149388)
+  1. [Renard - Blue Night (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmapsets/31333#osu/116006)
+  2. [Pendulum - The Island (MaxNRG Remix) (Tshemmp) \[Insane\]](https://osu.ppy.sh/beatmapsets/48284#osu/149388)
 - HardRock
-  - [Dio ft. Sef - Tijdmachine (GladiOol) \[Lesjuh! '11\]](https://osu.ppy.sh/beatmapsets/6997#osu/129875)
-  - [Wotamin - Gigantic O.T.N (Star Stream) \[Guy's Extra\]](https://osu.ppy.sh/beatmapsets/80214#osu/226279)
+  1. [Dio ft. Sef - Tijdmachine (GladiOol) \[Lesjuh! '11\]](https://osu.ppy.sh/beatmapsets/6997#osu/129875)
+  2. [Wotamin - Gigantic O.T.N (Star Stream) \[Guy's Extra\]](https://osu.ppy.sh/beatmapsets/80214#osu/226279)
 - DoubleTime
-  - [Shihori - Magic Girl !! (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/53519#osu/163054)
-  - [07th Expansion - dreamenddischarger (Regou) \[Insane\]](https://osu.ppy.sh/beatmapsets/29886#osu/100023)
+  1. [Shihori - Magic Girl !! (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/53519#osu/163054)
+  2. [07th Expansion - dreamenddischarger (Regou) \[Insane\]](https://osu.ppy.sh/beatmapsets/29886#osu/100023)
 - Tiebreaker
-  - **[yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](https://osu.ppy.sh/beatmapsets/52221#osu/182001)**
+  1. **[yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](https://osu.ppy.sh/beatmapsets/52221#osu/182001)**
 
 ### Semifinals
 
 **[Download the mappack here! (149 MB)](https://drive.google.com/open?id=1jqVKiYmtOHIwlLJE1JMdWX9kcvnA4oeY)**
 
-- Nomod
-  - [Celldweller - So Long Sentiment (Metal Remix) (Kei) \[Snep&Kei's Sentiment\]](https://osu.ppy.sh/beatmapsets/43415#osu/139240)
-  - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (Aleks719) \[Insane\]](https://osu.ppy.sh/beatmapsets/65853#osu/192508)
-  - [AU - Infinite of Nuclear Fusion (OnosakiHito) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/35211#osu/291284)
-  - [Lapfox Trax feat. guilhox - Lapfoxed Forever (Blue Dragon) \[Nogard\]](https://osu.ppy.sh/beatmapsets/59521#osu/178353)
-  - [Akiakane - FlashBack (Kiiwa) \[Insane\]](https://osu.ppy.sh/beatmapsets/54672#osu/166126)
-  - [REDALiCE Feat. Ayumi Nomiya - Little Star (LKs) \[Extra\]](https://osu.ppy.sh/beatmapsets/81051#osu/247241)
-  - [Memme - BSPower Explosion (AngelHoney) \[Extra\]](https://osu.ppy.sh/beatmapsets/44967#osu/140665)
+- NoMod
+  1. [Celldweller - So Long Sentiment (Metal Remix) (Kei) \[Snep&Kei's Sentiment\]](https://osu.ppy.sh/beatmapsets/43415#osu/139240)
+  2. [Blue Stahli - Shotgun Senorita (Zardonic Remix) (Aleks719) \[Insane\]](https://osu.ppy.sh/beatmapsets/65853#osu/192508)
+  3. [AU - Infinite of Nuclear Fusion (OnosakiHito) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/35211#osu/291284)
+  4. [Lapfox Trax feat. guilhox - Lapfoxed Forever (Blue Dragon) \[Nogard\]](https://osu.ppy.sh/beatmapsets/59521#osu/178353)
+  5. [Akiakane - FlashBack (Kiiwa) \[Insane\]](https://osu.ppy.sh/beatmapsets/54672#osu/166126)
+  6. [REDALiCE Feat. Ayumi Nomiya - Little Star (LKs) \[Extra\]](https://osu.ppy.sh/beatmapsets/81051#osu/247241)
+  7. [Memme - BSPower Explosion (AngelHoney) \[Extra\]](https://osu.ppy.sh/beatmapsets/44967#osu/140665)
 - Hidden
-  - [B.o.B feat. Hayley Williams - Airplanes (Feint Remix) (Snepif) \[Shooting Stars\]](https://osu.ppy.sh/beatmapsets/83494#osu/230523)
-  - [PESS vs t.A.T.u. - All The Things She Said (DnB Remix) (spboxer3) \[Stressboxer\]](https://osu.ppy.sh/beatmapsets/73185#osu/295985)
+  1. [B.o.B feat. Hayley Williams - Airplanes (Feint Remix) (Snepif) \[Shooting Stars\]](https://osu.ppy.sh/beatmapsets/83494#osu/230523)
+  2. [PESS vs t.A.T.u. - All The Things She Said (DnB Remix) (spboxer3) \[Stressboxer\]](https://osu.ppy.sh/beatmapsets/73185#osu/295985)
 - HardRock
-  - [Bomfunk MC's - Freestyler (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/35629#osu/115352)
-  - [DM Ashura - Classical Insanity (Louis Cyphre) \[Presto\]](https://osu.ppy.sh/beatmapsets/79149#osu/221677)
+  1. [Bomfunk MC's - Freestyler (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/35629#osu/115352)
+  2. [DM Ashura - Classical Insanity (Louis Cyphre) \[Presto\]](https://osu.ppy.sh/beatmapsets/79149#osu/221677)
 - DoubleTime
-  - [Train - 50 Ways to Say Goodbye (mancusojuanmattos) \[Insane\]](https://osu.ppy.sh/beatmapsets/92893#osu/250926)
-  - [Yoomiii - Rhythm Of Love (Jemmmmy) \[Insane\]](https://osu.ppy.sh/beatmapsets/102071#osu/269963)
+  1. [Train - 50 Ways to Say Goodbye (mancusojuanmattos) \[Insane\]](https://osu.ppy.sh/beatmapsets/92893#osu/250926)
+  2. [Yoomiii - Rhythm Of Love (Jemmmmy) \[Insane\]](https://osu.ppy.sh/beatmapsets/102071#osu/269963)
 - Tiebreaker
-  - **[Shintani Ryoko - Wonderful World (Laurier) \[Insane\]](https://osu.ppy.sh/beatmapsets/45306#osu/141525)**
+  1. **[Shintani Ryoko - Wonderful World (Laurier) \[Insane\]](https://osu.ppy.sh/beatmapsets/45306#osu/141525)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (86 MB)](https://drive.google.com/open?id=1rulzK-5qWuuDHvVBPXcaFOPtUrF4sC6q)**
 
-- Nomod
-  - [Saiya - Remote Control (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/53857#osu/164020)
-  - [Pizuya's Cell x MyonMyon - Romantic Children (Frill) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/18009#osu/68431)
-  - [Furries in a Blender - Ridorii (-Lennox-) \[Insane\]](https://osu.ppy.sh/beatmapsets/29727#osu/98496)
-  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/28107#osu/93842)
-  - [Renard - Da Nu Nuttah (GamerX4life) \[Nogard\]](https://osu.ppy.sh/beatmapsets/62665#osu/205282)
-  - [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/40368#osu/131009)
-  - [Ryu\* Vs. L.E.D.-G - PARADISE LOST (Katty Pie) \[Another\]](https://osu.ppy.sh/beatmapsets/70046#osu/201570)
+- NoMod
+  1. [Saiya - Remote Control (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/53857#osu/164020)
+  2. [Pizuya's Cell x MyonMyon - Romantic Children (Frill) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/18009#osu/68431)
+  3. [Furries in a Blender - Ridorii (-Lennox-) \[Insane\]](https://osu.ppy.sh/beatmapsets/29727#osu/98496)
+  4. [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/28107#osu/93842)
+  5. [Renard - Da Nu Nuttah (GamerX4life) \[Nogard\]](https://osu.ppy.sh/beatmapsets/62665#osu/205282)
+  6. [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/40368#osu/131009)
+  7. [Ryu\* Vs. L.E.D.-G - PARADISE LOST (Katty Pie) \[Another\]](https://osu.ppy.sh/beatmapsets/70046#osu/201570)
 - Hidden
-  - [Big Giant Circles feat. some1namedjeff - Thunderstruck (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/73267#osu/208776)
-  - [kors k - smooooch (ampzz) \[Another\]](https://osu.ppy.sh/beatmapsets/64535#osu/189861)
+  1. [Big Giant Circles feat. some1namedjeff - Thunderstruck (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/73267#osu/208776)
+  2. [kors k - smooooch (ampzz) \[Another\]](https://osu.ppy.sh/beatmapsets/64535#osu/189861)
 - HardRock
-  - [Fear, and Loathing in Las Vegas - Take Me Out!! ([ Sana ]) \[Insane\]](https://osu.ppy.sh/beatmapsets/115358#osu/298176)
-  - [Masayoshi Minoshima - Necro Fantasia (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmapsets/89810#osu/243983)
+  1. [Fear, and Loathing in Las Vegas - Take Me Out!! ([ Sana ]) \[Insane\]](https://osu.ppy.sh/beatmapsets/115358#osu/298176)
+  2. [Masayoshi Minoshima - Necro Fantasia (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmapsets/89810#osu/243983)
 - DoubleTime
-  - [07th Expansion - goldenslaughterer (La Cataline) \[Hard\]](https://osu.ppy.sh/beatmapsets/37729#taiko/121197)
-  - [Lily - Fatal Moment (Kochiya Sanae) \[Insane\]](https://osu.ppy.sh/beatmapsets/21884#osu/76746)
+  1. [07th Expansion - goldenslaughterer (La Cataline) \[Hard\]](https://osu.ppy.sh/beatmapsets/37729#taiko/121197)
+  2. [Lily - Fatal Moment (Kochiya Sanae) \[Insane\]](https://osu.ppy.sh/beatmapsets/21884#osu/76746)
 - Tiebreaker
-  - **[Kagamine Rin - Abstract Nonsense (SapphireGhost) \[Suicide\]](https://osu.ppy.sh/beatmapsets/39580#taiko/126062)**
+  1. **[Kagamine Rin - Abstract Nonsense (SapphireGhost) \[Suicide\]](https://osu.ppy.sh/beatmapsets/39580#taiko/126062)**
 
 ### Round of 16
 
 **[Download the mappack here! (114 MB)](https://drive.google.com/open?id=14X9ntsTRQMbxl7zeUPlCQc2UVYQn9PpG)**
 
-- Nomod
-  - [LeaF - Calamity Fortune (Flower) \[SCV's Lunatic\]](https://osu.ppy.sh/beatmapsets/96103#osu/261725)
-  - [Jesus-P - Death Should Not Have Taken Thee! (cheesiest) \[Insane\]](https://osu.ppy.sh/beatmapsets/87119#osu/238128)
-  - [guna with team kyukkyu - subconsciousness (Charles445) \[Another\]](https://osu.ppy.sh/beatmapsets/45205#osu/150892)
-  - [Floxytek - Opera (-Lennox-) \[Insane\]](https://osu.ppy.sh/beatmapsets/25985#osu/87923)
-  - [ALiCE'S EMOTiON - LUNA (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/47124#osu/152180)
-  - [Spriggan - Valkyrie Dimension (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/45935#osu/143189)
+- NoMod
+  1. [LeaF - Calamity Fortune (Flower) \[SCV's Lunatic\]](https://osu.ppy.sh/beatmapsets/96103#osu/261725)
+  2. [Jesus-P - Death Should Not Have Taken Thee! (cheesiest) \[Insane\]](https://osu.ppy.sh/beatmapsets/87119#osu/238128)
+  3. [guna with team kyukkyu - subconsciousness (Charles445) \[Another\]](https://osu.ppy.sh/beatmapsets/45205#osu/150892)
+  4. [Floxytek - Opera (-Lennox-) \[Insane\]](https://osu.ppy.sh/beatmapsets/25985#osu/87923)
+  5. [ALiCE'S EMOTiON - LUNA (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/47124#osu/152180)
+  6. [Spriggan - Valkyrie Dimension (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/45935#osu/143189)
 - Hidden
-  - [Tatsh - HEAVENLY MOON (Dark Fang) \[Extreme\]](https://osu.ppy.sh/beatmapsets/46706#osu/150621)
-  - [MuryokuP - Catastrophe (meiikyuu) \[Cataclysm\]](https://osu.ppy.sh/beatmapsets/72740#osu/207659)
+  1. [Tatsh - HEAVENLY MOON (Dark Fang) \[Extreme\]](https://osu.ppy.sh/beatmapsets/46706#osu/150621)
+  2. [MuryokuP - Catastrophe (meiikyuu) \[Cataclysm\]](https://osu.ppy.sh/beatmapsets/72740#osu/207659)
 - HardRock
-  - [ONE OK ROCK - The Beginning (Kuria) \[Insane\]](https://osu.ppy.sh/beatmapsets/71561#osu/205022)
-  - [nano - Exist (LunarSakuya) \[Existence\]](https://osu.ppy.sh/beatmapsets/70257#osu/202072)
+  1. [ONE OK ROCK - The Beginning (Kuria) \[Insane\]](https://osu.ppy.sh/beatmapsets/71561#osu/205022)
+  2. [nano - Exist (LunarSakuya) \[Existence\]](https://osu.ppy.sh/beatmapsets/70257#osu/202072)
 - DoubleTime
-  - [Epik High - Fly (yeahyeahyeahhh) \[Fly\]](https://osu.ppy.sh/beatmapsets/56508#osu/170824)
-  - [Celldweller - The Best It's Gonna Get (Vass_Bass) \[Perfect-RJ\]](https://osu.ppy.sh/beatmapsets/36529#osu/135609)
+  1. [Epik High - Fly (yeahyeahyeahhh) \[Fly\]](https://osu.ppy.sh/beatmapsets/56508#osu/170824)
+  2. [Celldweller - The Best It's Gonna Get (Vass_Bass) \[Perfect-RJ\]](https://osu.ppy.sh/beatmapsets/36529#osu/135609)
 - Tiebreaker
-  - **[Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](https://osu.ppy.sh/beatmapsets/22276#osu/86324)**
+  1. **[Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](https://osu.ppy.sh/beatmapsets/22276#osu/86324)**
 
 ### Round of 32
 
-**[Download the mappack here! (132 MB)](link)**
-
-- Nomod
-  - [ONE OK ROCK - Answer is Near (Kuria) \[Insane\]](https://osu.ppy.sh/beatmapsets/63112#osu/186721)
-  - [NicoNicoDouga - Courage to tell a lie (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/46574#osu/144935)
-  - [Meiko - Leave The Lights On (KROT Remix) (Moway) \[Insane\]](https://osu.ppy.sh/beatmapsets/56633#osu/171126)
-  - [DJ Genericname - Dear You (Rue) \[Dear Rue\]](https://osu.ppy.sh/beatmapsets/43466#osu/136400)
-  - [Sakaue Nachi - Crazy Hot (Mythol) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/54289#osu/173567)
-  - [TOMOSUKE - Macuilxochitl (Charles445) \[Another\]](https://osu.ppy.sh/beatmapsets/43166#taiko/136664)
+- NoMod
+  1. [ONE OK ROCK - Answer is Near (Kuria) \[Insane\]](https://osu.ppy.sh/beatmapsets/63112#osu/186721)
+  2. [NicoNicoDouga - Courage to tell a lie (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/46574#osu/144935)
+  3. [Meiko - Leave The Lights On (KROT Remix) (Moway) \[Insane\]](https://osu.ppy.sh/beatmapsets/56633#osu/171126)
+  4. [DJ Genericname - Dear You (Rue) \[Dear Rue\]](https://osu.ppy.sh/beatmapsets/43466#osu/136400)
+  5. [Sakaue Nachi - Crazy Hot (Mythol) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/54289#osu/173567)
+  6. [TOMOSUKE - Macuilxochitl (Charles445) \[Another\]](https://osu.ppy.sh/beatmapsets/43166#taiko/136664)
 - Hidden
-  - [Linked Horizon - Guren no Yumiya (TV Size) (Kuria) \[Insane\]](https://osu.ppy.sh/beatmapsets/87630#taiko/239265)
-  - [Inoue Marina - Watashi no Ki-mo-chi (TV Size) (ampzz) \[Insane\]](https://osu.ppy.sh/beatmapsets/69347#osu/201560)
+  1. [Linked Horizon - Guren no Yumiya (TV Size) (Kuria) \[Insane\]](https://osu.ppy.sh/beatmapsets/87630#taiko/239265)
+  2. [Inoue Marina - Watashi no Ki-mo-chi (TV Size) (ampzz) \[Insane\]](https://osu.ppy.sh/beatmapsets/69347#osu/201560)
 - HardRock
-  - [Eguchi Takahiro - silver temple (LKs) \[Nemis' Insane\]](https://osu.ppy.sh/beatmapsets/59345#osu/181512)
-  - [96Neko - Paintings? Oh, yeah. (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/57393#osu/173015)
+  1. [Eguchi Takahiro - silver temple (LKs) \[Nemis' Insane\]](https://osu.ppy.sh/beatmapsets/59345#osu/181512)
+  2. [96Neko - Paintings? Oh, yeah. (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/57393#osu/173015)
 - DoubleTime
-  - [Muse - Starlight (Aleks719) \[Hard\]](https://osu.ppy.sh/beatmapsets/60159#osu/179947)
-  - [Girls' Generation - I GOT A BOY (Pink Agate) \[Hard\]](https://osu.ppy.sh/beatmapsets/72194#osu/206529)
+  1. [Muse - Starlight (Aleks719) \[Hard\]](https://osu.ppy.sh/beatmapsets/60159#osu/179947)
+  2. [Girls' Generation - I GOT A BOY (Pink Agate) \[Hard\]](https://osu.ppy.sh/beatmapsets/72194#osu/206529)
 - Tiebreaker
-  - **[Assertive Fluttershy - Boooring! (- N a n a k a -) \[Booo~ Party!\]](https://osu.ppy.sh/beatmapsets/77534#osu/217552)**
+  1. **[Assertive Fluttershy - Boooring! (- N a n a k a -) \[Booo~ Party!\]](https://osu.ppy.sh/beatmapsets/77534#osu/217552)**
 
 ## Match schedules and results
 
@@ -211,7 +207,7 @@ Saturday, 4 January 2014
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **4** | 1 | ![][flag_GB] Deathosaurus | |
-| ILikeMudkipz ![][flag_GB] | 0 | **1** | ![][flag_GB] **R a h a r u** | Forfeit |
+| ILikeMudkipz ![][flag_GB] | 0 | **1** | ![][flag_GB] **R a h a r u** | *forfeit* |
 
 ### Quaterfinals
 
@@ -220,7 +216,7 @@ Saturday, 21 December 2013
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **4** | 2 | ![][flag_GB] vidya | |
-| **Deathosaurus** ![][flag_GB] | **3** | 1 | ![][flag_GB] Starry- | Forfeit (physical problems) |
+| **Deathosaurus** ![][flag_GB] | **3** | 1 | ![][flag_GB] Starry- | *forfeit (physical problems)* |
 | **ILikeMudkipz** ![][flag_GB] | **4** | 2 | ![][flag_GB] Viremon | |
 | **R a h a r u** ![][flag_GB] | **4** | 2 | ![][flag_GB] PortalLife | |
 
@@ -232,11 +228,11 @@ Saturday, 14 December 2013
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] Raiku | |
 | destructor966 ![][flag_GB] | 0 | **3** | ![][flag_GB] **vidya** | |
-| jesus1412 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Deathosaurus** | Forfeit |
+| jesus1412 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Deathosaurus** | *forfeit* |
 | **Starry-** ![][flag_GB] | **3** | 1 | ![][flag_GB] \[Transcendence\] | |
-| **ILikeMudkipz** ![][flag_GB] | **1** | 0 | ![][flag_GB] Slvin | Forfeit |
+| **ILikeMudkipz** ![][flag_GB] | **1** | 0 | ![][flag_GB] Slvin | *forfeit* |
 | Cozzzy ![][flag_GB] | 2 | **3** | ![][flag_GB] **Viremon** | |
-| **R a h a r u** ![][flag_GB] | **1** | 0 | ![][flag_GB] Nyaristoru | Forfeit |
+| **R a h a r u** ![][flag_GB] | **1** | 0 | ![][flag_GB] Nyaristoru | *forfeit* |
 | Navi ![][flag_GB] | 2 | **3** | ![][flag_GB] **PortalLife** | |
 
 ### Round of 32
@@ -247,16 +243,16 @@ Saturday, 7 December 2013
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] Zarfots | |
 | **Raiku** ![][flag_GB] | **3** | 1 | ![][flag_GB] Mahiro Yasaka | |
-| Charleyzard ![][flag_GB] | 0 | **1** | ![][flag_GB] **destructor966** | Forfeit |
+| Charleyzard ![][flag_GB] | 0 | **1** | ![][flag_GB] **destructor966** | *forfeit* |
 | **vidya** ![][flag_GB] | **3** | 0 | ![][flag_GB] Just miku | |
 | **jesus1412** ![][flag_GB] | **3** | 0 | ![][flag_GB] EzLyn | |
 | **Deathosaurus** ![][flag_GB] | **3** | 0 | ![][flag_GB] Aaruen | |
-| **Starry-** ![][flag_GB] | **1** | 0 | ![][flag_GB] 3lliot | Forfeit |
+| **Starry-** ![][flag_GB] | **1** | 0 | ![][flag_GB] 3lliot | *forfeit* |
 | **\[Transcendence\]** ![][flag_GB] | **3** | 0 | ![][flag_GB] scouttt | |
-| **ILikeMudkipz** ![][flag_GB] | **1** | 0 | ![][flag_GB] ItzDom | Forfeit |
+| **ILikeMudkipz** ![][flag_GB] | **1** | 0 | ![][flag_GB] ItzDom | *forfeit* |
 | **Slvin** ![][flag_GB] | **3** | 2 | ![][flag_GB] Snookie | |
 | **Cozzzy** ![][flag_GB] | **3** | 0 | ![][flag_GB] Yoishi | |
-| bubby963 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Viremon** | Forfeit |
+| bubby963 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Viremon** | *forfeit* |
 | **R a h a r u** ![][flag_GB] | **3** | 0 | ![][flag_GB] Tekklorn | |
 | Kardet ![][flag_GB] | 2 | **3** | ![][flag_GB] **Nyaristoru** | |
 | **Navi** ![][flag_GB] | **3** | 0 | ![][flag_GB] Riari | |
@@ -264,9 +260,9 @@ Saturday, 7 December 2013
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
-- This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets have been determined by seeding via [osu!TP](https://web.archive.org/web/20131113173042/http://osutp.net/info "Internet Archive - osu!tp"). (There is one exception here, as someone took the place of a higher seed player.)
+- This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets have been determined by seeding via [osu!TP](https://web.archive.org/web/20131113173042/http://osutp.net/info). (There is one exception here, as someone took the place of a higher seed player.)
 - The tournaments shall have a map pool for each phase of the tournament. The next map pool in the tournament shall be announced following the end of the preceding round until the Finals. (no more matches)
 - Each map pool will have 6-8 no mod picks, 2 mod picks and 1 tiebreaker. The mod brackets shall be Hidden/Double Time/Hard Rock. Two maps for each.
 - Each player may only pick 1 map from each mod pool to try and encourage variety in the match. For example: P1 picks a HD map, he cant pick from the HD pool again. P2 may however pick a HD map.
@@ -276,7 +272,7 @@ Saturday, 7 December 2013
 - RO32/RO16 will be best of 5. Quarterfinals, Semifinals will be best of 7. Finals will be best of 9.
 - Any unexpected happenings or events not covered by the rules shall be handled by the organizer at their discretion.
 
-### Match Rules
+### Match rules
 
 - The referee shall make the game and give it a appropriate title. First pick shall be decided by `!roll`, the highest roll wins. The pick order then will alternate back and forth between both players until a winner is declared.
 - The game mode shall be set to Team Vs.
@@ -285,7 +281,7 @@ Saturday, 7 December 2013
 - After the end of the match, the referee will post the title of the match and a link to the MP history of that lobby and the final match score.
 - Matches will be locked and invite only.
 
-### Scheduling Info
+### Scheduling info
 
 - Matches will be played on the weekend.
 - If you cannot play at the time posted for you, contact the organizer for a rearrangement.

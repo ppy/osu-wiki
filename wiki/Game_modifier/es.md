@@ -19,7 +19,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 
 Los jugadores pueden acceder a la `Pantalla de selección de mods` en la pantalla de selección de canciones haciendo clic en el botón `Mods` cerca de la esquina inferior izquierda de la pantalla o pulsando `F1` en tu teclado. Una vez en la "Pantalla de selección de mods", también hay atajos de teclado que pueden ser usados para seleccionar mods específicos. Estos atajos pueden ser cambiados en las Opciones.
 
-En la pantalla de selección, los mods se separan en tres categorías: `Reducción de dificultad`, `Aumento de dificultad`, y `Especial`, y pueden reducir, aumentar o eliminar el [`Multiplicador de puntuación`](/wiki/Score_multiplier). Cuando se usan dos mods simultáneamente, el multiplicador respectivo de los mods se multiplicará conjuntamente (por ejemplo, `1.06x * 1.12x = 1.1872x`).
+En la pantalla de selección, los mods se separan en tres categorías: `Reducción de dificultad`, `Aumento de dificultad`, y `Especial`, y pueden reducir, aumentar o eliminar el [`Multiplicador de puntuación`](/wiki/Game_modifier/Score_multiplier). Cuando se usan dos mods simultáneamente, el multiplicador respectivo de los mods se multiplicará conjuntamente (por ejemplo, `1.06x * 1.12x = 1.1872x`).
 
 ## Listado de mods
 
@@ -62,7 +62,7 @@ Cada uno de los mods que aparecen a continuación tendrá su icono de modos de j
 
 *Nota: Estos mods fueron usados y disponibles hace algún tiempo, pero ahora no están disponibles.*
 
-- [10K](/wiki/Game_modifier/10k) ![][osu!mania]
+- [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 

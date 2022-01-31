@@ -8,7 +8,7 @@ Para anggota Ranking Criteria Council saling berdiskusi pada [sub-forum Ranking 
 
 ## Keanggotaan Ranking Criteria Council
 
-Layaknya [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) terdahulu, Ranking Criteria Council tersusun atas nama-nama ahli dari seluruh belahan dunia yang secara khusus ditunjuk untuk dapat mewakili wilayahnya masing-masing.
+Layaknya [Triumvir Conglomerate](/wiki/Modding/BAT_Managers#triumvir-conglomerate) terdahulu, Ranking Criteria Council tersusun atas nama-nama ahli dari seluruh belahan dunia yang secara khusus ditunjuk untuk dapat mewakili wilayahnya masing-masing.
 
 ### Anggota-anggota divisi osu!
 
@@ -163,9 +163,9 @@ Setelah melewati proses kajian selama kurang lebih dua tahun, pada tahun 2018 UB
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
-[flag_CL]: /wiki/shared/flag/CL.gif "Cili"
-[flag_CZ]: /wiki/shared/flag/CL.gif "Republik Ceska"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Republik Ceska"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
 [flag_FR]: /wiki/shared/flag/FR.gif "Prancis"

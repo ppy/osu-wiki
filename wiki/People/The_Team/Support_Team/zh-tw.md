@@ -34,10 +34,10 @@ no_native_review: true
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | 德文 |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙文 |
 
-[flag_AU]: /wiki/shared/flag/AU.gif "澳洲"
-[flag_DE]: /wiki/shared/flag/DE.gif "德國"
-[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
-[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
-[flag_PH]: /wiki/shared/flag/PH.gif "菲律賓"
-[flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
-[flag_US]: /wiki/shared/flag/US.gif "美國"
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_US]: /wiki/shared/flag/US.gif

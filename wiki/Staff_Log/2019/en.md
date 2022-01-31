@@ -95,7 +95,7 @@ All users listed below were added on 2019-02-16.
 - [Yales](https://osu.ppy.sh/users/2377881) - resignation (2019-04-16)
 - [wonjae](https://osu.ppy.sh/users/5032045) - resignation (2019-04-25)
 - [DMT9 Nowa](https://osu.ppy.sh/users/5428909) - resignation (2019-04-27)
-- [\_WWWWWW\_WWWWWW\_](https://osu.ppy.sh/users/1981781) - unsatisfactory behavior (2019-04-30)
+- [\_WWWWWW\_WWWWWW\_](https://osu.ppy.sh/users/1981781) - unsatisfactory behaviour (2019-04-30)
 
 ## May
 

@@ -1,4 +1,6 @@
-<!-- Please check redirects after adding new sections with year numbers. -->
+---
+outdated: true
+---
 
 # Kontes
 

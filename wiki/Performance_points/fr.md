@@ -1,166 +1,132 @@
----
-outdated: true
----
+# Points de performance
 
-# Points de Performance
+Les **points de performance** (abrégé en **pp**) sont une mesure de classement qui vise à être plus contextuellement pertinente pour la progression d'un joueur sur osu!.
 
-Le système de Points de Performance est un système de classement métrique visant à suivre la progression du joueur dans un jeu continuel tel qu'osu!
-
-Il ne met pas en avant la progression des compétences du joueur par rapport à son temps de jeu mais plutôt une **représentation actuelle des compétences du joueur.** Tout cela est fait via le calcul d'un score en *pp**, basé sur la difficulté de la beatmap ainsi que la performance de ce joueur sur la map.
+Ce système cherche à mettre en valeur une représentation des compétences du joueur plutôt qu'une représentation de son temps de jeu. Pour ce faire, il calcule un score unique basé sur la difficulté d'une beatmap et la performance du joueur sur cette [beatmap](/wiki/Beatmap).
 
 ## Histoire
 
-Révélé au public en avril 2012 et connu sous le nom du mystérieux projet *« ??? »*, ce système recevra son nom actuel plus tard dans le mois.
+La première mise en œuvre d'un tel score a été révélée au public au cours du mois d'avril 2012 et n'était connue que sous le nom du mystérieux projet *'???'*, le système énigmatique a finalement reçu son nom complet plus tard dans le mois.
 
-Désormais connu sous le nom de « pp », abbréviation de « performance points », ce nouveau système cherche à refléter les réelles compétences du joueur plutôt que de simplement compter les scores. Ce système a été très bien accueilli par les joueurs de l'époque.
+Connu par la suite sous le nom de "pp" (abréviation de "performance points"), ce nouveau système visait à modifier la norme précédente de la performance des joueurs, qui consistait à passer d'un simple [score](/wiki/Gameplay/Score) total à quelque chose qui reflétait précisément les compétences. Ce nouveau système a été largement plébiscité par les joueurs de l'époque.
 
-Plusieurs mois après, la [version (20120722-24) d'osu!](https://osu.ppy.sh/community/forums/posts/1687719) implémente officiellement ce système et remplace de ce fait l'ancien système de classement des scores, avec les nouveaux scores calculés toutes les 30 minutes. En août de la même année, le système fut amélioré pour que le calcul se fasse en temps réel.
+Plusieurs mois après sa révélation, la version 20120722-24 d'osu! a officiellement mis en œuvre le système pour remplacer entièrement l'ancien système de score [Classé](/wiki/Beatmap/Category#classée), les nouveaux scores étant calculés toutes les 30 minutes. Plus tard, en août de la même année, le système a été amélioré pour être mis à jour en temps réel.
 
-Il a été utilisé plus d'un an après sa mise en place, jusqu'à ce que [Tom94](https://osu.ppy.sh/users/1857058), le créateur de *osu!tp*, rejoigne l'équipe osu! et implémente son design dans le système. Ce nouveau système nommé *ppv2* est devenu opérationnel le 27 janvier 2014.
+*Remarque : ppv1, la version originale du système de points de performance, comportait également un journal de modifications, qui peut être consulté dans son [sujet du forum](https://osu.ppy.sh/community/forums/topics/92185).*
 
-*ppv2* est le service actuel, avec ses mises à jour publiées dans son [changelog](https://osu.ppy.sh/p/changelog?category=pp).
+Il a continué à exister dans cette capacité pendant plus d'un an de service jusqu'à ce que [Tom94](https://osu.ppy.sh/users/1857058), le créateur de la mesure de score *osu!tp*, rejoigne l'[équipe d'osu!](/wiki/People/The_Team) et implémente sa conception dans le système. Le système résultant a été intitulé *ppv2*, et est devenu opérationnel le 27 janvier 2014, renommant ainsi l'ancien système *[ppv1](/wiki/Performance_points/ppv1)*.
 
-*ppv1*, le système de Points de Performance précédent a aussi son changelog, qui peut être consulté sur ce [sujet du forum](https://osu.ppy.sh/community/forums/topics/92185).
+Le 16 janvier 2021, des changements ont été apportés au système ppv2 afin d'attribuer plus précisément des pp aux aspects plus difficiles des beatmaps. Ces changements ont été réalisés en grande partie grâce à l'aide de plusieurs membres de la communauté tels que [Xexxar](https://osu.ppy.sh/users/2773526) et [StanR](https://osu.ppy.sh/users/7217455). Les spécificités des changements effectués sont détaillées dans le [newspost correspondant](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Très brièvement, les principaux points d'intérêt de cette mise à jour sont les suivants :
 
-## Comment sont calculés les pp ?
+- Introduction d'un facteur d'échelle pour le gain supplémentaire en pp des beatmaps avec un approach rate de 11 en fonction de la durée d'une beatmap.
+- Introduction d'un facteur d'échelle à la perte de pp affectée par le mod [No Fail](/wiki/Game_modifier/No_Fail) basé sur le nombre de miss dans une partie.
+- Introduction d'un facteur d'échelle pour la perte de pp affectée par le mod [Spun Out](/wiki/Game_modifier/Spun_Out) basé sur le nombre de spinners dans une beatmap.
+- Ajuste le taux de perte de pp en cas de miss pour être plus indulgent sur les beatmaps plus longues avec un combo plus élevé.
+- Punir les parties à faible [précision](/wiki/Gameplay/Accuracy) avec moins de gain de pp.
 
-Les Points de Performance sont beaucoup basés sur la difficulté calculée de la map, qui est déterminée par un algorithme unique conçu pour chaque mode de jeu.
+ppv2 est actuellement en service actif, avec des mises à jour en direct publiées dans son [changelog](https://osu.ppy.sh/p/changelog?category=pp).
 
-La difficulté que vous jouez détermine la valeur en pp de votre score.
+## Calcul
 
-Pour être plus précis, la formule repose sur quatre valeurs principales, qui sont la **visée**, la **vitesse**, la **précision**, et l'**effort**.
+Les points de performance sont fortement basés sur la difficulté calculée de la beatmap, qui est déterminée par un algorithme unique construit pour chaque [mode de jeu](/wiki/Game_mode).
 
-Ces valeurs sont combinées à des magnitudes variantes pour produire un score global adapté à la difficulté de la beatmap, et le score de la performance sur ladite map.
+La difficulté de la beatmap qu'un joueur est en train de jouer détermine la valeur finale de son score. Par conception, la formule s'appuie sur quatre valeurs fondamentales : l'**[aim](#aim)**, la **[speed](#speed)**, la **[précision](#précision)**, et le **[strain](#strain)**. Toutes ces valeurs sont ensuite combinées à des degrés divers pour produire un score global lié à la [difficulté](/wiki/Beatmap/Difficulty) particulière d'une beatmap et à la performance individuelle du joueur dans ladite beatmap.
 
-Les scores sont ensuite pondérés les uns contre les autres pour s'assurer que seuls les meilleurs scores d'un joueur ne comptent dans le classement des performances. C'est connu sous le nom de *système de pondération*, et est un concept fondamental dans la mesure des points de performance.
+Les scores sont ensuite "pondérés" les uns par rapport aux autres afin de s'assurer que les meilleurs scores d'un utilisateur soient les scores comptant le plus dans son classement général de points de performance. Connu sous le nom de [*weightage system*](#weightage-system), son objectif est d'empêcher l'obtention rapide et répétée de pp sur des beatmaps faciles en réduisant le nombre de pp réellement obtenus en fonction des autres meilleurs scores du joueur.
 
-Un petit nombre de pp vous est donné par rapport au nombre de beatmaps classées sur lesquels vous avez eu un score.
+*Remarque : une petite quantité de pp bonus est attribuée en fonction du nombre de beatmaps classées sur lesquelles vous avez établi un score.*
 
-### Qu'est-ce que la visée ?
+### Weightage system
 
-**La visée est la difficulté à enchaîner les notes consécutives d'une beatmap.**
+Le weightage system est une formule simple utilisée après le calcul du nombre total de points de performance que vaut une partie. La formule est utilisée pour réduire le nombre de points de performance obtenus en fonction du classement de la partie dans les meilleurs scores du joueur. La formule susmentionnée est la suivante :
 
-Les éléments comme l'Approach Rate (AR) et certains mods (Flashlight, Hidden et HardRock) rendent la visée bien plus difficile, et influencent donc le nombre de pp rapportés.
+`Total pp = p * 0.95^(n-1)`
 
-Les maps avec de très grands sauts (dans le cas d'*osu!*) sont considérées comme des maps à haute visée, et offrent donc un très haut score de pp. Les maps avec un grand nombre d'hyperdashing dans *osu!catch* sont considérés de la même manière.
+Dans la formule ci-dessus, *p* représente la valeur pp complète de chaque score (avant pondération), et *n* est le rang dans le classement des meilleures performances du joueur. Par exemple, si les 5 meilleurs scores d'un joueur sont 110pp, 100pp, 100pp, 90pp et 80pp, alors les scores pondérés seront approximativement 110pp, 95pp, 90pp, 77pp et 65pp.
 
-La visée n'est pas prise en compte dans les modes de jeu *osu!taiko* et *osu!mania*.
+### Aim
 
-### Qu'est-ce que la vitesse ?
+*Aim* est une valeur fondamentale qui prend en compte la difficulté de frapper de manière constante des notes consécutives dans une beatmap.
 
-**La vitesse est le débit auquel sont présentés les éléments à jouer de la beatmaps.**
+Des éléments comme l'[approach rate](/wiki/Beatmapping/Approach_rate) et certains [mods](/wiki/Game_modifier) (à savoir [Flashlight](/wiki/Game_modifier/Flashlight), [Hidden](/wiki/Game_modifier/Hidden) et [Hard Rock](/wiki/Game_modifier/Hard_Rock)) rendent la navigation du curseur rapide et précise beaucoup plus difficile, et influencent donc la quantité de pp qu'un score donne.
 
-Les maps avec un grand nombre de hit objects dans un petite période de temps sont considérés comme des maps à grande vitesse.
+Dans le cas d'[osu!](/wiki/Game_mode/osu!), les beatmaps avec de très grands [jumps](/wiki/Beatmap/Pattern/Jump) sont considérés comme des beatmaps "high aim", et reçoivent donc souvent des scores pp très élevés. De même, les beatmaps avec plus d'hyperdashing dans [osu!catch](/wiki/Game_mode/osu!catch) seront considérés de la même manière. La visée n'est pas prise en compte dans les modes de jeu [osu!taiko](/wiki/Game_mode/osu!taiko) et [osu!mania](/wiki/Game_mode/osu!mania).
 
-Les mods comme DoubleTime et HalfTime affectent beaucoup la vitesse d'une beatmap et sont donc pris en compte dans l'algorithme des points de performance.
+### Speed
 
-### Qu'est-ce que la précision ?
+*Speed* est une valeur fondamentale qui tient compte de la vitesse à laquelle une beatmap présente les éléments d'une partie.
 
-**La précision est votre performance individuelle et la consistance entre chaque touché d'objet dans leur plage de temps.**
+Les beatmaps avec un nombre élevé d'objets dans un court laps de temps sont considérés comme ayant des valeurs de vitesse très élevées. Dans cet aspect spécifique, plus la vitesse d'une beatmap est élevée, plus ladite beatmap est difficile, accordant ainsi de plus grands gains de pp.
 
-Les scores avec un haute précision sont très bien considérés par l'algorithme des points de performance et donnera beaucoup de points comparé à un score peu précis.
+En conséquence, des mods comme [Double Time](/wiki/Game_modifier/Double_Time) et [Half Time](/wiki/Game_modifier/Half_Time) affectent de manière significative la vitesse d'une beatmap prise en compte par l'algorithme des points de performance. De même, ces mods affectent fortement les gains de pp lorsqu'ils sont utilisés.
 
-Un score avec 80 % de précision vaut les 2/3 d'un score avec 95 % de précision, par exemple.
+### Précision
 
-Les mods comme Hidden, Hard Rock et Flashlight altèrent énormément la difficulté à atteindre une bonne précision sur une beatmap.
+*Voir également : [Précision](/wiki/Gameplay/Accuracy)*
 
-### Qu'est-ce que l'effort ?
+La *précision* est une mesure en pourcentage de la capacité d'un joueur à frapper les [objets](/wiki/Hit_object) à temps ; en ce qui concerne l'algorithme des pp, il s'agit également d'une valeur fondamentale utilisée pour évaluer la performance individuelle d'un joueur sur une beatmap.
 
-**L'effort est le temps pour lequel le joueur est sujet à des moments de grande intensité dans un beatmap particulière.**
+Les scores avec des valeurs de précision élevées sont considérés par l'algorithme comme très impressionnants, et attribuent des scores très importants pour cette raison. Une partie en [full combo](/wiki/Full_combo) obtenant une précision de 80% peut parfois valoir 2/3 d'un score établi avec une précision de 95%. En raison de la forte dépendance de l'algorithme à la précision, des mods comme Hidden, Hard Rock et Flashlight sont considérés comme augmentant de manière significative le gain de pp pour les parties à haute précision.
 
-Les sections à grande vitesse ou avec des patterns compliqués augmentera grandement la valeur d'effort.
+### Strain
 
-Les maps avec un grande valeur d'effort sont considérées comme vraiment, vraiment difficiles, et offrent donc beaucoup de points de performance si elles sont bien jouées.
+*Strain* est une valeur fondamentale qui prend en compte le nombre de fois et la durée pendant laquelle un joueur est confronté à des sections de haute intensité dans une beatmap en particulier.
 
-### Comment la visée, la vitesse la précision et l'effort se combinent pour produire un score de pp ?
-
-**Les quatre éléments sont tous considérés pour déterminer la difficulté globale de la map, et aussi comment un score particulier est comparé à ce qui est considéré comme une partie « optimale » pour cette beatmap.**
-
-L'algorithme des points de performance varie beaucoup en fonction du mode de jeu.
-
-Alors que les nombres exacts sont loin de la portée de cet article, certains modes de jeu prennent plus en compte certaines statistiques à cause de leur mécaniques.
-
-### Qu'est-ce que le « système de pondération » et comment affecte-t-il mon score ?
-
-**Le système de pondération réfère au fait que tous vos scores sont comparés les uns aux autres en terme de performance globale.**
-
-Cela signifie que le plus haut score en pp vous donnera tout son montant de pp. Les autres scores avec un valeur en pp moins haute vous donneront graduellement moins de pourcentage de leurs pp.
-
-Pour donner un exemple avec une formule mathématique:
-
-*PP* représente la valeur en pp de chaque score. *PP\[i\]* dénote la *i*ème valeur du score de pp, ordonées de manière décroissante, où `i` va de 1 à `n`, et où `n` est le nombre de scores que vous avez.
-
-```Total des pp = PP[1] * 0.95^0 + PP[2] * 0.95^1 + PP[3] * 0.95^2 + ... + PP[n] * 0.95^(n-1)```
-
-### Combien de pp bonus peuvent être obtenus pour avoir un grand nombre de score sur des maps classées ?
-
-**Jusqu'à 416.6667 pp bonus peuvent être donnés pour avoir un grand nombre de scores. Ce qui peut être atteint avec approximativement *25397* scores.**
-
-Vous pouvez calculer exactement ce bonus en suivant la formule suivante, où `N` est le nombre de maps classées avec un score de fait:
-
-416.6667 \/ (1- 0.9994^`N`).
-
-Le nombre moyen de scores requis pour atteindre la moitié de ce bonus est *1168* (approximativement). Comme vous pouvez le remarquer, Le nombre de scores requis fait un pic vers la fin du spectre.
+Des sections ou des [patterns](/wiki/Beatmap/Pattern) extrêmement rapides ou difficiles dans une beatmap augmenteront de manière significative ses valeurs de strain considérées. Par exemple, les beatmaps avec plus de [streams](/wiki/Beatmap/Pattern/Stream) ou de vagues de jumps rapides auront des valeurs de strain élevées, et augmenteront donc le gain de pp pour cette beatmap.
 
 ## FAQ
 
-### Où puis-je consulter le classement par points de performance ?
+### Où puis-je consulter le classement des points de performance ?
 
-**Le classement par points de performance pour tous les joueurs peut être trouvé [ici](https://osu.ppy.sh/p/pp).**
+**Le classement des points de performance de tous les joueurs peut être consulté sur la [page des classements](https://osu.ppy.sh/p/pp).**
 
-Vous pouvez aussi vous rendre vers la page des classements depuis le menu déroulant `Ranking` en haut de l'ancien design web, en choisissant l'option `Performance`.
+Vous pouvez également accéder aux classements en utilisant le panneau déroulant `Classement` en haut de la page Web, et en choisissant l'option `Performance`.
 
-### Comment améliorer mon rang de pp ?
+### Comment puis-je augmenter mon rang et mes pp globaux ?
 
-**Votre performance est classée en se basant fortement sur vos scores.**
+**Votre performance est classée principalement en fonction de vos scores sur les beatmaps individuelles.**
 
-Le meilleur moyen de s'améliorer est donc de mieux réussir des maps difficiles, ou de jouer une grande variété de beatmaps.
+La meilleure façon de s'améliorer est de s'efforcer d'obtenir de bons scores sur des beatmaps difficiles ou de jouer une grande variété de beatmaps.
 
-Prenez en compte les conseils suivants :
+Considérez les conseils suivants :
 
-- Jouez efficacement et trouvez quel style de jeu vous convient le mieux.
-- Essayez d'avoir le maximum d'excellents scores, au lieu de « farmer » des centaines de scores juste passables.
-- Tentez d'améliorer au mieux votre précision. Même 1 % fait une différence.
-- Faites de grands combos. Les full combos (FC) ou des scores parfaits (SS) donnent de grandes quantités de pp.
+- Jouez efficacement et déterminez le style de jeu qui vous convient le mieux.
+- Concentrez-vous sur l'obtention d'une poignée de résultats exceptionnels au lieu de "farmer" des centaines de résultats tout juste corrects.
+- Cherchez à améliorer votre précision. Même 1 % fait une énorme différence.
+- Visez des combos plus élevés. Les full combos (FC) ou les scores [SS](/wiki/Gameplay/Grade) donnent une grande quantité de score.
 
-### Pourquoi je ne gagne pas le nombre de pp total qu'une map que j'ai joué ne vaut ?
+### Pourquoi n'ai-je pas gagné la totalité des pp d'une beatmap que j'ai jouée ?
 
-**Les points de performance utilisent une système de *pondération*, ce qui signifie que votre meilleur score vous donnera 100 % de son total de pp, et chaque score après vous en donnera graduellement moins.**
+**Les points de performance utilisent le weighted system, ce qui signifie que votre score le plus élevé donnera 100% de son pp total, et que chaque score que vous ferez ensuite donnera progressivement moins.**
 
-C'est expliqué en profondeur dans la section *système de pondération* de l'article ci-dessus. Pour l'expliquer avec des exemples simple:
+Vous pouvez en savoir plus sur le weightage system [plus haut](#weightage-system).
 
-Si votre classement des meilleurs scores ne compte que deux maps, et qu'elles valent toutes les deux 100 pp, votre total de pp serait *195 pp*.
+### Quel est le nombre de bonus pp maximum obtenus après avoir réalisé beaucoup de scores sur des beatmaps classées ?
 
-Le premier score vaut 100 % de sa valeur totale de pp puisque c'est votre meilleur score.
+**Jusqu'à 416,6667 pp de bonus sont accordés pour l'établissement d'un grand nombre de scores. Ce nombre est atteint lorsque vous avez environ 25397 scores.**
 
-Le second score ne vaudra que 95 % de ses pp totaux puisque ce n'est pas votre meilleur score, il ne vous donnera donc que 95pp et non pas 100.
+Vous pouvez calculer le montant exact de ce bonus en utilisant la formule suivante, `N` étant le nombre de beatmaps classées sur lesquelles vous avez réalisé un score :
 
-Maintenant, supposons que vous venez de faire un tout nouveau score valant 110pp. Votre top des scores devrait ressembler à ça:
+`416.6667 * (1 - 0.9994 ^ N)`
 
-1. 110pp, pondéré à 100 % = 110
-2. 100pp, pondéré à 95 % = 95
-3. 100pp, pondéré à 90 % = 90
+Le nombre médian de scores requis pour atteindre la moitié de ce bonus est d'environ 1155 scores. Comme vous pouvez le constater, le nombre de points requis augmente fortement vers l'extrémité supérieure du spectre.
 
-Comme vous le constater, votre nouveau total de pp n'est pas simplement ``195 + 110 = 305 pp``, mais ``110 + 95 + 90 = 295 pp``.
+#### La pondération est-elle la raison pour laquelle je n'obtiens plus de pp en jouant des beatmaps faciles ?
 
-Cela veut dire que puisque vous vous améliorez à osu!, votre total de pp augmentera, ce qui fera que vos anciens scores vaudront de moins en moins de pp comparés aux nouveaux et plus difficiles scores.
+**Comme ci-dessus, les anciens scores seront finalement pondérés pour moins d'un pour cent de leur valeur totale. Cela signifie qu'ils finiront par ne presque plus contribuer à votre score total à mesure que vous vous améliorerez.**
 
-#### Est-ce que le pondération des scores est la raison pour laquelle je n'ai pas de pp en jouant des maps faciles ?
+À ce stade, cependant, vous aurez obtenu des scores comparativement plus impressionnants, ce qui signifie que votre nombre de pp sera plus élevé dans l'ensemble, car les scores plus élevés que vous avez obtenus l'emportent sur les plus anciens.
 
-**Comme dit ci-dessus, les anciens scores deviendront moins importants. Ce qui signifie qu'ils ne contribueront quasiment rien à votre total de pp plus vous vous améliorerez.**
+### Pourquoi ai-je perdu des pp pour avoir établi un nouveau score ?
 
-Cependant, vous devriez avoir fait des scores plus impressionnants, ce qui signifie que vos pp seront globalement plus hauts puisque vos meilleurs scores surpasseront en poids les plus anciens.
+**Vous pouvez occasionnellement perdre des pp après avoir obtenu un meilleur score avec une moins bonne précision, ou après avoir joué avec des mods avec une moins bonne précision globale.**
 
-### Pourquoi je perds de pp en faisant un nouveau score ?
+Le score total est toujours important pour le classement des beatmaps individuelles, et cela peut produire des circonstances inhabituelles où un score global plus élevé avec une précision plus faible ou une utilisation de mods prise en compte produira un "meilleur" résultat qui vous fera quand même perdre des pp.
 
-**Vous pouvez occasionnellement perdre des pp en faisant un plus haut combo avec une précision moins bonne, ou en jouant avec des mods avec un précision globale assez mauvaise.**
+### Certains mods semblent donner beaucoup trop ou trop peu de pp. Pourquoi cela ?
 
-Le score total est toujours important pour le classement des maps, et cela peut produire des circonstances inhabituelles où un meilleur score avec un moins bonne précision ou l'utilisation d'un mod produira un «meilleur» résultat qui vous fera perdre des pp.
+**Il s'agit plus d'une question d'opinion que d'autre chose.**
 
-### Certains mods me semblent déséquilibrés. Pourquoi ?
+Aucun système n'est totalement parfait, et les totaux de points de performance varieront certainement entre les beatmaps et certaines combinaisons de mods, même si la difficulté subjective de ces parties peut être inférieure à celle d'une beatmap plus difficile.
 
-**C'est une question d'opinion plus qu'autre chose.**
-
-Aucun système n'est parfait, et les points de performance totaux vont certainement varier entre différents mapsets et certaines combinaisons de mods, même si la difficulté subjective de ces parties peut être moins grande qu'une map plus difficile.
-
-En général, le système de points de performance a été conçu pour être aussi juste que possible sous les contraintes de son modèle.
+Dans l'ensemble, le système actuel de points de performance a été conçu pour être aussi équitable que possible compte tenu des contraintes de son modèle.

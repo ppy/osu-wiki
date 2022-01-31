@@ -1,6 +1,6 @@
 # 皮肤组列表
 
-_父页面： [Ranking criteria](/wiki/Ranking_Criteria)_
+*父页面： [Ranking criteria](/wiki/Ranking_Criteria)*
 
 以下表格包含所有在皮肤草案中的出现的皮肤元素组，这些内容由 [UBKRC-Project](https://osu.ppy.sh/community/forums/topics/480331) 起草，由 Ephemeral 命名。
 
@@ -189,7 +189,7 @@ Catchers 应该居中，宽度为 302px。
 | 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
 | scorebar-bg.png | 应该与 scorebar-colour(-n).png 一起使用 | 必须 | - |
-| scorebar-colour(-n).png | 应该与 scorebar-bg.png 一起使用 | 必须 | - |
+| scorebar-colour(-n).png | 应该与 scorebar-bg.png 一起使用 | 必须 | 最高: 120px |
 | scorebar-ki.png | - | 必须 | - |
 | scorebar-kidanger.png | - | 必须 | - |
 | scorebar-kidanger2.png | - | 必须 | - |

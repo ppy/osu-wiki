@@ -5,7 +5,7 @@ outdated_since: 20e294a158d910bc93374879b5da9dc7822da8c1
 
 # Histori Loved
 
-Kategori [Loved](/wiki/Beatmap/Category#loved) beatmap saat ini dikelola oleh [Project Loved](/wiki/Project_Loved). Namun, ini tidak selalu terjadi. Project Loved adalah tiga dari sistem utama yang digunakan untuk mempromosikan beatmap ke status Loved; sebelumnya, terdapat cara yang berbeda untuk melakukannya, serta stagnasi yang lama untuk kategori Loved.
+Kategori [Loved](/wiki/Beatmap/Category#loved) beatmap saat ini dikelola oleh [Project Loved](/wiki/Community/Project_Loved). Namun, ini tidak selalu terjadi. Project Loved adalah tiga dari sistem utama yang digunakan untuk mempromosikan beatmap ke status Loved; sebelumnya, terdapat cara yang berbeda untuk melakukannya, serta stagnasi yang lama untuk kategori Loved.
 
 ## Permohonan fitur (Feb 2015)
 
@@ -25,7 +25,7 @@ Umpan balik telah diterima pada putaran keempat dan di dalam [pemungutan suara u
 
 ## Star priority dan favorit (Jan 2017 – Jun 2017)
 
-Hanya beberapa minggu setelah putaran keempat pemungutan suara dari komunitas, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) memposting [sebuah pengumuman](https://osu.ppy.sh/community/forums/topics/549835) yang menjelaskan tentang sistem Loved selanjutnya dari penerimaan beatmap. Alih-alih pemilihan maps agar dimasukkan ke dalam pemungutan suara, semua map yang berhak untuk menjadi Loved, setidaknya memiliki 30 favorit dan 100 [star priority (SP)](/wiki/odding/Star_priority).
+Hanya beberapa minggu setelah putaran keempat pemungutan suara dari komunitas, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) memposting [sebuah pengumuman](https://osu.ppy.sh/community/forums/topics/549835) yang menjelaskan tentang sistem Loved selanjutnya dari penerimaan beatmap. Alih-alih pemilihan maps agar dimasukkan ke dalam pemungutan suara, semua map yang berhak untuk menjadi Loved, setidaknya memiliki 30 favorit dan 100 [star priority (SP)](/wiki/Modding/Star_priority).
 
 Implikasi dari tingginya kebutuhan SP ini memungkinkan melibatkan komunitas mapping dan modding dalam proses pemindahan maps ke Loved: SP dapat ditambahkan ke maps dengan mengeluarkan [kudosu!](/wiki/Modding/Kudosu), sebuah hadiah yang diberikan ketika melakukan modding map. Ini menjadi poin kontroversial karena komunitas yang besar, yang dimana Loved hanyalah untuk mendapatkan leaderboard di map yang terkenal, tidak hanya di sukai oleh "mappers" saja.
 
@@ -43,8 +43,8 @@ Setelah beberapa putaran ini, Toy memutuskan menggunakan format pemungutan suara
 
 ## Hari ini
 
-[Project Loved](/wiki/Project_Loved) adalah sistem sekarang yang digunakan untuk memindahkan map ke status Loved. Penjelasan lebih lanjut dan bagaimana supaya beatmaps masuk kedalam pemungutan suara Project Loved dapat ditemukan di dalam artikel wiki.
+[Project Loved](/wiki/Community/Project_Loved) adalah sistem sekarang yang digunakan untuk memindahkan map ke status Loved. Penjelasan lebih lanjut dan bagaimana supaya beatmaps masuk kedalam pemungutan suara Project Loved dapat ditemukan di dalam artikel wiki.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
+[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

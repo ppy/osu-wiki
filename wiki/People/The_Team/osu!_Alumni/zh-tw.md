@@ -193,6 +193,7 @@ no_native_review: true
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | BAT |
 | ![][flag_US] [Seibei4211](https://osu.ppy.sh/users/31537) | BAT |
 | ![][flag_MD] [senaya](https://osu.ppy.sh/users/304103) | 聊天室管理員 |
+| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | NAT |
 | ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) | 聊天室管理員、GMT |
 | ![][flag_US] [Shinde](https://osu.ppy.sh/users/103282) | MAT |
 | ![][flag_CA] [Shinxyn](https://osu.ppy.sh/users/13996) | BAT |
@@ -243,44 +244,44 @@ no_native_review: true
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
 | ![][flag_US] [Zyid](https://osu.ppy.sh/users/2778) | BAT |
 
-[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
-[flag_AU]: /wiki/shared/flag/AU.gif "澳洲"
-[flag_BE]: /wiki/shared/flag/BE.gif "比利時"
-[flag_BR]: /wiki/shared/flag/BR.gif "巴西"
-[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
-[flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
-[flag_CL]: /wiki/shared/flag/CL.gif "智利"
-[flag_CN]: /wiki/shared/flag/CN.gif "中國"
-[flag_CO]: /wiki/shared/flag/CO.gif "哥倫比亞"
-[flag_DE]: /wiki/shared/flag/DE.gif "德國"
-[flag_DO]: /wiki/shared/flag/DO.gif "多明尼加"
-[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
-[flag_FI]: /wiki/shared/flag/FI.gif "芬蘭"
-[flag_FR]: /wiki/shared/flag/FR.gif "法國"
-[flag_GB]: /wiki/shared/flag/GB.gif "英國"
-[flag_GR]: /wiki/shared/flag/GR.gif "希臘"
-[flag_HK]: /wiki/shared/flag/HK.gif "香港"
-[flag_HR]: /wiki/shared/flag/HR.gif "克羅地亞"
-[flag_HU]: /wiki/shared/flag/HU.gif "匈牙利"
-[flag_ID]: /wiki/shared/flag/ID.gif "印尼"
-[flag_IT]: /wiki/shared/flag/IT.gif "義大利"
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
-[flag_KR]: /wiki/shared/flag/KR.gif "南韓"
-[flag_MD]: /wiki/shared/flag/MD.gif "摩爾多瓦"
-[flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
-[flag_MY]: /wiki/shared/flag/MY.gif "馬來西亞"
-[flag_NL]: /wiki/shared/flag/NL.gif "荷蘭"
-[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "紐西蘭"
-[flag_PE]: /wiki/shared/flag/PE.gif "秘魯"
-[flag_PH]: /wiki/shared/flag/PH.gif "菲律賓"
-[flag_PL]: /wiki/shared/flag/PL.gif "波蘭"
-[flag_RU]: /wiki/shared/flag/RU.gif "俄羅斯"
-[flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
-[flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
-[flag_TH]: /wiki/shared/flag/TH.gif "泰國"
-[flag_TR]: /wiki/shared/flag/TR.gif "土耳其"
-[flag_TW]: /wiki/shared/flag/TW.gif "台灣"
-[flag_US]: /wiki/shared/flag/US.gif "美國"
-[flag_UY]: /wiki/shared/flag/UY.gif "烏拉圭"
-[flag_ZA]: /wiki/shared/flag/ZA.gif "南非"
+[flag_AR]: /wiki/shared/flag/AR.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BE]: /wiki/shared/flag/BE.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CH]: /wiki/shared/flag/CH.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
+[flag_CO]: /wiki/shared/flag/CO.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_DO]: /wiki/shared/flag/DO.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_GR]: /wiki/shared/flag/GR.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
+[flag_HR]: /wiki/shared/flag/HR.gif
+[flag_HU]: /wiki/shared/flag/HU.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_MD]: /wiki/shared/flag/MD.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_PE]: /wiki/shared/flag/PE.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_TH]: /wiki/shared/flag/TH.gif
+[flag_TR]: /wiki/shared/flag/TR.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_US]: /wiki/shared/flag/US.gif
+[flag_UY]: /wiki/shared/flag/UY.gif
+[flag_ZA]: /wiki/shared/flag/ZA.gif

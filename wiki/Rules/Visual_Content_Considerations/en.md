@@ -32,7 +32,7 @@ Images or visual elements containing any of the following are **not allowed**:
 
 In addition, images or visual elements that could be reasonably appraised as being of poor quality (in either objective image quality or subjective composition/creation) may also be prevented from being used in a beatmaps in cases where they are not directly related to any relevant subject matter.
 
-*¹*: This may be subject to exceptions depending on the nature of the drug, its usage, and its subculture, particularly in cases of drugs experiencing rapid worldwide decriminalization and regulation like marijuana. Requesting specific exceptions to this rule should be undertaken by contacting the [osu!team](/wiki/People/The_Team) at [support@ppy.sh](mailto:support@ppy.sh).
+*¹*: This may be subject to exceptions depending on the nature of the drug, its usage, and its subculture, particularly in cases of drugs experiencing rapid worldwide decriminalization and regulation like marijuana. Requesting specific exceptions to this rule should be undertaken by contacting the [support team](/wiki/People/The_Team/Account_support_team) at [support@ppy.sh](mailto:support@ppy.sh).
 
 ## Exceptions
 
@@ -43,7 +43,7 @@ Images or visual elements containing examples of the following may be considered
 - mild romance, flirting or intimate affection (hugging, embracing, kissing without sexual connotations, hand-holding, etc.)
 - swimsuits of reasonable design (standard swimwear with general coverage, ordinary bikini)
 
-In certain circumstances, some exceptions may apply for artistic use of high-effort content, such as storyboards or bespoke (ie: specifically created) video content. This must be granted directly from the osu!team. Those interested may contact them directly via [support@ppy.sh](mailto:support@ppy.sh).
+In certain circumstances, some exceptions may apply for artistic use of high-effort content, such as storyboards or bespoke (ie: specifically created) video content. This must be granted directly from the support team. Those interested may contact them directly via [support@ppy.sh](mailto:support@ppy.sh).
 
 ## Getting your image assessed
 
@@ -55,4 +55,4 @@ If you are unsure about an image that is going to be included in a beatmap in an
 
 **The result of any vote is final**, unless the image is significantly altered in an attempt to resolve any potentially problematic elements raised during discussion.
 
-At all times, the [osu!team](/wiki/People/The_Team) reserves the right to unilaterally declare any piece of content either valid or invalid at their discretion, regardless of any previous voting held on the matter.
+At all times, [the osu! team](/wiki/People/The_Team) reserves the right to unilaterally declare any piece of content either valid or invalid at their discretion, regardless of any previous voting held on the matter.

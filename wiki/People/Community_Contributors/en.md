@@ -4,7 +4,7 @@
 
 The **Community Contributors** are the people who have taken it upon themselves to provide service to the osu! community at great cost to themselves - tools and features that many of us take for granted today. These users are given a badge to denote that they did something notable for the entire community.
 
-Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which are previous osu!team members that retired, Community Contributor badges are given to public freelancers who had go beyond the call of duty to improve osu! and the community environment.
+Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which are previous members of various osu! teams that retired, Community Contributor badges are given to public freelancers who had go beyond the call of duty to improve osu! and the community environment.
 
 ## 2013
 
@@ -25,7 +25,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which ar
 | ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Developing and maintaining [osu!stats](https://osustats.ppy.sh/) and a number of useful utilities for both beatmapping, modding and general play. |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Outstanding performance in bugfix/feature testing and handling user support queries. |
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3+ years of silent work tirelessly handling [beatmap packing](https://osu.ppy.sh/beatmaps/packs) and several years of managing the beatmap charts. |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Years upon years of service, including designing the original beatmap skin, advancing [storyboarding](/wiki/Storyboards) as an art and motivation. |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Years upon years of service, including designing the original beatmap skin, advancing [storyboarding](/wiki/Storyboard) as an art and motivation. |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Early community management and moderation and huge contributions over the course of his time. |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Being the first community manager and global moderator, who set the bar extremely high for the [GMT](/wiki/People/The_Team/Global_Moderation_Team) to follow. |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | Being the first staff manager and BATmanager and single-handedly forming an elite beatmap moderation team from nothing. |
@@ -48,7 +48,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which ar
 
 | User | Contributions |
 | :-- | :-- |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Founding the [osu!academy](/wiki/osu!academy) |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Founding the [osu!academy](/wiki/Community/Video_series/osu!academy) |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | osu!weekly + News Contributor |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Outstanding moderation presence (10k+ kills) |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Outstanding moderation presence (10k+ kills) |
@@ -159,7 +159,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which ar
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Outstanding contribution to the Global Moderation Team |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Outstanding contribution to the Mentorship project |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Outstanding contribution to the Mentorship project |
-| ![][flag_SE] [PuffBuck](https://osu.ppy.sh/users/4234525) | Outstanding contribution to World Cup moderation and organization |
+| ![][flag_SE] [PuffBuck](https://osu.ppy.sh/users/4234525) | Outstanding contribution to World Cup moderation and organisation |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | Outstanding, unwavering contribution to the osu!community at large |
 | ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943) | Outstanding contribution to the osu! World Cup |
 | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203) | Outstanding contribution to the osu! World Cup |

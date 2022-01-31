@@ -11,17 +11,19 @@ tags:
 
 *For a list of promotions and retirements, see: [Staff Log](/wiki/Staff_Log)*
 
-The people listed below are the core of the **osu!team** and are chiefly responsible for helping make the game awesome for everyone.
+The people listed below are the core of the **osu! team** and are chiefly responsible for helping make the game awesome for everyone.
 
 | Name | Role <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Project lead** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Modding and mapping scene advisor |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | World Cup organiser and administrator |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderation and community advisor |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup organiser and administrator |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Project and community maintainer, Featured Artist outreach |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Design lead, resident Creative Cloud watcher |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Modding and mapping scene advisor |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Modding and mapping scene advisor |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup organiser and administrator |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | osu!web developer |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeper, moderation advisor |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!web developer, [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
@@ -39,7 +41,7 @@ In addition to the above, the [account support team](Account_support_team) is th
 
 ## User groups
 
-The following are user groups which are made up of the osu! community members that help maintain osu!. Most of these user groups can be recognized by their forum colours, in-game chat colours, profile titles, and/or profile badges.
+The following are user groups which are made up of the osu! community members that help maintain osu!. Most of these user groups can be recognised by their forum colours, in-game chat colours, profile titles, and/or profile badges.
 
 | Name | Description |
 | :-- | :-- |
@@ -62,12 +64,13 @@ The following are user groups which are made up of the osu! community members th
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | World Cup organiser and administrator |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | General housekeeper, community manager |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! developer, provider of IRC integration for in-game chat, site maintainer. [Blog](http://blog.echo.sh/) |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour host, World Cup streamer, tournament organiser |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour host, World Cup streamer, tournament organizer |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! developer, provider of osz2 and p2p backend |
 | ![][flag_US] Jim | Original site designer, hosting provider in the early days. [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | World Cup organiser and administrator |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | World Cup organiser and administrator, QAT leader, community manager |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Epic skin designer, contributor to default skin and iconset. [DeviantArt](https://luigihann.deviantart.com/) |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Modding and mapping scene advisor |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | osu! developer, creator of mm sliders |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone developer |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | osu! developer, Mappers' Guild organiser |
@@ -79,10 +82,11 @@ The following are user groups which are made up of the osu! community members th
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | General housekeeper, World Cup organiser and administrator, wiki maintainer |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! developer, osu!mania mode developer |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) manager |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) professor, media and character designer |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/Community/Video_series/osu!academy) professor, media and character designer |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"

@@ -30,7 +30,7 @@ W porównaniu do [Alumni osu!](/wiki/People/The_Team/osu!_Alumni), czyli byłych
 | ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Stworzenie aplikacji [osu!stats](https://osustats.ppy.sh/) oraz wielu narzędzi do tworzenia beatmap, modowania i rozgrywki. |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Znaczący wkład w wykrywanie błędów i testowanie nowych funkcji, praca w pomocy technicznej gry. |
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | Prowadzenie [paczek beatmap](https://osu.ppy.sh/beatmaps/packs) przez 3 lata, wieloletnie zarządzanie listami wyróżnionych beatmap. |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Wieloletnie tworzenie skórek do beatmap oraz wkład w rozwój [tworzenia scenorysów](/wiki/Storyboards). |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Wieloletnie tworzenie skórek do beatmap oraz wkład w rozwój [tworzenia scenorysów](/wiki/Storyboard). |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Zarządzanie społecznością, moderowanie i ogromny wkład we wczesnym etapie historii gry. |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Pierwszy manager społczeności i globalny moderator, ustanowienie wysokich standardów w [moderacji globalnej](/wiki/People/The_Team/Global_Moderation_Team). |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | Pierwszy manager zespołu gry i nominatorów beatmap, samodzielne utworzenie zespołu nominatorów beatmap. |
@@ -53,7 +53,7 @@ W porównaniu do [Alumni osu!](/wiki/People/The_Team/osu!_Alumni), czyli byłych
 
 | Użytkownik | Wkład |
 | :-- | :-- |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Prowadzenie [akademii osu!](/wiki/osu!academy). |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Prowadzenie [akademii osu!](/wiki/Community/Video_series/osu!academy). |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | Znaczący wkład w osu!weekly i inne aktualności. |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Znaczący wkład w moderowanie czatu (ponad 10 tysięcy uciszeń). |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Znaczący wkład w moderowanie czatu (ponad 10 tysięcy uciszeń). |

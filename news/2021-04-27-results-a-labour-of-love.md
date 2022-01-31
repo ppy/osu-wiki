@@ -18,7 +18,7 @@ After 5 months of hard work from creators and judges along with votes from thous
 
 ## Live stream showcase
 
-If text isn't your style, we live streamed a reveal of the contest results on [our Twitch channel](https://www.twitch.tv/videos/1000707526 "Twitch") the other day. Below, you can watch the top 8 entries alongside live chat reactions, quick interviews with the winners, and commentary from [pishifat](https://osu.ppy.sh/users/3178418), [Ephemeral](https://osu.ppy.sh/users/102335) and [Uberzolik](https://osu.ppy.sh/users/1314547):
+If text isn't your style, we live streamed a reveal of the contest results on [our Twitch channel](https://www.twitch.tv/videos/1000707526) the other day. Below, you can watch the top 8 entries alongside live chat reactions, quick interviews with the winners, and commentary from [pishifat](https://osu.ppy.sh/users/3178418), [Ephemeral](https://osu.ppy.sh/users/102335) and [Uberzolik](https://osu.ppy.sh/users/1314547):
 
 <iframe src="https://player.twitch.tv/?video=1000707526&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
@@ -48,7 +48,7 @@ Following a format similar to [Monthly Beatmapping Contest screening](/wiki/Cont
 
 The overall panel followed the same format with contribution from all judges. Their top 5 picks were based on an evaluation of the full beatmap package (song remix, beatmap, visuals, and general cohesiveness of the elements). To balance out the 6 musician-focused panelists with the 12 mapping-focused panelists, musicians were given more weight in the overall category.
 
-A full overview of judge results can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTts0zpdjKdCUS3oCP4XZ18vh5ckEDqL_Jvy2eh0B4kC8je09bCGwYcpOWgjaXXy0251c3f33u7BDjv/pubhtml "Google Sheets") and on the [A Labour of Love wiki page](/wiki/Contests/A_Labour_of_Love_Contest#prizes)
+A full overview of judge results can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTts0zpdjKdCUS3oCP4XZ18vh5ckEDqL_Jvy2eh0B4kC8je09bCGwYcpOWgjaXXy0251c3f33u7BDjv/pubhtml) and on the [A Labour of Love wiki page](/wiki/Contests/A_Labour_of_Love_Contest#prizes)
 
 ### Overall runner-up
 

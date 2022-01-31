@@ -9,13 +9,13 @@ outdated_since: d5b45241bf64c7abeadfa160238f428bbcaa4d2a
 
 *Pagina principal: [osu!](osu!)*
 
-Basado en *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")*. Toca, desliza y gira al ritmo.
+Basado en *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)*. Toca, desliza y gira al ritmo.
 
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 *Pagina principal: [osu!taiko](osu!taiko)*
 
-Basado en *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia")*. Toca, y rueda el tambor taiko al ritmo.
+Basado en *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)*. Toca, y rueda el tambor taiko al ritmo.
 
 ## ![](/wiki/shared/mode/catch.png) osu!catch
 

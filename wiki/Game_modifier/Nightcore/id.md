@@ -11,7 +11,7 @@ tags:
 
 ![Ikon mod NC](/wiki/shared/mods/NC.png "Ikon mod Nightcore (NC)")
 
-*Berbeda konteks dengan [Nightcore (genre)](https://en.wikipedia.org/wiki/Nightcore "Wikipedia").*\
+*Berbeda konteks dengan [Nightcore (genre)](https://en.wikipedia.org/wiki/Nightcore).*\
 *Kunjungi juga: [NC (disambiguasi)](/wiki/Disambiguation/NC), [Double Time (mod)](/wiki/Game_modifier/Double_Time)*\
 *Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*
 
@@ -20,7 +20,7 @@ tags:
 - Singkatan: NC
 - Tipe: Peningkat Kesulitan
 - Pengali Skor:
-  - ![][osu!]: 1.06x
+  - ![][osu!]: 1.12x
   - ![][osu!taiko]: 1.12x
   - ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x

@@ -50,7 +50,7 @@ Aside from continuing to develop Beatmap Nominator evaluations, there have been 
 
 A current hot topic in the osu! Ranking Criteria has been the unclear ruling on what we deem to be **"inappropriate or not-safe-for-work content"**. With the recent allowance/removal of some potentially borderline cases, it has become necessary to clarify and expand upon the current rule wording. This will aim to satisfy both mappers who wish to continue creating more mature-themed content, as well as players and moderators who wish to ensure osu! remains a safe and enjoyable environment for all.
 
-To this effect, there has been a recent [Ranking Criteria amendment](/wiki/Ranking_Criteria/Song_Content_Rules) covering the recent changes and clarifications. Included are guidelines on how to better decide if a song is appropriate for osu!, as well as an explanation on what happens if a track is deemed to be unacceptable.
+To this effect, there has been a recent [Ranking Criteria amendment](/wiki/Rules/Song_Content_Rules) covering the recent changes and clarifications. Included are guidelines on how to better decide if a song is appropriate for osu!, as well as an explanation on what happens if a track is deemed to be unacceptable.
 
 ### Reporting misconduct
 

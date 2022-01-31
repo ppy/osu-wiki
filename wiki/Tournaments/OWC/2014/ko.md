@@ -41,15 +41,11 @@ outdated: true
 | 해설 | ![][flag_GB][jesus1412](https://osu.ppy.sh/users/230116) // ![][flag_FR][Mr Color](https://osu.ppy.s6078) // ![][flag_GB][Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US][ztrot](https://osu.ppy.sh/users/6347) |
 | 통계 | ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## 링크
 
-- [osu! World Cup 2014 트위치 방송](https://www.twitch.tv/osulive/)
+- [osu! World Cup 2014 트위치 방송](https://www.twitch.tv/osulive)
 - [등록 양식](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
 - [토론 장소](https://osu.ppy.sh/community/forums/posts/3410198)
-
----
 
 ## Ruleset
 
@@ -133,8 +129,8 @@ outdated: true
 2. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited.
 3. Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
    1. Both vetos must always be used.
-   2. Both captains must use "!roll" to determine, who starts banning two beatmaps. The other captain can not ban the same beatmaps and must pick another beatmap in case of an overlap.
-4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool. Each captain must use "!roll" once in \#multiplayer to determine which team selects first.
+   2. Both captains must use `!roll` to determine, who starts banning two beatmaps. The other captain can not ban the same beatmaps and must pick another beatmap in case of an overlap.
+4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects first.
    1. Captains can pick freely from any bracket.
    2. In case of a tie, the tiebreaker map must be played.
 5. Results will be published on the wiki and via the Statistics website.

@@ -11,16 +11,16 @@ A **beatmap** (sometimes called *beatmapset*) is a set of game levels ([difficul
 - the song itself, stored in MP3 or Ogg format.
 - [background images](/wiki/Beatmap/Background), or a video, acting as a playfield.
 - [custom hitsounds](/wiki/Beatmapping/Hitsound) for arrangement and improved aural feedback (optional).
-- [storyboard](/wiki/Storyboards) with motion graphics and special effects, serving as a background story or theme for the song (optional).
+- [storyboard](/wiki/Storyboard) with motion graphics and special effects, serving as a background story or theme for the song (optional).
 - [custom skin](/wiki/Skinning), which changes the appearance of interface and gameplay elements (optional).
 
-*Note: Some of the visual and aural features of a beatmap can be disabled through the [visual settings](/wiki/Visual_Settings) overlay.*
+*Note: Some of the visual and aural features of a beatmap can be disabled through the [visual settings](/wiki/Client/Interface/Visual_settings) overlay.*
 
 ## Difficulty
 
 *Main article: [Difficulty](/wiki/Beatmap/Difficulty)*
 
-A *difficulty* is a file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)) which describes the placement of hit objects, hitsounds, and special effects like [kiai time](/wiki/Kiai_time). It also contains [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) and other parameters that directly affect gameplay. Difficulties of a beatmap have different structure and sometimes can be played in only one [game mode](/wiki/Game_mode). The [star rating](/wiki/Beatmapping/Star_rating) system is used to visualize a difficulty's skill requirement.
+A *difficulty* is a file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)) which describes the placement of hit objects, hitsounds, and special effects like [kiai time](/wiki/Gameplay/Kiai_time). It also contains [difficulty settings](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) and other parameters that directly affect gameplay. Difficulties of a beatmap have different structure and sometimes can be played in only one [game mode](/wiki/Game_mode). The [star rating](/wiki/Beatmapping/Star_rating) system is used to visualise a difficulty's skill requirement.
 
 ## Submission
 
@@ -30,7 +30,7 @@ Beatmap authors can [submit](/wiki/Submission) their creations to the public [be
 
 <!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
 
-After the submission, a beatmap gains additional metadata fields, such as description, language, genre, and the explicit content marker, which can be changed by the beatmap author themselves on the website. The beatmap also acquires [title text](Title_Text), appearance of which may be altered with the aid of [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
+After the submission, a beatmap gains additional metadata fields, such as description, language, genre, and the explicit content marker, which can be changed by the beatmap author themselves on the website. The beatmap also acquires [title text](/wiki/Beatmap/Title_text), appearance of which may be altered with the aid of [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
 
 ### Identification
 
@@ -75,10 +75,10 @@ Beatmaps that were ranked in the same month, or share the same theme (e.g. the s
 
 ### Unofficial sources
 
-There are also secondary sources of beatmaps, which are **neither checked nor operated by the osu!team**. However, they are available on the forums and appreciated by the community. Such sources include:
+There are also secondary sources of beatmaps, which are **neither checked nor operated by the osu! team**. However, they are available on the forums and appreciated by the community. Such sources include:
 
 - third-party beatmap mirrors hosted off a platform;
-- player-made packs and compilations shared via [p2p-networks](https://en.wikipedia.org/wiki/Peer-to-peer "Wikipedia"), such as BitTorrent.
+- player-made packs and compilations shared via [p2p-networks](https://en.wikipedia.org/wiki/Peer-to-peer), such as BitTorrent.
 
 ## Beatmaps and community
 
@@ -91,7 +91,7 @@ osu! players across all game modes use beatmaps to [rank up globally](/wiki/Perf
 - Country-specific ranking made of players bearing the same flag;
 - Friend ranking that shows a player's position on the map compared to their friends.
 
-The top 500 scores on every difficulty of a beatmap provide [replays](/wiki/Replay), which can be watched online or saved for further display in a local leaderboard.
+The top 500 scores on every difficulty of a beatmap provide [replays](/wiki/Gameplay/Replay), which can be watched online or saved for further display in a local leaderboard.
 
 ### Charts and Spotlights
 
@@ -115,4 +115,4 @@ osu! community regularly runs different contests in order to promote creativity 
 
 *Main page: [Featured Artists](/wiki/Featured_Artists)*
 
-Featured Artists is a community program by [osu!team](/wiki/People/The_Team) that focuses on licensing music by various artists for osu! and making it available for mapping. The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist and provides pre-timed templates for mapping.
+Featured Artists is a community program by the [osu! team](/wiki/People/The_Team) that focuses on licensing music by various artists for osu! and making it available for mapping. The website's [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist and provides pre-timed templates for mapping.

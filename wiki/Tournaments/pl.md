@@ -225,7 +225,7 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Coupe de Francja CTB | 2017-10-28 | 2017-12-16 | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) |
-| [Catch French Cup 2](/wiki/Tournaments/CFC/2) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
+| [Catch French Cup 2](/wiki/Tournaments/CFC/2018) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
 | [Catch French Cup 3](/wiki/Tournaments/CFC/3) | 2018-09-08 | 2018-10-20 | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
 | [Catch French Intermediate Cup](/wiki/Tournaments/CFC/CFIC_1) | 2019-03-01 | 2019-03-31 | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 | [Catch French Cup 4](/wiki/Tournaments/CFC/4) | 2019-03-30 | 2019-04-28 | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
@@ -329,7 +329,6 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 
 ## Zobacz także
 
-- [Szablon dla artykułów o turniejach](/wiki/Tournaments/Template)
 - [Lista państw uczestniczących w turniejach osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (klient używany do transmitowania turniejów)
 

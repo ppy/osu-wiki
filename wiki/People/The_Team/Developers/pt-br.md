@@ -5,11 +5,13 @@ tags:
   - osu!devs
   - osu! dev
   - osu! devs
+outdated: true
+outdated_since: b5ffad1bde58fd33ff05bc06bb2843bc8707275e
 ---
 
 # Desenvolvedores
 
-Os desenvolvedores do osu! mantém o jogo e o site rodando em consertar bugs e adicionando novas funções. A maior parte deles são empregados de ppy Pty Ltd, a empresa que é dona do osu!. Eles formam a maioria do [osu!team](/wiki/People/The_Team).
+Os desenvolvedores do osu! mantém o jogo e o site rodando em consertar bugs e adicionando novas funções. A maior parte deles são empregados de ppy Pty Ltd, a empresa que é dona do osu!. Eles formam a maioria da [nossa equipe](/wiki/People/The_Team).
 
 Desenvolvedores do osu! podem ser reconhecidos por seus títulos "osu!dev" ou "osuteam" e nomes de usuário rosa.
 

@@ -10,15 +10,15 @@ tags:
 
 ![MWC 4K 2016 logo](img/logo.jpg)
 
-The **osu!mania 4K World Cup 2016** (***MWC 4K 2016***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third installment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2016** (***MWC 4K 2016***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2016-06-28/2016-07-17 |
-| Live Drawings | 2016-07-31 (14:00 UTC) |
-| Group Stage | 2016-08-06/2016-08-07 |
+| Live drawings | 2016-07-31 (14:00 UTC) |
+| Group stage | 2016-08-06/2016-08-07 |
 | Round of 16 | 2016-08-13 |
 | Quarterfinals | 2016-08-21 |
 | Semifinals | 2016-08-27/2016-08-28 |
@@ -41,7 +41,7 @@ There was a $1,900 cash prize pool with extra money being added by buying suppor
 
 The osu!mania 4K World Cup 2016 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
@@ -104,9 +104,11 @@ The osu!mania 4K World Cup 2016 was run by various community members.
 | **G** | ![][flag_JP] Japan | ![][flag_DE] Germany | ![][flag_IT] Italy | ![][flag_SE] Sweden |
 | **H** | ![][flag_FR] France | ![][flag_ID] Indonesia | ![][flag_DK] Denmark | ![][flag_MX] Mexico |
 
-![MWC 4K 2016 podium](img/podium.jpg)
+![](img/brackets.jpg "MWC 4K 2016 bracket")
 
-![MWC 4K 2016 bracket](img/brackets.jpg)
+## Podium
+
+![](img/podium.jpg "MWC 4K 2016 podium")
 
 ## Mappools
 
@@ -117,115 +119,115 @@ The osu!mania 4K World Cup 2016 was run by various community members.
 **[Download the mappack here!](https://www.mediafire.com/download/k67i387mj5kdmec/MWC_4K_2016_Finals.rar)**
 
 - NoMod
-  - [Tatsh - IMAGE -MATERIAL- \<Version 0\> (Fullerene-) \[Refraction\]](https://osu.ppy.sh/beatmapsets/492000#mania/1048210)
-  - [ZUN - Voyage 1970 (Halogen-) \[Hourai Elixir\]](https://osu.ppy.sh/beatmapsets/447772#mania/1115750)
-  - [Hommarju - Hellfire (snoverpk) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/469343#mania/1003669)
-  - [Fleshgod Apocalypse - The Violation (Shoegazer) \[Desecration\]](https://osu.ppy.sh/beatmapsets/496416#mania/1056624)
-  - [sun3 - Morgenglut 2012 (\_underjoy) \[4K Lv. XXX\]](https://osu.ppy.sh/beatmapsets/463897#mania/993347)
-  - [Suguro - Sun Valley (K2 Remix) (Guilhermeziat) \[le 8-bit\]](https://osu.ppy.sh/beatmapsets/442140#mania/950875)
-  - [t+pazolite vs RoughSketch - Readymade Luv (Ciel) \[Homemade Chocolate\]](https://osu.ppy.sh/beatmapsets/490314#mania/1045122)
-  - [Camellia - Fastest Crash (Shoegazer) \[Paroxysm\]](https://osu.ppy.sh/beatmapsets/428234#mania/924286)
-  - [Kommisar - Southern Waters Assault 8bit (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/694903#mania/1022204)
-  - [LeaF - I (Tidek) \[Limbo\]](https://osu.ppy.sh/beatmapsets/426638#mania/921164)
+  1. [Tatsh - IMAGE -MATERIAL- \<Version 0\> (Fullerene-) \[Refraction\]](https://osu.ppy.sh/beatmapsets/492000#mania/1048210)
+  2. [ZUN - Voyage 1970 (Halogen-) \[Hourai Elixir\]](https://osu.ppy.sh/beatmapsets/447772#mania/1115750)
+  3. [Hommarju - Hellfire (snoverpk) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/469343#mania/1003669)
+  4. [Fleshgod Apocalypse - The Violation (Shoegazer) \[Desecration\]](https://osu.ppy.sh/beatmapsets/496416#mania/1056624)
+  5. [sun3 - Morgenglut 2012 (\_underjoy) \[4K Lv. XXX\]](https://osu.ppy.sh/beatmapsets/463897#mania/993347)
+  6. [Suguro - Sun Valley (K2 Remix) (Guilhermeziat) \[le 8-bit\]](https://osu.ppy.sh/beatmapsets/442140#mania/950875)
+  7. [t+pazolite vs RoughSketch - Readymade Luv (Ciel) \[Homemade Chocolate\]](https://osu.ppy.sh/beatmapsets/490314#mania/1045122)
+  8. [Camellia - Fastest Crash (Shoegazer) \[Paroxysm\]](https://osu.ppy.sh/beatmapsets/428234#mania/924286)
+  9. [Kommisar - Southern Waters Assault 8bit (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/694903#mania/1022204)
+  10. [LeaF - I (Tidek) \[Limbo\]](https://osu.ppy.sh/beatmapsets/426638#mania/921164)
 - FreeMod
-  - [t+pazolite with siromaru - Chambarising (Evening) \[Challenge\]](https://osu.ppy.sh/beatmapsets/427670#mania/923890)
-  - [xi - FREEDOM DiVE (razlteh) \[Fullerene's 4K DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/173612#mania/473228)
-  - [ikaruga\_nex - Mirage (inteliser) \[UNLIMITED \[LN\]\]](https://osu.ppy.sh/beatmapsets/486877#mania/1038091)
-  - [Camellia - dreamless wanderer (Fullerene-) \[Ethereal Shift\]](https://osu.ppy.sh/beatmapsets/321347#mania/714878)
+  1. [t+pazolite with siromaru - Chambarising (Evening) \[Challenge\]](https://osu.ppy.sh/beatmapsets/427670#mania/923890)
+  2. [xi - FREEDOM DiVE (razlteh) \[Fullerene's 4K DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/173612#mania/473228)
+  3. [ikaruga\_nex - Mirage (inteliser) \[UNLIMITED \[LN\]\]](https://osu.ppy.sh/beatmapsets/486877#mania/1038091)
+  4. [Camellia - dreamless wanderer (Fullerene-) \[Ethereal Shift\]](https://osu.ppy.sh/beatmapsets/321347#mania/714878)
 - Tiebreaker
-  - **[Camellia - I Can Fly In The Universe (Evening) \[Schizophrenia\]](https://osu.ppy.sh/beatmapsets/493316#mania/1055345)**
+  1. **[Camellia - I Can Fly In The Universe (Evening) \[Schizophrenia\]](https://osu.ppy.sh/beatmapsets/493316#mania/1055345)**
 
 ### Semifinals
 
 **[Download the mappack here!](https://www.mediafire.com/download/wyp4gi7pun5vr0l/MWC4K_2016_Semifinals.rar)**
 
 - NoMod
-  - [\_yosuke & MOKONA - Sumowind (\_underjoy) \[Falling Leaves\]](https://osu.ppy.sh/beatmapsets/486523#mania/1037449)
-  - [Srav3R - Kamuy (dionzz99) \[Classical Core\]](https://osu.ppy.sh/beatmapsets/452213#mania/970021)
-  - [IOSYS - Bow Down, You Ignorant Fools! -The Princess' Insane All Night Hourai Live- (Xay) \[Xay's 4k\]](https://osu.ppy.sh/beatmapsets/467385#mania/1000026)
-  - [Loctek - Kan-Construction (Daikyi) \[LSC\]](https://osu.ppy.sh/beatmapsets/487454#mania/1039232)
-  - [Paitan - LEMON SUMMER (inteliser) \[OVERFLOW \[LN\]](https://osu.ppy.sh/beatmapsets/476522#mania/1017817)
-  - [U1 High-Speed - EGOISM 440 (Chrubble) \[CHALLENGE\]](https://osu.ppy.sh/beatmapsets/371350#mania/813652)
-  - [Rotteen - VEC+LEGGENDARIA (Quick Draw) \[4K SC\]](https://osu.ppy.sh/beatmapsets/342219#mania/756998)
-  - [ALiCE'S EMOTiON - Dark Flight Dreamer (PiraTom) \[LN MASTER SPARK!!\]](https://osu.ppy.sh/beatmapsets/455426#mania/976201)
-  - [Spawn of Possession - Apparition (XeoStyle) \[Duty to God\]](https://osu.ppy.sh/beatmapsets/363184#mania/797527)
-  - [PolyphonicBranch - LOVE x LOVE Whistle (PiraTom) \[LOVE STREAM\]](https://osu.ppy.sh/beatmapsets/451420#mania/968401)
+  1. [\_yosuke & MOKONA - Sumowind (\_underjoy) \[Falling Leaves\]](https://osu.ppy.sh/beatmapsets/486523#mania/1037449)
+  2. [Srav3R - Kamuy (dionzz99) \[Classical Core\]](https://osu.ppy.sh/beatmapsets/452213#mania/970021)
+  3. [IOSYS - Bow Down, You Ignorant Fools! -The Princess' Insane All Night Hourai Live- (Xay) \[Xay's 4k\]](https://osu.ppy.sh/beatmapsets/467385#mania/1000026)
+  4. [Loctek - Kan-Construction (Daikyi) \[LSC\]](https://osu.ppy.sh/beatmapsets/487454#mania/1039232)
+  5. [Paitan - LEMON SUMMER (inteliser) \[OVERFLOW \[LN\]](https://osu.ppy.sh/beatmapsets/476522#mania/1017817)
+  6. [U1 High-Speed - EGOISM 440 (Chrubble) \[CHALLENGE\]](https://osu.ppy.sh/beatmapsets/371350#mania/813652)
+  7. [Rotteen - VEC+LEGGENDARIA (Quick Draw) \[4K SC\]](https://osu.ppy.sh/beatmapsets/342219#mania/756998)
+  8. [ALiCE'S EMOTiON - Dark Flight Dreamer (PiraTom) \[LN MASTER SPARK!!\]](https://osu.ppy.sh/beatmapsets/455426#mania/976201)
+  9. [Spawn of Possession - Apparition (XeoStyle) \[Duty to God\]](https://osu.ppy.sh/beatmapsets/363184#mania/797527)
+  10. [PolyphonicBranch - LOVE x LOVE Whistle (PiraTom) \[LOVE STREAM\]](https://osu.ppy.sh/beatmapsets/451420#mania/968401)
 - FreeMod
-  - [Fallujah - Sapphire (Shoegazer) \[Cerulean\]](https://osu.ppy.sh/beatmapsets/452446#mania/970464)
-  - [t+pazolite - Oshama Scramble! (Shirou) \[Nyan~\]](https://osu.ppy.sh/beatmapsets/372127#mania/815040)
-  - [Rings of Saturn - Eviscerate (Xay) \[Xay's 4k\]](https://osu.ppy.sh/beatmapsets/477477#mania/1682309)
-  - [sHimaU - GOD of MADNESS (Valedict) \[Lovecraftian\]](https://osu.ppy.sh/beatmapsets/444098#mania/954116)
+  1. [Fallujah - Sapphire (Shoegazer) \[Cerulean\]](https://osu.ppy.sh/beatmapsets/452446#mania/970464)
+  2. [t+pazolite - Oshama Scramble! (Shirou) \[Nyan~\]](https://osu.ppy.sh/beatmapsets/372127#mania/815040)
+  3. [Rings of Saturn - Eviscerate (Xay) \[Xay's 4k\]](https://osu.ppy.sh/beatmapsets/477477#mania/1682309)
+  4. [sHimaU - GOD of MADNESS (Valedict) \[Lovecraftian\]](https://osu.ppy.sh/beatmapsets/444098#mania/954116)
 - Tiebreaker
-  - **[D.B.O.Y.D x Kommisar - Interstellar Retribution (MasterSonic10) \[Disbelief\]](https://osu.ppy.sh/beatmapsets/376267#mania/823799)**
+  1. **[D.B.O.Y.D x Kommisar - Interstellar Retribution (MasterSonic10) \[Disbelief\]](https://osu.ppy.sh/beatmapsets/376267#mania/823799)**
 
 ### Quarterfinals
 
 **[Download the mappack here!](https://www.mediafire.com/download/x8fv79n1mb1miss/MWC_4K_2016_Quarterfinals.rar)**
 
 - NoMod
-  - [Memme - Chinese Restaurant (ajeemaniz) \[Insanity "Noodles"\]](https://osu.ppy.sh/beatmapsets/252357#mania/579715)
-  - [DEV/NULL - Rave 7 (hi19hi19) \[Hard\]](https://osu.ppy.sh/beatmapsets/203250#mania/480466)
-  - [Camellia - Ultimate Ascension (Fresh Chicken) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/476565#mania/1017927)
-  - [Neun\_jack - Gypsy gets the Tek (LeiN-) \[wag\]](https://osu.ppy.sh/beatmapsets/463038#mania/991504)
-  - [Morimori Atsushi + Verdammt - Le Fruit Defendu (MasterSonic10) \[INFINITE Lv.15\]](https://osu.ppy.sh/beatmapsets/355088#mania/782892)
-  - [BlackY - Depravity CLiMAXXX (Valedict) \[Desperado\]](https://osu.ppy.sh/beatmapsets/411717#mania/893354)
-  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (-Kamikaze-) \[Calculation\]](https://osu.ppy.sh/beatmapsets/453900#mania/973263)
-  - [lapix - Foolish Hero (dionzz99) \[Fooled\]](https://osu.ppy.sh/beatmapsets/488126#mania/1040762)
-  - [Venetian Snares - She Runs (Shoegazer) \[Breakaway\]](https://osu.ppy.sh/beatmapsets/448086#mania/961767)
-  - [maras k - Play Time!! (MasterSonic10) \[SC\]](https://osu.ppy.sh/beatmapsets/309653#mania/692198)
+  1. [Memme - Chinese Restaurant (ajeemaniz) \[Insanity "Noodles"\]](https://osu.ppy.sh/beatmapsets/252357#mania/579715)
+  2. [DEV/NULL - Rave 7 (hi19hi19) \[Hard\]](https://osu.ppy.sh/beatmapsets/203250#mania/480466)
+  3. [Camellia - Ultimate Ascension (Fresh Chicken) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/476565#mania/1017927)
+  4. [Neun\_jack - Gypsy gets the Tek (LeiN-) \[wag\]](https://osu.ppy.sh/beatmapsets/463038#mania/991504)
+  5. [Morimori Atsushi + Verdammt - Le Fruit Defendu (MasterSonic10) \[INFINITE Lv.15\]](https://osu.ppy.sh/beatmapsets/355088#mania/782892)
+  6. [BlackY - Depravity CLiMAXXX (Valedict) \[Desperado\]](https://osu.ppy.sh/beatmapsets/411717#mania/893354)
+  7. [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (-Kamikaze-) \[Calculation\]](https://osu.ppy.sh/beatmapsets/453900#mania/973263)
+  8. [lapix - Foolish Hero (dionzz99) \[Fooled\]](https://osu.ppy.sh/beatmapsets/488126#mania/1040762)
+  9. [Venetian Snares - She Runs (Shoegazer) \[Breakaway\]](https://osu.ppy.sh/beatmapsets/448086#mania/961767)
+  10. [maras k - Play Time!! (MasterSonic10) \[SC\]](https://osu.ppy.sh/beatmapsets/309653#mania/692198)
 - FreeMod
-  - [DesoloZ - Summoned Beast Battle (Halogen-) \[Destruction\]](https://osu.ppy.sh/beatmapsets/41595#mania/901157)
-  - [DJ'TEKINA//SOMETHING - Palette GAMMA (Cadmium-113) \[Affection\]](https://osu.ppy.sh/beatmapsets/409429#mania/888774)
-  - [Terminal 11 - The Bird's Poisoned Bathwater (Xay) \[Xay's 4k\]](https://osu.ppy.sh/beatmapsets/467388#mania/1000029)
-  - [kemu - Ikasama Life game (Thievley) \[Smith's MX\]](https://osu.ppy.sh/beatmapsets/469204#mania/1005445)
+  1. [DesoloZ - Summoned Beast Battle (Halogen-) \[Destruction\]](https://osu.ppy.sh/beatmapsets/41595#mania/901157)
+  2. [DJ'TEKINA//SOMETHING - Palette GAMMA (Cadmium-113) \[Affection\]](https://osu.ppy.sh/beatmapsets/409429#mania/888774)
+  3. [Terminal 11 - The Bird's Poisoned Bathwater (Xay) \[Xay's 4k\]](https://osu.ppy.sh/beatmapsets/467388#mania/1000029)
+  4. [kemu - Ikasama Life game (Thievley) \[Smith's MX\]](https://osu.ppy.sh/beatmapsets/469204#mania/1005445)
 - Tiebreaker
-  - **[b4kn - Act V - The Battle At Mammoth Mountain (Halogen-) \[Finale\]](https://osu.ppy.sh/beatmapsets/488261#mania/1040978)**
+  1. **[b4kn - Act V - The Battle At Mammoth Mountain (Halogen-) \[Finale\]](https://osu.ppy.sh/beatmapsets/488261#mania/1040978)**
 
 ### Round of 16
 
 **[Download the mappack here!](https://www.mediafire.com/download/8ixrt0vl4si4fko/MWC_4K_2016_Round_of_16.rar)**
 
 - NoMod
-  - [Nobuo Uematsu - Liberi Fatali (Halogen-) \[Insane\]](https://osu.ppy.sh/beatmapsets/369402#mania/816901)
-  - [xxdbxx - Taekwonburi (nowsmart) \[4K MX\]](https://osu.ppy.sh/beatmapsets/196171#mania/465220)
-  - [Yu\_Asahina - Trickstarz (hi19hi19) \[Hard\]](https://osu.ppy.sh/beatmapsets/349432#mania/770549)
-  - [Shawn Wasabi - Marble Soda (Hydria) \[Pope's Insane\]](https://osu.ppy.sh/beatmapsets/451183#mania/967910)
-  - [Omoi - Snow Drive (Weegle) \[The Last Way Home\]](https://osu.ppy.sh/beatmapsets/363137#mania/797441)
-  - [alan - Over the clouds -BURST mix- (LordRaika) \[4K MX\]](https://osu.ppy.sh/beatmapsets/244997#mania/564610)
-  - [LeaF - Calamity Fortune (Shoegazer) \[Euphoria\]](https://osu.ppy.sh/beatmapsets/435450#mania/938145)
-  - [sawawa - Cirno Break (Verniy\_Chan) \[MEGA's EXHAUST\]](https://osu.ppy.sh/beatmapsets/285795#mania/646643)
-  - [Helblinde - Rewrite Nightmare (Jepetski) \[Experiment\]](https://osu.ppy.sh/beatmapsets/323777#mania/719525)
-  - [Feryquitous - Strahv (Tornspirit) \[Regret\]](https://osu.ppy.sh/beatmapsets/410918#mania/891620)
+  1. [Nobuo Uematsu - Liberi Fatali (Halogen-) \[Insane\]](https://osu.ppy.sh/beatmapsets/369402#mania/816901)
+  2. [xxdbxx - Taekwonburi (nowsmart) \[4K MX\]](https://osu.ppy.sh/beatmapsets/196171#mania/465220)
+  3. [Yu\_Asahina - Trickstarz (hi19hi19) \[Hard\]](https://osu.ppy.sh/beatmapsets/349432#mania/770549)
+  4. [Shawn Wasabi - Marble Soda (Hydria) \[Pope's Insane\]](https://osu.ppy.sh/beatmapsets/451183#mania/967910)
+  5. [Omoi - Snow Drive (Weegle) \[The Last Way Home\]](https://osu.ppy.sh/beatmapsets/363137#mania/797441)
+  6. [alan - Over the clouds -BURST mix- (LordRaika) \[4K MX\]](https://osu.ppy.sh/beatmapsets/244997#mania/564610)
+  7. [LeaF - Calamity Fortune (Shoegazer) \[Euphoria\]](https://osu.ppy.sh/beatmapsets/435450#mania/938145)
+  8. [sawawa - Cirno Break (Verniy\_Chan) \[MEGA's EXHAUST\]](https://osu.ppy.sh/beatmapsets/285795#mania/646643)
+  9. [Helblinde - Rewrite Nightmare (Jepetski) \[Experiment\]](https://osu.ppy.sh/beatmapsets/323777#mania/719525)
+  10. [Feryquitous - Strahv (Tornspirit) \[Regret\]](https://osu.ppy.sh/beatmapsets/410918#mania/891620)
 - FreeMod
-  - [100-200-400 - Fascination MAXX (Ereedon) \[\_UJ's 4K Heavy\]](https://osu.ppy.sh/beatmapsets/409152#mania/927196)
-  - [UNDEAD CORPORATION - karakurenawi (Tidek) \[Insane\]](https://osu.ppy.sh/beatmapsets/329497#mania/730528)
-  - [Hommarju - Sounds of Summer (\[Shana Lesus\]) \[Another\]](https://osu.ppy.sh/beatmapsets/349345#mania/770372)
-  - [ginkiha - nightfall (Abraxos) \[rave's dream\]](https://osu.ppy.sh/beatmapsets/473053#mania/1010821)
+  1. [100-200-400 - Fascination MAXX (Ereedon) \[\_UJ's 4K Heavy\]](https://osu.ppy.sh/beatmapsets/409152#mania/927196)
+  2. [UNDEAD CORPORATION - karakurenawi (Tidek) \[Insane\]](https://osu.ppy.sh/beatmapsets/329497#mania/730528)
+  3. [Hommarju - Sounds of Summer (\[Shana Lesus\]) \[Another\]](https://osu.ppy.sh/beatmapsets/349345#mania/770372)
+  4. [ginkiha - nightfall (Abraxos) \[rave's dream\]](https://osu.ppy.sh/beatmapsets/473053#mania/1010821)
 - Tiebreaker
-  - **[aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (Daikyi) \[Final Voyage\]](https://osu.ppy.sh/beatmapsets/381334#mania/834266)**
+  1. **[aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (Daikyi) \[Final Voyage\]](https://osu.ppy.sh/beatmapsets/381334#mania/834266)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here!](https://www.mediafire.com/download/p39r1ckct4kjg91/MWC_4K_2016_Group_Stage.rar)**
 
 - NoMod
-  - [The Ghost of 3.13 - Last Star In The Universe (Shoegazer) \[Nocturne\]](https://osu.ppy.sh/beatmapsets/302911#mania/678855)
-  - [Yamamoto Momiji - Doutei Korose (short Ver.) (ALEFY) \[EXH\]](https://osu.ppy.sh/beatmapsets/428029#mania/923934)
-  - [Yokomin feat. Yuzuki Yukari - Story In Everlasting Princess (\[ A v a l o n \]) \[4K Hyper\]](https://osu.ppy.sh/beatmapsets/332130#mania/739982)
-  - [Yooh - Electronic Sound Lab (XeoStyle) \[MX\]](https://osu.ppy.sh/beatmapsets/299842#mania/673946)
-  - [Anamanaguchi - Power Supply (Halogen-) \[Charge\]](https://osu.ppy.sh/beatmapsets/415947#mania/901153)
-  - [NAGI - inside (Jinjin) \[Longing\]](https://osu.ppy.sh/beatmapsets/475615#mania/1016139)
-  - [Gavin G - Refresh (game rock) \[Momo's MX\]](https://osu.ppy.sh/beatmapsets/266129#mania/638907)
-  - [Rush - Malignant Narcissism (Pope Gadget) \[R40\]](https://osu.ppy.sh/beatmapsets/444460#mania/954903)
-  - [Lindsey Stirling - Senbonzakura (MrSergio) \[Harby's HD\]](https://osu.ppy.sh/beatmapsets/277421#mania/671989)
-  - [Vospi - roboposition!! (arviejhay) \[4K HD\]](https://osu.ppy.sh/beatmapsets/164310#mania/400180)
+  1. [The Ghost of 3.13 - Last Star In The Universe (Shoegazer) \[Nocturne\]](https://osu.ppy.sh/beatmapsets/302911#mania/678855)
+  2. [Yamamoto Momiji - Doutei Korose (short Ver.) (ALEFY) \[EXH\]](https://osu.ppy.sh/beatmapsets/428029#mania/923934)
+  3. [Yokomin feat. Yuzuki Yukari - Story In Everlasting Princess (\[ A v a l o n \]) \[4K Hyper\]](https://osu.ppy.sh/beatmapsets/332130#mania/739982)
+  4. [Yooh - Electronic Sound Lab (XeoStyle) \[MX\]](https://osu.ppy.sh/beatmapsets/299842#mania/673946)
+  5. [Anamanaguchi - Power Supply (Halogen-) \[Charge\]](https://osu.ppy.sh/beatmapsets/415947#mania/901153)
+  6. [NAGI - inside (Jinjin) \[Longing\]](https://osu.ppy.sh/beatmapsets/475615#mania/1016139)
+  7. [Gavin G - Refresh (game rock) \[Momo's MX\]](https://osu.ppy.sh/beatmapsets/266129#mania/638907)
+  8. [Rush - Malignant Narcissism (Pope Gadget) \[R40\]](https://osu.ppy.sh/beatmapsets/444460#mania/954903)
+  9. [Lindsey Stirling - Senbonzakura (MrSergio) \[Harby's HD\]](https://osu.ppy.sh/beatmapsets/277421#mania/671989)
+  10. [Vospi - roboposition!! (arviejhay) \[4K HD\]](https://osu.ppy.sh/beatmapsets/164310#mania/400180)
 - FreeMod
-  - [NISH - Space Time (\_underjoy) \[4K Another\]](https://osu.ppy.sh/beatmapsets/409326#mania/888588)
-  - [Shiki - Endless Dream (Shoegazer) \[Hyper\]](https://osu.ppy.sh/beatmapsets/263929#mania/867245)
-  - [DJ OKAWARI - Canon (schwarzvgrune) \[Clamorous (Insane)\]](https://osu.ppy.sh/beatmapsets/284229#mania/661929)
-  - [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey (Irreversible) \[Feru's HD\]](https://osu.ppy.sh/beatmapsets/274111#mania/745024)
+  1. [NISH - Space Time (\_underjoy) \[4K Another\]](https://osu.ppy.sh/beatmapsets/409326#mania/888588)
+  2. [Shiki - Endless Dream (Shoegazer) \[Hyper\]](https://osu.ppy.sh/beatmapsets/263929#mania/867245)
+  3. [DJ OKAWARI - Canon (schwarzvgrune) \[Clamorous (Insane)\]](https://osu.ppy.sh/beatmapsets/284229#mania/661929)
+  4. [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey (Irreversible) \[Feru's HD\]](https://osu.ppy.sh/beatmapsets/274111#mania/745024)
 - Tiebreaker
-  - **[KotoriP - Black Out The Alternative (Pope Gadget) \[The Former\]](https://osu.ppy.sh/beatmapsets/327178#mania/1833915)**
+  1. **[KotoriP - Black Out The Alternative (Pope Gadget) \[The Former\]](https://osu.ppy.sh/beatmapsets/327178#mania/1833915)**
 
 ## Match results
 
@@ -304,7 +306,7 @@ Saturday, 13 August 2016:
 | Canada ![][flag_CA] | 0 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/27017355) |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/27018723) |
 
-### Group Stage
+### Group stage
 
 Saturday, 6 August 2016:
 
@@ -378,7 +380,7 @@ Sunday, 7 August 2016:
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a map gets considered as passing it.
-7. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
+7. Use of the [Visual Settings](/wiki/Client/Interface/Visual_settings) options are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
 9. If a player disconnects, they get treated as if they failed the map.
    - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
@@ -460,9 +462,9 @@ Sunday, 7 August 2016:
 2. Players are free to select up to two warm-up maps. Using beatmaps with questionable content is prohibited.
 3. Each captain must ban one beatmap to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in \#multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Results of all stages will be published via a Statistics sheet.

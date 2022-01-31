@@ -1,10 +1,15 @@
+---
+outdated: true
+outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
+---
+
 # Beatmap veto
 
-*Beatmap veto* memungkinkan seorang [Beatmap Nominator](/wiki/People/Beatmap_Nominators) untuk menahan sebuah beatmap dari sesi Kualifikasi jika mereka mendapati suatu masalah signifikan terkait kualitas beatmap yang membuatnya masih belum sesuai untuk menjadi bagian dari beatmap dengan status Ranked. Mendiskusikan atau mengklarifikasi lebih lanjut tentang segala jenis masalah kualitas yang mereka rasa perlu ditangani sebelum map tersebut dapat dilanjutkan ke sesi Kualifikasi adalah salah satu tanggung jawab utama mereka.
+*Beatmap veto* memungkinkan seorang [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) untuk menahan sebuah beatmap dari sesi Kualifikasi jika mereka mendapati suatu masalah signifikan terkait kualitas beatmap yang membuatnya masih belum sesuai untuk menjadi bagian dari beatmap dengan status Ranked. Mendiskusikan atau mengklarifikasi lebih lanjut tentang segala jenis masalah kualitas yang mereka rasa perlu ditangani sebelum map tersebut dapat dilanjutkan ke sesi Kualifikasi adalah salah satu tanggung jawab utama mereka.
 
-Semua Beatmap Nominator dapat mengajukan sebuah beatmap veto, asalkan mereka secara resmi memenuhi syarat untuk mode permainan yang dimaksud, sebagaimana dinyatakan dalam [Peraturan Beatmap Nominator](/wiki/People/Beatmap_Nominators/Rules). Setiap beatmap veto harus didiskusikan oleh kedua belah pihak - mapper serta Nominator yang mengajukan beatmap veto - dalam upaya mencapai kesepakatan.
+Semua Beatmap Nominator dapat mengajukan sebuah beatmap veto, asalkan mereka secara resmi memenuhi syarat untuk mode permainan yang dimaksud, sebagaimana dinyatakan dalam [Peraturan Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Rules). Setiap beatmap veto harus didiskusikan oleh kedua belah pihak - mapper serta Nominator yang mengajukan beatmap veto - dalam upaya mencapai kesepakatan.
 
-Dalam kasus di mana diskusi tidak terjadi atau tidak meyakinkan, dan mapper atau Nominator yang memveto memintanya, anggota dari [NAT](/wiki/People/Nomination_Assessment_Team) (Nomination Assessment Team) akan memulai dan mengawasi sebuah mediasi untuk menahan atau mencabut veto tersebut. Mediasi diselenggarakan oleh juri acak dari Beatmap Nominator dan anggota NAT, untuk mengurangi bias, dan dipilih secara anonim oleh juri ini. Setelah pemungutan suara selesai, alasan dari masing-masing anggota juri diungkap bersama dengan hasil mediasi pada diskusi beatmap.
+Dalam kasus di mana diskusi tidak terjadi atau tidak meyakinkan, dan mapper atau Nominator yang memveto memintanya, anggota dari [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (Nomination Assessment Team) akan memulai dan mengawasi sebuah mediasi untuk menahan atau mencabut veto tersebut. Mediasi diselenggarakan oleh juri acak dari Beatmap Nominator dan anggota NAT, untuk mengurangi bias, dan dipilih secara anonim oleh juri ini. Setelah pemungutan suara selesai, alasan dari masing-masing anggota juri diungkap bersama dengan hasil mediasi pada diskusi beatmap.
 
 ## Melakukan sebuah beatmap veto
 

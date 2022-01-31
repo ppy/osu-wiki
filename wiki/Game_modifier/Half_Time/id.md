@@ -1,9 +1,7 @@
 ---
 stub: true
-outdated: true
-outdated_since: d70ed2a1ee643d5908b44860b9158f00c3de626f
 tags:
-  - half time
+  - halftime
   - mod
   - game modifier
   - HT
@@ -30,7 +28,7 @@ tags:
 
 *Catatan: Cara yang digunakan untuk memperlambat lagu tersebut bisa mengakibatkan lagunya kedengaran seperti robot atau agak keruh.*
 
-Mod **Half Time** adalah sebuah [game modifier](/wiki/Game_modifier) yang berfungsi mengurangi kecepatan tempo (BPM) dari sebuah [beatmap](/wiki/Beatmap) menjadi 75% dari kecepatan awalnya, dengan meningkatkan durasi lagu sebesar 33%, dan mengurangi sedikit jumlah dari [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), [dan health (HP)](/wiki/Beatmapping/Health).
+Mod **Half Time** adalah sebuah [game modifier](/wiki/Game_modifier) yang berfungsi mengurangi kecepatan tempo (BPM) dari sebuah [beatmap](/wiki/Beatmap) menjadi 75% dari kecepatan awalnya, dengan meningkatkan durasi lagu sebesar 33%, dan mengurangi sedikit jumlah dari [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), [dan health (HP)](/wiki/Gameplay/Health).
 
 ### osu!taiko
 
@@ -40,9 +38,7 @@ Karena itu, menggunakan mod Half Time bisa menyebabkan peningkatan dalam skor ma
 
 ### osu!catch
 
-Pada [osu!catch](/wiki/Game_mode/osu!catch), lagu dan tempo juga direndahkan oleh faktor yang sama seperti di mode-mode permainan lainnya. Tetapi mod ini *juga* mengurangi kecepatan pemain, jadi fruit biasa tanpa mod lainnya *bisa* berubah menjadi sebuah fruit hyperdash.
-
-Sebagai tambahan, leniency pada hyperdash juga telah diperbesar, yang membuatnya menjadi lebih sulit untuk berhenti dibawah buah yang mendatang ketika sedang melakukan hyperdash.
+Pada [osu!catch](/wiki/Game_mode/osu!catch), tempo lagu dan kecepatan catcher yang kamu miliki akan melambat sesuai dengan nilai-nilai yang telah disebutkan pada mode-mode permainan sebelumnya. Tetapi mod ini *juga* mengurangi kecepatan pemain. Seluruh objek [fruit](/wiki/Hit_object/Fruit), [drop](/wiki/Hit_object/Juice_stream#drop), [droplet](/wiki/Hit_object/Juice_stream#droplet) dan [banana](/wiki/Hit_object/Banana) tetap sama.
 
 ## Trivia
 

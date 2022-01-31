@@ -6,7 +6,7 @@ tags:
 
 # Weighting system
 
-Le **weighting system** détermine le [total des points de performances](/wiki/Performance_Points/Total_Performance_Points) d'un joueur en pondérant chaque valeur individuelle de [points de performance](/wiki/Performance_Points) par rapport aux autres. Le système attribue ainsi un montant de plus en plus faible pour la deuxième meilleure valeur, la troisième meilleure valeur, et ainsi de suite. Cela garantit qu'un joueur doit s'améliorer pour progresser dans le système de points de performance. Pour une explication plus précise, voir la formule suivante :
+Le **weighting system** détermine le [total des points de performances](/wiki/Performance_points/Total_performance_points) d'un joueur en pondérant chaque valeur individuelle de [points de performance](/wiki/Performance_points) par rapport aux autres. Le système attribue ainsi un montant de plus en plus faible pour la deuxième meilleure valeur, la troisième meilleure valeur, et ainsi de suite. Cela garantit qu'un joueur doit s'améliorer pour progresser dans le système de points de performance. Pour une explication plus précise, voir la formule suivante :
 
 `total pp = pp[1] * 0.95^0 + pp[2] * 0.95^1 + pp[3] * 0.95^2 + ... + pp[m] * 0.95^(m-1)`
 

@@ -88,7 +88,7 @@ Please note that the recommended sizes for all elements in this set is handled v
 
 ### Spinner set
 
-All elements excluding spinner-osu.png and spinner-rpm.png are gameplay relevant. If you include elements labeled as "basic spinner style" in the notes, you **must not** include elements labeled as the "new spinner style".
+All elements excluding spinner-osu.png and spinner-rpm.png are gameplay relevant. If you include elements labelled as "basic spinner style" in the notes, you **must not** include elements labelled as the "new spinner style".
 
 This is because the basic spinner style will take priority over the new one if both styles are present. The new spinner style will only work if the user-specific skin does not use the basic spinner style and supports skin versions 2 or higher, or if the default skin is forced in the beatmap.
 
@@ -173,7 +173,7 @@ The entirety of this skin set is gameplay relevant.
 ### Catcher set
 
 All elements besides lightning.png are gameplay relevant.
-For catchers the plate must be perfectly centered and exactly 302px across in width. While the default skin's plate is uncentered, it may be used in beatmap-specific skins.
+For catchers the plate must be perfectly centred and exactly 302px across in width. While the default skin's plate is uncentred, it may be used in beatmap-specific skins.
 
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
@@ -191,7 +191,7 @@ The entirety of this skin set is gameplay relevant. Please note that the sizes o
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
 | scorebar-bg.png | should be included together with scorebar-colour(-n).png | required | - |
-| scorebar-colour(-n).png | should be included together with scorebar-bg.png | required | - |
+| scorebar-colour(-n).png | should be included together with scorebar-bg.png | required | maximum 120px tall |
 | scorebar-ki.png | - | required | - |
 | scorebar-kidanger.png | - | required | - |
 | scorebar-kidanger2.png | - | required | - |

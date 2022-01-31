@@ -2,20 +2,19 @@
 tags:
   - accuracy
   - hit window
-  - notelock
   - OD
   - spinner difficulty
 ---
 
 # Overall difficulty
 
-*Untuk rekomendasi nilai OD, Silahkan lihat: [Ranking criteria](/wiki/Ranking_Criteria)*
+*Untuk nilai OD yang direkomendasikan, lihat: [Ranking criteria](/wiki/Ranking_Criteria)*
 
-**Overall difficulty** (***OD***) menjelaskan seberapa sulit untuk mendapatkan [accuracy](/wiki/Accuracy) yang tinggi di dalam sebuah [beatmap](/wiki/Beatmap). Nilainya berkisar dari 0 sampai 10, dimana OD yang paling tinggi akan membutuhkan akurasi dan presisi yang sangat bagus. Karena akurasi itu yang paling penting untuk meningkatkan health, overall dificulty juga mempengaruhi sebarapa susah untuk menyelesaikan sebuah beatmap.
+**Overall difficulty** (***OD***) menjelaskan seberapa sulit untuk mendapatkan [akurasi](/wiki/Gameplay/Accuracy) yang tinggi di dalam sebuah [beatmap](/wiki/Beatmap). Nilainya berkisar dari 0 sampai 10, di mana semakin tinggi nilai OD, semakin diperlukan akurasi dan presisi yang bagus. Karena akurasi itu yang paling penting untuk meningkatkan health, overall difficulty juga memengaruhi seberapa sulit untuk menyelesaikan sebuah beatmap.
 
 ## Timing
 
-Nilai OD yang paling tinggi memiliki waktu paling pendek untuk menyelesaikan [hit objects](/wiki/Hit_Objects), baik secara umum maupun dalam mendapatkan skor yang tinggi. Besar dari hit window, berpusat pada waktu tepat hit object, dijelaskan dengan tabel berikut:
+Semakin tinggi nilai OD, semakin pendek jeda waktu untuk menekan [hit object](/wiki/Hit_object), baik secara umum maupun dalam mendapatkan skor yang tinggi. Besar dari hit window, berpusat pada ketepatan waktu hit object, dijelaskan dengan tabel berikut:
 
 | Skor | Hit window |
 | --: | :-- |
@@ -23,21 +22,17 @@ Nilai OD yang paling tinggi memiliki waktu paling pendek untuk menyelesaikan [hi
 | 100 | `280ms - 16ms * OD` |
 | 300 | `160ms - 12ms * OD` |
 
-Jika pemain menekan hit object diluar dari 50 hit window, itu akan dihitung sebagai miss.
+Jika pemain menekan hit object diluar dari 50 hit window, itu akan dihitung sebagai miss. Pada kasus hit window antara dua objek yang bertumpuk, objek kedua tidak akan bisa ditekan hingga objek pertama hilang karena mekanik [notelock](/wiki/Gameplay/Judgement/Notelock).
 
-## Sliders dan spinners
+## Slider dan spinner
 
-Di [osu!](/wiki/Game_mode/osu!), sliders akan memberikan 300 selama mereka hit dalam 50 hit window. Ini terkadang disebut sebagai *slideracc* dan dihapus di dalam ScoreV2<!-- TODO: link -->.
+Di [osu!](/wiki/Game_mode/osu!), slider akan memberikan 300 selama mereka ditekan dalam 50 hit window. Ini terkadang disebut sebagai *slideracc* dan dihapus di dalam [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
-Overall difficulty juga berefek pada spinner, dimana mereka harus memutar lebih untuk mengisi pengukur pada waktunya. Di [osu!taiko](/wiki/Game_mode/osu!taiko), denden juga membutuhkan hit yang lebih banyak untuk diselesaikan. Spin per detik sangat dibutuhkan untuk menyelesaikan spinner, yang dimana akan dijelaskan dengan rumus berikut:
+Overall difficulty juga berefek pada spinner, di mana mereka harus memutar lebih untuk mengisi pengukur pada waktunya. Di [osu!taiko](/wiki/Game_mode/osu!taiko), denden juga membutuhkan hit yang lebih banyak untuk diselesaikan. Spin per detik sangat dibutuhkan untuk menyelesaikan spinner, yang dimana akan dijelaskan dengan rumus berikut:
 
 - OD < 5: `5 - 2 * (5 - OD) / 5`
 - OD = 5: `5`
 - OD > 5: `5 + 2.5 * (OD - 5) / 5`
-
-## Notelock
-
-Di osu!, sistem timing tidak akan mengijinkan hit object untuk diselesaikan sampai objek sebelumnya sudah diselesaikan terlebih dahulu (atau terjadi miss setelah hit window diselesaikan). Ini bisa mengarah pada contoh dari **notelock** dimana pemain akan mendapatkan miss, meskipun mereka mengenainya dengan sempurna disaat beat tersinkronisasi. Ini lebih sering terjadi beaatmap yang memiliki nilai OD yang rendah, karena hit window dari hit object lebih sering saling melengkapi.
 
 ## Efek mod
 
@@ -52,4 +47,4 @@ Meskipun Half Time dan Double Time tidak mengganti nilai OD, tetapi perbedaan ke
 
 ## osu!catch
 
-Overall difficulty dapat ditemukan ketika melihat informasi beatmap, tapi tidak ada pengaruhnya terhadap gameplay.
+Overall difficulty dapat ditemukan ketika melihat informasi beatmap, tetapi tidak ada pengaruhnya terhadap gameplay.

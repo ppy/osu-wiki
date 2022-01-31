@@ -18,4 +18,4 @@ Ympyrät ovat alanäytössä ja tarina ylänäytössä. Jokainen kenttä on käy
 
 ### Kuinka pelaan?
 
-Koska monilla PCn käyttäjillä ei ole kosketusnäyttöä, tämä peli on tehty pelaatavaksi hiirellä tai muilla mahdollisilla ohjaimilla (wiimote toimii melko hyvin, samoin graafinen tabletti). Eri pelityylejä voi löytää [Play Styles](/wiki/Play_Styles) sivulta. Jotkut kappaleet panevat hiiren äärirajoille, mutta kaikki ovat testattuja ja ovat (jotenkin) läpäistävissä pelkällä hiirellä.
+Koska monilla PCn käyttäjillä ei ole kosketusnäyttöä, tämä peli on tehty pelaatavaksi hiirellä tai muilla mahdollisilla ohjaimilla (wiimote toimii melko hyvin, samoin graafinen tabletti). Eri pelityylejä voi löytää [Play Styles](/wiki/Play_style) sivulta. Jotkut kappaleet panevat hiiren äärirajoille, mutta kaikki ovat testattuja ja ovat (jotenkin) läpäistävissä pelkällä hiirellä.

@@ -28,8 +28,8 @@ Alasan di balik ini adalah karena, kebanyakan beatmap osu!mania dibuat oleh mapp
 ## Trivia
 
 - Mod Mirror ditambahkan pada September 2019, sebagai bentuk respon dari [permintaan fitur](https://osu.ppy.sh/community/forums/topics/956618) oleh pemain yang bernama [Kamuy](https://osu.ppy.sh/users/7439226).
-  - Pada waktu permintaan fitur tersebut diajukan, sudah ada mod yang mirip mod Mirror yang di implementasikan di [osu!lazer](https://github.com/ppy/osu#osu "GitHub"), tetapi, karena sifat mod Mirror yang dapat meningkatkan aksesibilitas kepada lebih banyak pemain, mod tersebut ditambahkan ke dalam versi Stable osu!.
+  - Pada waktu permintaan fitur tersebut diajukan, sudah ada mod yang mirip mod Mirror yang di implementasikan di [osu!lazer](https://github.com/ppy/osu#osu), tetapi, karena sifat mod Mirror yang dapat meningkatkan aksesibilitas kepada lebih banyak pemain, mod tersebut ditambahkan ke dalam versi Stable osu!.
   - Mod Mirror yang terkini sebenarnya sudah diminta beberapa kali, bertahun-tahun sebelum permintaan fitur oleh Kamuy, tetapi, post Kamuy adalah satu-satunya yang mendapatkan banyak perhatian untuk mod tersebut ditambahkan.
-- Mod Mirror merupakan satu-satunya mod dalam kategori "Spesial" yang tidak bersifat Unranked. Para pemain yang bermain dengan menggunakan mod ini dapat memperoleh [performance point (pp)](/wiki/Performance_Points) maupun [skor](/wiki/Score) seperti pada umumnya.
+- Mod Mirror merupakan satu-satunya mod dalam kategori "Spesial" yang tidak bersifat Unranked. Para pemain yang bermain dengan menggunakan mod ini dapat memperoleh [performance point (pp)](/wiki/Performance_points) maupun [skor](/wiki/Gameplay/Score) seperti pada umumnya.
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

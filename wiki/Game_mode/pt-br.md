@@ -9,13 +9,13 @@ outdated_since: d5b45241bf64c7abeadfa160238f428bbcaa4d2a
 
 *Página principal: [osu!](osu!)*
 
-Baseado no *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")*. Clique, arraste e rotacione os objetos ao ritmo da música.
+Baseado no *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)*. Clique, arraste e rotacione os objetos ao ritmo da música.
 
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 *Página principal: [osu!taiko](osu!taiko)*
 
-Baseado no *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia")*. Batuque e role os tambores do taiko ao ritmo da música.
+Baseado no *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)*. Batuque e role os tambores do taiko ao ritmo da música.
 
 ## ![](/wiki/shared/mode/catch.png) osu!catch
 

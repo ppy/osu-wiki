@@ -1,28 +1,25 @@
----
-outdated: true
-outdated_since: c1175ba788c488eb294b1b04c55a6dee798009de
----
+# Équipe du support
 
-# Équipe du Support
+*Pour une équipe qui administre les comptes, voir : [Équipe de support aux comptes](/wiki/People/The_Team/Account_support_team)*
 
-L'**équipe de support** (aussi connu sous le nom de **Équipe de support Redux**, à ne pas confondre avec l'équipe de support pour les comptes, aussi connu sous le nom d' "Équipe de support") sont des membres du staff d'osu! dont leur objectif premier est d'aider les joueurs par la modération d'une partie des sous-forums du jeu : [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (sauf [Tournaments](https://osu.ppy.sh/community/forums/55) et [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), et [Help](https://osu.ppy.sh/community/forums/5).
+L'**Équipe du support**, également connue sous le nom de **Support Team Redux**, est composée de membres du personnel d'osu! qui se concentrent sur la modération de plusieurs sous-forums : [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (à l'exception de [Tournaments](https://osu.ppy.sh/community/forums/55) et [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4) et [Help](https://osu.ppy.sh/community/forums/5).
 
-## Responsabilités
+## Rôles et responsabilités
 
-L'équipe de support est responsable de :
+L'Équipe du support est responsable de :
 
-1. Tester et/ou confirmer les rapports de bugs puis laisser les développeurs les résoudre,
-2. Organiser les sujets des sections [Feature Requests](https://osu.ppy.sh/community/forums/4) et [Help](https://osu.ppy.sh/community/forums/5) et leur attribuer un statut : *résolu*, *confirmé*, *non valide*, *doublon* ou *ajouté*.
+1. Tester et/ou confirmer les rapports de bugs pour en informer les développeurs et leur permettre de les résoudre.
+2. Organiser des fils de discussion dans les sous-forums [Feature Requests](https://osu.ppy.sh/community/forums/4) et [Help](https://osu.ppy.sh/community/forums/5), en les marquant comme *Resolved*, *Confirmed*, *Invalid*, *Duplicate* et/ou *Added*.
 
-Si quelqu'un a besoin d'aide sur lesdits sous-forums, l'équipe de support est là pour ça.
+Si quelqu'un a besoin d'aide sur lesdits sous-forums, les membres de cette équipe sont disponibles pour l'aider.
 
 ## Membres de l'équipe
 
-La liste de tous les membres du [groupe de l'équipe de support](https://osu.ppy.sh/groups/22).
+La [page de groupe de la Support Team](https://osu.ppy.sh/groups/22) énumère tous les membres de l'équipe.
 
-*Veuillez noter que tous les membres de l'équipe de support peuvent également parler anglais en plus des langues listées ci-dessous.*
+*Remarque : Tous les membres de l'Équipe du support parlent l'anglais en plus de la ou des langues énumérées ci-dessous, sauf indication contraire.*
 
-| Nom | Langues parlées |
+| Nom | Langues additionnelles |
 | :-- | :-- |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |

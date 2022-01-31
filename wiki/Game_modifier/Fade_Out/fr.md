@@ -31,7 +31,7 @@ tags:
 
 *Avis : Ce mod n'est plus disponible pour utilisation.*
 
-Le mod **Fade Out** était un [modificateur de jeu](/wiki/Game_modifier) pour [osu!mania](/wiki/Game_mode/osu!mania) qui visait à créer une expérience similaire au mod [Fade In](/wiki/Game_modifier/Fade_In), avec les notes s'effaçant en *arrière* avant d'être frappées (au lieu de s'effacer en *avant*). Ce mod a été remplacé par le mod [Hidden](/wiki/Game_Modifier/Hidden).
+Le mod **Fade Out** était un [modificateur de jeu](/wiki/Game_modifier) pour [osu!mania](/wiki/Game_mode/osu!mania) qui visait à créer une expérience similaire au mod [Fade In](/wiki/Game_modifier/Fade_In), avec les notes s'effaçant en *arrière* avant d'être frappées (au lieu de s'effacer en *avant*). Ce mod a été remplacé par le mod [Hidden](/wiki/Game_modifier/Hidden).
 
 Le mod Hidden et le mod Fade Out ont la même fonctionnalité.
 

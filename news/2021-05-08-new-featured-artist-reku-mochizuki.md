@@ -12,7 +12,7 @@ Illustrating some of the rhythm gaming scene's finest talent in recent years, **
 
 We've hand-picked **12** tracks for your mapping needs, all standing at the perfect game-size 2 minute mark and up for grabs on [**Reku Mochizuki**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/163).
 
-Since **Reku Mochizuki** is a relatively new face to osu!, folks from the [Mappers' Guild](/wiki/Mappers_Guild) set up a batch of [showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps) for you to experience this sound for yourself. Check those out below or watch the mapper [Yugu](https://osu.ppy.sh/users/3161834)'s hydraulic pressed sliders on his map of [*Yorixiro*](https://osu.ppy.sh/beatmapsets/1438879):
+Since **Reku Mochizuki** is a relatively new face to osu!, folks from the [Mappers' Guild](/wiki/Community/Mappers_Guild) set up a batch of [showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) for you to experience this sound for yourself. Check those out below or watch the mapper [Yugu](https://osu.ppy.sh/users/3161834)'s hydraulic pressed sliders on his map of [*Yorixiro*](https://osu.ppy.sh/beatmapsets/1438879):
 
 <div align="center">
     <video width="95%" controls>

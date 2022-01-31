@@ -8,23 +8,23 @@ These rules and guidelines have been discussed in the [Ranking Criteria subforum
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
 
-- ![](/wiki/shared/diff/easy-t.png) Kantan
-- ![](/wiki/shared/diff/normal-t.png) Futsuu
-- ![](/wiki/shared/diff/hard-t.png) Muzukashii
-- ![](/wiki/shared/diff/insane-t.png) Oni
-- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+- ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
+- ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
+- ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png?20211215) Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
 
 ### Gameplay
 
-- **Don / Red note:** A beat that can be hit with any of the Drum Center attached keys (default keys `X`, `C`).
+- **Don / Red note:** A beat that can be hit with any of the Drum Centre attached keys (default keys `X`, `C`).
 - **Kat / Blue note:** A beat that can be hit with any of the Drum Rim attached keys (default keys `Z`, `V`).
-- **Big don / Big red note / Finisher note:** A strong beat that can be hit with both Drum Center keys at the same time for extra score.
+- **Big don / Big red note / Finisher note:** A strong beat that can be hit with both Drum Centre keys at the same time for extra score.
 - **Big kat / Big blue note / Finisher note:** A strong beat that can be hit with both Drum Rim keys at the same time for extra score.
 - **BPM:** An acronym for "beats per minute" used to determine the tempo of a song.
 - **Slider/Drumroll:** A yellow bar with ticks inside of it which are played with any of the assigned keys. These ticks are usually snapped to 1/4 corresponding to the song's BPM. If the BPM is lower than 125, the snapping will change to 1/8. If the BPM is higher than 250, it will change to 1/2. If slider tick rate is set to 3, the slider ticks will instead snap to 1/3.
-- **Spinner:** A round element that requires the player to alternate between hitting Don/Kat for a determined number of times, which is shown in the center of the spinner. This number depends on the Overall Difficulty of the map as well as the length of the spinner.
+- **Spinner:** A round element that requires the player to alternate between hitting Don/Kat for a determined number of times, which is shown in the centre of the spinner. This number depends on the Overall Difficulty of the map as well as the length of the spinner.
 - **Bar line:** A line that appears on the playfield and determines the start of a measure.
 - **Overlap:** A note that partially or totally covers other note(s) in the playfield.
 - **Rest moment:** A period of time without notes used specifically to allow the player to rest their hands and prepare for the upcoming patterns.
@@ -50,7 +50,7 @@ All rules are exactly that: **rules**. They are **not** guidelines and must **no
 - **Every note must be clearly assignable to a musical layer or layer unit it tries to represent, be it to enhance a layer the song provides, or be it an additional layer improvised by the mapper.** Do not improvise in a fashion that shifts the pace, contradicts the general music movement or misinterprets the song's current intensity. Improvising must either enhance a current layer of the song or add a new one. Otherwise, relation to the song is given up and this contradicts the main purpose of a rhythm game.
 - **The `Omit first bar line` feature of an uninherited timing point must be used when a BPM change/metronome reset would hinder gameplay experience aesthetically by adding unnecessary bar lines.**
 - **Taiko template backgrounds must not be used.** Due to various screen resolutions being common they do not work as they were originally intended to.
-- **Sliderends must not be wrongly snapped to correct missing slider ticks.** This behaviour is unintended and will be corrected in the future.
+- **Slider tails must not be wrongly snapped to correct missing slider ticks.** This behaviour is unintended and will be corrected in the future.
 
 #### Guidelines
 
@@ -62,10 +62,10 @@ Guidelines may be ignored under **exceptional** circumstances. These exceptional
 - **Avoid abrupt slider velocity changes within patterns that already overlap (e.g. 1/4 streams).** Smooth slider velocity changes should be used in these cases to ensure that the patterns stay readable.
 - **Substantial overlapping should be avoided so that the colour of each note is still easily readable and does not pose unnecessary visual disturbance.** Overlapping should only be done if the song's pacing or note snapping at that point could justify it.
 - **Avoid rhythms which are in no way predictable.** Rhythm can be made intuitive through the usage of consistent timeline gaps bridging between different snappings or through rest moments.
-- **Kiai time should only be used for the chorus or emphasized parts of a song.** Kiai flashes/short kiais are discouraged for several reasons: they disturb the gameplay experience especially on low-end PC users, and can cause trouble for epileptic users.
-- **The base slider velocity should be 1.40 throughout all difficulties of a mapset.** This is to ensure optimal quantity of notes on the playfield, as well as the optimal distance of separation between different notes.
-- **Slider tick rate should be set according to the song.** In most cases, it should be set to 1. If the song uses 1/3 as its main snapping, use tickrate 3 to snap the drumroll ticks to 1/3.
-- **Avoid following multiple layers of the song if it is unclear which rhythm is being prioritized.** Players should be able to discern what part of the song is being followed.
+- **Kiai time should only be used for the chorus or emphasised parts of a song.** Kiai flashes/short kiais are discouraged for several reasons: they disturb the gameplay experience especially on low-end PC users, and can cause trouble for epileptic users.
+- **The base slider velocity should be 1.40 throughout all difficulties of a beatmap.** This is to ensure optimal quantity of notes on the playfield, as well as the optimal distance of separation between different notes.
+- **Slider tick rate should be set according to the song.** In most cases, it should be set to 1. If the song uses 1/3 as its main snapping, use tick rate 3 to snap the drumroll ticks to 1/3.
+- **Avoid following multiple layers of the song if it is unclear which rhythm is being prioritised.** Players should be able to discern what part of the song is being followed.
 - **Use low volume or silent spinners only when it suits a low volume section of the song.** In most other scenarios, having audible hitsound feedback on spinners is highly recommended.
 - **Songs with variable BPM may use frequent slider velocity changes in order to keep the scrolling speed at which notes move approximately constant.** Doing this will make the timeline gaps between notes easily predictable and enhance gameplay experience by avoiding overlaps due to BPM changes.
 - **Avoid visually obstructing notes on the playfield with active spinners.** Spinners cover the majority of the screen, so ending them too close towards the upcoming notes can result in reading spikes. Usually having 1/2 distance between a spinner and the following note solves this.
@@ -75,7 +75,7 @@ Guidelines may be ignored under **exceptional** circumstances. These exceptional
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!taiko difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
-### ![](/wiki/shared/diff/easy-t.png) Kantan
+### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 
 #### Rules
 
@@ -95,7 +95,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - Overall Difficulty should be 4 or less.
 - HP Drain Rate should be 6 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 6.
 
-### ![](/wiki/shared/diff/normal-t.png) Futsuu
+### ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 
 #### Rules
 
@@ -125,7 +125,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - Overall Difficulty should be 5 or less.
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
-### ![](/wiki/shared/diff/hard-t.png) Muzukashii
+### ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 
 #### Rules
 
@@ -148,7 +148,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - Overall Difficulty should be 5 or less.
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
-### ![](/wiki/shared/diff/insane-t.png) Oni
+### ![](/wiki/shared/diff/insane-t.png?20211215) Oni
 
 #### Rules
 
@@ -170,7 +170,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - Overall Difficulty should be 5 or more.
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
-### ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+### ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
 
 #### Guidelines
 

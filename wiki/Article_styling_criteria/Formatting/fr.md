@@ -2,7 +2,7 @@
 
 *Pour les normes de rédaction, voir : [Critères de style des articles/Rédaction](../Writing)*
 
-*Note : Cet article utilise [RFC 2119](https://tools.ietf.org/html/rfc2119 "Outils IETF") pour décrire les niveaux d'exigence.*
+*Note : Cet article utilise [RFC 2119](https://tools.ietf.org/html/rfc2119) pour décrire les niveaux d'exigence.*
 
 ## Locales
 
@@ -58,7 +58,7 @@ Dans certains cas, il est permis de différer le contenu :
 
 ## Page de garde
 
-La page de garde doit être placée tout en haut du fichier. Elle est écrite en [YAML](https://fr.wikipedia.org/wiki/YAML#Exemple "Article sur le YAML sur Wikipédia") et décrit des informations supplémentaires sur l'article. Elle doit être entourée de trois traits d'union (`---`) sur les lignes qui la précèdent et la suivent, et d'une ligne vide avant l'intitulé du titre.
+La page de garde doit être placée tout en haut du fichier. Elle est écrite en [YAML](https://fr.wikipedia.org/wiki/YAML#Exemple) et décrit des informations supplémentaires sur l'article. Elle doit être entourée de trois traits d'union (`---`) sur les lignes qui la précèdent et la suivent, et d'une ligne vide avant l'intitulé du titre.
 
 ### Articles nécessitant une aide
 
@@ -111,7 +111,7 @@ no_native_review: true
 
 *Voir aussi : [Noms de dossiers](#noms-de-dossiers) et [Titres](#titres)*
 
-Les titres des articles doivent être au singulier et utiliser la casse. Pour plus de détails, consulter l'[article sur les conventions de dénomination de Wikipédia](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals) "Wikipédia (en anglais)").
+Les titres des articles doivent être au singulier et utiliser la casse. Pour plus de détails, consulter l'[article sur les conventions de dénomination de Wikipédia](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals)).
 
 Les titres des articles doivent correspondre au nom du dossier dans lequel ils se trouvent (les espaces peuvent remplacer les traits de soulignement (`_`) le cas échéant). Si le nom du dossier change, le titre de l'article doit être modifié en conséquence et vice versa.
 
@@ -149,7 +149,7 @@ Les articles de [désambiguïsation](/wiki/Disambiguation) doivent être placés
 
 Les redirections doivent être mises à jour afin que les mots clés ambigus soient redirigés vers l'article de désambiguïsation.
 
-Les articles liés à partir d'un article de désambiguïsation doivent avoir une hatnote [pour d'autres utilisations](#for-other-uses).
+Les articles liés à partir d'un article de désambiguïsation doivent avoir une hatnote [pour d'autres utilisations](#pour-d'autres-utilisations).
 
 ## HTML
 
@@ -294,7 +294,7 @@ L'italique peut également être utilisé pour accenter un ou plusieurs mots ou 
 
 Toutes les rubriques doivent respecter la casse.
 
-Les rubriques doivent utiliser le style [ATX (dièse)](https://github.github.com/gfm/#atx-headings "GitHub") et doivent être précédées et suivies d'une ligne vide. Le titre est une exception lorsqu'il se trouve sur la première ligne. Dans ce cas, il suffit de laisser une ligne vide après le titre.
+Les rubriques doivent utiliser le style [ATX (dièse)](https://github.github.com/gfm/#atx-headings) et doivent être précédées et suivies d'une ligne vide. Le titre est une exception lorsqu'il se trouve sur la première ligne. Dans ce cas, il suffit de laisser une ligne vide après le titre.
 
 Les rubriques ne doivent pas dépasser un niveau d'en-tête de 5 et ne doivent pas être utilisées pour styliser ou formater le texte.
 
@@ -315,6 +315,23 @@ Les titres de section doivent utiliser les niveaux 2 à 5. L'en-tête de section
 Les titres de section ne doivent pas sauter un niveau de titre (c'est-à-dire ne pas passer d'un titre de niveau 2 à un titre de niveau 4) et ne doivent pas contenir de formatage ou de liens.
 
 *Remarque : Sur le site web, les niveaux de rubrique 4 et 5 n'apparaîtront pas dans la table des matières. Ils ne peuvent pas non plus faire l'objet d'un lien direct.*
+
+### Identifiants personnalisés
+
+Il est possible de redéfinir l'identifiant d'une section, qui est utilisé pour y accéder directement. Les identifiants personnalisés doivent être utilisés dans le cas où ceux générés automatiquement sont trop longs ou contiennent des signes de ponctuation ou des images complexes :
+
+```markdown
+## Mon délai de réflexion est passé. Comment puis-je faire appel ? {#appel}
+
+## Raisons de restriction communes et cooldowns {#raisons-communes}
+```
+
+Cette fonction peut également être utilisée pour baliser une partie spécifique de l'article qui n'a pas de titre. Utilisez-la avec parcimonie :
+
+```markdown
+> Voilà, c'est fait ! Vous êtes sur la bonne voie pour devenir un champion du rythme d'osu!
+{#citation-tutoriel}
+```
 
 ## Listes
 
@@ -465,7 +482,7 @@ Il existe deux types de liens : en ligne et de référence. Les liens en ligne o
 Voici un exemple des deux styles en ligne :
 
 ```markdown
-[Modificateurs de jeu](/wiki/Game_Modifiers)
+[Modificateurs de jeu](/wiki/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -475,7 +492,7 @@ Voici un exemple de style de référence :
 ```markdown
 [Modificateurs de jeu][lien vers les mods de jeu]
 
-[lien vers les mods de jeu]: /wiki/Game_Modifiers
+[lien vers les mods de jeu]: /wiki/Game_modifier
 ```
 
 ---
@@ -513,8 +530,8 @@ Voici de bons exemples :
 
 ```markdown
 [Critères de style des articles](/wiki/Article_styling_criteria)
-[Developers](/wiki/Developers)
-[Developers](/wiki/Developers#game-client-developers)
+[Developers](/wiki/People/The_Team/Developers)
+[Developers](/wiki/People/The_Team/Developers#game-client-developers)
 ```
 
 *Remarque : ne pas traduire les liens entre parenthèses, sinon la redirection ne fonctionnera plus.*
@@ -524,7 +541,7 @@ Voici de bons exemples :
 Les liens Wiki qui pointent vers un sous-article doivent inclure le nom du dossier de l'article parent dans le texte du lien. Voir l'exemple suivant :
 
 ```markdown
-*Voir aussi : [Beatmap Editor/Design](/wiki/Beatmap_Editor/Design)*
+*Voir aussi : [Beatmap Editor/Design](/wiki/Client/Beatmap_editor/Design)*
 ```
 
 ##### Liens de section
@@ -588,7 +605,7 @@ Le protocole `https` doit être utilisé, sauf si le site ne le prend pas en cha
 Il n'y a pas de différences visuelles entre les liens externes et les liens Web d'osu!. Pour cette raison, le nom du site web doit être inclus dans le texte du titre. Voir l'exemple suivant :
 
 ```markdown
-*Pour plus d'informations sur la théorie musicale, voir : [Théorie de la musique](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_musique "Wikipédia")*
+*Pour plus d'informations sur la théorie musicale, voir : [Théorie de la musique](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_musique)*
 ```
 
 ## Images
@@ -598,20 +615,38 @@ Il existe deux types de liens d'image : en ligne et de référence. Exemples :
 **Style en ligne :**
 
 ```markdown
-![](/wiki/shared/flag/AU.gif)
+![Couronne en or](/wiki/shared/crown-gold.png "1ère place")
 ```
 
 **Style de référence :**
 
 ```markdown
-![][flag_AU]
+![Couronne en or][GCrown]
 
-[flag_AU]: /wiki/shared/flag/AU.gif
+[GCrown]: /wiki/shared/crown-gold.png "1ère place"
 ```
 
-Les images doivent utiliser le style de lien en ligne. Les références aux liens de référence doivent être placées en bas de l'article.
+Les images doivent utiliser le style de lien en ligne. Les définitions des liens de référence doivent être placées au bas de l'article.
 
-Les images doivent être placées dans un dossier nommé `img`, situé dans le dossier de l'article. Les images qui sont utilisées dans plusieurs articles doivent être stockées dans le dossier `/wiki/shared/`.
+### Texte alternatif et texte de titre
+
+Le texte figurant dans la première paire de crochets (*texte alternatif*) doit décrire l'image littéralement. Il est utilisé par les lecteurs d'écran ou lorsque le chargement de l'image échoue. Il peut être omis s'il est identique au texte du titre ou si l'image est incluse uniquement à des fins décoratives.
+
+Le texte entre guillemets (*texte du titre*) doit donner un contexte supplémentaire à l'image ou indiquer sa signification. Il s'affiche sous forme d'info-bulle lors du survol de l'image et est utilisé comme légende, le cas échéant. Il ne prend en charge aucun formatage markdown.
+
+### Rendu
+
+Si une image est le seul contenu d'un paragraphe, elle s'affiche comme un bloc centré. Sinon, elle se fond dans le texte en ligne qui l'entoure.
+
+Les images en bloc avec un texte de titre affichent le texte du titre comme une légende sous l'image.
+
+Les images en bloc sont généralement associées au formatage des infobox afin de réduire leur taille initiale et de les faire flotter à côté d'autres contenus :
+
+```markdown
+::: Infobox
+![](img/mod-response.png "Un exemple de réponse à un mod")
+:::
+```
 
 ### Mise en cache des images
 
@@ -627,7 +662,7 @@ Les images doivent utiliser le format JPG en qualité 8 (80 ou 80%, selon le pro
 
 Les images doivent être inférieures à 1 mégaoctet, sinon elles ne se chargeront pas. La réduction d'échelle et l'utilisation du format JPG à 80 % permettent presque toujours de respecter la taille limite.
 
-Toutes les images doivent être optimisées autant que possible. Utilisez [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive "GitHub") pour compresser les images JPEG. Par souci de cohérence, utilisez la commande suivante pour jpeg-archive :
+Toutes les images doivent être optimisées autant que possible. Utilisez [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) pour compresser les images JPEG. Par souci de cohérence, utilisez la commande suivante pour jpeg-archive :
 
 ```sh
 jpeg-recompress -am smallfry <input> <output>
@@ -641,33 +676,7 @@ Où `<input>` est le nom du fichier à compresser et `<output>` est le nom du fi
 
 Utilisez des traits d'union (`-`) pour espacer les mots. Lorsque vous nommez une image, le nom du fichier doit être significatif ou descriptif mais court.
 
-### Mise en page et positionnement
-
-*Remarque : il n'est actuellement pas possible de faire flotter une image ou de faire en sorte que le texte s'enroule autour d'elle.*
-
-Les images sur le site web seront centrées lorsqu'elles se trouvent sur une seule ligne, par elles-mêmes. Sinon, elles seront placées en ligne avec le paragraphe. L'exemple suivant placera l'image au centre :
-
-```markdown
-L'installation d'osu! est facile. Tout d'abord, téléchargez le programme d'installation depuis la page de téléchargement.
-
-![](img/download-page.jpg)
-
-Localisez ensuite le programme d'installation et exécutez-le.
-```
-
-### Texte alternatif
-
-Les images doivent être accompagnées d'un texte alternatif, sauf si elles ont un but décoratif.
-
-### Légendes
-
-Les images sont légendées sur le site web si elles remplissent ces conditions :
-
-1. L'image est seule.
-2. L'image n'est pas à l'intérieur d'un titre.
-3. L'image a un titre.
-
-Les légendes sont reprises dans le texte du titre, qui doit être en texte clair. Les images avec légendes sont également centrées avec l'image sur le site web.
+Les images doivent être placées dans un dossier nommé `img`, situé dans le dossier de l'article. Les images qui sont utilisées dans plusieurs articles doivent être stockées dans le dossier `/wiki/shared/`.
 
 ### Largeur maximale de l'image
 
@@ -720,15 +729,15 @@ Les icônes de drapeau situées à côté des liens utilisateur doivent être s�
 
 ### Icônes de drapeaux
 
-*Pour une liste d'icônes de drapeaux, voir : [issue \#328](https://github.com/ppy/osu-wiki/issues/328 "GitHub")*
+*Pour une liste d'icônes de drapeaux, voir : [issue \#328](https://github.com/ppy/osu-wiki/issues/328)*
 
 Les icônes de drapeau utilisent le code à deux lettres (en majuscules) et se terminent par `.gif`. Lorsque vous ajoutez un drapeau en ligne, utilisez ce format :
 
 ```markdown
-![](/wiki/shared/flag/xx.gif)
+![](/wiki/shared/flag/XX.gif)
 ```
 
-Où `xx` est le code pays à deux lettres [ISO 3166-2](https://fr.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipédia") du drapeau.
+Où `XX` est le code pays à deux lettres [ISO 3166-2](https://fr.wikipedia.org/wiki/ISO_3166-1_alpha-2) du drapeau.
 
 Le nom complet du pays doit être ajouté dans le texte du titre. Le code du pays dans le texte alternatif est facultatif, mais doit être appliqué à toutes les icônes de drapeau dans l'article.
 

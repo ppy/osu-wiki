@@ -12,13 +12,13 @@ tags:
 
 ![BanchoBot ユーザーカード](img/BanchoBot.jpg "BanchoBot ユーザーカード")
 
-**BanchoBot**（*Bancho*と呼ばれることもあります）はosu!のために作られたオンラインチャットボットで、ゲームに関するメッセージ（例：累計プレイ回数、リトライ回数など）をお知らせしたり、特定のコマンドに応答したりして、ゲーム内のチャットでプレイヤーを支援します。[Echo](https://osu.ppy.sh/users/431)によってプログラムされ、[Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat)を提供しています。
+**BanchoBot**（*Bancho*と呼ばれることもあります）はosu!のために作られたオンラインチャットボットで、ゲームに関するメッセージ（例：累計プレイ回数、リトライ回数など）をお知らせしたり、特定のコマンドに応答したりして、ゲーム内のチャットでプレイヤーを支援します。[Echo](https://osu.ppy.sh/users/431)によってプログラムされ、[Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat)を提供しています。
 
 BanchoBotは[osu!プロフィール](https://osu.ppy.sh/users/3)や[Twitterアカウント](https://twitter.com/banchoboat)を持っています。
 
 ## コマンド
 
-*ゲーム内クライアントのコマンド一覧については、こちらを参照してください: [チャットコンソール](/wiki/Chat_Console#commands-list)*
+*ゲーム内クライアントのコマンド一覧については、こちらを参照してください: [チャットコンソール](/wiki/Client/Interface/Chat_console#コマンド一覧)*
 
 BanchoBotは、チャットで特定のメッセージを介してプレイヤーのコマンドに応答することができます。BanchoBotの全てのコマンドは、感嘆符(`!`)で始まり、その後に大文字小文字を区別しないコマンド名（間にスペースを入れない）が続きます。これらのコマンドは、チャットチャンネルやBanchoBotとのプライベートメッセージで使用できます。
 
@@ -80,7 +80,7 @@ BanchoBotの全コマンドの一覧は以下の通りです：
 !stats <username>
 ```
 
-`!stats`は、入力されたユーザーのゲーム統計情報と現在の状態を表示します。出力は入力されたユーザが最後にプレイした[ゲームモード](/wiki/Game_Modes)に依存しますが、BanchoBotは統計がどのゲームモードのものであるかは表示しなません。osu!をプレイしたことのないユーザーの統計情報を表示するように指示された場合、そのユーザーが存在していても、BanchoBotは`User not found`と応答します。このコマンドの送信例を以下に示します：
+`!stats`は、入力されたユーザーのゲーム統計情報と現在の状態を表示します。出力は入力されたユーザが最後にプレイした[ゲームモード](/wiki/Game_mode)に依存しますが、BanchoBotは統計がどのゲームモードのものであるかは表示しなません。osu!をプレイしたことのないユーザーの統計情報を表示するように指示された場合、そのユーザーが存在していても、BanchoBotは`User not found`と応答します。このコマンドの送信例を以下に示します：
 
 ```
 13:01 pippi: !stats peppy
@@ -137,13 +137,13 @@ BanchoBotの全コマンドの一覧は以下の通りです：
 
 ### Report
 
-*報告する価値があるものについては、[悪い行動の報告](/wiki/Reporting_Bad_Behaviour)を参照してください。*
+*報告する価値があるものについては、[悪い行動の報告](/wiki/Reporting_bad_behaviour)を参照してください。*
 
 ```
 !report <user> <reason>
 ```
 
-`!report`は、ユーザーの不適切な行動を[グローバルモデレーションチーム](/wiki/Global_Moderation_Team)に通知します。ユーザー名にスペースがある場合は、アンダースコアに置き換えてください（例：`really cool username`は`really_cool_username`になります）。モデレーターを報告するには、[アカウントサポートチーム](/wiki/People/The_Team/Account_support_team#support@ppy.sh)に連絡してください。BanchoBotを使って一般ユーザーを報告する例を以下に示します：
+`!report`は、ユーザーの不適切な行動を[グローバルモデレーションチーム](/wiki/People/The_Team/Global_Moderation_Team)に通知します。ユーザー名にスペースがある場合は、アンダースコアに置き換えてください（例：`really cool username`は`really_cool_username`になります）。モデレーターを報告するには、[アカウントサポートチーム](/wiki/People/The_Team/Account_support_team#support@ppy.sh)に連絡してください。BanchoBotを使って一般ユーザーを報告する例を以下に示します：
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

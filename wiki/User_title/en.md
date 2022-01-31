@@ -14,7 +14,7 @@ tags:
 
 ![Screenshot of Tom94's profile information](img/dev.png "The \"osu!dev\" title can be seen near the top of Tom94's profile.")
 
-A **user title** is a short label on a user's profile page set by the [osu!team](/wiki/People/The_Team). Most titles indicate membership of a [user group](/wiki/People/The_Team#user-groups), but some users have earned [more unique titles](/wiki/People/Users_with_unique_titles) for specific achievements or contributions.
+A **user title** is a short label on a user's profile page set by the [osu! team](/wiki/People/The_Team). Most titles indicate membership of a [user group](/wiki/People/The_Team#user-groups), but some users have earned [more unique titles](/wiki/People/Users_with_unique_titles) for specific achievements or contributions.
 
 The colour of a user title is the same as the user's colour, which is also usually set by group membership. If the user has no colour set, the title is white.
 

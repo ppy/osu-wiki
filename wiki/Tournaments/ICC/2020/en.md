@@ -8,7 +8,7 @@ tags:
 
 ![ICC 2020 logo](img/logo.jpg)
 
-The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), and ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) in which all beatmaps played in the tournament were converted osu! beatmaps. The tournament was open to all osu!catch players from Indonesia with over 5,000 osu!catch playcount regardless of rank. It was the first installment of the Indonesia Convert Cup.
+The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), and ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) in which all beatmaps played in the tournament were converted osu! beatmaps. The tournament was open to all osu!catch players from Indonesia with over 5,000 osu!catch playcount regardless of rank. It was the first instalment of the Indonesia Convert Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1
 | --: | :-- |
 | Registration phase | 2020-09-13/2020-09-23 |
 | Screening phase | 2020-09-24/2020-09-30 |
-| Group Stage | 2020-10-05/2020-10-11 |
+| Group stage | 2020-10-05/2020-10-11 |
 | Round of 16 | 2020-10-12/2020-10-18 |
 | Quarterfinals | 2020-10-19/2020-10-25 |
 | Semifinals | 2020-10-26/2020-11-01 |
@@ -30,9 +30,9 @@ The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | IDR 600.000, ~30% of the raised prize pool |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | IDR 450.000, ~20% of the raised prize pool |
 
-![ICC 2020 winner badge](img/badge.png)
+![](img/badge.png "ICC 2020 winner badge")
 
-## Organization
+## Organisation
 
 ICC 2020 was run by various osu! community members predominantly hailing from Indonesia.
 
@@ -54,10 +54,6 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 - [Discord server](http://discord.gg/7g6TAj2)
 - [Livestream](https://www.twitch.tv/osuIndonesia)
 
-## Podium
-
-![Champion: dika312, 2nd place: Galaxi, 3rd place: Shurelia](img/podium.jpg)
-
 ## Participants
 
 | Group |  |  |  |  |
@@ -71,6 +67,10 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 | **G** | ![][flag_ID] [Valskiel](https://osu.ppy.sh/users/1254639) | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) | ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039) | *N/A* |
 | **H** | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422) | ![][flag_ID] [MrGulla](https://osu.ppy.sh/users/4540721) | ![][flag_ID] [INFormal](https://osu.ppy.sh/users/6525565) | *N/A* |
 
+## Podium
+
+![](img/podium.jpg "ICC 2020 podium")
+
 ## Mappools
 
 ### Finals
@@ -78,128 +78,128 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 **[Download the mappack here! (188 MB)](https://drive.google.com/file/d/1w426oYWbotWp80oQZriFgPsdUZ-DFwR4/view)**
 
 - NoMod
-  - [Omoi - Snow Drive(01.23) (Kroytz) \[Arigatou\]](https://osu.ppy.sh/beatmapsets/478405#fruits/1083052)
-  - [Toromaru - Enigma (AtHeoN) \[MASTER\]](https://osu.ppy.sh/beatmapsets/527869#fruits/2290441)   
-  - [KOAN Sound & Asa - fuego (sakuraburst remix) (Shiirn) \[Dreaming of Embers\]](https://osu.ppy.sh/beatmapsets/611806#fruits/1291369) 
-  - [TRUE - Divine Spell (Atalanta) \[Awoke\]](https://osu.ppy.sh/beatmapsets/886712#fruits/1853779)  
-  - [DJ Okawari - Flower Dance (Short Ver.) (-Hanayuki-) \[Hus AR9\]](https://osu.ppy.sh/beatmapsets/252981#fruits/674285)  
+  1. [Omoi - Snow Drive(01.23) (Kroytz) \[Arigatou\]](https://osu.ppy.sh/beatmapsets/478405#fruits/1083052)
+  2. [Toromaru - Enigma (AtHeoN) \[MASTER\]](https://osu.ppy.sh/beatmapsets/527869#fruits/2290441)   
+  3. [KOAN Sound & Asa - fuego (sakuraburst remix) (Shiirn) \[Dreaming of Embers\]](https://osu.ppy.sh/beatmapsets/611806#fruits/1291369) 
+  4. [TRUE - Divine Spell (Atalanta) \[Awoke\]](https://osu.ppy.sh/beatmapsets/886712#fruits/1853779)  
+  5. [DJ Okawari - Flower Dance (Short Ver.) (-Hanayuki-) \[Hus AR9\]](https://osu.ppy.sh/beatmapsets/252981#fruits/674285)  
 - Hidden
-  - [Jin feat. MARiA from GARNiDELiA - daze (\_kotachi\_) \[Let's "Excitement"\]](https://osu.ppy.sh/beatmapsets/620132#fruits/1307021)  
-  - [Memme - Sky of the Ocean (Syph) \[Hikaru's Extra.\]](https://osu.ppy.sh/beatmapsets/668888#fruits/1429744)  
-  - [SHK - Imagination (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/1078340#fruits/2256378) 
-  - [solfa feat.Shimotsuki Haruka - leap in your mind (Garden) \[Decay\]](https://osu.ppy.sh/beatmapsets/569071#fruits/1206489)   
+  1. [Jin feat. MARiA from GARNiDELiA - daze (\_kotachi\_) \[Let's "Excitement"\]](https://osu.ppy.sh/beatmapsets/620132#fruits/1307021)  
+  2. [Memme - Sky of the Ocean (Syph) \[Hikaru's Extra.\]](https://osu.ppy.sh/beatmapsets/668888#fruits/1429744)  
+  3. [SHK - Imagination (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/1078340#fruits/2256378) 
+  4. [solfa feat.Shimotsuki Haruka - leap in your mind (Garden) \[Decay\]](https://osu.ppy.sh/beatmapsets/569071#fruits/1206489)   
 - HardRock
-  - [a\_hisaxChicking - The Navigator's Hope (Rohit6) \[Endurance of the Seafarer\]](https://osu.ppy.sh/beatmapsets/439225#fruits/945304)  
-  - [nmk - sola (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/183267#fruits/439135)  
-  - [YURRY CANON - Nadeshiko color Heart (kwk) \[Sakase\]](https://osu.ppy.sh/beatmapsets/682996#fruits/1451733) 
-  - [Uinyasu, Occhoko Bunny - Tougen Roman (Epsilon Remix) (Sakura Airi) \[Odore\]](https://osu.ppy.sh/beatmapsets/1173379#fruits/2447252)   
+  1. [a\_hisaxChicking - The Navigator's Hope (Rohit6) \[Endurance of the Seafarer\]](https://osu.ppy.sh/beatmapsets/439225#fruits/945304)  
+  2. [nmk - sola (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/183267#fruits/439135)  
+  3. [YURRY CANON - Nadeshiko color Heart (kwk) \[Sakase\]](https://osu.ppy.sh/beatmapsets/682996#fruits/1451733) 
+  4. [Uinyasu, Occhoko Bunny - Tougen Roman (Epsilon Remix) (Sakura Airi) \[Odore\]](https://osu.ppy.sh/beatmapsets/1173379#fruits/2447252)   
 - DoubleTime
-  - [KOTOKO - Light My Fire (Dada) \[Vintage\]](https://osu.ppy.sh/beatmapsets/935912#fruits/1955207)  
-  - [Uehara Rena - Answer (Shad0w1and) \[Shinjitsu\]](https://osu.ppy.sh/beatmapsets/430141#fruits/927939)  
-  - [Shikata Akiko - Katayoku no Tori (IceKalt) \[Rio & Ice's Insane\]](https://osu.ppy.sh/beatmapsets/622500#fruits/1361543)  
-  - [Yuki Kajiura - Mezame (mercury2004) \[Mai\]](https://osu.ppy.sh/beatmapsets/22659#fruits/78049) 
+  1. [KOTOKO - Light My Fire (Dada) \[Vintage\]](https://osu.ppy.sh/beatmapsets/935912#fruits/1955207)  
+  2. [Uehara Rena - Answer (Shad0w1and) \[Shinjitsu\]](https://osu.ppy.sh/beatmapsets/430141#fruits/927939)  
+  3. [Shikata Akiko - Katayoku no Tori (IceKalt) \[Rio & Ice's Insane\]](https://osu.ppy.sh/beatmapsets/622500#fruits/1361543)  
+  4. [Yuki Kajiura - Mezame (mercury2004) \[Mai\]](https://osu.ppy.sh/beatmapsets/22659#fruits/78049) 
 - Tiebreaker
-  - **[Diao ye zong feat. Meramipop - Shinkirou (jonathanlfj) \[Collab Masquerade\]](https://osu.ppy.sh/beatmapsets/628765#fruits/1325510)**
+  1. **[Diao ye zong feat. Meramipop - Shinkirou (jonathanlfj) \[Collab Masquerade\]](https://osu.ppy.sh/beatmapsets/628765#fruits/1325510)**
 
 ### Semifinals
 
 **[Download the mappack here! (125 MB)](https://drive.google.com/file/d/1wo0pn8_Bmv342QbOjDTopaPOIqxD7VNK/view)**
 
 - NoMod
-  - [Ayumi. - Hanagoyomi (Mimari) \[Spirit.\]](https://osu.ppy.sh/beatmapsets/1155366#fruits/2411125)  
-  - [MaxNRG - Hide Away My Heart (Silverboxer) \[Always\]](https://osu.ppy.sh/beatmapsets/904621#fruits/1888178)  
-  - [Britney Spears - Toxic (schoolboy) \[In The Zone\]](https://osu.ppy.sh/beatmapsets/1061947#fruits/2223745) 
-  - [Rolling Contact - Technical Master (Naidaaka) \[owo\]](https://osu.ppy.sh/beatmapsets/630818#fruits/1331610)  
-  - [reworu - Gigantic O.T.N (murasaki_sk) \[AR9\]](https://osu.ppy.sh/beatmapsets/80906#fruits/230398)  
+  1. [Ayumi. - Hanagoyomi (Mimari) \[Spirit.\]](https://osu.ppy.sh/beatmapsets/1155366#fruits/2411125)  
+  2. [MaxNRG - Hide Away My Heart (Silverboxer) \[Always\]](https://osu.ppy.sh/beatmapsets/904621#fruits/1888178)  
+  3. [Britney Spears - Toxic (schoolboy) \[In The Zone\]](https://osu.ppy.sh/beatmapsets/1061947#fruits/2223745) 
+  4. [Rolling Contact - Technical Master (Naidaaka) \[owo\]](https://osu.ppy.sh/beatmapsets/630818#fruits/1331610)  
+  5. [reworu - Gigantic O.T.N (murasaki_sk) \[AR9\]](https://osu.ppy.sh/beatmapsets/80906#fruits/230398)  
 - Hidden
-  - [Getty vs. DJ DiA - Grayed Out -Antifront- (Arbane) \[Xtra\]](https://osu.ppy.sh/beatmapsets/598182#fruits/1264457)  
-  - [Hello, Happy World! - Goka! Gokai!? Phantom Thief! (Atalanta) \[Aqua's Another\]](https://osu.ppy.sh/beatmapsets/708445#fruits/1643246)  
-  - [x0o0x\_ - Big Brother (Luscent) \[Thoughtcrime\]](https://osu.ppy.sh/beatmapsets/1120687#fruits/2341682) 
-  - [ShinRa-Bansho - Marisa wa Taihen na Mono o Nusunde Ikimashita ShinRa-Bansho Ver (Len) \[Classic Extra\]](https://osu.ppy.sh/beatmapsets/1024028#fruits/2142037)   
+  1. [Getty vs. DJ DiA - Grayed Out -Antifront- (Arbane) \[Xtra\]](https://osu.ppy.sh/beatmapsets/598182#fruits/1264457)  
+  2. [Hello, Happy World! - Goka! Gokai!? Phantom Thief! (Atalanta) \[Aqua's Another\]](https://osu.ppy.sh/beatmapsets/708445#fruits/1643246)  
+  3. [x0o0x\_ - Big Brother (Luscent) \[Thoughtcrime\]](https://osu.ppy.sh/beatmapsets/1120687#fruits/2341682) 
+  4. [ShinRa-Bansho - Marisa wa Taihen na Mono o Nusunde Ikimashita ShinRa-Bansho Ver (Len) \[Classic Extra\]](https://osu.ppy.sh/beatmapsets/1024028#fruits/2142037)   
 - HardRock
-  - [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (Hivie) \[Neiro's Another\]](https://osu.ppy.sh/beatmapsets/1043808#fruits/2220124)  
-  - [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence (kiddly) \[Mythic\]](https://osu.ppy.sh/beatmapsets/84777#fruits/601731)  
-  - [Susumu Hirasawa - The Girl in Byakkoya (Pata-Mon) \[Paprika\]](https://osu.ppy.sh/beatmapsets/770240#osu/1619425) 
-  - [Ice vs. Morimori Atsushi - RE:UNION -Duo Blade Against- (Realazy) \[Alliance\]](https://osu.ppy.sh/beatmapsets/848977#fruits/1775315)   
+  1. [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (Hivie) \[Neiro's Another\]](https://osu.ppy.sh/beatmapsets/1043808#fruits/2220124)  
+  2. [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence (kiddly) \[Mythic\]](https://osu.ppy.sh/beatmapsets/84777#fruits/601731)  
+  3. [Susumu Hirasawa - The Girl in Byakkoya (Pata-Mon) \[Paprika\]](https://osu.ppy.sh/beatmapsets/770240#osu/1619425) 
+  4. [Ice vs. Morimori Atsushi - RE:UNION -Duo Blade Against- (Realazy) \[Alliance\]](https://osu.ppy.sh/beatmapsets/848977#fruits/1775315)   
 - DoubleTime
-  - [Sakaue Nachi - Crazy Hot (Mythol) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/54289#fruits/173567)  
-  - [Shikata Akiko - Akatsuki (Linada) \[Expert\]](https://osu.ppy.sh/beatmapsets/861819#fruits/1802834)  
-  - [KOTOKO - jihad (Mariko Sakuragi) \[Insane+\]](https://osu.ppy.sh/beatmapsets/1135541#fruits/2371574)  
-  - [Vira (CV: Imai Asami) - Another Sky (Meg) \[Devotes myself for you\]](https://osu.ppy.sh/beatmapsets/898041#fruits/1876081) 
+  1. [Sakaue Nachi - Crazy Hot (Mythol) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/54289#fruits/173567)  
+  2. [Shikata Akiko - Akatsuki (Linada) \[Expert\]](https://osu.ppy.sh/beatmapsets/861819#fruits/1802834)  
+  3. [KOTOKO - jihad (Mariko Sakuragi) \[Insane+\]](https://osu.ppy.sh/beatmapsets/1135541#fruits/2371574)  
+  4. [Vira (CV: Imai Asami) - Another Sky (Meg) \[Devotes myself for you\]](https://osu.ppy.sh/beatmapsets/898041#fruits/1876081) 
 - Tiebreaker
-  - **[Yousei Teikoku - Kokou no Sousei (Kalibe) \[Despair\]](https://osu.ppy.sh/beatmapsets/744554#fruits/1569836)**
+  1. **[Yousei Teikoku - Kokou no Sousei (Kalibe) \[Despair\]](https://osu.ppy.sh/beatmapsets/744554#fruits/1569836)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (136 MB)](https://drive.google.com/file/d/1Aj6QhmqhMUgBcrOcM90fztnf9BAibgVw/view)**
 
 - NoMod
-  - [CELLON. - Labyrinth of Darkness (Mir) \[Expert\]](https://osu.ppy.sh/beatmapsets/778383#fruits/1634887)  
-  - [Mastermind(xi+nora2r) - Dreadnought (Cherry Blossom) \[Final Destination\]](https://osu.ppy.sh/beatmapsets/361306#fruits/793845)  
-  - [CloZee - Koto (galvenize) \[Extra\]](https://osu.ppy.sh/beatmapsets/517055#fruits/1098833) 
-  - [MISATO - Necro Fantasia (WORSTPOLACKEU) \[Sakura no Yume\]](https://osu.ppy.sh/beatmapsets/626406#fruits/1320292)  
+  1. [CELLON. - Labyrinth of Darkness (Mir) \[Expert\]](https://osu.ppy.sh/beatmapsets/778383#fruits/1634887)  
+  2. [Mastermind(xi+nora2r) - Dreadnought (Cherry Blossom) \[Final Destination\]](https://osu.ppy.sh/beatmapsets/361306#fruits/793845)  
+  3. [CloZee - Koto (galvenize) \[Extra\]](https://osu.ppy.sh/beatmapsets/517055#fruits/1098833) 
+  4. [MISATO - Necro Fantasia (WORSTPOLACKEU) \[Sakura no Yume\]](https://osu.ppy.sh/beatmapsets/626406#fruits/1320292)  
 - Hidden
-  - [Yousei Teikoku - Shinteki Souzou (-Keitaro) \[AncuL's Extra\]](https://osu.ppy.sh/beatmapsets/985170#fruits/2068168)  
-  - [MAMI - Kaze no Uta (Garden) \[Extra\]](https://osu.ppy.sh/beatmapsets/624037#fruits/1315307)  
-  - [That Poppy - Altar (-NeBu-) \[Apollo's Old-Style Getaway Car\]](https://osu.ppy.sh/beatmapsets/685822#fruits/2200803)  
+  1. [Yousei Teikoku - Shinteki Souzou (-Keitaro) \[AncuL's Extra\]](https://osu.ppy.sh/beatmapsets/985170#fruits/2068168)  
+  2. [MAMI - Kaze no Uta (Garden) \[Extra\]](https://osu.ppy.sh/beatmapsets/624037#fruits/1315307)  
+  3. [That Poppy - Altar (-NeBu-) \[Apollo's Old-Style Getaway Car\]](https://osu.ppy.sh/beatmapsets/685822#fruits/2200803)  
 - HardRock
-  - [onoken - Amnolys (DreaM117er) \[Skystar x Crystal's Twin Star Extra\]](https://osu.ppy.sh/beatmapsets/1069791#fruits/2277760)  
-  - [ginkiha - EOS (11t) \[Another\]](https://osu.ppy.sh/beatmapsets/125079#fruits/318562)  
-  - [Leftymonster - START (HanzeR) \[Finish\]](https://osu.ppy.sh/beatmapsets/70102#osu/201700)  
+  1. [onoken - Amnolys (DreaM117er) \[Skystar x Crystal's Twin Star Extra\]](https://osu.ppy.sh/beatmapsets/1069791#fruits/2277760)  
+  2. [ginkiha - EOS (11t) \[Another\]](https://osu.ppy.sh/beatmapsets/125079#fruits/318562)  
+  3. [Leftymonster - START (HanzeR) \[Finish\]](https://osu.ppy.sh/beatmapsets/70102#osu/201700)  
 - DoubleTime
-  - [fripSide - black bullet (Cyndere) \[insane: initiator\]](https://osu.ppy.sh/beatmapsets/905839#fruits/1894827)  
-  - [KOTOKO - Wing my Way (CXu) \[Endless Sky\]](https://osu.ppy.sh/beatmapsets/850548#fruits/1778268)  
-  - [monet - Kagami no Sekai ni wa Watashi shika Inai -another version- (Mirash) \[PandaHero's Insane\]](https://osu.ppy.sh/beatmapsets/685725#fruits/1469159)  
+  1. [fripSide - black bullet (Cyndere) \[insane: initiator\]](https://osu.ppy.sh/beatmapsets/905839#fruits/1894827)  
+  2. [KOTOKO - Wing my Way (CXu) \[Endless Sky\]](https://osu.ppy.sh/beatmapsets/850548#fruits/1778268)  
+  3. [monet - Kagami no Sekai ni wa Watashi shika Inai -another version- (Mirash) \[PandaHero's Insane\]](https://osu.ppy.sh/beatmapsets/685725#fruits/1469159)  
 - Tiebreaker
-  - **[USAO - Showdown (Hikaru Rose) \[Crisis\]](https://osu.ppy.sh/beatmapsets/446658#fruits/959194)**
+  1. **[USAO - Showdown (Hikaru Rose) \[Crisis\]](https://osu.ppy.sh/beatmapsets/446658#fruits/959194)**
 
 ### Round of 16
 
 **[Download the mappack here! (161 MB)](https://drive.google.com/file/d/1jrKZkbuDOEAkgkAZ8NpGCYRV3psqlb-W/view)**
 
 - NoMod
-  - [Pendulum - Witchcraft (Zarerion) \[Jenny\]](https://osu.ppy.sh/beatmapsets/55982#fruits/169993)  
-  - [Magnetude - Signals (Firebool) \[adioni's 100 MHz\]](https://osu.ppy.sh/beatmapsets/850972#fruits/1834172)  
-  - [Little Big - UNO (Gero) \[UNO, DOS, DOS, CUATRO\]](https://osu.ppy.sh/beatmapsets/1128448#fruits/2357612) 
-  - [Poppin'Party - Time Lapse (browiec) \[Time Lapse\]](https://osu.ppy.sh/beatmapsets/1018483#fruits/2131344)  
+  1. [Pendulum - Witchcraft (Zarerion) \[Jenny\]](https://osu.ppy.sh/beatmapsets/55982#fruits/169993)  
+  2. [Magnetude - Signals (Firebool) \[adioni's 100 MHz\]](https://osu.ppy.sh/beatmapsets/850972#fruits/1834172)  
+  3. [Little Big - UNO (Gero) \[UNO, DOS, DOS, CUATRO\]](https://osu.ppy.sh/beatmapsets/1128448#fruits/2357612) 
+  4. [Poppin'Party - Time Lapse (browiec) \[Time Lapse\]](https://osu.ppy.sh/beatmapsets/1018483#fruits/2131344)  
 - Hidden
-  - [Sayaki Sasaka - Sakura, Reincarnation (Flower) \[Extra\]](https://osu.ppy.sh/beatmapsets/884081#fruits/1863992)  
-  - [Major Lazer - Lean On (feat. MO \& DJ Snake) (Beige) \[Expert\]](https://osu.ppy.sh/beatmapsets/487544#fruits/1067625)  
-  - [Kawada Mami - JOINT (Mariko Sakuragi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1051651#fruits/2197734)  
+  1. [Sayaki Sasaka - Sakura, Reincarnation (Flower) \[Extra\]](https://osu.ppy.sh/beatmapsets/884081#fruits/1863992)  
+  2. [Major Lazer - Lean On (feat. MO \& DJ Snake) (Beige) \[Expert\]](https://osu.ppy.sh/beatmapsets/487544#fruits/1067625)  
+  3. [Kawada Mami - JOINT (Mariko Sakuragi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1051651#fruits/2197734)  
 - HardRock
-  - [Daisy x Daisy - Aoi Tsuki (Asuka\_-) \[Insane\]](https://osu.ppy.sh/beatmapsets/968777#fruits/2027056)  
-  - [Eguchi Takahiro - silver temple (LKs) \[Insane\]](https://osu.ppy.sh/beatmapsets/59345#fruits/177916)  
-  - [KOTOKO - Agony (SOGASOGAMO) \[Miko\]](https://osu.ppy.sh/beatmapsets/13510#fruits/49952)  
+  1. [Daisy x Daisy - Aoi Tsuki (Asuka\_-) \[Insane\]](https://osu.ppy.sh/beatmapsets/968777#fruits/2027056)  
+  2. [Eguchi Takahiro - silver temple (LKs) \[Insane\]](https://osu.ppy.sh/beatmapsets/59345#fruits/177916)  
+  3. [KOTOKO - Agony (SOGASOGAMO) \[Miko\]](https://osu.ppy.sh/beatmapsets/13510#fruits/49952)  
 - DoubleTime
-  - [Rita - Alea jacta est! (DELiS) \[Insane\]](https://osu.ppy.sh/beatmapsets/112150#fruits/291402)  
-  - [Feryquitous feat. Aitsuki Nakuru - Ether (Acyl) \[\_todestrieb's Light Insane\]](https://osu.ppy.sh/beatmapsets/902425#fruits/1947616)  
-  - [Marika - quantum jump (Shurelia) \[Insane\]](https://osu.ppy.sh/beatmapsets/183467#fruits/1618565)  
+  1. [Rita - Alea jacta est! (DELiS) \[Insane\]](https://osu.ppy.sh/beatmapsets/112150#fruits/291402)  
+  2. [Feryquitous feat. Aitsuki Nakuru - Ether (Acyl) \[\_todestrieb's Light Insane\]](https://osu.ppy.sh/beatmapsets/902425#fruits/1947616)  
+  3. [Marika - quantum jump (Shurelia) \[Insane\]](https://osu.ppy.sh/beatmapsets/183467#fruits/1618565)  
 - Tiebreaker
-  - **[Nhato - Delay Order (Shizuku-) \[Time Manipulation\]](https://osu.ppy.sh/beatmapsets/580214#fruits/1228509)**
+  1. **[Nhato - Delay Order (Shizuku-) \[Time Manipulation\]](https://osu.ppy.sh/beatmapsets/580214#fruits/1228509)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (117 MB)](https://drive.google.com/file/d/1E8h7BBl3Bz-woN4Bw4rjUomWapceTeWU/view)**
 
 - NoMod
-  - [Ichinose Shiki (CV: Aihara Kotomi) - Himitsu no Toilette (domSaur) \[MASTER+\]](https://osu.ppy.sh/beatmapsets/734093#fruits/1549043)  
-  - [void - Sun Goes Down (BMS edit) (Frey) \[Insane\]](https://osu.ppy.sh/beatmapsets/382413#fruits/836269)  
-  - [HyuN - Infinity Heaven (Niva) \[Ad Infinitum\]](https://osu.ppy.sh/beatmapsets/891345#fruits/1863246) 
-  - [Yellow Zebra - Koi no Flame (m3gb3g) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/908831#fruits/2205008)  
+  1. [Ichinose Shiki (CV: Aihara Kotomi) - Himitsu no Toilette (domSaur) \[MASTER+\]](https://osu.ppy.sh/beatmapsets/734093#fruits/1549043)  
+  2. [void - Sun Goes Down (BMS edit) (Frey) \[Insane\]](https://osu.ppy.sh/beatmapsets/382413#fruits/836269)  
+  3. [HyuN - Infinity Heaven (Niva) \[Ad Infinitum\]](https://osu.ppy.sh/beatmapsets/891345#fruits/1863246) 
+  4. [Yellow Zebra - Koi no Flame (m3gb3g) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/908831#fruits/2205008)  
 - Hidden
-  - [Dio ft. Sef - Tijdmachine (GladiOol) \[Lesjuh! '11\]](https://osu.ppy.sh/beatmapsets/6997#fruits/129875)
-  - [Rise Against - State of the Union (pishifat) \[Milan-'s Baby Insane\]](https://osu.ppy.sh/beatmapsets/387185#fruits/849438)  
-  - [An - Xhroria (Cherry Blossom) \[Another\]](https://osu.ppy.sh/beatmapsets/82258#fruits/227772)
+  1. [Dio ft. Sef - Tijdmachine (GladiOol) \[Lesjuh! '11\]](https://osu.ppy.sh/beatmapsets/6997#fruits/129875)
+  2. [Rise Against - State of the Union (pishifat) \[Milan-'s Baby Insane\]](https://osu.ppy.sh/beatmapsets/387185#fruits/849438)  
+  3. [An - Xhroria (Cherry Blossom) \[Another\]](https://osu.ppy.sh/beatmapsets/82258#fruits/227772)
 - HardRock
-  - [yuzen - Ouka Ryouran (tsuka) \[Another\]](https://osu.ppy.sh/beatmapsets/37647#fruits/133383)  
-  - [Rita - Aka no Sora (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/17746#fruits/63188)  
-  - [KOTOKO - Shichiten Hakki, Shijou Shugi! (kiddly) \[Challenging\]](https://osu.ppy.sh/beatmapsets/13042#fruits/48498)  
+  1. [yuzen - Ouka Ryouran (tsuka) \[Another\]](https://osu.ppy.sh/beatmapsets/37647#fruits/133383)  
+  2. [Rita - Aka no Sora (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/17746#fruits/63188)  
+  3. [KOTOKO - Shichiten Hakki, Shijou Shugi! (kiddly) \[Challenging\]](https://osu.ppy.sh/beatmapsets/13042#fruits/48498)  
 - DoubleTime
-  - [Ray - lull \~Soshite Bokura wa\~ (Delis) \[Insane\]](https://osu.ppy.sh/beatmapsets/172450#fruits/438061)  
-  - [07th Expansion - the executioner (Natteke) \[Hard\]](https://osu.ppy.sh/beatmapsets/27146#fruits/91198)  
-  - [yuikonnu - Shinkai Shoujo (Kibbleru) \[Insane\]](https://osu.ppy.sh/beatmapsets/165752#fruits/403180)  
+  1. [Ray - lull \~Soshite Bokura wa\~ (Delis) \[Insane\]](https://osu.ppy.sh/beatmapsets/172450#fruits/438061)  
+  2. [07th Expansion - the executioner (Natteke) \[Hard\]](https://osu.ppy.sh/beatmapsets/27146#fruits/91198)  
+  3. [yuikonnu - Shinkai Shoujo (Kibbleru) \[Insane\]](https://osu.ppy.sh/beatmapsets/165752#fruits/403180)  
 - Tiebreaker
-  - **[HIELO - La Posesion Du Mimi - ILLUMINATEK Rmx - HIELO Refuck! (Euny) \[Natsu's Insane\]](https://osu.ppy.sh/beatmapsets/358353#fruits/806625)**
+  1. **[HIELO - La Posesion Du Mimi - ILLUMINATEK Rmx - HIELO Refuck! (Euny) \[Natsu's Insane\]](https://osu.ppy.sh/beatmapsets/358353#fruits/806625)**
 
 ## Match results
 
@@ -302,7 +302,7 @@ Sunday, 18 October 2020:
 | Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [INFormal](https://osu.ppy.sh/users/6525565) | [#1](https://osu.ppy.sh/community/matches/68445354) |
 | Lower | **[Koimeji](https://osu.ppy.sh/users/4137039)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) | *win by default* |
 
-### Group Stage
+### Group stage
 
 Friday, 9 October 2020:
 
@@ -344,9 +344,9 @@ Sunday, 11 August 2020:
 9. Lag is not a valid reason to nullify a map.
 10. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 11. It is expected to be polite and respectful to each other. Penalties will be given if participants violate.
-    - If there are participant(s) who are engaging in an offensive provocation towards other participant(s), the participant(s) who are deemed responsible for the provocation  will be reported to the Tournament Management and may be considered to be blacklisted in the future installment(s) of ICC.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment(s) of ICC.
-    - If there is anyone other than the said participant who is trying to play as a participant, both the participant and the helper will be blacklisted in the next installment(s) of ICC.
+    - If there are participant(s) who are engaging in an offensive provocation towards other participant(s), the participant(s) who are deemed responsible for the provocation  will be reported to the Tournament Management and may be considered to be blacklisted in the future instalment(s) of ICC.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next instalment(s) of ICC.
+    - If there is anyone other than the said participant who is trying to play as a participant, both the participant and the helper will be blacklisted in the next instalment(s) of ICC.
 
 ### Tournament registration
 
@@ -358,14 +358,14 @@ Sunday, 11 August 2020:
    - In the case where the number of concerned registrants exceeds 32, the Tournament Management will only enlist 32 registrants with the highest osu!catch pp under their account to participate as players in the tournament.
 5. Referees and map selectors may not participate as players in this tournament.
 
-### Group Stage rules
+### Group stage rules
 
 1. In the Group Stage, all participants will be divided into 8 different groups.
 2. All participants in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all participants will each in turn pick out maps from the mappool to be played with the following turnouts after each map:
    - **+2 points** (1st place) / **+1 point** (2nd place) / **+1 point** (3rd place) / **0 points** (4th place) in groups with 4 players.
    - **+1 point** (1st place) / **+1 point** (2nd place) / **0 points** (3rd place) in groups with 3 players.
 3. There will be a total of 8 maps to be played in each group stage match, with each player picking out two maps from the pool.
-   - In groups with 3 players, the final two maps will be picked by the player with the highest !roll score and the player with the second highest !roll score respectively.
+   - In groups with 3 players, the final two maps will be picked by the player with the highest `!roll` score and the player with the second highest `!roll` score respectively.
 4. Participants are **not allowed** to ban maps in the Group Stage.
 5. There is no Lower Bracket in the Group Stage.
 6. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority:
@@ -375,7 +375,7 @@ Sunday, 11 August 2020:
    - Whether there are player(s) who got disqualified during the match.
 7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
 
-### Knockout Stage rules 
+### Knockout stage rules 
 
 1. The 16 players who managed to get through from the Group Stage will be matched to each other based on a randomized result.
 2. Players will compete against each other using the Double Elimination system.
@@ -393,7 +393,7 @@ Sunday, 11 August 2020:
 
 ### Match regulations
 
-1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
+1. Each player must use the `!roll` command once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
    - This rule does not apply in the Group Stage lobbies.
 2. Each player has to ban **one beatmap** (in the Round of 16 and the Quarterfinals) or **two maps** (in the Semifinals, Finals, and the Grand Finals) from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.

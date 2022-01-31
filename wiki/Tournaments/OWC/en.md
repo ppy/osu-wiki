@@ -13,3 +13,4 @@ Index page for all of the osu! World Cup series.
 - [osu! World Cup 2018](2018)
 - [osu! World Cup 2019](2019)
 - [osu! World Cup 2020](2020)
+- [osu! World Cup 2021](2021)

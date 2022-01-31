@@ -32,13 +32,13 @@ tags:
 
 The **Easy** mod is a [game modifier](/wiki/Game_modifier) that attempts to ease the difficulty of a [beatmap](/wiki/Beatmap). It sets out to do this by halving all of the difficulty settings of a selected beatmap.
 
-In all [game modes](/wiki/Game_mode) except [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod will grant the player two additional "lives" during a play if the [life bar](/wiki/Glossary/Health_bar) drops to zero. In the case that this does happen, the game will pause to slowly refill the life bar to about 80% and remove one "life" from the player's life count. No sound will be played during this effect.
+In all [game modes](/wiki/Game_mode) except [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod will grant the player two additional "lives" during a play if the [life bar](/wiki/Client/Interface/Health_bar) drops to zero. In the case that this does happen, the game will pause to slowly refill the life bar to about 80% and remove one "life" from the player's life count. No sound will be played during this effect.
 
-This refill event will be signaled to the player with the ready sound (`readysound.wav`). Once the life bar has been finished being refilled, the player will be signaled again but with the go sound (`gosound.wav`). After which the beatmap will then resume play and let the player continue. If the player has no remaining lives and the life bar has dropped to zero, the play will fail like normal.
+This refill event will be signalled to the player with the ready sound (`readysound.wav`). Once the life bar has been finished being refilled, the player will be signalled again but with the go sound (`gosound.wav`). After which the beatmap will then resume play and let the player continue. If the player has no remaining lives and the life bar has dropped to zero, the play will fail like normal.
 
 ### osu!
 
-In [osu!](wiki/Game_Modes/osu!), the Easy mod decreases [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), and [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP) by half.
+In [osu!](/wiki/Game_mode/osu!), the Easy mod decreases [circle size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty), and [HP drain](/wiki/Client/Beatmap_editor/Song_Setup#hp-drain-rate) (HP) by half.
 
 ![EZ gameplay osu!](img/EZ-comparison-osu.jpg "Comparison between a regular play (left) vs a play with the Easy mod enabled (right) in osu!")
 
@@ -68,8 +68,8 @@ In [osu!mania](/wiki/Game_mode/osu!mania), the effects are the same as in osu!ta
 
 ## Trivia
 
-- When watching a replay where an extra life is used, the health refill animation will be ignored and the replay will continue as if the player was playing with the [No Fail](/wiki/Game_modifier/No_fail) mod on.
-- In [Multi](/wiki/Multi) mode, the effect of "lives" will not work in [Tag Co-op or Tag Team Vs.](/wiki/Multi#tag-coop-tag-team-vs) team mode.
+- When watching a replay where an extra life is used, the health refill animation will be ignored and the replay will continue as if the player was playing with the [No Fail](/wiki/Game_modifier/No_Fail) mod on.
+- In [Multi](/wiki/Gameplay/Multiplayer) mode, the effect of "lives" will not work in [Tag Co-op or Tag Team Vs.](/wiki/Gameplay/Multiplayer#tag-coop-tag-team-vs) team mode.
 - The Easy mod will cancel out the [Hard Rock](/wiki/Game_modifier/Hard_Rock) mod, and vice-versa.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

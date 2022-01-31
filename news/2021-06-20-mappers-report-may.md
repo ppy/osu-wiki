@@ -59,7 +59,7 @@ Having worn the purple uniform for roughly one and a half years, Unpredictable h
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator!
 
-The applications are always open, so head on over to the [Beatmap Nominator website](https://bn.mappersguild.com "Beatmap Nominators") and apply today!
+The applications are always open, so head on over to the [Beatmap Nominator website](https://bn.mappersguild.com) and apply today!
 
 ### NAT Resignations
 
@@ -119,7 +119,7 @@ Unfortunately, the sign-ups have just been closed. However, you may take a seat 
 
 Brought to you by the osu!catch mapping grand-master [Ascendance](https://osu.ppy.sh/users/2931883) for the third time, the [osu!catch Mapping World Cup 2021](https://osu.ppy.sh/community/forums/topics/1350409) will have the best mappers from all over the globe gather around and have an intense competition that will determine the next osu!catch Mapping Champions!
 
-Needless to say, such a contest is not going to be without prizes, but all the details on that matter are currently work-in-progress. To keep track of the updates and learn more about the contest, we highly suggest you to check the [forum thread](https://osu.ppy.sh/community/forums/topics/1350409), and dive right into the [o!CMWC Discord server](https://discord.gg/eTUFAjf "Discord").
+Needless to say, such a contest is not going to be without prizes, but all the details on that matter are currently work-in-progress. To keep track of the updates and learn more about the contest, we highly suggest you to check the [forum thread](https://osu.ppy.sh/community/forums/topics/1350409), and dive right into the [o!CMWC Discord server](https://discord.gg/eTUFAjf).
 
 Alright, osu!catch folks! Hopefully, we've made your day with these two majestic contests, but make sure to compete responsibly, since you wouldn't want to... *overdose* on fruit juice after all, would you?
 

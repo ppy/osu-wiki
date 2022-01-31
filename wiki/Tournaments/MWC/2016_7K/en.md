@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2016 logo](img/logo.jpg)
 
-The **osu!mania 7K World Cup 2016** (***MWC 7K 2016***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the second installment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2016** (***MWC 7K 2016***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the second instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **osu!mania 7K World Cup 2016** (***MWC 7K 2016***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2015-12-01/2015-12-20 |
 | Live drawings | 2016-01-03 (14:00 UTC) |
-| Group Stage | 2016-01-09/2016-01-10 |
+| Group stage | 2016-01-09/2016-01-10 |
 | Round of 16 | 2016-01-16 |
 | Quarterfinals | 2016-01-23 |
 | Semifinals | 2016-01-30/2016-01-31 |
@@ -89,9 +89,11 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 | **C** | ![][flag_US] United States | ![][flag_MY] Malaysia | ![][flag_TW] Taiwan | ![][flag_PL] Poland | ![][flag_NO] Norway |
 | **D** | ![][flag_CN] China | ![][flag_ID] Indonesia | ![][flag_AU] Australia | ![][flag_PH] Philippines | ![][flag_IT] Italy |
 
-![MWC 7K 2016 podium](img/podium.jpg)
+![](img/brackets.jpg "MWC 7K 2016 bracket")
 
-![MWC 7K 2016 bracket](img/brackets.jpg)
+## Podium
+
+![](img/podium.jpg "MWC 7K 2016 podium")
 
 ## Mappools
 
@@ -102,114 +104,114 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 **[Download the mappack here!](https://www.mediafire.com/download/9179zq7bew4tj72/MWC_7K_2016_Finals.rar)**
 
 - FreeMod
-  - [Betwixt & Between - 12 little fragments of silence (Fullerene-) \[............\]](https://osu.ppy.sh/beatmapsets/206097#mania/486159)
-  - [Reol - Streaming Heart (SeonRae) \[7K KSR\]](https://osu.ppy.sh/beatmapsets/386644#mania/844168)
-  - [ZUN remixed by LeaF - Resurrection Spell (pporse) \[Resurrection\]](https://osu.ppy.sh/beatmapsets/356708#mania/851023)
-  - [Kakumi Nishigomi - Hyakka Ryouran (ArcherLove) \[Gamelan\]](https://osu.ppy.sh/beatmapsets/380865#mania/833293)
-  - [gmtn. (witch's slave) - furioso melodia (Z3nx) \[el fin.\_VII obj.lZenxl\]](https://osu.ppy.sh/beatmapsets/302889#mania/678816)
-  - [senya - Tsuki ni Murakumo Hana ni Kaze (17VA) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/254589#mania/583877)
-  - [xi - Aragami (Blocko) \[7K Finale\]](https://osu.ppy.sh/beatmapsets/344198#mania/760453)
-  - [LeaF - Doppelganger (iJinjin) \[You? (^^) Me?\]](https://osu.ppy.sh/beatmapsets/407153#mania/884617)
-  - [kemu feat.GUMI - Kamisama Nejimaki (-Kamikaze-) \[It's Killing Me...\]](https://osu.ppy.sh/beatmapsets/374146#mania/819643)
-  - [150P - Underdog Supremacist (Aqo) \[7\_biginner\]](https://osu.ppy.sh/beatmapsets/343853#mania/759704)
-  - [Zeami - Music Revolver (Entozer) \[Hard\]](https://osu.ppy.sh/beatmapsets/130464#mania/329057)
-  - [MEGA & Tatsh - Weave Detonator (Ciel) \[Unraveling Destruction\]](https://osu.ppy.sh/beatmapsets/312935#mania/698696)
-  - [goreshit - Satori De Pon! (qodtjr) \[HaRaSho\]](https://osu.ppy.sh/beatmapsets/400292#mania/871018)
-  - [void - Just Hold on (To All Fighters) (Blocko) \[Extra\]](https://osu.ppy.sh/beatmapsets/409440#mania/888793)
-  - [Anegasaki Nei - ZENITHALIZE (Evening) \[Meridian of Time\]](https://osu.ppy.sh/beatmapsets/410552#mania/890961)
-  - [EBICO - Slit O (Nivrad00) \[Another\]](https://osu.ppy.sh/beatmapsets/325867#mania/723703)
-  - [S.S.H. - Intersect Thunderbolt-Remix (ljqandylee) \[7K Exceed\]](https://osu.ppy.sh/beatmapsets/127305#mania/323070)
-  - [IOSYS feat. Takatsuki Sakura - Seiya no Special Shooting Star (yoshilove) \[7K Star\]](https://osu.ppy.sh/beatmapsets/179403#mania/431300)
+  1. [Betwixt & Between - 12 little fragments of silence (Fullerene-) \[............\]](https://osu.ppy.sh/beatmapsets/206097#mania/486159)
+  2. [Reol - Streaming Heart (SeonRae) \[7K KSR\]](https://osu.ppy.sh/beatmapsets/386644#mania/844168)
+  3. [ZUN remixed by LeaF - Resurrection Spell (pporse) \[Resurrection\]](https://osu.ppy.sh/beatmapsets/356708#mania/851023)
+  4. [Kakumi Nishigomi - Hyakka Ryouran (ArcherLove) \[Gamelan\]](https://osu.ppy.sh/beatmapsets/380865#mania/833293)
+  5. [gmtn. (witch's slave) - furioso melodia (Z3nx) \[el fin.\_VII obj.lZenxl\]](https://osu.ppy.sh/beatmapsets/302889#mania/678816)
+  6. [senya - Tsuki ni Murakumo Hana ni Kaze (17VA) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/254589#mania/583877)
+  7. [xi - Aragami (Blocko) \[7K Finale\]](https://osu.ppy.sh/beatmapsets/344198#mania/760453)
+  8. [LeaF - Doppelganger (iJinjin) \[You? (^^) Me?\]](https://osu.ppy.sh/beatmapsets/407153#mania/884617)
+  9. [kemu feat.GUMI - Kamisama Nejimaki (-Kamikaze-) \[It's Killing Me...\]](https://osu.ppy.sh/beatmapsets/374146#mania/819643)
+  10. [150P - Underdog Supremacist (Aqo) \[7\_biginner\]](https://osu.ppy.sh/beatmapsets/343853#mania/759704)
+  11. [Zeami - Music Revolver (Entozer) \[Hard\]](https://osu.ppy.sh/beatmapsets/130464#mania/329057)
+  12. [MEGA & Tatsh - Weave Detonator (Ciel) \[Unraveling Destruction\]](https://osu.ppy.sh/beatmapsets/312935#mania/698696)
+  13. [goreshit - Satori De Pon! (qodtjr) \[HaRaSho\]](https://osu.ppy.sh/beatmapsets/400292#mania/871018)
+  14. [void - Just Hold on (To All Fighters) (Blocko) \[Extra\]](https://osu.ppy.sh/beatmapsets/409440#mania/888793)
+  15. [Anegasaki Nei - ZENITHALIZE (Evening) \[Meridian of Time\]](https://osu.ppy.sh/beatmapsets/410552#mania/890961)
+  16. [EBICO - Slit O (Nivrad00) \[Another\]](https://osu.ppy.sh/beatmapsets/325867#mania/723703)
+  17. [S.S.H. - Intersect Thunderbolt-Remix (ljqandylee) \[7K Exceed\]](https://osu.ppy.sh/beatmapsets/127305#mania/323070)
+  18. [IOSYS feat. Takatsuki Sakura - Seiya no Special Shooting Star (yoshilove) \[7K Star\]](https://osu.ppy.sh/beatmapsets/179403#mania/431300)
 - Tiebreaker
-  - **[xi - Blue Zenith (iJinjin) \[Stratosphere\]](https://osu.ppy.sh/beatmapsets/290031#mania/891715)**
+  1. **[xi - Blue Zenith (iJinjin) \[Stratosphere\]](https://osu.ppy.sh/beatmapsets/290031#mania/891715)**
 
 ### Semifinals
 
 **[Download the mappack here!](https://www.mediafire.com/download/xr20mjchibn373n/MWC_7K_2016_Semifinals.rar)**
 
 - FreeMod
-  - [sun3 - ApolloN (bbu2) \[7K Extreme\]](https://osu.ppy.sh/beatmapsets/290702#mania/654831)
-  - [Sasaki Sayaka - Koi Saku Mirai (hutunohito) \[7K Black Another\]](https://osu.ppy.sh/beatmapsets/160570#mania/392261)
-  - [LOLI RIPE - Be My Pet! (Evening) \[Zen really likes lolis\]](https://osu.ppy.sh/beatmapsets/407410#mania/885078)
-  - [ESTi - Ghostly Band \~ Phantom Ensemble (ArcherLove) \[Phantom Curtain\]](https://osu.ppy.sh/beatmapsets/291343#mania/756026)
-  - [Mastermind(xi+nora2r) - Dreadnought (PyaKura) \[Hyperspace\]](https://osu.ppy.sh/beatmapsets/361643#mania/794499)
-  - [Y..J - Ten Thousand Tons of Anonymous Letters (123Sherlock) \[tangjinxi's Lv.36\]](https://osu.ppy.sh/beatmapsets/293585#mania/660352)
-  - [gmtn. vs. kozato (fw. LUZE) - squartatrice (pporse) \[Miki Sayaka vs. Oktavia Von Seckendorff\]](https://osu.ppy.sh/beatmapsets/388160#mania/846925)
-  - [ChouCho - starlog (17VA) \[Luminescence\]](https://osu.ppy.sh/beatmapsets/254713#mania/584133)
-  - [Ayatsugu\_Otowa - Tsumetai Missitsu to Hakasetachi no Huyajyou (LeiN-) \[Jinjin's Cold Nocturne\]](https://osu.ppy.sh/beatmapsets/339198#mania/759385)
-  - [m108 - \*Crow Solace\* (KawaEE) \[Kawather LV.17 For Delay\]](https://osu.ppy.sh/beatmapsets/357835#mania/787014)
-  - [Kucchi - Satori \~3rd EyEs (Maiz94) \[7K SC\]](https://osu.ppy.sh/beatmapsets/398094#mania/865684)
-  - [Cres - End Time (PyaKura) \[Afterword\]](https://osu.ppy.sh/beatmapsets/154929#mania/548945)
-  - [yuikonnu - Uchouten Vivace (17VA) \[Vivace\]](https://osu.ppy.sh/beatmapsets/318413#mania/709055)
-  - [cosMo@BousouP - Oceanus (Z3nx) \[Z7XTRA\]](https://osu.ppy.sh/beatmapsets/261977#mania/597959)
-  - [Reizoko Cj - CirnoRHTL (Nivrad00) \[Extra\]](https://osu.ppy.sh/beatmapsets/400818#mania/872039)
-  - [xi - Garyou Tensei (LNP-) \[Million's 7K SC\]](https://osu.ppy.sh/beatmapsets/210610#mania/530560)
+  1. [sun3 - ApolloN (bbu2) \[7K Extreme\]](https://osu.ppy.sh/beatmapsets/290702#mania/654831)
+  2. [Sasaki Sayaka - Koi Saku Mirai (hutunohito) \[7K Black Another\]](https://osu.ppy.sh/beatmapsets/160570#mania/392261)
+  3. [LOLI RIPE - Be My Pet! (Evening) \[Zen really likes lolis\]](https://osu.ppy.sh/beatmapsets/407410#mania/885078)
+  4. [ESTi - Ghostly Band \~ Phantom Ensemble (ArcherLove) \[Phantom Curtain\]](https://osu.ppy.sh/beatmapsets/291343#mania/756026)
+  5. [Mastermind(xi+nora2r) - Dreadnought (PyaKura) \[Hyperspace\]](https://osu.ppy.sh/beatmapsets/361643#mania/794499)
+  6. [Y..J - Ten Thousand Tons of Anonymous Letters (123Sherlock) \[tangjinxi's Lv.36\]](https://osu.ppy.sh/beatmapsets/293585#mania/660352)
+  7. [gmtn. vs. kozato (fw. LUZE) - squartatrice (pporse) \[Miki Sayaka vs. Oktavia Von Seckendorff\]](https://osu.ppy.sh/beatmapsets/388160#mania/846925)
+  8. [ChouCho - starlog (17VA) \[Luminescence\]](https://osu.ppy.sh/beatmapsets/254713#mania/584133)
+  9. [Ayatsugu\_Otowa - Tsumetai Missitsu to Hakasetachi no Huyajyou (LeiN-) \[Jinjin's Cold Nocturne\]](https://osu.ppy.sh/beatmapsets/339198#mania/759385)
+  10. [m108 - \*Crow Solace\* (KawaEE) \[Kawather LV.17 For Delay\]](https://osu.ppy.sh/beatmapsets/357835#mania/787014)
+  11. [Kucchi - Satori \~3rd EyEs (Maiz94) \[7K SC\]](https://osu.ppy.sh/beatmapsets/398094#mania/865684)
+  12. [Cres - End Time (PyaKura) \[Afterword\]](https://osu.ppy.sh/beatmapsets/154929#mania/548945)
+  13. [yuikonnu - Uchouten Vivace (17VA) \[Vivace\]](https://osu.ppy.sh/beatmapsets/318413#mania/709055)
+  14. [cosMo@BousouP - Oceanus (Z3nx) \[Z7XTRA\]](https://osu.ppy.sh/beatmapsets/261977#mania/597959)
+  15. [Reizoko Cj - CirnoRHTL (Nivrad00) \[Extra\]](https://osu.ppy.sh/beatmapsets/400818#mania/872039)
+  16. [xi - Garyou Tensei (LNP-) \[Million's 7K SC\]](https://osu.ppy.sh/beatmapsets/210610#mania/530560)
 - Tiebreaker
-  - **[DJ Sharpnel - Back to the Gate (pporse) \[El Psy Congroo\]](https://osu.ppy.sh/beatmapsets/305124#mania/683424)**
+  1. **[DJ Sharpnel - Back to the Gate (pporse) \[El Psy Congroo\]](https://osu.ppy.sh/beatmapsets/305124#mania/683424)**
 
 ### Quarterfinals
 
 **[Download the mappack here!](https://www.mediafire.com/download/kn50d6pa5akm9xs/MWC_7K_2016_Quarterfinals.rar)**
 
-- Freemod
-  - [xi - Valhalla (Remillion Cross) \[Usagi's White Another\]](https://osu.ppy.sh/beatmapsets/257079#mania/593403)
-  - [yuikonnu - Souzou Forest (17VA) \[Lv.34\]](https://osu.ppy.sh/beatmapsets/165716#mania/403124)
-  - [SHK - Halloween Party (DarkSider2442) \[Extra\]](https://osu.ppy.sh/beatmapsets/242159#mania/572480)
-  - [TREKKIE TRAX - Bright (Sushi Killer Remix) (Agka) \[Meteor\]](https://osu.ppy.sh/beatmapsets/328466#mania/728489)
-  - [P\*Light feat. mow\*2 - OVERDRIVERS (ExUsagi) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/196172#mania/565759)
-  - [P\*Light - Sakura Reflection (P\*Light Slayer Remix) (Kuo Kyoka) \[7K OVERBOARD Lv.32\]](https://osu.ppy.sh/beatmapsets/154156#mania/383041)
-  - [masaki - Rhythmical Planet (ljqandylee) \[Collab\]](https://osu.ppy.sh/beatmapsets/82460#mania/228210)
-  - [Nhato - Miss You (BilliumMoto) \[Gaze\]](https://osu.ppy.sh/beatmapsets/204326#mania/839674)
-  - [myon - G Free \~ Final Dream (PROGUY) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/171090#mania/416517)
-  - [The Flashbulb - Chik Habit (iJinjin) \[they'll be spitting in your eye\]](https://osu.ppy.sh/beatmapsets/404314#mania/879060)
-  - [void - Valedict (pwhk) \[Black Another\]](https://osu.ppy.sh/beatmapsets/217583#mania/545590)
-  - [Igorrr - Fryzura Konika (Agka) \[deceit\]](https://osu.ppy.sh/beatmapsets/312559#mania/697682)
-  - [w\_tre respect for AT&HU - Schur's Theorem (Nivrad00) \[Another\]](https://osu.ppy.sh/beatmapsets/258553#mania/591311)
-  - [MiddleIsland - Delrio (Remillion Cross) \[Jinjin's Insane\]](https://osu.ppy.sh/beatmapsets/277125#mania/645632)
+- FreeMod
+  1. [xi - Valhalla (Remillion Cross) \[Usagi's White Another\]](https://osu.ppy.sh/beatmapsets/257079#mania/593403)
+  2. [yuikonnu - Souzou Forest (17VA) \[Lv.34\]](https://osu.ppy.sh/beatmapsets/165716#mania/403124)
+  3. [SHK - Halloween Party (DarkSider2442) \[Extra\]](https://osu.ppy.sh/beatmapsets/242159#mania/572480)
+  4. [TREKKIE TRAX - Bright (Sushi Killer Remix) (Agka) \[Meteor\]](https://osu.ppy.sh/beatmapsets/328466#mania/728489)
+  5. [P\*Light feat. mow\*2 - OVERDRIVERS (ExUsagi) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/196172#mania/565759)
+  6. [P\*Light - Sakura Reflection (P\*Light Slayer Remix) (Kuo Kyoka) \[7K OVERBOARD Lv.32\]](https://osu.ppy.sh/beatmapsets/154156#mania/383041)
+  7. [masaki - Rhythmical Planet (ljqandylee) \[Collab\]](https://osu.ppy.sh/beatmapsets/82460#mania/228210)
+  8. [Nhato - Miss You (BilliumMoto) \[Gaze\]](https://osu.ppy.sh/beatmapsets/204326#mania/839674)
+  9. [myon - G Free \~ Final Dream (PROGUY) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/171090#mania/416517)
+  10. [The Flashbulb - Chik Habit (iJinjin) \[they'll be spitting in your eye\]](https://osu.ppy.sh/beatmapsets/404314#mania/879060)
+  11. [void - Valedict (pwhk) \[Black Another\]](https://osu.ppy.sh/beatmapsets/217583#mania/545590)
+  12. [Igorrr - Fryzura Konika (Agka) \[deceit\]](https://osu.ppy.sh/beatmapsets/312559#mania/697682)
+  13. [w\_tre respect for AT&HU - Schur's Theorem (Nivrad00) \[Another\]](https://osu.ppy.sh/beatmapsets/258553#mania/591311)
+  14. [MiddleIsland - Delrio (Remillion Cross) \[Jinjin's Insane\]](https://osu.ppy.sh/beatmapsets/277125#mania/645632)
 - Tiebreaker
-  - **[Neru - Ningen Shikkaku (puxtu) \[Blocko's 7K SC\]](https://osu.ppy.sh/beatmapsets/239471#mania/553618)**
+  1. **[Neru - Ningen Shikkaku (puxtu) \[Blocko's 7K SC\]](https://osu.ppy.sh/beatmapsets/239471#mania/553618)**
 
 ### Round of 16
 
 **[Download the mappack here!](https://www.mediafire.com/download/042busdr49rxz51/MWC_7K_2016_Round_of_16.rar)**
 
-- Freemod
-  - [M2U - Quo Vadis (JamesHappy15) \[lZenxl's 7K SHD\]](https://osu.ppy.sh/beatmapsets/227037#mania/908806)
-  - [C-SHOW - Workaholic (Agka) \[Extra\]](https://osu.ppy.sh/beatmapsets/77441#mania/217377)
-  - [MiddleIsland - Achromat (iJinjin) \[Blocko's 7K Insane\]](https://osu.ppy.sh/beatmapsets/195940#mania/534336)
-  - [Breakmaster Cylinder - The Italian Crack Job (Nivrad00) \[Insane\]](https://osu.ppy.sh/beatmapsets/225139#mania/525443)
-  - [Kicco - Shunkan Spline (yoshilove) \[Maximum\]](https://osu.ppy.sh/beatmapsets/159623#mania/389874)
-  - [CELLON. - Madpakke (\[ C r a c k\]) \[richard's 7K Another\]](https://osu.ppy.sh/beatmapsets/304248#mania/709818)
-  - [S-C-U feat. Qrispy Joybox - anemone (Julie) \[Kawa & Julie's 7K Extra\]](https://osu.ppy.sh/beatmapsets/283841#mania/672098)
-  - [Venetian Snares - Ketsarku Mozgalom (wizardoffail) \[i remember being happy\]](https://osu.ppy.sh/beatmapsets/347300#mania/766439)
-  - [Primary - Negative Legacy (Reikosaka) \[Skalim's Maximum\]](https://osu.ppy.sh/beatmapsets/171847#mania/456748)
-  - [XinYueBingBing - Tsun Neko no Waltz (Harbyter) \[LordRaika's 7K MX\]](https://osu.ppy.sh/beatmapsets/225142#mania/543984)
-  - [Azu - Haryu (asd123iii) \[Another\]](https://osu.ppy.sh/beatmapsets/183478#mania/524443)
-  - [xi vs sakuzyo - STORIA (Kyousuke-) \[Julie & Kawawa's 7K Insane\]](https://osu.ppy.sh/beatmapsets/330438#mania/840837)
-  - [nano - No pain, No game (Takane6) \[Million's 7K Insane\]](https://osu.ppy.sh/beatmapsets/249553#mania/660048)
-  - [Jeff Williams & Casey Lee Williams - This Will Be the Day (James Landino's Magical Girl Remix) (Fullerene-) \[Agka's 7K MX\]](https://osu.ppy.sh/beatmapsets/179991#mania/433193)
+- FreeMod
+  1. [M2U - Quo Vadis (JamesHappy15) \[lZenxl's 7K SHD\]](https://osu.ppy.sh/beatmapsets/227037#mania/908806)
+  2. [C-SHOW - Workaholic (Agka) \[Extra\]](https://osu.ppy.sh/beatmapsets/77441#mania/217377)
+  3. [MiddleIsland - Achromat (iJinjin) \[Blocko's 7K Insane\]](https://osu.ppy.sh/beatmapsets/195940#mania/534336)
+  4. [Breakmaster Cylinder - The Italian Crack Job (Nivrad00) \[Insane\]](https://osu.ppy.sh/beatmapsets/225139#mania/525443)
+  5. [Kicco - Shunkan Spline (yoshilove) \[Maximum\]](https://osu.ppy.sh/beatmapsets/159623#mania/389874)
+  6. [CELLON. - Madpakke (\[ C r a c k\]) \[richard's 7K Another\]](https://osu.ppy.sh/beatmapsets/304248#mania/709818)
+  7. [S-C-U feat. Qrispy Joybox - anemone (Julie) \[Kawa & Julie's 7K Extra\]](https://osu.ppy.sh/beatmapsets/283841#mania/672098)
+  8. [Venetian Snares - Ketsarku Mozgalom (wizardoffail) \[i remember being happy\]](https://osu.ppy.sh/beatmapsets/347300#mania/766439)
+  9. [Primary - Negative Legacy (Reikosaka) \[Skalim's Maximum\]](https://osu.ppy.sh/beatmapsets/171847#mania/456748)
+  10. [XinYueBingBing - Tsun Neko no Waltz (Harbyter) \[LordRaika's 7K MX\]](https://osu.ppy.sh/beatmapsets/225142#mania/543984)
+  11. [Azu - Haryu (asd123iii) \[Another\]](https://osu.ppy.sh/beatmapsets/183478#mania/524443)
+  12. [xi vs sakuzyo - STORIA (Kyousuke-) \[Julie & Kawawa's 7K Insane\]](https://osu.ppy.sh/beatmapsets/330438#mania/840837)
+  13. [nano - No pain, No game (Takane6) \[Million's 7K Insane\]](https://osu.ppy.sh/beatmapsets/249553#mania/660048)
+  14. [Jeff Williams & Casey Lee Williams - This Will Be the Day (James Landino's Magical Girl Remix) (Fullerene-) \[Agka's 7K MX\]](https://osu.ppy.sh/beatmapsets/179991#mania/433193)
 - Tiebreaker
-  - **[takamatt feat. GUMI - TOKIO FUNKA (-Kamikaze-) \[Mid-Summer Marathon\]](https://osu.ppy.sh/beatmapsets/539611#mania/1144249)**
+  1. **[takamatt feat. GUMI - TOKIO FUNKA (-Kamikaze-) \[Mid-Summer Marathon\]](https://osu.ppy.sh/beatmapsets/539611#mania/1144249)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here!](https://www.mediafire.com/download/841w26d8ik487uc/MWC_7K_2016_Group_Stage.rar)**
 
 - FreeMod
-  - [Vospi - Reverence (Nivrad00) \[Insane\]](https://osu.ppy.sh/beatmapsets/203929#mania/481701)
-  - [Halozy - Koi no Serenade (17VA) \[Insane\]](https://osu.ppy.sh/beatmapsets/308944#mania/690817)
-  - [himmeltengoku - Whisper of Rose (KawaEE) \[Another\]](https://osu.ppy.sh/beatmapsets/252947#mania/580853)
-  - [Kenji Ito - Re:Birth II - Last Battle (pporse) \[Hard\]](https://osu.ppy.sh/beatmapsets/274541#mania/627779)
-  - [Memme - China Dress (Tear) \[7K Expert\]](https://osu.ppy.sh/beatmapsets/137665#mania/344013)
-  - [Gotou Mai - Funwari Fuwari (shionelove) \[yoshilove's Uryu\~\]](https://osu.ppy.sh/beatmapsets/333217#mania/737488)
-  - [Yooh - FIRE FIRE -DARK BLAZE REMIX- (Shinzo-) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/333217#mania/737488)
-  - [Igorrr - Unpleasant Sonata (Sieg) \[\[Shi-Ra\]'s Hell \[SC\]\]](https://osu.ppy.sh/beatmapsets/90385#mania/285394)
-  - [DJ'TEKINA//SOMETHING - Tou Chi Chen Secret Kakuranger TEKINA Remix (-Kamikaze-) \[Zenx's 7K Hard\]](https://osu.ppy.sh/beatmapsets/378669#mania/829079)
-  - [RAMM - Wonder Nanda? Kataomoi (Reikosaka) \[Maximum\]](https://osu.ppy.sh/beatmapsets/135599#mania/339653)
-  - [Rissyu - uni (HanzeR) \[Insane\]](https://osu.ppy.sh/beatmapsets/84156#mania/232025)
-  - [Otokaze - amamichi (Simple\_Star) \[PC's 7K Another\]](https://osu.ppy.sh/beatmapsets/126508#mania/344760)
+  1. [Vospi - Reverence (Nivrad00) \[Insane\]](https://osu.ppy.sh/beatmapsets/203929#mania/481701)
+  2. [Halozy - Koi no Serenade (17VA) \[Insane\]](https://osu.ppy.sh/beatmapsets/308944#mania/690817)
+  3. [himmeltengoku - Whisper of Rose (KawaEE) \[Another\]](https://osu.ppy.sh/beatmapsets/252947#mania/580853)
+  4. [Kenji Ito - Re:Birth II - Last Battle (pporse) \[Hard\]](https://osu.ppy.sh/beatmapsets/274541#mania/627779)
+  5. [Memme - China Dress (Tear) \[7K Expert\]](https://osu.ppy.sh/beatmapsets/137665#mania/344013)
+  6. [Gotou Mai - Funwari Fuwari (shionelove) \[yoshilove's Uryu\~\]](https://osu.ppy.sh/beatmapsets/333217#mania/737488)
+  7. [Yooh - FIRE FIRE -DARK BLAZE REMIX- (Shinzo-) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/333217#mania/737488)
+  8. [Igorrr - Unpleasant Sonata (Sieg) \[\[Shi-Ra\]'s Hell \[SC\]\]](https://osu.ppy.sh/beatmapsets/90385#mania/285394)
+  9. [DJ'TEKINA//SOMETHING - Tou Chi Chen Secret Kakuranger TEKINA Remix (-Kamikaze-) \[Zenx's 7K Hard\]](https://osu.ppy.sh/beatmapsets/378669#mania/829079)
+  10. [RAMM - Wonder Nanda? Kataomoi (Reikosaka) \[Maximum\]](https://osu.ppy.sh/beatmapsets/135599#mania/339653)
+  11. [Rissyu - uni (HanzeR) \[Insane\]](https://osu.ppy.sh/beatmapsets/84156#mania/232025)
+  12. [Otokaze - amamichi (Simple\_Star) \[PC's 7K Another\]](https://osu.ppy.sh/beatmapsets/126508#mania/344760)
 - Tiebreaker
-  - **[Ogura Yui - Baby Sweet Berry Love (Tsukiko chan Maji kawa-E Remix) (KawaEE) \[Sweet Kawa-E Love\]](https://osu.ppy.sh/beatmapsets/316659#mania/705561)**
+  1. **[Ogura Yui - Baby Sweet Berry Love (Tsukiko chan Maji kawa-E Remix) (KawaEE) \[Sweet Kawa-E Love\]](https://osu.ppy.sh/beatmapsets/316659#mania/705561)**
 
 ## Match results
 
@@ -289,7 +291,7 @@ Saturday, 16 January 2016:
 | United Kingdom ![][flag_GB] | 0 | **5** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/21853348) |
 | Brazil ![][flag_BR] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/21865722) |
 
-### Group Stage
+### Group stage
 
 Saturday, 9 January 2016:
 
@@ -353,7 +355,7 @@ Sunday, 10 January 2016:
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
    - Reviving and surviving during a map gets considered as passing it.
-6. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
+6. Use of the [Visual Settings](/wiki/Client/Interface/Visual_settings) options are allowed.
 7. If the beatmap ends in a draw, the game will be nullified.
 8. If a player disconnects, they get treated as if they failed the beatmap.
    - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
@@ -435,9 +437,9 @@ Sunday, 10 January 2016:
 3. Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
    - Both vetos must always be used.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in \#multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning two beatmaps.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning two beatmaps.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Results will be published via Statistics site.

@@ -44,8 +44,6 @@ outdated: true
 
 **Комментаторы:** ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094), ![][flag_AU] [LaVolpe024](https://osu.ppy.sh/users/597796), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370)
 
----
-
 ## Участники
 
 ### Top-seeded
@@ -105,8 +103,6 @@ outdated: true
 ## Полезные ссылки
 
 - [Тред для обсуждения турнира](https://osu.ppy.sh/community/forums/topics/160181/start=0)
-
----
 
 ## Список правил
 
@@ -169,7 +165,7 @@ outdated: true
    3. Первая команда, упомянутая в шаблоне, должна занять синюю сторону, вторая — красную.
 2. Судья будет наблюдать за игрой с помощью специальной версии игрового клиента.
 3. Разминочная битмапа выбирается по договоренности между игроками команд.
-4. Битмапы из пула будут выбираться капитанами команда по очереди. Капитан, выбирающий первым, будет выбран жеребьевкой, которая будет проводиться с помоью команды !roll. Её нужно написать в канал \#multiplayer один раз. Тот, кому выпадет наибольшее число, и будет выбирать первым.
+4. Битмапы из пула будут выбираться капитанами команда по очереди. Капитан, выбирающий первым, будет выбран жеребьевкой, которая будет проводиться с помоью команды `!roll`. Её нужно написать в канал `#multiplayer` один раз. Тот, кому выпадет наибольшее число, и будет выбирать первым.
    1. Капитаны команд могут выбирать битмапы из списка предназначенных для игры со свободными модами без каких-либо ограничений.
    2. В каждом матче каждый капитан выберет по одной битмапе из списка битмап, предназначенных для игры с определённым модом.
    3. На случай ничьей будет заготовлена битмапа для ее, ничьей, разрешения.
@@ -203,35 +199,35 @@ outdated: true
 4. Расписание турнира остается на менеджерах турнира. Время проведения конкретных матчей будет анонсировано в последнее воскресенье перед соответствующими матчами. Пример: расписание для групповой стадии будет анонсировано третьего ноября. Расписание будет маскимально адаптировано под временные зоны конкретных команд.
 5. Капитаны ответственны за доведения сведений о расписании матчей до игроков. Если команда не явится на матч с указанной выше погрешностью во времени, то матч автоматически будет признан проигранным технически.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BG]: /wiki/shared/flag/BG.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EE]: /wiki/shared/flag/EE.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Аргентина"
+[flag_AT]: /wiki/shared/flag/AT.gif "Австрия"
+[flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
+[flag_BE]: /wiki/shared/flag/BE.gif "Бельгия"
+[flag_BG]: /wiki/shared/flag/BG.gif "Болгария"
+[flag_BR]: /wiki/shared/flag/BR.gif "Бразилия"
+[flag_CA]: /wiki/shared/flag/CA.gif "Канада"
+[flag_CL]: /wiki/shared/flag/CL.gif "Чили"
+[flag_CN]: /wiki/shared/flag/CN.gif "Китай"
+[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
+[flag_EE]: /wiki/shared/flag/EE.gif "Эстония"
+[flag_FI]: /wiki/shared/flag/FI.gif "Финляндия"
+[flag_FR]: /wiki/shared/flag/FR.gif "Франция"
+[flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"
+[flag_HK]: /wiki/shared/flag/HK.gif "Гонконг"
+[flag_ID]: /wiki/shared/flag/ID.gif "Индонезия"
+[flag_IT]: /wiki/shared/flag/IT.gif "Италия"
+[flag_JP]: /wiki/shared/flag/JP.gif "Япония"
+[flag_KR]: /wiki/shared/flag/KR.gif "Республика Корея"
+[flag_LV]: /wiki/shared/flag/LV.gif "Латвия"
+[flag_NL]: /wiki/shared/flag/NL.gif "Нидерланды"
+[flag_NO]: /wiki/shared/flag/NO.gif "Норвегия"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Новая Зеландия"
+[flag_PH]: /wiki/shared/flag/PH.gif "Филиппины"
+[flag_PL]: /wiki/shared/flag/PL.gif "Польша"
+[flag_RU]: /wiki/shared/flag/RU.gif "Российская Федерация"
+[flag_SE]: /wiki/shared/flag/SE.gif "Швеция"
+[flag_SG]: /wiki/shared/flag/SG.gif "Сингапур"
+[flag_TH]: /wiki/shared/flag/TH.gif "Таиланд"
+[flag_TW]: /wiki/shared/flag/TW.gif "Тайвань"
+[flag_US]: /wiki/shared/flag/US.gif "Соединённые Штаты Америки"
+[flag_VE]: /wiki/shared/flag/VE.gif "Венесуэла"

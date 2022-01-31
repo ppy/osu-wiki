@@ -46,11 +46,11 @@ outdated: true
 
 | Nome | Descrição |
 | :-- | :-- |
-| [Time de Moderação Global](/wiki/People/Global_Moderation_Team) | Tomam conta dos forums e chat in-game |
-| [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Te ajudam a melhorar seus Beatmaps |
+| [Time de Moderação Global](/wiki/People/The_Team/Global_Moderation_Team) | Tomam conta dos forums e chat in-game |
+| [Beatmap Nomination Group](/wiki/People/The_Team/Beatmap_Nominators) | Te ajudam a melhorar seus Beatmaps |
 | [Desenvolvedores](https://osu.ppy.sh/groups/11) | Tornando o jogo incrível adicionando novos recursos e concretando erros |
-| [osu! alumni](/wiki/People/osu!_Alumni) | São reconhecidos por suas contribuições mas que não são mais ativos |
-| [Equipe de Suporte](/wiki/People/Support_Team) | Assistentes dos subforums Tech Support/Feature Request |
+| [osu! alumni](/wiki/People/The_Team/osu!_Alumni) | São reconhecidos por suas contribuições mas que não são mais ativos |
+| [Equipe de Suporte](/wiki/People/The_Team/Support_Team) | Assistentes dos subforums Tech Support/Feature Request |
 | [osu!news](https://osu.ppy.sh/groups/25) | Disponibilizando boas noticias desde 2013 |
 | [Organizadores de Torneios](https://osu.ppy.sh/groups/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
-| [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Ajudam você a aproveitar o osu!, garantindo a qualidade dos beatmaps. |
+| [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) | Ajudam você a aproveitar o osu!, garantindo a qualidade dos beatmaps. |

@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 3301b00d5740b959a91ed18f5dc55a4660a218bb
 태그:
  - 모드
  - mod
@@ -62,7 +64,7 @@ no_native_review: true
 
 *중요: 이 모드들은 과거에 이용 가능한 모드였으나 지금은 이용이 불가능합니다.
 
-- [10K](/wiki/Game_modifier/10k) ![][osu!mania]
+- [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [페이드 아웃](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [노 비디오](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 

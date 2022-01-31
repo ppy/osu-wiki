@@ -2,7 +2,7 @@
 
 *For the writing standards, see: [Article style criteria/Writing](../Writing)*
 
-*Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119 "IETF Tools") to describe requirement levels.*
+*Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.*
 
 ## Locales
 
@@ -58,7 +58,7 @@ There are some cases where the content is allowed to differ:
 
 ## Front matter
 
-Front matter must be placed at the very top of the file. It is written in [YAML](https://en.wikipedia.org/wiki/YAML#Example "YAML Wikipedia article") and describes additional information about the article. This must be surrounded by three hyphens (`---`) on the lines above and below it, and an empty line must follow it before the title heading.
+Front matter must be placed at the very top of the file. It is written in [YAML](https://en.wikipedia.org/wiki/YAML#Example) and describes additional information about the article. This must be surrounded by three hyphens (`---`) on the lines above and below it, and an empty line must follow it before the title heading.
 
 ### Articles that need help
 
@@ -111,7 +111,7 @@ no_native_review: true
 
 *See also: [Folder names](#folder-names) and [Titles](#titles)*
 
-Article titles should be singular and use sentence case. See [Wikipedia's naming conventions article](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals) "Wikipedia") for more details.
+Article titles should be singular and use sentence case. See [Wikipedia's naming conventions article](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals)) for more details.
 
 Article titles should match the folder name it is in (spaces may replace underscores (`_`) where appropriate). If the folder name changes, the article title should be changed to match it and vice versa.
 
@@ -253,7 +253,7 @@ Hatnotes must be italicised and be placed immediately after the heading. If mult
 
 *Not to be confused with [Hatnote](#hatnote).*
 
-A notice should be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but should be kept to a minimum. Notices must be written as complete sentences. Thus, unlike most [hatnotes](#hatnotes), must use a full stop (`.`) or an exclamation mark (`!`) if appropriate. Anything within the same paragraph of a notice must also be italicised. These must be formatted as follows:
+A notice should be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but should be kept to a minimum. Notices must be written as complete sentences. Thus, unlike most [hatnotes](#hatnote), must use a full stop (`.`) or an exclamation mark (`!`) if appropriate. Anything within the same paragraph of a notice must also be italicised. These must be formatted as follows:
 
 ```markdown
 *Note: {note}.*
@@ -292,7 +292,7 @@ Italics may also be used to provide emphasis or help with readability.
 
 All headings must use sentence case.
 
-Headings must use the [ATX (hash) style](https://github.github.com/gfm/#atx-headings "GitHub") and must have an empty line before and after the heading. The title heading is an exception when it is on the first line. If this is the case, there only needs to be an empty line after the title heading.
+Headings must use the [ATX (hash) style](https://github.github.com/gfm/#atx-headings) and must have an empty line before and after the heading. The title heading is an exception when it is on the first line. If this is the case, there only needs to be an empty line after the title heading.
 
 Headings must not exceed a heading level of 5 and must not be used to style or format text.
 
@@ -312,7 +312,28 @@ Section headings must use levels 2 to 5. The section heading proceeding the [tit
 
 Section headings must not skip a heading level (i.e. do not go from a level 2 heading to a level 4 heading) and must not contain formatting or links.
 
-*Notice: On the website, heading levels 4 and 5 will not appear in the table of contents. They cannot be linked to directly either.*
+*Notice: On the website, heading levels 4 and 5 will not appear in the table of contents.*
+
+### Custom identifiers
+
+It is possible to redefine a section's identifier, which is used for linking to it directly. Custom identifiers should be used in case the automatically generated ones are too long or contain tricky punctuation marks or images:
+
+<!-- TODO: remove the {id=...} example when https://github.com/ppy/osu-web/issues/8057 is closed -->
+
+```markdown
+## My cooldown has passed. How do I appeal? {#appeal}
+
+## Common restriction reasons and cooldowns {#common-reasons}
+
+## Ideas for a multiplayer match {id=идеи-для-мультиплеера} <!-- alternative syntax for Unicode identifiers -->
+```
+
+This feature can also be used for tagging a specific part of the article which doesn't have a heading. Use it sparingly:
+
+```markdown
+> That's it! You're well on your way to becoming an osu! rhythm champion!
+{#tutorial-quote}
+```
 
 ## Lists
 
@@ -463,7 +484,7 @@ There are two types of links: inline and reference. Inline has two styles.
 The following is an example of both inline styles:
 
 ```markdown
-[Game Modifiers](/wiki/Game_Modifiers)
+[Game modifier](/wiki/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -471,9 +492,9 @@ The following is an example of both inline styles:
 The following is an example of the reference style:
 
 ```markdown
-[Game Modifiers][game mods link]
+[Game modifier][game mods link]
 
-[game mods link]: /wiki/Game_Modifiers
+[game mods link]: /wiki/Game_modifier
 ```
 
 ---
@@ -490,7 +511,7 @@ All links that point to an wiki article should start with `/wiki/` followed by t
 
 ```markdown
 [FAQ](/wiki/FAQ)
-[pippi](/wiki/Mascots#-pippi)
+[pippi](/wiki/Mascots#pippi)
 [Beatmaps](../)
 [Pattern](./Pattern)
 ```
@@ -509,8 +530,8 @@ Good examples include the following:
 
 ```markdown
 [Article styling criteria](/wiki/Article_styling_criteria)
-[Developers](/wiki/Developers)
-[Developers](/wiki/Developers#game-client-developers)
+[Developers](/wiki/People/The_Team/Developers)
+[Developers](/wiki/People/The_Team/Developers#game-client-developers)
 ```
 
 ##### Sub-article links
@@ -518,7 +539,7 @@ Good examples include the following:
 Wiki links that point to a sub-article should include the parent article's folder name in its link text. See the following example:
 
 ```markdown
-*See also: [Beatmap Editor/Design](/wiki/Beatmap_Editor/Design)*
+*See also: [Beatmap Editor/Design](/wiki/Client/Beatmap_editor/Design)*
 ```
 
 ##### Section links
@@ -548,7 +569,7 @@ The link text of the user link should be the user's current name.
 Whenever linking to a single difficulty, use this format as the link text:
 
 ```
-{artist} - {title} ({creator}) [{difficuty_name}]
+{artist} - {title} ({creator}) [{difficulty_name}]
 ```
 
 The link must actually link to that difficulty. Beatmap difficulty URLs must be formatted as follows:
@@ -577,12 +598,12 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
 
 *Notice: External links refers to links that go outside the `https://osu.ppy.sh/` domain.*
 
-The `https` protocol must be used, unless the site does not support it. External links must be a clean and direct link to a reputable source. The link text should be the title of the page it is linking to. The URL from the address bar of your web browser should be copied as it is when linking to other external pages.
+The `https` protocol must be used, unless the site does not support it. External links must be a clean and direct link to a reputable source. The URL from the address bar of your web browser should be copied as it is when linking to other external pages.
 
 There are no visual differences between external and osu! web links. Due to this, the website name should be included in the title text. See the following example:
 
 ```markdown
-*For more information about music theory, see: [Music theory](https://en.wikipedia.org/wiki/Music_theory "Wikipedia")*
+*For more information about music theory, see: [Music theory](https://en.wikipedia.org/wiki/Music_theory)*
 ```
 
 ## Images
@@ -592,20 +613,38 @@ There are two types of image links: inline and reference. Examples:
 **Inline style:**
 
 ```markdown
-![](/wiki/shared/flag/AU.gif)
+![Gold crown](/wiki/shared/crown-gold.png "1st place")
 ```
 
 **Reference style:**
 
 ```markdown
-![][flag_AU]
+![Gold crown][GCrown]
 
-[flag_AU]: /wiki/shared/flag/AU.gif
+[GCrown]: /wiki/shared/crown-gold.png "1st place"
 ```
 
-Images should use the inline linking style. References to reference links must be placed at the bottom of the article.
+Images should use the inline linking style. Reference link definitions must be placed at the bottom of the article.
 
-Images must be placed in a folder named `img`, located in the article's folder. Images that are used in multiple articles should be stored in the `/wiki/shared/` folder.
+### Alternative and title text
+
+The text in the first pair of square brackets (*alternative text*) should describe the image literally. It is used by screen readers or when the image fails to load. It can be omitted if it is identical to the title text or if the image is included only for decorative purposes.
+
+The text in the quotation marks (*title text*) should give additional context to the image or indicate its meaning. It is displayed as a tooltip when hovering over the image and used as a caption if applicable. It does not support any markdown formatting.
+
+### Display
+
+If an image is the sole content of a paragraph, it displays as a centred block. Otherwise, it flows with the surrounding inline text.
+
+Block images with title text display the title text as a caption below the image.
+
+Block images are commonly paired with infobox<!-- TODO: link me! --> formatting to reduce their initial size and float them to the side of other content:
+
+```markdown
+::: Infobox
+![](img/mod-response.png "An example of a response to a mod")
+:::
+```
 
 ### Image caching
 
@@ -621,7 +660,7 @@ Images should use the JPG format at quality 8 (80 or 80%, depending on the progr
 
 Images must be under 1 megabyte, otherwise they will fail to load. Downscaling and using JPG at 80% is almost always under the size limit.
 
-All images should be optimised as much as possible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive "GitHub") to compress JPEG images. For consistency, use the following command for jpeg-archive:
+All images should be optimised as much as possible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) to compress JPEG images. For consistency, use the following command for jpeg-archive:
 
 ```sh
 jpeg-recompress -am smallfry <input> <output>
@@ -635,33 +674,7 @@ Where `<input>` is the file name to be compressed and `<output>` is the compress
 
 Use hyphens (`-`) when spacing words. When naming an image, the file name should be meaningful or descriptive but short.
 
-### Formatting and positioning
-
-*Note: It is currently not possible to float an image or have text wrap around it.*
-
-Images on the website will be centred when it is on a single line, by themself. Otherwise, they will be positioned inline with the paragraph. The following example will place the image in the center:
-
-```markdown
-Installing osu! is easy. First, download the installer from the download page.
-
-![](img/download-page.jpg)
-
-Then locate the installer and run it.
-```
-
-### Alt text
-
-Images should have alt text unless it is for decorative purposes.
-
-### Captions
-
-Images are given captions on the website if they fulfill these conditions:
-
-1. The image is by itself.
-2. The image is not inside a heading.
-3. The image has title text.
-
-Captions are assumed via the title text, which must be in plain text. Images with captions are also centred with the image on the website.
+Images must be placed in a folder named `img` under the article's folder. Images that are used in multiple articles should be stored in the `/wiki/shared` folder.
 
 ### Max image width
 
@@ -715,7 +728,7 @@ Flag icons next to user links must be separate from the link text. See the follo
 
 ### Flag icons
 
-*For a list of flag icons, see: [issue \#328](https://github.com/ppy/osu-wiki/issues/328 "GitHub")*
+*For a list of flag icons, see: [issue \#328](https://github.com/ppy/osu-wiki/issues/328)*
 
 The flag icons use the two letter code (in all capital letters) and end with `.gif`. When adding a flag inline, use this format:
 
@@ -723,7 +736,7 @@ The flag icons use the two letter code (in all capital letters) and end with `.g
 ![](/wiki/shared/flag/xx.gif)
 ```
 
-Where `xx` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia") two-lettered country code for the flag.
+Where `xx` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
 
 The full country name should be added in the title text. The country code in the alternate text is optional, but must be applied to all flag icons in the article.
 

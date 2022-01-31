@@ -403,6 +403,8 @@ osu! World Cup นั้นจะแบ่งทีมเป็นประเ�
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 4 Digit osu!mania World Cup | 2019-06-03 | 2019-07-27 | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_PH] Philippines |
 | [4 Digit osu!mania World Cup 2](4DM/2) | 2020-02-15 | 2020-03-28 | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_PH] Philippines |
+| [4 Digit osu!mania World Cup 3](4DM/3) | 2021-01-23 | 2021-03-07 | ![][flag_PH] Philippines | ![][flag_MY] Malaysia | ![][flag_BR] Brazil |
+| [4 Digit osu!mania World Cup 4](4DM/4) | 2022-01-08 | 2022-02-20 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania 4K Chinese National Cup
 
@@ -461,6 +463,7 @@ osu! World Cup นั้นจะแบ่งทีมเป็นประเ�
 [GCrown]: /wiki/shared/crown-gold.png "อันดับที่ 1"
 [SCrown]: /wiki/shared/crown-silver.png "อันดับที่ 2"
 [BCrown]: /wiki/shared/crown-bronze.png "อันดับที่ 3"
+
 [flag_AR]: /wiki/shared/flag/AR.gif "อาร์เจนตินา"
 [flag_AU]: /wiki/shared/flag/AU.gif "ออสเตรเลีย"
 [flag_BR]: /wiki/shared/flag/BR.gif "บราซิล"

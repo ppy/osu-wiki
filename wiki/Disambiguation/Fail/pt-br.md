@@ -7,4 +7,4 @@ no_native_review: true
 **Fail** pode ter múltiplos significados:
 
 - Não passar um [beatmap](/wiki/Beatmap)
-- Estar no [estado failed](/wiki/Storyboard_Scripting/General_Rules#layers) durante uma [pausa](/wiki/Beatmap/Break) de um beatmap
+- Estar no [estado failed](/wiki/Storyboard/Scripting/General_Rules#layers) durante uma [pausa](/wiki/Beatmap/Break) de um beatmap

@@ -1,5 +1,4 @@
 ---
-stub: true
 tags:
   - GD
   - guest beatmap
@@ -11,6 +10,18 @@ tags:
 
 *For regulations surrounding guest difficulties, see: [Ranking Criteria](/wiki/Ranking_Criteria)*
 
-A **guest difficulty** (or *GD* for short) is a [difficulty](/wiki/Beatmap/Difficulty) of a [beatmap](/wiki/Beatmap) that is not created by the [beatmap host](/wiki/Beatmap/Beatmap_host). They can usually be identified by their difficulty name containing the guest creator's username. A beatmap featuring multiple creators is also known as a [collaborative difficulty](/wiki/Beatmap/Beatmap_collaborations).
+A **guest difficulty**, or *GD* for short, is a [difficulty](/wiki/Beatmap/Difficulty) of a [beatmap](/wiki/Beatmap) that is not created by the [beatmap host](/wiki/Beatmap/Beatmap_host). It can usually be identified by its difficulty name containing the guest mapper's username.
 
-Many guest difficulties are often requested by private messages between creators. Although GDs can also be requested in [modding queues](https://osu.ppy.sh/community/forums/60)<!-- TODO: should link to an article about queues, not the forum -->.
+Although not mandatory, having guest difficulties can be beneficial in many occasions as they often feature completely different mapping styles between one another, which diversifies the mapset, and helps reduce mapping burnout. Guest difficulties are most commonly requested through private messages between mappers, although they may also be requested by other means such as the in-game `#mapping` channel or [modding queues](https://osu.ppy.sh/community/forums/60)<!-- TODO: should link to an article about queues, not the forum -->.
+
+Guest difficulties are not to be confused with difficulties that feature multiple mappers, which are instead known as *[collabs](/wiki/Beatmap/Beatmap_collaborations)*.
+
+## Ownership
+
+::: Infobox
+![](img/gd_ownership.png "An example of the guest difficulty ownership control panel")
+:::
+
+On the [beatmap discussion page](/wiki/Beatmap_discussion), the beatmap host may transfer ownership of guest difficulties to their respective mappers through the `Difficulty Owner` button. This allows for the guest difficulty owners to resolve pending issues in their difficulties on their own.
+
+Ownership of a guest difficulty cannot be changed if the beatmap is [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Loved](/wiki/Beatmap/Category#loved).
