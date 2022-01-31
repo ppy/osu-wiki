@@ -60,8 +60,8 @@ COT 2022 is run by various osu! community members mostly hailing from the Common
 
 | Seed | Members |
 | :-: | :-- |
-| 1-8 | ![][flag_RU] [KitsunIvy](https://osu.ppy.sh/users/7055384), ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164), ![][flag_UA] [FruktoLove](https://osu.ppy.sh/users/8417087), ![][flag_RU] [Memoriola](https://osu.ppy.sh/users/6856387), ![][flag_RU] [vafara](https://osu.ppy.sh/users/18917363), ![][flag_RU] [cosilgam](https://osu.ppy.sh/users/15960747), ![flag_RU] [dark rainbow](https://osu.ppy.sh/users/10557830), ![flag_RU] [BocDyx](https://osu.ppy.sh/users/7926192) |
-| 9-24 | ![flag_RU] [Kenny331](https://osu.ppy.sh/users/11534285), ![flag_UA] [[-Nyaruko-]](https://osu.ppy.sh/users/13712671), ![flag_LV] [Soruki](https://osu.ppy.sh/users/11762423), ![flag_RU] [yuinn](https://osu.ppy.sh/users/11239593), ![flag_UA] [Shadowbolts1](https://osu.ppy.sh/users/13962882), ![flag_UA] [Violet Feets](https://osu.ppy.sh/users/15558360), ![flag_RU] [Mazuki](https://osu.ppy.sh/users/15208771), ![flag_RU] [mirofantasm](https://osu.ppy.sh/users/6650048), ![flag_RU] [catch the ExGon](https://osu.ppy.sh/users/12081746), ![flag_RU] [liquid_boba](https://osu.ppy.sh/users/11694783), ![flag_RU] [vinnikoish](https://osu.ppy.sh/users/14509580), ![flag_UA] [NamakemonsteR](https://osu.ppy.sh/users/17314832), ![flag_LV] [oFKors01](https://osu.ppy.sh/users/26522965), ![flag_RU] [yoraze](https://osu.ppy.sh/users/18240388), ![flag_RU] [PedobeerKoroche](https://osu.ppy.sh/users/19389015), ![flag_RU] [HAWAIIPIZZA](https://osu.ppy.sh/users/17668833) |
+| 1-8 | ![][flag_RU] [KitsunIvy](https://osu.ppy.sh/users/7055384), ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164), ![][flag_UA] [FruktoLove](https://osu.ppy.sh/users/8417087), ![][flag_RU] [Memoriola](https://osu.ppy.sh/users/6856387), ![][flag_RU] [vafara](https://osu.ppy.sh/users/18917363), ![][flag_RU] [cosilgam](https://osu.ppy.sh/users/15960747), ![][flag_RU] [dark rainbow](https://osu.ppy.sh/users/10557830), ![][flag_RU] [BocDyx](https://osu.ppy.sh/users/7926192) |
+| 9-24 | ![][flag_RU] [Kenny331](https://osu.ppy.sh/users/11534285), ![][flag_UA] [[-Nyaruko-]](https://osu.ppy.sh/users/13712671), ![][flag_LV] [Soruki](https://osu.ppy.sh/users/11762423), ![][flag_RU] [yuinn](https://osu.ppy.sh/users/11239593), ![][flag_UA] [Shadowbolts1](https://osu.ppy.sh/users/13962882), ![][flag_UA] [Violet Feets](https://osu.ppy.sh/users/15558360), ![][flag_RU] [Mazuki](https://osu.ppy.sh/users/15208771), ![][flag_RU] [mirofantasm](https://osu.ppy.sh/users/6650048), ![][flag_RU] [catch the ExGon](https://osu.ppy.sh/users/12081746), ![][flag_RU] [liquid_boba](https://osu.ppy.sh/users/11694783), ![][flag_RU] [vinnikoish](https://osu.ppy.sh/users/14509580), ![][flag_UA] [NamakemonsteR](https://osu.ppy.sh/users/17314832), ![][flag_LV] [oFKors01](https://osu.ppy.sh/users/26522965), ![][flag_RU] [yoraze](https://osu.ppy.sh/users/18240388), ![][flag_RU] [PedobeerKoroche](https://osu.ppy.sh/users/19389015), ![][flag_RU] [HAWAIIPIZZA](https://osu.ppy.sh/users/17668833) |
 
 See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS_Sx4MyWdGOYD9raofZ46uomMbVW6wm48/edit#gid=749874175) for a list of all initial participants.
 
@@ -69,7 +69,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
 
 ### Round of 24
 
-**[Download the mappack here! (72 MB)](https://drive.google.com/file/d/1V2R8biB_a6z81LqSS_r7nl1P86TdIjhv/view)**
+**[Скачать маппак можно здесь! (72 MB)](https://drive.google.com/file/d/1V2R8biB_a6z81LqSS_r7nl1P86TdIjhv/view)**
 
 - NoMod
   1. [Nakanoke no Itsutsugo - Gotoubun no Kimochi (Imai Lisa) \[Hexuluous' Rain\]](https://osu.ppy.sh/beatmapsets/953441#fruits/2022835)
@@ -78,7 +78,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
   4. [DUSTCELL - Mad Hatter (SMOKELIND) \[EX\]](https://osu.ppy.sh/beatmapsets/1368534#fruits/2829999)
 - Hidden
   1. [Yorushika - Haru Hisagi (Terton) \[Dishonesty\]](https://osu.ppy.sh/beatmapsets/1687433#fruits/3448600)
-  2. [Zektbach - Turii ~Panta rhei~ (celerih) \[Insane\]](https://osu.ppy.sh/beatmapsets/1687433#fruits/3448600)
+  2. [Zektbach - Turii \~Panta rhei\~ (celerih) \[Insane\]](https://osu.ppy.sh/beatmapsets/1687433#fruits/3448600)
 - HardRock
   1. [Lovejoy - One Day (Crowley) \[PLATTER\]](https://osu.ppy.sh/beatmapsets/1511787#fruits/3095543)
   2. [LeaF - Kyouki Ranbu (toybot) \[Insane\]](https://osu.ppy.sh/beatmapsets/1312129#fruits/3036786)
