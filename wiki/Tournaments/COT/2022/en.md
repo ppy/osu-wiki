@@ -78,7 +78,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
   4. [DUSTCELL - Mad Hatter (SMOKELIND) \[EX\]](https://osu.ppy.sh/beatmapsets/1368534#fruits/2829999)
 - Hidden
   1. [Yorushika - Haru Hisagi (Terton) \[Dishonesty\]](https://osu.ppy.sh/beatmapsets/1687433#fruits/3448600)
-  2. [Zektbach - Turii ~Panta rhei~ (celerih) \[Insane\]](https://osu.ppy.sh/beatmapsets/1687433#fruits/3448600)
+  2. [Zektbach - Turii \~Panta rhei\~ (celerih) \[Insane\]](https://osu.ppy.sh/beatmapsets/1687433#fruits/3448600)
 - HardRock
   1. [Lovejoy - One Day (Crowley) \[PLATTER\]](https://osu.ppy.sh/beatmapsets/1511787#fruits/3095543)
   2. [LeaF - Kyouki Ranbu (toybot) \[Insane\]](https://osu.ppy.sh/beatmapsets/1312129#fruits/3036786)
