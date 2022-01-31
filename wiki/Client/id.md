@@ -7,8 +7,6 @@ tags:
 
 # Klien
 
-<!-- TODO: this could make for a good introductory page -->
-
 Berikut ini merupakan daftar artikel yang membahas seputar klien osu!.
 
 ## Perkenalan
