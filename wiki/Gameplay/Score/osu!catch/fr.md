@@ -15,7 +15,7 @@ Cependant, le fruit s'ajoute différemment au score.
 - Un droplet (slider path) donne un score de 10.
 - Chaque banane collectée (pendant la durée du spinner) donne un score fixe de 1,100, indépendamment des mods et du multiplicateur de combo.
 
-Le combo ne ce cassera pas si des droplets sont manqués (représentés en tant que *miss droplet* dans les classements du site) dans ce mode, mais il en résultera une baisse de précision et de gain de score.
+Le combo ne se cassera pas si des droplets sont manqués (représentés en tant que *miss droplet* dans les classements du site) dans ce mode, mais il en résultera une baisse de précision et de gain de score.
 
 `Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]`
 
