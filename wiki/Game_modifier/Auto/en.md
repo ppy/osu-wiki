@@ -32,7 +32,7 @@ tags:
 
 The **Auto** mod is a [game modifier](/wiki/Game_modifier) that allows players to watch a perfect playthrough of the selected beatmap.
 
-The mod functions exactly like a [replay](/wiki/Replay), with the options for 0.5x/1.0x/2.0x speed playback to be used and comments on the beatmap to be seen and made like normal. The Auto mod will always get an SS grade, with the exception of a few special cases.
+The mod functions exactly like a [replay](/wiki/Gameplay/Replay), with the options for 0.5x/1.0x/2.0x speed playback to be used and comments on the beatmap to be seen and made like normal. The Auto mod will always get an SS grade, with the exception of a few special cases.
 
 ### osu!
 

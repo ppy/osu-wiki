@@ -150,14 +150,14 @@ The osu! Beatmapping World Championship is run by various community members.
 ## Ruleset
 
 1. **The [osu! Ranking Criteria](/wiki/Ranking_Criteria/osu!) and [General Ranking Criteria](/wiki/Ranking_Criteria) are in effect for this contest.** The winning prize of the contest includes ranking the 3 beatmaps submitted by the winning teams, which we cannot get it done if the beatmaps do not abide by the Ranking Criteria. Any required difficulties to fulfill the requirements of the Ranking Criteria will be supplied by the [Organisation Team](#organisation). Inapplicable cases such as spread requirements are excluded from this rule.
-2. **3-6 members per team required.** The main concept of the contest is to exhibit the potential of each country, meaning that a collaboration of at least 2 members on each song will be required from the team members. How you organize the sections is completely up to you.
+2. **3-6 members per team required.** The main concept of the contest is to exhibit the potential of each country, meaning that a collaboration of at least 2 members on each song will be required from the team members. How you organise the sections is completely up to you.
 3. **All team members must contribute each round throughout the contest.** Since this is a country-based competition that requires teamwork, we would like to have each member of a team rewarded fairly for their diligence. Failing to help other teammates and letting them pull the strings is considered unsportsmanlike and may get you disqualified from the contest.
 4. **A team must participate in at least 3 rounds in order to be eligible for prizes.** We don't want our competitors to burn out, but we still want to reward the ones who deserve it.
-5. **Stealing or plagiarizing others' work is strictly prohibited.** Copying other users' intellectual properties is highly unethical and forbidden by the [Beatmap Submission Rules](/wiki/Rules#beatmap-submission-rules). If your submission is found to be plagiarized, your team will be disqualified from the contest immediately. 
+5. **Stealing or plagiarizing others' work is strictly prohibited.** Copying other users' intellectual properties is highly unethical and forbidden by the [Beatmap Submission Rules](/wiki/Rules#beatmap-submission-rules). If your submission is found to be plagiarised, your team will be disqualified from the contest immediately. 
 6. **Uploading your submission through [BSS](/wiki/Submission) or sharing it on any third-party websites before the deadline is strictly prohibited.** This includes asking for external help, sharing the beatmap with users outside of your team. Violation of this rule will result in disqualification. We strongly recommend not revealing any related materials as well, such as photos and screenshots of your submission.
 7. **Entries can only be submitted through the official website.** This process is made to ease the management of the difficulties between the judges and the contestants. No entries will be accepted through any means other than the website. For any questions regarding using the website, please contact the hosts of the contest.
 8. **Submissions will not be accepted after the deadline.** As everybody will share the same time period to map for each round, extending the deadline for any particular team would be unfair for others. Therefore, any entries submitted after the deadline will not be taken into account. The website will automatically close submissions once the deadline has passed.
-9. **Custom hitsounds are allowed, but none will be provided.** You are allowed, and even encouraged, to use custom hitsounds. How you will organize them will be up to you.
+9. **Custom hitsounds are allowed, but none will be provided.** You are allowed, and even encouraged, to use custom hitsounds. How you will organise them will be up to you.
 10. **Changing the contents of the provided `.osz` file is prohibited.** This includes changing the timing of the `.osu` file, replacing or removing the `.mp3` file, altering the metadata of tags, titles and artists as well. We would like to avoid any complications during the judging process, thus submissions containing altered versions of mentioned values or contents will be considered invalid. 
 11. **Do not include storyboards or beatmap backgrounds.** They will not be considered in the judging process and will be removed prior to entries being passed onto the judges.
 12. **Restricted users cannot take part in the contest.** For the legitimacy of this contest, restricted users are not allowed to participate. If a restricted user is identified to contribute to this contest in a team, the entire team will be disqualified.
@@ -212,11 +212,11 @@ Yes, you can. Upon joining, you'll be placed in the `#arrival` channel, where yo
 
 8. **"All team members must contribute each round throughout the contest." - Do I have to work with my team as a whole on each map?**
 
-Yes! We set this rule to make sure the main spirit of the contest about collaborations remains, while not restricting people with their team management. Aside from mapping a particular section of the entry, hitsounding, making sliderarts, combo-colouring, and modding can be considered as valid contributions. Organization of these tasks is totally up to you!
+Yes! We set this rule to make sure the main spirit of the contest about collaborations remains, while not restricting people with their team management. Aside from mapping a particular section of the entry, hitsounding, making sliderarts, combo-colouring, and modding can be considered as valid contributions. Organisation of these tasks is totally up to you!
 
 9. **Can I make an osu!mania, osu!taiko or osu!catch beatmap?**
 
-Unfortunately, this edition of the contest is for the osu! game mode only. However, we are planning to organize multi-mode editions in 2 months upon the start of this edition! 
+Unfortunately, this edition of the contest is for the osu! game mode only. However, we are planning to organise multi-mode editions in 2 months upon the start of this edition! 
 
 10. **Will this event be broadcasted on Twitch?**
 

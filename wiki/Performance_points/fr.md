@@ -8,9 +8,9 @@ Ce système cherche à mettre en valeur une représentation des compétences du 
 
 La première mise en œuvre d'un tel score a été révélée au public au cours du mois d'avril 2012 et n'était connue que sous le nom du mystérieux projet *'???'*, le système énigmatique a finalement reçu son nom complet plus tard dans le mois.
 
-Connu par la suite sous le nom de "pp" (abréviation de "performance points"), ce nouveau système visait à modifier la norme précédente de la performance des joueurs, qui consistait à passer d'un simple [score](/wiki/Score) total à quelque chose qui reflétait précisément les compétences. Ce nouveau système a été largement plébiscité par les joueurs de l'époque.
+Connu par la suite sous le nom de "pp" (abréviation de "performance points"), ce nouveau système visait à modifier la norme précédente de la performance des joueurs, qui consistait à passer d'un simple [score](/wiki/Gameplay/Score) total à quelque chose qui reflétait précisément les compétences. Ce nouveau système a été largement plébiscité par les joueurs de l'époque.
 
-Plusieurs mois après sa révélation, la version 20120722-24 d'osu! a officiellement mis en œuvre le système pour remplacer entièrement l'ancien système de score [Classé](/wiki/Beatmap/Category#Classée), les nouveaux scores étant calculés toutes les 30 minutes. Plus tard, en août de la même année, le système a été amélioré pour être mis à jour en temps réel.
+Plusieurs mois après sa révélation, la version 20120722-24 d'osu! a officiellement mis en œuvre le système pour remplacer entièrement l'ancien système de score [Classé](/wiki/Beatmap/Category#classée), les nouveaux scores étant calculés toutes les 30 minutes. Plus tard, en août de la même année, le système a été amélioré pour être mis à jour en temps réel.
 
 *Remarque : ppv1, la version originale du système de points de performance, comportait également un journal de modifications, qui peut être consulté dans son [sujet du forum](https://osu.ppy.sh/community/forums/topics/92185).*
 
@@ -93,7 +93,7 @@ Considérez les conseils suivants :
 - Jouez efficacement et déterminez le style de jeu qui vous convient le mieux.
 - Concentrez-vous sur l'obtention d'une poignée de résultats exceptionnels au lieu de "farmer" des centaines de résultats tout juste corrects.
 - Cherchez à améliorer votre précision. Même 1 % fait une énorme différence.
-- Visez des combos plus élevés. Les full combos (FC) ou les scores [SS](/wiki/Grade) donnent une grande quantité de score.
+- Visez des combos plus élevés. Les full combos (FC) ou les scores [SS](/wiki/Gameplay/Grade) donnent une grande quantité de score.
 
 ### Pourquoi n'ai-je pas gagné la totalité des pp d'une beatmap que j'ai jouée ?
 

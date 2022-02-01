@@ -11,9 +11,8 @@ no_native_review: true
 ## 相關頁面
 
 - [設置](Setup)
-- [玩家設置](Multiplayer_Usage)
-- [旁觀者設置](Spectator_Usage)
+- [玩家設置](Multiplayer_usage)
+- [旁觀者設置](Spectator_usage)
 - [Skin](Skinning)
-- [比賽管理指令](Tournament_Management_Commands)
+- [比賽管理指令](Tournament_management_commands)
 - [疑難排解](Troubleshooting)
-- [獎勵](Prizes)

@@ -130,164 +130,164 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (103 MB)](https://mega.nz/#!QT51gADB!zlzLPcKn9s0jeoxh4iG3gLvuvBzjmFb_Wx09BaokGk0)**
 
 - FreeMod
-  - [sakuraburst - serotonin (Nick Wilde) \[C10H12N2O\]](https://osu.ppy.sh/beatmapsets/661082#mania/1399658)
-  - [Helblinde - Above The Clouds (Tidek) \[Heaven\]](https://osu.ppy.sh/beatmapsets/895291#mania/1870722)
-  - [PSYQUI - Still in my heart (RuleBlazing) \[miss u\]](https://osu.ppy.sh/beatmapsets/971748#mania/2034572)
-  - [Pastel\*Palettes - Tenka Toitsu A to Z\* (Raveille) \[L to N\*\]](https://osu.ppy.sh/beatmapsets/969949#mania/2029142)
-  - [Yunomi - Mentai Cosmic (PianoLuigi) \[Cosmic LNs\]](https://osu.ppy.sh/beatmapsets/880730#mania/1841704)
-  - [P\*Light feat. mow\*2 - OVERDRIVERS (inteliser) \[EXTREME \[LN\]\]](https://osu.ppy.sh/beatmapsets/578558#mania/1224997)
-  - [Shiena Nishizawa - Meaning (\[GraveChaos\]) \[Arcwin's Insane\]](https://osu.ppy.sh/beatmapsets/335828#mania/751916)
-  - [sakuzyo - Neurotoxin (Abraxos) \[Stage 2: Inhibition\]](https://osu.ppy.sh/beatmapsets/720287#mania/1520776)
-  - [nekodex - circles! (puxtu) \[mash the circles!\]](https://osu.ppy.sh/beatmapsets/501762#mania/1067779)
-  - [Ryo Arue - Forza (Trixta) \[Departure\]](https://osu.ppy.sh/beatmapsets/668280#mania/1413841)
-  - [Various Artists - intel 4K Core Pack Vol.3 (inteliser) \[xi // Inixia (ADV)\]](https://osu.ppy.sh/beatmapsets/550226#mania/1165653)
-  - [L.E.D. - PSYCHE PLANET-GT (\_Y u r i\_) \[PLANET COLLISION\]](https://osu.ppy.sh/beatmapsets/584586#mania/1236813)
-  - [The Flashbulb - DIDJ PVC (Vortex-) \[Progressing\]](https://osu.ppy.sh/beatmapsets/884240#mania/1848306)
-  - [Igorrr & Ruby My Dear - Alain (Domblade) \[Enfer \[NO SV\]\]](https://osu.ppy.sh/beatmapsets/803581#mania/1686591)
-  - [yak\_won - Wind Tales (Azubeur) \[Melancholy\]](https://osu.ppy.sh/beatmapsets/785824#mania/1649758)
-  - [Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia Remix) (Alsty-) \[Another Kabaneri\]](https://osu.ppy.sh/beatmapsets/484996#mania/1034385)
-  - [LovelySummer-Chan - Anata wa tobacco, watashi wa shabon (saradisk remix) (Jesuren) \[DnM's Lovely Summer\]](https://osu.ppy.sh/beatmapsets/692138#mania/1636158)
+  1. [sakuraburst - serotonin (Nick Wilde) \[C10H12N2O\]](https://osu.ppy.sh/beatmapsets/661082#mania/1399658)
+  2. [Helblinde - Above The Clouds (Tidek) \[Heaven\]](https://osu.ppy.sh/beatmapsets/895291#mania/1870722)
+  3. [PSYQUI - Still in my heart (RuleBlazing) \[miss u\]](https://osu.ppy.sh/beatmapsets/971748#mania/2034572)
+  4. [Pastel\*Palettes - Tenka Toitsu A to Z\* (Raveille) \[L to N\*\]](https://osu.ppy.sh/beatmapsets/969949#mania/2029142)
+  5. [Yunomi - Mentai Cosmic (PianoLuigi) \[Cosmic LNs\]](https://osu.ppy.sh/beatmapsets/880730#mania/1841704)
+  6. [P\*Light feat. mow\*2 - OVERDRIVERS (inteliser) \[EXTREME \[LN\]\]](https://osu.ppy.sh/beatmapsets/578558#mania/1224997)
+  7. [Shiena Nishizawa - Meaning (\[GraveChaos\]) \[Arcwin's Insane\]](https://osu.ppy.sh/beatmapsets/335828#mania/751916)
+  8. [sakuzyo - Neurotoxin (Abraxos) \[Stage 2: Inhibition\]](https://osu.ppy.sh/beatmapsets/720287#mania/1520776)
+  9. [nekodex - circles! (puxtu) \[mash the circles!\]](https://osu.ppy.sh/beatmapsets/501762#mania/1067779)
+  10. [Ryo Arue - Forza (Trixta) \[Departure\]](https://osu.ppy.sh/beatmapsets/668280#mania/1413841)
+  11. [Various Artists - intel 4K Core Pack Vol.3 (inteliser) \[xi // Inixia (ADV)\]](https://osu.ppy.sh/beatmapsets/550226#mania/1165653)
+  12. [L.E.D. - PSYCHE PLANET-GT (\_Y u r i\_) \[PLANET COLLISION\]](https://osu.ppy.sh/beatmapsets/584586#mania/1236813)
+  13. [The Flashbulb - DIDJ PVC (Vortex-) \[Progressing\]](https://osu.ppy.sh/beatmapsets/884240#mania/1848306)
+  14. [Igorrr & Ruby My Dear - Alain (Domblade) \[Enfer \[NO SV\]\]](https://osu.ppy.sh/beatmapsets/803581#mania/1686591)
+  15. [yak\_won - Wind Tales (Azubeur) \[Melancholy\]](https://osu.ppy.sh/beatmapsets/785824#mania/1649758)
+  16. [Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia Remix) (Alsty-) \[Another Kabaneri\]](https://osu.ppy.sh/beatmapsets/484996#mania/1034385)
+  17. [LovelySummer-Chan - Anata wa tobacco, watashi wa shabon (saradisk remix) (Jesuren) \[DnM's Lovely Summer\]](https://osu.ppy.sh/beatmapsets/692138#mania/1636158)
 - Tiebreaker
-  - **[KikuoHana - Nobore! Susume! Takai Tou (Kuron-kun) \[Eraser's Minaret\]](https://osu.ppy.sh/beatmapsets/580273#mania/1231298)**
+  1. **[KikuoHana - Nobore! Susume! Takai Tou (Kuron-kun) \[Eraser's Minaret\]](https://osu.ppy.sh/beatmapsets/580273#mania/1231298)**
 
 #### Finals
 
 **[Download the mappack here! (107 MB)](https://mega.nz/#!JCxQWISY!aaqIPQpJsw6rNRMOw3WUDdcRhAFEwqbSIBNvoSNFQQI)**
 
 - FreeMod
-  - [Soba - Hasu (Cut) (Tantei B) \[VlowerS\]](https://osu.ppy.sh/beatmapsets/770757#mania/1620423)
-  - [Knife Party - Bonfire (Kamikaze) \[Rage\]](https://osu.ppy.sh/beatmapsets/988569#mania/2067883)
-  - [MaxNRG - Hide Away My Heart (- Aries -) \[Insane\]](https://osu.ppy.sh/beatmapsets/668691#mania/1414598)
-  - [Martin Garrix - Oops (Cokiiplay) \[LN\]](https://osu.ppy.sh/beatmapsets/676445#mania/1430693)
-  - [Various Artist - ATing's LN Pack (ATing) \[Chiisana Koi no Uta\]](https://osu.ppy.sh/beatmapsets/911475#mania/1902619)
-  - [M2U - H.O.W.Ling (Toaph Daddy) \[Insane\]](https://osu.ppy.sh/beatmapsets/972698#mania/2096223)
-  - [Paramore - Ignorance (puxtu) \[Stranger\]](https://osu.ppy.sh/beatmapsets/534204#mania/1131628)
-  - [Hotaru Murasaki - Re:TrymenT (Soleily Remix Radio Edit) (\[ A v a l o n \]) \[Insane\]](https://osu.ppy.sh/beatmapsets/556747#mania/1178170)
-  - [yuki. - Nadeshiko Sensation (\_Y u r i\_) \[Insane\]](https://osu.ppy.sh/beatmapsets/522889#mania/1110346)
-  - [Porter Robinson - Goodbye To A World (Dr. Deimos & Gears Remix) (Civilization) \[Far Away\]](https://osu.ppy.sh/beatmapsets/824505#mania/1727865)
-  - [Chase and Status ft. Plan B - End Credits (Hydria) \[Jumpstream\]](https://osu.ppy.sh/beatmapsets/445460#mania/956839)
-  - [Kobaryo - Sulyvahn [feat. USAO] (Wadu) \[Insane\]](https://osu.ppy.sh/beatmapsets/772078#mania/1678530)
-  - [P\*Light - SAtAN (Gyukari) \[Wonki's ADVANCED\]](https://osu.ppy.sh/beatmapsets/788078#mania/1654052)
-  - [Airuei - Framework (Couil) \[mechanically made\]](https://osu.ppy.sh/beatmapsets/739371#mania/1560169)
-  - [The Ghost Of 3.13 - Mara (Sorry For All The Mess) (Cut) (Todestrieb) \[Broken\]](https://osu.ppy.sh/beatmapsets/912424#mania/1906068)
-  - [yuikonnu - Otsukimi Recital (Channa) \[4K Insane\]](https://osu.ppy.sh/beatmapsets/162196#mania/395782)
-  - [AAAA + Umeboshi Chazuke - Sayonara Cosmonaut (Lude) \[Murumoo's Hyper\]](https://osu.ppy.sh/beatmapsets/679892#mania/1437725)
+  1. [Soba - Hasu (Cut) (Tantei B) \[VlowerS\]](https://osu.ppy.sh/beatmapsets/770757#mania/1620423)
+  2. [Knife Party - Bonfire (Kamikaze) \[Rage\]](https://osu.ppy.sh/beatmapsets/988569#mania/2067883)
+  3. [MaxNRG - Hide Away My Heart (- Aries -) \[Insane\]](https://osu.ppy.sh/beatmapsets/668691#mania/1414598)
+  4. [Martin Garrix - Oops (Cokiiplay) \[LN\]](https://osu.ppy.sh/beatmapsets/676445#mania/1430693)
+  5. [Various Artist - ATing's LN Pack (ATing) \[Chiisana Koi no Uta\]](https://osu.ppy.sh/beatmapsets/911475#mania/1902619)
+  6. [M2U - H.O.W.Ling (Toaph Daddy) \[Insane\]](https://osu.ppy.sh/beatmapsets/972698#mania/2096223)
+  7. [Paramore - Ignorance (puxtu) \[Stranger\]](https://osu.ppy.sh/beatmapsets/534204#mania/1131628)
+  8. [Hotaru Murasaki - Re:TrymenT (Soleily Remix Radio Edit) (\[ A v a l o n \]) \[Insane\]](https://osu.ppy.sh/beatmapsets/556747#mania/1178170)
+  9. [yuki. - Nadeshiko Sensation (\_Y u r i\_) \[Insane\]](https://osu.ppy.sh/beatmapsets/522889#mania/1110346)
+  10. [Porter Robinson - Goodbye To A World (Dr. Deimos & Gears Remix) (Civilization) \[Far Away\]](https://osu.ppy.sh/beatmapsets/824505#mania/1727865)
+  11. [Chase and Status ft. Plan B - End Credits (Hydria) \[Jumpstream\]](https://osu.ppy.sh/beatmapsets/445460#mania/956839)
+  12. [Kobaryo - Sulyvahn [feat. USAO] (Wadu) \[Insane\]](https://osu.ppy.sh/beatmapsets/772078#mania/1678530)
+  13. [P\*Light - SAtAN (Gyukari) \[Wonki's ADVANCED\]](https://osu.ppy.sh/beatmapsets/788078#mania/1654052)
+  14. [Airuei - Framework (Couil) \[mechanically made\]](https://osu.ppy.sh/beatmapsets/739371#mania/1560169)
+  15. [The Ghost Of 3.13 - Mara (Sorry For All The Mess) (Cut) (Todestrieb) \[Broken\]](https://osu.ppy.sh/beatmapsets/912424#mania/1906068)
+  16. [yuikonnu - Otsukimi Recital (Channa) \[4K Insane\]](https://osu.ppy.sh/beatmapsets/162196#mania/395782)
+  17. [AAAA + Umeboshi Chazuke - Sayonara Cosmonaut (Lude) \[Murumoo's Hyper\]](https://osu.ppy.sh/beatmapsets/679892#mania/1437725)
 - Tiebreaker
-  - **[Infected Mushroom - sa'eed (Hydria) \[Insane\]](https://osu.ppy.sh/beatmapsets/562459#mania/1189151)**
+  1. **[Infected Mushroom - sa'eed (Hydria) \[Insane\]](https://osu.ppy.sh/beatmapsets/562459#mania/1189151)**
 
 #### Semifinals
 
 **[Download the mappack here! (107 MB)](https://mega.nz/#!cTQzkKIK!WqUPz4eusbvqCBDWT9sHbdjvae2PdAYyTlSeBDX_33I)**
 
 - FreeMod
-  - [Xander - Ginger (RuleBlazing) \[Another World Memory\]](https://osu.ppy.sh/beatmapsets/925756#mania/1933684)
-  - [glxy - searching you (Nick Wilde) \[f|ndng\]](https://osu.ppy.sh/beatmapsets/827359#mania/1733691)
-  - [YUC'e - MUDPIE (Flexo123) \[Light\]](https://osu.ppy.sh/beatmapsets/558197#mania/1180845)
-  - [Riyu Kosaka - Baby's Tears (arcwinolivirus) \[LNHD\]](https://osu.ppy.sh/beatmapsets/204994#mania/1137152)
-  - [Raika - Long Note Practice Pack (LordRaika) \[Level(4)4K\]](https://osu.ppy.sh/beatmapsets/329814#mania/811896)
-  - [ginkiha - nightfall (Abraxos) \[rave's dream\]](https://osu.ppy.sh/beatmapsets/473053#mania/1010821)
-  - [O.M. Keleus ft. Hatsune Miku - Oplosan (puxtu) \[4K HD\]](https://osu.ppy.sh/beatmapsets/459502#mania/984391)
-  - [litmus\* - Tokamak (LeiN-) \[Fontes' Another\]](https://osu.ppy.sh/beatmapsets/662402#mania/1949516)
-  - [tofubeats - CANDYYYLAND feat. LIZ (Pa's Lam System Remix) (rRubyyy) \[CandyCandyCandyLand\]](https://osu.ppy.sh/beatmapsets/902480#mania/1884206)
-  - [Amaryllis - Never Again (Elekton) \[Hard\]](https://osu.ppy.sh/beatmapsets/573848#mania/1215571)
-  - [DJ'TEKINA//SOMETHING - Palette GAMMA (Cadmium-113) \[Canvas\]](https://osu.ppy.sh/beatmapsets/409429#mania/889619)
-  - [antiPLUR - One Life Left to Live (-MysticEyes) \[FAMoss' Hard\]](https://osu.ppy.sh/beatmapsets/966408#mania/2022850)
-  - [Dance Gavin Dance - Frozen One (Couil) \[Chosen one\]](https://osu.ppy.sh/beatmapsets/674545#mania/1427249)
-  - [weyheyhey !! - I'm Your Daddy (CHARGE) \[Comet's Hard\]](https://osu.ppy.sh/beatmapsets/621251#mania/1312024)
-  - [M2U - Nightmare (Shoegazer) \[Desolation\]](https://osu.ppy.sh/beatmapsets/665005#mania/1407494)
+  1. [Xander - Ginger (RuleBlazing) \[Another World Memory\]](https://osu.ppy.sh/beatmapsets/925756#mania/1933684)
+  2. [glxy - searching you (Nick Wilde) \[f|ndng\]](https://osu.ppy.sh/beatmapsets/827359#mania/1733691)
+  3. [YUC'e - MUDPIE (Flexo123) \[Light\]](https://osu.ppy.sh/beatmapsets/558197#mania/1180845)
+  4. [Riyu Kosaka - Baby's Tears (arcwinolivirus) \[LNHD\]](https://osu.ppy.sh/beatmapsets/204994#mania/1137152)
+  5. [Raika - Long Note Practice Pack (LordRaika) \[Level(4)4K\]](https://osu.ppy.sh/beatmapsets/329814#mania/811896)
+  6. [ginkiha - nightfall (Abraxos) \[rave's dream\]](https://osu.ppy.sh/beatmapsets/473053#mania/1010821)
+  7. [O.M. Keleus ft. Hatsune Miku - Oplosan (puxtu) \[4K HD\]](https://osu.ppy.sh/beatmapsets/459502#mania/984391)
+  8. [litmus\* - Tokamak (LeiN-) \[Fontes' Another\]](https://osu.ppy.sh/beatmapsets/662402#mania/1949516)
+  9. [tofubeats - CANDYYYLAND feat. LIZ (Pa's Lam System Remix) (rRubyyy) \[CandyCandyCandyLand\]](https://osu.ppy.sh/beatmapsets/902480#mania/1884206)
+  10. [Amaryllis - Never Again (Elekton) \[Hard\]](https://osu.ppy.sh/beatmapsets/573848#mania/1215571)
+  11. [DJ'TEKINA//SOMETHING - Palette GAMMA (Cadmium-113) \[Canvas\]](https://osu.ppy.sh/beatmapsets/409429#mania/889619)
+  12. [antiPLUR - One Life Left to Live (-MysticEyes) \[FAMoss' Hard\]](https://osu.ppy.sh/beatmapsets/966408#mania/2022850)
+  13. [Dance Gavin Dance - Frozen One (Couil) \[Chosen one\]](https://osu.ppy.sh/beatmapsets/674545#mania/1427249)
+  14. [weyheyhey !! - I'm Your Daddy (CHARGE) \[Comet's Hard\]](https://osu.ppy.sh/beatmapsets/621251#mania/1312024)
+  15. [M2U - Nightmare (Shoegazer) \[Desolation\]](https://osu.ppy.sh/beatmapsets/665005#mania/1407494)
 - Tiebreaker
-  - **[Warmen - Salieri Strikes Back (XeoStyle) \[Xeo Strikes Back\]](https://osu.ppy.sh/beatmapsets/406818#mania/883979)**
+  1. **[Warmen - Salieri Strikes Back (XeoStyle) \[Xeo Strikes Back\]](https://osu.ppy.sh/beatmapsets/406818#mania/883979)**
 
 #### Quarterfinals
 
 **[Download the mappack here! (62 MB)](https://mega.nz/#!dSgmwKjZ!o5Aqpp7lvD1djJgu4qSiOWb0vFFycVocnfk19_ExJ5o)**
 
 - FreeMod
-  - [Cranky - Dino (Raveille) \[FRESH\]](https://osu.ppy.sh/beatmapsets/998754#mania/2088939)
-  - [Oskar Schuster - Fjarlaegur (Cypix Remix) (Hydria) \[I: Elegance\]](https://osu.ppy.sh/beatmapsets/672200#mania/1421003)
-  - [cubesato - My First Phone (Raveille) \[My First Long Note Map\]](https://osu.ppy.sh/beatmapsets/917317#mania/1915742)
-  - [LukHash - ROUND THE WORLD (SitekX) \[TRIP\]](https://osu.ppy.sh/beatmapsets/930123#mania/1942494)
-  - [Anamanaguchi - SPF 420 (juankristal) \[Introduction\]](https://osu.ppy.sh/beatmapsets/733019#mania/1546477)
-  - [LunaticSounds - Dement \~After Legend\~ (Vampir) \[Fontes' HD\]](https://osu.ppy.sh/beatmapsets/557428#mania/1179492)
-  - [Jaroslav Beck - $100 Bills (Hydria) \[BILLionaire\]](https://osu.ppy.sh/beatmapsets/761255#mania/1600798)
-  - [Reol - Streaming Heart (ulises14) \[MX\]](https://osu.ppy.sh/beatmapsets/474745#mania/1014263)
-  - [uma - masaka IN Nightmare! (Pharos21) \[EXTENDED\]](https://osu.ppy.sh/beatmapsets/314071#mania/700975)
-  - [Shiki - Endless Dream (Shoegazer) \[Hyper\]](https://osu.ppy.sh/beatmapsets/263929#mania/867245)
-  - [Cardboard Box - Nest (Guilhermeziat) \[Yolk\]](https://osu.ppy.sh/beatmapsets/576883#mania/2009986)
-  - [Phlogiston - Night Jam (Shoegazer) \[Sleepless\]](https://osu.ppy.sh/beatmapsets/670141#mania/1571268)
-  - [Io - Lv.0 (Valedict) \[Prelude\]](https://osu.ppy.sh/beatmapsets/470823#mania/1006523)
+  1. [Cranky - Dino (Raveille) \[FRESH\]](https://osu.ppy.sh/beatmapsets/998754#mania/2088939)
+  2. [Oskar Schuster - Fjarlaegur (Cypix Remix) (Hydria) \[I: Elegance\]](https://osu.ppy.sh/beatmapsets/672200#mania/1421003)
+  3. [cubesato - My First Phone (Raveille) \[My First Long Note Map\]](https://osu.ppy.sh/beatmapsets/917317#mania/1915742)
+  4. [LukHash - ROUND THE WORLD (SitekX) \[TRIP\]](https://osu.ppy.sh/beatmapsets/930123#mania/1942494)
+  5. [Anamanaguchi - SPF 420 (juankristal) \[Introduction\]](https://osu.ppy.sh/beatmapsets/733019#mania/1546477)
+  6. [LunaticSounds - Dement \~After Legend\~ (Vampir) \[Fontes' HD\]](https://osu.ppy.sh/beatmapsets/557428#mania/1179492)
+  7. [Jaroslav Beck - $100 Bills (Hydria) \[BILLionaire\]](https://osu.ppy.sh/beatmapsets/761255#mania/1600798)
+  8. [Reol - Streaming Heart (ulises14) \[MX\]](https://osu.ppy.sh/beatmapsets/474745#mania/1014263)
+  9. [uma - masaka IN Nightmare! (Pharos21) \[EXTENDED\]](https://osu.ppy.sh/beatmapsets/314071#mania/700975)
+  10. [Shiki - Endless Dream (Shoegazer) \[Hyper\]](https://osu.ppy.sh/beatmapsets/263929#mania/867245)
+  11. [Cardboard Box - Nest (Guilhermeziat) \[Yolk\]](https://osu.ppy.sh/beatmapsets/576883#mania/2009986)
+  12. [Phlogiston - Night Jam (Shoegazer) \[Sleepless\]](https://osu.ppy.sh/beatmapsets/670141#mania/1571268)
+  13. [Io - Lv.0 (Valedict) \[Prelude\]](https://osu.ppy.sh/beatmapsets/470823#mania/1006523)
 - Tiebreaker
-  - **[kors k - Playing With Fire (Sota Fujimori Remix) (\_Stan) \[Old version\]](https://osu.ppy.sh/beatmapsets/653391#mania/1385087)**
+  1. **[kors k - Playing With Fire (Sota Fujimori Remix) (\_Stan) \[Old version\]](https://osu.ppy.sh/beatmapsets/653391#mania/1385087)**
 
 #### Round of 16
 
 **[Download the mappack here! (70 MB)](https://mega.nz/#!8HB3ySpJ!MVXK_ThhuvKnLYivqUYSI-34hy91vWpofhmt-hpjZBw)**
 
 - FreeMod
-  - [Vospi - roboposition!! (arviejhay) \[4K HD\]](https://osu.ppy.sh/beatmapsets/164310#mania/400180)
-  - [stereoberry - evangelize (blurry images) (Tidek) \[transparency (SV)\]](https://osu.ppy.sh/beatmapsets/577748#mania/1222765)
-  - [Loos - Koi Yumi Zakura (tailsdk) \[Stage 4: Story\]](https://osu.ppy.sh/beatmapsets/791641#mania/1660726)
-  - [t+pazolite - Doku LOCANdy (eiri-) \[KK's Insane\]](https://osu.ppy.sh/beatmapsets/800811#mania/1681200)
-  - [cYsmix - Haunted House (juankristal) \[Hollow\]](https://osu.ppy.sh/beatmapsets/967431#mania/2024618)
-  - [Hommarju - Get back here (Fresh Chicken) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/488369#mania/1041168)
-  - [AAAA Chazuke - Hop Step Adventure\* (Cursetyl) \[HD\]](https://osu.ppy.sh/beatmapsets/533314#mania/1129870)
-  - [Saosin - Voices (puxtu) \[Real\]](https://osu.ppy.sh/beatmapsets/529313#mania/1122407)
-  - [Cascada - Why you had to leave (Nightcore Mix) (Azubeur) \[10 years after\]](https://osu.ppy.sh/beatmapsets/765617#mania/1609710)
-  - [UNDEAD CORPORATION - Seven Colors (Nwolf) \[\_UJ's 4K HD\]](https://osu.ppy.sh/beatmapsets/288138#mania/751693)
-  - [Tlahuizcalpantecuhtli - Destroyer (Nyarlahothep) \[Hyper\]](https://osu.ppy.sh/beatmapsets/643315#mania/1363713)
-  - [Seiya Murai - Der Wald (kors k Remix) (\_Y u r i\_) \[DESTINATION\]](https://osu.ppy.sh/beatmapsets/580085#mania/1228197)
-  - [The Flashbulb - Every Two Days (Monheim) \[2\]](https://osu.ppy.sh/beatmapsets/905599#mania/1890121)
+  1. [Vospi - roboposition!! (arviejhay) \[4K HD\]](https://osu.ppy.sh/beatmapsets/164310#mania/400180)
+  2. [stereoberry - evangelize (blurry images) (Tidek) \[transparency (SV)\]](https://osu.ppy.sh/beatmapsets/577748#mania/1222765)
+  3. [Loos - Koi Yumi Zakura (tailsdk) \[Stage 4: Story\]](https://osu.ppy.sh/beatmapsets/791641#mania/1660726)
+  4. [t+pazolite - Doku LOCANdy (eiri-) \[KK's Insane\]](https://osu.ppy.sh/beatmapsets/800811#mania/1681200)
+  5. [cYsmix - Haunted House (juankristal) \[Hollow\]](https://osu.ppy.sh/beatmapsets/967431#mania/2024618)
+  6. [Hommarju - Get back here (Fresh Chicken) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/488369#mania/1041168)
+  7. [AAAA Chazuke - Hop Step Adventure\* (Cursetyl) \[HD\]](https://osu.ppy.sh/beatmapsets/533314#mania/1129870)
+  8. [Saosin - Voices (puxtu) \[Real\]](https://osu.ppy.sh/beatmapsets/529313#mania/1122407)
+  9. [Cascada - Why you had to leave (Nightcore Mix) (Azubeur) \[10 years after\]](https://osu.ppy.sh/beatmapsets/765617#mania/1609710)
+  10. [UNDEAD CORPORATION - Seven Colors (Nwolf) \[\_UJ's 4K HD\]](https://osu.ppy.sh/beatmapsets/288138#mania/751693)
+  11. [Tlahuizcalpantecuhtli - Destroyer (Nyarlahothep) \[Hyper\]](https://osu.ppy.sh/beatmapsets/643315#mania/1363713)
+  12. [Seiya Murai - Der Wald (kors k Remix) (\_Y u r i\_) \[DESTINATION\]](https://osu.ppy.sh/beatmapsets/580085#mania/1228197)
+  13. [The Flashbulb - Every Two Days (Monheim) \[2\]](https://osu.ppy.sh/beatmapsets/905599#mania/1890121)
 - Tiebreaker
-  - **[Chime - Undertale (Chime Remix) (SourToast) \[True Pacifist\]](https://osu.ppy.sh/beatmapsets/455546#mania/976440)**
+  1. **[Chime - Undertale (Chime Remix) (SourToast) \[True Pacifist\]](https://osu.ppy.sh/beatmapsets/455546#mania/976440)**
 
 #### Round of 32
 
 **[Download the mappack here! (64 MB)](https://mega.nz/#!QSwngQjT!tJ-3HD-CpFAalWIYc0K78E9kTX_nUdBkdsjSPhVPoAM)**
 
 - FreeMod
-  - [monk. - in your arms (Nick Wilde) \[leaving\]](https://osu.ppy.sh/beatmapsets/764541#mania/1607640)
-  - [Zekk - Calling (Couil) \[HD\]](https://osu.ppy.sh/beatmapsets/855193#mania/1787004)
-  - [Yuzuki - Dear You (Vocal Version) (RemFangirl) \[Distant\]](https://osu.ppy.sh/beatmapsets/763326#mania/1605032)
-  - [fripSide - black bullet (TV Size) (Raveille) \[Normal Curse\]](https://osu.ppy.sh/beatmapsets/989264#mania/2069199)
-  - [ak+q - Axium Crisis (Dellvangel) \[Present\]](https://osu.ppy.sh/beatmapsets/797108#mania/1674915)
-  - [MYTH & ROID - L.L.L. (Feb) \[puxtu's HD\]](https://osu.ppy.sh/beatmapsets/341870#mania/1003598)
-  - [yuikonnu - Shinkai Shoujo (juankristal) \[Shoujo\]](https://osu.ppy.sh/beatmapsets/493322#mania/1050663)
-  - [K.A - K.A.o.s (Kernaus) \[HD\]](https://osu.ppy.sh/beatmapsets/445964#mania/972659)
-  - [dj TAKA - RAIN (Kuo Kyoka) \[Spy's 718mm\]](https://osu.ppy.sh/beatmapsets/873200#mania/1825232)
-  - [The Ghost of 3.13 - Last Star In The Universe (Shoegazer) \[Serenade\]](https://osu.ppy.sh/beatmapsets/302911#mania/1667749)
-  - [Jameson Hodge - pn sqnc 518\[6\] (Couil) \[nm sqnc 518[2]\]](https://osu.ppy.sh/beatmapsets/973377#mania/2037751)
+  1. [monk. - in your arms (Nick Wilde) \[leaving\]](https://osu.ppy.sh/beatmapsets/764541#mania/1607640)
+  2. [Zekk - Calling (Couil) \[HD\]](https://osu.ppy.sh/beatmapsets/855193#mania/1787004)
+  3. [Yuzuki - Dear You (Vocal Version) (RemFangirl) \[Distant\]](https://osu.ppy.sh/beatmapsets/763326#mania/1605032)
+  4. [fripSide - black bullet (TV Size) (Raveille) \[Normal Curse\]](https://osu.ppy.sh/beatmapsets/989264#mania/2069199)
+  5. [ak+q - Axium Crisis (Dellvangel) \[Present\]](https://osu.ppy.sh/beatmapsets/797108#mania/1674915)
+  6. [MYTH & ROID - L.L.L. (Feb) \[puxtu's HD\]](https://osu.ppy.sh/beatmapsets/341870#mania/1003598)
+  7. [yuikonnu - Shinkai Shoujo (juankristal) \[Shoujo\]](https://osu.ppy.sh/beatmapsets/493322#mania/1050663)
+  8. [K.A - K.A.o.s (Kernaus) \[HD\]](https://osu.ppy.sh/beatmapsets/445964#mania/972659)
+  9. [dj TAKA - RAIN (Kuo Kyoka) \[Spy's 718mm\]](https://osu.ppy.sh/beatmapsets/873200#mania/1825232)
+  10. [The Ghost of 3.13 - Last Star In The Universe (Shoegazer) \[Serenade\]](https://osu.ppy.sh/beatmapsets/302911#mania/1667749)
+  11. [Jameson Hodge - pn sqnc 518\[6\] (Couil) \[nm sqnc 518[2]\]](https://osu.ppy.sh/beatmapsets/973377#mania/2037751)
 - Tiebreaker
-  - **[Camellia - d:for the DELTA (Leniane) \[G:Hard\]](https://osu.ppy.sh/beatmapsets/676422#mania/1473054)**
+  1. **[Camellia - d:for the DELTA (Leniane) \[G:Hard\]](https://osu.ppy.sh/beatmapsets/676422#mania/1473054)**
 
 #### Round of 64
 
 **[Download the mappack here! (53 MB)](https://mega.nz/#!MfAUGCSS!mZoBlp8LIdrJje-PetKP9VOXLhCFGNGt3q0XJMF-E-o)**
 
 - FreeMod
-  - [Lily Allen - Fuck You (DJ THT Radio Edit) (XeoStyle) \[4k MX (Hard SV Edit.)\]](https://osu.ppy.sh/beatmapsets/314482#mania/701663)
-  - [Against The Current - Legends Never Die (Applequestria) \[Heroes Get Remembered\]](https://osu.ppy.sh/beatmapsets/758727#mania/1610501)
-  - [Beltaine - Rockhill (Ryu Sei) \[Hard\]](https://osu.ppy.sh/beatmapsets/464358#mania/994291)
-  - [NAGI - inside (Jinjin) \[Longing\]](https://osu.ppy.sh/beatmapsets/475615#mania/1016139)
-  - [Ikaruga\_nex - gigadelic(m3rkAb4# R3m!x) (Starry-) \[Zan's ADVANCED Lv.11\]](https://osu.ppy.sh/beatmapsets/247963#mania/574495)
-  - [NOMA - Brain Power (Kuo Kyoka) \[Avalon's 4K ADVANCED\]](https://osu.ppy.sh/beatmapsets/435430#mania/938080)
-  - [Axwell/\Ingrosso - Thinking About You (Azubeur) \[Bliss\]](https://osu.ppy.sh/beatmapsets/463202#mania/991791)
-  - [Kobaryo - Kumo No Kireme \[feat. kourin.\] (Quick Draw) \[HD\]](https://osu.ppy.sh/beatmapsets/271493#mania/670606)
-  - [Afterglow - Asu no Yozora Shoukaihan (arcwinolivirus) \[Hard 'Cielo Kitty' Arc\]](https://osu.ppy.sh/beatmapsets/758903#mania/1596157)
-  - [CHAN - Going On (inteliser) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/873900#mania/1826615)
-  - [Andrew Gold - Spooky Scary Skeletons (Hydria) \[Xeo's 4K BOO!\]](https://osu.ppy.sh/beatmapsets/372078#mania/814936)
+  1. [Lily Allen - Fuck You (DJ THT Radio Edit) (XeoStyle) \[4k MX (Hard SV Edit.)\]](https://osu.ppy.sh/beatmapsets/314482#mania/701663)
+  2. [Against The Current - Legends Never Die (Applequestria) \[Heroes Get Remembered\]](https://osu.ppy.sh/beatmapsets/758727#mania/1610501)
+  3. [Beltaine - Rockhill (Ryu Sei) \[Hard\]](https://osu.ppy.sh/beatmapsets/464358#mania/994291)
+  4. [NAGI - inside (Jinjin) \[Longing\]](https://osu.ppy.sh/beatmapsets/475615#mania/1016139)
+  5. [Ikaruga\_nex - gigadelic(m3rkAb4# R3m!x) (Starry-) \[Zan's ADVANCED Lv.11\]](https://osu.ppy.sh/beatmapsets/247963#mania/574495)
+  6. [NOMA - Brain Power (Kuo Kyoka) \[Avalon's 4K ADVANCED\]](https://osu.ppy.sh/beatmapsets/435430#mania/938080)
+  7. [Axwell/\Ingrosso - Thinking About You (Azubeur) \[Bliss\]](https://osu.ppy.sh/beatmapsets/463202#mania/991791)
+  8. [Kobaryo - Kumo No Kireme \[feat. kourin.\] (Quick Draw) \[HD\]](https://osu.ppy.sh/beatmapsets/271493#mania/670606)
+  9. [Afterglow - Asu no Yozora Shoukaihan (arcwinolivirus) \[Hard 'Cielo Kitty' Arc\]](https://osu.ppy.sh/beatmapsets/758903#mania/1596157)
+  10. [CHAN - Going On (inteliser) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/873900#mania/1826615)
+  11. [Andrew Gold - Spooky Scary Skeletons (Hydria) \[Xeo's 4K BOO!\]](https://osu.ppy.sh/beatmapsets/372078#mania/814936)
 - Tiebreaker
-  - **[Avenged Sevenfold - Natural Born Killer (puxtu) \[Collab Marathon II\]](https://osu.ppy.sh/beatmapsets/451308#mania/968846)**
+  1. **[Avenged Sevenfold - Natural Born Killer (puxtu) \[Collab Marathon II\]](https://osu.ppy.sh/beatmapsets/451308#mania/968846)**
 
 #### Qualifiers
 
 **[Download the mappack here! (18 MB)](https://mega.nz/#!1Ko1FA7B!fiji7s8koWc_WagPaOInFRTciuRKRj2roqxIIT5wvtM)**
 
 - FreeMod
-  - [Getter - Rip N Dip (snexe) \[Hope\]](https://osu.ppy.sh/beatmapsets/726352#mania/1533530)
-  - [Halozy - Song of an Anxious Galley (Raveille) \[II: Once More\]](https://osu.ppy.sh/beatmapsets/983666#mania/2058275)
-  - [Ryu\* - I/O (STARLiGHT Mix) (\[ A v a l o n \]) \[Expert\]](https://osu.ppy.sh/beatmapsets/431849#mania/937210)
-  - [MAZO - EL SUPERIOR (\_Y u r i\_) \[Hard\]](https://osu.ppy.sh/beatmapsets/689146#mania/1458900)
-  - [Kobaryo - Theme for Psychopath Justice (KH\_Supernova) \[Hyper\]](https://osu.ppy.sh/beatmapsets/833223#mania/1745357)
+  1. [Getter - Rip N Dip (snexe) \[Hope\]](https://osu.ppy.sh/beatmapsets/726352#mania/1533530)
+  2. [Halozy - Song of an Anxious Galley (Raveille) \[II: Once More\]](https://osu.ppy.sh/beatmapsets/983666#mania/2058275)
+  3. [Ryu\* - I/O (STARLiGHT Mix) (\[ A v a l o n \]) \[Expert\]](https://osu.ppy.sh/beatmapsets/431849#mania/937210)
+  4. [MAZO - EL SUPERIOR (\_Y u r i\_) \[Hard\]](https://osu.ppy.sh/beatmapsets/689146#mania/1458900)
+  5. [Kobaryo - Theme for Psychopath Justice (KH\_Supernova) \[Hyper\]](https://osu.ppy.sh/beatmapsets/833223#mania/1745357)
 
 ### Low division
 
@@ -296,145 +296,145 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (184 MB)](https://mega.nz/#!hSoHxawK!2rAf9fMEHhfx6iNkBCi5frf6Ru_4PmztczmOrMmJ16Q)**
 
 - FreeMod
-  - [saradisk - 211 - Natsuiro Present (180bpmEDIT) (Hues) \[Present\]](https://osu.ppy.sh/beatmapsets/714090#mania/1509208)
-  - [Morimori Atsushi - MilK (Guilhermeziat) \[SilV\]](https://osu.ppy.sh/beatmapsets/967318#mania/2024439)
-  - [Soba - Capsule (Tantei B) \[Strong vitamins\]](https://osu.ppy.sh/beatmapsets/910788#mania/1900504)
-  - [Nekomata Master - Sayonara Heaven (\[Crz\]Crysarlene) \[Stage 2 : Tranquility\]](https://osu.ppy.sh/beatmapsets/980130#mania/2051174)
-  - [Morimori Atsush, Ujico - Vieille Ville (EvenSta) \[4K Hard NSV\]](https://osu.ppy.sh/beatmapsets/708887#mania/1511765)
-  - [Rag'n'Bone Man - Human (Hydria) \[LN\]](https://osu.ppy.sh/beatmapsets/588277#mania/1245501)
-  - [The Archives (2018) \[Vault 2\] (Hydria) \[Gesu no Kiwami Otome. - Digital Mogura\]](https://osu.ppy.sh/beatmapsets/921854#mania/1925083)
-  - [Maozon - Stasis (Kuo Kyoka) \[Ultra\]](https://osu.ppy.sh/beatmapsets/810076#mania/1704348)
-  - [Camellia - NUCLEAR-STAR (NikoSek) \[Hard\]](https://osu.ppy.sh/beatmapsets/876033#mania/1830818)
-  - [Treyarch Sound - 115 (\[AngelMegum1n\]) \[Envory's HD\]](https://osu.ppy.sh/beatmapsets/649025#mania/1427751)
-  - [9mm Parabellum Bullet - Inferno (Noxus) \[Guil's Hard\]](https://osu.ppy.sh/beatmapsets/671110#mania/1420263)
-  - [Renard - PIZZZZZZZZ (Karukami) \[4k HD\]](https://osu.ppy.sh/beatmapsets/358361#mania/787978)
-  - [\_Various Artists - MaMaChaCha // PHASE TWO (Parachor) \[Level 51\]](https://osu.ppy.sh/beatmapsets/631031#mania/1332173)
-  - [terminal11 - Fast Asleep (Xay) \[zzZ\]](https://osu.ppy.sh/beatmapsets/972177#mania/2035557)
-  - [Dev/Null - Rave 7 (hi19hi19) \[Normal\]](https://osu.ppy.sh/beatmapsets/203250#mania/480468)
-  - [sasakure.UK - Merry Christmas, Mr.Lawrence (ExNeko) \[Hard\]](https://osu.ppy.sh/beatmapsets/959667#mania/2009260)
-  - [t+pazolite - You are the Miserable (RiP46) \[Lisie's HD\]](https://osu.ppy.sh/beatmapsets/945108#mania/1990117)
+  1. [saradisk - 211 - Natsuiro Present (180bpmEDIT) (Hues) \[Present\]](https://osu.ppy.sh/beatmapsets/714090#mania/1509208)
+  2. [Morimori Atsushi - MilK (Guilhermeziat) \[SilV\]](https://osu.ppy.sh/beatmapsets/967318#mania/2024439)
+  3. [Soba - Capsule (Tantei B) \[Strong vitamins\]](https://osu.ppy.sh/beatmapsets/910788#mania/1900504)
+  4. [Nekomata Master - Sayonara Heaven (\[Crz\]Crysarlene) \[Stage 2 : Tranquility\]](https://osu.ppy.sh/beatmapsets/980130#mania/2051174)
+  5. [Morimori Atsush, Ujico - Vieille Ville (EvenSta) \[4K Hard NSV\]](https://osu.ppy.sh/beatmapsets/708887#mania/1511765)
+  6. [Rag'n'Bone Man - Human (Hydria) \[LN\]](https://osu.ppy.sh/beatmapsets/588277#mania/1245501)
+  7. [The Archives (2018) \[Vault 2\] (Hydria) \[Gesu no Kiwami Otome. - Digital Mogura\]](https://osu.ppy.sh/beatmapsets/921854#mania/1925083)
+  8. [Maozon - Stasis (Kuo Kyoka) \[Ultra\]](https://osu.ppy.sh/beatmapsets/810076#mania/1704348)
+  9. [Camellia - NUCLEAR-STAR (NikoSek) \[Hard\]](https://osu.ppy.sh/beatmapsets/876033#mania/1830818)
+  10. [Treyarch Sound - 115 (\[AngelMegum1n\]) \[Envory's HD\]](https://osu.ppy.sh/beatmapsets/649025#mania/1427751)
+  11. [9mm Parabellum Bullet - Inferno (Noxus) \[Guil's Hard\]](https://osu.ppy.sh/beatmapsets/671110#mania/1420263)
+  12. [Renard - PIZZZZZZZZ (Karukami) \[4k HD\]](https://osu.ppy.sh/beatmapsets/358361#mania/787978)
+  13. [\_Various Artists - MaMaChaCha // PHASE TWO (Parachor) \[Level 51\]](https://osu.ppy.sh/beatmapsets/631031#mania/1332173)
+  14. [terminal11 - Fast Asleep (Xay) \[zzZ\]](https://osu.ppy.sh/beatmapsets/972177#mania/2035557)
+  15. [Dev/Null - Rave 7 (hi19hi19) \[Normal\]](https://osu.ppy.sh/beatmapsets/203250#mania/480468)
+  16. [sasakure.UK - Merry Christmas, Mr.Lawrence (ExNeko) \[Hard\]](https://osu.ppy.sh/beatmapsets/959667#mania/2009260)
+  17. [t+pazolite - You are the Miserable (RiP46) \[Lisie's HD\]](https://osu.ppy.sh/beatmapsets/945108#mania/1990117)
 - Tiebreaker
-  - **[Fractal Dreamers - Fortuna Redux (BringoBrango) \[MX\]](https://osu.ppy.sh/beatmapsets/759126#mania/1611106)**
+  1. **[Fractal Dreamers - Fortuna Redux (BringoBrango) \[MX\]](https://osu.ppy.sh/beatmapsets/759126#mania/1611106)**
 
 #### Finals
 
 **[Download the mappack here! (131 MB)](https://mega.nz/#!YPpA3QyI!SVi_ja2-ypgpbay-jw1jjpCdEdez1Vz3SFE2pFHnKlI)**
 
 - FreeMod
-  - [BanYa remixed by Synthwulf - Hypnosis (Synthwulf Mix) (Ryu Sei) \[EX-Hard\]](https://osu.ppy.sh/beatmapsets/479437#mania/1023778)
-  - [X&G - Control (tailsdk) \[Stage 1: Control\]](https://osu.ppy.sh/beatmapsets/791643#mania/1660728)
-  - [Pegboard Nerds X Misterwives - Coffins ( Short Ver. ) (Captain Cusheen) \[Ly0's Hard\]](https://osu.ppy.sh/beatmapsets/608798#mania/1285693)
-  - [Raika - Long Note Practice Pack (LordRaika) \[Level(2)4K\]](https://osu.ppy.sh/beatmapsets/329814#mania/811892)
-  - [Various Artist - ATing's LN Pack (ATing) \[Tokyo Bon Odori 2020\]](https://osu.ppy.sh/beatmapsets/911475#mania/1913452)
-  - [Iglooghost - Bug Thief (BringoBrango) \[Normal\]](https://osu.ppy.sh/beatmapsets/887787#mania/1940281)
-  - [Hatsuki Yura - Lunicode (- Rem -) \[HD\]](https://osu.ppy.sh/beatmapsets/865639#mania/1809973)
-  - [DECO\*27 - Pedal Heart (8#Prince Sakurart Remix) (\[ A v a l o n \]) \[Hard\]](https://osu.ppy.sh/beatmapsets/371947#mania/814727)
-  - [Virtual Self - EON BREAK (Janko) \[Hard\]](https://osu.ppy.sh/beatmapsets/932892#mania/1956380)
-  - [xenothium remixed by gmtn. - Be Happy Melody (liaoxingyao) \[SY's Hyper\]](https://osu.ppy.sh/beatmapsets/316149#mania/707943)
-  - [Camellia - Routing \[osu!mania Speedmapping Challenge #11\] (Nivrad00) \[Laughingcomet's Hard\]](https://osu.ppy.sh/beatmapsets/607519#mania/1283153)
-  - [BeatMARIO (COOL&CREATE) - Night of Knights (Flowering Night Remix) (Chronocide) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/328600#mania/760228)
-  - [TwoThirds & Feint - Epiphany (feat. Veela) (Shoegazer) \[Realization\]](https://osu.ppy.sh/beatmapsets/928528#mania/1939439)
-  - [Tristam - Truth (xKore Remix) (Halogen- ) \[Hard\]](https://osu.ppy.sh/beatmapsets/337718#mania/747133)
-  - [Creaky Jackals - PLVCK (Flexo123) \[Normal\]](https://osu.ppy.sh/beatmapsets/409921#mania/889672)
-  - [VINXIS - Left Behind (Leniane) \[Sado's Hard\]](https://osu.ppy.sh/beatmapsets/814020#mania/1710766)
-  - [Hyper Potions - Friends (Kuo Kyoka) \[Mania / Hard\]](https://osu.ppy.sh/beatmapsets/652582#mania/1383719)
+  1. [BanYa remixed by Synthwulf - Hypnosis (Synthwulf Mix) (Ryu Sei) \[EX-Hard\]](https://osu.ppy.sh/beatmapsets/479437#mania/1023778)
+  2. [X&G - Control (tailsdk) \[Stage 1: Control\]](https://osu.ppy.sh/beatmapsets/791643#mania/1660728)
+  3. [Pegboard Nerds X Misterwives - Coffins ( Short Ver. ) (Captain Cusheen) \[Ly0's Hard\]](https://osu.ppy.sh/beatmapsets/608798#mania/1285693)
+  4. [Raika - Long Note Practice Pack (LordRaika) \[Level(2)4K\]](https://osu.ppy.sh/beatmapsets/329814#mania/811892)
+  5. [Various Artist - ATing's LN Pack (ATing) \[Tokyo Bon Odori 2020\]](https://osu.ppy.sh/beatmapsets/911475#mania/1913452)
+  6. [Iglooghost - Bug Thief (BringoBrango) \[Normal\]](https://osu.ppy.sh/beatmapsets/887787#mania/1940281)
+  7. [Hatsuki Yura - Lunicode (- Rem -) \[HD\]](https://osu.ppy.sh/beatmapsets/865639#mania/1809973)
+  8. [DECO\*27 - Pedal Heart (8#Prince Sakurart Remix) (\[ A v a l o n \]) \[Hard\]](https://osu.ppy.sh/beatmapsets/371947#mania/814727)
+  9. [Virtual Self - EON BREAK (Janko) \[Hard\]](https://osu.ppy.sh/beatmapsets/932892#mania/1956380)
+  10. [xenothium remixed by gmtn. - Be Happy Melody (liaoxingyao) \[SY's Hyper\]](https://osu.ppy.sh/beatmapsets/316149#mania/707943)
+  11. [Camellia - Routing \[osu!mania Speedmapping Challenge #11\] (Nivrad00) \[Laughingcomet's Hard\]](https://osu.ppy.sh/beatmapsets/607519#mania/1283153)
+  12. [BeatMARIO (COOL&CREATE) - Night of Knights (Flowering Night Remix) (Chronocide) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/328600#mania/760228)
+  13. [TwoThirds & Feint - Epiphany (feat. Veela) (Shoegazer) \[Realization\]](https://osu.ppy.sh/beatmapsets/928528#mania/1939439)
+  14. [Tristam - Truth (xKore Remix) (Halogen- ) \[Hard\]](https://osu.ppy.sh/beatmapsets/337718#mania/747133)
+  15. [Creaky Jackals - PLVCK (Flexo123) \[Normal\]](https://osu.ppy.sh/beatmapsets/409921#mania/889672)
+  16. [VINXIS - Left Behind (Leniane) \[Sado's Hard\]](https://osu.ppy.sh/beatmapsets/814020#mania/1710766)
+  17. [Hyper Potions - Friends (Kuo Kyoka) \[Mania / Hard\]](https://osu.ppy.sh/beatmapsets/652582#mania/1383719)
 - Tiebreaker
-  - **[Kick the habit - Epic (Crono) \[4Zone\]](https://osu.ppy.sh/beatmapsets/311003#mania/694860)**
+  1. **[Kick the habit - Epic (Crono) \[4Zone\]](https://osu.ppy.sh/beatmapsets/311003#mania/694860)**
 
 #### Semifinals
 
 **[Download the mappack here! (118 MB)](https://mega.nz/#!dDRXXY7K!cGvt-a8TfEVIPj2Z5WTCa4MJ76dpKWp6uR9KeWkRLOs)**
 
 - FreeMod
-  - [Redemptive - Adrenaline (Nick Wilde) \[couil's hard\]](https://osu.ppy.sh/beatmapsets/837456#mania/1756379)
-  - [Oskar Schuster - Fjarlaegur (Cypix Remix) (TheToaphster) \[Isolation\]](https://osu.ppy.sh/beatmapsets/824249#mania/1727090)
-  - [Various Artist - Emperor SV 1st Pack (Emperor of Time) \[Kotori Minami \[Onegai \[Lv.10\]\]\]](https://osu.ppy.sh/beatmapsets/595470#mania/1259220)
-  - [M2U - A Bella! (feat. Lucy) (Hydria) \[Medio\]](https://osu.ppy.sh/beatmapsets/791316#mania/1660195)
-  - [Nobuo Uematsu - Liberi Fatali (Halogen-) \[Normal\]](https://osu.ppy.sh/beatmapsets/369402#mania/816902)
-  - [Culprate - Finger VIP (Parachor) \[Normal\]](https://osu.ppy.sh/beatmapsets/508572#mania/1110504)
-  - [MOB CHOIR - 99 (EYA-) \[Advanced\]](https://osu.ppy.sh/beatmapsets/513771#mania/1091599)
-  - [Cyoucyo-P - Toaru Shounen no Ichinichi (ByeForNow) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/375607#mania/823358)
-  - [AcuticNotes - Axeria (TPAS) \[Normal\]](https://osu.ppy.sh/beatmapsets/869113#mania/1816429)
-  - [DJKurara - Japanese Transformation (XeoStyle) \[Medium\]](https://osu.ppy.sh/beatmapsets/520438#mania/1115522)
-  - [Neru feat. IA - Enmei Chiryou (puxtu) \[4K HD\]](https://osu.ppy.sh/beatmapsets/195210#mania/463279)
-  - [ZAQ - BRAVER (Sonoz4ki-) \[Advanced\]](https://osu.ppy.sh/beatmapsets/706027#mania/1493090)
-  - [Hyper Potions - Jungle Cruise (Theresa May) \[Stage 2 - Excitement\]](https://osu.ppy.sh/beatmapsets/910330#mania/1899643)
-  - [The Flashbulb - Every Two Days (Monheim) \[vortex's 1\]](https://osu.ppy.sh/beatmapsets/905599#mania/1974193)
-  - [Various Artists - intel 4K Core Pack Vol.2 (inteliser) \[aaaa // Hoshi wo Kakeru Adventure \~ we are forever friends! \~ (HD)\]](https://osu.ppy.sh/beatmapsets/433249#mania/933963)
+  1. [Redemptive - Adrenaline (Nick Wilde) \[couil's hard\]](https://osu.ppy.sh/beatmapsets/837456#mania/1756379)
+  2. [Oskar Schuster - Fjarlaegur (Cypix Remix) (TheToaphster) \[Isolation\]](https://osu.ppy.sh/beatmapsets/824249#mania/1727090)
+  3. [Various Artist - Emperor SV 1st Pack (Emperor of Time) \[Kotori Minami \[Onegai \[Lv.10\]\]\]](https://osu.ppy.sh/beatmapsets/595470#mania/1259220)
+  4. [M2U - A Bella! (feat. Lucy) (Hydria) \[Medio\]](https://osu.ppy.sh/beatmapsets/791316#mania/1660195)
+  5. [Nobuo Uematsu - Liberi Fatali (Halogen-) \[Normal\]](https://osu.ppy.sh/beatmapsets/369402#mania/816902)
+  6. [Culprate - Finger VIP (Parachor) \[Normal\]](https://osu.ppy.sh/beatmapsets/508572#mania/1110504)
+  7. [MOB CHOIR - 99 (EYA-) \[Advanced\]](https://osu.ppy.sh/beatmapsets/513771#mania/1091599)
+  8. [Cyoucyo-P - Toaru Shounen no Ichinichi (ByeForNow) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/375607#mania/823358)
+  9. [AcuticNotes - Axeria (TPAS) \[Normal\]](https://osu.ppy.sh/beatmapsets/869113#mania/1816429)
+  10. [DJKurara - Japanese Transformation (XeoStyle) \[Medium\]](https://osu.ppy.sh/beatmapsets/520438#mania/1115522)
+  11. [Neru feat. IA - Enmei Chiryou (puxtu) \[4K HD\]](https://osu.ppy.sh/beatmapsets/195210#mania/463279)
+  12. [ZAQ - BRAVER (Sonoz4ki-) \[Advanced\]](https://osu.ppy.sh/beatmapsets/706027#mania/1493090)
+  13. [Hyper Potions - Jungle Cruise (Theresa May) \[Stage 2 - Excitement\]](https://osu.ppy.sh/beatmapsets/910330#mania/1899643)
+  14. [The Flashbulb - Every Two Days (Monheim) \[vortex's 1\]](https://osu.ppy.sh/beatmapsets/905599#mania/1974193)
+  15. [Various Artists - intel 4K Core Pack Vol.2 (inteliser) \[aaaa // Hoshi wo Kakeru Adventure \~ we are forever friends! \~ (HD)\]](https://osu.ppy.sh/beatmapsets/433249#mania/933963)
 - Tiebreaker
-  - **[MUZIK SERVANT & Wooming - Da Time is Killer (Wh1teh) \[Hard\]](https://osu.ppy.sh/beatmapsets/406347#mania/884276)**
+  1. **[MUZIK SERVANT & Wooming - Da Time is Killer (Wh1teh) \[Hard\]](https://osu.ppy.sh/beatmapsets/406347#mania/884276)**
 
 #### Quarterfinals
 
 **[Download the mappack here! (88 MB)](https://mega.nz/#!sK5QlQ7R!HDlqhvcQLqO1SvGenKhLekURhQfnk3bJcDegomTyJLg)**
 
 - FreeMod
-  - [cYsmix - Breeze (Tidek) \[Normal\]](https://osu.ppy.sh/beatmapsets/639924#mania/1357116)
-  - [mii channel - but all the pauses are uncomfortably long (edit) (Raveille) \[stop me\]](https://osu.ppy.sh/beatmapsets/999427#mania/2090251)
-  - [Hyper Potions - Time Trials Plus (feat. Jun Senoue) (Theresa May) \[Normal\]](https://osu.ppy.sh/beatmapsets/838066#mania/1755541)
-  - [cillia - FIRST (juankristal) \[Jinjin's NM\]](https://osu.ppy.sh/beatmapsets/512408#mania/1149572)
-  - [BilliumMoto - 1xMISS (FAMoss) \[RAVE'S GREAT\]](https://osu.ppy.sh/beatmapsets/989512#mania/2078881)
-  - [Reol - Asymmetry (Pikachi-) \[HD\]](https://osu.ppy.sh/beatmapsets/359919#mania/791312)
-  - [gmtn vs. kozato - squartatrice (MMd-) \[Fullerene's 4K Normal\]](https://osu.ppy.sh/beatmapsets/124671#mania/462538)
-  - [Kano - paranoia (Eraser) \[hard\]](https://osu.ppy.sh/beatmapsets/581065#mania/1230078)
-  - [Rotteen - VEC+LEGGENDARIA (Quick Draw) \[4K HD\]](https://osu.ppy.sh/beatmapsets/342219#mania/756449)
-  - [Fear, and Loathing in Las Vegas - Return to Zero (wallwap) \[Arcwin's Returning Streams\]](https://osu.ppy.sh/beatmapsets/650662#mania/1382522)
-  - [Yooh - Electronic Sound Lab (Trixta) \[Hard\]](https://osu.ppy.sh/beatmapsets/495629#mania/1055045)
-  - [Frums - theyaremanycolors (Vortex-) \[qqq's 540THz\]](https://osu.ppy.sh/beatmapsets/829383#mania/1921554)
-  - [The Flashbulb - Skype Piano (Civilization) \[Ashore\]](https://osu.ppy.sh/beatmapsets/837463#mania/1753493)
+  1. [cYsmix - Breeze (Tidek) \[Normal\]](https://osu.ppy.sh/beatmapsets/639924#mania/1357116)
+  2. [mii channel - but all the pauses are uncomfortably long (edit) (Raveille) \[stop me\]](https://osu.ppy.sh/beatmapsets/999427#mania/2090251)
+  3. [Hyper Potions - Time Trials Plus (feat. Jun Senoue) (Theresa May) \[Normal\]](https://osu.ppy.sh/beatmapsets/838066#mania/1755541)
+  4. [cillia - FIRST (juankristal) \[Jinjin's NM\]](https://osu.ppy.sh/beatmapsets/512408#mania/1149572)
+  5. [BilliumMoto - 1xMISS (FAMoss) \[RAVE'S GREAT\]](https://osu.ppy.sh/beatmapsets/989512#mania/2078881)
+  6. [Reol - Asymmetry (Pikachi-) \[HD\]](https://osu.ppy.sh/beatmapsets/359919#mania/791312)
+  7. [gmtn vs. kozato - squartatrice (MMd-) \[Fullerene's 4K Normal\]](https://osu.ppy.sh/beatmapsets/124671#mania/462538)
+  8. [Kano - paranoia (Eraser) \[hard\]](https://osu.ppy.sh/beatmapsets/581065#mania/1230078)
+  9. [Rotteen - VEC+LEGGENDARIA (Quick Draw) \[4K HD\]](https://osu.ppy.sh/beatmapsets/342219#mania/756449)
+  10. [Fear, and Loathing in Las Vegas - Return to Zero (wallwap) \[Arcwin's Returning Streams\]](https://osu.ppy.sh/beatmapsets/650662#mania/1382522)
+  11. [Yooh - Electronic Sound Lab (Trixta) \[Hard\]](https://osu.ppy.sh/beatmapsets/495629#mania/1055045)
+  12. [Frums - theyaremanycolors (Vortex-) \[qqq's 540THz\]](https://osu.ppy.sh/beatmapsets/829383#mania/1921554)
+  13. [The Flashbulb - Skype Piano (Civilization) \[Ashore\]](https://osu.ppy.sh/beatmapsets/837463#mania/1753493)
 - Tiebreaker
-  - **[xi - Angelic Party (lombit) \[Ouya's Start Party\]](https://osu.ppy.sh/beatmapsets/664638#mania/1417041)**
+  1. **[xi - Angelic Party (lombit) \[Ouya's Start Party\]](https://osu.ppy.sh/beatmapsets/664638#mania/1417041)**
 
 #### Round of 16
 
 **[Download the mappack here! (173 MB)](https://mega.nz/#!xLxHEKIa!MQr0_tLl_emwk3Vb98L0qCt0QJ5wNGkILrbpSm_2CA4)**
 
 - FreeMod
-  - [Dirtyphonics & Sullivan King - Hammer (\_Y u r i\_) \[Normal\]](https://osu.ppy.sh/beatmapsets/965183#mania/2020476)
-  - [Hayashi Yuki - Chimu no Jiriki (tailsdk) \[NYATY Stage 1: Lag\]](https://osu.ppy.sh/beatmapsets/709976#mania/1500822)
-  - [Freezer - Narcissus At Oasis (Freezer Remix) (EijiKuinbii) \[SoldatRacer's NM\]](https://osu.ppy.sh/beatmapsets/614615#mania/1366618)
-  - [fripSide - black bullet (TV Size) (Raveille) \[Easy Spell\]](https://osu.ppy.sh/beatmapsets/989264#mania/2069197)
-  - [Various - Para's Chill & Ambient Collection (Parachor) \[The Flashbulb - Seven Eves\]](https://osu.ppy.sh/beatmapsets/450944#mania/967438)
-  - [Gems - Gems Pack 3 - Relax (gemboyong) \[Nauts - Reminiscence, 10\]](https://osu.ppy.sh/beatmapsets/775461#mania/1629550)
-  - [Suzuki Konomi - My Days (FerdiXIA-) \[Normal\]](https://osu.ppy.sh/beatmapsets/939960#mania/1963225)
-  - [FAMs - FAMoss' sc.mapset (FAMoss) \[Tama - Sonna yume wo mita no \~lonely dreaming girl\~ (speedup ver.)\]](https://osu.ppy.sh/beatmapsets/838326#mania/1780313)
-  - [Suzaku - VANESSA (Combinatorix) \[4K NM\]](https://osu.ppy.sh/beatmapsets/197062#mania/468584)
-  - [Various Artists - intel 4K Core Pack Vol.2 (inteliser) \[XeoN // Dream of Winds (NM)\]](https://osu.ppy.sh/beatmapsets/433249#mania/933981)
-  - [Mokoko - Freely Plains (Sparxe) \[12.58 MSD (Emik03)\]](https://osu.ppy.sh/beatmapsets/988450#mania/2067702)
-  - [t+pazolite - Our Wrenally (Raveille) \[Advanced (Lv9)\]](https://osu.ppy.sh/beatmapsets/698820#mania/1487266)
-  - [Vospi - We Met Dat Night (Halogen-) \[HD\]](https://osu.ppy.sh/beatmapsets/151453#mania/374173)
+  1. [Dirtyphonics & Sullivan King - Hammer (\_Y u r i\_) \[Normal\]](https://osu.ppy.sh/beatmapsets/965183#mania/2020476)
+  2. [Hayashi Yuki - Chimu no Jiriki (tailsdk) \[NYATY Stage 1: Lag\]](https://osu.ppy.sh/beatmapsets/709976#mania/1500822)
+  3. [Freezer - Narcissus At Oasis (Freezer Remix) (EijiKuinbii) \[SoldatRacer's NM\]](https://osu.ppy.sh/beatmapsets/614615#mania/1366618)
+  4. [fripSide - black bullet (TV Size) (Raveille) \[Easy Spell\]](https://osu.ppy.sh/beatmapsets/989264#mania/2069197)
+  5. [Various - Para's Chill & Ambient Collection (Parachor) \[The Flashbulb - Seven Eves\]](https://osu.ppy.sh/beatmapsets/450944#mania/967438)
+  6. [Gems - Gems Pack 3 - Relax (gemboyong) \[Nauts - Reminiscence, 10\]](https://osu.ppy.sh/beatmapsets/775461#mania/1629550)
+  7. [Suzuki Konomi - My Days (FerdiXIA-) \[Normal\]](https://osu.ppy.sh/beatmapsets/939960#mania/1963225)
+  8. [FAMs - FAMoss' sc.mapset (FAMoss) \[Tama - Sonna yume wo mita no \~lonely dreaming girl\~ (speedup ver.)\]](https://osu.ppy.sh/beatmapsets/838326#mania/1780313)
+  9. [Suzaku - VANESSA (Combinatorix) \[4K NM\]](https://osu.ppy.sh/beatmapsets/197062#mania/468584)
+  10. [Various Artists - intel 4K Core Pack Vol.2 (inteliser) \[XeoN // Dream of Winds (NM)\]](https://osu.ppy.sh/beatmapsets/433249#mania/933981)
+  11. [Mokoko - Freely Plains (Sparxe) \[12.58 MSD (Emik03)\]](https://osu.ppy.sh/beatmapsets/988450#mania/2067702)
+  12. [t+pazolite - Our Wrenally (Raveille) \[Advanced (Lv9)\]](https://osu.ppy.sh/beatmapsets/698820#mania/1487266)
+  13. [Vospi - We Met Dat Night (Halogen-) \[HD\]](https://osu.ppy.sh/beatmapsets/151453#mania/374173)
 - Tiebreaker
-  - **[lapix - Labyrinth (PianoLuigi) \[Gangster!!\]](https://osu.ppy.sh/beatmapsets/962544#mania/2015440)**
+  1. **[lapix - Labyrinth (PianoLuigi) \[Gangster!!\]](https://osu.ppy.sh/beatmapsets/962544#mania/2015440)**
 
 #### Round of 32
 
 **[Download the mappack here! (94 MB)](https://mega.nz/#!QWpETa5S!058w3129ct4rvAkJI2-Jv59iU_qZbRM2zeW7jeeSzSE)**
 
 - FreeMod
-  - [Have Fun Teaching - Jumping Jacks (Tantei B) \[stage 1 : Rebound\]](https://osu.ppy.sh/beatmapsets/974445#mania/2039696)
-  - [U.T.D & Friends - Lesson by DJ (Lenfried-) \[CHALLENGE\]](https://osu.ppy.sh/beatmapsets/704987#mania/1491195)
-  - [Kanako Itou - Uncontrollable (Raveille) \[Achalinotos Lv.4\]](https://osu.ppy.sh/beatmapsets/690587#mania/1464576)
-  - [Alan Walker - Alone (Feerum) \[Hard\]](https://osu.ppy.sh/beatmapsets/637917#mania/1353324)
-  - [\[PXT\] - MapPack Vol.2 (puxtu) \[Bring Me The Horizon - Drown\]](https://osu.ppy.sh/beatmapsets/226755#mania/533547)
-  - [Kokonatsu - Dual Memory (leqek) \[4K ADVANCED\]](https://osu.ppy.sh/beatmapsets/578818#mania/1246839)
-  - [Various Artists - mini4F Qualifiers (XeoStyle) \[Dream Theater - Wait for Sleep (Accuracy rice - XeoStyle)\]](https://osu.ppy.sh/beatmapsets/609434#mania/1287032)
-  - [Sakuzyo - Imprinting (Fresh Chicken) \[Hard\]](https://osu.ppy.sh/beatmapsets/346093#mania/764050)
-  - [AAAA - carnation (qqqant) \[4K Hyper\]](https://osu.ppy.sh/beatmapsets/727248#mania/1600055)
-  - [Frums - Mdrqnxtagon (AHHHHHHHHHHHHHH) \[Hard\]](https://osu.ppy.sh/beatmapsets/863451#mania/1809283)
-  - [Feryquitous - Strahv (Tornspirit) \[HD\]](https://osu.ppy.sh/beatmapsets/410918#mania/1420621)
+  1. [Have Fun Teaching - Jumping Jacks (Tantei B) \[stage 1 : Rebound\]](https://osu.ppy.sh/beatmapsets/974445#mania/2039696)
+  2. [U.T.D & Friends - Lesson by DJ (Lenfried-) \[CHALLENGE\]](https://osu.ppy.sh/beatmapsets/704987#mania/1491195)
+  3. [Kanako Itou - Uncontrollable (Raveille) \[Achalinotos Lv.4\]](https://osu.ppy.sh/beatmapsets/690587#mania/1464576)
+  4. [Alan Walker - Alone (Feerum) \[Hard\]](https://osu.ppy.sh/beatmapsets/637917#mania/1353324)
+  5. [\[PXT\] - MapPack Vol.2 (puxtu) \[Bring Me The Horizon - Drown\]](https://osu.ppy.sh/beatmapsets/226755#mania/533547)
+  6. [Kokonatsu - Dual Memory (leqek) \[4K ADVANCED\]](https://osu.ppy.sh/beatmapsets/578818#mania/1246839)
+  7. [Various Artists - mini4F Qualifiers (XeoStyle) \[Dream Theater - Wait for Sleep (Accuracy rice - XeoStyle)\]](https://osu.ppy.sh/beatmapsets/609434#mania/1287032)
+  8. [Sakuzyo - Imprinting (Fresh Chicken) \[Hard\]](https://osu.ppy.sh/beatmapsets/346093#mania/764050)
+  9. [AAAA - carnation (qqqant) \[4K Hyper\]](https://osu.ppy.sh/beatmapsets/727248#mania/1600055)
+  10. [Frums - Mdrqnxtagon (AHHHHHHHHHHHHHH) \[Hard\]](https://osu.ppy.sh/beatmapsets/863451#mania/1809283)
+  11. [Feryquitous - Strahv (Tornspirit) \[HD\]](https://osu.ppy.sh/beatmapsets/410918#mania/1420621)
 - Tiebreaker
-  - **[Kobaryo - Villain Virus [feat. Camellia] (8230) \[HD\]](https://osu.ppy.sh/beatmapsets/963557#mania/2017371)**
+  1. **[Kobaryo - Villain Virus [feat. Camellia] (8230) \[HD\]](https://osu.ppy.sh/beatmapsets/963557#mania/2017371)**
 
 #### Qualifiers
 
 **[Download the mappack here! (36 MB)](https://mega.nz/#!YPxhkIzJ!ftskkhd20WOuBYAQ37rRfvzu2__JZTLu_pSvaV3JveM)**
 
 - FreeMod
-  - [KinkyOats - UDKswing (Mastermile) \[Hard SV\]](https://osu.ppy.sh/beatmapsets/604634#mania/1277534)
-  - [Halozy - Song of an Anxious Galley (Raveille) \[I: Starting Somewhere\]](https://osu.ppy.sh/beatmapsets/983666#mania/2058274)
-  - [Roselia - Tamashii no Refrain (Raveille) \[Normal\]](https://osu.ppy.sh/beatmapsets/762603#mania/1603837)
-  - [nao - Towa naru Kizuna to Omoi no Kiseki (puxtu) \[Etlies's HD\]](https://osu.ppy.sh/beatmapsets/292970#mania/667636)
-  - [Various Artists - intel 4K Core Pack Vol.3 (inteliser) \[sakuzyo // StrayedCatz (BAS)\]](https://osu.ppy.sh/beatmapsets/550226#mania/1165673)
+  1. [KinkyOats - UDKswing (Mastermile) \[Hard SV\]](https://osu.ppy.sh/beatmapsets/604634#mania/1277534)
+  2. [Halozy - Song of an Anxious Galley (Raveille) \[I: Starting Somewhere\]](https://osu.ppy.sh/beatmapsets/983666#mania/2058274)
+  3. [Roselia - Tamashii no Refrain (Raveille) \[Normal\]](https://osu.ppy.sh/beatmapsets/762603#mania/1603837)
+  4. [nao - Towa naru Kizuna to Omoi no Kiseki (puxtu) \[Etlies's HD\]](https://osu.ppy.sh/beatmapsets/292970#mania/667636)
+  5. [Various Artists - intel 4K Core Pack Vol.3 (inteliser) \[sakuzyo // StrayedCatz (BAS)\]](https://osu.ppy.sh/beatmapsets/550226#mania/1165673)
 
 ## Match results
 

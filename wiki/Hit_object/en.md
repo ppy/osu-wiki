@@ -1,6 +1,6 @@
 ---
 tags:
-- hit objects
+  - hit objects
 ---
 
 <!-- TODO: should also have articles for each hit object -->

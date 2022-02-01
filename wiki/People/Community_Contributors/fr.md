@@ -48,7 +48,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 
 | Utilisateur | Contributions |
 | :-- | :-- |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Création de la [osu!academy](/wiki/osu!academy) |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Création de la [osu!academy](/wiki/Community/Video_series/osu!academy) |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | osu!weekly + Contributeur des news |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Présence remarquable dans la modération (10k+ kills) |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Présence remarquable dans la modération (10k+ kills) |
@@ -202,7 +202,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_GR]: /wiki/shared/flag/GR.gif "Grèce"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hongrie"
@@ -214,7 +214,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"

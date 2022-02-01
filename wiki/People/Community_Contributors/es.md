@@ -54,7 +54,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 
 | Usuario | Contribución |
 | :-- | :-- |
-| [ztrot](https://osu.ppy.sh/users/6347) | Fundando la [osu!academy](/wiki/osu!academy) |
+| [ztrot](https://osu.ppy.sh/users/6347) | Fundando la [osu!academy](/wiki/Community/Video_series/osu!academy) |
 | [Tasha](https://osu.ppy.sh/users/1031958) | osu!weekly + Nuevas contribuciones |
 | [Flanster](https://osu.ppy.sh/users/447818) | Destacada presencia de moderación (+10k asesinatos). |
 | [Nathanael](https://osu.ppy.sh/users/2295078) | Destacada presencia de moderación  (+10k asesinatos). |

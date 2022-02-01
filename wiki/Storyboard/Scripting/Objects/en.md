@@ -21,7 +21,7 @@ Where:
   - 1 - Fail
   - 2 - Pass
   - 3 - Foreground
-- **(origin)** is where on the **image should osu! consider that image's origin (coordinate) to be.** This affects the (x) and (y) values, as well as several other command-specific behaviors. For example, choosing (origin) = TopLeft will let the (x),(y) values determine, where the top left corner of the image itself should be on the screen. Valid values are (note the spelling "Centre" not "Center"):
+- **(origin)** is where on the **image should osu! consider that image's origin (coordinate) to be.** This affects the (x) and (y) values, as well as several other command-specific behaviours. For example, choosing (origin) = TopLeft will let the (x),(y) values determine, where the top left corner of the image itself should be on the screen. Valid values are (note the spelling "Centre" not "Center"):
   - 0 - TopLeft
   - 1 - Centre
   - 2 - CentreLeft
@@ -64,8 +64,8 @@ Some examples of object declarations:
 
 `Sprite,Pass,Centre,"Text\Play2-HaveFunH.png",320,240`
 
-This declares a still image (sprite) based on the "Play2-HaveFunH.png" file located in the "Text" folder. The image appears on the Pass layer, and the center (centre) of the image will be located at (320,240) on the game screen (the exact center of the screen).
+This declares a still image (sprite) based on the "Play2-HaveFunH.png" file located in the "Text" folder. The image appears on the Pass layer, and the centre (centre) of the image will be located at (320,240) on the game screen (the exact centre of the screen).
 
 `Animation,Fail,BottomCentre,"Other\Play3\explosion.png",418,108,12,31,LoopForever`
 
-This declares an animation, whose frames can be found as "explosion0.png", "explosion1.png", ..., "explosion11.png" in the "Play3" folder of the "Other" folder. The image appears on the Fail layer, and the bottom center (centre) of the image will be located at (418,108) on the game screen. There are 12 frames in the animation (hence why the last frame is named "explosion11.png"), and there is a 31 millisecond delay between each frame (thus the animation takes 31 \* 12 = 372 milliseconds to loop once). After the game has displayed the last frame for 31 milliseconds, it moves back to the first frame, continuing until the object is no longer appearing on the screen.
+This declares an animation, whose frames can be found as "explosion0.png", "explosion1.png", ..., "explosion11.png" in the "Play3" folder of the "Other" folder. The image appears on the Fail layer, and the bottom centre of the image will be located at (418,108) on the game screen. There are 12 frames in the animation (hence why the last frame is named "explosion11.png"), and there is a 31 millisecond delay between each frame (thus the animation takes 31 \* 12 = 372 milliseconds to loop once). After the game has displayed the last frame for 31 milliseconds, it moves back to the first frame, continuing until the object is no longer appearing on the screen.

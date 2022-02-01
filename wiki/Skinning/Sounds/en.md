@@ -18,7 +18,7 @@ Notes:
 
 - [osu!supporter](/wiki/osu!supporter) is required to modify.
 - Plays when closing the osu!client.
-- This can be disabled in the [options](/wiki/Options).
+- This can be disabled in the [options](/wiki/Client/Options).
 
 ---
 
@@ -26,7 +26,7 @@ Notes:
 
 - [osu!supporter](/wiki/osu!supporter) is required to modify.
 - Plays when starting the osu!client.
-- This can be disabled in the [options](/wiki/Options).
+- This can be disabled in the [options](/wiki/Client/Options).
 
 ### Keys
 

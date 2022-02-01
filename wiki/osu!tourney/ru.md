@@ -12,9 +12,8 @@ needs_cleanup: true  # нужно исправить несколько стра
 ## Относящиеся статьи
 
 - [Настройка](Setup)
-- [Использование мультиплеера](Multiplayer_Usage)
-- [Использование наблюдателя](Spectator_Usage)
+- [Использование мультиплеера](Multiplayer_usage)
+- [Использование наблюдателя](Spectator_usage)
 - [Создание скинов для клиента](Skinning)
-- [Команды управления турниром](Tournament_Management_Commands)
+- [Команды управления турниром](Tournament_management_commands)
 - [Решение проблем](Troubleshooting)
-- [Призы](Prizes)

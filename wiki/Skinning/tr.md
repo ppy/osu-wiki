@@ -8,10 +8,6 @@ Tema yapımı osu!'nun olmazsa olmaz özelliklerinden biridir. Bu, oyuncuların 
 
 **Yalnızca beatmaplerde,** eğer beatmap teması Derecelendirme Kriterlerinde listelenen setlerden herhangi bir element içeriyorsa, o tema setinin diğer tüm elementlerini de içermek zorundadır. Bu yalnızca beatmap temaları için geçerlidir, ancak diğer temacılar da bu listelerden faydalanmak isteyebilirler.
 
-## Tema nasıl yapılır?
-
-*Ana sayfa: [Tema Yapma Öğreticisi](/wiki/Skinning/Guides_and_important_threads)*
-
 ## Tema elementleri listesi
 
 Tema yapma elementlerinin listesi aşağıdaki kategorilere ayrılmıştır:

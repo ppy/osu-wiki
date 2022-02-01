@@ -1,6 +1,6 @@
 ---
 tags:
-  - double time
+  - doubletime
   - double-time
   - DT
   - mod
@@ -33,7 +33,7 @@ tags:
 
 *Note: La méthode utilisée pour augmenter la vitesse n'augmente pas la hauteur de la musique.*
 
-Le mod **Double Time** est un [modificateur de jeu](/wiki/Game_modifier) qui vise à augmenter la difficulté d'une beatmap [beatmap](/wiki/Beatmap) en augmentant sa vitesse générale (BPM) à 150% (1.5x), réduisant de 33% la durée de la musique et augmentant l'[approach rate (AR)](/wiki/Beatmapping/Approach_rate), l'[overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), et la difficulté à garder des [HP](/wiki/Beatmapping/Health).
+Le mod **Double Time** est un [modificateur de jeu](/wiki/Game_modifier) qui vise à augmenter la difficulté d'une beatmap [beatmap](/wiki/Beatmap) en augmentant sa vitesse générale (BPM) à 150% (1.5x), réduisant de 33% la durée de la musique et augmentant l'[approach rate (AR)](/wiki/Beatmapping/Approach_rate), l'[overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), et la difficulté à garder des [HP](/wiki/Gameplay/Health).
 
 Le mod Double Time est considéré comme un des meilleurs modificateurs de jeu pour obtenir des [points de performance](/wiki/Performance_points) sur les difficultés plus faciles dans le mode [osu!](/wiki/Game_mode/osu!).
 

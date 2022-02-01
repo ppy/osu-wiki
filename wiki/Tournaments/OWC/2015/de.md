@@ -146,7 +146,7 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 5. Wenn kein Schiedrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 6. Die Ergebnisse von gescheiterten Spielern wird nicht zum Teamergebnis mit angerechnet.
    - Das Überleben und Wiederbeleben während einer Map wird als Bestehen betrachtet.
-7. Das Benutzen der [visuellen Einstellungen](/wiki/Visual_Settings) ist erlaubt.
+7. Das Benutzen der [visuellen Einstellungen](/wiki/Client/Interface/Visual_settings) ist erlaubt.
 8. Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
 9. Wenn ein Spieler die Verbindung verlieren sollte, wird es so gehandhabt, als wäre der Spieler an der Beatmap gescheitert.
    1. Matches mit Verbindungsabbrüchen innerhalb von 30 Sekunden nach Beginn einer Map können wiederholt werden. Dies liegt jedoch im Ermessen des Schiedsrichters.
@@ -259,36 +259,36 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Die Kapitäne sind für die Anwesenheit deren Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Wenn vom Team keine 4 Spieler anwesend sein sollten, zählt die Partie als aufgegeben.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_LT]: /wiki/shared/flag/LT.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentinien"
+[flag_AT]: /wiki/shared/flag/AT.gif "Österreich"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australien"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brasilien"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Deutschland"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spanien"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finnland"
+[flag_FR]: /wiki/shared/flag/FR.gif "Frankreich"
+[flag_GB]: /wiki/shared/flag/GB.gif "Vereinigtes Königreich"
+[flag_GR]: /wiki/shared/flag/GR.gif "Griechenland"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hongkong"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italien"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "Südkorea"
+[flag_LT]: /wiki/shared/flag/LT.gif "Litauen"
+[flag_LV]: /wiki/shared/flag/LV.gif "Lettland"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexiko"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Niederlande"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norwegen"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Neuseeland"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippinen"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polen"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russische Föderation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Schweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
+[flag_US]: /wiki/shared/flag/US.gif "Vereinigte Staaten"

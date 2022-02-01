@@ -1,6 +1,6 @@
 # Diagnostic
 
-_Page principale: [osu!tourney](/wiki/osu!tourney)_
+*Page principale: [osu!tourney](/wiki/osu!tourney)*
 
 ## Comment créer un nouvelle installation d'osu! sans désinstaller le jeu actuel ?
 
@@ -36,7 +36,7 @@ Si le client n'observe toujours pas, cliquez sur le bouton `Panic`.
 ## La salle ne se montre pas !
 
 Il est possible que votre salle soit mal nommée ou que vous utilisez le mauvais acronyme dans le fichier `tournament.cfg`.
-Assurez-vous que la salle soit bien nommée en suivant le [guide d'utilisation du multijoueur](/wiki/osu!tourney/Multiplayer_Usage).
+Assurez-vous que la salle soit bien nommée en suivant le [guide d'utilisation du multijoueur](/wiki/osu!tourney/Multiplayer_usage).
 
 ## Les noms des équipes ne sont pas montrés !
 

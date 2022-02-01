@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: a4d801f4dbb4b86901f63773b7993647eb5b7ba8
+---
+
 # Akurasi
 
 <!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
@@ -10,7 +15,7 @@ Akurasi adalah suatu pengukur konsistensi pemain untuk menekan [hit object](/wik
 
 ![Akurasi = (50 \* jumlah 50 + 100 \* jumlah 100 + 300 \* jumlah 300) / 300(jumlah 0 + jumlah 50 + jumlah 100 + jumlah 300)](img/accuracy_osu.png "Formula akurasi untuk osu!")
 
-Di osu!, akurasi dikalkulasi dengan menimbang penilaian yang diperoleh dari setiap hit objek berdasarkan nilainya dan dibagi dengan jumlah maksimum yang mungkin.
+Di osu!, akurasi dikalkulasi dengan menimbang [judgement](/wiki/Gameplay/Judgement) yang diperoleh dari setiap hit objek berdasarkan nilainya dan dibagi dengan jumlah maksimum yang mungkin.
 
 Referensi untuk satu hit lingkaran:
 
@@ -47,7 +52,7 @@ Di osu!mania, akurasi dikalkulasi mirip dengan [osu!](#-osu!).
 
 Grafik performa adalah sebuah grafik yang menampilkan performa pemain (berdasarkan bar nyawa) selama bermain (waktu). Informasi tambahan dapat ditampilkan dengan menunjuk kursor dalam-game di atasnya.
 
-*Catatan: Informasi tambahan hanya dapat dilihat setelah bermain sebuah beatmap atau menonton sebuah putaran ulang terekspor. Setelah keluar dari [layar hasil](/wiki/Interface#ranking-screen), informasi ini tidak akan tersimpan.*
+*Catatan: Informasi tambahan hanya dapat dilihat setelah bermain sebuah beatmap atau menonton sebuah putaran ulang terekspor. Setelah keluar dari [layar hasil](/wiki/Client/Interface#papan-peringkat-skor-daring), informasi ini tidak akan tersimpan.*
 
 ### Akurasi
 

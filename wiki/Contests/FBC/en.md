@@ -10,7 +10,7 @@ The **French Beatmapping Contest** (***FBC***) is a mapping contest for French-s
 
 Points are attributed following these judging criteria: **Structure**, **Relevance**, **Creativity**, **Judge Impression** and **Hitsounds**. These criteria may change if necessary.
 
-The top three mappers of a tournament will receive an osu!supporter tag, and the winner of each edition will earn a personalized badge that will be shown on their osu! profile.
+The top three mappers of a tournament will receive an osu!supporter tag, and the winner of each edition will earn a personalised badge that will be shown on their osu! profile.
 Since the 2017 edition, the chosen songs have a length lower than 3 minutes and the difficulties under the Insane level are mapped by the tournament hosts or by members from the French mapping community.
 
 ## FBC 2015

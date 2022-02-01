@@ -1,64 +1,64 @@
-# Faire des enregistrements d'osu!
+# Comment enregistrer des vidéos d'osu!
 
 [Vous voulez utiliser Virtualdub au lieu de Sony Vegas ? Cliquez ici !](https://osu.ppy.sh/community/forums/posts/252802)
 
-Vous avez toujours voulu faire une vidéo pour YouTube sur osu!, mais vous ne savez pas comment vous y prendre ? Je vous expliquerai dans cet article le faire. **Notez qu'il y a d'autres moyens de le faire, c'est juste ma façon de faire.** [Voyez le résultat de ce tutoriel ici (Regardez en HD et en plein écran !)](http://youtube.com/watch?v=JRGhQh69geI)
+Vous avez toujours voulu faire une vidéo pour YouTube, mais vous n'avez jamais trouvé le moyen de la réaliser ? Nous allons vous expliquer dans ce guide comment vous pouvez le faire. **Veuillez noter qu'il y a d'autres façons de faire, c'est juste notre façon de faire**. [Voir le résultat de ce tutoriel ici (Regardez en HD et en plein écran !)](https://youtube.com/watch?v=JRGhQh69geI).
 
 ## Prérequis
 
-- Logiciel d'enregistrement
+- Un logiciel d'enregistrement
   - OBS
   - Fraps
   - Action!
   - Bandicam
-- Logiciel d'édition/de rendu (N'utilisez jamais Windows Moviemaker, cela baissera la qualité de la vidéo drastiquement !)
+- Un logiciel de montage/rendu (n'utilisez jamais Windows Moviemaker, la qualité de la vidéo s'en trouverait considérablement diminuée !)
   - Sony Vegas
   - Adobe Premier
   - AVS Video Editor
 
-### Configurer Fraps
+### Configuration de Fraps
 
-Ouvrez Fraps, et regardez les options.
+Ouvrez Fraps et modifiez les paramètres.
 
 ![Fraps](img/Recording_1.png "Fraps")
 
-Soyez sûr que :
+Assurez-vous/Veuillez notez que :
 
-- Le raccourci de capture vidéo ne sera pas gênant;
-- Si vous obtenez une vidéo de sortie avec un framerate variable, limitez-le à 30. Si ce n'est pas le cas, utilisez 60 FPS;
-- Si vous obtenez une vidéo de sortie dont le framerate est faible, enregistrez le «en demi-taille». La vidéo correspondra à la moitié de la résolution à partir de laquelle elle a été enregistrée (vous pouvez également utiliser une résolution inférieure lors de l’enregistrement);
-- Vous avez assez d'espace libre sur votre disque. Sinon, la vidéo finira plus tôt s'il n'y a pas assez d'espace pour la stocker;
-- Le curseur n'apparait pas.
-- VOUS ENREGISTREZ LE SON ! Il n'y a rien de pire qu'une vidéo osu! sans la musique du jeu.
+- La touche de raccourci de capture vidéo une touche qui ne sera pas gênante ;
+- La vidéo aura un framerate saccadé quand vous limitez le framerate à 30. Si ce n'est pas le cas, utilisez simplement 60 FPS ;
+- La vidéo obtenue aura un framerate faible, enregistrez-la à moitié. La vidéo sera la moitié de la résolution à partir de laquelle elle a été enregistrée (alternativement : vous pouvez exécuter osu! dans une résolution inférieure lors de l'enregistrement) ;
+- Vous avez suffisamment d'espace libre sur votre disque dur. Sinon, la vidéo se terminera prématurément lorsqu'il n'y aura plus d'espace à stocker ;
+- Vous avez la case `Aucun curseur` décoché
+- VOUS ENREGISTREZ LE SON ! Il n'y a rien de pire que des vidéos d'osu! avec de la musique ajoutée plus tard.
 
-## Enregistrez votre gameplay
+## Enregistrement de votre jeu
 
-Ouvrez osu! quand Fraps est ouvert. Si tout fonctionne correctement (et si vous n'avez pas désactivé ce paramètre), vous verrez un compteur de FPS jaune dans un coin de l'écran.
+Ouvrez osu! pendant que Fraps est en cours d'exécution. Si tout se passe bien (et si vous n'avez pas désactivé cette fonction), vous verrez un compteur de FPS jaune dans un coin de l'écran.
 
-![osu! quand Fraps fonctionne](img/Recording_2.png "osu! quand Fraps fonctionne")
+![osu! pendant l'exécution de Fraps](img/Recording_2.png "osu! pendant l'exécution de Fraps")
 
-Maintenant, allez à ce que vous voulez enregistrer. exemple : un replay d'un de vos highscores ! Quand vous voulez commencer l'enregistrement, pressez votre raccourci clavier pour la capture vidéo. Le compteur de FPS va devenir rouge. Vous êtes en train d'enregistrer. Regardez vite fait si votre framerate n'a pas beaucoup changé. S'il a beaucoup changé, essayer les quelques astuces listées précédemment.
+Maintenant, allez à l'endroit ou vous voulez enregistrer. Par exemple, un replay de votre obtention d'un highscore ! Lorsque vous êtes à l'endroit où vous voulez commencer l'enregistrement, appuyez sur votre touche de raccourci de capture vidéo. Le compteur FPS peut baisser et doit devenir rouge. Vous êtes en train d'enregistrer. Regardez pendant une minute si le taux de FPS ne change pas du tout au tout. Si c'est le cas, essayez certaines des astuces listées ci-dessus.
 
-![osu! quand vous faites un enregistrement avec Fraps](img/Recording_3.png "osu! quand vous faites un enregistrement avec Fraps")
+![osu! pendant l'enregistrement avec Fraps](img/Recording_3.png "osu! pendant l'enregistrement avec Fraps")
 
-Pressez le raccourci clavier pour la capture vidéo de nouveau pour arrêter d'enregistrer.
+Appuyez à nouveau sur la touche de raccourci de capture vidéo pour arrêter l'enregistrement.
 
-## Montage de votre vidéo
+## Édition de la vidéo de sortie
 
-Glissez déposez votre vidéo dans une timeline de Vegas. Si vous avez plusieurs fichiers, Vegas les ajoutera automatiquement à la fin de la vidéo précédente.
+Faites glisser et déposez la vidéo sur la timeline dans Vegas. S'il y a plusieurs fichiers, Vegas les ajoutera automatiquement à la fin de la partie précédente.
 
-![Montage d'un clip vidéo](img/Recording_4.png "Montage d'un clip vidéo")
+![Montage du clip vidéo](img/Recording_4.png "Montage du clip vidéo")
 
-Vous pouvez maintenant faire ce que vous voulez.
+Vous pouvez maintenant effectuer des modifications facultatives.
 
 ## Rendu de votre vidéo
 
-Après avoir monté votre vidéo, allez dans 'Fichier', puis cliquer sur 'Rendre comme' Utilisez les options suivantes (dépendant de votre version de Vegas) :
+Maintenant que vous avez fini d'éditer la vidéo, allez dans 'Fichier', puis cliquez sur 'Rendu sous'. Utilisez les options suivantes (en fonction de votre version de Vegas) :
 
-![Rendu d'un clip vidéo](img/Recording_5.png "Rendu d'un clip vidéo")
+![Rendu du clip vidéo](img/Recording_5.png "Rendu du clip vidéo")
 
-![Rendu d'un clip vidéo](img/Recording_6.png "Rendu d'un clip vidéo")
+![Rendu du clip vidéo](img/Recording_6.png "Rendu du clip vidéo")
 
-Pressez le bouton de sauvegarde, et votre vidéo sera prête dans quelques minutes. Elle est maintenant prête pour YouTube ! Notez que cela prend du temps avant que votre vidéo soit disponible en haute résolution sur Youtube, soyez patients !
+Appuyez sur le bouton d'enregistrement, et votre vidéo sera terminée en quelques minutes. Elle est maintenant prête pour YouTube ! Veuillez noter qu'il faudra un certain temps avant que la vidéo soit disponible en haute résolution sur YouTube, soyez patient !
 
-**Faites des vidéos et propagez osu!** Ce guide à été fait par [Remco32](https://osu.ppy.sh/users/9199), sujet original [ici](https://osu.ppy.sh/community/forums/topics/18112)
+**Maintenant, allez faire des vidéos et répandez osu!** Guide fait par [Remco32](https://osu.ppy.sh/users/9199), fil original [ici](https://osu.ppy.sh/community/forums/topics/18112)

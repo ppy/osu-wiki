@@ -57,7 +57,7 @@ Eğer herhangi bir noktada kafanız karıştıysa ve/veya daha fazla yardıma ih
 
 Bu noktada iki seçeneiğiniz var:
 
-- [GitHub Web Arayüzü](/wiki/osu!_wiki/Contribution_guide/GitHub_Web_Interface) - çevrimiçi düzenleyin; tekli makale düzenleme için en iyisi
+- [GitHub Web Arayüzü](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) - çevrimiçi düzenleyin; tekli makale düzenleme için en iyisi
 - [GitHub Masaüstü](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) - yerel düzenleyin; tekli ve/veya çoklu makale düzenleme için en iyisi (bu resimleri veya dosyaları karşıya yükleme, silme veya taşımayı da içerir)
 
 *Not: Düzenleme için yukarıda listelenen iki seçeneğe sınırlı değilsiniz. Rehberi kısa ve öz tutmak adına, bu makalelerde diğer araç-gereçlerin kullanımından detaylıca hatta hiç bahsedilmeyecek. GitHub Web Arayüzü ve GitHub Masaüstü'nün halihazırda yaptıklarını aşağı yukarı yapan başka üçüncü parti uygulamalar da mevcut.*

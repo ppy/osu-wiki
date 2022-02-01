@@ -14,7 +14,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 
 **Poza [zasadami społeczności](/wiki/Rules) moderatorzy globalni podlegają również [kodeksowi postępowania „Przymierze współpracy”](/wiki/Contributor_Code_of_Conduct).**
 
-Jeżeli zauważysz, że zachowanie któregoś moderatora globalnego jest nieodpowiednie (lub łamie kodeks postępowania „Przymierze współpracy”), wyślij wiadomość na adres [abuse@ppy.sh](mailto:abuse@ppy.sh) z jak największą liczbą szczegółów. Sprawdź [„Zgłaszanie nadużyć”](/wiki/Reporting_Bad_Behaviour/Abuse), by dowiedzieć się więcej.
+Jeżeli zauważysz, że zachowanie któregoś moderatora globalnego jest nieodpowiednie (lub łamie kodeks postępowania „Przymierze współpracy”), wyślij wiadomość na adres [abuse@ppy.sh](mailto:abuse@ppy.sh) z jak największą liczbą szczegółów. Sprawdź [„Zgłaszanie nadużyć”](/wiki/Reporting_bad_behaviour/Abuse), by dowiedzieć się więcej.
 
 ## Zadania
 
@@ -51,6 +51,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | Użytkownik | Języki | Zadania |
 | :-- | :-- | :-- |
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Niemiecki | Moderowanie czatu |
+| ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) | Węgierski | Moderowanie czatu |
 | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rosyjski | Moderowanie czatu |
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Moderowanie forum |
 | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) |  | Organizowanie turniejów |
@@ -94,7 +95,6 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Oficjalny profil zespołu gry |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipiński | Moderowanie czatu |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Niemiecki | Organizowanie turniejów |
-| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Francuski, hiszpański (częściowo) | Moderowanie czatu, moderowanie forum, moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugalski | Moderowanie czatu |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Kantoński, chiński | Moderowanie czatu |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Koreański, japoński | Moderowanie czatu |
@@ -120,7 +120,6 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polski | Moderowanie czatu |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Moderowanie czatu |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turecki, niemiecki | Moderowanie czatu |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | Moderowanie czatu |
 
 ### Według moderowanych języków
 
@@ -140,7 +139,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985), ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#greek` |  |  |
 | `#hebrew` |  |  |
-| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) |  |
+| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) |
 | `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) |
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
@@ -170,6 +169,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 [flag_GB]: /wiki/shared/flag/GB.gif "Wielka Brytania"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hongkong"
 [flag_HM]: /wiki/shared/flag/HM.gif "Wyspy Heard i McDonald"
+[flag_HU]: /wiki/shared/flag/HU.gif "Węgry"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonezja"
 [flag_IT]: /wiki/shared/flag/IT.gif "Włochy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japonia"

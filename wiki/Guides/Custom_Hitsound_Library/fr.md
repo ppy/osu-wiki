@@ -1,12 +1,8 @@
----
-no_native_review: true
----
+# Bibliothèque de hitsounds personnalisés
 
-# Bibliothèque de sons personnalisés
+*[Custom Hitsound Library par : Yuukari-Banteki](https://osu.ppy.sh/community/forums/topics/15407)*
 
-*[Custom Hitsound Library par Yuukari-Banteki](https://osu.ppy.sh/community/forums/topics/15407)*
-
-Cet article sert de bibliothèque de sons personnalisés.
+Cet article sert de bibliothèque de hitsounds personnalisés.
 
 ## Sets d'échantillons normaux
 
@@ -20,7 +16,7 @@ Cet article sert de bibliothèque de sons personnalisés.
 2. [3](https://up.ppy.sh/files/clap1.wav) - Réverbération ajoutée
 3. [4](https://up.ppy.sh/files/clap2.wav) - Comme un claquement de doigt
 4. [5](https://up.ppy.sh/files/clap3.wav) - Pas inférieur, réverbération ajoutée
-5. [6](https://up.ppy.sh/files/short.wav) - tambour synthétique
+5. [6](https://up.ppy.sh/files/short.wav) - Tambour synthétique
 6. [7](https://up.ppy.sh/files/hitsound2.wav) - Rythme techno
 
 ### Whistles

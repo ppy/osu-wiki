@@ -1,6 +1,6 @@
 ---
 tags:
-  - double time
+  - doubletime
   - double-time
   - DT
   - mod
@@ -34,7 +34,7 @@ no_native_review: true
 
 *중요: 이 모드는 노래의 속도를 증가시키지만, 노래의 높낮이를 바꾸지 않습니다.*
 
-**더블 타임** 모드는 [비트맵](/wiki/Beatmap)의 속도를 1.5배 증가시킵니다. 또한 노래의 길이를 33% 줄이고 [전체적인 난이도(OD)](/wiki/Beatmapping/Overall_difficulty)와 [체력 감소량(HP)](/wiki/Beatmapping/Health)을 높이며 [원이 생기고 사라지기까지 걸리는 시간(AR)](/wiki/Beatmapping/Approach_rate)을 감소시키는 [모드](/wiki/Game_modifier)입니다.
+**더블 타임** 모드는 [비트맵](/wiki/Beatmap)의 속도를 1.5배 증가시킵니다. 또한 노래의 길이를 33% 줄이고 [전체적인 난이도(OD)](/wiki/Beatmapping/Overall_difficulty)와 [체력 감소량(HP)](/wiki/Gameplay/Health)을 높이며 [원이 생기고 사라지기까지 걸리는 시간(AR)](/wiki/Beatmapping/Approach_rate)을 감소시키는 [모드](/wiki/Game_modifier)입니다.
 
 더블 타임 모드는 [osu!](/wiki/Game_mode/osu!)에서 쉬운 난이도의 맵을 플레이할 때 더 많은 [pp](/wiki/Performance_points)를 얻을 수 있는 가장 좋은 모드로 널리 이용되고 있습니다.
 

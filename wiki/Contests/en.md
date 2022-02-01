@@ -37,11 +37,11 @@ The **Monthly Beatmapping Contest**, in its initial concept, was a mapping conte
 
 After a long hiatus, the Monthly Beatmapping Contest was rebooted in January 2020 with a brand new schedule, ruleset, voting procedure, and reward scheme. Many aspects of the competition were dramatically altered to make the contests more engaging and attractive, in which some of them were as follows:
 
-- Instead of a single song, the contest now offers a selection of songs from different [featured artists](/wiki/Featured_Artists) each month, in which all participating mappers are free to map and submit their entries for.
+- Instead of a single song, the contest now offers a selection of songs from different [Featured Artists](/wiki/Featured_Artists) each month, in which all participating mappers are free to map and submit their entries for.
 - Participating mappers now only have to submit a single difficulty instead of a complete mapset.
 - Participating mappers now have to adhere to a certain mapping theme and/or limitation set in the ruleset, such as "Star rating may not exceed 4.00★" or "Every object should overlap another object".
 
-| Contest iteration | Featured artist | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | Screening Crew's #1 | Results |
+| Contest iteration | Featured Artist | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | Screening Crew's #1 | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [January 2020](https://osu.ppy.sh/community/contests/84) | [MYLK](https://osu.ppy.sh/beatmaps/artists/62) | ![osu!][osu!] | ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865) | [#1](https://osu.ppy.sh/home/news/2020-02-20-monthly-beatmapping-contest-1-results) |
 | [February 2020](https://osu.ppy.sh/community/contests/89) | [Voicians](https://osu.ppy.sh/beatmaps/artists/59) | ![osu!][osu!] | ![][flag_RU] [Aphestra](https://osu.ppy.sh/users/11949191) | ![][flag_US] [UndeadCapulet](https://osu.ppy.sh/users/2523533) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | [#1](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results) |
@@ -219,6 +219,15 @@ The **Skinning Contest** is a skinning contest where artistic creators from all 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/Skinning_Contest/1) | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) by ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) by ![][flag_EE] [Krizto](https://osu.ppy.sh/users/13474556) | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) by ![][flag_RU] [NikStrim](https://osu.ppy.sh/users/10577559) | [#1](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results) |
+
+#### osu!trivium Quiz
+
+The **osu!trivium Quiz** is a trivia contest where players compete in answering hard osu!-related trivia questions.
+
+| Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
+| :-: | :-- | :-- | :-- | :-- |
+| [#1](/wiki/Contests/osu!trivium_Quiz/2020) | nerd neck esoteric collection of individuals (![][flag_US] [1103](https://osu.ppy.sh/users/7306698), ![][flag_US] [GalacticLightN](https://osu.ppy.sh/users/4772172), ![][flag_US] [Leebs](https://osu.ppy.sh/users/7636779), and ![][flag_US] [headstack](https://osu.ppy.sh/users/10322186)) | 21 (![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889), ![][flag_CL] [Eunha](https://osu.ppy.sh/users/7701428), ![][flag_CL] [kanocchi](https://osu.ppy.sh/users/2321050), and ![][flag_CL] [saumensch](https://osu.ppy.sh/users/18157510)) | 5 (![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621), and ![][flag_US] [icedtea](https://osu.ppy.sh/users/9631242)) | [#1](https://www.youtube.com/watch?v=KIgdjSleasg) |
+| [#2](/wiki/Contests/osu!trivium_Quiz/2021) | Squid balls (![][flag_MY] [squidstain](https://osu.ppy.sh/users/11073207), ![][flag_US] [Codazen](https://osu.ppy.sh/users/18291144), ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114), and ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621)) | untouchaball-epic-fail-crew-9000-nightmarecore-mix (![][flag_US] [1103](https://osu.ppy.sh/users/7306698), ![][flag_US] [GalacticLightN](https://osu.ppy.sh/users/4772172), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), and ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110)) | sleep squad (![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_SE] [PuffBuck](https://osu.ppy.sh/users/4234525), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), and ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347)) | [#1](https://www.twitch.tv/videos/1237832029) |
 
 ## Community-run contests
 

@@ -1,5 +1,6 @@
 ---
-stub: true
+outdated: true
+outdated_since: 6ab8e85668908d80155a0184406dcdd660d710a4
 tags:
   - GD
   - guest beatmap

@@ -1,8 +1,8 @@
 # Legal
 
-Laman indeks untuk seluruh artikel tentang legal. Tautan berikut juga dapat ditemukan di bagian bawah situs web osu!.
+Berikut ini merupakan daftar artikel yang membahas seputar hal-hal yang berhubungan dengan hukum. Artikel-artikel berikut juga dapat diakses melalui tautan yang tertera pada bagian bawah situs web osu!.
 
-- [Kebijakan Hak Cipta osu!](Copyright)
-- [Lisensi Musik osu!](Music_Licensing)
-- [Kebijakan Privasi osu!](Privacy)
-- [Ketentuan Layanan osu!](Terms)
+- [Kebijakan hak cipta osu!](Copyright)
+- [Lisensi musik osu!](Music_licensing)
+- [Kebijakan privasi osu!](Privacy)
+- [Ketentuan layanan osu!](Terms)

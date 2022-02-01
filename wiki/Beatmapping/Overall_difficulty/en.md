@@ -14,7 +14,7 @@ tags:
 
 ## Timing
 
-Higher OD values mean shorter time windows to clear [hit objects](/wiki/Hit_object), both in general and in terms of getting high score values. The width of the hit window, centered on the hit object's correct time, is defined by the following table:
+Higher OD values mean shorter time windows to clear [hit objects](/wiki/Hit_object), both in general and in terms of getting high score values. The width of the hit window, centred on the hit object's correct time, is defined by the following table:
 
 | Score | Hit window |
 | --: | :-- |
@@ -22,7 +22,7 @@ Higher OD values mean shorter time windows to clear [hit objects](/wiki/Hit_obje
 | 100 | `280ms - 16ms * OD` |
 | 300 | `160ms - 12ms * OD` |
 
-If the player hits outside of the 50's hit window, it will count as a miss. In case the hit windows of two objects overlap, the second object will be inaccessible until the first object disappears due to [notelock](/wiki/Gameplay/Notelock).
+If the player hits outside of the 50's hit window, it will count as a miss. In case the hit windows of two objects overlap, the second object will be inaccessible until the first object disappears due to [notelock](/wiki/Gameplay/Judgement/Notelock).
 
 ## Sliders and spinners
 

@@ -1,17 +1,27 @@
 ---
-stub: true
 tags:
   - GD
   - guest beatmap
   - guest difficulties
   - guest map
-no_native_review: true
 ---
 
 # Guest difficulty
 
-*Untuk peraturan sekitar guest difficulties, lihat: [Kriteria ranking](/wiki/Ranking_Criteria)*
+*Untuk peraturan mengenai guest difficulties, lihat: [Kriteria ranking](/wiki/Ranking_Criteria)*
 
-Sebuah **guest difficulty** (atau *GD* untuk lebih pendeknya) adalah sebuah [kesulitan](/wiki/Beatmap/Difficulty) dari sebuah [beatmap](/wiki/Beatmap) yang tidak dibuat oleh [beatmap host](/wiki/Beatmap/Beatmap_host). GD biasanya diidentifikasikan dengan sebuah difficulty name yang terdapat nama dari seorang kreator. Beatmap yang terdapat banyak kreator biasa disebut dengan [collaborative difficulty](/wiki/Beatmap/Beatmap_collaborations).
+Sebuah **guest difficulty** (atau disingkat menjadi *GD*) adalah sebuah [tingkat kesulitan](/wiki/Beatmap/Difficulty) dari sebuah [beatmap](/wiki/Beatmap) yang tidak dibuat oleh [beatmap host](/wiki/Beatmap/Beatmap_host). GD biasanya diidentifikasikan dengan sebuah nama tingkat kesulitan yang mengandung nama dari seorang kreator.
 
-Banyak guest difficulties sering dimintai melalui pesan pribadi antara kreator. GD juga dapat diajukan di dalam [modding queues](https://osu.ppy.sh/community/forums/60)
+Meskipun tidak wajib, memiliki guest difficulty dapat menguntungkan untuk semua pihak seperti keberagaman gaya mapping antar mapper dan membantu mengurangi mapping *burnout*. Guest difficulty sering berasal dari permintaan mapper melalui pesan pribadi, namun itu juga dapat berasal dari permintaan di *channel* permainan `#mapping` atau [modding queues](https://osu.ppy.sh/community/forums/60).
+
+Guest difficulty bukanlah sebuah tingkat kesulitan yang dibuat oleh beberapa mapper. Hal tersebut merupakan *[collab](/wiki/Beatmap/Beatmap_collaborations)*.
+
+## Kepemilikan
+
+::: Infobox
+![](img/gd_ownership.png "Contoh panel kontrol kepemilikan guest difficulty")
+:::
+
+Pada [laman diskusi beatmap](/wiki/Beatmap_discussion), beatmap host dapat melakukan transfer kepemilikan tingkat kesulitan untuk mapper yang membuat tingkat kesulitan tersebut melalui tombol `Difficulty Owner`. Hal ini membuat pemilik guest difficulty dapat menyelesaikan masalah yang ada pada tingkat kesulitan mapnya secara mandiri.
+
+Kepemilikan guest difficulty tidak dapat diubah setelah beatmap menjadi [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), atau [Loved](/wiki/Beatmap/Category#loved).

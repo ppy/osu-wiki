@@ -1,7 +1,7 @@
 ---
 tags:
-- I can't submit my own beatmap!
-- beatmap submission system issues
+  - I can't submit my own beatmap!
+  - beatmap submission system issues
 ---
 
 # How to resolve BSS issues
@@ -9,7 +9,7 @@ tags:
 If the **[Beatmap Submission System](/wiki/Submission)** (***BSS***) won't let you submit your own beatmap because it says that you do not own the map then do the following:
 
 1. Go to the beatmap's folder.
-   - You can get there easily by going to `File` then `Open Song Folder` in the [beatmap editor](/wiki/Beatmap_Editor).
+   - You can get there easily by going to `File` then `Open Song Folder` in the [beatmap editor](/wiki/Client/Beatmap_editor).
 2. Exit osu! (This is to make sure that the changes are applied properly.)
 3. Open the `.osu` difficulty files with any plain text editor (e.g. Notepad).
 4. Enter your username for the `Creator`. (If your name has spaces, then use spaces.)

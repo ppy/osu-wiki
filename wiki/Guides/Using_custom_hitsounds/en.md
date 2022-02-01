@@ -25,9 +25,9 @@ If you are running osu! on macOS, you may need to take a slightly different appr
 2. Locate your beatmap's folder in `drive_c -> osu! -> Songs` (sorting by `Last Modified` might be helpful).
 3. Paste your files here.
 
-Once the sound files are placed inside the beatmap's folder, they must be named appropriately in order for osu! to recongnise them as hitsounds.
+Once the sound files are placed inside the beatmap's folder, they must be named appropriately in order for osu! to recognise them as hitsounds.
 
-Three basic categories of hitsounds, referred to as *samplesets*, exist in osu!: Normal (N), Soft (S), and Drum (D). Each sampleset can be furtherly subdivided into different sounds. The most common of these are: "hitnormal", "hitclap", "hitwhistle", and "hitfinish". More specialized sounds also exist, such as those that play during a slider ("sliderslide", "slidertick") or spinner ("spinnerspin").
+Three basic categories of hitsounds, referred to as *samplesets*, exist in osu!: Normal (N), Soft (S), and Drum (D). Each sampleset can be furtherly subdivided into different sounds. The most common of these are: "hitnormal", "hitclap", "hitwhistle", and "hitfinish". More specialised sounds also exist, such as those that play during a slider ("sliderslide", "slidertick") or spinner ("spinnerspin").
 
 *For a full list of hitsounds that can be modified, please refer to the [skinning entry on hitsounds](/wiki/Skinning/Sounds#hitsounds).*
 
@@ -39,7 +39,7 @@ where `<sampleset>` is either "normal", "soft" or "drum", and `<sound>` is one o
 
 ![](img/beatmap-folder-resources.png "A typical beatmap folder containing custom hitsounds")
 
-In the image shown above, the first listed sound is named `soft-hitclap.wav`, and will replace the default hitsound that plays when a note with the Soft sampleset and "hitclap" addition is successfully hit. Note that this will only play on the *selected sampleset*. If your beatmap uses other samplesets, they will require additional hitsound files (even if you intend to use the exact same sound sample), such as by adding a `normal-hitclap.wav` while using the Normal sampleset.
+In the image shown above, the first listed sound is named `soft-hitclap.wav`, and will replace the default hitsound that plays when a [hit object](/wiki/Hit_object) with the Soft sampleset and "hitclap" addition is successfully hit. Note that this will only play on the *selected sampleset*. If your beatmap uses other samplesets, they will require additional hitsound files (even if you intend to use the exact same sound sample), such as by adding a `normal-hitclap.wav` while using the Normal sampleset.
 
 ## Applying custom hitsounds
 

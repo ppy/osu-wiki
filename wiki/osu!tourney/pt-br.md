@@ -7,9 +7,8 @@ Usuários que encontrarem **problemas** com o cliente podem ler o [guia de solu�
 ## Artigos relacionados
 
 - [Setup](Setup)
-- [Utilização do Multiplayer](Multiplayer_Usage)
-- [Utilização do Espectador](Spectator_Usage)
+- [Utilização do Multiplayer](Multiplayer_usage)
+- [Utilização do Espectador](Spectator_usage)
 - [Skinning](Skinning)
-- [Comandos para torneios](Tournament_Management_Commands)
+- [Comandos para torneios](Tournament_management_commands)
 - [Solução de Problemas](Troubleshooting)
-- [Prêmios](Prizes)

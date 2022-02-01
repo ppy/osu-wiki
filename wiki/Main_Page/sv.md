@@ -16,21 +16,21 @@ Välkommen till osu! wikin, ett projekt som innehåller ett brett utbud av osu! 
 
 # Kom igång
 
-[Registrering](/wiki/Registration) • [Installation](/wiki/Installation) • [Spelgränssnitt](/wiki/Interface) • [Spelinställningar](/wiki/Options) • [Tangentbindningar](/wiki/Shortcut_key_reference) • [Översikt](/wiki/Sitemap) • [Guider](/wiki/Guides) • [Hjälpcenter](/wiki/Help_Centre)
+[Registrering](/wiki/Registration) • [Installation](/wiki/Client/Installation) • [Spelgränssnitt](/wiki/Client/Interface) • [Spelinställningar](/wiki/Client/Options) • [Tangentbindningar](/wiki/Client/Keyboard_shortcuts) • [Översikt](/wiki/Sitemap) • [Guider](/wiki/Guides) • [Hjälpcenter](/wiki/Help_centre)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Gameplay
 
-[FAQ](/wiki/FAQ) • [Multiplayer](/wiki/Multi) • [Spellägen](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
+[FAQ](/wiki/FAQ) • [Multiplayer](/wiki/Gameplay/Multiplayer) • [Spellägen](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
 
-# [Beatmap Editor](/wiki/Beatmap_Editor)
+# [Beatmap Editor](/wiki/Client/Beatmap_editor)
 
-Sektioner: ([Komponera](/wiki/Beatmap_Editor/Compose) • [Designa](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Låt Setup](/wiki/Beatmap_Editor/Song_Setup)) • Komponenter: ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Svårhetsgrader](/wiki/Beatmap/Difficulty) • [Hit Objects](/wiki/Hit_object) • [Mappingtekniker](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboard#storyboarding)
+Sektioner: ([Komponera](/wiki/Client/Beatmap_editor/Compose) • [Designa](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Låt Setup](/wiki/Client/Beatmap_editor/Song_Setup)) • Komponenter: ([Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap)) • [Beatmapping](/wiki/Beatmapping) • [Svårhetsgrader](/wiki/Beatmap/Difficulty) • [Hit Objects](/wiki/Hit_object) • [Mappingtekniker](/wiki/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -44,7 +44,7 @@ Sektioner: ([Komponera](/wiki/Beatmap_Editor/Compose) • [Designa](/wiki/Beatma
 
 # World of osu!
 
-[Ordlista](/wiki/Glossary) • [Turneringar](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projekt](/wiki/Projects)
+[Ordlista](/wiki/Glossary) • [Turneringar](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projekt](/wiki/Community/Projects)
 
 </div>
 <div class="wiki-main-page-panel">

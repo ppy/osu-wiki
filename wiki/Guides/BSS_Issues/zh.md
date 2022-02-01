@@ -1,9 +1,9 @@
 ---
 tags:
-- I can't submit my own beatmap!
-- beatmap submission system issues
-- 我无法提交我的谱面！
-- 谱面提交系统问题
+  - I can't submit my own beatmap!
+  - beatmap submission system issues
+  - 我无法提交我的谱面！
+  - 谱面提交系统问题
 ---
 
 # 如何解决谱面提交系统的问题
@@ -11,7 +11,7 @@ tags:
 如果**[谱面提交系统](/wiki/Submission)** （***BSS***） 无法提交你的谱面并提示谱面不属于你，你可以这样做：
 
 1. 前往谱面目录。
-   - 你可以在[编辑器](/wiki/Beatmap_Editor)中点击`文件`然后点击`打开歌曲文件夹`。
+   - 你可以在[编辑器](/wiki/Client/Beatmap_editor)中点击`文件`然后点击`打开歌曲文件夹`。
 2. 关闭 osu!（为了确保你的设置能被正确应用）。
 3. 使用纯文本编辑器（如记事本）打开 `.osu` 难度文件。
 4. 在 `Creator` 中填写你的用户名。（如果名字含有空格，则直接使用空格。）

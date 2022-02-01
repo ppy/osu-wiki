@@ -22,5 +22,7 @@ no_native_review: true
 - [Ouendan](Ouendan)
 - [osu!](osu!)
 - [랭크](Rank)
+- [Score](Score)
+- [Snapping](Snapping)
 - [Star](Star)
 - [버전](Version)

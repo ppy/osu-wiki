@@ -146,5 +146,5 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italie"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"

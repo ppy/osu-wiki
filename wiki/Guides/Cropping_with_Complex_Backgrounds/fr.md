@@ -1,12 +1,8 @@
----
-no_native_review: true
----
-
 # Comment recadrer des images avec des arrière-plans complexes
 
 ## Étape \#1
 
-Tout d'abord, vous devez choisir une image. Nous allons vous la présenter sur cette image que vous pouvez voir. Nous allons vous montrer comment le faire en utilisant GIMP. (Pour cette méthode, nous avons besoin d'un outil de sélection libre, le Lasso.
+Tout d'abord, vous devez choisir une image. Nous allons vous la présenter sur cette image que vous pouvez voir. Nous allons vous montrer comment le faire en utilisant GIMP. (Pour cette méthode, nous avons besoin d'un outil de sélection libre, le Lasso).
 
 ![Image du tutoriel 1](img/CCB-1.png "Image du tutoriel 1")
 
@@ -24,7 +20,7 @@ Maintenant, continuez jusqu'à ce que vous sélectionniez complètement le conto
 
 ## Étape \#4
 
-Si vous avez terminé votre sélection principale, nous pouvons maintenant nous occuper de l'arrière-plan qui a été sélectionné en même temps que notre personnage. Continuez à utiliser votre outil lasso, mais changez son mode pour "Soustraire de la sélection actuelle", c'est-à-dire supprimer la sélection. Et maintenant, faites la même chose qu'au début pour désélectionner tout arrière-plan qui se trouvait entre les cheveux, les jambes, etc.
+Si vous avez terminé votre sélection principale, nous pouvons maintenant nous occuper de l'arrière-plan qui a été sélectionné en même temps que notre personnage. Continuez à utiliser votre outil Lasso, mais changez son mode pour "Soustraire de la sélection actuelle", c'est-à-dire supprimer la sélection. Et maintenant, faites la même chose qu'au début pour désélectionner tout l'arrière-plan qui se trouvait entre les cheveux, les jambes, etc.
 
 ![Image du tutoriel 4](img/CCB-4.png "Image du tutoriel 4")
 
@@ -34,7 +30,7 @@ Il ne reste plus qu'une chose à faire, couper notre personnage de l'image et le
 
 ![Image du tutoriel 5](img/CCB-5.png "Image du tutoriel 5")
 
-## Finish
+## Finition
 
 C'est fini. Ce n'est pas très beau, surtout les pointes des cheveux, mais c'est seulement parce que nous n'avons pas été très précis en le faisant.
 
