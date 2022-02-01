@@ -48,7 +48,7 @@ Accédez à cet écran en cliquant sur votre profil se trouvant en haut à gauch
 
 ## Lobby multijoueur
 
-*Page principale : [Multi](/wiki/Multi)*
+*Page principale : [Multi](/wiki/Gameplay/Multiplayer)*
 
 ![](img/multi-lobby-FR.jpg "Écran de sélection de salle")
 

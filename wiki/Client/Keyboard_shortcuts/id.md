@@ -42,7 +42,7 @@ Pintasan-pintasan ini bekerja di mana pun:
 | `Esc` | Kembali atau membatalkan. |
 | `P`, `E`, atau `O` | Membuka menu bermain. |
 | `P` tiga kali | Masuk mode solo. |
-| `P` dua kali, lalu `M` |  Masuk mode ([multiplayer](/wiki/Multi)). |
+| `P` dua kali, lalu `M` |  Masuk mode ([multiplayer](/wiki/Gameplay/Multiplayer)). |
 | `E` dua kali | Masuk mode edit. |
 | `O` | Membuka sidebar pengaturan. |
 | `Q` | Penampilkan pemilihan untuk keluar. |

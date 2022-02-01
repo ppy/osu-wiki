@@ -157,7 +157,7 @@ Cependant, même si les développeurs officiels d'osu! n'ont pas eu l'intention 
 
 ### Curseur du mod Auto dansant/dancing pippi
 
-"Dancing pippi" (également connu sous le nom de "dancing Auto mod cursor") est le surnom donné à l'une des blagues d'avril 2016 d'osu!. En 2016, une mise à jour a été publiée afin de faire en sorte que le curseur du mod [Auto](/wiki/Game_modifier/Auto) pendant les [replays](/wiki/Replay) tourne autour de l'[objet](/wiki/Hit_object) actuel à la perfection avant de finir par toucher l'objet juste au bon moment, contrairement aux mouvements robotiques et parfaitement droits habituels du mod Auto. La mise à jour a été annulée par une autre mise à jour le jour suivant [[47,48,49,50]][r].
+"Dancing pippi" (également connu sous le nom de "dancing Auto mod cursor") est le surnom donné à l'une des blagues d'avril 2016 d'osu!. En 2016, une mise à jour a été publiée afin de faire en sorte que le curseur du mod [Auto](/wiki/Game_modifier/Auto) pendant les [replays](/wiki/Gameplay/Replay) tourne autour de l'[objet](/wiki/Hit_object) actuel à la perfection avant de finir par toucher l'objet juste au bon moment, contrairement aux mouvements robotiques et parfaitement droits habituels du mod Auto. La mise à jour a été annulée par une autre mise à jour le jour suivant [[47,48,49,50]][r].
 
 ### Tags osu!supporter gratuit
 

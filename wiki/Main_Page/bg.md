@@ -14,7 +14,7 @@ no_native_review: true
 
 Важни артикули и ръководства ще ви помогнат да се гмурнете в света на osu!. Ако се обърка нещо или имате въпроси, задължително посетете [помощния ни форум](https://osu.ppy.sh/forum/5).
 
-[Правила](/wiki/Rules) • [Инсталиране](/wiki/Client/Installation) • [Регистрация](/wiki/Registration) • [Помощен център](/wiki/Help_Centre)
+[Правила](/wiki/Rules) • [Инсталиране](/wiki/Client/Installation) • [Регистрация](/wiki/Registration) • [Помощен център](/wiki/Help_centre)
 
 [Чат конзола](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [ЧЗВ](/wiki/FAQ) • [Ръководства](/wiki/Guides) • [Тълковен речник](/wiki/Glossary)
 
@@ -38,7 +38,7 @@ no_native_review: true
 
 [Видове игра](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Бийтмап](/wiki/Beatmap) • [Трудност](/wiki/Beatmap/Difficulty) • [Уцели обект](/wiki/Hit_object) • [Модове](/wiki/Game_modifier) • [Резултат](/wiki/Gameplay/Score) • [Повторение](/wiki/Replay) • [Медали](/wiki/Medals) • [Мултиплеър](/wiki/Multi)
+[Бийтмап](/wiki/Beatmap) • [Трудност](/wiki/Beatmap/Difficulty) • [Уцели обект](/wiki/Hit_object) • [Модове](/wiki/Game_modifier) • [Резултат](/wiki/Gameplay/Score) • [Повторение](/wiki/Gameplay/Replay) • [Медали](/wiki/Medals) • [Мултиплеър](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -84,9 +84,9 @@ no_native_review: true
 
 Отговори за чести въпроси и решения на общи проблеми се намират тук.
 
-[Помощен център](/wiki/Help_Centre) • [Производителност](/wiki/Performance_troubleshooting) • [Поддръжка на профили](/wiki/People/The_Team/Account_support_team) • [Помощен форум](https://osu.ppy.sh/forum/5)
+[Помощен център](/wiki/Help_centre) • [Производителност](/wiki/Performance_troubleshooting) • [Поддръжка на профили](/wiki/People/The_Team/Account_support_team) • [Помощен форум](https://osu.ppy.sh/forum/5)
 
-Профилни ограничения: [Заглушен](/wiki/Silence) • [Профилни ограничения](/wiki/Help_Centre/Account_Restrictions)
+Профилни ограничения: [Заглушен](/wiki/Silence) • [Профилни ограничения](/wiki/Help_centre/Account_restrictions)
 
 Вашата част: [Как и с какво да помогна](/wiki/Community/How_you_can_help!) • [Докладвай лошо поведение](/wiki/Reporting_bad_behaviour) • [Докладвай нередност](/wiki/Reporting_bad_behaviour/Abuse) • [Докладвай измама (игра с хак)](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 

@@ -13,7 +13,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # การเริ่มต้น
 
-[การติดตั้ง](/wiki/Client/Installation) • [การลงทะเบียน](/wiki/Registration) • [ศูนย์ช่วยเหลือ](/wiki/Help_Centre) • [คำถามที่พบบ่อย](/wiki/FAQ)
+[การติดตั้ง](/wiki/Client/Installation) • [การลงทะเบียน](/wiki/Registration) • [ศูนย์ช่วยเหลือ](/wiki/Help_centre) • [คำถามที่พบบ่อย](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -31,7 +31,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 [โหมดเกมต่าง ๆ](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[บีทแมพ](/wiki/Beatmap) • [โน้ต](/wiki/Hit_object) • [ม็อด](/wiki/Game_modifier) • [คะแนน](/wiki/Gameplay/Score) • [รีเพลย์](/wiki/Replay) • [การเล่นหลายคน](/wiki/Multi)
+[บีทแมพ](/wiki/Beatmap) • [โน้ต](/wiki/Hit_object) • [ม็อด](/wiki/Game_modifier) • [คะแนน](/wiki/Gameplay/Score) • [รีเพลย์](/wiki/Gameplay/Replay) • [การเล่นหลายคน](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

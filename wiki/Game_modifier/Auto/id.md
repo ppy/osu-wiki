@@ -32,7 +32,7 @@ tags:
 
 Mod **Auto** adalah sebuah [game modifier](/wiki/Game_modifier) yang memungkinkan pemain untuk menonton sebuah permainan yang sempurna dari beatmap yang dipilih.
 
-Fungsi mod ini sama seperti sebuah [tayangan ulang](/wiki/Replay), dengan opsi pemutaran kecepatan 0.5x/1.0x/2.0x yang dapat digunakan, dan komentar pada beatmap yang dapat dilihat dan dibuat seperti biasa. Mod Auto akan selalu mendapatkan grade SS, dengan pengecualian tertentu dalam beberapa kasus.
+Fungsi mod ini sama seperti sebuah [tayangan ulang](/wiki/Gameplay/Replay), dengan opsi pemutaran kecepatan 0.5x/1.0x/2.0x yang dapat digunakan, dan komentar pada beatmap yang dapat dilihat dan dibuat seperti biasa. Mod Auto akan selalu mendapatkan grade SS, dengan pengecualian tertentu dalam beberapa kasus.
 
 ### osu!
 

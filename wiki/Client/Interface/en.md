@@ -44,12 +44,12 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 ![](img/play-menu.jpg "Play Menu")
 
 - Click `Solo` (`P`) to play alone.
-- Click `Multi` (`M`) to play with other people. You will be directed to the [Multi](/wiki/Multi) Lobby (see below).
+- Click `Multi` (`M`) to play with other people. You will be directed to the [Multi](/wiki/Gameplay/Multiplayer) Lobby (see below).
 - Click `Back` to return to the main menu.
 
 ## Multi Lobby
 
-*Main page: [Multi](/wiki/Multi)*
+*Main page: [Multi](/wiki/Gameplay/Multiplayer)*
 
 ![](img/multi-lobby.jpg "Multi Lobby")
 

@@ -14,7 +14,7 @@ Bine ați venit la osu! wiki, un proiect care conține o gamă largă de informa
 
 # Noțiuni de bază
 
-[Instalare](/wiki/Client/Installation) • [Înregistrare](/wiki/Registration) • [Centrul de ajutor](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[Instalare](/wiki/Client/Installation) • [Înregistrare](/wiki/Registration) • [Centrul de ajutor](/wiki/Help_centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -32,7 +32,7 @@ Bine ați venit la osu! wiki, un proiect care conține o gamă largă de informa
 
 [Moduri de joc](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Obiect lovit](/wiki/Hit_object) • [Moduri](/wiki/Game_modifier) • [Scor](/wiki/Gameplay/Score) • [Reluare](/wiki/Replay) • [Multi](/wiki/Multi)
+[Beatmap](/wiki/Beatmap) • [Obiect lovit](/wiki/Hit_object) • [Moduri](/wiki/Game_modifier) • [Scor](/wiki/Gameplay/Score) • [Reluare](/wiki/Gameplay/Replay) • [Multi](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

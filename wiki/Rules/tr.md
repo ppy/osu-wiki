@@ -66,6 +66,6 @@ Birtakım kural ihlalleri özellikle ağır olması halinde belirli bir asgari s
 
 Eğer birçok kez kuralları ihlal etmenize rağmen yine de kuralları çiğnemeye devam ederseniz, hesabınız süresiz ve geri alınamaz bir şekilde kısıtlanabilir.
 
-Kısıtlı hesaplar çevrimiçi oynayamazlar, skor kaydedemezler, diğer kullanıcılarla sohbet edemezler, ve tüm bu niyetler ve amaçlar doğrultusunda topluluk ile iletişim kurmaktan men edilirler. Topluluk kurallarını çiğnemekten kısıtlanmış hesapların cezası ancak 3 ay geçtikten sonra oyun yetkililerine başvurulması halinde kaldırılabilir ([daha başka koşullar uygulanabilir](/wiki/Help_Centre/Account_Restrictions#yaygın-kısıtlama-nedenleri-ve-bekleme-süreleri)).
+Kısıtlı hesaplar çevrimiçi oynayamazlar, skor kaydedemezler, diğer kullanıcılarla sohbet edemezler, ve tüm bu niyetler ve amaçlar doğrultusunda topluluk ile iletişim kurmaktan men edilirler. Topluluk kurallarını çiğnemekten kısıtlanmış hesapların cezası ancak 3 ay geçtikten sonra oyun yetkililerine başvurulması halinde kaldırılabilir ([daha başka koşullar uygulanabilir](/wiki/Help_centre/Account_restrictions#yaygın-kısıtlama-nedenleri-ve-bekleme-süreleri)).
 
 Kurallarımızın kapsamının çok ötesine geçen ve uluslararası ortak yasa uyarınca yasadışı içeriğin yetki alanına giren ciddi suçlar, hesabın derhal kapatılması ile sonuçlanacaktır. Bu, yalnızca münhasıran, çocuk pornografisi veya diğer kötüye kullanılan materyallerinin dağıtılması gibi aşırı uygunsuz veya başka türlü nefret uyandıran suçlar için geçerlidir.

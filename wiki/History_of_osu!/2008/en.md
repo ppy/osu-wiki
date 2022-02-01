@@ -18,7 +18,7 @@ Players received extra challenges in the form of [mods](/wiki/Game_modifier) ([H
 
 ![](img/relax.png "Relax \(v1\)") ![](img/half_time.png "Half Time \(v1\)")
 
-To counterbalance February's new mods, the [Relax](/wiki/Game_modifier/Relax) (RX) and [Half Time](/wiki/Game_modifier/Half_Time) (HT) mods arrived to make life easier for players this month. Users were now able to take screenshots, and import and export [replays](/wiki/Replay). Animations could be [storyboarded](/wiki/Storyboard) for the first time, and the [skin](/wiki/Skinning) selection screen was added. Performance optimisations saw a decrease in 82% for loading the song selection screen (via a new format for the local beatmap database). Various other performance tweaks were made, including the introduction of the frame limit toggle and a number of other graphical options. Project [Bancho](/wiki/Bancho_(server)) was started on March 24, 2008. The idea was to create a server component for the osu! family, which handles communications between users and removes the [IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) dependency.
+To counterbalance February's new mods, the [Relax](/wiki/Game_modifier/Relax) (RX) and [Half Time](/wiki/Game_modifier/Half_Time) (HT) mods arrived to make life easier for players this month. Users were now able to take screenshots, and import and export [replays](/wiki/Gameplay/Replay). Animations could be [storyboarded](/wiki/Storyboard) for the first time, and the [skin](/wiki/Skinning) selection screen was added. Performance optimisations saw a decrease in 82% for loading the song selection screen (via a new format for the local beatmap database). Various other performance tweaks were made, including the introduction of the frame limit toggle and a number of other graphical options. Project [Bancho](/wiki/Bancho_(server)) was started on March 24, 2008. The idea was to create a server component for the osu! family, which handles communications between users and removes the [IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) dependency.
 
 ## April
 
@@ -32,7 +32,7 @@ The [Taiko](/wiki/Game_mode/osu!taiko) mode first saw the light of day in this m
 
 ## June
 
-A major milestone in osu! history was reached with the addition of the [Multi (multiplayer)](/wiki/Multi) game mode. Skinning options were expanded further regarding both graphics and sounds. Lastly, multi-channel chat was possible for the first time.
+A major milestone in osu! history was reached with the addition of the [Multi (multiplayer)](/wiki/Gameplay/Multiplayer) game mode. Skinning options were expanded further regarding both graphics and sounds. Lastly, multi-channel chat was possible for the first time.
 
 ## July
 
@@ -50,7 +50,7 @@ A new ranked status "![](img/fire.gif) [Approved](/wiki/Beatmap/Category#approve
 
 ![](img/flashlight.png "Flashlight \(v1\)") ![](img/spun_out.png "Spun Out \(v1\)") ![](img/auto.png "Auto \(v1\)")
 
-A slew of new mods were unveiled this month: [Flashlight](/wiki/Game_modifier/Flashlight), [Spun Out](/wiki/Game_modifier/Spun_Out) and [Auto](/wiki/Game_modifier/Auto). Auto scripts an AI player that completed (almost) any beatmap with perfect [accuracy](/wiki/Gameplay/Accuracy), and can also be accessed via the editor test mode. The limits of beatmap design were pushed farther with the addition of more skinnable elements (including [comboburst images](/wiki/Glossary/Comboburst), the clap sound sample, the ability to assign sound samples to individual slider endpoints and inherited timing sections. The song selection screen also received an overhaul.
+A slew of new mods were unveiled this month: [Flashlight](/wiki/Game_modifier/Flashlight), [Spun Out](/wiki/Game_modifier/Spun_Out) and [Auto](/wiki/Game_modifier/Auto). Auto scripts an AI player that completed (almost) any beatmap with perfect [accuracy](/wiki/Gameplay/Accuracy), and can also be accessed via the editor test mode. The limits of beatmap design were pushed farther with the addition of more skinnable elements (including [comboburst images](/wiki/Gameplay/Comboburst), the clap sound sample, the ability to assign sound samples to individual slider endpoints and inherited timing sections. The song selection screen also received an overhaul.
 
 ## October
 

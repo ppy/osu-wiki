@@ -143,7 +143,7 @@ Each timing point influences a specified portion of the map, commonly called a "
 
 Timing points have two extra effects that can be toggled using bits 0 and 3 (from least to most significant) in the `effects` integer:
 
-- 0: Whether or not [kiai time](/wiki/Kiai_time) is enabled
+- 0: Whether or not [kiai time](/wiki/Gameplay/Kiai_time) is enabled
 - 3: Whether or not the first barline is omitted in osu!taiko and osu!mania
 
 The rest of the bits are unused.

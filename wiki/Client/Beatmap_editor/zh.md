@@ -19,4 +19,4 @@ outdated: true
 - [音符时值](Beat_Snap_Divisor)
 - [间距锁定](Distance_snap)
 - [自定义音效](/wiki/Guides/Custom_Sample_Overrides)
-- [Kiai 时间](/wiki/Kiai_time)
+- [Kiai 时间](/wiki/Gameplay/Kiai_time)

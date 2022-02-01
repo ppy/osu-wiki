@@ -269,7 +269,7 @@ Sistem yang digunakan untuk menghitung *health drain* dan *health gain* per obje
 ### Sejarah
 
 - Pada versi lama, osu! menggunakan beberapa elemen dari seri *Ouendan* sebelum akhirnya mulai dihapus atau digantikan.
-  - Efek [kombo api](/wiki/Glossary/Combo_fire) yang muncul ketika mencapai kombo baru.
+  - Efek [kombo api](/wiki/Gameplay/Combo_fire) yang muncul ketika mencapai kombo baru.
   - Versi pertama pada skin default menggunakan perilaku skin v1 yang merupakan skin *osu! Default oleh peppy*, skin ini menyediakan antarmuka yang hampir identik dengan Ouendan.
     - Kemudian, skin tersebut digantikan dengan skin default yang lebih bagus yang menggunakan perilaku skin v2.
   - Perbedaan fitur yang paling mencolok antara perilaku skin v1 dan v2 adalah pada bagian spinner.

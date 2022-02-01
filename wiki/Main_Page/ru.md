@@ -15,7 +15,7 @@ outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 
 Важные статьи и руководства, которые помогут погрузиться в osu!. В случае проблем или недопонимания загляните на [форум техподдержки](https://osu.ppy.sh/forum/5), или в тему «[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)».
 
-[Правила](/wiki/Rules) • [Установка](/wiki/Client/Installation) • [Регистрация](/wiki/Registration) • [Справочный центр](/wiki/Help_Centre)
+[Правила](/wiki/Rules) • [Установка](/wiki/Client/Installation) • [Регистрация](/wiki/Registration) • [Справочный центр](/wiki/Help_centre)
 
 [Внутриигровой чат](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Руководства](/wiki/Guides) • [Словарь](/wiki/Glossary)
 
@@ -39,7 +39,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Режимы игры](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Карта](/wiki/Beatmap) • [Сложность](/wiki/Beatmap/Difficulty) • [Игровые объекты](/wiki/Hit_object) • [Модификаторы](/wiki/Game_modifier) • [Очки](/wiki/Gameplay/Score) • [Реплей](/wiki/Replay) • [Медали](/wiki/Medals) • [Мультиплеер](/wiki/Multi)
+[Карта](/wiki/Beatmap) • [Сложность](/wiki/Beatmap/Difficulty) • [Игровые объекты](/wiki/Hit_object) • [Модификаторы](/wiki/Game_modifier) • [Очки](/wiki/Gameplay/Score) • [Реплей](/wiki/Gameplay/Replay) • [Медали](/wiki/Medals) • [Мультиплеер](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -85,9 +85,9 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 Ответы на часто задаваемые вопросы и решения распространённых проблем.
 
-[Справочный центр](/wiki/Help_Centre) • [Проблемы с производительностью](/wiki/Performance_troubleshooting) • [Служба поддержки](/wiki/People/The_Team/Account_support_team) • Тема «[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)» • [Форум техподдержки](https://osu.ppy.sh/forum/5)
+[Справочный центр](/wiki/Help_centre) • [Проблемы с производительностью](/wiki/Performance_troubleshooting) • [Служба поддержки](/wiki/People/The_Team/Account_support_team) • Тема «[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)» • [Форум техподдержки](https://osu.ppy.sh/forum/5)
 
-Ограничения: [Сайленс](/wiki/Silence) • [Рестрикт аккаунта](/wiki/Help_Centre/Account_Restrictions)
+Ограничения: [Сайленс](/wiki/Silence) • [Рестрикт аккаунта](/wiki/Help_centre/Account_restrictions)
 
 Поддержание порядка: [Как и где помочь osu!](/wiki/Community/How_you_can_help!) • [Жалобы на чужое поведение](/wiki/Reporting_bad_behaviour) • [Жалобы на домогательства](/wiki/Reporting_bad_behaviour/Abuse) • [Жалобы на читеров](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
