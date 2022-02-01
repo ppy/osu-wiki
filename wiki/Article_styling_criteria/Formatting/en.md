@@ -316,7 +316,7 @@ Artist names are otherwise generally not italicised. This means that in free-for
 Linked text appears in a different colour which already provides emphasis, and therefore does not need further emphasis:
 
 ```markdown
-[Camellia - OOPARTS] is an example of a song officially created specifically for osu!, otherwise known as an *osu! original*, since it was specifically commissioned as the osu! World Cup 2020 tiebreaker song.
+[Camellia - OOPARTS](https://cametek.bandcamp.com/track/parts) is an example of a song officially created specifically for osu!, otherwise known as an *osu! original*, since it was specifically commissioned for the osu! World Cup 2020 tiebreaker.
 ```
 
 This however does not apply if the referenced work is not the only part of the link:
