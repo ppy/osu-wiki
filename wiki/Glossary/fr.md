@@ -2,9 +2,9 @@
 
 Page d'index pour tous les articles concernant les termes spécifiques à osu!
 
-- [Objet actif](Active_object)
 - [Changelog](Changelog)
 - [Couleur de combo](Combo_colour)
+- [Objet actif](Active_object)
 - [Lead-in](Lead-in)
 - [Local song offset](Local_song_offset)
 - [Touhosu!](Touhosu!)
