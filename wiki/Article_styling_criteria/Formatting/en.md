@@ -308,7 +308,7 @@ As an example, when referring to songs in the format of `{artist} - {title}`, th
 Artist names are otherwise generally not italicised. This means that in free-form references, only the title should be italicised, because the artist name is then not part of the name of the work:
 
 ```markdown
-*Blue Zenith* by xi is an infamous song in the osu! community due to a famous score set by a top player on a beatmap of the song.
+*Blue Zenith* by xi is an infamous song in the osu! community due to a famous score set by a top player on a certain beatmap.
 ```
 
 ### Emphasis and links
