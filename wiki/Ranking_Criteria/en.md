@@ -182,9 +182,9 @@ This category contains explicit allowance statements of concepts and rules that 
 - **A song's audio file and hitsound files must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalised to their original release volumes and should not be encoded to a bit rate higher than their original files.
 - **Beatmaps must be hitsounded.** Hitnormals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.
   - **osu!mania beatmaps do not require hitsound additions.** This is to allow for easier approachability to osu!mania mappers of different upbringings. It is still highly recommended to add hitsounds to improve the feel of your beatmaps. In cases where hitsounds are not used, *no* additions may be placed, and *no* sample control points should be used (ie. to adjust volume).
-- **All clicked parts of objects must have at least one hitsound which...**
+- **All clicked parts of objects must have at least one hitsound which both...**
     - **...has a clear impact, whose peak is delayed no more than 5 milliseconds.** `normal-hitfinish.wav` from the default skin is exempt from this.
-    - **...uses the `.wav` or `.ogg` file format.** `.mp3` should not be used as it is inherently delayed.
+    - **...uses the `.wav` or `.ogg` file format.** `.mp3` should not be used here as it is inherently delayed.
     - This ensures instant audible feedback when clicking objects, synchronising with the song in a way that enables players to determine how early or late they are clicking. osu!mania is exempt from this due to its concurrent objects.
 - **Hitsounds must be audible.** Their purpose is to provide feedback, so hitsounds with extremely low volume or samples that blend with a song's samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criteria.
 - **Preview points must be set and consistent between all difficulties of a beatmap.** This is used for both the song selection menu and the online thumbnail preview.
