@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 7a800e4ec3986ff1f135020a46e7c208287d0b2a
+---
+
 # Khắc phục sự cố hiệu năng trong osu!
 
 osu! luôn cố gắng chạy với thiết lập mặc định và sẽ cảnh báo bạn nếu bạn đang làm/chạy gì đó có thể gây ảnh hưởng tới hiệu năng của trò chơi.
