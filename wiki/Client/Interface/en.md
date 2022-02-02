@@ -77,7 +77,7 @@ The currently selected [game mode](/wiki/Game_mode) icon can be seen in the bott
 - ![](/wiki/shared/mode/catch.png) is [osu!catch](/wiki/Game_mode/osu!catch)
 - ![](/wiki/shared/mode/mania.png) is [osu!mania](/wiki/Game_mode/osu!mania)
 
-Before continuing on, this screen has too many elements to note with easily, noticeable numbers. The subsections below will focus on one part of the screen at a time, starting from the top down and left to right.
+Before continuing on, this screen has too many elements to note with easily, noticeable numbers. The subsections below will focus on one part of the screen at a time, starting from top to bottom and left to right.
 
 ### Beatmap information
 
@@ -158,15 +158,17 @@ Supported filters:
 | :-: | :-- |
 | `artist` | Name of the artist |
 | `creator` | Name of the beatmap creator |
-| `ar` | Approach Rate |
-| `cs` | Circle Size |
-| `od` | Overall Difficulty |
-| `hp` | HP Drain Rate |
+| `title` | Name of the track |
+| `difficulty` | Name of the beatmap difficulty |
+| `ar` | [Approach Rate](/wiki/Beatmapping/Approach_rate) |
+| `cs` | [Circle Size](/wiki/Beatmapping/Circle_size) |
+| `od` | [Overall Difficulty](/wiki/Beatmapping/Overall_difficulty) |
+| `hp` | [HP drain rate](/wiki/Beatmapping/HP_drain_rate) |
 | `key`, `keys` | Number of keys (osu!mania and converted beatmaps only) |
-| `star`, `stars` | Star Difficulty |
+| `star`, `stars` | [Star rating](/wiki/Beatmapping/Star_rating) |
 | `bpm` | Beats per minute |
 | `length` | Length in seconds |
-| `drain` | Drain time in seconds |
+| `drain` | [Drain time](/wiki/Gameplay/Drain_time) in seconds |
 | `mode` | Game mode. This can be one of `osu`, `taiko`, `catch`, or `mania`, or `o`/`t`/`c`/`m` for short. |
 | `status` | Beatmap status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short. |
 | `played` | Time since last played in days |
