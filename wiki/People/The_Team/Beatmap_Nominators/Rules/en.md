@@ -18,7 +18,9 @@ Sustained behaviour in conflict with these expectations is grounds for dismissal
 
 ## Activity
 
-- **Activity requirements for your respective gamemode(s) must be met.** Average activity over the last 3 months will be checked on the first day of each month and during regular BN evaluations, taking into account any leave of absence communicated. Any BN who falls below their mode's required average will get an activity warning.
+- **Activity requirements for your respective gamemode(s) must be met.** Activity over the last 3 months will be checked on the first day of each month and during regular BN evaluations. 
+- **If you fall below 2 months worth of nominations accross a 3 month period, you will be removed from the Beatmap Nominators without additional warnings**
+- **If you have more than 2 months worth of nominations, but less than the activity requirements, you will receive an Activity Warning.** This warning can occur up to once per year. Failing the activity requirements an additional time will lead to removal from the Beatmap Nominators.
 - **When warned for activity, minimum activity requirements for your respective gamemode(s) must be met over the course of one month.** Failing to meet the required minimum when being warned for it prior may result in removal from the Beatmap Nominators.
 - **You cannot exceed 75 unique nominations over any 90 day period.** Those exceeding this amount will first be warned and then removed if they do not manage their activity accordingly.
 
@@ -31,6 +33,8 @@ Each mode has its own required minimum for monthly activity.
 - osu!, osu!taiko, osu!catch: 3 nominations.
 - osu!mania: 2 nominations.
 - Hybrid: 3 nominations, with at least 1 per proficient gamemode.
+
+
 
 ## Nomination
 
