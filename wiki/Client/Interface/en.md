@@ -162,8 +162,8 @@ Supported filters:
 | `cs` | Circle Size |
 | `od` | Overall Difficulty |
 | `hp` | HP Drain Rate |
-| `keys` | Number of keys (osu!mania and converted beatmaps only) |
-| `stars` | Star Difficulty |
+| `key`, `keys` | Number of keys (osu!mania and converted beatmaps only) |
+| `star`, `stars` | Star Difficulty |
 | `bpm` | Beats per minute |
 | `length` | Length in seconds |
 | `drain` | Drain time in seconds |
