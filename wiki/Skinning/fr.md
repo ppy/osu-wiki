@@ -13,16 +13,16 @@ Le skinning est l'une des principales caractéristiques d'osu!. Il permet aux jo
 La liste des éléments de skinning est divisée en plusieurs catégories :
 
 - [Skinning de l'interface](/wiki/Skinning/Interface)
+- [Skinning des sons](/wiki/Skinning/Sounds)
 - [Skinning du mode osu!](/wiki/Skinning/osu!)
 - [Skinning du mode osu!taiko](/wiki/Skinning/osu!taiko)
 - [Skinning du mode osu!catch](/wiki/Skinning/osu!catch)
 - [Skinning du mode osu!mania](/wiki/Skinning/osu!mania)
-- [Skinning des sons](/wiki/Skinning/Sounds)
 
 ## Voir également
 
-- [skin.ini](/wiki/Skinning/skin.ini)
-- [Histoire du skinning](/wiki/Skinning/History) - une liste d'anciens éléments de skinning
 - [Compendium](https://osu.ppy.sh/community/forums/topics/686664) - une liste des skins terminées
 - [FAQ sur le skinning](/wiki/Skinning/FAQ)
 - [Guides de skinning et sujets importants](/wiki/Skinning/Guides_and_important_threads)
+- [Histoire du skinning](/wiki/Skinning/History) - une liste d'anciens éléments de skinning
+- [skin.ini](/wiki/Skinning/skin.ini)
