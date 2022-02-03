@@ -79,7 +79,7 @@ Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au 
 
 #### Règles
 
-- **Si un pattern 1/2 est utilisé, les patterns doivent rester simplistes et être suivis d'un moment de repos.** Les finishers ne doivent pas être utilisées dans les patterns en tant que tels. Pour les musiques qui suivent un rythme swing, cette limite est de 1/3.
+- **Si un pattern 1/2 est utilisé, les patterns doivent rester simplistes et être suivis d'un moment de repos.** Les finishers ne doivent pas être utilisés dans les patterns en tant que tels. Pour les musiques qui suivent un rythme swing, cette limite est de 1/3.
 - **Les notes doivent être espacées d'au moins 1/2 d'un temps.** Tout ce qui est plus rapide est trop complexe pour les joueurs débutants. Pour les musiques qui suivent un rythme swing, cette limite est plutôt de 1/3.
 
 #### Directives
@@ -152,7 +152,7 @@ Si une difficulté Futsuu est requise et utilisée comme *difficulté la plus fa
 
 #### Règles
 
-- **Les finishers ne doivent pas être utilisées dans les patterns 1/6 ou plus rapides de cette difficulté.** L'utilisation du finisher sur ces patterns est trop compliquée pour le public de ce niveau.
+- **Les finishers ne doivent pas être utilisés dans les patterns 1/6 ou plus rapides de cette difficulté.** L'utilisation du finisher sur ces patterns est trop compliquée pour le public de ce niveau.
 - **Les finishers pour les patterns de 1/4 dans cette difficulté ne doivent être utilisés qu'à la fin de ce pattern.** D'autres placements peuvent perturber la lisibilité pour le public de ce niveau.
 - **Les notes doivent être espacées d'au moins 1/8 de temps.** Tout ce qui est plus rapide est trop complexe pour le public cible de ce niveau de difficulté.
 
