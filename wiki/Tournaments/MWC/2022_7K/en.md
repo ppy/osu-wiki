@@ -93,27 +93,62 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | ![][flag_GB] | **United Kingdom** | **[Vygatron](https://osu.ppy.sh/users/3628783)**, [username1947](https://osu.ppy.sh/users/16162078), [Lelloq](https://osu.ppy.sh/users/8610776), [aid\_](https://osu.ppy.sh/users/12808079) |
 | ![][flag_US] | **United States** | **[Alter-](https://osu.ppy.sh/users/4980256)**, [Terni](https://osu.ppy.sh/users/3279570), [\[GS\]Teo](https://osu.ppy.sh/users/7081478), [RevVoJH](https://osu.ppy.sh/users/7286896) |
 
-## Match schedule: Quarterfinals
+## Match schedule: Semifinals
 
-### Saturday, January 29, 2022
+### Saturday, February 5, 2022
 
-| Team A | | | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_ES] | Spain | Jan 29 (Sat) 11:00 UTC | Jan 29 (Sat) 06:00 UTC-5 | Jan 29 (Sat) 12:00 UTC+1 |
-| Taiwan | ![][flag_TW] | ![][flag_CL] | Chile | Jan 29 (Sat) 13:00 UTC | Jan 29 (Sat) 21:00 UTC+8 | Jan 29 (Sat) 10:00 UTC-3 |
-| Poland | ![][flag_PL] | ![][flag_RU] | Russian Federation | Jan 29 (Sat) 14:00 UTC | Jan 29 (Sat) 15:00 UTC+1 | Jan 29 (Sat) 17:00 UTC+3 |
-| Switzerland | ![][flag_CH] | ![][flag_BR] | Brazil | Jan 29 (Sat) 20:00 UTC | Jan 29 (Sat) 21:00 UTC+1 | Jan 29 (Sat) 17:00 UTC-3 |
+| Team A | | | Team B | Match time | Local time A | Local time B | |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Indonesia | ![][flag_ID] | ![][flag_PL] | Poland | Feb 5 (Sat) 12:00 UTC | Feb 5 (Sat) 19:00 UTC+7 | Feb 5 (Sat) 13:00 UTC+1 | ² |
+| China | ![][flag_CN] | ![][flag_MY] | Malaysia | Feb 5 (Sat) 12:00 UTC | Feb 5 (Sat) 20:00 UTC+8 | Feb 5 (Sat) 20:00 UTC+8 | ¹ |
+| Japan | ![][flag_JP] | ![][flag_BR] | Brazil | Feb 5 (Sat) 14:00 UTC | Feb 5 (Sat) 23:00 UTC+9 | Feb 5 (Sat) 11:00 UTC-3 | ² |
+| Thailand | ![][flag_TH] | ![][flag_CL] | Chile | Feb 5 (Sat) 15:00 UTC | Feb 5 (Sat) 22:00 UTC+7 | Feb 5 (Sat) 12:00 UTC-3 | ² |
+| Canada | ![][flag_CA] | ![][flag_ES] | Spain | Feb 5 (Sat) 16:00 UTC | Feb 5 (Sat) 11:00 UTC-5 | Feb 5 (Sat) 17:00 UTC+1 | ² |
 
-### Sunday, January 30, 2022
+### Sunday, February 6, 2022
 
-| Team A | | | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_CA] | Canada | Jan 30 (Sun) 03:00 UTC | Jan 30 (Sun) 12:00 UTC+9 | Jan 29 (Sat) 22:00 UTC-5 |
-| China | ![][flag_CN] | ![][flag_ID] | Indonesia | Jan 30 (Sun) 07:00 UTC | Jan 30 (Sun) 15:00 UTC+8 | Jan 30 (Sun) 14:00 UTC+7 |
-| Philippines | ![][flag_PH] | ![][flag_TH] | Thailand | Jan 30 (Sun) 11:00 UTC | Jan 30 (Sun) 19:00 UTC+8 | Jan 30 (Sun) 18:00 UTC+7 |
-| Malaysia | ![][flag_MY] | ![][flag_JP] | Japan | Jan 30 (Sun) 14:00 UTC | Jan 30 (Sun) 22:00 UTC+8 | Jan 30 (Sun) 23:00 UTC+9 |
+| Team A | | | Team B | Match time | Local time A | Local time B | |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Thailand | ![][flag_TH] | ![][flag_CA] | Canada | Feb 6 (Sun) 05:00 UTC | Feb 6 (Sun) 12:00 UTC+7 | Feb 6 (Sun) 00:00 UTC-5 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_PH] | Philippines | Feb 6 (Sun) 10:00 UTC | Feb 6 (Sun) 19:00 UTC+9 | Feb 6 (Sun) 18:00 UTC+8 | ¹ |
+| Thailand | ![][flag_TH] | ![][flag_ES] | Spain | Feb 6 (Sun) 12:00 UTC | Feb 6 (Sun) 19:00 UTC+7 | Feb 6 (Sun) 13:00 UTC+1 | ³ |
+| Japan | ![][flag_JP] | ![][flag_ID] | Indonesia | Feb 6 (Sun) 14:00 UTC | Feb 6 (Sun) 23:00 UTC+9 | Feb 6 (Sun) 21:00 UTC+7 | ³ |
+| Japan | ![][flag_JP] | ![][flag_PL] | Poland | Feb 6 (Sun) 14:00 UTC | Feb 6 (Sun) 23:00 UTC+9 | Feb 6 (Sun) 15:00 UTC+1 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | Feb 6 (Sun) 15:00 UTC | Feb 6 (Sun) 12:00 UTC-3 | Feb 6 (Sun) 22:00 UTC+7 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_PL] | Poland | Feb 6 (Sun) 15:00 UTC | Feb 6 (Sun) 12:00 UTC-3 | Feb 6 (Sun) 16:00 UTC+1 | ³ |
+| Chile | ![][flag_CL] | ![][flag_CA] | Canada | Feb 6 (Sun) 18:00 UTC | Feb 6 (Sun) 15:00 UTC-3 | Feb 6 (Sun) 13:00 UTC-5 | ³ |
+| Chile | ![][flag_CL] | ![][flag_ES] | Spain | Feb 6 (Sun) 18:00 UTC | Feb 6 (Sun) 15:00 UTC-3 | Feb 6 (Sun) 19:00 UTC+1 | ³ |
+
+¹ Winners bracket match\
+² Losers bracket match\
+³ Potential match: final matchup depends on the results of ²
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here (104 MB)](https://drive.google.com/uc?id=1zbZY8aEs_0rS-UHLjiWUQaxmNdVoXJR5)**
+
+- Rice
+  1. [modama/hugepulse - Swim in the sea of quarks (MapleSyrup-) \[\[7K\] Creation 1.15x\]](https://osu.ppy.sh/beatmapsets/1687220#mania/3448226)
+  2. [TUYU - Shuuten no Saki ga Aru to suru naraba (Leeju) \[Leeju's 7K Afterlife +\]](https://osu.ppy.sh/beatmapsets/1603565#mania/3448143)
+  3. [ikaruga\_nex - ReviXy (TakJun) \[\[7K\] ETJun\]](https://osu.ppy.sh/beatmapsets/1489038#mania/3393667)
+  4. [polysha - Jasmine Tea Girl (Evening) \[\[7K\] Shimmer+@130\]](https://osu.ppy.sh/beatmapsets/1687214#mania/3448213)
+  5. [Camellia - Electromagnetic Stealth Girl Born In Philadelphia (paradoxus\_) \[\[7K\] para & wawa collab (no LN)\]](https://osu.ppy.sh/beatmapsets/1544574#mania/3441781)
+  6. [Takanashi Kiara - SPARKS (Remuring) \[\[7K\] KFP\]](https://osu.ppy.sh/beatmapsets/1601721#mania/3270989)
+  7. [Igorrr - Robert (Jinjin) \[\[7K\] dieu\]](https://osu.ppy.sh/beatmapsets/1687197#mania/3448178)
+- LN
+  1. [Aethoro - Snowy (\_underjoy) \[\[7K\] Icicles\]](https://osu.ppy.sh/beatmapsets/1687222#mania/3448230)
+  2. [Kijibato - w / WWW (feat. Hoshimiya Toto) (\_underjoy) \[\[7K\] Flexo123's GO FUN?\]](https://osu.ppy.sh/beatmapsets/1687225#mania/3448238)
+  3. [SHK - Violet Perfume (Wilben\_Chan) \[\[7K\] Nightmare (edit)\]](https://osu.ppy.sh/beatmapsets/1371078#mania/3440839)
+  4. [GFRIEND - Time for the moon night (Jinjin) \[\[7K\] ByeolBit\]](https://osu.ppy.sh/beatmapsets/1674163#mania/3419908)
+  5. [La+ Darknesss - God-ish (MapleSyrup-) \[\[7K\] Fool-ish Obsesssion\]](https://osu.ppy.sh/beatmapsets/1687218#mania/3448224)
+- Hybrid
+  1. [Akhuta - Nigra Ludia (Wilben\_Chan) \[\[7K\] Nightmare\]](https://osu.ppy.sh/beatmapsets/1034341#mania/2162574)
+  2. [AZKi - Fake.Fake.Fake (\_Reimu) \[\[7K\] Aqua.M.T\]](https://osu.ppy.sh/beatmapsets/984170#mania/2059275)
+  3. [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro -Ugomeki wa nao fukamaru (Remuring) \[\[7K\] Corruption (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/1276561#mania/3448223)
+- Tiebreaker
+  1. **[Camellia - Newspapers for Magicians (Blocko) \[\[7K\] The Daily Prophet\]](https://osu.ppy.sh/beatmapsets/1645306#mania/3448228)**
 
 ### Quarterfinals
 
@@ -175,6 +210,28 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 8. [technoplanet - Intuition (Evening) \[Stage 8: Advent of Colour\]](https://osu.ppy.sh/beatmapsets/1670397#mania/3411676)
 
 ## Match results
+
+### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1p5UdhZ0CDflgnghIcKIsCnfT9A5c-kGGDOgGsS8Bqhg/edit?rm=minimal).
+
+Saturday, January 29, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States ![][flag_US] | 0 | **6** | ![][flag_ES] **Spain** | [#1](https://osu.ppy.sh/community/matches/97134166) |
+| Taiwan ![][flag_TW] | 3 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/97137500) |
+| **Poland** ![][flag_PL] | **6** | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/97139929) |
+| Switzerland ![][flag_CH] | 2 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/97155646) |
+
+Sunday, January 30, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/97170691) |
+| **China** ![][flag_CN] | **6** | 5 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/97177094) |
+| **Philippines** ![][flag_PH] | **6** | 0 | ![][flag_TH] Thailand | [#1]( https://osu.ppy.sh/community/matches/97182046) |
+| **Malaysia** ![][flag_MY] | **6** | 0 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/97187449) |
 
 ### Round of 16
 
