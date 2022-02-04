@@ -30,7 +30,7 @@ Ces règles et directives ont été discutées dans le [sous-forum Ranking Crite
 - **Rest moment :** Une période de temps sans notes utilisée spécifiquement pour permettre au joueur de reposer ses mains et de se préparer pour les patterns à venir.
 - **Stream :** Cercles consécutifs regroupés. Habituellement, ils sont frappés à 1/4 de temps.
 - **Snapping :** Tick de la timeline où un objet est placé.
-  - **Variable snapping :** Une combinaison de plusieurs façons différentes de snap les notes dans un court laps de temps en raison de la nature fluctuante de la musique à ce moment-là.
+- **Variable snapping :** Une combinaison de plusieurs façons différentes de snap les notes dans un court laps de temps en raison de la nature fluctuante de la musique à ce moment-là.
 - **Slider velocity :** Vitesse à laquelle les notes/drumrolls/spinners/bar lines se déplacent horizontalement de droite à gauche dans le playfield. Le slider velocity de base peut être contrôlé dans le timing panel et des modifications supplémentaires peuvent être apportées grâce aux points de timing hérités (verts).
 - **Smooth slider velocity changes :** Un mécanisme qui permet une transition graduelle de sections de slider velocity plus basses à plus hautes/de plus hautes à plus basses. Des notes de transition avec des slider velocity variables sont utilisées pour obtenir cet effet.
 - **Improvisation :** Avoir plus de notes que ce que la musique actuelle fournit.
@@ -56,7 +56,7 @@ Toutes les règles sont exactement cela : des **règles**. Elles ne sont **pas**
 
 Les directives peuvent être ignorées dans des circonstances **exceptionnelles**. Ces circonstances exceptionnelles doivent être justifiées par une explication exhaustive de la raison pour laquelle la directive a été ignorée et pourquoi le fait de ne pas l'ignorer nuira à la qualité globale de la création.
 
-- **Évitez de couvrir les parties essentielles de l'arrière-plan avec le terrain de jeu de taiko.** Si cela se produit, envisagez de modifier le dernier zéro du `.osu` via notepad dans la ligne `0,0, "name_of_background.file_extension",0,0` sous l'en-tête `[Events]`. Les valeurs positives abaisseront l'arrière-plan tandis que les valeurs négatives le feront monter.
+- **Évitez de couvrir les parties essentielles de l'arrière-plan avec le terrain de jeu de taiko.** Si cela se produit, envisagez de modifier le dernier zéro du `.osu` via notepad dans la ligne `0,0, "nom_de_l'arrière-plan.extension_du_fichier",0,0` sous l'en-tête `[Events]`. Les valeurs positives abaisseront l'arrière-plan tandis que les valeurs négatives le feront monter.
 - **Si des changements de slider velocity sont utilisés, ils doivent correspondre aux changements de rythme de la musique.** Cela signifie qu'il ne faut pas accélérer les parties calmes, ni ralentir les parties rapides d'une musique.
 - **Évitez d'utiliser des changements de slider velocity sur des sections qui comprennent un snapping variable.** Cela a un impact sur la lisibilité de ces snappings, il faut donc que la variation soit suffisamment faible pour éviter l'overlapping.
 - **Évitez les changements brusques de slider velocity à l'intérieur de patterns qui se chevauchent déjà (par exemple, les streams 1/4).** Dans ces cas, il faut utiliser des changements de slider velocity en douceur pour que les patterns restent lisibles.
