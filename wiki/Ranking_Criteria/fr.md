@@ -190,7 +190,7 @@ Cette catégorie contient des déclarations d'allocation explicites de concepts 
 - **Les points de prévisualisation doivent être définis et cohérents entre toutes les difficultés d'une beatmap.** Cette fonction est utilisée à la fois pour le menu de sélection des beatmaps et pour l'aperçu en ligne des vignettes.
 - **Chaque fichier hitsound doit avoir une durée minimale de 25 ms.** Les fichiers plus courts peuvent entraîner l'absence de son dans le jeu.
 - **Les fichiers sonores totalement silencieux doivent utiliser [ce fichier de 44 octets](https://up.ppy.sh/files/blank.wav).** D'autres fichiers ont une taille inutilement élevée et les fichiers à 0 octet ne fonctionnent pas.
-- **Les [storyboarded hitsounds](/wiki/Beatmapping/Hitsound#storyboarded-hitsound) ne peuvent pas être utilisés en remplacement des [hitsounds actifs](/wiki/Beatmapping/Hitsound#hitsound-actif).** Ceux-ci donnent une forme inexacte de feedback au joueur. Les hitsounds storyboarded dans d'autres situations sont acceptables, mais découragés. osu!mania est exempt de cette règle.
+- **Les [hitsounds storyboardés](/wiki/Beatmapping/Hitsound#hitsound-storyboardé) ne peuvent pas être utilisés en remplacement des [hitsounds actifs](/wiki/Beatmapping/Hitsound#hitsound-actif).** Ceux-ci donnent une forme inexacte de feedback au joueur. Les hitsounds storyboardés dans d'autres situations sont acceptables, mais découragés. osu!mania est exempt de cette règle.
 
 ### Directives
 
@@ -254,7 +254,7 @@ Cette catégorie contient des déclarations d'allocation explicites de concepts 
 
 - **Les images storyboardées ne doivent pas dépasser une surface de 17 000 000 pixels afin de maintenir les temps de chargement des grandes images dans des limites raisonnables pour la plupart des ordinateurs.** De plus, il se peut que vous deviez redimensionner vos images en fonction des dimensions maximales internes de l'éditeur de storyboard de 854 x 480 osu!pixels lorsque vous les utilisez.
 - **La difficulté ne doit pas provoquer d'erreurs d'analyse lors du chargement.** Cela signifie que le parseur ne peut pas lire une partie des instructions du storyboard.
-- **Le paramètre `Support écran large` doit être cohérent entre les difficultés storyboardées d'une beatmap,** à moins que des storyboards spécifiques aux difficultés ne soient conçus pour différents rapports d'aspect.
+- **Le paramètre `Widescreen Support` doit être cohérent entre les difficultés storyboardées d'une beatmap,** à moins que des storyboards spécifiques aux difficultés ne soient conçus pour différents rapports d'aspect.
 
 ### Directives
 
