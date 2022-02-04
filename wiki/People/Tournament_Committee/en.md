@@ -21,11 +21,14 @@ Those who are interested in joining the tournament committee may express their i
 - ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578)
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656)
+- ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263)
 - ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718)
+- ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227)
 - ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454)
 - ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189)
 - ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416)
+- ![][flag_NL] [Wesley](https://osu.ppy.sh/users/2407265)
 - ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973)
 
 ## Alumni
