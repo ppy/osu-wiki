@@ -8,7 +8,7 @@ tags:
 
 ![KCC2022 banner](img/banner.png)
 
-The **Korean Charting Contest 2022** (***KCC2022***) is an osu!mania mapping contest for users from ![][flag_KR] South Korea.
+The **Korean Charting Contest 2022** (***KCC2022***) is an osu!mania mapping contest for users from ![][flag_KR] South Korea. It is the second instalment of the Korean Charting Contest.
 
 ## Contest schedule
 
@@ -45,15 +45,19 @@ The **Korean Charting Contest 2022** (***KCC2022***) is an osu!mania mapping con
 
 ### Instrumental
 
-- lapix - shime (Extended Mix) (3:44) / 160bpm
-- Mitsukiyo - rolling beat (2:31) / 170bpm
-- Laur - PRAGMATISM -RESURRECTION- (2:36) / 174bpm
+| Song | Length | BPM |
+| :-- | :-- | :-- |
+| lapix - shime (Extended Mix) | 3:44 | 160 |
+| Mitsukiyo - rolling beat | 2:31 | 170 |
+| Laur - PRAGMATISM -RESURRECTION- | 2:36 | 174 |
 
 ### Vocal
 
-- fishbowl feat.Yukichi Kasaku/men - Shinkai (3:37) / 133bpm
-- Tokyo Jihen - Sounan (3:20) / 156bpm
-- Kabocha feat. Sennzai - Morphobia (3:54) / 145bpm
+| Song | Length | BPM |
+| :-- | :-- | :-- |
+| fishbowl feat.Yukichi Kasaku/men - Shinkai | 3:37 | 133 |
+| Tokyo Jihen - Sounan | 3:20 | 156 |
+| Kabocha feat. Sennzai - Morphobia | 3:54 | 145 |
 
 ## Ruleset
 

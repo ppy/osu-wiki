@@ -8,7 +8,7 @@ tags:
 
 ![KCC2021 banner](img/banner.png)
 
-The **Korean Charting Contest 2021** (***KCC2021***) is an osu!mania mapping contest for users from ![][flag_KR] South Korea. It was the first installment of the Korean Charting Contest.
+The **Korean Charting Contest 2021** (***KCC2021***) is an osu!mania mapping contest for users from ![][flag_KR] South Korea. It was the first instalment of the Korean Charting Contest.
 
 ## Contest schedule
 
@@ -33,7 +33,7 @@ The **Korean Charting Contest 2021** (***KCC2021***) is an osu!mania mapping con
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) |
+| Organiser | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) |
 | Manager | ![][flag_KR] [Oni Suika](https://osu.ppy.sh/users/4848023) |
 | Designer | ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
 | Judge | ![][flag_PL] [_underjoy](https://osu.ppy.sh/users/6392061), ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783), ![][flag_GT] [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754), ![][flag_KR] [Pengdoll](https://osu.ppy.sh/users/6392061) |
@@ -84,7 +84,7 @@ The **Korean Charting Contest 2021** (***KCC2021***) is an osu!mania mapping con
 - The osu! client must be able to load and read your submission.
 - Submissions must be in the `.osz` format.
 - Custom hitsounds are allowed.
-- Title, Artist, MP3, Source, Tags and Background must NOT be modified. However, the preview point can be customized.
+- Title, Artist, MP3, Source, Tags and Background must NOT be modified. However, the preview point can be customised.
 - Videos, skins, and storyboards are NOT allowed. However, storyboarded hitsounds are allowed.
 - Submission must be 4K ~ 9K.
 - The Auto mod must be able to full combo (1,000,000 score) your submission.
