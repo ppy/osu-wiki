@@ -8,7 +8,7 @@ Cet article explique tout ce que vous devez savoir sur l'utilisation du client d
 
 ![](img/main-menu-FR.jpg?1 "Menu principal")
 
-- \[1\] Le [cookie d'osu!](/wiki/Client/Interface/Cookie). En cliquant dessus, vous ouvrez le menu principal. Il pulse en fonction du [BPM](/wiki/Beatmapping/Beats_par_minute) de la musique et des barres s'étendent autour de lui pour visualiser le spectre audio. Si aucune musique n'est en cours de lecture, il pulse à un rythme lent de 60 BPM.
+- \[1\] Le [cookie d'osu!](/wiki/Client/Interface/Cookie). En cliquant dessus, vous ouvrez le menu principal. Il pulse en fonction du [BPM](/wiki/Beatmapping/Beats_per_minute) de la musique et des barres s'étendent autour de lui pour visualiser le spectre audio. Si aucune musique n'est en cours de lecture, il pulse à un rythme lent de 60 BPM.
 - \[2\] Cliquez sur `Play` (ou appuyez sur `P`) pour jouer à osu! seul ou avec d'autres.
 - \[3\] Cliquez sur `Edit` (ou appuyez sur `E`) pour éditer une [beatmap](/wiki/Beatmap).
 - \[4\] Cliquez sur `Options` (ou appuyez sur `O`) pour ouvrir la [barre latérale des options](/wiki/Client/Options).
