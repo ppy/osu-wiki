@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 8dff6615e53eaa5370c5a9078b365f55f65dccc1
+---
+
 # Bonnes pratiques
 
 Cette page couvre certaines des tâches auxquelles vous pouvez être confronté lors de votre contribution. Les approches mentionnées ici sont destinées à faciliter le processus et peuvent être appliquées à d'autres projets hébergés sur GitHub ou des plateformes similaires.

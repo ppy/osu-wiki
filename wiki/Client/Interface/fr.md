@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
+---
+
 # Interface
 
 ![](img/intro-screen-FR.jpg "Écran d'introduction")
