@@ -1,10 +1,10 @@
 # Liste des skin sets pour les critères de classement
 
-Ce qui suit contient la liste des sets de skins qui peuvent être utiliser dans les skins spécifiques aux utilisateurs et aux beatmaps. Quand vous skinnez un élément dans un skin spécifique à une beatmap, complétez le sets d'éléments qui ont besoin d'être skinnez dans l'ordre pour évitez les conflits entre le skin spécifique à l'utilisateur et le skin spécifique à la beatmap.
+Ce qui suit contient la liste des sets de skins qui peuvent être utilisés dans les skins spécifiques aux utilisateurs et aux beatmaps. Quand vous skinnez un élément de gameplay dans un skin spécifique à une beatmap, les sets d'éléments doivent être skinnés afin d'éviter les conflits entre le skin spécifique à l'utilisateur et le skin spécifique à la beatmap.
 
-Les noms des fichiers qui contiennent `(-n)` peuvent être animé. Par exemple, hitcircleoverlay(-n).png peut être skinnée comme étant une seule image (hitcircleoverlay.png), ou plusieurs images qui seront animé dans une boucle (hitcircleoverlay-0.png, hitcircleoverlay-1.png, hitcircleoverlay-2.png, etc.)
+Les noms des fichiers qui contiennent `(-n)` peuvent être animés. Par exemple, hitcircleoverlay(-n).png peut être skinné comme étant une seule image (hitcircleoverlay.png), ou plusieurs images qui seront animées dans une boucle (hitcircleoverlay-0.png, hitcircleoverlay-1.png, hitcircleoverlay-2.png, etc.)
 
-[Téléchargez le modèle de skins sets](https://assets.ppy.sh/media/wiki/BeatmapSkinTemplate.rar) pour une vue plus simple des tableaux.
+[Téléchargez le modèle de skin sets](https://assets.ppy.sh/media/wiki/BeatmapSkinTemplate.rar) pour une vue plus simple des tableaux.
 
 ## osu!
 
@@ -16,7 +16,7 @@ L'ensemble de ce skin set est pertinent pour le gameplay.
 | --: | :-: | :-: | :-: |
 | cursor.png | doit toujours être inclus avec cursortrail.png | requis | - |
 | cursortrail.png | doit toujours être inclus avec cursor.png | requis | - |
-| cursormiddle.png | doit être facultatif en fonction de la conception du curseur | optionnel | - |
+| cursormiddle.png | facultatif en fonction du curseur | optionnel | - |
 | cursor-smoke.png | - | optionnel | - |
 
 ### Set des hitburst
@@ -36,8 +36,8 @@ L'ensemble de ce skin set est pertinent pour le gameplay.
 | particle50.png | doit être inclus avec toutes les autres particules ; ne fonctionnera que si des hitbursts personnalisés sont inclus. | optionnel | 7x7px |
 | particle100.png | doit être inclus avec toutes les autres particules ; ne fonctionnera que si des hitbursts personnalisés sont inclus. | optionnel | 7x7px |
 | particle300.png | doit être inclus avec toutes les autres particules ; ne fonctionnera que si des hitbursts personnalisés sont inclus. | optionnel | 7x7px |
-| sliderpoint10.png | doit être inclus avec sliderpoint30.png ; ne fonctionnera que si un skin spécifique à l'utilisateur supporte la version 1 du skin | optionnel | - |
-| sliderpoint30.png | doit être inclus avec sliderpoint10.png ; ne fonctionnera que si un skin spécifique à l'utilisateur supporte la version 1 du skin | optionnel | - |
+| sliderpoint10.png | doit être inclus avec sliderpoint30.png ; ne fonctionnera que si le skin spécifique à l'utilisateur prend en charge le Skin V1 | optionnel | - |
+| sliderpoint30.png | doit être inclus avec sliderpoint10.png ; ne fonctionnera que si le skin spécifique à l'utilisateur prend en charge le Skin V1 | optionnel | - |
 
 ### Set des hitcircle
 
@@ -47,13 +47,13 @@ L'ensemble de ce skin set est pertinent pour le gameplay.
 | --: | :-: | :-: | :-: |
 | approachcircle.png | - | requis | 126x126px |
 | followpoint.png | - | requis | - |
-| hitcircle.png | utilisé pour les slidercircles lorsqu'ils ne sont pas skinnés, ne sera pas utilisé pour les slidercircles si un skin spécifique à l'utilisateur les a skinnés. | requis | 118x118px (cercle) 128x128px (tout le ficher) |
-| hitcircleoverlay(-n).png | utilisé pour les slidercircles lorsqu'ils ne sont pas skinnés, ne sera pas utilisé pour les slidercircles si un skin spécifique à l'utilisateur les a skinnés. | requis | 118x118px (cercle) 128x128px (tout le ficher) |
+| hitcircle.png | utilisé pour les slidercircles lorsqu'ils ne sont pas skinnés, ne sera pas utilisé pour les slidercircles si un skin spécifique à l'utilisateur les a skinnés | requis | 118x118px (cercle) 128x128px (tout le ficher) |
+| hitcircleoverlay(-n).png | utilisé pour les slidercircles lorsqu'ils ne sont pas skinnés, ne sera pas utilisé pour les slidercircles si un skin spécifique à l'utilisateur les a skinnés | requis | 118x118px (cercle) 128x128px (tout le ficher) |
 | reversearrow.png | doit être orienté vers la droite | requis | - |
-| sliderendcircle.png | doit toujours être inclus pour éviter tout conflit avec les skins spécifiques à l'utilisateur. | requis | 118x118px (cercle) 128x128px (tout le ficher) |
-| sliderendcircleoverlay(-n).png | doit toujours être inclus pour éviter tout conflit avec les skins spécifiques à l'utilisateur. | requis | 118x118px (cercle) 128x128px (tout le ficher) |
-| sliderstartcircle.png | doit toujours être inclus pour éviter tout conflit avec les skins spécifiques à l'utilisateur. | requis | 118x118px (cercle) 128x128px (tout le ficher) |
-| sliderstartcircleoverlay(-n).png | doit toujours être inclus pour éviter tout conflit avec les skins spécifiques à l'utilisateur. | requis | 118x118px (cercle) / 128x128px (tout le ficher) |
+| sliderendcircle.png | doit toujours être inclus pour éviter tout conflit avec les skins spécifiques à l'utilisateur | requis | 118x118px (cercle) 128x128px (tout le ficher) |
+| sliderendcircleoverlay(-n).png | doit toujours être inclus pour éviter tout conflit avec les skins spécifiques à l'utilisateur | requis | 118x118px (cercle) 128x128px (tout le ficher) |
+| sliderstartcircle.png | doit toujours être inclus pour éviter tout conflit avec les skins spécifiques à l'utilisateur | requis | 118x118px (cercle) 128x128px (tout le ficher) |
+| sliderstartcircleoverlay(-n).png | doit toujours être inclus pour éviter tout conflit avec les skins spécifiques à l'utilisateur | requis | 118x118px (cercle) / 128x128px (tout le ficher) |
 | hitcircleselect.png | seulement vu dans l'éditeur | optionnel | 118x118px (cercle) 128x128px (tout le ficher) |
 
 ### Set des slidertrack
@@ -63,8 +63,8 @@ L'ensemble de ce skin set est pertinent pour le gameplay.
 | Nom du fichier | Notes | Pertinence de l'ajout | Tailles recommandées pour les skins SD |
 | --: | :-: | :-: | :-: |
 | sliderb(n).png | - | requis | 118x118px |
-| sliderb-nd.png | ne doit être utilisé que si le skin par défaut est imposé et qu'aucun sliderb personnalisé n'est utilisé. | optionnel | 118x118px |
-| sliderb-spec.png | ne doit être utilisé que si le skin par défaut est imposé et qu'aucun sliderb personnalisé n'est utilisé. | optionnel | 118x118px |
+| sliderb-nd.png | ne doit être utilisé que si le skin par défaut est imposé et qu'aucun sliderb personnalisé n'est utilisé | optionnel | 118x118px |
+| sliderb-spec.png | ne doit être utilisé que si le skin par défaut est imposé et qu'aucun sliderb personnalisé n'est utilisé | optionnel | 118x118px |
 | sliderfollowcircle(-n).png | - | requis | 256x256px |
 | sliderscorepoint.png | également utilisé dans osu!taiko | requis | - |
 
@@ -90,7 +90,7 @@ Veuillez noter que les tailles recommandées pour tous les éléments de ce jeu 
 
 Tous les éléments, à l'exception de spinner-osu.png et spinner-rpm.png, sont pertinents pour le gameplay. Si vous incluez des éléments tagués "style de base du spinner" dans les notes, vous **ne devez pas** inclure des éléments tagués "nouveau style de spinner".
 
-En effet, le style de spinner de base aura la priorité sur le nouveau style si les deux styles sont présents. Le nouveau style de spinner ne fonctionnera que si le skin spécifique à l'utilisateur n'utilise pas le style de spinner de base et prend en charge les versions de skin 2 ou supérieures, ou si le skin par défaut est forcé dans la beatmap.
+En effet, le style de spinner de base aura la priorité sur le nouveau style si les deux styles sont présents. Le nouveau style de spinner ne fonctionnera que si le skin spécifique à l'utilisateur n'utilise pas le style de spinner de base et prend en charge le Skin V2 ou plus, ou si le skin par défaut est forcé dans la beatmap.
 
 | Nom du fichier | Notes | Pertinence de l'ajout | Tailles recommandées pour les skins SD |
 | --: | :-: | :-: | :-: |
@@ -105,8 +105,8 @@ En effet, le style de spinner de base aura la priorité sur le nouveau style si 
 | spinner-approachcircle.png | utilisé par les deux sets | requis | 384x384px |
 | spinner-clear.png | - | requis | - |
 | spinner-spin.png | - | requis | - |
-| spinner-osu.png | ne fonctionnera que si un skin spécifique à l'utilisateur supporte la version 1 du skin | optionnel | - |
-| spinner-rpm.png | doit être inclus si le set de numéro de score et le set de spinner sont skinnés. | optionnel | 280x56px |
+| spinner-osu.png | ne fonctionnera que si un skin spécifique à l'utilisateur prend en charge le Skin V1 | optionnel | - |
+| spinner-rpm.png | doit être inclus si le set des nombres du score et le set de spinner sont skinnés. | optionnel | 280x56px |
 
 ## osu!taiko
 
@@ -165,15 +165,15 @@ L'ensemble de ce skin set est pertinent pour le gameplay.
 | fruit-orange-overlay.png | - | requis | 128x128px |
 | fruit-pear.png | - | requis | 128x128px |
 | fruit-pear-overlay.png | - | requis | 128x128px |
-| fruit-bananas.png | doit être conçu différemment des autres fruits | requis | 128x128px |
-| fruit-bananas-overlay.png | doit être conçu différemment des autres fruits | requis | 128x128px |
+| fruit-bananas.png | doit avoir une apparence différente des autres fruits | requis | 128x128px |
+| fruit-bananas-overlay.png | doit avoir une apparence différente des autres fruits | requis | 128x128px |
 | fruit-drop.png | - | requis | 82x103px |
-| fruit-drop-overlay.png | doit être inclus pour garantir un affichage correct lorsqu'un skin spécifique à l'utilisateur l'a skinnée car le skin par défaut utilise une image transparente pour ce fichier | requis | 82x103px |
+| fruit-drop-overlay.png | doit être inclus pour garantir un affichage correct lorsqu'un skin spécifique à l'utilisateur l'a skinné car le skin par défaut utilise une image transparente pour ce fichier | requis | 82x103px |
 
 ### Set du catcher
 
 Tous les éléments autres que lightning.png sont pertinents pour le gameplay.
-Pour le catcher, la plaque doit être parfaitement centrée et avoir une largeur de 302px exactement. Bien que la plaque du skin par défaut ne soit pas centrée, elle peut être utilisée dans les skins spécifiques aux beatmaps.
+Pour le catcher, l'assiette doit être parfaitement centrée et avoir une largeur de 302px exactement. Bien que l'assiette du skin par défaut ne soit pas centrée, elle peut être utilisée dans les skins spécifiques aux beatmaps.
 
 | Nom du fichier | Notes | Pertinence de l'ajout | Tailles recommandées pour les skins SD |
 | --: | :-: | :-: | :-: |
@@ -199,7 +199,7 @@ L'ensemble de ce skin set est pertinent pour le gameplay. Veuillez noter que les
 
 ### Set des nombres du score
 
-L'ensemble de ce skin set est pertinent pour le gameplay. Les overlaps ou les écarts entre les chiffres eux-mêmes sont définis par le skin spécifique de l'utilisateur et ne peuvent pas être influencés dans la beatmap elle-même.
+L'ensemble de ce skin set est pertinent pour le gameplay. Les overlaps ou les écarts entre les chiffres eux-mêmes sont définis par le skin spécifique à l'utilisateur et ne peuvent pas être influencés dans la beatmap elle-même.
 
 | Nom du fichier | Notes | Pertinence de l'ajout | Tailles recommandées pour les skins SD |
 | --: | :-: | :-: | :-: |
@@ -273,8 +273,8 @@ L'ensemble de ce skin set n'est pas pertinent pour le gameplay.
 
 | Nom du fichier | Notes | Pertinence de l'ajout | Tailles recommandées pour les skins SD |
 | --: | :-: | :-: | :-: |
-| inputoverlay-background.png | ne doit pas être skinnée dans les beatmaps sans difficultés osu! ou osu!catch | requis | 193x55px |
-| inputoverlay-key.png | ne doit pas être skinnée dans les beatmaps sans difficultés osu! ou osu!catch | requis | max : 46x46px |
+| inputoverlay-background.png | ne doit pas être skinné dans les beatmaps sans difficultés osu! ou osu!catch | requis | 193x55px |
+| inputoverlay-key.png | ne doit pas être skinné dans les beatmaps sans difficultés osu! ou osu!catch | requis | max : 46x46px |
 
 ### Set des nombres dans le classement
 
@@ -297,7 +297,7 @@ L'ensemble de ce skin set n'est pas pertinent pour le gameplay.
 
 ### Set du compte à rebours
 
-L'ensemble de ce skin set est pertinent pour le gameplay. Ce skin set ne doit pas être skinnée si la beatmap n'utilise pas de compte à rebours.
+L'ensemble de ce skin set est pertinent pour le gameplay. Ce skin set ne doit pas être skinné si la beatmap n'utilise pas de compte à rebours.
 
 | Nom du fichier | Notes | Pertinence de l'ajout | Tailles recommandées pour les skins SD |
 | --: | :-: | :-: | :-: |
@@ -309,7 +309,7 @@ L'ensemble de ce skin set est pertinent pour le gameplay. Ce skin set ne doit pa
 
 ### Set d'indication des sections
 
-L'ensemble de ce skin set n'est pas pertinent pour le gameplay. Ce skin set ne doit pas être skinnée si la beatmap ne contient pas de pause suffisamment longue pour que les indicateurs de section apparaissent.
+L'ensemble de ce skin set n'est pas pertinent pour le gameplay. Ce skin set ne doit pas être skinné si la beatmap ne contient pas de pause suffisamment longue pour que les indicateurs de section apparaissent.
 
 | Nom du fichier | Notes | Pertinence de l'ajout | Tailles recommandées pour les skins SD |
 | --: | :-: | :-: | :-: |
@@ -318,7 +318,7 @@ L'ensemble de ce skin set n'est pas pertinent pour le gameplay. Ce skin set ne d
 
 ### Set d'indication des grades
 
-L'ensemble de ce skin set n'est pas pertinent pour le gameplay. Ce skin set ne doit pas être skinnée si la beatmap ne contient pas une pause suffisamment longue pour que les indicateurs de grades apparaissent.
+L'ensemble de ce skin set n'est pas pertinent pour le gameplay. Ce skin set ne doit pas être skinné si la beatmap ne contient pas une pause suffisamment longue pour que les indicateurs de grades apparaissent.
 
 | Nom du fichier | Notes | Pertinence de l'ajout | Tailles recommandées pour les skins SD |
 | --: | :-: | :-: | :-: |
@@ -338,5 +338,5 @@ L'ensemble de ce skin set n'est pas pertinent pour le gameplay. Ce skin set ne d
 | pause-back.png | - | requis | - |
 | pause-continue.png | - | requis | - |
 | pause-retry.png | - | requis | - |
-| fail-background.png | si un arrière-plan est skinnée, l'autre doit l'être aussi, il est mis à l'échelle pour s'adapter à l'écran du joueur. | optionnel | max : 1920x1200px |
-| pause-overlay.png | si un arrière plan est skinnée, l'autre doit l'être aussi. | optionnel | 1366x768px |
+| fail-background.png | si un arrière-plan est skinné, l'autre doit l'être aussi, il est mis à l'échelle pour s'adapter à l'écran du joueur. | optionnel | max : 1920x1200px |
+| pause-overlay.png | si un arrière plan est skinné, l'autre doit l'être aussi. | optionnel | 1366x768px |
