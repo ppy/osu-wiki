@@ -28,19 +28,19 @@ Try the maps from the video above for yourself:
 - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1582048) hosted by [Cookie_Tree](https://osu.ppy.sh/users/502722)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/237/The%20Winter%20Way/Atavistia%20-%20Through%20The%20Hollow%20Raven%27s%20Eyes.mp3" type="audio/mpeg">
 </audio>
 
 ### The Winter Way
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/237/The%20Winter%20Way/Atavistia%20-%20The%20Winter%20Way.mp3" type="audio/mpeg">
 </audio>
 
 ### One Within The Sun
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/237/One%20Within%20The%20Sun/Atavistia%20-%20One%20Within%20The%20Sun.mp3" type="audio/mpeg">
 </audio>
 
 ---
