@@ -37,10 +37,10 @@ Diese Dateien sind extrem praktisch und können sogar das Lösen komplexer Probl
 Wenn ein Mitglied des Supportteams dich nach diesen Logs gefragt hat, dann mache Folgendes:
 
 1. Öffne osu!.
-2. Klicke den `Optionen`-Knopf im Hauptmenü oder drücke `Strg` + `O`.
+2. Klicke den Button `Optionen` im Hauptmenü oder drücke `Strg` + `O`.
 3. Tippe `Updatequelle` in die Schnellsuchleiste. Das wird dich zu der aktuellen Updatequelle deines Clients bringen.
 4. Versichere dich, dass es auf `Cutting Edge (Experimentell)` eingestellt ist.
-5. Klicke den Knopf zum Neustarten, der unten auf dem Bildschirm erscheint, sobald du die Updatequelle änderst.
+5. Klicke den Button zum Neustarten, der unten auf dem Bildschirm erscheint, sobald du die Updatequelle änderst.
 6. Gehe nochmal zum `Optionen`-Menü und klicke `osu!-Ordner öffnen`.
 7. Finde das `Logs`-Verzeichnis in dem Fenster, welches sich öffnet.
 8. Wähle die benötigte Log-Datei (der Support-Ansprechpartner wird dir sagen, welche) und hänge sie an das Support-Ticket oder den Forumsbeitrag an.

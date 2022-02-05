@@ -52,7 +52,7 @@ Es gibt zwei Arten, Beatmaps zu installieren: Über die Webseite oder durch osu!
 
 *Hinweis: Hierzu benötigt man ein osu!supporter-Tag und eine aktive Internetverbindung.*
 
-1. Öffne osu! und klicke den osu!direct-Knopf auf der rechten Seite des Hauptbilschirms.
+1. Öffne osu! und klicke den osu!direct-Button auf der rechten Seite des Hauptbilschirms.
 2. Such' dir ein Lied aus, das du gerne spielen würdest.
 3. Klicke zum Herunterladen doppelt auf das Lied in der Liste, oder klicke `Download` auf der rechten Seite.
    - Wenn du das Hintergrundvideo nicht herunterladen willst, klicke stattdessen auf `DL NoVideo`.

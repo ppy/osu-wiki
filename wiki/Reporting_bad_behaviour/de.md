@@ -38,69 +38,69 @@ Wenn sich Leerzeichen im Benutzernamen befinden, ersetze diese mit Unterstrichen
 
 ### Spiel-Overlay
 
-![](img/report-user-1.png "Benutzeraktion mit dem Report-Knopf")
+![](img/report-user-1.png "Benutzeraktion mit dem Report-Button")
 
 ![](img/report-user-2.png "Meldedialog im Spiel")
 
 Diese Option funktioniert, wenn der schlechte Benutzer sichtbar ist:
 
-1. Klicke seinen Benutzernamen und drücke den roten Knopf auf dem steht `Report User...`
+1. Klicke seinen Benutzernamen und drücke den roten Button auf dem steht `Report User...`
 2. Wähle die Kategorie und füge Details hinzu (optional).
 
 ## Webseite
 
 ### Profilseite
 
-![](img/report-user-profile.png "Der Meldeknopf auf einer Profilseite")
+![](img/report-user-profile.png "Der Meldebutton auf einer Profilseite")
 
 ![](img/report-user-web.png "Meldedialog auf der Webseite")
 
-1. Drücke den Knopf mit den drei vertikalen Punkten und wähle `Report`.
+1. Drücke den Button mit den drei vertikalen Punkten und wähle `Report`.
 2. Wähle die Kategorie und füge Details hinzu (optional).
 
 ### Forum
 
-![](img/report-user-forum.png "Der Meldeknopf in einem Forumbeitrag")
+![](img/report-user-forum.png "Der Meldebutton in einem Forumbeitrag")
 
 1. Fahre mit der Maus über den Beitrag.
-2. Drücke in einer Reihe an Knöpfen, die in der rechten oberen Ecke des Beitrags erscheinen, auf den Knopf mit einem Warnsymbol.
+2. Drücke in einer Reihe an Knöpfen, die in der rechten oberen Ecke des Beitrags erscheinen, auf den Button mit einem Warnsymbol.
 3. Wähle die Kategorie und füge Details hinzu (optional).
 
 ### Kommentarsektion
 
-![](img/report-user-comment.png "Der Meldeknopf in einem Kommentar auf der Webseite")
+![](img/report-user-comment.png "Der Meldebutton in einem Kommentar auf der Webseite")
 
 1. Klicke auf den `Report`-Link.
 2. Wähle die Kategorie und füge Details hinzu (optional).
 
 ### Beatmap
 
-![](img/report-beatmap.png "Der Meldeknopf auf einer Beatmapseite")
+![](img/report-beatmap.png "Der Meldebutton auf einer Beatmapseite")
 
 1. Drücke die drei vertikalen Punkte und wähle `Report`.
 2. Wähle die Kategorie und füge Details hinzu (optional).
 
 ### Beatmap-Diskussion
 
-![](img/report-user-discussion.png "Der Meldeknopf in einem Diskussionsbeitrag")
+![](img/report-user-discussion.png "Der Meldebutton in einem Diskussionsbeitrag")
 
 1. Klicke den `Report`-Link unter dem Diskussionsbeitrag.
 2. Wähle die Kategorie und füge Details hinzu (optional).
 
 ### Scoreliste
 
-![](img/report-score-user.png "Der Meldeknopf an einem Top-Score auf einer Benutzerprofilseite")
+![](img/report-score-user.png "Der Meldebutton an einem Top-Score auf einer Benutzerprofilseite")
 
 #### Benutzerprofil
 
 1. Scrolle zu der `Ranks`-Sektion oder `Historical` für aktuelle Plays und gehe auf den Score.
-2. Drücke den Knopf mit den drei vertikalen Punkten auf der rechten Seite des Scores und wähle `Report Score`.
+2. Drücke den Button mit den drei vertikalen Punkten auf der rechten Seite des Scores und wähle `Report Score`.
 3. Wähle die Kategorie und füge Details hinzu (optional).
 
 #### Beatmap-Scoreliste
 
-![](img/report-score-beatmap.png "Der Meldeknopf an einem Top-Score in einer Beatmap-Scoreliste")
+![](img/report-score-beatmap.png "Der Meldebutton an einem Top-Score in einer Beatmap-Scoreliste")
 
 1. Fahre mit der Maus über den Score.
-2. Drücke den Knopf mit den drei vertikalen Punkten auf der rechten Seite des Scores und wähle `Report Score`.
+2. Drücke den Button mit den drei vertikalen Punkten auf der rechten Seite des Scores und wähle `Report Score`.
 3. Wähle die Kategorie und füge Details hinzu (optional).
