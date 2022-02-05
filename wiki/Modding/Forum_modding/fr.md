@@ -87,7 +87,7 @@ Bien que cela ne soit pas obligatoire, les mappeurs étaient censés répondre �
 Si un mod post était jugé utile, le mappeur ou un membre de la QAT/BAT/BN pouvait lui attribuer un kudosu. Selon une règle non écrite, seul le premier mod post d'un utilisateur pouvait être récompensé par un kudosu. Quel que soit le nombre de suggestions contenues dans un message ou son utilité pour le mappeur, le nombre de kudosu reçus était constant :
 
 - 1 kudosu, dans la plupart des circonstances.
-- 2 kudosu, au cas où le fil de discussion de la beatmap serait resté inactif pendant plus d'une semaine. Ceci était censé promouvoir le modding sur les anciennes cartes.
+- 2 kudosu, au cas où le fil de discussion de la beatmap serait resté inactif pendant plus d'une semaine. Ceci était censé promouvoir le modding sur les anciennes beatmap.
 
 Les kudosu servaient de mesure de l'activité des moddeurs. La plupart des utilisateurs dépensaient les kudosu accumulés pour augmenter la [star priority](/wiki/Modding/Star_priority) des beatmaps qu'ils aimaient ou qu'ils voulaient promouvoir.
 

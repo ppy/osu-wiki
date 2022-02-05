@@ -4,7 +4,7 @@ La **Charge du SB** (abréviation de storyboard load) est un nombre utilisé dan
 
 Sans storyboarding, cette valeur est de 1x (car l'espace de 640x480 doit être dessiné une fois). Si l'on inclut une seule image qui occupe exactement la moitié de l'écran, on obtient 1,5x ; si l'on inclut deux images qui se chevauchent entièrement et occupent la moitié de l'écran, on obtient 2x.
 
-Il est préférable qu'une carte ne dépasse jamais 5x de charge SB. Cela permet de s'assurer que la beatmap est visible pour la plupart des joueurs sans causer de stress excessif sur le matériel graphique.
+Il est préférable qu'une beatmap ne dépasse jamais 5x de charge SB. Cela permet de s'assurer que la beatmap est visible pour la plupart des joueurs sans causer de stress excessif sur le matériel graphique.
 
 [Message original du forum](https://osu.ppy.sh/community/forums/posts/525077)
 

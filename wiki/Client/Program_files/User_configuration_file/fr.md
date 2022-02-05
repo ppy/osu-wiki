@@ -206,7 +206,7 @@ Vous trouverez d'autres options de mise en page osu!mania dans le fichier [skin.
 | `DistanceSpacing` | Décimale | Dernier multiplicateur distance snap utilisé |
 | `DistanceSpacingEnabled` | 0 ou 1 | Si distance snap est activé ou non |
 | `NotifySubmittedThread` | 0 ou 1 | Vérifie automatiquement l'option `Recevoir une notification par e-mail en cas de réponse` lors de la soumission d'une beatmap via BSS. |
-| `LoadSubmittedThread` | 0 ou 1 | Vérifie automatiquement l'option `Chargement dans le navigateur après soumission` lors de la soumission d'une carte via BSS. |
+| `LoadSubmittedThread` | 0 ou 1 | Vérifie automatiquement l'option `Chargement dans le navigateur après soumission` lors de la soumission d'une beatmap via BSS. |
 
 ### Menu principal
 

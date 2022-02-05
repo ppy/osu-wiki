@@ -4,7 +4,7 @@
 
 **AiMod** est un outil intégré à l'[éditeur de beatmap](/wiki/Client/Beatmap_editor) qui détecte les problèmes dans une [beatmap](/wiki/Beatmap). Il peut être ouvert via l'option de menu `Fichier` > `Ouvrir AiMod` ou les [raccourcis clavier](/wiki/Client/Keyboard_shortcuts) `Ctrl` + `Shift` + `A`.
 
-Si AiMod peut être utile pour détecter les problèmes de base d'une carte, il ne remplace pas le [modding](/wiki/Modding) réalisé par de vraies personnes. AiMod ne peut pas évaluer la qualité d'une carte ou détecter des problèmes complexes tels qu'un mauvais [patterning](/wiki/Beatmap/Pattern) ou [timing](/wiki/Guides/How_to_Time_Songs). Lorsque vous [créez une beatmap](/wiki/Beatmapping), il est recommandé de corriger d'abord les avertissements d'AiMod, puis de demander l'aide d'autres [moddeurs](/wiki/Modding/Modder).
+Si AiMod peut être utile pour détecter les problèmes de base d'une beatmap, il ne remplace pas le [modding](/wiki/Modding) réalisé par de vraies personnes. AiMod ne peut pas évaluer la qualité d'une beatmap ou détecter des problèmes complexes tels qu'un mauvais [patterning](/wiki/Beatmap/Pattern) ou [timing](/wiki/Guides/How_to_Time_Songs). Lorsque vous [créez une beatmap](/wiki/Beatmapping), il est recommandé de corriger d'abord les avertissements d'AiMod, puis de demander l'aide d'autres [moddeurs](/wiki/Modding/Modder).
 
 Le développement d'AiMod est généralement en retard par rapport aux normes de la communauté de mapping et aux [critères de classement](/wiki/Ranking_Criteria), et par conséquent, [certains de ses résultats sont considérés comme incorrects](#défauts).
 
@@ -50,7 +50,7 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 | Ce spinner et l'objet suivant ne sont pas assez espacés. | Des objets apparaissent lorsque le spinner est actif. Cela peut être dû au fait que l'AR est faible et/ou que les objets sont placés trop près (dans le temps) du spinner. | Modifiez la longueur du spinner et/ou retirez les objets suivants |
 | Cette note dure moins de 10 ms ! | beatmaps osu!mania uniquement ! Cela obligera le joueur à appuyer et relâcher la touche à un rythme très rapide, rendant votre beatmap impossible à SS. | Augmenter la longueur de la hold note ou supprimez-la |
 | Cet objet chevauche un autre objet. | beatmaps osu!mania uniquement ! | Supprimez l'un des objets qui se chevauchent. |
-| Cet objet est placé par-dessus un autre objet. | beatmaps osu!mania uniquement Les keys et/ou les hold notes spécifiées sont superposées. Cela rendra votre carte impossible à obtenir un SS ! | Trouvez la key ou la hold note et corrigez-la ou supprimez-la. |
+| Cet objet est placé par-dessus un autre objet. | beatmaps osu!mania uniquement Les keys et/ou les hold notes spécifiées sont superposées. Cela rendra votre beatmap impossible à obtenir un SS ! | Trouvez la key ou la hold note et corrigez-la ou supprimez-la. |
 | Il est interdit de placer plus de 6 notes simultanément. | beatmaps osu!mania uniquement La plupart des claviers permettent de presser jusqu'à 6 touches à la fois. | Vérifiez votre beatmap pour vous assurer que chaque colonne a au maximum 6 notes pressés. |
 
 #### Design

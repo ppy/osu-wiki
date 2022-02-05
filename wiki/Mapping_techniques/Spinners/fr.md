@@ -18,7 +18,7 @@ Cet objet donne le *battement* tandis que le spinner fournit la résolution de c
 Le spinner suit généralement 1/2, 1/3/ 1/4 ou 1/6 de temps après pour ne pas paraître disjoint de l'objet.
 
 Des beatmaps antérieures peuvent chevaucher ces objets et le spinner.
-**Cependant, si vous les chevauchez, votre carte ne sera pas classée !**
+**Cependant, si vous les chevauchez, votre beatmap ne sera pas classée !**
 
 ## Variation du spinner
 

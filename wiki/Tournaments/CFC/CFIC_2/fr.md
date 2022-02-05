@@ -341,7 +341,7 @@ Dimanche, 23 Février 2020:
 2. Les joueurs lanceront un `!roll` au début du match pour déterminer l'ordre des choix.
 3. Les joueurs seront forcés de prendre un mod sur un pick FreeMod.
 4. Les joueurs ne pourront pas ban plus d'une beatmap dans un mod.
-5. Un joueur ne peut pas choisir deux cartes du même mod à la suite.
+5. Un joueur ne peut pas choisir deux beatmap du même mod à la suite.
 6. Le Hidden sera autorisé pour accompagner du Hard Rock ou du Double Time.
 7. Le Tiebreaker est joué en FreeMod.
 

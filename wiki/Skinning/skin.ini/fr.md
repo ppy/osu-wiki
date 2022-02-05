@@ -351,7 +351,7 @@ osu! organise les commandes avec une commande d'en-tête. Qui peut ressembler à
   - Par défaut : *utiliser la couleur combinée actuelle*
   - Notes :
     - Ceci est pour [osu!](/wiki/Game_mode/osu!) uniquement.
-    - En utilisant cette option, toutes les couleurs des pistes des sliders seront identiques.
+    - En utilisant cette option, toutes les couleurs des chemins des sliders seront identiques.
 - `SongSelectActiveText:`
   - Question : De quelle couleur doit être teinté le texte du panneau actif ?
   - Valeur : *RGB*

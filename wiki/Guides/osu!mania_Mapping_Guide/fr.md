@@ -18,7 +18,7 @@ Comme indiqué, l'éditeur permet un nombre personnalisable de colonnes. Pour de
 
 **1. Zone de mapping** : C'est ici que vous placez vos objets.
 
-**2. Graphique de densité** : Il s'agit de la densité des parties individuelles dans la carte. Les barres *rose* indiquent que la densité est trop élevée pour être affichée.
+**2. Graphique de densité** : Il s'agit de la densité des parties individuelles dans la beatmap. Les barres *rose* indiquent que la densité est trop élevée pour être affichée.
 
 **3 & 4. Notes et hold** : Ces options peuvent être modifiées en cliquant. Les **Notes** sont placées en cliquant, les **Hold Notes** *(également connues sous le nom de Long Notes)* peuvent être créées en cliquant et en faisant glisser.
 
@@ -93,7 +93,7 @@ Très bien ! Faisons glisser le `.mp3` de la musique que nous voulons mapper dan
 | Nom | Description |
 | :-- | :-- |
 | Stacking : | Cette option n'a pas d'effet pour osu!mania donc pas besoin de changer quoi que ce soit ici. |
-| Allowed Modes : | Avec cette option, vous changez le mode de l'éditeur à celui que vous voulez utiliser pour votre carte. Ce guide est consacré à l'osu!mania, nous utilisons donc "osu!mania" bien sûr. Si vous choisissez "All", votre éditeur sera réglé sur osu!mania. **Si vous changez cette option alors que vous êtes dans une beatmap osu!mania existante, celle-ci sera écrasée**. |
+| Allowed Modes : | Avec cette option, vous changez le mode de l'éditeur à celui que vous voulez utiliser pour votre beatmap. Ce guide est consacré à l'osu!mania, nous utilisons donc "osu!mania" bien sûr. Si vous choisissez "All", votre éditeur sera réglé sur osu!mania. **Si vous changez cette option alors que vous êtes dans une beatmap osu!mania existante, celle-ci sera écrasée**. |
 | Use special Style (N+1 style) for osu!mania : | Si vous mappez dans un keymode qui utilise une touche spéciale (5K et 8K), vous pouvez activer ce point. Cela permet au joueur d'échanger la **colonne spéciale** à sa gauche ou à sa droite selon ses réglages. Connue dans "BMS" sous le nom de "Scratch Column", elle est couramment utilisée dans 7+1K (8K) osu!mania. Le mapping en 7+1K est similaire au mapping d'une beatmap 7K, mais une **colonne spéciale** supplémentaire est générée à la discrétion du mappeur. |
 
 L'option **Colours** n'est pas utilisée dans osu!mania donc nous n'avons pas besoin de changer quoi que ce soit ici.
@@ -346,7 +346,7 @@ Bien sûr, vous n'êtes pas obligé de suivre le pitch dans votre beatmap, mais 
 
 Le Slider Velocity agit un peu différemment dans osu!mania ; il modifie la vitesse à laquelle les notes défilent vers le bas. Plus le Slider Velocity est élevé, plus les notes descendent vite, et plus il est faible, plus les notes descendent lentement.
 
-Ceci est principalement utilisé pour mettre l'accent sur des parties spécifiques des beatmaps ! Par exemple, lorsque la musique devient calme et plus lente, vous pouvez utiliser un slider velocity faible, pour que la beatmap corresponde à l'humeur de la musique. Mais quand la musique a quelques breaks courts et rapides, vous pouvez utiliser une vitesse plus élevée pour rendre la carte plus excitante, de cette façon, elle s'adapte encore mieux à la musique !
+Ceci est principalement utilisé pour mettre l'accent sur des parties spécifiques des beatmaps ! Par exemple, lorsque la musique devient calme et plus lente, vous pouvez utiliser un slider velocity faible, pour que la beatmap corresponde à l'humeur de la musique. Mais quand la musique a quelques breaks courts et rapides, vous pouvez utiliser une vitesse plus élevée pour rendre la beatmap plus excitante, de cette façon, elle s'adapte encore mieux à la musique !
 
 Vous devez également ajouter les changements de SV à votre beatmap lorsque votre musique comporte plusieurs changements de BPM. Par exemple : Si votre musique passe de 150 à 200 BPM, la vitesse de défilement de vos notes va également augmenter ! Pour éviter cela, nous devons ajouter un point SV au changement de BPM pour ajuster la vitesse de défilement au BPM moyen.
 

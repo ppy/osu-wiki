@@ -30,9 +30,9 @@ Il est généralement bon d'avoir des parties dans lesquelles vous et la ou les 
 - Peu importe qui commence à mapper, il est beaucoup plus facile d'aller du début à la fin plutôt que de mapper toutes les parties à la fois. De cette façon, il est beaucoup plus facile d'être fluide et de mieux jouer.
 - N'oubliez pas de faire des pauses. **La plupart des gens l'oublient.**
 
-## Paramètres de la carte
+## Paramètres de la beatmap
 
-Si vous ne pouvez pas vous mettre d'accord sur les paramètres de la carte... cela va être préjudiciable.
+Si vous ne pouvez pas vous mettre d'accord sur les paramètres de la beatmap... cela va être préjudiciable.
 
 - Je suis d'accord pour un Slider Velocity. C'était un grand tueur pour Last Time Travel et Gonna Be Here.
 - Je suis d'accord sur le snapping à distance et l'espacement en général. Regardez [Be Your Wings](https://osu.ppy.sh/beatmapsets/8518).
