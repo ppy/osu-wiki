@@ -453,7 +453,7 @@ pippi wird mit einem kleinen "p" wie peppy geschrieben.
 Drücke `Strg` + `O`, um den Dialog zu öffnen.
 ```
 
-Wenn ein Leerzeichen oder die Leertaste repräsentiert werden soll, benutze `` `Leerzeichen` ``.
+Wenn ein Leerzeichen oder die Leertaste repräsentiert werden soll, benutze `` `Leertaste` ``.
 
 ### Button- oder Menütext
 
