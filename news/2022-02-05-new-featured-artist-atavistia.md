@@ -8,7 +8,7 @@ Traverse unknown territory with our latest Featured Artist **Atavistia**!
 
 ![](https://assets.ppy.sh/artists/237/header.jpg)
 
-The musical equivalent of a divine raging tempest, **Atavistia** is a relatively new symphonic death metal group based out of Vancouver, Canada. The band has drawn inspiration from grandiose metal units like *Wintersun* and *Ensiferum*, lending to the classical Nordic sound that metalheads know too well.
+The musical equivalent of a divine raging tempest, **Atavistia** is a relatively new symphonic death metal group based out of Vancouver, Canada. The band has drawn inspiration from grandiose metal units like *Wintersun* and *Ensiferum*, lending to the classical Nordic sound that metalheads know all too well.
 
 Split between their two major album releases, **6** epic marathon-length tracks are available in this bundle from [**Atavistia**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/237)!
 
