@@ -51,7 +51,7 @@ Wenn ein Mitglied des Supportteams dich nach diesen Logs gefragt hat, dann mache
 
 Wenn du Probleme mit osu!-Abstürzen hast und osu! dir keine Absturzprotokolle zur Verfügung stellt, dann kannst du sie nur durch die Ereignisanzeige finden.
 
-Wenn ein Mitglied des Supportteams dich fragt, nach Aubsturzprotokollen in der Ereignisanzeige zu suchen, dann mache Folgendes:
+Wenn ein Mitglied des Supportteams dich fragt, nach Absturzprotokollen in der Ereignisanzeige zu suchen, dann mache Folgendes:
 
 1. Nachdem osu! abgestürzt ist, drücke `Win` + `R`, um die Ausführen-Box zu öffnen.
 2. Tippe in der Ausführen-Box `eventvwr` ein und drücke `Enter`. Das wird die Ereignisanzeige starten.

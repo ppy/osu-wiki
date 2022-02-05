@@ -21,7 +21,7 @@ Für alles andere, siehe die Anweisungen weiter unten.
 
 ![](img/report-command.jpg "Beispiel von der Benutzung des !report-Befehls")
 
-Fehlverhalten im Chat ist der häufigste Verstoß. Um das zu melden, benutze den [`!report`](https://osu.ppy.sh/community/forums/topics/34843) Befehl, vorzugsweise in dem Channel, in dem der Verstöß stattfand. Fühle dich nicht unter Druck gesetzt: wenn deine Nachricht mit `!report` und einem Leerzeichen beginnt, **dann ist es nur für Moderatoren sichtbar** und niemanden sonst im Chat. Du kannst auch die Meldefunktion via dem [Spiel-Overlay](#in-game-overlay) wie unten beschrieben nutzen, wenn du immer noch Bedenken hast.
+Fehlverhalten im Chat ist der häufigste Verstoß. Um das zu melden, benutze den [`!report`](https://osu.ppy.sh/community/forums/topics/34843) Befehl, vorzugsweise in dem Channel, in dem der Verstoß stattfand. Fühle dich nicht unter Druck gesetzt: wenn deine Nachricht mit `!report` und einem Leerzeichen beginnt, **dann ist es nur für Moderatoren sichtbar** und niemanden sonst im Chat. Du kannst auch die Meldefunktion via dem [Spiel-Overlay](#in-game-overlay) wie unten beschrieben nutzen, wenn du immer noch Bedenken hast.
 
 Die Befehlssyntax hat zwei Formen:
 
@@ -60,7 +60,7 @@ Diese Option funktioniert, wenn der schlechte Benutzer sichtbar ist:
 
 ### Forum
 
-![](img/report-user-forum.png "Der Meldebutton in einem Forumbeitrag")
+![](img/report-user-forum.png "Der Meldebutton in einem Forumsbeitrag")
 
 1. Fahre mit der Maus über den Beitrag.
 2. Drücke in einer Reihe an Knöpfen, die in der rechten oberen Ecke des Beitrags erscheinen, auf den Button mit einem Warnsymbol.
