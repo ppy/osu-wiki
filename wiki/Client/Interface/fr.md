@@ -120,7 +120,7 @@ Ces options organisent les beatmaps en divers groupes extensibles :
 | `Par note reçue` | Les beatmaps seront classés en fonction du [grade](/wiki/Gameplay/Grade) le plus élevé. |
 | `Par titre` | Les beatmaps seront regroupés par le premier caractère du titre. |
 | `Collections` | Vous verrez alors apparaître les collections que vous avez créées. *Notez que ceci cachera les beatmaps qui ne sont pas listées dans une collection !* |
-| `Favoris` | Seuls les beatmaps que vous avez mis en favoris sur le site seront affichés. 
+| `Favoris` | Seuls les beatmaps que vous avez mis en favoris sur le site seront affichés. |
 | `Mes beatmaps` | Seuls les beatmaps que vous avez mappés (c'est-à-dire dont le créateur correspond au nom de votre profil) seront affichés. |
 | `Statuts en ligne` | Les beatmaps seront regroupés selon leur statut : classée, en attente, non soumis, inconnu ou loved. |
 | `Maps récemment jou` | Les beatmaps seront regroupés selon la date à laquelle vous les avez joués pour la dernière fois. |
