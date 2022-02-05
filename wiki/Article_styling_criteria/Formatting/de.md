@@ -40,7 +40,7 @@ Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:
 | `zh.md` | Chinesisch (Vereinfacht) | 简体中文 |
 | `zh-tw.md` | Traditionelles Chinesisch (Taiwan) | 繁體中文（台灣） |
 
-*Hinweis: Die Webseite wird für einen Artikel die ausgewählte Sprache des Lesers wählen. Sollte der Artikel in dieser Sprache nicht verfügbar sein, wird die englische Version angezeigt.*
+*Tipp: Die Webseite wird für einen Artikel die ausgewählte Sprache des Lesers wählen. Sollte der Artikel in dieser Sprache nicht verfügbar sein, wird die englische Version angezeigt.*
 
 ### Inhaltsparität
 
