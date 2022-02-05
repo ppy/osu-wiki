@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: a30458a6fd0ee0828435bf8e7d00751806149b65
----
-
 # Schrift
 
 *Für die Formatierungsstandards, siehe: [Artikelgestaltungskriterien/Formatierung](../Formatting)*
@@ -286,6 +281,18 @@ Artikel sollten einfache deutsche Grammatik verwenden.
 ### Semikolon
 
 [Artikel mit informellen Registern](#sprachregister) sollten Semikolons (`;`) nicht verwenden.
+
+### Geviertstrich
+
+Geviertstriche (`—`) sollten nur sparsam verwendet werden. Bindestriche können ebenfalls verwendet werden, müssen aber Leerzeichen vorne und hinten haben.
+
+### Blockzitate
+
+Verweis auf [Wikipedias Artikel zum Format für Zitate](https://de.wikipedia.org/wiki/Wikipedia:Zitate#Beispiele).
+
+Füge abschließende Satzzeichen nur dann in die Anführungszeichen ein, wenn sie im Originaltext vorhanden waren und setze sie andernfalls nach dem schließenden Anführungszeichen. In den meisten Fällen bedeutet dies, dass Punkt und Komma genauso behandelt werden wie Fragezeichen: Sie stehen innerhalb der Anführungszeichen, wenn sie sich nur auf das zitierte Material beziehen, und außerhalb, wenn sie sich auf den gesamten Satz beziehen.
+
+Im weiteren Sinne sollten [Betonungen](/wiki/Article_styling_criteria/Formatting#betonung), [Links](/wiki/Article_styling_criteria/Formatting#links) und Klammern denselben Regeln bezogen auf die Zeichensetzung folgen (also, ob sie einen ganzen Satz oder nur einen Teil davon miteinbeziehen).
 
 ## Aussprache
 

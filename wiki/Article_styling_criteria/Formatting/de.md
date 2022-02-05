@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 47aa245123d41ef6421aaec3ecddaef4b312ae70
----
-
 # Formatierung
 
 *Für die Schriftstandards, siehe: [Artikelgestaltungskriterien/Schrift](../Writing)*
@@ -230,9 +225,9 @@ Kopfnoten mit *Siehe auch* empfehlen dem Leser andere interessante Artikel oder 
 Kopfnoten *Für siehe* sind den *Siehe auch*-Kopfnoten ähnlich, aber im Allgemeinen beschreibender und direkter. Diese Kopfnoten dürfen mehrere Links enthalten, falls erforderlich. Sie müssen wie folgt geschrieben werden:
 
 ```markdown
-*Für {Beschreibung}, siehe: {Artikel}`*
+*Für {Beschreibung}, siehe: {Artikel}*
 
-*Für {Beschreibung}, siehe: {Artikel} und {Artikel}`*
+*Für {Beschreibung}, siehe: {Artikel} und {Artikel}*
 ```
 
 ### Nicht zu verwechseln mit
@@ -257,7 +252,7 @@ Kopfnoten mit *Für andere Bedeutungen* sind den Kopfnoten mit *Nicht zu verwech
 
 *Nicht zu verwechseln mit [Kopfnote](#kopfnote).*
 
-Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werden, allerdings muss dafür ein neuer Paragraph angefangen werden, der Kursivschrift nutzt. Hinweise dürfen Fettschrift enthalten, sofern angemessen, aber dies sollte auf ein Minimum begrenzt werden. Hinweise müssen als ganze Sätze geschrieben werden. Damit müssen diese, nicht wie die meisten [Kopfnoten](#kopfnoten), einen Punkt (`.`) oder ein Ausrufezeichen (`!`) verwenden. Alles in einem Paragraphen eines Hinweises muss kursiv sein. Diese Kopfnoten müssen wie folgt formatiert werden:
+Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werden, allerdings muss dafür ein neuer Paragraph angefangen werden, der Kursivschrift nutzt. Hinweise dürfen Fettschrift enthalten, sofern angemessen, aber dies sollte auf ein Minimum begrenzt werden. Hinweise müssen als ganze Sätze geschrieben werden. Damit müssen Hinweise, nicht wie die meisten [Kopfnoten](#kopfnoten), einen Punkt (`.`) oder ein Ausrufezeichen (`!`) verwenden. Alles in einem Paragraphen eines Hinweises muss kursiv sein. Diese Kopfnoten müssen wie folgt formatiert werden:
 
 ```markdown
 *Tipp: {Tipp}.*
@@ -274,6 +269,17 @@ Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werde
 - `Vorsicht` sollte genutzt werden, um den Leser vor unbeabsichtigten Konsequenzen zu warnen.
 - `Warnung` sollte genutzt werden, um den Leser zu warnen, dass gegebenenfalls Maßnahmen gegen ihn ergriffen werden.
 
+## Gestapelte Hinweise und Kopfnoten
+
+Mehrere Hinweise und Kopfnoten dürfen gestapelt werden, sofern notwendig. Dabei müssen sie ohne eine Leerzeile und mit einem nachfolgenden Backslash gestapelt werden:
+
+```markdown
+*Warnung: {Warnung}.*\
+*Siehe auch: {Artikel}*
+```
+
+In vielen Fällen kann es sinnvoller sein, fremde Hinweise oder Kopfnoten in den Text eines Absatzes einzubetten, anstatt viele von ihnen zu stapeln.
+
 ## Betonung
 
 ### Fettschrift
@@ -286,11 +292,39 @@ Hauptparagraphen dürfen die erste Nennung des Titels in einem Artikel in fett m
 
 Kursivschrift muss ein einzelnes Sternchen benutzen (`*`).
 
-Namen von Videospielen sollten in Kursivschrift stehen. osu!—das Spiel—ist davon ausgenommen.
-
 Das erste Vorkommen einer Abkürzung, eines Akronyms oder eines Initialworts darf kursiv sein.
 
 Kursivschrift darf auch benutzt werden, um die Lesbarkeit zu verbessern oder um Dinge hervorzuheben.
+
+Namen von Videospielen sollten in Kursivschrift stehen. osu!—das Spiel—ist davon ausgenommen.
+
+Beispielsweise bei der Nennung von Songtiteln im Format `{artist} - {title}`, ist der gesamte Teil ein Verweis auf das Werk und sollte deshalb kursiv sein:
+
+```markdown
+*cYsmix - triangles* ist eine der drei Titelsongs, die beim Starten des Spiel-Clients gehört werden können.
+```
+
+Künstlernamen sind ansonsten grundsätzlich nicht in Kursivschrift. Das bedeutet, dass bei Freiformverweisen nur der Titel kursiv gesetzt sein sollte, da der Künstlername nicht Teil des Werks ist:
+
+```markdown
+*Blue Zenith* von xi ist ein berüchtigter Song in der osu!-Community, da ein Top-Spieler einen bekannten Score auf einer bestimmten Beatmap erreicht hat.
+```
+
+### Hervorhebung und Links
+
+Verlinkter Text erscheint in einer anderen Farbe, wodurch dieser bereits betont wird. Daher benötigt verlinkter Text keine weitere Hervorhebung:
+
+```markdown
+[Camellia - OOPARTS](https://cametek.bandcamp.com/track/parts) ist ein Beispiel eines Songs, der offiziell spezifisch für osu! kreiert wurde (auch bekannt als *osu! original*), da dieser speziell für den osu! World Cup 2020 Tie-Break in Auftrag gegeben wurde.
+```
+
+Das wird jedoch nicht angewendet, wenn das verlinkte Werk nicht der einzige Teil des Links ist:
+
+```markdown
+[Die Beatmap von Voltaeyx zu *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794) erlangte im Jahr 2018 beträchtliche Popularität, da es einzigartige überlappende Slider-Pattern beinhaltet.
+```
+
+Die oben angegebene Art der Konstruktion sollte nur selten verwendet werden und darf nicht an Stellen mit vielen Links benutzt werden, wie z. B. Tabellen oder Listen.
 
 ## Überschriften
 
@@ -768,7 +802,19 @@ Das folgende ist ein Beispiel, wie eine Tabelle aussehen sollte:
 
 ## Blockzitate
 
-Blockzitate sind auf das Zitieren von Texten von anderen beschränkt. Sie dürfen nicht dazu benutzt werden, um anderen Text zu formatieren.
+Blockzitate sind auf das Zitieren von Texten von anderen beschränkt. Sie dürfen nicht dazu benutzt werden, um anderen Text zu formatieren. Der Name der zitierten Person, der nach dem Zitat folgt, muss mit einem vorangestellten Geviertstrich (`—`) wie folgt geschrieben werden:
+
+```markdown
+> plz enjoy game
+—rrtyui
+```
+
+Wenn nicht das Originalzitat angeben wird, sondern eine Übersetzung, dann muss dies folgendermaßen gekennzeichnet werden:
+
+```markdown
+> bitte habt Spaß am Spiel
+—rrtyui (auf Deutsch übersetzt)
+```
 
 ## Thematische Trennungen
 
