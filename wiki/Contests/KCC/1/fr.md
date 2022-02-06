@@ -12,7 +12,7 @@ Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping o
 
 ## Programme du concours
 
-| Événement | Horodatage (UTC+09) |
+| Événement | Horodatage (UTC+9) |
 | --: | :-- |
 | Phase d'inscription, vote de musique | 01/02/2021 - 07/02/2021 |
 | Phase de soumission | 08/02/2021 - 07/03/2021 |
