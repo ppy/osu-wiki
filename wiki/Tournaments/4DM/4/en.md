@@ -130,7 +130,7 @@ The 4 Digit osu!mania World Cup 4 is run by various community members.
   13. [Getty vs. DJ DiA - Fox4-Raize- (inteliser) \[UNLIMITED \[LN\] (OD7)\]](https://osu.ppy.sh/beatmapsets/595830#mania/3447280)
   14. [MEMODEMO - Extragalactic (Penguinosity) \[WAITING FOR PLAYER\]](https://osu.ppy.sh/beatmapsets/1684765#mania/3454642)
   15. [Eliminate - Weeble Wobble VIP (Orca-) \[Helluvit\]](https://osu.ppy.sh/beatmapsets/1692600#mania/3458605)
-  16. [t+pazolite - seedy try (Halo) \[try again!\]](https://osu.ppy.sh/beatmapsets/1692858#mania/3459259)
+  16. [t+pazolite - seedy try (Halo-) \[try again!\]](https://osu.ppy.sh/beatmapsets/1692858#mania/3459259)
 - Tiebreaker
   1. **[Sad Keyboard Guy, Myntian & Sleepless - Chroma//Surge (Penguinosity) \[SECURITY BREACH\]](https://osu.ppy.sh/beatmapsets/1692593#mania/3458598)**
 
