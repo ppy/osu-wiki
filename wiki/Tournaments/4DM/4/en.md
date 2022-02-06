@@ -199,6 +199,26 @@ The 4 Digit osu!mania World Cup 4 is run by various community members.
 
 ## Match results
 
+### Semifinals
+
+Saturday, 5 February 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Malaysia ![][flag_MY] | 2 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/97404519) |
+| United States ![][flag_US] | 5 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/97406407) |
+| **Vietnam** ![][flag_VN] | **6** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/97413544) |
+| **France** ![][flag_FR] | **6** | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/97418696) |
+| Netherlands ![][flag_NL] | 3 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/97421857) |
+
+Sunday, 6 February 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Brazil ![][flag_BR] | 2 | **6** | ![][flag_PE] **Peru** | [#1](https://osu.ppy.sh/community/matches/97444557) |
+| Vietnam ![][flag_VN] | 2 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/97450088) |
+| Japan ![][flag_JP] | 5 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/97464582) |
+
 ### Quarterfinals
 
 Saturday, 29 January 2022:
