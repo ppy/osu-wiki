@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: a30458a6fd0ee0828435bf8e7d00751806149b65
----
-
 # Rédaction
 
 *Pour les normes de mise en forme, voir : [Critères de style des articles/Mise en forme](../Formatting)*
@@ -328,6 +323,10 @@ Les contractions ne doivent pas être utilisées.
 
 La virgule de série, également connue sous le nom de virgule d'Oxford ou de Harvard, doit être utilisée.
 
+### Em dash
+
+Les em dash (`—`) doivent être utilisés sans espace autour d'eux. Les traits d'union ne doivent pas être utilisés à leur place.
+
 ### Citations logiques
 
 Consultez le [Manuel de style de Wikipédia pour les citations logiques](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside).
@@ -335,6 +334,8 @@ Consultez le [Manuel de style de Wikipédia pour les citations logiques](https:/
 Extrait du manuel de style de Wikipédia :
 
 > N'incluez la ponctuation terminale à l'intérieur des guillemets que si elle était présente dans le texte original, sinon placez-la après le guillemet fermant. Dans la plupart des cas, cela signifie qu'il faut traiter les points et les virgules de la même manière que les points d'interrogation : les placer à l'intérieur des guillemets s'ils ne s'appliquent qu'au matériel cité et à l'extérieur s'ils s'appliquent à l'ensemble de la phrase.
+
+Par extension, les [mises en valeur](/wiki/Article_styling_criteria/Formatting#mise-en-valeur), les [liens](/wiki/Article_styling_criteria/Formatting#liens) et les parenthèses doivent suivre les mêmes règles de ponctuation (qu'elles englobent une phrase entière ou seulement une partie de celle-ci).
 
 ## Prononciation
 
