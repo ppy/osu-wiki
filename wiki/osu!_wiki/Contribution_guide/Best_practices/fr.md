@@ -66,7 +66,7 @@ Une pull request montre aux autres utilisateurs comment vos modifications vont a
   - Un bref résumé des changements, surtout s'ils concernent plusieurs articles.
   - La complétude de la pull request, ou les idées qui s'y rapportent.
   - [La résolution automatique des issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
-- Assurez-vous de cocher la case "`Allow edits from maintainers`, car cela permettra aux maintainers du wiki de vous aider à améliorer la pull request si nécessaire.
+- Assurez-vous de cocher la case `Allow edits from maintainers`, car cela permettra aux maintainers du wiki de vous aider à améliorer la pull request si nécessaire.
 
 ## Appliquer les reviews
 
