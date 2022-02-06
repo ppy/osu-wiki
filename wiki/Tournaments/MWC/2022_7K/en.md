@@ -100,18 +100,18 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | Indonesia | ![][flag_ID] | ![][flag_PL] | Poland | Feb 5 (Sat) 12:00 UTC | Feb 5 (Sat) 19:00 UTC+7 | Feb 5 (Sat) 13:00 UTC+1 | ² |
+| China | ![][flag_CN] | ![][flag_MY] | Malaysia | Feb 5 (Sat) 12:00 UTC | Feb 5 (Sat) 20:00 UTC+8 | Feb 5 (Sat) 20:00 UTC+8 | ¹ |
 | Japan | ![][flag_JP] | ![][flag_BR] | Brazil | Feb 5 (Sat) 14:00 UTC | Feb 5 (Sat) 23:00 UTC+9 | Feb 5 (Sat) 11:00 UTC-3 | ² |
-| Thailand | ![][flag_TH] | ![][flag_CL] | Chile | Feb 5 (Sat) 16:00 UTC | Feb 5 (Sat) 23:00 UTC+7 | Feb 5 (Sat) 13:00 UTC-3 | ² |
-| Canada | ![][flag_CA] | ![][flag_ES] | Spain | Feb 5 (Sat) 18:00 UTC | Feb 5 (Sat) 13:00 UTC-5 | Feb 5 (Sat) 19:00 UTC+1 | ² |
+| Thailand | ![][flag_TH] | ![][flag_CL] | Chile | Feb 5 (Sat) 15:00 UTC | Feb 5 (Sat) 22:00 UTC+7 | Feb 5 (Sat) 12:00 UTC-3 | ² |
+| Canada | ![][flag_CA] | ![][flag_ES] | Spain | Feb 5 (Sat) 16:00 UTC | Feb 5 (Sat) 11:00 UTC-5 | Feb 5 (Sat) 17:00 UTC+1 | ² |
 
 ### Sunday, February 6, 2022
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Thailand | ![][flag_TH] | ![][flag_CA] | Canada | Feb 6 (Sun) 04:00 UTC | Feb 6 (Sun) 11:00 UTC+7 | Feb 5 (Sat) 23:00 UTC-5 | ³ |
+| Thailand | ![][flag_TH] | ![][flag_CA] | Canada | Feb 6 (Sun) 05:00 UTC | Feb 6 (Sun) 12:00 UTC+7 | Feb 6 (Sun) 00:00 UTC-5 | ³ |
 | South Korea | ![][flag_KR] | ![][flag_PH] | Philippines | Feb 6 (Sun) 10:00 UTC | Feb 6 (Sun) 19:00 UTC+9 | Feb 6 (Sun) 18:00 UTC+8 | ¹ |
-| China | ![][flag_CN] | ![][flag_MY] | Malaysia | Feb 6 (Sun) 12:00 UTC | Feb 6 (Sun) 20:00 UTC+8 | Feb 6 (Sun) 20:00 UTC+8 | ¹ |
-| Thailand | ![][flag_TH] | ![][flag_ES] | Spain | Feb 6 (Sun) 13:00 UTC | Feb 6 (Sun) 20:00 UTC+7 | Feb 6 (Sun) 14:00 UTC+1 | ³ |
+| Thailand | ![][flag_TH] | ![][flag_ES] | Spain | Feb 6 (Sun) 12:00 UTC | Feb 6 (Sun) 19:00 UTC+7 | Feb 6 (Sun) 13:00 UTC+1 | ³ |
 | Japan | ![][flag_JP] | ![][flag_ID] | Indonesia | Feb 6 (Sun) 14:00 UTC | Feb 6 (Sun) 23:00 UTC+9 | Feb 6 (Sun) 21:00 UTC+7 | ³ |
 | Japan | ![][flag_JP] | ![][flag_PL] | Poland | Feb 6 (Sun) 14:00 UTC | Feb 6 (Sun) 23:00 UTC+9 | Feb 6 (Sun) 15:00 UTC+1 | ³ |
 | Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | Feb 6 (Sun) 15:00 UTC | Feb 6 (Sun) 12:00 UTC-3 | Feb 6 (Sun) 22:00 UTC+7 | ³ |
