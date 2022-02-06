@@ -93,31 +93,24 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | ![][flag_GB] | **United Kingdom** | **[Vygatron](https://osu.ppy.sh/users/3628783)**, [username1947](https://osu.ppy.sh/users/16162078), [Lelloq](https://osu.ppy.sh/users/8610776), [aid\_](https://osu.ppy.sh/users/12808079) |
 | ![][flag_US] | **United States** | **[Alter-](https://osu.ppy.sh/users/4980256)**, [Terni](https://osu.ppy.sh/users/3279570), [\[GS\]Teo](https://osu.ppy.sh/users/7081478), [RevVoJH](https://osu.ppy.sh/users/7286896) |
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
-### Saturday, February 5, 2022
-
-| Team A | | | Team B | Match time | Local time A | Local time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Indonesia | ![][flag_ID] | ![][flag_PL] | Poland | Feb 5 (Sat) 12:00 UTC | Feb 5 (Sat) 19:00 UTC+7 | Feb 5 (Sat) 13:00 UTC+1 | ² |
-| China | ![][flag_CN] | ![][flag_MY] | Malaysia | Feb 5 (Sat) 12:00 UTC | Feb 5 (Sat) 20:00 UTC+8 | Feb 5 (Sat) 20:00 UTC+8 | ¹ |
-| Japan | ![][flag_JP] | ![][flag_BR] | Brazil | Feb 5 (Sat) 14:00 UTC | Feb 5 (Sat) 23:00 UTC+9 | Feb 5 (Sat) 11:00 UTC-3 | ² |
-| Thailand | ![][flag_TH] | ![][flag_CL] | Chile | Feb 5 (Sat) 15:00 UTC | Feb 5 (Sat) 22:00 UTC+7 | Feb 5 (Sat) 12:00 UTC-3 | ² |
-| Canada | ![][flag_CA] | ![][flag_ES] | Spain | Feb 5 (Sat) 16:00 UTC | Feb 5 (Sat) 11:00 UTC-5 | Feb 5 (Sat) 17:00 UTC+1 | ² |
-
-### Sunday, February 6, 2022
+### Saturday, February 12, 2022
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Thailand | ![][flag_TH] | ![][flag_CA] | Canada | Feb 6 (Sun) 05:00 UTC | Feb 6 (Sun) 12:00 UTC+7 | Feb 6 (Sun) 00:00 UTC-5 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_PH] | Philippines | Feb 6 (Sun) 10:00 UTC | Feb 6 (Sun) 19:00 UTC+9 | Feb 6 (Sun) 18:00 UTC+8 | ¹ |
-| Thailand | ![][flag_TH] | ![][flag_ES] | Spain | Feb 6 (Sun) 12:00 UTC | Feb 6 (Sun) 19:00 UTC+7 | Feb 6 (Sun) 13:00 UTC+1 | ³ |
-| Japan | ![][flag_JP] | ![][flag_ID] | Indonesia | Feb 6 (Sun) 14:00 UTC | Feb 6 (Sun) 23:00 UTC+9 | Feb 6 (Sun) 21:00 UTC+7 | ³ |
-| Japan | ![][flag_JP] | ![][flag_PL] | Poland | Feb 6 (Sun) 14:00 UTC | Feb 6 (Sun) 23:00 UTC+9 | Feb 6 (Sun) 15:00 UTC+1 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | Feb 6 (Sun) 15:00 UTC | Feb 6 (Sun) 12:00 UTC-3 | Feb 6 (Sun) 22:00 UTC+7 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_PL] | Poland | Feb 6 (Sun) 15:00 UTC | Feb 6 (Sun) 12:00 UTC-3 | Feb 6 (Sun) 16:00 UTC+1 | ³ |
-| Chile | ![][flag_CL] | ![][flag_CA] | Canada | Feb 6 (Sun) 18:00 UTC | Feb 6 (Sun) 15:00 UTC-3 | Feb 6 (Sun) 13:00 UTC-5 | ³ |
-| Chile | ![][flag_CL] | ![][flag_ES] | Spain | Feb 6 (Sun) 18:00 UTC | Feb 6 (Sun) 15:00 UTC-3 | Feb 6 (Sun) 19:00 UTC+1 | ³ |
+| Philippines | ![][flag_PH] | ![][flag_JP] | Japan | Feb 12 (Sat) 10:00 UTC | Feb 12 (Sat) 18:00 UTC+8 | Feb 12 (Sat) 19:00 UTC+9 | ² |
+| China | ![][flag_CN] | ![][flag_TH] | Thailand | Feb 12 (Sat) 11:30 UTC | Feb 12 (Sat) 19:30 UTC+8 | Feb 12 (Sat) 18:30 UTC+7 | ² |
+| Thailand | ![][flag_TH] | ![][flag_PH] | Philippines | Feb 12 (Sat) 13:00 UTC | Feb 12 (Sat) 20:00 UTC+7 | Feb 12 (Sat) 21:00 UTC+8 | ³ |
+| Thailand | ![][flag_TH] | ![][flag_JP] | Japan | Feb 12 (Sat) 13:00 UTC | Feb 12 (Sat) 20:00 UTC+7 | Feb 12 (Sat) 22:00 UTC+9 | ³ |
+
+### Sunday, February 13, 2022
+
+| Team A | | | Team B | Match time | Local time A | Local time B | |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| China | ![][flag_CN] | ![][flag_PH] | Philippines | Feb 13 (Sun) 10:00 UTC | Feb 13 (Sun) 18:00 UTC+8 | Feb 13 (Sun) 18:00 UTC+8 | ³ |
+| China | ![][flag_CN] | ![][flag_JP] | Japan | Feb 13 (Sun) 10:00 UTC | Feb 13 (Sun) 18:00 UTC+8 | Feb 13 (Sun) 19:00 UTC+9 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_MY] | Malaysia | Feb 13 (Sun) 11:30 UTC | Feb 13 (Sun) 20:30 UTC+9 | Feb 13 (Sun) 19:30 UTC+8 | ¹ |
 
 ¹ Winners bracket match\
 ² Losers bracket match\
@@ -210,6 +203,26 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 8. [technoplanet - Intuition (Evening) \[Stage 8: Advent of Colour\]](https://osu.ppy.sh/beatmapsets/1670397#mania/3411676)
 
 ## Match results
+
+### Semifinals
+
+Saturday, February 5, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Indonesia** ![][flag_ID] | **7** | 2 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/97417859) |
+| China ![][flag_CN] | 2 | **7** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/97417959) |
+| **Japan** ![][flag_JP] | **7** | 3 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/97421449) |
+| **Thailand** ![][flag_TH] | **7** | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/97423673) |
+| Canada ![][flag_CA] | 4 | **7** | ![][flag_ES] **Spain** | [#1](https://osu.ppy.sh/community/matches/97426048) |
+
+Sunday, February 6, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 6 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/97459939) |
+| **Thailand** ![][flag_TH] | **7** | 0 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/97462885) |
+| **Japan** ![][flag_JP] | **7** | 3 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/97466272) |
 
 ### Quarterfinals
 
