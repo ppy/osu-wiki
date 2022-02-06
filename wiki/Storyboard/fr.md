@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 81f105cb33de8dc13172729319d887f95f2f942e
+---
+
 # Storyboard
 
 ![](img/Sbpassing.png "Cette scène est montrée lorsque vous jouez Walkie Talkie Man ; cependant, elle n'est montrée que lorsque vous obtenez un Elite Beat 300.")
