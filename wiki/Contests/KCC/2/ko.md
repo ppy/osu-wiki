@@ -45,7 +45,7 @@ tags:
 
 ### Instrumental
 
-| Song | Length | BPM |
+| 곡 | 길이 | BPM |
 | :-- | :-- | :-- |
 | lapix - shime (Extended Mix) | 3:44 | 160 |
 | Mitsukiyo - rolling beat | 2:31 | 170 |
@@ -53,7 +53,7 @@ tags:
 
 ### Vocal
 
-| Song | Length | BPM |
+| 곡 | 길이 | BPM |
 | :-- | :-- | :-- |
 | fishbowl feat.Yukichi Kasaku/men - Shinkai | 3:37 | 133 |
 | Tokyo Jihen - Sounan | 3:20 | 156 |
