@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: a30458a6fd0ee0828435bf8e7d00751806149b65
+---
+
 # Содержание статей
 
 *См. также: [Оформление статей](/wiki/Article_styling_criteria/Formatting)*
