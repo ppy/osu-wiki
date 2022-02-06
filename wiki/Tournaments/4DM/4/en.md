@@ -115,7 +115,7 @@ The 4 Digit osu!mania World Cup 4 is run by various community members.
 ### Finals
 
 - FreeMod
-  1. [Falcom Sound Team jdk - Infinity Rage \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1637362#mania/3341549)
+  1. [Falcom Sound Team jdk - Infinity Rage (lemonguy) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1637362#mania/3341549)
   2. [Honda Michiyo - close your eyes (\[Crz\]Charoi) \[Verleugnung 1.1x\]](https://osu.ppy.sh/beatmapsets/1692605#mania/3458610)
   3. [Goukisan - Betrayal of Fate (LonBertZend) \[Chord 280bpm\]](https://osu.ppy.sh/beatmapsets/1414229#mania/2915026)
   4. [The Algorithm - Isometry (SaltedFISSH) \[Transformation (edit)\]](https://osu.ppy.sh/beatmapsets/1201411#mania/3198825)
