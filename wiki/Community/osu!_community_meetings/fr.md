@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: b49301098a9e6de12ad2180c9c22e9868f5ae44f
----
-
 # osu! community meetings
 
 Les **osu! community meetings** sont un groupe de discussion bimensuel organisé par l'[équipe d'osu!](/wiki/People/The_Team). L'objectif principal de ces meetings est de donner à chacun une chance de parler directement avec les développeurs et les personnes responsables de la gestion de la communauté pour soulever des questions à discuter ou à approfondir.
@@ -13,7 +8,7 @@ Actuellement, les osu! community meetings sont présidés par [peppy](https://os
 
 Les meetings ont généralement lieu toutes les deux semaines, les rappels étant annoncés sur le [compte Twitter de peppy](https://twitter.com/ppy) environ un jour avant.
 
-Le prochain osu! community meeting est prévu pour le : **6 février 2022 (Dimanche 01:00 UTC)**.
+Le prochain osu! community meeting est prévu pour le : **19 février 2022 (Samedi 13:00 UTC)**.
 
 ## S'impliquer
 
@@ -43,7 +38,7 @@ Le premier osu! community meeting a eu lieu le 19 septembre 2021. Tous les meeti
 | 7 | [18 décembre 2021](https://youtu.be/v-LgY3UKhkg) | [Document de synthèse](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) | peppy répond à diverses controverses et drames dans la communauté |
 | 8 | [9 janvier 2022](https://youtu.be/JXgQ6YEDCGg) | [Document de synthèse](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | Mécanique des HP (drain de santé), questions diverses de la communauté |
 | 9 | [22 janvier 2022](https://youtu.be/Prx0XzHl6-M) | [Document de synthèse](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | Questions diverses de la communauté, mise à jour concernant le développement |
-
+| 10 | [6 février 2022](https://youtu.be/xA4nbE8DM4s) | [Document de synthèse](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | Questions diverses de la communauté |
 ## Liens associés
 
 - [Discord osu!dev](https://discord.gg/ppy)
