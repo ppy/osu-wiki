@@ -12,7 +12,7 @@ These latest surveys are born on the back of efforts by the intrepid performance
 
 If you're interested in how it all went down, check out the links below:
 
-- [Click here for the **osu!taiko** survey results!](https://assets.ppy.sh/surveys/2022-pp-taiko/viewer.htm)
+- [Click here for the **osu!taiko** survey results!](https://assets.ppy.sh/surveys/2022-pp-taiko/viewer.htm?v=5)
 - [Click here for the **osu!mania** survey results!](https://assets.ppy.sh/surveys/2022-pp-mania/viewer.htm?v=2)
 
 Just like with the results from the [osu! survey](https://osu.ppy.sh/home/news/2021-09-02-pp-sr-survey-results), you can use the buttons on the left side to navigate through each rank group to get a better understanding of where things sit across players of varying skill and dedication levels.
