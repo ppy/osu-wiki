@@ -112,6 +112,28 @@ The 4 Digit osu!mania World Cup 4 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+- FreeMod
+  1. [Falcom Sound Team jdk - Infinity Rage (lemonguy) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1637362#mania/3341549)
+  2. [Honda Michiyo - close your eyes (\[Crz\]Charoi) \[Verleugnung 1.1x\]](https://osu.ppy.sh/beatmapsets/1692605#mania/3458610)
+  3. [Goukisan - Betrayal of Fate (LonBertZend) \[Chord 280bpm\]](https://osu.ppy.sh/beatmapsets/1414229#mania/2915026)
+  4. [The Algorithm - Isometry (SaltedFISSH) \[Transformation (edit)\]](https://osu.ppy.sh/beatmapsets/1201411#mania/3198825)
+  5. [puru - Toki (maidable remix) (Shoegazer) \[Another\]](https://osu.ppy.sh/beatmapsets/1306576#mania/2710192)
+  6. [Camellia feat. Nanahira - Magical Energy makes the Craziest Strongest Quality! Magical-Audio No.1! (lemonguy) \[Nanahirafangirl (edit)\]](https://osu.ppy.sh/beatmapsets/1517587#mania/3106725)
+  7. [Billain - Specialist (hna) \[Theory 1.05x (182bpm)\]](https://osu.ppy.sh/beatmapsets/1445730#mania/2978507)
+  8. [Aoi - !nterroban(?, (Merian) \[Gl!tch?\]](https://osu.ppy.sh/beatmapsets/1621484#mania/3310548)
+  9. [Silentroom vs Frums - Aegleseeker (Abraxos) \[guden's Beyond\]](https://osu.ppy.sh/beatmapsets/1458667#mania/3096095)
+  10. [rejection - Signal (feat. Such) - Mameyudoufu Remix (osu! edit) (HowToPlayLN) \[Periodic Function (edit)\]](https://osu.ppy.sh/beatmapsets/1665688#mania/3459250)
+  11. [Halozy - Starry Presto (Arccat) \[LN (4DM4 Edit)\]](https://osu.ppy.sh/beatmapsets/1680643#mania/3459361)
+  12. [jioyi - Platinum (chxu) \[Collab Extraction x1.05\]](https://osu.ppy.sh/beatmapsets/1692896#mania/3459322)
+  13. [Getty vs. DJ DiA - Fox4-Raize- (inteliser) \[UNLIMITED \[LN\] (OD7)\]](https://osu.ppy.sh/beatmapsets/595830#mania/3447280)
+  14. [MEMODEMO - Extragalactic (Penguinosity) \[WAITING FOR PLAYER\]](https://osu.ppy.sh/beatmapsets/1684765#mania/3454642)
+  15. [Eliminate - Weeble Wobble VIP (Orca-) \[Helluvit\]](https://osu.ppy.sh/beatmapsets/1692600#mania/3458605)
+  16. [t+pazolite - seedy try (Halo-) \[try again!\]](https://osu.ppy.sh/beatmapsets/1692858#mania/3459259)
+- Tiebreaker
+  1. **[Sad Keyboard Guy, Myntian & Sleepless - Chroma//Surge (Penguinosity) \[SECURITY BREACH\]](https://osu.ppy.sh/beatmapsets/1692593#mania/3458598)**
+
 ### Semifinals
 
 - FreeMod
@@ -198,6 +220,26 @@ The 4 Digit osu!mania World Cup 4 is run by various community members.
   5. [katagiri - HIVEMIND (DannyPX) \[Stage 5: Controlled Chaos\]](https://osu.ppy.sh/beatmapsets/1665437#mania/3399980)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 5 February 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Malaysia ![][flag_MY] | 2 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/97404519) |
+| United States ![][flag_US] | 5 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/97406407) |
+| **Vietnam** ![][flag_VN] | **6** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/97413544) |
+| **France** ![][flag_FR] | **6** | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/97418696) |
+| Netherlands ![][flag_NL] | 3 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/97421857) |
+
+Sunday, 6 February 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Brazil ![][flag_BR] | 2 | **6** | ![][flag_PE] **Peru** | [#1](https://osu.ppy.sh/community/matches/97444557) |
+| Vietnam ![][flag_VN] | 2 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/97450088) |
+| Japan ![][flag_JP] | 5 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/97464582) |
 
 ### Quarterfinals
 
