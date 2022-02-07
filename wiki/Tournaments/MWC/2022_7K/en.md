@@ -143,7 +143,6 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 - Tiebreaker
   1. **[seatrus - DOOMSDAY THUNDERTEMPEST (paulkappa) \[FINAL LAP ONTO DISASTER\]](https://osu.ppy.sh/beatmapsets/1692926#mania/3459391)**
 
-
 ### Semifinals
 
 **[Download the mappack here (104 MB)](https://drive.google.com/uc?id=1zbZY8aEs_0rS-UHLjiWUQaxmNdVoXJR5)**
