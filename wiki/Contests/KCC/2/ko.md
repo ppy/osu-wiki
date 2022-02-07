@@ -1,33 +1,32 @@
 ---
 tags:
-  - KCC2021
-  - KCC 2021
+  - KCC2022
+  - KCC 2022
 ---
 
-# Korean Charting Contest 2021
+# Korean Charting Contest 2022
 
-![KCC2021 배너](img/banner.png)
+![KCC2022 배너](img/banner.png)
 
-**Korean Charting Contest 2021** (***KCC2021***) 은 한국인을 위한 osu!mania 매핑 대회입니다. 이 대회는 첫 번째 대회였습니다.
+**Korean Charting Contest 2022** (***KCC2022***) 은 한국인을 위한 osu!mania 매핑 대회입니다. 이 대회는 두 번째 대회입니다.
 
 ## 대회 일정
 
 | 일정 | 날짜 (UTC+9) |
 | --: | :-- |
-| 신청 및 곡 투표 기간 | 2021-02-01/2021-02-07 |
-| 제출 기간 | 2021-02-08/2021-03-07 |
-| 심사 기간 | 2021-03-08/2021-03-21 |
-| 결과 발표 | 2021-03-22 |
+| 제출 기간 | 2022-01-30/2022-02-27 |
+| 심사 기간 | 2022-02-28/2022-03-13 |
+| 결과 발표 | 2022-03-14 |
 
 ## 상품
 
 | 순위 | 상품 |
 | :-: | :-- |
-| ![금상](/wiki/shared/crown-gold.png "1위") | 40,000 KRW, 프로필 뱃지 |
+| ![금상](/wiki/shared/crown-gold.png "1위") | 50,000 KRW, 프로필 뱃지 (미정) |
 | ![은상](/wiki/shared/crown-silver.png "2위") | 20,000 KRW |
 | ![동상](/wiki/shared/crown-bronze.png "3위") | 10,000 KRW |
 
-![KCC2021 뱃지](img/badge.png)
+![KCC2022 뱃지](img/badge.png)
 
 ## 주최
 
@@ -35,44 +34,30 @@ tags:
 | :-- | :-- |
 | 주최자 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) |
 | 매니저 | ![][flag_KR] [Oni Suika](https://osu.ppy.sh/users/4848023) |
-| 디자이너 | ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
-| 심사위원 | ![][flag_PL] [_underjoy](https://osu.ppy.sh/users/6392061), ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783), ![][flag_GT] [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754), ![][flag_KR] [Pengdoll](https://osu.ppy.sh/users/6392061) |
+| 디자이너 | ![][flag_KR] [Manwon](https://osu.ppy.sh/users/4129020) |
+| 심사위원 | ![][flag_CN] [_Stan](https://osu.ppy.sh/users/1653229), ![][flag_SG] [Evening](https://osu.ppy.sh/users/2193881), ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783), ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573), ![][flag_KR] [Remuring](https://osu.ppy.sh/users/6522146) |
 
 ## 링크
 
-- [포럼 스레드](https://osu.ppy.sh/community/forums/topics/1230057)
-- [결과 시트](https://docs.google.com/spreadsheets/d/1O0Ygpning0te62S850M42oPo0lCYd1Ct8VeYnAWRcYE/edit?usp=sharing)
-- [엔트리 모음](https://lulu.s-ul.eu/D2M3x9LH)
+- [포럼 스레드](https://osu.ppy.sh/community/forums/topics/1507792)
 
 ## 곡 리스트
 
 ### Instrumental
 
-- cYsmix - Moonlight Sonata (3:24) / 128bpm
-- Frums - Turnstile Jumper (2:37) / 321bpm
-- onumi - DESIRE (2:28) / 209bpm
-- Sakuzyo - First Dance (3:12) / 116bpm
-- **Zekk - Kaleidoscope (2:11) / 155bpm**
+| 곡 | 길이 | BPM |
+| :-- | :-- | :-- |
+| lapix - shime (Extended Mix) | 3:44 | 160 |
+| Mitsukiyo - rolling beat | 2:31 | 170 |
+| Laur - PRAGMATISM -RESURRECTION- | 2:36 | 174 |
 
 ### Vocal
 
-- Alice Schach and the Magic Orchestra - Chocolate Missile (2:57) / 175bpm
-- HyuN - Last Paradise (feat. Serentium) (2:42) / 89bpm
-- Memme - Geurida (2:45) / 180bpm
-- mk feat.橘花音 - Awaking Beat-From the next generation- (3:51) / 178bpm
-- **YUC'e - Sengoku HOP (3:25) / 110bpm**
-
-### 투표 결과
-
-![KCC2021 투표 결과](img/voteresult.jpg)
-
-## 결과
-
-| 순위 | 매퍼 |
-| :-: | :-- |
-| ![금상](/wiki/shared/crown-gold.png "1위") | ![][flag_KR] [11Bit](https://osu.ppy.sh/users/14804526) |
-| ![은상](/wiki/shared/crown-silver.png "2위") | ![][flag_KR] [Sherie](https://osu.ppy.sh/users/9113475) |
-| ![동상](/wiki/shared/crown-bronze.png "3위") | ![][flag_CA] [arpia97](https://osu.ppy.sh/users/6363008) |
+| 곡 | 길이 | BPM |
+| :-- | :-- | :-- |
+| fishbowl feat.Yukichi Kasaku/men - Shinkai | 3:37 | 133 |
+| Tokyo Jihen - Sounan | 3:20 | 156 |
+| Kabocha feat. Sennzai - Morphobia | 3:54 | 145 |
 
 ## 규칙
 
@@ -80,7 +65,7 @@ tags:
 
 - osu!mania 모드 전용 대회입니다.
 - '한국인'만 참가 가능합니다. 외국 거주, 교포 2세 등의 사유로 osu! 내에서의 국기가 대한민국이 아닌 경우, 이미 한국인이라고 널리 알려져 있거나 어떠한 방식으로든 입증만 가능하다면 한국인으로서 참가할 수 있습니다.
-- 참가자들은 사전에 선정된 곡을 놓고 투표를 실시, Instrumental과 Vocal 그룹에서 매핑할 곡을 한 곡씩 선정합니다. 투표 종료 후 최종 선정된 두 곡 중 하나를 매핑하시면 됩니다.
+- 참가자들은 사전에 선정된 Instrumental과 Vocal 그룹 각각 3곡 총 6곡 중 하나를 매핑해 제출할 수 있습니다.
 - 제출한 맵은 osu! 클라이언트에서 실행 가능해야 합니다.
 - `.osz` 포맷으로 제출해야 합니다.
 - 커스텀 히트사운드는 사용 가능합니다.
@@ -104,7 +89,7 @@ tags:
 - **Creativity (25 pts):** 다른 맵과 비교했을 때 플레이성 면에서 독창성과 특별함을 가지고 있는가
 - **Judge's Impression (25 pts):** 심사위원들의 개인적 선호도를 나타내는 점수
 
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_GT]: /wiki/shared/flag/GT.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_CN]: /wiki/shared/flag/CN.gif "중국"
+[flag_KR]: /wiki/shared/flag/KR.gif "대한민국"
+[flag_PH]: /wiki/shared/flag/PH.gif "필리핀"
+[flag_SG]: /wiki/shared/flag/SG.gif "싱가포르"
