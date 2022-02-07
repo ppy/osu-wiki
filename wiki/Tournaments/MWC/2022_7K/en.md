@@ -411,7 +411,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Mappool instructions
 
-1. There will be one mappool for each stage, except for the Finals and Grand Finals, which will share the same mappool.
+1. There will be one mappool for each stage.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
