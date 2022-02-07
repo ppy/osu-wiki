@@ -118,6 +118,32 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here (168 MB)](https://drive.google.com/uc?id=1_S2JNbi6CZOL3yXvdfpbfN18dCXwAKjo)**
+
+- Rice
+  1. [ROKINA - Kimi to bokueno sousouka (Jinjin) \[Requiem\]](https://osu.ppy.sh/beatmapsets/1666751#mania/3404149)
+  2. [Ariabl'eyeS - Sougetsu Oratorio (\_underjoy) \[Arcadia (cut)\]](https://osu.ppy.sh/beatmapsets/1693118#mania/3459764)
+  3. [sakuzyo - Toy's 3 minutes war (Kawawa) \[LF> Ludibrium PQ @195\]](https://osu.ppy.sh/beatmapsets/1692913#mania/3459366)
+  4. [Dz'Xa - EXTRAHAPPY (lenpai) \[:3 (250 bpm)\]](https://osu.ppy.sh/beatmapsets/1693251#mania/3460002)
+  5. [Junk - Life is PIANO (Evening) \[Life is COLABOO@136\]](https://osu.ppy.sh/beatmapsets/1692950#mania/3459426)
+  6. [USAO - Knight Rider (Camellia's "Knightstyle Razor-psy-harp" Remix) (Evening) \[En Garde+ (Evening's Nouveau Flip)\]](https://osu.ppy.sh/beatmapsets/1692951#mania/3459428)
+  7. [katagiri - Angel's Salad (Kawawa) \[Diet (MWC Edition)\]](https://osu.ppy.sh/beatmapsets/1692919#mania/3459379)
+- LN
+  1. [YOASOBI - Gunjou (\[Crz\]Emperor-) \[Blue\]](https://osu.ppy.sh/beatmapsets/1256369#mania/3397105)
+  2. [xi - Bad Elixir (Exyph) \[No Hope\]](https://osu.ppy.sh/beatmapsets/1240933#mania/2579737)
+  3. [NAGI\* - fractal (\[Crz\]Emperor-) \[underjoy vs Emperor-'s Fractal Universe\]](https://osu.ppy.sh/beatmapsets/1496315#mania/3397135)
+  4. [Mary - Alice in Reitouko (Leeju) \[Leeju's 7K Terni in Freezer (MWC cut. edit)\]](https://osu.ppy.sh/beatmapsets/1412771#mania/3459276)
+  5. [Tiara - Negai covered by Isekaijoucho (Kim\_GodSSI) \[Wish\]](https://osu.ppy.sh/beatmapsets/1692906#mania/3459342)
+- Hybrid
+  1. [Camellia - Kamah (Leeju) \[Leeju's 7K Syphoning Souls +\]](https://osu.ppy.sh/beatmapsets/1558744#mania/3459278)
+  2. [Noah - Break down (Wonki) \[Extra\]](https://osu.ppy.sh/beatmapsets/1450907#mania/2982951)
+  3. [sa10 - banana man (Jinjin) \[Bananamania (2022)\]](https://osu.ppy.sh/beatmapsets/543154#mania/3459405)
+- Tiebreaker
+  1. **[seatrus - DOOMSDAY THUNDERTEMPEST (paulkappa) \[FINAL LAP ONTO DISASTER\]](https://osu.ppy.sh/beatmapsets/1692926#mania/3459391)**
+
+
 ### Semifinals
 
 **[Download the mappack here (104 MB)](https://drive.google.com/uc?id=1zbZY8aEs_0rS-UHLjiWUQaxmNdVoXJR5)**
@@ -205,6 +231,8 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 ## Match results
 
 ### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1IFUI0PzZAgl8RRmfmHHmVrezL6qkCAaRM3ME5lKKrQQ/edit?rm=minimal).
 
 Saturday, February 5, 2022
 
