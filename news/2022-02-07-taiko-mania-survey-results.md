@@ -8,7 +8,7 @@ The key smashing and drum beating members of the community have had their say, a
 
 ![](/wiki/shared/news/2021-07-27-performance-points-star-rating-updates/star-rating.jpg)
 
-These latest surveys are born on the back of efforts by the intrepid performance developers to find out exactly where the community stands on things in the hopes of catering upcoming changes to the largest number of people possible.
+These latest surveys are born on the back of efforts by the intrepid performance point developers to find out exactly where the community stands on things in the hopes of catering upcoming changes to the largest number of people possible.
 
 If you're interested in how it all went down, check out the links below:
 
