@@ -2,7 +2,7 @@
 
 感谢你有兴趣让 osu! wiki 变得更好！这篇文章逐步介绍了贡献过程。如果你熟悉 GitHub，则可以按照通用功能分支工作流程提出更改并跳到[自检](#自检)部分。
 
-新贡献者可能不熟悉 GitHub 或 [git](https://git-scm.com/)，因为它们是主要为开发人员量身定制的工具。 如果你第一次没有做对，请不要担心——[wiki 维护者](/wiki/osu!_wiki/Maintenance/List_of_maintainers)会为你指出正确的方向或者帮助你修复它。
+新贡献者可能不熟悉 GitHub 或 [git](https://git-scm.com/)，因为它们是主要为开发人员量身定制的工具。如果你第一次没有做对，请不要担心——[wiki 维护者](/wiki/osu!_wiki/Maintenance/List_of_maintainers)会为你指出正确的方向或者帮助你修复它。
 
 如果你对某些内容感到困惑，需要帮助，欢迎在 [osu!dev Discord 频道](https://discord.gg/ppy)（ `#osu-wiki` 频道）中询问我们。
 
@@ -24,15 +24,15 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 2. 阅读 [最佳实践 § 做出更改](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-changes)并进行需要的编辑。虽然你可以自由使用选择任何应用程序，但 osu! wiki 对下述两种编辑方式有详细指南：
 
   - [基于网页的 Github editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) （要求在线，不需要安装）。
-  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (可以离线，提供更多操作)。
+  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) （可以离线，提供更多操作）。
 
 ## 自检
 
-完成编辑后，请花一些时间校对你的工作。 浏览以下快速清单：
+完成编辑后，请花一些时间校对你的工作。浏览以下快速清单：
 
 - **中性语气**：在 osu! wiki 的文章中，除了特殊情况，必须使用中性语气。
 - **风格与语法**：文章应该清晰、易于理解，并且不需要读者付出大量的脑力劳动。保持一致，避免过于复杂或突然的句子。使用带有内置拼写检查器的编辑器，例如 [Google 文档](https://docs.google.com)，以检查拼写错误和语法错误。
-- **[内容对等](/wiki/Article_styling_criteria/Formatting#content-parity)**: 翻译必须包含与原始文章相同的信息（标点符号、措辞或格式的差异显然是允许的）。如果你认为原文的内容未完成、不准确或已过时，与其更改翻译的内容，你可以选择[提出一个 issues](https://github.com/ppy/osu-wiki/issues/new) 或者为原文章创一个新的 Pull request。
+- **[内容对等](/wiki/Article_styling_criteria/Formatting#content-parity)**：翻译必须包含与原始文章相同的信息（标点符号、措辞或格式的差异显然是允许的）。如果你认为原文的内容未完成、不准确或已过时，与其更改翻译的内容，你可以选择[提出一个 issues](https://github.com/ppy/osu-wiki/issues/new) 或者为原文章创一个新的 Pull request。
 - **结构与格式**：使用诸如 [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) 的工具来预览你的文章，以确保他看起来像你想要的样子。
 - **所有图像和其他非文本文件**必须[小于 1MB](/wiki/Article_styling_criteria/Formatting#file-size)。**截图**需要使用默认 osu! 皮肤和[特定设置](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay)，同时，最大分辨率 1280×720。
 
@@ -57,10 +57,10 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 - 要获得翻译帮助，请检查几个你的语言的已合并 Pull request，并与他们的审阅者或者作者联系（[示例 GitHub 查询](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BZH%5D)。注：对于中文文章，你可以在 GitHub 的评论或描述中 `@osu-translate-zh` 来寻求 osu!中文翻译组织 的审阅。
 - 叫你的朋友快速检查一下！
 
-除了人工审核过程之外，osu! wiki 存储库也可以进行 [自动检查](/wiki/osu!_wiki/Maintenance#ci-checks)，可确保你的更改遵循 wiki 的通用样式并且没有格式错误。 要查看它们的状态，请在 `Actions` 选项卡中找到你的 Pull request，然后按照错误下面的诊断消息（如果有）进行操作。
+除了人工审核过程之外，osu! wiki 存储库也可以进行[自动检查](/wiki/osu!_wiki/Maintenance#ci-checks)，可确保你的更改遵循 wiki 的通用样式并且没有格式错误。要查看它们的状态，请在 `Actions` 选项卡中找到你的 Pull request，然后按照错误下面的诊断消息（如果有）进行操作。
 
 ## 合并
 
-在其他合作者审阅之后，最终将由 [wiki 维护者](/wiki/osu!_wiki/Maintenance/List_of_maintainers) 之一进行检查。如果太久没有人回复，请在 Pull request 的评论中询问，或在 [osu!dev Discord 服务器](/wiki/Community/osu!dev_Discord_server) 的 `#osu-wiki` 频道中询问。你的更改将在合并后不久出现在 osu! wiki 上（在极少数情况下，这可能需要长达五个小时）。
+在其他合作者审阅之后，最终将由 [wiki 维护者](/wiki/osu!_wiki/Maintenance/List_of_maintainers)之一进行检查。如果太久没有人回复，请在 Pull request 的评论中询问，或在 [osu!dev Discord 服务器](/wiki/Community/osu!dev_Discord_server)的 `#osu-wiki` 频道中询问。你的更改将在合并后不久出现在 osu! wiki 上（在极少数情况下，这可能需要长达五个小时）。
 
 [osu_wiki]: https://github.com/ppy/osu-wiki
