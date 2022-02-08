@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - BN
   - BNG
@@ -29,7 +28,7 @@ Les Beatmap Nominators confirmés ne montrant que peu d'activité ne seront pas 
 
 ### Beatmap Nominators probatoires
 
-La probation est utilisée pour surveiller les nouveaux Beatmap Nominators ou les Beatmap Nominators ayant un comportement inappropriée. Le rôle principal des Beatmap Nominators probatoires est d'établir une fondation en tant que Beatmap Nominator en promouvant des beatmaps à la procédure de classement. Au moins un Beatmap Nominator confirmé doit être impliqué à la procédure de classement pour chaque mode de jeu sur une beatmap, les Beatmap Nominators probatoires ne peuvent donc pas donner la dernière nomination à une beatmap qui n'a reçu que des nominations d'autres membres probatoires pour leur mode de jeu.
+La probation est utilisée pour surveiller les nouveaux Beatmap Nominators ou les Beatmap Nominators ayant un comportement inapproprié. Le rôle principal des Beatmap Nominators probatoires est d'établir une fondation en tant que Beatmap Nominator en promouvant des beatmaps dans la procédure de classement. Au moins un Beatmap Nominator confirmé doit être impliqué dans la procédure de classement pour chaque mode de jeu sur une beatmap, les Beatmap Nominators probatoires ne peuvent donc pas donner la dernière nomination à une beatmap qui n'a reçu que des nominations d'autres membres probatoires pour leur mode de jeu.
 
 Les nouveaux Beatmap Nominators commencent avec un mois de probation. Si leurs nominations et leur comportement sont satisfaisants, ils seront promus au rang de Beatmap Nominator confirmés. Autrement, ils resteront en probation pour un autre mois ou seront exclus des Beatmap Nominators.
 
@@ -37,7 +36,7 @@ Lorsqu'un Beatmap Nominator est placé en probation, il ne peut pas être placé
 
 ## Membres de l'équipe
 
-Les pages de groupe des [Beatmap Nominators](https://osu.ppy.sh/groups/28) et des[Beatmap Nominators (probatoires)](https://osu.ppy.sh/groups/32) listent tous les membres de l'équipe.
+Les pages de groupe des [Beatmap Nominators](https://osu.ppy.sh/groups/28) et des [Beatmap Nominators (probatoires)](https://osu.ppy.sh/groups/32) listent tous les membres de l'équipe.
 
 Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nominator est qualifié pour nominer des beatmaps. *Note : Tous les Beatmap Nominators savent parler anglais en plus des langues listées ci-dessous.*
 
@@ -243,7 +242,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 [flag_CN]: /wiki/shared/flag/CN.gif "Chine"
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_DK]: /wiki/shared/flag/DK.gif "Danemark"
-[flag_EC]: /wiki/shared/flag/EC.gif "Equateur"
+[flag_EC]: /wiki/shared/flag/EC.gif "Équateur"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"

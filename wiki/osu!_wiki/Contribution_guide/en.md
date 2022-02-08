@@ -2,6 +2,8 @@
 
 Thanks for your interest in making the osu! wiki better! This article covers the contribution process step by step. In case you are familiar with GitHub, feel free to follow the common feature-branch workflow for proposing changes and skip to the [self-check](#self-check) section.
 
+New contributors are not expected to be familiar with GitHub or [git](https://git-scm.com/), because they're tools mainly tailored towards developers. Don't worry if you don't get something right the first time—a [wiki maintainer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) will either point you in the right direction or fix it for you.
+
 In case you need tips or advice during any stage, don't hesitate to ask in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
 
 ## Areas of interest
@@ -46,7 +48,7 @@ After the changes are double-checked, committed, and pushed to your fork, you ne
 
 ## Review
 
-All changes to the osu! wiki are moderated. During that stage, other collaborators point out possible mistakes and ways to fix them, either in free form, or by suggesting direct edits to the pull request. Just like with any other peer review, you need to address the comments by applying the suggestions, or by explaining why you'd rather keep things your way.
+All changes to the osu! wiki are moderated. During that stage, other collaborators point out possible mistakes and ways to fix them, either in free form, or by suggesting direct edits to the pull request. Just like with any other peer review, you need to address the comments by [applying the suggestions](/wiki/osu!_wiki/Contribution_guide/Best_practices#applying-reviews), or by explaining why you'd rather keep things your way.
 
 If no one has checked in after a couple of days, try the following:
 

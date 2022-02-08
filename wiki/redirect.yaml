@@ -463,6 +463,9 @@
 "guides/changing_the_title_text":         "Beatmap/Title_Text#changing-title-text"
 "changing_the_title_text":                "Beatmap/Title_Text#changing-title-text"
 
+# Moved in #6790 due to #6198
+"ranking_criteria/timing_songs_with_8-signatures": "Guides/Timing_Songs_With_8-Signatures"
+
 "help_center":                 "Help_Centre"
 "help":                        "Help_Centre"
 

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 47aa245123d41ef6421aaec3ecddaef4b312ae70
+---
+
 # Mise en forme
 
 *Pour les normes de rédaction, voir : [Critères de style des articles/Rédaction](../Writing)*
