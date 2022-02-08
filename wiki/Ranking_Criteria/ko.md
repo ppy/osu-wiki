@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 7742320aaa249169bcb0536d8fc19dc7d32015fe
+---
+
 # Ranking criteria
 
 *[게임 모드](/wiki/Game_mode) 고유의 Ranking Criteria를 보려면, 다음을 참조하세요: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch)와 [osu!mania](osu!mania)*
@@ -6,7 +11,7 @@
 
 이 문서의 규칙과 가이드라인은 [Ranking Criteria 포럼](https://osu.ppy.sh/community/forums/87)에서 제안되고 토의됩니다. 이에 기여하고 싶다면 *[Ranking Criteria 변경을 제안하는 법](https://osu.ppy.sh/community/forums/topics/720532)* 을 참조하세요. 단, 이 문서의 언어, 문법, 구성에 대한 변경은 규칙과 가이드라인의 의미를 바꾸지 않는 이상은 포럼 글 작성을 생략해도 됩니다.
 
-**[매핑과 모딩에 관한 code of conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), [8분의 #박자로 구성된 곡의 타이밍 맞추기](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)에 대한 가이드와 [곡 콘텐츠 규칙](/wiki/Rules/Song_Content_Rules)도 ranking criteria의 일부이며, 모든 모드에 적용되는 사실에 유의하시기 바랍니다.**
+**[매핑과 모딩에 관한 code of conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), [8분의 #박자로 구성된 곡의 타이밍 맞추기](/wiki/Guides/Timing_Songs_With_8-Signatures)에 대한 가이드와 [곡 콘텐츠 규칙](/wiki/Rules/Song_Content_Rules)도 ranking criteria의 일부이며, 모든 모드에 적용되는 사실에 유의하시기 바랍니다.**
 
 ## 용어 사전(Glossary)
 
@@ -159,7 +164,7 @@
 
 ### 규칙
 
-- **반드시 [적색 타이밍 포인트(Uninherited timing points)](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)를 사용하여 곡의 박자를 정확하게 매핑해야 합니다.** 잘못된 박자가 1 bar을 넘게 유지된 다면, 다음 다운비트에 적색 타이밍 포인트를 추가하여 박자를 재설정해야 합니다. 편집기에서 지원하지 않는 #/4 박자에 관해서는 박자 재설정이나 `.osu` 파일의 편집이 허용됩니다. 지원하지 않는 다른 박자에 대해서는 이 [예시 차트](/wiki/shared/timing/Timing_signature_reference_chart.png)를 참조하고 자세한 내용은 [이 가이드](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)를 참조해주세요.
+- **반드시 [적색 타이밍 포인트(Uninherited timing points)](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)를 사용하여 곡의 박자를 정확하게 매핑해야 합니다.** 잘못된 박자가 1 bar을 넘게 유지된 다면, 다음 다운비트에 적색 타이밍 포인트를 추가하여 박자를 재설정해야 합니다. 편집기에서 지원하지 않는 #/4 박자에 관해서는 박자 재설정이나 `.osu` 파일의 편집이 허용됩니다. 지원하지 않는 다른 박자에 대해서는 이 [예시 차트](/wiki/shared/timing/Timing_signature_reference_chart.png)를 참조하고 자세한 내용은 [이 가이드](/wiki/Guides/Timing_Songs_With_8-Signatures)를 참조해주세요.
 - **비트맵은 완벽하게 타이밍이 맞춰져야 합니다.** 이는 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [오프셋](/wiki/Beatmapping/Offset)이 곡과 완벽하게 싱크 되어야 한다는 것입니다. 지속적으로 BPM이 변화하는 비트맵은 완벽하게 타이밍을 맞추기 어려울 수 있어도 플레이에 악영향을 미치지 않는 한도에서 가능한 정확하게 맞춰져야 합니다. 브레이크와 스피너 동안의 복잡한 타이밍은 필수적이지 않습니다.
 - **[적색 타이밍 포인트(Uninherited timing points)](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)는 비트맵의 모든 난이도에서 동일해야 합니다.** 각 포인트는 각 난이도에서 동일한 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [offset](/wiki/Beatmapping/Offset)을 가져야 합니다.
 - **어떠한 난이도에도 불필요한 [적색 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)가 있어서는 안 됩니다.** 이는 메인 메뉴의 펄싱에 영향을 주고 의도치 않은 소리를 나이트 코어 모드에 추가하거나, 타이밍이 밀리게 만들 수 있습니다. 허용되는 경우는:

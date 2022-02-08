@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 7742320aaa249169bcb0536d8fc19dc7d32015fe
+---
+
 # Ranking Criteria
 
 *查看每个游戏模式具体的标准，请参阅 [osu!](osu!)，[osu!taiko](osu!taiko)，[osu!catch](osu!catch) 和 [osu!mania](osu!mania)。*
@@ -6,7 +11,7 @@
 
 可在 [Ranking Criteria 论坛](https://osu.ppy.sh/community/forums/87)中提出和讨论对本文的更正。并参照 *[如何建议更改 Ranking 准则](https://osu.ppy.sh/community/forums/topics/720532)* 来提供贡献。注意，若仅对本文中的遣词、语法、组句进行改变，而不改变其原意，则无需发帖至论坛。
 
-**注意[摸图和作图的行为准则](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)、[八分拍歌曲 Timing 测定](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)和[歌曲内容规定](/wiki/Rules/Song_Content_Rules)是 Ranking Criteria 的一部分，适用于 osu! 中所有的游戏模式。**
+**注意[摸图和作图的行为准则](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)、[八分拍歌曲 Timing 测定](/wiki/Guides/Timing_Songs_With_8-Signatures)和[歌曲内容规定](/wiki/Rules/Song_Content_Rules)是 Ranking Criteria 的一部分，适用于 osu! 中所有的游戏模式。**
 
 ## 术语
 
@@ -159,7 +164,7 @@
 
 ### 规定
 
-- **必须使用[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)来准确地表述歌曲的拍子记号。** 如果错误的拍子记号持续超过一个小节，则必须在下一个强拍添加非继承时间点重置拍子记号。由于编辑器不支持 #/4 拍子记号，可以重置节拍器或编辑 `.osu` 文件。对于其他不支持的时间记号，参见[范例图表](/wiki/shared/timing/Timing_signature_reference_chart.png)或者查阅[这个指南](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)获取更多信息。
+- **必须使用[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)来准确地表述歌曲的拍子记号。** 如果错误的拍子记号持续超过一个小节，则必须在下一个强拍添加非继承时间点重置拍子记号。由于编辑器不支持 #/4 拍子记号，可以重置节拍器或编辑 `.osu` 文件。对于其他不支持的时间记号，参见[范例图表](/wiki/shared/timing/Timing_signature_reference_chart.png)或者查阅[这个指南](/wiki/Guides/Timing_Songs_With_8-Signatures)获取更多信息。
 - **谱面必须测定出精准的时间轴。** 这意味着 [BPM](/wiki/Beatmapping/Beats_per_minute) 和[偏移量](/wiki/Beatmapping/Offset)需要完全贴合歌曲。无规律的变奏歌曲也许不可能完美地测定，那么则应在不影响谱面游玩的情况下尽量精确测定。如果打算采用休息段或者转盘覆盖变奏段，则这个段落的复杂节奏测定可以忽略掉。
 - **[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)在谱面的每个难度中必须相同。** 每个时间点必须在每个难度中有相同的 [BPM](/wiki/Beatmapping/Beats_per_minute) 和[偏移量](/wiki/Beatmapping/Offset)。
 - **任何难度都不能有额外，无用的[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)存在。** 这可能会影响主菜单脉冲特效、NightCore Mod 附加音效，或者由于毫秒舍入误差而导致谱面的时间轴偏移。若以下情况则可以使用非继承时间点：

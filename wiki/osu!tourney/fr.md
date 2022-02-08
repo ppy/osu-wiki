@@ -6,9 +6,9 @@ Les utilisateurs qui rencontrent des **problèmes** avec le client peuvent lire 
 
 ## Articles connexes
 
+- [Commandes de gestion des tournois](Tournament_management_commands)
 - [Configuration d'osu!tourney](Setup)
+- [Dépannage](Troubleshooting)
+- [Skinning d'osu!tourney](Skinning)
 - [Utilisation de osu!tourney en multijoueur](Multiplayer_usage)
 - [Utilisation des spectateurs de osu!tourney](Spectator_usage)
-- [Skinning d'osu!tourney](Skinning)
-- [Commandes de gestion des tournois](Tournament_management_commands)
-- [Dépannage](Troubleshooting)
