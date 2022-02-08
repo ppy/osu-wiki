@@ -40,13 +40,13 @@
 
 **第一期聚光灯（月赛，原 charts）奖章**通过完成对应的[第一期聚光灯](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)曲包来获得。为了解锁此类奖章，玩家需要在四个模式中其中一个模式的第一期聚光灯排行榜竞争。允许使用[降低难度的 mods](/wiki/Game_modifier#difficulty-reduction) 和[提升难度的 mods](/wiki/Game_modifier#difficulty-increase)。
 
-虽然第一期聚光灯在 2018 年 4 月被[第二期聚光灯](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)替代而不再发行，但时至今日，原有对应的奖章仍然可以获得。
+虽然第一期聚光灯的奖章在 2018 年 4 月被[第二期聚光灯](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)替代而不再发行，但时至今日仍可以获得对应的奖章。
 
 ## 第二期聚光灯
 
 **第二期聚光灯（季赛）奖章**在完成对应的[第二期聚光灯](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)曲包后获得。为了解锁此类奖章，玩家需要在四个模式中其中一个模式的第二期聚光灯排行榜竞争。允许使用[降低难度的 mods](/wiki/Game_modifier#difficulty-reduction) 和[提升难度的 mods](/wiki/Game_modifier#difficulty-increase)。
 
-虽然第二期聚光灯在 2020 年初被[第三期聚光灯机制](/wiki/Beatmap_Spotlights)替代而不再发行，但时至今日，原有对应的奖章仍然可以获得。
+虽然第二期聚光灯的奖章在 2020 年初被[第三期聚光灯机制](/wiki/Beatmap_Spotlights)替代而不再发行，但时至今日仍可以获得对应的奖章。
 
 ## 挑战曲包
 
