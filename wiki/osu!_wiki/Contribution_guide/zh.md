@@ -30,7 +30,7 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 
 完成编辑后，请花一些时间校对你的工作。浏览以下快速清单：
 
-- **中性语气**：在 osu! wiki 的文章中，除了特殊情况，必须使用中性语气。
+- **注意遣词**：编写 osu! wiki 文章时，除了特殊情况必须使用中性语气。
 - **风格与语法**：文章应该清晰、易于理解，并且不需要读者付出大量的脑力劳动。保持一致，避免过于复杂或突然的句子。使用带有内置拼写检查器的编辑器，例如 [Google 文档](https://docs.google.com)，以检查拼写错误和语法错误。
 - **[内容对等](/wiki/Article_styling_criteria/Formatting#content-parity)**：翻译必须包含与原始文章相同的信息（标点符号、措辞或格式的差异显然是允许的）。如果你认为原文的内容未完成、不准确或已过时，与其更改翻译的内容，你可以选择[提出一个 issues](https://github.com/ppy/osu-wiki/issues/new) 或者为原文章创一个新的 Pull request。
 - **结构与格式**：使用诸如 [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) 的工具来预览你的文章，以确保他看起来像你想要的样子。
@@ -54,7 +54,7 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 
 - 确保你已解决所有建议 - 他们可能在等待你的回复。
 - 在 [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server)（`#osu-wiki` 频道）或者 GitHub 的评论中询问其他 osu! wiki 编辑者。
-- 要获得翻译帮助，请检查几个你的语言的已合并 Pull request，并与他们的审阅者或者作者联系（[示例 GitHub 查询](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BZH%5D)。注：对于中文文章，你可以在 GitHub 的评论或描述中 `@osu-translate-zh` 来寻求 osu!中文翻译组织 的审阅。
+- 要获得翻译帮助，请检查几个你的语言的已合并 Pull request，并与他们的审阅者或者作者联系（[示例 GitHub 查询](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BZH%5D)）。注：对于中文文章，你可以在 GitHub 的评论或描述中 `@osu-translate-zh` 来寻求 osu!中文翻译组织 的审阅。
 - 叫你的朋友快速检查一下！
 
 除了人工审核过程之外，osu! wiki 存储库也会进行 [自动检查](/wiki/osu!_wiki/Maintenance#ci-checks)，以确保你的更改遵循 wiki 的通用样式并且没有格式错误。要查看它们的状态，请在 `Actions` 选项卡中找到你的 Pull request，然后按照错误下面的诊断消息（如果有）进行操作。
