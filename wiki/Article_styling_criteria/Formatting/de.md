@@ -806,6 +806,7 @@ Blockzitate sind auf das Zitieren von Texten von anderen beschränkt. Sie dürfe
 
 ```markdown
 > plz enjoy game
+
 —rrtyui
 ```
 
@@ -813,6 +814,7 @@ Wenn nicht das Originalzitat angeben wird, sondern eine Übersetzung, dann muss 
 
 ```markdown
 > bitte habt Spaß am Spiel
+
 —rrtyui (auf Deutsch übersetzt)
 ```
 
