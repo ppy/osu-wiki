@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 904eb67084cd5fe736008ae93bfa4033dfa11b49
+---
+
 # Règles pour les Beatmap Nominators
 
 Les règles énumérées ici concernent ce que les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) peuvent et ne peuvent pas faire lorsqu'ils nominent des beatmaps et donnent le ton de la conduite générale attendue de ces utilisateurs. Ces règles sont le résultat d'une discussion au sein de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) et ont pris en compte les commentaires des Beatmap Nominators lors de leur proposition.
