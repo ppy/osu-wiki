@@ -50,7 +50,7 @@ no_native_review: true
 4. 找到並開啟圖譜包(副檔名為 `.osz`)檔案。
    - 或者，您也可以將檔案放進 osu! 安裝目錄下的 `Songs` 資料夾。
 5. osu! 會自動處理剩下的事情並載入圖譜。
-   - 如果您還是沒有看到圖譜的話，在[圖譜選擇](/wiki/Client/Interface#song-selection-screen)畫面中按下 `F5` 來重新處理圖譜檔案。
+   - 如果您還是沒有看到圖譜的話，在[圖譜選擇](/wiki/Client/Interface#song-select)畫面中按下 `F5` 來重新處理圖譜檔案。
 
 ### osu!direct
 
@@ -61,7 +61,7 @@ no_native_review: true
 3. 在歌曲上連點兩下左鍵或點擊右邊的 `Download` 按鈕來下載。
    - 如果您不想下載圖譜影片，點擊 `DL NoVideo`。
 4. osu! 會在下載完圖譜後自動載入。
-   - 如果您還是沒有看到圖譜的話，在[圖譜選擇](/wiki/Client/Interface#song-selection-screen)畫面中按下 `F5` 來重新處理圖譜檔案。
+   - 如果您還是沒有看到圖譜的話，在[圖譜選擇](/wiki/Client/Interface#song-select)畫面中按下 `F5` 來重新處理圖譜檔案。
 
 ## 新增 Skin
 
