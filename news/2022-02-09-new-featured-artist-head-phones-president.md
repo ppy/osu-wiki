@@ -8,7 +8,7 @@ date: 2022-02-09 09:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/238/header.jpg)
 
-An innovator in Japan's alternative heavy rock movement, 4-piece band **HEAD PHONES PRESIDENT** isn't what you'd expect from J-rock. Mixing tribal rhythms with intense melodies and vocalist *ANZA*'s raw emotion, the band's unparalleled style has been center stage at countless live msuic festivals throughout Japan, and is now front and center here on osu!.
+An innovator in Japan's alternative heavy rock movement, 4-piece band **HEAD PHONES PRESIDENT** isn't what you'd expect from J-rock. Mixing tribal rhythms with intense melodies and vocalist *ANZA*'s raw emotion, the band's unparalleled style has been center stage at countless live music festivals throughout Japan, and is now front and center here on osu!.
 
 **10** headbangers can be spooled up from [**HEAD PHONES PRESIDENT**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/238), coming from two of their major studio releases *Realize* and *Respawn*.
 
