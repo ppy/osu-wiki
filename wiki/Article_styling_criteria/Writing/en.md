@@ -321,6 +321,10 @@ Contractions must not be used.
 
 The serial comma, also known as the Oxford or Harvard comma, must be used.
 
+### Em dash
+
+Em dashes (`—`) must be used without spaces around them. Hyphens must not be used in their place.
+
 ### Logical quotations
 
 Refer to [Wikipedia's Manual of Style for logical quotations](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside).
@@ -328,6 +332,8 @@ Refer to [Wikipedia's Manual of Style for logical quotations](https://en.wikiped
 From Wikipedia's Manual of Style:
 
 > Include terminal punctuation within the quotation marks only if it was present in the original material, and otherwise place it after the closing quotation mark. For the most part, this means treating periods and commas in the same way as question marks: keep them inside the quotation marks if they apply only to the quoted material and outside if they apply to the whole sentence.
+
+By extension, [emphasis](/wiki/Article_styling_criteria/Formatting#emphasising), [links](/wiki/Article_styling_criteria/Formatting#links), and parentheses should follow the same rules regarding punctuation (i.e. whether they enclose a whole sentence or only part of one).
 
 ## Pronunciation
 
