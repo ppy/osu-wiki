@@ -252,7 +252,7 @@ Kopfnoten mit *Für andere Bedeutungen* sind den Kopfnoten mit *Nicht zu verwech
 
 *Nicht zu verwechseln mit [Kopfnote](#kopfnote).*
 
-Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werden, allerdings muss dafür ein neuer Paragraph angefangen werden, der Kursivschrift nutzt. Hinweise dürfen Fettschrift enthalten, sofern angemessen, aber dies sollte auf ein Minimum begrenzt werden. Hinweise müssen als ganze Sätze geschrieben werden. Damit müssen Hinweise, nicht wie die meisten [Kopfnoten](#kopfnoten), einen Punkt (`.`) oder ein Ausrufezeichen (`!`) verwenden. Alles in einem Paragraphen eines Hinweises muss kursiv sein. Diese Kopfnoten müssen wie folgt formatiert werden:
+Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werden, allerdings muss dafür ein neuer Paragraf angefangen werden, der Kursivschrift nutzt. Hinweise dürfen Fettschrift enthalten, sofern angemessen, aber dies sollte auf ein Minimum begrenzt werden. Hinweise müssen als ganze Sätze geschrieben werden. Damit müssen Hinweise, nicht wie die meisten [Kopfnoten](#kopfnoten), einen Punkt (`.`) oder ein Ausrufezeichen (`!`) verwenden. Alles in einem Paragrafen eines Hinweises muss kursiv sein. Diese Kopfnoten müssen wie folgt formatiert werden:
 
 ```markdown
 *Tipp: {Tipp}.*
@@ -301,7 +301,7 @@ Namen von Videospielen sollten in Kursivschrift stehen. osu!—das Spiel—ist d
 Beispielsweise bei der Nennung von Songtiteln im Format `{artist} - {title}`, ist der gesamte Teil ein Verweis auf das Werk und sollte deshalb kursiv sein:
 
 ```markdown
-*cYsmix - triangles* ist eine der drei Titelsongs, die beim Starten des Spiel-Clients gehört werden können.
+*cYsmix - triangles* ist einer der drei Titelsongs, die beim Starten des Spiel-Clients gehört werden können.
 ```
 
 Künstlernamen sind ansonsten grundsätzlich nicht in Kursivschrift. Das bedeutet, dass bei Freiformverweisen nur der Titel kursiv gesetzt sein sollte, da der Künstlername nicht Teil des Werks ist:
@@ -321,7 +321,7 @@ Verlinkter Text erscheint in einer anderen Farbe, wodurch dieser bereits betont 
 Das wird jedoch nicht angewendet, wenn das verlinkte Werk nicht der einzige Teil des Links ist:
 
 ```markdown
-[Die Beatmap von Voltaeyx zu *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794) erlangte im Jahr 2018 beträchtliche Popularität, da es einzigartige überlappende Slider-Pattern beinhaltet.
+[Die Beatmap von Voltaeyx zu *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794) erlangte im Jahr 2018 aufgrund ihrer einzigartigen überlappenden Slider-Patterns beträchtliche Popularität.
 ```
 
 Die oben angegebene Art der Konstruktion sollte nur selten verwendet werden und darf nicht an Stellen mit vielen Links benutzt werden, wie z. B. Tabellen oder Listen.
