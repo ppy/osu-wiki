@@ -226,7 +226,7 @@ The bottom section of the screen is the [chat console](/wiki/Client/Interface/Ch
 
 After a concluded match, the result will be displayed at another tab called `#userlog` privately (only applies to `Head to Head` team mode) by BanchoBot with the content `You placed #{placement} of {total} players in multiplayer on {beatmap} [difficulty] <game mode>.`
 
-![](img/multi-mh.jpg "Example of a match history.")<!-- use new image? -->
+![](img/multi-mh.jpg "Example of a match history.")
 
 ## While playing
 
