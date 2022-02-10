@@ -10,7 +10,7 @@ The community has voted, and the results are in! Behold, the Community and Mappe
 
 If you've been living under a rock since 2022 started, the Community Choice polls are a special event we host each year where the community gets together and votes for their favourite maps of the past year in a tally of epic proportions.
 
-Continuing the trend we started last year, this year's results is divvied up into two categories: the Community Favourites and the Mapper's Favourites, which come from the total community vote and a special ranked mapper only vote respectively.
+Continuing the trend we started last year, this year's results is divvied up into two categories: the Community Favourites and the Mapper's Favourites, which come from the total community vote and a special ranked mapper-only vote respectively.
 
 Onwards to the winners:
 
@@ -76,7 +76,7 @@ Finalists:
 
 ![](/wiki/shared/news/2022-02-10-community-choice-results/taiko-mf.jpg)
 
-Moving on to set with some actual thought behind it, we arrive at the Mapper's Favourite category, which is very interestingly deadlocked in a two way tie between [**Tanchiky - ENERGY SYNERGY MATRIX**](https://osu.ppy.sh/beatmapsets/1247020) by [**Genjuro**](https://osu.ppy.sh/users/3196091), and [**Dz'Xa - RAGECONTROLEX**](https://osu.ppy.sh/beatmapsets/1408772) by [**tasuke912**](https://osu.ppy.sh/users/2774767), both rocking exactly **24** votes.
+Moving on to a set with some actual thought behind it, we arrive at the Mapper's Favourite category, which is very interestingly deadlocked in a two-way tie between [**Tanchiky - ENERGY SYNERGY MATRIX**](https://osu.ppy.sh/beatmapsets/1247020) by [**Genjuro**](https://osu.ppy.sh/users/3196091), and [**Dz'Xa - RAGECONTROLEX**](https://osu.ppy.sh/beatmapsets/1408772) by [**tasuke912**](https://osu.ppy.sh/users/2774767), both rocking exactly **24** votes.
 
 Since we're not going to cut a badge in half and give them one bit each, they both go home with the Mapper's Favourite accolade. Congratulations!
 
@@ -95,7 +95,7 @@ Finalists:
 
 [![](/wiki/shared/news/2022-02-10-community-choice-results/take.jpg)](https://osu.ppy.sh/beatmapsets/1295206)
 
-Screaming to the top of the voting at a whopping 5 to 315+ bamboo per minute is none other than [**Risshuu feat. Choko - Take**](https://osu.ppy.sh/beatmapsets/1295206) by [**Kukkai**](https://osu.ppy.sh/users/7811952) with **72** total votes as the newest Community Favourite map. Good luck getting the track out of your head!
+Screaming to the top of the voting at a whopping 5 to 315+ BPM (Bamboo Per Minute) is none other than [**Risshuu feat. Choko - Take**](https://osu.ppy.sh/beatmapsets/1295206) by [**Kukkai**](https://osu.ppy.sh/users/7811952) with **72** total votes as the newest Community Favourite map. Good luck getting the track out of your head!
 
 A dedicated Rish fanatic, Kukkai has been hard at work on their aptly titled "Rish feat. Choko Project", which features not only this map, but also nearly four others in a true self-made labour of love for obnoxiously catchy rhythmic masterpieces.
 
@@ -143,7 +143,7 @@ Here's a brief snippet from the comments of the map:
 - "You don't care about it's overwhelming difficulty, and actually nominate it. You broke the rules. We're very thankful for that."
 - "the song from rowbeets!!1!!1111! 😱😱😱😱😱"
 
-Blood, sweat and tears are the polish that makes a map truly shine, and it is clear that Dark Sheep has them in abundance if the community is anything to go by. Well done!
+Blood, sweat and tears are the polish that makes a map truly shine, and it is clear that *Dark Sheep* has them in abundance if the community is anything to go by. Well done!
 
 Finalists:
 
@@ -161,7 +161,7 @@ Finalists:
 
 A trek over to the mapping community's side of things has us set off on a journey with [**John Wasson - Caravan**](https://osu.ppy.sh/beatmapsets/1086739) by [**Evening**](https://osu.ppy.sh/users/2193881) with **24** votes, barely overtaking its nearest rival by a mere four votes.
 
-A nine minute journey into 8/9 smooth jazz by one of osu!mania's most reputable mappers is possibly the strongest indictment yet for just how good of a map it must be. Getting anybody to play nine minutes of *anything* is a testament to the experience, let alone the herculean effort involved to render this critical masterpiece mappable to begin with.
+A nine-minute journey into 8/9 smooth jazz by one of osu!mania's most reputable mappers is possibly the strongest indictment yet for just how good of a map it must be. Getting anybody to play nine minutes of *anything* is a testament to the experience, let alone the herculean effort involved to render this critical masterpiece mappable to begin with.
 
 Finalists:
 
