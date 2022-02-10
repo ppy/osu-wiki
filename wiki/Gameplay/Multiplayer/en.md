@@ -104,9 +104,9 @@ At the right side is a button to pause the currently playing song.
 
 ### Current players list
 
-<!-- TODO: add image -->
+![](img/multi-match-current-players-list.jpg "Example of the current players list")
 
-The players list shows all slots for a match. The bracket shows the number of available players in the match over the total allowed players.
+The players list shows all slots for a match. The bracket shows the number of available players in the match over the total amount of allowed players.
 
 Unlocked slots are still available and can be used by clicking on them. Slots with a closed lock besides them aren't accessible. Players are able to change their flag colour to blue/red if it is a team play. Hovering above a player bar will show the level, nation and [accuracy](/wiki/Gameplay/Accuracy) of the player in question. If `Free Mods` is enabled, it also shows the mods used by the player.
 
