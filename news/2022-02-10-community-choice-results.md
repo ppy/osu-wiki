@@ -60,7 +60,7 @@ Finalists:
 
 Living up 2021 to the fullest, the osu!taiko community ejected all reason out of the airlock and threw their weight behind [**Leonz - Among Us Trap Remix (Among Drip Theme Song)**](https://osu.ppy.sh/beatmapsets/1421463) with **78** votes.
 
-There's very little to say about this map other than one thing: ඞ. He does have drip though.
+ඞ sus
 
 Finalists:
 
