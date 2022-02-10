@@ -155,7 +155,7 @@ Finalists:
 - [**Camellia - Flamewall**](https://osu.ppy.sh/beatmapsets/1270879) by [**riunosk**](https://osu.ppy.sh/users/5594381) with **166** votes.
 - [**Zekk - Re_Construct**](https://osu.ppy.sh/beatmapsets/1492528) by [**Lita-**](https://osu.ppy.sh/users/15205070) with **160** votes.
 - [**MisoilePunch - VVelcome!!**](https://osu.ppy.sh/beatmapsets/1235288) by [**Aruel**](https://osu.ppy.sh/users/3984370) with **155** votes.
-- [**MisoilePunch ~Takenoko Soe~ - Staring at star**](https://osu.ppy.sh/beatmapsets/920688) by [**Murumoo**](https://osu.ppy.sh/users/8001433) with **154** votes.
+- [**MisoilePunch \~Takenoko Soe\~ - Staring at star**](https://osu.ppy.sh/beatmapsets/920688) by [**Murumoo**](https://osu.ppy.sh/users/8001433) with **154** votes.
 
 [![](/wiki/shared/news/2022-02-10-community-choice-results/caravan.jpg)](https://osu.ppy.sh/beatmapsets/1086739)
 
