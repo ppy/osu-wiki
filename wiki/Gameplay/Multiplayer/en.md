@@ -94,7 +94,7 @@ And here is the view of the player:
 
 ### Header section
 
-<!-- TODO: add image -->
+![](img/multi-match-header.jpg "Example of the header")
 
 There is a phrase in the top-left displaying `Match Setup`, and whether you're the host or a player.
 
