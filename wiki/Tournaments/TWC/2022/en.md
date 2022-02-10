@@ -40,16 +40,16 @@ The osu!taiko World Cup 2022 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
-| Mappool selector | ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_JP] [Maimaing](https://osu.ppy.sh/users/14520910), ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107) |
+| Mappool selector | ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_JP] [Maimaing](https://osu.ppy.sh/users/14520910) |
 | Commentator | *TBD* |
 | Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
 
+- [Sign up here](https://osu.ppy.sh/community/tournaments/32)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1519196)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Sign up here](https://osu.ppy.sh/community/tournaments/32)
 
 ## Ruleset
 
@@ -111,7 +111,7 @@ The osu!taiko World Cup 2022 is run by various community members.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!taiko global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the Registration Phase.
-   - A team should have at least 32 players registered to have the chance to play the Qualifier stage.
+   - A team should have at least 4 players registered to have the chance to play the Qualifier stage. This limitation may be change depending on the amount of signups.
    - The top 32 seeded teams will qualify to the Round of 32.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators.
 
