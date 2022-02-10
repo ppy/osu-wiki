@@ -40,7 +40,7 @@ The osu!taiko World Cup 2022 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
-| Mappool selector | ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_JP] [Maimaing](https://osu.ppy.sh/users/14520910), ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107) |
+| Mappool selector | ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_JP] [Maimaing](https://osu.ppy.sh/users/14520910) |
 | Commentator | *TBD* |
 | Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -58,7 +58,7 @@ The osu!taiko World Cup 2022 is run by various community members.
 1. The osu!taiko World Cup is a country-based team tournament, played on the osu!taiko game mode.
    - **While this competition is planned as a 3 versus 3 setup, this might change depending on the number of incoming registrations.**
 2. Beatmap scoring is based on Score V2.
-3. The maps for each round will be announced by the mapset selectors on Sunday before the actual matches take place. Only these will be used during the respective matches.
+3. The maps for each round will be announced by the mappool selectors on Sunday before the actual matches take place. Only these will be used during the respective matches.
 4. The match schedule will be settled by the Tournament Management (see above).
 5. If no referee is available at match time, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
