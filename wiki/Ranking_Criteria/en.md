@@ -20,8 +20,8 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 ### Rules
 
 - **No two hit objects can be placed on the same tick.** This includes hit circles and the durations of sliders and spinners. osu!mania difficulties are exempt from this.
-- **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. See [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations) for more detailed rules.
-- **Difficulties that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or colour in the storyboard or video must use an epilepsy warning.** If the warning interferes with gameplay, audio lead-in must be made longer. Strobing effects at 3 Hz (i.e. 3 flashes per second) and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
+- **There must not be any obscene imagery in the [background](/wiki/Beatmap/Background)/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. See [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations) for more detailed rules.
+- **Difficulties that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or colour in the storyboard or video must use an epilepsy warning.** If the warning interferes with gameplay, [audio lead-in](/wiki/Glossary/Lead-in) must be made longer. Strobing effects at 3 Hz (i.e. 3 flashes per second) and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
 - **There must not be any unused files or 0-byte files in the beatmap's folder.** 0-byte files prevent other files in a beatmap's folder from properly uploading. Automatically generated `thumbs.db` files are the only exceptions.
 - **[Break times](/wiki/Beatmap/Break) must be inserted with the restrictions of the [beatmap editor](/wiki/Client/Beatmap_editor).**
 - **[Difficulty settings](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) must not use more precision than is possible in the [beatmap editor](/wiki/Client/Beatmap_editor).**
@@ -32,8 +32,8 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 - **Creators of the media used in a beatmap should be credited in the beatmap's description.** Per the [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines), media used in beatmaps should be permitted for use in osu!, and their licensing will likely detail how to credit their creators. Common reasons to omit credits from the description include exceeding difficulty in sourcing, creators' wishes to remain uncredited, and presence of credits in the artist, title, or source fields.
 - **Directly re-using your own Ranked difficulties in other Ranked beatmaps is discouraged.** This is to avoid unnecessary bloating of Ranked content.
-- **Slider tick rate should not be modified through the `.osu` file.** Most custom values result in unsnapped slider ticks, however tick rates 0.5, 1.333, and 1.5 have practical use and can be applied only when they do not cause slider ticks to be unsnapped.
-- **Kiai should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
+- **[Slider tick rate](/wiki/Beatmapping/Slider_tick_rate) should not be modified through the `.osu` file.** Most custom values result in unsnapped slider ticks, however tick rates 0.5, 1.333, and 1.5 have practical use and can be applied only when they do not cause slider ticks to be unsnapped.
+- **[Kiai](/wiki/Gameplay/Kiai_time) should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
 - **The `Enable countdown` setting should be consistent between difficulties of the same mode.** If a difficulty does not have a long enough intro period for the countdown to occur, this setting does not need to be consistent.
 
 ## Beatmap
@@ -67,7 +67,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 - **Avoid incomprehensible username combinations to indicate possession of a [collaborative difficulty](/wiki/Beatmap/Beatmap_collaborations).** If it's unclear whose usernames are combined, simplification is recommended.
 - **Avoid difficulty names with descriptive elements not clearly related to a [guest difficulty](/wiki/Beatmap/Guest_difficulty) creator or a level of difficulty.** (e.g. Beatmap Creator's Tragic Love Extra)
 - **Usernames indicating possession of a [guest difficulty](/wiki/Beatmap/Guest_difficulty) should be consistent between multiple beatmaps.** Varying nicknames for one user makes interpreting who created a difficulty ambiguous or misleading.
-- **Avoid non-alphanumeric unicode characters in a difficulty's name.** These can cause errors with the beatmap submission system and problems for certain users when appearing in chat.
+- **Avoid non-alphanumeric unicode characters in a difficulty's name.** These can cause errors with the [beatmap submission system](/wiki/Submission) and problems for certain users when appearing in chat.
 
 ## Metadata
 
@@ -86,7 +86,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
   - `osu!` itself should never be used in the source field except in cases where the track was specifically created for osu! (also known as an osu! original), such as commissioned tournament tiebreaker tracks.
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
 - **If the artist or title fields were shortened to fit in field limits, the omitted information must be added to the tags.**
-- **If the song mapped is a licensed one in the Featured Artist library, `featured artist` must be added to tags.**
+- **If the song mapped is a licensed one in the [Featured Artist](/wiki/Featured_Artists) library, `featured artist` must be added to tags.**
 - **Tags must be related to the beatmap and not misleading for search results.** Tags describing the beatmap's style, song, storyboard, video, or background content are considered to be related to the beatmap.
 
 #### Standardisation
@@ -133,7 +133,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 - **In the case of compilations or remixes, the original song title(s) and artist(s) should be included in tags.** This is to ensure that players can find all beatmaps of one song by searching the same thing without getting vastly different results.
 - **Songs with metadata that contains ambiguous or hard to write unicode characters should add easily searchable variations or romanisations of these words to the beatmap's tags.**
 - **If the source of the song is available in both unicode and romanised formats, the option not used in the source field should be added to tags.**
-- **Song genre and language should be added to the tags of a beatmap.** This is to enable users to search using these terms in-game like they do on the website. For instrumental tracks, "instrumental" is considered the language tag. Exceptions would be when language and/or genre are not clear, or multiple apply. In case of the latter, one fitting tag for each may be applied.
+- **Song [genre and language](/wiki/Beatmap/Genre_and_language) should be added to the tags of a beatmap.** This is to enable users to search using these terms in-game like they do on the website. For instrumental tracks, "instrumental" is considered the language tag. Exceptions would be when language and/or genre are not clear, or multiple apply. In case of the latter, one fitting tag for each may be applied.
 - **Tags should be added for related artists, alternate names for the artist, title, or source, contractions in any part of the metadata with the apostrophe removed, and whatever else may aid a player in finding the beatmap.**
 
 #### Standardisation
@@ -162,13 +162,13 @@ This category contains explicit allowance statements of concepts and rules that 
 - **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must be used to accurately beatmap the song's time signatures.** If an incorrect time signature lasts for more than one bar, a uninherited timing point must be added on the next downbeat to reset the time signature. For #/4-signatures unsupported by the editor, metronome resets or editing of the `.osu` file are acceptable. For other unsupported time signatures, refer to this [exemplary chart](/wiki/shared/timing/Timing_signature_reference_chart.png), and see [this guide](/wiki/Guides/Timing_Songs_With_8-Signatures) for further information.
 - **Beatmaps must be perfectly timed.** This means [BPM](/wiki/Beatmapping/Beats_per_minute) and [offset](/wiki/Beatmapping/Offset) are exactly synchronised with the song. Beatmaps with constantly changing BPM may be impossible to perfectly time and should instead be as accurate as possible without negatively affecting gameplay. Complex timing during breaks or spinners is optional.
 - **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must be the same in every difficulty of a beatmap.** Each point must have the same [BPM](/wiki/Beatmapping/Beats_per_minute) and [offset](/wiki/Beatmapping/Offset) in each difficulty.
-- **There must not be extra [uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) in any difficulty.** These may accidentally affect main-menu pulsing, add unwanted sounds to the Nightcore mod, or cause timing to shift. Acceptable uses include:
+- **There must not be extra [uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) in any difficulty.** These may accidentally affect main-menu pulsing, add unwanted sounds to the [Nightcore mod](/wiki/Game_modifier/Nightcore), or cause timing to shift. Acceptable uses include:
   - Aligning beats of the Nightcore mod with the start of musical sections.
   - Accommodating for objects in musical sections requiring unsupported beat snap divisors (e.g. 1/11).
 - **No two [uninherited](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) or two [inherited timing points](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) can be placed at the same point.** Having two uninherited or two inherited timing points on top of each other will cause unintended behaviour for slider velocity and volume settings.
 - **An [inherited timing point](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) cannot be placed before the first [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point).** Without having any settings to inherit, an inherited timing point does not function properly. If you wish to alter hitsounds or slider velocities before the first uninherited timing point, it must be moved back one full measure so that inherited timing points may be used.
-- **A beatmap's first [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) cannot be used to toggle kiai.** Doing this will cause the kiai to flash before objects appear. An [inherited point](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) in the same position as the first uninherited point must be used to toggle kiai instead.
-- **Objects must be snapped to timeline ticks according to AiMod.** Objects in a musical section requiring unsupported beat snap divisors (e.g. 1/11) can either:
+- **A beatmap's first [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) cannot be used to toggle [kiai](/wiki/Gameplay/Kiai_time).** Doing this will cause the kiai to flash before objects appear. An [inherited point](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) in the same position as the first uninherited point must be used to toggle kiai instead.
+- **Objects must be snapped to timeline ticks according to [AiMod](/wiki/Client/Beatmap_editor/AiMod).** Objects in a musical section requiring unsupported beat snap divisors (e.g. 1/11) can either:
   - Remain unsnapped, as long as they align with the intended beat snap divisor.
   - Be snapped through a temporary change in [BPM](/wiki/Beatmapping/Beats_per_minute).
 - **An object which is wrongly snapped due to passing through or ending slightly before a new [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must have its tail snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging the end of the object in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the `.osu` file.
@@ -180,7 +180,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **A beatmap's audio file must use the `.mp3` or `.ogg` file format and have an average bit rate no greater than 192kbps.**
 - **A beatmap may only contain one song file used by all difficulties.** Multiple song files within a single beatmap are unsupported and result in unexpected behaviour with preview times, metadata, etc.
 - **A song's audio file and hitsound files must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalised to their original release volumes and should not be encoded to a bit rate higher than their original files.
-- **Beatmaps must be hitsounded.** Hitnormals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.
+- **A beatmap must be [hitsounded](/wiki/Beatmapping/Hitsound).** Hitnormals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.
   - **osu!mania beatmaps do not require hitsound additions.** This is to allow for easier approachability to osu!mania mappers of different upbringings. It is still highly recommended to add hitsounds to improve the feel of your beatmaps. In cases where hitsounds are not used, *no* additions may be placed, and *no* sample control points should be used (ie. to adjust volume).
 - **All clicked parts of objects must have at least one hitsound which both...**
   - **...has a clear impact, whose peak is delayed no more than 5 milliseconds.** `normal-hitfinish.wav` from the default skin is exempt from this.
