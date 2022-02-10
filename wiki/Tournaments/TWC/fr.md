@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 0b5f6aad803ff6597cfaf0100e1630f5bedade96
----
-
 # osu!taiko World Cup
 
 Page d'index pour toute la série osu!taiko World Cup.
