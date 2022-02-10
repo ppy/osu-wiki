@@ -36,9 +36,9 @@ For more details on these changes, please refer to the **[osu!taiko World Cup 20
 
 ## How do I register?
 
-- **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/32)**
+- **[Click here to sign up!](https://osu.ppy.sh/community/tournaments/32)**
 - Do not create teams in advance! Teams will be formed by each country's team captain after the Registration Phase is concluded.
-- Submit your registration before the **24th of February, 23:59 UTC.**
+- Submit your registration before the **24th of February, 23:59 UTC**.
 
 Please note that you may only participate if your **osu!taiko Global Ranking is #5000 or higher, and you have not violated the [osu! community rules](/wiki/Rules) in the past 12 months**.
 
