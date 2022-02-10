@@ -10,7 +10,7 @@ Drum enthusiasts rejoice, the osu!taiko World Cup returns for its twelfth instal
 
 The osu!taiko World Cup has jokingly been referred to as "Japan sweeping simulator 20XX" in the past, but not without good reason. Japan has convincingly won the past 8 iterations and has shown no signs of slowing down. Will this year be any different?
 
-Every new instalment of the osu!taiko World Cup brings something new to the table, and this year is no exception. Chief among these changes is the introduction of the Qualifier Stage, which will be replacing the old Group Stage format. Teams will compete on a set of 10 maps to determine their seeding into a RO32 double elimination bracket.
+Every new instalment of the osu!taiko World Cup brings something new to the table, and this year is no exception. Chief among these changes is the introduction of the Qualifier Stage, which will be replacing the old Group Stage format. Teams will compete on a set of 10 maps to determine their seeding into a RO32 double elimination bracket. Furthermore, for the first time since 2017, the competition has been planned as a 3 versus 3 format, provided the number of participants justify it.
 
 For more details on these changes, please refer to the **[osu!taiko World Cup 2022 wiki article](/wiki/Tournaments/TWC/2022)**. You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1519196)** or at the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
