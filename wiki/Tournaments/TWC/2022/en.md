@@ -47,7 +47,7 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 ## Links
 
-- **[Click here to sign up](https://osu.ppy.sh/community/tournaments/32)!**
+- **[Click here to sign up](https://osu.ppy.sh/community/tournaments/32)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1519196)
 - [Livestream](https://www.twitch.tv/osulive)
 
