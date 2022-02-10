@@ -110,7 +110,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | China | ![][flag_CN] | ![][flag_PH] | Philippines | Feb 13 (Sun) 10:00 UTC | Feb 13 (Sun) 18:00 UTC+8 | Feb 13 (Sun) 18:00 UTC+8 | ³ |
 | China | ![][flag_CN] | ![][flag_JP] | Japan | Feb 13 (Sun) 10:00 UTC | Feb 13 (Sun) 18:00 UTC+8 | Feb 13 (Sun) 19:00 UTC+9 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_MY] | Malaysia | Feb 13 (Sun) 11:30 UTC | Feb 13 (Sun) 20:30 UTC+9 | Feb 13 (Sun) 19:30 UTC+8 | ¹ |
+| South Korea | ![][flag_KR] | ![][flag_MY] | Malaysia | Feb 13 (Sun) 13:00 UTC | Feb 13 (Sun) 22:00 UTC+9 | Feb 13 (Sun) 21:00 UTC+8 | ¹ |
 
 ¹ Winners bracket match\
 ² Losers bracket match\
@@ -411,7 +411,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Mappool instructions
 
-1. There will be one mappool for each stage, except for the Finals and Grand Finals, which will share the same mappool.
+1. There will be one mappool for each stage.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
