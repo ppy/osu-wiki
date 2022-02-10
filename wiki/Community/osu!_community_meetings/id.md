@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: b49301098a9e6de12ad2180c9c22e9868f5ae44f
+---
+
 # Pertemuan komunitas osu!
 
 **Pertemuan komunitas osu!** adalah panel diskusi yang diadakan oleh [tim inti osu!](/wiki/People/The_Team) setiap dua minggu sekali. Tujuan utama dari pertemuan-pertemuan tersebut adalah untuk memberikan kesempatan kepada seluruh pihak untuk berbicara secara langsung dengan pengembang dan orang-orang yang bertanggung jawab dalam mengatur komunitas untuk membahas tentang suatu hal atau pertimbangan lebih lanjut.
@@ -8,7 +13,7 @@ Saat ini, pertemuan komunitas osu! diketuai oleh [peppy](https://osu.ppy.sh/user
 
 Pertemuan diadakan setiap dua minggu sekali dengan pengingat yang diumumkan melalui [akun Twitter peppy](https://twitter.com/ppy) sehari sebelumnya.
 
-Pertemuan komunitas osu! berikutnya akan diadakan pada **hari Minggu, 6 Februari 2022 pukul 01.00 UTC (Minggu, 6 Februari 2022 08.00 WIB)**.
+Pertemuan komunitas osu! berikutnya akan diadakan pada **hari Sabtu, 19 Februari 2022 pukul 13.00 UTC (20.00 WIB)**.
 
 ## Cara berpartisipasi
 
@@ -38,6 +43,7 @@ Pertemuan komunitas osu! pertama diadakan pada 19 September 2021. Semua pertemua
 | 7 | [18 Desember 2021](https://youtu.be/v-LgY3UKhkg) | [Notulen pertemuan](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) | Tanggapan peppy seputar berbagi konflik dan drama yang sedang hangat diperbincangkan oleh para anggota komunitas |
 | 8 | [9 Januari 2022](https://youtu.be/JXgQ6YEDCGg) | [Notulen pertemuan](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | Mekanisme HP (*health drain*) yang berlaku di osu! serta berbagai pertanyaan dari para anggota komunitas |
 | 9 | [22 Januari 2022](https://youtu.be/Prx0XzHl6-M) | [Notulen pertemuan](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | Berbagai pertanyaan dari para anggota komunitas serta berita-berita terkini seputar pengembangan osu! |
+| 10 | [6 Februari 2022](https://youtu.be/xA4nbE8DM4s) | [Notulen pertemuan](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | Berbagai pertanyaan dari para anggota komunitas |
 
 ## Tautan terkait
 
