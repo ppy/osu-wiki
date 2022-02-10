@@ -116,8 +116,7 @@
 - **带有俄语或西里尔字符的元数据必须使用 [BGN/PCGN 方案](https://en.wikipedia.org/wiki/BGN/PCGN_romanization)来罗马音化。** 如果作者愿意，则也可将其用于 Source 字段的罗马音化。
   - 如果 `Е` 和 `е` 单独使用，或在 `a`、`e`、`ё`、`и`、`о`、`у`、`ы`、`э`、`ю`、`я`、`й`、`ъ`、`ь` 之后出现，应化为 `ye`。除此之外应化为 `e`。
   - `ё` 应化为 `yo`，但如果 `ё` 出现在 `ж`、`ч`、`ш`、`щ` 之后，则应化为 `o`。
-  - 使用其他方案而不使用以上方案都是无关紧要或对游戏没有多大帮助的。
-  - 若不使用提供的文件而使用其他规则，都是无关紧要，或是对游戏没有帮助的。对于大部分其他西里尔字符的转换规则，请参阅[这个文件的第一页](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807920/ROMANIZATION_OF_RUSSIAN.pdf)。
+  - 使用其他方案而不使用以上方案都是无关紧要或对游戏没有多大帮助的。对于大部分其他西里尔字符的转换规则，请参阅[这个文件的第一页](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807920/ROMANIZATION_OF_RUSSIAN.pdf)。
 - **带有日文元数据的歌曲必须使用[平文式罗马字方案](https://https://zh.wikipedia.org/wiki/%E5%B9%B3%E6%96%87%E5%BC%8F%E7%BD%97%E9%A9%AC%E5%AD%97)罗马音化。** 如果作者愿意，则也可将其用于 Source 字段的罗马音化。对于非 Unicode 域，为避免出现长元音符号，`おう` 和 `うう` 应该写作罗马音 `ou` 和 `uu`。
 - **带有中文元数据的歌曲，除艺人名称外，都要按照汉字的口音和方言，采用逐字罗马音化，字与字之间加空格的方法处理。** 必须省略所有拼音声调标记。
   - **普通话元数据必须使用汉语拼音系统进行罗马音化处理。**
