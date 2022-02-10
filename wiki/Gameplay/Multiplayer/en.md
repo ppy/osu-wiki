@@ -82,11 +82,13 @@ Pressing the `1. Start Game` button will create the match with the beatmap playi
 
 After going into or creating a match, the match setup will be displayed. The subsections below will focus on the different parts of the screen starting from top to bottom and left to right.
 
-The match setup screen looks different for hosts and players. At the end of this section, there are two example images displaying the differences between what hosts and what players see in the match setup.
-
 The [options](/wiki/Client/Options) can be accessed by pressing `Ctrl` + `O` while in a match.
 
-![](img/Multi_roomhost.jpg "Example of the match as a host")<!-- TODO: Take new image without numbers -->
+The match setup screen looks different for hosts and players. Here is what you can see as the host:
+
+![](img/Multi_roomhost.jpg "Example of the match as a host")
+
+And here is the view of the player:
 
 ![](img/Multi_roomplayer.jpg "Example of the match as a player")
 
