@@ -6,7 +6,7 @@ date: 2022-02-10 10:00:00 +0000
 
 Drum enthusiasts rejoice, the osu!taiko World Cup returns for its twelfth instalment!
 
-![](wiki/shared/news/2022-02-10-osu-taiko-world-cup-2022-registrations-now-open/twc-2022-banner@2x.jpg)
+![](/wiki/shared/news/2022-02-10-osu-taiko-world-cup-2022-registrations-now-open/twc-2022-banner@2x.jpg)
 
 The osu!taiko World Cup has jokingly been referred to as "Japan sweeping simulator 20XX" in the past, but not without good reason. Japan has convincingly won the past 8 iterations and has shown no signs of slowing down. Will this year be any different?
 
