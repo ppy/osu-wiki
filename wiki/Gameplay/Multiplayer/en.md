@@ -123,7 +123,7 @@ There are four important states to take note of:
 
 ### Match settings
 
-<!-- TODO: add image -->
+![](img/multi-match-settings.jpg "Match settings")
 
 This section is about the match settings. The host can change the game name, the beatmap, the team mode and other stuff.
 
