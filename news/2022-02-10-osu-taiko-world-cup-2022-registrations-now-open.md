@@ -1,24 +1,18 @@
 ---
 layout: post
 title: "osu!taiko World Cup 2022: Registrations now open!"
-date: 2022-02-10 15:00:00 +0000
+date: 2022-02-10 10:00:00 +0000
 ---
 
 Drum enthusiasts rejoice, the osu!taiko World Cup returns for its twelfth instalment!
 
-<!-- 
-TODO
-  - GFX
-  - Tournaments forum discussion thread
-  - cleanup
--->
-![](/wiki/shared/news/banners/TWC_2022.jpg)
+![](wiki/shared/news/2022-02-10-osu-taiko-world-cup-2022-registrations-now-open/twc-2022-banner@2x.jpg)
 
 The osu!taiko World Cup has jokingly been referred to as "Japan sweeping simulator 20XX" in the past, but not without good reason. Japan has convincingly won the past 8 iterations and has shown no signs of slowing down. Will this year be any different?
 
 Every new instalment of the osu!taiko World Cup brings something new to the table, and this year is no exception. Chief among these changes is the introduction of the Qualifier Stage, which will be replacing the old Group Stage format. Teams will compete on a set of 10 maps to determine their seeding into a RO32 double elimination bracket.
 
-For more details on these changes, please refer to the **[osu!taiko World Cup 2022 wiki article](/wiki/Tournaments/TWC/2022)**. You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/)** or at the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
+For more details on these changes, please refer to the **[osu!taiko World Cup 2022 wiki article](/wiki/Tournaments/TWC/2022)**. You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1519196)** or at the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
 ## Tournament schedule
 

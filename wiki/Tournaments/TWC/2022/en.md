@@ -7,7 +7,7 @@ tags:
 
 # osu!taiko World Cup 2022
 
-![TWC 2022 logo](/wiki/shared/news/banners/TWC_2022.jpg)
+![TWC 2022 logo](/wiki/shared/news/2022-02-10-osu-taiko-world-cup-2022-registrations-now-open/twc-2022-banner.jpg)
 
 The **osu!taiko World Cup 2022** (***TWC 2022***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the twelfth instalment of the osu!taiko World Cup.
 
@@ -47,7 +47,7 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 ## Links
 
-<!-- - [Discussion thread]() -->
+- [Discussion thread]()
 - [Livestream](https://www.twitch.tv/osulive)
 - [Sign up here](https://osu.ppy.sh/community/tournaments/32)
 
