@@ -54,7 +54,7 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 
 - 确保你已解决所有建议 - 他们可能在等待你的回复。
 - 在 [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server)（`#osu-wiki` 频道）或者 GitHub 的评论中询问其他 osu! wiki 编辑者。
-- 要获得翻译帮助，请检查几个你的语言的已合并拉取请求，并与他们的审阅者或者作者联系（[示例 GitHub 查询](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BZH%5D)）。注：对于中文文章，你可以在 GitHub 的评论或描述中 `@osu-translate-zh` 来寻求 osu! 中文翻译组织 的审阅。
+- 要获得翻译帮助，请检查几个你的语言的已合并拉取请求，并与他们的审阅者或者作者联系（[示例 GitHub 查询](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BZH%5D)）。注：对于中文文章，你可以在 GitHub 的评论或描述中 `@osu-translate-zh` 来寻求 osu! 中文翻译组织 的审阅。<!-- Translation for additional sentence: "For articles written in Chinese, contributors can mention @osu-translate-zh in GitHub comments for review and/or help." -->
 - 叫你的朋友快速检查一下！
 
 除了人工审核过程之外，osu! wiki 存储库也会进行 [自动检查](/wiki/osu!_wiki/Maintenance#ci-checks)，以确保你的更改遵循 wiki 的通用样式并且没有格式错误。要查看它们的状态，请在 `Actions` 选项卡中找到你的拉取请求，然后按照错误下面的诊断消息（如果有）进行操作。
