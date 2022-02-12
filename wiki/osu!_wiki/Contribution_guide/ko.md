@@ -2,7 +2,7 @@
 
 osu! wiki 개선에 관심을 가져주셔서 감사합니다! 이 문서에서는 기여를 하는 방법을 단계별로 알아볼 수 있습니다. Github 사용에 익숙하신 분의 경우, feature-branch 워크플로우 방식으로 콘텐츠를 업데이트하고 [검토](#검토) 과정으로 넘어가시면 됩니다.
 
-GitHub 혹은 [git](https://git-scm.com/)은 개발자를 대상으로 하는 도구기 때문에 처음 기여하시는 분들은 이것들에 대해 익숙하지 않을 수 있습니다. 그러니 처음에 제대로 이해를 하지 못했다고 해도 걱정하지 마세요. [위키 관리자](/wiki/osu!_wiki/Maintenance/List_of_maintainers)가 올바른 방법을 알려드리거나 수정해 드릴 겁니다.
+GitHub 혹은 [git](https://git-scm.com/)은 개발자를 대상으로 하는 도구기 때문에 처음 기여하시는 분들은 익숙하지 않을 수 있습니다. 그러니 처음에 제대로 이해를 하지 못했다고 해도 걱정하지 마세요. [위키 관리자](/wiki/osu!_wiki/Maintenance/List_of_maintainers)가 올바른 방법을 알려드리거나 수정해 드릴 겁니다.
 
 작업 중 궁금한 것이 생기거나 지원이 필요하시다면, [osu!dev 디스코드 서버](/wiki/Community/osu!dev_Discord_server)의 `#osu-wiki` 채널에 물어보시면 답변해 드리겠습니다.
 
@@ -17,7 +17,7 @@ GitHub 혹은 [git](https://git-scm.com/)은 개발자를 대상으로 하는 �
 osu! 위키 항목은 [GitHub][osu_wiki]에 저장되므로, 기여를 하기 위해서는 다음과 같이 해주세요:
 
 0. Github 계정을 [생성](https://github.com/signup)합니다.
-1. [`ppy/osu-wiki`][osu_wiki] 저장소에 들어가 오른쪽 위, 코너에 있는 `Fork` 버튼을 눌러 사본을 생성합니다. 복사한 저장소로 이동하고 싶다면 [`ppy/osu-wiki`][osu_wiki] 저장소의 `Fork` 버튼을 다시 누르시면 됩니다.
+1. [`ppy/osu-wiki`][osu_wiki] 저장소에 들어가 오른쪽 위, 구석에 있는 `Fork` 버튼을 눌러 사본을 생성합니다. 복사한 저장소로 이동하고 싶다면 [`ppy/osu-wiki`][osu_wiki] 저장소의 `Fork` 버튼을 다시 누르시면 됩니다.
 
   - 만약 저장소를 복사한 날로부터 어느 정도 기간이 지났다면 [모범 사례 § Fork된 저장소 동기화](/wiki/osu!_wiki/Contribution_guide/Best_practices#Fork된-저장소-동기화) 문서를 따라서 동기화를 해주세요.
 
@@ -48,7 +48,7 @@ osu! 위키 항목은 [GitHub][osu_wiki]에 저장되므로, 기여를 하기 �
 
 ## 리뷰
 
-osu! wiki의 모든 변경 사항은 관리됩니다. 이 단계에서 다른 협력자들은 가능한 실수들을 찾아내어 수정할 방향을 자유롭게 제시하거나 Pull Request를 이용하여 직접적으로 제안합니다. 그러므로 다른 협력자들의 리뷰처럼 [제안을 적용](/wiki/osu!_wiki/Contribution_guide/Best_practices#리뷰-적용하기)을 했는지, 아니면 어째서 이대로 유지하려 하는지 설명을 댓글에 적어 나타낼 필요가 있습니다.
+osu! wiki의 모든 변경 사항은 관리됩니다. 이 단계에서 다른 협력자들은 가능한 한 실수들을 찾아내어 수정할 방향을 자유롭게 제시하거나 Pull Request를 이용하여 직접적으로 제안합니다. 그러므로 다른 협력자들의 리뷰와 같이 [제안을 적용](/wiki/osu!_wiki/Contribution_guide/Best_practices#리뷰-적용하기)을 했는지, 아니면 어째서 이대로 유지하려 하는지 설명을 댓글에 적어 나타낼 필요가 있습니다.
 
 만약 시간이 지났음에도 아무도 체크하지 않는다면 다음과 같이 해보세요:
 
