@@ -25,19 +25,19 @@ Need a refresher? Sample **MisoilePunch**'s sound through a video of [MisoilePun
 Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1647720) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/239/Songs/MisoilePunch%20%7EHarumaki%20Soe%7E%20-%20DisXloss.mp3" type="audio/mpeg">
 </audio>
 
 ### Overrrload!!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/239/Songs/MisoilePunch%20-%20Overrrload%21%21.mp3" type="audio/mpeg">
 </audio>
 
 ### I Re:s
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/239/Songs/MisoilePunch%20feat.%20KIRARI%20-%20I%20Res.mp3" type="audio/mpeg">
 </audio>
 
 ---
