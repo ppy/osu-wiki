@@ -243,6 +243,22 @@ The 4 Digit osu!mania World Cup 4 is run by various community members.
 
 ## Match results
 
+### Finals
+
+Saturday, 12 February 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Brazil ![][flag_BR] | 5 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/97675261) |
+| **Thailand** ![][flag_TH] | **7** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/97686988) |
+| Peru ![][flag_PE] | 2 | **7** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/97705570) | 
+
+Sunday, 13 February 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Thailand** ![][flag_TH] | **7** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/97723263) |
+
 ### Semifinals
 
 Saturday, 5 February 2022:
