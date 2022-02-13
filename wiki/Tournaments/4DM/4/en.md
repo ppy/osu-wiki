@@ -251,7 +251,7 @@ Saturday, 12 February 2022:
 | --: | :-: | :-: | :-- | :-- |
 | Brazil ![][flag_BR] | 5 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/97675261) |
 | **Thailand** ![][flag_TH] | **7** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/97686988) |
-| Peru ![][flag_PE] | 2 | **7** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/97705570) | 
+| Peru ![][flag_PE] | 2 | **7** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/97705570) |
 
 Sunday, 13 February 2022:
 
