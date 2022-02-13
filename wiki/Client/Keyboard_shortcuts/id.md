@@ -30,14 +30,14 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | `F12` | Mengambil tangkapan layar (*screenshot*). Klik pada dialog yang muncul untuk membuka folder Screenshots. |
 | `Shift` + `F12` | Mengambil tangkapan layar (*screenshot*) untuk kemudian diunggah ke server osu!. Perintah ini akan menyimpan tangkapan layar (*screenshot*) secara lokal pada folder Screenshots, mengunggahnya, dan menampilkannya pada *browser*. |
 | `Insert` | Tombol ini merupakan [tombol bos (*boss key*)](https://en.wikipedia.org/wiki/Boss_key). Pada saat ditekan, tombol ini akan meminimalkan osu! akan ke area notifikasi dan mematikan suara lagu. |
-| `Shift` + `F1` | Membuka laman [osu!status](https://twitter.com/osustatus) pada *browser*. (Hanya dapat digunakan pada saat osu! gagal terhubung) |
+| `Shift` + `F1` | Membuka laman [osu!status](https://twitter.com/osustatus) pada *browser*. (Hanya dapat digunakan pada saat osu! gagal terhubung.) |
 | `Ctrl` + `O` | Membuka menu Options. Harap diperhatikan bahwa pengaturan *offset* melalui Offset Wizard tidak akan dapat dilangsungkan apabila osu! tidak sedang berada pada menu utama. |
 
 ## Menu utama
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `Alt` + `Enter` | Mengaktifkan/menonaktifkan mode *fullscreen* |
+| `Alt` + `Enter` | Mengaktifkan/menonaktifkan mode *fullscreen*. |
 | `Panah Atas/Bawah` | Mengatur volume. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
 | `Esc` | Mengembalikan osu! ke layar sebelumnya atau membatalkan pilihan. |
 | `P`, `E`, atau `O` | Membuka menu Play. |
@@ -176,7 +176,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `F5` | Memainkan beatmap pada mode uji (*test mode*). |
 | `F6` | Membuka kotak dialog Timing and Control Points. |
 | `Ctrl` + `P` | Menambahkan *uninherited timing point* pada waktu yang ditentukan. Apabila *shortcut* ini dipanggil di luar tab Timing, kotak dialog Timing and Control Points akan ikut terbuka. |
-| `Ctrl` + `Shift` + `P` | Menambahkan *inherited timing point* pada waktu yang ditentukan. Apabila *shortcut* ini digunakan di luar tab Timing, kotak dialog Timing and Control Points akan ikut terbuka. | |
+| `Ctrl` + `Shift` + `P` | Menambahkan *inherited timing point* pada waktu yang ditentukan. Apabila *shortcut* ini digunakan di luar tab Timing, kotak dialog Timing and Control Points akan ikut terbuka. |
 | `Ctrl` + `I` | Menghapus *timing point* (baik yang bersifat *uninherited* maupun *inherited*) yang sedang aktif. *Shortcut* ini tidak dapat digunakan untuk menghapus *uninherited timing point* yang pertama. |
 
 #### Mouse
