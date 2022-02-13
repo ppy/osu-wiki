@@ -39,7 +39,7 @@ Voit ladata beatmappejä kotisivulta tai osu!direct'in avulla (vaatii [osu!suppo
 4. Avaa beatmap-tiedoston, sillä on `.osz` tiedostopäätteenä.
    - Voit myös laittaa beatmap-tiedoston `Songs`-kansioon osu!'n asennussijainnissa.
 5. osu! tekee loput automaattisesti ja avaa beatmapin.
-   - Jos jostain syystä et näe sitä, paina `F5`-näppäintä kun olet [Laulujen Valikossa](/wiki/Client/Interface#song-selection-screen) ladatakseen beatmapit uudelleen.
+   - Jos jostain syystä et näe sitä, paina `F5`-näppäintä kun olet [Laulujen Valikossa](/wiki/Client/Interface#song-select) ladatakseen beatmapit uudelleen.
 
 ### osu!direct
 
@@ -50,7 +50,7 @@ Voit ladata beatmappejä kotisivulta tai osu!direct'in avulla (vaatii [osu!suppo
 3. Lataa beatmapin kaksoisnapsauttamalla valitsevasi beatmappiä tai napsauttamalla oikealla puolella olevaa `Download`-painiketta.
    - Jos ett halua beatmapin yhteen tulevaa videota, napsauta `DL NoVideo`.
 4. osu! lataa beatmapin automaattisesti.
-   - Jos jostain syystä et näe sitä, paina `F5`-näppäintä kun olet [Laulujen Valikossa](/wiki/Client/Interface#song-selection-screen) ladatakseen beatmapit uudelleen.
+   - Jos jostain syystä et näe sitä, paina `F5`-näppäintä kun olet [Laulujen Valikossa](/wiki/Client/Interface#song-select) ladatakseen beatmapit uudelleen.
 
 ## Ulkoasun vaihtaminen
 
