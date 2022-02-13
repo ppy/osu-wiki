@@ -10,7 +10,7 @@ Di samping kebijakan ini, pastikan juga untuk membaca dan memahami [Ketentuan La
 
 ## Pendahuluan
 
-osu! dijalankan oleh sebuah entitas Australia (ppy Pty Ltd) dengan server-server yang sebagian besarnya beroperasi dari Amerika Serikat.
+osu! dijalankan oleh sebuah entitas Australia (ppy Pty Ltd) dengan server-server yang sebagian besar beroperasi dari Amerika Serikat.
 
 osu! menawarkan berbagai macam layanan kepada para pengguna yang berasal dari hampir setiap negara di seluruh dunia, dengan komunitas yang memungkinkan para penggunanya untuk dapat saling berbagi karya dan buah pemikiran kepada para pengguna lainnya melalui laman profil pengguna, beatmap (level permainan), forum, pesan pribadi, *in-game chat*, dan kolom komentar.
 
@@ -40,7 +40,7 @@ Pada saat menyusun profil pengguna milik Anda (yang dapat dilihat oleh seluruh p
 - Lokasi Anda saat ini
 - Minat Anda
 - Pekerjaan Anda
-- Akun-akun media sosial yang Anda miliki (twitter, discord, skype, website)
+- Akun-akun media sosial yang Anda miliki (twitter, discord, skype, situs web)
 - Avatar dan sampul profil Anda
 - Tanda tangan Anda
 
