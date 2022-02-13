@@ -112,6 +112,28 @@ The 4 Digit osu!mania World Cup 4 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+- FreeMod
+  1. [YONEDA - KAERU (CrewK) \[Frog Regrets\]](https://osu.ppy.sh/beatmapsets/1666553#mania/3463278)
+  2. [BeatCharger - Sister's Noise (Euro Beat Charger Mix) (chxu) \[R666's Challenge LV.27\]](https://osu.ppy.sh/beatmapsets/1698297#mania/3469876)
+  3. [syatten - aliceblue (Radio Edit) (Mipha-) \[miphather\]](https://osu.ppy.sh/beatmapsets/1461974#mania/3195261)
+  4. [Fleshgod Apocalypse - Warpledge (DannyPX) \[Luminous \[1.1x Rate / Cut\]\]](https://osu.ppy.sh/beatmapsets/1698373#mania/3470225)
+  5. [The Flashbulb - Stinger (lemonguy) \[Another x1.05\]](https://osu.ppy.sh/beatmapsets/970202#mania/3468623)
+  6. [The Dillinger Escape Plan - Limerent Death (Valedict) \[Stained Glass\]](https://osu.ppy.sh/beatmapsets/1306724#mania/2709255)
+  7. [Blitz Lunar - You Show (Pizza69) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1563147#mania/3192082)
+  8. [Camellia - ZOMBIE CIRCUS (AlexDunk) \[BAD ENDDING 1.1x + EDDIT\]](https://osu.ppy.sh/beatmapsets/1696505#mania/3466249)
+  9. [Silentroom - x7124 (yetii) \[Supersensory\]](https://osu.ppy.sh/beatmapsets/1661115#mania/3391152)
+  10. [siqlo - pars/ey (araragigun) \[arpia97's 4k Herbal Genocide\]](https://osu.ppy.sh/beatmapsets/1084765#mania/2284150)
+  11. [Function Phantom - Integral Cube (juankristal) \[Limit\]](https://osu.ppy.sh/beatmapsets/1698324#mania/3470046)
+  12. [Camellia - INSECTICIDE (Penguinosity) \[BEHEMOTH\]](https://osu.ppy.sh/beatmapsets/1603006#mania/3273545)
+  13. [Billain - Autonomous (Penguinosity) \[Abort\]](https://osu.ppy.sh/beatmapsets/1569000#mania/3204074)
+  14. [xi - Quietus Ray (FelixSpade) \[LN Prodigy (cut)\]](https://osu.ppy.sh/beatmapsets/1590897#mania/3465513)
+  15. [Kobaryo - Dimension Hacker (Orca-) \[Eschelation\]](https://osu.ppy.sh/beatmapsets/1697857#mania/3468819)
+  16. [Oski & TYNAN - Titan (Orca-) \[Evisceration\]](https://osu.ppy.sh/beatmapsets/1642416#mania/3352595)
+- Tiebreaker
+  1. **[BilliumMoto x Akiri - Cryochemistry (DannyPX) \[Symperasma Boreatica\]](https://osu.ppy.sh/beatmapsets/1698378#mania/3470230)**
+
 ### Finals
 
 - FreeMod
@@ -220,6 +242,22 @@ The 4 Digit osu!mania World Cup 4 is run by various community members.
   5. [katagiri - HIVEMIND (DannyPX) \[Stage 5: Controlled Chaos\]](https://osu.ppy.sh/beatmapsets/1665437#mania/3399980)
 
 ## Match results
+
+### Finals
+
+Saturday, 12 February 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Brazil ![][flag_BR] | 5 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/97675261) |
+| **Thailand** ![][flag_TH] | **7** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/97686988) |
+| Peru ![][flag_PE] | 2 | **7** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/97705570) |
+
+Sunday, 13 February 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Thailand** ![][flag_TH] | **7** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/97723263) |
 
 ### Semifinals
 
