@@ -50,7 +50,7 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 - [Osamu Kubota - Presto \[Jval's Another\]](https://osu.ppy.sh/beatmapsets/1452332#osu/3005290), suggested by [Zelq](https://osu.ppy.sh/users/8953955)
 - [Neru - Lost One no Goukoku \[eveless\]](https://osu.ppy.sh/beatmapsets/83547#osu/230641), suggested by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - [OSTER project - Violet Rose \[Insane\]](https://osu.ppy.sh/beatmapsets/1178488#osu/2457698), suggested by [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- [onoken - ZADAMGA \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1492550#osu/3188917), suggested by [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- [onoken - ZADAMGA \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1492550#osu/3188917), suggested by [DigitalHypno](https://osu.ppy.sh/users/4384207) and [Lefafel](https://osu.ppy.sh/users/2295850)
 - [UKRampage - Jack-the-Ripper \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/1333932#osu/3274710), suggested by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - [Nekomata Master - Byakuya Gentou \[EX\]](https://osu.ppy.sh/beatmapsets/36849#osu/119375), suggested by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - [ELECTROCUTICA - Dependence Intension \[AQUARIUM+\]](https://osu.ppy.sh/beatmapsets/1402842#osu/2893781), suggested by [Riot](https://osu.ppy.sh/users/4256461)
