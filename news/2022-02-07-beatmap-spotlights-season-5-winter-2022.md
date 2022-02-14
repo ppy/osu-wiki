@@ -101,14 +101,14 @@ The Rhythm Incarnate tier threshold is picked manually based on season's partici
 - [Osamu Kubota - Presto \[Jval's Another\]](https://osu.ppy.sh/beatmapsets/1452332#osu/3005290), suggested by [Zelq](https://osu.ppy.sh/users/8953955)
 - [Neru - Lost One no Goukoku \[eveless\]](https://osu.ppy.sh/beatmapsets/83547#osu/230641), suggested by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - [OSTER project - Violet Rose \[Insane\]](https://osu.ppy.sh/beatmapsets/1178488#osu/2457698), suggested by [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- [onoken - ZADAMGA \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1492550#osu/3188917), suggested by [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- [onoken - ZADAMGA \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1492550#osu/3188917), suggested by [DigitalHypno](https://osu.ppy.sh/users/4384207) and [Lefafel](https://osu.ppy.sh/users/2295850)
 - [UKRampage - Jack-the-Ripper \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/1333932#osu/3274710), suggested by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - [Nekomata Master - Byakuya Gentou \[EX\]](https://osu.ppy.sh/beatmapsets/36849#osu/119375), suggested by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - [ELECTROCUTICA - Dependence Intension \[AQUARIUM+\]](https://osu.ppy.sh/beatmapsets/1402842#osu/2893781), suggested by [Riot](https://osu.ppy.sh/users/4256461)
 
 ### osu!taiko (lead by [OnosakiHito](https://osu.ppy.sh/users/290128))
 
-#### Playlist A
+#### Playlist A (unorthodox rhythm)
 
 - [Sven Noon - Argentum Pluviam \[Muzukashii\] (ZTH)](https://osu.ppy.sh/beatmapsets/1523642#taiko/3200785), suggested by [Axer](https://osu.ppy.sh/users/7299864)
 - [Breakchild & II-L - METEORITE \[MUZUKASHII\] (WTHBRO)](https://osu.ppy.sh/beatmapsets/1487513#taiko/3109255), suggested by [Hivie](https://osu.ppy.sh/users/14102976)
@@ -122,7 +122,7 @@ The Rhythm Incarnate tier threshold is picked manually based on season's partici
 
 ### osu!catch (lead by [SadEgg](https://osu.ppy.sh/users/10278243))
 
-#### Playlist A
+#### Playlist A (unorthodox rhythm)
 
 - [Silentroom vs. Frums - Aegleseeker \[AFB's Platter\] (Jemzuu)](https://osu.ppy.sh/beatmapsets/1460413#fruits/3024973), suggested by [Rocma](https://osu.ppy.sh/users/566276)
 - [LukHash - WINTER ERROR \[COLLAB PLATTER\] (Rocma)](https://osu.ppy.sh/beatmapsets/1031668#fruits/2163462), suggested by [wonjae](https://osu.ppy.sh/users/5032045)
@@ -136,7 +136,7 @@ The Rhythm Incarnate tier threshold is picked manually based on season's partici
 
 ### osu!mania (lead by [Hydria](https://osu.ppy.sh/users/808176), with help of [CrumpetFiddler](https://osu.ppy.sh/users/3518705) this season)
 
-#### Playlist A
+#### Playlist A (unorthodox rhythm)
 
 - [Musicarus - Sure shot \[Eagle Eye\] (AHHHHHHHHHHHHHH)](https://osu.ppy.sh/beatmapsets/1366536#mania/2826333), suggested by [CrumpetFiddler](https://osu.ppy.sh/users/3518705)
 - [U.T.D & Friends - Lesson by DJ \[CHALLENGE\] (Lenfried-)](https://osu.ppy.sh/beatmapsets/704987#mania/1491195), suggested by [Kaito-kun](https://osu.ppy.sh/users/4715184)
