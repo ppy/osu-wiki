@@ -155,7 +155,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
 
 ### Round of 16
 
-Saturday, 12th February 2022:
+Saturday, 12 February 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -164,7 +164,7 @@ Saturday, 12th February 2022:
 | [BocDyx](https://osu.ppy.sh/users/7926192) ![][flag_RU] | 1 | **5** | ![][flag_RU] **[Kenny331](https://osu.ppy.sh/users/11534285)** | [#1](https://osu.ppy.sh/community/matches/97695862) |
 | **[vafara](https://osu.ppy.sh/users/18917363)** ![][flag_RU] | **5** | 4 | ![][flag_RU] [yuinn](https://osu.ppy.sh/users/11239593) | [#1](https://osu.ppy.sh/community/matches/97700538) |
 
-Sunday, 13th February 2022:
+Sunday, 13 February 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -175,7 +175,7 @@ Sunday, 13th February 2022:
 
 ### Round of 24
 
-Saturday, 5th February 2022:
+Saturday, 5 February 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -184,7 +184,7 @@ Saturday, 5th February 2022:
 | [mirofantasm](https://osu.ppy.sh/users/6650048) ![][flag_RU] | 1 | **5** | ![][flag_RU] **[catch the ExGon](https://osu.ppy.sh/users/12081746)** | [#1](https://osu.ppy.sh/community/matches/97425915) |
 | **[[-Nyaruko-]](https://osu.ppy.sh/users/13712671)** ![][flag_UA] | **5** | 1 | ![][flag_RU] [PedobeerKoroche](https://osu.ppy.sh/users/19389015) | [#1](https://osu.ppy.sh/community/matches/97428394) |
 
-Sunday, 6th February 2022:
+Sunday, 6 February 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
