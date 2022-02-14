@@ -28,7 +28,7 @@ There's been a lot of voices that nobody really knows who's the member and what'
 
 ## Medals and beatmap packs
 
-Many people stated that they'd like to enjoy some kind of spotlights experience on stable, like it used to be in the past. To make it somehow possible, we will now release beatmap packs along with medal set for each gamemode once all of the playlists are released (in 4 weeks). Have fun jumping on grindset to catch them all!
+Many people stated that they'd like to enjoy some kind of spotlights experience on stable, like it used to be in the past. To make it somehow possible, we will now release beatmap packs along with medal set for each gamemode once all of the playlists are released (in 4 weeks). We also have plans for releasing medal packs for previous Spotlights seasons. Have fun jumping on grindset to catch them all!
 
 ## <a id="inside-the-team"></a> Inside the spotlights team
 
