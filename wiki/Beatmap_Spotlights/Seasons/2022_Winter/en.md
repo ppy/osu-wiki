@@ -11,17 +11,14 @@ tags:
 
 | Event | Time |
 | :-- | :-- |
-| Season Start | Apr 29th, 2021 |
-| Timeshift Lobby: Playlist A | May 3rd - May 10th, 2021 |
-| Timeshift Lobby: Playlist B | May 10th - May 17th, 2021 |
-| Timeshift Lobby: Playlist C | May 17th - May 24th, 2021 |
-| Timeshift Lobby: Playlist D | May 24th - May 31st, 2021 |
-| Intermission | May 31st - Jun 7th, 2021 |
-| Timeshift Lobby: Playlist A | Jun 7th - Jun 14th, 2021 |
-| Timeshift Lobby: Playlist B | Jun 14th - Jun 21st, 2021 |
-| Timeshift Lobby: Playlist C | Jun 21st - Jun 28th, 2021 |
-| Timeshift Lobby: Playlist D | Jun 28th - Jul 5th, 2021 |
-| Season Conclusion | Jul 5th, 2021 |
+| Season Start | Feb 14th, 2022 |
+| Timeshift Lobby: Playlist A | Feb 14th - Feb 28th, 2022 |
+| Timeshift Lobby: Playlist B | Feb 28th - Mar 14th, 2022 |
+| Timeshift Lobby: Playlist C | Mar 14th - Mar 28th, 2022 |
+| Timeshift Lobby: Playlist A | Mar 28th - Apr 4th, 2022 |
+| Timeshift Lobby: Playlist B | Apr 4th - Apr 11th, 2022 |
+| Timeshift Lobby: Playlist C | Apr 11th - Apr 18th, 2022 |
+| Season Conclusion | Apr 18th, 2022 |
 
 ## Weekly multiplayer lobbies
 
