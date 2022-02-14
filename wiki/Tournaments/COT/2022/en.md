@@ -90,7 +90,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
   2. [ON-kei - Taihen na Mono no Shoushitsu -GOSSUN END- (ZHSteven) \[pieguy's CTB\]](https://osu.ppy.sh/beatmapsets/20296#fruits/70946)
   3. [SOUND HOLIC - Fushigi no Kuni no Christmas (-Faded-) \[Wonder\]](https://osu.ppy.sh/beatmapsets/683589#fruits/1445816)
 - Tiebreaker
-  1. [Yooh - salvation (alienflybot) \[crucifixion\]](https://osu.ppy.sh/beatmapsets/840189#fruits/1758740)
+  1. **[Yooh - salvation (alienflybot) \[crucifixion\]](https://osu.ppy.sh/beatmapsets/840189#fruits/1758740)**
 
 ### Round of 16
 
@@ -111,7 +111,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
   1. [YUC'e - Cinderella Syndrome (KuroRev) \[Platter\]](https://osu.ppy.sh/beatmapsets/1467712#fruits/3017532)
   2. [Kanzaki Elza starring ReoNa - step, step (Stratos) \[kowari's insane\]](https://osu.ppy.sh/beatmapsets/1337889#fruits/2771476)
 - Tiebreaker
-  1. [UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!! (Chara) \[*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)
+  1. **[UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!! (Chara) \[\*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
 
 ### Round of 24
 
@@ -132,7 +132,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
   1. [Creo - Glome (Nelly) \[Rocma's Platter\]](https://osu.ppy.sh/beatmapsets/965319#fruits/2023723)
   2. [Mitchie M feat. Hatsune Miku with KAITO - Ohedo Julia-Night (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/664099#fruits/1413791)
 - Tiebreaker
-  1. [Raccoon Factory - Hyperion (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/1110955#fruits/2367458)
+  1. **[Raccoon Factory - Hyperion (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/1110955#fruits/2367458)**
 
 ### Qualifiers
 
