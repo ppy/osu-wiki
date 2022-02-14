@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 19d497357fd186a011c088fb28c3645fbde1261f
----
-
 # Panduan
 
 Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota komunitas osu!. Sebagian besar panduan di bawah ini pada mulanya berasal dari utas pada forum osu! yang kemudian dipindahkan ke laman wiki.
@@ -26,6 +21,7 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 - [Mengatur offset dengan ketukan yang tepat](Setting_the_Offset_on_the_Correct_Beat)
 - [Menambahkan hitsound khusus](Using_custom_hitsounds)
 - [Video dari YouTube](Videos_from_YouTube)
+- [Menentukan timing lagu dengan birama #/8](Timing_Songs_With_8-Signatures)
 
 ## Modding
 

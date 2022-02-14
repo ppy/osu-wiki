@@ -1,30 +1,33 @@
 ---
-outdated: true
-outdated_since: 3301b00d5740b959a91ed18f5dc55a4660a218bb
 tags:
  - mod
  - game modifier
  - overview
  - list of mods
+ - daftar mod
+ - NoMod
+ - No Mod
+ - FreeMod
+ - Free Mod
 ---
 
 # Game modifier
 
-*Untuk penggunaan lainnya, lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod).*
+*Untuk penggunaan istilah "mod" dalam konteks-konteks lainnya, lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod).*
 
-![Layar pemilihan mod](img/mod-selection-screen-ID.jpg)
+![Layar pemilihan mod](img/mod-selection-screen-ID.jpg "perbandingan layar pemilihan mod antara mode permainan osu! (kiri atas), osu!taiko (kanan atas), osu!catch (kiri bawah), dan osu!mania (kanan bawah)")
 
-**Game modifier** (disingkat menjadi "mod") adalah sebuah modifikasi opsional terhadap elemen dan kesulitan dari sebuah [beatmap](/wiki/Beatmap) dimana pemain dapat mengaktifkannya melalui `Layar Pemilihan Mod` (diatas). Mod dapat membuat beatmap menjadi lebih mudah, lebih sulit, atau hanya untuk kesenangan biasa.
+**Game modifier** (atau yang pada umumnya disingkat sebagai "mod") merupakan elemen permainan yang dapat mengubah ataupun memodifikasi tampilan serta tingkat kesulitan dari suatu [beatmap](/wiki/Beatmap). Mod-mod yang ada di osu! dapat diaktifkan dari `Layar Pemilihan Mod` (sebagaimana yang tertera di atas), di mana penggunaan suatu mod dapat membuat beatmap menjadi lebih mudah, lebih sulit, atau murni ditujukan untuk kesenangan semata.
 
-Pemain dapat mengakses `Layar Pemilihan Mod` pada layar pemilihan lagu dengan mengklik tombol `Mods` di pojok kiri bawah layar atau dengan menekan `F1`. Setelah memasuki `Layar Pemilihan Mod`, Shortcut untuk memilih mod tertentu juga tersedia. Shortcut tersebut dapat diubah melalui pengaturan.
+Para pemain dapat mengakses `Layar Pemilihan Mod` pada layar pemilihan lagu dengan mengklik tombol `Mods` yang terletak pada pojok kiri bawah atau dengan menekan `F1`. Suatu mod dapat diaktifkan secara cepat dengan menekan tombol *shortcut* yang sesuai dengan yang ada pada `Layar Pemilihan Mod`, di mana tombol *shortcut* ini dapat diatur pada menu Options apabila dikehendaki.
 
-Mod dibagi menjadi tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, dan `Spesial`, dan mereka juga dapat mengurangi, menambah, atau menghapus [`Pengali Skor`](/wiki/Game_modifier/Score_multiplier). Ketika dua mod digunakan secara bersamaan, pengali skor tersebut akan dikalikan bersama (misalnya, `1.06x * 1.12x = 1.1872x`).
+Mod-mod yang ada di dalam permainan osu! dibagi menjadi tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, dan `Spesial` yang dapat mengurangi, menambah, atau bahkan menonaktifkan [`Pengali Skor`](/wiki/Game_modifier/Score_multiplier) sepenuhnya. Pada saat dua atau lebih mod diaktifkan secara bersamaan, efek-efek pengali skor yang aktif juga akan ikut dikalikan bersama (misalnya, `1.06x * 1.12x = 1.1872x`).
 
 ## Daftar mod
 
-*Lihat juga: [Ringkasan (Game Modifier)](/wiki/Game_modifier/Summary)*
+*Lihat juga: [Ringkasan game modifier](/wiki/Game_modifier/Summary)*
 
-Setiap mod yang berada di bawah, mempunyai ikon dari mode permainan yang sesuai (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) di samping kanan masing-masing mod.
+Tidak semua mod dapat digunakan pada seluruh mode permainan yang ada. Ikon-ikon mode permainan berikut (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) menandakan pada mode-mode permainan apa saja mod-mod berikut ini dapat digunakan.
 
 ### Pengurang kesulitan
 
@@ -55,15 +58,25 @@ Setiap mod yang berada di bawah, mempunyai ikon dari mode permainan yang sesuai 
 - [Auto (AT)](/wiki/Game_modifier/Auto) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
   - [Cinema (CM)](/wiki/Game_modifier/Cinema) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [ScoreV2 (SV2)](/wiki/Game_modifier/ScoreV2) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Target Practice (TP)](/wiki/Game_modifier/Target_Practice) ![][osu!] **Cutting Edge (Experimental) only**
+- [Target Practice (TP)](/wiki/Game_modifier/Target_Practice) ![][osu!] **Hanya tersedia pada osu! versi Cutting Edge (Experimental)**
 
 ### Lain-lain
 
-*Catatan: Mod ini digunakan dan tersedia beberapa waktu lalu, tetapi sekarang sudah tidak tersedia.*
+*Catatan: Mod-mod berikut saat ini sudah tidak lagi tersedia.*
 
 - [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+
+### Istilah-istilah yang terkait dengan mod
+
+#### NoMod
+
+Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **NoMod** (***NM***) mengacu pada beatmap-beatmap yang harus dimainkan tanpa menggunakan mod apapun di samping mod-mod seperti [No Fail](/wiki/Game_modifier/No_Fail) dan [ScoreV2](/wiki/Game_modifier/ScoreV2) yang pada umumnya merupakan syarat wajib turnamen.
+
+#### FreeMod
+
+Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **FreeMod** (***FM***) mengacu pada beatmap-beatmap yang dapat dimainkan baik dengan ataupun tanpa mod. Turnamen-turnamen tertentu terkadang memiliki aturan khusus yang mempersyaratkan mod-mod apa saja serta komposisi penggunaan mod seperti apa yang diperbolehkan pada beatmap-beatmap FreeMod.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
