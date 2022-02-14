@@ -9,7 +9,7 @@ tags:
 
 ![COT 2021 banner](img/banner.png)
 
-The **osu!catch CIS Open Tournament 2022** (***COT 2022***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) and ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). The tournament is open to all players from Commonwealth of Independent States and Baltic states. It is the second iteration of the osu!catch CIS Open Tournament series.
+The **osu!catch CIS Open Tournament 2022** (***COT 2022***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) and ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). The tournament is open to all players from the Commonwealth of Independent States and Baltic states. It is the second iteration of the osu!catch CIS Open Tournament series.
 
 ## Tournament schedule
 
@@ -42,7 +42,7 @@ COT 2022 is run by various osu! community members mostly hailing from the Common
 | Host | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
 | Mappool selector | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [Xetopia](https://osu.ppy.sh/users/6689101), ![][flag_RU] [Rebbel](https://osu.ppy.sh/users/4595355), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_CL] [Pekorrat](https://osu.ppy.sh/users/1250096) |
 | Streamer | ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
-| Commentator | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164),  ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
+| Commentator | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164), ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
 | Referee | ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
 | Designer | ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
 | Spreadsheet manager | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) |
@@ -76,7 +76,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
   2. [LeaF - MARENOL (Deif) \[PHANTASM\]](https://osu.ppy.sh/beatmapsets/1128900#fruits/2358455)
   3. [Blue Stahli & Nyzzy Nyce - Run The Track (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1071229#fruits/2242234)
   4. [Akatsuki Records - HANIPAGANDA (Night Mare) \[AN ARMY OF CERAMICS\]](https://osu.ppy.sh/beatmapsets/1083844#fruits/2266726)
-  5. [455-38B - G e n g a o z o - f o o n  (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/869649#fruits/1817464)
+  5. [455-38B - G e n g a o z o - f o o n (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/869649#fruits/1817464)
 - Hidden
   1. [STAYC - STEREOTYPE (Jemzuu) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1677719#fruits/3427696)
   2. [ginkiha - eastward (Xetopia) \[Rain\]](https://osu.ppy.sh/beatmapsets/1698511#fruits/3470589)

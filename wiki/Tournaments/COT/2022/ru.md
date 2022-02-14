@@ -79,7 +79,7 @@ COT 2022 организован различными членами сообще
   2. [LeaF - MARENOL (Deif) \[PHANTASM\]](https://osu.ppy.sh/beatmapsets/1128900#fruits/2358455)
   3. [Blue Stahli & Nyzzy Nyce - Run The Track (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1071229#fruits/2242234)
   4. [Akatsuki Records - HANIPAGANDA (Night Mare) \[AN ARMY OF CERAMICS\]](https://osu.ppy.sh/beatmapsets/1083844#fruits/2266726)
-  5. [455-38B - G e n g a o z o - f o o n  (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/869649#fruits/1817464)
+  5. [455-38B - G e n g a o z o - f o o n (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/869649#fruits/1817464)
 - Hidden
   1. [STAYC - STEREOTYPE (Jemzuu) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1677719#fruits/3427696)
   2. [ginkiha - eastward (Xetopia) \[Rain\]](https://osu.ppy.sh/beatmapsets/1698511#fruits/3470589)
