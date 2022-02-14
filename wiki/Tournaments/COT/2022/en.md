@@ -113,7 +113,6 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
 - Tiebreaker
   1. [UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!! (Chara) \[*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)
 
-
 ### Round of 24
 
 **[Download the mappack here! (72 MB)](https://drive.google.com/file/d/1V2R8biB_a6z81LqSS_r7nl1P86TdIjhv/view)**
