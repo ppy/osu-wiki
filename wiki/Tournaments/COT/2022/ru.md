@@ -95,7 +95,7 @@ COT 2022 организован различными членами сообще
 - Tiebreaker
   1. **[Yooh - salvation (alienflybot) \[crucifixion\]](https://osu.ppy.sh/beatmapsets/840189#fruits/1758740)**
 
-### 1/8 раунда
+### 1/8 финала
 
 **[Скачать маппак можно здесь! (98 MB)](https://drive.google.com/file/d/10C-hdYsGe2NeFt-RmYIW0a_LBhFXKisL/view)**
 
