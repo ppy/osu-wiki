@@ -79,7 +79,7 @@ COT 2022 организован различными членами сообще
   2. [LeaF - MARENOL (Deif) \[PHANTASM\]](https://osu.ppy.sh/beatmapsets/1128900#fruits/2358455)
   3. [Blue Stahli & Nyzzy Nyce - Run The Track (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1071229#fruits/2242234)
   4. [Akatsuki Records - HANIPAGANDA (Night Mare) \[AN ARMY OF CERAMICS\]](https://osu.ppy.sh/beatmapsets/1083844#fruits/2266726)
-  5. [455-38B - G e n g a o z o - f o o n  (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/869649#fruits/1817464)
+  5. [455-38B - G e n g a o z o - f o o n (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/869649#fruits/1817464)
 - Hidden
   1. [STAYC - STEREOTYPE (Jemzuu) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1677719#fruits/3427696)
   2. [ginkiha - eastward (Xetopia) \[Rain\]](https://osu.ppy.sh/beatmapsets/1698511#fruits/3470589)
@@ -93,9 +93,9 @@ COT 2022 организован различными членами сообще
   2. [ON-kei - Taihen na Mono no Shoushitsu -GOSSUN END- (ZHSteven) \[pieguy's CTB\]](https://osu.ppy.sh/beatmapsets/20296#fruits/70946)
   3. [SOUND HOLIC - Fushigi no Kuni no Christmas (-Faded-) \[Wonder\]](https://osu.ppy.sh/beatmapsets/683589#fruits/1445816)
 - Tiebreaker
-  1. [Yooh - salvation (alienflybot) \[crucifixion\]](https://osu.ppy.sh/beatmapsets/840189#fruits/1758740)
+  1. **[Yooh - salvation (alienflybot) \[crucifixion\]](https://osu.ppy.sh/beatmapsets/840189#fruits/1758740)**
 
-### 1/8 раунда
+### 1/8 финала
 
 **[Скачать маппак можно здесь! (98 MB)](https://drive.google.com/file/d/10C-hdYsGe2NeFt-RmYIW0a_LBhFXKisL/view)**
 
@@ -114,7 +114,7 @@ COT 2022 организован различными членами сообще
   1. [YUC'e - Cinderella Syndrome (KuroRev) \[Platter\]](https://osu.ppy.sh/beatmapsets/1467712#fruits/3017532)
   2. [Kanzaki Elza starring ReoNa - step, step (Stratos) \[kowari's insane\]](https://osu.ppy.sh/beatmapsets/1337889#fruits/2771476)
 - Tiebreaker
-  1. [UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!! (Chara) \[*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)
+  1. **[UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!! (Chara) \[\*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
 
 ### 1/24 раунда
 
@@ -135,7 +135,7 @@ COT 2022 организован различными членами сообще
   1. [Creo - Glome (Nelly) \[Rocma's Platter\]](https://osu.ppy.sh/beatmapsets/965319#fruits/2023723)
   2. [Mitchie M feat. Hatsune Miku with KAITO - Ohedo Julia-Night (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/664099#fruits/1413791)
 - Tiebreaker
-  1. [Raccoon Factory - Hyperion (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/1110955#fruits/2367458)
+  1. **[Raccoon Factory - Hyperion (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/1110955#fruits/2367458)**
 
 ### Квалификация
 
@@ -162,19 +162,19 @@ COT 2022 организован различными членами сообще
 
 | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | --: | :-: | :-: | :-- | :-- |
-| [Memoriola](https://osu.ppy.sh/users/6856387) ![](flag_RU) | **5** | 0 | ![](flag_UA) [Shadowbolts1](https://osu.ppy.sh/users/13962882) | [#1](https://osu.ppy.sh/community/matches/97691557) |
-| [cosilgam](https://osu.ppy.sh/users/15960747) ![](flag_RU) | **5** | 4 | ![](flag_LV) [Soruki](https://osu.ppy.sh/users/11762423) | [#1](https://osu.ppy.sh/community/matches/97693687) |
-| [BocDyx](https://osu.ppy.sh/users/7926192) ![](flag_RU) | 1 | **5** | ![](flag_RU) [Kenny331](https://osu.ppy.sh/users/11534285) | [#1](https://osu.ppy.sh/community/matches/97695862) |
-| [vafara](https://osu.ppy.sh/users/18917363) ![](flag_RU) | **5** | 4 | ![](flag_RU) [yuinn](https://osu.ppy.sh/users/11239593) | [#1](https://osu.ppy.sh/community/matches/97700538) |
+| **[Memoriola](https://osu.ppy.sh/users/6856387)** ![][flag_RU] | **5** | 0 | ![][flag_UA] [Shadowbolts1](https://osu.ppy.sh/users/13962882) | [#1](https://osu.ppy.sh/community/matches/97691557) |
+| **[cosilgam](https://osu.ppy.sh/users/15960747)** ![][flag_RU] | **5** | 4 | ![][flag_LV] [Soruki](https://osu.ppy.sh/users/11762423) | [#1](https://osu.ppy.sh/community/matches/97693687) |
+| [BocDyx](https://osu.ppy.sh/users/7926192) ![][flag_RU] | 1 | **5** | ![][flag_RU] **[Kenny331](https://osu.ppy.sh/users/11534285)** | [#1](https://osu.ppy.sh/community/matches/97695862) |
+| **[vafara](https://osu.ppy.sh/users/18917363)** ![][flag_RU] | **5** | 4 | ![][flag_RU] [yuinn](https://osu.ppy.sh/users/11239593) | [#1](https://osu.ppy.sh/community/matches/97700538) |
 
 Воскресенье, 13 февраля 2022:
 
 | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | --: | :-: | :-: | :-- | :-- |
-| [FruktoLove](https://osu.ppy.sh/users/8417087) ![](flag_UA) | **5** | 0 | ![](flag_UA) [Violet Feets](https://osu.ppy.sh/users/15558360) | [#1](https://osu.ppy.sh/community/matches/97736110) |
-| [KitsunIvy](https://osu.ppy.sh/users/7055384) ![](flag_RU) | **5** | 0 | ![](flag_RU) [catch the ExGon](https://osu.ppy.sh/users/12081746) | [#1](https://osu.ppy.sh/community/matches/97738074) |
-| [dark rainbow](https://osu.ppy.sh/users/10557830) ![](flag_RU) | 0 | **5** | ![](flag_UA) [[-Nyaruko-]](https://osu.ppy.sh/users/13712671) | [#1](https://osu.ppy.sh/community/matches/97740096) |
-| [Nelly](https://osu.ppy.sh/users/4741164) ![](flag_RU) | **5** | 0 | ![](flag_RU) [Mazuki](https://osu.ppy.sh/users/15208771) | [#1](https://osu.ppy.sh/community/matches/97741940) |
+| **[FruktoLove](https://osu.ppy.sh/users/8417087)** ![][flag_UA] | **5** | 0 | ![][flag_UA] [Violet Feets](https://osu.ppy.sh/users/15558360) | [#1](https://osu.ppy.sh/community/matches/97736110) |
+| **[KitsunIvy](https://osu.ppy.sh/users/7055384)** ![][flag_RU] | **5** | 0 | ![][flag_RU] [catch the ExGon](https://osu.ppy.sh/users/12081746) | [#1](https://osu.ppy.sh/community/matches/97738074) |
+| [dark rainbow](https://osu.ppy.sh/users/10557830) ![][flag_RU] | 0 | **5** | ![][flag_UA] **[[-Nyaruko-]](https://osu.ppy.sh/users/13712671)** | [#1](https://osu.ppy.sh/community/matches/97740096) |
+| **[Nelly](https://osu.ppy.sh/users/4741164)** ![][flag_RU] | **5** | 0 | ![][flag_RU] [Mazuki](https://osu.ppy.sh/users/15208771) | [#1](https://osu.ppy.sh/community/matches/97741940) |
 
 ### 1/24 раунда
 
@@ -182,19 +182,19 @@ COT 2022 организован различными членами сообще
 
 | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | --: | :-: | :-: | :-- | :-- |
-| [Violet Feets](https://osu.ppy.sh/users/15558360) ![](flag_UA) | **5** | 2 | ![](flag_RU) [vinnikoish](https://osu.ppy.sh/users/14509580) | [#1](https://osu.ppy.sh/community/matches/97417909) |
-| [Kenny331](https://osu.ppy.sh/users/11534285) ![](flag_RU) | **5** | 0 | ![](flag_RU) [HAWAIIPIZZA](https://osu.ppy.sh/users/17668833) | *выигран по умолчанию* |
-| [mirofantasm](https://osu.ppy.sh/users/6650048) ![](flag_RU) | 1 | **5** | ![](flag_RU) [catch the ExGon](https://osu.ppy.sh/users/12081746) | [#1](https://osu.ppy.sh/community/matches/97425915) |
-| [[-Nyaruko-]](https://osu.ppy.sh/users/13712671) ![](flag_UA) | **5** | 1 | ![](flag_RU) [PedobeerKoroche](https://osu.ppy.sh/users/19389015) | [#1](https://osu.ppy.sh/community/matches/97428394) |
+| **[Violet Feets](https://osu.ppy.sh/users/15558360)** ![][flag_UA] | **5** | 2 | ![][flag_RU] [vinnikoish](https://osu.ppy.sh/users/14509580) | [#1](https://osu.ppy.sh/community/matches/97417909) |
+| **[Kenny331](https://osu.ppy.sh/users/11534285)** ![][flag_RU] | **5** | 0 | ![][flag_RU] [HAWAIIPIZZA](https://osu.ppy.sh/users/17668833) | *выигран по умолчанию* |
+| [mirofantasm](https://osu.ppy.sh/users/6650048) ![][flag_RU] | 1 | **5** | ![][flag_RU] **[catch the ExGon](https://osu.ppy.sh/users/12081746)** | [#1](https://osu.ppy.sh/community/matches/97425915) |
+| **[[-Nyaruko-]](https://osu.ppy.sh/users/13712671)** ![][flag_UA] | **5** | 1 | ![][flag_RU] [PedobeerKoroche](https://osu.ppy.sh/users/19389015) | [#1](https://osu.ppy.sh/community/matches/97428394) |
 
 Воскресенье, 6 Февраля 2022:
 
 | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | --: | :-: | :-: | :-- | :-- |
-| [Shadowbolts1](https://osu.ppy.sh/users/13962882) ![](flag_UA) | **5** | 3 | ![](flag_UA) [NamakemonsteR](https://osu.ppy.sh/users/17314832) | [#1](https://osu.ppy.sh/community/matches/97464444) |
-| [yuinn](https://osu.ppy.sh/users/11239593) ![](flag_RU) | **5** | 0 | ![](flag_LV) [oFKors01](https://osu.ppy.sh/users/26522965) | [#1](https://osu.ppy.sh/community/matches/97468931) |
-| [Soruki](https://osu.ppy.sh/users/11762423) ![](flag_LV) | **5** | 0 | ![](flag_RU) [yoraze](https://osu.ppy.sh/users/18240388) | [#1](https://osu.ppy.sh/community/matches/97470519) |
-| [Mazuki](https://osu.ppy.sh/users/15208771) ![](flag_RU) | **5** | 2 | ![](flag_RU) [liquid_boba](https://osu.ppy.sh/users/11694783) | [#1](https://osu.ppy.sh/community/matches/97472770) |
+| **[Shadowbolts1](https://osu.ppy.sh/users/13962882)** ![][flag_UA] | **5** | 3 | ![][flag_UA] [NamakemonsteR](https://osu.ppy.sh/users/17314832) | [#1](https://osu.ppy.sh/community/matches/97464444) |
+| **[yuinn](https://osu.ppy.sh/users/11239593)** ![][flag_RU] | **5** | 0 | ![][flag_LV] [oFKors01](https://osu.ppy.sh/users/26522965) | [#1](https://osu.ppy.sh/community/matches/97468931) |
+| **[Soruki](https://osu.ppy.sh/users/11762423)** ![][flag_LV] | **5** | 0 | ![][flag_RU] [yoraze](https://osu.ppy.sh/users/18240388) | [#1](https://osu.ppy.sh/community/matches/97470519) |
+| **[Mazuki](https://osu.ppy.sh/users/15208771)** ![][flag_RU] | **5** | 2 | ![][flag_RU] [liquid_boba](https://osu.ppy.sh/users/11694783) | [#1](https://osu.ppy.sh/community/matches/97472770) |
 
 ### Квалификация
 
