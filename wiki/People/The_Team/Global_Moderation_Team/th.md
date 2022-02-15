@@ -64,6 +64,7 @@ tags:
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | จีน, มาเลย์ | ผู้ดูแลแชท |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | ผู้ดูแลแชท |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | สวีเดน, สเปน | ผู้ดูแลแชท, ผู้บริหารทัวร์นาเมนต์ |
+| ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | ผู้ดูแลแชท |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | เกาหลี, ญี่ปุ่น | ผู้ดูแลแชท |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | ตุรกี | ผู้ดูแลแชท |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | สเปน | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
