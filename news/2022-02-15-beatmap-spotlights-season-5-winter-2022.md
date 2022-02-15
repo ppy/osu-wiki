@@ -14,7 +14,7 @@ If you just can't wait to try out the new maps, **the Beatmap Spotlights lobbies
 
 ## Changes
 
-### New spotlights playlists format
+### New Spotlights playlists format
 
 We've heard a lot of voices saying that the old playlists format might've been a little too boring for more experienced players, because one or two Extras or Insanes per list is just simply not enough to be interesting. To increase the competition, while keeping it approachable for newer players, we've decided to reshuffle how the playlists system work.
 
@@ -24,7 +24,7 @@ We've heard a lot of voices saying that the old playlists format might've been a
 
 **Starting this season, the first playlist of every season will be themed with some kind of gimmick.**
 
-We've came to a conclusion that spotlights playlists may have felt a little disconnected, so we're spicing things up a bit by making the first playlist of every incoming season *special*.
+We've came to a conclusion that Spotlights playlists may have felt a little disconnected, so we're spicing things up a bit by making the first playlist of every incoming season *special*.
 
 The theme for this run of the Beatmap Spotlights is **unorthodox rhythm**. If you like weird and wonderful rhythms, this new theme should be right up your alley.
 
@@ -32,7 +32,7 @@ The theme for this run of the Beatmap Spotlights is **unorthodox rhythm**. If yo
 
 We've heard a lot of concern over the fact that nobody really knows who's doing what and what is even going on in the Spotlighs Team.
 
-We'd like to face this issue, and make it so everything is a little bit more clear to the outsiders. Each season announcement will now include a *[Inside the spotlights team](#inside-the-spotlights-team)* section, detailing the most recent team changes.
+We'd like to face this issue, and make it so everything is a little bit more clear to the outsiders. Each season announcement will now include a *[Inside the Spotlights Team](#inside-the-spotlights-team)* section, detailing the most recent team changes.
 
 We will also credit respective curators, responsible for suggesting the maps, in the [picks lists](#winter-season-2022-first-playlists). There's more to come in that regard, so stay tuned for future seasons!
 
@@ -42,7 +42,7 @@ One big point of feedback we've received about the Beatmap Spotlights is that pe
 
 We'll be making a return to this, with both beatmap packs and fancy new completion medals being released for each game mode after all of the playlists have been released (which is halfway through the season). We're also looking into releasing medal packs for previous Spotlights seasons too, to get things up to date. Have fun getting your grindset on to collect them all!
 
-## Inside the spotlights team
+## Inside the Spotlights Team
 
 In this section we will cover member changes and important happenings inside the Spotlights Team:
 
@@ -65,7 +65,7 @@ For the full Spotlights Team members list, check out the [Beatmap Spotlights wik
 
 To participate in the Beatmap Spotlights, download the latest version of the osu!lazer client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
 
-Once you're done installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also filter the lobbies to spotlights only in the top right corner.
+Once you're done installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also filter the lobbies to Spotlights only in the top right corner.
 
 ## Season schedule and leaderboards
 
@@ -171,7 +171,7 @@ See you in the upcoming lobbies!
 
 ---
 
-Join us over at [the community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) and assign yourself to a role to keep up with spotlights changes and announcements or visit the [osu!dev Discord server](https://discord.gg/ppy) to help us push this project even further!
+Join us over at [the community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) and assign yourself to a role to keep up with Spotlights changes and announcements or visit the [osu!dev Discord server](https://discord.gg/ppy) to help us push this project even further!
 
 You can find out more about [Beatmap Spotlights](/wiki/Beatmap_Spotlights) on the osu! wiki.
 
