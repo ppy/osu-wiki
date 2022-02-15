@@ -4,6 +4,8 @@ tags:
   - moderator
   - moderators
   - chat mod
+outdated: true
+outdated_since: cbb741597db57fb7a6c4da1c6af6bed7f76f1dd0
 ---
 
 # Küresel Moderasyon Takımı
