@@ -64,6 +64,7 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai ta
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | Mandarin, Malaysia | Moderasi chat |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Moderasi chat |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Swedia, Spanyol | Moderasi chat, manajemen turnamen |
+| ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | Moderasi chat |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Korea, Jepang | Moderasi chat |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Turki | Moderasi chat |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanyol | Moderasi chat, moderasi forum |
