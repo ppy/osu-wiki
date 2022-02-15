@@ -37,7 +37,7 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 
 ## Playlists
 
-### osu! (lead by [Nowaie](https://osu.ppy.sh/users/5428909))
+### osu! (led by [Nowaie](https://osu.ppy.sh/users/5428909))
 
 #### Playlist A (unorthodox rhythm)
 
@@ -51,7 +51,7 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 - [Nekomata Master - Byakuya Gentou \[EX\]](https://osu.ppy.sh/beatmapsets/36849#osu/119375), suggested by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - [ELECTROCUTICA - Dependence Intension \[AQUARIUM+\]](https://osu.ppy.sh/beatmapsets/1402842#osu/2893781), suggested by [Riot](https://osu.ppy.sh/users/4256461)
 
-### osu!taiko (lead by [OnosakiHito](https://osu.ppy.sh/users/290128))
+### osu!taiko (led by [OnosakiHito](https://osu.ppy.sh/users/290128))
 
 #### Playlist A (unorthodox rhythm)
 
@@ -65,7 +65,7 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 - [Digital Math - The Musky Thrust \[Inner Oni\] (Jaltzu)](https://osu.ppy.sh/beatmapsets/1153833#taiko/2408145), suggested by [uone](https://osu.ppy.sh/users/5321719)
 - [aran - Mazy Metroplex \[Inner Oni\] (-Dusk)](https://osu.ppy.sh/beatmapsets/1449961#taiko/2981096), suggested by [uone](https://osu.ppy.sh/users/5321719)
 
-### osu!catch (lead by [SadEgg](https://osu.ppy.sh/users/10278243))
+### osu!catch (led by [SadEgg](https://osu.ppy.sh/users/10278243))
 
 #### Playlist A (unorthodox rhythm)
 
@@ -79,7 +79,7 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 - [Zekk - Feelsleft0ut \[rei's missing 0ut\] (Bunnrei)](https://osu.ppy.sh/beatmapsets/1145368#fruits/2391319), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
 - [Phoebe Ryan - Mine (HANAEL Remix) \[Lost\] (Jemzuu)](https://osu.ppy.sh/beatmapsets/1222143#fruits/2542067), suggested by [Rocma](https://osu.ppy.sh/users/566276)
 
-### osu!mania (lead by [Hydria](https://osu.ppy.sh/users/808176), with help of [CrumpetFiddler](https://osu.ppy.sh/users/3518705) this season)
+### osu!mania (led by [Hydria](https://osu.ppy.sh/users/808176), with help of [CrumpetFiddler](https://osu.ppy.sh/users/3518705) this season)
 
 #### Playlist A (unorthodox rhythm)
 
