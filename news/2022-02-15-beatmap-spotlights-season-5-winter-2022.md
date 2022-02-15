@@ -1,57 +1,71 @@
 ---
 layout: post
-title: "Beatmap Spotlights Season 5: Winter 2022 - unorthodox rhythm"
+title: "Beatmap Spotlights Season 5: Winter 2022 - Unorthodox Rhythm"
 date: 2022-02-15 01:45:00 +0000
 ---
 
-Spotlights rivals assemble! After a long break, we are finally back, many things changed and so we hope you all are ready for **Winter Season 2022**! <!-- possibly some unorthodox rhythm related thing -->
+Spotlights rivals, assemble! After a long break, we are finally back with many new changes like a brand new special play theme, so we hope you all are ready for **Winter Season 2022**!
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-With the new season launch, there will be some major changes regarding gameplay aspects, as well as communication related matters.
+With the new season launch, we'll be changing up some aspects of how the Beatmap Spotlights play to help keep things fresh. We're also going to be communicating things a little differently, so make sure to read on to figure out what's what.
 
 If you just can't wait to try out the new maps, **the Beatmap Spotlights lobbies are now open for play on the osu!lazer client**. If you've got no idea how to get started with things, read on below!
 
-## The changes
+## Changes
 
 ### New spotlights playlists format
 
-We've heard a lot of voices that the old playlists format might've been a little too boring for more experienced players as one or two extras and/or insanes per list is just simply not enough to be interesting. To increase the competition, and at the same time, to keep it also approachable for newer players, we decided to reshuffle how the playlists system work. **From now on, each playlist will last 2 weeks and will include 2 hard, 3 insane, and 4 extra difficulties.** Each season will consist of 3 playlists, after the first run, the playlists will be re-played for a week.
+We've heard a lot of voices that the old playlists format might've been a little too boring for more experienced players as one or two extras and/or insanes per list is just simply not enough to be interesting. To increase the competition while keeping it approachable for our newer players, we've decided to reshuffle how the playlists system work. 
+
+**From now on, each playlist will last 2 weeks and will include 2 hard, 3 insane, and 4 extra difficulties.** Each season will consist of 3 playlists, after the first run, the playlists will be re-played for a week.
 
 ### Themed playlists
 
-But that's not all regarding the playlists changes. **Starting this season, the first playlist of every season will be themed with some kind of gimmick.** We've came to a conclusion that spotlights playlists might've felt a little disconnected, to make them more interesting, we decided to make the first playlist of every incoming season special. **This time, the theme is unorthodox rhythm of any sorts**.
+**Starting this season, the first playlist of every season will be themed with some kind of gimmick.** 
+
+We've came to a conclusion that spotlights playlists might've felt a little disconnected, so we're spicing things up a bit by making the first playlist of every incoming season *special*. 
+
+The theme for this run of the Beatmap Spotlights is **unorthodox rhythm**. If you like weird and wonderful rhythms, this new theme should be right up your alley.
 
 ### More transparency
 
-There's been a lot of voices that nobody really knows who's the member and what's going on in the Spotlighs Team. We'd like to face this issue, and make it so everything is a little bit more clear to the outsiders. Each season announcement will now include *[Inside the spotlights team](inside-the-team)* section, listing the most recent team changes. We will also credit respective curators, resposnible for suggesting the maps, in the [picks lists](playlists). There's more to come in that regard, so stay tuned for the next seasons!
+There's been a lot of voices that nobody really knows who's doing what and what is even going on in the Spotlighs Team. 
+
+We'd like to face this issue, and make it so everything is a little bit more clear to the outsiders. Each season announcement will now include a *[Inside the spotlights team](inside-the-team)* section, detailing the most recent team changes. 
+
+We will also credit respective curators, resposnible for suggesting the maps, in the [picks lists](playlists). There's more to come in that regard, so stay tuned for the next seasons!
 
 ## Medals and beatmap packs
 
-Many people stated that they'd like to enjoy some kind of spotlights experience on stable, like it used to be in the past. To make it somehow possible, we will now release beatmap packs along with medal set for each gamemode once all of the playlists are released (in 4 weeks). We also have plans for releasing medal packs for previous Spotlights seasons. Have fun jumping on grindset to catch them all!
+One big point of feedback we've received about the Beatmap Spotlights is that people would really like to continue the old beatmap pack plus medal scheme that originally accompanied the older Spotlights.
+
+We'll be making a return to this, with both beatmap packs and fancy new completion medals being released for each gamemode after all of the playlists have been released. We're also looking into releasing medal packs for previous Spotlights seasons too, to get things up to date. Have fun getting your grindset on to colect them all!
 
 ## <a id="inside-the-team"></a> Inside the spotlights team
 
-In this section we will cover member changes and important happenings inside the Spotlights Team.
+In this section we will cover member changes and important happenings inside the Spotlights Team:
 
 **Curator additions**
 - **osu!taiko**: Hivie, radar
 - **osu!catch**: Rocma
 - **osu!mania**: \[ Decku \], Kibitz
 
-**Curator resignments**
+**Curator resignations**
 - **osu!**: Icekalt, xbopost
 - **osu!taiko**: Charlotte
 - **osu!catch**: Deif, JBHyperion, Spectator
 - **osu!mania**: Raveille
 
-In addition to that, pishifat will leave the management. After a long service, Hivie will replace him as a helping hand in making the things work as intended.
+In addition to that, pishifat will be stepping away as the project's manager to handle his many other tasks. Hivie will replace him as a helping hand in making things work as intended.
 
 For the full Spotlights Team members list, check out the [Beatmap Spotlights wiki article](/wiki/Beatmap_Spotlights).
 
-## <a id="how-to-participate"></a> How to participate in Beatmap Spotlights League?
+## <a id="how-to-participate"></a> How do I participate in the Beatmap Spotlights League?
 
-To participate in the Beatmap Spotlights League, you need to download the latest version of osu!lazer client from [GitHub releases page](https://github.com/ppy/osu/releases/latest). Once you're done installing and logging in to your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also filter the lobbies to spotlights only, by selecting so in the top right corner.
+To participate in the Beatmap Spotlights League, you need to download the latest version of osu!lazer client from [GitHub releases page](https://github.com/ppy/osu/releases/latest). 
+
+Once you're done installing and logging in to your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also filter the lobbies to spotlights only, by selecting so in the top right corner.
 
 ## Season schedule and leaderboards
 
@@ -147,16 +161,18 @@ Playlist B, C and D will be available on the [Beatmap Spotlights article](/wiki/
 
 ## The Future
 
-The new Beatmap Spotlights is still a project on its early development stage and depends a lot on community feedback and engagement to improve. Many things can (and will) change for future seasons, and it all depends on *your* feedback!
+The new Beatmap Spotlights is still a project in its early development stage and depends a lot on community feedback and engagement to improve. Many things can (and will) change for future seasons, and it all depends on *your* feedback!
 
 What do you want for the next season? What needs to be fixed? What are your opinions on the current system? You can voice out all your opinions [here](https://osu.ppy.sh/community/forums/topics/1517423) and we will keep note of every suggestion, so please let us know how you feel about things.
 
-We do hope you have enjoyed the Winter Season 2021 Spotlights, and, of course, we do hope that you enjoy the Spring Season even more.
+We do hope you enjoyed the Winter Season 2021 Spotlights, and, of course, we do hope that you enjoy the Spring Season even more!
 
-See you in the upcoming timeshift lobbies!
+See you in the upcoming lobbies!
 
 ---
 
-Join us over at [the community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) and assign yourself to a pingable role to keep up with spotlights changes and announcements or visit the ``#osu-spotlights`` channel of [osu!dev](https://discord.gg/ppy) to help us push this project further! You can also find out more about [Beatmap Spotlights](/wiki/Beatmap_Spotlights) on the osu!wiki.
+Join us over at [the community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) and assign yourself to a role to keep up with spotlights changes and announcements or visit the ``#osu-spotlights`` channel of [osu!dev](https://discord.gg/ppy) to help us push this project further! 
+
+You can also find out more about [Beatmap Spotlights](/wiki/Beatmap_Spotlights) on the osu!wiki.
 
 —Venix
