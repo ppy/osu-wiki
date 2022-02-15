@@ -79,7 +79,7 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 - [Zekk - Feelsleft0ut \[rei's missing 0ut\] (Bunnrei)](https://osu.ppy.sh/beatmapsets/1145368#fruits/2391319), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
 - [Phoebe Ryan - Mine (HANAEL Remix) \[Lost\] (Jemzuu)](https://osu.ppy.sh/beatmapsets/1222143#fruits/2542067), suggested by [Rocma](https://osu.ppy.sh/users/566276)
 
-### osu!mania (led by [Hydria](https://osu.ppy.sh/users/808176), with help of [CrumpetFiddler](https://osu.ppy.sh/users/3518705) this season)
+### osu!mania (led by [Hydria](https://osu.ppy.sh/users/808176), with help from [CrumpetFiddler](https://osu.ppy.sh/users/3518705) this season)
 
 #### Playlist A (unorthodox rhythm)
 
