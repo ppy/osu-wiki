@@ -159,7 +159,7 @@ The Rhythm Incarnate tier threshold is picked manually based on season's partici
 - [Frums - Wavetapper \[Beyond Sounds\] (-mint-)](https://osu.ppy.sh/beatmapsets/866661#mania/2208846), suggested by [HowToPlayLN](https://osu.ppy.sh/users/10879600)
 - [Frums - XNOR XNOR XNOR \[Equivalence\] (GoldenJumper)](https://osu.ppy.sh/beatmapsets/1341013#mania/2777899), suggested by [Lenpai](https://osu.ppy.sh/users/5314573)
 
-Playlist B, C and D will be available on the [Beatmap Spotlights article](/wiki/Beatmap_Spotlights/Seasons/2022_Winter) as we open the playlist lobbies, so stay tuned!
+Playlist B and C will be available on the [Beatmap Spotlights article](/wiki/Beatmap_Spotlights/Seasons/2022_Winter) as we open the playlist lobbies, so stay tuned!
 
 ## The Future
 
