@@ -32,7 +32,7 @@ The theme for this run of the Beatmap Spotlights is **unorthodox rhythm**. If yo
 
 We've heard a lot of concern over the fact that nobody really knows who's doing what and what is even going on in the Spotlighs Team.
 
-We'd like to face this issue, and make it so everything is a little bit more clear to the outsiders. Each season announcement will now include a *[Inside the Spotlights Team](#inside-the-spotlights-team)* section, detailing the most recent team changes.
+We'd like to face this issue, and make it so everything is a little bit more clear to the outsiders. Each season announcement will now include an [Inside the Spotlights Team](#inside-the-spotlights-team) section, detailing the most recent team changes.
 
 We will also credit respective curators, responsible for suggesting the maps, in the [picks lists](#winter-season-2022-first-playlists). There's more to come in that regard, so stay tuned for future seasons!
 
