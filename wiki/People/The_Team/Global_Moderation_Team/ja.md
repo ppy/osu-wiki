@@ -63,6 +63,7 @@ tags:
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | 中国語、マレー語 | チャットモデレーション |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | チャットモデレーション |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | スウェーデン語、スペイン語 | チャットモデレーション、トーナメント運営 |
+| ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | チャットモデレーション |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | 韓国語、日本語 | チャットモデレーション |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | トルコ語 | チャットモデレーション |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | スペイン語 | チャットモデレーション、フォーラムモデレーション |

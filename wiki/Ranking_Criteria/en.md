@@ -183,8 +183,8 @@ This category contains explicit allowance statements of concepts and rules that 
 - **A beatmap's audio file must use the `.mp3` or `.ogg` file format and have an average bit rate no greater than 192kbps.**
 - **A beatmap may only contain one song file used by all difficulties.** Multiple song files within a single beatmap are unsupported and result in unexpected behaviour with preview times, metadata, etc.
 - **A song's audio file and hitsound files must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalised to their original release volumes and should not be encoded to a bit rate higher than their original files.
-- **A beatmap must be [hitsounded](/wiki/Beatmapping/Hitsound).** Hitnormals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.
-  - **osu!mania beatmaps do not require hitsound additions.** This is to allow for easier approachability to osu!mania mappers of different upbringings. It is still highly recommended to add hitsounds to improve the feel of your beatmaps. In cases where hitsounds are not used, *no* additions may be placed, and *no* sample control points should be used (ie. to adjust volume).
+- **Beatmaps must be [hitsounded](/wiki/Beatmapping/Hitsound).** Hitnormals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.
+  - **osu!mania beatmaps do not require hitsound additions.** This is to allow for easier approachability to osu!mania mappers of different upbringings. It is still highly recommended to add hitsounds to improve the feel of your beatmaps.
 - **All clicked parts of objects must have at least one hitsound which both...**
   - **...has a clear impact, whose peak is delayed no more than 5 milliseconds.** `normal-hitfinish.wav` from the default skin is exempt from this.
   - **...uses the `.wav` or `.ogg` file format.** `.mp3` should not be used here as it is inherently delayed.
