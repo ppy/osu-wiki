@@ -46,12 +46,14 @@ We'll be making a return to this, with both beatmap packs and fancy new completi
 
 In this section we will cover member changes and important happenings inside the Spotlights Team:
 
-**Curator additions**
+**Curator additions:**
+
 - **osu!taiko**: Hivie, radar
 - **osu!catch**: Rocma
 - **osu!mania**: \[ Decku \], Kibitz
 
-**Curator resignations**
+**Curator resignations:**
+
 - **osu!**: Icekalt, xbopost
 - **osu!taiko**: Charlotte
 - **osu!catch**: Deif, JBHyperion, Spectator
