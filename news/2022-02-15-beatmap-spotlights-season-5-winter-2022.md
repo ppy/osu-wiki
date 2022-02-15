@@ -103,7 +103,7 @@ The Rhythm Incarnate tier threshold is picked manually based on season's partici
 
 ## Winter Season 2022 first playlists
 
-### osu! (lead by [Nowaie](https://osu.ppy.sh/users/5428909))
+### osu! (led by [Nowaie](https://osu.ppy.sh/users/5428909))
 
 #### Playlist A (unorthodox rhythm)
 
@@ -117,7 +117,7 @@ The Rhythm Incarnate tier threshold is picked manually based on season's partici
 - [Nekomata Master - Byakuya Gentou \[EX\]](https://osu.ppy.sh/beatmapsets/36849#osu/119375), suggested by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - [ELECTROCUTICA - Dependence Intension \[AQUARIUM+\]](https://osu.ppy.sh/beatmapsets/1402842#osu/2893781), suggested by [Riot](https://osu.ppy.sh/users/4256461)
 
-### osu!taiko (lead by [OnosakiHito](https://osu.ppy.sh/users/290128))
+### osu!taiko (led by [OnosakiHito](https://osu.ppy.sh/users/290128))
 
 #### Playlist A (unorthodox rhythm)
 
@@ -131,7 +131,7 @@ The Rhythm Incarnate tier threshold is picked manually based on season's partici
 - [Digital Math - The Musky Thrust \[Inner Oni\] (Jaltzu)](https://osu.ppy.sh/beatmapsets/1153833#taiko/2408145), suggested by [uone](https://osu.ppy.sh/users/5321719)
 - [aran - Mazy Metroplex \[Inner Oni\] (-Dusk)](https://osu.ppy.sh/beatmapsets/1449961#taiko/2981096), suggested by [uone](https://osu.ppy.sh/users/5321719)
 
-### osu!catch (lead by [SadEgg](https://osu.ppy.sh/users/10278243))
+### osu!catch (led by [SadEgg](https://osu.ppy.sh/users/10278243))
 
 #### Playlist A (unorthodox rhythm)
 
@@ -145,7 +145,7 @@ The Rhythm Incarnate tier threshold is picked manually based on season's partici
 - [Zekk - Feelsleft0ut \[rei's missing 0ut\] (Bunnrei)](https://osu.ppy.sh/beatmapsets/1145368#fruits/2391319), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
 - [Phoebe Ryan - Mine (HANAEL Remix) \[Lost\] (Jemzuu)](https://osu.ppy.sh/beatmapsets/1222143#fruits/2542067), suggested by [Rocma](https://osu.ppy.sh/users/566276)
 
-### osu!mania (lead by [Hydria](https://osu.ppy.sh/users/808176), with help of [CrumpetFiddler](https://osu.ppy.sh/users/3518705) this season)
+### osu!mania (led by [Hydria](https://osu.ppy.sh/users/808176), with help of [CrumpetFiddler](https://osu.ppy.sh/users/3518705) this season)
 
 #### Playlist A (unorthodox rhythm)
 
@@ -167,7 +167,7 @@ The new Beatmap Spotlights is still a project in its early development stage and
 
 What do you want for the next season? What needs to be fixed? What are your opinions on the current system? You can voice out all your opinions [here](https://osu.ppy.sh/community/forums/topics/1517423) and we will keep note of every suggestion, so please let us know how you feel about things.
 
-We do hope you enjoyed the Winter Season 2021 Spotlights, and, of course, we do hope that you enjoy the Spring Season even more!
+We do hope you'll enjoy the Spring Season 2021 Spotlights, and, of course, we do hope that you'll enjoy the Winter Season even more!
 
 See you in the upcoming lobbies!
 
