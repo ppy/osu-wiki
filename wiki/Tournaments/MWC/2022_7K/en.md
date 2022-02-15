@@ -41,7 +41,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | :-- | :-- |
 | Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Mappool selector | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750) |
-| Commentator | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_US] [-Sparky-](https://osu.ppy.sh/users/3187959) |
+| Commentator | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_US] [-Sparky-](https://osu.ppy.sh/users/3187959) |
 | Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 
@@ -106,8 +106,8 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_MY] | Malaysia | Feb 20 (Sun) 10:00 UTC | Feb 20 (Sun) 19:00 UTC+9 | Feb 20 (Sun) 18:00 UTC+8 | ² |
-| South Korea | ![][flag_KR] | ![][flag_CN] | China | Feb 20 (Sun) 10:00 UTC | Feb 20 (Sun) 19:00 UTC+9 | Feb 20 (Sun) 18:00 UTC+8 | ² |
+| South Korea | ![][flag_KR] | ![][flag_CN] | China | Feb 20 (Sun) 11:00 UTC | Feb 20 (Sun) 20:00 UTC+9 | Feb 20 (Sun) 19:00 UTC+8 | ² |
+| South Korea | ![][flag_KR] | ![][flag_MY] | Malaysia | Feb 20 (Sun) 13:00 UTC | Feb 20 (Sun) 22:00 UTC+9 | Feb 20 (Sun) 21:00 UTC+8 | ² |
 
 ¹ Losers bracket match\
 ² Potential match: final matchup depends on the results of ¹
