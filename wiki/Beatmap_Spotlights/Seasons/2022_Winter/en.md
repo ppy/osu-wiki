@@ -5,7 +5,7 @@ tags:
   - Seasonal Spotlights
 ---
 
-# Beatmap Spotlights Season 4 (Winter 2022)
+# Beatmap Spotlights Season 5 (Winter 2022)
 
 ## Schedule
 
