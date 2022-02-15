@@ -74,12 +74,12 @@ Once you're done installing and logging into your account, head on over to the p
 | Event | Time |
 | :-- | :-- |
 | Season start | Feb 15, 2022 |
-| Timeshift lobby: Playlist A | Feb 15 - Feb 29, 2022 |
-| Timeshift lobby: Playlist B | Feb 29 - Mar 15, 2022 |
-| Timeshift lobby: Playlist C | Mar 15 - Mar 29, 2022 |
-| Timeshift lobby: Playlist A | Mar 29 - Apr 5, 2022 |
-| Timeshift lobby: Playlist B | Apr 5 - Apr 12, 2022 |
-| Timeshift lobby: Playlist C | Apr 12 - Apr 19, 2022 |
+| Playlist lobby: Playlist A | Feb 15 - Feb 29, 2022 |
+| Playlist lobby: Playlist B | Feb 29 - Mar 15, 2022 |
+| Playlist lobby: Playlist C | Mar 15 - Mar 29, 2022 |
+| Playlist lobby: Playlist A | Mar 29 - Apr 5, 2022 |
+| Playlist lobby: Playlist B | Apr 5 - Apr 12, 2022 |
+| Playlist lobby: Playlist C | Apr 12 - Apr 19, 2022 |
 | Season conclusion | Apr 19, 2022 |
 
 The Winter Season 2022 leaderboard will be available over at the [Beatmap Spotlights Winter Season 2022](/wiki/Beatmap_Spotlights/Seasons/2022_Winter) wiki article once the first batch of lobbies conclude in the coming weeks.
@@ -159,7 +159,7 @@ The Rhythm Incarnate tier threshold is picked manually based on season's partici
 - [Frums - Wavetapper \[Beyond Sounds\] (-mint-)](https://osu.ppy.sh/beatmapsets/866661#mania/2208846), suggested by [HowToPlayLN](https://osu.ppy.sh/users/10879600)
 - [Frums - XNOR XNOR XNOR \[Equivalence\] (GoldenJumper)](https://osu.ppy.sh/beatmapsets/1341013#mania/2777899), suggested by [Lenpai](https://osu.ppy.sh/users/5314573)
 
-Playlist B, C and D will be available on the [Beatmap Spotlights article](/wiki/Beatmap_Spotlights/Seasons/2022_Winter) as we open the timeshift lobbies, so stay tuned!
+Playlist B, C and D will be available on the [Beatmap Spotlights article](/wiki/Beatmap_Spotlights/Seasons/2022_Winter) as we open the playlist lobbies, so stay tuned!
 
 ## The Future
 
