@@ -20,8 +20,8 @@ tags:
 | --: | :-- |
 | Регистрация | 2022-01-01/2022-01-15 |
 | Скрининг | 2022-01-16/2022-01-19 |
-| Квалификация | 2022-01-29/2022-01-30 |
-| 1/24 раунда | 2022-02-05/2022-02-06 |
+| Предварительный этап | 2022-01-29/2022-01-30 |
+| Отборочный этап | 2022-02-05/2022-02-06 |
 | 1/8 раунда | 2022-02-12/2022-02-13 |
 | Четвертьфинал | 2022-02-19/2022-02-20 |
 | Полуфинал | 2022-02-26/2022-02-27 |
@@ -72,7 +72,7 @@ COT 2022 организован различными членами сообще
 
 **[Скачать маппак можно здесь! (97 MB)](https://drive.google.com/file/d/1t9AJvgGRbzPtFsT-Mv_AytiCeeJts6JX/view)**
 
-### Четвертьфинала
+### Четвертьфинал
 
 - NoMod
   1. [Ishiwatari Daisuke - Marionette (JierYagtama) \[Magnum Wedding\]](https://osu.ppy.sh/beatmapsets/1520757#fruits/3112432)
@@ -116,7 +116,7 @@ COT 2022 организован различными членами сообще
 - Tiebreaker
   1. **[UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!! (Chara) \[\*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
 
-### 1/24 раунда
+### Отборочный этап
 
 **[Скачать маппак можно здесь! (72 MB)](https://drive.google.com/file/d/1V2R8biB_a6z81LqSS_r7nl1P86TdIjhv/view)**
 
@@ -137,7 +137,7 @@ COT 2022 организован различными членами сообще
 - Tiebreaker
   1. **[Raccoon Factory - Hyperion (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/1110955#fruits/2367458)**
 
-### Квалификация
+### Предварительный этап
 
 **[Скачать маппак можно здесь! (54 MB)](https://drive.google.com/file/d/1GkYyB0cdZ2AzF8QzA68KaFMFtdDJjS3C/view)**
 
@@ -176,7 +176,7 @@ COT 2022 организован различными членами сообще
 | [dark rainbow](https://osu.ppy.sh/users/10557830) ![][flag_RU] | 0 | **5** | ![][flag_UA] **[[-Nyaruko-]](https://osu.ppy.sh/users/13712671)** | [#1](https://osu.ppy.sh/community/matches/97740096) |
 | **[Nelly](https://osu.ppy.sh/users/4741164)** ![][flag_RU] | **5** | 0 | ![][flag_RU] [Mazuki](https://osu.ppy.sh/users/15208771) | [#1](https://osu.ppy.sh/community/matches/97741940) |
 
-### 1/24 раунда
+### Отборочный этап
 
 Суббота, 5 февраля 2022:
 
@@ -196,7 +196,7 @@ COT 2022 организован различными членами сообще
 | **[Soruki](https://osu.ppy.sh/users/11762423)** ![][flag_LV] | **5** | 0 | ![][flag_RU] [yoraze](https://osu.ppy.sh/users/18240388) | [#1](https://osu.ppy.sh/community/matches/97470519) |
 | **[Mazuki](https://osu.ppy.sh/users/15208771)** ![][flag_RU] | **5** | 2 | ![][flag_RU] [liquid_boba](https://osu.ppy.sh/users/11694783) | [#1](https://osu.ppy.sh/community/matches/97472770) |
 
-### Квалификация
+### Предварительный этап
 
 Полный список результатов есть в гугл-доке в разделе [Результаты квалификации](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS_Sx4MyWdGOYD9raofZ46uomMbVW6wm48/edit#gid=334842805).
 
