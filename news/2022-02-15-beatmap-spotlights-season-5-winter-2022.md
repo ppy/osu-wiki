@@ -16,33 +16,33 @@ If you just can't wait to try out the new maps, **the Beatmap Spotlights lobbies
 
 ### New spotlights playlists format
 
-We've heard a lot of voices that the old playlists format might've been a little too boring for more experienced players as one or two extras and/or insanes per list is just simply not enough to be interesting. To increase the competition while keeping it approachable for our newer players, we've decided to reshuffle how the playlists system work. 
+We've heard a lot of voices saying that the old playlists format might've been a little too boring for more experienced players, because one or two Extras or Insanes per list is just simply not enough to be interesting. To increase the competition, while keeping it approachable for newer players, we've decided to reshuffle how the playlists system work.
 
-**From now on, each playlist will last 2 weeks and will include 2 hard, 3 insane, and 4 extra difficulties.** Each season will consist of 3 playlists, after the first run, the playlists will be re-played for a week.
+**From now on, each playlist will last 2 weeks and will include 2 Hard, 3 Insane, and 4 Extra difficulties.** Each season will consist of 3 playlists where after the first run, the playlists will be re-played for the second week.
 
 ### Themed playlists
 
-**Starting this season, the first playlist of every season will be themed with some kind of gimmick.** 
+**Starting this season, the first playlist of every season will be themed with some kind of gimmick.**
 
-We've came to a conclusion that spotlights playlists might've felt a little disconnected, so we're spicing things up a bit by making the first playlist of every incoming season *special*. 
+We've came to a conclusion that spotlights playlists may have felt a little disconnected, so we're spicing things up a bit by making the first playlist of every incoming season *special*.
 
 The theme for this run of the Beatmap Spotlights is **unorthodox rhythm**. If you like weird and wonderful rhythms, this new theme should be right up your alley.
 
 ### More transparency
 
-There's been a lot of voices that nobody really knows who's doing what and what is even going on in the Spotlighs Team. 
+We've heard a lot of concern over the fact that nobody really knows who's doing what and what is even going on in the Spotlighs Team.
 
-We'd like to face this issue, and make it so everything is a little bit more clear to the outsiders. Each season announcement will now include a *[Inside the spotlights team](inside-the-team)* section, detailing the most recent team changes. 
+We'd like to face this issue, and make it so everything is a little bit more clear to the outsiders. Each season announcement will now include a *[Inside the spotlights team](#inside-the-spotlights-team)* section, detailing the most recent team changes.
 
-We will also credit respective curators, resposnible for suggesting the maps, in the [picks lists](playlists). There's more to come in that regard, so stay tuned for the next seasons!
+We will also credit respective curators, responsible for suggesting the maps, in the [picks lists](#winter-season-2022-first-playlists). There's more to come in that regard, so stay tuned for future seasons!
 
-## Medals and beatmap packs
+### Medals and beatmap packs
 
 One big point of feedback we've received about the Beatmap Spotlights is that people would really like to continue the old beatmap pack plus medal scheme that originally accompanied the older Spotlights.
 
-We'll be making a return to this, with both beatmap packs and fancy new completion medals being released for each gamemode after all of the playlists have been released. We're also looking into releasing medal packs for previous Spotlights seasons too, to get things up to date. Have fun getting your grindset on to colect them all!
+We'll be making a return to this, with both beatmap packs and fancy new completion medals being released for each game mode after all of the playlists have been released (which is halfway through the season). We're also looking into releasing medal packs for previous Spotlights seasons too, to get things up to date. Have fun getting your grindset on to collect them all!
 
-## <a id="inside-the-team"></a> Inside the spotlights team
+## Inside the spotlights team
 
 In this section we will cover member changes and important happenings inside the Spotlights Team:
 
@@ -61,30 +61,30 @@ In addition to that, pishifat will be stepping away as the project's manager to 
 
 For the full Spotlights Team members list, check out the [Beatmap Spotlights wiki article](/wiki/Beatmap_Spotlights).
 
-## <a id="how-to-participate"></a> How do I participate in the Beatmap Spotlights League?
+## How do I participate in the Beatmap Spotlights?
 
-To participate in the Beatmap Spotlights League, you need to download the latest version of osu!lazer client from [GitHub releases page](https://github.com/ppy/osu/releases/latest). 
+To participate in the Beatmap Spotlights, download the latest version of the osu!lazer client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
 
-Once you're done installing and logging in to your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also filter the lobbies to spotlights only, by selecting so in the top right corner.
+Once you're done installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also filter the lobbies to spotlights only in the top right corner.
 
 ## Season schedule and leaderboards
 
 | Event | Time |
 | :-- | :-- |
-| Season Start | Feb 15th, 2022 |
-| Timeshift Lobby: Playlist A | Feb 15th - Feb 29th, 2022 |
-| Timeshift Lobby: Playlist B | Feb 29th - Mar 15th, 2022 |
-| Timeshift Lobby: Playlist C | Mar 15th - Mar 29th, 2022 |
-| Timeshift Lobby: Playlist A | Mar 29th - Apr 5th, 2022 |
-| Timeshift Lobby: Playlist B | Apr 5th - Apr 12th, 2022 |
-| Timeshift Lobby: Playlist C | Apr 12th - Apr 19th, 2022 |
-| Season Conclusion | Apr 19th, 2022 |
+| Season start | Feb 15, 2022 |
+| Timeshift lobby: Playlist A | Feb 15 - Feb 29, 2022 |
+| Timeshift lobby: Playlist B | Feb 29 - Mar 15, 2022 |
+| Timeshift lobby: Playlist C | Mar 15 - Mar 29, 2022 |
+| Timeshift lobby: Playlist A | Mar 29 - Apr 5, 2022 |
+| Timeshift lobby: Playlist B | Apr 5 - Apr 12, 2022 |
+| Timeshift lobby: Playlist C | Apr 12 - Apr 19, 2022 |
+| Season conclusion | Apr 19, 2022 |
 
-The Winter Season 2022 leaderboard will be available over at the [Beatmap Spotlights Season Winter 2022](/wiki/Beatmap_Spotlights/Seasons/2022_Winter) wiki article once the first batch of lobbies conclude in the coming weeks.
+The Winter Season 2022 leaderboard will be available over at the [Beatmap Spotlights Winter Season 2022](/wiki/Beatmap_Spotlights/Seasons/2022_Winter) wiki article once the first batch of lobbies conclude in the coming weeks.
 
 ## Rewards
 
-| Badges | Bracket Tier | Placement |
+| Badges | Bracket tier | Placement |
 | :--: | :--: | :--: |
 | ![](/wiki/Beatmap_Spotlights/img/badges/winter_2022/osu/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2022/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
 | ![](/wiki/Beatmap_Spotlights/img/badges/winter_2022/osu/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2022/osu/diamond_2.png) | Diamond | 3% |
@@ -95,11 +95,11 @@ The Winter Season 2022 leaderboard will be available over at the [Beatmap Spotli
 | ![](/wiki/Beatmap_Spotlights/img/badges/winter_2022/osu/copper_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2022/osu/copper_2.png) | Copper | 70% - 95% |
 | ![](/wiki/Beatmap_Spotlights/img/badges/winter_2022/osu/iron_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2022/osu/iron_2.png) | Iron | 95% - 100% |
 
-The percentage values may vary a little depending on the game mode and/or participant count.
+The percentage values may vary a little depending on the game mode and/or participant counts.
 
 The Rhythm Incarnate tier threshold is picked manually based on season's participant count and general size of other tiers, though it is an absolute number that ranges between top 2 and top 50 in most cases.
 
-## <a id="playlists"></a> Spring Season 2021 first playlists
+## Winter Season 2022 first playlists
 
 ### osu! (lead by [Nowaie](https://osu.ppy.sh/users/5428909))
 
@@ -157,7 +157,7 @@ The Rhythm Incarnate tier threshold is picked manually based on season's partici
 - [Frums - Wavetapper \[Beyond Sounds\] (-mint-)](https://osu.ppy.sh/beatmapsets/866661#mania/2208846), suggested by [HowToPlayLN](https://osu.ppy.sh/users/10879600)
 - [Frums - XNOR XNOR XNOR \[Equivalence\] (GoldenJumper)](https://osu.ppy.sh/beatmapsets/1341013#mania/2777899), suggested by [Lenpai](https://osu.ppy.sh/users/5314573)
 
-Playlist B, C and D will be available on the [Beatmap Spotlights article](/wiki/Beatmap_Spotlights) as we open the timeshift lobbies, so stay tuned!
+Playlist B, C and D will be available on the [Beatmap Spotlights article](/wiki/Beatmap_Spotlights/Seasons/2022_Winter) as we open the timeshift lobbies, so stay tuned!
 
 ## The Future
 
@@ -171,8 +171,8 @@ See you in the upcoming lobbies!
 
 ---
 
-Join us over at [the community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) and assign yourself to a role to keep up with spotlights changes and announcements or visit the ``#osu-spotlights`` channel of [osu!dev](https://discord.gg/ppy) to help us push this project further! 
+Join us over at [the community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) and assign yourself to a role to keep up with spotlights changes and announcements or visit the [osu!dev Discord server](https://discord.gg/ppy) to help us push this project even further!
 
-You can also find out more about [Beatmap Spotlights](/wiki/Beatmap_Spotlights) on the osu!wiki.
+You can find out more about [Beatmap Spotlights](/wiki/Beatmap_Spotlights) on the osu! wiki.
 
 —Venix

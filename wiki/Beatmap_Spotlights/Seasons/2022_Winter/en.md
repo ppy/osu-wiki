@@ -5,7 +5,7 @@ tags:
   - Seasonal Spotlights
 ---
 
-# Beatmap Spotlights Season 4 (Spring 2021)
+# Beatmap Spotlights Season 4 (Winter 2022)
 
 ## Schedule
 
@@ -24,17 +24,16 @@ tags:
 
 As of now, joining the weekly multiplayer lobbies requires participants to download and install [osu!lazer](https://github.com/ppy/osu/releases).
 
-1. Every 2 weeks of a season, a single timeshift multiplayer lobby is opened. Everyone can participate for the entire week.
+1. Every 2 weeks of a season, a single playlist lobby is opened. Everyone can participate for the entire week.
    - After the first wave of lobbies, playlists will be opened again on a weekly basis.
-2. Each timeshift multiplayer lobby provides a pre-defined playlist of beatmaps.
-   - Each playlist is a subset of the whole roster of curated beatmaps for the current season.
+2. Each playlist lobby provides a pre-defined playlist of beatmaps.
    - Each playlist contains an even distribution of Hard, Insane and Expert beatmaps.
    - Each playlist corresponds with the letter assigned to each 2 weeks. Therefore, each playlist gets replayed once during a season.
-3. Within a timeshift lobby, everyone competes towards a room-specific leaderboard.
-   - Room leaderboards are based on the ranked score system. Therefore, only the best score results on each beatmap within the playlist are summed up to create a weekly ranked score for each user.
-   - Each beatmap of a playlist counts equally to the leaderboard score. Harder difficulties do not provide more score.
-   - Individual beatmap score is based on osu!lazer's scoring system.
-4. Once a timeshift lobby concludes, the weekly ranked score of each participant of the room is added to the seasonal leaderboard.
+3. Within a playlist lobby, everyone competes towards a room-specific leaderboard.
+   - Only the best score results on each beatmap within the playlist are summed up to create a weekly ranked score for each player.
+   - Each beatmap of a playlist counts equally to the leaderboard score.
+   - The individual beatmap score is based on osu!lazer's scoring system.
+4. Once a playlist lobby concludes, the weekly ranked score of each participant of the room is added to the seasonal leaderboard.
 
 ## Playlists
 
