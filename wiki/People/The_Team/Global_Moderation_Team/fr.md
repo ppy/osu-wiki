@@ -68,6 +68,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | Chinois, Malais | Modération du tchat |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Modération du tchat |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Suédois, Espagnol | Modération du tchat, gestion des tournois |
+| ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | Modération du tchat |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Coréen, Japonais | Modération du tchat |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Turc | Modération du tchat |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Espagnol | Modération du tchat, modération du forum |

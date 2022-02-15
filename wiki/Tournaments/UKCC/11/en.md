@@ -36,17 +36,34 @@ The UK Community Cup 11 is run by various community members.
 | Streamer | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Teejay](https://osu.ppy.sh/users/9499753), ![][flag_GB] [T-Bounce](https://osu.ppy.sh/users/13347736), ![][flag_FR] [lardon](https://osu.ppy.sh/users/11409334) |
 | Commentator | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_GB] [SadShiba](https://osu.ppy.sh/users/10747626), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Teejay](https://osu.ppy.sh/users/9499753), ![][flag_GB] [T-Bounce](https://osu.ppy.sh/users/13347736), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_GB] [Lapis-](https://osu.ppy.sh/users/929134) |
 | Designer | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) |
-| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Teejay](https://osu.ppy.sh/users/9499753), ![][flag_GB] [Domblade](https://osu.ppy.sh/users/6701945), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_PL] [Marzale](https://osu.ppy.sh/users/5194043), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_US] [Geag](https://osu.ppy.sh/users/16052525), ![][flag_ID] [Raff](https://osu.ppy.sh/users/7227330), ![][flag_GB] [Kezanub](https://osu.ppy.sh/users/6088641), ![][flag_GB] [T-Bounce](https://osu.ppy.sh/users/13347736) |
+| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Domblade](https://osu.ppy.sh/users/6701945), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_PL] [Marzale](https://osu.ppy.sh/users/5194043), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_US] [Geag](https://osu.ppy.sh/users/16052525), ![][flag_ID] [Raff](https://osu.ppy.sh/users/7227330), ![][flag_GB] [Kezanub](https://osu.ppy.sh/users/6088641), ![][flag_GB] [T-Bounce](https://osu.ppy.sh/users/13347736) |
 | Statistician | ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
 
 ## Links
 
-- **[Registration form](https://docs.google.com/forms/d/1-6sUrCNqhyj5_uOZGBPTF_GDM2QBdHPIeSV8WKJB3Yc/edit)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1508197?n=1)
 - [Discord](https://discord.gg/EtsU7Cw)
 - [Livestream](https://twitch.tv/osuukcc)
 - [Rules and information document](https://docs.google.com/document/d/1rkDOmvN4o5VKTbFcBXUXAjG2kPjNhpan9-WwgYlfpE8/edit?usp=sharing)
 - [Main spreadsheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti8gGxxCJIHsQXy3gJNAKH9EqATfo/edit#gid=0)
+
+## Mappools
+
+### Qualifiers
+
+- NoMod
+  1. [Babyraids Japan - Yoake Brand New Days (Ayucchi) [Shining DAYS!]](https://osu.ppy.sh/beatmapsets/1111136#osu/2321574)
+  2. [Kuki Akumu - Ki ga Kurutta Noise (Astronic) [Less Emotions]](https://osu.ppy.sh/beatmapsets/1569753#osu/3289450)
+  3. [Sota Fujimori - DANCE ALL NIGHT (- Yoshimaro -) [Delight]](https://osu.ppy.sh/beatmapsets/600303#osu/1268530)
+- Hidden
+  1. [TrySail - Utsuroi (Mir) [Vivy's Extra]](https://osu.ppy.sh/beatmapsets/1433678#osu/3266341)
+  2. [Various Artists - Netsuretsu Kangei Wonderland (Mirash) [Delisha vs Mirash's Mahjong Soul 1v1 Grand Finals [BO9]]](https://osu.ppy.sh/beatmapsets/1604477#osu/3276441)
+- HardRock
+  1. [Himeringo - Yotsuya-san ni Yoroshiku (RLC) [Winber1's Extreme]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
+  2. [Nekomata Master+ - POINT ZERO (Nakagawa-Kanon) [Another]](https://osu.ppy.sh/beatmapsets/61487#osu/183215)
+- DoubleTime
+  1. [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) [mithew's Light Insane]](https://osu.ppy.sh/beatmapsets/581787#osu/1478254)
+  2. [Inoue Marina - Pieces of Sweet Stars (whymeman) [S.t.a.r.S]](https://osu.ppy.sh/beatmapsets/8436#osu/34657)
 
 ## Ruleset
 
