@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights Season 5: Winter 2022 - Unorthodox Rhythm"
-date: 2022-02-15 01:45:00 +0000
+date: 2022-02-15 22:00:00 +0000
 ---
 
 Spotlights rivals, assemble! After a long break, we are finally back with many new changes like a brand new special play theme, so we hope you all are ready for **Winter Season 2022**!
