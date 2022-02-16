@@ -10,7 +10,7 @@ Spotlights rivals, assemble! After a long break, we are finally back with many n
 
 With the new season launch, we'll be changing up some aspects of how the Beatmap Spotlights play to help keep things fresh. We're also going to be communicating things a little differently, so make sure to read on to figure out what's what.
 
-If you just can't wait to try out the new maps, **the Beatmap Spotlights lobbies are now open for play on the osu!lazer client**. If you've got no idea how to get started with things, read on below!
+If you just can't wait to try out the new maps, **the Beatmap Spotlights lobbies are now open for play on the osu! (lazer release) client**. If you've got no idea how to get started with things, read on below!
 
 ## Changes
 
