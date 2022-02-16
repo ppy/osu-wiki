@@ -88,9 +88,9 @@ These contributors have made massive contributions in the form of code, projects
 
 [![](/wiki/shared/news/2017-12-24-community-contributors-2017/tom94.png)](https://osu.ppy.sh/users/1857058)
 
-Responsible for a huge number of additions and improvement to osu! and the osu!(lazer) project, Tom94's reach extends well into the heart of the game's core gameplay - his changes to star rating and pp proving to be the cornerstone of the game's progression in recent times. The mathematical magic and wizardry responsible for such madness cannot be understated.
+Responsible for a huge number of additions and improvement to osu! and the osu!lazer project, Tom94's reach extends well into the heart of the game's core gameplay - his changes to star rating and pp proving to be the cornerstone of the game's progression in recent times. The mathematical magic and wizardry responsible for such madness cannot be understated.
 
-Beyond that, his continued contributions to osu!(lazer) (and the underlying framework behind it) have greatly helped push the project forward, and while he may have retreated into a less involved role in recent months, he remains an integral part of the team behind osu!, and we're very grateful to have had him work with us.
+Beyond that, his continued contributions to osu!lazer (and the underlying framework behind it) have greatly helped push the project forward, and while he may have retreated into a less involved role in recent months, he remains an integral part of the team behind osu!, and we're very grateful to have had him work with us.
 
 ### DrabWeb
 
@@ -102,13 +102,13 @@ Responsible for numerous display views ranging from pause overlays, to mod selec
 
 [![](/wiki/shared/news/2017-12-24-community-contributors-2017/evast.png)](https://osu.ppy.sh/users/8195163)
 
-A prime contributor to the osu!(lazer) project, EVAST's work has been instrumental in improving countless aspects of the new client, and his expertise and continued dedication to pushing the project forward is greatly valued.
+A prime contributor to the osu!lazer project, EVAST's work has been instrumental in improving countless aspects of the new client, and his expertise and continued dedication to pushing the project forward is greatly valued.
 
 ### huoyaoyuan
 
 [![](/wiki/shared/news/2017-12-24-community-contributors-2017/huoyaoyuan.png)](https://osu.ppy.sh/users/2428732)
 
-The mind behind numerous low-level fixes, refactors and enhancements, huoyaoyuan's tireless work and contribution have brought the osu!(lazer) project forward in leaps and bounds.
+The mind behind numerous low-level fixes, refactors and enhancements, huoyaoyuan's tireless work and contribution have brought the osu!lazer project forward in leaps and bounds.
 
 ### kj415j45
 
@@ -120,7 +120,7 @@ Responsible for largely organizing the Chinese translation effort on both the os
 
 [![](/wiki/shared/news/2017-12-24-community-contributors-2017/jorolf.png)](https://osu.ppy.sh/users/7004641)
 
-From developing numerous fixes and features for the osu!(lazer) project to some of the streaming tools used by the osu!academy and media crew to make things like the osu!talks happen, jorolf's contributions have driven osu! forward in subtle, but important ways.
+From developing numerous fixes and features for the osu!lazer project to some of the streaming tools used by the osu!academy and media crew to make things like the osu!talks happen, jorolf's contributions have driven osu! forward in subtle, but important ways.
 
 ### Syrin
 

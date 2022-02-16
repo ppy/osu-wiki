@@ -74,7 +74,7 @@ For a detailed run-down of all the discussion, feel free to peruse the [meeting 
 
 Whilst this presents landmark progress in making the operation and decision making process of the QAT more freely accessible than ever before, there is still room for refinement. A lot of interested community members were unable to attend this time around due to the short notice of announcement, so we’ll make an effort to disclose details of future public meetings more in advance.
 
-These meetings will always share their location in common though - head on over to the [osu!dev public Discord server](https://discord.gg/ppy)'s #modding channel to follow our discussion, as well as contribute to the osu!wiki, osu!(lazer), modding discussions, Beatmap Spotlights, Project Loved, and so much more if you are inclined!
+These meetings will always share their location in common though - head on over to the [osu!dev public Discord server](https://discord.gg/ppy)'s #modding channel to follow our discussion, as well as contribute to the osu!wiki, osu!lazer, modding discussions, Beatmap Spotlights, Project Loved, and so much more if you are inclined!
 
 ### New Quality Assurance Team additions
 

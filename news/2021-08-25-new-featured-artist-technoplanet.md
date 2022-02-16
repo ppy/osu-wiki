@@ -12,7 +12,7 @@ Delivering a new experience around every corner, **technoplanet** is the monster
 
 Explore the otherworldly beatmapping possibilities of the **12** songs available from [**technoplanet**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/193)!
 
-If you'd rather taste a sample before diving in, feel free to experience [Entry](https://osu.ppy.sh/users/10213311)'s rendition of [*technoplanet - Tepic Tepoch*](https://osu.ppy.sh/beatmapsets/1551369) through osu!(lazer)'s Mirror mod in the video below, then give these other previews a listen:
+If you'd rather taste a sample before diving in, feel free to experience [Entry](https://osu.ppy.sh/users/10213311)'s rendition of [*technoplanet - Tepic Tepoch*](https://osu.ppy.sh/beatmapsets/1551369) through osu!lazer's Mirror mod in the video below, then give these other previews a listen:
 
 <div align="center">
     <video width="95%" controls>

@@ -114,7 +114,7 @@ A scaling penalty to stamina difficulty is applied to maps with low colour varia
 
 Given the four skills briefly described above (stamina for both hands, rhythm and colour), their strain values are combined into one final Star Rating value. This is done in two ways - while the *globally-combined* difficulty operates on the final strain values over the whole map, *locally-combined* difficulty splits the map into sections and combines peaks of each skill in each section, aiming to catch out particularly demanding moments. The final Star Rating is a combination of the two.
 
-A fair bit of mathematical nuance goes into actually calculating the end result. If you're interested in the particulars, consult [morth1's proposal document](https://docs.google.com/document/d/1JjHSh6Gzigja0thJDiHwW4E1oH3fxcS0Pze5HJXLErk/edit#) or jump into [the code itself over in the osu!(lazer) repository](https://github.com/ppy/osu/blob/master/osu.Game.Rulesets.Taiko/Difficulty/TaikoDifficultyCalculator.cs) for the full details.
+A fair bit of mathematical nuance goes into actually calculating the end result. If you're interested in the particulars, consult [morth1's proposal document](https://docs.google.com/document/d/1JjHSh6Gzigja0thJDiHwW4E1oH3fxcS0Pze5HJXLErk/edit#) or jump into [the code itself over in the osu!lazer repository](https://github.com/ppy/osu/blob/master/osu.Game.Rulesets.Taiko/Difficulty/TaikoDifficultyCalculator.cs) for the full details.
 
 Importantly, Star Rating has been scaled to ensure that most Kantan are below 2\*, most Futsuu are below 2.8\*, and most Muzukashii are below 4\*. In addition, high SR values have been scaled specifically to ensure that beatmaps with FCs or near-FCs are all below 9.5\*.
 

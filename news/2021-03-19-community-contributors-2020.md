@@ -48,11 +48,11 @@ To sum it up, **Lasse** has done a *lot*. He stands as a shining example of the 
 
 [![](/wiki/shared/news/2021-03-19-community-contributors-2020/spaceman_atlas.jpg)](https://osu.ppy.sh/users/3035836)
 
-Known as [bdach](https://github.com/bdach) on GitHub, **spaceman_atlas** has quickly risen to the fore as one of the most active contributors to osu!(lazer)’s ongoing development in a large variety of domains. 
+Known as [bdach](https://github.com/bdach) on GitHub, **spaceman_atlas** has quickly risen to the fore as one of the most active contributors to osu!lazer’s ongoing development in a large variety of domains. 
 
 Since he began in early 2019, he has authored over 763 individual contributions to the project across countless pull requests and issues, rapidly rising to become second among all public osu! contributors across the entire history of the project in barely the space of a year. 
 
-His dedication to the very future of the game has proven instrumental in accelerating the pace of osu!(lazer)’s development significantly, and the handful of wikifriends and lazer contributors among us all know that if there is a question to be answered or data to be crunched, **spaceman_atlas** is never far away.
+His dedication to the very future of the game has proven instrumental in accelerating the pace of osu!lazer’s development significantly, and the handful of wikifriends and lazer contributors among us all know that if there is a question to be answered or data to be crunched, **spaceman_atlas** is never far away.
 
 [![](/wiki/shared/news/2021-03-19-community-contributors-2020/rockroller.jpg)](https://osu.ppy.sh/users/8388854)
 

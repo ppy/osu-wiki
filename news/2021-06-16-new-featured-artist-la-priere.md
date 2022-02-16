@@ -12,7 +12,7 @@ Combining some of the highest caliber vocalists with composers and arrangers kno
 
 We've snagged **11** tracks across their discography, all freely available for mapping from [**La prière**'s Featured Artist page](https://osu.ppy.sh/beatmaps/artists/174) in their pre-timed glory.
 
-Despite being comprised of some of the biggest names surrounding the rhythm game scene, **La prière** surprisingly hasn't had much attention from osu! players until recently. You might need to investigate their sound for yourself, and this video of [*Senjou no Utahime*](https://osu.ppy.sh/beatmapsets/1398580) showcasing osu!(lazer)'s newest mod is a good start (along with the other song previews below, of course).
+Despite being comprised of some of the biggest names surrounding the rhythm game scene, **La prière** surprisingly hasn't had much attention from osu! players until recently. You might need to investigate their sound for yourself, and this video of [*Senjou no Utahime*](https://osu.ppy.sh/beatmapsets/1398580) showcasing osu!lazer's newest mod is a good start (along with the other song previews below, of course).
 
 <div align="center">
     <video width="90%" controls>
