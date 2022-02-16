@@ -99,20 +99,38 @@ The Touhou Project Mania Cup 2nd is run by the TMC team.
 
 ## Match schedule: Round of 16
 
+Team A represent Blue Team while Team B represnt Red Team. 
+
 ### Saturday, February 19, 2022
 
-| Team A | Team B | Match time | Local time A | Local time B | |
-| --: | :-- | :-: | :-: | :-: | :-: |
-| TeamAName | TeamBName | Feb 19 (Sat) 12:00 UTC | Feb 19 (Sat) 20:00 UTC+8 | Feb 19 (Sat) 20:00 UTC+8 | ¹ |
+| Team A | Team B | Match time ||
+| --: | :-- | :-: | :-: |
+| Appendicitis | offbrand mwc | Feb 19 (Sat) 2:00 UTC | ¹ |
+| Hourai Elixir | badplayers49 | Feb 19 (Sat) 3:00 UTC | ¹ |
+| Estudia Sonso | Fumo | Feb 19 (Sat) 4:00 UTC | ¹ |
+| sllab amogus    | :1217angry: | Feb 19 (Sat) 12:00 UTC | ¹ |
+| Black Stick Rot | ICHIGAY!!! | Feb 19 (Sat) 13:00 UTC | ¹ |
+| Knation | Ordirehv | Feb 19 (Sat) 14:00 UTC | ¹ |
+| monkey bussines | rice quadruplets | Feb 19 (Sat) 16:00 UTC | ¹ |
+| Œil | ExtraRipeApples | Feb 19 (Sat) 21:00 UTC | ¹ |
+
+
 
 ### Sunday, February 20, 2022
 
-| Team A | Team B | Match time | Local time A | Local time B | |
-| --: | :-- | :-: | :-: | :-: | :-: |
-| TeamAName | TeamBName | Feb 20 (Sun) 10:00 UTC | Feb 20 (Sun) 19:00 UTC+9 | Feb 20 (Sun) 18:00 UTC+8 | ² |
+| Team A | Team B | Match time | |
+| --: | :-- | :-: | :-: |
+| Sierra Leone | TheAnswerIsPorn | Feb 20 (Sun) 0:00 UTC | ² |
+| YEP | TouWhou? | Feb 20 (Sun) 3:00 UTC | ² |
+| Shion Lovers | holiv reprdution | Feb 20 (Sun) 6:00 UTC | ² |
+| oh10 | Watermelon | Feb 20 (Sun) 12:00 UTC | ² |
+| yes | omsim | Feb 20 (Sun) 13:00 UTC | ² |
+| Assmen | Team Pixula | Feb 20 (Sun) 14:00 UTC | ² |
+| FNF Club Germany | Ricemakers | Feb 20 (Sun) 15:00 UTC | ² |
+| skill issue | bru. | Feb 20 (Sun) 16:00 UTC | ² |
 
-¹ Losers bracket match\
-² Potential match: final matchup depends on the results of ¹
+¹ Winner bracket match
+² Losers bracket match
 
 ## Mappools
 
@@ -165,93 +183,39 @@ The Touhou Project Mania Cup 2nd is run by the TMC team.
 
 ## Match results
 
-### Finals
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1X-RhAkUcgKZbKF8k2lGLV3AyOxumOUUwFe48isbIcTI/edit?rm=minimal).
+### Round of 32
 
-Saturday, February 12, 2022
-
-| Team A | | | Team B | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Philippines** ![][flag_PH] | **7** | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/97687067) |
-| **China** ![][flag_CN] | **7** | 3 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/97689158) |
-
-Sunday, February 13, 2022
+Saturday, January 12, 2022
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **China** ![][flag_CN] | **7** | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/97731670) |
-| **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/97736266) |
+| **Appendicitis**  | **5** | 1 | YEP | [#1](https://osu.ppy.sh/community/matches/97677061) |
+| **Hourai  Elixir** | **5** | 0 | oh10 | [#1](https://osu.ppy.sh/community/matches/97677026) |
+| **Ordirehv** | **5** | 0 | Ricemakers | [#1](https://osu.ppy.sh/community/matches/97689810) |
+| **Knation** | **5** | 0 | FNF Club  Germany | [#1](https://osu.ppy.sh/community/matches/97691432) |
+| **ICHIGAY!!!** | **5** | 2 | bru. | [#1](https://osu.ppy.sh/community/matches/97693777) |
+| **Œil** | **5** | 1 | Assmen | [#1](https://osu.ppy.sh/community/matches/97694045) |
+| **Black Stick  Rot** | **0** | -1 | skill issue | [#1](https://osu.ppy.sh/community/matches/97698468) *Win by default* |
+| yes | 3 | **5** | **Estudia Sonso** | [#1](https://osu.ppy.sh/community/matches/97706983) |
+| **monkey  bussines** | **5** | 1 | Sierra Leone | [#1](https://osu.ppy.sh/community/matches/97708186) |
 
-### Semifinals
-
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1IFUI0PzZAgl8RRmfmHHmVrezL6qkCAaRM3ME5lKKrQQ/edit?rm=minimal).
-
-Saturday, February 5, 2022
-
-| Team A | | | Team B | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Indonesia** ![][flag_ID] | **7** | 2 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/97417859) |
-| China ![][flag_CN] | 2 | **7** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/97417959) |
-| **Japan** ![][flag_JP] | **7** | 3 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/97421449) |
-| **Thailand** ![][flag_TH] | **7** | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/97423673) |
-| Canada ![][flag_CA] | 4 | **7** | ![][flag_ES] **Spain** | [#1](https://osu.ppy.sh/community/matches/97426048) |
-
-Sunday, February 6, 2022
+Sunday, January 13, 2022
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **South Korea** ![][flag_KR] | **7** | 6 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/97459939) |
-| **Thailand** ![][flag_TH] | **7** | 0 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/97462885) |
-| **Japan** ![][flag_JP] | **7** | 3 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/97466272) |
+| TouWhou? | 4 | **5** | **offbrand  mwc** | [#1](https://osu.ppy.sh/community/matches/97718307) |
+| TheAnswerIsPorn | 1 | **5** | **rice  quadruplets** | [#1](https://osu.ppy.sh/community/matches/97723198) |
+| **sllab amogus** | **5** | 0 | Shion Lovers | [#1]( https://osu.ppy.sh/community/matches/97725051) |
+| **badplayers49** | **5** | 4 | Watermelon | [#1]( https://osu.ppy.sh/community/matches/97731754) |
+| **:1217angry:** | **5** | 4 | holiv  reprdution | [#1](https://osu.ppy.sh/community/matches/97734519) |
+| **Fumo** | **5** | 3 | omsim | [#1]( https://osu.ppy.sh/community/matches/97734449) |
+| Team Pixula | -1 | **0** | **ExtraRipeApples** | [#1](https://osu.ppy.sh/community/matches/97748177) *Win by default* |
 
-### Quarterfinals
-
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1p5UdhZ0CDflgnghIcKIsCnfT9A5c-kGGDOgGsS8Bqhg/edit?rm=minimal).
-
-Saturday, January 29, 2022
-
-| Team A | | | Team B | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| United States ![][flag_US] | 0 | **6** | ![][flag_ES] **Spain** | [#1](https://osu.ppy.sh/community/matches/97134166) |
-| Taiwan ![][flag_TW] | 3 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/97137500) |
-| **Poland** ![][flag_PL] | **6** | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/97139929) |
-| Switzerland ![][flag_CH] | 2 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/97155646) |
-
-Sunday, January 30, 2022
-
-| Team A | | | Team B | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/97170691) |
-| **China** ![][flag_CN] | **6** | 5 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/97177094) |
-| **Philippines** ![][flag_PH] | **6** | 0 | ![][flag_TH] Thailand | [#1]( https://osu.ppy.sh/community/matches/97182046) |
-| **Malaysia** ![][flag_MY] | **6** | 0 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/97187449) |
-
-### Round of 16
-
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1np4ZxbrZoAvYPlBE2_XXQg9eBz2wFFvud9xgO8U3EyA/edit?rm=minimal).
-
-Saturday, January 22, 2022
-
-| Team A | | | Team B | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Indonesia** ![][flag_ID] | **6** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/96833931) |
-| Spain ![][flag_ES] | 4 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/96836932) |
-| **Malaysia** ![][flag_MY] | **6** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/96842328) |
-
-Sunday, January 23, 2022
-
-| Team A | | | Team B | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Canada** ![][flag_CA] | **6** | 3 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/96871014) |
-| **China** ![][flag_CN] | **6** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/96879069) |
-| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/96881672) |
-| **Thailand** ![][flag_TH] | **6** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/96883025) |
-| **Philippines** ![][flag_PH] | **6** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/96884707) |
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1Io6SHPkPIgC_59uVEk7KJ1u6wmcvAqGp_TJ2IovTmok/edit?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1_Lq1HaM_2L1aZSpb7T6rI9J7zJe79cfrrMVjqrySoKA/edit?rm=minimal).
+The final standings for the Qualifier stage can be found on [Information spreadsheet](https://cdwcgt-my.sharepoint.com/:x:/g/personal/cdwcgt_cdwcgt_top1/EaVVMZD2MeZEjpGFZJgoWGEBhgxQM5ubRWOpaQynzydFSw?e=6t0trY). Detailed statistics for this round can be found on [Statistic spreadsheet](https://docs.google.com/spreadsheets/d/1Nf7XhtkQkl90291EPaIJm5ubdzSbS_3W9xDmEDYiYw0/edit?usp=sharing)
 
 ## Ruleset
 
