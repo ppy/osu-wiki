@@ -12,7 +12,7 @@ That's right, all you fans of *Geometry Dash* and *Beat Saber* can finally put d
 
 Proven to be a perfect fit in the rhythm game scene, we've snagged a whopping **30** tracks for [**Boom Kitty**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/233) from his decade-spanning discography.
 
-As an innovator in the EDM scene, it's only fitting that you experience **Boom Kitty**'s musical talents through a quick video of osu!lazer's editor innovations throughout the last few years. Once you're done with that, feel free to check out the rest of these previews below and start mapping!
+As an innovator in the EDM scene, it's only fitting that you experience **Boom Kitty**'s musical talents through a quick video of osu! (lazer release)'s editor innovations throughout the last few years. Once you're done with that, feel free to check out the rest of these previews below and start mapping!
 
 <div align="center">
     <video width="100%" controls>

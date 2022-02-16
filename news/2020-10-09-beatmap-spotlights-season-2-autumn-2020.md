@@ -10,7 +10,7 @@ Howdy, Spotlight chasers! As many of you are already aware, the Summer Season 20
 
 After listening to your feedback, we expect this season to be dynamic, slightly faster, better balanced and more diverse than last time. With those things in mind, we've modified the length of time that timeshift lobbies are open and finally added support for mods.
 
-For those interested in getting straight into playing in the new season, **the lobbies for the Beatmap Spotlights are open now on the osu!lazer client**, so head on over and get cracking!
+For those interested in getting straight into playing in the new season, **the lobbies for the Beatmap Spotlights are open now on the osu! (lazer release) client**, so head on over and get cracking!
 
 Check out what we have planned for this season in detail:
 
@@ -19,7 +19,7 @@ Check out what we have planned for this season in detail:
 - **Lobbies will be open for the whole week.** We realized that making the timeshift lobbies only available on the weekends is difficult for a lot of players interested in participating our league system and thus we will now keep it open for the whole week instead, starting from today.
 - **Some playlists will now feature mods.** A fundamental part for a diverse gameplay is to add mods, especially if we want to give skilled players a bit more of a challenge! But do not worry about having your favourite song or map featured as a mod-only difficulty. All maps that feature mods will also have their original version available. We want to keep it fair and fun for everyone!
 
-*Note: osu!taiko will not be able to feature mods this season due to limitations with osu!lazer's current implementation.*
+*Note: osu!taiko will not be able to feature mods this season due to limitations with osu! (lazer release)'s current implementation.*
 
 ### General aspects
 

@@ -11,7 +11,7 @@ tags:
 
 [Beatmaps](/wiki/Beatmap) submitted to the website have **genre** and **language** fields to help categorise songs. They are considered to be part of a beatmap's *metadata*<!-- TODO: link -->.
 
-Genre and language have no function in the game, but will be available as search options in osu!lazer<!-- TODO: link me -->.
+Genre and language have no function in the game, but will be available as search options in osu! (lazer release)<!-- TODO: link me -->.
 
 ## Beatmap listing
 

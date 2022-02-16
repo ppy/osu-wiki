@@ -82,4 +82,4 @@ Benutzer, die über den osu!-Client oder die Website verbunden sind, haben kein 
 
 ### Jemand sendet Nachrichten, aber er ist nicht in der Liste der Channel-Benutzer!
 
-Er verwendet entweder die [Web-Version des Chats](https://osu.ppy.sh/community/chat) oder ist via [osu!lazer](https://github.com/ppy/osu) verbunden.
+Er verwendet entweder die [Web-Version des Chats](https://osu.ppy.sh/community/chat) oder ist via [osu! (lazer release)](https://github.com/ppy/osu) verbunden.

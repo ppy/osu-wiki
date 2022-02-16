@@ -14,7 +14,7 @@ With humble origins as producer *iyuna*'s solo project 15 years ago, **solfa** h
 
 **solfa**'s anime-esque sound is exactly what countless osu! players have come to associate with the game, so we're pumped to finally have **33** songs officially available from [**solfa**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/207)!
 
-We'd usually post every ranked map featuring a new artist below, but considering there are [a TON of ranked **solfa** beatmaps](https://osu.ppy.sh/beatmapsets?q=featured_artist%3D207), we'll spare you. Instead we'll offer quick previews of a bunch of different vocalists, along with an attempt of [popner](https://osu.ppy.sh/users/759860)'s classic beatmap [*solfa feat. Chata - Colorful precious life*](https://osu.ppy.sh/beatmapsets/90854) on mobile osu!lazer:
+We'd usually post every ranked map featuring a new artist below, but considering there are [a TON of ranked **solfa** beatmaps](https://osu.ppy.sh/beatmapsets?q=featured_artist%3D207), we'll spare you. Instead we'll offer quick previews of a bunch of different vocalists, along with an attempt of [popner](https://osu.ppy.sh/users/759860)'s classic beatmap [*solfa feat. Chata - Colorful precious life*](https://osu.ppy.sh/beatmapsets/90854) on mobile osu! (lazer release):
 
 <div align="center">
     <video width="95%" controls>

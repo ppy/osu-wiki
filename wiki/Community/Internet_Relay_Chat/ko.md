@@ -82,4 +82,4 @@ osu! 게임 클라이언트 또는 웹사이트를 통해 접속한 유저는 �
 
 ### 누가 메시지를 보냈는데, 채팅중인 유저 목록에 나오질 않아요!
 
-[웹 버전 채팅](https://osu.ppy.sh/community/chat) 또는 [osu!lazer](https://github.com/ppy/osu)를 통해 접속한 유저입니다.
+[웹 버전 채팅](https://osu.ppy.sh/community/chat) 또는 [osu! (lazer release)](https://github.com/ppy/osu)를 통해 접속한 유저입니다.

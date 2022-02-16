@@ -82,4 +82,4 @@ Les utilisateurs connectés via le client osu! ou le site web n'ont pas de préf
 
 ### Quelqu'un envoie des messages, mais il n'est pas dans la liste des utilisateurs du canal !
 
-Ils sont soit en train d'utiliser [la version internet du chat](https://osu.ppy.sh/community/chat), soit connectés via [osu!lazer](https://github.com/ppy/osu).
+Ils sont soit en train d'utiliser [la version internet du chat](https://osu.ppy.sh/community/chat), soit connectés via [osu! (lazer release)](https://github.com/ppy/osu).

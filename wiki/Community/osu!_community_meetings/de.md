@@ -28,7 +28,7 @@ Das erste osu! Community Meeting fand am 19. September 2021 statt. Alle Treffen 
 
 | Meeting # | Link | Zusammenfassung | Agenda |
 | :-: | :-- | :-- | :-- |
-| 0 | [19. September 2021](https://youtu.be/-LjNll8VYTM) | [Sitzungsnotizen](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Einführung in diese Meetings, Ranking-Kriterien, Schwierigkeitsgrade und Performance-Punkte, osu!lazer im Allgemeinen |
+| 0 | [19. September 2021](https://youtu.be/-LjNll8VYTM) | [Sitzungsnotizen](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Einführung in diese Meetings, Ranking-Kriterien, Schwierigkeitsgrade und Performance-Punkte, osu! (lazer release) im Allgemeinen |
 | 1 | [3. Oktober 2021](https://youtu.be/D3OZCm6szVE) | [Sitzungsnotizen](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | Diverse Fragen aus der Community, Entwicklungs-Update |
 | 2 | [17. Oktober 2021](https://youtu.be/nLT-fLeogrw) | [Sitzungsnotizen](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | Verschiedene Fragen aus der Community |
 | 3 | [31. Oktober 2021](https://youtu.be/omvZbC7zJUI) | [Sitzungsnotizen](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | Verschiedene Fragen aus der Community |

@@ -12,7 +12,7 @@ Ever since their own brand of eccentric melodies took root on SoundCloud in 2014
 
 We've scored **9** tracks this time around, including the cult classic behind [*Boba Beach*](https://osu.ppy.sh/beatmapsets/327224) hosted by [VINXIS](https://osu.ppy.sh/users/4323406).
 
-Experiencing these songs for yourself is the best way to really do them justice, so try watching [Feiri](https://osu.ppy.sh/users/3214844) play *Boba Beach* with osu!lazer's new Barrel Roll mod or check out the rest of the samples below:
+Experiencing these songs for yourself is the best way to really do them justice, so try watching [Feiri](https://osu.ppy.sh/users/3214844) play *Boba Beach* with osu! (lazer release)'s new Barrel Roll mod or check out the rest of the samples below:
 
 <div align="center">
     <video width="95%" controls>

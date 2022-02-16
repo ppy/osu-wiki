@@ -33,7 +33,7 @@ Les nouveaux Artistes Associés sont annoncés chaque semaine sur le [fil d'actu
 
 ## Utilisation par la communauté
 
-Les mappeurs sont encouragés à créer des maps pour les pistes des Artistes Associés. Ces morceaux sont fournis avec des données de [timing](/wiki/Client/Beatmap_editor/Timing) et sont déjà autorisés à être utilisés sur osu!, ce qui permet aux utilisateurs de se lancer immédiatement dans la création de beatmap sans crainte. La version en cours de développement d'osu!, appelée [osu!lazer](https://github.com/ppy/osu/releases), mettra ces maps en évidence dans le jeu.
+Les mappeurs sont encouragés à créer des maps pour les pistes des Artistes Associés. Ces morceaux sont fournis avec des données de [timing](/wiki/Client/Beatmap_editor/Timing) et sont déjà autorisés à être utilisés sur osu!, ce qui permet aux utilisateurs de se lancer immédiatement dans la création de beatmap sans crainte. La version en cours de développement d'osu!, appelée [osu! (lazer release)](https://github.com/ppy/osu/releases), mettra ces maps en évidence dans le jeu.
 
 Tous les concours de mapping publiés sur la [liste des concours communautaires](https://osu.ppy.sh/community/contests), tels que le [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) et le [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), exigent des participants qu'ils mappent les chansons des Artistes Associés. Certains concours organisés par la communauté utilisent également ces chansons.
 

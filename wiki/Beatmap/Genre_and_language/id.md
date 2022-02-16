@@ -11,7 +11,7 @@ tags:
 
 [Beatmaps](/wiki/Beatmap) yang sudah diunggah ke situs, memiliki **aliran** dan **bahasa** untuk membantu dalam mengkategorikan sebuah musik. Mereka dianggap sebagai bagian dari beatmap *metadata*.
 
-Aliran dan bahasa tidak memiliki fungsi di dalam gim saat ini, namun bisa digunakan sebagai opsi pencarian di dalam osu!lazer dimasa yang akan datang.
+Aliran dan bahasa tidak memiliki fungsi di dalam gim saat ini, namun bisa digunakan sebagai opsi pencarian di dalam osu! (lazer release) dimasa yang akan datang.
 
 ## Daftar beatmap
 

@@ -855,6 +855,8 @@
 
 "tourney":                     "osu!tourney"
 
+"osu!tourney/osu!lazer_tournament_client":          "osu!tourney/Tournament_client"
+
 "wiki":                                             "osu!_wiki"
 "wiki_help":                                        "osu!_wiki/Maintenance#routines"
 "osu!wiki_contribution_guide":                      "osu!_wiki/Contribution_guide"

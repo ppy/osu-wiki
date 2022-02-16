@@ -35,11 +35,11 @@ macOS 版本的 osu! 可能會有一些畫面上的 bug 及效能問題。遊戲
 3. 如果您有安裝防毒軟體，確保在解壓縮 osu! 前有先停用。不然 Wine 需要的檔案可能會被隔離。
 4. 如果以上方法都無效，您可以在[幫助論壇](https://osu.ppy.sh/community/forums/5)貼文。
 
-## osu!lazer
+## osu! (lazer release)
 
-[osu!lazer](https://github.com/ppy/osu) 是未來將使用的遊戲客戶端，但目前仍在開發階段。如果您不在乎賺取 [pp](/wiki/Performance_points) 的話，那我們建議您試試。以下是安裝步驟：
+[osu! (lazer release)](https://github.com/ppy/osu) 是未來將使用的遊戲客戶端，但目前仍在開發階段。如果您不在乎賺取 [pp](/wiki/Performance_points) 的話，那我們建議您試試。以下是安裝步驟：
 
-1. 前往[osu!lazer 下載頁面](https://github.com/ppy/osu/releases/latest)，下載`osu!.app.zip` 並解壓縮。
+1. 前往[osu! (lazer release) 下載頁面](https://github.com/ppy/osu/releases/latest)，下載`osu!.app.zip` 並解壓縮。
 2. 在 osu! 上點擊兩次左鍵並按下 `Open` 按鈕以開啟。
 3. 如果有提示框詢問您是否要允許 osu! 接收按鍵輸入的話：
    1. 點擊 `開啟系統設置` 按鈕。

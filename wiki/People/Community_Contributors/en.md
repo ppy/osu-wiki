@@ -99,11 +99,11 @@ Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which ar
 | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) | Outstanding referee presence in dozens of community tournaments |
 | ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660) | Outstanding performance in casting, commentary, and event-based writeups/recaps |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | The mastermind behind countless improvements to osu!, from pp, a graphics engine rewrite, star rating, and more! |
-| ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | Outstanding contribution to the osu!lazer project |
-| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | Outstanding contribution to the osu!lazer project with 90+ pullreqs and hundreds of commits |
-| ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Outstanding contribution to the osu!lazer project |
-| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Outstanding contribution and organisation of the Chinese localisation project for osu!, osu! wiki, and osu!lazer |
-| ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Outstanding contribution to the osu!lazer project and creation of numerous media tools |
+| ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | Outstanding contribution to the osu! (lazer release) project |
+| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | Outstanding contribution to the osu! (lazer release) project with 90+ pullreqs and hundreds of commits |
+| ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Outstanding contribution to the osu! (lazer release) project |
+| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Outstanding contribution and organisation of the Chinese localisation project for osu!, osu! wiki, and osu! (lazer release) |
+| ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Outstanding contribution to the osu! (lazer release) project and creation of numerous media tools |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | Creator of PerformancePlus and osu!chan |
 | ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Outstanding effort in the production and publishing of the Scorewatch project |
 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Outstanding effort in the production and publishing of the Scorewatch project |
@@ -140,7 +140,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which ar
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Outstanding contribution to the Community Mentorship Program |
 | ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) | Outstanding contribution to the Community Mentorship Program |
 | ![][flag_FI] [J1NX1337](https://osu.ppy.sh/users/3971179) | Outstanding contribution to the Community Mentorship Program |
-| ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | Outstanding contribution to the osu!lazer project |
+| ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | Outstanding contribution to the osu! (lazer release) project |
 
 ## 2020
 

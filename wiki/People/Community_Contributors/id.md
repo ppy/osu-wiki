@@ -99,11 +99,11 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) | Kontribusi luar biasa menjadi wasit di puluhan turnamen komunitas |
 | ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660) | Kontribusi luar biasa dalam *casting*, menjadi komentator, dan media konten tertulis/rekap |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Dalang di balik peningkatan yang tak terhitung jumlahnya untuk osu!, mulai dari implementasi pp, penulisan ulang *graphics engine*, implementasi peringkat dalam skala bintang, dan banyak lagi! |
-| ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | Kontribusi luar biasa dalam pengerjaan proyek osu!lazer |
-| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | Kontribusi luar biasa dalam pengerjaan proyek osu!lazer dengan 90+ *pullreq* dan ratusan *commit* |
-| ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Kontribusi luar biasa dalam pengerjaan proyek osu!lazer |
-| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Kontribusi luar biasa terhadap proyek dan mengelola proyek terjemahan Cina untuk osu!, osu!wiki, dan osu!lazer |
-| ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Kontribusi luar biasa dalam pengerjaan proyek osu!lazer dan pembuatan berbagai alat media |
+| ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | Kontribusi luar biasa dalam pengerjaan proyek osu! (lazer release) |
+| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | Kontribusi luar biasa dalam pengerjaan proyek osu! (lazer release) dengan 90+ *pullreq* dan ratusan *commit* |
+| ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Kontribusi luar biasa dalam pengerjaan proyek osu! (lazer release) |
+| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Kontribusi luar biasa terhadap proyek dan mengelola proyek terjemahan Cina untuk osu!, osu!wiki, dan osu! (lazer release) |
+| ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Kontribusi luar biasa dalam pengerjaan proyek osu! (lazer release) dan pembuatan berbagai alat media |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | Penemu PerformancePlus dan osu!chan |
 | ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Kontribusi luar biasa dalam produksi dan penerbitan Scorewatch project |
 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Kontribusi luar biasa dalam produksi dan penerbitan Scorewatch project |
@@ -140,7 +140,7 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Kontribusi luar biasa terhadap Community Mentorship Program |
 | ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) | Kontribusi luar biasa terhadap Community Mentorship Program |
 | ![][flag_FI] [J1NX1337](https://osu.ppy.sh/users/3971179) | Kontribusi luar biasa terhadap Community Mentorship Program |
-| ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | Kontribusi luar biasa dalam pengerjaan proyek osu!lazer |
+| ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | Kontribusi luar biasa dalam pengerjaan proyek osu! (lazer release) |
 
 ## 2020
 

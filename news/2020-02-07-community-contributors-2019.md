@@ -130,7 +130,7 @@ A chief contributor to the Mappers' Guild and Beatmap Nominator infrastructure, 
 
 [![](/wiki/shared/news/2020-02-07-community-contributors-2019/Joehu.jpg)](https://osu.ppy.sh/users/8549835)
 
-**Joehu** has been a part of the osu!wiki team and a regular contributor to the osu!lazer project for many years now, and has rapidly made a name for himself as one of the most fastidious and efficient reviewers overall.
+**Joehu** has been a part of the osu!wiki team and a regular contributor to the osu! (lazer release) project for many years now, and has rapidly made a name for himself as one of the most fastidious and efficient reviewers overall.
 
 We're deeply grateful for his hundreds of hours of contributions across a huge swathe of the game, and his consistent pursuit of excellence in the tasks and reviews that he has undertaken.
 

@@ -29,12 +29,12 @@ tags:
 
 ## Lobbies multijoueurs hebdomadaires
 
-Pour l'instant, les participants doivent télécharger et installer [osu!lazer](https://github.com/ppy/osu/releases) pour rejoindre les lobbies multijoueurs hebdomadaires.
+Pour l'instant, les participants doivent télécharger et installer [osu! (lazer release)](https://github.com/ppy/osu/releases) pour rejoindre les lobbies multijoueurs hebdomadaires.
 
 1. Les lobbies seront ouverts toute la semaine.
 2. La playlist comprendra désormais des mods
    - Les maps avec mods sont des copies de l'original et leur but est de donner du fil à retordre aux joueurs expérimentés.
-   - Aucun mod ne sera disponible pour le mode osu!taiko en raison des limitations de osu!lazer dans cette saison.
+   - Aucun mod ne sera disponible pour le mode osu!taiko en raison des limitations de osu! (lazer release) dans cette saison.
 
 ## Playlists
 

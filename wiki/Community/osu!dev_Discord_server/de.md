@@ -20,7 +20,7 @@ Jedes Projekt wird in seinem dafür vorgesehenen Kanal diskutiert:
 
 | Projekt | Kanal |
 | :-- | :-- |
-| [osu!lazer](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu! (lazer release)](https://github.com/ppy/osu) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
 | [osu!](/wiki/Game_mode/osu!) [Star Rating](/wiki/Beatmapping/Star_rating) und [Performance-Punkte](/wiki/Performance_points) | `#difficulty-osu` |

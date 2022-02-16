@@ -12,7 +12,7 @@ An innovator in Japan's alternative heavy rock movement, 4-piece band **HEAD PHO
 
 **10** headbangers can be spooled up from [**HEAD PHONES PRESIDENT**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/238), coming from two of their major studio releases *Realize* and *Respawn*.
 
-**HEAD PHONES PRESIDENT** is a fairly new name to the osu! community, so feel free to explore their tunes through this video showcasing osu!lazer's newest *Aim Assist* mod and the rest of these song previews:
+**HEAD PHONES PRESIDENT** is a fairly new name to the osu! community, so feel free to explore their tunes through this video showcasing osu! (lazer release)'s newest *Aim Assist* mod and the rest of these song previews:
 
 <div align="center">
     <video width="100%" controls>

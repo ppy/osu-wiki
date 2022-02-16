@@ -33,7 +33,7 @@ Yeni Featured Artistler haftalık olarak osu!'nun [haber kaynağında](https://o
 
 ## Topluluk kullanımı
 
-Beatmapperlar Featured Artist parçalarını kullanarak beatmap oluşturmaları için teşvik edilir. Bu parçalar [zamanlama](/wiki/Client/Beatmap_editor/Timing) verileri ile birlikte sağlanır ve halihazırda osu! içerisinde kullanımı aklanmıştır, ki bu kullanıcıların endişelenmeden derhal maplemeye atlamasını sağlar. [osu!lazer](https://github.com/ppy/osu/releases) olarak isimlendirilen, osu!'nun geliştirme aşamasındaki sürümü oyun içerisinde bu mapleri belirgin bir şekilde işaretleyecektir.
+Beatmapperlar Featured Artist parçalarını kullanarak beatmap oluşturmaları için teşvik edilir. Bu parçalar [zamanlama](/wiki/Client/Beatmap_editor/Timing) verileri ile birlikte sağlanır ve halihazırda osu! içerisinde kullanımı aklanmıştır, ki bu kullanıcıların endişelenmeden derhal maplemeye atlamasını sağlar. [osu! (lazer release)](https://github.com/ppy/osu/releases) olarak isimlendirilen, osu!'nun geliştirme aşamasındaki sürümü oyun içerisinde bu mapleri belirgin bir şekilde işaretleyecektir.
 
 [Topluluk yarışmaları listesinde](https://osu.ppy.sh/community/contests) yayımlanan tüm mapleme yarışmaları, [Aylık Beatmapleme Yarışması](/wiki/Contests/Monthly_Beatmapping_Contest) (*Monthly Beatmapping Contest*) ve [Mapleme Olimpiyatları](/wiki/Contests/Mapping_Olympiad) (*Mapping Olympiad*) gibi, katılımcıların Featured Artist şarkılarını maplemesini gerektirir. Bazı topluluk tarafından yürütülen yarışmalar da bu şarkıları kullanır.
 

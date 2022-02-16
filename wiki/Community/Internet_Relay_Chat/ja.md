@@ -82,4 +82,4 @@ osu!クライアントやウェブサイトで接続しているユーザーに�
 
 ### 誰かがメッセージを送信していますが、チャンネルユーザーのリストにはありません。
 
-[ウェブ版チャット](https://osu.ppy.sh/community/chat)を使っているか、[osu!lazer](https://github.com/ppy/osu)で接続しています。
+[ウェブ版チャット](https://osu.ppy.sh/community/chat)を使っているか、[osu! (lazer release)](https://github.com/ppy/osu)で接続しています。

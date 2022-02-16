@@ -99,11 +99,11 @@ osu! ekibinin emektar eski üyelerinden oluşan [osu! Alumni](/wiki/People/The_T
 | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) | Düzinelerce topluluk turnuvalarında olağanüstü hakemlik varlığı |
 | ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660) | Sunuculuk, yorumculuk ve etkinlik bazlı yazılarda/özetlerde olağanüstü performans |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | pp'den, grafik motoru yeniden yazımı ve yıldız reytingi gibi daha pek çok osu!'ya yapılan sayısız iyileştirmenin ardındaki deha! |
-| ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | osu!lazer projesine olağanüstü katkı |
-| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | 90'dan fazla pullreq ve yüzlerce commit ile osu!lazer projesine olağanüstü katkı |
-| ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | osu!lazer projesine olağanüstü katkı |
-| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | osu!, osu! wiki, ve osu!lazer için Çince yerelleştirme projesinin organizasyonunda olağanüstü katkı |
-| ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | osu!lazer projesine ve sayısız medya araçlarının oluşturulmasında olağanüstü katkı |
+| ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | osu! (lazer release) projesine olağanüstü katkı |
+| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | 90'dan fazla pullreq ve yüzlerce commit ile osu! (lazer release) projesine olağanüstü katkı |
+| ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | osu! (lazer release) projesine olağanüstü katkı |
+| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | osu!, osu! wiki, ve osu! (lazer release) için Çince yerelleştirme projesinin organizasyonunda olağanüstü katkı |
+| ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | osu! (lazer release) projesine ve sayısız medya araçlarının oluşturulmasında olağanüstü katkı |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | PerformancePlus ve osu!chan'ın yaratıcısı |
 | ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Scorewatch projesinin yapımında ve yayımlanmasında olağanüstü gayret |
 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Scorewatch projesinin yapımında ve yayımlanmasında olağanüstü gayret |
@@ -140,7 +140,7 @@ osu! ekibinin emektar eski üyelerinden oluşan [osu! Alumni](/wiki/People/The_T
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Community Mentorship Programına olağanüstü katkı |
 | ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) | Community Mentorship Programına olağanüstü katkı |
 | ![][flag_FI] [J1NX1337](https://osu.ppy.sh/users/3971179) | Community Mentorship Programına olağanüstü katkı |
-| ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | osu!lazer projesine olağanüstü katkı |
+| ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | osu! (lazer release) projesine olağanüstü katkı |
 
 ## 2020
 

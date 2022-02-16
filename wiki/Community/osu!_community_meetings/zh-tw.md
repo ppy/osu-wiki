@@ -38,7 +38,7 @@ no_native_review: true
 
 | 會議編號 | 連結 | 摘要 | 議程 |
 | :-: | :-- | :-- | :-- |
-| 0 | [2021 年 9 月 19 號](https://youtu.be/-LjNll8VYTM) | [筆記](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | 大致介紹此會議、審核標準、難度及 pp、osu!lazer |
+| 0 | [2021 年 9 月 19 號](https://youtu.be/-LjNll8VYTM) | [筆記](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | 大致介紹此會議、審核標準、難度及 pp、osu! (lazer release) |
 | 1 | [2021 年 10 月 3 號](https://youtu.be/D3OZCm6szVE) | [筆記](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | 各類由社群提出的問題、開發最新進度 |
 | 2 | [2021 年 10 月 17 號](https://youtu.be/nLT-fLeogrw) | [筆記](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | 各類由社群提出的問題 |
 | 3 | [2021 年 10 月 31 號](https://youtu.be/omvZbC7zJUI) | [筆記](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | 各類由社群提出的問題 |

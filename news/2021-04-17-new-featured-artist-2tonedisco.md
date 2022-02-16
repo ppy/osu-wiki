@@ -12,7 +12,7 @@ A growing figure in both western and eastern EDM scenes, **2ToneDisco** is a pro
 
 **10** tracks are up for grabs from [**2ToneDisco**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/157), most including collabs from a massive selection of other talented artists!
 
-Speaking of talent, creators over at the Mappers' Guild have been hard at work designing [*2ToneDisco x Kabuki - Giga*](https://osu.ppy.sh/beatmapsets/1392421) to introduce **2ToneDisco** to osu!. See how [MBmasher](https://osu.ppy.sh/users/4498616) plays it using a new osu!lazer mod in the video below and check out the rest of these previews:
+Speaking of talent, creators over at the Mappers' Guild have been hard at work designing [*2ToneDisco x Kabuki - Giga*](https://osu.ppy.sh/beatmapsets/1392421) to introduce **2ToneDisco** to osu!. See how [MBmasher](https://osu.ppy.sh/users/4498616) plays it using a new osu! (lazer release) mod in the video below and check out the rest of these previews:
 
 <div align="center">
     <video width="95%" controls>
