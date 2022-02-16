@@ -219,13 +219,17 @@ The final standings for the Qualifier stage can be found on [Information spreads
 
 ## Ruleset
 
+The rulesets are mainly based on MWC 2021/4DMWC 4, which shows below as referance.
+
+- Any general rules not showns below , but listed in referance tournament will still vaild.
+- You can also see [Discussion thread](https://osu.ppy.sh/community/forums/topics/1481811) for detailed Rulesets.
+
 ### Tournament rules
 
-1. The osu!mania 7K World Cup is a country-based team tournament, played on the osu!mania game mode.
+1. The Touhou Project Mania Cup 2nd is a country-based team tournament, played on the osu!mania game mode.
 2. Beatmap scoring will be based on Score V2.
 3. The beatmaps for each round will be announced by the mappool selectors on the Sunday before the actual matches take place.
    - Every mappool, except for the Qualifier stage, will contain a *tiebreaker* beatmap. It will only be played in case of a tie in the scoreline in the *best of* system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
-   - Additional mappools may be added depending on the amount of signups.
 4. Match schedule will be handled by the Tournament Management.
 5. If no referee is available at match time, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
@@ -267,38 +271,41 @@ The final standings for the Qualifier stage can be found on [Information spreads
 
 ### Tournament registration
 
-1. Every user interested in joining their country's team signs up individually.
-   - Tournament Management will create a list of potential candidates for a country's team.
-   - Tournament Management will declare one candidate captain of their country's team.
-2. The declared captain will then form their team from the candidate list of their country.
-   - Captains are expected to choose team members with honesty and good will, with the aim of fielding the strongest team possible.
-   - Captains are allowed to exclude themselves from the team list.
-   - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
-   - Captains may choose, with the approval of the Tournament Management, at any time, to delegate their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/The_Team/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
-   - Every registered user will be assigned to their respective country's candidate list.
-   - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!mania 7K performance ranking, and have not violated the [osu! community rules](/wiki/Rules) within the last 12 months.
-4. All successfully formed teams will be published after the Registration Phase.
+1. Please complete the [REGISTRATION FORM](https://forms.gle/41fgDJ5XV3PzUGD2A) to registrate.
+2. Participants are required to join as teams. 
+3. The size of a team has a minimum of 2 and a maximum of 4.
+4. To ensure valid registrations, every prospective participant will be manually checked by the  [tournament screening](/wiki/Tournaments/Official_support#tournament-screening). 
+   - If any member in a team is blacklisted by organisers or considered "suspicious" by the osu! official, the whole team will be disqualified. Right reserved. **Blacklists by other tournaments will be reference.**
+   - There are no placed required on the osu!mania 4K performance ranking for this tournament, but player have not violated the [osu! community rules](/wiki/Rules) within the last 12 months.
+5. All successfully formed teams will be published after the Registration Phase.
    - A team should have at least 2 players registered to have the chance to play the Qualifier stage.
-   - The top 16 seeded teams will qualify to the Round of 16.
-5. Tournament staff members are **not** allowed to play in the tournament, with the exception of the commentators.
+   - The top 32 seeded teams will qualify to the Round of 32.
+6. Tournament staff members are **not** allowed to play in the tournament, with the exception of the commentators.
+7. All information of the tournament will be ONLY available on our [**Discord Server**](https://discord.gg/NQkEKqj). All captains are asked to join the server in case of any issue.
 
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The Qualifier pool contains 8 maps, all of which will use FreeMod rules. There will be no tiebreakers for this stage.
-3. Teams will have to play the mappool twice at a designated time. The team's best play-through will be used for seeding.
+2. The Qualifier pool contains 5 maps, all of which will use FreeMod rules. There will be no tiebreakers for this stage.
+3. The Qualifier pool will follow this structure:
+   1. Stage 1: Mixed Rice (accuracy)
+   2. Stage 2: LN
+   3. Stage 3: SV
+   4. Stage 4: Hybrid
+   5. Stage 5: Mixed Rice (technical/stamina)
+
+4. Teams will have to play the mappool twice at a designated time. The team's best play-through will be used for seeding.
    - Teams may skip individual maps or the second run altogether if they so desire.
-4. The mappool will be played according to the order listed above.
-5. Each team must have 2 players for each map. They can be exchanged freely after a map is concluded.
-6. An optional 5-minute break will be offered between the first and second play-through of the mappool.
-7. All teams will play their qualifiers in separate rooms. It is suggested that teams do not broadcast or share their results publicly to avoid seed manipulation.
-8. Only the top 16 seeded teams will advance to the Round of 16.
+5. The mappool will be played according to the order listed above.
+6. Each team must have 2 players for each map. They can be exchanged freely after a map is concluded.
+7. An optional 5-minute break will be offered between the first and second play-through of the mappool.
+8. All teams will play their qualifiers in separate rooms. It is suggested that teams do not broadcast or share their results publicly to avoid seed manipulation.
+9. Only the top 32 seeded teams will advance to the Round of 32.
 
 ### Stage instructions
 
 1. Following the Qualifiers, a Double Elimination bracket will be played. This means that the winning team moves to the next stage while the loser gets moved to the losers bracket.
-2. Teams in the losers bracket must play 2 matches each weekend starting from the Semifinals.
+2. Teams in the losers bracket must play 2 matches each weekend starting from the Quarterfinals.
 3. Teams that lose a match in the losers bracket are eliminated from the tournament.
 
 ### Win conditions
@@ -310,12 +317,19 @@ The final standings for the Qualifier stage can be found on [Information spreads
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes before the scheduled match time. Players must join the lobby in that period.
-   - The room settings are Game mode: "osu!mania", Team mode: "Team Vs" and Score mode: "ScoreV2". The room name must follow this pattern: "MWC7K2022: (Red Team) vs (Blue Team)". The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
+
+   - Team captains will be notified of their match via ping on discord by the referee of their match 15 minutes before the match is scheduled to commence. 
+
+   - The room settings are Game mode: "osu!mania", Team mode: "Team Vs" and Score mode: "ScoreV2". The room name must follow this pattern: "TMC2 (Stage): (Blue Team) vs (Red Team)". The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
+
 2. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps can not be picked by any team for the entire duration of the match.
+
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
+
 4. Each captain must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` starts picking the first beatmap of the match.
    - The loser of the `!roll` starts banning one beatmap, followed by the winner of the  `!roll` to ban a beatmap.
+   
 5. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a team takes more time than alloted, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
@@ -324,17 +338,24 @@ The final standings for the Qualifier stage can be found on [Information spreads
      - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
    - Repeat offenders may receive further sanctions from the Tournament Management.
    - Each team will receive one "tactical timeout" of two minutes, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional*.
-     - The tactical timeout may be called on a tiebreaker, provided that both team's captains agree to it.
+     - This timeout is autimatically consumed when rugular picking time runs out.
+     - The tactical timeout may be called on a tiebreaker, provided that both team's captains agree to it. 
+   - Each team will receive one technical timeout of 5 minutes, to be used only when a technical issue occurs.
+   
 6. Results for the Qualifiers Stage will be published via a Statistics sheet.
 
 ### Mappool instructions
 
-1. There will be one mappool for each stage.
+1. There will be an independent mappool for each stage.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
-   - Qualifiers: 8 beatmaps
-   - Round of 16 and Quarterfinals: 14 beatmaps
-   - Semifinals, Finals, and Grand Finals: 16 beatmaps
+   - Qualifiers: 5 beatmaps
+   - Round of 32: 11 beatmaps
+     - Types are : 5 Rice maps, 2 SV maps, 2 LN maps , 1 Hybrid map , 1 TieBreaker.
+   - Round of 16 and Quarter-finals: 13 beatmaps
+     - Types are : 6 Rice maps, 2 SV maps, 2 LN maps , 2 Hybrid maps , 1 TieBreaker.
+   - Semifinals, Finals, and Grand Finals: 15 beatmaps
+     - Types are : 7 Rice maps, 2 SV maps, 3 LN maps , 2 Hybrid maps , 1 TieBreaker.
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. Possible mod choices for all maps are [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In), [Flashlight](/wiki/Game_modifier/Flashlight), and [Mirror](/wiki/Game_modifier/Mirror).
 6. The tiebreaker will be played under FreeMod conditions.
@@ -343,7 +364,6 @@ The final standings for the Qualifier stage can be found on [Information spreads
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Qualifiers will be held during specific time slots proposed by the tournament staff. Each team is free to choose a time slot in which they want to play.
-   - **A team that doesn't pick a time slot by Thursday, January 13 23:59 UTC will be considered disqualified.**
 3. All Bracket Stages will be held between Saturday 0:00 and Sunday 23:59 UTC+0.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the stage. Tournament Management will try to create the schedule to respect the participants' time zones.
    - In the Semifinals and subsequent stages, team captains may inform Tournament Management if they expect a specific time slot to be unavailable in the following week. Schedule updates will be granted to the best of Management's abilities.
