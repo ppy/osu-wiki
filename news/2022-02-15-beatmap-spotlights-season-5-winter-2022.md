@@ -65,7 +65,7 @@ For the full Spotlights Team members list, check out the [Beatmap Spotlights wik
 
 ## How do I participate in the Beatmap Spotlights?
 
-To participate in the Beatmap Spotlights, download the latest version of the osu!lazer client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
+To participate in the Beatmap Spotlights, download the latest version of the osu! (lazer) client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
 
 Once you're done installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also filter the lobbies to Spotlights only in the top right corner.
 
