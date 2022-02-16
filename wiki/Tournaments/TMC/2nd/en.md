@@ -65,7 +65,7 @@ The Touhou Project Mania Cup 2nd is run by the TMC team.
 | Team | Members |
 | :-: | :-- |
 | **:1217angry:** | ![][flag_TW] **[Pdog4ni](https://osu.ppy.sh/users/14581544)**, ![][flag_MY] [Auxesiaa](https://osu.ppy.sh/users/16417718), ![][flag_TW] [[Rweiru]](https://osu.ppy.sh/users/11234907), ![][flag_TW] [blacktea12](https://osu.ppy.sh/users/13389861) |
-| **Komeiji Sisters** | ![][flag_NL] **[LuluChanTV](https://osu.ppy.sh/users/14581544)**, ![][flag_NO] [-TeaBee-](https://osu.ppy.sh/users/12304069)|
+| **Komeiji Sisters** | ![][flag_NL] **[LuluChanTV](https://osu.ppy.sh/users/10192760)**, ![][flag_NO] [-TeaBee-](https://osu.ppy.sh/users/12304069)|
 | **Chrome Beretta** | ![][flag_TW] **[Nobu150](https://osu.ppy.sh/users/12296460)**, ![][flag_PH] [Razer6425](https://osu.ppy.sh/users/17073072), ![][flag_PH] [Voidkun](https://osu.ppy.sh/users/19808091)|
 | **ICHIGAY!!!** | ![][flag_MY] **[\[Break\]LCJQ](https://osu.ppy.sh/users/11283859)**, ![][flag_TW] [[-ICHINO-]](https://osu.ppy.sh/users/13643601), ![][flag_MY] [StyGix](https://osu.ppy.sh/users/7745408), ![][flag_TH] [palmEuEi](https://osu.ppy.sh/users/13656264) |
 | **ATKR** | ![][flag_ID] **[Lumierce](https://osu.ppy.sh/users/16706212)**,![][flag_ID] [NikanzuGZ](https://osu.ppy.sh/users/16198858), ![][flag_ID] [VeganFanBoy](https://osu.ppy.sh/users/16768803)|
@@ -95,7 +95,7 @@ The Touhou Project Mania Cup 2nd is run by the TMC team.
 | **Hourai Elixir** | ![][flag_CA] **[Stability](https://osu.ppy.sh/users/6701738)**,![][flag_CA] [GDMem](https://osu.ppy.sh/users/10804091),![][flag_CA] [loafusofbread](https://osu.ppy.sh/users/9278959),![][flag_CA] [arpia97](https://osu.ppy.sh/users/6363008)|
 | **TouWhou?** | ![][flag_CA] **[AmariaLove](https://osu.ppy.sh/users/17036270)**,![][flag_CA] [RaGe Radical](https://osu.ppy.sh/users/13887380),![][flag_CA] [Nezukiki](https://osu.ppy.sh/users/21963245),![][flag_CA] [walmart5193](https://osu.ppy.sh/users/16468962)|
 | **holiv reprdution** | ![][flag_BH] **[Unitori-](https://osu.ppy.sh/users/15772814)**,![][flag_QA] [cyta\_](https://osu.ppy.sh/users/15444660),![][flag_ID] [Revv-](https://osu.ppy.sh/users/12424909),![][flag_SA] [HeSo71](https://osu.ppy.sh/users/12556314)|
-| **los uras** | ![][flag_AR] **[aluuu](https://osu.ppy.sh/users/14581544)**,![][flag_AR] [lxLucasxl](https://osu.ppy.sh/users/3632846),![][flag_AR] [C90](https://osu.ppy.sh/users/13858488)|
+| **los uras** | ![][flag_AR] **[aluuu](https://osu.ppy.sh/users/4585260)**,![][flag_AR] [lxLucasxl](https://osu.ppy.sh/users/3632846),![][flag_AR] [C90](https://osu.ppy.sh/users/13858488)|
 ---------------- 修正下列队伍的国旗 --------------------
 | **Manip as Gaeilge** | ![][flag_NO] **[evanxo](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [Just FC](https://osu.ppy.sh/users/3632846)|
 | **sllab amogus** | ![][flag_NO] **[MegMewtwoZ](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [banan](https://osu.ppy.sh/users/3632846),![][flag_NO] [CPT_Sivelia](https://osu.ppy.sh/users/3632846),![][flag_NO] [IJosephI[GS]](https://osu.ppy.sh/users/3632846)|
