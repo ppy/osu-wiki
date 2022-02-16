@@ -33,7 +33,7 @@ Featured Artist baru akan diumumkan setiap minggunya pada kolom [berita](https:/
 
 ## Penggunaan dalam komunitas
 
-Para mapper sangat dianjurkan untuk mempergunakan lagu-lagu yang tersedia pada katalog Featured Artist osu! sebagai dasar beatmap mereka. Lagu-lagu ini telah dilengkapi dengan pengaturan [timing](/wiki/Client/Beatmap_editor/Timing) dasar yang telah disediakan di dalamnya dan telah terjamin untuk dapat digunakan secara bebas dan legal untuk segala kepentingan dalam ruang-ruang lingkup yang tercakup di atas. Ke depannya, beatmap-beatmap yang menggunakan lagu Featured Artist juga akan ditandai secara khusus pada [osu! (lazer release)](https://github.com/ppy/osu/releases).
+Para mapper sangat dianjurkan untuk mempergunakan lagu-lagu yang tersedia pada katalog Featured Artist osu! sebagai dasar beatmap mereka. Lagu-lagu ini telah dilengkapi dengan pengaturan [timing](/wiki/Client/Beatmap_editor/Timing) dasar yang telah disediakan di dalamnya dan telah terjamin untuk dapat digunakan secara bebas dan legal untuk segala kepentingan dalam ruang-ruang lingkup yang tercakup di atas. Ke depannya, beatmap-beatmap yang menggunakan lagu Featured Artist juga akan ditandai secara khusus pada [osu!(lazer)](https://github.com/ppy/osu/releases).
 
 Kontes-kontes mapping, baik yang berstatus resmi dan tercantum pada [daftar kontes komunitas](https://osu.ppy.sh/community/contests) seperti [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) dan [Mapping Olympiad](/wiki/Contests#osu!-mapping-olympiad) ataupun yang tidak, pada umumnya turut mengharuskan para pesertanya untuk membuat beatmap dari satu atau lebih lagu yang sebelumnya telah tersedia pada katalog Featured Artist.
 

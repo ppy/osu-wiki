@@ -29,7 +29,7 @@ Here's some suggestions to get your creative juices flowing:
 
 Got an idea in mind? Great, because you've got **14 days** from the date of this post to make it happen, after you have **READ EVERY SINGLE RULE BELOW** like all good contest participants should, and because you're reading this news post thoroughly and not just glancing at it after someone mentioned it to you on Discord, right? RIGHT?
 
-As always, a top selection of the highest voted entries will make it to the main-menu in the osu! game client*s* (both the current game AND osu! (lazer release)'s preview builds) as our Spring 2021 Seasonal backgrounds, earn their artists 3 months of osu!supporter and a shiny new profile badge featuring a teeny tiny snippet of their winning piece.
+As always, a top selection of the highest voted entries will make it to the main-menu in the osu! game client*s* (both the current game AND osu!(lazer)'s preview builds) as our Spring 2021 Seasonal backgrounds, earn their artists 3 months of osu!supporter and a shiny new profile badge featuring a teeny tiny snippet of their winning piece.
 
 Now, on to the rules:
 

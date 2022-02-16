@@ -247,7 +247,7 @@ Este cronograma mostra a disponibilidade de salas permanentes da temporada atual
 
 ### Salas de multiplayer permanente semanais
 
-A partir de agora, entrar nessas salas de multiplayer permanente semanais requer que os participantes baixem e instalem o [osu! (lazer release)](https://github.com/ppy/osu/releases).
+A partir de agora, entrar nessas salas de multiplayer permanente semanais requer que os participantes baixem e instalem o [osu!(lazer)](https://github.com/ppy/osu/releases).
 
 1. Toda sexta-feira de uma semana em cada temporada, uma sala multiplayer permanente será aberta. Todo mundo poderá participar por 3 dias.
    - Nas 2 semanas finais de uma temporada, a sala multiplayer permanente será aberta novamente para duas playlists ao invés de uma.
@@ -258,7 +258,7 @@ A partir de agora, entrar nessas salas de multiplayer permanente semanais requer
 3. Dentro de uma sala permanente, todo mundo compete entre si em uma colocação específica para aquela sala.
    - Colocações de sala são baseados no sistema de Pontuação Ranqueada. Portanto, apenas os melhores resultados de pontuação em cada beatmap dentro da playlist são contados para criar uma Pontuação Ranqueada semanal para cada jogador.
    - Cada beatmap de uma playlist conta igualmente para a pontuação na colocação. Dificuldades mais difíceis não irão fornecer mais pontuação do que as mais fáceis.
-   - Pontuação individual de beatmap é baseada no sistema de pontuação do osu! (lazer release).
+   - Pontuação individual de beatmap é baseada no sistema de pontuação do osu!(lazer).
 4. O total semanal de Pontuação Ranqueada visível na sala permanente é chamado de "Pontuação Ranqueada Semanal" na colocação.
 5. Assim que uma sala permanente termina, a Pontuação Ranqueada Semanal de cada participante é adicionada a Colocação de Temporada.
 

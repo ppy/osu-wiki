@@ -12,7 +12,7 @@ Providing the highest volume of pun opportunities since the start of the Feature
 
 **10** incredible tracks are up for grabs from [**iFeature**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/210), so take your pick and launch the editor for a healthy dose of circle-themed inspiration.
 
-**iFeature** debuted on osu! last year through a beatmap of [Over You](https://osu.ppy.sh/beatmapsets/1094434) hosted by [DeRandom Otaku](https://osu.ppy.sh/users/5156153). Even if you're one of the 375,000 people who've played it already, this video showcasing the map with osu! (lazer release)'s No Scope mod will be a new experience anyway, so check it out along with everything else here:
+**iFeature** debuted on osu! last year through a beatmap of [Over You](https://osu.ppy.sh/beatmapsets/1094434) hosted by [DeRandom Otaku](https://osu.ppy.sh/users/5156153). Even if you're one of the 375,000 people who've played it already, this video showcasing the map with osu!(lazer)'s No Scope mod will be a new experience anyway, so check it out along with everything else here:
 
 <div align="center">
     <video width="100%" controls>

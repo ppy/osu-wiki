@@ -20,7 +20,7 @@ Cada desenvolvimento principal discutido no servidor tem seu próprio canal:
 
 | Projeto | Canal |
 | :-- | :-- |
-| [osu! (lazer release)](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
 | [Classificação de estrelas](/wiki/Beatmapping/Star_rating) e [pontos de performance](/wiki/Performance_points) no [osu!](/wiki/Game_mode/osu!) | `#difficulty-osu` |

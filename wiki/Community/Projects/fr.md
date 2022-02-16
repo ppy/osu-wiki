@@ -25,7 +25,7 @@ outdated: true
   - [GitHub](https://github.com/ppy/osu-wiki) | [Site](/wiki/Main_Page)
 - osu! web—La partie d'osu! dédiée au navigateur.
   - [GitHub](https://github.com/ppy/osu-web) | [Site](https://osu.ppy.sh/home)
-- osu! (lazer release)—Le futur d'osu! et le début d'une ère ouverte.
+- osu!(lazer)—Le futur d'osu! et le début d'une ère ouverte.
   - [GitHub](https://github.com/ppy/osu)
 - [osu!api](https://osu.ppy.sh/community/forums/topics/141240)—API public pour accéder aux données en rapport avec osu!.
   - [GitHub](https://github.com/ppy/osu-api)

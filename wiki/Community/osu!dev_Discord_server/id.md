@@ -19,7 +19,7 @@ Setiap topik pengembangan yang dibahas telah memiliki *channel* masing - masing:
 
 | Proyek | Channel |
 | :-- | :-- |
-| [osu! (lazer release)](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
 | [osu!](/wiki/Game_mode/osu!) [star rating](/wiki/Beatmapping/Star_rating) dan [performance points](/wiki/Performance_points) | `#difficulty-osu` |

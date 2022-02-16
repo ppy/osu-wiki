@@ -31,11 +31,11 @@ Apabila kamu menemui masalah dalam menjalankan osu!, cobalah untuk mengikuti lan
 3. Apabila kamu menggunakan program antivirus, pastikan program antivirus yang kamu gunakan tidak menghalangi osu! untuk dapat berjalan atau menandai berkas-berkas yang dimiliki osu! dan Wine sebagai virus.
 4. Apabila kamu masih tetap menemui masalah, buatlah postingan baru di [sub-forum Help](https://osu.ppy.sh/community/forums/5).
 
-## osu! (lazer release)
+## osu!(lazer)
 
-[osu! (lazer release)](https://github.com/ppy/osu) merupakan versi osu! mutakhir yang nantinya akan menggantikan versi osu! yang saat ini dipergunakan secara luas. Walaupun saat ini osu! (lazer release) belum memberikan [performance point](/wiki/Performance_points) apapun, osu! (lazer release) memiliki banyak fitur menarik yang tentunya sayang untuk dilewatkan. Untuk dapat memasang osu! (lazer release) pada perangkat macOS milikmu, ikuti langkah-langkah berikut:
+[osu!(lazer)](https://github.com/ppy/osu) merupakan versi osu! mutakhir yang nantinya akan menggantikan versi osu! yang saat ini dipergunakan secara luas. Walaupun saat ini osu!(lazer) belum memberikan [performance point](/wiki/Performance_points) apapun, osu!(lazer) memiliki banyak fitur menarik yang tentunya sayang untuk dilewatkan. Untuk dapat memasang osu!(lazer) pada perangkat macOS milikmu, ikuti langkah-langkah berikut:
 
-1. Tuju [laman unduhan osu! (lazer release) berikut](https://github.com/ppy/osu/releases/latest) dan unduh `osu!.app.zip`.
+1. Tuju [laman unduhan osu!(lazer) berikut](https://github.com/ppy/osu/releases/latest) dan unduh `osu!.app.zip`.
 2. Ekstrak berkas tersebut dan jalankan osu! melalui menu `Open`.
 3. Apabila kamu menemui kotak dialog yang meminta agar osu! dapat menerima input-input keyboard:
    1. Klik `Open System Preferences` pada kotak dialog yang bersangkutan.

@@ -40,7 +40,7 @@ No. There will be no advantage gained (other than experience) from participating
 
 ### Why am I not allowed to ask peppy for answers?
 
-peppy is incredibly busy and unless you want osu! (lazer release) to replace stable by 2037, it would be best to not flood his inbox with questions that he doesn't even know the answers to. 
+peppy is incredibly busy and unless you want osu!(lazer) to replace stable by 2037, it would be best to not flood his inbox with questions that he doesn't even know the answers to. 
 
 Fun fact: peppy ended up writing a scripted response to everyone who emailed him during last year's osu!trivium quiz.
 

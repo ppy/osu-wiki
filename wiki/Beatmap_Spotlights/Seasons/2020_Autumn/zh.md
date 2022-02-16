@@ -29,12 +29,12 @@ tags:
 
 ### 每周多人游戏大厅
 
-目前，加入每周多人游戏大厅需要使用 [osu! (lazer release)](https://github.com/ppy/osu/releases)。
+目前，加入每周多人游戏大厅需要使用 [osu!(lazer)](https://github.com/ppy/osu/releases)。
 
 1. 每个大厅将持续开放一周
 2. 图池现可包含 Mod
    - 带 Mod 的谱面与无 Mod 的谱面相同，目的是为了给更有经验的玩家带来挑战性。
-   - 由于 osu! (lazer release) 的限制，osu!taiko 在本赛季为 NoMod。
+   - 由于 osu!(lazer) 的限制，osu!taiko 在本赛季为 NoMod。
 
 ## 图池
 

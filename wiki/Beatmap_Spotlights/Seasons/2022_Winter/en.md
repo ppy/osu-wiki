@@ -22,7 +22,7 @@ tags:
 
 ## Weekly multiplayer lobbies
 
-As of now, joining the weekly multiplayer lobbies requires participants to download and install [osu! (lazer release)](https://github.com/ppy/osu/releases).
+As of now, joining the weekly multiplayer lobbies requires participants to download and install [osu!(lazer)](https://github.com/ppy/osu/releases).
 
 1. Every 2 weeks of a season, a single playlist lobby is opened. Everyone can participate for the entire week.
    - After the first wave of lobbies, playlists will be opened again on a weekly basis.
@@ -32,7 +32,7 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 3. Within a playlist lobby, everyone competes towards a room-specific leaderboard.
    - Only the best score results on each beatmap within the playlist are summed up to create a weekly ranked score for each player.
    - Each beatmap of a playlist counts equally to the leaderboard score.
-   - The individual beatmap score is based on osu! (lazer release)'s scoring system.
+   - The individual beatmap score is based on osu!(lazer)'s scoring system.
 4. Once a playlist lobby concludes, the weekly ranked score of each participant of the room is added to the seasonal leaderboard.
 
 ## Playlists

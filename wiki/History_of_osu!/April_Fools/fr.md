@@ -171,7 +171,7 @@ Dans le cadre de la poignée de blagues du poisson d'avril 2016, le [osu! cookie
 
 ## 2017
 
-Comme annoncé dans un [tweet de peppy](https://twitter.com/ppy/status/848021525663842304), il n'y a pas eu de blague du poisson d'avril pour osu! en 2017 en raison du développement de osu! (lazer release).
+Comme annoncé dans un [tweet de peppy](https://twitter.com/ppy/status/848021525663842304), il n'y a pas eu de blague du poisson d'avril pour osu! en 2017 en raison du développement de osu!(lazer).
 
 ---
 
