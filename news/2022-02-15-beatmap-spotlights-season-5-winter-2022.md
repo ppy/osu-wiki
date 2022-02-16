@@ -74,8 +74,8 @@ Once you're done installing and logging into your account, head on over to the p
 | Event | Time |
 | :-- | :-- |
 | Season start | Feb 15, 2022 |
-| Playlist lobby: Playlist A | Feb 15 - Feb 29, 2022 |
-| Playlist lobby: Playlist B | Feb 29 - Mar 15, 2022 |
+| Playlist lobby: Playlist A | Feb 15 - Mar 1, 2022 |
+| Playlist lobby: Playlist B | Mar 1 - Mar 15, 2022 |
 | Playlist lobby: Playlist C | Mar 15 - Mar 29, 2022 |
 | Playlist lobby: Playlist A | Mar 29 - Apr 5, 2022 |
 | Playlist lobby: Playlist B | Apr 5 - Apr 12, 2022 |
