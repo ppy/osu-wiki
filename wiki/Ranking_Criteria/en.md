@@ -10,7 +10,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 ## Tools
 
-It is highly recommended that you use [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) to aid in checking these criteria. [AiMod](/wiki/en/Client/Beatmap_editor/AiMod) from the old client (stable) is outdated and unmaintained, and beatmap verification in the new client (lazer) is [work in progress](https://github.com/ppy/osu/issues/12091#issuecomment-878760791).
+It is highly recommended that you use [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) to aid in checking these criteria. [AiMod](/wiki/Client/Beatmap_editor/AiMod) from the old client (stable) is outdated and unmaintained, and beatmap verification in the new client (lazer) is [work in progress](https://github.com/ppy/osu/issues/12091#issuecomment-878760791).
 
 Important to understand before using:
 
