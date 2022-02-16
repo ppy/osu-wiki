@@ -41,7 +41,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | :-- | :-- |
 | Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Mappool selector | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750) |
-| Commentator | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_US] [-Sparky-](https://osu.ppy.sh/users/3187959) |
+| Commentator | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_US] [-Sparky-](https://osu.ppy.sh/users/3187959) |
 | Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 
@@ -49,6 +49,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1482564)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/MWC7K_2022)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/76) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTU6E9UIC-w-fQ72ExX-LCpX1k_GvTIg2R28fWhEdx9iKwhYdQkW2JCzLoZiW9XjOfih_k-ap2KJe7R/pubhtml)
 
@@ -93,30 +94,50 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | ![][flag_GB] | **United Kingdom** | **[Vygatron](https://osu.ppy.sh/users/3628783)**, [username1947](https://osu.ppy.sh/users/16162078), [Lelloq](https://osu.ppy.sh/users/8610776), [aid\_](https://osu.ppy.sh/users/12808079) |
 | ![][flag_US] | **United States** | **[Alter-](https://osu.ppy.sh/users/4980256)**, [Terni](https://osu.ppy.sh/users/3279570), [\[GS\]Teo](https://osu.ppy.sh/users/7081478), [RevVoJH](https://osu.ppy.sh/users/7286896) |
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-### Saturday, February 12, 2022
-
-| Team A | | | Team B | Match time | Local time A | Local time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Philippines | ![][flag_PH] | ![][flag_JP] | Japan | Feb 12 (Sat) 10:00 UTC | Feb 12 (Sat) 18:00 UTC+8 | Feb 12 (Sat) 19:00 UTC+9 | ² |
-| China | ![][flag_CN] | ![][flag_TH] | Thailand | Feb 12 (Sat) 11:30 UTC | Feb 12 (Sat) 19:30 UTC+8 | Feb 12 (Sat) 18:30 UTC+7 | ² |
-| Thailand | ![][flag_TH] | ![][flag_PH] | Philippines | Feb 12 (Sat) 13:00 UTC | Feb 12 (Sat) 20:00 UTC+7 | Feb 12 (Sat) 21:00 UTC+8 | ³ |
-| Thailand | ![][flag_TH] | ![][flag_JP] | Japan | Feb 12 (Sat) 13:00 UTC | Feb 12 (Sat) 20:00 UTC+7 | Feb 12 (Sat) 22:00 UTC+9 | ³ |
-
-### Sunday, February 13, 2022
+### Saturday, February 19, 2022
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_PH] | Philippines | Feb 13 (Sun) 10:00 UTC | Feb 13 (Sun) 18:00 UTC+8 | Feb 13 (Sun) 18:00 UTC+8 | ³ |
-| China | ![][flag_CN] | ![][flag_JP] | Japan | Feb 13 (Sun) 10:00 UTC | Feb 13 (Sun) 18:00 UTC+8 | Feb 13 (Sun) 19:00 UTC+9 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_MY] | Malaysia | Feb 13 (Sun) 13:00 UTC | Feb 13 (Sun) 22:00 UTC+9 | Feb 13 (Sun) 21:00 UTC+8 | ¹ |
+| Malaysia | ![][flag_MY] | ![][flag_CN] | China | Feb 19 (Sat) 13:00 UTC | Feb 19 (Sat) 21:00 UTC+8 | Feb 19 (Sat) 21:00 UTC+8 | ¹ |
 
-¹ Winners bracket match\
-² Losers bracket match\
-³ Potential match: final matchup depends on the results of ²
+### Sunday, February 20, 2022
+
+| Team A | | | Team B | Match time | Local time A | Local time B | |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| South Korea | ![][flag_KR] | ![][flag_CN] | China | Feb 20 (Sun) 11:00 UTC | Feb 20 (Sun) 20:00 UTC+9 | Feb 20 (Sun) 19:00 UTC+8 | ² |
+| South Korea | ![][flag_KR] | ![][flag_MY] | Malaysia | Feb 20 (Sun) 13:00 UTC | Feb 20 (Sun) 22:00 UTC+9 | Feb 20 (Sun) 21:00 UTC+8 | ² |
+
+¹ Losers bracket match\
+² Potential match: final matchup depends on the results of ¹
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (147 MB)](https://drive.google.com/uc?id=16v9MUtbFbNujRZGHSv45APoDkq40RwEx)**
+
+- Rice
+  1. [void feat. kotsukimiya, Gt. eba - Name of oath (Evening) \[Covenant\]](https://osu.ppy.sh/beatmapsets/1698290#mania/3469863)
+  2. [katagiri - STRONG 280 (\_underjoy) \[TSUYOI\]](https://osu.ppy.sh/beatmapsets/1698287#mania/3469858)
+  3. [kei\_iwata - Frontier Explorer (Blocko) \[Voyager (MWC) 1.05x\]](https://osu.ppy.sh/beatmapsets/1337044#mania/3469929)
+  4. [Silentroom vs. Frums - Aegleseeker (Jinjin) \[Lux Mea\]](https://osu.ppy.sh/beatmapsets/1666003#mania/3401407)
+  5. [-45 - EXILE (Jinjin) \[Downfall- (144)\]](https://osu.ppy.sh/beatmapsets/1058884#mania/3469788)
+  6. [DJ Myosuke - Killing Rhythm (Camellia's "Khaotic Re-Rhythmization" Remix) (Evening) \[De-cadence\]](https://osu.ppy.sh/beatmapsets/1698291#mania/3469864)
+  7. [LeaF - Ka (Kawawa) \[wawa (MWC Edition)\]](https://osu.ppy.sh/beatmapsets/1698286#mania/3469854)
+- LN
+  1. [Cashew - Red Snow pt.3: Black Flare (Kim\_GodSSI) \[The Finale of "Story of Lyra"\]](https://osu.ppy.sh/beatmapsets/1698307#mania/3469895)
+  2. [HyuN feat. YURI - Disorder (Remuring) \[Disorderly (MWC Edit) 1.1x\]](https://osu.ppy.sh/beatmapsets/1288029#mania/3469845)
+  3. [Memme - Goat Fantasia (Leeju) \[Leeju's 7K Ganyu please come home\]](https://osu.ppy.sh/beatmapsets/1698256#mania/3469801)
+  4. [Active Planets, Uinyasu & AUGUST - Tsukiyo ni Mau Koi no Hana (\_Reimu) \[underjoy vs \_Reimu's Heartbreak 1.05x\]](https://osu.ppy.sh/beatmapsets/1221032#mania/3467053)
+  5. [M2U feat. Guriri - Magnolia (Kim\_GodSSI) \[>\_< M2U OPPA SARANGHAE <3\]](https://osu.ppy.sh/beatmapsets/1698305#mania/3469889)
+- Hybrid
+  1. [Kobaryo - SUPER EMULATOR \[feat. HiTNEX-X\] (Kim\_GodSSI) \[SUPER HOT BRAKE 0.95x\]](https://osu.ppy.sh/beatmapsets/1666343#mania/3406614)
+  2. [Camellia - KillerBeast (Remuring) \[Rampage\]](https://osu.ppy.sh/beatmapsets/1698281#mania/3469846)
+  3. [LeaF - Mwfyuma Peustallora (Jinjin) \[Super Easy uwu\]](https://osu.ppy.sh/beatmapsets/928181#mania/3469886)
+- Tiebreaker
+  1. **[HyuN - Duplicity Shade (Feat. Sennzai) (\_underjoy) \[Metamorphosis\]](https://osu.ppy.sh/beatmapsets/1698284#mania/3469849)**
 
 ### Finals
 
@@ -228,6 +249,24 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 8. [technoplanet - Intuition (Evening) \[Stage 8: Advent of Colour\]](https://osu.ppy.sh/beatmapsets/1670397#mania/3411676)
 
 ## Match results
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1X-RhAkUcgKZbKF8k2lGLV3AyOxumOUUwFe48isbIcTI/edit?rm=minimal).
+
+Saturday, February 12, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Philippines** ![][flag_PH] | **7** | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/97687067) |
+| **China** ![][flag_CN] | **7** | 3 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/97689158) |
+
+Sunday, February 13, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ![][flag_CN] | **7** | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/97731670) |
+| **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/97736266) |
 
 ### Semifinals
 
