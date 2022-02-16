@@ -94,7 +94,7 @@ The Touhou Project Mania Cup 2nd is run by the TMC team.
 | **Estudia Sonso** | ![][flag_PE] **[bxd_juice](https://osu.ppy.sh/users/17152485)**, ![][flag_PE] [-Lalito898](https://osu.ppy.sh/users/15098503), ![][flag_PE] [no6hope](https://osu.ppy.sh/users/12193700)|
 | **Hourai Elixir** | ![][flag_CA] **[Stability](https://osu.ppy.sh/users/6701738)**,![][flag_CA] [GDMem](https://osu.ppy.sh/users/10804091),![][flag_CA] [loafusofbread](https://osu.ppy.sh/users/9278959),![][flag_CA] [arpia97](https://osu.ppy.sh/users/6363008)|
 | **TouWhou?** | ![][flag_CA] **[AmariaLove](https://osu.ppy.sh/users/17036270)**,![][flag_CA] [RaGe Radical](https://osu.ppy.sh/users/13887380),![][flag_CA] [Nezukiki](https://osu.ppy.sh/users/21963245),![][flag_CA] [walmart5193](https://osu.ppy.sh/users/16468962)|
-| **holiv reprdution** | ![][flag_BH] **[Unitori-](https://osu.ppy.sh/users/14581544)**,![][flag_QA] [cyta\_](https://osu.ppy.sh/users/15444660),![][flag_ID] [Revv-](https://osu.ppy.sh/users/12424909),![][flag_SA] [HeSo71](https://osu.ppy.sh/users/12556314)|
+| **holiv reprdution** | ![][flag_BH] **[Unitori-](https://osu.ppy.sh/users/15772814)**,![][flag_QA] [cyta\_](https://osu.ppy.sh/users/15444660),![][flag_ID] [Revv-](https://osu.ppy.sh/users/12424909),![][flag_SA] [HeSo71](https://osu.ppy.sh/users/12556314)|
 | **los uras** | ![][flag_AR] **[aluuu](https://osu.ppy.sh/users/14581544)**,![][flag_AR] [lxLucasxl](https://osu.ppy.sh/users/3632846),![][flag_AR] [C90](https://osu.ppy.sh/users/13858488)|
 ---------------- 修正下列队伍的国旗 --------------------
 | **Manip as Gaeilge** | ![][flag_NO] **[evanxo](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [Just FC](https://osu.ppy.sh/users/3632846)|
@@ -414,6 +414,7 @@ The rulesets are mainly based on MWC 2021/4DMWC 4, which shows below as referanc
 [flag_CL]: /wiki/shared/flag/CL.gif "Colombia"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
@@ -421,6 +422,7 @@ The rulesets are mainly based on MWC 2021/4DMWC 4, which shows below as referanc
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IN]: /wiki/shared/flag/IN.gif "India"
@@ -444,3 +446,4 @@ The rulesets are mainly based on MWC 2021/4DMWC 4, which shows below as referanc
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
