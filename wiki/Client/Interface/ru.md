@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
+---
+
 <!-- TODO: formatting kinda sucks. removed `needs_cleanup` tag because at least it gets the job done by explaining the images -->
 
 # Интерфейс
@@ -44,12 +49,12 @@
 ![](img/play-menu.jpg "Игровое меню")
 
 - Нажмите `Solo` (`P`), чтобы играть одному.
-- Нажмите `Multi` (`M`), чтобы играть с другими людьми. Вы будете перенаправлены на лобби [мультиплеера](/wiki/Multi) (смотри ниже).
+- Нажмите `Multi` (`M`), чтобы играть с другими людьми. Вы будете перенаправлены на лобби [мультиплеера](/wiki/Gameplay/Multiplayer) (смотри ниже).
 - Нажмите `Back`, чтобы вернуться в главное меню.
 
 ## Лобби мультиплеера
 
-*Основная страница: [Мультиплеер](/wiki/Multi)*
+*Основная страница: [Мультиплеер](/wiki/Gameplay/Multiplayer)*
 
 ![](img/multi-lobby.jpg "Лобби мультиплеера")
 

@@ -23,5 +23,6 @@ no_native_review: true
 - [osu!](osu!)
 - [랭크](Rank)
 - [Score](Score)
+- [Snapping](Snapping)
 - [Star](Star)
 - [버전](Version)

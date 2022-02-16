@@ -16,7 +16,7 @@ When looking for songs outside of osu!'s Featured Artist catalogue, check whethe
 
 If you want to create a beatmap for a song and its usage rights are not clear, it is recommended to reach out to its artist for permission. Most artists have contact methods labelled on their music release platforms, personal websites, and social media.
 
-This may feel like a large hurdle, but we've seen mappers have pretty high success and receive artists' approval just by taking the courage to ask before using content without permission. It may help to mention that osu! is a free no-ad game, and you can link them to our [licensing](/wiki/Legal/Music_Licensing) page to give them a better idea of how content is consumed.
+This may feel like a large hurdle, but we've seen mappers have pretty high success and receive artists' approval just by taking the courage to ask before using content without permission. It may help to mention that osu! is a free no-ad game, and you can link them to our [licensing](/wiki/Legal/Music_licensing) page to give them a better idea of how content is consumed.
 
 While music is frequently copyright-restricted, sound effects used for custom hitsounds are more often freely available. For example, the Philharmonia orchestra provides free [instrument sound samples](https://philharmonia.co.uk/resources/sound-samples/) and [Freesound](https://freesound.org) permits sound sample searches filtered by usage rights.
 

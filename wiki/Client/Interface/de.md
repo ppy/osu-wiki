@@ -45,7 +45,7 @@ Durchs Klicken auf ihren User-Panel im oberen rechten Bereich erhalten sie Zugan
 
 ### Multiplayer-Lobby
 
-*Vollständige Erklärung: [Multiplayer](/wiki/Multi)*
+*Vollständige Erklärung: [Multiplayer](/wiki/Gameplay/Multiplayer)*
 
 ![](img/multi-lobby.jpg)
 

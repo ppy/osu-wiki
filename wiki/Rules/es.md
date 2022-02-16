@@ -67,6 +67,6 @@ Ciertas ofensas conllevan una duración mínima (usualmente 48 horas o más) si 
 
 Si después de varias infracciones, continuas rompiendo las reglas, tu cuenta puede ser permanente e irrevocablemente restringida.
 
-Las cuentas restringidas no pueden jugar en línea, establecer puntajes, conversar con otros usuarios y son, para todas las intenciones y propósitos, 'prohibidos' de interactuar con la comunidad. Las restricciones por violación de reglas de la comunidad solo pueden ser removidas a traves de apelación al personal del juego luego de que hayan pasado 3 meses([mas condiciones pueden aplicar](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
+Las cuentas restringidas no pueden jugar en línea, establecer puntajes, conversar con otros usuarios y son, para todas las intenciones y propósitos, 'prohibidos' de interactuar con la comunidad. Las restricciones por violación de reglas de la comunidad solo pueden ser removidas a traves de apelación al personal del juego luego de que hayan pasado 3 meses([mas condiciones pueden aplicar](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns)).
 
 Ofensas severas que van mucho más allá del alcance de nuestras reglas y dentro de la jurisdicción de contenido ilegal según la ley internacional común, resultará en la terminación inmediata de la cuenta. Esto aplica casi exclusivamente a ofensas extremadamente gráficas o de cualquier otra forma aborrecible, como la distribución de pornografía infantil u cualquier otro material de abuso.

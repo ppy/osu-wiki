@@ -38,7 +38,7 @@ El menú principal fue actualizado con un nuevo diseño, y el editor recibió un
 
 ![](img/2007-08_02.jpg "Evolucion de la explosión de golpe")
 
-La jugabilidad se vio mejorada con el debut de [Combo de fuego](/wiki/Glossary/Combo_fire), la barra de HP, estela del ratón, y mejores deslizadores. En este punto, osu! tenía una humilde colección de alrededor de 10 beatmaps diseñados por el equipo de prueba de alrededor de 5 personas.
+La jugabilidad se vio mejorada con el debut de [Combo de fuego](/wiki/Gameplay/Combo_fire), la barra de HP, estela del ratón, y mejores deslizadores. En este punto, osu! tenía una humilde colección de alrededor de 10 beatmaps diseñados por el equipo de prueba de alrededor de 5 personas.
 
 ![](img/2007-08_03.jpg "Selector de canciones para el modo editor")
 

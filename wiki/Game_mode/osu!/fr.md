@@ -100,9 +100,9 @@ Si le modificateur de jeu [Auto Pilot](/wiki/Game_modifier/Autopilot) été util
 
 Le [score dans osu!](/wiki/Gameplay/Score/osu!) est une somme pondérée de plusieurs composantes du gameplay. Il dépend des éléments suivants :
 
-- Le [jugement](/wiki/Gameplay/Judgement/osu!) détermine la valeur de base du score d'un objet (300, 100, 50 ou 0 en cas de miss). Pour les [cercles](/wiki/Hit_object/Hit_circle), les pressions de touches bien synchronisées sont plus valorisées, à la fois en termes de score et de précision. Les [sliders](/wiki/Hit_object/Slider) et les [spinners](/wiki/Hit_object/Spinner) n'ont pas de hit windows mais ils briseront le combo s'ils sont miss ou mal clear. Obtenir un jugement plus élevé permet également de regagner de la [vie](/wiki/Beatmapping/Health).
+- Le [jugement](/wiki/Gameplay/Judgement/osu!) détermine la valeur de base du score d'un objet (300, 100, 50 ou 0 en cas de miss). Pour les [cercles](/wiki/Hit_object/Hit_circle), les pressions de touches bien synchronisées sont plus valorisées, à la fois en termes de score et de précision. Les [sliders](/wiki/Hit_object/Slider) et les [spinners](/wiki/Hit_object/Spinner) n'ont pas de hit windows mais ils briseront le combo s'ils sont miss ou mal clear. Obtenir un jugement plus élevé permet également de regagner de la [vie](/wiki/Gameplay/Health).
 - La [précision](/wiki/Gameplay/Accuracy#osu!) dépend du jugement et montre la précision des clics. Les clics trop tôt ou trop tard sur les touches, ainsi que les miss, diminuent la précision globale.
-- Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) est un multiplicateur de score : jouer un objet contribue davantage au score total lorsque le combo est élevé et vice versa. Le combo peut être [cassé](/wiki/Glossary/Combobreak) par un miss ou un [slider break](/wiki/Gameplay/Slider_break).
+- Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) est un multiplicateur de score : jouer un objet contribue davantage au score total lorsque le combo est élevé et vice versa. Le combo peut être [cassé](/wiki/Gameplay/Judgement/Combobreak) par un miss ou un [slider break](/wiki/Gameplay/Judgement/Slider_break).
 
 Lorsque le combo est maintenu, le score total augmente de façon exponentielle. Les objets situés plus près de la fin de la beatmap valent des ordres de grandeur plus élevés que ceux du début, ce qui signifie qu'un joueur perdra beaucoup plus de points potentiels sur eux en cas de clics au mauvais moment. Par conséquent, il est possible et très courant qu'un score avec une précision moindre ait un nombre de points plus élevé et batte un score avec une meilleure précision.
 
@@ -135,7 +135,7 @@ Après avoir terminé une beatmap, le score se voit attribuer une [note](/wiki/G
 ### Histoire
 
 - L'ancienne version d'osu! émulait certains éléments de la série *Ouendan* avant d'être retirés ou remplacés :
-  - Le [Combo fire](/wiki/Glossary/Combo_fire) lorsque vous atteignez un nouveau palier de combo.
+  - Le [Combo fire](/wiki/Gameplay/Combo_fire) lorsque vous atteignez un nouveau palier de combo.
   - La première version du skin par défaut utilisant le comportement du skin v1, qui était *osu!default by peppy*, fournit une copie presque identique de l'interface *Ouendan*.
     - Il a été remplacé par un skin par défaut plus joli, utilisant le comportement du skin v2.
   - La différence la plus notable entre le comportement des skins v1 et v2 est le spinner.

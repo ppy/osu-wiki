@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
+---
+
 # Interface
 
 ![](img/intro-screen-FR.jpg "Écran d'introduction")
@@ -48,7 +53,7 @@ Accédez à cet écran en cliquant sur votre profil se trouvant en haut à gauch
 
 ## Lobby multijoueur
 
-*Page principale : [Multi](/wiki/Multi)*
+*Page principale : [Multi](/wiki/Gameplay/Multiplayer)*
 
 ![](img/multi-lobby-FR.jpg "Écran de sélection de salle")
 

@@ -67,6 +67,6 @@ Certos tipos de ofensas acarretam em uma duração mínima (normalmente 48 horas
 
 Se você continuar quebrando as regras após ser punido, sua conta pode ser permanentemente e irrevogavelmente restrita.
 
-Contas restritas não podem jogar online, enviar pontuações, conversar com outros e são de todas as formas "banidas" de qualquer tipo de interação com a comunidade. Restrição por violação de regras só poderá ser removida através de uma apelo ou recurso à equipe de suporte depois de 3 meses ([condições adicionais podem ser aplicadas](/wiki/Help_Centre/Account_Restrictions#razões-comuns-de-restrição-e-seus-cooldowns))).
+Contas restritas não podem jogar online, enviar pontuações, conversar com outros e são de todas as formas "banidas" de qualquer tipo de interação com a comunidade. Restrição por violação de regras só poderá ser removida através de uma apelo ou recurso à equipe de suporte depois de 3 meses ([condições adicionais podem ser aplicadas](/wiki/Help_centre/Account_restrictions#razões-comuns-de-restrição-e-seus-cooldowns))).
 
 Ofensas graves que vão além das nossas regras da comunidade e caem em jurisdição de conteúdo ilegal através de leis internacionais resultará em terminação imediata da conta. Isso se aplica exclusivamente a conteúdo extremamente gráfico ou ofensas abomináveis como pornografia infantil ou outro material abusivo.

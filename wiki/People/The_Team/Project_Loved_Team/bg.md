@@ -20,15 +20,15 @@ tags:
 
 ### osu!
 
-- ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983)
-- ![][flag_US] [kotkeone](https://osu.ppy.sh/users/10083084)
+- ![][flag_US] [Wixonater](https://osu.ppy.sh/users/10083084)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
 
 ### osu!taiko
 
 - ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861)
+- ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996)
 - ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910)
 - ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438)
 - ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563)
@@ -44,18 +44,19 @@ tags:
 ### osu!mania
 
 - ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750)
-- ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722)
-- ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
+- ![][flag_US] [-NoName-](https://osu.ppy.sh/users/10400730)
+- ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
 - ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479)
 - ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)
-- ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
+- ![][flag_ES] [PuigdemontLoL](https://osu.ppy.sh/users/7080063)
+- ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612)
 
 ## Координатори
 
 Координаторите трябва да се уверят че всички капитани работят заедно и са отговорни всичко в "Проект обичани" да върви гладко. Те пишат новини и публикации във форум, поддържат някои инструменти и помагат в управлението на дискусии относно обичани.
 
 - ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237)
-- ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
+- ![][flag_FR] [Panacotta](https://osu.ppy.sh/users/2850983)
 
 ## Проверяващи метаданни на бийтмапове
 
@@ -68,7 +69,7 @@ tags:
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
 - ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196)
 - ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
-- ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
+- ![][flag_ES] [PuigdemontLoL](https://osu.ppy.sh/users/7080063)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
 
 ## Модератори, проверяващи съдържанието на бийтмап
@@ -76,7 +77,7 @@ tags:
 Модераторите проверяващи съдържание се състоят от обучени членове на [глобалния модераторски екип](/wiki/People/The_Team/Global_Moderation_Team) и [екипа за оценка на номинатори](/wiki/People/The_Team/Nomination_Assessment_Team), които вземат участие в проверката на аудиовизуално съдържание включено в бийтмаповете за които ще се гласува.
 
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
-- ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
+- ![][flag_FR] [Panacotta](https://osu.ppy.sh/users/2850983)
 - ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437)
 
 ## Оттеглили се членове
@@ -90,6 +91,7 @@ tags:
 ### osu! капитани
 
 - ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691)
+- ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917)
 - ![][flag_CA] [Kaifin](https://osu.ppy.sh/users/2596942)
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
@@ -128,12 +130,13 @@ tags:
 - ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852)
 - ![][flag_US] [Alter-](https://osu.ppy.sh/users/4980256)
+- ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722)
 - ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992)
 - ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783)
+- ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
 - ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
 - ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707)
-- ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612)
 - ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 
 ### Други

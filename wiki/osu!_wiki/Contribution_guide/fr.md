@@ -2,6 +2,8 @@
 
 Merci de votre intérêt à vouloir rendre le osu! wiki meilleur ! Cet article couvre le processus de contribution étape par étape. Si vous êtes familier avec GitHub, n'hésitez pas à suivre le feature-branch workflow pour proposer des changements et passez directement à la section concernant le [self-check](#self-check).
 
+Les nouveaux contributeurs ne sont pas censés connaître GitHub ou [git](https://git-scm.com/), car ce sont des outils principalement destinés aux développeurs. Ne vous inquiétez pas si vous n'arrivez pas à faire quelque chose correctement du premier coup : un [maintainer du wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers) vous indiquera la bonne direction ou corrigera le problème pour vous.
+
 Si vous avez besoin d'astuces ou de conseils à n'importe quelle étape, n'hésitez pas à demander dans le salon de discussion `#osu-wiki` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
 
 ## Domaines d'intérêt
@@ -46,7 +48,7 @@ Une fois que les modifications ont été vérifiées, validées et push vers vot
 
 ## Review
 
-Toutes les modifications apportées au osu! wiki sont modérées. Pendant cette étape, les autres collaborateurs signalent les erreurs possibles et les moyens de les corriger, soit sous forme libre, soit en suggérant des modifications directes de la pull request Comme pour toute autre review, vous devez répondre aux commentaires en appliquant les suggestions ou en expliquant pourquoi vous préférez garder les choses telles quelles.
+Toutes les modifications apportées au osu! wiki sont modérées. Pendant cette étape, les autres collaborateurs signalent les erreurs possibles et les moyens de les corriger, soit sous forme libre, soit en suggérant des modifications directes de la pull request Comme pour toute autre review, vous devez répondre aux commentaires en [appliquant les suggestions](/wiki/osu!_wiki/Contribution_guide/Best_practices#appliquer-les-reviews) ou en expliquant pourquoi vous préférez garder les choses telles quelles.
 
 Si personne ne s'est manifesté après quelques jours, essayez ce qui suit :
 

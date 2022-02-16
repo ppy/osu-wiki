@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
+---
+
 # 界面
 
 ![](img/intro-screen.jpg "初始屏幕")
@@ -42,12 +47,12 @@
 ![](img/play-menu.jpg "游戏界面")
 
 - 点击 `Solo`（`P`）以进行单机游戏
-- 点击 `Multi`（`M`）以进行多人联机，你会被重定向至[多人游戏](/wiki/Multi)大厅（见下文）。
+- 点击 `Multi`（`M`）以进行多人联机，你会被重定向至[多人游戏](/wiki/Gameplay/Multiplayer)大厅（见下文）。
 - 点击 `Back` (`B`) 以返回主菜单
 
 ### 联机大厅
 
-*详见词条： [Multi](/wiki/Multi)*
+*详见词条： [Multi](/wiki/Gameplay/Multiplayer)*
 
 ![](img/multi-lobby.jpg "多人游戏大厅界面")
 
