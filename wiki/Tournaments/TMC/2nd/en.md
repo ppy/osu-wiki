@@ -44,9 +44,12 @@ The Touhou Project Mania Cup 2nd is run by the TMC team.
 | :-- | :-- |
 | Manager |  |
 | Mappool selector | |
+| Guest Mapper | |
 | Commentator |  |
 | Referee |  |
 | Statistician |  |
+| Banner designer |  |
+| WIKI | |
 
 ## Links
 
@@ -108,7 +111,6 @@ Team A represent Blue Team while Team B represnt Red Team.
 | Appendicitis | offbrand mwc | Feb 19 (Sat) 2:00 UTC | ¹ |
 | Hourai Elixir | badplayers49 | Feb 19 (Sat) 3:00 UTC | ¹ |
 | Estudia Sonso | Fumo | Feb 19 (Sat) 4:00 UTC | ¹ |
-| sllab amogus    | :1217angry: | Feb 19 (Sat) 12:00 UTC | ¹ |
 | Black Stick Rot | ICHIGAY!!! | Feb 19 (Sat) 13:00 UTC | ¹ |
 | Knation | Ordirehv | Feb 19 (Sat) 14:00 UTC | ¹ |
 | monkey bussines | rice quadruplets | Feb 19 (Sat) 16:00 UTC | ¹ |
@@ -125,6 +127,7 @@ Team A represent Blue Team while Team B represnt Red Team.
 | Shion Lovers | holiv reprdution | Feb 20 (Sun) 6:00 UTC | ² |
 | oh10 | Watermelon | Feb 20 (Sun) 12:00 UTC | ² |
 | yes | omsim | Feb 20 (Sun) 13:00 UTC | ² |
+| sllab amogus | :1217angry: | Feb 20 (Sun) 13:00 UTC | ¹ |
 | Assmen | Team Pixula | Feb 20 (Sun) 14:00 UTC | ² |
 | FNF Club Germany | Ricemakers | Feb 20 (Sun) 15:00 UTC | ² |
 | skill issue | bru. | Feb 20 (Sun) 16:00 UTC | ² |
@@ -226,7 +229,7 @@ The rulesets are mainly based on MWC 2021/4DMWC 4, which shows below as referanc
 
 ### Tournament rules
 
-1. The Touhou Project Mania Cup 2nd is a country-based team tournament, played on the osu!mania game mode.
+1. The Touhou Project Mania Cup 2nd is a team-based team tournament, played on the osu!mania game mode.
 2. Beatmap scoring will be based on Score V2.
 3. The beatmaps for each round will be announced by the mappool selectors on the Sunday before the actual matches take place.
    - Every mappool, except for the Qualifier stage, will contain a *tiebreaker* beatmap. It will only be played in case of a tie in the scoreline in the *best of* system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
