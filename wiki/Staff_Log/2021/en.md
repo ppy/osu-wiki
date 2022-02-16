@@ -566,6 +566,7 @@ Abbreviations for user groups are used throughout this log:
 - 2021-12-19: Added [Present](https://osu.ppy.sh/users/5645691) to **Probationary BN**
 - 2021-12-23: Added [Saggin](https://osu.ppy.sh/users/12464107) to **Probationary BN**
 - 2021-12-23: Moved [davidminh0111](https://osu.ppy.sh/users/9623142) to **BN** 
+
 #### Moves
 
 - 2021-12-02: Moved [elicz1](https://osu.ppy.sh/users/8039342) from **Probationary BN** to **BN** 
