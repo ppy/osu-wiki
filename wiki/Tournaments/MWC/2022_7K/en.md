@@ -100,7 +100,7 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Malaysia | ![][flag_MY] | ![][flag_CN] | China | Feb 19 (Sat) 12:00 UTC | Feb 19 (Sat) 20:00 UTC+8 | Feb 19 (Sat) 20:00 UTC+8 | ¹ |
+| Malaysia | ![][flag_MY] | ![][flag_CN] | China | Feb 19 (Sat) 13:00 UTC | Feb 19 (Sat) 21:00 UTC+8 | Feb 19 (Sat) 21:00 UTC+8 | ¹ |
 
 ### Sunday, February 20, 2022
 
