@@ -64,6 +64,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | Çince, Malay dili | Sohbet moderasyonu |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Sohbet moderasyonu |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | İsveççe, İspanyolca | Sohbet moderasyonu, turnuva yönetimi |
+| ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | Sohbet moderasyonu |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Korece, Japonca | Sohbet moderasyonu |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Türkçe | Sohbet moderasyonu |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | İspanyolca | Sohbet moderasyonu, forum moderasyonu |
