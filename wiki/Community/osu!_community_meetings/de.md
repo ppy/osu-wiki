@@ -8,7 +8,7 @@ Derzeit werden die osu! Community-Treffen von [peppy](https://osu.ppy.sh/users/2
 
 Die Treffen finden in der Regel alle zwei Wochen statt und werden etwa einen Tag vorher auf [peppys Twitter](https://twitter.com/ppy) angekündigt.
 
-Das nächste osu! Community Meeting findet voraussichtlich am: **19. Februar 2022 (Samstag 13:00 UTC)** statt.
+Das nächste osu! Community Meeting findet voraussichtlich am: **20. Februar 2022 (Sonntag 07:00 UTC)** statt.
 
 ## Sich beteiligen
 
