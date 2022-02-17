@@ -42,7 +42,7 @@ The Touhou Project Mania Cup 2nd is run by the TMC team.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_CN] [IA daisuki] |
+| Host | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
 | Mappool selector | |
 | Guest Mapper | |
 | Commentator |  |
@@ -123,6 +123,44 @@ The Touhou Project Mania Cup 2nd is run by the TMC team.
 | **mkwii>mk8** | ![][flag_DE] **[Niko_Plays](https://osu.ppy.sh/users/9409456)**, ![][flag_DE] [Cobraxx](https://osu.ppy.sh/users/9620182)|
 | **We Luv Alpaca** | ![][flag_PE] **[Sebas1234213](https://osu.ppy.sh/users/23218007)**, ![][flag_PE] [Lya-](https://osu.ppy.sh/users/23248625), ![][flag_PE] [[Boywhat]](https://osu.ppy.sh/users/17551398), ![][flag_PE] [Bultrax](https://osu.ppy.sh/users/20854233)|
 | **Trash** | ![][flag_IE] **[MilkWatcher](https://osu.ppy.sh/users/13794811)**, ![][flag_US] [Trontin](https://osu.ppy.sh/users/17785322) |
+
+### Country / Region Representation 
+
+| | Participants | % |
+| :-: | :-: | :-: |
+| ![][flag_US] | 32 | 17.02% |
+| ![][flag_PH] | 27 | 14.36% |
+| ![][flag_ID] | 15 | 7.98% |
+| ![][flag_CN] \ ![][flag_HK]\ ![][flag_TW] | 13 | 6.91% |
+| ![][flag_CA] | 10 | 5.32% |
+| ![][flag_DE] | 10 | 5.32% |
+| ![][flag_MY] | 10 | 5.32% |
+| ![][flag_NL] | 8 | 4.26% |
+| ![][flag_FR] | 7 | 3.72% |
+| ![][flag_PE] | 7 | 3.72% |
+| ![][flag_BR] | 6 | 3.19% |
+| ![][flag_CN] | 6 | 3.19% |
+| ![][flag_SG] | 6 | 3.19% |
+| ![][flag_TW] | 5 | 2.66% |
+| ![][flag_AR] | 4 | 2.13% |
+| ![][flag_CL] | 4 | 2.13% |
+| ![][flag_TH] | 4 | 2.13% |
+| ![][flag_VN] | 4 | 2.13% |
+| ![][flag_BE] | 3 | 1.60% |
+| ![][flag_GB] | 3 | 1.60% |
+| ![][flag_IE] | 3 | 1.60% |
+| ![][flag_AU] | 2 | 1.06% |
+| ![][flag_HK] | 2 | 1.06% |
+| ![][flag_JP] | 2 | 1.06% |
+| ![][flag_BH] | 1 | 0.53% |
+| ![][flag_CH] | 1 | 0.53% |
+| ![][flag_CZ] | 1 | 0.53% |
+| ![][flag_NO] | 1 | 0.53% |
+| ![][flag_NZ] | 1 | 0.53% |
+| ![][flag_PL] | 1 | 0.53% |
+| ![][flag_QA] | 1 | 0.53% |
+| ![][flag_SA] | 1 | 0.53% |
+| **31** | **188** | |
 
 ## Match schedule: Round of 16
 
