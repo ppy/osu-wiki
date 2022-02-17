@@ -115,12 +115,15 @@ The Touhou Project Mania Cup 2nd is run by the TMC team.
 | **skill issue** | ![][flag_NO] **[astoneworm](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [silicosis et](https://osu.ppy.sh/users/3632846)|
 | **OibdciHvete** | ![][flag_NO] **[JayAreEee](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [FiddleMinger](https://osu.ppy.sh/users/3632846),![][flag_NO] [Flare_Drake](https://osu.ppy.sh/users/3632846)|
 | **sham macro** | ![][flag_NO] **[kit-](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [Merami Crab](https://osu.ppy.sh/users/3632846),![][flag_NO] [Kites](https://osu.ppy.sh/users/3632846)|
---------------------增加excel 57行以后的玩家信息-----------------------------
-| **** | ![][flag_NO] **[MegMewtwoZ](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [banan](https://osu.ppy.sh/users/3632846),![][flag_NO] [CPT_Sivelia](https://osu.ppy.sh/users/3632846),![][flag_NO] [IJosephI[GS]](https://osu.ppy.sh/users/3632846)|
-| **** | ![][flag_NO] **[MegMewtwoZ](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [banan](https://osu.ppy.sh/users/3632846),![][flag_NO] [CPT_Sivelia](https://osu.ppy.sh/users/3632846),![][flag_NO] [IJosephI[GS]](https://osu.ppy.sh/users/3632846)|
-
-
-
+| **BEAN TEAM** | ![][flag_NO] **[-Sparky-](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [LeftyRighty](https://osu.ppy.sh/users/3632846)|
+| **Volvo Gaming** | ![][flag_NO] **[ERA Jungle](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [swagmember](https://osu.ppy.sh/users/3632846),![][flag_NO] [ZeMaB](https://osu.ppy.sh/users/3632846)|
+| **Mage's Orphans** | ![][flag_NO] **[Yenaek](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [SinCrone](https://osu.ppy.sh/users/3632846)|
+| **Assmen** | ![][flag_NO] **[flyerbram002](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [shaafs](https://osu.ppy.sh/users/3632846),![][flag_NO] [reilyy](https://osu.ppy.sh/users/3632846)|
+| **Team Pixula** | ![][flag_NO] **[Rhyzt_cL](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [Xan-](https://osu.ppy.sh/users/3632846),![][flag_NO] [[GS]Myuka](https://osu.ppy.sh/users/3632846),![][flag_NO] [[LS]Choc_cL](https://osu.ppy.sh/users/3632846)|
+| **maimai 4ever** | ![][flag_NO] **[dendygaming](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [aryadevil](https://osu.ppy.sh/users/3632846)|
+| **mkwii>mk8** | ![][flag_NO] **[Niko_Plays](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [Cobraxx](https://osu.ppy.sh/users/3632846)|
+| **We Luv Alpaca** | ![][flag_NO] **[Sebas1234213](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [Lya-](https://osu.ppy.sh/users/3632846),![][flag_NO] [[Boywhat]](https://osu.ppy.sh/users/3632846),![][flag_NO] [Bultrax](https://osu.ppy.sh/users/3632846)|
+| **Trash** | ![][flag_NO] **[MilkWatcher](https://osu.ppy.sh/users/14581544)**,![][flag_NO] [Trontin](https://osu.ppy.sh/users/3632846)|
 
 ## Match schedule: Round of 16
 
@@ -154,7 +157,7 @@ Team A represent Blue Team while Team B represnt Red Team.
 | FNF Club Germany | Ricemakers | Feb 20 (Sun) 15:00 UTC | ² |
 | skill issue | bru. | Feb 20 (Sun) 16:00 UTC | ² |
 
-¹ Winner bracket match
+¹ Winner bracket match  
 ² Losers bracket match
 
 ## Mappools
@@ -175,7 +178,7 @@ Team A represent Blue Team while Team B represnt Red Team.
   1. [Marcia - Ashita Chiru Unmei Nara (IA daisuki) \[LuNatic\]](https://osu.ppy.sh/beatmapsets/1660916#mania/3390757)
   2. [ZUN Arranged by er - Gogo No Koishi-chan (Elementaires) \[Tea Time\]](https://osu.ppy.sh/beatmapsets/632689#mania/1343000)
 - Hybrid
-  1. [Rin - Eientewi set 15 \~ Evening Primrose (-Deepdive-) \[Dark Sleep...\[Rio1-\]\]](https://osu.ppy.sh/beatmapsets/1262927#mania/2687659)
+  1. [Rin - Eientewi set 15 \~ Evening Primrose (-Deepdive-) \[Dark Sleep...\[Rio1-\]\]](https://osu.ppy.sh/beatmapsets/1694322#mania/3462059)
   2. [Camellia - CLOUDY WITH INTERMITTENT RAIN (Cut Ver.) (Salty Mermaid) \[Flowing Skies\]](https://osu.ppy.sh/beatmapsets/1366426#mania/2826087)
 - Tiebreaker
   1. **[FELT - JOURNEY (-Deepdive-) \[Caelum\]](https://osu.ppy.sh/beatmapsets/1693521#mania/3460519)**
@@ -183,7 +186,7 @@ Team A represent Blue Team while Team B represnt Red Team.
 ### Round of 32
 
 - Rice
-  1. [Naukorin - Luv of Magical Synth (-Deepdive-) \[Adoration\]](https://osu.ppy.sh/beatmapsets/1409056#mania/2938342)
+  1. [Naukorin - Luv of Magical Synth (-Deepdive-) \[Adoration\]](https://osu.ppy.sh/beatmapsets/1619719#mania/3408041)
   2. [t+pazolite -Kansabi (Zyph) \[Desolation\]](https://osu.ppy.sh/beatmapsets/1125904#mania/2352472)
   3. [REDALiCE - Kizuato (Xingyue) \[ANEGL\]](https://osu.ppy.sh/beatmapsets/1415108#mania/2916557)
   4. [FELT - Puppet in the Dark (Part2 : Buried Away) (\[Crz\]hinako1804) \[INTER\]](https://osu.ppy.sh/beatmapsets/1396066#mania/2881454)
@@ -341,7 +344,8 @@ The rulesets are mainly based on MWC 2021/4DMWC 4, which shows below as referanc
 
 ### Win conditions
 
-- In the Qualifiers, teams need to place in the top 16 seeded teams in order to advance to the Double Elimination stage.
+- In the Qualifiers, teams need to place in the top 32 seeded teams in order to advance to the Double Elimination stage.
+- In the Round of 32, teams need to win 5 maps to win a match (best of 9).
 - In the Round of 16 and Quarterfinals, teams need to win 6 maps to win a match (best of 11).
 - In the Semifinals, Finals, and Grand Finals, teams need to win 7 maps to win the match (best of 13).
 
