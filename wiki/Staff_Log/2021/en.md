@@ -549,4 +549,44 @@ Abbreviations for user groups are used throughout this log:
 - 2021-11-20: Removed [Benita](https://osu.ppy.sh/users/4023183) from **BN**
 - 2021-11-24: Removed [Quenlla](https://osu.ppy.sh/users/4725379) from **BN**
 
-<!-- last update: 2021-11-24 5:00 added - Quenlla to NAT -->
+## December
+
+- 2021-12-06: Added [Boaz](https://osu.ppy.sh/users/13302996) to **Project Loved Team**
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2021-12-03: Added [Virtue-](https://osu.ppy.sh/users/6144772) to **Probationary BN**
+- 2021-12-03: Added [Muse Dash](https://osu.ppy.sh/users/13695676) to **Probationary BN**
+- 2021-12-06: Added [Geo_ooo](https://osu.ppy.sh/users/12013943) to **Probationary BN** 
+- 2021-12-09: Added [Kuo Kyoka](https://osu.ppy.sh/users/2596306) to **Probationary BN**
+- 2021-12-19: Added [wafer](https://osu.ppy.sh/users/9416836) to **Probationary BN**
+- 2021-12-19: Added [tadahitotsu](https://osu.ppy.sh/users/11653544) to **Probationary BN**
+- 2021-12-19: Added [Present](https://osu.ppy.sh/users/5645691) to **Probationary BN**
+- 2021-12-23: Added [Saggin](https://osu.ppy.sh/users/12464107) to **Probationary BN**
+- 2021-12-23: Moved [davidminh0111](https://osu.ppy.sh/users/9623142) to **BN** 
+
+#### Moves
+
+- 2021-12-02: Moved [elicz1](https://osu.ppy.sh/users/8039342) from **Probationary BN** to **BN** 
+- 2021-12-02: Moved [Cris-](https://osu.ppy.sh/users/6175280) from **Probationary BN** to **BN**
+- 2021-12-19: Moved [duski](https://osu.ppy.sh/users/6506484) from **Probationary BN** to **BN** 
+- 2021-12-23: Moved [Lexa14](https://osu.ppy.sh/users/15397129) from **Probationary BN** to **BN** 
+- 2021-12-23: Moved [Yogurtt](https://osu.ppy.sh/users/2649717) from **Probationary BN** to **BN** 
+- 2021-12-23: Moved [-Aqua](https://osu.ppy.sh/users/7150015) from **Probationary BN** to **BN** 
+- 2021-12-25: Moved [Gamelan4](https://osu.ppy.sh/users/9856910) from **BN** to **Probationary BN**
+- 2021-12-29: Moved [Sanyi](https://osu.ppy.sh/users/7496029) from **Probationary BN** to **BN**
+- 2021-12-29: Moved [Fisky](https://osu.ppy.sh/users/8352623) from **Probationary BN** to **BN**
+- 2021-12-29: Moved [Esutarosa](https://osu.ppy.sh/users/12024753) from **Probationary BN** to **BN**
+- 2021-12-29: Moved [Aakki](https://osu.ppy.sh/users/11077540) form **Probationary BN** to **BN**
+
+#### Removals
+
+- 2021-12-02: Removed [Toofu](https://osu.ppy.sh/users/11004271) from **Probationary BN**
+- 2021-12-03: Removed [Davvy](https://osu.ppy.sh/users/10047413) from **BN**
+- 2021-12-09: Removed [PokeSky](https://osu.ppy.sh/users/3617111) from **Probationary BN**
+- 2021-12-19: Removed [Chatie](https://osu.ppy.sh/users/6524765) from **BN**
+- 2021-12-29: Removed [Icekalt](https://osu.ppy.sh/users/5410645) from **BN**
+- 2021-12-31: Removed [Morrighan](https://osu.ppy.sh/users/12042090) from **BN**
+<!--- last updated 02-18-2022 @ 1000 with the full list of staff changes from December. ---> 

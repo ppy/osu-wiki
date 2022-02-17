@@ -72,17 +72,15 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish, German | Evaluation, moderation |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluation, structural |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korean | Evaluation, communication |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) | | Evaluation |
 
 ### osu!mania
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
 | ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Evaluation |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French | Evaluation |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
 
-<!-- last update: 2021-11-06 04:00 added Capu and radar to osu!taiko, removed Agatsu and Kibbleru from osu! -->
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
@@ -96,3 +94,4 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+<!-- last update: 2022-02-17 removing Spectator and Adding Secre -->
