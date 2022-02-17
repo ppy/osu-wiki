@@ -355,7 +355,7 @@ Wegen der Schwierigkeit, eine Lizenz für den oben genannten Song zu bekommen.
 
 ### Wie komme ich an mehr Beatmaps?
 
-Gehe zu der "Store" Sektion im Spiel oder drücke den "Download more songs..." Knopf in der "Play" Sektion.
+Gehe zu der "Store" Sektion im Spiel oder drücke den Button "Download more songs..." in der "Play" Sektion.
 
 ### Was ist die Titelmelodie von osu!stream?
 

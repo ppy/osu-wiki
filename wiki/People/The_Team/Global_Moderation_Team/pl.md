@@ -58,6 +58,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | Chiński, malajski | Moderowanie czatu |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Moderowanie czatu |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Szwedzki, hiszpański | Moderowanie czatu, organizowanie turniejów |
+| ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | Moderowanie czatu |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Koreański, japoński | Moderowanie czatu |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Turecki | Moderowanie czatu |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Hiszpański | Moderowanie czatu, moderowanie forum |

@@ -46,7 +46,7 @@ Existe duas formas de adicionar beatmaps, via website ou osu!direct (requer [osu
 4. Localize e abra o arquivo do beatmap, ele tem a extensão `.osz`
    - Alternativamente, você também pode colocar o arquivo do beatmap na pasta `Songs` da instalação do osu!
 5. osu! vai cuidar do resto e carregar o beatmap.
-   - Se, por algum motivo, você não o vê, pressione `F5` na [Seleção de música](/wiki/Client/Interface#song-selection-screen) para reprocessar seus beatmaps.
+   - Se, por algum motivo, você não o vê, pressione `F5` na [Seleção de música](/wiki/Client/Interface#song-select) para reprocessar seus beatmaps.
 
 ### osu!direct
 
@@ -57,7 +57,7 @@ Existe duas formas de adicionar beatmaps, via website ou osu!direct (requer [osu
 3. Clique duas vezes na música na lista ou clique `Download` na direita para baixar.
    - Se você não quer baixar o vídeo do beatmap, então clique em `DL NoVideo`.
 4. Quando osu! baixar o beatmap, ele carregará automaticamente.
-   - Se, por algum motivo, você não o vê, pressione `F5` na [Seleção de música](/wiki/Client/Interface#song-selection-screen) para reprocessar seus beatmaps.
+   - Se, por algum motivo, você não o vê, pressione `F5` na [Seleção de música](/wiki/Client/Interface#song-select) para reprocessar seus beatmaps.
 
 ## Adicionando skins
 
