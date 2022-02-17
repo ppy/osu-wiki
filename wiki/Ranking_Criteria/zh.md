@@ -2,11 +2,22 @@
 
 *查看每个游戏模式具体的标准，请参阅 [osu!](osu!)，[osu!taiko](osu!taiko)，[osu!catch](osu!catch) 和 [osu!mania](osu!mania)。*
 
-**Ranking Criteria** 列出了让[谱面](/wiki/Beatmap)通过[谱面 Ranking 程序](/wiki/Beatmap_ranking_procedure)时须遵守的[规则和准则](#一般术语)
+**Ranking Criteria** 列出了让[谱面](/wiki/Beatmap)通过[谱面 Ranking 程序](/wiki/Beatmap_ranking_procedure)时须遵守的[规定和准则](#一般术语)
 
 可在 [Ranking Criteria 论坛](https://osu.ppy.sh/community/forums/87)中提出和讨论对本文的更正。并参照 *[如何建议更改 Ranking 准则](https://osu.ppy.sh/community/forums/topics/720532)* 来提供贡献。注意，若仅对本文中的遣词、语法、组句进行改变，而不改变其原意，则无需发帖至论坛。
 
 **注意[摸图和作图的行为准则](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)、[歌曲内容规定](/wiki/Rules/Song_Content_Rules)是 Ranking Criteria 的一部分，适用于 osu! 中所有的游戏模式。**
+
+## 工具
+
+非常建议您使用 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) 来帮助检查谱面是否符合以下这些规则。老旧的稳定版 (stable) 客户端内的 [AiMod](/wiki/Client/Beatmap_editor/AiMod) 工具已经过时且不再维护。同时，新版 lazer 客户端内的谱面检查工具仍在[开发中](https://github.com/ppy/osu/issues/12091#issuecomment-878760791)。
+
+使用前需注意：
+
+- 工具不能代替阅读此页面或人工检查的必要操作。
+- 请保持自己的判断，不要盲目地遵循工具指出的建议。
+- 工具能帮助你检查谱面，而不能代替你检查谱面。
+
 
 ## 术语
 
