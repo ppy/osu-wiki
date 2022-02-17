@@ -243,7 +243,7 @@ No matter why this specific map has taken a fancy in you, either because you wis
 110 BPM, 1:50 | 2.31★, 2.31★\
 *description written by [Paturages](https://osu.ppy.sh/users/1375479)*
 
-They say that love tastes sweet, yet with a bitter aftertaste \\[*citation needed*\\]. This SV map however proves itself to be fairly light, yet not quite straightforward either. Maybe that's how teenage love is nowadays. Not that I would know anyway.
+They say that love tastes sweet, yet with a bitter aftertaste \[*citation needed*\]. This SV map however proves itself to be fairly light, yet not quite straightforward either. Maybe that's how teenage love is nowadays. Not that I would know anyway.
 
 We finally get to zero2snow's SV backlog, and *Love Taste* is one among many of his other notable tournament contributions. As his very first Loved nomination, *Love Taste* is a perfectly good introduction to SV memorization if you are looking to get into the skillset. If you find yourself hungry for more, there's a variety of other maps you can try: MWC-featured [*Hyou Ryuu*](https://osu.ppy.sh/beatmapsets/980182), tight banger and qualifier [*Forsaken*](https://osu.ppy.sh/beatmapsets/1037446) or tougher entry [*easymotion*](https://osu.ppy.sh/beatmapsets/948786). Don't play [*Strange Inventor*](https://osu.ppy.sh/beatmapsets/1130028).
 
