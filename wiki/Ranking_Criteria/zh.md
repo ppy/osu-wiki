@@ -10,13 +10,13 @@
 
 ## 工具
 
-非常建议您使用 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) 来帮助检查谱面是否符合以下这些规则。老旧的稳定版 (stable) 客户端内的 [AiMod](/wiki/Client/Beatmap_editor/AiMod) 工具已经过时且不再维护。同时，新版 lazer 客户端内的谱面检查工具仍在[开发中](https://github.com/ppy/osu/issues/12091#issuecomment-878760791)。
+非常建议您使用 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) 来帮助检查谱面是否符合本文所述的规则。传统客户端 (stable 版) 内的 [AiMod](/wiki/Client/Beatmap_editor/AiMod) 工具已经过时且不再维护。同时，新版客户端( lazer 版) 内的谱面检查工具仍在[开发中](https://github.com/ppy/osu/issues/12091#issuecomment-878760791)。
 
 使用前需注意：
 
-- 工具不能代替阅读此页面或人工检查的必要操作。
+- 工具不能代替阅读此页面或人工检查的必要性。
 - 请保持自己的判断，不要盲目地遵循工具指出的建议。
-- 工具能帮助你检查谱面，而不能代替你检查谱面。
+- 工具是用于帮助你检查谱面，而不是代替你检查谱面。
 
 ## 术语
 
