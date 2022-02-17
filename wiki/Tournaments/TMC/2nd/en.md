@@ -153,9 +153,9 @@ Team A represent Blue Team while Team B represnt Red Team.
 | oh10 | Watermelon | Feb 20 (Sun) 12:00 UTC | ² |
 | yes | omsim | Feb 20 (Sun) 13:00 UTC | ² |
 | sllab amogus | :1217angry: | Feb 20 (Sun) 13:00 UTC | ¹ |
-| Assmen | Team Pixula | Feb 20 (Sun) 14:00 UTC | ² |
 | FNF Club Germany | Ricemakers | Feb 20 (Sun) 15:00 UTC | ² |
 | skill issue | bru. | Feb 20 (Sun) 16:00 UTC | ² |
+| Assmen | Team Pixula | Feb 20 (Sun) 21:00 UTC | ² |
 
 ¹ Winner bracket match  
 ² Losers bracket match
