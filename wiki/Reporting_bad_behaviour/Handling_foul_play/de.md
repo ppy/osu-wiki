@@ -41,7 +41,7 @@ Du solltest den Benutzer melden und ihn nirgendwo erwähnen. Es gibt drei Wege, 
 
 **Das ist der empfohlene Weg, um Verstöße zu melden, da hier die Mitglieder des Support-Teams die meisten Informationen erhalten.**
 
-Auf der Benutzerprofilseite wird ein `Melden`-Knopf erscheinen, wenn du auf die drei Punkte neben dem `Nachricht senden`-Knopf drückst. Füge jede Information hinzu, die das Fehlverhalten des Nutzers beweist.
+Auf der Benutzerprofilseite wird ein Button `Melden` erscheinen, wenn du auf die drei Punkte neben dem Button `Nachricht senden` drückst. Füge jede Information hinzu, die das Fehlverhalten des Nutzers beweist.
 
 *Achte auf den ausgewählten Spielmodus vor dem Melden.*
 
@@ -49,7 +49,7 @@ Auf der Benutzerprofilseite wird ein `Melden`-Knopf erscheinen, wenn du auf die 
 
 Dieser Weg ist genauso effektiv beim Melden wie die Profilseite zu nutzen. Die Meldungen gehen an den selben Endpunkt.
 
-In den Beatmapseiten kannst du einen Spieler durch das Klicken des `Melden`-Knopf auf der rechten Seite des Scores melden.
+In den Beatmapseiten kannst du einen Spieler durch das Klicken des Button `Melden` auf der rechten Seite des Scores melden.
 
 ### Chat im Spiel
 

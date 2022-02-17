@@ -1,6 +1,6 @@
 # BBCode
 
-**BBCode** ist eine [Auszeichnungssprache](https://de.wikipedia.org/wiki/Auszeichnungssprache) (Markup), die im osu!-Forum und, in einem größeren Umfang, in den meisten Foren im Internet genutzt wird. Damit die Rich-Text-Formatierung möglich wird, umranden Tags Text, um die Formatierung, Attribute, Einbettung usw. festzulegen. Es wird auf verschiedenen Seiten auf der osu!-Webseite verwendet, wie z. B. Forum-Beiträge, Signaturen, Benutzerseiten und Beatmapbeschreibungen.
+**BBCode** ist eine [Auszeichnungssprache](https://de.wikipedia.org/wiki/Auszeichnungssprache) (Markup), die im osu!-Forum und, in einem größeren Umfang, in den meisten Foren im Internet genutzt wird. Damit die Rich-Text-Formatierung möglich wird, umranden Tags Text, um die Formatierung, Attribute, Einbettung usw. festzulegen. Es wird auf verschiedenen Seiten auf der osu!-Webseite verwendet, wie z. B. Forumsbeiträge, Signaturen, Benutzerseiten und Beatmapbeschreibungen.
 
 ![Der Forum-Beitragseditor mit seinen Buttons](img/editor-DE.jpg?1 "Die Box zum Editieren in den Foren")
 
@@ -41,7 +41,7 @@ Schaltfläche in der Symbolleiste: ![Button für Fettschrift](img/bold.png "Fett
 
 Das Tag `[i]` wird benutzt, um Text mit Hilfe einer Schräglage leicht zu betonen (d. h. in kursiv setzen).
 
-Schaltfläche in der Symbolleiste: ![Button für Kursivschrfit](img/italic.png "Kursiv")
+Schaltfläche in der Symbolleiste: ![Button für Kursivschrift](img/italic.png "Kursiv")
 
 ### Unterstreichen
 
@@ -57,7 +57,7 @@ Das Tag `[u]` wird benutzt, um mit Hilfe einer horizontalen Linie Text hervorzuh
 [strike]Text[/strike]
 ```
 
-Das Tag `[strike]` wird benutzt, um die Entfernung eines zuvor enthaltenen Text zu markieren. Die Kennzeichung erfolgt durch eine horizontale Linie, die den Text durchstreicht.
+Das Tag `[strike]` wird benutzt, um die Entfernung eines zuvor enthaltenen Text zu markieren. Die Kennzeichnung erfolgt durch eine horizontale Linie, die den Text durchstreicht.
 
 Schaltfläche in der Symbolleiste: ![Button zum Durchstreichen](img/strike.png "Durchstreichen")
 
@@ -111,7 +111,7 @@ Das Tag `[box]` wird verwendet, um Texte und Bilder in einem anklickbaren Hyperl
 
 Der benutzerdefinierte Hyperlink wird durch das Argument `NAME` bestimmt. Die Spezifizierung dieses Arguments wird eine Überschrift in der Box anhand des Arguments erstellen und wird die Größe der Box entsprechend anpassen. Wenn die Spezifizierung nicht erfolgt, dann wird das Tag `[box]` standardmäßig eine Box ohne Überschrift erstellen (auf die nicht geklickt werden kann). Das Argument benutzt keine Anführungszeichen (`"`) und stellt Leerzeichen dar.
 
-Das Tag wird meistens benutzt, um große Fluten an Text und Bildern zu verstecken, die den Forum-Beitrag immens verlängern. Am meisten sichtbar in den FAQ oder in [Skin](/wiki/Skinning)-Veröffentlichungsbeiträgen.
+Das Tag wird meistens benutzt, um große Fluten an Text und Bildern zu verstecken, die den Forumsbeitrag immens verlängern. Am meisten sichtbar in den FAQ oder in [Skin](/wiki/Skinning)-Veröffentlichungsbeiträgen.
 
 *Tipp: die Schaltfläche der BBCode-Box in der Symbolleiste wird "spoiler box" genannt, aber erstellt keinen `[spoilerbox]` Tag.*
 
@@ -181,7 +181,7 @@ Schaltfläche in der Symbolleiste: ![Button für die URL](img/url.png "URL")
 [profile=userid]Benutzername[/profile]
 ```
 
-Das Tag `[profile]` wird benutzt, um zu der osu!-Profilseite eines Benutzers mit Hilfe seines Namens oder seiner Benutzer-ID zu verlinken. Der Unterschied zwischen dem Tag `[profile]` und dem Tag `[url]` besteht darin, dass beim Tag `[profile]` eine Benutzerkarte angzeigt wird, sobald der Cursor über den Link fährt.
+Das Tag `[profile]` wird benutzt, um zu der osu!-Profilseite eines Benutzers mit Hilfe seines Namens oder seiner Benutzer-ID zu verlinken. Der Unterschied zwischen dem Tag `[profile]` und dem Tag `[url]` besteht darin, dass beim Tag `[profile]` eine Benutzerkarte angezeigt wird, sobald der Cursor über den Link fährt.
 
 *Tipp: Die Benutzer-ID ist eine Zeichenkette an Nummern, die direkt dem `/users/` in der URL einer osu!-Profilseite folgen.*
 
@@ -211,7 +211,7 @@ Schaltfläche in der Symbolleiste: ![Button für Listen](img/list.png "Liste") !
 [img]ADRESSE[/img]
 ```
 
-Das Tag `[img]` wird benutzt, um Bilder aus dem Internet in osu!-Forum-Beiträgen einzubinden. Für die Benutzung des Tags müssen Nutzer den direkten Bildlink von einer Webseite einbinden (repräsentiert durch das Argument `ADRESSE`). Lokale Dateipfade (z. B. `C:\Users\Name\Pictures\image.jpg`) **werden nicht funktionieren**.
+Das Tag `[img]` wird benutzt, um Bilder aus dem Internet in osu!-Forumsbeiträgen einzubinden. Für die Benutzung des Tags müssen Nutzer den direkten Bildlink von einer Webseite einbinden (repräsentiert durch das Argument `ADRESSE`). Lokale Dateipfade (z. B. `C:\Users\Name\Pictures\image.jpg`) **werden nicht funktionieren**.
 
 *Hinweis: Die URL einer Webseite ist **nicht** dasselbe wie eine Bildadresse.*
 
@@ -251,7 +251,7 @@ Um Audiodateien mit Hilfe dieser Methode einzubinden, müssen Nutzer die URL (z.
 [heading]Text[/heading]
 ```
 
-Das Tag `[heading]` wírd benutzt, um Text als große, pinke Überschriften zu formatieren. Hierbei werden keine mehrstufigen Überschriften unterstützt und die Überschriften können nicht direkt verlinkt werden.
+Das Tag `[heading]` wird benutzt, um Text als große, pinke Überschriften zu formatieren. Hierbei werden keine mehrstufigen Überschriften unterstützt und die Überschriften können nicht direkt verlinkt werden.
 
 Schaltfläche in der Symbolleiste: ![Button für Überschriften](img/heading.png "Überschriften")
 
@@ -293,10 +293,10 @@ Das Tag `[lucky]` ist ein nicht mehr aktuelles Tag, das früher verwendet wurde,
 [text]
 ```
 
-Das Tag *Überschrift (v2)* ist ein nicht mehr aktuelles Tag, das früher in den osu!-Foren benutzt wurde, um Text in eine schicker aussehende violette Überschrift mit einer horizontalen Linie zu formatieren. Das Tag hat nur in den Beatmaps-Foren funktioniert und erschien nur nach der Beitragsveröffentlichung (nicht in der Vorschau). Es gab dafür keinen Button während die Überschrift zur Verfügung stand und wurde durch eine eine öffnende sowie schließende eckige Klammer (kein öffnendes sowie schließendes Tag) markiert.
+Das Tag *Überschrift (v2)* ist ein nicht mehr aktuelles Tag, das früher in den osu!-Foren benutzt wurde, um Text in eine schicker aussehende violette Überschrift mit einer horizontalen Linie zu formatieren. Das Tag hat nur in den Beatmap-Foren funktioniert und erschien nur nach der Beitragsveröffentlichung (nicht in der Vorschau). Es gab dafür keinen Button während die Überschrift zur Verfügung stand und wurde durch eine eine öffnende sowie schließende eckige Klammer (kein öffnendes sowie schließendes Tag) markiert.
 
 ## Trivia
 
-- Dieser Wikiartikel wurde adaptiert aus dem Forum-Beitrag ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) von [Stefan](https://osu.ppy.sh/users/626907).
+- Dieser Wikiartikel wurde adaptiert aus dem Forumsbeitrag ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) von [Stefan](https://osu.ppy.sh/users/626907).
 - Es gab einen Bug, der Nutzern erlaubte, den Text transparent zu machen durch die Benutzung des [Farb-Tags](#farbe) und die Beschriftung "transparent" nach dem Gleichheitszeichen (`=`).
   - Der Text wird heute zu der Standardfarbe (weiß) zurückgesetzt, sobald das passiert.
