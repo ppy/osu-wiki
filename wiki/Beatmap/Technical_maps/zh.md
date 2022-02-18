@@ -1,14 +1,17 @@
 ---
 stub: true
 tags:
+  - mapping
+  - tech
+  - slider
+  - SV
+  - term
   - 作图
   - 制谱
   - 科技
   - 技术
   - 谱面
-  - tech
   - 滑条
-  - SV
   - 术语
 ---
 
