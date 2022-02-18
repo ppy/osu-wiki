@@ -1,6 +1,8 @@
 ---
 tags:
   - badge
+  - badges
+  - badged
 ---
 
 # Official tournament support
