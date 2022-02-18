@@ -493,4 +493,4 @@ The rulesets are mainly based on MWC 2021/4DMWC 4, which shows below as referanc
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
-[flag_XX]: /wiki/shared/flag/XX.gif "Unknown"
+[flag_XX]: /wiki/shared/flag/__.gif "Unknown"
