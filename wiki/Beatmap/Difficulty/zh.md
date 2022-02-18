@@ -1,25 +1,34 @@
 ---
 tags:
-  - difficulty
-  - difficulty name
+  - 难度名
   - SR
-  - star rating
-  - stars
-outdated: true
-outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
+  - 难度星级
+  - 谱面星级
+  - 星数
 ---
 
 # 难度
 
-*请勿与 [谱面](/wiki/Beatmap) 相混淆。*
+*请勿与[谱面](/wiki/Beatmap)相混淆。*
 
-一个谱面的**难度**反映了完成它所需的能力水平。难度名称与星级评定通常会给出关于该谱面难度的足够信息。
+**难度**是以[`.osu` 后缀名](/wiki/osu!_File_Formats/Osu_(file_format))存储，用于区分一张谱面内不同的游戏难度等级的文本文件。它包含了为歌曲量身定制、测定好[时间轴](/wiki/Beatmapping/Timing_section)并用于特定[游戏模式](/wiki/Game_mode)的[击打物件](/wiki/Hit_object)。不同难度有不同的定位，对玩家的考验也不同。通常难度名和[谱面星级](/wiki/Beatmapping/Star_rating)就能提示玩家它的游玩难度有多高。
 
-## 难度级别
+难度内的击打物件在不同的游戏模式内可以组成不同样式的[排列](/wiki/Beatmap/Pattern)，它能反映难度的整体外观和给玩家的感觉。谱师可以通过调整繁多的[谱面难度设定](/wiki/Client/Beatmap_editor/Song_Setup#difficulty)或者玩家可以开启不同的[游戏模组 (Mods)](/wiki/Game_modifier) 来影响谱面的实际游玩难度。
 
-*请参见：[难度的命名](/wiki/Ranking_Criteria/Difficulty_naming)*
+难度可以通过提供一组或多组音频样本（或[音效](/wiki/Beatmapping/Hitsound)）来增强歌曲，提供额外的听觉反馈层次。
 
-以下是对应某个谱面难度的常见难度等级。在各自模式的 [Ranking 准则](/wiki/Ranking_Criteria) 中可以找到它们的具体定义和要求。
+<!-- TODO: this description of visuals needs to be improved:
+  - a separate section;
+  - a very small paragraph on every key component, including those from Beatmap#overview;
+-->
+
+与排列不同的是，难度的[视觉组件](/wiki/Beatmap)通常能提供辅助层次的体验，在大多数情况下，也可以在[视觉设置](/wiki/Client/Interface/Visual_settings)页面关闭它们。某些谱面所含的特殊视觉组件（如：[故事板](/wiki/Storyboard)或者[谱面皮肤](/wiki/Skinning)）通常与谱面组成一个整体，而且大多数视觉组件在不同难度内的显示效果也不同（如：[kiai 时间](/wiki/Gameplay/Kiai_time)和 [combo 颜色](/wiki/Glossary/Combo_colour)）。
+
+## 难度等级
+
+*参见：[难度命名](/wiki/Ranking_Criteria/Difficulty_naming)*
+
+以下是谱面内常见的难度等级。在各自模式的 [Ranking Criteria](/wiki/Ranking_Criteria) 内可以找到难度名具体的定义和要求。
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -57,11 +66,13 @@ outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 - ![](/wiki/shared/diff/expertplus-m.png?20211215) Expert+
 
-## 星级评定
+## 谱面星级
 
-![星级评定范围](/wiki/shared/star-rating/spectrum.png)
+自2021年7月27日之后，osu! 官网会自动使用以下光谱方案给谱面赋予一个指示谱面星级的颜色。
 
-在官网上，基于星级评定的范围，谱面会被自动给予一个不同的难度图标：
+![osu! 谱面星级光谱](/wiki/shared/star-rating/spectrum.png)
+
+在 [AIMod](/wiki/Client/Beatmap_editor/AiMod) 工具内或一些场合下，会按照以下谱面星级范围给难度赋予一个特定的标识：
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal: 2.0★–2.69★
@@ -70,4 +81,4 @@ outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ 及以上
 
-大部分的谱面标注的难度级别都与它被给予的图标相匹配，但有些却相差甚远。这就是为什么 [Ranking 准则](/wiki/Ranking_Criteria) 定义了更多精确的规则以判定谱面的难度与差距。
+注意：大部分谱面的实际难度都与上述赋予的标识或颜色匹配，但有时会相差甚远。这就是 [Ranking Criteria](/wiki/Ranking_Criteria) 要忽略谱面星级而定义更加精确的规则来判定谱面实际难度的原因。
