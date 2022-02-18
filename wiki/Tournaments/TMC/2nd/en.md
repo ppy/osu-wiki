@@ -38,18 +38,20 @@ The **Touhou Project Mania Cup 2nd** (***TMC 2nd***) is  is a team-based 2v2 osu
 
 ## Organisation
 
-The Touhou Project Mania Cup 2nd is run by the TMC team.
+The Touhou Project Mania Cup 2nd is run by the TMC team and various community members.
+*Please note that this is temp table, not full list*
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
-| Mappool selector | |
-| Guest Mapper | |
-| Commentator |  |
-| Referee |  |
-| Statistician |  |
-| Banner designer |  |
-| WIKI | |
+| Co-host | ![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831), ![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645), ![][flag_CN] [cdwcgt](https://osu.ppy.sh/users/14721101) |
+| Mappool selector & Guest Mapper| ![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645), ![][flag_CN] [\[Crz\]hinako1804](https://osu.ppy.sh/users/13747903), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_MX] [\[OSC\]Amagai](https://osu.ppy.sh/users/9658070), ![][flag_CN] [cherrychou](https://osu.ppy.sh/users/7214023), ![][flag_ID] [eZmmR](https://osu.ppy.sh/users/8647138), ![][flag_GB] [H1Pur](https://osu.ppy.sh/users/15756120), ![][flag_CN] [Miscedence](https://osu.ppy.sh/users/15382838), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [YuEast 2018](https://osu.ppy.sh/users/13953619), ![][flag_HK][zero2snow](https://osu.ppy.sh/users/7751516)|
+| Streamer |![][flag_CN][cdwcgt](https://osu.ppy.sh/users/14721101), ![][flag_GB][-Deepdive-](https://osu.ppy.sh/users/13338645), ![][flag_US][SunApple](https://osu.ppy.sh/users/11817622), ![][flag_CN][aiyulu](https://osu.ppy.sh/users/189617)  |
+| Commentator | ![][flag_XX][Unit](), ![][flag_GB][H1Pur](https://osu.ppy.sh/users/15756120), ![][flag_US][PorkIsGreat](https://osu.ppy.sh/users/10756322)，![][flag_GB][TingMomentum](https://osu.ppy.sh/users/12489832)，![][flag_US][SunApple](https://osu.ppy.sh/users/11817622),![][flag_XX][Kingusurii](), ![][flag_CN][\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| Referee | ![][flag_ID][SanjayaIH](https://osu.ppy.sh/users/12202728), ![][flag_BR][Konohana Lucia](https://osu.ppy.sh/users/8642224), ![][flag_CN][\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_GB][-Deepdive-](https://osu.ppy.sh/users/13338645), ![][flag_GB][H1Pur](https://osu.ppy.sh/users/15756120), ![][flag_DE][TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_CN][cdwcgt](https://osu.ppy.sh/users/14721101), ![][flag_ID][Yukari\_Sama](https://osu.ppy.sh/users/6316524) |
+| Statistician | ![][flag_HK] [MashedPotato](https://osu.ppy.sh/users/10494860) |
+| Banner designer | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552)  |
+| WIKI | ![][flag_CN] [cdwcgt](https://osu.ppy.sh/users/14721101), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_CN] [Rush\_FTK](https://osu.ppy.sh/users/3046856) |
 
 ## Links
 
@@ -472,6 +474,7 @@ The rulesets are mainly based on MWC 2021/4DMWC 4, which shows below as referanc
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MO]: /wiki/shared/flag/MO.gif "Macau"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
@@ -490,3 +493,4 @@ The rulesets are mainly based on MWC 2021/4DMWC 4, which shows below as referanc
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
+[flag_XX]: /wiki/shared/flag/XX.gif "Unknown"
