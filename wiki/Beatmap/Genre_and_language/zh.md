@@ -1,5 +1,8 @@
 ---
 tags:
+  - genres
+  - languages
+  - metadata
   - 歌曲风格
   - 曲风
   - 流派
