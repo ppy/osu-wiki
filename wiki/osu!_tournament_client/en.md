@@ -1,6 +1,6 @@
 # osu! tournament client
 
-**osu! tournament client** is the official client that overlays [osu!tourney](/wiki/osu!tourney) with supplementary scenes and information relevant to an osu! tournament during a live stream.
+The **osu! tournament client** is the official client that overlays [osu!tourney](/wiki/osu!tourney) with supplementary scenes and information relevant to an osu! tournament during a live stream.
 
 Users encountering problems with the client may [create an issue on GitHub](https://github.com/ppy/osu/issues) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
