@@ -170,13 +170,12 @@ Team A represent Blue Team while Team B represnt Red Team.
 
 | Team A | Team B | Match time ||
 | --: | :-- | :-: | :-: |
-| Appendicitis | offbrand mwc | Feb 19 (Sat) 2:00 UTC | ¹ |
-| Hourai Elixir | badplayers49 | Feb 19 (Sat) 3:00 UTC | ¹ |
 | Estudia Sonso | Fumo | Feb 19 (Sat) 4:00 UTC | ¹ |
-| Black Stick Rot | ICHIGAY!!! | Feb 19 (Sat) 13:00 UTC | ¹ |
-| Knation | Ordirehv | Feb 19 (Sat) 14:00 UTC | ¹ |
+| Knation | Ordirehv | Feb 19 (Sat) 12:00 UTC | ¹ |
+| Black Stick Rot | ICHIGAY!!! | Feb 19 (Sat) 14:00 UTC | ¹ |
 | monkey bussines | rice quadruplets | Feb 19 (Sat) 16:00 UTC | ¹ |
-| Œil | ExtraRipeApples | Feb 19 (Sat) 21:00 UTC | ¹ |
+| Hourai Elixir | badplayers49 | Feb 19 (Sat) 19:00 UTC | ¹ |
+| Œil | ExtraRipeApples | Feb 19 (Sat) 20:00 UTC | ¹ |
 
 
 
@@ -185,8 +184,9 @@ Team A represent Blue Team while Team B represnt Red Team.
 | Team A | Team B | Match time | |
 | --: | :-- | :-: | :-: |
 | Sierra Leone | TheAnswerIsPorn | Feb 20 (Sun) 0:00 UTC | ² |
-| YEP | TouWhou? | Feb 20 (Sun) 3:00 UTC | ² |
+| YEP | TouWhou? | Feb 20 (Sun) 2:00 UTC | ² |
 | oh10 | Watermelon | Feb 20 (Sun) 12:00 UTC | ² |
+| Appendicitis | offbrand mwc | Feb 20 (Sun) 12:30 UTC | ¹ |
 | yes | omsim | Feb 20 (Sun) 13:00 UTC | ² |
 | sllab amogus | :1217angry: | Feb 20 (Sun) 13:00 UTC | ¹ |
 | FNF Club Germany | Ricemakers | Feb 20 (Sun) 15:00 UTC | ² |
@@ -439,9 +439,10 @@ The rulesets are mainly based on MWC 2021/4DMWC 4, which shows below as referanc
 3. All Bracket Stages will be held between Saturday 0:00 and Sunday 23:59 UTC+0.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the stage. Tournament Management will try to create the schedule to respect the participants' time zones.
    - In the Semifinals and subsequent stages, team captains may inform Tournament Management if they expect a specific time slot to be unavailable in the following week. Schedule updates will be granted to the best of Management's abilities.
-5. **Reschedules will only be considered if both teams agree to a time and communicate it to the Tournament Management, before Wednesday 23:59 UTC+0 of the week the match is to take place on.**
+5. **Reschedules will only be considered if both teams agree to a time.**
    - Reschedules may only be requested by a team captain.
-   - Matches may not be scheduled to any time beyond **Sunday, 19:00 UTC+0** of the week they are to be played at.
+   - Matches may not be scheduled to any time beyond **Sunday, 23:59 UTC+0** of the week they are to be played at.
+   - If a team needs to reschedule, the captain may make their demand **at least 24 hours** (48 hours recommended) before their match in the reschedule channel.
    - **Do not ask for a reschedule unless it is absolutely needed. The Tournament Management reserves the right to deny any rescheduling request.**
 6. Captains are responsible for their team's availability. Any mishaps resulting from a lack of transparency from a team are to be resolved internally, the Tournament Management will not intervene.
 
