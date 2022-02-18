@@ -4,6 +4,8 @@ tags:
   - 谱面集
   - 图
   - 谱
+  - mapset
+  - beatmapset
 ---
 
 # 谱面
