@@ -1,7 +1,11 @@
 ---
 tags:
-  - 难度名
+  - difficulties
+  - difficulty name
   - SR
+  - star rating
+  - stars
+  - 难度名
   - 难度星级
   - 谱面星级
   - 星数
