@@ -26,41 +26,41 @@ tags:
 
 ## 定义
 
-Due to the broad nature of the term "tech map," there are many different aspects that could describe the term. The lists below describe different definitions from popular "types" of players.
+由于术语“科技谱”被广泛使用，因此可以从许多不同的方面描述它。下面的列表描述了玩家间常用的几种定义。
 
-### Broadest definition
+### 广义
 
-*Notice: The "broadest" definition only requires one or two of the aspects listed to be present in order to define a beatmap as tech.*
+*注意：只需要谱面符合以下列表内一到两个特点，即可广泛定义为科技谱。*
 
-- Non-generic or difficult-to-read beatmap patterns (example shown below)
-  - A hard "flow" to the beatmap
-- SV sliders
-  - These may contain slider art
-- Irregular slider shapes
-- Quick and sharp changes in slider speed
-- Overall high intensity
-  - Extremely dense in object count throughout large parts of the map (excluding [streams](/wiki/Beatmap/Pattern/Stream))
+- 非常规或难读的谱面排列（如以下的例子）
+  - 含有很“硬”的 flow，需要较强的手控能力游玩的谱面
+- 变速滑条
+  - 或包含艺术滑条
+- 特殊滑条形状
+- 滑条速度突变
+- 高密度的物件
+  - 谱面大部分时间都被高密度物件所覆盖（出现大量[连打](/wiki/Beatmap/Pattern/Stream)类排列）
 
-![Non-generic beatmap pattern (Nhelv)](img/nongeneric_beatmap_pattern.jpg "Non-generic beatmap pattern")
+![非常规谱面排列 (Nhelv)](img/nongeneric_beatmap_pattern.jpg "非常规谱面排列")
 
-![Hard flow (Densetsu no Matsuri)](img/beatmap_hard_flow.jpg "Beatmap pattern with a hard flow")
+![强手控图 (Densetsu no Matsuri)](img/beatmap_hard_flow.jpg "强手控图")
 
-Good examples of tech maps that fit this definition are [Silentroom - Nhelv (Nyxa) \[iniquitatem\]](https://osu.ppy.sh/beatmapsets/917915#osu/2009432) and [RUMI - Densetsu no Matsuri (Net0) \[Oni\]](https://osu.ppy.sh/beatmapsets/781683#osu/1641637).
+比较符合以上广泛定义的科技谱有：[Silentroom - Nhelv (Nyxa) \[iniquitatem\]](https://osu.ppy.sh/beatmapsets/917915#osu/2009432) 和 [RUMI - Densetsu no Matsuri (Net0) \[Oni\]](https://osu.ppy.sh/beatmapsets/781683#osu/1641637)。
 
-### Most restrictive/specific definition
+### 狭义
 
-*Notice: The "most restrictive/specific" definition requires **all** of the aspects listed to be present in order to define a beatmap as tech.*
+*注意：谱面需要符合以下列表内**所有**特点，才能狭窄定义为科技谱。*
 
-- Irregular slider shapes
-- Quick and sharp changes in slider speed
-- SV sliders
-- Difficult-to-read beatmap patterns (often described as having a hard "flow") (example shown below)
+- 特殊滑条形状
+- 滑条速度突变
+- 变速滑条
+- 难读的谱面排列（又常描述为谱面含有较硬的 “flow”，也称为手控图）（如以下的例子）
 
-![Difficult-to-read-pattern (Camelia)](img/difficult_to_read_beatmap.jpg "Difficult-to-read pattern")
+![难读的谱面排列 (Camelia)](img/difficult_to_read_beatmap.jpg "难读的谱面排列")
 
-![Irregular slider shape (MARENOL)](img/irregular_slider.jpg "Irregular slider shape (SV slider)")
+![特殊滑条形状 (MARENOL)](img/irregular_slider.jpg "特殊滑条形状（变速滑条）")
 
-Good examples of tech maps that fit this definition are [Camelia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix) (ProfessionalBox) \[Primordial Nucleosynthesis\]](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) and [LeaF - MARENOL (Yugu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).
+比较符合以上狭窄定义的科技谱有：[Camelia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix) (ProfessionalBox) \[Primordial Nucleosynthesis\]](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) 和 [LeaF - MARENOL (Yugu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722)。
 
-<!--Some other sections that would be cool to add:
-- A "History" section would be pretty cool. But idk how feasible this would be. -->
+<!--添加其他描述段落可能会很酷：
+- 比如 “tech 谱面的发展历史”。但我不知道这么写是否可行。-->
