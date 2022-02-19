@@ -12,7 +12,7 @@ Electronic fanatic **Riya** joins the fray as our newest Featured Artist!
 
 [**Riya**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/241) is stacked with a solid **7** tracks, each of which perfectly encapsulate an authentic rhythm game sound.
 
-"Is **Riya**'s music really that spicy?", you might ask. We don't need to answer that for you. Listen for yourself in this video of woodburned circle and sliders, then scroll through the rest of these hot previews:
+"Is **Riya**'s music really that spicy?", you might ask. We don't need to answer that for you. Listen for yourself in this video of woodburned circles and sliders, then scroll through the rest of these hot previews:
 
 <div align="center">
     <video width="100%" controls>
