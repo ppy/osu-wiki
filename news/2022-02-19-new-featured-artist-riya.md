@@ -10,7 +10,6 @@ Electronic fanatic **Riya** joins the fray as our newest Featured Artist!
 
 **Riya** is an electronic producer with an undeniable passion for anything and everything on the rhythm game spectrum. Games like *Lanota*, *RAVON*, *A Dance of Fire and Ice*, and even more have already adopted **Riya**'s sound — one inspired by the coupled complexity of [Camellia](https://osu.ppy.sh/beatmaps/artists/31) and the experimentation of [Sylvir / sakuraburst](https://osu.ppy.sh/beatmaps/artists/8).
 
-
 [**Riya**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/241) is stacked with a solid **7** tracks, each of which perfectly encapsulate an authentic rhythm game sound.
 
 "Is **Riya**'s music really that spicy?", you might ask. We don't need to answer that for you. Listen for yourself in this video of woodburned circle and sliders, then scroll through the rest of these hot previews:
