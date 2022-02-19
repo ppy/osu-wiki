@@ -193,7 +193,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_KR] [Cellina](https://osu.ppy.sh/users/2490770) | Korean |
 | ![][flag_KR] [Len](https://osu.ppy.sh/users/1686145) | Korean |
 | ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
-| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese | 
+| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
 | ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | Lithuanian |
 
 #### osu!taiko
@@ -201,7 +201,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_FI] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Some Japanese, some German |
-| ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/9623142) | Russian | 
+| ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/9623142) | Russian |
 
 #### osu!catch
 
@@ -214,7 +214,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | Chinese |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Chinese |
-| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian | 
+| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
 | ![][flag_KR] [Paran](https://osu.ppy.sh/users/13340203) | Korean |
 
 ## History

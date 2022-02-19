@@ -24,6 +24,7 @@ Promotions and retirements of public staff have been recorded to make them easil
 - [2020](2020)
 - [2021](2021)
 - [2022](2022)
+
 <!--
 TODO: incomplete history
 - pretty much anyone who moved in/out of BN...
