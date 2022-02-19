@@ -84,5 +84,4 @@ Abbreviations for user groups are used throughout this log:
 - 2022-02-16: Removed [Mimari](https://osu.ppy.sh/users/14339830) from **BN**
 - 2022-02-16: Removed [Sylas](https://osu.ppy.sh/users/3906405) from **BN**
 
-
 <!-- last updated @0944 02-18-2022 with the move from Probationary BN to BN of Froskya--->

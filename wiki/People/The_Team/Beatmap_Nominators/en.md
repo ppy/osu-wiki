@@ -262,4 +262,5 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
+
 <!--- updated to February 18, 2022 @ 1000 ---> 

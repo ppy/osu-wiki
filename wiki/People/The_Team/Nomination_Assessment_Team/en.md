@@ -94,4 +94,5 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+
 <!-- last update: 2022-02-17 removing Spectator and Adding Secre -->
