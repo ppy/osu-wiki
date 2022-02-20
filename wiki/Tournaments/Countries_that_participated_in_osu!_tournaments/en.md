@@ -8,7 +8,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 ## Rankings
 
-<!-- last update: MWC 7K 2022 (Registration phase)-->
+<!-- last update: MWC 7K 2022-->
 
 ### General ranking
 
@@ -25,14 +25,14 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | 9 | ![][flag_HK] Hong Kong |  | 4 | 1 |
 | 10 | ![][flag_DE] Germany |  | 3 | 4 |
 | 11 | ![][flag_PH] Philippines |  | 2 |  |
-| 12 | ![][flag_GB] United Kingdom |  | 1 | 4 |
 | 12 | ![][flag_MY] Malaysia |  | 1 | 5 |
-| 13 | ![][flag_ID] Indonesia |  | 1 | 2 |
-| 14 | ![][flag_NL] Netherlands |  | 1 |  |
-| 14 | ![][flag_TH] Thailand |  | 1 |  |
-| 15 | ![][flag_CA] Canada |  |  | 3 |
-| 16 | ![][flag_FR] France |  |  | 2 |
-| 17 | ![][flag_SE] Sweden |  |  | 1 |
+| 13 | ![][flag_GB] United Kingdom |  | 1 | 4 |
+| 14 | ![][flag_ID] Indonesia |  | 1 | 2 |
+| 15 | ![][flag_NL] Netherlands |  | 1 |  |
+| 15 | ![][flag_TH] Thailand |  | 1 |  |
+| 16 | ![][flag_CA] Canada |  |  | 3 |
+| 17 | ![][flag_FR] France |  |  | 2 |
+| 18 | ![][flag_SE] Sweden |  |  | 1 |
 
 ### ![][osu!] osu! ranking
 
