@@ -84,13 +84,13 @@ This competition has come to an end and resulted in the following podium:
 ### Submission rules
 
 - **This contest will be individual only.** This means storyboard collaboration is prohibited.
-- If you want to use illustration from an artist, **acquire permission / cite them accordingly**.
+- If you want to use illustration from an artist, **acquire permission / cite accordingly**.
 - If you want to use sprites from other storyboards, **do not use them until you have permission from the storyboarder(s)**.
-- Regarding how much you can edit and still be counted as part of sprite from our sprite pool, please refer to the image below.
+- Regarding how much you can edit a sprite with it still being counted as part of a sprite from the sprite pool, please refer to the image below.
 
 ![](img/editing-rules.jpg "Contest editing rules")
 
-- **Do not share storyboards, code, and/or sprites when you are done!** (This includes screenshots and/or gifs of the storyboard) Sharing them will put you in a disadvantage!
+- **Do not share storyboards, code, and/or sprites when you are done!** (This includes screenshots and/or GIFs of the storyboard.) Sharing them will put you in a disadvantage!
 - You can get hints on making specific effects you have in mind, but **do not ask others to make an effect for you!**
 - **If you already have WIP storyboard, you may use it in this contest.** However, we would like to see the SB you submit to us being used in a beatmap as well, without big modifications.
 
