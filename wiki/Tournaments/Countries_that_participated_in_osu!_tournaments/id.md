@@ -1,3 +1,8 @@
+---
+outdated:  true
+outdated_since: 022ea339a3bbbed07d577e1940d402d2f65bc0ba
+---
+
 # Negara-negara yang berpartisipasi dalam turnamen-turnamen osu!
 
 Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turnamen [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), dan [osu!mania](/wiki/Game_mode/osu!mania) resmi yang telah diselenggarakan sejauh ini. Di samping itu, artikel ini juga mendata negara-negara mana saja yang pernah mencapai posisi 3 besar dalam sejarah keikutsertaan mereka pada turnamen-turnamen resmi tersebut.
