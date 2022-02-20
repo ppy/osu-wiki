@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 3243add9ee2ee9f9c516288c3d2736509618bc9c
+---
+
 # Guide de contribution au osu! wiki
 
 Merci de votre intérêt à vouloir rendre le osu! wiki meilleur ! Cet article couvre le processus de contribution étape par étape. Si vous êtes familier avec GitHub, n'hésitez pas à suivre le feature-branch workflow pour proposer des changements et passez directement à la section concernant le [self-check](#self-check).
