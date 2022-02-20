@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 3243add9ee2ee9f9c516288c3d2736509618bc9c
+---
+
 # osu! wiki 贡献指南
 
 感谢你有兴趣让 osu! wiki 变得更好！这篇文章逐步介绍了贡献过程。如果你熟悉 GitHub，则可以按照平常的特性分支工作流程提出更改并跳到[自检](#自检)部分。
