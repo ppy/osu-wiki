@@ -1,20 +1,18 @@
 ---
 tags:
-  - storyboarding
   - osb
   - osu! storyboarder banquet
-  - storyboarding contest
 ---
 
 # osb! Storyboarding Contest #1
 
 ![osb! Storyboarding Contest #1 banner](img/banner.png)
 
-The **osb! Storyboarding Contest #1** was a storyboarding contest hosted by osu! storyboarder banquet, storyboarding community on osu!. It was the first iteration of osb! Storyboarding Contest.
+The **osb! Storyboarding Contest #1** was a storyboarding contest hosted by osu! storyboarder banquet, the storyboarding community on osu!. It was the first iteration of the osb! Storyboarding Contest.
 
 ## Contest schedule
 
-| Event | Timestamp (UTC-08) |
+| Event | Timestamp (UTC-8) |
 | --: | :-- |
 | Announcement | 2019-04-20 |
 | Registration phase | 2019-04-20/2019-05-20 |
@@ -34,7 +32,7 @@ The **osb! Storyboarding Contest #1** was a storyboarding contest hosted by osu!
 
 ## Organisation
 
-The osb! Storyboarding Contest #1 was run by staff of the osu! storyboarder banquet community.
+The osb! Storyboarding Contest #1 was run by osu! storyboarder banquet staff.
 
 | User | Responsibility |
 | :-- | :-- |
@@ -81,23 +79,23 @@ This competition has come to an end and resulted in the following podium:
 
 - **You can choose any song, theme and sprites (including your own)**. This is so that we do not limit your potential and idea.
 - **Mapping is not required**. This is a storyboarding contest!
-- Use of **provided sprites are optional**, but it is **strongly encouraged since points are calculated with sprites and their usage**.
+- Use of **provided sprites is optional**, but it is **strongly encouraged since points are calculated with sprites and their usage**.
 - If you get a **name change** during the duration of the tournament, please **let hosts know as soon as possible**!
-- **No previous experience necessary**. (This includes osu!editor’s design tab, programming and photoshop, but would be a great advantage)
+- **No previous experience necessary**. (This includes experience with osu!editor's design tab, programming and photoshop, although it would be a great advantage.)
 - Prizes are distributed in the span of 2 weeks after results have been released.
 
 ### Submission rules
 
-- **This contest will be individual only**. This means storyboard collaboration is prohibited.
-- If you want to use illustration from an artist, **think about permission / cite them accordingly**.
-- If you want to use sprites from another storyboard(s), **do not use them until you have permission from the storyboarder(s)**.
-- Regarding how much you can edit and still be counted as part of sprite from our sprite pool, please refer to image here.
+- **This contest will be individual only.** This means storyboard collaboration is prohibited.
+- If you want to use illustration from an artist, **acquire permission / cite them accordingly**.
+- If you want to use sprites from other storyboards, **do not use them until you have permission from the storyboarder(s)**.
+- Regarding how much you can edit and still be counted as part of sprite from our sprite pool, please refer to the image below.
 
 ![](img/editing-rules.jpg "Contest editing rules")
 
-- **Do not share storyboards, code, and/or sprites when you’re done!** (This includes screenshots and/or gifs of the storyboard) Sharing them will put you in a disadvantage!
+- **Do not share storyboards, code, and/or sprites when you are done!** (This includes screenshots and/or gifs of the storyboard) Sharing them will put you in a disadvantage!
 - You can get hints on making specific effects you have in mind, but **do not ask others to make an effect for you!**
-- **If you already have WIP storyboard, you may use it in this contest.** However, we would like to see the SB that you submit to us being used in beatmap as well without having big modifications.
+- **If you already have WIP storyboard, you may use it in this contest.** However, we would like to see the SB you submit to us being used in a beatmap as well, without big modifications.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
