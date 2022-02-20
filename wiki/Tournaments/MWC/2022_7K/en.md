@@ -240,6 +240,8 @@ The osu!mania 7K 2022 was run by the osu! team and various community members.
 
 ### Grand Finals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1gdewLAAcyRTfBm-0oWvEcoH4-2ZSvisVA4npuxfAATk/edit?rm=minimal).
+
 Saturday, February 19, 2022
 
 | Team A | | | Team B | Match link |
