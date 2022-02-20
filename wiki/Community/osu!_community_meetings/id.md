@@ -44,7 +44,7 @@ Pertemuan komunitas osu! pertama diadakan pada 19 September 2021. Semua pertemua
 | 8 | [9 Januari 2022](https://youtu.be/JXgQ6YEDCGg) | [Notulen pertemuan](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | Mekanisme HP (*health drain*) yang berlaku di osu! serta berbagai pertanyaan dari para anggota komunitas |
 | 9 | [22 Januari 2022](https://youtu.be/Prx0XzHl6-M) | [Notulen pertemuan](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | Berbagai pertanyaan dari para anggota komunitas serta berita-berita terkini seputar pengembangan osu! |
 | 10 | [6 Februari 2022](https://youtu.be/xA4nbE8DM4s) | [Notulen pertemuan](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | Berbagai pertanyaan dari para anggota komunitas |
-| 11 | [20 Februari 2022](https://youtu.be/d66pU5lsHvE) | - |  |
+| 11 | [20 Februari 2022](https://youtu.be/d66pU5lsHvE) | - |  Pengali skor dan skor |
 
 ## Tautan terkait
 
