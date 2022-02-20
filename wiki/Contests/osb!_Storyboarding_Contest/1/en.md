@@ -51,23 +51,20 @@ The osb! Storyboarding Contest #1 was run by osu! storyboarder banquet staff.
 
 - **[Discussion thread](https://osu.ppy.sh/community/forums/topics/897075)**
 - [Judging spreadsheet](https://docs.google.com/spreadsheets/d/16hHsR_foAqDAqckcZ33Om-OLxqgtNXzFqWqDSe7gdnU/edit#gid=0)
-- [1st place storyboard showcase](https://www.youtube.com/watch?v=dFfXZfOJQPs)
-- [2nd place storyboard showcase](https://www.youtube.com/watch?v=ucRjWfP6ZSA)
-- [3rd place storyboard showcase](https://www.youtube.com/watch?v=F4QL4B4Qgso)
 
 ## Participants
 
-| Storyboarder | Entry |
-| :-- | :-- |
-| ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648) | [puru - Grimheart (Original Mix & Cut Ver.) \[RED FOX\]](https://drive.google.com/uc?id=1dIBPlOdB00Mu-To8SdAwgGsi9OUSQ1JT) |
-| ![][flag_UA] [PantyDev](https://osu.ppy.sh/users/5420543) | [Itou Kanako - COSMIC LOOPER (TV Size) \[MAINE COON\]](https://drive.google.com/uc?id=12i-RTXTOM60P1MfBx_QGBMwmB5qOWXbz) |
-| ![][flag_CA] [TheDuckMask](https://osu.ppy.sh/users/7405768) | [AVTechNO!xTreow - DYE/Re:flection+ \[SHIBA INU\]](https://drive.google.com/uc?id=1y51gyjGgrrIQJlxkjxNoGRwFu285KaeH) |
+| Storyboarder | Entry | Showcase video |
+| :-- | :-- | :-- |
+| ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648) | [puru - Grimheart (Original Mix & Cut Ver.) \[RED FOX\]](https://drive.google.com/uc?id=1dIBPlOdB00Mu-To8SdAwgGsi9OUSQ1JT) | [#1](https://www.youtube.com/watch?v=F4QL4B4Qgso) |
+| ![][flag_UA] [PantyDev](https://osu.ppy.sh/users/5420543) | [Itou Kanako - COSMIC LOOPER (TV Size) \[MAINE COON\]](https://drive.google.com/uc?id=12i-RTXTOM60P1MfBx_QGBMwmB5qOWXbz) | [#1](https://www.youtube.com/watch?v=ucRjWfP6ZSA) |
+| ![][flag_CA] [TheDuckMask](https://osu.ppy.sh/users/7405768) | [AVTechNO!xTreow - DYE/Re:flection+ \[SHIBA INU\]](https://drive.google.com/uc?id=1y51gyjGgrrIQJlxkjxNoGRwFu285KaeH) | [#1](https://www.youtube.com/watch?v=dFfXZfOJQPs) |
 
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
-| Place | User |
+| Placing | Participant |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [TheDuckMask](https://osu.ppy.sh/users/7405768) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_UA] [PantyDev](https://osu.ppy.sh/users/5420543) |
