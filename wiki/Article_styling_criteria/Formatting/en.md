@@ -1,7 +1,6 @@
 # Formatting
 
-*For the writing standards, see: [Article style criteria/Writing](../Writing)*
-
+*For the writing standards, see: [Article style criteria/Writing](../Writing)*\
 *Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.*
 
 ## Locales
