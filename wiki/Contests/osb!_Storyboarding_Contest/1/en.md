@@ -78,20 +78,20 @@ This competition has come to an end and resulted in the following podium:
 - **Mapping is not required**. This is a storyboarding contest!
 - Use of **provided sprites is optional**, but it is **strongly encouraged since points are calculated with sprites and their usage**.
 - If you get a **name change** during the duration of the tournament, please **let hosts know as soon as possible**!
-- **No previous experience necessary**. (This includes experience with osu!editor's design tab, programming and photoshop, although it would be a great advantage.)
+- **No previous experience necessary**. (This includes experience with the beatmap editor's design tab, programming and photoshop, although it would be a great advantage.)
 - Prizes are distributed in the span of 2 weeks after results have been released.
 
 ### Submission rules
 
-- **This contest will be individual only.** This means storyboard collaboration is prohibited.
-- If you want to use illustration from an artist, **acquire permission / cite accordingly**.
+- **This contest will be for individuals only.** This means storyboard collaboration is prohibited.
+- If you want to use illustrations from an artist, **acquire permission / cite accordingly**.
 - If you want to use sprites from other storyboards, **do not use them until you have permission from the storyboarder(s)**.
 - Regarding how much you can edit a sprite with it still being counted as part of a sprite from the sprite pool, please refer to the image below.
 
 ![](img/editing-rules.jpg "Contest editing rules")
 
 - **Do not share storyboards, code, and/or sprites when you are done!** (This includes screenshots and/or GIFs of the storyboard.) Sharing them will put you in a disadvantage!
-- You can get hints on making specific effects you have in mind, but **do not ask others to make an effect for you!**
+- You can get hints on making specific effects you have in mind, but **do not ask others to make an effect for you**!
 - **If you already have WIP storyboard, you may use it in this contest.** However, we would like to see the SB you submit to us being used in a beatmap as well, without big modifications.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
