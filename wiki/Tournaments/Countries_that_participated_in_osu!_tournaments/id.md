@@ -1,8 +1,3 @@
----
-outdated:  true
-outdated_since: 022ea339a3bbbed07d577e1940d402d2f65bc0ba
----
-
 # Negara-negara yang berpartisipasi dalam turnamen-turnamen osu!
 
 Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turnamen [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), dan [osu!mania](/wiki/Game_mode/osu!mania) resmi yang telah diselenggarakan sejauh ini. Di samping itu, artikel ini juga mendata negara-negara mana saja yang pernah mencapai posisi 3 besar dalam sejarah keikutsertaan mereka pada turnamen-turnamen resmi tersebut.
@@ -13,16 +8,16 @@ Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turna
 
 ## Tabel medali
 
-<!-- last update: MWC 7K 2022 (Registration phase)-->
+<!-- last update: MWC 7K 2022 -->
 
 ### Tabel medali keseluruhan
 
 | Peringkat | Negara | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] Korea Selatan | 18 | 4 | 5 |
+| 1 | ![][flag_KR] Korea Selatan | 19 | 4 | 5 |
 | 2 | ![][flag_JP] Jepang | 10 | 5 | 2 |
 | 3 | ![][flag_US] Amerika Serikat | 7 | 5 | 4 |
-| 4 | ![][flag_CN] Tiongkok | 3 | 7 | 3 |
+| 4 | ![][flag_CN] Tiongkok | 3 | 8 | 3 |
 | 5 | ![][flag_TW] Taiwan | 3 | 7 | 1 |
 | 6 | ![][flag_BR] Brazil | 2 | 2 | 4 |
 | 7 | ![][flag_PL] Polandia | 1 | 1 | 2 |
@@ -30,14 +25,14 @@ Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turna
 | 9 | ![][flag_HK] Hong Kong |  | 4 | 1 |
 | 10 | ![][flag_DE] Jerman |  | 3 | 4 |
 | 11 | ![][flag_PH] Filipina |  | 2 |  |
-| 12 | ![][flag_GB] Britania Raya |  | 1 | 4 |
-| 12 | ![][flag_MY] Malaysia |  | 1 | 4 |
-| 13 | ![][flag_ID] Indonesia |  | 1 | 2 |
-| 14 | ![][flag_NL] Belanda |  | 1 |  |
-| 14 | ![][flag_TH] Thailand |  | 1 |  |
-| 15 | ![][flag_CA] Kanada |  |  | 3 |
-| 16 | ![][flag_FR] Prancis |  |  | 2 |
-| 17 | ![][flag_SE] Swedia |  |  | 1 |
+| 12 | ![][flag_MY] Malaysia |  | 1 | 5 |
+| 13 | ![][flag_GB] Britania Raya |  | 1 | 4 |
+| 14 | ![][flag_ID] Indonesia |  | 1 | 2 |
+| 15 | ![][flag_NL] Belanda |  | 1 |  |
+| 15 | ![][flag_TH] Thailand |  | 1 |  |
+| 16 | ![][flag_CA] Kanada |  |  | 3 |
+| 17 | ![][flag_FR] Prancis |  |  | 2 |
+| 18 | ![][flag_SE] Swedia |  |  | 1 |
 
 ### ![][osu!] Tabel medali osu!
 
@@ -87,13 +82,13 @@ Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turna
 
 | Peringkat | Negara | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] Korea Selatan | 9 | 1 | 1 |
+| 1 | ![][flag_KR] Korea Selatan | 10 | 1 | 1 |
 | 2 | ![][flag_BR] Brazil | 2 | 2 | 2 |
 | 3 | ![][flag_US] Amerika Serikat | 1 | 3 | 2 |
-| 4 | ![][flag_CN] Tiongkok | 1 | 1 | 2 |
+| 4 | ![][flag_CN] Tiongkok | 1 | 2 | 2 |
 | 5 | ![][flag_JP] Jepang |  | 2 |  |
 | 5 | ![][flag_PH] Filipina |  | 2 |  |
-| 6 | ![][flag_MY] Malaysia |  | 1 | 4 |
+| 6 | ![][flag_MY] Malaysia |  | 1 | 5 |
 | 7 | ![][flag_TH] Thailand |  | 1 |  |
 | 8 | ![][flag_ID] Indonesia |  |  | 1 |
 | 8 | ![][flag_GB] Britania Raya |  |  | 1 |

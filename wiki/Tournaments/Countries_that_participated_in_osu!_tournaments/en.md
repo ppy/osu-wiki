@@ -8,7 +8,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 ## Rankings
 
-<!-- last update: MWC 7K 2022-->
+<!-- last update: MWC 7K 2022 -->
 
 ### General ranking
 
