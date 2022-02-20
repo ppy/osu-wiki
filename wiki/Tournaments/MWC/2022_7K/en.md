@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2022 banner](/wiki/shared/news/2021-12-16-osu-mania-7k-world-cup-2022-registrations-now-open/mwc7k-2022-banner.jpg)
 
-The **osu!mania 7K World Cup 2022** (***MWC 7K 2022***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the sixth instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2022** (***MWC 7K 2022***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
