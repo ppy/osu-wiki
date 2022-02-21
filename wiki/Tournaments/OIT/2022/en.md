@@ -115,7 +115,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   1. [SAKANAMON - Fumeikakuna Seika (AirinCat) \[Extra\]](https://osu.ppy.sh/beatmapsets/1552743#osu/3172606)
   2. [Arizona Zervas - ROXANNE (Remix) (feat. Swae Lee) (wafer) \[ROCK SAND (Remix)\]](https://osu.ppy.sh/beatmapsets/1607645#osu/3282876)
 - DoubleTime
-  1. [sky_delta feat. Aitsuki Nakuru - Othello syndrome (lushifer) \[Transpain (edit.)\]](https://osu.ppy.sh/beatmapsets/1683218#osu/3439136)
+  1. [sky\_delta feat. Aitsuki Nakuru - Othello syndrome (lushifer) \[Transpain (edit.)\]](https://osu.ppy.sh/beatmapsets/1683218#osu/3439136)
   2. [Mami Kawada - sense (Giralda) \[LC's Insane\]](https://osu.ppy.sh/beatmapsets/325638#osu/723285)
   3. [yanaginagi - Vidro Moyou (rosario wknd) \[Visit from a Fallen Star\]](https://osu.ppy.sh/beatmapsets/1202515#osu/2504335)
 - FreeMod
