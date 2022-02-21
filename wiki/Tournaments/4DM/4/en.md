@@ -9,7 +9,7 @@ tags:
 
 ![4DM4 logo](img/banner.jpg)
 
-The **4 Digit osu!mania World Cup 4** (***4DM4***) is a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), and ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061). This is the fourth instalment of the 4 Digit osu!mania World Cup.
+The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), and ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061). This was the fourth instalment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
 
@@ -38,7 +38,7 @@ The **4 Digit osu!mania World Cup 4** (***4DM4***) is a worldwide country-based 
 
 ## Staff
 
-The 4 Digit osu!mania World Cup 4 is run by various community members.
+The 4 Digit osu!mania World Cup 4 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
