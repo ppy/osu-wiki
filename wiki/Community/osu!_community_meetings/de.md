@@ -8,7 +8,7 @@ Derzeit werden die osu! Community-Treffen von [peppy](https://osu.ppy.sh/users/2
 
 Die Treffen finden in der Regel alle zwei Wochen statt und werden etwa einen Tag vorher auf [peppys Twitter](https://twitter.com/ppy) angekündigt.
 
-Das nächste osu! Community Meeting findet voraussichtlich am: **20. Februar 2022 (Sonntag 07:00 UTC)** statt.
+Das nächste osu! Community Meeting wird zu einem späteren Zeitpunkt bekannt gegeben.
 
 ## Sich beteiligen
 
@@ -39,6 +39,7 @@ Das erste osu! Community Meeting fand am 19. September 2021 statt. Alle Treffen 
 | 8 | [9. Januar 2022](https://youtu.be/JXgQ6YEDCGg) | [Sitzungsnotizen](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | HP-Mechanik (Gesundheitsverlust), verschiedene Fragen aus der Community |
 | 9 | [22. Januar 2022](https://youtu.be/Prx0XzHl6-M) | [Sitzungsnotizen](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | Diverse Fragen aus der Community, Entwicklungs-Update |
 | 10 | [6. Februar 2022](https://youtu.be/xA4nbE8DM4s) | [Sitzungsnotizen](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | Diverse Fragen aus der Community |
+| 11 | [20. Februar 2022](https://youtu.be/d66pU5lsHvE) | - | Mod-Multiplikatoren und Score |
 
 ## Weiterführende Links
 

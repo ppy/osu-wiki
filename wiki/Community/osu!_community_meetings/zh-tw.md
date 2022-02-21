@@ -14,11 +14,11 @@ no_native_review: true
 
 會議通常每兩周召開一次，並提前一天在 [peppy 的 Twitter](https://twitter.com/ppy) 上發布提醒。
 
-下一次的 osu! 社群會議預計在 **2022 年 2 月 20 日 (星期六 07:00 UTC)** 舉行。
+下一次的 osu! 社群會議預定日期將於之後宣布。
 
-*提醒：若上述的會議日期已過，請查看此條目的英文版本以獲取最新日期。*
+<!-- *提醒：若上述的會議日期已過，請查看此條目的英文版本以獲取最新日期。*
 
-<!-- Translation: *Note: If the above date has passed, the most recent date can be found in the English version of this article.* -->
+Translation: *Note: If the above date has passed, the most recent date can be found in the English version of this article.* -->
 
 ## 參與其中
 
@@ -49,6 +49,7 @@ no_native_review: true
 | 8 | [2022 年 1 月 9 號](https://youtu.be/JXgQ6YEDCGg) | [筆記](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | 血量機制 (掉血)、各類由社群提出的問題 |
 | 9 | [2022 年 1 月 22 號](https://youtu.be/Prx0XzHl6-M) | [筆記](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | 各類由社群提出的問題、開發最新進度 |
 | 10 | [2022 年 2 月 6 號](https://youtu.be/xA4nbE8DM4s) | [筆記](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | 各類由社群提出的問題 |
+| 11 | [2022 年 2 月 20 號](https://youtu.be/d66pU5lsHvE) | - |  |
 
 ## 相關連結
 
