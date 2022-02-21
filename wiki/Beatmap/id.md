@@ -97,13 +97,13 @@ Peringkat 500 skor teratas di setiap tingkat kesulitan pada sebuah beatmap akan 
 
 <!-- TODO: charts, as well as Chart Assembly Team, need to be referenced here when they receive a dedicated article (issue #4685) -->
 
-<!-- TODO: would be very cool to have a separate article for osu!lazer as well (issue #4686) -->
+<!-- TODO: would be very cool to have a separate article for osu!(lazer) as well (issue #4686) -->
 
 *Artikel utama: [Beatmap Spotlight](/wiki/Beatmap_Spotlights)*
 
 Pada awalnya, komunitas osu! memiliki berbagai cara untuk menampilkan map-map yang unik dan luar biasa. Salah satu upaya yang dilakukan oleh anggota-anggota komunitas osu! untuk membuat beatmap-beatmap yang luar biasa tersebut menjadi lebih tersorot adalah dengan membuat Ranking Chart bulanan dan musiman yang terdiri dari subset kecil dari beatmap-beatmap yang telah ranked, di mana pemain-pemain teratas pada papan peringkat yang berisi skor total dari pemain pada seluruh map yang telah dimainkan ini akan mendapatkan [osu!supporter](/wiki/osu!supporter).
 
-Seiring berjalannya waktu, sistem Ranking Chart ini kemudian perlahan mulai berubah wujud menjadi [Beatmap Spotlight](/wiki/Beatmap_Spotlights) yang sama, tetapi daftar putar dilakukan di osu!lazer.
+Seiring berjalannya waktu, sistem Ranking Chart ini kemudian perlahan mulai berubah wujud menjadi [Beatmap Spotlight](/wiki/Beatmap_Spotlights) yang sama, tetapi daftar putar dilakukan di osu!(lazer).
 
 ### Kontes beatmap
 

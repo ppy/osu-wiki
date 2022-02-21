@@ -82,4 +82,4 @@ Pengguna yang terhubung melalui klien osu! atau website tidak akan mempunyai pre
 
 ### Seseorang mengirim pesan, tetapi mereka tidak ada dalam daftar pengguna kanal!
 
-Mereka menggunakan [versi web chat](https://osu.ppy.sh/community/chat) atau terhubung melalui klien [osu!lazer](https://github.com/ppy/osu).
+Mereka menggunakan [versi web chat](https://osu.ppy.sh/community/chat) atau terhubung melalui klien [osu!(lazer)](https://github.com/ppy/osu).
