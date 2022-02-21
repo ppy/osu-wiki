@@ -185,7 +185,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 5. Based on their performance in the Qualifier, players will be ranked based on their Z-Sum value (which is the total of all individual Z-Scores in each of the ten Qualifier beatmaps). A brief explanation on the concept of Z-Sum and Z-Scores can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
 6. 32 players with the **highest Z-Sum value** will advance to the knock-out stages.
    - If there are two (or more) players who share the same Z-Sum value, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
-6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
+7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Knock-out stage rules
 
