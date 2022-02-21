@@ -93,7 +93,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 | 28 | ![][flag_ID] [malvon](https://osu.ppy.sh/users/11113661) | 5.92 |
 | 29 | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | 5.76 |
 | 30 | ![][flag_ID] [-TwiHD](https://osu.ppy.sh/users/5470299) | 5.32 |
-| 31 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | 5.30 |
+| 31 | ![][flag_ID] [Dika312](https://osu.ppy.sh/users/741613) | 5.30 |
 | 32 | ![][flag_ID] [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | 4.89 |
 
 ## Mappools
@@ -162,7 +162,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
     - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from the future iterations of the tournament by the Tournament Management.
-    - Usage of any tools and programs that are against [osu!'s community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
+    - Usage of any tools and programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
 
 ### Tournament registration
 
@@ -220,5 +220,5 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Phillipines"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
