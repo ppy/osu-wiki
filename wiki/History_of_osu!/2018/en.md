@@ -10,7 +10,7 @@ After a six-month long hiatus, flyte posted on the [osu!next](https://osunext.tu
 
 The osu!mania 7K World Cup 2018 registrations opened. Community Choice 2017 (previously known as the "Best of" series) voting was opened.
 
-In osu!(lazer), background blurring and the hidden mod were added. osu!mania scrolling speed was implemented. Thanks to cYsmix, a fresh set of default hitsounds was added. osu!catch was vastly improved and autoplay was fixed to be more human-like.
+In the lazer version of osu!, background blurring and the hidden mod were added. osu!mania scrolling speed was implemented. Thanks to cYsmix, a fresh set of default hitsounds was added. osu!catch was vastly improved and autoplay was fixed to be more human-like.
 
 In osu!web, beatmap pack listings were improved, hype and nomination counters were visible to the beatmap listings. Obtaining a permalink to beatmap discussion post was made easier to copy, localisations can now resize the menu upon hovering over the locales, star ratings can be seen on the beatmap listing via hovering the difficulty icon, and sorting of beatmap discussions was added. A limit to only load 250 forum threads and unload others was implemented to avoid heavy memory consumption.
 
