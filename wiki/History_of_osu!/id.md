@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 45d0ff932649c6f2c7f8c76ce5d616154ca0ecf8
+---
+
 # Sejarah osu!
 
 Catatan sejarah osu!, dapat diakses semua di osu! wiki.
