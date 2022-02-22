@@ -111,7 +111,7 @@ osu! n'aurait pas été possible sans les nombreux utilisateurs qui participent 
 
 [L'équipe](/wiki/People/The_Team) : [Développeurs](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Équipe du support](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
 
-[Les contributeurs de la communauté](/wiki/People/Community_Contributors) • [Comité des points de performance](/wiki/People/Performance_Points_Committee) • [Comité des tournois](/wiki/People/Tournament_Committee) • [Utilisateurs ayant des titres uniques](/wiki/People/Users_with_unique_titles)
+[Les contributeurs de la communauté](/wiki/People/Community_Contributors) • [Utilisateurs ayant des titres uniques](/wiki/People/Users_with_unique_titles) • [Comité des tournois](/wiki/People/Tournament_Committee) • [Comité des points de performance](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">

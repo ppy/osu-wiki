@@ -113,7 +113,7 @@ osu! wouldn't have been possible without many users helping with development, ma
 
 [The Team](/wiki/People/The_Team): [Developers](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
 
-[Community Contributors](/wiki/People/Community_Contributors) • [Performance Points Committee](/wiki/People/Performance_Points_Committee) • [Tournament Committee](/wiki/People/Tournament_Committee) • [Users with unique titles](/wiki/People/Users_with_unique_titles)
+[Community Contributors](/wiki/People/Community_Contributors) • [Users with unique titles](/wiki/People/Users_with_unique_titles) • [Tournament Committee](/wiki/People/Tournament_Committee) • [Performance Points Committee](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">
