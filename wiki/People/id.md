@@ -6,4 +6,5 @@ Berikut ini merupakan daftar artikel yang membahas seputar sosok-sosok penting d
 - [Kontributor komunitas](Community_Contributors)
 - [peppy](peppy)
 - [Tim](The_Team)
+- [Performance Points Committee](Performance_Points_Committee)
 - [Tournament Committee](Tournament_Committee)
