@@ -209,7 +209,6 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | 닉네임 | 추가적으로 가능한 언어 |
 | :-- | :-- |
 
-
 #### osu!mania
 
 | 닉네임 | 추가적으로 가능한 언어 |
@@ -234,9 +233,6 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_EG]: /wiki/shared/flag/EG.gif
 [flag_ES]: /wiki/shared.flag/ES.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
@@ -246,7 +242,6 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_IE]: /wiki/shared/flag/IE.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_KZ]: /wiki/shared/flag/KZ.gif
 [flag_LT]: /wiki/shared/flag/LT.gif
@@ -257,14 +252,10 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PR]: /wiki/shared/flag/PR.gif
-[flag_RS]: /wiki/shared/flag/RS.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TN]: /wiki/shared/flag/TN.gif
-[flag_TR]: /wiki/shared/flag/TR.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_UA]: /wiki/shared/flag/UA.gif 
 [flag_US]: /wiki/shared/flag/US.gif

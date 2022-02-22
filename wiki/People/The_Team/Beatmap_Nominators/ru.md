@@ -46,7 +46,7 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-![][flag_PH] [Laplus-](https://osu.ppy.sh/users/7150015) | филиппинский |
+| ![][flag_PH] [Laplus-](https://osu.ppy.sh/users/7150015) | филиппинский |
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | индонезийский |
 | ![][flag_FI] [Aakki](https://osu.ppy.sh/users/11077540) | финский |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |

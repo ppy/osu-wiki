@@ -168,7 +168,6 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 
 <!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->
 
-
 <!--- Updated as of February 17, 2022 with adding Pachiru back into the GMT---> 
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"

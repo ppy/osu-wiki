@@ -203,6 +203,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | :-- | :-- |
 | ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | Sedikit Jepang, sedikit Jerman |
 | ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | Rusia |
+
 #### osu!catch
 
 | Nama | Bahasa tambahan |
