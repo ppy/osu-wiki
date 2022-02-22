@@ -111,12 +111,12 @@ The osu!catch World Cup 2019 was run by various community members.
   2. [uno & D.watt (IOSYS TRAX) - #Endroll (INO) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/732562#fruits/1545604)
   3. [Susumu Hirasawa - Aurora 2 (NachoPiggy) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10978#fruits/49206)
   4. [Shinra-bansho - Zenryoku Happy Life (Hailie) \[Extra\]](https://osu.ppy.sh/beatmapsets/806350#fruits/1692553)
-- HardRock
+- Hard Rock
   1. [Dasu - Nakakapagpabagabag (Bunnrei) \[Schadenfreude\]](https://osu.ppy.sh/beatmapsets/755615#fruits/1590406)
   2. [Ponkichi - Hyakukakai to Shirotokkuri (F D Flourite) \[Axes\]](https://osu.ppy.sh/beatmapsets/934870#fruits/1951696)
   3. [Shindig - Zzz (squirrelpascals) \[I'm Home\]](https://osu.ppy.sh/beatmapsets/802730#fruits/1684963)
   4. [seleP - Scarlet Rose (pkk) \[X\]](https://osu.ppy.sh/beatmapsets/528089#fruits/1120184)
-- DoubleTime
+- Double Time
   1. [Maksim Mrvica - Croatian Rhapsody (ZHSteven) \[Insane\]](https://osu.ppy.sh/beatmapsets/191590#fruits/881329)
   2. [Project Grimoire - Brionac \~Lugh Lamhfhata\~ (Rocma) \[Overdose\]](https://osu.ppy.sh/beatmapsets/734296#fruits/1555121)
   3. [Ni-Sokkususu - Shukusai no Elementalia (Silynn) \[haqi's Insane\]](https://osu.ppy.sh/beatmapsets/203309#fruits/880587)
@@ -140,12 +140,12 @@ The osu!catch World Cup 2019 was run by various community members.
   2. [Gekidan Record - Ares no Tate (- Syamu -) \[Shield of Ares\]](https://osu.ppy.sh/beatmapsets/826598#fruits/1732259)
   3. [KAKU P-MODEL - Big Brother (Mismagius) \[NOGARD Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/992499#fruits/2075541)
   4. [Zhou Li Ming - Pi Li Pa La (bakabaka) \[Extra\]](https://osu.ppy.sh/beatmapsets/136065#fruits/340652)
-- HardRock
+- Hard Rock
   1. [Nekomata Master+ - squall (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/962382#fruits/2015148)
   2. [Halozy - Deconstruction Star (CLSW) \[Twilight Poinsettia\]](https://osu.ppy.sh/beatmapsets/319217#fruits/710613)
   3. [ITO KASHITARO - Yuudachi no Ribbon (Milan-) \[Rain\]](https://osu.ppy.sh/beatmapsets/479811#fruits/1024480)
   4. [e-ZUKA - Assailant in the Night (Saten) \[Speed\]](https://osu.ppy.sh/beatmapsets/52499#fruits/160486)
-- DoubleTime
+- Double Time
   1. [sana - Sunset March (Benita) \[Lacrima's Eventide\]](https://osu.ppy.sh/beatmapsets/959995#fruits/2018434)
   2. [Floating Cloud - Ame no chikumori no chihare (dazzulay) \[Fruit Dance\]](https://osu.ppy.sh/beatmapsets/838420#fruits/1755327)
   3. [Myrath - Endure The Silence (LMT) \[Another\]](https://osu.ppy.sh/beatmapsets/555454#fruits/1213261)
@@ -169,12 +169,12 @@ The osu!catch World Cup 2019 was run by various community members.
   2. [REOL - drop pop candy (chickenbible) \[Step by Step\]](https://osu.ppy.sh/beatmapsets/860838#fruits/1801075)
   3. [DJ YOSHITAKA - Evans (Jerrysr) \[ignore's Another\]](https://osu.ppy.sh/beatmapsets/13694#fruits/50663)
   4. [xi - Mirage Garden (P o M u T a) \[Another445\]](https://osu.ppy.sh/beatmapsets/319940#fruits/726357)
-- HardRock
+- Hard Rock
   1. [Helblinde - Grief & Malice (Kyuare) \[Madness\]](https://osu.ppy.sh/beatmapsets/325817#fruits/723610)
   2. [Mr. Saturn - Saturn (Saturnalize) \[OverdoZe\]](https://osu.ppy.sh/beatmapsets/39797#fruits/356150)
   3. [jippusu - Mushikui Saikede Rhythm (Amamiya Yuko) \[RLC\]](https://osu.ppy.sh/beatmapsets/87547#fruits/240689)
   4. [sakuzyo - Imprinting (Squigly) \[Impress\]](https://osu.ppy.sh/beatmapsets/264299#fruits/602547)
-- DoubleTime
+- Double Time
   1. [Cha Ji Yeon, LDN Noise - My Show (Ollapeu) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/759402#fruits/1597102)
   2. [Tamaki to Yumine (CV: Naganawa Maria Maekawa Ryouko) - Yonaka Jikaru (examination) \[Rain\]](https://osu.ppy.sh/beatmapsets/538744#fruits/1141091)
   3. [SEREBRO - Mi Mi Mi (Speed Up Ver.) (eiri-) \[Fashion Pink Lips\]](https://osu.ppy.sh/beatmapsets/907084#fruits/1892789)
@@ -197,11 +197,11 @@ The osu!catch World Cup 2019 was run by various community members.
   1. [Rigel Theatre - La Sylphide (F D Flourite) \[Collab Aurora (Short ver.)\]](https://osu.ppy.sh/beatmapsets/955131#fruits/2072991)
   2. [ribbon room - mint tears (Rotte) \[Steven's flood tears\]](https://osu.ppy.sh/beatmapsets/117063#fruits/303383)
   3. [luz - Doku Ringo to Cinderella (Ametrin) \[Fairy Tale?\]](https://osu.ppy.sh/beatmapsets/664784#fruits/1406919)
-- HardRock
+- Hard Rock
   1. [Amatsuki - How-to Sekai Seifuku (Crowley) \[Loneliness\]](https://osu.ppy.sh/beatmapsets/695892#fruits/1474313)
   2. [Jin feat. MARiA from GARNiDELiA - daze (short ver.) (luxoDeh) \[Crystal's Overdose\]](https://osu.ppy.sh/beatmapsets/165391#fruits/443046)
   3. [VY1 - Cyber Thunder Cider (tutuhaha) \[Cider\]](https://osu.ppy.sh/beatmapsets/47146#fruits/146610)
-- DoubleTime
+- Double Time
   1. [Kalafina - heavenly blue (Nelly) \[Gloria\]](https://osu.ppy.sh/beatmapsets/662744#fruits/1402831)
   2. [Denkishiki Karen Ongaku Shuudan - Endless ripples (Hareimu) \[Sadness\]](https://osu.ppy.sh/beatmapsets/433029#fruits/1475145)
   3. [Yasuda Rei - Best of my Love (NEVlR) \[A Colorful Path Of Inspiration\]](https://osu.ppy.sh/beatmapsets/910570#fruits/1900083)
@@ -223,11 +223,11 @@ The osu!catch World Cup 2019 was run by various community members.
   1. [OISHII - PIZZA PLAZA (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/767009#fruits/1612277)
   2. [cillia - Donor Song (Hareimu) \[Sinnoh's Rain\]](https://osu.ppy.sh/beatmapsets/711681#fruits/1514441)
   3. [C.G mix - True Eyes (wanhyrzh) \[Final Mission\]](https://osu.ppy.sh/beatmapsets/17386#fruits/62199)
-- HardRock
+- Hard Rock
   1. [ak+q - Excelsia (Sorcerer) \[Rain\]](https://osu.ppy.sh/beatmapsets/737685#fruits/1556895)
   2. [FLOW - COLORS (TV Size) (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/873082#fruits/1824996)
   3. [Dollscythe - Flashes (Extended) (Skystar) \[yf's PP Insane\]](https://osu.ppy.sh/beatmapsets/512648#fruits/1090607)
-- DoubleTime
+- Double Time
   1. [VINXIS - A Centralized View (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/972302#fruits/2035769)
   2. [Kawada Mami - Timeless time (wairo) \[Furely's Rain\]](https://osu.ppy.sh/beatmapsets/333441#fruits/1359832)
   3. [YUI - Rolling star (pkhg) \[Insane\]](https://osu.ppy.sh/beatmapsets/351838#fruits/775380)
@@ -249,11 +249,11 @@ The osu!catch World Cup 2019 was run by various community members.
   1. [NICODE & M2U - Predawn (Sulfur) \[Jeir's Rain\]](https://osu.ppy.sh/beatmapsets/748803#fruits/1602530)
   2. [cYsmix - Breeze (wonjae) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/840964#fruits/1761864)
   3. [SID - Ranbu no Melody (TV Size) (Kiddo-Kun) \[Happy's Insane\]](https://osu.ppy.sh/beatmapsets/22648#fruits/86920)
-- HardRock
+- Hard Rock
   1. [Survive Said The Prophet - found & lost (TV Size) (Wei Wuxian) \[Platter\]](https://osu.ppy.sh/beatmapsets/893177#fruits/1866779)
   2. [Y&Co. feat. Karin - Sweet Rain (Sorcerer) \[Platter\]](https://osu.ppy.sh/beatmapsets/738169#fruits/1587421)
   3. [DECO\*27 - Ghost Rule (Awaken) \[G's Harder\]](https://osu.ppy.sh/beatmapsets/413117#fruits/928857)
-- DoubleTime
+- Double Time
   1. [Arashi - Natsu no Owari ni Omou Koto (mingmichael) \[Collab Platter\]](https://osu.ppy.sh/beatmapsets/332814#fruits/741868)
   2. [Helblinde - When Time Sleeps (Sinnoh) \[AFB's Platter\]](https://osu.ppy.sh/beatmapsets/554256#fruits/1743650)
   3. [Kalafina - Oblivious (Melt) \[Oblivious\]](https://osu.ppy.sh/beatmapsets/114188#fruits/295857)
@@ -414,9 +414,9 @@ Sunday, 30 June 2019:
 
 1. The osu!catch World Cup is a country-based team tournament, played on the osu!catch game mode.
    - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
-2. Map scoring will use Score V2.
+2. Map scoring will use ScoreV2.
 3. The maps for each round will be announced by the mapset selectors in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-   - There will be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and a [DoubleTime](/wiki/Game_modifier/Double_Time) bracket.
+   - There will be a [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and a [Double Time](/wiki/Game_modifier/Double_Time) bracket.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
@@ -515,17 +515,17 @@ Sunday, 30 June 2019:
 ### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
-2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time).
+2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time).
 3. Mappools for Groups Stage, Round of 16 and Quarterfinals consists of 16 maps in total.
 4. **Mappools for Semifinals, Finals and Grand Finals consists of 19 maps in total.**
 5. Each mappool has one tiebreaker.
 6. The NoMod bracket will be played with no mods activated.
-7. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
-   - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
+7. The Hidden, Hard Rock and Double Time bracket will be played with the respective modes activated.
+   - When playing a map from the Hard Rock or Double Time pool, Hidden can be used optionally by any player.
 8. The tiebreaker will be played with no mods selected or with the Hidden mod.
 9. There will be 6 maps in the NoMod bracket for all stages.
-10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 3 in Groups Stage, Round of 16 and Quarterfinals.
-11. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 4 in Semifinals, Finals and Grand Finals.
+10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time) brackets will be 3 in Groups Stage, Round of 16 and Quarterfinals.
+11. The size of the [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time) brackets will be 4 in Semifinals, Finals and Grand Finals.
 
 ### Scheduling instructions
 

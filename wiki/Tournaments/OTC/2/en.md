@@ -136,11 +136,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Zhou Li Ming - Pi Li Pa La (bakabaka) \[Extra\]](https://osu.ppy.sh/beatmapsets/136065#osu/340652)
   2. [Y&Co. - Daisuke (moph) \[moph's Expert\]](https://osu.ppy.sh/beatmapsets/697087#osu/1481149)
   3. [lapix - Foolish Hero (P\*Light Remix) (Cassu2) \[Irrationality 2.0\]](https://osu.ppy.sh/beatmapsets/551111#osu/1454407)
-- HardRock
+- Hard Rock
   1. [Function Phantom - Euclid (byfar) \[Fifth Postulate\]](https://osu.ppy.sh/beatmapsets/419614#osu/908093)
   2. [M2U - Velocity (Karen) \[Expert\]](https://osu.ppy.sh/beatmapsets/593985#osu/1256483)
   3. [Memme - Avalanche (Starfy) \[Extreme\]](https://osu.ppy.sh/beatmapsets/611095#osu/1318360)
-- DoubleTime
+- Double Time
   1. [Lon - Yuru Fuwa Jukai Girl (Mystica) \[Mystica's Insane\]](https://osu.ppy.sh/beatmapsets/49686#osu/155438)
   2. [Reol - Gokusaishiki (Hakurei Yoru) \[Yoru's Insane\]](https://osu.ppy.sh/beatmapsets/422369#osu/954129)
   3. [Camellia - Towards The Horizon (Zexous) \[Zexous' Insane\]](https://osu.ppy.sh/beatmapsets/578445#osu/1325051)
@@ -162,11 +162,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Beatdrop - Phase 1 (rickyboi) \[SHD\]](https://osu.ppy.sh/beatmapsets/54511#osu/168031)
   2. [Ocelot - KAEDE (Moecho) \[Moecho's EX\]](https://osu.ppy.sh/beatmapsets/660630#osu/1551210)
   3. [Memme - Blessing Snow (sahuang) \[sahuang's Extra\]](https://osu.ppy.sh/beatmapsets/688128#osu/1456309)
-- HardRock
+- Hard Rock
   1. [Skrillex & Diplo - To U ft AlunaGeorge (NeilPerry, schoolboy) \[Neil & schoolboy Extra\]](https://osu.ppy.sh/beatmapsets/723626#osu/1538272)
   2. [Sota Fujimori - Move That Body -Extended Mix- (Skystar) \[Extreme\]](https://osu.ppy.sh/beatmapsets/220220#osu/538404)
   3. [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (RLC) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/581787#osu/1481178)
-- DoubleTime
+- Double Time
   1. [Susumu Hirasawa - Big Brother (Gens) \[Insane\]](https://osu.ppy.sh/beatmapsets/10714#osu/41586)
   2. [monet - Noborenai Sakamichi (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/671607#osu/1424776)
   3. [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Spork Lover) \[Spork Lover's Insane\]](https://osu.ppy.sh/beatmapsets/710329#osu/1502635)
@@ -188,11 +188,11 @@ This competition has come to an end and resulted in the following podium:
   1. [YUC'e - Sengoku HOP (Nathan) \[YOISHO\]](https://osu.ppy.sh/beatmapsets/564329#osu/1193089)
   2. [Suzaku - VANESSA (ignorethis) \[Extra\]](https://osu.ppy.sh/beatmapsets/27862#osu/100981)
   3. [Eagle - Hypersonik (NeilPerry) \[NeilPerry\]](https://osu.ppy.sh/beatmapsets/517959#osu/1104818)
-- HardRock
+- Hard Rock
   1. [Ocelot - TSUBAKI (Hollow Wings) \[Extra\]](https://osu.ppy.sh/beatmapsets/364574#osu/832152)
   2. [fhana - Hello!My World!! (toybot, Haruto) \[toyruto's Insane\]](https://osu.ppy.sh/beatmapsets/657341#osu/1414767)
   3. [M2U & NICODE feat. Guriri & Lucy - Myosotis (Kloyd) \[Kloyd's Extreme\]](https://osu.ppy.sh/beatmapsets/439323#osu/947796)
-- DoubleTime
+- Double Time
   1. [USAO - Miracle 5ympho X (Extended Mix) (Asphyxia) \[Asphyxia's Hard\]](https://osu.ppy.sh/beatmapsets/230739#osu/775814)
   2. [BUTAOTOME - Makkuro na Yuki (Mirash, PandaHero) \[Collab Lunatic\]](https://osu.ppy.sh/beatmapsets/627338#osu/1413933)
   3. [Mitchie M feat. Hatsune Miku with KAITO - Ohedo Julia-Night (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/664099#osu/1413791)
@@ -214,11 +214,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Reol - FLASH BACK (Nathan) \[BLACKOUT\]](https://osu.ppy.sh/beatmapsets/409397#osu/888715)
   2. [Zekk - Calling (Mirash) \[Mirash's Another\]](https://osu.ppy.sh/beatmapsets/673878#osu/1427700)
   3. [a\_hisa - Fanatiker der Liebe \[Extra\]](http://osu.uu.gl/s/167091)
-- HardRock
+- Hard Rock
   1. [syrela - Pulsation (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/677886#osu/1433497)
   2. [Powerless - Soleil (DTM9 Nowa, \_DT3) \[#3: DTM9 Nowa & \_DT3\]](https://osu.ppy.sh/beatmapsets/721494#osu/1524297)
   3. [Sota Fujimori - DANCE ALL NIGHT (DTM9 Nowa) [Nowa's Insane]](https://osu.ppy.sh/beatmapsets/600303#osu/1310291)
-- DoubleTime
+- Double Time
   1. [Jeff Williams - Time to say Goodbye (feat. Casey Lee Williams) (Pho) \[Hyper\]](https://osu.ppy.sh/beatmapsets/237854#osu/628995)
   2. [Anamanaguchi - Prom Night (Bonsai) \[Insane\]](https://osu.ppy.sh/beatmapsets/398797#osu/867655)
   3. [LYOD 9 - 999 (TicClick) \[Insane\]](https://osu.ppy.sh/beatmapsets/463334#osu/992107)
@@ -240,11 +240,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Nizikawa - F.K.S. (Pho) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/385427#osu/842512)
   2. [Nekomata Master - Greening (Lulu-) \[Tranquility\]](https://osu.ppy.sh/beatmapsets/530173#osu/1482351)
   3. [S3RL feat Harri Rush - Nostalgic (Nightcore Mix) (yf\_bmp) \[yf's Insane\]](https://osu.ppy.sh/beatmapsets/591442#osu/1307142)
-- HardRock
+- Hard Rock
   1. [Utagumi Setsugekka - Yumemi Sunrise (Zweib) \[Insane\]](https://osu.ppy.sh/beatmapsets/132312#osu/338862)
   2. [Sota Fujimori - polygon (fanzhen0019) \[fanzhen's Another\]](https://osu.ppy.sh/beatmapsets/559097#osu/1232328)
   3. [tofubeats - CANDYYYLAND feat LIZ (Plaudible, Hobbes2) \[Plaubbes' Light Insane\]](https://osu.ppy.sh/beatmapsets/663519#osu/1435453)
-- DoubleTime
+- Double Time
   1. [Mizuki Nana - Shin Ai (Shad0w1and) \[Insane\]](https://osu.ppy.sh/beatmapsets/432550#osu/936014)
   2. [Memme - Cherry Blossom (Leader) \[Leader's Hard\]](https://osu.ppy.sh/beatmapsets/442581#osu/964066)
   3. [IAMX - Tear Garden (PandaHero, IceBeam) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/690400#osu/1461203)
@@ -431,7 +431,7 @@ Monday, 16 April 2018:
    - Teams are not required to ban two maps and may ban one or zero maps if they wish.
 5. The captain of the highest rolling team will choose the first map to be played. Once the first map is complete, the opposing captain will then choose second map. Teams will continue alternating picks until the match is complete.
    - If both teams reach match point (e.g. both teams are one point away from victory) the tiebreaker will be played to decide the winner of the match.
-   - The tiebreaker is FreeMod. The allowed mods are Easy, HardRock, Hidden, and Flashlight. Combining mods is allowed, as well as using nomod. All mods are optional.
+   - The tiebreaker is FreeMod. The allowed mods are Easy, Hard Rock, Hidden, and Flashlight. Combining mods is allowed, as well as using nomod. All mods are optional.
 
 ### Referee match procedure
 

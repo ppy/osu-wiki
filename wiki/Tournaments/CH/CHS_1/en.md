@@ -106,11 +106,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Morimori Atsushi - Tits or get the fuck out!! (EvilElvis) \[Chastity\]](https://osu.ppy.sh/beatmapsets/352169#osu/776107)
   2. [Yamai - E? Aa, Sou. (Faito) \[?\]](https://osu.ppy.sh/beatmapsets/1245259#osu/2588430)
   3. [Zekk - SUMMER (Typ4) \[Paradise\]](https://osu.ppy.sh/beatmapsets/971592#osu/2034284)
-- HardRock
+- Hard Rock
   1. [XX:me - Escape (jonathanlfj) \[Freedom\]](https://osu.ppy.sh/beatmapsets/811119#osu/1701563)
   2. [DragonForce - Ashes of the Dawn (pw384) \[Extra\]](https://osu.ppy.sh/beatmapsets/786141#osu/1650328)
   3. [tarolabo - Zeitmesser (Charles445) \[Expert\]](https://osu.ppy.sh/beatmapsets/310339#osu/693542)
-- DoubleTime
+- Double Time
   1. [Utagumi Setsugekka - Yumemi Sunrise (Zweib) \[Insane\]](https://osu.ppy.sh/beatmapsets/132312#osu/338862)
   2. [Grynpyret - Boba Beach (VINXIS) \[Habanero\]](https://osu.ppy.sh/beatmapsets/327224#osu/726289)
   3. [Kola Kid - timer (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/1089084#osu/2277128)
@@ -139,11 +139,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Tamaonsen - COZMIC DRIVE feat.Youko (caren\_sk) \[CRN MORE DRIVE\]](https://osu.ppy.sh/beatmapsets/78859#osu/220330)
   2. [DJ YOSHITAKA - ALBIDA (TKiller) \[Another\]](https://osu.ppy.sh/beatmapsets/23416#osu/80200)
   3. [Sota Fujimori - polygon (Sebu) \[-PC's hexagon\]](https://osu.ppy.sh/beatmapsets/422136#osu/1028537)
-- HardRock
+- Hard Rock
   1. [Harada Hitomi - Kyoumei no True Force (Kibbleru) \[Ex\]](https://osu.ppy.sh/beatmapsets/454893#osu/975153)
   2. [Renard - Banned Forever (Blue Dragon) \[Lesjuh\]](https://osu.ppy.sh/beatmapsets/16349#osu/64266)
   3. [L.E.D.-G - SOUND OF GIALLARHORN (Priti) \[Alu's Extra\]](https://osu.ppy.sh/beatmapsets/155457#osu/381301)
-- DoubleTime
+- Double Time
   1. [FELT - Story (Yohanes) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/297409#osu/944709)
   2. [senya - Zouka de Arou to Shita Mono (Satellite) \[Giralda's Lunatic\]](https://osu.ppy.sh/beatmapsets/495283#osu/1107464)
   3. [DystopiaGround - True Theory of Inheritance (Ignacio) \[Insane\]](https://osu.ppy.sh/beatmapsets/24477#osu/83215)
@@ -169,11 +169,11 @@ This competition has come to an end and resulted in the following podium:
   1. [lapix - Nexta (Realazy) \[Ayyri's GRAVITY\]](https://osu.ppy.sh/beatmapsets/1050635#osu/2319981)
   2. [beatMARIO - Night of Knights (DJPop) \[SOLO\]](https://osu.ppy.sh/beatmapsets/15920#osu/58063)
   3. [Katakiri Rekka - Answer (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/39953#osu/127047)
-- HardRock
+- Hard Rock
   1. [Omoi - Nee William (Riven) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/920536#osu/1923556)
   2. [DJ Ozawa - Tokyo (Innovaderz Remix) (Asphyxia) \[Kloyd's Extra\]](https://osu.ppy.sh/beatmapsets/333139#osu/762853)
   3. [Pastel\*Palettes - Happy Synthesizer (M1keL) \[CS4.5\]](https://osu.ppy.sh/beatmapsets/1242915#osu/2584027)
-- DoubleTime
+- Double Time
   1. [fourfolium - SAKURA Skip (Doormat) \[HB & Sotarks' Insane\]](https://osu.ppy.sh/beatmapsets/488619#osu/1053188)
   2. [His World (buraimaster1234) \[Insane\]](https://osu.ppy.sh/beatmapsets/2490#osu/19696)
   3. [Rin - Kishinjou set 07 \~ Magical Storm (eiri-) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/968147#osu/2025904)
@@ -199,11 +199,11 @@ This competition has come to an end and resulted in the following podium:
   1. [S3RL - Catchit (Radio Edit) (Rolniczy) \[Ex\]](https://osu.ppy.sh/beatmapsets/839864#osu/1848985)
   2. [Tatsh - Cruel Moon (Shinxyn) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13584#osu/50148)
   3. [Ryu\* Vs. L.E.D.-G Vs. ZUN - PARADISE GHOST (Pokie) \[Extra\]](https://osu.ppy.sh/beatmapsets/67133#osu/195305)
-- HardRock
+- Hard Rock
   1. [Foo Fighters - The Pretender (Pachiru) \[pkk's Extra\]](https://osu.ppy.sh/beatmapsets/849640#osu/1776628)
   2. [YOASOBI - Ano Yume o Nazotte (eiri-) \[Love\]](https://osu.ppy.sh/beatmapsets/1128515#osu/2357718)
   3. [m@sumi - Hengen Jizai (thzz) \[Beomsan's Extra\]](https://osu.ppy.sh/beatmapsets/595456#osu/1572774)
-- DoubleTime
+- Double Time
   1. [SoundTeMP - M.I.S.A (silklash) \[Insane\]](https://osu.ppy.sh/beatmapsets/39985#osu/127136)
   2. [senya - Saihate no Kotoba (Satellite) \[Ghostly\]](https://osu.ppy.sh/beatmapsets/174417#osu/905424)
   3. [Rib - Jitter Doll (Kalibe) \[Insane\]](https://osu.ppy.sh/beatmapsets/634997#osu/1350132)
@@ -230,10 +230,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Liz Triangle - Immortal Philosophy (Jounzan) \[Kalash x Jounzaphore feat. Delis' Tragicomedy Collab Lunatic\]](https://osu.ppy.sh/beatmapsets/941212#osu/1968860)
   2. [Tatsh - 24th Century BOY (Takos) \[Another\]](https://osu.ppy.sh/beatmapsets/42997#osu/135051)
-- HardRock
+- Hard Rock
   1. [Yousei Teikoku - Mischievous of Alice (Delis) \[Extra\]](https://osu.ppy.sh/beatmapsets/623960#osu/1320835)
   2. [HyuN - Guitian (ScubDomino) \[Insane\]](https://osu.ppy.sh/beatmapsets/891348#osu/1863256)
-- DoubleTime
+- Double Time
   1. [TWICE - Heart Shaker (iYiyo) \[iYikhg's Insane Shaker\~\]](https://osu.ppy.sh/beatmapsets/705597#osu/1498981)
   2. [REOL - Give me a break Stop now (Chaoslitz) \[Chaosversible's Insane\]](https://osu.ppy.sh/beatmapsets/497483#osu/1074000)
   3. [doriko feat. Hatsune Miku - Paradise Cage (KanbeKotori) \[Insane\]](https://osu.ppy.sh/beatmapsets/23483#osu/80384)
@@ -257,10 +257,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Zektbach - Turii \~Panta rhei\~ (celerih) \[Muya's Another\]](https://osu.ppy.sh/beatmapsets/800638#osu/1731136)
   2. [x0o0x_ - Big Brother (Luscent) \[DADA'S INSANE Mix\]](https://osu.ppy.sh/beatmapsets/1120687#osu/2468315)
-- HardRock
+- Hard Rock
   1. [Katakiri Rekka - Answer (ShirohaMyMommy) \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1062653#osu/2278618)
   2. [TOTTO - Onigami (Kloyd) \[Expert\]](https://osu.ppy.sh/beatmapsets/215069#osu/505195)
-- DoubleTime
+- Double Time
   1. [yanaginagi - landscape (\[Vincent\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/244001#osu/563370)
   2. [Skrillex - Imma Try It Out (feat. Alvin Risk) (Foreverends) \[Endsane\]](https://osu.ppy.sh/beatmapsets/76662#osu/234818)
 
@@ -468,7 +468,7 @@ Monday, 17 August 2020:
 
 ## Ruleset
 
-1. Coffee Hispanic Showdown is a **2v2 osu! tournament** and will use **Score V2** as the scoring system.
+1. Coffee Hispanic Showdown is a **2v2 osu! tournament** and will use **ScoreV2** as the scoring system.
 2. The tournament will use **double-elimination** bracket system, meanings you have 2 chance of losing before getting eliminated from the tournament.
 3. This is a tournament where only players from [Hispanic countries](https://en.wikipedia.org/wiki/Hispanic#Spanish-speaking_countries_and_regions) can enter. In case of having a non-hispanic flag but being Hispanic, players should justify with the organizer regarding their nationality.
 4. There are 2 tiers splitted by osu! ranks, more details below:
@@ -480,7 +480,7 @@ Monday, 17 August 2020:
      - The composition was decided by the [team picker](#organisation)
 6. Teams will ban **1 map** during the Round of 16 stage, from Quarterfinals and onwards teams will ban **2 maps**.
 7. The team with the highest `!roll` **bans second and picks first**. The team with the lowest `!roll` **bans first and picks second**.
-8. FreeMod mod will be played when 2 players have different mod set (e.g. Player 1 use Hidden and Player 2 use HardRock).
+8. FreeMod mod will be played when 2 players have different mod set (e.g. Player 1 use Hidden and Player 2 use Hard Rock).
 9. Failed scores count
 10. The winning conditions for each stage are listed below:
     - the Round of 16: Best-of-9 (First to 5 points)

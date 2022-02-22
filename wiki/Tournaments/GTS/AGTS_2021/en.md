@@ -132,10 +132,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Gomitaro - S4y G00dby3 (Genjuro) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1454482#taiko/2990084)
   2. [M2U - Felis (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1497426#taiko/3069309)
-- HardRock
+- Hard Rock
   1. [m1dy - ONIGOROSHI (Ak1o) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1497458#taiko/3069358)
   2. [goreshit - lovism (KyouRekii87) \[Taiko-K\]](https://osu.ppy.sh/beatmapsets/1028927#taiko/2151445)
-- DoubleTime
+- Double Time
   1. [DUSTCELL - Anemone (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1417821#taiko/2921322)
   2. [RichaadEB - The World Revolving (K4L1) \[Nishizumi's Oni\]](https://osu.ppy.sh/beatmapsets/1323017#taiko/2893514)
 - FreeMod
@@ -159,10 +159,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [REDALiCE & cosMo@Bousou-P - ANGEL HALO (TKS) \[Oni\]](https://osu.ppy.sh/beatmapsets/1439767#taiko/2962325)
   2. [brz1128 - Howlin' Pumpkin (In Dark Sky) \[Happy Hallowe'en !\]](https://osu.ppy.sh/beatmapsets/1358771#taiko/2811722)
-- HardRock
+- Hard Rock
   1. [BlackYooh vs. siromaru - BLACK or WHITE? (komasy) \[agOni\]](https://osu.ppy.sh/beatmapsets/504720#taiko/1186548)
   2. [HARI KARI - MIRROR FRAGMENT (D3kuu) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/971297#taiko/2034220)
-- DoubleTime
+- Double Time
   1. [Gramatik & Anomalie (Feat. Waka Flocka Flame & Chrishira Perrier) - Requiem for Peace (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/1369472#taiko/2831758)
   2. [Ayumi. - Hanagoyomi (yassu-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/469153#taiko/2346117)
 - FreeMod
@@ -186,10 +186,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [sasakure.UK - Jack-the-Ripper (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1442513#taiko/2967287)
   2. [Powerless - Noblesse Oblige (Faputa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1446968#taiko/2975771)
-- HardRock
+- Hard Rock
   1. [LeaF - Evanescent (Vulkin) \[Ulqui's Inner Oni\]](https://osu.ppy.sh/beatmapsets/802984#taiko/2394905)
   2. [MYUKKE. - ROAD to 773H (ikin5050) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1345190#taiko/2785956)
-- DoubleTime
+- Double Time
   1. [Eve - Heart Forecast (Raphalge) \[Inner Oni (edit)\]](https://osu.ppy.sh/beatmapsets/1175679#taiko/3043660)
   2. [Sakuzyo - Eater Merry (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1097688#taiko/2293612)
 - FreeMod
@@ -212,10 +212,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [HAND EYE - Let's Go KILL Everybody!!! (7\_7) \[Korose\]](https://osu.ppy.sh/beatmapsets/1398885#taiko/2886285)
   2. [pm04034 - Tatataaa (Axer) \[Pianitox\]](https://osu.ppy.sh/beatmapsets/1402993#taiko/2894036)
-- HardRock
+- Hard Rock
   1. [tokiwa feat. Sanso Nakamura - Kotodama Refrain (katagiri Bootleg) (snowball112) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1426769#taiko/2937902)
   2. [paraoka - vivid landscape (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1378728#taiko/2848909)
-- DoubleTime
+- Double Time
   1. [Hideki Naganuma - PUMPIN' JUMPIN' (HiroK) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/1478372#taiko/3032970)
   2. [Becky - I Wanna Be A Ninja (\[R\]) \[Oni\]](https://osu.ppy.sh/beatmapsets/1051314#taiko/2198465)
 - FreeMod
@@ -238,10 +238,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [DJ TOTTO feat. \*spiLa\* - Illumina (KinomiCandy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/457263#taiko/979771)
   2. [onumi - FAKE (Nifty) \[ONI\]](https://osu.ppy.sh/beatmapsets/936681#taiko/2598148)
-- HardRock
+- Hard Rock
   1. [+TEK - CUBIC VOID (Ak1o) \[3D\]](https://osu.ppy.sh/beatmapsets/1471361#taiko/3020630)
   2. [LeaF - Exclusive Utopia (Ryui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/160041#taiko/390968)
-- DoubleTime
+- Double Time
   1. [inabakumori - Haru no Sekibaku (Gamelan4) \[Oni\]](https://osu.ppy.sh/beatmapsets/1467922#taiko/3014294)
   2. [Utagumi Setsugetsuka - Maware! Setsugetsuka (you Remix) (komasy) \[EM's Oni\]](https://osu.ppy.sh/beatmapsets/697523#taiko/1477486)
 - FreeMod
@@ -263,10 +263,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Nekomata Master feat. Shimotsuki Haruka - Element of SPADA (Nao Tomori) \[AGTS ver.\]](https://osu.ppy.sh/beatmapsets/1382702#taiko/2998243)
   2. [Halozy - Serenade of Love (OnosakiHito) \[Oni\]](https://osu.ppy.sh/beatmapsets/70738#taiko/203304)
-- HardRock
+- Hard Rock
   1. [Maxo - Forsaken City (Sever the Skyline Mix) (Gamelan4) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1464126#taiko/3007339)
   2. [nora2r - B.B.K.K.B.K.K. (duski) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1396013#taiko/2881348)
-- DoubleTime
+- Double Time
   1. [subeteanatanoseidesu - N (Reficul) \[Oni (GTS Edit.)\]](https://osu.ppy.sh/beatmapsets/1302978#taiko/3007320)
   2. [Shirakami Fubuki - Say! Fanfare! (KTYN) \[komasy's Oni\]](https://osu.ppy.sh/beatmapsets/1146524#taiko/2407349)
 - FreeMod
@@ -285,9 +285,9 @@ This competition has come to an end and resulted in the following podium:
   2. [Camellia feat. Nanahira - PAPAYAPA BASS (uone) \[Oni\]](https://osu.ppy.sh/beatmapsets/806740#taiko/1693366)
 - Hidden
   1. [brz1128 - Plumage (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/690676#taiko/1461687)
-- HardRock
+- Hard Rock
   1. [Erik McClure - DioSynth (xfraczynho) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/615009#taiko/1297310)
-- DoubleTime
+- Double Time
   1. [succducc - me & u (Genjuro) \[Oni\]](https://osu.ppy.sh/beatmapsets/1222538#taiko/2542875)
 
 ## Match results
@@ -447,7 +447,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 1. This tournament is a **2v2 team tournament** with teams of **5 players maximum**.
 2. The teams will first go through qualifiers. Then they will play in a Group Stage and finally play in a double-elimination bracket.
-3. The scoring system used will be Score V2.
+3. The scoring system used will be ScoreV2.
 4. Any player who meets the requirements stated in the [restrictions and registrations](#restrictions-and-registrations) section is allowed to sign up. Since this tournament will aim to get badged some players might be declined by osu! staff.
 5. Any members of staff apart from organizers, mappoolers, and referees are allowed to play.
 6. Players and staff members must have read this ruleset entirely.
@@ -504,12 +504,12 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 1. There will be 1 mappool for each of the following: Qualifiers, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals, and Grand Finals. For the 1v1 tournaments, every mappool will be different per region.
 2. The Loser's Bracket will play on the same pool as the Winner's bracket of the same weekend.
-3. The Qualifiers pool will be different from all the other rounds, as it will have a format of 2 NoMod maps, 1 Hidden map, 1 HardRock map, 1 DoubleTime map.
-4. Each mappool consists of 6 brackets: **NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker**.
+3. The Qualifiers pool will be different from all the other rounds, as it will have a format of 2 NoMod maps, 1 Hidden map, 1 Hard Rock map, 1 Double Time map.
+4. Each mappool consists of 6 brackets: **NoMod, Hidden, Hard Rock, Double Time, FreeMod, and Tiebreaker**.
 5. The Group Stage mappool will consist of 14 maps, Round of 16 and Quarterfinals mappool will consist of 15 maps, Semifinals, Finals and Grand Finals mappool will consist of 16 maps.
-6. The size of the Hidden, HardRock and DoubleTime brackets will be 2 in all stages and 3 for the FreeMod bracket in all stages as well.
-7. The FreeMod pool is played with FreeMod activated. Every player **has** to pick Hidden, HardRock or both. And at least one player of each team must have at least one mod activated.
-8. Player must select different mod combinations with their team member. (e.g. both are using hidden or both are using HardRock)
+6. The size of the Hidden, Hard Rock and Double Time brackets will be 2 in all stages and 3 for the FreeMod bracket in all stages as well.
+7. The FreeMod pool is played with FreeMod activated. Every player **has** to pick Hidden, Hard Rock or both. And at least one player of each team must have at least one mod activated.
+8. Player must select different mod combinations with their team member. (e.g. both are using hidden or both are using Hard Rock)
 9. The Tiebreaker is played under FreeMod conditions but it is not necessary to have mod activated for both teams.
 10. The mappool for each stage will be showcased a week beforehand.
 

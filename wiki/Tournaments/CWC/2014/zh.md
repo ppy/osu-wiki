@@ -138,12 +138,12 @@ outdated: true
   2. [FOLiACETATE - Heterochromia Iridis (ktgster) \[Terror\]](https://osu.ppy.sh/beatmapsets/106443#fruits/279481)
   3. [Hatsune Miku & Megpoid Gumi - Ashurashurashura (Asgard) \[Insane\]](https://osu.ppy.sh/beatmapsets/36248#fruits/148911)
   4. [Nekomata Master - Smile of Split (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/56847#fruits/171678)
-- HardRock
+- Hard Rock
   1. [t+pazolite - Kick-ass Kung-fu Carnival (Zapy) \[Apocalypse\]](https://osu.ppy.sh/beatmapsets/70469#fruits/202799)
   2. [Akiakane - FlashBack (Kiiwa) \[Insane\]](https://osu.ppy.sh/beatmapsets/54672#fruits/166126)
   3. [Caravan Palace - Dragons (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/46733#fruits/145361)
   4. [paraoka - boot (rickyboi) \[Shoe\]](https://osu.ppy.sh/beatmapsets/50131#fruits/154226)
-- DoubleTime
+- Double Time
   1. [Zektbach - L'avide (eXseeD) \[gowww\]](https://osu.ppy.sh/beatmapsets/29496#fruits/103403)
   2. [ETIA. - Enkan no Kotowari (Rein0527) \[Another\]](https://osu.ppy.sh/beatmapsets/39889#fruits/126859)
   3. [IOSYS - Okuu's Nuclear Fusion Dojo (Mafiamaster) \[v2b's Insane\]](https://osu.ppy.sh/beatmapsets/8442#fruits/37166)
@@ -172,12 +172,12 @@ outdated: true
   2. [sampling masters MEGA - Chat! Chat! Chat! (Zekira) \[ZFN's\]](https://osu.ppy.sh/beatmapsets/24895#fruits/84485)
   3. [Zips - Heisei Cataclysm (Dark Fang) \[0108\]](https://osu.ppy.sh/beatmapsets/72217#fruits/220231)
   4. [Wotamin - Gigantic O.T.N (Star Stream) \[S.S\]](https://osu.ppy.sh/beatmapsets/80214#fruits/223397)
-- HardRock
+- Hard Rock
   1. [Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](https://osu.ppy.sh/beatmapsets/22276#fruits/86324)
   2. [Nekomata Master+ - squall (Rue) \[Insane\]](https://osu.ppy.sh/beatmapsets/66224#fruits/238938)
   3. [Hommarju feat. Latte - masterpiece (simplistiC) \[Insane\]](https://osu.ppy.sh/beatmapsets/12483#fruits/47152)
   4. [Pizuya's Cell x MyonMyon - Romantic Children (Frill) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/18009#fruits/68431)
-- DoubleTime
+- Double Time
   1. [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Crazy Jay\]](https://osu.ppy.sh/beatmapsets/24448#fruits/91462)
   2. [Tatsh - Lunatic Tears...(Tatsh Remix) (Suzully) \[Patche\]](https://osu.ppy.sh/beatmapsets/26743#fruits/90032)
   3. [An - TearVid (Shiirn) \[Another\]](https://osu.ppy.sh/beatmapsets/37980#fruits/121804)
@@ -206,12 +206,12 @@ outdated: true
   2. [Jeff Williams - Red Like Roses (feat. Casey Lee Williams) (Flower) \[Ruby\]](https://osu.ppy.sh/beatmapsets/90128#fruits/244781)
   3. [Megpoid GUMI & Kagamine Rin - Invisible (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/45160#fruits/143036)
   4. [DECO\*27 feat. marina - Aimai Elegy (val0108) \[Red Light \~CtB\~\]](https://osu.ppy.sh/beatmapsets/43248#fruits/155227)
-- HardRock
+- Hard Rock
   1. [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/24325#fruits/82734)
   2. [Dark PHOENiX - Stirring an Autumn Moon (\_lolipop) \[Crazy Moon\]](https://osu.ppy.sh/beatmapsets/16650#fruits/59693)
   3. [ONE OK ROCK - Kanzen Kankaku Dreamer (Kuria) \[Insane\]](https://osu.ppy.sh/beatmapsets/66927#fruits/195165)
   4. [Hatsune Miku - Himitsu Keisatsu (Lalarun) \[Insane\]](https://osu.ppy.sh/beatmapsets/28165#fruits/94005)
-- DoubleTime
+- Double Time
   1. [NH22 - Corrosion (Lena) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/17044#fruits/60941)
   2. [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#fruits/96523)
   3. [COOL&CREATE - Saishoukichiku Imouto Flandre S (dksslqj) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14853#fruits/54145)
@@ -231,7 +231,7 @@ outdated: true
 1. osu! Catch the Beat World 是**基于国家/地区之间的**3v3比赛。
 2. 每场比赛的比赛用图将会在比赛日之前的一个星期日公布。比赛中只能选择公布出来的图。
    - 有一张图是专门用于决胜局。这张图只会在决胜局出现。
-   - 图有可能带有 [Hidden](/wiki/Game_modifier/Hidden)、[HardRock](/wiki/Game_modifier/Hard_Rock)、[DoubleTime 或者自由选择 mod](/wiki/Game_modifier/Double_Time)。
+   - 图有可能带有 [Hidden](/wiki/Game_modifier/Hidden)、[Hard Rock](/wiki/Game_modifier/Hard_Rock)、[Double Time 或者自由选择 mod](/wiki/Game_modifier/Double_Time)。
 3. 比赛日程将会由赛事管理小组公布（暂未公布）。
 4. 如果没有工作人员或者裁判在，比赛将会推迟。
 5. 如果有玩家中途游戏失败，失败的玩家的分数将不会计算分数。
@@ -299,12 +299,12 @@ outdated: true
 ### 图池说明
 
 1. 每个环节都有独立的图池
-2. 每个图池里都有5个模式：NoMod（无mod）、[Hidden](/wiki/Game_modifier/Hidden)、[HardRock](/wiki/Game_modifier/Hard_Rock)、[DoubleTime](/wiki/Game_modifier/Double_Time) 以及 FreeMod（自由选择 mod）
+2. 每个图池里都有5个模式：NoMod（无mod）、[Hidden](/wiki/Game_modifier/Hidden)、[Hard Rock](/wiki/Game_modifier/Hard_Rock)、[Double Time](/wiki/Game_modifier/Double_Time) 以及 FreeMod（自由选择 mod）
 3. 每个图池里会有23张图
 4. 每个图池里都有一张决胜图
 5. 在 NoMod 模式里，没有一个模式会被激活
-6. 在 Hidden、HardRock 和 DoubleTime 模式里，玩家必须激活相应的 mod
-7. 在 FreeMod 模式里，“允许自由选择 mod”将会开启，玩家可以自由选择 mod (Hidden & HardRock)
+6. 在 Hidden、Hard Rock 和 Double Time 模式里，玩家必须激活相应的 mod
+7. 在 FreeMod 模式里，“允许自由选择 mod”将会开启，玩家可以自由选择 mod (Hidden & Hard Rock)
    - 玩家可以激活超过一个 mod
    - 在 FreeMod 模式里，每一个队伍**至少**要有其中一个玩家激活 mod
 8. 决胜图会通过 FreeMod 进行

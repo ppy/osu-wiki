@@ -131,11 +131,11 @@ This competition has come to an end and resulted in the following podium:
   1. [xi - Caramel Custard (nya10) \[Creme [edit ver.]\]](https://osu.ppy.sh/beatmapsets/1038181#osu/2170298)
   2. [Meramipop - Secret Desire - Dyes Remix - (Skystar) \[Irregular\]](https://osu.ppy.sh/beatmapsets/697895#osu/1478218)
   3. [Ray - km/h (TV Size) (Realazy) \[Velocity\]](https://osu.ppy.sh/beatmapsets/775282#osu/1629195)
-- HardRock
+- Hard Rock
   1. [ESTi - HELIX (Edit Ver.) (FreeSongs) \[Helix\]](https://osu.ppy.sh/beatmapsets/331732#osu/734769)
   2. [katagiri - Lu\*nya\*cy Act 2017 (LowComboFC) \[asdf\]](https://osu.ppy.sh/beatmapsets/795798#osu/1671239)
   3. [Zekk - Feelsleft0ut (J1\_) \[Nokris' Extra\]](https://osu.ppy.sh/beatmapsets/821587#osu/1722775)
-- DoubleTime
+- Double Time
   1. [Can't Stop Won't Stop (feat. Fresh Big Mouf) - Mighty & High (thiev) \[Extra\]](https://osu.ppy.sh/beatmapsets/770361#osu/1952154)
   2. [HoneyWorks meets TrySail - Senpai. (-Mo-) \[Satellite's Admission\]](https://osu.ppy.sh/beatmapsets/844351#osu/1766272)
   3. [An - TearVid (Shiirn) \[Another\]](https://osu.ppy.sh/beatmapsets/37980#osu/121804)
@@ -160,11 +160,11 @@ This competition has come to an end and resulted in the following podium:
   1. [The Ghost of 3.13 - Forgotten (nya10) \[Afterlife [Mismagius edit ver.]\]](https://osu.ppy.sh/beatmapsets/1031696#osu/2157359)
   2. [Thaehan - Doki-Doki (FrenZ396) \[Heartbeat\]](https://osu.ppy.sh/beatmapsets/713926#osu/1508844)
   3. [Culprate & Skorpion - Jester (NeilPerry) \[Transcending Dimensions\]](https://osu.ppy.sh/beatmapsets/848259#osu/1773876)
-- HardRock
+- Hard Rock
   1. [a\_hisaxChicking - The Navigator's Hope (Rohit6) \[Endurance of the Seafarer\]](https://osu.ppy.sh/beatmapsets/439225#osu/945304)
   2. [Au5 - Reiteration (NeilPerry) \[Relapse\]](https://osu.ppy.sh/beatmapsets/487775#osu/1392244)
   3. [penoreri - Sailing Force (BarkingMadDog) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/893700#osu/1867667)
-- DoubleTime
+- Double Time
   1. [ClariS - Kimi no shiranai monogatari (Sotarks) \[Kalibe's Insane\]](https://osu.ppy.sh/beatmapsets/728405#osu/1537816)
   2. [Suzaku - Anisakis -somatic mutation type''Forza''- (ouranhshc) \[Black Another\]](https://osu.ppy.sh/beatmapsets/60521#osu/887532)
   3. [Miyuki Hashimoto - Gensou Roukaku (Tsukuyomi) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/369068#osu/808996)
@@ -189,11 +189,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Muzzy - Photons (JrSzZ) \[Asymmetric\]](https://osu.ppy.sh/beatmapsets/967252#osu/2024333)
   2. [Koronba - Iwashi ga Tsuchi kara Haete Kurunda (Damnjelly) \[Sardine\]](https://osu.ppy.sh/beatmapsets/602367#osu/1580728)
   3. [T.M.Generation - X-DEN (Realazy) \[Irohas' Extra feat. Kalibe\]](https://osu.ppy.sh/beatmapsets/961061#osu/2114786)
-- HardRock
+- Hard Rock
   1. [LiSA - Thrill, Risk, Heartless (Doormat) \[Kalibe's Extra\]](https://osu.ppy.sh/beatmapsets/718144#osu/1525778)
   2. [S.S.H - Intersect Thunderbolt-Remix - Celestia Rindoburumu war (nya10) \[Hathz's Extra\]](https://osu.ppy.sh/beatmapsets/1027928#osu/2149401)
   3. [bbn - Identic Conflict (Myxo) \[Black Another \[HP0\]\]](https://osu.ppy.sh/beatmapsets/1020429#osu/2142486)
-- DoubleTime
+- Double Time
   1. [Trident - Purest Blue (Hinsvar) \[Yearning\]](https://osu.ppy.sh/beatmapsets/354514#osu/780858)
   2. [Camellia - crystallized (Smoothie World) \[wa's Insane\]](https://osu.ppy.sh/beatmapsets/399151#osu/965494)
   3. [KurousaP feat. KAITO V3 - Jougen no Tsuki (10nya) \[Touchless\]](https://osu.ppy.sh/beatmapsets/316972#osu/706230)
@@ -218,11 +218,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Rex - Heart Of Witch (EijiKuinbii) \[PP\]](https://osu.ppy.sh/beatmapsets/694203#osu/1474431)
   2. [Ranko - In the Black (Mirash) \[raNko\]](https://osu.ppy.sh/beatmapsets/937562#osu/1958516)
   3. [Thomas Holm - Knep Smerten Vaek (Spork Lover) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/894768#osu/2098377)
-- HardRock
+- Hard Rock
   1. [SynthWulf - Passacaglia (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/758227#osu/1594988)
   2. [Co shu Nie - ZETTAI ZETSUMEI (Crissa) \[Extra\]](https://osu.ppy.sh/beatmapsets/918776#osu/1919057)
   3. [Demetori - Shoujo Satori \~ Innumerable Eyes (A Mystery) \[pishi's Extra\]](https://osu.ppy.sh/beatmapsets/288656#osu/843013)
-- DoubleTime
+- Double Time
   1. [fripSide - black bullet (Cyndere) \[insane: initiator\]](https://osu.ppy.sh/beatmapsets/905839#osu/1894827)
   2. [Tatsh feat. Ayane - Yoiyami no Tsuki ni Dakarete (happy30) \[Collab\]](https://osu.ppy.sh/beatmapsets/249555#osu/573734)
   3. [Gekidan Record feat. Nekomata Master - Houkou Orpheus (celerih) \[Icekalt's White Hard\]](https://osu.ppy.sh/beatmapsets/879051#osu/1840444)
@@ -247,11 +247,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Function Phantom - Paradox (byfar) \[Sing's Another\]](https://osu.ppy.sh/beatmapsets/824125#osu/1734156)
   2. [Sakai Mikio - Identity (TV-size) (taka1235) \[Insane\]](https://osu.ppy.sh/beatmapsets/374073#osu/819488)
   3. [antiPLUR - One Life Left to Live (Leader) \[Expert\]](https://osu.ppy.sh/beatmapsets/962141#osu/2014556)
-- HardRock
+- Hard Rock
   1. [Morimori Atsushi - Applique (Uta) \[Lonely apple\]](https://osu.ppy.sh/beatmapsets/838366#osu/1755242)
   2. [Sakuzyo - Ala Grande (Smoothie World) \[Adventure\]](https://osu.ppy.sh/beatmapsets/394575#osu/858714)
   3. [Nekomata Master - Caring Dance (HanzeR) \[wet\]](https://osu.ppy.sh/beatmapsets/183379#osu/439350)
-- DoubleTime
+- Double Time
   1. [LeaF - Alice in Misanthrope -Ensei Alice- (eiri-) \[Reform's Light Insane\]](https://osu.ppy.sh/beatmapsets/782989#osu/1644001)
   2. [omniboi - BonBon (Kyshiro) \[Ryo's Insane\]](https://osu.ppy.sh/beatmapsets/505729#osu/1092923)
   3. [Kuraki Mai - Your Best Friend (Xinely) \[Together\]](https://osu.ppy.sh/beatmapsets/210114#osu/494368)
@@ -274,10 +274,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Shikata Akiko - TETHE'ALLA \~Tai no Kodomotachi\~ (ScubDomino) \[Lv9's Another\]](https://osu.ppy.sh/beatmapsets/956802#osu/2006992)
   2. [Infinite Stratos Cast - SUPER STREAM \~INFINIT FUTURE Revised MIX\~ (JauiPlaY) \[DisPlaY\]](https://osu.ppy.sh/beatmapsets/29601#osu/98163)
-- HardRock
+- Hard Rock
   1. [M2U - Velocity (BOUYAAA) \[Insane\]](https://osu.ppy.sh/beatmapsets/606309#osu/1280901)
   2. [FELT - Closed Wings (Nanashima Asami) \[Farewell\]](https://osu.ppy.sh/beatmapsets/937213#osu/1957780)
-- DoubleTime
+- Double Time
   1. [SCANDAL - HARUKAZE (Seto Kousuke) \[Insane\]](https://osu.ppy.sh/beatmapsets/823589#osu/1725871)
   2. [kz (livetune) x 8#Prince - Weekender Girl (Sonico Makaron) \[Insane\]](https://osu.ppy.sh/beatmapsets/60488#osu/196686)
 - FreeMod
@@ -298,10 +298,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [onoken - Cristalisia (Mir) \[Fragments\]](https://osu.ppy.sh/beatmapsets/950955#osu/1985946)
   2. [Tatsh - HEAVENLY MOON (Jenny) \[Hyper\]](https://osu.ppy.sh/beatmapsets/336539#osu/778232)
-- HardRock
+- Hard Rock
   1. [Falcom Sound Team jdk - Yume To Kensou No Seichi (Dotsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/44367#osu/139023)
   2. [penoreri - Everlasting Message (ktgster) \[toybot's INFINITE\]](https://osu.ppy.sh/beatmapsets/323000#osu/772461)
-- DoubleTime
+- Double Time
   1. [Ito Kanako - Skyclad no Kansokusha (Linada) \[-Tochi's Insane\]](https://osu.ppy.sh/beatmapsets/416129#osu/972844)
   2. [Kuba Oms - All In All (Venix) \[Insane\]](https://osu.ppy.sh/beatmapsets/961320#osu/2012527)
 
@@ -553,11 +553,11 @@ Sunday, 11 August 2019:
 ### Mappool instructions
 
 1. Mappool per round will consist the following format:
-   - Qualifiers Stage: 4 NoMod, 2 Hidden, 2 HardRock, and 2 DoubleTime maps.
-   - Group Stage: 4 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime, 2 FreeMod, and 1 Tiebreaker maps.
-   - Knockout Stages: 5 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod, and 1 Tiebreaker maps.
+   - Qualifiers Stage: 4 NoMod, 2 Hidden, 2 Hard Rock, and 2 Double Time maps.
+   - Group Stage: 4 NoMod, 2 Hidden, 2 Hard Rock, 2 Double Time, 2 FreeMod, and 1 Tiebreaker maps.
+   - Knockout Stages: 5 NoMod, 3 Hidden, 3 Hard Rock, 3 Double Time, 3 FreeMod, and 1 Tiebreaker maps.
 2. In case of FreeMod, one player from each team are required to put on a mod.
-3. Only one or the combination of either Hidden or HardRock are allowed in FreeMod bracket.
+3. Only one or the combination of either Hidden or Hard Rock are allowed in FreeMod bracket.
 4. There is no restriction for picking/banning a map from the same modool.
 
 ### Scheduling informations

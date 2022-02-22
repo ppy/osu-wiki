@@ -104,10 +104,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [lapix - Future Raver feat. Numb'n'dub (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/963997#taiko/2018209)
   2. [toach - Fill it a Try (tasuke912) \[Edit\]](https://osu.ppy.sh/beatmapsets/824580#taiko/1729490)
-- HardRock
+- Hard Rock
   1. [Umeboshi Chazuke - Bison Charge (Midnaait) \[Bit Crusher\]](https://osu.ppy.sh/beatmapsets/739116#taiko/1559744)
   2. [Zekk - Sugary Daydream (TKS) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/578489#taiko/1224835)
-- DoubleTime
+- Double Time
   1. [Boogie Belgique - Piccadilly (lazyboy007) \[West End\]](https://osu.ppy.sh/beatmapsets/717359#taiko/1515547)
   2. [-12insomnia- - Gravity Blast (Raphalge) \[Liftoff\]](https://osu.ppy.sh/beatmapsets/574961#taiko/1217636)
 - FreeMod
@@ -130,10 +130,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [t+pazolite - blckout (S a n d) \[Sand's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/234541#taiko/543963)
   2. [Vladimir Zelentsov - A.Vivaldi - Summer (Metal Cover) (Grimbow) \[Solstice\]](https://osu.ppy.sh/beatmapsets/694481#taiko/1469275)
-- HardRock
+- Hard Rock
   1. [xi - Glorious Crown (asuasu_yura) \[Special\]](https://osu.ppy.sh/beatmapsets/806381#taiko/1692612)
   2. [Nightmare - Dream to Nightmare (Kqrth) \[Tenebrae\]](https://osu.ppy.sh/beatmapsets/834254#taiko/1747624)
-- DoubleTime
+- Double Time
   1. [EZFG - Hurting for a Very Hurtful Pain (Nwolf) \[Painful Demon\]](https://osu.ppy.sh/beatmapsets/955541#taiko/1995363)
   2. [Memme - Chinese Restaurant (Love) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/243893#taiko/562332)
 - FreeMod
@@ -156,10 +156,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Toromaru - Shounen wa Sora o Tadoru Prog Piano Remix (Skull Kid) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/564918#taiko/1194117)
   2. [renard - destination of the heart (Nofool) \[Hard Oni\]](https://osu.ppy.sh/beatmapsets/464930#taiko/995374)
-- HardRock
+- Hard Rock
   1. [Getty vs. DJ DiA - Ops:Code-Rapture- (eiri-) \[Outer Oni\]](https://osu.ppy.sh/beatmapsets/757450#taiko/1593442)
   2. [goreshit - wasting my time (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/494063#taiko/1052058)
-- DoubleTime
+- Double Time
   1. [wowaka - World's End Dancehall (ROCKETMAN Remix) (Mira-san) \[Stefan's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/88911#taiko/417032)
   2. [nameless - SLoWMoTIoN (Marfuri) \[SLoW oNI\]](https://osu.ppy.sh/beatmapsets/834799#taiko/1748618)
 - FreeMod
@@ -182,10 +182,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [RoughSketch - The Omen (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/566671#taiko/1200352)
   2. [XIzE - will o' the wisp (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/948821#taiko/1981442)
-- HardRock
+- Hard Rock
   1. [Fire EX. - Shattered Dreams (qoot8123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/287251#taiko/648184)
   2. [SOUND HOLIC feat. Nana Takahashi - 1001 -ESCAPE- (Charlotte) \[Kqrth's Escape Oni\]](https://osu.ppy.sh/beatmapsets/857208#taiko/2033297)
-- DoubleTime
+- Double Time
   1. [Pegboard Nerds - BAMF (Dargin) \[Oni\]](https://osu.ppy.sh/beatmapsets/517687#taiko/1099907)
   2. [Rin - Kishinjou set 02 \~ Mermaid from the Uncharted Land (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/951618#taiko/1987309)
 - FreeMod
@@ -207,10 +207,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Akhuta - Nigra Ludia (Kqrth) \[Black Oni\]](https://osu.ppy.sh/beatmapsets/838406#taiko/1755294)
   2. [DIVELA feat. Hatsune Miku - DITHER TUNE (uone) \[uone&Shallty's Inner Oni\]](https://osu.ppy.sh/beatmapsets/844655#taiko/1766838)
-- HardRock
+- Hard Rock
   1. [Furries in a Blender - Storm World (Firce777) \[Oni\]](https://osu.ppy.sh/beatmapsets/319473#taiko/711061)
   2. [FELT - New World (Nao Tomori) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/782955#taiko/1659378)
-- DoubleTime
+- Double Time
   1. [SHW - Ikusa JAPAN (shw.in) (kanpakyin) \[Oni\]](https://osu.ppy.sh/beatmapsets/169969#taiko/411522)
   2. [40mP - Dandan Hayaku Naru (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/697711#taiko/1477882)
 - FreeMod
@@ -321,7 +321,7 @@ Complete Group Stage match results can be accessed through the [statistics sheet
 1. Only Players with a North or South American flag on their account are allowed to register in this tournament. This includes only the following countries: USA, Canada, Mexico, Brazil, Chile, Argentina, Colombia, Venezuela, Uruguay, Paraguay, Peru, Ecuador, Bolivia, Guyana, Suriname, and French Guiana. Countries in the Caribbean and Central America may not sign up for this tournament.
 2. Group Stage matches are seeded based on global rank **at the end of the registration period**.
 3. NSATT will have a Group Stage followed by a knock-out double elimination structure with a loser bracket.
-4. NSATT matches will be 1v1 Taiko in team style format with a point given to the highest score achieved in the Score V2 system.
+4. NSATT matches will be 1v1 Taiko in team style format with a point given to the highest score achieved in the ScoreV2 system.
 5. The win conditions for each stage are as follows.
    - In **Group Stage**, it is Bo7: First to score 4 points wins.
    - In **Round of 16**, it is Bo9: First to score 5 points wins.

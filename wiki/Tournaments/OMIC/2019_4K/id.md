@@ -352,7 +352,7 @@ tags:
 ### Peraturan Turnamen
 
 - Pertandingan akan dilaksanakan setiap hari Sabtu dan Minggu.
-- Sistem skor untuk turnamen ini adalah Score V2.
+- Sistem skor untuk turnamen ini adalah ScoreV2.
 - Mappools tiap ronde akan **diumumkan oleh panitia** setiap hari minggu setelah ronde sebelumnya selesai.
 - Para pemain diharapkan untuk **mengunduh semua map** pada mappool sebelum pertandingan dimulai.
 - Jika tidak ada wasit saat waktu pertandingan, mohon untuk infokan ke **Ketua Panitia**.

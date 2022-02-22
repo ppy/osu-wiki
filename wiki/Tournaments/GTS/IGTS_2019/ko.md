@@ -134,10 +134,10 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 - Hidden
   1. [siromaru + cranky - conflict (Midnaait) \[komasy's Oni\]](https://osu.ppy.sh/beatmapsets/926839#taiko/1935852)
   2. [TERRA - REVOLUTION (TKS) \[MASTER\]](https://osu.ppy.sh/beatmapsets/106822#taiko/280302)
-- HardRock
+- Hard Rock
   1. [Se-U-Ra - The Endless for Traveler (ZethZ161) \[Oni\]](https://osu.ppy.sh/beatmapsets/692388#taiko/1467210)
   2. [Dirty Androids - Seaside Labyrinth (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/687541#taiko/1454920)
-- DoubleTime
+- Double Time
   1. [Nyanners - Gucci Gang (Nifty) \[Uguuci Gang\]](https://osu.ppy.sh/beatmapsets/710007#taiko/1500870)
   2. [Kola Kid - a whole lotta Kola Kid songs (Raphalge) \[good old times\]](https://osu.ppy.sh/beatmapsets/607839#taiko/1283783)
 - FreeMod
@@ -159,11 +159,11 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
   1. [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu - Demise Quartet (Aras25) \[Ozzy's Oni\]](https://osu.ppy.sh/beatmapsets/463431#taiko/1016241)
   2. [Rabpit - Sanctity (tsuka) \[Taiko\]](https://osu.ppy.sh/beatmapsets/50017#taiko/161503)
   3. [t+pazolite - Candy Crack Curtain Call (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/237272#taiko/928806)
-- HardRock
+- Hard Rock
   1. [KNOWER - Overtime (Zetera) \[Onitime\]](https://osu.ppy.sh/beatmapsets/927890#taiko/1938084)
   2. [Nekomata Master+ - POINT ZERO (Nyan) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/303883#taiko/680908)
   3. [TOMOSUKE x Jazzin'park feat. LANA - Kiroku no Kakera (sasakure.UK Framework Remix) (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/369059#taiko/808984)
-- DoubleTime
+- Double Time
   1. [Utsu-P & Minatsuki Toka - Natsu Matsuri (DakeDekaane) \[Oni\]](https://osu.ppy.sh/beatmapsets/132262#taiko/487286)
   2. [Rainbowdragoneyes - Size My Day (Mew104) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/224043#taiko/566293)
   3. [DAOKO - Daisuki with TeddyLoid (Nifty) \[Oni\]](https://osu.ppy.sh/beatmapsets/707331#taiko/1495773)
@@ -192,10 +192,10 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 - Hidden
   1. [Sana - Hoshifuri (TKS) \[Oni\]](https://osu.ppy.sh/beatmapsets/195958#taiko/464760)
   2. [RoughSketch + DD"Nakata"Metal - Booths of Fighters (-Kazu-) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/185427#taiko/443331)
-- HardRock
+- Hard Rock
   1. [Memme - Starving Days (Charles445) \[Oni445\]](https://osu.ppy.sh/beatmapsets/157641#taiko/385907)
   2. [xi - Longinus (Faputa) \[Oni\]](https://osu.ppy.sh/beatmapsets/963975#taiko/2018178)
-- DoubleTime
+- Double Time
   1. [cYsmix - Dovregubben's Hall (Raiden) [Oni]](https://osu.ppy.sh/beatmapsets/363214#taiko/797639)
   2. [Anamanaguchi - Miku ft. Hatsune Miku (Nightcore Mix) (Backfire) \[Lyawi's Oni\]](https://osu.ppy.sh/beatmapsets/886962#taiko/1854203)
 - FreeMod
@@ -219,10 +219,10 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 - Hidden
   1. [Memme - Unison System (Love) \[Oni\]](https://osu.ppy.sh/beatmapsets/185198#taiko/442943)
   2. [40mP feat. Chano - Yuugure One Room (yuzu\_\_rinrin) \[Oni\]](https://osu.ppy.sh/beatmapsets/469504#taiko/1004024)
-- HardRock
+- Hard Rock
   1. [Mili - Summoning 101 (Dellvangel) \[Oni\]](https://osu.ppy.sh/beatmapsets/804107#taiko/1687872)
   2. [MY FIRST STORY - Fukagyaku Replace (Broccoly) \[qoot8123's Oni\]](https://osu.ppy.sh/beatmapsets/383270#taiko/896262)
-- DoubleTime
+- Double Time
   1. [Hanatan - Sarishinohara (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/886776#taiko/1853891)
   2. [Yunomi with Momobako&miko - Soumatou Labyrinth (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/625493#taiko/1319575)
 - FreeMod
@@ -246,10 +246,10 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 - Hidden
   1. [Dzeko & Torres - L'Amour Toujours feat. Delaney Jane (Nightcore Mix) (Rhytoly) \[Oni\]](https://osu.ppy.sh/beatmapsets/890586#taiko/1871013)
   2. [Se-U-Ra - The Endless for Traveler (ZethZ161) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/692388#taiko/1467259)
-- HardRock
+- Hard Rock
   1. [TAMAONSEN - Touhou Tanoshii feat. Matsu (Alwaysyukaz) \[Oni\]](https://osu.ppy.sh/beatmapsets/804456#taiko/1688737)
   2. [Silver Forest feat.Aki - Yami no Mahou Shoujo (\[Belajar-Osu\]) \[Yami no Oni\]](https://osu.ppy.sh/beatmapsets/873256#taiko/1825490)
-- DoubleTime
+- Double Time
   1. [GigaP feat. GUMI, KYO - Ooedo Ranvu (snowball112) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/345381#taiko/762900)
   2. [Yura Hatsuki x Seraph - Le Rouge et le Noir (-Tenshi-) \[Nardo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/365971#taiko/823246)
 - FreeMod
@@ -272,10 +272,10 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 - Hidden
   1. [LukHash - MIDNIGHT LIGHTS (-omicron) \[Fleure De Lapin's Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/987825#taiko/2066572)
   2. [TangJuan vs Black Box - Xetta (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/819907#taiko/1718985)
-- HardRock
+- Hard Rock
   1. [Nekomata Master - Moffing (Tasha) \[MM's Oni\]](https://osu.ppy.sh/beatmapsets/104880#taiko/283871)
   2. [turdl3 - Lunatic Peels \~ Invisible Full Net (Midnaait) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/968108#taiko/2025848)
-- DoubleTime
+- Double Time
   1. [ClariS - Diary (captin1) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/156168#taiko/382737)
   2. [ClariS - Surely (JUDYDANNY) \[Oni\]](https://osu.ppy.sh/beatmapsets/170359#taiko/412493)
 - FreeMod
@@ -298,10 +298,10 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 - Hidden
   1. [lapix - Nexta (TKS) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/726669#taiko/1549620)
   2. [xi - Bad Elixir (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/937808#taiko/1959373)
-- HardRock
+- Hard Rock
   1. [Furries in a Blender - Storm World (OzzyOzrock) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/319805#taiko/711730)
   2. [Feryquitous (Vo.Sennzai) - Koe (SKSalt) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/933777#taiko/1968634)
-- DoubleTime
+- Double Time
   1. [U - Hi-Fi day (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/285279#taiko/644393)
   2. [ONE OK ROCK - Mighty Long Fall (Chromoxx) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/578492#taiko/1225108)
 - FreeMod
@@ -323,10 +323,10 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 - Hidden
   1. [Momokurotei Ichimon - Nippon Egao Hyakkei (Kite) \[Yia's Muzukashii\]](https://osu.ppy.sh/beatmapsets/59569#taiko/179782)
   2. [The Flashbulb - Lawn Wake III (Midnaait) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/458068#taiko/982978)
-- HardRock
+- Hard Rock
   1. [SOUND HOLIC Feat. Nana Takahashi - XINOBIKILL (HiroK) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/744214#taiko/1569197)
   2. [Buta-Otome - Mamanaranai (Karee Pan) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/722051#taiko/1524527)
-- DoubleTime
+- Double Time
   1. [BLACKPINK - AS IF IT'S YOUR LAST (QEpicAce) \[Blackener's Muzukashii (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/980788#taiko/2052592)
   2. [Team "Hanayamata" - Hana wa Odore ya Irohaniho (kjwkjw) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/215845#taiko/506832)
 - FreeMod
@@ -473,7 +473,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 1. 이 토너먼트는 **2대2 팀 대항 토너먼트**이며, 각 팀에는 **최대 5명**의 플레이어가 있습니다.
 2. 각 팀은 처음에 **조별 예선**을 치르며, 그 후로는 **더블-엘리미네이션 방식**으로 경기를 치릅니다.
-3. **Score V2** 방식을 따르게 됩니다..
+3. **ScoreV2** 방식을 따르게 됩니다..
 4. 기본적으로 앞의 순위 제한을 어기지 않는 플레이어는 대회에 참가할 수 있습니다. 다만, 본 대회 이후에 이 대회와 관련된 뱃지가 플레이어에게 수여될 예정이므로, osu! 내의 규정을 최근에 위반한 전적이 있으면 osu! 관리자에 의해 참가 자격이 박탈될 수 있습니다.
 5. **Organizers 총괄자, Mappoolers 맵풀 셀렉터, 그리고 Referees 심판**은 참가가 불가능합니다.
 6. 모든 대회 참여자와 관리자는 이 규칙을 전부 읽어야 합니다. 이 대회는 모두가 그렇게 했다는 가정 하에 진행됩니다.

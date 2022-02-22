@@ -140,11 +140,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Ryu\* - Sakura Mirage (STARLiGHT Mix) (Jean-Michel Jr) \[Illusion\]](https://osu.ppy.sh/beatmapsets/765795#osu/1918015)
   2. [SHK - Holic (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/377869#osu/827223)
   3. [Nanahoshi Kangengakudan - anoko dokonoko (kwk) \[Extra\]](https://osu.ppy.sh/beatmapsets/654452#osu/1387233)
-- HardRock
+- Hard Rock
   1. [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (eiri-) \[Dash's Extra\]](https://osu.ppy.sh/beatmapsets/773330#osu/1656870)
   2. [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/76396#osu/215238)
   3. [Suzuki Konomi - Blow out (Kalibe) \[Meg's Another\]](https://osu.ppy.sh/beatmapsets/617203#osu/1303641)
-- DoubleTime
+- Double Time
   1. [Asakura Momo - Hana ni Akai Ito (domSaur) \[First Love\]](https://osu.ppy.sh/beatmapsets/979061#osu/2048925)
   2. [Chata - Winter Bells (Cilvery) \[Collab\]](https://osu.ppy.sh/beatmapsets/67269#osu/195621)
   3. [AKINO with bless4 - Jet Coaster Ride (Kawaiwkyik) \[Insane\]](https://osu.ppy.sh/beatmapsets/280695#osu/635069)
@@ -167,11 +167,11 @@ This competition has come to an end and resulted in the following podium:
   1. [TERRA - EDEN (Kite) \[handsome's Master\]](https://osu.ppy.sh/beatmapsets/500341#osu/1520670)
   2. [Rita - dorchadas (Delis) \[Sharnoth\]](https://osu.ppy.sh/beatmapsets/580215#osu/1279490)
   3. [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (eINess) \[HARD RENAISSAYAKA\]](https://osu.ppy.sh/beatmapsets/283595#osu/641169)
-- HardRock
+- Hard Rock
   1. [yuikonnu - caramel heaven (Fast) \[Chocolate Heaven\]](https://osu.ppy.sh/beatmapsets/366884#osu/804960)
   2. [solfa feat. Shimotsuki Haruka - leap in your mind (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/818672#osu/1718542)
   3. [Luce Twinkle Wink\* - go to Romance>>>>> (TV Size) (Shanipika) \[Insane\]](https://osu.ppy.sh/beatmapsets/738265#osu/1776645)
-- DoubleTime
+- Double Time
   1. [765PRO ALLSTARS - READY!! (S i R i R u) \[THE OSUM@STER\]](https://osu.ppy.sh/beatmapsets/41121#osu/132903)
   2. [Chata - Harukaze Dance (maaagic) \[Insane\]](https://osu.ppy.sh/beatmapsets/94993#osu/255342)
   3. [moro - Pain Room (tokiko) \[lunatic\]](https://osu.ppy.sh/beatmapsets/709800#osu/1500554)
@@ -194,11 +194,11 @@ This competition has come to an end and resulted in the following podium:
   1. [HyuN & Ritoru - Apocalypse in Love (PandaHero) \[Extra\]](https://osu.ppy.sh/beatmapsets/891338#osu/1863228)
   2. [Tia - Deal with the devil (UndeadCapulet) \[sdafsf's Expert\]](https://osu.ppy.sh/beatmapsets/659328#osu/1427152)
   3. [GEM - Umiyuri Kaiteitan (Loreley) \[Delis' Extra\]](https://osu.ppy.sh/beatmapsets/647452#osu/1571516)
-- HardRock
+- Hard Rock
   1. [singapore - gang poem (Histoire) \[18 DIVINE dragon WINDS clan\]](https://osu.ppy.sh/beatmapsets/670479#osu/1418137)
   2. [yuikonnu - Yakimochi no Kotae -another story- (Lasse) \[Karen's Extra\]](https://osu.ppy.sh/beatmapsets/450533#osu/970605)
   3. [Shihoko Hirata - Pursuing My True Self (Sallad4ever) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/28257#osu/99407)
-- DoubleTime
+- Double Time
   1. [shitoo - Hitotsume Ripper Satsujin Jiken (Noffy) \[Insane\]](https://osu.ppy.sh/beatmapsets/554144#osu/1220333)
   2. [PSY vs. Perfume - A Gangnam Style Hurly Burly (IchiGUN) \[Hinsvar's EXTRA STYLE\]](https://osu.ppy.sh/beatmapsets/59000#osu/179816)
   3. [LABYRINTHS - Yumeji Labyrinth (Shortthu) \[Insane\]](https://osu.ppy.sh/beatmapsets/565869#osu/1285944)
@@ -219,10 +219,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [BLACKPINK - Kill This Love (Marianna) \[schoolboy's Extra\]](https://osu.ppy.sh/beatmapsets/950868#osu/2004985)
   2. [M2U - Quo Vadis (ninfia) \[melloe's Insane\]](https://osu.ppy.sh/beatmapsets/705353#osu/1494582)
-- HardRock
+- Hard Rock
   1. [Yonezu Kenshi - LOSER (Skystar) \[AIR's INSANE\]](https://osu.ppy.sh/beatmapsets/852544#osu/1782567)
   2. [Yuuka - Girls' Carnival (island) \[Kalibe's Insane\]](https://osu.ppy.sh/beatmapsets/852785#osu/1789833)
-- DoubleTime
+- Double Time
   1. [Cosine - Goodbye To Your Memory (sorciere) \[Another\]](https://osu.ppy.sh/beatmapsets/479393#osu/1023688)
   2. [azusa - Check my soul (Sumisola) \[Insane\]](https://osu.ppy.sh/beatmapsets/45664#osu/142462)
   3. [Hatsune Miku - Hello / How are You (Lan wings) \[Insane\]](https://osu.ppy.sh/beatmapsets/42021#osu/134447)
@@ -243,10 +243,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Cranky - Party 4u "Holy Nite Mix" (avira0922) \[Max\]](https://osu.ppy.sh/beatmapsets/7205#osu/31279)
   2. [Mimori Suzuko - Univer Page (maaagic) \[Collab\]](https://osu.ppy.sh/beatmapsets/210395#osu/494960)
-- HardRock
+- Hard Rock
   1. [AcuticNotes - Axeria (Hakurei Yoru) \[Necho's Expert\]](https://osu.ppy.sh/beatmapsets/394238#osu/995180)
   2. [BTS - FAKE LOVE (DeRandom Otaku) \[Insane\]](https://osu.ppy.sh/beatmapsets/787712#osu/1653239)
-- DoubleTime
+- Double Time
   1. [Maki Ligon & Karamitasu - Touhou vs. Fortnite Dance Compilation (Testo) \[Hard\]](https://osu.ppy.sh/beatmapsets/872310#osu/1827843)
   2. [Lon - Sweet Magic (Suzully) \[Insane\]](https://osu.ppy.sh/beatmapsets/36702#osu/120374)
   3. [Smash Mouth - I'm A Believer (CDFA) \[Hard\]](https://osu.ppy.sh/beatmapsets/102615#osu/271000)
@@ -267,10 +267,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [nameless - Theater Love Song (Milan-) \[Insane\]](https://osu.ppy.sh/beatmapsets/307221#osu/687404)
   2. [U2 Akiyama - Mystic Oriental Love Consultation (Hellzero) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/24830#osu/116169)
-- HardRock
+- Hard Rock
   1. [Block B - HER (W h i t e) \[Insane\]](https://osu.ppy.sh/beatmapsets/280597#osu/634879)
   2. [LhoU - Renaissance (sahuang) \[Hyper\]](https://osu.ppy.sh/beatmapsets/506863#osu/1150023)
-- DoubleTime
+- Double Time
   1. [Sota Fujimori - DANCE ALL NIGHT (- Yoshimaro -) \[Morinaga's Insane\]](https://osu.ppy.sh/beatmapsets/600303#osu/1272194)
   2. [ZUN - Kobito of the Shining Needle \~ Little Princess (sjoy) \[Hard\]](https://osu.ppy.sh/beatmapsets/111611#osu/290244)
 - FreeMod
@@ -580,7 +580,7 @@ Sunday, 30 June 2019:
 1. Great Singapore Tournament uses double-elimination bracket and is a 2v2 osu! tournament.
 2. Only players with the country flag of ![][flag_SG] Singapore may participate.
 3. Teams can only have 2 players, this means no substitution.
-4. The score system used will be **Score V2**.
+4. The score system used will be **ScoreV2**.
 5. There is no solo rank range. However there is a team rank range. (No BWS will be used)
 6. The 2 players must have an **average rank of #1,000 - #99,999**.
 7. Maximum team registration is 40 teams.
@@ -606,7 +606,7 @@ Sunday, 30 June 2019:
 8. Teams may pick maps freely from any mod, barring the maps that have been banned.
 9. Once the map choice is locked in, players will have 90 seconds to ready up. The referee will start the match when all players are ready.
    - If the 90 second timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
-10. In the case of a FreeMod being chosen, **all players** will have to choose a mod. Mods allowed: Hidden, HardRock, Flashlight, Easy. (Scores with Easy are mutliplied by 1.5x)
+10. In the case of a FreeMod being chosen, **all players** will have to choose a mod. Mods allowed: Hidden, Hard Rock, Flashlight, Easy. (Scores with Easy are mutliplied by 1.5x)
 11. The winner of a map is determined by which team's scores add up to a higher number. Basically, that just means failed scores count.
 12. If all players on a team are failing at the same time (team fail), common sense will be applied:
     - If the team that failed was clearly (very obviously) going to win the map, they will get the point;

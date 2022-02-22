@@ -114,10 +114,10 @@ This competition has come to an end and resulted in the following podium:
   2. [LeaF - Evanescent (Charles445) \[Aspire\]](https://osu.ppy.sh/beatmapsets/227126#osu/529285)
   3. [kors k - Insane Techniques (HanzeR) \[HanzeR's Extreme\]](https://osu.ppy.sh/beatmapsets/155288#osu/389703)
   4. [kors k feat.RIRE - Nirvana(Camellia's "BinaryHeaven" Remix) (PoNo) \[hovering crystal\]](https://osu.ppy.sh/beatmapsets/625996#osu/1319564)
-- HardRock
+- Hard Rock
   1. [Tokyo Machine - OKAY (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/508998#osu/1082510)
   2. [Renard - Terminal (nold\_1702) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/102282#osu/270490)
-- DoubleTime
+- Double Time
   1. [nano - Now or Never (tutuhaha) \[Never\]](https://osu.ppy.sh/beatmapsets/51755#osu/158495)
   2. [Halozy - Heart of Night (Chaoslitz) \[Life of Loneliness\]](https://osu.ppy.sh/beatmapsets/462878#osu/991229)
 - Tiebreaker
@@ -139,10 +139,10 @@ This competition has come to an end and resulted in the following podium:
   2. [y0c1e - heiju-do (Liiraye) \[Hey Jude\]](https://osu.ppy.sh/beatmapsets/124905#osu/904742)
   3. [Sota Fujimori - VOLTEXES III (Nerova Riuz GX) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/409584#osu/889087)
   4. [utsuP - Adult's Toy (SapphireGhost) \[Desecration\]](https://osu.ppy.sh/beatmapsets/47846#osu/199304)
-- HardRock
+- Hard Rock
   1. [Camellia - Routing (Lasse) \[Lasse's Extra\]](https://osu.ppy.sh/beatmapsets/663255#osu/1405185)
   2. [Camellia - kodama (-kevincela-) \[-kevincela-'s Extra\]](https://osu.ppy.sh/beatmapsets/488016#osu/1048276)
-- DoubleTime
+- Double Time
   1. [Parov Stelar - Catgroove (Kuron-kun) \[Kuron's Insane\]](https://osu.ppy.sh/beatmapsets/144955#osu/630739)
   2. [Kiryu - Disguise (Seikatu) \[Insane\]](https://osu.ppy.sh/beatmapsets/225957#osu/642573)
 - Tiebreaker
@@ -164,10 +164,10 @@ This competition has come to an end and resulted in the following podium:
   2. [Nekomata Master - Byakuya Gentou (ignorethis) \[EX\]](https://osu.ppy.sh/beatmapsets/36849#osu/119375)
   3. [Camellia - overcomplexification (byfar) \[byfar's Extra\]](https://osu.ppy.sh/beatmapsets/351408#osu/934812)
   4. [Ling tosite sigure - KIMITOOKU (pishifat) \[pishi's Extra\]](https://osu.ppy.sh/beatmapsets/458931#osu/988684)
-- HardRock
+- Hard Rock
   1. [USAO - The storm broke (NeilPerry) \[NeilPerry's Insane\]](https://osu.ppy.sh/beatmapsets/483158#osu/1037953)
   2. [Nekomata Master+ - Funny shuffle (fanzhen0019) \[RiP iidx\]](https://osu.ppy.sh/beatmapsets/249609#osu/573861)
-- DoubleTime
+- Double Time
   1. [IAHN - Candy Luv (pishifat) \[Insane\]](https://osu.ppy.sh/beatmapsets/456212#osu/977708)
   2. [EXID - Ah Yeah (Desperate-Kun, Irreversible) \[Despversible's Insane\]](https://osu.ppy.sh/beatmapsets/315323#osu/706413)
 - Tiebreaker
@@ -189,10 +189,10 @@ This competition has come to an end and resulted in the following podium:
   2. [Yucha-P - Thieves Night Trick (tutuhaha) \[Extra\]](https://osu.ppy.sh/beatmapsets/78268#osu/219090)
   3. [BTS - FIRE (sukiNathan) \[PYROMANIA\]](https://osu.ppy.sh/beatmapsets/479385#osu/1023667)
   4. [REOL - YoiYoi Kokon (DreaM117er) \[Yoi\]](https://osu.ppy.sh/beatmapsets/545737#osu/1220408)
-- HardRock
+- Hard Rock
   1. [Ayane - Itsumo Kono Basho de (Salktwod Remix) (Seikatu) \[Insane\]](https://osu.ppy.sh/beatmapsets/240459#osu/555741)
   2. [Giga - -BWW SCREAM- (yf\_bmp) \[yf's sb Extreme\]](https://osu.ppy.sh/beatmapsets/404658#osu/890901)
-- DoubleTime
+- Double Time
   1. [REOL - Summer Horror Party (Chaoslitz) \[Ghostly Summertime\]](https://osu.ppy.sh/beatmapsets/522666#osu/1109947)
   2. [Infected Mushroom - Pink Nightmares (RLC) \[Insane\]](https://osu.ppy.sh/beatmapsets/107639#osu/281977)
 - Tiebreaker
@@ -214,10 +214,10 @@ This competition has come to an end and resulted in the following podium:
   2. [Mitsuki Nakae - Ouka Enbu (Komore) \[Komore's Insane\]](https://osu.ppy.sh/beatmapsets/688552#osu/1462834)
   3. [Nekomata Master - Sennen no Kotowari (celerih) \[GRAVITY OF THE MOON\]](https://osu.ppy.sh/beatmapsets/647730#osu/1372384)
   4. [Camellia - Fastest Crash (toybot, Mikii) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/331025#osu/742728)
-- HardRock
+- Hard Rock
   1. [Sota Fujimori - polygon (Sebu) \[tetragon\]](https://osu.ppy.sh/beatmapsets/422136#osu/1009793)
   2. [Reol - FLASH BACK (VINXIS) \[VINXIS's Insane\]](https://osu.ppy.sh/beatmapsets/409397#osu/933022)
-- DoubleTime
+- Double Time
   1. [SteLouse - Joyride (TicClick, Vass\_Bass) \[Insane ft. Vass\_Bass\]](https://osu.ppy.sh/beatmapsets/289935#osu/653381)
   2. [cYsmix feat. Emmy - Tear Rain (grumd) \[Insane\]](https://osu.ppy.sh/beatmapsets/140805#osu/351513)
 - Tiebreaker

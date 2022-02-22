@@ -117,10 +117,10 @@ There was only one mappool for all matches, made of beatmaps from the last four 
 - Hidden
   1. [Draw the Emotional - Morning glow (UnitedWeSin) [Lunatic]](https://osu.ppy.sh/beatmapsets/146626#osu/363298)
   2. [Nightwish - Dead to the World (Luvdic) [Insane]](https://osu.ppy.sh/beatmapsets/149115#osu/368503)
-- HardRock
+- Hard Rock
   1. [44teru-k - Yami ~ Shoujo no Yume , Kyomu no Sekai ~ ([Twinkle]) [Hyper]](https://osu.ppy.sh/beatmapsets/149173#osu/374403)
   2. [SawanoHiroyuki[nZk]:mica - Summer Tears (appleeaterx) [Insane]](https://osu.ppy.sh/beatmapsets/406467#osu/892298)
-- DoubleTime
+- Double Time
   1. [LiSA - traumerei (Knotts) [Karia's Hard]](https://osu.ppy.sh/beatmapsets/204925#osu/483885)
   2. [Nishino Kana - Day 7 (yanlu) [Collab]](https://osu.ppy.sh/beatmapsets/93138#osu/251475)
 - FreeMod
@@ -140,7 +140,7 @@ There was only one mappool for all matches, made of beatmaps from the last four 
 ### General rules
 
 1. The tournament will be held in 1v1 double-elimination format with traditional seeding.
-2. The matches will be played using Score V2 and TeamVS settings.
+2. The matches will be played using ScoreV2 and TeamVS settings.
 3. A referee will be present in every match and every match will be streamed, with additional commentators when possible.
 4. The tournament will be held over three weekends, joining the [Discord server](https://discord.gg/9sKe7nF) is mandatory at least for the duration of the tournament.
 5. The **Winning conditions** for each stage will be:

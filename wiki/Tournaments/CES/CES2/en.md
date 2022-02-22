@@ -97,11 +97,11 @@ The CES League osu! Tournament 2 is run by various community members.
 4. At the start of the match, both captains will `!roll`. The higher roll gets to choose whether they want to pick first or ban first. Warmups may either be chosen by roll or another method decided in the lobby.
    - Warmups are strictly limited to 5 minutes maximum drain time.
 5. 1 ban per player up to and including RO16, 2 bans from Quarter finals onwards.
-6. Mods allowed in Tiebreaker (Freemod): Hidden, HardRock and Easy
+6. Mods allowed in Tiebreaker (Freemod): Hidden, Hard Rock and Easy
    - Players don't require picking a mod.
    - Players may combine mods (eg. HDHR)
    - Easy has a 2x score multiplier.
-7. NoFail is forced throughout the entire tournament.
+7. No Fail is forced throughout the entire tournament.
 8. Roll winner gets to ban the first tiebreaker.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

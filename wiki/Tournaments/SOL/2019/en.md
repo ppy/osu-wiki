@@ -542,7 +542,7 @@ Sunday, 08 December 2019:
 ## Ruleset
 
 - The Speed of Light tournament is a tournament where registered players compete to see who ends up at the top.
-- We will use Score v2 for this tournament.
+- We will use ScoreV2 for this tournament.
 - The beatmaps for each round will be announced by the map poolers in a showcase after each stage of the tournament. One tiebreaker will be provided for each pool. This map is only played in the case of a tie with each player needing one point to win.
 - The schedule of each match will be established by the tournament organizers, with reschedules available.
 - If there is no referee available, the game will be postponed.

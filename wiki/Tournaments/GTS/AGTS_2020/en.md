@@ -160,12 +160,12 @@ This competition has come to an end and resulted in the following podium:
   2. [Camellia as "Bang Riot" - Blastix Riotz (Axer) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/977459#taiko/2046053)
   3. [Erehamonika remixed by kors k - Der Wald (Kors K Remix) (Nofool) \[Hard Oni\]](https://osu.ppy.sh/beatmapsets/432406#taiko/932407)
   4. [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[\_DUSK\_'s Outer Oni\]](https://osu.ppy.sh/beatmapsets/860089#taiko/2007142)
-- HardRock
+- Hard Rock
   1. [Kotori - Nanamori (youth Remix) (nyanmi-1828) \[7z's Heretic\]](https://osu.ppy.sh/beatmapsets/1018730#taiko/2143351)
   2. [BVB - My Awesome Flat Chest On The Ground (404 AccNotFound) \[My Awesome Flat Chest\]](https://osu.ppy.sh/beatmapsets/614244#taiko/1295831)
   3. [Feryquitous - Risk (ensan71714) \[Risky Oni\]](https://osu.ppy.sh/beatmapsets/858100#taiko/1793351)
   4. [C-Show - Invitation from Mr.C (Endymion) \[Ayyri's Outer Oni\]](https://osu.ppy.sh/beatmapsets/749426#taiko/1578551)
-- DoubleTime
+- Double Time
   1. [M2U - Quo Vadis (TKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/135324#taiko/339131)
   2. [Memme - China Dress (Love) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/140237#taiko/350403)
   3. [PSYQUI feat.Such - Raise Your Hands (1rori) \[Future Oni\]](https://osu.ppy.sh/beatmapsets/883358#taiko/1846592)
@@ -193,11 +193,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Shouten Kazoku - Osenju Meditation (Midnaait) \[Illuminat|on\]](https://osu.ppy.sh/beatmapsets/896443#taiko/1872872)
   2. [Jaroslav Beck - $100 Bills (Lno) \[Mid's Inner Oni\]](https://osu.ppy.sh/beatmapsets/793720#taiko/2394775)
   3. [Cattle Decapitation - The Geocide (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1170000#taiko/2442400)
-- HardRock
+- Hard Rock
   1. [ETIA. - Singularity (Kuo Kyoka) \[Raytoly's If You Can\]](https://osu.ppy.sh/beatmapsets/1154702#taiko/2443643)
   2. [TAROLIN - world.\[NOT\].excuse(nxc); (applerss) \[world.runExecution();\]](https://osu.ppy.sh/beatmapsets/724063#taiko/1528896)
   3. [UNDEAD CORPORATION - Seven Colors (yea) \[Lunatic Oni\]](https://osu.ppy.sh/beatmapsets/739402#taiko/1560227)
-- DoubleTime
+- Double Time
   1. [Sagi - Systematic Love (bananannian) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/386587#taiko/844066)
   2. [yuikonnu - yakimoti no kotae -another story- (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/201604#taiko/477289)
   3. [Camellia - Bring Our Ignition Back (Arrival) \[Heaxys' Oni\]](https://osu.ppy.sh/beatmapsets/1133558#taiko/2470287)
@@ -223,11 +223,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Kanon - Hoshizora Travel (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1193011#taiko/2485900)
   2. [tomatomerde - KICK IT OUT(Dubstep Remix) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/606356#taiko/1281004)
   3. [Kaede To Kyo Aki Chi Kuzu - Yankee Boy Yankee Girl (\_Rise) \[KTYN's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1113663#taiko/2326578)
-- HardRock
+- Hard Rock
   1. [DJ Totoriott - Chronoxia (xpokn) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/733045#taiko/1546517)
   2. [IOSYS - Mushimiko Unya- no Happippi- (7\_7) \[=^. \_ .^=\]](https://osu.ppy.sh/beatmapsets/772855#taiko/1624547)
   3. [Foreground Eclipse - From Under Cover (Caught Up In A Love Song) (Dayzeek) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/721194#taiko/1522931)
-- DoubleTime
+- Double Time
   1. [ClariS - irony (vrnl) \[oni\]](https://osu.ppy.sh/beatmapsets/1150996#taiko/2402695)
   2. [Hana - Sakura no Uta (Y O U T A) \[Oni\]](https://osu.ppy.sh/beatmapsets/440392#taiko/947547)
   3. [baker - Natsu ni Sarishi Kimi o Omou (\_Rise) \[Oni\]](https://osu.ppy.sh/beatmapsets/1259806#taiko/2619134)
@@ -253,11 +253,11 @@ This competition has come to an end and resulted in the following podium:
   1. [AAAA Chazuke - Fatality Saga (Mew104) \[Zetera's Choreia Oni\]](https://osu.ppy.sh/beatmapsets/958849#taiko/2007509)
   2. [Hommarju - (This Is Not) The Angels (roufou) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1224917#taiko/2547554)
   3. [MARETU - Wyvern Ammo (KaEDe1106) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1205907#taiko/2511044)
-- HardRock
+- Hard Rock
   1. [Knife Party & Tom Morello - Battle Sirens (RIOT Remix) (Stingy) \[Gravity\]](https://osu.ppy.sh/beatmapsets/811006#taiko/1701349)
   2. [Dark Flight Dreamer(Speed Up Ver) (Celsius6) \[Cel's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/324173#taiko/720320)
   3. [E.G.G. - Got noir forever. (Mrriichi) \[tasuke's Inner Oni\]](https://osu.ppy.sh/beatmapsets/326018#taiko/792672)
-- DoubleTime
+- Double Time
   1. [Nightwish - Endless Forms Must Beautiful (frukoyurdakul) \[Oni\]](https://osu.ppy.sh/beatmapsets/599000#taiko/1266090)
   2. [Perfume - Mirai no Museum (\_Rise) \[KTYN's Future\]](https://osu.ppy.sh/beatmapsets/1146130#taiko/2398550)
   3. [myfuckinmess - EEEAAAOOO (Axer) \[E.A.O.\]](https://osu.ppy.sh/beatmapsets/1145906#taiko/2392512)
@@ -281,10 +281,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Pierce The Veil - The First Punch (puxtu) \[Backfire's Inner Oni\]](https://osu.ppy.sh/beatmapsets/395633#taiko/1596107)
   2. [Rin - Lunatic set 16 \~ The Space Shrine Maiden Returns Home (komasy) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/957412#taiko/2004469)
-- HardRock
+- Hard Rock
   1. [Asaba Loki - Laivisca (TKS) \[Oni\]](https://osu.ppy.sh/beatmapsets/1002496#taiko/2098359)
   2. [Nishino Kana - Sweet Dreams (11t dnb mix) -Speed Up Ver.- (Kamome Yuki) \[Dream\]](https://osu.ppy.sh/beatmapsets/1161146#taiko/2422464)
-- DoubleTime
+- Double Time
   1. [Hideki Naganuma - AIN'T NOTHIN' LIKE A FUNKY BEAT (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/1172261#taiko/2445118)
   2. [Erio - Monolith (Nerova Riuz GX) \[N/A\]](https://osu.ppy.sh/beatmapsets/809233#taiko/1698080)
 - FreeMod
@@ -307,10 +307,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Nekomata Master - Izanami's wail (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/929211#taiko/1940735)
   2. [Rahatt - Brecorr in Macedonia (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1166056#taiko/2432558)
-- HardRock
+- Hard Rock
   1. [Camellia - #1f1e33 (GNKait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1199062#taiko/2497052)
   2. [USAO - Knight Rider (aabc271) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1201600#taiko/2502630)
-- DoubleTime
+- Double Time
   1. [Kurousagi Uru - Shiki Toki Uta (toara\_fict) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/395324#taiko/860698)
   2. [Sigala - Say You Do (feat. Imani & DJ Fresh) (Stingy) \[2199's Oni\]](https://osu.ppy.sh/beatmapsets/1070904#taiko/2260754)
 - FreeMod
@@ -332,10 +332,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [ParagonX9 - Infiltration (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1069209#taiko/2238264)
   2. [Strawberry Girls - Baby Sprite (Adam\_S) \[Oni\]](https://osu.ppy.sh/beatmapsets/1230143#taiko/2557498)
-- HardRock
+- Hard Rock
   1. [MYTHOLOGIA by MLREC. - Ymir (Zetera) \[Coronation I\]](https://osu.ppy.sh/beatmapsets/1168845#taiko/2438612)
   2. [SOUND HOLIC Vs. T.Kakuta feat. YURiCa - TOXIC VIBRATION (KamizonoShinobu) \[Oni\]](https://osu.ppy.sh/beatmapsets/540714#taiko/1146541)
-- DoubleTime
+- Double Time
   1. [Kuba Oms - My Love (duski) \[Oni\]](https://osu.ppy.sh/beatmapsets/1132237#taiko/2364974)
   2. [Matsumoto Sara - Ito Hakanaki Hikari no Gotoku (JUDYDANNY) \[Taiko\]](https://osu.ppy.sh/beatmapsets/237701#taiko/550138)
 - FreeMod
@@ -354,9 +354,9 @@ This competition has come to an end and resulted in the following podium:
   2. [Digital Math - The Musky Thrust (Jaltzu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1153833#taiko/2408145)
 - Hidden
   1. [U-F SEQUENCER - The Invisible (Poltergeist mix) (Reficul) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1243362#taiko/2584930)
-- HardRock
+- Hard Rock
   1. [Capchii x Crawk - Suiren no shirabe (-xNaCLx-) \[Saltaiko@NaCL\]](https://osu.ppy.sh/beatmapsets/1093526#taiko/2285538)
-- DoubleTime
+- Double Time
   1. [ONE OK ROCK - Nobody's Home (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/96804#taiko/259271)
 
 ## Match results
@@ -663,12 +663,12 @@ Sunday, 20 September 2020:
 ### Mappool instructions
 
 1. There will be separate mappool for each stages.
-2. The Qualifiers pool will be different from all the other round as it will have a format of 2 NoMod, 1 Hidden, 1 HardRock, and 1 DoubleTime maps.
+2. The Qualifiers pool will be different from all the other round as it will have a format of 2 NoMod, 1 Hidden, 1 Hard Rock, and 1 Double Time maps.
 3. The loser's bracket will play on the same mappool as the winner's bracket of the same weekend.
-4. Each mappool consists of 6 brackets: NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker.
+4. Each mappool consists of 6 brackets: NoMod, Hidden, Hard Rock, Double Time, FreeMod, and Tiebreaker.
 5. The Group Stage mappool will consist of 14 maps, the Round of 16 and the Quarterfinals will consist of 15 maps, the Semifinals, the Finals, and the Grand Finals will consist of 16 maps.
-6. The size of the Hidden, HardRock and DoubleTime brackets will be 2 until Semifinals, where it increases to 3 for the rest of the tournament and 3 for the FreeMod bracket in all stages.
-7. The FreeMod bracket is played with FreeMod activated. Every individual player can pick **Hidden, HardRock, or both. At least one player of each team must have at least one mod activated**.
+6. The size of the Hidden, Hard Rock and Double Time brackets will be 2 until Semifinals, where it increases to 3 for the rest of the tournament and 3 for the FreeMod bracket in all stages.
+7. The FreeMod bracket is played with FreeMod activated. Every individual player can pick **Hidden, Hard Rock, or both. At least one player of each team must have at least one mod activated**.
 8. The Tiebreaker will be played under FreeMod conditions but it won't be mandatory pick.
 9. The mappool for each stage will be showcased in the [GTS' channel](#links) a week before.
 

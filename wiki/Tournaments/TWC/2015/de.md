@@ -54,7 +54,7 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 1. Das osu! Taiko World Cup ist ein länderbezogenes Turnier.
 2. Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
    - Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
-   - Es wird auch ein [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) und FreeMod Bracket geben.
+   - Es wird auch ein [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) und FreeMod Bracket geben.
 3. Die Zeiten der Partien werden vom Turnier Management festgelegt (siehe unten).
 4. Wenn kein Schiedsrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 5. Die Ergebnisse von gescheiterten Spielern wird nicht zum Teamergebnis mit angerechnet.
@@ -134,12 +134,12 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 ### Mappoolanweisungen
 
 1. Es wird ein Mappool für die Gruppenphase, ein Mappool für das Achtelfinale, ein Mappool für das Viertelfinale, ein Mappool für Halbfinale und ein Mappool für das Finale geben (Woche 1 & Woche 2 verwenden den selben Mappool).
-2. Jeder Mappool besteht aus 5 Gruppen: NoMod, HardRock, Hidden, DoubleTime und FreeMod
+2. Jeder Mappool besteht aus 5 Gruppen: NoMod, Hard Rock, Hidden, Double Time und FreeMod
 3. Jeder Mappool besteht aus 19 Maps.
 4. Jeder Mappool hat eine Tiebreaker Map.
 5. Die NoMod Gruppe wird ohne aktiven Mods gespielt.
-6. Die Hidden, HardRock und DoubleTime Gruppe wird mit dem entsprechenden, aktivierten Mod gespielt.
-7. Die FreeMod Gruppe schaltet den FreeMod frei. Jeder einzelne Spieler kann dann Hidden, HardRock, Flashlight oder mit gar keinen Mod spielen.
+6. Die Hidden, Hard Rock und Double Time Gruppe wird mit dem entsprechenden, aktivierten Mod gespielt.
+7. Die FreeMod Gruppe schaltet den FreeMod frei. Jeder einzelne Spieler kann dann Hidden, Hard Rock, Flashlight oder mit gar keinen Mod spielen.
    1. Spieler dürfen mehr als einen Mod auswählen.
    2. Wenn eine FreeMod Map gespielt wird, müssen mindestens 1 Spieler jedes Teams mindestens einen Mod aktiviert haben.
 8. Die Tiebreaker Map wird mit denselben Bedingungen wie beim FreeMod gespielt.

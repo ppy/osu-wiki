@@ -107,12 +107,12 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   2. [Sebastien Pintinaux & Caroline Szatapski - 'EVERMORE SIDE A (Emiru) \[Sur tes pas\]](https://osu.ppy.sh/beatmapsets/845175#fruits/1767916)
   3. [Nekomata Master+ - squall (RLC) \[WIND\]](https://osu.ppy.sh/beatmapsets/92052#fruits/248991)
   4. [MYTH & ROID - L.L.L. (Feb) \[Love & Passion\]](https://osu.ppy.sh/beatmapsets/341870#fruits/891272)
-- HardRock
+- Hard Rock
   1. [DJ Ozawa - Tokyo (Innovaderz Remix) (Minato Yukina) \[CrystalSeed vs. CLSW's EX\]](https://osu.ppy.sh/beatmapsets/427801#fruits/934113)
   2. [THE IDOLM@STER CINDERELLA GIRLS!! - Dan \~ CTB \~ JumpMap Pack (Minato Yukina) \[Absolute NIne \~ 7th \~ Marathon\]](https://osu.ppy.sh/beatmapsets/692137#fruits/1467357)
   3. [Level 70 Elite Tauren Chieftain - I Am Murloc (CheeseWarlocck) \[Northrend\]](https://osu.ppy.sh/beatmapsets/12030#fruits/45433)
   4. [Hatsune Miku - Atama no Taisou (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/40344#fruits/131286)
-- DoubleTime
+- Double Time
   1. [ClariS - Connect -TV MIX- (Spectator) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/203567#fruits/500293)
   2. [KAZE.o2SE - Earth Quake (ZHSteven) \[CTB newer competition\]](https://osu.ppy.sh/beatmapsets/31297#fruits/102921)
   3. [Scott Brown - Go Berzerk (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/beatmapsets/15298#fruits/55474)
@@ -136,12 +136,12 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   2. [lapix - Carry Me Away (Spectator) \[Ultra\]](https://osu.ppy.sh/beatmapsets/776472#fruits/1631436)
   3. [Eclipse - nO limiT (TV Size) (Louis Cyphre) \[Basquash!\]](https://osu.ppy.sh/beatmapsets/15466#fruits/59327)
   4. [Roselia - Guren no Yumiya (UndeadCapulet) \[Expert\]](https://osu.ppy.sh/beatmapsets/820695#fruits/1720274)
-- HardRock
+- Hard Rock
   1. [EYE XY feat. Yoneko  - Knight of Firmament (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/709012#fruits/1498888)
   2. [RYO - Shuffle Heaven (Maddy) \[eXtra\]](https://osu.ppy.sh/beatmapsets/85802#fruits/235470)
   3. [Silver Forest - Tsurupettan (Hitoshirenu Shourai) \[Hito's Insane\]](https://osu.ppy.sh/beatmapsets/2626#fruits/19990)
   4. [League of Legends - PROJECT: Hunters - Login Music (Vincs) \[Nihj\]](https://osu.ppy.sh/beatmapsets/801026#fruits/1681554)
-- DoubleTime
+- Double Time
   1. [IOSYS - Taihen na Mono no Shoushitsu (KanaRin) \[Kana's CTB\]](https://osu.ppy.sh/beatmapsets/17819#fruits/67504)
   2. [Aya Ishihara - Reset (Full ver) (Bikko) \[Madness\]](https://osu.ppy.sh/beatmapsets/16641#fruits/65756)
   3. [Machico - fantastic dreamer(TV-size) (Spectator) \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/483175#fruits/1030971)
@@ -165,12 +165,12 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   2. [Getty vs. DJ DiA - Grayed Out -Antifront- (Linada) \[Linada's Expert\]](https://osu.ppy.sh/beatmapsets/578755#fruits/1329304)
   3. [USAO - BroGamer (Spectator) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/701726#fruits/1518690)
   4. [Grand Thaw - Aventyr (Kyuare) \[Fiore\]](https://osu.ppy.sh/beatmapsets/495910#fruits/1055601)
-- HardRock
+- Hard Rock
   1. [Hyadain - Chocobo (mtmcl) \[Gold\]](https://osu.ppy.sh/beatmapsets/4392#fruits/24023)
   2. [fripSide - black bullet (TV Size) (Irreversible, HanzeR) \[HanzveRsible's Extra\]](https://osu.ppy.sh/beatmapsets/157168#fruits/402026)
   3. [Doma Umaru \[CV.Tanaka Aimi\] - Kakushinteki\*Metamaruphose! (Minato Yukina) \[CrystalSeed's UmaruDosE!!\]](https://osu.ppy.sh/beatmapsets/332623#fruits/773257)
   4. [Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Spectator) \[Spec's Hi-Speed Overdose\]](https://osu.ppy.sh/beatmapsets/139525#fruits/481938)
-- DoubleTime
+- Double Time
   1. [Carly Rae Jepsen - Call Me Maybe (Nightcore Mix) (spboxer3) \[CTBoxer's Rain\]](https://osu.ppy.sh/beatmapsets/56071#fruits/177970)
   2. [Mili - Utopiosphere (Spectator) \[Ecstasia\]](https://osu.ppy.sh/beatmapsets/187177#fruits/446769)
   3. [DJ SHARPNEL - IVALTEK (happy30) \[HappyMiX\]](https://osu.ppy.sh/beatmapsets/50429#fruits/154988)
@@ -191,11 +191,11 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   1. [GRANRODEO - Can Do (TV Size) (Monstrata) \[Extra: Kagami\]](https://osu.ppy.sh/beatmapsets/493273#fruits/1062394)
   2. [MYTH & ROID - JINGO JUNGLE (Plaudible) \[Deus Lo Vult\]](https://osu.ppy.sh/beatmapsets/653835#fruits/1385941)
   3. [Shiggy Jr. - oyasumi (Len) \[CS4 Overdose\]](https://osu.ppy.sh/beatmapsets/676737#fruits/1768494)
-- HardRock
+- Hard Rock
   1. [loos feat. Meramipop - Starlight Disco (Spectator) \[Spec's Deluge\]](https://osu.ppy.sh/beatmapsets/183375#fruits/530445)
   2. [Memme - Acid Burst (Spectator) \[Spec's Acidic Rain!\]](https://osu.ppy.sh/beatmapsets/302535#fruits/846620)
   3. [Iori - Kimi ga Ireba (deepsea) \[Kudo Shinichi\]](https://osu.ppy.sh/beatmapsets/2355#fruits/19381)
-- DoubleTime
+- Double Time
   1. [IOSYS - Border of Extacy (happy30, Lesjuh) \[HappyLesjuh\]](https://osu.ppy.sh/beatmapsets/7932#fruits/35203)
   2. [LeaF - I (Mirage) \[Hyper\]](https://osu.ppy.sh/beatmapsets/99244#fruits/264894)
   3. [FELT - Goldrop (Spectator) \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/204927#fruits/506395)
@@ -215,11 +215,11 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   1. [Yeah Yeah Yeahs - 'EVERMORE SIDE A (Emiru) \[Heads Will Roll (A-Trak remix)\]](https://osu.ppy.sh/beatmapsets/845175#fruits/1767920)
   2. [Colorful Sounds Port - ETERNAL DRAIN (rock time) \[Extra\]](https://osu.ppy.sh/beatmapsets/706978#fruits/1494735)
   3. [onoken - Unisonote (Kyuare) \[Rain AR8\]](https://osu.ppy.sh/beatmapsets/448498#fruits/962563)
-- HardRock
+- Hard Rock
   1. [Johannes Brahms - Inpromptus No. 18 (AngelHoney) \[Challenging\]](https://osu.ppy.sh/beatmapsets/13991#fruits/51439)
   2. [David Bergeaud - Veldin (sesito71) \[Qwarkastic!\]](https://osu.ppy.sh/beatmapsets/9943#fruits/39157)
   3. [saradisk - 220 - Kumano (Ascendance) \[Ascendance's Kumanoverdose\]](https://osu.ppy.sh/beatmapsets/471346#fruits/1008236)
-- DoubleTime
+- Double Time
   1. [wowaka - Unhappy Refrain (Serena-) \[Serena's Platter\]](https://osu.ppy.sh/beatmapsets/155930#fruits/435505)
   2. [Akiyama Uni - Odoru Mizushibuki (Hollow Wings) \[Insane\]](https://osu.ppy.sh/beatmapsets/153887#fruits/525219)
   3. [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn (Kyuare) \[Platter\]](https://osu.ppy.sh/beatmapsets/415827#fruits/1304682)
@@ -238,10 +238,10 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 - Hidden
   1. [Hecq - Dstrukt (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/511538#fruits/1088086)
   2. [xi - Aragami (Cherry Blossom) \[Hyper\]](https://osu.ppy.sh/beatmapsets/225377#fruits/553093)
-- HardRock
+- Hard Rock
   1. [3OH!3 ft. Katy Perry - Starstrukk (Duoprism) \[Normal\]](https://osu.ppy.sh/beatmapsets/10858#fruits/41942)
   2. [LeaF - Evanescent (Krah) \[Salad\]](https://osu.ppy.sh/beatmapsets/176646#fruits/652946)
-- DoubleTime
+- Double Time
   1. [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Shiirn) \[Hard\]](https://osu.ppy.sh/beatmapsets/37242#fruits/123705)
   2. [Memme - Force of Ra (Deif) \[Salad\]](https://osu.ppy.sh/beatmapsets/573479#fruits/1214852)
 - Tiebreaker
@@ -419,7 +419,7 @@ Dimanche, 16 Septembre 2018:
 ### Règles générales
 
 1. Le tournoi prendra place dans un format de 1v1 double élimination avec un seeding traditionnel.
-2. Le tournoi durera 7 weekends. Les matchs seront joués sous les paramètres **Score V2** et **Head to Head**.
+2. Le tournoi durera 7 weekends. Les matchs seront joués sous les paramètres **ScoreV2** et **Head to Head**.
 3. Un arbitre sera présent pour chaque match.
 4. Rejoindre le serveur Discord est obligatoire, au moins pour la durée du tournoi.
 5. Les matchs du 1er weekend et du 2ème weekend seront en best-of-5, les matchs du 3ème weekend seront en best-of-7, les matchs du 4ème weekend seront en best-of-9, les matchs du 5ème weekend seront en best-of-11, les matchs du 6ème et du 7ème weekend seront en best-of-13.
@@ -432,7 +432,7 @@ Dimanche, 16 Septembre 2018:
 4. Le plus bas roll va ban en premier, le plus haut roll va pick en premier.
    - Le FreeMod est en "forcemod", ce qui veut dire que chaque joueur doit utiliser au moins un mod.
    - Le Tiebreaker n'est pas en "forcemod", mais vous pouvez choisir un mod.
-   - Les mods éligibles pour le FreeMod et le Tiebreaker sont Easy, Flashlight, HardRock et Hidden.
+   - Les mods éligibles pour le FreeMod et le Tiebreaker sont Easy, Flashlight, Hard Rock et Hidden.
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"

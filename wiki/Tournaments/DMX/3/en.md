@@ -386,7 +386,7 @@ Sunday, 25 November 2018:
    - 4 FreeMod for Qualifiers Stage.
    - *to be decided* for Knockout Stage.
 2. Players will have 2 bans for each match.
-3. In the Tiebreaker beatmap players may choose between all mods available in the multiplayer lobby besides DoubleTime/Nightcore, HalfTime, NoFail and Easy.
+3. In the Tiebreaker beatmap players may choose between all mods available in the multiplayer lobby besides Double Time/Nightcore, Half Time, No Fail and Easy.
 
 ### Match rules and instructions
 

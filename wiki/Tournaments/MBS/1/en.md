@@ -942,7 +942,7 @@ Sunday, 30 June 2019:
 ## Ruleset
 
 1. Please keep/change, your Discord name using your osu! name. This allows the referees to know who to ping when they'll be sending invites to.
-2. This tournament is a **1 versus 1 osu!mania 4K** tournament and will use **Score V2** as the scoring system.
+2. This tournament is a **1 versus 1 osu!mania 4K** tournament and will use **ScoreV2** as the scoring system.
 3. The tournament will use double-elimination bracket system.
 4. You lose your match automatically if you are 10 minutes late.
 5. Respect between each is expected of players and staff members.

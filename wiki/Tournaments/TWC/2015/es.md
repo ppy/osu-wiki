@@ -56,7 +56,7 @@ El país campeón del torneo anterior es ![][flag_JP] **Japón**.
 1. El osu! Taiko World Cup está basado en equipos por países.
 2. Los beatmaps de cada fase serán elegidos por el **Seleccionador de Beatmaps** cada domingo antes de que la ronda a continuación tome lugar y solo podrán ser usados durante las respectivas fases.
    - Un beatmap podrá ser usado como Desempate, solo en caso de que se presente un Empate.
-   - En los beatmaps se usarán los mod [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) y FreeMod.
+   - En los beatmaps se usarán los mod [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) y FreeMod.
 3. Los horarios para las partidas serán organizadas por el **Administradores del Torneo** (Ver arriba).
 4. Sino hay Referis (staff) para alguna de las partidas, la misma podrá ser pospuesta).
 5. Los jugadores que fallen su partida no contarán sus scores junto a su equipo.
@@ -143,12 +143,12 @@ El país campeón del torneo anterior es ![][flag_JP] **Japón**.
 ### Instrucciones de Sorteo
 
 1. Habrá una categoria para la Fase de Grupos, una para la ronda de 16avos, una para Cuartos de Final, una para Semifinales y una para Finales (Semana 1 & 2)
-2. Cada categoría consiste de 5 mods: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) y modo Libre.
+2. Cada categoría consiste de 5 mods: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) y modo Libre.
 3. Cada categoría consiste de un total de 19 beatmaps
 4. Cada categoría tendrá un beatmap para desempate
 5. El NoMod se jugará sin mods activados.
-6. En las partidas con Hidden, HarkRock, Doubletime se jugarán respectivamente
-7. En modo Libre cada jugador podrá usar un mod de su preferencia sea Hidden o HardRock o Doubletime (en caso de que todos requieran este ultimo).
+6. En las partidas con Hidden, HarkRock, Double Time se jugarán respectivamente
+7. En modo Libre cada jugador podrá usar un mod de su preferencia sea Hidden o Hard Rock o Double Time (en caso de que todos requieran este ultimo).
    1. Los jugadores podrán seleccionar mas de 1 modo
    2. Cuando se juegue en modo Libre, cada jugador debe tener al menos un mod activado.
 8. El desempate se jugara a condición del modo Libre

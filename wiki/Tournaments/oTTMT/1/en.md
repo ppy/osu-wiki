@@ -282,7 +282,7 @@ Mod settings for the match:
 - Win Condition: Score
 - 3 maps will be chosen to play out of the announced maps for that bracket, a team must win 2 of the 3 to advance.
 - A Judge must always be present.
-- No Easy, Half Time, Sudden Death, Relax or Spun out mods.
+- No Easy, Half Time, Sudden Death, Relax or Spun Out mods.
 
 If both teams agree on difficulty-increasing mods, like Hidden or Flashlight, then they can be used, but only if both teams agree.
 

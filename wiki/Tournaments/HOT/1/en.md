@@ -7,7 +7,7 @@ tags:
 
 ![HOT logo](img/logo.jpg)
 
-The **Hidden Only Tournament** (***HOT***) was a worldwide double-elimination 2v2 osu! tournament hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_CN] [real MikeL](https://osu.ppy.sh/users/10732897), and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). Tournament where maps were played under Hidden and Hidden/DoubleTime mods only. This was the first instalment of the Hidden Only Tournament.
+The **Hidden Only Tournament** (***HOT***) was a worldwide double-elimination 2v2 osu! tournament hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_CN] [real MikeL](https://osu.ppy.sh/users/10732897), and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). Tournament where maps were played under Hidden and Hidden/Double Time mods only. This was the first instalment of the Hidden Only Tournament.
 
 ## Tournament schedule
 
@@ -124,7 +124,7 @@ This competition has come to an end and resulted in the following podium:
   10. [Ochiai Yurika - Koibumi2000 (arken1015) \[Oni(Futsuu)\]](https://osu.ppy.sh/beatmapsets/10539#osu/46298)
   11. [sakuraburst - SHA (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/716390#osu/1513541)
   12. [BVDLVD - (DON'T) LOOK AT ME \[PROD. PULSE\] (Tommy Phelps) \[LUNATIC OTW\]](https://osu.ppy.sh/beatmapsets/1157018#osu/2414418)
-- Hidden+DoubleTime
+- Hidden+Double Time
   1. [Mei Ayakura - Romantic Fall (felys) \[Longing thoughts dyed in crimson\]](https://osu.ppy.sh/beatmapsets/637934#osu/1353352)
   2. [zts - miragecoordinator (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/652668#osu/1383875)
   3. [Tatsh feat. Tsukiko - Floating Darkness (Natteke) \[Collab\]](https://osu.ppy.sh/beatmapsets/22173#osu/76612)
@@ -151,7 +151,7 @@ This competition has come to an end and resulted in the following podium:
   10. [Eisyo-kobu - Oriental Blossom (Crystal) \[konG's Extra\]](https://osu.ppy.sh/beatmapsets/586889#osu/1243791)
   11. [Getty vs. DJ DiA - DropZ-Line- (Realazy) \[Lazy's Another\]](https://osu.ppy.sh/beatmapsets/727049#osu/1603376)
   12. [MC Lynn - EkiBEN2000 (arken1015) \[Insane\]](https://osu.ppy.sh/beatmapsets/9782#osu/42793)
-- Hidden+DoubleTime
+- Hidden+Double Time
   1. [Shihori - Bloody Night (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/46223#osu/143989)
   2. [zts - rotater (tokiko) \[lunatic\]](https://osu.ppy.sh/beatmapsets/905162#osu/1889238)
   3. [07th Expansion - Akai Tsukunise (soulfear) \[Souken no Tou\]](https://osu.ppy.sh/beatmapsets/14208#osu/52128)
@@ -176,7 +176,7 @@ This competition has come to an end and resulted in the following podium:
   8. [Cranky - Rave 2 Rave (Sonnyc) \[Expert\]](https://osu.ppy.sh/beatmapsets/751896#osu/1582902)
   9. [DragonForce - Ashes of the Dawn (pw384) \[Extreme\]](https://osu.ppy.sh/beatmapsets/786141#osu/1713929)
   10. [FamilyMart Jingle (deepsea) \[Family Mart is Your Home\]](https://osu.ppy.sh/beatmapsets/9400#osu/37658)
-- Hidden+DoubleTime
+- Hidden+Double Time
   1. [Scatman John - Scatman (Extor) \[Insane\]](https://osu.ppy.sh/beatmapsets/18#osu/80)
   2. [senya - Youyoumu no Gotoku (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmapsets/110985#osu/299041)
   3. [TORIENA - RAT RACE (Acyl) \[Team :3c's Hyper\]](https://osu.ppy.sh/beatmapsets/1027510#osu/2148691)
@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
   8. [Cranky vs. MASAKI - ouroboros -twin stroke of the end- (celerih) \[Another\]](https://osu.ppy.sh/beatmapsets/1052054#osu/2209919)
   9. [verzache - night (squirrelpascals) \[moon\]](https://osu.ppy.sh/beatmapsets/780349#osu/1639261)
   10. [CommanderGwonam - I.M. Crazy (CDFA) \[Meaniepants\]](https://osu.ppy.sh/beatmapsets/12835#osu/47857)
-- Hidden+DoubleTIme
+- Hidden+Double Time
   1. [dj TAKA - Snow Storm (Alace) \[Hyper\]](https://osu.ppy.sh/beatmapsets/7190#osu/31240)
   2. [Luschka - unravel (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/731933#osu/1803876)
   3. [sana - Kotoba no Iranai Yakusoku (Irohas) \[Insane\]](https://osu.ppy.sh/beatmapsets/634179#osu/1345731)
@@ -222,7 +222,7 @@ This competition has come to an end and resulted in the following podium:
   6. [Chata - len (Kalibe) \[emptiness\]](https://osu.ppy.sh/beatmapsets/918509#osu/1918025)
   7. [Lapfox Trax feat. guilhox - Lapfoxed Forever (Blue Dragon) \[Nogard\]](https://osu.ppy.sh/beatmapsets/59521#osu/178353)
   8. [DECO\*27 - Otome Dissection feat. Hatsune Miku (YelloJello) \[celerih's Insane\]](https://osu.ppy.sh/beatmapsets/913720#osu/2038244)
-- Hidden+DoubleTime
+- Hidden+Double Time
   1. [Goto Yuko - Koi no Mikuru Densetsu (Sushi971) \[Mikuru Beam\~\]](https://osu.ppy.sh/beatmapsets/5744#osu/27497)
   2. [senya - Youyoumu no Gotoku (Autobahn Remix) (Dailycare) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/440980#osu/948654)
   3. [zts - lastendconductor (EvilElvis) \[Insane\]](https://osu.ppy.sh/beatmapsets/333965#osu/738959)
@@ -244,7 +244,7 @@ This competition has come to an end and resulted in the following podium:
   6. [Starlight Kukugumi - You are a ghost, I am a ghost \~Gekijou no Ghost\~ (Gaia) \[Kalibe's Extra\]](https://osu.ppy.sh/beatmapsets/941509#osu/1971493)
   7. [SHIKI - Aqua Marine (soulfear) \[Another\]](https://osu.ppy.sh/beatmapsets/27049#osu/90961)
   8. [EYE\_XY feat. Yoneko - Knight of Firmament (Pho) \[Sanctum\]](https://osu.ppy.sh/beatmapsets/317749#osu/707802)
-- Hidden+DoubleTime
+- Hidden+Double Time
   1. [Imperial Circus Dead Decadence - Danzai No Honoo To Koibito-Tachi No Rondo (Gottagof4st) \[Hard\]](https://osu.ppy.sh/beatmapsets/961431#osu/2015326)
   2. [Amane - Melt in the sky (Gabi) \[Hard\]](https://osu.ppy.sh/beatmapsets/11420#osu/50761)
   3. [Hashimoto Miyuki - Symphonic Love (Cyborg) \[Love\]](https://osu.ppy.sh/beatmapsets/19992#osu/70217)
@@ -262,7 +262,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Fractal Dreamers - Gardens Under A Spring Sky (\_Epreus) \[ser's Extreme\]](https://osu.ppy.sh/beatmapsets/962862#osu/2017276)
   3. [Skrillex & Diplo - To U ft AlunaGeorge (NeilPerry) \[Neil & schoolboy Extra\]](https://osu.ppy.sh/beatmapsets/723626#osu/1538272)
   4. [Nightcore - Heartbeatz (jericho2442) \[MADNESS VER2!!!!\]](https://osu.ppy.sh/beatmapsets/12775#osu/47686)
-- Hidden+DoubleTime
+- Hidden+Double Time
   1. [IOSYS feat. 3L - Miracle-Hinacle (\_lolipop) \[\_loliplus+\]](https://osu.ppy.sh/beatmapsets/17154#osu/67621)
   2. [Sharlo - Ifuudoudou (Chaoslitz) \[Ifuuidol\]](https://osu.ppy.sh/beatmapsets/445251#osu/956456)
 
@@ -487,7 +487,7 @@ Monday, 25 May 2020:
    - Badge-weighted seeding (BWS) is used in this tournament to more accurately seed players and enforce rank restrictions. It works by taking into account the amount of recorded tournament wins (via badges) that a player has in addition to their rank.
    - BWS formula for the tournament is `rank ^ 0.9937 ^ 2`.
 3. The team size is **4 members** per team.
-4. The score system used will be **Score V2**.
+4. The score system used will be **ScoreV2**.
 5. The tournament will have a Qualifiers followed by a double-elimination bracket.
 6. All matches will be in UTC+0.
 7. Staff reserves the right to change any names that are deemed inappropriate.
@@ -499,10 +499,10 @@ Monday, 25 May 2020:
 
 ### Stage details
 
-1. **Qualifiers** will consist of 4 Hidden and 2 Hidden+DoubleTime mappool. The top 32 teams by qualifiers seeding will make it to the knockout stage.
+1. **Qualifiers** will consist of 4 Hidden and 2 Hidden+Double Time mappool. The top 32 teams by qualifiers seeding will make it to the knockout stage.
 2. **Round of 32 and Round of 16** will consist of 8 HD/3 HDDT/3 TB mappool and will be a Best-of-9 (First to 5 points).
-3. **Quarterfinals and Semifinals** will consist of 10 Hidden, 4 Hidden+Doubletime, 3 Tiebreaker mappool and will be a Best-of-11 (First to 6 points).
-4. **Finals and Grand Finals** will consist of 12 Hidden, 5 Hidden+DoubleTime, and 3 Tiebreaker mappool and will be a Best-of-13 (First to 7 points).
+3. **Quarterfinals and Semifinals** will consist of 10 Hidden, 4 Hidden+Double Time, 3 Tiebreaker mappool and will be a Best-of-11 (First to 6 points).
+4. **Finals and Grand Finals** will consist of 12 Hidden, 5 Hidden+Double Time, and 3 Tiebreaker mappool and will be a Best-of-13 (First to 7 points).
 5. There are no bans during the Qualifiers, but **one ban** is permitted starting from the Round of 32.
 
 ### Qualifiers rules
@@ -523,9 +523,9 @@ Monday, 25 May 2020:
 3. Once warmups are over, the captain on both players' teams will `!roll` for pick and ban order. The higher `!roll` will **ban second and pick first**.
 4. Teams have 90 seconds to select a map; if they fail to choose in the alloted time, the map choice will pass to the other team. This will have no effect on the order of picks afterward. The same condition applies for bans.
 5. Once the map choice is locked in, playes will have 90 seconds to ready up. The referee will start the match when all players are ready. If the 90 seconds timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
-6. NoFail mod will be enforced on all maps, to prevent teamfails from happening.
+6. No Fail mod will be enforced on all maps, to prevent teamfails from happening.
 7. In the case of a Tiebreaker, both player will `!roll`. The higher `!roll` will get the first ban, while the lower `!roll` bans the seconds Tiebreaker. The teams will play the last remaining Tiebreaker.
-8. All players must play the Tiebreaker with Hidden mod applied. Players are allowed, but not forced, to use additional mods on Tiebreaker. Players may use HardRock or Easy mod. No additional bonuses are given for EZ.
+8. All players must play the Tiebreaker with Hidden mod applied. Players are allowed, but not forced, to use additional mods on Tiebreaker. Players may use Hard Rock or Easy mod. No additional bonuses are given for EZ.
 9. In case of a disconnection, common sense will be applied; if proof exists of the disconnected player's score (or a rough estimate of their hypothetical score if they finished the map), it will be added to their team's total score; if it's at all ambiguous, the other team will get the point; if the disconnection occured in the first few seconds, the map will be replayed.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"

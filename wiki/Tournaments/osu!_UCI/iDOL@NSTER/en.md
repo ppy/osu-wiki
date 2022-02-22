@@ -129,11 +129,11 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
   1. [Caravan Palace - Lone Digger (Sheepcraft) [Funky]](https://osu.ppy.sh/beatmapsets/376860#osu/824970)
   2. [Getty vs. DJ DiA - Fox4-Raize- (Kaifin) [Extreme]](https://osu.ppy.sh/beatmapsets/482552#osu/1029677)
   3. [sasakure.UK - Jack-the-Ripper (Sprosive) [ReMiX]](https://osu.ppy.sh/beatmapsets/23907#osu/94264)
-- HardRock
+- Hard Rock
   1. [Thaehan - Doki-Doki (Mr HeliX) [Extremerino]](https://osu.ppy.sh/beatmapsets/519054#osu/1104057)
   2. [765 MILLIONSTARS - Thank you! (\_Star) [Kana's Extr@]](https://osu.ppy.sh/beatmapsets/894976#osu/1890844)
   3. [void feat. Komatsuna - Akatsuki no Tsuki (Cherry Blossom) [Skystar's Extreme]](https://osu.ppy.sh/beatmapsets/212387#osu/527704)
-- DoubleTime
+- Double Time
   1. [The Flashbulb - Hymn To The Unobtainable (Mismagius) [Insane]](https://osu.ppy.sh/beatmapsets/539042#osu/1142273)
   2. [\*namirin - Sakurairo Time Capsule (Fuccho) [A Mystery's Insane]](https://osu.ppy.sh/beatmapsets/355236#osu/791809)
   3. [yuikonnu & ayaponzu\* - Shinde Shimau towa Nasakenai! (Frey) [Testo's Insane]](https://osu.ppy.sh/beatmapsets/710207#osu/1519973)
@@ -150,11 +150,11 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
   1. [Rabbit House - Final Overtake (bbu) [FINAL OVERDRIVE]](https://osu.ppy.sh/beatmapsets/770246#osu/1619453)
   2. [Nanahoshi Kangengakudan - No,39 (pkk) [No Sankyuu]](https://osu.ppy.sh/beatmapsets/531488#osu/1126317)
   3. [Aiobahn - Towa no Utage (w/ YUC'e) (Sakurauchi Riko) [Koyoi Utage]](https://osu.ppy.sh/beatmapsets/844048#osu/1765767)
-- HardRock
+- Hard Rock
   1. [sakuraburst - forest of the spirits (Shiirn) [beckoning]](https://osu.ppy.sh/beatmapsets/595796#osu/1260007)
   2. [Yamaguchi Rikako, Asakura Momo, Taneda Risa, Suwa Ayaka, Natsukawa Shiina - UNION!! (-Eriri-) [-Eriri-'s MILLION MIX]](https://osu.ppy.sh/beatmapsets/966958#osu/2023829)
   3. [Primary - in the Garden (MrSergio) [flowerBed]](https://osu.ppy.sh/beatmapsets/492525#osu/1049246)
-- DoubleTime
+- Double Time
   1. [Nothing But Thieves - Amsterdam (appleeaterx) [Insane]](https://osu.ppy.sh/beatmapsets/703956#osu/1489205)
   2. [Chiyoko - Alice's Mad Tea Party (neonat) [Lunatic]](https://osu.ppy.sh/beatmapsets/215151#osu/515360)
   3. [765PRO ALLSTARS - READY!! (S i R i R u) [THE OSUM@STER]](https://osu.ppy.sh/beatmapsets/41121#osu/132903)
@@ -171,11 +171,11 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
   1. [Camellia feat. Nanahira - Hakuraku (Nyquill) [Dioquill's Expert]](https://osu.ppy.sh/beatmapsets/894415#osu/1869049)
   2. [Dragonforce - Fury Of The Storm (lesjuh) [Expert]](https://osu.ppy.sh/beatmapsets/10460#osu/40753)
   3. [Warriyo - Venom (Yamicchi) [Neurotoxin]](https://osu.ppy.sh/beatmapsets/713362#osu/1507681)
-- HardRock
+- Hard Rock
   1. [Hatsune Miku - Rubik's Cube (rui) [7x7x7]](https://osu.ppy.sh/beatmapsets/33651#osu/114635)
   2. [8284 vs wa. - Adularescence (Cherry Blossom) [Extra]](https://osu.ppy.sh/beatmapsets/119438#osu/306669)
   3. [CINDERELLA PROJECT - Star!! (Sotarks) [Lami's Extra]](https://osu.ppy.sh/beatmapsets/785518#osu/1649062)
-- DoubleTime
+- Double Time
   1. [zts - death(from stupefaction) (Mirash) [La Pandaline's Insane]](https://osu.ppy.sh/beatmapsets/889315#osu/1858801)
   2. [Itou Masumi - Yume no Naka no Watashi no Yume (RLC) [Coda]](https://osu.ppy.sh/beatmapsets/668664#osu/1414553)
   3. [The Chainsmokers & Coldplay - Something Just Like This (handsome) [Insane]](https://osu.ppy.sh/beatmapsets/611301#osu/1358045)
@@ -192,11 +192,11 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
   1. [Team:SASAKURATION - AVALON (Leader) [Another]](https://osu.ppy.sh/beatmapsets/118763#osu/305660)
   2. [Yokoyama Nao (CV: Watanabe Yui) - Home is a coming now! (Startrick) [scanter's Expert]](https://osu.ppy.sh/beatmapsets/876010#osu/1838563)
   3. [Ito Kashitaro x Lon - Soushi Sou Ai (Anishina Kodoku) [kanor's Extra]](https://osu.ppy.sh/beatmapsets/669776#osu/1625916)
-- HardRock
+- Hard Rock
   1. [Syoko Hoshi (CV: Satsumi Matsuda) - Zettai Tokken Shuchou Shimasu! Hoshi Syoko Solo Remix (Lami) [Gaia's Insane]](https://osu.ppy.sh/beatmapsets/546878#osu/1172784)
   2. [Duoscience - Indifferences (Mir) [Ametrin's Insane]](https://osu.ppy.sh/beatmapsets/722662#osu/1538481)
   3. [sakuzyo - Lexus cyanixs (-GN) [Another]](https://osu.ppy.sh/beatmapsets/65505#osu/191877)
-- DoubleTime
+- Double Time
   1. [Sayuri - Sore wa Chiisana Hikari no Youna (FrostxE) [Insane]](https://osu.ppy.sh/beatmapsets/427725#osu/923319)
   2. [Rchetype - V Is For (Blue Dragon) [Hard]](https://osu.ppy.sh/beatmapsets/111914#osu/296102)
   3. [Daft Punk ft. Pharrell Williams - Get Lucky (Mashley) [Daft]](https://osu.ppy.sh/beatmapsets/89049#osu/242326)
@@ -213,11 +213,11 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
   1. [HyuN feat. LyuU - Cross Over (Realazy) [pishi's Insane]](https://osu.ppy.sh/beatmapsets/891337#osu/1863226)
   2. [Foo Fighters - Monkey Wrench (Danny) [Insane]](https://osu.ppy.sh/beatmapsets/90087#osu/257742)
   3. [Nekomata Master feat. Misawa Aki - chrono diver -fragment- (moph) [Insane]](https://osu.ppy.sh/beatmapsets/372200#osu/821965)
-- HardRock
+- Hard Rock
   1. [Kano - Sakura no Zenya ([XV]) [Akitoshi's Insane]](https://osu.ppy.sh/beatmapsets/594067#osu/1257819)
   2. [nameless x toa - Patchwork Staccato (Taeyang) [Another]](https://osu.ppy.sh/beatmapsets/416702#osu/1962068)
   3. [xi - ANiMA (sdafsf) [Insane]](https://osu.ppy.sh/beatmapsets/624995#osu/1365161)
-- DoubleTime
+- Double Time
   1. [Haruna Luna - Startear (Melophobia) [Insane]](https://osu.ppy.sh/beatmapsets/208426#osu/490802)
   2. [The Doors - Riders on the Storm (Infected Mushroom Remix) (Mao) [Insane]](https://osu.ppy.sh/beatmapsets/236405#osu/547591)
   3. [Igorrr - Pavor Nocturnus (grumd) [Hard]](https://osu.ppy.sh/beatmapsets/57525#osu/224387)
@@ -232,10 +232,10 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 - Hidden
   1. [Underoath - A Moment Suspended in Time (Milan-) [Insane]](https://osu.ppy.sh/beatmapsets/407575#osu/885357)
   2. [Shimamura Uzuki (CV:Ayaka Ohashi) - S(mile)ING! (Vanillas) [Setz's M@ster+]](https://osu.ppy.sh/beatmapsets/428243#osu/981005)
-- HardRock
+- Hard Rock
   1. [Matsushita&yuikonnu - LOVE x LOVE Whistle (Anais) [Luna's Insane]](https://osu.ppy.sh/beatmapsets/260135#osu/665559)
   2. [Krewella - Surrender The Throne (xDarxen) [Reform's Insane]](https://osu.ppy.sh/beatmapsets/482317#osu/1079550)
-- DoubleTime
+- Double Time
   1. [Senritsu & Xinely - and I'm home (Karen) [Insane]](https://osu.ppy.sh/beatmapsets/375661#osu/822682)
   2. [Reol - Heimenkyou (Frey) [Stan's Hard]](https://osu.ppy.sh/beatmapsets/867074#osu/1812657)
 
@@ -476,7 +476,7 @@ Both tournaments will use a standard double-elimination format for playoffs.
 ### Lobby and matches
 
 1. Missing your match counts as a loss; no rematches will be made.
-2. Score V2 will be used as the win condition.
+2. ScoreV2 will be used as the win condition.
 3. Warmups will not be allowed.
 4. Low roll bans first; high roll picks first.
 5. The loser of each map will pick the next one.

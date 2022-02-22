@@ -100,11 +100,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Nasty Maid Grinder - Necromancer (Stefan) \[Taikovic Oni\]](https://osu.ppy.sh/beatmapsets/740097#taiko/1561432)
   2. [Nemuresu - Goliath (7\_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/823244#taiko/1725321)
   3. [MMQX - Spell No. 213 (incandescence) \[Blackmagic\]](https://osu.ppy.sh/beatmapsets/803652#taiko/1686776)
-- HardRock
+- Hard Rock
   1. [P\*Light - FUNKY SUMMER BEACH (SKSalt) \[CRAZY SUMMER\]](https://osu.ppy.sh/beatmapsets/349507#taiko/770730)
   2. [cosMo VS dj TAKA - kyouken (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/680794#taiko/1439407)
   3. [star anis - Adult Mode \[YUC'e Remix\] (hoku-4625) \[hoku's twinkle night ^z^\]](https://osu.ppy.sh/beatmapsets/804530#taiko/1688880)
-- DoubleTime
+- Double Time
   1. [Cororo - ancient garden (Hayate1129) \[Inner Oni\]](https://htfarmingiscool.s-ul.eu/7FGlbMQg)
   2. [SHK - Follow Me (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/802367#taiko/1683996)
   3. [Omoi - Nee William (sobatsuyu) \[Oni\]](https://osu.ppy.sh/beatmapsets/333503#taiko/776180)
@@ -129,11 +129,11 @@ This competition has come to an end and resulted in the following podium:
   1. [onoken - ZADAMGA (agu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/458476#taiko/982430)
   2. [P\*Light - NINJA IS DEAD IIDX ver. (Skylish) \[Skylish's Corpse Inner Oni\]](https://osu.ppy.sh/beatmapsets/590032#taiko/1628026)
   3. [lapix - Amazing Mirage (Raphalge) \[???\]](https://osu.ppy.sh/beatmapsets/679147#taiko/1435910)
-- HardRock
+- Hard Rock
   1. [xi - Go Beyond!! -Jazzy mix- (frukoyurdakul) \[Don't Hold Back\]](https://osu.ppy.sh/beatmapsets/742399#taiko/1565915)
   2. [Function Phantom - Euclid (tasuke912) \[Indifferentiable\]](https://osu.ppy.sh/beatmapsets/761560#taiko/1601331)
   3. [USAO - Miracle 5ympho X (Gezoda) \[Gezo's Giga Oni\]](https://osu.ppy.sh/beatmapsets/137394#taiko/486191)
-- DoubleTime
+- Double Time
   1. [Colors Slash - Colors Power ni Omakasero! (Sober Bear Remix) (HEKUSODASU) \[Oni\]](https://osu.ppy.sh/beatmapsets/807284#taiko/1725411)
   2. [Rainbowdragoneyes - The Rift (Mew104) \[Oni\]](https://osu.ppy.sh/beatmapsets/445365#taiko/1475222)
   3. [TheFatRat - Mayday (feat. Laura Brehm) (Skull Kid) \[Mayday\]](https://osu.ppy.sh/beatmapsets/793457#taiko/1666285)
@@ -158,11 +158,11 @@ This competition has come to an end and resulted in the following podium:
   1. [IOSYS TRAX (uno with.chiyoko) - DX Choseinou Full Metal Shoujo (Skull Kid) \[Skid's HUMAN MAP\]](https://osu.ppy.sh/beatmapsets/823625#taiko/1725945)
   2. [DJ SHARPNEL - IVALTEK (Pheon) \[Phedondon\]](https://osu.ppy.sh/beatmapsets/50429#taiko/155101)
   3. [YUC'e - Night Club Junkie (KinomiCandy) \[HELLO BOYS AND GIRLS\]](https://osu.ppy.sh/beatmapsets/618171#taiko/1303164)
-- HardRock
+- Hard Rock
   1. [Minamotoya feat. Kuroa\* - Hana Kagerou (K-2) \[Flower\]](https://osu.ppy.sh/beatmapsets/491879#taiko/1048016)
   2. [Various Artists - Re:zero Opening Theme Set (Y O U T A) \[Paradisus-Paradoxum\]](https://osu.ppy.sh/beatmapsets/518854#taiko/1102393)
   3. [Jerico - Beyond Space Forcibly (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/340890#taiko/753944)
-- DoubleTime
+- Double Time
   1. [Mili - Mushrooms (Bowashe) \[Oni\]](https://osu.ppy.sh/beatmapsets/710235#taiko/1501403)
   2. [TERRA - Tenjou no Hoshi \~Reimeiki\~ (lepidopodus) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/14977#taiko/66719)
   3. [Yokomin feat. Yuzuki Yukari - Story In Everlasting Princess (Okoratu) \[oko's Oni\]](https://osu.ppy.sh/beatmapsets/527735#taiko/1189462)
@@ -187,11 +187,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Megpoid GUMI & Kagamine Rin - Invisible (climb65588) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/45160#taiko/155355)
   2. [Warak - REANIMATE (Raiden) \[Raiden's Inner Oni\]](https://osu.ppy.sh/beatmapsets/411866#taiko/1043373)
   3. [t+pazolite & C-Show - TRICKL4SH (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/408774#taiko/887549)
-- HardRock
+- Hard Rock
   1. [61 Degrees - Kagami (eeezzzeee) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/304783#taiko/682773)
   2. [ginkiha - Oriens (\[I\]MMoRTal\[S\]) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/202040#taiko/491412)
   3. [LindaAI-CUE - Norudon2000 (OnosakiHito) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/335229#taiko/742085)
-- DoubleTime
+- Double Time
   1. [M2U - Quo Vadis (TKSalt) \[Oni\]](https://osu.ppy.sh/beatmapsets/135324#taiko/339132)
   2. [Shoji Meguro - Never More (lepidopodus) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/19432#taiko/77978)
   3. [Caravan Palace - Lone Digger (incandescence) \[Oni\]](https://osu.ppy.sh/beatmapsets/649083#taiko/1375193)
@@ -216,11 +216,11 @@ This competition has come to an end and resulted in the following podium:
   1. [BlackY - AlphaOmega (L y s) \[Oni\]](https://osu.ppy.sh/beatmapsets/354237#taiko/781043)
   2. [MAK & SAK feat. XANA - Indecent (Nightcore Mix) (Gero) \[Gero's Inner Oni\]](https://osu.ppy.sh/beatmapsets/620305#taiko/1310411)
   3. [D.J.Amuro - ZZ (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/357767#taiko/786903)
-- HardRock
+- Hard Rock
   1. [yak\_won - Sewing Machine (Chromoxx) \[Chromoxx' Inner Oni\]](https://osu.ppy.sh/beatmapsets/489381#taiko/1043084)
   2. [Zekk - Fluctuation (kon tja) \[Oni\]](https://osu.ppy.sh/beatmapsets/705801#taiko/1492769)
   3. [sampling masters MEGA - Bamboo on Bamboo (Cyclohexane) \[TK\]](https://osu.ppy.sh/beatmapsets/43644#taiko/138927)
-- DoubleTime
+- Double Time
   1. [Duca - Shiawase Teigi (Short Ver.) (ReySHeL) \[ReySHeL's Oni\]](https://osu.ppy.sh/beatmapsets/80125#taiko/224814)
   2. [Kitsune^2 - Rainbow Tylenol (DakeDekaane) \[Dekaane's Oni\]](https://osu.ppy.sh/beatmapsets/396643#taiko/903561)
   3. [Hatsune Miku - Ai Kotoba (Kanpakyin) \[Kanpakyin's Taiko\]](https://osu.ppy.sh/beatmapsets/20993#taiko/74595)
@@ -245,11 +245,11 @@ This competition has come to an end and resulted in the following podium:
   1. [MELL - Red Fraction (JUDYDANNY) \[Feeling Oni (2013)\]](https://osu.ppy.sh/beatmapsets/536550#taiko/1137021)
   2. [uno feat.Chiyoko(IOSYS) - Twin Rocket (Feerum) \[Oni\]](https://osu.ppy.sh/beatmapsets/401961#taiko/874272)
   3. [M2U & NICODE feat. Guriri & Lucy - Myosotis (Midnaait) \[Oni\]](https://osu.ppy.sh/beatmapsets/322404#taiko/716826)
-- HardRock
+- Hard Rock
   1. [Vau Boy - Video Game Girl (ft. viewtifulday) (Gero) \[Oni\]](https://osu.ppy.sh/beatmapsets/331778#taiko/734845)
   2. [Yuuzuki Tsubaki - midnight cookie (tasuke912) \[tasuke's Oni\]](https://osu.ppy.sh/beatmapsets/326177#taiko/751211)
   3. [Juice WRLD - Paranoid (Backfire) \[Oni\]](https://osu.ppy.sh/beatmapsets/786057#taiko/1650158)
-- DoubleTime
+- Double Time
   1. [RAN - Dekat di Hati (REDSHiFT Remix) (Surono) \[Sur's Oni\]](https://osu.ppy.sh/beatmapsets/350207#taiko/794747)
   2. [Rin - Kurikaeshi Hitotsubu (qoot8123) \[qoot8123's Oni\]](https://osu.ppy.sh/beatmapsets/422377#taiko/961290)
   3. [Nekomata Master feat. Mimi Nyami - TWINKLING (bank78952) \[Oni\]](https://osu.ppy.sh/beatmapsets/483914#taiko/1032387)
@@ -468,12 +468,12 @@ Sunday, 22 July 2018:
 
 ### Mappool and map rules
 
-1. Each mappool consists of: 5 NoMod, 3 [Hidden](/wiki/Game_modifier/Hidden), 3 [HardRock](/wiki/Game_modifier/Hard_Rock), 3 [DoubleTime](/wiki/Game_modifier/Double_Time), 3 FreeMod, and 1 Tiebreaker.
+1. Each mappool consists of: 5 NoMod, 3 [Hidden](/wiki/Game_modifier/Hidden), 3 [Hard Rock](/wiki/Game_modifier/Hard_Rock), 3 [Double Time](/wiki/Game_modifier/Double_Time), 3 FreeMod, and 1 Tiebreaker.
 2. Players will have 2 bans for each match.
-3. The Hidden, HardRock and DoubleTime brackets will all be played using the mods specified by the bracket title.
+3. The Hidden, Hard Rock and Double Time brackets will all be played using the mods specified by the bracket title.
 4. In the FreeMod bracket players must choose a mod.
-5. In the FreeMod bracket players may choose between all mods available in the multiplayer lobby besides DoubleTime/Nightcore, HalfTime, NoFail and Easy.
-6. In the Tiebreaker beatmap, players may choose between all mods available in the multiplayer lobby besides DoubleTime/Nightcore, HalfTime, NoFail and Easy.
+5. In the FreeMod bracket players may choose between all mods available in the multiplayer lobby besides Double Time/Nightcore, Half Time, No Fail and Easy.
+6. In the Tiebreaker beatmap, players may choose between all mods available in the multiplayer lobby besides Double Time/Nightcore, Half Time, No Fail and Easy.
 
 ### Match rules and instructions
 

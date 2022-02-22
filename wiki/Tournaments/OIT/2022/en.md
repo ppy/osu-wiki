@@ -111,10 +111,10 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 - Hidden
   1. [Yorushika - Matasaburo (Rosiie) \[Summer Wind\]](https://osu.ppy.sh/beatmapsets/1485959#osu/3047001)
   2. [S.S.H. - Hard Wire (fartownik) \[Insane\]](https://osu.ppy.sh/beatmapsets/963692#osu/2017628)
-- HardRock
+- Hard Rock
   1. [SAKANAMON - Fumeikakuna Seika (AirinCat) \[Extra\]](https://osu.ppy.sh/beatmapsets/1552743#osu/3172606)
   2. [Arizona Zervas - ROXANNE (Remix) (feat. Swae Lee) (wafer) \[ROCK SAND (Remix)\]](https://osu.ppy.sh/beatmapsets/1607645#osu/3282876)
-- DoubleTime
+- Double Time
   1. [sky\_delta feat. Aitsuki Nakuru - Othello syndrome (lushifer) \[Transpain (edit.)\]](https://osu.ppy.sh/beatmapsets/1683218#osu/3439136)
   2. [Mami Kawada - sense (Giralda) \[LC's Insane\]](https://osu.ppy.sh/beatmapsets/325638#osu/723285)
   3. [yanaginagi - Vidro Moyou (rosario wknd) \[Visit from a Fallen Star\]](https://osu.ppy.sh/beatmapsets/1202515#osu/2504335)
@@ -136,10 +136,10 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 - Hidden
   1. [kurubukkochan - Rain (Reincarnation) \[Rein\]](https://osu.ppy.sh/beatmapsets/886147#osu/1852501)
   2. [Various Artists - Netsuretsu Kangei Wonderland (Mirash) \[PandaHero's Extra\]](https://osu.ppy.sh/beatmapsets/1604477#osu/3333126)
-- HardRock
+- Hard Rock
   1. [Kanzaki Elza starring ReoNa - Independence (Maot) \[Masquerade CS4\]](https://osu.ppy.sh/beatmapsets/1557099#osu/3448344)
   2. [SWAN K feat. Asuka M - LOVE B.B.B (Nakagawa-Kanon) \[Another\]](https://osu.ppy.sh/beatmapsets/48537#osu/150488)
-- DoubleTime
+- Double Time
   1. [sakanaction - Shin Takarajima (Fixxis) \[Insane\]](https://osu.ppy.sh/beatmapsets/1188206#osu/2476090)
   2. [rerulili feat. Dancing Dolls - Kami no Manima Ni (Sephira) \[RLC's Insane\]](https://osu.ppy.sh/beatmapsets/1182518#osu/2465404)
 
@@ -147,13 +147,13 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 ### General rules
 
-1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
+1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#ScoreV2).**
 2. The mappools for each round will be announced by the Tournament Management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+7. **No Fail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they had failed the beatmap. 
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
 9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most. 

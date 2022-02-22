@@ -102,10 +102,10 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 - Hidden
   1. [Reji - A Young Girl, So Vivid in the Night (S a n d) \[Sand's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/342499#taiko/757048)
   2. [DECO*27 - Tsumi to Batsu (Cihyaa) \[Coin's Taiko\]](https://osu.ppy.sh/beatmapsets/345191#taiko/762382)
-- HardRock
+- Hard Rock
   1. [t+pazolite - Pee-Kan Breaks (Ulqui) \[Overlapse Oni\]](https://osu.ppy.sh/beatmapsets/529539#taiko/1122796)
   2. [NEKI<T - GaRaKuTic Dream (7_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/577572#taiko/1222367)
-- DoubleTime
+- Double Time
   1. [SHK - Super Fantasy (aabc271) \[Inner Oni+\]](https://osu.ppy.sh/beatmapsets/541523#taiko/1148729)
   2. [TOMOSUKE x Jazzin'park - LANA - Kiroku no Kakera (sasakure.UK Framework Remix) - (SKSalt) \[SK's Inner Oni\]](https://osu.ppy.sh/beatmapsets/286025#taiko/871725)
 - Special
@@ -130,10 +130,10 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 - Hidden
   1. [Halozy - Monosugoi Raivu de Cirno ga Sokohakatonaku Monosugoi Uta (Nofool) \[Hard Oni\]](https://osu.ppy.sh/beatmapsets/411578#taiko/893023)
   2. [Team:SASAKURATION - AVALON (Firce777) \[Firce777's Ura Oni\]](https://osu.ppy.sh/beatmapsets/118763#taiko/406755)
-- HardRock
+- Hard Rock
   1. [Kano - Yuudachi no Ribbon (Y O U T A) \[Ribbon\]](https://osu.ppy.sh/beatmapsets/477178#taiko/1019297)
   2. [mafumafu - Yuugure Semi Nikki (-\[ ix Ishida xi \]-) \[-\[ ix IshidaTaikonari xi \]-\]](https://osu.ppy.sh/beatmapsets/83519#taiko/230572)
-- DoubleTime
+- Double Time
   1. [AIKO OI - Limitless Possibility (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/585513#taiko/1240275)
   2. [mary - DAYBREAK FRONTLINE (Jerry) \[Daybreak Oni\]](https://osu.ppy.sh/beatmapsets/609728#taiko/1289501)
 - Special
@@ -158,10 +158,10 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 - Hidden
   1. [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey (Nwolf) \[Nwolf's Oni\]](https://osu.ppy.sh/beatmapsets/274111#taiko/667471)
   2. [Ym1024 - orange tea (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/282369#taiko/638541)
-- HardRock
+- Hard Rock
   1. [Renard - Smoke Tower (Grimbow) \[Grim Oni v2\]](https://osu.ppy.sh/beatmapsets/269021#taiko/1625314)
   2. [Rohi - Kanata ni Mau wa Sakura no Shirabe (Flower) \[Taiko Flower\]](https://osu.ppy.sh/beatmapsets/111635#taiko/291133)
-- DoubleTime
+- Double Time
   1. [Warak - Once Upon A Time (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/586418#taiko/1241907)
   2. [Sara - Natsuiro Present o BPM180 ni Shitemita (snowball112) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/524050#taiko/1112372)
 - Special
@@ -186,10 +186,10 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 - Hidden
   1. [Mystic Moon - The Zoo Zone (cdhsausageboy) \[Oni (ATS Ver.)\]](https://osu.ppy.sh/beatmapsets/795265#taiko/1670210)
   2. [Ayasa - Kou ! Tetsu ! Ketsu ! Sen ! -Ironbottom Sound- (S a n d) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/519566#taiko/1103735)
-- HardRock
+- Hard Rock
   1. [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (-xNaCLx-) \[Saltaiko@NaCL\]](https://osu.ppy.sh/beatmapsets/326711#taiko/725333)
   2. [ginkiha + kamome sano - Dawn of Asia (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/446239#taiko/958486)
-- DoubleTime
+- Double Time
   1. [Meg & Dia - Monster (DotEXE Remix) (NewibornCLivee) \[NC's Inner Oni\]](https://osu.ppy.sh/beatmapsets/157896#taiko/386782)
   2. [cillia - Melt (mintong89) \[Oni\]](https://osu.ppy.sh/beatmapsets/552915#taiko/1171884)
 - Special
@@ -214,10 +214,10 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 - Hidden
   1. [Umetora - Ifuudoudou (a2805146) \[Oni\]](https://osu.ppy.sh/beatmapsets/578927#taiko/1225677)
   2. [Ryu* Vs. L.E.D.-G - PARADISE LOST (Frank7654321) \[Taiko\]](https://osu.ppy.sh/beatmapsets/38043#taiko/122471)
-- HardRock
+- Hard Rock
   1. [Acchi Kocchi Cast - Acchi de Kocchi de (TV Size) (kg2161012) \[KG's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/49967#taiko/164702)
   2. [Junichi Masuda, Go Ichinose - Pokemon World Championships Final (Stefan) \[Final Oni\]](https://osu.ppy.sh/beatmapsets/600544#taiko/1268988)
-- DoubleTime
+- Double Time
   1. [MYTH & ROID - STYX HELIX (Nardoxyribonucleic) \[Nardo's Inner Oni\]](https://osu.ppy.sh/beatmapsets/501705#taiko/1160392)
   2. [Ikimono Gakari - Netsujou no Spectrum (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/275309#taiko/624413)
 - Special
@@ -242,10 +242,10 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 - Hidden
   1. [Hommarju - Rock It (Ayyri) \[Ayyri's Oni\]](https://osu.ppy.sh/beatmapsets/703311#taiko/1488043)
   2. [Anamanaguchi - Blackout City (Sushi) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/67226#taiko/203101)
-- HardRock
+- Hard Rock
   1. [Mitsuki Nakae - Disappearing Queen (bossandy) \[Boss Taiko Oni\]](https://osu.ppy.sh/beatmapsets/29582#taiko/132499)
   2. [Maffalda - pensamento tipico de esquerda caviar (OnosakiHito) \[Oni\]](https://osu.ppy.sh/beatmapsets/175036#taiko/468992)
-- DoubleTime
+- Double Time
   1. [Gunther - Famous (bossandy) \[Boss Taiko Oni\]](https://osu.ppy.sh/beatmapsets/47713#taiko/148274)
   2. [senya - Kasoku Suru Koi wa Dare mo Tomerarenai (wmfchris) \[Wmf's Taiko Lite\]](https://osu.ppy.sh/beatmapsets/80747#taiko/249761)
 - Special
@@ -268,10 +268,10 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 - Hidden
   1. [xi - .357 Magnum \[Ex's Oni\]](https://osu.ppy.sh/beatmapsets/155749#taiko/682957)
   2. [Pinocchio-P - Mushroom Mother (MMzz) \[Oni\]](https://osu.ppy.sh/beatmapsets/88802#taiko/241858)
-- HardRock
+- Hard Rock
   1. [Miyazaki Ayumi - brave heart (HeatKai) \[Heat's Oni\]](https://osu.ppy.sh/beatmapsets/107222#taiko/281048)
   2. [Alex C. feat. Yasmin K. - Angel Of Darkness (Nightcore Mix) (psj1226) \[Psj's Taiko\]](https://osu.ppy.sh/beatmapsets/16489#taiko/69439)
-- DoubleTime
+- Double Time
   1. [Matsumoto Tamaki - Tenshi Teki Kenpou Yonjou (aabc271) \[aabc's Taiko\]](https://osu.ppy.sh/beatmapsets/43100#taiko/137802)
   2. [SOUND HOLIC - CANDY POWDER (toarafict) \[Toara's Oni\]](https://osu.ppy.sh/beatmapsets/172627#taiko/459500)
 - FreeMod

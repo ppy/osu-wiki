@@ -134,11 +134,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Yousei Teikoku - Wahrheit (Saten) \[Saten\]](https://osu.ppy.sh/beatmapsets/53923#osu/164183)
   2. [M2U - Placebo Dying (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/60081#osu/179758)
   3. [Fear, and Loathing in Las Vegas - Just Awake (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/44527#osu/139446)
-- HardRock
+- Hard Rock
   1. [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#osu/99342)
   2. [Rohi - Kodoku Egoism (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/58737#osu/196673)
   3. [Kagamine Rin - Black Rebel (val0108) \[0108 Rebel\]](https://osu.ppy.sh/beatmapsets/28425#osu/109301)
-- DoubleTime
+- Double Time
   1. [Touyama Nao - Happy Crescent (Sumisola) \[Insane\]](https://osu.ppy.sh/beatmapsets/26966#osu/94634)
   2. [Matchbox Twenty - How Far We've Come (Sushi) \[Insane\]](https://osu.ppy.sh/beatmapsets/31014#osu/104117)
   3. [doriko feat. Hatsune Miku - Paradise Cage (KanbeKotori) \[Insane\]](https://osu.ppy.sh/beatmapsets/23483#osu/80384)
@@ -164,11 +164,11 @@ This competition has come to an end and resulted in the following podium:
   1. [goreshit - o'er the flood (grumd) \[The Flood Beneath\]](https://osu.ppy.sh/beatmapsets/51972#osu/181253)
   2. [Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)
   3. [Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/19789#osu/69405)
-- HardRock
+- Hard Rock
   1. [Yousei Teikoku - Mischievous of Alice (Furawa) \[Alice\]](https://osu.ppy.sh/beatmapsets/35546#osu/142356)
   2. [sun3 - Higan Retour (saymun) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14464#osu/54373)
   3. [Megurine Luka - Leia (Mafiamaster) \[gowww\]](https://osu.ppy.sh/beatmapsets/29064#osu/96587)
-- DoubleTime
+- Double Time
   1. [Skillet - Hero (tutuhaha) \[Fate\]](https://osu.ppy.sh/beatmapsets/52361#osu/160106)
   2. [Katy Perry - E.T. (La Cataline) \[Futuristic\]](https://osu.ppy.sh/beatmapsets/36077#osu/116708)
   3. [SHK - Identity Part 4 (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/39428#osu/125838)
@@ -189,10 +189,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [naotyu- - Her Majesty (Reisen Udongein) \[Another\]](https://osu.ppy.sh/beatmapsets/52360#osu/160104)
   2. [paraoka - Dreadnought (Star Stream) \[Insane\]](https://osu.ppy.sh/beatmapsets/48356#osu/149559)
-- HardRock
+- Hard Rock
   1. [Noisestorm - Solar (Shiirn) \[Another\]](https://osu.ppy.sh/beatmapsets/33483#osu/109163)
   2. [kaztora, eba, Misaki Nakajima - Messiah (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmapsets/21877#osu/75689)
-- DoubleTime
+- Double Time
   1. [Infected Mushroom - The Legend of Black Shawarma (La Cataline) \[Insane\]](https://osu.ppy.sh/beatmapsets/20122#osu/74697)
   2. [Marie & Shimotsuki Haruka - Hane no Naki Chou (KanbeKotori) \[Insane\]](https://osu.ppy.sh/beatmapsets/35666#osu/115457)
 - Tiebreaker
@@ -214,10 +214,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [sakuzyo feat. Hatsune Miku - ChaiN De/structioN (Shiirn) \[Loneliness\]](https://osu.ppy.sh/beatmapsets/49071#osu/154165)
   2. [Hanatan - Kimi no Kiseki (Star Stream) \[Mythol's Insane\]](https://osu.ppy.sh/beatmapsets/54602#osu/166116)
-- HardRock
+- Hard Rock
   1. [Amane - Midsummer Festival (Natteke) \[Lunatteke\]](https://osu.ppy.sh/beatmapsets/21924#osu/75822)
   2. [ClariS - Connect (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/26116#osu/88302)
-- DoubleTime
+- Double Time
   1. [Swagberg - Pony Swag (feat. Maros) (ztrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/42513#osu/133693)
   2. [Two Door Cinema Club - What You Know (Krisom) \[Insane\]](https://osu.ppy.sh/beatmapsets/31517#osu/103566)
 - Tiebreaker
@@ -235,10 +235,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [RSP - The First Star (IchiGUN) \[S h i a's Insane\]](https://osu.ppy.sh/beatmapsets/46342#osu/145601)
   2. [Shihori - Bloody Night (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/46223#osu/143989)
-- HardRock
+- Hard Rock
   1. [SYNC.ART'S ft. Sakaue Nachi - Green Grass Garden (Odaril) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/47779#osu/148065)
   2. [iconoclasm - perditus paradisus (Sharp) \[Another\]](https://osu.ppy.sh/beatmapsets/22212#osu/76717)
-- DoubleTime
+- Double Time
   1. [Nishino Kana - Distance (Magicphoenix) \[Collab\]](https://osu.ppy.sh/beatmapsets/43016#osu/135200)
   2. [Duca - Clover (Cilvery) \[Collab\]](https://osu.ppy.sh/beatmapsets/51515#osu/157856)
 - Tiebreaker
@@ -258,10 +258,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Kozato - 45nen no Yukizakura (LoliSora) \[Another\]](https://osu.ppy.sh/beatmapsets/50771#osu/155929)
   2. [07th Expansion - lixAxil (La Cataline) \[Insane\]](https://osu.ppy.sh/beatmapsets/37627#osu/125944)
-- HardRock
+- Hard Rock
   1. [Tsubaki - Kyun Kyun Tamaran Inaba tan! (Aenna) \[Inaba!\]](https://osu.ppy.sh/beatmapsets/35219#osu/114446)
   2. [ALiCE'S EMOTiON - Ghostly Parapara Ship (Hardcore Edit) (Thite) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/27914#osu/93323)
-- DoubleTime
+- Double Time
   1. [Julian Smith - Racist Coffee (RobotoRaccoon) \[Insane\]](https://osu.ppy.sh/beatmapsets/31284#osu/102891)
   2. [Usa - The Last Queen (banvi) \[Insane\]](https://osu.ppy.sh/beatmapsets/39467#osu/125784)
 - Tiebreaker
@@ -281,10 +281,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Skrillex - Bangarang (feat. Sirah) (Cut Ver.) (TicClick) \[LC\]](https://osu.ppy.sh/beatmapsets/42311#osu/133476)
   2. [Igorrr - Mastication Numerique (grumd) \[Folie\]](https://osu.ppy.sh/beatmapsets/54182#osu/164841)
-- HardRock
+- Hard Rock
   1. [DJ Genericname - Dear You (Rue) \[Dear Rue\]](https://osu.ppy.sh/beatmapsets/43466#osu/136400)
   2. [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/24325#osu/82734)
-- DoubleTime
+- Double Time
   1. [Hatsune Miku - Kimi ni Uso (KanaRin) \[Kana\]](https://osu.ppy.sh/beatmapsets/25000#osu/84824)
   2. [yonji - Waruku nai ne (Reiji-RJ) \[Hard\]](https://osu.ppy.sh/beatmapsets/33692#osu/109759)
 - Tiebreaker
@@ -322,10 +322,10 @@ This competition has come to an end and resulted in the following podium:
 1. 15 minutes before the match, the tournament management must contact each captain and confirm the ready to play. The management creates the match and invites the captains.
 2. During the match, there must be 8 players on the server hosted by one of the captains, 4 players from each team.
 3. Captain of the winning team must provide screenshots of all of the map results and the Multiplayer History link. These must be sent to to ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917) or ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) via forum PM. If any of the captains won't do it, the match will be nullified and a rematch will be needed.
-4. Each round, the staff will announce the list of beatmaps (= mappool), from which the captains will be able to choose. These beatmaps are seperated into 5 brackets: NoMod, Hidden, HardRock, DoubleTime and Tiebreaker.
+4. Each round, the staff will announce the list of beatmaps (= mappool), from which the captains will be able to choose. These beatmaps are seperated into 5 brackets: NoMod, Hidden, Hard Rock, Double Time and Tiebreaker.
 5. Alternately each captain selects a map out of the mappool. Captains should agree to each other who will select the first map. If no agreement can't be reached, blue team starts selecting.
    - The captains can select maps out of the NoMod bracket unlimited.
-   - Selection out of mod-specific brackets is limited. Each captain can only select one map from each mod-restricted bracket during match. So each team can pick 1 HardRock, 1 Hidden and 1 DoubleTime map during match.
+   - Selection out of mod-specific brackets is limited. Each captain can only select one map from each mod-restricted bracket during match. So each team can pick 1 Hard Rock, 1 Hidden and 1 Double Time map during match.
    - In case of tie, the tiebreaker map must be played.
 6. The settings of the multiplayer room will be: osu! standard mode, `Team VS` mode and win condition: score.
 7. You are free to set 'No Video' mod. Also, you are free to use the Funspoiler options.

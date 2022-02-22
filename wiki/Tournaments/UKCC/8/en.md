@@ -138,11 +138,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Reol - +Danshi (fanzhen0019) [HW]](https://osu.ppy.sh/beatmapsets/178550#osu/431717)
   2. [Falcom Sound Team jdk - GENESIS BEYOND THE BEGINNING (Mariko Sakuragi) [Extra]](https://osu.ppy.sh/beatmapsets/1032441#osu/2223544)
   3. [Britney Spears - Toxic (schoolboy) [In The Zone]](https://osu.ppy.sh/beatmapsets/1061947#osu/2223745)
-- HardRock
+- Hard Rock
   1. [Rche - Todestrieb (FrenZ396) [Impulse]](https://osu.ppy.sh/beatmapsets/968678#osu/2026835)
   2. [Exilia - Lifegame (P o M u T a) [Expert]](https://osu.ppy.sh/beatmapsets/331859#osu/735004)
   3. [Cranky - Rave 2 Rave (Sonnyc) [Expert]](https://osu.ppy.sh/beatmapsets/751896#osu/1582902)
-- DoubleTime
+- Double Time
   1. [Tommy heavenly6 - PAPERMOON (Jounzan) [Insane]](https://osu.ppy.sh/beatmapsets/503978#osu/1072406)
   2. [ClariS - Colorful (Laurier) [Insane]](https://osu.ppy.sh/beatmapsets/134008#osu/336295)
   3. [onoken - felys -long remix- (Sharp) [Another]](https://osu.ppy.sh/beatmapsets/25109#osu/85075)
@@ -167,11 +167,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Yumeno Yuki - BWLAUTE BEIRRD (Lasse) [LMT's Expert.]](https://osu.ppy.sh/beatmapsets/1014034#osu/2131275)
   2. [bbn - Identic Conflict (Myxo) [LMT's Another]](https://osu.ppy.sh/beatmapsets/1020429#osu/2135438)
   3. [A.SAKA - Nanatsu Issenzakura (yf_bmp) [imouto's Extra]](https://osu.ppy.sh/beatmapsets/513731#osu/1092646)
-- HardRock
+- Hard Rock
   1. [Rita - dorchadas (Delis) [Sharnoth]](https://osu.ppy.sh/beatmapsets/580215#osu/1279490)
   2. [Anamanaguchi - Blackout City (Sushi) [Blackout]](https://osu.ppy.sh/beatmapsets/67226#osu/195477)
   3. [Nardis - Cosmo Memory (Shiirn) [Entelecheia]](https://osu.ppy.sh/beatmapsets/517598#osu/1099759)
-- DoubleTime
+- Double Time
   1. [Akatsuki Records - SAMURAI GHOST GIRL, KILL! KILL! (SMOKELIND) [KOWARI'S LUNATIC]](https://osu.ppy.sh/beatmapsets/1073159#osu/2245963)
   2. [zts - miragecoordinator (Tsumugi-chan) [Collab Expert]](https://osu.ppy.sh/beatmapsets/1085924#osu/2270798)
   3. [Underoath - You're Ever So Inviting (pishifat) [Insane]](https://osu.ppy.sh/beatmapsets/324586#osu/721157)
@@ -196,11 +196,11 @@ This competition has come to an end and resulted in the following podium:
   1. [TK from Ling tosite sigure - Fu re te Fu re ru (Mao) [Expert]](https://osu.ppy.sh/beatmapsets/880806#osu/1841827)
   2. [Kawada Mami - JOINT (Mariko Sakuragi) [Insane+]](https://osu.ppy.sh/beatmapsets/1051651#osu/2287620)
   3. [Camellia - Towards The Horizon (Pho) [Chaoz's Extra]](https://osu.ppy.sh/beatmapsets/636393#osu/1501737)
-- HardRock
+- Hard Rock
   1. [Wagakki Band - Ikusa (Atsuro) [Hope]](https://osu.ppy.sh/beatmapsets/345860#osu/767914)
   2. [Brandy - Cross Time !! (Leader) [captin's Extra]](https://osu.ppy.sh/beatmapsets/973162#osu/2067296)
   3. [Memme - Chinese Restaurant (M o k o r i) [Spicy]](https://osu.ppy.sh/beatmapsets/256467#osu/587547)
-- DoubleTime
+- Double Time
   1. [Egypt Central - White Rabbit (Mordred) [Insane]](https://osu.ppy.sh/beatmapsets/1039791#osu/2185147)
   2. [Utsu-P - Corona (Net0) [Insane]](https://osu.ppy.sh/beatmapsets/1001722#osu/2096920)
   3. [Foreground Eclipse - In A Night When Her Sorrow Resounds Around (Seni) [tatemae's Lunatic]](https://osu.ppy.sh/beatmapsets/901755#osu/1914105)
@@ -225,11 +225,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Renard - TU4AR (Mercurius) [Nogard]](https://osu.ppy.sh/beatmapsets/28997#osu/97934)
   2. [TAG - Theory of Eternity (kiddly) [Extra]](https://osu.ppy.sh/beatmapsets/35224#osu/227061)
   3. [ETIA. - Claiomh Solais (Zare) [Eternal]](https://osu.ppy.sh/beatmapsets/165664#osu/403039)
-- HardRock
+- Hard Rock
   1. [24K - SUPERFLY (DeRandom Otaku) [LIT]](https://osu.ppy.sh/beatmapsets/558362#osu/1181126)
   2. [Kiryu - EVE (Flower) [Another]](https://osu.ppy.sh/beatmapsets/213434#osu/501755)
   3. [ETIA. - Lost Love (JJburstOwO) [Last Eve]](https://osu.ppy.sh/beatmapsets/341933#osu/755900)
-- DoubleTime
+- Double Time
   1. [eufonius - glowing world \~Kagayaki no, Sekai e\~ (Dored) [Ojousama koko's Insane.]](https://osu.ppy.sh/beatmapsets/911279#osu/1919061)
   2. [Kiryu - Disguise (Seikatu) [Insane]](https://osu.ppy.sh/beatmapsets/225957#osu/642573)
   3. [monet - Kagami no Sekai ni wa Watashi shika Inai -another version- (Mirash) [PandaHero's Insane]](https://osu.ppy.sh/beatmapsets/685725#osu/1469159)
@@ -254,11 +254,11 @@ This competition has come to an end and resulted in the following podium:
   1. [DJ Totoriott - Chloe (Yusomi) [Extreme]](https://osu.ppy.sh/beatmapsets/768982#osu/1617055)
   2. [Kola Kid - can't hide your love (Kert) [Can]](https://osu.ppy.sh/beatmapsets/39732#osu/126470)
   3. [Jin feat. MARiA from GARNiDELiA - daze (Loneight) [Extra]](https://osu.ppy.sh/beatmapsets/188837#osu/449984)
-- HardRock
+- Hard Rock
   1. [Underoath - A Moment Suspended in Time (Milan-) [BOUYAAA's Extra]](https://osu.ppy.sh/beatmapsets/407575#osu/915675)
   2. [Shinra-bansho - Itazura Sensation (Hailie) [Mathew's Insane]](https://osu.ppy.sh/beatmapsets/745460#osu/1616716)
   3. [TOPHAMHAT-KYO - Princess Danshi (Achilanx) [Princess' Temptation]](https://osu.ppy.sh/beatmapsets/1061929#osu/2223705)
-- DoubleTime
+- Double Time
   1. [nano - GALLOWS BELL (theramdans) [A Mystery's Insane]](https://osu.ppy.sh/beatmapsets/170942#osu/611679)
   2. [Sum 41 - The Hell Song (Natteke) [Hard]](https://osu.ppy.sh/beatmapsets/23797#osu/81227)
   3. [sakuzyo - Senkyou Ranbu (ktgster) [Insane]](https://osu.ppy.sh/beatmapsets/460516#osu/1042025)
@@ -282,11 +282,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Yonezu Kenshi - LOSER (Skystar) [WINNER]](https://osu.ppy.sh/beatmapsets/852544#osu/1781960)
   2. [O-Life Japan - Nuclear Fusion (ignorethis) [Insane]](https://osu.ppy.sh/beatmapsets/16649#osu/59685)
   3. [jippusu - Heisei Kataku Rhythm (HelloSCV) [Insane]](https://osu.ppy.sh/beatmapsets/71720#osu/205379)
-- HardRock
+- Hard Rock
   1. [Subplaid - Only time make your hapiness (Kyshiro) [Forever]](https://osu.ppy.sh/beatmapsets/255887#osu/586303)
   2. [Negentropy (a.k.a. Team Grimoire) - ouroVoros (Suzuki_1112) [Firika's Another]](https://osu.ppy.sh/beatmapsets/707164#osu/1557405)
   3. [Chasers - Lost (ktgster) [Insane]](https://osu.ppy.sh/beatmapsets/151878#osu/374114)
-- DoubleTime
+- Double Time
   1. [yukizakurasou - Natsukage \~Ano Hikoukigumo wo Koeta, Sono Saki e\~ (Garden) [Recollections of Summer]](https://osu.ppy.sh/beatmapsets/664684#osu/1417243)
   2. [Duoscience - Indifferences (Mir) [Nowa's Light Insane]](https://osu.ppy.sh/beatmapsets/722662#osu/1538482)
   3. [Rin - Spring of Dreams (jyc-Binggan) [Lunatic]](https://osu.ppy.sh/beatmapsets/119739#osu/325938)
@@ -306,10 +306,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Taku Inoue - Yoake made Ato 3 Byou (Nerova Riuz GX) [apaffy's Extra]](https://osu.ppy.sh/beatmapsets/768893#osu/1643448)
   2. [ONE OK ROCK - NO SCARED (HabiHolic) [Insane]](https://osu.ppy.sh/beatmapsets/119277#osu/306278)
-- HardRock
+- Hard Rock
   1. [Arctic Monkeys - Still Take You Home (Milan-) [BOUYAAA's Insane]](https://osu.ppy.sh/beatmapsets/631466#osu/1491730)
   2. [DJ YOSHITAKA - Bloody Tears(IIDX EDITION) (Gabi) [Insane]](https://osu.ppy.sh/beatmapsets/6598#osu/29731)
-- DoubleTime
+- Double Time
   1. [ITO KASHITARO - Boku no Hosomichi (Raose) [Journey]](https://osu.ppy.sh/beatmapsets/394691#osu/859034)
   2. [Hana - Sakura no Uta (Alyce) [Light Insane]](https://osu.ppy.sh/beatmapsets/376552#osu/824390)
 
@@ -603,7 +603,7 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1qBNQM
 ### Picking
 
 - Teams have **2 minutes** to pick a map. Failure to pick a map within this time limit results in pick choice being passed to the opposing player.
-- For FreeMod picks, teams must select any combination of **Hidden or HardRock**.
+- For FreeMod picks, teams must select any combination of **Hidden or Hard Rock**.
 - Failed scores will count.
 - Tiebreakers are FreeMod, however NoMod can be used.
 

@@ -520,7 +520,7 @@ Only the top 55 players advance to the next round.
 4. Failing to complete ruleset #2 or #3 **may result in your registration not being counted**.
 5. The scoring system used will be **ScoreV2**.
 6. There will be five rounds in the tournament. Each round, participants will be given 5 days (1 work week) to get the highest possible cumulative score across all 4 maps for the running round.
-7. Maps will be played with FreeMod. The only allowed mods are FadeIn, Flashlight, Hidden, and SuddenDeath.
+7. Maps will be played with FreeMod. The only allowed mods are Fade In, Flashlight, Hidden, and Sudden Death.
 8. The mappool will consist of:
    - 1 Hybrid map
    - 1 Technical map

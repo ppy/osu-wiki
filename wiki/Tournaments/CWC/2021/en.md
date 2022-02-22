@@ -109,11 +109,11 @@ The osu!catch World Cup 2021 was run by the [osu! team](/wiki/People/The_Team) a
   1. [FictionJunction YUUKA - aikoi (F D Flourite) \[Prison (CWC ver.)\]](https://osu.ppy.sh/beatmapsets/1478465#fruits/3033162)
   2. [Luschka - Kami no Kotoba (Spectator) \[Sonorous\]](https://osu.ppy.sh/beatmapsets/1478471#fruits/3033170)
   3. [SYUNN - Megalara Garuda (Callionet) \[Intensity\]](https://osu.ppy.sh/beatmapsets/536607#fruits/1137172)
-- HardRock
+- Hard Rock
   1. [Kagetora. - Crazy banger (Zyzyx) \[FATAL\]](https://osu.ppy.sh/beatmapsets/1393941#fruits/2877477)
   2. [Zekk - Sugary Daydream (Du5t) \[oh yes... (cwc 2021 ver.)\]](https://osu.ppy.sh/beatmapsets/1478481#fruits/3033189)
   3. [Riz vs. Shiron - veRtrageS (EvilElvis) \[Extreme\]](https://osu.ppy.sh/beatmapsets/473148#fruits/1011030)
-- DoubleTime
+- Double Time
   1. [CyoucyoP feat.Hatsune Miku - End of the World (Rocma) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1478476#fruits/3033178)
   2. [A.SAKA - Yosakura Fubuki (F D Flourite) \[Flourite & Himiko's ZHNotSteven\]](https://osu.ppy.sh/beatmapsets/1478483#fruits/3033192)
   3. [GARNiDELiA - ambiguous (captin1) \[Nathan's Insane\]](https://osu.ppy.sh/beatmapsets/303867#fruits/814991)
@@ -133,11 +133,11 @@ The osu!catch World Cup 2021 was run by the [osu! team](/wiki/People/The_Team) a
   1. [seatrus - MONONOKE (Deif) \[HIME\]](https://osu.ppy.sh/beatmapsets/1471249#fruits/3020457)
   2. [James Landino - Hide and Seek (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1471251#fruits/3020459)
   3. [A.SAKA - Nanatsu Koyoto (xLolicore-) \[Kawa's Extra\]](https://osu.ppy.sh/beatmapsets/768281#fruits/1618445)
-- HardRock
+- Hard Rock
   1. [Lime - Chronomia (Rocma) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1471328#fruits/3020579)
   2. [Yousei Teikoku - Kuraki Sekai no Doukoku (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1471258#fruits/3020466)
   3. [Trifect - Neverland (Ayayaaaa) \[V. Dakini Deadly\]](https://osu.ppy.sh/beatmapsets/1058959#fruits/2607001)
-- DoubleTime
+- Double Time
   1. [Amatsuki - DORAEMON (Verti) \[Best Friend\]](https://osu.ppy.sh/beatmapsets/1327531#fruits/2750179)
   2. [Creo - In Circles (salchow) \[Pulse\]](https://osu.ppy.sh/beatmapsets/965558#fruits/2021199)
   3. [Susumu Hirasawa - The Girl in Byakkoya (Pata-Mon) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/770240#fruits/1885024)
@@ -157,11 +157,11 @@ The osu!catch World Cup 2021 was run by the [osu! team](/wiki/People/The_Team) a
   1. [Rohi - Slan Leat (Rocma) \[Farewell\]](https://osu.ppy.sh/beatmapsets/1463978#fruits/3007113)
   2. [KAKU P-MODEL - Sore ike! Halycon (Deif) \[Go for it!\]](https://osu.ppy.sh/beatmapsets/1463986#fruits/3007125)
   3. [sekai - Zange Mairi (Yugu) \[Voice's Insane\]](https://osu.ppy.sh/beatmapsets/1176431#fruits/2853477)
-- HardRock
+- Hard Rock
   1. [MisoilePunch - AstroNotes. (Jemzuu) \[OverDose. (CWC HR Ver.)\]](https://osu.ppy.sh/beatmapsets/1464350#fruits/3007647)
   2. [supercell - Rock 'n' Roll Nandesu no (Ascendance) \[Today is a beautiful day!\]](https://osu.ppy.sh/beatmapsets/1463994#fruits/3007144)
   3. [siqlo - Dirigeant Decision (PandaHero) \[Extra\]](https://osu.ppy.sh/beatmapsets/1240362#fruits/2578746)
-- DoubleTime
+- Double Time
   1. [USAO - Showdown (Cut Ver.) (Rocma) \[Rain\]](https://osu.ppy.sh/beatmapsets/1464000#fruits/3007151)
   2. [zts - miragecoordinator (Deif) \[Memoirs\]](https://osu.ppy.sh/beatmapsets/1464008#fruits/3007160)
   3. [nameless x toa - Patchwork Staccato (Taeyang) \[Another\]](https://osu.ppy.sh/beatmapsets/416702#fruits/1962068)
@@ -180,11 +180,11 @@ The osu!catch World Cup 2021 was run by the [osu! team](/wiki/People/The_Team) a
   1. [YOASOBI - Kaibutsu (Crowley) \[Predatorial Instinct\]](https://osu.ppy.sh/beatmapsets/1362546#fruits/2819040)
   2. [Zutt - HYMN (Jemzuu) \[Elan\]](https://osu.ppy.sh/beatmapsets/1457333#fruits/2995100)
   3. [Hijirime Laeria - stlaeria (Hinsvar) \[Salvation\]](https://osu.ppy.sh/beatmapsets/1352739#fruits/2800493)
-- HardRock
+- Hard Rock
   1. [ABSOLUTE CASTAWAY - Shinsou Shintouron (-Luminate) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1286508#fruits/2696508)
   2. [beatMARIO - Night of Knights (-wwwww) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/755113#fruits/1589553)
   3. [BLOOD CODE - POP SHOVE-IT FEAT. TOFUKU (Hobbes2) \[Extra\]](https://osu.ppy.sh/beatmapsets/1294825#fruits/2686903)
-- DoubleTime
+- Double Time
   1. [Brown Eyed Girls - Abracadabra (Rocma) \[2009 in 2021\]](https://osu.ppy.sh/beatmapsets/1457287#fruits/2995017)
   2. [Monster Siren - MSR / Chen Xue Ran - Operation Blade (Yumeno Himiko) \[Champion\]](https://osu.ppy.sh/beatmapsets/1457175#fruits/2994836)
   3. [zts - resurrectedreplayer (EvilElvis) \[Intricate\]](https://osu.ppy.sh/beatmapsets/304672#fruits/693412)
@@ -203,11 +203,11 @@ The osu!catch World Cup 2021 was run by the [osu! team](/wiki/People/The_Team) a
   1. [Raito - False Infinite Parallel (JierYagtama) \[Hollow Night IWEX\]](https://osu.ppy.sh/beatmapsets/1450769#fruits/2982696)
   2. [40mP - Dandan Hayaku Naru (F D Flourite) \[Dandan\]](https://osu.ppy.sh/beatmapsets/1450388#fruits/2981944)
   3. [Chaos City Niigata - Ukiyoe Yokochou (Otosaka-Yu) \[nika mika's Sanbanchou Another\]](https://osu.ppy.sh/beatmapsets/713506#fruits/1566637)
-- HardRock
+- Hard Rock
   1. [Waldeus von dovjak - Omoide wo arigatou (Ascendance) \[Thank you, goodbye!\]](https://osu.ppy.sh/beatmapsets/1450387#fruits/2981943)
   2. [owl \* tree feat. yaki * tree - Sqlupp (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1450392#fruits/2981965)
   3. [DJ Totoriott - Chloe (Yusomi) \[Insane\]](https://osu.ppy.sh/beatmapsets/768982#fruits/1691531)
-- DoubleTime
+- Double Time
   1. [Yunomi - Wakusei Rabbit (feat. TORIENA) (-Luminate) \[Hyperion's Platter\]](https://osu.ppy.sh/beatmapsets/946510#fruits/2013900)
   2. [Hua Ling / Miao\*Jiang / Yan Ning / kinsen - Let the Wind Tell You (Yumeno Himiko) \[Fairy Tales\]](https://osu.ppy.sh/beatmapsets/1450401#fruits/2981975)
   3. [Tatsh feat. Tsukiko - Floating Darkness (Natteke) \[Collab\]](https://osu.ppy.sh/beatmapsets/22173#fruits/76612)
@@ -225,11 +225,11 @@ The osu!catch World Cup 2021 was run by the [osu! team](/wiki/People/The_Team) a
   1. [M2U - Tian Di Kai Pi (ZiRoX) \[Rain\]](https://osu.ppy.sh/beatmapsets/1441999#fruits/2966342)
   2. [Yu\_Asahina - Ongaku -resolve- (Ascendance) \[Mike x Benita's Rain\]](https://osu.ppy.sh/beatmapsets/1442003#fruits/2966346)
   3. [Ariabl'eyeS - Kegare Naki Bara Juuji (Short ver.) (My Angel RangE) \[Left's Insane\]](https://osu.ppy.sh/beatmapsets/535277#fruits/1170869)
-- HardRock
+- Hard Rock
   1. [Studio EIM - Raindrop Flower (F D Flourite) \[Fulaoer\]](https://osu.ppy.sh/beatmapsets/1442018#fruits/2966397)
   2. [USAO - Rampage (Rocma) \[Platter\]](https://osu.ppy.sh/beatmapsets/1442014#fruits/2966392)
   3. [nanobii - rainbow road (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/375073#fruits/823197)
-- DoubleTime
+- Double Time
   1. [Eve - As You Like It (GIGACHAD) \[Platter\]](https://osu.ppy.sh/beatmapsets/1442026#fruits/2966405)
   2. [Minato Aqua - Shiroi Yuki no Princess wa (Secre) \[Platter\]](https://osu.ppy.sh/beatmapsets/1375156#fruits/2874509)
   3. [Yorushika - Yuunagi, Bou, Hana Madoi (Delis) \[Insane\]](https://osu.ppy.sh/beatmapsets/1029921#fruits/2154729)
@@ -389,9 +389,9 @@ Sunday, 2 May 2021:
 
 1. The osu!catch World Cup is a country-based team tournament played on the osu!catch game mode.
    - While this competition is planned as a 3 versus 3 setup, this might change depending on the number of incoming registrations.
-2. Map scoring will use Score V2.
+2. Map scoring will use ScoreV2.
 3. The maps for each round will be announced by the mapset selectors in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-   - There will be a NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) bracket.
+   - There will be a NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time) bracket.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie at the match point.
 4. The match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
@@ -486,16 +486,16 @@ Sunday, 2 May 2021:
 ### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
-2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time).
+2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time).
 3. The Group Stage mappool will consist of 14 maps, Round of 16 and Quarterfinals will consist of 15 maps, Semifinals, Finals and Grand Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
-5. **The NoFail mod will be forced on every map.**
-6. The NoMod bracket will be played with no mods enabled at all (other than NoFail).
-7. The Hidden, HardRock and DoubleTime bracket will be played with the respective mods activated.
-   - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
+5. **The No Fail mod will be forced on every map.**
+6. The NoMod bracket will be played with no mods enabled at all (other than No Fail).
+7. The Hidden, Hard Rock and Double Time bracket will be played with the respective mods activated.
+   - When playing a map from the Hard Rock or Double Time pool, Hidden can be used optionally by any player.
 8. The tiebreaker will be played with no mods selected or with the Hidden mod.
 9. The size of the NoMod bracket will be 4 in Group Stage, 5 in Round of 16 and Quarterfinals and 6 for Semifinals, Finals and Grand Finals.
-10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 3 in all stages.
+10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time) brackets will be 3 in all stages.
 
 ### Scheduling instructions
 

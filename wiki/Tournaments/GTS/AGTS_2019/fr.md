@@ -134,10 +134,10 @@ Cette compétition est maintenant terminée, voici le classement final:
 - Hidden
   1. [Camellia - Primitive Pump (frz) \[Inner PUMP\]](https://osu.ppy.sh/beatmapsets/712424#taiko/1505977)
   2. [goreshit - Bad Habits (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/450569#taiko/966645)
-- HardRock
+- Hard Rock
   1. [Eagle - Hypersonik (Michiru) \[23-'s Inner Oni\]](https://osu.ppy.sh/beatmapsets/985854#taiko/2064162)
   2. [Camellia - Chirality (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/831411#taiko/1741806)
-- DoubleTime
+- Double Time
   1. [Pocket Mirror Sound Team - Midnight Striken Clock \~ Glass Slipper (Rhytoly) \[Oni\]](https://osu.ppy.sh/beatmapsets/925760#taiko/1933722)
   2. [JENNY ROM - WWW.BLONDE GIRL (MOMO MIX) (\[Belajar-Osu\]) \[Kqrth's Inner Oni\]](https://osu.ppy.sh/beatmapsets/920644#taiko/1933326)
 - FreeMod
@@ -163,10 +163,10 @@ Cette compétition est maintenant terminée, voici le classement final:
 - Hidden
   1. [Nanahira - Monosugoi Dekotora de Patchouli ga Monosugoi Uta (Greenshell) \[Lolishell\]](https://osu.ppy.sh/beatmapsets/620238#taiko/1307203)
   2. [EBIMAYO - GOODRAGE (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/679340#taiko/1436347)
-- HardRock
+- Hard Rock
   1. [Xandria - Nightfall (frukoyurdakul) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/697750#taiko/1477955)
   2. [t+pazolite - CENSORED!! (KitajimaYN) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/476520#taiko/1017812)
-- DoubleTime
+- Double Time
   1. [Doma Umaru (CV. Tanaka Aimi) - Nimensei\*Uraomote Life! (Tyistiana) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/707590#taiko/1502284)
   2. [Petit Rabbit's with beans - Sekai ga Cafe ni Nacchatta! (Tyistiana) \[Nardo's Inner Oni\]](https://osu.ppy.sh/beatmapsets/864036#taiko/2021055)
 - FreeMod
@@ -192,10 +192,10 @@ Cette compétition est maintenant terminée, voici le classement final:
 - Hidden
   1. [E.G.G. - OK I'm blue rat (Kqrth) \[Oni\]](https://osu.ppy.sh/beatmapsets/994780#taiko/2080103)
   2. [Rainbowdragoneyes - Creatures ov Deception (Mew104) \[Chromoxx' Inner Oni\]](https://osu.ppy.sh/beatmapsets/413267#taiko/935079)
-- HardRock
+- Hard Rock
   1. [Jerico - Beyond Space Forcibly (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/340890#taiko/753944)
   2. [Itou Kanako - Uncontrollable (Charlotte) \[Uncontrollable Oni\]](https://osu.ppy.sh/beatmapsets/640326#taiko/1358048)
-- DoubleTime
+- Double Time
   1. [PSYQUI - Update (Genjuro) \[Oni\]](https://osu.ppy.sh/beatmapsets/986373#taiko/2102164)
   2. [Neuromonakh Feofan - Vezde plyashu (Nepuri) \[Bezumnyy\]](https://osu.ppy.sh/beatmapsets/694154#taiko/1468657)
 - FreeMod
@@ -220,10 +220,10 @@ Cette compétition est maintenant terminée, voici le classement final:
 - Hidden
   1. [Yurry Canon - Suicide Parade (Yales) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/902163#taiko/1883597)
   2. [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro (Shiirn) \[Nwolf's Oni\]](https://osu.ppy.sh/beatmapsets/436978#taiko/978374)
-- HardRock
+- Hard Rock
   1. [Kiryu - Euphoric Phantasmagoria [komasy] \[Phantasm\]](https://osu.ppy.sh/beatmapsets/654413#taiko/1387168)
   2. [Zekk - Libertas (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1001338#taiko/2096131)
-- DoubleTime
+- Double Time
   1. [HyuN feat. JeeE - Fallen Angel (Mao) \[oko's Oni\]](https://osu.ppy.sh/beatmapsets/891335#taiko/1863216)
   2. [Ni-Sokkususu - Shukusai no Elementalia (Rhytoly) \[Oni\]](https://osu.ppy.sh/beatmapsets/927110#taiko/1945290)
 - FreeMod
@@ -250,11 +250,11 @@ Cette compétition est maintenant terminée, voici le classement final:
   1. [Zekk - Palpitation (yuzu\_\_rinrin) \[Pe'z Inner Oni\]](https://osu.ppy.sh/beatmapsets/761071#taiko/1608677)
   2. [The Flashbulb - Six Acid Strings (Nardoxyribonucleic) \[Volta's Oni\]](https://osu.ppy.sh/beatmapsets/966451#taiko/2078180)
   3. [Vickeblanka - Black Rover (TV Size) (Yales) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/793763#taiko/1666968)
-- HardRock
+- Hard Rock
   1. [Rin - Kishinjou set 04 ~ Dullahan Under the Willows (tasuke912) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/977058#taiko/2044998)
   2. [ZUN - Septette for the Dead Princess (Pereira006) \[Dunskin's Inner Oni\]](https://osu.ppy.sh/beatmapsets/348342#taiko/772246)
   3. [Caravan Palace - Dragons (Charles445) \[MM's Taiko\]](https://osu.ppy.sh/beatmapsets/46733#taiko/145511)
-- DoubleTime
+- Double Time
   1. [Silent Siren - stella\* (captin1) \[Climbb & KPY's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/163253#taiko/421153)
   2. [Aihara Kaori - Total Eclipse 2035 \~Shoujo no Jikuu Kaiki Nisshoku\~ (Senritsu) \[Oni\]](https://osu.ppy.sh/beatmapsets/114368#taiko/296195)
   3. [Hommarju - Crazy Jackpot (Tofu1222) \[aabc's Oni\]](https://osu.ppy.sh/beatmapsets/717853#taiko/1517306)
@@ -274,9 +274,9 @@ Cette compétition est maintenant terminée, voici le classement final:
   2. [Tati Zaqui - Placa no Chao (Kuron-kun) \[Vem pro baile\]](https://osu.ppy.sh/beatmapsets/737724#taiko/1556963)
 - Hidden
   1. [P\*Light - Gale Rider (Charlotte) \[komasy's Oni\]](https://osu.ppy.sh/beatmapsets/622356#taiko/1313624)
-- HardRock
+- Hard Rock
   1. [sasakure.UK (feat.Hatsune Miku) - SeventH-HeaveN (\[I\]MMoRTal\[S\]) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/177182#taiko/426542)
-- DoubleTime
+- Double Time
   1. [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
 
 ## Résultats des matchs
@@ -382,7 +382,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 1. Ce tournoi se joue en **équipes de deux (2) contre deux (2),** avec des équipes de **maximum 5 joueurs.**
 2. Les équipes vont tout d'abord jouer dans une **phase de groupes,** et ensuite jouer dans un**arbre à double élimination.**
-3. Le système de score sera **Score V2.**
+3. Le système de score sera **ScoreV2.**
 4. N'importe quel joueur remplissant les conditions d'inscriptions est autorisé à jouer. Ce tournoi étant prévu pour avoir un badge, certains joueurs peuvent être refusés par le staff d'osu!.
 5. N'importe quel membre du staff mis à part les **organisateurs, mapsetters et arbitres** peut jouer.
 6. Les joueurs et le staff doivent avoir lu les règles dans leur entièreté (et nous partirons du principe que vous les avez lues, pendant le tournoi).
@@ -434,11 +434,11 @@ Cette compétition est maintenant terminée, voici le classement final:
 1. Il y aura un mappool pour chaque étape : les Qualifications, les Phases de Groupes, Quarts de Finale, Demi-finales, Finales et Grande Finale.
 2. Le Loser's Bracket jouera sur le même mappool que le Winner's Bracket, chaque semaine.
 3. Le mappool des Qualifications sera totalement différent des autres, de par sa structure de deux (2) beatmaps jouées en NoMod (NM), une (1) beatmap jouée en Hidden (HD), une (1) beatmap jouée en Hard Rock (HR), et une (1) beatmap jouée en Double Time.
-4. Chaque mappool sera structuré avec 6 catégories de mods: NoMod (NM), Hidden (HD), HardRock (HR), DoubleTime (DT), FreeMod (FM) et le Tiebreaker (TB).
+4. Chaque mappool sera structuré avec 6 catégories de mods: NoMod (NM), Hidden (HD), Hard Rock (HR), Double Time (DT), FreeMod (FM) et le Tiebreaker (TB).
 5. Chaque mappool sera composé de 20 beatmaps.
-6. La taille du pool pour les mods Hidden, Hard Rock et DoubleTime sera de deux (2) et 3 pour le pool Freemod, peu importe l'étape du tournoi.
+6. La taille du pool pour les mods Hidden, Hard Rock et Double Time sera de deux (2) et 3 pour le pool Freemod, peu importe l'étape du tournoi.
 7. La catégorie de beatmaps EX sera jouée sans aucun mod actif, et est une version plus complexe des beatmaps NoMod, les maps contenant des patterns trompeurs, des changements de vitesse, etc...
-8. Le pool de beatmaps Freemod se jouera avec le Freemod activé. Chaque joueur peut individuellement choisir **Hidden, HardRock ou les deux. Chaque joueur présent dans la salle doit avoir au moins un mod activé lorsque le match commence.**
+8. Le pool de beatmaps Freemod se jouera avec le Freemod activé. Chaque joueur peut individuellement choisir **Hidden, Hard Rock ou les deux. Chaque joueur présent dans la salle doit avoir au moins un mod activé lorsque le match commence.**
 9. Le Tiebreaker sera joué au même titre que les beatmaps en Freemod, à l'exception que vous n'êtes pas obligé d'avoir un mod actif.
 10. Le mappool pour chaque étape sera dévoilé en direct une semaine avant le début des matchs sur ledit pool.
 
@@ -478,9 +478,9 @@ All-stars est un événement fait pour le fun, se déroulant le même week-end q
 1. 12 joueurs vont participer à cet événement. Ils seront décidés par un vote.
 2. Les 12 meilleurs joueurs (à l'issue du vote) participeront à l'événement. Dans le cas où plus de 2 joueurs du même pays sont dans le top 12, seuls les deux meilleurs prendront part à l'événement.
 3. les deux meilleurs joueurs à l'issue du vote seront capitaines de chaque équipe, et ils doivent choisir dans la liste des 10 joueurs suivants. Le joueur avec le plus de votes commencera à choisir. Le choix se fera dans un "snake draft picking style", voilà son fonctionnement: A->B->B->A->A->B->B->A->A->B.
-4. 2 matchs de type battle royale en 3 contre 3 avec un mappool à 12 beatmaps (2 NoMod, HardRock, Hidden, DoubleTime, FreeMod, EX) vont d'abord se jouer. (EX = des beatmaps beaucoup plus compliquées). Les maps vont être sélectionnées aléatoirement, grâce à une roue.
+4. 2 matchs de type battle royale en 3 contre 3 avec un mappool à 12 beatmaps (2 NoMod, Hard Rock, Hidden, Double Time, FreeMod, EX) vont d'abord se jouer. (EX = des beatmaps beaucoup plus compliquées). Les maps vont être sélectionnées aléatoirement, grâce à une roue.
 5. Un autre match va se dérouler en 4 contre 4, avec les règles suivantes:
-   - Un mappool composé de 5 beatmaps NoMod, HardRock, Hidden, DoubleTime, FreeMod, EX et 1 Tiebreaker (les règles sont les mêmes que lors d'un match normal)
+   - Un mappool composé de 5 beatmaps NoMod, Hard Rock, Hidden, Double Time, FreeMod, EX et 1 Tiebreaker (les règles sont les mêmes que lors d'un match normal)
    - Aucun ban ne sera effectué
    - Le mod sera choisi aléatoirement par un roll (avec un tableau), et les maps seront choisies avec une roue.
    - Il est autorisé de changer ses joueurs entre les maps sans limite aucune.

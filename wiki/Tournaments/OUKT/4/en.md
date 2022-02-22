@@ -96,10 +96,10 @@ The OUKT4 was run by various community members
 - Hidden
   1. [nmk - sola (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/183267#osu/439135)
   2. [t+pazolite - cheatreal (caren\_sk) \[Extra\]](https://osu.ppy.sh/beatmapsets/88180#osu/240488)
-- HardRock
+- Hard Rock
   1. [Qrispy Joybox - snow prism (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/132389#osu/332962)
   2. [Wotamin - Gigantic O.T.N (Star Stream) \[S.S\]](https://osu.ppy.sh/beatmapsets/80214#osu/223397)
-- DoubleTime
+- Double Time
   1. [Eurobeat Brony - Discord (EuroChaos Mix) ft. Odyssey (ztrot) \[Utter Chaos\]](https://osu.ppy.sh/beatmapsets/37994#osu/121836)
   2. [Shihori - Magic Girl !! (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/53519#osu/163054)
 - FreeMod
@@ -125,10 +125,10 @@ The OUKT4 was run by various community members
 - Hidden
   1. [YAMAGEN'S DEVILELIET - EYES OF DEVILELIET (Kite) \[PERNICIOUS\]](https://osu.ppy.sh/beatmapsets/36988#osu/119238)
   2. [goreshit - o’er the flood (grumd) \[The Flood Beneath\]](https://osu.ppy.sh/beatmapsets/51972#osu/181253)
-- HardRock
+- Hard Rock
   1. [Ranko - Sei Natsu (Amamiya Yuko) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/58785#osu/188835)
   2. [Akiakane - FlashBack (Kiiwa) \[Insane\]](https://osu.ppy.sh/beatmapsets/54672#osu/166126)
-- DoubleTime
+- Double Time
   1. [fumika - Umikaze no Brave (Evil\_Twilight) \[Believe\]](https://osu.ppy.sh/beatmapsets/66346#osu/193641)
   2. [Komatsu Mikako & Ishihara Kaori - Dazzling (P A N) \[Insane\]](https://osu.ppy.sh/beatmapsets/160595#osu/419451)
 - FreeMod
@@ -152,10 +152,10 @@ The OUKT4 was run by various community members
 - Hidden
   1. [Tristam - Once Again (grumd) \[Collab\]](https://osu.ppy.sh/beatmapsets/179495#osu/502418)
   2. [Syuiro - Ama no Jaku (Natteke) \[Insane\]](https://osu.ppy.sh/beatmapsets/39817#osu/126677)
-- HardRock
+- Hard Rock
   1. [Hatsune Miku - Subarashii Sekai (val0108) \[S.S\]](https://osu.ppy.sh/beatmapsets/25825#osu/96351)
   2. [Fear, and Loathing in Las Vegas - Take Me Out!! ( \[ Sana \]) \[Insane\]](https://osu.ppy.sh/beatmapsets/115358#osu/298176)
-- DoubleTime
+- Double Time
   1. [ClariS - with you (captin1) \[Insane\]](https://osu.ppy.sh/beatmapsets/138238#osu/345283)
   2. [Giga-P - Electric Angel (pkmnyab) \[Insane\]](https://osu.ppy.sh/beatmapsets/146794#osu/363639)
 - FreeMod
@@ -179,10 +179,10 @@ The OUKT4 was run by various community members
 - Hidden
   1. [Rchetype - V Is For (Blue Dragon) \[Insane\]](https://osu.ppy.sh/beatmapsets/111914#osu/290919)
   2. [Traktion - Mission ASCII (galvenize) \[Another\]](https://osu.ppy.sh/beatmapsets/53249#osu/162405)
-- HardRock
+- Hard Rock
   1. [Daisuke Ishiwatari, Koichi Seiyama - AWE OF SHE \~Dizzy's Theme\~ (TrigonometrY) \[Insane\]](https://osu.ppy.sh/beatmapsets/59370#osu/177973)
   2. [Cascada - How Do You Do (Nightcore Mix) (Asphyxia) \[Insane\]](https://osu.ppy.sh/beatmapsets/203787#osu/481450)
-- DoubleTime
+- Double Time
   1. [Infected Mushroom - Pink Nightmares (RLC) \[Insane\]](https://osu.ppy.sh/beatmapsets/107639#osu/281977)
   2. [Matchbox Twenty - How Far We've Come (Sushi) \[Insane\]](https://osu.ppy.sh/beatmapsets/31014#osu/104117)
 - FreeMod
@@ -206,10 +206,10 @@ The OUKT4 was run by various community members
 - Hidden
   1. [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](https://osu.ppy.sh/beatmapsets/111825#osu/290733)
   2. [Gavin G - Culture (Asphyxia) \[Insane\]](https://osu.ppy.sh/beatmapsets/219056#osu/513245)
-- HardRock
+- Hard Rock
   1. [DJ Genericname - Dango Dango Drum and Bass (Moway) \[Insane\]](https://osu.ppy.sh/beatmapsets/64636#osu/190045)
   2. [Leftymonster - START (HanzeR) \[Finish\]](https://osu.ppy.sh/beatmapsets/70102#osu/201700)
-- DoubleTime
+- Double Time
   1. [3L - Three Magic (cRyo\[iceeicee\]) \[Collab\]](https://osu.ppy.sh/beatmapsets/59631#osu/178643)
   2. [kanon x kanon - The Doll House! (Asgard) \[Painful World!\]](https://osu.ppy.sh/beatmapsets/43714#osu/137166)
 - FreeMod
@@ -231,10 +231,10 @@ The OUKT4 was run by various community members
 - Hidden
   1. [TwoThirds - Breathe (Secretpipe) \[Barricade's Insane\]](https://osu.ppy.sh/beatmapsets/124458#osu/373834)
   2. [Spor - That's That (feat. Illy Emcee) (TicClick) \[That’s Insane\]](https://osu.ppy.sh/beatmapsets/38929#osu/192979)
-- HardRock
+- Hard Rock
   1. [Raujika - Cry More (Broccoly) \[Broccoly\]](https://osu.ppy.sh/beatmapsets/102393#osu/270586)
   2. [Kakumi Nishigomi - Sengoku Sangen (lepidopodus) \[Insane\]](https://osu.ppy.sh/beatmapsets/26489#osu/89463)
-- DoubleTime
+- Double Time
   1. [Tsuji Ayano - Kaze ni Naru (S o a p) \[Insane\]](https://osu.ppy.sh/beatmapsets/170836#osu/413446)
   2. [Blue Stahli - Atom Smasher (Cobra) \[Advanced\]](https://osu.ppy.sh/beatmapsets/87626#osu/239259)
 - FreeMod
@@ -256,10 +256,10 @@ The OUKT4 was run by various community members
 - Hidden
   1. [SirensCeol - Nightmare (Maxin Remix) (galvenize) \[Another\]](https://osu.ppy.sh/beatmapsets/115107#osu/297663)
   2. [Kozato - 45nen no Yukizakura (LoliSora) \[Another\]](https://osu.ppy.sh/beatmapsets/50771#osu/155929)
-- HardRock
+- Hard Rock
   1. [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE (Startrick) \[Hyper\]](https://osu.ppy.sh/beatmapsets/107647#osu/282348)
   2. [Insert Rupee - Facing Fears (OC ReMix) (Charles445) \[Hard\]](https://osu.ppy.sh/beatmapsets/36541#osu/118474)
-- DoubleTime
+- Double Time
   1. [Hashimoto Miyuki - Symphonic Love (Short Ver.) (DarknessAngel) \[Hard\]](https://osu.ppy.sh/beatmapsets/71697#osu/208848)
   2. [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Hyper\]](https://osu.ppy.sh/beatmapsets/119235#osu/306207)
 - FreeMod

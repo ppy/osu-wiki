@@ -94,10 +94,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (Nofool) \[Hard Oni\]](https://osu.ppy.sh/beatmapsets/422816#taiko/913908)
   2. [LeaF - MEPHISTO (TKS) \[TK's Inner Oni\]](https://osu.ppy.sh/beatmapsets/106212#taiko/284037)
-- HardRock
+- Hard Rock
   1. [Kola Kid - can't hide your love (Ekoro) \[Divine Light\]](https://osu.ppy.sh/beatmapsets/207479#taiko/488844)
   2. [Ocelot - TSUBAKI (TKS) \[TSUBAKI\]](https://osu.ppy.sh/beatmapsets/177838#taiko/427932)
-- DoubleTime
+- Double Time
   1. [A.SAKA - Nanatsu Issenzakura (tasuke912) \[tasuke's Inner Oni\]](https://osu.ppy.sh/beatmapsets/320555#taiko/719063)
   2. [Ci Mei Gui - Wu Xuan Lan (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/339558#taiko/751680)
 - FreeMod
@@ -121,10 +121,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Camellia - Fastest Crash (BlackHairEND) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/344170#taiko/760371)
   2. [3R2 & DJ Mashiro - Sweetness Overload!!! (-xNaCLx-) \[NC's Inner Oni\]](https://osu.ppy.sh/beatmapsets/335242#taiko/742184)
-- HardRock
+- Hard Rock
   1. [61 Degrees - Kagami (eeezzzeee) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/304783#taiko/682773)
   2. [Mafumafu - Super Nuko ni Naritai (newyams99) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/468228#taiko/1001542)
-- DoubleTime
+- Double Time
   1. [THE DU - Crazy Noisy Bizarre Town (Full Ver.) (bank78952) \[Oni\]](https://osu.ppy.sh/beatmapsets/466071#taiko/997584)
   2. [Tamura Yukari feat. motsu from m.o.v.e - You & Me (climbb65588, aabc271) \[Climbb & aabc's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/67093#taiko/252518)
 - FreeMod
@@ -148,10 +148,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Krewella - Come And Get It (Razihel Remix) (hikikochan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/417377#taiko/903809)
   2. [An - Tephereth (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/364132#taiko/799402)
-- HardRock
+- Hard Rock
   1. [sakuzyo - Imprinting (Nanatsu) \[7 t h's Inner Oni\]](https://osu.ppy.sh/beatmapsets/371217#taiko/813387)
   2. [Zeami feat. Tenshi - Tenyou no Mai (Firce777) \[Firce777's Inner Oni\]](https://osu.ppy.sh/beatmapsets/178962#taiko/431502)
-- DoubleTime
+- Double Time
   1. [kors k feat.Yoshikawa Sunao - 7 Colors (Naryuga) \[Naryuga's Inner Oni\]](https://osu.ppy.sh/beatmapsets/148397#taiko/369597)
   2. [RAN - Dekat di Hati (REDSHiFT Remix) (Volta) \[FLP's Inner Oni\]](https://osu.ppy.sh/beatmapsets/350207#taiko/807140)
 - FreeMod
@@ -175,10 +175,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [SHW - Ikusa JAPAN (shw.in) (kanpakyin) \[Oni\]](https://osu.ppy.sh/beatmapsets/169969#taiko/411522)
   2. [Mili - Nine Point Eight (ReyShel) \[Oni\]](https://osu.ppy.sh/beatmapsets/198268#taiko/470278)
-- HardRock
+- Hard Rock
   1. [yuikonnu & Hiiragi Yuka - Otsukimi Recital (JUDYDANNY) \[JuDa's Oni\]](https://osu.ppy.sh/beatmapsets/113798#taiko/296261)
   2. [ESTi X M2U - Obelisque (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/172663#taiko/417241)
-- DoubleTime
+- Double Time
   1. [Aoi Eir - Satellite (kanpakyin, aabc271) \[KPY & aabc's Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/86312#taiko/304045)
   2. [senya - Iro wa Nioedo Chirinuru o(OPver.) (stu00608) \[stu's Oni\]](https://osu.ppy.sh/beatmapsets/226789#taiko/532440)
 - FreeMod
@@ -202,10 +202,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [IOSYS - Cirno's Perfect Math Class (DakeDekaane) \[Dekaane's Oni\]](https://osu.ppy.sh/beatmapsets/120071#taiko/330380)
   2. [marina - Towa yori Towa ni (TKS) \[TK's Muzukashii\]](https://osu.ppy.sh/beatmapsets/143370#taiko/368411)
-- HardRock
+- Hard Rock
   1. [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Oni\]](https://osu.ppy.sh/beatmapsets/140418#taiko/350732)
   2. [Hatsuki Yura - Yoiyami Hanabi (aabc271) \[aabc's Oni\]](https://osu.ppy.sh/beatmapsets/236568#taiko/549942)
-- DoubleTime
+- Double Time
   1. [Matsumoto Tamaki - Tenshi Teki Kenpou Yonjou (aabc271) \[aabc's Taiko\]](https://osu.ppy.sh/beatmapsets/43100#taiko/137802)
   2. [Perfume - Communication (Short Ver.) (hs714) \[714 Oni\]](https://osu.ppy.sh/beatmapsets/59227#taiko/178356)
 - FreeMod
@@ -352,9 +352,9 @@ Sunday, 7 May 2017:
 
 1. Indonesian Taiko Showdown was a one-on-one osu!taiko match.
 2. Participant with most score in a match, wins the round.
-3. Mappools consist of: 6 NoMod, 2 HardRock, 2 Hidden, 2 DoubleTime, 3 FreeMod, and 1 Tiebreaker.
+3. Mappools consist of: 6 NoMod, 2 Hard Rock, 2 Hidden, 2 Double Time, 3 FreeMod, and 1 Tiebreaker.
 4. Usage of Nightcore could be applied if both participants agree to use it.
-5. Participants might use Hidden, HardRock, or NoMod if the FreeMod map was picked.
+5. Participants might use Hidden, Hard Rock, or NoMod if the FreeMod map was picked.
 6. Each participant might ban up to **one** map per match.
 7. Each participant might pick **one** warmup before the match start
    - The warmup cannot exceed **5 minute** mark.

@@ -122,11 +122,11 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
   1. [Pierce The Veil - King For A Day (feat Kellin Quinn) (pishifat) \[Ex\]](https://osu.ppy.sh/beatmapsets/297909#osu/684163)
   2. [Foreground Eclipse - To The Terminus (Giralda) \[Skystar's Extra\]](https://osu.ppy.sh/beatmapsets/277481#osu/628755)
   3. [DJ Sharpnel - IVALTEK (happy30) \[HappyMiX\]](https://osu.ppy.sh/beatmapsets/50429#osu/154988)
-- HardRock
+- Hard Rock
   1. [yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](https://osu.ppy.sh/beatmapsets/52221#osu/182001)
   2. [Qrispy Joybox - licca (Minakami Yuki) \[Skystar's Expert\]](https://osu.ppy.sh/beatmapsets/287052#osu/690608)
   3. [Glamour of the Kill - A Hope in Hell (ykcarrot) \[Hopeless\]](https://osu.ppy.sh/beatmapsets/31814#osu/104389)
-- DoubleTime
+- Double Time
   1. [kaztora, eba, Misaki Nakajima - Messiah (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmapsets/21877#osu/75689)
   2. [Tristam - Once Again (grumd) \[Collab\]](https://osu.ppy.sh/beatmapsets/179495#osu/502418)
   3. [Matsumoto Sara - Ito Hakanaki Hikari no Gotoku (Mixagji) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/120255#osu/308350)
@@ -152,11 +152,11 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
   1. [BoA - Kiseki (Hinsvar) \[Miracle\]](https://osu.ppy.sh/beatmapsets/150145#osu/370612)
   2. [Demetori - Furuki Yuanxian ~ Death Echo (jonathanlfj) \[Extra Stage Collab\]](https://osu.ppy.sh/beatmapsets/291517#osu/656385)
   3. [sasakure.UK - Jack-the-Ripper (Sprosive) \[JackHasCome!\]](https://osu.ppy.sh/beatmapsets/23907#osu/81560)
-- HardRock
+- Hard Rock
   1. [Memme - Starving Days (Gamu) \[Extra\]](https://osu.ppy.sh/beatmapsets/275743#osu/625507)
   2. [EGOIST - Fallen (jonathanlfj) \[Extra\]](https://osu.ppy.sh/beatmapsets/232052#osu/538930)
   3. [cranky - R176 (taka1235) \[Another\]](https://osu.ppy.sh/beatmapsets/31367#osu/103102)
-- DoubleTime
+- Double Time
   1. [Meg & Dia - Black Wedding (Larto) \[Crazy!\]](https://osu.ppy.sh/beatmapsets/30000#osu/101115)
   2. [yanaginagi - landscape ([Vincent]) \[Insane\]](https://osu.ppy.sh/beatmapsets/244001#osu/563370)
   3. [Tsunamaru - paranoia (Chewin) \[RLC\]](https://osu.ppy.sh/beatmapsets/77999#osu/226563)
@@ -182,11 +182,11 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
   1. [Sota Fujimori - Move That Body -Extended Mix- (Amamiya Yuko) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/220220#osu/542336)
   2. [Tatsh - Cruel Moon (Shinxyn) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13584#osu/50148)
   3. [ETIA. - Lost Love (JJburstOwO) \[Last Eve\]](https://osu.ppy.sh/beatmapsets/341933#osu/755900)
-- HardRock
+- Hard Rock
   1. [Hanatan - If (Rakuen) \[wkyik's Insane\]](https://osu.ppy.sh/beatmapsets/230050#osu/587577)
   2. [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (Mikkuri) \[Extra\]](https://osu.ppy.sh/beatmapsets/335665#osu/742975)
   3. [Nekomata Master - Far east nightbird (kors k Remix) (jonathanlfj) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/144171#osu/358273)
-- DoubleTime
+- Double Time
   1. [senya - Yukitoke Realism (wring) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/252385#osu/579751)
   2. [ichigo - YU-MU (Louis Cyphre) \[Extra\]](https://osu.ppy.sh/beatmapsets/40348#osu/128074)
   3. [ClariS - with you (10nya) \[Laurier's Insane\]](https://osu.ppy.sh/beatmapsets/153793#osu/380012)
@@ -212,11 +212,11 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
   1. [Pendulum - Watercolour (Kecco) \[Extra\]](https://osu.ppy.sh/beatmapsets/109751#osu/569735)
   2. [U1 overground - Dopamine (fanzhen0019) \[Kotori's EXTREME\]](https://osu.ppy.sh/beatmapsets/210316#osu/533622)
   3. [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Aeon\]](https://osu.ppy.sh/beatmapsets/26528#osu/89362)
-- HardRock
+- Hard Rock
   1. [LhoU - Highlander (Cherry Blossom) \[Extra\]](https://osu.ppy.sh/beatmapsets/167225#osu/406247)
   2. [yuikonnu - Otsukimi Recital (Mythol) \[Collab\]](https://osu.ppy.sh/beatmapsets/107763#osu/282251)
   3. [Raujika - Land of Grace (Strawberry) \[Gracy\]](https://osu.ppy.sh/beatmapsets/73444#osu/209203)
-- DoubleTime
+- Double Time
   1. [Yoshida Mayumi - Zutto Kono Mama... (Mythol) \[cRyo's Insane\]](https://osu.ppy.sh/beatmapsets/63468#osu/196280)
   2. [capitaro - Karen Aikyou Hanasaka gumi (Tari) \[Insane\]](https://osu.ppy.sh/beatmapsets/324320#osu/720614)
   3. [ChouCho - My dear friend (Delis) \[Insane\]](https://osu.ppy.sh/beatmapsets/206079#osu/486131)
@@ -242,11 +242,11 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
   1. [MiddleIsland - Magnetic Shift (Natsu) \[UWS's Extra\]](https://osu.ppy.sh/beatmapsets/148535#osu/379411)
   2. [96Neko - Yoshiwara Lament (Minakami Yuki) \[Insane\]](https://osu.ppy.sh/beatmapsets/189377#osu/451227)
   3. [Kagamine Rin - Tokyo Teddy Bear (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/39838#osu/127138)
-- HardRock
+- Hard Rock
   1. [Uchida Maaya - Hana Tsubomi Yume Miru Kyoushikyoku \~Tamashii no Shirube\~ (Mythol) \[Insane\]](https://osu.ppy.sh/beatmapsets/89888#osu/244182)
   2. [Kotoge Mai - Mangekyou (Oracle) \[cRyo's Insane\]](https://osu.ppy.sh/beatmapsets/230094#osu/535334)
   3. [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (Kawaiwkyik) \[Insane\]](https://osu.ppy.sh/beatmapsets/190754#osu/454158)
-- DoubleTime
+- Double Time
   1. [Hatsuki Yura - Ganbare! Koi no Hana (Kotone) \[Hana\]](https://osu.ppy.sh/beatmapsets/55359#osu/167963)
   2. [senya - Bondage Anemonation (Satellite) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/122416#osu/323264)
   3. [Chata - anesthesia (hoLysoup) \[Anesthesia\]](https://osu.ppy.sh/beatmapsets/77093#osu/216690)
@@ -262,7 +262,7 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
 ### トーナメントルール
 
 1. osu!ワールドカップは国別対抗の4人vs 4人のトーナメントです。
-2. マップのスコアリングは、Score V2という新しい指標に基づいて行われます。**[詳しくはこちら！](https://osu.ppy.sh/community/forums/topics/375428)**
+2. マップのスコアリングは、ScoreV2という新しい指標に基づいて行われます。**[詳しくはこちら！](https://osu.ppy.sh/community/forums/topics/375428)**
 3. それぞれのラウンドのビートマップはあらかじめ試合が行われる前の日曜日にビートマップ選択者によって告知されます。各試合においてこのビートマップだけが使用可能です。
    - 1つは同点決勝ビートマップです。これは引き分けの場合のみプレイされます。
 4. 試合日程は大会運営者によって決定されます。(下記参照)
@@ -360,12 +360,12 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
 
 1. ビートマップ群はグループステージ、ベスト16決定用、準々決勝用、準決勝用、そして決勝用と、それぞれ1つずつ用意されます。
    1. 決勝のWeek 1とWeek 2では同じビートマップ群が使用されます。
-2. 各マッププールは5つの枠から成ります。: NoMod、HardRock、Hidden、DoubleTimeそして自由Modです。
+2. 各マッププールは5つの枠から成ります。: NoMod、Hard Rock、Hidden、Double Timeそして自由Modです。
 3. それぞれのビートマップ群は合計19ビートマップで構成されます。
 4. それぞれのビートマップ群には1つ同点決勝ビートマップが含まれます。
 5. NoMod枠は何もModをつけないでプレイしてください。
-6. Hidden、HardRock、そしてDoubleTime枠ではそのModをつけてプレイしてください。
-7. 自由Mod枠はどんなModでも構いません。各プレイヤーはHidden、HardRockもしくはModなしを選べます。
+6. Hidden、Hard Rock、そしてDouble Time枠ではそのModをつけてプレイしてください。
+7. 自由Mod枠はどんなModでも構いません。各プレイヤーはHidden、Hard RockもしくはModなしを選べます。
    1. プレイヤーは1Mod以上を選択しなければいけません。
    2. 自由Mod枠のビートマップをプレイする際は、少なくとも2名のプレイヤーが、最低1つのModをつけなければなりません。
 8. 同点決勝ビートマップはModの条件でプレイされます。

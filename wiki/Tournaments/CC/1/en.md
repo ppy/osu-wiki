@@ -83,10 +83,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Yousei Teikoku - Deep Sea (EvilElvisV2) [LC]](https://osu.ppy.sh/beatmapsets/104260#osu/274365)
   2. [Nanaki - Lovers White Flag (caren_sk) [CRN]](https://osu.ppy.sh/beatmapsets/126492#osu/321379)
-- HardRock
+- Hard Rock
   1. [Duca - COLD BUTTERFLY (Zweib) [Insane]](https://osu.ppy.sh/beatmapsets/125380#osu/363063)
   2. [Yooh - Shanghai Kouchakan \~ Chinese Tea Orchid Remix (Gamu) [INFINITE]](https://osu.ppy.sh/beatmapsets/184498#osu/486619)
-- DoubleTime
+- Double Time
   1. [Star Driver - 5 Centimeters Per Second (Come\[Back\]Home) [Right Back]](https://osu.ppy.sh/beatmapsets/239787#osu/554363)
   2. [ZUN - A Drunkard's Lemuria (Retro Ver.) (Itachi_Uchiha) [Insane]](https://osu.ppy.sh/beatmapsets/102412#osu/270622)
 - FreeMod
@@ -106,10 +106,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Dio ft. Sef - Tijdmachine (GladiOol) [Lesjuh! '11]](https://osu.ppy.sh/beatmapsets/6997#osu/129875)
   2. [An - Xhroria (Cherry Blossom) [Another]](https://osu.ppy.sh/beatmapsets/82258#osu/227772)
-- HardRock
+- Hard Rock
   1. [Shawn Wasabi - Marble Soda (Len) [Crier's Extra]](https://osu.ppy.sh/beatmapsets/387784#osu/846259)
   2. [S-C-U - concon (Sync) [Extreme]](https://osu.ppy.sh/beatmapsets/42051#osu/133053)
-- DoubleTime
+- Double Time
   1. [HTT - Pure Pure Heart (miccoliasms) [miccoli]](https://osu.ppy.sh/beatmapsets/16523#osu/67469)
   2. [Sakura Chiyo (CV:Ozawa Ari) - URAOMOTE FORTUNE (P A N) [Insane]](https://osu.ppy.sh/beatmapsets/210706#osu/495590)
 - FreeMod
@@ -129,10 +129,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Spriggen - Valkyrie Dimension (Charles445) [Insane]](https://osu.ppy.sh/beatmapsets/45935#osu/143189)
   2. [Sub Focus - Tidal Wave (feat. Alpines) (Secretpipe) [Collab Insane]](https://osu.ppy.sh/beatmapsets/296817#osu/673787)
-- HardRock
+- Hard Rock
   1. [Master Blaster - Come Clean (Nightcore Mix) (Asphyxia) [Collab]](https://osu.ppy.sh/beatmapsets/111538#osu/290060)
   2. [BlackYooh vs siromaru - BLACK or WHITE? (Fast) [Gurvy's EXHAUST]](https://osu.ppy.sh/beatmapsets/144158#osu/358682)
-- DoubleTime
+- Double Time
   1. [Pharrell Williams - Happy (Lissette) [Happy Collab]](https://osu.ppy.sh/beatmapsets/163941#osu/399269)
   2. [SYNC.ART's Ft. Momori - BICHROME (Kecco) [Hard]](https://osu.ppy.sh/beatmapsets/17756#osu/63218)
 - FreeMod
@@ -152,10 +152,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [ZUN - Crimson in the Black Sea \~ Legendary Fish (Leader) [Lunatic]](https://osu.ppy.sh/beatmapsets/88770#osu/286577)
   2. [ONE OK ROCK - Answer is Near (Kuria) [Insane]](https://osu.ppy.sh/beatmapsets/63112#osu/186721)
-- HardRock
+- Hard Rock
   1. [MitiS - Open Window (feat. Anna Yvette) ([Luanny]) [Collab]](https://osu.ppy.sh/beatmapsets/100628#osu/266925)
   2. [Sum 41 - The Hell Song (Natteke) [Hard]](https://osu.ppy.sh/beatmapsets/23797#osu/81227)
-- DoubleTime
+- Double Time
   1. [Owl City - Gold (inverness) [Hard]](https://osu.ppy.sh/beatmapsets/65146#osu/192314)
   2. [Paramore - Playing God (Lesjuh) [Hard]](https://osu.ppy.sh/beatmapsets/23052#osu/79189)
 - FreeMod
@@ -237,7 +237,7 @@ Saturday, 18 June 2016:
 - Each player is allowed one ban per match. The tiebreaker cannot be banned.
 - If a player disconnects during the match in which the outcome would have been different. A rematch can be offered under the Referee’s discretion.
 - Hard Rock and Double Time mappools can be played with Hidden if the player wants to.
-- Score V2 will be used.
+- ScoreV2 will be used.
 - Free Mod can be any mod the player decides (including EZ + FL).
 
 [flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"

@@ -124,12 +124,12 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
   2. [Apocalyptica - Hall of the Mountain King (pishifat) \[Extra\]](https://osu.ppy.sh/beatmapsets/219813#fruits/514597)
   3. [Hanazawa Kana - Renai Circulation (Full ver.) (DJPop) \[TAG2\]](https://osu.ppy.sh/beatmapsets/12563#fruits/48874)
   4. [ChouchouP - Tsukimiyo Rabbit (Zero\_\_wind) \[Tsuki\]](https://osu.ppy.sh/beatmapsets/122342#fruits/312959)
-- HardRock
+- Hard Rock
   1. [IOSYS - Border of Death (dksslqj) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14107#fruits/53380)
   2. [t+pazolite - chipscape (Shiirn) \[Ragnarok\]](https://osu.ppy.sh/beatmapsets/27752#fruits/95382)
   3. [Awake - Supernova (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmapsets/42909#fruits/138008)
   4. [Hanazawa Kana - Mousou Express (Remix) (Spectator) \[EX\]](https://osu.ppy.sh/beatmapsets/228539#fruits/532153)
-- DoubleTime
+- Double Time
   1. [Matsumoto Sara - Ito Hakanaki Hikari no Gotoku (Mixagji) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/120255#fruits/308350)
   2. [Megpoid GUMI - For my soul (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/22509#fruits/80102)
   3. [HTT - Girls in Wonderland (wcx19911123) \[Insane\]](https://osu.ppy.sh/beatmapsets/34427#fruits/111902)
@@ -153,12 +153,12 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
   2. [44teru-k - F.I (Jacob) \[Extra445\]](https://osu.ppy.sh/beatmapsets/47664#fruits/155235)
   3. [Beautiful Day - V3 (ignorethis) \[Impossible\]](https://osu.ppy.sh/beatmapsets/4622#fruits/41313)
   4. [M2U - Placebo Dying (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/60081#fruits/179758)
-- HardRock
+- Hard Rock
   1. [ESTi - HELIX (Edit ver.) (Hollow Wings) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/194910#fruits/470966)
   2. [Hatsune Miku - Reversible Doll (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/22773#fruits/78913)
   3. [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#fruits/99342)
   4. [Yuki Kajiura - Mezame (mercury2004) \[Mai\]](https://osu.ppy.sh/beatmapsets/22659#fruits/78049)
-- DoubleTime
+- Double Time
   1. [Denji Sano - Taiko Time (lepidopodus) \[Insane\]](https://osu.ppy.sh/beatmapsets/24320#fruits/84911)
   2. [Katy Perry - E.T. (La Cataline) \[Futuristic\]](https://osu.ppy.sh/beatmapsets/36077#fruits/116708)
   3. [U - Ha-tenya? (biwako) \[Insane\]](https://osu.ppy.sh/beatmapsets/37313#fruits/120080)
@@ -182,12 +182,12 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
   2. [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#fruits/93021)
   3. [Marika - Knowing short ver. (Konei) \[Rain\]](https://osu.ppy.sh/beatmapsets/146780#fruits/572867)
   4. [CLIFF EDGE - Endless Tears feat. Nakamura Maiko (CLSW) \[Tears\]](https://osu.ppy.sh/beatmapsets/197689#fruits/468824)
-- HardRock
+- Hard Rock
   1. [Kagamine Rin - Oni Kanojo (val0108) \[gow's Insane\]](https://osu.ppy.sh/beatmapsets/23616#fruits/86245)
   2. [doriko feat. Hatsune Miku - Paradise Cage (KanbeKotori) \[Insane\]](https://osu.ppy.sh/beatmapsets/23483#fruits/80384)
   3. [sun3 - Higan Retour (saymun) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14464#fruits/54373)
   4. [Mili - Utopiosphere (Spectator) \[Ecstasia\]](https://osu.ppy.sh/beatmapsets/187177#fruits/446769)
-- DoubleTime
+- Double Time
   1. [Yousei Teikoku - Deep Sea (EvilElvisV2) \[LC\]](https://osu.ppy.sh/beatmapsets/104260#fruits/274365)
   2. [Giga-P - Electric Angel (pkmnyab) \[Insane\]](https://osu.ppy.sh/beatmapsets/146794#fruits/363639)
   3. [GUMI - PANDA HERO (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/25461#fruits/86266)
@@ -211,12 +211,12 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
   2. [Caravan Palace - Rock It For Me (tiper) \[Insane\]](https://osu.ppy.sh/beatmapsets/69041#fruits/212118)
   3. [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](https://osu.ppy.sh/beatmapsets/111825#fruits/290733)
   4. [Cascada - What Hurts The Most (Nightcore Remix) (Lunah) \[Insane\]](https://osu.ppy.sh/beatmapsets/20239#fruits/70764)
-- HardRock
+- Hard Rock
   1. [IOSYS - Power of Dream (Night Fever Refix) (Kite) \[Power of Stream\]](https://osu.ppy.sh/beatmapsets/27152#fruits/91215)
   2. [Meiko - Leave The Lights On (KROT Remix) (Moway) \[Insane\]](https://osu.ppy.sh/beatmapsets/56633#fruits/171126)
   3. [fripSide - only my railgun (Full Ver.) (S i R i R u) \[Level 5\]](https://osu.ppy.sh/beatmapsets/12768#fruits/47670)
   4. [Rameses B - Flaklypa (-kevincela-) \[Insane\]](https://osu.ppy.sh/beatmapsets/190390#fruits/453358)
-- DoubleTime
+- Double Time
   1. [Tatsh - Fuushi Kaden (happy30) \[Hard\]](https://osu.ppy.sh/beatmapsets/15486#fruits/56044)
   2. [Hatsuki Yura - HAMELN (karenying) \[Insane\]](https://osu.ppy.sh/beatmapsets/43446#fruits/136322)
   3. [07th Expansion - miragecoordinator (La Cataline) \[Hard\]](https://osu.ppy.sh/beatmapsets/31116#fruits/102426)
@@ -240,12 +240,12 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
   2. [sta - Iris (ampzz) \[Insane\]](https://osu.ppy.sh/beatmapsets/94917#fruits/255163)
   3. [Rchetype - V Is For (Blue Dragon) \[Insane\]](https://osu.ppy.sh/beatmapsets/111914#fruits/290919)
   4. [Goose house - 18sai (mingmichael) \[Rain\]](https://osu.ppy.sh/beatmapsets/242856#fruits/560408)
-- HardRock
+- Hard Rock
   1. [Chata - Dango Daikazoku -TV animation Ver.- (Pappy) \[Platter\]](https://osu.ppy.sh/beatmapsets/214978#fruits/533077)
   2. [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Hard\]](https://osu.ppy.sh/beatmapsets/83333#fruits/230175)
   3. [Kino Nei - Ougon Musou Kyoku \~Konjiki no Chi ni Somaru Mae ni\~ (Suzully) \[Golden Truth\]](https://osu.ppy.sh/beatmapsets/24903#fruits/84566)
   4. [TERRA - ever snow (ouranhshc) \[Hard\]](https://osu.ppy.sh/beatmapsets/23477#fruits/81789)
-- DoubleTime
+- Double Time
   1. [October - Time to Love (CLSW) \[Posthumous\]](https://osu.ppy.sh/beatmapsets/247499#fruits/569690)
   2. [BURTON - Shinonomegiku (\[\_Crystal\]) \[Kurokami's Platter\]](https://osu.ppy.sh/beatmapsets/152709#fruits/382311)
   3. [Drop - Yunagi Rinne (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmapsets/14460#fruits/52900)
@@ -402,7 +402,7 @@ Sunday, 10 May 2015:
 1. The osu! Catch the Beat World Cup 2015 is a country-based team tournament.
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a Tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time) bracket.
 3. Match schedule will be settled by the Tournament Management (see below).
 4. If no staff or referee is available, the match will be postponed.
 5. Failed players' scores do not get added to the team score.
@@ -487,14 +487,14 @@ Sunday, 10 May 2015:
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
    - Finals Week 1 & Finals Week 2 use the same mappool.
-2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time)
+2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time)
 3. Each mappool consists of 19 maps in total.
 4. Each mappool has one Tiebreaker.
 5. The NoMod bracket will be played with no modes activated.
-6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
-   - Optionally, you can enable Hidden on the HardRock or DoubleTime beatmaps.
+6. The Hidden, Hard Rock and Double Time bracket will be played with the respective modes activated.
+   - Optionally, you can enable Hidden on the Hard Rock or Double Time beatmaps.
 7. The Tiebreaker will be played under FreeMod conditions.
-   - Optionally, you can enable HardRock, Hidden or both on the Tiebreaker beatmap.
+   - Optionally, you can enable Hard Rock, Hidden or both on the Tiebreaker beatmap.
 8. The size of the NoMod bracket will be 6 in all stages.
 9. The size of the mod-specific brackets will be 4 in all stages.
 

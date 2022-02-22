@@ -90,7 +90,7 @@ The Springtime osu!mania Free-for-all Tournament 6 will offer a $250 minimum cas
 - All players will play the qualifier maps in the designated stage order. Every player needs to play each map fully at least once to be considered a valid participant.
 - All players will have two chances at each qualifier map, in which the highest of the two runs on each qualifier map will be used to calculate their final score.
 - Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average score rating on all four songs, with the best average score rating being seed \#1.
-- We will be using **Score V2** for all rounds of the tournament.
+- We will be using **ScoreV2** for all rounds of the tournament.
 
 #### Post-qualification
 
@@ -151,7 +151,7 @@ The Springtime osu!mania Free-for-all Tournament 6 will offer a $250 minimum cas
 
 #### Bans, protects, rolls, and song selection
 
-- With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Mirror, Hidden, Fade In, Flashlight, and NoFail can be used.
+- With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Mirror, Hidden, Fade In, Flashlight, and No Fail can be used.
 - Players are to protect one (1) map from being banned within the mappool that they are playing for the given round.
 - Players are to ban one (1) map within the mappool that they are playing for the given round.
 - Players will be instructed to do a `!roll` command by the referee that is overseeing the match. The player with the winning roll decides whether they want to protect, ban, and pick first or second.

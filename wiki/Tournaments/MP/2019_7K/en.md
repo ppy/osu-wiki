@@ -374,7 +374,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
   - **Semifinals and Finals**: 14 song mappool, best of 11 (first to 6), one tiebreaker song
   - **Grand Finals**: 16 song mappool, best of 13 (first to 7), one tiebreaker song
 - All matches held are using a 1 player versus 1 player rule.
-- All rounds are to use the **restrictive FreeMod** rules (only NoMod, Mirror, Flashlight, FadeIn, or Hidden are permitted to be used while playing), in addition, **Score v2** is implemented.
+- All rounds are to use the **restrictive FreeMod** rules (only NoMod, Mirror, Flashlight, Fade In, or Hidden are permitted to be used while playing), in addition, **ScoreV2** is implemented.
 
 #### Qualification process
 

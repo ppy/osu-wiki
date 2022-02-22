@@ -111,11 +111,11 @@ The Beginner's Taiko Tournament 5 was run by various community members.
   1. [toach - Fill it a Try (tasuke912) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/824580#taiko/1728064)
   2. [Camellia - Diastrophism (Nwolf) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1063130#taiko/2226121)
   3. [Marie - Shiroki Yami no Arabesque (Soleily Remix) (ekumea1123) \[Oni\]](https://osu.ppy.sh/beatmapsets/1095878#taiko/2290326)
-- HardRock
+- Hard Rock
   1. [Nekomata Master - Scars of FAUNA (Alwaysyukaz) \[Oni\]](https://osu.ppy.sh/beatmapsets/703218#taiko/1494626)
   2. [uma vs. Morimori Atsushi - Re : End of a Dream (Jaye) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/759397#taiko/1597091)
   3. [Function Phantom - Euclid (tasuke912) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/761560#taiko/1619476)
-- DoubleTime
+- Double Time
   1. [Yuyoyuppe feat. YUC'e - Kimi Iro, Yami ni, Tokete. (Okoratu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/573700#taiko/1216469)
   2. [Yunomi - Tokyo Snorkel (feat. nicamoq) (bigfrog) \[Ron's Muzukashii\]](https://osu.ppy.sh/beatmapsets/796004#taiko/1686587)
   3. [BRZion - Tricky Waves (Okoratu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/852413#taiko/1789861)
@@ -140,11 +140,11 @@ The Beginner's Taiko Tournament 5 was run by various community members.
   1. [Kawada Mami - Believe in the sky (cdhsausageboy) \[AFB's Muzukashii\]](https://osu.ppy.sh/beatmapsets/835223#taiko/1749336)
   2. [Morimori Atsushi - Re:End of a Dream (newyams99) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/837109#taiko/1752807)
   3. [Ryu\* feat. Seiryu - Geki (AO-Infinity MIX) (DarkVortex) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1065798#taiko/2231766)
-- HardRock
+- Hard Rock
   1. [RAISE A SUILEN - UNSTOPPABLE (-Aqua) \[J'S MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/931541#taiko/1964914)
   2. [Team Grimoire vs Laur - Grievous Lady (Jaye) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/766476#taiko/1694767)
   3. [Memme - BSPower Explosion (Naryuga) \[Muzui\]](https://osu.ppy.sh/beatmapsets/290357#taiko/654165)
-- DoubleTime
+- Double Time
   1. [Akatsuki Records - Sci-Fi ROMANCE TRAVELER (Prophecy) \[Volta's Muzukashii\]](https://osu.ppy.sh/beatmapsets/688926#taiko/1667936)
   2. [Camellia vs. Akira Complex - Railgun Roulette (VIP) (tasuke912) \[Billionaire\]](https://osu.ppy.sh/beatmapsets/1052957#taiko/2223056)
   3. [slushii - To Say Goodbye (Original Mix) (Surono) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/717906#taiko/1516513)
@@ -169,11 +169,11 @@ The Beginner's Taiko Tournament 5 was run by various community members.
   1. [Morimori Atsushi - MilK (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/946887#taiko/1977908)
   2. [sky\_delta - SIVA (tasuke912) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/426445#taiko/925207)
   3. [Laur - Sound Chimera (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1080215#taiko/2307797)
-- HardRock
+- Hard Rock
   1. [Demetori - Kouyuushakaichouji \~ Till When? (GoldenWolf) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/976421#taiko/2043843)
   2. [DJ TAKA meets DJ YOSHITAKA - Elemental Creation (Hanjamon) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/148210#taiko/366750)
   3. [Sakuzyo - Eater Merry (eiri-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1097688#taiko/2293611)
-- DoubleTime
+- Double Time
   1. [Red Velvet - Zimzalabim (Rearranged Version) (Blackener) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1036651#taiko/2167429)
   2. [Earth, Wind & Fire - September (yomoha remix) (Midnaait) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1075239#taiko/2251104)
   3. [Kurousagi Uru - Shiki Toki Uta (toara\_fict) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/395324#taiko/860523)
@@ -197,10 +197,10 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 - Hidden
   1. [Chroma - [@\_\_@] (Faputa) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1048153#taiko/2194488)
   2. [xi - Aiolos (Kuo Kyoka) \[1811's Muzukashii\]](https://osu.ppy.sh/beatmapsets/801154#taiko/1681760)
-- HardRock
+- Hard Rock
   1. [Camellia - Towards The Horizon (Fallmorph) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/727084#taiko/1535012)
   2. [TAMUSIC - Shitai Ryokou (Greenshell) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/729113#taiko/1576790)
-- DoubleTime
+- Double Time
   1. [Jinja - world.execute(me); (Kin) \[taiko.schwierigkeit_muzukashii(Kin);\]](https://osu.ppy.sh/beatmapsets/1091596#taiko/2282069)
   2. [Memme - Gold Town (TKS) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/208286#taiko/490531)
 - FreeMod
@@ -223,10 +223,10 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 - Hidden
   1. [Afterglow - Lost One no Goukoku (Game Size Ver.) (SuperJSpectrixV) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/878322#taiko/1836953)
   2. [Dreamcatcher - Chase Me (Jaye) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/680790#taiko/1439394)
-- HardRock
+- Hard Rock
   1. [BLACKPINK - WHISTLE (UniqueBlock11) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/642149#taiko/1375083)
   2. [t+pazolite - Night of Knights (tpz Overheat Remix) (eiri-) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1031381#taiko/2156725)
-- DoubleTime
+- Double Time
   1. [Miki Sayaka (CV: Kitamura Eri), Sakura Kyoko (CV: Nonaka Ai) - and I'm Home (Volta) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/940898#taiko/1964994)
   2. [lapix - Nexta (TKS) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/726669#taiko/1554389)
 - FreeMod
@@ -248,10 +248,10 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 - Hidden
   1. [Hardwell & Joey Dale feat. Luciana - Arcadia (Nightcore Mix) (incandescence) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/912966#taiko/1907178)
   2. [Nekomata Master - Izanami's Wail (\_DUSK\_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/957016#taiko/2070355)
-- HardRock
+- Hard Rock
   1. [Rave Cyanide x Lunatic Sounds - Lost in the nowhere (Nwolf) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/793405#taiko/1775051)
   2. [BlackY - KITTY FOILED (TKS) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/903288#taiko/2017033)
-- DoubleTime
+- Double Time
   1. [Dokyou Kyoudai - DIAVOLO (Mrriichi) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/355440#taiko/784829)
   2. [BLACKPINK - AS IF IT'S YOUR LAST (Blackener) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/979579#taiko/2050153)
 - FreeMod
@@ -272,10 +272,10 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 - Hidden
   1. [TOTTO - Wadatsumi (Chromoxx) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/404799#taiko/880126)
   2. [HyuN feat. YURI - Disorder (Faputa) \[Kantan\]](https://osu.ppy.sh/beatmapsets/1062977#taiko/2241126)
-- HardRock
+- Hard Rock
   1. [sana - Kotonoha Clinic (Pheon) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/436766#taiko/941208)
   2. [Nekomata Master feat. Shimotsuki Haruka - Element of SPADA (Nwolf) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/198044#taiko/469952)
-- DoubleTime
+- Double Time
   1. [Kanae Shinjo - Fa to shite togenkyo (Bedwyr Aorta) \[solros1101's kantan (BTT ver.)\]](https://osu.ppy.sh/beatmapsets/1100281#taiko/2298671)
   2. [KNOWER - Overtime (Zetera) \[Kantan\]](https://osu.ppy.sh/beatmapsets/927890#taiko/2176316)
 - FreeMod
@@ -293,9 +293,9 @@ The Beginner's Taiko Tournament 5 was run by various community members.
   2. [Nhato - Star Trail (Ammy) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/750171#taiko/2021605)
 - Hidden
   1. [ginkiha - EOS (mingmichael) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/212833#taiko/514384)
-- HardRock
+- Hard Rock
   1. [M2U - Lunatic Sky (Dainesl) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/220824#taiko/517492)
-- DoubleTime
+- Double Time
   1. [Nekomata Master feat. Hayashi Momoko - TWINKLING other side edition (bank78952) \[Kantan\]](https://osu.ppy.sh/beatmapsets/776049#taiko/1684690)
 
 ## Match results
@@ -554,8 +554,8 @@ Sunday, 2 February 2020:
 ### General rules
 
 1. This tournament uses double-elimination bracket and single-player format. There are no teams here.
-2. The score system used will be **Score V2**.
-3. The mapset will be announced **every Sunday**, and the categories are NoMod, Hidden, HardRock, DoubleTime, FreeMod, Tiebreaker.
+2. The score system used will be **ScoreV2**.
+3. The mapset will be announced **every Sunday**, and the categories are NoMod, Hidden, Hard Rock, Double Time, FreeMod, Tiebreaker.
 4. Match schedule is decided by the organizers. Players may ask for a reschedule if the current schedule does not work for them. Each stage of this tournament will last a weekend.
 5. If there are no referees available, the match can be postponed.
 6. If both players gets a tied score on the Tiebreaker, the Tiebreaker will be replayed.

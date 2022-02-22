@@ -138,12 +138,12 @@ outdated: true
 ### 비트맵 풀 관련
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-2. Each mappool consists of 5 bracket: NoMod, HardRock, Hidden, DoubleTime and FreeMod
+2. Each mappool consists of 5 bracket: NoMod, Hard Rock, Hidden, Double Time and FreeMod
 3. Each mappool consists of 19 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no modes activated
-6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
-7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock, Flashlight or no mod at all.
+6. The Hidden, Hard Rock and Double Time bracket will be played with the respective modes activated.
+7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, Hard Rock, Flashlight or no mod at all.
    1. Players may select more than one mode.
    2. When playing a FreeMod map, at least 2 players of each team must have minimum one mode activated.
 8. The tiebreaker will be played under FreeMod conditions.

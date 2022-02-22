@@ -137,12 +137,12 @@ La competición ha concluido con el siguiente podio:
   2. [FOLiACETATE - Heterochromia Iridis (ktgster) \[Terror\]](https://osu.ppy.sh/beatmapsets/106443#fruits/279481)
   3. [Hatsune Miku & Megpoid Gumi - Ashurashurashura (Asgard) \[Insane\]](https://osu.ppy.sh/beatmapsets/36248#fruits/148911)
   4. [Nekomata Master - Smile of Split (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/56847#fruits/171678)
-- HardRock
+- Hard Rock
   1. [t+pazolite - Kick-ass Kung-fu Carnival (Zapy) \[Apocalypse\]](https://osu.ppy.sh/beatmapsets/70469#fruits/202799)
   2. [Akiakane - FlashBack (Kiiwa) \[Insane\]](https://osu.ppy.sh/beatmapsets/54672#fruits/166126)
   3. [Caravan Palace - Dragons (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/46733#fruits/145361)
   4. [paraoka - boot (rickyboi) \[Shoe\]](https://osu.ppy.sh/beatmapsets/50131#fruits/154226)
-- DoubleTime
+- Double Time
   1. [Zektbach - L'avide (eXseeD) \[gowww\]](https://osu.ppy.sh/beatmapsets/29496#fruits/103403)
   2. [ETIA. - Enkan no Kotowari (Rein0527) \[Another\]](https://osu.ppy.sh/beatmapsets/39889#fruits/126859)
   3. [IOSYS - Okuu's Nuclear Fusion Dojo (Mafiamaster) \[v2b's Insane\]](https://osu.ppy.sh/beatmapsets/8442#fruits/37166)
@@ -171,12 +171,12 @@ La competición ha concluido con el siguiente podio:
   2. [sampling masters MEGA - Chat! Chat! Chat! (Zekira) \[ZFN's\]](https://osu.ppy.sh/beatmapsets/24895#fruits/84485)
   3. [Zips - Heisei Cataclysm (Dark Fang) \[0108\]](https://osu.ppy.sh/beatmapsets/72217#fruits/220231)
   4. [Wotamin - Gigantic O.T.N (Star Stream) \[S.S\]](https://osu.ppy.sh/beatmapsets/80214#fruits/223397)
-- HardRock
+- Hard Rock
   1. [Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](https://osu.ppy.sh/beatmapsets/22276#fruits/86324)
   2. [Nekomata Master+ - squall (Rue) \[Insane\]](https://osu.ppy.sh/beatmapsets/66224#fruits/238938)
   3. [Hommarju feat. Latte - masterpiece (simplistiC) \[Insane\]](https://osu.ppy.sh/beatmapsets/12483#fruits/47152)
   4. [Pizuya's Cell x MyonMyon - Romantic Children (Frill) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/18009#fruits/68431)
-- DoubleTime
+- Double Time
   1. [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Crazy Jay\]](https://osu.ppy.sh/beatmapsets/24448#fruits/91462)
   2. [Tatsh - Lunatic Tears...(Tatsh Remix) (Suzully) \[Patche\]](https://osu.ppy.sh/beatmapsets/26743#fruits/90032)
   3. [An - TearVid (Shiirn) \[Another\]](https://osu.ppy.sh/beatmapsets/37980#fruits/121804)
@@ -205,12 +205,12 @@ La competición ha concluido con el siguiente podio:
   2. [Jeff Williams - Red Like Roses (feat. Casey Lee Williams) (Flower) \[Ruby\]](https://osu.ppy.sh/beatmapsets/90128#fruits/244781)
   3. [Megpoid GUMI & Kagamine Rin - Invisible (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/45160#fruits/143036)
   4. [DECO\*27 feat. marina - Aimai Elegy (val0108) \[Red Light \~CtB\~\]](https://osu.ppy.sh/beatmapsets/43248#fruits/155227)
-- HardRock
+- Hard Rock
   1. [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/24325#fruits/82734)
   2. [Dark PHOENiX - Stirring an Autumn Moon (\_lolipop) \[Crazy Moon\]](https://osu.ppy.sh/beatmapsets/16650#fruits/59693)
   3. [ONE OK ROCK - Kanzen Kankaku Dreamer (Kuria) \[Insane\]](https://osu.ppy.sh/beatmapsets/66927#fruits/195165)
   4. [Hatsune Miku - Himitsu Keisatsu (Lalarun) \[Insane\]](https://osu.ppy.sh/beatmapsets/28165#fruits/94005)
-- DoubleTime
+- Double Time
   1. [NH22 - Corrosion (Lena) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/17044#fruits/60941)
   2. [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#fruits/96523)
   3. [COOL&CREATE - Saishoukichiku Imouto Flandre S (dksslqj) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14853#fruits/54145)
@@ -239,12 +239,12 @@ La competición ha concluido con el siguiente podio:
   2. [Nekomata Master - Silence (Tasha) \[Drafura's Rain\]](https://osu.ppy.sh/beatmapsets/127126#fruits/364516)
   3. [Megpoid GUMI & Megurine Luka - Speed (val0108) \[Speed\]](https://osu.ppy.sh/beatmapsets/25931#fruits/87764)
   4. [wa. vs ETIA. - Akasagarbha (DaxMasterix) \[Another\]](https://osu.ppy.sh/beatmapsets/39205#fruits/125128)
-- HardRock
+- Hard Rock
   1. [Humanoid - MENDES (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/beatmapsets/21928#fruits/75831)
   2. [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[gowww\]](https://osu.ppy.sh/beatmapsets/28332#fruits/120366)
   3. [sakuzyo - VALLISTA (Shiirn) \[Another\]](https://osu.ppy.sh/beatmapsets/40056#fruits/127313)
   4. [MK feat. YURiE - Spiral (Lena) \[Insane\]](https://osu.ppy.sh/beatmapsets/16668#fruits/59679)
-- DoubleTime
+- Double Time
   1. [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Azmato's Another\]](https://osu.ppy.sh/beatmapsets/119235#fruits/308593)
   2. [Korpiklaani - Vodka (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/26886#fruits/90466)
   3. [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmapsets/17103#fruits/61124)
@@ -276,11 +276,11 @@ La competición ha concluido con el siguiente podio:
   1. [3L - Extend Ash \~ Hourai Victim (Dangaard) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/8593#fruits/36223)
   2. [Syuiro - Ama no Jaku (Natteke) \[Insane\]](https://osu.ppy.sh/beatmapsets/39817#fruits/126677)
   3. [paraoka - Manima ni (Sandpig) \[('(oo)')\]](https://osu.ppy.sh/beatmapsets/43107#fruits/135396)
-- HardRock
+- Hard Rock
   1. [DJ Okawari - Flower Dance (JauiPlaY) \[Flower\]](https://osu.ppy.sh/beatmapsets/33688#fruits/123417)
   2. [Naoki & Tatsh - Red Zone (HenkieBP) \[Extra\]](https://osu.ppy.sh/beatmapsets/5731#fruits/28422)
   3. [Maximum the Hormone - What's up, people?! (TV Size) (Envi) \[Insane\]](https://osu.ppy.sh/beatmapsets/50763#fruits/155914)
-- DoubleTime
+- Double Time
   1. [Billy Talent - Fallen Leaves (MystykAMV) \[Insane\]](https://osu.ppy.sh/beatmapsets/49114#fruits/151569)
   2. [The Good Natured - Be My Animal (Larto) \[Rukarioman's Extreme\]](https://osu.ppy.sh/beatmapsets/26040#fruits/91495)
   3. [ZUN - Fall of Fall \~ Autumnal Waterfall (dksslqj) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/15647#fruits/56542)
@@ -377,7 +377,7 @@ La competición ha concluido con el siguiente podio:
 1. La osu! Catch the Beat World Cup es un torneo por países en equipos de 3v3.
 2. Los mapas de cada ronda serán anunciados por el selector de mapas con anticipación el domingo anterior a la fecha en la que los partidos tengan lugar. Solo esos mapas serán usados durante los respectivos partidos.
    - Un mapa será dado como desempate (o *tiebreaker*). Este mapa será jugado solo en caso de un empate.
-   - Habrá también mapas para [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) y FreeMod.
+   - Habrá también mapas para [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) y FreeMod.
 3. El programa de partidos será establecido por la organización del torneo (ver abajo).
 4. Si no hay un árbitro o miembro de la organización disponible, el partido será pospuesto.
 5. El puntaje de jugadores que fallen un mapa no se agrega al puntaje total del equipo
@@ -427,12 +427,12 @@ La competición ha concluido con el siguiente podio:
 ### Instrucciones del mappool
 
 1. Habrá 1 mappool para la fase de grupos, 1 mappool para los 16avos, 1 mappool para los cuartos de final, 1 mappool para las semifinales y 1 mappool para la final.
-2. Cada mappool consiste de 5 grupos: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) y FreeMod.
+2. Cada mappool consiste de 5 grupos: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) y FreeMod.
 3. Cada mappool consiste de 23 mapas en total.
 4. Cada mappool tiene un tiebreaker.
 5. Los mapas NoMod serán jugados sin mods activados.
-6. Los mapas de Hidden, HardRock y DoubleTime serán jugados con los respectivos mods activados.
-7. Los mapas FreeMod tendrán **Mods libres** activado. Cada jugador puede elegir usar Hidden, HardRock o ningún mod.
+6. Los mapas de Hidden, Hard Rock y Double Time serán jugados con los respectivos mods activados.
+7. Los mapas FreeMod tendrán **Mods libres** activado. Cada jugador puede elegir usar Hidden, Hard Rock o ningún mod.
    1. Puedes usar más de un mod.
    2. En un mapa FreeMod, al menos un jugador de cada equipo debe usar un mod.
 8. El tiebreaker será jugado bajo las condiciones FreeMod.

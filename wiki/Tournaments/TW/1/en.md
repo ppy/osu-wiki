@@ -95,10 +95,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Cyte - Upside Done (7\_7) \[Inversion\]](https://osu.ppy.sh/beatmapsets/780145#taiko/1638948)
   2. [uki3/ewe - lili. (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/877103#taiko/1834014)
-- HardRock
+- Hard Rock
   1. [flicknote - 422 (maziari1105) \[Virtuoso\]](https://osu.ppy.sh/beatmapsets/672943#taiko/1422972)
   2. [wa. vs ETIA. - Akasagarbha (\_DUSK\_) \[Perpetual\]](https://osu.ppy.sh/beatmapsets/709333#taiko/1499439)
-- DoubleTime
+- Double Time
   1. [BPM15Q(Rinahamu&Nicamoq) - Good Luck (hoku) \[Goodbye T\_T\]](https://osu.ppy.sh/beatmapsets/864069#taiko/1807258)
   2. [Ayaka Ohashi - Wagamama MIRROR HEART (Y O U T A) \[YOUTA's Revenge\]](https://osu.ppy.sh/beatmapsets/561188#taiko/1190792)
 - FreeMod
@@ -124,10 +124,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Frums - memoryfactory.lzh (Nifty) \[inneroni.rar\]](https://osu.ppy.sh/beatmapsets/761900#taiko/1601977)
   2. [Hatsune Miku - White Prism (Thousand) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/396772#taiko/863094)
-- HardRock
+- Hard Rock
   1. [Umeboshi Chazuke - Dutch Courage! (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/679277#taiko/1436194)
   2. [Kobaryo - Royal Judgement (nananass) \[Judgement\]](https://osu.ppy.sh/beatmapsets/777940#taiko/1634106)
-- DoubleTime
+- Double Time
   1. [Warak - REANIMATE (Raiden) \[Raiden's Inner Oni\]](https://osu.ppy.sh/beatmapsets/411866#taiko/1043373)
   2. [you feat. nayuta - HELLO! (KitajimaYN, Y O U T A) \[Yuni&YOUTA's Morning Call!\]](https://osu.ppy.sh/beatmapsets/632974#taiko/1343526)
 - FreeMod
@@ -150,10 +150,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [MMQX - Spell No. 213 (incandescence) \[Blackmagic\]](https://osu.ppy.sh/beatmapsets/803652#taiko/1686776)
   2. [The Doors - Riders on the Storm (Infected Mushroom Remix) (Grimbow) \[Grim's Ura Oni\]](https://osu.ppy.sh/beatmapsets/641775#taiko/1360769)
-- HardRock
+- Hard Rock
   1. [YUC'e - Magical Mixer (KinomiCandy) \[Magical Oni\]](https://osu.ppy.sh/beatmapsets/673504#taiko/1425374)
   2. [YUC'e - n'pa pa BBQ (\[Distant\]) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/853749#taiko/1784207)
-- DoubleTime
+- Double Time
   1. [toby fox - Chaos King (duski) \[Never better.\]](https://osu.ppy.sh/beatmapsets/874293#taiko/1827343)
 - FreeMod
   1. [S-C-U vs L.E.D. - DIAMOND CROSSING (butter0414) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/710606#taiko/1502082)
@@ -173,10 +173,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Verdisphena) \[Verdi's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/30485#taiko/103052)
   2. [Natsume Chiaki - Hanairo Biyori (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/280663#taiko/635003)
-- HardRock
+- Hard Rock
   1. [Silentroom - Nhelv (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/684795#taiko/1449249)
   2. [MAZARE - Mazare Party (incandescence) \[Party!!\]](https://osu.ppy.sh/beatmapsets/754402#taiko/1588295)
-- DoubleTime
+- Double Time
   1. [DJ Fresh (feat. Rita Ora) - Hot Right Now (Radio Edit) (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/575072#taiko/1217847)
 - FreeMod
   1. [Ami with Iyo, Kenta, Issa - Tondemo Nothing \~DokiDoki Animal Yokocho no Uta no Maki\~ (Cantabil Amen EDIT) (rezi888) \[Taiko\]](https://osu.ppy.sh/beatmapsets/802278#taiko/1683825)
@@ -192,10 +192,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Hinoisuka - Delightness Brightness (Kurosanyan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/247512#taiko/569856)
   2. [Soleily - Silent Rush (MTDex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/814550#taiko/1709713)
-- HardRock
+- Hard Rock
   1. [lapix - Outer Space (Miseracy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/798533#taiko/1684140)
   2. [cillia - Rolling Girl (mintong89) \[Ura Oni Lv.29\]](https://osu.ppy.sh/beatmapsets/434536#taiko/936283)
-- DoubleTime
+- Double Time
   1. [ELISA - Wonder Wind (Mikkuri, KinomiCandy) \[Taiko Collab\]](https://osu.ppy.sh/beatmapsets/25168#taiko/140857)
 - FreeMod
   1. [SEVENTH SISTERS - SEVENTH HAVEN(Mtell Remix)(Short ver.) (Shallty) \[1st Sister Shallty\]](https://osu.ppy.sh/beatmapsets/829545#taiko/1737946)
@@ -297,7 +297,7 @@ Sunday, 4 November 2018:
 ### Game rules
 
 1. At the start of the tournament (October 27, UTC 20:00), the **top 11** consenting players will become team captains, and will draft two other players to join their team.
-2. The tournament will be played in **Score V2**.
+2. The tournament will be played in **ScoreV2**.
 3. **Undrafted** players may choose to be on standby in the case of any team needing a substitute at any point during the tournament.
 4. Each team will be randomly assigned a starting area (province) on the map and choose a name for their nation.
 5. Each round will take place over 2 phases: **Attack** and **Resolve**.
@@ -307,7 +307,7 @@ Sunday, 4 November 2018:
 7. The first team to control **7 provinces** wins the tournament. After the end of the 10th Resolve phase, if there is no team who controls 7 provinces, the team with the most provinces wins.
 8. If there is a tie for most provinces controlled, a grand finals match will be played between tied teams as a Bo13 with the respectively sized mappool.
 9. The mappool will contain 3 NM, 2 HR, 2 HD, 1 FM, 1 DT, and 1 TB at the start of the tournament. As the number of teams remaining shrinks, the size of the pool will increase.
-10. Free Mod will use HardRock, Hidden, or Hidden + HardRock. Each team must have both players with a mod selected.
+10. Free Mod will use Hard Rock, Hidden, or Hidden + Hard Rock. Each team must have both players with a mod selected.
 11. Tiebreaker is No Mod.
 12. All match times are in **UTC**.
 13. **No staff members are allowed to play** other than streamers, commentators, and graphic designers.

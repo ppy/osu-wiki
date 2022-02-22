@@ -388,7 +388,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 1. The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode.
    - *Notice: While this competition has been planned as a 3 versus 3 setup, this might change depending on the amount of registrations.*
-2. Beatmap scoring will be based on Score V2.
+2. Beatmap scoring will be based on ScoreV2.
 3. The beatmaps for each round will be announced by the Mappool Selector Team on the Sunday before the actual matches take place.
    - Each mappool, except for the Qualifier stage, will contain a *tiebreaker* beatmap. It will only be played in case of a tie in the scoreline in the *best of* system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
 4. Match schedule will be handled by the Tournament Management.
@@ -495,7 +495,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - Round of 16 and Quarterfinals: 14 beatmaps
    - Semifinals and Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
-5. Possible mod choices for all maps are Hidden, FadeIn, Flashlight, and Mirror.
+5. Possible mod choices for all maps are Hidden, Fade In, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling instructions

@@ -125,12 +125,12 @@ This competition has come to an end and resulted in the following podium:
   2. [RB - Suikyou Heaven (fanzhen0019) \[FxtrZ\]](https://osu.ppy.sh/beatmapsets/290581#osu/654590)
   3. [EZFG - Glucagon (kwk) \[\[!\] CS4 AR9\]](https://osu.ppy.sh/beatmapsets/365159#osu/802734)
   4. [Asriel - Kegare Naki Yume (Settia) \[Sagiri Otaku's Extra\]](https://osu.ppy.sh/beatmapsets/386619#osu/1757416)
-- HardRock
+- Hard Rock
   1. [Primary - STRUGGLES (\[Vincent\]) \[Modorenai\]](https://osu.ppy.sh/beatmapsets/350766#osu/773238)
   2. [Death Grips - Lord of the Game (ft. Mexican Girl) (handsome) \[GM\]](https://osu.ppy.sh/beatmapsets/452042#osu/969686)
   3. [Camellia as "Reverse of Riot" - Completeness Under Incompleteness (Regou) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/514750#osu/1093434)
   4. [Sota Fujimori - ACCELERATE (Ametrin) \[Ametrin's Extra\]](https://osu.ppy.sh/beatmapsets/852406#osu/1782387)
-- DoubleTime
+- Double Time
   1. [Nightwish - Last Ride of the Day (pw384) \[Insane\]](https://osu.ppy.sh/beatmapsets/518695#osu/1463400)
   2. [TAMUSIC - Kyuu Jigoku Kaidou wo Yuku (Xanandra) \[Insane\]](https://osu.ppy.sh/beatmapsets/315150#osu/702778)
   3. [ALiCE'S EMOTiON - LUNA (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/47124#osu/152180)
@@ -154,12 +154,12 @@ This competition has come to an end and resulted in the following podium:
   2. [mafumafu - Shuuten (William K) \[Terminus\]](https://osu.ppy.sh/beatmapsets/684807#osu/1449273)
   3. [SHIKI - BABYLON (miccoliasms) \[Another\]](https://osu.ppy.sh/beatmapsets/31373#osu/103132)
   4. [Camellia feat.Nanahira - Energy Drinko Fein-chan! (RLC) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/257407#osu/596595)
-- HardRock
+- Hard Rock
   1. [BTS - IDOL (DeRandom Otaku) \[Spotlight\]](https://osu.ppy.sh/beatmapsets/837929#osu/1754360)
   2. [Nekomata Master - Following Flow (Beomsan) \[Special\]](https://osu.ppy.sh/beatmapsets/511699#osu/1087690)
   3. [Paramore - Anklebiters (Priti, EvilElvis) \[PritiElvis' Extreme\]](https://osu.ppy.sh/beatmapsets/227990#osu/531093)
   4. [GARNiDELiA - Yakusoku -Promise code- (Meg) \[Meg's Extra\]](https://osu.ppy.sh/beatmapsets/727714#osu/1536491)
-- DoubleTime
+- Double Time
   1. [Infected Mushroom - Spitfire (Testo, Mirash) \[Collab\]](https://osu.ppy.sh/beatmapsets/725851#osu/1532489)
   2. [Kaori Miyazono (CV. Risa Taneda) - My Truth\~Rondo capriccioso (Linada) \[Quietly\]](https://osu.ppy.sh/beatmapsets/717528#osu/1515830)
   3. [Nanjou Yoshino & Kusuda Aina - Garasu no Hanazono (Hinsvar) \[Soulmate\]](https://osu.ppy.sh/beatmapsets/184512#osu/441680)
@@ -182,11 +182,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Akira Kushida - Kyuukyoku No Seisen (Jounzan) \[Kakarotto\]](https://osu.ppy.sh/beatmapsets/764589#osu/1607713)
   2. [Sakuzyo - Amenohoakari (Firis Mistlud, Miura) \[Fiura's Miyabi\]](https://osu.ppy.sh/beatmapsets/671056#osu/1419003)
   3. [Feryquitous - Dstorv -Endorfin. Remix- (Cellina, Down) \[Cellina & Down's Sincuvate Extra\]](https://osu.ppy.sh/beatmapsets/708045#osu/1520445)
-- HardRock
+- Hard Rock
   1. [CLIFF EDGE - Sayonara I Love You feat. jyA-Me (Xinely) \[Farewell\]](https://osu.ppy.sh/beatmapsets/533689#osu/1130622)
   2. [Charli XCX - Vroom Vroom (schoolboy) \[Driving Simulator\]](https://osu.ppy.sh/beatmapsets/868943#osu/1816123)
   3. [dj TAKA - True Blue (Chaoslitz) \[Cupid\]](https://osu.ppy.sh/beatmapsets/564144#osu/1192762)
-- DoubleTime
+- Double Time
   1. [Ling Yuan yousa - Ben Se (09kami) \[Lingren Insane\]](https://osu.ppy.sh/beatmapsets/567325#osu/1201639)
   2. [NOMA - Brain Power (Doormat) \[Doormat's Insane\]](https://osu.ppy.sh/beatmapsets/546384#osu/1183810)
   3. [Red Velvet - Bad Boy (cosmiccc) \[Hypnotized\]](https://osu.ppy.sh/beatmapsets/732077#osu/1647371)
@@ -209,11 +209,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Hyukoh - 2002WorldCup (Hobbes2) \[You\]](https://osu.ppy.sh/beatmapsets/790059#osu/1657947)
   2. [Gekidan Record feat. Nekomata Master - Houkou Orpheus (celerih) \[Special\]](https://osu.ppy.sh/beatmapsets/879051#osu/1838381)
   3. [Hatsune Miku - Dance of many (Pokie) \[Pokie's Insane\]](https://osu.ppy.sh/beatmapsets/45028#osu/141669)
-- HardRock
+- Hard Rock
   1. [SHAUN - Way Back Home (Euny) \[d\]](https://osu.ppy.sh/beatmapsets/860641#osu/1800731)
   2. [yu\_tokiwa.djw merge scl.gtr - murmur twins (guitar pop ver.) (felys) \[Pink Another\]](https://osu.ppy.sh/beatmapsets/771062#osu/1621079)
   3. [M2U - H.O.W.Ling (celerih) \[Silence\]](https://osu.ppy.sh/beatmapsets/591203#osu/1251153)
-- DoubleTime
+- Double Time
   1. [fripSide - HesitationSnow (Atrue) \[Atrue's Insane\]](https://osu.ppy.sh/beatmapsets/513343#osu/1094174)
   2. [Another Infinity feat. Mayumi Morinaga - Yume Utsutsu (Seikatu) \[Insane\]](https://osu.ppy.sh/beatmapsets/400439#osu/871267)
   3. [Zeami - Music Revolver (cRyo\[iceeicee\]) \[cRyo\]](https://osu.ppy.sh/beatmapsets/53231#osu/165412)
@@ -236,11 +236,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Myrath - Endure The Silence (LMT) \[Another)\]](https://osu.ppy.sh/beatmapsets/555454#osu/1213261)
   2. [Franchouchou - Adabana Necromancy (Starfy) \[Extra\]](https://osu.ppy.sh/beatmapsets/879615#osu/1853756)
   3. [Tamura Yukari - MERRY MERRY MERRY MENU...Ne! (Asphyxia) \[Extra\]](https://osu.ppy.sh/beatmapsets/191524#osu/509913)
-- HardRock
+- Hard Rock
   1. [Kotera Kanako - Ashita e no Kodou (Spring Roll) \[Insane\]](https://osu.ppy.sh/beatmapsets/223000#osu/521110)
   2. [Sakuzyo - FAFNIR (KKipalt) \[KKip's Insane\]](https://osu.ppy.sh/beatmapsets/777255#osu/1637690)
   3. [Camellia - Fastest Crash (toybot, Mikii) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/331025#osu/742728)
-- DoubleTime
+- Double Time
   1. [T-ara - Why Are You Being Like This (kazumikos) \[Hard\]](https://osu.ppy.sh/beatmapsets/118661#osu/304972)
   2. [ZUN - The Youkai Mountain \~ Mysterious Mountain (BCI, Leyko) \[Collab\]](https://osu.ppy.sh/beatmapsets/76048#osu/214547)
   3. [smileY inc. - Hanayuki (CelsiusLK) \[Insane\]](https://osu.ppy.sh/beatmapsets/400239#osu/877515)
@@ -262,10 +262,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Nanahira - Sleep! (Snowy Dream) \[Insane\]](https://osu.ppy.sh/beatmapsets/517772#osu/1100074)
   2. [Mili - Vulnerability (Alphabet) \[Mell\]](https://osu.ppy.sh/beatmapsets/590709#osu/1266318)
-- HardRock
+- Hard Rock
   1. [Rita - Princess Blood (Zweib) \[Insane\]](https://osu.ppy.sh/beatmapsets/94112#osu/253528)
   2. [Umeri - paranoia (captin1) \[Insane\]](https://osu.ppy.sh/beatmapsets/150914#osu/372170)
-- DoubleTime
+- Double Time
   1. [Suzuki Konomi - THERE IS A REASON (Kalibe) \[KALIBE'S INSANE\]](https://osu.ppy.sh/beatmapsets/641718#osu/1385091)
   2. [ZUN - Shoutoku Legend \~ True Administrator (BCI, Leyko) \[Collab\]](https://osu.ppy.sh/beatmapsets/66118#osu/193083)
 - FreeMod
@@ -775,7 +775,7 @@ Tuesday, 18 December 2018:
    - Failed scores do not count unless both players fail.
    - If a player fails, his score can still count if he has revived before the end of the map.
 7. In the case of a draw, the player that did not pick the map wins the point.
-8. For FreeMod maps, both players have to take at least 1 mod out of the following combination only: Easy, Hidden, HardRock, or Flashlight.
+8. For FreeMod maps, both players have to take at least 1 mod out of the following combination only: Easy, Hidden, Hard Rock, or Flashlight.
 
 ### Tiebreaking
 

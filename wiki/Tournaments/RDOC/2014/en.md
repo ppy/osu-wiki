@@ -107,11 +107,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Hanatan - Shiwa \[Insane\]](https://osu.ppy.sh/beatmapsets/130704#osu/329967)
   2. [Harada Hitomi, Kayano Ai & Ogura Yui - Maware! Setsugekka (TV Size) \[Insane\]](https://osu.ppy.sh/beatmapsets/122658#osu/314170)
   3. [Yousei Teikoku - Kuusou Mesorogiwi \[Insane\]](https://osu.ppy.sh/beatmapsets/39031#osu/124701)
-- HardRock
+- Hard Rock
   1. [yanaginagi - Killer Song \[Insane\]](https://osu.ppy.sh/beatmapsets/46765#osu/145442)
   2. [Ginsaku - Iroha Uta \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/48801#osu/159780)
   3. [Kozato - 45nen no Yukizakura \[Another\]](https://osu.ppy.sh/beatmapsets/50771#osu/155930)
-- DoubleTime
+- Double Time
   1. [Haruna Luna - Overfly \[Natsu's Insane\]](https://osu.ppy.sh/beatmapsets/85812#osu/235949)
   2. [Coldplay - Paradise \[Collab\]](https://osu.ppy.sh/beatmapsets/59619#osu/178614)
   3. [8#Prince - fake doll \[Fake\]](https://osu.ppy.sh/beatmapsets/68036#osu/197189)
@@ -136,11 +136,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Anamanaguchi - STILL SPLODIN' THO (Interlude) \[Kyshiro's Insane\]](https://osu.ppy.sh/beatmapsets/104151#osu/274200)
   2. [Evoluutiomies - Suklaapallit \[Mukun Suklaapallit\]](https://osu.ppy.sh/beatmapsets/24372#osu/82962)
   3. [Masayoshi Minoshima - Necro Fantasia \[Insane\]](https://osu.ppy.sh/beatmapsets/89810#osu/243983)
-- HardRock
+- Hard Rock
   1. [An - artcore JINJA \[Hard\]](https://osu.ppy.sh/beatmapsets/114987#osu/297410)
   2. [Harry - Earth day \[TVO's Hard day\]](https://osu.ppy.sh/beatmapsets/65228#osu/194498)
   3. [mafumafu & amatsuki - Kasyokusei:Idol Syoukougun \[Insane\]](https://osu.ppy.sh/beatmapsets/76366#osu/215181)
-- DoubleTime
+- Double Time
   1. [Gunther - I'm Not Justin Bieber B\*\*ch \[Hard\]](https://osu.ppy.sh/beatmapsets/139605#osu/348705)
   2. [yanaginagi - Hero no Jouken \[Hero\]](https://osu.ppy.sh/beatmapsets/96917#osu/259463)
   3. [KOKIA - Fate \[Twin Blades\]](https://osu.ppy.sh/beatmapsets/55606#osu/168612)
@@ -165,11 +165,11 @@ This competition has come to an end and resulted in the following podium:
   1. [DJ YOSHITAKA - Evans -prototype- \[Standard\]](https://osu.ppy.sh/beatmapsets/62205#osu/206338)
   2. [Shimamiya Eiko - Higurashi no Naku Koro ni (TV Size) \[Hard\]](https://osu.ppy.sh/beatmapsets/67202#osu/195419)
   3. [Yousei Teikoku - filament (TV Size) \[Lolcubes' Hard\]](https://osu.ppy.sh/beatmapsets/43560#osu/137326)
-- HardRock
+- Hard Rock
   1. [Evoluutiomies - Suklaapallit \[Mansikkapallit\]](https://osu.ppy.sh/beatmapsets/24372#osu/82885)
   2. [Ichigo - Kuoria \[Hard\]](https://osu.ppy.sh/beatmapsets/87170#osu/263269)
   3. [nano.RIPE - Real World (TV Size) \[Hard\]](https://osu.ppy.sh/beatmapsets/69328#osu/200125)
-- DoubleTime
+- Double Time
   1. [DJ THT meets Scarlet - Live 2 Dance (Nightcore Mix) \[Normal\]](https://osu.ppy.sh/beatmapsets/79363#osu/221510)
   2. [Hanazawa Kana - Renai Circulation (Short Ver.) \[JoJo's Normal\]](https://osu.ppy.sh/beatmapsets/27509#osu/133681)
   3. [Hayaya-P - Ping-Pong Dash! \[Normal\]](https://osu.ppy.sh/beatmapsets/58051#osu/183362)

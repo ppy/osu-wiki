@@ -100,11 +100,11 @@ The ROI PRO Tournament was run by various community members.
   1. [DAOKO - Kimi (Halgoh) \[Love Yourself\]](https://osu.ppy.sh/beatmapsets/1047069#osu/2188807)
   2. [Dormir - Cookie Bouquets (dsco) \[Fanzhen's Extra\]](https://osu.ppy.sh/beatmapsets/675125#osu/1453416)
   3. [Insert Rupee - Facing Fears (OC ReMix) (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/36541#osu/118054)
-- HardRock
+- Hard Rock
   1. [Meiko Nakamura - Dispel (terametis) \[Insane\]](https://osu.ppy.sh/beatmapsets/39640#osu/126229)
   2. [MiddleIsland - Piano Concerto No.1 "Scream" (apaffy) \[woof's Extra\]](https://osu.ppy.sh/beatmapsets/110126#osu/376703)
   3. [ZUN - Illusionary White Traveller (Parachute) \[Extra\]](https://osu.ppy.sh/beatmapsets/861248#osu/1801811)
-- DoubleTime
+- Double Time
   1. [Kalafina - Kimi no Gin no Niwa (Hollow Wings) \[Insane\]](https://osu.ppy.sh/beatmapsets/132044#osu/469566)
   2. [Draw the Emotional - Just follow time (emmy) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/75606#osu/346804)
   3. [ALiCE'S EMOTiON - LUNA (Frostmourne) \[Insane\]](https://osu.ppy.sh/beatmapsets/47124#osu/152179)
@@ -131,11 +131,11 @@ The ROI PRO Tournament was run by various community members.
   1. [Lapix - LAST GAME (Shadren) \[NeilPerry's Indefinite Choice\]](https://osu.ppy.sh/beatmapsets/524004#osu/1112290)
   2. [Nekomata Master - Byakuya Gentou (ignorethis) \[EX\]](https://osu.ppy.sh/beatmapsets/36849#osu/119375)
   3. [Becky - Less Than Three (Ricardo Autobahn Remix) (Sonnyc) \[Expert\]](https://osu.ppy.sh/beatmapsets/1078502#osu/2256655)
-- HardRock
+- Hard Rock
   1. [Kanzaki Elza starring ReoNa - Independence (Yasaija 714) \[Seto's Expert\]](https://osu.ppy.sh/beatmapsets/780318#osu/1828634)
   2. [Humanoid - MENDES (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/beatmapsets/21928#osu/75831)
   3. [Sta - Shadows in the Light (Nerova Riuz GX) \[-presence?\]](https://osu.ppy.sh/beatmapsets/504690#osu/1073731)
-- DoubleTime
+- Double Time
   1. [Perfume - NIGHT FLIGHT (eiri-) \[Voyage\]](https://osu.ppy.sh/beatmapsets/861719#osu/1802689)
   2. [TRUE - Sincerely (Kalibe) \[Emotion\]](https://osu.ppy.sh/beatmapsets/733581#osu/1548159)
   3. [orangentle - HAELEQUIN (Gamu) \[alacat's Light Insane\]](https://osu.ppy.sh/beatmapsets/291495#osu/667843)
@@ -162,11 +162,11 @@ The ROI PRO Tournament was run by various community members.
   1. [Dreamcatcher - YOU AND I (ailv) \[Together\]](https://osu.ppy.sh/beatmapsets/787672#osu/1653519)
   2. [NOMA - LOUDER MACHINE (Skystar) \[StarR's Extra\]](https://osu.ppy.sh/beatmapsets/483606#osu/1085207)
   3. [ALiCE'S EMOTiON - Lorelei (Dada) \[Vintage\]](https://osu.ppy.sh/beatmapsets/829950#osu/1738984)
-- HardRock
+- Hard Rock
   1. [Nakanoke no Itsutsugo - Gotoubun no Kimochi (SkyFlame) \[Little's Extra: Yotsuba\]](https://osu.ppy.sh/beatmapsets/932291#osu/2026988)
   2. [Nekomata Master - Nekozamurai no Gyakushu (moph) \[Insane\]](https://osu.ppy.sh/beatmapsets/518743#osu/1432015)
   3. [Fractal Dreamers - Module_410 (Nao Tomori) \[Insane\]](https://osu.ppy.sh/beatmapsets/957328#osu/2005243)
-- DoubleTime
+- Double Time
   1. [senya - Zouka de Arou to Shita Mono (Satellite) \[Narcissu's Lunatic\]](https://osu.ppy.sh/beatmapsets/495283#osu/1076385)
   2. [Avicii - The Nights (Kazuya) \[Insane\]](https://osu.ppy.sh/beatmapsets/306693#osu/686413)
   3. [Yumeji Ruri - The answer BLOOD \~Senketsu no Michishirube\~ (Short Ver.) (Star Stream) \[Insane\]](https://osu.ppy.sh/beatmapsets/52586#osu/169618)
@@ -193,11 +193,11 @@ The ROI PRO Tournament was run by various community members.
   1. [Shinra-bansho - Itazura Sensation (Hailie) \[Shira's Lunatic\]](https://osu.ppy.sh/beatmapsets/745460#osu/1618099)
   2. [Memme - Blessing Snow (Syph) \[sahuang's Extra\]](https://osu.ppy.sh/beatmapsets/688128#osu/1456309)
   3. [The Chainsmokers & Coldplay - Something Just Like This (handsome) \[Regou's Insane\]](https://osu.ppy.sh/beatmapsets/611301#osu/1312787)
-- HardRock
+- Hard Rock
   1. [An - Saigo (Rumia-) \[Saika's Extra\]](https://osu.ppy.sh/beatmapsets/517783#osu/1109818)
   2. [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/40368#osu/131009)
   3. [Streetlight Manifesto - Everything Went Numb (pishifat) \[Milan-'s Manly Insane\]](https://osu.ppy.sh/beatmapsets/414289#osu/904077)
-- DoubleTime
+- Double Time
   1. [sasakure.UK feat. Hatsune Miku - \*Hello,Planet. (Faust) \[SOLO MISSION\]](https://osu.ppy.sh/beatmapsets/38950#osu/124522)
   2. [Perfume - Daijobanai (eiri-) \[Smile\]](https://osu.ppy.sh/beatmapsets/967347#osu/2024492)
   3. [Traktion - Mission ASCII (galvenize) \[Hyper\]](https://osu.ppy.sh/beatmapsets/53249#osu/354167)
@@ -222,10 +222,10 @@ The ROI PRO Tournament was run by various community members.
 - Hidden
   1. [CON - Cruel Clocks (Amamiya Yuko) \[Skystar\]](https://osu.ppy.sh/beatmapsets/76882#osu/216272)
   2. [Yunomi - Oedo Controller(feat. TORIENA)\\\[Batsu Remix\] (Left) \[UFO\]](https://osu.ppy.sh/beatmapsets/469434#osu/1003866)
-- HardRock
+- Hard Rock
   1. [Eve - Outsider (AirinCat) \[Extra\]](https://osu.ppy.sh/beatmapsets/879429#osu/2206972)
   2. [xi - ANiMA (liaoxingyao) \[Spring's LV.10\]](https://osu.ppy.sh/beatmapsets/359191#osu/789819)
-- DoubleTime
+- Double Time
   1. [yanaginagi - Owari no Sekai kara (Snowy Dream) \[Snowy\]](https://osu.ppy.sh/beatmapsets/44854#osu/140361)
   2. [Can't Stop Won't Stop (feat. Fresh Big Mouf) - Mighty & High (thiev) \[Insane\]](https://osu.ppy.sh/beatmapsets/770361#osu/1744709)
   3. [Tsubaki - Kyun Kyun Tamaran Inaba tan! (Aenna) \[Apricotan!\]](https://osu.ppy.sh/beatmapsets/35219#osu/114651)
@@ -247,10 +247,10 @@ The ROI PRO Tournament was run by various community members.
 - Hidden
   1. [Eiko Shimamiya - Higurashi no Naku Koro ni (Okorin) \[Extra\]](https://osu.ppy.sh/beatmapsets/333543#osu/738088)
   2. [REDALiCE - Great Nano Desu (fartownik) \[HAUUU!\]](https://osu.ppy.sh/beatmapsets/7691#osu/32619)
-- HardRock
+- Hard Rock
   1. [toby fox - Bergentrueckung/ASGORE (Kaitjuh) \[Mindmaster's Expert\]](https://osu.ppy.sh/beatmapsets/908087#osu/1987152)
   2. [Delain - Go Away (pishifat) \[Insane\]](https://osu.ppy.sh/beatmapsets/475676#osu/1017900)
-- DoubleTime
+- Double Time
   1. [ALiCE'S EMOTiON - Ghostly Parapara Ship (Hardcore Edit) (Thite) \[gowww\]](https://osu.ppy.sh/beatmapsets/27914#osu/106474)
   2. [zts - death(from stupefaction) (Mirash) \[La Pandaline's Insane\]](https://osu.ppy.sh/beatmapsets/889315#osu/1858801)
 
@@ -471,7 +471,7 @@ Sunday, 19 April 2020:
 
 1. ROI PRO Tournament is a **3v3** osu! tournament.
 2. The team size is **4 members** per team.
-3. The score system used will be **Score V2**.
+3. The score system used will be **ScoreV2**.
 4. There are **no rank restrictions** to participate in the tournament.
 5. The tournament is however restricted to Bahasa Indonesia speaking player only and has Indonesian flag in their osu! profile (Indonesian players who live abroad could give further confirmation through osu! PM or Discord server to the organizer).
 6. The tournament will use Qualifiers to determine the seeding of each player.
@@ -520,7 +520,7 @@ Sunday, 19 April 2020:
 3. All teams in the winner and losers brackets will use the same mappool.
 4. Each team will have one ban during the **Round of 16**.
 5. In the Quarterfinals and forward, each team will have **two bans** but the team cannot ban a map from the **same category twice**.
-6. NoFail mod is available to use freely.
+6. No Fail mod is available to use freely.
 7. Each team cannot play the map within the same category twice back to back (exception for **NoMod**).
 8. The winning condition and its ban limit for each stage are listed below:
    - Round Of 16: Best-Of-9 (First to 5 points) with 1 ban
@@ -528,7 +528,7 @@ Sunday, 19 April 2020:
    - Finals, and Grand Finals: Best-Of-13 (First to 7 points) with 2 bans
 9. In case of a tie with one map remaining to play, the **Tiebreaker** will be played with FreeMod applied.
 10. During the FreeMod bracket, there are several options to choose:
-    - Available mods to pick are **Hidden** and **HardRock**. Mod combinations are also allowed.
+    - Available mods to pick are **Hidden** and **Hard Rock**. Mod combinations are also allowed.
     - **A minimum of 2 players within each team is required to use mod**.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

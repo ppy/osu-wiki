@@ -111,11 +111,11 @@ The osu!catch World Cup 2018 was run by various community members.
   1. [Memme - Goat Fantasia \(Spectator\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/634496#fruits/1346273)
   2. [kanonxkanon - Calendula Requiem \(F D Flourite\) \[Lycoris Radiata\]](https://osu.ppy.sh/beatmapsets/647485#fruits/1371644)
   3. [Mitsuki - climactic cry \(Mythol\) \[RLQuillab2013\]](https://osu.ppy.sh/beatmapsets/146166#fruits/362297)
-- HardRock
+- Hard Rock
   1. [Camellia feat. Nanahira - PAPAYAPA BASS \(Nwolf\) \[Deif's Papaya\]](https://osu.ppy.sh/beatmapsets/584714#fruits/1335618)
   2. [KASAI HARCORES - Cycle Hit \(Spectator\) \[Grand Slam\]](https://osu.ppy.sh/beatmapsets/692367#fruits/1465042)
   3. [Megpoid GUMI - Cosmos \(val0108\) \[Cosmos\]](https://osu.ppy.sh/beatmapsets/37054#fruits/123374)
-- DoubleTime
+- Double Time
   1. [Sayaka Sasaki - Zzz \(Spectator\) \[Lullaby\]](https://osu.ppy.sh/beatmapsets/184710#fruits/446794)
   2. [nanobii - HYPERDRIVE \(Ascendance\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/639991#fruits/1357221)
   3. [WALKUERE - Ikenai Borderline \(Rizia\) \[Insane\]](https://osu.ppy.sh/beatmapsets/454835#fruits/975036)
@@ -137,11 +137,11 @@ The osu!catch World Cup 2018 was run by various community members.
   1. [Nekomata Gekidan - AsiaN distractive \(Yumeno Himiko\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/656489#fruits/1390877)
   2. [YUI - again \(Crowley\) \[brotherhood\]](https://osu.ppy.sh/beatmapsets/735357#fruits/1552359)
   3. [monet - Noborenai Sakamichi \(Mirash\) \[Delis' Insane\]](https://osu.ppy.sh/beatmapsets/671607#fruits/1419974)
-- HardRock
+- Hard Rock
   1. [sak respect for Arata Iiyoshi - Reason of being \(rew0825\) \[Reason\]](https://osu.ppy.sh/beatmapsets/746440#fruits/1573224)
   2. [Roselia - LOUDER \(scanter\) \[Crystal's Captivation\]](https://osu.ppy.sh/beatmapsets/595580#fruits/1270272)
   3. [P\*Light - YELLOW SPLASH!! \(Minakami Yuki\) \[wkyik's Extra\]](https://osu.ppy.sh/beatmapsets/363882#fruits/799724)
-- DoubleTime
+- Double Time
   1. [Nitro Fun & Hyper Potions - Checkpoint \(WildOne94\) \[Rain Collab\]](https://osu.ppy.sh/beatmapsets/474216#fruits/1036560)
   2. [Italobrothers - Stamp On The Ground \(Natsume\) \[hichman's CTB\]](https://osu.ppy.sh/beatmapsets/51977#fruits/160002)
   3. Shawn Mendes - Stitches \(VINXIS\) \[Needle and the Thread\]
@@ -163,11 +163,11 @@ The osu!catch World Cup 2018 was run by various community members.
   1. [Hatsuki Yura - Saramandora no Odoriko \(F D Flourite\) \[Flamenco Dance\]](https://osu.ppy.sh/beatmapsets/721795#fruits/1524083)
   2. [M2U - Stellar \(Spectator\) \[Alice\]](https://osu.ppy.sh/beatmapsets/699509#fruits/1481269)
   3. [\*namirin - Koi no Hime Hime Pettanko \(sahuang\) \[Curi's Extra\]](https://osu.ppy.sh/beatmapsets/613083#fruits/1353404)
-- HardRock
+- Hard Rock
   1. [Zektbach - Turii \~Panta rhei\~ \(Kyuare\) \[Turii\]](https://osu.ppy.sh/beatmapsets/685428#fruits/1450886)
   2. [MAZARE - Mazare Party \(incandescence\) \[Tenshichan's Rain\]](https://osu.ppy.sh/beatmapsets/754402#fruits/1624766)
   3. [Renard - Da Nu Nuttah \(GamerX4life\) \[Nogard\]](https://osu.ppy.sh/beatmapsets/62665#fruits/205282)
-- DoubleTime
+- Double Time
   1. [u's - Snow halation \(Hinsvar\) \[Vhy's Platter\]](https://osu.ppy.sh/beatmapsets/209390#fruits/515242)
   2. [Toraboruta - Soleil \(Noffy\) \[Wild's Rain\]](https://osu.ppy.sh/beatmapsets/308633#fruits/992848)
   3. [SHISHAMO - Egao no Tonari \(Zero\_\_wind\) \[Smile\]](https://osu.ppy.sh/beatmapsets/435617#fruits/938481)
@@ -189,11 +189,11 @@ The osu!catch World Cup 2018 was run by various community members.
   1. [Akiyama Uni - Kaoru Juyouka \(murutattack\) \[Evanent's Rain\]](https://osu.ppy.sh/beatmapsets/508690#fruits/1119599)
   2. [Warak - REANIMATE \(- Magic Bomb -\) \[Hyperion's Rain\]](https://osu.ppy.sh/beatmapsets/489190#fruits/1042701)
   3. [96Neko x KurousaP - Kagen no Tsuki \(jonathanlfj\) \[Insane\]](https://osu.ppy.sh/beatmapsets/393343#fruits/940295)
-- HardRock
+- Hard Rock
   1. [Eisyo-kobu - Oriental Blossom \(Spectator\) \[Himiko's Rain\]](https://osu.ppy.sh/beatmapsets/747823#fruits/1588595)
   2. [Suzuki Konomi - Redo \(Neoskylove\) \[tasuke's Rain\]](https://osu.ppy.sh/beatmapsets/545351#fruits/1185455)
   3. [Hanatan - Shiwa \(Ami\) \[Insane\]](https://osu.ppy.sh/beatmapsets/130704#fruits/329967)
-- DoubleTime
+- Double Time
   1. [Kikuo - And Then You Became The Moon \(ZiRoX\) \[Platter\]](https://osu.ppy.sh/beatmapsets/353010#fruits/777823)
   2. [Memme - Force of Ra \(Deif\) \[Platter\]](https://osu.ppy.sh/beatmapsets/573479#fruits/1214850)
   3. [EastNewSound - Yuune Zekka, Ryouran no Sai \(goodbye\) \[Insane\]](https://osu.ppy.sh/beatmapsets/40386#fruits/128163)
@@ -215,11 +215,11 @@ The osu!catch World Cup 2018 was run by various community members.
   1. [Mili - Bathtub Mermaid \(JeirYagtama\) \[Anatomy\]](https://osu.ppy.sh/beatmapsets/684250#fruits/1448086)
   2. [Bitter Sweet Entertainment - Kanashimi no Mukougawa \(Piano Version\) \(JBHyperion\) \[Eternal\]](https://osu.ppy.sh/beatmapsets/435287#fruits/937653)
   3. [Porter Robinson - Flicker \(Static Noise Bird\) \[Worlds\]](https://osu.ppy.sh/beatmapsets/210682#fruits/495543)
-- HardRock
+- Hard Rock
   1. [OLDCODEX - Dried Up Youthful Fame \(TV Size\) \(RoseusJaeger\) \[Collab Platter\]](https://osu.ppy.sh/beatmapsets/544889#fruits/1154583)
   2. [Horie Yui - Asymmetry \(Ascendance\) \[Collab Platter\]](https://osu.ppy.sh/beatmapsets/414949#fruits/899608)
   3. [MinusP - Shura no Niwa \(wantuole\) \[Hard\]](https://osu.ppy.sh/beatmapsets/98233#fruits/264701)
-- DoubleTime
+- Double Time
   1. [senya - Kachou Fuugetsu \(- Magic Girl -\) \[Benny's Platter\]](https://osu.ppy.sh/beatmapsets/726596#fruits/1533955)
   2. [Nightwish - Last Of The Wilds \(BoberOfDarkness\) \[Platter\]](https://osu.ppy.sh/beatmapsets/321999#fruits/717056)
   3. [Zac Efron - Scream \(pishifat\) \[ahh\]](https://osu.ppy.sh/beatmapsets/320894#fruits/713932)
@@ -380,9 +380,9 @@ Sunday, 10 June 2018:
 
 1. The osu!catch World Cup is a country-based team tournament, played on the osu!catch game mode.
    - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
-2. Map scoring will use Score V2.
+2. Map scoring will use ScoreV2.
 3. The maps for each round will be announced by the mapset selectors in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-   - There will be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and a [DoubleTime](/wiki/Game_modifier/Double_Time) bracket.
+   - There will be a [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and a [Double Time](/wiki/Game_modifier/Double_Time) bracket.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
@@ -483,15 +483,15 @@ Sunday, 10 June 2018:
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - Finals and Grand Finals use the same mappool.
-2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time).
+2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time).
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no mods activated.
-6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
-   - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
+6. The Hidden, Hard Rock and Double Time bracket will be played with the respective modes activated.
+   - When playing a map from the Hard Rock or Double Time pool, Hidden can be used optionally by any player.
 7. The tiebreaker will be played under NoMod conditions.
 8. There will be 6 maps in the NoMod bracket for all stages.
-9. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 3 in all stages.
+9. The size of the [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time) brackets will be 3 in all stages.
 
 ### Scheduling instructions
 

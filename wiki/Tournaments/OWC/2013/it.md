@@ -47,7 +47,7 @@ L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.s
 1. L'osu! World Cup è un torneo 4 contro 4 a nazioni.
 2. Le mappe per ogni round saranno annunciate da chi sceglie le mappe con una settimana in anticipo. Solo quelle saranno usate nei match.
    1. Una mappa verrà usata come piccola pausa. QUesta mappa verrà giocata in caso di pareggio.
-   2. Ci saranno anche Hidden, HardRock, DoubleTime and FreeMod bracket.
+   2. Ci saranno anche Hidden, Hard Rock, Double Time and FreeMod bracket.
 3. Match schedule will be settled by Tournament Management (see below).
 4. Se lo staff o i riferimenti non sono online, il match verrà posticipato.
 5. Revived player's scores will be added to the total score.
@@ -112,12 +112,12 @@ L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.s
 ### Mappool instructions
 
 1. There will be a 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-2. Each mappool consists of 5 brackets: NoMod, Hidden, HardRock, DoubleTime and FreeMod
+2. Each mappool consists of 5 brackets: NoMod, Hidden, Hard Rock, Double Time and FreeMod
 3. Each mappool consists of 23 maps in total.
 4. Each mappool has one tiebreaker
 5. The NoMod bracket will be played with no modes activated.
-6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
-7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock, Flashlight or no mod at all. Players may select more than one mod.
+6. The Hidden, Hard Rock and Double Time bracket will be played with the respective modes activated.
+7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, Hard Rock, Flashlight or no mod at all. Players may select more than one mod.
 8. The tiebreaker will be played under FreeMod conditions.
 9. The size of the NoMod bracket will be:
    - 10 in Group Stage

@@ -135,11 +135,11 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
   1. [YOASOBI - Kaibutsu (Crowley) \[Predatorial Instinct\]](https://osu.ppy.sh/beatmapsets/1362546#fruits/2819040)
   2. [Zutt - HYMN (Jemzuu) \[Elan\]](https://osu.ppy.sh/beatmapsets/1457333#fruits/2995100)
   3. [Hijirime Laeria - stlaeria (Hinsvar) \[Salvation\]](https://osu.ppy.sh/beatmapsets/1352739#fruits/2800493)
-- HardRock
+- Hard Rock
   1. [ABSOLUTE CASTAWAY - Shinsou Shintouron (-Luminate) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1286508#fruits/2696508)
   2. [beatMARIO - Night of Knights (-wwwww) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/755113#fruits/1589553)
   3. [BLOOD CODE - POP SHOVE-IT FEAT. TOFUKU (Hobbes2) \[Extra\]](https://osu.ppy.sh/beatmapsets/1294825#fruits/2686903)
-- DoubleTime
+- Double Time
   1. [Brown Eyed Girls - Abracadabra (Rocma) \[2009 in 2021\]](https://osu.ppy.sh/beatmapsets/1457287#fruits/2995017)
   2. [Monster Siren - MSR / Chen Xue Ran - Operation Blade (Yumeno Himiko) \[Champion\]](https://osu.ppy.sh/beatmapsets/1457175#fruits/2994836)
   3. [zts - resurrectedreplayer (EvilElvis) \[Intricate\]](https://osu.ppy.sh/beatmapsets/304672#fruits/693412)
@@ -158,11 +158,11 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
   1. [Raito - False Infinite Parallel (JierYagtama) \[Hollow Night IWEX\]](https://osu.ppy.sh/beatmapsets/1450769#fruits/2982696)
   2. [40mP - Dandan Hayaku Naru (F D Flourite) \[Dandan\]](https://osu.ppy.sh/beatmapsets/1450388#fruits/2981944)
   3. [Chaos City Niigata - Ukiyoe Yokochou (Otosaka-Yu) \[nika mika's Sanbanchou Another\]](https://osu.ppy.sh/beatmapsets/713506#fruits/1566637)
-- HardRock
+- Hard Rock
   1. [Waldeus von dovjak - Omoide wo arigatou (Ascendance) \[Thank you, goodbye!\]](https://osu.ppy.sh/beatmapsets/1450387#fruits/2981943)
   2. [owl \* tree feat. yaki * tree - Sqlupp (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1450392#fruits/2981965)
   3. [DJ Totoriott - Chloe (Yusomi) \[Insane\]](https://osu.ppy.sh/beatmapsets/768982#fruits/1691531)
-- DoubleTime
+- Double Time
   1. [Yunomi - Wakusei Rabbit (feat. TORIENA) (-Luminate) \[Hyperion's Platter\]](https://osu.ppy.sh/beatmapsets/946510#fruits/2013900)
   2. [Hua Ling / Miao\*Jiang / Yan Ning / kinsen - Let the Wind Tell You (Yumeno Himiko) \[Fairy Tales\]](https://osu.ppy.sh/beatmapsets/1450401#fruits/2981975)
   3. [Tatsh feat. Tsukiko - Floating Darkness (Natteke) \[Collab\]](https://osu.ppy.sh/beatmapsets/22173#fruits/76612)
@@ -180,11 +180,11 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
   1. [M2U - Tian Di Kai Pi (ZiRoX) \[Rain\]](https://osu.ppy.sh/beatmapsets/1441999#fruits/2966342)
   2. [Yu\_Asahina - Ongaku -resolve- (Ascendance) \[Mike x Benita's Rain\]](https://osu.ppy.sh/beatmapsets/1442003#fruits/2966346)
   3. [Ariabl'eyeS - Kegare Naki Bara Juuji (Short ver.) (My Angel RangE) \[Left's Insane\]](https://osu.ppy.sh/beatmapsets/535277#fruits/1170869)
-- HardRock
+- Hard Rock
   1. [Studio EIM - Raindrop Flower (F D Flourite) \[Fulaoer\]](https://osu.ppy.sh/beatmapsets/1442018#fruits/2966397)
   2. [USAO - Rampage (Rocma) \[Platter\]](https://osu.ppy.sh/beatmapsets/1442014#fruits/2966392)
   3. [nanobii - rainbow road (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/375073#fruits/823197)
-- DoubleTime
+- Double Time
   1. [Eve - As You Like It (GIGACHAD) \[Platter\]](https://osu.ppy.sh/beatmapsets/1442026#fruits/2966405)
   2. [Minato Aqua - Shiroi Yuki no Princess wa (Secre) \[Platter\]](https://osu.ppy.sh/beatmapsets/1375156#fruits/2874509)
   3. [Yorushika - Yuunagi, Bou, Hana Madoi (Delis) \[Insane\]](https://osu.ppy.sh/beatmapsets/1029921#fruits/2154729)
@@ -279,9 +279,9 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
 
 1. osu!catch 世界杯是基于国家/地区的团体比赛，在 osu!catch 模式中进行。
    - 虽然本次比赛计划为 3v3，但可能会根据报名人数而改变。
-2. 分数计算基于 Score V2。
+2. 分数计算基于 ScoreV2。
 3. 每轮比赛的图池将由图池管理在实际比赛开始之前的周日公布。选手在比赛过程中只能选择其中的谱面。
-   - 图池包含 NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Game_modifier/Double_Time)。
+   - 图池包含 NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[Hard Rock](/wiki/Game_modifier/Hard_Rock)，[Double Time](/wiki/Game_modifier/Double_Time)。
    - 一张谱面会被选为 Tiebreaker，Tiebreaker 仅能在加时赛中被强制选择。
 4. 时间表将由比赛管理部门确定（请参见[排程说明](#排程说明)）
 5. 如果没有空闲的工作人员或裁判，比赛将被推迟。
@@ -376,16 +376,16 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
 ### 图池说明
 
 1. 小组赛，十六强赛，四分之一决赛，半决赛，决赛以及总决赛都会使用它们阶段各自的图池。
-2. 图池包含四组：NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock) 和 [DoubleTime](/wiki/Game_modifier/Double_Time)。
+2. 图池包含四组：NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[Hard Rock](/wiki/Game_modifier/Hard_Rock) 和 [Double Time](/wiki/Game_modifier/Double_Time)。
 3. 小组赛图池为 14 张，十六强赛和四分之一决赛图池为 15 张，半决赛和决赛图池为 16 张。
 4. 每个图池都包含一张 Tiebreaker。
-5. **NoFail 会被强制开启**
-6. NoMod 图池不能使用任何 Mod。（除了NoFail）
-7. Hidden，HardRock 和 DoubleTime 则要求选手使用图池的对应 Mod。
-   - 在 HardRock 和 DoubleTime 图池中，Hidden 为可选项。
+5. **No Fail 会被强制开启**
+6. NoMod 图池不能使用任何 Mod。（除了No Fail）
+7. Hidden，Hard Rock 和 Double Time 则要求选手使用图池的对应 Mod。
+   - 在 Hard Rock 和 Double Time 图池中，Hidden 为可选项。
 8. Tiebreaker 可用 Hidden。
 9. 在小组赛图池中 NoMod 谱面的数量为 4，十六强赛图池中为 5，半决赛、决赛以及总决赛则为 6.
-10. 所有阶段图池中都包含[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock) 以及 [DoubleTime](/wiki/Game_modifier/Double_Time) 谱面各三张。
+10. 所有阶段图池中都包含[Hidden](/wiki/Game_modifier/Hidden)，[Hard Rock](/wiki/Game_modifier/Hard_Rock) 以及 [Double Time](/wiki/Game_modifier/Double_Time) 谱面各三张。
 
 ### 排程说明
 

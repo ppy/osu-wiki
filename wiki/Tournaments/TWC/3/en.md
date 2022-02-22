@@ -122,10 +122,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [guna with team kyukkyu - subconsciousness (Charles445) \[Backfire's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/45205#taiko/146760)
   2. cranky - Rei Mai ToukyouRikaDaigaku YOSAKOI So Ran (POONwing) \[Oni\]
-- HardRock
+- Hard Rock
   1. [DECO\*27 feat. marina - Aimai Elegy (val0108) \[Love's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/43248#taiko/136526)
   2. [Levaslater - NNRT (Reisen Udongein) \[Taiko DS\]](https://osu.ppy.sh/beatmapsets/47330#taiko/152961)
-- DoubleTime
+- Double Time
   1. [ALiCE'S EMOTiON - Sweet Play (S i R i R u) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/29136#taiko/97616)
   2. [Xi - Majotachi no Butoukai \~ Magus (Kite) \[Pheon's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/43862#taiko/157054)
 - Tiebreaker
@@ -148,10 +148,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Ken Nakagawa - Tsuioku no Michishirube \~ Sono Ni (Dusty) \[Fiya's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/42158#taiko/167317)
   2. [The Quick Brown Fox - Shut Down Everything (OnosakiHito) \[Ono's Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/150548#taiko/371442)
-- HardRock
+- Hard Rock
   1. [yanaginagi - Muteki no Soldier (BinJip) \[Taiko DS\]](https://osu.ppy.sh/beatmapsets/52221#taiko/184851)
   2. [Suzaku - CONTRACT (Crimmi) \[Backfire's Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/33819#taiko/124317)
-- DoubleTime
+- Double Time
   1. [Pastry - Goblin Girl (osuplayer111) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/25392#taiko/86669)
   2. [IOSYS - Chizome no Love Letter (Hellzero) \[Fiya's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/35878#taiko/126709)
 - Tiebreaker
@@ -171,10 +171,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Subplaid - Jeg onskerikke a skade deg (grumd) \[Rocke's Taiko\]](https://osu.ppy.sh/beatmapsets/42817#taiko/138230)
   2. [Kola Kid - can't hide your love (Kert) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/39732#taiko/133083)
-- HardRock
+- Hard Rock
   1. [P\*Light - Poppin' Shower (Reisen Udongein) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/42527#taiko/134337)
   2. xi - youma yakou (danny19940914) \[Danny's Taiko Oni\]
-- DoubleTime
+- Double Time
   1. Pendulum - The Vulture (La Cataline) \[Taikolor (TWC Ver.)\]
   2. [fripSide - fortissimo-from insanity affection- (Short Ver.) (Melophobia) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/44106#taiko/139625)
 - Tiebreaker
@@ -194,10 +194,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [IOSYS - Tapuu Tears You Base (danny19940914) \[danny's taiko\]](https://puu.sh/28gKz)
   2. kors k as teranoid - Bad Maniacs (La Cataline) \[lepidon! - Taiko Oni\]
-- HardRock
+- Hard Rock
   1. [Croove & Paul Bazooka - Enemy Storm (Dark Jungle Mix) (Reiji-RJ) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/30229#taiko/124413)
   2. [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (Mr Color) \[Taikolor\]](https://puu.sh/28h1RZ)
-- DoubleTime
+- Double Time
   1. [Basic Element - Touch You Right Now (Kiiwa) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/32369#taiko/139607)
   2. [ClariS - Neo Moon (goodbye) \[Alace's Taiko\]](https://osu.ppy.sh/beatmapsets/29693#taiko/100104)
 - Tiebreaker
@@ -217,10 +217,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. AU - Rotterdam Cirno (OnosakiHito) \[Taiko Oni\]
   2. [Saiya - Remote Control (Garven) \[inaba's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/53857#taiko/173361)
-- HardRock
+- Hard Rock
   1. [Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (bakabaka) \[Car's Taiko\]](https://osu.ppy.sh/beatmapsets/36569#taiko/118718)
   2. [Zektbach - meme (AngelHoney) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/68617#taiko/200145)
-- DoubleTime
+- Double Time
   1. [Hatsune Miku - Electric Love (Short Ver.) (KayeSara) \[aabc's Taiko\]](https://osu.ppy.sh/beatmapsets/44591#taiko/140560)
   2. [Matsumoto Tamaki - Tenshi Teki Kenpou Yonjou (KayeSara) \[aabc's Taiko\]](https://osu.ppy.sh/beatmapsets/43100#taiko/137802)
 - Tiebreaker
@@ -240,10 +240,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [nano.RIPE - Hana no Iro (TV Size) (Disoy) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/30567#taiko/101109)
   2. [Subplaid - Only time make your hapiness (\[Luanny PhNyx\]) \[Oni\]](https://osu.ppy.sh/beatmapsets/57381#taiko/172994)
-- HardRock
+- Hard Rock
   1. [Shihori - Heisei Kappa Lords (goodbye) \[KumaTaiko\]](https://osu.ppy.sh/beatmapsets/30841#taiko/101781)
   2. [Ryu\* - China Express (yeahyeahyeahhh) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/53853#taiko/164009)
-- DoubleTime
+- Double Time
   1. [PSY - GANGNAM STYLE (yeahyeahyeahhh) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/55799#taiko/169840)
   2. [ave;new feat. Sakura Saori - True My Heart (Suzuka Asahina) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/16910#taiko/68793)
 - Tiebreaker
@@ -263,10 +263,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Mutsuhiko Izumi - Snow Goose (wmfchris) \[Taiko\]](https://osu.ppy.sh/beatmapsets/21754#taiko/75360)
   2. [Hatsune Miku - Romeo and Cinderella (Nekoo\[\]) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/21954#taiko/76530)
-- HardRock
+- Hard Rock
   1. [EastNewSound - Lucid Dream (eveless) \[Poke's Taiko\]](https://osu.ppy.sh/beatmapsets/24825#taiko/87964)
   2. ETIA. - Enkan no Kotowari (Rein0527) \[KUMA's Taiko Oni (TWC ver.)\]
-- DoubleTime
+- Double Time
   1. [12 Girls Band - Freedom (LKs) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/13901#taiko/51121)
   2. [Matsumoto Tamaki - Tenshi Teki Kenpou Yonjou (KayeSara) \[aabc's Taiko\]](https://osu.ppy.sh/beatmapsets/13901#taiko/51121)
 - Tiebreaker
@@ -286,10 +286,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [naotyu - Her Majesty (Reisen Udongein) \[MM's Taiko\]](https://osu.ppy.sh/beatmapsets/52360#taiko/166598)
   2. [Hatsune Miku - Love-colored Ward (Krisom) \[lepidon! Taiko Oni\]](https://osu.ppy.sh/beatmapsets/52360#taiko/166598)
-- HardRock
+- Hard Rock
   1. [Hatsune Miku - Nightmare Party Night (banvi) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/23053#taiko/84587)
   2. [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[Nyan's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/28332#taiko/112799)
-- DoubleTime
+- Double Time
   1. [Madeon - Shuriken (Charles445) \[MM's Taiko\]](https://osu.ppy.sh/beatmapsets/34595#taiko/112818)
   2. [Hatsune Miku - Electric Love (Short Ver.) (KayeSara) \[aabc's Taiko\]](https://osu.ppy.sh/beatmapsets/44591#taiko/140560)
 - Tiebreaker
@@ -339,7 +339,7 @@ This competition has come to an end and resulted in the following podium:
 4. Referee will select one warmup map. This map is not part of the actual mappool.
 5. Alternately each captain selects a map out of the mappool. Winner of this warmup will start selecting maps.
    - The captains can select maps out of the NoMod bracket unlimited.
-   - Selection out of mod-specific brackets is limited. Each captain can only select one map from each mod-restricted bracket during match. So each team can pick 1 HardRock, 1 Hidden and 1 DoubleTime map during match.
+   - Selection out of mod-specific brackets is limited. Each captain can only select one map from each mod-restricted bracket during match. So each team can pick 1 Hard Rock, 1 Hidden and 1 Double Time map during match.
    - In case of tie, the tiebreaker map must be played.
    - Captains shall tell the selected map via PM to the referee. He will pick it.
 6. Referees must save the result of each game with a screenshot.
@@ -348,7 +348,7 @@ This competition has come to an end and resulted in the following podium:
 ### Tournament rules
 
 1. The maps for each round are announced by mapset selectors approx. 1 week ahead. Only these can be used during the respective matches.
-   - One map will be given as tiebreaker map. This map only gets played in case of a tie. Also there will be a Hidden, a HardRock and a DoubleTime bracket.
+   - One map will be given as tiebreaker map. This map only gets played in case of a tie. Also there will be a Hidden, a Hard Rock and a Double Time bracket.
 2. Captains have the chance to hand in preferred times for matches 9 days ahead. All your matches will be scheduled by trying to fit these perferations. Match schedules will be released approx. 7 days ahead. Captains have 24 hours to object the scheduled time.
    - After the 24 hours passed, match schedule is locked and can't be changed anymore.
 3. If no staff or referee is available, the match must be postponed.

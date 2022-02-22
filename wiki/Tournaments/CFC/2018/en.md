@@ -86,12 +86,12 @@ This competition has come to an end and resulted in the following podium:
   2. [USAO - Boss Rush (Minato Yukina) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/602460#fruits/1272534)
   3. [Susumu Hirasawa - The Secret of The Flowers of Phenomenon (jesse1412) \[Insane\]](https://osu.ppy.sh/beatmapsets/70247#fruits/201974)
   4. [sana - Packet Hero (Fuccho) \[Ruthless\]](https://osu.ppy.sh/beatmapsets/404910#fruits/880321)
-- HardRock
+- Hard Rock
   1. [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Spectator) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/581787#fruits/1536964)
   2. [Memme - Avalanche (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/357244#fruits/785892)
   3. [xi - ANiMA (Kalindraz) \[Oberum Primus\]](https://osu.ppy.sh/beatmapsets/441271#fruits/949234)
   4. [BLUE ENCOUNT - HOPE (Monstrata) \[SURVIVOR\]](https://osu.ppy.sh/beatmapsets/685622#fruits/1451282)
-- DoubleTime
+- Double Time
   1. [Seiryu - Ultramarine (ZiRoX) \[Rain\]](https://osu.ppy.sh/beatmapsets/275991#fruits/625941)
   2. [GRANRODEO - Can Do (TV Size) (Spectator) \[Platter\]](https://osu.ppy.sh/beatmapsets/580381#fruits/1228853)
   3. [Hatsune Miku & Megpoid Gumi - Ashurashurashura (Asgard) \[Insane\]](https://osu.ppy.sh/beatmapsets/36248#fruits/148911)
@@ -120,12 +120,12 @@ This competition has come to an end and resulted in the following podium:
   2. [Lite Show Magic - TRICKL4SH 220 (Minato Yukina) \[HEAVENLY\]](https://osu.ppy.sh/beatmapsets/616487#fruits/1300167)
   3. [Nanjo Yoshino x Kayano Ai (as Shirabe Tsukuyomi x Kirika Akatsuki) - Edge Works of Goddess ZABABA (blissfulyoshi) \[Death Melody\]](https://osu.ppy.sh/beatmapsets/159750#fruits/561539)
   4. [Swan Lake Orchestra - Hakuchou no Mizuumi (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/25922#fruits/87728)
-- HardRock
+- Hard Rock
   1. [a\_hisa - inertia (Kyuare) \[Overdose\]](https://osu.ppy.sh/beatmapsets/593457#fruits/1255531)
   2. [a\_hisa - Tokei no Heya to Seishin Sekai (Spectator, Kyuare) \[Kyuare Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/639409#fruits/1356120)
   3. [Sasai Ryuji - Shinsen (smallboat) \[Laguna\]](https://osu.ppy.sh/beatmapsets/360610#fruits/792545)
   4. [Nekomata Master - Avalon no Oka (moph) \[Special\]](https://osu.ppy.sh/beatmapsets/317538#fruits/791264)
-- DoubleTime
+- Double Time
   1. [Morimori Atsushi - PUPA (\_Asriel) \[Asriel's Platter\]](https://osu.ppy.sh/beatmapsets/660618#fruits/1404642)
   2. [REDALiCE - FLOWER REDALiCE Remix (kowaii\_ne) \[Platter\]](https://osu.ppy.sh/beatmapsets/145194#fruits/415798)
   3. [zts - dreamenddischarger (Jounzan, Natteke, Damnae, Irreversible, happy30, Okoratu) \[Love Letter\]](https://osu.ppy.sh/beatmapsets/339615#fruits/758298)
@@ -154,12 +154,12 @@ This competition has come to an end and resulted in the following podium:
   2. [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (Minato Yukina) \[Crystal's Overdose\]](https://osu.ppy.sh/beatmapsets/283595#fruits/659221)
   3. [Camellia - Proluvies (Avena) \[Ultra\]](https://osu.ppy.sh/beatmapsets/283815#fruits/641605)
   4. [Tristam - Once Again (EvilElvis, Aka) \[Collab\]](https://osu.ppy.sh/beatmapsets/179495#fruits/502418)
-- HardRock
+- Hard Rock
   1. [MitiS - Movements Feat. MaHi (Original Mix) (Speed Up Ver.) (Serena-) \[Serena's Overdose\]](https://osu.ppy.sh/beatmapsets/183132#fruits/531560)
   2. [USAO - BroGamer (Spectator) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/701726#fruits/1518690)
   3. [Dschinghis Khan - Moskau (Lesjuh, happy30) \[Lesjuh/Happy30\]](https://osu.ppy.sh/beatmapsets/5947#fruits/29965)
   4. [Renard - Da Nu Nuttah (Blue Dragon) \[Nogard\]](https://osu.ppy.sh/beatmapsets/62665#fruits/205282)
-- DoubleTime
+- Double Time
   1. [Kalafina - believe (Minato Yukina) \[Bless\]](https://osu.ppy.sh/beatmapsets/316647#fruits/705527)
   2. [Goose house - Hikaru nara (Sc4v4ng3r) \[Sc4's Rain\]](https://osu.ppy.sh/beatmapsets/519023#fruits/1113160)
   3. [Akiko Shikata - Umineko no Naku Koro ni \~Rengoku\~ (AngelHoney) \[AHO\]](https://osu.ppy.sh/beatmapsets/21079#fruits/77996)
@@ -185,11 +185,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Hotaru Murasaki - Re:TrymenT (Ascendance) \[Ascendance's DreaM\]](https://osu.ppy.sh/beatmapsets/518004#fruits/1209998)
   2. [M2U - Quo Vadis (buhei) \[Extreme\]](https://osu.ppy.sh/beatmapsets/171421#fruits/485284)
   3. [Caravan Palace - Rock It For Me (tiper) \[Insane\]](https://osu.ppy.sh/beatmapsets/69041#fruits/212118)
-- HardRock
+- Hard Rock
   1. [ClariS - Connect -TV MIX- (Spectator) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/203567#fruits/500293)
   2. [Utagumi Setsugekka - Yumemi Sunrise (Zweib) \[Hard\]](https://osu.ppy.sh/beatmapsets/132312#fruits/338841)
   3. [Kagamine Rin - Oni Kanojo (gowww) \[gow's Insane\]](https://osu.ppy.sh/beatmapsets/23616#fruits/86245)
-- DoubleTime
+- Double Time
   1. [Mili - Utopiosphere (Spectator) \[Platter\]](https://osu.ppy.sh/beatmapsets/187177#fruits/446767)
   2. [Function Phantom - Algebra (Sinnoh) \[Sinnoh's Platter\]](https://osu.ppy.sh/beatmapsets/468281#fruits/1442004)
   3. [senya - Magica (Satellite, Frostmourne, Mixagji) \[SatelliteFrostMix\]](https://osu.ppy.sh/beatmapsets/91791#fruits/248474)
@@ -212,10 +212,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [FELT - Goldrop (Spectator) \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/204927#fruits/506395)
   2. [Cream puff - Mermaid girl (Stjpa) \[Another\]](https://osu.ppy.sh/beatmapsets/715915#fruits/1512693)
-- HardRock
+- Hard Rock
   1. [Camellia - Ultimate Ascension (Deif) \[Salad\]](https://osu.ppy.sh/beatmapsets/520301#fruits/1105922)
   2. [yuikonnu - Byoumei Koiwazurai (litoluna) \[Hard\]](https://osu.ppy.sh/beatmapsets/135358#fruits/355623)
-- DoubleTime
+- Double Time
   1. [Goose house - 18sai (mingmichael) \[Platter\]](https://osu.ppy.sh/beatmapsets/242856#fruits/560407)
   2. [All Levels at Once - Changeling (ztrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/68169#fruits/197482)
 - FreeMod
@@ -242,6 +242,6 @@ This competition has come to an end and resulted in the following podium:
 4. The lower roller will ban first, the higher roller will pick first.
    - FreeMod is forced mod, meaning every player has to use at least one mod.
    - Tiebreaker is not forced mod but you may choose a mod.
-   - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, HardRock and Hidden.
+   - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, Hard Rock and Hidden.
 
 [flag_FR]: /wiki/shared/flag/FR.gif "France"

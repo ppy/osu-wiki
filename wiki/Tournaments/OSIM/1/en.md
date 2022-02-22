@@ -107,11 +107,11 @@ This competition has come to an end and resulted in the following podium:
   1. [REDALiCE feat. MONICO - Breakin' Chain (Yusomi) \[ak74's Extra\]](https://osu.ppy.sh/beatmapsets/943867#osu/2368235)
   2. [hololive - Ochame Kinou (Liszt) \[OTAKU\]](https://osu.ppy.sh/beatmapsets/1164270#osu/2428685)
   3. [graves & MYRNE - Tiger Blood (VINXIS) \[vintyui\]](https://osu.ppy.sh/beatmapsets/451850#osu/969314)
-- HardRock
+- Hard Rock
   1. [PUP - Free At Last (Icekalt) \[Solo in the End\]](https://osu.ppy.sh/beatmapsets/1133317#osu/2366967)
   2. [ETIA. - Nihonshiki Koukaku-OukaRanman- (Luscent) \[Extra\]](https://osu.ppy.sh/beatmapsets/1100842#osu/2299955)
   3. [HyuN feat. LyuU - Cross Over (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/922249#osu/1925935)
-- DoubleTime
+- Double Time
   1. [JUNNA - Vai! Ya! Vai! (Yohanes) \[Insane\]](https://osu.ppy.sh/beatmapsets/1088269#osu/2275555)
   2. [Liz Triangle - Veda (eiri-) \[Ayyrohas' Insane\]](https://osu.ppy.sh/beatmapsets/979392#osu/2096828)
   3. [RIOT - Overkill (Xen) \[Insane\]](https://osu.ppy.sh/beatmapsets/992847#osu/2356185)
@@ -140,11 +140,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Minamotoya feat. Kuroa\* - Hana Kagerou (404 AimNotFound) \[Yokes' Expert\]](https://osu.ppy.sh/beatmapsets/929130#osu/1945907)
   2. [Ampzer - Lotus (-PC) \[Extra\]](https://osu.ppy.sh/beatmapsets/745475#osu/1571592)
   3. [69 de 74 - Aratanaru Ketsui (Yooh) \[Renaissance\]](https://osu.ppy.sh/beatmapsets/754704#osu/1890973)
-- HardRock
+- Hard Rock
   1. [The Ghost of 3.13 - Daydream (Pittigbaasje) \[Pittig\]](https://osu.ppy.sh/beatmapsets/411990#osu/893916)
   2. [Brandy - Cross Time !! (Leader) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/973162#osu/2067296)
   3. [Akatsuki Records - Trance Dance Anarchy (papapa213) \[Dancing!\]](https://osu.ppy.sh/beatmapsets/1056140#osu/2207263)
-- DoubleTime
+- Double Time
   1. [EGOIST - Namae no Nai Kaibutsu (LunarSakuya) \[Insane\]](https://osu.ppy.sh/beatmapsets/69137#osu/425890)
   2. [Crystal Fighters - Love Natural (Bonsai) \[sketch\]](https://osu.ppy.sh/beatmapsets/504712#osu/1073765)
   3. [Amane - TWEEKER (TicClick) \[Mikii's Insane\]](https://osu.ppy.sh/beatmapsets/257165#osu/954703)
@@ -172,11 +172,11 @@ This competition has come to an end and resulted in the following podium:
   1. [(G)I-DLE - HANN (Alone) (cosmiccc) \[Whistle\]](https://osu.ppy.sh/beatmapsets/832324#osu/1743778)
   2. [MY FIRST STORY - Fukagyaku Replace (HabiHolic) \[Insane\]](https://osu.ppy.sh/beatmapsets/319475#osu/711063)
   3. [senya - Zetsubou no Fuchi (-Mo-) \[Abyssal\]](https://osu.ppy.sh/beatmapsets/605290#osu/1278874)
-- HardRock
+- Hard Rock
   1. [culenasm - Helsinki no Yume (Lasse) \[Reverie\]](https://osu.ppy.sh/beatmapsets/1083875#osu/2266782)
   2. [Nekomata Master - Following Flow (Beomsan) \[Special\]](https://osu.ppy.sh/beatmapsets/511699#osu/1087690)
   3. [Kaneko Chiharu - WHITEOUT (Night Mare) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/913022#osu/2286489)
-- DoubleTime
+- Double Time
   1. [Goose house - Hikaru nara (ProfessionalBox) \[Mikii's Insane\]](https://osu.ppy.sh/beatmapsets/440169#osu/947708)
   2. [Korplikaani - Vodka (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/26886#osu/90466)
   3. [nanobii - rainbow road (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/375073#osu/823197)
@@ -203,11 +203,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Seiryu X Donald - Time to Donald (James) \[Another\]](https://osu.ppy.sh/beatmapsets/6950#osu/30613)
   2. [suzumu - Shinzou Connect (Ryuusei Aika) \[coco's Extra\]](https://osu.ppy.sh/beatmapsets/964855#osu/2100202)
   3. [sakuzyo - AXION (Star\* Remix 2016 Update) (Ryuusei Aika) \[Dynamix's Extra\]](https://osu.ppy.sh/beatmapsets/957007#osu/2003512)
-- HardRock
+- Hard Rock
   1. [BTS - Boy In Luv (Lilyanna) \[Euny's Extra\]](https://osu.ppy.sh/beatmapsets/529064#osu/1289157)
   2. [McDSG - McDonald's Shiok Shiok Satay (-LeeP-) \[handsome's Extra\]](https://osu.ppy.sh/beatmapsets/211825#osu/498060)
   3. [BLANKFIELD - Retrospective City (Lasse) \[Extra\]](https://osu.ppy.sh/beatmapsets/1120645#osu/2341601)
-- DoubleTime
+- Double Time
   1. [Demetori - Mukau no Sato \~ Deep Mountain (23KonG) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/284881#osu/643607)
   2. [sakuraburst - GLASS RIVER (Niva) \[confluence\]](https://osu.ppy.sh/beatmapsets/1061218#osu/2223721)
   3. [EastNewSound - Black Lotus (S i R i R u) \[SG - Death\]](https://osu.ppy.sh/beatmapsets/12026#osu/45544)
@@ -232,10 +232,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Forte Escape - Ya! Party! (Pasonia) \[Waiter!!!\]](https://osu.ppy.sh/beatmapsets/3463#osu/21878)
   2. [Comedian Harmonists - Perpetuum Mobile (Bonsai) \[Expertum\]](https://osu.ppy.sh/beatmapsets/316390#osu/891079)
-- HardRock
+- Hard Rock
   1. [BESTie - Excuse Me (Euny) \[ShadrEuny's Ex\]](https://osu.ppy.sh/beatmapsets/423925#osu/915925)
   2. [Itou Kanako - Hacking to the Gate (TV Size) (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/45659#osu/142449)
-- DoubleTime
+- Double Time
   1. [Train - 50 Ways to Say Goodbye (mancusojuanmattos) \[Insane\]](https://osu.ppy.sh/beatmapsets/92893#osu/250926)
   2. [fripSide - fortuna on the Sixteenth night (Nichiyouki) \[Insane\]](https://osu.ppy.sh/beatmapsets/132601#osu/333375)
   3. [Amatsuki - Hoshi no Komoriuta (Glaceon) \[Pleasant Lullaby\]](https://osu.ppy.sh/beatmapsets/919080#osu/1919109)
@@ -259,10 +259,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [FIRST AID - BEE-U-TIFUL (yeahyeahyeahhh) \[MX\]](https://osu.ppy.sh/beatmapsets/35152#osu/114748)
   2. [Hatsune Miku - Subarashii Sekai (val0108) \[S.S\]](https://osu.ppy.sh/beatmapsets/25825#osu/96351)
-- HardRock
+- Hard Rock
   1. [zakuro - Inochi ni Kirawarete Iru. (Mirash) \[Sing's Another\]](https://osu.ppy.sh/beatmapsets/693727#osu/1598151)
   2. [ginkiha, TEA - Haruka (Short Ver.) (Hinsvar) \[Niva's Insane\]](https://osu.ppy.sh/beatmapsets/1110461#osu/2320395)
-- DoubleTime
+- Double Time
   1. [Sayuri - Sore wa Chiisana Hikari no Youna (FrostxE) \[Insane\]](https://osu.ppy.sh/beatmapsets/427725#osu/923319)
   2. [Kamiyama Yoh - CUT (Ryuusei Aika) \[Irohas' Insane\]](https://osu.ppy.sh/beatmapsets/1053399#osu/2201286)
 
@@ -502,13 +502,13 @@ Sunday, 19 April 2020:
 
 ### General rules
 
-1. Map scoring is based on **Score V2.**
+1. Map scoring is based on **ScoreV2.**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the Tournament Management. Had there been any teams who were unable to attend the current schedule for any reason, affected teams may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a team does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all maps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the map regardless of their remaining health at the end.
+7. **No Fail will be enforced in all maps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the map regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they failed the map.
    - Disconnects that occur within a few seconds after map is started by the referee can be rematched.
 9. If a player disconnects between the beatmaps, the match can be delayed up to 15 minutes max.
@@ -578,7 +578,7 @@ Sunday, 19 April 2020:
    - The loser of the `!roll` gets to decide which team picks first.
    - This rule does not apply in the Qualifier lobbies.
 2. Each team has to ban **one beatmap** (on Group Stage) and **two beatmaps** (on the knock-out stages) from the mappool. These beatmaps are not allowed to be picked by any team during the entire match.
-   - Each team may ban multiple maps from the same mod pool. Either team, however, may *not* ban out a mod pool completely -- for example, in a match with 3 possible HardRock picks in where two HardRock picks have been banned prior, the team that bans next may not ban the remaining HardRock pick as it'll shut down the HardRock mod pool completely for the corresponding match.
+   - Each team may ban multiple maps from the same mod pool. Either team, however, may *not* ban out a mod pool completely -- for example, in a match with 3 possible Hard Rock picks in where two Hard Rock picks have been banned prior, the team that bans next may not ban the remaining Hard Rock pick as it'll shut down the Hard Rock mod pool completely for the corresponding match.
    - Banning does not apply in the Qualifier lobbies.
 3. Each team is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Qualifier lobbies.

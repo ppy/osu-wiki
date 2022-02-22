@@ -130,11 +130,11 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
   1. [Akiyama Uni - Broken Moon (Regou) \[Regou's Extra\]](https://osu.ppy.sh/beatmapsets/643391#osu/1389956)
   2. [Ocelot - YUKARI (Taeyang) \[Hentai mapper Taeyang's style\]](https://osu.ppy.sh/beatmapsets/336802#osu/768781)
   3. [sakuzyo - AXION (Skystar) \[Skystar's Expert\]](https://osu.ppy.sh/beatmapsets/115193#osu/336229)
-- HardRock
+- Hard Rock
   1. [Camellia - overcomplexification (-Tochi) \[-Tochi's Complex\]](https://osu.ppy.sh/beatmapsets/378212#osu/863563)
   2. [HyuN - White Aura (Delis) \[Delis' Extra\]](https://osu.ppy.sh/beatmapsets/891333#osu/1863199)
   3. [Yooh - LegenD. (Reol, Len) \[ReoLen's InfinitE.\]](https://osu.ppy.sh/beatmapsets/396839#osu/878756)
-- DoubleTime
+- Double Time
   1. [Eoin O' Broin - Deep Space (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/25098#osu/85045)
   2. [MiddleIsland - Aldo (AngelHoney) \[AngelHoney\]](https://osu.ppy.sh/beatmapsets/72767#osu/289256)
   3. [M2U - Lunatic Sky (Hakurei Yoru) \[Yoru's Insane\]](https://osu.ppy.sh/beatmapsets/431971#osu/936769)
@@ -160,11 +160,11 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
   1. [DJ Totoriott - Chloe (DeviousPanda) \[Mystery\]](https://osu.ppy.sh/beatmapsets/915491#osu/1911962)
   2. [Nekomata Master - Izanami's wail (Xilver) \[Xilver's extrA!!\]](https://osu.ppy.sh/beatmapsets/792367#osu/1746993)
   3. [Sota Fujimori - polygon (-PC) \[-PC's hexagon\]](https://osu.ppy.sh/beatmapsets/422136#osu/1028537)
-- HardRock
+- Hard Rock
   1. [KillerBlood - Something Spicy (My Angel Azusa) \[Spicy\]](https://osu.ppy.sh/beatmapsets/569320#osu/1206875)
   2. [sakuzyo - Neurotoxin (Sharlo) \[Sharlo's Another\]](https://osu.ppy.sh/beatmapsets/198380#osu/516785)
   3. [Seiryu - Critical Crystal (wa\_) \[wa's Extra\]](https://osu.ppy.sh/beatmapsets/199535#osu/475805)
-- DoubleTime
+- Double Time
   1. [My Bloody Valentine - You Made Me Realise (dsco) \[Insane\]](https://osu.ppy.sh/beatmapsets/754498#osu/1596960)
   2. [Beatdrop - Phase 1 (rickyboi) \[Insane\]](https://osu.ppy.sh/beatmapsets/54511#osu/167819)
   3. [xi feat. Sta - Tiferet (ktgster) \[Insane\]](https://osu.ppy.sh/beatmapsets/714225#osu/1511130)
@@ -190,11 +190,11 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
   1. [Getty vs. DJ DiA - Grayed Out -Antifront- (Linada) \[Linada's Expert\]](https://osu.ppy.sh/beatmapsets/578755#osu/1329304)
   2. [MIYAVI vs. KenKen - Flashback (TV Size) (IceKalt) \[FlashbacK\]](https://osu.ppy.sh/beatmapsets/745270#osu/1571245)
   3. [ParagonX9 - Chaoz Japan (Mustaash) \[Chaos\]](https://osu.ppy.sh/beatmapsets/31115#osu/102441)
-- HardRock
+- Hard Rock
   1. [Aoi - aterlbus (Suzuki\_1112) \[1112's INSANE\]](https://osu.ppy.sh/beatmapsets/682002#osu/1481207)
   2. [96neko - Uso no Hibana (Sonnyc) \[Insane\]](https://osu.ppy.sh/beatmapsets/559483#osu/1183233)
   3. [FOLiACETATE - Heterochromia Iridis (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/106443#osu/279607)
-- DoubleTime
+- Double Time
   1. [EBICO & jioyi - Slit (Megurine Luka) \[Hyper\]](https://osu.ppy.sh/beatmapsets/301422#osu/675916)
   2. [Mitchie M - Viva Happy (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/120002#osu/317917)
   3. [Reol - drop pop candy (walaowey) \[Walao's Lovestruck\]](https://osu.ppy.sh/beatmapsets/754505#osu/1601353)
@@ -219,10 +219,10 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 - Hidden
   1. [VINXIS - Greetings (Net0) \[Net0's Insane\]](https://osu.ppy.sh/beatmapsets/788201#osu/1654913)
   2. [P*Light - Gekkou Ranbu (liaoxingyao) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/406623#osu/883618)
-- HardRock
+- Hard Rock
   1. [Utada Hikaru & Skrillex - Face My Fears (Japanese Version) (VINXIS) \[Insane\]](https://osu.ppy.sh/beatmapsets/891547#osu/1863800)
   2. [Paolo Ligorio - The Colors Of My Life (Nightcore Mix) (MkGuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/646724#osu/1370207)
-- DoubleTime
+- Double Time
   1. [Mili - Nine Point Eight (JeZag, Okoratu) \[Collab Hard\]](https://osu.ppy.sh/beatmapsets/131147#osu/674009)
   2. [Duca - eyes to eyes (DalouBot) \[Dalou's Insane\]](https://osu.ppy.sh/beatmapsets/805869#osu/1704995)
 - FreeMod
@@ -245,10 +245,10 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 - Hidden
   1. [DJ Sharpnel - Exciting Hyper Highspeed Star (H-boy) \[H-boy's Hyper\]](https://osu.ppy.sh/beatmapsets/16619#osu/62590)
   2. [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) \[Another\]](https://osu.ppy.sh/beatmapsets/710329#osu/1501582)
-- HardRock
+- Hard Rock
   1. [ALiCE'S EMOTiON - Evening Steps (Louis Cyphre) \[LC's Insane\]](https://osu.ppy.sh/beatmapsets/270457#osu/615225)
   2. [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) \[short ver.\] (\_Epreus) \[\_Epreus' Insane\]](https://osu.ppy.sh/beatmapsets/834240#osu/1761166)
-- DoubleTime
+- Double Time
   1. [DJ Ozawa - Tokyo (Innovaderz Remix) (orza6006) \[6006's Hard\]](https://osu.ppy.sh/beatmapsets/333139#osu/783412)
   2. [Naru Hakobe (CV: M.A.O) - Neko Matsuri (Regou) \[Insane\]](https://osu.ppy.sh/beatmapsets/660752#osu/1615501)
 - FreeMod
@@ -439,8 +439,8 @@ Sunday, 10 March 2019:
 2. Mappool sizes will progressively get bigger each round after Ro16. Starting with a 4/2/2/2/2/3 format. This format will be explained as follows:
    - 4 NoMod
    - 2 Hidden
-   - 3 HardRock
-   - 2 DoubleTime
+   - 3 Hard Rock
+   - 2 Double Time
    - 2 FreeMod
    - 3 Tiebreakers
 3. Group stage will be round-robin, followed by a double elimination bracket.
@@ -491,7 +491,7 @@ Sunday, 10 March 2019:
    - There will be no warmups in group stage. Warmups in final stages are strictly limited to **2 minutes maximum drain time.**
 4. 1 ban per team up until Round of 16, 2 bans from Quarterfinals onwards
 5. Teams may substitute players in and out of the lobby without limit.
-6. Mods that are allowed in FreeMod: Hidden, Hardrock, Flashlight and Easy.
+6. Mods that are allowed in FreeMod: Hidden, Hard Rock, Flashlight and Easy.
    - At least 2 players in a team must activate at least one mod.
    - Players may combine mods (e.g. HDHR).
 7. If a player ends the map failed, their score will not be counted. However, if the player is alive at the end of the map, then their score will be counted regardless of whether they failed during the map or not.

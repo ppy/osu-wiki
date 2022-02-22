@@ -114,7 +114,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Project B- - Sarutobi Champion is sessha (agu) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/584362#taiko/1236248)
   2. [Hinolsuka - Moonheart (hoku) \[hokuoni^-^\]](https://osu.ppy.sh/beatmapsets/742266#taiko/1565655)
-- HardRock
+- Hard Rock
   1. [Feryquitous remixed by xi - Dst\[ick\]orv (komasy) \[DecO\[ni\]y\]](https://osu.ppy.sh/beatmapsets/607690#taiko/1283510)
   2. [Taishi - chapter4 Dream to the East (Rafael Nadal) \[chapter7 Journey to the West\]](https://osu.ppy.sh/beatmapsets/820100#taiko/1719302)
 - FreeMod
@@ -126,11 +126,11 @@ This competition has come to an end and resulted in the following podium:
 - Challenge
   1. [Ryu\* - !Viva! (Nofool) \[Insane Oni\]](https://osu.ppy.sh/beatmapsets/799895#taiko/1679280)
   2. [katagiri - L4.8TS (KitajimaYN) \[Never Forgot\]](https://osu.ppy.sh/beatmapsets/729494#taiko/1539826)
-- DoubleTime
+- Double Time
   1. [Draw the Emotional & Foreground Eclipse - Accept your fate now (eiri-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/773793#taiko/1626518)
 - Easy
   1. [Camellia - Venomous Firefly (rezi888) \[Little Bug Storm\]](https://osu.ppy.sh/beatmapsets/853179#taiko/1783147)
-- Hidden+HardRock
+- Hidden+Hard Rock
   1. [4nzu - Super Jackie (7\_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/757347#taiko/1593257)
 - Tiebreaker
   1. **[Loctek - Mad Breaks (Nishizumi) \[Oni\]](https://osu.ppy.sh/beatmapsets/814517#taiko/1708054)**
@@ -149,7 +149,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Akhuta - Mira (agu) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/838471#taiko/1755426)
   2. [Santana ft. Chad Kroeger - Into The Night (Grimbow) \[Salsa\]](https://osu.ppy.sh/beatmapsets/840023#taiko/1758438)
-- HardRock
+- Hard Rock
   1. [Omoi - Teo (Fahrenheit7) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/780787#taiko/1640050)
   2. [Otani Kano - Hoshizora Travel (KitajimaYN) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/719960#taiko/1520149)
 - FreeMod
@@ -161,11 +161,11 @@ This competition has come to an end and resulted in the following podium:
 - Challenge
   1. [Katagiri - Katagiri Catch Ball (rezi888) \[TAIKO.WAV\]](https://osu.ppy.sh/beatmapsets/803965#taiko/1766517)
   2. [zircon - Devil's Spirit (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/706550#taiko/1493978)
-- DoubleTime
+- Double Time
   1. [solfa feat.Ceui - Koiiro Recipe (Nerova Guiz GX) \[N/AT\]](https://osu.ppy.sh/beatmapsets/657950#taiko/1393582)
 - Easy
   1. [Satsuki ga Tenkomori - Udatsu Stabilizer (Feat. Yaming) (applerss) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/800032#taiko/1679586)
-- Hidden+HardRock
+- Hidden+Hard Rock
   1. [YUC'e - Future Cake (yyyyyyyyyyypetu) \[Yuni&Petu Cake\]](https://osu.ppy.sh/beatmapsets/762556#taiko/1603247)
 - Tiebreaker
   1. **[katagiri - kuu (Backfire) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/841514#taiko/1761028)**
@@ -184,7 +184,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Sorry about my face - 161914 (vrnl) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/832971#taiko/1744890)
   2. [E0ri4 - Absolute Gate (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/687337#taiko/1454434)
-- HardRock
+- Hard Rock
   1. [Saiph - Schwarzschild (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/600370#taiko/1268647)
   2. [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (frukoyurdakul) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690344#taiko/1461118)
 - FreeMod
@@ -196,11 +196,11 @@ This competition has come to an end and resulted in the following podium:
 - Challenge
   1. [Verdammt - Hitori botchi no Mao (rezi888) \[Lowermost (TWC Ver.)\]](https://puu.sh/BvQaX/4cbcdb17de.osz)
   2. [Camellia feat. Nanahira - PAPAYAPA BASS (Nwolf) \[KATKATDONKAT\]](https://osu.ppy.sh/beatmapsets/584714#taiko/1237040)
-- DoubleTime
+- Double Time
   1. [Submatik & Phil ft. Holly Drummond - One (Virtual Riot 2017 Remix) (Nerova Guiz GX) \[N/AT\]](https://osu.ppy.sh/beatmapsets/846862#taiko/1771063)
 - Easy
   1. [Cornandbeans - Blaze (Backfire) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/850018#taiko/1777297)
-- Hidden+HardRock
+- Hidden+Hard Rock
   1. [lapix feat. Numbndub - BRAND NEW DAY (1rori) \[Future Oni\]](https://osu.ppy.sh/beatmapsets/747420#taiko/1574961)
 - Tiebreaker
   1. **[Camellia - The King of Lions (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/763599#taiko/1605524)**
@@ -219,7 +219,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Hommarji - Vulkan (Raiden) \[Raidcore\]](https://osu.ppy.sh/beatmapsets/547128#taiko/1158901)
   2. [Sakuzyo - Amenohoakari (EdamaMe411) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/622563#taiko/1312425)
-- HardRock
+- Hard Rock
   1. [Aquors - MIRACLE WAVE (Y O U T A) \[Miracle Oni\]](https://osu.ppy.sh/beatmapsets/710675#taiko/1502357)
   2. [CHARAN-PO-RANTAN - Anoko no Jinta (TARO no Jigoku Megu Remix) (yea) \[yea's Inner Oni\]](https://osu.ppy.sh/beatmapsets/825937#taiko/1731107)
 - FreeMod
@@ -231,11 +231,11 @@ This competition has come to an end and resulted in the following podium:
 - Challenge
   1. [Skan & Krale - No Glory (feat. M.I.M.E & Drama B) (Myckoll, Ulqui) \[Myruki's Glory\]](https://osu.ppy.sh/beatmapsets/725635#taiko/1532116)
   2. [Knife Party & Tom Morello - Battle Sirens (RIOT Remix) (Fallmorph) \[Fall's Inner Oni\]](https://osu.ppy.sh/beatmapsets/808903#taiko/1699384)
-- DoubleTime
+- Double Time
   1. [3L, mariapolo - WARNING! (OnosakiHito) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/92435#taiko/313413)
 - Easy
   1. [s-don - Gamegame (iceOC) \[iceOC\]](https://osu.ppy.sh/beatmapsets/757620#taiko/1593794)
-- Hidden+HardRock
+- Hidden+Hard Rock
   1. [Chroma - Goodbye-bye Planet (butter0414) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/694474#taiko/1469255)
 - Tiebreaker
   1. **[IOSYS - Halloween Bakuhatsu Shiro! (Plua-) \[Trick and Trick!\]](https://osu.ppy.sh/beatmapsets/654157#taiko/1386635)**
@@ -254,7 +254,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Lunatic Sounds - Drop Down (uone) \[Oni\]](https://osu.ppy.sh/beatmapsets/768429#taiko/1616057)
   2. [BPM15Q - Hakuchuumu (komasy) \[Daydream\]](https://osu.ppy.sh/beatmapsets/686351#taiko/1452610)
-- HardRock
+- Hard Rock
   1. [t+pazolite - Knotpunk (Nifty) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/716533#taiko/1514128)
   2. [Tomoya Tomita, Misaki Asada - Vs. Snifberg the Unfeeling (Nwolf) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/765068#taiko/1608690)
 - FreeMod
@@ -266,11 +266,11 @@ This competition has come to an end and resulted in the following podium:
 - Challenge
   1. [BVB - My Awesome Flat Chest On The Ground (Nofool) \[Special Oni\]](https://osu.ppy.sh/beatmapsets/706552#taiko/1493980)
   2. [Zutt - HMYN (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/730725#taiko/1542200)
-- DoubleTime
+- Double Time
   1. [USAO - The Commanders (Yales) \[Oni\]](https://osu.ppy.sh/beatmapsets/761565#taiko/1601344)
 - Easy
   1. [Noisestorm - Barracuda (Lno) \[Oni\]](https://osu.ppy.sh/beatmapsets/842877#taiko/1763551)
-- Hidden+HardRock
+- Hidden+Hard Rock
   1. [M2U - PandorA (Kin) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/619715#taiko/1306228)
 - Tiebreaker
   1. **[darkbluecat - Recordar (z411 remix) ft. Hatsune Miku (-Kazu-) \[Dysthymia\]](https://osu.ppy.sh/beatmapsets/611904#taiko/1733313)**
@@ -289,7 +289,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [ENNNN - Nightfall (DarkVortex) \[Oni\]](https://osu.ppy.sh/beatmapsets/655932#taiko/1389903)
   2. [Dirty Androids - City Never Sleeps (Lyawi) \[Oni\]](https://osu.ppy.sh/beatmapsets/588177#taiko/1245287)
-- HardRock
+- Hard Rock
   1. [Hige Driver - Pa Pi Pu Yeah! (Raphalge) \[Oni\]](https://osu.ppy.sh/beatmapsets/701218#taiko/1484196)
   2. [han@\*mori - Seimei no Wa wo Tsumuide (bank78952) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/826249#taiko/1731695)
 - FreeMod
@@ -301,11 +301,11 @@ This competition has come to an end and resulted in the following podium:
 - Challenge
   1. [tofubeats - CANDYLAND feat. LIZ (Pa's Lam System Remix) (Myckoll, Ulqui) \[Myruki's Sweet\]](https://osu.ppy.sh/beatmapsets/724269#taiko/1529288)
   2. [Hommarju - Wowie Zowie! (Poii) \[Inner Wowie!\]](https://osu.ppy.sh/beatmapsets/810738#taiko/1700898)
-- DoubleTime
+- Double Time
   1. [Nightwish - Bye Bye Beautiful (Jerry, cdhsausageboy) \[Jerry & Cdh's Oni\]](https://osu.ppy.sh/beatmapsets/133884#taiko/475965)
 - Easy
   1. [Blue Stahli - Shotgun Senorita (Zardonic Remix) (Nwolf) \[2017\]](https://osu.ppy.sh/beatmapsets/188577#taiko/1358667)
-- Hidden+HardRock
+- Hidden+Hard Rock
   1. [Yoroshiku! Amucharuzu - Sekai no hate ni yoroshiku (komasy) \[Oni\]](https://osu.ppy.sh/beatmapsets/656563#taiko/1390990)
 - Tiebreaker
   1. **[PSYQUI - Hype feat. Such (Nifty) \[Adrenaline\]](https://osu.ppy.sh/beatmapsets/817980#taiko/1715195)**
@@ -457,8 +457,8 @@ Sunday, 2 September 2018:
 - Teams have a 15 minute grace period to have at least 4 players available to play the match. If 15 minutes pass and a team does not have enough players to play the match, the other team will receive a win by default.
 - Once all players have joined the lobby, captains will be asked to `!roll`; the winner of the roll will have the first warmup, first ban, and first pick.
 - The Mappool will contain 16 maps. The format is as follows:
-  - Mappool A will contain the following: 4 NoMod, 2 Hidden, 2 HardRock, 2 FreeMod.
-  - Mappool B will contain the following: 2 Challenge, 1 DoubleTime, 1 Easy Mod, 1 Hidden+HardRock, and the Tiebreaker. These maps are **not bannable**.
+  - Mappool A will contain the following: 4 NoMod, 2 Hidden, 2 Hard Rock, 2 FreeMod.
+  - Mappool B will contain the following: 2 Challenge, 1 Double Time, 1 Easy Mod, 1 Hidden+Hard Rock, and the Tiebreaker. These maps are **not bannable**.
   - Each team is allowed to ban 1 map from Mappool A. Mappool B maps may not be allowed to be banned at **any** time.
 - Warmup maps will be allowed for the entirety of the tournament. Each team may select one warmup pick.
   - Warmups may not exceed 4:30 total length.
@@ -466,8 +466,8 @@ Sunday, 2 September 2018:
 - Each team has 1 bans per match. Banned maps are effectively removed from the mappool for the duration of the match and are not allowed to be picked. A team is allowed to ban 1 maps from the same mod pool.
 - Teams have 3 minutes to select a map; if they fail to choose in the allotted time, the map choice will pass to the other team. This will have no effect on the order of picks afterward.
 - There is no restriction on map selection order; teams may select any available map at any time regardless of mod.
-- On FreeMod picks, at least two players from each team must use Hidden, HardRock, or both.
-- Hidden and HardRock are allowed, but not required, on Tiebreakers.
+- On FreeMod picks, at least two players from each team must use Hidden, Hard Rock, or both.
+- Hidden and Hard Rock are allowed, but not required, on Tiebreakers.
 - Only one of each seed is allowed to play in the lobby at any given time, so the team can only have 1 A seed, 1 B seed, and 1 C seed.
 - Once the map choice is locked in, players will have 3 minutes to ready up. The referee will start the match when all players are ready. If the 3 minute timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
 - The winner of a map is determined by which team ends with a higher score.

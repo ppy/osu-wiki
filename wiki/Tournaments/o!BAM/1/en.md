@@ -146,11 +146,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Endorfin. vs Feryquitous - Sincuvate (Nokris) \[Nokris. vs NeilPerry\]](https://osu.ppy.sh/beatmapsets/739011#osu/1559554)
   2. [Sayuri - Mikazuki (handsome) \[fanzhen's Insane\]](https://osu.ppy.sh/beatmapsets/481703#osu/1430354)
   3. [MYUKKE. - The 89's Momentum (Cubby) \[Cubby & Yusomi Extreme\]](https://osu.ppy.sh/beatmapsets/1235496#osu/2568326)
-- HardRock
+- Hard Rock
   1. [96neko - Primitive emotion (Lasse) \[Remorse\]](https://osu.ppy.sh/beatmapsets/755512#osu/1590239)
   2. [BEMANI Sound Team "Nekomata Master" - The last of world music (Heilia) \[#2: J1's Extra\]](https://osu.ppy.sh/beatmapsets/1060239#osu/2219979)
   3. [Machida Chima - Phony (Yugu) \[Artificial Flowers\]](https://osu.ppy.sh/beatmapsets/1560617#osu/3187413)
-- DoubleTime
+- Double Time
   1. [HoneyWorks feat. Hanon x Kotoha - Sis x Love (Ayucchi) \[I LOVE my sister!\]](https://osu.ppy.sh/beatmapsets/1358634#osu/2828061)
   2. [Rche - Todestrieb (FrenZ396) \[Insane\]](https://osu.ppy.sh/beatmapsets/968678#osu/2028792)
   3. [Bilibili Douga - Night of Feifan Brother (Lan wings) \[Feifan Bro\]](https://osu.ppy.sh/beatmapsets/44443#osu/139221)
@@ -177,11 +177,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Ogura Yui - Clear Morning (Rtyzen) \[Extra\]](https://osu.ppy.sh/beatmapsets/1593625#osu/3255137)
   2. [beignet - Sign (Rumia-) \[Human\]](https://osu.ppy.sh/beatmapsets/909778#osu/1898560)
   3. [rei sirose - asphyxia (Yugu) \[Cacophony\]](https://osu.ppy.sh/beatmapsets/919201#osu/1919332)
-- HardRock
+- Hard Rock
   1. [Yorushika - Semi-transparent boy (Sing) \[Kalibe x Sing\]](https://osu.ppy.sh/beatmapsets/983833#osu/2058585)
   2. [Sakakibara Yui - Ryuusa no Orpheus (Fushimi Rio) \[Extra\]](https://osu.ppy.sh/beatmapsets/910260#osu/1899537)
   3. [Amemori Sayo x Kudou Chitose - White Lily (Yugu) \[lu^3's Extra\]](https://osu.ppy.sh/beatmapsets/1034381#osu/2196213)
-- DoubleTime
+- Double Time
   1. [Yorushika - Spring Thief (Moecho) \[Scent of Spring, Taste of Wind, Scattering of Cherry Blossoms\]](https://osu.ppy.sh/beatmapsets/1348249#osu/2791894)
   2. [fiend - FEVER DREAM (feat. yzzyx) (Niva) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1405913#osu/2916771)
   3. [BlackY - Sthenno (Rtyzen) \[HYPER\]](https://osu.ppy.sh/beatmapsets/991780#osu/2157174)
@@ -207,11 +207,11 @@ This competition has come to an end and resulted in the following podium:
   1. [rei sirose - Totemo Suteki na Rokugatsu deshita (SMOKELIND) \[EX\]](https://osu.ppy.sh/beatmapsets/1404349#osu/2896396)
   2. [Maison book girl - faithlessness (newton-) \[shizuforce's insane\]](https://osu.ppy.sh/beatmapsets/1063163#osu/2226170)
   3. [Aitsuki Nakuru & Kabocha - Lilith (Celine) \[AncuL's Extra\]](https://osu.ppy.sh/beatmapsets/1261931#osu/2956199)
-- HardRock
+- Hard Rock
   1. [Imy feat. Aitsuki Nakuru - Zanshou no Resonance (Narcissu) \[Silky & Satellite's Extra\]](https://osu.ppy.sh/beatmapsets/1147203#osu/2395518)
   2. [Guilty Kiss - Guilty Night, Guilty Kiss! (Vell) \[Mamma Mia!\]](https://osu.ppy.sh/beatmapsets/934576#osu/1951134)
   3. [IAHN - Happy Birthday (Agagak) \[Chino Fan Club\]](https://osu.ppy.sh/beatmapsets/1503424#osu/3080101)
-- DoubleTime
+- Double Time
   1. [School Food Punishment - in bloom (Scyhei) \[In\]](https://osu.ppy.sh/beatmapsets/1248994#osu/2595897)
   2. [capsule - Teleportation (_xyliac) \[Dubturt's Another\]](https://osu.ppy.sh/beatmapsets/1048608#osu/2579562)
   3. [Plutian - Until the Blue Moon Rises (ktgster) \[Special\]](https://osu.ppy.sh/beatmapsets/995205#osu/2081848)
@@ -236,11 +236,11 @@ This competition has come to an end and resulted in the following podium:
   1. [EGOIST - Zettai Zetsumei (jonathanlfj) \[Desperation\]](https://osu.ppy.sh/beatmapsets/1497009#osu/3068607)
   2. [DJ Sharpnel - IVALTEK (happy30) \[HappyMiX\]](https://osu.ppy.sh/beatmapsets/50429#osu/154988)
   3. [Toyama Nao - Tomoshibi no Manimani (Cubby) \[Hibana Fubuki\]](https://osu.ppy.sh/beatmapsets/1205375#osu/2510085) 
-- HardRock
+- Hard Rock
   1. [Isekai Joucho - Tomedonaki Hakujou (Rtyzen) \[White\]](https://osu.ppy.sh/beatmapsets/1318186#osu/2730921)
   2. [Rice Shower (CV: Iwami Manaka) - Umapyoi Densetsu (Game Ver.) (Yugu) \[GI\]](https://osu.ppy.sh/beatmapsets/1456530#osu/2993634)
   3. [dj TAKA meets DJ YOSHITAKA - Elemental Creation (MiLu) \[('^')\]](https://osu.ppy.sh/beatmapsets/97539#osu/260732)
-- DoubleTime
+- Double Time
   1. [Rocket Girls 101 - Calorie (kanor) \[Forward this Yang Chao Yue\]](https://osu.ppy.sh/beatmapsets/834342#osu/1747832)
   2. [Suzuki Konomi - CHOIR JAIL (handsome) \[MIRA'S INSANE\]](https://osu.ppy.sh/beatmapsets/374719#osu/848397)
   3. [KARUT - Water Drop (rollpan) \[Insane\]](https://osu.ppy.sh/beatmapsets/1581947#osu/3230558)
@@ -264,10 +264,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [lasah - EXCERPTS FROM THE DIARIES OF _ (Reincarnation) \[None\]](https://osu.ppy.sh/beatmapsets/868684#osu/1815675)
   2. [Gesu no Kiwami Otome. - Romance ga Ariamaru (emilia) \[new try\]]()
-- HardRock
+- Hard Rock
   1. [Sagara Kokoro - Hoshizora no Ima (Reillia) \[Kaliren's Extra\]](https://osu.ppy.sh/beatmapsets/880854#osu/1955078)
   2. [SLAM & NATO - PARADOXX (zzx) \[Another\]](https://osu.ppy.sh/beatmapsets/1116086#osu/2331568)
-- DoubleTime
+- Double Time
   1. [Huang Ling - Deng Dai (Bellicose) \[AIR's Insane\]](https://osu.ppy.sh/beatmapsets/1094296#osu/2294800)
   2. [IOSYS - Chizome no Love Letter (Hellzero) \[Collab\]](https://osu.ppy.sh/beatmapsets/35878#osu/116095)
   3. [Akiyama Uni - Yuuga ni Sakase, Sumizome no Sakura ~ Border of Life (impossiblexu) \[Extra\]](https://osu.ppy.sh/beatmapsets/32380#osu/105965)
@@ -290,10 +290,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Usada Pekora - Discommunication Alien (Nana Abe) \[peko.\]](https://osu.ppy.sh/beatmapsets/1153393#osu/2407324)
   2. [USAO - Knight Rider (Chizu-Kun) \[Insane\]](https://osu.ppy.sh/beatmapsets/1411301#osu/2910033)
-- HardRock
+- Hard Rock
   1. [sasakure.UK - Sennen to Rasen, Chiru Mono o feat. Sui (Kalibe) \[coco x Tomadoi x Haruto's Insane\]](https://osu.ppy.sh/beatmapsets/926846#osu/1939988)
   2. [Nekomata Master feat. Mayumi Morinaga - Sleepless Days (den0saur) \[LASS' EXHAUST\]](https://osu.ppy.sh/beatmapsets/842312#osu/1767000)
-- DoubleTime
+- Double Time
   1. [petit milady - Koi wa Milk Tea (Okoratu) \[Amai\]](https://osu.ppy.sh/beatmapsets/364652#osu/800385)
   2. [Tsunamaru - Gin no Fluch (HelloSCV) \[Insane\]](https://osu.ppy.sh/beatmapsets/85721#osu/235309)
   3. [Isekai Joucho - Tori no Uta (Rtyzen) \[Sora\]](https://osu.ppy.sh/beatmapsets/1428974#osu/2941887)
@@ -315,10 +315,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Yorushika - Yuunagi, Bou, Hana Madoi (Deca) \[coco's Extra\]](https://osu.ppy.sh/beatmapsets/1029377#osu/2156980)
   2. [Aki - star river (ShirohaMyMommy) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/908990#osu/1896891)
-- HardRock
+- Hard Rock
   1. [Sangatsu no Phantasia - Pink Lemonade (Chirony) \[Expert\]](https://osu.ppy.sh/beatmapsets/941246#osu/1965652)
   2. [slythe - cyber imagination (Mismagius) \[Present™\]](https://osu.ppy.sh/beatmapsets/790282#osu/2138306)
-- DoubleTime
+- Double Time
   1. [Hua Ling / Miao\*Jiang / Yan Ning / kinsen - Let the Wind Tell You (Moecho) \[About the Sunsets, the Moonlights, and the Starry Skies\]](https://osu.ppy.sh/beatmapsets/1378997#osu/2849349)
   2. [Kiryu - Meltdown (fartownik) \[Nuclear\]](https://osu.ppy.sh/beatmapsets/666564#osu/1410772)
 
@@ -530,7 +530,7 @@ Wednesday, 15 September 2021:
 1. osu! Battle Archive Malaysia uses a double-elimination bracket and is a 2v2 osu! tournament.
 2. Only players with the country flag of ![][flag_MY] Malaysia may participate.
 3. Teams can only have 2 players. This means no substitution.
-4. The score system used will be **Score V2**.
+4. The score system used will be **ScoreV2**.
 5. There is no solo rank range. A team rank range using the Badge Weighting System (BWS) is used instead with the following formula: `rank^(0.9937^(badges^2))`.
 6. The 2 players must have an **average BWS rank of #2,000 - #99,999**.
 7. Teams will be seeded by **Qualifier seeding**.

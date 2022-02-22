@@ -90,11 +90,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Nekomata Gekidan - AsiaN distractive (Regou) [Orientalism]](https://osu.ppy.sh/beatmapsets/657122#osu/1392007)
   2. [IOSYS - Border of Extacy (Shinxyn) [HappyLesjuh]](https://osu.ppy.sh/beatmapsets/7932#osu/35203)
   3. [Yousei Teikoku - Mischievous of Alice (Delis) [Extreme]](https://osu.ppy.sh/beatmapsets/623960#osu/1315116)
-- HardRock
+- Hard Rock
   1. [Harada Hitomi - Kyoumei no True Force (Kibbleru) [Ex]](https://osu.ppy.sh/beatmapsets/454893#osu/975153)
   2. [XeoN - Xeus (My Angel Azusa) [X]](https://osu.ppy.sh/beatmapsets/529212#osu/1122238)
   3. [Shounen Radio - neu (Philippines) [Platinum]](https://osu.ppy.sh/beatmapsets/58422#osu/179070)
-- DoubleTime
+- Double Time
   1. [Harry - Earth Day (Moway) [Earth Day]](https://osu.ppy.sh/beatmapsets/65228#osu/195502)
   2. [Nanahira - Viva Happy (Frey) [Chaoz's Another]](https://osu.ppy.sh/beatmapsets/672621#osu/1508163)
   3. [Sana - Terekakushi Shishunki (litoluna) [Insane]](https://osu.ppy.sh/beatmapsets/202677#osu/479354)
@@ -118,11 +118,11 @@ This competition has come to an end and resulted in the following podium:
   1. [IA - Six Trillion Years and Overnight Story (NatsumeRin) [0108]](https://osu.ppy.sh/beatmapsets/51245#osu/157861)
   2. [t+pazolite - Kanon-Kanon (Shiirn) [Ultimate Spark]](https://osu.ppy.sh/beatmapsets/28746#osu/95716)
   3. [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) [Entsetzen]](https://osu.ppy.sh/beatmapsets/581787#osu/1543159)
-- HardRock
+- Hard Rock
   1. [Icon For Hire - Cynics & Critics (Priti) [Extreme]](https://osu.ppy.sh/beatmapsets/296017#osu/664851)
   2. [Nekomata Master - Byakuya Gentou (ignorethis) [EX]](https://osu.ppy.sh/beatmapsets/36849#osu/119375)
   3. [Qrispy Joybox - snow prism (ktgster) [Extreme]](https://osu.ppy.sh/beatmapsets/132389#osu/332962)
-- DoubleTime
+- Double Time
   1. [AKINO with bless4 - Jet Coaster Ride (Kawaiwkyik) [Insane]](https://osu.ppy.sh/beatmapsets/280695#osu/635069)
   2. [Hatsune Miku - Oshiete!! Mahou no Lyric (banvi) [Insane]](https://osu.ppy.sh/beatmapsets/40669#osu/128931)
   3. [REOL - YoiYoi Kokon (DreaM117er) [Insane]](https://osu.ppy.sh/beatmapsets/545737#osu/1231294)
@@ -146,11 +146,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Getty vs. DJ DiA - Grayed Out -Antifront- (Realazy) [Linada's Expert]](https://osu.ppy.sh/beatmapsets/578755#osu/1329304)
   2. [nomico / DOWNFORCE - BRAVE OUT (yf\_bmp) [NeilPerry's Another]](https://osu.ppy.sh/beatmapsets/332201#osu/1544934)
   3. [Renard - Intensive Care Unit (feat. FIAB) (giO-) [CNF's Caregiver]](https://osu.ppy.sh/beatmapsets/29773#osu/98624)
-- HardRock
+- Hard Rock
   1. [HitoshizukuP x Yama - Crazy nighT (Sephibro) [Crazy]](https://osu.ppy.sh/beatmapsets/109401#osu/285549)
   2. [Seiryu - Critical Crystal (Priti) [wa's Extra]](https://osu.ppy.sh/beatmapsets/199535#osu/475805)
   3. [Okui Masami - God Speed (ykcarrot) [Insane]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)
-- DoubleTime
+- Double Time
   1. [Halozy - Secret Sister Complex (S i R i R u) [Flandre Scarlet]](https://osu.ppy.sh/beatmapsets/25463#osu/86269)
   2. [Touyama Nao - Magical Mah-jongg World (Fycho) [Insane]](https://osu.ppy.sh/beatmapsets/74687#osu/259519)
   3. [Kiryu - Disguise (Seikatu) [Insane]](https://osu.ppy.sh/beatmapsets/225957#osu/642573)
@@ -174,11 +174,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Sharlo - Yellow (Zero\_\_wind) [Egao]](https://osu.ppy.sh/beatmapsets/519335#osu/1103330)
   2. [Acme Iku - chaosmaid (demo) (qilliam) [Lesjuh '09]](https://osu.ppy.sh/beatmapsets/38720#osu/124508)
   3. [Junk - Yellow Smile(bms edit) (rui) [Extra]](https://osu.ppy.sh/beatmapsets/226133#osu/537989)
-- HardRock
+- Hard Rock
   1. [DJ Totoriott - Chronoxia (nya10) [Insane]](https://osu.ppy.sh/beatmapsets/497028#osu/1058055)
   2. [Mikami Shiori - Watashi, Shuyaku no Akaza Akari desu (Happy Euri Mix) (Mythol) [Insane]](https://osu.ppy.sh/beatmapsets/97925#osu/267275)
   3. [cosMo@BousouP - Oceanus (Broccoly) [Fortune's Insane]](https://osu.ppy.sh/beatmapsets/267767#osu/618865)
-- DoubleTime
+- Double Time
   1. [Alvaro Soler - Sofia (Speed Up Ver.) (DTM9 Nowa) [Sin Tu Mirada Sigo]](https://osu.ppy.sh/beatmapsets/508657#osu/1227263)
   2. [Kawada Mami - Sense (Andrea) [Hard]](https://osu.ppy.sh/beatmapsets/81124#osu/225363)
   3. [Orianthi - According To You (saymun) [Insane]](https://osu.ppy.sh/beatmapsets/11680#osu/44644)
@@ -200,10 +200,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Maduk ft. Veela - Ghost Assassin (Hourglass Bonusmix) (alacat) [Lumiere]](https://osu.ppy.sh/beatmapsets/198820#osu/471598)
   2. [Zeami - Black Rose Apostle (lepidopodus) [Insane]](https://osu.ppy.sh/beatmapsets/23838#osu/81342)
-- HardRock
+- Hard Rock
   1. [Neru - Idola no Circus (Amamiya Yuko) [Skystar]](https://osu.ppy.sh/beatmapsets/92976#osu/251096)
   2. [REDALiCE ft. Ayumi Nomiya - Foughten Field (t+pazolite Remix) (Foreverends) [Endsane]](https://osu.ppy.sh/beatmapsets/50777#osu/222646)
-- DoubleTime
+- Double Time
   1. [Paul K. Joyce - Can We Fix It? (Bass-chan) [Hard]](https://osu.ppy.sh/beatmapsets/21662#osu/75095)
   2. [501st Joint Fighter Wing - Over Sky (yongtw123) [Sky]](https://osu.ppy.sh/beatmapsets/21380#osu/80069)
 - FreeMod
@@ -223,10 +223,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Niko - Night of Fire (Gabi) [Insane]](https://osu.ppy.sh/beatmapsets/18923#osu/66820)
   2. [P\*Light - TRIGGER\*HAPPY (Asphyxia) [Extra]](https://osu.ppy.sh/beatmapsets/134656#osu/353834)
-- HardRock
+- Hard Rock
   1. [Nare - SPiCa (timemon) [Insane]](https://osu.ppy.sh/beatmapsets/664636#osu/1406645)
   2. [mafumafu & amatsuki - Kasyokusei:Idol Syoukougun (HelloSCV) [Insane]](https://osu.ppy.sh/beatmapsets/76366#osu/215181)
-- DoubleTime
+- Double Time
   1. [IOSYS - Tanoshii Yoru no Ochakai - Ringo's Tea Party (Frey) [Stella's Hard]](https://osu.ppy.sh/beatmapsets/374858#osu/821166)
   2. [FUJIN CLUB - Tabi to Ferry (dsco) ["Collab" Insane]](https://osu.ppy.sh/beatmapsets/704541#osu/1536555)
 - FreeMod
@@ -504,7 +504,7 @@ Thursday, 5 April 2018:
 - The Round of 16 and Quarterfinals will be BO9 (first to 5).
 - The Semifinals and Finals will be BO11 (first to 6).
 - The Grand Finals will be BO13 (first to 7).
-- Score V2 will be used.
+- ScoreV2 will be used.
 - For FreeMod picks, players must select a choice of HD, HR, EZ, FL or a combination of these mods.
   - Players can choose to play FreeMod picks with DT if both players agree.
 

@@ -216,7 +216,7 @@ Check the results in this [statistics sheet](https://docs.google.com/spreadsheet
 
 ### General rules
 
-- *osu!mania Asian's Champions 2020* is an **1v1 osu!mania 4-key** tournament using **Score V2**.
+- *osu!mania Asian's Champions 2020* is an **1v1 osu!mania 4-key** tournament using **ScoreV2**.
 - Stage instructions:
   - Post-qualifiers is BO7.
   - Round of 16 is BO9.

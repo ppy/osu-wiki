@@ -172,11 +172,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion (pishifat) \[Extra\]](https://osu.ppy.sh/beatmapsets/684060#osu/1447689)
   2. [KOAN Sound & Asa - fuego (sakuraburst remix) (byfar) \[byfar\]](https://osu.ppy.sh/beatmapsets/725607#osu/1532051)
   3. [Nekomata Master+ - encounter (Priti) \[Priti's Ultra\]](https://osu.ppy.sh/beatmapsets/352575#osu/1007185)
-- HardRock
+- Hard Rock
   1. [Hatsuki Yura - Yuki no Hana (GoldenWolf -METAL MIX-) (Xenok) \[Snow\]](https://osu.ppy.sh/beatmapsets/720424#osu/1521024)
   2. [MY FIRST STORY - Itazura Fiction (pishifat) \[pishi's Insane\]](https://osu.ppy.sh/beatmapsets/477343#osu/1025587)
   3. Camellia - Chirality (Miura) \[Miura's Expert\]
-- DoubleTime
+- Double Time
   1. [FELT - Flower Flag (MZC Echoes the Spring Liquid Mix) (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/55945#osu/169450)
   2. [cYsmix - Dovregubben's Hall (Spaghetti) \[Insane\]](https://osu.ppy.sh/beatmapsets/362451#osu/822869)
   3. [U - Ha-tenya? (biwako) \[Insane\]](https://osu.ppy.sh/beatmapsets/37313#osu/120080)
@@ -200,11 +200,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Blue Stahli - Shotgun Senorita (Zardonic Remix) (P A N) \[P A N's HD Challenge\]](https://osu.ppy.sh/beatmapsets/130898#osu/347808)
   2. [Mikagura Seisa (CV: Onishi Saori) - Esoragoto Spiral (Kyuukai) \[Sweetness\]](https://osu.ppy.sh/beatmapsets/718855#osu/1586963)
   3. [Reol - Netoge Haijin Sprechchor (Rethor) \[Rethor's Ultra\]](https://osu.ppy.sh/beatmapsets/413183#osu/921840)
-- HardRock
+- Hard Rock
   1. [Yomi - Remixed D's Adventure Note (toybot) \[Expert\]](https://osu.ppy.sh/beatmapsets/486454#osu/1037313)
   2. [Lucky Vacuum - Daily Lunch Special (CSY the corrupt) \[Extra\]](https://osu.ppy.sh/beatmapsets/67905#osu/231790)
   3. [YUC'e - Future Candy (Sing) \[Cocaine\]](https://osu.ppy.sh/beatmapsets/584985#osu/1238016)
-- DoubleTime
+- Double Time
   1. [Traktion - Metropolis (Original Mix) (Damnae) \[Damnae's Insane\]](https://osu.ppy.sh/beatmapsets/359549#osu/812689)
   2. [Remixed by DJ Command - Mermaid girl -Akiba Koubou MIX- (Priti) \[Another\]](https://i.patyye.me/mmgirl.osz)
   3. [Susumu Hirasawa - Switched-On Lotus (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10977#osu/43827)
@@ -228,11 +228,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Nekomata Master - Byakuya Gentou (v2b) \[EX\]](https://osu.ppy.sh/beatmapsets/36849#osu/119375)
   2. [Shimotsuki Haruka - Byakuya Gensoutan (yf\_bmp) \[yf's Expert\]](https://osu.ppy.sh/beatmapsets/667097#osu/1415403)
   3. [adaptor - LAISSEZ FAIRE (Atsuro) \[Luna's Extra\]](https://osu.ppy.sh/beatmapsets/674151#osu/1426549)
-- HardRock
+- Hard Rock
   1. [Camellia - Proluvies (Bonzi) \[Bonzi's Extra\]](https://osu.ppy.sh/beatmapsets/283815#osu/662294)
   2. [S-C-U feat. Qrispy Joybox - anemone (ktgster) \[ktgster's Extreme\]](https://osu.ppy.sh/beatmapsets/295753#osu/665543)
   3. [Camellia - Routing (Lasse) \[Lasse's Extra\]](https://osu.ppy.sh/beatmapsets/663255#osu/1405185)
-- DoubleTime
+- Double Time
   1. [Gavin G - Desire (Asphyxia, Irreversible) \[Irrphyxia's Insane\]](https://osu.ppy.sh/beatmapsets/242549#osu/630919)
   2. [Makou - Fermion (MoonFragrance) \[Maximum\]](https://osu.ppy.sh/beatmapsets/20723#osu/72284)
   3. [Dj Verstarker - Jump Jump (2008) (SeymourLyon) \[Jump like CRAZY!!!\]](https://osu.ppy.sh/beatmapsets/6004#osu/28152)
@@ -255,10 +255,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [MOSAIC.WAV - Chousai Kenbo Sengen (Mafiamaster) \[Kyouko-sama\]](https://osu.ppy.sh/beatmapsets/19258#osu/67824)
   2. [Expander - Move That Body (Various Mappers) \[HantakufanzeR\]](https://osu.ppy.sh/beatmapsets/313922#osu/700679)
-- HardRock
+- Hard Rock
   1. [MiddleIsland - Piano Concerto No.1 "Scream" (GoldenWolf) \[woof's Extra\]](https://osu.ppy.sh/beatmapsets/110126#osu/376703)
   2. [Akiyama Uni - Kokorokirou Hayashi(Short Version) (dream117er) \[117's Lunatic\]](https://osu.ppy.sh/beatmapsets/442549#osu/1059901)
-- DoubleTime
+- Double Time
   1. [DJ Fresh (feat. Rita Ora) - Hot Right Now (Radio Edit) (Kyshiro, Asphyxia) \[Kysphyxia's Insane\]](https://osu.ppy.sh/beatmapsets/231114#osu/539090)
   2. [fhana - RHAPSODY OF BLUE SKY (Dynamix) \[Dynamix's Insane\]](https://osu.ppy.sh/beatmapsets/586841#osu/1242820)
 - FreeMod
@@ -279,10 +279,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [ARForest - altros (Mir) \[Mir's Extra\]](https://osu.ppy.sh/beatmapsets/625822#osu/1323428)
   2. [sakuzyo - Imprinting (EvilElvis) \[Extreme\]](https://osu.ppy.sh/beatmapsets/370843#osu/812665)
-- HardRock
+- Hard Rock
   1. [Nooki & Tatsh - Red Zone (HenkieBP) \[Extra\]](https://osu.ppy.sh/beatmapsets/5731#osu/28422)
   2. [Qrispy Joybox feat.mao - umeyukiyo (LKs) \[Insane\]](https://osu.ppy.sh/beatmapsets/100040#osu/265643)
-- DoubleTime
+- Double Time
   1. [Feint - 161914 (fergas) \[fergas' Insane\]](https://osu.ppy.sh/beatmapsets/224157#osu/689420)
   2. [Kakumi Nishigomi - Kurofune Raikou (NatsumeRin) \[Oni\]](https://osu.ppy.sh/beatmapsets/27931#osu/93468)
 - FreeMod
@@ -303,10 +303,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Umi no Soko kara Mermaid Prim by ARM x Komso - Gyogyotto Ningyo Bakkon Bridal (fanzhen0019) \[Another\]](https://osu.ppy.sh/beatmapsets/651723#osu/1382059)
   2. [Culprate - Diablo (VIP) (Yoges) \[Expert\]](https://osu.ppy.sh/beatmapsets/553119#osu/1280280)
-- HardRock
+- Hard Rock
   1. [Rise Against - Bricks (pkhg) \[pkhg's Insane\]](https://osu.ppy.sh/beatmapsets/273633#osu/904914)
   2. [Qrispy Joybox feat.Chata - Yuuki no Pendant (MrSergio) \[Insane\]](https://osu.ppy.sh/beatmapsets/638390#osu/1386196)
-- DoubleTime
+- Double Time
   1. [DJ Genericname - Dear You (Amamiya Yuko) \[Dear Yuko\]](https://osu.ppy.sh/beatmapsets/74586#osu/214264)
   2. [TOMOSUKE - Macuilxochitl (Charles445) \[Another\]](https://osu.ppy.sh/beatmapsets/43166#osu/136664)
 - FreeMod
@@ -614,7 +614,7 @@ Sunday, 25 February 2018:
    - There will be no warmups in group stage. Warmups in later stages are strictly limited to 2 minutes maximum drain time.
 5. 1 ban per team up to RO16, 2 bans from Quarterfinals onwards.
 6. Teams may substitute players in and out of the lobby without limit.
-7. Mods allowed in FM: Hidden, Hardrock, Flashlight and Easy
+7. Mods allowed in FM: Hidden, Hard Rock, Flashlight and Easy
    - At least 2 players in a team must activate at least one mod.
    - Players may combine mods (eg. HDHR).
 8. If a player ends the map failed, their score will not be counted. However, if the player is alive at the end of the map, then their score will be counted regardless of whether they failed during the map or not.

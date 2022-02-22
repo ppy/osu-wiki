@@ -285,7 +285,7 @@ CJB & TMT Team has the ultimate power of interpretation.
   - If disconnect happened **30 seconds before map ends**
     - If the player finishes the map, they should upload the score screenshot through `Shift`+`F12` and give the link to referee.
 - Match (not apply to Qualifiers)
-  - Room settings will be **Team VS, Score V2**.
+  - Room settings will be **Team VS, ScoreV2**.
   1. Warm-up
      - Referee will give host to a random player, they can select any downloadable **osu!mania 4K** map. If the map is longer than 4 minutes, the player should have an agreement with their opponent and inform the referee. Referee then exchanges host to the opposing side to play the second warm-up map.
   2. Roll & Ban
@@ -307,7 +307,7 @@ CJB & TMT Team has the ultimate power of interpretation.
 ### Qualifiers
 
 - The Team will release a schedule of Qualifiers, players can select which time to play from it. However, Max player of each time is 6. First come, first served.
-- Room settings will be **Head To Head, Score V2**.
+- Room settings will be **Head To Head, ScoreV2**.
 - Referee will select map as the order of pool and each map will be played twice. The highest score will be recorded. Only **1 minute** between each play.
 
 ### Group stage

@@ -114,11 +114,11 @@ The osu! Technical Championship #3 was run by various osu! community members.
   1. [Camellia - overcomplexification ("Quaternion" Long ver.) (Sing) \[J1 x Sing\]](https://osu.ppy.sh/beatmapsets/753123#osu/1747583)
   2. [Luschka - unravel (Mirash, Jounzan) \[Collab Expert\]](https://osu.ppy.sh/beatmapsets/731933#osu/1544460)
   3. [M2U - The back of Beyond (yaspo) \[Spring\]](https://osu.ppy.sh/beatmapsets/764683#osu/1809913)
-- HardRock
+- Hard Rock
   1. [Camellia - The King Of Lions (Regou) \[Extra\]](https://osu.ppy.sh/beatmapsets/885923#osu/1852786)
   2. [factal - Wake Up While Sleeping (Nokris) \[Decubitus Paralitis\]](https://osu.ppy.sh/beatmapsets/749323#osu/1578351)
   3. [xi feat. Sta - Tiferet (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/714225#osu/1509637)
-- DoubleTime
+- Double Time
   1. [Seeed - Ding (Deramok) \[Deramok's Hidden Extra\]](https://osu.ppy.sh/beatmapsets/727333#osu/1570419)
   2. [Culprate, Keota & Sophie Meiers - Mechanic Heartbeat (pishifat) \[Extra\]](https://osu.ppy.sh/beatmapsets/876227#osu/1831280)
   3. [tofubeats - CANDYYYLAND feat LIZ - Pa's Lam System Remix (Plaudible, Hobbes2) \[Plaubbes' Light Insane\]](https://osu.ppy.sh/beatmapsets/663519#osu/1435453)
@@ -139,11 +139,11 @@ The osu! Technical Championship #3 was run by various osu! community members.
   1. [Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.) (Mir) \[Beisu Doroppu\]](https://osu.ppy.sh/beatmapsets/806859#osu/1693575)
   2. [Nekomata Master+ - Proof of the existence (IceKalt) \[New World\]](https://osu.ppy.sh/beatmapsets/807310#osu/1694395)
   3. [Aoki Chihiro - Kodou (Hollow Wings) \[HW's Another\]](https://osu.ppy.sh/beatmapsets/687511#osu/1579923)
-- HardRock
+- Hard Rock
   1. [lapix feat. Renko - Concept Of Reality (Ameth Rianno) \[Ameth's Extra\]](https://osu.ppy.sh/beatmapsets/559140#osu/1208032)
   2. [DJ Noriken - Turn It Up feat. Kanae Asaba (Akali) \[Friendship is Magic Collab ft Cassu\]](https://osu.ppy.sh/beatmapsets/611867#osu/1291481)
   3. [sakuzyo - Senkyou Ranbu (ktgster) \[EX\]](https://osu.ppy.sh/beatmapsets/460516#osu/986233)
-- DoubleTime
+- Double Time
   1. [Koronba - Iwashi ga Tsuchi kara Haete Kurunda (Damnjelly) \[Sardine\]](https://osu.ppy.sh/beatmapsets/602367#osu/1580728)
   2. [rerulili - Noushou Sakuretsu Girl (dksslqj) \[dksslqj Style\]](https://osu.ppy.sh/beatmapsets/63434#osu/208935)
   3. [Skrillex - Imma Try It Out (feat. Alvin Risk) (Foreverends) \[Endstep\]](https://bloodcat.com/osu/s/76662)
@@ -164,11 +164,11 @@ The osu! Technical Championship #3 was run by various osu! community members.
   1. [Culprate & Joe Ford - Gaucho (ScubDomino) \[Extra\]](https://osu.ppy.sh/beatmapsets/847776#osu/1772923)
   2. [ak+q - Excelsia (PoNo) \[Pono's F.ascination\]](https://osu.ppy.sh/beatmapsets/693892#osu/1472946)
   3. [succducc - me & u (YokesPai) \[deceiving extra\]](https://osu.ppy.sh/beatmapsets/851466#osu/1779909)
-- HardRock
+- Hard Rock
   1. [Function Phantom - Variable (Chaoslitz) \[Deluxe\]](https://osu.ppy.sh/beatmapsets/751774#osu/1582594)
   2. [LeaF - Evanescent (Rohit6) \[Rohit's Extra\]](https://osu.ppy.sh/beatmapsets/440997#osu/958282)
   3. [Nekomata Gekidan - AsiaN distractive (StarrStyx) \[StarR's Expert\]](https://osu.ppy.sh/beatmapsets/657122#osu/1411709)
-- DoubleTime
+- Double Time
   1. [Nanahira - Viva Happy (Chaoslitz) \[Chaoz's Another\]](https://osu.ppy.sh/beatmapsets/672621#osu/1508163)
   2. [SAMString - Sakura's Fall (DeviousPanda) \[DeviousPanda's Insane\]](https://osu.ppy.sh/beatmapsets/912860#osu/1906956)
   3. [KYARY PAMYU PAMYU - Kimi no Mikata (VINXIS) \[Ally\]](https://osu.ppy.sh/beatmapsets/808849#osu/1697323)
@@ -189,11 +189,11 @@ The osu! Technical Championship #3 was run by various osu! community members.
   1. [YUC'e - Future Cider (Sing) \[Duplication\]](https://osu.ppy.sh/beatmapsets/591674#osu/1252022)
   2. [MitiS & MaHi - Blu (Speed Up Ver.) (nold\_1702) \[Nold's Posthumous\]](https://osu.ppy.sh/beatmapsets/261911#osu/736300)
   3. [Wakeshima Kanon - Shoujo Shikake no Libretto \~Storytelling by solita\~ (Deramok) \[Dreaming of The Imminent\]](https://osu.ppy.sh/beatmapsets/636105#osu/1349819)
-- HardRock
+- Hard Rock
   1. [aran - VOLT (USAO Remix) (Plaudible) \[Plaudible's Extra\]](https://osu.ppy.sh/beatmapsets/732280#osu/1631406)
   2. [Nekomata Master - Byakuya Gentou (ignorethis) \[EX\]](https://osu.ppy.sh/beatmapsets/36849#osu/119375)
   3. [M2U - Dual Fractal (Bor) \[bor's Another\]](https://osu.ppy.sh/beatmapsets/865577#osu/1826401)
-- DoubleTime
+- Double Time
   1. [LeaF - I (Maddy) \[Hyper\]](https://osu.ppy.sh/beatmapsets/99244#osu/264894)
   2. [Ocelot - KAEDE (Kawashiro) \[Kawa's Extra\]](https://osu.ppy.sh/beatmapsets/660630#osu/1418838)
   3. [EYE\_XY feat. Yoneko - Knight of Firmament (LMT) \[LMT's Insane\]](https://osu.ppy.sh/beatmapsets/317749#osu/1622359)
@@ -214,11 +214,11 @@ The osu! Technical Championship #3 was run by various osu! community members.
   1. [Camellia - Chirality (yf\_bmp) \[yf's Another\]](https://osu.ppy.sh/beatmapsets/692068#osu/1498891)
   2. [kurokumo x konoco - Ifuudoudou (Linada) \[Linada's Indecency\]](https://osu.ppy.sh/beatmapsets/656179#osu/1390352)
   3. [mafumafu - \[Nexus\] (William K) \[Extra: Sliders\]](https://osu.ppy.sh/beatmapsets/707703#osu/1633968)
-- HardRock
+- Hard Rock
   1. [Function Phantom - Euclid (Tehron) \[Tehron's Extra\]](https://osu.ppy.sh/beatmapsets/427750#osu/980736)
   2. [Culprate - Diablo (VIP) (Yoges) \[Expert\]](https://osu.ppy.sh/beatmapsets/553119#osu/1280280)
   3. [Sound Souler - Paradise (Mir) \[Mir's Insane\]](https://osu.ppy.sh/beatmapsets/686777#osu/1519885)
-- DoubleTime
+- Double Time
   1. [ChouchouP - Tsukimiyo Rabbit (Zero\_\_wind) \[Hard\]](https://osu.ppy.sh/beatmapsets/122342#osu/322013)
   2. [PinocchioP - Kusaregedou to Chocolate (Kenterz9, sumaru100) \[Hard Chocollab\]](https://osu.ppy.sh/beatmapsets/79454#osu/293536)
   3. [DJ Noriken - Stargazer feat. YUC'e (PSYQUI Remix) (lewski) \[lewdski's Hyper\]](https://osu.ppy.sh/beatmapsets/853867#osu/1784486)
@@ -237,10 +237,10 @@ The osu! Technical Championship #3 was run by various osu! community members.
 - Hidden
   1. [ak+q - Ignotus (Ryuusei Aika) \[FUTURE+\]](https://osu.ppy.sh/beatmapsets/761244#osu/1600778)
   2. [Akiyama Uni - Kaoru Juyouka (Hollow Wings) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/397764#osu/1552101)
-- HardRock
+- Hard Rock
   1. [Culprate & Dictate - Pencilina (yaspo) \[yaspo's Insane\]](https://osu.ppy.sh/beatmapsets/722634#osu/1623299)
   2. [yak\_won - Sinus \~Secret Heart\~ (ktgster) \[Extra\]](https://osu.ppy.sh/beatmapsets/736694#osu/1569283)
-- DoubleTime
+- Double Time
   1. [Reol & nqrse - Ooedo Ranvu (Milan-, pishifat) \[Yumifat's Insane\]](https://osu.ppy.sh/beatmapsets/357544#osu/850729)
   2. [PUP - DVP (Hobbes2) \[Hard\]](https://osu.ppy.sh/beatmapsets/756815#osu/1640693)
 - Tiebreaker
@@ -528,7 +528,7 @@ Sunday, 20 January 2019:
    - Players are not required to ban a map and may ban zero maps if they wish.
 3. The highest rolling player will choose the first map to be played. Once the first map is complete, the opposing player will then choose the second map. Players will continue alternating picks until the match is complete.
    - If both players reach match point (e.g. both players are one point away from victory) the tiebreaker will be played to decide the winner of the match.
-   - The tiebreaker is FreeMod. The allowed mods are Easy, HardRock, Hidden, and Flashlight. Combining mods is allowed, as well as using NoMod.
+   - The tiebreaker is FreeMod. The allowed mods are Easy, Hard Rock, Hidden, and Flashlight. Combining mods is allowed, as well as using NoMod.
 
 ### Winning conditions
 

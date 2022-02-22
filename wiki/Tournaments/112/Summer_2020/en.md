@@ -109,11 +109,11 @@ The 112's Summer Tournament 2020 was run by various community members.
   1. [TERRA - EDEN (Kite) \[handsome's Master\]](https://osu.ppy.sh/beatmapsets/500341#osu/1520670)
   2. [Shinra-Bansho - Kyoukyou no Fortunate Polka (Yukiyo) \[A Dance of Esotericism and Vitalism\]](https://osu.ppy.sh/beatmapsets/904962#osu/1888862)
   3. [Seiryu - Ultramarine (RLC) \[yf's Expert\]](https://osu.ppy.sh/beatmapsets/107377#osu/1120556)
-- HardRock
+- Hard Rock
   1. [Lix - Labyrinth -Black Trance Mix- v2.0 (Matrix) \[Six King Labyrinth\]](https://osu.ppy.sh/beatmapsets/1075788#osu/2334483)
   2. [xi - ANiMA (FrenZ396) \[Shizuku's Extra\]](https://osu.ppy.sh/beatmapsets/953032#osu/2006107)
   3. [LeaF - Arianrhod (greenhue) \[Extra\]](https://osu.ppy.sh/beatmapsets/1156514#osu/2413427)
-- DoubleTime
+- Double Time
   1. [zts - worldenddominator (Gillstar) \[Insane\]](https://osu.ppy.sh/beatmapsets/1137832#osu/2376786)
   2. [Aqours - WONDERFUL STORIES (\_Meep\_) \[Mitsuna's Insane\]](https://osu.ppy.sh/beatmapsets/720402#osu/1533376)
   3. [Tatsh - reunion (Irreversible) \[EvilKiiwa's Hyper\]](https://osu.ppy.sh/beatmapsets/346213#osu/764289)
@@ -136,11 +136,11 @@ The 112's Summer Tournament 2020 was run by various community members.
   1. [Hiromi Sato - Jiyuu no Hane (Lasse) \[Twilight\]](https://osu.ppy.sh/beatmapsets/703718#osu/1488810)
   2. [Tezuka x Qayo - NINI (Shota on osu) \[Hanagasumi\]](https://osu.ppy.sh/beatmapsets/1041108#osu/2175928)
   3. [Swan Lake Orchestra - Hakuchou no Mizuumi (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/25922#osu/87728)
-- HardRock
+- Hard Rock
   1. [IAHN - Feel It (Yugu) \[Dynamix's Expert\]](https://osu.ppy.sh/beatmapsets/757498#osu/1600024)
   2. [Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)
   3. [xi - Akasha (Atsuro) \[N/A's Another\]](https://osu.ppy.sh/beatmapsets/403427#osu/931860)
-- DoubleTime
+- Double Time
   1. [Sound Souler - Paradise (kwk) \[Hobbes2's Insane\]](https://osu.ppy.sh/beatmapsets/686777#osu/1551175)
   2. [IOSYS feat. NJK Record - Miracle-Hinacle (Hinacle) \[Collab\]](https://osu.ppy.sh/beatmapsets/50454#osu/155049)
   3. [Aimer with chelly (EGOIST) - ninelie (jonathanlfj) \[Sakuya's Insane\]](https://osu.ppy.sh/beatmapsets/443879#osu/1723657)
@@ -163,11 +163,11 @@ The 112's Summer Tournament 2020 was run by various community members.
   1. [BAND-MAID - I can't live without you. (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/1093430#osu/2291511)
   2. [Denkishiki Karen Ongaku Shuudan - Watch out! (Lasse) \[LMT's Expert\]](https://osu.ppy.sh/beatmapsets/1130504#osu/2368664)
   3. [DCX - Flying High (DJ Splash Remix) (yeahyeahyeahhh) \[InoSane\]](https://osu.ppy.sh/beatmapsets/22194#osu/76663)
-- HardRock
+- Hard Rock
   1. [Camellia - Ultimate Ascension (Aeril) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/597899#osu/1669805)
   2. [Porter Robinson - Sad Machine (Draper Remix) (Alonevpk) \[mac n cheese\]](https://osu.ppy.sh/beatmapsets/363257#osu/797658)
   3. [Hana - Kuukirikigaku Shoujo to Shounen no Uta (Bellicose) \[Gust's Another\]](https://osu.ppy.sh/beatmapsets/1055510#osu/2262846)
-- DoubleTime
+- Double Time
   1. [Sana - Byoumei Koiwazurai (\[ Joey \]) \[Insane\]](https://osu.ppy.sh/beatmapsets/220636#osu/609741)
   2. [Hiroki Arai - Kimi wo Nosete feat. sayurina (Flower) \[Flying with you\]](https://osu.ppy.sh/beatmapsets/78911#osu/220455)
   3. [Adraen + Renard - Punk Anthem Track (Aleks719) \[Insane\]](https://osu.ppy.sh/beatmapsets/37709#osu/125201)
@@ -190,11 +190,11 @@ The 112's Summer Tournament 2020 was run by various community members.
   1. [SUPER STAR -MITSURU- - NEW GENERATION (Natteke) \[Another\]](https://osu.ppy.sh/beatmapsets/25158#osu/85197)
   2. [Yuuhei Satellite - Tsuki ni Murakumo Hana ni Kaze (Aeril) \[Monsoon\]](https://osu.ppy.sh/beatmapsets/734241#osu/1549272)
   3. [TatshMusicCircle - Raikou -3rd Desire- (Kite) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/143316#osu/356560)
-- HardRock
+- Hard Rock
   1. [OxT - Silent Solitude (Seto Kousuke) \[Senhor's Expert\]](https://osu.ppy.sh/beatmapsets/996444#osu/2117058)
   2. [xi - Finder keepers (Charles445) \[Extra\]](https://osu.ppy.sh/beatmapsets/185977#osu/444472)
   3. [Breaking Benjamin - The Diary of Jane (FCL) \[Extra\]](https://osu.ppy.sh/beatmapsets/468418#osu/1001920)
-- DoubleTime
+- Double Time
   1. [orangentle - HAELEQUIN (Gamu) \[alacat's Light Insane\]](https://osu.ppy.sh/beatmapsets/291495#osu/667843)
   2. [Suzuki Konomi - DAYS of DASH (Kalibe) \[pkhg's Insane\]](https://osu.ppy.sh/beatmapsets/515921#osu/1113532)
   3. [fripSide - future gazer (haha5957) \[Misaka Mikoto\]](https://osu.ppy.sh/beatmapsets/33575#osu/118319)
@@ -217,11 +217,11 @@ The 112's Summer Tournament 2020 was run by various community members.
   1. [Sound Souler - Absent Color (Sonnyc) \[InsanePlus\]](https://osu.ppy.sh/beatmapsets/1093465#osu/2319257)
   2. [ZUN - Maiden's Cappricio ~ Dream Battle (Fight69) \[!ignore this\]](https://osu.ppy.sh/beatmapsets/18005#osu/69706)
   3. [kors k - Ultra Hardcore (P\*Light Remix) (Kardshark) \[Extra\]](https://osu.ppy.sh/beatmapsets/807547#osu/1730139)
-- HardRock
+- Hard Rock
   1. [CHiCO with HoneyWorks - Kore Seishun Understand feat. sana (kanor) \[Lobelia's Insane\]](https://osu.ppy.sh/beatmapsets/808621#osu/1702169)
   2. [ginkiha - Borealis (Aka) \[Seikatu's Insane\]](https://osu.ppy.sh/beatmapsets/213068#osu/504981)
   3. [SCANDAL - Image (Sotarks) \[Insane\]](https://osu.ppy.sh/beatmapsets/466737#osu/1030219)
-- DoubleTime
+- Double Time
   1. [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) (Minorsonek) \[Mathew's Hard\]](https://osu.ppy.sh/beatmapsets/734135#osu/1567978)
   2. [Inui Toko - Kimagure Romantic (newton-) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/1130251#osu/2519731)
   3. [Hana - i o Tokinasai (Trynna) \[Insane\]](https://osu.ppy.sh/beatmapsets/684190#osu/1447962)
@@ -242,10 +242,10 @@ The 112's Summer Tournament 2020 was run by various community members.
 - Hidden
   1. [nano - Hysteria (theramdans) \[Collab\]](https://osu.ppy.sh/beatmapsets/168662#osu/412306)
   2. [Hatsuki Yura - Intense Desire (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/54885#osu/166762)
-- HardRock
+- Hard Rock
   1. [Yomi - D's Adventure Note Remake-ban (toybot) \[Asami's Insane\]](https://osu.ppy.sh/beatmapsets/486454#osu/1652104)
   2. [Anamanaguchi - Blackout City (Sushi) \[Insane\]](https://osu.ppy.sh/beatmapsets/67226#osu/204638)
-- DoubleTime
+- Double Time
   1. [LEFT BOY - DANGEROUS (Bonsai) \[PRITI'S INSANE\]](https://osu.ppy.sh/beatmapsets/452693#osu/1147366)
   2. [Hatsuki Yura - Ganbare! Koi no Hana (Kotone) \[Hana\]](https://osu.ppy.sh/beatmapsets/55359#osu/167963)
 - FreeMod
@@ -263,10 +263,10 @@ The 112's Summer Tournament 2020 was run by various community members.
 - Hidden
   1. [Kirin feat. Aoki Lapis - Not Found (Mao) \[404\]](https://osu.ppy.sh/beatmapsets/560326#osu/1184958)
   2. [Sota Fujimori - polygon (Kaifin) \[Insane\]](https://osu.ppy.sh/beatmapsets/559097#osu/1236720)
-- HardRock
+- Hard Rock
   1. [ATSUMI UEDA - Harmonia (Starfy) \[Extra\]](https://osu.ppy.sh/beatmapsets/542868#osu/1150686)
   2. [Dark PHOENiX - Koiiro Master Spark (MaridiuS) \[AyyKalt's Insane\]](https://osu.ppy.sh/beatmapsets/855751#osu/1876892)
-- DoubleTime
+- Double Time
   1. [Mameyudoufu - Citadel (captin1) \[IOException's Hard\]](https://osu.ppy.sh/beatmapsets/1024712#osu/2182502)
   2. [Hana - Gekka Jasmine (2014ver.) (PinkHeart) \[Gyro's Light Insane\]](https://osu.ppy.sh/beatmapsets/408745#osu/1035068)
 
@@ -456,7 +456,7 @@ Tuesday, 25 August 2020
 1. 112’s Summer Tournament 2020 is an osu! tournament only allowed for Turkish-speaking players regardless of their profile flags.
 2. The tournament uses a qualifier into a double elimination bracket.
 3. The format of the tournament is planned as **single-player versus** setup.
-4. Beatmap scoring is based on Score V2.
+4. Beatmap scoring is based on ScoreV2.
 5. The beatmaps for each round will be announced by the map selectors in advance at least a week before the actual matches take place. Only these beatmaps will be used during the respective matches.
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
 6. Match schedule will be decided by the tournament staff.
@@ -484,7 +484,7 @@ Tuesday, 25 August 2020
 ### Stage instructions
 
 1. In the Qualifier stage, each seed will have a specific pool designed by the map selectors.
-2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
+2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
 3. Each of the Qualifier pools contain 9 maps. There will be 3 maps under the NoMod bracket and 2 map for the other mod brackets.
 4. No warm-ups will be entertained during this stage.
 5. Players will have to play the map pool **once** at a designated time.
@@ -516,16 +516,16 @@ Tuesday, 25 August 2020
 ### Mappool instructions
 
 1. There will be a new mappool for every stage.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
-   - The Round of 32 mappools will have 4 NoMod maps, 3 DoubleTime maps and 2 maps for each of the remaining mod brackets.
+   - The Round of 32 mappools will have 4 NoMod maps, 3 Double Time maps and 2 maps for each of the remaining mod brackets.
    - The Double Elimination stage mappools will have 5 NoMod maps, 3 maps for each of the remaining mod brackets.
 4. Each mappool has one tiebreaker.
-5. The NoFail mod may be selected on any map.
-6. The NoMod bracket will be played with no mods enabled at all (other than NoFail).
-7. The Hidden, HardRock and DoubleTime brackets will be played with the respective mod enabled by all players.
+5. The No Fail mod may be selected on any map.
+6. The NoMod bracket will be played with no mods enabled at all (other than No Fail).
+7. The Hidden, Hard Rock and Double Time brackets will be played with the respective mod enabled by all players.
 8. The FreeMod bracket will have Free Mods enabled.
-   - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
+   - Possible mod choices are Hidden, Hard Rock and Hidden+Hard Rock.
 9. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, there are no mod requirements.
 

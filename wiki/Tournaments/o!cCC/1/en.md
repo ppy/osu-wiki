@@ -96,12 +96,12 @@ This competition has come to an end and resulted in the following podium:
   2. [Sakuzyo - Stoicism (dsco) \[Jazz!\]](https://osu.ppy.sh/beatmapsets/705318#fruits/1491800)
   3. [HyuN feat. LyuU - Cross Over (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/922249#fruits/1925935)
   4. [Camellia as "Reverse of Riot" - Completeness Under Incompleteness (Regou) \[RLC's INFINITE\]](https://osu.ppy.sh/beatmapsets/514750#fruits/1094551)
-- HardRock
+- Hard Rock
   1. [EGOIST - Eiyuu Unmei no Uta (TV Edit) (handsome) \[yf's Insane\]](https://osu.ppy.sh/beatmapsets/637050#fruits/1426311)
   2. [Beatdrop - Phase 1 (rickyboi) \[SHD\]](https://osu.ppy.sh/beatmapsets/54511#fruits/168031)
   3. [Belmont - Convalescence (Sharkie) \[t\]](https://osu.ppy.sh/beatmapsets/851384#fruits/1779767)
   4. [THE ORAL CIGARETTES - Sesshoku (Nevo) \[Sotarks' Cataclysm\]](https://osu.ppy.sh/beatmapsets/839248#fruits/1756897)
-- DoubleTime
+- Double Time
   1. [Koronba - Iwashi ga Tsuchi kara Haete Kurunda (Damnjelly) \[Sardine\]](https://osu.ppy.sh/beatmapsets/602367#fruits/1580728)
   2. [egor nats - ya zhenyus' na devochke iz anime (Daycore) \[collab insane\]](https://osu.ppy.sh/beatmapsets/947717#fruits/1984297)
   3. [Rchetype - V Is For (Blue Dragon) \[Insane\]](https://osu.ppy.sh/beatmapsets/111914#fruits/290919)
@@ -125,12 +125,12 @@ This competition has come to an end and resulted in the following podium:
   2. [Tia - Deal with the devil (Hey lululu) \[Koa%wer Extra\]](https://osu.ppy.sh/beatmapsets/666709#fruits/1427722)
   3. [SUICIDEWAVE - LAKUNA (2zz) \[expert\]](https://osu.ppy.sh/beatmapsets/512167#fruits/1283840)
   4. [EZFG - Hurting for a Very Hurtful Pain (tutuhaha) \[Dance\]](https://osu.ppy.sh/beatmapsets/46848#fruits/145669)
-- HardRock
+- Hard Rock
   1. [sakuzyo - Senkyou Ranbu (ktgster) \[EX\]](https://osu.ppy.sh/beatmapsets/460516#fruits/986233)
   2. [nomico - Bad Apple!! feat. nomico (Kyle Y) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/799327#fruits/1678282)
   3. [Yuuyu - Scrap Syndrome (deetz) \[Extra\]](https://osu.ppy.sh/beatmapsets/973996#fruits/2044722)
   4. [SEVENTEEN - VERY NICE (Natsu) \[NATSU & EUNY'S AJU EXTRA\]](https://osu.ppy.sh/beatmapsets/618500#fruits/1312697)
-- DoubleTime
+- Double Time
   1. [Lifetheory - Daisy (\_Yiiiii) \[krt's Insane\]](https://osu.ppy.sh/beatmapsets/549738#fruits/1167848)
   2. [ShinraBansho - Aqua terrarium (caren\_sk) \[AR8.ver\]](https://osu.ppy.sh/beatmapsets/854601#fruits/1788602)
   3. [loos - Koi Yomi Zakura (Full size) (papapa213) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/602230#fruits/1427449)
@@ -151,11 +151,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Hellblinde - Oath of Kings (DoKito) \[DoKo\]](https://osu.ppy.sh/beatmapsets/49214#fruits/151821)
   2. [DJ Totoriott - Chloe (DeviousPanda) \[Mystery\]](https://osu.ppy.sh/beatmapsets/915491#fruits/1911962)
   3. [Panda Eyes & Teminite - Highscore (Gens) \[Extreme\]](https://osu.ppy.sh/beatmapsets/801515#fruits/1682437)
-- HardRock
+- Hard Rock
   1. [SENTIVE - The end of a century (xxheroxx) \[Insane\]](https://osu.ppy.sh/beatmapsets/66084#fruits/202965)
   2. [Co shu Nie - asphyxia (TV edit) (Monstrata) \[Insane\]](https://osu.ppy.sh/beatmapsets/758101#fruits/1594730)
   3. [Kano - Houkago Stride (Pho) \[Extra Collab\]](https://osu.ppy.sh/beatmapsets/289985#fruits/654220)
-- DoubleTime
+- Double Time
   1. [Zektbach - L'avide (eXseeD) \[gowww\]](https://osu.ppy.sh/beatmapsets/29496#fruits/103403)
   2. [sasakure.UK - Jack-the-Ripper (Sprosive) \[ReMiX\]](https://osu.ppy.sh/beatmapsets/23907#fruits/94264)
   3. [toby fox + RichaadEB - MEGALOVANIA \~Dual Mix\~ (The\_CJ) \[Hard\]](https://osu.ppy.sh/beatmapsets/375201#fruits/1118006)
@@ -175,11 +175,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Caravan Palace - Dragons (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/46733#fruits/145361)
   2. [Siriusmo - Idiologie (Gens) \[Insane\]](https://osu.ppy.sh/beatmapsets/864954#fruits/1808752)
   3. [cosMo@BousouP feat. Hatsune Miku - Shinsekai (jonathanlfj) \[New World\]](https://osu.ppy.sh/beatmapsets/318557#fruits/709313)
-- HardRock
+- Hard Rock
   1. [Dual & Dorothy starring Taneda Risa, Sakura Ayane - Oshiete (VINXIS) \[Remo Prototype\]](https://osu.ppy.sh/beatmapsets/451644#fruits/968814)
   2. [$44,000 - PISSCORD (Smoothie World) \[Mir's Insane\]](https://osu.ppy.sh/beatmapsets/691725#fruits/1475859)
   3. [ak+q - Rush Indigo (Alphabet) \[Somber\]](https://osu.ppy.sh/beatmapsets/986013#fruits/2062848)
-- DoubleTime
+- Double Time
   1. [Insert Rupee - Facing Fears (OC ReMix) (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/36541#fruits/118054)
   2. [Nightcore - Ravers Fantasy (LoweH) \[Lizbeth's Fantasy\]](https://osu.ppy.sh/beatmapsets/11558#fruits/57382)
   3. [Yooh - salvation (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/177444#fruits/477346)
@@ -199,11 +199,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Rammstein - Feuer frei! (Frey) \[Fire at will! BANG! BANG!!\]](https://osu.ppy.sh/beatmapsets/887102#fruits/1854467)
   2. [Gesu no Kiwami Otome. - DARUMASAN (celerih) \[dsco's EXTREME\]](https://osu.ppy.sh/beatmapsets/613613#fruits/1302779)
   3. [Grand Thaw - Aventyr (kwk) \[Adventure\]](https://osu.ppy.sh/beatmapsets/556922#fruits/1178554)
-- HardRock
+- Hard Rock
   1. [Morimori Atsushi+Ujico\* - Vieille Ville (cheesiest) \[diff\]](https://osu.ppy.sh/beatmapsets/484162#fruits/1032837)
   2. [Camellia - Diastrophism (Regou) \[Insane\]](https://osu.ppy.sh/beatmapsets/923095#fruits/1932099)
   3. [Glutamine - Babylon (CSY the corrupt) \[Corruption\]](https://osu.ppy.sh/beatmapsets/35992#fruits/145118)
-- DoubleTime
+- Double Time
   1. [Katy Perry - E.T. (La Cataline) \[Futuristic\]](https://osu.ppy.sh/beatmapsets/36077#fruits/116708)
   2. [Dj Verstarker - Jump Jump (2008) (SeymourLyon) \[Jump like CRAZY!!!\]](https://osu.ppy.sh/beatmapsets/6004#fruits/28152)
   3. [Sharlo - Shinkai Shoujo (yf\_bmp) \[Insane\]](https://osu.ppy.sh/beatmapsets/221768#fruits/518731)
@@ -219,9 +219,9 @@ This competition has come to an end and resulted in the following podium:
   2. [L.E.D.-G - MVA (ouranhshc) \[Collab\]](https://osu.ppy.sh/beatmapsets/597898#fruits/1263892)
 - Hidden
   1. [Rin - Prism Magical (DJ SHARPNEL hardrave remix) (regenz) \[Extra Magical\]](https://osu.ppy.sh/beatmapsets/39032#fruits/204536)
-- HardRock
+- Hard Rock
   1. [Kola Kid - can't hide your love (Kert) \[Can\]](https://osu.ppy.sh/beatmapsets/39732#fruits/126470)
-- DoubleTime
+- Double Time
   1. [VY1 - Cyber Thunder Cider (tutuhaha) \[Cyber\]](https://osu.ppy.sh/beatmapsets/47146#fruits/151215)
 
 ## Match results
@@ -359,7 +359,7 @@ Sunday, 29 September 2019:
 
 ### General rules
 
-1. The score system used in this tournament will be **Score V2**.
+1. The score system used in this tournament will be **ScoreV2**.
 2. Players will be seeded according to their average rank following the Qualifier Stage.
 3. Anyone participating in this tournament (including staff) must have common decency, and not be overly toxic for no reason, otherwise a ban from the tournament will be enforced.
 4. Only in the first 20 seconds of a map can the map be retried if anything hindering happens such as a disconnect. If anything happens after this, whether it is a disconnect or lags, the map will not be replayed.

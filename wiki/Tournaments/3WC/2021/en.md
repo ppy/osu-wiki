@@ -104,11 +104,11 @@ The 3 Digit World Cup was run by various community members.
   1. [Yousei Teikoku - Kuusou Mesorogiwi (IsomirDiAngelo) \[Prophecy\]](https://osu.ppy.sh/beatmapsets/1260852#osu/2621030)
   2. [POLKADOT STINGRAY - Otoshimae (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1301330#osu/2699135)
   3. [Chikamori Kayako - Kigurumi Sungeki (Mirash) \[Labyrinth of Steam\]](https://osu.ppy.sh/beatmapsets/1312079#osu/2719334)
-- HardRock
+- Hard Rock
   1. [yuikonnu - caramel heaven (knowledgeking) \[Sweet Heaven\]](https://osu.ppy.sh/beatmapsets/1101604#osu/2301348)
   2. [linear ring - enchanted love (captin1) \[special\]](https://osu.ppy.sh/beatmapsets/1450161#osu/2981472)
   3. [onoken - K8107 (MaridiuS) \[Red Another\]](https://osu.ppy.sh/beatmapsets/807396#osu/1694521)
-- DoubleTime
+- Double Time
   1. [la la larks - self (captin1) \[Insane\]](https://osu.ppy.sh/beatmapsets/646002#osu/1594070)
   2. [SOUND HOLIC vs. dj TAKA feat. YURiCa - TIEFSEE (celerih) \[Insane\]](https://osu.ppy.sh/beatmapsets/928646#osu/2248322)
   3. [Faylan - Mind as Judgment (miccoliasms) \[Impossible\]](https://osu.ppy.sh/beatmapsets/10192#osu/43666)
@@ -133,11 +133,11 @@ The 3 Digit World Cup was run by various community members.
   1. [Kotone - Autonomy (captin1) \[Thorn\]](https://osu.ppy.sh/beatmapsets/1420776#osu/2926505)
   2. [DJ Totoriott - Chloe (Yusomi) \[yf's Extra\]](https://osu.ppy.sh/beatmapsets/768982#osu/1908705)
   3. [solfa - Battle 6 : okamitachi no kiba -Revenge of the wolves- (Reiji Maigo) \[awa\]](https://osu.ppy.sh/beatmapsets/1431935#osu/2947341)
-- HardRock
+- Hard Rock
   1. [Kishida Kyoudan & THE Akeboshi Rockets - Necrofantasia (skytuna) \[Delusion\]](https://osu.ppy.sh/beatmapsets/1100490#osu/2299186)
   2. [HiTECH NINJA - Modelista (-jordan-) \[Beyond Lv.10\]](https://osu.ppy.sh/beatmapsets/1148442#osu/2397737)
   3. [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (yf\_bmp) \[Itsuki's Another\]](https://osu.ppy.sh/beatmapsets/714552#osu/1597481)
-- DoubleTime
+- Double Time
   1. [Mikakuning! - Tomadoi Recipe (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/154114#osu/378617)
   2. [KAMELOT - Kevlar Skin (LMT) \[Insane\]](https://osu.ppy.sh/beatmapsets/1267309#osu/2633777)
   3. [hapi - NTD03 ''26ROAD'' (Full Edit) (\[Takuya\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/23667#osu/80863)
@@ -162,11 +162,11 @@ The 3 Digit World Cup was run by various community members.
   1. [04 Limited Sazabys - Squall (Gillstar) \[Expert\]](https://osu.ppy.sh/beatmapsets/1029349#osu/2152441)
   2. [MYUKKE. - The 89's Momentum (Cubby) \[Cubby & Yusomi Extreme\]](https://osu.ppy.sh/beatmapsets/1235496#osu/2568326)
   3. [Hijirime Laeria - stlaeria (Hinsvar) \[Salvation\]](https://osu.ppy.sh/beatmapsets/1352739#osu/2800493)
-- HardRock
+- Hard Rock
   1. [ZAQ - Seven Doors (SkyFlame) \[knowledge's Extreme\]](https://osu.ppy.sh/beatmapsets/1078911#osu/2430049)
   2. [Rin - Eientewi set 13 \~ Extend Ash (Halfslashed) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1262466#osu/2624071)
   3. [GUHROOVY - AIR RAID FROM THA UNDAGROUND (Matrix) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1067854#osu/2272299)
-- DoubleTime
+- Double Time
   1. [senya - Wasurerareta Kiseki (Satellite) \[Narcissu's Lunatic\]](https://osu.ppy.sh/beatmapsets/662578#osu/1428656)
   2. [Feryquitous feat. F9 - Monochrome Anomaly (captin1) \[Insane\]](https://osu.ppy.sh/beatmapsets/1436243#osu/2955143)
   3. [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[Another\]](https://osu.ppy.sh/beatmapsets/28332#osu/94533)
@@ -191,11 +191,11 @@ The 3 Digit World Cup was run by various community members.
   1. [WHITEFISTS feat. Sennzai - Paralyzed Ash (Keqing) \[lowbe's Extra\]](https://osu.ppy.sh/beatmapsets/1374055#osu/2840551)
   2. [Makai Toshi Niigata - Ukiyo-e Yokochou (DeviousPanda) \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/921808#osu/1924977)
   3. [syatten remixed celas - Bird Sprite -Awakening of Light- (emu1337) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1321314#osu/2741605)
-- HardRock
+- Hard Rock
   1. [Kotone - Kagome (Kyle73) \[Sparhten's Extra\]](https://osu.ppy.sh/beatmapsets/1146727#osu/2410799)
   2. [Eagle - D (P o M u T a) \[Kotori's EXTREME\]](https://osu.ppy.sh/beatmapsets/403667#osu/902947)
   3. [Nekomata Master+ - nightbird lost wing (captin1) \[apaffy's Extreme\]](https://osu.ppy.sh/beatmapsets/241892#osu/627961)
-- DoubleTime
+- Double Time
   1. [aki - Clione no Akari (MiyohashiKoori) \[G11K's Insane\]](https://osu.ppy.sh/beatmapsets/1013752#osu/2225415)
   2. [Lime - Noblesse Gloria (yaspo) \[Noblesse\]](https://osu.ppy.sh/beatmapsets/1257575#osu/2613166)
   3. [Infinite Stratos Cast - SUPER STREAM \~INFINIT FUTURE Revised MIX\~ (JauiPlaY) \[DisPlaY\]](https://osu.ppy.sh/beatmapsets/29601#osu/98163)
@@ -220,11 +220,11 @@ The 3 Digit World Cup was run by various community members.
   1. [Ayaponzu\* - Streaming Heart (Lasse) \[Karen's Extra\]](https://osu.ppy.sh/beatmapsets/552702#osu/1172667)
   2. [lapix - shime (Extended Mix) (Livia) \[Collab\]](https://osu.ppy.sh/beatmapsets/1144604#osu/2389811)
   3. [Lizean - Shinde Shimau towa Nasakenai! (Yugu) \[BAKA x BAKA x BAKA\]](https://osu.ppy.sh/beatmapsets/1052264#osu/2199070)
-- HardRock
+- Hard Rock
   1. [Jin ft.MARiA from GARNiDELiA - daze (deetz) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/306746#osu/695893)
   2. [Ling Yuan yousa - Shen De Sui Bo Zhu Liu (Rizen) \[Karen's Expert\]](https://osu.ppy.sh/beatmapsets/650303#osu/1395662)
   3. [Nanawo Akari - One Room Sugar Life (Fushimi Rio) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/818245#osu/1730526)
-- DoubleTime
+- Double Time
   1. [Minato Aqua - #Aquairo Palette (Yuuma) \[Ne Motto\]](https://osu.ppy.sh/beatmapsets/1244542#osu/2587040)
   2. [Nekomata Master - Sennen no Kotowari (celerih) \[Real's EXHAUST\]](https://osu.ppy.sh/beatmapsets/647730#osu/1438536)
   3. [HTT - Gohan wa Okazu (Sumisola) \[Insane\]](https://osu.ppy.sh/beatmapsets/21872#osu/77580)
@@ -246,10 +246,10 @@ The 3 Digit World Cup was run by various community members.
 - Hidden
   1. [Aso Natsuko - Perfect-area complete! (gary00737) \[yf's Expert\]](https://osu.ppy.sh/beatmapsets/927758#osu/1992475)
   2. [lapix - Nothing but Theory (dkblaze) \[nautzz's Extra\]](https://osu.ppy.sh/beatmapsets/1166109#osu/2442117)
-- HardRock
+- Hard Rock
   1. [Kanzaki Elza starring ReoNa - Independence (Yasaija 714) \[Extra\]](https://osu.ppy.sh/beatmapsets/780318#osu/1639219)
   2. [a\_hisa - Fanatiker der Liebe (Minakami Yuki) \[Extreme\]](https://osu.ppy.sh/beatmapsets/167091#osu/405982)
-- DoubleTime
+- Double Time
   1. [Gekidan Record feat. Nekomata Master - Houkou Orpheus (celerih) \[felys' White Hard\]](https://osu.ppy.sh/beatmapsets/879051#osu/1855074)
   2. [Duca - Dreamer (timemon) \[Insane\]](https://osu.ppy.sh/beatmapsets/730660#osu/1542024)
 

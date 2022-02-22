@@ -113,12 +113,12 @@ This competition has come to an end and resulted in the following podium:
   2. [Powerless feat. Sennzai - Lost Desire (Pentori) \[Future\]](https://osu.ppy.sh/beatmapsets/1187717#osu/2476527)
   3. [Feryquitous feat. Aitsuki Nakuru - Kairikou (Ryuusei Aika) \[Extra\]](https://osu.ppy.sh/beatmapsets/740862#osu/1562891)
   4. [LeaF - Poison AND/OR Affection (Flask) \[Regou's osu! Extra\]](https://osu.ppy.sh/beatmapsets/1130436#osu/2374098)
-- HardRock
+- Hard Rock
   1. [nano - Nevereverland (jas) \[Relentless\]](https://osu.ppy.sh/beatmapsets/1023428#osu/2140939)
   2. [Sakuzyo - Imprinting (eiri-) \[Dementation's Extra\]](https://osu.ppy.sh/beatmapsets/1090887#osu/2340914)
   3. [Makai Toshi Niigata - Ukiyo-e Yokochou (DeviousPanda) \[Frakturehawkens' Extra\]](https://osu.ppy.sh/beatmapsets/921808#osu/1943166)
   4. [MY FIRST STORY - Itazura Fiction (Saut) \[pishi's Insane\]](https://osu.ppy.sh/beatmapsets/477343#osu/1025587)
-- DoubleTime
+- Double Time
   1. [Usada Pekora - Discommunication Alien (Nana Abe) \[amateurre's insane peko.\]](https://osu.ppy.sh/beatmapsets/1153393#osu/2414453)
   2. [-45 - Midorigo Queen Bee (Luscent) \[Dada's Insane\]](https://osu.ppy.sh/beatmapsets/1055780#osu/2277700)
   3. [Zektbach - L'avide (eXseeD) \[gowww\]](https://osu.ppy.sh/beatmapsets/29496#osu/103403)
@@ -147,12 +147,12 @@ This competition has come to an end and resulted in the following podium:
   2. [TORIENA - RAT RACE (Acyl) \[Team :3c's Extra\]](https://osu.ppy.sh/beatmapsets/1027510#osu/2148690)
   3. [DECO\*27 - Otome Dissection feat. Hatsune Miku (YelloJello) \[SOS\]](https://osu.ppy.sh/beatmapsets/913720#osu/1908618)
   4. [bbn - Identic Conflict (Myxo) \[LMT's Another\]](https://osu.ppy.sh/beatmapsets/1020429#osu/2135438)
-- HardRock
+- Hard Rock
   1. [LiSA - EGOiSTiC SHOOTER (Asphyxia) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/253313#osu/588975)
   2. [LeaF - Evanescent (Anxient) \[Rohit's Extra\]](https://osu.ppy.sh/beatmapsets/440997#osu/958282)
   3. [F.E.L - Yours (Mir) \[XO\]](https://osu.ppy.sh/beatmapsets/805921#osu/1691606)
   4. [Kucchi vs Akki - Yakumo >>JOINT STRUGGLE (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/688877#osu/1463054)
-- DoubleTime
+- Double Time
   1. [\*NSYNC - Bye Bye Bye (0\_o) \[0\_o\]](https://osu.ppy.sh/beatmapsets/11523#osu/53461)
   2. [Shano x 40mP - Kiritorisen (Frostmourne) \[Insane\]](https://osu.ppy.sh/beatmapsets/79307#osu/221409)
   3. [Two Door Cinema Club - Cigarettes In The Theatre (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/37461#osu/120461)
@@ -180,11 +180,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Minamotoya feat. Kuroa\* - Hana Kagerou (404 AimNotFound) \[Petals\]](https://osu.ppy.sh/beatmapsets/929130#osu/1963382)
   2. [P\*Light - TRIGGER*HAPPY (MineC24) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/74671#osu/211903)
   3. [isubokuro - Aun no Beats (Beren) \[buhei's Extra\]](https://osu.ppy.sh/beatmapsets/1153984#osu/2425703)
-- HardRock
+- Hard Rock
   1. [The Eden Project - Lost (Bearizm) \[Escapism\]](https://osu.ppy.sh/beatmapsets/247747#osu/835941)
   2. [The Chainsmokers & Bebe Rexha - Call You Mine (Hibell Remix) (Asphyxia) \[Away\]](https://osu.ppy.sh/beatmapsets/1059539#osu/2218778)
   3. [Eoin O' Broin - Oblivion (DoKoLP) \[Insane\]](https://osu.ppy.sh/beatmapsets/37222#osu/119853)
-- DoubleTime
+- Double Time
   1. [Last Note. feat.GUMI - Osanana Blue (-Kamikaze-) \[51 Days\]](https://osu.ppy.sh/beatmapsets/283155#osu/640211)
   2. [Lon - Mischievous Function (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/27441#osu/92037)
   3. [Harutya - Furaregaigirl (Rieri) \[cruelty\]](https://osu.ppy.sh/beatmapsets/934838#osu/1951646)
@@ -211,11 +211,11 @@ This competition has come to an end and resulted in the following podium:
   1. [sokoninaru - Tenohira de odoru (Snepif) \[Extra\]](https://osu.ppy.sh/beatmapsets/773686#osu/1898580)
   2. [Groove Coverage - The End (Nightcore Remix) (winber1) \[Insane\]](https://osu.ppy.sh/beatmapsets/24918#osu/84538)
   3. [solfa feat. Ceui - Koiiro Recipe (Seolv) \[Left's Another\]](https://osu.ppy.sh/beatmapsets/981822#osu/2054876)
-- HardRock
+- Hard Rock
   1. [Hatsuki Yura - Halloween of the Dead (Gamu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1041518#osu/2176783)
   2. [Culprate - Diablo (VIP) (Yoges) \[Expert\]](https://osu.ppy.sh/beatmapsets/553119#osu/1280280)
   3. [VINXIS - A Centralized View (Peter) \[Perception\]](https://osu.ppy.sh/beatmapsets/780932#osu/1640291)
-- DoubleTime
+- Double Time
   1. [Shimotsuki Haruka - Liblume (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/602903#osu/1276080)
   2. [onoken - Cristalisia (Mir) \[Insane\]](https://osu.ppy.sh/beatmapsets/950955#osu/1986056)
   3. [Red Velvet - Bad Boy (cosmiccc) \[Max's Hyper\]](https://osu.ppy.sh/beatmapsets/732077#osu/1635439)
@@ -241,11 +241,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Shimotsuki Haruka - Magenta Tear (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/852387#osu/1784666)
   2. [Liz Triangle - Ryokugan no Kemono (Mirash) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/661455#osu/1400359)
   3. [Yousei Teikoku - Deep Sea (EvilElvisV2) \[LC\]](https://osu.ppy.sh/beatmapsets/104260#osu/274365)
-- HardRock
+- Hard Rock
   1. [goreshit - o'er the flood (grumd) \[The Flood Beneath\]](https://osu.ppy.sh/beatmapsets/51972#osu/181253)
   2. [yumemidoll - Lyrith -Meikyuu Lyrith- (eiri-) \[Uberzolik's Insane\]](https://osu.ppy.sh/beatmapsets/757681#osu/1603721)
   3. [MYLK - Waffle Wave (Niva) \[Insane\]](https://osu.ppy.sh/beatmapsets/1115989#osu/2331362)
-- DoubleTime
+- Double Time
   1. [96neko - ELECT (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/716122#osu/1517345)
   2. [Yasuda Rei - Mirror (Modem) \[Mirror\]](https://osu.ppy.sh/beatmapsets/649225#osu/1385668)
   3. [Memme - China Dress (iyasine) \[Kloyd's Hyper\]](https://osu.ppy.sh/beatmapsets/149749#osu/387164)
@@ -449,7 +449,7 @@ Sunday, 14 June 2020:
 1. Ulat Bulu Cup 2020 is a 2v2 osu! tournament.
 2. Ulat Bulu Cup 2020 will adopt the double-elimination bracket, this means teams have two chance of losses before getting eliminated.
 3. The score system used will be **ScoreV2**.
-4. Matche will ba played under NoFail mod and TeamVs format.
+4. Matche will ba played under No Fail mod and TeamVs format.
 5. Participants must met the following criteria in order their registration to count:
    - Participant's account must be **6 months old or older.**
    - Participant did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
@@ -470,7 +470,7 @@ Sunday, 14 June 2020:
    - Finals and Grand Finals: Best-of-15 (first to 8 points)
 3. Teams are allowed to ban **two maps** in any stages.
 4. Teams are not allowed to pick map within the same bracket back-to-back (e.g. picking Hidden bracket twice).
-5. FreeMod will be a bracket with intention players can select between Hidden or HardRock or both, it's mandatory that each team member use different mod during the match (e.g. Player 1 is playing with Hidden, Player 2 is playing with HardRock).
+5. FreeMod will be a bracket with intention players can select between Hidden or Hard Rock or both, it's mandatory that each team member use different mod during the match (e.g. Player 1 is playing with Hidden, Player 2 is playing with Hard Rock).
 
 ### Group stage details
 

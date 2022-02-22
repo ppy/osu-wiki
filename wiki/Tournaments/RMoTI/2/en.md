@@ -101,10 +101,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Razihel & Virtual Riot - One For All, All For One (Fort) [Chaoz's Insane]](https://osu.ppy.sh/beatmapsets/275655#osu/671745)
   2. [SOUTAISEIRIRON - Shikaku Kakumei (EvilElvisV2) [Insane]](https://osu.ppy.sh/beatmapsets/135092#osu/338533)
-- HardRock
+- Hard Rock
   1. [CHiCO with HoneyWorks - color (monstrata) [K i A i's Insane]](https://osu.ppy.sh/beatmapsets/373114#osu/821339)
   2. [sky\_delta vs Street - Load of the Ciel (Nerova Riuz GX) [apple's Insane]](https://osu.ppy.sh/beatmapsets/365591#osu/808343)
-- DoubleTime
+- Double Time
   1. [sana - Kotonoha Clinic (Kite) [Hard]](https://osu.ppy.sh/beatmapsets/419189#osu/918202)
   2. [Zektbach - L'avide (Mao) [Hyper]](https://osu.ppy.sh/beatmapsets/123359#osu/339360)
 - FreeMod
@@ -123,7 +123,7 @@ This competition has come to an end and resulted in the following podium:
 ### General rules
 
 - The tournament will be held in 1v1 double-elimination format with traditional seeding.
-- The matches will be played using Score V2 and TeamVS settings.
+- The matches will be played using ScoreV2 and TeamVS settings.
 - A referee will be present in every match and every match will be streamed, with additional commentators when possible.
 - The tournament will be held over 2 weekends, joining the Discord server is mandatory at least for the duration of the tournament.
 - First day matches will be best of 5, second day matches best of 7, third day matches are best of 9, and fourth day matches will be best of 11.

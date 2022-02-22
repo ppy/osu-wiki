@@ -93,11 +93,11 @@ All prizes were awarded to osu! and osu!mania winners separately.
   1. [paranoid void - Utsukushii Kodoku (dsco) [Escapism]](https://osu.ppy.sh/beatmapsets/777597#osu/1633534)
   2. [Enter Shikari - Wall (Hectic) [Spectrum]](https://osu.ppy.sh/beatmapsets/1012220#osu/2118714)
   3. [sasakure.UK - Good Bye, Mr. Jack (Xilver15) [ReMiX]](https://osu.ppy.sh/beatmapsets/586425#osu/1241924)
-- HardRock
+- Hard Rock
   1. [Zektbach - Turii \~Panta rhei\~ (celerih) [Muya's Another]](https://osu.ppy.sh/beatmapsets/800638#osu/1731136)
   2. [Girl's Day - Ring My Bell (Natsu) [Insane]](https://osu.ppy.sh/beatmapsets/460322#osu/988429)
   3. [Icon For Hire - Cynics & Critics (Priti) [Extreme]](https://osu.ppy.sh/beatmapsets/296017#osu/664851)
-- DoubleTime
+- Double Time
   1. [SHK - Death Moon II (Hanyuu) [FARTOWNIK'S STAGE]](https://osu.ppy.sh/beatmapsets/7794#osu/41034)
   2. [Yuaru - Jitter Doll (-Laura-) [Belief]](https://osu.ppy.sh/beatmapsets/773512#osu/1625960)
   3. [senya - Kanjou Chemistry \(Drum 'n' Bass Remix\) (Satellite) [Satellite]](https://osu.ppy.sh/beatmapsets/92509#osu/258252)
@@ -114,11 +114,11 @@ All prizes were awarded to osu! and osu!mania winners separately.
   1. [senya - Kimiiro Subliminal (AtHeoN) [Extra Stage]](https://osu.ppy.sh/beatmapsets/418398#osu/905724)
   2. [Shindig - Zzz (squirrelpascals) [I'm Home]](https://osu.ppy.sh/beatmapsets/802730#osu/1684963)
   3. [senya - Zetsubou no Fuchi (-Mo-) [Abyssal]](https://osu.ppy.sh/beatmapsets/605290#osu/1278874)
-- HardRock
+- Hard Rock
   1. [BTS - Boy In Luv (Lilyanna) [Euny's Extra]](https://osu.ppy.sh/beatmapsets/529064#osu/1289157)
   2. [incinerate - Purgatorium (RikiH\_) [Heaven]](https://osu.ppy.sh/beatmapsets/54727#osu/166316)
   3. [MRVLZ - Her Name (VINXIS) [?]](https://osu.ppy.sh/beatmapsets/597833#osu/1263775)
-- DoubleTime
+- Double Time
   1. [ChouCho - Kuusou Triangle (CelsiusLK) [Insane]](https://osu.ppy.sh/beatmapsets/470971#osu/1006811)
   2. [La Cataline - Helical \(remix\) (La Cataline) [Insane]](https://osu.ppy.sh/beatmapsets/95716#osu/256892)
   3. [ShinRa-Bansho - Marisa wa Taihen na Mono o Nusunde Ikimashita ShinRa-Bansho Ver (Len) [Lunatic]](https://osu.ppy.sh/beatmapsets/1024028#osu/2142039)
@@ -135,11 +135,11 @@ All prizes were awarded to osu! and osu!mania winners separately.
   1. [Agent Fresco - Dark Water (Godot) [Destrier]](https://osu.ppy.sh/beatmapsets/761140#osu/1618950)
   2. [rerulili - Noushou Sakuretsu Girl (NatsumeRin) [Rin]](https://osu.ppy.sh/beatmapsets/63434#osu/187410)
   3. [iconoclasm feat.GUMI - Idola (toybot) [Meg's Extra]](https://osu.ppy.sh/beatmapsets/547821#osu/1173869)
-- HardRock
+- Hard Rock
   1. [S3RL - Bass Slut \(Original Mix\) (Secretpipe) [Kyshiro's Extra]](https://osu.ppy.sh/beatmapsets/375648#osu/836907)
   2. [Rigel Theatre - Rinn Ding Dong (kwk) [moph's Big Dong Extra]](https://osu.ppy.sh/beatmapsets/804648#osu/1724396)
   3. [Studio EIM - Crescent Moon Island Boss Theme (Rakuen) [ffstar's Insane]](https://osu.ppy.sh/beatmapsets/173422#osu/438328)
-- DoubleTime
+- Double Time
   1. [Nishino Kana - Darling (Giralda) [Insane]](https://osu.ppy.sh/beatmapsets/209810#osu/493755)
   2. [KOTOKO - Agony (Mystearica) [Absurd]](https://osu.ppy.sh/beatmapsets/10354#osu/40401)
   3. [C-Show - PANIC HOLIC \(VIP\) (Frey) [Hard]](https://osu.ppy.sh/beatmapsets/470405#osu/1005743)
@@ -156,11 +156,11 @@ All prizes were awarded to osu! and osu!mania winners separately.
   1. [Raujika - Land of Grace (Strawberry) [Gracy]](https://osu.ppy.sh/beatmapsets/73444#osu/209203)
   2. [Nekomata Master - Sayonara Heaven (deetz) [EX]](https://osu.ppy.sh/beatmapsets/989775#osu/2070432)
   3. [TOTAL OBJECTION - Higurashi Moratorium (NatsumeRin) [Fang]](https://osu.ppy.sh/beatmapsets/83310#osu/231390)
-- HardRock
+- Hard Rock
   1. [Souei Academy Light Music Club starring i.o - Sekai de Hitotsu no Takaramono (cRyo\[iceeicee\]) [Insane]](https://osu.ppy.sh/beatmapsets/52048#osu/159316)
   2. [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (Kawaiwkyik) [Insane]](https://osu.ppy.sh/beatmapsets/190754#osu/454158)
   3. [BTS - Spring Day (Cerulean Veyron) [Kawa's Extreme]](https://osu.ppy.sh/beatmapsets/619854#osu/1387895)
-- DoubleTime
+- Double Time
   1. [DECO\*27\*40mP - HOME (Kibbleru) [Reside]](https://osu.ppy.sh/beatmapsets/161545#osu/489768)
   2. [Pegboard Nerds - 20k \(Aero Chord Remix\) (TicClick) [\(Aka, TicCl!ck, Kyubey\)'s Hard]](https://osu.ppy.sh/beatmapsets/283707#osu/916081)
   3. [Rin' - Asuka (cmn\_891127) [Hard]](https://osu.ppy.sh/beatmapsets/52640#osu/160825)
@@ -177,11 +177,11 @@ All prizes were awarded to osu! and osu!mania winners separately.
   1. [Owl City - Up All Night (FrostxE) [Insane]](https://osu.ppy.sh/beatmapsets/301802#osu/676636)
   2. [Tujamo & Plastik Funk feat. Sneakbo - Dr. Who! \(Smooth Remix\) (Natteke) [Irre's Insane]](https://osu.ppy.sh/beatmapsets/207806#osu/552280)
   3. [dj TAKA feat.AiMEE - True Blue (ZZHBOY) [Insane]](https://osu.ppy.sh/beatmapsets/424743#osu/917430)
-- HardRock
+- Hard Rock
   1. [RADWIMPS - Hikari (Haruto) [Kalitarks' Insane]](https://osu.ppy.sh/beatmapsets/547714#osu/1184238)
   2. [Silent Spica - Anhedonia (Muya) [Hyper]](https://osu.ppy.sh/beatmapsets/60136#osu/181507)
   3. [Tsubaki - Kyun Kyun Tamaran Inaba tan! (Aenna) [Inaba!]](https://osu.ppy.sh/beatmapsets/35219#osu/114446)
-- DoubleTime
+- Double Time
   1. [Darren Korb - Setting Sail, Coming Home (Metal) [Insane]](https://osu.ppy.sh/beatmapsets/108461#osu/283593)
   2. [Tristam - I Remember (Imakuri) [Akitoshi's Hard]](https://osu.ppy.sh/beatmapsets/501920#osu/1081009)
   3. [Aoyama Misao - Kimi no WIND SONG (Gloria Guard) [Insane]](https://osu.ppy.sh/beatmapsets/74733#osu/212045)
@@ -196,10 +196,10 @@ All prizes were awarded to osu! and osu!mania winners separately.
 - Hidden
   1. [Araki - Teo (Nevo) [NiNo's Insane]](https://osu.ppy.sh/beatmapsets/759178#osu/1617047)
   2. [Yousei Teikoku - Kuraki Sekai no Doukoku \(Short Ver.\) (lolcubes) [Lamentation]](https://osu.ppy.sh/beatmapsets/71200#osu/204230)
-- HardRock
+- Hard Rock
   1. [yanaginagi - landscape (Hokichi) [insane]](https://osu.ppy.sh/beatmapsets/750583#osu/1580541)
   2. [Agressor Bunx - Tornado \(Original Mix\) (Shadren) [Insane]](https://osu.ppy.sh/beatmapsets/236292#osu/569636)
-- DoubleTime
+- Double Time
   1. [Krewella - Alive (Mao) [Gero's Hard]](https://osu.ppy.sh/beatmapsets/532713#osu/1269444)
   2. [GARNiDELiA - Gokuraku Jodo (Vert) [Soda's Hard]](https://osu.ppy.sh/beatmapsets/489039#osu/1289645)
 
@@ -430,15 +430,15 @@ This is a double-elimination tournament.
 #### osu!
 
 - Players have one ban in all bracket stages.
-- Players may pick Hidden or Flashlight for a DoubleTime map.
-- In a FreeMod pick, both players must use HardRock, Hidden, Flashlight, Easy, or a combination of any.
+- Players may pick Hidden or Flashlight for a Double Time map.
+- In a FreeMod pick, both players must use Hard Rock, Hidden, Flashlight, Easy, or a combination of any.
 - Players are allowed to use mods on Tiebreaker but is not required.
 - Players cannot pick the same mod twice in a row.
 
 #### osu!mania 4K
 
 - In stages prior to Grand Finals, players have one ban. In Grand Finals, they have two.
-- All charts will include FreeMod; no mods are required, but mods may be added if the player would like. Allowed mods are Hidden, FadeIn, Flashlight, and Mirror.
+- All charts will include FreeMod; no mods are required, but mods may be added if the player would like. Allowed mods are Hidden, Fade In, Flashlight, and Mirror.
 - If all players agree, Grand Finals may use the same mappool as Finals. In that case, players will only have one ban.
 
 [flag_CN]: /wiki/shared/flag/CN.gif "China"

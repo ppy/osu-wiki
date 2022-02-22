@@ -116,11 +116,11 @@ This competition has come to an end and resulted in the following podium:
   1. [USAO - Dynamite (Extended Mix) (sukiNathan) [TWERK]](https://osu.ppy.sh/beatmapsets/431697#osu/990396)
   2. [kamome sano - choux a la creme (Midge) [midgET]](https://osu.ppy.sh/beatmapsets/177143#osu/426482)
   3. [ARM feat. Nanahira - Bakunana\*Testroyer (intoon) [Nana]](https://osu.ppy.sh/beatmapsets/295581#osu/663992)
-- HardRock
+- Hard Rock
   1. [Draw the Emotional - Secret Treasure (EvilElvis) [Extra]](https://osu.ppy.sh/beatmapsets/291786#osu/656921)
   2. [nmk - sola (sjoy) [Extra]](https://osu.ppy.sh/beatmapsets/183267#osu/439135)
   3. [LiSA - EGOiSTiC SHOOTER (Asphyxia) [Extra]](https://osu.ppy.sh/beatmapsets/253313#osu/581623)
-- DoubleTime
+- Double Time
   1. [Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (Azer) [Collab]](https://osu.ppy.sh/beatmapsets/179323#osu/431147)
   2. [Neru - Lost One no Goukoku (goodbye) [Kotone]](https://osu.ppy.sh/beatmapsets/83547#osu/231475)
   3. [96Neko - Yoshiwara Lament (Minakami Yuki) [Insane]](https://osu.ppy.sh/beatmapsets/189377#osu/451227)
@@ -144,11 +144,11 @@ This competition has come to an end and resulted in the following podium:
   1. [sakuzyo - Imprinting (EvilElvis) [Extreme]](https://osu.ppy.sh/beatmapsets/370843#osu/812665)
   2. [Zips - Heisei Cataclysm (Dark Fang) [0108]](https://osu.ppy.sh/beatmapsets/72217#osu/220231)
   3. [xi - Hesperides (Crier) [Master]](https://osu.ppy.sh/beatmapsets/362352#osu/795867)
-- HardRock
+- Hard Rock
   1. [Function Phantom - Algebra (Bonzi) [Incomputable]](https://osu.ppy.sh/beatmapsets/300195#osu/673275)
   2. [Shiraishi - Shinsekai (AngelHoney) [Insane]](https://osu.ppy.sh/beatmapsets/24634#osu/83674)
   3. [toby fox - MEGALOVANIA (Kyshiro) [Extra]](https://osu.ppy.sh/beatmapsets/387700#osu/925540)
-- DoubleTime
+- Double Time
   1. [Hatsune Miku - Netoge Haijin Sprechchor (Lalarun) [Insane]](https://osu.ppy.sh/beatmapsets/25802#osu/87369)
   2. [07th Expansion - lixAxil (La Cataline) [Insane]](https://osu.ppy.sh/beatmapsets/37627#osu/125944)
   3. [lily-an - The Starry true (Delis) [Lunatic]](https://osu.ppy.sh/beatmapsets/158744#osu/388170)
@@ -172,11 +172,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Seiryu - BLUE DRAGON (Blue Dragon) [Kyshiro's Extra]](https://osu.ppy.sh/beatmapsets/326920#osu/898576)
   2. [M2U & NICODE feat. Guriri & Lucy - Myosotis (-kevincela-) [Taeyang's Extra]](https://osu.ppy.sh/beatmapsets/319418#osu/883790)
   3. [Kairiki bear - Manemane Psychotropic (scanter) [Psycho]](https://osu.ppy.sh/beatmapsets/113398#osu/541797)
-- HardRock
+- Hard Rock
   1. [Dark PHOENiX - Locked Girl \~ The Girl's Secret Room (sjoy) [Lunatic]](https://osu.ppy.sh/beatmapsets/310687#osu/694305)
   2. [LeaF - MEPHISTO (Alumetorz) [Extra]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
   3. [Kano - Houkago Stride (Pho) [Extra Collab]](https://osu.ppy.sh/beatmapsets/289985#osu/654220)
-- DoubleTime
+- Double Time
   1. [Sana - Byoumei Koiwazurai (\[ Joey \]) [Insane]](https://osu.ppy.sh/beatmapsets/220636#osu/609741)
   2. [rerulili feat. Dancing Dolls - Kami no Manimani (xlni) [Insane]](https://osu.ppy.sh/beatmapsets/198567#osu/471098)
   3. [Katy Perry - E.T. (La Cataline) [Futuristic]](https://osu.ppy.sh/beatmapsets/36077#osu/116708)
@@ -200,11 +200,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Pierce The Veil - The First Punch (Milan-) [pishi's Extra]](https://osu.ppy.sh/beatmapsets/309867#osu/711678)
   2. [REFLEC BEAT (Zektbach) - meme (AngelHoney) [ExtrA]](https://osu.ppy.sh/beatmapsets/68617#osu/198428)
   3. [JO\*STARS \~TOMMY, Coda, JIN\~ - JoJo Sono Chi no Kioku\~end of THE WORLD\~ (Atsuro) [deetz' Extra]](https://osu.ppy.sh/beatmapsets/269969#osu/635865)
-- HardRock
+- Hard Rock
   1. [Primary - in the Garden (Heanday) [Ha-N]](https://osu.ppy.sh/beatmapsets/235120#osu/998644)
   2. [Yuaru - Asu no Yozora Shoukaihan (Akitoshi) [dqs01733's Extra]](https://osu.ppy.sh/beatmapsets/384772#osu/840686)
   3. [Qrispy Joybox feat.mao - Umeyukiyo (LKs) [Insane]](https://osu.ppy.sh/beatmapsets/100040#osu/265643)
-- DoubleTime
+- Double Time
   1. [Kawada Mami - PSI-missing -2011 remix- (JauiPlaY) [Jauignore]](https://osu.ppy.sh/beatmapsets/38627#osu/123573)
   2. [Mitchie M - Viva Happy (Natsu) [Insane]](https://osu.ppy.sh/beatmapsets/120002#osu/317917)
   3. [senya - Kimi to Dareka no Yasashisa ni (kakifly) [Affection]](https://osu.ppy.sh/beatmapsets/250337#osu/596161)
@@ -228,11 +228,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Liliana Sisters - Life-Ru is LOVE-Ru!! (Fycho) [cRyo's Insane]](https://osu.ppy.sh/beatmapsets/96330#osu/332754)
   2. [Sota Fujimori - WOBBLE IMPACT (Priti) [Black Another]](https://osu.ppy.sh/beatmapsets/166337#osu/421743)
   3. [Franz Liszt - La Campanella (8 Bit Remix) (Louis Cyphre) [Extreme]](https://osu.ppy.sh/beatmapsets/383094#osu/857481)
-- HardRock
+- Hard Rock
   1. [Demetori - Furuki Yuanxian \~ Death Echo (jonathanlfj) [Lunatic]](https://osu.ppy.sh/beatmapsets/291517#osu/656386)
   2. [Hatsune Miku - Tenshinranman High Collar Hime (NatsumeRin) [Rin]](https://osu.ppy.sh/beatmapsets/55115#osu/167718)
   3. [paraoka - boot (Laurier) [Insane]](https://osu.ppy.sh/beatmapsets/50479#osu/155632)
-- DoubleTime
+- Double Time
   1. [Usa - Shining/STREAM (HelloSCV) [Lunatic]](https://osu.ppy.sh/beatmapsets/67444#osu/195946)
   2. [Hatsuki Yura - confession -Mitsuyaku Langage- (Kotone) [Confession]](https://osu.ppy.sh/beatmapsets/74126#osu/244038)
   3. [07th Expansion - miragecoordinator (La Cataline) [Hard]](https://osu.ppy.sh/beatmapsets/31116#osu/102426)
@@ -256,11 +256,11 @@ This competition has come to an end and resulted in the following podium:
   1. [PESS vs t.A.T.u. - All The Things She Said (DnB Remix) (spboxer3) [Stressboxer]](https://osu.ppy.sh/beatmapsets/73185#osu/295985)
   2. [MiddleIsland - Piano Concerto No.1 "Scream" (apaffy) [woof's Extra]](https://osu.ppy.sh/beatmapsets/110126#osu/376703)
   3. [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) [Crazy Jay]](https://osu.ppy.sh/beatmapsets/24448#osu/91462)
-- HardRock
+- Hard Rock
   1. [goreshit - MATZcore (\_LRJ\_) [Hardcore]](https://osu.ppy.sh/beatmapsets/24388#osu/83974)
   2. [MYTK - Yggdrasil (P o M u T a) [dksslqj's EXHAUST]](https://osu.ppy.sh/beatmapsets/137973#osu/346653)
   3. [ginkiha - EOS (alacat) [RLC's Another]](https://osu.ppy.sh/beatmapsets/151720#osu/421532)
-- DoubleTime
+- Double Time
   1. [Dave Rodgers - Deja Vu (Faust) [Street Stage]](https://osu.ppy.sh/beatmapsets/469679#osu/1054656)
   2. [Haruna Luna - Startear (Melophobia) [Insane]](https://osu.ppy.sh/beatmapsets/208426#osu/490802)
   3. [Tsukasa - Accelerator (meiikyuu) [Sakuya's Heavy]](https://osu.ppy.sh/beatmapsets/46084#osu/154410)
@@ -284,11 +284,11 @@ This competition has come to an end and resulted in the following podium:
   1. [ALiCE'S EMOTiON - LUNA (Frostmourne) [Lunatic]](https://osu.ppy.sh/beatmapsets/47124#osu/152180)
   2. [Underoath - A Moment Suspended in Time (Milan-) [Insane]](https://osu.ppy.sh/beatmapsets/407575#osu/885357)
   3. [C-Show - Rocking to the Beat (Priti) [Extra Collab]](https://osu.ppy.sh/beatmapsets/305938#osu/923329)
-- HardRock
+- Hard Rock
   1. [FujuniseikouyuuP - FREEDMAN (val0108) [Insane]](https://osu.ppy.sh/beatmapsets/108529#osu/304179)
   2. [Studio EIM - Crescent Moon Island Boss Theme (Rakuen) [Insane]](https://osu.ppy.sh/beatmapsets/173422#osu/653128)
   3. [ryo (supercell) feat.chelly - Great Distance (monstrata) [Insane]](https://osu.ppy.sh/beatmapsets/329473#osu/741619)
-- DoubleTime
+- Double Time
   1. [Gentle Stick X M2U - Ineffabilis (buhei) [Regraz's Hard]](https://osu.ppy.sh/beatmapsets/340903#osu/794710)
   2. [Celldweller - The Best It's Gonna Get (Vass\_Bass) [Best]](https://osu.ppy.sh/beatmapsets/36529#osu/118019)
   3. [KOTOKO - thyme (alacat) [D.N.Angel]](https://osu.ppy.sh/beatmapsets/51204#osu/157516)
@@ -664,7 +664,7 @@ Wednesday, 1 February 2017:
 
 - This tournament is a 2v2 double-elimination British osu! tournament.
 - This tournament will consist of up to 128 teams.
-- Matches will be Team Vs, with score v2 as the scoring system used.
+- Matches will be Team Vs, with ScoreV2 as the scoring system used.
 - To be able to participate, players must have a ![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag, otherwise the team must be able to provide proof of residency to the hosts.
 - UK Staff are able to participate.
 - The combined team rank must be worse than #1000 to play, ranks will be calculated once the registration phase has concluded.

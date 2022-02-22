@@ -71,11 +71,11 @@ All individual match results can be found on the Challonge page linked above.
   1. [Camellia feat. Nanahira - Amor De Verao (Tofu1222) [Mir's Extra]](https://osu.ppy.sh/beatmapsets/746316#osu/1573999)
   2. [maras k - Play Time!! (Reol) [Let's Play]](https://osu.ppy.sh/beatmapsets/345325#osu/762631)
   3. [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion (pishifat) [Extra]](https://osu.ppy.sh/beatmapsets/684060#osu/1447689)
-- HardRock
+- Hard Rock
   1. [Dirty Androids - Egret and Willow (My Rabbit Chino) [bird in a droopy tree]](https://osu.ppy.sh/beatmapsets/810594#osu/1700678)
   2. [Perfume - Daijobanai (Leminine) [#Trash+Not_Okay]](https://osu.ppy.sh/beatmapsets/450272#osu/966034)
   3. [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE (pkk) [captin's Legend]](https://osu.ppy.sh/beatmapsets/210346#osu/495633)
-- DoubleTime
+- Double Time
   1. [sana - Kotonoha Clinic (Kite) [Moroi]](https://osu.ppy.sh/beatmapsets/419189#osu/907200)
   2. [ClariS - SHIORI (lit120) [toybot's Insane]](https://osu.ppy.sh/beatmapsets/720193#osu/1614074)
   3. [Hatsune Miku - Netoge Haijin Sprechchor (Lalarun) [Insane]](https://osu.ppy.sh/beatmapsets/25802#osu/87369)
@@ -98,11 +98,11 @@ All individual match results can be found on the Challonge page linked above.
   1. [xi feat. Sta - Tiferet (ktgster) [Another]](https://osu.ppy.sh/beatmapsets/714225#osu/1509637)
   2. [Streetlight Manifesto - Everything Went Numb (pishifat) [Extreme]](https://osu.ppy.sh/beatmapsets/414289#osu/898106)
   3. [Camellia - Fastest Crash (sukiNathan) [RLC's Paroxysm]](https://osu.ppy.sh/beatmapsets/331025#osu/733432)
-- HardRock
+- Hard Rock
   1. [Eisyo-kobu - Oriental Blossom (Crystal) [rasis's Extra]](https://osu.ppy.sh/beatmapsets/586889#osu/1242795)
   2. [Jeff Williams - Die (feat. Casey Lee Williams) (LunarFox) [Extra]](https://osu.ppy.sh/beatmapsets/288824#osu/959272)
   3. [Fearofdark - There'll Always Be Next Year (Bonsai) [Extra]](https://osu.ppy.sh/beatmapsets/572127#osu/1212390)
-- DoubleTime
+- Double Time
   1. [SHK - Death Moon II (ktgster) [Insane]](https://osu.ppy.sh/beatmapsets/472158#osu/1009021)
   2. [Haruna Luna - Kimiiro Signal (CelsiusLK) [Expert]](https://osu.ppy.sh/beatmapsets/326621#osu/725166)
   3. [Taketatsu Ayana - Majokko Mirakurun (popner) [Mirakurun!]](https://osu.ppy.sh/beatmapsets/45016#osu/142893)
@@ -125,11 +125,11 @@ All individual match results can be found on the Challonge page linked above.
   1. [Dormir - Cookie Bouquets (dsco) [Ultra]](https://osu.ppy.sh/beatmapsets/675125#osu/1453420)
   2. [FELT - New World (Hakurei Yoru) [Nightmare]](https://osu.ppy.sh/beatmapsets/486207#osu/1036841)
   3. [DCX - Flying High (DJ Splash Remix) (Inozuma) [InoSane]](https://osu.ppy.sh/beatmapsets/22194#osu/76663)
-- HardRock
+- Hard Rock
   1. [Eoin O' Broin - Oblivion (DoKito) [Insane]](https://osu.ppy.sh/beatmapsets/37222#osu/119853)
   2. [C-Show VS lapix - Hi-TECHOLIC (Cassu2) [HI-TECH]](https://osu.ppy.sh/beatmapsets/560657#osu/1185579)
   3. [onoken - K8107 (MaridiuS) [DeviousPanda's Extra]](https://osu.ppy.sh/beatmapsets/807396#osu/1704553)
-- DoubleTime
+- Double Time
   1. [Kano - Stella-rium (Moeka) [Sekai's Insane]](https://osu.ppy.sh/beatmapsets/356821#osu/794551)
   2. [senya - Magica (Satellite) [SatelliteFrostMix]](https://osu.ppy.sh/beatmapsets/91791#osu/248474)
   3. [Nekomata Master - Greening (Ultima Fox) [Hobbes2's Insane]](https://osu.ppy.sh/beatmapsets/581012#osu/1263705)
@@ -151,10 +151,10 @@ All individual match results can be found on the Challonge page linked above.
 - Hidden
   1. [Seeed - Ding (IceKalt) [Deramok's Hidden Extra]](https://osu.ppy.sh/beatmapsets/727333#osu/1570419)
   2. [USAO - Miracle 5ympho X (Mel) [Kotori's Extreme]](https://osu.ppy.sh/beatmapsets/137394#osu/902709)
-- HardRock
+- Hard Rock
   1. [Doin - Further (Down) [Nasmoeb's Insane]](https://osu.ppy.sh/beatmapsets/780833#osu/1641848)
   2. [ONE OK ROCK - Memories (Komore) [FCL's Extra]](https://osu.ppy.sh/beatmapsets/684590#osu/1459357)
-- DoubleTime
+- Double Time
   1. [DJ Sadan - Theme of Laura (IceBeam) [Insane]](https://osu.ppy.sh/beatmapsets/38281#osu/122776)
   2. [senya - Kataomoi no Bigaku (Satellite) [Aesthetics]](https://osu.ppy.sh/beatmapsets/363504#osu/798083)
 - FreeMod
@@ -174,10 +174,10 @@ All individual match results can be found on the Challonge page linked above.
 - Hidden
   1. [Warak - REANIMATE (Skystar) [LV. 10.1]](https://osu.ppy.sh/beatmapsets/209103#osu/495541)
   2. [el-ma - CaptivAte2~Kakusei~ (lzy) [Another]](https://osu.ppy.sh/beatmapsets/16845#osu/60262)
-- HardRock
+- Hard Rock
   1. [LiSA - EGOiSTiC SHOOTER (Kyshiro) [Kyshiro's Extra]](https://osu.ppy.sh/beatmapsets/253313#osu/613671)
   2. [void feat. Komatsuna - Akatsuki no Tsuki (Cherry Blossom) [Extra]](https://osu.ppy.sh/beatmapsets/212387#osu/499343)
-- DoubleTime
+- Double Time
   1. [ChouCho - My dear friend (Delis) [Insane]](https://osu.ppy.sh/beatmapsets/206079#osu/486131)
   2. [livetune feat. Hatsune Miku - Tell Your World (Colin Hou) [Insane]](https://osu.ppy.sh/beatmapsets/42110#osu/132608)
 - FreeMod
@@ -196,10 +196,10 @@ All individual match results can be found on the Challonge page linked above.
 - Hidden
   1. [Shoichiro Sakamoto - Eye of Aeon (KanaRin) [Aeon]](https://osu.ppy.sh/beatmapsets/26528#osu/89362)
   2. [DJ S3RL - T-T-Techno (feat. Jesskah) (nold_1702) [Technonationalism]](https://osu.ppy.sh/beatmapsets/83560#osu/655794)
-- HardRock
+- Hard Rock
   1. [sakuzyo - VALLISTA (Turquoise-) [Shiinoha's Another]](https://osu.ppy.sh/beatmapsets/750404#osu/1601043)
   2. [Akiakane - FlashBack (Kiiwa) [Insane]](https://osu.ppy.sh/beatmapsets/54672#osu/166126)
-- DoubleTime
+- Double Time
   1. [YUI - Rolling star (pkhg) [Insane]](https://osu.ppy.sh/beatmapsets/351838#osu/775380)
   2. [senya - Koyoi Index (jonathanlfj) [Lunatic]](https://osu.ppy.sh/beatmapsets/234455#osu/543814)
 - FreeMod
@@ -217,10 +217,10 @@ All individual match results can be found on the Challonge page linked above.
 - Hidden
   1. [Momokurotei Ichimon - Nippon Egao Hyakkei (Kite) [Insane]](https://osu.ppy.sh/beatmapsets/59569#osu/178487)
   2. [Seiryu - Ultramarine (wantuole) [Insane]](https://osu.ppy.sh/beatmapsets/124221#osu/316769)
-- HardRock
+- Hard Rock
   1. [ZYTOKINE - Dancing Dollz feat. cold kiss - REDALiCE Remix (MaridiuS) [Akitoshi's Insane]](https://osu.ppy.sh/beatmapsets/690966#osu/1464219)
   2. [Subplaid - Only time makes your happiness (grumd) [Insane]](https://osu.ppy.sh/beatmapsets/48045#osu/148756)
-- DoubleTime
+- Double Time
   1. [senya - Replica no Koi (Satellite) [Satellite]](https://osu.ppy.sh/beatmapsets/67506#osu/245924)
   2. [Tianshi - Melancholic (NatsumeRin) [Rin]](https://osu.ppy.sh/beatmapsets/27380#osu/92471)
 - FreeMod
@@ -235,7 +235,7 @@ All individual match results can be found on the Challonge page linked above.
 
 - This is an 1v1 double elimination osu! tourney for Australian/New Zealand players only.
 - Participants must have an Australian or New Zealand flag on their osu profile.
-- Matches will be **Head to Head** with **Score V2** as the scoring system.
+- Matches will be **Head to Head** with **ScoreV2** as the scoring system.
 - Any harassment or abuse of a staff member or other players will result in an expulsion from the tournament.
 - If a problem occurs where rules are not clear, use common sense. Further questions can be directed to admins. Administration has final say regarding these situations.
 - In order for your registration to count, you must **fill out the form, join the discord, and change your name to your osu! username**.

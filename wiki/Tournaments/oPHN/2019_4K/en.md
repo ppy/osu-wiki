@@ -294,7 +294,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
   - **Quarterfinals and Semifinals**: 14 song mappool, best of 11 (first to 6), one tiebreaker song
   - **Finals Weeks 1 and 2**: 16 song mappool, best of 13 (first to 7), one tiebreaker song
 - All matches held are using a 1 player versus 1 player rule.
-- All rounds are to use the **restrictive FreeMod** rules (only NoMod, Flashlight, FadeIn, or Hidden are permitted to be used while playing), in addition, **Score v2** is implemented.
+- All rounds are to use the **restrictive FreeMod** rules (only NoMod, Flashlight, Fade In, or Hidden are permitted to be used while playing), in addition, **ScoreV2** is implemented.
 
 #### Qualification process
 

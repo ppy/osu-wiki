@@ -117,12 +117,12 @@ This competition has come to an end and resulted in the following podium:
   2. [Beatdrop - Phase 1 (rickyboi) \[SHD\]](https://osu.ppy.sh/beatmapsets/54511#fruits/168031)
   3. [HujuniseikouyuuP - Talent Shredder (Lesjuh) \[Lesjuh style\]](https://osu.ppy.sh/beatmapsets/47710#fruits/153857)
   4. [Hyadain - Chocobo (mtmcl) \[Gold\]](https://osu.ppy.sh/beatmapsets/4392#fruits/24023)
-- HardRock
+- Hard Rock
   1. [Demetori - Emotional Skyscraper \~ World's End (happy30) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/13223#fruits/53554)
   2. [Megpoid GUMI - Poker Face (NatsumeRin) \[Spade\]](https://osu.ppy.sh/beatmapsets/24782#fruits/84801)
   3. [Memme - BSPower Explosion (yeahyeahyeahhh) \[Baka yyy\]](https://osu.ppy.sh/beatmapsets/45760#fruits/142772)
   4. [t+pazolite - chipscape (Shiirn) \[Ragnarok\]](https://osu.ppy.sh/beatmapsets/27752#fruits/95382)
-- DoubleTime
+- Double Time
   1. [Hommarju feat. Latte - masterpiece (simplistiC) \[Insane\]](https://osu.ppy.sh/beatmapsets/12483#fruits/47152)
   2. [Kagamine Rin & Len - Streamline Prism (banvi) \[Jumping\]](https://osu.ppy.sh/beatmapsets/28894#fruits/96142)
   3. [KOTOKO - Light My Fire (osuplayer111) \[Insane\]](https://osu.ppy.sh/beatmapsets/37838#fruits/121429)
@@ -145,10 +145,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Eoin O' Broin - Deep Space (galvenize) \[Another\]](https://osu.ppy.sh/beatmapsets/25098#fruits/85550)
   2. [Susumu Hirasawa - Big Brother (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10714#fruits/42244)
-- HardRock
+- Hard Rock
   1. [Hatsune Miku - Rubik's Cube (rui) \[7x7x7\]](https://osu.ppy.sh/beatmapsets/33651#fruits/114635)
   2. [Skrillex - Bangarang (feat. Sirah) (Cut Ver.) (La Cataline) \[LC\]](https://osu.ppy.sh/beatmapsets/42311#fruits/133476)
-- DoubleTime
+- Double Time
   1. [Nien - MiNd CoNTRoL (Lesjuh) \[HardStyle\]](https://osu.ppy.sh/beatmapsets/7612#fruits/32438)
   2. [Sound Horizon - Raijin no Hidariude (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/16792#fruits/60089)
 - Tiebreaker
@@ -168,10 +168,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Furries in a Blender - Ridorii (-Lennox-) \[Insane\]](https://osu.ppy.sh/beatmapsets/29727#fruits/98496)
   2. [Ryu\* Vs. Sota - Go Beyond!! (Sprosive) \[Extra445\]](https://osu.ppy.sh/beatmapsets/19705#fruits/84398)
-- HardRock
+- Hard Rock
   1. [Hatsune Miku - Yellow (Krisom) \[Insane\]](https://osu.ppy.sh/beatmapsets/17624#fruits/65312)
   2. [Hyadain - Hyadain no Joujou Yuujou (TV Size) (Saten-san) \[Saten's SELAMAT PAGI\]](https://osu.ppy.sh/beatmapsets/32775#fruits/112586)
-- DoubleTime
+- Double Time
   1. [Korpiklaani - Vodka (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/26886#fruits/90466)
   2. [Nico Nico Douga - Evansama (Cirno) \[Deep Dark Fantasy\]](https://osu.ppy.sh/beatmapsets/27959#fruits/93426)
 - Tiebreaker
@@ -189,10 +189,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Renard - WI-FI BRIDGE (ztrot) \[Insane?\]](https://osu.ppy.sh/beatmapsets/39368#fruits/136749)
   2. [Susumu Hirasawa - Parade (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/8487#fruits/34819)
-- HardRock
+- Hard Rock
   1. [ClariS - Connect (TV Size) (Crazy Jay) \[Crazy Jay\]](https://osu.ppy.sh/beatmapsets/24565#fruits/84922)
   2. [Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/19789#fruits/69405)
-- DoubleTime
+- Double Time
   1. [Alex C. feat. Yasmin K. - Angel of Darkness (Nightcore Mix) (Andrea) \[Insane\]](https://osu.ppy.sh/beatmapsets/21949#fruits/75987)
   2. [Kucchy vs Akky - Yakumo \~ JOINT STRUGGLE (DJPop) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/12909#fruits/48096)
 - Tiebreaker
@@ -210,10 +210,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [07th Expansion - rog-unlimitation (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/28751#fruits/95733)
   2. [DJ YOSHITAKA - FLOWER (TKiller) \[Intense\]](https://osu.ppy.sh/beatmapsets/29996#fruits/104635)
-- HardRock
+- Hard Rock
   1. [Baracuda - La Di Da (Nightcore Mix) (Kecco) \[Kecco's La Di Da\]](https://osu.ppy.sh/beatmapsets/17852#fruits/63559)
   2. [XL Project - Starmine (Glass) \[Hard\]](https://osu.ppy.sh/beatmapsets/15964#fruits/57475)
-- DoubleTime
+- Double Time
   1. [Chata - Yuujou Pop (Rorry) \[Ai\]](https://osu.ppy.sh/beatmapsets/22404#fruits/77781)
   2. [Nekomata Master - Suijou no Teitoku (Short mix from "Gensou Suikoden V") (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/35116#fruits/119071)
 - Tiebreaker
@@ -233,10 +233,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Nekomata Master feat. Sana - Indigo Bird (fartownik) \[Master\]](https://osu.ppy.sh/beatmapsets/40507#fruits/128499)
   2. [Susumu Hirasawa - CHEVRON (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/29440#fruits/97923)
-- HardRock
+- Hard Rock
   1. [DECO\*27 feat. marina - Aimai Elegy (Mafiamaster) \[Hard\]](https://osu.ppy.sh/beatmapsets/27306#fruits/93732)
   2. [Pendulum - The Vulture (La Cataline) \[Insane\]](https://osu.ppy.sh/beatmapsets/24163#fruits/82249)
-- DoubleTime
+- Double Time
   1. [Nekomata Master - Far east nightbird (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/29538#fruits/97942)
   2. [Tatsh feat. ENA - Flash -2nd Desire- (Miya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/44042#fruits/139597)
 - Tiebreaker
@@ -256,10 +256,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [dB soundworks - It Ends (Cut Ver.) (Deif) \[Deif's Meat Platter\]](https://osu.ppy.sh/beatmapsets/39256#fruits/142489)
   2. [IOSYS - Usatei 2011 (Saten) \[Tewi\]](https://osu.ppy.sh/beatmapsets/37563#fruits/120716)
-- HardRock
+- Hard Rock
   1. [DJ Okawari - Flower Dance (JauiPlaY) \[Flower\]](https://osu.ppy.sh/beatmapsets/33688#fruits/123417)
   2. [fripSide - memory of snow (KanaRin) \[Kana\]](https://osu.ppy.sh/beatmapsets/26097#fruits/88247)
-- DoubleTime
+- Double Time
   1. [Yellow Zebra - Melody! (wcx19911123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450#fruits/142099)
   2. [Yousei Teikoku - Weiss Fluegel (lolcubes) \[Insane\]](https://osu.ppy.sh/beatmapsets/39320#fruits/125434)
 - Tiebreaker
@@ -426,12 +426,12 @@ At the beginning of each week, look here for the map pool for the specific round
 
 1. Each team can only pick 1 mod specific map from each mod pool per match.
 2. Picking from the non-mod pool is unlimited.
-3. You may combine Hidden mod with DoubleTime or HardRock maps but **all players** need to agree with this first! Referee has the power to deny this if it is not respected.
+3. You may combine Hidden mod with Double Time or Hard Rock maps but **all players** need to agree with this first! Referee has the power to deny this if it is not respected.
 4. This is how the map pool would look like:
    - NoMod: 6 maps
    - Hidden: 2 maps
-   - HardRock: 2 maps
-   - DoubleTime: 2 maps
+   - Hard Rock: 2 maps
+   - Double Time: 2 maps
    - Tiebreaker: 1 (NoMod), in case of a tie
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"

@@ -79,7 +79,7 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 | ![][flag_PL] | **Poland** | **[Tidek](https://osu.ppy.sh/users/743282)**, [Benzopirene](https://osu.ppy.sh/users/1887068), [-Kamikaze-](https://osu.ppy.sh/users/2124783), [Kroly-](https://osu.ppy.sh/users/6382502), [SitekX](https://osu.ppy.sh/users/3840946), [Transformau5](https://osu.ppy.sh/users/3109917) |
 | ![][flag_RU] | **Russian Federation** | **[Mage](https://osu.ppy.sh/users/5527957)**, [\[PhobosX\]](https://osu.ppy.sh/users/2570019), [AngeloLagusa](https://osu.ppy.sh/users/9074986), [Faikren](https://osu.ppy.sh/users/5948345), [OrphicX](https://osu.ppy.sh/users/6673780), [U1wknUzeU6](https://osu.ppy.sh/users/6930247) |
 | ![][flag_SG] | **Singapore** | **[Evening](https://osu.ppy.sh/users/2193881)**, [DotZeix](https://osu.ppy.sh/users/4363028), [Ezo](https://osu.ppy.sh/users/2095061), [Lindyes](https://osu.ppy.sh/users/7462804), [OrienST8](https://osu.ppy.sh/users/4574597), [saikooppai](https://osu.ppy.sh/users/7288030) |
-| ![][flag_KR] | **South Korea** | **[jakads](https://osu.ppy.sh/users/259972)**, [blueBloody](https://osu.ppy.sh/users/8046839), [cheetose](https://osu.ppy.sh/users/3817144), [Cobo-](https://osu.ppy.sh/users/1482965), [SuddenDeath](https://osu.ppy.sh/users/6699923) |
+| ![][flag_KR] | **South Korea** | **[jakads](https://osu.ppy.sh/users/259972)**, [blueBloody](https://osu.ppy.sh/users/8046839), [cheetose](https://osu.ppy.sh/users/3817144), [Cobo-](https://osu.ppy.sh/users/1482965), [Sudden Death](https://osu.ppy.sh/users/6699923) |
 | ![][flag_ES] | **Spain** | **[aitor98](https://osu.ppy.sh/users/3154852)**, [Asesingta](https://osu.ppy.sh/users/5037769), [HotSaucezZ](https://osu.ppy.sh/users/7408290), [Hydragyrum](https://osu.ppy.sh/users/6440453), [ran-](https://osu.ppy.sh/users/5442427), [Userbacker](https://osu.ppy.sh/users/1872307) |
 | ![][flag_Se] | **Sweden** | **[-Saoeri-](https://osu.ppy.sh/users/6702799)**, [\[ Vento \]](https://osu.ppy.sh/users/1612580), [Couil](https://osu.ppy.sh/users/6872025), [Craty](https://osu.ppy.sh/users/3918056), [Dez](https://osu.ppy.sh/users/2860775), [Xytox](https://osu.ppy.sh/users/2229274) |
 | ![][flag_CH] | **Switzerland** | **[Gamer97](https://osu.ppy.sh/users/4952941)**, [Akayro](https://osu.ppy.sh/users/2573716), [AkayroFanGirl](https://osu.ppy.sh/users/3974114), [basti78](https://osu.ppy.sh/users/28222) |
@@ -367,7 +367,7 @@ Sunday, 13 August 2017:
 
 1. The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode with 4-key specific beatmaps.
    - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
-2. Map scoring is based on **Score V2**.
+2. Map scoring is based on **ScoreV2**.
 3. The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - The Group Stage mappool will be announced after the drawings.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
@@ -475,7 +475,7 @@ Sunday, 13 August 2017:
    - The Finals mappool has 16 maps in total.
 3. Each mappool has one tiebreaker.
 4. All beatmaps will be played under the FreeMod conditions.
-   - Allowed mods are [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In) and [Flashlight](/wiki/Game_modifier/Flashlight).
+   - Allowed mods are [Hidden](/wiki/Game_modifier/Hidden), [Fade In](/wiki/Game_modifier/Fade_In) and [Flashlight](/wiki/Game_modifier/Flashlight).
    - The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling instructions

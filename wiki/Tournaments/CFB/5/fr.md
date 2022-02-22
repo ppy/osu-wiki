@@ -98,12 +98,12 @@ La compétition s'est terminée et à donné le podium ci-dessous:
   2. [Morohoshi Sumire - Masshiro (TV Size) (Greaper) \[Ascendance's Ascendance\]](https://osu.ppy.sh/beatmapsets/1047988#fruits/2192596)
   3. [Rameses B - Dream Catcher (feat. Charlotte Haining) (Cut Ver.) (Fall) \[Kowari's Insane\]](https://osu.ppy.sh/beatmapsets/1174503#fruits/2541782)
   4. [Halogen - U Got That (Camellia's Neurofunk Bootleg) (Sotarks) \[Reform's Insane\]](https://osu.ppy.sh/beatmapsets/934144#fruits/1951094)
-- HardRock
+- Hard Rock
   1. [ak+q - Axium Crisis (Lacrima) \[Salad\]](https://osu.ppy.sh/beatmapsets/996639#fruits/2089195)
   2. [bbn - Identic Conflict (ZiRoX) \[Salad\]](https://osu.ppy.sh/beatmapsets/233268#fruits/541657)
   3. [sasakure.UK - Jack-the-Ripper (Sprosive) \[Hyper\]](https://osu.ppy.sh/beatmapsets/23907#fruits/94562)
   4. [Zektbach - Apocalypse \~dirge of swans\~ (proseyu) \[Hard\]](https://osu.ppy.sh/beatmapsets/8987#fruits/36360)
-- DoubleTime
+- Double Time
   1. [BUTAOTOME - Gensou no Satellite (Spectator) \[Xetopia's Platter\]](https://osu.ppy.sh/beatmapsets/699439#fruits/1615649)
   2. [Zekk - Fluctuation (Jemzuu) \[Salad\]](https://osu.ppy.sh/beatmapsets/1148215#fruits/2417431)
   3. [Yorushika - Itte. (deetz) \[Hard\]](https://osu.ppy.sh/beatmapsets/985066#fruits/2061307)
@@ -127,12 +127,12 @@ La compétition s'est terminée et à donné le podium ci-dessous:
   2. [HO-KAGO TEA TIME - Cagayake!GIRLS \[5nin Ver.\] (TV size Ver.) (Ascendance) \[Platter\]](https://osu.ppy.sh/beatmapsets/329829#fruits/751632)
   3. [Aiobahn - Koko ni Iru (feat. rionos) (Gero) \[I'm Here\]](https://osu.ppy.sh/beatmapsets/1129013#fruits/2358653)
   4. [USAO - Night Sky (Mel) \[Vortex's Hyper\]](https://osu.ppy.sh/beatmapsets/376397#fruits/824094)
-- HardRock
+- Hard Rock
   1. [Komiya Mao - (can you) understand me? (Daletto) \[wonchicken's Salad?\]](https://osu.ppy.sh/beatmapsets/828703#fruits/1777430)
   2. [succducc - me & u (Spectator) \[salad\]](https://osu.ppy.sh/beatmapsets/1281611#fruits/2664387)
   3. [supercell - My Dearest (TV Edit) (monstrata) \[Milan-'s Hard\]](https://osu.ppy.sh/beatmapsets/370819#fruits/825231)
   4. [Paradise Fears - Home (Sped Up & Cut Ver.) (we vibing) \[SoraxBae's Hard\]](https://osu.ppy.sh/beatmapsets/1291653#fruits/2691431)
-- DoubleTime
+- Double Time
   1. [Yuduki - Ano Hi e (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/1068477#fruits/2236893)
   2. [senya - Utakata, Ai no Mahoroba (Ascendance) \[Platter\]](https://osu.ppy.sh/beatmapsets/744222#fruits/1572472)
   3. [Nana Takahashi - The Party We Have Never Seen (jonathanlfj) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/405516#fruits/906489)
@@ -154,11 +154,11 @@ La compétition s'est terminée et à donné le podium ci-dessous:
   1. [Shinsei Kamattechan - Yuugure no Tori (Monstrata) \[Ascendance's Rain\]](https://osu.ppy.sh/beatmapsets/688427#fruits/1456901)
   2. [gael42 - Scenario de Reves (Kurai) \[Insane\]](https://osu.ppy.sh/beatmapsets/220575#fruits/516169)
   3. [sakuzyo - Neurotoxin (Rumia-) \[SCV's Insane\]](https://osu.ppy.sh/beatmapsets/198380#fruits/602735)
-- HardRock
+- Hard Rock
   1. [siqlo - Midnight, Sunrise Sign (Rocma) \[Salad\]](https://osu.ppy.sh/beatmapsets/1224186#fruits/2546411)
   2. [M2U - Myosotis (Deif) \[Salad\]](https://osu.ppy.sh/beatmapsets/460422#fruits/995142)
   3. [Amame - To the Graceful Scarlet (Al-Azif) \[Alace's Hard\]](https://osu.ppy.sh/beatmapsets/4681#fruits/24912)
-- DoubleTime
+- Double Time
   1. [Warak - REANIMATE (- Magic Bomb -) \[Imagination\]](https://osu.ppy.sh/beatmapsets/489190#fruits/1042702)
   2. [solfa feat. Ceui - Koiiro Recipe (Cut Ver.) (-Luminate) \[Marshmallow\]](https://osu.ppy.sh/beatmapsets/918591#fruits/1918175)
   3. [ZUN - Native Faith (pieguy1372) \[Happy's Lunatic\]](https://osu.ppy.sh/beatmapsets/7414#fruits/35887)
@@ -179,11 +179,11 @@ La compétition s'est terminée et à donné le podium ci-dessous:
   1. [Erosion - Shinkai Shoujo-piano ver.- (celerih) \[Deep Sea Rain\]](https://osu.ppy.sh/beatmapsets/634939#fruits/1347079)
   2. [The Prototypes - Slip Away (Secretpipe) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/518278#fruits/1118651)
   3. [Loki - A New King Is Born (DTM9 Nowa) \[Hyper\]](https://osu.ppy.sh/beatmapsets/760694#fruits/1614228)
-- HardRock
+- Hard Rock
   1. [Uchida Maaya - Soushou Innocence (newtoniorock8) \[ZiRoX's Salad\]](https://osu.ppy.sh/beatmapsets/191384#fruits/472795)
   2. [LeaF - Evanescent (Krah) \[Salad\]](https://osu.ppy.sh/beatmapsets/176646#fruits/652946)
   3. [Reol - ChiruChiru (haruhhy) \[Hard\]](https://osu.ppy.sh/beatmapsets/494985#fruits/1053848)
-- DoubleTime
+- Double Time
   1. [Camellia - Ultimate Ascension (Deif) \[Salad\]](https://osu.ppy.sh/beatmapsets/520301#fruits/1105922)
   2. [MIMI - Nanimo nai Youna (JBHyperion) \[Salad\]](https://osu.ppy.sh/beatmapsets/1197461#fruits/2496809)
   3. [Senritsu & Xinely - Nagi-nagi- (Xinely) \[Mochi's Insane\]](https://osu.ppy.sh/beatmapsets/272797#fruits/625221)
@@ -202,10 +202,10 @@ La compétition s'est terminée et à donné le podium ci-dessous:
 - Hidden
   1. [nano.RIPE - Kodama Kotodama (CLSW) \[Rain\]](https://osu.ppy.sh/beatmapsets/340570#fruits/753305)
   2. [Suzuki Masayuki - DADDY ! DADDY ! DO ! feat. Suzuki Airi (TV Size) (hypercyte) \[Insane?\]](https://osu.ppy.sh/beatmapsets/1147361#fruits/2395929)
-- HardRock
+- Hard Rock
   1. [IKIMONOGAKARI - Hotaru no Hikari (TV Size) (Secre) \[Chunin\]](https://osu.ppy.sh/beatmapsets/1198625#fruits/2496371)
   2. [kradness&Reol - Okochama Sensou (Kamio Misuzu) \[wMw's Advanced\]](https://osu.ppy.sh/beatmapsets/369058#fruits/847908)
-- DoubleTime
+- Double Time
   1. [M2U - Marigold (feat. Guriri) (Hareimu) \[Salad\]](https://osu.ppy.sh/beatmapsets/596327#fruits/1262956)
   2. [UPLIFT SPICE - Omega Rhythm (Jemmmmy) \[Hard\]](https://osu.ppy.sh/beatmapsets/147962#fruits/534080)
 - Tiebreaker
@@ -218,9 +218,9 @@ La compétition s'est terminée et à donné le podium ci-dessous:
   2. [nmk - sola (sjoy) \[cwR's Insane\]](https://osu.ppy.sh/beatmapsets/183267#fruits/440413)
 - Hidden
   1. [t+pazolite - CENSORED!! (Fanteer) \[Hyper\]](https://osu.ppy.sh/beatmapsets/501407#fruits/1072328)
-- HardRock
+- Hard Rock
   1. [Tanya Degurechaff (CV: Yuuki Aoi) - Los! Los! Los! (TV Size) (Du5t) \[Private\]](https://osu.ppy.sh/beatmapsets/904574#fruits/1888832)
-- DoubleTime
+- Double Time
   1. [antiPLUR - One Life Left to Live (JBHyperion) \[Cup\]](https://osu.ppy.sh/beatmapsets/957842#fruits/2005438)
 
 ## Résultats des matchs
@@ -358,7 +358,7 @@ Dimanche, 24 Janvier 2021:
 10. N'importe quel joueur francophone peut participer au tournoi.
 11. Les joueurs auront deux bans par match.
 12. Les joueurs ne pourront pas ban plus d'une map dans un mod.
-13. Le Hidden est autorisé en HardRock et DoubleTime.
+13. Le Hidden est autorisé en Hard Rock et Double Time.
 14. Le Tiebreaker est joué en FreeMod.
 
 ### Format des qualifiers
@@ -366,8 +366,8 @@ Dimanche, 24 Janvier 2021:
 1. Mappool sera composé de:
    - 2 NoMod
    - 1 Hidden
-   - 1 HardRock
-   - 1 DoubleTime
+   - 1 Hard Rock
+   - 1 Double Time
 2. Les qualifications détermineront les joueurs qui peuvent accéder aux phases éliminatoires.
 
 ### Conditions gagnantes

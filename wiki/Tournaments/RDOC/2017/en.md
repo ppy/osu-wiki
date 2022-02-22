@@ -101,11 +101,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Ocelot - TSUBAKI \[fanzhen's Extreme\]](https://osu.ppy.sh/beatmapsets/364574#osu/848061)
   2. [sakuzyo - Imprinting \[Impress\]](https://osu.ppy.sh/beatmapsets/264299#osu/602547)
   3. [Yuyoyuppe - AiAe \[Eternal\]](https://osu.ppy.sh/beatmapsets/257793#osu/589969)
-- HardRock
+- Hard Rock
   1. [Eiko Shimamiya - Higurashi no Naku Koro ni \[Elvis' Extra\]](https://osu.ppy.sh/beatmapsets/333543#osu/799166)
   2. [Street - Sakura Fubuki \[Sakura no Hana\]](https://osu.ppy.sh/beatmapsets/362989#osu/797108)
   3. [BlackYooh vs. siromaru - BLACK or WHITE? \[MASTER\]](https://osu.ppy.sh/beatmapsets/248876#osu/635679)
-- DoubleTime
+- Double Time
   1. [Apink - Petal \[Insane\]](https://osu.ppy.sh/beatmapsets/342010#osu/756035)
   2. [petit milady - Ma Cherie \[Lovers\]](https://osu.ppy.sh/beatmapsets/255481#osu/585605)
   3. [Touyama Nao - Magical Mah-jongg World \[Insane\]](https://osu.ppy.sh/beatmapsets/74687#osu/259519)
@@ -127,11 +127,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Jimmy Weckl - Get Happy \[MASTER\]](https://osu.ppy.sh/beatmapsets/359580#osu/953945)
   2. [IA - Six Trillion Years and Overnight Story \[0108\]](https://osu.ppy.sh/beatmapsets/51245#osu/157861)
   3. [DJ YOSHITAKA - FLOWER \[EXTREME\]](https://osu.ppy.sh/beatmapsets/31054#osu/128780)
-- HardRock
+- Hard Rock
   1. [sana - Sayonara Ryou Kataomoi \[Extra\]](https://osu.ppy.sh/beatmapsets/508803#osu/1179268)
   2. [azihel & Virtual Riot - One For All, All For One \[deetz' Expert\]](https://osu.ppy.sh/beatmapsets/275655#osu/695636)
   3. [Reol - Asymmetry \[P A N's Extra\]](https://osu.ppy.sh/beatmapsets/292077#osu/661705)
-- DoubleTime
+- Double Time
   1. [Kano - Setsuna Plus \[Insane\]](https://osu.ppy.sh/beatmapsets/140379#osu/350646)
   2. [yanaginagi - Owari no Sekai kara \[Insane\]](https://osu.ppy.sh/beatmapsets/270999#osu/616251)
   3. [Various Artists - Let It Go (Multi-Language Full Sequence) \[Frozen\]](https://osu.ppy.sh/beatmapsets/196318#osu/468186)
@@ -153,11 +153,11 @@ This competition has come to an end and resulted in the following podium:
   1. [ayaponzu\* - Otsukimi Recital \[Broccoly's Extra\]](https://osu.ppy.sh/beatmapsets/172157#osu/416211)
   2. [Gentle Stick X M2U - Ineffabilis \[Yuki's Extra\]](https://osu.ppy.sh/beatmapsets/340903#osu/766528)
   3. [LiSA - Rising Hope \[Skystar's ExtrA\]](https://osu.ppy.sh/beatmapsets/157871#osu/400238)
-- HardRock
+- Hard Rock
   1. [ITO KASHITARO - Yuudachi no Ribbon \[apple's Insane\]](https://osu.ppy.sh/beatmapsets/479811#osu/1091115)
   2. [SHW - Ikusa JAPAN (shw.in) \[Ikusa!\]](https://osu.ppy.sh/beatmapsets/46660#osu/145165)
   3. [Feint - Tower Of Heaven (You Are Slaves) \[Extra\]](https://osu.ppy.sh/beatmapsets/128931#osu/847314)
-- DoubleTime
+- Double Time
   1. [ALTIMA - Burst the Gravity \[Insane\]](https://osu.ppy.sh/beatmapsets/81567#osu/226351)
   2. [Yuuyu feat. Megpoid GUMI - 228080! \[LKS\]](https://osu.ppy.sh/beatmapsets/47110#osu/146342)
   3. [Agressor Bunx - Tornado (Original Mix) \[Insane\]](https://osu.ppy.sh/beatmapsets/236292#osu/569636)
@@ -179,11 +179,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Rohi - Kakuzetsu Thanatos \[RLC\]](https://osu.ppy.sh/beatmapsets/76396#osu/216133)
   2. [TWICE - CHEER UP \[SHASHASHA\]](https://osu.ppy.sh/beatmapsets/456547#osu/978382)
   3. [SHK - Identity Part 5 \[ExtrA\]](https://osu.ppy.sh/beatmapsets/171676#osu/415217)
-- HardRock
+- Hard Rock
   1. [EastNewSound - Eisou Youga \~Meikyou Shisui\~ \[Lunatic\]](https://osu.ppy.sh/beatmapsets/83130#osu/229699)
   2. [capsule - JUMPER \[Insane!\]](https://osu.ppy.sh/beatmapsets/21130#osu/73494)
   3. [Jin - Otsukimi Recital \[Recital\]](https://osu.ppy.sh/beatmapsets/102366#osu/270536)
-- DoubleTime
+- Double Time
   1. [LeaF - Paraclete \[Feb's Hyper\]](https://osu.ppy.sh/beatmapsets/455109#osu/991587)
   2. [Buta-Otome - Sharekoube \[Kite's Hard\]](https://osu.ppy.sh/beatmapsets/304940#osu/720226)
   3. [Paramore - Still Into You \[Fizz' Insane\]](https://osu.ppy.sh/beatmapsets/301830#osu/691529)
@@ -205,11 +205,11 @@ This competition has come to an end and resulted in the following podium:
   1. [KOTOKO - Oboetete Ii yo \[Insane\]](https://osu.ppy.sh/beatmapsets/53791#osu/163836)
   2. [Crescent Moon Island Boss Theme \[Insane\]](https://osu.ppy.sh/beatmapsets/173422#osu/653128)
   3. [96Neko - Yoshiwara Lament \[Insane\]](https://osu.ppy.sh/beatmapsets/189377#osu/451227)
-- HardRock
+- Hard Rock
   1. [Dio ft. Sef - Tijdmachine \[Insane '10\]](https://osu.ppy.sh/beatmapsets/6997#osu/131147)
   2. [Block B - HER \[Insane\]](https://osu.ppy.sh/beatmapsets/280597#osu/634879)
   3. [beatMARIO - Night of Knights \[N a s y a's Insane\]](https://osu.ppy.sh/beatmapsets/352570#osu/785982)
-- DoubleTime
+- Double Time
   1. [senya - Senka Ryouran \[Chocopikel\]](https://osu.ppy.sh/beatmapsets/66190#osu/193523)
   2. [Silent Siren - Koi Yuki \[Yuki\]](https://osu.ppy.sh/beatmapsets/319303#osu/710753)
   3. [cYsmix feat. Emmy - Tear Rain \[Insane\]](https://osu.ppy.sh/beatmapsets/140662#osu/351189)
@@ -453,7 +453,7 @@ Sunday, 12 March 2017:
 
 1. There are different mappools for each stage of the tournament, becoming progressively harder.
 2. Tiebreakers will be played with FreeMod, but will not require a mod to be picked.
-3. The mappool will be announced **every Sunday**, and the categories are NoMod, Hidden, HardRock, DoubleTime, FreeMod and Tiebreaker.
+3. The mappool will be announced **every Sunday**, and the categories are NoMod, Hidden, Hard Rock, Double Time, FreeMod and Tiebreaker.
 
 ### Scheduling regulations
 

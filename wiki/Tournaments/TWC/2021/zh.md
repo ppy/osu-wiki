@@ -132,10 +132,10 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 - Hidden
   1. [Nekomata Master+ - AFRO KNUCKLE (femboy mapper) \[Samba Oni\]](https://osu.ppy.sh/beatmapsets/1395286#taiko/2880034)
   2. [TUYU - Anoyo-iki no Bus ni Notte Saraba. (\_Rise) \[Inner Oni (Edit)\]](https://osu.ppy.sh/beatmapsets/1216596#taiko/2879910)
-- HardRock
+- Hard Rock
   1. [96-glass - You're my everything (te2035) \[breakcore is my everything but twc not\]](https://osu.ppy.sh/beatmapsets/1324528#taiko/2879954)
   2. [Whispered - Unrestrained (LZD) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/569779#taiko/1207835)
-- DoubleTime
+- Double Time
   1. [SECONDWALL - Light (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/1318825#taiko/2733144)
   2. [Infected Mushroom - Kipod (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/305394#taiko/683991)
 - FreeMod
@@ -155,10 +155,10 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 - Hidden
   1. [Makai Toshi Niigata - Ukiyo-e Yokocho (HiroK) \[Inner Oni (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/839452#taiko/2865277)
   2. [Street - Reincarnation (eiri-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1279224#taiko/2657263)
-- HardRock
+- Hard Rock
   1. [Zekk - Libertas (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1001338#taiko/2096131)
   2. [Sophie Twilight , Akari Amano, Hinata Natsuki, Erie - +Kyutie Ladies+ (DJ Mii-ko Remix) (KawaiiBass) \[Cute Vampire\]](https://osu.ppy.sh/beatmapsets/1313424#taiko/2722104)
-- DoubleTime
+- Double Time
   1. [USAO - Chariot (Extended Mix) (aabc271) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1387259#taiko/2865337)
   2. [hololive IDOL PROJECT - SHIJOSHUGI ADTRUCK (Maimaing) \[Oning\]](https://osu.ppy.sh/beatmapsets/1387197#taiko/2865248)
 - FreeMod
@@ -236,10 +236,10 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 
 1. osu!taiko世界杯是基于国家/地区的团体比赛，在 osu!taiko 模式中进行。
    - **虽然本次比赛计划为 2v2，但可能会根据报名人数而改变。**
-2. 分数计算基于 Score V2。
+2. 分数计算基于 ScoreV2。
 3. 每轮比赛的图池将由图池管理在实际比赛开始之前的周日公布。选手在比赛过程中只能选择其中的谱面。
    - 一张谱面会被选为 Tiebreaker(TB)，TB 仅能在加时赛中被强制选择。
-   - 图池包含 [Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Game_modifier/Double_Time) 以及 Freemod
+   - 图池包含 [Hidden](/wiki/Game_modifier/Hidden)，[Hard Rock](/wiki/Game_modifier/Hard_Rock)，[Double Time](/wiki/Game_modifier/Double_Time) 以及 Freemod
 4. 时间表将由比赛管理部门确定（请参见[排程说明](#排程说明)）
 5. 如果没有空闲的工作人员或裁判，比赛将被推迟。
 6. Failed 的分数不会算入队伍得分中。
@@ -335,18 +335,18 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 
 1. 小组赛，十六强赛，四分之一决赛，半决赛以及决赛都会使用他们各自的图池。
    - 其中总决赛和决赛使用相同图池。
-2. 图池包含五组: NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Game_modifier/Double_Time) 和 FreeMod。
+2. 图池包含五组: NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[Hard Rock](/wiki/Game_modifier/Hard_Rock)，[Double Time](/wiki/Game_modifier/Double_Time) 和 FreeMod。
 3. 小组赛图池为 14 张，十六强赛和四分之一决赛图池为 15 张，半决赛和决赛图池为 16 张。
 4. 每个图池都包含一张 TB（Tiebreaker）。
 5. NoMod 图池不能使用任何 Mod。
-6. Hidden，HardRock 和 DoubleTime 则要求选手使用图池的对应 Mod。
-7. FreeMod 图池可以随意选择 Mod。可选 Mod 为 Hidden，HardRock 和 Hidden+HardRock。
+6. Hidden，Hard Rock 和 Double Time 则要求选手使用图池的对应 Mod。
+7. FreeMod 图池可以随意选择 Mod。可选 Mod 为 Hidden，Hard Rock 和 Hidden+Hard Rock。
    - 每队必须要有一名玩家选择至少一个 Mod。
    - 每队玩家**必须**不同的 Mod 组合。
 8. TB 为 Freemod。
    - 在 Tiebreaker 时，没有 Mod 要求。
 9. 在小组赛图池中 NoMod 谱面的数量为 4，十六强赛图池中为 5，半决赛、决赛以及总决赛则为 6.
-10. 所有阶段图池中都包含[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock) 以及 [DoubleTime](/wiki/Game_modifier/Double_Time) 谱面各两张。
+10. 所有阶段图池中都包含[Hidden](/wiki/Game_modifier/Hidden)，[Hard Rock](/wiki/Game_modifier/Hard_Rock) 以及 [Double Time](/wiki/Game_modifier/Double_Time) 谱面各两张。
 11. 所有阶段图池中都包含三张 Freemod 谱面。
 
 ### 排程说明

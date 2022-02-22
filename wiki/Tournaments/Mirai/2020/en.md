@@ -107,11 +107,11 @@ The Mirai. Tournament 2020 is run by various community members.
   1. [Demetori - Love Coloured Master Spark \[Insane\]](https://osu.ppy.sh/beatmapsets/9960#osu/39209)
   2. [Camellia - Turning up! \[td4w\]](https://osu.ppy.sh/beatmapsets/207024#osu/487910)
   3. [MIOYAMAZAKI - Noise \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/664507#osu/1425667)
-- HardRock
+- Hard Rock
   1. [onoken - Quinine -A2D SIDE- \[Another\]](https://osu.ppy.sh/beatmapsets/12469#osu/47837)
   2. [Gekidan Record feat. Nekomata Master - Houkou Orpheus \[Special\]](https://osu.ppy.sh/beatmapsets/879051#osu/1838381)
   3. [Fear, and Loathing in Las Vegas - Jump Around \[Insane\]](https://osu.ppy.sh/beatmapsets/86861#osu/237576)
-- DoubleTime
+- Double Time
   1. [765PRO ALLSTARS - M@STERPIECE \[Beyond the Brilliant Future\]](https://osu.ppy.sh/beatmapsets/235477#osu/580225)
   2. [sana - Hisui no Machi \[Hard\]](https://osu.ppy.sh/beatmapsets/1017483#osu/2239238)
   3. [Younha - Houkiboshi \[Insane\]](https://osu.ppy.sh/beatmapsets/779541#osu/1636976)
@@ -138,11 +138,11 @@ The Mirai. Tournament 2020 is run by various community members.
   1. [CYTOKINE - Koyoi no Kage wo kiritoru Kotonohano (REDALiCE Remix) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/44710#osu/139981)
   2. [sakuzyo - Aldebaran \[Expert\]](https://osu.ppy.sh/beatmapsets/607948#osu/1283985)
   3. [USAO - Night sky \[Another\]](https://osu.ppy.sh/beatmapsets/376397#osu/824622)
-- HardRock
+- Hard Rock
   1. [REDALiCE - Volar \[Insane\]](https://osu.ppy.sh/beatmapsets/32156#osu/105311)
   2. [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- \[Extreme\]](https://osu.ppy.sh/beatmapsets/119447#osu/307289)
   3. [nano - INFINITY ZERO \[Insane\]](https://osu.ppy.sh/beatmapsets/230022#osu/535188)
-- DoubleTime
+- Double Time
   1. [Ray - lull \~Soshite Bokura wa\~ \[Insane\]](https://osu.ppy.sh/beatmapsets/172450#osu/438061)
   2. [Kalon. - Fumetsu no Gekijou \[Nikakis' Hard\]](https://osu.ppy.sh/beatmapsets/848312#osu/1821927)
   3. [USAO - FREEDOM (Extended Mix) \[Hard\]](https://osu.ppy.sh/beatmapsets/749304#osu/1707909)
@@ -169,11 +169,11 @@ The Mirai. Tournament 2020 is run by various community members.
   1. [BUTAOTOME - Towa no Maigo \[Insane\]](https://osu.ppy.sh/beatmapsets/1069288#osu/2239337)
   2. [Krewella x Diskord - Beggars (Consouls Remix) \[Testo x Kalibe's Insane\]](https://osu.ppy.sh/beatmapsets/881753#osu/1853842)
   3. [Zekk - Duplication \[Nao's Insane\]](https://osu.ppy.sh/beatmapsets/1132727#osu/2373656)
-- HardRock
+- Hard Rock
   1. [Delain - Go Away \[Insane\]](https://osu.ppy.sh/beatmapsets/475676#osu/1017900)
   2. [Rise Against - Savior \[Fiery's Insane\]](https://osu.ppy.sh/beatmapsets/509675#osu/1132873)
   3. [xi - .357 Magnum \[Hyper\]](https://osu.ppy.sh/beatmapsets/155749#osu/545555)
-- DoubleTime
+- Double Time
   1. [Mami Kawada - sense \[Hard\]](https://osu.ppy.sh/beatmapsets/325638#osu/1000347)
   2. [zts - worldenddominator \[Hard\]](https://osu.ppy.sh/beatmapsets/897884#osu/1886520)
   3. [a\*ru - Kizuato \[Hard\]](https://osu.ppy.sh/beatmapsets/569843#osu/1241841)
@@ -200,11 +200,11 @@ The Mirai. Tournament 2020 is run by various community members.
   1. [seiya-murai feat.ALT - Sumidagawa Karenka \[Extreme\]](https://osu.ppy.sh/beatmapsets/28796#osu/95870)
   2. [Function Phantom - Variable \[Kibbleru's Insane\]](https://osu.ppy.sh/beatmapsets/751774#osu/1582596)
   3. [Project Grimoire - Caliburne \~Story of the Legendary sword\~ \[iyasine's Insane\]](https://osu.ppy.sh/beatmapsets/335665#osu/747240)
-- HardRock
+- Hard Rock
   1. [Underoath - A Moment Suspended in Time \[pishi's Insane\]](https://osu.ppy.sh/beatmapsets/407575#osu/913490)
   2. [penoreri - Preserved Valkyria \[Sharkie's EXHAUST\]](https://osu.ppy.sh/beatmapsets/644642#osu/1366189)
   3. [Fear, and Loathing in Las Vegas - Swing It!! \[Insane\]](https://osu.ppy.sh/beatmapsets/204159#osu/492543)
-- DoubleTime
+- Double Time
   1. [SYNC.ART'S - MIND READER \[Hard\]](https://osu.ppy.sh/beatmapsets/569335#osu/1207568)
   2. [CircusP - Goodbye \[Goodbye\]](https://osu.ppy.sh/beatmapsets/251269#osu/577427)
   3. [Amatsuki - Higurashi Moratorium \[Airin's Hard\]](https://osu.ppy.sh/beatmapsets/931886#osu/1975297)
@@ -229,10 +229,10 @@ The Mirai. Tournament 2020 is run by various community members.
 - Hidden
   1. [Eoin O' Broin - Deep Space \[Insane\]](https://osu.ppy.sh/beatmapsets/25098#osu/85045)
   2. [Memme - Starving Days \[Another\]](https://osu.ppy.sh/beatmapsets/275743#osu/715345)
-- HardRock
+- Hard Rock
   1. [Foreground Eclipse - You Can't Explain Anything Without The Word 'Destruction' \[Akitoforce's Hard\]](https://osu.ppy.sh/beatmapsets/942330#osu/1968524)
   2. [SHW - Ikusa JAPAN (shw.in) \[Ikusa!\]](https://osu.ppy.sh/beatmapsets/46660#osu/145165)
-- DoubleTime
+- Double Time
   1. [Becky - Less Than Three (Ricardo Autobahn Remix) \[Hard\]](https://osu.ppy.sh/beatmapsets/1078502#osu/2258857)
   2. [Fox Stevenson - Turn It Up (Higher) \[Exquisite\]](https://osu.ppy.sh/beatmapsets/115291#osu/298035)
   3. [Star Driver - 5 Centimeters Per Second \[Hard\]](https://osu.ppy.sh/beatmapsets/239787#osu/556326)
@@ -255,10 +255,10 @@ The Mirai. Tournament 2020 is run by various community members.
 - Hidden
   1. [TAMAONSEN - Witches' Night (ShinRa-Bansho Ver.) \[Dafiely & Xenon's Insane\]](https://osu.ppy.sh/beatmapsets/1030100#osu/2165811)
   2. [Yooh - snow storm -euphoria- \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/158075#osu/420012)
-- HardRock
+- Hard Rock
   1. [Amane - Boozehound \[Nuts\]](https://osu.ppy.sh/beatmapsets/5875#osu/27810)
   2. [mafumafu - Kakushigoto \[NiNo's Light Insane.\]](https://osu.ppy.sh/beatmapsets/770023#osu/1618984)
-- DoubleTime
+- Double Time
   1. [SteLouse - Joyride \[Hard\]](https://osu.ppy.sh/beatmapsets/747507#osu/1575098)
   2. [yuikonnu - Yume no Mata Yume \[Hard\]](https://osu.ppy.sh/beatmapsets/812160#osu/1703566)
   3. [Dictate - Militant \[Hard\]](https://osu.ppy.sh/beatmapsets/785677#osu/1649483)
@@ -278,10 +278,10 @@ The Mirai. Tournament 2020 is run by various community members.
 - Hidden
   1. [Saratoga (CV: Uesaka Sumire) - Souzetsu Gekkou \[Insane\]](https://osu.ppy.sh/beatmapsets/765452#osu/2178006)
   2. [Veil of Maya - Mikasa \[Insane\]](https://osu.ppy.sh/beatmapsets/480298#osu/1219509)
-- HardRock
+- Hard Rock
   1. [Celldweller - Good L\*ck (Yo\*'re F\_cked) \[Hard\]](https://osu.ppy.sh/beatmapsets/1069112#osu/2239676)
   2. [Zektbach - meme \[Hard\]](https://osu.ppy.sh/beatmapsets/68617#osu/199410)
-- DoubleTime
+- Double Time
   1. [senya - Terasareru kurai no Shiawase \[Collab Hard\]](https://osu.ppy.sh/beatmapsets/747507#osu/1575098)
   2. [Creo - Rivals \[deetz' Hard\]](https://osu.ppy.sh/beatmapsets/1012878#osu/2142929)
 
@@ -468,7 +468,7 @@ The Mirai. Tournament 2020 is run by various community members.
 
 ## Ruleset
 
-The ruleset for this tournament is: Scorev2, Team VS in osu! standard.
+The ruleset for this tournament is: ScoreV2, Team VS in osu! standard.
 
 ### Tournament rules
 

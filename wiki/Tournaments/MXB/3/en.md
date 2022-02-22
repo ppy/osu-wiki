@@ -242,7 +242,7 @@ With the exception of the qualification stage (which does not have a winning con
 - **Quarterfinals and Semifinals**: 13 song mappool, best of 9 (first to 5), one tiebreaker song
 - **Finals**: 15 song mappool, best of 11 (first to 6), one tiebreaker song
 
-Notice: Beatmap scoring is based on **Score V2**.
+Notice: Beatmap scoring is based on **ScoreV2**.
 
 #### Qualification process
 

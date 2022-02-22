@@ -153,11 +153,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Renard - Banned Forever (Blue Dragon) [Lesjuh]](https://osu.ppy.sh/beatmapsets/16349#osu/64266)
   2. [96Neko - Uso No Hibana (Depths) [Corrupt Emotions]](https://osu.ppy.sh/beatmapsets/578574#osu/1225022)
   3. [M2U - Velocity (M2Usonek) [Slider Velocity]](https://osu.ppy.sh/beatmapsets/891581#osu/1863869)
-- HardRock
+- Hard Rock
   1. [Hiroyuki Sawano - BLOWIN' (ktgster) [Challenge]](https://osu.ppy.sh/beatmapsets/560165#osu/1184609)
   2. [HujuniseikouyuuP - MISTAKE (val0108) [Ms. 0108]](https://osu.ppy.sh/beatmapsets/105245#osu/276366)
   3. [Shounen Radio - neu (Philippines) [Platinum]](https://osu.ppy.sh/beatmapsets/58422#osu/179070)
-- DoubleTime
+- Double Time
   1. [Touyama Nao & Yamazaki Haruka - Ringo Ribbon (Fycho) [Insane]](https://osu.ppy.sh/beatmapsets/114490#osu/296435)
   2. [twiddy - Live from the Bowling Alley (squirrelpascals) [Collab Insane]](https://osu.ppy.sh/beatmapsets/873671#osu/1826146)
   3. [Harry - Earth Day (Moway) [Earth Day]](https://osu.ppy.sh/beatmapsets/65228#osu/195502)
@@ -183,11 +183,11 @@ This competition has come to an end and resulted in the following podium:
   1. [TatshMusicCircle - Raikou -3rd Desire- (Kite) [Extra]](https://osu.ppy.sh/beatmapsets/143316#osu/1836851)
   2. [THE ORAL CIGARETTES - Sesshoku (Nevo) [Apocalypse]](https://osu.ppy.sh/beatmapsets/839248#osu/1758255)
   3. [Draw The Emotional - Sad Spring (bor) [Extra Stage]](https://osu.ppy.sh/beatmapsets/745020#osu/1575381)
-- HardRock
+- Hard Rock
   1. [ginkiha - EOS (alacat) [Lycoris]](https://osu.ppy.sh/beatmapsets/151720#osu/373781)
   2. [Suzumu - Sekishinsei: Kamatoto Araryouzi (tutuhaha) [Extra]](https://osu.ppy.sh/beatmapsets/152546#osu/375346)
   3. [Sota Fujimori - Move That Body -Extended Mix- (Amamiya Yuko) [Extreme]](https://osu.ppy.sh/beatmapsets/220220#osu/538404)
-- DoubleTime
+- Double Time
   1. [Hanatan - Romeo and Cinderella (captin1) [Insane]](https://osu.ppy.sh/beatmapsets/132591#osu/358160)
   2. [Nanahira - Viva Happy (Frey) [M I K U !]](https://osu.ppy.sh/beatmapsets/672621#osu/1421827)
   3. [Frederic Chopin - Etude Op. 10-4 (lepidopodus) [Insane]](https://osu.ppy.sh/beatmapsets/22374#osu/77231)
@@ -213,11 +213,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Maksim Mrvica - Croatian Rhapsody (haha5957) [Vivace]](https://osu.ppy.sh/beatmapsets/54016#osu/170608)
   2. [LiSA - ASH (Nao Tomori) [Aka no Saiten]](https://osu.ppy.sh/beatmapsets/826992#osu/1733018)
   3. [DJ Noriken - Stargazer feat. YUC'e (PSYQUI Remix) (-Jordan-) [Expert]](https://osu.ppy.sh/beatmapsets/853867#osu/1784484)
-- HardRock
+- Hard Rock
   1. [Tatsh - Cruel Moon (Shinxyn) [Lunatic]](https://osu.ppy.sh/beatmapsets/13584#osu/50148)
   2. [Lapfox Trax feat. guilhox - Lapfoxed Forever (Blue Dragon) [Nogard]](https://osu.ppy.sh/beatmapsets/59521#osu/178353)
   3. [Memme - Starving Days (Gamu) [Extra]](https://osu.ppy.sh/beatmapsets/275743#osu/625507)
-- DoubleTime
+- Double Time
   1. [96Neko - Paintings? Oh, yeah. (Charles445) [Insane]](https://osu.ppy.sh/beatmapsets/57393#osu/173015)
   2. [Maika - I Wish (Patchouli) [Insane]](https://osu.ppy.sh/beatmapsets/41048#osu/129934)
   3. [Touyama Nao - Happy Crescent (Sumisola) [Insane]](https://osu.ppy.sh/beatmapsets/26966#osu/94634)
@@ -243,11 +243,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Mahi feat. Hirune - ROTTER TAIYOSHINKO (OnosakiHito) [CracKed]](https://osu.ppy.sh/beatmapsets/24701#osu/85651)
   2. [Reol - Heimenkyou (Frey) [Shattered World]](https://osu.ppy.sh/beatmapsets/867074#osu/1812660)
   3. [xi - Time files (gowww) [Another]](https://osu.ppy.sh/beatmapsets/49843#osu/153484)
-- HardRock
+- Hard Rock
   1. [Xelia - Illumiscape (Kanna) [Another]](https://osu.ppy.sh/beatmapsets/43960#osu/137840)
   2. [Amatsuki - Higurashi Moratorium (HelloSCV) [Frobe's Extra]](https://osu.ppy.sh/beatmapsets/94506#osu/254370)
   3. [M2U - Masquerade (Melt) [Extreme]](https://osu.ppy.sh/beatmapsets/124857#osu/554287)
-- DoubleTime
+- Double Time
   1. [Don Tetto - No Digas Lo Siento (-Sh1n1-) [Dolor]](https://osu.ppy.sh/beatmapsets/648660#osu/1374122)
   2. [BIGBANG - SOBER (Syph) [I HATE BEING SOBER.]](https://osu.ppy.sh/beatmapsets/702375#osu/1486212)
   3. [Matchbox Twenty - How Far We've Come (Sushi) [Insane]](https://osu.ppy.sh/beatmapsets/31014#osu/104117)
@@ -273,11 +273,11 @@ This competition has come to an end and resulted in the following podium:
   1. [seiya-murai feat.ALT - Sumidagawa Karenka (m i z u k i) [EXTREME]](https://osu.ppy.sh/beatmapsets/32523#osu/106361)
   2. [Hanatan - Kimi no Kiseki (Star Stream) [S.S]](https://osu.ppy.sh/beatmapsets/54602#osu/165883)
   3. [Camellia - Turning up! (RLC) [td4w!]](https://osu.ppy.sh/beatmapsets/207024#osu/487910)
-- HardRock
+- Hard Rock
   1. [Delain - Go Away (pishifat) [Insane]](https://osu.ppy.sh/beatmapsets/475676#osu/1017900)
   2. [AKI AKANE - FIRST (Milan-) [Insane]](https://osu.ppy.sh/beatmapsets/293832#osu/807070)
   3. [Memme - NEW Astronomas (Charles445) [Extra]](https://osu.ppy.sh/beatmapsets/87188#osu/238265)
-- DoubleTime
+- Double Time
   1. [REOL - Summer Horror Party (Chaoslitz) [Ghostly Summertime]](https://osu.ppy.sh/beatmapsets/522666#osu/1109947)
   2. [Aimer - words (Monstrata) [Rhetoric]](https://osu.ppy.sh/beatmapsets/477813#osu/1020665)
   3. [Giga-P - Electric Angel (pkmnyab) [Insane]](https://osu.ppy.sh/beatmapsets/146794#osu/363639)
@@ -300,10 +300,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Anamanaguchi - Blackout City (Sushi) [Insane]](https://osu.ppy.sh/beatmapsets/67226#osu/204638)
   2. [Blackhole - Lagomorphic (happy623) [Lagomorph]](https://osu.ppy.sh/beatmapsets/74664#osu/211889)
-- HardRock
+- Hard Rock
   1. [senya - Akatsuki no Suiheisen ni (Satellite) [N a s y a's Insane]](https://osu.ppy.sh/beatmapsets/242360#osu/648129)
   2. [M2U - PandorA (Minorsonek) [Ultima Fox's Insane]](https://osu.ppy.sh/beatmapsets/836894#osu/1824802)
-- DoubleTime
+- Double Time
   1. [Maroon 5 - Moves Like Jagger ft. Christina Aguilera (Gero) [Jagger]](https://osu.ppy.sh/beatmapsets/156371#osu/383192)
   2. [Cranky - Time Alter (Mirash) [pishi's Hard]](https://osu.ppy.sh/beatmapsets/847900#osu/1773170)
 - FreeMod
@@ -324,10 +324,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Katy Perry - E.T. (La Cataline) [Futuristic]](https://osu.ppy.sh/beatmapsets/36077#osu/116708)
   2. [sakuzyo feat. Hatsune Miku - ChaiN De/structioN (Shiirn) [Loneliness]](https://osu.ppy.sh/beatmapsets/49071#osu/154165)
-- HardRock
+- Hard Rock
   1. [ALiCE'S EMOTiON - Dark Flight Dreamer (Sakaue Nachi) [Twaoi's Insane]](https://osu.ppy.sh/beatmapsets/185250#osu/763294)
   2. [Kucchi vs Akki - Yakumo >>JOINT STRUGGLE (Muya) [Hyper]](https://osu.ppy.sh/beatmapsets/688877#osu/1460444)
-- DoubleTime
+- Double Time
   1. [Nishino Kana - Story (Autumn) [Our Story]](https://osu.ppy.sh/beatmapsets/113692#osu/294801)
   2. [cYsmix feat. emii - Tear Rain (happy30) [Insane]](https://osu.ppy.sh/beatmapsets/140558#osu/350980)
 - FreeMod
@@ -779,7 +779,7 @@ Thursday, 7 March 2019:
 - When both teams are in the lobby and ready, the referee will ask the players to !roll. The order of picks of bans is decided using the [UKCC 4 roll system](https://i.imgur.com/S0VIvni.png).
 - There will be no warmups in the Group Stage. After this, warmup maps must be a submitted beatmap, and have a drain time of 4 minutes or less.
 - For warmups, **Head to Head** will be used. **Team Vs** will be used in the actual match.
-- For Freemod picks, players must select any combination of the following mods: **Hidden, HardRock**. Only one player from each team must select a mod.
+- For Freemod picks, players must select any combination of the following mods: **Hidden, Hard Rock**. Only one player from each team must select a mod.
 - Each team is allowed one ban in the Group stage and Round of 32. Afterwards, this will increase to two bans
 - Teams have **2 minutes** to ban a map. Failure to ban a map within this time limit results in a lost ban.
 - Teams have **2 minutes** to pick a map. Failure to pick a map within this time limit results in pick choice being passed to the opposing team.

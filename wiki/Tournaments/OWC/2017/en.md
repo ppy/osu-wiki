@@ -108,10 +108,10 @@ The osu! World Cup 2017 was run by various community members.
 - Hidden
   1. [Niko - Made of Fire (lesjuh) \[Oni\]](https://osu.ppy.sh/beatmapsets/10112#osu/40017)
   2. [Sota Fujimori - polygon (Sebu) \[heptagon\]](https://osu.ppy.sh/beatmapsets/422136#osu/1354636)
-- HardRock
+- Hard Rock
   1. [beatMARIO - Night of Knights (alacat) \[The World\]](https://osu.ppy.sh/beatmapsets/352570#osu/776951)
   2. [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/76396#osu/215238)
-- DoubleTime
+- Double Time
   1. [Kalafina - Kyrie (Vell) \[Genesis\]](https://osu.ppy.sh/beatmapsets/369380#osu/809513)
   2. [Zektbach - L'avide (eXseeD) \[gowww\]](https://osu.ppy.sh/beatmapsets/29496#osu/103403)
 - FreeMod
@@ -135,10 +135,10 @@ The osu! World Cup 2017 was run by various community members.
 - Hidden
   1. [Eisyo-kobu - Oriental Blossom (Crystal) \[Karen's Extra\]](https://osu.ppy.sh/beatmapsets/586889#osu/1242790)
   2. [HujuniseikouyuuP - Talent Shredder (val0108) \[Lesjuh style\]](https://osu.ppy.sh/beatmapsets/47710#osu/153857)
-- HardRock
+- Hard Rock
   1. [Memme - Acid Burst (Priti) \[wa's Extra\]](https://osu.ppy.sh/beatmapsets/302535#osu/725026)
   2. [96neko - Buriki no Dance (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/588211#osu/1253986)
-- DoubleTime
+- Double Time
   1. [3L - Endless night (sjoy) \[Eternal\]](https://osu.ppy.sh/beatmapsets/178968#osu/430371)
   2. [Yuuki Aoi - Platinum (Mythol) \[Collab\]](https://osu.ppy.sh/beatmapsets/83118#osu/229676)
 - FreeMod
@@ -162,10 +162,10 @@ The osu! World Cup 2017 was run by various community members.
 - Hidden
   1. [Jimmy Weckl - Get Happy (buhei) \[MASTER\]](https://osu.ppy.sh/beatmapsets/359580#osu/953945)
   2. [senya - Zetsubou no Fuchi (-Mo-) \[Abyssal\]](https://osu.ppy.sh/beatmapsets/605290#osu/1278874)
-- HardRock
+- Hard Rock
   1. [USAO - Night sky (sukiNathan) \[Extra\]](https://osu.ppy.sh/beatmapsets/396994#osu/863532)
   2. [Mitani Nana - Chikyuu Saigo no Kokuhaku o (Star Stream) \[Collab\]](https://osu.ppy.sh/beatmapsets/65491#osu/191805)
-- DoubleTime
+- Double Time
   1. [ChomuP - Gate of Steiner (JauiPlaY) \[Insane\]](https://osu.ppy.sh/beatmapsets/48941#osu/157886)
   2. [Hana(Usa) & X-Plorez - Summer time music (Frostmourne) \[Insane\]](https://osu.ppy.sh/beatmapsets/136862#osu/429797)
 - FreeMod
@@ -189,10 +189,10 @@ The osu! World Cup 2017 was run by various community members.
 - Hidden
   1. [Anamanaguchi - Pop It (Bonsai) \[Extra\]](https://osu.ppy.sh/beatmapsets/501677#osu/1084171)
   2. [sun3 - Higan Retour (saymun) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14464#osu/54373)
-- HardRock
+- Hard Rock
   1. [bj.HaLo - Ende (galvenize) \[Another\]](https://osu.ppy.sh/beatmapsets/44035#osu/148716)
   2. [baker - Kimi ga Kimi ga -vocanico remix- (jonathanlfj) \[Extra\]](https://osu.ppy.sh/beatmapsets/682595#osu/1443510)
-- DoubleTime
+- Double Time
   1. [CYTOKINE - sEE NEW THE WORLD, SHE KNEW THE WORLD - CYTOKINE Remix (Frey) \[lUNATIC\]](https://osu.ppy.sh/beatmapsets/442378#osu/951393)
   2. [forestpireo - Emotional Blush (S i R i R u) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/21623#osu/74959)
 - FreeMod
@@ -216,10 +216,10 @@ The osu! World Cup 2017 was run by various community members.
 - Hidden
   1. [07th Expansion - Final Answer (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/26226#osu/88633)
   2. [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (deetz) \[Collab\]](https://osu.ppy.sh/beatmapsets/442510#osu/951600)
-- HardRock
+- Hard Rock
   1. [Cororo - Fairy ring (Kite) \[Serenity\]](https://osu.ppy.sh/beatmapsets/316761#osu/705760)
   2. [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Crazy Jay\]](https://osu.ppy.sh/beatmapsets/24448#osu/91462)
-- DoubleTime
+- Double Time
   1. [Pendulum - The Vulture (La Cataline) \[Insane\]](https://osu.ppy.sh/beatmapsets/24163#osu/82249)
   2. [Ronald Jenkees - Super-Fun (tieff) \[Fun\]](https://osu.ppy.sh/beatmapsets/95931#osu/257379)
 - FreeMod
@@ -381,7 +381,7 @@ Sunday, 19 November 2017:
 
 1. The osu! World Cup is a country-based team tournament, played on the osu! game mode.
    - While this competition is planned as a 4 versus 4 setup, this might change depending on the amount of incoming registrations.
-2. Beatmap scoring is based on Score V2.
+2. Beatmap scoring is based on ScoreV2.
 3. The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - The Group Stage mappool will be announced after the drawings.
    - One beatmap will be given as a tiebreaker beatmap. This beatmap will only be played in case of a tie.
@@ -479,18 +479,18 @@ Sunday, 19 November 2017:
 ### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no mods activated at all.
-6. The Hidden, HardRock and DoubleTime bracket will be played with the respective mod activated by all current players.
+6. The Hidden, Hard Rock and Double Time bracket will be played with the respective mod activated by all current players.
 7. The FreeMod bracket will have FreeMod activated.
-   - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
+   - Possible mod choices are Hidden, Hard Rock and Hidden+Hard Rock.
    - When playing a FreeMod map, at least 2 players of each team must have at least one mod activated. For the remaining players, activating mods is optional.
 8. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, no one needs to have a mod activated.
 9. The size of the NoMod bracket will be 6 in all stages.
-10. The size of the Hidden, HardRock and DoubleTime brackets will be 2 in all stages.
+10. The size of the Hidden, Hard Rock and Double Time brackets will be 2 in all stages.
 11. The size of the FreeMod bracket will be 3 in all stages.
 
 ### Scheduling instructions

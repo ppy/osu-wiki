@@ -124,11 +124,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Lacer8 - Nyaaaa =^w^= (Myckoll) \[Oniiii =^w^=\]](https://osu.ppy.sh/beatmapsets/566182#taiko/1199368)
   2. [Rainbowdragoneyes - Ancient Slumber (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/733115#taiko/1546626)
   3. [Project B- - Tyouseisyounen no tame no Tyoutasai na Tyoukotennteki Tyoubukyoku (Lno) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/810930#taiko/1701242)
-- HardRock
+- Hard Rock
   1. [YUC'e - Chemical Cookie (-Kazu-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/749952#taiko/1579500)
   2. [t+pazolite - Renegade Fruits (JUDYDANNY) \[Taiko Iscaliot\]](https://osu.ppy.sh/beatmapsets/500811#taiko/1065815)
   3. [Camellia - Tornado (Nofool) \[Irma\]](https://osu.ppy.sh/beatmapsets/666923#taiko/1411326)
-- DoubleTime
+- Double Time
   1. [Yunomi - Wakusei Rabbit (feat. TORIENA) (yuzu\_\_rinrin) \[yzrin's Rabbit Oni\]](https://osu.ppy.sh/beatmapsets/639535#taiko/1357109)
   2. [Takafumi Sato - Kimi to Hibiku Harmony vs. Maou no Showtime (Eeneehaww30PH) \[Eenee's Taiko ONI\]](https://osu.ppy.sh/beatmapsets/406292#taiko/882940)
   3. [kors k - Monkey Business (lapix Remix) (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/721496#taiko/1523524)
@@ -155,11 +155,11 @@ This competition has come to an end and resulted in the following podium:
   1. [cosMoP@Bousou Ultimate - XyHatte (ll-oscar) \[ll-taiko St.\]](https://osu.ppy.sh/beatmapsets/601520#taiko/1270734)
   2. [Mastermind(xi+nora2r) - Dreadnought (Sayaka-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/361306#taiko/795198)
   3. [The Doors - Riders on the Storm (Infected Mushroom Remix) (Grimbow) \[Grim's Ura Oni\]](https://osu.ppy.sh/beatmapsets/641775#taiko/1360769)
-- HardRock
+- Hard Rock
   1. [S-C-U x U1 overground - Tenkuu no Hana (kanopu) \[Caelum\]](https://osu.ppy.sh/beatmapsets/699142#taiko/1480579)
   2. [Kano - Sukisuki Zecchoushou (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/701907#taiko/1485323)
   3. [ke-ji feat. nanahira - Ange du Blanc Pur (katacheh) \[Taiko\]](https://osu.ppy.sh/beatmapsets/628578#taiko/1325185)
-- DoubleTime
+- Double Time
   1. [TeamGrimoire+Amaneko - croiX (hs714) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/88692#taiko/242953)
   2. [AKINO with bless4 - Yuki no Youni (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/630705#taiko/1390706)
   3. [Eluveitie - King (frukoyurdakul) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/635088#taiko/1347668)
@@ -186,11 +186,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Hino Isuka - Dreamin' Attraction!! (karon8) \[Oni\]](https://osu.ppy.sh/beatmapsets/706432#taiko/1493772)
   2. [YUC'e - intro-duck-tion!! (komasy) \[con-clu-sion!!\]](https://osu.ppy.sh/beatmapsets/700150#taiko/1482353)
   3. [Rabbit Bat - rainy beauty (Charlotte) \[Breeze\]](https://osu.ppy.sh/beatmapsets/742268#taiko/1565657)
-- HardRock
+- Hard Rock
   1. [Aoi - to soar (maziari1105) \[Oni\]](https://osu.ppy.sh/beatmapsets/624951#taiko/1317106)
   2. [Camellia - Kono Hoshi de.... (Raphalge) \[Dreamscape\]](https://osu.ppy.sh/beatmapsets/661767#taiko/1400920)
   3. [goreshit - Bad Habits (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/450569#taiko/966645)
-- DoubleTime
+- Double Time
   1. [xi - Death Piano (HashishKabob) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/56190#taiko/170923)
   2. [Dirty Androids - Seaside Labyrinth (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/687541#taiko/1454920)
   3. [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Mr Color) \[Taikolor\]](https://osu.ppy.sh/beatmapsets/29307#taiko/123967)
@@ -217,11 +217,11 @@ This competition has come to an end and resulted in the following podium:
   1. [DOUBLE HELIX - Our Faith (Faithful MTL Remix) (ll-oscar) \[ll-taiko St.\]](https://osu.ppy.sh/beatmapsets/640730#taiko/1358868)
   2. [EBIMAYO - GOODRAGE (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/679340#taiko/1436347)
   3. [slushii - To Say Goodbye (Original Mix) (Surono) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/717906#taiko/1516515)
-- HardRock
+- Hard Rock
   1. [tarolabo - Zeitmesser (nananass) \[Zeitmesser\]](https://osu.ppy.sh/beatmapsets/710147#taiko/1501144)
   2. [Mazare(Camellia feat. kradness, Nanahira and yukacco) - Mazare Party (Y O U T A) \[TaiKo ParTy\]](https://osu.ppy.sh/beatmapsets/546830#taiko/1158241)
   3. [onoken - ZADAMGA (agu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/458476#taiko/982430)
-- DoubleTime
+- Double Time
   1. [Atoguru - UNDER WORLD (Kirasame-Marisa) \[Yia's Taiko\]](https://osu.ppy.sh/beatmapsets/44628#taiko/177947)
   2. [Mili - Meatball Submarine (Bowashe) \[Oni\]](https://osu.ppy.sh/beatmapsets/684856#taiko/1449355)
   3. [Nakamura Mamechiyo - Kare Kano Kanon (mjw5150) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/37090#taiko/119491)
@@ -248,11 +248,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Hitoshizuku-P x Yama - Twilight nighT (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/685762#taiko/1451613)
   2. [brz1128 - Plumage (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/690676#taiko/1461687)
   3. [CY8ER - Natsukoi (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/684599#taiko/1448825)
-- HardRock
+- Hard Rock
   1. [Chroma - Pon-Pon-Pompoko Dai-Sen-Saw! (KitajimaYN) \[Yuni\]](https://osu.ppy.sh/beatmapsets/448109#taiko/961814)
   2. [Hommarju - Crazy Jackpot (Lno) \[Crazy Oni\]](https://osu.ppy.sh/beatmapsets/744408#taiko/1569566)
   3. [Thaehan - Help (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/715912#taiko/1512689)
-- DoubleTime
+- Double Time
   1. [Rin' - Asuka (cmn_891127) \[Taiko\]](https://osu.ppy.sh/beatmapsets/52640#taiko/160826)
   2. [M2U - A Bella! (feat. Lucy) (Chromoxx) \[Chromoxx' Oni\]](https://osu.ppy.sh/beatmapsets/541101#taiko/1184544)
   3. [Shawn Wasabi - Marble Soda (Stingy) \[Oni Zero\]](https://osu.ppy.sh/beatmapsets/598830#taiko/1265768)
@@ -279,11 +279,11 @@ This competition has come to an end and resulted in the following podium:
   1. [AAAA Chazuke - Sayonara Cosmonaut (D o t) \[Oni\]](https://osu.ppy.sh/beatmapsets/694743#taiko/1481628)
   2. [Yumemido - Lyrith -Meikyuu Lyrith- (Midnaait) \[Endless Labyrinth\]](https://osu.ppy.sh/beatmapsets/679602#taiko/1437072)
   3. [Yucha-P - Thieves Night Trick (qoot8123) \[qoot8123's Oni\]](https://osu.ppy.sh/beatmapsets/78268#taiko/222740)
-- HardRock
+- Hard Rock
   1. [lapix - Nothing but Theory (Legless) \[Funktion\]](https://osu.ppy.sh/beatmapsets/781106#taiko/1640583)
   2. [BUTA-OTOME - Heisei Kaisei Dottenshan (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/737037#taiko/1555438)
   3. [Kagamine Rin - Tokyo Teddy Bear (climbb65588) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/39838#taiko/128116)
-- DoubleTime
+- Double Time
   1. [Jesse & Joy - Si Te Vas (Krisom) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/30584#taiko/100891)
   2. [Shano & 40mP - Natsukoi Hanabi (-Sh1n1-) \[Oni\]](https://osu.ppy.sh/beatmapsets/351390#taiko/774493)
   3. [Mami Kawada - Crossing Way (Charlotte) \[Charlotte's Inner Oni\]](https://osu.ppy.sh/beatmapsets/793797#taiko/1667941)
@@ -446,7 +446,7 @@ Saturday, 8 June 2018 and Sunday, 9 June 2018:
 1. Taiko LMS: Shift Cup is a 3v3 team tournament, with the aspects of knock-out rules, and double elimination bracket.
 2. The mapsets for each round will be announced by the map selectors in advance on the Sunday before the actual matches take place.
 3. Participants must be between Rank **#75** and **#5,000** Global.
-4. Map scoring is based on **Score V2.**
+4. Map scoring is based on **ScoreV2.**
 5. Match schedule will be settled by the Tournament Management.
 6. If no staff or referee is available, the match will be postponed.
 7. Usage of the Visual Settings options are allowed.
@@ -509,7 +509,7 @@ Saturday, 8 June 2018 and Sunday, 9 June 2018:
 1. A referee (or tournament manager) will create a multiplayer room 10 minutes in advance. Players must gather during this period.
    - The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
    - Captains **must specify the three members** who will participate in the match before rolls. Team Size is 4, so choose 3, one must sit out. This is to ensure that teams have a back-up player, in case of emergency or sickness.
-   - Room settings are Taiko, Team-Vs., Win Condition: 'Score V2'. Room name must be "Shift Cup: TeamBlue vs TeamRed".
+   - Room settings are Taiko, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "Shift Cup: TeamBlue vs TeamRed".
    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
    - Blue team must occupy slot 1. Red team must occupy slot 2.
    - The setup at the start of the match must remain consistent throughout.
@@ -524,14 +524,14 @@ Saturday, 8 June 2018 and Sunday, 9 June 2018:
 ### Mappool instructions
 
 1. Each stage will receive its own mappool.
-2. Each map-pool consists of 7 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), FreeMod, Extra, and Tiebreaker.
+2. Each map-pool consists of 7 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), FreeMod, Extra, and Tiebreaker.
 3. Each mappool consists of 18 maps in total.
 4. Each map-pool has one tiebreaker.
    - Each map-pool has one tiebreaker.
    - In the freak event of a tie on the tiebreaker, the tiebreaker will be replayed under FreeMod conditions.
 5. The NoMod bracket will be played with no mods activated.
-6. The Hidden, HardRock, and DoubleTime bracket will be played with the respective mods activated.
-7. The Free Mod bracket will have Free Mod activated. The players can pick Hidden, HardRock or both. Players are required to play with a mod.
+6. The Hidden, Hard Rock, and Double Time bracket will be played with the respective mods activated.
+7. The Free Mod bracket will have Free Mod activated. The players can pick Hidden, Hard Rock or both. Players are required to play with a mod.
 8. The size of every Mod bracket will be 3 across all stages of the tournament.
 9. The mappool will be released after the last match of the previous stage has been played.
 

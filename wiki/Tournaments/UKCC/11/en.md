@@ -101,10 +101,10 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti
 - Hidden
   1. [JIN feat. MARiA from GARNiDELiA - daze (celerih) [reaching out]](https://osu.ppy.sh/beatmapsets/984969#osu/2060853)
   2. [Daniel & Cherry - Bach Is Back (Castagne) [d]](https://osu.ppy.sh/beatmapsets/1682545#osu/3437664)
-- HardRock
+- Hard Rock
   1. [Kana Nishino - Sweet Dreams (11t dnb mix) (keeVY) [Reillia's Extra]](https://osu.ppy.sh/beatmapsets/1137139#osu/2396864)
   2. [SHK - Violet Perfume (ktgster) [SHD]](https://osu.ppy.sh/beatmapsets/1010865#osu/2115970)
-- DoubleTime
+- Double Time
   1. [Nakanoke no Itsutsugo - Gotoubun no Katachi (SkyFlame) [Mimari's Insane]](https://osu.ppy.sh/beatmapsets/1344192#osu/3018777)
   2. [Bomfunk MC's - Freestyler (Lesjuh) [Insane]](https://osu.ppy.sh/beatmapsets/35629#osu/115352)
   3. [Nekrogoblikon - Killing Time (and Space) (Gordon) [Insane]](https://osu.ppy.sh/beatmapsets/1536045#osu/3140773)
@@ -123,10 +123,10 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti
 - Hidden
   1. [TrySail - Utsuroi (Mir) [Vivy's Extra]](https://osu.ppy.sh/beatmapsets/1433678#osu/3266341)
   2. [Various Artists - Netsuretsu Kangei Wonderland (Mirash) [Delisha vs Mirash's Mahjong Soul 1v1 Grand Finals [BO9]]](https://osu.ppy.sh/beatmapsets/1604477#osu/3276441)
-- HardRock
+- Hard Rock
   1. [Himeringo - Yotsuya-san ni Yoroshiku (RLC) [Winber1's Extreme]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
   2. [Nekomata Master+ - POINT ZERO (Nakagawa-Kanon) [Another]](https://osu.ppy.sh/beatmapsets/61487#osu/183215)
-- DoubleTime
+- Double Time
   1. [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) [mithew's Light Insane]](https://osu.ppy.sh/beatmapsets/581787#osu/1478254)
   2. [Inoue Marina - Pieces of Sweet Stars (whymeman) [S.t.a.r.S]](https://osu.ppy.sh/beatmapsets/8436#osu/34657)
 

@@ -105,11 +105,11 @@ The 112's Corona Tournament was run by various community members.
   1. [Suzumu – Kakumeisei ousama densenbyou (tutuhaha) \[AngelHoney's Extra\]](https://osu.ppy.sh/beatmapsets/307686#osu/701528)
   2. [Manasora Akiha, Tokika – Toukasa Funtouki!\~ Rakutoferin no Hate e \~ (fanzhen0019) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/43170#osu/137303)
   3. [lapix – Horizon Blue feat. Kanata.N (Mir) \[Real's Extra\]](https://osu.ppy.sh/beatmapsets/974832#osu/2055575)
-- HardRock
+- Hard Rock
   1. [REOL – Endless Line (DeRandom Otaku) \[Infinite\]](https://osu.ppy.sh/beatmapsets/706150#osu/1493345)
   2. [Nekomata Master+ – nightbird lost wing (Regou) \[acyl's another\]](https://osu.ppy.sh/beatmapsets/1053490#osu/2204492)
   3. [Morimori Atsushi – Applique (Uta) \[Lonely apple\]](https://osu.ppy.sh/beatmapsets/838366#osu/1755242)
-- DoubleTime
+- Double Time
   1. [Aki - Darkish (Lortus) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/514965#osu/1097552)
   2. [Amane - exist except (ktgster) \[Beyond\]](https://osu.ppy.sh/beatmapsets/99770#osu/765706)
   3. [Wakamiya Hina (CV: Mikami Shiori), Segawa Ayame (CV: Takamori Natsumi) – Koigokoro Tsunagi (Shirahane Suou) \[Insane\]](https://osu.ppy.sh/beatmapsets/1030225#osu/2154208)
@@ -134,11 +134,11 @@ The 112's Corona Tournament was run by various community members.
   1. [MEMAI SIREN - Ajisai (Deca) \[WITHER\]](https://osu.ppy.sh/beatmapsets/1099654#osu/2297237)
   2. [Susumu Hirasawa – Sobu Naru Kaze (Real1) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10390#osu/40637)
   3. [Hommarju – Sahara (Otosaka-Yu) \[Self Collab\]](https://osu.ppy.sh/beatmapsets/1033872#osu/2161662)
-- HardRock
+- Hard Rock
   1. [yanaginagi – here and there (Inulloid DnB Remix) (Meg) \[kino\]](https://osu.ppy.sh/beatmapsets/1049686#osu/2193852)
   2. [Cranky – Libera me (Kloyd) \[Muya's Insane\]](https://osu.ppy.sh/beatmapsets/1085726#osu/2273615)
   3. [penoreri - Preserved Valkyria (Kroytz) \[Zexous' INFINITE\]](https://osu.ppy.sh/beatmapsets/644642#osu/1366191)
-- DoubleTime
+- Double Time
   1. [Wyvern's Spirit – Force Zero (Mismagius) \[grumd\]](https://osu.ppy.sh/beatmapsets/992515#osu/2075562)
   2. [Ichigaya Arisa (CV: Itou Ayasa) – Su-Suki Nanka Janai! (Gaia) \[Insane\]](https://osu.ppy.sh/beatmapsets/796450#osu/1686207)
   3. [Yumi Arai - Hikouki Gumo (el poco maro DnB EDIT) (Monstrata) \[Collab Light Insane\]](https://osu.ppy.sh/beatmapsets/357161#osu/813166)
@@ -163,11 +163,11 @@ The 112's Corona Tournament was run by various community members.
   1. [Hirano Aya – Lost My Music (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/102969#osu/271662)
   2. [MiYAMO – Kapanet Ntiori (NachoPiggy) \[Overpriced\]](https://osu.ppy.sh/beatmapsets/16606#osu/59420)
   3. [Umeboshi Chazuke – Owari to Hajimari no Oto \[Long ver.\] (Azzedd) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/896054#osu/2001907)
-- HardRock
+- Hard Rock
   1. [Namaste ft. Tiana Khasi – Signs (Radio Edit) (Xellie) \[pishi's Insane\]](https://osu.ppy.sh/beatmapsets/277479#osu/668108)
   2. [Nekomata Master – Sayonara Heaven (Reol) \[Another\]](https://osu.ppy.sh/beatmapsets/535952#osu/1135149)
   3. [MASAKI (ZUNTATA) - Scarlet Lance (QuiescentRabbit) \[Expert\]](https://osu.ppy.sh/beatmapsets/967178#osu/2052735)
-- DoubleTime
+- Double Time
   1. [ZUN - Beware the Umbrella Left There Forever (Leyko) \[Nyquill's Lunatic\]](https://osu.ppy.sh/beatmapsets/49852#osu/156070)
   2. [fhana - Hoshikuzu no Interlude (Crystal) \[Interlude\]](https://osu.ppy.sh/beatmapsets/225575#osu/526305)
   3. [ASCA - Nisemono no Koi ni Sayounara with Wakeshima Kanon (timemon) \[Hard\]](https://osu.ppy.sh/beatmapsets/1055201#osu/2208363)
@@ -190,10 +190,10 @@ The 112's Corona Tournament was run by various community members.
 - Hidden
   1. [nano.RIPE - Real World (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/59269#osu/177735)
   2. [bibuko - Crayon (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/49455#osu/152463)
-- HardRock
+- Hard Rock
   1. [Rob Gasser – Taking Over (ft. Miyoki) (Mir) \[Conquest\]](https://osu.ppy.sh/beatmapsets/624879#osu/1316977)
   2. [GUHROOVY – AIR RAID FROM THA UNDAGROUND (Matrix) \[Niva's Insane\]](https://osu.ppy.sh/beatmapsets/1067854#osu/2314637)
-- DoubleTime
+- Double Time
   1. [wa. – Mellow (Seikatu) \[Another\]](https://osu.ppy.sh/beatmapsets/155094#osu/380596)
   2. [Celldweller – The Best It's Gonna Get (Mirash) \[piroshki's Light Insane\]](https://osu.ppy.sh/beatmapsets/1079727#osu/2263669)
   3. [cinema staff – great escape (Seto Kousuke) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/915864#osu/1912767)
@@ -214,10 +214,10 @@ The 112's Corona Tournament was run by various community members.
 - Hidden
   1. [ayaponzu\* – Otsukimi Recital (captin1) \[Broccoly's Extra\]](https://osu.ppy.sh/beatmapsets/172157#osu/416211)
   2. [SHK – Imagination (Gabi) \[SHD\]](https://osu.ppy.sh/beatmapsets/5958#osu/28148)
-- HardRock
+- Hard Rock
   1. [TOTTO – Wadatsumi (Desperate-kun) \[Pho's Insane\]](https://osu.ppy.sh/beatmapsets/351828#osu/775364)
   2. [DJ YOSHITAKA – FLOWER (Apricot) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/31054#osu/128780)
-- DoubleTime
+- Double Time
   1. [FELT – Prayer Blue (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/51145#osu/156927)
   2. [LhoU – popotnik \~ The Traveller of Ljubljana (Niva) \[Ryo's Insane\]](https://osu.ppy.sh/beatmapsets/712388#osu/1620017)
 
@@ -354,7 +354,7 @@ Monday, 27 April 2020:
 1. 112's Corona Tournament is an osu! tournament only allowed for Turkish-speaking players regardless of their profile flags.
 2. The tournament uses a qualifier into a double elimination bracket.
 3. The format of the tournament is planned as **2-player team versus** setup.
-4. Beatmap scoring is based on Score V2.
+4. Beatmap scoring is based on ScoreV2.
 5. Total weighted pp amount of each player should be 13200 to register the tournament. Refer [here](https://www.desmos.com/calculator/idwmeev5ns) for how it is calculated.
 6. The beatmaps for each round will be announced by the map selectors in advance at least a week before the actual matches take place. Only these beatmaps will be used during the respective matches.
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
@@ -382,7 +382,7 @@ Monday, 27 April 2020:
 ### Stage instructions
 
 1. In the Qualifier stage, each seed will have a specific pool designed by the map selectors.
-2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
+2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
 3. Each of the Qualifier pools contain 9 maps. There will be 3 maps under the NoMod bracket and 2 map for the other mod brackets.
 4. No warm-ups will be entertained during this stage.
 5. Players will have to play the map pool **twice** at a designated time. Placement results will be calculated according to their best combined scores.
@@ -417,16 +417,16 @@ Monday, 27 April 2020:
 
 1. There will be a new mappool for every stage.
    - Only Finals and Grand Finals will share the same pool.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
-   - The Round of 16 mappools will have 4 NoMod maps, 3 DoubleTime maps and 2 maps for each of the remaining mod brackets.
+   - The Round of 16 mappools will have 4 NoMod maps, 3 Double Time maps and 2 maps for each of the remaining mod brackets.
    - The Double Elimination stage mappools will have 5 NoMod maps, 3 maps for each of the remaining mod brackets.
 4. Each mappool has one tiebreaker.
-5. The NoFail mod may be selected on any map.
-6. The NoMod bracket will be played with no mods enabled at all (other than NoFail).
-7. The Hidden, HardRock and DoubleTime brackets will be played with the respective mod enabled by all players.
+5. The No Fail mod may be selected on any map.
+6. The NoMod bracket will be played with no mods enabled at all (other than No Fail).
+7. The Hidden, Hard Rock and Double Time brackets will be played with the respective mod enabled by all players.
 8. The FreeMod bracket will have Free Mods enabled.
-   - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
+   - Possible mod choices are Hidden, Hard Rock and Hidden+Hard Rock.
 9. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, there are no mod requirements.
 

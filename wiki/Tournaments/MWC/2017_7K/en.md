@@ -269,7 +269,7 @@ Sunday, 15 January 2017:
 
 1. The osu!mania 7K World Cup is a country-based team tournament, played on the osu!mania game mode with 7-key specific beatmaps.
    - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
-2. **Map scoring is based on Score V2. It uses an alternative way of weighting hit objects, accuracy and combo.**
+2. **Map scoring is based on ScoreV2. It uses an alternative way of weighting hit objects, accuracy and combo.**
 3. The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
 4. Match schedule will be settled by the Tournament Management (see below).
@@ -374,7 +374,7 @@ Sunday, 15 January 2017:
    - 15 FreeMod maps in Finals.
 3. Each mappool has one tiebreaker.
 4. All beatmaps will be played under the FreeMod conditions.
-   - Allowed mods are [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In) and [Flashlight](/wiki/Game_modifier/Flashlight).
+   - Allowed mods are [Hidden](/wiki/Game_modifier/Hidden), [Fade In](/wiki/Game_modifier/Fade_In) and [Flashlight](/wiki/Game_modifier/Flashlight).
    - The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling instructions

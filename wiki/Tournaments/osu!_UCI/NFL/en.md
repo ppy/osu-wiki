@@ -121,11 +121,11 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
   1. [Yorushika - Yuunagi, Bou, Hana Madoi (Delis) [Collab Extra]](https://osu.ppy.sh/beatmapsets/1029921#osu/2153557)
   2. [Cranky - Libera me (eiri-) [Freedom]](https://osu.ppy.sh/beatmapsets/757813#osu/1609794)
   3. [Thaehan - Help (\_Epreus) [Serendipity]](https://osu.ppy.sh/beatmapsets/766939#osu/1612129)
-- HardRock
+- Hard Rock
   1. [marina - Towa yori Towa ni (lit120) [Lasse's Extra]](https://osu.ppy.sh/beatmapsets/457621#osu/1349686)
   2. [monet - Noborenai Sakamichi (Mirash) [Hill of Sunflowers]](https://osu.ppy.sh/beatmapsets/671607#osu/1419975)
   3. [Jun Kuroda & AAAA - Cygnus (Rohit6) [BLACK ANOTHER]](https://osu.ppy.sh/beatmapsets/358056#osu/888465)
-- DoubleTime
+- Double Time
   1. [Chata - len (Rolni) [agony]](https://osu.ppy.sh/beatmapsets/1029309#osu/2152326)
   2. [TwoThirds & Feint - Epiphany (feat. Veela) (Streliteela) [Insane]](https://osu.ppy.sh/beatmapsets/241474#osu/557703)
   3. [Maksim Mrvica - Croatian Rhapsody (haha5957) [Vivace]](https://osu.ppy.sh/beatmapsets/54016#osu/170608)
@@ -142,11 +142,11 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
   1. [yak\_won - Sinus \~Secret Heart\~ (ktgster) [Extreme]](https://osu.ppy.sh/beatmapsets/736694#osu/1554713)
   2. [Minami - Kawaki wo Ameku (Mirash) [Expert]](https://osu.ppy.sh/beatmapsets/919827#osu/1921069)
   3. [TatshMusicCircle - Raikou -3rd Desire- (Kite) [Extra]](https://osu.ppy.sh/beatmapsets/143316#osu/1836851)
-- HardRock
+- Hard Rock
   1. [MIOYAMAZAKI - Noise (toybot) [Twilight]](https://osu.ppy.sh/beatmapsets/664507#osu/1406420)
   2. [nmk - sola (sjoy) [Extra]](https://osu.ppy.sh/beatmapsets/183267#osu/439135)
   3. [LukHash - GLITCH (Mao) [DEFECT]](https://osu.ppy.sh/beatmapsets/785774#osu/1649675)
-- DoubleTime
+- Double Time
   1. [Petit Rabbit's with beans, Hayami Saori, Kayano Ai - Waai Waai Try! (Momochikun) [Insane]](https://osu.ppy.sh/beatmapsets/906130#osu/1891025)
   2. [Aiobahn - Sugiyuku Hi to Kimi e (feat. nayuta) (toseethefuture) [Feelings]](https://osu.ppy.sh/beatmapsets/1032553#osu/2158968)
   3. [Kanon Wakeshima - Love your enemies (Delis) [Insane]](https://osu.ppy.sh/beatmapsets/419765#osu/909764)
@@ -163,11 +163,11 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
   1. [Grand Thaw - Aventyr (Nakagawa-Kanon) [Another]](https://osu.ppy.sh/beatmapsets/60184#osu/180027)
   2. [Fractal Dreamers - Celestial Horizon (Pho) [Extra]](https://osu.ppy.sh/beatmapsets/751846#osu/1582771)
   3. [W.T. Orchestra - William Tell Overture (Louis Cyphre) [Champion]](https://osu.ppy.sh/beatmapsets/29107#osu/97397)
-- HardRock
+- Hard Rock
   1. [MAMI - Kaze no Uta (Asuka\_-) [Milan-'s Insane]](https://osu.ppy.sh/beatmapsets/620982#osu/1322221)
   2. [Lon - MATRYOSHKA (EvilElvis) [Extra]](https://osu.ppy.sh/beatmapsets/109185#osu/285086)
   3. [Umeboshi Chazuke - Owari to Hajimari no Oto (Yoshimaro) [AF's Extra]](https://osu.ppy.sh/beatmapsets/790045#osu/1674513)
-- DoubleTime
+- Double Time
   1. [40mP feat. Luo Tianyi - Usotsuki wa Koi no Hajimari (NeKroMan4ik) [Insane]](https://osu.ppy.sh/beatmapsets/1050580#osu/2195777)
   2. [Choucho - When the First Love Ends (MeLLoN) [Collab]](https://osu.ppy.sh/beatmapsets/25451#osu/86219)
   3. [zts - liberatedliberator (deetz) [Dada's Insane]](https://osu.ppy.sh/beatmapsets/907805#osu/1902670)
@@ -184,11 +184,11 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
   1. [Inori Minase - Lucky Clover (RepL4y) [Fortune]](https://osu.ppy.sh/beatmapsets/734821#osu/1551347)
   2. [Kano - Stella-rium(Puru Remix) (VINXIS) [Extra]](https://osu.ppy.sh/beatmapsets/401731#osu/873777)
   3. [BUTAOTOME - Futari Dake no Kotoba (celerih) [Together]](https://osu.ppy.sh/beatmapsets/962568#osu/2015483)
-- HardRock
+- Hard Rock
   1. [cillia - FIRST (sukiNathan) [LAST]](https://osu.ppy.sh/beatmapsets/323961#osu/719902)
   2. [Kagamine Rin - Black Rebel (val0108) [0108 Rebel]](https://osu.ppy.sh/beatmapsets/28425#osu/109301)
   3. [REDALiCE Feat. Ayumi Nomiya - Little Star (LKs) [Extra]](https://osu.ppy.sh/beatmapsets/81051#osu/247241)
-- DoubleTime
+- Double Time
   1. [Nakae Mitsuki - Pure Love, True Love (El SolarBeam) [Insane]](https://osu.ppy.sh/beatmapsets/123687#osu/315738)
   2. [Chata - D Senjou no Koi no Uta (hoLysoup) [Insane]](https://osu.ppy.sh/beatmapsets/61414#osu/183425)
   3. [Neru - Re-Education (tutuhaha) [Hard]](https://osu.ppy.sh/beatmapsets/58773#osu/176676)
@@ -205,11 +205,11 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
   1. [sasakure.UK x DECO\*27 - 39 (Finshie) [Insane]](https://osu.ppy.sh/beatmapsets/667433#osu/1412248)
   2. [sana - Sunset March (hypercyte) [Twilight]](https://osu.ppy.sh/beatmapsets/739396#osu/1560218)
   3. [Foreground Eclipse - Calm Eyes Fixed On Me, Screaming (Alternative) [Lunatic]](https://osu.ppy.sh/beatmapsets/130227#osu/328588)
-- HardRock
+- Hard Rock
   1. [nano - INFINITY ZERO (Giralda) [Insane]](https://osu.ppy.sh/beatmapsets/230022#osu/535188)
   2. [Nekomata Master+ - squall (wa\_) [Extreme]](https://osu.ppy.sh/beatmapsets/85534#osu/234923)
   3. [ak+q - Excelsia (Sotarks) [Gabe's Insane]](https://osu.ppy.sh/beatmapsets/694200#osu/1522867)
-- DoubleTime
+- Double Time
   1. [livetune feat. Hatsune Miku - Tell Your World (Colin Hou) [Hard]](https://osu.ppy.sh/beatmapsets/42110#osu/147605)
   2. [Tama - Sonna Yume wo Mita no \~lonely dreaming girl\~ (Remix) (Snowy Dream) [Baka]](https://osu.ppy.sh/beatmapsets/46186#osu/146360)
   3. [MAX COVERI - RUNNING IN THE 90'S (Monstrata) [GERO'S HARD]](https://osu.ppy.sh/beatmapsets/739262#osu/1632044)
@@ -224,10 +224,10 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 - Hidden
   1. [KOTOKO - Oboetete Ii yo (cRyo\[iceeicee\]) [Insane]](https://osu.ppy.sh/beatmapsets/53791#osu/163836)
   2. [Otokaze - Ame Michi (Flower) [Insane]](https://osu.ppy.sh/beatmapsets/65545#osu/191942)
-- HardRock
+- Hard Rock
   1. [Two Steps From Hell - Dragonwing (emu1337) [Shizuku's Light Insane]](https://osu.ppy.sh/beatmapsets/936546#osu/2050101)
   2. [onoken - Felys (tsukamaete) [Alazy]](https://osu.ppy.sh/beatmapsets/14769#osu/53914)
-- DoubleTime
+- Double Time
   1. [IU - Good Day (ykcarrot) [Hard]](https://osu.ppy.sh/beatmapsets/45404#osu/141786)
   2. [onumi - NOSTALGIA (PandaHero) [Hard]](https://osu.ppy.sh/beatmapsets/952393#osu/2176309)
 
@@ -382,7 +382,7 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 #### Seeding
 
-All of the players joined a [seeding multiplayer match](https://osu.ppy.sh/community/matches/57819614). ![][flag_US] MyAngelNeptune left after playing the second HardRock pick and didn't continue in the tournament.
+All of the players joined a [seeding multiplayer match](https://osu.ppy.sh/community/matches/57819614). ![][flag_US] MyAngelNeptune left after playing the second Hard Rock pick and didn't continue in the tournament.
 
 | Player | Aggregate placement |
 | :-- | :-- |
@@ -483,7 +483,7 @@ Both tournaments will use a standard double-elimination format for playoffs.
 ### Lobby and matches
 
 1. Missing your match counts as a loss; no rematches will be made.
-2. Score V2 will be used as the win condition.
+2. ScoreV2 will be used as the win condition.
 3. Warmups will not be allowed.
 4. Low roll bans first; high roll picks first.
 5. Leaving tournament premises (Moss Cove AB) outside of assigned break times will result in a forfeiture of the tournament.

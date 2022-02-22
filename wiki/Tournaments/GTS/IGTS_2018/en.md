@@ -115,11 +115,11 @@ This competition has come to an end and resulted in the following podium:
   1. [t+pazolite - OMAKENO Stroke (JUDYDANNY) \[Oni\]](https://osu.ppy.sh/beatmapsets/371857#taiko/814566)
   2. [Rohi - Kodoku Egoism (hs714) \[714's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/58737#taiko/196672)
   3. [Ci Mei Gui - Wu Xuan Lan (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/339558#taiko/751680)
-- HardRock
+- Hard Rock
   1. [3R2 - Brawl Breaks (Doyak) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/466564#taiko/998462)
   2. [toby fox - Amalgam (MMzz) \[Oni\]](https://osu.ppy.sh/beatmapsets/373264#taiko/817717)
   3. [USAO - BroGamer (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/635636#taiko/1355301)
-- DoubleTime
+- Double Time
   1. [Haruna Luna - Sora wa Takaku Kaze wa Utau (TV Size) (kazenotama) \[Tama's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/48468#taiko/150757)
   2. [Nakamura Meiko - DIVINE FORTUNE (lolcubes) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/97132#taiko/260912)
   3. [Dan Winter - Don't Stop Push It Now (Nightcore Mix) (Gero, Hanjamon) \[Geromon's Muzukashii\]](https://osu.ppy.sh/beatmapsets/200374#taiko/478404)
@@ -143,10 +143,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [suzumu feat.soraru - Zetsubousei: Hero Chiryouyaku The Animation (Stefan) \[Oni\]](https://osu.ppy.sh/beatmapsets/416567#taiko/902308)
   2. [SOUND HOLIC Feat. Nana Takahashi - XINOBIKILL (HiroK) \[Oni\]](https://osu.ppy.sh/beatmapsets/744214#taiko/1569199)
-- HardRock
+- Hard Rock
   1. [AAAA Chazuke - Hop Step Adventure\* (TKS) \[Oni\]](https://osu.ppy.sh/beatmapsets/466471#taiko/1003336)
   2. [Jin feat. MARiA from GARNiDELiA - daze (short ver.) (Betsuto) \[Betsu's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/165391#taiko/409134)
-- DoubleTime
+- Double Time
   1. [Ryu\* feat.Mayumi Morinaga - Din Don Dan (\[R\]) \[Oni\]](https://osu.ppy.sh/beatmapsets/397834#taiko/870741)
   2. [Nekomata Master - Deadman Falling (Azer) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/619878#taiko/1523533)
 - FreeMod
@@ -168,10 +168,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Memme - Acid Burst (MMzz) \[Oni\]](https://osu.ppy.sh/beatmapsets/215546#taiko/506333)
   2. [Akhuta - Ludus In Tenebris (Nyan) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/443065#taiko/964451)
-- HardRock
+- Hard Rock
   1. [Nekomata Master - Avalon Hill (LunaticP) \[Oni\]](https://osu.ppy.sh/beatmapsets/261935#taiko/597875)
   2. [xi - ANiMA (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/326029#taiko/725277)
-- DoubleTime
+- Double Time
   1. [David Bergeaud - Joraal Nebula - Leviathan (Gezoda) \[Oni\]](https://osu.ppy.sh/beatmapsets/71072#taiko/268461)
   2. [siromaru + crankyHorie Yui - conflict (TKSalt) \[TK's Muzukashii\]](https://osu.ppy.sh/beatmapsets/103123#taiko/278005)
 - FreeMod
@@ -192,10 +192,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Electric Six - Gay Bar (Deif) \[Oni\]](https://osu.ppy.sh/beatmapsets/129402#taiko/362948)
   2. [Junichi Masuda - Battle! (Legendary Pokemon) (Sala-fan) \[Sala-fan's Oni\]](https://osu.ppy.sh/beatmapsets/219713#taiko/525670)
-- HardRock
+- Hard Rock
   1. [t+pazolite - intrO - Don't be Foolish (incandescene) \[Oni\]](https://osu.ppy.sh/beatmapsets/733624#taiko/1548238)
   2. [DJ YOSHITAKA - FLOWER (Lost The Lights) \[Oni\]](https://osu.ppy.sh/beatmapsets/339001#taiko/750226)
-- DoubleTime
+- Double Time
   1. [Mikako Komatsu - Owaranai Melody o Utai Dashimashita. (qoot8123) \[qoot8123's Oni\]](https://osu.ppy.sh/beatmapsets/121689#taiko/313568)
   2. [Horie Yui - chocolate insomnia (TV Size) (NoHitter) \[Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/104541#taiko/274833)
 - FreeMod
@@ -216,10 +216,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Shoujo - Reminiscing (Jaye) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/682206#taiko/1442600)
   2. [Qrispy Joybox - Snow Prism (TKSalt) \[Oni\]](https://osu.ppy.sh/beatmapsets/72392#taiko/224326)
-- HardRock
+- Hard Rock
   1. [Hakobe Naru(CV:M.A.O) - Nekomatsuri (komasy) \[Oni\]](https://osu.ppy.sh/beatmapsets/659442#taiko/1418602)
   2. [Doma Umaru (CV. Tanaka Aimi) - Nimensei\*Uraomote Life! (Tyistiana) \[Oni\]](https://osu.ppy.sh/beatmapsets/707590#taiko/1502287)
-- DoubleTime
+- Double Time
   1. [Mili - world.execute(me); (Volta) \[volta.taiko(muzukashii);\]](https://osu.ppy.sh/beatmapsets/507196#taiko/1078865)
   2. [7!! - Hey! Calorie Queen (Etsu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/459442#taiko/984288)
 - FreeMod
@@ -240,10 +240,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) [short ver.] (eiri-) \[Ayyri's Muzukashii\]](https://osu.ppy.sh/beatmapsets/741790#taiko/1567654)
   2. [P*Light - Gekkou Ranbu (Steins) \[Stein's Muzukashii\]](https://osu.ppy.sh/beatmapsets/406934#taiko/886669)
-- HardRock
+- Hard Rock
   1. [YUC'e - intro-duck-tion!! (\_yu68) \[\_yu68's muzu-kashi!!s\]](https://osu.ppy.sh/beatmapsets/700150#taiko/1528753)
   2. [Ryu\* feat. moimoi - OOO (\[R\]) \[Oni\]](https://osu.ppy.sh/beatmapsets/764462#taiko/1607509)
-- DoubleTime
+- Double Time
   1. [toby fox - Heartache (Lost The Lights) \[LTL's Muzukashii\]](https://osu.ppy.sh/beatmapsets/410256#taiko/890367)
   2. [7!! - Bye Bye (TV Size) (mingmichael) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/91594#taiko/247965)
 - FreeMod
@@ -434,14 +434,14 @@ Sunday, 12 August 2018:
 ### Mappool regulations
 
 1. Each stage will receive its own mappool, and it will progressively become harder.
-2. Each mappool consists of 6 brackets: NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker.
+2. Each mappool consists of 6 brackets: NoMod, Hidden, Hard Rock, Double Time, FreeMod, and Tiebreaker.
 3. Each mappool consists of 13 maps in total.
 4. Finals mappool will have 15 maps in total.
 5. The mappool consists of the following format:
    - 4 NoMod (5 in the Finals)
    - 2 Hidden
-   - 2 HardRock
-   - 2 DoubleTime
+   - 2 Hard Rock
+   - 2 Double Time
    - 2 FreeMod (3 in the Finals)
    - 1 Tiebreaker
 6. The Tiebreaker will be played under NoMod conditions.

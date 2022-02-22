@@ -105,11 +105,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Dreamcatcher - YOU AND I (Natsu) \[Endless Sky\]](https://osu.ppy.sh/beatmapsets/779107#osu/1636195)
   2. [paranoid void - Utsukushii Kodoku (dsco) \[Escapism\]](https://osu.ppy.sh/beatmapsets/777597#osu/1633534)
   3. [SHK - Identity Part III (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/280329#osu/634351)
-- HardRock
+- Hard Rock
   1. [YUC'e - Cinderella Syndrome (Kibbleru) \[Affection\]](https://osu.ppy.sh/beatmapsets/561693#osu/1187506)
   2. [Naru Hakobe (CV: M.A.O) - Neko Matsuri (Regou) \[Nyan!\]](https://osu.ppy.sh/beatmapsets/660752#osu/1615502)
   3. [Arizona Zervas - ROXANNE (wafer) \[DeviousPanda's Expert\]](https://osu.ppy.sh/beatmapsets/1076733#osu/2256206)
-- DoubleTime
+- Double Time
   1. [Meramipop - Aquaterrarium (M1keL) \[Eternum Sphere \[Reuploaded for IDC\]\]](https://osu.ppy.sh/beatmapsets/1248779#osu/2595497)
   2. [3L - Endless night (sjoy) \[Eternal\]](https://osu.ppy.sh/beatmapsets/178968#osu/430371)
   3. [nano - magenta (LunarSakuya) \[Insane\]](https://osu.ppy.sh/beatmapsets/45069#osu/140886)
@@ -136,11 +136,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Kawada Mami - Wings of Courage -Sora o Koete- (K@keru Dnb Remix) (Akitoshi) \[Soaring\]](https://osu.ppy.sh/beatmapsets/1143951#osu/2388549)
   2. [onoken - Amnolys (LowComboFC) \[NeilPerry's Extra\]](https://osu.ppy.sh/beatmapsets/652797#osu/1395543)
   3. [xi - Halcyon (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/20871#osu/73699)
-- HardRock
+- Hard Rock
   1. [IOSYS - Tanoshii Yoru no Ochakai - Ringo's Tea Party (Frey) \[Extra\]](https://osu.ppy.sh/beatmapsets/374858#osu/821165)
   2. [Warak - Once Upon A Time (Xilver) \[-PC's Extra\]](https://osu.ppy.sh/beatmapsets/519154#osu/1102952)
   3. [Kiryu - EVE (Flower) \[Another\]](https://osu.ppy.sh/beatmapsets/213434#osu/501755)
-- DoubleTime
+- Double Time
   1. [ClariS - Anemone (Azunyan-) \[Florae\]](https://osu.ppy.sh/beatmapsets/955753#osu/1996577)
   2. [ALiCE'S EMOTiON - Tag (Hardbeat Remix) (Takos) \[Patchouli\]](https://osu.ppy.sh/beatmapsets/28991#osu/96525)
   3. [Suda Keina - veil (Dogerinoo) \[Insane\]](https://osu.ppy.sh/beatmapsets/1015516#osu/2125408)
@@ -167,11 +167,11 @@ This competition has come to an end and resulted in the following podium:
   1. [KOTOKO - INFINITE SKY (Kirylln) \[Extra\]](https://osu.ppy.sh/beatmapsets/1050152#osu/2194913)
   2. [James Landino & Kabuki - Birdsong (Mao) \[Expert\]](https://osu.ppy.sh/beatmapsets/972810#osu/2036650)
   3. [DJ YOSHITAKA - Evans (Ghost Remix) (a3272509123) \[Another\]](https://osu.ppy.sh/beatmapsets/39990#osu/149971)
-- HardRock
+- Hard Rock
   1. [BoA - Kiseki (Hinsvar) \[Miracle\]](https://osu.ppy.sh/beatmapsets/150145#osu/370612)
   2. [Pastel\*Palettes - Happy Synthesizer (M1keL) \[CS4.5\]](https://osu.ppy.sh/beatmapsets/1242915#osu/2584027)
   3. [DJ Swan - Beautiful Angel (rs\_fadeaway) \[Heatherfield's Another\]](https://osu.ppy.sh/beatmapsets/556834#osu/1270701)
-- DoubleTime
+- Double Time
   1. [Zedd - Clarity (feat. Foxes) (Fall) \[Panacea\]](https://osu.ppy.sh/beatmapsets/1189069#osu/2477825)
   2. [EastNewSound - Lucid Dream (Natteke) \[Lunakuren\]](https://osu.ppy.sh/beatmapsets/20826#osu/73074)
   3. [Girls Generation - Oh! (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/107834#osu/282379)
@@ -198,11 +198,11 @@ This competition has come to an end and resulted in the following podium:
   1. [THE BINARY - Hana ni Ame o, Kimi ni Uta o (ponbot) \[Extra\]](https://osu.ppy.sh/beatmapsets/1179276#osu/2535520)
   2. [HyuN - Tokyo's Starlight (Heilia) \[Extra\]](https://osu.ppy.sh/beatmapsets/1011055#osu/2234734)
   3. [SHK - Couple Breaking (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/46368#osu/144356)
-- HardRock
+- Hard Rock
   1. [a\_hisa - Synesthesia (ProfessionalBox) \[Extra\]](https://osu.ppy.sh/beatmapsets/462768#osu/991051)
   2. [TOTTO - Wadatsumi (Desperate-kun) \[Irre's Insane (Winner!)\]](https://osu.ppy.sh/beatmapsets/351828#osu/775360)
   3. [Hatsune Miku - Hidari Migi -migihidari- (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/24177#osu/87223)
-- DoubleTime
+- Double Time
   1. [yanaginagi - Owari no Sekai kara (Frostmourne) \[Insane\]](https://osu.ppy.sh/beatmapsets/270999#osu/616251)
   2. [zts - lastendconductor (EvilElvis) \[Insane\]](https://osu.ppy.sh/beatmapsets/333965#osu/738959)
   3. [Kana Nishino - Wishing (Modem) \[Last Wish\]](https://osu.ppy.sh/beatmapsets/414779#osu/899144)
@@ -227,10 +227,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Nekomata Master feat. Hayashi Momoko - Rainbow after snow (C O N N E R) \[Frontier's Eucatastrophe\]](https://osu.ppy.sh/beatmapsets/879851#osu/1840792)
   2. [4 Elements - I Want You To Hold Me (Nightcore Mix) (Okoratu) \[Insane\]](https://osu.ppy.sh/beatmapsets/732997#osu/1546428)
-- HardRock
+- Hard Rock
   1. [orangentle - HAELEQUIN (Gamu) \[toybot's Insane\]](https://osu.ppy.sh/beatmapsets/291495#osu/757386)
   2. [ShinRa-Bansho - Dramatic Hizakurige (Kirylln) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/926231#osu/2034979)
-- DoubleTime
+- Double Time
   1. [Lia - Toki o Kizamu Uta (Djulus) \[Spark of Life\]](https://osu.ppy.sh/beatmapsets/974668#osu/2040130)
   2. [Kana Nishino - Sweet Dreams (11t dnb mix) (Ascendance) \[Taridance's Hyper\]](https://osu.ppy.sh/beatmapsets/499488#osu/1094606)
   3. [Rin - Chireiden set 05 ~ Walking the Streets of a Former Hell (Niva) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/985478#osu/2061813)
@@ -373,7 +373,7 @@ Sunday, 6 September 2020:
    - TIer 2, players within rank between #5,001 - #25,000
    - Tier 3, players within rank #25,001 and below
 7. Team will consist of 6 players with the minimum having 1 player from each Tier 1, Tier 2, and Tier 3.
-8. The scoring system used will be **ScoreV2**, using the TeamVS team mode, and is mandatory to use the **NoFail** mod.
+8. The scoring system used will be **ScoreV2**, using the TeamVS team mode, and is mandatory to use the **No Fail** mod.
 9. Joining the Discord server is mandatory in order for your registration to count.
 10. Each team will have time to name their team and captain a week between Drafting and Groupo Stage.
 11. All matches will use **WIB (Waktu Indonesia Barat)** or **GMT+7** timezone.

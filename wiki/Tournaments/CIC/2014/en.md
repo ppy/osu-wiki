@@ -82,12 +82,12 @@ This competition has come to an end and resulted in the following podium:
   3. [Boa - Kiseki (Hinsvar) \[Rain Collab\]](https://osu.ppy.sh/beatmapsets/150145#fruits/378372)
   4. [Reol - +Danshi (fanzhen0019) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/178550#fruits/433284)
   5. [LeaF - Evanescent (Krah) \[Overdose\]](https://osu.ppy.sh/beatmapsets/176646#fruits/454879)
-- HardRock
+- Hard Rock
   1. [Memme - Astronomas (Charles445) \[Extra\]](https://osu.ppy.sh/beatmapsets/87188#fruits/238265)
   2. [Knife Party - Bonfire (inverness) \[Rage\]](https://osu.ppy.sh/beatmapsets/73576#fruits/281918)
   3. [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](https://osu.ppy.sh/beatmapsets/111825#fruits/290733)
   4. [Cuvelia - Tenkuu no Yoake (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/47757#fruits/148009)
-- DoubleTime
+- Double Time
   1. [Susumu Hirasawa - Parade (Real1) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/8487#fruits/34819)
   2. [Susumu Hirasawa - Forces (Card N'FoRcE) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/20447#fruits/72419)
   3. [Blind Stare - Shotgun Symphony (awp) \[Insane\]](https://osu.ppy.sh/beatmapsets/343#fruits/3290)
@@ -117,12 +117,12 @@ This competition has come to an end and resulted in the following podium:
   4. [eyemedia - Holy Knight (MMd-) \[OverdoZe\]](https://osu.ppy.sh/beatmapsets/136988#fruits/446436)
   5. [NeLiME - CODE NAME : ZERO (ursa) \[Overdose\]](https://osu.ppy.sh/beatmapsets/148238#fruits/374232)
   6. [sakuzyo - AXION (rrtyui) \[KING\]](https://osu.ppy.sh/beatmapsets/41693#fruits/131579)
-- HardRock
+- Hard Rock
   1. [Ani - Ververg (feat. B) (Niva) \[Hard\]](https://osu.ppy.sh/beatmapsets/55328#fruits/167888)
   2. [V.K - DARKNESS (Niva) \[Hard\]](https://osu.ppy.sh/beatmapsets/79838#fruits/222591)
   3. [Rabpit - Saika -Ver.B- (Azmato) \[7omoa's Insane\]](https://osu.ppy.sh/beatmapsets/115114#fruits/313887)
   4. [aioi feat. KAMATA JUNKO - New World (shikyu) \[Hard\]](https://osu.ppy.sh/beatmapsets/85391#fruits/234680)
-- DoubleTime
+- Double Time
   1. Rabpit - Saika (Kandai-sa) \[Platter\]\*
   2. [xi - Halcyon (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/20871#fruits/73699)
   3. [xi - Parousia (Shiirn) \[Another\]](https://osu.ppy.sh/beatmapsets/37333#fruits/120121)
@@ -159,12 +159,12 @@ This competition has come to an end and resulted in the following podium:
   2. [Suzaku - Anisakis -somatic mutation type "Forza"- (Chewin) \[Extra\]](https://osu.ppy.sh/beatmapsets/146791#fruits/363633)
   3. [Demetori - Jehovah's YaHVeH (happy30) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/9641#fruits/38294)
   4. [Nakae Mitsuki - Pure Love, True Love (El SolarBeam) \[Insane\]](https://osu.ppy.sh/beatmapsets/123687#fruits/315738)
-- HardRock
+- Hard Rock
   1. [M2U - Gypsy Tronic (LKs) \[Hard\]](https://osu.ppy.sh/beatmapsets/61590#fruits/209954)
   2. [Nishino Kana - Yours only, feat.WISE ~maison de m-flo~ (S h i a) \[Hard\]](https://osu.ppy.sh/beatmapsets/44741#fruits/140054)
   3. [Rob Mayth - Heart To Heart (Nightcore Mix) (Dark\_Ai) \[Insane\]](https://osu.ppy.sh/beatmapsets/88206#fruits/240539)
   4. [Rabpit - Saika -Ver.B- (Azmato) \[Insane\]](https://osu.ppy.sh/beatmapsets/115114#fruits/313888)
-- DoubleTime
+- Double Time
   1. [Rita - Alea jacta est! (DELiS) \[Insane\]](https://osu.ppy.sh/beatmapsets/112150#fruits/291402)
   2. [Primastella - Koigokoro (Luerxa) \[Insane\]](https://osu.ppy.sh/beatmapsets/127712#fruits/323769)
   3. [Zektbach - Apocalypse ~dirge of swans~ (IceBeam) \[Another\]](https://osu.ppy.sh/beatmapsets/54529#fruits/165695)
@@ -193,12 +193,12 @@ This competition has come to an end and resulted in the following podium:
   2. [kors k - SigSig (Reiji-RJ) \[Extra\]](https://osu.ppy.sh/beatmapsets/27677#fruits/102557)
   3. [EastNewSound - Yuune Zekka, Ryouran no Sai (goodbye) \[Insane\]](https://osu.ppy.sh/beatmapsets/40386#fruits/128163)
   4. [SHK - Identity Part 4 (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/39428#fruits/125702)
-- HardRock
+- Hard Rock
   1. [Nishino Kana - Aitakute Aitakute (Dark_Ai) \[Hard\]](https://osu.ppy.sh/beatmapsets/75938#fruits/214356)
   2. [System Of A Down - Lonely Day (Sieg) \[Hard\]](https://osu.ppy.sh/beatmapsets/78164#fruits/218902)
   3. [Taecyeon, Suzy, Kim Soohyun, Wooyoung & JOO - Dream High (Sonnyc) \[Hard\]](https://osu.ppy.sh/beatmapsets/124614#fruits/317594)
   4. [NieN - Someday (MoonFragrance) \[Maximum\]](https://osu.ppy.sh/beatmapsets/16618#fruits/59786)
-- DoubleTime
+- Double Time
   1. [KOKIA - Fate (meiikyuu) \[Twin Blades\]](https://osu.ppy.sh/beatmapsets/55606#fruits/168612)
   2. [Akita Neru - Gotya Gotya Uruse~! (Mafiamaster) \[Vicho's Light Insane\]](https://osu.ppy.sh/beatmapsets/22182#taiko/80414)
   3. [Nekomata Master - Scar in the Earth (skranger) \[ignore's Another\]](https://osu.ppy.sh/beatmapsets/13767#fruits/55656)
@@ -336,7 +336,7 @@ For participants who is not eligible to fulfill the condition above, they need t
 ### Semifinals and onwards
 
 1. Every mod must be picked during the match.
-2. In a cycle of 4 mod types (consisting of No Mod&Free Mod, Hidden, DoubleTime and HardRock) each of them must be played within 4 matches.
+2. In a cycle of 4 mod types (consisting of No Mod&Free Mod, Hidden, Double Time and Hard Rock) each of them must be played within 4 matches.
    - Mods that have been used during the cycle are not allowed to be picked until the cycle ends.
 3. 1st map picker will be determined through `!roll` command with highest point.
 

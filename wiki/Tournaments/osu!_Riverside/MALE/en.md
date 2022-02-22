@@ -111,11 +111,11 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
   1. [DJ TOTTO feat. \*spiLa\* - illumina (handsome) [radiance]](https://osu.ppy.sh/beatmapsets/349883#osu/771495)
   2. [Ryu\* Vs. L.E.D.-G Vs. ZUN - PARADISE GHOST (Pokie) [Extra]](https://osu.ppy.sh/beatmapsets/67133#osu/195305)
   3. [Umi no Soko kara Mermaid Prim by ARM x Komso - Gyogyotto Ningyo Bakkon Bridal (fanzhen0019) [Another]](https://osu.ppy.sh/beatmapsets/651723#osu/1382059)
-- HardRock
+- Hard Rock
   1. [REDALiCE feat. anporin - Beautiful Dream (Dailycare) [Extra]](https://osu.ppy.sh/beatmapsets/463361#osu/992171)
   2. [Qrispy Joybox - snow prism (ktgster) [Extreme]](https://osu.ppy.sh/beatmapsets/132389#osu/332962)
   3. [DJ S3RL - T-T-Techno (feat. Jesskah) (nold_1702) [Technonationalism]](https://osu.ppy.sh/beatmapsets/83560#osu/655794)
-- DoubleTime
+- Double Time
   1. [ALiCE'S EMOTiON - LUNA (Frostmourne) [Insane]](https://osu.ppy.sh/beatmapsets/47124#osu/152179)
   2. [Syaro(CV.Uchida Maaya) - Caffeine Fighter (Doormat) [Kilimanjaro]](https://osu.ppy.sh/beatmapsets/451250#osu/968065)
   3. [yuikonnu - Byoumei Koiwazurai (litoluna) [Insane]](https://osu.ppy.sh/beatmapsets/135358#osu/339184)
@@ -133,11 +133,11 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
   1. [DJ TOTTO & Qrispy Joybox - Curtain Call Memories (StarForYou) [Regou's Extra]](https://osu.ppy.sh/beatmapsets/414940#osu/901219)
   2. [Amuro vs Killer - Mei (yeahyeahyeahhh) [Another]](https://osu.ppy.sh/beatmapsets/25605#osu/86757)
   3. [Sota Fujimori - Mother Ship (Flower) [EXTREME]](https://osu.ppy.sh/beatmapsets/66929#osu/194854)
-- HardRock
+- Hard Rock
   1. [Natsuiro Bikini no Prim - Nagisa no Koakuma Lovely\~Radio (CSY the corrupt) [Extreme]](https://osu.ppy.sh/beatmapsets/76709#osu/215888)
   2. [Ryu\* - Mind Mapping (kors k mix) (wring) [EXTRA]](https://osu.ppy.sh/beatmapsets/47199#osu/146583)
   3. [ARForest - Altros (Down) [milr_'s Extra]](https://osu.ppy.sh/beatmapsets/658433#osu/1394753)
-- DoubleTime
+- Double Time
   1. [senya - Kimi to Dareka no Yasashisa ni (kakifly) [Affection]](https://osu.ppy.sh/beatmapsets/250337#osu/596161)
   2. [Kraster - Remember History (Short Ver.) (Serval) [Lunatic]](https://osu.ppy.sh/beatmapsets/22115#osu/76419)
   3. [Mitchie M - Viva Happy (Natsu) [Insane]](https://osu.ppy.sh/beatmapsets/120002#osu/317917)
@@ -154,10 +154,10 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 - Hidden
   1. [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE (Startrick) [Another]](https://osu.ppy.sh/beatmapsets/107647#osu/281993)
   2. [P\*Light - TRIGGER\*HAPPY (Kyubey) [INFINITE]](https://osu.ppy.sh/beatmapsets/131361#osu/338594)
-- HardRock
+- Hard Rock
   1. [nora2r - B.B.K.K.B.K.K (rezoons) [Another]](https://osu.ppy.sh/beatmapsets/153920#osu/378178)
   2. [kors k feat. Rie - Rising in the Sun(original mix) (soulfear) [Another]](https://osu.ppy.sh/beatmapsets/26742#osu/90024)
-- DoubleTime
+- Double Time
   1. [senya - Bondage Anemonation (Satellite) [Lunatic]](https://osu.ppy.sh/beatmapsets/122416#osu/323264)
   2. [Kagamine Rin & Len - Streamline Prism (banvi) [Jumping]](https://osu.ppy.sh/beatmapsets/28894#osu/96142)
 - Tiebreaker
@@ -172,10 +172,10 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 - Hidden
   1. [Mary - Artificial Rose (Urushi38) [Another]](https://osu.ppy.sh/beatmapsets/99434#osu/264439)
   2. [Megpoid GUMI - Chocolate (Chewin) [Chocolate]](https://osu.ppy.sh/beatmapsets/52732#osu/161037)
-- HardRock
+- Hard Rock
   1. [Ryu\* - We're so Happy (Yauxo) [apple's Insane]](https://osu.ppy.sh/beatmapsets/456072#osu/1087352)
   2. [Sharlo - Eisou Youga \~Meikyou Shisui\~ (Sharlo) [Satellite's Another]](https://osu.ppy.sh/beatmapsets/380740#osu/911515)
-- DoubleTime
+- Double Time
   1. [senya - Tokuiten no Kaibutsuteki Kanjou (Satellite) [ShiraKai's Hard]](https://osu.ppy.sh/beatmapsets/370545#osu/858200)
   2. [tsunamaru - Orange Genome (goodbye) [gudbye]](https://osu.ppy.sh/beatmapsets/61278#osu/218944)
 - Tiebreaker
@@ -188,9 +188,9 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
   2. [Ryu\* feat.Mayumi Morinaga - Din Don Dan (moonlightleaf) [Din Don Dan]](https://osu.ppy.sh/beatmapsets/469782#osu/1004556)
 - Hidden
   1. [senya - Tsuki ni Murakumo Hana ni Kaze (PV ver.) (kakifly) [Setz206's Lunatic]](https://osu.ppy.sh/beatmapsets/218633#osu/519120)
-- HardRock
+- Hard Rock
   1. [Ryu\* - I'm so Happy (Yauxo) [Collab Insane]](https://osu.ppy.sh/beatmapsets/768390#osu/1744514)
-- DoubleTime
+- Double Time
   1. [ginkiha - Fading Star (Mao) [Kenterz's Hyper]](https://osu.ppy.sh/beatmapsets/183512#osu/441861)
 - Marathon
   1. **[Toyosaki Aki - Diamond (Fycho) [Insane]](https://osu.ppy.sh/beatmapsets/111760#osu/290581)**
@@ -331,7 +331,7 @@ The bracket was cut off early due to time concerns, so later matches switched to
 
 1. The Most Amazing LAN Ever is a one-on-one osu! and osu!mania tournament.
 2. Players must play all of their matches at Highlander Con 2019.
-3. Map scoring is based on **Score V2**.
+3. Map scoring is based on **ScoreV2**.
 4. In osu!, seeding will be based on the results of the Group Stage. In osu!mania, seeding will be based on player rank.
 5. Except in Group Stage, each player will be allowed to ban one map per match.
 6. Any mods may be used on FreeMod, Tiebreaker and Marathon maps.

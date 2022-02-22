@@ -124,11 +124,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Memme - Extreme Fantasy (-PC) \[Reverie\]](https://osu.ppy.sh/beatmapsets/697899#osu/1478228)
   2. [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (Hivie) \[IOException's Expert\]](https://osu.ppy.sh/beatmapsets/1043808#osu/2201860)
   3. [Renril - Rinne Tensei (Depths) \[Awakening\]](https://osu.ppy.sh/beatmapsets/824423#osu/1727589)
-- HardRock
+- Hard Rock
   1. [Camellia - Chirality (Suzuki\_1112) \[Moecho's Hypertrophy Xtra\]](https://osu.ppy.sh/beatmapsets/692068#osu/1517055)
   2. [Alfakyun. x Camellia - calling (ProfessionalBox) \[Prestissimo\]](https://osu.ppy.sh/beatmapsets/523558#osu/1111493)
   3. [xi feat. Sta - Tiferet (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/714225#osu/1509637)
-- DoubleTime
+- Double Time
   1. [senya - Sasayaku, Kiekaketa Kouishou ga. (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmapsets/1053613#osu/2201688)
   2. [ShinRa-Bansho - Marisa wa Taihen na Mono o Nusunde Ikimashita ShinRa-Bansho Ver (Len) \[Classic Extra\]](https://osu.ppy.sh/beatmapsets/1024028#osu/2142037)
   3. [LhoU - popotnik ~ The Traveller of Ljubljana (Niva) \[Exotic\]](https://osu.ppy.sh/beatmapsets/712388#osu/1505919)
@@ -155,11 +155,11 @@ This competition has come to an end and resulted in the following podium:
   1. [MAXIMIZER VS DJ TOTTO - REBELLIO (Smoothie World) \[SINGVER'S AVATAR\]](https://osu.ppy.sh/beatmapsets/469021#osu/1003011)
   2. [Sound.AVE - Churu Churu (Fuma) \[Bwomf ;3\]](https://osu.ppy.sh/beatmapsets/1228456#osu/2554398)
   3. [Hatsuki Yura - The Clockwork Rose -Tokei Shikake no Bara Shoujo- (My Angel Watame) \[Corruption\]](https://osu.ppy.sh/beatmapsets/849824#osu/1776939)
-- HardRock
+- Hard Rock
   1. [96Neko - Uso No Hibana (Depths) \[Corrupt Emotions\]](https://osu.ppy.sh/beatmapsets/578574#osu/1225022)
   2. [USAO - Outbreak (Otosaka-Yu) \[Let's go!!!\]](https://osu.ppy.sh/beatmapsets/1095388#osu/2289292)
   3. [SOUND HOLIC vs. dj TAKA feat. YURiCa - TIEFSEE (celerih) \[Expert\]](https://osu.ppy.sh/beatmapsets/928646#osu/1939633)
-- DoubleTime
+- Double Time
   1. [Nakamura Meiko - Scarlet Faith (Tsukuyomi) \[Insane\]](https://osu.ppy.sh/beatmapsets/144223#osu/364990)
   2. [Chase & Status feat. Plan B - End Credits (Nemis) \[Nemis\]](https://osu.ppy.sh/beatmapsets/105686#osu/277274)
   3. [Takahashi Yoko - A Cruel Angel's Thesis (Director's Edit. Version) (Net0) \[osu! Asia Oceania Tournament edit\]](https://osu.ppy.sh/beatmapsets/1164031#osu/2546194)
@@ -185,11 +185,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Fear, and Loathing in Las Vegas - Stray in Chaos (puxtu) \[Alheak's Extreme\]](https://osu.ppy.sh/beatmapsets/574129#osu/1225317)
   2. [mmry - Variance (DeviousPanda) \[Master (edit ver)\]](https://osu.ppy.sh/beatmapsets/1165608#osu/2431090)
   3. [CustomiZ - COOLEST (TV Size) (Spork Lover) \[EX\]](https://osu.ppy.sh/beatmapsets/520373#osu/1563518)
-- HardRock
+- Hard Rock
   1. [Krewella - Killin' It (Sped Up Ver.) (Hectic) \[Rapture\]](https://osu.ppy.sh/beatmapsets/1029940#osu/2153590)
   2. [onoken - Amnolys (DreaM117er) \[Koiyuki's Schwarz Extrem\]](https://osu.ppy.sh/beatmapsets/1069791#osu/2301694)
   3. [RoughSketch feat. Aikipin - Alice in Voodooland (tpz Despair Remix) (JeZag) \[Fear\]](https://osu.ppy.sh/beatmapsets/678481#osu/1434586)
-- DoubleTime
+- Double Time
   1. [WEAVER - Kuchizuke Diamond (-Mikan) \[Dailycare's Special\]](https://osu.ppy.sh/beatmapsets/1051509#osu/2251196)
   2. [Rche - Todestrieb (FrenZ396) \[Insane\]](https://osu.ppy.sh/beatmapsets/968678#osu/2028792)
   3. [M.O.V.E - Gamble Rumble (Jemmmmy) \[Insane\]](https://osu.ppy.sh/beatmapsets/137699#osu/344076)
@@ -215,11 +215,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Warak - REANIMATE (GIDZ) \[Epic\]](https://osu.ppy.sh/beatmapsets/1138102#osu/2377630)
   2. [HyuN - Infinity Heaven (BarkingMadDog) \[Extreme\]](https://osu.ppy.sh/beatmapsets/821998#osu/1752927)
   3. [P-Model - Logic Airforce (nullset) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/29267#osu/100237)
-- HardRock
+- Hard Rock
   1. [Morimori Atsushi - Tits or get the fuck out!! (Regou) \[FreeSongs' Extra!!\]](https://osu.ppy.sh/beatmapsets/455022#osu/995932)
   2. [ALI - Wild Side (fieryrage) \[Keitaro's Expert\]](https://osu.ppy.sh/beatmapsets/1109683#osu/2319256)
   3. [96neko - E? Aa, sou. (newton-) \[Fabricated\]](https://osu.ppy.sh/beatmapsets/902346#osu/1914227)
-- DoubleTime
+- Double Time
   1. [Juno Reactor - Guardian Angel (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/965524#osu/2021129)
   2. [XX:me - Torikago (Kibbleru) \[Jian\]](https://osu.ppy.sh/beatmapsets/731356#osu/1543369)
   3. [a\_hisa - inertia (\[ HalLoWeeN \]) \[Hyper\]](https://bloodcat.com/osu/s/126347)
@@ -244,10 +244,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [uma vs. Morimori Atsushi - GLORY:ROAD (My Angel RangE) \[KAGUYA_SAMA'S:STAIR\]](https://osu.ppy.sh/beatmapsets/1067583#osu/2256761)
   2. [Josif Habib - Happy Chiptune 2 (TheNexus) \[Insane\]](https://osu.ppy.sh/beatmapsets/805331#osu/1690552)
-- HardRock
+- Hard Rock
   1. [SHK - Identity (Fuma) \[Expert\]](https://osu.ppy.sh/beatmapsets/1212904#osu/2524500)
   2. [Rohi - Kanata ni Mau wa Sakura no Shirabe (NatsumeRin) \[Extra\]](https://osu.ppy.sh/beatmapsets/93555#osu/252290)
-- DoubleTime
+- Double Time
   1. [Meg & Dia - Black Wedding (Larto) \[Crazy!\]](https://osu.ppy.sh/beatmapsets/30000#osu/101115)
   2. [SYNC.ART'S - Mienai kara, Mieru Mono. (pyrowar56) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/725159#osu/1554528)
   3. [P4koo - Crystal Illusion (Riana) \[Insane\]](https://osu.ppy.sh/beatmapsets/791944#osu/2232947)
@@ -270,10 +270,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [BEMANI Sound Team "Nekomata Master" - Matsuri no Ato, Kimi o Omofu. (Seolv) \[DeviousPanda's Expert\]](https://osu.ppy.sh/beatmapsets/1081665#osu/2271795)
   2. [solfa feat. Shimotsuki Haruka - leap in your mind (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/818672#osu/1718542)
-- HardRock
+- Hard Rock
   1. [Rapbit & Ritsuka - When They Cry -Rosin Remix- (Fuma) \[Expert\]](https://osu.ppy.sh/beatmapsets/1208278#osu/2515950)
   2. [04 Limited Sazabys - Squall (Gillstar) \[Loreley's Another\]](https://osu.ppy.sh/beatmapsets/1029349#osu/2165315)
-- DoubleTime
+- Double Time
   1. [Mami Kawada - sense (Giralda) \[LC's Insane\]](https://osu.ppy.sh/beatmapsets/325638#osu/723285)
   2. [The Bellas - Toxic (Janpai) \[Intoxicated\]](https://osu.ppy.sh/beatmapsets/756893#osu/1592529)
   3. [Nekomata Master - Sayonara Heaven (deetz) \[EX\]](https://osu.ppy.sh/beatmapsets/989775#osu/2070432)
@@ -295,10 +295,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [The Lonely Island Ft. Akon - I Just Had Sex (TKiller) \[Collab\]](https://bloodcat.com/osu/s/24104)
   2. [Kabocha - EmbryO (Kawashiro) \[Garden's Expert\]](https://osu.ppy.sh/beatmapsets/947018#osu/1990062)
-- HardRock
+- Hard Rock
   1. [Umi no Soko kara Mermaid Prim by ARM x Komso - Gyogyotto Ningyo Bakkon Bridal (fanzhen0019) \[Another\]](https://osu.ppy.sh/beatmapsets/651723#osu/1382059)
   2. [YOASOBI - Ano Yume o Nazotte (eiri-) \[Love\]](https://osu.ppy.sh/beatmapsets/1128515#osu/2357718)
-- DoubleTime
+- Double Time
   1. [Suzuki Konomi - This game (Kalibe) \[Kuuhaku\]](https://osu.ppy.sh/beatmapsets/462896#osu/991267)
   2. [SOUND HOLIC - Scarlet Eyes (Cyborg) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14954#osu/55177)
 
@@ -520,7 +520,7 @@ Monday, 13 July 2020:
 ### General rules
 
 1. osu! Asia Oceania Tournament 2 is an osu! tournament.
-2. The scoring system used will be **ScoreV2** with NoFail bracket selected.
+2. The scoring system used will be **ScoreV2** with No Fail bracket selected.
 3. Players will assemble a team between 2 - 4 players and the match format will be a 2v2.
 4. There will be **no rank restrictions**.
 5. Participation is restricted to players with flags from Asian or Oceanian countries.
@@ -571,10 +571,10 @@ Monday, 13 July 2020:
 ### Mappool information
 
 1. Mappool, bans, and winning conditions for each round will follow the following format:
-   - Qualifiers: 4 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime
-   - Round of 32 and Round of 16: 5 NoMod, 2 Hidden, 2 HardRock, 3 DoubleTime, 2 FreeMod, 1 Tiebreaker (1 ban, best of 11)
-   - Quarterfinals and Semifinals: 5 NoMod, 3 Hidden, 3 HardRock, 4 DoubleTime, 3 FreeMod, 1 Tiebreaker (2 bans, best of 13)
-   - Finals and Grand Finals: 6 NoMod, 3 Hidden, 3 HardRock, 4 DoubleTime, 3 FreeMod, 1 Tiebreaker (2 bans, best of 15)
+   - Qualifiers: 4 NoMod, 2 Hidden, 2 Hard Rock, 2 Double Time
+   - Round of 32 and Round of 16: 5 NoMod, 2 Hidden, 2 Hard Rock, 3 Double Time, 2 FreeMod, 1 Tiebreaker (1 ban, best of 11)
+   - Quarterfinals and Semifinals: 5 NoMod, 3 Hidden, 3 Hard Rock, 4 Double Time, 3 FreeMod, 1 Tiebreaker (2 bans, best of 13)
+   - Finals and Grand Finals: 6 NoMod, 3 Hidden, 3 Hard Rock, 4 Double Time, 3 FreeMod, 1 Tiebreaker (2 bans, best of 15)
 2. For FreeMod bracket, only one player is required to pick one of the following mods/mod combinations between Easy, Hidden, or Hard Rock.
 3. In the Tiebreaker, players are allowed to pick a mod of their choice.
 

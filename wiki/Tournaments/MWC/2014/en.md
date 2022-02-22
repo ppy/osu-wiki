@@ -562,7 +562,7 @@ This competition has come to an end and resulted in the following podium:
 3. Each mappool consists of 1 bracket: FreeMod
 4. Each mappool consists of 10-14 maps in total.
 5. Each mappool has one tiebreaker
-6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In) and [Flashlight](/wiki/Game_modifier/Flashlight) or no mode at all.
+6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Hidden](/wiki/Game_modifier/Hidden), [Fade In](/wiki/Game_modifier/Fade_In) and [Flashlight](/wiki/Game_modifier/Flashlight) or no mode at all.
 7. The tiebreaker will be played under FreeMod conditions.
 8. The size of the FreeMod bracket will be:
    - 9 in Group Stage

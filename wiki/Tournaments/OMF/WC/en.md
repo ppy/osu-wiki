@@ -144,13 +144,13 @@ This competition has come to an end and resulted in the following podium:
   2. [Basshunter - Ievan Polkka Trance Remix (Teara) \[BeuKirby\]](https://osu.ppy.sh/beatmapsets/10406#osu/66246)
   3. [Savage Garden - I Want You (mtmcl) \[Ridiculous\]](https://osu.ppy.sh/beatmapsets/4548#osu/24428)
   4. [Anant - Grade Eyes - Lock Wind Arrangement (Full Ver) (bodokevin) \[Insane\]](https://osu.ppy.sh/beatmapsets/52192#osu/159662)
-- HardRock
+- Hard Rock
   1. [Team Nekokan - Can't Defeat Airman (Blue Dragon) \[Holy Shit! It's Airman!!\]](https://osu.ppy.sh/beatmapsets/24313#osu/104229)
   2. [Lion - four pieces of heaven (Sprosive) \[AnotheR\]](https://osu.ppy.sh/beatmapsets/52192#osu/159662)
   3. [BoA - Duvet Remix (Saturos-fangirl) \[Losing\]](https://osu.ppy.sh/beatmapsets/7053#osu/30871)
-- DoubleTime & HardRock
+- Double Time & Hard Rock
   1. [Bowling for Soup - 1985 (Rolled) \[Hito's Insane\]](https://osu.ppy.sh/beatmapsets/2140#osu/19467)
-- DoubleTime
+- Double Time
   1. [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/28107#osu/93842)
   2. [Humanoid - MENDES (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/beatmapsets/21928#osu/75831)
   3. [NicoNicoDouga - Night Of Commands feat. YuGiOh (vytalibus) \[Start!!!!\]](https://osu.ppy.sh/beatmapsets/4823#osu/26397)
@@ -179,13 +179,13 @@ This competition has come to an end and resulted in the following podium:
   2. [Susumu Hirasawa - Aurora 2 (NachoPiggy) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10978#osu/49206)
   3. [Shiki - Air (MegaManEXE) \[lol\]](https://osu.ppy.sh/beatmapsets/11485#osu/43845)
   4. [Star\_Dolphin - RetroPoktan (Star\_Dolphin) \[Insane\]](https://osu.ppy.sh/beatmapsets/19047#osu/67141)
-- HardRock
+- Hard Rock
   1. [Yousei Teikoku - Senketsu no Chikai (Saten) \[Insanity v1\]](https://cdn.discordapp.com/attachments/414934369166163978/889495888857276576/Yousei_Teikoku_-_Senketsu_no_Chikai.osz)
   2. [Hatsune Miku - Tadiu Jinkaku (v4\_mizuki) \[Hard \^q\^\]](https://cdn.discordapp.com/attachments/414934369166163978/795833279055528006/Hatsune_Miku_-_Tadiu_Jinkaku.osz)
   3. [Magical Trick Society - Phoenix Wright \~ Objection! (eyup) \[Insane\]](https://osu.ppy.sh/beatmapsets/131#osu/292)
-- DoubleTime & HardRock
+- Double Time & Hard Rock
   1. [Beyonce feat. Jay-Z - Crazy in Love (kingcobra52) \[CrazEEeee\]](https://osu.ppy.sh/beatmapsets/11999#osu/46401)
-- DoubleTime
+- Double Time
   1. [Family Mart Jingle (deepsea) \[Family Mart is Your Home\]](https://osu.ppy.sh/beatmapsets/9400#osu/37658)
   2. [Kokuyasou - UroboroS-Infinity (Kite) \[Insane\]](https://osu.ppy.sh/beatmapsets/29257#osu/97134)
   3. [Wayne Lytle - Pipe Dream (Tanmak) \[Insane\]](https://osu.ppy.sh/beatmapsets/9850#osu/38912)
@@ -212,12 +212,12 @@ This competition has come to an end and resulted in the following podium:
   1. [DJ Sharpnel - Siin (Vibty99) \[Insane\]](https://osu.ppy.sh/beatmapsets/8400#osu/34551)
   2. [A. Tanaka. M. Matsuda - Ooparts (awp) \[Ultimate\]](https://osu.ppy.sh/beatmapsets/5239#osu/26153)
   3. [Tatsh - Xepher-Long Version (Aeon) \[Aeon (OMF Edit)\]](https://cdn.discordapp.com/attachments/414934337981644811/887022356894195782/Tatsh_-_Xepher-Long_Version.osz)
-- HardRock
+- Hard Rock
   1. [Hatsune Miku - Sakura Zensen Ijou Nashi (Lalarun) \[Ijou Nashi\]](https://osu.ppy.sh/beatmapsets/32021#osu/104945)
   2. [AFI - Miss Murder (Mashley) \[Insane\]](https://osu.ppy.sh/beatmapsets/34441#osu/111933)
-- DoubleTime & HardRock
+- Double Time & Hard Rock
   1. [Nickelback - Animals (Rolled) \[Hard\]](https://osu.ppy.sh/beatmapsets/1871#osu/17022)
-- DoubleTime
+- Double Time
   1. [Minibosses - Castlevania (m980) \[owc Finals\]](https://cdn.discordapp.com/attachments/414934337981644811/887022295346995230/Minibosses_-_Castlevania.osz)
   2. [SUPER STAR -MITSURU- - ALL MY TURN (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/beatmapsets/30877#osu/101713)
   3. [Rihanna ft. Jay-Z - Umbrella (Agent Spin Here) \[Insane\]](https://osu.ppy.sh/beatmapsets/9873#osu/38971)
@@ -246,12 +246,12 @@ This competition has come to an end and resulted in the following podium:
   1. [t+pazolite - Luv-Lab-Poison 22ate! (Xgor) \[Xtreme\]](https://osu.ppy.sh/beatmapsets/9029#osu/38426)
   2. [NAOKI feat. Aleisha G - A Brighter Day (Jerrysr) \[Madness\]](https://osu.ppy.sh/beatmapsets/16956#osu/60777)
   3. [Johannes Brahms - Impromptus No.18 (AngelHoney) \[Challenging\]](https://osu.ppy.sh/beatmapsets/13991#osu/51439)
-- HardRock
+- Hard Rock
   1. [Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)
   2. [Ayumi Hamasaki - Evolution (Time Is Pop) (Aqua92) \[Larto's Insane\]](https://osu.ppy.sh/beatmapsets/4685#osu/28137)
-- DoubleTime & HardRock
+- Double Time & Hard Rock
   1. [hitomi - Go My Way (Mifune24) \[Insane\]](https://osu.ppy.sh/beatmapsets/661#osu/3629)
-- DoubleTime
+- Double Time
   1. [Beautiful Day - V3 (ignorethis) \[yaya's Insane\]](https://osu.ppy.sh/beatmapsets/4622#osu/36524)
   2. [Tatsh feat. Tsukiko - Floating Darkness (Natteke) \[Collab\]](https://osu.ppy.sh/beatmapsets/22173#osu/76612)
   3. [Inoue Marina - Pieces of Sweet Stars (whymeman) \[S.t.a.r.S\]](https://osu.ppy.sh/beatmapsets/8436#osu/34657)
@@ -277,12 +277,12 @@ This competition has come to an end and resulted in the following podium:
   1. [IOSYS - Border of Extacy (Shinxyn) \[HappyLesjuh\]](https://osu.ppy.sh/beatmapsets/7932#osu/35203)
   2. [TAG - SABER WING (Jerrysr) \[Insane\]](https://osu.ppy.sh/beatmapsets/16955#osu/60639)
   3. [Red Pulse - Open Your Mind (ignorethis) \[Pasonia's Hard\]](https://osu.ppy.sh/beatmapsets/5298#osu/26314)
-- HardRock
+- Hard Rock
   1. [Rohi - Kodoku Egoism (NatsumeRin) \[Nold\]](https://osu.ppy.sh/beatmapsets/58737#osu/185667)
   2. [DM Ashura - Chaotic WHITE (AngelHoney) \[Chaos\]](https://osu.ppy.sh/beatmapsets/22874#osu/81304)
-- DoubleTime & HardRock
+- Double Time & Hard Rock
   1. [Matchbox Twenty - Push (mrtn) \[Hard\]](https://osu.ppy.sh/beatmapsets/4047#osu/23207)
-- DoubleTime
+- Double Time
   1. [SuganoMusic - Imademo... (S i R i R u) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/21960#osu/75930)
   2. [DJ YOSHITAKA - ALBIDA (dksslqj) \[gow's Advanced\]](https://osu.ppy.sh/beatmapsets/19561#osu/75266)
   3. [Utada Hikaru - Prisoner Of Love (DawnII) \[Insane\]](https://osu.ppy.sh/beatmapsets/1781#osu/21407)
@@ -307,12 +307,12 @@ This competition has come to an end and resulted in the following podium:
   1. [Hirano Aya - Super Driver (CDFA) \[Collab\]](https://osu.ppy.sh/beatmapsets/21499#osu/74652)
   2. [fripSide - Assemble\*LOVEsemble (ykcarrot) \[Ensemble\]](https://osu.ppy.sh/beatmapsets/10787#osu/42499)
   3. [TERRA - We Are (James) \[Insane\]](https://osu.ppy.sh/beatmapsets/846#osu/5413)
-- HardRock
+- Hard Rock
   1. [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kurosanyan) \[Strongest Fairy\]](https://osu.ppy.sh/beatmapsets/29307#osu/100392)
   2. [Cranky - Luvin' You (avira0922) \[MAX\]](https://osu.ppy.sh/beatmapsets/8923#osu/36134)
-- DoubleTime & HardRock
+- Double Time & Hard Rock
   1. [BeForU - Moonbike (James) \[Hard\]](https://osu.ppy.sh/beatmapsets/1505#osu/13250)
-- DoubleTime
+- Double Time
   1. [Starving Trancer feat. MAKI - only my railgun (Leorda) \[Insane\]](https://osu.ppy.sh/beatmapsets/43513#osu/137575)
   2. [Suzaku - Anisakis -somatic mutation type''Forza''- (ouranhshc) \[RLC's Another\]](https://osu.ppy.sh/beatmapsets/60521#osu/882052)
   3. [Lou Bega - Mambo No.5 (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/33393#osu/108936)
@@ -337,12 +337,12 @@ This competition has come to an end and resulted in the following podium:
   1. [Hatsune Miku - Hatsune Miku no Tomadoi (DJPop) \[Confusion\]](https://osu.ppy.sh/beatmapsets/15320#osu/55535)
   2. [ZUN - Voyage 1969 (Sushi) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/16860#osu/60298)
   3. [Loos - LOVE \* BEAM (james039) \[Insane\]](https://osu.ppy.sh/beatmapsets/4970#osu/25466)
-- HardRock
+- Hard Rock
   1. [Kagamine Rin - Tokyo Teddy Bear (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/39838#osu/127138)
   2. [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/40368#osu/131009)
-- DoubleTime & HardRock
+- Double Time & Hard Rock
   1. [Wizet. Nexon - Coke Town (Metroid) \[Hard\]](https://osu.ppy.sh/beatmapsets/5424#osu/26660)
-- DoubleTime
+- Double Time
   1. [Megpoid GUMI - Mozaik Role (NatsumeRin) \[PoLKs\]](https://osu.ppy.sh/beatmapsets/20817#osu/74779)
   2. [iconoclasm - perditus paradisus (Sharp) \[Hyper\]](https://osu.ppy.sh/beatmapsets/22212#osu/83343)
   3. [Comp - Gensou no Satellite (Shinxyn) \[Insane (OMF Edit)\]](https://osu.ppy.sh/beatmapsets/4404#osu/63604)
@@ -366,11 +366,11 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Horie Yui - Coloring (IchiGUN) \[Color of Heart\]](https://osu.ppy.sh/beatmapsets/44433#osu/166749)
   2. [Ruzarin Kashiwagi - Theme of Love (Short Ver.) (Hitoshirenu Shourai) \[Insane\]](https://osu.ppy.sh/beatmapsets/3892#osu/22828)
-- HardRock
+- Hard Rock
   1. [Kola Kid - can't hide your love (Kert) \[Can't\]](https://osu.ppy.sh/beatmapsets/39732#osu/126446)
-- DoubleTime & HardRock
+- Double Time & Hard Rock
   1. [Angela Chang - Adventure of True Love (James) \[Hard\]](https://osu.ppy.sh/beatmapsets/3301#osu/21428)
-- DoubleTime
+- Double Time
   1. [Mina - Kiss Kiss (osu\_CN\_yaya) \[Another\]](https://osu.ppy.sh/beatmapsets/9658#osu/38359)
   2. [Midnight Project - Crystal Cinderella (C R E A M) \[Cookietic\]](https://osu.ppy.sh/beatmapsets/28017#osu/96708)
 - Easy
@@ -625,7 +625,7 @@ See the [Qualifiers results spreadsheet](https://docs.google.com/spreadsheets/d/
 ### Tournament rules
 
 1. Old Map Fantasy World Cup is a country-based team tournament played on the osu! game mode.
-2. Beatmap scoring is based on Score V2.
+2. Beatmap scoring is based on ScoreV2.
 3. The beatmaps for each round will be announced by the map selectors in advance on the Sunday before the actual matches take place. Only these beatmaps will be used during the respective matches.
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
 4. The match schedule will be settled by the Tournament Management (see the [scheduling instructions](#scheduling-instructions)).
@@ -667,7 +667,7 @@ See the [Qualifiers results spreadsheet](https://docs.google.com/spreadsheets/d/
 ### Stage instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the map selectors.
-2. The pool will contain 7 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), DoubleTime Hardrock, [Easy](/wiki/Game_modifier/Easy), [Flashlight](/wiki/Game_modifier/Flashlight). There will not be a tiebreaker for this stage.
+2. The pool will contain 7 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), Double Time Hard Rock, [Easy](/wiki/Game_modifier/Easy), [Flashlight](/wiki/Game_modifier/Flashlight). There will not be a tiebreaker for this stage.
 3. Teams will have to play the map pool once  at a designated time. Their combined score will be used for seeding.
 4. The mappool will be played in the order listed above.
 5. Each team must have 4 players for each map. They can be exchanged freely after a map is concluded.
@@ -698,14 +698,14 @@ See the [Qualifiers results spreadsheet](https://docs.google.com/spreadsheets/d/
 ### Mappool instructions
 
 1. There will be a new mappool for every stage.
-2. Each mappool consists of 7 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), DoubleTime Hardrock, [Easy](/wiki/Game_modifier/Easy), [Flashlight](/wiki/Game_modifier/Flashlight).
+2. Each mappool consists of 7 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), Double Time Hard Rock, [Easy](/wiki/Game_modifier/Easy), [Flashlight](/wiki/Game_modifier/Flashlight).
 3. Each mappool has a specific size depending on the stage.
 4. Each mappool has one tiebreaker.
-5. **The NoFail mod will be forced on every map.**
-6. The NoMod bracket will be played with no mods enabled at all (other than NoFail).
-7. The Hidden, HardRock and DoubleTime bracket will be played with the respective mod enabled by all players.
+5. **The No Fail mod will be forced on every map.**
+6. The NoMod bracket will be played with no mods enabled at all (other than No Fail).
+7. The Hidden, Hard Rock and Double Time bracket will be played with the respective mod enabled by all players.
 8. The Easy and the Flashlight bracket will have Free Mods enabled.
-   - Possible mod choices are Hidden, HardRock and Hidden+HardRock, you cannot remove Easy or Flashlight.
+   - Possible mod choices are Hidden, Hard Rock and Hidden+Hard Rock, you cannot remove Easy or Flashlight.
    - This is optional
 9. The tiebreaker will be played with Free mods enabled.
    - When playing the tiebreaker, there are no mod requirements.

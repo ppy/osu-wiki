@@ -121,11 +121,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Ono Hideyuki - sola (Mapper 31) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/131347#taiko/330848)
   2. [LeaF - MEPHISTO (Alumetorz) \[TK'S Inner Oni\]](https://osu.ppy.sh/beatmapsets/106212#taiko/284037)
   3. [RYO - Shuffle Heaven (Nwolf) \[WereOni\]](https://osu.ppy.sh/beatmapsets/194109#taiko/572587)
-- HardRock
+- Hard Rock
   1. [Hanatan - Kimi no Kiseki (ampzz) \[lepidon! - Oni\]](https://osu.ppy.sh/beatmapsets/80624#taiko/335895)
   2. [Ocelot - TSUBAKI (TKS) \[TSUBAKI\]](https://osu.ppy.sh/beatmapsets/177838#taiko/427932)
   3. [Fire EX. - Shattered Dreams (qoot8123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/287251#taiko/648184)
-- DoubleTime
+- Double Time
   1. [Nightwish - Planet Hell (Sieg) \[Hanjamon's Oni\]](https://osu.ppy.sh/beatmapsets/167077#taiko/438738)
   2. [Memme - Extreme Fantasy (AngelHoney) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/49459#taiko/173048)
   3. [Harada Hitomi, Kayano Ai & Ogura Yui - Maware! Setsugetsuka (TV Size) (taiko\_maniac1811) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/131882#taiko/331987)
@@ -151,11 +151,11 @@ This competition has come to an end and resulted in the following podium:
   1. [M2U - Gypsy Tronic (Gomo Pslvarh) \[lepidon! - Oni\]](https://osu.ppy.sh/beatmapsets/100445#taiko/279410)
   2. [ETIA. - Enkan no Kotowari (Rein0527) \[KUMA's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/39889#taiko/140687)
   3. [t+pazolite - MEGA MEGA CUTiE BREAKiN'!!!!!!!!z (CharuV2) \[kjw's MEGA MEGA TAiKO BREAKiN'!!!!!!!!:3\]](https://osu.ppy.sh/beatmapsets/124120#taiko/316820)
-- HardRock
+- Hard Rock
   1. [syatten remixed celas - Bird Sprite -Awakening of Light- (Reiji-RJ) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/43999#taiko/138519)
   2. [CyoucyoP feat.Hatsune Miku - End of the World (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/215476#taiko/506018)
   3. [Paramore - Anklebiters (Priti) \[Nwolf's Oni\]](https://osu.ppy.sh/beatmapsets/227990#taiko/573664)
-- DoubleTime
+- Double Time
   1. [Nightwish - Dead to the World (Xanandra) \[Nwolf's Oni\]](https://osu.ppy.sh/beatmapsets/149115#taiko/442230)
   2. [Halozy - eliminate anthem (Elly-chan) \[MM's Taiko\]](https://osu.ppy.sh/beatmapsets/34308#taiko/116998)
   3. [Comp - Kyoai (karenying) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/28609#taiko/114207)
@@ -181,11 +181,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/114488#taiko/307654)
   2. [M2U - Quo Vadis (TKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/135324#taiko/339131)
   3. [nato - Nihilism (Kagami Yuki) \[Kagami's Taiko\]](https://osu.ppy.sh/beatmapsets/207998#taiko/489926)
-- HardRock
+- Hard Rock
   1. [ParagonX9 - Chaoz Japan (Mustaash) \[Firce777's Hell Oni\]](https://osu.ppy.sh/beatmapsets/31115#taiko/102527)
   2. [serial TV drama - Tougenkyou Alien (TV Size) (jericho2442) \[Taiko\]](https://osu.ppy.sh/beatmapsets/28392#taiko/94966)
   3. [Sariyajin - Ao no Senritsu (smallboat) \[qoot8123's Inner Oni\]](https://osu.ppy.sh/beatmapsets/124500#taiko/361867)
-- DoubleTime
+- Double Time
   1. [Atoguru - Privilege (y u c a) \[Pangko\]](https://osu.ppy.sh/beatmapsets/43861#taiko/138598)
   2. [Ryu\* - Rondo Alla Turca (Ryu\* Remix) (yeahyeahyeahhh) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/34468#taiko/113530)
   3. [iyuna - Emukko Kyun Kyun (cRyo\[iceeicee\]) \[KS's Taiko\]](https://osu.ppy.sh/beatmapsets/39484#taiko/126958)
@@ -211,11 +211,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Mitsumune Shinkichi - Battle of Rose (haha5957) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/25271#taiko/86160)
   2. [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Ex's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/136632#taiko/342847)
   3. [Yucha-P - Thieves Night Trick (tutuhaha) \[qoot8123's Oni\]](https://osu.ppy.sh/beatmapsets/78268#taiko/222740)
-- HardRock
+- Hard Rock
   1. [Mary - Artificial Rose (Urushi38) \[TK'S Oni\]](https://osu.ppy.sh/beatmapsets/99434#taiko/281675)
   2. [Adraen + Renard - Punk Anthem Track (Aleks719) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/37709#taiko/122433)
   3. [capitaro - Utatabigarasu (NatsumeRin) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/59982#taiko/180661)
-- DoubleTime
+- Double Time
   1. [Chai Found Music Workshop - Zeihen \~transformation\~ (xierbaliti) \[Taiko Ura Oni\]](https://osu.ppy.sh/beatmapsets/25503#taiko/86571)
   2. [Ayane - Acacia no Ki no Shita de (Alace) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/28201#taiko/94136)
   3. [fripSide - LEVEL5 -judgelight- (Full Ver.) (cyborg) \[youngdow&wood's Taiko\]](https://osu.ppy.sh/beatmapsets/13628#taiko/50694)
@@ -241,11 +241,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Nekomata Master+ - squall (wa\_) \[TK'S Oni\]](https://osu.ppy.sh/beatmapsets/85534#taiko/245958)
   2. [Ryu\* - Mind Mapping (kors k mix) (Jerry) \[m1ng's Oni\]](https://osu.ppy.sh/beatmapsets/107237#taiko/281558)
   3. [MuryokuP - Catastrophe (meiikyuu) \[Haruka's Oni\]](https://osu.ppy.sh/beatmapsets/72740#taiko/217519)
-- HardRock
+- Hard Rock
   1. [Hashimoto Miyuki - Yume miru mama ni Koi wo shite (S i R i R u) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/31061#taiko/102998)
   2. [Ellie Goulding - Burn (Nashmun) \[Oni\]](https://osu.ppy.sh/beatmapsets/140698#taiko/351271)
   3. [paraoka feat. yusuke - center piercing (sakuzyo bootleg) (RLC) \[714's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/80468#taiko/229760)
-- DoubleTime
+- Double Time
   1. [senya - Yozakura ni Kimi o Kakushite (Dainesl) \[Oni\]](https://osu.ppy.sh/beatmapsets/201524#taiko/477127)
   2. [Basic Element - Touch You Right Now (Kiiwa) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/32369#taiko/139607)
   3. [ave;new feat. Sakura Saori - True My Heart (Suzuka Asahina) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/16910#taiko/68793)
@@ -422,7 +422,7 @@ Sunday, 8 March 2015:
 1. The osu! Taiko World Cup is a country-based team tournament.
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
 3. Match schedule will be settled by the Tournament Management (see below).
 4. Failed players' scores do get added to the team score.
 5. If no staff or referee is available, the match will be postponed.
@@ -506,12 +506,12 @@ Sunday, 8 March 2015:
 ### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals (Week 1 & Week 2 are using the same pool).
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool consists of 19 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no modes activated.
-6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
-7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock or no mod at all.
+6. The Hidden, Hard Rock and Double Time bracket will be played with the respective modes activated.
+7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, Hard Rock or no mod at all.
    - When playing a FreeMod map, at least 1 player of each team must have one mode activated.
 8. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, no one needs to have a mode activated.

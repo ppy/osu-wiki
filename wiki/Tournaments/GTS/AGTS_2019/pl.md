@@ -134,10 +134,10 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 - Hidden
   1. [Camellia - Primitive Pump (frz) \[Inner PUMP\]](https://osu.ppy.sh/beatmapsets/712424#taiko/1505977)
   2. [goreshit - Bad Habits (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/450569#taiko/966645)
-- HardRock
+- Hard Rock
   1. [Eagle - Hypersonik (Michiru) \[23-'s Inner Oni\]](https://osu.ppy.sh/beatmapsets/985854#taiko/2064162)
   2. [Camellia - Chirality (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/831411#taiko/1741806)
-- DoubleTime
+- Double Time
   1. [Pocket Mirror Sound Team - Midnight Striken Clock \~ Glass Slipper (Rhytoly) \[Oni\]](https://osu.ppy.sh/beatmapsets/925760#taiko/1933722)
   2. [JENNY ROM - WWW.BLONDE GIRL (MOMO MIX) (\[Belajar-Osu\]) \[Kqrth's Inner Oni\]](https://osu.ppy.sh/beatmapsets/920644#taiko/1933326)
 - FreeMod
@@ -163,10 +163,10 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 - Hidden
   1. [Nanahira - Monosugoi Dekotora de Patchouli ga Monosugoi Uta (Greenshell) \[Lolishell\]](https://osu.ppy.sh/beatmapsets/620238#taiko/1307203)
   2. [EBIMAYO - GOODRAGE (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/679340#taiko/1436347)
-- HardRock
+- Hard Rock
   1. [Xandria - Nightfall (frukoyurdakul) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/697750#taiko/1477955)
   2. [t+pazolite - CENSORED!! (KitajimaYN) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/476520#taiko/1017812)
-- DoubleTime
+- Double Time
   1. [Doma Umaru (CV. Tanaka Aimi) - Nimensei\*Uraomote Life! (Tyistiana) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/707590#taiko/1502284)
   2. [Petit Rabbit's with beans - Sekai ga Cafe ni Nacchatta! (Tyistiana) \[Nardo's Inner Oni\]](https://osu.ppy.sh/beatmapsets/864036#taiko/2021055)
 - FreeMod
@@ -192,10 +192,10 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 - Hidden
   1. [E.G.G. - OK I'm blue rat (Kqrth) \[Oni\]](https://osu.ppy.sh/beatmapsets/994780#taiko/2080103)
   2. [Rainbowdragoneyes - Creatures ov Deception (Mew104) \[Chromoxx' Inner Oni\]](https://osu.ppy.sh/beatmapsets/413267#taiko/935079)
-- HardRock
+- Hard Rock
   1. [Jerico - Beyond Space Forcibly (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/340890#taiko/753944)
   2. [Itou Kanako - Uncontrollable (Charlotte) \[Uncontrollable Oni\]](https://osu.ppy.sh/beatmapsets/640326#taiko/1358048)
-- DoubleTime
+- Double Time
   1. [PSYQUI - Update (Genjuro) \[Oni\]](https://osu.ppy.sh/beatmapsets/986373#taiko/2102164)
   2. [Neuromonakh Feofan - Vezde plyashu (Nepuri) \[Bezumnyy\]](https://osu.ppy.sh/beatmapsets/694154#taiko/1468657)
 - FreeMod
@@ -220,10 +220,10 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 - Hidden
   1. [Yurry Canon - Suicide Parade (Yales) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/902163#taiko/1883597)
   2. [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro (Shiirn) \[Nwolf's Oni\]](https://osu.ppy.sh/beatmapsets/436978#taiko/978374)
-- HardRock
+- Hard Rock
   1. [Kiryu - Euphoric Phantasmagoria [komasy] \[Phantasm\]](https://osu.ppy.sh/beatmapsets/654413#taiko/1387168)
   2. [Zekk - Libertas (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1001338#taiko/2096131)
-- DoubleTime
+- Double Time
   1. [HyuN feat. JeeE - Fallen Angel (Mao) \[oko's Oni\]](https://osu.ppy.sh/beatmapsets/891335#taiko/1863216)
   2. [Ni-Sokkususu - Shukusai no Elementalia (Rhytoly) \[Oni\]](https://osu.ppy.sh/beatmapsets/927110#taiko/1945290)
 - FreeMod
@@ -250,11 +250,11 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
   1. [Zekk - Palpitation (yuzu\_\_rinrin) \[Pe'z Inner Oni\]](https://osu.ppy.sh/beatmapsets/761071#taiko/1608677)
   2. [The Flashbulb - Six Acid Strings (Nardoxyribonucleic) \[Volta's Oni\]](https://osu.ppy.sh/beatmapsets/966451#taiko/2078180)
   3. [Vickeblanka - Black Rover (TV Size) (Yales) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/793763#taiko/1666968)
-- HardRock
+- Hard Rock
   1. [Rin - Kishinjou set 04 ~ Dullahan Under the Willows (tasuke912) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/977058#taiko/2044998)
   2. [ZUN - Septette for the Dead Princess (Pereira006) \[Dunskin's Inner Oni\]](https://osu.ppy.sh/beatmapsets/348342#taiko/772246)
   3. [Caravan Palace - Dragons (Charles445) \[MM's Taiko\]](https://osu.ppy.sh/beatmapsets/46733#taiko/145511)
-- DoubleTime
+- Double Time
   1. [Silent Siren - stella\* (captin1) \[Climbb & KPY's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/163253#taiko/421153)
   2. [Aihara Kaori - Total Eclipse 2035 \~Shoujo no Jikuu Kaiki Nisshoku\~ (Senritsu) \[Oni\]](https://osu.ppy.sh/beatmapsets/114368#taiko/296195)
   3. [Hommarju - Crazy Jackpot (Tofu1222) \[aabc's Oni\]](https://osu.ppy.sh/beatmapsets/717853#taiko/1517306)
@@ -274,9 +274,9 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
   2. [Tati Zaqui - Placa no Chao (Kuron-kun) \[Vem pro baile\]](https://osu.ppy.sh/beatmapsets/737724#taiko/1556963)
 - Hidden
   1. [P\*Light - Gale Rider (Charlotte) \[komasy's Oni\]](https://osu.ppy.sh/beatmapsets/622356#taiko/1313624)
-- HardRock
+- Hard Rock
   1. [sasakure.UK (feat.Hatsune Miku) - SeventH-HeaveN (\[I\]MMoRTal\[S\]) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/177182#taiko/426542)
-- DoubleTime
+- Double Time
   1. [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
 
 ## Wyniki Meczy
@@ -382,7 +382,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 1. Ten turniej to **turniej drużynowy 2v2** z drużynami po **maksymalne 5 graczy.**
 2. Drużyny najpierw zagrają w f**azie grupowej** a następnie w **drabince podwójnej eliminacji.**
-3. Systemem Punktacji będzie **Score V2.**
+3. Systemem Punktacji będzie **ScoreV2.**
 4. Każdy gracz, który spełnia wymagania określone w części dotyczącej ograniczeń rankingu, może zagrać. Ponieważ ten turniej będzie miał na celu zdobycie odznaki profilu, niektórzy gracze mogą zostać odrzuceni przez personel osu.
 5. Każdy członek personelu oprócz **Organizatorów, Mappoolerów oraz Sędziów** może wziąć udział w turnieju.
 6. Zawodnicy i członkowie personelu muszą całkowicie przeczytać ten zestaw reguł (i założymy, że zrobiłeś to podczas całego turnieju).
@@ -433,12 +433,12 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 1. Dla każdego z następujących będzie 1 osobny mappool: Kwalifikacje, Faza Grupowa, Ćwierćfinały, Półfinały, Finały i Wielkie Finały.
 2. Drabinka Przegranych zagra ten sam mappool co w Drabince Wygranych w ten sam weekend
-3. Mappool Kwalifikacji będzie się różnił od pozostałych, ponieważ jego format to: 2 mapy NoMod, 1 mapa Hidden, 1 mapa HardRock, 1 Mapa DoubleTime.
-4. Każdy mappool składa się z następujących map: NoMod, Hidden, HardRock, DoubleTime, FreeMod and Tiebreaker.
+3. Mappool Kwalifikacji będzie się różnił od pozostałych, ponieważ jego format to: 2 mapy NoMod, 1 mapa Hidden, 1 mapa Hard Rock, 1 Mapa Double Time.
+4. Każdy mappool składa się z następujących map: NoMod, Hidden, Hard Rock, Double Time, FreeMod and Tiebreaker.
 5. Każdy pula map będzie się składać z 20 map.
 6. Ilość map Hidden, Hard Rock i Double Time będzie wynosić 2 i 3 dla map FreeMod we wszystkich Fazach.
 7. Mapy EX będą grane bez modów i są trudniejszą wersją NoMod. Zawierają mapy, które zawierają specjalne techniki mapowania, zmiany prędkości itp.
-8. Mapy FreeMod będą grane z użyciem FreeModa. Każdy gracz może wybrać **Hidden, HardRock albo oba. Przynajmniej jeden gracz z każdej drużyny musi grać z conajmniej jednym modem.**
+8. Mapy FreeMod będą grane z użyciem FreeModa. Każdy gracz może wybrać **Hidden, Hard Rock albo oba. Przynajmniej jeden gracz z każdej drużyny musi grać z conajmniej jednym modem.**
 9. Tiebreaker jest rozgrywany w warunkach FreeMod, ale nie jest wymagane aby ktokolwiek grał z modem.
 10. Mappool dla każdego Fazy zostanie zaprezentowany tydzień wcześniej.
 

@@ -1069,7 +1069,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Game modes and scoring format
 
-- The tournament will host the following game modes: osu!, osu!catch, osu!mania 4K, and osu!mania 7K. In addition, the tournament will use **Score v2** as its scoring format. This requires players to play on the following osu! Builds: Stable (Latest), Beta, and Cutting Edge.
+- The tournament will host the following game modes: osu!, osu!catch, osu!mania 4K, and osu!mania 7K. In addition, the tournament will use **ScoreV2** as its scoring format. This requires players to play on the following osu! Builds: Stable (Latest), Beta, and Cutting Edge.
 
 ### Tournament formats
 

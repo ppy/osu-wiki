@@ -97,11 +97,11 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
   1. [M2U - Marigold (feat. Guriri) (Hareimu) \[Deif's Overdose\]](https://osu.ppy.sh/beatmapsets/596327#fruits/1270304)
   2. [Sukuzyo - Black Lair (Pizza Kun) \[Fragmentation\]](https://osu.ppy.sh/beatmapsets/165616#fruits/402935)
   3. [Memme - Extreme Fantasy (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/49459#fruits/152480)
-- HardRock
+- Hard Rock
   1. [Tsukikage - Spatto! Spy & Spyce (TV Size) (Petal) \[Ren's Extra\]](https://osu.ppy.sh/beatmapsets/968574#fruits/2028583)
   2. [An - Encryption (HelloSCV) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/96368#fruits/290370)
   3. [bikuko - Crayon (Val0108) \[Crayon\]](https://osu.ppy.sh/beatmapsets/49455#fruits/155164)
-- DoubleTime
+- Double Time
   1. [ChouCho - Million of Bravery (alienflybot) \[Triumph\]](https://osu.ppy.sh/beatmapsets/1041534#fruits/2176808)
   2. [Noisestorm - Solar (Shiirn) \[Another\]](https://osu.ppy.sh/beatmapsets/33483#fruits/109163)
   3. [Goose house - 18sai (mingmichael) \[Rain\]](https://osu.ppy.sh/beatmapsets/242856#fruits/560408)
@@ -126,11 +126,11 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
   1. [Cranky - Lebera me (eiri-) \[IOException's Insane\]](https://osu.ppy.sh/beatmapsets/757813#fruits/1596819)
   2. [556t - Kyuuen no Hana (Kyubey) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/484497#fruits/1033514)
   3. [Akaki Chikai - Smile Skill = Suki Skill (TV Size) (Greaper) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1070009#fruits/2239770)
-- HardRock
+- Hard Rock
   1. [Ogura Yui & Tamiyasu Tomoe - LOVE LOVE WARS (Gamu) \[Insane\]](https://osu.ppy.sh/beatmapsets/154915#fruits/380234)
   2. [Tomohito Nishiura - Moonlight Tango (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/536001#fruits/1135248)
   3. [04 Limited Sazabys - Squall (Gillstar) \[Loreley's Another\]](https://osu.ppy.sh/beatmapsets/1029349#fruits/2165315)
-- DoubleTime
+- Double Time
   1. [-45 - Midorigo Queen Bee (Luscent) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1055780#fruits/2206544)
   2. [Akatsuki records - Futari de Aruita Kaerimichi (Zelq) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1077072#fruits/2253900)
   3. [Itou Kanako - Skyclad no Kansokusha -Remix- (Takos) \[Taka\]](https://osu.ppy.sh/beatmapsets/33323#fruits/110628)
@@ -155,11 +155,11 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
   1. [Katakiri Rekka - Answer (Jenny) \[Rejection\]](https://osu.ppy.sh/beatmapsets/51947#fruits/159007)
   2. [Krewella & Nucleya - Good On You (Mao) \[Expert\]](https://osu.ppy.sh/beatmapsets/1082851#fruits/2264994)
   3. [Ryu* vs. Sota - Go Beyond!! (Anto) \[Nuvolina's Expert\]](https://osu.ppy.sh/beatmapsets/934522#fruits/2023961)
-- HardRock
+- Hard Rock
   1. [RURUTIA - Phronesis (-Luminate) \[Platter\]](https://osu.ppy.sh/beatmapsets/965320#fruits/2022514)
   2. [fourfolium - Hosshii no! (Kisses) \[117's hard\]](https://osu.ppy.sh/beatmapsets/586877#fruits/1485741)
   3. [guna with team kyukkyu - subconsciousness (Snow Note) \[Hyper\]](https://osu.ppy.sh/beatmapsets/151945#fruits/445207)
-- DoubleTime
+- Double Time
   1. [Yellow Zebra - Melody! (wcx19911123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450#fruits/142099)
   2. [HyuN feat. Aerial - Exodus (Niva) \[Insane\]](https://osu.ppy.sh/beatmapsets/1069611#fruits/2239032)
   3. [yanaginagi - Over and over (TV Size) (Jemzuu) \[Platter\]](https://osu.ppy.sh/beatmapsets/698454#fruits/2228142)
@@ -232,7 +232,7 @@ Sunday, 16 February 2020:
 
 1. This version of the OCM is a team tournament, played on the osu!catch game mode.
 2. This competition is a 2 versus 2 setup. The team size can be up to 4 members, with a minimum of 3 members per team.
-3. Score V2 will be used.
+3. ScoreV2 will be used.
 4. The tournament is open to any player with a rank of at least #4,000. There's no restriction of country or region.
 5. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a map is considered as passing it.

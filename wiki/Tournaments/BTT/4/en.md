@@ -94,11 +94,11 @@ This competition has come to an end and resulted in the following podium:
   1. [SoundTeMP - Be Nice 'n Easy (OnosakiHito) \[Ono's Muzukashii\]](https://osu.ppy.sh/beatmapsets/366807#taiko/1076980)
   2. [BlackY vs. Yooh - HAVOX (Arrival) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/553741#taiko/1172633)
   3. [Reol - +Danshi (neonat) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/299259#taiko/707265)
-- HardRock
+- Hard Rock
   1. [Anii - You (lepidopodus) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/30326#taiko/105566)
   2. [Jun Kuroda - Coquette (taiko\_maniac1811) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/883369#taiko/1849852)
   3. [Virtual Self - EON BREAK (Nwolf) \[Nwolf's Muzukashii (BTT4 ver.)\]](https://osu.ppy.sh/beatmapsets/951376#taiko/1986889)
-- DoubleTime
+- Double Time
   1. [VerseQuence - Wilt (Gemu-) \[Gemu's Hard (BTT4 ver.)\]](https://osu.ppy.sh/beatmapsets/951374#taiko/1986887)
   2. [Sasaki Sayaka - Koi Saku Mirai (Elfin) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/401933#taiko/1027234)
   3. [Nakae Mitsuki - Pure Love, True Love (El SolarBeam) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/123687#taiko/321111)
@@ -124,11 +124,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Camellia - Towards The Horizon (Fallmorph) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/727084#taiko/1535012)
   2. [Tezuka feat. Onishi Amimi - Suisou no Kujira (EdamaMe411) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/579105#taiko/1227811)
   3. [S3RL feat Krystal - R4V3 B0Y (Nishizumi) \[MUZUK45H11\]](https://osu.ppy.sh/beatmapsets/593010#taiko/1254676)
-- HardRock
+- Hard Rock
   1. [Nekomata Master - Deadman Falling (Azer) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/619878#taiko/1523533)
   2. [AcuticNotes - Axeria (Nerova Riuz GX) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/574641#taiko/1351688)
   3. [kradness & Reol - Okochama Sensou (Nifty) \[Nifty's Muzukashii\]](https://osu.ppy.sh/beatmapsets/928375#taiko/1939282)
-- DoubleTime
+- Double Time
   1. [Fitz and the Tantrums - HandClap (Hitsu) \[Hitsu's Muzukashii\]](https://osu.ppy.sh/beatmapsets/642607#taiko/1630808)
   2. [kana - Hammer wo Denpa Songu ni shite Mita (KayeSara) \[KS's Taiko Muzukashii (BTT4 ver.)\]](https://osu.ppy.sh/beatmapsets/948461#taiko/1980818)
   3. [Haruna Luna - Overfly (Lundlerol) \[Lundle's Muzu\]](https://osu.ppy.sh/beatmapsets/85812#taiko/249264)
@@ -153,11 +153,11 @@ This competition has come to an end and resulted in the following podium:
   1. [TERRA - THIS NIGHT (jubeat EDITION) (lepidopodus) \[lepidon! - Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/48122#taiko/162652)
   2. [Erik McClure - Lagomorphic (Okoratu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/338942#taiko/751436)
   3. [DJ TOTTO feat.Annabel & Hiyama Nao - Kanata no Reflesia (Prophecy) \[Prophecy's Muzukashii\]](https://osu.ppy.sh/beatmapsets/785734#taiko/1658142)
-- HardRock
+- Hard Rock
   1. [M2U - Lunatic Sky (Dain) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/220824#taiko/517469)
   2. [ginkiha - eastward (toara\_fict) \[toara's Muzukashii\]](https://osu.ppy.sh/beatmapsets/630364#taiko/1357500)
   3. [S3RL - I Will Pick You Up (feat. Tamika) (Nao Tomori) \[Nao's Muzukashii\]](https://osu.ppy.sh/beatmapsets/919704#taiko/1920740)
-- DoubleTime
+- Double Time
   1. [tsunamaru - Orange Genome (jomnhnk) \[jom's Taiko Muzukashii (BTT4 ver.)\]](https://osu.ppy.sh/beatmapsets/945094#taiko/1973639)
   2. [M2U - Nemesis (-Leafeon) \[Leaf's Futsuu\]](https://osu.ppy.sh/beatmapsets/823347#taiko/1793658)
 - FreeMod
@@ -180,10 +180,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Hanatan - You and beautiful world (Ulqui) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/690989#taiko/1462199)
   2. [TeamGrimoire+Amaneko - croiX (hs714) \[714's Muzukashii\]](https://osu.ppy.sh/beatmapsets/88692#taiko/242954)
-- HardRock
+- Hard Rock
   1. [Ann Winsborn - La La Love On My Mind (Nightcore Mix) (Lost The Lights) \[LTL's Muzukashii\]](https://osu.ppy.sh/beatmapsets/395867#taiko/1010678)
   2. [Cres - End Time (cdhsausageboy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/163764#taiko/398947)
-- DoubleTime
+- Double Time
   1. [DM DOKURO - Septisicle (Remus) \[A Futsuu of Dreams\]](https://osu.ppy.sh/beatmapsets/722711#taiko/1525675)
   2. [Ushiro kara Haiyori-tai G - Koi wa Chaos no Shimobenari (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/492477#taiko/1049149)
 - FreeMod
@@ -205,10 +205,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [siromaru + cranky - conflict (Midnaait) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/926839#taiko/1935850)
   2. [Matsuda Akito - After After (Franklin\_DeJavu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/682326#taiko/1443734)
-- HardRock
+- Hard Rock
   1. [BlackY - OVERSOUL (yuzu\_\_rinrin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/653157#taiko/1385745)
   2. [A.SAKA - Yosakura Fubuki (Alwaysyukaz) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/859944#taiko/1802428)
-- DoubleTime
+- Double Time
   1. [Three Days Grace - Animal I Have Become (Greenshell) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/856403#taiko/1789225)
   2. [TAG - Riot of Color (OzzyOzrock) \[OzzyOzrock's Futsuu (BTT4 Ver.)\]](https://osu.ppy.sh/beatmapsets/937575#taiko/1958538)
 - FreeMod
@@ -229,10 +229,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Amane - BOOZEHOUND (Aezis) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/512311#taiko/1088823)
   2. [OISHII - UP UP MT. CAKE (Fallmorph) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/682732#taiko/1511793)
-- HardRock
+- Hard Rock
   1. [Mili - world.execute(me); (Volta) \[volta.taiko(futsuu);\]](https://osu.ppy.sh/beatmapsets/507196#taiko/1078864)
   2. [Jaroslav Beck - Beat Saber (Lno) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/793455#taiko/1666279)
-- DoubleTime
+- Double Time
   1. [TOKIO - ding-dong (Volta) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/375452#taiko/822281)
   2. [Goose house - Oto no Naru Hou e (TV Size) (Poii) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/714379#taiko/1509726)
 - FreeMod
@@ -250,9 +250,9 @@ This competition has come to an end and resulted in the following podium:
   2. [Yuyoyuppe - Hope (game rock) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/362784#taiko/796948)
 - Hidden
   1. [S-C-U vs L.E.D. - DIAMOND CROSSING (butter0414) \[Kantan\]](https://osu.ppy.sh/beatmapsets/710606#taiko/1502083)
-- HardRock
+- Hard Rock
   1. [NayutalieN - Alien Alien (Nhato Remix) (Rhytoly) \[Kantan\]](https://osu.ppy.sh/beatmapsets/904873#taiko/1888715)
-- DoubleTime
+- Double Time
   1. [Sawamura Spencer Eriri (CV: Oonishi Saori) - Blooming Lily (Volta) \[Kantan\]](https://osu.ppy.sh/beatmapsets/718081#taiko/1532923)
 
 ## Match results
@@ -397,9 +397,9 @@ Sunday, 10 March 2019:
 ### General rules
 
 1. Beginners' Taiko Tournament is using double-elimination bracket and a 1v1 tournament.
-2. The Score System used will be **Score V2.**
+2. The Score System used will be **ScoreV2.**
 3. The mapset will be announced every Sunday, and the categories are as follows:
-   - NoMod, Hidden, HardRock, DoubleTime, FreeMod, Tiebreaker
+   - NoMod, Hidden, Hard Rock, Double Time, FreeMod, Tiebreaker
 4. Match schedule is decided by the organizers. Players may feel free to ask for a reschedule if that doesn't work for them. Each stage of this tournament will last a week-end.
 5. If there is no referee available, or if I am not available, the match can be postponed.
 6. If both players tie on the TieBreaker, the TieBreaker will be replayed.
@@ -435,7 +435,7 @@ Sunday, 10 March 2019:
 ### Mappool regulations
 
 1. There's a different pool in each stage of the tournament, becoming progressively harder.
-2. As stated before, NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker are the six categories that exist for this tournament.
+2. As stated before, NoMod, Hidden, Hard Rock, Double Time, FreeMod, and Tiebreaker are the six categories that exist for this tournament.
 3. Tiebreaker is played with FreeMod.
 4. As stated previously, the mappool is released every Sunday.
 

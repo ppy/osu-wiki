@@ -446,8 +446,8 @@ Monday 2,November 2020:
      1. Number of matches won.
      2. `Number of rounds won - numbers of round lost`.
      3. Number of losses by default (lower is better).
-     4. Winner of the sudden death.
-        - Sudden death match: BO9 with random Tiebreaker pick from the mappool.
+     4. Winner of the Sudden Death.
+        - Sudden Death match: BO9 with random Tiebreaker pick from the mappool.
 3. Round of 16
    - 13 maps + 1 Tiebreaker. BO11.
 4. Quarterfinals

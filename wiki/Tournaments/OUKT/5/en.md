@@ -83,12 +83,12 @@ OUKT5 was run by various community members
   2. [Pierce The Veil - King For A Day (feat Kellin Quinn) (pishifat) \[Ex\]](https://osu.ppy.sh/beatmapsets/297909#osu/684163)
   3. [xi - Akasha (Jemmmmy) \[Heaven\]](https://osu.ppy.sh/beatmapsets/118768#osu/408378)
   4. [Camellia - Racemization (Smoothie World) \[Dreaming\]](https://osu.ppy.sh/beatmapsets/347765#osu/767280)
-- HardRock
+- Hard Rock
   1. [yukionnu - Caramel Heaven (Takiuta) \[Extra\]](https://osu.ppy.sh/beatmapsets/297969#osu/672100)
   2. [Camellia - Fastest Crash (sukiNathan) \[RLC's Paroxysm\]](https://osu.ppy.sh/beatmapsets/331025#osu/733432)
   3. [Satoshi (CV:Rica Matsumoto) - XY&Z (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/409649#osu/890084)
   4. [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE (pkk) \[captin's Legend\]](https://osu.ppy.sh/beatmapsets/210346#osu/495633)
-- DoubleTime
+- Double Time
   1. [Porter Robinson - Flicker (Static Noise Bird) \[Worlds\]](https://osu.ppy.sh/beatmapsets/210682#osu/495543)
   2. [Nightwish - Dead to the World (Xanandra) \[Insane\]](https://osu.ppy.sh/beatmapsets/149115#osu/368503)
   3. [Studio EIM - Crescent Moon Island Boss Theme (Rakuen) \[Insane\]](https://osu.ppy.sh/beatmapsets/173422#osu/653128)
@@ -121,10 +121,10 @@ OUKT5 was run by various community members
 - Hidden
   1. [ETIA. - Claiomh Solais (Zare) \[Eternal\]](https://osu.ppy.sh/beatmapsets/165664#osu/403039)
   2. [Reol - Asymmetry (Gaia) \[Extra\]](https://osu.ppy.sh/beatmapsets/292077#osu/679779)
-- HardRock
+- Hard Rock
   1. [Erik McClure - The Last Dead Angel (LKs) \[Extra\]](https://osu.ppy.sh/beatmapsets/41568#osu/133683)
   2. [Rise Against - Drones (pishifat) \[Extra\]](https://osu.ppy.sh/beatmapsets/309607#osu/692088)
-- DoubleTime
+- Double Time
   1. [YUI - Rolling star (pkhg) \[Insane\]](https://osu.ppy.sh/beatmapsets/351838#osu/775380)
   2. [FELT - Runway Drive (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/105244#osu/276365)
 - FreeMod
@@ -151,10 +151,10 @@ OUKT5 was run by various community members
 - Hidden
   1. [iojjj - Deus Ex Machina (Okoratu) \[GREAT EQUALIZER IS THE DEATH\]](https://osu.ppy.sh/beatmapsets/107747#osu/688886)
   2. [Luxion - High-Priestess (RikiH\_) \[Sudden Death\]](https://osu.ppy.sh/beatmapsets/93398#osu/258634)
-- HardRock
+- Hard Rock
   1. [40mP feat.yuikonnu - Ame to Asphalt (captin1) \[Insane\]](https://osu.ppy.sh/beatmapsets/159527#osu/451528)
   2. [Memme - Starving Days (Gamu) \[Extra\]](https://osu.ppy.sh/beatmapsets/275743#osu/625507)
-- DoubleTime
+- Double Time
   1. [senya - Koyoi Index (jonathanlfj) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/234455#osu/543814)
   2. [Kozato - Tsuki -Yue- (jonathanlfj) \[Another\]](https://osu.ppy.sh/beatmapsets/101123#osu/268080)
 - FreeMod
@@ -181,10 +181,10 @@ OUKT5 was run by various community members
 - Hidden
   1. [Shiraishi - Shinsekai (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/24634#osu/83674)
   2. [ONE OK ROCK - Liar (Snepif) \[Bloodlust\]](https://osu.ppy.sh/beatmapsets/240761#osu/569097)
-- HardRock
+- Hard Rock
   1. [Nico Nico Douga - Owens (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/20406#osu/72469)
   2. [Kozato snow - Izayoi Sakura (Melt) \[Insane\]](https://osu.ppy.sh/beatmapsets/162371#osu/396105)
-- DoubleTime
+- Double Time
   1. [Kawada Mami - PSI-missing -2011 remix- (JauiPlay) \[Jauignore\]](https://osu.ppy.sh/beatmapsets/38627#osu/123573)
   2. [ALTIMA - Burst The Gravity (Gloria Guard) \[Insane\]](https://osu.ppy.sh/beatmapsets/81567#osu/226351)
 - FreeMod
@@ -209,10 +209,10 @@ OUKT5 was run by various community members
 - Hidden
   1. [Natsuiro Bikini no Prim - Nagisa no Koakuma Lovely~Radio (CSY the corrupt) \[Extreme\]](https://osu.ppy.sh/beatmapsets/76709#osu/215888)
   2. [Amatsuki - Higurashi Moratorium (HelloSCV) \[Frobe's Extra\]](https://osu.ppy.sh/beatmapsets/94506#osu/254370)
-- HardRock
+- Hard Rock
   1. [44teru-k - F.I (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/25828#osu/106033)
   2. [Mind Vortex - Alive (Katty Pie) \[Insane\]](https://osu.ppy.sh/beatmapsets/205309#osu/484661)
-- DoubleTime
+- Double Time
   1. [u's - START:DASH!! (scanter) \[Insane\]](https://osu.ppy.sh/beatmapsets/99340#osu/264252)
   2. [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix- (TicClick) \[Insane\]](https://osu.ppy.sh/beatmapsets/57560#osu/173469)
 - FreeMod
@@ -235,10 +235,10 @@ OUKT5 was run by various community members
 - Hidden
   1. [Maduk ft. Veela - Ghost Assassin (Hourglass Bonusmix) (alacat) \[Lumiere\]](https://osu.ppy.sh/beatmapsets/198820#osu/471598)
   2. [daisan - -+ (RikiH\_) \[Mao's Another\]](https://osu.ppy.sh/beatmapsets/135094#osu/338545)
-- HardRock
+- Hard Rock
   1. [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[Pokie\]](https://osu.ppy.sh/beatmapsets/76396#osu/217651)
   2. [kors k feat. Furukawa Mirin - Drive Me Crazy (mochi) \[Another\]](https://osu.ppy.sh/beatmapsets/54817#osu/201661)
-- DoubleTime
+- Double Time
   1. [Hatsune Miku - FREELY TOMORROW (goodbye) \[Insane\]](https://osu.ppy.sh/beatmapsets/34634#osu/112531)
   2. [yanaginagi - Vidro Moyou (Moway) \[Insane\]](https://osu.ppy.sh/beatmapsets/120513#osu/308908)
 - FreeMod
@@ -261,10 +261,10 @@ OUKT5 was run by various community members
 - Hidden
   1. [ONE OK ROCK - Re:make (tutuhaha) \[Remake\]](https://osu.ppy.sh/beatmapsets/64001#osu/188961)
   2. [Prim - Koisuru\*Uchuu Sensou!! (-Chata-) \[Another\]](https://osu.ppy.sh/beatmapsets/46528#osu/144797)
-- HardRock
+- Hard Rock
   1. [Tatsh - HEAVENLY MOON (Dark Fang) \[Extreme\]](https://osu.ppy.sh/beatmapsets/46706#osu/150621)
   2. [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (Flower) \[Extreme\]](https://osu.ppy.sh/beatmapsets/119447#osu/307289)
-- DoubleTime
+- Double Time
   1. [Within Temptation - Sinead (narakucrimson) \[Insane\]](https://osu.ppy.sh/beatmapsets/34818#osu/113129)
   2. [Epik High - Fly (yeahyeahyeahhh) \[Fly\]](https://osu.ppy.sh/beatmapsets/56508#osu/170824)
 - FreeMod
@@ -287,10 +287,10 @@ OUKT5 was run by various community members
 - Hidden
   1. [IOSYS - Cirno's Perfect Math Class (Mao) \[Insane\]](https://osu.ppy.sh/beatmapsets/120071#osu/308009)
   2. [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/24325#osu/82734)
-- HardRock
+- Hard Rock
   1. [Nekomata Master - Far east nightbird (tsuka) \[Another\]](https://osu.ppy.sh/beatmapsets/34203#osu/112201)
   2. [kors k vs. L.E.D. - SOLID STATE SQUAD (Sprosive) \[Another\]](https://osu.ppy.sh/beatmapsets/15630#osu/59311)
-- DoubleTime
+- Double Time
   1. [Ken Ashcorp - 20 Percent Cooler (Alex S. Remix) (p3n) \[Challenging\]](https://osu.ppy.sh/beatmapsets/106552#osu/279731)
   2. [Owl City - Deer In The Headlights (Krisom) \[Insane\]](https://osu.ppy.sh/beatmapsets/37149#osu/119626)
 - FreeMod
@@ -574,7 +574,7 @@ Saturday, 12 September 2015 & Sunday, 13 September 2015
 
 - Your rank must be lower than #30000 to play. Signups under this rank will not be considered. You must also have a UK flag to be eligible, or be able to prove your nationality is UK. Ireland flag players are permitted to signup.
 - UK staff are allowed to play.
-- The map pool will consist of Nomod, HardRock, DoubleTime, Hidden, Freemod. The mods permitted on Freemod maps are: Hidden, HardRock or Hidden + HardRock. Nomod is also permitted.
+- The map pool will consist of Nomod, Hard Rock, Double Time, Hidden, Freemod. The mods permitted on Freemod maps are: Hidden, Hard Rock or Hidden + Hard Rock. Nomod is also permitted.
 - A player may only pick from each mod pool once.
 - If one of the players fails to show, they get a additional 10 minutes or otherwise forfeit. If neither show, the match shall be rearranged.
 - If a player experiences software or hardware issues or network issues and fails a map, rematches will be offered. They may decline this at their wish.

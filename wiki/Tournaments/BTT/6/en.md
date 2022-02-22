@@ -119,11 +119,11 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
   1. [Kanon Wakeshima - Tsukinami (gaston\_2199) \[Oni\]](https://osu.ppy.sh/beatmapsets/556098#taiko/1286354)
   2. [Cranky - LVBNR5 SCHWARZ (Nofool) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/492813#taiko/1049767)
   3. [toby fox - Spider Dance (MARETU Remix) (Serial Dreemurr) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1088142#taiko/2275354)
-- HardRock
+- Hard Rock
   1. [Krewella - Surrender The Throne (Lyawi) \[Oni\]](https://osu.ppy.sh/beatmapsets/1062820#taiko/2225599)
   2. [BlackY - IKAROS DYNAMITE!!!! (Vulkin) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/537224#taiko/1163529)
   3. [Bring Me The Horizon - ouch (Arrival) \[oni (Capu) (BTT edit)\]](https://osu.ppy.sh/beatmapsets/1415810#taiko/2917823)
-- DoubleTime
+- Double Time
   1. [Sayuri - Sore wa Chiisana Hikari no Youna (Arrival) \[Muzukashii (Nao Tomori) (BTT Edit)\]](https://osu.ppy.sh/beatmapsets/1415820#taiko/2917841)
   2. [ZUN - The Youkai Mountain ~ Mysterious Mountain (BCI) \[Koka's Muzukashii\]](https://osu.ppy.sh/beatmapsets/76048#taiko/216948)
   3. [sakuraburst - dungeon music (iceOC) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1056653#taiko/2279001)
@@ -149,11 +149,11 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
   1. [Lime - 8bit Voyager (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1326923#taiko/2748993)
   2. [Truxton - SHOTGUN JUGGLE (DarkVortex) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/532587#taiko/1128510)
   3. [Deorro - Red Lips (Jaye) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/697727#taiko/1477915)
-- HardRock
+- Hard Rock
   1. [Various Artists - BTT 2021 Finals Mappack (Arrival) \[MIMI - Mizuoto to Curtain (eiri-) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1408912#taiko/2905176)
   2. [Memme - Pandemonium (Raiden) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/922918#taiko/2562603)
   3. [Tezuka x Qayo - NiNi (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1048248#taiko/2192545)
-- DoubleTime
+- Double Time
   1. [Various Artists - BTT 2021 Finals Mappack (Arrival) \[Hanazawa Kana - happy endings (Nardoxyribonucleic) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1408912#taiko/2905174)
   2. [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/140418#taiko/351167)
   3. [URBANGARDE - BAERUNA (Faputa) \[MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/1323774#taiko/2781312)
@@ -178,11 +178,11 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
   1. [SOUND HOLIC feat. Nana Takahashi - STARLIGHT JUNCTION (Luqua) \[Roger's MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/1102691#taiko/2312268)
   2. [Various Artists - BTT 2021 SF Mappack (Arrival) \[Rahatt - Brecorr in Macedonia (Genjuro) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1402498#taiko/2893220)
   3. [yuikonnu - Genjitsu Game (Lasse) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/733590#taiko/2229526)
-- HardRock
+- Hard Rock
   1. [Various Artists - BTT 2021 SF Mappack (Arrival) \[AcuticNotes - Axeria (tasuke912) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1402498#taiko/2893219)
   2. [Morimori Atsushi - Mangetsu no Tikurin(MRM REMIX) (Ozu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1082080#taiko/2263550)
   3. [Lime - 8bit Adventurer (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1225007#taiko/2547758)
-- DoubleTime
+- Double Time
   1. [Alex Gaudino feat. Crystal Waters - Destination Calabria (Getty) \[Ayyri's Muzukashii\]](https://osu.ppy.sh/beatmapsets/760416#taiko/1601539)
   2. [Zekk - Falling Down feat. Renko x TRIANGLE (Raiden) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1150487#taiko/2411483)
 - FreeMod
@@ -205,10 +205,10 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 - Hidden
   1. [nora2r - B.B.K.K.B.K.K (DanSparce) \[Nishizumi's Muzukashii\]](https://osu.ppy.sh/beatmapsets/326284#taiko/726479)
   2. [Akira Complex - Ether Strike (Raytoly) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1170083#taiko/2471176)
-- HardRock
+- Hard Rock
   1. [Various Artists - BTT 2021 QF Mappack (Arrival) \[Agnete Kjolsrud - Get Jinxed (Hanjamon) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1395403#taiko/2880212)
   2. [Various Artists - BTT 2021 QF Mappack (Arrival) \[AAAA Chazuke - Hoshi no Otoshimono (X a v y) [Futsuu (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1395403#taiko/2880211)
-- DoubleTime
+- Double Time
   1. [Various Artists - BTT 2021 QF Mappack (Arrival) \[Eve - Dramaturgy (Ulqui) [Futsuu (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1395403#taiko/2880213)
   2. [UNDEAD CORPORATION - Karakurenai (ASPIRIN) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/709336#taiko/1510938)
 - FreeMod
@@ -231,10 +231,10 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 - Hidden
   1. [Various Artists - BTT 2021 RO16 Mappack (Arrival) \[senya - Sasakayu, Kiekaketa Kouisou ga (Prophecy) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1388763#taiko/2868117)
   2. [Rahatt - Mafijas Breakcore (Genjuro) \[HiroK's Futsuu\]](https://osu.ppy.sh/beatmapsets/1164471#taiko/2442083)
-- HardRock
+- Hard Rock
   1. [Morimori Atsushi vs. uma - Sweet\* Witch\* Girl\* (FiNNb) \[Muzukashii*\]](https://osu.ppy.sh/beatmapsets/1283515#taiko/2668780)
   2. [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Nardo's Futsuu\]](https://osu.ppy.sh/beatmapsets/812992#taiko/2244449)
-- DoubleTime
+- Double Time
   1. [MYLK - Bubblegum (Cynplytholowazy) \[HiroK's Futsuu\]](https://osu.ppy.sh/beatmapsets/1055143#taiko/2206121)
   2. [Yunomi - Wakusei Rabbit (feat. TORIENA) (Franklin\_DeJavu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/639535#taiko/1357108)
 - FreeMod
@@ -256,10 +256,10 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 - Hidden
   1. [Silentroom - Alt Futur (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1239033#taiko/2583911)
   2. [Rohi - LvC3 (Hivie) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1176918#taiko/2455956)
-- HardRock
+- Hard Rock
   1. [Memme - Starving Days (Love) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/157641#taiko/390091)
   2. [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (L y s) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/812548#taiko/1704322)
-- DoubleTime
+- Double Time
   1. [SHW - Ikusa JAPAN (shw.in) (kanpakyin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/169969#taiko/411519)
   2. [CLIFF EDGE - Angel feat. Nakamura Maiko (Speed Up Ver.) (Fleure De Lapin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1049007#taiko/2192603)
 - FreeMod
@@ -280,10 +280,10 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 - Hidden
   1. [Zekk - Libertas (\_DUSK\_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1001338#taiko/2109511)
   2. [RYO - Shuffle Heaven (Nwolf) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/194109#taiko/461057)
-- HardRock
+- Hard Rock
   1. [Camellia - Sayonara Heaven (Camellia's NEKOMATAelectroRMX) (\_DUSK\_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/964453#taiko/2027842)
   2. [Nekomata Master feat. Hayashi Momoko - Rainbow after snow (TKSalt) \[Futsuu\]](https://beatconnect.io/b/108948 )
-- DoubleTime
+- Double Time
   1. [XXXTENTACION - Jocelyn Flores (Chromoxx) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/705133#taiko/1491486)
   2. [Sano Gaku - Rise Up Your Flag (Meow2) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/221626#taiko/555274)
 - FreeMod
@@ -301,9 +301,9 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
   2. [The Super Mario Players feat. Kate Davis - Jump Up, Super Star! (Short ver.) (maziari1105) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/710971#taiko/1505875)
 - Hidden
   1. [dark cat - hot chocolate (Backfire) \[Nardo's Futsuu\]](https://osu.ppy.sh/beatmapsets/847576#taiko/1863457)
-- HardRock
+- Hard Rock
   1. [Akiyama Uni - Kanpan Tasogare Shinbun (Yumyum-) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/748983#taiko/1580170)
-- DoubleTime
+- Double Time
   1. [Rin - Kishinjou set 01 ~ Mist Lake (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/948844#taiko/1981515)
 - FreeMod
   1. [Hommarju - BEAST BASS BOMB (Tofu1222) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/855722#taiko/1802776)
@@ -725,9 +725,9 @@ Sunday, 21 February 2021:
 ### Mappool regulations
 
 1. There will be different pool for each stage of the tournament, progressively becoming harder as the stage goes on.
-2. The brackets are as follows: NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker. Therefore will be 6 brackets total.
+2. The brackets are as follows: NoMod, Hidden, Hard Rock, Double Time, FreeMod, and Tiebreaker. Therefore will be 6 brackets total.
 3. Tiebreaker will be played under FreeMod bracket.
-4. FreeMod will treated as picking NoMod, Hidden and/or HardRock. It means that participants **don't** have to use mod during this bracket.
+4. FreeMod will treated as picking NoMod, Hidden and/or Hard Rock. It means that participants **don't** have to use mod during this bracket.
 
 ### Scheduling regulations
 

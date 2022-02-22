@@ -93,11 +93,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Cranky - Rave 2 Rave (Sonnyc) [Expert]](https://osu.ppy.sh/beatmapsets/751896#osu/1582902)
   2. [HyuN - Infinity Heaven (BarkingMadDog) [Extreme]](https://osu.ppy.sh/beatmapsets/821998#osu/1752927)
   3. [Rhapsody - Emerald Sword (Reikin) [Extreme]](https://osu.ppy.sh/beatmapsets/3198#osu/25580)
-- HardRock
+- Hard Rock
   1. [NU-KO - Pochiko no Shiawase na Nichijou (Long Version) (SnowNiNo\_) [Pochiko]](https://osu.ppy.sh/beatmapsets/307034#osu/1154766)
   2. [Sota Fujimori - VOLTEXES III (Nerova Riuz GX) [GRAVITY]](https://osu.ppy.sh/beatmapsets/409584#osu/889087)
   3. [Disasterpeace - Jump Error (Bonsai) [Map Error]](https://osu.ppy.sh/beatmapsets/426652#osu/925613)
-- DoubleTime
+- Double Time
   1. [Wakeshima Kanon - Tsukinami (Reform) [SMOKELIND's Insane]](https://osu.ppy.sh/beatmapsets/896080#osu/1873147)
   2. [Max Coveri - Running in the 90's (Gabi) [Insane]](https://osu.ppy.sh/beatmapsets/18482#osu/65417)
   3. [Mitchie M - Suki ! Yuki ! Maji Magic (Natsu) [Snow]](https://osu.ppy.sh/beatmapsets/230442#osu/554701)
@@ -121,11 +121,11 @@ This competition has come to an end and resulted in the following podium:
   1. [MY FIRST STORY - Last Call (Feb) [FCL's Extra]](https://osu.ppy.sh/beatmapsets/698757#osu/1479842)
   2. [ChouchouP - Tsukimiyo Rabbit (Zero\_\_wind) [Tsuki]](https://osu.ppy.sh/beatmapsets/122342#osu/312959)
   3. [Chata - len (Kalibe) [emptiness]](https://osu.ppy.sh/beatmapsets/918509#osu/1918025)
-- HardRock
+- Hard Rock
   1. [xi - ANiMA (sdafsf) [Soul]](https://osu.ppy.sh/beatmapsets/624995#osu/1317186)
   2. [sana - Packet Hero (Fuccho) [-Tochi's Extra]](https://osu.ppy.sh/beatmapsets/404910#osu/909502)
   3. [M2U - Seeker (Streliteela) [Insane]](https://osu.ppy.sh/beatmapsets/477953#osu/1020932)
-- DoubleTime
+- Double Time
   1. [SirensCeol - Nightmare (galvenize) (Maxin Remix) [Another]](https://osu.ppy.sh/beatmapsets/115107#osu/297663)
   2. [senya - Magica (Satellite) [SatelliteFrostMix]](https://osu.ppy.sh/beatmapsets/91791#osu/248474)
   3. [Refresh - Summertime (AndreasHD) (ekowraith remix) [Insane]](https://osu.ppy.sh/beatmapsets/30581#osu/100880)
@@ -149,11 +149,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Reol - No title (cRyo[iceeicee]) [Insane]](https://osu.ppy.sh/beatmapsets/260141#osu/594307)
   2. [sky_delta - Grenade (Nanashima Asami) [Ex]](https://osu.ppy.sh/beatmapsets/563413#osu/1191349)
   3. [Dian Bo Feng - Duan Di. Da Wang. Miao Pa Si (Tarrasky) [SOLO]](https://osu.ppy.sh/beatmapsets/299049#osu/671521)
-- HardRock
+- Hard Rock
   1. [ALiCE'S EMOTiON - Dark Flight Dreamer (Sakaue Nachi) [Dreamer]](https://osu.ppy.sh/beatmapsets/185250#osu/676172)
   2. [sasakure.UK - Good Bye, Mr. Jack (DeviousPanda) [Extra]](https://osu.ppy.sh/beatmapsets/714235#osu/1509453)
   3. [Puru - Homura (VINXIS) [Insane]](https://osu.ppy.sh/beatmapsets/837924#osu/1754352)
-- DoubleTime
+- Double Time
   1. [Shihori - Bloody Night (Frostmourne) [Lunatic]](https://osu.ppy.sh/beatmapsets/46223#osu/143989)
   2. [Hiro - Carol Megamix (LunarSakuya) [Insane]](https://osu.ppy.sh/beatmapsets/64901#osu/190584)
   3. [Lou Bega - Mambo No.5 (Lesjuh) [Insane]](https://osu.ppy.sh/beatmapsets/33393#osu/108936)
@@ -177,11 +177,11 @@ This competition has come to an end and resulted in the following podium:
   1. [a-ha - Take On Me (Alvieee) [Axtr-ha]](https://osu.ppy.sh/beatmapsets/601347#osu/1832316)
   2. [yuki. - Spring Signal (pishifat) [Extra]](https://osu.ppy.sh/beatmapsets/716211#osu/1513223)
   3. [DM Ashura - Classical Insanity (alvisto) [Classical Insanity !!]](https://osu.ppy.sh/beatmapsets/15014#osu/54642)
-- HardRock
+- Hard Rock
   1. [Shinonome Natsuhi (CV: Hinami Yuri) - Moratorium no Oto (newton-) [Atalanta's Extra]](https://osu.ppy.sh/beatmapsets/693750#osu/1485831)
   2. [lapix feat. Renko - Concept Of Reality (ProfessionalBox) [LCFC's Insane]](https://osu.ppy.sh/beatmapsets/559140#osu/1184098)
   3. [Yooh - Dynasty (Sylith) [HalLoWeeN's EXHAUST]](https://osu.ppy.sh/beatmapsets/149648#osu/374776)
-- DoubleTime
+- Double Time
   1. [Bassy feat.Annabel - KAGUYA (Delis) [Insane]](https://osu.ppy.sh/beatmapsets/683393#osu/1455080)
   2. [toby fox - Hopes and Dreams (pkk) [Insane]](https://osu.ppy.sh/beatmapsets/373373#osu/912123)
   3. [Nakahara Mai - Hatsukoi wa Zakuro Iro (S i R i R u) [Japanese Collab]](https://osu.ppy.sh/beatmapsets/23933#osu/81647)
@@ -203,10 +203,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Zektbach - Turii ~Panta rhei~ (celerih) [Insane]](https://osu.ppy.sh/beatmapsets/800638#osu/1680864)
   2. [momori - Togameru Kage (Kalibe) [Sorrow]](https://osu.ppy.sh/beatmapsets/866301#osu/1811243)
-- HardRock
+- Hard Rock
   1. [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) (Minorsonek) [diuS' Insane]](https://osu.ppy.sh/beatmapsets/734135#osu/1580557)
   2. [Kano - Stella-rium(Puru Remix) (VINXIS) [Fuccho's Insane]](https://osu.ppy.sh/beatmapsets/401731#osu/996496)
-- DoubleTime
+- Double Time
   1. [nano - GALLOWS BELL (theramdans) [Insane]](https://osu.ppy.sh/beatmapsets/170942#osu/604701)
   2. [Usa - Shining/STREAM (HelloSCV) [Lunatic]](https://osu.ppy.sh/beatmapsets/67444#osu/195946)
 - FreeMod
@@ -226,10 +226,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Loos - Koi Yomi Zakura (NatsumeRin) [Rin]](https://osu.ppy.sh/beatmapsets/33976#osu/111174)
   2. [IOSYS - Resurrection Blossom (Snepif) [Lunatic]](https://osu.ppy.sh/beatmapsets/54043#osu/164519)
-- HardRock
+- Hard Rock
   1. [Jenny And The Mexicats - Labios (ezek) [Otro de Nowa]](https://osu.ppy.sh/beatmapsets/534813#osu/1482002)
   2. [LeaF - MEPHISTO (Alumetorz) [Another]](https://osu.ppy.sh/beatmapsets/106212#osu/282166)
-- DoubleTime
+- Double Time
   1. [senya - Nureta Kami ni Furerareta Toki (Smoothie) [Lunatic]](https://osu.ppy.sh/beatmapsets/92507#osu/250103)
   2. [07th Expansion - the executioner (Natteke) [Hard]](https://osu.ppy.sh/beatmapsets/27146#osu/91198)
 - FreeMod
@@ -246,9 +246,9 @@ This competition has come to an end and resulted in the following podium:
   3. [SHK - East West Wobble (Irreversible) [Dragon Dance]](https://osu.ppy.sh/beatmapsets/325432#osu/722878)
 - Hidden
   1. [Remixed by DJ Command - Mermaid girl -Akiba Koubou MIX- (Priti) [Another]](https://osu.ppy.sh/beatmapsets/145909#osu/361687)
-- HardRock
+- Hard Rock
   1. [ETIA. - Lost Love (JJburstOwO) [Insane]](https://osu.ppy.sh/beatmapsets/341933#osu/762792)
-- DoubleTime
+- Double Time
   1. [Hatsuki Yura - Ganbare! Koi no Hana (Kotone) [Hana]](https://osu.ppy.sh/beatmapsets/55359#osu/167963)
 
 ## Match results
@@ -479,7 +479,7 @@ Wednesday, 24 April 2019:
 
 ## Ruleset
 
-- CorgiCup VI is a 32 player, 1v1, Double Elimination tournament, with Score V2 as the scoring system used.
+- CorgiCup VI is a 32 player, 1v1, Double Elimination tournament, with ScoreV2 as the scoring system used.
 - In order to participate, you must have the "Subscriber" or the "Friend" role on Doomsday's Discord.
 - The Top 4 from last CorgiCup (![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581), ![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262) and ![][flag_GB] [OPJames](https://osu.ppy.sh/users/4117142)) all have automatic qualifications into the Round of 32 should they accept their invitation.
 - Should more than 28 people sign up for the tournament, qualifiers will take place.

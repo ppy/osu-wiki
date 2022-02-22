@@ -91,10 +91,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Rotteen - VEC LEGGENDARIA (TKS) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/472627#taiko/1009830)
   2. [kamome sano - Prepared Improvisation (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/556358#taiko/1177487)
-- HardRock
+- Hard Rock
   1. [BLUE ENCOUNT - HOPE(Speed Up ver.) (Shallty) \[Hope Oni\]](https://osu.ppy.sh/beatmapsets/747842#taiko/1575675)
   2. [Zekk - Sugary Daydream (TKS) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/578489#taiko/1224835)
-- DoubleTime
+- Double Time
   1. [darkbluecat - Recordar (z411 remix) ft. Hatsune Miku (-Kazu-) \[Dysthemia\]](https://osu.ppy.sh/beatmapsets/611904#taiko/1733313)
   2. [Camellia feat. Nanahira - Amor De Verao (Tofu1222) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/746316#taiko/1573005)
 - FreeMod
@@ -118,10 +118,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [hanacco - Uchiage Hanabi, Doko kara Mirunen w (KitajimaYN) \[KTYN'S LATE FIRE\]](https://osu.ppy.sh/beatmapsets/815747#taiko/1759646)
   2. [Power of Nature - Oriental Mesia (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/760370#taiko/1599190)
-- HardRock
+- Hard Rock
   1. [t+pazolite - Muzik Overload (vzk) \[OVERLOAD\]](https://osu.ppy.sh/beatmapsets/703640#taiko/1488655)
   2. [Rotteen - UR Way (Coryn) \[Inner Owoni\]](https://osu.ppy.sh/beatmapsets/819308#taiko/1717773)
-- DoubleTime
+- Double Time
   1. [sasakure.UK - Atropos (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/371179#taiko/813293)
   2. [Touno Sakura - PRIZM/CIRCUiT (yassu-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/581045#taiko/1230038)
 - FreeMod
@@ -145,10 +145,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Kokomochi - Dainsleif (Osamix) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/707964#taiko/1496859)
   2. [DOUBLE HELIX - Our Faith (Faithful MTL Remix) (ztrike) \[zt's Inner Oni\]](https://osu.ppy.sh/beatmapsets/592748#taiko/1254160)
-- HardRock
+- Hard Rock
   1. [Nato - Yog-Sototh (guro) \[Outer God\]](https://osu.ppy.sh/beatmapsets/704640#taiko/1490596)
   2. [katagiri - Lu\*nya\*cy Act 2017 (HEKUSODASU) \[KUSOni\]](https://osu.ppy.sh/beatmapsets/835131#taiko/1749181)
-- DoubleTime
+- Double Time
   1. [Eve - Outsider (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/802114#taiko/1683531)
   2. [Shiron - Lunartic Dial (eterpay) \[Oni\]](https://osu.ppy.sh/beatmapsets/556533#taiko/1178428)
 - FreeMod
@@ -172,10 +172,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Remo Prototype \[CV: Hanamori Yumiri\] - Sendan Life (newyams99) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/452098#taiko/969783)
   2. [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) \[long ver.\] (yyyyyyyyyyypetu) \[pet pok Night\]](https://osu.ppy.sh/beatmapsets/738394#taiko/1558347)
-- HardRock
+- Hard Rock
   1. [t+pazolite - Sneak Snake (R e i R i, R i n g o) \[Reiri & Ringo's Taiko\]](https://osu.ppy.sh/beatmapsets/304570#taiko/682323)
   2. [MASAKI - Scarlet Lance (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/725296#taiko/1531405)
-- DoubleTime
+- Double Time
   1. [LeaF - Chronostasis (DakeDekaane) \[Oni\]](https://osu.ppy.sh/beatmapsets/193469#taiko/459654)
   2. [Miku Sawai - Colorful.(Asterisk DnB Remix) (Charlotte) \[Oni\]](https://osu.ppy.sh/beatmapsets/672223#taiko/1421041)
 - FreeMod
@@ -199,10 +199,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [BlackY - JEHANNEDARC (komasy) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/633361#taiko/1344250)
   2. [Chouchou P - White Prism (zkane2) \[Rainbow \[EUTT\]\]](https://puu.sh/BW9eQ/9b094f23bc.osz)
-- HardRock
+- Hard Rock
   1. [CyoucyoP feat.Hatsune Miku - End of the World (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/215476#taiko/506018)
   2. [USAO - Miracle 5ympho X (Gezoda) \[Gezo's Giga Oni\]](https://osu.ppy.sh/beatmapsets/137394#taiko/486191)
-- DoubleTime
+- Double Time
   1. [mafumafu - Yume no Mata Yume (newyams99) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/507212#taiko/1078887)
   2. [ClariS - Connect (Nardoxyribonucleic) \[Oni\]](https://osu.ppy.sh/beatmapsets/539122#taiko/1142412)
 - FreeMod
@@ -224,10 +224,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Chito(CV:Minase Inori), Yuuri(CV:Kubo Yurika) - Ugoku Ugoku(YUKIYANAGI Remix) (rezi888) \[Taiko\]](https://osu.ppy.sh/beatmapsets/703805#taiko/1488954)
   2. [Himeringo - Yotsuya-san ni Yoroshiku (OnosakiHito) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/100049#taiko/351995)
-- HardRock
+- Hard Rock
   1. [Nekomata Gekidan - AsiaN distractive (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/672802#taiko/1422127)
   2. [44teru-k - F.I (lepidopodus) \[lepido! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/25828#taiko/125530)
-- DoubleTime
+- Double Time
   1. [senya - Glass-like Psychology (spboxer3) \[Sp3's Taiko\]](https://osu.ppy.sh/beatmapsets/47713#taiko/149128)
   2. [fripSide - black bullet (Nardoxyribonucleic) \[Nardo's Oni\]](https://osu.ppy.sh/beatmapsets/80747#taiko/404232)
 - FreeMod
@@ -378,12 +378,12 @@ Sunday, 4 November 2018:
 1. Only Players with a **European** or **Eurasian** flag on their account are allowed to register in this tournament.
 2. Group Stage matches are seeded based on global rank at time of registration submission.
 3. EUTT will have a double elimination structure with a loser bracket.
-4. EUTT matches will be 1v1 Taiko in team style format with a point given to the highest score achieved in the **Score V2** system.
+4. EUTT matches will be 1v1 Taiko in team style format with a point given to the highest score achieved in the **ScoreV2** system.
 5. The win conditions for each stage are as follows.
    - In Round of 32 and Round of 16, it is Bo7: First to win 4 maps wins.
    - In Quarterfinals and Semifinals, it is Bo9: First to win 5 maps wins.
    - In Finals and Grand Finals, it is Bo11: First to win 6 maps wins.
-6. **Score V2** will be used.
+6. **ScoreV2** will be used.
 7. Map pools will contain 5 NoMod (3+2 EX), 2 HD, 2 HR, 2 DT, 3 FM, and 1 Tiebreaker.
 8. Players must have at least 1 mod activated during the FreeMod pool.
 9. You are allowed 1 map ban per match, this does not include the Tiebreaker.

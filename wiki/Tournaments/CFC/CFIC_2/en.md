@@ -102,12 +102,12 @@ This competition has come to an end and resulted in the following podium:
   2. [Clown Core - Hell (Sinnoh) \[Rain\]](https://osu.ppy.sh/beatmapsets/925638#fruits/1933443)
   3. [Said The Sky - For You (Ft. Melissa Hayes) (Bearizm) \[Insane\]](https://osu.ppy.sh/beatmapsets/847645#fruits/1773226)
   4. [ZUN - Old Yuanshen (Parachute) \[\Para's Lunatic\]](https://osu.ppy.sh/beatmapsets/71800#fruits/208208)
-- HardRock
+- Hard Rock
   1. [nmk - sola (-Sh1n1-) \[MBomb's Rain\]](https://osu.ppy.sh/beatmapsets/595972#fruits/1274343)
   2. [Orange Lounge - Marmalade Reverie (-Ken) \[Paradis (CFIC)\]](https://osu.ppy.sh/beatmapsets/1125533#fruits/2351771)
   3. [Hanatan - Kitsune no Yomeiri (Ryafuka) \[Kitsuneko\]](https://osu.ppy.sh/beatmapsets/46070#fruits/144387)
   4. [Yasunori Mitsuda - Battle with Magus (AdvanceBoy) \[Darkness\]](https://osu.ppy.sh/beatmapsets/37332#fruits/120119)
-- DoubleTime
+- Double Time
   1. [Cranky - EMPEROR (JBHyperion) \[PLATTER\]](https://osu.ppy.sh/beatmapsets/979438#fruits/2054224)
   2. [Memme - Force of Ra (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/573479#fruits/1214850)
   3. [Senya - Kodokutsuki (y u z u k i) \[gow's insane\]](https://osu.ppy.sh/beatmapsets/24706#fruits/83968)
@@ -129,12 +129,12 @@ This competition has come to an end and resulted in the following podium:
   2. [kors k - Playing With Fire (Sota Fujimori Remix) (Ascendance) \[White Hard\]](https://osu.ppy.sh/beatmapsets/683343#fruits/1577675)
   3. [Kero Kero Bonito - Flyway (Hectic) \[Toy's Insane\]](https://osu.ppy.sh/beatmapsets/969578#fruits/2161385)
   4. [Tezuka feat. Oonishi Amimi - Bokura no Jikan (celerih) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/928650#fruits/1939646)
-- HardRock
+- Hard Rock
   1. [FOLiACETATE - Heterochromia Iridis (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/833719#fruits/2170652)
   2. [Ray - Nagi (mingmichael) \[Rain\]](https://osu.ppy.sh/beatmapsets/146008#fruits/361907)
   3. [Shimotsuki Haruka - Tsubasa o Motanai Shoujo (Dored) \[Rio's Eztra\]](https://osu.ppy.sh/beatmapsets/883825#fruits/1866037)
   4. [FF7 Original Soundtrack - Crazy Motorcycle Chase (James) \[Crazy!\]](https://osu.ppy.sh/beatmapsets/1961#fruits/18170)
-- DoubleTime
+- Double Time
   1. [Neru - Byoumei Wa Ai Datta (Ellyu) \[Rew's Platter\]](https://osu.ppy.sh/beatmapsets/684960#fruits/2203059)
   2. [siromaru + cranky - conflict (Bunnrei) \[Platter\]](https://osu.ppy.sh/beatmapsets/981762#fruits/2055786)
   3. [Nightwish - Planet Hell (Sieg) \[Insane\]](https://osu.ppy.sh/beatmapsets/167077#fruits/405955)
@@ -158,12 +158,12 @@ This competition has come to an end and resulted in the following podium:
   2. [Umeboshi Chazuke - Owari to Hajimari no Oto (- Syamu -) \[AJamez's Rain\]](https://osu.ppy.sh/beatmapsets/786403#fruits/1819674)
   3. [Marina And The Diamonds - Lonely Hearts Club (Desperate-kun) \[Insane\]](https://osu.ppy.sh/beatmapsets/369678#fruits/810027)
   4. [dj TAKA - Hollywood Galaxy (Megurine Luka) \[Extreme\]](https://osu.ppy.sh/beatmapsets/48196#fruits/150116)
-- HardRock
+- Hard Rock
   1. [Fractal Dreamers - Everything for a Dream (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/943803#fruits/1971060)
   2. [Ito Kashitaro - Setsuna Plus (-Hex-) \[Platter\]](https://osu.ppy.sh/beatmapsets/836272#fruits/1751319)
   3. [Brandy - Cross Time !! (Luxary) \[Luxary FinaL ReMiX\]](https://osu.ppy.sh/beatmapsets/5918#fruits/36710)
   4. [Cres - End Time (Maddy) \[Hyper\]](https://osu.ppy.sh/beatmapsets/73474#fruits/209553)
-- DoubleTime
+- Double Time
   1. [Yorushika - Tada Kimi ni Hare (mingmichael) \[Platter\]](https://osu.ppy.sh/beatmapsets/956891#fruits/2005995)
   2. [Raujika - Cry More (JBHyperion) \[Hyperion's Platter\]](https://osu.ppy.sh/beatmapsets/1009597#fruits/2119600)
   3. [Electus - Whispers From The Sea (deetz) \[water\]](https://osu.ppy.sh/beatmapsets/434334#fruits/935924)
@@ -184,11 +184,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Kon Natsumi - Niji no Kakera (mintong89) \[m1ng's Rain\]](https://osu.ppy.sh/beatmapsets/164528#fruits/404829)
   2. [xi - ANiMA (liaoxingyao) \[LV.11\]](https://osu.ppy.sh/beatmapsets/359191#fruits/789815)
   3. [Seven Lions with Myon and Shane 54 - Strangers (Feat. Tove Lo) (Maeglwn) \[Insane\]](https://osu.ppy.sh/beatmapsets/192347#fruits/457456)
-- HardRock
+- Hard Rock
   1. [The Real Tuesday Weld - The Lupine Waltz (-Ken) \[Myth\]](https://osu.ppy.sh/beatmapsets/1113573#fruits/2326443)
   2. [CustomiZ - COOLEST (Ascendance) \[Salad\]](https://osu.ppy.sh/beatmapsets/502512#fruits/1498722)
   3. [u's - Snow halation (-Zeraora) \[ezek's Hard\]](https://osu.ppy.sh/beatmapsets/894436#fruits/1869090)
-- DoubleTime
+- Double Time
   1. [LukHash - WHEN AN ANGEL DIES (Nelly) \[Platter\]](https://osu.ppy.sh/beatmapsets/1008600#fruits/2112182)
   2. [LEAF XCEED Music Division - Dear You [ver. XCEED] (semaphore) \[Sentimentality\]](https://osu.ppy.sh/beatmapsets/951890#fruits/1987779)
   3. [Groove Coverage - Angeline (Kurai) \[Hard\]](https://osu.ppy.sh/beatmapsets/197753#fruits/469007)
@@ -207,10 +207,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [7!! - Lovers (TV Size) (arken1015) \[urane's Catch Platter\]](https://osu.ppy.sh/beatmapsets/33769#fruits/157103)
   2. [ZUN - Shunshun Shuugetsu \~ Mooned Insect (Winek) \[Yauxo's Lunatic\]](https://osu.ppy.sh/beatmapsets/155051#fruits/417968)
-- HardRock
+- Hard Rock
   1. [Y&Co. feat. Karin - Sweet Rain (Sorcerer) \[Salad\]](https://osu.ppy.sh/beatmapsets/738169#fruits/1587423)
   2. [Akiyama Uni - Touhou Hisouten (JBHyperion) \[Salad\]](https://osu.ppy.sh/beatmapsets/965677#fruits/2021396)
-- DoubleTime
+- Double Time
   1. [Niira Etsuko - Genyou No Chou (SOGASOGAMO) \[Bernkastel\]](https://osu.ppy.sh/beatmapsets/11938#fruits/45179)
   2. [The Chainsmokers & Coldplay - Something Just Like This (handsome) \[Hard\]](https://osu.ppy.sh/beatmapsets/611301#fruits/1312786)
 - Tiebreaker
@@ -225,9 +225,9 @@ This competition has come to an end and resulted in the following podium:
   2. [Police Piccadilly feat. Hatsune Miku - Kire Carry On (Sinnoh) \[girl that violently kills with a chainsaw\]](https://osu.ppy.sh/beatmapsets/824959#fruits/1728720)
 - Hidden
   1. [joji - WORLD$TAR MONEY (Robin Remix) (-Ken) \[don't hate me\]](https://osu.ppy.sh/beatmapsets/783726#fruits/1645704)
-- HardRock
+- Hard Rock
   1. [Sato Hitomi - Futaba Town (Hiru) (Daletto) \[wonjae's Platter\]](https://osu.ppy.sh/beatmapsets/988577#fruits/2068773)
-- DoubleTime
+- Double Time
   1. [TiA - Ryuusei (Dangaard) \[Hard\]](https://osu.ppy.sh/beatmapsets/10960#fruits/42241)
 
 ## Match results
@@ -328,7 +328,7 @@ Sunday, 23 February 2020:
 ### General rules
 
 1. Participant must be within ranks #1,000 - #3,000 during registrations.
-2. The Score System used will be **Score V2**.
+2. The Score System used will be **ScoreV2**.
 3. If player can't attend within the span of **10 minutes**, the other player will win by default.
 4. A proper language is required, from the participants and the staff team as well
 5. Even in a tournament scene osu! is still a game. Please respect each other, be friendly, and fair play.
@@ -342,7 +342,7 @@ Sunday, 23 February 2020:
 3. Players will be forced to use a mod from a FreeMod pick.
 4. Players can't ban more than one map from a mod.
 5. Players can't pick two maps from the same mod in a row.
-6. Hidden mod is combineable with HardRock and DoubleTime mod.
+6. Hidden mod is combineable with Hard Rock and Double Time mod.
 7. The tiebreaker will be played under FreeMod.
 
 ### Winning conditions

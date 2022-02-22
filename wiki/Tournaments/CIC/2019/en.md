@@ -92,12 +92,12 @@ Listed below are the players who were admitted into the Group stage along with t
   2. [MALVA. - Trane (dika312) \[Traurigkeit\]](https://osu.ppy.sh/beatmapsets/1010141#fruits/2114540)
   3. [Zedd, Grey - Adrenaline (Hollow Wings) \[Decompensation\]](https://osu.ppy.sh/beatmapsets/584333#fruits/1236211)
   4. [Hatsuki Yura - Eclipse Parade (Vert) \[Zero's Insane\]](https://osu.ppy.sh/beatmapsets/430339#fruits/929453)
-- HardRock
+- Hard Rock
   1. [Yooh - LegenD. (Du5t) \[Daletto's OverdosE.\]](https://osu.ppy.sh/beatmapsets/1047989#fruits/2190554)
   2. [Mayumi Morinaga(moimoi) - dreamin' feat. Ryu\* (Ster) \[YOU ARE MY DREAM\]](https://osu.ppy.sh/beatmapsets/360829#fruits/792972)
   3. [Halogen - U Got That (Camellia's Neurofunk Bootleg) (Sotarks) \[ricardoFlick\]](https://osu.ppy.sh/beatmapsets/934144#fruits/1950290)
   4. [Shindig - Stutter (squirrelpascals) \[Go Home\]](https://osu.ppy.sh/beatmapsets/716749#fruits/1514465)
-- DoubleTime
+- Double Time
   1. [AiRI - Towa ni Saku Hana (Short Ver.) (Jemzuu) \[Rain\]](https://osu.ppy.sh/beatmapsets/958431#fruits/2009276)
   2. [Tanya Degurechaff (CV: Yuuki Aoi) - Los! Los! Los! (TV Size) (Du5t) \[Lieutenant\]](https://osu.ppy.sh/beatmapsets/904574#fruits/2103912)
   3. [Tsukiko - Hotarubi (Mirash) \[Collab Lunatic\]](https://osu.ppy.sh/beatmapsets/724098#fruits/1528970)
@@ -121,12 +121,12 @@ Listed below are the players who were admitted into the Group stage along with t
   2. [Kajiura Yuki - Decretum (-Hex-) \[Determination\]](https://osu.ppy.sh/beatmapsets/1044759#fruits/2184057)
   3. [3R2 - Devillic Sphere (Innovation) \[Extra\]](https://osu.ppy.sh/beatmapsets/795801#fruits/1671244)
   4. [Asumi Kana & Fujita Saki & Kitamura Eri - COOLISH WALK (TV Size) (biwako) \[EX\]](https://osu.ppy.sh/beatmapsets/37136#fruits/129285)
-- HardRock
+- Hard Rock
   1. [Chicala Lpis - Blackest Luxury Car (Nyxthymia) \[Luxury Dolphine\]](https://osu.ppy.sh/beatmapsets/999742#fruits/2091030)
   2. [Komiya Mao - (can you) understand me? (Daletto) \[IDu5t's Amnesia?\]](https://osu.ppy.sh/beatmapsets/828703#fruits/1794354)
   3. [xi - ANiMA (Kalindraz) \[Oberum Primus\]](https://osu.ppy.sh/beatmapsets/441271#fruits/949234)
   4. [Naru Hakobe (CV: M.A.O) - Neko Matsuri (Regou) \[Nyan\]](https://osu.ppy.sh/beatmapsets/660752#fruits/1615502)
-- DoubleTime
+- Double Time
   1. [Creo - In Circles (salchow) \[Collab Rain\]](https://osu.ppy.sh/beatmapsets/965558#fruits/2050069)
   2. [Zektbach - Turii \~Panta rhei\~ (Kyuare) \[Rain\]](https://osu.ppy.sh/beatmapsets/685428#fruits/1479407)
   3. [Nakae Mitsuki - Pure Love, True Love (El SolarBeam) \[Insane\]](https://osu.ppy.sh/beatmapsets/123687#fruits/315738)
@@ -149,11 +149,11 @@ Listed below are the players who were admitted into the Group stage along with t
   1. [Chitose Sara - Merry Merry Go Round (SHOT MUSIC Asterisk Remix) (-Izayoi) \[Carousel\]](https://osu.ppy.sh/beatmapsets/975120#fruits/2041038)
   2. [Hanatan - Jishou Mushoku (chickenbible) \[Smile\]](https://osu.ppy.sh/beatmapsets/873024#fruits/1824907)
   3. [solfa feat. Shimotsuki Haruka - leap in your mind (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/818672#fruits/1718542)
-- HardRock
+- Hard Rock
   1. [MY FIRST STORY - START OVER (\[ Saturn \]) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/928408#fruits/1939205)
   2. [Ling Yuan yousa - Hoshi to Kimi ga Kieta Hi (Dapuluous) \[Memories\]](https://osu.ppy.sh/beatmapsets/752110#fruits/1597213)
   3. [MuryokuP - Aspirin (Irie Miyuki) \[Insane\]](https://osu.ppy.sh/beatmapsets/132398#fruits/332985)
-- DoubleTime
+- Double Time
   1. [CLIFF EDGE - Endless Tears feat. Nakamura Maiko (CLSW) \[Platter\]](https://osu.ppy.sh/beatmapsets/197689#fruits/485404)
   2. [NEGOTO - Synchromanica (Sinnoh) \[Rain\]](https://osu.ppy.sh/beatmapsets/673290#fruits/1517953)
   3. [Zeng Zhihao - Fu Yun Ben Lang (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/89673#fruits/243644)
@@ -175,11 +175,11 @@ Listed below are the players who were admitted into the Group stage along with t
   1. [fhana - Genzaichi (Benita) \[Rain\]](https://osu.ppy.sh/beatmapsets/825376#fruits/1729487)
   2. [yanaginagi - Hoshiboshi no Wataridori (-Hex-) \[Lost Memories\]](https://osu.ppy.sh/beatmapsets/924320#fruits/1930633)
   3. [Gekidan Record feat. Nekomata Master - Houkou Orpheus (celerih) \[felys' White Hard\]](https://osu.ppy.sh/beatmapsets/879051#fruits/1855074)
-- HardRock
+- Hard Rock
   1. [EARPHONES - Arakajime Ushinawareta Bokura no Ballad (Game Ver.) (Sanyi) \[Rain\]](https://osu.ppy.sh/beatmapsets/843086#fruits/1766154)
   2. [Hatsuki Yura - Yuki no Hana (Ascendance) \[Ascendance & Piku's Snowfall\]](https://osu.ppy.sh/beatmapsets/699320#fruits/1480957)
   3. [ONE OK ROCK - Mikansei Koukyoukyoku (Saut) \[Collab Hard\]](https://osu.ppy.sh/beatmapsets/348604#fruits/792948)
-- DoubleTime
+- Double Time
   1. [senya - Zetsubou no Fuchi (Ascendance) \[IDu5t's Platter\]](https://osu.ppy.sh/beatmapsets/762829#fruits/1871747)
   2. [NICODE & M2U - Predawn (Sulfur) \[Jeir's Platter\]](https://osu.ppy.sh/beatmapsets/748803#fruits/1610570)
   3. [smileY inc. - Hanayuki (CelsiusLK) \[-Hakurei-'s Insane\]](https://osu.ppy.sh/beatmapsets/400239#fruits/870925)
@@ -201,11 +201,11 @@ Listed below are the players who were admitted into the Group stage along with t
   1. [Reol - FLASH BACK (alienflybot) \[RAIN\]](https://osu.ppy.sh/beatmapsets/706939#fruits/1732486)
   2. [RURUTIA - Phronesis (-Luminate) \[Rain\]](https://osu.ppy.sh/beatmapsets/965320#fruits/2020714)
   3. [petit milady - Koi wa Milk Tea (Okoratu) \[Amai\]](https://osu.ppy.sh/beatmapsets/364652#fruits/800385)
-- HardRock
+- Hard Rock
   1. [Tomita Miyu, Onishi Saori, Ohzora Naomi, Hanazawa Kana - Hallelujah\*Essaim (TV Size) (Yumeno Himiko) \[Hyperion's Platter\]](https://osu.ppy.sh/beatmapsets/579450#fruits/1227698)
   2. [Ito Kashitaro - Setsuna Plus (-Hex-) \[Platter\]](https://osu.ppy.sh/beatmapsets/836272#fruits/1751319)
   3. [DystopiaGround - True Theory of Inheritance (Ignacio) \[Aenna\]](https://osu.ppy.sh/beatmapsets/24477#fruits/84415)
-- DoubleTime
+- Double Time
   1. [Minase Mashiro - Suna no Kodomo (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/972764#fruits/2043177)
   2. [Y&Co. feat. Karin - Sweet Rain (Sorcerer) \[Platter\]](https://osu.ppy.sh/beatmapsets/738169#fruits/1587421)
   3. [hicalculator - Life is Game (tobebuta) \[tobe style\]](https://osu.ppy.sh/beatmapsets/6640#fruits/30239)
@@ -368,7 +368,7 @@ Monday, 16 September 2019:
 
 ### General rules
 
-1. Map scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
+1. Map scoring is based on **[ScoreV2](/wiki/Gameplay/Score#ScoreV2).**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the Tournament Management. If there are any players who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#reschedule-request` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.

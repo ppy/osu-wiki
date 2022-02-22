@@ -113,11 +113,11 @@ The osu!taiko World Cup 2016 was run by various community members.
   1. [BlackY - Harpuia (Ichigaki) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/295703#taiko/706841)
   2. [Sota Fujimori - WOBBLE IMPACT (Loctav) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/152368#taiko/375040)
   3. [LeaF - MEPHISTO (Alumetorz) \[TK'S Inner Oni\]](https://osu.ppy.sh/beatmapsets/106212#taiko/284037)
-- HardRock
+- Hard Rock
   1. [Morimori Atsushi - PUPA (TKS) \[Firce777's Hell Oni\]](https://osu.ppy.sh/beatmapsets/235506#taiko/545841)
   2. [L.E.D. vs S-C-U - Confiserie (-xNaCLx-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/369596#taiko/809880)
   3. [Chroma - Sayonara Planet Wars (BrambleClaw) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/343432#taiko/758831)
-- DoubleTime
+- Double Time
   1. [LEAF XCEED Music Division - YuYu Metal (DoKoLP) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/45528#taiko/142309)
   2. [sakuzyo - AXION (DaxMasterix) \[lepidon! - Inner Oni\]](https://osu.ppy.sh/beatmapsets/57468#taiko/244200)
   3. [A.SAKA - Nanatsu Issenzakura (Nofool) \[tasuke's Inner Oni\]](https://osu.ppy.sh/beatmapsets/320555#taiko/719063)
@@ -143,11 +143,11 @@ The osu!taiko World Cup 2016 was run by various community members.
   1. [Camellia - werewolf howls. (Nwolf) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/309969#taiko/692800)
   2. [BlackY - Max Burning!! (SpectorDG) \[tasuke's Inner Oni\]](https://osu.ppy.sh/beatmapsets/320905#taiko/766232)
   3. [TAG - Riot of Color (OzzyOzrock) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/251169#taiko/576979)
-- HardRock
+- Hard Rock
   1. [DE-JAVU - TRIP MACHINE EVOLUTION (Raiden) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/412261#taiko/894396)
   2. [FLOOR LEGENDS -KAC 2012- - KAC 2012 ULTIMATE MEDLEY -HISTORIA SOUND VOLTEX- (Nanatsu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/406622#taiko/920487)
   3. [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/206904#taiko/487709)
-- DoubleTime
+- Double Time
   1. [M2U - Quo Vadis (TKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/135324#taiko/339131)
   2. [Ryu\* - Mind Mapping (kors k mix) (Jerry) \[m1ng's Oni\]](https://osu.ppy.sh/beatmapsets/107237#taiko/281558)
   3. [SOUND HOLIC - Drive My Life (Scorpiour) \[Firce777's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/57950#taiko/177271)
@@ -173,11 +173,11 @@ The osu!taiko World Cup 2016 was run by various community members.
   1. [Thaehan - Sunrise (ghm12) \[Taiko\]](https://osu.ppy.sh/beatmapsets/299015#taiko/670914)
   2. [Renard - Terminal (nold\_1702) \[mint's Inner Oni\]](https://osu.ppy.sh/beatmapsets/102282#taiko/291218)
   3. [USAO - Showdown (eeezzzeee) \[tasuke's Inner Oni\]](https://osu.ppy.sh/beatmapsets/339792#taiko/809177)
-- HardRock
+- Hard Rock
   1. [SOUND HOLIC Vs. dj TAKA feat. YURiCa - TIEFSEE (OnosakiHito) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/423597#taiko/915380)
   2. [Soleily - Renatus (Multiple Creators) \[Oni\]](https://osu.ppy.sh/beatmapsets/241526#taiko/557818)
   3. [t+pazolite - Pumpin' Junkies (Lost The Lights) \[LTL's Inner Oni\]](https://osu.ppy.sh/beatmapsets/364288#taiko/799720)
-- DoubleTime
+- Double Time
   1. [kors k feat.Yoshikawa Sunao - 7 Colors (sionKotori) \[Naryuga's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/148397#taiko/369597)
   2. [capitaro - Yoiduki Maiuta (Amamiya Yuko) \[714's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/70057#taiko/206233)
   3. [D.J.Amuro - ZZ (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/357767#taiko/786903)
@@ -203,11 +203,11 @@ The osu!taiko World Cup 2016 was run by various community members.
   1. [ESTi X M2U - Obelisque (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/172663#taiko/417241)
   2. [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[714's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/76396#taiko/217280)
   3. [Mutsuhiko Izumi - Red Goose (lepidopodus) \[Oni\]](https://osu.ppy.sh/beatmapsets/55920#taiko/169371)
-- HardRock
+- Hard Rock
   1. [colate - Strobe Girl (Extended) (KinomiCandy) \[Oni\]](https://osu.ppy.sh/beatmapsets/414031#taiko/897649)
   2. [DM Ashura - Classical Insanity (LunaticP) \[Taiko Eclipse\]](https://osu.ppy.sh/beatmapsets/241748#taiko/558244)
   3. [onoken - felys -long remix- (Sharp) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/25109#taiko/85473)
-- DoubleTime
+- Double Time
   1. [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Oni\]](https://osu.ppy.sh/beatmapsets/140418#taiko/350732)
   2. [SoundTeMP - Dreamer's Dream (P A N) \[Ono's Oni\]](https://osu.ppy.sh/beatmapsets/350381#taiko/780327)
   3. [SHW - Ikusa JAPAN (shw.in) (kanpakyin) \[Oni\]](https://osu.ppy.sh/beatmapsets/169969#taiko/411522)
@@ -233,11 +233,11 @@ The osu!taiko World Cup 2016 was run by various community members.
   1. [LiSA - traumerei (TV Ver.) (taiko\_maniac1811) \[Oni\]](https://osu.ppy.sh/beatmapsets/106016#taiko/278000)
   2. [Kagamine Rin & Len - Jutenija (Arusha Shuna) \[Dunskin's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/29557#taiko/109025)
   3. [marina - Towa yori Towa ni (Garven) \[TK'S Oni\]](https://osu.ppy.sh/beatmapsets/143370#taiko/368400)
-- HardRock
+- Hard Rock
   1. [DECO\*27 - Haruichi. feat. Hatsune Miku (mintong89) \[Taiko Ura Oni\]](https://osu.ppy.sh/beatmapsets/196049#taiko/498602)
   2. [A.SAKA - Nanatsu Issenzakura (Nofool) \[tasuke's Inner Oni\]](https://osu.ppy.sh/beatmapsets/320555#taiko/719063)
   3. [Fear, and Loathing in Las Vegas - Rave-Up Tonight (qoot8123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/244532#taiko/563660)
-- DoubleTime
+- Double Time
   1. [Hatsuki Yura - Yoiyami Hanabi (mrdumpling64) \[aabc's Oni\]](https://osu.ppy.sh/beatmapsets/236568#taiko/549942)
   2. [PSYCHIC LOVER - Samurai Sentai Shinkenger (DakeDekaane) \[Oni\]](https://osu.ppy.sh/beatmapsets/127897#taiko/324180)
   3. [KILLERBLOOD - The Black Case (tetsutaro) \[Oni\]](https://osu.ppy.sh/beatmapsets/94437#taiko/254187)
@@ -363,7 +363,7 @@ Sunday, 20 March 2016:
 1. The osu!taiko World Cup is a country-based 3 versus 3 team tournament, played on the osu!taiko game mode only.
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
 3. Match schedule will be settled by the Tournament Management (see below).
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
@@ -461,12 +461,12 @@ Sunday, 20 March 2016:
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - Finals and Grand Finals use the same mappool.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool consists of 19 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no modes activated.
-6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
-7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock or no mod at all. You can not pick Hidden and HardRock at the same time.
+6. The Hidden, Hard Rock and Double Time bracket will be played with the respective modes activated.
+7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, Hard Rock or no mod at all. You can not pick Hidden and Hard Rock at the same time.
    - When playing a FreeMod map, at least 1 player of each team must have one mode activated.
 8. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, no one needs to have a mode activated.

@@ -120,11 +120,11 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
   1. [James Landino - Hide And Seek (Mirash) \[Expert\]](https://osu.ppy.sh/beatmapsets/972932#osu/2036903)
   2. [Hikutsu-P - Dance of Many (IOException) \[Expert\]](https://osu.ppy.sh/beatmapsets/1078746#osu/2257140)
   3. [xi - Mirage Garden (P o M u T a) \[Exitra\]](https://osu.ppy.sh/beatmapsets/319940#osu/712015)
-- HardRock
+- Hard Rock
   1. [ZAQ - Seven Doors (SkyFlame) \[Trinity Soul\]](https://osu.ppy.sh/beatmapsets/1078911#osu/2257421)
   2. [Negentropy (a.k.a. Team Grimoire) - ouroVoros (Suzuki_1112) \[Regou's Extra\]](https://osu.ppy.sh/beatmapsets/707164#osu/1512325)
   3. [otetsu - Yokuatsu Sakuran Girl (ZZHBOY) \[HW's Expert\]](https://osu.ppy.sh/beatmapsets/195582#osu/499839)
-- DoubleTime
+- Double Time
   1. [Aki - star river (ShirohaMyMommy) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/908990#osu/1896891)
   2. [-45 - Midorigo Queen Bee (Luscent) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1055780#osu/2206544)
   3. [TOKINE - Soko ni Aru Mono (Patchouli) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/70137#osu/434536)
@@ -149,11 +149,11 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
   1. [lapix - Nexta (Realazy) \[NEUROTRANSMISSION\]](https://osu.ppy.sh/beatmapsets/1050635#osu/2195883)
   2. [LiLA\'c Records - Maze of Vapor (Brutal Core mix) (Mirash) \[Extra\]](https://osu.ppy.sh/beatmapsets/1075008#osu/2249551)
   3. [DragonForce - Ring of Fire (MashaSG) \[sdafsf's Extreme\]](https://osu.ppy.sh/beatmapsets/717015#osu/1634985)
-- HardRock
+- Hard Rock
   1. [Hatsune Miku - Electric Love (t+pazolite Overcute Remix) (Zapy) \[Overcute\]](https://osu.ppy.sh/beatmapsets/50373#osu/154853)
   2. [Camellia - Proluvies (Priti) \[Ultra\]](https://osu.ppy.sh/beatmapsets/283815#osu/641605)
   3. [Nekomata Master+ - squall (Reisen Udongein) \[Extra\]](https://osu.ppy.sh/beatmapsets/127772#osu/323907)
-- DoubleTime
+- Double Time
   1. [kozato - Izayoi Sakura (Gust) \[Firika's Insane\]](https://osu.ppy.sh/beatmapsets/893573#osu/1895932)
   2. [Niko - Night of Fire (Gabi) \[Insane\]](https://osu.ppy.sh/beatmapsets/18923#osu/66820)
   3. [Draw the Emotional - Morning glow (UnitedWeSin) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/146626#osu/363298)
@@ -178,11 +178,11 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
   1. [positive MAD-crew - Lapistoria no Yakusoku (Rigid Blue Remains) (Shirasaka Koume) \[Ex\]](https://osu.ppy.sh/beatmapsets/549158#osu/1162919)
   2. [sasakure.UK - Good Bye, Mr. Jack (Xilver15) \[ReMiX\]](https://osu.ppy.sh/beatmapsets/586425#osu/1241924)
   3. [umu. - humanly (Luscent) \[Expert\]](https://osu.ppy.sh/beatmapsets/1045518#osu/2185651)
-- HardRock
+- Hard Rock
   1. [Sokoninaru - Tenohira de Odoru (Snepif) \[Extreme\]](https://osu.ppy.sh/beatmapsets/773686#osu/1641323)
   2. [Mitsuyoshi Takenobu no Ani - Amphisbaena (toybot) \[Demonic Another\]](https://osu.ppy.sh/beatmapsets/576022#osu/1219592)
   3. [HyuN - Grin (ktgster) \[Expert\]](https://osu.ppy.sh/beatmapsets/947770#osu/1982581)
-- DoubleTime
+- Double Time
   1. [yurika - THE EVENING STAR (y u z u k i) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/27706#osu/92762)
   2. [Yumeji Ruri - The answer BLOOD \~Senketsu no Michishirube\~ (Short Ver.) (Star Stream) \[S.S\]](https://osu.ppy.sh/beatmapsets/52586#osu/160712)
   3. [Hatsunetsumiko's - Two Fates (happy30) \[Destiny\]](https://osu.ppy.sh/beatmapsets/301400#osu/675854)
@@ -207,11 +207,11 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
   1. [penoreri - Sailing Force (BarkingMadDog) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/893700#osu/1867667)
   2. [BUTAOTOME - Towa no Maigo (Icekalt) \[It was all a dream\]](https://osu.ppy.sh/beatmapsets/1069288#osu/2238398)
   3. [Igorrr - Unpleasant Sonata (Sieg) \[Pagli's Sonata\]](https://osu.ppy.sh/beatmapsets/90385#osu/262302)
-- HardRock
+- Hard Rock
   1. [XX:me - Escape (jonathanlfj) \[Freedom\]](https://osu.ppy.sh/beatmapsets/811119#osu/1701563)
   2. [An - Catanoph (Ryuusei Aika) \[Miura's Extra\]](https://osu.ppy.sh/beatmapsets/775846#osu/1697021)
   3. [P4koo - Crystal Illusion (Beomsan) \[milr\_'s Expert\]](https://osu.ppy.sh/beatmapsets/797393#osu/1676675)
-- DoubleTime
+- Double Time
   1. [Ax feat.Natsukawa Yoko - Sakimori Renka (Long Version) (Seikatu) \[Insane\]](https://osu.ppy.sh/beatmapsets/477999#osu/1021024)
   2. [senya - Magica (Satellite) \[SatelliteFrostMix\]](https://osu.ppy.sh/beatmapsets/91791#osu/248474)
   3. [HAG - Koe (C O N N E R) \[Insane\]](https://osu.ppy.sh/beatmapsets/798510#osu/1676795)
@@ -234,10 +234,10 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
 - Hidden
   1. [cosMo@BousouP feat. Hatsune Miku - Shinsekai (jonathanlfj) \[New World\]](https://osu.ppy.sh/beatmapsets/318557#osu/709313)
   2. [onoken - Quinine -A2D SIDE- (Matrix) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/932298#osu/1946518)
-- HardRock
+- Hard Rock
   1. [Fujimiya Kaori (CV: Amamiya Sora) - Kanade (Shadren Remix) (schoolboy) \[FCL's Extreme\]](https://osu.ppy.sh/beatmapsets/741193#osu/1618753)
   2. [DJ TOTTO VS TOTTO - vajra (Kloyd) \[Expert\]](https://osu.ppy.sh/beatmapsets/287377#osu/648443)
-- DoubleTime
+- Double Time
   1. [3L - Spring of Dreams (Trust) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/739119#osu/1559749)
   2. [Hatsuki Yura - Halloween of the Dead (Gamu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1041518#osu/2184660)
   3. [Hanatan - Kitsune no Yomeiri (Ryafuka) \[Kitsuneko\]](https://osu.ppy.sh/beatmapsets/46070#osu/144387)
@@ -258,10 +258,10 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
 - Hidden
   1. [Sakuzyo - Amenohoakari (Firis Mistlud) \[Fiura's Miyabi\]](https://osu.ppy.sh/beatmapsets/671056#osu/1419003)
   2. [Denkishiki Karen Ongaku Shuudan - Silver Orbit (Lasse) \[Despair\]](https://osu.ppy.sh/beatmapsets/1062758#osu/2225505)
-- HardRock
+- Hard Rock
   1. [HO-KAGO TEA TIME - Tokimeki Sugar (Yogurtt) \[extra\]](https://osu.ppy.sh/beatmapsets/496985#osu/1057962)
   2. [Yooh - Dynasty (Sylith) \[HalLoWeeN's EXHAUST\]](https://osu.ppy.sh/beatmapsets/149648#osu/374776)
-- DoubleTime
+- Double Time
   1. [Eri Sasaki - Ring of Fortune (Cherry Blossom) \[Memories\]](https://osu.ppy.sh/beatmapsets/347875#osu/792303)
   2. [Ceui - Seisen Spectale (Xinely) \[Valhalla\]](https://osu.ppy.sh/beatmapsets/92542#osu/250180)
   3. [ALiCE'S EMOTiON - Foughten Field (Natsu) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/366643#osu/806465)
@@ -281,10 +281,10 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
 - Hidden
   1. [m@sumi - Hengen Jizai (thzz) \[Extra\]](https://osu.ppy.sh/beatmapsets/595456#osu/1259186)
   2. [xi - Halcyon (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/20871#osu/73699)
-- HardRock
+- Hard Rock
   1. [Wolpis Carter - f.o.f (dkblaze) \[Listle's Extra\]](https://osu.ppy.sh/beatmapsets/924322#osu/2044512)
   2. [ginkiha - Oriens (Kloyd) \[Expert\]](https://osu.ppy.sh/beatmapsets/182271#osu/437202)
-- DoubleTime
+- Double Time
   1. [senya - Shounen yo, Tokkou no Sakigake to Nare (-Mo-) \[Narcissu's Insane\]](https://osu.ppy.sh/beatmapsets/562169#osu/1188553)
   2. [Yellow Zebra - Melody! (wcx19911123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450#osu/142099)
 
@@ -430,7 +430,7 @@ Pazar, 17 Kasım 2019:
 
 1. osu! Dünya Kupası, osu! oyun modunda oynanan ülke tabanlı takım sistemli bir turnuvadır.
    - Bu yarışma 4'e 4 kapışmalı olarak planlanmış olsa da, bu durum katılım sayısına göre değişebilir.
-2. Beatmap skorları Score V2 ile hesaplanacaktır.
+2. Beatmap skorları ScoreV2 ile hesaplanacaktır.
 3. Her raundun beatmapleri o mapleri seçen kişiler tarafınca turnuvanın yer alacağı tarihin öncesindeki Pazar günü açıklanacaktır. Sadece bu beatmapler maç sırasında oynanacaktır.
    - Bir beatmap Tiebreaker olarak seçilecektir. Bu beatmap sadece beraberlik durumunda oynanacaktır. **Bu kurala tek istisna Eleme turundaki beatmap havuzudur.**
 4. Maç Zamanlamaları, Turnuva Yönetimi tarafından belirlenecektir (bknz: [Planlama Talimatları](#scheduling-instructions)).
@@ -478,7 +478,7 @@ Pazar, 17 Kasım 2019:
 ### Aşama talimatları
 
 1. Eleme aşamasında tüm takımlar Map havuzu seçiciler tarafından hazırlanan spesifik havuzu oynayacaktır.
-2. Havuz 4 bölüm içerecektir: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time). Bu aşamada Tiebreaker olmayacaktır.
+2. Havuz 4 bölüm içerecektir: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time). Bu aşamada Tiebreaker olmayacaktır.
 3. The Qualifier pool contains 10 maps. There will be 4 maps under the NoMod bracket and 2 maps for the other mod brackets.
 4. Takımların önceden belirlenen zamanda map havuzunu iki kez oynamaları istenecektir. Takımların en iyi toplam skoru sıralama için kullanılacaktır.
 5. Map havuzu yukarıda listelenen sırada oynanacaktır.
@@ -513,17 +513,17 @@ Pazar, 17 Kasım 2019:
 ### Map havuzu talimatları
 
 1. Her aşamada yeni bir map havuzu olacaktır.
-2. Her map havuzu 5 gruptan oluşur: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) ve FreeMod.
+2. Her map havuzu 5 gruptan oluşur: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) ve FreeMod.
 3. Her map havuzu, aşamaya göre belli map sayısı içerir.
-   - **Round of 32 ve Round of 16 map havuzları 5 NoMod, 3 DoubleTime ve geri kalan mod gruplarında da 2 tane mape sahip olacaktır.**
-   - **Çeyrek final, Yarı final, Final ve Büyük Final map havuzları 6 NoMod, 4 DoubleTime ve geri kalan mod gruplarında da 3 tane mape sahip olacaktır.**
+   - **Round of 32 ve Round of 16 map havuzları 5 NoMod, 3 Double Time ve geri kalan mod gruplarında da 2 tane mape sahip olacaktır.**
+   - **Çeyrek final, Yarı final, Final ve Büyük Final map havuzları 6 NoMod, 4 Double Time ve geri kalan mod gruplarında da 3 tane mape sahip olacaktır.**
 4. Her map havuzunda bir tane tiebreaker vardır.
-5. **NoFail modu herhangi bir mapte seçilebilir.**
-6. NoMod grubu hiçbir mod açık olmadan oynanacaktır. (NoFail haricinde).
-7. Hidden, HardRock ve DoubleTime grubu, bahsi geçen mod, tüm oyuncular tarafından aktif edilmiş şekilde oynanacaktır.
+5. **No Fail modu herhangi bir mapte seçilebilir.**
+6. NoMod grubu hiçbir mod açık olmadan oynanacaktır. (No Fail haricinde).
+7. Hidden, Hard Rock ve Double Time grubu, bahsi geçen mod, tüm oyuncular tarafından aktif edilmiş şekilde oynanacaktır.
 8. FreeMod grubu "Modlar Serbest" seçeneği açık şekilde oynanacaktır.
-   - İzin verilen mod seçimleri Hidden, HardRock ve Hidden+HardRock şeklindedir.
-   - **FreeMod mapi oynarken mutlaka bir oyuncu Hidden ve bir oyuncu HardRock veya Hidden+HardRock alacak şekilde olmalıdır. Diğer oyuncular için ise modları açmak, inisiyatife bağlıdır.**
+   - İzin verilen mod seçimleri Hidden, Hard Rock ve Hidden+Hard Rock şeklindedir.
+   - **FreeMod mapi oynarken mutlaka bir oyuncu Hidden ve bir oyuncu Hard Rock veya Hidden+Hard Rock alacak şekilde olmalıdır. Diğer oyuncular için ise modları açmak, inisiyatife bağlıdır.**
 9. Tiebreaker, FreeMod kuralları çerçevesinde oynanacaktır.
    - Tiebreaker oynarken herhangi bir mod gereksinimi yoktur.
 

@@ -70,10 +70,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Hige Driver - Palette (Jounzan) \[Moonlight\]](https://osu.ppy.sh/beatmapsets/712171)
   2. [Rita - Dream Walker (Amamiya Yuko) \[Dailycare's INFINITE\]](https://osu.ppy.sh/beatmapsets/424088)
-- HardRock
+- Hard Rock
   1. [Yanni - With an Orchid (ts8zs) \[AR233\]](https://osu.ppy.sh/beatmapsets/79056)
   2. [FELT - crescent moon (Meg) \[Insane\]](https://osu.ppy.sh/beatmapsets/260141)
-- DoubleTime
+- Double Time
   1. [Choucho - When the First Love Ends (MeLLoN) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/28060)
   2. [School Food Punishment - flashback trip syndrome (Damnae) \[Beren & Blove's Insane\]](https://osu.ppy.sh/beatmapsets/46813)
 - FreeMod
@@ -97,10 +97,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Sound Horizon - StarDust (Shirasaka Koume) \[Stardust\]](https://osu.ppy.sh/beatmapsets/701386)
   2. [Lon - Yuru Fuwa Jukai Girl (Jounzan) \[soda\]](https://osu.ppy.sh/beatmapsets/739394)
-- HardRock
+- Hard Rock
   1. [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (ktgster) \[EXPERT\]](https://osu.ppy.sh/beatmapsets/312310)
   2. [Sharlo & yealina - Kakushigoto (Sharlo) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/208095)
-- DoubleTime
+- Double Time
   1. [Shihori - Bloody Night (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/46223)
   2. [SYNC.ART'S ft. Sakaue Nachi - Green Grass Garden (xierbaliti) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14978)
 - FreeMod
@@ -124,10 +124,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Comp - Gensou no Satellite (EvilElvis) \[Extra\]](https://osu.ppy.sh/beatmapsets/207021)
   2. [Minami Yasuhiro - carnation.lnk (Mikagura Seisa) \[HoliExtra\]](https://osu.ppy.sh/beatmapsets/370823)
-- HardRock
+- Hard Rock
   1. [sasakure.UK - Colors (wa\_) \[Insane\]](https://osu.ppy.sh/beatmapsets/317439)
   2. [REDALiCE Feat. Ayumi Nomiya - Little Star (LKs) \[Another\]](https://osu.ppy.sh/beatmapsets/81051)
-- DoubleTime
+- Double Time
   1. [Umeri - paranoia (captin1) \[Insane\]](https://osu.ppy.sh/beatmapsets/150914)
   2. [Yellow Zebra - Melody! (wcx19911123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450)
 - FreeMod
@@ -151,10 +151,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Hige Driver - Palette (Jounzan) \[Insane\]](https://osu.ppy.sh/beatmapsets/682416)
   2. [Rita - Dream Walker (Amamiya Yuko) \[Ethereal\]](https://osu.ppy.sh/beatmapsets/315299)
-- HardRock
+- Hard Rock
   1. [Yanni - With an Orchid (ts8zs) \[Hollow Wings\]](https://osu.ppy.sh/beatmapsets/97933)
   2. [FELT - crescent moon (Meg) \[Flowers always bloom in my heart\]](https://osu.ppy.sh/beatmapsets/479849)
-- DoubleTime
+- Double Time
   1. [Choucho - When the First Love Ends (MeLLoN) \[Collab\]](https://osu.ppy.sh/beatmapsets/25451)
   2. [School Food Punishment - flashback trip syndrome (Damnae) \[Insane\]](https://osu.ppy.sh/beatmapsets/25451)
 - FreeMod
@@ -177,10 +177,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [DJ Sharpnel - StrangeProgram (happy30) \[HappyMiX\]](https://osu.ppy.sh/beatmapsets/5774)
   2. [PrimeMIX - FRANTIC ARCADE (Nakagawa-Kanon) \[Another\]](https://osu.ppy.sh/beatmapsets/981327)
-- HardRock
+- Hard Rock
   1. [Tamura Yukari - Himitsu no Tobira Kara ai ni Kite (RLC) \[Insane\]](https://osu.ppy.sh/beatmapsets/153141)
   2. [Rabpit - Sanctity (JJBurstOwO) \[Insane\]](https://osu.ppy.sh/beatmapsets/295549)
-- DoubleTime
+- Double Time
   1. [yuikonnu - Zenryoku Batankyuu! (Sekaii) \[Insane\]](https://osu.ppy.sh/beatmapsets/438243)
   2. [nyanta - SOLROS \~Vocal Edition\~ (\[CSGA\]Ar3sgice) \[Insane\]](https://osu.ppy.sh/beatmapsets/56722)
 - FreeMod
@@ -202,10 +202,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [DJ YOSHITAKA - Elisha (tsuka) \[Another\]](https://osu.ppy.sh/beatmapsets/22014)
   2. [ETIA. - Lost Love (RLC) \[Extra\]](https://osu.ppy.sh/beatmapsets/87192)
-- HardRock
+- Hard Rock
   1. [sakuzyo - Laplace (Hakurei Yoru) \[Kencho's Insane\]](https://osu.ppy.sh/beatmapsets/431924)
   2. [CLIFF EDGE feat. Nakamura Maiko - Endless Tears (Rakuen) \[AIRakuen's Extra\]](https://osu.ppy.sh/beatmapsets/123489)
-- DoubleTime
+- Double Time
   1. [FELT - Flower Flag (y u z u k i) \[happy30\]](https://osu.ppy.sh/beatmapsets/34984)
   2. [Ayalis - Ai o Chikaishi Hime Kazari (handsome) \[Hard\]](https://osu.ppy.sh/beatmapsets/506155)
 - FreeMod
@@ -227,10 +227,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Amane - BOOZEHOUND (tieff) \[Lesjuh\]](https://osu.ppy.sh/beatmapsets/9995)
   2. [capitaro - Koigahara no Kassen (Zero_wind) \[Ikusa\]](https://osu.ppy.sh/beatmapsets/466053)
-- HardRock
+- Hard Rock
   1. [dj TAKA feat.AiMEE - True Blue (ZZHBOY) \[Insane\]](https://osu.ppy.sh/beatmapsets/424743)
   2. [Sota Fujimori - Move That Body -Extended Mix- (Amamiya Yuko) \[RLC's Insane\]](https://osu.ppy.sh/beatmapsets/220220)
-- DoubleTime
+- Double Time
   1. [Nishino Kana - Believe (samplefish) \[Believe\]](https://osu.ppy.sh/beatmapsets/336743)
   2. [Fear, and Loathing in Las Vegas - Rave-up Tonight (lightr) \[Hard\]](https://osu.ppy.sh/beatmapsets/176832)
 - FreeMod
@@ -247,9 +247,9 @@ This competition has come to an end and resulted in the following podium:
   1. [DJ YOSHITAKA - MANA (EvilElvis) \[Kiiwa's Another\]](https://osu.ppy.sh/beatmapsets/136144)
 - Hidden
   1. [Comp - Touchuu Aika (Mao) \[Maolvis' Lunatic\]](https://osu.ppy.sh/beatmapsets/198700)
-- HardRock
+- Hard Rock
   1. [Gentle Stick X M2U - Ineffabilis (buhei) \[-kevincela-'s Insane\]](https://osu.ppy.sh/beatmapsets/340903)
-- DoubleTime
+- Double Time
   1. [ClariS - CLICK (Frostmourne) \[Insane\]](https://osu.ppy.sh/beatmapsets/145550)
 
 ## Match results
@@ -288,7 +288,7 @@ Results of the main bracket can be found on the Challonge page linked above.
 
 - This is an 1v1 double elimination osu! tourney for Australian/New Zealand players only.
 - Participants must have an Australian or New Zealand flag on their osu profile.
-- **Matches will be Head to Head with Score V2 as the scoring system**.
+- **Matches will be Head to Head with ScoreV2 as the scoring system**.
 - Any harassment or abuse of a staff member or other players will result in an expulsion from the tournament.
 - If a problem occurs where rules are not clear, use common sense. Further questions can be directed to admins. Administration has final say regarding these situations.
 - In order for your registration to count, **you must fill out the form, join the discord, and change your name to your osu username**.

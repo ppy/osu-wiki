@@ -145,11 +145,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Yunomi - Mentai Cosmic (Hokichi) \[Hikan's Cosmic\]](https://osu.ppy.sh/beatmapsets/812335#osu/2337880)
   2. [LiLA'c Records - Maze of Vapor (Brutal Core mix) (Mirash) \[Extra\]](https://osu.ppy.sh/beatmapsets/1075008#osu/2249551)
   3. [mafumafu - Kakushigoto (Vert) \[Kouhai no Koibumi.\]](https://osu.ppy.sh/beatmapsets/770023#osu/1618986)
-- HardRock
+- Hard Rock
   1. [Camellia feat.Nanahira - Energy Drinko Fein-chan! (Spectator) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/257407#osu/596595)
   2. [CHiCO with HoneyWorks - Otome-domo yo. (AIR) \[eXtra\]](https://osu.ppy.sh/beatmapsets/1010537#osu/2115380)
   3. [Mastermind(xi+nora2r) - Dreadnought (Cherry Blossom) \[Final Destination\]](https://osu.ppy.sh/beatmapsets/361306#osu/793845)
-- DoubleTime
+- Double Time
   1. [seiya-murai feat.ALT - Sumidagawa Karenka (m i z u k i) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/32523#osu/106361)
   2. [Annabel - Signal Graph (Amateurre) \[Koibana.\]](https://osu.ppy.sh/beatmapsets/1071759#osu/2243315)
   3. [halca - Sentimental Crisis (-Tynamo) \[Kw's Insane\]](https://osu.ppy.sh/beatmapsets/955003#osu/2015623)
@@ -174,11 +174,11 @@ This competition has come to an end and resulted in the following podium:
   1. [nayuta & yuikonnu - Super nuko ni naritai (Pho) \[pkk's Extra\]](https://osu.ppy.sh/beatmapsets/494097#osu/1360931)
   2. [sasakure.UK - Jack-the-Ripper (Sprosive) \[ReMiX\]](https://osu.ppy.sh/beatmapsets/23907#osu/94264)
   3. [Nanawo Akari - One Room Sugar Life (Fushimi Rio) \[White sugar garden, Black saut cage\]](https://osu.ppy.sh/beatmapsets/818245#osu/1718994)
-- HardRock
+- Hard Rock
   1. [Feryquitous feat. Aitsuki Nakuru - Ether (Acyl) \[Necho x 1112's Expert\]](https://osu.ppy.sh/beatmapsets/902425#osu/1947621)
   2. [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (ktgster) \[EXPERT\]](https://osu.ppy.sh/beatmapsets/312310#osu/698516)
   3. [Sharlo - Eisou Youga \~Meikyou Shisui\~ (Sharlo) \[Skystar's Extreme\]](https://osu.ppy.sh/beatmapsets/380740#osu/931853)
-- DoubleTime
+- Double Time
   1. [Hatsune Miku - Netoge Haijin Sprechchor (Lalarun) \[Insane\]](https://osu.ppy.sh/beatmapsets/25802#osu/87369)
   2. [Kawada Mami - as x sist \~Amae Beta na Watashi Nari ni\~ (Akitoshi) \[Insane\]](https://osu.ppy.sh/beatmapsets/949583#osu/2012311)
   3. [Remixed by DJ Command - Mermaid girl -Akiba Koubou MIX- \[Another\]](https://osu.ppy.sh/beatmapsets/145909#osu/361688)
@@ -203,11 +203,11 @@ This competition has come to an end and resulted in the following podium:
   1. [lasah - EXCERPTS FROM THE DIARIES OF \_ (Reincarnation) \[None\]](https://osu.ppy.sh/beatmapsets/868684#osu/1815675)
   2. [IOSYS - Kanbu de Tomatte Sugu Tokeru \~ Kyouki no Udongein (ouranhshc) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/12292#osu/61450)
   3. [Dreamcatcher - PIRI (ailv) \[Akilv's Expert\]](https://osu.ppy.sh/beatmapsets/971890#osu/2034833)
-- HardRock
+- Hard Rock
   1. [Himeringo - Idola no Circus (Nevo) \[Kalibe's Extra\]](https://osu.ppy.sh/beatmapsets/902250#osu/1890389)
   2. [A.SAKA - Yosakura Fubuki (KKipalt) \[AIR's Insane\]](https://osu.ppy.sh/beatmapsets/858337#osu/1860536)
   3. [team Umifure - DEEP BLUE TOWN e Oide yo (Hanazawa Kana) \[Mir's Expert\]](https://osu.ppy.sh/beatmapsets/822032#osu/1760024)
-- DoubleTime
+- Double Time
   1. [DJ Fresh (feat. Rita Ora) - Hot Right Now (Radio Edit) (Asphyxia) \[Kysphyxia's Insane\]](https://osu.ppy.sh/beatmapsets/231114#osu/539090)
   2. [project-ALCA- - Neoage Dreamers feat. yanaginagi (Gaia) \[Meyrink's Insane\]](https://osu.ppy.sh/beatmapsets/325259#osu/722495)
   3. [rerulili feat. Dancing Dolls - Kami no Manimani (xlni) \[Insane\]](https://osu.ppy.sh/beatmapsets/198567#osu/471098)
@@ -230,10 +230,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [USAO - Extra Mode (Otosaka-Yu) \[Necho's Extra\]](https://osu.ppy.sh/beatmapsets/811948#osu/2103984)
   2. [556t - Kyuuen no Hana (Kyubey) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/484497#osu/1033514)
-- HardRock
+- Hard Rock
   1. [Kaneko Chiharu - Zettai Reido (Karen) \[Insane\]](https://osu.ppy.sh/beatmapsets/641201#osu/1613453)
   2. [Feryquitous - Shakah (Rtyzen) \[Saqriphrx\]](https://osu.ppy.sh/beatmapsets/971244#osu/2033623)
-- DoubleTime
+- Double Time
   1. [Silver Forest - Seishoujo Sacrifice (Muya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/27039#osu/90940)
   2. [SYNC.ART'S - Splendid Encount -one more encore- (KanaRin) \[S i R i R u's Lunatic\]](https://osu.ppy.sh/beatmapsets/27915#osu/94640)
   3. [Team "Hanayamata" - Hanayuki (Team "Hanayamata" ver.) (Setz) \[Fairyland Princess\]](https://osu.ppy.sh/beatmapsets/410963#osu/891695)
@@ -256,10 +256,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Day6 - Time of Our Life (FillUp No) \[Extra\]](https://osu.ppy.sh/beatmapsets/1007288#osu/2108160)
   2. [Frederic Chopin - Etude Op. 10-4 (lepidopodus) \[Insane\]](https://osu.ppy.sh/beatmapsets/22374#osu/77231)
-- HardRock
+- Hard Rock
   1. [P\*Light feat. yukacco - Stargazer (DJ Shimamura Remix) (Mishima Yurara) \[ProBox's Insane\]](https://osu.ppy.sh/beatmapsets/313831#osu/782844)
   2. [Hisaka Yoko - Fuwafuwa Time (TV Size) (DJPop) \[Insane\]](https://osu.ppy.sh/beatmapsets/7178#osu/31210)
-- DoubleTime
+- Double Time
   1. [Cascada - Last Christmas (Radio Edit) \~Nightcore Mix\~ (Gero) \[Gerodrea's Last Bells\]](https://osu.ppy.sh/beatmapsets/536050#osu/1135332)
   2. [Utagumi Setsugetsuka - Maware! Setsugetsuka (Lunala) \[Hard\]](https://osu.ppy.sh/beatmapsets/960341#osu/2010588)
   3. [FELT - Sky Gate (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/129534#osu/327256)
@@ -282,10 +282,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [HIMEHINA - Hitogata (TV Size) (Ryuusei Aika) \[rui's Insane\]](https://osu.ppy.sh/beatmapsets/942714#osu/1972569)
   2. [Master Blaster - Come Clean (Nightcore Mix) (Asphyxia) \[Collab\]](https://osu.ppy.sh/beatmapsets/111538#osu/290060)
-- HardRock
+- Hard Rock
   1. [Nekomata Master - Far east nightbird (tsuka) \[Another\]](https://osu.ppy.sh/beatmapsets/34203#osu/112201)
   2. [Hatsune Miku - Tenshinranman High Collar Hime (NatsumeRin) \[Hard\]](https://osu.ppy.sh/beatmapsets/55115#osu/168080)
-- DoubleTime
+- Double Time
   1. [Poppin'Party x Aya (CV: Maeshima Ami) x Kokoro (CV: Itou Miku) - Geki! Teikoku Kagekidan (Left) \[Hard\]](https://osu.ppy.sh/beatmapsets/948049#osu/1984222)
   2. [Debashis Sengupta - Coffee House (Arf) \[Memories\]](https://osu.ppy.sh/beatmapsets/375479#osu/822326)
 - FreeMod
@@ -574,7 +574,7 @@ Sunday, 15 December 2019:
 1. Great Singapore Tournament uses double-elimination bracket and is a 2v2 osu! tournament.
 2. Only players with the country flag of ![][flag_SG] Singapore may participate.
 3. Teams can only have 2 players, this means no substitution.
-4. The score system used will be **Score V2**.
+4. The score system used will be **ScoreV2**.
 5. There is no solo rank range. However there is a team rank range. (No BWS will be used)
 6. The 2 players must have an **average rank of #1,000 - #99,999**.
 7. Teams will be seeded by average pp.
@@ -602,7 +602,7 @@ Sunday, 15 December 2019:
 9. Teams may pick maps freely from any mod, barring the maps that have been banned.
 10. Once the map choice is locked in, players will have 90 seconds to ready up. The referee will start the match when all players are ready.
     - If the 90 second timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
-11. In the case of a FreeMod being chosen, **all players** will have to choose a mod. Mods allowed: Hidden, HardRock, Flashlight, Easy. (Scores with Easy are mutliplied by 1.5x)
+11. In the case of a FreeMod being chosen, **all players** will have to choose a mod. Mods allowed: Hidden, Hard Rock, Flashlight, Easy. (Scores with Easy are mutliplied by 1.5x)
 12. The winner of a map is determined by which team's scores add up to a higher number. Basically, that just means **failed scores count**.
 13. If all players on a team are failing at the same time (team fail), common sense will be applied:
     - If the team that failed was clearly (very obviously) going to win the map, they will get the point;

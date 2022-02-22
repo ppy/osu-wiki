@@ -126,11 +126,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Feryquitous feat. Aitsuki Nakuru - Ether (Acyl) \[Yusomi's Luminiferous\]](https://osu.ppy.sh/beatmapsets/902425#osu/2097288)
   2. [Laur - Metamorphose (verychill) \[Yokes' Expert\]](https://osu.ppy.sh/beatmapsets/1238413#osu/2639428)
   3. [sokoniraru - Lament Moment (HabiHolic) \[PaRaDogi's Ex\_Death\]](https://osu.ppy.sh/beatmapsets/1288090#osu/2687455)
-- HardRock
+- Hard Rock
   1. [Dance Gavin Dance - Son of Robot (Hobbes2) \[Ultimate\]](https://osu.ppy.sh/beatmapsets/1391800#osu/2873706)
   2. [Balloon - Ame to Petra (Axarious) \[Normal\]](https://osu.ppy.sh/beatmapsets/1351510#osu/2797986)
   3. [TOMOSUKE - Ergosphere (toybot) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1233027#osu/2563333)
-- DoubleTime
+- Double Time
   1. [FROZEN QUALIA - M'aider (Hishiro Chizuru) \[Collab Blossom\]](https://osu.ppy.sh/beatmapsets/1296276#osu/2689515)
   2. [Rita - Winter Diamond (Kirylin) \[LMT's Insane\]](https://osu.ppy.sh/beatmapsets/1023611#osu/2226227)
   3. [Chata - Wan (Kalibe) \[Sorrow\]](https://osu.ppy.sh/beatmapsets/922995#osu/1927444)
@@ -157,11 +157,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Tsukuyomi - Konna Inochi ga Nakereba (ponbot) \[Farewell\]](https://osu.ppy.sh/beatmapsets/1277983#osu/2655079)
   2. [Natsuiro Bikini no Prim - Nagisa no Koakuma Lovely\~Radio (yf\_bmp) \[Lovely Gravity\]](https://osu.ppy.sh/beatmapsets/1435820#osu/2954288)
   3. [Nardis - Cosmo Memory (YokesPai) \[Forgotten\]](https://osu.ppy.sh/beatmapsets/992232#osu/2075064)
-- HardRock
+- Hard Rock
   1. [Katakiri Rekka - Answer (tatemae) \[Differance\]](https://osu.ppy.sh/beatmapsets/1231409#osu/2559900)
   2. [Kanaria - ENVY BABY (Ryuusei Aika) \[Unready\]](https://osu.ppy.sh/beatmapsets/1575643#osu/3216902)
   3. [Street vs. Sin:cK - Adamantite (Acylica) \[LCFC's Extra\]](https://osu.ppy.sh/beatmapsets/1265628#osu/2630253)
-- DoubleTime
+- Double Time
   1. [Himeringo - Yonjuunana (Gottagof4st) \[Northern Star\]](https://osu.ppy.sh/beatmapsets/762282#osu/1602763)
   2. [07th Expansion - Final Answer (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/26226#osu/88633)
   3. [Venetian Snares - Shaky Sometimes (fergas) \[Starstorm (AR8.4)\]](https://osu.ppy.sh/beatmapsets/446493#osu/3084550)
@@ -188,11 +188,11 @@ This competition has come to an end and resulted in the following podium:
   1. [CustomiZ - COOLEST (Tari) \[Cool\]](https://osu.ppy.sh/beatmapsets/1001283#osu/2096019)
   2. [sekai - p.h. (Petal) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1461554#osu/3002756)
   3. [Nanamori-chu * Goraku-bu - Happy Time wa Owaranai (Cut Ver.) (-Keitaro) \[Expert\]](https://osu.ppy.sh/beatmapsets/1057015#osu/2743617)
-- HardRock
+- Hard Rock
   1. [sasakure.UK - Sennen to Rasen, Chiru Mono o feat. Sui (Kalibe) \[Descent\]](https://osu.ppy.sh/beatmapsets/926846#osu/1935864)
   2. [xi - over the top (Kroytz) \[chaoz's extra\]](https://osu.ppy.sh/beatmapsets/479215#osu/1039801)
   3. [himmeltengoku - Whisper of Rose (Tsukoyomi) \[Maximum\]](https://osu.ppy.sh/beatmapsets/173614#osu/419487)
-- DoubleTime
+- Double Time
   1. [Usada Pekora - Discommunication Alien (Yugu) \[pe...peko...\]](https://osu.ppy.sh/beatmapsets/1181343#osu/2463210)
   2. [lasah - GHOST OF LORELEY (moph) \[wa's Insane\]](https://osu.ppy.sh/beatmapsets/486177#osu/1050849)
   3. [zts - dreamenddischarger (EvilElvis) \[Love Letter\]](https://osu.ppy.sh/beatmapsets/339615#osu/758298)
@@ -219,11 +219,11 @@ This competition has come to an end and resulted in the following podium:
   1. [ginkiha - eastward (Pyo) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1135063#osu/2370585)
   2. [Hige Driver - Palette (Sharu) \[AI\]](https://osu.ppy.sh/beatmapsets/1319653#osu/2733678)
   3. [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (Kuro Fuyusaki) \[UCUP21\]](https://osu.ppy.sh/beatmapsets/1556851#osu/3180419)
-- HardRock
+- Hard Rock
   1. [Empty Peperoncino - Hoshifuru Yoru ni (Agatsu) \[Twilight\]](https://osu.ppy.sh/beatmapsets/1417164#osu/2920177)
   2. [\*Luna feat. IA - Start Line (Cut Ver.) (Niva) \[Niva x Kuro Fuyusaki's Sea Food Extra\]](https://osu.ppy.sh/beatmapsets/1395285#osu/2880033)
   3. [EBIMAYO - GOODWORLD (Kuro Fuyusaki) \[Pochi\]](https://osu.ppy.sh/beatmapsets/1554087#osu/3175091)
-- DoubleTime
+- Double Time
   1. [ORESAMA - Wonder Drive (AIR) \[Looking Glass\]](https://osu.ppy.sh/beatmapsets/619339#osu/1305415)
   2. [TOTAL OBJECTION - Higurashi Moratorium (rollpan) \[Insane\]](https://osu.ppy.sh/beatmapsets/702512#osu/2951599)
   3. [tomatoism - Someone Special (Jiysea) \[A n o t h e r\]](https://osu.ppy.sh/beatmapsets/1282080#osu/2662924)
@@ -248,10 +248,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [YOASOBI - Kaibutsu (Regou) \[Ex\]](https://osu.ppy.sh/beatmapsets/1349270#osu/2793679)
   2. [Hijirime Laeria - stlaeria (Hinsvar) \[Salvation\]](https://osu.ppy.sh/beatmapsets/1352739#osu/2800493)
-- HardRock
+- Hard Rock
   1. [Igorrr - Tout Petit Moineau (fergas) \[Extra\]](https://osu.ppy.sh/beatmapsets/212180#osu/517308)
   2. [Sound Souler - Bubble Flower (hypercyte) \[Expert\]](https://osu.ppy.sh/beatmapsets/1152177#osu/2404822)
-- DoubleTime
+- Double Time
   1. [Asaka - Eternal Star (Luscent) \[Delis' Insane\]](https://osu.ppy.sh/beatmapsets/1312114#osu/2885357)
   2. [Endorfin. - Raindrop Caffe Latte (ImpurePug) \[Insane\]](https://osu.ppy.sh/beatmapsets/1262556#osu/2624225)
   3. [Hatsuki Yura - Lunicode (GreenHue) \[KKip's Insane\]](https://osu.ppy.sh/beatmapsets/801001#osu/1689336)
@@ -274,10 +274,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Mitsuyoshi Takenobu no Ani - Amphisbaena (toybot) \[Demonic Another\]](https://osu.ppy.sh/beatmapsets/576022#osu/1219592)
   2. [MiYAMO - Kapanet Nitori (NachoPiggy) \[saymun's Inflated\]](https://osu.ppy.sh/beatmapsets/16606#osu/59731)
-- HardRock
+- Hard Rock
   1. [Nekomata Master - Izanami's wail (Saturnalize) \[AncuL's Another\]](https://osu.ppy.sh/beatmapsets/959449#osu/3051097)
   2. [Britney Spears - Toxic (Fuma) \[Lust\]](https://osu.ppy.sh/beatmapsets/1093878#osu/2286129)
-- DoubleTime
+- Double Time
   1. [Perfume - Sweet Refrain (eiri-) \[Memory\]](https://osu.ppy.sh/beatmapsets/896085#osu/1872256)
   2. [Hanatan - Kitsune no Yomeiri (Ryafuka) \[Kitsuneko\]](https://osu.ppy.sh/beatmapsets/46070#osu/144387)
   3. [sekai - Zange Mairi (Yugu) \[Voice's Insane\]](https://osu.ppy.sh/beatmapsets/1176431#osu/2853477)
@@ -299,10 +299,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [556t - moon (revurii) \[end\]](https://osu.ppy.sh/beatmapsets/1141522#osu/3114426)
   2. [GRANRODEO - Can Do (TV Size) (Monstrata) \[Extra: Kuroko\]](https://osu.ppy.sh/beatmapsets/493273#osu/1050582)
-- HardRock
+- Hard Rock
   1. [toby fox - Bergentrueckung/ASGORE (Kaitjuh) \[DeviousPanda's Extra\]](https://osu.ppy.sh/beatmapsets/908087#osu/2139172)
   2. [wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear) \[Another\]](https://osu.ppy.sh/beatmapsets/28984#osu/96358)
-- DoubleTime
+- Double Time
   1. [chelly - Calc. (CoLouRed GlaZeE) \[Delis' Insane '17\]](https://osu.ppy.sh/beatmapsets/1430387#osu/2944586)
   2. [zts - resurrectedreplayer (-Light-) \[Magic simply cannot exist!\]](https://osu.ppy.sh/beatmapsets/1047159#osu/2188969)
 
@@ -473,13 +473,13 @@ Sunday, 26 September 2021:
 
 ### General rules
 
-1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
+1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#ScoreV2).**
 2. The mappools for each round will be announced by the Tournament Management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) or team(s) who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#reschedule` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start sending out invites.
 5. If a team does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all beatmaps.** This is to ensure that points are awarded more fairly towards players and teams who perform better in general during the course of the beatmap, regardless of their remaining health at the end.
+7. **No Fail will be enforced in all beatmaps.** This is to ensure that points are awarded more fairly towards players and teams who perform better in general during the course of the beatmap, regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they had failed the beatmap. 
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
 9. If a player disconnects between beatmaps, the match can be delayed by up to 15 minutes.
@@ -535,7 +535,7 @@ Sunday, 26 September 2021:
 2. Each team is obligated to ban **one beatmap** (in the Round of 32 and Round of 16) or **two beatmaps** (in the Quarterfinals, Semifinals, and both of the Finals weeks) from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match. 
    - Banning does not apply in the Qualifier lobbies.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own outside the multiplayer lobby.
-4. In a FreeMod pick, **one player from each team must play with Hidden and the other player must play with either NoMod, Easy, HardRock, Hidden+Easy, or Hidden+HardRock**.
+4. In a FreeMod pick, **one player from each team must play with Hidden and the other player must play with either NoMod, Easy, Hard Rock, Hidden+Easy, or Hidden+Hard Rock**.
    - Playing a FreeMod pick without any mods activated (NoMod) will incur a **x0.7 score penalty** to the corresponding player.
 5. The tiebreaker will be played under FreeMod conditions, although players are not forced to pick mods.
    - The x0.7 score penalty for NoMod players does not apply in the tiebreaker. 

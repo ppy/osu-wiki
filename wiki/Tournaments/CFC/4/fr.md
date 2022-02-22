@@ -97,12 +97,12 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   2. [Susumu Hirasawa - Aurora 2 (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10978#fruits/49206)
   3. [penoreri - Everlasting Message (Kyuare) \[Eternal\]](https://osu.ppy.sh/beatmapsets/542478#fruits/1149965)
   4. [Kevin.o2SE - Red Sign (ZHSteven) \[Another\]](https://osu.ppy.sh/beatmapsets/118454#fruits/304526)
-- HardRock
+- Hard Rock
   1. [DenKare - Yakata Mawari (Taikuta) \[Extra\]](https://osu.ppy.sh/beatmapsets/510170#fruits/1084725)
   2. [Ochiai Yurika - Koibumi2000 (arken1015) \[Oni(Futsuu)\]](https://osu.ppy.sh/beatmapsets/10539#fruits/46298)
   3. [Panda Eyes & Teminite - Highscore (CLSW) \[Nervous Breakdown\]](https://osu.ppy.sh/beatmapsets/615326#fruits/1297908)
   4. [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (Kyuare) \[Legende\]](https://osu.ppy.sh/beatmapsets/779991#fruits/1637765)
-- DoubleTime
+- Double Time
   1. [Matsunaga Maho (from StylipS) - Resonant World (Kurokami) \[Kurokami's Rain\]](https://osu.ppy.sh/beatmapsets/193326#fruits/461438)
   2. [Grand Thaw - Aventyr (Kyuare) \[Fiore\]](https://osu.ppy.sh/beatmapsets/495910#fruits/1055601)
   3. [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/16457#fruits/58970)
@@ -126,12 +126,12 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   2. [Koronba - Iwashi ga Tsuchi kara Haete Kurunda (Damnjelly) \[Sardine\]](https://osu.ppy.sh/beatmapsets/602367#fruits/1580728)
   3. [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn (Kyuare) \[Laevateinn\]](https://osu.ppy.sh/beatmapsets/415827#fruits/900956)
   4. [Cocoa, Chino, Rize, Chiya, Syaro, Maya, Megu - Honjitsu wa Makoto ni Rarirurein (Spectator) \[Extra: Cocoa\]](https://osu.ppy.sh/beatmapsets/555004#fruits/1174797)
-- HardRock
+- Hard Rock
   1. [Takenobu Mitsuyoshi - IKAZUCHI (BluOxy) \[MASTER\]](https://osu.ppy.sh/beatmapsets/489136#fruits/1042623)
   2. [Silver Forest - Tsurupettan (Hitoshirenu Shourai) \[Hito's Insane\]](https://osu.ppy.sh/beatmapsets/2626#fruits/19990)
   3. [Various Artists - 'EVERMORE SIDE C (Emiru) \[Renard - Gabberse Town\]](https://osu.ppy.sh/beatmapsets/926705#fruits/1935631)
   4. [VINXIS - Sidetracked Day (Short ver.) (Libegon) \[Stratosphere\]](https://osu.ppy.sh/beatmapsets/824802#fruits/1728380)
-- DoubleTime
+- Double Time
   1. [Rabpit - Sacred (ursa) \[Rain\]](https://osu.ppy.sh/beatmapsets/92456#fruits/341591)
   2. [IOSYS - Power of Dream (Night Fever Refix) (Spectator) \[Stpl's CTB\]](https://osu.ppy.sh/beatmapsets/796454#fruits/1672471)
   3. [sasakure.UK - Jack-the-Ripper (Sprosive) \[ReMiX\]](https://osu.ppy.sh/beatmapsets/23907#fruits/94264)
@@ -152,11 +152,11 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   1. [GRANRODEO - Can Do (TV Size) (Monstrata) \[Extra: Kagami\]](https://osu.ppy.sh/beatmapsets/493273#fruits/1062394)
   2. [MYTH & ROID - JINGO JUNGLE (Plaudible) \[Deus Lo Vult\]](https://osu.ppy.sh/beatmapsets/653835#fruits/1385941)
   3. [Shiggy Jr. - oyasumi (Len) \[CS4 Overdose\]](https://osu.ppy.sh/beampsets/651234/#fruits/1768494)
-- HardRock
+- Hard Rock
   1. [loos feat. Meramipop - Starlight Disco (Spectator) \[Spec's Deluge\]](https://osu.ppy.sh/beatmapsets/183375#fruits/530445)
   2. [Memme - Acid Burst (Spectator) \[Spec's Acidic Rain\]](https://osu.ppy.sh/beatmapsets/302535#fruits/846620)
   3. [Iori - Kimi ga Ireba (deepsea) \[Kudo Shinichi\]](https://osu.ppy.sh/beatmapsets/2355#fruits/19381)
-- DoubleTime
+- Double Time
   1. [IOSYS - Border of Extacy (happy30, Lesjuh) \[HappyLesjuh\]](https://osu.ppy.sh/beatmapsets/7932#fruits/35203)
   2. [LeaF - I (Maddy) \[Hyper\]](https://osu.ppy.sh/beatmapsets/99244#fruits/264894)
   3. [FELT - Goldrop (Spectator) \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/204927#fruits/506395)
@@ -175,10 +175,10 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 - Hidden
   1. [Kawada Mami - Timeless time (Furely) \[Furely's Rain\]](https://osu.ppy.sh/beatmapsets/333441#fruits/1359832)
   2. [sana - Kotonoha Clinic (Kite) \[Moroi\]](https://osu.ppy.sh/beatmapsets/419189#fruits/907200)
-- HardRock
+- Hard Rock
   1. [TAG underground - POSSESSION (murutattack, IDu5t) \[MURUDU5T'S PLATTER\]](https://osu.ppy.sh/beatmapsets/760549#fruits/1740967)
   2. [La Bouche - Be My Lover (Lizbeth) \[Jumping\]](https://osu.ppy.sh/beatmapsets/12367#fruits/46475)
-- DoubleTime
+- Double Time
   1. [Hylian Lemon - Foresight Is for Losers (ZiRoX) \[Platter\]](https://osu.ppy.sh/beatmapsets/342751#fruits/757538)
   2. [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#fruits/96523)
 - Tiebreaker
@@ -282,7 +282,7 @@ Dimanche, 31 Mars 2019:
 ### Règles générales
 
 1. Le tournoi prendra place dans un format de 1v1 double élimination avec un seeding traditionnel.
-2. Le tournoi durera 7 weekends. Les matchs seront joués sous les paramètres **Score V2** et **Head to Head.**
+2. Le tournoi durera 7 weekends. Les matchs seront joués sous les paramètres **ScoreV2** et **Head to Head.**
 3. Un arbitre sera présent pour chaque match.
 4. Rejoindre le serveur Discord est obligatoire, au moins pour la durée du tournoi.
 5. Les matchs du 1er weekend et du 2ème weekend seront en best-of-5, les matchs du 3ème weekend seront en best-of-7, les matchs du 4ème weekend seront en best-of-9, les matchs du 5ème weekend seront en best-of-11, les matchs du 6ème et du 7ème weekend seront en best-of-13.
@@ -295,7 +295,7 @@ Dimanche, 31 Mars 2019:
 4. Le plus bas roll va ban en premier, le plus haut roll va pick en premier.
    - Le FreeMod est en "forcemod", ce qui veut dire que chaque joueur doit utiliser au moins un mod.
    - Le Tiebreaker n'est pas en "forcemod", mais vous pouvez choisir un mod.
-   - Les mods éligibles pour le FreeMod et le Tiebreaker sont Easy, Flashlight, HardRock et Hidden.
+   - Les mods éligibles pour le FreeMod et le Tiebreaker sont Easy, Flashlight, Hard Rock et Hidden.
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"

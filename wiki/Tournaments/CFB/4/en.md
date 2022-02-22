@@ -105,12 +105,12 @@ This competition has come to an end and resulted in the following podium:
   2. [Tomohito Nishiura - Moonlight Tango (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/536001#fruits/1135248)
   3. [Big Giant Circles feat. some1namedjeff - Thunderstruck (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/73267#fruits/208776)
   4. [Fujiwara Chika (CV: Kohara Konomi) - Chikatto Chika Chika (TV Size) (Ascendance) \[MBomb's Rain\]](https://osu.ppy.sh/beatmapsets/926731#fruits/1943595)
-- HardRock
+- Hard Rock
   1. [Hidamari Sketch Cast - Sketch Switch (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/4624#fruits/24626)
   2. [Blue Stahli - Suit Up (MBomb) \[Salad\]](https://osu.ppy.sh/beatmapsets/1061425#fruits/2224161)
   3. [Masayoshi Minoshima ft. nomico - Bad Apple!! (ignorethis) \[Hard\]](https://osu.ppy.sh/beatmapsets/13177#fruits/87733)
   4. [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (wonjae) \[Salad\]](https://osu.ppy.sh/beatmapsets/801225#fruits/1687560)
-- DoubleTime
+- Double Time
   1. [Cash Cash - Forever Young (ztrot) \[Forever!\]](https://osu.ppy.sh/beatmapsets/21155#fruits/73575)
   2. [Hylian Lemon - Foresight Is for Losers (ZiRoX) \[Platter\]](https://osu.ppy.sh/beatmapsets/342751#fruits/757538)
   3. [Triple Bounce - Magic Melody (Nightcore Mix) (Tony) \[Insane\]](https://osu.ppy.sh/beatmapsets/36341#fruits/117418)
@@ -134,12 +134,12 @@ This competition has come to an end and resulted in the following podium:
   2. [Ichiki Mitsuhiro, Masuda Toshiki - Akekure Nikki (tutuhaha) \[Insane\]](https://osu.ppy.sh/beatmapsets/523619#fruits/1111586)
   3. [Masayoshi Minoshima feat. Sakaue Nachi - ILIAS (-kevincela-) \[Another\]](https://osu.ppy.sh/beatmapsets/373543#fruits/818368)
   4. [ginkiha - nightfall (-Joni-) \[gloaming\]](https://osu.ppy.sh/beatmapsets/1151833#fruits/2415949)
-- HardRock
+- Hard Rock
   1. [nekodex - aureole (MBomb) \[Hyperion's Salad\]](https://osu.ppy.sh/beatmapsets/1056354#fruits/2236424)
   2. [Ayahi Takagaki - Kigurumi Wakusei (TV Size) (KIA) \[Hard\]](https://osu.ppy.sh/beatmapsets/12796#fruits/48146)
   3. [Co shu Nie - asura (fayew) \[salad\]](https://osu.ppy.sh/beatmapsets/1101376#fruits/2388578)
   4. [Daniel Ingram - Raise This Barn (rezoons) \[Hard\]](https://osu.ppy.sh/beatmapsets/71542#fruits/204980)
-- DoubleTime
+- Double Time
   1. [Seven Lions with Myon and Shane 54 - Strangers (Feat. Tove Lo) (Maeglwn) \[Hard\]](https://osu.ppy.sh/beatmapsets/192347#fruits/457455)
   2. [Dream Theater - Wait for Sleep (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/381125#fruits/833902)
   3. [Yousei Teikoku - Weiss Fluegel (lolcubes) \[Insane\]](https://osu.ppy.sh/beatmapsets/39320#fruits/125434)
@@ -163,12 +163,12 @@ This competition has come to an end and resulted in the following podium:
   2. [Feint - The Journey (feat. Veela) (A r M i N) \[Insane\]](https://osu.ppy.sh/beatmapsets/770668#fruits/1621242)
   3. [Iwasaki Taku - Dance Macabre (Sieg) \[Insane\]](https://osu.ppy.sh/beatmapsets/87545#fruits/248490)
   4. [Mame - Aka ni Somaru Dress (Mystica) \[Lolita\]](https://osu.ppy.sh/beatmapsets/33217#fruits/108387)
-- HardRock
+- Hard Rock
   1. [THEATRE BROOK - Uragiri no Yuuyake ( TV Size ) (climbb65588) \[Hard\]](https://osu.ppy.sh/beatmapsets/13673#fruits/50406)
   2. [Suara - Fuantei na Kamisama TV ver. (MoelittleC Hime) \[Salad\]](https://osu.ppy.sh/beatmapsets/394829#fruits/864030)
   3. [Tatsh - reunion (Irreversible) \[Kygerphyxversible's Advanced\]](https://osu.ppy.sh/beatmapsets/346213#fruits/765299)
   4. [Bitter Sweet Entertainment - Kanashimi no Mukougawa (Piano Version) (JBHyperion) \[Salad\]](https://osu.ppy.sh/beatmapsets/435287#fruits/937657)
-- DoubleTime
+- Double Time
   1. [DJ Ozawa - Tokyo (Innovaderz Remix) (Ascendance) \[Fii's Salad\]](https://osu.ppy.sh/beatmapsets/427801#fruits/941649)
   2. [Miki Sayaka (CV: Kitamura Eri), Sakura Kyoko (CV: Nonaka Ai) - and I'm home (Kyuukai) \[Hard\]](https://osu.ppy.sh/beatmapsets/786689#fruits/1651308)
   3. [C-Show - On the FM (Ascendance) \[Salad\]](https://osu.ppy.sh/beatmapsets/609679#fruits/1382268)
@@ -189,11 +189,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Quynh Nhu - Don Coi (Mako Sakata) \[Lonely\]](https://osu.ppy.sh/beatmapsets/448090#fruits/979412)
   2. [Kano - Hikari no Michishirube (TV Size) (Petal) \[Sunset\]](https://osu.ppy.sh/beatmapsets/1073862#fruits/2247478)
   3. [MitiS feat. Crywolf - Oasis (vocal Mix) (Come[Back]Home) \[Insane\]](https://osu.ppy.sh/beatmapsets/296724#fruits/760932)
-- HardRock
+- Hard Rock
   1. [Ice vs. Morimori Atsushi - RE:UNION -Duo Blade Against- (Realazy) \[Ayyri's Advanced\]](https://osu.ppy.sh/beatmapsets/848977#fruits/1810415)
   2. [loos feat. Meramipop - Starlight Disco (ursa) \[Salad\]](https://osu.ppy.sh/beatmapsets/183375#fruits/530444)
   3. [2B PENCILS & Nakagawa Kanon - Hajimete Koi o Shita Kioku (TV Edit) (Bearizm) \[Hard\]](https://osu.ppy.sh/beatmapsets/356633#fruits/784750)
-- DoubleTime
+- Double Time
   1. [Hanatan - Yurafi (JBHyperion) \[Salad\]](https://osu.ppy.sh/beatmapsets/602506#fruits/12726071)
   2. [Halozy - Little Summer Party (Takos) \[Hard\]](https://osu.ppy.sh/beatmapsets/39537#fruits/126330)
   3. [Helblinde - Grief & Malice (Kyuare) \[ExGon's Salad\]](https://osu.ppy.sh/beatmapsets/325817#fruits/782020)
@@ -212,10 +212,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Camellia - \*Feels Seasickness...\* (My Angel RangE) \[\*ADVANCED...\*\]](https://osu.ppy.sh/beatmapsets/914865#fruits/2064953)
   2. [Step - Polargeist (AquaTail) \[Fizz's Hard\]](https://osu.ppy.sh/beatmapsets/1104099#fruits/2330643)
-- HardRock
+- Hard Rock
   1. [Linkin Park - Breaking The Habit (AlexaBM) \[Medium\]](https://osu.ppy.sh/beatmapsets/173468#fruits/419194)
   2. [Porter Robinson & Madeon - Shelter (Myle) \[Cup\]](https://osu.ppy.sh/beatmapsets/536749#fruits/1137696)
-- DoubleTime
+- Double Time
   1. [Antonin Dvorak - From the New World (lepidopodus) \[Normal\]](https://osu.ppy.sh/beatmapsets/25342#fruits/85870)
   2. [LukHash - SOCIAL PHOBIA (JBHyperion) \[CUP\]](https://osu.ppy.sh/beatmapsets/1040733#fruits/2175038)
 - Tiebreaker
@@ -228,9 +228,9 @@ This competition has come to an end and resulted in the following podium:
   2. [Yuuhei Satellite - Kachou Fuugetsu (Magic Girl) \[Benny's Platter\]](https://osu.ppy.sh/beatmapsets/726596#fruits/1533955)
 - Hidden
   1. [Maaya Sakamoto - Waiting for the rain (Rizia) \[Insane\]](https://osu.ppy.sh/beatmapsets/364282#fruits/799927)
-- HardRock
+- Hard Rock
   1. [Hecq - Dstrukt (JBHyperion) \[Cup\]](https://osu.ppy.sh/beatmapsets/511538#fruits/1087383)
-- DoubleTime
+- Double Time
   1. [dors k(uro) - dreeeeam (Chara) \[A Salad of Dreams\]](https://osu.ppy.sh/beatmapsets/444696#fruits/955343)
 
 ## Match results
@@ -368,7 +368,7 @@ Sunday, 3 May 2020:
 10. Any French-speaking player can participate in the tournament.
 11. Players will have two bans for each match.
 12. Players won't be able to ban more than one map in a mod.
-13. Hidden is allowed to be combined with HardRock and DoubleTime.
+13. Hidden is allowed to be combined with Hard Rock and Double Time.
 14. Tiebreaker will be played under FreeMod condition.
 
 ### Qualifiers format
@@ -376,8 +376,8 @@ Sunday, 3 May 2020:
 1. Mappool will consist of:
    - 2 NoMod
    - 1 Hidden
-   - 1 HardRock
-   - 1 DoubleTime
+   - 1 Hard Rock
+   - 1 Double Time
 2. Note that the level of the qualifiers is deliberately higher than the group stage to separate you and thus create the tops, highs, lows and unseeded seedings. It will also be used to adapt the mappool according to the level generated on this occasion!
 
 ### Winning conditions

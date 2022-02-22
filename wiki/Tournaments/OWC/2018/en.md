@@ -111,11 +111,11 @@ The osu! World Cup 2018 was run by various community members.
   1. [FUJIN CLUB - Tabi to Ferry \(dsco\) \[Seaside\]](https://osu.ppy.sh/beatmapsets/704541#osu/1490377)
   2. [BLOOD STAIN CHILD - MOON LIGHT WAVE \(Snepif\) \[Effulgence\]](https://osu.ppy.sh/beatmapsets/296543#osu/665787)
   3. [uma vs. Morimori Atsushi - Re:End of a Dream \(Battle\) \[Re:Vival\]](https://osu.ppy.sh/beatmapsets/557039#osu/1178810)
-- HardRock
+- Hard Rock
   1. [Nekomata Master - Izanami's wail \(Uberzolik\) \[Xilver's extrA!!\]](https://osu.ppy.sh/beatmapsets/792367#osu/1746993)
   2. [Nanaki feat.GUMI - Mousou Kajitsu \(Natsu\) \[Climax\]](https://osu.ppy.sh/beatmapsets/524966#osu/1114132)
   3. [succducc - me & u \(Nathan\) \[together\]](https://osu.ppy.sh/beatmapsets/699749#osu/1481624)
-- DoubleTime
+- Double Time
   1. [ZAQ - Serendipity \(Mir\) \[Lasse's Insane\]](https://osu.ppy.sh/beatmapsets/578619#osu/1227137)
   2. [senya - Arehateta Chijou no Uta \(Satellite\) \[Collab\]](https://osu.ppy.sh/beatmapsets/434397#osu/936035)
   3. [HTT - NO, Thank You! \(DNR\) \[Collab\]](https://osu.ppy.sh/beatmapsets/19532#osu/68624)
@@ -140,11 +140,11 @@ The osu! World Cup 2018 was run by various community members.
   1. [paranoid void - Utsukushii Kodoku \(dsco\) \[Escapism\]](https://osu.ppy.sh/beatmapsets/777597#osu/1633534)
   2. [toby fox - Spider Dance \(Fatfan Kolek\) \[Snow Note's Extreme\]](https://osu.ppy.sh/beatmapsets/750458#osu/1584604)
   3. [Akiyama Uni - Broken Moon \(sahuang\) \[Regou's Extra\]](https://osu.ppy.sh/beatmapsets/643391#osu/1389956)
-- HardRock
+- Hard Rock
   1. [Team.NEKOKAN - Airman ga Taosenai \(Sotarks\) \[Mir's Extra\]](https://osu.ppy.sh/beatmapsets/732994#osu/1563445)
   2. [Renard - Terminal \(nold\_1702\) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/102282#osu/270490)
   3. [Jun Kuroda & AAAA - Cygnus \(Rohit6\) \[BLACK ANOTHER\]](https://osu.ppy.sh/beatmapsets/358056#osu/888465)
-- DoubleTime
+- Double Time
   1. [Atoguru - Itoshi Kimi wo Mitsuke ni \(bakabaka\) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#osu/96523)
   2. [senya - Zouka de Arou to Shita Mono \(Satellite\) \[Ancients\]](https://osu.ppy.sh/beatmapsets/495283#osu/1054400)
   3. [Mei Ayakura - Romantic Fall \(felys\) \[Longing thoughts dyed in crimson\]](https://osu.ppy.sh/beatmapsets/637934#osu/1353352)
@@ -169,11 +169,11 @@ The osu! World Cup 2018 was run by various community members.
   1. [Hommarju - Rock It \(toybot\) \[Blast Off\]](https://osu.ppy.sh/beatmapsets/700421#osu/1484308)
   2. [Makai Toshi Niigata - Ukiyo-e Yokochou \(Suzuki\_1112\) \[Brew\]](https://osu.ppy.sh/beatmapsets/713506#osu/1508083)
   3. [Seeed - Ding \(IceKalt\) \[Deramok's Hidden Extra\]](https://osu.ppy.sh/beatmapsets/727333#osu/1570419)
-- HardRock
+- Hard Rock
   1. [Dreamcatcher - Full Moon \(Natsu\) \[Moonlight\]](https://osu.ppy.sh/beatmapsets/721842#osu/1524183)
   2. [onoken - K8107 \(MaridiuS\) \[DeviousPanda's Extra\]](https://osu.ppy.sh/beatmapsets/807396#osu/1704553)
   3. [DJ Totoriott - Arcanos \(Holoaz\) \[Insane\]](https://osu.ppy.sh/beatmapsets/136333#osu/341217)
-- DoubleTime
+- Double Time
   1. [zts - miragecoordinator \(Mirash\) \[Insane\]](https://osu.ppy.sh/beatmapsets/652668#osu/1383875)
   2. [FELT - Story \(Yohanes\) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/297409#osu/944709)
   3. [DystopiaGround - True Theory of Inheritance \(Ignacio\) \[Insane\]](https://osu.ppy.sh/beatmapsets/24477#osu/83215)
@@ -197,11 +197,11 @@ The osu! World Cup 2018 was run by various community members.
   1. [MYTH & ROID - Paradisus-Paradoxum \(Cellina\) \[Curi's Extreme\]](https://osu.ppy.sh/beatmapsets/510183#osu/1113057)
   2. [Camellia - Introduction - ENTRANS OF DA JUNGLE \(-PC\) \[Welcome to the Jungle\]](https://osu.ppy.sh/beatmapsets/700968#osu/1483766)
   3. [SHK - Identity Part III \(ktgster\) \[SHD\]](https://osu.ppy.sh/beatmapsets/280329#osu/634351)
-- HardRock
+- Hard Rock
   1. [Eiko Shimamiya - Higurashi no Naku Koro ni \(Okorin\) \[Onikakushi\]](https://osu.ppy.sh/beatmapsets/333543#osu/764014)
   2. [TOTTO - Wadatsumi \(Desperate-kun\) \[Snaggle's Insane\]](https://osu.ppy.sh/beatmapsets/351828#osu/775365)
   3. [dj TAKA - Hollywood Galaxy \(Megurine Luka\) \[Extreme\]](https://osu.ppy.sh/beatmapsets/48196#osu/150116)
-- DoubleTime
+- Double Time
   1. [Nightwish - Bye Bye Beautiful \(neonat\) \[Shiro's Insane\]](https://osu.ppy.sh/beatmapsets/133884#osu/372326)
   2. [senya - Saihate no Kotoba \(Satellite\) \[Ghostly\]](https://osu.ppy.sh/beatmapsets/174417#osu/905424)
   3. [REDALiCE - Selfish \(happy30\) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/28060#osu/105531)
@@ -225,11 +225,11 @@ The osu! World Cup 2018 was run by various community members.
   1. [Manasora Akiha, Tokika - Toukasa Funtouki!\~ Rakutoferin no Hate e \~ \(fanzhen0019\) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/43170#osu/137303)
   2. [Demetori - U.N. Owen wa Kanojo nanoka? \(Louis Cyphre\) \[Unknown\]](https://osu.ppy.sh/beatmapsets/42247#osu/844718)
   3. [Sharlo - Eisou Youga \~Meikyou Shisui\~ \(Sharlo\) \[Skystar's Extreme\]](https://osu.ppy.sh/beatmapsets/380740#osu/931853)
-- HardRock
+- Hard Rock
   1. [Rise Against - Whereabouts Unknown \(Milan-\) \[pishi's Extra\]](https://osu.ppy.sh/beatmapsets/327188#osu/729829)
   2. [Foreground Eclipse - To The Terminus \(Giralda\) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/277481#osu/628753)
   3. [solfa feat. Shimotsuki Haruka - leap in your mind \(Lasse\) \[Expert\]](https://osu.ppy.sh/beatmapsets/818672#osu/1718542)
-- DoubleTime
+- Double Time
   1. [zts - the executioner \(-kevincela-\) \[Insane\]](https://osu.ppy.sh/beatmapsets/342360#osu/756752)
   2. [petit milady - Ma Cherie \(Andrea\) \[Lovers\]](https://osu.ppy.sh/beatmapsets/255481#osu/585605)
   3. [Zeng Zhihao - Fu Yun Ben Lang \(jonathanlfj\) \[Insane\]](https://osu.ppy.sh/beatmapsets/89673#osu/243644)
@@ -252,10 +252,10 @@ The osu! World Cup 2018 was run by various community members.
 - Hidden
   1. [nmk - sola \(Morinaga\) \[Down's Extra\]](https://osu.ppy.sh/beatmapsets/723024#osu/1528254)
   2. [Pendulum - Crush \(Radio Edit\) \(JauiPlaY\) \[Insane\]](https://osu.ppy.sh/beatmapsets/58329#osu/175397)
-- HardRock
+- Hard Rock
   1. [ONE OK ROCK - Clock Strikes \(Saut\) \[Insane\]](https://osu.ppy.sh/beatmapsets/249624#osu/633373)
   2. [orangentle - HAELEQUIN \(Gamu\) \[toybot's Insane\]](https://osu.ppy.sh/beatmapsets/291495#osu/757386)
-- DoubleTime
+- Double Time
   1. [Younha - Houkiboshi \(Seto Kousuke\) \[Insane\]](https://osu.ppy.sh/beatmapsets/779541#osu/1636976)
   2. [Marie & Shimotsuki Haruka - Hane no Naki Chou \(KanbeKotori\) \[Insane\]](https://osu.ppy.sh/beatmapsets/35666#osu/115457)
 - FreeMod
@@ -423,7 +423,7 @@ Sunday, 11 November 2018:
 
 1. The osu! World Cup is a country-based team tournament, played on the osu! game mode.
    - While this competition is planned as a 4 versus 4 setup, this might change depending on the amount of incoming registrations.
-2. Beatmap scoring is based on Score V2.
+2. Beatmap scoring is based on ScoreV2.
 3. The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - The Group Stage mappool will be announced after the drawings.
    - One beatmap will be given as a tiebreaker beatmap. This beatmap will only be played in case of a tie.
@@ -524,16 +524,16 @@ Sunday, 11 November 2018:
 ### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals **and 1 mappool for the Grand Finals**.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
    - **The group stage mappool will have 4 Nomod maps and 2 maps for each of the brackets.**
    - **The round of 16 and quarterfinals mappool will have 4 Nomod maps and 3 maps for each of the brackets.**
    - **The semifinals, finals and grand finals mappool will have 5 Nomod maps and 3 maps for each of the brackets.**
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no mods activated at all.
-6. The Hidden, HardRock and DoubleTime bracket will be played with the respective mod activated by all current players.
+6. The Hidden, Hard Rock and Double Time bracket will be played with the respective mod activated by all current players.
 7. The FreeMod bracket will have FreeMod activated.
-   - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
+   - Possible mod choices are Hidden, Hard Rock and Hidden+Hard Rock.
    - When playing a FreeMod map, at least 2 players of each team must have at least one mod activated. For the remaining players, activating mods is optional.
 8. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, no one needs to have a mod activated.

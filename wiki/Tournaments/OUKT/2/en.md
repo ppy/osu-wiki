@@ -87,10 +87,10 @@ The OUKT2 was run by various community members
 - Hidden
   1. [dj TAKA - Hollywood Galaxy (Megurine Luka) \[Extreme\]](https://osu.ppy.sh/beatmapsets/48196#osu/150116)
   2. [Suzaku - Anisakis -somatic mutation type "Forza" - (\[ HalLoWeeN \]) \[Another\]](https://osu.ppy.sh/beatmapsets/107216#osu/281035)
-- HardRock
+- Hard Rock
   1. [nano - No pain, No game (xsrsbsns) \[Insane\]](https://osu.ppy.sh/beatmapsets/60785#osu/185761)
   2. [Ranko - Sei Natsu (Amamiya Yuko) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/58785#osu/188835)
-- DoubleTime
+- Double Time
   1. [Kraster - Remember History (Short Ver.) (Serval) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/22115#osu/76419)
   2. [Yoshida Mayumi - Zutto Kono Mama... (Mythol) \[cRyo's Insane\]](https://osu.ppy.sh/beatmapsets/63468#osu/196280)
 - FreeMod
@@ -115,10 +115,10 @@ The OUKT2 was run by various community members
 - Hidden
   1. [Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)
   2. [Hastune Miku - Rubik's Cube (rui) \[7x7x7\]](https://osu.ppy.sh/beatmapsets/33651#osu/114635)
-- HardRock
+- Hard Rock
   1. [07th expansion - Nakanaide (Suzully) \[Insane\]](https://osu.ppy.sh/beatmapsets/41807#osu/131840)
   2. [paraoka - Dreadnought (Star Stream) \[Insane\]](https://osu.ppy.sh/beatmapsets/48356#osu/149559)
-- DoubleTime
+- Double Time
   1. [3L - Be Happy\* (cRyo\[iceeicee\]) \[Happy!!!\]](https://osu.ppy.sh/beatmapsets/51247#osu/157205)
   2. [KOTOKO - Teller of World (DarknessAngel) \[D.N.Angel\]](https://osu.ppy.sh/beatmapsets/95981#osu/257512)
 - FreeMod
@@ -143,10 +143,10 @@ The OUKT2 was run by various community members
 - Hidden
   1. [Mary - Artificial Rose (Urushi38) \[Another\]](https://osu.ppy.sh/beatmapsets/99434#osu/264439)
   2. [Eoin o' Broin - Oblivion (DokoLP) \[Insane\]](https://osu.ppy.sh/beatmapsets/37222#osu/119853)
-- HardRock
+- Hard Rock
   1. [nano - magenta (LunarSakuya) \[Insane\]](https://osu.ppy.sh/beatmapsets/45069#taiko/140886)
   2. [Ne;on & Haiji - Haruka Tooki Gensoukyo - Dream of fantasy (Kanon) \[lkp's Lunatic\]](https://osu.ppy.sh/beatmapsets/29780#osu/106475)
-- DoubleTime
+- Double Time
   1. [Skillet - Hero (tutuhaha) \[Fate\]](https://osu.ppy.sh/beatmapsets/52361#osu/160106)
   2. [inyuna - Emukko Kyun Kyun (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/39484#osu/126903)
 - FreeMod
@@ -169,10 +169,10 @@ The OUKT2 was run by various community members
 - Hidden
   1. [Nero's Day at Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](https://osu.ppy.sh/beatmapsets/111825#osu/290733)
   2. [An - Xhroria (Cherry Blossom) \[Another\]](https://osu.ppy.sh/beatmapsets/82258#osu/227772)
-- HardRock
+- Hard Rock
   1. [Lia - Kokoro ni Todoku Uta (holoaz) \[Holo\]](https://osu.ppy.sh/beatmapsets/26549#osu/89428)
   2. [Dark PHOENiX - Stirring An Autumn Moon (\_lolipop) \[Crazy Moon\]](https://osu.ppy.sh/beatmapsets/16650#osu/59693)
-- DoubleTime
+- Double Time
   1. [Epik High ft. Taru - 1 Minute 1 Second (Glass) \[Hard\]](https://osu.ppy.sh/beatmapsets/63834#osu/188318)
   2. [Nana Takahashi - Shuwa Supa Daisakusen (karenying) \[Crazy Jay\]](https://osu.ppy.sh/beatmapsets/22601#osu/81216)
 - FreeMod
@@ -194,10 +194,10 @@ The OUKT2 was run by various community members
 - Hidden
   1. [Yousei Teikoku - Kuraki Sekai no Doukoku (Short Ver.) (lolcubes) \[Lamentation\]](https://osu.ppy.sh/beatmapsets/71200#osu/204230)
   2. [REDALiCE ft. Ayumi Nomiya - Crime Wave (DELiS) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/105296#osu/276462)
-- HardRock
+- Hard Rock
   1. [Chata - Harukaze Dance (maaagic) \[Insane\]](https://osu.ppy.sh/beatmapsets/94993#osu/255342)
   2. [Eoin O' Brien - Deep Space (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/25098#osu/85045)
-- DoubleTime
+- Double Time
   1. [senya - Replica no Koi (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmapsets/67506#osu/245924)
   2. [Coldplay - Paradise (narakucrimson) \[Collab\]](https://osu.ppy.sh/beatmapsets/59619#osu/178614)
 - FreeMod
@@ -219,10 +219,10 @@ The OUKT2 was run by various community members
 - Hidden
   1. [Nekomata Master - Far east nightbird (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/29538#osu/97942)
   2. [Noisestorm - Pulse (Shiirn) \[Another\]](https://osu.ppy.sh/beatmapsets/35022#osu/113749)
-- HardRock
+- Hard Rock
   1. [Rokugen Alice - Kinema Lolita (Kite) \[Insane\]](https://osu.ppy.sh/beatmapsets/38771#osu/150624)
   2. [Harada Hitomi, Kayano Ai & Ogura Yui - Maware! Setsugekka (TV Size) (wcx19911123) \[Insane\]](https://osu.ppy.sh/beatmapsets/122658#osu/314170)
-- DoubleTime
+- Double Time
   1. [NieN - Mellow D Fantasy (MoonFragance) \[Maximium\]](https://osu.ppy.sh/beatmapsets/23521#osu/80473)
   2. [Ylvis - The Fox (W h i t e) \[Fox\]](https://osu.ppy.sh/beatmapsets/119980#osu/307804)
 - FreeMod

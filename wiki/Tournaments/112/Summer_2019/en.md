@@ -145,11 +145,11 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
   1. [HyuN - Grin (ktgster) \[Expert\]](https://osu.ppy.sh/beatmapsets/947770#osu/1982581)
   2. [Pegboard Nerds – We Are One (Original Vocal Mix) (Frey) \[Night Begins\]](https://osu.ppy.sh/beatmapsets/605745#osu/1279815)
   3. [RUMI – Densetsu no Matsuri (Net0) \[Oni\]](https://osu.ppy.sh/beatmapsets/781683#osu/1641637)
-- HardRock
+- Hard Rock
   1. [TK from Ling tosite sigure - haze (Ametrin) \[Extra\]](https://osu.ppy.sh/beatmapsets/568305#osu/1204502)
   2. [Pierce The Veil – King For A Day (feat Kellin Quinn) (pishifat) \[Extra\]](https://osu.ppy.sh/beatmapsets/297909#osu/679771)
   3. [Memme – Sky of the Ocean (Syph) \[Loli’s Extra\]](https://osu.ppy.sh/beatmapsets/668888#osu/1429745)
-- DoubleTime
+- Double Time
   1. [Tsunamaru - paranoia (Chewin) \[Insane\]](https://osu.ppy.sh/beatmapsets/77999#osu/218464)
   2. [ALiCE’S EMOTiON – Foughten Field (Natsu) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/366643#osu/806465)
   3. [Halozy – Heart of Night (Chaoslitz) \[Life of Loneliness\]](https://osu.ppy.sh/beatmapsets/462878#osu/991229)
@@ -174,11 +174,11 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
   1. [Akatsuki Records – ENDLESS FANTASY (Night Mare) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/898849#osu/1877694)
   2. [otetsu – Yokuatsu Sakuran Girl (ZZHBOY) \[Insane\]](https://osu.ppy.sh/beatmapsets/195582#osu/1676603)
   3. [07th Expansion – Final Answer (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/26226#osu/88633)
-- HardRock
+- Hard Rock
   1. [The Flashbulb – Dead on the 4th of July (Mismagius) \[Afterlife\]](https://osu.ppy.sh/beatmapsets/347882#osu/767594)
   2. [Dance Gavin Dance – Tree Village (Dilectus) \[Cool’s Extra\]](https://osu.ppy.sh/beatmapsets/703666#osu/1590637)
   3. [Lite Show Magic – TRICKL4SH 220 (Regou) \[toybot’s 4NOTHER\]](https://osu.ppy.sh/beatmapsets/616696#osu/1308411)
-- DoubleTime
+- Double Time
   1. [Sushi Killer - Zora (Nerova Riuz GX) \[Kyubey’s Insane\]](https://osu.ppy.sh/beatmapsets/205107#osu/947478)
   2. [Rameses B - Flaklypa (-kevincela-) \[Insane\]](https://osu.ppy.sh/beatmapsets/190390#osu/453358)
   3. [cYsmix – Dovregubben’s Hall (Guy) \[Insane\]](https://osu.ppy.sh/beatmapsets/360950#osu/793190)
@@ -203,11 +203,11 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
   1. [Dictate - Treason (Realazy) \[The Senate\]](https://osu.ppy.sh/beatmapsets/848976#osu/1775314)
   2. [Dormir – Une mage blanche (Sulfur) \[Kalibe’s Extra\]](https://osu.ppy.sh/beatmapsets/759524#osu/1652205)
   3. [monet – Kagami no Sekai ni wa Watashi shika Inai -another version- (Mirash) \[PandaHero’s Insane\]](https://osu.ppy.sh/beatmapsets/685725#osu/1469159)
-- HardRock
+- Hard Rock
   1. [solfa feat. Shimotsuki Haruka – leap in your mind (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/818672#osu/1718542)
   2. [HyuN – White Aura (Mirash) \[coco's Insane\]](https://osu.ppy.sh/beatmapsets/891333#osu/1863198)
   3. [M2U - Stellar (Ultima Fox) \[Starlight\]](https://osu.ppy.sh/beatmapsets/773043#osu/1625011)
-- DoubleTime
+- Double Time
   1. [fhana – RHAPSODY OF BLUE SKY (Kamiya) \[Dynamix’s Insane\]](https://osu.ppy.sh/beatmapsets/586841#osu/1242820)
   2. [Co shu Nie – asphyxia (TV edit) (Monstrata) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/758101#osu/1594731)
   3. [Umi no Soko kara Mermaid Prim by ARM x Komso - Gyogyotto Ningyo Bakkon Bridal (fanzhen0019) \[Hyper\]](https://osu.ppy.sh/beatmapsets/651723#osu/1382058)
@@ -232,11 +232,11 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
   1. [dB soundworks – The Battle of Lil’ Slugger (lolcubes) \[Insane\]](https://osu.ppy.sh/beatmapsets/28708#osu/95590)
   2. [Starlight Kukugumi – You are a ghost, I am a ghost \~Gekijou no Ghost\~ (Gaia) \[Kalibe’s Extra\]](https://osu.ppy.sh/beatmapsets/941509#osu/1971493)
   3. [HyuN – Infinity Heaven (Niva) \[Ad Infinitum\]](https://osu.ppy.sh/beatmapsets/891345#osu/1863246)
-- HardRock
+- Hard Rock
   1. [Fujiwara Chika (CV: Kohara Konomi) – Chikatto Chika Chika (Andrea) \[Sekai’s IQ <3\]](https://osu.ppy.sh/beatmapsets/962521#osu/2015394)
   2. [YURiKA – Kyoumen no Nami (Vell) \[Expert\]](https://osu.ppy.sh/beatmapsets/731108#osu/1542973)
   3. [sakuzyo - Altale (toybot) \[Bonzi’s Extra\]](https://osu.ppy.sh/beatmapsets/228815#osu/1012279)
-- DoubleTime
+- Double Time
   1. [Mili - Rightfully (Okoratu) \[Hard\]](https://osu.ppy.sh/beatmapsets/875117#osu/1874011)
   2. [96neko - ELECT (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/716122#osu/1517345)
   3. [3L – Spring of Dreams (impossiblexu) \[Karen\]](https://osu.ppy.sh/beatmapsets/27875#osu/97338)
@@ -261,10 +261,10 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 - Hidden
   1. [kurokumo x konoco - Ifuudoudou (Kyuukai) \[Linada’s Indecency\]](https://osu.ppy.sh/beatmapsets/656179#osu/1390352)
   2. [Cameliia - overcomplexification (ProfessionalBox) \[byfar’s Extra\]](https://osu.ppy.sh/beatmapsets/351408#osu/934812)
-- HardRock
+- Hard Rock
   1. [Minami – Kawaki wo Ameku (Mirash) \[Trynna’s Extra\]](https://osu.ppy.sh/beatmapsets/919827#osu/1921070)
   2. [yu\_tokiwa.djw merge scl.gtr – murmur twins (guitar pop ver.) (felys) \[Pink Another\]](https://osu.ppy.sh/beatmapsets/771062#osu/1621079)
-- DoubleTime
+- Double Time
   1. [Muzzy – Play (feat. UK:ID) (Yamicchi) \[Pika’s Hyper\]](https://osu.ppy.sh/beatmapsets/770484#osu/1634670)
   2. [Infected Mushroom – Pink Nightmares (RLC) \[Insane\]](https://osu.ppy.sh/beatmapsets/107639#osu/281977)
 - FreeMod
@@ -285,10 +285,10 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 - Hidden
   1. [PolyphonicBranch – Usotsuki Betty (Chewin) \[Insane\]](https://osu.ppy.sh/beatmapsets/60140#osu/522349)
   2. [SHK – Weep Irish (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/28545#osu/95360)
-- HardRock
+- Hard Rock
   1. [Igorrr – Tout Petit Moineau (fergas) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/212180#osu/665210)
   2. [Kino Hiko – The Noise of Rain (Battle) \[Insane\]](https://osu.ppy.sh/beatmapsets/613928#osu/1466008)
-- DoubleTime
+- Double Time
   1. [Andromedik – Invasion (Mirash) \[Collab Hard\]](https://osu.ppy.sh/beatmapsets/789544#osu/1656913)
   2. [Shihori – Magic Girl !! (Entry) \[Hard\]](https://osu.ppy.sh/beatmapsets/845249#osu/1803697)
 - FreeMod
@@ -308,9 +308,9 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
   2. [Function Phantom - Euclid (byfar) \[Fifth Postulate\]](https://osu.ppy.sh/beatmapsets/419614#osu/908093)
 - Hidden
   1. [Agent Fresco – Dark Water (Godot) \[Destrier\]](https://osu.ppy.sh/beatmapsets/761140#osu/1618950)
-- HardRock
+- Hard Rock
   1. [Imperial Circus Dead Decadence – Danzai No Honoo To Koibito-Tachi No Rondo (Gottagof4st) \[Piercing Pain\]](https://osu.ppy.sh/beatmapsets/961431#osu/2012740)
-- DoubleTime
+- Double Time
   1. [Unlucky Morpheus – Phantom Blood (IsomirDiAngelo) \[Azzedd’s Light Insane\]](https://zeu.s-ul.eu/XHGcqmAq.osz)
 
 #### 15K+
@@ -322,9 +322,9 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
   2. [Major Lazer – Sua Cara (feat. Anitta & Pabllo Vittar) (handsome) \[byfar’s extra\]](https://osu.ppy.sh/beatmapsets/720615#osu/1665735)
 - Hidden
   1. [ak+q – Axium Crisis (MrSergio) \[Collapse\]](https://osu.ppy.sh/beatmapsets/812551#osu/1704329)
-- HardRock
+- Hard Rock
   1. [Nekomata Master+ – encounter (Sing) \[Frey’s Expert\]](https://zeu.s-ul.eu/Lzk6C8ux.osz)
-- DoubleTime
+- Double Time
   1. [Hate vs Brilliance – Qubism (Regraz) \[Elexus’ HYPER\]](https://osu.ppy.sh/beatmapsets/524503#osu/1802266)
 
 ## Match results
@@ -480,7 +480,7 @@ Monday, 22 July 2019:
 1. 112’s Summer Tournament 2019 is an osu! tournament only allowed for Turkish-speaking players regardless of their profile flags.
 2. The tournament uses a qualifier into a double elimination bracket.
 3. Qualifiers and Group stage matches are in **single-player** format, the Elimination stage is planned as a **2-player team versus** setup.
-4. Beatmap scoring is based on Score V2.
+4. Beatmap scoring is based on ScoreV2.
 5. The following seeding method will be used for the tournament:
    - Top seed will consist of players between **#1 - #15,000.**
    - Low seed will consist of players **over #15,000.**
@@ -512,7 +512,7 @@ Monday, 22 July 2019:
 ### Stage instructions
 
 1. In the Qualifier stage, each seed will have a specific pool designed by the map selectors.
-2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
+2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
 3. Each of the Qualifier pools contain 5 maps. There will be 2 maps under the NoMod bracket and 1 map for the other mod brackets.
 4. No warm-ups will be entertained during this stage.
 5. Players will have to play the map pool **twice** at a designated time. Placement results will be calculated according to their best combined scores.
@@ -551,16 +551,16 @@ Monday, 22 July 2019:
 ### Mappool instructions
 
 1. There will be a new mappool for every stage.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
    - The Group stage mappools will have 4 NoMod maps, 2 maps for each of the remaining mod brackets.
    - The Double Elimination stage mappools will have 5 NoMod maps, 3 maps for each of the remaining mod brackets.
 4. Each mappool has one tiebreaker.
-5. The NoFail mod may be selected on any map.
-6. The NoMod bracket will be played with no mods enabled at all (other than NoFail).
-7. The Hidden, HardRock and DoubleTime brackets will be played with the respective mod enabled by all players.
+5. The No Fail mod may be selected on any map.
+6. The NoMod bracket will be played with no mods enabled at all (other than No Fail).
+7. The Hidden, Hard Rock and Double Time brackets will be played with the respective mod enabled by all players.
 8. The FreeMod bracket will have Free Mods enabled.
-   - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
+   - Possible mod choices are Hidden, Hard Rock and Hidden+Hard Rock.
 9. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, there are no mod requirements.
 

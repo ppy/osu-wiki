@@ -500,8 +500,8 @@ Monday, 11 January 2021:
 ### General rules
 
 1. osu!mania South East Asia Champion 2020 is an osu!mania 4K **1v1** tournament with **double-elimination** bracket format.
-2. The scoring system used will be **Score V2**.
-3. It is mandatory to all participants to use **Stable (Latest)** version or the other later versions of osu! that support the usage of Score V2.
+2. The scoring system used will be **ScoreV2**.
+3. It is mandatory to all participants to use **Stable (Latest)** version or the other later versions of osu! that support the usage of ScoreV2.
 4. There is no limitation for participant amount in registration.
 5. No rank restriction applied.
 6. Multiaccounting is strictly prohibited.

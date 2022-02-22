@@ -126,7 +126,7 @@ The osu!mania Asian's Champions 2019 was run by various community members.
 - ![][flag_KR] [popomon](https://osu.ppy.sh/users/1149319)
 - ![][flag_KR] [potato772002](https://osu.ppy.sh/users/10333273)
 - ![][flag_KR] [rlarkgus](https://osu.ppy.sh/users/4270732)
-- ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923)
+- ![][flag_KR] [Sudden Death](https://osu.ppy.sh/users/6699923)
 - ![][flag_VN] [Suus](https://osu.ppy.sh/users/21183795)
 - ![][flag_KR] [TheFirstSnow](https://osu.ppy.sh/users/2490895)
 - ![][flag_KR] [VrChatGamer](https://osu.ppy.sh/users/14213383)
@@ -397,10 +397,10 @@ Friday, 14 October 2019:
   - Final (BO13)
   - Grand Final (BO13)
 - This will be a 1v1 double-elimination 4K tournament.
-- This tournament will be using Score V2 on each matches.
+- This tournament will be using ScoreV2 on each matches.
 - Warm up will be given start from Group Stage and so on.
 - The Mappool will consist of a set of Free Mod picks and one Tie Breaker.
-- All participants will have to use `STABLE (LATEST)` version or the other later versions that support Score V2.
+- All participants will have to use `STABLE (LATEST)` version or the other later versions that support ScoreV2.
 
 ### Torunament rules
 

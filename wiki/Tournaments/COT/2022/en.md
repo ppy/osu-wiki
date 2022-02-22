@@ -81,11 +81,11 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
   1. [STAYC - STEREOTYPE (Jemzuu) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1677719#fruits/3427696)
   2. [ginkiha - eastward (Xetopia) \[Rain\]](https://osu.ppy.sh/beatmapsets/1698511#fruits/3470589)
   3. [Yorushika - Replicant (Faito) \[Extra\]](https://osu.ppy.sh/beatmapsets/1564609#fruits/3195088)
-- HardRock
+- Hard Rock
   1. [Amaranthe - Hunger (Chatie) \[Crowley's Rain\]](https://osu.ppy.sh/beatmapsets/1425623#fruits/2960303)
   2. [DJ TOTTO feat. *spiLa* - illumina (Imai Lisa) \[Rain\]](https://osu.ppy.sh/beatmapsets/880513#fruits/1860525)
   3. [SOUND HOLIC vs. T.Kakuta feat. Nana Takahashi - ROZA DE ANDALUCIA (gazimal) \[ponbot's Insane\]](https://osu.ppy.sh/beatmapsets/1445963#fruits/3090815)
-- DoubleTime
+- Double Time
   1. [Toraboruta - Soleil (Noffy) \[Wild's Rain\]](https://osu.ppy.sh/beatmapsets/308633#fruits/992848)
   2. [ON-kei - Taihen na Mono no Shoushitsu -GOSSUN END- (ZHSteven) \[pieguy's CTB\]](https://osu.ppy.sh/beatmapsets/20296#fruits/70946)
   3. [SOUND HOLIC - Fushigi no Kuni no Christmas (-Faded-) \[Wonder\]](https://osu.ppy.sh/beatmapsets/683589#fruits/1445816)
@@ -104,10 +104,10 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
 - Hidden
   1. [Ricky Montgomery - Cabo (Crowley) \[Team Philippines' Overdose\]](https://osu.ppy.sh/beatmapsets/1556101#fruits/3178896)
   2. [Artik & ASTI feat. Artyom Kacher - Grustnyy dance (-Mikan) \[Mikan & schoolboy's Flex\]](https://osu.ppy.sh/beatmapsets/1027708#fruits/2149020)
-- HardRock
+- Hard Rock
   1. [xi - Titania (Jemzuu) \[AFB's Platter\]](https://osu.ppy.sh/beatmapsets/1278046#fruits/2669849)
   2. [m108 - Shinku no Senkou (Leader) \[Extra\]](https://osu.ppy.sh/beatmapsets/1551011#fruits/3169485)
-- DoubleTime
+- Double Time
   1. [YUC'e - Cinderella Syndrome (KuroRev) \[Platter\]](https://osu.ppy.sh/beatmapsets/1467712#fruits/3017532)
   2. [Kanzaki Elza starring ReoNa - step, step (Stratos) \[kowari's insane\]](https://osu.ppy.sh/beatmapsets/1337889#fruits/2771476)
 - Tiebreaker
@@ -125,10 +125,10 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
 - Hidden
   1. [Yorushika - Haru Hisagi (Terton) \[Dishonesty\]](https://osu.ppy.sh/beatmapsets/1687433#fruits/3448600)
   2. [Zektbach - Turii \~Panta rhei\~ (celerih) \[Insane\]](https://osu.ppy.sh/beatmapsets/1687433#fruits/3448600)
-- HardRock
+- Hard Rock
   1. [Lovejoy - One Day (Crowley) \[PLATTER\]](https://osu.ppy.sh/beatmapsets/1511787#fruits/3095543)
   2. [LeaF - Kyouki Ranbu (toybot) \[Insane\]](https://osu.ppy.sh/beatmapsets/1312129#fruits/3036786)
-- DoubleTime
+- Double Time
   1. [Creo - Glome (Nelly) \[Rocma's Platter\]](https://osu.ppy.sh/beatmapsets/965319#fruits/2023723)
   2. [Mitchie M feat. Hatsune Miku with KAITO - Ohedo Julia-Night (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/664099#fruits/1413791)
 - Tiebreaker
@@ -144,10 +144,10 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
 - Hidden
   1. [A-One feat. Shihori - Magic Girl !! (Greaper) \[Deif's Rain\]](https://osu.ppy.sh/beatmapsets/1644488#fruits/3356804)
   2. [Jenny Rom - The Game of Love (E=MC2) Mix (ztrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/14412#fruits/52741)
-- HardRock
+- Hard Rock
   1. [Lime - Chronomia (Rocma) \[Rain\]](https://osu.ppy.sh/beatmapsets/1471328#fruits/3207951)
   2. [Helblinde - Above the Clouds ([ Rizen ]) \[Timeless\]](https://osu.ppy.sh/beatmapsets/344252#fruits/785162)
-- DoubleTime
+- Double Time
   1. [ZUTOMAYO - Humanoid (Jemzuu) \[Imai Lisa & Du5t's Platter\]](https://osu.ppy.sh/beatmapsets/1052572#fruits/2241108)
   2. [XX:me - Torikago (Mordred) \[Dakini's Insane\]](https://osu.ppy.sh/beatmapsets/764067#fruits/1624401)
 
@@ -201,7 +201,7 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1iie_z
 
 ### General rules
 
-1. Map scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
+1. Map scoring is based on **[ScoreV2](/wiki/Gameplay/Score#ScoreV2).**
 2. The match lobby will be created by the referee, and the players will be invited.
 3. Players have a strict 10-minute grace period available to play the match. If 10 minutes pass and a player does not show up the match, the other player will receive a win by default.
 4. Warmups are not allowed.
@@ -212,7 +212,7 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1iie_z
 9. Players have 2 minutes to select a map; if they fail to choose in the allotted time, the map choice will be random.
 10. Each player may use a tactical 2-minute timeout once during the tournament. The tactical timeout is optional.
 11. After choosing a map, players have 2 minutes to prepare. A referee will start the the timer when both players are ready.
-12. NoFail is forced on every map.
+12. No Fail is forced on every map.
 13. If a player disconnects during the first 30 seconds of the match, it will be replayed. If the disconnect happened after 30 seconds, then the disconnected player's score will not count.
 
 ### Qualifiers

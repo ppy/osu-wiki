@@ -83,10 +83,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Izumi Akazawa (CV. Madoka Yonezawa) - Responsibility Response (Natsu) [Salsa]](https://osu.ppy.sh/beatmapsets/420677#osu/909990)
   2. [O-Life Japan - Yakujinsama no Couple Dance (AngelHoney) [Lunatic]](https://osu.ppy.sh/beatmapsets/16990#osu/95954)
-- HardRock
+- Hard Rock
   1. [T.M.Revolution - FLAGS (P A N) [Conqueror]](https://osu.ppy.sh/beatmapsets/395160#osu/860047)
   2. [dj TAKA - Hollywood Galaxy (Megurine Luka) [Extreme]](https://osu.ppy.sh/beatmapsets/48196#osu/150116)
-- DoubleTime
+- Double Time
   1. [Bomfunk MC's - Freestyler (Lesjuh) [Insane]](https://osu.ppy.sh/beatmapsets/35629#osu/115352)
   2. [Fox Stevenson - Turn It Up (Higher) (Kyshiro) [Epic]](https://osu.ppy.sh/beatmapsets/115291#osu/298034)
 - FreeMod
@@ -106,10 +106,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [SHIKI - Pure Ruby (tsuka) [Another]](https://osu.ppy.sh/beatmapsets/39325#osu/125448)
   2. [The Eden Project - Lost (Bearizm) [Escapism]](https://osu.ppy.sh/beatmapsets/247747#osu/835941)
-- HardRock
+- Hard Rock
   1. [Fear, and Loathing in Las Vegas - Swing It!! (Guy) [Extra]](https://osu.ppy.sh/beatmapsets/204159#osu/482147)
   2. [nao - Dimension tripper!!!! ([Minakami Yuki]) [Supreme]](https://osu.ppy.sh/beatmapsets/126749#osu/321973)
-- DoubleTime
+- Double Time
   1. [senya - Kimi to Dareka no Yasashisa ni (kakifly) [Affection]](https://osu.ppy.sh/beatmapsets/250337#osu/596161)
   2. [Ryu\* - Rondo Alla Turca (Ryu\* Remix) (yeahyeahyeahhh) [Challenging]](https://osu.ppy.sh/beatmapsets/34468#osu/117182)
 - FreeMod
@@ -129,10 +129,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [IOSYS - Tanoshii Yoru no Ochakai - Ringo's Tea Party (Frey) [Extra]](https://osu.ppy.sh/beatmapsets/374858#osu/821165)
   2. [Tatsh - 24th Century BOY (Takos) [Another]](https://osu.ppy.sh/beatmapsets/42997#osu/135051)
-- HardRock
+- Hard Rock
   1. [ZUN remixed by LeaF - Resurrection Spell (Muya) [Another]](https://osu.ppy.sh/beatmapsets/292644#osu/662064)
   2. [Tristam & Braken - Frame of Mind (Fort) [Chill]](https://osu.ppy.sh/beatmapsets/177523#osu/581141)
-- DoubleTime
+- Double Time
   1. [Elvenking - The Winter Wake (Snepif) [AlrdyExists' Blizzard]](https://osu.ppy.sh/beatmapsets/32499#osu/107747)
   2. [ChouCho - My dear friend (Delis) [Insane]](https://osu.ppy.sh/beatmapsets/206079#osu/486131)
 - FreeMod
@@ -152,10 +152,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [fumika - Umikaze no Brave (Evil_Twilight) [Believe]](https://osu.ppy.sh/beatmapsets/66346#osu/193641)
   2. [Hiroyuki Sawano feat. Mika Kobayashi - Before My Body Is Dry (tomatomerde remix) (ProfessionalBox) [Insane]](https://osu.ppy.sh/beatmapsets/310717#osu/694350)
-- HardRock
+- Hard Rock
   1. [ginkiha - EOS (alacat) [RLC's Another]](https://osu.ppy.sh/beatmapsets/151720#osu/421532)
   2. [KOTOKO - Oboetete li yo (cRyo[iceeicee]) [Insane]](https://osu.ppy.sh/beatmapsets/53791#osu/163836)
-- DoubleTime
+- Double Time
   1. [FELT - Sky Gate (Frostmourne) [Lunatic]](https://osu.ppy.sh/beatmapsets/129534#osu/327256)
   2. [Nekomata Master - CALL (Muya) [Another]](https://osu.ppy.sh/beatmapsets/39578#osu/126240)
 - FreeMod
@@ -175,10 +175,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [senya - Hitomi ni Kakusareta Omoi (Satellite) [Sellenite's Lunatic]](https://osu.ppy.sh/beatmapsets/398921#osu/873811)
   2. [Halozy - Little Summer Party (Takos) [Lunatic]](https://osu.ppy.sh/beatmapsets/39537#osu/125957)
-- HardRock
+- Hard Rock
   1. [senya - Kataomoi no Bigaku (Satellite) [N a s y a's Lunatic]](https://osu.ppy.sh/beatmapsets/363504#osu/798932)
   2. [DJ S3RL feat. Tamika - Rainbow Girl ([Te][Amo]) [Insane]](https://osu.ppy.sh/beatmapsets/67105#osu/891250)
-- DoubleTime
+- Double Time
   1. [07th Expansion - lixAxil (La Cataline) [Hard]](https://osu.ppy.sh/beatmapsets/37627#osu/120864)
   2. [EastNewSound - Oueisaien (hoLysoup) [Lunatic]](https://osu.ppy.sh/beatmapsets/46483#osu/158663)
 - FreeMod
@@ -294,7 +294,7 @@ Monday, 5 September 2016:
 - After warm ups (should there be any), both players will `!roll` to decide who bans/picks first. Loser of the roll bans first and winner of the roll picks first.
 - Each player is allowed one ban per match. The tiebreaker cannot be banned.
 - If a player disconnects during the match in which the outcome would have been different. A rematch can be offered under the Referee’s discretion.
-- Score V2 will be used.
+- ScoreV2 will be used.
 - Free Mod can only be played with the mod combinations: NoMod, HD, HR, or HDHR.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

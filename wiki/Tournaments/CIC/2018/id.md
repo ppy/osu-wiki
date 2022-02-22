@@ -79,12 +79,12 @@ tags:
   4. [USAO - BroGamer (Emiru) \[Razor's Deluge\]](https://osu.ppy.sh/beatmapsets/701726#fruits/1559940)
   5. [maras k - Play Time!! (Reol) \[Let's Play\]](https://osu.ppy.sh/beatmapsets/345325#osu/762631)
   6. [Kano - Sukisuki Zecchoushou (Loreley) \[Lovesickness\]](https://osu.ppy.sh/beatmapsets/484532#fruits/1047758)
-- HardRock
+- Hard Rock
   1. [Camellia - Proluvies (Sinnoh) \[Contingency\]](https://osu.ppy.sh/beatmapsets/657459#fruits/1392594)
   2. [a_hisa - Tokei no Heya to Seishin Sekai (Spectator) \[Kyuare Spec's  Overdose\]](https://osu.ppy.sh/beatmapsets/639409#fruits/1356120)
   3. [xi - Glorious Crown (Monstrata) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/558694#osu/1181761)
   4. [SHK - Death Moon II (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/472158#fruits/1009022)
-- DoubleTime
+- Double Time
   1. [Team "Hanayamata" - Yorokobi Synchronicity (Xinely) \[Cherry Blossom\]](https://osu.ppy.sh/beatmapsets/368312#fruits/872349)
   2. [Nekomata Master - Sennen no Kotowari (Sinnoh) \[Rain\]](https://osu.ppy.sh/beatmapsets/695431#fruits/1475261)
   3. [Sayuri - Mikazuki (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/481703#fruits/1028017)
@@ -107,12 +107,12 @@ tags:
   3. [An - Saigo (Rocma) \[Collaboration Finale\]](https://osu.ppy.sh/beatmapsets/631747#fruits/1744398)
   4. [Powerless - Frey's Philosophy (My Angel Azusa) \[MASTER\]](https://osu.ppy.sh/beatmapsets/550588#fruits/1166435)
   5. [ZYTOKINE - Dancing Dollz feat. cold kiss - REDALiCE Remix (MaridiuS) \[Vanity\]](https://osu.ppy.sh/beatmapsets/690966#fruits/1464221)
-- HardRock
+- Hard Rock
   1. [sky\_delta - REVOLVER (Minato Yukina) \[Rocma's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/814085#fruits/1726338)
   2. [Project Grimoire - Brionac \~Lugh Lamhfhata\~ (Rocma) \[Overdose\]](https://osu.ppy.sh/beatmapsets/734296#fruits/1555121)
   3. [ak+q - Ignotus (Ryuusei Aika) \[Dynamix's QUANTUM\]](https://osu.ppy.sh/beatmapsets/761244#fruits/1624291)
   4. [07th Expansion - liberatedliberater (Shiirn) \[Episode 5\]](https://osu.ppy.sh/beatmapsets/22472#fruits/78367)
-- DoubleTime
+- Double Time
   1. [Umeboshi Chazuke - Owari to Hajimari no Oto (- Syamu -) \[AJamez' Light Rain\]](https://osu.ppy.sh/beatmapsets/786403#fruits/1723948)
   2. [Mili - world.execute(me); (Hareimu) \[catch.overdose(Spectator);\]](https://osu.ppy.sh/beatmapsets/730457#fruits/1541587)
   3. [senya - Shounen yo, Tokkou no Sakigake to Nare (-Mo-) \[Narcissu's Insane\]](https://osu.ppy.sh/beatmapsets/562169#fruits/1188553)
@@ -134,11 +134,11 @@ tags:
   2. [Dormir - Cookie Bouquets (Fii) \[Overdose\]](https://osu.ppy.sh/beatmapsets/725119#fruits/1531076)
   3. [TJ.Hangneil - Kamui (7odoa) \[SHD\]](https://osu.ppy.sh/beatmapsets/39017#fruits/124664)
   4. [Thaehan - Help (Nozhomi) \[Virtuosu!\]](https://osu.ppy.sh/beatmapsets/630407#fruits/1330828)
-- HardRock
+- Hard Rock
   1. [sakuzyo - Altale (alienflybot) \[AFB's Rain\]](https://osu.ppy.sh/beatmapsets/228815#fruits/724582)
   2. [C-Show - On the FM (Hareimu) \[Reimu's Overdose\]](https://osu.ppy.sh/beatmapsets/609679#fruits/1413790)
   3. [M2U - Moon Halo (Minorsek) \[Namki's Insane\]](https://osu.ppy.sh/beatmapsets/782778#fruits/1666092)
-- DoubleTime
+- Double Time
   1. [Syaro(CV.Uchida Maaya) - Caffeine Fighter (Caffeine Fighter) \[Rain\]](https://osu.ppy.sh/beatmapsets/538511#fruits/1141721)
   2. [Kitsune^2 - Rainbow Tylenol (Gero) \[Ascandence's Platter\]](https://osu.ppy.sh/beatmapsets/396643#fruits/916600)
   3. [zts - the executioner (-kevincela-) \[Insane\]](https://osu.ppy.sh/beatmapsets/342360#fruits/756752)
@@ -158,10 +158,10 @@ tags:
   2. [Giga-P - -BWW SCREAM- (Seph) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/307260#fruits/687502)
   3. [Giga-P - Okochama Sensou (tutuhaha) \[Kyversible's Insane\]](https://osu.ppy.sh/beatmapsets/131818#fruits/332192)
   4. [BilliumMoto - HDHR (RyoKazuka) \[Expert\]](https://osu.ppy.sh/beatmapsets/569888#fruits/1208035)
-- HardRock
+- Hard Rock
   1. [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - Ugoku, Ugoku (TV Size) (wonjae) \[One! Two! Three!\]](https://osu.ppy.sh/beatmapsets/706307#fruits/1493565)
   2. [FLOOR LEGENDS -KAC 2012- - KAC 2012 ULTIMATE MEDLEY -HISTORIA SOUND VOLTEX- (Gamu) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/296505#fruits/666884)
-- DoubleTime
+- Double Time
   1. [yuki. - Nadeshiko Sensation (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/693123#fruits/1466622)
   2. [zts - miragecoordinator (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/652668#fruits/1383875)
 - Hidden
@@ -179,11 +179,11 @@ tags:
   2. [Warak - Christmas Memories (Ascendance) \[Spec's Memory\]](https://osu.ppy.sh/beatmapsets/536029#fruits/1135299)
   3. [fourfolium - SAKURA Skip (Doormat) \[HB & Sotarks' Insane\]](https://osu.ppy.sh/beatmapsets/488619#fruits/1053188)
   4. [Memme - Geurida (NeilPerry) \[LCFC's Insane\]](https://osu.ppy.sh/beatmapsets/688183#fruits/1459309)
-- HardRock
+- Hard Rock
   1. [Oskar Schuster - Fjarlaegur (Cypix Remix) (Jusenkyo) \[Platter\]](https://osu.ppy.sh/beatmapsets/477718#fruits/1026087)
   2. [Chata - Winter Bells (lit120) \[Sinnoh's Platter\]](https://osu.ppy.sh/beatmapsets/696064#fruits/1488839)
   3. [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[gowww\]](https://osu.ppy.sh/beatmapsets/28332#fruits/120366)
-- DoubleTime
+- Double Time
   1. [Denkishiki Karen Ongaku Shuudan - Endless ripples (Hareimu) \[Benny's Platter\]](https://osu.ppy.sh/beatmapsets/433029#fruits/1163611)
   2. [Rabpit - Sacred (ursa) \[Platter\]](https://osu.ppy.sh/beatmapsets/92456#fruits/341590)
   3. [Camellia feat. Nanahira - Seashore on the moon- (Mir) \[LMT's Hard\]](https://osu.ppy.sh/beatmapsets/712171#fruits/1519257)

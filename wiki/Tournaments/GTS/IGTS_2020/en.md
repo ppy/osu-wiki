@@ -156,7 +156,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the map pack here! (101 MB)](https://mega.nz/file/fOQRXQJB#90Kjf6cGPI-boeKG_3jigMF6jlNXK7tT2yZQJuebOrY)**
 
-- DoubleTime
+- Double Time
   1. [Reol - Drop Pop Candy (Rumovik) \[Rumovik's Oni\]](https://osu.ppy.sh/beatmapsets/417257#taiko/903582)
   2. [Yunomi - Jellyfish (feat. Roller Girl) (kamaboko117) \[Oni\]](https://osu.ppy.sh/beatmapsets/901952#taiko/1887699)
 - FreeMod
@@ -176,7 +176,7 @@ This competition has come to an end and resulted in the following podium:
   14. [Umeboshi Chazuke - Dutch Courage! (Skull Kid) \[iceOC\]](https://osu.ppy.sh/beatmapsets/845412#taiko/1772272)
   15. [BVB - My Awesome Flat Chest On The Ground (Nofool) \[Special Oni\]](https://osu.ppy.sh/beatmapsets/706552#taiko/1493980)
   16. [Peggy Suave - Best Buns In Town (Nofool) \[Special Oni\]](https://osu.ppy.sh/beatmapsets/860858#taiko/1801106)
-- HalfTime
+- Half Time
   1. [VINRG - Do It Now (\_Rise) \[100%\]](https://osu.ppy.sh/beatmapsets/1082788#taiko/2264890)
   2. [tarolabo - NijiBishox1HadairoSenjoSenjo (Nyan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/328741#taiko/751051)
 - Tiebreaker
@@ -196,10 +196,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Euchaeta - Kokoro (ailv) \[Ayyri's Oni\]](https://osu.ppy.sh/beatmapsets/728885#taiko/1569395)
   2. [fallen shepherd feat. RabbiTon Strings - ENDYMION (Capu) \[Lite Oni\]](https://osu.ppy.sh/beatmapsets/1078749#taiko/2329083)
-- HardRock
+- Hard Rock
   1. [Cranky - Libera me (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/757813#taiko/1594141)
   2. [DM Ashura - Ignis Fatuus (Will o'the Wisp) (Midnaait) \[2199's Oni\]](https://osu.ppy.sh/beatmapsets/871553#taiko/1836782)
-- DoubleTime
+- Double Time
   1. [ALI - Wild Side (Ney) \[HiroK's Oni: Canis\]](https://osu.ppy.sh/beatmapsets/1090317#taiko/2290635)
   2. [Panda Eyes - On My Own (Cynplytholowazy) \[Fapu's Oni\]](https://osu.ppy.sh/beatmapsets/1065837#taiko/2233195)
 - FreeMod
@@ -223,10 +223,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [sasakure.UK - Epitorica no Matsuri (tasuke912) \[yassu-'s Oni\]](https://osu.ppy.sh/beatmapsets/511420#taiko/1110609)
   2. [Toby Fox (remixed by Camellia) - Spider Dance (Camellia Remix) (hikiko-) \[Oni\]](https://osu.ppy.sh/beatmapsets/565226#taiko/1512798)
-- HardRock
+- Hard Rock
   1. [Function Phantom - Neuronecia (tasuke912) \[Quartic\]](https://osu.ppy.sh/beatmapsets/827822#taiko/1773125)
   2. [An - LittleGameStar (Bedwyr Aorta) \[Eyenine's Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1207331#taiko/2514216)
-- DoubleTime
+- Double Time
   1. [x0o0x\_ -  (nyanmi-1828) \[;\]](https://osu.ppy.sh/beatmapsets/1128229#taiko/2358776)
   2. [Hanatan - Romeo and Cinderella (Bedwyr Aorta) \[ll-oscar's ll-taiko (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1207333#taiko/2514218)
 - FreeMod
@@ -250,10 +250,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [SHK - Super Fantasy (aabc271) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/541523#taiko/1148213)
   2. [Culprate - Yellow (A Second Glimpse) (Ulqui) \[Oni\]](https://osu.ppy.sh/beatmapsets/589814#taiko/1761603)
-- HardRock
+- Hard Rock
   1. [Shiron - Deadly Dolly Dance (Bedwyr Aorta) \[komasy's Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1202631#taiko/2504548)
   2. [DECO\*27 - Ghost Rule feat. Hatsune Miku (Bedwyr Aorta) \[mintong89's Taiko Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1202626#taiko/2504540)
-- DoubleTime
+- Double Time
   1. [meganeko - Computer Blues (Axer) \[Vulkin's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1147128#taiko/2434870)
   2. [Sorry about my face - 161914 (vrnl) \[muzukashii\]](https://osu.ppy.sh/beatmapsets/832971#taiko/1746027)
 - FreeMod
@@ -276,10 +276,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Xceon - Fuyutsubaki feat. Kanae Asaba (Charlotte) \[Vulkin's Oni\]](https://osu.ppy.sh/beatmapsets/827227#taiko/2260330)
   2. [Camellia - Ultimate Ascension (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/760523#taiko/1957589)
-- HardRock
+- Hard Rock
   1. [M2U feat. NICODE - Breach (\_DUSK\_) \[Oni\]](https://osu.ppy.sh/beatmapsets/957893#taiko/2006052)
   2. [REDALiCE vs USAO - SAIKYO STRONGER (MMzz) \[Chromoxx' Muzukashii\]](https://osu.ppy.sh/beatmapsets/1145432#taiko/2409492)
-- DoubleTime
+- Double Time
   1. [KNOWER - Overtime (Zetera) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/927890#taiko/2168075)
   2. [JIN feat. Yoshida Takumi (phatmans after school) - Kuusou Forest (Zhuosh) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1131091#taiko/2364202)
 - FreeMod
@@ -302,10 +302,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Remixed by DJ Command - Mermaid girl -Akiba Koubou MIX- (Nishizumi) \[Oni\]](https://osu.ppy.sh/beatmapsets/340132#taiko/752428)
   2. [Camellia - Racemization (Squigly) \[Jerry's Muzukashii\]](https://osu.ppy.sh/beatmapsets/373363#taiko/896660)
-- HardRock
+- Hard Rock
   1. [Zekk - Foresight (Stingy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1149296#taiko/2399454)
   2. [BeatMARIO - Night of Knights (USAO Remix) (Nishizumi) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1093282#taiko/2287760)
-- DoubleTime
+- Double Time
   1. [O2i3 - How to make Slime (Faputa) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1135207#taiko/2372527)
   2. [Yunomi - Tokyo Snorkel (feat. nicamoq) (\[R\]) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/979346#taiko/2049587)
 - FreeMod
@@ -327,10 +327,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [StripE - FIRE FIRE (roufou) \[Oni\]](https://osu.ppy.sh/beatmapsets/348579#taiko/2334545)
   2. [xi - Quietus Ray (\_DUSK\_) \[yzrin's Muzukashii\]](https://osu.ppy.sh/beatmapsets/776093#taiko/1668226)
-- HardRock
+- Hard Rock
   1. [Arcaea Sound Team against. ETIA. - Singularity VVVIP (Raytoly) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1139960#taiko/2382097)
   2. [ianmirror - yahirodono (Michiru) \[2199's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1005489#taiko/2121096)
-- DoubleTime
+- Double Time
   1. [Tanemura Koyori (CV: Oowada Hitomi) - Akairo Little Leader (yuki\_momoiro722) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/994248#taiko/2081704)
   2. [Yuzuhiko - Sasha (Bedwyr Aorta) \[Mystyk's Muzukashii (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1187569#taiko/2474893)
 - FreeMod
@@ -349,9 +349,9 @@ This competition has come to an end and resulted in the following podium:
   2. [The Flashbulb - Lawn Wake IX (yassu-) \[Oni\]](https://osu.ppy.sh/beatmapsets/662638#taiko/1402659)
 - Hidden
   1. [DROELOE - Backbone (feat. Nevve) (Lyawi) \[Oni\]](https://osu.ppy.sh/beatmapsets/727710#taiko/1536474)
-- HardRock
+- Hard Rock
   1. [t+pazolite feat. Rizna - Buzy Lake (Suzux) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/980094#taiko/2052901)
-- DoubleTime
+- Double Time
   1. [Ayu Ting Ting - Sambalado (Volta) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/542425#taiko/1630672)
 
 ## Match results
@@ -655,12 +655,12 @@ Sunday, 14 June 2020:
 ### Mappool instructions
 
 1. There will be separate mappool for each stages.
-2. The Qualifiers pool will be different from all the other round as it will have a format of 2 NoMod, 1 Hidden, 1 HardRock, and 1 DoubleTime maps.
+2. The Qualifiers pool will be different from all the other round as it will have a format of 2 NoMod, 1 Hidden, 1 Hard Rock, and 1 Double Time maps.
 3. The loser's bracket will play on the same mappool as the winner's bracket of the same weekend.
-4. Each mappool consists of 6 brackets: NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker.
+4. Each mappool consists of 6 brackets: NoMod, Hidden, Hard Rock, Double Time, FreeMod, and Tiebreaker.
 5. The Group Stage mappool will consist of 14 maps, the Round of 16 and the Quarterfinals will consist of 15 maps, the Semifinals, the Finals, and the Grand Finals will consist of 16 maps.
-6. The size of the Hidden, HardRock, and DoubleTime brackets will be 2 and 3 for the FreeMod bracket in all stages.
-7. The FreeMod bracket is played with FreeMod activated. Every individual player can pick **Hidden, HardRock, or both. At least one player of each team must have at least one mod activated**.
+6. The size of the Hidden, Hard Rock, and Double Time brackets will be 2 and 3 for the FreeMod bracket in all stages.
+7. The FreeMod bracket is played with FreeMod activated. Every individual player can pick **Hidden, Hard Rock, or both. At least one player of each team must have at least one mod activated**.
 8. The Tiebreaker will be played under FreeMod conditions but it won't be mandatory pick.
 9. The mappool for each stage will be showcased in the [GTS' channel](#links) a week before.
 

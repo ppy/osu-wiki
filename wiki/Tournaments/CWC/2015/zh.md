@@ -131,12 +131,12 @@ outdated: true
   2. [Apocalyptica - Hall of the Mountain King (pishifat) \[Extra\]](https://osu.ppy.sh/beatmapsets/219813#fruits/514597)
   3. [Hanazawa Kana - Renai Circulation (Full ver.) (DJPop) \[TAG2\]](https://osu.ppy.sh/beatmapsets/12563#fruits/48874)
   4. [ChouchouP - Tsukimiyo Rabbit (Zero\_\_wind) \[Tsuki\]](https://osu.ppy.sh/beatmapsets/122342#fruits/312959)
-- HardRock
+- Hard Rock
   1. [IOSYS - Border of Death (dksslqj) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14107#fruits/53380)
   2. [t+pazolite - chipscape (Shiirn) \[Ragnarok\]](https://osu.ppy.sh/beatmapsets/27752#fruits/95382)
   3. [Awake - Supernova (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmapsets/42909#fruits/138008)
   4. [Hanazawa Kana - Mousou Express (Remix) (Spectator) \[EX\]](https://osu.ppy.sh/beatmapsets/228539#fruits/532153)
-- DoubleTime
+- Double Time
   1. [Matsumoto Sara - Ito Hakanaki Hikari no Gotoku (Mixagji) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/120255#fruits/308350)
   2. [Megpoid GUMI - For my soul (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/22509#fruits/80102)
   3. [HTT - Girls in Wonderland (wcx19911123) \[Insane\]](https://osu.ppy.sh/beatmapsets/34427#fruits/111902)
@@ -158,12 +158,12 @@ outdated: true
   2. [44teru-k - F.I (Jacob) \[Extra445\]](https://osu.ppy.sh/beatmapsets/47664#fruits/155235)
   3. [Beautiful Day - V3 (ignorethis) \[Impossible\]](https://osu.ppy.sh/beatmapsets/4622#fruits/41313)
   4. [M2U - Placebo Dying (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/60081#fruits/179758)
-- HardRock
+- Hard Rock
   1. [ESTi - HELIX (Edit ver.) (Hollow Wings) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/194910#fruits/470966)
   2. [Hatsune Miku - Reversible Doll (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/22773#fruits/78913)
   3. [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#fruits/99342)
   4. [Yuki Kajiura - Mezame (mercury2004) \[Mai\]](https://osu.ppy.sh/beatmapsets/22659#fruits/78049)
-- DoubleTime
+- Double Time
   1. [Denji Sano - Taiko Time (lepidopodus) \[Insane\]](https://osu.ppy.sh/beatmapsets/24320#fruits/84911)
   2. [Katy Perry - E.T. (La Cataline) \[Futuristic\]](https://osu.ppy.sh/beatmapsets/36077#fruits/116708)
   3. [U - Ha-tenya? (biwako) \[Insane\]](https://osu.ppy.sh/beatmapsets/37313#fruits/120080)
@@ -185,12 +185,12 @@ outdated: true
   2. [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#fruits/93021)
   3. [Marika - Knowing short ver. (Konei) \[Rain\]](https://osu.ppy.sh/beatmapsets/146780#fruits/572867)
   4. [CLIFF EDGE - Endless Tears feat. Nakamura Maiko (CLSW) \[Tears\]](https://osu.ppy.sh/beatmapsets/197689#fruits/468824)
-- HardRock
+- Hard Rock
   1. [Kagamine Rin - Oni Kanojo (val0108) \[gow's Insane\]](https://osu.ppy.sh/beatmapsets/23616#fruits/86245)
   2. [doriko feat. Hatsune Miku - Paradise Cage (KanbeKotori) \[Insane\]](https://osu.ppy.sh/beatmapsets/23483#fruits/80384)
   3. [sun3 - Higan Retour (saymun) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14464#fruits/54373)
   4. [Mili - Utopiosphere (Spectator) \[Ecstasia\]](https://osu.ppy.sh/beatmapsets/187177#fruits/446769)
-- DoubleTime
+- Double Time
   1. [Yousei Teikoku - Deep Sea (EvilElvisV2) \[LC\]](https://osu.ppy.sh/beatmapsets/104260#fruits/274365)
   2. [Giga-P - Electric Angel (pkmnyab) \[Insane\]](https://osu.ppy.sh/beatmapsets/146794#fruits/363639)
   3. [GUMI - PANDA HERO (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/25461#fruits/86266)
@@ -214,12 +214,12 @@ outdated: true
   2. [Caravan Palace - Rock It For Me (tiper) \[Insane\]](https://osu.ppy.sh/beatmapsets/69041#fruits/212118)
   3. [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](https://osu.ppy.sh/beatmapsets/111825#fruits/290733)
   4. [Cascada - What Hurts The Most (Nightcore Remix) (Lunah) \[Insane\]](https://osu.ppy.sh/beatmapsets/20239#fruits/70764)
-- HardRock
+- Hard Rock
   1. [IOSYS - Power of Dream (Night Fever Refix) (Kite) \[Power of Stream\]](https://osu.ppy.sh/beatmapsets/27152#fruits/91215)
   2. [Meiko - Leave The Lights On (KROT Remix) (Moway) \[Insane\]](https://osu.ppy.sh/beatmapsets/56633#fruits/171126)
   3. [fripSide - only my railgun (Full Ver.) (S i R i R u) \[Level 5\]](https://osu.ppy.sh/beatmapsets/12768#fruits/47670)
   4. [Rameses B - Flaklypa (-kevincela-) \[Insane\]](https://osu.ppy.sh/beatmapsets/190390#fruits/453358)
-- DoubleTime
+- Double Time
   1. [Tatsh - Fuushi Kaden (happy30) \[Hard\]](https://osu.ppy.sh/beatmapsets/15486#fruits/56044)
   2. [Hatsuki Yura - HAMELN (karenying) \[Insane\]](https://osu.ppy.sh/beatmapsets/43446#fruits/136322)
   3. [07th Expansion - miragecoordinator (La Cataline) \[Hard\]](https://osu.ppy.sh/beatmapsets/31116#fruits/102426)
@@ -243,12 +243,12 @@ outdated: true
   2. [sta - Iris (ampzz) \[Insane\]](https://osu.ppy.sh/beatmapsets/94917#fruits/255163)
   3. [Rchetype - V Is For (Blue Dragon) \[Insane\]](https://osu.ppy.sh/beatmapsets/111914#fruits/290919)
   4. [Goose house - 18sai (mingmichael) \[Rain\]](https://osu.ppy.sh/beatmapsets/242856#fruits/560408)
-- HardRock
+- Hard Rock
   1. [Chata - Dango Daikazoku -TV animation Ver.- (Pappy) \[Platter\]](https://osu.ppy.sh/beatmapsets/214978#fruits/533077)
   2. [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Hard\]](https://osu.ppy.sh/beatmapsets/83333#fruits/230175)
   3. [Kino Nei - Ougon Musou Kyoku \~Konjiki no Chi ni Somaru Mae ni\~ (Suzully) \[Golden Truth\]](https://osu.ppy.sh/beatmapsets/24903#fruits/84566)
   4. [TERRA - ever snow (ouranhshc) \[Hard\]](https://osu.ppy.sh/beatmapsets/23477#fruits/81789)
-- DoubleTime
+- Double Time
   1. [October - Time to Love (CLSW) \[Posthumous\]](https://osu.ppy.sh/beatmapsets/247499#fruits/569690)
   2. [BURTON - Shinonomegiku (\[\_Crystal\]) \[Kurokami's Platter\]](https://osu.ppy.sh/beatmapsets/152709#fruits/382311)
   3. [Drop - Yunagi Rinne (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmapsets/14460#fruits/52900)
@@ -405,7 +405,7 @@ Sunday, 10\. May 2015
 1. osu! Catch the Beat World 是**基于国家/地区之间的**3v3比赛。
 2. 每场比赛的比赛用图将会在比赛日之前的一个星期日公布。比赛中只能选择公布出来的图。
    - 有一张图是专门用于决胜局。这张图只会在决胜局出现。
-   - 同样会有 [Hidden](/wiki/Game_modifier/Hidden)、[HardRock](/wiki/Game_modifier/Hard_Rock)、[DoubleTime 的分类比赛图](/wiki/Game_modifier/Double_Time)。
+   - 同样会有 [Hidden](/wiki/Game_modifier/Hidden)、[Hard Rock](/wiki/Game_modifier/Hard_Rock)、[Double Time 的分类比赛图](/wiki/Game_modifier/Double_Time)。
 3. 比赛日程将会由赛事管理小组公布（暂未公布）。
 4. 如果没有工作人员或者裁判在，比赛会被延期。
 5. 如果有玩家失败，失败的玩家的分数将不会计算分数。
@@ -490,14 +490,14 @@ Sunday, 10\. May 2015
 
 1. 小组赛、16强、四分之一决赛、半决赛和决赛分别会有一个图池。
    1. 决赛第一周和第二周使用同一个图池。
-2. 每个图池由四个 mod 的图组组成：NoMod（无mod）、[Hidden](/wiki/Game_modifier/Hidden)、[HardRock](/wiki/Game_modifier/Hard_Rock) 以及 [DoubleTime](/wiki/Game_modifier/Double_Time) 。
+2. 每个图池由四个 mod 的图组组成：NoMod（无mod）、[Hidden](/wiki/Game_modifier/Hidden)、[Hard Rock](/wiki/Game_modifier/Hard_Rock) 以及 [Double Time](/wiki/Game_modifier/Double_Time) 。
 3. 每个图池由总共19张图组成。
 4. 每个图池里都有一张决胜 (tiebreaker) 图。
 5. NoMod 图组是在无 mod 的情况下进行比赛的。
-6. 在 Hidden、HardRock 和 DoubleTime 模式里，玩家必须打开相应的 mod
-   1. 选手可以在 HardRock 或 DoubleTime 图组中另外加选 Hidden mod.
+6. 在 Hidden、Hard Rock 和 Double Time 模式里，玩家必须打开相应的 mod
+   1. 选手可以在 Hard Rock 或 Double Time 图组中另外加选 Hidden mod.
 7. 决胜图 (tiebreaker) 可以使用任意 mod 进行比赛。
-   1. 在玩决胜图时，玩家可以开 [HardRock](/wiki/Game_modifier/Hard_Rock)、[Hidden](/wiki/Game_modifier/Hidden) 或者两个一起开。
+   1. 在玩决胜图时，玩家可以开 [Hard Rock](/wiki/Game_modifier/Hard_Rock)、[Hidden](/wiki/Game_modifier/Hidden) 或者两个一起开。
 8. NoMod 图组在每阶段的图池中会有6张图。
 9. 各其他模式的图组会在每阶段的图池中各有4张。
 

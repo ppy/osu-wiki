@@ -81,10 +81,10 @@ The OUKT1 was run by various community members
 - Hidden
   1. [Renard - Blue Night (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmapsets/31333#osu/116006)
   2. [Pendulum - The Island (MaxNRG Remix) (Tshemmp) \[Insane\]](https://osu.ppy.sh/beatmapsets/48284#osu/149388)
-- HardRock
+- Hard Rock
   1. [Dio ft. Sef - Tijdmachine (GladiOol) \[Lesjuh! '11\]](https://osu.ppy.sh/beatmapsets/6997#osu/129875)
   2. [Wotamin - Gigantic O.T.N (Star Stream) \[Guy's Extra\]](https://osu.ppy.sh/beatmapsets/80214#osu/226279)
-- DoubleTime
+- Double Time
   1. [Shihori - Magic Girl !! (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/53519#osu/163054)
   2. [07th Expansion - dreamenddischarger (Regou) \[Insane\]](https://osu.ppy.sh/beatmapsets/29886#osu/100023)
 - Tiebreaker
@@ -105,10 +105,10 @@ The OUKT1 was run by various community members
 - Hidden
   1. [B.o.B feat. Hayley Williams - Airplanes (Feint Remix) (Snepif) \[Shooting Stars\]](https://osu.ppy.sh/beatmapsets/83494#osu/230523)
   2. [PESS vs t.A.T.u. - All The Things She Said (DnB Remix) (spboxer3) \[Stressboxer\]](https://osu.ppy.sh/beatmapsets/73185#osu/295985)
-- HardRock
+- Hard Rock
   1. [Bomfunk MC's - Freestyler (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/35629#osu/115352)
   2. [DM Ashura - Classical Insanity (Louis Cyphre) \[Presto\]](https://osu.ppy.sh/beatmapsets/79149#osu/221677)
-- DoubleTime
+- Double Time
   1. [Train - 50 Ways to Say Goodbye (mancusojuanmattos) \[Insane\]](https://osu.ppy.sh/beatmapsets/92893#osu/250926)
   2. [Yoomiii - Rhythm Of Love (Jemmmmy) \[Insane\]](https://osu.ppy.sh/beatmapsets/102071#osu/269963)
 - Tiebreaker
@@ -129,10 +129,10 @@ The OUKT1 was run by various community members
 - Hidden
   1. [Big Giant Circles feat. some1namedjeff - Thunderstruck (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/73267#osu/208776)
   2. [kors k - smooooch (ampzz) \[Another\]](https://osu.ppy.sh/beatmapsets/64535#osu/189861)
-- HardRock
+- Hard Rock
   1. [Fear, and Loathing in Las Vegas - Take Me Out!! ([ Sana ]) \[Insane\]](https://osu.ppy.sh/beatmapsets/115358#osu/298176)
   2. [Masayoshi Minoshima - Necro Fantasia (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmapsets/89810#osu/243983)
-- DoubleTime
+- Double Time
   1. [07th Expansion - goldenslaughterer (La Cataline) \[Hard\]](https://osu.ppy.sh/beatmapsets/37729#taiko/121197)
   2. [Lily - Fatal Moment (Kochiya Sanae) \[Insane\]](https://osu.ppy.sh/beatmapsets/21884#osu/76746)
 - Tiebreaker
@@ -152,10 +152,10 @@ The OUKT1 was run by various community members
 - Hidden
   1. [Tatsh - HEAVENLY MOON (Dark Fang) \[Extreme\]](https://osu.ppy.sh/beatmapsets/46706#osu/150621)
   2. [MuryokuP - Catastrophe (meiikyuu) \[Cataclysm\]](https://osu.ppy.sh/beatmapsets/72740#osu/207659)
-- HardRock
+- Hard Rock
   1. [ONE OK ROCK - The Beginning (Kuria) \[Insane\]](https://osu.ppy.sh/beatmapsets/71561#osu/205022)
   2. [nano - Exist (LunarSakuya) \[Existence\]](https://osu.ppy.sh/beatmapsets/70257#osu/202072)
-- DoubleTime
+- Double Time
   1. [Epik High - Fly (yeahyeahyeahhh) \[Fly\]](https://osu.ppy.sh/beatmapsets/56508#osu/170824)
   2. [Celldweller - The Best It's Gonna Get (Vass_Bass) \[Perfect-RJ\]](https://osu.ppy.sh/beatmapsets/36529#osu/135609)
 - Tiebreaker
@@ -173,10 +173,10 @@ The OUKT1 was run by various community members
 - Hidden
   1. [Linked Horizon - Guren no Yumiya (TV Size) (Kuria) \[Insane\]](https://osu.ppy.sh/beatmapsets/87630#taiko/239265)
   2. [Inoue Marina - Watashi no Ki-mo-chi (TV Size) (ampzz) \[Insane\]](https://osu.ppy.sh/beatmapsets/69347#osu/201560)
-- HardRock
+- Hard Rock
   1. [Eguchi Takahiro - silver temple (LKs) \[Nemis' Insane\]](https://osu.ppy.sh/beatmapsets/59345#osu/181512)
   2. [96Neko - Paintings? Oh, yeah. (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/57393#osu/173015)
-- DoubleTime
+- Double Time
   1. [Muse - Starlight (Aleks719) \[Hard\]](https://osu.ppy.sh/beatmapsets/60159#osu/179947)
   2. [Girls' Generation - I GOT A BOY (Pink Agate) \[Hard\]](https://osu.ppy.sh/beatmapsets/72194#osu/206529)
 - Tiebreaker

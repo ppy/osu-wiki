@@ -96,11 +96,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Wotamin - Gigantic O.T.N  (Star Stream) \[S.S\]](https://osu.ppy.sh/beatmapsets/80214#osu/223397)
   2. [BUTAOTOME - Towa no Maigo (Icekalt) \[Insane\]](https://osu.ppy.sh/beatmapsets/1069288#osu/2239337)
   3. [scop - Keppekishou (tutuhaha) \[Dance\]](https://osu.ppy.sh/beatmapsets/70115#osu/201731)
-- HardRock
+- Hard Rock
   1. [Chikuwa - Jinsei Matatabi (Kuse) \[Expert\]](https://osu.ppy.sh/beatmapsets/1123944#osu/2348578)
   2. [BUTAOTOME - Futari Dake no Kotoba (celerih) \[kiry's Insane\]](https://osu.ppy.sh/beatmapsets/962568#osu/2015481)
   3. [Feryquitous - Strahv (Rumia-) \[Another\]](https://osu.ppy.sh/beatmapsets/634143#osu/1345661)
-- DoubleTime
+- Double Time
   1. [Ito Kanako - Skyclad no Kansokusha (Linada) \[-Tochi's Insane\]](https://osu.ppy.sh/beatmapsets/416129#osu/972844)
   2. [capitaro - Yoiduki Maiuta (Amamiya Yuko) \[Hard\]](https://osu.ppy.sh/beatmapsets/70057#osu/205455)
   3. [Yooh - snow storm -euphoria- (-Chata-) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/156235#osu/382886)
@@ -120,11 +120,11 @@ This competition has come to an end and resulted in the following podium:
   1. [yuikonnu - Souzou Forest (IOException) \[deetz' Extra\]](https://osu.ppy.sh/beatmapsets/1208022#osu/2600667)
   2. [sasakure.UK - Chimera feat. Annabel (PandaHero) \[SMM's Extra\]](https://osu.ppy.sh/beatmapsets/1103928#osu/2445425)
   3. [DECO\*27 feat. marina - Aimai Elegy (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/43248#osu/135804)
-- HardRock
+- Hard Rock
   1. [Ogura Yui - Honey Come!! (Rizia) \[Neria's Insane\]](https://osu.ppy.sh/beatmapsets/374144#osu/858483)
   2. [REDALiCE - taboo tears you up (DJPop) \[Insane\]](https://osu.ppy.sh/beatmapsets/7224#osu/31334)
   3. [Gentle Stick X M2U - Ineffabilis (buhei) \[-kevincela-'s Insane\]](https://osu.ppy.sh/beatmapsets/340903#osu/766504)
-- DoubleTime
+- Double Time
   1. [Nishino Kana - Darling (Giralda) \[Insane\]](https://osu.ppy.sh/beatmapsets/209810#osu/493755)
   2. [Cranky - Hanaarashi (Mirash) \[Hard\]](https://osu.ppy.sh/beatmapsets/751771#osu/1582581)
   3. [Itowokashi - Kanadeai (Flask) \[Hard\]](https://osu.ppy.sh/beatmapsets/1089616#osu/2636970)
@@ -143,11 +143,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE (pkk) \[Kibbleru's Insane\]](https://osu.ppy.sh/beatmapsets/210346#osu/498717)
   2. [Emily Osment - Hero in Me (AJT) \[Silverboxer's Insane\]](https://osu.ppy.sh/beatmapsets/1229079#osu/2644296)
   3. [aran - VOLT (USAO Remix) (C00L) \[NiNo's Insane\]](https://osu.ppy.sh/beatmapsets/732280#osu/1586350)
-- HardRock
+- Hard Rock
   1. [Yunomi - Wakusei Rabbit (feat. TORIENA) (Nathan) \[NiNo's Insane\]](https://osu.ppy.sh/beatmapsets/504171#osu/1079573)
   2. [CELLON. - Labyrinth of Darkness (Mir) \[Insane\]](https://osu.ppy.sh/beatmapsets/778383#osu/1639264)
   3. [Faiha - Cari Pokemon (Speed Up Ver.) (ezek) \[Banyak Pokemon!\]](https://osu.ppy.sh/beatmapsets/613128#osu/1293720)
-- DoubleTime
+- Double Time
   1. [Last Child - Diary Depresiku (Surono) \[Grim Rapper's Broken Home\]](https://osu.ppy.sh/beatmapsets/350305#osu/1225282)
   2. [Cranky - Feline, the White... (appleeaterx) \[Hard\]](https://osu.ppy.sh/beatmapsets/751773#osu/1582590)
   3. [Hana - Gekka Jasmine (2014ver.) (PinkHeart) \[Frostmourne's Hard\]](https://osu.ppy.sh/beatmapsets/408745#osu/1022317)
@@ -164,10 +164,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [REOL - 404 not found (SnowNiNo\_) \[Collab Light Insane\]](https://osu.ppy.sh/beatmapsets/534116#osu/1271485)
   2. [Minori Chihara - Michishirube (Kibbleru) \[Sentimental\]](https://osu.ppy.sh/beatmapsets/725514#osu/1531858)
-- HardRock
+- Hard Rock
   1. [Okazaki Taiiku - Kimi no Bouken (TV Size) (Kroytz) \[Shunao's Hard\]](https://osu.ppy.sh/beatmapsets/874835#osu/1828345)
   2. [James Landino - Hide And Seek (Mirash) \[RLC's Hard\]](https://osu.ppy.sh/beatmapsets/972932#osu/2036905)
-- DoubleTime
+- Double Time
   1. [DJ Fresh (feat. Ellie Goulding) - Flashlight (Radio Edit) (Frey) \[Advanced\]](https://osu.ppy.sh/beatmapsets/274035#osu/672345)
   2. [Ohashi Ayaka - Daisuki. (Yuuma) \[Hard\]](https://osu.ppy.sh/beatmapsets/1122530#osu/2345776)  
 - Tiebreaker
@@ -183,10 +183,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [KyoKa - Kirameki\*Chocolaterie (Left) \[Insane\]](https://osu.ppy.sh/beatmapsets/1106356#osu/2314715)
   2. [beatMARIO - Night of Knights (alacat) \[Hard\]](https://osu.ppy.sh/beatmapsets/352570#osu/830082)
-- HardRock
+- Hard Rock
   1. [fhana - Genzaichi (Sotarks) \[Hard\]](https://osu.ppy.sh/beatmapsets/590023#osu/1249152)
   2. [THE ORAL CIGARETTES - ReI (Sotarks) \[Shunao's Hard\]](https://osu.ppy.sh/beatmapsets/785858#osu/1655441)
-- DoubleTime
+- Double Time
   1. [Kano - Sukisuki Zecchoushou (Loreley) \[Advanced\]](https://osu.ppy.sh/beatmapsets/484532#osu/1233124)
   2. [qfeileadh - breathe (ktgster) \[Advanced\]](https://osu.ppy.sh/beatmapsets/1181778#osu/2543827)
 
@@ -304,13 +304,13 @@ Sunday, 28 February 2021:
 
 ### General rules
 
-1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
+1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#ScoreV2).**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#ganti-jadwal` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+7. **No Fail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they failed the beatmap.
    - Disconnects that occur within a few seconds after the beatmap is started by the referee can be rematched.
 9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most.

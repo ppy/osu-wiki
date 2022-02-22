@@ -92,11 +92,11 @@ This competition has come to an end and resulted in the following podium:
   1. [DJ S3RL - T-T-Techno (feat. Jesskah) (nold\_1702) \[Technonationalism\]](https://osu.ppy.sh/beatmapsets/83560#osu/655794)
   2. [solfa feat. Shimotsuki Haruka - leap in your mind (Lasse) \[Kalibe's Extra\]](https://osu.ppy.sh/beatmapsets/818672#osu/1717390)
   3. [SHK - Death Moon II (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/472158#osu/1009022)
-- HardRock
+- Hard Rock
   1. [TWICE - Candy Pop (iYiyo) \[Lollipop\]](https://osu.ppy.sh/beatmapsets/718989#osu/1518394)
   2. [Sota Fujimori - Move That Body (vita2) \[HARDTECH\]](https://osu.ppy.sh/beatmapsets/920567#osu/1922427)
   3. [Rise Against - Savior (pishifat) \[Insane\]](https://osu.ppy.sh/beatmapsets/509675#osu/1126558)
-- DoubleTime
+- Double Time
   1. [DJ Noriken - Stargazer feat. YUC'e (PSYQUI Remix) (-Jordan-) \[lewdski's Hyper\]](https://osu.ppy.sh/beatmapsets/853867#osu/1784486)
   2. [SoundTeMP - Dreamer's Dream (P A N) \[NatsuPoi's Insane\]](https://osu.ppy.sh/beatmapsets/350381#osu/773229)
   3. [Eru - Heian no Alien (Vass\_Bass) \[Vass-RJ's Insane\]](https://osu.ppy.sh/beatmapsets/116669#osu/300923)
@@ -120,10 +120,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Alfakyun. x Camellia - calling (ProfessionalBox) \[Kalirink's Andantino\]](https://osu.ppy.sh/beatmapsets/523558#osu/1171696)
   2. [DJ TOTTO - Crystalia (Hysteria) \[Owens' Another\]](https://osu.ppy.sh/beatmapsets/691220#osu/1500846)
-- HardRock
+- Hard Rock
   1. [Aya Ishihara - Reset (Full ver) (Bikko) \[Insane\]](https://osu.ppy.sh/beatmapsets/16641#osu/59993)
   2. [RADWIMPS - Hikari (Haruto) \[Ipas' Expert\]](https://osu.ppy.sh/beatmapsets/547714#osu/1171123)
-- DoubleTime
+- Double Time
   1. [07th Expansion - goldenslaughterer (La Cataline) \[Hard\]](https://osu.ppy.sh/beatmapsets/37729#osu/121197)
   2. [Shoujo Fractal - Hatenaki Kaze no Kiseki sae (-Mo-) \[Hard\]](https://osu.ppy.sh/beatmapsets/463701#osu/1015224)
 - FreeMod
@@ -146,10 +146,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Amane - BOOZEHOUND (tieff) \[Lesjuh\]](https://osu.ppy.sh/beatmapsets/9995#osu/39549)
   2. [Camellia - racemization (Squigly) \[deetz' Insane\]](https://osu.ppy.sh/beatmapsets/373363#osu/897862)
-- HardRock
+- Hard Rock
   1. [senya - Akatsuki no Suiheisen ni (Satellite) \[Zweib's Insane\]](https://osu.ppy.sh/beatmapsets/242360#osu/559448)
   2. [BlackY vs. Yooh - HAVOX (Timorisu) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/352555#osu/1294881)
-- DoubleTime
+- Double Time
   1. [FELT - Little Nova (\_83) \[Saigyou Ayakashi\]](https://osu.ppy.sh/beatmapsets/600882#osu/1269565)
   2. [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[Hard\]](https://osu.ppy.sh/beatmapsets/59049#osu/214249)
 - FreeMod
@@ -172,10 +172,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Yousei Teikoku - Deep Sea (EvilElvisV2) \[LC\]](https://osu.ppy.sh/beatmapsets/104260#osu/274365)
   2. [Camellia - overcomplexification (Squigly) \[Yauxo's Another\]](https://osu.ppy.sh/beatmapsets/351877#osu/808479)
-- HardRock
+- Hard Rock
   1. [yuikonnu & ayaponzu\* - Super Nuko World (AllStar12) \[Insane\]](https://osu.ppy.sh/beatmapsets/153776#osu/476149)
   2. [CELLON. - Labyrinth of Darkness (Mir) \[Insane\]](https://osu.ppy.sh/beatmapsets/778383#osu/1639264)
-- DoubleTime
+- Double Time
   1. [senya - Glass-like Psychology (eLtigreXXx) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/47065#osu/167880)
   2. [Cranky - Hanaarashi (Mirash) \[Hard\]](https://osu.ppy.sh/beatmapsets/751771#osu/1582581)
 - FreeMod
@@ -198,10 +198,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [xi - Zauberkugel (pishifat) \[Insane\]](https://osu.ppy.sh/beatmapsets/554892#osu/1296762)
   2. [K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) (Nathan) \[Sing's Insane\]](https://osu.ppy.sh/beatmapsets/874948#osu/1828557)
-- HardRock
+- Hard Rock
   1. [sakuzyo - ChaiN De/structioN (siilento's solid remix) (Ryuusei Aika) \[Beom's Insane\]](https://osu.ppy.sh/beatmapsets/531385#osu/1208456)
   2. [Gentle Stick X M2U - Ineffabilis (buhei) \[-kevincela-'s Insane\]](https://osu.ppy.sh/beatmapsets/340903#osu/766504)
-- DoubleTime
+- Double Time
   1. [SYNC.ART'S - Splendid Encount -one more encore- (KanaRin) \[Kana x Karen\]](https://osu.ppy.sh/beatmapsets/27915#osu/97024)
   2. [FELT - Hail Storm (Kite) \[Challenging\]](https://osu.ppy.sh/beatmapsets/122349#osu/312973)
 - FreeMod
@@ -385,7 +385,7 @@ Sunday, 27 January 2019:
 
 ### General rules
 
-1. nik's Winter Tour 2019 is a **one-on-one** tournament using **double-elimination bracket** and **Score V2** as its map scoring.
+1. nik's Winter Tour 2019 is a **one-on-one** tournament using **double-elimination bracket** and **ScoreV2** as its map scoring.
 2. Rank range is between **#10,000 - #35,000** and we will be allowing a 1k rank buffer in case of people overranking slightly.
 3. Suspicious accounts **will not be accepted into the tournament.** This includes people who have really low playcount or really low hours of playtime.
 4. We only accept our Google form link as a way to register.
@@ -400,7 +400,7 @@ Sunday, 27 January 2019:
 1. At Qualifiers Stage, participants will be assigned to a lobby based on participants' availability and they will play for **score**, not position achieved during the match. This is because NWT 2019 staff will compare your score to everyone in the tournament so as to make it more fair. Participants will play all maps in the pool once.
    - Scores will be rescaled to be up to 1,000,000 and then added up.
    - The top 32 players sorted with their highest score summed, will go through.
-   - The mappool consists of: 3 NoMod, 2 Hidden, 2 HardRock, and 2 DoubleTime maps.
+   - The mappool consists of: 3 NoMod, 2 Hidden, 2 Hard Rock, and 2 Double Time maps.
 2. After passing the Qualifiers Stage, participants will be in the knockout-stage and regarding its winning conditions and numbers of map they have to bann explained as follows:
    - In Round of 32, participants need to win 4 beatmaps to win a match (Best-of-7) and will have to bann 1 map per match.
    - In Round of 16, participants need to win 5 beatmaps to win a match (Best-of-9) and will have to bann 1 map per match.

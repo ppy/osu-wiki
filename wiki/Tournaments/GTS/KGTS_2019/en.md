@@ -87,9 +87,9 @@ This competition has come to an end and resulted in the following podium:
   6. [Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.) (katacheh) \[Braindropped\]](https://osu.ppy.sh/beatmapsets/758043#taiko/1594580)
 - Hidden
   1. [Camellia feat. Nanahira - Tsukitourou (Lite Show Magic Remix) (katacheh) \[Taiko\*\]](https://osu.ppy.sh/beatmapsets/715813#taiko/1512541)
-- HardRock
+- Hard Rock
   1. [xi - Azalea (katacheh) \[Taiko\]](https://osu.ppy.sh/beatmapsets/921318#taiko/1923909)
-- DoubleTime
+- Double Time
   1. [Liz Triangle - The Night Circus (katacheh) \[kata's kAlEiDoScOpE\]](https://osu.ppy.sh/beatmapsets/429603#taiko/926907)
   2. [FamilyMart Jingle (katacheh) \[kata's FaMiLyMaRt\]](https://osu.ppy.sh/beatmapsets/417976#taiko/904910)
   3. [Valkyrie - Ikenai Borderline (katacheh) \[KataKataEYE\]](https://osu.ppy.sh/beatmapsets/453428#taiko/972337)
@@ -109,9 +109,9 @@ This competition has come to an end and resulted in the following podium:
   2. [t+pazolite feat. Nanahira - Ukakuf Kins (katacheh) \[Tomorrow\]](https://osu.ppy.sh/beatmapsets/961953#taiko/2014222)
 - Hidden
   1. [ARForest - Final Resonance (katacheh) \[Taiko\]](https://osu.ppy.sh/beatmapsets/1016259#taiko/2126946)
-- HardRock
+- Hard Rock
   1. [xi - over the top (katacheh) \[kata's Taiko\]](https://osu.ppy.sh/beatmapsets/464217#taiko/993972)
-- DoubleTime
+- Double Time
   1. [Umetora - Ifuudoudou (katacheh) \[kata's UltimateDance\]](https://osu.ppy.sh/beatmapsets/377666#taiko/826668)
   2. [Emilia(CV:Setsunan) - Unfinished START (katacheh) \[Oni\]](https://osu.ppy.sh/beatmapsets/477590#taiko/1207303)
 - FreeMod
@@ -130,9 +130,9 @@ This competition has come to an end and resulted in the following podium:
   2. [nora2r - ULTRA B+K (bobson860412) \[Bass Kata\]](https://osu.ppy.sh/beatmapsets/559634#taiko/1183557)
 - Hidden
   1. [IOSYS - Tanoshii Yoru no Ochakai - Ringo's Tea Party (katacheh) \[TaikoParty\]](https://osu.ppy.sh/beatmapsets/468400#taiko/1001889)
-- HardRock
+- Hard Rock
   1. [Neko Hacker feat. Nanahira - Chocolate Adventure (katacheh) \[Taiko\]](https://osu.ppy.sh/beatmapsets/947466#taiko/1978869)
-- DoubleTime
+- Double Time
   1. [HimeHina - Hitogata (katacheh) \[Jojijoji Taiko\]](https://osu.ppy.sh/beatmapsets/915443#taiko/1911868)
 
 ## Match results
@@ -223,13 +223,13 @@ Sunday, 6 October 2019:
 
 1. There will be 1 mappool for every week in this tournament.
 2. The Loser's Bracket will always play on the same pool as the Winner's bracket of the same weekend.
-3. The Qualifiers pool will be different from all the other rounds, as it will have a format of 2 NoMod maps, 1 Hidden map, 1 HardRock map, 1 DoubleTime map.
-4. Each mappool consists of 6 brackets: NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker.
+3. The Qualifiers pool will be different from all the other rounds, as it will have a format of 2 NoMod maps, 1 Hidden map, 1 Hard Rock map, 1 Double Time map.
+4. Each mappool consists of 6 brackets: NoMod, Hidden, Hard Rock, Double Time, FreeMod, and Tiebreaker.
 5. The first week mappool will have 12 maps. The second week mappool will have 15 maps.
 6. The size of the NoMod bracket will be of 4 in the first week of matches, and of 6 in the second week of matches.
-7. The size of the Hidden, HardRock bracket will be of 1 for the entire tournament, and the size of the DoubleTime bracket will be of 2 for first and it will be of 3 for second week.
+7. The size of the Hidden, Hard Rock bracket will be of 1 for the entire tournament, and the size of the Double Time bracket will be of 2 for first and it will be of 3 for second week.
 8. The size of the FreeMod pool will be of 3 during the entire tournament.
-9. The FreeMod bracket is played with FreeMod activated. Each player must have at least **one mod** selected between Hidden, and HardRock.
+9. The FreeMod bracket is played with FreeMod activated. Each player must have at least **one mod** selected between Hidden, and Hard Rock.
 10. The Tiebreaker is played under FreeMod conditions but it is not necessary that at least one player has at least one mod activated.
 11. The mappool for each stage will be showcased a week before.
 

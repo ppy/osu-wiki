@@ -132,11 +132,11 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
   1. [SEPHID - Critical Cannonball (DeviousPanda) \[Limit Break (Tourney Ver.)\]](https://osu.ppy.sh/beatmapsets/1189616#osu/2719329)
   2. [Chikamori Kayako - Kigurumi Sungeki (Mirash) \[Labyrinth of Steam\]](https://osu.ppy.sh/beatmapsets/1312079#osu/2719334)
   3. [Nishigomi Kakumi - Gekka Bijin (Flask) \[Oni (OWC Edit Ver.)\]](https://osu.ppy.sh/beatmapsets/1059581#osu/2719328)
-- HardRock
+- Hard Rock
   1. [LiSA - Thrill, Risk, Heartless (SkyFlame) \[Lethality\]](https://osu.ppy.sh/beatmapsets/1312103#osu/2719386)
   2. [Takanashi Yasuharu - Ketsudan no Toki (Mordred) \[Judgement\]](https://osu.ppy.sh/beatmapsets/1312098#osu/2719373)
   3. [DJ'TEKINA//SOMETHING - Internet bitch P\*Light Remix (Priti) \[Ultra\]](https://osu.ppy.sh/beatmapsets/296198#osu/665149)
-- DoubleTime
+- Double Time
   1. [Asaka - Eternal Star (Luscent) \[read island\]](https://osu.ppy.sh/beatmapsets/1312114#osu/2719411)
   2. [Kijibato - w/WWW feat.Hoshimiya Toto (Elcheer) \[Utopia\]](https://osu.ppy.sh/beatmapsets/1312343#osu/2719893)
   3. [Synthamesk - Suspirious (fergas) \[AfteraLL\]](https://osu.ppy.sh/beatmapsets/1312111#osu/2719407)
@@ -161,11 +161,11 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
   1. [Marmalade butcher - Amanita (DeviousPanda) \[Collab Extreme\]](https://osu.ppy.sh/beatmapsets/1306572#osu/2708985)
   2. [BAND-MAID - Spirit!! (Lasse) \[Expert!!\]](https://osu.ppy.sh/beatmapsets/1306578#osu/2709014)
   3. [ARM (IOSYS) + Brasscapsule - Jazz is Rad (DeviousPanda) \[Collab Extravaganza\]](https://osu.ppy.sh/beatmapsets/1306575#osu/2708997)
-- HardRock
+- Hard Rock
   1. [Kotone - Flash (Talulah) \[Congratz on Your Universal Music Label Kotone!\]](https://osu.ppy.sh/beatmapsets/1306585#osu/2709040)
   2. [Himeringo - Six Trillion Years and Overnight Story (Sparhten) \[Eternity\]](https://osu.ppy.sh/beatmapsets/1306590#osu/2709049)
   3. [Yousei Teikoku - Naikan Uchuu Shisha no Yurikago (IsomirDiAngelo) \[Cradle of the Dead\]](https://osu.ppy.sh/beatmapsets/1306595#osu/2709056)
-- DoubleTime
+- Double Time
   1. [Ceui - Hoshi Ori Yume Mirai (Nagi Hisakawa) \[Constellation\]](https://osu.ppy.sh/beatmapsets/1306598#osu/2709059)
   2. [ZUN - Demystify Feast (Halfslashed) \[Lunatic (OWC Edit)\]](https://osu.ppy.sh/beatmapsets/477763#osu/2709164)
   3. [BAND-MAID - DICE (Lasse) \[INSANE.\]](https://osu.ppy.sh/beatmapsets/1248526#osu/2594991)
@@ -190,11 +190,11 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
   1. [Alkome - Mind Disorder (Altai) \[Internal Chaos\]](https://osu.ppy.sh/beatmapsets/1301375#osu/2699222)
   2. [Imy - Over the limit (IOException) \[Another\]](https://osu.ppy.sh/beatmapsets/1301446#osu/2699419)
   3. [MiddleIsland - Frailness (LMT) \[Virtuoso\]](https://osu.ppy.sh/beatmapsets/720978#osu/1522554)
-- HardRock
+- Hard Rock
   1. [KINEMA106 - Juusou (Mordred) \[DOINB RYZE HACK? 400 CS 24 MIN \[L9 Turbo Boost\]\]](https://osu.ppy.sh/beatmapsets/1301393#osu/2699246)
   2. [HyuN feat. LyuU - Cross Over (Realazy) \[Expert\]](https://osu.ppy.sh/beatmapsets/891337#osu/1863224)
   3. [Feryquitous - Chat perdu (Elcheer) \[Trouve\]](https://osu.ppy.sh/beatmapsets/1301392#osu/2699245)
-- DoubleTime
+- Double Time
   1. [WALKUERE - Ikenai Borderline (Rizia) \[Insane\]](https://osu.ppy.sh/beatmapsets/454835#osu/975036)
   2. [Daisuke Ishiwatari - Childish Killer (yaspo) \[Like a Rose\]](https://osu.ppy.sh/beatmapsets/1301402#osu/2699262)
   3. [EPICA - Fight Your Demons (LMT) \[fight your primal urges\]](https://osu.ppy.sh/beatmapsets/1301404#osu/2699264)
@@ -219,11 +219,11 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
   1. [Yousei Teikoku - Paradiso Inferno (IsomirDiAngelo) \[Doku Ringo\]](https://osu.ppy.sh/beatmapsets/1296273#osu/2689510)
   2. [Porno Graffitti - Hitori no Yoru (fartownik) \[Insane\]](https://osu.ppy.sh/beatmapsets/1296252#osu/2689473)
   3. [Kotone - Black Joke (captin1) \[sub to kotone\]](https://osu.ppy.sh/beatmapsets/1296255#osu/2689478)
-- HardRock
+- Hard Rock
   1. [CHiCO with HoneyWorks - Kimi ga Sora Koso Kanashikere (Serizawa Haruki) \[Elgatsu's Sorrow\]](https://osu.ppy.sh/beatmapsets/940746#osu/1964722)
   2. [Brandy - Cross Time !! (Leader) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/973162#osu/2067296)
   3. [Memme - Tantanmen (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/1296282#osu/2689525)
-- DoubleTime
+- Double Time
   1. [Jun Maeda x yanaginagi - Hifukiyama no Mahoutsukai (Yohanes) \[Perseverance (Edit Ver)\]](https://osu.ppy.sh/beatmapsets/528572#osu/2688985)
   2. [Team Grimoire - Grimoire of Blue (Seto Kousuke) \[Insane\]](https://osu.ppy.sh/beatmapsets/1296306#osu/2689570)
   3. [Aimer - Run Riot (Sylvarus) \[Insane\]](https://osu.ppy.sh/beatmapsets/1227818#osu/2553146)
@@ -246,10 +246,10 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 - Hidden
   1. [xi - Finder Keepers (fartownik) \[Mine Now\]](https://osu.ppy.sh/beatmapsets/1291260#osu/2680271)
   2. [raito - Blood Drain -Again- (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/1152554#osu/2405667)
-- HardRock
+- Hard Rock
   1. [AliA - impulse (skytuna) \[Akitoshi's Extreme\]](https://osu.ppy.sh/beatmapsets/962863#osu/2196278)
   2. [Applesoda vs MAX - Desaparecer (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/1291255#osu/2680257)
-- DoubleTime
+- Double Time
   1. [Chata - anesthesia (vikala) \[Mirash's Insane\]](https://osu.ppy.sh/beatmapsets/1148598#osu/2399771)
   2. [Ujico\* - Dahlia (hypercyte) \[4 4 4 4\]](https://osu.ppy.sh/beatmapsets/1291262#osu/2680274)
   3. [Nekomata Master - dahaca (Icekalt) \[vibing (Tourney ver.)\]](https://osu.ppy.sh/beatmapsets/1291261#osu/2680272)
@@ -270,10 +270,10 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 - Hidden
   1. [Gesu no Kiwami Otome. - Romance ga Ariamaru (vikala) \[Extra\]](https://osu.ppy.sh/beatmapsets/856645#osu/1789641)
   2. [Gentle stick - Amphitryon (yaspo) \[Another\]](https://osu.ppy.sh/beatmapsets/1286286#osu/2670774)
-- HardRock
+- Hard Rock
   1. [BEMANI Sound Team "Nekomata Master" - Painful Fate (August) \[End\]](https://osu.ppy.sh/beatmapsets/1178670#osu/2458108)
   2. [Kiryu - EVE (Flower) \[Another\]](https://osu.ppy.sh/beatmapsets/213434#osu/501755)
-- DoubleTime
+- Double Time
   1. [ClariS - SHIORI (PantyDev) \[Insane\]](https://osu.ppy.sh/beatmapsets/747684#osu/1577780)
   2. [Aki - Darkish (Lortus) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/514965#osu/1097552)
   3. [Akiyama Uni - The Grimoire of Alice (Hollow Wings) \[Insane\]](https://osu.ppy.sh/beatmapsets/123839#osu/344619)
@@ -293,10 +293,10 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 - Hidden
   1. [M2U - Ayla (-Mo-) \[Expert\]](https://osu.ppy.sh/beatmapsets/1280192#osu/2659351)
   2. [Zektbach - Apocalypse dirge of swans (Mao) \[Elegy\]](https://osu.ppy.sh/beatmapsets/1280203#osu/2659367)
-- HardRock
+- Hard Rock
   1. [UNDEAD CORPORATION - Murasa (MaridiuS) \[Extra\]](https://osu.ppy.sh/beatmapsets/1280200#osu/2659364)
   2. [Sta & Feryquitous - 2 Minutes Euphoria (Ryuusei Aika) \[Cadentia\]](https://osu.ppy.sh/beatmapsets/1280207#osu/2659376)
-- DoubleTime
+- Double Time
   1. [ginkiha feat. TEA - Hare (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/1280205#osu/2659374)
   2. [Cranky - Puppe (yaspo) \[Heavy\]](https://osu.ppy.sh/beatmapsets/1280198#osu/2659360)
 
@@ -458,7 +458,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 1. osu! 世界杯是基于国家/地区的团体比赛，在 osu! 模式中进行。
    - 虽然本次比赛计划为 4v4，但可能会根据报名人数而改变。
-2. 分数计算基于 Score V2。
+2. 分数计算基于 ScoreV2。
 3. 每轮比赛的图池将由图池管理在实际比赛开始之前的周日公布。选手在比赛过程中只能选择其中的谱面。
    - 一张谱面会被选为 Tiebreaker(TB)，TB 仅能在加时赛中被强制选择。**资格赛图池除外。**
 4. 时间表将由比赛管理部门确定（请参见[排程说明](#排程说明)）。
@@ -506,7 +506,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 ### 阶段说明
 
 1. 在资格赛阶段，所有队伍将使用图池管理成员挑选的特殊图池进行比赛。
-2. 图池包含四组： NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Game_modifier/Double_Time)。此阶段没有 Tiebreaker(TB)。
+2. 图池包含四组： NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[Hard Rock](/wiki/Game_modifier/Hard_Rock)，[Double Time](/wiki/Game_modifier/Double_Time)。此阶段没有 Tiebreaker(TB)。
 3. 资格赛图池包含 10 张谱面。NoMod 包含 4 张谱面，其余 Mod 则各包含 2 张谱面。
 4. 队伍必须在指定时间内完成两次图池，他们的最佳成绩将计入出线结果。
 5. 图池顺序将按以上列出的 Mod 顺序进行。
@@ -543,17 +543,17 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 ### 图池说明
 
 1. 每个阶段都会使用他们各自的图池。
-2. 图池包含五组: NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Game_modifier/Double_Time) 和 FreeMod。
+2. 图池包含五组: NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[Hard Rock](/wiki/Game_modifier/Hard_Rock)，[Double Time](/wiki/Game_modifier/Double_Time) 和 FreeMod。
 3. 每个阶段的图池所包含的谱面数量不同。
-   - **在三十二强赛和十六强赛中，图池包含 5 张 NoMod 和 3 张 DoubleTime，其余 Mod 则各包含 2 张。**
-   - **在四分之一决赛，半决赛，决赛和总决赛中，图池包含 6 张 NoMod 和 4 张 DoubleTime，其余 Mod 则各包含 3 张。**
+   - **在三十二强赛和十六强赛中，图池包含 5 张 NoMod 和 3 张 Double Time，其余 Mod 则各包含 2 张。**
+   - **在四分之一决赛，半决赛，决赛和总决赛中，图池包含 6 张 NoMod 和 4 张 Double Time，其余 Mod 则各包含 3 张。**
 4. 每个图池都包含一张 TB。
-5. **NoFail 会被强制开启。**
-6. NoMod 图池不能使用任何 Mod，NoFail 除外。
-7. Hidden，HardRock 和 DoubleTime 则要求选手使用图池的对应 Mod。
+5. **No Fail 会被强制开启。**
+6. NoMod 图池不能使用任何 Mod，No Fail 除外。
+7. Hidden，Hard Rock 和 Double Time 则要求选手使用图池的对应 Mod。
 8. FreeMod 图池可以随意选择 Mod。
-   - 可选 Mod 为 Hidden，HardRock 和 Hidden+HardRock。
-   - **在 FreeMod 图池中，每队必须拥有一名使用 Hidden 和一名启动 HardRock 或 Hidden+HardRock 的选手。其余选手可随意选择 Mod。**
+   - 可选 Mod 为 Hidden，Hard Rock 和 Hidden+Hard Rock。
+   - **在 FreeMod 图池中，每队必须拥有一名使用 Hidden 和一名启动 Hard Rock 或 Hidden+Hard Rock 的选手。其余选手可随意选择 Mod。**
 9. TB 为 Freemod。
    - 在 Tiebreaker 时，没有 Mod 要求。
 

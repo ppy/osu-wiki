@@ -122,12 +122,12 @@ The osu!catch World Cup 2016 was run by various community members.
   2. [XL Project - THE DAMNED STALKERS (hy1hy1hy) \[Steven's ctb\]](https://osu.ppy.sh/beatmapsets/22037#fruits/77930)
   3. [Rabpit - Sacred (ursa) \[Overdose\]](https://osu.ppy.sh/beatmapsets/92456#fruits/344415)
   4. [DJ Sharpnel - IVALTEK (happy30) \[HappyMiX\]](https://osu.ppy.sh/beatmapsets/50429#fruits/154988)
-- HardRock
+- Hard Rock
   1. [Morimori Atsushi - PUPA (Cherry Blossom) \[Butterfly\]](https://osu.ppy.sh/beatmapsets/224164#fruits/523376)
   2. [xi - Garyou Tensei (BoberOfDarkness) \[Overdose\]](https://osu.ppy.sh/beatmapsets/348640#fruits/769051)
   3. [IOSYS - Midnight Lightning Bolt (pieguy1372) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/16371#fruits/58701)
   4. [LiSA - EGOiSTiC SHOOTER (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/316580#fruits/705339)
-- DoubleTime
+- Double Time
   1. [senya - Yukitoke Realism (wring) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/252385#fruits/579751&m=2)
   2. [ikumi - Watashi no 71% \<OVA ver.\> (Equim) \[Unfettered\]](https://osu.ppy.sh/beatmapsets/329280#fruits/878649)
   3. [T.M.Revolution x Mizuki Nana - Preserved Roses (Xinely) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/223530#fruits/528310)
@@ -151,12 +151,12 @@ The osu!catch World Cup 2016 was run by various community members.
   2. [Gentle Stick X M2U - Ineffabilis (buhei) \[Extreme\]](https://osu.ppy.sh/beatmapsets/340903#fruits/753968)
   3. [W.T. Orchestra - William Tell Overture (Louis Cyphre) \[Champion\]](https://osu.ppy.sh/beatmapsets/29107#fruits/97397)
   4. [Shounen Radio - neu (v2b) \[EX\]](https://osu.ppy.sh/beatmapsets/28121#fruits/93893)
-- HardRock
+- Hard Rock
   1. [Alipio Martins - Piranha (Maffalda Reloaded Trap Mix) (Tarrasky) \[Spec's Gangsta Overdose\]](https://osu.ppy.sh/beatmapsets/287873#fruits/710996)
   2. [BOSSFIGHT - Dr. Wily's Castle: Stage 1 (WildOne94) \[Wilderness\]](https://osu.ppy.sh/beatmapsets/356147#fruits/783874)
   3. [8284 vs wa. - Adularescence (alienflybot) \[toybot's Overdose\]](https://osu.ppy.sh/beatmapsets/245851#fruits/653661)
   4. [Pegboard Nerds x MisterWives - Coffins (Timorisu) \[Insane\]](https://osu.ppy.sh/beatmapsets/144771#fruits/359411)
-- DoubleTime
+- Double Time
   1. [Kalafina - believe (CLSW) \[Bless\]](https://osu.ppy.sh/beatmapsets/316647#fruits/705527)
   2. [Martynas - Hungarian Dance No. 5 in G minor (Sieg) \[Insane\]](https://osu.ppy.sh/beatmapsets/199998#fruits/485631)
   3. [Mutsuhiko Izumi - Green Green Dance (Long Version) (spboxer3) \[Collab\]](https://osu.ppy.sh/beatmapsets/34896#fruits/122566)
@@ -180,12 +180,12 @@ The osu!catch World Cup 2016 was run by various community members.
   2. [M2U & NICODE feat. Guriri & Lucy - Myosotis (Deif) \[Overdose\]](https://osu.ppy.sh/beatmapsets/460422#fruits/986067)
   3. [yuikonnu - Souzou Forest (FlandreScarlet-) \[Rain\]](https://osu.ppy.sh/beatmapsets/186074#fruits/444654)
   4. [Scott Brown - Go Berzerk (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/beatmapsets/15298#fruits/55474)
-- HardRock
+- Hard Rock
   1. [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey (Irreversible) \[sauci's Overdose\]](https://osu.ppy.sh/beatmapsets/274111#fruits/635125)
   2. [Kawada Mami - Wings of Courage -Sora o Koete- (examination) \[Rain\]](https://osu.ppy.sh/beatmapsets/245160#fruits/654678)
   3. [cranky - Libera me (wmfchris) \[Alarmable\]](https://osu.ppy.sh/beatmapsets/21178#fruits/86531)
   4. [REDALiCE - Acceleration (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/392304#fruits/854263)
-- DoubleTime
+- Double Time
   1. [Hylian Lemon - Foresight Is for Losers (ZiRoX) \[Collab Rain\]](https://osu.ppy.sh/beatmapsets/342751#fruits/757539)
   2. [Patrick Burns - Rare Respite (eldnl) \[Jib Jig\]](https://osu.ppy.sh/beatmapsets/113705#fruits/294823)
   3. [fripSide - Assemble\*LOVEsemble (Natteke) \[Natteke\]](https://osu.ppy.sh/beatmapsets/24627#fruits/95653)
@@ -209,12 +209,12 @@ The osu!catch World Cup 2016 was run by various community members.
   2. [Akiko Shikata - Katayoku no Tori (Deif) \[Rain\]](https://osu.ppy.sh/beatmapsets/317968#fruits/708226)
   3. [Comedian Harmonists - Perpetuum Mobile (Bonsai) \[Pluvium Hyperionis\]](https://osu.ppy.sh/beatmapsets/316390#fruits/900134)
   4. [Mili - A Turtle's Heart (Krah) \[Coeur\]](https://osu.ppy.sh/beatmapsets/300937#fruits/674854)
-- HardRock
+- Hard Rock
   1. [Nishino Kana - motto... (S h i a) \[Insane\]](https://osu.ppy.sh/beatmapsets/30654#fruits/115509)
   2. [Itou Kanako - Skyclad no Kansokusha -Remix- (Takos) \[Insane\]](https://osu.ppy.sh/beatmapsets/33323#fruits/110626)
   3. [xi - Parousia (HelloSCV) \[-kevincela-'s Another\]](https://osu.ppy.sh/beatmapsets/108470#fruits/283992)
   4. [Oratorio The World God Only Knows - God only knows Dai San Maku (O.A. version) (DJPop) \[Insane\]](https://osu.ppy.sh/beatmapsets/22196#fruits/77308)
-- DoubleTime
+- Double Time
   1. [Bangbros - Yeah Yeah Yeah! (Nightcore Mix) (ztrot) \[Yeah Yeah Yeah!\]](https://osu.ppy.sh/beatmapsets/28147#fruits/93964)
   2. [Tamaz-P - Hirari, Hirari (DragonSlayer96) \[Platter\]](https://osu.ppy.sh/beatmapsets/208769#fruits/1609883)
   3. [Sakaue Nachi - Light travel distance RAYTO MIX (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/42575#fruits/133852)
@@ -238,12 +238,12 @@ The osu!catch World Cup 2016 was run by various community members.
   2. [MiddleIsland - Piano Concerto No.1 "Scream" (ZiRoX) \[Rain\]](https://osu.ppy.sh/beatmapsets/242913#fruits/560536)
   3. [Masahiro Aoki - The Winter Campaign on Osaka (ursa) \[Rain\]](https://osu.ppy.sh/beatmapsets/235871#fruits/548689)
   4. [Goose house - Sedan Girl (mingmichael) \[Rain\]](https://osu.ppy.sh/beatmapsets/294874#fruits/662784)
-- HardRock
+- Hard Rock
   1. [remixed celas vs 44teru-k - CONNECT r (Muya) \[Hyper\]](https://osu.ppy.sh/beatmapsets/53574#fruits/163254)
   2. [Kemmei Adachi - Patapon theme (Aleks719) \[Hard\]](https://osu.ppy.sh/beatmapsets/64808#fruits/190393)
   3. [Zircon - Dirt Devil (OC ReMix) (Mukku) \[Insane\]](https://osu.ppy.sh/beatmapsets/14205#fruits/55760)
   4. [NAOKI feat. SMiLE.dk - A Geisha's Dream (yongtw123) \[Hard\]](https://osu.ppy.sh/beatmapsets/28766#fruits/95782)
-- DoubleTime
+- Double Time
   1. [Lon - Sweet Magic (Suzully) \[Insane\]](https://osu.ppy.sh/beatmapsets/36702#fruits/120374)
   2. [Hai Nan - Ai La La (moonlightleaf) \[Insane\]](https://osu.ppy.sh/beatmapsets/118459#fruits/374835)
   3. [SMiLE.dk - Golden Sky (meiikyuu) \[Insane\]](https://osu.ppy.sh/beatmapsets/50587#fruits/155404)
@@ -394,10 +394,10 @@ Sunday, 22 May 2016:
 ### Tournament rules
 
 1. The osu!catch World Cup is a country-based team tournament.
-2. **Map scoring is based on a new metric, called Score V2, but unlike in osu! without the accuracy score portion.**
+2. **Map scoring is based on a new metric, called ScoreV2, but unlike in osu! without the accuracy score portion.**
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a Tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time) bracket.
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
@@ -496,14 +496,14 @@ Sunday, 22 May 2016:
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - Finals & Grand Finals use the same mappool.
-2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time)
+2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time)
 3. Each mappool consists of 19 maps in total.
 4. Each mappool has one Tiebreaker.
 5. The NoMod bracket will be played with no modes activated.
-6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
-   - Optionally, you can enable Hidden on the HardRock or DoubleTime beatmaps.
+6. The Hidden, Hard Rock and Double Time bracket will be played with the respective modes activated.
+   - Optionally, you can enable Hidden on the Hard Rock or Double Time beatmaps.
 7. The Tiebreaker will be played under FreeMod conditions.
-   - Optionally, you can enable HardRock, Hidden or both on the Tiebreaker beatmap.
+   - Optionally, you can enable Hard Rock, Hidden or both on the Tiebreaker beatmap.
 8. The size of the NoMod bracket will be 6 in all stages.
 9. The size of the mod-specific brackets will be 4 in all stages.
 

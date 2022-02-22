@@ -363,7 +363,7 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 
 1. osu!mania 4K 世界杯是基于国家/地区的团体比赛，在 osu!mania 模式中进行。
    - **虽然本次比赛计划为 3v3，但可能会根据报名人数而改变。**
-2. 分数计算基于 Score V2。
+2. 分数计算基于 ScoreV2。
 3. 每轮比赛的图池将由图池管理在实际比赛开始之前的周日公布。选手比赛过程中只能选择其中的谱面。
    - 小组赛图池会在抽签结束后公布。
    - 一张谱面会被选为 Tiebreaker(TB)，TB 仅能在加时赛中被强制选择。
@@ -467,7 +467,7 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 2. 图池在每个比赛阶段均包含固定数量的谱面（请参见下文），所有谱面都为 FreeMod。
 3. 小组赛图池为 12 张，十六强赛和四分之一决赛图池为 14 张，半决赛和决赛图池为 16 张。
 4. 每个图池都包含一张 TB。
-5. 可选 Mod 为 Hidden，FadeIn，Flashlight 和 Mirror。
+5. 可选 Mod 为 Hidden，Fade In，Flashlight 和 Mirror。
 6. TB 为 Freemod。
 
 ### 排程说明

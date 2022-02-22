@@ -104,11 +104,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Nakanojojo - Pararara (feat. Amekoya) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/930806#taiko/1943719)
   2. [Camellia as "Bang Riot" - Blastix Riotz (Nwolf) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/351644#taiko/778483)
   3. [Sex Whales & Fraxo - Dead To Me (feat. Lox Chatterbox) (Ulqui) \[Overlapse Oni\]](https://osu.ppy.sh/beatmapsets/628627#taiko/1325289)
-- HardRock
+- Hard Rock
   1. [Cranky - conflict (tpz Overheat Remix) (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/933997#taiko/1949805)
   2. [LOLIPO - Confused Start -- (Lundlerol) \[Taiko\*Krestar\]](https://osu.ppy.sh/beatmapsets/349210#taiko/770131)
   3. [Stratovarius - Stratofortress (Zetera) \[Majin Oni - DETRITUS\]](https://osu.ppy.sh/beatmapsets/539208#taiko/1142587)
-- DoubleTime
+- Double Time
   1. [Camellia - Fly to night, tonight (yuzu\_\_rinrin) \[Oni\]](https://osu.ppy.sh/beatmapsets/1013346#taiko/2121021)
   2. [Todd 'LilDeuceDeuce' Bryanton - EVERYBODY DO THE FLOP! (Raiden) \[Ozzy's Inner Oni\]](https://osu.ppy.sh/beatmapsets/342966#taiko/757976)
   3. [Utagumi Setsugetsuka - Maware! Setsugetsuka (you Remix) (komasy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/697523#taiko/1477485)
@@ -133,11 +133,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Ryu\* - !Viva! (Spy) \[Kazu's Oni\]](https://osu.ppy.sh/beatmapsets/526265#taiko/1130126)
   2. [DJ WAKARAN GIRL - Katyusha Hard bass (204 Edit) (rezi888) \[ypa\]](https://osu.ppy.sh/beatmapsets/934350#taiko/1950721)
   3. [Luze - Titanomaquia (mysterfish) \[Legendary\]](https://osu.ppy.sh/beatmapsets/607821#taiko/1283746)
-- HardRock
+- Hard Rock
   1. [MASAYOSHI IIMORI - Hella Deep (Trapmaniac) \[Oni\]](https://osu.ppy.sh/beatmapsets/795073#taiko/1669852)
   2. [goreshit - o'er the flood (grumd) \[MM's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/51972#taiko/176895)
   3. [yumemidoll - Lyrith -Meikyuu Lyrith- (Rhytoly) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/704195#taiko/1489676)
-- DoubleTime
+- Double Time
   1. [Two Door Cinema Club - What You Know (Krisom) \[Taikoni!Kuri\]](https://osu.ppy.sh/beatmapsets/31517#taiko/112556)
   2. [MISATO - Necro Fantasia (Chromoxx) \[Collab Oni\]](https://osu.ppy.sh/beatmapsets/516494#taiko/1097542)
   3. [Rin - Kishinjou set 10 \~ Reverse Ideology (jack1817) \[Double Dealing Inner Oni\]](https://osu.ppy.sh/beatmapsets/661404#taiko/1400261)
@@ -161,10 +161,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [D.E.V. - Kikyo City (D.E.V.remix) (Charlotte) \[Poke\]](https://osu.ppy.sh/beatmapsets/317702#taiko/707700)
   2. [Natsuiro Burning Love\*Prim - Sore wa Hanabi no Youna Koi (Nardoxyribonucleic) \[Wmf's Inner Oni\]](https://osu.ppy.sh/beatmapsets/664085#taiko/1418055)
-- HardRock
+- Hard Rock
   1. [DJ TOTTO - chaplet (Nwolf) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/246705#taiko/568217)
   2. [Vickeblanka - Black Rover(Cover Raon Lee) (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/834196#taiko/1747535)
-- DoubleTime
+- Double Time
   1. [Kicco - Amazing sky (Charlotte) \[Volta's Oni\]](https://osu.ppy.sh/beatmapsets/548834#taiko/1163981)
   2. [The Doors - Riders On The Storm // (Infected Mushroom Remix) (Vulkin) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/641775#taiko/1360770)
   3. [OISHII - UP UP MT. CAKE (Nifty) \[Oni\]](https://osu.ppy.sh/beatmapsets/664795#taiko/1458822)
@@ -187,10 +187,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [DAISUKE ASAKURA - stealth (ouranhshc) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/17367#taiko/70334)
   2. [REDALiCE - Always TANO\*C (Kobaryo's FTN-Remix) (yea) \[Oni\]](https://osu.ppy.sh/beatmapsets/690365#taiko/1463184)
-- HardRock
+- Hard Rock
   1. [kamome sano - \</emotional\> (\_Rise) \[Silent\]](https://osu.ppy.sh/beatmapsets/520576#taiko/1105943)
   2. [nao - Toaru Shoukoku no Ohimesama ga... (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/504344#taiko/1073090)
-- DoubleTime
+- Double Time
   1. [EBIMAYO - GOODWORLD (komasy) \[GOODONI\]](https://osu.ppy.sh/beatmapsets/938075#taiko/1959547)
   2. [Camellia - Routing (MMzz) \[Oni\]](https://osu.ppy.sh/beatmapsets/375111#taiko/821694)
 - FreeMod
@@ -212,10 +212,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Sirio & D-Tox - Loudness War (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/349861#taiko/771449)
   2. [TAKU1175 feat.Kanata.N - Din Don Dan (Fusion Remix) (maziari1105) \[Oni\]](https://osu.ppy.sh/beatmapsets/609906#taiko/1287911)
-- HardRock
+- Hard Rock
   1. [Eve - Outsider (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/802114#taiko/1683531)
   2. [Sota Fujimori - ACCELERATE (\_WWWWWW\_WWWWWW\_) \[Another\]](https://osu.ppy.sh/beatmapsets/785969#taiko/1721329)
-- DoubleTime
+- Double Time
   1. [Yunomi - Wakusei Rabbit (feat. TORIENA) (Franklin\_DeJavu) \[Oni\]](https://osu.ppy.sh/beatmapsets/639535#taiko/1419873)
   2. [Camellia ft. Nanahira - Can I Friend You On Bassbook ? Lol (yea) \[YAY YAY\]](https://osu.ppy.sh/beatmapsets/879559#taiko/1839385)
 - FreeMod
@@ -236,10 +236,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Nekomata Master+ - squall (\_DUSK\_) \[oni\]](https://osu.ppy.sh/beatmapsets/937091#taiko/1957586)
   2. [The Flashbulb - Lawn Wake II (tasuke912) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/364724#taiko/2101036)
-- HardRock
+- Hard Rock
   1. [Weebos Zunder feat. el nino de las salchipapas - Salchipapa (Hanjamon) \[Oni\]](https://osu.ppy.sh/beatmapsets/299103#taiko/671100)
   2. [Tomita Miyu, Onishi Saori, Ohzora Naomi, Hanazawa Kana - Hallelujah\*Essaim (Greenshell) \[Oni\]](https://osu.ppy.sh/beatmapsets/666004#taiko/1409652)
-- DoubleTime
+- Double Time
   1. [NayutalieN - Alien Alien (Nhato Remix) (Rhytoly) \[Oni\]](https://osu.ppy.sh/beatmapsets/904873#taiko/1888717)
   2. [MowtenDoo - Run Run Bodywash (Midnaait) \[Oni\]](https://osu.ppy.sh/beatmapsets/348969#taiko/798255)
 - FreeMod
@@ -403,7 +403,7 @@ Monday, 12 August 2019:
    - Participant's account must be **6 months old or older.**
    - Participant must pass the screening done by the osu! team officials.
 3. The tournament will be held over seven weekends.
-4. The matches will be played under **Score V2** and **Head to Head** settings.
+4. The matches will be played under **ScoreV2** and **Head to Head** settings.
 5. Joining the Discord server is mandatory at least for the duration of the tournament.
 6. Winning conditions will be explained below:
    - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
@@ -420,10 +420,10 @@ Monday, 12 August 2019:
 
 ### Mappool instructions
 
-1. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), FreeMod, and Tiebreaker.
+1. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), FreeMod, and Tiebreaker.
 2. Mappool consists of 12 maps at start of the stage and will increase by 2 maps by each stage.
 3. The NoMod bracket will be played with no mods activated.
-4. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock, both, or NoMod.
+4. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, Hard Rock, both, or NoMod.
 5. The Tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling instructions

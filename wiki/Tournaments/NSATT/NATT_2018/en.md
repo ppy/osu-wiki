@@ -100,10 +100,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [PHQUASE - Plain Asia -PHQ remix- (TKS) \[Lunatic Asia\]](https://osu.ppy.sh/beatmapsets/737935#taiko/1557323)
   2. [MuryokuP - Frozen World (c36098651) \[Firce777's North Pole\]](https://osu.ppy.sh/beatmapsets/194955/#taiko/465192)
-- HardRock
+- Hard Rock
   1. [OISHII - ONIGIRI FREEWAY (cdhsausageboy) \[tasuke's INNER ONI\]](https://osu.ppy.sh/beatmapsets/662519#taiko/1406423)
   2. [Helblinde - Oath of Kings (Backfire) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/762676#taiko/1603470)
-- DoubleTime
+- Double Time
   1. [Linkin Park - Breaking the Habit (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/237069/#taiko/548872)
   2. [Equilibrium - Wirtshaus Gaudi (Zetera) \[Inner Kneipe\]](https://osu.ppy.sh/beatmapsets/549450#taiko/1163499)
 - FreeMod
@@ -124,10 +124,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. Reol - YoiYoi Kokon (steven1) \[Phylum (NATT ver.)\]
   2. [Igorrr - Cicadidae (nyouso) \[Nyouso's Taiko\]](https://osu.ppy.sh/beatmapsets/182507/#taiko/437655)
-- HardRock
+- Hard Rock
   1. [weyheyhey !! - Loving The Girl Who Hates Me (Jaye) \[Bella\]](https://osu.ppy.sh/beatmapsets/438651#taiko/1164383)
   2. [goreshit - beautiful loli thing (Raphalge) \[Beautiful Taiko Thing\]](https://osu.ppy.sh/beatmapsets/582863#taiko/1233483)
-- DoubleTime
+- Double Time
   1. [capitaro - Koigahara no Kassen (Zero__wind) \[Nardo's Inner Oni\]](https://osu.ppy.sh/beatmapsets/466053#taiko/1163723)
   2. [CINDERELLA PROJECT - Shine!! (DJ Ramakun FUNKOT REMIX) (Nishizumi) \[Inner Oni!!\]](https://osu.ppy.sh/beatmapsets/549167#taiko/1162938)
 - FreeMod
@@ -148,10 +148,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Rainbowdragoneyes - The Rift (Mew104) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/445365#taiko/1489206)
   2. [RADIOFISH - PERFECT HUMAN (chaica) \[I’m a perfect human\]](https://osu.ppy.sh/beatmapsets/497333#taiko/1058605)
-- HardRock
+- Hard Rock
   1. Lite Show Magic (t+pazolite vs C-Show) - TRICKL4SH 220 (KitajimaYN) \[Yuni\]
   2. [Tyrfing - Verflucht (yuzu\_\_rinrin) \[†LEGGENDARIA\]](https://osu.ppy.sh/beatmapsets/726120#taiko/1533064)
-- DoubleTime
+- Double Time
   1. [Memme - China Dress (Tear) \[Zexous' Oni\]](https://osu.ppy.sh/beatmapsets/137665#taiko/403249)
   2. [Reol - Logic Agent (shinchikuhome) \[Agent\]](https://osu.ppy.sh/beatmapsets/691178#taiko/1462711)
 - FreeMod
@@ -174,10 +174,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Boogie Belgique - Piccadilly (lazyboy007) \[West End (NATT Ver.)\]](https://puu.sh/B7MKd/578642611a.osz)
   2. [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn (xfraczynho) \[Final Oni\]](https://osu.ppy.sh/beatmapsets/682914#taiko/1444126)
-- HardRock
+- Hard Rock
   1. [Paramore - Anklebiters (Priti) \[Expert Collab\]](https://osu.ppy.sh/beatmapsets/227990#taiko/545965)
   2. [sasakure.UK - ChRoNiClESeVeN feat. Annabel (Delis) \[Arrimoxx' Inner Oni\]](https://osu.ppy.sh/beatmapsets/630014#taiko/1400388)
-- DoubleTime
+- Double Time
   1. [USAO - Showdown (Side) \[tasuke's Oni\]](https://osu.ppy.sh/beatmapsets/438839#taiko/985780)
   2. [Keiichi Okabe, Keigo Hoashi - Fantastic Theater (Odeum of Illusions) (AxelHino) \[Oni\]](https://osu.ppy.sh/beatmapsets/209685#taiko/493520)
 - FreeMod
@@ -200,10 +200,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Aire - Peperoncino (S o h) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/639361#taiko/1356039)
   2. [USAO - Extra Mode (DJ Myosuke Remix) (jyake) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/692594#taiko/1465550)
-- HardRock
+- Hard Rock
   1. [O-Life Japan - Yakujinsama no Couple Dance (AngelHoney) \[Taiko (NATT ver.)\]](https://puu.sh/ASKdc/e14372a56e.osz)
   2. [Getty - Pump It (yea) \[Lunatic Oni (NATT Edition)\]](https://puu.sh/B5pI6/a243544b90.osz)
-- DoubleTime
+- Double Time
   1. [Cranky - X-Y-Z (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/493654#taiko/1052245)
   2. [FELT - Day after (Senritsu) \[Oni\]](https://osu.ppy.sh/beatmapsets/323180#taiko/718430)
 - FreeMod
@@ -224,10 +224,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [MASAKI(ZUNTATA) - Zawawa (JUDYDANNY) \[Oni\]](https://osu.ppy.sh/beatmapsets/459183#taiko/983805)
   2. [Giga-P & Suzumu - Undead Enemy (Raphalge) \[Oni\]](https://osu.ppy.sh/beatmapsets/706303#taiko/1493559)
-- HardRock
+- Hard Rock
   1. [wa. vs ETIA. - Akasagarbha (\_DUSK\_) \[Oni\]](https://osu.ppy.sh/beatmapsets/709333#taiko/1499438)
   2. [TAKA respect for J.S.B. - No.13 (AngelHoney) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/33401#taiko/109504)
-- DoubleTime
+- Double Time
   1. [M2U - A Bella! (feat. Lucy) (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/760757#taiko/1599881)
   2. [Another Infinity feat. Mayumi Morinaga - kotone (Strawberry) \[KPY & aabc's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/82094#taiko/272134)
 - FreeMod
@@ -333,13 +333,13 @@ Complete Group Stage match results can be accessed through the [statistics sheet
 1. Only Players with a **United States, Canadian, or Mexican flag on their account are allowed** to register in this tournament.
 2. Group Stage matches are seeded based on global rank at time of registration submission.
 3. NATT will have a Group Stage followed by a knock-out double elimination structure with a loser bracket.
-4. NATT matches will be 1v1 Taiko in team style format with a point given to the highest score achieved in the Score V2 system.
+4. NATT matches will be 1v1 Taiko in team style format with a point given to the highest score achieved in the ScoreV2 system.
 5. The win conditions for each stage are as follows.
    - In **Group Stage**, it is Bo5: First to win 3 maps wins.
    - In **Round of 16**, it is Bo7: First to 4 maps wins.
    - In **Quarterfinals and Semifinals**, it is Bo9: First to win 5 maps wins.
    - In **Finals and Grand Finals**, it is Bo11: First to win 6 maps wins.
-6. Score V2 will be used.
+6. ScoreV2 will be used.
 7. Map pools will contain 5 No Mod (3+2 EX), 2 HD, 2 HR, 2 DT, 3 FM and 1 Tiebreaker.
 8. Players must have at least 1 mod activated during the Free Mod pool.
 9. You are allowed 1 map ban per match, this does not include the Tie-breaker.

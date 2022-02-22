@@ -220,11 +220,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Camellia as "fluX Xroise" - Xronier (GNKait) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1012049#taiko/2118191)
   2. [VINRG - Do It Now (\_Rise) \[90%\]](https://osu.ppy.sh/beatmapsets/1082788#taiko/2290588)
   3. [U-F SEQUENCER - VENOM type: hallucinogenic (Zetera) \[Majin Oni\]](https://osu.ppy.sh/beatmapsets/1055342#taiko/2205107)
-- HardRock
+- Hard Rock
   1. [Sakamoto Eizo x Yusuke Takahama - UNDEAD HEART(Warriors of Anger) (Lugei) \[UNDEAD ONI\]](https://osu.ppy.sh/beatmapsets/599063#taiko/1266191)
   2. [MisoilePunch\* \~Takenoko Zoe\~ - Staring at star (KitajimaYN) \[STARING ONI\]](https://osu.ppy.sh/beatmapsets/678356#taiko/1434363)
   3. [Linda AI-CUE - Joubutsu 2000 (-Kazu-) \[Peaceful Rest\]](https://osu.ppy.sh/beatmapsets/797892#taiko/1675579)
-- DoubleTime
+- Double Time
   1. [Ni-Sokkususu - Shukusai no Elementalia (Rhytoly) \[Roger's Kneesocks\]](https://osu.ppy.sh/beatmapsets/927110#taiko/1937119)
   2. [Konuko - Toumei Elegy (incandescence) \[Transparency\]](https://osu.ppy.sh/beatmapsets/563743#taiko/1684637)
   3. [Glacier - Cyan (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/935512#taiko/1954533)
@@ -250,11 +250,11 @@ This competition has come to an end and resulted in the following podium:
   1. [m108 - \*Crow Solace\* (TKS) \[KrazySalt\]](https://osu.ppy.sh/beatmapsets/392909#taiko/855362)
   2. [arai tasuku - Dear Alice (yea) \[Dear Oni\]](https://osu.ppy.sh/beatmapsets/1003560#taiko/2100446)
   3. [Hermit - Dysnomia (Volta) \[Oni v2\]](https://osu.ppy.sh/beatmapsets/556502#taiko/1177734)
-- HardRock
+- Hard Rock
   1. [Umeboshi Chazuke - Run\*2 Run To You!! (steven1) \[\*Run Oni\]](https://osu.ppy.sh/beatmapsets/583741#taiko/1235211)
   2. [Hana to Onyx - Ariadne (Y O U T A) \[Inner Aria\]](https://osu.ppy.sh/beatmapsets/584627#taiko/1236880)
   3. [HyuN - The Apocalypse (Capu) \[Apocalyptic Oni\]](https://osu.ppy.sh/beatmapsets/1075603#taiko/2250660)
-- DoubleTime
+- Double Time
   1. [Dschinghis Khan - Moskau (Camellia's Handzup Bootleg) (Rhytoly) \[Moskau! Moskau!\]](https://osu.ppy.sh/beatmapsets/987752#taiko/2066352)
   2. [DIVELA feat. Hatsune Miku - DITHER TUNE (uone) \[uone&Shallty's Inner Oni\]](https://osu.ppy.sh/beatmapsets/844655#taiko/1766838)
   3. [lapix - Future Raver feat. Numb'n'dub (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/963997#taiko/2018209)
@@ -280,11 +280,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Ozashin - Uzauza Wao-ssu! (DJ WAKARAN GIRL Hayasugiru FLEX) (7\_7) \[Uza\]](https://osu.ppy.sh/beatmapsets/925808#taiko/1933801)
   2. [Feryquitous - Risk (ensan71714) \[Risky Oni\]](https://osu.ppy.sh/beatmapsets/858100#taiko/1793351)
   3. [Prospect & Pinnacle - Zombie Nightclub (\]\_p) \[Oni\]](https://osu.ppy.sh/beatmapsets/615245#taiko/1297763)
-- HardRock
+- Hard Rock
   1. [Kaneko Chiharu - Yuki Onna (sing216) \[Frozen Oni\]](https://osu.ppy.sh/beatmapsets/650949#taiko/1379236)
   2. [t+pazolite - Magical Higan Tour 2009 (eiri-) \[Nishizumi's Inner Oni\]](https://osu.ppy.sh/beatmapsets/838744#taiko/1755957)
   3. [Igorrr - Robert (DukeDukeDura) \[Essence\]](https://osu.ppy.sh/beatmapsets/777877#taiko/1633996)
-- DoubleTime
+- Double Time
   1. [Halozy - Deconstruction Star (CLSW) \[Kano's Inner Oni\]](https://osu.ppy.sh/beatmapsets/319217#taiko/727859)
   2. [cillia - FIRST (Chromoxx) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/424506#taiko/917016)
   3. [K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) (J a c k y) \[Legends\]](https://osu.ppy.sh/beatmapsets/887760#taiko/1855737)
@@ -304,9 +304,9 @@ This competition has come to an end and resulted in the following podium:
   2. [Camellia - Bloody Kiss (Nifty) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1015662#taiko/2125707)
 - Hidden
   1. [sky_delta - Midnight City Warfare (Taka030) \[Midnight Oni\]](https://osu.ppy.sh/beatmapsets/976845#taiko/2044635)
-- HardRock
+- Hard Rock
   1. [siqlo - pars/ey (HEKUSODASU) \[KTYN\]](https://osu.ppy.sh/beatmapsets/1063808#taiko/2227426)
-- DoubleTime
+- Double Time
   1. [yuikonnu & ayaponzu\* - Super Nuko World (AllStar12) \[Yia & D.N.Angel's Oni\]](https://osu.ppy.sh/beatmapsets/153776#taiko/435822)
 
 ### Regional phase
@@ -326,11 +326,11 @@ This competition has come to an end and resulted in the following podium:
   1. [xyst - Ylil's overed landscape (SKSalt) \[komasy's Inner Oni\]](https://osu.ppy.sh/beatmapsets/897948#taiko/1887454)
   2. [s-don - Gamegame (iceOC) \[iceOC\]](https://osu.ppy.sh/beatmapsets/757620#taiko/1593794)
   3. [Apocalyptica - Hall of the Mountain King (Skull Kid) \[Taiko King\]](https://osu.ppy.sh/beatmapsets/586241#taiko/1241620)
-- HardRock
+- Hard Rock
   1. [fether - Pf Concerto No.1 "Anti-Ares" (For the pink to inhale whatever) (maziari1105) \[Endless Adventure\]](https://osu.ppy.sh/beatmapsets/662541#taiko/1402421)
   2. [LULICO vs LOLIPO - We hate Touhou (7\_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/686401#taiko/1452691)
   3. [Camellia - {albus} (nyanmi-1828) \[Innocence\]](https://osu.ppy.sh/beatmapsets/879551#taiko/2037258)
-- DoubleTime
+- Double Time
   1. [Caravan Palace - Lone Digger (Grimbow) \[Oni\]](https://osu.ppy.sh/beatmapsets/619354#taiko/1305482)
   2. [DJ Noriken - #The\_Relentless\_(Modified) (Raphalge) \[#The\_Drum\_Master\_\]](https://osu.ppy.sh/beatmapsets/583818#taiko/1235309)
   3. [Frums - Wavetapper (ekumea1123) \[---\]\[-\]\[---\]](https://osu.ppy.sh/beatmapsets/926981#taiko/1936126)
@@ -356,11 +356,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Feryquitous - Ordirehv (Skull Kid) \[Diversity\]](https://osu.ppy.sh/beatmapsets/952980#taiko/1989808)
   2. [sasakure.UK - Brionac of Steel-flash feat. Perio (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/827210#taiko/1733423)
   3. [98shiki Senkai Kikanju - Hutago Gattai Break (7\_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/887725#taiko/1855660)
-- HardRock
+- Hard Rock
   1. [LeaF - Evanescent (Vulkin) \[Aspirant Oni\]](https://osu.ppy.sh/beatmapsets/802984#taiko/1685529)
   2. [nyaso - Lonely Goddess (yea) \[Not Lonely\]](https://osu.ppy.sh/beatmapsets/730567#taiko/1541828)
   3. [The Flashbulb - Amen Iraq (Volta) \[Fatal Oni\]](https://osu.ppy.sh/beatmapsets/966277#taiko/2022565)
-- DoubleTime
+- Double Time
   1. [Eluveitie - King (frukoyurdakul) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/635088#taiko/1347668)
   2. [LukHash - Ghosts (Nepuri) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/918903#taiko/1918740)
   3. [C-Show - Night City Runway (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/945707#taiko/1974778)
@@ -386,11 +386,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Getty vs. DJ DiA - Engage-Rex- (rubies87) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/876202#taiko/2135352)
   2. [MYUKKE. - OCCHOCO-REST-LESS (Jaye) \[Scatterbrain\]](https://osu.ppy.sh/beatmapsets/1041076#taiko/2175834)
   3. [Lite Show Magic - Juggler's Maddness (kei821) \[Madness\]](https://osu.ppy.sh/beatmapsets/683465#taiko/1445582)
-- HardRock
+- Hard Rock
   1. [sky_delta - Cryonix (Felt7z) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/641780#taiko/1360777)
   2. [TAROLIN - Anoko no Jinta (TARO no Jigoku Megu Remix) (eiri-) \[Outer Oni\]](https://osu.ppy.sh/beatmapsets/825937#taiko/1731105)
   3. [ARForest - Metheus (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/662696#taiko/1402746)
-- DoubleTime
+- Double Time
   1. [Daler Mehndi - Tunak Tunak Tun (Midnaait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/569815#taiko/1207900)
   2. [Yousei Teikoku - Mischievous of Alice (Delis) \[Nardo's Oni\]](https://osu.ppy.sh/beatmapsets/623960#taiko/1516754)
   3. [The Flashbulb - Creep (Greenshell) \[komasy's Inner Oni\]](https://osu.ppy.sh/beatmapsets/966087#taiko/2100985)
@@ -414,10 +414,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Team Grimoire vs Laur - Grievous Lady (john571) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/694746#taiko/1469714)
   2. [The Flashbulb - Mellan (Midnaait) \[Blemished Oni (1.5x)\]](https://osu.ppy.sh/beatmapsets/805407#taiko/1690673)
-- HardRock
+- Hard Rock
   1. [ETIA. feat. Jenga - On And On!! (\[\_Chichinya\_\]) \[On And Oni\]](https://osu.ppy.sh/beatmapsets/874912#taiko/1828471)
   2. [Slam & Nato - Paradoxx (Nyan) \[Oni\]](https://osu.ppy.sh/beatmapsets/593605#taiko/1255773)
-- DoubleTime
+- Double Time
   1. [Eve - Tokyo Ghetto (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/811439#taiko/1702170)
   2. [ONE OK ROCK - Shake it down (tutuhaha) \[qoot8123's Oni\]](https://osu.ppy.sh/beatmapsets/72046#taiko/214447)
 - FreeMod
@@ -439,10 +439,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Lite Show Magic (t+pazolite vs C-Show) - Stronghold (Ayyri) \[Outer Oni\]](https://osu.ppy.sh/beatmapsets/537716#taiko/1139358)
   2. [EYE XY feat. Yoneko - Knight of Firmament (\[\_Chichinya\_\]) \[The Chevalier\]](https://osu.ppy.sh/beatmapsets/812640#taiko/1704461)
-- HardRock
+- Hard Rock
   1. [YUC'e - Future Cider (GNKait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1046544#taiko/2187778)
   2. [UNLIMITED TROOPERS - RAPID BURSTER (EdamaMe411) \[TJBC#6\]](https://osu.ppy.sh/beatmapsets/768443#taiko/1616095)
-- DoubleTime
+- Double Time
   1. [SOSOSO (Tsukui Kazuhito) - Try for Keeps (Album Edition) (feat. Hatsune Miku) (Aloda) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/674780#taiko/1427679)
   2. [S3RL feat Krystal - R4V3 B0Y (Nishizumi) \[0N1\]](https://osu.ppy.sh/beatmapsets/593010#taiko/1254644)
 - FreeMod
@@ -464,10 +464,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [AAAA Chazuke - Sayonara Cosmonaut (D o t) \[aabc's Inner Oni\]](https://osu.ppy.sh/beatmapsets/694743#taiko/1497700)
   2. [the wandering bard feat. Shikata Akiko - Catastrophic Dance (Taka030) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/943466#taiko/1970288)
-- HardRock
+- Hard Rock
   1. [orangentle / Yu_Asahina - HAELEQUINZ -the clown of 24stairs- (Jaye) \[Zetera's Inner Oni\]](https://osu.ppy.sh/beatmapsets/623427#taiko/1473328)
   2. [Silent Siren - Soukai Rock (kai53247) \[Yuni's SOHKAI TAIKO\]](https://osu.ppy.sh/beatmapsets/502726#taiko/1069899)
-- DoubleTime
+- Double Time
   1. [PSY - DADDY(feat. CL of 2NE1) (chaica) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/859947#taiko/1799339)
   2. [Tsukikage - Supatto! Spy & Spyce (Jun Kuroda Bootleg Remix) (komasy) \[Oni\]](https://osu.ppy.sh/beatmapsets/882086#taiko/1844173)
 - FreeMod
@@ -486,9 +486,9 @@ This competition has come to an end and resulted in the following podium:
   2. [t+pazolite - FUJIN Rumble (tpz Overheat Remix) (Dargin) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/699387#taiko/1481060)
 - Hidden
   1. [NOMA - LOUDER MACHINE (Skull Kid) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/525729#taiko/1115747)
-- HardRock
+- Hard Rock
   1. [M2U - Marionette (uone) \[Oni\]](https://osu.ppy.sh/beatmapsets/932120#taiko/1946213)
-- DoubleTime
+- Double Time
   1. [Kagamine Rin - Meltdown (ertyukjh010) \[KS's Taiko\]](https://osu.ppy.sh/beatmapsets/45672#taiko/151655)
 
 ## Match results
@@ -776,7 +776,7 @@ Sunday, 10 November 2019:
 
 1. This tournament is a two-parts tournament. The first part will be a 1v1 tournament within different regions. There will be 7 of these, all played at the same dates. The second part will be a 4v4 between the top 8 of each region.
 2. The players/teams will first play a Qualifiers to seed them accordingly, then will head on to a double-elimination tournament.
-3. The Score System used will be **Score V2**.
+3. The Score System used will be **ScoreV2**.
 4. Any player who meets the requirements stated in the restrictions part is allowed to play. Since this tournament will aim to get badged, some players might be declined by osu staff, reasons may vary from being unrestricted within the past year, multiaccounting, boosting accounts, etc. The hosts will not be made aware of the exact reasons as to why a player will be declined. Please do not ask them, and contact osu! support instead.
 5. Any staff members except **Organizers, Mappoolers, and Referees** are allowed to play.
 6. Players and staff members must have read this ruleset entirely (and we will assume you did so throughout the tournament).
@@ -819,13 +819,13 @@ Sunday, 10 November 2019:
 
 1. There will be 1 mappool for each of the following: Qualifiers, RO32, RO16, Quarterfinals, Semifinals, Finals and Grand Finals. For the 1v1 tournaments, every mappool will be the same, due to mapsetters realistically not being able to release 7 mappools every week.
 2. The Loser's Bracket will always play on the same pool as the Winner's bracket of the same weekend.
-3. The Qualifiers pool will be different from all the other rounds, as it will have a format of 2 NoMod maps, 1 Hidden map, 1 HardRock map, 1 DoubleTime map.
-4. Each mappool consists of 6 brackets: NoMod, Hidden, HardRock, DoubleTime, FreeMod and Tiebreaker.
+3. The Qualifiers pool will be different from all the other rounds, as it will have a format of 2 NoMod maps, 1 Hidden map, 1 Hard Rock map, 1 Double Time map.
+4. Each mappool consists of 6 brackets: NoMod, Hidden, Hard Rock, Double Time, FreeMod and Tiebreaker.
 5. The Round Of 32 and Round Of 16 mappool will have 14 maps each. The quarterfinals mappool will have 15 maps. The mappools from Semifinals until Grand Finals will have 19 maps.
 6. The size of the NoMod bracket will be of 4 in Round Of 32 and Round Of 16, it will be of 5 in Quarterfinals, and it will be of 6 in Semifinals until Grand Finals.
 7. The size of the Hidden, Hard Rock, and Double Time will be of 2 from RO32 until Quarterfinals, and it will be of 3 from Semifinals until Grand Finals.
 8. The size of the FreeMod pool will be of 3 during the entire tournament.
-9. The FreeMod pool is played with FreeMod activated. Every individual player can pick Hidden, HardRock or both. **At least one player of each team must have at least one mod activated.**
+9. The FreeMod pool is played with FreeMod activated. Every individual player can pick Hidden, Hard Rock or both. **At least one player of each team must have at least one mod activated.**
 10. The Tiebreaker is played under FreeMod conditions but it is not necessary that at least one player has at least one mod activated.
 11. The mappool for each stage will be showcased a week before.
 
@@ -842,8 +842,8 @@ Sunday, 10 November 2019:
 2. If no staff or referee is available, the match will be postponed.
 3. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes. After then, it will be a WBD no matter what, unless if the players in the lobby do not mind waiting more time.
 4. If neither of both teams have the minimum required players after 10 minutes, the highest seeded team will advance.
-5. During the 1v1 tournament, matches will be played as Head to Head and Score V2. The name of the room will be "CGTS 2019: (Player 1) vs (Player 2)"
-6. During the team tournament, matches will be played as Team VS and Score V2. The name of the room will be "CGTS 2019: (Team Red) vs (Team Blue)".
+5. During the 1v1 tournament, matches will be played as Head to Head and ScoreV2. The name of the room will be "CGTS 2019: (Player 1) vs (Player 2)"
+6. During the team tournament, matches will be played as Team VS and ScoreV2. The name of the room will be "CGTS 2019: (Team Red) vs (Team Blue)".
 7. Each player/team is allowed one warm-up but it must be below 4 minutes. Everyone from both teams is allowed in the room during warm ups.
 8. Each player/captain has to ban **one beatmap** to be selected from the pool (apart from Tiebreaker). These beatmaps are not allowed to be picked by any team in the entire match.
 9. Players/The captain of each team will roll with the command `!roll` in the chat.

@@ -81,7 +81,7 @@ The osu!mania 4K World Cup 2019 was run by various community members.
 | ![][flag_PL] | **Poland** | **[Tidek](https://osu.ppy.sh/users/743282)**, [\_underjoy](https://osu.ppy.sh/users/2235750), [DaDarkDragon](https://osu.ppy.sh/users/8902097), [Hudonom](https://osu.ppy.sh/users/1654221), [SitekX](https://osu.ppy.sh/users/3840946), [Triksu](https://osu.ppy.sh/users/7233032) |
 | ![][flag_RU] | **Russian Federation** | **[YaLTeR](https://osu.ppy.sh/users/3910006)**, [AngeloLagusa](https://osu.ppy.sh/users/9074986), [c1e4r](https://osu.ppy.sh/users/8693182), [fegasaren0133](https://osu.ppy.sh/users/8035172), [Legend27](https://osu.ppy.sh/users/6283029), [Lerck](https://osu.ppy.sh/users/10450696) |
 | ![][flag_SG] | **Singapore** | **[ByeForNow](https://osu.ppy.sh/users/7199159)**, [jacketsniffer](https://osu.ppy.sh/users/7462804), [Jozzeh](https://osu.ppy.sh/users/9730535), [Polytetral](https://osu.ppy.sh/users/8612061), [Raveille](https://osu.ppy.sh/users/1388767), [-Yue-](https://osu.ppy.sh/users/9362562) |
-| ![][flag_KR] | **South Korea** | **[wonder5193](https://osu.ppy.sh/users/8474029)**, [blueBloody](https://osu.ppy.sh/users/8046839), [HIKANARI](https://osu.ppy.sh/users/4698728), [Kalkai](https://osu.ppy.sh/users/10790649), [Nausicaa](https://osu.ppy.sh/users/903155), [SuddenDeath](https://osu.ppy.sh/users/6699923) |
+| ![][flag_KR] | **South Korea** | **[wonder5193](https://osu.ppy.sh/users/8474029)**, [blueBloody](https://osu.ppy.sh/users/8046839), [HIKANARI](https://osu.ppy.sh/users/4698728), [Kalkai](https://osu.ppy.sh/users/10790649), [Nausicaa](https://osu.ppy.sh/users/903155), [Sudden Death](https://osu.ppy.sh/users/6699923) |
 | ![][flag_ES] | **Spain** | **[GreenSoul](https://osu.ppy.sh/users/8497100)**, [ElGuiller456](https://osu.ppy.sh/users/11309476), [Komirin](https://osu.ppy.sh/users/4725379) |
 | ![][flag_SE] | **Sweden** | **[Sadcat](https://osu.ppy.sh/users/4123399)**, [Akox-](https://osu.ppy.sh/users/7277169), [Vortex-](https://osu.ppy.sh/users/4999669), [Yoshiori](https://osu.ppy.sh/users/5045509) |
 | ![][flag_CH] | **Switzerland** | **[Gamer97](https://osu.ppy.sh/users/4952941)**, [Adyrem](https://osu.ppy.sh/users/8642966), [doere\_](https://osu.ppy.sh/users/8372292), [Tupidix](https://osu.ppy.sh/users/8655604) |
@@ -378,7 +378,7 @@ Sunday, 22 September 2019:
 
 1. The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode.
    - **While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.**
-2. Beatmap scoring is based on Score V2.
+2. Beatmap scoring is based on ScoreV2.
 3. The beatmaps for each round will be announced by the Map Selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - The Group Stage mappool will be announced after the drawings.
    - One beatmap will be given as a tiebreaker beatmap. This beatmap will only be played in case of a tie.
@@ -483,7 +483,7 @@ Sunday, 22 September 2019:
 2. Each mappool consists of a fixed amount of maps each stage (see below) which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The Group Stage mappool will consist of 12 maps, Round of 16 and Quarterfinals will consist of 14 maps, SemiFinals and Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
-5. Possible mod choices for all maps are Hidden, FadeIn, Flashlight and Mirror.
+5. Possible mod choices for all maps are Hidden, Fade In, Flashlight and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling instructions

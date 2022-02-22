@@ -103,10 +103,10 @@ The osu!taiko World Cup 2017 was run by various community members.
 - Hidden
   1. [goreshit - boiler (\_yu68) \[Oni\]](https://osu.ppy.sh/beatmapsets/583989#taiko/1235624)
   2. [M-O-T-U - Calculator (wallacenew) \[WNW's Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/124808#taiko/317959)
-- HardRock
+- Hard Rock
   1. [DJ SHARPNEL - Marunouchi surviver (OnosakiHito) \[Ono's Ura Oni\]](https://osu.ppy.sh/beatmapsets/230813#taiko/536650)
   2. [xi - FREEDOM DiVE (Ekoro) \[EX'S ULTIMATE CHALLENGE\]](https://osu.ppy.sh/beatmapsets/168140#taiko/412126)
-- DoubleTime
+- Double Time
   1. [sasakure.UK - The UniversaL ElekiteL (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/567572#taiko/1202588)
   2. [Yuyoyuppe - AiAe (Chromoxx) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/560375#taiko/1185015)
 - FreeMod
@@ -129,10 +129,10 @@ The osu!taiko World Cup 2017 was run by various community members.
 - Hidden
   1. [Cardboard Box - ++ (Vulkin) \[Grim's N+\]](https://osu.ppy.sh/beatmapsets/572069#taiko/1213129)
   2. [The Flashbulb - Lawn Wake III (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/253883#taiko/582645)
-- HardRock
+- Hard Rock
   1. [Chroma - sink to the deep sea world (Ulqui) \[Overlapse Oni\]](https://osu.ppy.sh/beatmapsets/589811#taiko/1248348)
   2. [Tatsh - CYBER Sparks (Unmei Muma) \[Akumu\]](https://osu.ppy.sh/beatmapsets/583081#taiko/1233925)
-- DoubleTime
+- Double Time
   1. [cranky - R176 (taka1235) \[Pangko\]](https://osu.ppy.sh/beatmapsets/31367#taiko/121335)
   2. [Presti - Veritas (Chromoxx) \[Secret\]](https://osu.ppy.sh/beatmapsets/559954#taiko/1184169)
 - FreeMod
@@ -156,10 +156,10 @@ The osu!taiko World Cup 2017 was run by various community members.
 - Hidden
   1. [DJ Technorch - Feeling Mega-Good! (Radio Mix) (Backfire) \[Taikocalypse DX 3\]](https://osu.ppy.sh/beatmapsets/270029#taiko/614333)
   2. [U1 High-Speed - EGOISM 440 (Nyan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/368369#taiko/807680)
-- HardRock
+- Hard Rock
   1. [t+pazolite - Sneak Snake (R e i R i) \[Reiri & Ringo's Taiko\]](https://osu.ppy.sh/beatmapsets/304570#taiko/682323)
   2. [xi - Garyou Tensei (Spicy Salsa) \[Cdh's Inner Oni\]](https://osu.ppy.sh/beatmapsets/456825#taiko/1080076)
-- DoubleTime
+- Double Time
   1. [Eagle - S!ck (TKS) \[Ryui's Inner On!\]](https://osu.ppy.sh/beatmapsets/155516#taiko/388397)
   2. [sakuzyo - Altale (-xNaCLx-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/381450#taiko/834458)
 - FreeMod
@@ -183,10 +183,10 @@ The osu!taiko World Cup 2017 was run by various community members.
 - Hidden
   1. [KillerBlood - Run Lads Run (Nwolf) \[Run Oni Run\]](https://osu.ppy.sh/beatmapsets/571334#taiko/1210839)
   2. [BlackY - Harpuia (Ichigaki) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/295703#taiko/706841)
-- HardRock
+- Hard Rock
   1. [L.E.D. vs S-C-U - Confiserie (-xNaCLx-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/369596#taiko/809880)
   2. [Kola Kid - can't hide your love (Ekoro) \[Divine Light\]](https://osu.ppy.sh/beatmapsets/207479#taiko/488844)
-- DoubleTime
+- Double Time
   1. [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro (Shiirn) \[Nwolf's Oni\]](https://osu.ppy.sh/beatmapsets/436978#taiko/978374)
   2. [SABREMISSILE - Pernicious Deed (Unmei Muma) \[Pernicious\]](https://osu.ppy.sh/beatmapsets/576748#taiko/1220922)
 - FreeMod
@@ -210,10 +210,10 @@ The osu!taiko World Cup 2017 was run by various community members.
 - Hidden
   1. [EBICO & jioyi - Slit (Firce777) \[Inner \[O\]ni\]](https://osu.ppy.sh/beatmapsets/211767#taiko/497928)
   2. [BlackY vs. Yooh - HAVOX (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/553741#taiko/1172439)
-- HardRock
+- Hard Rock
   1. [YUC'e - MUDPIE (Y O U T A) \[Kinobles' Pie\]](https://osu.ppy.sh/beatmapsets/559992#taiko/1185733)
   2. [USAO - Dynamite (Extended Mix) (tsubaki131) \[nyan\]](https://osu.ppy.sh/beatmapsets/542446#taiko/1149905)
-- DoubleTime
+- Double Time
   1. [Caravan Palace - Dragons (Charles445) \[MM's Taiko\]](https://osu.ppy.sh/beatmapsets/46733#taiko/145511)
   2. [yassu - dolosus (yassu-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/429869#taiko/927446)
 - FreeMod
@@ -347,10 +347,10 @@ Sunday, 12 March 2017:
 
 1. The osu!taiko World Cup is a country-based team tournament, played on the osu!taiko game mode.
    - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
-2. **Map scoring is based on Score V2**. It uses an alternative way of weighting hit objects, accuracy and combo and alters various gameplay elements. It is available as unranked mod in song selection for practise on the Cutting Edge build. [Read this thread](https://osu.ppy.sh/community/forums/topics/550582) for more information!
+2. **Map scoring is based on ScoreV2**. It uses an alternative way of weighting hit objects, accuracy and combo and alters various gameplay elements. It is available as unranked mod in song selection for practise on the Cutting Edge build. [Read this thread](https://osu.ppy.sh/community/forums/topics/550582) for more information!
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
@@ -448,19 +448,19 @@ Sunday, 12 March 2017:
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - Finals Week 1 & Finals Week 2 use the same mappool.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no modes activated.
-6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
-7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock or both, based on the beatmap.
+6. The Hidden, Hard Rock and Double Time bracket will be played with the respective modes activated.
+7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, Hard Rock or both, based on the beatmap.
    - When playing a FreeMod map, at least 1 player of each team must have at least one mode activated.
-   - Each FreeMod beatmap has allowed and disallowed mod combinations. For example, one beatmap can be played with HardRock and Hidden but not with both, another map can be played with HardRock and HardRock + Hidden but not with Hidden alone. You can find the only allowed mod combinations in the mappool behind the respective FreeMod beatmap. Combinations not listed can not be chosen.
+   - Each FreeMod beatmap has allowed and disallowed mod combinations. For example, one beatmap can be played with Hard Rock and Hidden but not with both, another map can be played with Hard Rock and Hard Rock + Hidden but not with Hidden alone. You can find the only allowed mod combinations in the mappool behind the respective FreeMod beatmap. Combinations not listed can not be chosen.
 8. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, no one needs to have a mode activated.
    - Tiebreakers will also have allowed and disallowed mod combinations. Usually, all combinations will be allowed, but there might be exceptions depending on the selected beatmap.
 9. The size of the NoMod bracket will be 6 in all stages.
-10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 2 in all stages.
+10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time) brackets will be 2 in all stages.
 11. The size of the FreeMod brackets will be 3 in all stages.
 
 ### Scheduling instructions

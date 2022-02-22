@@ -89,11 +89,11 @@ This competition has come to an end and resulted in the following podium:
   1. [YUC'e - Sengoku HOP (c/f Athenarium) (Nathan) [YOISHO]](https://osu.ppy.sh/beatmapsets/564329#osu/1193089)
   2. [Harada Hitomi - Kyoumei no True Force (Kibbleru) [Ex]](https://osu.ppy.sh/beatmapsets/454893#osu/975153)
   3. [LIQU@. - Yotogibanashi no Kamikakushi (Kyubey) [oko's Extra]](https://osu.ppy.sh/beatmapsets/236396#osu/717133)
-- HardRock
+- Hard Rock
   1. [Exilia - Lifegame (P o M u T a) [Expert]](https://osu.ppy.sh/beatmapsets/331859#osu/735004)
   2. [Kanpyohgo - Unmei no Dark Side -Rolling Gothic mix (My Angel Azusa) [Extra]](https://osu.ppy.sh/beatmapsets/514980#osu/1093661)
   3. [GARNiDELiA - Yakusoku -Promise code- (Meg) [Extra]](https://osu.ppy.sh/beatmapsets/544646#osu/1154149)
-- DoubleTime
+- Double Time
   1. [Rita - Alicemagic \~TV animation ver.\~ (Frostmourne) [Insane]](https://osu.ppy.sh/beatmapsets/82612#osu/228557)
   2. [Owl City - Hello Seattle (Remix) (JauiPlaY) [Goodbye]](https://osu.ppy.sh/beatmapsets/41893#osu/136556)
   3. [fripSide - only my railgun -Euro Beat Charger Mix- (yongtw123) [Insane]](https://osu.ppy.sh/beatmapsets/47105#osu/146299)
@@ -115,10 +115,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [DJ S3RL - T-T-Techno (feat Jesskah) (nold\_1702) [Technonationalism]](https://osu.ppy.sh/beatmapsets/83560#osu/655794)
   2. [Lovely Summer-chan - Bedroom no Yume (Yunomi Remix) (sukiNathan) [Lucid]](https://osu.ppy.sh/beatmapsets/453839#osu/973129)
-- HardRock
+- Hard Rock
   1. [BoA - Kiseki (Hinsvar) [Miracle]](https://osu.ppy.sh/beatmapsets/150145#osu/370612)
   2. [Warak - Cosmic Invaders (Starfy) [Extraterrestial]](https://osu.ppy.sh/beatmapsets/558875#osu/1182106)
-- DoubleTime
+- Double Time
   1. [FELT - Roll Ground (Natsu) [Lunatic]](https://osu.ppy.sh/beatmapsets/327587#osu/726981)
   2. [akari - boys be "stand up"!! (Hollow Wings) [Collab Insane]](https://osu.ppy.sh/beatmapsets/177585#osu/427962)
 - FreeMod
@@ -138,10 +138,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Shoichiro Sakamoto - Eye of Aeon (KanaRin) [Aeon]](https://osu.ppy.sh/beatmapsets/26528#osu/89362)
   2. [Nekomata Master - Smile of Split (Charles445) [Insane]](https://osu.ppy.sh/beatmapsets/56847#osu/171678)
-- HardRock
+- Hard Rock
   1. [Yuaru - Asu no Yozora Shoukaihan (Akitoshi) [dqs01733's Extra]](https://osu.ppy.sh/beatmapsets/384772#osu/840686)
   2. [Memme - NEW Astronomas (Charles445) [Extra]](https://osu.ppy.sh/beatmapsets/87188#osu/238265)
-- DoubleTime
+- Double Time
   1. [Epik High - Fly (Zetera) [A I R]](https://osu.ppy.sh/beatmapsets/275219#osu/624245)
   2. [ChouCho - My dear friend (Delis) [Insane]](https://osu.ppy.sh/beatmapsets/206079#osu/486131)
 - FreeMod
@@ -161,10 +161,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [L.E.D. Vs. Yuuhei Satellite - Torikago no Houou (10nya) [Another]](https://osu.ppy.sh/beatmapsets/121989#osu/312282)
   2. [Max Coveri - Running in the 90's (Gabi) [Insane]](https://osu.ppy.sh/beatmapsets/18482#osu/65417)
-- HardRock
+- Hard Rock
   1. [Yuuzuki Tsubaki - midnight cookie (moonlightleaf) [lfj's Lunatic]](https://osu.ppy.sh/beatmapsets/376101#osu/832841)
   2. [Neru - Lost One no Goukoku (goodbye) [Kotone]](https://osu.ppy.sh/beatmapsets/83547#osu/231475)
-- DoubleTime
+- Double Time
   1. [Kanon Wakeshima - Kajitsu no Keikoku (Kite) [yami]](https://osu.ppy.sh/beatmapsets/28063#osu/93721)
   2. [Donkeyboy - City Boy (MathiasXII) [Almighty Eagle]](https://osu.ppy.sh/beatmapsets/44875#osu/157805)
 - FreeMod
@@ -184,10 +184,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [kors k feat. Rie - Rising in the Sun (original mix) (Mr Color) [Another]](https://osu.ppy.sh/beatmapsets/51478#osu/157771)
   2. [Hanatan - Kitsune no Yomeiri (Ryafuka) [Kitsuneko]](https://osu.ppy.sh/beatmapsets/46070#osu/144387)
-- HardRock
+- Hard Rock
   1. [nano - Exist (LunarSakuya) [Existence]](https://osu.ppy.sh/beatmapsets/70257#osu/202072)
   2. [DJ Genericname - Dear You (Rue) [Dear Rue]](https://osu.ppy.sh/beatmapsets/43466#osu/136400)
-- DoubleTime
+- Double Time
   1. [FELT - Hail Storm (Kite) [Challenging]](https://osu.ppy.sh/beatmapsets/122349#osu/312973)
   2. [30 Seconds To Mars - This Is War (Kyshiro) [Exquisite]](https://osu.ppy.sh/beatmapsets/97192#osu/260022)
 - FreeMod
@@ -334,7 +334,7 @@ Monday, 3 April 2017:
   - For qualifiers, the mappool will be played in order.
 - Each player is allowed one ban per match. The tiebreaker cannot be banned.
 - If a player disconnects during the match in which the outcome would have been different. A rematch can be offered under the Referee’s discretion.
-- Score V2 will be used.
+- ScoreV2 will be used.
 - For FreeMod picks, players must select a choice of HD, HR, EZ, FL or a combination of these mods.
   - Players can choose to play FreeMod picks with DT if both players agree.
 

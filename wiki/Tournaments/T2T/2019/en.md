@@ -130,11 +130,11 @@ This competition has come to an end and resulted in the following podium:
   1. [sasakure.UK - Good Bye, Mr. Jack (Xilver15) [ReMiX]](https://osu.ppy.sh/beatmapsets/586425#osu/1241924)
   2. [twiddy - Live from the Bowling Alley (squirrelpascals) [Timmy's 10th Birthday Party!!!]](https://osu.ppy.sh/beatmapsets/873671#osu/1826150)
   3. [Konuko - Toumei Elegy (Awaken) [Skystar's Tragic Love Extra]](https://osu.ppy.sh/beatmapsets/219380#osu/790048)
-- HardRock
+- Hard Rock
   1. [Natsume Chiaki - Hanairo Biyori (rinsukir) [Awaken's Challenge]](https://osu.ppy.sh/beatmapsets/143397#osu/509510)
   2. [LeaF - I (Maddy) [Terror]](https://osu.ppy.sh/beatmapsets/99244#osu/264090)
   3. [The Prodigy - Smack My Bitch Up (whymeman) [Ass Kicking]](https://osu.ppy.sh/beatmapsets/24949#osu/89171)
-- DoubleTime
+- Double Time
   1. [Nightcore - Ravers Fantasy (LoweH) [Lizbeth's Fantasy]](https://osu.ppy.sh/beatmapsets/11558#osu/57382)
   2. RIP SLYME - Super Shooter (galvenize) \[Super Collab (T2T Edit)\]
   3. [Meramipop - Star Breaker (Rizia) [Suta]](https://osu.ppy.sh/beatmapsets/296116#osu/665006)
@@ -162,11 +162,11 @@ This competition has come to an end and resulted in the following podium:
   1. [TSUNKU - Kumitate Koujou (CookieBite) [Ameth's Scale]](https://osu.ppy.sh/beatmapsets/504165#osu/1077307)
   2. [Rib - Seisou Bakuretsu Boy (Midge) [mark lee]](https://osu.ppy.sh/beatmapsets/526508#osu/1117247)
   3. [yuikonnu - Ghost Rule (Len) [Sonnyc's Insane]](https://osu.ppy.sh/beatmapsets/440650#osu/1573659)
-- HardRock
+- Hard Rock
   1. [IOSYS - Club Ibuki in Break All (TheMefisto) [Extra Stage]](https://osu.ppy.sh/beatmapsets/751755#osu/1582549)
   2. [Gekidan Hitotose - Curtain Call!!!!! (Left) [fieryrage & Left's Ex]](https://osu.ppy.sh/beatmapsets/633693#osu/1344836)
   3. [Wagakki Band - Senbonzakura (pkk) [Death Blossom]](https://osu.ppy.sh/beatmapsets/427508#osu/922916)
-- DoubleTime
+- Double Time
   1. [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) [Lunatic]](https://osu.ppy.sh/beatmapsets/24448#osu/92188)
   2. [Sana - Terekakushi Shishunki (litoluna) [Insane]](https://osu.ppy.sh/beatmapsets/202677#osu/479354)
   3. [Xe vs. cYsmix - Youkai Festival Shrine Road (Mirash) [Collab Lunatic]](https://osu.ppy.sh/beatmapsets/582274#osu/1232252)
@@ -192,11 +192,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Amane - BOOZEHOUND (den0saur) [old? new?]](https://osu.ppy.sh/beatmapsets/854235#osu/1785185)
   2. [Indica - Pahinta Tanaan (Morbon) [Mene pois]](https://osu.ppy.sh/beatmapsets/419466#osu/907760)
   3. [Chitose Sara - Merry Merry Go Round (SHOT MUSIC Asterisk Remix) (Settia) [Remix]](https://osu.ppy.sh/beatmapsets/535279#osu/1133815)
-- HardRock
+- Hard Rock
   1. [nao - Dimension tripper!!!! ([Minakami Yuki]) [Supreme]](https://osu.ppy.sh/beatmapsets/126749#osu/321973)
   2. [dark cat - STARS ALIGN (Nozhomi) [Shooting Star]](https://osu.ppy.sh/beatmapsets/606998#osu/1282215)
   3. [Foreground Eclipse - I Bet You'll Forget That Even If You Noticed That (Seni) [Extra]](https://osu.ppy.sh/beatmapsets/601135#osu/1398002)
-- DoubleTime
+- Double Time
   1. [ClariS - Connect (bakabaka) [Insane]](https://osu.ppy.sh/beatmapsets/26116#osu/88302)
   2. [SYNC.ART'S feat. Nakamura Meiko - Sword of Valiant (Sandpig) [Lunatic]](https://osu.ppy.sh/beatmapsets/25001#osu/89576)
   3. [Touyama Nao - Magical Mah-jongg World (Fycho) [Insane]](https://osu.ppy.sh/beatmapsets/74687#osu/259519)
@@ -221,10 +221,10 @@ This competition has come to an end and resulted in the following podium:
   1. [SHIKI - Pure Ruby (tsuka) [Another]](https://osu.ppy.sh/beatmapsets/39325#osu/125448)
   2. [Renard - Da Nu Nuttah (GamerX4life) [Nogard]](https://osu.ppy.sh/beatmapsets/62665#osu/205282)
   3. [LeaF - MEPHISTO (Alumetorz) [Extra]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
-- HardRock
+- Hard Rock
   1. [Fear, and Loathing in Las Vegas - Swing It!! (Guy) [Extra]](https://osu.ppy.sh/beatmapsets/204159#osu/482147)
   2. [Momoi Haruko - Luka Luka Night Fever (Lunah) [Lissette's Insane]](https://osu.ppy.sh/beatmapsets/21724#osu/83925)
-- DoubleTime
+- Double Time
   1. [Suzuki Konomi - THERE IS A REASON (Doormat) [KALIBE'S INSANE]](https://osu.ppy.sh/beatmapsets/641718#osu/1385091)
   2. [Flo Rida - Run ft. RedFoo of LMFAO (Speed Up Ver.) (ohad1881) [A Mystery's Insane]](https://osu.ppy.sh/beatmapsets/283731#osu/682966)
   3. [senya - Kimi to Dareka no Yasashisa ni (kakifly) [Affection]](https://osu.ppy.sh/beatmapsets/250337#osu/596161)
@@ -250,11 +250,11 @@ This competition has come to an end and resulted in the following podium:
   1. [SHK - Identity Part 4 (AngelHoney) [Insane]](https://osu.ppy.sh/beatmapsets/39428#osu/125702)
   2. [TSUNKU - Remix 10 Perfect Version (ktgster) [ezpz]](https://osu.ppy.sh/beatmapsets/597994#osu/1264052)
   3. [cYsmix - Manic (Bonsai) [Extra]](https://osu.ppy.sh/beatmapsets/361214#osu/804683)
-- HardRock
+- Hard Rock
   1. [Blackhole - Lagomorphic (happy623) [Lagomorph]](https://osu.ppy.sh/beatmapsets/74664#osu/211889)
   2. [UNISON SQUARE GARDEN - Sakura no Ato (all quartets lead to the?) (TV Size) (Nevo) [Glaceon's Insane]](https://osu.ppy.sh/beatmapsets/565004#osu/1872246)
   3. [ZUN - Year-Round Absorbed Curiosity (saymun) [Insane]](https://osu.ppy.sh/beatmapsets/19515#osu/68581)
-- DoubleTime
+- Double Time
   1. [Yuuhei Satellite - Overwrite to Ingenuousness (Leorda) [Lunatic]](https://osu.ppy.sh/beatmapsets/59133#osu/177425)
   2. [Kozato - 45nen no Yukizakura (LoliSora) [Hyper]](https://osu.ppy.sh/beatmapsets/50771#osu/155931)
   3. [ClariS - Anata ni FIT (Guy) [Insane]](https://osu.ppy.sh/beatmapsets/47708#osu/148653)
@@ -278,10 +278,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Acme Iku - chaosmaid (demo) (qilliam) [chaosmaid]](https://osu.ppy.sh/beatmapsets/38720#osu/123872)
   2. [An - artcore JINJA (Flower) [Lunatic]](https://osu.ppy.sh/beatmapsets/114987#osu/297411)
-- HardRock
+- Hard Rock
   1. [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (Mikkuri) [iyasine's Insane]](https://osu.ppy.sh/beatmapsets/335665#osu/747240)
   2. [Omoi - Chiisana Koi no Uta (Synth Rock Cover) (val0108) [Insane]](https://osu.ppy.sh/beatmapsets/609189#osu/1419961)
-- DoubleTime
+- Double Time
   1. [livetune feat. Hatsune Miku - Tell Your World (Colin Hou) [Hard]](https://osu.ppy.sh/beatmapsets/42110#osu/147605)
   2. [Red Velvet - Russian Roulette (Natsu) [Insane]](https://osu.ppy.sh/beatmapsets/510568#osu/1089041)
 - FreeMod
@@ -299,9 +299,9 @@ This competition has come to an end and resulted in the following podium:
   2. [xi - Aragami (Sayaka-) [Another]](https://osu.ppy.sh/beatmapsets/225377#osu/529358)
 - Hidden
   1. [Helblinde - Putin's Boner (Hanczer) [Alphabet's Insane]](https://osu.ppy.sh/beatmapsets/339939#osu/752560)
-- HardRock
+- Hard Rock
   1. [Shawn Wasabi - Marble Soda (Exa) [Insane]](https://osu.ppy.sh/beatmapsets/313718#osu/700321)
-- DoubleTime
+- Double Time
   1. [Megpoid GUMI - Nisemono no Uta (raririn) [Hard]](https://osu.ppy.sh/beatmapsets/45843#osu/142989)
 
 ## Ruleset
@@ -333,7 +333,7 @@ This competition has come to an end and resulted in the following podium:
 - Teams will roll **ONCE**. The winner of the roll will have the First warmup, Second ban and First pick.
 - Each team will have **2 minutes** to ban and pick maps. Failure to pick a map will result the pick going to the other team (This does not affect pick order).
 - Maps from the mappool may only be chosen once. Maps from the mappool cannot be chosen as a warmup.
-- In Freemod, each player may choose from the following mods: EZ, HR, HD, FL along with NoFail (which is required in all maps). NoFail does **NOT** count as a mod.
+- In Freemod, each player may choose from the following mods: EZ, HR, HD, FL along with No Fail (which is required in all maps). No Fail does **NOT** count as a mod.
 - Once players are ready, the match will begin on a 15 second countdown.
 - If a player disconnects during match play, the referee will abort the match. Teams will then decide on whether the map is played again or the team without issues gets the point.
 - Tiebreakers are played with FreeMod, however, they are not required for the Tiebreaker.

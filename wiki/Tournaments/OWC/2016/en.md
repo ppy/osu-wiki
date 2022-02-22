@@ -125,10 +125,10 @@ The osu! World Cup 2016 was run by various community members.
 - Hidden
   1. [Demetori - Silent Voyage to Eternity (brikel) \[BMix\]](https://osu.ppy.sh/beatmapsets/14309#osu/115384)
   2. [An - Catanoph (Lavender) \[Extra(OWC Version)\]](https://osu.ppy.sh/beatmapsets/527069#osu/1118285)
-- HardRock
+- Hard Rock
   1. [Studio EIM - Crescent Moon Island Boss Theme (Rakuen) \[\[ -Scarlet- \]'s Extra\]](https://osu.ppy.sh/beatmapsets/173422#osu/434438)
   2. [Camellia feat. Nanahira - Tsukitourou (jonathanlfj) \[Countless\]](https://osu.ppy.sh/beatmapsets/383147#osu/837694)
-- DoubleTime
+- Double Time
   1. [ClariS - Colorful (Laurier) \[Insane\]](https://osu.ppy.sh/beatmapsets/134008#osu/336295)
   2. [LeaF - MEPHISTO (Alumetorz) \[Another\]](https://osu.ppy.sh/beatmapsets/106212#osu/282166)
 - FreeMod
@@ -152,10 +152,10 @@ The osu! World Cup 2016 was run by various community members.
 - Hidden
   1. [DECO\*27 - Streaming Heart feat. Hatsune Miku (Tsumetaku) \[0108's Extra\]](https://osu.ppy.sh/beatmapsets/160126#osu/534946)
   2. [An - Saigo (Rumia-) \[Final\]](https://osu.ppy.sh/beatmapsets/517783#osu/1100091)
-- HardRock
+- Hard Rock
   1. [ginkiha - EOS (alacat) \[Lycoris\]](https://osu.ppy.sh/beatmapsets/151720#osu/373781)
   2. [Hatsune Miku - Sakura Zensen Ijou Nashi (Lalarun) \[Ijou Nashi\]](https://osu.ppy.sh/beatmapsets/32021#osu/104945)
-- DoubleTime
+- Double Time
   1. [Rain - Hip Song (Irreversible) \[Insane\]](https://osu.ppy.sh/beatmapsets/385185#osu/841426)
   2. [Neru - World Domination How-To (Chewin) \[Insane\]](https://osu.ppy.sh/beatmapsets/124898#osu/318142)
 - FreeMod
@@ -179,10 +179,10 @@ The osu! World Cup 2016 was run by various community members.
 - Hidden
   1. [Sound Horizon - Raijin no Hidariude (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/16792#osu/60089)
   2. [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/59049#osu/214252)
-- HardRock
+- Hard Rock
   1. [iojjj - Deus Ex Machina (Okoratu) \[GREAT EQUALIZER IS THE DEATH\]](https://osu.ppy.sh/beatmapsets/107747#osu/688886)
   2. [mafumafu - Yuugure Semi Nikki (L\_P) \[Yuugure\]](https://osu.ppy.sh/beatmapsets/60096#osu/180681)
-- DoubleTime
+- Double Time
   1. [Mami Kawada - sense (Giralda) \[LC's Insane\]](https://osu.ppy.sh/beatmapsets/325638#osu/723285)
   2. [ClariS - Connect (Holoaz) \[Holo\]](https://osu.ppy.sh/beatmapsets/25705#osu/87066)
 - FreeMod
@@ -206,10 +206,10 @@ The osu! World Cup 2016 was run by various community members.
 - Hidden
   1. [IOSYS - Poinsettia (Aakiha) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/18382#osu/65233)
   2. [Team:SASAKURATION - AVALON (Leader) \[gowww's Extra\]](https://osu.ppy.sh/beatmapsets/118763#osu/430110)
-- HardRock
+- Hard Rock
   1. [MYTHOLOGIA by MLREC. - Ymir (Kitami Erika) \[Another\]](https://osu.ppy.sh/beatmapsets/322481#osu/716972)
   2. [supercell - Hoshi ga Matataku Konna Yoru ni (\[Teichan\]) \[Starlight\]](https://osu.ppy.sh/beatmapsets/294042#osu/661243)
-- DoubleTime
+- Double Time
   1. [Kraster - Remember History (Short Ver.) (Serval) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/22115#osu/76419)
   2. [SYNC.ART'S - Sins -Kokoro no Tsumi- (Snowy Dream) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/51605#osu/158107)
 - FreeMod
@@ -233,10 +233,10 @@ The osu! World Cup 2016 was run by various community members.
 - Hidden
   1. [Cyua - Blumenkranz (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmapsets/155034#osu/380475)
   2. [sana - Kotonoha Clinic (Kite) \[Moroi\]](https://osu.ppy.sh/beatmapsets/419189#osu/907200)
-- HardRock
+- Hard Rock
   1. [Cascada - How Do You Do (Nightcore Mix) (Asphyxia) \[Insane\]](https://osu.ppy.sh/beatmapsets/203787#osu/481450)
   2. [Rameses B - Utopia (ft. Holly Drummond) (Milan-) \[deetz' Paradise\]](https://osu.ppy.sh/beatmapsets/294493#osu/662046)
-- DoubleTime
+- Double Time
   1. [Satori-san - Hari no Sora (Sure) \[Insane\]](https://osu.ppy.sh/beatmapsets/290262#osu/653966)
   2. [07th Expansion - goldenslaughterer (La Cataline) \[Hard\]](https://osu.ppy.sh/beatmapsets/37729#osu/121197)
 - FreeMod
@@ -390,9 +390,9 @@ Sunday, 13 November 2016:
 
 1. The osu! World Cup is a country-based team tournament, played on the osu! game mode.
    - This competition is planned as a 4 versus 4 setup.
-2. Map scoring is based on Score V2.
+2. Map scoring is based on ScoreV2.
 3. The maps for each round will be announced by the tournament management in advance on the weekend before the actual matches take place. Only these will be used during the respective matches.
-   - There will be a NoMod, Hidden, HardRock, DoubleTime and FreeMod bracket.
+   - There will be a NoMod, Hidden, Hard Rock, Double Time and FreeMod bracket.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
 4. Match schedules will be settled by the Tournament Management. Specific regulations can be found at the bottom.
 5. If no staff or referee is available, the match will be postponed.
@@ -476,7 +476,7 @@ Sunday, 13 November 2016:
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!, Team-Vs., Win Condition: 'Score v2'. Room name must be "OWC 2016: TeamBlue vs TeamRed".
+   - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "OWC 2016: TeamBlue vs TeamRed".
    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up maps. Using beatmaps with questionable or inappropriate content is prohibited.
 3. Each captain must ban one beatmap to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
@@ -492,18 +492,18 @@ Sunday, 13 November 2016:
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
    - Finals Week 1 & Finals Week 2 use the same mappool.
-2. Each mappool consists of 5 brackets: NoMod, Hidden, HardRock, DoubleTime and FreeMod
+2. Each mappool consists of 5 brackets: NoMod, Hidden, Hard Rock, Double Time and FreeMod
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no mods activated at all.
-6. The Hidden, HardRock and DoubleTime bracket will be played with the respective mod activated by all current players.
+6. The Hidden, Hard Rock and Double Time bracket will be played with the respective mod activated by all current players.
 7. The FreeMod bracket will have FreeMod activated.
-   - Possible mod choices are: Hidden, HardRock and Hidden+HardRock
+   - Possible mod choices are: Hidden, Hard Rock and Hidden+Hard Rock
    - When playing a FreeMod map, at least 2 players of each team must have at least one mod activated. For the remaining players, activating mods is optional.
 8. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, no one needs to have a mod activated.
 9. The size of the NoMod bracket will be 6 in all stages.
-10. The size of the Hidden, HardRock and DoubleTime brackets will be 2 in all stages.
+10. The size of the Hidden, Hard Rock and Double Time brackets will be 2 in all stages.
 11. The size of the FreeMod bracket will be 3 in all stages.
 
 ### Scheduling instructions

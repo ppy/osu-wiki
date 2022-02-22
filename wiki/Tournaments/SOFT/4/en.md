@@ -624,7 +624,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - All players will have two chances at each qualifier map, in which the highest of the two runs on each qualifier map will be used to calculate your final score.
 - Players will be organized into groups based on their availability. Because qualification is not a process that involves 1 on 1 matchups, it is actually possible to have 8 players go through the qualification process at once. If this is a confusing process, do not worry: simply adhere to the schedule that will be released and follow referee instructions during the match. The purpose of putting you in groups of 8 is to give everyone streaming time, for qualifiers will be streamed as well!
 - Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average score rating on all four songs, with the best verage score rating being seed \#1, and the worst verage score rating being seed n; n being the number of players in the qualification stage.
-- We will be using **Score V2** for all rounds of the tournament.
+- We will be using **ScoreV2** for all rounds of the tournament.
 
 #### Post-qualification
 

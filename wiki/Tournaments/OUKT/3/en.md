@@ -77,10 +77,10 @@ The OUKT3 was run by various osu! community members
 - Hidden
   1. [Ryu\* Vs. L.E.D.-G Vs. ZUN - PARADISE GHOST (Pokie) \[Extra\]](https://osu.ppy.sh/beatmapsets/67133#osu/195305)
   2. [8284 vs wa. - Adularescence (Cherry Blossom) \[Extra\]](https://osu.ppy.sh/beatmapsets/119438#osu/306669)
-- HardRock
+- Hard Rock
   1. [Blue Stahli - Shotgun Senorita (Zardonic Remix) (Aleks719) \[Insane\]](https://osu.ppy.sh/beatmapsets/65853#osu/192508)
   2. [HitoshizukuP x Yama - Crazy nighT (Sephibro) \[Crazy\]](https://osu.ppy.sh/beatmapsets/109401#osu/285549)
-- DoubleTime
+- Double Time
   1. [Orange Caramel - Shanghai Romance (Kurai) \[Insane\]](https://osu.ppy.sh/beatmapsets/55082#osu/167300)
   2. [BiBi - Love Novels (happy623) \[Insane\]](https://osu.ppy.sh/beatmapsets/111150#osu/289275)
 - FreeMod
@@ -105,10 +105,10 @@ The OUKT3 was run by various osu! community members
 - Hidden
   1. [Yooh - Dynasty (Sylith) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/149648#osu/374777)
   2. [REDALiCE Feat. Ayumi Nomiya - Little Star (LKs) \[Extra\]](https://osu.ppy.sh/beatmapsets/81051#osu/247241)
-- HardRock
+- Hard Rock
   1. [xi - Halcyon (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/20871#osu/73699)
   2. [nano - Nevereverland (Nyquill) \[Insane\]](https://osu.ppy.sh/beatmapsets/95533#osu/256499)
-- DoubleTime
+- Double Time
   1. [KOTOKO - unfinished (Pokie) \[Acceleration\]](https://osu.ppy.sh/beatmapsets/51132#osu/156904)
   2. [Pendulum - The Vulture (La Cataline) \[Insane\]](https://osu.ppy.sh/beatmapsets/24163#osu/82249)
 - FreeMod
@@ -133,10 +133,10 @@ The OUKT3 was run by various osu! community members
 - Hidden
   1. [S-C-U - concon (Sync) \[Extreme\]](https://osu.ppy.sh/beatmapsets/42051#osu/133053)
   2. [Hatsune Miku - Sabamiso! (val0108) \[Sabamiso!\]](https://osu.ppy.sh/beatmapsets/37705#osu/142588)
-- HardRock
+- Hard Rock
   1. [The Pretty Reckless - Kill Me (Zero\_\_wind) \[Kill!!!\]](https://osu.ppy.sh/beatmapsets/97187#osu/260006)
   2. [Rchetype - V Is For (Blue Dragon) \[Insane\]](https://osu.ppy.sh/beatmapsets/111914#osu/290919)
-- DoubleTime
+- Double Time
   1. [Envy - Paladin (Aldwych) \[Insane\]](https://osu.ppy.sh/beatmapsets/109525#osu/288339)
   2. [Misato Aki - Maple Love (Mythol) \[Insane\]](https://osu.ppy.sh/beatmapsets/50745#osu/155856)
 - FreeMod
@@ -160,10 +160,10 @@ The OUKT3 was run by various osu! community members
 - Hidden
   1. [IOSYS - The Lovely, Freezing, Tomboyish Bath, Cirno's Hot Spring (Mafiamaster) \[Hot Spring\]](https://osu.ppy.sh/beatmapsets/27107#osu/95431)
   2. [Luxion - High-Priestess (RikiH_) \[Roxas' Another\]](https://osu.ppy.sh/beatmapsets/93398#osu/252003)
-- HardRock
+- Hard Rock
   1. [Megurine Luka - Leia (Mafiamaster) \[gowww\]](https://osu.ppy.sh/beatmapsets/29064#osu/96587)
   2. [Ryu\* vs. kors k - Force of Wind (Jenny) \[gAlv's Another\]](https://osu.ppy.sh/beatmapsets/44519#osu/196499)
-- DoubleTime
+- Double Time
   1. [zts - WhiteBlue (MoonFragrance) \[Maximum\]](https://osu.ppy.sh/beatmapsets/17610#osu/62759)
   2. [Caramelos de Cianuro - Verano (mancusojuanmattos) \[Insane\]](https://osu.ppy.sh/beatmapsets/74341#osu/211229)
 - FreeMod
@@ -185,10 +185,10 @@ The OUKT3 was run by various osu! community members
 - Hidden
   1. [sakuzyo - Scheol (HelloSCV) \[Another\]](https://osu.ppy.sh/beatmapsets/114392#osu/296250)
   2. [Draw The Emotional - Sad Spring (Nyquill) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/71738#osu/205405)
-- HardRock
+- Hard Rock
   1. [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/24325#osu/82734)
   2. [kors k - Wuv U (Nakagawa-Kanon) \[dksslqj Style\]](https://osu.ppy.sh/beatmapsets/34556#osu/116739)
-- DoubleTime
+- Double Time
   1. [Taylor Swift - Red (Lissette) \[Dancing\]](https://osu.ppy.sh/beatmapsets/113946#osu/295319)
   2. [Usa - The Last Queen (Usa) \[Insane\]](https://osu.ppy.sh/beatmapsets/39467#osu/125784)
 - FreeMod
@@ -210,10 +210,10 @@ The OUKT3 was run by various osu! community members
 - Hidden
   1. [Meiko - Leave The Lights On (KROT Remix) (vipto) \[Insane\]](https://osu.ppy.sh/beatmapsets/76623#osu/217253)
   2. [MitiS - Open Window (feat. Anna Yvette) (Luanny) \[Collab\]](https://osu.ppy.sh/beatmapsets/100628#osu/266925)
-- HardRock
+- Hard Rock
   1. [ClariS - Connect (Holoaz) \[Holo\]](https://osu.ppy.sh/beatmapsets/25705#osu/87066)
   2. [44teru-k - Yami \~ Shoujo no Yume , Kyomu no Sekai \~ (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/17827#osu/152561)
-- DoubleTime
+- Double Time
   1. [07th Expansion - lastendconductor (Natteke) \[Hard\]](https://osu.ppy.sh/beatmapsets/29724#osu/98491)
   2. [cYsmix feat. Emmy - Tear Rain (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/140662#osu/351189)
 - FreeMod

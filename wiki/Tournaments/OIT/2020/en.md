@@ -79,11 +79,11 @@ The OIT 2020 was run by various Indonesian osu! community members.
   1. [Lite Show Magic - TRICKL4SH 220 (22,000 Power Extended) (RLC) \[apaffy's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/971450#osu/2129220)
   2. [guna with team kyukkyu - subconsciousness (Snow Note) \[Another\]](https://osu.ppy.sh/beatmapsets/151945#osu/413428)
   3. [ELFENSJoN - PHANTOM (Kalibe) \[DELUSJoN\]](https://osu.ppy.sh/beatmapsets/602367#fruits/1580728)
-- HardRock
+- Hard Rock
   1. [Kanzaki Elza starring Reona - Dancer in the Discord (Kibbleru) \[Masquerade\]](https://osu.ppy.sh/beatmapsets/1109271#osu/2318096)
   2. [Eisyo-kobu - Oriental Blossom (Crystal) \[yf's Expert\]](https://osu.ppy.sh/beatmapsets/586889#osu/1242793)
   3. [SawanoHiroyuki[nZk]:Tielle & Gemie - sh0ut (Gaia) \[aL†aiR\]](https://osu.ppy.sh/beatmapsets/641854#osu/1360912)
-- DoubleTime
+- Double Time
   1. [Hyadain - Hyadain no Kakakata Kataomoi-C (Hakeru Prismriver) \[2011 Collab (osu! Indonesia Tournament 2020 Edit)\]](https://osu.ppy.sh/beatmapsets/1139584#osu/2380386)
   2. [Sayuri - Tsuki to Hanataba (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/780885#osu/1641266)
   3. [Haruna Luna - Kimiiro Signal (CelsiusLK) \[Expert\]](https://osu.ppy.sh/beatmapsets/326621#osu/725166)
@@ -110,11 +110,11 @@ The OIT 2020 was run by various Indonesian osu! community members.
   1. [LeaF - Monkey Business -Satire mix- (-PC) \[Krazy!\]](https://osu.ppy.sh/beatmapsets/999031#osu/2089429)
   2. [Camellia - Fly to night, tonight (xLolicore-) \[Illumination\]](https://osu.ppy.sh/beatmapsets/1119638#osu/2339004)
   3. [Kelly Clarkson - Behind These Hazel Eyes (Nightcore Remix) (Raikozen) \[raikoplayer111\]](https://osu.ppy.sh/beatmapsets/639701#osu/1356688)
-- HardRock
+- Hard Rock
   1. [Function Phantom - Variable (Chaoslitz) \[Deluxe\]](https://osu.ppy.sh/beatmapsets/751774#osu/1582594)
   2. [Kola Kid - timer (Mirash) \[Extra\]](https://osu.ppy.sh/beatmapsets/1089084#osu/2277126)
   3. [FELT - Last Wind (Tsumia) \[Normal\]](https://osu.ppy.sh/beatmapsets/1092488#osu/2283680)
-- DoubleTime
+- Double Time
   1. [Reol - Midnight Stroller (Chaoslitz) \[Nightfall\]](https://osu.ppy.sh/beatmapsets/388428#osu/847341)
   2. [doriko - Romeo and Cinderella (Chewin) \[Insane\]](https://osu.ppy.sh/beatmapsets/674753#osu/1427613)
   3. [Shihori - Bloody Night (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/46223#osu/143989)
@@ -141,11 +141,11 @@ The OIT 2020 was run by various Indonesian osu! community members.
   1. [Camellia feat. Nanahira - Toureika (jonathanlfj) \[Nyquilfj's Extra\]](https://osu.ppy.sh/beatmapsets/1022167#osu/2328433)
   2. [bbn - Identic Conflict (Myxo) \[LMT's Another\]](https://osu.ppy.sh/beatmapsets/1020429#osu/2135438)
   3. [Cranky - Libera me (eiri-) \[Freedom\]](https://osu.ppy.sh/beatmapsets/757813#osu/1609794)
-- HardRock
+- Hard Rock
   1. [Nekomata Master+ - POINT ZERO (Beomsan) \[Down's Another\]](https://osu.ppy.sh/beatmapsets/1020276#osu/2170923)
   2. [Hate vs. Brilliance - Qubism (Mafumafu) \[Oxy's INFINITE\]](https://osu.ppy.sh/beatmapsets/524503#osu/1115462)
   3. [BUTA-OTOME - Blue Fireworks (BarkingMadDog) \[Reminiscence\]](https://osu.ppy.sh/beatmapsets/716455#osu/1513645)
-- DoubleTime
+- Double Time
   1. [Yuuhei Satellite - Tsuki ni Murakumo Hana ni Kaze (Aeril) \[Satellite's Lunatic\]](https://osu.ppy.sh/beatmapsets/734241#osu/1571656)
   2. [Chata - anesthesia (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/588792#osu/1246439)
   3. [Hanatan - Kitsune no Yomeiri (Beren) \[Kiiwa's Insane\]](https://osu.ppy.sh/beatmapsets/46813#osu/153632)
@@ -172,11 +172,11 @@ The OIT 2020 was run by various Indonesian osu! community members.
   1. [kamome sano - charlotte aux framboises (colate+kamome sano Remix) [feat. mami] (Left) \[Senseabel's Extra\]](https://osu.ppy.sh/beatmapsets/988413#osu/2111987)
   2. [Hatsune Miku - Marble Bright (Lalarun) \[Insane\]](https://osu.ppy.sh/beatmapsets/40902#osu/129506)
   3. [Desired - Wake Up (Natteke desu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1071121#osu/2242056)
-- HardRock
+- Hard Rock
   1. [M2U - H.O.W.Ling (iyasine) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/274219#osu/622589)
   2. [Kanzaki Elza starring Reona - Independence (Yasaija 714) \[Seto's Expert\]](https://osu.ppy.sh/beatmapsets/780318#osu/1828634)
   3. [Ara Potato - Skype x Can Can (Real) \[Insane\]](https://osu.ppy.sh/beatmapsets/47078#osu/146235)
-- DoubleTime
+- Double Time
   1. [School Food Punishment - flashback trip syndrome (Damnae) \[Insane\]](https://osu.ppy.sh/beatmapsets/101282#osu/268445)
   2. [EiNA - Karen Setsugetsuka (Artethia & Epsilon Remix) (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/796468#osu/1674334)
   3. [FictionJunction YUUKA - Yakusoku (Riven) \[Promise\]](https://osu.ppy.sh/beatmapsets/315375#osu/703177)
@@ -201,10 +201,10 @@ The OIT 2020 was run by various Indonesian osu! community members.
 - Hidden
   1. [kozato - Izayoi Sakura (Gust) \[yozakura\]](https://osu.ppy.sh/beatmapsets/893573#osu/1867443)
   2. [556t - Kyuuen no Hana (Kyubey) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/484497#osu/1033514)
-- HardRock
+- Hard Rock
   1. [D.J.Nero - Joker (09kami) \[lsahi's Another\]](https://osu.ppy.sh/beatmapsets/405524#osu/884089)
   2. [Nekomata Master feat. Mayumi Morinaga - Sleepless Days \[LASS' EXHAUST\]](https://osu.ppy.sh/beatmapsets/842312#osu/1767000)
-- DoubleTime
+- Double Time
   1. [07th Expansion - Ruriair (Vass_Bass) \[Reverce\]](https://osu.ppy.sh/beatmapsets/83961#osu/231570)
   2. [Suigetsu Yamato - Fuujin Shoujo (Suigetsu Yamato Remix) (ktgster) \[Insane\]](https://osu.ppy.sh/beatmapsets/647546#osu/1372439)
   3. [Wotamin - Cat Food (rEdo) \[Insane\]](https://osu.ppy.sh/beatmapsets/35258#osu/114379)
@@ -227,10 +227,10 @@ The OIT 2020 was run by various Indonesian osu! community members.
 - Hidden
   1. [ONE OK ROCK - Liar (Snepif) \[Bloodlust\]](https://osu.ppy.sh/beatmapsets/240761#osu/569097)
   2. [sakuzyo - Rainbow Night Sky Highway (Foreverends) \[Insane\]](https://osu.ppy.sh/beatmapsets/150497#osu/371334)
-- HardRock
+- Hard Rock
   1. [zakuro - Inochi ni Kirawarete Iru. (Mirash) \[Sing's Another\]](https://osu.ppy.sh/beatmapsets/693727#osu/1598151)
   2. [NoKANY - Mujinku-Vacuum Track#ADD8E6- (\[ Drop \]) \[Insane\]](https://osu.ppy.sh/beatmapsets/800133#osu/1685341)
-- DoubleTime
+- Double Time
   1. [Perfume - Laser Beam (eiri-) \[Hyper\]](https://osu.ppy.sh/beatmapsets/905272#osu/1889454)
   2. [Kozato - 45nen no Yukizakura (LoliSora) \[Hyper\]](https://osu.ppy.sh/beatmapsets/50771#osu/155931)
   3. [9nine - With You / With Me (Modem) \[GiraNely's Insane\]](https://osu.ppy.sh/beatmapsets/301246#osu/738735)
@@ -252,10 +252,10 @@ The OIT 2020 was run by various Indonesian osu! community members.
 - Hidden
   1. [ARForest - Altros (Shiirn) \[Mir's Extra\]](https://osu.ppy.sh/beatmapsets/625822#osu/1323428)
   2. [Foreground Eclipse - Flames Within These Black Feathers (Saten) \[Regou\]](https://osu.ppy.sh/beatmapsets/47599#osu/152702)
-- HardRock
+- Hard Rock
   1. [Mind Vortex - Arc (Natteke) \[Nsane\]](https://osu.ppy.sh/beatmapsets/693727#osu/1598151)
   2. [sound piercer - Castorpollux (fanzhen0019) \[bye\]](https://osu.ppy.sh/beatmapsets/665535#osu/1408458)
-- DoubleTime
+- Double Time
   1. [EastNewSound - Sadistic Paranoia (TicClick) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/100931#osu/267657)
   2. [senya - Koakuma Apple (EUROBEAT Remix) (Chocopikel) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/44300#osu/138816)
 
@@ -439,13 +439,13 @@ Monday, 9 March 2020:
 
 ### General rules
 
-1. Map scoring is based on **Score V2.**
+1. Map scoring is based on **ScoreV2.**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the Tournament Management. Had there been any participants who were unable to attend the current schedule for any reason, the said participants may apply and settle for a reschedule at the #scheduling channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to invite participants.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all maps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the map regardless of their remaining health at the end.
+7. **No Fail will be enforced in all maps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the map regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they failed the map.
    - Disconnects that occur within a few seconds after map is started by the referee can be rematched.
 9. If a player disconnects between the beatmaps, the match can be delayed up to 15 minutes max.

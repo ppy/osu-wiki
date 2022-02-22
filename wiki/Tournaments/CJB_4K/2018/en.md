@@ -299,7 +299,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period:
-   - Room settings are osu!mania, Team VS, Win Condition: 'Score v2'. Room name is "CJB4K: (Player 1) vs (Player 2)".
+   - Room settings are osu!mania, Team VS, Win Condition: 'ScoreV2'. Room name is "CJB4K: (Player 1) vs (Player 2)".
    - Player 1 and Player 2 must be in slot 1, 2, respectively.
 2. Each player in the match will be allowed **1** warm-up map to be played, making for **2** warm-ups. Questioned maps and maps that are not 4K-specific osu!mania maps are not allowed.
 3. Each player choose one map from the pool as the *Banned Map*. These maps can not be played during this match.

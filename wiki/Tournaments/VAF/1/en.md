@@ -163,11 +163,11 @@ This competition has come to an end and resulted in the following podium:
   1. [easyname - silly 300bpm thing (Kqrth) \[Oni\]](https://osu.ppy.sh/beatmapsets/725373#taiko/1531570)
   2. [BABii, Kai Whiston, Iglooghost - Lamb (Nifty) \[Midas\]](https://osu.ppy.sh/beatmapsets/1262367#taiko/2623873)
   3. [toby fox - Ruins (sasakure.UK Remix) (eae) \[Golden Flowers\]](https://osu.ppy.sh/beatmapsets/790685#taiko/1659016)
-- HardRock
+- Hard Rock
   1. [Chroma - Field : Kaerezu no Chi (tasuke912) \[Farthest\]](https://osu.ppy.sh/beatmapsets/897127#taiko/1874251)
   2. [t+pazolite - Garakuta Doll Play (sasakure.UK clutter remix) (Love) \[Love+Kinobles Oni\]](https://osu.ppy.sh/beatmapsets/424222#taiko/922997)
   3. [Kabocha - EgO (ll-oscar) \[ll-taiko St.\]](https://osu.ppy.sh/beatmapsets/1070329#taiko/2240471)
-- DoubleTime
+- Double Time
   1. [Furries in a Blender - Storm World (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/322150#taiko/716320)
   2. [ayaponzu\* - Yakubyougami (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/742938#taiko/1659898)
   3. [Boogie Belgique - Piccadilly (lazyboy007) \[West End\]](https://osu.ppy.sh/beatmapsets/717359#taiko/1515547)
@@ -193,11 +193,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Laur - KILL KILL KILL KILL KILL (maziari1105) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/477119#taiko/1045005)
   2. [Kobaryo - Theme for Psychopath Justice (eiri-) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1245034#taiko/2587936)
   3. [Within The Ruins - Enigma (Grimbow) \[Oni\]](https://osu.ppy.sh/beatmapsets/1243301#taiko/2584826)
-- HardRock
+- Hard Rock
   1. [onoken - K8107 (Genjuro) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1201354#taiko/2502165)
   2. [sHimaU - nohmen break (Vaenus Remix) (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/670256#taiko/1417601)
   3. [Apollo"FIXEDSTAR"program feat. Ritsuka - SolarOrbit -Connected with the Espabrother- (Raiden) \[Interstellar (VAF ver.)\]](https://osu.ppy.sh/beatmapsets/1335757#taiko/3082573)
-- DoubleTime
+- Double Time
   1. [Venetian Snares - Shaky Sometimes (Jaltzu) \[Unstable Oni\]](https://osu.ppy.sh/beatmapsets/1229307#taiko/2564821)
   2. [Kanzaki Eluza - Independence (hoku-4625) \[Sentiment\]](https://osu.ppy.sh/beatmapsets/809378#taiko/1698445)
   3. [Rick Astley - Never Gonna Give You Up - Akyra Eurobeat Extended Mix - (duski) \[Multi-Track Rick-Rolling\]](https://osu.ppy.sh/beatmapsets/1015518#taiko/2125411)
@@ -223,11 +223,11 @@ This competition has come to an end and resulted in the following podium:
   1. [katagiri - Sendan Life (katagiri Bootleg) (nyanmi-1828) \[ma\]](https://osu.ppy.sh/beatmapsets/1127090#taiko/2355331)
   2. [Frums - 24eeev0-$ (Gamelan4) \[Cychlo's eeev0lution-$\]](https://osu.ppy.sh/beatmapsets/1111340#taiko/2341735)
   3. [Kola Kid - good old times (Nwolf) \[slow oni\]](https://osu.ppy.sh/beatmapsets/1213598#taiko/2525737)
-- HardRock
+- Hard Rock
   1. [The Flashbulb - Kirlian Choices (Gamelan4) \[Transparency\]](https://osu.ppy.sh/beatmapsets/1456241#taiko/2993125)
   2. [Camellia as "fluX Xroise" - Xronier (Felt7z) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/925700#taiko/1933563)
   3. [LeaF - Paraclete (Kroytz) \[Nwolf's Inner Oni\]](https://osu.ppy.sh/beatmapsets/455109#taiko/1023467)
-- DoubleTime
+- Double Time
   1. [S3RL feat. Nikolett - Silicon XX (yea) \[Fantasy XX\]](https://osu.ppy.sh/beatmapsets/989809#taiko/2070533)
   2. [Helblinde - Grief & Malice (Rhytoly) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/782253#taiko/1642679)
   3. [M2U - Mare Maris (Quorum) \[Dusk's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1222016#taiko/2813658)
@@ -252,11 +252,11 @@ This competition has come to an end and resulted in the following podium:
   1. [odaxelagnia - #sawg (Horiiizon) \[#inner\]](https://osu.ppy.sh/beatmapsets/1207490#taiko/2515572)
   2. [Zekk - Foresight (HiroK) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1440285#taiko/2963225)
   3. [Halogen - U Got That (agu) \[Oni\]](https://osu.ppy.sh/beatmapsets/962671#taiko/2015666)
-- HardRock
+- Hard Rock
   1. [kamome sano - Prepared Improvisation (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/556358#taiko/1177487)
   2. [katagiri - AMEN KATAGIRI GENERATION (KitajimaYN) \[COLLABORATION\]](https://osu.ppy.sh/beatmapsets/1023593#taiko/2141230)
   3. [Getty vs. DJ DiA - Antifront Gears (Faputa) \[War Dance\]](https://osu.ppy.sh/beatmapsets/1043137#taiko/2180259)
-- DoubleTime
+- Double Time
   1. [ETIA. - You Are Gone (iceOC) \[Oni\]](https://osu.ppy.sh/beatmapsets/607987#taiko/1284044)
   2. [BTS - FIRE (Skull Kid) \[BULTAOREUNE\]](https://osu.ppy.sh/beatmapsets/591037#taiko/1250871)
   3. [Neovaii - Silent (Mew) \[Tranquility\]](https://osu.ppy.sh/beatmapsets/1065551#taiko/2231274)
@@ -279,11 +279,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Miyashita Yuu - Endgame (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1402249#taiko/2892814)
   2. [BanYa - Blazing (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/1062630#taiko/2225245)
   3. [Airuei - Framework (Nwolf) \[Wired Oni\]](https://osu.ppy.sh/beatmapsets/1152903#taiko/2406326)
-- HardRock
+- Hard Rock
   1. [kors k - Empire of Fury (femboy mapper) \[TERROR ONI\]](https://osu.ppy.sh/beatmapsets/1414668#taiko/2915829)
   2. [t+pazolite - Candy Crack Curtain Call (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/473507#taiko/1011768)
   3. [Katsuro Tajima - Puchipochi (Reficul) \[Tatsujin (Edit.)\]](https://osu.ppy.sh/beatmapsets/1133381#taiko/2963074)
-- DoubleTime
+- Double Time
   1. [DragonForce - Strangers (Garpo) \[True Survivor\]](https://osu.ppy.sh/beatmapsets/1193191#taiko/2486211)
   2. [The Flashbulb - Six Acid Strings (Nardoxyribonucleic) \[Volta's Oni\]](https://osu.ppy.sh/beatmapsets/966451#taiko/2078180)
   3. [kors k - Monkey Business (lapix Remix) (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/721496#taiko/1523524)
@@ -306,11 +306,11 @@ This competition has come to an end and resulted in the following podium:
   1. [GaMetal - Count Cannoli (Greenshell) \[Purple Wind\]](https://osu.ppy.sh/beatmapsets/793368#taiko/1666161)
   2. [technoplanet feat. Haruno & Daisuke Kurosawa - Far Away Light (Raiden) \[Glimmer\]](https://osu.ppy.sh/beatmapsets/1459468#taiko/2998970)
   3. [tarolabo - gynandromorph (D3kuu) \[X XYY\]](https://osu.ppy.sh/beatmapsets/1185599#taiko/2471262)
-- HardRock
+- Hard Rock
   1. [Arcaea Sound Team against. ETIA. - Singularity VVVIP (Raytoly) \[If You CCCAN\]](https://osu.ppy.sh/beatmapsets/1139960#taiko/2381084)
   2. [Amebre Kizami - Yuzukosho No Kanata (hoku) \[Hurry up ^-^\]](https://osu.ppy.sh/beatmapsets/1334765#taiko/2765079)
   3. [Starkill - Until We Fall (Raiden) \[Legendary (1.5)\]](https://osu.ppy.sh/beatmapsets/1471235#taiko/3020436)
-- DoubleTime
+- Double Time
   1. [sasakure.UK - Epitorica no Matsuri (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1167959#taiko/2436820)
   2. [Sasaki Sayaka - Marine Blue ni Sotte (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/630650#taiko/1331306)
   3. [E.G.G. - OK I'm blue rat (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1184988#taiko/2470101)
@@ -333,11 +333,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Helblinde - Disconnected (Kannes) \[Virtual Reality\]](https://osu.ppy.sh/beatmapsets/1158176#taiko/2417023)
   2. [Aquestion - ENERGY INFLATION (A\_\_) \[KTYN's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1315661#taiko/2726428)
   3. [Sota Fujimori - ACCELERATE (HiroK) \[Max Speed!\]](https://osu.ppy.sh/beatmapsets/844461#taiko/1766496)
-- HardRock
+- Hard Rock
   1. [ZUN remixed by LeaF - Resurrection Spell (sendol) \[Charlotte's Inner Oni\]](https://osu.ppy.sh/beatmapsets/798869#taiko/1954440)
   2. [Yousei Teikoku - Zetsubou plantation (Saten) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/86009#taiko/374422)
   3. [cosMo@bousouP - Oceanus (Faputa) \[Empyrean Flow\]](https://osu.ppy.sh/beatmapsets/1047505#taiko/2189542)
-- DoubleTime
+- Double Time
   1. [THE KOXX - A Fool Moon Night (Skull Kid) \[Full Moon\]](https://osu.ppy.sh/beatmapsets/737288#taiko/1555918)
   2. [IOSYS - Poinsettia (eiri-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/799276#taiko/1678184)
   3. [SIHanatsuka - EMber (Nara\_NB) \[Inner Oni (SV nerf)\]](https://osu.ppy.sh/beatmapsets/967071#taiko/3025810)
@@ -360,11 +360,11 @@ This competition has come to an end and resulted in the following podium:
   1. [saradisk - CIAOchuru remix (KTYN) \[Foreign objects*225\]](https://osu.ppy.sh/beatmapsets/1188736#taiko/2477061)
   2. [E.G.G. - Got more raves? (DakeDekaane) \[Oni\]](https://osu.ppy.sh/beatmapsets/1080225#taiko/2259976)
   3. [Asaki - Torinaki jima nite (Mikaruge) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1380433#taiko/2852368)
-- HardRock
+- Hard Rock
   1. [Nightmare - Dream to Nightmare (Kqrth) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/834254#taiko/1962899)
   2. [Chroma - Sayonara Planet Wars (404 AccNotFound) \[flw34tfg\]](https://osu.ppy.sh/beatmapsets/643875#taiko/1411960)
   3. [LEAF XCEED Music Division - Fur Elisa (coed) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1215987#taiko/2530307)
-- DoubleTime
+- Double Time
   1. [hololive IDOL PROJECT - BLUE CLAPPER (Jerry) \[Ulqui's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1329875#taiko/2756998)
   2. [Uchida Maaya - Tsubomi Yume Miru Rhapsodia \~Alma no Michibiki\~ (lolcubes) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/110292#taiko/287463)
   3. [HARUTYA - Byoushin o Kamu (juanilp4evr) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/961181#taiko/2012247)
@@ -387,11 +387,11 @@ This competition has come to an end and resulted in the following podium:
   1. [TUYU - Doro no Bunzai de Watashi dake no Taisetsu o Ubaouda nante (gaston_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1316773#taiko/2728335)
   2. [polysha - ILL-STARRED Diver (uone) \[Oni\]](https://osu.ppy.sh/beatmapsets/1013895#taiko/2122040)
   3. [MAD CHILD - Voice 2 Voice (Peaceful) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1037062#taiko/2168202)
-- HardRock
+- Hard Rock
   1. [Satsuki ga Tenkomori - Masked bitcH wo limikkusushitemita (Grimbow) \[Oni\]](https://osu.ppy.sh/beatmapsets/976549#taiko/2044088)
   2. [Arctic Monkeys - The Bad Thing (\_MMMMMM\_MMMMMM\_) \[Bad Oni\]](https://osu.ppy.sh/beatmapsets/1214914#taiko/2528437)
   3. [Fractal Dreamers - Gardens Under A Spring Sky (\_Kobii) \[Fapu's Verdancy\]](https://osu.ppy.sh/beatmapsets/1080892#taiko/2266329)
-- DoubleTime
+- Double Time
   1. [C-CLAYS - Fancy-free (MMzz) \[Oni\]](https://osu.ppy.sh/beatmapsets/177859#taiko/427996)
   2. [Draper - Joyride (ZenithAnnul) \[Oni\]](https://osu.ppy.sh/beatmapsets/308115#taiko/689179)
   3. [Colors Slash - Colors Power ni Omakasero! (Sober Bear Remix) (HEKUSODASU) \[Oni\]](https://osu.ppy.sh/beatmapsets/807284#taiko/1725411)
@@ -742,8 +742,8 @@ Sunday, 16 May 2021:
 13. Disrespect of the assigned referee, and/or opponent, will not be tolerated. (Applies towards other staff members in the Discord server environment)
 14. If a pick has been tied for 2 times after replaying it, the pick will be nullified.
 15. The mappool size will follow the listed format:
-    - Swiss bracket: 5 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod
-    - Semifinals, Finals, and Grand Finals: 5 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod, 1 Tiebreaker
+    - Swiss bracket: 5 NoMod, 3 Hidden, 3 Hard Rock, 3 Double Time, 3 FreeMod
+    - Semifinals, Finals, and Grand Finals: 5 NoMod, 3 Hidden, 3 Hard Rock, 3 Double Time, 3 FreeMod, 1 Tiebreaker
 16. Any members of the staff apart from organizers, mappool selectors and referees **are allowed to play**.
 17. All match schedules will be written in UTC.
 18. Reschedules will always be accepted as long as they are **24 hours before** the first schedule of the running stage.

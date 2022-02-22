@@ -372,7 +372,7 @@ Sunday, 7 August 2016:
 
 1. The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode on 4-key specific beatmaps.
    - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
-2. **Map scoring is based on a new metric, called Score V2. Refer to [this thread](https://osu.ppy.sh/community/forums/topics/466617) for more information.**
+2. **Map scoring is based on a new metric, called ScoreV2. Refer to [this thread](https://osu.ppy.sh/community/forums/topics/466617) for more information.**
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - There will be a NoMod and a FreeMod bracket.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
@@ -457,7 +457,7 @@ Sunday, 7 August 2016:
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!mania, Team-Vs., Win Condition: 'Score v2'. Room name must be "MWC4K 2016: TeamBlue vs TeamRed".
+   - Room settings are osu!mania, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC4K 2016: TeamBlue vs TeamRed".
    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up maps. Using beatmaps with questionable content is prohibited.
 3. Each captain must ban one beatmap to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
@@ -477,11 +477,11 @@ Sunday, 7 August 2016:
 3. Each mappool consists of 15 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no forced mods activated.
-6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Flashlight](/wiki/Game_modifier/Flashlight) or [HardRock](/wiki/Game_modifier/Hard_Rock).
+6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Flashlight](/wiki/Game_modifier/Flashlight) or [Hard Rock](/wiki/Game_modifier/Hard_Rock).
    - Players can select both mods.
    - When playing a FreeMod map, at least 1 players of each team must have one mod activated.
-7. Optionally, every player can activate either [Hidden](/wiki/Game_modifier/Hidden) or [FadeIn](/wiki/Game_modifier/Fade_In) at any beatmap in all mappool brackets.
-   - [Hidden](/wiki/Game_modifier/Hidden) and [FadeIn](/wiki/Game_modifier/Fade_In) do not count into the "activated mod" requirement in the FreeMod bracket.
+7. Optionally, every player can activate either [Hidden](/wiki/Game_modifier/Hidden) or [Fade In](/wiki/Game_modifier/Fade_In) at any beatmap in all mappool brackets.
+   - [Hidden](/wiki/Game_modifier/Hidden) and [Fade In](/wiki/Game_modifier/Fade_In) do not count into the "activated mod" requirement in the FreeMod bracket.
 8. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, no one needs to have a mod activated.
 9. The size of the NoMod bracket will be 10 in all stages.

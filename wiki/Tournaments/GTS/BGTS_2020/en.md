@@ -182,11 +182,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Se-U-Ra - Paraphiloplace (Sayira) \[Imbalance\]](https://osu.ppy.sh/beatmapsets/1361670#taiko/2817522)
   2. [goreshit - glad you're back. (SKSalt) \[muzukashii.\]](https://osu.ppy.sh/beatmapsets/920906#taiko/1929277)
   3. [Zekk - Feelsleft0ut (komasy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1143253#taiko/2388179)
-- HardRock
+- Hard Rock
   1. [The Flashbulb - Lawn Wake IX (iceOC) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/966060#taiko/2691864)
   2. [uma vs. Morimori Atsushi - Re : End of a Dream (Jaye) \[Lite Oni\]](https://osu.ppy.sh/beatmapsets/759397#taiko/1597090)
   3. [YURiKA - Kyoumen no Nami (Ney) \[Oni\]](https://osu.ppy.sh/beatmapsets/739172#taiko/1562070)
-- DoubleTime
+- Double Time
   1. [hololive IDOL PROJECT - BLUE CLAPPER (Jerry) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1329875#taiko/2755468)
   2. [Station Earth - Cold Green Eyes feat. Roos Denayer (FAMoss) \[Fapu's Dreams\]](https://osu.ppy.sh/beatmapsets/1102973#taiko/2305007)
   3. [subeteanatanoseidesu. - N (Reficul) \[Vulkin's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1302978#taiko/2702304)
@@ -195,7 +195,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Sound Souler - Absent Color (eiri-) \[Trynna's Oni\]](https://osu.ppy.sh/beatmapsets/1167827#taiko/2437377)
   3. [FELT - Runway Drive (Faputa) \[Oni\]](https://osu.ppy.sh/beatmapsets/1004048#taiko/2101394)
   4. [Ryo Arue - Forza (Ak1o) \[Oni (Short cut.)\]](https://osu.ppy.sh/beatmapsets/638167#taiko/1765131)
-- Hidden+HardRock
+- Hidden+Hard Rock
   1. [Feryquitous (Vo.Sennzai) - Koe (SKSalt) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/933777#taiko/1968634)
 - Tiebreaker
   1. **[Magnetude - I'm For You (Ulqui) \[Oni\]](https://osu.ppy.sh/beatmapsets/1255345#taiko/2609772)**
@@ -215,11 +215,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Sota Fujimori - ACCELERATE (\_WWWWWW\_WWWWWW\_) \[Hyper\]](https://osu.ppy.sh/beatmapsets/785969#taiko/1721332)
   2. [Jun Kuroda - Meikyoshisui (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1338121#taiko/2773254)
   3. [Machine Girl - Cloud99 (As Above Mix) (Genjuro) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1127497#taiko/2358993)
-- HardRock
+- Hard Rock
   1. [ALI - Wild Side (Ney) \[HiroK's Oni: Canis\]](https://osu.ppy.sh/beatmapsets/1090317#taiko/2290635)
   2. [t+pazolite - Angelic Jelly (eiri-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/790035#taiko/1657903)
   3. [Yukihana Lamy - Suki ! Yuki ! Maji Magic (yuzu\_\_rinrin) \[Oni\]](https://osu.ppy.sh/beatmapsets/1238861#taiko/2575768)
-- DoubleTime
+- Double Time
   1. [EPICA - Sacred & Wild (POWERWOLF Cover) (Raiden) \[Nardo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1120546#taiko/2342404)
   2. [Tatsh - reunion (Raiden) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/351488#taiko/774674)
   3. [Helblinde - Unconquered (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1052250#taiko/2199045)
@@ -245,11 +245,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Akira Complex - Ether Strike (Raytoly) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1170083#taiko/2471178)
   2. [BlackY vs. Yooh - HAVOX (Arrival) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/553741#taiko/1172633)
   3. [The Flashbulb - Ninedump (Arrival) \[tasuke's Muzukashii\]](https://osu.ppy.sh/beatmapsets/984361#taiko/2092276)
-- HardRock
+- Hard Rock
   1. [UNISON SQUARE GARDEN - Sugar Song to Bitter Step (TV Size) (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/863810#taiko/1806757)
   2. [wa. - Black Lotus (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/605096#taiko/1279183)
   3. [THE ORAL CIGARETTES - Kantan na Koto (Chiswell) \[Oni\]](https://osu.ppy.sh/beatmapsets/1063938#taiko/2227947)
-- DoubleTime
+- Double Time
   1. [Bajofondo - Pa' bailar con Ryota Komatsu (Midnaait) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/811542#taiko/1777507)
   2. [Aisaka Yuka, Tadokoro Azusa, Aoki Ruriko - Umapyoi Densetsu (TV Size) (JarvisGaming) \[Momo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/883728#taiko/1869956)
   3. [Numtack05 - Hajimari da ne! (Jonarwhal) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1256677#taiko/2611406)
@@ -275,11 +275,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Camellia - Towards The Horizon (radar) \[Capu's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1192577#taiko/2485268)
   2. [ARForest - Journey (Vulkin) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1275784#taiko/2650720)
   3. [Co shu Nie - asura (Axer) \[Genjuro's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1098732#taiko/2350679)
-- HardRock
+- Hard Rock
   1. [LeaF - Arianrhod (Genjuro) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1128939#taiko/2366569)
   2. [Fear, and Loathing in Las Vegas - Just Awake (TV Size) (taiko_maniac1811) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/56403#taiko/170566)
   3. [Sigala - Say You Do (feat. Imani & DJ Fresh) (Stingy) \[Fapu's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1070904#taiko/2241624)
-- DoubleTime
+- Double Time
   1. [Kendrick Lamar - Alright (Kqrth) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1090912#taiko/2280559)
   2. [Joji - Sanctuary (The Default Guy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1129114#taiko/2358880)
   3. [Sasaki Sayaka - Distance (Nardoxyribonucleic) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/325760#taiko/723622)
@@ -303,10 +303,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Morimori Atsushi - MilK (Taikocracy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/592095#taiko/1252845)
   2. [An - artcore JINJA (SKSalt) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/198600#taiko/471177)
-- HardRock
+- Hard Rock
   1. [IKIMONOGAKARI - Blue Bird feat. k\*chan \[ dj-Jo Remix \] TV Size (Chromoxx) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1114337#taiko/2347935)
   2. [Tedjimo Yomigy - Lorikeet (yassu-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/539888#taiko/1145336)
-- DoubleTime
+- Double Time
   1. [AKIAKANE - Hanabira (Seto Kousuke) \[Ayyri's Muzukashii\]](https://osu.ppy.sh/beatmapsets/759039#taiko/1602495)
   2. [goreshit - broken promises/shattered dreams (HiroK) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1077202#taiko/2294614)
 - FreeMod
@@ -329,10 +329,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [fripSide - black bullet (-Sh1n1-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/179224#taiko/430840)
   2. [Renard - WI-FI BRIDGE (DarkDunskin) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/235893#taiko/546630)
-- HardRock
+- Hard Rock
   1. [SOUND HOLIC Feat. Nana Takahashi - XINOBIKILL (HiroK) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/744214#taiko/1569197)
   2. [HyuN - Devil's Weapon (\_yosh) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1322861#taiko/2740035)
-- DoubleTime
+- Double Time
   1. [MYTH & ROID - STYX HELIX (Chromoxx) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/501705#taiko/1070326)
   2. [Cranky - Ran (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/789553#taiko/1703961)
 - FreeMod
@@ -355,10 +355,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Cyte - Silver Winds (Cychloryn) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1242018#taiko/2590772)
   2. [Ester - Dizzolve (\_DUSK\_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/817528#taiko/1714379)
-- HardRock
+- Hard Rock
   1. [George Thorogood & The Destroyers - Bad To The Bone (Vulkin) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1146551#taiko/2403899)
   2. [VINXIS - Greetings (Nifty) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/876282#taiko/1831421)
-- DoubleTime
+- Double Time
   1. [Celldweller - Pulsar (-Kanzaki) \[Gezo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/272785#taiko/666081)
   2. [Tomita Miyu, Onishi Saori, Ohzora Naomi, Hanazawa Kana - Gabriel Drop Kick (gaston\_2199) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/608613#taiko/1465040)
 - FreeMod
@@ -380,10 +380,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Zekk - Falling Down feat. Renko x TRIANGLE (Konpaku Sariel) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1154335#taiko/2416335)
   2. [Jukio Kallio & Daniel Hagstrom - Fall For The Team (FiNNb) \[Futsuu!\]](https://osu.ppy.sh/beatmapsets/1261433#taiko/2692934)
-- HardRock
+- Hard Rock
   1. [Iridium - Clean vs. Dirty (-Kazu-) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/867778#taiko/1814481)
   2. [Mitsuyoshi Takenobu no Ani - Amphisbaena (Nifty) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/693993#taiko/1468368)
-- DoubleTime
+- Double Time
   1. [Nakanojojo - Pararara (feat. Amekoya) (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/930806#taiko/1943717)
   2. [Nakiri Ayame - Deep Indigo (\[Zeth\]) \[Light Blue (Hivie's Kantan)\]](https://osu.ppy.sh/beatmapsets/1194116#taiko/2594876)
 - FreeMod
@@ -402,9 +402,9 @@ This competition has come to an end and resulted in the following podium:
   2. [Tiny Moving Parts - Birdhouse (Gamelan4) \[Alternate\]](https://osu.ppy.sh/beatmapsets/1303713#taiko/2703451)
 - Hidden
   1. [HIMEHINA - Hitogata (Genjuro) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1265600#taiko/2634936)
-- HardRock
+- Hard Rock
   1. [EmoCosine - Give You My World (Capu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1225464#taiko/2549599)
-- DoubleTime
+- Double Time
   1. [Rin - Kurikaeshi Hitotsubu (Charlotte) \[Julie's Futsuu\]](https://osu.ppy.sh/beatmapsets/422377#taiko/1047657)
 
 ## Match results
@@ -833,12 +833,12 @@ Sunday, 13 December 2020:
 ### Mappool instructions
 
 1. There will be separate mappool for each stages.
-2. The Qualifiers pool will be different from all the other round as it will have a format of 2 NoMod, 1 Hidden, 1 HardRock, and 1 DoubleTime maps.
+2. The Qualifiers pool will be different from all the other round as it will have a format of 2 NoMod, 1 Hidden, 1 Hard Rock, and 1 Double Time maps.
 3. The loser's bracket will play on the same mappool as the winner's bracket of the same weekend.
-4. Each mappool consists of 6 brackets: NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker.
+4. Each mappool consists of 6 brackets: NoMod, Hidden, Hard Rock, Double Time, FreeMod, and Tiebreaker.
 5. The Group Stage mappool will consist of 14 maps, the Quarterfinals will consist of 15 maps, the Semifinals, the Finals, and the Grand Finals will consist of 16 maps.
-6. The size of the Hidden, HardRock and DoubleTime brackets will be 2 until Semifinals, where it increases to 3 for the rest of the tournament and 3 for the FreeMod bracket in all stages.
-7. The FreeMod bracket is played with FreeMod activated. Every individual player can pick **Hidden, HardRock, or both. At least one player of each team must have at least one mod activated**.
+6. The size of the Hidden, Hard Rock and Double Time brackets will be 2 until Semifinals, where it increases to 3 for the rest of the tournament and 3 for the FreeMod bracket in all stages.
+7. The FreeMod bracket is played with FreeMod activated. Every individual player can pick **Hidden, Hard Rock, or both. At least one player of each team must have at least one mod activated**.
 8. The Tiebreaker will be played under FreeMod conditions but it won't be mandatory pick.
 9. The mappool for each stage will be showcased in the [GTS' channel](#links) a week before.
 

@@ -132,11 +132,11 @@ This competition has ended and resulted in the following podium:
   1. [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/30128#osu/105534)
   2. [Alex C. feat. Yasmin K. - Angel of Darkness (Nightcore Mix) (osuplayer111) \[Insane\]](https://osu.ppy.sh/beatmapsets/21949#osu/75987)
   3. [Aiobahn - Towa No Utage (w/ YUC'e) \[TANUKI Remix\] (Sing) \[toybot's Insane\]](https://osu.ppy.sh/beatmapsets/630247#osu/1347999)
-- HardRock
+- Hard Rock
   1. [Fractal Dreamers - Fortuna Redux (DTM9 Nowa) \[Insane\]](https://osu.ppy.sh/beatmapsets/712974#osu/1506914)
   2. [Sakuzyo - Amenohoakari (Firis Mistlud) \[Minorsonek's Insane\]](https://osu.ppy.sh/beatmapsets/671056#osu/1593699)
   3. [Kawada Mami - masterpiece (TV Size) (Chewin) \[Mok's Insanity Piece\]](https://osu.ppy.sh/beatmapsets/35526#osu/115371)
-- DoubleTime
+- Double Time
   1. [sana - Senpai. (Kyuukai) \[Hard\]](https://osu.ppy.sh/beatmapsets/637706#osu/1352785)
   2. [Bonnie Tyler - Holding Out For A Hero (Quixotic Remix) (Quag) \[I Dream of What I Need\]](https://osu.ppy.sh/beatmapsets/1195289#osu/2489949)
   3. [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie) \[Hard\]](https://osu.ppy.sh/beatmapsets/58951#osu/243848)
@@ -163,11 +163,11 @@ This competition has ended and resulted in the following podium:
   1. [Yorushika - Yoru Magai (CoLouRed GlaZeE) \[Insane\]](https://osu.ppy.sh/beatmapsets/1163834#osu/2427895)
   2. [Woofle and Strife - Up The Creek (Jade Creek 1) (Pereira006) \[Insane\]](https://osu.ppy.sh/beatmapsets/223668#osu/542636)
   3. [senya - Shunkan Everlasting (Naotoshi) \[Mo's Insane\]](https://osu.ppy.sh/beatmapsets/657870#osu/1401096)
-- HardRock
+- Hard Rock
   1. [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[Hard\]](https://osu.ppy.sh/beatmapsets/76396#osu/216151)
   2. [Y&Co. feat. Karin - Sweet Rain (Yauxo) \[apple's Insane\]](https://osu.ppy.sh/beatmapsets/327825#osu/840777)
   3. [Fuminori Matsumoto - Utsukushii Neiro de Sekai ga Natta (Gust) \[Sakura Mau\]](https://osu.ppy.sh/beatmapsets/722432#osu/1525195)
-- DoubleTime
+- Double Time
   1. [TRUE - Divine Spell (CelsiusLK) \[Hard\]](https://osu.ppy.sh/beatmapsets/494710#osu/1105180)
   2. [Jolin Tsai - Life Sucks (spboxer3) \[Habi's Hard\]](https://osu.ppy.sh/beatmapsets/1014900#osu/2128648)
   3. [Myrath - Endure The Silence (LMT) \[Mir's Hard\]](https://osu.ppy.sh/beatmapsets/555454#osu/1219574)
@@ -191,11 +191,11 @@ This competition has ended and resulted in the following podium:
   1. [Goose house - Hikaru nara (ProfessionalBox) \[Mikii's Insane\]](https://osu.ppy.sh/beatmapsets/440169#osu/947708)
   2. [Kanon Wakeshima - Heroine Syndrome (Delis) \[Insane\]](https://osu.ppy.sh/beatmapsets/603694#osu/1274975)
   3. [USAO - Night sky (sukiNathan) \[Insane\]](https://osu.ppy.sh/beatmapsets/396994#osu/916627)
-- HardRock
+- Hard Rock
   1. [Yunomi - Mentai Cosmic (alacat) \[Hard\]](https://osu.ppy.sh/beatmapsets/436773#osu/1038610)
   2. [orangentle - HAELEQUIN (Gamu) \[alacat's Light Insane\]](https://osu.ppy.sh/beatmapsets/291495#osu/667843)
   3. [FELT - Rendezvous (UndeadCapulet) \[Aeril's Hard\]](https://osu.ppy.sh/beatmapsets/725171#osu/1531201)
-- DoubleTime
+- Double Time
   1. [Haruna Luna - Kimiiro Signal (CelsiusLK) \[Hard\]](https://osu.ppy.sh/beatmapsets/326621#osu/725164)
   2. [EmoCo. - MAGENTA POTION (Starfy) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1079970#osu/2268090)
   3. [sakuzyo - Senkyou Ranbu (ktgster) \[N/A's Hard\]](https://osu.ppy.sh/beatmapsets/460516#osu/1052979)
@@ -218,11 +218,11 @@ This competition has ended and resulted in the following podium:
   1. [Hanatan - RED Signal (Koalazy) \[117's Insane\]](https://osu.ppy.sh/beatmapsets/152617#osu/487250)
   2. [An - Xhroria (Cherry Blossom) \[Hyper\]](https://osu.ppy.sh/beatmapsets/82258#osu/228549)
   3. [Akira Complex - Ether Strike (Mun) \[Xenon's Insane\]](https://osu.ppy.sh/beatmapsets/945019#osu/1976256)
-- HardRock
+- Hard Rock
   1. [Omoi - Chiisana Koi no Uta (Synth Rock Cover) (val0108) \[Kawa's Hard\]](https://osu.ppy.sh/beatmapsets/609189#osu/1295491)
   2. [DJ YOSHITAKA - FLOWER (TKiller) \[ignore's Hyper\]](https://osu.ppy.sh/beatmapsets/29996#osu/107070)
   3. [Falcom Sound Team J.D.K. - The Fate of The Fairies impossiblexu) \[ignore's Hard\]](https://osu.ppy.sh/beatmapsets/19497#osu/69904)
-- DoubleTime
+- Double Time
   1. [FELT - Story (Yohanes) \[Hard\]](https://osu.ppy.sh/beatmapsets/297409#osu/1082285)
   2. [Magnetude - Signals (Firebool) \[m3gB3g's 10 KHz\]](https://osu.ppy.sh/beatmapsets/850972#osu/1810827)
   3. [cYsmix - The Ballad of a Mindless Girl (Mir) \[Chaoz's Hard\]](https://osu.ppy.sh/beatmapsets/792396#osu/1662094)
@@ -243,10 +243,10 @@ This competition has ended and resulted in the following podium:
 - Hidden
   1. [TRUE - Sincerely (Kalibe) \[Emotion\]](https://osu.ppy.sh/beatmapsets/733581#osu/1548159)
   2. [Puru - Homura (VINXIS) \[N/A's Hard\]](https://osu.ppy.sh/beatmapsets/837924#osu/1945481)
-- HardRock
+- Hard Rock
   1. [Hatsune Miku - Hidari Migi -migihidari- (NatsumeRin) \[Hard\]](https://osu.ppy.sh/beatmapsets/24177#osu/87621)
   2. [Fractal Dreamers - Celestial Horizon (Pho) \[Mirash's Hard\]](https://osu.ppy.sh/beatmapsets/751846#osu/1582773)
-- DoubleTime
+- Double Time
   1. [OutputP - Negai Hana (buhei) \[Hard Collab\]](https://osu.ppy.sh/beatmapsets/119990#osu/309360)
   2. [Panda Eyes - Pump It Up (Hazu-) \[Hard\]](https://osu.ppy.sh/beatmapsets/1090677#osu/2281330)
 - FreeMod
@@ -265,10 +265,10 @@ This competition has ended and resulted in the following podium:
 - Hidden
   1. [onumi - ARROGANCE (Nambulance) \[Hard \[NPC2 Edit\]\]](https://osu.ppy.sh/beatmapsets/1179651#osu/2465200)
   2. [LukHash - WHEN AN ANGEL DIES (Namki) \[Solitude\]](https://osu.ppy.sh/beatmapsets/605726#osu/1279784)
-- HardRock
+- Hard Rock
   1. [Foreground Eclipse - When Innocence Is Just A Mask (kakifly) \[Hard\]](https://osu.ppy.sh/beatmapsets/242316#osu/563266)
   2. [Memme - Starving Days (Gamu) \[Hyper\]](https://osu.ppy.sh/beatmapsets/275743#osu/801614)
-- DoubleTime
+- Double Time
   1. [REOL - 404 not found (SnowNiNo_) \[Hard\]](https://osu.ppy.sh/beatmapsets/534116#osu/1165169)
   2. [Nakae Mitsuki - Renka Sensei (rui) \[wring's Hard\]](https://osu.ppy.sh/beatmapsets/51348#osu/165054)
 - FreeMod
@@ -286,10 +286,10 @@ This competition has ended and resulted in the following podium:
 - Hidden
   1. [Sound Souler - Gloom After Death (eiri-) \[Insane\]](https://osu.ppy.sh/beatmapsets/980331#osu/2241291)
   2. [Zekk - MEJIRUSHI (Nao Tomori) \[Hard\]](https://osu.ppy.sh/beatmapsets/1116742#osu/2333397)
-- HardRock
+- Hard Rock
   1. [AKINO from bless4 - MIIRO (Kawaiwkyik) \[Sellen's Hard\]](https://osu.ppy.sh/beatmapsets/259127#osu/608879)
   2. [Wonder Girls - So Hot (supergarlic) \[BURNING!\]](https://osu.ppy.sh/beatmapsets/4383#osu/24005)
-- DoubleTime
+- Double Time
   1. [Wisp X - Hibiscus (Aeril) \[Hard\]](https://osu.ppy.sh/beatmapsets/1040161#osu/2176484)
   2. [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Hyper\]](https://osu.ppy.sh/beatmapsets/119235#osu/306207)
 
@@ -446,7 +446,7 @@ Sunday, 7 June 2020:
 
 1. The tournament will be in a 2 versus 2 setup.
 2. Each team must have between 2 to 4 members.
-3. Beatmap scoring is based on Score V2.
+3. Beatmap scoring is based on ScoreV2.
 4. The beatmaps for each round will be announced by the map selectors in advance before the actual matches take place. Only these beatmaps will be used during the respective matches.
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie.
    - The qualifiers pool will not have a tiebreaker beatmap.
@@ -474,7 +474,7 @@ Sunday, 7 June 2020:
 ### Stage instructions
 
 1. In the qualifiers, all teams will play the same mappool.
-2. The qualifiers contains 9 maps in total, 3 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime.
+2. The qualifiers contains 9 maps in total, 3 NoMod, 2 Hidden, 2 Hard Rock, 2 Double Time.
 3. Each team will only play through the qualifiers once in a designated lobby.
 4. Each team must have 2 members to play each map. Players can exchange freely between each map.
 5. Teams that didn't sign up for a qualifiers lobby, or can not show up to a qualifiers lobby with enough members, will be automatically disqualified.
@@ -505,17 +505,17 @@ Sunday, 7 June 2020:
 ### Mappool instructions
 
 1. There will be a new mappool for every stage.
-2. Each mappool consists of 5 brackets: NoMod, Hidden, HardRock, DoubleTime and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, Hidden, Hard Rock, Double Time and FreeMod.
 3. The FreeMod bracket will have Free Mod enabled.
-   - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
+   - Possible mod choices are Hidden, Hard Rock and Hidden+Hard Rock.
    - When playing a FreeMod map, one player **must** have any kind of mod choices enabled. For the other player, enabling mods is optional.
-4. **NoFail will be enforced on all maps.**
+4. **No Fail will be enforced on all maps.**
 5. Each mappool has a specific size depending on the stage.
    - **The Round of 32 mappool will have 4 NoMod maps, and 2 of each for the remaining mod brackets.**
    - **The Round of 16 mappool will have 5 NoMod maps, and 2 of each for the remaining mod brackets.**
    - **The Quarterfinals mappool will have 5 NoMod maps, 2 FreeMod maps, and 3 of each for the remaining mod brackets.**
    - **The Semifinals mappool will have 5 NoMod maps, and 3 of each for the remaining mod brackets.**
-   - **The Finals and the Grand Finals mappool will have 6 NoMod maps, 4 DoubleTime maps, and 3 of each for the remaining mod brackets.**
+   - **The Finals and the Grand Finals mappool will have 6 NoMod maps, 4 Double Time maps, and 3 of each for the remaining mod brackets.**
 6. Each mappool except the Grand Finals has 1 tiebreaker beatmap, the Grand Finals has 3 tiebreaker beatmaps.
 7. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, there are no mod requirements.

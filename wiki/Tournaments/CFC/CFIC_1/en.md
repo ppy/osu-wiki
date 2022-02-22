@@ -98,12 +98,12 @@ This competition has come to an end and resulted in the following podium:
   2. [ak+q - Excelsia (Sorcerer) \[Rain\]](https://osu.ppy.sh/beatmapsets/737685#fruits/1556895)
   3. [Sota Fujimori - DANCE ALL NIGHT (Nowa) \[Nowa's Insane\]](https://osu.ppy.sh/beatmapsets/600303#fruits/1310291)
   4. [Yasuharu Takanashi - Fairy Tail Main Theme (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/13686#fruits/50625)
-- HardRock
+- Hard Rock
   1. [Hashimoto Miyuki - Gensou Roukaku (-Luminate) \[Platter\]](https://osu.ppy.sh/beatmapsets/907172#fruits/1896413)
   2. [Kanawo - Kohaku no Yume (Volta) \[Volta's Rain\]](https://osu.ppy.sh/beatmapsets/411705#fruits/905753)
   3. [Nobuo Uematsu - The Fierce Battle (mtmcl) \[Omega\]](https://osu.ppy.sh/beatmapsets/5727#fruits/27466)
   4. [Kakumi Nishigomi - Sengoku Sangen (lepidopodus) \[Insane\]](https://osu.ppy.sh/beatmapsets/26489#fruits/89463)
-- DoubleTime
+- Double Time
   1. [LeaF - Alice in Misanthrope -Ensei Alice- (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/797236#fruits/1696319)
   2. [Warak - REANIMATE (ZiRoX) \[ZiRoX's Platter\]](https://osu.ppy.sh/beatmapsets/489190#fruits/1042704)
   3. [Kagamine Rin - Ouka Ryouran (Suzully) \[Suzuloid\]](https://osu.ppy.sh/beatmapsets/29226#fruits/106734)
@@ -127,12 +127,12 @@ This competition has come to an end and resulted in the following podium:
   2. [AAAA Chazuke - Fatality Saga (-Plus-) \[Rain\]](https://osu.ppy.sh/beatmapsets/636548#fruits/1350632)
   3. [DJ Okawari - Canon (Short Ver.) (backstep) \[Peaceful\]](https://osu.ppy.sh/beatmapsets/44305#fruits/138830)
   4. [Igorrr - Tout Petit Moineau (fergas) \[Insane\]](https://osu.ppy.sh/beatmapsets/212180#fruits/519940)
-- HardRock
+- Hard Rock
   1. [Qrispy Joybox feat. Chata - Yuuki no Pendant (-Ken) \[Ken's platter\]](https://osu.ppy.sh/beatmapsets/758986#fruits/1604278)
   2. [Sean Paul - Get Busy (Bhangra Remix) (Rolled) \[Woman, Get Busy\]](https://osu.ppy.sh/beatmapsets/3448#fruits/21766)
   3. [07th Expansion - Nakanaide (KSHR) \[KSHR's Hard\]](https://osu.ppy.sh/beatmapsets/41807#fruits/158376)
   4. [DragonForce - Ring of Fire (MashaSG) \[Advanced\]](https://osu.ppy.sh/beatmapsets/717015#fruits/1843633)
-- DoubleTime
+- Double Time
   1. [BUTAOTOME - Gensou no Satellite (Xetopia) \[Xetopia's Platter\]](https://osu.ppy.sh/beatmapsets/699439#fruits/1615649)
   2. [Narae - Horang Pungryuga (Kin) \[Platter\]](https://osu.ppy.sh/beatmapsets/628971#fruits/1328112)
   3. [Flo Rida - Right Round (Rolled) \[Rolled\]](https://osu.ppy.sh/beatmapsets/6478#fruits/29368)
@@ -156,12 +156,12 @@ This competition has come to an end and resulted in the following podium:
   2. [M2U ft. Guriri - Magnolia (Unplugged Ver.) (Hareimu) \[Lacrimosa\]](https://osu.ppy.sh/beatmapsets/595974#fruits/1260334)
   3. [senya - Ondosa (Dailycare) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/420265#fruits/909244)
   4. [NH22 - Corrosion (Lena) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/17044#fruits/60941)
-- HardRock
+- Hard Rock
   1. [kors k feat. Starbitz - Butterfly (Minato Yukina) \[Platter\]](https://osu.ppy.sh/beatmapsets/887380#fruits/1855249)
   2. [Nyix - Sentimental Journey (Ollapeu) \[Salad\]](https://osu.ppy.sh/beatmapsets/738127#fruits/1557646)
   3. [GARNET CROW - Misty Mystery (ktgster) \[Conclusion\]](https://osu.ppy.sh/beatmapsets/378518#fruits/828669)
   4. [Orange Lounge - Comment te dire adieu (Takuma) \[Hard\]](https://osu.ppy.sh/beatmapsets/3730#fruits/22466)
-- DoubleTime
+- Double Time
   1. [Hardwell & Joey Dale feat. Luciana - Arcadia (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/472434#fruits/1009515)
   2. [Syaro(CV.Uchida Maaya) - Caffeine Fighter (Ascendance) \[Platter\]](https://osu.ppy.sh/beatmapsets/538511#fruits/1219314)
   3. [DJ Flower - Jamaican Love (Kazuya-sama) \[Insane\]](https://osu.ppy.sh/beatmapsets/163199#fruits/397864)
@@ -182,11 +182,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Amidst - Phantasy (-Ken) \[Dream\]](https://osu.ppy.sh/beatmapsets/752204#fruits/1583422)
   2. [Sakuzyo feat. Nikki Simmons - Destr0yer (Cherry Blossom) \[Another\]](https://osu.ppy.sh/beatmapsets/875148#fruits/1842512)
   3. [Cranky - Luvin' You (avira0922) \[MAX\]](https://osu.ppy.sh/beatmapsets/8923#fruits/36134)
-- HardRock
+- Hard Rock
   1. [SPYAIR - I'M A BELIEVER (celerih) \[celerih's Salad\]](https://osu.ppy.sh/beatmapsets/514505#fruits/1292296)
   2. [Two Door Cinema Club - I Can Talk (Gens) \[Hard\]](https://osu.ppy.sh/beatmapsets/878840#fruits/1837948)
   3. [Wisp X - Coffee (Sinnoh) \[Hard\]](https://osu.ppy.sh/beatmapsets/733211#fruits/1546829)
-- DoubleTime
+- Double Time
   1. [PSYQUI - Be There (GiGas) \[Salad\]](https://osu.ppy.sh/beatmapsets/800670#fruits/1711479)
   2. [La Cataline - Helical (La Cataline) \[Hard\]](https://osu.ppy.sh/beatmapsets/16761#fruits/69294)
   3. [Kuba Oms - My Love (W h i t e) \[Insane\]](https://osu.ppy.sh/beatmapsets/163112#fruits/397535)
@@ -205,10 +205,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [nano.RIPE - Kodama Kotodama (CLSW) \[Rain\]](https://osu.ppy.sh/beatmapsets/340570#fruits/753305)
   2. [44teru-k - F.I (Jacob) \[Another\]](https://osu.ppy.sh/beatmapsets/47664#fruits/155233)
-- HardRock
+- Hard Rock
   1. [SUPER STAR -MITSURU- - THANK YOU FOR PLAYING (Fawx) \[Fawx's Normal LV. 5\]](https://osu.ppy.sh/beatmapsets/410410#fruits/890671)
   2. [Nakaya Sayaka - HAPPINESSCHARGE PRECURE! WOW! (TV Size) (Flower) \[Hard\]](https://osu.ppy.sh/beatmapsets/147263#fruits/375570)
-- DoubleTime
+- Double Time
   1. [BURTON - Shinonomegiku (SUBSTAC9) \[STAC's Salad\]](https://osu.ppy.sh/beatmapsets/152709#fruits/401256)
   2. [T-ara - Apple Is A (Mako Sakata) \[Apple\]](https://osu.ppy.sh/beatmapsets/312328#fruits/697225)
 - Tiebreaker
@@ -329,7 +329,7 @@ Monday, 4 March 2019:
 ### General rules
 
 1. The tournament will be held in 1v1 double-elimination format with traditional seeding.
-2. The tournament will be held over 7 weekends. The matches will be played under **Score V2** and **Head to Head** settings.
+2. The tournament will be held over 7 weekends. The matches will be played under **ScoreV2** and **Head to Head** settings.
 3. A referee will be present in every match.
 4. Joining the Discord server is mandatory at least for the duration of the tournament.
 5. First weekend matches will be best-of-7, second weekend matches best-of-9, third weekend matches are best-of-11, and finally forth and fifth weekend matches are best-of-13.
@@ -342,7 +342,7 @@ Monday, 4 March 2019:
 4. The lower roller will ban first, the higher roller will pick first.
    - FreeMod is forced mod, meaning every player has to use at least one mod.
    - Tiebreaker is not forced mod but you may choose a mod.
-   - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, HardRock and Hidden.
+   - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, Hard Rock and Hidden.
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"

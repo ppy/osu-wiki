@@ -340,7 +340,7 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 ### Tournament rules
 
 1. This is a osu!mania head-to-head individual tournament for Chinese players.
-2. This tourney will be using 4-key score v2, and will have three stages: a qualifiers stage, a double elimination group stage followed by a double elimination bracket stage.
+2. This tourney will be using 4-key ScoreV2, and will have three stages: a qualifiers stage, a double elimination group stage followed by a double elimination bracket stage.
 3. There is no limit on the number of the players that will enter. Any and all whom we deem as a "cheater" or "suspicious", screened by both the tourney and the official osu! staff, will not be allowed entry into the tournament. Note that failure to read the entire forum post during sign-up may cause the player to not be eligible until the issue is resolved, so please read the entire post first!
 4. This tournament is for Chinese players only, including players from Mainland Chinese territories, Taiwan territories, Hong Kong territories, Macau territories. Please note that this tournament has nothing to do with politics and views about the territories of China. Only players with the flags of the territories listed above is eligible for playing.
 5. The discord server will be the source of pretty much all the information for this tournament, so if you're joining, either as player, staff, or even as a spectator, you'll want to join for all of the latest updates. Players are required to join the official discord to be eligible of playing in the tournament. For those who cannot access discord, we have a QQ server containing the methods which could help you better access discord. QQ server number: 597317576.

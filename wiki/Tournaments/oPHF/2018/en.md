@@ -228,10 +228,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Zekk - Feelsleftout (J1\_) \[Nokris' Extra\]](https://osu.ppy.sh/beatmapsets/821587)
   2. [SHK - Identity Part II (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/309807)
-- HardRock
+- Hard Rock
   1. [Nagito Komaeda (CV.Megumi Ogata) - Zettai Kibou Birthday (Anxient) \[Hope blooms\]](https://osu.ppy.sh/beatmapsets/492458)
   2. [Yuki Hayashi - You Say Run (Zare) \[Plus Ultra\]](https://osu.ppy.sh/beatmapsets/487907)
-- DoubleTime
+- Double Time
   1. [Mr. Saturn - Saturn (Saturnalize) \[Expert\]](https://osu.ppy.sh/beatmapsets/39797)
   2. [EastNewSound - Lucid Dream (Natteke) \[Lunakuren\]](https://osu.ppy.sh/beatmapsets/20826)
 - FreeMod
@@ -255,10 +255,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [maxXx65535 - Cynthia (Apricot) \[Another\]](https://osu.ppy.sh/beatmapsets/42760)
   2. [Daisy x Daisy - Towa no Kizuna feat. Another Infinity (Tsukasa) \[Insane\]](https://osu.ppy.sh/beatmapsets/50588)
-- HardRock
+- Hard Rock
   1. [SOUND HOLIC feat. Nana Takahashi - Wakusei\*Lollipop (moonlightleaf) \[Happy!!\]](https://osu.ppy.sh/beatmapsets/658934)
   2. [Jun.A - Ghost Lead (Scorpiour) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/47516)
-- DoubleTime
+- Double Time
   1. [MOMOLAND - BBoom BBoom (Lilyanna) \[Habi's INSANE!\]](https://osu.ppy.sh/beatmapsets/784632)
   2. [May'n - Chase the world (goodbye) \[Acceration\]](https://osu.ppy.sh/beatmapsets/51139)
 - FreeMod
@@ -282,10 +282,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Shirahamazaka Koukou Gasshou-Bu - Triple Smiley (Loneight) \[Smile\]](https://osu.ppy.sh/beatmapsets/516289)
   2. [Keiichi Okabe - The Lost Forest (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/51551)
-- HardRock
+- Hard Rock
   1. [Seiryu - Critical Crystal (Priti) \[Yuki's Another\]](https://osu.ppy.sh/beatmapsets/199535)
   2. [Naoki Miki(CV.Takahashi Rie) & Ebisuzawa Kurumi(CV.Ozawa Ari) - Unhappy End World (Yasaija 714) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/823259)
-- DoubleTime
+- Double Time
   1. [Infected Mushroom - Pink Nightmares (RLC) \[Insane\]](https://osu.ppy.sh/beatmapsets/107639)
   2. [Hanatan - Kokoronashi (Modem) \[Hard\]](https://osu.ppy.sh/beatmapsets/564941)
 - FreeMod
@@ -309,10 +309,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Sengoku Nadeko (CV: Hanazawa Kana) - Mousou Express (Net0) \[Insane\]](https://osu.ppy.sh/beatmapsets/712842)
   2. [SynthWulf - Passacaglia (Down) \[SCV's Insane\]](https://osu.ppy.sh/beatmapsets/758227)
-- HardRock
+- Hard Rock
   1. [An - Catanoph (Ryuusei Aika) \[Crystar's Insane\]](https://osu.ppy.sh/beatmapsets/775846)
   2. [uma vs. Morimori Atsushi - Re:End of a Dream (Battle) \[Hobbes2's Another\]](https://osu.ppy.sh/beatmapsets/557039)
-- DoubleTime
+- Double Time
   1. [Monkey Majik + Yoshida Brothers - Change (Breeze) \[Insane\]](https://osu.ppy.sh/beatmapsets/70120)
   2. [AYA - OVER NIGHT (IceBeam) \[Hard\]](https://osu.ppy.sh/beatmapsets/40985)
 - FreeMod
@@ -336,10 +336,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [senya - Zetsubou no Fuchi (-Mo-) \[Insane\]](https://osu.ppy.sh/beatmapsets/605290)
   2. [Kajiura Yuki - Newday's News (Ikaros_F) \[Banana's Insane\]](https://osu.ppy.sh/beatmapsets/100836)
-- HardRock
+- Hard Rock
   1. [yuikonnu - Ai no Scenario (Guy) \[Insane\]](https://osu.ppy.sh/beatmapsets/282375)
   2. [Cres - End Time (Kyshiro) \[Insane\]](https://osu.ppy.sh/beatmapsets/140691)
-- DoubleTime
+- Double Time
   1. [Senritsu & Xinely - Nagi-nagi- (Xinely) \[Mochi's Insane\]](https://osu.ppy.sh/beatmapsets/272797)
   2. [Leona Lewis - My Hands (Suissie) \[Normie music\]](https://osu.ppy.sh/beatmapsets/768021)
 - FreeMod
@@ -358,9 +358,9 @@ This competition has come to an end and resulted in the following podium:
   2. [96neko - Aimai Elegy (Lasse) \[Absence\]](https://osu.ppy.sh/beatmapsets/596833)
 - Hidden
   1. [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) \[Spork Lover's Insane\]](https://osu.ppy.sh/beatmapsets/710329)
-- HardRock
+- Hard Rock
   1. [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) \[Jace's Insane\]](https://osu.ppy.sh/beatmapsets/581787)
-- DoubleTime
+- Double Time
   1. [Kana Nishino - Still love you (Modem) \[Goodbye\]](https://osu.ppy.sh/beatmapsets/684712)
 
 ### osu!taiko
@@ -379,10 +379,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [LeaF - Calamity Fortune (Flower) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/96103)
   2. [MYTH & ROID - STYX HELIX (Chromoxx) \[Rebirth\]](https://osu.ppy.sh/beatmapsets/501705)
-- HardRock
+- Hard Rock
   1. [Sasaki Sayaka - Kiss no Hitotsu de (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/572323)
   2. [Rise Against - Savior (pishifat) \[Raiden's Oni\]](https://osu.ppy.sh/beatmapsets/509675)
-- DoubleTime
+- Double Time
   1. [nano.RIPE - Nanairo Biyori (TV Ver.) (Charlotte) \[Oni\]](https://osu.ppy.sh/beatmapsets/243675)
   2. [Haruna Luna - Stella Breeze (TV Size) (Rizia) \[Nardo's Oni\]](https://osu.ppy.sh/beatmapsets/595758)
 - FreeMod
@@ -406,10 +406,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [goreshit - o'er the flood (grumd) \[Wmf's Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/51972)
   2. [LeaF - Paraclete (Kroytz) \[Nwolf's Muzukashii\]](https://osu.ppy.sh/beatmapsets/455109)
-- HardRock
+- Hard Rock
   1. [KOAN Sound & Asa - fuego (sakuraburst remix) (Nifty) \[oni\]](https://osu.ppy.sh/beatmapsets/692383)
   2. [D(ABE3) - MANIERA (\_yu68) \[Oni\]](https://osu.ppy.sh/beatmapsets/400761)
-- DoubleTime
+- Double Time
   1. [Onodera Kosaki (Hanazawa Kana) - Recover Decoration (tasuke912) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/303463)
   2. [Hello, Happy World! - Sugar Song and Bitter Step (toara\_fict) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/606276)
 - FreeMod
@@ -433,10 +433,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Mili - world.execute(me); (Volta) \[volta.taiko(oni);\]](https://osu.ppy.sh/beatmapsets/507196)
   2. [DJ TOTTO - chaplet (Nwolf) \[MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/246705)
-- HardRock
+- Hard Rock
   1. [Wotamin - Gigantic O.T.N (Star Stream) \[Lundle's Muzu\]](https://osu.ppy.sh/beatmapsets/80214)
   2. [DJ YOSHITAKA - FLOWER (Lost The Lights) \[Oni\]](https://osu.ppy.sh/beatmapsets/339001)
-- DoubleTime
+- Double Time
   1. [Yasuda Rei - Mirror -TV edit- (Lasse) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/680364)
   2. [ClariS - Hitorigoto -TV MIX- (Chocola\_2287) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/599387)
 - FreeMod
@@ -460,10 +460,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Frederic Chopin - Etude Op. 10-4 (lepidopodus) \[Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/22374)
   2. [Maffalda - pensamento tipico de esquerda caviar (Blue Dragon) \[Oni\]](https://osu.ppy.sh/beatmapsets/175036)
-- HardRock
+- Hard Rock
   1. [Camellia - Routing (MMzz) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/375111)
   2. [KOTOKO - Koi Kou Enishi (JUDYDANNY) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/485249)
-- DoubleTime
+- Double Time
   1. [Marika - knowing  (Naotoshi) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/677700)
   2. [3L - Three Magic (cRyo[iceeicee]) \[Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/59631)
 - FreeMod
@@ -490,11 +490,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Kurokotei - Valkyrie Attack (alienflybot) \[Havoc\]](https://osu.ppy.sh/beatmapsets/793794)
   2. [Hanatan - Orange (Rocma) \[Easy\]](https://osu.ppy.sh/beatmapsets/207906)
   3. [Hatsuki Yura - Eclipse Parade (Zero\_\_wind) \[Zero's Insane\]](https://osu.ppy.sh/beatmapsets/430339)
-- HardRock
+- Hard Rock
   1. [dj TAKA  - quaver (Ascendance) \[Ultimate\]](https://osu.ppy.sh/beatmapsets/879085)
   2. [8284 vs wa - Adularescence (toybot) \[toybot's Overdose\]](https://osu.ppy.sh/beatmapsets/245851)
   3. [Mili - Space Colony (MechaYagyu) \[Usernametwo's Extra\]](https://osu.ppy.sh/beatmapsets/845591)
-- DoubleTime
+- Double Time
   1. [MY FIRST STORY - Fukagyaku Replace (Koliron) \[Koli's Rain\]](https://osu.ppy.sh/beatmapsets/342218)
   2. [Mami Kawada - Wings of Courage -Sora o Koete- (examination) \[Rain\]](https://osu.ppy.sh/beatmapsets/245160)
   3. [School Food Punishment - in bloom (Irie Miyuki) \[Insane\]](https://osu.ppy.sh/beatmapsets/228270)
@@ -516,11 +516,11 @@ This competition has come to an end and resulted in the following podium:
   1. [LeaF - Alice in Misanthrope -Ensei Alice- (Deif) \[Wonderland\]](https://osu.ppy.sh/beatmapsets/797236)
   2. [KOTOKO - unfinished (-Plus-) \[Burst\]](https://osu.ppy.sh/beatmapsets/477018)
   3. [seiya-murai feat.ALT - Sumidagawa Karenka (kiddly) \[Extra\]](https://osu.ppy.sh/beatmapsets/28796)
-- HardRock
+- Hard Rock
   1. [cosMo@Bousou-P - Sadistic.Music Factory (JeirYagtama) \[Sadistic Rain\]](https://osu.ppy.sh/beatmapsets/747341)
   2. [ClariS - Colorful -Movie MIX- (ecdonald) \[STAC's Rain\]](https://osu.ppy.sh/beatmapsets/125455)
   3. [Yousei Teikoku - Zetsubou plantation (Saten) \[Insane\]](https://osu.ppy.sh/beatmapsets/86009)
-- DoubleTime
+- Double Time
   1. [M2U - Magnolia (feat. Guriri) (Deif) \[Deif's Rain\]](https://osu.ppy.sh/beatmapsets/188879)
   2. [M2U - Stellar (Spectator) \[Rain\]](https://osu.ppy.sh/beatmapsets/699509)
   3. [supercell - My Dearest (TV Edit) (monstrata) \[Guilt\]](https://osu.ppy.sh/beatmapsets/370819)
@@ -542,11 +542,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Twin-Tails - Twintail Dreamer! (Minorsonek) \[Nyukai's Extreme\]](https://osu.ppy.sh/beatmapsets/773026)
   2. [ITO KASHITARO - Hyakka Ryouran (F D Flourite) \[Sparks\]](https://osu.ppy.sh/beatmapsets/867277)
   3. [Go Ichinose - Champion Daigo (MBomb) \[MBomb's Heavy Rain\]](https://osu.ppy.sh/beatmapsets/319636)
-- HardRock
+- Hard Rock
   1. [BoA - MASAYUME CHASING (MazuNatsu) \[Rain\]](https://osu.ppy.sh/beatmapsets/246499)
   2. [Kanawo - Kohaku no Yume (Surono) \[Volta's Rain\]](https://osu.ppy.sh/beatmapsets/411705)
   3. [paraoka - petal-go-round (Irreversible) \[Insane\]](https://osu.ppy.sh/beatmapsets/110820)
-- DoubleTime
+- Double Time
   1. [dark cat - BUBBLE TEA (feat. juu & cinders) (Ascendance) \[Ascendance's Rain\]](https://osu.ppy.sh/beatmapsets/769917)
   2. [ARM (IOSYS) - Koisuru\*Uchuu Sensou!! Abababa Mix (Frobe) \[Frobe's Platter\]](https://osu.ppy.sh/beatmapsets/145032)
   3. [Neru - Lost One no Goukoku (goodbye) \[Kotone\]](https://osu.ppy.sh/beatmapsets/83547)
@@ -568,11 +568,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Tomohito Nishiura - Moonlight Tango (JBHyperion) \[Overdose\]](https://osu.ppy.sh/beatmapsets/536001)
   2. [\*namirin - Daidai Genome (Ascendance) \[Ascendance's Rain\]](https://osu.ppy.sh/beatmapsets/700726)
   3. [Memme - Acid Burst (Tess) \[Tess' Insane\]](https://osu.ppy.sh/beatmapsets/302535)
-- HardRock
+- Hard Rock
   1. [M2U - Myosotis (Ascendance) \[Ascendance's Platter\]](https://osu.ppy.sh/beatmapsets/460422)
   2. [EZFG - Hurting for a Very Hurtful Pain (tutuhaha) \[Insane\]](https://osu.ppy.sh/beatmapsets/46848)
   3. [Memme - Chinese Restaurant (Kloyd) \[Kloyd's Another\]](https://osu.ppy.sh/beatmapsets/256467)
-- DoubleTime
+- Double Time
   1. [bj.HaLo - Ende (ZiRoX) \[Platter\]](https://osu.ppy.sh/beatmapsets/188401)
   2. [Sayaka Sasaki - Zzz (Minato Yukina) \[Crystal's Platter\]](https://osu.ppy.sh/beatmapsets/184710)
   3. [Eri Sasaki - Ring of Fortune (Cherry Blossom) \[Memories\]](https://osu.ppy.sh/beatmapsets/347875)
@@ -594,7 +594,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Warak - Christmas Memories (Spectator) \[Memory\]](https://osu.ppy.sh/beatmapsets/242143)
   2. [Akiyama Uni - Kanpan Tasogare Shinbun (JBHyperion) \[Hyperion's Overdose\]](https://osu.ppy.sh/beatmapsets/633255)
   3. [Ray - Hajimete Girls! (Pho) \[Pho's Very Hard\]](https://osu.ppy.sh/beatmapsets/330566)
-- HardRock
+- Hard Rock
   1. [Annabel - syncretism animesize ver (RoseusJaeger) \[Platter\]](https://osu.ppy.sh/beatmapsets/514144)
   2. [Komine Lisa - Resuscitated Hope -TVsize- (Ascendance) \[Fiance's Golden Sun\]](https://osu.ppy.sh/beatmapsets/591791)
   3. [07th Expansion - rog-unlimitation (AngelHoney) \[Hard\]](https://osu.ppy.sh/beatmapsets/28751)
@@ -614,9 +614,9 @@ This competition has come to an end and resulted in the following podium:
   2. [a\*ru - Kizuato (Benita) \[Scar\]](https://osu.ppy.sh/beatmapsets/668807)
 - Hidden
   1. [Hitomi Sato - Hakutai Forest (Spectator) \[Cheryl\]](https://osu.ppy.sh/beatmapsets/293846)
-- HardRock
+- Hard Rock
   1. [Akiko Shikata - Katayoku no Tori (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/317968)
-- DoubleTime
+- Double Time
   1. [Camellia - Towards The Horizon (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmapsets/629384)
 
 ### osu!mania 4K
@@ -1170,7 +1170,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Game modes and scoring format
 
-- The tournament will host the following game modes: osu!, osu!taiko, osu!catch, osu!mania 4K, and osu!mania 7K. In addition, the tournament will use **Score v2** as its scoring format. This requires players to play on the following osu! Builds: Stable (Latest), Beta, and Cutting Edge.
+- The tournament will host the following game modes: osu!, osu!taiko, osu!catch, osu!mania 4K, and osu!mania 7K. In addition, the tournament will use **ScoreV2** as its scoring format. This requires players to play on the following osu! Builds: Stable (Latest), Beta, and Cutting Edge.
 
 ### Tournament formats
 
@@ -1185,32 +1185,32 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.
   - **NoMod** - No mod is to be used at all for the beatmap.
-  - **HR (HardRock)** - The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
+  - **HR (Hard Rock)** - The Hard Rock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
   - **HD (Hidden)** - The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
-  - **DT (DoubleTime)** - The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
+  - **DT (Double Time)** - The Double Time mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
   - **FreeMod** - Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
 
 #### osu!taiko
 
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.
   - **NoMod** - No mod is to be used at all for the beatmap.
-  - **HR (HardRock)** - The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
+  - **HR (Hard Rock)** - The Hard Rock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
   - **HD (Hidden)** - The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
-  - **DT (DoubleTime)** - The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
+  - **DT (Double Time)** - The Double Time mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
   - **FreeMod** - Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
 
 #### osu!catch
 
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.
   - **NoMod** - No mod is to be used at all for the beatmap.
-  - **HR (HardRock)** - The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
+  - **HR (Hard Rock)** - The Hard Rock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
   - **HD (Hidden)** - The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
-  - **DT (DoubleTime)** - The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
+  - **DT (Double Time)** - The Double Time mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
 - The use of **HD (Hidden)** is permitted when the map being picked is in the **HR (Hard Rock)** or **DT (Double Time)** bracket.
 
 #### osu!mania
 
-- For both osu!mania 4K and 7K, the tournament will assume the **osu!mania FreeMod** rule. This permits the usage of **HD (Hidden)**, **FI (FadeIn)**, or **FL (Flashlight)** during a pick.
+- For both osu!mania 4K and 7K, the tournament will assume the **osu!mania FreeMod** rule. This permits the usage of **HD (Hidden)**, **FI (Fade In)**, or **FL (Flashlight)** during a pick.
 
 ### Eligibility and registration
 

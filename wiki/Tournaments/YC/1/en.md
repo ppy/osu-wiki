@@ -135,12 +135,12 @@ This competition has come to an end and resulted in the following podium:
   2. [xi - over the top (Kroytz) \[beyond the heavens\]](https://osu.ppy.sh/beatmapsets/479215#osu/1023355)
   3. [lapix - Carry Me Away (Alden) \[Nigber1's Blazing Extra\]](https://osu.ppy.sh/beatmapsets/696800#osu/2361968)
   4. [CLIFF EDGE feat. Nakamura Maiko - The Distance (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/580375#osu/1228840)
-- HardRock
+- Hard Rock
   1. [Nekomata Master - Despair of Elferia (-Tochi) \[ANIMUM DESPONDEO\]](https://osu.ppy.sh/beatmapsets/1069504#osu/2238810)
   2. [LowFat x Onyu - DAYBREAK FRONTLINE (Anmiy) \[GO AHEAD !!!\]](https://osu.ppy.sh/beatmapsets/545417#osu/1155547)
   3. [RYO - Shuffle Heaven (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/30682#osu/118971)
   4. [Memme - %S(M) (P o M u T a) \[EX\]](https://osu.ppy.sh/beatmapsets/296393#osu/665509)
-- DoubleTime
+- Double Time
   1. [Taylor Swift - ...Ready For It? (Syph) \[Extra\]](https://puu.sh/Fru9p/84d01bdba5.osz)
   2. [bibuko - Crayon (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/49455#osu/152463)
   3. [Stan SB - Let This Go (Kyshiro) \[Gone\]](https://osu.ppy.sh/beatmapsets/89912#osu/244230)
@@ -168,12 +168,12 @@ This competition has come to an end and resulted in the following podium:
   2. [P\*Light - 2 MINUTES FIGHTERS (Line-) \[Line-'s\]](https://osu.ppy.sh/beatmapsets/389311#osu/848950)
   3. [BRZion - Game Brain (Zapy) \[Extra\]](https://osu.ppy.sh/beatmapsets/31224#osu/102736)
   4. [yuikonnu - Ghost Rule (Len) \[Sonnyc's Insane\]](https://osu.ppy.sh/beatmapsets/440650#osu/1573659)
-- HardRock
+- Hard Rock
   1. [Warak - Slow Motion (feat. DongGeyoung) (NeonLights) \[Walk away in slow motion\]](https://osu.ppy.sh/beatmapsets/1014716#osu/2123641)
   2. [UNDEAD CORPORATION - Embraced by the Flame (English ver) (PoNo) \[Xenok's Extra\]](https://osu.ppy.sh/beatmapsets/783213#osu/1644648)
   3. [Nanaki feat.GUMI - Mousou Kajitsu (Natsu) \[Climax\]](https://osu.ppy.sh/beatmapsets/524966#osu/1114132)
   4. [Hiroyuki Sawano feat. Mika Kobayashi - Bios (goodbye) \[LKs' Another\]](https://osu.ppy.sh/beatmapsets/43674#osu/137766)
-- DoubleTime
+- Double Time
   1. [Hanatan - Friction (kakifly) \[Insane\]](https://osu.ppy.sh/beatmapsets/281749#osu/637279)
   2. [Festa - Lemuria (QuiescentRabbit) \[Insane\]](https://osu.ppy.sh/beatmapsets/835474#osu/1815526)
   3. [Poppy - I'm Poppy (Myxomatosis) \[Insane\]](https://osu.ppy.sh/beatmapsets/838383#osu/1755267)
@@ -202,11 +202,11 @@ This competition has come to an end and resulted in the following podium:
   1. [WSTR - Eastbound & Down (HanzeR) \[Irre \<3 HanzeR\]](https://osu.ppy.sh/beatmapsets/598677#osu/1271476)
   2. [TJ.Hangneil - Kamui (7odoa) \[SHD\]](https://osu.ppy.sh/beatmapsets/39017#osu/124664)
   3. [GHOSTEMANE - Mercury: Retrograde (Anishina Kodoku) \[Thelema\]](https://osu.ppy.sh/beatmapsets/838193#osu/1754868)
-- HardRock
+- Hard Rock
   1. [SAVE THE QUEEN - EX-Termination (Jenny) \[Combustion\]](https://osu.ppy.sh/beatmapsets/50181#osu/156905)
   2. [Chroma - I (Kawashiro) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/880256#osu/1877959)
   3. [Lindsey Stirling - Crystallize (Nuvolina) \[Blind Collab\]](https://osu.ppy.sh/beatmapsets/947744#osu/1979407)
-- DoubleTime
+- Double Time
   1. [Grynpyret - Boba Beach (VINXIS) \[Habanero\]](https://osu.ppy.sh/beatmapsets/327224#osu/726289)
   2. [DJ TOTTO feat. \*spiLa\* - illumina (handsome) \[insane\]](https://osu.ppy.sh/beatmapsets/349883#osu/779441)
   3. [Chris Brown Feat. Busta Rhymes & Lil Wayne - Look At Me Now (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/29859#osu/99997)
@@ -233,11 +233,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Tricot - POOL (dsco) \[Lover\]](https://osu.ppy.sh/beatmapsets/854942#osu/1786452)
   2. [PSYQUI feat. Such - Your voice so... (Livia) \[Future\]](https://osu.ppy.sh/beatmapsets/765357#osu/1609215)
   3. [Masubuchi Yuuji - Shimedore 2000 (DakeDekaane) \[Oni\]](https://osu.ppy.sh/beatmapsets/171340#osu/414516)
-- HardRock
+- Hard Rock
   1. [S3RL - Ravers MashUp (Nuvolina) \[Rave Forever\]](https://osu.ppy.sh/beatmapsets/912916#osu/1907051)
   2. [Noah - Celestial stinger (Kroytz) \[1112's INFINITE\]](https://osu.ppy.sh/beatmapsets/687129#osu/1454082)
   3. [Becky - Less Than Three (Ricardo Autobahn Remix) (Sonnyc) \[Expert\]](https://osu.ppy.sh/beatmapsets/1078502#osu/2256655)
-- DoubleTime
+- Double Time
   1. [senya - Zouka de Arou to Shita Mono (Satellite) \[Giralda's Lunatic\]](https://osu.ppy.sh/beatmapsets/495283#osu/1107464)
   2. [Hatsune Miku - Netoge Haijin Sprechchor (Lalarun) \[Insane\]](https://osu.ppy.sh/beatmapsets/25802#osu/87369)
   3. [FELT - The Sun and Moon (Sylvarus) \[More Than Words Can Say\]](https://osu.ppy.sh/beatmapsets/1036438#osu/2167038)
@@ -264,11 +264,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Shinra-Bansho - Kyoukyou no Fortunate Polka (Yukiyo) \[A Dance of Esotericism and Vitalism\]](https://osu.ppy.sh/beatmapsets/904962#osu/1888862)
   2. [FujuniseikouyuuP - Invasion of stray cats (val0108) \[Stray0108\]](https://osu.ppy.sh/beatmapsets/256947#osu/588523)
   3. [bbn - Identic Conflict (Myxo) \[LMT's Another\]](https://osu.ppy.sh/beatmapsets/1020429#osu/2135438)
-- HardRock
+- Hard Rock
   1. [Jin feat. MARiA from GARNiDELiA - daze (Loneight) \[Extra\]](https://osu.ppy.sh/beatmapsets/188837#osu/449984)
   2. [PSYQUI - Raise Your Hands (feat. Such) (Nathan) \[run away\]](https://osu.ppy.sh/beatmapsets/889217#osu/1858570)
   3. [Kinjishi - Nageki no Ki (Matrix) \[Insane\]](https://osu.ppy.sh/beatmapsets/1017760#osu/2130349)
-- DoubleTime
+- Double Time
   1. [mafumafu - I wanna be a girl (Yukiyo) \[Onegai!\]](https://osu.ppy.sh/beatmapsets/1067733#osu/2235450)
   2. [BlackYooh vs. siromaru - BLACK or WHITE? (BluOxy) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/248876#osu/578163)
   3. [Anamanaguchi - Prom Night (Bonsai) \[Insane\]](https://osu.ppy.sh/beatmapsets/398797#osu/867655)
@@ -293,10 +293,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Frums - 24eeev0-$ (Niva) \[bpm(1) = 100; for (i = 2 : 24) {bpm(i) = bpm(i-1) + 8 + (floor((i-1) / 6) \* 3)}\]](https://osu.ppy.sh/beatmapsets/1086289#osu/2271666)
   2. [Travis Scott & Quavo - Go (Sing) \[Master\]](https://osu.ppy.sh/beatmapsets/709474#osu/1499797)
-- HardRock
+- Hard Rock
   1. [supercell - Rock 'n' Roll Nandesu no (Milan-) \[pkhg's Insane\]](https://osu.ppy.sh/beatmapsets/623518#osu/1351370)
   2. [Kagamine Rin - Abstract Nonsense (SapphireGhost) \[Suicide\]](https://osu.ppy.sh/beatmapsets/39580#osu/126062)
-- DoubleTime
+- Double Time
   1. [Jin - Yuukei Yesterday (luxoDeh) \[Akareh's Insane\]](https://osu.ppy.sh/beatmapsets/112037#osu/294729)
   2. [Imperial Circus Dead Decadence - Syakunetsu No Rengoku Ni Bara Wa... (Sing) \[Collab Hard\]](https://osu.ppy.sh/beatmapsets/964680#osu/2019486)
   3. [Mai Nakahara & Ai Shimizu - Secret Dolls (gdeath) \[Challenging\]](https://osu.ppy.sh/beatmapsets/9256#osu/39059)
@@ -317,10 +317,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Rin - Amanojaku set 03 \~ Romantic Escape Flight (Halfslashed) \[Last Day\]](https://osu.ppy.sh/beatmapsets/1022358#osu/2138942)
   2. [Yorushika - Yuunagi, Bou, Hana Madoi (Deca) \[coco's Extra\]](https://osu.ppy.sh/beatmapsets/1029377#osu/2156980)
-- HardRock
+- Hard Rock
   1. [yumemidoll - Lyrith -Meikyuu Lyrith- (eiri-) \[Uberzolik's Insane\]](https://osu.ppy.sh/beatmapsets/757681#osu/1603721)
   2. [Sota Fujimori - DANCE ALL NIGHT (- Yoshimaro -) \[KawaMilr's Insane\]](https://osu.ppy.sh/beatmapsets/600303#osu/1279551)
-- DoubleTime
+- Double Time
   1. [MRVLZ - Her Name (VINXIS) \[Collab Light Insane\]](https://osu.ppy.sh/beatmapsets/597833#osu/1922386)
   2. [senya - Kimi to Dareka no Yasashisa ni (kakifly) \[Affection\]](https://osu.ppy.sh/beatmapsets/250337#osu/596161)
 
@@ -526,7 +526,7 @@ Sunday, 1 March 2020:
 ### General rules
 
 1. Yuri Cup is an international **4 vs 4** double-elimination bracket osu! tournament consisting of 8 man per team.
-2. The scoring system used will be **Score V2**.
+2. The scoring system used will be **ScoreV2**.
 3. Rank limit range is within **#1,000** and unlimited. It means player above rank #1,000 can't participate.
 4. Using the **protect** system for mappool pick/ban. Protect system rule (a.k.a. ban/protect rule) is a system where players will have to first keep a map and the keeped map will not be bannable during the map banning session. After that players can normally ban maps and pick the first map to play. For more information please visit following [thread](https://osu.ppy.sh/community/forums/topics/899704).
 5. Failed scores during match will be counted.

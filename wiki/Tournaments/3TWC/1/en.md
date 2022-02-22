@@ -121,11 +121,11 @@ This competition has come to an end and resulted in the following podium:
   1. [cosMo@BousouP - Sekai no Owari ni Aimashou (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/879288#taiko/1838843)
   2. [MYUKKE. - The 89's Momentum (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1320872#taiko/2736308)
   3. [nonuplet - Chaos:Q (D o t) \[.'s Taiko\]](https://osu.ppy.sh/beatmapsets/889674#taiko/1859847)
-- HardRock
+- Hard Rock
   1. [UNDEAD CORPORATION - Frozen (lexcelent) \[Endless Nightmare\]](https://osu.ppy.sh/beatmapsets/1286265#taiko/2670735)
   2. [tokiwa - Kotodama Refrain (katagiri Bootleg) (7\_7) \[REFRAIN 260\]](https://osu.ppy.sh/beatmapsets/924902#taiko/1955848)
   3. [REDALiCE vs MASAKI - BUCHiGiRE Berserker (Taka030) \[† DJ MOKOJI †\]](https://osu.ppy.sh/beatmapsets/928561#taiko/1939492)
-- DoubleTime
+- Double Time
   1. [Gesu no Kiwami Otome. - Romance ga Ariamaru (Skull Kid) \[Rupture (3TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1329960#taiko/2841403)
   2. [Remo Prototype \[CV.Hanamori Yumiri\] - Sendan Life (mintong89) \[hikki's Oni\]](https://osu.ppy.sh/beatmapsets/416063#taiko/925264)
   3. [Neovaii - Silent (Mew) \[Tranquility\]](https://osu.ppy.sh/beatmapsets/1065551#taiko/2231274)
@@ -151,11 +151,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Teletexter - Super Sonic Raving (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1321693#taiko/2737702)
   2. [bermei.inazawa - Amanda (mariopokemon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1170771#taiko/2442354)
   3. [Danny Baranowsky - The Battle of Lil' Slugger (Ch 1 Boss Extended Cut) (shinchikuhome) \[250\]](https://osu.ppy.sh/beatmapsets/714797#taiko/1510447)
-- HardRock
+- Hard Rock
   1. [REDALiCE feat. Ayumi Nomiya - Little Star (Full Ver.) (Konpaku Sariel) \[Stream \[1.2x Rate\]\]](https://osu.ppy.sh/beatmapsets/1348450#taiko/2792243)
   2. [NIKITA - SCARY BANQUET (vizokaa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/523768#taiko/1111899)
   3. [tk - Wicked Jellyfish (7\_7) \[Kurage\]](https://osu.ppy.sh/beatmapsets/1223996#taiko/2545825)
-- DoubleTime
+- Double Time
   1. [Earth, Wind & Fire - September (yomoha remix) (Midnaait) \[I Remember\]](https://osu.ppy.sh/beatmapsets/1075239#taiko/2249961)
   2. [DREAMCATCHER - Chase Me (\_Rise) \[Oni\]](https://osu.ppy.sh/beatmapsets/1083851#taiko/2266752)
   3. [kors k - Monkey Business (lapix Remix) (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/721496#taiko/1523524)
@@ -181,11 +181,11 @@ This competition has come to an end and resulted in the following podium:
   1. [Utagami Setsugetsuka - Maware! Setsugetsuka -kaite'n bass mix- (A-40) \[Maware!\]](https://osu.ppy.sh/beatmapsets/1231030#taiko/2559263)
   2. [E.G.G. - OK I'm blue rat (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1184988#taiko/2470101)
   3. [katagiri - Nyan-Nyan Naughty Night (KTYN) \[rezi's Nyan-Nyan Baka\]](https://osu.ppy.sh/beatmapsets/1289837#taiko/2679699)
-- HardRock
+- Hard Rock
   1. [BlackY vs. harunaba - Rinrin Nadeshiko HeartilY (DarkVortex) \[Relentless Oni\]](https://osu.ppy.sh/beatmapsets/454649#taiko/1013057)
   2. [Renard - TU4AR (Skull Kid) \[take u 4 a ride (3TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1256035#taiko/2819345)
   3. [XCKSECKS - Christraping Black Breakcore (yea) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/700881#taiko/1483632)
-- DoubleTime
+- Double Time
   1. [PinocchioP - Whatever Yama Says Goes (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/948683#taiko/1981171)
   2. [Houshou Marine with Holoism Fantasy - Hoihoi\*Gensou Holoism (yassu-) \[\_Rise's Oni\]](https://osu.ppy.sh/beatmapsets/1336533#taiko/2785673)
   3. [Feryquitous Vo.F9 - Monochrome Anomaly(Short.ver) (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1280966#taiko/2660754)
@@ -209,10 +209,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [BLUE ENCOUNT - HOPE (1RoHa\_) \[Nube Oni\]](https://osu.ppy.sh/beatmapsets/741825#taiko/1564916)
   2. [Circle of Dust - Humanarchy (Blue Stahli Remix) (160BPM Edit) (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/1339226#taiko/2774399)
-- HardRock
+- Hard Rock
   1. [Rainbowdragoneyes - Creatures ov Deception (Mew104) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/413267#taiko/896221)
   2. [Kabocha - EmbryO (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/944558#taiko/2120949)
-- DoubleTime
+- Double Time
   1. [Ayumi Hamasaki - Ayu's Euro Mega-Mix [Y & Co. Mix] (J a c k y) \[Timeless Classic\]](https://osu.ppy.sh/beatmapsets/1278702#taiko/2656385)
   2. [nano.RIPE - Last Chapter (iloveyou4ever) \[Oni\]](https://osu.ppy.sh/beatmapsets/1278839#taiko/2656612)
 - FreeMod
@@ -235,10 +235,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (Reol) \[TK'S Inner Oni\]](https://osu.ppy.sh/beatmapsets/167783#taiko/824509)
   2. [Machine Girl - Cloud99 (As Above Mix) (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1127497#taiko/2355655)
-- HardRock
+- Hard Rock
   1. [Street - Hestia (tasuke912) \[Fornax\]](https://osu.ppy.sh/beatmapsets/1209521#taiko/2518134)
   2. [dj TAKA meets DJ YOSHITAKA - Elemental Creation (Reed_405) \[7\_7 meets Oni\]](https://osu.ppy.sh/beatmapsets/862601#taiko/1808906)
-- DoubleTime
+- Double Time
   1. [xi - Mirage Garden (Genjuro) \[Oni\]](https://osu.ppy.sh/beatmapsets/1243153#taiko/2585990)
   2. [Umiai - Lapislazuli (juanilp4evr) \[Oni\]](https://osu.ppy.sh/beatmapsets/907436#taiko/2018014)
 - FreeMod
@@ -261,10 +261,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [The Flashbulb - Planet Th (Hypello) \[oni\]](https://osu.ppy.sh/beatmapsets/948105#taiko/1980115)
   2. [Bloodywood - Machi Bhasad (Grmbow) \[Rakshasa\]](https://osu.ppy.sh/beatmapsets/1282588#taiko/2663889)
-- HardRock
+- Hard Rock
   1. [Loki - The Victory is Ours (Ntiger) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/541363#taiko/1147903)
   2. [T.M.Generation - X-DEN (eiri-) \[Genjuro's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1291381#taiko/2726733)
-- DoubleTime
+- Double Time
   1. [YOASOBI - Yoru ni Kakeru (Charlotte) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1179693#taiko/2459933)
   2. [Laur - PRAGMATISM (yea) \[jyake's Oni\]](https://osu.ppy.sh/beatmapsets/740169#taiko/1562729)
 - FreeMod
@@ -283,9 +283,9 @@ This competition has come to an end and resulted in the following podium:
   2. [Lokan - introspect (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1184250#taiko/2468743)
 - Hidden
   1. [KUMOKIRI - Shippuujinrai (\_DUSK\_) \[Genjuro's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1159251#taiko/2422658)
-- HardRock
+- Hard Rock
   1. [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/812992#taiko/1709943)
-- DoubleTime
+- Double Time
   1. [P\*Light - psy\_tek (JessiChan) \[Oni\]](https://osu.ppy.sh/beatmapsets/579294#taiko/1517686)
 
 ## Match results
@@ -494,9 +494,9 @@ Sunday, 17 January 2021:
 7. Each team has to ban 1 map per match (apart from the Tiebreaker which cannot be banned).
 8. Teams have 2 minutes to ban a map; if they fail to ban in the allotted time, that ban is skipped.
 9. Teams have 2 minutes to select a map; if they fail to choose in the allotted time, the map choice will pass to the other team. This will have no effect on the order of picks afterwards.
-10. For FreeMod picks, at least 1 player from each team has to pick a mod, either Hidden or HardRock. Overmodding is allowed.
+10. For FreeMod picks, at least 1 player from each team has to pick a mod, either Hidden or Hard Rock. Overmodding is allowed.
 11. The minimum combination of mods should always be followed.
-12. Mods allowed in FreeMods are: Hidden and HardRock.
+12. Mods allowed in FreeMods are: Hidden and Hard Rock.
 13. Players are allowed, but not required, to use mods on Tiebreaker map.
 14. The team that sums up the bigger score among the 4 players (two in each team) when the map comes to an end will be the winner of the map.
 15. Once the map choice is locked in, players will have 90-seconds to ready up. The referee will start the match when all players are ready. If the 90-second timer ends, the referee will force an `!mp start 10` command, and the match will start with whoever is in the lobby.
@@ -504,9 +504,9 @@ Sunday, 17 January 2021:
 
 ### Mappool composition
 
-1. Qualifiers will have 2 NoMod maps, 1 Hidden map, 1 HardRock map, and 1 DoubleTime map.
-2. Round of 24, Round of 16, and Quarterfinals will have 5 NoMod maps, 2 Hidden maps, 2 HardRock maps, 2 DoubleTime maps, 3 FreeMod maps, and 1 Tiebreaker map.
-3. Semifinals, Finals, and Grand Finals will have 6 NoMod maps, 3 Hidden maps, 3 HardRock maps, 3 DoubleTime maps, 3 FreeMod maps, and 1 Tiebreaker map.
+1. Qualifiers will have 2 NoMod maps, 1 Hidden map, 1 Hard Rock map, and 1 Double Time map.
+2. Round of 24, Round of 16, and Quarterfinals will have 5 NoMod maps, 2 Hidden maps, 2 Hard Rock maps, 2 Double Time maps, 3 FreeMod maps, and 1 Tiebreaker map.
+3. Semifinals, Finals, and Grand Finals will have 6 NoMod maps, 3 Hidden maps, 3 Hard Rock maps, 3 Double Time maps, 3 FreeMod maps, and 1 Tiebreaker map.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

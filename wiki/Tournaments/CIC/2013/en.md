@@ -82,13 +82,13 @@ This competition has come to an end and resulted in the following podium:
   8. [Black Hole - Pluto (7odoa) \[Challenge\]](https://osu.ppy.sh/beatmapsets/45074#fruits/146957)
   9. [Yousei Teikoku - Kokou no Sousei (Saten-san) \[Chaos\]](https://osu.ppy.sh/beatmapsets/28705#fruits/118068)\*
   10. [Yousei Teikoku - The Creator (meiikyuu) \[Nyaten\]](https://osu.ppy.sh/beatmapsets/41242#fruits/202756)\*
-- HardRock
+- Hard Rock
   1. [Pizuya's Cell x MyonMyon - Romantic Children (Frill) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/18009#fruits/68431)
   2. [Ryu\* Vs. Sota - Go Beyond!! (yongtw123) \[Sp's Darkness\]](https://osu.ppy.sh/beatmapsets/19705#fruits/84398)
   3. [YAMAGEN'S DEVILELIET - EYES OF DEVILELIET (Kite) \[PERNICIOUS\]](https://osu.ppy.sh/beatmapsets/36988#fruits/119238)
   4. [Memme - BSPower Explosion (yeahyeahyeahhh) \[Baka yyy\]](https://osu.ppy.sh/beatmapsets/45760#fruits/142772)
   5. [BACK-ON - flyaway \[Tales of\] Remix (ztrot) \[FLYAWAY!!!\]](https://osu.ppy.sh/beatmapsets/11620#fruits/44782)\*
-- DoubleTime
+- Double Time
   1. [Tachibana Miya - Miya to Tengoku to Jigoku (AngelHoney) \[Hentai\]](https://osu.ppy.sh/beatmapsets/17450#fruits/62269)
   2. [Lunatica - Words Unleashed (Louis Cyphre) \[Armageddon\]](https://osu.ppy.sh/beatmapsets/18191#fruits/64558)
   3. [Tatsh - Lunatic Tears...(Tatsh Remix) (Suzully) \[Patche\]](https://osu.ppy.sh/beatmapsets/26743#fruits/90032)
@@ -120,12 +120,12 @@ Notes:
   6. [M2U - Placebo Dying (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/60081#fruits/179758)
   7. [Hatsune Miku - With a Dance Number (val0108) \[0108 Style\]](https://osu.ppy.sh/beatmapsets/29691#fruits/98415)
   8. [Demetori - Wind God Girl (lkp) \[Extra\]](https://osu.ppy.sh/beatmapsets/20949#fruits/74684)
-- HardRock
+- Hard Rock
   1. [Syrsa - Mad Machine (Louis Cyphre) \[Champion\]](https://osu.ppy.sh/beatmapsets/33052#fruits/107875)
   2. [ONE OK ROCK - Answer is Near (Kuria) \[Insane\]](https://osu.ppy.sh/beatmapsets/63112#fruits/186721)
   3. [96Neko - Paintings? Oh, yeah. (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/57393#fruits/173015)
   4. [07th Expansion - rog-limitation (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/14994#fruits/54581)
-- DoubleTime
+- Double Time
   1. [milktub - Kibou no Uta (Tenshi-nyan) \[Insane\]](https://osu.ppy.sh/beatmapsets/41751#fruits/131708)
   2. [Nekomata Master - Goodbye Heaven (alvisto) \[Another\]](https://osu.ppy.sh/beatmapsets/12688#fruits/48926)
   3. [Pendulum - The Vulture (La Cataline) \[Insane\]](https://osu.ppy.sh/beatmapsets/24163#fruits/82249)
@@ -149,12 +149,12 @@ Notes:
   6. [ONE OK ROCK - Re:make (tutuhaha) \[Remake\]](https://osu.ppy.sh/beatmapsets/64001#fruits/188961)
   7. [Yousei Teikoku - Hades: The Rise (lolcubes) \[Insane\]](https://osu.ppy.sh/beatmapsets/33911#fruits/110347)
   8. [ryo (supercell) - ODDS&ENDS (Colin Hou) \[Insane\]](https://osu.ppy.sh/beatmapsets/59286#fruits/183357)
-- HardRock
+- Hard Rock
   1. [Jun Wakita - Shounen A (Mystearica) \[Another\]](https://osu.ppy.sh/beatmapsets/8931#fruits/36161)
   2. [Niko - Made of Fire (lesjuh) \[Heavy\]](https://osu.ppy.sh/beatmapsets/10112#fruits/40034)
   3. [Oriental ST8 - Shoreline (supergarlic) \[Redesign Style\]](https://osu.ppy.sh/beatmapsets/8078#fruits/34715)
   4. [SEAMO - Mother (Miya) \[Hard\]](https://osu.ppy.sh/beatmapsets/37087#fruits/119481)
-- DoubleTime
+- Double Time
   1. [PRASTIK DANCEFLOOR - Session 1 -Genesis- (Niva) \[Another\]](https://osu.ppy.sh/beatmapsets/38013#fruits/121868)
   2. [Halozy - S.A.T.O.R.A.R.E (Leorda) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/63563#fruits/187727)
   3. [Daft Punk - Harder, Better, Faster, Stronger (Agent Spin Here) \[Hard\]](https://osu.ppy.sh/beatmapsets/9183#fruits/36965)
@@ -178,12 +178,12 @@ Notes:
   6. [DJ Sharpnel - IVALTEK (happy30) \[HappyMiX\]](https://osu.ppy.sh/beatmapsets/50429#fruits/154988)
   7. [monotone - Totsugeki! Glass no Kneesocks Hime! (Reisen Udongein) \[Another\]](https://osu.ppy.sh/beatmapsets/54308#fruits/166593)
   8. [Neru - Re-Education (tutuhaha) \[Insane\]](https://osu.ppy.sh/beatmapsets/58773#fruits/176514)
-- HardRock
+- Hard Rock
   1. [Hito Ookami - Decisive Battle! Ho-Oh! (\[Takuya\]) \[Lvl 70\]](https://osu.ppy.sh/beatmapsets/24875#fruits/85809)
   2. [NAOKI feat. SMiLE.dk - A Geisha's Dream (yongtw123) \[Hard\]](https://osu.ppy.sh/beatmapsets/28766#fruits/95782)
   3. [+Plus - Canvas (Yasora) \[Hard\]](https://osu.ppy.sh/beatmapsets/52372#fruits/160132)
   4. [Haruka Shimotsuki - Hartes ciel, melenas walasye. (Astom) \[Hard\]](https://osu.ppy.sh/beatmapsets/12368#fruits/50774)
-- DoubleTime
+- Double Time
   1. [PSY - GANGNAM STYLE (yeahyeahyeahhh) \[OPPAN YEAH30 STYLE\]](https://osu.ppy.sh/beatmapsets/55799#fruits/169089)
   2. [MK feat. YURiE - Spiral (Lena) \[Insane\]](https://osu.ppy.sh/beatmapsets/16668#fruits/59679)
   3. [Tsukasa - Mirage of the Rain (Frizz925) \[Lunatic Loli\]](https://osu.ppy.sh/beatmapsets/45774#fruits/171692)
@@ -331,7 +331,7 @@ In order to prevent multi accounting, this tournament have specific entry regula
    - During the session, **each mod category can be played up to 2 times**.
    - **Double Point Maps** can be selected **up to 2 times**.
    - **Double Point Maps** can't be selected consecutively.
-7. Each player may opt to use Hidden when playing on either HardRock or DoubleTime maps once, if this happens all players must use Hidden as well. This privilege can't be used consecutively.
+7. Each player may opt to use Hidden when playing on either Hard Rock or Double Time maps once, if this happens all players must use Hidden as well. This privilege can't be used consecutively.
 
 ## Trivia
 

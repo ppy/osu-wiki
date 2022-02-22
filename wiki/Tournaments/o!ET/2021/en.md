@@ -119,7 +119,7 @@ This competition has come to an end and resulted in the following podium:
   3. [m-flo loves CHEMISTRY - Astrosexy (mtmcl) \[Sexy\]](https://osu.ppy.sh/beatmapsets/13244#osu/49101)
   4. [wa. vs celas vs 44teru-k - ray of thanatos (rrtyui) \[ruruchi\]](https://osu.ppy.sh/beatmapsets/147776#osu/365763)
   5. [Lunatic Sounds - Drop down (Otosaka-Yu) \[Rein\]](https://osu.ppy.sh/beatmapsets/1260568#osu/2634236)
-- DoubleTime+FreeMod
+- Double Time+FreeMod
   1. [Chata - Present (Lasse) \[Memories\]](https://osu.ppy.sh/beatmapsets/840161#osu/1758697)
   2. [SUPER STAR -MITSURU- - NEW GENERATION (Natteke) \[Another\]](https://osu.ppy.sh/beatmapsets/25158#osu/85197)
   3. [xi - Mirage Garden (P o M u T a) \[Hyper\]](https://osu.ppy.sh/beatmapsets/319940#osu/722587)
@@ -145,7 +145,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Imy - Meteora (Icekalt) \[LMT's Expert\]](https://osu.ppy.sh/beatmapsets/1129440#osu/2404379)
   4. [xi - FREEDOM DiVE (yf\_bmp) \[2014\]](https://osu.ppy.sh/beatmapsets/816686#osu/1712641)
   5. [ericdoa - sheaskedwhatmylifeislike (Lokidoki) \[collabdeadoralive\]](https://osu.ppy.sh/beatmapsets/1458845#osu/2997928)
-- DoubleTime+FreeMod
+- Double Time+FreeMod
   1. [Mami Kawada - FIXED STAR (-Laura-) \[Insane\]](https://osu.ppy.sh/beatmapsets/752526#osu/1601083)
   2. [Memme - Extreme Fantasy (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/49459#osu/192181)
   3. [Kishida Kyoudan & The Akeboshi Rockets - Rewriter (Suzully) \[Rewriter\]](https://osu.ppy.sh/beatmapsets/34376#osu/113587)
@@ -171,7 +171,7 @@ This competition has come to an end and resulted in the following podium:
   2. [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Ayaya's Expert\]](https://osu.ppy.sh/beatmapsets/513731#osu/1493332)
   3. [ICE - Majestic Phoenix (Zetera) \[Down in Flames\]](https://osu.ppy.sh/beatmapsets/845094#osu/1767713)
   4. [LeaF - Monkey Business -Satire mix- (waefwerf) \[Yokes' Extra\]](https://osu.ppy.sh/beatmapsets/1221791#osu/2561965)
-- DoubleTime+FreeMod
+- Double Time+FreeMod
   1. [Ceui - Asphodelus (Giralda) \[Insane\]](https://osu.ppy.sh/beatmapsets/319976#osu/718642)
   2. [Turbo & Keisari - Rockefeller Street / Eurobeat Remix (yaspo) \[Definitely Not Legal\]](https://osu.ppy.sh/beatmapsets/1257577#osu/2613169)
   3. [PolyphonicBranch - Aru Shoujo no Senzai Ishiki (Some Hero) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1354017#osu/2907223)
@@ -193,7 +193,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Katakiri Rekka - Answer (ShirohaMyMommy) \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1062653#osu/2278618)
   2. [onoken - Felys (Inferior) \[DJPop's Insane\]](https://osu.ppy.sh/beatmapsets/7013#osu/160795)
   3. [Akiyama Uni - Yuuga ni Sakase, Sumizome no Sakura \~ Border of Life (Axarious) \[Normal\]](https://osu.ppy.sh/beatmapsets/525444#osu/1115112)
-- DoubleTime+FreeMod
+- Double Time+FreeMod
   1. [FELT - Roll Ground (Natsu) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/327587#osu/726981)
   2. [ak+q & Redeilia - Enigma Helix (Icekalt) \[Celeslashed's Hard\]](https://osu.ppy.sh/beatmapsets/867825#osu/1814067)
   3. [Aphex Twin - Flim (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/998953#osu/2089279)
@@ -212,7 +212,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Memme - Xiao Long Bao (Gamu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1151330#osu/2403266)
   2. [Itou Kanako - Skyclad no Kansokusha -Remix- (Takos) \[taka\]](https://osu.ppy.sh/beatmapsets/33323#osu/110628)
   3. [Travis Scott & Quavo - Go (Sing) \[Master\]](https://osu.ppy.sh/beatmapsets/709474#osu/1499797)
-- DoubleTime+FreeMod
+- Double Time+FreeMod
   1. [Shiomiya Shiori starring Hanazawa Kana - Kizuna no Yukue feat. Shiomiya Shiori (Bearizm) \[Megami\]](https://osu.ppy.sh/beatmapsets/347422#osu/766668)
   2. [Wotamin - Cat Food (rEdo) \[Insane\]](https://osu.ppy.sh/beatmapsets/35258#osu/114379)
   3. [zts - worldenddominator (deetz) \[PandaHero's Insane\]](https://osu.ppy.sh/beatmapsets/897884#osu/1946272)
@@ -232,10 +232,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Hail the Sun - Missed Injections (Hobbes2) \[Underwater\]](https://osu.ppy.sh/beatmapsets/1236409#osu/2570115)
   2. [Yamai - E? Aa, Sou. (Faito) \[?\]](https://osu.ppy.sh/beatmapsets/1245259#osu/2588430)
-- HardRock
+- Hard Rock
   1. [Rib - DONUT HOLE (Beren) \[Axey's Expert\]](https://osu.ppy.sh/beatmapsets/191759#osu/2424056)
   2. [switchworks - Megaera (Flower) \[Conflict\]](https://osu.ppy.sh/beatmapsets/293786#osu/660744)
-- DoubleTime
+- Double Time
   1. [Shihori - Day Breaker (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/91606#osu/247999)
   2. [rerulili - Noushou Sakuretsu Girl (NatsumeRin) \[dksslqj Style\]](https://osu.ppy.sh/beatmapsets/63434#osu/208935)
 
@@ -250,10 +250,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [la la larks - ego-izm (Bellicose) \[bro-ken\]](https://osu.ppy.sh/beatmapsets/1207305#osu/2514176)
   2. [Yunomi & nicamoq - Indoor Kei Nara Trackmaker (Snow Note) \[Another\]](https://osu.ppy.sh/beatmapsets/525846#osu/1115999)
-- HardRock
+- Hard Rock
   1. [nameless - Shirayuki (Milan-) \[Extra\]](https://osu.ppy.sh/beatmapsets/493305#osu/2242290)
   2. [Brandy - Cross Time !! (Leader) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/973162#osu/2067296)
-- DoubleTime
+- Double Time
   1. [Ishida Youko - COLORFUL BOX (Azunyan-) \[Donuts!!!\]](https://osu.ppy.sh/beatmapsets/1136041#osu/2372545)
   2. [Hatsune Miku - Vegetable Juice (Po Pi Po) Ryu Remix (banvi) \[animask's Juice\]](https://osu.ppy.sh/beatmapsets/14984#osu/57735)
 
@@ -268,10 +268,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [AVTechNO!xTreow - boku-bokuII (Lan wings) \[Die\]](https://osu.ppy.sh/beatmapsets/66788#osu/196957)
   2. [JENNY ROM - WWW.BLONDE GIRL (MOMO MIX) (Kaifin) \[Another\]](https://osu.ppy.sh/beatmapsets/588799#osu/1246449)
-- HardRock
+- Hard Rock
   1. [Minato Aqua - Shiroi Yuki no Princess wa (Amateurre) \[Aquanother\]](https://osu.ppy.sh/beatmapsets/1095366#osu/2748324)
   2. [Qrispy Joybox feat.mao - Umeyukiyo (LKs) \[Insane\]](https://osu.ppy.sh/beatmapsets/100040#osu/265643)
-- DoubleTime
+- Double Time
   1. [Usada Pekora - Discommunication Alien (Yugu) \[XLT's Insane\]](https://osu.ppy.sh/beatmapsets/1181343#osu/2535687)
   2. [ESTi - Ray of Illuminati (fanzhen0019) \[Maniac\]](https://osu.ppy.sh/beatmapsets/27701#osu/100957)
 
@@ -286,10 +286,10 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Electrocutica - Khronotris (EvilElvisV2) \[Insane\]](https://osu.ppy.sh/beatmapsets/147893#osu/365995)
   2. [TAG - Theory of Eternity (kiddly) \[Extra\]](https://osu.ppy.sh/beatmapsets/35224#osu/227061)
-- HardRock
+- Hard Rock
   1. [F-777 - Hydra (DTM9 Nowa) \[Expert\]](https://osu.ppy.sh/beatmapsets/1089683#osu/2278245)
   2. [holic - Shihunomi \*Higanbana\* Daini \~ Kuukyogishin \~ Akabeni (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/19361#osu/68136)
-- DoubleTime
+- Double Time
   1. [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmapsets/17103#osu/61124)
   2. [akari - boys, be "stand up"!! (Hollow Wings) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/177585#osu/427962)
 
@@ -427,7 +427,7 @@ More detailed qualifier results can be accessed via these spreadsheets below:
      - Tier 4: #15,001 - #30,000
      - There will not be a rank buffer for any of the ranges
 2. Only players from the Europe region may sign up to the tournament. Participants may find a list of European countries [here](https://en.wikipedia.org/wiki/List_of_European_countries_by_area). If they wish to enter the tournament even though the flag of their profile page isn't listed there, participants can contact the host through Discord DMs to discuss the matter.
-3. The matches will be played with the following win conditions: TeamVS, Score V2.
+3. The matches will be played with the following win conditions: TeamVS, ScoreV2.
 4. The Badge Weighting System (BWS) is used for the registration part of the tournament, where the formula used is as follows: `rank ^ 0.99 ^ badges ^ 2`. However, the rank calculation will be slightly different, and each badge will not have the same weighting depending on participants' rank. More information regarding this can be found under the [BWS section below](#bws-format).
 5. Each mappool and schedule for a weekend will be released at the latest on the Monday prior to that weekend, exceptions being exceptional circumstances or all matches that concluded early.
 6. Once all teams are formed, a Challonge bracket will be made and shuffled.
@@ -460,8 +460,8 @@ For further concerns or debate with Sentenza about the format, please contact th
 2. Every tier will play their qualifiers on a different mappool. The pool size will be:
    - 3 NoMod
    - 2 Hidden
-   - 2 HardRock
-   - 2 DoubleTime
+   - 2 Hard Rock
+   - 2 Double Time
    - This applies for all tiers
 3. There will be one playthrough of the pool for each player.
 4. The grace period for participants to show up to their lobby is **5 minutes**. Players may reschedule to other lobbies if they missed their original lobby or as long as they haven't played one yet.
@@ -472,9 +472,9 @@ For further concerns or debate with Sentenza about the format, please contact th
 1. Each team will be composed of 8 players, 2 players per tier.
 2. During a match, each team must have one player from each tier in the room. They may not substitute a player from a lower tier to play in place of a higher tiered one (e.g. tier 4 playing in place of their tier 3 or 2 player), or vice versa.
 3. If a team fails to show up or gather enough members to make a fully-working team (as described above) to a match, the other team will be granted a win. If neither teams show up to a match, the match will be rescheduled to a later time. Teams have **5 minutes** of grace period to show up.
-4. This tournament's mappools will feature 4 modpools: Freemod, ForceMod, DoubleTime+FreeMod, Tiebreaker.
-   - During a FreeMod, DoubleTime+FreeMod, or Tiebreaker pick, players can, but are not obliged to, select mods to play the map.
-   - During a ForceMod pick, teams must select mods. Each team must choose a total of 3 mods, and must have 2 unique mod combinations on at least 2 players. Teams may select from Hidden, HardRock, Easy, and Flashlight. The following caveats apply:
+4. This tournament's mappools will feature 4 modpools: Freemod, ForceMod, Double Time+FreeMod, Tiebreaker.
+   - During a FreeMod, Double Time+FreeMod, or Tiebreaker pick, players can, but are not obliged to, select mods to play the map.
+   - During a ForceMod pick, teams must select mods. Each team must choose a total of 3 mods, and must have 2 unique mod combinations on at least 2 players. Teams may select from Hidden, Hard Rock, Easy, and Flashlight. The following caveats apply:
      - HDHR counts as 2 mods and a unique mod combination, and is be considered as HR only. This means that to fulfil the unique mods requirement, another player has to use HD only.
      - Easy does not count towards the unique mods combination requirement, but contributes to the 3 total mods requirement, and its multiplier is to be determined.
      - The EZHD combination counts as 2 mods towards the 3 total mods requirement, but does not contribute to the unique mods requirement.
