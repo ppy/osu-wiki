@@ -103,11 +103,11 @@ no_native_review: true
 | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) | Изключително съдийско присъствие в десетки обществени турнири |
 | ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660) | Изключително представяне в кастинги, коментари и събитийно-базирани доклади/обобщения |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Главният мозък зад безбройни подобрения в osu!, като се започне от pp, преработка на графичен двигател, звезден рейтинг и още много! |
-| ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | Изключителен принос към проекта osu!lazer |
-| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | Изключителен принос към проекта osu!lazer с 90+ "pull" заявки и стотици "commits" |
-| ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Изключителен принос към проекта osu!lazer |
-| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Изключителен принос и организация на китайския превод за osu!, osu! wiki и osu!lazer |
-| ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Изключителен принос към проекта osu!lazer и създаване на многобройни медийни инструменти |
+| ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | Изключителен принос към проекта osu!(lazer) |
+| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | Изключителен принос към проекта osu!(lazer) с 90+ "pull" заявки и стотици "commits" |
+| ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Изключителен принос към проекта osu!(lazer) |
+| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Изключителен принос и организация на китайския превод за osu!, osu! wiki и osu!(lazer) |
+| ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Изключителен принос към проекта osu!(lazer) и създаване на многобройни медийни инструменти |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | Създател на PerformancePlus и osu!chan |
 | ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Изключително усилие в създаване и публикуване на проекта Scorewatch |
 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Изключително усилие в създаване и публикуване на проекта Scorewatch |
@@ -144,7 +144,7 @@ no_native_review: true
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Изключителен принос към възпитателната програма на обществото |
 | ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) | Изключителен принос към възпитателната програма на обществото |
 | ![][flag_FI] [J1NX1337](https://osu.ppy.sh/users/3971179) | Изключителен принос към възпитателната програма на обществото |
-| ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | Изключителен принос към проекта osu!lazer |
+| ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | Изключителен принос към проекта osu!(lazer) |
 
 ## 2020
 

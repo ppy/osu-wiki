@@ -13,7 +13,7 @@ Saat ini, pertemuan komunitas osu! diketuai oleh [peppy](https://osu.ppy.sh/user
 
 Pertemuan diadakan setiap dua minggu sekali dengan pengingat yang diumumkan melalui [akun Twitter peppy](https://twitter.com/ppy) sehari sebelumnya.
 
-Pertemuan komunitas osu! berikutnya akan diadakan pada **hari Minggu, 20 Februari 2022 pukul 07.00 UTC (14.00 WIB)**.
+Tanggal pertemuan komunitas osu! selanjutnya akan diumumkan dikemudian hari.
 
 ## Cara berpartisipasi
 
@@ -33,7 +33,7 @@ Pertemuan komunitas osu! pertama diadakan pada 19 September 2021. Semua pertemua
 
 | Pertemuan ke # | Tautan | Ringkasan | Topik diskusi |
 | :-: | :-- | :-- | :-- |
-| 0 | [19 September 2021](https://youtu.be/-LjNll8VYTM) | [Notulen pertemuan](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Pengenalan awal, kondisi ranking criteria, hubungan antara tingkat kesulitan dan *performance point*, serta berbagai hal yang menyangkut osu!lazer secara umum |
+| 0 | [19 September 2021](https://youtu.be/-LjNll8VYTM) | [Notulen pertemuan](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Pengenalan awal, kondisi ranking criteria, hubungan antara tingkat kesulitan dan *performance point*, serta berbagai hal yang menyangkut osu!(lazer) secara umum |
 | 1 | [3 Oktober 2021](https://youtu.be/D3OZCm6szVE) | [Notulen pertemuan](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | Berbagai pertanyaan dari para anggota komunitas serta berita-berita terkini seputar pengembangan osu! |
 | 2 | [17 Oktober 2021](https://youtu.be/nLT-fLeogrw) | [Notulen pertemuan](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | Berbagai pertanyaan dari para anggota komunitas |
 | 3 | [31 Oktober 2021](https://youtu.be/omvZbC7zJUI) | [Notulen pertemuan](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | Berbagai pertanyaan dari para anggota komunitas |
@@ -44,6 +44,7 @@ Pertemuan komunitas osu! pertama diadakan pada 19 September 2021. Semua pertemua
 | 8 | [9 Januari 2022](https://youtu.be/JXgQ6YEDCGg) | [Notulen pertemuan](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | Mekanisme HP (*health drain*) yang berlaku di osu! serta berbagai pertanyaan dari para anggota komunitas |
 | 9 | [22 Januari 2022](https://youtu.be/Prx0XzHl6-M) | [Notulen pertemuan](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | Berbagai pertanyaan dari para anggota komunitas serta berita-berita terkini seputar pengembangan osu! |
 | 10 | [6 Februari 2022](https://youtu.be/xA4nbE8DM4s) | [Notulen pertemuan](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | Berbagai pertanyaan dari para anggota komunitas |
+| 11 | [20 Februari 2022](https://youtu.be/d66pU5lsHvE) | - |  Pengali skor dan skor |
 
 ## Tautan terkait
 

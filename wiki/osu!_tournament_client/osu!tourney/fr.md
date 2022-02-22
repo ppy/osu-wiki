@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 6cadc8a931108f84fc5d1d515a0a28d08a3ae018
+---
+
 # osu!tourney
 
 **osu!tourney** est le client multi-spectateur officiel utilisé pour visualiser et diffuser en continu tous les joueurs d'une salle multijoueur en même temps.

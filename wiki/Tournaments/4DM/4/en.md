@@ -9,7 +9,7 @@ tags:
 
 ![4DM4 logo](img/banner.jpg)
 
-The **4 Digit osu!mania World Cup 4** (***4DM4***) is a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), and ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061). This is the fourth instalment of the 4 Digit osu!mania World Cup.
+The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), and ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061). This was the fourth instalment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
 
@@ -38,7 +38,7 @@ The **4 Digit osu!mania World Cup 4** (***4DM4***) is a worldwide country-based 
 
 ## Staff
 
-The 4 Digit osu!mania World Cup 4 is run by various community members.
+The 4 Digit osu!mania World Cup 4 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -109,6 +109,16 @@ The 4 Digit osu!mania World Cup 4 is run by various community members.
 | ![][flag_UY] | **Uruguay** | **[El Milanga](https://osu.ppy.sh/users/12264918)**, [Xion-Z](https://osu.ppy.sh/users/22026308), [not-koko](https://osu.ppy.sh/users/19136873) |
 | ![][flag_VE] | **Venezuela** | **[Edvo](https://osu.ppy.sh/users/8301758)**, [Doryoku](https://osu.ppy.sh/users/5639725), [Shinsekai-](https://osu.ppy.sh/users/2140739), [calvingarrix666](https://osu.ppy.sh/users/17881051), [ArnaldoCasanova](https://osu.ppy.sh/users/17823683), [JoseNoEsProBv](https://osu.ppy.sh/users/24398259) |
 | ![][flag_VN] | **Vietnam** | **[Micleak](https://osu.ppy.sh/users/16140674)**, [XN_The_XD](https://osu.ppy.sh/users/15271902), [TheUltimateDex](https://osu.ppy.sh/users/21188734), [Tree Palm](https://osu.ppy.sh/users/11994321), [Thien-boiiii](https://osu.ppy.sh/users/16629204), [quangminh1548](https://osu.ppy.sh/users/17547210) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] **France** (**[Paturages](https://osu.ppy.sh/users/1375479)**, [Gray Hardrock](https://osu.ppy.sh/users/9049282), [Keskidi](https://osu.ppy.sh/users/14015337), [Satsukel](https://osu.ppy.sh/users/9066390), [BlackyDay](https://osu.ppy.sh/users/5724831), [MisteurFR](https://osu.ppy.sh/users/14055233)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TH] **Thailand** (**[shokoha](https://osu.ppy.sh/users/14134289)**, [nanonbandusty](https://osu.ppy.sh/users/15543726), [--Pavin--](https://osu.ppy.sh/users/12046267), [iN0SleePz](https://osu.ppy.sh/users/7192826), [FarmMyLife](https://osu.ppy.sh/users/12621947), [C4P741N](https://osu.ppy.sh/users/7892722)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PE] **Peru** (**[Kamikho](https://osu.ppy.sh/users/12664851)**, [Miaurichesu](https://osu.ppy.sh/users/10055648), [henryalexbr](https://osu.ppy.sh/users/23528661), [Sp3ctro](https://osu.ppy.sh/users/18344249), [ericcccc2](https://osu.ppy.sh/users/12595010), [RoXaS3578](https://osu.ppy.sh/users/10658871)) |
 
 ## Mappools
 
@@ -242,6 +252,16 @@ The 4 Digit osu!mania World Cup 4 is run by various community members.
   5. [katagiri - HIVEMIND (DannyPX) \[Stage 5: Controlled Chaos\]](https://osu.ppy.sh/beatmapsets/1665437#mania/3399980)
 
 ## Match results
+
+### Grand Finals
+
+Sunday, 20 February 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Peru ![][flag_PE] | 3 | **7** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/97978698) |
+| France ![][flag_FR] | 6 | **7** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/97990995) |
+| Thailand ![][flag_TH] | 5 | **7** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/97994180) |
 
 ### Finals
 
