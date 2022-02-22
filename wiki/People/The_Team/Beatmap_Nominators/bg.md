@@ -206,7 +206,6 @@ tags:
 | ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | някои японски, някои Немски |
 | ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | Руски |
 
-
 #### osu!catch
 
 | Име | Допълнителен език |
@@ -236,8 +235,6 @@ tags:
 [flag_CL]: /wiki/shared/flag/CL.gif "Чили"
 [flag_CN]: /wiki/shared/flag/CN.gif "Китай"
 [flag_DE]: /wiki/shared/flag/DE.gif "Германия"
-[flag_DK]: /wiki/shared/flag/DK.gif "Дания"
-[flag_EC]: /wiki/shared/flag/EC.gif "Еквадор"
 [flag_ES]: /wiki/shared/flag/ES.gif "Испания"
 [flag_FI]: /wiki/shared/flag/FI.gif "Финландия"
 [flag_FR]: /wiki/shared/flag/FR.gif "Франция"
@@ -258,7 +255,6 @@ tags:
 [flag_PH]: /wiki/shared/flag/PH.gif "Филипини"
 [flag_PL]: /wiki/shared/flag/PL.gif "Полша"
 [flag_RU]: /wiki/shared/flag/RU.gif "Русия"
-[flag_SE]: /wiki/shared/flag/SE.gif "Швеция"
 [flag_SG]: /wiki/shared/flag/SG.gif "Сингапур"
 [flag_TH]: /wiki/shared/flag/TH.gif "Тайланд"
 [flag_TN]: /wiki/shared/flag/TN.gif "Тунис"

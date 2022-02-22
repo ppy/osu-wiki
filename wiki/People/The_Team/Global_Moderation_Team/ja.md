@@ -101,6 +101,7 @@ tags:
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | オフィシャルチームプレゼンス |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | フィリピン語 | チャットモデレーション |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | ドイツ語 | トーナメント運営 |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | フランス語、部分的なスペイン語 | チャットモデレーション |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | ポルトガル語 | チャットモデレーション |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | 広東語、中国語 | チャットモデレーション |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | 韓国語、日本語 | チャットモデレーション |

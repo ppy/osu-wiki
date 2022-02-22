@@ -222,6 +222,9 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 - On the 22nd of August, 2014, the BAT were no longer considered a part of the staff team. This revoked their chat moderation ability in-game and their red name in-game and on the forums.
 - On the 1st of February, 2015, the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nomination Group*, later adjusted to the Beatmap Nominators that we know today.
 
+
+<!--- updated to February 19, 2022 @ 1430 ---> 
+
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
@@ -241,8 +244,8 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 [flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
 [flag_KZ]: /wiki/shared/flag/KZ.gif "Kazakhstan"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
@@ -258,5 +261,3 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
-
-<!--- updated to February 19, 2022 @ 1430 ---> 

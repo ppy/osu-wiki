@@ -168,6 +168,9 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 
 <!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->
 
+
+<!--- Updated as of February 17, 2022 with adding Pachiru back into the GMT---> 
+
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
@@ -200,5 +203,3 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag___]: /wiki/shared/flag/__.gif
-
-<!--- Updated as of February 17, 2022 with adding Pachiru back into the GMT---> 
