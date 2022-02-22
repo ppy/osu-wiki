@@ -25,6 +25,7 @@ The following are modding traits expected of Beatmap Nominators. Failure to disp
 - **Comparison between parts of a map to support issues or suggestions**
 - **Commentary about a wide variety of map elements, such as rhythm, spacing, movement, intensity, contrast, and consistency**
 - **Identification of both isolated issues and general map-wide issues** 
+- **Consideration of mappers' intentions when identifying issues and giving suggestions**
 
 ### How new potential Beatmap Nominators are chosen
 
