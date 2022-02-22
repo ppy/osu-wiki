@@ -102,16 +102,16 @@ Eine aktive Community sind eines der Dinge, die osu! voranbringen. Entdecke die 
 
 [Projekte](/wiki/Community/Projects): [Featured Artists](/wiki/Featured_Artists) • [osu! Community Meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
+Organisationen: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Personen
+# [Personen](/wiki/People)
 
 osu! würde nicht ohne die Hilfe von vielen Menschen existieren, die in der Entwicklung, Wartung und im Community-Management tätig sind. Ihrer Mühen, Zeit und Hingabe ist es zu verdanken, dass das Spiel weiterentwickelt wird.
 
 [Das Team](/wiki/People/The_Team): [Entwickler](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
-
-Organisationen: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [Community-Mitwirkende](/wiki/People/Community_Contributors) • [Benutzer mit besonderen Titeln](/wiki/People/Users_with_unique_titles)
 

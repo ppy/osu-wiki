@@ -105,16 +105,16 @@ Sociální interakce je jednou z hlavních věcí, které pohánějí osu! hrá�
 
 [Projekty](/wiki/Community/Projects): [Vybraní umělci](/wiki/Featured_Artists) • [osu! komunitní setkání](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
+Organizace: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Lidé
+# [Lidé](/wiki/People)
 
 osu! by nebylo možné bez mnoha uživatelů, kteří by pomáhali s vývojem, údržbou a správou komunity: díky jejich úsilí, času a odhodlání hra žije a prosperuje.
 
 [Team](/wiki/People/The_Team): [Vývojáři](/wiki/People/The_Team/Developers) • [Tým moderátorů](/wiki/People/The_Team/Global_Moderation_Team) • [Tým podpory](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap nominátoři](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
-
-Organizace: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [Přispěvatelé z komunity](/wiki/People/Community_Contributors) • [Uživatelé s jedinečnými tituly](/wiki/People/Users_with_unique_titles)
 
