@@ -6,3 +6,4 @@
 - [團隊](The_Team)
 - [peppy](peppy)
 - [有專屬頭銜的玩家](Users_with_unique_titles)
+- [表現分數 (PP) 委員會](Performance_Points_Committee)
