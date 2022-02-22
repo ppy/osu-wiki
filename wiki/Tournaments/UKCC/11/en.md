@@ -141,7 +141,7 @@ Top 10 qualification results:
 | Placing | Team | Normalised score | Average score |
 | --: | :-- | :-- | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | go wild Idm | 11,597,376 | 644,299 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ABSOLUTE UNITS| 10,763,110 | 597,951 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ABSOLUTE UNITS | 10,763,110 | 597,951 |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | denial piano | 10,289,268 | 571,626 |
 | *4th place* | The PokiStans | 9,846,809 | 547,045 |
 | *5th place* | Luciano Fan Club | 8,935,116 | 496,395 |
