@@ -11,11 +11,11 @@ tags:
   - 星数
 ---
 
-# 难度
+# 难度（Difficulty）
 
-*请勿与[谱面](/wiki/Beatmap)相混淆。*
+*请勿与[谱面（Beatmap）](/wiki/Beatmap)相混淆。*
 
-**难度**是以[`.osu` 后缀名](/wiki/osu!_File_Formats/Osu_(file_format))存储，用于区分一张谱面内不同的游戏难度等级的文本文件。它包含了为歌曲量身定制、测定好[时间轴](/wiki/Beatmapping/Timing_section)并用于特定[游戏模式](/wiki/Game_mode)的[击打物件](/wiki/Hit_object)。不同难度有不同的定位，对玩家的考验也不同。通常难度名和[谱面星级](/wiki/Beatmapping/Star_rating)就能提示玩家它的游玩难度有多高。
+**难度**是以[`.osu` 后缀名](/wiki/osu!_File_Formats/Osu_(file_format))存储，用于区分一张谱面内不同的游戏难度等级的文本文件。它包含了为歌曲量身定制、测定好[时间轴](/wiki/Beatmapping/Timing_section)和用于特定[游戏模式](/wiki/Game_mode)的[击打物件](/wiki/Hit_object)。不同难度有不同的定位，对玩家的考验也不同。通常难度名和[谱面星级](/wiki/Beatmapping/Star_rating)就能提示玩家它的游玩难度有多高。
 
 难度内的击打物件在不同的游戏模式内可以组成不同样式的[排列](/wiki/Beatmap/Pattern)，它能反映难度的整体外观和给玩家的感觉。谱师可以通过调整繁多的[谱面难度设定](/wiki/Client/Beatmap_editor/Song_Setup#difficulty)或者玩家可以开启不同的[游戏模组 (Mods)](/wiki/Game_modifier) 来影响谱面的实际游玩难度。
 
@@ -76,7 +76,7 @@ tags:
 
 ![osu! 谱面星级光谱](/wiki/shared/star-rating/spectrum.png)
 
-在 [AIMod](/wiki/Client/Beatmap_editor/AiMod) 工具内或一些场合下，会按照以下谱面星级范围给难度赋予一个特定的标识：
+在 [AiMod](/wiki/Client/Beatmap_editor/AiMod) 工具内或一些场合下，会按照以下谱面星级范围给难度赋予一个特定的标识：
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal: 2.0★–2.69★
