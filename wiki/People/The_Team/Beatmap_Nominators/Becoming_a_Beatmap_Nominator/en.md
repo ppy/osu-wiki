@@ -80,7 +80,7 @@ Users who have recently left the Beatmap Nominators may have different requireme
 
 If you were a Beatmap Nominator before, these requirements apply unless you have failed an application since last time you were a Beatmap Nominator.
 
-Listed `ModScore` requirements only apply to the osu! game mode, and not osu!taiko, osu!catch, and osu!mania. The 8 mod requirement for those applying after being removed for activity is shared accross all modes.
+Listed `ModScore` requirements only apply to the osu! game mode, and not osu!taiko, osu!catch, and osu!mania. The 8 mod requirement for those applying after being removed for activity is shared across all modes.
 
 | Type | Cooldown | Activity Requirements |
 | :-- | :-- | :-- |
