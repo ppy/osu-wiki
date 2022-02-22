@@ -10,7 +10,7 @@ With Project Loved going on for several years now, it's finally time to decide t
 
 It's been about [4 years](https://osu.ppy.sh/community/forums/topics/703347) since the last time we've polled the community on the state of Project Loved and the Loved category in general. Recently there's been a lot of heated discussion among the team on where Project Loved should go in its future and we've realised we're lacking one critical component in our decision-making — your input — which is why we've set up a community survey for you to fill out and let us know how we're doing and how we should move forward in the future.
 
-- [**Click here to participate in the survey!**](https://forms.gle/ZjwtJW46bBYbrFVYA)
+- [**Click here to participate in the survey!**](https://loved.sh/survey/community-feedback-february-2022)
 
 The Project Loved survey is meant to be all-encompasing and it should take no more than 10 minutes to complete, so if you want to weigh in on your thoughts with the category, now is the perfect time for it. Your opinion is very critical to us if we want to take the best steps forward that we possibly can.
 
