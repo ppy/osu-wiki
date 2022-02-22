@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 7880a47c4e5df0bb9470cdd8edc48daa42e6f277
+---
+
 # 成員
 
 關於人物或小組的索引頁。
