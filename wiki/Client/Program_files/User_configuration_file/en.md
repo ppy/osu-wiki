@@ -170,7 +170,7 @@ The values for key binding options are the names of the keys.
 | `keyAutopilot` | Toggle Autopilot |
 | `keySpunOut` | Toggle Spun Out |
 | `keyAuto` | Toggle Auto |
-| `keyScoreV2` | Toggle Score V2 |
+| `keyScoreV2` | Toggle ScoreV2 |
 
 #### osu!mania layouts
 

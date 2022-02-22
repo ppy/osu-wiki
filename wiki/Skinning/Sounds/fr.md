@@ -469,7 +469,7 @@ Les sons de gameplay suivants sont tous skinnables dans les beatmaps.
 Notes :
 
 - Cela remplace les sons `count{n}s` (si un seul son est souhaité).
-- C'est également le métronome pour le mod target practice.
+- C'est également le métronome pour le mod Target Practice.
 
 ---
 

@@ -594,7 +594,7 @@ Notes :
 - Ce mod n'a pas d'image dans le jeu.
 - Ce mod n'apparaît pas dans la sélection des mods ni dans les classements.
 - Indicateur pour les jeux avec certains mods et combinaisons.
-  - Ne s'affiche pas si l'on utilise uniquement 'Score V2', 'Auto', 'Double Time', 'Nightcore' ou 'Half Time'. Les combinaisons avec d'autres mods les incluant feront apparaître le mod.
+  - Ne s'affiche pas si l'on utilise uniquement 'ScoreV2', 'Auto', 'Double Time', 'Nightcore' ou 'Half Time'. Les combinaisons avec d'autres mods les incluant feront apparaître le mod.
 
 ---
 

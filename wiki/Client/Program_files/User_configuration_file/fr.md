@@ -170,7 +170,7 @@ Les valeurs attribuées aux options de keybinding sont le nom des touches
 | `keyAutopilot` | Active/Désactive Autopilot |
 | `keySpunOut` | Active/Désactive Spun Out |
 | `keyAuto` | Active/Désactive Auto |
-| `keyScoreV2` | Active/Désactive Score V2 |
+| `keyScoreV2` | Active/Désactive ScoreV2 |
 
 #### Couches dans osu!mania
 

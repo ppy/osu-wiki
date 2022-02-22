@@ -214,7 +214,7 @@ Win Condition contains four ways of how a match will be decided:-
 | `Score` | Player with **highest score** wins. |
 | `Accuracy` | Player with the **highest accuracy** wins. If there are two players with 100.00%, the player with the highest score (from spinners) wins. Unconfirmed, if there were no spinners. |
 | `Combo` | Player with the **highest combo count** *at the end of the beatmap* wins. If combo count is the same, player with the highest score wins. **Maximum combo not counted**. |
-| `Score v2` | Player with **highest *standardised* score** wins. |
+| `ScoreV2` | Player with **highest *standardised* score** wins. |
 
 ##### Tag Colour (Tag Coop/Tag Team Vs only)
 
@@ -283,13 +283,13 @@ The leaderboard now shows the players in the match with live changes based on Wi
 
 **Head to Head / Team Vs:*
 
-- If Score/Score v2: Score, hit score and combo multiplier are shown in real-time.
+- If Score/ScoreV2: Score, hit score and combo multiplier are shown in real-time.
 - If Accuracy: Accuracy, hit score and combo multiplier are shown in real-time.
 - If Combo: Combo count are shown in real-time. Maximum combo count not shown.
 
 **Tag Coop / Tag Team Vs:*
 
-- If Score/Score v2: Team's score and hit score are shown in real-time.
+- If Score/ScoreV2: Team's score and hit score are shown in real-time.
 - If Accuracy: Team's accuracy percentage and hit score are shown in real-time.
 - If Combo: Team's current combo count, score and hit score are shown in real-time.
 - If *Failed*: Match ends and \[Tag Coop\] return to the Match Setup or \[Tag Team Vs\] automated win for the surviving team.

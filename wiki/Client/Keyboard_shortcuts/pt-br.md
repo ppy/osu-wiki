@@ -96,7 +96,7 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 
 *Página principal: [Game modifiers](/wiki/Game_modifier)*
 *Nota: Pressionar o atalho irá ativar ou desativar-los. Você precisa estar dentro do menu dos modificadores de jogo para utilizar esses atalhos.*
-*Nota: Target practice (osu!), 1K e 2K (osu!mania), Co-op (osu!mania), e Mirror (osu!mania) não possuem atalhos.*
+*Nota: Target Practice (osu!), 1K e 2K (osu!mania), Co-op (osu!mania), e Mirror (osu!mania) não possuem atalhos.*
 
 | Atalho | Mod |
 | :-- | :-- |
@@ -116,7 +116,7 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 | `C` | Spun Out (osu!) |
 | `V` | Auto |
 | `V` duas vezes | Cinema |
-| `B` | Score V2 |
+| `B` | ScoreV2 |
 | `3` até `9` | 3K até 9K (osu!mania) |
 
 ## Play mode

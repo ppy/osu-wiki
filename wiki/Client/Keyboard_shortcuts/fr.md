@@ -95,7 +95,7 @@ Ces raccourcis fonctionnent partout :
 
 *Page principale : [Modificateurs de jeu](/wiki/Game_modifier)*\
 *Note : Appuyer sur la touche de raccourci la fera Activer/Désactiver. Vous devez être dans le menu des modificateurs du jeu pour utiliser ces raccourcis.*\
-*Remarque : Target practice (osu!), 1K et 2K (osu!mania), Co-op (osu!mania), et Mirror (osu!mania) n'ont pas de raccourcis.*
+*Remarque : Target Practice (osu!), 1K et 2K (osu!mania), Co-op (osu!mania), et Mirror (osu!mania) n'ont pas de raccourcis.*
 
 | Raccourci | Mod |
 | :-- | :-- |
@@ -115,7 +115,7 @@ Ces raccourcis fonctionnent partout :
 | `C` | Spun Out (osu!) |
 | `V` | Auto |
 | `V` deux fois | Cinema |
-| `B` | Score V2 |
+| `B` | ScoreV2 |
 | `3` jusqu'à `9` | 3K jusqu'à 9K (osu!mania) |
 
 ## En jeu

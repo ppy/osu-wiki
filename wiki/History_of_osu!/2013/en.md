@@ -19,7 +19,7 @@ BanchoBot's `!faq` command has been open to public for [translation](https://doc
 
 osu!mania now support vertical flip (upside-down), making gameplay similar to that of DDR/o2jam. Skinning now supports double-resolution sprites when the window width was greater than 1600 pixels. To add support to a skin, add images with double the width/height containing the `@2x` suffix before the file extension (eg: `cursor@2x.png`).
 
-Ranking support for [Hidden](/wiki/Game_modifier/Hidden) and [FadeIn](/wiki/Game_modifier/Fade_In) mods in osu!mania and lastly, less widescreen limitations in the editor when it comes to placement and selection.
+Ranking support for [Hidden](/wiki/Game_modifier/Hidden) and [Fade In](/wiki/Game_modifier/Fade_In) mods in osu!mania and lastly, less widescreen limitations in the editor when it comes to placement and selection.
 
 Links:
 
@@ -73,7 +73,7 @@ During replays, half-speed replay has been added (after pressing `2x` Speed, it 
 
 [A new ranking/modding system is in development](https://osu.ppy.sh/community/forums/topics/129625) which will replace the ancient [forum-styled modding](/wiki/Modding/Forum_modding) threads.
 
-For Multi mode, players can now use Special mod (Relax/Autopilot/SpunOut/ManiaKeys) when Free Mod is enabled by the host. At the skinning side of things, widescreen taiko (taiko `@2x`) default sprites have been added. Favourite A/B have removed completely and superseded by the Collections.
+For Multi mode, players can now use Special mod (Relax/Autopilot/Spun Out/ManiaKeys) when Free Mod is enabled by the host. At the skinning side of things, widescreen taiko (taiko `@2x`) default sprites have been added. Favourite A/B have removed completely and superseded by the Collections.
 
 Three brand new Dedication [achievements](/wiki/Medals) for osu!mania have been released (40,000 / 400,000 / 4,000,000 keys pressed). User profile design has been reworked and your "last visit" will be based on connection to Bancho (that was, in-game sign-in) rather than visits to the forum. Finally, osu! hit the milestone of having 10,000 users connected simultaneously!
 

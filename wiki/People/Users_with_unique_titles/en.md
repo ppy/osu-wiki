@@ -106,7 +106,7 @@ Winners of previous osu!mania World Cups with the **Former osu!mania Champion** 
 | [MWC 7K 2018](/wiki/Tournaments/MWC/2018_7K) | Former osu!mania 7K Champion: 2018 | ![][flag_KR] [ideu-](https://osu.ppy.sh/users/137227), ![][flag_KR] [Kim\_GodSSI](https://osu.ppy.sh/users/2218047) |
 | [MWC 4K 2018](/wiki/Tournaments/MWC/2018_4K) | Former osu!mania 4K Champion: 2018 | ![][flag_KR] [\[ Special \]](https://osu.ppy.sh/users/8283444), ![][flag_KR] [SnowScent](https://osu.ppy.sh/users/7945868) |
 | [MWC 7K 2019](/wiki/Tournaments/MWC/2019_7K) | Former osu!mania 7K Champion: 2019 | ![][flag_KR] [Estonians](https://osu.ppy.sh/users/7014697), ![][flag_KR] [Jakads](https://osu.ppy.sh/users/259972), ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) |
-| [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) | Former osu!mania 4K Champion: 2019 | ![][flag_KR] [blueBloody](https://osu.ppy.sh/users/8046839), ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649), ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923), ![][flag_KR] [Transcendence](https://osu.ppy.sh/users/903155), ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728), ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) |
+| [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) | Former osu!mania 4K Champion: 2019 | ![][flag_KR] [blueBloody](https://osu.ppy.sh/users/8046839), ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649), ![][flag_KR] [Sudden Death](https://osu.ppy.sh/users/6699923), ![][flag_KR] [Transcendence](https://osu.ppy.sh/users/903155), ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728), ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) |
 | [MWC 4K 2019](/wiki/Tournaments/MWC/2020_4K) | Former osu!mania 4K Champion: 2019 | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824), ![][flag_BR] [Punnies](https://osu.ppy.sh/users/8700468) |
 
 ## Official mapping contest winners
@@ -297,7 +297,7 @@ These users were awarded their respective titles for having significantly contri
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
-| ![][flag_DE] [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade <!-- implemented fade in and hidden mod in osu!(lazer) and notable Fade In player --> |
+| ![][flag_DE] [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade <!-- implemented Fade In and hidden mod in osu!(lazer) and notable Fade In player --> |
 
 ## Other
 

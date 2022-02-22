@@ -214,7 +214,7 @@ Il existe 4 conditions de victoire:
 | `Score` | Le joueur avec le **meilleur score** gagne. |
 | `Accuracy` | Le joueur avec la **meilleure précision** gagne. S'il y a 2 joueurs ou + avec 100% de précision, le joueur avec le meilleure score (avec les spinners) gagne. Si malgré ça, les scores sont égaux, il y a alors une égalité. |
 | `Combo` | Le joueur avec le **plus haut combo** *à la fin de la beatmap* gagne. Si le combo est le même, le joueur avec le meilleur score gagne. **Le combo maximum n'est pas pris en compte**. |
-| `Score v2` | Le joueur avec le **meilleur score** gagne. |
+| `ScoreV2` | Le joueur avec le **meilleur score** gagne. |
 
 ##### Couleur (Tag Coop/Tag Team Vs seulement)
 
@@ -280,14 +280,14 @@ Le classement à gauche montre les joueurs dans le match avec une mise à jour e
 
 **Head to Head / Team Vs:*
 
-- Victoire sur Score/Score v2: Le score, le score obtenu sur un objet (300/100/50/Miss) et le combo sont affichés en temps réel.
+- Victoire sur Score/ScoreV2: Le score, le score obtenu sur un objet (300/100/50/Miss) et le combo sont affichés en temps réel.
 - Victoire sur Accuracy: La précision, le score obtenu sur un objet et le combo sont affichés en temps réel.
 - Victoire sur Combo: Le combo est affiché en temps réel mais le combo maximum, lui, n'est pas affiché.
 - En cas d'échec (Team Vs) : Si tous les joueurs d'une équipe échouent, le match se termine et la victoire revient automatiquement à l'équipe adverse
 
 **Tag Coop / Tag Team Vs:*
 
-- Victoire sur Score/Score v2: Le score de l'équipe et le score obtenu sur un objet sont affichés en temps réel.
+- Victoire sur Score/ScoreV2: Le score de l'équipe et le score obtenu sur un objet sont affichés en temps réel.
 - Victoire sur Accuracy: Le pourcentage de précision de l'équipe et le score obtenu sur un objet sont affichés en temps réel.
 - Victoire sur Combo: Le combo de l'équipe, le score et le score obtenu sur un objet sont affichés en temps réel.
 - En cas d'échec : Le match se termine. En \[Tag Coop\], vous retournerez directement dans la salle. En \[Tag Team Vs\] l'équipe adverse remporte le match.

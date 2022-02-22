@@ -94,7 +94,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 
 *Laman utama: [Game modifier](/wiki/Game_modifier)*\
 *Catatan: Tombol-tombol shortcut berikut hanya dapat digunakan untuk mengaktifkan/menonaktifkan mod-mod yang bersangkutan pada menu game modifier.*\
-*Catatan: Mod-mod target practice (osu!), 1K dan 2K (osu!mania), Co-op (osu!mania), dan Mirror (osu!mania) tidak memiliki tombol shortcut-nya tersendiri.*
+*Catatan: Mod-mod Target Practice (osu!), 1K dan 2K (osu!mania), Co-op (osu!mania), dan Mirror (osu!mania) tidak memiliki tombol shortcut-nya tersendiri.*
 
 | Tombol *shortcut* | Mod |
 | :-- | :-- |
@@ -114,7 +114,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | `C` | Spun Out (osu!) |
 | `V` | Auto |
 | `V` dua kali | Cinema |
-| `B` | Score V2 |
+| `B` | ScoreV2 |
 | `3` hingga `9` | 3K hingga 9K (osu!mania) |
 
 ## Permainan

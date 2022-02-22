@@ -19,7 +19,7 @@ La commande `!faq` de BanchoBot est ouverte au public depuis [traduction](https:
 
 osu!mania supporte désormais le retournement vertical (à l'envers), ce qui rend le gameplay similaire à celui de DDR/o2jam. Le skinning prend désormais en charge les sprites à double résolution lorsque la largeur de la fenêtre est supérieure à 1600 pixels. Pour ajouter le support à un skin, ajoutez des images avec le double de la largeur/hauteur contenant le suffixe `@2x` devant l'extension du fichier (ex : `cursor@2x.png`).
 
-Un support de classement pour les mods [Hidden](/wiki/Game_modifier/Hidden) et [FadeIn](/wiki/Game_modifier/Fade_In) dans osu!mania et enfin, moins de limitations d'écran large dans l'éditeur quand il s'agit du placement et de la sélection.
+Un support de classement pour les mods [Hidden](/wiki/Game_modifier/Hidden) et [Fade In](/wiki/Game_modifier/Fade_In) dans osu!mania et enfin, moins de limitations d'écran large dans l'éditeur quand il s'agit du placement et de la sélection.
 
 Liens :
 
@@ -73,7 +73,7 @@ Pendant les rediffusions, la rediffusion à demi-vitesse a été ajoutée (aprè
 
 [Un nouveau système de classement/modding est en cours de développement](https://osu.ppy.sh/community/forums/topics/129625), ce qui remplacera les anciens fils de discussion de style forum.
 
-Pour le mode Multi, les joueurs peuvent désormais utiliser le mod spécial (Relax/Autopilot/SpunOut/ManiaKeys) lorsque le FreeMod est activé par l'hôte. Du côté du skinning, les sprites par défaut du taiko en écran large (taiko `@2x`) ont été ajoutés. Les favoris A/B ont été complètement supprimés et remplacés par les Collections.
+Pour le mode Multi, les joueurs peuvent désormais utiliser le mod spécial (Relax/Autopilot/Spun Out/ManiaKeys) lorsque le FreeMod est activé par l'hôte. Du côté du skinning, les sprites par défaut du taiko en écran large (taiko `@2x`) ont été ajoutés. Les favoris A/B ont été complètement supprimés et remplacés par les Collections.
 
 Trois nouvelles [Médailles](/wiki/Medals) pour osu!mania ont été publiées (40 000 / 400 000 / 4 000 000 de touches pressées). Le design du profil de l'utilisateur a été retravaillé et votre "dernière visite" sera basée sur la connexion à Bancho (c'est-à-dire la connexion en jeu) plutôt que sur les visites du forum. Enfin, osu! a franchi le cap des 10 000 utilisateurs connectés simultanément !
 

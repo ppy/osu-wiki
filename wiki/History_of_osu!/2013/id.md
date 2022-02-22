@@ -19,7 +19,7 @@ Seperangkat perintah `!faq` untuk BanchoBot telah dibuka untuk umum supaya dapat
 
 osu!mania sekarang mendukung mode flip vertikal (terbalik), membuat game serupa dengan tampilan DDR/o2jam. Skinning sekarang telah mendukung sprite resolusi ganda ketika lebar layar melebihi 1600 piksel. Untuk menambahkan dukungan ini pada skin, tambahkan gambar yang memiliki resolusi ganda dari gambar aslinya lalu akhiri dengan akhiran `@2x` sebelum ekstensi file (misalnya: `cursor@2x.png`).
 
-Memberikan peringkat dukungan berupa mod [Hidden](/wiki/Game_modifier/Hidden) dan [FadeIn](/wiki/Game_modifier/Fade_In) di mode osu!mania dan yang terakhir, lebih sedikit pembatasan widescreen dalam editor ketika menaruh dan menyeleksi objek.
+Memberikan peringkat dukungan berupa mod [Hidden](/wiki/Game_modifier/Hidden) dan [Fade In](/wiki/Game_modifier/Fade_In) di mode osu!mania dan yang terakhir, lebih sedikit pembatasan widescreen dalam editor ketika menaruh dan menyeleksi objek.
 
 Tautan Terkait:
 
@@ -73,7 +73,7 @@ Selama pemutaran ulang beatmap, opsi untuk memperlambat kecepatan telah ditambah
 
 [Sistem peringkat/modding baru sedang dikembangkan](https://osu.ppy.sh/community/forums/topics/129625) yang akan menggantikan sistem [modding berbasis forum](/wiki/Modding/Forum_modding) yang lama digunakan.
 
-Untuk mode Multi, pemain sekarang dapat menggunakan mod Special (Relax/Autopilot/SpunOut/ManiaKeys) saat opsi Free Mod diaktifkan oleh host. Di sisi skinning, sprite standar widescreen taiko (taiko @2x) telah ditambahkan. Favourites A/B telah dihapus sepenuhnya digantikan oleh Collections.
+Untuk mode Multi, pemain sekarang dapat menggunakan mod Special (Relax/Autopilot/Spun Out/ManiaKeys) saat opsi Free Mod diaktifkan oleh host. Di sisi skinning, sprite standar widescreen taiko (taiko @2x) telah ditambahkan. Favourites A/B telah dihapus sepenuhnya digantikan oleh Collections.
 
 Tiga [pencapaian](/wiki/Medals) baru "Dedication" untuk osu!mania telah dirilis (40.000/400.000/4.000.000 tombol ditekan). Desain profil pengguna telah dikerjakan ulang dan "kunjungan terakhir" Anda akan didasarkan pada koneksi ke Bancho (yaitu, login dalam game) daripada kunjungan ke forum. Akhirnya, osu! memiliki pencapaian baru dengan terhubungnya 10.000 pengguna secara bersamaan!
 

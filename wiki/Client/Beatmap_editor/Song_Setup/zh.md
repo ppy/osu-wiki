@@ -79,7 +79,7 @@ Approach Rate 通常缩写为"**AR**"。
 
 这里给出 AR 数值与收缩时间对应的完整表格（包括开启 mod 的情况）。其中 ms 为毫秒（1s=1000ms），用来表示物件停留在屏幕上的时间。
 
-需要注意的是，AR10以上仅能通过使用 DoubleTime 来得到，AR0以下仅能通过 HalfTime 来得到，其中所有分数表示的 AR 可以通过组合 mod 来得到。
+需要注意的是，AR10以上仅能通过使用 Double Time 来得到，AR0以下仅能通过 Half Time 来得到，其中所有分数表示的 AR 可以通过组合 mod 来得到。
 
 ### 判定标准(Overall Difficulty)
 

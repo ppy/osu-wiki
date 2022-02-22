@@ -94,7 +94,7 @@ Ini adalah metode yang direkomendasikan. Pastikan perangkat iOS-mu dapat terhubu
 
 ![](img/Os-ModeEasy.jpg "Easy mode")
 
-**Tingkat Kesulitan: Easy + [NoFail](/wiki/Game_modifier/No_Fail)**
+**Tingkat Kesulitan: Easy + [No Fail](/wiki/Game_modifier/No_Fail)**
 Mode Easy dikhususkan untuk pemula agar dapat membiasakan gameplay dari osu!stream. Gameplaynya didesain dengan kelajuan yang lambat, agar pemain dapat mengerti alur dan timingnya. Tidak ada lifebar di mode ini dan memainkan mode Easy tidak akan membuka Mode Expert walau kamu telah mendapatkan akurasi 100% pada mode ini.
 
 Warna latarnya yaitu Hijau.

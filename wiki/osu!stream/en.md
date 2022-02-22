@@ -116,7 +116,7 @@ Development for this version ended in 2020. For more information, read the [blog
 
 ![](img/Os-ModeEasy.jpg "Easy mode")
 
-**Difficulty: Easy + [NoFail](/wiki/Game_modifier/No_Fail)**
+**Difficulty: Easy + [No Fail](/wiki/Game_modifier/No_Fail)**
 
 Easy mode is for new-comers to get used to the osu!stream gameplay. The gameplay is considerably slower for new players to understand the flow and timing to hit. No lifebar will be issued and playing Easy mode will not unlock Expert mode.
 

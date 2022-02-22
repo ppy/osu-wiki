@@ -469,7 +469,7 @@ The following gameplay sounds are all beatmap skinnable.
 Notes:
 
 - This replaces the `count{n}s` sounds (if one sound is wanted).
-- This is also the metronome for the target practice mod.
+- This is also the metronome for the Target Practice mod.
 
 ---
 

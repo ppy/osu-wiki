@@ -95,7 +95,7 @@ Deze combinaties werken overal:
 
 *Hoofdpagina: [Game modifiers](/wiki/Game_modifier)*
 *Opmerking: Je moet in het game modifiers menu zitten om gebruik te kunnen maken van deze sneltoetsen.*
-*Opmerking: Target practice (osu!), 1K en 2K (osu!mania), Co-op (osu!mania) en Mirror (osu!mania) hebben geen sneltoetsen.*
+*Opmerking: Target Practice (osu!), 1K en 2K (osu!mania), Co-op (osu!mania) en Mirror (osu!mania) hebben geen sneltoetsen.*
 
 | Sneltoets | Mod |
 | :-- | :-- |
@@ -115,7 +115,7 @@ Deze combinaties werken overal:
 | `C` | Spun Out (osu!) |
 | `V` | Auto |
 | `V` twee keer | Cinema |
-| `B` | Score V2 |
+| `B` | ScoreV2 |
 | `3` tot `9` | 3K tot 9K (osu!mania) |
 
 ## Speel modus

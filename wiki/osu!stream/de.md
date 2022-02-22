@@ -116,7 +116,7 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen lies 
 
 ![](img/Os-ModeEasy.jpg "Leichter Modus")
 
-**Schwierigkeitsgrad: Easy + [NoFail](/wiki/Game_modifier/No_Fail)**
+**Schwierigkeitsgrad: Easy + [No Fail](/wiki/Game_modifier/No_Fail)**
 
 Der leichte Modus ist für Anfänger gedacht, die sich an die Spieltechnik von osu!stream gewöhnen müssen. Der Spielverlauf ist wesentlich langsamer, sodass neue Spieler den Flow und das Timing zum Treffen verstehen können. Lebensleisten werden nicht vergeben und durch das Spielen des leichten Modus wird der Expertenmodus nicht freigeschaltet.
 

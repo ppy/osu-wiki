@@ -27,7 +27,7 @@ tags:
 
 *Attention : L'activation du mod ScoreV2 entraînera un jeu non classé*.
 
-*Pour des informations concernant le système de notation ScoreV2, voir : [scoreV2](/wiki/Gameplay/Score#scorev2)*
+*Pour des informations concernant le système de notation ScoreV2, voir : [ScoreV2](/wiki/Gameplay/Score#scorev2)*
 
 Le mod **ScoreV2** est un mod qui utilise le système de valeur prototype ScoreV2 au lieu du système de score actuel pour chaque [mode de jeu](/wiki/Game_mode). En bref, le système ScoreV2 tente de mettre à l'échelle toutes les valeurs de score des [objets](/wiki/Hit_object) à une limite stricte de 1 million à 1.00x en multiplicateur de score (à l'exclusion des valeurs de bonus spinner dans le mode [osu!](/wiki/Game_mode/osu!), les dendens dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), et les bananes collectées dans le mode [osu!catch](/wiki/Game_mode/osu!catch).
 

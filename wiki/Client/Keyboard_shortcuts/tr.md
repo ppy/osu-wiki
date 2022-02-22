@@ -93,7 +93,7 @@ Bu kısayollar her yerde çalışır:
 
 *Ana sayfa: [Oyun Modifikasyonları](/wiki/Game_modifier)*\
 *Not: Kısayol tuşuna basmak onu açar/kapatır. Bu kısayolları kullanabilmeniz için oyun modifikasyonları menüsünde bulunmanız gerekir.*\
-*Not: Target practice (osu!), 1K ve 2K (osu!mania), Co-op (osu!mania), ve Mirror (osu!mania) modlarının kısayolu yoktur.*
+*Not: Target Practice (osu!), 1K ve 2K (osu!mania), Co-op (osu!mania), ve Mirror (osu!mania) modlarının kısayolu yoktur.*
 
 | Kısayol | Mod |
 | :-- | :-- |
@@ -113,7 +113,7 @@ Bu kısayollar her yerde çalışır:
 | `C` | Spun Out (osu!) |
 | `V` | Auto |
 | `V` iki defa | Cinema |
-| `B` | Score V2 |
+| `B` | ScoreV2 |
 | `3`'ten `9`'a | 3K'dan 9K'ya (osu!mania) |
 
 ## Oynama modu

@@ -593,7 +593,7 @@ Notes:
 - This mod does not have an image in-game.
 - This mod does not show up in the mod selection or leaderboards.
 - Indicator for plays with certain mods and combinations.
-  - Does not show up if only 'Score V2', 'Auto', 'Double Time', 'Nightcore', or 'Half Time' by itself is used, combinations with other mods including them will show the mod.
+  - Does not show up if only 'ScoreV2', 'Auto', 'Double Time', 'Nightcore', or 'Half Time' by itself is used, combinations with other mods including them will show the mod.
 
 ---
 

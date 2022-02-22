@@ -38,7 +38,7 @@ Double Time sering dianggap sebagai salah satu mod terbaik yang digunakan untuk 
 
 ### osu!taiko
 
-Pada [osu!taiko](/wiki/Game_mode/osu!taiko), hit leniency akan dikurangi saat Double Time dinyalakan karena osu!taiko sudah mempunyai overall difficulty (OD) yang ketat bersamaan dengan slider tick yang lebih sulit untuk dikenai. Karena ini, mod Double time sering dianggap sebagai mod yang paling sulit di osu!taiko dan jarang digunakan.
+Pada [osu!taiko](/wiki/Game_mode/osu!taiko), hit leniency akan dikurangi saat Double Time dinyalakan karena osu!taiko sudah mempunyai overall difficulty (OD) yang ketat bersamaan dengan slider tick yang lebih sulit untuk dikenai. Karena ini, mod Double Time sering dianggap sebagai mod yang paling sulit di osu!taiko dan jarang digunakan.
 
 ### osu!catch
 

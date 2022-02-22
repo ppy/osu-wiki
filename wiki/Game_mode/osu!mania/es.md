@@ -256,16 +256,16 @@ DivisorMod = El divisor de castigo se los mods seleccionados (aumento de dificul
     50          50                4                                44
   Error          0                0                                 ∞
 
-       Mod  MultiplicadorMod  DivisorMod
-      Easy        0.5
-    NoFail        0.5
-  HalfTime        0.5
-  HardRock                       1.08
-DoubleTime                        1.1
- NightCore                        1.1
-    FadeIn                       1.06
-    Hidden                       1.06
-Flashlight                       1.06
+        Mod  MultiplicadorMod  DivisorMod
+       Easy        0.5
+    No Fail        0.5
+  Half Time        0.5
+  Hard Rock                       1.08
+Double Time                       1.1
+  Nightcore                       1.1
+    Fade In                       1.06
+     Hidden                       1.06
+ Flashlight                       1.06
 ```
 
 ### Juicio de los objetos golpeados

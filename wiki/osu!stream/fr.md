@@ -116,7 +116,7 @@ Le développement de cette version s'est terminé en 2020. Pour plus d'informati
 
 ![](img/Os-ModeEasy.jpg "Easy mode")
 
-**Difficulté : Easy + [NoFail](/wiki/Game_modifier/No_Fail)**
+**Difficulté : Easy + [No Fail](/wiki/Game_modifier/No_Fail)**
 
 Le mode Easy permet aux nouveaux joueur de s'habituer au gameplay d'osu!stream. Le jeu est considérablement plus lent pour que les nouveaux joueurs comprennent le déroulement et le timing des frappes. Il n'y a pas de barre de vie et le mode Easy ne débloque pas le mode Expert.
 

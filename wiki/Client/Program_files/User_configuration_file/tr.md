@@ -170,7 +170,7 @@ Tuş düzeni seçeneklerinde bulunan değerler, tuşların isimleridir.
 | `keyAutopilot` | Autopilot modunu aç/kapa |
 | `keySpunOut` | Spun Out modunu aç/kapa |
 | `keyAuto` | Auto modunu aç/kapa |
-| `keyScoreV2` | Score V2 modunu aç/kapa |
+| `keyScoreV2` | ScoreV2 modunu aç/kapa |
 
 #### osu!mania düzeni
 

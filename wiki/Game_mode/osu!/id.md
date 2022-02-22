@@ -79,7 +79,7 @@ Spinner merupakan objek permainan yang mengharuskan kamu untuk menahan tombol mo
 
 Lingkaran berwarna putih yang berada pada sisi luar spinner mengindikasikan berapa banyak waktu yang tersisa untuk dapat menyelesaikan spinner yang bersangkutan. Lingkaran ini akan berubah warna menjadi merah apabila waktu yang kamu miliki hampir habis. Pada beatmap-beatmap tertentu yang menggunakan *skin versi 1.0*, alih-alih sebuah lingkaran kamu akan diberikan sebuah garis meteran pada sisi kanan layar sebagai indikator sisa waktu yang kamu miliki.
 
-Pada kotak kecil yang terdapat pada bagian bawah layar, kamu dapat melihat seberapa cepat spinner tersebut berputar yang diukur dalam satuan perputaran per menit (*spins per minute/SPM*) dengan rentang nilai dari 0 SPM hingga 477 SPM (yang merupakan kecepatan perputaran maksimum dari mod [Auto](/wiki/Game_modifier/Auto)). Adapun mod [SpunOut](/wiki/Game_modifier/Spun_Out) akan membuat spinner diselesaikan secara otomatis oleh komputer dengan kecepatan perputaran 287 SPM.
+Pada kotak kecil yang terdapat pada bagian bawah layar, kamu dapat melihat seberapa cepat spinner tersebut berputar yang diukur dalam satuan perputaran per menit (*spins per minute/SPM*) dengan rentang nilai dari 0 SPM hingga 477 SPM (yang merupakan kecepatan perputaran maksimum dari mod [Auto](/wiki/Game_modifier/Auto)). Adapun mod [Spun Out](/wiki/Game_modifier/Spun_Out) akan membuat spinner diselesaikan secara otomatis oleh komputer dengan kecepatan perputaran 287 SPM.
 
 ## Play style
 

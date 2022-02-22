@@ -68,7 +68,7 @@ Vamos aprender sobre os tipos de hit-objects.
     - O nível de brilho do spinner mostra o quão próximo do final do spinner você esta
     - Uma barra pequena de baixo do spinner mostra quantos giros por minutos você consegue fazer
     - Se você não segurar nenhum botão durante o processo, os seu giros não vão ser contados e você vai falhar no spinner
-  - O máximo de giros por minutos que um ser humano conseguiria é 477 que é a velocidade que o mod autoplay gira, o mod spun out faz 287 giros por minuto.
+  - O máximo de giros por minutos que um ser humano conseguiria é 477 que é a velocidade que o mod autoplay gira, o mod Spun Out faz 287 giros por minuto.
   - Depois que conseguir uma boa velocidade de giros, treine como girar mais próximo do centro da tela (igual o autoplay)
   - \[Mouse\]**se seu cursor não segue seus movimentos corretamente ou trava quando você gira muito rápido, tente trocar seu mousepad, se isso não resolver então o problema esta em seu mouse**
 

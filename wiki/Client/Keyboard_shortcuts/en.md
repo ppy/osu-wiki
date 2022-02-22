@@ -93,7 +93,7 @@ These shortcuts work anywhere:
 
 *Main page: [Game modifiers](/wiki/Game_modifier)*\
 *Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.*\
-*Note: Target practice (osu!), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.*
+*Note: Target Practice (osu!), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.*
 
 | Shortcut | Mod |
 | :-- | :-- |
@@ -113,7 +113,7 @@ These shortcuts work anywhere:
 | `C` | Spun Out (osu!) |
 | `V` | Auto |
 | `V` twice | Cinema |
-| `B` | Score V2 |
+| `B` | ScoreV2 |
 | `3` to `9` | 3K to 9K (osu!mania) |
 
 ## Play mode

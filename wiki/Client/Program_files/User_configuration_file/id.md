@@ -170,7 +170,7 @@ Nilai dari pengaturan tombol adalah nama tombol.
 | `keyAutopilot` | Mengaktifkan atau menonaktifkan Autopilot |
 | `keySpunOut` | Mengaktifkan atau menonaktifkan Spun Out |
 | `keyAuto` | Mengaktifkan atau menonaktifkan Auto |
-| `keyScoreV2` | Mengaktifkan atau menonaktifkan Score V2 |
+| `keyScoreV2` | Mengaktifkan atau menonaktifkan ScoreV2 |
 
 #### Tata letak osu!mania
 

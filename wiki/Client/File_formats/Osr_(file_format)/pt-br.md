@@ -67,19 +67,19 @@ Como visto na [osu! API](https://github.com/peppy/osu-api/wiki#mods).
 | Mod | Valor (BitOffset) | Comentário |
 | :-- | :-- | :-- |
 | None | 0 |  |
-| NoFail | 1 (0) |  |
+| No Fail | 1 (0) |  |
 | Easy | 2 (1) |  |
-| TouchDevice | 4 (2) | Substitui o mod não utilizado NoVideo |
+| Touch Device | 4 (2) | Substitui o mod não utilizado NoVideo |
 | Hidden | 8 (3) |  |
-| HardRock | 16 (4) |  |
-| SuddenDeath | 32 (5) |  |
-| DoubleTime | 64 (6) |  |
+| Hard Rock | 16 (4) |  |
+| Sudden Death | 32 (5) |  |
+| Double Time | 64 (6) |  |
 | Relax | 128 (7) |  |
-| HalfTime | 256 (8) |  |
+| Half Time | 256 (8) |  |
 | Nightcore | 512 (9) | Sempre usado com DT : 512 + 64 = 576 |
 | Flashlight | 1024 (10) |  |
 | Autoplay | 2048 (11) |  |
-| SpunOut | 4096 (12) |  |
+| Spun Out | 4096 (12) |  |
 | Relax2 | 8192 (13) | Piloto automático |
 | Perfect | 16384 (14) |  |
 | Key4 | 32768 (15) |  |
@@ -88,10 +88,10 @@ Como visto na [osu! API](https://github.com/peppy/osu-api/wiki#mods).
 | Key7 | 262144 (18) |  |
 | Key8 | 524288 (19) |  |
 | keyMod | 1015808 | k4+k5+k6+k7+k8 |
-| FadeIn | 1048576 (20) |  |
+| Fade In | 1048576 (20) |  |
 | Random | 2097152 (21) |  |
 | LastMod | 4194304 (22) | Cinema |
-| TargetPractice | 8388608 (23) | Apenas no osu!cuttingedge |
+| Target Practice | 8388608 (23) | Apenas no osu!cuttingedge |
 | Key9 | 16777216 (24) |  |
 | Coop | 33554432 (25) |  |
 | Key1 | 67108864 (26) |  |
