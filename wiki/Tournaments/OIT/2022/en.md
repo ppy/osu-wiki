@@ -21,8 +21,8 @@ The **osu! Indonesia Tournament #12 (2022)** (***OIT 2022***) is an Indonesian d
 | Round of 16 | 2022-02-28/2022-03-06 |
 | Quarterfinals | 2022-03-07/2022-03-13 |
 | Semifinals | 2022-03-14/2022-03-20 |
-| Finals (week 1) | 2022-03-21/2022-03-27 |
-| Finals (week 2) | 2022-03-28/2022-04-03 |
+| Finals week 1 | 2022-03-21/2022-03-27 |
+| Finals week 2 | 2022-03-28/2022-04-03 |
 
 ## Prizes
 
@@ -34,7 +34,7 @@ The **osu! Indonesia Tournament #12 (2022)** (***OIT 2022***) is an Indonesian d
 
 ## Organisation
 
-OIT 2022 is run by various osu! community members predominantly hailing from Indonesia.
+The osu! Indonesia Tournament #12 (2022) is run by various osu! community members predominantly hailing from Indonesia.
 
 | Position | Member(s) |
 | :-- | :-- |
