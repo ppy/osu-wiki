@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 3243add9ee2ee9f9c516288c3d2736509618bc9c
+---
+
 # osu! wiki 기여 가이드
 
 osu! wiki 개선에 관심을 가져주셔서 감사합니다! 이 문서에서는 기여를 하는 방법을 단계별로 알아볼 수 있습니다. Github 사용에 익숙하신 분의 경우, feature-branch 워크플로우 방식으로 콘텐츠를 업데이트하고 [검토](#검토) 과정으로 넘어가시면 됩니다.

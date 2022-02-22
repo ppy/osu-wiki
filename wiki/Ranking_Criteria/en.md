@@ -8,6 +8,16 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 **Keep in mind that the [code of conduct for modding and mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), as well as the [song content rules](/wiki/Rules/Song_Content_Rules) are part of the ranking criteria and apply to all game modes.**
 
+## Tools
+
+It is highly recommended that you use [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) to aid in checking these criteria. [AiMod](/wiki/Client/Beatmap_editor/AiMod) from the old client (stable) is outdated and unmaintained, and beatmap verification in the new client (lazer) is [work in progress](https://github.com/ppy/osu/issues/12091#issuecomment-878760791).
+
+Important to understand before using:
+
+- No tool entirely replaces the necessity to read this page or check manually.
+- Be critical about what they point out and do not follow them blindly.
+- They exist to help you, not replace you.
+
 ## Glossary
 
 ### General terms

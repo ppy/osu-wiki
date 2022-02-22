@@ -82,4 +82,4 @@ Users connected via osu! client or web site have no prefix.
 
 ### Someone sends messages, but they are not in the list of channel users!
 
-They are either using [the web version of chat](https://osu.ppy.sh/community/chat) or connected via [osu!lazer](https://github.com/ppy/osu).
+They are either using [the web version of chat](https://osu.ppy.sh/community/chat) or connected via [osu!(lazer)](https://github.com/ppy/osu).
