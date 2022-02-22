@@ -90,7 +90,7 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti
 
 ### Round of 32
 
-**[Download the mapack here (105 MB)](https://www.dropbox.com/s/yaoob4h4vmy8edy/UKCC%2011%20Round%20of%2032.zip?dl=0)**
+**[Download the mappack here (105 MB)](https://www.dropbox.com/s/yaoob4h4vmy8edy/UKCC%2011%20Round%20of%2032.zip?dl=0)**
 
 - NoMod
   1. [Suzuki Konomi - Zenbu Kimi ga Ita kara Shittanda (Kalibe) [Hope]](https://osu.ppy.sh/beatmapsets/587616#osu/1725575)
