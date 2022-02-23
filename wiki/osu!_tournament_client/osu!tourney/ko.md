@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 6cadc8a931108f84fc5d1d515a0a28d08a3ae018
+---
+
 # osu!tourney
 
 **osu!tourney** 는 공식 다중 관전용 클라이언트로, 멀티플레이 방에 있는 모든 플레이어의 플레이를 보여주고 방송 송출하기 위하여 제작된 클라이언트 입니다.

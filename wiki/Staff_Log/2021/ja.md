@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 3fe983b3a55970aed91a0bcdca028253d918ae5d
+---
+
 # スタッフログ 2021
 
 このログでは、ユーザーグループの略語を使用しています:

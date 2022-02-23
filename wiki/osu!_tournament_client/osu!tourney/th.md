@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 6cadc8a931108f84fc5d1d515a0a28d08a3ae018
+---
+
 # osu!tourney
 
 **osu!tourney** คือ client อย่างเป็นทางการที่ใช้ในการดูและถ่ายทอดสดผู้เล่นทุกคนในห้องผู้เล่นหลายคน

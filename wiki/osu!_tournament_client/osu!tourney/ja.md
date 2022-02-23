@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 6cadc8a931108f84fc5d1d515a0a28d08a3ae018
+---
+
 # osu!tourney
 
 **osu!tourney**は、マルチプレイヤールームにいるすべてのプレイヤーを一度に表示・配信するための公式マルチ観戦クライアントです。
