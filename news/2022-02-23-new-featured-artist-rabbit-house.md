@@ -27,7 +27,7 @@ Haven't heard **Rabbit House**'s tunes before? The video below showcases an inte
 Try playing [this osu! map](https://osu.ppy.sh/beatmapsets/652751) created by [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) (a.k.a. **Rabbit House**!)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/242/Songs/Rabbit%20House%20-%20Have%20A%20Party%20Time%21.mp3" type="audio/mpeg">
 </audio>
 
 ### Final Overtake
@@ -35,7 +35,7 @@ Try playing [this osu! map](https://osu.ppy.sh/beatmapsets/652751) created by [N
 Or experience [the osu! beatmap that introduced **Rabbit House**'s music to the game](https://osu.ppy.sh/beatmapsets/770246) hosted by [bbu](https://osu.ppy.sh/users/4118962)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/242/Songs/Rabbit%20House%20-%20Final%20Overtake.mp3" type="audio/mpeg">
 </audio>
 
 ### Seculo Seculorum
@@ -43,7 +43,7 @@ Or experience [the osu! beatmap that introduced **Rabbit House**'s music to the 
 Take a break from circles with [this osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1599662) hosted by [Deif](https://osu.ppy.sh/users/318565)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/242/Songs/Rabbit%20House%20-%20Seculo%20Seculorum.mp3" type="audio/mpeg">
 </audio>
 
 ---
