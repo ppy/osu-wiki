@@ -6,7 +6,7 @@ date: 2022-02-23 09:00:00 +0000
 
 You might not recognize our latest Featured Artist by their name, but you *definitely* recognize **Rabbit House**'s beatmaps.
 
-![](https://assets.ppy.sh/artists/242/header.jpg)
+![](https://assets.ppy.sh/artists/242/header.jpg?2022)
 
 **Rabbit House**, also known as [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) or *dksslqj* on osu!, is best known among circle clickers for creating one of the game's most renowned beatmaps of all time: [xi - FREEDOM DiVE](https://osu.ppy.sh/beatmapsets/39804).
 
