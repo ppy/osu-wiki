@@ -1902,8 +1902,8 @@ Sunday, 21 February 2021:
 4. There is no penalty for not joining the room instantly after match time as long as it's within the postponed time.
 5. If neither of the players are in the lobby after 10 minutes, the highest seeded player will advance.
 6. If neither of both teams have the minimum required players after 10 minutes, the highest seeded team will advance.
-7. During the 1v1 tournament, matches will be played as Head to Head and ScoreV2. The name of the room will be "CGTS 2021: (Player 1) vs (Player 2)"
-8. During the team tournament, matches will be played as Team VS and ScoreV2. The name of the room will be "CGTS 2021: (Team Red) vs (Team Blue)".
+7. During the 1v1 tournament, matches will be played as Head to Head and Score v2. The name of the room will be "CGTS 2021: (Player 1) vs (Player 2)"
+8. During the team tournament, matches will be played as Team VS and Score v2. The name of the room will be "CGTS 2021: (Team Red) vs (Team Blue)".
 9. During the knockout stage, each player/team is allowed one warm-up and it must be below **3 minutes**, and must be sent to the referee and streamer of the match one hour prior to the match's start time. Otherwise, the player/team will have no warmups.
 10. Each player/team has to ban one beatmap to be selected from the pool (apart from Tiebreaker). These beatmaps are not allowed to be picked by any player/team in the entire match.
 11. Each player/team captains will roll with the command `!roll` in the chat.

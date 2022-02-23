@@ -201,7 +201,7 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1iie_z
 
 ### General rules
 
-1. Map scoring is based on **[ScoreV2](/wiki/Gameplay/Score#ScoreV2).**
+1. Map scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
 2. The match lobby will be created by the referee, and the players will be invited.
 3. Players have a strict 10-minute grace period available to play the match. If 10 minutes pass and a player does not show up the match, the other player will receive a win by default.
 4. Warmups are not allowed.

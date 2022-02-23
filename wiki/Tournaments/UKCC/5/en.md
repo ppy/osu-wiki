@@ -722,7 +722,7 @@ Sunday, 1 July 2018:
   2. Group stage where 16 players progress
   3. Double elimination bracket
 - To be able to participate, players must have a **![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag, or be able to provide proof of residency to the hosts.**
-- Matches will be **Head to Head** and **ScoreV2**.
+- Matches will be **Head to Head** and **Score v2**.
 - Ranks and qualification placements are used to calculate seeding. Once the tournament starts, your rank is locked and will not affect your seed.
 - All staff (apart from the hosts, mappool selectors and referees) are allowed to participate in the tournament.
 - All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the Discord server or during matches (this includes homophobia, racism and toxicity) will result in a **ban** and will be **blacklisted** from participating from future UKCC tournaments.

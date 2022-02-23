@@ -548,7 +548,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 2. Si aucun arbitre ou membre du staff est disponible à l'horaire du match alors celui-ci sera reporté.
 3. S'il y a moins que le nombre minimum de joueurs nécessaire pour effectuer un match à l'heure prévue alors le match peut être retardé au maximum de 10 minutes.
 4. Si les deux équipes n'ont pas assez de joueurs à la fin des 10 minutes, cela comptera comme une défaite pour les deux équipes pendant la phase de groupe. Dans la phase éliminatoire, c'est l'équipe avec le plus haut seed qui sera déclarée victorieuse.
-5. Le match sera joué en TeamVs et ScoreV2 et le nom de la salle doit être : "IGTS 2019: (Team Red) vs (Team Blue)".
+5. Le match sera joué en TeamVs et Score v2 et le nom de la salle doit être : "IGTS 2019: (Team Red) vs (Team Blue)".
 6. Chaque équipe a droit à un warm up. Celui-ci doit durer moins de 4 minutes. Il est autorisé d'inviter tous les joueurs dans la salle pour les warm ups.
 7. Chaque capitaine doit bannir **une beatmap** prise dans le pool (sauf le Tiebreaker). Ces beatmaps ne pourront plus être pick par aucune équipe pendant tout le match.
 8. Le capitaine de chaque équipe va faire un jet de dés en tapant la commande `!roll` dans le chat.

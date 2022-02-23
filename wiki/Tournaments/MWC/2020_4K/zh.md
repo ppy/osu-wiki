@@ -447,7 +447,7 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 ### 比赛说明
 
 1. 裁判将提前 15 分钟建立多人游戏房间。选手必须在这段时间内聚集。
-   - 多人游戏房间设置为 osu!mania，Team-Vs，获胜条件：ScoreV2。 房间名称必须为 “MWC4K2020: (TeamRed) vs (TeamBlue)”。
+   - 多人游戏房间设置为 osu!mania，Team-Vs，获胜条件：Score v2。 房间名称必须为 “MWC4K2020: (TeamRed) vs (TeamBlue)”。
    - 房间名称中提到的第一个队伍必须是红队，第二个队伍必须是蓝队。
 2. 每个队伍可以在热身期间选择一张谱面。禁止选择带有可疑内容的谱面。所有铺面必须是 osu!mania 4K 模式谱面。
 3. 每队队长可以选择 Ban **一张图**。

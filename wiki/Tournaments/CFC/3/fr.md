@@ -419,7 +419,7 @@ Dimanche, 16 Septembre 2018:
 ### Règles générales
 
 1. Le tournoi prendra place dans un format de 1v1 double élimination avec un seeding traditionnel.
-2. Le tournoi durera 7 weekends. Les matchs seront joués sous les paramètres **ScoreV2** et **Head to Head**.
+2. Le tournoi durera 7 weekends. Les matchs seront joués sous les paramètres **Score v2** et **Head to Head**.
 3. Un arbitre sera présent pour chaque match.
 4. Rejoindre le serveur Discord est obligatoire, au moins pour la durée du tournoi.
 5. Les matchs du 1er weekend et du 2ème weekend seront en best-of-5, les matchs du 3ème weekend seront en best-of-7, les matchs du 4ème weekend seront en best-of-9, les matchs du 5ème weekend seront en best-of-11, les matchs du 6ème et du 7ème weekend seront en best-of-13.

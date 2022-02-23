@@ -123,7 +123,7 @@ This competition has come to an end and resulted in the following podium:
 ### General rules
 
 - The tournament will be held in 1v1 double-elimination format with traditional seeding.
-- The matches will be played using ScoreV2 and TeamVS settings.
+- The matches will be played using Score v2 and TeamVS settings.
 - A referee will be present in every match and every match will be streamed, with additional commentators when possible.
 - The tournament will be held over 2 weekends, joining the Discord server is mandatory at least for the duration of the tournament.
 - First day matches will be best of 5, second day matches best of 7, third day matches are best of 9, and fourth day matches will be best of 11.

@@ -435,7 +435,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes before the scheduled match time. Players must join the lobby in that period.
-   - The room settings are Game mode: "osu!mania", Team mode: "Team Vs" and Score mode: "ScoreV2". The room name must follow this pattern: "MWC7K2022: (Red Team) vs (Blue Team)". The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
+   - The room settings are Game mode: "osu!mania", Team mode: "Team Vs" and Score mode: "Score v2". The room name must follow this pattern: "MWC7K2022: (Red Team) vs (Blue Team)". The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps can not be picked by any team for the entire duration of the match.
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 4. Each captain must use `!roll` once in `#multiplayer`.

@@ -427,7 +427,7 @@ More detailed qualifier results can be accessed via these spreadsheets below:
      - Tier 4: #15,001 - #30,000
      - There will not be a rank buffer for any of the ranges
 2. Only players from the Europe region may sign up to the tournament. Participants may find a list of European countries [here](https://en.wikipedia.org/wiki/List_of_European_countries_by_area). If they wish to enter the tournament even though the flag of their profile page isn't listed there, participants can contact the host through Discord DMs to discuss the matter.
-3. The matches will be played with the following win conditions: TeamVS, ScoreV2.
+3. The matches will be played with the following win conditions: TeamVS, Score v2.
 4. The Badge Weighting System (BWS) is used for the registration part of the tournament, where the formula used is as follows: `rank ^ 0.99 ^ badges ^ 2`. However, the rank calculation will be slightly different, and each badge will not have the same weighting depending on participants' rank. More information regarding this can be found under the [BWS section below](#bws-format).
 5. Each mappool and schedule for a weekend will be released at the latest on the Monday prior to that weekend, exceptions being exceptional circumstances or all matches that concluded early.
 6. Once all teams are formed, a Challonge bracket will be made and shuffled.

@@ -281,7 +281,7 @@ The SS Tournament 2018 had a prize pool of USD 200.
 - Seeding will take into account all Players PP (formula being `<Member 1 PP> + <Member 2 PP> + … / <# of players on team>`).
 - The tournament will be held in 3v3 double-elimination format with Groups having one top high mid low and bottom seed selected from the tournament drawings client.
 - Brackets will then be made with the top placing team in group A vs the second top placing seed in group H, the second seed of group A facing the top placing team of group A, Group B will match up G and so fourth.
-- The matches will be played using ScoreV2 and TeamVS.
+- The matches will be played using Score v2 and TeamVS.
 - Map pools will be released The Monday before the stage starts.
 - Teams must reschedule 12 Hours in Advance to the start of the current stage. If for whatever reason a team needs to reschedule during the stage, it will be done on a case by case basis with the opposing team being prioritized if a reschedule cannot be arranged.
 - Staff is not allowed to play excluding commentators and streamers.

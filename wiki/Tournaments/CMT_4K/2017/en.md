@@ -508,7 +508,7 @@ Saturday, 2017-06-17:
 ### Qualification stage
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period:
-   - Room settings are osu!mania, Head To Head, Win Condition: 'ScoreV2'. Room name must be "CMT4K2017: (Qualification) vs (Qualification)".
+   - Room settings are osu!mania, Head To Head, Win Condition: 'Score v2'. Room name must be "CMT4K2017: (Qualification) vs (Qualification)".
    - The maximum amount of player for Qualification stage is 8.
 2. There will be no warm-up maps in Qualification stage, all players are expected to prepare well before the match starts.
 3. Players are not allowed to change slots once the match has started.
@@ -520,7 +520,7 @@ Saturday, 2017-06-17:
 ### Group stage
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period:
-   - Room settings are osu!mania, Head To Head, Win Condition: 'ScoreV2'. Room name must be "CMT4K2017: (playerBlue) vs (playerRed)".
+   - Room settings are osu!mania, Head To Head, Win Condition: 'Score v2'. Room name must be "CMT4K2017: (playerBlue) vs (playerRed)".
    - PlayerBlue and playerRed must be in slot 1, 2, respectively.
 2. Each player in the match will be allowed **1** warm-up map to be played, making for **2** warm-ups. Questioned maps and maps that are not 4K-specific osu!mania maps are not allowed.
 3. Each player must use `!roll` once in `#multiplayer`:

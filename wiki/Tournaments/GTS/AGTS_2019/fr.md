@@ -456,7 +456,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 2. Si aucun membre du staff ou arbitre n'est disponible, le match sera reporté à pus tard.
 3. Si le nombre de joueurs par équipe présent dans la salle est inférieur au nombre demandé, le match peut être reporté jusqu'à 10 minutes plus tard.
 4. Si aucune des deux équipes n'arrive à réunir le nombre minimum de joueurs demandés dans la salle au bout de dix (10) minutes, cela sera compté comme une défaite pour les deux équipes durant la Phase de Groupe. Dans l'arbre à double élimination, l'équipe avec le plus haut "seed" gagnera le match.
-5. Le match sera joué avec le format d'équipe TeamVs et la condition de victoire réglée à ScoreV2, et le nom de la salle privée doit être: "AGTS 2019: (équipe rouge) vs (équipe bleue)".
+5. Le match sera joué avec le format d'équipe TeamVs et la condition de victoire réglée à Score v2, et le nom de la salle privée doit être: "AGTS 2019: (équipe rouge) vs (équipe bleue)".
 6. Chaque équipe aura le droit à une beatmap d'échauffement, mais celle-ci ne peut pas dépasser quatre (4) minutes. Tout le monde peut être dans le salon pendant les beatmaps de chauffe.
 7. Chaque capitaine doit bannir **une (1) beatmap** choisie dans le mappool (à part le Tiebreaker). Ces beatmaps ne peuvent pas être choisies par la suite par les deux équipes pendant toute la durée du match.
 8. Le capitaine de chaque équipe devra tirer un nombre au sort en utilisant la commande `!roll` dans le chat du salon privé.

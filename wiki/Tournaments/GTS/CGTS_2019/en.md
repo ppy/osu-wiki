@@ -842,8 +842,8 @@ Sunday, 10 November 2019:
 2. If no staff or referee is available, the match will be postponed.
 3. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes. After then, it will be a WBD no matter what, unless if the players in the lobby do not mind waiting more time.
 4. If neither of both teams have the minimum required players after 10 minutes, the highest seeded team will advance.
-5. During the 1v1 tournament, matches will be played as Head to Head and ScoreV2. The name of the room will be "CGTS 2019: (Player 1) vs (Player 2)"
-6. During the team tournament, matches will be played as Team VS and ScoreV2. The name of the room will be "CGTS 2019: (Team Red) vs (Team Blue)".
+5. During the 1v1 tournament, matches will be played as Head to Head and Score v2. The name of the room will be "CGTS 2019: (Player 1) vs (Player 2)"
+6. During the team tournament, matches will be played as Team VS and Score v2. The name of the room will be "CGTS 2019: (Team Red) vs (Team Blue)".
 7. Each player/team is allowed one warm-up but it must be below 4 minutes. Everyone from both teams is allowed in the room during warm ups.
 8. Each player/captain has to ban **one beatmap** to be selected from the pool (apart from Tiebreaker). These beatmaps are not allowed to be picked by any team in the entire match.
 9. Players/The captain of each team will roll with the command `!roll` in the chat.

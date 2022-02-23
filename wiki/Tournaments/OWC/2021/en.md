@@ -560,7 +560,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes before the scheduled match time. Players must join the lobby in that period.
-   - The room settings are Game mode: "osu!", Team mode: "Team Vs" and Score mode: "ScoreV2". The room name must follow this pattern: "OWC2021: (Red Team) vs (Blue Team)". The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
+   - The room settings are Game mode: "osu!", Team mode: "Team Vs" and Score mode: "Score v2". The room name must follow this pattern: "OWC2021: (Red Team) vs (Blue Team)". The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each captain can ban **one beatmap** to be selected from the pool in the Round of 32 and Round of 16. These beatmaps can not be picked by any team for the entire duration of the match.
    - **From Quarterfinals onwards, the number of bans increases to two. However, each team may not ban more than one map of any mod bracket (excluding NoMod).**
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.

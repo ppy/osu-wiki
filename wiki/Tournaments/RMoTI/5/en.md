@@ -140,7 +140,7 @@ There was only one mappool for all matches, made of beatmaps from the last four 
 ### General rules
 
 1. The tournament will be held in 1v1 double-elimination format with traditional seeding.
-2. The matches will be played using ScoreV2 and TeamVS settings.
+2. The matches will be played using Score v2 and TeamVS settings.
 3. A referee will be present in every match and every match will be streamed, with additional commentators when possible.
 4. The tournament will be held over three weekends, joining the [Discord server](https://discord.gg/9sKe7nF) is mandatory at least for the duration of the tournament.
 5. The **Winning conditions** for each stage will be:

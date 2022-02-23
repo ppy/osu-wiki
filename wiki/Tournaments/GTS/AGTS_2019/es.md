@@ -456,7 +456,7 @@ Esta competencia ha llegado a su fin y los acreedores al podio son los siguiente
 2. Si no hay ningún árbitro o miembro del staff disponible, la partida será pospuesta.
 3. Si menos del mínimo de jugadores requeridos para la partida atiende, el tiempo máximo que la misma puede ser pospuesta es 10 minutos.
 4. Si ninguno de los dos equipos tiene suficientes jugadores después de 10 minutos del tiempo original de inicio de partida, contará como una pérdida para ambos equipos en la Fase de Grupos. En las siguientes etapas, el equipo con mayor seed (rank) avanzará de etapa.
-5. Las partidas serán jugadas en un formato de TeamVs y con ScoreV2, y el nombre de la sala deberá ser del siguiente formato: "AGTS2019: (Team Red) vs (Team Blue)".
+5. Las partidas serán jugadas en un formato de TeamVs y con Score v2, y el nombre de la sala deberá ser del siguiente formato: "AGTS2019: (Team Red) vs (Team Blue)".
 6. Cada equipo tendran el derecho de jugar un mapa de calentamiento, menor a 4 minutos. Todos los jugadores del equipo serán permitidos dentro de la sala durante los calentamientos.
 7. Cada capitán debe banear **un beatmap** a seleccionar (aparte del Tiebreaker). Estos mapas no serán permitidos de escoger por el resto de la partida.
 8. Los capitanes de cada equipo deberán "lanzar los dados" (roll) con el comando `!roll` en el chat.

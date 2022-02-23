@@ -472,7 +472,7 @@ Friday, 1 June 2018:
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!taiko, Head To Head, Win Condition: 'ScoreV2'. Room name must be "ATS 2018: (TeamBlue) vs (TeamRed)".
+   - Room settings are osu!taiko, Head To Head, Win Condition: 'Score v2'. Room name must be "ATS 2018: (TeamBlue) vs (TeamRed)".
    - The player mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Each player is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
 3. Each player has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any player during the entire match.

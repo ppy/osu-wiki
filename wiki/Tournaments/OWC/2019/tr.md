@@ -496,7 +496,7 @@ Pazar, 17 Kasım 2019:
 ### Maç talimatları
 
 1. Hakem multiplayer odasını 15 dakika önceden kuracaktır. Oyuncular bu süre zarfında toplanmalıdır.
-   - Oda ayarları şu şekildedir: osu!, Team-vs., Kazanma Şartı: 'ScoreV2'. Oda adı mutlaka "OWC 2019: (KırmızıTakım) vs (MaviTakım)" olmalıdır.
+   - Oda ayarları şu şekildedir: osu!, Team-vs., Kazanma Şartı: 'Score v2'. Oda adı mutlaka "OWC 2019: (KırmızıTakım) vs (MaviTakım)" olmalıdır.
    - Oda adında bahsedilen ilk takım mutlaka kırmızı takım ve ikinci olarak bahsedilen takım ise mutlaka mavi takım olmalıdır.
 2. Oyuncular iki taneye kadar ısınma beatmapleri seçebilirler. Şüpheli beatmap içeriği olan mapler yasaktır. Tüm beatmapler osu! moduna özel mapler olmalıdır.
 3. Her kaptan Son 16 Turu ve Son 32 Turunun havuzlarından seçilecek maplerden **birer tane** yasaklayabilir. Bu maplerin tüm maç boyunca herhangi takım tarafından seçilmesi yasaktır.

@@ -481,7 +481,7 @@ Friday, 21 August 2020:
 
 1. A private lobby will be created for your match, and both players will be invited approx. 10 minutes before their appointed time by a referee.
 2. If the scheduled referee is unavailable and there are no other referees available, the match can be postponed. Make sure to contact organizers if this happens.
-3. Matches will be played with **ScoreV2**, **Team VS** and **No Fail**.
+3. Matches will be played with **Score v2**, **Team VS** and **No Fail**.
 4. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
 5. Each player can request one warmup map, but it must be **below 4 minutes** (does not apply to Qualifiers, as there are no warmups).
 6. After warmups each player will `!roll`:

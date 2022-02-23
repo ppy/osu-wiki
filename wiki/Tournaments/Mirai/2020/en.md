@@ -468,7 +468,7 @@ The Mirai. Tournament 2020 is run by various community members.
 
 ## Ruleset
 
-The ruleset for this tournament is: ScoreV2, Team VS in osu! standard.
+The ruleset for this tournament is: Score v2, Team VS in osu! standard.
 
 ### Tournament rules
 

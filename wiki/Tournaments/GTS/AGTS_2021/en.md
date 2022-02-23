@@ -528,7 +528,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 3. If less than the minimum required players attend, the maximum time the match can be postponed is **10 minutes**.
 4. There is no penalty for not joining the room instantly after match time as long as it's within the postponed time.
 5. If neither of both teams have the minimum required players after 10 minutes it will count as a loss for both teams in Group Stage. In the double elimination bracket the highest seeded team will advance.
-6. The match will be played as TeamVs and ScoreV2 and the name of the room must be: "AGTS 2021: (Team Red) vs (Team Blue)".
+6. The match will be played as TeamVs and Score v2 and the name of the room must be: "AGTS 2021: (Team Red) vs (Team Blue)".
 7. Each team is allowed one warm-up but it must be below 3 minutes, and must be sent to the referee and streamer of the match one hour prior to the match's start time. Otherwise, the team will have no warmups.
 8. If a team does not respect the time said in the rule above, they will not have any warm-up for their match.
 9. Each captain has to ban one beatmap from the pool (apart from Tiebreaker). These beatmaps are not allowed to be picked by any team in the entire match.

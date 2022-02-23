@@ -423,7 +423,7 @@ Sunday, 12 August 2018:
 
 ### Match regulations
 
-1. A private lobby will be created for the match, and both teams will be invited into their match following the agreed schedule. Match will be played as **TeamVs and ScoreV2.**
+1. A private lobby will be created for the match, and both teams will be invited into their match following the agreed schedule. Match will be played as **TeamVs and Score v2.**
 2. Each team is allowed to select one warm-up map.
    - During Group Stage, warm-ups must not exceed 5:00 minutes.
    - Offensive songs may be blocked by referees.

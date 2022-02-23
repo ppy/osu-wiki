@@ -476,7 +476,7 @@ Both tournaments will use a standard double-elimination format for playoffs.
 ### Lobby and matches
 
 1. Missing your match counts as a loss; no rematches will be made.
-2. ScoreV2 will be used as the win condition.
+2. Score v2 will be used as the win condition.
 3. Warmups will not be allowed.
 4. Low roll bans first; high roll picks first.
 5. The loser of each map will pick the next one.

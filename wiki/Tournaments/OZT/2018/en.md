@@ -140,7 +140,7 @@ The osu! Z-Tournament 2018 was run by various community members.
 ### Match procedures
 
 - Referees will create the room with the credentials `OZT: (Team Blue) vs. (Team Red)`.
-- Score system: ScoreV2, Team VS.
+- Score system: Score v2, Team VS.
 - After creating the room, referees will invite the captains on each team (or any online players of the team, if the captain is not online) usually 10 minutes before the official match time. If the referee fails to invite the captains or show up to the match, please inform a higher authority.
 - Once invited, players will be put in each of the slots. Team 1 is Blue (first 4 slots), while Team 2 is Red (next 4 slots).
 - There will be a 15 minute grace period for the players to join, no exceptions.

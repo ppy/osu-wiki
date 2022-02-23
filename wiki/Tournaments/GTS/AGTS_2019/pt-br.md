@@ -456,7 +456,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 2. Se nenhum juíz ou membro da equipe organizadora estiver disponível, a partida será adiada.
 3. Se comparecerem menos jogadores do que o mínimo necessário, a partida poderá ser adiada até, no máximo, 10 minutos.
 4. Se nenhum dos dois times tiverem a mínima quantidade de jogadores necessária após 10 minutos, ambos os times terão uma derrota na Fase de Grupos. Nas chaves de eliminação dupla, o time com maior rank avançará para a próxima fase.
-5. A partida será jogada como TeamVs e ScoreV2 e o nome da sala deve ser: "AGTS 2019: (Time Vermelho) vs (Time Azul)".
+5. A partida será jogada como TeamVs e Score v2 e o nome da sala deve ser: "AGTS 2019: (Time Vermelho) vs (Time Azul)".
 6. Cada time tem direito a um warm-up, o qual deve ter 4 minutos ou menos. Todos podem estar na sala durante os warm-ups.
 7. Cada capitão deve banir **um beatmap** selecionado da mappool (com exceção do Tiebreaker). Estes beatmaps não podem ser escolhidos por qualquer time durante toda a partida.
 8. O capitão de cada time rolará um comando `!roll` no chat.

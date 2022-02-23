@@ -683,7 +683,7 @@ See the [Qualifiers results spreadsheet](https://docs.google.com/spreadsheets/d/
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "OMF: (TeamRed) vs (TeamBlue)".
+   - Room settings are osu!, Team-Vs., Win Condition: 'Score v2'. Room name must be "OMF: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each captain can ban **one beatmap** to be selected from the pool in the Round of 64 and Round of 32. These beatmaps are not allowed to be picked by any team in the entire match.
    - **From Round of 16 onwards, the number of bans increases to two. However, each team may not ban an entire mod bracket by themselves.**

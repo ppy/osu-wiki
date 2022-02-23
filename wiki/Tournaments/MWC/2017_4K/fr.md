@@ -386,7 +386,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 ### Instructions du match
 
 1. Un arbitre créera une salle multijoueur 15 minutes en avance. Les joueurs doivent se réunir pendant cette période.
-   - Les paramètres de la salle sont osu!mania, Versus Équipe, condition de victoire : « ScoreV2 ». Le nom de la salle doit être "MWC 4K 2017: (ÉquipeBleue) vs (ÉquipeRouge)".
+   - Les paramètres de la salle sont osu!mania, Versus Équipe, condition de victoire : « Score v2 ». Le nom de la salle doit être "MWC 4K 2017: (ÉquipeBleue) vs (ÉquipeRouge)".
    - L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue, et l'équipe mentionnée en second doit être l'équipe rouge.
 2. Les joueurs peuvent sélectionner jusqu'à deux beatmaps d'échauffement. Les beatmaps avec un contenu discutable sont interdites. Toutes les beatmaps doivent être des beatmaps osu!mania 4 touches.
 3. Chaque capitaine peut bannir **une beatmap** sélectionnable. Ces beatmaps ne pourront être choisies par aucune équipe pendant l'intégralité du match.

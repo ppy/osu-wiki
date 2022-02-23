@@ -642,7 +642,7 @@ Sunday, 20 September 2020:
 3. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
 4. There is no penalty for not joining the room instantly after match time as long as it's within the postponed time.
 5. If neither of both teams have the minimum required players after 10 minutes, it will count as a loss for both teams in Group Stage. In the double-elimination bracket, the highest seeded team will advance.
-6. The match will be played as **TeamVs** and **ScoreV2** and the name of the room will be: "AGTS 2020: (Team Red) vs (Team Blue)".
+6. The match will be played as **TeamVs** and **Score v2** and the name of the room will be: "AGTS 2020: (Team Red) vs (Team Blue)".
 7. Each team is allowed one warmup but it must be below **3:00**. Everyone is allowed in the room during warmups.
 8. If a team takes more than 2 minutes to decide on a warmup the referee will be skipping it.
 9. Each captain has to ban **one beatmap** from the mappool (apart from Tiebreaker). These beatmaps are not allowed to be picked by any team in the entire match.

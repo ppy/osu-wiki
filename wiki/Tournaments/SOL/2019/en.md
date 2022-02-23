@@ -579,7 +579,7 @@ Sunday, 08 December 2019:
 #### Tournament play
 
 - A referee will create a multiplayer room 15 minutes in advance. Players must meet during this period.
-- The room configuration is osu, Team-Vs, Win Condition: 'ScoreV2'. The room name must be "(SOL Tournament): (*Player1*) vs (*Player2*)".
+- The room configuration is osu, Team-Vs, Win Condition: 'Score v2'. The room name must be "(SOL Tournament): (*Player1*) vs (*Player2*)".
 - The player mentioned first in the name of the room must be the red team, the player mentioned second in the name of the room must be the blue team.
 - Players are free to select one beatmap per player for warmup. Beatmaps with questionable or explicit content is prohibited. All the beatmaps must be osu! beatmaps specifically, and must be submitted so each player can download it.
 - Each player can ban a beatmap from being selected in the match. These beatmaps won’t be selected by any player throughout the match.

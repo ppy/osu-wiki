@@ -131,7 +131,7 @@ The osu!taiko World Cup 2022 is run by various community members.
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes before the scheduled match time. Players must join the lobby in that period.
-   - The room settings are `Game mode: "osu!taiko"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `TWC2022: ({Red Team}) vs ({Blue Team})`. The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
+   - The room settings are `Game mode: "osu!taiko"`, `Team mode: "Team Vs"` and `Score mode: "Score v2"`. The room name must follow the pattern of `TWC2022: ({Red Team}) vs ({Blue Team})`. The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each captain can ban **one beatmap** from the pool. These beatmaps can not be picked by any team for the entire duration of the match.
 3. Both captains will alternate picking a beatmap from the mappool.
 4. Each captain must use `!roll` once in `#multiplayer`.

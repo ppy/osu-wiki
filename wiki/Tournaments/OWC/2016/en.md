@@ -476,7 +476,7 @@ Sunday, 13 November 2016:
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "OWC 2016: TeamBlue vs TeamRed".
+   - Room settings are osu!, Team-Vs., Win Condition: 'Score v2'. Room name must be "OWC 2016: TeamBlue vs TeamRed".
    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up maps. Using beatmaps with questionable or inappropriate content is prohibited.
 3. Each captain must ban one beatmap to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.

@@ -381,7 +381,7 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 
 1. Dies ist ein **2v2 team tournament** mit Teams aus bis zu **5 Spielern.**
 2. Die Teams werden erst in einer **Gruppenphase** und dann in einem **double-elimination bracket** spielen.
-3. Das Punktesystem wird**ScoreV2** sein.
+3. Das Punktesystem wird **ScoreV2** sein.
 4. Jeder Spieler, der die Rangvoraussetzungen erfüllt, darf mitspielen. Weil das Turnier einen Banner zur Verfügung stellt, kann es sein, dass manche Spieler vom osu!Team abgelehnt werden.
 5. Jedes GTS-Teammitglied, abgesehen von**Organisatoren, Mappoolern und Schiedsrichtern** dürfen mitmachen.
 6. Spieler und GTS-Teammitglieder müssen diese Regeln komplett gelesen haben.
@@ -455,7 +455,7 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 2. Sollte kein Schiedsrichter oder Turnierpersonal verfügbar sein, wird der Spielbeginn verschoben.
 3. Sollte zu Spielbeginn nicht die minimal notwendige Anzahl an Spielern anwesend sein, kann der Spielbeginn bis zu maximal 10 Minuten nach hinten verschoben werden.
 4. Sollte nach diesen weiteren 10 Minuten bei beiden Teams nicht die minimale Anzahl an Spielern anwesend sein, erhalten in der Gruppenphase beide eine Niederlage. In der KO-Phase erreicht das höher gesetzte Team die nächste Runde.
-5. Das Spiel wird im Modus TeamVS und Scoremodus ScoreV2 gespielt. Der Raumname muss wie folgt aussehen: "AGTS 2019: (Team Rot) vs (Team Blau)".
+5. Das Spiel wird im Modus TeamVS und Scoremodus Score v2 gespielt. Der Raumname muss wie folgt aussehen: "AGTS 2019: (Team Rot) vs (Team Blau)".
 6. Jedes Team darf eine Aufwärmmap wählen, die maximal 4 Minuten lang sein darf. Diese dürfen von allen Spielern beider Teams gespielt werden.
 7. Jeder Spielführer muss **eine Beatmap** aus dem Mappool (abgesehen vom Tiebreaker) bannen. Diese Maps dürfen dann im gesamten Match von keinem der beiden Teams gewählt werden.
 8. Am Anfangen rollen beide Spielführer mit Hilfe des `!roll`-Kommandos im Chat eine Zufallszahl zwischen 1 und 100.

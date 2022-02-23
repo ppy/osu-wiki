@@ -490,7 +490,7 @@ Sunday, 8 November 2015:
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players will be gathered during this period.
-   - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "OWC 2015: TeamBlue vs TeamRed" (**this may change at some later point**)
+   - Room settings are osu!, Team-Vs., Win Condition: 'Score v2'. Room name must be "OWC 2015: TeamBlue vs TeamRed" (**this may change at some later point**)
    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited. This includes profanity, nudity, violence or other NSFW content in the visual elements or the song, regardless of its language.
 3. Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.

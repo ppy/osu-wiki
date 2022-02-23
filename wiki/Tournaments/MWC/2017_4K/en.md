@@ -452,7 +452,7 @@ Sunday, 13 August 2017:
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!mania, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC 4K 2017: (TeamBlue) vs (TeamRed)".
+   - Room settings are osu!mania, Team-Vs., Win Condition: 'Score v2'. Room name must be "MWC 4K 2017: (TeamBlue) vs (TeamRed)".
    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 4-key specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.

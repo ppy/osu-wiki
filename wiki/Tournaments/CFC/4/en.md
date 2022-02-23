@@ -282,7 +282,7 @@ Sunday, 31 March 2019:
 ### General rules
 
 1. The tournament will be held in 1v1 double elimination format with traditional seeding.
-2. The tournament will be held over seven weekends. The matches will be played under **ScoreV2** and **Head to Head** settings.
+2. The tournament will be held over seven weekends. The matches will be played under **Score v2** and **Head to Head** settings.
 3. A referee will be present in every match.
 4. Joining the Discord server is mandatory at least for the duration of the tournament.
 5. First and second weekend matches will be best-of-5, third weekend matches best-of-7, forth weekend matches are best-of-9, fifth weekend matches are best-of-11, and finally sixth and seventh weekend matches will be best-of-13.

@@ -501,7 +501,7 @@ Tuesday, 25 August 2020
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!, Head To Head., Win Condition: 'ScoreV2'.
+   - Room settings are osu!, Head To Head., Win Condition: 'Score v2'.
 2. Players can select up to two warm-up beatmaps that should not exceed 4 minutes. Players are free to not to pick a warm-up, but have to play if the opponent wants to.
 3. Each player must use `!roll` once in `#multiplayer`.
    - The player with the higher roll **picks** first.       

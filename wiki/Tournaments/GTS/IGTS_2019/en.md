@@ -576,7 +576,7 @@ Sunday, 9 June 2019:
 2. If no staff or referee is available, the match will be postponed.
 3. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
 4. If neither of both teams have the minimum required players after 10 minutes it will count as a loss for both teams in Group Stage. In the double elimination bracket, the highest seeded team will advance.
-5. The match will be played as TeamVs and ScoreV2 and the name of the room must be: "IGTS 2019: (Team Red) vs (Team Blue)".
+5. The match will be played as TeamVs and Score v2 and the name of the room must be: "IGTS 2019: (Team Red) vs (Team Blue)".
 6. Each team is allowed one warm-up but it must be below 4 minutes. Everyone is allowed in the room during warm ups.
 7. Each captain has to ban **one beatmap** to be selected from the pool (apart from Tiebreaker). These beatmaps are not allowed to be picked by any team in the entire match.
 8. The captain of each team will roll with the command `!roll` in the chat.

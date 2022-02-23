@@ -220,7 +220,7 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 ### Partieanweisungen
 
 1. Ein Schiedsrichter wird 15 Minuten im Vorhinein ein Multiplayer Raum erstellen. Die Spieler müssen sich während diesem Zeitraum versammeln.
-   1. Raumeinstellungen sind osu!, Team-Vs., Gewinnbedingung: 'ScoreV2'. Raumname muss "OWC 2014: TeamBlue vs TeamRed" lauten.
+   1. Raumeinstellungen sind osu!, Team-Vs., Gewinnbedingung: 'Score v2'. Raumname muss "OWC 2014: TeamBlue vs TeamRed" lauten.
    2. Das Team, welches zuerst im Raumnamen genannt wurde, wird das blaue Team, das andere Team dementsprechend dann das rote Team.
 2. Den Spielern steht es zu 2 Beatmaps für die "Warm-Up" Phase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten. Dazu gehört Obszönität, Gewalt, Nacktheit oder andere NSFW Inhalte als visuelle Elemente oder Lied, unabhängig von der Sprache.
 3. Jeder Kapitän kann 2 Beatmaps aus dem Pool wählen, die nicht gespielt werden sollen. Dies gilt für beide Teams und die komplette Partie hindurch.

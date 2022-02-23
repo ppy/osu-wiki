@@ -378,7 +378,7 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 
 ### Match instructions
 
-1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period. Room settings are osu!mania, Head-To-Head, Win Condition: "ScoreV2". Room name must be "MCNC: (Red) vs (Blue)".
+1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period. Room settings are osu!mania, Head-To-Head, Win Condition: "Score v2". Room name must be "MCNC: (Red) vs (Blue)".
 2. Warmups during the Group Stages may not have a length higher than 5 minutes. Bracket Stages may be no longer than 6 minutes. Warmups are optional when allowed.
 3. Players are allowed to ban 1 map each for each match alternating between the players with no restrictions except that each player must ban from mappool. Before matches will start, the captain of each player will roll and the one with the highest roll will pick maps from the mappool first and ban one map from the mappool second. Picks will alternate as well.
 4. Players will be given at most 2 minutes for picking/banning each map. Players taking to long to make a ban/pick will result in losing their ban/pick. Continued stalling will result in the other player's banning/picking instead.

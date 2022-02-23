@@ -473,7 +473,7 @@ Sunday, 26 April 2020:
 1. A referee (or tournament manager) will create a multiplayer room 10 minutes in advance. Players must gather during this period.
    - The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
    - Captains **must specify the four members** who will participate in the match before rolls. Team Size is 6, so choose 4, two must sit out. This is to ensure that teams have a back-up player, in case of emergency or sickness.
-   - Room settings are Taiko, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "TSC: TeamBlue vs TeamRed"
+   - Room settings are Taiko, Team-Vs., Win Condition: 'Score v2'. Room name must be "TSC: TeamBlue vs TeamRed"
    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
    - Blue team must occupy slot 1. Red team must occupy slot 2.
    - The setup at the start of the match must remain consistent throughout.

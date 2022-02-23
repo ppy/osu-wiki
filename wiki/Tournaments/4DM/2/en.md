@@ -489,7 +489,7 @@ Tuesday, 25 February 2020:
 4. After each map concludes, the team with the highest team score on the map will be awarded one point.
 5. Picks will alternate between team captains until a winner is decided by being the first to get the required amount of points to win that round.
 6. If both teams tie at match point, the tiebreaker map will be played, the team who wins the tiebreaker map will win the game.
-7. Matches will be played with the TeamVS mode on **ScoreV2**.
+7. Matches will be played with the TeamVS mode on **Score v2**.
 8. The Red Team will occupy slots 1 - 3, and the Blue Team will occupy slots 4 - 6.
 9. Allowed mods in the FreeMod pool are Hidden, Fade In, Flashlight, and Mirror. The tiebreaker map is also played under FreeMod conditions.
 10. If a player disconnects during a match, their score is counted as a failed score. However, if this disconnect happens before 30 seconds of the map is played, the referee can decide to let the teams rematch.

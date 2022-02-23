@@ -335,7 +335,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Match instructions
 
-1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period. Room settings are osu!mania, Head-To-Head, Win Condition: "ScoreV2". Room name must be "MCNC: (Red) vs (Blue)".
+1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period. Room settings are osu!mania, Head-To-Head, Win Condition: "Score v2". Room name must be "MCNC: (Red) vs (Blue)".
 2. Warmups during the Group Stages may not have a length higher than 3 minutes. Bracket Stages may be no longer than 5 minutes (unless agreed by both side). Warmups are optional when allowed.
 3. Players are allowed to ban 1 map each for each match alternating between the players with no restrictions except that each player must ban from mappool.
 4. Before matches will start, the captain of each player will roll and the one with the highest roll will choose their warmup first (if they would like their warmup), pick maps from the mappool first and ban one map from the mappool second. Picks will alternate as well.

@@ -478,7 +478,7 @@ Sunday, 22 July 2018:
 ### Match rules and instructions
 
 1. The referee of the match will create a lobby and invite the players of the matchup into a multiplayer lobby 10 minutes before the scheduled match time.
-2. Win condition will be set to **ScoreV2**, and the lobby type will be **Head to Head**.
+2. Win condition will be set to **Score v2**, and the lobby type will be **Head to Head**.
 3. Once both players are in the lobby, the match begins. A player will be automatically given a loss if 10 minutes without said player showing up for the match. The player may apply for more time beforehand with the referee’s approval.
 4. If neither player shows up to the match in time, both players will be given a loss.
 5. The winner of a map is decided by score as per the mp-link of the match. Failed scores will be treated as lower than not-failed scores.

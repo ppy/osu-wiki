@@ -456,7 +456,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 2. Jeśli nie ma dostępnego personelu, mecz zostanie przełożony.
 3. Jeśli podczas meczu bierze udział mniej niż minimalna wymagana liczba graczy, maksymalny czas, w którym można opóźnić mecz, wynosi 10 minut.
 4. Jeśli żadna z obu drużyn nie ma minimalnej wymaganej liczby graczy po 10 minutach, będzie to traktowane jako strata dla obu drużyn w Fazie Frupowej. W Fazie Podwójnej Eliminacji awansuje drużyna z najwyższym seedem.
-5. Mecz zostanie rozegrany jako TeamVs i ScoreV2, a nazwa pokoju musi być: „AGTS 2019: (Team Red) vs (Team Blue)”.
+5. Mecz zostanie rozegrany jako TeamVs i Score v2, a nazwa pokoju musi być: „AGTS 2019: (Team Red) vs (Team Blue)”.
 6. Każda drużyna ma jedną mapę rozgrzewkę, ale musi być poniżej 4 minut. Każdy z graczy może wejść do pokoju podczas rozgrzewki.
 7. Każdy kapitam musi zbanować **jedną mapę** podczas każdego meczu (oprócz Tiebreakera). Te mapy nie będą mogły zostać wybrane przez żadną z drużyn podczas całego meczu.
 8. Kapitan każdej drużyny musi użyć komendy `!roll` na czacie.

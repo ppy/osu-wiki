@@ -468,7 +468,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!mania, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC4K2021: (TeamRed) vs (TeamBlue)".
+   - Room settings are osu!mania, Team-Vs., Win Condition: 'Score v2'. Room name must be "MWC4K2021: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps can not be picked by any team in the entire match.
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.

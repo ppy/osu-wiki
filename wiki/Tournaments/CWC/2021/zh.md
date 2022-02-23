@@ -359,7 +359,7 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
 ### 比赛说明
 
 1. 裁判将提前 15 分钟建立多人游戏房间。选手必须在这段时间内聚集。
-   - 多人游戏房间设置为 osu!catch，Team-Vs，获胜条件：ScoreV2。房间名称必须为 “CWC 2021: (TeamRed) vs (TeamBlue)”。
+   - 多人游戏房间设置为 osu!catch，Team-Vs，获胜条件：Score v2。房间名称必须为 “CWC 2021: (TeamRed) vs (TeamBlue)”。
    - 房间名称中提到的第一个队伍必须是红队，第二个队伍必须是蓝队。
 2. 每队队长可以选择禁用 **一张谱面**，本场比赛中无法选择被禁用的谱面。
 3. 谱面选择权将在两位队长之间交替。

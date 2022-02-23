@@ -403,7 +403,7 @@ Monday, 12 August 2019:
    - Participant's account must be **6 months old or older.**
    - Participant must pass the screening done by the osu! team officials.
 3. The tournament will be held over seven weekends.
-4. The matches will be played under **ScoreV2** and **Head to Head** settings.
+4. The matches will be played under **Score v2** and **Head to Head** settings.
 5. Joining the Discord server is mandatory at least for the duration of the tournament.
 6. Winning conditions will be explained below:
    - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
