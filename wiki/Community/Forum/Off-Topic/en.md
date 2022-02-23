@@ -10,9 +10,9 @@ stub: true
 
 ## History
 
-The "General Discussion" subforum initially hosted any gameplay unrelated topic the people wanted to talk about. As forum games started polluting the subforum, people suggested making a seperate subforum for "self perpetuating threads". On 19 Febuary 2009 ppy created the suggested subforum named "Forum Games/Random".
+The "General Discussion" subforum initially hosted any gameplay unrelated topic the people wanted to talk about. As forum games started polluting the subforum, people suggested making a separate subforum for "self perpetuating threads". On 19 February 2009 ppy created the suggested subforum named "Forum Games/Random".
 
-The new subforum created a distinction that "General Discussion" is to be used for serious discussions while "Forum Games/Random" is to be used for forum games and non-serious discussions. Given the nature "Forum Games/Random" subforum, people would often interrupt games hosted with random conversations. On 2 Febuary 2010 "Forum Games/Random" was renamed to "Off-Topic" and the "Forum Games" subforum was created.
+The new subforum created a distinction that "General Discussion" is to be used for serious discussions while "Forum Games/Random" is to be used for forum games and non-serious discussions. Given the nature "Forum Games/Random" subforum, people would often interrupt games hosted with random conversations. On 2 February 2010 "Forum Games/Random" was renamed to "Off-Topic" and the "Forum Games" subforum was created.
 
 Two more subforum would later be created: "Mafia" subforum on 14 September 2011, and "Surveys" subforum on 5 March 2014.
 
@@ -21,7 +21,7 @@ Two more subforum would later be created: "Mafia" subforum on 14 September 2011,
 
 Given the nonsensical nature of OT, majority of threads and discussions carried out in the subforum are of very poor quality. Threads are rarely considered great, but when they are it is said to have reached valhalla.
 
-The term was first used by Ephemeral in the [ITT: We're Dirty](https://osu.ppy.sh/community/forums/topics/40298) thread, and subsequentially a few time after. Since then others people in the subforum have adopted the term.
+The term was first used by Ephemeral in the [ITT: We're Dirty](https://osu.ppy.sh/community/forums/topics/40298) thread, and subsequently a few time after. Since then others people in the subforum have adopted the term.
 
 #### Old Avatar Week
 
