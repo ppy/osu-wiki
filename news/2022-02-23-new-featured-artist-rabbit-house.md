@@ -12,7 +12,7 @@ You might not recognize our latest Featured Artist by their name, but you *defin
 
 Since that legendary beatmap was ranked a decade ago, **Rabbit House** has developed a musical skillset to match their rhythm game expertise. **Rabbit House**'s blood-pumping music recently made a splash in games like *Lanota* and *Arcaea*, and has finally come full-circle by returning officially to osu! as of today.
 
-We have **23** tracks, all available on [**Rabbit House**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/242). And if that weren't enough, one of them is being released exclusively on osu! too. Check them all out if you want to be a part of this beatmapper-turned-musician's story!
+We have **23** tracks, all available on [**Rabbit House**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/242). And if that wasn't enough, one of them is being released exclusively on osu! too. Check them all out if you want to be a part of this beatmapper-turned-musician's story!
 
 Haven't heard **Rabbit House**'s tunes before? The video below showcases an intersection between worlds: **Rabbit House**'s beatmap of their own song. Check it out along with the rest of the previews below:
 
