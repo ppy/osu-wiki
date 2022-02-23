@@ -69,7 +69,7 @@ The osu!mania 7K 2022 was run by the osu! team and various community members.
 | ![][flag_CO] | **Colombia** | **[xNett](https://osu.ppy.sh/users/4998501)**, [Hakure](https://osu.ppy.sh/users/5597043), [Temoote](https://osu.ppy.sh/users/10326318), [ag0](https://osu.ppy.sh/users/17989209) |
 | ![][flag_DK] | **Denmark** | **[Optane](https://osu.ppy.sh/users/7871427)**, [Stoom](https://osu.ppy.sh/users/13572493) |
 | ![][flag_EE] | **Estonia** | **[hisaella](https://osu.ppy.sh/users/9557847)**, [Arcaxio](https://osu.ppy.sh/users/16819909), [Exlude](https://osu.ppy.sh/users/14137067) |
-| ![][flag_FR] | **France** | **[Elementaires](https://osu.ppy.sh/users/2284328)**, [AntoAa](https://osu.ppy.sh/users/3897919), [Gray Hard Rock](https://osu.ppy.sh/users/9049282), [CharlisMadCut](https://osu.ppy.sh/users/2863607) |
+| ![][flag_FR] | **France** | **[Elementaires](https://osu.ppy.sh/users/2284328)**, [AntoAa](https://osu.ppy.sh/users/3897919), [Gray Hardrock](https://osu.ppy.sh/users/9049282), [CharlisMadCut](https://osu.ppy.sh/users/2863607) |
 | ![][flag_DE] | **Germany** | **[IceDynamix](https://osu.ppy.sh/users/8599070)**, [TsukiyaWhiskers](https://osu.ppy.sh/users/12598261), [Tyrfing61](https://osu.ppy.sh/users/7437049), [ElectroYan](https://osu.ppy.sh/users/3357640) |
 | ![][flag_HU] | **Hungary** | **[FR4-](https://osu.ppy.sh/users/10539285)**, [kacsa14](https://osu.ppy.sh/users/17385733) |
 | ![][flag_IN] | **India** | **[Xyphoes](https://osu.ppy.sh/users/12178324)**, [MrMaharaj](https://osu.ppy.sh/users/18364256) |
