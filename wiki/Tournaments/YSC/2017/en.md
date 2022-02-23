@@ -232,7 +232,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Days N' Daze - Misanthropic Drunken Loner (pishifat) [Extreme]](https://osu.ppy.sh/beatmapsets/442587#osu/951778)
   3. [Suzumu - Kakumeisei ousama densenbyou (tutuhaha) [AngelHoney's Extra]](https://osu.ppy.sh/beatmapsets/307686#osu/701528)
   4. [Razihel & Virtual Riot - One For All, All For One (Fort) [Together We've Fallen]](https://osu.ppy.sh/beatmapsets/275655#osu/625323)
-  5. [Luxion - High-Priestess (RikiH\_) [Sudden Death]](https://osu.ppy.sh/beatmapsets/93398#osu/258634)
+  5. [Luxion - High-Priestess (RikiH\_) [SuddenDeath]](https://osu.ppy.sh/beatmapsets/93398#osu/258634)
   6. [void feat. Komatsuna - Akatsuki no Tsuki (Cherry Blossom) [Skystar's Extreme]](https://osu.ppy.sh/beatmapsets/212387#osu/527704)
 - Hidden
   1. [MYTK - Yggdrasil (P o M u T a) [INFINITE]](https://osu.ppy.sh/beatmapsets/137973#osu/344715)

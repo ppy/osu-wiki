@@ -64,7 +64,7 @@ The osu!mania LN Tournament 2 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_TH] [MyZterioN-](https://osu.ppy.sh/users/8521723), ![][flag_PE] [DaZeRo5](https://osu.ppy.sh/users/6114633), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_ID] [Onta\_Bekasi](https://osu.ppy.sh/users/8677684), ![][flag_KR] [Sudden Death](https://osu.ppy.sh/users/6699923), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_KR] [bhop\_fury](https://osu.ppy.sh/users/9920067), ![][flag_PH] [Chuck](https://osu.ppy.sh/users/11517895), ![][flag_GB] [XxNewson1234xX](https://osu.ppy.sh/users/9895650), ![][flag_MX] [-Hellscythe-](https://osu.ppy.sh/users/7837147), ![][flag_TH] [RuleBlazing](https://osu.ppy.sh/users/7312402), ![][flag_US] [HeZeuS](https://osu.ppy.sh/users/7387788), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_RU] [X\_Devil](https://osu.ppy.sh/users/6694908) |
+| Top | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_TH] [MyZterioN-](https://osu.ppy.sh/users/8521723), ![][flag_PE] [DaZeRo5](https://osu.ppy.sh/users/6114633), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_ID] [Onta\_Bekasi](https://osu.ppy.sh/users/8677684), ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_KR] [bhop\_fury](https://osu.ppy.sh/users/9920067), ![][flag_PH] [Chuck](https://osu.ppy.sh/users/11517895), ![][flag_GB] [XxNewson1234xX](https://osu.ppy.sh/users/9895650), ![][flag_MX] [-Hellscythe-](https://osu.ppy.sh/users/7837147), ![][flag_TH] [RuleBlazing](https://osu.ppy.sh/users/7312402), ![][flag_US] [HeZeuS](https://osu.ppy.sh/users/7387788), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_RU] [X\_Devil](https://osu.ppy.sh/users/6694908) |
 | High | ![][flag_TH] [basicmaime](https://osu.ppy.sh/users/6537441), ![][flag_KR] [JhleeDreamTree](https://osu.ppy.sh/users/10001325), ![][flag_AR] [aluuu](https://osu.ppy.sh/users/4585260), ![][flag_GB] [xSnaggles](https://osu.ppy.sh/users/3799946), ![][flag_PL] [paprotkaaaa](https://osu.ppy.sh/users/7233032), ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_FI] [Oreo](https://osu.ppy.sh/users/5099222), ![][flag_MX] [Ghoul-](https://osu.ppy.sh/users/8859756), ![][flag_GB] [SoFast](https://osu.ppy.sh/users/6504254), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433), ![][flag_US] [BaniiYanii](https://osu.ppy.sh/users/11888159), ![][flag_NL] [2fast4you98](https://osu.ppy.sh/users/5183940), ![][flag_ID] [Reyi](https://osu.ppy.sh/users/13385865), ![][flag_RU] [fegasaren0133](https://osu.ppy.sh/users/8035172), ![][flag_BR] [Gabi Kamui](https://osu.ppy.sh/users/10658391), ![][flag_VN] [MashedPotato](https://osu.ppy.sh/users/10494860) |
 | Mid | ![][flag_RU] [gdfgdfgd](https://osu.ppy.sh/users/13894943), ![][flag_MY] [Blethz](https://osu.ppy.sh/users/11918602), ![][flag_KR] [NKEYBOARD](https://osu.ppy.sh/users/10132430), ![][flag_FR] [Ping36](https://osu.ppy.sh/users/9388217), ![][flag_FR] [DragonSonic](https://osu.ppy.sh/users/7294830), ![][flag_PL] [Mr\_adamello](https://osu.ppy.sh/users/7420894), ![][flag_KR] [pieerre](https://osu.ppy.sh/users/9201507), ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607), ![][flag_SG] [AdamAckerville](https://osu.ppy.sh/users/12297375), ![][flag_US] [\[GS\]Ery](https://osu.ppy.sh/users/9872668), ![][flag_RU] [FoXCHANNEL](https://osu.ppy.sh/users/8454236), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Hlimak](https://osu.ppy.sh/users/1340272), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_PL] [szuncoll](https://osu.ppy.sh/users/12393014) |
 | Low | ![][flag_KR] [VrChatGamer](https://osu.ppy.sh/users/14213383), ![][flag_AU] [HD\_AdreNaline](https://osu.ppy.sh/users/10540368), ![][flag_PH] [Eon Musk](https://osu.ppy.sh/users/12239110), ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035), ![][flag_PH] [Bentai Bosmic](https://osu.ppy.sh/users/6375534), ![][flag_AU] [DarkistDeci](https://osu.ppy.sh/users/13360768), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_TH] [GoDJI\_KunG](https://osu.ppy.sh/users/12852613), ![][flag_MX] [\[PTS\]HectorAF](https://osu.ppy.sh/users/12815564), ![][flag_GB] [yipyapyop](https://osu.ppy.sh/users/5156656), ![][flag_GB] [-Rain](https://osu.ppy.sh/users/12161151), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750), ![][flag_UY] [HopelessPlayer](https://osu.ppy.sh/users/12528267), ![][flag_TH] [shokoha](https://osu.ppy.sh/users/14134289), ![][flag_PL] [Rekon](https://osu.ppy.sh/users/2486125), ![][flag_GB] [Percyqaz](https://osu.ppy.sh/users/9218461) |
@@ -78,7 +78,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TH] [MyZterioN-](https://osu.ppy.sh/users/8521723) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] [Sudden Death](https://osu.ppy.sh/users/6699923) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923) |
 
 ## Mappools
 
@@ -240,7 +240,7 @@ Saturday, 1 August 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **MyZterion-** ![][flag_TH] | **7** | 6 | ![][flag_KR] Sudden Death | [#1](https://osu.ppy.sh/community/matches/64845024) |
+| **MyZterion-** ![][flag_TH] | **7** | 6 | ![][flag_KR] SuddenDeath | [#1](https://osu.ppy.sh/community/matches/64845024) |
 
 Sunday, 2 August 2020:
 
@@ -255,14 +255,14 @@ Saturday, 25 July 2020:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | HowToPlayLN ![][flag_TH] | 2 | **7** | ![][flag_KR] **bhop\_fury** | [#1](https://osu.ppy.sh/community/matches/64550316) |
-| **Sudden Death** ![][flag_KR] | **7** | 4 | ![][flag_US] Unholy | [#1](https://osu.ppy.sh/community/matches/64550219) |
+| **SuddenDeath** ![][flag_KR] | **7** | 4 | ![][flag_US] Unholy | [#1](https://osu.ppy.sh/community/matches/64550219) |
 
 Sunday, 26 July 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **cheewee10** ![][flag_MY] | **7** | 1 | ![][flag_TH] MyZterion- | [#1](https://osu.ppy.sh/community/matches/64581841) |
-| bhop\_fury ![][flag_KR] | 2 | **7** | ![][flag_KR] **Sudden Death** | [#1](https://osu.ppy.sh/community/matches/64585990) |
+| bhop\_fury ![][flag_KR] | 2 | **7** | ![][flag_KR] **SuddenDeath** | [#1](https://osu.ppy.sh/community/matches/64585990) |
 
 ### Semifinals
 
@@ -281,7 +281,7 @@ Sunday, 19 July 2020:
 | --: | :-: | :-: | :-- | :-- |
 | -Hellscythe- ![][flag_MX] | 2 | **6** | ![][flag_KR] **bhop\_fury** | [#1](https://osu.ppy.sh/community/matches/64278677) |
 | **cheewee10** ![][flag_MY] | **6** | 2 | ![][flag_TH] HowToPlayLN | [#1](https://osu.ppy.sh/community/matches/64285674) |
-| Sudden Death ![][flag_KR] | -1 | **0** | ![][flag_TH] **MyZterion-** | *win by default* |
+| SuddenDeath ![][flag_KR] | -1 | **0** | ![][flag_TH] **MyZterion-** | *win by default* |
 | **Unholy** ![][flag_US] | **0** | -1 | ![][flag_PE] DaZeRo5 | *win by default* |
 
 ### Quarterfinals
@@ -298,7 +298,7 @@ Saturday, 11 July 2020:
 | --: | :-: | :-: | :-- | :-- |
 | Amascite ![][flag_GB] | -1 | **0** | ![][flag_US] **HeZeuS** | *win by default* |
 | **XxNewson1234xX** ![][flag_GB] | **5** | 0 | ![][flag_NL] 2fast4you98 | [#1](https://osu.ppy.sh/community/matches/63968468) |
-| andreymc ![][flag_BR] | 2 | **5** | ![][flag_KR] **Sudden Death** | [#1](https://osu.ppy.sh/community/matches/63968385) |
+| andreymc ![][flag_BR] | 2 | **5** | ![][flag_KR] **SuddenDeath** | [#1](https://osu.ppy.sh/community/matches/63968385) |
 | **Chuck** ![][flag_PH] | **0** | -1 | ![][flag_MX] Ghoul- | *win by default* |
 | **bhop\_fury** ![][flag_KR] | **5** | 1 | ![][flag_TH] RuleBlazing | [#1](https://osu.ppy.sh/community/matches/63970446) |
 | aluuu ![][flag_AR] | -1 | **0** | ![][flag_GB] **xSnaggles** | *win by default* |
@@ -348,7 +348,7 @@ Sunday, 5 July 2020:
 | --: | :-: | :-: | :-- | :-- |
 | **MyZterion-** ![][flag_TH] | **0** | -1 | ![][flag_AR] aluuu | *win by default* |
 | **cheewee10** ![][flag_MY] | **5** | 2 | ![][flag_TH] basicmaime | [#1](https://osu.ppy.sh/community/matches/63728459) |
-| **Sudden Death** ![][flag_KR] | **5** | 0 | ![][flag_PH] Chuck | [#1](https://osu.ppy.sh/community/matches/63729588) |
+| **SuddenDeath** ![][flag_KR] | **5** | 0 | ![][flag_PH] Chuck | [#1](https://osu.ppy.sh/community/matches/63729588) |
 | **Gabi Kamui** ![][flag_BR] | **0** | -1 | ![][flag_KR] JhleeDreamTree | *win by default* |
 | NKEYBOARD ![][flag_KR] | 2 | **5** | ![][flag_SG] **AdamAckerville** | [#1](https://osu.ppy.sh/community/matches/63734875) |
 | **2fast4you98** ![][flag_NL] | **5** | 1 | ![][flag_PL] paprotkaaaa | [#1](https://osu.ppy.sh/community/matches/63735587) |
@@ -396,7 +396,7 @@ Sunday, 28 June 2020:
 | --: | :-: | :-: | :-- | :-- |
 | **Logan636** ![][flag_US] | **4** | 0 | ![][flag_KR] JhleeDreamTree | [#1](https://osu.ppy.sh/community/matches/63463975) |
 | **MyZterioN-** ![][flag_TH] | **4** | 0 | ![][flag_KR] NKEYBOARD | [#1](https://osu.ppy.sh/community/matches/63468762) |
-| **Sudden Death** ![][flag_KR] | **4** | 1 | ![][flag_FR] ZayyKen | [#1](https://osu.ppy.sh/community/matches/63473237) |
+| **SuddenDeath** ![][flag_KR] | **4** | 1 | ![][flag_FR] ZayyKen | [#1](https://osu.ppy.sh/community/matches/63473237) |
 | X\_Devil ![][flag_RU] | 1 | **4** | ![][flag_TH] **basicmaime** | [#1](https://osu.ppy.sh/community/matches/63473213) |
 | **DaZeRo5** ![][flag_PE] | **0** | -1 | ![][flag_ID] Reyi | *win by default* |
 | **bhop\_fury** ![][flag_KR] | **4** | 2 | ![][flag_MX] Ghoul- | [#1](https://osu.ppy.sh/community/matches/63474931) |
@@ -445,7 +445,7 @@ Sunday, 21 June 2020:
 | **JhleeDreamTree** ![][flag_KR] | **4** | 0 | ![][flag_NZ] Sparxe | [#1](https://osu.ppy.sh/community/matches/63199524) |
 | **MyZterioN-** ![][flag_TH] | **4** | 0 | ![][flag_TH] shokoha | [#1](https://osu.ppy.sh/community/matches/63199385) |
 | **XxNewson1234xX** ![][flag_GB] | **0** | -1 | ![][flag_AU] DarkistDeci | *win by default* |
-| **Sudden Death** ![][flag_KR] | **4** | 0 | ![][flag_GB] yipyapyop | [#1](https://osu.ppy.sh/community/matches/63202337) |
+| **SuddenDeath** ![][flag_KR] | **4** | 0 | ![][flag_GB] yipyapyop | [#1](https://osu.ppy.sh/community/matches/63202337) |
 | **ZayyKen** ![][flag_FR] | **4** | 0 | ![][flag_KR] pieerre | [#1](https://osu.ppy.sh/community/matches/63202457) |
 | **Onta\_Bekasi** ![][flag_ID] | **0** | -1 | ![][flag_GB] -Rain | *win by default* |
 | **Gabi Kamui** ![][flag_BR] | **4** | 1 | ![][flag_MY] Blethz | [#1](https://osu.ppy.sh/community/matches/63204032) |
@@ -466,7 +466,7 @@ Sunday, 21 June 2020:
 | #4 | ![][flag_PE] [DaZeRo5](https://osu.ppy.sh/users/6114633) | 16 |
 | #5 | ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600) | 18 |
 | #6 | ![][flag_ID] [Onta\_Bekasi](https://osu.ppy.sh/users/8677684) | 19 |
-| #6 | ![][flag_KR] [Sudden Death](https://osu.ppy.sh/users/6699923) | 19 |
+| #6 | ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923) | 19 |
 | #8 | ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414) | 23 |
 | #9 | ![][flag_KR] [bhop\_fury](https://osu.ppy.sh/users/9920067) | 26 |
 | #10 | ![][flag_PH] [Chuck](https://osu.ppy.sh/users/11517895) | 38 |

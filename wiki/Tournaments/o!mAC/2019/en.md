@@ -126,7 +126,7 @@ The osu!mania Asian's Champions 2019 was run by various community members.
 - ![][flag_KR] [popomon](https://osu.ppy.sh/users/1149319)
 - ![][flag_KR] [potato772002](https://osu.ppy.sh/users/10333273)
 - ![][flag_KR] [rlarkgus](https://osu.ppy.sh/users/4270732)
-- ![][flag_KR] [Sudden Death](https://osu.ppy.sh/users/6699923)
+- ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923)
 - ![][flag_VN] [Suus](https://osu.ppy.sh/users/21183795)
 - ![][flag_KR] [TheFirstSnow](https://osu.ppy.sh/users/2490895)
 - ![][flag_KR] [VrChatGamer](https://osu.ppy.sh/users/14213383)

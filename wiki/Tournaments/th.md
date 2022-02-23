@@ -382,7 +382,7 @@ osu! World Cup นั้นจะแบ่งทีมเป็นประเ�
 | ชื่อ | เริ่มต้น | จบ | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania LN Tournament](o!mLN/1) | 2019-03-23 | 2019-05-04 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) | ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035) |
-| [osu!mania LN Tournament 2](o!mLN/2) | 2020-06-13 | 2020-08-02 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | ![][flag_TH] [MyZterioN-](https://osu.ppy.sh/users/8521723) | ![][flag_KR] [Sudden Death](https://osu.ppy.sh/users/6699923) |
+| [osu!mania LN Tournament 2](o!mLN/2) | 2020-06-13 | 2020-08-02 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | ![][flag_TH] [MyZterioN-](https://osu.ppy.sh/users/8521723) | ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923) |
 
 ### ![](/wiki/shared/mode/mania.png) Mania Beginner's Showdown
 

@@ -151,7 +151,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Gunther - Ding Dong Song (osuplayer111) [oSuPlaYeR mIX]](https://osu.ppy.sh/beatmapsets/5709#osu/27447)
   3. [Hatsune Miku - Still Alive (James) [Hard]](https://osu.ppy.sh/beatmapsets/2194#osu/19029)
   4. [NicoNicoDouga - Cirno de Gozaimasu! (Mafiamaster) [Hard]](https://osu.ppy.sh/beatmapsets/3367#osu/21577)
-  5. [Queen - Don't Stop Me Now (m980) [Hard Rock!]](https://osu.ppy.sh/beatmapsets/5381#osu/26547)
+  5. [Queen - Don't Stop Me Now (m980) [Hard ROCK!]](https://osu.ppy.sh/beatmapsets/5381#osu/26547)
 - FreeMod
   1. [Chatmonchy - Make Up! Make Up! (peppy) [Hard]](https://osu.ppy.sh/beatmapsets/184#osu/8708)
   2. [Foo Fighters - The Pretender (Doomsday93) [Hard]](https://osu.ppy.sh/beatmapsets/5648#osu/27339)
