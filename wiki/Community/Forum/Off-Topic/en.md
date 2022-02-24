@@ -6,7 +6,7 @@
 
 The [General Discussion](https://osu.ppy.sh/community/forums/7) subforum initially hosted any gameplay unrelated topic the people wanted to talk about. As forum games started polluting the subforum, people suggested making a separate subforum for "self perpetuating threads" [[1]](#references). On 19 February 2009 [peppy](/wiki/People/peppy) created the suggested subforum named *Forum Games/Random* [[2]](#references) [[3]](#references).
 
-The new subforum created a distinction that *General Discussion* is to be used for serious discussions while *Forum Games/Random* is to be used for forum games and non-serious discussions. Given the nature of the *Forum Games/Random* subforum, people would often interrupt games hosted with random conversations [[4]](#references). On 2 February 2010, "Forum Games/Random" was renamed to *Off-Topic* and the *Forum Games* subforum was created [[5]](#references).
+The new subforum created a distinction that *General Discussion* is to be used for serious discussions while *Forum Games/Random* is to be used for forum games and non-serious discussions. Given the nature of the *Forum Games/Random* subforum, people would often interrupt games hosted with random conversations [[4]](#references). On 2 February 2010, *Forum Games/Random* was renamed to *Off-Topic* and the *Forum Games* subforum was created [[5]](#references).
 
 Two more subforum would later be created: *Mafia* subforum on 14 September 2011, and *Surveys* subforum on 5 March 2014.
 
