@@ -54,7 +54,7 @@ Moreover, - 『Wintherest』 - not only keeps its minimalist and modern look con
 
 <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/8_UWmCKCTfc" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- 『Wintherest』 - sure did win over the rest, and for that Redo\_ gets a reward fit for a champion, a profile badge featuring the very logo of their own masterpiece! Big congratulations to Redo\_!
+\- 『Wintherest』 - sure did win over the rest, and for that Redo\_ gets a reward fit for a champion, a profile badge featuring the very logo of their own masterpiece! Big congratulations to Redo\_!
 
 ![](/wiki/shared/news/2022-02-25-skinning-contest-tides-of-winter-results/wintherest.png)
 
