@@ -17,7 +17,7 @@ The **Skinning Contest #2: Tides of Winter** is a free-for-all osu! skinning con
 | --: | :-- |
 | Announcement | 2021-12-02 |
 | Submission phase | 2021-12-02/2022-01-09 |
-| Voting phase |  2022-01-16/2022-01-30|
+| Voting phase |  2022-01-16/2022-01-30 |
 | Results | 2022-02-25 |
 
 ## Prizes
