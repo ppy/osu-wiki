@@ -22,7 +22,7 @@ The song selection menu greets us with a texture filled with mountains everywher
 
 <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/Za27g2rzhOc" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Having snowy mountains and shiny stars meet at the horizon, thetasigma gets to achieve the 3rd place profile badge with their Azure Snowfall entry! Much congratz!
+Having snowy mountains and shiny stars meet at the horizon, thetasigma gets to achieve the 3rd place profile badge with their Azure Snowfall entry! Congratulations!
 
 ![](/wiki/shared/news/2022-02-25-skinning-contest-tides-of-winter-results/azure.png)
 
