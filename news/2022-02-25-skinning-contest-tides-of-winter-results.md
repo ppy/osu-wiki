@@ -8,7 +8,7 @@ As the Winter season gradually wraps up, the results of the coldest skinning con
 
 ![](/wiki/shared/news/2022-02-25-skinning-contest-tides-of-winter-results/banner.jpg)
 
-No matter how well the tides of Winter were represented throughout all **17** skins, we required your votes to elect the most wintry ones. It must have been a bitter choice, yet you managed to throw your *snowballots* right back at us. Little did we expect was a total of **17674** frosty votes sent away by **6946** unique users hitting our front yard like an avalanche!
+No matter how well the tides of Winter were represented throughout all **17** skins, we required your votes to elect the most wintry ones. It must have been a bitter choice, yet you managed to throw your *snowballots* right back at us. Little did we expect a total of **17674** frosty votes sent away by **6946** unique users hitting our front yard like an avalanche!
 
 Naturally, it took us a bit of time to count all the votes, make necessary preparations for the announcement and, you know, plough the snow on our yard. At last, we are ready to declare the results!
 
@@ -30,9 +30,9 @@ Having snowy mountains and shiny stars meet at the horizon, thetasigma gets to a
 
 **2006** voters chose none other than this tech-style masterpiece delicately crafted by the very hands of [BPChingu](https://osu.ppy.sh/users/4236855), [GanyuTeks:Futur Céleste](https://osu.ppy.sh/community/forums/topics/1489926), reserving them 2nd place on the podium!
 
-As the name might suggest, GanyuTeks:Futur Céleste is heavily inspired by the renowned Genshin Impact character, Ganyu, and locates her into a futuristic theme masterfully. With the snowfall effects alongside Ganyu, who is also known for her associations with the Cryo element in-game, the skin is as much icy as it is minimalistic and futuristic. More importantly, what keeps all that ahold is, without a doubt, the perfect colour palette choice.
+As the name might suggest, GanyuTeks:Futur Céleste is heavily inspired by the renowned Genshin Impact character, Ganyu, and locates her into a futuristic theme masterfully. With the snowfall effects alongside Ganyu, who is also known for her association with the Cryo element in-game, the skin is as much icy as it is minimalistic and futuristic. More importantly, what keeps all that together is, without a doubt, the perfect colour palette choice.
 
-Within the details there lies certain textual easter-eggy touches, most of which inform the user about hotkeys and functions, while others carry out background information regarding our fellow Genshin character. From the use of speech bubbles and rectangular layouts to the futuristic lines and notations, the skin gives the impression that as if the player is looking through a visor. In any case, if you are fond of Genshin Impact and you would like to have Ganyu assist you on osu! as well, GanyuTeks:Futur Céleste is the perfect skin for you!
+Within the details there lies certain textual easter-eggy touches, most of which inform the user about hotkeys and functions, while others carry background information regarding Ganyu. From the use of speech bubbles and rectangular layouts to the futuristic lines and notations, the skin gives the impression that the player is looking through a visor. In any case, if you are fond of Genshin Impact and you would like to have Ganyu assist you on osu! as well, GanyuTeks:Futur Céleste is the perfect skin for you!
 
 <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/jpK7wINmCGA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -60,7 +60,7 @@ With their - 『Wintherest』 - entry, Redo\_ gets the reward fit for a champion
 
 Be sure to have a look at the complete list of [Skinning Contest: Tides of Winter results](https://osu.ppy.sh/community/contests/137) to see how many votes your favourites gathered.
 
-It has been a great pleasure for us to host the sequel to the osu! Skinning Contest during this Winter, with additional ice cubes! We would like to thank the contestants for putting up with the challenge, and those following the contest till the very end for their endearing interest. If you have any positive or negative feedback for next iterations, feel free to share with us through the comment section below or via joining the [skinship Discord server](https://discord.skinship.xyz)!
+It has been a great pleasure for us to host the sequel to the osu! Skinning Contest during this Winter, with additional ice cubes! We would like to thank the contestants for putting up with the challenge, and those following the contest till the very end for their endearing interest. If you have any positive or negative feedback for next iterations, feel free to share them with us through the comment section below or by joining the [skinship Discord server](https://discord.skinship.xyz)!
 
 Time to *sleigh* goodbye!
 
