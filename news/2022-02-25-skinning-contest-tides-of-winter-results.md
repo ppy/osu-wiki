@@ -4,7 +4,7 @@ title: "Skinning Contest: Tides of Winter - Results"
 date: 2022-02-25 12:00:00 +0000
 ---
 
-As the Winter season gradually wraps up, the results of the chilliest skinning contest to date arrive at your doorstep warmer than ever!
+As the winter season gradually wraps up, the results of the chilliest skinning contest to date arrive at your doorstep warmer than ever!
 
 ![](/wiki/shared/news/2022-02-25-skinning-contest-tides-of-winter-results/banner.jpg)
 
