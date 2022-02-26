@@ -53,7 +53,7 @@ Despite the majority of OT being nonsense and miscellaneous content of unimporta
 
 This series of threads is a great way to get a sense of the highs and lows of OT without seeing most of the nonsense.
 
-https://osu.ppy.sh/community/forums/posts/5942617
+<https://osu.ppy.sh/community/forums/posts/5942617>
 
 ### OT COURT II: A-Breaking Laboratory & R.O.S.Q. vs Asht. Co
 
@@ -63,7 +63,7 @@ OT Court is OT Lore material involving a detailed imitation of an actual trial. 
 
 ### Tad the Tadpole
 
-This is a joke thread turned in OT Lore material. It is a great example of how denizens can create jokes threads about each other and then proceed to build narrative off the resulting interactions. It also demonstrate the unpredictable nature of how threads evolve and the nonsensical randomness that may come out of it.
+This is a joke thread that has developed into OT Lore material. It is a great example of how denizens can create jokes threads about each other and then proceed to build narrative off the resulting interactions. It also demonstrate the unpredictable nature of how threads evolve and the nonsensical randomness that may come out of it.
 
 <https://osu.ppy.sh/community/forums/posts/7126163>
 
