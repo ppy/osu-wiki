@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 9b7428d718587f9fea31c773261ec4b724b52ac2
 layout: main_page
 no_native_review: true
 ---
@@ -101,16 +103,16 @@ Ranking 指的是让谱面获得排行榜功能，从而为众人所知的过程
 
 [项目](/wiki/Community/Projects)：[精选艺术家](/wiki/Featured_Artists) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu!学院](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
+组织：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# 人员
+# [人员](/wiki/People)
 
 没有众多成员帮助开发、维护、管理社区，osu! 很难走到今天，正是他们的辛劳付出让 osu! 生机蓬勃。
 
 [团队](/wiki/People/The_Team)：[开发团队](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [支持团队](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [名人堂](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
-
-组织：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [社区贡献者](/wiki/People/Community_Contributors) • [拥有特殊头衔的玩家](/wiki/People/Users_with_unique_titles)
 

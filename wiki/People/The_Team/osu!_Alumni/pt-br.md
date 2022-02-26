@@ -188,6 +188,7 @@ A [página de grupo dos osu! Alumni](https://osu.ppy.sh/groups/16) listam todos 
 | ![][flag_CO] [Sakura](https://osu.ppy.sh/users/289422) | BAT, GMT |
 | ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) | BAT |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | BAT |
+| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | NAT |
 | ![][flag_US] [Seibei4211](https://osu.ppy.sh/users/31537) | BAT |
 | ![][flag_MD] [senaya](https://osu.ppy.sh/users/304103) | Moderador de chat |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | NAT |
@@ -198,6 +199,7 @@ A [página de grupo dos osu! Alumni](https://osu.ppy.sh/groups/16) listam todos 
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | GMT |
 | ![][flag_US] [Skyripper](https://osu.ppy.sh/users/31803) | GMT |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | GMT |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | NAT |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | QAT, NAT |
 | ![][flag_US] [Starrodkirby86](https://osu.ppy.sh/users/410) | BAT |
 | ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) | QAT |
@@ -256,6 +258,7 @@ A [página de grupo dos osu! Alumni](https://osu.ppy.sh/groups/16) listam todos 
 [flag_CO]: /wiki/shared/flag/CO.gif "Colômbia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
 [flag_DO]: /wiki/shared/flag/DO.gif "República Dominicana"
+[flag_DZ]: /wiki/shared/flag/DZ.gif "Argélia"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espanha"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlândia"
 [flag_FR]: /wiki/shared/flag/FR.gif "França"
