@@ -4,9 +4,9 @@
 
 ## History
 
-The [General Discussion](https://osu.ppy.sh/community/forums/7) subforum initially hosted any topic unrelated to gameplay that people wanted to talk about. As forum games started polluting the subforum, people suggested making a separate subforum for "self perpetuating threads" [[1]](#references). On 19 February 2009, [peppy](/wiki/People/peppy) created the suggested subforum named *Forum Games/Random* [[2]](#references) [[3]](#references).
+The [General Discussion](https://osu.ppy.sh/community/forums/7) subforum initially hosted any topic unrelated to gameplay that people wanted to talk about. As forum games started polluting the subforum, people suggested making a separate subforum for "self perpetuating threads" [[1]][r]. On 19 February 2009, [peppy](/wiki/People/peppy) created the suggested subforum named *Forum Games/Random* [[2]][r] [[3]][r].
 
-The new subforum created a distinction that *General Discussion* is to be used for serious discussions while *Forum Games/Random* is to be used for forum games and non-serious discussions. Given the nature of the *Forum Games/Random* subforum, people would often interrupt games hosted with random conversations [[4]](#references). On 2 February 2010, *Forum Games/Random* was renamed to *Off-Topic* and the *Forum Games* subforum was created [[5]](#references).
+The new subforum created a distinction that *General Discussion* is to be used for serious discussions while *Forum Games/Random* is to be used for forum games and non-serious discussions. Given the nature of the *Forum Games/Random* subforum, people would often interrupt games hosted with random conversations [[4]][r]. On 2 February 2010, *Forum Games/Random* was renamed to *Off-Topic* and the *Forum Games* subforum was created [[5]][r].
 
 Two more subforums would later be created: *Mafia* on 14 September 2011, and *Surveys* on 5 March 2014.
 
@@ -24,9 +24,9 @@ The term was first used by [Ephemeral](https://osu.ppy.sh/users/102335) in the [
 
 ### Dancing anime girls
 
-People in the early Off-Topic days occasionally created threads dedicated to dancing anime girls. If a thread was bad, then posting a few dancing anime girls made it better. When people started making threads about quitting OT and actually not quitting, people took that as attention-grabbing and posted dancing anime girls to change the thread's topic. Posting dancing anime girls on any goodbye or welcome thread eventually became the common thing to do, and thus solidifying it as tradition [[6]](#references).
+People in the early Off-Topic days occasionally created threads dedicated to dancing anime girls. If a thread was bad, then posting a few dancing anime girls made it better. When people started making threads about quitting OT and actually not quitting, people took that as attention-grabbing and posted dancing anime girls to change the thread's topic. Posting dancing anime girls on any goodbye or welcome thread eventually became the common thing to do, and thus solidifying it as tradition [[6]][r].
 
-On 9 June 2017, [Ephemeral](https://osu.ppy.sh/users/102335) asserted a slightly different version of the tradition into the [Off-Topic rules](https://osu.ppy.sh/community/forums/topics/604424) by requiring people to post no less than 3 dancing anime girls on birthday threads. This made its way to osu!'s official rules [[7]](#references) up until 11 November 2019, when it was removed in a [cleanup effort](https://github.com/ppy/osu-wiki/pull/2655), but it still stands in the Off-Topic subforum's rules.
+On 9 June 2017, [Ephemeral](https://osu.ppy.sh/users/102335) asserted a slightly different version of the tradition into the [Off-Topic rules](https://osu.ppy.sh/community/forums/topics/604424) by requiring people to post no less than 3 dancing anime girls on birthday threads. This made its way to osu!'s official rules [[7]][r] up until 11 November 2019, when it was removed in a [cleanup effort](https://github.com/ppy/osu-wiki/pull/2655), but it still stands in the Off-Topic subforum's rules.
 
 
 ### Exile
@@ -84,3 +84,5 @@ OT Lore material that creates an interesting improvised narrative involving a me
 5. [People's reactions to the Off-Topic subforum change](https://osu.ppy.sh/community/forums/posts/316732)
 6. [abraker's research regarding the dancing anime girl birthday thread tradition](https://osu.ppy.sh/community/forums/topics/1525770)
 7. [Aug 17 2022 capture of osu!'s official rules](http://web.archive.org/web/20170817161329/http://osu.ppy.sh/help/wiki/Rules)
+
+[r]: #references
