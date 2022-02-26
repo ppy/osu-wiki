@@ -68,7 +68,7 @@ This is a joke thread that has developed into OT Lore material. It is a great ex
 
 ### Testing
 
-OT Lore material that creates an interesting improvised narrative involving a mega-teletubby god that wrecks havoc upon OT and denizen efforts to destroy it.
+This is one of several role-playing threads created as a result of OT Lore, that creates an interesting improvised narrative involving a mega-teletubby god that wrecks havoc upon OT and denizen efforts to destroy it.
 
 <https://osu.ppy.sh/community/forums/posts/7549082>
 
