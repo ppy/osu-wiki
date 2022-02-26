@@ -29,14 +29,14 @@ needs_cleanup: true
 你可以试着沉浸在歌曲中，并想象出歌曲的结构。在想象时，可以参考常见的节拍细分（4/4 拍）。歌曲的结构确定了物件所在的位置，而物件间的距离由歌曲的 BPM 决定（更高的 BPM 代表一拍或一小节的时间更短）。这也能在编辑器上部的可视化时间轴看见。
 第一条红线的偏移量 (offset) 即歌曲的第一拍与 .mp3 文件头部之间相隔的时间。参见：[维基百科*节奏*](https://zh.wikipedia.org/wiki/%E8%8A%82%E5%A5%8F)
 
-多听歌曲，你就能找到歌曲的主体节奏，然后准确地测定出时间轴。编辑器能自动计算已对齐物件之间相隔的时间。而且在作图之前，我们只需要测定准确的 BPM 和设置准确的节奏类型。
+多听歌曲，你就能找到歌曲的主体节奏，然后准确地测定出时间轴。编辑器能自动计算已对齐物件之间相隔的时间。而且在作图之前，我们只需要测定准确的 BPM 和设置准确的拍子记号。
 
 简而言之，步骤是：
 
 1. 测出 BPM 和 offset 的近似值。
 2. 尽可能精细地调节 offset，让红线对齐歌曲的第一拍。
 3. 调节 BPM。
-4. 设置准确的节奏类型（4/4 拍或者 3/4 拍，但通常是 4/4）。
+4. 设置准确的拍子记号（4/4 拍或者 3/4 拍，但通常是 4/4）。
 5. 测试谱面。如需要，重复第 2 步和第 3 步。
 
 ### 测定每分钟节拍数 (BPM) 和 偏移量 (offset)
@@ -105,19 +105,19 @@ needs_cleanup: true
 
 若以上的标记仅仅出现一两个，则可以尝试忽略。但如果标记大量出现，则需要更细致的时间轴测定或是使用多条红线测定。
 
-### 设置节奏类型
+### 设置拍子记号
 
 歌曲由许多重复的段落（小节）组成。这些重复的段落拥有相同的节奏构成方式（如动次打次）。你也可以参考[维基百科*拍子记号*](https://en.wikipedia.org/wiki/Time_signature)或者 [Alace 的讨论串](https://osu.ppy.sh/community/forums/topics/20998)获取更多信息。
 
 首先，找到这些小节内最重的那一拍（又称为[下拍](/wiki/Downbeat)）。下拍附近的鼓点通常都会很重，歌手也会唱得卖力些。第一个下拍通常和第一条红线重合。若不是，则需要移动 offset 来对齐。osu! 首页的脉冲特效、kiai 闪烁方式、NC Mods 附加音效的正常工作都需要谱面的红线完全对齐下拍。
 
-然后我们即可设置节奏类型了。此时。编辑器右上的节拍器最左边的方框总会在下拍的位置闪烁。如果不是，则需要去测定时间轴菜单设置节奏类型。
+然后我们即可设置拍子记号了。此时。编辑器右上的节拍器最左边的方框总会在下拍的位置闪烁。如果不是，则需调整。
 
-编辑器内有这几种基础节奏类型：
+编辑器内有这几种基础拍子记号：
 
 - **4/4** 又称为四四拍（强弱弱弱）。有时也称为常规拍子（因为多数歌都使用它）。
 - **3/4** 又称为四三拍（强弱弱）。有时也称为华尔兹拍子。
-- **\#/4** （\# 可为任何正整数）又称为“奇异拍子”。这种节奏类型*非常特殊*而且很少用于普通的歌曲。请谨慎使用这种节奏类型，除非歌曲支持而且你有足够的乐理知识作参考。
+- **\#/4** （\# 可为任何正整数）又称为“奇异拍子”。这种拍子记号*非常特殊*而且很少用于普通的歌曲。请谨慎使用这种拍子记号，除非歌曲支持而且你有足够的乐理知识作参考。
 
 ### 测试
 
@@ -136,7 +136,7 @@ needs_cleanup: true
 
 ![测试模式](img/Editor_TestMode.jpg "测试模式")
 
-请在持续击打出完美评价的同时注意左上角的测试窗口。其中有一行为：**Mistimed Hits: 69% (ave 25ms late).** \[Refer picture\]
+请在持续击打出完美评价的同时注意左上角的测试窗口。其中有一行文字显示为：**Mistimed Hits: 69% (ave 25ms early).**
 
 - 第一个百分比表示了不完美击打的比例。
   - 请务必将此值降低到 5% 以下。
@@ -149,73 +149,55 @@ needs_cleanup: true
 
 切记在调节完 offset 时勾选“更改 offset / BPM 时，自动把已经放好的物件对齐时间轴刻度”选项。否则测试物件仍会对齐在老旧的时间轴上。在几轮测试完成后，平均偏差读数稳定在 ​​~5ms 以下就说明已经对准了。
 
+最后，检查你的谱面开头和结尾。如果均对齐，且在测试模式里不完美击打的比例低于 5%，则说明时间轴已经测量好了。除此之外，你可能需要其他玩家复查谱面时间轴，特别是如果你对部分时间轴的精度不太确定，那么更需要其他人的复查。
+
 ## 多红线测定
 
 ### 序言
 
-有时候，单根红线无法满足测量时间轴的需求（如这些谱面：[Bad Apple](https://osu.ppy.sh/beatmapsets/64780)、）
-There are situations when one red bar is not enough (some example will be [Bad Apple](https://osu.ppy.sh/beatmapsets/64780), 
-[DJ Amuro's A](https://osu.ppy.sh/beatmapsets/20841) or [kemu's Ikasama Life Game](https://osu.ppy.sh/beatmapsets/183240)). 
-Admit it, it can range from hardrock, metal, any guitar compositions, concerts, live performances, songs with audible 
-acceleration/deceleration/pause ([Black∞Hole's Pluto](https://osu.ppy.sh/beatmapsets/147406)) and so on. 
-Even by using the metronome, certain parts of a song (likely on the climax or ending section) 
-it no longer snaps into the previous rhythm. The song's tempo suddenly bumps up/down a notch, 
-the singer suddenly starts singing frantically/melodically and goes off, and the musical instruments are played extensively/acoustically. 
-In this scenario, shifting or changing the first red bar to fit the tempo will not help.
+有时候，一根红线不足以反映出歌曲时间轴的全貌（如这些谱面：[Bad Apple](https://osu.ppy.sh/beatmapsets/64780)、[DJ Amuro's A](https://osu.ppy.sh/beatmapsets/20841)、[kemu's Ikasama Life Game](https://osu.ppy.sh/beatmapsets/183240)）。硬摇滚 (Hard Rock)、金属乐、吉他弹唱、音乐会、现场演奏歌曲，或是歌曲加速，减速和休止等等都可能含有比较复杂的时间轴。即使全歌大部分都贴合在单一红线的时间轴上，部分片段（高潮段或结尾段）也可能不会贴合到时间轴上。歌手歌唱、乐器演奏时都带有一定的随机性。简单地调节歌曲第一条红线可能不会起什么作用。
 
-You can ask for help from others on this, but there are only few people who *know* how to identify and work with multi-timing. Moreover, people will not help you if you don't make an effort on your beatmap or don't seem to be worth their time. You can do this yourself if you have a lot of experience and/or a pretty good accuracy, and are able to hit the notes correctly. This is vital, because you'll have to do lots of test plays, and mistimed hits will make it frustrating to the player.
+你可以请求擅长测定复杂时间轴玩家的帮助。但是这类玩家基数很小。更多地，如果你对你的谱面投入很少，谱面难以过审上架或是他们觉得不值得投入太多精力，他们可能不愿意帮助你。如果你拥有足够的打图经验，打图准确率很高，你可以自己尝试着去测量。此时，在打图方面拥有高准确率很重要，因为如果你的打图准确率不高，多次测试得出的时间轴往往与实际相差甚远，最后完成的谱面也大概率会误导玩家。
 
-### What do I do?
+### 我该怎么做？
 
-To start, listen and find all the places where the rhythm changes (metronome usage is optional) and properly reflect this into the editor, and add new uninherited timing points with correct offsets and BPMs where appropriate. To do this, we will utilise the following plan:
+首先，尝试反复聆听并找出歌曲内所有可能的 BPM 变化的位置（可以尝试使用节拍器），在合适时即可添加额外的红线来修正段落的 BPM 和 offset。你可以尝试以下的方案：
 
-1. Make sure that the parameters (BPM and offset) of the current point are shown in the timeline;
-2. While testplaying, keep an eye on hit error. When it starts to change, stop;
-3. Test your "map" several times near that point. If you see the same picture of hit error increasing, then test a little bit more;
-   - If there is a noticeable shift in tempo and it is **not** a result of early/late hit, add a new offset (aka time pointer to override base) and shift it by an appropriate number of milliseconds (hit error will tell);
-   - If there is no shift, but you see that the error starts to increase, as if you set wrong BPM (except that it was fine all the way before getting to that point), add a new uninherited offset and alter its BPM. Do this at the Timing tab. (F3) That is, use the osu!metronome and try to catch a change, then test it like a normal single offset. Unlike traditional and monotonous songs, the new BPM value may differ from the average one. The important thing is to determine it as accurately as possible.
-4. After doing some timing changes, you need to resnap all the notes according to the new timing sheet for testing. This is done through the top menu: Timing → Resnap All Notes. Then, you have to manually check all the notes, and do some testplay to see errors on note misplacement/mistiming;
-5. Test once more to make sure the timing sounds right. If a problem arises, take it from the top.
+1. 确保当前段落的 BPM 和 offset 已经大约测定好。
+2. 尽可能将 osu! 的帧率调至最高（使用 optimal 或无限制选项，而不是 power saving）。低帧率下，25% 播放速率可能会带来不必要的延迟从而影响时间轴测定。
+3. 按下空格，以较低的播放速率播放歌曲。当听到某一拍与编辑器内的节拍器嘀嗒声明显错位时，停止。往回倒一段时间（一拍以上即可），重新播放。找出刚开始错位的那一拍。
+4. 在错位拍前和之前红线准确贴合的这一拍插入一根红线，根据错位的类型（歌曲节拍先于编辑器节拍器嘀嗒声或是后于嘀嗒声）微调红线的参数 （BPM 和 offset），再次重放这一段，确保红线之后的一拍刚好和之前错位的节拍对齐。
+5. 重复第 3 步和第 4 步，直至整首歌曲测定完毕或是与其后稳定 BPM 的段落相接。
+6. 进入测试模式测试谱面，找出偏移明显变化的段落，修正后继续检查。
 
-These steps should be repeated until the end of the song. As output, we get the timeline with red bars on it. Depending on the song, there may be many, many bars (however, "more bars" does not always mean "better timing"). If done correctly, then the current timing is decent for mapping/ranking. You can (and should!) request timing checks from others if you want.
+以上过程枯燥乏味，可能要花费数小时甚至几天的时间来完成。但请不要气馁，你所付出的努力终有一天能得到回应。
 
-The algorithm for timing speedups/slowdowns is slightly different:
+### 注意事项
 
-1. Find a place where the song's tempo changes. Set a new offset (if possible, on a white tick). Then, zoom in the timeline scale (Alt + wheel up or press the circular "+" button);
-2. Put a note two beats ahead of it with some hitsounds (for example, finish hitsound from soft [sampleset](/wiki/Client/Beatmap_editor/Compose)). Slow the playback rate down and listen to it a few times. Hold Shift and carefully move the note forward or backward on the timeline, then listen to it again. Repeat this until you find the best position for the note where it is in sync with the music;
-3. Highlight a note and double-click on it, making sure it did not shift by accident after you clicked it. Put a new offset right on it;
-4. Increase/decrease BPM of the previous offset, checking the difference between the tick before the new offset and the actual offset itself. Your goal is to remove the difference between these two by tweaking only the first section's BPM, so new section is placed exactly on the previous offset's tick.
-5. After you are done, return to Step 2.
+- **常备份你的谱面。** 如果对测定结果不满意，你也能够快速地恢复之前的草案。
 
-Repeat this until the BPM is synced with the slowdown. After that, you should resnap the notes and do some more testplays for debugging purposes. Although you'll probably need to move all the points after every change, fear not: very few of them will actually change, the rest will be only resnapped and put on the previous sections' last tick.
+- **常测试你的谱面。** 你可以请求他人测试，或是自己测试然后观看回放。注意击打偏差明显变化的地方，并考虑是否进一步细化测定这个地方的时间轴。
 
-### Improving result
+- **所有用于复杂时间轴测定的红线最好按照歌曲节拍细分对齐到歌曲内相应的位置。** 这有利于重置节拍，或是保留歌曲的结构印象。推荐使用 1/1、1/2、1/4 节拍细分来贴合直拍 (Straight Beat) 结构的歌曲，使用 1/1、1/3、1/6 节拍细分来贴合摇摆拍 (Swing Beat) 结构的歌曲。如果歌曲的节拍类型在特定位置与以上推荐有所不同，则应优先根据歌曲实际情况来添加红线。
 
-If you want extremely precise timing, it is definitely not over yet. You have to check and remove unnecessary offsets. To do this, we place notes throughout the map (you can assign a single pattern, and then copy it, watch just two notes from sticking together and got on the right ticks) and start playing. Any errors and inconsistency will require a fix, so do fix them in an appropriate manner, based on your feelings, or hit feedback, or timing experience, if you have any.
+- **所有用于复杂时间轴测定的红线不能随意更改拍子记号。** 拍子记号是由歌曲决定的。即使某些红线控制的时值不足一小节（四拍），也不应为了“对齐前后红线的大白线位置”而去更改它。
 
-This process is definitely tedious. Timing a beatmap with multitiming may take *hours*, depending on the amount of changes and tricky places. Also, you will have to test the same part of songs several times just to make sure it's not just you, test a half of the song in one run or jump back and forth between the same two or three parts. Yes, it is absolutely normal to do so; aim to nullify the hit error or make it as close to zero as possible, preferably less than 3-5 milliseconds. Intimating as it is, you should not be discouraged. Learn by making mistakes.
+- **应尽量简化你的时间轴。** 复杂时间轴的红线应以 1/1 频率为主。在音符较少的段落，可以按照 4/1 拍或 2/1 拍的频率添加红线。比 1/8 拍密集的红线通常是没有必要的。而且，即使密集的红线精准地对应上歌曲内每一个音符，玩家也可能因为复杂的 BPM 而很难取得完美的成绩。你也可以参考[这个视频（跳转到 YouTube）](https://youtu.be/nUHEPmg0sPo)来理解为什么不要过于细化时间轴。
 
-In the end, we should tell you some important tips:
+- **如果歌曲的复杂时间轴段落之后为一段稳定 BPM 的段落，则应添加一条用于重置节拍的红线。** 重置红线应加在[下拍](/wiki/Downbeat)的位置。这能使主页面脉冲特效恢复运作，也能为摆放物件或添加音效提供参考。
 
-- **Always backup your old timing before doing any changes.**
-  - Use bookmarks, copy the .osu file or timing code to Notepad, or write the BPM/Offset pair down on some paper, in the case that a change imposes a larger error.
-- **Resnap notes after timing changes.**
-- **Keep an eye on the test results.**
-- **Rely on other senses too, don't use your ears only.** Sometimes, the same part of the song can be perceived differently. In short, we must focus on the test results, and not entirely on your auditory nerves/hearing aids.
-- **Hit error which is less than, say, 3 ms means nothing and can be safely omitted.** You probably should start to worry when it grows up to 5−6 ms or more.
-- **Take a break.** Have a Kit-Kat. Doctor orders.
-- **Do not test the timing when playing a stream or jumps patterns; results can be inconsistent even if you are skilled.** Deconstruct complex pattern and use simple patterns for timing checks.
-  - However, make sure to **test it on the actual map** and not completely test it on a single set of copy-pasted notes.
-- **It is better to correctly and accurately time the BPM/Offset than follow the Time Signature.** This means that you can put a red line at any time, but only if it's required. If the line is not set on a strong beat, do a metronome reset as soon as possible, adding a new offset where the next strong beat should be. If the new offsets appear more often than once in two beats, it can be neglected.
-- **Do not rush to make new timing sections.** It is better to run the test several times, and then make sure that a new section is really necessary.
-  - Instead of a new offset (unless there's an actual shift) it is sometimes better to try to change current point's BPM; however, it is necessary to make sure that the beginning of the section remained timed correctly.
+- **如果可以，务必请他人检查时间轴。** 不同人对节奏或重拍的感受不一。参考他们的方案或建议来修改时间轴，找到一个被大多数人接受的方案，能提升玩家的游戏体验。
 
-## Epilogue
+- **若谱面完成度较高，请在复杂时间轴测定或修正时间轴之前关闭“更改 offset / BPM 时，自动把已经放好的物件对齐时间轴刻度”功能。** 这个功能常常会造成大范围的偏移错误，在复杂时间轴谱面内尤甚。
 
-You should only help with timing if:
+- **请在完成时间轴测定后，把谱面的所有物件重新对齐。** 若歌曲只有 1/1、1/2、1/3、1/4、1/6 或是 1/1、1/2、1/4、1/8 节奏，即可把节拍细分拉到 1/12 或是 1/16，同时使用编辑器自带的“重新对齐所有物件”功能。如果包含了更复杂的节奏（特别是 osu!mania 谱面），请在使用功能后手动对齐这些按照不受支持节拍细分放置的物件。
 
-- You personally have actual experience in timing.
-- The beatmap has significant timing errors (You got 175 BPM but the beatmap is 170 BPM).
-- You know what you are doing. Please do not rush to help with muilti timing, unless you are dead sure that you will be able to maintain and correct (if necessary) the result provided to the mapper all the way during the ranking process, and that the said result is correct or at least more accurate.
+- **若歌曲时间轴变化单一，或是歌曲前后都贴合某条红线确定的时间轴，但歌曲中间含有复杂变化的段落时，请尽量从后往前测定时间轴。** 这能有效消除由于 osu! 独特的向下取整机制而导致的 1ms 误差累积。
 
-That should be all you really need to know about timing beatmaps. Although this guide is written to decrease the amount of incorrectly timed beatmaps, it may not be perfect. Feel free to ask around if you are having any trouble, since timing is by no means a simple topic.
+- **请时常休息一下。** 测定复杂时间轴是一件很苦的工作。请不要累着自己。如果感到身体不适，请立即关闭游戏，必要时询问医生。
+
+## 结语
+
+你只应该在测定复杂时间轴这一方面很有经验，或是谱面时间轴出现明显错误（比如你测得 175 BPM 而谱面为 150 BPM）时才能帮助别人测定。你需要知道自己在做什么。若你不能保证帮助修正后的结果更加准确，或可能对谱面上架没有帮助时，请不要急着去帮助他人。
+
+以上就是关于如何测定歌曲时间轴的所有内容了。它可能不面面俱到，但请注意，测定时间轴并不是一件易事，请多积累经验或者多寻求帮助。
