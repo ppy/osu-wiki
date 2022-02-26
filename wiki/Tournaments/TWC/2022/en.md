@@ -98,7 +98,7 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 ### Tournament rules
 
-1. The osu!taiko World Cup is a country-based, 2 versus 2 team tournament, played on the osu!taiko game mode.
+1. The osu!taiko World Cup is a country-based 2 versus 2 team tournament, played on the osu!taiko game mode.
 2. Beatmap scoring is based on ScoreV2.
 3. The maps for each round will be announced by the mapset selectors on the Sunday before the actual matches take place. Only these will be used during the respective matches.
 4. The match schedule will be settled by the Tournament Management (see above).
