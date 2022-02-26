@@ -25,19 +25,19 @@ Nothing could convince you to try mapping these songs more than actually *hearin
 Try out [this osu! beatmap](https://osu.ppy.sh/beatmapsets/1703921) hosted by [Realazy](https://osu.ppy.sh/users/918297) and featuring guest difficulties from 5 other mappers!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/243/Songs/MisomyL%20-%20Amnehilesie.mp3" type="audio/mpeg">
 </audio>
 
 ### Coming☆True!!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/243/Songs/MisomyL%20-%20ComingTrue%21%21.mp3" type="audio/mpeg">
 </audio>
 
 ### Catalinésie
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/243/Songs/MisomyL%20-%20Catalinesie.mp3" type="audio/mpeg">
 </audio>
 
 ---
