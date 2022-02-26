@@ -28,7 +28,6 @@ People in the early Off-Topic days occasionally created threads dedicated to dan
 
 On 9 June 2017, [Ephemeral](https://osu.ppy.sh/users/102335) asserted a slightly different version of the tradition into the [Off-Topic rules](https://osu.ppy.sh/community/forums/topics/604424) by requiring people to post no less than 3 dancing anime girls on birthday threads. This made its way to osu!'s official rules [[7]][r] up until 11 November 2019, when it was removed in a [cleanup effort](https://github.com/ppy/osu-wiki/pull/2655), but it still stands in the Off-Topic subforum's rules.
 
-
 ### Exile
 
 **Exile** is an unofficial moderation concept introduced by [Ephemeral](https://osu.ppy.sh/users/102335) in [the grand edict thread](https://osu.ppy.sh/community/forums/topics/604424) in response to people repeatedly spamming the subforum and creating otherwise annoying content. The exile system is enforced by removing any threads, and sometimes posts, by the person who is exiled. It serves as an indicator that the person is on the verge of being heavily sanctioned by more official means of moderation.
@@ -67,15 +66,13 @@ This is a joke thread that has developed into OT Lore material. It is a great ex
 
 <https://osu.ppy.sh/community/forums/posts/7126163>
 
-
 ### Testing
 
 OT Lore material that creates an interesting improvised narrative involving a mega-teletubby god that wrecks havoc upon OT and denizen efforts to destroy it.
 
 <https://osu.ppy.sh/community/forums/posts/7549082>
 
-
-# References
+## References
 
 1. [Discussion for making a new subforum for forum games](https://osu.ppy.sh/community/forums/posts/80316)
 2. [peppy's announcement of the new subforum](https://osu.ppy.sh/community/forums/posts/8814)
