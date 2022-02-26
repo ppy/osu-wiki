@@ -205,7 +205,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | ![][flag_US] United States | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_VE] Venezuela | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] |
 | ![][flag_VN] Vietnam | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
-| **Total** | 13 | 17 | 21 | 20 | 24 | 24 | 24 | 24 | 32 | 32 | 32 | ??? |
+| **Total** | 13 | 17 | 21 | 20 | 24 | 24 | 24 | 24 | 32 | 32 | 32 | 37 |
 
 ### ![][osu!catch] osu!catch World Cup
 
