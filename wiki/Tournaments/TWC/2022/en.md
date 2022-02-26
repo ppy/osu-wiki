@@ -122,10 +122,10 @@ The osu!taiko World Cup 2022 is run by various community members.
       - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
     - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
 12. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
-    - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 3 participants must be present for the match to begin).
+    - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 2 participants must be present for the match to begin).
 13. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
 14. Exchanging players between games is allowed without limitations.
-15. **The minimum size for a team is 4 players, and the maximum is 6.**
+15. **The minimum size for a team is 3 players, and the maximum is 5.**
 16. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
 17. All players and staff must be treated with respect. Instructions from the referees and the Tournament Management are to be followed. Decisions labelled as final are not to be objected.
 18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
