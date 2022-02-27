@@ -4,18 +4,18 @@ title: "Project Loved: Community Survey"
 date: 2022-02-27 13:00:00 +0000
 ---
 
-With Project Loved going on for several years now, it's finally time to decide the future of the project.
+With Project Loved going on for several years now, it's time to decide the future of the category.
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-It's been about [4 years](https://osu.ppy.sh/community/forums/topics/703347) since the last time we've polled the community on the state of Project Loved and the Loved category in general. Recently there's been a lot of heated discussion among the team on where Project Loved should go in its future and we've realised we're lacking one critical component in our decision-making — your input — which is why we've set up a community survey for you to fill out and let us know how we're doing and how we should move forward in the future.
+It's been about [4 years](https://osu.ppy.sh/community/forums/topics/703347) since the last time we've polled the community on the state the Loved category. With recent discussion among the Project Loved team, now is the perfect time for us to hear your input once again, so we've set up a community survey for you to let us know how we should move forward.
 
 - [**Click here to participate in the survey!**](https://loved.sh/survey/community-feedback-february-2022)
 
-The Project Loved survey is meant to be all-encompasing and it should take no more than 10 minutes to complete, so if you want to weigh in on your thoughts with the category, now is the perfect time for it. Your opinion is very critical to us if we want to take the best steps forward that we possibly can.
+The survey is meant to be all-encompassing, and it should take no more than 5 minutes to complete.
 
-If you would also like to contribute in more nuanced discussion regarding Project Loved, we have a few different avenues for you to get involved. First and foremost would be the [osu!dev Discord server](https://discord.gg/ppy) in the `#osu-loved` channel. We also have a dedicated [forum thread](https://osu.ppy.sh/community/forums/topics/1526909) for discussing things further that wasn't covered in the survey. We will try to keep our ears to the ground for all different kinds of Project Loved feedback, so be sure to get involved!
+If you would also like to raise discussion regarding anything mentioned in the survey or about Project Loved in general, the best place to do so would be the [osu!dev Discord server](https://discord.gg/ppy) in the `#osu-loved` channel. This is where you can interact directly with the official team behind Project Loved. We also have a dedicated [forum thread](https://osu.ppy.sh/community/forums/topics/1526909) for elaborating on your thoughts.
 
-We'll be making the results of this survey visible sometime before the **April 2022** round of Project Loved. This should be plenty of time for everyone to weigh in with their thoughts so we'll be eagerly waiting for what you'll have to say!
+The results of this survey will be visible before the **April 2022** round of Project Loved. This will allow the Project Loved team to discuss the survey results and make appropriate changes to the category. Every voice will be heard, so don't hesitate to give us your honest feedback! Thank you for your interest in making the Loved category a better place. <3
 
-—huu
+—huu and DigitalHypno
