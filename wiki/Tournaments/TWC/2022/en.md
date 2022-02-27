@@ -125,7 +125,7 @@ The osu!taiko World Cup 2022 is run by various community members.
     - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 2 participants must be present for the match to begin).
 13. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
 14. Exchanging players between games is allowed without limitations.
-15. **The minimum size for a team is 3 players, and the maximum is 5.**
+15. **The minimum size for a team is 3 players, and the maximum is 6.**
 16. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
 17. All players and staff must be treated with respect. Instructions from the referees and the Tournament Management are to be followed. Decisions labelled as final are not to be objected.
 18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
@@ -137,7 +137,8 @@ The osu!taiko World Cup 2022 is run by various community members.
     - Disqualification from the entire tournament.
     - Disqualification from the current and future official tournaments, until appealed.
 20. Referees may allow, at their discretion, lower or higher tolerances for timers.
-21. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
+21. The Tournament Management may request liveplays or recordings of individual players or teams at any point.
+22. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Tournament registration
 
