@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 17ba49c633b089fe88acb7d5d32ac0460e5d65fe
+---
+
 # osu!mania ranking criteria
 
 **osu!mania Ranking Criteria** 是一系列关于创建 osu!mania 模式谱面的规定和准则。为了使 osu!mania 模式谱面被 ranked，谱面必须遵循以下列出的标准。**规定在任何情况下都须遵守**，而在例外情况下可以违反准则。这些例外情况必须能够详细解释，说明违反准则的原因，以及不违反准则将如何影响谱面的整体质量。
