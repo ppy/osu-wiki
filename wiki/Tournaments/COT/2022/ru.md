@@ -68,7 +68,7 @@ COT 2022 организован различными членами сообще
 
 Полный список участников есть в гугл-доке в разделе [Игроки](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS_Sx4MyWdGOYD9raofZ46uomMbVW6wm48/edit#gid=749874175).
 
-## Mappools
+## Маппулы
 
 ### Финал
 
@@ -87,7 +87,7 @@ COT 2022 организован различными членами сообще
   3. [Falcom Sound Team jdk - Seductive Shudder (jonathanlfj) \[Bewitching OWC\]](https://osu.ppy.sh/beatmapsets/1306626#fruits/2709094)
   4. [sky_delta - Kreuz (Side) \[Irre's Extra\]](https://osu.ppy.sh/beatmapsets/347551#fruits/832346)
 - HardRock
-  1. [*namirin - Koishiteiku Planet (Absolute Zero) \[Team Russia's Overdose\]](https://osu.ppy.sh/beatmapsets/1045892#fruits/2186433)
+  1. [\*namirin - Koishiteiku Planet (Absolute Zero) \[Team Russia's Overdose\]](https://osu.ppy.sh/beatmapsets/1045892#fruits/2186433)
   2. [HyuN feat. JeeE - Fallen Angel (autofanboy) \[Nelly's Overdose\]](https://osu.ppy.sh/beatmapsets/1141049#fruits/2621371)
   3. [BPM15Q - GOOD LUCK (Venyera) \[alacat's Insane\]](https://osu.ppy.sh/beatmapsets/1123764#fruits/2894585)
   4. [Diana Boncheva - Purple Passion (lkx_Shore) \[Extra\]](https://osu.ppy.sh/beatmapsets/102763#fruits/271303)
@@ -124,9 +124,9 @@ COT 2022 организован различными членами сообще
 - Tiebreaker
   1. **[Fuki - Bloody Rain (Secre) \[Minazuki\]](https://osu.ppy.sh/beatmapsets/1361523#fruits/2817264)**
 
-**[Скачать маппак можно здесь! (97 MB)](https://drive.google.com/file/d/1t9AJvgGRbzPtFsT-Mv_AytiCeeJts6JX/view)**
-
 ### Четвертьфинал
+
+**[Скачать маппак можно здесь! (97 MB)](https://drive.google.com/file/d/1t9AJvgGRbzPtFsT-Mv_AytiCeeJts6JX/view)**
 
 - NoMod
   1. [Ishiwatari Daisuke - Marionette (JierYagtama) \[Magnum Wedding\]](https://osu.ppy.sh/beatmapsets/1520757#fruits/3112432)
@@ -149,7 +149,7 @@ COT 2022 организован различными членами сообще
 - Tiebreaker
   1. **[Yooh - salvation (alienflybot) \[crucifixion\]](https://osu.ppy.sh/beatmapsets/840189#fruits/1758740)**
 
-### 1/8 финала
+### 1/8 раунда
 
 **[Скачать маппак можно здесь! (98 MB)](https://drive.google.com/file/d/10C-hdYsGe2NeFt-RmYIW0a_LBhFXKisL/view)**
 
@@ -229,7 +229,7 @@ COT 2022 организован различными членами сообще
 | Нижняя | **[vafara](https://osu.ppy.sh/users/18917363)** ![][flag_RU] | **6** | 0 | ![][flag_LV] [Soruki](https://osu.ppy.sh/users/11762423) | [#1](https://osu.ppy.sh/community/matches/98240517) |
 | Нижняя | [vafara](https://osu.ppy.sh/users/18917363) ![][flag_RU] | 4 | **6** | ![][flag_RU] **[Kenny331](https://osu.ppy.sh/users/11762423)** | [#1](https://osu.ppy.sh/community/matches/98242204) |
 
-### Quarterfinals
+### Полуфинал
 
 Суббота, 19 февраля 2022:
 
@@ -256,46 +256,6 @@ COT 2022 организован различными членами сообще
 | Нижняя | **[dark rainbow](https://osu.ppy.sh/users/10557830)** ![][flag_RU] | **5** | 4 | ![][flag_RU] [Mazuki](https://osu.ppy.sh/users/15208771) | [#1](https://osu.ppy.sh/community/matches/97995303) |
 | Нижняя | **[yuinn](https://osu.ppy.sh/users/11239593)** ![][flag_RU] | **5** | 1 | ![][flag_UA] [Shadowbolts1](https://osu.ppy.sh/users/13962882) | [#1](https://osu.ppy.sh/community/matches/97998932) |
 | Нижняя | **[Soruki](https://osu.ppy.sh/users/11762423)** ![][flag_RU] | **5** | 0 | ![][flag_UA] [Violet Feets](https://osu.ppy.sh/users/15558360) | *выигран по умолчанию* |
-
-### Round of 16
-
-Суббота, 12 февраля 2022:
-
-| Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Верхняя | **[Memoriola](https://osu.ppy.sh/users/6856387)** ![][flag_RU] | **5** | 0 | ![][flag_UA] [Shadowbolts1](https://osu.ppy.sh/users/13962882) | [#1](https://osu.ppy.sh/community/matches/97691557) |
-| Верхняя | **[cosilgam](https://osu.ppy.sh/users/15960747)** ![][flag_RU] | **5** | 4 | ![][flag_LV] [Soruki](https://osu.ppy.sh/users/11762423) | [#1](https://osu.ppy.sh/community/matches/97693687) |
-| Верхняя | [BocDyx](https://osu.ppy.sh/users/7926192) ![][flag_RU] | 1 | **5** | ![][flag_RU] **[Kenny331](https://osu.ppy.sh/users/11534285)** | [#1](https://osu.ppy.sh/community/matches/97695862) |
-| Верхняя | **[vafara](https://osu.ppy.sh/users/18917363)** ![][flag_RU] | **5** | 4 | ![][flag_RU] [yuinn](https://osu.ppy.sh/users/11239593) | [#1](https://osu.ppy.sh/community/matches/97700538) |
-
-Воскресенье, 13 февраля 2022:
-
-| Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Верхняя | **[FruktoLove](https://osu.ppy.sh/users/8417087)** ![][flag_UA] | **5** | 0 | ![][flag_UA] [Violet Feets](https://osu.ppy.sh/users/15558360) | [#1](https://osu.ppy.sh/community/matches/97736110) |
-| Верхняя | **[KitsunIvy](https://osu.ppy.sh/users/7055384)** ![][flag_RU] | **5** | 0 | ![][flag_RU] [catch the ExGon](https://osu.ppy.sh/users/12081746) | [#1](https://osu.ppy.sh/community/matches/97738074) |
-| Верхняя | [dark rainbow](https://osu.ppy.sh/users/10557830) ![][flag_RU] | 0 | **5** | ![][flag_UA] **[[-Nyaruko-]](https://osu.ppy.sh/users/13712671)** | [#1](https://osu.ppy.sh/community/matches/97740096) |
-| Верхняя | **[Nelly](https://osu.ppy.sh/users/4741164)** ![][flag_RU] | **5** | 0 | ![][flag_RU] [Mazuki](https://osu.ppy.sh/users/15208771) | [#1](https://osu.ppy.sh/community/matches/97741940) |
-
-### Round of 24
-
-Суббота, 5 февраля 2022:
-
-| Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Верхняя | **[Violet Feets](https://osu.ppy.sh/users/15558360)** ![][flag_UA] | **5** | 2 | ![][flag_RU] [vinnikoish](https://osu.ppy.sh/users/14509580) | [#1](https://osu.ppy.sh/community/matches/97417909) |
-| Верхняя | **[Kenny331](https://osu.ppy.sh/users/11534285)** ![][flag_RU] | **5** | 0 | ![][flag_RU] [HAWAIIPIZZA](https://osu.ppy.sh/users/17668833) | *выигран по умолчанию* |
-| Верхняя | [mirofantasm](https://osu.ppy.sh/users/6650048) ![][flag_RU] | 1 | **5** | ![][flag_RU] **[catch the ExGon](https://osu.ppy.sh/users/12081746)** | [#1](https://osu.ppy.sh/community/matches/97425915) |
-| Верхняя | **[[-Nyaruko-]](https://osu.ppy.sh/users/13712671)** ![][flag_UA] | **5** | 1 | ![][flag_RU] [PedobeerKoroche](https://osu.ppy.sh/users/19389015) | [#1](https://osu.ppy.sh/community/matches/97428394) |
-
-Воскресенье, 6 февраля 2022:
-
-| Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Верхняя | **[Shadowbolts1](https://osu.ppy.sh/users/13962882)** ![][flag_UA] | **5** | 3 | ![][flag_UA] [NamakemonsteR](https://osu.ppy.sh/users/17314832) | [#1](https://osu.ppy.sh/community/matches/97464444) |
-| Верхняя | **[yuinn](https://osu.ppy.sh/users/11239593)** ![][flag_RU] | **5** | 0 | ![][flag_LV] [oFKors01](https://osu.ppy.sh/users/26522965) | [#1](https://osu.ppy.sh/community/matches/97468931) |
-| Верхняя | **[Soruki](https://osu.ppy.sh/users/11762423)** ![][flag_LV] | **5** | 0 | ![][flag_RU] [yoraze](https://osu.ppy.sh/users/18240388) | [#1](https://osu.ppy.sh/community/matches/97470519) |
-| Верхняя | **[Mazuki](https://osu.ppy.sh/users/15208771)** ![][flag_RU] | **5** | 2 | ![][flag_RU] [liquid_boba](https://osu.ppy.sh/users/11694783) | [#1](https://osu.ppy.sh/community/matches/97472770) |
 
 ### 1/8 раунда
 
