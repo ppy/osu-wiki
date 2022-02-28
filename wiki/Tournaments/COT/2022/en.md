@@ -209,7 +209,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
 
 ### Semifinals
 
-Saturday, 26th February 2022:
+Saturday, 26 February 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -228,7 +228,7 @@ Sunday, 27th February 2022:
 
 ### Quarterfinals
 
-Saturday, 19th February 2022:
+Saturday, 19 February 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -242,7 +242,7 @@ Saturday, 19th February 2022:
 | Lower | **[Mazuki](https://osu.ppy.sh/users/15208771)** ![][flag_RU] | **5** | 0 | ![][flag_LV] [oFKors01](https://osu.ppy.sh/users/26522965) | *win by default* |
 | Lower | **[Shadowbolts1](https://osu.ppy.sh/users/13962882)** ![][flag_UA] | **5** | 0 | ![][flag_RU] [PedobeerKoroche](https://osu.ppy.sh/users/19389015) | *win by default* |
 
-Sunday, 20th February 2022:
+Sunday, 20 February 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
