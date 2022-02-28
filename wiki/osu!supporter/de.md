@@ -35,7 +35,7 @@ Wenn du bereit bist, den Kauf zu tätigen, gehe zu deinem [Warenkorb](https://os
 Nachdem die Transaktion abgeschlossen ist, wird in deinem Account (wenn du es für dich selbst gekauft hast) oder auf den Accounts, an die du ein Geschenk gemacht hast, unter `Neulich` Folgendes angezeigt:
 
 - `{username} ist zum osu! Supporter geworden - vielen Dank für deine Großzügigkeit!`, wenn es das erste Mal ist, dass dieser Account osu!supporter erhält.
-- `{username} hat sich erneut dazu entschieden, osu! zu unterstützen - vielen Dank für deine Großzügigkeit!` wenn der Account bereits vorher osu!supporter war.
+- `{username} hat sich erneut dazu entschieden, osu! zu unterstützen - vielen Dank für deine Großzügigkeit!`, wenn der Account bereits vorher osu!supporter war.
 
 ### Benutzerseite und Benutzerkarte
 
