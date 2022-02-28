@@ -12,7 +12,7 @@ Im Allgemeinen unterstützt du durch den Kauf des osu!supporter-Tags direkt die 
 
 ![osu!store Produktbanner](img/store-product.jpg?1 "osu!supporter Produktbanner aus dem osu!store")
 
-Um osu!supporter zu erhalten, melde dich an (oder [registriere dich](/wiki/Registration)) und gehe dann auf die [Shop-Seite](https://osu.ppy.sh/store/products/supporter-tag). Verwende den Schieberegler oder die Monatsschaltflächen (unterhalb des Schiebereglers), um die Dauer des osu!supporter-Tags auszuwählen. Bei einer anderen Dauer ändert sich der Preis, den du zahlen musst. Die Währung ist der amerikanische Dollar (USD). Wenn dein Land eine andere Währung verwendet, benutze bitte einen Währungsrechner wie [OANDA](https://www.oanda.com/currency/converter/) oder [Google](https://www.google.com/search?q=usd+wechselkurs), um den Preis zu überprüfen. Die auf der osu!store Seite angezeigten Preise gelten für jeden einzelnen Account.
+Um osu!supporter zu erhalten, melde dich an (oder [registriere dich](/wiki/Registration)) und gehe dann auf die [Shop-Seite](https://osu.ppy.sh/store/products/supporter-tag). Verwende den Schieberegler oder die Monatsauswahl (unterhalb des Schiebereglers), um die Dauer des osu!supporter-Tags auszuwählen. Bei einer anderen Dauer ändert sich der Preis, den du zahlen musst. Die Währung ist der amerikanische Dollar (USD). Wenn dein Land eine andere Währung verwendet, benutze bitte einen Währungsrechner wie [OANDA](https://www.oanda.com/currency/converter/) oder [Google](https://www.google.com/search?q=usd+wechselkurs), um den Preis zu überprüfen. Die auf der osu!store-Seite angezeigten Preise gelten für jeden einzelnen Account.
 
 ### Auswählen der Dauer
 
@@ -34,7 +34,7 @@ Wenn du bereit bist, den Kauf zu tätigen, gehe zu deinem [Warenkorb](https://os
 
 Nachdem die Transaktion abgeschlossen ist, wird in deinem Account (wenn du es für dich selbst gekauft hast) oder auf den Accounts, an die du ein Geschenk gemacht hast, unter `Neulich` Folgendes angezeigt:
 
-- `{username} ist zum osu! Supporter geworden - vielen Dank für deine Großzügigkeit!` wenn es das erste Mal ist, dass dieser Account osu!supporter erhält.
+- `{username} ist zum osu! Supporter geworden - vielen Dank für deine Großzügigkeit!`, wenn es das erste Mal ist, dass dieser Account osu!supporter erhält.
 - `{username} hat sich erneut dazu entschieden, osu! zu unterstützen - vielen Dank für deine Großzügigkeit!` wenn der Account bereits vorher osu!supporter war.
 
 ### Benutzerseite und Benutzerkarte
@@ -52,4 +52,4 @@ Das osu!supporter Abzeichen ändert sich, je nachdem, wie lange du das Spiel unt
 
 *Tipp: Dieser Abschnitt wird nur angezeigt, nachdem du osu!supporter erhalten hast.
 
-Um deinen verbleibenden osu!supporter-Tag-Status und die Gesamtsumme der Beiträge und Tag-Käufe zu überprüfen, gehe auf die Seite [Das Spiel unterstützen](https://osu.ppy.sh/home/support) und scrolle nach unten, um einen ähnlichen Bereich wie oben abgebildet zu sehen.
+Um den Status deines verbleibenden osu!supporter-Tags und die Gesamtsumme der Beiträge und Tag-Käufe zu überprüfen, gehe auf die Seite [Das Spiel unterstützen](https://osu.ppy.sh/home/support) und scrolle nach unten, um einen ähnlichen Bereich wie oben abgebildet zu sehen.
