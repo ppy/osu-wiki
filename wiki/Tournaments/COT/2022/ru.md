@@ -87,7 +87,7 @@ COT 2022 организован различными членами сообще
   3. [Falcom Sound Team jdk - Seductive Shudder (jonathanlfj) \[Bewitching OWC\]](https://osu.ppy.sh/beatmapsets/1306626#fruits/2709094)
   4. [sky_delta - Kreuz (Side) \[Irre's Extra\]](https://osu.ppy.sh/beatmapsets/347551#fruits/832346)
 - HardRock
-  1. [*namirin - Koishiteiku Planet (Absolute Zero) \[Team Russia's Overdose\]](https://osu.ppy.sh/beatmapsets/1045892#fruits/2186433)
+  1. [\*namirin - Koishiteiku Planet (Absolute Zero) \[Team Russia's Overdose\]](https://osu.ppy.sh/beatmapsets/1045892#fruits/2186433)
   2. [HyuN feat. JeeE - Fallen Angel (autofanboy) \[Nelly's Overdose\]](https://osu.ppy.sh/beatmapsets/1141049#fruits/2621371)
   3. [BPM15Q - GOOD LUCK (Venyera) \[alacat's Insane\]](https://osu.ppy.sh/beatmapsets/1123764#fruits/2894585)
   4. [Diana Boncheva - Purple Passion (lkx_Shore) \[Extra\]](https://osu.ppy.sh/beatmapsets/102763#fruits/271303)
