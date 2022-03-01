@@ -197,9 +197,14 @@ Team A represent Blue Team while Team B represnt Red Team.
 | Assmen | Team Pixula | Feb 20 (Sun) 21:00 UTC | ² |
 
 ¹ Winner bracket match  
-² Losers bracket match
+² Losers bracket match  
+³ 
 
 ## Mappools
+
+### Semi Finals
+
+### Quarter Finals 
 
 ### Round of 16
 
@@ -255,6 +260,9 @@ Team A represent Blue Team while Team B represnt Red Team.
   5. [Kyou1110 - Revavavavava Ideoloololololololo (\_-Deepdive-) \[Stage 5: Reverse Ideology\]](https://osu.ppy.sh/beatmapsets/1681566#mania/3435287)
 
 ## Match results
+
+### Round of 16
+
 
 
 ### Round of 32
