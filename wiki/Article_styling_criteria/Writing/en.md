@@ -1,7 +1,6 @@
 # Writing
 
-*For the formatting standards, see: [Article style criteria/Formatting](../Formatting)*
-
+*For the formatting standards, see: [Article style criteria/Formatting](../Formatting)*\
 *Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.*
 
 All English articles must use plain English.

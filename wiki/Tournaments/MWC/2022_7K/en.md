@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2022 banner](/wiki/shared/news/2021-12-16-osu-mania-7k-world-cup-2022-registrations-now-open/mwc7k-2022-banner.jpg)
 
-The **osu!mania 7K World Cup 2022** (***MWC 7K 2022***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the sixth instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2022** (***MWC 7K 2022***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -33,15 +33,17 @@ The **osu!mania 7K World Cup 2022** (***MWC 7K 2022***) is a country-based osu! 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge |
 
+![](img/mwc7k-2022-badge-1st.jpg "MWC 7K 2022 winner badge") ![](img/mwc7k-2022-badge-2nd.jpg "MWC 7K 2022 2nd place badge") ![](img/mwc7k-2022-badge-3rd.jpg "MWC 7K 2022 3rd place badge")
+
 ## Organisation
 
-The osu!mania 7K 2022 is run by the osu! team and various community members.
+The osu!mania 7K 2022 was run by the osu! team and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Mappool selector | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750) |
-| Commentator | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_US] [-Sparky-](https://osu.ppy.sh/users/3187959) |
+| Commentator | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_US] [-Sparky-](https://osu.ppy.sh/users/3187959) |
 | Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 
@@ -94,23 +96,9 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 | ![][flag_GB] | **United Kingdom** | **[Vygatron](https://osu.ppy.sh/users/3628783)**, [username1947](https://osu.ppy.sh/users/16162078), [Lelloq](https://osu.ppy.sh/users/8610776), [aid\_](https://osu.ppy.sh/users/12808079) |
 | ![][flag_US] | **United States** | **[Alter-](https://osu.ppy.sh/users/4980256)**, [Terni](https://osu.ppy.sh/users/3279570), [\[GS\]Teo](https://osu.ppy.sh/users/7081478), [RevVoJH](https://osu.ppy.sh/users/7286896) |
 
-## Match schedule: Grand Finals
+## Podium
 
-### Saturday, February 19, 2022
-
-| Team A | | | Team B | Match time | Local time A | Local time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Malaysia | ![][flag_MY] | ![][flag_CN] | China | Feb 19 (Sat) 12:00 UTC | Feb 19 (Sat) 20:00 UTC+8 | Feb 19 (Sat) 20:00 UTC+8 | ¹ |
-
-### Sunday, February 20, 2022
-
-| Team A | | | Team B | Match time | Local time A | Local time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_MY] | Malaysia | Feb 20 (Sun) 10:00 UTC | Feb 20 (Sun) 19:00 UTC+9 | Feb 20 (Sun) 18:00 UTC+8 | ² |
-| South Korea | ![][flag_KR] | ![][flag_CN] | China | Feb 20 (Sun) 10:00 UTC | Feb 20 (Sun) 19:00 UTC+9 | Feb 20 (Sun) 18:00 UTC+8 | ² |
-
-¹ Losers bracket match\
-² Potential match: final matchup depends on the results of ¹
+![](img/mwc7k-2022-podium.jpg "MWC 7K 2022 podium")
 
 ## Mappools
 
@@ -249,6 +237,22 @@ The osu!mania 7K 2022 is run by the osu! team and various community members.
 8. [technoplanet - Intuition (Evening) \[Stage 8: Advent of Colour\]](https://osu.ppy.sh/beatmapsets/1670397#mania/3411676)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1gdewLAAcyRTfBm-0oWvEcoH4-2ZSvisVA4npuxfAATk/edit?rm=minimal).
+
+Saturday, February 19, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Malaysia ![][flag_MY] | 1 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/97947404) |
+
+Sunday, February 20, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/97990489) |
 
 ### Finals
 

@@ -103,16 +103,16 @@ Le interazioni sociali sono una delle cose principali che alimentano i giocatori
 
 [Progetti](/wiki/Community/Projects): [Artisti in evidenza](/wiki/Featured_Artists) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
+Organizzazioni: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Persone
+# [Persone](/wiki/People)
 
 osu! non sarebbe stato possibile senza i molti utenti che aiutano con lo sviluppo, la manutenzione, e la gestione della comunità: i loro sforzi, tempo, e dedizione fanno vivere e prosperare il gioco.
 
 [Il Team](/wiki/People/The_Team): [Sviluppatori](/wiki/People/The_Team/Developers) • [Team di Moderazione Globale](/wiki/People/The_Team/Global_Moderation_Team) • [Team di Supporto](/wiki/People/The_Team/Support_Team) • [Team di Valutazione Nomine](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominatori di Beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Team Progetto Amata](/wiki/People/The_Team/Project_Loved_Team)
-
-Organizzazioni: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [Collaboratri della Comunità](/wiki/People/Community_Contributors) • [Utenti con titoli unici](/wiki/People/Users_with_unique_titles)
 
